@@ -9,11 +9,11 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 from fake_useragent import UserAgent
 
-DOWNLOAD_DIR_MAC = "./tmp"
+DOWNLOAD_DIR_MAC = './tmp'
 
 def wait_for_downloads():
     time.sleep(1)
-    while any([filename.endswith(".crdownload") for filename in
+    while any([filename.endswith('.crdownload') for filename in
                os.listdir(DOWNLOAD_DIR_MAC)]):
         time.sleep(1)
 
@@ -24,12 +24,12 @@ class Selenium_Driver(object):
         options = ChromeOptions()
         userAgent = UserAgent().random
         options.add_argument(f'user-agent = { userAgent }')
-        options.add_argument("--headless=chrome")
+        options.add_argument('--headless=chrome')
         options.add_experimental_option('prefs',  {
-            "download.default_directory": DOWNLOAD_DIR_MAC,
-            "download.prompt_for_download": False,
-            "download.directory_upgrade": True,
-            "plugins.always_open_pdf_externally": True
+            'download.default_directory': DOWNLOAD_DIR_MAC,
+            'download.prompt_for_download': False,
+            'download.directory_upgrade': True,
+            'plugins.always_open_pdf_externally': True
             }
         )
 
@@ -45,7 +45,7 @@ class Selenium_Driver(object):
         try:
             return json.loads(response[response.index('{'):response.index('}') + 1])
         except json.decoder.JSONDecodeError:
-            print(response)
+            print('Error with response, maybe blocked by Cloudflare...')
             return {}
 
     def get_file(self, url):

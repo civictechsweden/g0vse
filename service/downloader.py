@@ -1,18 +1,19 @@
 import urllib
+import time
 
 from service.selenium_driver import Selenium_Driver
 from service.web_parser import WebParser
 
-REGERING_URL = "https://www.regeringen.se"
-REGERING_QUERY_URL = REGERING_URL + "/Filter/GetFilteredItems?"
+REGERING_URL = 'https://www.regeringen.se'
+REGERING_QUERY_URL = REGERING_URL + '/Filter/GetFilteredItems?'
 
 def parameters(page_size, page_number):
     params = {
-        "lang": "sv",
-        "filterType": "Taxonomy",
-        "displayLimited": True,
-        "pageSize": page_size,
-        "page": page_number,
+        'lang': 'sv',
+        'filterType': 'Taxonomy',
+        'displayLimited': False,
+        'pageSize': page_size,
+        'page': page_number,
     }
     return urllib.parse.urlencode(params)
 
@@ -24,7 +25,7 @@ class Downloader(object):
     def get_amount(self):
         response = self.d.get_json(REGERING_QUERY_URL + parameters(1, 1))
 
-        return response["TotalCount"]
+        return response['TotalCount']
 
     def get_latest_items(self, amount):
         if amount > 1000:
@@ -36,15 +37,26 @@ class Downloader(object):
         page_amount = amount // 1000 + 1
 
         latest_items = []
+        codes = {}
 
         for page_number in range(1, page_amount + 1):
-            latest_items.extend(self.get_items_for_page(page_size, page_number))
+            page_items, page_codes = self.get_items_for_page(page_size, page_number)
+            latest_items.extend(page_items)
+            codes.update(page_codes)
 
-        return latest_items
+        return latest_items, codes
 
     def get_items_for_page(self, page_size, page_number):
         print(f'Fetching page {page_number}...')
         url = REGERING_QUERY_URL + parameters(page_size, page_number)
         contents = self.d.get_json(url)
 
-        return WebParser.get_document_list(contents)
+        data, codes = WebParser.get_document_list(contents)
+
+        if not data:
+            print('Failed, retrying...')
+            time.sleep(1)
+            return self.get_items_for_page(page_size, page_number)
+
+        return data, codes
+
