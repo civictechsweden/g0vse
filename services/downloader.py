@@ -1,19 +1,20 @@
 import urllib
 import time
 
-from service.selenium_driver import Selenium_Driver
-from service.web_parser import WebParser
+from services.selenium_driver import Selenium_Driver
+from services.web_parser import WebParser
 
-REGERING_URL = 'https://www.regeringen.se'
-REGERING_QUERY_URL = REGERING_URL + '/Filter/GetFilteredItems?'
+REGERING_URL = "https://www.regeringen.se"
+REGERING_QUERY_URL = REGERING_URL + "/Filter/GetFilteredItems?"
+
 
 def parameters(page_size, page_number):
     params = {
-        'lang': 'sv',
-        'filterType': 'Taxonomy',
-        'displayLimited': False,
-        'pageSize': page_size,
-        'page': page_number,
+        "lang": "sv",
+        "filterType": "Taxonomy",
+        "displayLimited": False,
+        "pageSize": page_size,
+        "page": page_number,
     }
     return urllib.parse.urlencode(params)
 
@@ -25,11 +26,11 @@ class Downloader(object):
     def get_amount(self):
         response = self.d.get_json(REGERING_QUERY_URL + parameters(1, 1))
 
-        return response['TotalCount']
+        return response["TotalCount"]
 
     def get_latest_items(self, amount):
         if amount > 1000:
-            print('Trying to fetch more than 1000 items, segmenting the requests...')
+            print("Trying to fetch more than 1000 items, segmenting the requests...")
             page_size = 1000
         else:
             page_size = amount
@@ -47,16 +48,15 @@ class Downloader(object):
         return latest_items, codes
 
     def get_items_for_page(self, page_size, page_number):
-        print(f'Fetching page {page_number}...')
+        print(f"Fetching page {page_number}...")
         url = REGERING_QUERY_URL + parameters(page_size, page_number)
         contents = self.d.get_json(url)
 
         data, codes = WebParser.get_document_list(contents)
 
         if not data:
-            print('Failed, retrying...')
+            print("Failed, retrying...")
             time.sleep(1)
             return self.get_items_for_page(page_size, page_number)
 
         return data, codes
-
