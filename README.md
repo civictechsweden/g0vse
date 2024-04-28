@@ -1,6 +1,6 @@
 # g0vse
 
-![](./g0vse.png)
+![Logo of the g0vse project](./g0vse.png)
 
 g0vse is a project aiming to make the information available on the Swedish government's website ([regeringen.se](https://www.regeringen.se)) more accessible.
 
@@ -20,9 +20,9 @@ The hope of this project is that it won't be needed once the government's websit
 
 The data is made available through three static APIs:
 
-- [/api/items.json](https://github.com/PierreMesure/g0vse/raw/master/api/items.json), a complete list of the pages fetched from the website
-- [/api/codes.json](https://github.com/PierreMesure/g0vse/raw/master/api/codes.json), a list of codes used to understand the content of the page and its sender
-- [/api/latest_updated.json](https://github.com/PierreMesure/g0vse/raw/master/api/latest_updated.json), some info about the number of items and when the data was last updated
+- [/api/items.json](https://github.com/civictechsweden/g0vse/raw/master/api/items.json), a complete list of the pages fetched from the website
+- [/api/codes.json](https://github.com/civictechsweden/g0vse/raw/master/api/codes.json), a list of codes used to understand the content of the page and its sender
+- [/api/latest_updated.json](https://github.com/civictechsweden/g0vse/raw/master/api/latest_updated.json), some info about the number of items and when the data was last updated
 
 License is CC0 for the last two files, but it's unclear for the first one as Sweden doesn't have a modern law for access to public information where a default license could be specified and the government chancellery hasn't provided one either. In practice, it's safe to reuse.
 
