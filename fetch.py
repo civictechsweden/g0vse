@@ -32,6 +32,7 @@ if just_fetch_new:
 
     to_fetch = abs(amount_online - amount_saved) + 10
 
+print(f"Fetching the latest {to_fetch} items...")
 now = datetime.now(ZoneInfo("Europe/Stockholm")).strftime("%Y-%m-%d %H:%M:%S")
 new_items, new_codes = downloader.get_latest_items(to_fetch)
 
