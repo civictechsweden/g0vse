@@ -1,0 +1,24 @@
+name: Download new pages from regeringen.se
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 3 * * *' # 1AM every 1st of the month
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+        cache: 'pip'
+    - run: pip install -r requirements.txt
+    - name: Fetch the data
+      run: python fetch.py
+    - name: Commit and Push
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add .
+          git commit -m "Update the data"
+          git push
