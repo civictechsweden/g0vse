@@ -45,6 +45,15 @@ class Downloader(object):
             latest_items.extend(page_items)
             codes.update(page_codes)
 
+        for i, item in enumerate(latest_items):
+            if not item["published"] and i != 0:
+                previous_item = latest_items[i - 1]
+                latest_items[i]["published"] = (
+                    previous_item["updated"]
+                    if previous_item["updated"]
+                    else previous_item["published"]
+                )
+
         return latest_items, codes
 
     def get_items_for_page(self, page_size, page_number):
