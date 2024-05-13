@@ -42,10 +42,28 @@ class Selenium_Driver(object):
 
     def get(self, url):
         self.d.get(url)
+
+        title = self.d.title
+        source = self.d.page_source
+        if "Just a moment..." in title:
+            print("Blocked by Cloudflare, waiting 3 seconds...")
+            time.sleep(3)
+            return self.get(url)
+        elif "The service is unavailable." in source:
+            print("Page unavailable, waiting 60 seconds...")
+            time.sleep(60)
+            return self.get(url)
+        elif "Sidan kan inte hittas" in self.d.title:
+            print(f"404: Could not download file from {url}")
+            return None
+
         return self.d.page_source
 
     def get_json(self, url):
         response = self.get(url)
+
+        if not response:
+            return {}
 
         try:
             return json.loads(response[response.index("{") : response.index("}") + 1])

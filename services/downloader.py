@@ -69,3 +69,6 @@ class Downloader(object):
             return self.get_items_for_page(page_size, page_number)
 
         return data, codes
+
+    def get_webpage(self, path):
+        return self.d.get(REGERING_URL + path)
