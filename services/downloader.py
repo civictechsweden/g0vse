@@ -2,7 +2,7 @@ import urllib
 import time
 
 from services.selenium_driver import Selenium_Driver
-from services.web_parser import WebParser
+from services.web_parser import get_document_list
 
 REGERING_URL = "https://www.regeringen.se"
 REGERING_QUERY_URL = REGERING_URL + "/Filter/GetFilteredItems?"
@@ -61,7 +61,7 @@ class Downloader(object):
         url = REGERING_QUERY_URL + parameters(page_size, page_number)
         contents = self.d.get_json(url)
 
-        data, codes = WebParser.get_document_list(contents)
+        data, codes = get_document_list(contents)
 
         if not data:
             print("Failed, retrying...")

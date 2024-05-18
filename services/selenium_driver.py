@@ -53,11 +53,11 @@ class Selenium_Driver(object):
             print("Page unavailable, waiting 60 seconds...")
             time.sleep(60)
             return self.get(url)
-        elif "Sidan kan inte hittas" in self.d.title:
+        elif "Sidan kan inte hittas" in title or "Något gick fel" in title:
             print(f"404: Could not download file from {url}")
             return None
 
-        return self.d.page_source
+        return source
 
     def get_json(self, url):
         response = self.get(url)

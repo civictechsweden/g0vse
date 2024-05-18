@@ -23,12 +23,20 @@ def extract_chain_items(header, content):
 
     for item in content.select(".list--DateLinkDescr__listitem"):
         a = item.select_one("a")
-        url = "current" if "aria-disabled" in a and a["aria-disabled"] else a["href"]
-        url = get_final_url(url) if ".aspx" in url else url
+
+        if a:
+            url = (
+                "current" if "aria-disabled" in a and a["aria-disabled"] else a["href"]
+            )
+            url = get_final_url(url) if ".aspx" in url else url
+            name = a.text
+        else:
+            url = None
+            name = None
 
         items.append(
             {
-                "name": a.text,
+                "name": name,
                 "step": step,
                 "date": item.select_one("time")["datetime"],
                 "url": url,
