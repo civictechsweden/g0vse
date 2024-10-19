@@ -7,7 +7,7 @@ L = ".c-list-content"
 def extract_new_chains(soup):
     chains = []
     for accordion in soup.select(A):
-        chain_name = soup.select_one(A + "-head__title").text
+        chain_name = accordion.select_one(A + "-head__title").text
         ongoing = accordion.select_one(A + "-head__box") is not None
         actors = []
 

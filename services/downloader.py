@@ -72,3 +72,11 @@ class Downloader(object):
 
     def get_webpage(self, path):
         return self.d.get(REGERING_URL + path)
+
+    @staticmethod
+    def last_updated(item):
+        return (
+            item["updated"]
+            if "updated" in item and item["updated"]
+            else item["published"]
+        )

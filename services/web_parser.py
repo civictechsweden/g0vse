@@ -67,7 +67,7 @@ def get_document_list(response):
 
 
 def extract_from_link(link):
-    return int(link["href"].split("/")[-1]), link.text
+    return str(link["href"].split("/")[-1]), link.text
 
 
 def is_attachment(url):
@@ -97,12 +97,11 @@ def extract_metadata(soup):
     journal_id = soup.select_one("span.h1-vignette")
     journal_id = journal_id.text if journal_id else None
 
-    accordion_chain = soup.select_one("#accordion--chain")
-
-    if accordion_chain:
-        chains = extract_old_chains(accordion_chain)
-    else:
-        chains = extract_new_chains(soup)
+    # if accordion_chain:
+    #     accordion_chain = soup.select_one("#accordion--chain")
+    #     chains = extract_old_chains(accordion_chain)
+    # else:
+    #     chains = extract_new_chains(soup)
 
     shortcuts = extract_shortcuts(soup)
     attachments = extract_attachments(soup)
@@ -110,7 +109,7 @@ def extract_metadata(soup):
 
     return {
         "id": journal_id,
-        "chains": chains,
+        # "chains": chains,
         "shortcuts": shortcuts,
         "attachments": attachments,
         "categories": categories,
@@ -142,4 +141,4 @@ def extract_categories(soup):
     if not div:
         return []
 
-    return [extract_from_link(a) for a in div.select("a")]
+    return [extract_from_link(a)[0] for a in div.select("a")]
