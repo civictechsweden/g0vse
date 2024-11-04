@@ -46,11 +46,12 @@ for new_item in new_items:
     page = downloader.get_webpage(url)
     md_content, metadata = extract_page(page)
     Writer.write_md(md_content, "data/" + new_item["url"].strip("/") + ".md")
-    new_item.update(metadata)
 
-    # Lots the category here, only kept the ID!
     for category in metadata["categories"]:
         new_codes[category[0]] = category[1]
+
+    metadata["categories"] = [category[0] for category in metadata["categories"]]
+    new_item.update(metadata)
 
 if just_fetch_new:
     new_items.reverse()
