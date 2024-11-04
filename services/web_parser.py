@@ -84,7 +84,7 @@ def extract_text(soup):
     col_1 = soup.select_one(".col-1")
     title = soup.select_one("h1").find(text=True).strip()
 
-    body = col_1.select("div.has-wordExplanation, div.cl, p.has-wordExplanation, p.cl")
+    body = col_1.select("div.has-wordExplanation, div.cl")
     body = BeautifulSoup("".join(str(div) for div in body), "html.parser")
 
     markdown_text = MarkdownConverter(heading_style="ATX").convert_soup(body)
