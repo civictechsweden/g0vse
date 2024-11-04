@@ -141,4 +141,4 @@ def extract_categories(soup):
     if not div:
         return []
 
-    return [extract_from_link(a)[0] for a in div.select("a")]
+    return [extract_from_link(a) for a in div.select("a")]

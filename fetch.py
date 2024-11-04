@@ -50,7 +50,7 @@ for new_item in new_items:
 
     # Lots the category here, only kept the ID!
     for category in metadata["categories"]:
-        new_codes[str(category)] = category[1]
+        new_codes[category[0]] = category[1]
 
 if just_fetch_new:
     new_items.reverse()
