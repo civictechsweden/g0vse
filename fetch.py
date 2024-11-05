@@ -8,8 +8,8 @@ from services.writer import Writer
 from services.web_parser import extract_page
 
 OVERWRITE = False
-ITEMS_PATH = "./api/items.json"
-CODES_PATH = "./api/codes.json"
+ITEMS_PATH = "./data/api/items.json"
+CODES_PATH = "./data/api/codes.json"
 
 downloader = Downloader()
 amount_online = downloader.get_amount()
@@ -37,23 +37,9 @@ if just_fetch_new:
 
 print(f"Fetching the latest {to_fetch} items...")
 new_items, new_codes = downloader.get_latest_items(to_fetch)
-new_items = [i for i in new_items if Downloader.last_updated(i) > timer.day_before()]
-
-for new_item in new_items:
-    url = new_item["url"]
-
-    print(f"Fetching page at {url}...")
-    page = downloader.get_webpage(url)
-    md_content, metadata = extract_page(page)
-    Writer.write_md(md_content, "data/" + new_item["url"].strip("/") + ".md")
-
-    for category in metadata["categories"]:
-        new_codes[category[0]] = category[1]
-
-    metadata["categories"] = [category[0] for category in metadata["categories"]]
-    new_item.update(metadata)
 
 if just_fetch_new:
+    new_items = [i for i in new_items if Downloader.last_updated(i) > timer.day_before()]
     new_items.reverse()
     new_urls = [item["url"] for item in new_items]
 
@@ -72,6 +58,36 @@ if just_fetch_new:
 else:
     items, codes = new_items, new_codes
 
+Writer.write_json(items, ITEMS_PATH)
+Writer.write_json(codes, CODES_PATH)
+
+for item in items:
+    url = item["url"]
+
+    if "attachments" in item or "201314184" in url:
+        continue
+
+    print(f"Fetching page at {url}...")
+    page = downloader.get_webpage(url)
+    
+    if not page:
+        print(f"Error: {url}")
+        continue
+
+    md_content, metadata = extract_page(page)
+
+    if not md_content:
+        print(f"Error: {url}")
+        continue
+    
+    Writer.write_md(md_content, "data/" + item["url"].strip("/") + ".md")
+
+    for category in metadata["categories"]:
+        codes[category[0]] = category[1]
+
+    metadata["categories"] = [category[0] for category in metadata["categories"]]
+    item.update(metadata)
+    
 codes = {str(key): codes[key] for key in sorted(codes)}
 
 latest_updated = {
@@ -82,4 +98,4 @@ latest_updated = {
 
 Writer.write_json(items, ITEMS_PATH)
 Writer.write_json(codes, CODES_PATH)
-Writer.write_json(latest_updated, "./api/latest_updated.json")
+Writer.write_json(latest_updated, "./data/api/latest_updated.json")

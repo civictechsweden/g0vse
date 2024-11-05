@@ -81,9 +81,16 @@ def extract_page(response):
 
 
 def extract_text(soup):
+
+    if not soup:
+        return None
+    
     col_1 = soup.select_one(".col-1")
     title = soup.select_one("h1").find(text=True).strip()
 
+    if not col_1:
+        return None
+    
     body = col_1.select("div.has-wordExplanation, div.cl")
     body = BeautifulSoup("".join(str(div) for div in body), "html.parser")
 
