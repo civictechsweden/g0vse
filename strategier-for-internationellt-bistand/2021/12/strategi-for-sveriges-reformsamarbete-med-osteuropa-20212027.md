@@ -1,0 +1,8 @@
+# Strategi för Sveriges reformsamarbete med Östeuropa 2021–2027
+
+(Ny version) Målet för svenskt internationellt bistånd är att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Utvecklingssamarbetet ska ta sin utgångspunkt i principerna om bistånds\- och utvecklingseffektivitet liksom i Agenda 2030, Addis Ababa Action Agenda och Parisavtalet. Det svenska reformsamarbetet med länderna i Östeuropa syftar till att stödja dessa länders reformprocesser för att uppnå ökat EU\-närmande vilket är det mest effektiva sättet att uppnå det övergripande målet för svenskt internationellt bistånd i regionen. EU:s Östliga Partnerskap utgör här ett viktigt ramverk.
+
+
+Strategin för Sveriges reformsamarbete med Östeuropa ska gälla under perioden 2021–2027 och omfattar totalt 6,6 miljarder kronor. Sidas verksamhet i Östeuropa\[1] omfattar 6,4 miljarder kronor. Svenska institutets (SI) verksamhet i Östeuropa omfattar 150 miljoner kronor. Folke Bernadotteakademins (FBA) verksamhet omfattar 50 miljoner kronor.
+
+Strategin styr användningen av medel som anslås under Utgiftsområdet 7 Internationellt bistånd 1:1 biståndsverksamhet anslagspost 23 i regleringsbrev avseende Sida för respektive budgetår, medel som anslås under anslagspost 21 i regleringsbrev avseende SI för respektive budgetår, medel som anslås under anslagspost 1:1\.4 Biståndsverksamhet och 1:4\.1 FBA, avseende förvaltningskostnader i genomförandet av strategin, i regleringsbrev avseende FBA för respektive budgetår för respektive budgetår.

@@ -1,0 +1,5 @@
+# Inkomstgrundad ålderspension, m.m.
+
+I propositionen lämnas förslag till en genomgripande förändring av det allmänna ålderspensionssystemet. Utgångspunkt för förslagen är de riktlinjer för en reform som riksdagen beslutade den 8 juni 1994 på grundval av propositionen 1993/94:250 Reformering av det allmänna pensionssystemet (bet. 1993/94:SfU24, rskr. 1993/94:439\).
+
+Ålderspensionsreformens syfte är att skapa ett system som är följsamt mot den samhällsekonomiska och demografiska utvecklingen. Det reformerade ålderspensionssystemet skall omfatta såväl ett standardskydd enligt inkomstbortfallsprincipen som ett grundskydd för dem som haft inga eller låga förvärvsinkomster. Den inkomstgrundade ålderspensionen föreslås utgöra ett från andra socialförsäkringsgrenar avskilt system som finansieras med särskilda avgifter. Pensionsrätten skall utgöra 18,5 % av de inkomster och belopp som grundar pensionsrätt, pensionsunderlaget. Därav skall 16 procentenheter tillgodoräknas inom ett fördelningssystem och resterande 2,5 tillgodoräknas inom ett premiereservsystem.

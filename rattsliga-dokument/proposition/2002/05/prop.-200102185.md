@@ -1,0 +1,5 @@
+# Uppehållstillstånd med tillfälligt skydd vid massflykt
+
+I denna proposition behandlas genomförandet i svensk rätt av rådets direktiv 2001/55/EG av den 20 juli 2001 om miniminormer för att ge tillfälligt skydd vid massiv tillströmning av fördrivna personer och om åtgärder för att främja en balans mellan medlemsstaternas insatser för att ta emot dessa personer och bära följderna av detta.
+
+Europeiska unionens råd kan under vissa förutsättningar besluta att en massflyktssituation skall anses föreligga. I dessa fall kan Sverige ge tillfälligt skydd åt fördrivna personer. Skyddsperioden uppgår inledningsvis till ett år men kan automatiskt förlängas ytterligare ett år. Den automatiska förlängningen sker i två omgångar med sex månader vid varje tillfälle. Därefter kan rådet besluta att slutligen förlänga skyddet i ett år till. I propositionen föreslås att de fördrivna personerna beviljas uppehållstillstånd med tillfälligt skydd under den tid det tillfälliga skyddet gäller enligt rådets beslut. För att en person skall få vägras tillfälligt skydd skall samma grunder gälla som när flyktingar får vägras asyl.

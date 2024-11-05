@@ -1,0 +1,10 @@
+# Uppdrag att planera för åtgärder i järnvägssystemet i stråket Göteborg–Borås
+
+Regeringen ger Trafikverket i uppdrag att återstarta planläggningsarbetet respektive, i den mån det erfordras, starta ett nytt planläggningsarbete, för åtgärder i järnvägssystemet i stråket Göteborg–Borås med den nya inriktningen att järnvägen ska byggas ut i stråket för att förbättra arbetspendling, men på ett mer kostnadseffektivt och samhällsekonomiskt lönsamt sätt jämfört med tidigare planering på sträckan Göteborg–Borås när projektet var tänkt som en del av nya stambanor.
+
+
+Åtgärdskostnaden för staten får inte överskrida de ekonomiska ramar, både vad gäller innevarande planperiod (17 300 miljoner kronor i 2021 års prisnivå) och för objektet som helhet (43 531 miljoner kronor i 2021 års prisnivå), för det tidigare objektet Göteborg–Borås, del av nya stambanor.
+
+Syftet med uppdraget är att planeringen ska resultera i åtgärder som framför allt förbättrar förutsättningarna för arbetspendling i regionen samt förbättrar anslutningen till Landvetters flygplats. En utgångspunkt för planeringen är att genomförandet av åtgärderna kan ske så kostnadseffektivt och snabbt som möjligt. Trafikverket ska därmed beakta genomförbarhet utifrån regionala och lokala ståndpunkter som det råder en bred samsyn kring, förutsatt att objektets totala kostnad för staten inte överstiger det ursprungliga objektets totalkostnad i den nationella trafikslagsövergripande planen för transportinfrastrukturen för perioden 2022–2033 (I2022/01294 m.fl). Utgångspunkten för planeringen ska inte längre vara att järnvägen på sträckan ska utformas som en del i ett ihoplänkat system av nya stambanor för höghastighetståg.
+
+Vid tillämpningen av förordningen (2022:41\) om ersättning till en länsstyrelse för arbete med ett omfattande infrastrukturobjekt ska fortsatt arbete med den nya inriktningen anses utgöra samma infrastrukturobjekt som det tidigare Göteborg–Borås, del av nya stambanor, som omnämns i regeringens beslut om fastställelse av nationell trafikslagsövergripande plan för transportinfrastrukturen för perioden 2022–2033\.

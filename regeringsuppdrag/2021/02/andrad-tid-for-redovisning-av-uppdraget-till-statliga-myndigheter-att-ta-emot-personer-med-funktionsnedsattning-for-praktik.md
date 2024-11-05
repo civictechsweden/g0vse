@@ -1,0 +1,3 @@
+# Ändrad tid för redovisning av uppdraget till statliga myndigheter att ta emot personer med funktionsnedsättning för praktik
+
+Med ändring av regeringens beslut den 4 februari 2016 om uppdrag till statliga myndigheter att ta emot personer med funktionsnedsättning som medför nedsatt arbetsförmåga för praktik 2016–2018 (A2016/00216\) och den 19 april 2018 om uppdrag till statliga myndigheter att fortsatt ta emot personer med funktionsnedsättning som medför nedsatt arbetsförmåga för praktik 2019 och 2020 (A2018/00925\) beslutar regeringen att Statskontoret ska redovisa uppdraget i en slutrapport senast den 30 april 2021\.

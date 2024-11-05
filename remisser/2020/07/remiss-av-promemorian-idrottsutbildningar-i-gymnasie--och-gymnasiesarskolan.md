@@ -1,0 +1,7 @@
+# Remiss av promemorian Idrottsutbildningar i gymnasie- och gymnasiesärskolan
+
+Här kan du ta del av svaren från dem som har ombetts att svara på remissen promemorian Idrottsutbildningar i gymnasie\- och gymnasiesärskolan.
+ Övriga yttranden finns tillgängliga i departementet
+
+
+Sista dag att svara på remissen är den 15 november 2020\.

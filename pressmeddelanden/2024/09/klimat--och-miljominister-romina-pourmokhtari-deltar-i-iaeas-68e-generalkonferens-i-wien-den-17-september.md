@@ -1,0 +1,5 @@
+# Klimat- och miljöminister Romina Pourmokhtari deltar i IAEA:s 68:e generalkonferens i Wien den 17 september
+
+IAEA är en organisation inom FN\-systemet med inriktning på fredlig användning av kärnenergi. IAEA:s generalkonferens äger rum årligen och är det högst beslutande organet. Under generalkonferensen behandlas och beslutas om IAEA:s verksamhetsområden kärnteknik och tekniskt samarbete, kärnsäkerhet och strålskydd, nukleärt säkerhetsskydd samt kärnämneskontroll. Viktiga frågor på agendan för 2024 är Rysslands aggression mot Ukraina, Nordkorea och IAEA:s kärnämneskontroll i Mellanöstern.
+
+I samband med sitt deltagande kommer klimat\- och miljöministern bland annat att framföra det svenska nationella anförandet för generalkonferensen och hålla ett anförande vid ett evenemang om regeringens planer på ny kärnkraft. Statsrådet kommer även att träffa IAEA:s generaldirektör Grossi och tillsammans med honom tala vid invigningen av EU:s monter. Under generalkonferensen arrangerar Sverige ett sidoevenemang om vikten av att stärka det internationella stödet för kärnsäkerheten i Ukraina.

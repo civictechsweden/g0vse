@@ -1,0 +1,7 @@
+# Fortsatt svenskt deltagande i Natos utbildnings och rådgivningsinsats Resolute Support Mission i Afghanistan
+
+I propositionen föreslås att riksdagen medger att regeringen ställer en svensk väpnad styrka till förfogande för deltagande i Natos utbildnings och rådgivningsinsats Resolute Support Mission (RSM) i Afghanistan till och med den 31 december 2020\. Det svenska styrkebidraget ska bestå av högst 50 personer på plats. Om situationen så kräver, ska det finnas möjlighet att utöver själva styrkebidraget tillföra en tillfällig förstärknings och evakueringsstyrka om högst 150 personer.
+
+Det svenska styrkebidraget till RSM kommer i huvudsak att bistå de afghanska försvars\- och säkerhetsstyrkorna med utbildning, rådgivning och stöd i syfte att konsolidera försvars\- och säkerhetsstyrkornas förmåga att självständigt hantera säkerheten i landet. Styrkebidraget kommer att vara verksamt vid baser där säkerheten så medger. Styrkebidraget kommer även att bestå av personal som tjänstgör i för insatsen relevanta staber och ledningsstrukturer.
+
+I propositionen redogör regeringen för situationen i Afghanistan,inklusive säkerhetsläget, och för Sveriges och det internationella samfundets engagemang i landet. Regeringen redogör även för insatsens folkrättsliga grund och resonerar kring det svenska bidragets målsättningar och måluppfyllnad samt sina överväganden inför ett fortsatt svenskt deltagande i RSM. Avslutningsvis redogörs för bidragets ekonomiska konsekvenser.

@@ -1,0 +1,9 @@
+# Stärkt skydd för vissa polisanställda
+
+Organiserad brottslighet som bedrivs av bland annat kriminella nätverk utgör ett allvarligt hot mot det fria och öppna samhället. Våldet som utövas av olika kriminella nätverk har blivit alltmer brutalt och urskillningslöst. Ett annat mycket allvarligt problem kopplat till detta är polisanställdas utsatthet för våld, hot, trakasserier och otillåten påverkan från aktörer inom den organiserade brottsligheten som syftar till att bland annat försöka hindra polisanställda från att fatta vissa beslut och fullgöra sitt uppdrag. Den allvarliga, organiserade brottsligheten är systemhotande.
+
+För att bryta utvecklingen är det avgörande att samhället har en stor motståndskraft och att polisanställda, som är i första ledet att möta dessa kriminella individer vid åtgärder mot den grova brottsligheten, förmår fortsätta det brottsbekämpande arbetet. Skyddet för Polismyndighetens anställda som arbetar mot den organiserade brottsligheten och de kriminella nätverken behöver stärkas och det är angeläget att så sker snabbt. Därigenom stärks Polismyndighetens brottsbekämpande verksamhet.
+
+I promemorian föreslås ändringar i polislagen (1984:387\), offentlighets\- och sekretesslagen (2009:400\) samt förundersökningskungörelsen (1947:948\). Förslaget innebär att anställda vid Polismyndigheten som arbetar mot den organiserade brottsligheten i vissa fall ska kunna använda en annan uppgift än namn i beslut och andra handlingar som dokumenterar åtgärder. Det föreslås också att sekretess ska gälla för uppgift som kan bidra till upplysning om identiteten på den anställde vid Polismyndigheten som använt en sådan annan uppgift. Möjligheten att använda en annan uppgift än namn föreslås gälla under en tidsbegränsad period om fem år.
+
+Författningsändringarna föreslås träda i kraft den 15 april 2024\.

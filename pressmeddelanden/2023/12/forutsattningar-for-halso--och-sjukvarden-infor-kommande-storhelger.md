@@ -1,0 +1,7 @@
+# Möte om förutsättningarna för hälso- och sjukvården inför kommande storhelger
+
+Torsdagen den 21 december träffade socialminister Jakob Forssmed och sjukvårdsminister Acko Ankarberg Johansson representanter från Sveriges Kommuner och Regioner, Socialstyrelsen, Folkhälsomyndigheten och Läkemedelsverket. Syftet med mötet var att få en aktuell bild av förutsättningarna inför kommande helger inom hälso\- och sjukvården när det gäller smittspridning, planeringsförutsättningar och kapacitet i hälso\- och sjukvården samt lägesbild avseende bristsituationer av läkemedel.
+
+–  Det finns en risk att belastningen på sjukvården ökar samtidigt som kapaciteten minskar till följd av nödvändig ledighet för vårdens medarbetare. Mötet anordnades för att Sveriges regioner och kommuner, berörda myndigheter och regeringen ska få en gemensam lägesbild av sjukvården inför kommande storhelger, säger sjukvårdsminister Acko Ankarberg Johansson.
+
+– Just nu ser vi en spridning av flera olika luftvägsvirus i samhället. Säsongen av RS\-infektion har startat och spridningen av säsongsinfluensan ökar snabbt. Spridningen av covid\-19 är dessutom fortfarande hög. Jag vill understryka att det är fortsatt viktigt att öka vaccinationstäckningen mot covid \-19 bland äldre och riskgrupper. För regionernas del handlar det inte minst om att öka insatserna för dem som har hemtjänst eller bor i särskilt boende för äldre, säger socialminister Jakob Forssmed.

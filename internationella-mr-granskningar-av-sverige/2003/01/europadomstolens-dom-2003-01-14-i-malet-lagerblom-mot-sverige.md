@@ -1,0 +1,8 @@
+# Europadomstolens dom (2003-01-14) i målet Lagerblom mot Sverige
+
+Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.
+
+
+### Sammanfattning av domen
+
+Målet rörde frågan om byte av offentlig försvarare. När klaganden misstänktes för försök till grov misshandel förordnade tingsrätten samma advokat som offentlig försvarare som han redan hade i pågående mål om bl.a. grovt rattfylleri. Klaganden framställde i det läget en muntlig begäran att som försvarare få en advokat som han tidigare hade haft och som behärskade hans modersmål finska. Han uppmanades av tingsrätten att ge in en skriftlig begäran med angivande av skälen men gjorde inte detta. Tingsrätten dömde honom till fängelse för bl.a. försök till grov misshandel. I samband med att han överklagade domen begärde han på nytt försvararbyte. Hovrätten avslog hans begäran och Högsta domstolen vägrade prövningstillstånd i samma fråga. Europadomstolen fann att det varit motiverat i detta fall att vägra försvararbyte bl.a. med hänsyn till de olägenheter och merkostnader ett byte skulle ha inneburit. Det var heller inget som tydde på att försvararen hade misskött sitt uppdrag eller att klaganden sagt att han saknat förtroende för denne. Vad gällde språkfrågan noterade domstolen att klaganden hade vissa kunskaper i svenska och att det därför inte borde ha varit helt omöjligt för honom att kommunicera med sin försvarare. Dessutom hade han fått adekvat hjälp med tolkning och översättning i målet. Vid en samlad bedömning kom domstolen fram till att klaganden hade kunnat delta effektivt i rättegången. Någon kränkning av artikel 6 ansågs därför inte ha ägt rum.

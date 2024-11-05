@@ -1,0 +1,8 @@
+# Framställning om förlängd tid för uppdraget att se över reglerna om intäkter på naturgasområdet
+
+Med ändring av regeringens beslut den 17 december 2020 med uppdrag till Energimarknadsinspektionen att se över regleringen av naturgasföretagens intäkter från överföring av naturgas, lagring av naturgas eller tillträde till förgasningsanläggning (I2020/03360\) ska uppdraget redovisas till Regeringskansliet (Infrastrukturdepartementet) senast den 31 december 2021\.
+
+
+Regeringen uppdrog genom beslut den 17 december 2020 åt Energimarknadsinspektionen att se över regleringen av naturgasföretagens intäkter från överföring av naturgas, lagring av naturgas eller tillträde till förgasningsanläggning. Enligt beslutet ska uppdraget redovisas till Regeringskansliet (Infrastrukturdepartementet) senast den 13 april 2021\.
+
+Energimarknadsinspektionen har i en skrivelse den 16 mars 2021 begärt förlängd tid för redovisning av uppdraget. Energimarknadsinspektionen anför i skrivelsen att det nu finns flera omständigheter kring elnätsregleringen som kan påverka förutsättningarna för det fortsatta arbetet. Vidare beskriver Energimarknadsinspektionen olika pågående domstolsprocesser som kan få stor betydelse för bedömningen av vilka nationella regelverk som kan tillämpas, både för naturgas och elnät. Mot bakgrund av rådande osäkerhet om hur de nuvarande regelverken kan tillämpas och med hänsyn till god hushållning med resurser anser Energimarknadsinspektionen att det är rimligt att göra ett uppehåll i arbetet med att ta fram förslag på naturgasområdet och att uppdraget förlängs till den 31 december 2021\.

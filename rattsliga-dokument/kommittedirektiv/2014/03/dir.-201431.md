@@ -1,0 +1,5 @@
+# Tilläggsdirektiv till Informationshanteringsutredningen
+
+Utredningens uppdrag ändras. Uppdraget att analysera registerförfattningar inom tre olika verksamhetsområden och lämna förslag på registerförfattningar för dessa verksamheter samt att överväga vilka typer av allmänna handlingar som myndigheterna inom dessa verksamhetsområden ska vara skyldiga att lämna ut i elektronisk form utgår. Utredningen ska i stället koncentrera arbetet på att utreda förutsättningarna för att skapa en generell, enhetlig och samlad reglering för myndigheternas personuppgiftsbehandling och lämna författningsförslag till en sådan, med beaktande bland annat av den pågående översynen inom Europeiska unionen av regleringen om skyddet för personuppgifter. Personuppgiftsbehandling inom den brottsbekämpande verksamheten omfattas inte av det uppdrag för utredningen som nu preciseras.
+
+Uppdraget skulle ursprungligen redovisas den 1 december 2014\. Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 30 januari 2015\.

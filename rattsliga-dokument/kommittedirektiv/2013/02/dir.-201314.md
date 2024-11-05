@@ -1,0 +1,6 @@
+# Tillämpningen av reglerna om förverkande av utbyte av brottslig verksamhet
+
+Sedan den 1 juli 2008 finns det i 36 kap. brottsbalken en bestämmelse om förverkande av utbyte av brottslig verksamhet (så kallat utvidgat förverkande). Bestämmelsen innebär att det i vissa fall är möjligt att förverka även utbyte som kommer från annat brottsligt handlande än det som den tilltalade döms för. Den innebär också att sambandet mellan egendomen och den brottsliga verksamheten inte behöver styrkas fullt ut. I stället är det tillräckligt att åklagaren uppfyller ett lägre ställt beviskrav.
+En särskild utredare ska redovisa hur reglerna om utvidgat förverkande har tillämpats och mot bakgrund därav utvärdera bland annat om tillämpningen har visat på problem eller svårigheter med regleringen.
+Med utgångspunkt i resultatet av utvärderingen och regeringens ståndpunkt att utvidgat förverkande ska vara ett kraftfullt redskap i kampen mot organiserad brottslighet ska utredaren lämna förslag till författningsändringar, om det finns behov av sådana ändringar.
+Uppdraget är ett led i det fortlöpande arbete som regeringen bedriver för att dels följa upp insatserna mot grov organiserad brottslighet, dels skapa ett effektivare rättsväsende. Det ska redovisas senast den 28 februari 2014\.

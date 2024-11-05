@@ -1,0 +1,5 @@
+# En helt ny utbildningsform för vuxna startar i hela landet
+
+– I Sverige har vi i dag en brist på gymnasialt yrkesutbildad arbetskraft inom flera olika områden vilket gör att många arbetsgivare har svårt att rekrytera medarbetare med rätt kompetens. Yrkeshögskolan har varit en framgångsrik utbildningsform när det gäller utbildningar som leder till jobb. Intresset för att starta den här helt nya formen av nationell yrkesutbildning har varit stort och det är glädjande att flera utbildningar inom kort kommer att starta i runt om i Sverige, säger utbildningsminister Mats Persson.
+
+Myndigheten för yrkeshögskolan (MYH) som ansvarar för genomförandet av satsningen fick in totalt 86 ansökningar i den första ansökningsomgången som var inriktad på utbildningsområdena bygg och anläggning, el och energi, fordon och transport, industriteknik samt naturbruk. Myndigheten har nu beviljat 38 ansökningar att starta nya utbildningar inom ramen för pilotverksamheten en nationell yrkesutbildning. Utbildningarna omfattar sammanlagt 840 studerandeplatser.

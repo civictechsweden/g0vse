@@ -1,0 +1,7 @@
+# Återrapportering av Folkhälsomyndighetens analys av konsekvenser med anledning av den epidemiologiska situationen i Kina
+
+Folkhälsomyndigheten gör bedömningen att den ökade spridningen av covid\-19 i Kina inte har en väsentlig påverkan på det epidemiologiska läget i Sverige men att det råder stor osäkerhet kring rapporteringen av antalet bekräftade fall, avlidna, personer som vårdas på sjukhus samt de virusvarianter som förekommer i Kina.
+
+Som ordförandeland i EU tog Sverige vid årsskiftet initiativ till ett möte på EU\-nivå för att koordinera ansatserna för att minska risken för smittspridning från Kina. Därefter har Sverige tillsammans med flera andra medlemsländer infört tillfälliga reserestriktioner med krav på negativt covid\-19\-test för inresande från Kina. Folkhälsomyndigheten kommer nu att följa upp övervakningen av det epidemiologiska läget genom att analysera virusvarianter från avloppsvatten på Arlanda samt från de tömningsbilar som hanterar toalettavfall från enskilda flygplan, meddelar myndigheten i återrapporteringen.
+
+– Vi har tagit emot Folkhälsomyndighetens analys och välkomnar de konkreta åtgärder som nu vidtas för att övervaka situationen. Det är bra att dessa startar redan denna vecka. Regeringen följer utvecklingen noga och kan vid behov ge ytterligare uppdrag om analys, rapportering och åtgärder från berörda myndigheter. Vi är beredda att agera skyndsamt om utvecklingen kräver det, säger socialminister Jakob Forssmed.

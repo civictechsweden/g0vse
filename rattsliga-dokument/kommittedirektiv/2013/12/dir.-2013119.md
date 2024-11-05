@@ -1,0 +1,4 @@
+# Avveckling av vissa myndigheter inom vård- och omsorgsområdet m.m.
+
+En särskild utredare ska från och med den 1 januari 2014 ansvara för avvecklingen av Statens folkhälsoinstitut och Smittskyddsinstitutet. Utredaren ska dessutom ha arbetsgivaransvaret för den personal som övergår till E\-hälsomyndigheten respektive Folkhälsomyndigheten och som till följd av omorganisationen eventuellt sägs upp av de nya myndigheterna på grund av arbetsbrist. Utredaren ska dock redan från och med den 12 december 2013 i samarbete med berörda myndigheter förbereda sitt uppdrag.
+Utredaren ska ha arbetsgivaransvaret för den uppsagda personalen i avvecklingsorganisationen. Utredaren ska också avveckla bland annat lokaler och utrustning som inte ska tas över av någon annan myndighet. Uppdraget ska slutredovisas senast den 1 juni 2015\.

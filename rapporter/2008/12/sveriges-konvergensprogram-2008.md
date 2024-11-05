@@ -1,0 +1,3 @@
+# Sveriges konvergensprogram 2008
+
+I enlighet med Rådets förordning (EG) 1466/97 överlämnade Sverige i december 1998 sitt konvergensprogram.Programmet utvärderades och godkändes av rådet under våren 1999\. Enligt rådets förordning ska en uppdatering av konvergensprogrammet lämnas årligen vilket också har skett under åren 1999\-2007\. Rådets yttrande om 2007 års uppdaterade konvergensprogram behandlades i Riksdagens EU\-nämnd den 8 februari 2008\. Föreliggande uppdatering baseras på budgetpropositionen för 2009, som regeringen förelade riksdagen den 22 september 2008\. Riksdagens finansutskott informerades om programmet den 18 november 2008\.

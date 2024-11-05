@@ -1,0 +1,8 @@
+# CAT-kommitténs granskning (2000-11-24) i målet A.S. mot Sverige
+
+FN:s CAT\-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.
+
+
+## Sammanfattning av yttrandet
+
+Ärendet rörde avvisning av en iransk medborgare till Iran. Klaganden uppgav bl.a. att hon av en iransk domstol dömts till döden genom stening för äktenskapsbrott. Inför kommittén ifrågasatte regeringen klagandens trovärdighet och anförde bl.a. att hon inte hade förmått presentera kontrollerbara uppgifter eller bevisning till stöd för sina påståenden. Kommittén erinrade om att det i princip är klaganden som har bevisbördan för sitt påstående om risken att utsättas för tortyr men ansåg att klagandens berättelse innehöll tillräckligt många detaljer som kunde ha kontrollerats av svenska myndigheter för att bevisbördan skulle övergå till staten. Enligt kommitténs bedömning hade den svenska regeringen inte gjort tillräckliga ansträngningar för att avgöra om det fanns grundad anledning att tro att klaganden vid ett återsändande till Iran riskerade att utsättas för tortyr. Kommittén, som ansåg att klaganden lämnat rimliga förklaringar till att hon inte förmått lämna vissa uppgifter och som konstaterade att hennes berättelse överensstämde med dess kännedom om situationen beträffande mänskliga rättigheter i Iran, drog därför slutsatsen att Sverige hade en skyldighet enligt artikel 3 i konventionen att inte återsända klaganden till Iran.

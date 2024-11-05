@@ -1,0 +1,9 @@
+# Privat initiativrätt - Planintressentens medverkan vid detaljplaneläggning
+
+Översiktsplaneutredningen behandlar i sitt slutbetänkande (SOU 2019:9\) frågan om ”privat initiativrätt”. Med detta avser utredningen möjligheten för enskilda planintressenter att ta initiativ till och medverka i kommunens arbete med att ta fram detaljplaner enligt plan\- och bygglagen.
+
+Utredningen anser att den initiativrätt som enskilda redan har i dag inte bör utökas eller formaliseras ytterligare, bland annat med hänsyn till det så kallade kommunala planmonopolet. Enligt utredningen bör kommunen behålla det övergripande ansvaret för planläggningen. Samtidigt menar utredningen att planintressentens medverkan kan förtydligas och utvecklas. Enligt utredningen bör detta kunna leda till att tiden mellan ett positivt planbesked och påbörjad planläggning kan användas mer effektivt.
+
+Utredningen föreslår delvis nya bestämmelser i plan\- och bygglagen. Bland annat föreslår utredningen att kommunen i det så kallade planbeskedet även ska ange vilket planeringsunderlag som kan behövas för att ta fram detaljplanen. Det ger planintressenten möjlighet att ta fram de utredningar och annat underlag som kan behövas, vilket bör leda till att planläggningen kan ske snabbare. Utredningen föreslår också att det ska förtydligas i plan\- och bygglagen att även andra än kommunen – till exempel en enskild planintressent – får ta fram planeringsunderlag.
+
+Enligt förslaget ska planintressenten även kunna begära att länsstyrelsen yttrar sig över vilket planeringsunderlag som kan behövas. Länsstyrelsen ska då uttala sig om vilket underlag som kan behövas för att kunna ta ställning till hur planläggningen förhåller sig till exempelvis riksintressen, miljökvalitetsnormer och risken för olyckor eller översvämning. Därmed bör risken minska för att planeringsunderlaget senare behöver kompletteras under detaljplaneprocessen.

@@ -1,0 +1,5 @@
+# Flytt av försäkringssparande, en komplettering
+
+Denna lagrådsremiss innehåller lagförslag som kompletterar dem som har lagts fram i en tidigare lagrådsremiss om flytt av försäkringssparande, som beslutades av regeringen i februari 2006\.
+
+Utgångspunkten för lagstiftningen är att försäkringstagaren \- av konsumentskyddskäl \- bör ha rätt att återköpa sin försäkring utom när försäkringsteknik eller skattelagstiftningen lägger hinder i vägen. Vid lagrådsgranskningen av den tidigare lagrådsremissen visade det sig \- av regeltekniska skäl \- att möjligheten att få en pensionsförsäkring återköp är mycket begränsad. För att uppnå syftet med lagstiftningen föreslås därför i denna kompletterande lagrådsremiss att rätten att få en pensionsförsäkring återköp vidgas till att omfatta alla pensionsförsäkringar där återköp inte hindras av just försäkringsteknik eller skattelagstiftningen.

@@ -1,0 +1,7 @@
+# Läkemedelsverket får uppdrag som ska bidra till att säkerställa tillgång till läkemedel och medicintekniska produkter
+
+– Säkerställandet av försörjningen av och tillgången till bland annat läkemedel och sjukvårdsmaterial är avgörande för att skydda befolkningen och för att upprätthålla totalförsvarets förmåga i händelse av kris eller krig, säger sjukvårdsminister Acko Ankarberg Johansson.
+
+Uppdraget att möjliggöra en nationell lägesbild över medicintekniska produkter samt produktionskartläggning av medicintekniska produkter i Sverige, som regeringen nu givit till Läkemedelsverket, omfattar även att ta fram underlag om och lämna förslag på utveckling av nödvändiga systemstöd för att kunna förebygga och hantera situationer där det finns risk för brist på produkter som behövs i hälso\- och sjukvården eller där en kris ställer ökade krav på tillgången till dessa.
+
+Regeringen ger också Läkemedelsverket i uppdrag att genomföra en strukturerad aktörsgemensam samverkan och övningsverksamhet i syfte att stärka öppenvårdsapotekens beredskap. Syftet med uppdraget är band annat att ta fram konkreta förslag på hur apotekens förmåga att bedriva sin verksamhet även vid störningar kan ökas. Fokus ska vara på situationer där möjligheterna för öppenvårdsapoteken att lämna ut läkemedel och andra förordnade varor kan påverkas, såväl i vardag som i kris och vid höjd beredskap.  Inom ramen för uppdraget ska myndigheten tillsammans med berörda aktörer både verka för kunskapshöjning hos de deltagande aktörerna, och ta fram konkreta åtgärdsförslag.

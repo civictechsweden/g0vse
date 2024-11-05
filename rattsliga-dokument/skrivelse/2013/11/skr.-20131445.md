@@ -1,0 +1,3 @@
+# Riksrevisionens rapport om bostadstillägg och äldreförsörjningsstöd till pensionärer – når förmånerna fram?
+
+I skrivelsen redovisar regeringen sin bedömning av de iakttagelser som Riksrevisionen har gjort i rapporten Bostadstillägg och äldreförsörjningsstöd till pensionärer \- når förmånerna fram? (RIR 2013:7\). Regeringen instämmer i att det är bekymmersamt att det finns ett stort mörkertal inom bostadstillägget och äldreförsörjningsstödet och avser att ge Pensionsmyndigheten i uppdrag att undersöka mörkertalet för förmånerna samt att bedöma vilka förbättringar i informationen som behöver göras.

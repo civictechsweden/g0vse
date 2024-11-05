@@ -1,0 +1,3 @@
+# Tilläggsdirektiv till 2007 års insättningsgarantiutredning (Fi 2007:04)
+
+Regeringen beslutade den 26 april 2007 att tillkalla en särskild utredare som skulle se över vilka åtgärder som behöver vidtas för att ytterligare effektivisera regelverket för och tillsynen av institut som tar emot inlåning som omfattas av insättningsgarantisystemet. Syftet är att bättre nå ett gott konsumentskydd och stabilitet inom det finansiella systemet (dir. 2007:60\). Enligt direktiven skulle uppdraget redovisas senast den 3 oktober 2008\. Utredningstiden förlängs. Utredaren ska redovisa sitt uppdrag senast den 30 december 2008\.

@@ -1,0 +1,9 @@
+# En ny fastighetsmäklarlag – förstärkt tillsyn över fastighetsmäklarbranschen
+
+Regeringen föreslår en ny fastig­hets­mäklar­lag med en mer hel­täckande och slag­kraftig tillsyn över fastig­hets­mäklar­branschen. Lagen bidrar till att köpare och säljare kan känna större trygghet när de gör bostads­affärer.
+
+För många människor är köp och försäljning av bostaden de viktigaste affärerna i livet. Bostads­affärens betydelse för privat­ekonomin har ökat i takt med att bostads­­priserna stigit kraftigt. I ljuset av den utvecklingen är det ännu mer ange­läget att det finns en väl funge­rande samhälls­kontroll över att över­­låtelser av villor och bostads­­rätter går rätt till. Kö­pare och säljare mås­te också ges goda förut­sätt­ningar att fatta under­byggda beslut. Fastighets­­mäk­larna och Fas­­­­tig­­hets­­mäk­lar­inspek­tionen har viktiga roller att fylla i detta samman­­hang. Mäk­­larna ska se till att köpare och säljare får råd och upp­lysningar. Fastig­hets­mäklar­­in­spek­tionen ska se till att fastig­­hets­­mäk­larna följer lagen.
+
+En viktig nyhet i den nya lagen är att den inte bara gäller för fastig­hets­mäklare utan även för fastig­hets­mäklar­företag. Lagen inne­bär att före­tagen ska regi­st­reras och stå under tillsyn. Före­tagen måste uppfylla flera krav för att få vara verk­­samma. De ges också ett över­­gri­pande ansvar att verka för att de mäk­lare som är verksamma i före­taget föl­­jer god fastig­­hets­­mäklar­sed. Ett mäk­­lar­­före­tag som åsido­sätter sina skyl­­dig­heter ska kunna ges en disciplin­påföljd. Det blir möjligt att ingripa om det finns olämp­liga per­soner i företags­­ledningen och ägar­kretsen. Dess­utom ska fler fas­tig­­hets­­mäklare vara regist­rerings­skyldiga och stå under tillsyn. Det föreslås vidare att skyldig­­he­terna enligt penning­­­tvätts­­regleringen utvidgas till att omfatta även dessa mäklare och ­företagen.
+
+Den nya lagen och lagänd­ringarna föreslås träda i kraft den 1 juli 2021\.

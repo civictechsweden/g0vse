@@ -1,0 +1,5 @@
+# Andra järnvägspaketet - fortsatt EU-harmonisering av järnvägslagstiftningen
+
+I propositionen föreslås ändringar i järnvägslagen (2004:519\), lagen (1990:712\) om undersökning av olyckor och i lagen (1990:1157\) om säkerhet vid tunnelbana och spårväg. Genom ändringarna genomförs de tre EG\-direktiv som ingår i det så kallade Andra järnvägspaketet. Det gäller dels ett nytt direktiv om järnvägssäkerhet och olycksutredningar, dels ändringar i direktiven om driftskompatibilitet och i direktivet om utvecklingen av gemenskapens järnvägar. Därutöver har Järnvägsstyrelsen uppmärksammat vissa problem vid tillämpningen av järnvägslagen som föranlett förslag till ändringar. Det rör i huvudsak administrativa lättnader för vissa mindre infrastrukturförvaltare.
+
+Lagändringarna föreslås träda i kraft den 1 juni 2007\.

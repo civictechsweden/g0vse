@@ -1,0 +1,10 @@
+# Sjukvårdsministern lyfte viktiga frågor för EU inom hälsa och sjukvård under WHA
+
+Temat för årets Världshälsoförsamling (WHA) var Världshälsoorganisationens (WHO) 75\-årsjubileum och det arbete som WHO utför. Sjukvårdsminister Acko Ankarberg Johansson deltog som representant för EU och dess medlemsstater under de två första dagarna, 21\-22 maj.
+
+
+Årets WHA pågår mellan den 21 och 30 maj i Genève, Schweiz. Sjukvårdsministern var som representant för EU, i och med det svenska ordförandeskapet, inbjuden att hålla EU:s linjetal. I sitt tal framhöll sjukvårdsministern bland annat de positiva framsteg som sker på hälsoområdet men också de globala utmaningar som finns i efterdyningarna av covid\-19\. Ministern lyfte även behovet av globalt samarbete, solidaritet och respons för att kunna bemöta de svårigheter vi står inför samt EU:s viktiga arbete med att bland annat utarbeta ett pandemifördrag:
+
+– WHO spelar en central roll när det gäller att nå de globala målen för hållbar utveckling, visa ledarskap och ge kunskap, råd och tekniskt stöd till alla länder. Det är väldigt viktigt att verka för ett inkluderande samarbete mellan internationella aktörer och att motverka fragmentering inom hela den globala hälsoarkitekturen, inte bara i de frågor som rör nödlägen, och inte låta någon region i världen hamna på efterkälken.
+
+Världshälsoförsamlingens möte har en diger dagordning med cirka 70 punkter. Utanför programmet deltog sjukvårdsministerni bilaterala möten med hälsominister Azhar Guiniyat från Kazakstan och Ong Ye Kung från Singapore samt med WHO:s generaldirektör, dr Tedros Adhanom Ghebreyesus. Ministern deltog också vid flera diskussionstillfällen, i mindre konstellationer, med teman som berörde ett framtida pandemifördrag, antimikrobiell resistens och hälsosituationen i Ukraina.

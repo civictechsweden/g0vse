@@ -1,0 +1,17 @@
+# Mänskliga rättigheter, demokrati och rättsstatens principer i Palestina
+
+Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Palestina samt en länk till rapporten i sin helhet.
+
+
+Rapporten behandlar situationen i Palestina, där respekten för de mänskliga rättigheterna och rättsstatens principer i hög grad relaterar till den israeliska ockupationen. Kränkningar begås av Israel som ockupationsmakt men också av Palestina. Kränkningar begås också av de facto\-myndigheterna i Gaza. Den israeliska ockupationen inskränker flera av de mänskliga rättigheterna och rättigheter enligt internationell humanitär rätt för den palestinska befolkningen, däribland personlig säkerhet och rörelsefrihet. Bristen på ansvarsutkrävande är mycket påtaglig.
+
+FN:s kontor för samordning av humanitära frågor (OCHA) dokumenterade år 2018 det högsta antalet skadade palestinier (29 000\) till följd av israeliska myndigheters våld sedan 2005, och det högsta antalet dödsfall (295\) av palestinier som del av konflikten sedan Gaza\-kriget 2014\. En majoritet av dessa skador och dödsfall inträffade i samband med israelisk respons på de regelbundna, storskaliga demonstrationer som påbörjades den 30 mars 2018 vid stängselområdet mellan Gaza och Israel, de så kallade Great March of Return\-demonstrationerna.
+
+Den israeliska bosättningspolitiken på Västbanken, inklusive östra Jerusalem, har resulterat i att minst 630 000 israeler bosatt sig på ockuperad mark, vilket är i strid med folkrätten. Demoleringar av
+palestinska strukturer fortsätter att genomföras av israeliska myndigheter. I östra Jerusalem ökar de i omfattning.
+
+Palestina har sedan 2014 anslutit sig till ett 50\-tal internationella konventioner och avtal, inklusive de sju centrala FN\-konventionerna för mänskliga rättigheter. Införlivandet i nationell lagstiftning återstår dock i all väsentlighet. Det finns stora brister i respekt för till exempel yttrande\- och mediefrihet samt hbtq\-personers åtnjutande av de mänskliga rättigheterna. Tortyr används av palestinska säkerhetsmyndigheter och är enligt civilsamhällesorganisationer vanligt förekommande. Dödsstraff finns på straffskalan. Avrättningar verkställs i Gaza.
+
+I Palestinas tillfälliga konstitution slås fast att kvinnor har samma rättigheter som män. Detta undermineras dock av bland annat patriarkala strukturer, och tar sig uttryck i form av få förvärvsarbetande kvinnor, få kvinnor i ledande positioner i politik och näringsliv, våld mot kvinnor samt diskriminerande familje\- och straffrättslig lagstiftning. Den regering som tillträdde i april 2019 har aviserat en ambition om ökad respekt för de mänskliga rättigheterna. Huruvida detta innebär en reell förändring är för tidigt att säga.
+
+Det demokratiska underskottet i Palestina är stort och förvärras av den inompalestinska splittringen mellan regeringspartiet Fatah, som styr på Västbanken, och Hamas, som styr i Gaza. Nationellt parlamentsval har inte hållits sedan 2006\. Palestinas lagstiftande församling (PLC) upplöstes i december 2018 vilket ytterligare försämrade möjligheterna till ansvarsutkrävande. Lagar stiftas genom presidentdekret och tillämpas de facto endast på Västbanken. Det palestinska civilsamhället är relativt starkt, men vittnar om krympande demokratiskt utrymme.

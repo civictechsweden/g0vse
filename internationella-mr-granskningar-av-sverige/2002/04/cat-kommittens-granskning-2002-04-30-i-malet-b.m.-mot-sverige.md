@@ -1,0 +1,8 @@
+# CAT-kommitténs granskning (2002-04-30) i målet B.M. mot Sverige
+
+FN:s CAT\-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.
+
+
+## Sammanfattning av yttrandet
+
+Ärendet rörde avvisning av en tunisisk medborgare till Tunisien. Klaganden gjorde inför kommittén gällande att han vid ett återsändande till Tunisien riskerade att utsättas för tortyr på grund av att han samlat in pengar till familjer till fängslade medlemmar av det regimkritiska partiet Al\-Nahdha. Klaganden hänvisade också till att han vid tidigare tillfällen gripits och förhörts av tunisiska myndigheter och då även utsatts för tortyr. Kommittén konstaterade bl.a. att klaganden inte påstått att han varit medlem av partiet Al\-Nahdha eller ägnat sig åt politisk verksamhet utan endast deltagit i arbete av humanitär natur. Kommittén noterade också att klaganden inte åberopat någon bevisning till stöd för att han tidigare utsatts för tortyr och inte heller anfört några omständigheter i övrigt som skulle göra honom särskilt utsatt för en risk att bli torterad. I detta avseende konstaterades att klaganden enligt egna uppgifter utsatts för tortyr i samband med ett gripande år 1989 men inte när han återvände till Tunisien och greps 1990\. Mot bakgrund härav ansåg kommittén att klaganden inte visat att det förelåg grundad anledning att tro att han skulle vara i fara att utsättas för tortyr vid ett återsändande till Tunisien och att en verkställighet av avvisningsbeslutet således inte skulle utgöra någon kränkning av artikel 3 i konventionen.

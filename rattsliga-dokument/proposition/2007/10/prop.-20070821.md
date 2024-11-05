@@ -1,0 +1,5 @@
+# Ändring i tullagen m.m.
+
+I propositionen föreslås att tullagen ändras som en följd av förändringar i EG\-förordningar. Det införs bestämmelser om att en summarisk deklaration om förestående import respektive export av varor ska lämnas in till tullmyndigheten. Utöver detta föreslås ett gemensamt EG\-system för hur företag kan erhålla status som "godkänd ekonomisk aktör" samt en gemensam ram för riskhantering. I propositionen föreslås också ett antal smärre lagändringar med anledning av överföringen av vissa borgenärsuppgifter vid indrivning från Kronofogdemyndigheten till Skatteverket, samt en lagändring för genomförande ett ändringsdirektiv på indrivningsområdet. Slutligen föreslås att lagen om förbud i vissa fall mot införsel av spritdrycker upphävs samt att lagen om straff för smuggling ändras med anledning av detta. Flertalet lagändringar föreslås träda i kraft den 1 januari 2008\.
+
+Riksdagen sade ja till propositionen den 28 november 2007\.

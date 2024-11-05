@@ -1,0 +1,9 @@
+# Global konvention överenskommen till skydd för världshavet
+
+– Det är mycket glädjande att FN har kunnat komma överens om ett historiskt avtal till skydd för livet i världshavet efter femton års förhandlingar. Avtalet är den viktigaste internationella miljöuppgörelsen sedan Klimatavtalet i Paris och ger en kraftigt förbättrad möjlighet att skydda vår biologiska mångfald och motverka klimatförändringarna. Sverige har som EU\-ordförande lett förhandlingarna för EU och dess medlemsstater tillsammans med Kommissionen. Det är också en seger för FN och det globala systemet att vi i en tid av utmaningar lyckas leverera ett så betydelsefullt avtal, säger utrikesminister Tobias Billström.
+
+Förhandlingarna om ett avtal till skydd för biologisk mångfald i havsområden bortom nationell jurisdiktion har pågått i över 10 år. Målsättningarna har varit att fylla de luckor som lämnades när FN:s havsrättskonvention antogs 1982\. Avtalet rymmer fyra delar; regler för marina skyddsområden, miljökonsekvensbeskrivningar, marina genetiska resurser samt kapacitetsbyggnad och teknologiöverföring.
+
+Åtgärder för att hindra negativ miljöpåverkan i särskilt biologiskt värdefulla havsområden är avgörande för att stärka det marina livets motståndskraft mot klimatförändringar och mänsklig påverkan. Sverige och EU står bakom FN:s målsättning att 30 procent av världshaven ska skyddas.
+
+– Äntligen har världens länder nått en överenskommelse för våra internationella hav och vatten. Jag är stolt över att personligen ha varit på plats och över att den svenska delegationen har bidragit konstruktivt till att förhandlingarna nu har gått i mål. Trots ett spänt läge i omvärlden visar vi nu att framsteg för vår gemensamma miljö och biologiska mångfald inte kan vänta, säger klimat\- och miljöminister Romina Pourmokhtari.

@@ -1,0 +1,3 @@
+# Likabehandling av studenter i högskolan
+
+I propositionen föreslås en lag om likabehandling av studenter i högskolan. Den skall ha till ändamål att på högskoleområdet främja lika rättigheter för studenter och sökande och att motverka diskriminering på grund av könstillhörighet, etnisk tillhörighet, sexuell läggning och funktionshinder. Lagen skall gälla högskoleutbildning som bedrivs vid universitet och högskolor med staten, en kommun eller ett landsting som huvudman samt vid enskilda utbildningsanordnare, som har examenstillstånd enligt lagen (1993:792\) om tillstånd att utfärda vissa examina.

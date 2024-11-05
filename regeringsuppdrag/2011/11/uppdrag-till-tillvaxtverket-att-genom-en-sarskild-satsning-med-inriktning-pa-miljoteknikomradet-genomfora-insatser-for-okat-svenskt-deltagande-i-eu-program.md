@@ -1,0 +1,3 @@
+# Uppdrag till Tillväxtverket att genom en särskild satsning med inriktning på miljöteknikområdet genomföra insatser för ökat svenskt deltagande i EU-program
+
+Regeringen uppdrar åt Tillväxtverket att fram till och med 2014 genomföra en särskild satsning för att stärka pågående arbete som syftar till att öka det svenska deltagandet i EU\-program. Satsningen ska vara inriktad på miljöteknikområdet. Satsningen ska i huvudsak vara inriktad mot svenska små och medelstora företag. Aktiviteterna kan omfatta informationsinsatser inom Enterprise Europe Network och planeringsbidrag för ansökningar inom EU:s program för konkurrenskraft och innovation, CIP, men även andra aktiviteter kan vara aktuella.

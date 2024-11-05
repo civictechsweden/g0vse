@@ -1,0 +1,7 @@
+# Finansminister Elisabeth Svantesson står värd för nordiskt finansministermöte
+
+Mötet väntas fokusera på frågor kring produktivitet och finanspolitiska lärdomar från pandemin och energikrisen. Finansministrarna väntas även anta ett nytt samarbetsprogram för Nordiska ministerrådets finanssektor för 2025–2030\.
+
+Sverige är ordförandeland i Nordiska ministerrådet under 2024 och därför kommer finansminister Elisabeth Svantesson att leda finansministermötet. På mötet väntas delegationer från Norge, Danmark, Finland, Island, Färöarna och Åland delta. Under mötet kommer Produktivitetskommissionen att presentera sitt delbetänkande för de nordiska ministrarna. Ministrarna kommer även utbyta erfarenheter kring den finanspolitik som bedrivits i de nordiska länderna i ljuset av covid\-19\-pandemin och den energikris som uppstått i kölvattnet av Rysslands fullskaliga invasion av Ukraina.
+
+– Det är alltid lika givande att utbyta erfarenheter med mina nordiska kollegor. Våra länder har många likheter, både vad gäller de utmaningar vi ställs inför, men också i vår syn på hur dessa kan lösas. Just frågan om produktivitet, och den nära relaterade konkurrenskraftsfrågan, diskuteras mycket på EU\-nivå just nu, mycket tack vare att Sverige lyfte upp frågan på agendan under vårt EU\-ordförandeskap 2023\. Det här är en nyckelfråga för vårt gemensamma välstånd framöver, och jag välkomnar att den diskuteras även på nordisk nivå, säger finansminister Elisabeth Svantesson.

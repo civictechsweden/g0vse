@@ -1,0 +1,3 @@
+# Mål för framtidens resor och transporter
+
+Resor och transporter är nödvändiga för att samhället ska fungera och de transportpolitiska målen och målstrukturen uttrycker den politiska inriktningen och prioriteringarna för att nå detta. Regeringen redovisar i propositionen förslag till en ändrad och förenklad transportpolitisk målstruktur med en inriktning som är en del av regeringens politik för fler jobb och växande företag. En förenklad målstruktur syftar till att underlätta avvägningar i beslutsprocessen och styrningen liksom planeringen, genomförandet och uppföljningen av den statliga transportpolitiken.

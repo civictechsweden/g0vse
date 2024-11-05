@@ -1,0 +1,8 @@
+# Regeringens skrivelse: Riksrevisionens rapport om statens satsningar på transportinfrastruktur
+
+I skrivelsen redovisar regeringen sina bedömningar och åtgärder av Riksrevisionens iakttagelser och rekommendationer i granskningsrapporten Statens satsningar på transportinfrastruktur – valuta för
+pengarna? (RiR 2012:21\).
+
+Regeringen har under innevarande och föregående mandatperiod vidtagit stora och genomgripande åtgärder för att reformera och effektivisera transportområdet. Detta har inneburit omfattande omstrukturering av myndigheterna inom området, anpassning av regelverk och en förändrad styrning av myndigheternas verksamhet. Detta har varit särskilt påtagligt när det gäller utvecklingen av transportinfrastruktur där det har skett ett aktivt arbete med effektivisering parallellt med en stor utökning av tillgängliga resurser.
+
+Sedan 2008 har Riksrevisionen inom ramen för sin granskningsstrategi Infrastruktur på nya villkor genomfört tolv granskningar av regeringens och dess myndigheters arbete inom transportområdet. De synpunkter som framförts med anledning av dessa granskningar har regeringen välkomnat och de rekommendationer Riksrevisionen riktat till regeringen eller till myndigheterna har varit en god vägledning i det reformerings\- och effektiviseringsarbete som regeringen har genomfört och alltjämt genomför inom transportområdet. Regeringen anser att förändringsarbetet inom transportområdet i stora delar varit framgångsrikt. Utvecklingen av regeringens styrning och myndigheternas operativa verksamhet har dock ännu inte slutförts utan är något som är och kommer att vara en prioriterad verksamhet även fortsättningsvis, liksom att följa upp genomförda reformer i övrigt.

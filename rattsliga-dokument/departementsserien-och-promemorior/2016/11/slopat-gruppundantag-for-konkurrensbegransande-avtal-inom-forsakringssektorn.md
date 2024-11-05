@@ -1,0 +1,9 @@
+# Slopat gruppundantag för konkurrensbegränsande avtal inom försäkringssektorn
+
+Kommissionen har aviserat att den inte har för avsikt att anta ett nytt gruppundantag. I promemorian föreslås därför att motsvarande undantag i konkurrenslagen inte längre ska gälla. Förslaget innebär att samma materiella regler kommer att gälla för bedömningen av konkurrensbegränsande avtal inom försäkringssektorn, oavsett om svenska bestämmelser eller EU:s konkurrensrätt är tillämplig i det enskilda fallet. I promemorian konstateras därför att det saknas anledning att behålla det svenska gruppundantaget.
+
+Konkurrenslagens förbud mot konkurrensbegränsande avtal innehåller ett undantag för vissa konkurrensbegränsande avtal inom försäkringssektorn. Undantaget utgör en anpassning till EU:s konkurrensrätt och kommissionens förordning (EU) nr 267/2010 av den 24 mars 2010 om tillämpningen av artikel 101\.3 i fördraget om Europeiska unionens funk\-tionssätt på vissa kategorier av avtal, beslut och samordnade förfaranden inom försäkringssektorn. Kommissionens förordning är tidsbegränsad och upphör att gälla den 31 mars 2017\.
+
+Kommissionen har aviserat att den inte har för avsikt att anta ett nytt gruppundantag. I promemorian föreslås därför att motsvarande undantag i konkurrenslagen inte längre ska gälla. Förslaget innebär att samma materiella regler kommer att gälla för bedömningen av konkurrensbegränsande avtal inom försäkringssektorn, oavsett om svenska bestämmelser eller EU:s konkurrensrätt är tillämplig i det enskilda fallet. I promemorian konstateras därför att det saknas anledning att behålla det svenska gruppundantaget.
+
+Ändringen i konkurrenslagen föreslås träda i kraft den 1 augusti 2017\. Genom ändringen behövs inte längre de särskilda bestämmelser om gruppundantag som finns i lagen om gruppundantag för vissa konkurrensbegränsande avtal inom försäkringssektorn. Det föreslås därför att lagen ska upphöra att gälla vid utgången av juli 2017\.

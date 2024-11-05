@@ -1,0 +1,6 @@
+# Sverige och Kina – stärkt samverkan för en hållbar framtid
+
+Hur kan vi stärka det svenskkinesiska samarbetet inom innovation, forskning och högre utbildning? Regeringskansliet har med hjälp av professor Sylvia Schwaag Serger tagit fram ett kunskapsunderlag om innovation, forskning och högre utbildning. Utredningen presenterades vid ett seminarium på Regeringskansliet torsdag den 18 oktober.
+
+
+Samarbetet med Kina när det gäller innovation, forskning och högre utbildning står inför en ny fas. Inför högnivåbesöket i Kina i juni 2017 tog Sverige initiativ till ett innovationspartnerskap för hållbar utveckling mellan Sverige och Kina. För ett framgångsrikt samarbete krävs ett strategiskt förhållningssätt och goda kunskaper om förutsättningarna. I januari i år gav därför Regeringskansliet professor Sylvia Schwaag Serger, prorektor vid Lunds universitet, i uppdrag att ta fram ett kunskapsunderlag inför det fortsatta arbetet. Vid ett seminarium den 18 oktober presenterades rapporten och det följdes av en diskussion med några av dem som bidragit till underlaget. Nästa steg i processen blir att analysera rekommendationerna i rapporten och de inlagor som har kommit in till utredningen.

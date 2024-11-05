@@ -1,0 +1,5 @@
+# Tilläggsdirektiv till Utredningen om vissa frågor om prissättning, tillgänglighet och marknadsförutsättningar inom läkemedels- och apoteksområdet
+
+Regeringen utvidgar uppdraget så att det står utredningen fritt att även lämna förslag som rör prissättning av generiska läkemedel eller som rör föreskrifterna om utbytet av läkemedel i lagen (2002:160\) om läkemedelsförmåner m.m. Eventuella förslag ska medföra minst samma prispress inom det generiska sortimentet som i dag och den uppkomna besparingen ska tillfalla det offentliga.
+
+Regeringen förlänger tiden för utredningens uppdrag. Uppdraget i de delar som rör prissättningen på läkemedel utan generisk konkurrens, skyldigheten att leverera och tillhandahålla läkemedel och därmed förknippande frågor om generiska läkemedel ska redovisas senast den 1 november 2012\. Uppdraget i de delar som avser maskinell dosdispensering, hantering och prissättning av vissa grupper av läkemedel, läkemedelsförmånernas innehåll, miljöfrågor och försäkringsskydd ska redovisas senast den 1 april 2013 och i den del som avser handel med läkemedel för djur senast den 1 november 2013\.

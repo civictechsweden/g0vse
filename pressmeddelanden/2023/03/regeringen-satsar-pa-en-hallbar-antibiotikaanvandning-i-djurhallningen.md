@@ -1,0 +1,11 @@
+# Regeringen satsar på en hållbar antibiotikaanvändning i djurhållningen
+
+– Sverige har ansvarstagande lantbrukare och veterinärer som inte använder antibiotika i onödan och Sverige, som föregångsland, har mycket att bidra med i omställningsarbetet mot en hållbar antibiotikaanvändning i djurhållningen inom hela EU, säger landsbygdsminister Peter Kullgren.
+
+Sverige har lägst användning av antibiotika i djurhållningen av alla EU:s medlemsstater. Även internationellt har fokus på arbete mot antibiotikaresistens ökat. Från allt fler håll ställs nu krav på omställning till hållbara livsmedelssystem där djur hålls på ett sätt som minskar behovet av antibiotika.
+
+– Antibiotikaresistens är en fråga som måste tas på stort allvar. Åtgärderna för att minska antibiotikaanvändningen spänner över flera områden, bland annat hälso\- och sjukvård, djurhållning och forskning. Att regeringen nu tar ytterligare ett steg i arbetet mot antibiotikaresistens är därför mycket angeläget, säger socialminister Jakob Forssmed.
+
+– Trots att Sverige ligger i framkant finns det utmaningar med viss sjukdomsförekomst, utbrott med resistenta bakterier och risk för introduktion av nya smittor och nya resistenta bakterier. Det är därför viktigt att fortsätta sträva efter att bli bättre. Att på ett mer detaljerat sätt kunna följa hur antibiotika används till djur ger förutsättningar att identifiera möjliga riskfaktorer som kan kräva åtgärder för att begränsa risken för antimikrobiell resistens, avslutar landsbygdsminister Peter Kullgren.
+
+Regeringen har beslutat om utfärdande av ändringar i fyra lagar enligt förslag som lämnats i propositionen 2022/23:13 Förbättrad övervakning av antibiotikaanvändning för behandling av djur och som riksdagen antagit. Ändringarna innebär bland annat att en ny bestämmelse införs om att veterinärer ska lämna uppgifter till Jordbruksverket om användning av antimikrobiella läkemedel för behandling av djur. Ändringarna innehåller också bemyndiganden att meddela föreskrifter om ytterligare begränsningar av eller förbud mot användning av antimikrobiella medel för behandling av djur, utöver de som redan följer av EU\-förordningarna. Det görs också ytterligare ändringar som på olika sätt anpassar svensk rätt till de nya EU\-förordningarna. Lagändringarna ska träda i kraft den 1 april 2023\.

@@ -1,0 +1,5 @@
+# Tilläggsuppdrag om samverkan för bästa skola
+
+Regeringen ger Statens skolverk i uppdrag att inom ramen för uppdraget om samverkan för bästa skola (U2015/3357/S) i dialog med huvudmän för förskola och/eller förskoleklass genomföra insatser i syfte att öka förskolans och förskoleklassens måluppfyllelse och öka likvärdigheten inom och mellan förskolor och förskoleklasser. Insatserna ska riktas till förskolor och förskoleklasser som har särskilt svåra förutsättningar. Skolverket ska göra en bedömning av vilka förskolor och förskoleklasser som ska prioriteras för deltagande i satsningen.
+
+Skolverket ska följa upp satsningen och årligen senast den 15 mars redovisa hur genomförandet av uppdraget fortlöper. Redovisningen ska också innefatta en beskrivning av hur myndigheten tillvaratagit Statens skolinspektions underlag. Skolverkets kostnader för att samordna och utveckla insatserna ska särredovisas. Myndigheten ska löpande hålla Regeringskansliet (Utbildningsdepartementet) underrättat om hur insatserna fortlöper.

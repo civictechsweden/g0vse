@@ -1,0 +1,3 @@
+# Svenskt deltagande i Förenta Nationernas stabiliseringsinsats i Mali
+
+I propositionen föreslås att riksdagen medger att regeringen fortsatt ställer en svensk väpnad styrka till förfogande för deltagande i Förenta nationernas (FN) stabiliseringsinsats i Mali (Minusma) till den 31 december 2021, under förutsättning att det även fortsättningsvis finns ett giltigt mandat för styrkan enligt beslut av FN:s säkerhetsråd. Minusmas mandat omfattar att stödja genomförandet av fredsavtalet i Mali, bidra till stabilisering av landet och skydd av civila, stöd till den politiska dialogen och nationell försoning, främja mänskliga rättigheter samt stödja humanitär biståndsverksamhet.

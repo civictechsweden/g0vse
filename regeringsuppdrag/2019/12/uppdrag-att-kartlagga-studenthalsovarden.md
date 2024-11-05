@@ -1,0 +1,3 @@
+# Uppdrag att kartlägga studenthälsovården
+
+Regeringen ger Universitetskanslersämbetet (UKÄ) i uppdrag att göra en kartläggning av universitets och högskolors arbete med studenthälsovård utifrån det krav som finns i högskoleförordningen. I uppdraget ingår att belysa studenternas tillgång till studenthälsovård samt skillnader i hur den är organiserad på olika universitet och högskolor. UKÄ ska också belysa eventuella brister i hur studenthälsovården är organiserad på universitet och högskolor. I uppdraget ingår även att särskilt belysa hur studenthälsovården fungerar för studenter som läser utbildningar på distans.

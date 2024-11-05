@@ -1,0 +1,3 @@
+# Skatteförslag med anledning av energiöverenskommelsen
+
+Regeringen och ytterligare tre partier (M, C och KD) har träffat en blocköverskridande ramöverenskommelse på energiområdet, den s.k. energiöverenskommelsen. De delar i energiöverenskommelsen som rör beskattning innebär att skatten på termisk effekt i kärnkraftsreaktorer avvecklas stegvis under en tvåårsperiod med start 2017, att fastighetsskatten för vattenkraftverk sänks stegvis till 0,5 procent av taxeringsvärdet under en fyraårsperiod med start samma år samt att dessa skattenedsättningar finansieras genom höjning av energiskatten på elektrisk kraft för hushåll och tjänsteföretag. I promemorian lämnas förslag på hur dessa förändringar ska genomföras.

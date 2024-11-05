@@ -1,0 +1,10 @@
+# Ändring av uppdraget att förbereda och verkställa förlängning av ett statligt garantiprogram till företag
+
+Med ändring av regeringens beslut den 3 juni 2021 om förlängd tid för uppdrag att förbereda och verkställa förlängning av ett statligt garantiprogram till företag (N2021/01771\) beslutar regeringen om följande ändring av villkoren för garantigivningen. Garantier för redan ingångna lån inom ramen för programmet kan ges en förlängd löptid upp till maximalt fem år. Beviljande av förlängning kan ske fr.o.m. denna dag fram till och med den 31 december 2021\. I övrigt ska det tidigare beslutet gälla oförändrat.
+
+
+Regeringen gav den 21 januari 2021 Riksgäldskontoret i uppdrag att vidta förberedande åtgärder och verkställa förlängning av ett statligt garantiprogram till företag (N2021/00168\). Kreditgarantier om sammanlagt högst 50 miljarder kronor (garantiram) fick ställas ut till kreditinstitut som bedriver verksamhet i Sverige, för lån till i första hand små och medelstora företag som på grund av pandemin fått ekonomiska svårigheter, men som i övrigt bedöms vara livskraftiga. Kreditgarantier fick ställas ut för lån som upptagits fr.o.m. den 1 januari 2021 t.o.m. den 30 juni 2021\. Lämnade garantier under programmet fick inte beviljas med en löptid utöver tre år. Den 3 juni beslutade regeringen att förlänga uppdraget till den 30 september 2021\.
+
+Många av krediterna kopplade till den s.k. företagsakuten är upptagna av små\- och medelstora företag i branscher där återhämtningen kan komma att ta lång tid. En förlängning av löptiden för de krediter som staten garanterar medger en längre tid och därmed ökad möjlighet för dessa i grunden livskraftiga bolag att amortera sina lån. Mot den bakgrunden bör garantier under ett statligt garantiprogram till företag kunna förlängas till en löptid upp till maximalt fem år.
+
+Förlängning av löptid för kreditgarantier som beviljas enligt detta beslut får lämnas i enlighet med Europeiska kommissionens beslut i ärende State Aid SA.100381 (2021/N) – Sweden COVID\-19: Amendment to SA.56860 prolonged in case SA.58659; and case SA.61486 – Government guarantee programme for companies (C(2021\)8228\)final.

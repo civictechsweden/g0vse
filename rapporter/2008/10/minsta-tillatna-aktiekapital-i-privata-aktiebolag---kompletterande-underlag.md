@@ -1,0 +1,5 @@
+# Minsta tillåtna aktiekapital i privata aktiebolag - kompletterande underlag
+
+I alla aktiebolag ska det finnas ett aktiekapital. I ett privat aktiebolag ska aktiekapitalet vara minst 100 000 kr och i ett publikt aktiebolag minst 500 000 kr. Utredningen om ett enklare aktiebolag har föreslagit att kravet på minsta tillåtna aktiekapital i privata aktiebolag sänks till 50 000 kr. Utredningen har också redovisat ett alternativt förslag som innebär att det nödvändiga aktiekapitalet inte i sin helhet ska behöva tillskjutas innan bolaget bildas utan kunna betalas in successivt.
+
+I samband med att utredningens förslag (SOU 2008:49\) nu remitteras önskar Justitiedepartementet få remissinstansernas synpunkter även på ett mer långtgående alternativ, nämligen att kravet på minsta tillåtet aktiekapital i privata aktiebolag sänks till 1 kr. Denna promemoria ger en kort bakgrund till det alternativet och redovisar de författningsändringar som då bedöms behöva göras.

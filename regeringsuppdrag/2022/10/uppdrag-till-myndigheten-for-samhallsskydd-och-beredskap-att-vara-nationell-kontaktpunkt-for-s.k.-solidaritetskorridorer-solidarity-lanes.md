@@ -1,0 +1,6 @@
+# Uppdrag till Myndigheten för samhällsskydd och beredskap att vara nationell kontaktpunkt för s.k. solidaritetskorridorer (Solidarity Lanes)
+
+Regeringen ger Myndig­heten för samhälls­skydd och beredskap (MSB) i uppdrag att vara nationell kontakt­punkt i enlighet med EU\-kommis­sionens meddelande (COM/2022/217 final) för s.k. solidaritets­korridorer (Solidarity Lanes). MSB ska i genom­förandet av upp­draget samverka med andra berörda aktörer.
+
+
+Som en del av EU:s insatser för solidaritet med Ukraina presen­terade EU\-kommis­sionen (DG Move) den 22 maj 2022 ett med­delande med en handlings­plan gällande trans­porter av jord­bruks­produkter till och från Ukraina. Syftet med handlings­planen är att se till att Ukraina kan exportera spann­mål men även importera de varor som behövs, såsom humani­tärt bistånd, djur­foder, gödsel­medel och bränsle. Kom­mis­sionen samarbetar med medlems­staterna, ukrainska myndig­heter, trans­port­operatörer, leveran­törer av utrustning och andra berörda parter för att upprätta alter­nativa och optime­rade logistik­vägar, så kallade solidari­tets­korridorer, mellan EU och Ukraina. För att underlätta sam­ordningen har EU\-kommis­sionen uppmanat medlems­staterna att inrätta en särskild kontakt­punkt för dessa s.k. solidaritets­korridorer.

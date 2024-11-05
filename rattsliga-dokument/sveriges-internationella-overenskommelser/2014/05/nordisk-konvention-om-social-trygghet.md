@@ -1,0 +1,7 @@
+# Nordisk konvention om social trygghet Bergen den 12 juni 2012
+
+Regeringen beslutade den 31 maj 2012 att underteckna konventionen. Den 21 mars 2013 beslutade regeringen att godkänna konventionen och Danmarks regering underrättades om godkännandet den 8 april 2013\. Konventionen trädde i kraft den 1 maj 2014\.
+
+Riksdagsbehandling: Prop. 2012/13:31, bet. 2012/13:SfU5, rskr. 2012/13:165,
+
+Den på danska, finska, isländska och norska avfattade texten kan erhållas från Utrikesdepartementets enhet för folkrätt, mänskliga rättigheter och traktaträtt.

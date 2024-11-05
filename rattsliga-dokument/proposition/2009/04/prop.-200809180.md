@@ -1,0 +1,7 @@
+# Gränsöverskridande fusioner för finansiella företag, m.m.
+
+I propositionen lämnas förslag till hur EG:s direktiv om gränsöverskridande fusioner ska genomföras för finansiella företag. Direktivet föreslås genomföras för bankaktiebolag, kreditmarknadsföretag, fondbolag, värdepappersbolag, börser, clearingorganisationer och försäkringsaktiebolag. För bankaktiebolag, kreditmarknadsföretag, fondbolag, värdepappersbolag, börser och clearingorganisationer föreslås att bestämmelserna om gränsöverskridande fusion i aktiebolagslagen och lagen om ekonomiska föreningar ska gälla. När det gäller bankaktiebolag och kreditmarknadsföretag föreslås dock vissa särbestämmelser som avser tillståndsgivningen och borgenärsskyddet. För försäkringsaktiebolag föreslås att bestämmelser om gränsöverskridande fusion tas in i försäkringsrörelselagen. Bestämmelserna utformas efter mönster i aktiebolagslagen och med motsvarande särbestämmelser som föreslås för bankaktiebolag. Vidare föreslås att Finansinspektionen, när bankaktiebolag, kreditmarknadsföretag eller försäkringsaktiebolag deltar i en fusion, ska få avslå en ansökan om tillstånd att verkställa en fusionsplan, om det är motiverat av hänsyn till allmänintresset.
+
+I propositionen läggs också fram några förslag som rör europabolag och europakooperativ som driver viss finansiell verksamhet. Förslagen avser Finansinspektionens och Skatteverkets motsättanderätt vid verksamhetsflytt utomlands.
+
+De nya bestämmelserna föreslås träda i kraft den 15 juli 2009\.

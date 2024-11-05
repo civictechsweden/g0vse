@@ -1,0 +1,7 @@
+# Den särskilda norrlandsskattenivån och vissa statsstödskrav på elskatteområdet
+
+I det nyligen remitterade betänkandet Energiskatt på el – En översyn av det nuvarande systemet lämnas förslag på förändringar av energibeskattningen vilket även omfattade hur vissa stödordningar inom energiskatten kan anpassas till EU\-rätten. I betänkandet föreslogs bland annat att den lägre skattenivån för el som förbrukas i vissa kommuner i norra Sverige (den så kallade norrlandsskattenivån) skulle avskaffas som ett led i denna anpassning.
+
+I denna promemoria, som i övriga delar bygger vidare på utredningens förslag, föreslås att den lägre skattenivån som gäller för förbrukning i vissa kommuner i norra delar av Sverige ska behållas, dock med vissa mindre, nödvändiga förändringar och begränsningar till följd av EU\-rätten. Dessa förändringar syftar bland annat till att genomföra EU\-rättens regler om offentliggörande av information om de företag som ges statligt stöd på en webbplats samt begränsningar till att inte ge stöd till företag som är i svårigheter eller föremål för återkrav av otillåtet statsstöd. Förslag lämnas också om att de sistnämnda förändringarna ska gälla även för stöd i form av lägre skattenivå vid elförbrukning i yrkesmässig jordbruks\-, skogsbruks\- och vattenbruksverksamhet.
+
+Förslagen föranleder ändringar i lagen om skatt på energi, som föreslås träda i kraft den 1 januari 2017\.

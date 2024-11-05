@@ -1,0 +1,3 @@
+# Fler bostäder åt unga och studenter
+
+I propositionen föreslås att ändringar görs i plan\- och bygglagen (2010:900\). Ändringarna innebär att avsteg från kraven på tillgänglighet och användbarhet alltid ska få göras vid inredning av bostäder på högst 35 kvadratmeter på en vind. Ändringarna innebär även att det av översiktsplanen ska framgå hur kommunen avser att tillgodose det långsiktiga behovet av bostäder. Propositionen innehåller därutöver förslag om att den maximala tiden för tidsbegränsat bygglov förlängs till femton år och att byggprocessen vid flyttning av vissa byggnader ska kunna förenklas genom undantag från kravet på tekniskt samråd. Lagändringarna föreslås träda i kraft den 1 juli 2014\.

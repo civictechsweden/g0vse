@@ -1,0 +1,6 @@
+# Ny resolution om kopplingen mellan konflikt och svält
+
+Den 24 maj antog FN:s säkerhetsråd enhälligt en resolution som för första gången berör kopplingen mellan konflikt och svält. Resolutionen lades fram av Sverige tillsammans med Nederländerna, Elfenbenskusten och Kuwait och baseras på ett svensk\-initierat ordförandeuttalande från augusti 2017\. I resolutionen framhålls att alla parter till väpnade konflikter ska efterleva sina folkrättsliga skyldigheter, inklusive de som följer av de mänskliga rättigheterna och den internationella humanitära rätten, och att de som kränker folkrätten måste hållas ansvariga.
+
+
+Säkerhetsrådet fördömer i resolutionen användning av svält som krigsmetod. Vikten av att ge humanitärt tillträde lyfts fram. Dessutom uppmanar rådet generalsekreteraren att informera säkerhetsrådet om situationer där konflikt leder till otrygg livsmedelsförsörjning, och tar upp möjligheten att sanktionera dem som använder svält som vapen. Resolutionen framhåller också kvinnors omistliga roll i att motverka och lösa konflikter och hur svält och konflikt drabbar kvinnor.

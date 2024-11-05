@@ -1,0 +1,3 @@
+# Undantag från kassaregisterkrav vid obetydlig omfattning
+
+I lagrådsremissen föreslås ändringar i skatteförfarandelagen avseende kassaregister. Ändringarna föreslås för att förtydliga undantaget från kravet på certifierat kassaregister när försäljning av varor eller tjänster bara sker i obetydlig omfattning. Lagen föreslås träda i kraft den 2 januari 2014\. Vidare föreslås en ändring i övergångsbestämmelsen till skatteförfarandelagen som innebär att den nya lydelsen även tillämpas på kontroller som påbörjats före utgången av 2011\. Lagen om kassaregister m.m. trädde i kraft den 1 januari 2008 och skyldigheten att använda certifierat kassaregister i kontantbranschen har funnits sedan den 1 januari 2010\.

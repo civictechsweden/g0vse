@@ -1,0 +1,3 @@
+# Vägledning för statliga myndighetsstyrelser
+
+Vägledning för statliga myndighetsstyrelser behandlar den statliga myndighetsstyrelsens ansvar, uppgifter och arbetsformer samt den enskilda ledamotens roll utifrån olika utgångspunkter. Den beskriver styrkedjan riksdag–regering– myndighet och sätter in styrelsen i dess konstitutionella sammanhang. Skriften vänder sig i första hand till ledamöter i statliga myndighetsstyrelser. Skriften lämpar sig även i valda delar för läsning av ledamöter i insynsråd och nämnder. Detta är den fjärde upplagan av vägledningen (tidigare benämnd Effektiv styrelse – Vägledning för statliga myndighetsstyrelser).

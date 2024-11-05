@@ -1,0 +1,3 @@
+# Sverige i Förenta nationerna 2003-2004
+
+I skrivelsen redogör regeringen för Förenta nationernas verksamhet under åren 2003 och 2004, med tonvikt på svensk FN\-politik under dessa år. Efter en sammanfattande inledning redovisas aktuella frågor inom ett flertal av FN:s centrala verksamhetsområden såsom fred och säkerhet, nedrustning och icke\-spridning, terrorism, utvecklingssamarbete och ekonomiska, sociala och miljörelaterade frågor, humanitära frågor, folkrätt och mänskliga rättigheter samt FN:s finanser. Särskild uppmärksamhet ägnas det pågående arbetet för att reformera FN, där regeringen redogör för ett antal prioriterade områden för att stärka FN:s effektivitet och legitimitet.

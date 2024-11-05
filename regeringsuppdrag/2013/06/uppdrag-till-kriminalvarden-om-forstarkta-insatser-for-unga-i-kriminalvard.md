@@ -1,0 +1,3 @@
+# Uppdrag till Kriminalvården om förstärkta insatser för unga i kriminalvård
+
+Kriminalvården ska genomföra en särskild satsning på åtgärder ägnade att förstärka det återfallsförebyggande arbetet för unga under verkställigheten. Utgångspunkten är att unga dömda efter verkställigheten ska vara bättre rustade för ett liv utan kriminalitet och missbruk. Satsningen ska bl.a. omfatta ett aktivt motivationsarbete i syfte att förmå den unga att ändra livsstil och lämna kriminella grupperingar. Insatserna ska utgå från de faktorer som har störst betydelse för återfall i brott såsom kriminella värderingar och kriminellt umgänge, men även innefatta åtgärder som bidrar till att förbättra unga dömdas förutsättningar på arbetsmarknaden.

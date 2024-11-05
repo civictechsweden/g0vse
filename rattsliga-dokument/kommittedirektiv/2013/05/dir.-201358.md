@@ -1,0 +1,3 @@
+# Tillsyn inom socialförsäkringsområdet
+
+En särskild utredare ska analysera behovet av en förstärkt tillsyn över socialförsäkringen utöver den tillsyn som utövas i dag. Den närmare innebörden och behovet av en reguljär tillsynsfunktion inom socialförsäkringsområdet ska analyseras. Den form av tillsyn som avses här är i första hand den som initieras utifrån enskildas klagomål och som bedrivs genom prövning av sådana klagomål eller genom inspektioner eller andra undersökningar. Utredaren ska framförallt fokusera på tillsynen över Försäkringskassans och Pensionsmyndighetens ärendehandläggning ur ett förvaltningsrättsligt perspektiv. Uppdraget ska redovisas senast den 1 april 2014\.

@@ -1,0 +1,9 @@
+# Karriärvägar för lärare i skolväsendet m.m.
+
+I propositionen föreslås att det i skollagen (2010:800\) ska införas dels ett så kallat målsättningsstadgande om att skolhuvudmännen ska sträva efter att inrätta karriärsteg för särskilt yrkesskickliga lärare, dels en upplysningsbestämmelse om att regeringen meddelar föreskrifter om statsbidrag till huvudmän i syfte att stimulera att dessa inrättar karriärstegen förstelärare och lektor.
+
+I propositionen görs bedömningen att det bör vara skolhuvudmännen som avgör vilka lärare som uppfyller kvalifikationerna för karriärsteg för lärare. En konsekvens av denna bedömning är att den reglering i skollagen som innebär att lektorer utses av Statens skolverk föreslås upp\-hävas. Det föreslås också att skollagen ändras så att kravet att en lärare ska ha genomfört en introduktionsperiod om minst ett läsår eller motsvarande på heltid för att kunna få legitimation, ska ändras till att i stället avse en termin när det är fråga om sådana lärare som dels har avlagt examen på forskarnivå eller motsvarande utländsk examen, dels har varit verksamma som lärare vid ett universitet, vid en högskola, inom skolväsendet eller inom motsvarande utbildning i Sverige eller i ett annat land.
+
+Det föreslås även en begränsning i skollagens bestämmelser om ekonomiskt stöd till inackordering av en elev i en gymnasiesärskola med offentlig huvudman, så att skyldigheten för elevens hemkommun att lämna sådant stöd inte ska gälla längre än till och med det första kalenderhalvåret det år eleven fyller 20 år.
+
+Ändringarna i skollagen föreslås träda i kraft den 1 juli 2013\.

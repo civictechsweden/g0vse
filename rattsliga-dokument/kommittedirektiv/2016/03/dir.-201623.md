@@ -1,0 +1,7 @@
+# En effektivare och mer konsekvent tillämpning av ekologisk kompensation
+
+En särskild utredare ska identifiera och föreslå åtgärder för att åstadkomma en effektivare och mer konsekvent tillämpning av ekologisk kompensation i samband med större exploatering och ingrepp i värdefulla mark\- och vattenområden. I detta ingår att säkerställa förutsägbarheten vid krav på kompensation och att underlätta ett kostnadseffektivt och långsiktigt verksamt genomförande av såväl frivilliga som obligatoriska kompensationsåtgärder, samt att verksamhetsutövare ges faktiska och rättsliga förutsättningar att genomföra kompensation.
+
+Åtgärderna ska syfta till att motverka nettoförluster av biologisk mång\-fald och ekosystemtjänster. Utredaren ska särskilt analysera hur tillämpningen av befintliga regelverk kan effektiviseras och hur kompensation kan stimuleras på frivillig basis. Vidare ska utredaren analysera hur tillgången till mark\- och vattenområden där kompensationen kan genomföras kan förbättras, och hur ett tillräckligt underlag för utformningen av kompensationsåtgärder kan tas fram på ett effektivt sätt. Utredaren ska i analysen särskilt ta hänsyn till miljökvalitetsmålen, principen om att förorenaren ska betala för miljöskador och regeringens förenklingsarbete för mer ändamålsenliga regler liksom behovet att kunna genomföra angelägna bygg\- och anläggningsprojekt. I uppdra get ingår att se över relevant lagstiftning och vid behov föreslå författningsändringar.
+
+Uppdraget ska redovisas senast den 1 mars 2017\.

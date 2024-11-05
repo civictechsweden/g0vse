@@ -1,0 +1,5 @@
+# Riksrevisionens rapport om livsmedelskontrollen
+
+Skrivelsen innehåller regeringens bedömningar när det gäller åtgärder med anledning av Riksrevisionens granskningsrapport Livsmedelskontrollen – tar staten sitt ansvar? (RiR 2014:12\).
+
+Av granskningsrapporten framgår att Riksrevisionen anser att staten inte tar ansvar för en fungerande livsmedelskontroll då regeringen inte har gjort tillräckligt för att komma till rätta med de brister och problem som finns. Riksrevisionens övergripande rekommendation är att regeringen och de ansvariga myndigheterna bör pröva om en tydligare statlig styrning leder till tillräckliga förbättringar i kontrollverksamheten. Regeringen delar delvis denna uppfattning och avser att ytterligare förtydliga instruktioner samt ge vissa uppdrag i syfte att förbättra och utveckla livsmedelskontrollen såsom Riksrevisionen föreslår. Att konsumenterna känner tillit till de livsmedel som produceras och säljs är av yttersta vikt. Regeringen anser att en väl fungerande livsmedelskontroll är en viktig förutsättning för denna tillit.

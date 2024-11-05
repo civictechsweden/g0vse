@@ -1,0 +1,3 @@
+# Maxtaxa och allmän förskola
+
+I propositionen föreslås ett stegvist införande av allmän förskola, förskoleverksamhet för barn vars föräldrar är arbetslösa eller föräldralediga samt maxtaxa, dvs. en viss högsta avgift inom förskoleverksamheten och skolbarnsomsorgen. Förskolan skall göras tillgänglig för alla barn i åldern fyra och fem år, omfatta minst 525 timmar om året och vara avgiftsfri. Förskoleverksamhet för barn vars föräldrar är arbetslösa eller föräldralediga skall omfatta minst tre timmar om dagen eller 15 timmar i veckan och gälla barn i åldern ett till och med fem år. Statsbidrag skall lämnas till kommuner som tillämpar en maxtaxa.

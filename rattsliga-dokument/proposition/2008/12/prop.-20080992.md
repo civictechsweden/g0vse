@@ -1,0 +1,3 @@
+# Ändringar i lagen (2003:113) om elcertifikat- tilldelningsprinciper och förhandsbesked
+
+Åtskilliga produktionsanläggningar fasas ut ur elcertifikatsystemet vid utgången av år 2012 eller år 2014\. Det är angeläget att det finns ett tydligt regelverk som gör det möjligt att investera i kapacitetsökningar som ger en ökad förnybar elproduktion i dessa anläggningar. I propositionen föreslås därför ändringar i lagen (2003:113\) om elcertifikat som syftar till att även fortsättningsvis stimulera en ökad produktion av el från förnybara energikällor och ge företagen möjlighet att få ett bättre beslutsunderlag inför nya investeringar i anläggningar för förnybar elproduktion.

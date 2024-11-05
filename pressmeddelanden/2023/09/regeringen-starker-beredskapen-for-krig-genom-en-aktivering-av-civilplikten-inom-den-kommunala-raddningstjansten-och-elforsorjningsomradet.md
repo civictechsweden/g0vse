@@ -1,0 +1,11 @@
+# Regeringen stärker beredskapen för krig genom en aktivering av civilplikten inom den kommunala räddningstjänsten och elförsörjningsområdet
+
+Sveriges förmåga att hantera höjd beredskap och ytterst krig behöver stärkas på bred front. I detta ingår att säkerställa att samhällsviktiga funktioner kan fungera även under höjd beredskap och ytterst krig och att den personal som behövs finns tillgänglig. Regeringen har därför tillsatt en utredning som ska ta ett helhetsgrepp kring frågan om hur personalförsörjningen inom det civila försvaret kan tryggas.
+
+Mot bakgrund av det allvarliga säkerhetspolitiska läget finns det dock skäl att mer skyndsamt vidta åtgärder som kan stärka det civila försvaret inom vissa områden. En sådan åtgärd är att skriva in personer, som redan har tillräcklig kompetens, för civilplikt inom den kommunala räddningstjänsten och elförsörjningsområdet. Detta ger förutsättningar att vid höjd beredskap snabbt öka mängden tillgänglig personal inom dessa verksamheter.
+
+Regeringen föreslår i budgetpropositionen ett tillskott om 40 miljoner kronor för aktiveringen av civilplikten inom kommunal räddningstjänst. Tillsammans med medel som redan har avsatts för personalförsörjning i Totalförsvarspropositionen 2020 innebär det att totalt 60 miljoner kronor avsätts för civilplikten under 2024\.
+
+De författningsändringar som krävs för denna aktivering av civilplikten föreslås träda i kraft den 19 januari 2024\. MSB planerar för att den första gruppen civilpliktiga ska kunna kallas till en inledande repetitionsutbildning i september samma år. Under 2024 är förhoppningen att omkring 300 personer kunna utbildas för civilplikt inom kommunal räddningstjänst. För 2025 föreslås medlen och därmed också antalet civilpliktiga att öka. För elförsörjningsområdet innebär förslaget en möjlighet att vid behov skriva in individer för civilplikt hos Affärsverket svenska kraftnät, men de närmare praktiska förutsättningarna för detta behöver analyseras närmare av Svenska kraftnät.
+
+Regeringen avser att överlämna detta förslag i budgetpropositionen för 2024\. Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna. Förslagen till författningsändringar kommer också inom kort att skickas på remiss till berörda aktörer.

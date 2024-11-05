@@ -1,0 +1,5 @@
+# Inspektionen för socialförsäkringen får i uppdrag att utvärdera stärkt rätt till personlig assistans och följa upp Försäkringskassans arbete mot felaktiga utbetalningar
+
+\- Regeringen prioriterar arbetet mot brott och felaktiga utbetalningar. Varje år beräknas 18 miljarder kronor felaktigt betalas ut från välfärdssystemen. Hälften av dessa beräknas vara bidragsbrott och hälften beror på felaktigheter. Skattepengarna ska gå till rätt ändamål och inte hamna i kriminellas fickor, därför lägger vi extra fokus på arbetet mot detta samhällsproblem, säger äldre\- och socialförsäkringsminister Anna Tenje.
+
+Två av uppdragen har koppling till frågan om brott och felaktiga utbetalningar, något som är tydligt prioriterat av regeringen. I övrigt rör uppdragen viktiga aspekter av socialförsäkringen, både analyser kopplat till effekter av aktuella reformer, analyser av socialförsäkringens funktion i stort och granskning av effektivitet och arbetssätt hos Försäkringskassan, Pensionsmyndigheten och Skatteverket.

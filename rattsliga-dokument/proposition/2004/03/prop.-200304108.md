@@ -1,0 +1,3 @@
+# Inteckning i utländsk valuta
+
+

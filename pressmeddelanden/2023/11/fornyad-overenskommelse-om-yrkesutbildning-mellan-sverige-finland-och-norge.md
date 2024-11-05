@@ -1,0 +1,5 @@
+# Förnyad överenskommelse om yrkesutbildning mellan Sverige, Finland och Norge
+
+– Det är viktigt att främja verksamhet som denna som bidrar till att möta behovet av kompetensförsörjning i norr och som stärker det regionala samarbetet mellan våra nordiska länder, säger arbetsmarknads\- och integrationsminister Johan Pehrson.
+
+Stiftelsen Utbildning Nordkalotten erbjuder yrkesinriktade utbildningar till deltagare från Finland, Norge och Sverige i syfte att främja och utveckla arbetsmarknaden och det regionala samarbetet mellan de nordligaste delarna av de tre länderna. Nu har företrädare för länderna tillsammans tagit fram ett förslag till överenskommelse om stiftelsens verksamhet för 2024–2027\. Överenskommelsen anger stiftelsens verksamhet, organisationen, samarbetsformerna och hur många utbildningsplatser länderna förbinder sig att köpa. Den svenska regeringen har nu undertecknat överenskommelsen med förbehåll för godkännande, och överenskommelsen lämnas nu över i en proposition till riksdagen.

@@ -1,0 +1,11 @@
+# Tilläggsskatt för företag i stora koncerner
+
+Propositionen innehåller förslag som syftar till att säkerställa att multinationella och nationella koncerner betalar en skälig andel skatt oavsett var de är verksamma. Förslagen föranleds av rådets direktiv (EU) 2022/2523 om säkerställande av en global minimiskattenivå för multinationella koncerner och storskaliga nationella koncerner i unionen. Direktivet bygger på de modellregler med tillhörande kommentar som OECD/G20:s inkluderande ramverk (IF) arbetat fram.
+
+Förslaget innebär att en nationell tilläggsskatt införs för att uppnå en effektiv minimibeskattning av enheter som ingår i stora nationella eller multinationella koncerner. Enligt förslaget ska sådana koncerner med en årlig intäkt motsvarande minst 750 miljoner euro vara föremål för en effektiv skatt om minst 15 procent på en särskilt definierad skattebas. Vissa enheter föreslås vara undantagna, vilket exempelvis gäller för myndighetsenheter, ideella organisationer och pensionsfonder. Tilläggsskatten föreslås regleras i en ny lag, lagen om tilläggsskatt.
+
+En tillfällig förenklingsregel (safe harbour\-regel) föreslås också som innebär att de multinationella koncernerna under en övergångsperiod inte behöver göra fullständiga beräkningar i enlighet med reglerna, utan de kan använda befintliga uppgifter.
+
+Propositionen innehåller även förslag på bestämmelser om förfarandet som krävs för att skatten ska kunna administreras samt att förfarandet regleras i skatteförfarandelagen (2011:1244\). Bestämmelserna innebär bl.a. en skyldighet att lämna en tilläggsskatterapport till Skatteverket för den som omfattas av den nya lagens tillämpningsområde. Förfarandet kompletteras även med en tilläggsskattedeklaration som ska lämnas in i de fall koncernenheten ska betala tilläggsskatt. Om det klart framgår att felaktiga uppgifter har lämnats i en tilläggsskatterapport eller att uppgifter som skulle ha lämnats har utelämnats föreslås att en ny särskild avgift i form av en rapportavgift ska kunna tas ut. En rapportavgift får dock tas ut endast om bristerna är allvarliga. Slutligen föreslås även att det ska vara möjligt att ansöka om förhandsbesked i frågor om tilläggsskatt.
+
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2024\.

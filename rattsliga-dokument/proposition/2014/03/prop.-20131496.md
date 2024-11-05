@@ -1,0 +1,7 @@
+# Informationsförfaranden i samband med organtransplantationer
+
+Propositionen innehåller förslag för att i svensk rätt genomföra de skyldigheter som följer av kommissionens genomförandedirektiv 2012/25/EU av den 9 oktober 2012 om informationsförfarandena för utbyte mellan medlemsstater av mänskliga organ avsedda för transplantation (EUT L 275, 10\.10\.2012, s. 27, Celex 32012L0025\).
+
+Direktivets krav att lämna uppgifter till andra medlemsstaters behöriga myndigheter eller delegerade inrättningar bör när det gäller rapporteringar av allvarliga händelser och allvarliga biverkningar och vidarebefordran av uppgifter om organ\- och donatorkarakterisering och spårbarhet genomföras i svensk rätt genom tillägg i offentlighets\- och sekretesslagen (2009:400\) och lagen (2012:263\) om kvalitets\- och säkerhetsnormer vid hantering av mänskliga organ.
+
+Lagändringarna föreslås träda i kraft den 1 juli 2014\.

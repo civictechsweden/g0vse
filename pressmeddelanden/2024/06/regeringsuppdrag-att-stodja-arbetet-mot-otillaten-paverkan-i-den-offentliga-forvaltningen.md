@@ -1,0 +1,11 @@
+# Regeringsuppdrag att stödja arbetet mot otillåten påverkan i den offentliga förvaltningen
+
+Otillåten påverkan är en allvarlig utmaning för den offentliga förvaltningen. Det kan till exempel handla om hot, våld och trakasserier eller mer subtila påverkansförsök som riktas mot offentliganställda i syfte att förmå dem att agera osakligt och partiskt. Särskilt allvarligt är att den organiserade brottsligheten använder otillåten påverkan som ett verktyg för att ta kontroll och tillskansa sig fördelar.
+
+– Det är avgörande att myndigheter, kommuner och regioner är väl rustade och fortsätter arbeta aktivt för att förebygga och hantera otillåten påverkan i verksamheterna. Vi måste värna om våra offentliganställda och om integriteten i det offentliga beslutsfattandet. Genom detta uppdrag kan vi effektivt stärka den offentliga förvaltningens förmåga att möta de utmaningar och hot som otillåten påverkan innebär, säger civilminister Erik Slottner
+
+Arbetet mot korruption och otillåten påverkan är högt prioriterat av regeringen. Utöver att påverkansförsök kan få allvarliga konsekvenser för verksamheten och de anställda som utsätts, är det också skadligt för allmänhetens förtroende för det offentliga och i förlängningen för demokratin. Att otillåten påverkan genom hot, våld, trakasserier, skadegörelse, korruption och infiltration på olika sätt får fäste i samhället måste motverkas. Regeringen har aviserat i budgetpropositionen för 2024 att en handlingsplan ska tas fram som tar ett brett grepp om arbetet mot korruption och otillåten påverkan.
+
+– Den organiserade brottsligheten är systemhotande. De gängkriminella infiltrerar bland annat rättsväsendet och andra myndigheter, och utövar påtryckningar mot offentliga beslutsfattare i både stat och kommuner. Alla delar av samhället måste öka sin förmåga att möta detta hot. Med det här uppdraget tar vi ytterligare steg för att stärka den offentliga förvaltningens förmåga att stå emot otillåten påverkan, säger justitieminister Gunnar Strömmer
+
+Uppdraget förväntas leda till att den offentliga förvaltningen får tillgång till stödmaterial som är lätta att använda och som omfattar kunskap och stöd som är praktiskt tillämpbart i arbetet med att förebygga och hantera otillåten påverkan.

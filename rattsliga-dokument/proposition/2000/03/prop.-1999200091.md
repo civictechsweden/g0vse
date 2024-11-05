@@ -1,0 +1,5 @@
+# Efterlevandepensioner och efterlevandestöd till barn
+
+I propositionen lämnas förlag till ändringar i stora delar av regelverket för det allmänna efterlevandepensionssystemet. Efterlevandepensioner utges i dag till efterlevande barn i form av barnpension och till efterlevande vuxna i form av omställningspension, särskild efterlevandepension och änkepension enligt övergångsbestämmelser. Samtliga förmåner inom efterlevandepensioneringen utges både som folkpension och som tilläggspension. Införandet av det reformerade ålderspensionssystemet innebär bl.a. att tilläggspensionen för ålderspensionärer avvecklas. Istället införs en pension som baseras på livsinkomsten. Som en utfyllnadsförmån till den inkomstrelaterade pensionen skall det finnas en garantipension. Detta är den huvudsakliga anledningen till de här föreslagna ändringarna av efterlevandepensionssystemet. Ytterligare ett skäl är att folkpensionen, liksom det särskilda grundavdraget för pensionärer som i dag utgör grundskyddet i såväl ålders\- som efterlevandepensionssystemet, kommer att avskaffas.
+
+Lagstiftningen föreslås träda i kraft den 1 januari 2003\.

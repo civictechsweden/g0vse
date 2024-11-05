@@ -1,0 +1,3 @@
+# Inrättande av en ny myndighet för hälso- och vårdinfrastruktur
+
+En särskild utredare ska förbereda och genomföra bildandet av en ny myndighet för hälso\- och vårdsinfrastruktur. Utredaren ska bl.a. beskriva arbetsuppgifter, bemanna myndigheten och lämna förslag till instruktion och anslag. Utredaren ska vidta de åtgärder som krävs för att den nya myndigheten ska kunna inleda sin verksamhet den 1 januari 2014\. Den nya myndigheten ska vara lokaliserad i Stockholm. Uppdraget ges med förbehåll för riksdagens beslut i nödvändiga delar. Uppdraget ska delredovisas den 1 april 2013 och den 15 september 2013 samt slutredovisas senast den 31 december 2013\.

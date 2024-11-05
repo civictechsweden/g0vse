@@ -1,0 +1,5 @@
+# EU inför ny sanktionsregim mot rysk hybridverksamhet
+
+– Sverige har varit pådrivande för att upprätta en ny sanktionsregim med anledning av Rysslands destabiliserande verksamhet. Det är ett konkret steg EU nu tar för att bemöta rysk hybridverksamhet. Det innebär att en sanktionsregim upprättas som riktar sig mot de som ansvarar, stöttar eller drar nytta av Rysslands hybrida verksamhet i EU och globalt, säger utrikesminister Maria Malmer Stenergard.
+
+Ryskt hybridagerande har intensifierats och står högt på dagordningen i EU, liksom i Nato. Inom ramen för EU:s strategiska kompass för säkerhet och försvar, har verktyg utvecklats för att upptäcka och bemöta olika hybridhot. Det handlar om hybridhot som sabotage, omstörtande verksamhet, utländsk informationsmanipulering, desinformation, skadlig cyberverksamhet samt instrumentalisering av migranter. Verktygen utvecklas kontinuerligt i syfte att nyttja alla tillgängliga instrument för att stärka EU:s motståndskraft och förhindra, avskräcka samt svara mot Rysslands hybridaktiviteter. De restriktiva åtgärderna som nu antas är en del i detta arbete.

@@ -1,0 +1,5 @@
+# Förbättringar av husavdragets fakturamodell
+
+I propositionen föreslås vissa ändringar av den så kallade fakturamodellen för husavdraget i syfte att förbättra dess funktion. Det föreslås att underlaget i samband med att utförare begär utbetalning från Skatteverket ska innehålla uppgifter om antalet arbetade timmar, debiterad ersättning för material och debiterad ersättning för annat än hushållsarbete och material samt vilken typ av arbete som har utförts. En begäran om utbetalning ska endast kunna lämnas elektroniskt. Om det finns särskilda skäl får Skatteverket medge befrielse för högst sex månader från skyldigheten att lämna begäran elektroniskt. Ansökan om befrielse ska göras senast den 30 april 2015\. Utbetalning ska vidare endast kunna ske till utförarens konto. Betalningssäkring ska kunna ske för att säkerställa återbetalning enligt lagen om förfarandet vid skattereduktion för hushållsarbete. Kommuniceringsbestämmelsen i den lagen anpassas till det nya skatteförfarandet. Vidare förtydligas ett antal bestämmelser.
+
+De föreslagna lagändringarna ska träda i kraft den 1 januari 2015\.

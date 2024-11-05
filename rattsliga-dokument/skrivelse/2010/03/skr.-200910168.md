@@ -1,0 +1,9 @@
+# Utvärdering av insatserna för forskning och innovation inom energiområdet
+
+I denna skrivelse redogör regeringen på en övergripande nivå för hur de av Statens energimyndighet (Energimyndigheten) administrerade statligt finansierade insatserna för forskning och innovation inom energiområdet har bedrivits sedan 2007\. Syftet är att svara på frågan om huruvida denna verksamhet motsvarar intentionerna i propositionen Forskning och ny teknik för framtidens energisystem (prop. 2005/06:127\).
+
+Det är regeringens bedömning att Energimyndighetens verksamhet inom forskning och innovation inom energiområdet motsvarar intentionerna. Energimyndigheten arbetar med tydliga och uppföljningsbara mål för verksamheten och till stor del har den önskvärda ökade fokuseringen av insatserna uppnåtts. Myndigheten samverkar med andra aktörer, såväl nationella som internationella, på ett ändamålsenligt sätt.
+
+Verksamheten kan konstateras bidra till målen om omställning av energisystemet, ökad kunskap och kompetens samt kommersialisering och övrigt nyttiggörande av resultaten. På grund av energiforskningens långsiktiga natur och interaktionen med andra styrmedel är det svårt att kvantifiera verksamhetens bidrag till energiomställningen. Det är dock regeringens bedömning att uthålliga satsningar, i alla faser från forskning till marknadsintroduktion, på bl.a. effektiv energianvändning, ny energiteknik, nya material och förändrade beteenden är nödvändiga för att målen för energiomställning ska uppnås. Utveckling av ny hållbar energiteknik kan därtill bli avgörande för att lösa globala energi\- och miljöproblem. Energimyndigheten har en nyckelroll för att öka Sveriges bidrag i detta arbete och samtidigt skapa möjligheter för svensk teknikexport.
+
+Regeringen bedömer att mål och inriktning för de statligt finansierade insatserna för forskning och innovation inom energiområdet bör ligga fast.

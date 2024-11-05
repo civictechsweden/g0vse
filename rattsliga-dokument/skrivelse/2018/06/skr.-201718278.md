@@ -1,0 +1,3 @@
+# Nationell planering för transportinfrastrukturen 2018–2029
+
+I skrivelsen redogör regeringen för planeringsarbetet och sitt beslut om fastställelse av nationell trafikslagsövergripande plan för transportinfrastrukturen för perioden 2018–2029 samt fastställelse av definitiva ekonomiska ramar för trafikslagsövergripande länsplaner för regional transportinfrastruktur för samma period. Vidare lämnas i skrivelsen en redogörelse för hur de tillkännagivanden som riksdagen riktade till regeringen med anledning av regeringens proposition Infrastruktur för framtiden – innovativa lösningar för stärkt konkurrenskraft och hållbar utveckling har omhändertagits.

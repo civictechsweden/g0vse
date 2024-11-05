@@ -1,0 +1,3 @@
+# Ändring av uppdrag till Myndigheten för ungdoms- och civilsamhällesfrågor att genomföra insatser för en öppen och inkluderande miljö i skolan för unga hbtq-personer
+
+Med ändring av uppdraget i regleringsbrevet 2016 för Myndigheten för ungdoms\- och civilsamhällesfrågor (MUCF) avseende insatser för en öppen och inkluderande miljö i skolan för unga hbtq\-personer (U2015/05946/UF) ger regeringen MUCF i uppdrag att under 2016–2019 genomföra insatser i syfte att motverka homofobi, bifobi och transfobi bland unga och skapa en öppen och inkluderande miljö för unga hbtq\-personer i skolan. Uppdraget utgör en förstärkning och en förlängning av insatserna inom ramen för pågående uppdrag.

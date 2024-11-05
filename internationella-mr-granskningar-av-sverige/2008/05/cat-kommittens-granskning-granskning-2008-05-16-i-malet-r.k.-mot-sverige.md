@@ -1,0 +1,8 @@
+# CAT-kommitténs granskning (2008-05-16) i målet R.K. mot Sverige
+
+FN:s CAT\-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.
+
+
+## Sammanfattning av yttrandet
+
+Ärendet rörde avvisning av en azerisk familj. Inför kommittén gjorde klagandena i huvudsak gällande att de riskerade att utsättas för tortyr vid ett återvändande till Azerbajdzjan på grund av att mannen (R.K.) varit aktiv i oppositionspartiet Müsavat och verksam som journalist för den regimkritiska tidningen Yeni Müsavat. Kommittén konstaterade bl.a. att R.K. vidgått att han inte haft en ledande ställning i Müsavat och att han inte förmått visa att han bedrivit politisk verksamhet av sådan betydelse att den än idag skulle tilldra sig azeriska myndigheters uppmärksamhet. Vidare noterade kommittén att det saknades bevis för R.K.s påstådda inblandning i en demonstration i samband med de azeriska valen år 2003, att R.K. aldrig blev arresterad på grund av detta och att han inte var efterlyst i Azerbajdzjan. Vad gällde påståendet om att R.K. tidigare utsatts för tortyr i hemlandet konstaterade kommittén bl.a. att han bara lämnat generell information om detta och att avgörande för prövningen hursomhelst var om det kunde anses föreligga en risk för tortyr i framtiden. I det avseendet ansåg kommittén att klagandena inte förmått visa att R.K. löpte en förutsägbar, reell och personlig tortyrrisk. Detsamma gällde de övriga klagandena eftersom deras klagomål var nära kopplade till R.K.s. Kommitténs slutsats blev att en verkställighet av avvisningsbesluten inte skulle utgöra en kränkning av artikel 3 i FN:s konvention mot tortyr m.m.

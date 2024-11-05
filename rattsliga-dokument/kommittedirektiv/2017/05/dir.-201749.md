@@ -1,0 +1,3 @@
+# Tilläggsdirektiv till Utredningen om ekonomiska styrmedel för el- och värmeproduktion inom EU ETS och ekonomiska styrmedel för avfallsförbränning (Fi 2016:02)
+
+Regeringen tillsatte den 2 juni 2016 Utredningen om ekonomiska styrmedel för el\- och värmeproduktion inom EU ETS och ekonomiska styrmedel för avfallsförbränning. Enligt direktiven skulle uppdraget ha redovisats senast den 1 juni 2017\. För att utredningen ska hinna beakta de nya nationella klimatmål som väntas beslutas inom kort och olika möjliga framtida utformningar av EU ETS i sina analyser och utarbetande av förslag bör utredningstiden förlängas. Uppdraget ska därför i stället redovisas senast den 31 oktober 2017\.

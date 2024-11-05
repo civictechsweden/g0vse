@@ -1,0 +1,7 @@
+# Kompletterande bestämmelser till EU:s förordning om gräsrotsfinansiering
+
+EU:s förordning om gräsrotsfinansiering, som ska tillämpas fr.o.m. den 10 november 2021, förutsätter vissa lagstiftningsåtgärder. I promemorian föreslås en ny lag med kompletterande bestämmelser till EU\-förordningen. I lagen utses Finansinspektionen till behörig myndighet och det tas in bestämmelser om bl.a. Finansinspektionens utrednings\- och tillsyns\-befogenheter, ingripanden och sanktioner vid överträdelser av förord\-ningen. Vidare införs bestämmelser om tystnadsplikt, skadestånd vid brister i investeringsfaktablad samt avgifter för att bekosta Finansinspek\-tionens verksamhet enligt förordningen.
+
+Utöver den nya lagen föreslås vissa ändringar i andra lagar. Lagen om värdepappersmarknaden ändras för att genomföra en ändring i direktivet om marknader för finansiella instrument. Lagen om åtgärder mot penningtvätt och finansiering av terrorism ändras så att bestämmelserna i den lagen gäller för leverantörer av gräsrotsfinansieringstjänster. Vidare ändras lagen om valutaväxling och annan finansiell verksamhet så att leverantörer av gräsrotsfinansieringstjänster undantas från krav på registrering som finansiella institut. Därutöver föreslås en ändring i kreditupplysningslagen för att möjliggöra utväxling av vissa uppgifter utan hinder av tystnadsplikt och en följdändring i lagen om internationell rättslig hjälp i brottmål.
+
+Den nya lagen och övriga lagändringar föreslås träda i kraft den 10 november 2021\.

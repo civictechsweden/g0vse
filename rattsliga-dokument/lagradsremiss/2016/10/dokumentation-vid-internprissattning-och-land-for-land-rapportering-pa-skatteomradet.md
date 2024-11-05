@@ -1,0 +1,9 @@
+# Dokumentation vid internprissättning och land-för-land-rapportering på skatteområdet
+
+I denna lagrådsremiss lämnas förslag till genomförande av OECD:s standard för dokumentation vid internprissättning och land\-för\-landrapportering. I lagrådsremissen lämnas även förslag till genomförande av EU\-direktivet om ändring i rådets direktiv om administrativt samarbete i fråga om beskattning, avseende land\-för\-land\-rapportering (DAC 4\). Förslaget innebär att det införs bestämmelser om land\-för\-landrapporter på skatteområdet och automatiskt utbyte av sådana land\-förland\- rapporter mellan skattemyndigheterna i EU:s medlemsstater och mellan skattemyndigheterna i de stater och jurisdiktioner som har undertecknat det multilaterala avtalet om land\-för\-land\-rapportering. Det föreslås att land\-för\-land\-rapporter ska lämnas av multinationella koncerner med en omsättning som överstiger 7 miljarder kronor och att de ska innehålla upplysningar som omfattar intäktsbelopp, vinst före inkomstskatt, betald och ackumulerad inkomstskatt, antalet anställda, aktiekapital, outdelad vinst och materiella anläggningstillgångar för varje skattejurisdiktion i vilken de utövar verksamhet.
+
+Förslagen innebär också att reglerna om internprissättningsdokumentation anpassas till OECD:s nya standard. Små och medelstora företag undantas från dokumentationsskyldighet. Dokumentationsskyldigheten utvidgas till att även omfatta svenska handelsbolag. Vidare ska även utländska juridiska personer som har fast driftställe i Sverige omfattas. Detsamma gäller svenska företags fasta driftställen utomlands.
+
+Oväsentliga transaktioner undantas från dokumentationsskyldigheten, och transaktioner gentemot en motpart som understiger 5 miljoner kronor räknas alltid som oväsentliga.
+
+Bestämmelserna föreslås träda i kraft den 1 april 2017\.

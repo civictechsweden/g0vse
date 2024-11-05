@@ -1,0 +1,3 @@
+# Nya regler om trängselskatt
+
+I promemorian lämnas förslag på ändringar i lagen om trängselskatt. Förslaget innebär att det nuvarande miljöbilsundantaget upphör att gälla den 1 januari 2009 i stället för den 1 augusti 2012\. Dock föreslås att undantaget ska fortsätta att gälla fram till den 1 augusti 2012 för bil som har registrerats i vägtrafikregistret före den 1 januari 2009 och som kvarstår i samma ägares hand. Anledningen till förslaget om förtida upphörande av miljöbilsundantaget är att antalet miljöbilar har ökat i snabb takt och att nuvarande regler därför riskerar att motverka trängselskattens huvudsyfte om minskad trängsel i Stockholm.

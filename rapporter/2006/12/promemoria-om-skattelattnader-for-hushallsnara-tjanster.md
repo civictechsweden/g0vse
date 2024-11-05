@@ -1,0 +1,3 @@
+# Promemoria om skattelättnader för hushållsnära tjänster
+
+I promemorian föreslås att en skattereduktion ska införas för fysiska personer som har haft utgifter för hushållsarbete. Hushållsarbete som omfattas av skattereduktionen är bland annat städarbete, vård av kläder och hemtextilier och tvätt vid tvättinrättning. Hushållsarbetet kan även avse omsorg, tillsyn och annan personlig hjälp till barn, funktionshindrade, personer med varaktig sjukdom och äldre. Även snöskottning och återkommande enklare trädgårdsskötsel av tomt eller trädgård kan omfattas. Hushållsarbetet ska i huvudsak vara utfört i eller i nära anslutning till bostaden.

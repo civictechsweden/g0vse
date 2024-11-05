@@ -1,0 +1,3 @@
+# Trängselskatt för miljöbilar
+
+Antalet miljöbilar i Stockholm har ökat i snabb takt och de står i dag för en stor andel av passagerna genom betalstationerna för trängselskatt. För att trängselskatten även i framtiden ska fylla sitt huvudsyfte att minska trängseln föreslår regeringen att miljöbilsundantaget ska upphöra från och med den 1 januari 2009\. Nyinköpta miljöbilar som registreras efter det datumet kommer därmed inte att vara undantagna från trängselskatt. Befintliga miljöbilar och miljöbilar som registreras före årsskiftet berörs inte av förslaget. För dessa bilar fortsätter alltså undantaget att gälla fram till och med juli 2012\.

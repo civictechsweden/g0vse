@@ -1,0 +1,4 @@
+# En effektivare förvaltningsstruktur inom politikområden med strategisk betydelse för nationell och regional konkurrenskraft
+
+Propositionen innehåller övergripande riktlinjer för en effektiviserad förvaltningsstruktur inom politikområden med strategisk betydelse för nationell och regional konkurrenskraft samt förändringar av några myndigheter inom näringspolitikens och den regionala tillväxtpolitikens områden.
+Regeringen redovisar sin bedömning att två nya myndigheter bör inrättas för att stärka hållbar tillväxt i företag och ökad regional konkurrenskraft respektive tillväxtpolitiska utvärderingar och analyser. Verket för näringslivsutveckling (Nutek) och Institutet för tillväxtpolitiska studier (ITPS) bör avvecklas. Glesbygdsverket föreslås avvecklas. Viss verksamhet bör föras över från Konsumentverket.

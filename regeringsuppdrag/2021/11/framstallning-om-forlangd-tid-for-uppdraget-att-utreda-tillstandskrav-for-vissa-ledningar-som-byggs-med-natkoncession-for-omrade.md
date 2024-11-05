@@ -1,0 +1,10 @@
+# Framställning om förlängd tid för uppdraget att utreda tillståndskrav för vissa ledningar som byggs med nätkoncession för område
+
+Med ändring av regeringens beslut den 3 juni 2021 med uppdrag till Energimarknadsinspektionen att utreda i vilken utsträckning det bör krävas att en undersökning sker i frågan om ett projekt kan antas medföra betydande miljöpåverkan och att en specifik miljöbedömning ska göras innan ett elnätsföretag får bygga och driva en elektrisk luftledning med stöd av en nätkoncession för område (I2021/01670\), ska uppdraget redovisas till Regeringskansliet (Infrastrukturdepartementet) senast den 1 februari 2022\.
+
+
+Regeringen uppdrog genom beslut den 3 juni 2021 åt Energimarknads\-inspektionen att utreda i vilken utsträckning det bör krävas att en undersökning sker i frågan om ett projekt kan antas medföra betydande miljöpåverkan och att en specifik miljöbedömning ska göras innan ett elnätsföretag får bygga och driva en elektrisk luftledning med stöd av en nätkoncession för område. Enligt beslutet ska uppdraget redovisas till Regeringskansliet (Infrastrukturdepartementet) senast den 1 december 2021\.
+
+Energimarknadsinspektionen har i en skrivelse den 19 november 2021 begärt förlängd tid för redovisning av uppdraget till den 1 februari 2022\. Energimarknadsinspektionen anför i skrivelsen att på grund av de omfattande förändringar som inspektionen bedömer behövs, krävs mer tid för att inhämta synpunkter från Naturvårdsverket. Omfattningen av förslagen gör också att det enligt Energimarknadsinspektionen krävs ytterligare tid för att analysera konsekvenserna av förslagen. Regeringen finner att det finns skäl att medge den förlängda tid som Energimarknadsinspektionen har begärt.
+
+Uppdraget ska redovisas till Regeringskansliet (Infrastrukturdepartementet) senast den 1 februari 2022\.

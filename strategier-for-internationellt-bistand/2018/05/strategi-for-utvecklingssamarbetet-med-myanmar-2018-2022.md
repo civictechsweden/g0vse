@@ -1,0 +1,6 @@
+# Strategi för utvecklingssamarbetet med Myanmar 2018-2022
+
+Målet för svenskt internationellt bistånd är att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Utvecklingssamarbetet ska ta sin utgångspunkt i principerna om bistånds\- och utvecklingseffektivitet liksom i de nya internationella överenskommelser som världen enades om under 2015\.
+
+
+Svenskt utvecklingssamarbete med Myanmar inom ramen för strategin ska bidra till ett demokratiskt, jämställt, fredligt och inkluderande samhälle där jämlik hälsa, mänskliga rättigheter och rättsstatens principer respekteras och människors sårbarhet för kriser och katastrofer minskar. Strategins bidrag till att möta den multidimensionella krisen för rohingyabefolkningen är del av alla mål och genomförandet. Strategin ska gälla under perioden 2018\-2022 och omfatta 1250 miljoner kronor för Sidas verksamhet och 30 miljoner kronor för FBA:s verksamhet för hela perioden. Målen för verksamheten är sammanlänkade och en integrerad ansats ska tillämpas.

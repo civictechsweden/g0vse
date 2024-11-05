@@ -1,0 +1,11 @@
+# Beslut om snabbare hantering av intyg till enskilda personer för hälso- och sjukvårdskostnader utomlands
+
+Intyget S1 används inom EU/EES för utsänd personal och andra personer som arbetar och bor i olika länder, bland annat personer som bor i en annan medlemsstat men arbetar i Sverige. Intyget ger rätt till subventionerad hälso\- och sjukvård i bosättningslandet. I Sverige är det Försäkringskassan som ansvarar för att utfärda intyg och för att ersätta personer för eventuella utlägg för kostnader för hälso\- och sjukvård som lämnats inom EU/EES. En rättssäker och effektiv hantering är av vikt för att enskilda ska få tillgång till den hälso\- och sjukvård samt den ersättning de är berättigade till.
+
+– Handläggningstiderna av både S1\-intygen och ersättningen är för långa. Sverige har ett stort engagemang internationellt och vi har precis blivit medlem i Nato vilket understryker vikten av att intygen utfärdas snabbare. I dag hinner många personer komma hem till Sverige igen innan intygen är utfärdade. Det är inte acceptabelt, inte minst eftersom det kan leda till att personer tvingas ligga ute med stora kostnader för hälso\- och sjukvård. Om intygen utfärdas snabbare skulle antalet ersättningsanspråk minska. Att handläggningsprocesserna snabbas på och effektiviseras är därför av stor vikt, säger äldre\- och socialförsäkringsminister Anna Tenje.
+
+Försäkringskassans uppdrag innefattar att till Regeringskansliet (Socialdepartementet) senast den 31 maj 2024 redovisa en handlingsplan för att minska handläggningstiderna. Därutöver ska Försäkringskassan ta fram relevanta indikatorer för att göra det möjligt att följa myndighetens hantering av frågan. Indikatorerna ska redovisas i samband med varje prognos.
+
+Regeringen har även gett Inspektionen för socialförsäkringen (ISF) uppdraget att granska och analysera att Försäkringskassans genomförande av uppdraget som behörig institution för vårdförmåner.
+
+Granskningsuppdraget består av tre delar, där ISF ska analysera och granska Försäkringskassans hantering av regelverket, planering av bland annat kompetens och resursförsörjning samt information till enskilda och arbetsgivare kring vad som gäller. Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 28 februari 2025\.

@@ -1,0 +1,10 @@
+# Globalt nätverk för hållbara investeringar
+
+Den 16 oktober 2019 lanserade FN:s generalsekreterare António Guterres det globala investerarnätverket Global Investors for Sustainable Development Alliance (GISD), till del inspirerat av det svenska nätverket Swedish Investors for Sustainable Development (SISD) som funnits sedan 2016\.
+
+
+Precis som det svenska nätverket ska det globala nätverket fungera som en plattform för att engagera och bidra till hållbara investeringar och utgöra ett forum för kunskapsutbyte. GISD\-nätverket har en bred geografisk förankring och omfattar 30 stora kapitalägare och kapitalförvaltare samt några producerande företag. En representant från det svenska nätverket ingår också.
+
+För att mobilisera de resurser som krävs för att uppnå målen i Agenda 2030 behövs innovativa partnerskap och en större samverkan med näringslivet. Undersökningar visar att sparare och framtida pensionärer har höga förväntningar på hållbar förvaltning av sina pengar och på ett större ansvarstagande från globala finansiella aktörer. Investerare som pensionsfonder, försäkringsbolag, investmentbolag och kapitalförvaltare kan bidra till Agenda 2030 dels genom direkta investeringar i t ex gröna obligationer dels genom att i sin ägarstyrning kräva bl.a. mer hållbar produktion samt, transparens och redovisning i hållbarhetsfrågor.
+
+Att investera långsiktigt och för kommande generationer har blivit en allt större fråga. Det globala investerarnätverket är därför ett viktigt steg; inte bara som ett globalt transparent forum där hållbarhet står i fokus utan det sätter också en trend för hur framtida aktörer kan investera i linje med de globala målen för hållbar utveckling. Det har därmed en viktig roll för att katalysera engagemang och resurser som ett led i förverkligandet av Agenda 2030, Addis Ababa Action Agenda för Utvecklingsfinansiering och klimatavtalet från Paris.

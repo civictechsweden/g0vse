@@ -1,0 +1,3 @@
+# Konvention mellan Sverige och Amerikas förenta stater om social trygghet
+
+I propositionen föreslås att riksdagen godkänner tilläggsöverenskommelsen om social trygghet mellan Sverige och Amerikas förenta stater av den 22 juni 2004\. Överenskommelsen ersätter vissa bestämmelser i konventionen av den 27 maj 1985 mellan Sverige och Amerikas förenta stater om social trygghet (SFS 1986:734, SÖ 1986:47\). Vidare föreslås att konventionen antas att gälla som lag i Sverige. I huvudsak föranleds ändringarna i konventionen av det reformerade svenska pensionssystemet som i sin helhet trädde i kraft den 1 januari 2003\. I anpassningen av konventionen görs inga nya åtaganden som medför kostnader för svenskt vidkommande.

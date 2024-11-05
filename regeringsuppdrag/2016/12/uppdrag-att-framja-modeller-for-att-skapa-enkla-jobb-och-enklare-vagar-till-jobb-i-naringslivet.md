@@ -1,0 +1,8 @@
+# Uppdrag att främja modeller för att skapa enkla jobb och enklare vägar till jobb i näringslivet
+
+Regeringen uppdrar åt Tillväxtverket att främja nya modeller eller vidareutveckla modeller som syftar till att öka arbetsgivares benägenhet att anställa nyanlända och personer som varit utan arbete en längre tid. Det kan t.ex. handla om modeller där intermediärer tar arbetsgivaransvar och därigenom minskar den osäkerhet som arbetsgivare kan uppleva vid anställning av personer med svårbedömd kompetens eller modeller för kompetenshöjande insatser samt coachning och handledning.
+
+
+Uppdraget ska utföras i form av en utlysning av medel till utveckling av projekt eller upphandling av insatser som kan bidra till att nyanlända och personer som varit utan arbete en längre tid kommer i arbete. Uppdraget ska genomföras med utgångspunkt i företagens behov och är ett led i regeringens arbete med att skapa förutsättningar för fler enkla jobb och enklare vägar till jobb i näringslivet.
+
+Tillväxtverket ska senast den 31 mars 2017 lämna en lägesrapport till Regeringskansliet (Näringsdepartementet) och då redovisa vilka modeller och initiativ som uppdraget hittills omfattat. Verket ska hålla departementet löpande uppdaterat om utvecklingen av uppdraget. Tillväxtverket ska senast den 1 mars 2018 lämna en slutredovisning till Regeringskansliet (Näringsdepartementet) med avseende på uppdragets resultat och hur medlen har använts samt slutsatser och förslag på eventuell uppskalning av projekt med goda resultat.

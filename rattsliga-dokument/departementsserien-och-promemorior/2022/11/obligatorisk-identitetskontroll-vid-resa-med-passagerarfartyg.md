@@ -1,0 +1,3 @@
+# Obligatorisk identitetskontroll vid resa med passagerarfartyg
+
+Under våren 2022 infördes en skärpning av kravet på att skyldigheten att registrera uppgifter om ombordvarande ska uppfyllas efter kontroll av giltig identitetshandling. Skärpningen innebar att man tog bort begränsningen om att detta bara skulle gälla om det för passagerarfartygets resa fanns skäl att anta att uppgifter som lämnats utan att styrkas med identitetshandling kunde vara oriktiga. Den införda skärpningen förlängdes i augusti 2022\. Skärpningen upphör att gälla den 31 december 2022\. Denna promemoria innehåller ett förslag om att den i stället ska upphöra att gälla först den 30 juni 2023\. Därutöver föreslås att en ytterligare begränsning för resor som startar i Sverige ska införas.

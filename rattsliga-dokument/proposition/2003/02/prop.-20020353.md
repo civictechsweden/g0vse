@@ -1,0 +1,3 @@
+# Stärkt skydd för barn i utsatta situationer m.m.
+
+I propositionen föreslås ett antal lagstiftningsåtgärder i syfte att stärka skyddet för barn i utsatta situationer. I socialtjänstlagen (2001:453\), SoL utvidgas anmälningsskyldigheten enligt 14 kap. 1 § till att omfatta myndigheter inom kriminalvården och rättspsykiatriska avdelningar inom Rättsmedicinalverket samt anställda inom dessa myndigheter. I syfte att öka kunskaperna om anmälningsskyldigheten och skapa ökad uppmärksamhet kring denna inom berörda verksamheter införs hänvisningar till anmälningsskyldigheten i de lagar som reglerar verksamheter som regelbundet kommer i kontakt med barn.

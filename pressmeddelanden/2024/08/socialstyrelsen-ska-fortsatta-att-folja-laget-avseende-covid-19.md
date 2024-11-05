@@ -1,0 +1,5 @@
+# Socialstyrelsen ska fortsätta att följa läget avseende covid-19
+
+– Uppdraget har varit ett viktigt verktyg för att upprätthålla en förstärkt beredskap för ökad smittspridning av infektionssjukdomar i samhället. Det har också legat till grund för regeringens och myndigheternas analyser av det epidemiologiska läget. Det är därför angeläget att uppdraget fortsätter, säger sjukvårdsminister Acko Ankarberg Johansson.
+
+I juli 2022 gav regeringen Socialstyrelsen i uppdrag att övervaka situationen inom hälso\- och sjukvården avseende covid\-19 (S2022/03297\). Uppdraget har sedan förlängts och utökats till att även fokusera på infektionssjukdomar som har en betydande påverkan på vården (S2023/00795\). Uppdraget innefattar att kontinuerligt samla in aktuella uppgifter om bland annat antalet inneliggande patienter, tillgängliga vårdplatser inom slutenvården (inklusive intensivvårdsavdelningar) samt operationskapacitet och att ha ett nära samarbete och utvecklingsarbete med Svenska Intensivvårdsregistret (SIR).

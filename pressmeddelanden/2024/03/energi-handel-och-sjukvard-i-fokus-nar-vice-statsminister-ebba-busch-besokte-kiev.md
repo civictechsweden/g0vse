@@ -1,0 +1,13 @@
+# Energi, handel och sjukvård i fokus när vice statsminister Ebba Busch besökte Kiev
+
+– Ukraina har visat på en imponerande förmåga att leverera el där det behövs, när det verkligen behövs. Den ukrainska energisektorn har visat på mod, effektivitet och ett djupt kunnande om sitt elsystem. Sverige lägger nu om energipolitiken och har lagt fram ett mål för leveranssäkerhet för att säkerställa att vi får en stark elförsörjning även här. Sverige har mycket att lära av Ukraina, säger energi\- och näringsminister Ebba Busch.
+
+Under besöket mötte Ebba Busch Ukrainas energiminister Herman Halusjtjenko för att samtala om hur vi stärker samarbete inom kärnkraftsindustrin som har varit helt avgörande för att leverera el under Rysslands fullskaliga invasion av Ukraina. Kärnkraften är ett avgörande verktyg för att öka energisäkerheten i respektive land och möjliggöra en trygg och säker elektrifiering och högre grad av förnybara energikällor. Mötet skedde i ljuset av den senaste tidens intensifierade ryska attacker specifikt riktat mot det ukrainska elsystemet. Under besöket besköt Ryssland Kiev. Missilerna sköts ned av Kievs effektiva luftförsvar. Händelsen visar på vikten av ett väl fungerande försvar.
+
+Ebba Busch träffade även presidentrådgivare Rostyslav Shurma samt vice premiärminister Yulia Svyrydenko för att diskutera hur svenska företag kan investera i Ukraina och hur den ukrainska ekonomin kan bli mer uthållig i det pågående kriget. Ministern avslutade dagen med att träffa flera representanter från tunga svenska företag i Ukraina.
+
+– Det var glädjande att se det engagemang svenska företag visar för att hjälpa till med Ukrainas återuppbyggnad. Svenska företag har mycket att bidra med i form av gröna och högkvalitativa lösningar i många sektorer såsom energi, infrastruktur, digitalisering och hälsovård säger energi\- och näringsminister Ebba Busch.
+
+Sverige ger stöd till Ukrainas veteraner både på plats i Ukraina och i Sverige. Över 430 patienter har erbjudits vård i Sverige. Sverige bistår också med utbildningsinsatser för vårdpersonal. Under besöket fick vice statsminister Ebba Busch ta del av arbete och träffade patienter hos Kyiv City Clinical Hospital for War Veterans där över 10 000 patienter vårdas varje år.
+
+– De ukrainska krigsveteranerna jag mötte har betalat det yttersta priset vid fronten med livet som insats. De har mist landsmän och kommit tillbaka med en tung erfarenhet att bära och har skador för livet. Många har mist ett ben eller en arm. Jag är djupt berörd av deras mod och skarpa uppmaning om omvärldens fortsatta stöd där många av dem trots sina skador önskade återvända till fronten. Det minsta vi kan göra är att stötta dem, säger energi\- och näringsminister Ebba Busch.

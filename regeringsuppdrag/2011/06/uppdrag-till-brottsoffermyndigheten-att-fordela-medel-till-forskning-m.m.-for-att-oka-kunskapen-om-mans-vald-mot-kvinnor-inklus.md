@@ -1,0 +1,3 @@
+# Uppdrag till Brottsoffermyndigheten att fördela medel till forskning m.m. för att öka kunskapen om mäns våld mot kvinnor ...
+
+Brottsoffermyndigheten ges i uppdrag att fördela medel till forskning, metodutveckling och andra liknande insatser, vilka syftar till att öka kunskapen om mäns våld mot kvinnor, inklusive sexuellt våld och andra sexuella övergrepp.

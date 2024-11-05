@@ -1,0 +1,7 @@
+# Europeiska kommissionen godkänner regeringens elstöd till företag
+
+Regeringen har under våren arbetat intensivt med att få elstödet till företag och organisationer på plats. Den 20 februari remitterade Klimat\- och näringslivsdepartementet och Finansdepartementet två förslag med regleringar för stödutbetalningarna. Parallellt inledde Klimat\- och näringslivsdepartementet en dialog med Europeiska kommissionen. Den 4 april kunde en formell statsstödsanmälan skickas in.
+
+– Många företag och organisationer har drabbats hårt av energikrisen och höga elpriser. Jag är därför glad att meddela att Europeiska kommissionen godkänt regeringens förslag på elstöd till företag. För att skapa jobb och konkurrenskraft på lång sikt krävs att vi bygger svenskt elsystem starkt igen, säger energi\- och näringsminister Ebba Busch.
+
+En skillnad jämfört med det remitterade förslaget är att företag och organisationer med fastprisavtal för sin hela elförbrukning som började gälla före den 24 februari 2022 och som fortfarande gällde med samma fasta pris den 24 februari 2023 inte kommer vara stödberättigade. Anledningen till detta är att Europeiska kommissionen bland annat ville försäkra sig om att endast företag och organisationer som påverkats negativt av Rysslands invasion av Ukraina får del av elstödet. I övrigt har endast marginella justeringar gjorts i förslaget. Företag kommer som tidigare aviserat kunna ansöka hos Skatteverket från och med den 30 maj.

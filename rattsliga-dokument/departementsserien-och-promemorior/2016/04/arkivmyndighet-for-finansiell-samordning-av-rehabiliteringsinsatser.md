@@ -1,0 +1,5 @@
+# Arkivmyndighet för finansiell samordning av rehabiliteringsinsatser
+
+I denna promemoria föreslås en ändring i lagen (2003:1210\) om finansiell samordning av rehabiliteringsinsatser. Det föreslås att ansvaret för att ett samordningsförbund fullgör sina skyldigheter enligt arkivlagen (1990:782\) ska ligga på arkivmyndigheten i en kommun som är medlem i förbundet i stället för på kommunstyrelsen. Bestämmelsen föreslås träda i kraft den 1 januari 2017\. I promemorian föreslås också att lagen (2003:1217\) om fortsatt lokal försöksverksamhet med finansiell samordning mellan socialförsäkring, hälso\- och sjukvård och socialtjänst i vissa fall ska upphävas.
+
+Samverkan enligt lagen (2003:1210\) om finansiell samordning av rehabiliteringsinsatser (Finsam) infördes den 1 januari 2004\. Finansiell samordning bedrivs genom samordningsförbund, som är en sammanslutning av stat (Försäkringskassan och Arbetsförmedlingen), landsting samt en eller flera kommuner. Ett samordningsförbund utgör en offentligrättslig juridisk person som har egen rättskapacitet. Vid utgången av 2014 fanns det 85 samordningsförbund, vilket omfattar 240 av Sveriges 290 kommuner.

@@ -1,0 +1,4 @@
+# Ny organisationsstruktur för stödet till FM
+
+Med stöd av regeringens bemyndigande den 29 april 2010 har chefen för Försvarsdepartementet gett en särskild utredare i uppdrag att lämna förslag på hur reduceringar kan genomföras av Försvarsmaktens logistikverksamhet och det stöd till Försvarsmakten som Försvarets Materielverk, Försvarshögskolan och Totalförsvarets forskningsinstitut lämnar när det gäller materiel\- och logistikförsörjning samt forskning och utveckling (dir. 2010:45\).
+Regeringen ger nu utredningen i uppdrag att utöver detta lämna förslag på fortsatt lokalisering av Sveriges certifieringsorgan för IT\-säkerhet (CSEC) samt vilken myndighet som ska ansvara för signatärskapet för Common Criteria Recognition Arrangement (CCRA). Tilläggsuppdraget ska redovisas senast den 1 april 2011\.

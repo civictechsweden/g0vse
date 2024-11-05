@@ -1,0 +1,3 @@
+# En begränsningsregel för förmögenhetsskatten
+
+

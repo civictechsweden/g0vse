@@ -1,0 +1,7 @@
+# Genomförande av avtal mellan Sveriges regering och Amerikas förenta staters regering för att förbättra internationell efterlevnad av skatteregler och för att genomföra FATCA
+
+I promemorian lämnas förslag till de författningar som krävs för att genomföra avtalet mellan Sveriges regering och Amerikas förenta staters regering för att förbättra internationell efterlevnad av skatteregler och för att genomföra FATCA (FATCA\-avtalet). De skyldigheter som följer av avtalet kan delas in i tre huvudsakliga delar. För Sveriges del är det fråga om skyldigheter för rapporteringsskyldiga finansiella enheter när det gäller identifiering av finansiella konton som innehas av amerikanska personer, skyldigheter för rapporteringsskyldiga finansiella enheter att lämna uppgifter till Skatteverket om de konton som identifierats och skyldigheter för Skatteverket att överföra information till den amerikanska federala skattemyndigheten.
+
+I promemorian föreslås en ny lag om identifiering av rapporteringspliktiga konton med anledning av FATCA\-avtalet. Ändringar föreslås även i skatteförfarandelagen för att genomföra de finansiella enheternas skyldigheter att lämna uppgifter om de konton som identifierats till Skatteverket. Vidare föreslås en ny lag om utbyte av upplysningar med anledning av FATCA\-avtalet. Därutöver föreslås vissa följdändringar i offentlighets\- och sekretesslagen. I promemorian lämnas också förslag till de förordningar och förordningsändringar som krävs för att genomföra FATCA\-avtalet.
+
+Bestämmelserna föreslås träda i kraft den 1 april 2015\.

@@ -1,0 +1,7 @@
+# Forskning och rymd i fokus på ministerrådsmöte i Bryssel
+
+Under förmiddagen väntas forskningsministrarna anta rådets slutsatser om öppen vetenskap och vetenskaplig publicering. Syftet med rådsslutsatserna är att påskynda övergången till öppen vetenskap med fokus på att stärka forskningens kvalitet, effektivitet och genomslagskraft. Ministrarna kommer även att hålla en riktlinjedebatt om kunskapssäkerhet och ansvarsfull internationalisering. Därefter följer en lunchdiskussion om vetenskapsförnekelse och kunskapsresistens.
+
+Eftermiddagen kommer att ägnas åt rymdfrågor. Rymdministrarna väntas anta rådsslutsatser om en rättvis och hållbar användning av rymden. Bakgrunden är att den snabba teknikutvecklingen har lett till ökad trängsel i rymden avseende både satelliter och rymdskrot samtidigt som vi är alltmer beroende av rymdinfrastrukturen för samhällsviktig verksamhet. I slutsatserna anges att rymden är en global allmänning och alltså måste skyddas för att även i framtiden kunna användas för samhället och medborgarnas nytta. Ministrarna ska också hålla en riktlinjedebatt om EU:s rymdpolitik i ett nytt geopolitiskt landskap och hur detta kan komma att påverka de nuvarande rymdprogrammen.
+
+– Jag ser fram emot att träffa mina europeiska kollegor för att bland annat diskutera öppen vetenskap och hur vi får till en rättvis användning av rymden. Det är frågor som inte bara är viktiga för EU utan för hela världen, säger utbildningsminister Mats Persson.

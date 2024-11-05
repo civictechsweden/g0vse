@@ -1,0 +1,9 @@
+# Ny kompetensutveckling ska bygga på vetenskapligt belagda undervisningsmetoder
+
+Fortbildningen ska ge goda kunskaper om vetenskapligt belagda undervisningsmetoder, så att lärare blir ännu bättre rustade för att lära eleverna att läsa, skriva och räkna. Det handlar bland annat om hur lärare kan lära de yngsta eleverna att läsa genom att stärka deras förmåga att avkoda text och om undervisningsmetoder för grundläggande matematikutveckling. Inom ramen för uppdraget ska Skolverket även presentera det vetenskapliga stöd som ligger till grund för insatserna.
+
+– Många lärare vittnar i dag om att lärarutbildningen inte har gett nödvändig kunskap om hur man lär eleverna läsa, skriva och räkna. Därför måste vi, parallellt med att vi förbättrar lärarutbildningen, också se till att dagens lärare får relevant fortbildning som vilar på vetenskaplig grund i just detta, säger skolminister Lotta Edholm.
+
+Tidigare har den kompetensutveckling Skolverket erbjudit i stor utsträckning byggt på kollegialt lärande. Både Läslyftet och Matematiklyftet är exempel på detta. Det finns dock flera utmaningar med att få det kollegiala lärandet att fungera på ett bra sätt. Kollegor kan exempelvis inte alltid vara det stöd som en lärare eller förskollärare behöver i sin fortbildning och det kan också finnas organisatoriska svårigheter, som att schemalägga mötestid för de personer som ska delta. Utgångspunkten för den nya kompetensutvecklingsmodellen ska därför vara att förskollärare och lärare ska kunna delta enskilt men det ska också byggas in möjligheter till gemensamma planerings\- och reflektionstillfällen.
+
+Skolverket ska redovisa uppdraget om en kompetensutvecklingsmodell senast den 14 november 2024\. Uppdraget om att förbereda för fortbildning i form av uppdragsutbildning ska redovisas senast den 28 februari 2025\.

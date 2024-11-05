@@ -1,0 +1,3 @@
+# Uppdrag om insatser för att stärka läslovet
+
+Regeringen ger Statens skolverk i uppdrag att genomföra kontinuerliga och långsiktiga insatser för att stärka läslovet från och med 2018\. Syftet med insatserna är att väcka nyfikenhet för de möjligheter som skönlitteratur och sakprosa kan ge samt stimulera läsintresse hos barn och elever oavsett kön i förskola, förskoleklass, fritidshem samt grundskola, grundsärskola, specialskola och sameskola. I uppdraget ska folkbibliotekens och skolbibliotekens verksamhet särskilt beaktas. Målsättningen med uppdraget om insatserna är att etablera läslovet både som begrepp och företeelse.

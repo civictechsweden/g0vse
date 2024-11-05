@@ -1,0 +1,3 @@
+# Utbetalning av barnbidrag och flerbarnstillägg
+
+I propositionen lämnas förslag om utbetalning av barnbidrag, anmälan för flerbarnstillägg och beräkning av flerbarnstillägg i vissa fall. Lagändringarna med vissa övergångsbestämmelser föreslås träda i kraft den 1 mars 2014\.

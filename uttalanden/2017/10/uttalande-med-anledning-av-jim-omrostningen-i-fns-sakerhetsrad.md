@@ -1,0 +1,3 @@
+# Uttalande med anledning av JIM-omröstningen i FN:s säkerhetsråd
+
+Utrikesdepartementet beklagar att det idag inte har varit möjligt för FN:s säkerhetsråd att enas om en mandatförlängning för OPCW och FN: s gemensamma undersökningsmekanism (eng. Joint Investigative Mechanism, JIM). Sverige stod bakom ett resolutionsutkast som skulle förlänga JIM:s mandat med ett år. Sverige har fullt förtroende för JIM:s professionalism och integritet. Det är fortsatt en omistlig mekanism för att kunna ställa dem som ligger bakom attacker med kemiska vapen i Syrien till svars. Arbetet med att ena rådet till stöd för JIM måste nu fortsätta.

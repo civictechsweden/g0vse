@@ -1,0 +1,3 @@
+# Översyn av den offentliga sektorns användning av helikopterresurser
+
+En särskild utredare skall se över hur den offentliga sektorns användning av helikoptertjänster kan bli mer effektiv. Avsikten är att man genom ett ökat samutnyttjande och lokalisering skall uppnå effektiviserings\- och rationaliseringseffekter. Utredaren skall behandla frågor om huvudmannaskap, samfinansiering, behov och tillgänglighet samt vilka begränsningar som kan finnas i de aktuella regelverken. Den särskilde utredaren skall vidare utreda frågan om lämpligheten av och fördelarna med att i ökad utsträckning ingå avtal med kommersiella helikopteroperatörer.

@@ -1,0 +1,7 @@
+# Kompletteringar av socialförsäkringsbalken
+
+Regeringen beslutade den 28 maj 2009 propositionen 2008/09:200 Socialförsäkringsbalk. I propositionen föreslås en ny socialförsäkringsbalk, som ska ersätta det trettiotal lagar som i dag reglerar socialförsäkringen. Enligt det överlämnade förslaget ska ocialförsäkringsbalken träda i kraft den 1 januari 2011 samtidigt som de tidigare lagarna upphävs.
+
+I denna proposition lämnas förslag till kompletteringar av socialförsäkringsbalken. Kompletteringarna innebär att det i socialförsäkringsbalken förs in ändringar i den nuvarande socialförsäkringslagstiftningen. Detta gäller ändringar som föreslagits i propositioner vid sådana tidpunkter att de inte har kunnat beaktas i det tidigare överlämnade förslaget till socialförsäkringsbalk. De författningsändringar som nu ska föras in i socialförsäkringsbalken rör bland annat utvidgad rätt till tillfällig föräldrapenning, förändringar i sjukförsäkringen i samband med förstärkta insatser för återgång i arbete, förmögenhetsberäkning vid fastställande av socialförsäkringsförmåner, vissa förändringar i premiepensionssystemet och inrättandet av en ny pensionsmyndighet.
+
+Samtidigt föreslås i socialförsäkringsbalken även några justeringar i språkligt hänseende och av hänvisningar. De föreslagna ändringarna inarbetas på sådant sätt att de kommer att ingå i socialförsäkringsbalken när denna träder i kraft den 1 januari 2011\.

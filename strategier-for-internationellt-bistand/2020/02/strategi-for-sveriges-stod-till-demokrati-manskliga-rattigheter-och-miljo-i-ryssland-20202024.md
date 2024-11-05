@@ -1,0 +1,3 @@
+# Strategi för Sveriges stöd till demokrati, mänskliga rättigheter och miljö i Ryssland 2020–2024
+
+Regeringen beslutade den 30 januari 2020 om en ny femårig strategi för Sveriges stöd till demokrati, mänskliga rättigheter och miljö i Ryssland. Strategin ska bidra till stärkta förutsättningar för en demokratisk utveckling i Ryssland, stärkt yttrandefrihet och ökad respekt för mänskliga rättigheter och rättsstatens principer. Verksamheten inom ramen för strategin ska även bidra till en förbättrad miljö och ett fördjupat klimatarbete i bland annat Östersjöområdet. En viktig målsättning är bredare relationer mellan Sverige och Ryssland, med särskild betoning på mellanfolkligt samarbete.

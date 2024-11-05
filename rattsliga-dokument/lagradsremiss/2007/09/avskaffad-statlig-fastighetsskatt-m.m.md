@@ -1,0 +1,3 @@
+# Avskaffad statlig fastighetsskatt, m.m.
+
+I lagrådsremissen föreslås att den statliga fastighetsskatten ersätts med en kommunal fastighetsavgift. Den kommunala fastighetsavgiften föreslås bli 6 000 kronor för småhus, dock högst 0,75 procent av taxeringsvärdet och 1 200 kronor per bostadslägenhet för flerbostadshus, dock högst 0,4 procent av taxeringsvärdet. För att finansiera förslaget föreslås att kapitalvinstskatten för privatbostäder höjs från 20 till 22 procent av vinsten. Dessutom föreslås ett antal förändringar i systemet med uppskov med beskattning av kapitalvinst vid avyttring av privatbostad. Förändringarna föreslås träda i kraft den 1 januari 2008\.

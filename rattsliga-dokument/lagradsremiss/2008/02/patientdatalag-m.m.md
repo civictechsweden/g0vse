@@ -1,0 +1,7 @@
+# Patientdatalag m.m.
+
+Lagrådsremissen innehåller förslag till en sammanhängande reglering av personuppgiftsbehandlingen inom hälso\- och sjukvården i en ny lag, patientdatalagen. Den föreslagna regleringen innebär att patientjournallagen (1985:562\) och lagen (1998:544\) om vårdregister (vårdregisterlagen) ersätts av den nya lagen. I denna lag, som ska gälla för alla vårdgivare oavsett huvudmannaskap, regleras bl.a. sådana frågor som skyldigheten att föra patientjournal, inre sekretess och elektronisk åtkomst i en vårdgivares verksamhet, utlämnande av uppgifter och handlingar genom direktåtkomst eller på annat elektroniskt sätt samt nationella och regionala kvalitetsregister. Härutöver föreslås ändringar i bl.a. sekretesslagstiftningen på hälso\- och sjukvårdens område.
+
+Författningsförslagen har delvis karaktär av ramlagstiftning, som anger vilka grundläggande principer som ska gälla för informationshanteringen avseende uppgifter om patienter inom all hälso\- och sjukvård. Den närmare regleringen i vissa generella frågor ska kunna meddelas i förordning eller, efter regeringens bemyndigande, i myndighetsföreskrifter.
+
+Förslagen är en del av den process som pågår för att bl.a. med hjälp av IT få till stånd en bättre samverkan mellan hälso\- och sjukvårdens aktörer och en starkare patientorientering i verksamheten. Den centrala utgångspunkten för förslagen är att skapa en reglering som möjliggör både en ökad patientsäkerhet och ett starkt integritetsskydd. Lagändringarna föreslås träda i kraft den 1 juli 2008\.

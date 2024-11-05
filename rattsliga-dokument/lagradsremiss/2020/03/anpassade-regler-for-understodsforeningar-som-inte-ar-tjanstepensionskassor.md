@@ -1,0 +1,7 @@
+# Anpassade regler för understödsföreningar som inte är tjänstepensionskassor
+
+I lagrådsremissen föreslås att försäkringsföreningar som har varit understödsföreningar men inte tjänstepensionskassor enligt den upphävda lagen om understödsföreningar ska få undantas från vissa bestämmelser i försäkringsrörelselagen och från lagen om årsredovisning i försäkringsföretag. Det gäller i fråga om försäkringsrörelselagen bestämmelser om information,försäkringsfrämmande verksamhet, tillgångar, skulder och försäkringstekniska avsättningar, investeringar, kapitalbas, solvenskapitalkrav och minimikapitalkrav, interna modeller, företagsstyrning och grupptillsyn. Enligt förslaget ska föreningarna i stället uppfylla särskilt anpassade krav på information, ett schablonberäknat kapitalkrav, tillräckliga tillgångar och en sund och ansvarsfull styrning. Regeringen eller den myndighet som regeringen bestämmer ska få meddela föreskrifter om kraven. Undantagen ska få beviljas för mindre respektive större föreningar, och dessa föreningar ska i så fall inte behöva tillämpa vissa associationsrättsliga bestämmelser i försäkringsrörelselagen eller bestämmelserna om information i försäkringsavtalslagen. Det ska även gälla vissa särskilda bestämmelser om tillsyn.
+
+Det föreslås vidare att föreningarna inte ska omfattas av definitionen av företag av allmänt intresse i revisorslagen, och att lagen om åtgärder mot penningtvätt och finansiering av terrorism och lagen om försäkringsdistribution inte ska tillämpas på dem.
+
+Lagändringarna föreslås träda i kraft den 1 augusti 2020\.

@@ -1,0 +1,9 @@
+# Auktorisation och tystnadsplikt för patentombud
+
+I denna proposition lämnas förslag till en ändring i 36 kap. 5 § rättegångsbalken med innebörden att de som i särskild ordning auktoriserats som patentombud och deras biträden inte ska få höras i rättegång om förtrolig information som de i sin yrkesutövning fått kännedom om och som rör patenträttsliga angelägenheter.
+
+Vidare lämnas förslag till en ny lag om auktorisation av patentombud. I dag finns för ett patentombud, som inte är advokat, ingen lagstadgad reglering av tystnadsplikt för sådant ombudet fått kännedom om i anslutning till ett patentärende. Det finns heller inga bestämmelser som hindrar att ett patentombud i en rättsprocess hörs om sådana uppgifter. Avsaknaden av sådana bestämmelser medför en konkurrensnackdel för svenska patentombud i förhållande till andra yrkesaktörer som omfattas av sådana regler, exempelvis svenska advokater och patentombud från andra länder. Det innebär också att det förstärkta skyddet för tystnadsplikt som gäller för behöriga svenska patentombud i registreringsförfarandet enligt den europeiska patentkonventionen inte kan upprätthållas i en svensk patenträttslig process samt att svenska patentombud riskerar att behandlas på ett mindre förmånligt sätt i patenträttsliga processer i anglosaxiska rättssystem. Ett vittnesundantag måste vara grundat på fasta förpliktelser och ett regelverk som utlöser disciplinförfarande i fall av misskötsamhet. För att kretsen av patentombud som ska omfattas av ett vittnesundantag enkelt ska kunna avgränsas föreslås att en offentligrättslig ordning för auktorisation införs.
+
+I propositionen föreslås också att riksdagen godkänner att staten kvarstår som medlem i European Business Register European Economic Interest Grouping.
+
+Lagförslagen föreslås träda i kraft den 1 september 2010\.

@@ -1,0 +1,56 @@
+# Sveriges arbete för en trygg och säker uppväxt för barn och unga
+
+Alla barn och unga har rätt till en trygg och ljus framtid, att bli väl omhändertagen och att växa upp i ett hem utan våld.
+
+
+I Sverige har alla samma grundlagsstadgade fri\- och rättigheter, oavsett ålder, kön, härstamning eller religiös tillhörighet. I regeringsformen stadgas att den offentliga makten ska utövas med respekt för alla människors lika värde och för den enskilda människans frihet och värdighet. Sverige står också upp för barns egna rättigheter, oavsett varifrån barnen kommer och vad deras föräldrar har för tro och ursprung. FN:s konvention om barnets rättigheter (barnkonventionen), som är lag i Sverige, är mycket tydlig. I beslut och åtgärder som rör barn ska barnets bästa alltid beaktas. Därtill har Sverige ratificerat andra internationella konventioner som finns till för att skydda de mänskliga rättigheterna, såsom den internationella konventionen om ekonomiska, sociala och kulturella rättigheter samt FN:s konvention om rättigheter för personer med funktionsnedsättning och Europakonventionen om skydd för de mänskliga rättigheterna.
+
+Alla barn och unga har rätt till en trygg och ljus framtid, att bli väl omhändertagen och att växa upp i ett hem utan våld. Sverige har en lång och stolt historia när det gäller att utifrån barnets bästa forma goda villkor för ett barn att växa upp i. Några exempel på reformer som genomförts i Sverige för att värna barnets bästa är allmän och gratis mödravård, barnhälso­vård och förskola samt förbud mot att slå barn. Detta är i vissa fall unika svenska insatser som tidigt satte en mycket hög lägsta\-nivå för hur alla barn i Sverige ska ha det. Varje barn i Sverige har egna mänskliga rättigheter. Barnet är visserligen sina föräldrars allra största skyldighet och uppgift i livet, men barnet har egna rättigheter som är skilda från föräldrarnas rättigheter. I Sverige är det av största vikt att lyssna på barnet, att respektera barnet och att vara medveten om att det vi gör med och gentemot barnet påverkar det för resten av livet. Vad som är barnets bästa måste avgöras i varje enskilt fall och hänsyn ska tas till barnets egen åsikt och erfarenhet, men samhället har alltid ett ansvar för att skydda barnet mot vanvård, utnyttjande och övergrepp.
+
+I Sverige finns sedan lång tid föräldraskapsstöd som hjälper föräldrar att axla föräldra­ansvaret. Man kan få stöd och hjälp när något inte är riktigt bra. Inga föräldrar är felfria, men nästan alla kan bli bra föräldrar, en del behöver bara hjälp att nå dit, och det är samhällets gemensamma uppgift att hjälpa de familjer som inte klarar den uppgiften fullt ut. Därför finns socialtjänsten, som skapades och finns till för att ge hjälp och stöd till de vårdnadshavare som begär eller behöver det.
+
+## Socialtjänsten finns till som stöd för både barn och vuxna
+
+Socialtjänsten är samhällets yttersta skyddsnät och den myndighet i Sverige som ska säkerställa att barn och unga får det stöd de behöver under sin uppväxt, men också att vårdnadshavare får stöd i sitt föräldraskap om de är i behov av det. Socialtjänsten ansvarar för att skydda barn som far illa eller riskerar att fara illa. Det är en oerhört viktig, men också svår uppgift. Arbetet ska alltid utgå ifrån vad som är bäst för barnet. Om barn och unga riskerar att fara illa har samhället en skyldighet och ett ansvar att se till att de får det skydd och stöd de behöver. Barnets bästa ska alltid gå före de biologiska föräldrarnas intresse.
+
+Socialtjänsten finns i alla kommuner. Där arbetar socionomer med särskild kunskap om barns behov. Många familjer får hjälp av socialtjänsten. Det vanliga är att man kommer överens om vilket stöd som passar familjen bäst. Familjer som har mycket konflikter kan till exempel få träffa en person som är bra på att hjälpa familjer att lösa sådana problem. Som förälder kan man också få stöd i sin föräldraroll genom samtal. För barn kan det finnas möjlighet att få en kontaktperson eller att träffa andra barn i samma situation.
+
+## Målet är alltid barnets bästa
+
+Om det inte fungerar att bo hemma, kan barnet behöva bo någon annanstans under en tid. Barnet kan till exempel få bo i en annan familj, t.ex. hos en släkting som kan vara familjehem eller på ett hem för vård eller boende (HVB). Även i en sådan situation har föräldrar rätt att få stöd från socialtjänsten. Föräldrar kan till exempel få hjälp att utvecklas i sitt föräldraskap. Målet är alltid att det ska bli så bra som möjligt för barnet.
+
+## Frivillighet är första alternativet
+
+Den svenska socialtjänstens verksamhet styrs i första hand av socialtjänstlagen, som bygger på frivillighet. Om socialtjänsten får information om att ett barn far illa eller riskerar att fara illa ska socialtjänsten utreda barnets behov av stöd och skydd. Därefter föreslår socialtjänsten insatser som kan hjälpa familjen och barnet att få det bättre. I de flesta fall kommer familjen och socialtjänsten överens.
+
+## När barnet inte får den hjälp det behöver
+
+Om det inte fungerar att ge insatser på frivillig väg finns lagen med särskilda bestämmelser om vård av unga (LVU) som gör det möjligt att i vissa fall besluta om insatser även utan föräldrarnas eller barnets samtycke. Ett beslut om omhändertagande där barnet inte får vara kvar hos sina biologiska föräldrar är en sista utväg och kan bara fattas om exempelvis barnets säkerhet är i omedelbar fara. Det kan till exempel handla om att någon av föräldrarna mår väldigt psykiskt dåligt eller har ett missbruk, eller att barnet utsätts för våld eller andra övergrepp. Missförhållandet i barnets liv ska medföra att det finns en påtaglig risk för att barnets hälsa eller utveckling skadas och det krävs också att vården inte kan ges på frivillig väg. Det är en domstol som fattar beslut om ett barn eller en ungdom behöver omhändertas, men om barnet behöver skyddas och placeras i ett annat hem akut kan socialtjänsten fatta beslut om omedelbart omhändertagande som sedan en domstol prövar och beslutar om i efterhand. Ett tvångsomhändertagande ska alltid utgå från barnets bästa.
+
+## Familjehem finns när barn inte kan bo kvar hemma
+
+När ett barn behöver ett hem utanför det egna hemmet ska det i första hand tas emot av någon närstående, t.ex. en släkting. Om det inte är möjligt finns det andra familjer som kan ta emot barnet i sitt hem. Det kallas att barnet bor i ett familjehem.
+
+Socialtjänsten utreder alltid ett familjehem genom intervjuer, hembesök och kontakt med personer som känner familjen. Om familje­hemmet är lämpligt tittar kommunen på om just det familjehemmet har förutsättningar att ta hand om just det barn som socialtjänsten bedömt behöver bo någon annanstans under en tid.
+
+Socialtjänsten har ett ansvar för att utforma vården på ett sätt som främjar barnets samhörighet med exempelvis sin familj, andra personer som är betydelsefulla för barnet, sin kultur samt sitt språk.
+
+Socialtjänsten arbetar konsekvent med att kontrollera, utvärdera och utveckla omhänder­tagande av barn med målet att de barn som måste placeras i andra hem ska få stabilitet, ordning, trygghet och långsiktighet. Barnets rätt till säkerhet och trygghet går före föräldrars rätt att få tillbaka sina barn.
+
+## När vård inte längre behövs ska socialnämnden besluta att vården ska upphöra
+
+Grundtanken är att vården inte ska pågå längre än nödvändigt. Vården ska vara inriktad på att barnet ska återförenas med sina föräldrar så snart det är möjligt om detta anses vara det bästa för barnet. Vården är alltså att anse som en tidsbegränsad insats. Socialnämnden ska kontinuerligt pröva behovet av fortsatt omhändertagande av barnet. När vård inte längre behövs ska socialnämnden besluta att vården ska upphöra och förbereda en återförening mellan barnet och dennes föräldrar (vårdnadshavare).
+
+## Regeringens vidtagna åtgärder för att stärka skyddet för barn samt motverka desinformation
+
+* Socialstyrelsen har såväl under 2022 som 2023 fått i uppdrag att ta fram förslag på åtgärder för att långsiktigt stärka tilliten till socialtjänsten bland barn, unga och familjer som behöver stöd och hjälp. Socialstyrelsen ska föra en löpande dialog med civilsamhällesorganisationer, trossamfund och andra aktörer i fråga om socialtjänstens arbete med barn, unga och familjer. Syftet är att nå ut med information också på sociala medier för att motverka ryktesspridning och desinformation om socialtjänstens arbete. I uppdraget ingår även att utveckla arbetssätt som kan bidra till att skapa ökat förtroende för socialtjänstens verksamhet. Uppdraget ska slutredovisas senast den 10 december 2026 och fram till dess delredovisas årligen.
+* Myndigheten för psykologiskt försvar fick i februari 2023 i uppdrag att stärka förmågan att motstå otillbörlig informationspåverkan mot socialtjänsten. Uppdraget redovisades den 31 januari 2024\.
+* Myndigheten för stöd till trossam­fund har sedan augusti 2023 i uppdrag att planera en informationsinsats riktad till kommu­ner, regioner och myndigheter för att öka deras kunskap om trossam­fund och deras verksamhet. Insatsen ska bidra till att främja samver­kan mellan offentliga aktörer och trossamfund i syfte att stärka det demokratiska samhället. Exempelvis kan trossamfunden ha möjlighet att nå ut med viktig information till individer och grupper som kom­muner, regioner och myndigheter annars har svårigheter med att nå. Uppdraget redovisades den 15 januari 2024\.
+* Socialstyrelsen, Migrationsverket och Polismyndigheten har tillsammans i uppdrag att genomföra ett treårigt utvecklingsarbete avseende problematiken med ensam­kommande barn som försvinner. Syftet med uppdraget är att höja kunskapen på området och att utveckla samordnade och långsiktigt hållbara arbetssätt som motverkar att barn försvinner. Uppdraget ska slutredovisas i oktober 2025 och delredovisas under 2023 och 2024\.
+
+## Övriga insatser
+
+* Utredningen om åtgärder för att minska offentliganställdas utsatthet (Ju 2022:02\) har i uppdrag att bl.a. lämna författningsförslag som innebär att straffet för våld eller hot mot tjänsteman skärps och att ett nytt brott som tar sikte på förolämpningar mot tjänstemän införs. Utredningen redovisade sitt uppdrag den 1 januari 2024\.
+* Regeringen har arbetat med att skärpa lagstiftningen gällande brott mot journalister och vissa andra samhällsnyttiga funktioner, där även socialtjänstpersonal ingår. Den nya lagen började gälla den 1 augusti 2023\.
+* Regeringen har arbetat med att ta fram en ny lag om ordningsvakter. Den nya lagen trädde i kraft den 1 januari 2024\. Lagen handlar bl.a. om att öka möjligheterna till att använda ordningsvakter på fler platser och inom större geografiska områden än i dag. Med den nya lagen kommer exempelvis socialtjänsten kunna ansöka hos Polismyndigheten om tillstånd för att använda ordningsvakter i sina lokaler.
+* I september 2023 gav regeringen Skolverket i uppdrag att kartlägga och analysera hur desinformationskampanjen om socialtjänsten har påverkat och påverkar skolan. Skolverket ska också lämna exempel på framgångsrik samverkan mellan skola, socialtjänst och polis samt andra insatser som har fungerat för att motverka spridning av desinformation och konspirationsteorier.

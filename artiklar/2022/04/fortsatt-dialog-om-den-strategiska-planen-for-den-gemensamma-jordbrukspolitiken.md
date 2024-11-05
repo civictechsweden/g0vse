@@ -1,0 +1,8 @@
+# Fortsatt dialog om den strategiska planen för den gemensamma jordbrukspolitiken
+
+I december 2021 överlämnades Sveriges förslag till strategisk plan för genomförandet av den gemensamma jordbrukspolitiken till EU\-kommissionen för godkännande. Den 31 mars mottog Sverige, liksom övriga medlemsländer som överlämnat sina förslag till kommissionen inom den utsatta tidsramen, kommissionens observationsbrev med synpunkter på det förslaget. I många fall efterfrågar kommissionen förtydliganden eller kompletterande information, men i vissa fall önskar man även justeringar i det svenska förslaget. Sverige har nu överlämnat ett första svar till kommissionen, med kommentarer gällande några nyckelfrågor som kommissionen tar upp i sitt brev.
+
+
+Sveriges förslag till strategisk plan är ett resultat av omfattande analyser och ett brett förankringsarbete, bland annat genom ett flertal sakråd. Förslaget har också granskats av en förhandsutvärderare i enlighet med de krav som ställs. Det svenska förslaget till strategisk plan vilar därmed på en stabil grund, vilket är en viktig utgångspunkt för de fortsatta diskussionerna med kommissionen.
+
+Sverige välkomnar möjligheten att i dialog med kommissionen ytterligare underbygga och förklara det svenska förslaget, utesluter inte att vissa justeringar av förslaget kan bli aktuella men avvisar omfattande ändringar, exempelvis i form av nya åtgärder. Såväl lantbrukare som de administrerande myndigheterna behöver i god tid få besked om vad som ska gälla de kommande åren. Alltför omfattande ändringar av den strategiska planen i detta sena skede skulle försvåra planeringen och riskera att kraftigt försena genomförandet från och med 2023\.

@@ -1,0 +1,3 @@
+# Förslag till lag om ändring i lagen (2010:1882) om åldersgränser för film som ska visas offentligt
+
+I promemorian föreslås att det inte längre ska tas ut en avgift vid fastställande av åldersgräns för film enligt lagen (2010:1882\) om åldersgränser på film som ska visas offentligt. Det föreslås också att det inte längre ska finnas ett krav på att ett tillståndskort finns tillgängligt vid en offentlig visning av en film som godkänts för visning för barn under femton år. Filmgranskningen ska i fortsättningen vara avgiftsfri. Förslagen innebär att 9 och 10 §§ i lagen om åldersgränser för film tas bort. Lagändringarna föreslås träda i kraft den 1 januari 2017\.

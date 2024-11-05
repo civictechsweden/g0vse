@@ -1,0 +1,3 @@
+# Ränteavdragsbegränsningar i syfte att förhindra vissa fall av skatteplanering inom en intressegemenskap
+
+Skatteverket har under sin skattekontroll upptäckt att det i stor omfattning förekommer skatteplanering med ränteupplägg inom intressegemenskaper, s.k. räntesnurror. Detta slag av skatteplanering inom företagssektorn minskar den svenska bolagsskattebasen och ger upphov till skattebortfall i mångmiljardklassen. Skatteverket kom i juni i år in till Finansdepartementet med en hemställan som innehöll förslag till regler för att förebygga och motverka detta slag av skatteplanering. Hemställan skickades ut på remiss och fick kraftig kritik av remissinstanserna för att de föreslagna reglerna även träffade normal affärsverksamhet. I denna promemoria har kritiken beaktats.

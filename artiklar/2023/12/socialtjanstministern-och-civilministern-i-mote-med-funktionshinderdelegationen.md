@@ -1,0 +1,12 @@
+# Socialtjänstministern och civilministern i möte med Funktionshinderdelegationen
+
+Digitalisering och det sextonde statspartsmötet var några av de viktiga frågor som diskuterades under Funktionshindersdelegationens senaste möte.
+
+
+Funktionshindersdelegationen gästades av civilminister Erik Slottner som informerade om regeringens arbete inom bland annat digitalisering och konsumentpolitik. Frågor som var av särskilt intresse för funktionshindersrörelsen rörde bland annat hur regeringen arbetar för att säkerställa att alla i samhället kan använda betaltjänster och legitimera sig för att komma åt digitala tjänster, hur man kan säkerställa att AI\-tjänster inte bidrar till diskriminering samt vad regeringen är beredd att göra för att förbättra efterlevnaden av tillgänglighetskrav vid offentlig upphandling.
+
+Delegationen fick också lyssna till en presentation från delegater som deltog vid statspartsmötet som ägde rum den 13 och 15 juni i år. Mötets övergripande tema var: “Harmonizing national policies and strategies with the CRPD: achievements and challenges” och inkluderade tre underteman; “Ensuring equal access to and accessibility of sexual and reproductive health services for persons with disabilities”, “Digital accessibility for persons with disabilities” och “Reaching the under\-represented groups of persons with disabilities”.
+
+Programmet för mötet bestod av officiella delar med huvudtalare samt föranmälda interventioner från statsparterna, här benämnt som nationellt tal. Programmet varvades med rundabordsdiskussioner om respektive undertema. Parallellt med programmet pågick ett gediget seminarieprogram med sidoevenemang. Statspartsmötet var också en plats för nätverkande, bilaterala samtal och samtal mellan statsparter och civilsamhälle.
+
+Socialtjänstminister Camilla Waltersson Grönvall avslutade mötet med att informera om regeringens pågående arbete för att motverka och förebygga välfärdsbrottlighet. Det handlar bland annat om att inrätta Utbetalningsmyndigheten, genomföra stora förändringar i sekretesslagstiftningen och på andra sätt underlätta för kommuner och myndigheter att förebygga brott. I detta arbete planeras även en översyn av hur kriminella ska hindras från att utnyttja personlig assistans, vilket regeringen kommer att återkomma till.

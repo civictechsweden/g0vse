@@ -1,0 +1,5 @@
+# Sveriges politik för global utveckling
+
+I skrivelsen redogör regeringen för hur Sverige på ett effektivt sätt ska bidra till en rättvis och hållbar global utveckling som innebär att fattiga människor mer framgångsrikt kan dra nytta av globaliseringen. Regeringens utvecklingspolitik inbegriper både ett effektivt bistånd av hög kvalitet och en samstämmighetspolitik som omfattar samtliga politikområden. Politiken ska inriktas både på att bistå de fattiga länderna i deras specifika utmaningar, främja synergier mellan politikområden och hantera utvecklingshämmande politik i Sverige och inom EU, liksom att tackla globala utmaningar som utgör hinder för rättvis och hållbar utveckling. Såväl biståndet som andra politikområden ska bidra till detta.
+
+Utgångspunkten för regeringens utvecklingspolitik och skrivelsen är riksdagens beslut om regeringens proposition Gemensamt ansvar \- Sveriges politik för global utveckling (prop. 2002/03:122, bet. 2003/04:UU3, rskr. 2003/04:112\) och dess betoning av samstämmigt agerande för att nå politikens mål om att bidra till en rättvis och hållbar global utveckling.

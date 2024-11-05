@@ -1,0 +1,14 @@
+# Europadomstolens dom (2008-11-04) i målet Iselsten mot Sverige
+
+Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.
+
+
+## Sammanfattning av domen
+
+Målet rörde i korthet följande. Våren 1997 väckte klaganden talan vid Stockholms tingsrätt om skadeståndsansvar för staten p.g.a. vårdslöshet vid handläggning av hans konkurs. Rätten höll två muntliga förberedelser och en huvudförhandling. Genom dom i februari 2001 ogillade tingsrätten käromålet. Domen överklagades. I december 2003 beslutade hovrätten bl.a. att inte höra klaganden eller de vittnen som hörts vid tingsrätten.
+
+I juni 2004 beslutade hovrätten vidare att inte hålla huvudförhandling på den grunden att målet rörde frågor av rättslig karaktär, att enbart skriftlig bevisning skulle prövas och att det därför var uppenbart obehövligt att hålla förhandling. Hovrätten prövade målet i sak samma dag och avslog överklagandet. Den 14 september 2004 beslutade Högsta domstolen att inte meddela prövningstillstånd. Klaganden gjorde gällande inför Europadomstolen att det förelåg kränkningar av artikel 6 i Europakonventionen bl.a. på grund av att handläggningstiden i de inhemska domstolarna varit oskäligt lång samt att hovrätten avslagit hans begäran om muntlig förhandling. Europadomstolen avvisade klagomålet rörande rätten till muntlig förhandling som uppenbart ogrundat. Europadomstolen fann bl.a. att det var av betydelse att tingsrätten hållit två muntliga förberedelser i målet samt en två dagar lång huvudförhandling. Därmed hade klagande fått tillfälle att lägga fram sin bevisning muntligen, att kalla och höra egna vittnen och även att ställa frågor till motpartens vittnen. Således hade hovrätten haft tillgång till ett fullständigt material. Parterna hade också fått tillfälle att skriftligt slutföra sin talan.
+
+Sammanfattningsvis fann Europadomstolen att rättvisekravet i artikel 6 var tillgodosett och att, med hänsyn till de specifika omständigheterna, det inte var nödvändigt med en muntlig förhandling i hovrätten. Klagomålet i denna del togs därför inte upp till sakprövning av domstolen. Vad gällde frågan om långsam handläggning konstaterade Europadomstolen att den aktuella processen pågått i ungefär sju och ett halvt år i tre instanser. Visserligen hade processen rört frågor av viss komplexitet och dessutom kunde klaganden till viss del hållas ansvarig för att processen dragit ut på tiden genom att han begärt anstånd vid upprepade tillfällen. Även domstolarna hade dock bidragit till den långa handläggningstiden. Mot denna bakgrund fann domstolen att det förelåg en kränkning av artikel 6\.1 av konventionen.
+
+Klaganden tillerkändes ersättning med 1 500 euro i ideellt skadestånd och 2 500 euro för rättegångskostnader. Domen var enhällig.

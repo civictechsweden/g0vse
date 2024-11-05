@@ -1,0 +1,5 @@
+# Mer inflytande för den enskilde i valet av hjälpmedel
+
+I lagrådsremissen föreslås att hälso\- och sjukvårdslagen (1982:763\) och patientsäkerhetslagen (2010:659\) ändras så att det tydligare framgår att sjukvårdshuvudmannen ska erbjuda den enskilde att välja hjälpmedel när det finns flera likvärdiga hjälpmedel tillgängliga inom landstinget eller kommunen. Hjälpmedlet anses vara tillgängligt om sjukvårdshuvudmannens tillhandahållande är förenligt med gällande upphandlingslagstiftning.
+
+Den enskildes val ska tillgodoses om det med hänsyn till den enskildes behov och till kostnaderna för hjälpmedlet framstår som befogat. Av ovan nämnda lagar ska det också framgå att vårdgivaren och den som har ansvaret för hälso\- och sjukvården av en patient ska se till att patienten ges individuellt anpassad information om de hjälpmedel som finns. Hälso\- och sjukvårdspersonalen ska medverka till att en patient ges möjlighet att välja det alternativ som han eller hon föredrar. Lagändringarna föreslås träda i kraft den 1 juli 2014\.

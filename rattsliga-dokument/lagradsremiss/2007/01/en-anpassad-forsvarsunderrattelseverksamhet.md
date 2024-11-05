@@ -1,0 +1,11 @@
+# En anpassad försvarsunderrättelseverksamhet
+
+I lagrådsremissen föreslås ändringar i lagen om försvarsunderrättelseverksamhet. Ändringarna innebär att mandatet för försvarsunderrättelseverksamheten anpassas från "yttre militära hot" till "yttre hot" och att det uttryckligen anges att verksamheten endast får avse utländska förhållanden. Vidare förtydligas gränsdragningen mellan polisiär verksamhet och försvarsunderrättelseverksamhet. Det föreslås tydligare regler avseende inriktning, rapportering av underrättelser och inhämtning med särskilda metoder. Det föreslås också att samhällets funktioner för inriktning och kontroll av försvarsunderrättelseverksamheten skall förstärkas.
+
+I lagrådsremissen föreslås också en ny lag om signalspaning i försvarsunderrättelseverksamhet. Lagen omfattar signalspaning för försvarsunderrättelseändamål, oavsett om signalerna befinner sig i etern eller i tråd. Förslaget innehåller flera regler till skydd för den enskildes integritet. Signalspaning sker efter inriktning från regeringen eller berörda myndigheter. Ett särskilt tillståndsförfarande föreslås för myndigheternas inriktningar. Vidare föreslås regler om när uppgifter skall förstöras och hur rapportering skall ske. De sökbegrepp som skall användas, liksom att förstöring och rapportering sker i enlighet med lagens bestämmelser, skall kontrolleras i särskild ordning.
+
+För att möjliggöra inhämtning av signaler i elektronisk form föreslås vissa nya regler i lagen (2003:389\) om elektronisk kommunikation.
+
+I lagrådsremissen föreslås också en ny bestämmelse i sekretesslagen (1980:100\). Den nya bestämmelsen innebär att sekretess skall gälla hos Försvarsmakten i försvarsunderrättelseverksamheten och den militära säkerhetstjänsten samt hos Försvarets radioanstalt i försvarsunderrättelse\- och säkerhetsverksamheten för uppgift om enskilds personliga eller ekonomiska förhållanden, om det inte står klart att uppgiften kan röjas utan att den enskilde eller någon närstående till den enskilde lider skada eller men.
+
+Lagstiftningen föreslås träda i kraft den 1 juli 2007\.

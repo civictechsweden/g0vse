@@ -1,0 +1,5 @@
+# Sverige och Frankrike stärker samarbetet inom forskning om kärnkraftsteknik
+
+– En av regeringens främsta prioriteringar är att arbeta för att säkra ny planerbar elproduktion i Sverige, bland annat genom att möjliggöra ny kärnkraft. Frankrike är ledande inom kärnkraftsområdet. Samtidigt är Sverige och Frankrike framstående inom forskning och innovation. Genom ett ökat forskningssamarbete kan vi tillsammans främja en snabbare utveckling och göra framsteg inom området kärnkraftsteknik, säger utbildningsminister Mats Persson.
+
+Den 19 december 2023 ingick Sverige och Frankrike en avsiktsförklaring om ökat samarbete inom kärnkraftsområdet. Med dagens avsiktsförklaring tar regeringen ytterligare ett steg för att fördjupa samarbetet. Syftet är att främja vetenskapligt och tekniskt samarbete mellan länderna inom forskning om kärnkraftsteknik. Avsiktsförklaringen innebär bland annat att erfarenhetsutbyte, rörlighet och forskarutbyten mellan länderna ska underlättas. Därtill ska gemensamma vetenskapliga evenemang och aktiviteter främjas.

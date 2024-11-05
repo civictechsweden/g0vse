@@ -1,0 +1,7 @@
+# Sveriges antagande av rambeslut om en europeisk bevisinhämtningsorder
+
+Inom Europeiska unionen har det utarbetats ett utkast till rambeslut om en europeisk bevisinhämtningsorder för att inhämta föremål, handlingar eller uppgifter som ska användas i straffrättsliga förfaranden. Rambeslutet syftar till att förbättra samarbetet mellan medlemsstaterna när det gäller att inhämta bevis som finns i en annan medlemsstat. I propositionen föreslås att utkastet till rambeslut ska godkännas av riksdagen.
+
+Utgångspunkten i rambeslutet, som bygger på principen om ömsesidigt erkännande, är att det är den medlemsstat som bedriver en brottsutredning som avgör om viss bevisning ska inhämtas även om den finns i en annan medlemsstat. Den stat som behöver bevisningen ska utfärda en bevisinhämtningsorder som skickas till den stat där föremålen, handlingarna eller uppgifterna finns. Den mottagande staten ska sedan erkänna och verkställa ordern i enlighet med rambeslutets regler. Föremålen, handlingarna eller uppgifterna ska hämtas in i enlighet med den verkställande statens nationella regler. Någon prövning av beslutet att bevisningen ska inhämtas får dock inte göras där.
+
+Den tidpunkt då medlemsstaterna ska ha genomfört bestämmelserna i rambeslutet är ännu inte bestämd. I propositionen redovisas en bedömning av vilken lagstiftning som behövs för att genomföra rambeslutet.

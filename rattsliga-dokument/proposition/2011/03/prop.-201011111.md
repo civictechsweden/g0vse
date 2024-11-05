@@ -1,0 +1,5 @@
+# Svenskt deltagande i den internationella militära insatsen i Libyen
+
+## Propositionens huvudsakliga innehåll
+
+I propositionen föreslås att riksdagen medger att regeringen ställer en svensk väpnad styrka på högst 250 personer till förfogande i högst tre månader för att delta i den internationella militära insatsen i Libyen för att upprätthålla en flygförbudszon i enlighet med beslut i Förenta Nationernas säkerhetsråd. Det planerade svenska bidraget utgörs av flygstridskrafter och stödresurser om totalt ca 130 personer. Därutöver ska styrkan om behov uppstår kunna förstärkas tillfälligt. Det är regeringens avsikt att styrkan ska delta i två månader med full förmåga. Övrig tid avser förberedelser, transporter samt inledning och avveckling av insatsen. Vidare föreslår regeringen att riksdagen beslutar att motionstiden förkortas till en dag mot bakgrund av det brådskande behovet. I propositionen redogör regeringen för situationen i Libyen samt för det internationella samfundets, FN:s, Natos och EU:s engagemang. Regeringen redogör även för insatsens folkrättsliga mandat samt redovisar sina överväganden för det svenska deltagandet.

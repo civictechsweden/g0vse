@@ -1,0 +1,3 @@
+# Ny instansordning för inrättande av exportbutik på flygplats
+
+Regeringen föreslår att Skatteverket, i stället för regeringen, blir ansvarig myndighet för tillstånd att inrätta exportbutik på flygplats. Förslaget är ett led i att begränsa regeringens hantering av förvaltningsärenden i enskilda fall och medför inga ändringar i sak. I propositionen föreslås också att definitionen av tredje territorier i mervärdesskattelagen justeras. Dessutom föreslås att en ändring görs i lagen om särskilda ordningar för mervärdesskatt för telekommunikationstjänster, radio\- och tv\-sändningar och elektroniska tjänster mot bakgrund av att reglerna om gruppregistrering kvarstår. Samtliga föreslagna lagändringar ska träda i kraft den 1 januari 2015\.

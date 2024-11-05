@@ -1,0 +1,7 @@
+# Modern personalförsörjning för ett användbart försvar
+
+Propositionen består av två huvudsakliga delar. Den ena delen innehåller förslag som rör totalförsvarsplikten, rekrytering och militär grundutbildning. I propositionens andra del redovisar regeringen en samlad svensk veteransoldatpolitik.
+I propositionen föreslås att försvarets personalförsörjning i första hand ska vila på frivillighet och inte längre huvudsakligen på en totalförsvars\-plikt. Syftet med förslagen är att införa ett flexibelt, effektivt och till\-gängligt system som bättre svarar mot de behov som Försvarsmakten och dess verksamhet och ytterst Sverige har i dag.
+Förslagen innebär att totalförsvarsplikten i grunden kvarstår. Däremot föreslås att skyldigheten att genomgå mönstring och skyldigheten att fullgöra värnplikt eller civilplikt i framtiden ska kräva att regeringen med hänsyn till Sveriges försvarsberedskap först har beslutat om detta. Det föreslås också att skyldigheten att fullgöra värnplikt och civilplikt med längre grundutbildning ska omfatta även kvinnor.
+Regeringen redovisar vidare sina bedömningar i fråga om rekrytering och grundutbildning i det nya personalförsörjningssystemet. En frivillig grundläggande militär utbildning och en frivillig kompletterande militär utbildning inrättas inom Försvarsmakten. Totalförsvarets pliktverk före\-slås byta namn till Totalförsvarets rekryteringsmyndighet.
+Lagändringarna i den delen föreslås träda i kraft den 1 juli 2010 utom såvitt avser namnbytet på Totalförsvarets pliktverk som föreslås träda ikraft den 1 januari 2011\.

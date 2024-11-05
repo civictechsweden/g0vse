@@ -1,0 +1,15 @@
+# Mänskliga rättigheter, demokrati och rättsstatens principer i Kenya
+
+Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Kenya samt en länk till rapporten i sin helhet.
+
+
+Kenyas konstitution ger ett långtgående skydd för de mänskliga rättigheterna men inskränkningar av dessa rättigheter förekommer. Flera lagar har ännu inte trätt i kraft och kompletterande lagstiftning behövs på en rad områden för att säkerställa skydd för de mänskliga rättigheterna. Kvinnor och män garanteras lika rättigheter i lagen men kvinnors åtnjutande av dessa rättigheter begränsas ofta av lokala traditioner och sedvänjor samt långdragna domstolsprocesser.
+
+Kenya har ett flerpartisystem med allmänna och regelbundna val. Konstitutionen garanterar politiska rättigheter som att delta och ställa upp i val och grunda eller engagera sig i ett politiskt parti. Kvinnors möjligheter till politiskt deltagande försvåras till följd av patriarkala strukturer och begränsade ekonomiska resurser. Konstitution från 2010 har bidragit till tydligare maktdelning och decentralisering.
+
+Rättsväsendets oberoende har stärkts, även om påtryckningar förekommer. Flera beslut och lagar har stoppats av landets domstolar med hänvisning till att de riskerar att inskränka rättigheter eller strider mot andra bestämmelser i konstitutionen. Den utbredda korruptionen utgör ett hot mot rättsstatens principer. President Kenyatta har nyligen lanserat en omfattande antikorruptionskampanj. Kampanjen har resulterat i att flera högt uppsatta politiker och tjänstemän står åtalade för korruptionsbrott i landets domstolar, något som historiskt sett varit
+ovanligt i Kenya där straffrihet och avsaknad av ansvarsutkrävande för korruptionsbrott varit ett utbrett problem.
+
+Människorättsorganisationer och tillsynsmyndigheten för polisen publicerar regelbundet rapporter som visar att våld och kränkningar från polis är ett utbrett problem. Uppgifter finns om att påtvingade försvinnanden, godtyckliga frihetsberövanden och utomrättsliga avrättningar förekommer där polisen utpekas som ansvarig. En omfattande polisreform har pågått i flera år med syfte att bland annat stärka allmänhetens förtroende för polisen samt öka rättssäkerheten och effektiviteten inom polisväsendet.
+
+Pressfriheten garanteras i konstitutionen och en rad oberoende medier är verksamma i landet. Trots detta har en viss tillbakagång skett på pressfrihetens område och granskande journalister riskerar att utsättas för trakasserier och hot. Samtidigt som fattigdomen har minskat de senaste åren har de ekonomiska ojämlikheterna ökat kraftigt. Klimatförändringarna har bidragit till matosäkerhet och resursbrist i stora delar av landet, framför allt på landsbygden där fattigdomen är utbredd. Ungdomsarbetslösheten var den högsta i regionen år 2017 och den snabba befolkningstillväxten förväntas leda till ännu högre arbetslöshet, vilket i sin tur riskerar att leda till ökad ekonomisk ojämlikhet. Samkönade sexuella handlingar är kriminaliserade i Kenya och har en straffskala på upp till 14 års fängelse.

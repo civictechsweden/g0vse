@@ -1,0 +1,18 @@
+# Mänskliga rättigheter, demokrati och rättsstatens principer i Myanmar
+
+Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Myanmar samt en länk till rapporten i sin helhet.
+
+
+Efter mer än 50 av militärdiktatur fick Myanmar 2015 för första gången en delvis folkvald regering under civil ledning. Viktiga steg har tagits mot etablering av mer demokratiska strukturer. Konstitutionen ger dock fortfarande militären avgörande inflytande över politik och säkerhetsfrågor och militären agerar inte under civil kontroll. Även om framsteg gjorts är utmaningarna vad gäller mänskliga rättigheter, demokrati och rättsstatens principer alltjämt mycket stora, och det förekommer fortsatt grova kränkningar och övergrepp av de mänskliga rättigheterna i Myanmar.
+
+Väpnade konflikter mellan etniska grupper och militären pågår sedan decennier i flera områden av landet. Konflikterna har ökat i omfattning under senare år med tusentals nya internflyktingar. En komplicerad fredsprocess pågår. Kränkningar och övergrepp, så som mord, våldtäkter och kidnappningar, begås både av militären och av de väpnade grupperna. Straffrihet är ett stort problem.
+
+Det finns sedan länge spänningar mellan olika religiösa grupper i landet, främst mellan muslimer och buddhister. Minoriteters åtnjutande av mänskliga rättigheter är en av landets största utmaningar.
+
+Situationen för den muslimska minoriteten rohingya i delstaten Rakhine är mycket allvarlig. Rohingyer har under decennier nekats medborgarskap. De utsätts för förföljelse och allvarliga kränkningar av mänskliga rättigheter. Omfattande så kallade upprensningsoperationer i norra Rakhine resulterade under hösten 2016 och andra hälften av 2017 i mycket grova och systematiska kränkningar av de mänskliga rättigheterna. Övergreppen har fortsatt under 2018\. Över 700 000 rohingyer har på kort tid tvingats fly till flyktingläger i Bangladesh. Övergreppen visar alla tecken på att brott mot mänskligheten har begåtts. FN:s rapportörsuppdrag (Fact\-Finding Mission) har även konstaterat att brott mot mänskligheten och krigsförbrytelser begåtts i Myanmar. FN:s rapportörsuppdrag har vidare framhållit att militära ledare bör utredas för folkmord och att situationen bör hänskjutas till internationella brottsmålsdomstolen (ICC).
+
+Den tidigare positiva utvecklingen vad gäller yttrande\- och mediefriheten har vänt de senaste åren. Ett flertal journalister har åtalats och fängslats, vilket bland annat lett till ökad självcensur. Internet är fritt, men godtyckliga åtal för förtal på internet förekommer. Människorättsförsvarare och personer ur det civila samhället som engagerar sig till exempel i frågor om markrättigheter, yttrandefrihet, eller i frågor som rör de pågående konflikterna löper risk att åtalas. Reviderad lagstiftning har ytterligare begränsat mötesfriheten. Manifestationer och protester kan hållas men arresteringar och åtal mot demonstranter förekommer.
+
+Enligt Myanmars konstitution är diskriminering på grund av kön inte tillåtet men i praktiken är kvinnors möjligheter att åtnjuta de mänskliga rättigheterna begränsade. Våld mot kvinnor är ett utbrett och omfattande problem. Det saknas fullgott skydd för barns rättigheter. Våld mot barn liksom barnarbete är relativt vanligt och barnsoldater förekommer.
+
+Det finns ett stort antal internflyktingar i Myanmar på grund av våld och konflikter samt översvämningar. Totalt uppskattas cirka en miljon människor i hela landet vara i behov av humanitär assistans. Myanmar är ett av de minst utvecklade länderna i världen. Enligt Världsbanken lever 32 procent av befolkningen under fattigdomsgränsen. Ytterligare cirka 30 procent lever strax över densamma.

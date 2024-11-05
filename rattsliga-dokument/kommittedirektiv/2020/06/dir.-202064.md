@@ -1,0 +1,5 @@
+# Utökat kunskapsunderlag om Rättsmedicinalverkets metod för medicinsk åldersbedömning i asylprocessen
+
+Regeringen tillsätter en oberoende granskning av metoden för medicinska åldersbedömningar. En särskild utredare ska redogöra för det aktuella vetenskapliga kunskapsunderlaget för den metod för medicinsk åldersbedömning som tillämpas av Rättsmedicinalverket inom ramen för asylprocessen och belysa frågan ur ett internationellt perspektiv. Vidare ska utredaren ta fram ett utökat kunskapsunderlag för den aktuella metoden och bedöma hur detta bör återspeglas i myndighetens utlåtanden. Syftet med uppdraget är att stärka grunden för med vilken säkerhet det går att uttala sig om sannolikheten för att personer med okänd ålder är över eller under 18 år med hjälp av Rättsmedicinalverkets tillämpade metod.
+
+Uppdraget ska redovisas senast den 31 maj 2024\. En första delredovisning i den del av uppdraget som avser granskning av metoden samt det aktuella vetenskapliga kunskapsunderlaget och hur det utvecklats över tid, respektive beskrivningen av frågan ur ett internationellt perspektiv ska lämnas senast den 11 juni 2021\.

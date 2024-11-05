@@ -1,0 +1,3 @@
+# PM Skyddsutredningar avseende barn
+
+I promemorian föreslås att en ny lag om skyddsutredningar avseende barn skall införas. Lagen innebär att utredningar skall genomföras om ett barn avlidit till följd av brott eller det annars finns särskilda skäl (skydds utredningar). Detta innebär att utredningar skall göras i fall någon fälls till ansvar för att ha orsakat ett barns död t.ex. mord, dråp, barnadråp eller vållande till annans död. Även andra fall skall dock kunna utredas. Exempelvis bör det vara möjligt att genomföra en skyddsutredning om en gärningsman avlidit innan frågan om ansvar prövats slutligt eller om en gärningsman inte är straffmyndig.

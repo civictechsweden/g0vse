@@ -1,0 +1,6 @@
+# Riksrevisionens rapport om förvaltningen av regionala projektmedel
+
+Riksrevisionen har i rapporten Förvaltning av regionala projektmedel \- delat ansvar, minskad tydlighet? (RiR 2014:10\) granskat förvaltningen av regionalt beslutade projektmedel inom utgiftsområde 19 Regional tillväxt, anslag 1:1 Regionala tillväxtåtgärder. Syftet med granskningen var att analysera om regeringens förvaltning av regionala projektmedel har svarat upp mot riksdagens grundläggande krav på offentlig förvaltning. Rapporten innehåller slutsatser och rekommendationer som avser regeringen och Tillväxtverket.
+
+I denna skrivelse redovisar regeringen sin bedömning av Riksrevisionens iakttagelser samt vilka åtgärder som har vidtagits och kommer att vidtas med anledning av dessa iakttagelser. Regeringen instämmer delvis i Riksrevisionens slutsatser men framhåller att regeringen aviserat och vidtagit åtgärder i rekommendationernas riktning bl.a. i budgetpropositionen för 2015 (prop. 2014/15:1 utg. omr. 19\). I linje med Riksrevisionens
+slutsatser och rekommendationer samt regeringens analys och utvecklingsarbete avser regeringen att utreda förutsättningarna för ett stärkt resultatfokus i uppföljningen av anslag 1:1 Regionala tillväxtåtgärder.

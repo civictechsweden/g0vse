@@ -1,0 +1,5 @@
+# EU inför ytterligare sanktioner mot Belarus
+
+– Regeringen fördömer den omfattande repressionen mot alla delar av samhället i Belarus. Sverige har varit pådrivande för ytterligare sanktioner i enlighet med den politik jag presenterade i mitt linjetal om Belarus i november förra året. Med de nya åtgärderna visar Sverige och EU att vi står på det belarusiska folkets sida och stödjer de belarusiska demokratiska krafterna och civilsamhället, säger utrikesminister Tobias Billström.
+
+Presidentvalet 2020 genomfördes under icke\-demokratiska former och följdes av omfattande folkliga protester. Den belarusiska statsmakten svarade våldsamt på de demonstrationer och kritiska yttranden mot valfusket och regimens långvariga repressiva styre som följde på valet. Sedan 2020 har repressionen och förtrycket tilltagit ytterligare. Kränkningarna mot stora delar av den egna befolkningen är mycket allvarliga och antalet politiska fångar i landet överstiger i nuläget 1 400 enligt människorättsorganisationen Vjasna.

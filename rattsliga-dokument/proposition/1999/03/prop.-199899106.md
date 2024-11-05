@@ -1,0 +1,3 @@
+# Vissa ändringar i läkemedelsförmånen m.m.
+
+Regeringen föreslår att beloppsgränsen för högkostnadsskyddet vid köp av läkemedel höjs fr.o.m. den 1 juni 1999 med 500 kronor från 1 300 kronor till 1 800 kronor. Patienterna får då inte någon reducering av den sammanlagda läkemedelskostnaden så länge kostnaden inte överstiger 900 kronor. När den sammanlagda kostnaden överstiger 900 kronor utgör kostnadsreduceringen 50 procent av den del som överstiger 900 kronor men inte 1 700 kronor, 75 procent av den del som överstiger 1 700 kronor men inte 3 300 kronor, 90 procent av den del som överstiger 3 300 kronor men inte 4 300 kronor samt hela den sammanlagda kostnaden till den del den överstiger 4 300 kronor.

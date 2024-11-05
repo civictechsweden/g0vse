@@ -1,0 +1,3 @@
+# Ministeriella noter, växlade med Nederländerna angående Österrikes ställning till den internationella konventionen i Haag
+
+Genom dessa noter, växlade med Nederländerna, vars regering enligt den i Haag den 21 dec. 1904 undertecknade internationella konventionen ang. sjukvårdsfartyg ombesörjer meddelanden ang. anslutning till konventionen, har konstaterats, att, då österrikiska regeringen förklarat sig anse sig bunden av ifrågavarande konvention, svenska regeringen å sin sida jämväl förklarat sig anse österrike bundet av densamma samt...

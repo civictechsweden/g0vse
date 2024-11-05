@@ -1,0 +1,3 @@
+# Begränsningar av möjligheten att göra avdrag för koncernbidrag
+
+Regeringen föreslår i lagrådsremissen regler för att hindra viss typ av skatteplanering med hjälp av koncernbidrag mellan företag som beskattas med olika skattesatser under övergången från den tidigare bolagsskattesatsen till den längre skattesats som gäller från och med 2013\. Förslaget innebär att ett företags möjlighet att göra avdrag för ett koncernbidrag begränsas på visst sätt. Begränsningen av avdragsrätten föreslås vara beroende av hur stor del av givarens beskattningsår som i tiden ligger före den 1 januari 2013\. Reglerna föreslås få retroaktiv effekt från och med den 19 april 2013, dvs. dagen efter den dag då regeringen i en skrivelse till riksdagen aviserade att ett förslag var att vänta.

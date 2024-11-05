@@ -1,0 +1,3 @@
+# Yrkeshögskolan
+
+I propositionen Yrkeshögskolan (prop. 2008/09:68\) föreslås en lag om yrkeshögskolan som syftar till att säkerställa att eftergymnasiala yrkesutbildningar som svarar mot arbetslivets behov kommer till stånd. Konkret betyder det att påbyggnadsutbildningar, vissa kompletterande utbildningar, lärlingsutbildningar för vuxna till vissa hantverksyrken och kvalificerade yrkesutbildningar inte utgör högskoleutbildningar, och bör regleras genom en och samma lag. En ny myndighet, Myndigheten för yrkeshögskolan, bör inrättas från och med 1 juli 2009 och den nya lagen beräknas träda i kraft den 15 april 2009\.

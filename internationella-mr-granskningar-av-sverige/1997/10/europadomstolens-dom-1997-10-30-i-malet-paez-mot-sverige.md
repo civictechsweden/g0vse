@@ -1,0 +1,8 @@
+# Europadomstolens dom (1997-10-30) i målet Paez mot Sverige
+
+Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.
+
+
+### Sammanfattning av domen
+
+Klaganden, en peruansk medborgare med viss anknytning till organisationen Sendero Luminoso, fick avslag på sin ansökan om uppehållstillstånd, varvid beslöts att han skulle utvisas. Beslutet fastställdes av regeringen som sista instans. Klaganden gjorde gällande att en verkställighet av utvisningsbeslutet kränkte artikel 3 i konventionen därför att han som sympatisör med Sendero Luminoso riskerade att gripas och utsättas för tortyr i Peru. Sedan klagandens bror, som åberopat liknande skäl, medgivits uppehållstillstånd med beaktande av den bedömning som FN:s kommitté mot tortyr gjort av hans ärende enligt FN\-konventionen mot tortyr och omänsklig behandling m.m., erhöll också klaganden uppehållstillstånd. Han önskade likväl att hans klagomål skulle prövas av domstolen och att han skulle tillerkännas skadestånd för det "oriktiga utvisningsbeslutet". Genom domen avskrevs målet från vidare handläggning. Domstolen konstaterade att det saknades skäl att pröva det ursprungliga utvisningsbeslutets förenlighet med artikel 3 eftersom klaganden medgivits uppehållstillstånd i Sverige och risken för att han skulle utsättas för behandling i strid med artikel 3 därmed undanröjts.

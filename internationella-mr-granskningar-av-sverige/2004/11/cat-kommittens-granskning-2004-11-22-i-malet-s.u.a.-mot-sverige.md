@@ -1,0 +1,8 @@
+# CAT-kommitténs granskning (2004-11-22) i målet S.U.A. mot Sverige
+
+FN:s CAT\-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.
+
+
+## Sammanfattning av yttrandet
+
+Ärendet rörde avvisning av en bangladeshisk medborgare till hemlandet. Klaganden gjorde inför kommittén gällande att han vid ett återsändande till hemlandet riskerade att utsättas för tortyr p.g.a. sin tidigare politiska verksamhet. Han uppgav vidare att han i Bangladesh på falska grunder anklagats för brott och att han efter ankomsten till Sverige i sin utevaro dömts till åtta års fängelse för mordförsök. I sitt beslut konstaterade kommittén att klaganden enligt ingiven medicinsk bevisning led av PTSD (post\-traumatic stress disorder) och uppvisade ärr som var förenliga med hans uppgifter om att han blivit utsatt för tortyr. Kommittén noterade emellertid att klagandens uppgifter till de svenska myndigheterna innehöll motsägelser och oklarheter beträffande omständigheter som var av relevans för bedömningen av hans påståenden. De slutsatser som de svenska myndigheterna dragit beträffande klagandens trovärdighet var också rimliga och på intet sätt godtyckliga. Kommittén ansåg mot denna bakgrund att de uppgifter som lämnats av klaganden, inklusive uppgifterna om att hans politiska verksamhet i hemlandet varit på en lokal och låg nivå, inte gav stöd för hans påstående att han vid ett återsändande till Bangladesh skulle löpa en verklig risk att utsätts för tortyr. En verkställighet av avvisningsbeslutet skulle således inte utgöra någon kränkning av artikel 3 i konventionen.

@@ -1,0 +1,24 @@
+# Nationell samordning av sjuktransporter en viktig del i samhällets hantering av terrorattentat
+
+Förra veckan besökte justitieminister Gunnar Strömmer och sjukvårdsminister Acko Ankarberg Johansson AISAB ambulansstation i Solna. Under besöket träffade statsråden bland annat ambulanspersonal som var i tjänst under terrorattentatet på Drottninggatan i Stockholm 2017\. Samhällets förmåga att hantera situationen under och efter ett terrorattentat är ett av fyra områden i regeringens nya strategi mot våldsbejakande extremism och terrorism. En viktig del i det arbetet är samordning av civila och militära sjuktransporter.
+
+
+Regeringen har nyligen beslutat om en ny samlad nationell strategi mot våldsbejakande extremism och terrorism. Arbetet ska utgå från fyra tydliga strategiska områden: Förebygga våldsbejakande extremism och terrorism. Förhindra terroristattentat och andra ideologiskt motiverade brott. Skydda samhällets människor och funktioner. Hantera situationen under och efter ett attentat.
+
+Den första nationella strategin mot terrorism togs fram 2008 och följdes av en ny strategi 2012\. Den förnyades igen 2015, men sedan dess har hotet från våldsbejakande extremism och terrorism blivit alltmer komplext och svårbekämpat. Det finns nu ett bredare hot mot Sverige som syftar till att urholka förtroendet för samhället och dess institutioner, och i förlängningen försvaga vår demokrati.
+
+Det strategiska området ”Hantera situationen under och efter ett attentat” är mer betonat i den nya strategin. Anledningen är att samhället också måste förbereda sig på att hantera ett attentat. När den tidigare nationella strategin mot terrorism togs fram hade Sverige inte varit med om ett terroristattentat med flera döda och skadade. Sedan dess har det skett flera attacker med dödlig utgång. Även om olika insatser framför allt syftar till att förhindra attentat, måste samhället vara förberett på att hantera en situation där ett attentat ändå inträffar. Det handlar bland annat om att kunna ingripa och avbryta ett pågående attentat, men också om att ge brottsoffer rätt stöd och upprättelse.
+
+En viktig del i arbetet med att hantera bland annat ett attentat är effektiva och ändamålsenliga civila och militära sjuktransporter. I dag saknas en samlad bild av vilka resurser för sjuktransporter som finns och det saknas även en nationell samordning av landets samlade sjuktransporter. De resurser som nationellt finns för sjuktransporter är fördelade på regionala, kommunala och statliga aktörer. Olika huvudmän har ansvar för sjuktransporter i olika situationer. Detta är en utmaning som kan få konsekvenser i en händelse av kris eller krig.
+
+I ett delbetänkande från utredningen om hälso\- och sjukvårdens beredskap (SOU 2020:23\) bedöms det nuvarande systemet i vissa fall ge upphov till samverkanssvårigheter och tidsförluster, vilket vid samhällsstörningar kan bli än mer märkbart. En tydlig samordningsfunktion för civila och militära sjuktransporter vid höjd beredskap och i krig bör därför skapas. En förutsättning för att bygga sådan funktion är beskrivningar över befintliga civila och militära sjuktransportorganisationer.
+
+Regeringen ger därför Socialstyrelsen och E\-hälsomyndigheten i uppdrag att kartlägga och beskriva befintliga statliga, regionala, kommunala och enskilda aktörers resurser och organisationer för sjuktransporter. Utifrån kartläggningen ska sedan ett förslag till plan för nationell samordning av sjuk­transporter tas fram.
+
+Socialstyrelsen ska ha ett övergripande samordnande ansvar för uppdraget och E\-hälsomyndigheten ansvarar för att analysera och föreslå hur samordningen av sjuktransporter kan informationsförsörjas med utgångspunkt i den nationella digitala infrastrukturen. Myndigheterna ska gemensamt utreda i vilka fall den nationella planen för samordning av sjuktransporter ska användas samt hur planen ska kunna genomföras.
+
+­ – Hälso\- och sjukvården är en samhällsviktig funktion med en central roll i det civila försvaret och som måste vara robust och motståndskraftigt. Väl fungerande organisationer för civila och militära sjuktransporter är en viktig komponent och för detta behövs samordning och kartläggning av resurser, säger sjukvårdsminister Acko Ankarberg Johansson.­
+
+– Det är givetvis avgörande att vidta åtgärder för att förebygga, förhindra och skydda samhället från terrorattentat. Men därutöver måste centrala aktörer vara beredda på att hantera ett dåd om det ändå äger rum. Detta görs tydligare i den nya samlade strategin mot terrorism och våldsbejakande extremism, säger justitieminister Gunnar Strömmer.
+
+Uppdraget ska redovisas senast den 16 februari 2025\. Regeringen beräknar att avsätta medel för uppdraget under 2024 under förutsättning att riksdagen anvisar medel för det aktuella anslaget.

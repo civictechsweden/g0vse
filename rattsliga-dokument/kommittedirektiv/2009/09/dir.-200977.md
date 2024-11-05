@@ -1,0 +1,3 @@
+# Förberedelser inför ett överförande av verksamheten vid Banverkets enhet Banverket Produktion till ett eller flera av staten hel
+
+En särskild utredare ska påbörja, och efter beslut i riksdagen, genomföra förberedelserna för att överföra verksamheten vid Banverkets enhet Banverket Produktion till ett eller flera av staten direkt eller indirekt helägda aktiebolag. Utredaren ska bland annat identifiera och hantera samtliga övergångsfrågor när det gäller t.ex. lokaler, IT\-system och personal, uppdatera den finansiella värderingen av verksamheten, samt ta fram förslag till överlåtelseavtal mellan staten och bolaget.

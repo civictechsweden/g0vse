@@ -1,0 +1,12 @@
+# Europadomstolens dom (2006-07-18) i målet Svenska transportarbetareförbundet mot Sverige
+
+På denna sida finner du en länk till domen i fulltext samt en svensk sammanfattning av domen.
+
+
+### Sammanfattning
+
+Bakgrunden till målet var ett beslut från Konkurrensverket som innebar att en klausul i ett kollektivavtal mellan Svenska Transportarbetareförbundet och Svenska Tidningsutgivareföreningen inte längre fick tillämpas. Förbundet gjorde bl.a. gällande inför Europadomstolen att dess rätt till tillgång till domstolsprövning enligt artikel 6 § 1 i konventionen kränkts i och med att man inte kunnat överklaga Konkurrensverkets beslut trots att det påverkade förbundet och dess medlemmar negativt.
+
+Europadomstolen beslutade att ta upp klagomålet om rätt till domstolsprövning i sak. Sedan de förlikningsförhandlingar som förts mellan parterna blivit utan resultat åtog sig regeringen i ett brev till domstolen bl.a. att utge ideellt skadestånd till klaganden med 40 000 kronor jämte ersättning för rättegångskostnader med totalt 148 160 kronor.
+
+Av domen framgår inledningsvis att Europadomstolen uppfattat regeringens brev som en ensidig förklaring (unilateral declaration) samt att särskilda principer etablerats i dess praxis rörande sådana förklaringar. Domstolen konstaterade att redan innan målet tagits upp till prövning i sak så hade regeringen medgett att det förelåg en kränkning av klagandens rätt till domstolsprövning. Domstolen noterade vidare att det pågick en översyn av den för målet relevanta bestämmelsen i konkurrenslagen som knöt an till klagomålet ifråga. I det sammanhanget erinrade man om att Sverige i flera tidigare mål rörande rätten till domstolsprövning visat sig villig att vidta generella åtgärder mot bakgrund av domar från Europadomstolen och som exempel nämndes rättsprövningslagen. Därutöver ansåg domstolen att de belopp som regeringen förklarat sig villig att betala till klaganden i skadestånd och som ersättning för rättegångskostnader var acceptabla. Mot denna bakgrund kom domstolen fram till att det inte längre var motiverat att fortsätta prövningen av klagomålet enligt artikel 6 § 1 och att inte heller respekten för mänskliga rättigheter såsom de definierats i konventionen eller dess tilläggsprotokoll krävde en sådan prövning. Med stöd av artikel 37 § 1 (c) i konventionen avskrevs därmed målet från vidare handläggning.

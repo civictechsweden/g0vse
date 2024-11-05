@@ -1,0 +1,3 @@
+# Uppdrag om utbildning för nyanlända med kort utbildning – utveckling av kommunal vuxenutbildning
+
+Regeringen uppdrar åt Statens skolverk att ta fram ett stödmaterial som ska underlätta för kommunerna att kombinera kommunal vuxenutbildning i svenska för invandrare (sfi) med andra delar av kommunal vuxenutbildning (komvux) till en utbildning anpassad för främst nyanlända personer i Arbets\-förmedlingens etableringsuppdrag som har kort utbildning. Utöver sfi ska utbildningen bestå av grundläggande utbildning i matematik och andra kurser eller delar av kurser som Skolverket bedömer som relevanta för målgruppen. Utbildningen ska kunna bedrivas hela dagar, men hänsyn ska tas till att nyanlända även ska genomgå samhällsorientering.

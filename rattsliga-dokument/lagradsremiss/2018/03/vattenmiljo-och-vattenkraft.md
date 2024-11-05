@@ -1,0 +1,13 @@
+# Vattenmiljö och vattenkraft
+
+En energipolitisk överenskommelse har träffats mellan Socialdemokraterna, Moderaterna, Miljöpartiet de gröna, Centerpartiet och Kristdemokraterna. Överenskommelsen innebär att Sverige ska ha moderna miljökrav på svensk vattenkraft. Lagändringarna föreslås träda i kraft den 1 januari 2019\.
+
+Prövningssystemet ska utformas på ett sätt som inte blir onödigt administrativt och ekonomiskt betungande för den enskilde i förhållande till den eftersträvade miljönyttan. Reglerna för omprövning av vattenverksamheter som vattenkraftverk och dammar bör förenklas så långt det är möjligt med hänsyn till behovet av att säkerställa en hållbar utveckling där våra vattenresurser inte kan betraktas som vilken resurs som helst. Vattenkraftens utbyggnad ska främst ske genom effekthöjning i befintliga verk med moderna miljötillstånd. Nya anläggningar ska ha moderna miljötillstånd.
+
+Detta ska ske genom omprövning på verksamhetsutövarens initiativ. I prövningen ska det finnas ett nationellt helhetsperspektiv med avvägningar mellan behovet av åtgärder som förbättrar vattenmiljön och behovet av en nationell effektiv tillgång till vattenkraftsel. För helhetssynen ska det finnas en nationell plan som ska vara vägledande för myndigheternas arbete med prövningarna och för vattenförvaltningen. Planen anger vilka verksamheter som bör prövas i ett sammanhang och när prövningen senast bör ha påbörjats. Som huvudregel får en verksamhet bedrivas utan att ha moderna miljövillkor till dess det är dags för prövning enligt planen.
+
+I fråga om alla vattenverksamheter föreslås att regeringen ska få meddela generella föreskrifter om försiktighetsmått. Den så kallade båtnadsregeln för prövning av vattenverksamheter tas bort. Om en verksamhet bedrivs med stöd av urminnes hävd, privilegiebrev eller innan äldre så kallad särskild rättighet, ska den rättigheten anses ha tillkommit enligt motsvarande bestämmelser i miljöbalken.
+
+I fråga om såväl vattenverksamheter som miljöfarliga verksamheter och verksamheter som prövas särskilt enligt sektorslagstiftning föreslås uttryckliga bestämmelser om att verksamheterna inte får äventyra att vattenmiljön uppnår den kvalitet som följer av EU\-rätten eller försämra vattenkvaliteten i strid med ett försämringsförbud. De möjligheter att ställa mindre långtgående krav som följer av EU\-rätten till förmån för samhällsnyttiga verksamheter ska utnyttjas fullt ut vid till exempel meddelande av miljökvalitetsnormer och andra föreskrifter samt vid beslut om klassning av vattenförekomster.
+
+Lagändringarna föreslås träda i kraft den 1 januari 2019\.

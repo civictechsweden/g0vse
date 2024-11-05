@@ -1,0 +1,3 @@
+# Deklaration med Frankrike om upphävandet av den svenska konsularjurisdiktioncn i det franska intresseområdet i Marocko
+
+Undertecknade, därtill behörigen befullmäktigade av sina respektive regeringar, hava gemensamt överenskommit om följande deklaration...

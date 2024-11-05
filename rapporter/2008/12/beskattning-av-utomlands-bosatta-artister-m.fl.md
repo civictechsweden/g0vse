@@ -1,0 +1,11 @@
+# Beskattning av utomlands bosatta artister, m.fl.
+
+Sverige har enligt intern rätt och de flesta ingångna skatteavtal rätt att beskatta utomlands bosatta för vissa inkomster från arbete som utförts i Sverige. Av kontroll\- och förenklingsskäl har Sverige, i likhet med ett flertal andra länder, i dag en definitiv källbeskattning av dessa inkomster. Det innebär att utbetalaren av inkomsten innehåller och betalar in skatten till Skatteverket och att mottagaren inte behöver deklarera i Sverige.
+
+Källbeskattningen innebär även att någon rätt till avdrag för kostnader inte föreligger. Vad gäller källbeskattning av förvärvsinkomster i Sverige som uppbärs av utomlands bosatta finns det två lagar. Den ena är lagen (1991:586\) om särskild inkomstskatt för utomlands bosatta (SINK) och den andra är lagen (1991:591\) om särskild inkomstskatt för utomlands bosatta artister m.fl. (A\-SINK).
+
+EG\-domstolen har under de senaste åren avgjort ett flertal mål där lagstiftningar som liknar de svenska har varit föremål för prövning. I ett flertal fall har lagstiftningarna ansetts oförenliga med EG\-fördraget.
+
+Regeringen har under åren 2004 och 2007 (prop. 2004/05:19 och 2007/08:24\) anpassat skattereglerna för utomlands bosatta \- SINK:en \- med anledning av avgöranden från EG\-domstolen. EG\-kommissionen överlämnade den 27 juni 2008 en formell underrättelse till Sveriges regering angående den svenska skattelagstiftningen om beskattning av utomlands bosatta artister och sportutövare (KOM:s ref. SG\-Greffe \[2008]D/204185, ärendenummer 2008/2117\). Kommissionen anför bl.a. att Sverige inte uppfyller sina skyldigheter enligt artiklarna 49 och 50 i EG\-fördraget samt motsvarande artiklar i EES\-avtalet genom att upprätta och bibehålla bestämmelser som kan innebära att artister och idrottsmän bosatta i andra medlemsstater i EU eller andra EES\-stater beskattas hårdare än artister och idrottsmän bosatta i Sverige.
+
+Denna promemoria presenterar ett förslag till EG\-anpassning av reglerna för beskattning av utomlands bosatta artister, idrottsmän och artistföretag. I promemorian föreslås även att den nuvarande bestämmelsen i 2 kap. 13 § socialavgiftslagen (2000:980\) om avgiftsfrihet för ersättningar för vilka särskild inkomstskatt ska betalas enligt A\-SINK eller som enligt den lagen undantas från skatteplikt ska upphöra att gälla.

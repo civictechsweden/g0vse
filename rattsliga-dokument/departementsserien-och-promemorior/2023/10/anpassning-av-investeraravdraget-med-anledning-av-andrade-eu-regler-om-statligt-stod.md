@@ -1,0 +1,9 @@
+# Anpassning av investeraravdraget med anledning av ändrade EU-regler om statligt stöd
+
+Investeraravdraget är ett statligt stöd enligt bestämmelserna i fördraget om Europeiska unionens funktionssätt (EUF\-fördraget). I promemorian föreslås en ändring av inkomstskattelagens bestämmelser om investeraravdrag.
+
+Ändringen föranleds av att kommissionen beslutat om ändringar i den s.k. allmänna gruppundantagsförordningen och den görs för att säkerställa att bestämmelserna om investeraravdrag även fortsatt uppfyller villkoren i förordningen och att stödet därmed fortsatt är förenligt med EUF\-fördraget.
+
+Investeraravdrag får bara göras om det företag i vilket andelar förvärvas vid tidpunkten för förvärvet inte har varit verksamt på någon marknad eller har varit verksamt på en marknad i mindre än sju år efter sin första kommersiella försäljning på en produkt\- eller tjänstemarknad. Vid bedömningen av om företaget har varit verksamt på någon marknad eller av hur länge företaget varit verksamt gäller enligt nuvarande bestämmelse att om företaget har förvärvat 25 procent eller mer av verksamheten från någon annan ska även den förvärvade verksamheten och dess ålder beaktas. I promemorian föreslås en ändring av den bestämmelsen som innebär att gränsvärdet för när en förvärvad verksamhet ska beaktas vid bedömningen sänks från 25 procent eller mer av företagets verksamhet till 10 procent eller mer av verksamheten. Förslaget innebär också att det införs en metod för att beräkna den förvärvade verksamhetens storlek i förhållande till storleken på företagets verksamhet. Som huvudregel föreslås att beräkningen ska göras genom att verksamheternas nettoomsättning under den period som motsvarar företagets beskattningsår närmast före förvärvet jämförs med varandra.
+
+Lagändringen föreslås träda i kraft den 1 juli 2024 och tillämpas första gången på förvärv av andelar som görs efter den 30 juni 2024\.

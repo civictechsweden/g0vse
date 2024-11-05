@@ -1,0 +1,18 @@
+# Mänskliga rättigheter, demokrati och rättsstatens principer i Nigeria
+
+Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Nigeria samt en länk till rapporten i sin helhet.
+
+
+Sedan återgången till demokrati för 20 år sedan har Nigeria gradvis tagit steg mot ökad respekt för de mänskliga rättigheterna. Konstitutionen garanterar skydd för grundläggande politiska, medborgerliga, ekonomiska, sociala och kulturella rättigheter. Genomförandet av dessa rättigheter uppvisar dock betydande brister. Delstaternas lagstiftande kompetens, tillämpning av olika rättssystem samt bristande kapacitet bidrar även till att situationen varierar inom landet.
+
+Sedan 2009 pågår en väpnad konflikt i den nordöstra delen av landet mellan nigeriansk militär och den islamistiska terrororganisationen Boko Haram. Konflikten har hittills tvingat miljontals människor på flykt och krävt minst 35 000 dödsoffer. Det finns rapporter om att båda sidor i konflikten gjort sig skyldiga till övergrepp och kränkningar av de mänskliga rättigheterna, exempelvis utomrättsliga avrättningar, tortyr, våldtäkt och frihetsberövande av barn.
+
+Trots att Nigeria räknas som ett lägre medelinkomstland baserat på genomsnittlig bruttonationalprodukt lever cirka hälften av de cirka 200 miljoner invånarna i extrem fattigdom. Fattigdomen är snabbt ökande och ojämlikheten stor.
+
+Det demokratiska deltagandet är lågt och misstron mot politiker utbrett. Kvinnor och unga är kraftigt underrepresenterade, i synnerhet med beaktande av att hälften av befolkningen är under 18 år. Oberoende kandidater kan inte kandidera i val och nomineringsprocessen för politiska uppdrag är svåröverskådlig samt oförutsägbar.
+
+Sharialagstiftning gäller i de tolv norra, primärt muslimska, delstaterna vilket bland annat innebär att homosexualitet är belagt med dödsstraff genom stening. Diskriminering av kvinnor, etniska minoriteter och personer med funktionsnedsättningar är vanligt förekommande i hela landet och begränsar dessa gruppers fulla åtnjutande av de mänskliga rättigheterna. Våld, inklusive sexuellt våld, mot kvinnor och barn är fortsatt utbrett. Trots förbud på nationell nivå förekommer könsstympning i stor omfattning. Andra allvarliga kränkningar och övergrepp av kvinnor och barns rättigheter utgörs av tvångsarbete och människohandel. Över 10,5 miljoner barn går inte i skolan, med en övervikt för flickor.
+
+Rättsväsendet har låg kapacitet och dras med korruptionsproblem. Förhållanden i fängelser och häkten är svåra med kraftig överbeläggning. Dödsstraff utdöms för ett stort antal brott. Ingen avrättning har dock ägt rum sedan år 2016\. Tortyr rapporteras förekomma regelbundet i häkten och fängelser. Andra utmaningar är straffrihet för militär och polis som kränker de mänskliga rättigheterna.
+
+Press\- och yttrandefrihet respekteras generellt på nationell nivå och politiska frågor kan debatteras öppet, men det förekommer rapporter om politiskt relaterade inskränkningar av pressfriheten och nedstängningar av tidningar. Mötes\- och föreningsfrihet respekteras till stor del men demonstrationer kan förbjudas med hänvisning till risk för våld på religiös eller politisk basis. Demonstrationer bemöts ofta hårdhänt av polis eller militär. Civilsamhället är stort och livligt men administrativt betungande lagstiftning har en begränsande inverkan. Samarbete mellan regeringen och organisationer som arbetar för att främja de mänskliga rättigheterna förekommer som regel inte.

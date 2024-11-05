@@ -1,0 +1,5 @@
+# Redogörelse för steriliseringsfrågan i Sverige åren 1937 - 1975 och regeringens åtgärder
+
+I denna skrivelse lämnar regeringen en redogörelse för steriliseringsfrågan i Sverige åren 1935 1975 och de åtgärder regeringen har vidtagit med anledning av betänkanden lämnade av 1997 års steriliseringsutredning. En redogörelse lämnas för bakgrunden till och arbetet med den ekonomiska ersättningen till steriliserade i vissa fall. I detta sammanhang beskrivs erfarenheterna av Steriliseringsersättningsnämndens arbete. Vidare lämnas en redogörelse för slutsatserna av den historiska analysen i Steriliseringsutredningens slutbetänkande. I skrivelsen framhålls särskilt omfattningen av steriliseringarna, den politiska enigheten bakom 1934 och 1941 års steriliseringslagar, ansvaret för steriliseringarna samt frågan om hur liknande övergrepp som tvångssteriliseringarna kan förhindras i framtiden.
+
+Avslutningsvis görs en redovisning för de åtgärder regeringen har vidtagit med anledning av utredningens slutbetänkande.

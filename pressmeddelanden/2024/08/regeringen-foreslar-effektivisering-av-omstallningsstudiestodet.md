@@ -1,0 +1,13 @@
+# Regeringen föreslår effektivisering av omställningsstudiestödet
+
+Intresset för att studera med omställningsstudiestöd har varit stort. Det stora antalet ansökningar, det faktum att reformen infördes snabbt och ett komplext regelverk har skapat långa handläggningstider hos CSN, vilket innebär att många sökande har fått vänta länge på ett beslut. Lagrådsremissen innehåller därför bland annat flera förslag till regelförenklingar.
+
+– Många sökande har fått vänta alldeles för länge på ett beslut om att få ta del av omställningsstudiestöd. Regeringen har sedan tidigare gjort flera åtgärder för att korta handläggningstiderna. De regelförenklingar som nu föreslås möjliggör för ytterligare förkortning av handläggningstiderna och innebär att fler kan få beslut i tid, säger utbildningsminister Mats Persson.
+
+Det har också visat sig att det kan vara svårt för personer som arbetar inom ett bristyrke att få omställningsstudiestöd beviljat. Enligt dagens regelverk ska efterfrågan på arbetsmarknaden där personen redan arbetar eller har arbetat vägas in när han eller hon ansöker om omställningsstudiestöd för att utbilda sig inom ett nytt arbetsområde. Med de föreslagna reglerna kommer arbete inom ett bristyrke inte längre att påverka möjligheterna till omställningsstudiestöd på ett negativt sätt.
+
+– Omställningsstudiestödet är en frihetsreform som gör att människor kan växla mellan yrken mitt i livet. De nya reglerna gör det enklare för exempelvis en sjuksköterska eller en lärare att ställa om. Förändringarna möjliggör alltså för dig inom ett bristyrke att också kunna ställa om mitt i livet, vilket är ett viktigt beslut, säger utbildningsminister Mats Persson.
+
+Med dagens regelverk finns det inte någon möjlighet att återkvalificera sig och få fler veckor med omställningsstudiestöd, vilket kan vara ett problem för den som vill ställa om flera gånger i livet. Regeringen föreslår därför att det ska bli möjligt att återkvalificera sig för omställningsstudiestöd och att det ska bli möjligt att få omställningsstudiestöd i mer än 44 veckor när det har gått minst 15 år sedan den studerande fick de första 22 veckorna. Stödet ska i dessa fall kunna lämnas under ytterligare högst 22 veckor, vilket innebär som mest totalt 66 veckor med omställningsstudiestöd.
+
+Regeringen föreslår att lagändringarna ska träda i kraft den 1 januari 2025\. De ändringar som gäller regelförenklingar och ökade möjligheter till omställningsstudiestöd för dem som arbetar inom ett bristyrke ska enligt förslaget tillämpas första gången på ansökningar om omställningsstudiestöd som gäller studier som påbörjas efter den 1 juli 2025 eller senare.

@@ -1,0 +1,5 @@
+# Förstärkt och förenklad miljöstyrning i bonus– malus-systemet
+
+Regeringen har i budgetpropositionen för 2021 (prop. 2020/21:1 Förslag till statens budget, finansplan och skattefrågor avsnitt 13\.26 s. 382–383\) aviserat att det s.k. bonus–malus\-systemet ska förstärkas och förenklas från 2021\. Bonus\-malus\-systemet innebär att bonus ges i samband med inköpstillfället till vissa fordon med låga utsläpp av koldioxid medan fordon med höga utsläpp av koldioxid får en malus i form av förhöjd skatt under tre år. För nya bensin\- och dieseldrivna lätta fordon föreslås i denna proposition att fordonsskatten ska höjas så att koldioxidbeloppet i vägtrafikskattelagen under de tre första åren från det att fordonet blir skattepliktigt för första gången ska vara summan av 107 kronor per gram koldioxid som fordonet vid blandad körning släpper ut per kilometer utöver 90 gram och upp till och med 130 gram och 132 kronor per gram koldioxid som fordonet vid blandad körning släpper ut per kilometer utöver 130 gram. Förslaget bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.
+
+Ändringarna föreslås träda i kraft den 1 april 2021\.

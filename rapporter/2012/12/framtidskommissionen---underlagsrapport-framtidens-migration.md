@@ -1,0 +1,5 @@
+# Framtidskommissionen - underlagsrapport: Framtidens migration
+
+Den framtida invandringen är viktig för arbetsmarknaden i Sverige, inte minst på grund av att de äldre blir allt fler och att andelen av befolkningen som är i aktiv ålder minskar. Det är viktigt att kunna förutse både invandringen och utvandringen till och från Sverige. Men det är svårt att göra långsiktiga prognoser för invandringen och alla stora förändringar av invandringen till Sverige under 1900\-talet har varit oväntade. Arbetskraftsinvandringen beror på hur Sverige utvecklas ekonomiskt i förhållande till vår omvärld och författaren bedömer att inkomstnivån i Sverige är så hög att det bör gå att rekrytera utländsk arbetskraft till Sverige även i framtiden, så länge det finns en efterfrågan på arbetskraft i Sverige. Flyktinginvandringen beror däremot främst på politiska händelser utanför Sveriges gränser som är mycket svårare att förutsäga.
+
+Eftersom långsiktiga prognoser för invandringen oftast slår fel rekommenderar författaren att de prognoser som görs uppdateras regelbundet.

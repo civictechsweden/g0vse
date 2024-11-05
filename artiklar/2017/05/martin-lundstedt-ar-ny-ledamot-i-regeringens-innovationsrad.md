@@ -1,0 +1,18 @@
+# Martin Lundstedt är ny ledamot i regeringens innovationsråd
+
+Martin Lundstedt är VD för Volvokoncernen sedan 2015\. Han är civilingenjör och har tidigare varit VD för Scania. Från och med 2017 är han också ny ledamot i Innovationsrådet. Han brinner för att ständigt förbättra och utveckla affärer och skapa systemlösningar.
+
+
+**Vad vill du tillföra Innovationsrådets arbete?**
+\- Jag vill tillföra insikter om de utmaningar Volvokoncernen står inför som en av världens största tillverkare av kommersiella fordon. Även om merparten av vår forskning och utveckling sker i Sverige så är Volvokoncernen ett globalt företag med produktion i 18 länder och försäljning på över 190 marknader. Vi verkar i en bransch som står inför en stor omställning och där kraven på innovation är mycket höga. För att vi ska vara konkurrenskraftiga måste vi hela tiden utveckla nya innovativa transportlösningar, nya affärsmodeller samt driva utvecklingen av framtidens produktion.
+
+**Hur kan Innovationsrådet bidra till att utveckla Sveriges innovationsförmåga och konkurrenskraft, tänker du?**
+\- Jag tror att det är en fördel för Sverige om regering och näringsliv delar samma verklighetsbild. Då kan beslut bli mer faktabaserade och vi kan alla dra åt samma håll, allt för samhällets bästa. Innovationsrådet erbjuder en bra plats för erfarenhetsutbyte och dialog, men banar även väg för konkreta åtgärder och beslut för att stärka Sveriges innovationskraft.
+
+**En punkt på mötet den 15 maj handlar om Sverige som fossilfritt välfärdsland och hur vi ställer om. Vilka innovativa lösningar behövs för att minska utsläppen, inte minst inom transportsektorn och industrin, anser du?**
+\- Fordonsindustrin är en bransch som satsar mycket på forskning och utveckling och som står inför ett paradigmskifte; elektromobilitet, automatiserad körning och en allt mer uppkopplad logistikkedja kommer att leda till ett mycket mer effektivt och hållbart transportsystem. För att nå dit krävs dels en samverkan mellan stat, näringsliv och akademi, och här tycker jag att FFI\-programmet (ett samarbete mellan staten och fordonsindustrin om att gemensamt finansiera forsknings\-, innovations\- och utvecklingsaktiviteter) har bidragit till att bygga nätverk som gör att Sverige omsätter forskning till samhällsnytta, dels krävs storskaliga demonstrationsprojekt för att kunna utvärdera ny teknik.
+
+\- Helt avgörande för att klara omställningen är att alla aktörer går i samma riktning, en fordonsleverantör kan inte ensamt ställa om till fossilfritt. En stor utmaning är tillgången till fossilfria bränslen. I dag är tillgången begränsad så vi behöver utnyttja flera olika bränslen och råvaror och prioritera energieffektivitet i alla led.
+
+**Har du några hjärtefrågor som du brinner extra för, som du vill lyfta in i Innovationsrådets fortsatta arbete?**
+\- Jag brinner för att ständigt förbättra och utveckla affärer och skapa systemlösningar. Ständiga förbättringar är också ett bra sätt att effektivisera och utveckla innovativa lösningar för produktion och hela logistiksystemet. Jag vill verka för att skapa miljöer där människor når sin fulla potential, där de kan utvecklas, ha roligt och skapa värden för företag och samhället i stort. Jag brinner också för att utveckla Sverige som en innovativ hemmahamn för att nå världsmarknaden. Därför måste vi som en liten öppen ekonomi främja frihandel, satsa mer på utbildning och forskning samt jobba mer tillsammans i hela värdekedjan för att öka produktiviteten och bygga global konkurrenskraft.

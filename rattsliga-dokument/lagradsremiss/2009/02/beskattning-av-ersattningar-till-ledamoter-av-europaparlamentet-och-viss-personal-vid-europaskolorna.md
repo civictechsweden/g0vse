@@ -1,0 +1,3 @@
+# Beskattning av ersättningar till ledamöter av Europaparlamentet och viss personal vid Europaskolorna
+
+Europaparlamentet har antagit en stadga för dess ledamöter som träder i kraft i samband med den valperiod som börjar 2009, dvs. den 14 juli 2009\. Stadgan innebär bl.a. att Europaparlamentet i fortsättningen kommer att stå för alla ersättningar till sina ledamöter och före detta ledamöter. I och med stadgan kommer ledamöternas arvoden m.m. att bli föremål för gemenskapsbeskattning. Med anledning av stadgan föreslås i lagrådsremissen anpassningar i skattemässigt hänseende för i Sverige obegränsat skattskyldiga ledamöter av Europaparlamentet.

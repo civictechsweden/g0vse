@@ -1,0 +1,11 @@
+# Vissa lagförslag med anledning av en reformerad arbetsmarknadspolitisk verksamhet
+
+![](/contentassets/9a41c4fed47c4a8bb478ad7f11e6ff76/ds-27-2021-fram.jpg?width=150&quality=85)
+
+Målet för arbetsmarknadspolitiken är att insatserna ska bidra till en väl fungerande arbetsmarknad. En del i att uppnå det är att den arbetsmarknadspolitiska verksamheten, med Arbetsförmedlingen som ansvarig myndighet, på ett mer effektivt sätt än i dag behöver kunna ge stöd till arbetssökande att komma i arbete och möjliggöra för fler arbetsgivare att hitta rätt kompetens. Arbetsförmedlingen och den arbetsmarknadspolitiska verksamheten ska därför reformeras.
+
+Arbetsförmedlingen ska fortsatt ha myndighetsansvaret för arbetsmarknadspolitiken, men matchande och rustande insatser ska i huvudsak utföras av fristående aktörer. En ny arbetsmarknadspolitisk insats, förmedlingsinsatser, ska införas och anskaffas från leverantörer med Arbetsförmedlingen som ansvarig myndighet. Kvalitet och kontroll ska vara styrande för ett nytt system med förmedlingsinsatser. Kostnadseffektivitet ska vara vägledande för förmedlingsinsatserna, som också behöver utformas så att konkurrens mellan leverantörerna leder till kontinuerliga förbättringar. Leverantörer av förmedlingsinsatser ska ges starka incitament att nå goda resultat för alla deltagare. Den arbetssökande ska så långt som möjligt ges möjlighet att påverka valet av leverantör. I den reformerade verksamheten ska det fortsatt finnas en bredd av andra arbetsmarknadspolitiska insatser som utförs av fristående aktörer, t.ex. leverantörer, kommuner, arbetsgivare och idéburna aktörer, eller i Arbetsförmedlingens egen regi, liksom insatser som bedrivs i samverkan.
+
+För att såväl Arbetsförmedlingen som leverantörerna ska kunna fullgöra sina respektive uppdrag på ett effektivt sätt när leverantörer i större utsträckning utför arbetsmarknadspolitiska insatser, behöver utbytet av information mellan Arbetsförmedlingen och leverantören kunna ske mer effektivt. För att skyddet för enskildas integritet ska kunna upprätthållas och ett effektivt informationsutbyte ska kunna ske krävs vissa lagändringar. Reformeringen innebär även att begrepp behöver anpassas i några lagar. Denna promemoria innehåller förslag till sådana lagändringar.
+
+Lagförslagen föreslås träda i kraft den 1 december 2022\.

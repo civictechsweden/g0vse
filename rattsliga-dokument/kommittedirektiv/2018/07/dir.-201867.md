@@ -1,0 +1,4 @@
+# Giftfri och cirkulär återföring av fosfor från avloppsslam
+
+Spridning av avloppsslam bör fasas ut och ersättas av tekniker där fosfor återvinns utan att miljö\- och hälsoskadliga ämnen sprids. En särskild utredare ska därför föreslå hur ett krav på utvinning av fosfor ur avloppsslam och ett förbud mot att sprida avloppsslam bör utformas. Förslagen får inte hindra utvinning av biogas från avloppsslam genom rötning. Utredaren ska redovisa den tekniska utveckling som skett vad gäller behandling av avloppsslam och utreda om det finns ett behov av ett etablerings\- eller investeringsstöd för de tekniska lösningar som krävs för att återvinna fosfor ur avloppsslam. Utredaren ska även föreslå hur ett fortsatt uppströmsarbete för att minska utsläpp nära källan kan säkerställas sedan ett förbud
+mot spridning av avloppsslam har införts. Uppdraget ska redovisas senast 15 september 2019\.

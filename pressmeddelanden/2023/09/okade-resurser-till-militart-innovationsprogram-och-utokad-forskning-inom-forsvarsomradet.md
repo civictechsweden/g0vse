@@ -1,0 +1,15 @@
+# Ökade resurser till militärt innovationsprogram och utökad forskning inom försvarsområdet
+
+– För att klara den militära tillväxten behöver Sverige fortsätta vara ledande inom teknikutveckling, forskning och innovation. De ökade anslagen till FOI innebär en ökning på över 35% från 2023\. Den snabba teknikutvecklingen drivs inte minst av forskning och företag utanför försvarssektorn. Nu tillför vi resurser som skapar möjlighet att fånga upp och dra nytta av framväxande teknologier för militärt bruk, säger försvarsminister Pål Jonson.
+
+– Det blir allt svårare att dra en tydlig linje mellan civil forskning och försvarsforskning, inte minst när det gäller nya och framväxande tekniker. Därmed finns också en stor potential i att stärka synergier och samverkansfördelar mellan civil och militär forskning, innovation och teknikutveckling. Den statligt finansierade försvarsrelaterade forskningen, som främst utgörs av tillämpad forskning, har stor spridningseffekt till andra forskningsområden. FOI:s forskning har till exempel bidragit stort till ökad kunskap och förståelse i det rådande säkerhetspolitiska läget, säger utbildningsminister Mats Persson.
+
+Regeringen lanserade i maj Försvarsinnovationsinitiativet som syftar till att skapa ökad samverkan mellan det civila näringslivet och försvarssektorn. Genom att skapa förutsättningar för samverkan över sektorsgränserna kan ny teknik som utvecklas för och på det civila området också nyttiggöras genom innovationer på försvarsområdet.
+
+Att leda den tekniska utvecklingen och omsätta forskning och utveckling och nya idéer till försvarsinnovationer är avgörande för att som nation ha en stark försvarsmakt och en stark säkerhetspolitisk position. Regeringen har tidigare gett Försvarsmakten i uppdrag att föreslå innovationsprogram som nyttjar civil\-militära synergier. För ett militärt innovationsprogram och forskning i Försvarsmaktens regi tillför nu regeringen 88 miljoner kronor 2024, 90 mnkr 2025 och 247 mnkr från 2026\.
+
+Tillgång till nyckelteknologier och integritetskritisk kunskap är avgörande för den nationella säkerheten. Staten måste förstå de strategiska och säkerhetspolitiska konsekvenserna av teknikutvecklingen. Staten behöver därför stärka sin förmåga att fatta oberoende och välbalanserade beslut som rör utveckling, användning av och samarbeten gällande nya teknologier.
+
+Totalförsvarets forskningsinstitut (FOI) är ett av Europas ledande forskningsinstitut inom försvar och säkerhet. För att säkerställa FOI:s möjligheter att bygga upp framtidens försvarsforskningsområden och samtidigt skapa möjligheter till internationella samarbeten inom nya, framväxande områden föreslår regeringen att myndigheten tillförs ytterligare medel för att bevaka, prioritera och hantera framväxande och omvälvande tekniker. 100 miljoner kronor avsätts 2024 för att stärka FOI:s forskning och analys, 2025 avsätts 143 miljoner kronor och 2026 189 miljoner kronor.
+
+Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

@@ -1,0 +1,9 @@
+# Förslag om ett starkare mandat för EU:s narkotikamyndighet i hamn
+
+– Genom det nya mandatet får EU:s narkotikamyndighet förutsättningar att arbeta med de nya och växande utmaningar på narkotikaområdet som finns i EU. Det är positivt att myndigheten kommer främja evidensbaserade metoder och öka medvetenheten om förebyggande insatser, vård och stöd samt skadereducering på narkotikaområdet. Företrädare för det civila samhället kommer även involveras mer i myndighetens verksamhet, vilket är mycket positivt, säger socialminister Jakob Forssmed.
+
+– Handeln med narkotika göder de kriminella gängen. Konkurrensen om narkotikamarknaderna ger upphov till våldsamma konflikter som i allt högre utsträckning drabbar vårt samhälle och oskyldiga. Genom utvecklingen av narkotikamyndighetens arbete kan arbetet mot den organiserade brottsligheten intensifieras, säger justitieminister Gunnar Strömmer.
+
+Tisdagen den 27 juni fattade EU:s ministerråd beslut om ett nytt mandat för EU:s narkotikamyndighet. Genom det nya mandatet utvecklas och stärks verksamheten vid EU:s narkotikamyndighet. Syftet är att myndigheten ska kunna reagera mer effektivt på de nya hälso\- och säkerhetsutmaningar som olaglig narkotika medför. Dels ska myndigheten öka kunskapen om narkotikans negativa effekter inom hela EU, till exempel genom att ta fram hotanalyser och utfärda varningar. Dels ska myndigheten stödja medlemsländerna bättre och bidra till att förbättra situationen på internationell nivå.
+
+Det svenska ordförandeskapet inledde trepartsförhandlingar med Europaparlamentet och europeiska kommissionen i januari och lyckades nå en preliminär överenskommelse i slutet av mars. Europaparlamentet godkände trepartsöverenskommelsen den 13 juni med stor majoritet och rådet antog slutligt mandatet den 27 juni. Det nya mandatet kommer att börja tillämpas från och med den 1 juli 2024\.

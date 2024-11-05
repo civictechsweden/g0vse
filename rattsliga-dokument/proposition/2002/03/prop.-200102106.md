@@ -1,0 +1,5 @@
+# Konvention om social trygghet mellan Sverige och Kanada
+
+I propositionen föreslås att riksdagen godkänner en ny konvention om social trygghet mellan Sverige och Kanada av den 30 januari 2002\. Konventionen ersätter den tidigare konventionen av den 10 april 1985 mellan Sverige och Kanada om social trygghet (SFS 1985: 949\). I huvudsak föranleds ändringen av det reformerade svenska pensionssystemet som i sin helhet kommer att träda i kraft den 1 januari 2003\. Genom att bestämmelserna i konventionen anpassas till den svenska pensionsreformen och de regler som kommer att gälla från och med år 2003 uppfyller Sverige även fortsättningsvis sina internationella förpliktelser gentemot Kanada.
+
+I anpassningen av konventionen görs inga nya åtaganden som medför kostnader för svenskt vidkommande. De bilaterala förhållandena mellan Sverige och Kanada på socialförsäkringsområdet kommer genom den nya konventionen även fortsättningsvis att regleras på ett ändamålsenligt sätt.

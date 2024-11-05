@@ -1,0 +1,9 @@
+# Regeringen betalar ut 100 miljoner kronor till UNRWA
+
+– Regeringen fortsätter att öka det humanitära stödet till civila i Gaza. I enlighet med den överenskommelse som Sverige nådde med UNRWA i mars och mot bakgrund av de åtgärder som UNRWA har vidtagit för att svara upp på våra krav, genomför vi nu den andra utbetalningen av vårt kärnstöd. Det är ett viktigt beslut givet de akuta behoven i Gaza och handlar i första hand om sjukvård, skyddsbostäder och livsmedelsstöd, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+
+Anklagelserna mot några av UNRWA:s anställda, som fortfarande utreds, är oerhört allvarliga. Regeringen har därför betonat vikten av att UNRWA skärper sina rutiner för att säkerställa dess neutralitet som humanitär organisation. Den 22 april 2024 slutfördes en oberoende utredning av UNRWA som har genomförts under ledning av Frankrikes före detta utrikesminister Catherine Colonna, på uppdrag av FN:s generalsekreterare. Utredningen lämnade 50 konkreta rekommendationer för hur UNRWA bör skärpa sina rutiner med intern styrning och kontroll. Organisationen har därefter presenterat en handlingsplan för att implementera dessa rekommendationer.
+
+UNRWA har också gjort framsteg i att möta de krav som ställts på organisationen. Däribland granskas numera personal systematiskt för att säkerställa att ingen anställd förekommer på EU:s sanktionslistor. Sverige har arbetat nära EU\-kommissionen i denna process. Även EU\-kommissionen beslutade den 31 maj 2024 om att gå vidare med sin andra utbetalning till UNRWA om 16 miljoner euro.
+
+Regeringen har för 2024 anslagit totalt 400 miljoner kronor till UNRWA. Den 9 mars 2024 beslutade regeringen att genomföra en första utbetalning på 200 miljoner kronor efter skriftliga försäkringar från UNRWA direkt till Sverige om utökad transparens och skärpta rutiner. Dagens beslut avser den andra utbetalningen på hundra miljoner kronor.

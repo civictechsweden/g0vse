@@ -1,0 +1,3 @@
+# Kommunernas roll i avfallshanteringen
+
+I lagrådsremissen gör regeringen bedömningen att kommunernas möjlighet att utöka det kommunala ansvaret för avfallshanteringen till att omfatta även farligt avfall som inte är hushållsavfall bör tas bort. Därutöver föreslås att det görs tydligt att kommuner får transportera och ta hand om sådant avfall som inte är hushållsavfall. För sådan hantering görs undantag från lokaliserings\- och självkostnadsprinciperna i 2 kap. 1 § och 8 kap. 3 c § kommunallagen (1991:900\). För att det tydligt skall framgå att ingen korssubventionering sker skall kommunen redovisa den konkurrensutsatta delen och annan avfallshantering skilt från varandra och skilt från övrig verksamhet inom kommunen.

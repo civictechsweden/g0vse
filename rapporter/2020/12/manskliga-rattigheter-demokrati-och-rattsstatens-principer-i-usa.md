@@ -1,0 +1,10 @@
+# Mänskliga rättigheter, demokrati och rättsstatens principer i USA
+
+Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i USA samt en länk till rapporten i sin helhet.
+
+
+Den amerikanska konstitutionen ger ett omfattande skydd för de mänskliga rättigheterna och respekten för dessa är god. En kombination av statliga institutioner, oberoende domstolar, enskilda organisationer och fria medier försvarar individens och olika gruppers åtnjutande av dessa rättigheter. Flera av FN:s centrala konventioner om mänskliga rättigheter har dock inte ratificerats. USA tillämpar dödsstraff såväl federalt som i en majoritet av delstaterna, men både antalet dödsdomar och avrättningar minskar. Guantánamo\-lägret är fortsatt i bruk.
+
+Det amerikanska demokratiska systemet kännetecknas av politisk pluralism och en stark rättsstatstradition. Samtidigt har Trumpadministrationen vid flera tillfällen agerat på ett sätt som påverkar kongressens möjlighet till konstitutionellt ansvarsutkrävande. Utnämningsprocessen till federala domstolar har blivit allt mer politiserad och president Donald Trump har vid ett flertal tillfällen engagerat sig i individuella rättsprocesser, vilket har aktualiserat frågor om den lagstiftande och dömande maktens oberoende. Regler för väljarregistrering och identifiering samt valdistriktsindelning är omdebatterade, bland annat då de i många fall tenderar att försvåra brett valdeltagande.
+
+Den makroekonomiska utvecklingen är god samtidigt som de socioekonomiska skillnaderna mellan befolkningsgrupper och olika delar av landet vuxit. Rättssystemets behandling av framför allt den afroamerikanska delen av befolkningen, som är överrepresenterad i landets fängelser och bland dem som dömts till dödsstraff, har fått allt mer uppmärksamhet. I mer än hälften av delstaterna kan minderåriga dömas till livstids fängelse utan möjlighet till frigivning.

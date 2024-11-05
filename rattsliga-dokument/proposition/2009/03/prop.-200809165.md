@@ -1,0 +1,13 @@
+# En långsiktigt hållbar organisation för de allmänna förvaltningsdomstolarna i första instans
+
+I propositionen redogör regeringen för hur en långsiktigt hållbar organisation för de allmänna förvaltningsdomstolarna i första instans ska skapas.
+
+Domstolarna har en mycket viktig roll i samhället och detta ställer höga krav på det arbete som utförs där. För att förtroendet för rättsstaten ska upprätthållas krävs väl fungerande och oberoende domstolar. Domstolarna måste därför ges möjlighet att utveckla sin verksamhet och vidmakthålla en hög kompetens.
+
+De förändringar som presenteras skapar förutsättningar för en verksamhet som håller en långsiktigt hög kvalitet och effektivitet.
+
+Regeringen redovisar i propositionen följande bedömning av hur organisationen för de allmänna förvaltningsdomstolarna i första instans bör se ut i framtiden. Länsrätten i Stockholms län och Länsrätten i Gotlands län bör läggas samman till en domstol med kansli i Stockholm. Länsrätten i Uppsala län och Länsrätten i Västmanlands län bör läggas samman till en domstol med kansli i Uppsala. Till domstolen bör Norrtälje, Sigtuna och Upplands Väsby kommuner föras. Länsrätten i Göteborg bör läggas samman med Länsrätten i Vänersborg och Länsrätten i Hallands län till en domstol med kansli i Göteborg. Länsrätten i Örebro län och Länsrätten i Värmlands län bör läggas samman till en domstol med kansli i Karlstad. Länsrätten i Dalarnas län och Länsrätten i Gävleborgs län bör läggas samman till en domstol med kansli i Falun. Länsrätten i Västernorrlands län och Länsrätten i Jämtlands län bör läggas samman till en domstol med kansli i Härnösand. Länsrätten i Östergötlands län bör läggas samman med Länsrätten i Södermanlands län till en domstol med kansli i Linköping. Till domstolen bör Vimmerby och Västerviks kommuner föras. Länsrätten i Jönköpings län bör läggas samman med Länsrätten i Mariestad till en domstol med kansli i Jönköping. Till domstolen bör Bollebygds, Borås, Herrljunga, Marks, Svenljunga, Tranemo, Ulricehamns och Vårgårda kommuner föras. Länsrätterna i Kronobergs län, Blekinge län och Kalmar län bör läggas samman till en domstol med kansli i Växjö. Inga förändringar av domkretsarna för Länsrätterna i Västerbottens län, Norrbottens län och Skåne län bör göras.
+
+Regeringen föreslår i propositionen att benämningen för de allmänna förvaltningsdomstolarna i första instans ändras från länsrätt till förvaltningsrätt. Det nya namnet på en allmän förvaltningsdomstol i första instans kommer att bli "Förvaltningsrätten i" följt av namnet på kansliorten.
+
+Sammanläggningarna bör genomföras den 15 februari 2010\. Lagändringarna föreslås träda i kraft vid samma tidpunkt.

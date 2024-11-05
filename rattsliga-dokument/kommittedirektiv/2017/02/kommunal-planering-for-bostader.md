@@ -1,0 +1,6 @@
+# Kommunal planering för bostäder
+
+En särskild utredare ska lämna förslag på hur bedömningar av bostadsbyggnadsbehovet framtagna av Boverket ska fördelas på kommunerna. Förslaget ska tas fram i dialog med kommuner och regionala företrädare. Utredaren ska också föreslå ändringar
+i lagen om kommunernas bostadsförsörjningsansvar och plan\-och bygglagen som tydliggör att de kommunala bostadsbyggnadsbehoven ska avspeglas i översiktsplanen.
+
+Regeringen aviserade i budgetpropositionen för 2017 sin avsikt att presentera förslag om krav på kommunal planering för bo\-stadsbyggande. Bakgrunden är att bostadsbyggandet i Sverige under lång tid inte har hållit jämna steg med befolkningsutvecklingen. Utredaren ska i sitt arbete utgå från att Boverket kommer att göra bedömningar av bostadsbyggnadsbehovet baserat på det remitterade förslaget med de modifieringar som föranleds av remissinstansernas synpunkter. Dessa bedömningar behöver med hänsyn till regionala och lokala förutsättningar fördelas på kommuner. Syftet är att etablera en ordning där staten gör bedömningar av behovet av nya bostäder i hela landet som kommunerna tillgodoser genom att i sin planering avsätta mark för ett bostadsbyggande som motsvarar behoven.

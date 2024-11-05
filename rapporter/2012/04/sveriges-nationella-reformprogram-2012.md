@@ -1,0 +1,3 @@
+# Sveriges nationella reformprogram 2012
+
+Europa 2020\-strategin utgör sedan juni 2010 EU:s gemensamma tillväxt\- och sysselsättningsstrategi. Medlemsstaterna ska årligen utarbeta nationella reformprogram som presenterar genomförandet av strategin i den nationella politiken. Programmen ska i enlighet med den nya årscykeln för förstärkt ekonomisk samordning inom EU (den europeiska terminen) överlämnas till EU\-kommissionen samtidigt som stabilitets\- eller konvergensprogrammen i april varje år. Sveriges nationella reformprogram 2012 baseras på de åtgärder som aviserades i budgetpropositionen 2012 och 2012 års ekonomiska vårproposition. Riksdagens finansutskott har informerats om programmet.

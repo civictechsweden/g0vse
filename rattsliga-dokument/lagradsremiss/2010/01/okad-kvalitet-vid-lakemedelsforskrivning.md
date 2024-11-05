@@ -1,0 +1,3 @@
+# Ökad kvalitet vid läkemedelsförskrivning
+
+Regeringen överlämnade den 29 januari 2010 lagrådsremissen Ökad kvalitet i läkemedelsförskrivning till lagrådet. Den innehåller förslag om att Apotekens Service AB, ska lämna ut uppgifter på individnivå om uttag av läkemedel och andra varor, till landstingen. Syftet är att landstingen ska få möjlighet att göra bättre medicinsk uppföljning av enskilda patienters uttag av förskrivna läkemedel hos apoteken. På så sätt ska kvaliteten och effektiviteten i läkemedelsförskrivningen höjas. I lagrådsremissen föreslås också att läkemedelsförteckningen även ska innehålla uppgifter om förskrivarens namn, yrkesspecialitet och plats. Syftet är att stärka patientsäkerheten.

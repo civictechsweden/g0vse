@@ -1,0 +1,3 @@
+# Nya bestämmelser i anslutning till konkurrensregelverket
+
+I promemorian lämnas förslag till författningsändringar som kompletterar Europaparlamentets och rådets förordning (EU) 2022/1925 av den 14 september 2022 om öppna och rättvisa marknader inom den digitala sektorn och om ändring av direktiv (EU) 2019/1937 och (EU) 2020/1828 (Förordningen om digitala marknader) samt Europaparlamentets och rådets förordning (EU) 2022/2560 av den 14 december 2022 om utländska subventioner som snedvrider den inre marknaden. Förslagen innebär bl.a. att Konkurrensverket ska bistå Europeiska kommissionen i dess tillsynsverksamhet.

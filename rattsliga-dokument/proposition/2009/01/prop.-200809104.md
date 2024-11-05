@@ -1,0 +1,3 @@
+# Utvidgning av uppdrag för Sveriges Bostadsfinansieringsaktiebolag, SBAB (publ)
+
+Regeringen föreslår att riksdagen godkänner att uppdraget för Sveriges Bostadsfinansieringsaktiebolag, SBAB (publ) utvidgas. SBAB ska utöver den verksamhet bolaget nu bedriver också få bedriva bankrörelse och annan finansiell verksamhet och sådan verksamhet som har ett naturligt samband därmed i enlighet med lagen (2004:297\) om bank\- och finansieringsrörelse samt fondverksamhet enligt lagen (2004:46\) om investeringsfonder. En utvidgning av verksamheten förutsätter att Finansinspektionen beviljar nödvändiga tillstånd. All utvidgning ska vidare ske på affärsmässig grund och med syfte att förbättra företagets lönsamhet och därmed dess värde vid en framtida försäljning.

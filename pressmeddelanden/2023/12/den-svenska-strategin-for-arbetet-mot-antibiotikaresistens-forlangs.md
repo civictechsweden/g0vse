@@ -1,0 +1,9 @@
+# Den svenska strategin för arbetet mot antibiotikaresistens förlängs
+
+– Resistenta bakterier respekterar inga landsgränser och redan i dag är tillgången till effektiva antibiotika hotad. I Sverige har vi länge arbetat för att bromsa utvecklingen av antibiotikaresistens och den svenska strategins mål är brett formulerade och aktiviteterna är i högsta grad aktuella. Regeringens bedömning är att strategin är fortsatt mycket väl lämpad för att driva arbetet mot antibiotikaresistens framåt på ett effektivt sätt, säger socialminister Jakob Forssmed.
+
+Den svenska strategin mot antibiotikaresistens har som övergripande mål att bevara möjligheten till effektiv behandling av bakteriella infektioner hos människor och djur. Den möjligheten hotas av den ökande resistensen världen över. För att bromsa utvecklingen krävs ett långsiktigt förebyggande arbete samt att tillgång till effektiva antibiotika säkras. En avgörande faktor för att detta ska fungera är den lokala, regionala och nationella samverkan som arbetet i Sverige bygger på.
+
+Nästa år hålls ett särskilt högnivåmöte om antibiotikaresistens inom ramen för FN:s generalförsamling. Resultatet av detta kommer att ha stor betydelse för det framtida arbetet globalt. Under Sveriges ordförandeskap i Nordiska ministerrådet nästa år kommer ett stärkt nordiskt samarbete kring antibiotikaresistens att vara en prioriterad fråga.
+
+Internationella samarbeten kommer att vara viktiga i ett globalt perspektiv och Sveriges bidrag i processerna kommer att vara betydande. Under det svenska ordförandeskapet i EU:s ministerråd 2023 förhandlades och antogs också en rådsrekommendation om EU:s arbete mot antibiotikaresistens som gäller alla medlemsländer. Efter FN\-mötet kommer den svenska strategin att utvärderas och följas upp i syfte att ge utrymme för Sverige att fortsätta arbetet mot antibiotikaresistens på ett effektivt och beständigt sätt.

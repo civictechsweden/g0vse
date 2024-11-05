@@ -1,0 +1,17 @@
+# Mänskliga rättigheter, demokrati och rättsstatens principer i Egypten
+
+Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Egypten samt en länk till rapporten i sin helhet.
+
+
+Trenden vad gäller efterlevnaden av de mänskliga rättigheterna i Egypten är negativ, särskilt beträffande respekten för de politiska och medborgerliga rättigheterna. Konstitutionen ger på flera områden ett formellt relativt gott skydd, men rättigheterna respekteras inte alltid i praktiken. Det förekommer även att rättigheterna i konstitutionen kringskärs genom restriktiv lagstiftning. Rättsstatens principer återspeglas i huvudsak i konstitutionen, men även här brister efterlevnad och genomförande. Rättssäkerheten för den enskilde är i flera fall svag. Såväl civila som polis, militär och rättsväsende drabbas av återkommande terroristattacker och annan våldsanvändning. Säkerhetssituationen, i synnerhet i norra Sinai och i gränsområdet mot Libyen är problematisk, och Egypten omges av oroshärdar. Sedan april 2017 råder undantagstillstånd i Egypten.
+
+I mars 2018 hölls presidentval och i april 2019 en folkomröstning om ändringar av konstitutionen. I båda fallen genomfördes valen på ett tekniskt korrekt sätt, men i en politisk och demokratisk miljö som uppvisade betydande utmaningar. Under 2016 bekräftade parlamentet i princip samtliga de dekret, genom vilka interimspresident Mansour och president Sisi styrt landet under övergångsperioden. Flera av dessa lagar har kritiserats.
+
+Sedan 2016 har ett omfattande lagstiftningsarbete pågått. Lagar beträffande civilsamhälle, media och internet har i flera fall resulterat i
+inskränkningar i konstitutionens bestämmelser om fri\- och rättigheter. På andra områden görs vissa framsteg, såsom kvoter för kvinnliga parlamentsledamöter, och ny lagstiftning mot diskriminering som syftar till att förbättra situationen för bland annat personer med funktionsnedsättning.
+
+Utrymmet har krympt för det civila samhället, människorättsförsvarare och för politisk debatt. Lokala och internationella civilsamhälles\- organisationer rapporterar om svåra förhållanden i fängelser och häkten, påtvingade försvinnanden, godtyckliga frihetsberövanden och övergrepp mot journalister. Ett stort antal dödsstraff utdöms, varav 43 rapporteras ha verkställts under 2018, ofta i en kontext av bristande rättssäkerhet. Utrymmet för oberoende fackföreningar är litet. Statens direkta eller indirekta kontroll av media, liksom den statliga kontrollen av internet har ökat. Samtidigt förekommer viss debatt och kritik mot regering och myndigheter, också i statsägd media.
+
+Respekten för kvinnors mänskliga rättigheter har utvecklats i en försiktigt positiv riktning, även om utmaningar återstår. Diskriminering av minoriteter och av personer på grund av deras sexuella läggning eller könsidentitet förekommer. Barns rättigheter åsidosätts många gånger.
+
+Utbildningsväsende och sjukvård står inför utmaningar, inte minst på grund av en kraftig befolkningstillväxt och påtagliga miljöproblem, vilket påverkar individens rätt till utbildning och bästa möjliga hälsa. En kraftig befolkningstillväxt, genomförda ekonomiska reformer och en hög inflation påverkar statens kapacitet att respektera medborgarnas åtnjutande av de ekonomiska, sociala och kulturella rättigheterna, inklusive rätten till arbete och tillfredsställande levnadsstandard. FN:s kommitté mot tortyr har rapporterat att det förekommer systematisk tortyr i Egypten.

@@ -1,0 +1,7 @@
+# Satsning på att stärka Försäkringskassans kontrollarbete
+
+Årligen betalas omkring 15–20 miljarder kronor ut felaktigt från välfärdssystemen, varav ungefär 90 procent orsakas av att felaktiga uppgifter ligger till grund för beslut om ersättning. För att motverka att felaktiga utbetalningar görs, ser regeringen ett behov av att Försäkringskassan behöver stärka sitt arbete med kontroller. Det innefattar dels förebyggande kontroller, dels omprövningar och efterkontroller i flera förmåner. Medlen ska även nyttjas till att öka myndighetens förmåga att löpande återkräva och driva in felaktiga utbetalningar samt minska befintlig ärendebalans av återkrav.
+
+– Brott mot välfärdssystemen riskerar att urholka tilliten och hotar förtroendet för välfärdssamhället. Därför är det av största vikt att vi ger Försäkringskassan goda förutsättningar att kunna upptäcka och förhindra felaktiga utbetalningar. Regeringen stärker därför myndighetens kontrollarbete, säger äldre\- och socialförsäkringsminister Anna Tenje.
+
+En annan viktig del i arbetet för att motverka felaktiga utbetalningar från välfärdssystemen är att berörda myndigheter kan utbyta information med varandra. Regeringen har därför även beslutat om att höja anslaget till Försäkringskassan med ytterligare 6,5 miljoner kronor samt med 1,6 miljoner kronor till Pensionsmyndigheten, i syfte att utöka myndigheternas möjligheter till informationsutbyte.

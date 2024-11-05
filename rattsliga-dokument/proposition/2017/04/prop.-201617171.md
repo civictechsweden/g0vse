@@ -1,0 +1,3 @@
+# En ny kommunallag
+
+Propositionen innehåller förslag om en ny kommunallag. Ett stabilt ramverk för kommuner och landsting är en nödvändig förutsättning för att hantera den kommunala sektorns framtida utmaningar. Ramverket ska ge goda förutsättningar för den lokala demokratin och bidra till ett fungerande samspel mellan förtroendevalda och tjänstemän. Ramverket bör också ge medlemmar och samhället i övrigt en möjlighet att följa och granska aktiviteten i kommuner och landsting. För att möjliggöra insyn och uppföljning krävs att ramverket präglas av tydlighet och en klar ansvarsfördelning. Förslaget till ny kommunallag har en delvis ny struktur, ett enhetligt språk och en enhetlig begreppsbildning. Utformningen är anpassad till behovet av framtida förändringar.

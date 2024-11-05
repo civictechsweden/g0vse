@@ -1,0 +1,3 @@
+# Uppdrag att samordna och utveckla länsstyrelsernas tillämpning av barnets rättigheter samt stödja arbetet med att säkerställa tillämpningen av barnets rättigheter i kommuner och landsting
+
+Regeringen uppdrar åt Länsstyrelsen i Dalarnas län att samordna och utveckla länsstyrelsernas tillämpning av barnets rättigheter samt stödja arbetet med att säkerställa den praktiska tillämpningen av barnets rättigheter i kommuner och landsting. Syftet med uppdraget är att, i högre utsträckning än idag, bidra till att tillämpningen av barnets rättigheter säkerställs i praktiken på kommunal och regional nivå. uppdraget ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 1 mars 2020\.

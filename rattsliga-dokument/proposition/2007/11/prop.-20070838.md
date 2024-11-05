@@ -1,0 +1,7 @@
+# Sekretess för uppgifter på de s.k. tsunamibanden
+
+I propositionen föreslår regeringen vissa ändringar i och en viss förlängning av den tidsbegränsade bestämmelse om sekretess för uppgifter på de s.k. tsunamibanden som riksdagen beslutade den 20 juni 2007 och som gäller t.o.m. den 31 december 2007\.
+
+Som ett led i övervägandena av om det finns skäl att låta bestämmelsen fortsätta att gälla behandlas magnetbandens rättsliga status mot bakgrund av regleringen i 2 kap. tryckfrihetsförordningen (TF). Den bedömning som görs är att magnetbanden med säkerhetskopiorna i sig inte kan anses utgöra allmänna handlingar i TF:s mening. Den rättsliga statusen avseende varje enskild handling som finns på magnetbanden måste därför bedömas för sig. Banden innehåller både kopior av originalhandlingar inom Regeringskansliet som är allmänna handlingar och kopior av originalhandlingar som inte är allmänna. Kopiorna har samma rättsliga status som originalhandlingarna.
+
+Regeringens förslag innebär att sekretess av säkerhetsskäl ska gälla för uppgifter i säkerhetskopior som har genererats i Regeringskansliets datasystem och som har bevarats med anledning av naturkatastrofen i Asien år 2004, om det inte står klart att uppgiften kan röjas utan fara för att Regeringskansliets verksamhet skadas. Sekretessen ska dock inte gälla i förhållande till riksdagen. Bestämmelsen ska enligt förslaget gälla till och med utgången av juni 2011\. Den handlingssekretess som följer av bestämmelsen omfattar uppgifter i de allmänna handlingar som finns på banden.

@@ -1,0 +1,4 @@
+# Lag om utlandsstyrkan inom Försvarsmakten
+
+I propositionen föreslås en lag om utlandsstyrkan inom Försvarsmakten. För den som tjänstgör i internationell fredsfrämjande verksamhet är risken att skadas och invalidiseras högre än i många andra verksamheter. Regeringen föreslår därför vissa regler för att förbättra det socialrättsliga skyddet. Försvarsmaktens ansvar för rehabilitering av personer som skadas under sin anställning i utlandsstyrkan förtydligas och förstärks.
+Som ett led i arbetet med att söka minska risken för skador och invaliditet för de anställda i utlandsstyrkan föreslår regeringen att vissa delar i arbetsmiljölagen (1977:1160\) skall gälla även utomlands. Den nya lagen innehåller också viss särreglering av arbetsrättslig karaktär. Lagen föreslås träda i kraft den 1 juli 1999\.

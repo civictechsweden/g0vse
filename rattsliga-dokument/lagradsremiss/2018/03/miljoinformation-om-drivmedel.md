@@ -1,0 +1,6 @@
+# Miljöinformation om drivmedel
+
+I lagrådsremissen föreslås att regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om att den som bedriver verksamhet med att tillhandahålla ett flytande eller gasformigt drivmedel är skyldig att informera konsumenter om drivmedlets utsläpp av växthusgaser och andra förhållanden som har betydelse för att bedöma drivmedlets miljöpåverkan. Bestämmelsen ska även omfatta den som tillhandahåller ett flytande eller gasformigt drivmedel och samtidigt tillhandahåller el som drivmedel.
+
+Bestämmelser om detta ska föras in i drivmedelslagen (2011:319\) och
+ska träda i kraft den 1 januari 2019\.

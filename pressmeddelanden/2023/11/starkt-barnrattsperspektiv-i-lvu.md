@@ -1,0 +1,9 @@
+# Stärkt barnrättsperspektiv i LVU
+
+– Vi kommer stärka barnrättsperspektivet i vårdplaceringar, och se till att man följer upp med familjer under mycket längre tid när de får tillbaka sitt barn. Obligatoriska drogtester i de fall där missbruk är en central del för att familjen inte har kunnat ta hand om sina barn – inte bara hoppas på det bästa, säger statsminister Ulf Kristersson.
+
+–  Lagändringarna som följde efter den tragiska händelsen med den lilla flicka som kallades Lilla hjärtat var ett steg i rätt riktning. Det finns dock fortfarande viktiga aspekter av tvångsvårdslagstiftningen som behöver belysas och utredas för att säkerställa att principen om barnets bästa tillgodoses i praktiken. Alla barn och unga har rätt till en trygg och ljus framtid, säger socialtjänstminister Camilla Waltersson Grönvall.
+
+I uppdraget som regeringen inom kort kommer att besluta om ingår att utreda skarpare och tydligare lagstiftning till skydd för barnet vid umgänge och vid LVU\-vårdens upphörande, t.ex. obligatoriska drogtester för föräldrar och en skyldighet för socialnämnden att följa upp barnet under längre tid än i dag efter att LVU\-vården har upphört. Även behovet av ökad sakkunskap under socialtjänstens och domstolens handläggning ska utredas.
+
+Eftersom samhället och de utmaningar barn, unga och deras familjer möter i dag har förändrats – exempelvis mot bakgrund av ett ökat våldskapital i lägre åldrar – finns också behov av att se över hur lagstiftningen svarar mot flickors och pojkars behov av skydd och stöd såsom samhället ser ut idag. Utredaren ska därför se över grunderna för vård enligt LVU. Det handlar exempelvis om att i enlighet med Tidö\-avtalet utreda förut­sättningarna för att skydda de barn som på grund av omständigheter i hemmet har nära koppling till organiserad eller annan allvarlig brottslighet och riskerar att ta skada av det.

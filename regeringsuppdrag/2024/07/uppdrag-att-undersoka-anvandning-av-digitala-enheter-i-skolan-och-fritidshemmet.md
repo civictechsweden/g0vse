@@ -1,0 +1,14 @@
+# Uppdrag att undersöka användning av digitala enheter i skolan och fritidshemmet
+
+Regeringen ger Skolverket i uppdrag att dels följa upp hur bestämmelsen i skollagen om användning av mobiltelefoner och annan elektronisk kommunikationsutrustning vid undervisning tillämpas i de obligatoriska skolformerna, fritidshemmet, gymnasieskolan och anpassade gymnasieskolan, dels undersöka hur sådana digitala enheter används under övrig tid i skolan och fritidshemmet.
+
+
+Uppföljningen och undersökningen ska särskilt belysa likheter och skillnader mellan flickors och pojkars användning samt vilka digitala enheter som används och till vad. Det ska även göras en analys av elevers utsatthet för digitala dimensioner av våld, dvs. kränkningar, våld och hot om våld, inklusive hedersrelaterat våld och förtryck samt rasism och intolerans via digitala enheter.
+
+Myndigheten ska även föreslå åtgärder som kan minska användningen av digitala enheter som elever själva tar med sig till skolan eller fritidshemmet och som påverkar eleverna, deras kunskapsutveckling eller utbildningen negativt, inklusive eventuella åtgärder för att bidra till att minska könsskillnader i studieresultat. Dessutom ska myndigheten föreslå åtgärder för att förebygga och motverka digitala dimensioner av våld när det gäller både digitala enheter som elever själva tar med sig till skolan eller fritidshemmet och sådana digitala enheter som skolan tillhandahåller. Åtgärderna ska vila på vetenskaplig grund och beprövad erfarenhet.
+
+Vid genomförandet av uppdraget ska Skolverket samverka med Jämställdhetsmyndigheten. Skolverket ska även inhämta kunskaper och erfarenheter från Folkhälsomyndigheten, Mediemyndigheten, Specialpedagogiska skolmyndigheten och andra relevanta aktörer, särskilt vad gäller elevers kognitiva utveckling, hälsa och välbefinnande i relation till användning av digitala enheter. Vidare ska myndigheten inhämta kunskaper och erfarenheter utifrån funktionshinderperspektivet från Myndigheten för delaktighet. Myndigheten ska även beakta relevant forskning som belyser hur olika typer av användning av digitala enheter påverkar elevernas utveckling och lärande.
+
+Skolverket ska i arbetet med uppdraget beakta remissinstansernas svar på Regeringskansliets remittering av Skolverkets förslag till nationell digitaliseringsstrategi för skolväsendet 2023–2027 (U2022/03951\), Folkhälsomyndighetens och Mediemyndighetens uppdrag om digital medieanvändning bland barn och unga (S2023/01669\) samt Skolverkets uppdrag om lärverktyg i skolväsendet (U2023/03229\).
+
+Skolverket ska föra en löpande dialog med Regeringskansliet (Utbildningsdepartementet) om hur arbetet med uppdraget fortskrider. Uppdraget ska delredovisas senast den 15 maj 2025 till Regeringskansliet (Utbildningsdepartementet med kopia till Arbetsmarknadsdepartementet). Uppdraget ska slutredovisas senast den 9 mars 2026 till Regeringskansliet (Utbildningsdepartementet med kopia till Arbetsmarknadsdepartementet).

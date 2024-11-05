@@ -1,0 +1,7 @@
+# Tillsyn över efterlevnaden av EU:s marknadsmissbruksförordning
+
+I promemorian föreslås ändringar i lagen om anmälningsskyldighet för vissa innehav av finansiella instrument som syftar till att göra det möjligt för berörda marknadsaktörer att uppfylla sina skyldigheter enligt EU:s marknadsmissbruksförordning samt möjliggöra för Finansinspektionen att vidta vissa åtgärder för att övervaka efterlevnaden av förordningen.
+
+Ändringarna innebär att Finansinspektionen utses till behörig myndighet enligt EU:s marknadsmissbruksförordning och därmed får de befogenheter för den behöriga myndigheten som följer direkt av förordningen. Inspektionen föreslås även få möjlighet att ingripa mot den som åsidosatt förordningens bestämmelser om anmälningsskyldighet för vissa transaktioner, om handelsförbud 30 dagar före vissa finansiella rapporter och om insiderförteckningar. Sanktionsbefogenheterna kan jämföras med de befogenheter som finns i dag för överträdelser av bestämmelser i lagen om anmälningsskyldighet för vissa innehav av finansiella instrument som motsvarar bestämmelser i förordningen.
+
+Lagändringarna föreslås träda i kraft den 3 juli 2016, dvs. vid den tidpunkt då EU:s marknadsmissbruksförordning ska börja tillämpas. Regeringen avser att vid en senare tidpunkt föreslå ytterligare lagändringar för att anpassa svensk rätt efter EU:s marknadsmissbruksförordning och genomföra EU:s marknadsmissbruksdirektiv.

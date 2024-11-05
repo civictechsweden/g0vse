@@ -1,0 +1,3 @@
+# En förnyad lärarutbildning
+
+Regeringen föreslår i denna proposition en förnyelse av lärarutbildningen. En ny lärarexamen ersätter ett stort antal av de befintliga lärarexamina. Den nya lärarutbildningens struktur består av tre s.k. utbildningsområden: ett allmänt utbildningsområde med de lärargemensamma momenten, inriktningar som anger lärarexamens profil samt specialiseringar som kan vara en fördjupning eller breddning av tidigare studier. För att säkra en väl sammanhållen utbildning föreslås att det vid varje lärosäte med lärarutbildning inrättas ett särskilt organ för lärarutbildning med uppgift att ansvara för grundutbildning samt forskning och i förekommande fall forskarutbildning i nära anslutning till lärarutbildningen.

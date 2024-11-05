@@ -1,0 +1,3 @@
+# En trygg dricksvattenförsörjning (L 2013:75)
+
+En särskild utredare ska gå igenom dricksvattenområdet, från råvatten till tappkran för allmänt dricksvatten. Syftet med utredningen är att identifiera nuvarande och potentiella utmaningar för en säker dricksvattenförsörjning i landet, på kort och på lång sikt, och i förekommande fall föreslå lämpliga åtgärder. Utgångspunkten ska vara klimatförändringarnas förväntade effekter på dricksvattenförsörjningen och hur risker med bland annat kemiska ämnen och skydd för dricksvattenförsörjningen och råvattentäkter på ett riskbaserat och systematiskt sätt ska kunna hanteras.

@@ -1,0 +1,7 @@
+# Ett modernt offentligt belöningssystem och de allmänna flaggdagarna
+
+I propositionen föreslås riktlinjer för ett nytt centralt och modernt system för offentlig belöning samt riktlinjer om Sveriges allmänna flaggdagar.
+
+Det nya centrala belöningssystemet ska ha som sin huvudsakliga uppgift att uppmärksamma och belöna förtjänstfulla insatser som är av stor betydelse för samhället och som går utöver det som kan förväntas av en person inom det område där personen verkar. Det handlar om insatser som är av sådant slag att de bör belönas på en nationell nivå med en av Sveriges främsta utmärkelser: en ordensutmärkelse inom någon av de statliga ordnarna eller en av regeringens utmärkelser. I det centrala belöningssystemet ska tilldelandet av utmärkelser inom det statliga ordensväsendet återupptas i sin helhet och ordensutmärkelser ska kunna delas ut till både svenska och utländska medborgare. Genom ett centralt system för belöning ska en gemensam utgångspunkt gälla för vilka insatser som kan komma i fråga för belöning. Det centrala belöningssystemet ska välkomna nomineringar från alla delar av vårt samhälle.
+
+I propositionen föreslås också riktlinjer om Sveriges allmänna flaggdagar. I förhållande till den sedan lång tid gällande ordningen innebär riktlinjerna att dagen för val till Europaparlamentet blir ny allmän flaggdag och att de allmänna flaggdagarna med koppling till det svenska kungahuset efter nästa tronskifte endast ska omfatta regentens födelsedag och tronföljarens födelsedag från det år tronföljaren fyller 18 år.

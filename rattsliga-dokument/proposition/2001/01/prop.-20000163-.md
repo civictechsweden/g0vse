@@ -1,0 +1,5 @@
+# Kvalificerad yrkesutbildning
+
+I propositionen föreslås en ny lag om kvalificerad yrkesutbildning som ersätter lagen (1996:339\) om en försöksverksamhet med viss kvalificerad yrkesutbildning den 1 januari år 2002\. I propositionen läggs förslag att en ny reguljär eftergymnasial utbildningsform skall införas den 1 januari 2002\. Utbildningen skall kunna anordnas av statliga universitet och högskolor, kommuner, landsting samt av enskilda fysiska eller juridiska personer.
+
+Utbildningsanordnare får anordna utbildningen i samverkan med andra. Kvalificerad yrkesutbildning skall anordnas, med statsbidrag eller särskilda medel, som fördelas av regeringen eller den myndighet som regeringen bestämmer efter ansökan från utbildningsanordnare. Utbildningens inriktning och omfattning bör bestämmas utifrån bedömningar om den framtida efterfrågan i arbetslivet. Den normala utbildningstiden för en kvalificerad yrkesutbildning bör vara två års heltidsstudier eller deltidsstudier av motsvarande omfattning.

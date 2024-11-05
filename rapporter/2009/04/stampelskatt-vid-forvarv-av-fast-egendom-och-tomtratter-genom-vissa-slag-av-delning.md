@@ -1,0 +1,3 @@
+# Stämpelskatt vid förvärv av fast egendom och tomträtter genom vissa slag av delning
+
+I promemorian föreslås att stämpelskatt ska tas ut vid förvärv av fast egendom eller tomträtter genom partiell delning, dvs. sådan delning som avses i 24 kap. 1 § andra stycket 2 aktiebolagslagen (2005:551\). Stämpelskatt tas i dag ut vid förvärv genom köp, bl.a. sådana köp som inkomstskatterättsligt är att betrakta som verksamhetsavyttringar. Förvärv av fast egendom eller tomträtter genom partiell delning har stora likheter med förvärv genom köp, varför båda typerna av förvärv bör vara stämpelskattepliktiga. Det finns även skäl för att förvärv genom en åtgärd enligt utländsk lagstiftning som motsvarar sådan delning ska vara stämpelskattepliktig.

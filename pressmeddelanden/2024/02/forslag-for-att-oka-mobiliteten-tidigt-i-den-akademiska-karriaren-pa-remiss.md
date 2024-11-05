@@ -1,0 +1,11 @@
+# Förslag för att öka mobiliteten tidigt i den akademiska karriären på remiss
+
+– Det finns ett stort och växande behov av mobilitet mellan högskola och andra sektorer för att öka kompetensförsörjningen i samhället. Det behöver till exempel bli enklare att kombinera arbete som forskare och lärare på ett lärosäte med ett arbete inom sjukvården eller industrin, säger utbildningsminister Mats Persson.
+
+I promemorian föreslås ändringar i högskolelagen som möjliggör förenade anställningar mellan högskolan och andra sektorer, vilket tidigare har varit förbehållet vissa kategorier av anställda vid sjukvårdsenheter som är upplåtna för medicinsk utbildning och forskning. Detta innebär att regleringen som avser förenade anställningar i fråga om specifika yrkeskategorier tas bort. Förslagen gör det också möjligt att kombinera en anställning som biträdande lektor eller en annan anställning som lärare med en anställning i en annan sektor, vilket i dag endast är möjligt för lektorer och professorer. Syftet med dessa förslag är att öka mobiliteten mellan högskolan och andra sektorer, även tidigt i den akademiska karriären.
+
+Dessutom föreslås en ändring i högskoleförordningen som innebär att tidsgränsen för anställning som biträdande lektor från doktorsexamen ska vara högst fem år eller högst sju år från avlagd examen. Vid sidan av den tidsgräns om fem år som gäller i dag, införs därmed en ny möjlig tidsgräns om sju år. Respektive lärosäte föreslås få bestämma vilken gräns som ska gälla inom respektive ämnesområde. Syftet med dessa förslag är att tillgodose de skilda förutsättningar och behov som finns vid olika lärosäten för att främja mobilitet och excellens.
+
+– Biträdande lektor utgör ett viktigt steg i en tidig akademisk karriär. Vi vet att vägen dit kan se olika ut inom olika ämnesområden. Alla lärosäten behöver ha goda förutsättningar för att rekrytera de bästa talangerna och på så sätt gynna excellens och internationalisering i svensk högskola, säger Mats Persson.
+
+Förändringarna gällande tidsgränsen mellan doktorsexamen och ansökan till anställning som biträdande lektor föreslås träda i kraft den 1 juli 2024, och förändringarna gällande förenade anställningar föreslås träda i kraft den 1 juli 2025\.

@@ -1,0 +1,7 @@
+# Skadeståndsansvar för oljeskador till sjöss
+
+I lagrådsremissen föreslås att Sverige ska tillträda 2001 års internationella konvention om ansvarighet för skada orsakad av förorening genom bunkerolja. Det lämnas också förslag till de lagändringar som behövs till följd av tillträdet. Förslagen kompletterar de nuvarande konventionsbaserade reglerna i sjölagen (1994:1009\) om ansvar för oljeskador orsakade av utsläpp från tankfartyg, och de ersätter den nuvarande helt nationella regleringen i sjölagen som tillämpas vid utsläpp av bunkerolja från andra fartyg än tankfartyg.
+
+Förslagen innebär att fartygets ägare ska vara ansvarig för en skada som orsakas av förorening genom olja som används för fartygets drift (bunkerolja). Ansvaret ska vara strikt, dvs. utan krav på vållande. En redare, en person som hyr fartyget utan besättning eller en annan person som i redarens ställe har hand om fartygets drift ska ha samma ansvar som ägaren. När det är fråga om ett fartyg av viss minsta storlek ska ägaren vara skyldig att ha en ansvarsförsäkring, eller annan betryggande säkerhet, för att täcka sitt ansvar. Att det finns en försäkring eller annan säkerhet ska kunna styrkas genom ett certifikat, som ska medföras ombord på fartyget. En skadelidande ska kunna rikta anspråk direkt mot försäkringsgivaren. Det ska finnas sanktioner som kan tillgripas mot den som åsidosätter försäkringsskyldigheten eller skyldigheten att medföra certifikatet.
+
+Lagändringarna föreslås träda i kraft den dag regeringen bestämmer.

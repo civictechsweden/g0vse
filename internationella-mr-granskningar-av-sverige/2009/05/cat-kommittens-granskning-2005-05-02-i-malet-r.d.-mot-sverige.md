@@ -1,0 +1,8 @@
+# CAT-kommitténs granskning (2005-05-02) i målet R.D. mot Sverige
+
+FN:s CAT\-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.
+
+
+## Sammanfattning av yttrandet
+
+Ärendet rörde avvisning av en bangladeshisk medborgare till hemlandet. Klaganden gjorde inför kommittén gällande att han vid ett återsändande till hemlandet riskerade att utsättas för tortyr bl.a. på grund av sin tidigare politiska verksamhet. Han hävdade härutöver även att en avvisning skulle utgöra en kränkning av artikel 16 i tortyrkonventionen på grund av hans bräckliga psykiska hälsa och hans allvarliga posttraumatiska stressyndrom. Kommittén fann inledningsvis att det inte fanns tillräckliga skäl att ta upp klagomålet enligt artikel 16 till prövning i sak. Beträffande klagomålet under artikel 3 konstaterade kommittén att regeringen inte hade ifrågasatt klagandens uppgifter om att han utsatts för tortyr. Kommittén noterade dock att sju år passerat sedan tortyren ägt rum, att klagandens ställning inom oppositionspartiet varit förhållandevis låg och att han endast varit aktiv på lokal nivå. Bl.a. mot denna bakgrund, och med beaktande även av att en ny regering tillkommit i Bangladesh efter den påstådda tortyren, fann kommittén att klaganden inte med tillräcklig styrka förmått visa att han personligen skulle löpa en risk att utsättas för tortyr vid ett återsändande till hemlandet. Kommittén ansåg således att en verkställighet av avvisningsbeslutet inte skulle utgöra någon kränkning av artikel 3 i konventionen.

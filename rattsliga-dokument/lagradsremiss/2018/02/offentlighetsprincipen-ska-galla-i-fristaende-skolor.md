@@ -1,0 +1,3 @@
+# Offentlighetsprincipen ska gälla i fristående skolor
+
+I lagrådsremissen föreslås ändringar i offentlighets\- och sekretesslagen (OSL). Rätten att ta del av allmänna handlingar hos myndigheter ska också gälla hos enskilda som godkänts som huvudmän för fristående skolor. Huvudmännen ska jämställas med myndigheter vid tillämpningen av OSL, vilket innebär att anställda och uppdragstagare i verksamheten ska omfattas av meddelarskydd enligt OSL i stället för lagen om meddelarskydd i vissa enskilda verksamheter. Regeringen föreslår vidare att arkivlagen ändras, så att samma regler gällande arkivering av handlingar gäller för såväl kommunala myndigheter som för huvudmän för fristående skolor.

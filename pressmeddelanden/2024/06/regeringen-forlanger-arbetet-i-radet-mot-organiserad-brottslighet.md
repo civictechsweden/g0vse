@@ -1,0 +1,7 @@
+# Regeringen förlänger arbetet i rådet mot organiserad brottslighet
+
+I december 2022 beslutade regeringen att tillsätta ett råd i Justitiedepartementet mot organiserad brottslighet för en period om 18 månader. Rådet har sedan dess sammankallats vid tio tillfällen för att diskutera utmaningar och behov av åtgärder i arbetet mot organiserad brottslighet. Fokus har bland annat varit på frågor om informationsdelning, arbetslivkriminalitet, barn och unga i grov kriminalitet, otillåten påverkan och infiltration och nya verktyg för myndigheterna. Dagens beslut innebär att tiden för arbetet i rådet förlängs med ytterligare 18 månader.
+
+–  Rådets arbete har varit viktigt för att få träffsäkerhet och styrkraft i regeringens omläggning av politiken och i arbetet med att trycka tillbaka den organiserade brottsligheten. Månad för månad kommer nu ny lagstiftning och nya effektivare verktyg till brottsbekämpningen på plats. Behovet av att regeringen, myndigheter och andra aktörer fortsätter hålla uppe trycket i arbetet mot den organiserade brottsligheten är stort. Därför förlänger regeringen nu rådets arbete, säger justitieminister Gunnar Strömmer.
+
+Rådet leds av justitieministern. Som fasta medlemmar i rådet ingår rikspolischefen, chefen för Polismyndighetens nationella operativa avdelning, riksåklagaren, generaltulldirektören samt generaldirektörerna vid Ekobrottsmyndigheten och Skatteverket. Beroende på vilka frågor som diskuteras under rådets sammanträden deltar företrädare för andra relevanta myndigheter och aktörer.

@@ -1,0 +1,32 @@
+# Redogörelse för verksamheten inom Europarådets ministerkommitté m.m. under 2006
+
+I skrivelsen lämnar regeringen en redogörelse för verksamheten inom Europarådets ministerkommitté m.m. under år 2006\.
+
+Översikt
+Europarådet skall främja respekten för de mänskliga rättigheterna, demokrati och rättsstatens principer. Genom att främja individens rättigheter bidrar organisationen till fred, stabilitet och säkerhet. Sverige arbetar för att politiskt stärka Europarådets roll på dessa områden. Det är framför allt där som organisationen har fördelar jämfört med andra organisationer och därmed ger ett mervärde. Europarådet bör därför bland annat fortsätta stödja den demokratiska utvecklingen i Central\- och Östeuropa, på västra Balkan och i södra Kaukasien. Europarådet omfattar 46 medlemmar, vilket innebär att samtliga Europas länder utom Montenegro och Vitryssland är medlemmar. Utsikterna för ett vitryskt medlemskap är alltjämt mörka.
+
+Huvuduppgiften för ministerkommittén i Europarådet var under år 2006 att fortsätta uppföljningen av besluten vid toppmötet i Warszawa år 2005\. Verksamheten skall kraftsamlas till Europarådets kärnområden, det vill säga att bevara och främja mänskliga rättigheter, demokrati och rättsstatens principer. All verksamhet inom Europarådet ska bidra till detta.
+
+Ordförandeskapet i ministerkommittén innehades under året av Rumänien från november 2005 fram till maj 2006, därefter av Ryssland från maj till november, och sedan november av San Marino.
+
+Genomförandet av toppmötets beslut att fokusera Europarådets verksamhet till kärnmålen och olika förslag om åtgärder i den riktningen gav upphov till omfattande diskussioner, inte minst om innebörden av toppmötets beslut i förhållande till det breda samarbete som Europarådets stadga möjliggör. Beslut togs om att överföra verksamhet avseende idrott och vissa medicinska frågor till särskilda avtal knutna till Europarådet. En plan utarbetades för den reformprocess som toppmötet beslutat om. En genomgång av arbetet i olika kommittéer och arbetsgrupper, liksom av de olika delarna av sekretariatet, genomfördes. På samma sätt har det skett en än noggrannare prövning av Europarådets budget, i syfte att få genomslag för en långsiktig effektivisering av arbetet.
+
+En av de centrala uppgifterna var att förbättra tillämpningen av den europeiska konventionen om skydd för de mänskliga rättigheterna och grundläggande friheterna (Europakonventionen). Det gäller bland annat att stärka respekten för mänskliga rättigheter i medlemsländerna, öka kunskapen om Europakonventionen inom rättsväsendet och effektivisera arbetet i Europadomstolen, vars stora ärendebalans fortsatte växa under året.
+
+Förhandlingarna om budgeten för år 2007 blev besvärliga på grund av domstolens behov av ökade resurser samtidigt som utgångspunkten för budgetarbetet var nolltillväxt i reala termer.
+
+Flera initiativ har tagits för att effektivisera domstolens arbete. År 2004 antog ministerkommittén protokoll nummer 14 till Europakonventionen, som bland annat syftar till att förenkla arbetsformerna i domstolen. I och med att Rysslands statsduma i december 2006 inte kunde besluta om förslaget om ratificering kunde protokollet inte träda ikraft trots att övriga 45 medlemsländer har ratificerat protokollet.
+
+Under året lade en särskild grupp (den så kallade visepersonsgruppen) fram en rapport med förslag till ytterligare reformer i domstolens arbete. Beredningen av dessa förslag fortsätter inom ministerkommittén. De byggde emellertid på förutsättningen att protokoll 14 skulle ha trätt i kraft.
+
+I den löpande verksamheten diskuterade ministerkommittén utvecklingen i medlemsländerna, ofta med utgångspunkt i rapporter från sekretariatet eller rekommendationer och frågor från Europarådets parlamentariska församling. Ministerkommittén enades om rekommendationer till berörda länder och om Europarådets stöd till dessa länder. I ett antal frågor som rör mänskliga rättigheter, demokrati och rättsstatens principer, i såväl medlemsstaterna som andra länder, gjorde antingen ministerkommittén i sin helhet eller ordförandeskapet uttalanden. Det gäller till exempel parlamentsval i Ukraina, folkomröstningen i Montenegro, en så kallad folkomröstning i Nagorno\-Karabach, dödsdomarna mot de bulgariska sjuksköterskorna i Libyen, situationen i Vitryssland samt dödsdomarna och avrättningarna av Saddam Hussein och hans medanklagade.
+
+Ministerkommittén fortsatte övervakningen av hur medlemsländerna verkställer de domar som Europadomstolen meddelat. Domstolens utslag i det så kallade Ilascumålet mot Moldavien och Ryssland verkställdes inte under året.
+
+Ett resultat av toppmötet var ökad uppmärksamhet åt en interkulturell dialog, liksom om en religiös dimension av denna. För närvarande utarbetas en grönbok, som underlag för en vitbok som skall vara färdig i slutet av år 2007\.
+
+När det gäller Europarådets förbindelser med andra internationella organisationer handlade diskussionerna framför allt om relationerna till Europeiska unionen (EU). Luxemburgs premiärminister Juncker lade i april fram den rapport om relationerna mellan Europarådet och EU, som han fick toppmötets uppdrag att på personlig basis utarbeta. Diskussionerna om hans förslag inom Europarådet inleddes. Diskussionen om en överenskommelse (eng. Memorandum of Understanding, MoU) mellan Europarådet och EU fortsatte under året, varvid det framkom en del åsiktsskillnader mellan medlemsstaterna som gjorde att en överenskommelse inte kunde nås före utgången av år 2006\.
+
+Ministerkommitténs engagemang för stärkt samarbete med Organisationen för säkerhet och samarbete i Europa (OSSE) fördjupades under året. Den vikt som toppmötet lade vid stärkt samarbete med Förenta Nationerna (FN) besvarades genom besök vid Europarådet av Jan Eliasson, ordförande i FN:s generalförsamling, i januari. Eliasson, som var inbjuden av parlamentariska församlingens ordförande, mötte då även ministerkommittén i samband med ett ställföreträdarmöte. Samarbetet mellan Europarådet och FN sammanfattades i det förslag till resolution som ministerkommittén utarbetade inför FN:s generalförsamling. Generalförsamlingen antog efter smärre ändringar förslaget.
+
+Efter upplösningen av statsunionen mellan Serbien och Montenegro bekräftade ministerkommittén i juni Serbiens fortsatta medlemskap i Europarådet. Mot bakgrund av Montenegros ansökan om medlemskap beslutade ministerkommittén samtidigt att inhämta parlamentariska församlingens yttrande.

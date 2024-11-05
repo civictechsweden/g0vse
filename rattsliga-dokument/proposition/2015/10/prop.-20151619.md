@@ -1,0 +1,7 @@
+# Vissa frågor på området för indirekta skatter
+
+I propositionen föreslås ändringar på området för indirekta skatter. Ansökan om återbetalning av mervärdesskatt och punktskatter för utländska diplomater m.fl. ska skickas direkt till Skatteverket. Det föreslås också en uppdatering av förteckningen över sådana varor och tjänster för vilka medlemmar av den diplomatiska personalen vid utländska beskickningar m.fl. medges återbetalning av mervärdesskatt.
+
+Vidare föreslås att vissa justeringar görs i mervärdesskattelagen för att anpassa lagen till EU\-rätten. Ändringar föreslås i bestämmelserna om tillfällig omsättning av nya transportmedel, undantag från skatteplikt vid leverans av varor till andra EU\-länder, återbetalning vid omsättning av guld, återbetalning till beskattningsbara personer som är etablerade i ett annat EU\-land och undantag för verksamhetsöverlåtelser. Det föreslås även mindre justeringar av bestämmelserna om mervärdesskatt vid import. Dessutom föreslås ändringar i bestämmelserna om uttagsbeskattning av fastighetstjänster som utförs av statliga myndigheter. Slutligen föreslås att den s.k. slussningsregeln i mervärdesskattelagen slopas.
+
+Ändringarna föreslås träda i kraft den 1 januari 2016\.

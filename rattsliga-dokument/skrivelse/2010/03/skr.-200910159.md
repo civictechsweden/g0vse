@@ -1,0 +1,3 @@
+# Genomförandet av EU:s strategi för Östersjöregionen
+
+I denna skrivelse redogör regeringen för arbetet med genomförandet av EU:s strategi för Östersjöregionen som antogs under Sveriges ordförandeskap i EU:s råd 2009\. Strategin ställer höga krav på medlemsstaterna i Östersjöregionen att samordna de åtgärder som berörs av strategin. I skrivelsen redovisar regeringen arbetet med genomförandet av strategin i Sverige och de krav som detta ställer på styrningen nationellt i Sverige respektive samverkan med medlemsstaterna runt Östersjön och med Europeiska kommissionen. Regeringen ger i skrivelsen också sin syn på de principiella grunderna för strategin och det mervärde som strategin ger såväl EU\-samarbetet som utvecklingen i Sveriges närområde.

@@ -1,0 +1,3 @@
+# Slopad kontrolluppgiftsskyldighet rörande tillgångar och skulder, m.m.
+
+Förmögenhetsskatten har avskaffats helt från och med den 1 januari 2007\. I propositionen lämnas förslag på vilka kontrolluppgiftsskyldigheter rörande tillgångar och skulder som bör slopas till följd av att förmögenhetsskatten avskaffats. Skyldigheten att lämna kontrolluppgifter om skulder, fordringsrätter, innehav av delägarrätter och om liv\-försäkringar bör slopas. Detsamma bör gälla kontrolluppgifter om innehav av elcertifikat och utsläppsrätter m.m. samt andelar i privat\-bostadsföretag och vissa andra bostadsföretag.

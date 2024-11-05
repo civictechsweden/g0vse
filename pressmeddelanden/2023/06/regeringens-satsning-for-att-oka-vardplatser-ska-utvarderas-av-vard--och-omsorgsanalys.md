@@ -1,0 +1,7 @@
+# Regeringens satsning för att öka vårdplatser ska utvärderas av Vård- och omsorgsanalys
+
+– Vi beräknar en satsning på 2 miljarder kronor per år i tre år för att öka antalet vårdplatser i hela landet. Det är en stor och högt prioriterad satsning och regeringen vill noga följa och utvärdera den så att vi får rätt effekter och för att säkerställa att patientsäkerhet och medarbetares arbetsmiljö faktiskt blir bättre, säger sjukvårdsminister Acko Ankarberg Johansson.
+
+Svensk hälso\- och sjukvård håller hög kvalitet i en internationell jämförelse men står samtidigt inför flera utmaningar med långa vårdköer, bristande tillgänglighet och ett otillräckligt antal vårdplatser med bristande patientsäkerhet som följd. Regeringen har beräknat 2 miljarder kronor per år i tre år för att det totala antalet vårdplatser ska öka i hela landet. Socialstyrelsen har fått i uppdrag att under 2023 fördela närmare 2 miljarder kronor i prestationsbaserad ersättning till regionerna för att öka antalet vårdplatser samt minska överbeläggningar och utlokaliseringar. Socialstyrelsen har även ett uppdrag att ta fram förslag till en nationell plan för att minska bristen på vårdplatser.
+
+Regeringen anser att det är viktigt att utvärdera satsningen på fler vårdplatser inom hälso\- och sjukvården. Styrningen och uppföljningen av statliga medel till hälso\- och sjukvården ska öka. Vård\- och omsorgsanalys har därför fått i uppdrag att utvärdera regeringens satsning på att öka antalet vårdplatser. Utvärderingen ska ha ett system\- och patientperspektiv.

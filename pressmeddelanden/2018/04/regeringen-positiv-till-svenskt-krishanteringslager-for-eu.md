@@ -1,0 +1,3 @@
+# Regeringen positiv till svenskt krishanteringslager för EU
+
+Regeringen beslutade idag att i EU:s ministerråd rådet rösta för att anta ett beslut om att inrätta en central lagerkapacitet för EU:s civila krishanteringsinsatser. Insatserna bidrar till EU:s förmåga att förebygga konflikter och skapa förutsättningar för varaktig fred och säkerhet. Lagerkapaciteten väntas förbättra EU:s möjlighet till att snabbt svara i krissituationer och nå ut till krisområden. Sverige spelar en ledande roll i ansträngningarna att stärka EU:s civila krishanteringsförmåga i linje med EU:s globala strategi. Rådsbeslutet kommer att innebära att Myndigheten för samhällsskydd och beredskap får ett uppdrag. Ytterligare information kommer att lämnas efter rådsbeslutet på måndag.

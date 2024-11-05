@@ -1,0 +1,13 @@
+# Undantag från amorteringskraven ska kartläggas
+
+Att värna den finansiella stabiliteten är en hörnsten i regeringens politik. I internationella jämförelser sticker Sverige ut med att hushåll har förhållandevis stora skulder. Det är bra att skuldsatta hushåll amorterar och på så sätt ökar sin motståndskraft. Samtidigt pressas många hushåll nu av kraftigt ökade kostnader.
+
+Regeringen ger Finansinspektionen i uppdrag att kartlägga undantagen från amorteringskraven under vintern 2022 till 2023\. Bolånetagare har i dag möjlighet att ansöka om tillfälliga undantag från amorteringskraven som bankerna kan bevilja om det finns särskilda skäl. Till exempel kan det handla om inkomstbortfall till följd av sjukdom, arbetslöshet, eller att ett hushåll får så kraftigt ökade utgifter, som stigande elkostnader, att de ekonomiska marginalerna krymper markant. I uppdraget ingår att undersöka konsekvenserna av den rådande ekonomiska situationen med stigande inflation och höga elpriser.
+
+– Nu har vi och andra länder stora utmaningar kopplade till hög inflation. Många hushåll får just nu betydligt högre levnadsomkostnader. Det skulle dock bli än mer kännbart om inflationen blev kvar på dagens höga nivåer. Vi är samtidigt medvetna om att amorteringskraven påverkar många hushåll. Därför är det bra att bankerna har möjlighet att bevilja tillfälliga undantag för hushåll som fått väsentligt försämrade ekonomiska förutsättningar, exempelvis till följd av stigande elkostnader, säger finansmarknadsminister Niklas Wykman.
+
+Hushållens skulder har ökat under lång tid och Finansinspektionen har genomfört flera åtgärder för att minska sårbarheterna kopplade till skuldsättningen, däribland de två amorteringskraven. Åtgärderna har bidragit till att nya bolånetagare lånar mindre och amorterar mer.
+
+– Det är bra att många amorterar på sina bolån, det är ett sätt att bygga motståndskraft mot oförutsedda händelser. Det är också centralt att inte försvåra för penningpolitiken i en miljö med mycket hög inflation. Men det är också viktigt att den flexibilitet som finns i Finansinspektionens regelverk verkligen fungerar som tänkt när den som har ett lån hör av sig till sin bank, annars kan situationen bli än mer betungande för hushåll som får svårt att klara höga kostnader denna vinter. Syftet med det här uppdraget är att få en tydligare bild av hur pass väl möjligheten till tillfälliga undantag fungerar i praktiken, säger finansmarknadsminister Niklas Wykman.
+
+Uppdraget är ett led i att följa upp amorteringskraven med berörda myndigheter, i enlighet med regeringsförklaringen. Det ska redovisas senast den 30 juni 2023\.

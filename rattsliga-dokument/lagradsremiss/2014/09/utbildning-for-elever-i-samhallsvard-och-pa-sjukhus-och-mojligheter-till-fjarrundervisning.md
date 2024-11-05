@@ -1,0 +1,9 @@
+# Utbildning för elever i samhällsvård och på sjukhus och möjligheter till fjärrundervisning
+
+I lagrådsremissen föreslås ändringar i skollagen. Dessa syftar till att elever som vistas i ett hem för vård eller boende (HVB) ska få undervisning inom skolväsendet. Det förtydligas att en elev som vistas på ett HVB har rätt att bli mottagen i en skola i vistelsekommunen. För elever som vistas på särskilda ungdomshem ska bestämmelserna om utbildning i skollagen tillämpas för den utbildning som Statens institutionsstyrelse (SiS) anordnar med undantag för bestämmelser om lokaler och utrustning.
+
+Särskild undervisning på sjukhus ska anordnas för elever som inte kan delta i vanligt skolarbete och som vårdas på sjukhus om det inte är obehövligt för elevens inhämtande av kunskaper. Det ska inte längre krävas att eleven inte kan delta i skolarbetet under längre tid. Den som undervisar på sjukhus ska vara legitimerad lärare.
+
+Det föreslås en definition av fjärrundervisning. Med fjärrundervisning avses en interaktiv undervisning som bedrivs med it\-teknik när lärare och elever är åtskilda i rum men inte i tid. Regeringen eller den myndighet som regeringen bestämmer ska få meddela föreskrifter om fjärrundervisning. Fjärrundervisning bör endast få genomföras om det inte finns någon legitimerad lärare att tillgå inom skolenheten eller elevunderlaget är otillräckligt. Regeringen avser att fatta beslut om i vilka ämnen som fjärrundervisning får erbjudas. En försöksverksamhet med fjärrundervisning i ytterligare ämnen bör även inrättas. I skollagen ska det införas en rätt för skolväsendets huvudmän att med bibehållet huvudmannaskap sluta avtal med staten om fjärrundervisning. Fjärr\- undervisning bör vara möjligt för SiS, under samma förutsättningar som för andra huvudmän, men i fler ämnen och kurser.
+
+Ändringarna i skollagen ska träda i kraft den 1 juli 2015\.

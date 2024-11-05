@@ -1,0 +1,13 @@
+# Regeringen flyttar fram pausen av omprövningen av vattenkraftens miljötillstånd till 1 juni för vissa aktörer
+
+– Vi är oerhört angelägna om att åtgärderna vid vattenkraftverken blir genomförda, så att deras negativa inverkan på miljön minskar. Omprövningen är en viktig del av Sveriges uppfyllande av EU:s ramdirektiv för vatten. Så fort vi har genomfört de nödvändiga åtgärderna under våren fortsätter prövningen, säger klimat\- och miljöminister Romina Pourmokhtari.
+
+Vattenkraften har en mycket viktig roll i det svenska elsystemet och dess förmågor blir allt viktigare. En nackdel med vattenkraften är dock dess skadeverkan på ekosystemen i Sveriges vattendrag. Olika tekniska åtgärder kan därför behöva vidtas vid vissa vattenkraftsanläggningar. För att få till stånd dessa ändringar, behöver vattenkraftverkens tillstånd omprövas för moderna miljövillkor.
+
+Utgångspunkten i planeringen av omprövningarna har varit att en viss påverkan på elsystemet är acceptabel. Med hänsyn till det allvarliga läget för elsystemet beslutade regeringen dock i januari 2023 att omprövningen skulle pausas i tolv månader och omprövningssystemet ses över. Samtidigt uppdrog regeringen åt sina expertmyndigheter att bland annat identifiera och beskriva vilken negativ påverkan på vattenkraftens förmågor som är acceptabel ur ett elsystemperspektiv. Svenska kraftnät har gjort en kartläggning av vilka konsekvenser prövningen för moderna miljövillkor kan få för elsystemet och vattenkraftbranschen. Svenska kraftnäts rapport kom in i september 2023 och deras analyser visar på att omprövningen som den är utformad idag får en oacceptabel påverkan på elsystemet.
+
+I december 2023 förlängdes detta med ytterligare två månader, till den 1 april 2024, för de verksamhetsutövare som skulle ge in sina ansökningar senast den 1 februari 2024\. Förlängningen behövdes för att arbetet med de förslag till ändringar som bereddes inom Regeringskansliet skulle hinna färdigställas och nödvändiga beslut fattas.
+
+Regeringen kommer att vidta åtgärder som bidrar till att säkerställa att omprövningarnas påverkan på vattenkraften blir acceptabel ur ett elsystemperspektiv. Inom Regeringskansliet pågår därför beredning av förslag till ett antal åtgärder. Målsättningen är att dessa åtgärder ska beslutas före den 1 juni. Om så ej sker kommer pausen att förlängas ytterligare.
+
+Ställningstagandet om behovet av förändringar bygger delvis på de kartläggningar och analyser som myndigheterna har genomfört under pausen på uppdrag av regeringen. Bland annat har Svenska kraftnät gjort en kartläggning av vilka konsekvenser prövningen för moderna miljövillkor kan få för elsystemet och vattenkraftbranschen.

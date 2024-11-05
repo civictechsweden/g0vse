@@ -1,0 +1,10 @@
+# Mänskliga rättigheter, demokrati och rättsstatens principer i Peru
+
+Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Peru samt en länk till rapporten i sin helhet.
+
+
+Peru är en demokrati och under de senaste decennierna har respekten för de mänskliga rättigheterna stärkts. Det finns en nationell plan för mänskliga rättigheter som omfattar åren 2018 \- 2021\. I Peru finns även ett aktivt civilsamhälle.
+
+Samtidigt är allmänhetens förtroende för de statliga institutionerna lågt, inklusive för rättsväsendet, vars oberoende är ifrågasatt. Korruption anses vara ett av de största hoten mot efterlevandet av rättsstatens principer. Staten har svaga institutioner och en begränsad närvaro i stora delar av landet. Personer som lever i fattigdom och i utsatta situationer, som kvinnor, urfolk samt hbtq\-personer, löper en särskild risk att utsättas för kränkningar av de mänskliga rättigheterna.
+
+Landet har det senaste decenniet varit en av regionens snabbast växande ekonomier. Fattigdomen har reducerats och medborgarnas tillgång till hälso\- och sjukvård samt utbildning har förbättrats. Trots dessa framsteg finns fortfarande stora socioekonomiska klyftor i samhället, särskilt mellan den urbana och den rurala befolkningen. Människor på landsbygden har genomgående sämre tillgång till formell sysselsättning, hälso\- och sjukvård, utbildning samt annan grundläggande samhällsservice såsom el, vatten och sanitet. Höga våldsnivåer och organiserad brottslighet präglar de delar av landet där den statliga närvaron är låg och staten saknar resurser att kontrollera att lagstiftningen efterlevs. I dessa områden är produktion och smuggling av narkotika, människohandel samt illegal gruv\- och skogsnäring vanligt förekommande. Konflikter mellan polis och befolkningen i lokalsamhällen kopplade till utvinningsindustrin, jordbruk, samt större infrastrukturprojekt på landsbygden, har förekommit och lett till våldsamheter.

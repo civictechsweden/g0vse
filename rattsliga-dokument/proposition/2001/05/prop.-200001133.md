@@ -1,0 +1,3 @@
+# Tillträde till andra tilläggsprotokollet till bedrägerikonventionen
+
+I propositionen föreslår regeringen dels att Sverige ska tillträda det andra tilläggsprotokollet till konventionen om skydd för de Europeiska gemenskapernas finansiella intressen, dels de ändringar i brottsbalken som behövs för att Sverige ska uppfylla de krav som följer av protokollet. Det föreslås att försök, förberedelse och stämpling till grovt häleri eller grovt penninghäleri kriminaliseras. Vidare föreslås att bestämmelsen om utländsk doms hinderverkningar utvidgas så att en utländsk brottmålsdom avseende sådana gärningar som omfattas av protokollet i vissa fall kommer att utgöra hinder för lagföring i Sverige.

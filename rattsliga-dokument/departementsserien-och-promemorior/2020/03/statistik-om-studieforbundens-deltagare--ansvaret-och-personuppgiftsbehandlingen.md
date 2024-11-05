@@ -1,0 +1,9 @@
+# Statistik om studieförbundens deltagare – ansvaret och personuppgiftsbehandlingen
+
+Denna promemoria har utarbetats inom Regeringskansliet (Utbildningsdepartementet). I promemorian lämnas förslag till ändring i förordningen (2001:100\) om den officiella statistiken. Förslagen berör endast de studieförbund som Folkbildningsrådet fördelar statsbidrag till och den statistik som framställs över dessa.
+
+Det föreslås att Statistiska centralbyrån (SCB) ska bli statistikansvarig myndighet för området Studieförbund och att SCB ska få behandla känsliga personuppgifter som avser enskilda personers hälsotillstånd för framställning av officiell statistik över studieförbund.
+
+Syftet är att samla ansvaret för officiell statistik inom folkbildningen hos SCB samt ge SCB nödvändigt författningsstöd för att kunna behandla känsliga personuppgifter och kunna ta fram statistik som visar på hur deltagandet i studieförbundens verksamhet av personer med funktionsnedsättning ser ut. Statistiken behövs för att Folkbildningrådet ska kunna fördela statsbidrag enligt sina villkor utifrån deltagande av personer med funktionsnedsättning och för att Folkbildningsrådet, studieförbunden och regeringen ska kunna få kvalitativ statistik som visar hur väl syftet med statens stöd till folkbildningen om att nå en ökad mångfald uppfylls. Statistiken behövs även för att Sverige ska kunna fullfölja sina åtaganden enligt FN:s konvention om rättigheter för personer med funktionsnedsättning, som bl.a. består i att samla in ändamålsenlig information, däribland statistik, för att möjliggöra uppföljning av att Sveriges konventionsåtaganden genomförs. Statistiken är därmed också relevant för att möjliggöra uppföljning av funktionshinderspolitiken, vilken tar sin utgångspunkt i nämnda konvention.
+
+Ändringarna i förordningen om den officiella statistiken föreslås träda i kraft den 1 juli 2020\.

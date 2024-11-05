@@ -1,0 +1,3 @@
+# Ny instans- och processordning i utlännings- och medborgarskapsärenden
+
+Lagrådsremissen innehåller en ny instansordning. Utlänningsnämnden läggs ned och ersätts av en domstolsprövning. Migrationsverkets beslut ska i fortsättningen överprövas i migrationsdomstolar och efter prövningstillstånd i en praxisskapande migrationsöverdomstol som sista instans. Regeringens avsikt är att tre länsrätter (i Stockholm, Göteborg och Malmö) ska vara migrationsdomstolar med Kammarrätten i Stockholm som Migrationsöverdomstol. Regeringen ska inte längre kunna få enskilda ärenden överlämnade för vägledande beslut.

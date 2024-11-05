@@ -1,0 +1,11 @@
+# Myndigheter ska ta fram riktlinjer för ansvarsfull internationalisering
+
+Internationella samarbeten inom högre utbildning och forskning är i många fall avgörande för excellent forskning och innovation. Regeringen vill skapa goda förutsättningar för att nyttiggöra forskningsresultat i såväl offentlig sektor som i näringslivet, samt att på ett säkert sätt bidra till svensk konkurrens\- och motståndskraft. Samtidigt riskerar öppenheten i bland annat forskningen att utnyttjas.
+
+– Vi lever i en alltmer osäker värld och det finns stora utmaningar med främmande makt som utnyttjar den öppenhet och det samarbete som är hörnstenar av excellent forskning och innovation. Öppenhet bör utgöra grunden i internationellt samarbete, samtidigt som det behöver finnas en medvetenhet om behovet av att skydda nationella intressen, kunskap och teknik, säger utbildningsminister Mats Persson.
+
+Högre utbildning och forskning ska präglas av akademisk frihet, öppenhet och av forskares möjligheter att fritt dela resultat, till exempel med forskare i andra länder. Dessa värden ska värnas och skyddas. Svenska lärosäten och forskningsfinansiärer arbetar aktivt med ansvarsfull internationalisering och säkerhetsskyddsarbetet har intensifierats under senare år. Många andra länder har vidtagit flera åtgärder för ansvarsfull internationalisering, till exempel i form av nationella riktlinjer eller stödstrukturer, med fokus på att stärka säkerheten inom forskningsverksamheten samtidigt som internationellt samarbete fortsatt kan stimuleras. För regeringen är det viktigt att Sverige utvecklas i takt med omvärlden.
+
+Universitets\- och högskolerådet, Vetenskapsrådet och Vinnova får därför i uppdrag att ta fram vägledande nationella riktlinjer för internationella samarbeten som ska vara ett hjälpmedel för att göra bedömningar av pågående och potentiella internationella utbildnings\- och forskningssamarbeten. Myndigheterna ska också föreslå hur ytterligare former av stöd för bland annat kunskaps\- och erfarenhetsutbyte mellan lärosäten och statliga forskningsfinansiärer, samt andra berörda myndigheter och organisationer kan utvecklas och utformas.
+
+Uppdraget ska delredovisas senast den 31 mars 2024 och slutredovisas senast den 15 december 2024\. Uppdraget samordnas av Universitets\- och högskolerådet.

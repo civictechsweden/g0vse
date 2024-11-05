@@ -1,0 +1,12 @@
+# Uppdrag att till Europeiska kommissionen överlämna Sveriges förslag till havs-, fiskeri- och vattenbruksprogram 2021–2027
+
+Regeringen ger Statens jordbruksverk i uppdrag att överlämna Sveriges förslag till havs\-, fiskeri\- och vattenbruksprogram 2021–2027 till Europeiska kommissionen (kommissionen) under förutsättning att det i huvudsak stämmer överens med bilaga 1 (se pdf).
+
+
+Enligt artikel 21\.2 i Europaparlamentets och rådets förordning (EU) 2021/1060 av den 24 juni 2021 om fastställande av gemensamma bestämmelser för Europeiska regionala utvecklingsfonden, Europeiska socialfonden\+, Sammanhållningsfonden, Fonden för en rättvis omställning och Europeiska havs\-, fiskeri\- och vattenbruksfonden samt finansiella regler för dessa och för Asyl\-, migrations\- och integrationsfonden, Fonden för inre säkerhet samt instrumentet för ekonomiskt stöd för gränsförvaltning och viseringspolitik (den gemensamma förordningen för fonderna), ska medlemsstaterna lämna in program för genomförande av fonderna till Europeiska kommissionen. I enlighet med EU\-regelverket ska överlämnandet av programförslaget till Europeiska kommissionen ske via ett elektroniskt system för datautbyte.
+
+Kommissionen ska bedöma programmet och dess överensstämmelse med den gemensamma förordningen för fonderna och med Europaparlamentets och rådets förordning (EU) 2021/1139 av den 7 juli 2021 om Europeiska havs\-, fiskeri\- och vattenbruksfonden och om ändring av förordning (EU) 2017/1004 (EHFVF) samt med partnerskapsöverenskommelsen som Sverige lämnat in för programperioden 2021–2027\. Därefter ska kommissionen godkänna programmet.
+
+Utarbetandet av programförslaget har skett i flera steg där dialog med intressenter har ägt rum, bland annat berörda myndigheter, intresseorganisationer och civilsamhället.
+
+Programförslaget har utformats med utgångspunkt i prioriteringar och specifika mål i EHFVF och med beaktande av nationella behov avseende utvecklingen inom fiske, vattenbruk och beredningen av fiskeriprodukter samt skydd och hållbart nyttjandet av Sveriges akvatiska resurser. Programmet ska i huvudsak understödja genomförandet av EU:s gemensamma fiskeripolitik samt delar av EU:s havspolitik och samtidigt bidra till genomförandet av EU:s gröna giv och en grön omställning i Sverige. Regeringen bedömer därmed att programförslaget är välavvägt och möjliggör insatser med högt kollektivt mervärde i Sverige.

@@ -1,0 +1,5 @@
+# Fastighetstaxering och beskattning av tredimensionellt avgränsade fastigheter
+
+Regeringen har överlämnat en proposition till riksdagen som innehåller förslag om regler för fastighetstaxering och beskattning av av ett nytt slag av fastigheter, s.k. tredimensionella fastigheter. Förslagen ansluter till den proposition som regeringen beslutade den 8 maj 2003 (prop. 2002/03:116\) om tredimensionell fastighetsindelning. Den propositionen innehåller förslag som innebär att fastigheter kommer att kunna avgränsas både horisontellt och vertikalt. Förslaget medför bl. a. bättre förutsättningar för bostadsbyggande ovanpå befintliga kommersiella byggnader.
+
+Genom de förslag som nu lämnas kommer de nya fastigheterna att kunna åsättas taxeringsvärden. Lagändringarna föreslås träda i kraft den 1 januari 2004 samtidigt som de nya fastigheterna kommer att kunna bildas enligt förslagen i prop. 2002/03:116\. Riksdagen sade ja till regeringens förslag den 17 december 2003\.

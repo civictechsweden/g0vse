@@ -1,0 +1,3 @@
+# Statlig organisation för handikappolitisk samordning
+
+I skrivelsen redogör regeringen för sina intentioner avseende en förändrad organisation för samordningen av arbetet inom det handikappolitiska området. Regeringen avser att inrätta en myndighet som har ansvar för den övergripande samordningen av genomförandet av handikappolitiken. I skrivelsen redovisar regeringen behoven av en förändrad organisationsstruktur, hur samordningsmyndigheten skall verka och hur den skall vara organiserad. Regeringen redogör också för hur verksamheter som i dag åligger Handikappombudsmannen, Statens institut för särskilt utbildningsstöd och Hjälpmedelsinstitutet påverkas av att samordningsmyndigheten bildas.

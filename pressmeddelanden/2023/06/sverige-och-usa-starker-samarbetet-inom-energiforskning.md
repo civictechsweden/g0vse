@@ -1,0 +1,9 @@
+# Sverige och USA stärker samarbetet inom energiforskning
+
+– För den svenska regeringen är det mycket viktigt att tackla de samhällsutmaningar som vi står inför med innovativa och effektiva lösningar. Inom energiområdet behöver vi samarbeta med de bästa för att identifiera och utveckla sätt att lösa det växande behovet av ren och grön energiproduktion. Därför är jag mycket glad över att Sverige nu stärker sitt samarbete med USA inom energiforskning, säger utbildningsminister Mats Persson.
+
+– Samarbete är nyckeln till att flytta fram vetenskapens gränser. Energidepartementets vetenskapskontor ser fram emot att arbeta närmare våra svenska kollegor för att dra nytta av våra respektive expertiser och resurser, säger Asmeret Asefaw Berhe, direktör för vetenskapskontoret i USA:s energidepartement.
+
+Syftet med genomförandeavtalet är att upprätta en ram för främjande av vetenskapligt och tekniskt samarbete mellan parterna inom energiområdet och andra närliggande områden. Det kan till exempel handla om avancerad beräkningsforskning, energivetenskap, biologi och miljöforskning, fusionsenergi, högenergifysik och kärnfysik. Avtalet kommer bland annat underlätta för forskarutbyten, lån av och tillgång till material och anläggningar, informationsutbyte och gemensamma seminarier och projekt. Forskningen kan komma att bedrivas vid forskningsanläggningarna MAX IV och European Spallation Source (ESS) i Sverige liksom vid amerikanska labb och världsledande forskningsinfrastrukturer för energiforskning.
+
+– Vi är mycket glada över att detta avtal nu är på plats. De områden som omfattas av avtalet är oerhört viktiga för att kunna möta dagens och framtidens stora utmaningar, och ett starkt internationellt forskningssamarbete är viktigt. Vi ser fram emot vårt samarbete och de möjligheter det ger för svensk forskning, säger Vetenskapsrådets generaldirektör Katarina Bjelke.

@@ -1,0 +1,7 @@
+# Vägar till högskolan för kunskap och kvalitet
+
+I denna proposition lämnar regeringen förslag och bedömningar i fråga om ändringar i reglerna för tillträde till högre utbildning. Ändringarna innebär bl.a. att reglerna för grundläggande behörighet blir likvärdiga för alla sökande oavsett skolform. Godkända betyg i kärnämneskurserna svenska eller svenska som andraspråk, engelska och matematik ska krävas för att uppfylla kraven på grundläggande behörighet. Universitet och högskolor får större frihet att själva bestämma vilka urvalsgrunder som ska tillämpas vid tillträde till högskoleutbildning som påbörjas på grundnivå och vänder sig till nybörjare. Urvalsgruppen för sökande med resultat från högskoleprovet i kombination med arbetslivserfarenhet tas bort. Sökande kan få meritpoäng för betyg i fördjupningskurser i språk och matematik samt för betyg i gymnasiekurser som är relevanta för avsedd högskoleutbildning.
+
+Vidare föreslås en ändring i högskolelagen som innebär att en anpassning görs till följd av införandet av en ny utbildnings\- och examensstruktur.
+
+Regeringen redovisar även sina ställningstaganden när det gäller beslutet om inplacering av lärarexamen i den nya utbildnings\- och examensstrukturen.

@@ -1,0 +1,9 @@
+# Regeringen reformerar biståndet med fokus på frihet, egenmakt och hållbar tillväxt
+
+– Med dagens beslut tar vi viktiga steg för att genomföra regeringens reformagenda, så att biståndet blir mer långsiktigt, transparent och effektivt. Vi utvecklar även transparensgarantin för att säkerställa att svenska medborgare får bättre insyn i hur deras skattepengar används, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+
+Regeringen ger nu Sida tydliga mål att bland annat öka synergierna mellan utvecklingssamarbetet, främjande och handel. Detta stärker den ekonomiska tillväxten hos partnerländer och förbättrar levnadsvillkoren för människor som lever i fattigdom och förtryck. Biståndsverksamheten ska i större utsträckning fungera som hävstång för att mobilisera privat kapital. Dessutom införs ett tydligare fokus på att motverka irreguljär migration inom utvecklingssamarbetet.
+
+– Regeringen vill att Sveriges bistånd ska användas så effektivt som möjligt och att det ska användas där det gör störst nytta. Inget land har lyfts ur fattigdom endast genom internationellt bistånd. Att stimulera ekonomisk tillväxt och handel i våra partnerländer är därför en central utgångspunkt för regeringens arbete mot fattigdom i världen. Begränsade resurser och ökande behov i omvärlden innebär att regeringen måste göra svåra men nödvändiga prioriteringar för Sveriges bistånd, säger Johan Forssell.
+
+Rysslands fullskaliga invasion av Ukraina innebär också ett paradigmskifte för biståndet. EU\-integration och ekonomisk utveckling samt fred och säkerhet i Ukraina och i vårt närområde, är en grundläggande del av arbetet för att möta de utmaningar Sverige och Europa står inför. Regeringens starka fokus på Ukraina och vårt grannskap utgör en central del i omställningen av biståndspolitiken och uttrycks i de prioriteringar regeringen gör i regleringsbrevet för Sida.

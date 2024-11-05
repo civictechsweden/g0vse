@@ -1,0 +1,3 @@
+# Svenskt deltagande i Förenta nationernas stabiliseringsinsats i Mali
+
+I propositionen föreslås att riksdagen medger att regeringen ställer en svensk väpnad styrka till förfogande för deltagande i Förenta nationernas (FN:s) stabiliseringsinsats i Mali (MINUSMA) till utgången av juni månad 2015, under förutsättning att det även fortsättningsvis finns ett giltigt mandat för styrkan enligt beslut av Förenta nationernas säkerhetsråd. FN\-insatsens mandat omfattar bland annat stabilisering av större tätbefolkade områden, skydd av civila och FN\-personal och stöd till att skapa förutsättningar för humanitärt bistånd.

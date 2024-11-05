@@ -1,0 +1,7 @@
+# Utökad registerkontroll av personal i förskola och skola ska stärka skyddet för barn och elever
+
+– Skolan ska vara en trygg och säker plats för alla barn och unga. Det är helt oacceptabelt att personer som är dömda för allvarliga brott har fått jobb i skolan. Det är av yttersta vikt att vi gör allt vi kan för att skydda våra barn och unga från individer som har begått allvarliga brott, säger skolminister Lotta Edholm.
+
+De brott som idag omfattas inkluderar sexualbrott, barnpornografibrott, mord, dråp, grov misshandel, människorov och grovt rån. Regeringen anser att fler brott bör omfattas av denna kontroll, särskilt med tanke på nya brott som införts i brottsbalken och det ökade behovet av att skydda barn från radikalisering och rekrytering till brottslighet.
+
+En utredning pågår för att se över vilka ytterligare brott som ska omfattas av registerkontrollen. Denna utredning ska presentera sina förslag senast den 31 januari 2025\. Regeringen har bedömt att det finns skäl att gå fram snabbare med vissa brott, och har därför redan nu beslutat att brott som involverar underåriga i brottslighet samt brott enligt terroristbrottslagen ska inkluderas i registerkontrollen. Dessutom ska Skolinspektionen få information om redan legitimerade lärare och förskollärare som dömts för dessa brott, eftersom Skolinspektionen gör anmälningar om återkallelse av legitimation till Lärarnas ansvarsnämnd (LAN).

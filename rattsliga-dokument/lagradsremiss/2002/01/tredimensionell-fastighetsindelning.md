@@ -1,0 +1,3 @@
+# Tredimensionell fastighetsindelning
+
+

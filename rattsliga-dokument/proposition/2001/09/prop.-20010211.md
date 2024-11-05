@@ -1,0 +1,3 @@
+# Bättre villkor för totalförsvarspliktiga
+
+I propositionen föreslås vissa förändringar i lagen(1994:1809\) om totalförsvarsplikt. För att få ett mer flexibelt system föreslås att bestämmelserna om inskrivning och krigsplacering ändras. Förslaget innebär bland annat att fler totalförsvarspliktiga finns tillgängliga vid urval och fördelning av platser. Totalförsvarspliktiga placerade i utbildningsreserven skall inte stå kvar i denna längre än det finns behov av med hänsyn till Sveriges försvarsberedskap. Den som inte längre har den kompetens som behövs för att fullgöra krigsuppgiften skall inte längre vara krigsplacerad.

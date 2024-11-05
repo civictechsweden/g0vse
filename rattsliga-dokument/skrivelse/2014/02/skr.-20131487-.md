@@ -1,0 +1,3 @@
+# Ett stärkt föräldrastöd - för barnets rätt till trygga uppväxtvillkor
+
+I skrivelsen redogör regeringen för genomförda insatser i syfte att stärka stödet till föräldrar i föräldraskapet. Redogörelsen omfattar innevarande och föregående mandatperiod. Det är första gången regeringen lämnar en sådan redogörelse till riksdagen. För att ge en bredare och mer samlad bild av vilket föräldrastöd som erbjuds i olika verksamheter, beskrivs även i vissa delar sådant föräldrastödjande arbete inom myndigheter, kommuner, landsting och ideella organisationer som bedrivs utan särskilda satsningar från regeringens sida. I skrivelsen redogör regeringen för sina bedömningar och för insatser i syfte att ytterligare förbättra stödet till föräldrar.

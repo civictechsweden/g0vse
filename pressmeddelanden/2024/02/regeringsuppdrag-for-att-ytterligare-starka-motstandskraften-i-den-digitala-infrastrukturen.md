@@ -1,0 +1,13 @@
+# Regeringsuppdrag för att ytterligare stärka motståndskraften i den digitala infrastrukturen
+
+Säker och tillförlitlig digital kommunikation är en nyckel i arbetet med att stärka förmågan i det civila försvaret. Det allvarliga säkerhetspolitiska läget understryker vikten av ett skyndsamt utvecklingsarbete i alla delar av det civila försvaret, inte minst i beredskapssektorn för elektronisk kommunikation och post som leds av PTS. Kriget i Ukraina har tydligt visat att en fungerande och motståndskraftig sektor för elektronisk kommunikation utgör en av grundpelarna i ett starkt totalförsvar.
+
+Hybridhot kan exempelvis handla om fysiskt sabotage mot infrastruktur, påverkanskampanjer och cyberattacker, och kan ske både i fredstid och vid krigsförhållanden. De kännetecknas bland annat av att det anses svårt att utpeka en bakomliggande aktör. Det kan handla om staters eller statsunderstödda aktörers användning av olika medel för att avsiktligt störa samhällets funktionalitet eller påverka opinioner, beslutsfattare och demokratiska processer. Dessutom kan det vara otydligt och tvetydigt om det rör sig om en enskild händelse eller en del i koordinerade handlingar.
+
+Mot bakgrund av den rådande situationen, och i ljuset av lärdomarna från Ukraina där infrastruktur har utgjort måltavlor för ryska attacker, måste Sverige öka sin försvarsförmåga. Det är det civila och det militära försvarets samlade förmåga som är krigsavhållande.
+
+– Sveriges digitala infrastruktur måste vara robust nog att kunna fungera i hela hotskalan. Regeringen agerar nu för att säkerställa en motståndskraftig infrastruktur. Det är en viktig förutsättning för Sveriges säkerhet, konkurrenskraft och välstånd, säger civilminister Erik Slottner, med ansvar för digital infrastruktur.
+
+Regeringen har nyligen presenterat en proposition om förstärkt samverkan mellan offentliga och privata aktörer i beredskapssektorn som PTS leder. Regeringen ger nu PTS uppdraget att fortsätta utveckla samverkansformerna för nyckelaktörer inom sektorn för att stärka Sveriges totalförsvar, med fokus på beredskap att hantera hybridhot. Det kan exempelvis handla om formerna för incidentrapportering.
+
+– Privat\-offentlig samverkan är avgörande för att bygga ett starkt och motståndskraftigt totalförsvar eftersom en stor del av Sveriges kritiska infrastruktur ägs och drivs av privata aktörer. Vi har i närtid sett exempel på de kaskadeffekter som drabbar hela samhället när IT\-leverantörer till staten utsätts för cyberattacker. Regeringsuppdraget till PTS är ett viktigt steg i arbetet med att stärka resiliensen i den digitala infrastrukturen, säger Carl\-Oskar Bohlin, minister för civilt försvar.

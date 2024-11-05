@@ -1,0 +1,5 @@
+# Sveriges antagande av rambeslut om tillämpning av principen om ömsesidigt erkännande på beslut om förverkande
+
+Inom Europeiska unionen har ett utkast till rambeslut om tillämpning av principen om ömsesidigt erkännande på beslut om förverkande utarbetats. I propositionen föreslås att utkastet till rambeslut godkänns av riksdagen. Utkastet till rambeslut är utarbetat på initiativ av Danmark och innehåller bestämmelser om verkställighet av beslut om förverkande. Enligt rambeslutet ska ett beslut om förverkande, som har beslutats av en domstol i en medlemsstat, erkännas och verkställas i en annan medlemsstat utan att något nytt beslut om förverkande behöver fattas av den staten. I vissa fall ska dock verkställigheten av beslutet om förverkande kunna vägras. Rambeslutet innehåller också bestämmelser om hur den förverkade egendomen ska delas mellan de berörda medlemsstaterna.
+
+Den tidpunkt då medlemsstaterna ska ha genomfört bestämmelserna i rambeslutet är ännu inte bestämd. I propositionen redovisas vilken lagstiftning och övrig reglering som rambeslutet kräver. Förslag till lagstiftning kommer att läggas fram vid ett senare tillfälle.

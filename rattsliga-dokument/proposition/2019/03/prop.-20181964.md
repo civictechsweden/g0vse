@@ -1,0 +1,3 @@
+# Säkerhet vid geologisk lagring av koldioxid
+
+I propositionen föreslås ändringar i miljöbalken som innebär följande. När ett tillstånd till geologisk lagring av koldioxid ges ska kravet på säkerhet inte längre vara begränsat till att endast omfatta avhjälpande av en miljöskada och andra återställningsåtgärder. Villkor om säkerhet ska kunna justeras om det kan antas att den säkerhet som ställts inte längre är tillräcklig eller är större än vad som behövs. Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om vad som krävs för att en säkerhet ska kunna godtas. Lagändringarna föreslås träda i kraft den 1 augusti 2019\.

@@ -1,0 +1,5 @@
+# Corporate Responsibility and the Business of Law
+
+This paper has been prepared with the financial support of the Swedish Ministry for Foreign Affairs as a contribution to the work of the Swedish Partnership for Global Responsibility. It is a companion to an earlier report commissioned by the Swedish Partnership for Global Responsibility \- Legal Issues in Corporate Citizenship, which highlights the various ways in which the corporate citizenship agenda intersects with law.
+
+This report considers the implications of the corporate social responsibility or corporate responsibility agenda not for law, but for the business of law and for commercial legal practice. Its origins lie with a criticism of Legal Issues in Corporate Citizenship, namely that one of the side\-effects of the arguments that were set out there might be to encourage a sort of 'legal corporatisation' of corporate citizenship, in which corporate lawyers increasingly take control of the stillvoluntary market\-driven corporate citizenship agenda, thereby stifling innovation and locking business practices into narrow legal risk management.

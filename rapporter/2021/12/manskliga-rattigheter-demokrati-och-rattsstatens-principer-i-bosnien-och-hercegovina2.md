@@ -1,0 +1,16 @@
+# Mänskliga rättigheter, demokrati och rättsstatens principer i Bosnien och Hercegovina
+
+Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Bosnien och Hercegovina samt en länk till rapporten i sin helhet.
+
+
+Bosnien och Hercegovina är en demokrati med regelbundna allmänna val. Landet har ett i huvudsak bra rättsligt ramverk till skydd för de mänskliga rättigheterna, men det komplexa och starkt decentraliserade styrelseskicket bidrar till att efterlevnaden brister på flera områden. Antagande, genomförande och övervakning av lagstiftning är överlag komplicerat och tungrott. Inte sällan blockeras processerna med hänvisning till någon av de tre konstituerande folkgruppernas intressen.
+
+Bosnien och Hercegovina är ett potentiellt kandidatland till Europeiska unionen.
+
+Rättsstatens institutioner utsätts tidvis för hårt tryck, även från politiskt håll. Avgöranden av Europadomstolen och konstitutionsdomstolen efterlevs inte konsekvent. Exempelvis har landet ännu inte ändrat grundlagen så att andra folkgrupper än de konstituerande (bosniaker, bosnienserber och bosnienkroater) ska kunna väljas till presidentrådet och till parlamentets överhus, i strid med Europadomstolens avgörande. Korruption förblir ett utbrett problem.
+
+Lagar som reglerar yttrande\-, press, \- och informationsfrihet håller god standard och landet har utvecklade mekanismer för mediernas självreglering. Utrymmet för journalister och människorättsförsvarare att verka kringskärs dock alltjämt av hat och hot. Media är till stor del uppdelad enligt etniska linjer, och ägarförhållandena är inte transparenta, vilket skapar dåliga förutsättningar för oberoende och granskande journalistik. Den komplexa politiska och administrativa strukturen försvårar framväxten av ett starkt och integrerat civilsamhälle.
+
+Krigets fasor påverkar mer än 25 år efter fredsavtalet fortfarande människors levnadsförhållanden. Ca 96 000 personer är alltjämt registrerade som internflyktingar och 3 000 personer lever ännu i tillfälliga förläggningar. Den etniska segregering som orsakades av kriget har befästs med åren och försvårat åtnjutandet av mänskliga rättigheter, inte minst för de runt tio procent av befolkningen som tillhör nationella minoriteter. Förhärligande av dömda krigsförbrytare av den egna etniciteten förekommer. Framsteg har skett gällande ansvarsutkrävande, men många förövare av lägre rang är fortfarande ostraffade. Många brottsoffer, inklusive de tusentals kvinnor som utsattes för våldtäkt och annat sexuellt våld, har ännu inte fått upprättelse.
+
+Diskriminering av kvinnor förekommer på flera plan. Jämställdhet är inte prioriterat politiskt och efterlevnaden av befintlig lagstiftning är ofta bristfällig, inte minst när det gäller att lagföra och motverka det utbredda våldet i hemmet. Lagen förbjuder diskriminering på grund av sexuell läggning och könsidentitet. Efterlevnaden är dock bristfällig och hbtqi\-personer utsätts fortsatt för hot, våld och diskriminering. Romer och personer med funktionsnedsättning utsätts för diskriminering, exempelvis vad gäller tillgången till hälsovård, utbildning och arbete. Viktiga ändringar i antidiskrimineringslagen har gjorts och attacker mot religiösa byggnader rapporteras ha minskat.

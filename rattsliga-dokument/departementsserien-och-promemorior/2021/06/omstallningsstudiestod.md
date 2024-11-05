@@ -1,0 +1,9 @@
+# Omställningsstudiestöd – för flexibilitet, omställningsförmåga och trygghet på arbetsmarknaden
+
+![](/contentassets/83075815b75d49f696e5c31af0bbb6b5/ds-18-2021-fram.jpg?width=150&quality=85)
+
+Denna promemoria har utarbetats inom Utbildningsdepartementet. I promemorian föreslås ett nytt parallellt offentligt studiestödssystem.
+
+Svenskt Näringsliv, Förhandlings\- och samverkansrådet PTK (PTK), Industrifacket Metall (IF Metall) och Svenska Kommunalarbetareförbundet har träffat en principöverenskommelse om trygghet, omställning och anställningsskydd. Avsikten har från parternas sida varit att ta ett helhetsgrepp om faktorer som i kombination kan skapa flexibilitet, omställningsförmåga och trygghet på arbetsmarknaden. De har gemensamt begärt att regeringen tar fram lagförslag för att anpassa arbetsrätten i enlighet med principöverenskommelsen. Enligt principöverenskommelsen ska ändringar genomföras i bl.a. lagen (1982:80\) om anställningsskydd (anställningsskyddslagen), ett nytt och parallellt offentligt studiestödssystem ska införas samt ett nytt offentligt omställningsstöd till arbetstagare som inte omfattas av kollektivavtal ska införas. Dessa insatser ska komplettera varandra och utgöra delar av en helhet.
+
+Denna promemoria har utarbetats inom Utbildningsdepartementet. I promemorian föreslås ett nytt parallellt offentligt studiestödssystem. Förslag om anställningsskydd med tillhörande frågor behandlas i En reformerad arbetsrätt – för flexibilitet, omställningsförmåga och trygghet på arbetsmarknaden (Ds 2021:17\) och förslag om en ny offentlig omställningsorganisation som ska erbjuda och finansiera grundläggande omställnings\- och kompetensstöd i Grundläggande omställnings\- och kompetensstöd – för flexibilitet, omställningsförmåga och trygghet på arbetsmarknaden (Ds 2021:16\).

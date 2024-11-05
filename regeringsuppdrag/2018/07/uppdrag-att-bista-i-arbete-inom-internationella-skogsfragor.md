@@ -1,0 +1,11 @@
+# Uppdrag att, inom ramen för det nationella skogsprogrammet, bistå i arbete inom internationella skogsfrågor
+
+Regeringen uppdrar åt Skogsstyrelsen att bistå Regeringskansliet i proaktivt och strategiskt påverkansarbete för integrering av den internationella skogliga dimensionen i enlighet med det nationella skogsprogrammets inriktning.
+
+
+Målet för fokusområdet inom skogsprogrammet avseende Hållbart brukande och bevarande av skogen som en profilfråga i svenskt internationellt samarbete, ska vara att skogen och dess värdekedja ska bidra till globalt hållbar utveckling och genomförande av Agenda 2030\. Skogsstyrelsen ska fokusera ytterligare på policyutveckling inom EU och förstärka skoglig samverkan och dialog. Skogsstyrelsen ska stärka och vidareutveckla strategisk omvärldsbevakning, inklusive rapportering, statistik och konsekvensanalys för internationella skogsfrågor och skogens värdekedjor. Vidare ska Skogsstyrelsen, inom sitt verksamhetsområde, bistå Regeringskansliet i att stärka skogligt globalt utvecklingsarbete, genomförandet av Agenda 2030, innovations\- och  forskningssamverkan, export\- och investeringsfrämjande samt handelsrelaterade processer. Skogsstyrelsen ska, när det är relevant, samverka med andra myndigheter, universitet och högskolor samt organisationer.
+
+Skogsstyrelsen ska senast den 28 februari 2019 lämna en delrapport om uppdragets genomförande och senast den 28 februari 2020 lämna en slutrapport. Rapporterna ska lämnas till Regeringskansliet (Näringsdepartementet).
+
+För uppdragets genomförande får Skogsstyrelsen använda högst 4 300 000 kronor under 2018 och 1 700 000 kronor under 2019\. Utgifterna
+för uppdraget ska belasta det under utgiftsområde 23 Areella näringar, landsbygd och livsmedel, upptagna anslaget 1:2 Insatser för skogsbruket, anslagsposten 3 Nationellt skogsprogram. Skogsstyrelsen kan inom ramen för uppdraget ta in sekundering från annan myndighet, universitet och högskolor eller forskningsinstitut samt sekundera experter till internationella organisationer.

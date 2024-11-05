@@ -1,0 +1,5 @@
+# Tilläggsdirektiv till Integritetskommittén
+
+Utredningstiden förlängs. Uppdraget ska i stället redovisa ett delbetänkande senast den 31 maj 2016 som omfattar dels kartläggningen och analysen av riskerna för integritetsintrång, dels behovet av att inrätta ett integritetsskyddsråd. Uppdraget i övrigt ska redovisas senast den 1 juni 2017\.
+
+Regeringen beslutade den 8 maj 2014 kommittédirektiv om den personliga integriteten (dir. 2014:65\). I uppdraget ingår bl.a. att utifrån ett individperspektiv kartlägga och analysera sådana faktiska och potentiella risker för intrång i den personliga integriteten som kan uppkomma i samband med användning av informationsteknik i såväl privat som offentlig verksam­het och att, med beaktande av samhälls\- och teknikut­vecklingen i stort och mot bakgrund av slutsatserna av kartläggnings\- och analysuppdraget, följa upp betänkandet Skyddet för den per­sonliga integriteten (SOU 2008:3\) när det gäller behovet av att inrätta ett integritetsskyddsråd. Enligt utredningens direktiv skulle uppdraget redovisas senast den 1 december 2016\.

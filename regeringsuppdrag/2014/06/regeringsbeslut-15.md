@@ -1,0 +1,3 @@
+# Uppdrag till Myndigheten för samhällsskydd och beredskap att redovisa underlag om det civila försvaret inför den planerade försvarspolitiska inriktningspropositionen 2015
+
+Regeringen gav den 26 juni Myndigheten för samhällsskydd och beredskap (MSB) i uppdrag att senast den 28 november 2014 lämna underlag om det civila försvaret inför regeringens försvarspolitiska proposition. Underlaget ska utgå från Försvarsberedningens rapport Försvaret av Sverige \- Starkare försvar för en osäker tid. I underlaget ska MSB redovisa hur planeringen för det civila försvaret ska stärkas och utvecklas. MSB ska genomföra uppdraget i dialog med berörda myndigheter och aktörer.

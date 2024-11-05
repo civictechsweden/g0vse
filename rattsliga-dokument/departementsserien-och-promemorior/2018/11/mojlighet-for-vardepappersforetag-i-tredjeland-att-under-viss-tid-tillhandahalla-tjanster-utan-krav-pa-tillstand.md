@@ -1,0 +1,4 @@
+# Möjlighet för värdepappersföretag i tredjeland att under viss tid tillhandahålla tjänster utan krav på tillstånd och vissa betaltjänstfrågor
+
+I promemorian föreslås en tillfällig bestämmelse som innebär att
+regeringen eller den myndighet som regeringen bestämmer ska få meddela föreskrifter om att företag som hör hemma utanför EES under en viss tid ska få driva värdepappersrörelse i Sverige utan tillstånd av Finansinspektionen. Det föreslås att sådana föreskrifter ska meddelas så att värdepappersföretag som hör hemma i Förenade kungariket under en övergångsperiod efter landets utträde ur EU ska kunna fortsätta tillhandahålla tjänster till professionella kunder med vilka de vid utträdet har ett avtalsförhållande. Förslagen innebär ändringar i lagen om värdepappersmarknaden och förordningen om värdepappersmarknaden.

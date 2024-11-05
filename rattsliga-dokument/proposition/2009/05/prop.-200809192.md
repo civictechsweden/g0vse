@@ -1,0 +1,7 @@
+# Sveriges antagande av rambeslutet om ömsesidigt erkännande av beslut om övervakningsåtgärder för brottsmisstänkta
+
+I propositionen föreslår regeringen att riksdagen ska godkänna ett inom Europeiska unionen framförhandlat utkast till rambeslut om tillämpning av principen om ömsesidigt erkännande på beslut om övervakningsåtgärder som ett alternativ till ett tillfälligt frihetsberövande. Rambeslutet innehåller bestämmelser om överförande av icke frihetsberövande straffprocessuella tvångsåtgärder och syftar till att skapa ett alternativ till frihetsberövanden av brottsmisstänkta under straffrättsliga förfaranden.
+
+I rambeslutet finns bestämmelser om under vilka förutsättningar en medlemsstat ska erkänna och verkställa beslut om övervakningsåtgärder som har meddelats i en annan medlemsstat. Verkställigheten ska anpassas till den verkställande statens lagstiftning. På den utfärdande statens begäran ska den berörda personen överlämnas enligt bestämmelserna i rambeslutet om en europeisk arresteringsorder om personen inte frivilligt återvänder till den staten. Rambeslutet uppställer bland annat tidsfrister för den verkställande statens beslut om erkännande och regler om förfarandet i övrigt.
+
+Den tidpunkt då medlemsstaterna ska ha genomfört bestämmelserna i rambeslutet är ännu inte bestämd. I propositionen redovisas vilken lagstiftning och övrig reglering som rambeslutet kräver. Förslag till lagstiftning läggs dock inte fram i propositionen.

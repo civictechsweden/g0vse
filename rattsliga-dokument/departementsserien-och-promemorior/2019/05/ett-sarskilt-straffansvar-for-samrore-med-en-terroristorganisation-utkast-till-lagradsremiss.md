@@ -1,0 +1,15 @@
+# Ett särskilt straffansvar för samröre med en terroristorganisation (utkast till lagrådsremiss)
+
+I utkastet föreslås ett särskilt straffansvar för den som har vissa former av samröre med en terroristorganisation om gärningen är ägnad att främja, stärka eller understödja terroristorganisationen.
+
+De former av samröre som avses är att
+
+* ta befattning med vapen, ammunition, brandfarliga eller explosiva varor, kommunikationsutrustning, transportmedel eller annan liknande utrustning för en terroristorganisation,
+* upplåta lokal eller mark till en terroristorganisation, eller
+* lämna annat liknande stöd till en terroristorganisation.
+
+Straffskalan för brottet ska vara fängelse i högst två år eller, om brottet är grovt, fängelse i lägst sex månader och högst sex år. Det föreslås också att försök till det nya brottet ska kriminaliseras. Det föreslås vidare bli straffbart att offentligt uppmana och rekrytera till samröre med en terroristorganisation, att resa utomlands i avsikt att ha samröre med en terroristorganisation samt att finansiera samröre med en terroristorganisation.
+
+Därutöver föreslås att straffet för brottet olovlig värvning ska skärpas och vissa moderniseringar av den straffbestämmelsen.
+
+Lagändringarna föreslås träda i kraft den 1 januari 2020\.

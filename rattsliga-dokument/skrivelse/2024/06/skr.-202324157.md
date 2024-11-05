@@ -1,0 +1,9 @@
+# Riksrevisionens rapport om statens skydd av hotade personer
+
+I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen har gjort i rapporten Statens skydd av hotade personer – brister i omfattning och effektivitet (RiR 2024:1\).
+
+Riksrevisionen har granskat om staten arbetar effektivt för att skydda hotade personer. Granskningen har fokuserat på kontaktförbud, Polismyndighetens brottsoffer\- och personsäkerhetsverksamhet samt skyddade personuppgifter. Riksrevisionens övergripande slutsats är att staten inte arbetar tillräckligt effektivt för att skydda hotade personer. Dels för att staten inte kan säkerställa att de personer som behöver skydd beviljas det, dels för att skyddet inte alltid är verkningsfullt. Riksrevisionen lämnar utifrån det tre rekommendationer till regeringen samt ett antal rekommendationer till Polismyndigheten och Åklagarmyndigheten.
+
+Regeringen välkomnar Riksrevisionens granskning och konstaterar att den utgör ett viktigt bidrag till att synliggöra utvecklingsbehov så att statens skydd av hotade personer, i sina enskilda delar och som helhet, kan stärkas. Regeringen instämmer i Riksrevisionens bedömningar och iakttagelser i stort och har redan initierat en rad åtgärder på området, bland annat har initiativ tagits till lagändringar avseende såväl kontaktförbud som Skatteverkets förmedling av post till personer med skyddade personuppgifter. Regeringen har även beslutat om flera myndighetsuppdrag för att stärka myndigheternas arbete för en säker hantering av skyddade personuppgifter. Regeringen avser även att följa upp Riksrevisionens iakttagelser och rekommendationer som rör Polismyndigheten och Åklagarmyndigheten.
+
+I och med denna skrivelse anser regeringen att Riksrevisionens rapport är slutbehandlad.

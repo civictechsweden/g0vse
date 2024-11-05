@@ -1,0 +1,11 @@
+# Från sjukersättning till arbete
+
+I propositionen föreslås att särskilda regler ska gälla för personer som hade rätt till en icke tidsbegränsad sjukersättning för juni 2008\. Detta innebär bland annat att den som i dag har rätt till en sådan ersättning ska kunna återgå i arbete utan att rätten till ersättningen omprövas. Sjukersättningen ska i stället minskas med hänsyn till en så kallad reduceringsinkomst enligt ett system med steglös avräkning. Reduceringsinkomsten består av förvärvsinkomster och andra pensionsgrundande inkomster med vissa undantag. Sjukersättningen minskas först när reduceringsinkomsten för ett år överstiger ett så kallat fribelopp. Fribeloppet föreslås uppgå till ett prisbasbelopp för en försäkrad som beviljats hel sjukersättning. För personer som uppbär partiell sjukersättning föreslås högre fribelopp.
+
+Regeringen lämnar dessutom ett antal förslag som gäller de försäkrade som uppbär tidsbegränsad sjukersättning eller aktivitetsersättning och försäkrade som beviljats en icke tidsbegränsad sjukersättning för juli 2008 eller därefter. Det föreslås att Försäkringskassan ska betala ut ett månatligt belopp till en försäkrad som arbetar med sjuk\- eller aktivitetsersättningen vilande. Beloppet föreslås uppgå till 25 procent av den ersättning som är vilande och ska utbetalas under en period om tolv månader.
+
+Vidare föreslås att en försäkrad ska vara skyldig att anmäla till Försäkringskassan innan han eller hon påbörjar ett förvärvsarbete, utökar omfattningen av redan påbörjat arbete eller fortsätter att förvärvsarbeta efter tid då ersättningen varit vilande. Anmälningsskyldigheten innebär inte att möjligheten att arbeta t.ex. politiskt eller ideellt begränsas i omfattning jämfört med vad som gäller i dag.
+
+Regeringen föreslår också att sjukersättningen ska kunna dras in eller minskas om en försäkrad återfått arbetsförmåga. Enligt i dag gällande regler måste Försäkringskassan påvisa att arbetsförmågan har förbättrats väsentligt för att en indragning eller minskning ska vara möjlig. Detta förslag gäller inte aktivitetsersättningen.
+
+Förslagen om särskilda regler och steglös avräkning föreslås träda i kraft i den 1 december 2008 och ska tillämpas från den 1 januari 2009\. Övriga lagförslag föreslås träda i kraft den 1 januari 2009\.

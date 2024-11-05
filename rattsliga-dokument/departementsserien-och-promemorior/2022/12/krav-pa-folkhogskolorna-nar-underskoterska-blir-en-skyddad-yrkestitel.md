@@ -1,0 +1,7 @@
+# Krav på folkhögskolorna när undersköterska blir en skyddad yrkestitel
+
+Undersköterska blir den 1 juli 2023 en skyddad yrkestitel. Det kommer då att krävas ett bevis utfärdat av Socialstyrelsen för att få använda titeln i yrkesverksamhet på hälso\- och sjukvårdens område och i verksamhet enligt socialtjänstlagen (2001:453\) och lagen (1993:387\) om stöd och service till vissa funktionshindrade. Grunden för att kunna få ett bevis om skyddad yrkestitel kommer att vara det nya utbildningsinnehållet i gymnasieskolans vård\- och omsorgsprogram eller motsvarande kompetens.
+
+I denna promemoria lämnas förslag till en ändring i förordningen (2015:218\) om statsbidrag till folkbildningen. Förslaget innebär att det ska vara ett villkor för en folkhögskola som vill få statsbidrag för kurser med yrkesinriktning mot arbete som undersköterska att folkhögskolan ställer krav på resultat av lärande som motsvarar de krav som ställs på motsvarande utbildning inom gymnasieskolan eller kommunal vuxenutbildning. Folkhögskolorna ska också vara skyldiga att utfärda ett intyg till de studerande som har nått godkänt resultat, så att de, på samma sätt som den som har en motsvarande utbildning från gymnasieskolan eller kommunal vuxenutbildning, kan ansöka hos Socialstyrelsen om att få ett bevis om rätt att använda yrkestiteln undersköterska.
+
+Ändringen i förordningen om statsbidrag till folkbildningen föreslås träda i kraft den 1 juli 2023\.

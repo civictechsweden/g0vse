@@ -1,0 +1,3 @@
+# Strategi för Sveriges stöd till det internationella engagemanget i Afghanistan
+
+I strategin redogör regeringen för de aktuella utmaningarna i Afghanistan, senast beskrivna i FN:s säkerhetsråds resolutioner 1890 (2009\) och 1917 (2010\). Regeringen konstaterar att Sverige stödjer det internationella samfundets engagemang och lägger fast mål och riktlinjer för ett svenskt stöd till de internationella ansträngningarna i Afghanistan. Som mål anger regeringen att "Sveriges engagemang ska stärka Afghanistans förmåga att upprätthålla stabilitet och säkerhet, demokrati och mänskliga rättigheter samt erbjuda sina invånare möjligheter att förbättra sina levnadsvillkor och en rättvis och hållbar utveckling."

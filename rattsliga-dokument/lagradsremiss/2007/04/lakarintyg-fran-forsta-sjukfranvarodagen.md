@@ -1,0 +1,7 @@
+# Läkarintyg från första sjukfrånvarodagen
+
+Lagrådsremissen innehåller ett förslag till lag om ändring av lagen (1991:1047\) om sjuklön vilket ger arbetsgivare möjlighet att från en arbetstagare begära läkarintyg som avser förhållanden redan från och med den första sjukdagen i en sjuklöneperiod. Flera arbetsgivare har redan i dag en sådan möjlighet med stöd i kollektivavtal. Genom förslaget får samtliga arbetsgivare rätt att i särskilda fall begära in läkarintyg som avser förhållanden under perioden före den sjunde kalenderdagen efter sjukanmälningsdagen, vilken annars är den dag från vilken arbetstagaren vanligtvis skall styrka sin nedsatta arbetsförmåga. Underlåter en arbetstagare utan godtagbart skäl att lämna intyg enligt arbetsgivarens begäran är arbetsgivaren inte skyldig att utge sjuklön för den återstående delen av sjuklöneperioden.
+
+Syftet med förslaget är framförallt att förbättra arbetsgivarnas kontroll i samband med de anställdas sjukfrånvaro samt att ge arbetsgivarna ett verktyg som underlättar för dem att ta det arbetsgivaransvar som följer i samband med denna frånvaro.
+
+De nya bestämmelserna, som skall tillämpas i de fall inte annat gäller enligt kollektivavtal, föreslås träda i kraft den 1 januari 2008\.

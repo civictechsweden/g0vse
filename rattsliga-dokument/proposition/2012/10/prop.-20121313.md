@@ -1,0 +1,5 @@
+# Resultatberäkning vid vissa fastighetsavyttringar
+
+Vid avyttring av fastigheter ska kapitalvinster som huvudregel beräknas särskilt för varje avyttrad taxeringsenhet eller del av taxeringsenhet. Enligt gällande rätt får dock beräkningen, på den skattskyldiges begäran, vid avyttring av två eller flera taxeringsenheter som tidigare under den skattskyldiges innehav har ingått i samma taxeringsenhet, göras som om enheterna vid avyttringen fortfarande var en enda taxeringsenhet. Detta stämmer inte med tidigare lydelse av motsvarande bestämmelse, enligt vilken det räckte att taxeringsenheterna tidigare under samma innehav ingått i samma taxeringsenhet. Något krav på att minst två enheter hade avyttrats uppställdes inte. I propositionen föreslås att bestämmelsen ändras så att den överensstämmer med tidigare lydelse, vilken inte varit avsedd att ändras.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Riksdagen fattade den 5 december 2012 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

@@ -1,0 +1,7 @@
+# Ändrade regler om ersättning vid sjukdom och ökad flexibilitet för anställning av sjömän
+
+I propositionen föreslås att sjömän på fartyg i inre fart inte längre ska omfattas av rätten till lön vid arbetsoförmåga på grund av sjukdom eller skada enligt sjömanslagen (1973:282\). Vid sådan arbetsoförmåga ska för dessa sjömän i stället gälla rätt till ersättning enligt lagen (1991:1047\) om sjuklön och socialförsäkringsbalken, dvs. samma regler som gäller för landanställda. För sjömän på fartyg som inte uteslutande går i inre fart, dvs. huvudsakligen i när\- och fjärrfart, föreslås att rätten till lön behålls så länge sjömännen är ombord. För annan tid införs i stället rätt till ersättning enligt lagen om sjuklön och socialförsäkringsbalken. För dessa sjömän införs dock inte någon karensdag.
+
+Vidare föreslås ett bemyndigande för regeringen eller den myndighet som regeringen bestämmer att meddela föreskrifter om att personal som ingår i säkerhetsbesättningen och tillhör däcks\- eller maskinpersonalen ska kunna vara anställda även av någon annan än redaren eller ägaren till fartyget. Lagändringen underlättar bl.a. användningen av bemanningsföretag för bemanning av fartygen.
+
+Förslaget om ändrade ersättningsregler vid sjukdom föreslås träda i kraft den 1 februari 2011\. Förslaget om ändrade anställningsregler föreslås träda i kraft den 1 juli 2010\.

@@ -1,0 +1,3 @@
+# Kontroll av syntetiska droger m.m.
+
+I propositionen föreslås en viss förändring av narkotikadefinitionen i 8 § narkotikastrafflagen (1968:64\) för att den klart skall täcka alla de varor som i dag anses som narkotika. Propositionen innehåller också förslag till en ny lag som syftar till att åstadkomma ett effektivare kontrollförfarande för nya droger. Den föreslagna lagen utgör ett regelverk som är mer begränsat men har ett vidare tillämpningsområde än narkotikalagstiftningen. Lagen skall ge möjlighet att ingripa mot nya hälsofarliga missbruksmedel i fall där nuvarande regler är tillräckliga. Vissa följdändringar föreslås i annan lagstiftning bl.a. i fråga om möjligheten att kontrollera att den som är frihetsberövad inte innehar varor som omfattas av den nya lagen.

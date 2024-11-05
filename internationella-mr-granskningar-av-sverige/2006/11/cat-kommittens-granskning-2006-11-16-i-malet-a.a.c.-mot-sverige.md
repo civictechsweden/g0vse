@@ -1,0 +1,8 @@
+# CAT-kommitténs granskning (2006-11-16) i målet A.A.C. mot Sverige
+
+FN:s CAT\-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.
+
+
+## Sammanfattning av yttrandet
+
+Ärendet rörde avvisning av en medborgare från Bangladesh till hemlandet. Klaganden gjorde inför kommittén gällande att han vid ett återsändande till Bangladesh riskerade att utsättas för tortyr i strid med artikel 3 i konventionen samt att en verkställighet av avvisningsbeslutet skulle utgöra en kränkning av artikel 16 på grund av hans psykiska och mentala hälsotillstånd (PTSD). Klaganden anförde bl.a. att han på grund av sitt engagemang i oppositionspartiet tidigare utsatts för förföljelse i Bangladesh samt att han arresterats för olaga vapeninnehav och allvarligt misshandlats av polisen i häktet. Kommittén konstaterade att den försämring av klagandens mentala och psykiska hälsotillstånd som en utvisning eventuellt skulle orsaka i sig inte var nog för att aktualisera en prövning av klagomålet under artikel 16 i konventionen och avvisade klagomålet i denna del. Angående klagomålet under artikel 3 noterade kommittén bl.a. att den politiska situationen i Bangladesh hade förbättrats, att klaganden inte haft någon framträdande roll inom oppositionspartiet och att han inte förmått styrka att han skulle arresteras vid ett återvändande till Bangladesh. Sammanfattningsvis konstaterade kommittén att det inte förelåg någon reell risk för att klaganden skulle arresteras eller utsättas för tortyr och att en verkställighet av avvisningsbeslutet därmed inte skulle utgöra en kränkning av artikel 3 i konventionen.

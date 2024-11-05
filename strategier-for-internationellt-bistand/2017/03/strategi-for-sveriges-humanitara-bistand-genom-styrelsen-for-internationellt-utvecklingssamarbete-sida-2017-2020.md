@@ -1,0 +1,3 @@
+# Strategi för Sveriges humanitära bistånd genom Styrelsen för internationellt utvecklingssamarbete (Sida) 2017-2020
+
+Syftet med strategin är att styra Sverige humanitära bistånd genom Styrelsen för internationellt utvecklingssamarbete (Sida). Det övergripande målet för Sveriges humanitära bistånd är att rädda liv, lindra nöd och upprätthålla mänsklig värdighet, till förmån för nödlidande människor som har utsatts för, eller står under hot att utsättas för, väpnade konflikter, naturkatastrofer eller andra katastrofliknande förhållanden. Strategin ska gälla under perioden 2017\-2020 och omfatta de medel som anslås i Sidas regleringsbrev för respektive verksamhetsår.

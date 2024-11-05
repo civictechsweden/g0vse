@@ -1,0 +1,3 @@
+# Utökade möjligheter till internationellt polisiärt samarbete
+
+En särskild utredare ska överväga på vilket sätt svensk polis bör kunna ta emot hjälp från andra länders brottsbekämpande myndigheter med insatser som kan innebära myndighetsutövning mot enskilda. Övervägandena bör ta sin utgångspunkt i de möjligheter som ges dels i rådets beslut om ett fördjupat gränsöverskridande samarbete särskilt för bekämpning av terrorism och gränsöverskridande brottslighet (Prümrådsbeslutet), dels i rådets beslut om förbättrat samarbete i krissituationer mellan Europeiska unionens medlemsstaters särskilda insatsgrupper (Atlasrådsbeslutet). Även bestämmelserna i ett föreliggande förslag till avtal om nordisk polisiär samtjänstgöring bör beaktas.

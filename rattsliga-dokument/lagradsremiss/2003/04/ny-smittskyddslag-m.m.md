@@ -1,0 +1,5 @@
+# Ny smittskyddslag m.m.
+
+En ny smittskyddslag skall införas. Smittskyddslagen skall ges en klarare inriktning på smittskyddsåtgärder som riktar sig till människor. De smittskyddsåtgärder som riktar sig till objekt eller djur skall i sin helhet regleras i andra lagar. Det övergripande målet för smittskyddet och vissa allmänna riktlinjer skall anges i smittskyddslagen. Tyngdpunkten i smittskyddsarbetet bör ligga på det frivilliga förebyggande arbetet. Särreglering av hivinfektion begränsas så långt möjligt.
+
+Landstinget skall även fortsättningsvis ha ansvaret för att behövliga smittskyddsåtgärder vidtas inom landstinget. Undantag skall dock liksom i dag gälla för åtgärder som riktar sig mot objekt och djur för vilka kommunerna och vissa nationella myndigheter har ansvaret. Ansvaret för direkta smittskyddsåtgärder skall vila på smittskyddsläkarna och de behandlande läkarna.

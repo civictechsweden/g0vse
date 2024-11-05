@@ -1,0 +1,8 @@
+# CAT-kommitténs granskning (2001-11-13) i målet H.O.V. mot Sverige
+
+FN:s CAT\-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.
+
+
+## Sammanfattning av yttrandet
+
+Ärendet gällde avvisning av en iransk medborgare med kurdiskt ursprung till Iran. Klaganden gjorde inför kommittén gällande att han på grund av sitt politiska engagemang mot den iranska regimen vid ett återsändande till hemlandet riskerade att utsättas för tortyr. Kommittén noterade att regeringen med hänvisning till ett antal brister och motsägelser i klagandens uppgifter funnit skäl att ifrågasätta hans trovärdighet. Kommittén fann dock inte skäl att ta ställning till sanningshalten i klagandens påstående att han fem år före sin avresa till Sverige frihetsberövats och utsatts för tortyr utan grundade sitt ställningstagande på bedömningen att de politiska aktiviteter som förmått klaganden att lämna landet inte var av sådan karaktär att det fanns anledning att befara att han vid ett återsändande skulle komma att utsättas för tortyr. Kommittén fann stöd för denna slutsats i den omständigheten att klaganden fram till dess han kort före avresan till Sverige deltagit i en regeringsfientlig demonstration under en flera år lång period inte varit föremål för de iranska myndigheternas intresse. Mot bakgrund härav fann kommittén att klaganden inte förmått styrka sitt påstående att han i Iran riskerade att utsättas för tortyr och att det följaktligen inte skulle innebära någon kränkning av artikel 3 i konventionen att återsända honom dit.

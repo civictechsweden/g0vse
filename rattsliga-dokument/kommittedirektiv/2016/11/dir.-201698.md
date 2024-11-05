@@ -1,0 +1,7 @@
+# Rättsliga förutsättningar för en digitalt samverkande förvaltning
+
+En särskild utredare ges i uppdrag att kartlägga och analysera i vilken utsträckning det förekommer lagstiftning som i onödan försvårar digital utveckling och samverkan inom den offentliga förvaltningen. Utredaren ska lämna förslag till de författningsändringar som bedöms ha störst potential att stödja den fortsatta digitaliseringen av den offentliga förvaltningen. Författningsförslagen ska vara motiverade utifrån en sammantagen bedömning, där samtliga relevanta intressen och perspektiv har beaktats och vägts mot varandra. Utredaren ska särskilt beakta behovet av skydd av den personliga integriteten och av uppgifter utifrån sekretesskäl samt behovet av informationssäkerhet och rättssäkerhet.
+
+Utredaren ska särskilt analysera sådan lagstiftning som i onödan försvårar digitalt informationsutbyte inom den offentliga förvaltningen och genomförandet av regeringens målsättning om att digitala tjänster, så långt det är möjligt och när det är relevant, ska vara förstahandsval vid den offentliga sektorns kontakter med medborgare, organisationer och företag. Utredaren ska vidare bl.a. lämna förslag till hur en utvidgad rapportering av hela den offentliga förvaltningens löpande arbete med it och digitalisering kan utformas samt hur aktörerna inom förvaltningen som helhet kan samverka kring behovet av ny eller ändrad lagstiftning för att främja digitaliseringen.
+
+Uppdraget ska redovisas senast den 31 mars 2018\.

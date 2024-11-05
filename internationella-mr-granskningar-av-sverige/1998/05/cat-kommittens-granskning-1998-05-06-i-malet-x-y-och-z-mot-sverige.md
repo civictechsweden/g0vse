@@ -1,0 +1,8 @@
+# CAT-kommitténs granskning (1998-05-06) i målet X, Y och Z mot Sverige
+
+FN:s CAT\-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.
+
+
+## Sammanfattning av yttrandet
+
+Ärendet rörde avvisning till hemlandet av tre medborgare i Demokratiska republiken Kongo. Två av klagandena uppgav sig ha varit politiskt aktiva för det politiska partiet PRP, med följd att såväl de själva som den tredje klagande fängslats och utsatts för tortyr. De gjorde med hänvisning härtill gällande att de vid ett återsändande till hemlandet på nytt riskerade att utsättas för denna typ av övergrepp, varför en verkställighet av avvisningsbeslutet skulle stå i strid med artikel 3 av konventionen. I sina slutsatser konstaterade kommittén att det politiska parti klagandena verkat för numera ingick i landets regering, varför klagandenas fruktan att på denna grund utsättas för tortyr föreföll ogrundad. Enligt kommitténs bedömning var inte heller klagandenas aktiviteter i Sverige (deltagande i en demonstration mot arresteringen av en ledare i Demokratiska republiken Kongo) av sådan art att de kunde ge anledning att tro att klagandena vid ett återsändande till hemlandet skulle vara i fara att utsättas för tortyr. Kommittén ansåg därför att det inte skulle strida mot artikel 3 i konventionen att verkställa beslutet om avvisning.

@@ -1,0 +1,5 @@
+# Dagmaröverenskommelse 2008
+
+Syftet med Dagmaröverenskommelsen är att genom riktade satsningar, i samförstånd mellan staten och huvudmännen, stimulera olika former av utvecklingsarbete i hälso\- och sjukvården. I Dagmaröverenskommelsen för år 2006 kom staten och Sveriges Kommuner och Landsting överens om att under år 2006 se över inriktningen på och användningen av Dagmarmedlen. En styr\- och arbetsgrupp med representanter för Socialdepartementet, Sveriges Kommuner och Landsting, Statens beredning för medicinsk utvärdering (SBU) och Socialstyrelsen arbetade fram en strategi för god vård som syftade till att samordna satsningarna på ett bättre sätt.
+
+God vård innebär att hälso\- och sjukvården ska vara säker, patientfokuserad, effektiv, jämlik, evidensbaserad och ändamålsenlig samt ges inom rimlig tid. Den nationella strategin för god vård ger uttryck för en mer aktiv och systematisk kunskapsstyrning av hälso\- och sjukvården. Dagmaröverenskommelsen har sedan inordnats i en struktur, där satsningar görs inom de delar i kunskapsstyrningen som är nödvändiga för att uppfylla målet om en god vård.

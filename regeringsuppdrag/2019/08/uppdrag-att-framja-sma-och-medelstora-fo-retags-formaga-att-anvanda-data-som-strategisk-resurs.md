@@ -1,0 +1,3 @@
+# Uppdrag att främja små och medelstora företags förmåga att använda data som strategisk resurs
+
+Regeringen uppdrar åt Tillväxtverket att i enlighet med vad som anges under rubriken Närmare om uppdraget kartlägga förutsättningarna för att öka små och medelstora företags förmåga att använda data strategiskt, inbegripet vilka sektorer som har störst potential att utveckla arbetet med data och tillgodogöra sig dess potential. Tillväxtverket ska även, genom riktade kunskapshöjande insatser, främja förmågan att använda data som strategisk resurs. I detta arbete ska skyddet av Sveriges säkerhet, samt behovet av informationssäkerhet och skydd av den personliga integriteten, säkerställas.

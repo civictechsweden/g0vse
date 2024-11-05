@@ -1,0 +1,5 @@
+# En nationell handlingsplan för säker användning och hantering av nanomaterial
+
+En särskild utredare ska föreslå en nationell handlingsplan för hur användningen och hanteringen av nanomaterial ska ske på ett säkert sätt. Användningen av nanomaterial har de senaste åren ökat och utvecklingen går mycket snabbt. Regeringen ser ett behov av att säkerställa att utvecklingen sker med hänsyn till potentiella hälso\- och miljörisker. Syftet med handlingsplanen är att Sverige på olika sätt ska ta vara på nanomaterialens möjligheter för att möta ekonomiska, medicinska, tekniska och miljömässiga utmaningar samtidigt som hänsyn tas till nanomaterialens hälso\- och miljörisker och dessa risker minimeras. Handlingsplanen ska säkerställa att kunskap om nanomaterial byggs upp, samordnas och sprids på ett sätt som gynnar svenska aktörer. Den ska bidra till att så långt som möjligt förutse och hantera potentiella miljö\- och hälsorisker från nanomaterial ur ett livscykelperspektiv.
+
+Uppdraget ska redovisas senast den 30 september 2013\.

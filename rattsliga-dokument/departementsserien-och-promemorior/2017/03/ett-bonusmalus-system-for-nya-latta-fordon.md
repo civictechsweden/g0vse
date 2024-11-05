@@ -1,0 +1,3 @@
+# Ett bonus–malus-system för nya lätta fordon
+
+Ett bonus–malus\-system är ett system där miljöanpassade fordon med relativt låga utsläpp av koldioxid premieras vid inköpstillfället med en bonus medan fordon med relativt höga utsläpp av koldioxid belastas med högre skatt. Huvudmotivet för ett bonus–malus\-system är att öka andelen miljöanpassade fordon med lägre koldioxidutsläpp. Bonus–malus\-systemet kan därmed komplettera de mer generellt verkande drivmedelsskatterna och bidra till att minska transportsektorns oljeberoende och klimatpåverkan. I promemorian föreslås att bonus– malus\-systemet ska omfatta personbilar klass I, personbilar klass II, lätta bussar och lätta lastbilar.

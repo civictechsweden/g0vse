@@ -1,0 +1,10 @@
+# Europadomstolens beslut (2012-03-27) i målet Hillefors mot Sverige
+
+Europadomstolen har fattat ett beslut avseende ett klagomål om Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till beslutet i fulltext samt en sammanfattning av beslutet.
+
+
+## Sammanfattning av beslutet
+
+Målet rörde i huvudsak frågan om avsaknaden av en muntlig förhandling i förhandling om livränta på grund av påstådd arbetsrelaterad skada stred mot klagandens rättigheter enligt Europakonventionens artikel 6\. Regeringen yrkade avvisning av klagomålet, bl.a. på grund av att inhemska rättsmedel inte var uttömda. I sak bestred regeringen kränkning av konventionen.
+
+I beslut den 27 mars 2012 fann domstolen enhälligt att klagomålet skulle avvisas som uppenbart ogrundat. Domstolen noterade inledningsvis att klaganden inte hade begärt muntlig förhandling i länsrätten och fann att han därmed fick anses ha avstått från sin rätt till muntlig förhandling i den instansen. Domstolen noterade vidare att klaganden inte heller begärt muntlig förhandling i Regeringsrätten. När det gäller förfarandet i kammarrätten konstaterade domstolen att processen i kammarrätten endast gällde frågan om prövningstillstånd. Klaganden hade begärt muntlig förhandling i kammarrätten för att komplettera bevisningen genom att låta klaganden själv samt de två vittnena förklara omständigheterna kring den behandling han utsatts för av sin arbetsledare och sina kollegor. Domstolen noterade att vittnena redan hade avgett skriftliga utsagor vilka hade beaktats av länsrätten och som var tillgängliga för kammarrätten. Länsrätten hade inte i sin dom ifrågasatt trovärdigheten i dessa skriftliga utsagor. Mot denna bakgrund fann domstolen att de åberopade kompletteringarna inte innehöll något som inte hade kunnat utläsas av akterna i målet och parternas skriftliga inlagor. Sammanfattningsvis konstaterade domstolen, med särskilt beaktande av att muntlig förhandling inte yrkats i första instans, att det fanns omständigheter som berättigade att muntlig förhandling inte hölls och att någon kränkning av artikel 6 i Europakonventionen således inte ägt rum.

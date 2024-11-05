@@ -1,0 +1,8 @@
+# Uppdrag att kartlägga och analysera förekomsten av barnäktenskap, tvångsäktenskap och månggifte i Sverige samt andra närliggande frågor
+
+Regeringen uppdrar åt Jämställdhetsmyndigheten att kartlägga och analysera förekomsten av barnäktenskap, tvångsäktenskap och månggifte i Sverige. I kartläggningen och analysen ska Jämställdhetsmyndigheten även inkludera andra närliggande frågor såsom förekomsten av arrangerade äktenskap, s.k. brudpris, s.k. giftomän samt tillfälliga religiösa äktenskap för sexköp.
+
+
+Vidare ska Jämställdhetsmyndigheten belysa i vilken mån det förekommer problem som enskilda kan möta till följd av svårigheter att få till stånd s.k. religiösa skilsmässor. Jämställdhetsmyndigheten ska också sammanställa och redovisa befintlig kunskap om de företeelser som uppdraget handlar om utifrån offers och förövares bakgrund, med avseende på bl.a. nationell härkomst och religiös tillhörighet, samt redovisa dessa bakgrundsfaktorer så specifikt som möjligt. Jämställdhetsmyndigheten ska vidare identifiera eventuella kunskapsluckor och i den mån det är möjligt ta fram ny kunskap inom området.
+
+Jämställdhetsmyndigheten ska lämna en muntlig delredovisning till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 29 februari 2024\. Jämställdhetsmyndigheten ska lämna en samlad skriftlig redovisning till regeringen (Arbetsmarknadsdepartementet, med kopia till Justitiedepartementet) senast den 27 februari 2025\.

@@ -1,0 +1,9 @@
+# Extra ändringsbudget för 2020 – Stöd till hälso- och sjukvården, utbildningsinsatser och andra åtgärder med anledning av coronaviruset
+
+I denna proposition lämnar regeringen förslag till ytterligare åtgärder för att omhänderta effekterna i samhället av utbrottet av det nya coronaviruset som orsakar sjukdomen covid\-19\. Propositionen innehåller förslag till ändringar i statens budget som syftar till att mildra de ekonomiska effekterna i samhället och skapa ökade möjligheter till utbildning och kompetensutveckling.
+
+I propositionen föreslås att ett tidsbegränsat tilläggsbidrag införs inom bostadsbidraget till barnfamiljer med låga inkomster. Tilläggsbidraget föreslås lämnas som ett separat bidrag, som inte beaktas vid beräkningen av det ordinarie bostadsbidraget, till den som får särskilt bidrag för hemmavarande barn, särskilt bidrag för barn som bor växelvis eller umgängesbidrag. Lagändringarna föreslås träda i kraft den 1 juli 2020 och gälla t.o.m. den 31 december 2020\.
+
+Förslag lämnas även om att det ska införas en upplysningsbestämmelse om att regeringen eller den myndighet som regeringen bestämmer kan meddela föreskrifter om att den studerandes inkomst vid extraordinära händelser i fredstid ska beaktas i annan utsträckning än vad som normalt gäller vid beslut om studiestartsstöd. Lagändringen föreslås träda i kraft den 1 juli 2020\.
+
+Vidare innehåller propositionen förslag till ändringar i statens budget för 2020\. Ökade medel föreslås för bl.a. kommunernas och regionernas merkostnader för hanteringen av virusutbrottet, en höjning av taket i arbetslöshetsförsäkringen även efter de första 100 dagarna, flera olika utbildningsinsatser, stöd till civilsamhällesorganisationer, ett utvidgat mediestöd, införande av ett nytt bidrag för upprätthållande av kollektivtrafik och tidigareläggning av järnvägs\- och vägunderhåll samt för att förlänga vissa redan vidtagna åtgärder på sjukförsäkringsområdet.

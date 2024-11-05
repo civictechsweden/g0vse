@@ -1,0 +1,15 @@
+# Ett starkt straffrättsligt skydd för den personliga integriteten
+
+Den tekniska utvecklingen och framväxten av internet har inneburit positiva förändringar för yttrandefriheten och den demokratiska debatten. Utvecklingen har emellertid också medfört att hot och andra former av kränkningar av den personliga integriteten har tagit nya former. För att anpassa det straffrättsliga skyddet för den personliga integriteten till teknik\- och samhällsutvecklingen föreslår regeringen att skyddet stärks och moderniseras.
+
+Det föreslås att ett nytt gradindelat brott införs i brottsbalken, olaga integritetsintrång. Regleringen straffbelägger intrång i någons annans privatliv genom spridning av vissa slag av bilder eller andra uppgifter, om spridningen är ägnad att medföra allvarlig skada för den som bilden eller uppgiften rör. Om gärningen med hänsyn till bildens eller uppgiftens innehåll eller sättet för eller omfattningen av spridningen var ägnad att medföra mycket allvarlig skada för den som bilden eller uppgiften rör, döms för grovt olaga integritetsintrång. Straffet för olaga integritetsintrång föreslås vara böter eller fängelse i högst två år och för grovt olaga integritetsintrång fängelse i lägst sex månader och högst fyra år. Undantag från straffansvar ska gälla om gärningen med hänsyn till syftet och övriga omständigheter var försvarlig.
+
+Det föreslås vidare att straffbestämmelserna om olaga hot, ofredande och förolämpning förtydligas och moderniseras. För olaga hot och ofredande föreslås även vissa utvidgningar av det straffbara området. Dessutom justeras de omständigheter som särskilt ska beaktas vid bedömningen av om ett förtalsbrott är grovt, så att det tydliggörs att även sättet för spridningen särskilt ska beaktas vid den bedömningen. Olaga hot och förolämpning är även straffbara som tryck\- och yttrandefrihetsbrott. För att anpassa brottsbeskrivningarna i tryckfrihetsförordningens brottskatalog språkligt och innehållsmässigt till de ändringar som föreslås i dessa straffbestämmelser i brottsbalken, föreslås att motsvarande ändringar ska genomföras i tryckfrihetsförordningen. Genom den hänvisning som görs i yttrandefrihetsgrundlagen till tryckfrihetsförordningen kommer ändringarna även att få genomslag på yttrandefrihetsgrundlagens tillämpningsområde.
+
+Vidare föreslår regeringen att skyldigheten för den som tillhandahåller en elektronisk anslagstavla att ta bort vissa meddelanden från tjänsten utvidgas till att gälla även meddelanden vars innehåll uppenbart är sådant som avses i bestämmelserna om olaga hot och olaga integritetsintrång.
+
+Slutligen föreslås att rätten till brottsskadeersättning för kränkning utvidgas till att omfatta även ersättning för den skada det innebär att någon allvarligt kränker någon annan genom grovt förtal.
+
+Lagändringarna i tryckfrihetsförordningen och brottsbalken som avser olaga hot och förolämpning föreslås träda i kraft den 1 januari 2019\. I övrigt föreslås lagändringarna träda i kraft den 1 januari 2018\.
+
+[Pressmeddelande: Regeringen stärker skyddet mot näthat](/pressmeddelanden/2017/09/regeringen-starker-skyddet-mot-nathat/)

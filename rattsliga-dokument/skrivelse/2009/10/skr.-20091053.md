@@ -1,0 +1,3 @@
+# Regeringens strategi för ungdomspolitiken
+
+I denna skrivelse redogör regeringen för inriktningen av det framtida ungdomspolitiska arbetet inom ramen för politikens befintliga mål och huvudområden. Strategin innehåller också ett antal utgångspunkter för regeringens ungdomspolitik samt ett antal strategiska utmaningar som identifierats som centrala för att uppnå de ungdomspolitiska målen. Strategin för ungdomspolitiken är ett led i uppföljningen av den senaste ungdomspolitiska propositionen Makt att bestämma \- rätt till välfärd (prop. 2004/05:2\). Det handlingsprogram som var en del av propositionen har genomförts. I denna skrivelse presenteras ett nytt handlingsprogram med åtgärder inom ungdomspolitikens fem huvudområden.

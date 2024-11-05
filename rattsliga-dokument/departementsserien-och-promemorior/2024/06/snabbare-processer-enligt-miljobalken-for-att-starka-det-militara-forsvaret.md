@@ -1,0 +1,5 @@
+# Snabbare processer enligt miljöbalken för att stärka det militära försvaret
+
+Försvarets verksamheter bedrivs med målet att ha förmåga att försvara Sverige mot ett väpnat angrepp och värna vår säkerhet, frihet, självständighet och handlingsfrihet. Ärenden enligt miljöbalken som har initierats av Försvarsmakten, Fortifikationsverket och Försvarets materielverk måste kunna handläggas snabbare så att myndigheterna ges bättre förutsättningar att öka övningsverksamheten och stärka det militära försvaret. Därför föreslås en tidsbegränsad förordning som innebär att befintliga flygplatser, anläggningar för lagring och annan hantering av kemiska produkter och skjutfält som är tillståndspliktiga ska kunna ändras efter en anmälan.
+
+Den tillfälliga förordningen föreslås träda i kraft så snart som möjligt hösten 2024 och upphöra att gälla efter fem år.

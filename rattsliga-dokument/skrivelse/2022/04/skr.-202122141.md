@@ -1,0 +1,8 @@
+# Riksrevisionens rapport om tillämpningen av det finanspolitiska ramverket 2021
+
+I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen har redovisat i rapporten Det finanspolitiska ramverket – regeringens tillämpning 2021 (RiR 2021:31\).
+
+I sin rapport framför Riksrevisionen bl.a. att det i budgetpropositionen för 2022 tydligare borde ha framgått att den marginal som finns till utgiftstaket 2023 behövs för att hantera en normal osäkerhet, och att det under utgiftstaket inte finns utrymme för ytterligare utgiftsökningar. Myndigheten anser vidare att planen för återgång till överskottsmålet i budgetpropositionen för 2022 uppfyller kraven i det finanspolitiska ramverket, men att det vore önskvärt med en mer utvecklad plan. Enligt Riksrevisionen saknas det i planen, liksom i övriga delar av budgetpropositionen, en strukturerad redovisning av vilka åtgärder som är permanenta och vilka som är tillfälliga, samt en översiktlig bild av vilka krisåtgärder som fasas ut. Sådan information är enligt myndigheten nödvändig för att en utomstående bedömare ska kunna ta ställning till hur regeringens politik påverkar det strukturella sparandet på kort och på medellång sikt. Riksrevisionen menar också att regeringens prognosjämförelser kan bli mer informativa.
+
+Regeringen delar flera av Riksrevisionens bedömningar och arbetar
+kontinuerligt med att utveckla innehållet i propositionen i den riktning som myndigheten rekommenderar. Däremot instämmer regeringen inte i myndighetens bedömning när det gäller planen för återgången till överskottsmålet. I och med denna skrivelse anser regeringen att granskningsrapporten är slutbehandlad.

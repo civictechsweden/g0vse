@@ -1,0 +1,5 @@
+# Förekomst av etiska riktlinjer inom statsförvaltningen
+
+Regeringen gav i oktober 2009 generaldirektören Marianne Samuelsson i uppdrag att utreda förekomsten av etiska riktlinjer i frågor kring sexköp m.m. inom statsförvaltningen. I uppdraget har ingått att kartlägga om och i vilken utsträckning etiska riktlinjer som berör sexköp m.m. har tagits fram av myndigheter inom statsförvaltningen och hur dessa riktlinjer tillämpas i praktiken. Uppdraget utgör en del i regeringens handlingsplan mot prostitution och människohandel för sexuella ändamål (Skr. 2007/08:167\).
+
+I rapporten dras bland annat slutsatsen att myndigheterna bedömer att de etiska frågor som kartlagts är viktiga. Flertalet myndigheter har någon form av etiska riktlinjer som på olika sätt berör dessa frågor. Endast ett fåtal myndigheter har däremot tydliga regler och tydliga beskrivningar av vad konsekvenserna blir av att inte följa reglerna. Det är även få myndigheter som systematiskt följer upp hur väl kända riktlinjerna är bland personalen eller hur riktlinjerna efterlevs.

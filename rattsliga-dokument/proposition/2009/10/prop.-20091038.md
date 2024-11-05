@@ -1,0 +1,3 @@
+# Fortsatt svenskt deltagande i den internationella säkerhetsstyrkan i Afghanistan (ISAF)
+
+I propositionen föreslås att riksdagen medger att regeringen ställer en väpnad styrka om högst 855 personer till förfogande för deltagande i den internationella säkerhetsstyrkan i Afghanistan (ISAF) till utgången av december månad 2010, under förutsättning att det även fortsättningsvis finns ett giltigt mandat för styrkan enligt beslut av Förenta nationernas säkerhetsråd. Den väpnade svenska styrkan i ISAF beräknas under 2010 uppgå till ca 500 personer. Därutöver ingår i den begärda personalramen om 855 personer resurser för förstärknings\- och oförutsedda evakueringsbehov.

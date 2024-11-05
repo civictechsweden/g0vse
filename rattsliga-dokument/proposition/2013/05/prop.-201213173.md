@@ -1,0 +1,7 @@
+# Svenskt deltagande i Förenta nationernas stabiliseringsinsats i Mali
+
+I propositionen föreslås att riksdagen medger att regeringen ställer en svensk väpnad styrka bestående av högst 160 personer till förfogande för deltagande i Förenta nationernas stabiliseringsinsats i Mali (MINUSMA) under högst tolv månader, under förutsättning att det även fortsättningsvis finns ett giltigt mandat för styrkan enligt beslut av Förenta nationernas säkerhetsråd. Insatsens mandat omfattar bland annat stabilisering av större tätbefolkade områden, skydd av civila och FN\-personal och stöd till att skapa förutsättningar för humanitärt bistånd.
+
+Det planerade svenska styrkebidraget utgörs av en flygtransportenhet, en flygsäkringsstyrka och en nationell stödenhet. Avsikten är att även placera stabsofficerare vid relevanta staber. Regeringen bedömer att det svenska bidraget till insatsen under normala omständigheter kommer att uppgå till ungefär 70 personer. Dessutom ska styrkan om behov uppstår kunna förstärkas tillfälligt. Regeringens avsikt är att det svenska bidraget ska samordnas med andra nordiska länders. Det svenska bidragets verksamhet kan inledas tidigast i juli.
+
+I propositionen redogör regeringen för situationen i Mali och för det internationella samfundets, FN:s, EU:s och Sveriges engagemang i landet. Regeringen redogör även för insatsens folkrättsliga mandat, beskriver det avsedda svenska deltagandet och redovisar sina överväganden för det svenska deltagandet.

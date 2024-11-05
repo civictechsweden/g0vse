@@ -1,0 +1,7 @@
+# Att främja en stabil kommunal verksamhet över konjunkturcykeln
+
+Kommunsektorn utgör en betydande del av svensk ekonomi. Verksamheten i kommuner och landsting finansieras till största delen av kommunal inkomstskatt som främst tas ut på löner. Den kommunala skattebasen är känslig för konjunkturvariationer, vilket framför allt beror på att lönesumman påverkas av sysselsättningsutvecklingen. Även vissa utgifter är konjunkturkänsliga, t.ex. utbetalningar av ekonomiskt bistånd. Eftersom kommunsektorns finanser är beroende av konjunkturen finns det en risk för att kommuner och landsting genom förändringar av utgifter och skatter agerar procykliskt, dvs. på ett sätt som kan bidra till att förstärka konjunktur\-svängningar, vilket är negativt för samhällsekonomins stabilitet. Detta är ett problem ur ett stabiliseringspolitiskt perspektiv. Det kommunala balanskravet kan bidra till att förstärka detta beteende.
+
+En särskild utredare ska mot denna bakgrund lämna förslag på hur procykliska variationer i kommuners och landstings verksamheter kan förebyggas. Utredaren ska analysera de kommunala finansernas konjunkturkänslighet, och med utgångspunkt i denna analys föreslå möjliga förändringar i nuvarande regelverk för den ekonomiska förvaltningen i kommuner och landsting, t.ex. avseende det kommunala balanskravet, och i regelverket för den kommunala redovisningen. Utredaren ska vidare lämna förslag till ett system för stabilisering av kommunsektorns intäkter över en konjunkturcykel.
+
+Uppdraget ska redovisas senast den 15 september 2011\.

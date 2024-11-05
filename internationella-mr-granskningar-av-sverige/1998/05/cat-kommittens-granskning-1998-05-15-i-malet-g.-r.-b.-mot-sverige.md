@@ -1,0 +1,8 @@
+# CAT-kommitténs granskning (1998-05-15) i målet G. R. B. mot Sverige
+
+FN:s CAT\-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.
+
+
+## Sammanfattning av yttrandet
+
+Ärendet rörde avvisning av en peruansk medborgare till Peru. Klaganden gjorde inför kommittén gällande att hon vid ett återsändande till Peru riskerade att utsättas för tortyr såväl av Sendero Luminoso som av de peruanska myndigheterna. Hon åberopade även att hon som en följd av vissa övergrepp hon utsatts för av medlemmar av Sendero Luminoso led av PTSD och att hennes tillstånd var sådant att ett återsändande av henne till hemlandet i sig skulle utgöra ett brott mot artikel 16 i konventionen. Kommittén förklarade att frågan huruvida klaganden riskerade att utsättas för tortyr eller liknande behandling av ett organ som står utanför regeringens kontroll föll utanför artikel 3 i konventionen. Med hänvisning till att det var ostridigt att klaganden själv inte utsatts för tortyr av de peruanska myndigheterna, att hon sedan ett antal år inte längre var politiskt aktiv och att hon vid två tillfällen kunnat besöka Peru utan problem ansåg kommittén det inte klarlagt att klaganden vid ett återsändande skulle löpa en förutsägbar, verklig och personlig risk att utsättas för tortyr. Inte heller kunde enligt kommittén en eventuell försämring av klagandens hälsotillstånd i samband med verkställighet av avvisningen anses utgöra en sådan omänsklig eller förnedrande behandling eller bestraffning som förutsätts för att artikel 16 i konventionen skall vara tillämplig. Någon kränkning av konventionen ansågs således inte föreligga.

@@ -1,0 +1,6 @@
+# Uppdrag att kartlägga Sveriges möjligheter att utvinna metaller och mineral för miljö- och teknikinnovationer (SGU)
+
+Regeringen uppdrar åt Sveriges geologiska undersökning (SGU) att kartlägga möjligheterna för utvinning i Sverige av de metaller och mineral som krävs för tillverkning av nya miljö\- och teknikinnovationer som är under utveckling i Sverige och Europa. Uppdraget innefattar kartläggning och kunskapsuppbyggnad om både primära och sekundära källor av dessa metaller och mineral. Redovisningen av uppdraget ska kunna användas som metodik för kartläggning i större skala. Inom ramen för uppdraget ska SGU bland annat kartlägga de viktigaste gruvavfallsdeponierna i Bergslagen.
+
+
+Som underlag för arbetet ska SGU, förutom egen befintlig information och databaser, använda sig av den behovsanalys som Myndigheten för tillväxtpolitiska utvärderingar och analyser (Tillväxtanalys) ska utföra inom uppdraget att kartlägga behovet av metaller och mineral för miljö och teknikinnovationer (N2016/06367/FÖF). För ändamålet får SGU rekvirera högst l miljon kronor per år för 2016\-2018 från Kammarkollegiet.

@@ -1,0 +1,5 @@
+# Riksrevisionens rapport om Utrikesförvaltningens konsulära krisberedskap
+
+Riksrevisionen har granskat om utrikesförvaltningens konsulära krisberedskapsorganisation är ändamålsenlig och har förutsättningar att hantera en större konsulär kris utomlands på ett effektivt sätt. Den övergripande slutsatsen är att den konsulära krisberedskaps\-organisationen har goda förutsättningar att hantera konsulära kriser utomlands och att organisationen använder sina resurser på ett effektivt sätt. Det finns några områden som Riksrevisionen anser kan förbättras för att ytterligare stärka krisberedskapen inom utrikesförvaltningen.
+
+Riksrevisionen följer bland annat upp de förbättringsförlag som Katastrofkommissionen (2005:104\) presenterade 2005 om UD:s roll och konsulära frågor och det konstateras att samtliga av dessa förslag har genomförts. Ett omfattande förändringsarbete har gjorts inom utrikesförvaltningen sedan dess för att höja Sveriges förmåga att hantera kris\- och katastrofsituationer utomlands där svenskardrabbats.

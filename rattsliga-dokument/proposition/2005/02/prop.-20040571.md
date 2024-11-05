@@ -1,0 +1,3 @@
+# Konvention mellan Konungariket Sverige och Republiken Turkiet om social trygghet
+
+I propositionen föreslås att riksdagen godkänner tilläggskonventionen den 26 augusti 2004 som ändrar konventionen om social trygghet mellan Sverige och Turkiet. Tilläggskonventionen ändrar vissa bestämmelser i konventionen den 30 juni 1978 mellan Sverige och Turkiet rörande social trygghet (SFS 1981:208, senast ändrad genom SFS 2001:1285, SÖ 1981:3 och SÖ 2002:4\). Vidare föreslås att konventionen antas att gälla som lag i Sverige. I huvudsak föranleds ändringarna i konventionen av det reformerade svenska pensionssystemet som i sin helhet trädde i kraft den 1 januari 2003\. I anpassningen av konventionen görs inga nya åtaganden som medför kostnader för svenskt vidkommande.

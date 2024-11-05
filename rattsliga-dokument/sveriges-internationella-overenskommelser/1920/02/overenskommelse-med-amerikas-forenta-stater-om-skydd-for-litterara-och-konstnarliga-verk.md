@@ -1,0 +1,3 @@
+# Överenskommelse med Amerikas Förenta Stater om skydd för litterära och konstnärliga verk
+
+Sedan Kungl Majit den 30 januari 1920 genom kungörelse lämnat föreskrifter om tillämpning av lagarna den 30 maj 1919 om rätt till litterära och musikaliska verk, rätt till verk av bildande konst och rätt till fotografiska bilder å arbeten, vilka först utgivits i Amerikas Förenta Stater, ävensom å outgivna arbeten av Förenta Staternas undersåtar, har Presidenten i Amerikas Förenta Stater den 27 februari 1920 utfärdat kungörelse rörande tillämpningen av de amerikanska lagarna om rätt till litterära och konstnärliga verk jämväl å arbeten, som utgivits i Sverige den 1 februari 1920 eller därefter och som blivit vederbörligen registrerade i Förenta Staterna.

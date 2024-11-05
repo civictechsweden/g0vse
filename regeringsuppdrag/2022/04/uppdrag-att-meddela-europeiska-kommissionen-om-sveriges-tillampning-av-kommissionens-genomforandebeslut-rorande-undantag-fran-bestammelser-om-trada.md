@@ -1,0 +1,3 @@
+# Uppdrag att meddela Europeiska kommissionen om Sveriges tillämpning av kommissionens genomförandebeslut rörande undantag från bestämmelser om träda
+
+Regeringen ger Statens jordbruksverk i uppdrag att, inom föreskriven tidsfrist, meddela Europeiska kommissionen om Sveriges beslut att tillämpa kommissionens genomförandebeslut (EU) 2022/484 rörande undantag från vissa villkor angående bestämmelser om stöd för jordbruksmetoder med gynnsam inverkan på klimatet och miljön (miljöanpassningsstödet) för ansökningsåret 2022 så som undantagen genomförts genom ändringar av förordningen (2014:1101\) om EU:s direktstöd för jordbrukare beslutade den 13 april 2022\.

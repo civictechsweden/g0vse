@@ -1,0 +1,20 @@
+# Uppdrag om riktade insatser för högre kunskapsresultat och ökad måluppfyllelse
+
+Detta uppdrag ersätter delvis det av regeringen den 14 november 2019 beslutade uppdraget till Statens skolverk om samverkan för bästa skola (U2019/03786\) och delvis det uppdrag som beslutades samma dag om att genomföra insatser för att stärka utbildningens kvalitet för barn och elever som är nyanlända eller har annat modersmål än svenska (U2019/03787\).
+
+
+Skolverket ska slutföra samverkansperioden för huvudmän i redan beslutade urvalsomgångar samt även övriga åtaganden som myndigheten har planerat för inom ramen för de två nuvarande uppdragen. Därefter avslutas de nuvarande uppdragen i sin helhet.
+
+Regeringen ger Skolverket i uppdrag att genomföra riktade insatser i syfte att höja kunskapsresultaten i grundskolan, anpassade grundskolan, gymnasieskolan, anpassade gymnasieskolan och den kommunala vuxenutbildningen samt öka måluppfyllelsen i förskolan, förskoleklassen och fritidshemmet. Insatserna ska bidra till höjda kunskapsresultat, ökad kvalitet i undervisningen och en mer likvärdig utbildning inom det svenska skolväsendet.
+
+Skolverket ska rikta insatserna till huvudmän med skolenheter som har låga kunskapsresultat eller hög andel elever som inte fullföljer sina studier samt förskoleenheter med svåra förutsättningar. Skolenheter som bedöms ha svåra förutsättningar att förbättra sina resultat på egen hand ska prioriteras.Skolverket ska ansvara för urvalet som ska utgå från en analys av kunskapsresultat och förutsättningar för måluppfyllelse. Urvalet ska initialt främst ha vikt mot grundskolan.
+
+Skolverket ska föra en nära dialog med Statens skolinspektion om urvalet för att identifiera vilka som inte ska erbjudas riktade insatser. Utgångspunkten är att riktade insatser ska ges utifrån behov men vanligen inte till skol\- eller förskoleenheter där Skolinspektionen har gett huvudmannen ett föreläggan de utifrån omfattande brister i centrala delar av verksamheten. Vid sådana situationer bör eventuella riktade insatser till den berörda enheten inledas först när tillsynsprocessen är avslutad och bristerna är åtgärdade. Skolverket ska, i samråd med Statens skolinspektion, utveckla rutiner för en ända målsenlig dialog om urvalet.
+
+Skolverket ska tillsammans med varje berörd huvudman identifiera insatser som kan stärka huvudmannens förmåga att planera, följa upp och utveckla utbildningen i enlighet med syftet för detta uppdrag. När det är relevant bör parterna i detta arbete använda underlag från de kvalitetsdialoger som Skolverket och Specialpedagogiska skolmyndigheten har genomfört med huvudmannen. Skolverket ska därefter komma överens med varje berörd huvudman om hur insatserna ska utformas och genomföras och de båda parternas respektive ansvar och åtaganden ska klargöras i överenskommel\-serna.
+
+Skolverket ska i arbetet med riktade insatser utgå från det nationella kvalitetssystemet, ta tillvara nationella och internationella erfarenheter samt basera sina insatser på vetenskaplig grund och beprövad erfarenhet. Vid behov ska Skolverket även samarbeta med universitet och högskolor. Det ska finnas en flexibilitet i hur insatserna utformas och insatserna ska anpassas utifrån huvudmannens och skol\- eller förskoleenhetens specifika behov och förutsättningar
+
+Skolverket ska följa upp satsningen och senast den 15 april 2025 respektive 2026 och därefter vartannat år lämna en redovisning till Regeringskansliet (Utbildningsdepartementet) om hur genomförandet av uppdraget fortlöper. Redovisningen ska också omfatta en beskrivning av urvalet. Skolverkets kostnader för att utveckla insatserna ska särredovisas. Uppdraget och resultatet av insatserna ska utvärderas och analyseras av extern aktör.
+
+För detta uppdrag ska utgifter avseende utbildningstjänster samt bidrag till huvudmännen belasta anslag 1:5 Utveckling av skolväsendet och annan pedagogisk verksamhet ap. 3 enligt beslut i regleringsbrev avseende Statens skolverk. Verksamhetskostnader till följd av uppdraget ska belasta anslag 1:1 Statens skolverk.

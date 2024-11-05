@@ -1,0 +1,11 @@
+# Riksrevisionens granskning av statliga insatser för att underlätta nyföretagande genom digitalisering
+
+I skrivelsen redovisar regeringen sin bedömning med anledning av Riksrevisionens iakttagelser och rekommendationer i rapporten Enklare att starta företag – statliga insatser för en digital process (RiR 2019:14\).
+
+Riksrevisionens övergripande iakttagelse är att Bolagsverkets, Skatteverkets och Tillväxtverkets åtgärder för att förenkla för företagare med hjälp av digitala tjänster har inneburit att det har blivit enklare att starta företag. De digitala tjänsterna har dock ett antal brister som medför att de inte i önskad utsträckning underlättar för företagare att starta företag. Riksrevisionen rekommenderar regeringen att fortsätta vidta åtgärder för att underlätta digital samverkan mellan myndigheterna.
+
+Regeringen välkomnar Riksrevisionens granskning och konstaterar att den utgör ett värdefullt underlag i det fortsatta arbetet med att förenkla för företagare med hjälp av digitala tjänster. Regeringen instämmer i Riksrevisionens iakttagelse att statliga myndigheters åtgärder för att förenkla för företagare via digitala tjänster har inneburit att det har blivit enklare att starta företag, men också i slutsatsen att de digitala tjänsterna hittills inte underlättar för företagare att starta företag i önskvärd utsträckning.
+
+Regeringen instämmer även i att det finns ett behov av att underlätta digital samverkan mellan myndigheterna. Regeringen har vidtagit ett antal åtgärder inom området förvaltningsgemensam digital utveckling, bland annat genom ett uppdrag till den nyligen inrättade Myndigheten för digital förvaltning att tillsammans med Bolagsverket, Domstolsverket, Ehälsomyndigheten, Försäkringskassan, Lantmäteriet och Skatteverket ta fram förslag om ökad säkerhet och effektivitet i samband med elektroniska Skr. 2019/20:42 informationsutbyten med och inom offentlig sektor. Regeringen har dessutom gett en särskild utredare i uppdrag att bland annat kartlägga och analysera modeller för samordnad IT\-drift, som kan ge bättre förutsättningar för samverkan mellan myndigheter. Det pågående arbetet ligger enligt regeringens uppfattning väl i linje med Riksrevisionens iakttagelser och rekommendationer.
+
+I och med denna skrivelse anser regeringen att Riksrevisionens rapport är slutbehandlad.

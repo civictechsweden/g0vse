@@ -1,0 +1,14 @@
+# När det offentliga konkurrerar ut det civila samhället
+
+Tisdagen den 28 april möttes det partsgemensamma forumet igen. Denna gång under temat ”När det offentliga konkurrerar ut det civila samhället”. I partsgemensamt forum diskuterar representanter från regeringen och civilsamhället hur förutsättningarna för det civila samhällets organisationer kan förbättras.
+
+
+Utifrån temat ”När det offentliga konkurrerar ut det civila samhället” – om roller och gränsdragningar mellan staten och det civila samhället” diskuterade forumet statens roll i förhållande det civila samhället och när staten på olika sätt blir utförare av uppdrag som det civila samhället redan bedriver. Ett exempel på detta kan vara att en organisation under många år har bedrivit kolloverksamhet för barn med särskilda behov. Efter att kommunen börjat ordna egen verksamhet för samma målgrupp saknas sedan deltagare till organisationens kolloverksamhet. Detta är dock mer än en ekonomisk fråga, då det handlar om att organisationernas eget uppdrag och identitet står i fara när dess grundverksamhet av olika anledningar ibland rycks bort.
+
+De idéburna organisationerna menar att detta i förlängningen handlar om statens förtroende för de ideella organisationernas kompetens, bidrag och tilltron till deras självständiga organisering. Både idéburna organisationer och regeringen önskar på olika sätt förändra och utveckla samhället. Ibland har det civila samhället tagit initiativ för detta, och ibland ger staten enskilda eller parallella uppdrag till sig själv för att lösa samma enskilda situation. På kommunal nivå blir det allt vanligare att kommuner själva organiserar frivilligverksamhet i stället för att kanalisera insatser via redan befintliga organisationer i kommunen.
+
+## Diskussion om prioriteringar och konsekvenser för organisationerna
+
+På mötet diskuterade det partsgemensamma forumet också olika exempel på när särskilt myndigheter och kommuner skulle ha behövt mer kunskap om vad deras prioriteringar får för konsekvenser för organisationerna. Regeringskansliets tjänstemän tog upp sitt eget ansvar att ytterligare informera myndigheterna om principerna för politiken för det civila samhället. Regeringskansliet uppmanade också organisationerna att tydliggöra sitt eget ursprungsuppdrag för kommuner och myndigheter så att inte organisationernas identitet urholkas genom projekt. Regeringskansliets tjänstemän betonade dock att många myndigheter redan bedriver ett strategiskt arbete när det gäller samråd med det civila samhällets organisationer.
+
+Den 1 juni träffas det partgemensamma forumet nästa gång och temat är då ”Olika förutsättningar för olika typer av organisationer vid olika tillfällen, olika departement, myndigheter och uppdrag”.

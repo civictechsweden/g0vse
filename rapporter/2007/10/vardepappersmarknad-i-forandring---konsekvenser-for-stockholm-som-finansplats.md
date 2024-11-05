@@ -1,0 +1,3 @@
+# Värdepappersmarknad i förändring - konsekvenser för Stockholm som finansplats
+
+Nya regler och ny konkurrens kommer att ändra förutsättningarna för börsverksamhet i Stockholm och Norden de närmaste åren. Det ger en effektivare värdepappersmarknad, med högre likviditet och lägre kostnader. Det gynnar såväl bolagen som investerarna i regionen. Oberoende av framtida ägare till OMX är det troligt att samtliga OMX nationella börser finns kvar med full service mot emittenter och intermediärer. Detta är huvudslutsatserna i Finansmarknadsrådets första delrapport om följderna av att OMX kan få nya ägare.

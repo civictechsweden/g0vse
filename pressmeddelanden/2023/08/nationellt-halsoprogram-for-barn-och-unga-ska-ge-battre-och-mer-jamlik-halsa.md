@@ -1,0 +1,13 @@
+# Nationellt hälsoprogram för barn och unga ska ge bättre och mer jämlik hälsa
+
+– Vi behöver fler förebyggande och hälsofrämjande åtgärder riktade mot barn och unga. Likaså behöver uppföljningen av barns och ungas hälsa och utveckling förbättras och ske mer systematiskt för att effektiva och likvärdiga insatser ska kunna erbjudas, säger socialminister Jakob Forssmed.
+
+– Syftet med ett nationellt hälsoprogram är att skapa en mer sammanhållen, regelbunden och jämlik hälsouppföljning för barn och unga oavsett var i landet barnet eller den unge bor. Det handlar också om att skapa bättre förutsättningar för att den som behöver ytterligare insatser får tillgång till det på ett snabbare och enklare sätt, säger sjukvårdsminister Acko Ankarberg Johansson.
+
+Regeringen har beslutat att ge Socialstyrelsen, Folkhälsomyndigheten, Myndigheten för familjerätt och föräldraskapsstöd, Specialpedagogiska skolmyndigheten, Statens beredning för medicinsk och social utvärdering och Statens skolverk i uppdrag att ta fram ett nationellt hälsoprogram för barn och unga till och med 20 års ålder.
+
+Socialstyrelsen, som har huvudansvar för uppdraget, ska bland annat ta fram ett hälsoprogram där hälsobesök, hälsosamtal och föräldraskapsstöd utgör kärnan. Inom ramen för det ska kunskapsstöd som bygger på ett personcentrerat förhållningssätt tas fram till de professioner som möter barn och unga. I uppdraget ingår även att identifiera datakällor som är lämpliga att använda för uppföljning samt att bedöma hur data lämpligen ska samlas in. De uppgifter som samlas in inom ramen för det nationella hälsoprogrammet ska kunna bidra till att förbättra den systematiska uppföljningen av barns och ungas mående ur ett folkhälsoperspektiv samt gynna tidiga upptäckter av fysisk eller psykisk ohälsa hos det enskilda barnet.
+
+Socialstyrelsen ska genom samverkan med medverkande myndigheter och övriga berörda aktörer verka för en hög delaktighet i framtagande av programmet. I arbetet ska en bredd av professioner inkluderas. Det är även viktigt att föra dialog med det civila samhället såsom idrottsrörelsen, friluftsorganisationer och organisationer inom kulturområdet utifrån deras roll i att främja barns och ungas fysiska och psykiska hälsa. Därigenom kan goda förutsättningar skapas för att utforma ett ändamålsenligt hälsoprogram.
+
+Socialstyrelsen ska senast den 31 oktober 2026 lämna en slutredovisning av uppdraget till Socialdepartementet. För uppdragets genomförande avsätts totalt 20 miljoner kronor under 2023\. Regeringen beräknar att medel kommer att avsättas för uppdraget under åren 2024–2026 under förutsättning att riksdagen anvisat det.

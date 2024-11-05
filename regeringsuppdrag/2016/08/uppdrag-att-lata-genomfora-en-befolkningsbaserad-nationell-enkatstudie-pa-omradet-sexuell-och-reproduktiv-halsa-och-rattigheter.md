@@ -1,0 +1,10 @@
+# Uppdrag att låta genomföra en befolkningsbaserad nationell enkätstudie på området sexuell och reproduktiv hälsa och rättigheter
+
+Folkhälsomyndigheten får i uppdrag att låta genomföra en befolkningsbaserad nationell enkätstudie på området sexuell och reproduktiv hälsa och rättigheter. Syftet med studien är att skapa bättre förutsättningar för ett effektivt folkhälsoarbete avseende sexuell och reproduktiv hälsa och rättigheter.
+
+
+Senast en motsvarande studie gjordes var 1996 och många samhälleliga förändringar med betydelse för synen på sexualitet, sexuell hälsa och sexuellt beteende har skett sedan dess, bland annat genom utvecklandet av internet och sociala medier. Befolkningsstudiens fokus ska vara på sexuell och reproduktiv hälsa och rättigheter som en hälsodeterminant ur ett folkhälso\- och jämlikhets\- och jämställdhetsperspektiv. Hänsyn ska även tas till ålder, funktionsnedsättning samt beakta ett barnrättsperspektiv. Befolkningsstudien ska också belysa förekomsten av sexuellt\- och annat våld och dess konsekvenser för sexuell och reproduktiv hälsa och rättigheter.
+
+Studier har tidigare utförts beträffande vissa specifika grupper men det finns ingen övergripande studie över hela befolkningen som tar hänsyn till olika gruppers specifika behov i samma studie, exempelvis i relation till diskrimineringsgrunderna. För att möjliggöra jämförelser över tid ska i den mån det bedöms ändamålsenligt enkätfrågor från tidigare genomförda studier på området användas. I detta sammanhang bör uppmärksammas att ny teknik, ny kunskap och nya perspektiv har skapat behov av förändrade frågeställningar.
+
+Studien bör vidare kartlägga grundläggande skillnader och utvecklingen rörande sexuell och reproduktiv hälsa och lyfta vilka områden och grupper som behöver riktade hälsofrämjande insatser. Sådana data är nödvändiga för att kunna åtgärda skillnader i hälsa mellan olika grupper.

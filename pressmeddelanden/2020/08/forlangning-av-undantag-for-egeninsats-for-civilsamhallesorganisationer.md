@@ -1,0 +1,5 @@
+# Förlängning av undantag för egeninsats för civilsamhällesorganisationer
+
+Covid\-19\-pandemin har i många länder lett till att de fattigaste och mest utsatta människorna blivit än mer sårbara. Det internationella utvecklingssamarbetet har en viktig roll i arbetet med att finna globala lösningar och samarbeten. Organisationer inom det civila samhället spelar en viktig roll för att nå ut till människor som lider nöd.
+
+Samtidigt har pandemin lett till att svenska civilsamhällesorganisationer haft svårt att samla in pengar till sin verksamhet. Normalt bidrar organisationerna med en del – den så kallade egeninsatsen – när de genomför verksamhet för Sidas räkning. För att bristen på egna medel inte ska drabba de fattigaste i mottagarländerna beslutar regeringen idag att förlänga det undantag som beslutades i april om att organisationerna måste bidra med egeninsats. Det tidigare beslutet gällde för 2020 och det nya beslutet förlänger undantaget under 2021\. Fr.o.m. 1 januari 2022 återinförs dock kravet på egeninsats.

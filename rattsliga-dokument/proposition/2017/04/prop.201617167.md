@@ -1,0 +1,7 @@
+# Driftsformer för universitetssjukhus
+
+Propositionen innehåller förslag som innebär att landstingen inte får överlämna uppgiften att bedriva hälso\- och sjukvård vid ett universitetssjukhus till någon annan. I förslaget ges regeringen bemyndigande att meddela föreskrifter om vilka sjukhus som anses som universitetssjukhus.
+
+I regeringsförklaringen 2014 aviserade regeringen att lagstiftningen ska ändras så att möjligheterna att sälja eller privatisera universitetssjukhus förhindras. I denna proposition skriver man att även om det ankommer på landstingen att besluta i frågor som rör ansvaret för att erbjuda en god hälso\- och sjukvård, är allas tillgång till en god och jämlik hälso\- och sjukvård av sådan väsentlig betydelse för välfärden i landet som helhet att statliga åtgärder i form av en utökad reglering av vårdens organisering och finansiering måste kunna komma i fråga i vissa fall.
+
+En central del av hälso\- och sjukvården är verksamheten vid universitetssjukhusen. Dessa vårdinrättningar har en nära koppling till forskning, utbildning och utveckling vilket innebär att de stöder och ger förutsättningar för en god vård inom övriga delar av hälso\- och sjukvården. Det är viktigt att det säkerställs att universitetssjukhusen bibehålls och hålls samman. Utvecklingen av dessa enheter måste styras av vad som på lång sikt främjar det allmännas bästa, dvs. patienterna, samtliga landsting och riket som helhet och inte vad som i ett kortare perspektiv framstår som mest fördelaktigt för ett enskilt landsting eller annan vårdgivare.

@@ -1,0 +1,9 @@
+# Forskning och ny teknik för framtidens energisystem
+
+I denna proposition anges riktlinjer för de fortsatta långsiktiga energipolitiska insatserna kring forskning, utveckling, demonstration och kommersialisering på energiområdet.
+
+De förslag som lämnas syftar till en ökad fokusering och koncentration av resurserna samt till att öka ambitionsnivån vad gäller att omsätta resultaten från forsknings\- och utvecklingsinsatser på energiområdet i kommersiella produkter som kan bidra till såväl omställningen till ett hållbart energisystem som Sveriges ekonomiska tillväxt.
+
+Både omställningen av energisystemet och de insatser och uppgifter som är förknippade med uppbyggande av kunskap och utveckling av teknik för framtidens energisystem är av långsiktig karaktär. Verksamheten skall därför ges långsiktiga förutsättningar och hanteras som övriga forskningsanslag i statsbudgeten. Regelbunden uppföljning och oberoende utvärderingar skall genomföras som underlag för successiva revideringar av inriktning och mål.
+
+Tydliga och uppföljningsbara mål ska säkerställa att resurserna för de statliga insatserna för att främja utvecklingen av teknik för framtidens energisystem används på bästa sätt. Det övergripande målet för insatserna kring forskning, utveckling och demonstration på energiområdet skall kompletteras med visioner, operativa mål och delmål. Statens energimyndighet har ansvaret att utifrån dessa övergripande mål utforma insatserna. Verksamheten byggs upp med utgångspunkt i programmets mål och kriterier och är inte låst till enskilda utpekade tekniker. Balans bör eftersträvas mellan insatser för energitillförsel och effektivare energianvändning.

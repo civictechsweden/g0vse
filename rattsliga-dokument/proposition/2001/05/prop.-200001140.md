@@ -1,0 +1,3 @@
+# Reformerade regler för bostadstillägg till pensionärer m.fl.
+
+I och med ålderspensionsreformen avskaffas det särskilda grundavdraget för pensionärer. För att kompensera för detta kommer bruttopensionerna att höjas, vilket leder till att nuvarande system för bostadstillägg till pensionärer måste anpassas till de höjda bruttopensionerna. Det övergripande syftet med de föreslagna förändringarna är att bostadstillägget skall göras om så att det fungerar på ett likvärdigt sätt med de nya systemen för ålderspension, efterlevandepension och sjuk\- och aktivitetsersättning som med de nuvarande pensionssystemen. Därvid är utgångspunkten dels en likartad fördelningsprofil med den som gäller idag, dels oförändrade kostnader.

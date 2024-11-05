@@ -1,0 +1,9 @@
+# Industrin som möjliggörare för digital och grön omställning
+
+– Förhandlingarna av dessa förordningar var högt prioriterade under det svenska ordförandeskapet i EU, och vi hade världens ögon på oss. Nu behöver vi se till att Sverige tillämpar och genomför förordningarna för att utifrån våra förutsättningar på bästa sätt bidra till att stärka såväl Sveriges som Europas positioner i de globala värdekedjorna för halvledare och miljöteknik, säger energi\- och näringsminister Ebba Busch.
+
+Förordningen om halvledare slutförhandlades under det svenska ordförandeskapet och har nu trätt i kraft. Halvledare är själva förutsättningen för vårt digitala samhälle och spelar också stor roll för lösningar på samhällsutmaningar såsom klimatomställningen. Halvledare pekas i många sammanhang ut som ett strategiskt och kritiskt teknikområde och spelar en viktig roll i global geopolitik. Förordningen syftar till att stärka Europas positioner i de globala värdekedjorna för halvledare.
+
+Förhandlingen om förordningen om nettonollindustrin pågår genom trepartssamtal mellan Ministerrådet, Europaparlamentet och EU\-kommissionen men förväntas slutföras under våren. För att på bästa sätt vara redo för när förordningen träder i kraft ger regeringen Tillväxtverket i uppdrag att analysera hur vissa delar av förordningen bör genomföras på nationell nivå. Uppdragen avser förslagets delar om regulatoriska sandlådor (en form av försöksverksamhet för att testa nya regelverk), urval av strategiska projekt och övervakning av värdekedjorna. Vinnova ska stödja Tillväxtverket i delen som rör regulatoriska sandlådor.
+
+Uppdragen ges till Tillväxtverket genom myndighetens regleringsbrev för 2024 och ska redovisas senast den 1 april respektive 20 december 2024\. Vinnova ges motsvarande uppdrag inom sitt verksamhetsområde.

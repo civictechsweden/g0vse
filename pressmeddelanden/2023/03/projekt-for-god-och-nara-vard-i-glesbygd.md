@@ -1,0 +1,11 @@
+# Projekt för god och nära vård i glesbygd
+
+– Tillgängligheten inom vården ska öka på landsbygd och i glesbygd och då måste vi hitta arbetssätt som fungerar i verkligheten. Projektet Samordnad utveckling för god och nära vård i glesbygdsperspektiv är ett gott exempel på att fördjupad samverkan mellan kommuner och regioner i utveckling av exempelvis gemensamma utförarorganisationer och digitala arbetssätt kan förbättra tillgänglighet och kompetensförsörjning, säger sjukvårdsminister Acko Ankarberg Johansson.
+
+– Tillgången till en jämlik och patientsäker vård är en viktig förutsättning för att kunna bo, leva och verka i hela vårt land. Invånare i alla delar av landet ska ha tillgång till en vård med god kontinuitet och delaktighet för patienterna, säger Peter Kullgren landsbygdsminister.
+
+Det pågående projektet Samordnad utveckling för god och nära vård i glesbygdsperspektiv består av femton kommuner och fyra regioner i norra Sverige som delats upp i fyra modellområden. Inom modellområdena samverkar region och kommun mot gemensamt fastställda mål som delats upp i modellområden som inom projektet samverkar mot gemensamt fastställda mål. Projektet har hittills bland annat lett till fördjupad samverkan mellan kommuner och regioner liksom gemensamma utförarorganisationer för hemsjukvård och hemrehabilitering samt nya arbetssätt för att förbättra tillgänglighet till vården i dessa regioner.
+
+Nu vill NRF bygga vidare på projektet bland annat genom att fördjupa samarbetet med gemensam planering och uppföljning av den nära vården, utveckla organisatoriska lösningar för primärvården utifrån lokala behov och utveckla den specialiserade vården liksom samarbetet i norra Sveriges glesbygd kring kompetensförsörjning.
+
+De insatser som har genomförts och som det planeras för inom ramen för projektet Samordnad utveckling för god och nära vård i glesbygdsperspektiv ligger väl i linje med den pågående primärvårdsreformen och överenskommelsen God och nära vård 2023 och med Tidöavtalets samarbetsprojekt för Hälso\- och sjukvården. Regeringen har därför beviljat Norra sjukvårdsregionförbundet (NRF) 12 miljoner kronor för projektet för 2023 och beräknar att avsätta ytterligare medel under 2024 och 2025 under förutsättning att riksdagen beviljar medel för det aktuella anslaget.

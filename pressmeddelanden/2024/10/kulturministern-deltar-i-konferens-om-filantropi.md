@@ -1,0 +1,7 @@
+# Kulturministern deltar i konferens om filantropi
+
+På konferensen deltar kulturministern i ett panelsamtal om hur vi definierar värdet av kultur och vem som ska betala för den.
+
+–Samspelet mellan offentlig finansiering och privat finansiering är oerhört angelägen. Viss kultur kommer alltid att behöva offentlig finansiering men kulturen blir mer självständig om den står på flera ben. Vi behöver bygga upp en tro på att det går att finansiera kultur på fler sätt än med offentliga medel. Att stärka kultursektorns möjlighet till breddad finansiering och minska det offentliga beroendet handlar ytterst om att öka kulturens frihet, säger kulturminister Parisa Liljestrand.
+
+Arrangör av Swedish Philanthropy Summit är Filantropiskt forum som verkar inom ramen för Entreprenörsforum. Filantropiskt forum grundades 2011 och syftet är att belysa hur filantropiska insatser bidrar till samhällsutveckling. Forumet samlar relevanta aktörer för att sprida och fördjupa kunskaper om filantropins betydelse samt stärka villkoren för filantropiska insatser. Entreprenörsforum är en oberoende forskningsstiftelse med huvuduppgift att initiera, bedriva och kommunicera policyrelevant forskning inom bland annat entreprenörskap, innovation och tillväxt. Finansieringen består av anslag från bland andra Vinnova och Örebro universitet samt ett antal privata forskningsstiftelser, näringslivs\- och andra intresseorganisationer, företag och enskilda entreprenörer.

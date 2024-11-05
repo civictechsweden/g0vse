@@ -1,0 +1,7 @@
+# Skattebefrielse för personbilar med bättre miljöegenskaper
+
+För att även fortsättningsvis stimulera till inköp av personbilar med bättre miljöegenskaper efter det att miljöbilspremien upphör den 1 juli 2009, föreslås att nya personbilar med dessa egenskaper befrias från fordonsskatt under fem år från det att bilen togs i bruk för första gången. Samma krav som ställs på en bil för att ägaren ska vara berättigad till miljöbilspremie föreslås gälla även för att en bil ska befrias från fordonsskatt. Från den 1 januari 2011 måste dock bilen uppfylla strängare avgaskrav för att omfattas av skattebefrielsen. Kraven i övrigt för att omfattas av skattebefrielsen ska efterhand skärpas så att andelen av de sålda bilarna som omfattas av skattebefrielsen blir ungefär konstant. Därmed stimuleras försäljningen av de miljömässigt bästa bilarna. Skärpta krav bör endast gälla för bilar som tas i bruk efter det att kraven har ändrats.
+
+Skattebefrielsen föreslås omfatta alla personbilar som uppfyller kraven oavsett ägare. För nybilsköpare förväntas fordonsskattebefrielsen fungera som en kombination av information och ekonomiskt incitament. Fordonsskattebefrielsen skiljer sig beloppsmässigt åt mellan olika bilar, men uppgår i genomsnitt till knappt 1 200 kronor per bil och år.
+
+Skattebefrielsen föreslås träda i kraft den 1 januari 2010, men bör gälla retroaktiv och tillämpas för bilar som tas i bruk från och med den 1 juli 2009\.

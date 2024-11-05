@@ -1,0 +1,8 @@
+# Uppdrag att genomföra insatser för att stärka utbildningens kvalitet för nyanlända barn och elever och vid behov för barn och elever med annat modersmål än svenska
+
+Detta uppdrag ersätter det av regeringen den 4 juni 2015 beslutade uppdraget att genomföra insatser för att stärka utbildningens kvalitet för nyanlända elever och vid behov för elever med annat modersmål än svenska (U2015/03356/S).
+
+
+Regeringen ger Statens skolverk i uppdrag att genomföra systematiska insatser i syfte att stärka huvudmännens förmåga att på kort och lång sikt erbjuda nyanlända barn och elever en utbildning av hög och likvärdig kvalitet. Målet är högre måluppfyllelse i förskolan, förskoleklassen och fritidshemmet och att förbättra förutsättningarna för goda kunskapsresultat för eleverna i grund\- och gymnasieskolan. Vid behov ska insatserna även omfatta barn och elever som inte är nyanlända om de har ett annat modersmål än svenska.
+
+Skolverket ska följa upp satsningen och årligen senast den 17 februari och den 25 oktober lämna en redovisning till Regeringskansliet (Utbildningsdepartementet) avseende dels vilka insatser som planeras, har påbörjats respektive slutförts inom ramen för uppdraget, dels insatsernas utfall samt en analys av behovet av de redovisade insatserna och utfallet av desamma. Redovisningen ska även omfatta hur stor del av de samlade medlen som har använts till detta uppdrag respektive uppdraget om samverkan för bästa skola.

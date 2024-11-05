@@ -1,0 +1,4 @@
+# Ändrad sammansättning i Arbetsdomstolen i diskrimineringstvister
+
+I propositionen föreslås att ett mål där ett yrkande helt eller delvis grundas på ett sådant förhållande som avses i den nya diskrimineringslagen (2008:567\) ska avgöras av Arbetsdomstolen i en sammansättning med fem ledamöter, varav en för vardera arbetsgivar\- och arbetstagarsidan. Om parterna i målet begär att Arbetsdomstolen ska ha en sammansättning med sju ledamöter, ska dock en sådan sammansättning få användas. Vidare föreslås att domstolen vid hanteringen av diskrimineringsmål även ska vara domför i en sammansättning med tre lagfarna domare vid behandling av frågor om prövningstillstånd eller vid prövning av annat än arbetsrättsliga frågor som inte sker vid huvudförhandling.
+Ändringarna föreslås träda i kraft den 1 januari 2009\.

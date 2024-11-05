@@ -1,0 +1,16 @@
+# Strategidokument: Sveriges nationella skogsprogram
+
+Skogen ger oss hållbara lösningar på viktiga samhällsfrågor. Den står för avgörande klimatsmarta alternativ för att minska användningen av fossila råvaror och skapar fler jobb i hela landet. Den utgör en värdefull naturresurs med både bidrag till det svenska välfärdsbygget och svenskars välmående och naturupplevelser. Sverige ska visa vägen och vara ett föredöme internationellt i hållbart brukande och bevarande av skog och i omställningen till en växande bioekonomi, bort från fossilberoendet.
+
+
+Efterfrågan på skogens hållbara lösningar förväntas öka. Eftersom våra målsättningar som berör skog – både som land och som individer – är många och olika anser regeringen att det är viktigt att vi ökar samsynen på lång sikt. På så sätt lägger vi grunden för långsiktiga spelregler som ger investeringssäkerhet kring skogen och dess värdekedja vilket möjliggör för en fossilfri framtid, hållbar tillväxt och sysselsättning i hela landet.
+
+Ett långsiktigt skogsprogram behövs för att främja hållbara, konkurrenskraftiga och biobaserade näringar med bas i skogen. En god tillgång till nationell biomassa från den svenska skogen ska säkerställas genom hållbar skoglig tillväxt inom ramen för att de nationella miljömålen nås. För fortsatt lönsamhet och investeringsvilja längs skogens hela värdekedja behövs vision, mål och insatser för ökad samsyn.
+
+Regeringen har därför slagit fast en vision för skogsprogrammet: "Skogen, det gröna guldet, ska bidra med jobb och hållbar tillväxt i hela landet samt till utvecklingen av en växande bioekonomi". För att uppnå visionen som syftar till att ännu bättre ta vara på skogens möjligheter har regeringen, i bred dialog med många engagerade, arbetat fram denna strategi för Sveriges nationella skogsprogram. Strategin innehåller mål för fem fokusområden och skogsprogrammets organisation för en fortsatt dialogprocess.
+
+Engagemang och insatser från företag, organisationer och intressenter i skogens hela värdekedja tillsammans med myndigheter, lärosäten och regeringen är grundförutsättningar för ett framgångsrikt genomförande av skogsprogrammet. Såväl nationell som regional dialog ingår i skogsprogrammet. Även internationella skogsfrågor ingår som en självklar del av skogsprogrammet.
+
+Regeringen kommer också besluta om konkreta åtgärder utifrån skogsprogrammets vision och mål, till stöd för skogsprogrammets strategi. Dessa åtgärder ska sedan samlas i en kommande handlingsplan. Den första versionen av handlingsplanen kommer i huvudsak att omfatta åtgärder där staten har ett huvudansvar. Handlingsplanen kommer att uppdateras i dialog med olika intressenter, där inte minst strategisk rådgivning från skogsprogrammets programråd kommer spela en central roll. Regeringens förhoppning är att skogssektorn och samhället i stort medverkar med åtgärder till förverkligandet av visionen och målen.
+
+Sverige behöver skog och skogsbruket i en omställning till ett hållbart och fossilfritt samhälle och till att skapa jobb och tillväxt i hela landet.

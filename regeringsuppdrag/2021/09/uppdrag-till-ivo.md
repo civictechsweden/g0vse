@@ -1,0 +1,16 @@
+# Uppdrag om förstärkt och utvecklad tillsyn av socialtjänstens och hälso- och sjukvårdens arbete mot mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck
+
+Regeringen uppdrar åt Inspektionen för vård och omsorg (IVO) att förstärka och utveckla tillsynen av socialtjänstens och hälso\- och sjukvårdens arbete mot mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck, inbegripet våld som omfattas av den nationella strategin för att förebygga och bekämpa mäns våld mot kvinnor som barn utsätts för eller bevittnar. Utvecklingen ska avse hur tillsynen kan vara mer förebyggande och riskbaserad samt bidra till lärande för berörda aktörer. Inom ramen för uppdraget ingår att genomföra tillsynsinsatser.
+
+
+Inom ramen för uppdraget ska IVO utveckla verktyg och nödvändig datatillgång för att analysera risker på området. I arbetet med uppdraget ska dataskydd och integritetsaspekter genomgående beaktas.
+
+Arbetet ska ha sin utgångspunkt i den nationella strategin för att förebygga och bekämpa mäns våld mot kvinnor och inkludera samtliga områden som omfattas av strategin. Detta omfattar, men begränsas inte till, vad som framgår av Socialstyrelsens föreskrifter och allmänna råd om våld i nära relationer (SOSFS 2014:4\), inklusive att beakta särskilda behov. Ett särskilt fokus ska läggas på hur insatser ges och anpassas för personer som utsätts, eller riskerar att utsättas, för hedersrelaterat våld och förtryck.
+
+IVO ska i sitt arbete med uppdraget samarbeta med Socialstyrelsen, Jämställdhetsmyndigheten och Länsstyrelsen i Östergötlands län (Nationella kompetensteamet mot hedersrelaterat våld och förtryck). Myndigheten ska även inhämta kunskap och erfarenheter från länsstyrelserna, Myndigheten för vård\- och omsorgsanalys, Enheten för konsulära och civilrättsliga ärenden på Utrikesdepartementet, Uppsala universitet (Nationellt centrum för kvinnofrid), Linköpings universitet (Barnafrid – Nationellt kunskapscentrum), Polismyndigheten samt andra relevanta aktörer.
+
+Vid genomförandet av uppdraget ska IVO beakta utsattheten och behoven hos personer med funktionsnedsättning och hos hbtqi\-personer. Barns utsatthet och barnets rättigheter i enlighet med FN:s konvention om barnets rättigheter (barnkonventionen) ska beaktas samt i tillämpliga delar de rekommendationer om Sveriges efterlevnad av konventionen om förebyggande och bekämpning av våld mot kvinnor och våld i hemmet (Istanbulkonventionen) som Europarådet lämnade 2019\.
+
+För uppdragets genomförande får IVO använda högst 3 000 000 kronor under 2021\. Kostnaderna ska belasta utgiftsområde 13 Jämställdhet och nyanlända invandrares etablering, anslaget 3:1 Särskilda jämställdhetsåtgärder, anslagspost 12 Jämställdhetsinsatser efter regeringsbeslut.
+
+Senast den 29 april 2022 ska IVO till regeringen (Arbetsmarknadsdepartementet) lämna en delredovisning som innehåller en plan för myndighetens utvecklade tillsyn på området för 2022 och 2023\. Senast den 30 april 2024 ska IVO lämna en slutredovisning av uppdraget till regeringen (Arbetsmarknadsdepartementet).

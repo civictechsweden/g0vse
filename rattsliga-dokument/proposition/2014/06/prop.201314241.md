@@ -1,0 +1,6 @@
+# Tydlig prisuppgift vid taxiresor
+
+I propositionen lämnas förslag till lagändringar inom taxitrafikområdet. Det föreslås att den som har taxitrafiktillstånd och som tillämpar ett jämförpris över 500 kr för färden ska se till att en prisuppgift lämnas.
+Prisuppgiften ska ange ett högsta pris för färden. Uppgiften ska lämnas när färden beställs. Bevis om prisuppgiften ska lämnas till passageraren före färden och ska bevaras hos taxiföraren och tillståndshavaren. I propositionen lämnas också förslag som avser att underlätta myndigheternas tillsyn och administrativa hantering av taxitrafikärenden. Det föreslås att ett taxifordons registreringsskylt ska få tas om hand av en polisman om taxameterutrustningen inte uppfyller föreskrivna krav. Det föreslås att en taxiförarlegitimation inte längre ska vara giltig om en annan taxiförarlegitimation har lämnats ut. Det föreslås att kravet att förnya en taxiförarlegitimation inom tio år efter det att den senast har förnyats bara ska gälla om den tidigare förnyelsen innebar att legitimationen försågs med nya uppgifter. Det föreslås slutligen att en taxiförarlegitimation ska få tas om hand av en polisman om legitimationen är ogiltig på den grunden att legitimationen inte har förnyats eller att en annan legitimation har lämnats ut.
+
+Författningsändringarna föreslås träda i kraft den 1 januari 2015\.

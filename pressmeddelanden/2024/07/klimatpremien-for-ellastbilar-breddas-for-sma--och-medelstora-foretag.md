@@ -1,0 +1,9 @@
+# Klimatpremien för ellastbilar breddas för små- och medelstora företag
+
+Beslutet innebär att små\- och medelstora företag kan få ett högre stöd när de investerar i ett utsläppsfritt fordon och att det även gäller när de väljer att leasa fordonen. Ändringarna innebär också att företag kan få stöd för att leasa fordongaslastbilar. Beslutet är viktigt då en majoritet av de nya lastbilar som rullar på de svenska vägarna finansieras genom leasing.
+
+– Marknadsintroduktionsstödet för utsläppsfria och fossilfria lastbilar och arbetsmaskiner är ett av regeringens styrmedel för att elektrifiera transportsektorn och minska utsläppen av växthusgaser. Stödet sänker trösklarna för företagen att ställa om och skapar bättre förutsättningar för fordonstillverkarna att utveckla utsläppsfria och fossilfria fordon. Dagens beslut innebär en efterfrågad förändring, eftersom åkerier ofta är småföretag som använder sig av leasing. Regeringen värnar om småföretagens möjlighet att söka det högre stödet – så att fler ellastbilar kan rulla på våra vägar, säger klimat\- och miljöminister Romina Pourmokhtari.
+
+– Elektrifieringen av industrin och transportsektorn är en viktig del i klimatomställningen. Att bredda klimatpremien för eldrivna lastbilar så att även små\- och medelstora företag som leasar sina lastbilar kan söka det högre stödet är ett viktigt steg. Ju fler som kan vara med och ställa om desto snabbare kan vi minska Sveriges utsläpp, säger finansminister Elisabeth Svantesson.
+
+Beslutet förbättrar förutsättningarna för företag att fatta de beslut som krävs för att minska Sveriges utsläpp. Förändringarna träder i kraft den 27 augusti 2024\. De nya reglerna kommer också att tillämpas när det gäller ansökningar som beslutats efter den 13 februari 2024 men där stödet inte har betalats ut före ikraftträdandet av de nya reglerna.

@@ -1,0 +1,10 @@
+# Personnummer och samordningsnummer
+
+Personnumren räcker inte till för alla som ska ha dem. Det är framför allt för födelsetider den 1 januari eller den 1 juli vissa år under 1950\- och 1960\-talen som födelsenummer saknas. Totalt saknas födelsenummer för åtta födelsetider, samtliga avseende män. Sjutton födelsetider har färre än 50 lediga nummer. För att komma till rätta med denna brist föreslår regeringen i denna lagrådsremiss att Skatteverket, om det saknas födelsenummer att tilldela för en viss födelsetid, får möjlighet att i stället ange en födelsedagen närliggande dag vid fastställande av personnummer. Följden av förslaget blir att ett antal personer kommer att få personnummer där födelsetiden avviker från den verkliga födelsedagen med en eller högst ett par dagar. Eftersom det kommer att röra sig om personer som är äldre än 30\-40 år bör denna mindre avvikelse inte innebära några avgörande problem för den enskilde och inte heller ha någon särskild betydelse för de myndigheter eller privata företag som har behov av uppgift om födelsetid. Nackdelen med avvikelsen måste dessutom ställas mot att personnumrets konstruktion behålls, vilket innebär mycket stora kostnadsbesparingar för samhället jämfört med en mer ingripande förändring där personnumrets konstruktion ändras.
+
+Lagrådsremissen innehåller även förslag om att vissa personer som omfattas av regler om immunitet och privilegier ska kunna tilldelas personnummer trots att de inte folkbokförs.
+
+Vidare lämnas förslag som ger förutsättningar dels för regeringen att förordna om att även ett annat organ än en myndighet ska få begära samordningsnummer, dels för regeringen eller den myndighet som regeringen bestämmer att meddela närmare föreskrifter om tilldelningen 1
+av samordningsnummer och personnummer till de personer som omfattas av regler om immunitet och privilegier.
+
+Förslaget som rör att tilldela personer som omfattas av regler om immunitet och privilegier personnummer, föreslås träda i kraft den 1 juni 2009\. Förslagen i övrigt föreslås träda i kraft den 1 juli 2009\.

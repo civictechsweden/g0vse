@@ -1,0 +1,8 @@
+# Stärkt konsumentskydd på inlåningsmarknaden
+
+Konsumentskyddet på finansmarknaden är en prioriterad fråga för
+regeringen. Inlåningsverksamhet är verksamhet där man tar emot medel från allmänheten som ska betalas tillbaka. Sådan verksamhet kan drivas av kreditinstitut (banker och kreditmarknadsföretag) och inlåningsföretag. På kreditinstitut ställs höga krav på eget kapital och organisation och instituten står under löpande tillsyn av Finansinspektionen. Motsvarande krav eller tillsyn gäller inte för inlåningsföretag. Insättare, främst konsumenter, kan välja att göra sina insättningar i kreditinstitut eller i inlåningsföretag. Till skillnad från insättningar i kreditinstitut omfattas insättningar i inlåningsföretag inte av insättningsgarantin. Det är svårt för konsumenter att uppfatta skillnaden mellan insättningar som omfattas av insättningsgarantin och insättningar som inte gör det.
+
+Bestämmelserna om inlåningsföretag finns i lagen om inlåningsverksamhet. För att stärka konsumentskyddet på inlåningsmarknaden föreslås att den lagen ska upphävas. Som följd av det föreslås att undantaget från tillståndsplikt för finansieringsrörelse för vissa ekonomiska föreningar i lagen om bank\- och finansieringsrörelse ska tas bort. Förslagen medför att inlåningsverksamhet inte längre får drivas med stöd av lagen om inlåningsverksamhet. Företag som vill fortsätta att driva inlåningsverksamhet får i stället ansöka om tillstånd att driva bank\- eller finansieringsrörelse. Vissa kooperativa företag som före ikraftträdandet var registrerade hos Finansinspektionen ska dock få fortsätta att driva sin inlåningsverksamhet eller icke tillståndspliktig finansieringsrörelse.
+
+Lagändringarna föreslås träda i kraft den 1 januari 2021\.

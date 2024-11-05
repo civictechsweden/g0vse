@@ -1,0 +1,3 @@
+# Tilläggsdirektiv till Utredningen om avveckling av vissa myndigheter inom vård- och omsorgsområdet m.m. (S 2013:16)
+
+Den särskilda utredaren med uppdrag att ansvara för avvecklingen av Statens folkhälsoinstitut och Smittskyddsinstitutet (dir. 2013:119\) ska från och med den 1 januari 2015 ha arbetsgivaransvaret för den personal som sagts upp mot bakgrund av att de motsatt sig övergång enligt 6 b § lagen (1982:80\) om anställningsskydd (LAS) till den nya Polismyndigheten som inleder sin verksamhet den 1 januari 2015\. Detta tilläggsuppdrag ska redovisas senast den 1 september 2015\. Utredningstiden för hela uppdraget förlängs och uppdraget ska i sin helhet redovisas senast den 1 november 2015\.

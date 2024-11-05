@@ -1,0 +1,7 @@
+# Återkallelse av uppehållstillstånd som har meddelats av Regeringskansliet för personer med anknytning till utländska beskickningar, karriärkonsulat eller internationella organ
+
+Lagrådsremissen rör de uppehållstillstånd som Regeringskansliet beviljar för personer med anknytning till utländska beskickningar, karriärkonsulat och internationella organ. I lagrådsremissen föreslås en ny bestämmelse i utlänningslagen (2005:716\) om att regeringen har rätt att meddela föreskrifter om förutsättningarna för att bevilja och återkalla uppehållstillstånd som meddelas för dessa personer.
+
+Det huvudsakliga syftet med ändringen är att möjliggöra för bestämmelser i förordning om återkallelse av sådana uppehållstillstånd. Syftet är också att förtydliga regleringen om när sådana uppehållstillstånd får beviljas.
+
+Lagändringen föreslås träda i kraft den 1 juli 2022\.

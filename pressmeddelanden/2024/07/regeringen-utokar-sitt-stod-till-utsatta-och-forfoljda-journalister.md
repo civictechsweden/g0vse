@@ -1,0 +1,5 @@
+# Regeringen utökar sitt stöd till utsatta och förföljda journalister
+
+– Journalister som ägnar sig åt grävande journalistik i ofria miljöer blir allt oftare föremål för rättsliga processer som ett sätt att tysta dem. Regeringen har därför beslutat gå in med fem miljoner kronor i stöd till Reporters Shield. Att stärka yttrandefrihet och demokrati är en viktig del av regeringens reformagenda för biståndet. Stödet till Reporters Shield är en del av det arbetet, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+
+Sverige har även tidigare ökat stödet till organisationer som stöttar oberoende journalister runt om i världen. Regeringen har nyligen fattat beslut om ett kraftigt utökat stöd till två organisationer som arbetar specifikt med att stötta journalister och försvarare av mänskliga fri\- och rättigheter i repressiva miljöer, inklusive i Östeuropa. European Endowment for Democracy (EED) har i år tillförts 15 miljoner kronor och stödet till Prague Civil Society Centre (Pragcentret) har fördubblats från tio till 20 miljoner kronor.

@@ -1,0 +1,10 @@
+# Europadomstolens beslut (2014-12-09) i målet Dahlberg mot Sverige
+
+Europadomstolen har fattat ett beslut avseende ett klagomål om Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till beslutet i fulltext samt en sammanfattning av beslutet.
+
+
+## Sammanfattning av beslutet
+
+Bakgrunden till målet var att klaganden begärde försäkringsersättning för en whiplashskada. Försäkringsbolaget anlitade då ett övervakningsbolag som filmade henne i hemlighet för att utreda hennes rätt till ersättning. Detta ledde fram till en polisanmälan om försäkringsbedrägeri. Klaganden åtalades även för detta brott, men frikändes. Efter den straffrättsliga processen väckte klaganden en skadeståndstalan mot försäkringsbolaget och anförde bl.a. att de kränkt hennes rättigheter enligt artikel 8 i konventionen genom att ha smygfilmat henne under försäkringsutredningen. Denna talan utmynnade i en dom av Svea hovrätt att skadeståndsskyldighet inte förelåg för försäkringsbolaget.
+Inför Europadomstolen anförde klaganden att övervakningen innebar ett oberättigat intrång i hennes rätt till respekt för privatliv enligt artikel 8 i Europakonventionen. Hon åberopade även artikel 13 i konventionen och anförde att det i svensk rätt saknades ett effektivt rättsmedel mot den typ av kränkning hon utsatts för.
+Europadomstolen ansåg att det civila rättsmedel (talan om skadestånd) som fanns tillgängligt och som även utnyttjats av klaganden var tillräckligt för att Sverige skulle anses ha uppfyllt sin positiva förpliktelse att skydda enskilda mot den typ av handlingar som var aktuella i målet. Vidare fann Europadomstolen att de nationella domstolarna hade balanserat de motståenden intressena på ett tillfredställande sätt. Mot denna bakgrund ansåg Europadomstolen att klagomålet var uppenbart ogrundat och att det därför skulle avvisas.

@@ -1,0 +1,3 @@
+# Samarbetsstrategi: Turkiet 2005 - 2009
+
+Samarbetet med Turkiet kommer att präglas av landets förhandlingar om medlemskap i den Europeiska Unionen, som inleds hösten 2005\. EU\-kommissionen har efterlyst en aktiv dialog mellan medlemsländerna och Turkiet för att stödja reformarbetet och öka det mellanfolkliga utbytet, inte minst på det civila samhällets nivå. Det område som stått mest i fokus under EUs tidigare dialog är de mänskliga rättigheterna, där kvinnors rättigheter, minoritetsfrågor och tortyr särskilt uppmärksammats. Landets ekonomi är förhållandevis god, även om problem bl a med korruptionen kvarstår.

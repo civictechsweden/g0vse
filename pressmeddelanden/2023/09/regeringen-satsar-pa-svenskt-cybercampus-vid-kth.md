@@ -1,0 +1,11 @@
+# Regeringen satsar på svenskt cybercampus vid KTH
+
+– Liknande cybercampus har etablerats i exempelvis Norge och Nederländerna. Länder som liksom Sverige har ett stort behov av kompetensförsörjning, forskning och innovation på cybersäkerhetsområdet. Cybercampus Sverige ska fokusera på forskning, innovation och utbildning som stöd för alla samhällssektorer och möta behov som inte adresseras av någon av de andra aktörerna på cybersäkerhetsområdet. Regeringen ser fram emot värdefulla bidrag från Cybercampus Sverige för att stärka samhällets förmåga att hantera cyberhoten, säger utbildningsminister Mats Persson.
+
+Cybercampus Sverige ska bli ett nationellt samarbete mellan flera universitet, forskningsinstitut, myndigheter och företag över hela Sverige. Kungl. Tekniska högskolan (KTH) har i dag ett centrum för cyberförsvar och informationssäkerhet (CDIS) som knyter samman forskning och utbildning inom cybersäkerhet och informationssäkerhet. Under 2022 presenterades förslaget att det ska inrättas ett svenskt cybercampus. KTH, RISE, Försvarsmakten, Karlstads universitet, Saab, Ericsson och Myndigheten för samhällsskydd och beredskap (MSB) har sedan deltagit i ett Vinnovafinansierat planeringsprojekt för etableringen av Cybercampus Sverige. Regeringen föreslår nu att KTH tillförs medel för att bygga upp utbildning och forskning inom ramen för satsningen.
+
+– Vi befinner oss i allvarstider. Cyberattacker och cyberspionage mot Sverige och svenska intressen är en stor säkerhetsutmaning. Vår förmåga att hantera cyberhoten måste ses ur ett brett perspektiv. Det handlar inte bara om nationell säkerhet, utan också om Sveriges konkurrenskraft och i förlängningen vårt ekonomiska välstånd. Arbetet med att stärka samhällets informations\- och cybersäkerhet står därför högt upp på regeringens agenda, säger försvarsminister Pål Jonson.
+
+Cybercampus Sverige kommer att innebära en betydande förstärkning av kompetensförsörjningen av cybersäkerhetsexperter. Det är helt nödvändigt för att möta den efterfrågan som finns i både civil och militär verksamhet.
+
+Regeringen avser att överlämna detta förslag till riksdagen i budgetpropositionen för 2024\. Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

@@ -1,0 +1,5 @@
+# Uppföljning av den Nationella handlingsplanen för äldrepolitiken
+
+I juni 1998 antog riksdagen regeringens förslag till Nationell handlingsplan för äldrepolitiken (prop. 1997/98:113\) för åren 19992001\. Syftet med handlingsplanen var att skapa en nationell samling och enighet kring åtgärder för att utveckla äldrepolitiken på lång sikt.
+
+I skrivelsen redogör regeringen för hur arbetet med att genomföra den nationella handlingsplanen för äldrepolitiken utvecklats. Regeringen redovisar vilka åtgärder som gjorts inom de bristområden som prioriterades inom ramen för handlingsplanen, de särskilda satsningar som gjordes på nya initiativ och försöksverksamheter samt vad som i övrigt utvecklats inom äldrepolitiken. Slutligen görs en sammanfattning av hittills uppnådda resultat av genomförandet av handlingsplanen.

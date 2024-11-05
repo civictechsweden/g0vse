@@ -1,0 +1,3 @@
+# Säkerheten vid offentliga sammanträden i kommuner och landsting
+
+En särskild utredare ska utreda i vilken utsträckning det behövs säkerhetsfrämjande åtgärder i samband med offentliga sammanträden i kommuner och landsting. Om utredaren bedömer att det finns ett sådant behov ska utredaren lämna förslag som gör det möjligt att förstärka säkerheten vid sådana sammanträden. I första hand bör utredaren överväga att lämna förslag till en lagstiftning som gör det möjligt att genomföra säkerhetskontroller i form av kroppsvisitation. Om det finns skäl som talar för en annan lösning är utredaren oförhindrad att föreslå en sådan. Utredaren ska redovisa sitt uppdrag senast den 31 januari 2009

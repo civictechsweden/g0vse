@@ -1,0 +1,10 @@
+# Organisationsstrategi för Sveriges samarbete med Gröna klimatfonden (GCF) 2016–2018
+
+Vid FN:s klimatmöte i Cancun 2010 enades parterna om att etablera en ny klimatfond, den Gröna klimatfonden. Fonden är tillsammans med den globala miljöfaciliteten (GEF) en del av klimatkonventionens finansiella mekanism. Organisationsstrategin för Sveriges samarbete med Gröna klimatfonden (Green Climate Fund, GCF) avser den återstående perioden av fondens initiala påfyllnad, 2016\-2018\.
+
+
+En organisationsbedömning av fonden kommer att kunna genomföras inför utarbetandet av nästa strategi då fonden inte blev fullt operativ förrän i november 2015\. Strategin ska också vägleda svenska ståndpunkter inför förhandlingarna om den kommande fyraårsbudgeten för perioden 2019\-2022, eller påfyllnaden av GCF (GCF 1\) som förväntas inledas 2017\. Utfallet av förhandlingarna blir viktigt för hur GCF kommer att bidra till genomförandet av det nya klimatavtalet samt Agenda 2030 och i synnerhet det globala utvecklingsmålet SDG13 om klimat som FNs generalförsamling beslutade om i september 2015\. Strategin omfattar medel i enlighet med riksdagens bemyndigande.
+
+Strategin vägleds av att GCF är en del av den finansiella mekanism under klimatkonventionen med dess övergripande mål att bidra till att koncentrationen av växthusgaser i atmosfären ska stabiliseras på en nivå som förhindrar en farlig mänsklig störning av klimatsystemet.
+
+Strategin utgår från regeringens mål för det internationella biståndet, det vill säga att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Den vägleds även av politiken för global utveckling (prop. 2002/03:122\) med dess övergripande mål att bidra till en rättvis och hållbar global utveckling, samt svensk strategi för multilateralt utvecklingssamarbete.

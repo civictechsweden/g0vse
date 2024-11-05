@@ -1,0 +1,3 @@
+# Uppdrag till Myndigheten för stöd till trossamfund att genomföra insatser mot rasism riktad mot muslimer
+
+Myndigheten för stöd till trossamfund (SST) får i uppdrag att under hösten 2017 genomföra regionala seminarier om rasism för civila samhället, särskilt muslimska församlingar och organisationer samt andra berörda aktörer, i syfte att öka benägenheten att polisanmäla brott och anmäla diskriminering riktad mot muslimer. SST ska senast den 30 mars 2018 inkomma med en redovisning av resultaten av uppdraget. I redovisningen ska myndigheten föreslå hur uppdraget kan följas upp med fortsatta åtgärder.

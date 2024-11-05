@@ -1,0 +1,9 @@
+# Lag om flygplatsavgifter
+
+I propositionen lämnas ett förslag till lag om flygplatsavgifter, som syftar till att genomföra Europaparlamentets och rådets direktiv 2009/12/EG om flygplatsavgifter. Direktivets bestämmelser träffar den flygplats som har den största passagerarmängden i landet, samt andra flygplatser där antalet resande årligen överstiger fem miljoner. I dagens läge är det bara Stockholm Arlanda flygplats som uppfyller dessa kriterier.
+
+I korthet innebär lagen att det ska ske fortlöpande samråd mellan flygplatsens ledningsenhet och flygplatsanvändarna (flygbolagen), samt att sådant samråd ska vara obligatoriskt när flygplatsens ledningsenhet överväger att höja sina avgifter eller förändra grunderna för uttaget av avgifterna. En part som inte är nöjd med förändrade avgifter kan hänskjuta frågan till Transportstyrelsen som ska pröva om förändringen är godtagbar eller inte. De förändrade avgifterna får inte börja tillämpas förrän Transportstyrelsen meddelat ett interimistiskt eller slutligt beslut i saken. Transportstyrelsens slutliga beslut ska i sin tur kunna överklagas till allmän förvaltningsdomstol.
+
+Det föreslås också en ändring i luftfartslagen (2010:500\). Ändringen innebär att regeringen eller, efter regeringens bemyndigande, Transportstyrelsen får ingå avtal med ett annat land om att tillsynen över svenska luftfartyg ska utövas av det andra landet. Avtal ska också få ingås om att tillsynen över luftvärdigheten och luftfartygsunderhållet ska utövas av det andra landet. Riksdagens beslut om ändringen bör mot denna bakgrund fattas med iakttagande av bestämmelserna i 10 kap. 8 § regeringsformen.
+
+Lagarna föreslås träda i kraft den 1 augusti 2011\.

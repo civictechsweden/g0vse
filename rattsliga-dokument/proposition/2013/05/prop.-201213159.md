@@ -1,0 +1,3 @@
+# Graviditetspenning till egenföretagare på grund av risker i arbetsmiljön
+
+I propositionen lämnas förslag som innebär att gravida egenföretagare, i likhet med vad som gäller för gravida arbetstagare, ska omfattas av rätten till graviditetspenning vid risker i arbetsmiljön. Regeringen föreslår att bestämmelserna ska träda i kraft den 1 januari 2014\. Propositionen innehåller även regeringens bedömning avseende riksdagens tillkännagivande att regeringen bör göra en översyn av de olika socialförsäkringsförmåner som kan komma ifråga vid graviditet samt att överväga om det behövs förändringar eller förtydliganden i socialförsäkringsbalken.

@@ -1,0 +1,11 @@
+# Förvaltningsberättelsens innehåll
+
+Lagrådsremissen innehåller förslag till ändringar i årsredovisningslagens (1995:1554\) regler om förvaltningsberättelsens innehåll. Förslagen syftar till att genomföra vissa ändringar i EG:s fjärde bolagsrättsliga direktiv.
+
+I remissen föreslås att det införs ett krav på att företagen i den utsträckning som det behövs för förståelsen av årsredovisningen i förvaltningsberättelsen ska ta in hänvisningar till och ytterligare upplysningar om de belopp som tas upp på annan plats i årsredovisningen. Vidare föreslås att förvaltningsberättelsen ska innehålla en beskrivning av väsentliga risker och osäkerhetsfaktorer som företaget står inför. Det föreslås också att bestämmelserna om förvaltningsberättelsens innehåll kompletteras med ett krav på att även upplysningar av icke\-finansiell karaktär skall lämnas, om upplysningarna behövs för att förstå företagets utveckling, ställning eller resultat. Miljö\- och personalfrågor är exempel på sådana upplysningar.
+
+Skyldigheten att i förvaltningsberättelsen lämna icke\-finansiell information ska, såvitt gäller icke\-finansiella företag, endast gälla företag som bedriver näringsverksamhet och i vilka nettovärdet av tillgångarna för de senaste två räkenskapsåren har överstigit 1000 prisbasbelopp eller som under de senaste två räkenskapsåren har haft i medeltal fler än 200 anställda eller vars andelar eller skuldebrev är noterade vid en börs eller en auktoriserad marknadsplats. Kravet på att väsentliga risker och osäkerhetsfaktorer ska beskrivas ska inte omfatta företag som har högst tio anställda och högst 24 miljoner kronor i tillgångar.
+
+De nya upplysningskraven föreslås omfatta såväl årsredovisningen som koncernredovisningen. Samma undantag från skyldigheten att lämna icke\-finansiella upplysningar i förvaltningsberättelsen föreslås gälla för förvaltningsberättelsen för en koncern.
+
+De nya reglerna föreslås träda i kraft den 1 maj 2005 och tillämpas första gången för det räkenskapsår som inleds närmast efter den 30 april 2005\.

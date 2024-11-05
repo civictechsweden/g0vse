@@ -1,0 +1,9 @@
+# Regeringen presenterar uppdrag för att utveckla Sveriges vargförvaltning
+
+Det första uppdraget handlar om att undersöka olika aspekter av skyddsjakt på varg. Naturvårdsverket ska bland annat bedöma under vilka omständigheter det skulle kunna vara möjligt att bevilja skyddsjakt redan efter ett angrepp samt ta fram uppdaterade riktlinjer som kan användas vid skyddsjakt. Uppdraget ska redovisas senast 31 mars 2024\.
+
+– Det har gått 17 år sedan de så kallade tumreglerna togs fram och vargstammens utbredning har ökat påtagligt sedan dess, i dag är populationen tre gånger så stor som då. Det är viktigt att stärka förtroendet för vargförvaltningen och att begränsa skador orsakade av varg. Därför är det en prioriterad fråga att utveckla skyddsjakten och detta uppdrag är en del i det arbetet, säger landsbygdsminister Peter Kullgren.
+
+Det andra uppdraget handlar om en ändring av det befintliga uppdraget om att utreda referensvärdet för antal vargar i Sverige för att bibehålla en gynnsam bevarandestatus. Uppdraget förtydligas nu till att det särskilt ska redovisas under vilka förutsättningar referensvärdet skulle kunna vara i den lägre delen av intervallet om 170–270 vargar. Uppdraget ska redovisas senast 30 juni 2024\.
+
+– Vi kan inte blunda för att den ökade vargpopulationen påverkar samhället mer påtagligt än förut. Bönder vågar inte investera i sina livsmedelsföretag och känner en oro för att släppa ut djuren på bete i rädsla för vargangrepp. Regeringen vill minska vargstammens storlek och tillmötesgå det tillkännagivande som kommit från riksdagen om att referensvärdet bör hållas i den nedre delen av intervallet om 170–270 vargar. Regeringen utgår från att Naturvårdsverket kan ta fram ett gediget och vetenskapligt granskat underlag som lever upp till Sveriges EU\-rättsliga åtaganden, säger landsbygdsminister Peter Kullgren.

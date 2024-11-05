@@ -1,0 +1,3 @@
+# Ett fjärde tekniskt år i gymnasieskolan
+
+I denna promemoria redovisas för att ett fjärde tekniskt år bör införas i gymnasieskolan. Det fjärde året bör bygga på teknikprogrammet och leda till en gymnasieingenjörsexamen. De första gymnasieingenjörerna kan lämna den nya gymnasieskolan tidigast våren 2015\. För att gymnasieingenjörer ska utbildas tidigare föreslås en försöksverksamhet med ett fjärde tekniskt år på gymnasiet. Försöksverksamheten ska bygga på det nuvarande teknikprogrammet. Försöksverksamheten föreslås pågå till 2014 och utbildningarna ska vara riktade mot olika branscher. Skolverket ska besluta om vilka skolor som får delta i försöket.

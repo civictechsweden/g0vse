@@ -1,0 +1,3 @@
+# Aid Policy Framework
+
+In this Communication the Government sets out the direction of Swedish aid. The aid policy framework is a central document in Sweden’s aid policy and forms the point of departure for the Government’s management of Swedish aid. This Communication addresses the principles and values that are to guide Swedish aid. In it the Government also sets out the direction of aid in the form of a hierarchy of aid objectives and results that Swedish aid is to help to achieve. Clearer governance and an increased focus on results will improve the prospects for effectively reducing poverty.

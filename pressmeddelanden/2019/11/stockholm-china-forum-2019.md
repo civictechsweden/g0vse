@@ -1,0 +1,7 @@
+# Stockholm China Forum 2019
+
+Den globala ordningens utveckling är en given huvudfråga, med utgångspunkt i de pågående handelsmotsättningarna mellan USA och Kina. Frågor rörande exempelvis multilateralismens framtid, Kinas relationer med Ryssland och Kinas inrikespolitiska vägval kommer att diskuteras.
+
+Årets deltagarlista bekräftar den betydelse som Stockholm China Forum tillmäts. Ett sextiotal nyckelpersoner kommer att samlas, erkända forskare från universitet och tankesmedjor, nyckelpersoner från utrikesministerier, journalister från The Economist och The New York Times med flera. Bland dessa märks professor Minxin Pei, den kanske oftast citerade bedömaren av utvecklingen i Kina, Elizabeth Economy, Asienchef vid Council on Foreign Relations i Washington samt professorn Chu Shulong från Tsinghua\-universitetet i Peking. Från The German Marshall Fund of the United States deltar bland andra Asienchefen Julianne Smith och från svensk sida bland andra UD:s kabinettssekreterare Annika Söder och Sylvia Schwaag Serger från Lunds universitet.
+
+Konferensen genomförs i samarbete mellan huvudarrangören, den amerikanska stiftelsen The German Marshall Fund of the United States (GMF), och Utrikesdepartementet. Stockholm China Forum tillkom i dialog mellan GMF (huvudarrangör), Utrikesdepartementet, Riksbankens Jubileumsfond och forskningsstiftelsen STINT i syfte att fördjupa den transatlantiska dialogen med Kina. Några av de senaste årens möten har, förutom i Stockholm, ägt rum i San Francisco, Hongkong, Washington DC.

@@ -1,0 +1,7 @@
+# Landstrategi: Mali 2004 - 2006
+
+Regeringen har per 2003\-06\-04 uppdragit åt Sida att inkomma med förslag till strategi för det svenska utvecklingssamarbetet med Mali. Denna strategi skall ha sin utgångspunkt i regeringsskrivelsen 1997/98:122 om en förnyad svensk Afrikapolitik inför 2000\-talet, i vilken det slogs fast att svensk Afrikapolitik bör omfatta mer utvecklat samarbete med Västafrika.2
+
+År 1999 fattade regeringen beslut om riktlinjer för en ökad satsning på Västafrika och uppdrog åt Sida att inleda visst utvecklingssamarbete med Mali, främst inom miljövård, demokrati och mänskliga rättigheter.3 Grunden till det intensifierade svenska engagemanget i Västafrika var regionens positiva utvecklingstendenser. Burkina Faso och Mali framhölls som exempel på länder där demokratin stärkts och lovande utvecklingsstrategier utarbetats. Sida utarbetade därefter ett positionspapper för det regionala samarbetet med Västafrika 2000\-2002 och förslag om stöd till Mali och Burkina Faso under samma period.4 I linje med regeringens riktlinjer och Sidas förslag har utvecklingssamarbete med Mali inletts.
+
+Som en del i framtagandet av denna strategi har en landanalys och en resultatanalys sammanställts för Mali. Ett flertal studier har tagits fram som underlag för dessa analyser och kunskaper och erfarenheter från det samarbete som redan etablerats mellan Mali och Sverige har tagits tillvara. Denna strategi ska gälla under perioden 2004\-2006\.

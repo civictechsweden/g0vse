@@ -1,0 +1,8 @@
+# Europadomstolens dom (2011-10-20) i målet Samina mot Sverige
+
+Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.
+
+
+## Sammanfattning av domen
+
+Målet gäller en kvinna från Pakistan som ansökt om asyl i Sverige och åberopat att hon p.g.a. sitt engagemang i en kristen organisation utsatts för förföljelse, bl.a. i form av dödshot, av muslimska fundamentalister i hemlandet. Hennes ansökan avslogs dock och det beslutades att hon skulle utvisas till sitt hemland. Inför Europadomstolen påstod klaganden att hon riskerar att frihetsberövas, utsättas för tortyr samt avrättas om hon tvingas återvända till Pakistan. Ett återvändande skulle även medföra att hon tvingas vara åtskild från sin i Sverige bosatte sambo. Avslutningsvis har hon gjort gällande att hon inte har fått möjlighet till en rättvis prövning av sitt ärende av svenska myndigheter. I dom den 20 oktober 2011 uttalade Europadomstolen bl.a. att det Migrationsverket och migrationsdomstolen gjort en grundlig prövning av klagandens fall. Domstolen fann inget som tydde på att de inhemska myndigheternas bedömningar var ofullständiga eller godtyckliga. Det fanns inte heller något som tydde på att de inhemska myndigheternas bedömningar hade baserats på ofullständigt material. Mot bl.a. denna bakgrund ansåg Europadomstolen att någon kränkning av konventionen inte hade påvisats i fallet.

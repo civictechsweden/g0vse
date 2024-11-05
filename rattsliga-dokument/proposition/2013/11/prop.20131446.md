@@ -1,0 +1,3 @@
+# Regionalt utvecklingsansvar i Jönköpings, Örebro och Gävleborgs län
+
+I propositionen föreslås ändring av lagen (2010:630\) om regionalt utvecklingsansvar i vissa län. Lagförslaget medför att lagen även omfattar Jönköpings, Örebro och Gävleborgs län och gäller för landstingen i dessa län. Förslaget innebär vidare att Jönköpings läns landsting, Örebro läns landsting och Gävleborgs läns landsting får besluta att landstingsfullmäktige och landstingsstyrelsen i stället ska betecknas regionfullmäktige och regionstyrelse. Vid val ska dock beteckningen landstingsfullmäktige användas. Lagändringen föreslås träda i kraft den 1 januari 2015\.

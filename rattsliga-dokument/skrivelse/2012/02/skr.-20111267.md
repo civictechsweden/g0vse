@@ -1,0 +1,10 @@
+# Uppgifter hos Säkerhetspolisen om misstänkt samröre med Stasi
+
+I skrivelsen redovisar regeringen de omständigheter som legat till grund för samtal mellan justitieministern och företrädare för samtliga riksdagspartier under hösten och vintern 2011/12\. Samtalen har syftat till att nå en samsyn i fråga om offentlighet och sekretess för de uppgifter hos Säkerhetspolisen som gäller enskilda svenskars misstänkta samröre med den östtyska säkerhets\- och underrättelsetjänsten Stasi.
+
+Skrivelsen innehåller en beskrivning av vilka typer av uppgifter som finns hos Säkerhetspolisen och hur dessa har samlats in. Vidare ges en redogörelse för resultaten av de utredningar Säkerhetspolisen har bedrivit med anledning av misstänkt samröre med Stasi. Det lämnas också en redovisning av de regelverk som avgör frågan om huruvida nu aktuella uppgifter är offentliga eller hemliga i Sverige respektive vissa andra europeiska länder.
+
+I skrivelsen konstateras att det i Säkerhetspolisens verksamhet gäller sekretess till skydd såväl för verksamheten som för enskilda. Enligt regeringen talar starka skäl för att en ökad insyn i Säkerhetspolisens verksamhet skulle försvåra för myndigheten att fullgöra sitt uppdrag och därigenom i förlängningen minska dess möjlighet att avvärja hot mot Sverige. När det gäller den sekretess som gäller till skydd för enskilda gör regeringen bedömningen att enskilda riskerar att lida allvarligt men om denna sekretess hävs. Regeringen bedömer även att den möjlighet som finns för enskilda att ta del av uppgifter om sig själva hos Säkerhetspolisen får anses vara tillräcklig med hänsyn till myndighetens uppdrag. Vidare konstateras att gällande regelverk ger möjlighet att för forskningsändamål ta del av uppgifter hos Säkerhetspolisen om misstänkt samröre med Stasi som annars är sekretessbelagda.
+
+Regeringens samlade bedömning är att gällande reglering ger uttryck för en rimlig avvägning mellan intresset av insyn i Säkerhetspolisens verksamhet och behovet av sekretess till skydd för allmänna och enskilda
+intressen.

@@ -1,0 +1,3 @@
+# Utvärdering av statens stöd till idrotten
+
+En särskild utredare skall utvärdera om effekterna av statens stöd till idrotten stämmer överens med de av riksdagen och regeringen angivna syftena med stödet och föreslå en framtida inriktning av stödet samt föreslå utformning av lämpliga indikatorer för att mäta effekterna av stödet. Utredaren skall analysera om det samlade statliga stödet till idrotten kan kanaliseras på ett sådant sätt att antalet stödformer minskas, vilka begränsningar som uppstår för idrottsrörelsen genom utformningen av de villkor som anges för stödet samt om färre villkor kan knytas till det samlade stödet som ges till idrottsrörelsen.

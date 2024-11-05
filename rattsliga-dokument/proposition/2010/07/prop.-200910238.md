@@ -1,0 +1,7 @@
+# Framtidens friluftsliv
+
+I propositionen föreslås en ny lag som innebär att uppgiften att fördela statsbidrag till friluftsorganisationer delegeras till den ideella föreningen Svenskt Friluftsliv från och med bidragsåret 2011\. I anslutning till det föreslås en ändring i bilagan till offentlighets\- och sekretesslagen för att göra handlingsoffentligheten i tryckfrihetsförordningen tillämplig på de delar av Svenskt Friluftslivs verksamhet som avser fördelning av statsbidrag. Den nya lagen och ändringen föreslås träda i kraft den 1 januari 2011\.
+
+I propositionen föreslås även mål för friluftslivspolitiken. Förslaget innebär att naturen ska vara tillgänglig för alla, att personligt och ideellt engagemang står i centrum, att allemansrätten värnas, att det hållbara brukandet tar hänsyn till friluftslivets behov, att kommunernas ansvar för den tätortsnära naturen är starkt, att friluftslivet bidrar till landsbygdsutveckling och regional tillväxt, att skyddade områden är en tillgång för friluftslivet, att friluftslivet har en given roll i skolans arbete, att fysisk aktivitet och avkoppling stärker folkhälsan och att beslut om friluftsliv fattas med god kunskap.
+
+Friluftslivet är brett och spänner över flera politikområden, bland annat naturvårdspolitiken, den regionala tillväxtpolitiken, jordbrukspolitiken, politiken för landsbygdens utveckling samt utbildnings\- och forskningspolitiken. Friluftslivets folkhälsoaspekter och den förebyggande hälsovården är liksom kulturlivet och samhällsplaneringen centrala.

@@ -1,0 +1,9 @@
+# En reformerad sjukskrivningsprocess för ökad återgång i arbete
+
+I propositionen föreslås ett antal åtgärder i syfte att effektivisera sjukskrivningsprocessen och öka möjligheterna för sjukskrivna att återgå i arbete. Regeringen föreslår att en rehabiliteringskedja införs med fasta tidpunkter för prövning av arbetsförmågan. Under de första 90 dagarna i en sjukperiod ska Försäkringskassan bedöma om den försäkrade har förmåga att klara sitt vanliga arbete eller annat lämpligt arbete som arbetsgivaren tillfälligt erbjuder. Från och med den 91 dagen i en sjukperiod innebär prövningen av rätten till sjukpenning att Försäkringskassan även ska beakta om den försäkrade kan utföra något annat arbete hos arbetsgivaren. Om Försäkringskassan begär det ska den försäkrade därvid lämna ett utlåtande av sin arbetsgivare. Från och med den 181 dagen i en sjukperiod ska dessutom bedömas om den försäkrade kan försörja sig själv genom förvärvsarbete på den reguljära arbetsmarknaden i övrigt eller genom annat lämpligt arbete som är tillgängligt för den försäkrade.
+
+Regeringen föreslår vidare att sjukpenning med 80 procent av den sjukpenninggrundande inkomsten (SGI) i regel endast ska utbetalas under 364 dagar inom en ramtid av 450 dagar. Regeringen föreslår också att personer som uppburit sjukpenning med 80 procent av SGI under 364 dagar inom en ramtid av 450 dagar efter skriftlig ansökan ska kunna erhålla s.k. förlängd sjukpenning, vilken utgör 75 procent av SGI:n. Förlängd sjukpenning ska kunna betalas ut för 550 dagar. Förslaget om förlängd sjukpenning innebär även en justering av den s.k. minskningsregeln.
+
+Regeringen föreslår också att sjukersättning i fortsättningen endast ska komma i fråga om den försäkrades arbetsförmåga är stadigvarande nedsatt. Förslaget innebär att det inte längre blir möjligt att bevilja tidsbegränsad sjukersättning.
+
+De nya bestämmelserna föreslås träda i kraft den 1 juli 2008, med därtill hörande övergångsbestämmelser.

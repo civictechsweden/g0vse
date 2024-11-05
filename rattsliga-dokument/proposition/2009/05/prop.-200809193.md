@@ -1,0 +1,3 @@
+# Vissa psykiatrifrågor m.m.
+
+I propositionen föreslås ändringar i hälso\- och sjukvårdslagen (1982:763, HSL), i lagen (1998:531\) om yrkesverksamhet på hälso\- och sjukvårdens område (LYHS) och i socialtjänstlagen (2001:453, SoL). Hälso\- och sjukvården och dess personal får genom ändringarna i HSL och LYHS en skyldighet att särskilt beakta barns behov av information, råd och stöd, bl.a. om barnets förälder eller någon annan vuxen som barnet varaktigt bor tillsammans med har t.ex. en psykisk sjukdom eller en allvarlig fysisk sjukdom. Vidare föreslås att kommuners och landstings skyldigheter i fråga om gemensam individuell planering och gemensamma överenskommelser om samarbete regleras i såväl SoL som HSL. Lagförslagen föreslås träda i kraft den 1 januari 2010\.

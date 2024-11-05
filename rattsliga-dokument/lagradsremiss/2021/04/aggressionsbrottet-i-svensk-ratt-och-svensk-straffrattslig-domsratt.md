@@ -1,0 +1,9 @@
+# Aggressionsbrottet i svensk rätt och svensk straffrättslig domsrätt
+
+Att stärka den inter­natio­nella straff­rätten genom att bekämpa straffrihet och verka för lagföring av personer som begår allvarliga brott mot folkrätten är ett viktigt medel för att upprätt­hålla fred och säkerhet.
+
+Sverige har under lång tid varit starkt engagerat för att främja utvecklingen av den inter­nationella humanitära rätten i väpnade konflikter och för att stötta Inter­nationella brott­måls­dom­stolen och dess verk­samhet. Som ett led i detta arbete lämnar regeringen i lagråds­remissen förslag till lagändringar som krävs för att Sverige ska kunna tillträda de så kallade Kampala­ändringarna avseende aggressions­brott och vissa andra ändringar i Rom­stadgan för Inter­nationella brott­måls­dom­stolen. Det föreslås även att aggressions­brott kriminali­seras i svensk rätt. För aggressions­brott ska dömas den som kan utöva kontroll eller styra över en stats politiska eller militära handlande och som planerar, förbereder, inleder eller utför en aggressions­handling som till sin karaktär, svårhets­grad och omfatt­ning utgör en uppenbar över­trädelse av Förenta nationernas stadga. Straffet ska vara fängelse på viss tid, lägst fyra och högst arton år eller på livstid.
+
+I lagråds­remissen föreslår regeringen även att lag­stift­ningen om svensk straff­rättslig doms­rätt förtyd­ligas, moderni­seras och anpassas till folkrätten genom att det införs ett nytt 2 kap. i brotts­balken med rubriken Om svensk domstols behörighet. Förslagen innebär bl.a. att svensk domstol ska vara behörig att döma över brott som har begåtts utom­lands mot svenska med­borgare och företag. Det före­slås också att huvud­ansvaret för pröv­ningen av frågor om åtals­för­ordnande flyttas från regeringen till riks­åklagaren samt att de omstän­dig­heter som särskilt ska beaktas vid en sådan prövning anges i lag.
+
+Lagändringarna föreslås träda i kraft den 1 januari 2022\.

@@ -1,0 +1,3 @@
+# Konfliktlösning vid offentlig säljverksamhet på marknaden
+
+I lagrådsremissen föreslås nya regler i konkurrenslagen som innebär att Stockholms tingsrätt på talan av Konkurrensverket får förbjuda staten, en kommun eller ett landsting att i en kommersiell verksamhet tillämpa ett visst förfarande om det snedvrider förutsättningarna för en effektiv konkurrens. Detsamma gäller om det hämmar eller är ägnat att hämma förekomsten eller utvecklingen av en sådan konkurrens. En kommun eller ett landsting får även meddelas förbud att bedriva viss verksamhet. Förbud får dock inte meddelas när det gäller förfaranden eller verksamheter som är försvarbara från allmän synpunkt. Lagändringarna föreslås träda i kraft den 1 januari 2010\.

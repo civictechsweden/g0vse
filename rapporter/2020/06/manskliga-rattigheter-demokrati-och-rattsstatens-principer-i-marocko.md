@@ -1,0 +1,16 @@
+# Mänskliga rättigheter, demokrati och rättsstatens principer i Marocko
+
+Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Marocko samt en länk till rapporten i sin helhet.
+
+
+Situationen vad gäller respekten för de mänskliga rättigheterna, demokratin och rättsstatens principer uppvisar brister, men ansträngningar görs på flera områden. Det finns begränsningar i handlingsutrymmet för delar av civilsamhället och yttrande\- och pressfriheten har vissa tydliga inskränkningar, även om en relativt öppen debatt sker i massmedia och inte minst i sociala medier.
+
+Kungen är högsta beslutsfattare med omfattande maktbefogenheter över regering, parlament och övriga institutioner. Rättsväsendet är oberoende enligt konstitutionen, men i praktiken framstår det inte som helt och hållet immunt mot yttre påverkan.
+
+För att stärka rättsväsendets oberoende har justitieministeriet direkta inflytande över domstolsväsendet och åklagarämbetet begränsats. Korruption utgör ett omfattande problem i förvaltningen och i samhället generellt. En korruptionsstrategi antogs 2015, men genomförandet av strategin är bristfällig. Det civila samhället är aktivt, även om flertalet enskilda organisationer är små och har begränsad kapacitet. Utrymmet för det civila samhället begränsas bland annat av de restriktioner som omgärdar kritik mot islam, monarkin och den territoriella integriteten (de så kallade ”Röda linjerna”). Det senare avser främst Marockos anspråk på Västsahara. Dessa inskränkningar påverkar yttrande\- och tryckfriheten och andra områden.
+
+Tortyr och fysiska övergrepp är förbjudet men förekommer enligt uppgift, liksom godtyckliga frihetsberövanden. Det är sällsynt att någon ställs till svars. Fängelseförhållandena är undermåliga. Marocko har genomfört en rättvise\- och försoningsprocess när det gäller tidigare kränkningar av de mänskliga rättigheterna. Den sociala situationen kännetecknas av stora inkomstskillnader och hög arbetslöshet, i synnerhet bland unga. Även om läs\- och skrivkunnigheten har ökat kan en tredjedel av den vuxna befolkningen inte läsa och skriva.
+
+Mycket återstår att göra när det gäller jämställdhet. Konstitutionen från 2011 stadgar att kvinnor och män åtnjuter lika rättigheter i civila, politiska, ekonomiska, kulturella avseenden och i miljöfrågor. Det finns dock diskriminerande lagstiftning vad avser arvsrätt och kvinnor är underrepresenterade i politiken och i arbetslivet. Andelen kvinnor som inte kan läsa och skriva är dubbelt så hög som för män. Antalet äktenskap med minderåriga förblir högt. En lag mot kvinnovåld antogs 2018\. Homosexuella handlingar är förbjudna enligt lag.
+
+Marocko kontrollerar de facto större delen av Västsahara som är uppsatt på FN:s lista över icke\-självstyrande territorier och vars folk åtnjuter rätt till självbestämmande enligt Internationella domstolens yttrande från 1975 och resolutioner i FN:s säkerhetsråd. I och med att marockansk myndighetsutövning gäller i Västsahara bär Marocko ansvar för att upprätthålla de mänskliga rättigheterna i området. Västsahara behandlas i en fristående rapport. När relevant refereras till den rapporten.

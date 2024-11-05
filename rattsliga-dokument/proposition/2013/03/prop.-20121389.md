@@ -1,0 +1,9 @@
+# Ändring i skatteavtalet mellan Sverige och Indien samt överenskommelse med Indien om anstånd med betalning av skatter
+
+I propositionen föreslås att riksdagen godkänner ett protokoll undertecknat den 7 februari 2013 om ändring i avtalet den 24 juni 1997 mellan Sverige och Indien för undvikande av dubbelbeskattning och förhindrande av skatteflykt beträffande skatter på inkomst och på förmögenhet. Vidare föreslås att riksdagen godkänner en överenskommelse mellan Sverige och Indien, undertecknad den 7 februari 2013, om anstånd med betalning av skatter under förfarande för ömsesidig överenskommelse enligt skatteavtalet mellan länderna. Det föreslås även att riksdagen antar en lag om ändring i lagen (1997:918\) om dubbelbeskattningsavtal mellan Sverige och Indien. Ändringen innebär att avtalet undertecknat den 24 juni 1997, i den lydelse som det fått genom protokollet undertecknat den 7 februari 2013, ska gälla som lag i Sverige. Detsamma gäller den överenskommelse om anstånd med betalning av skatter som undertecknades samma dag.
+
+Protokollet innebär dels att skatteavtalets bestämmelser om informationsutbyte uppdateras till internationell standard, dels att möjlighet ges för representanter för myndigheter i det ena landet att närvara vid skatteutredning i det andra landet. Ändringarna utgör ett viktigt medel för en effektiv skattekontroll. Överenskommelsen innebär att svenska företag verksamma i Indien ges möjlighet till anstånd med betalning av skatter under förfarande för ömsesidig överenskommelse enligt skatteavtalet mellan Sverige och Indien.
+
+De nya bestämmelserna föreslås träda i kraft den dag regeringen bestämmer.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Riksdagen fattade den 23 maj 2013 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

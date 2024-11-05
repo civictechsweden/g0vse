@@ -1,0 +1,3 @@
+# Avdragsrätt vid representation
+
+I promemorian föreslås ändringar av rätten till avdrag för representation vid måltider och annan förtäring. Förslagen avser både mervärdesskatt och inkomstskatt. Avseende mervärdesskatt föreslås att avdraget högst får uppgå till mervärdesskatten på 300 kronor per person och tillfälle. Vid inkomstbeskattningen föreslås att avdragsrätten slopas för representationsutgifter som avser lunch, middag, supé eller annan förtäring, utom för enklare förtäring av mindre värde. Förslagen syftar bl.a. till att få mervärdesskatteregler som är förenliga med EU\-rätten och till att förenkla tillämpningen. I nuläget finns ett flertal olika beloppsgränser som kan bli aktuella vid avdrag för representation.

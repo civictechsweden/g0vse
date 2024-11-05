@@ -1,0 +1,16 @@
+# Nordiskt ministermöte om barn och unga i kriminalitet
+
+Fler och fler barn och unga involveras i kriminella nätverk och för att stoppa nyrekryteringen krävs tidiga insatser, kunskapsbaserade metoder och samverkan. Därför bjöd justitieminister Gunnar Strömmer och socialtjänstminister Camilla Waltersson Grönvall in justitie\- och socialtjänstministrar från de nordiska länderna, inklusive de självstyrande områdena, till ett samtal om barn och unga som är, eller riskerar att involveras, i kriminalitet. Mötet hölls inom ramen för det pågående svenska ordförandeskapet i Nordiska ministerrådet.
+
+
+Fler och fler barn och unga involveras i kriminella nätverk. I Sverige ser vi en allvarlig utveckling där allt yngre barn dras in i kriminella nätverk, och i vissa fall begår grova brott. Det framgår av en ny rapport framtagen av Brottsförebyggande rådet (Brå). Under de senaste tio åren har antalet barn som misstänks för narkotikaöverlåtelse gradvis ökat, antalet barn mellan 15–17 år som misstänks för vapenbrott flerdubblats och antalet barn mellan 15–20 år som misstänks för mord mångdubblats. För att hindra barn och unga från att lämna de kriminella nätverken används skuldsättning, hot och våld.
+
+– Ska vi på allvar återupprätta tryggheten i samhället måste vi ge barn och unga en trygg uppväxt och en ljus framtid. Vi måste stoppa rekrytering till de kriminella gängen. Alla goda krafter behöver kroka arm när vi nu arbetar för att vända den negativa utvecklingen, och det behövs såväl nationellt som internationellt, till exempel med våra nordiska grannar, säger socialtjänstminister Camilla Waltersson Grönvall.
+
+– Den organiserade brottsligheten är gränsöverskridande. Samarbete med andra länder är därför helt avgörande. Nu samlar vi våra nordiska grannländer för att dela erfarenheter om hur vi genom samverkan, tidiga insatser och kunskapsbaserade metoder kan flytta fram positionerna i det brottsförebyggande arbetet. Vi måste göra allt vi kan för att bryta rekryteringen av barn och unga in i gängen, säger justitieminister Gunnar Strömmer.
+
+## Brottsförebyggande metoder diskuterades
+
+För att stoppa nyrekryteringen till de kriminella nätverken krävs samverkan, tidiga insatser och kunskapsbaserade metoder. Statens beredning för medicinsk och social utvärdering (SBU) har kartlagt vilka sociala insatser och metoder som rekommenderas i Norden för att förebygga eller förhindra fortsatt ungdomskriminalitet. Det är exempelvis insatser inom socialtjänstens verksamhet, och inom andra sektorer som arbetar med social brottsprevention såsom polis och skola. Två metoder som används i syfte att motverka normbrytande eller kriminellt beteende hos barn och unga är gruppvåldsintervention (GVI) samt funktionell familjeterapi (FFT). Representanter från två verksamheter som använder metoderna berättade om sitt arbete på mötet.
+
+De nordiska länderna har mycket gemensamt och det finns många likheter mellan våra samhällsystem. Mötet avslutades därför med en rundabordsdiskussion där deltagande ministrar delade med sig av sina reflektioner och erfarenheter.

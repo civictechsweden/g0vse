@@ -1,0 +1,7 @@
+# Regeringen stärker arbetet mot rasism och hatbrott
+
+\- Sverige ska vara ett land fritt från rasism och hatbrott. Att inte utsättas för rasism är en mänsklig rättighet. Det skapar polarisering och begränsar människors möjligheter att bidra till samhället. Nu växlar vi därför upp takten i arbetet och tar ett viktigt steg i kampen mot rasism genom att ta fram en ny handlingsplan mot rasism och hatbrott, säger jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg.
+
+De senaste årens arbete utifrån den nationella planen mot rasism, liknande former av fientlighet och hatbrott har bidragit till mer kunskap om hur rasism fortsätter att utgöra en utmaning inom flera samhällsområden. Rasism yttrar sig bland annat som diskriminering som försvårar för människors möjligheter på arbetsmarknaden och inom utbildningsområdet. Rasism yttrar sig också som hatbrott där verbala påhopp, hot och våld skapar rädsla, både på nätet och offline. Även barn och unga i skolan drabbas av rasism genom mobbning och trakasserier.
+
+Statskontoret följde nyligen upp och analyserade den nuvarande nationella planen mot rasism, liknande former av fientlighet och hatbrott. Med utgångspunkt i den uppföljningen är en viktig inriktning för den nya handlingsplanen att arbetet behöver vara träffsäkert, utvärderingsbart och långsiktigt. För att uppnå resultat behöver tydliga mål tas och myndigheterna ges bättre förutsättningar för att kunna uppnå målen.

@@ -1,0 +1,8 @@
+# Remiss SOU 2021:37 Stärkt rätt till personlig assistans
+
+Här kan du ta del av svaren från dem som har ombetts att svara på remissen SOU 2021:37, Stärkt rätt till personlig assistans.
+
+Övriga yttranden finns tillgängliga i departementet.
+
+
+Sista dag att svara på remissen är den 1 oktober 2021\.

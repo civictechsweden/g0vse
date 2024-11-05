@@ -1,0 +1,3 @@
+# Förslag till ändringar i ersättningssystemet för viss mervärdesskatt för kommuner och landsting
+
+Kommuner, landsting och kommunalförbund har via ett särskilt kompensationssystem möjlighet att få ersättning för ingående mervärdesskatt som inte får dras av enligt mervärdesskattelagen. I vissa fall har ersättning betalats ut även när så inte har varit avsett. Vid t.ex. försäljning av fastigheter har det förekommit att köparen av fastigheten kunnat göra avdrag för den mervärdesskatt som kommunen redan har fått ersättning för. För att åtgärda detta föreslår regeringen ändringar i lagen om ersättning för viss mervärdesskatt för kommuner och landsting.

@@ -1,0 +1,5 @@
+# Redogörelse för en överenskommelse mellan staten och landstingen om ersättningar till hälso- och sjukvården för år 2001
+
+Den 2 oktober 2000 träffade företrädare för staten och landstingen en överenskommelse om ersättningar till hälso\- och sjukvården för år 2001\.
+
+Överenskommelsen godkändes av Landstingsförbundets styrelse den 6 oktober 2000 och av regeringen den 12 oktober 2000\. De särskilda ersättningar till hälso\- och sjukvården som utges i enlighet med överenskommelsen uppgår till totalt 1 182 miljoner kronor och skall fördelas mellan landets 21 landsting. Beloppet skall ställas i relation till de cirka 140 miljarder kronor som landstingens utgifter för hälso\- och sjukvården uppgår till (år 1998\). De bidrag som fördelas har därmed huvudsakligen betydelse som signal\- och stimulansmedel gentemot sjukvården.

@@ -1,0 +1,3 @@
+# Undantag från turordningen
+
+

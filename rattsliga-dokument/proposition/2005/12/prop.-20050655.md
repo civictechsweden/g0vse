@@ -1,0 +1,9 @@
+# Stärkt revision och ansvarsprövning i kommuner och landsting
+
+I propositionen föreslås att ansvarsprövningen i kommunfullmäktige skall stärkas genom en öppnare process. Detta sker genom att kommunfullmäktige måste motivera sitt ställningstagande till revisorernas uttalande om ansvarsfrihet och andra eventuella anmärkningar från revisorernas sida. Tanken är att det skall vara lättare för medborgarna att se hur fullmäktige värderat nämnder och styrelsers förvaltning.
+
+I syfte att tydliggöra de förtroendevalda revisorernas oberoende föreslås att valbarheten till revisorsuppdrag begränsas. Förslaget gör det inte längre möjligt att förena uppdrag som revisor med uppdrag i fullmäktiges presidium, i nämnd eller kommunalt företag. Antalet revisorer utökas, fortsättningsvis föreslås antalet revisorer uppgå till minst fem, samtidigt som möjligheten att utse revisorsersättare upphör. Rätten till sakkunnigt biträde förtydligas såväl för förtroendevalda revisorer som för lekmannarevisorer i kommunala företag.
+
+Dessutom föreslås att samordningen av den kommunala revisionen ökas genom att revisionsberättelserna för kommunalförbund och kommunala företag skall fogas till kommunens respektive landstingets revisionsberättelse. Bestämmelsen om styrning, insyn och kontroll av kommunala företag föreslås utvidgas till att omfatta även dotterbolag i kommunala koncerner. Förslagen syftar till att ge fullmäktige bättre möjligheter att överblicka hela den kommunala verksamheten.
+
+Förändringarna i kommunallagen förslås träda i kraft den 1 juli 2006\. Övergångsvis kommer dock äldre regler att tillämpas för räkenskapsåret 2006\.

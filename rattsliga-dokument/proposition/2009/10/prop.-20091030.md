@@ -1,0 +1,5 @@
+# Stabilitetsavgift
+
+Genom lagen (2008:814\) om statligt stöd till kreditinstitut inrättades en stabilitetsfond för att finansiera stödåtgärder enligt lagen, stödmyndig\-hetens (Riksgäldskontorets) och Prövningsnämndens förvaltnings\-kostnader samt vissa övriga utgifter. I den proposition som låg till grund för stödlagstiftningen, aviserade regeringen att man skulle återkomma med förslag om införande av en s.k. stabilitetsavgift \- att betalas av de kreditinstitut och andra företag som omfattas av stödsystemet \- för att tillföra stabilitetsfonden de medel som behövs. Denna proposition innehåller förslag om införande av stabilitetsavgiften. Avgiften föreslås införas 2009\. Vidare innehåller propositionen förslag om finansiering ur stabilitetsfonden av statliga garantier till insättare i utländska instituts filialer i Sverige.
+
+I propositionen föreslås även att sekretess ska gälla vid ägarprövning i fondbolag och centrala värdepappersförvarare på samma sätt som vid ägarprövning i fråga om andra typer av finansiella företag.

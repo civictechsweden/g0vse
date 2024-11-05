@@ -1,0 +1,3 @@
+# Redovisning av fördelning av medel från Allmänna arvsfonden under budgetåret 2005
+
+I denna skrivelse lämnas en redogörelse för förvaltningen av Allmänna arvsfonden och en redovisning av hur Arvsfondsdelegationen fördelat medel under år 2005\. Vidare redogör regeringen för sin bedömning av Arvsfondsdelegationens utveckling och verksamhet samt analyserar fördelningen av stöd inom de olika verksamhetsområdena. Konstitutionsutskottets granskningsärende av medel ur Allmänna arvsfonden behandlas i skrivelsen. Slutligen anges några områden som enligt regeringens mening bör uppmärksammas vid kommande fördelning av stöd ur Allmänna arvsfonden. I allt väsentligt kvarstår regeringens prioriterade områden för treårsperioden 2006\-2008 med endast smärre justeringar.

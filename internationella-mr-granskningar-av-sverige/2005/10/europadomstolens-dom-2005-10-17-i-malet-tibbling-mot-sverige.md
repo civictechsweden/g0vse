@@ -1,0 +1,8 @@
+# Europadomstolens dom (2005-10-17) i målet Tibbling mot Sverige
+
+Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.
+
+
+### Sammanfattning av domen
+
+Bakgrunden till målet var två skadeståndsprocesser, den ena mellan bolaget Intertex Data AB och klaganden och den andra mellan detta bolag och två bolag i vilka klaganden var styrelseledamot. Den första processen hade inletts i december 1995 och den andra ca ett år tidigare. Vid tidpunkten för Europadomstolens dom pågick båda processerna fortfarande. Klaganden gjorde inför Europadomstolen gällande att målet mellan honom och Intertex Data AB inte hade avgjorts inom skälig tid. Europadomstolen konstaterade att den främsta anledningen till att målet mot klaganden dragit ut på tiden var att det förklarats vilande i avvaktan på ett slutligt avgörande i målet mellan bolagen. Eftersom de båda målen handlades vid samma avdelning vid tingsrätten borde det ha varit mycket lätt för domstolen att ha kontroll över hur målet mellan bolagen fortskred. Trots det pågick detta mål i nära åtta år i första instans. Därtill kom att en del av klagandens tillgångar fram till mars 2001 varit belagda med kvarstad under mer än tre år. Under dessa förhållanden fann Europadomstolen att klaganden inte fått en rättegång inom skälig tid. Det förelåg därför en kränkning av artikel 6 i Europakonventionen. Klaganden tillerkändes ett ideellt skadestånd om 6 000 euro samt ersättning för rättegångskostnader.

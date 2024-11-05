@@ -1,0 +1,3 @@
+# Utredning av den kliniska forskningens behov och villkor samt förslag till åtgärdsplan
+
+En särskild utredare får i uppdrag att utreda den kliniska forskningens situation med beaktande av såväl hälso\- och sjukvårdens som forskningens behov och villkor. I uppdraget ingår att beskriva organisatoriska frågor, resurstilldelning och forskningens kvalitet. Vidare ska utredaren belysa företagens förutsättningar för att genomföra kliniska prövningar i Sverige. Utredaren ska med utgångspunkt från dessa beskrivningar lämna förslag till en åtgärdsplan för att stärka den kliniska forskningens situation och främja hög kvalitet i svensk klinisk forskning.

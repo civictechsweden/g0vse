@@ -1,0 +1,3 @@
+# Uppföljning av den Nationella handlingsplanen för handikappolitiken
+
+I skrivelsen redogör regeringen för hur arbetet med att genomföra den nationella handlingsplanen för handikappolitiken utvecklats sedan i maj 2000 då riksdagen beslutade att anta propositionen Från patient till medborgare en nationell handlingsplan för handikappolitiken (prop. 1999/2000:79\). Regeringen redovisar vilka åtgärder som hittills gjorts, vilka insatser som kommer att ha stor betydelse de närmaste åren samt viktiga delar av det internationella arbetet som bedrivs för att förbättra villkoren för personer med funktionsnedsättningar.

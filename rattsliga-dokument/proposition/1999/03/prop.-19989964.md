@@ -1,0 +1,3 @@
+# Säkrare kemikaliehantering
+
+I propositionen föreslås att riksdagen dels godkänner konventionen om gränsöverskridande effekter av industriolyckor av den 17 mars 1992, dels antar en lag om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor. Lagen genomför rådets direktiv 96/82/EG av den 9 december 1996 om åtgärder för att förebygga och begränsa följderna av allvarliga olyckshändelser där farliga ämnen ingår och konventionen om gränsöverskridande effekter av industriolyckor. Inom arbetsmiljöområdet genomförs dock direktivet genom bestämmelser i form av myndighetsföreskrifter.

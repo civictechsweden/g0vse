@@ -1,0 +1,7 @@
+# Forskning och innovation för ett långsiktigt hållbart energisystem
+
+Stöd till forskning och innovation på energiområdet är en central och integrerad del av energipolitiken. Verksamheten har starka synergier med styrmedel inom energipolitiken och är av stor betydelse för möjligheterna att nå beslutade klimat\- och energimål.
+
+I denna proposition anger regeringen riktlinjer för de fortsatta insatserna kring forskning, utveckling, demonstration och kommersialisering på energiområdet. Vidare föreslås övergripande mål för insatserna för forskning och innovation på energiområdet. Insatser för forskning och innovation på energiområdet ska inriktas så att de kan bidra till uppfyllandet av uppställda energi\- och klimatmål, den långsiktiga energi\- och klimatpolitiken samt energirelaterade miljöpolitiska mål.
+
+I budgetpropositionen för 2013 har regeringen föreslagit en förlängning och successiv förstärkning av insatserna för forskning och utveckling inom utgiftsområde 21 Energi med totalt 1 240 miljoner kronor 2013–2016 (prop. 2012/13:1\). I relation till tidigare beslutade nivåer har anslaget föreslagits öka med 250 miljoner kronor 2013, och beräknats öka med 250 miljoner kronor 2014, 270 miljoner kronor 2015 och 470 miljoner kronor 2016\. Detta innebär en nivå på omkring 1,3 miljarder kronor under åren 2013–2015 och en nivå på omkring 1,4 miljarder kronor från och med 2016, att jämföra med den tidigare grundnivån på drygt 900 miljoner kronor. Denna förstärkning möjliggör ökade ambitioner på ett flertal angelägna områden.

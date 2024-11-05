@@ -1,0 +1,5 @@
+# Läsa, skriva, räkna – en garanti för tidiga stödinsatser
+
+I propositionen föreslås bland annat att det införs bestämmelser i skollagen om en garanti för tidiga stödinsatser i förskoleklassen och lågstadiet i grundskolan, specialskolan och sameskolan. Syftet med garantin är att en elev i behov av stöd, tidigt ska få stöd utformat utifrån sitt behov. Propositionen innehåller en justerad version av förslagen i propositionen Läsa, skriva, räkna – en åtgärdsgaranti (prop. 2017/18:18\). I förhållande till den propositionen har ändringar gjorts i syfte att tydliggöra dels att alla elever i behov av stödinsatser ska få rätt stöd i rätt tid, dels att garantin inte innebär några nya dokumentationskrav. De lagförslag som avsåg att förtydliga att extra anpassningar ska dokumenteras i en elevs individuella utvecklingsplan har tagits bort. Det har även gjorts en ändring i de paragrafer som reglerar garantin, ikraftträdandetidpunkten för lagförslaget har senarelagts och huvudmannens ansvar för att tillse att det finns tillräckliga resurser för att genomföra garantin har tydliggjorts.
+
+Lagändringarna föreslås träda i kraft den 1 juli 2019\.

@@ -1,0 +1,7 @@
+# Beskattning av andelsbyten vid utflyttning
+
+I lagrådsremissen föreslås bestämmelser om att en fysisk person inte ska beskattas för vinst som uppkommit vid ett andelsbyte bara för att personen inte längre uppfyller villkoret att vara bosatt i Sverige eller stadigvarande vistas här. Beskattning ska i stället ske om personen inte längre är bosatt inom Europeiska ekonomiska samarbetsområdet (EES) eller stadigvarande vistas inom EES. Det klargörs att den s.k. tioårsregeln i 3 kap. 19 § inkomstskattelagen (1999:1229\), IL, ska tillämpas när begränsat skattskyldiga ska beskattas för kapitalvinst som uppkommit vid ett andelsbyte. Vidare föreslås bestämmelser som säger att kapitalvinst som tagits upp vid utflyttning från EES enligt bestämmelserna om framskjuten beskattning ska räknas in i omkostnadsbeloppet vid en senare avyttring av de mottagna andelarna.
+
+I lagrådsremissen föreslås också att bestämmelserna om framskjuten beskattning vid andelsbyten ska vara tillämpliga om säljaren är bosatt i en stat inom EES eller stadigvarande vistas inom EES. På motsvarande sätt ska bestämmelserna om uppskov med beskattningen vid uppskovsgrundande andelsbyten, när säljaren är en fysisk person och har avyttrat en andel som var en lagertillgång eller en andel i en kooperativ förening som är en tillgång i näringsverksamheten enligt 13 kap. 7 § IL vara tillämpliga om säljaren är bosatt i en stat inom EES eller stadigvarande vistas inom EES.
+
+Bestämmelserna föreslås träda i kraft den 1 januari 2010 och tillämpas första gången vid 2011 års taxering.

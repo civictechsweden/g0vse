@@ -1,0 +1,3 @@
+# Förslag om ändring i förordningen om tillfälligt förbud mot servering av alkohol
+
+Socialdepartementet föreslår att förordningen (2020:956\) om tillfälligt förbud mot servering av alkohol ändras så att förbudet mot servering av spritdrycker, vin, starköl och andra jästa alkoholdrycker eller alkoholdrycksliknande preparat mellan klockan 20\.00 och 11\.00 förlängs. Enligt den förordningsändring som beslutades den 14 januari 2021 gäller det skärpta förbudet till och med den 24 januari 2021\. På grund av det allvarliga smittläget av det virus som orsakar sjukdomen covid\-19 föreslås att förbudet förlängs till och med den 7 februari 2021\.

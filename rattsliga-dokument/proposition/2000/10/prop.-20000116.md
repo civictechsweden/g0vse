@@ -1,0 +1,3 @@
+# Vissa ålderspensionsfrågor, m.m.
+
+I propositionen föreslås att ålderspensionen skall beräknas enligt särskilda regler för den som är född 1938 eller 1939 och som i december 2000 uppbär ålderspension. De särskilda reglerna skall gälla från och med januari 2001 t.o.m. månaden före den månad då pensionstagaren fyller 65 år om inte han eller hon dessförinnan har ändrat sitt uttag av ålderspension. De särskilda reglerna innebär att pensionen skall beräknas enligt lagen (1998:674\) om inkomstgrundad ålderspension (LIP) men att tilläggspensionen ska utges med 20/20\-delar istället för 16/20 respektive 15/20 och att någon inkomstpension inte ska utges.

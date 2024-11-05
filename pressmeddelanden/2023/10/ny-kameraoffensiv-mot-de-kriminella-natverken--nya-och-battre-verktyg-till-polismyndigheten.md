@@ -1,0 +1,14 @@
+# Ny kameraoffensiv mot de kriminella nätverken – nya och bättre verktyg till Polismyndigheten
+
+– Detta har stor praktisk betydelse för att förhindra och förebygga fler skjutningar och sprängningar. Och polisens möjligheter att identifiera och lagföra kriminella förbättras avsevärt. Det handlar om att skapa enklare och tydligare regler, och därmed öka utrymmet att använda kameror och andra effektiva verktyg i brottsbekämpningen, säger justitieminister Gunnar Strömmer.
+
+Som en del i arbetet att lägga om rättspolitiken tillsatte regeringen tidigare i år en kamerabevakningsutredning. Utredningen består av två delar. I den första delen utreds behovet av förenklade regler för kamerabevakning för kommuner och regioner. Utgångspunkten är att tillståndskravet för kommuner och regioner tas bort när dessa vill kamerabevaka allmänna platser. I den andra delen har utredningen ett brett formulerat uppdrag om utökade möjligheter till kamerabevakning för polisen.
+
+Den eskalerande situationen i samhället med bland annat allt grövre gängvåld gör att regeringen ser ett behov av en ny kameraoffensiv. Kameraoffensiven består av fyra delar.
+
+1. Regeringen ska besluta om ett tilläggsdirektiv till den sittande kamerabevakningsutredningen. Utredaren ska se över och föreslå lagändringar bland annat för att polisen ska kunna kamerabevaka med drönare i större utsträckning. Utredaren ska också föreslå ytterligare undantag från kraven att skylta med sin kamerabevakning, till exempel vid användning av civila polisbilar.
+2. Tre lagändringar för att ytterligare förbättra möjligheten för kamerabevakning ska utredas i ett snabbspår i Regeringskansliet. Polisen ska ges bättre förutsättningar att använda kamerabevakning med automatisk avläsning av registreringsskyltar, kunna ta del av kamerabevakningsmaterial från annans bevakning, till exempel trafikkameror, samt i större utsträckning kunna använda sig av ansiktsigenkänning för att till exempel kunna identifiera gängmedlemmar.
+3. Ett nytt kvantitativt kameramål införs i Polismyndighetens regleringsbrev – polisen ska öka antalet fasta och mobila bevakningskameror från nuvarande mål på 1 600 bevakningskameror till 2 500 bevakningskameror till 2024\. Det innebär att antalet kameror femdubblas till utgången av 2024\.
+4. Regeringen kommer också ge Polismyndigheten, Trafikverket och Transportstyrelsen i uppdrag att se över och vid behov lämna förslag på hur Polismyndigheten kan ges ökad tillgång till befintliga kamerasystem kopplade till den statliga transportinfrastrukturen. Syftet är att ge Polismyndigheten större möjligheter att följa gängkriminellas rörelser över landet och ska kunna leda till en större och efterfrågad informationsinhämtning för myndigheten.
+
+Förslagen bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

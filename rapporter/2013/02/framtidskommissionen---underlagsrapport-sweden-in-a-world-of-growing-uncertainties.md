@@ -1,0 +1,5 @@
+# Framtidskommissionen - underlagsrapport: Sweden in a World of Growing Uncertainties
+
+This report lays out the basic rationale for a Swedish transformation into a 21st century green economy. The notion of 'green economy' has gained a significant foothold in the scientific and public debate, especially in the last few years. Most basically, it signifies new thinking designed to tackle an accumulated set of problems. It proceeds from the growing realisation that a damaged environment has direct economic and social consequences, and goes beyond the narrow ecological agenda of recent decades, or debates over sustainability. In policy terms, it involves the systematic incorporation of environmental considerations into the heart of economic decision\-making – and, by extension, into the heart of modern society.
+
+The implications of carrying out such a transformation are potentially major. A green economy can be a prime means of strengthening Sweden's economic, political and social fabric against a future likely to be defined by growing uncertainties, possibly punctuated by severe crises, and almost certainly shadowed by insecurity.

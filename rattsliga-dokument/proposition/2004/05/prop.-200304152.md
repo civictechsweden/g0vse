@@ -1,0 +1,11 @@
+# Anpassningar med anledning av en ny statlig myndighet för socialförsäkringens administration
+
+I propositionen lämnas förslag till ändringar i nu gällande lagstiftning och förslag till ny lagstiftning. Förslagen är en konsekvens av att regeringen i propositionen En ny statlig myndighet för socialförsäkringens administration (prop. 2003/04:69\) föreslagit att den nuvarande socialförsäkringsadministrationen med 21 allmänna försäkringskassor och Riksförsäkringsverket skall avvecklas den 31 december 2004 och att en ny statlig myndighet för denna administration inrättas den 1 januari 2005\. Riksdagen har antagit regeringens förslag (bet. 2003/04:SfU13, rskr. 2003/04:210\). Den nya myndigheten kommer att heta Försäkringskassan.
+
+Försäkringsdelegationer skall inrättas i varje län. Utöver att bevaka att Försäkringskassans verksamhet bedrivs effektivt med god service beslutar försäkringsdelegationerna i frågor om regional finansiell samverkan mellan myndigheter m.fl. Socialförsäkringsnämnderna skall finnas kvar som beslutande organ och ha beslutanderätt i samma frågor som i dag. Nämndledamöterna skall utses av försäkringsdelegationerna.
+
+Ett allmänt ombud föreslås bli inrättat hos den nya Försäkringskassan. Det allmänna ombudet skall kunna överklaga Försäkringskassans beslut hos allmän förvaltningsdomstol. Det allmänna ombudet utses av regeringen. Försäkringskassan företräder dock det allmänna som den enskildes motpart i allmän förvaltningsdomstol när det bara är den enskilde som överklagar Försäkringskassans beslut.
+
+Övergångsfrågor med anledning av den nuvarande socialförsäkringsadministrationens avveckling och inrättandet av den nya administrationen, regleras i lagen (2004:274\) med anledning av inrättande av Försäkringskassan och i övergångsbestämmelserna till 18 kap. lagen (1962:381\) om allmän försäkring. Det gäller dels frågor om förfarandet med fonder, stiftelser och fastigheter m.m. som förvaltas eller ägs av de allmänna försäkringskassorna, dels frågor om ärendehanteringens övergång från den gamla administrationen till den nya.
+
+Lagarna föreslås träda i kraft den 1 januari 2005, när den nya Försäkringskassan börjar sin verksamhet.

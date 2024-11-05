@@ -1,0 +1,13 @@
+# Fastställelse av nationell trafikslagsövergripande plan för transportinfrastrukturen för perioden 2018-2029
+
+Fastställelse av nationell trafikslagsövergripande plan för transportinfrastrukturen för perioden 2018\-2029, beslut om byggstarter 2018\-2020, beslut om förberedelse för byggstarter 2021\-2023 samt fastställelse av definitiva ekonomiska ramar för trafikslagsövergripande länsplaner för regional transportinfrastruktur för perioden 2018\-2029 (rskr. 2016/17:101\).
+
+Diarienummer: N2018/03462/TIF, mfl. (se bilaga 1\)
+
+
+Med upphävande av regeringens beslut den 3 april 2014 om fastställelse av nationell trafikslagsövergripande plan för utveckling av transportsystemet samt fastställelse av definitiva ekonomiska ramar för trafikslagsövergripande länsplaner för regional transportinfrastruktur för perioden 2014\-2025 fastställer regeringen den nationella trafikslagsövergripande planen för transportinfrastrukturen för perioden 2018\-2029\. Från upphävandet undantas genomförande av åtgärder i den trafikslagsövergripande nationella planen och de trafikslagsövergripande länsplanerna för regional transportinfrastruktur för vilka Trafikverket har tecknat avtal om medfinansiering och förskottering och för vilka medel har betalats in till Trafikverket under 2018\. Fastställelsen gäller Trafikverkets förslag till nationell plan för transportsystemet 2018\-2029 med de omprioriteringar som framgår av detta beslut.
+
+Riksdagen har beslutat om en ekonomisk ram och en planeringsram med anledning av regeringens proposition Infrastruktur för framtiden \-
+innovativa lösningar för stärkt konkurrens.kraft och hållbar utveckling (prop. 2016/17:21, bet. 2016/17: TU4, rskr. 2016/17:101\). Dessa ramar ska användas i enlighet med vad som anges i bilagorna 2\-4\.
+
+Trafikverket ska bedriva det planeringsarbete som krävs för ett genomförande av objekten under perioden 2018\-2029 i enlighet med bilaga 2\. Regeringen beslutar vidare att Trafikverket får byggstarta de åtgärder som anges i bilaga 3 under perioden 2018\-2020 och att myndigheten får förbereda de åtgärder som anges i bilaga 3 för byggstart under perioden 2021\-2023\. Regeringen fastställer vidare de definitiva ekonomiska ramarna för trafikslagsövergripande länsplaner för regional transportinfrastruktur för perioden 2018\-2029\. De ekonomiska ramarna framgår av bilaga 2\. Senast den 1 oktober 2018 ska regionalt utvecklingsansvarig aktör i respektive län (länsplaneupprättarna) fastställa länsplanernas innehåll. Kopior på länsplanerna med tillhörande fastställelsebeslut ska därefter lämnas till Regeringskansliet (Näringsdepartementet). l bilaga 4 finns en sådan särskild sammanställning som avses i 6 kap. 16 § miljöbalken.

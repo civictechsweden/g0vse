@@ -1,0 +1,3 @@
+# Action plan: Defending Free Speech - measures to protect journalists, elected representatives and artists from exposure to threats and hatred
+
+The Government is commencing a more systematic effort to safeguard – and thereby strengthen \- the democratic discourse against threats and hatred. The work conducted by the judicial authorities is of importance, but not enough to protect the democratic discourse. This action plan, issued by the Swedish Government, is specifically intended to safeguard politically elected representatives, journalists and artists as a part of the infrastructure of the democratic discourse. These actors are particularly exposed due to the functions they have in society.

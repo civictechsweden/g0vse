@@ -1,0 +1,7 @@
+# Regeringen har beslutat om reglerna för elstöd till företag
+
+Regeringen har under våren arbetat intensivt med att få elstödet till företag och organisationer på plats. Den 20 februari remitterade Klimat\- och näringslivsdepartementet och Finansdepartementet två förslag med regleringar för stödutbetalningarna. Parallellt inledde Klimat\- och näringslivsdepartementet en dialog med Europeiska kommissionen. Den 4 april kunde en formell statsstödsanmälan skickas in. Europeiska kommissionen godkände ansökan i fredags den 5 maj.
+
+– Så sent som i fredags godkände Europeiska kommissionen den stödordning som ska reglera elstödet till företag. Jag är glad att kunna meddela att regeringen så snabbt som möjligt på ett extra regeringssammanträde i dag har fattat beslut om förordningen. Detta möjliggör att företag kommer kunna ansöka om stöd från och med 30 maj, säger energi\- och näringsminister Ebba Busch.
+
+En skillnad jämfört med det remitterade förslaget är att företag och organisationer med fastprisavtal för sin hela elförbrukning som började gälla före den 24 februari 2022 och som fortfarande gällde med samma fasta pris den 24 februari 2023 inte kommer vara stödberättigade. Anledningen till detta är att Europeiska kommissionen bland annat ville försäkra sig om att endast företag och organisationer som påverkats negativt av Rysslands invasion av Ukraina får del av elstödet. I övrigt har endast marginella justeringar gjorts i förslaget. Företag kommer, som tidigare aviserats, kunna ansöka hos Skatteverket från och med den 30 maj.

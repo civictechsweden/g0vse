@@ -1,0 +1,7 @@
+# Gemensamt uttalande med Ukraina uppmärksammar vårdpersonalens betydelse
+
+­– Jag är glad över att ha deltagit i mötet med mina ministerkollegor, dels för att åter visa Sveriges stöd till Ukraina, dels för att befästa att vårdpersonal är hörnstenen i varje fungerande vårdsystem. Detta syns inte minst idag i Ukraina där vårdpersonalen varje dag arbetar under mycket svåra förhållanden och möter krigets konsekvenser, säger sjukvårdsminister Acko Ankarberg Johansson.
+
+Hälsoministermötet hölls i Kiev och digitalt i samband med det årliga First Lady Summit, som Ukrainas första dam Olena Zelenska står värd för. Förutom sjukvårdsminister Acko Ankarberg Johansson och hälsominister Viktor Liashko deltog även Världshälsoorganisationens regiondirektör för Europa Hans Kluge samt hälsoministrar från bland annat Polen, Tyskland och Danmark.
+
+Vid mötet antog ministrarna ett gemensamt uttalande som lyfter att tillgången till vård är en grundläggande mänsklig rättighet, och att vårdpersonalen är hörnstenen i varje vårdsystem. Ministrarna uttalar också att inget enskilt vårdsystem är helt skyddat från risker, vare sig det är olyckor, konflikter eller globala utmaningar, och att internationellt samarbete och gemensamma insatser är viktiga verktyg för att bygga motståndskraftiga vårdsystem. I uttalandet uppmanar ministrarna formella och informella internationella samarbeten och partnerskap på olika nivåer för att stärka vårdpersonal.

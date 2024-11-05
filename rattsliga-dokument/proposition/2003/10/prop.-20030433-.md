@@ -1,0 +1,5 @@
+# Ändringar i reglerna om framskjuten beskattning vid andelsbyten, m.m.
+
+Regeringen överlämnar idag en proposition till riksdagen om ändringar i reglerna om framskjuten beskattning vid andelsbyten. I propositionen föreslås också att Stiftelsen Anna Lindhs minnesfond ska vara skattebefriad.
+
+I propositionen föreslås följdändringar till de utvidgade reglerna om framskjuten beskattning vid andelsbyten som trädde i kraft den 1 januari 2003 (prop. 2002/03:15\). Följdändringarna, som är till fördel för den skattskyldige, innebär att s.k. sparat lättnadsutrymme och sparat utdelningsutrymme som är kopplat till utbytta andelar ska fördelas på de mottagna andelarna. Ändringarna föreslås gälla retroaktivt från den 1 januari 2003\. På begäran av den skattskyldige ska reglerna under vissa förutsättningar också kunna tillämpas vid andelsbyten som har skett tidigare.

@@ -1,0 +1,5 @@
+# Utfärdande av provisoriska pass för barn för direkt resa till Sverige
+
+I propositionen föreslås att pass för direkt resa till Sverige skall utfärdas för den som är under arton år om barnets vårdnadshavare lämnat medgivande. Pass skall dock få utfärdas även utan sådant medgivande om ett barn befinner sig i en situation där det finns risk för att dess hälsa eller utveckling skadas eller det annars finns särskilda skäl. Vidare föreslås att pass för barn för direkt resa till Sverige som utfärdats utan vårdnads\-havares medgivande, inte skall kunna återkallas av vårdnadshavaren. Slutligen föreslås att kommunal nämnd som fullgör uppgifter inom socialtjänsten, på begäran av en passmyndighet, skall yttra sig i pass\-ärenden som gäller fråga om att utan vårdnadshavares medgivande utfärda pass för den som är under arton år. Ett yttrande skall avges skyndsamt om ett passärende gäller fråga om att utan vårdnadshavares medgivande utfärda pass för barn för direkt resa till Sverige.
+
+De föreslagna lagändringarna föreslås träda i kraft den 1 juli 2006\.

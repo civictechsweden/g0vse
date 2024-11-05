@@ -1,0 +1,5 @@
+# Framtidskommissionen - underlagsrapport: 500 texter om framtidens Sverige - från Trelleborg till Arjeplog
+
+I denna rapport summeras projektet Framtidens Sverige som genomförts av regeringens framtidskommission i samarbete med Sveriges kommuner och landsting (SKL). Rapporten bygger på mer än femhundra texter om framtidens utmaningar och möjligheter, formulerade av gymnasieungdomar, kommuner och landsting/regioner från norr till söder.
+
+Rapporten kan ses som en "snabbguide" till viktiga framtidsutmaningar och strategier som kommuner och landsting/regioner lyft fram i sina texter. Här ges också glimtar av tankelinjer i ungdomarnas önskemål och tankar om framtiden, i form av en mängd citat. Presentationer görs inom tre områden: att leva och bo, arbetsmarknad och näringsliv samt ekologiskt hållbar utveckling. Rapporten pekar på både motsatser och samstämmighet mellan lokala och regionala visioner och den framtid gymnasieeleverna vill se i sina hemkommuner. Den ger också en bild av hur framtidens Sverige skulle kunna se ut om kommuners och landstings visioner skulle förverkligas.

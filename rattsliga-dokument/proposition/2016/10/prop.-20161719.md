@@ -1,0 +1,7 @@
+# Utbyte av upplysningar om förhandsbesked i gränsöverskridande skattefrågor och förhandsbesked om prissättning
+
+I propositionen lämnas förslag till författningsändringar som krävs för att genomföra rådets direktiv om ändring av direktiv 2011/16/EU vad gäller obligatoriskt automatiskt utbyte av upplysningar i fråga om beskattning i svensk rätt. Direktivet medför att medlemsstaternas behöriga myndigheter genom automatiskt utbyte ska lämna upplysningar om förhandsbesked i gränsöverskridande skattefrågor och förhandsbesked om prissättning till övriga medlemsstaters behöriga myndigheter och till Europeiska kommissionen. Vissa grundläggande upplysningar ska lämnas till samtliga medlemsstaters behöriga myndigheter. Kommissionen ska få del av en begränsad uppsättning grundläggande upplysningar. Upplysningar från förhandsbesked i gränsöverskridande skattefrågor som uteslutande gäller eller omfattar en eller flera fysiska personers skatteärenden omfattas inte av utbytet. Bilaterala och multilaterala förhandsbesked om prissättning med länder utanför Europeiska unionen är i vissa fall undantagna från utbytet. Upplysningar ska även, med vissa undantag, utbytas om besked som meddelats under de senaste fem åren före ikraftträdandet.
+
+I propositionen föreslås ändringar i lagen om administrativt samarbete inom Europeiska unionen i fråga om beskattning.
+
+Bestämmelserna föreslås träda i kraft den 1 januari 2017\.

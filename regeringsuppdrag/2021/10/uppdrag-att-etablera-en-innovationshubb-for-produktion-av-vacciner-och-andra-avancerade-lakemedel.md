@@ -1,0 +1,16 @@
+# Uppdrag att etablera en innovationshubb för produktion av vacciner och andra avancerade läkemedel
+
+Regeringen ger Verket för innovationssystem (Vinnova) i uppdrag att etablera en innovationshubb för produktion av avancerade läkemedel såsom cell\- och genterapier och vacciner.
+
+
+Innovationshubben ska fungera som en samverkansmiljö där olika aktörer, såväl stora och små företag som universitet och högskolor kan bedriva innovationsprojekt. Innovationshubben ska stödja den svenska life science\-sektorn, särskilt mindre tillväxtbolag, genom att tillgängliggöra kompetens och storskalig processkapacitet i syfte att stärka näringslivets konkurrenskraft. Det är av stor vikt att Sverige kan följa med i teknikutvecklingen som ledande life science\-nation. Dessutom stärks försörjningsberedskapen inklusive beredskapen för pandemier. Vid etableringen av innovationshubben ska de synergieffekter som samverkan med näringslivet erbjuder nyttjas.
+
+I uppdraget ingår att utforma insatser för att inrätta ledningsstrukturer och utveckla en långsiktig affärsmodell för verksamheten i innovationshubben. Innovationshubben kommer att vara komplementär till den verksamhet som bedrivs vid innovationshubben Testa Center, och utgör ett naturligt nästa steg i utvecklingskedjan för att möjliggöra processutveckling och produktion i stor skala.
+
+Vinnova ska på lämpligt sätt tillvarata den kunskap och de erfarenheter som finns hos Cytiva Testa Center AB i Uppsala och RISE Research Institutes of Sweden AB (RISE) samt andra berörda aktörer, såsom företag, innovationshubbar, universitet och högskolor, regioner och myndigheter. Innovationshubben ska vara operativ senast den 31 mars 2023\.
+
+För uppdraget får Vinnova under 2021 rekvirera 21 miljoner kronor, som ska redovisas mot det under utgiftsområde 24 Näringsliv för budgetåret 2021 uppförda anslaget 1:5 Näringslivsutveckling anslagsposten 1 Näringslivsutveckling – del till Kammarkollegiet. För 2022 beräknas 15 miljoner kronor avsättas för samma ändamål. Medlen betalas ut efter rekvisition till Kammarkollegiet senast den 15 november 2021 respektive 2022\. Medel som inte har använts för avsett ändamål ska återbetalas senast den 31 mars 2023 till Kammarkollegiet. Vid samma tidpunkt ska en ekonomisk redovisning av använda medel lämnas till Kammarkollegiet. Rekvisition, återbetalning och redovisning av medel ska hänvisa till diarienumret för detta beslut.
+
+Vidare får Vinnova under 2021 använda högst 14 miljoner kronor som ska redovisas mot det under utgiftsområde 24 Näringsliv för budgetåret 2021 uppförda anslaget 1:2 Verket för innovationssystem: forskning och utveckling anslagsposten 1 Verket för innovationssystem.
+
+Vinnova ska senast den 1 mars 2022 lämna en delredovisning av uppdraget till Regeringskansliet (Näringsdepartementet). Delredovisningen ska innehålla en statusrapport för uppstartsfasen samt förslag på organisatorisk modell, finansieringsplan och inriktning för verksamheten. Vinnova ska senast den 31 mars 2023 lämna en slutredovisning av uppdraget till Regeringskansliet (Näringsdepartementet). Slutredovisningen ska innehålla en ekonomisk redovisning.

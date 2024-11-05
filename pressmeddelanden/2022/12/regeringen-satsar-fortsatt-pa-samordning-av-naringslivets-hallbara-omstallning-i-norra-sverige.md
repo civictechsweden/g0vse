@@ -1,0 +1,9 @@
+# Regeringen satsar fortsatt på samordning av näringslivets hållbara omställning i norra Sverige
+
+– Det är hoppingivande att se den utveckling som sker just nu i norra Sverige. Näringslivet leder den gröna omställningen och skapar samtidigt jobb och välstånd. Samordnarens rapport visar de enorma kliv som tagits, den omfattande samhällsomvandling som äger rum samt hur industrins möjligheter och utmaningar ser ut framöver. Mot denna bakgrund och för att möjliggöra en god överlämning av arbetet avser regeringen att förlänga samordnarens uppdrag, säger energi\- och näringsminister Ebba Busch.
+
+– Den samhällsomställning som nu sker i norra Sverige är unik i sin omfattning vilket ställer krav på en välfungerande samverkan mellan nationell, regional och lokal nivå. Samordnaren har bidragit till att de insatser som görs på olika nivåer för att främja omställningen kompletterar varandra, vilket skapar stora möjligheter till hållbar regional utveckling och landsbygdsutveckling i de berörda länen, säger landsbygdsminister Peter Kullgren.
+
+I Norrbotten och Västerbotten pågår en omfattande nyindustrialisering kopplad till fossilfri produktion och elektrifiering. När nya hållbara industrier etablerar sig i norra Sverige kan denna del av landet bli ledande i den globala klimatomställningen. Genom att ligga i framkant med ny innovativ hållbar teknik finns konkurrensfördelar för svenskt näringsliv och företagande. De företag, kommuner och regioner som berörs mest av omställningen ser ett stort värde i Peter Larssons arbete, vilket enligt tidigare uppdrag löper ut den 30 november 2022\.
+
+Regeringen ser att det finns ett fortsatt behov av att utveckla former för god koordinering utifrån aktuella utmaningar. Likaså finns ett fortsatt behov av att främja gemensamma lösningar och samverkansformer för de aktörer som stöttar i arbetet med industrisatsningarna och samhällsomvandlingen.

@@ -1,0 +1,9 @@
+# Vissa ändringar av Europolkonventionen och Schengenkonventionen
+
+I propositionen föreslår regeringen att Sverige ska tillträda två protokoll med ändringar av Europolkonventionen. Det första protokollet, som undertecknades år 2002, innebär bl.a. att Europol ska kunna delta i en stödjande funktion i gemensamma utredningsgrupper, som har inrättats i enlighet med 2000 års konvention om ömsesidig rättslig hjälp i brottmål mellan Europeiska unionens medlemsstater eller i enlighet med 2002 års rambeslut om gemensamma utredningsgrupper. Det innehåller också bestämmelser om hur medlemsstaterna ska behandla framställningar från Europol om att inleda, genomföra eller samordna utredningar i särskilda fall.
+
+Det andra protokollet, som undertecknades år 2003, innehåller bestämmelser som syftar till att Europol ska kunna utföra sina arbetsuppgifter på ett effektivare sätt och stärka sitt stöd till medlemsstaternas brottsbekämpande myndigheter. Protokollet gör det också möjligt för medlemsstaterna att bestämma att även andra myndigheter än den nationella enheten får ha direktkontakt med Europol och söka i dess register.
+
+Sveriges tillträde till protokollen föranleder ändringar i lagen om immunitet och privilegier i vissa fall och i lagen om vissa former av internationellt samarbete i brottsutredningar.
+
+I propositionen föreslår regeringen också en ändring i lagen om Schengens informationssystem med anledning av en förordning från Europaparlamentet och rådet från 2005 om tillgången till Schengens informationssystem för de organ i medlemsstaterna som ansvarar för att utfärda registreringsbevis för fordon.

@@ -1,0 +1,3 @@
+# Sjöfartsstödets inriktning
+
+I propositionen föreslås att det nuvarande sjöfartsstödets inriktning ändras till att kunna omfatta fler fartygskategorier än last\- och passagerarfartyg som huvudsakligen går i utrikestrafik av betydelse för den svenska utrikeshandeln eller den svenska tjänsteexporten. Syftet är att åstadkomma bättre konkurrensvillkor för svensk sjöfartsnäring gentemot omvärlden genom att fler fartyg kan berättigas till sjöfartsstöd inom ramen för EU:s riktlinjer för statligt stöd till sjötransport. Riksdagens godkännande av förslaget innebär att regeringen, efter godkännande från Europeiska kommissionen, i förordningsform kan utforma de närmare villkoren för stödet.

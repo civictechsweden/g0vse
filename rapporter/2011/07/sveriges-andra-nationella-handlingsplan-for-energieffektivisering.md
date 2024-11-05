@@ -1,0 +1,9 @@
+# Sveriges andra nationella handlingsplan för energieffektivisering
+
+Sveriges riksdag har i enlighet med Europarlamentets och rådets direktiv 2006/32/EG av den 5 april 2006 om effektiv slutanvändning av energi och om energitjänster och om upphävande av rådets direktiv 93/76/EEG – energitjänstedirektivet – antagit ett övergripande nationellt vägledande mål om 9 procent energibesparing till år 2016 jämfört med den genomsnittliga slutanvända energin under perioden 2001–2005 (prop. 2008/09:163, bet. 2008/09:NU25, rskr. 2008/09:301\). Sveriges riksdag har i samma beslut även fastställt ett mellanliggande vägledande mål om 6,5 procent energibesparing till år 2010\. De procentuella energibesparingsmålen är omräknad till energibesparing i fysiska termer och motsvarar 24,0 TWh till år 2010 och 33,2 TWh till år 2016\.
+
+I denna handlingsplan visas att Sverige med god marginal uppnår besparingsmålen enligt energitjänstedirektivet (2006/32/EG). Genom huvudsaklig användning av de beräkningsmetoder som Europeiska kommissionen rekommenderar beräknas besparingen bli 33,1 TWh slutanvänd energi till år 2010 och 53,8 TWh till år 2016\.
+
+Resultaten i denna handlingsplan skiljer sig från den första handlings¬planen p.g.a. att fler insatser har omfattats, andra beräkningsmetoder har använts samt att beräkningarna omfattar andra tidsperioder och livslängder. Det är därför olämpligt att jämföra resultaten.
+
+I denna handlingsplan redovisas, utöver vad som krävs enligt artikel 14\.2 i energitjänstedirektivet (2006/32/EG), den förteckning av styrmedel och åtgärder för att främja energieffektivisering i byggnader som krävs enligt artikel 10\.2 i Europaparlamentets och rådets direktiv 2010/31/EU av den 18 juni 2010 om byggnaders energiprestanda. Vidare redovisas, i enlighet med artikel 14\.4 och artikel 15\.4 i direktivet 2010/31/EU, att svenska rådgivningsinsatser kring värmesystem och luftkonditioneringssystem är likvärdiga med inspektion av sådana system.

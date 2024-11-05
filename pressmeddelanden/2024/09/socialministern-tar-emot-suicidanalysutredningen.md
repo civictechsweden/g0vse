@@ -1,0 +1,3 @@
+# Socialministern tar emot Suicidanalysutredningen
+
+

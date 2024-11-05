@@ -1,0 +1,14 @@
+# Uppdrag att inrätta en förenklingsgrupp för EU:s gemensamma jordbrukspolitik för perioden 2021–2027
+
+Regeringen uppdrar åt Statens jordbruksverk (Jordbruksverket) att, inom ramen för sitt uppdrag att bistå regeringen i arbetet med EU:s gemensamma jordbrukspolitik för perioden 2021–2027, inrätta en förenklingsgrupp som ska analysera olika förslag och steg i arbetet ur ett stödmottagarperspektiv åt Jordbruksverket.
+
+
+I förenklingsgruppen ska det finnas företrädare för lantbrukare, andra mottagare av stöd och ersättningar inom den gemensamma jordbruks\-politiken, rådgivningsorganisationer, länsstyrelser samt andra berörda myndigheter och organisationer. Uppdraget sträcker sig till dess åtgärderna i den strategiska planen har genomförts. Jordbruksverket ska redogöra för förenklingsgruppens arbete i sin årsredovisning enligt vad Regeringskansliet (Näringsdepartementet) närmare anger.
+
+## Skälen för regeringens beslut
+
+EU\-kommissionen lämnade den 1 juni 2018 ett förslag till reform av den gemensamma jordbrukspolitiken för perioden efter 2020\. Förslaget innebär ett ökat inflytande för medlemsstaterna i val av åtgärder samt regler och villkor för åtgärderna. Åtgärderna får medlemsstaterna välja utifrån hur de anser att dessa leder till att de EU\-gemensamma målen kan uppnås på bästa sätt. Åtgärderna ska redovisas i en nationell strategisk plan för genomförandet av politiken.
+
+Den strategiska planen ska omfatta åtgärder från både pelare 1 (inkomststöden och delar av marknadsåtgärderna) och pelare 2 (nuvarandelandsbygdsprogram). Planen ska godkännas av EU\-kommissionen i förväg. EU\-kommissionen ska övervaka och kontrollera att det nationella genomförandet är i enlighet med de på EU\-nivå överenskomna målen samt följa upp budgetens genomförande.
+
+Jordbruksverket är den myndighet som har det övergripande ansvaret för förvaltning och utbetalningar inom ramen för den gemensamma jordbrukspolitiken i den nuvarande programperioden, 2014–2020\. Tillämpningen av politiken är förenad med en omfattande administration som är betungande såväl för företag och andra stödmottagare som för berörda myndigheter. Regeringens utgångspunkt är att de möjligheter till förenkling som ges i förberedelserna för, och genomförandet av, den nya gemensamma jordbrukspolitiken för kommande period ska tas tillvara samtidigt som EU\-gemensamma och relevanta nationella mål nås. Särskilt viktigt är det att åstadkomma förenklingar av betydelse för företagen samt uppnå korrekt och effektiv förvaltning av den nya gemensama jordbrukspolitiken. För att detta ska kunna ske behöver kompetensen och den praktiska erfarenheten hos rådgivningsorganisationer, företagare och andra stödmottagare tas tillvara i arbetet. Regeringens utgångspunkt är att förenklingsgruppen kommer att kunna belysa konsekvenser för företagen av olika förslag och bistå Jordbruksverket med konkreta alternativ som kan leda till ytterligare förenklingar.

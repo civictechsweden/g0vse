@@ -1,0 +1,3 @@
+# En anpassad försvarsunderrättelseverksamhet
+
+I propositionen föreslås ändringar i lagen om försvarsunderrättelseverksamhet. Ändringarna innebär att mandatet för försvarsunderrättelseverksamheten anpassas från "yttre militära hot" till "yttre hot" och att det uttryckligen anges att verksamheten endast får avse utländska förhållanden. Vidare förtydligas gränsdragningen mellan polisiär verksamhet och försvarsunderrättelseverksamhet. Det föreslås också tydligare regler avseende inriktning och rapportering av underrättelser samt att samhällets funktioner för inriktning och kontroll av försvarsunderrättelseverksamheten skall förstärkas.

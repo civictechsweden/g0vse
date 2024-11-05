@@ -1,0 +1,5 @@
+# EU-minister Jessica Rosencrantz deltar vid ministerrådsmöte i Luxemburg
+
+EU\-ministrarna kommer bland annat förbereda Europeiska rådets möte som äger rum den 17–18 oktober. På agendan står frågor om Rysslands aggression mot Ukraina, situationen i Mellanöstern, konkurrenskraft och migration. Det Allmänna rådet föreslås också anta en deklaration om att främja judiskt liv och bekämpa antisemitism i EU.
+
+– Möjligheterna för judar att leva öppet och fritt runtom i Sverige har försämrats kraftigt sen Hamas terrorattack. Situationen ser likadan ut i övriga Europa med ökad antisemitism, hat och hot riktat mot judar. Det kan vi inte acceptera. Sverige har därför arbetat aktivt för att en deklaration ska antas på mötet. Den innebär att rådet för första gången uppmanar medlemsländer att stärka arbetet med att främja judiskt liv och påminner om att anta nationella strategier eller handlingsplaner mot antisemitism. Det handlar om frihet för individen och respekt för våra gemensamma värderingar, säger EU\-minister Jessica Rosencrantz.

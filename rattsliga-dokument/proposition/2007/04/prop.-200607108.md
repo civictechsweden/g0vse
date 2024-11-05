@@ -1,0 +1,13 @@
+# Utredningar avseende barn som har avlidit i anledning av brott m.m.
+
+I propositionen föreslår regeringen en ny lag med bestämmelser om att en utredningsmyndighet skall genomföra en utredning när ett brott har begåtts mot ett barn och barnet har avlidit i anledning av brottet eller det annars finns särskilda skäl att utreda ett barns dödsfall och det finns särskild anledning att anta att dödsfallet har samband med förhållanden som har inneburit att barnet varit i behov av skydd. En utredning får även genomföras när ett barn har avlidit utomlands, om barnet var svensk medborgare eller hade hemvist i Sverige. Med barn avses i lagen personer under 18 år. Syftet med utredningsverksamheten skall vara att ge underlag för förslag till åtgärder som förebygger att barn far illa. Utredningsverksamheten skall bedrivas av den myndighet som regeringen bestämmer.
+
+I lagen finns också en bestämmelse som innebär att polismyndigheter och åklagare i vissa fall är skyldiga att lämna underrättelser till utredningsmyndigheten samt en bestämmelse om vid vilken tidpunkt en utredning får inledas. Vidare finns en bestämmelse om uppgiftsskyldighet för bl.a. sådana myndigheter och yrkesverksamma vars verksamheter berör barn.
+
+I lagen anges att en utredning skall klarlägga samtliga förhållanden som har inneburit att det avlidna barnet har varit i behov av skydd och vilka åtgärder som har vidtagits eller kunnat vidtas för att skydda barnet. I lagen anges också att en utredning inte får genomföras på ett sådant sätt att den medför men för en brottsutredning, rättegång eller ett ärende om tillsyn.
+
+Vidare lämnas i propositionen förslag till ändring i sekretesslagen (1980:100\) som innebär att de uppgifter som kommer att hanteras av utredningsmyndigheten omfattas av sekretess. Sekretessen har utformats så att det föreligger presumtion för sekretess (s.k. omvänt skaderekvisit).
+
+I propositionen lämnas även förslag som innebär att den behandling av personuppgifter som kommer att ske i utredningsverksamheten kommer att regleras genom lagen (2001:454\) om behandling av personuppgifter inom socialtjänsten. Regeringens förslag innebär därför ändringar i sistnämnda lag.
+
+Lagförslagen föreslås träda i kraft den 1 januari 2008\. I en övergångsbestämmelse anges att vid dödsfall som inträffat före lagens ikraftträdande får utredningar inledas utan krav på underrättelse från polismyndighet eller åklagare. Vidare anges att sådana utredningar endast får avse fall där det genom en lagakraftvunnen dom konstaterats att ett brott har begåtts mot ett barn som har avlidit i anledning av brottet.

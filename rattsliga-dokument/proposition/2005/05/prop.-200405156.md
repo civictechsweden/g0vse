@@ -1,0 +1,5 @@
+# Åtgärder inom sjöfartsskyddet, m.m.
+
+Propositionen innehåller förslag till ändringar i fartygssäkerhetslagen (2003:364\) och lagen (2004:487\) om sjöfartsskydd. De föreslagna ändringarna rör flera olika områden. En bestämmelse som möjliggör tillsyn över efterlevnaden av bestämmelser om s.k. IMOidentifikationsnummer och fartygshistorik införs liksom en ändring i bestämmelsen om nyttjandeförbud. Vidare ges en möjlighet för tillsynsmyndigheten inom sjöfartsskyddet att vidta åtgärder mot svenska fartyg som har brister i sitt sjöfartsskydd. De befintliga sjöfartsskyddsreglerna, som är internationella i sin grund, tar sikte främst på förhållanden olika stater och deras fartyg emellan, varför regler som avser staternas egna fartyg lämnats till nationell lagstiftning. Den föreslagna bestämmelsen medför en följdändring i en nuvarande paragraf. Slutligen lämnas förslag till ändrad ordning för överklagande av vissa beslut inom sjöfartsskyddet. Ändringen innebär att ett underställningsförfarande införs.
+
+Lagändringarna föreslås träda i kraft den 1 januari 2006\.

@@ -1,0 +1,11 @@
+# Gränsöverskridande förvaltning och marknadsföring av alternativa investeringsfonder
+
+I lagrådsremissen föreslås att det införs bestämmelser i lagen om förvaltare av alternativa investeringsfonder som genomför de regler i AIFM\-direktivet som innebär att det blir möjligt även för icke EES\-baserade AIF\-förvaltare och icke EES\-baserade alternativa investeringsfonder att med stöd av tillstånd i ett land inom EES genom ett underrättelseförfarande driva verksamhet i andra länder inom EES. I enlighet med AIFM\-direktivet kommer de bestämmelserna att kunna börja tillämpas tidigast 2015\.
+
+I lagrådsremissen föreslås även att nuvarande bestämmelser om icke EES\-baserade AIF\-förvaltare och icke EES\-baserade alternativa investeringsfonder i lagen om förvaltare av alternativa investeringsfonder ska upphöra att gälla samt att vissa följdändringarska göras. De nuvarande bestämmelserna kommer i enlighet med AIFM\-direktivet att kunna fortsätta att tillämpas åtminstone till 2018\.
+
+Vidare föreslås att en hänvisning i bestämmelserna om ingripande mot icke EES\-baserade AIF\-förvaltare i lagen om förvaltare av alternativa investeringsfonder ändras. Hänvisningen har medfört att Finansinspektionens möjligheter att ingripa har blivit snävare avgränsade än det som är avsett. Genom att hänvisningen ändras kan Finansinspektionen ingripa mot en sådan AIF\-förvaltare som driver verksamhet i Sverige och som åsidosätter sina skyldigheter enligt lagen om förvaltare av alternativa investeringsfonder eller andra författningar som reglerar förvaltarens verksamhet i Sverige, oavsett enligt vilken bestämmelse i lagen som förvaltaren har tillstånd att driva verksamheten.
+
+I lagrådsremissen föreslås slutligen ändringar i lagen om åtgärder mot penningtvätt och finansiering av terrorism som innebär att förvaltning av alternativa investeringsfonder ska omfattas av samma bestämmelser i den lagen som fondverksamhet enligt lagen om värdepappersfonder.
+
+Lagändringarna som avser bestämmelserna om Finansinspektionens möjligheter att ingripa mot icke EES baserade AIF\-förvaltare föreslås träda i kraft den 1 juli 2014\. Lagändringarna som avser åtgärder mot penningtvätt och finansiering av terrorism föreslås träda i kraft den 15 juli 2014\. Övriga lagändringar föreslås träda i kraft den dag regeringen bestämmer.

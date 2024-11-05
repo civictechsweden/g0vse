@@ -1,0 +1,8 @@
+# Europadomstolens dom (2002-11-12) i målet Döry mot Sverige
+
+Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.
+
+
+### Sammanfattning av domen
+
+Målet rörde frågan om domstolarnas underlåtenhet att hålla muntlig förhandling i mål angående sjukpenning stred mot artikel 6\. Europadomstolen erinrade om sin praxis enligt vilken det i allmänhet föreligger en rätt till muntlig förhandling i åtminstone en instans vid prövningen av civila rättigheter och skyldigheter. Domstolen konstaterade att klaganden inte begärt muntlig förhandling i länsrätten och fann därför att hon fick anses ha avstått från sin rätt till sådan förhandling i denna instans. Däremot hade hon begärt muntlig förhandling inför de båda högsta instanserna. Domstolen framhöll att Försäkringsöverdomstolen endast hade tagit ställning till frågan om prövningstillstånd och ansåg att det varit befogat att avgöra den frågan på grundval av handlingarna i akten. Vad slutligen gällde frågan om klaganden borde ha beviljats muntlig förhandling inför kammarrätten beaktade domstolen att den bedömning som skulle göras av om klagandens arbetsförmåga var nedsatt i sådan grad att hon var berättigad till sjukpenning baserades på skriftliga läkarutlåtanden som föreföll samstämmiga samt att hon inte hade åberopat någon muntlig bevisning inför kammarrätten och inte heller hade angett något skäl för sin begäran om muntlig förhandling. Domstolen fann att kammarrätten under dessa omständigheter hade kunnat göra en adekvat bedömning av tvisten på basis av läkarintygen och klagandens inlagor. Någon kränkning av artikel 6 ansågs därför inte ha ägt rum.

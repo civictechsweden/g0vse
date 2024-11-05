@@ -1,0 +1,3 @@
+# En global standard för automatiskt utbyte av upplysningar om finansiella konton
+
+I promemorian lämnas bland annat förslag till de författningar som krävs för att införliva OECD:s globala standard för automatiskt informationsutbyte om finansiella konton. Standarden består av en modell för avtal mellan behöriga myndigheter om att tillämpa de gemensamma rapporteringsnormerna som bifogas avtalet. I promemorian lämnas även förslag till de författningar som krävs för att genomföra rådets reviderade direktiv 2014/107/EU av den 9 december 2014 om ändring av direktivet 2011/16/EU vad gäller obligatoriskt automatiskt utbyte av upplysningar i fråga om beskattning.

@@ -1,0 +1,7 @@
+# Regeringen satsar på skolsociala team för att minska långvarig frånvaro i skolan
+
+– Vi vet att skolan är en av de viktigaste skyddsfaktorerna för att förebygga utanförskap, missbruk och ohälsa. För de elever som är borta under en längre tid från skolan, så kallade hemmasittare, kan tidiga insatser från skola och socialtjänst vara avgörande för att bryta en negativ utveckling. Därför är den här satsningen så viktig, säger skolminister Lotta Edholm.
+
+– Att bryta utanförskap och förebygga kriminalitet är prioriterade frågor för regeringen. Ska vi lyckas med det måste skolan och socialtjänsten få möjlighet att arbeta sida vid sida med förebyggande insatser. Regeringen satsar därför på förbättrad samverkan mellan skola och socialtjänst för att hjälpa barn som befinner sig i en utsatt situation, säger socialtjänstminister Camilla Waltersson Grönvall.
+
+Skolsociala team är ett sätt för skolan och socialtjänsten att arbeta tillsammans för att stärka förutsättningarna för elever att uppnå målen med utbildningen, skapa en lugn och trygg skolmiljö och för att öka elevers närvaro i skolan. Regeringen inför ett nytt statsbidrag till skolhuvudmän för personalkostnader i skolsociala team på 75 miljoner kronor för 2023\. För 2024 och 2025 beräknas satsningen uppgå till 250 miljoner kronor årligen. Regeringen ger även ett gemensamt uppdrag till Skolverket och Socialstyrelsen att stödja skolhuvudmän och socialtjänst när det gäller att inrätta och organisera sina skolsociala team. I uppdraget ingår även att utvärdera effekterna av satsningen.

@@ -1,0 +1,9 @@
+# Kroppsbesiktning i syfte att utreda ålder i brottmålsprocessen
+
+Det är av stor vikt att åldersbedömningar i brottmålsprocessen kan göras på ett rättvisande och rättssäkert sätt. Regeringen föreslår därför ett förtydligande i lag när kroppsbesiktning får göras för att utreda den misstänktes ålder.
+
+Förslaget innebär att kroppsbesiktning i syfte att utreda ålder ska få göras på den som skäligen kan misstänkas för ett brott som kan leda till fängelse. En förutsättning ska vara att den misstänktes ålder har betydelse för om påföljd får dömas ut eller betydelse för påföljdsfrågan i övrigt. Det kan t.ex. handla om att avgöra om den misstänkte är straffmyndig eller att åldern annars kan förväntas ha betydelse för valet av påföljd eller straffmätningen.
+
+Förslaget föreslås träda i kraft den 1 juli 2017
+
+[Pressmeddelande: Regeringsbeslut om möjlighet att göra åldersbedömningar i brottmålsprocesser](/pressmeddelanden/2017/03/regeringensbeslut-om-mojlighet-att-gora-aldersbedomningar-i-brottmalsprocesser/)

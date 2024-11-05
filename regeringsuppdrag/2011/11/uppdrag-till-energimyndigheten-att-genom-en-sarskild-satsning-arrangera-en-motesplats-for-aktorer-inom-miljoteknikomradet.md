@@ -1,0 +1,4 @@
+# Uppdrag till Energimyndigheten att genom en särskild satsning arrangera en mötesplats för aktörer inom miljöteknikområdet
+
+Regeringen uppdrar åt Statens energimyndighet att till och med 2014 arrangera en mötesplats där aktörer inom olika delar av miljöteknikområdet, innovatörer, entreprenörer, företag, kunder, finansiärer, myndigheter m.fl., får möjlighet att knyta kontakt med varandra och där utbyte av kunskap och information kan ske.
+Syftet med mötesplatsen ska vara att främja samverkan mellan berörda aktörer och därmed bl.a. bidra till att öka privata aktörers investeringar i miljöteknikområdet. Genomförandet ska ske genom myndighetens årliga konferens för energibranschen, men bör också ske genom olika samlande aktiviteter mellan de årliga konferenserna. Fokus ska ligga på tidiga kommersiella skeden.

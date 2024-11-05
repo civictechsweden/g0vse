@@ -1,0 +1,9 @@
+# Skäliga stöd- och anpassningsåtgärder för arbetstagare med funktionshinder
+
+Förslagen gäller lagen (1999:132\) om förbud mot diskriminering i arbetslivet på grund av funktionshinder. Bestämmelsen om arbetsgivares skyldigheter i fråga om skäliga stöd\- och anpassningsåtgärder för personer med funktionshinder föreslås ändras på så sätt att tillämpningsområdet vidgas. Enligt förslaget avskaffas den hittills gällande begränsningen till situationerna när arbetsgivaren beslutar i en anställningsfråga, tar ut en arbetssökande till anställningsintervju eller vidtar annan åtgärd under anställningsförfarandet respektive beslutar om befordran eller tar ut en arbetstagare till utbildning för befordran. Arbetsgivarens skyldigheter kommer i stället att gälla i alla de sju fall då diskrimineringsförbudet gäller enligt lagen. Skyldigheten gäller därmed \- förutom som tidigare i förhållande till arbetssökande och arbetstagare i frågor som rör befordran \- nu även i förhållande till arbetstagare under pågående anställning i alla situationer som avses i lagens förbud mot direkt diskriminering.
+
+Enligt förslaget ska vidare arbetsgivarens skyldigheter i fråga om stöd\- och anpassningsåtgärder gälla även i förhållande till den som söker eller fullgör yrkespraktik utan att vara anställd hos arbetsgivaren.
+
+Ändringarna i lagen föreslås träda i kraft den 1 december 2006\.
+
+Ändringarna innebär att EG\-rättens arbetslivsdirektiv i den del som avser skäliga stöd\- och anpassningsåtgärder fullt ut genomförs i Sverige (rådets direktiv 2000/78/EG av den 27 november 2000 om inrättande av en allmän ram för likabehandling i arbetslivet).

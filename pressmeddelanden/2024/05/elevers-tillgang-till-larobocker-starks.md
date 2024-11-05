@@ -1,0 +1,7 @@
+# Elevers tillgång till läroböcker stärks
+
+Den 1 juli i år förtydligas det i skollagen att elever ska ha tillgång till de läroböcker, läromedel och andra lärverktyg som behövs för en god kunskapsutveckling i enlighet med utbildningens mål. Samtidigt definieras vad läroböcker, läromedel och lärverktyg är. Det säkerställs på så sätt att skollagen inte kan tolkas som att det räcker med att elever får använda sig av digitala lärverktyg eller information på internet i undervisningen. Ändringarna i skollagen är en följd av att riksdagen i december 2023 biföll regeringens proposition Stärkt tillgång till läromedel.
+
+– Att ha tillgång till fysiska böcker i undervisningen borde vara en självklarhet för alla elever, men tyvärr är det inte alltid så idag. Det här är viktiga åtgärder och ytterligare ett steg i vår stora satsning för att stärka läskunnigheten bland Sveriges elever, säger skolminister Lotta Edholm.
+
+Regeringen har nu beslutat om ett antal förordningsändringar som en följd av ändringarna i skollagen. Bland annat genomförs ändringar i läroplanerna för de olika skolformerna. Det kommer till exempel att framgå att läroböcker, andra läromedel och andra lärverktyg ska användas i undervisningen. Dessutom tydliggörs det att rektorn har ansvar för att alla elever erbjuds strukturerad undervisning under lärares ledning. Även förordningen om statsbidrag för inköp av vissa läromedel ändras så att det blir tydligt att statsbidraget enbart gäller för inköp av läroböcker och lärarhandledningar.

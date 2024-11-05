@@ -1,0 +1,8 @@
+# CAT-kommitténs granskning (2005-05-06) i målet T.A. och S.T. mot Sverige
+
+FN:s CAT\-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.
+
+
+## Sammanfattning av yttrandet
+
+Ärendet rörde avvisning av en bangladeshisk medborgare och hennes dotter till hemlandet. Klaganden gjorde inför kommittén gällande att hon vid ett återsändande till Bangladesh riskerade att utsättas för tortyr. Hon gjorde härutöver även gällande att en verkställighet av avvisningsbeslutet skulle utgöra en kränkning av artikel 2 eller 16 i tortyrkonventionen på grund av hennes och hennes dotters bräckliga psykiska tillstånd och deras allvarliga posttraumatiska stressyndrom. Kommittén konstaterade att klaganden uppgivit att hon tillhör en fraktion av Jatiyapartiet som fortfarande är i opposition till regeringen och att tortyr mot politiska motståndare är mycket vanligt förekommande i Bangladesh. Den tortyr som klaganden tidigare utsatts för tycktes enligt kommitténs bedömning inte enbart ha skett som bestraffning för hennes egna politiska engagemang utan också för hennes makes aktiviteter. Kommittén konstaterade vidare bl.a. att klagandens make fortfarande höll sig gömd, att klaganden ganska nyligen utsatts för tortyr och att hon fortfarande var eftersökt av polisen i Bangladesh. Det fanns därför, enligt kommittén, grundad anledning att tro att klaganden riskerade tortyr om hon återsändes till Bangladesh och en verkställighet av avvisningsbeslutet skulle således utgöra en kränkning av artikel 3 i konventionen. Mot denna bakgrund fann kommittén det inte nödvändigt att pröva övriga klagomål.

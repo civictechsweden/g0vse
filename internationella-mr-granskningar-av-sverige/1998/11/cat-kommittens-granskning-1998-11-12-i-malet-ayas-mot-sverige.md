@@ -1,0 +1,8 @@
+# CAT-kommitténs granskning (1998-11-12) i målet Ayas mot Sverige
+
+FN:s CAT\-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.
+
+
+## Sammanfattning av yttrandet
+
+Ärendet gällde avvisning av en turkisk medborgare med kurdiskt ursprung till hemlandet. Klaganden uppgav att han tillhörde en politiskt aktiv familj och själv varit aktiv inom PKK. Han påstod vidare att han som en följd härav vid upprepade tillfällen fängslats och utsatts för tortyr. Kommittén, som fann att klaganden lämnat en godtagbar förklaring till varför han inför de svenska myndigheterna ändrat vissa uppgifter, ansåg inte att det fanns skäl till tvivel när det gällde den allmänna trovärdigheten hos klagandens påståenden. Klagandens uppgifter om sin politiska verksamhet ansågs också förenliga med den medicinska utredningen i ärendet enligt vilken han bl.a. led av PTSD. Mot bakgrund av situationen för mänskliga rättigheter i Turkiet, klagandens politiska uppfattning och samröre med PKK, liksom det frihetsberövande och den tortyr han utsatts för, ansåg kommittén att det fanns grundad anledning att anta att klaganden vid ett återsändande till hemlandet skulle vara i fara att arresteras och utsättas för tortyr. Kommittén drog således slutsatsen att Sverige hade en skyldighet att avstå från att återsända klaganden till Turkiet.

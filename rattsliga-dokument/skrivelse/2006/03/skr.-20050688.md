@@ -1,0 +1,3 @@
+# Ekologisk produktion och konsumtion - Mål och inriktning till 2010, Skr. 2005/06:88
+
+Skrivelse överlämnad av den tidigare regeringen i mars 2006\. I skrivelsen redovisade regeringen sin bedömning av målen för ekologisk produktion och inriktningen för arbetet med konsumtion av ekologiska livsmedel i offentlig sektor till 2010\. Regeringens bedömning var att den certifierade ekologiska odlingen vid utgången av 2010 minst bör uppgå till 20 % av landets jordbruksmark. Den certifierade ekologiska produktionen av mjölk, ägg och kött från idisslare bör öka markant. Slutligen bör den certifierade produktionen av griskött och matfågel öka kraftigt.

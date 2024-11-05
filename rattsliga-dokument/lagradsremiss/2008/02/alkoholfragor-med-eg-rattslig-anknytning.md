@@ -1,0 +1,5 @@
+# Alkoholfrågor med EG-rättslig anknytning
+
+I lagrådsremissen föreslås att det i alkohollagen (1994:1738\) införs en bestämmelse som innebär att en enskild person som fyllt 20 år ska få föra in spritdrycker, vin eller starköl genom yrkesmässig befordran eller annan oberoende mellanhand, för sitt eget eller sin familjs personliga bruk, från ett land inom Europeiska ekonomiska samarbetsområdet till Sverige. Förbudet i alkohollagen att i större omfattning tillhandagå annan med att anskaffa alkoholdrycker föreslås inte gälla vid bl.a. sådan införsel. Den föreslagna regleringen utgör en anpassning av lagstiftningen till följd av EG\-domstolens domar den 5 juni 2007 i mål C\-170/04 och den 4 oktober 2007 i mål C\-186/05\. Vidare föreslås i lagrådsremissen att bestämmelsen i alkohollagen om förbud mot användande av varukännetecken i samband med marknadsföring av alkoholhaltiga lättdrycker och alkoholdrycker med en alkoholhalt på upp till 15 volymprocent ska upphävas. Förslaget utgör även i denna del en anpassning av den svenska rätten till EG\-rätten.
+
+Lagändringarna föreslås träda i kraft den 1 juli 2008\.

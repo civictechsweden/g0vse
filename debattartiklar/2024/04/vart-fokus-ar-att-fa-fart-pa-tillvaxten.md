@@ -1,0 +1,34 @@
+# ”Vårt fokus är att få fart på tillväxten”
+
+Debattartikel av finansminister Elisabeth Svantesson, ekonomisk\-politisk talesperson Oscar Sjöstedt (SD), ekonomisk\-politisk talesperson Hans Eklind (KD) och ekonomisk\-politisk talesperson Cecilia Rönn (L). Svenska Dagbladet, 15 april 2024\.
+
+
+Med den budget vi presenterar idag ställer vi in siktet på att ta Sverige genom lågkonjunkturen så att den ekonomiska vintern kan övergå till vår. Ökade kostnader och höjda räntor till följd av de gångna årens höga inflation har tryckt ner tillväxten, pressat upp arbetslösheten och satt såväl hushåll och företag som välfärden under ekonomisk press.
+
+Inflationsbekämpning har därför varit vår främsta prioritering i den ekonomiska politiken. En kombination av återhållsam finanspolitik, åtstramande penningpolitik och en ansvarstagande avtalsrörelse ger nu resultat. Huvudscenariot är att inflationsmålet nås i år, men det krävs fortsatt uthållighet i det inflationsbekämpande arbetet för att ta det ända i mål, inte minst eftersom osäkerheten i omvärlden fortsatt är stor. Det visar inte minst de senaste inflationsutfallen från USA, som var högre än väntat. Nya utbudsstörningar kan uppstå t.ex. till följd av geopolitiska händelser, exempelvis att oroligheterna i mellanöstern eskalerar och påverkar utbudet av energi eller de globala värdekedjorna, vilket skulle riskera att öka inflationen igen.
+
+Att inflationen minskat tydligt den senaste tiden ger dock regeringen och Sverigedemokraterna utrymme att i vårbudgeten vidta ytterligare åtgärder för att stötta ekonomin och investera i välfärd, jobb och trygghet.
+
+Samtidigt som det är glädjande att inflationen sjunker slår de höga priserna allt jämt hårt mot både hushållen, företagen och mot välfärdens verksamheter. För att förbättra de ekonomiska förutsättningarna och undvika uppsägningar av sjukvårdspersonal skjuter regeringen och Sverigedemokraterna till ytterligare sex miljarder kronor till regionerna. Även kommunerna får ett tillskott för att bidra till att barn och elever ska få den utbildning och det stöd de har rätt till. För att stötta de hushåll som drabbas allra hårdast av inflationens effekter förlänger vi det tillfälligt förstärkta bostadsbidraget till de mest utsatta barnfamiljerna.
+
+I takt med att inflationen sjunker, samtidigt som effekterna av lågkonjunkturen slår igenom allt tydligare, behöver fokus successivt flyttas över till att stötta ekonomins återhämtning.  Antalet arbetslösa väntas öka med omkring 40 000 personer i år. Först och främst behöver detta mötas av utbildningsinsatser för att bättre rusta arbetssökande. I vårbudgeten satsar vi på sommarjobb för ungdomar, men även på fler platser inom den yrkesinriktade vuxenutbildningen så att kompetensförsörjningen förbättras och fler snabbt kan ställa om och komma i arbete.
+
+Säkerhetsläget i vår omvärld och problemen på hemmaplan, inte minst med den grova organiserade brottsligheten, gör att ekonomiska resurser krävs till utbyggnaden av såväl försvar som rättsväsende. Sverige måste byggas tryggare. Det civila försvaret tillskjuts över 300 miljoner kronor i vårbudgeten i syfte att bl.a. förstärka sjukvården under höjd beredskap, öka cybersäkerheten samt att påbörja arbete med att utveckla transportinfrastrukturen utifrån totalförsvarets behov. Kriminalvården stärks med 1,4 miljarder kronor för att skynda på kapacitetsutbyggnaden och även Statens institutionsstyrelse får ett tillskott för att omhänderta det ökande antalet barn och unga som döms till sluten ungdomsvård. Domstolarna får ökade resurser för att de ska kunna bedriva sin verksamhet i den takt som regeringens och Sverigedemokraternas ambitionshöjning på rättsområdet kräver. Inte minst fortsätter våra partier arbetet med att bekämpa den kriminella ekonomin, bl.a. genom att Skatteverket, Tullverket och Kronofogdemyndigheten får ökade resurser till det arbetet.
+
+Samtidigt som vi genomför nödvändiga investeringar för att stötta ekonomin här och nu stakar vi också ut riktningen för vad som kommer efter inflationsbekämpningen. I takt med att inflationen sjunker undan är det dags att ta tag i nästa stora uppgift i den ekonomiska politiken: att få fart på tillväxten så att Sverige kan byggas både rikare och tryggare framåt.
+
+Hushållens köpkraft har minskat som en konsekvens av inflationen, men väntas successivt att återhämta sig i takt med att inflationen sjunker. Det kommer dock att ta tid innan köpkraften är återställd för alla hushåll. En viktig uppgift framöver i den ekonomiska politiken är därför att understödja återhämtningen i syfte att återställa alla hushålls köpkraft.
+
+Ska ekonomin växa måste fler vara med och bidra och ta de jobb som finns, där de finns. Då behöver de strukturella problemen på arbetsmarknaden åtgärdas. Det handlar inte minst om ökade krav i integrationspolitiken och att förstärka drivkrafterna till arbete och självförsörjning. Regeringen kommer att fortsätta arbetet med att återupprätta arbetslinjen i Sverige, bl.a. genom arbetet med en bidragsreform och en reformerad a\-kassa.
+
+Ska Sverige bli rikare finns inga genvägar. Den ekonomiska politiken behöver styras tillbaka mot ett fokus på ekonomisk utveckling med åtgärder som ökar produktiviteten och förbättrar den långsiktiga tillväxten. Det är nödvändigt inte bara för att jobben ska bli fler, utan också för att vi ska kunna möta de investerings\- och resursbehov som ligger framför oss, inte minst när det gäller områden som försvar, rättsväsende och infrastruktur. En växande ekonomi är också vad som lägger grunden för välfärdens framtida finansiering. Det är kort sagt en nyckel för att Sverige ska kunna byggas både rikare och tryggare framåt. Vår tillväxtagenda kommer att fokusera på investeringar i infrastruktur, klimatomställning, forskning, energiproduktion samt regelförenklingar och kompetensförsörjning. En forsknings\- och innovationsproposition, som fokuserar på excellens, internationalisering och innovation kommer att läggas fram i slutet av året. Dessutom kommer regeringen i höst att lägga fram en infrastrukturproposition och utarbeta en strategi för nyindustrialiseringen och samhällsomvandlingen i norra Sverige.
+
+Regeringen och Sverigedemokraterna fortsätter att arbeta efter en plan i tre delar för att ta Sverige genom ett svårt ekonomiskt läge. Den första uppgiften har varit och är ett tag till att bekämpa inflationen. I takt med att inflationen stabiliseras runt inflationsmålet kommer vi att flytta fokus för den ekonomiska politiken. Arbetslinjen ska återupprättas och tillväxten ta fart. Bara så kan vi skapa tillräckliga resurser för att möta Sveriges stora investeringsbehov. Bara så kan vi säkerställa att Sverige byggs både rikare och tryggare framåt.
+
+Elisabeth Svantesson, finansminister
+
+Oscar Sjöstedt, ekonomisk\-politisk talesperson Sverigedemokraterna
+
+Hans Eklind, ekonomisk\-politisk talesperson Kristdemokraterna
+
+Cecilia Rönn, ekonomisk\-politisk talesperson Liberalerna

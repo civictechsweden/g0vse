@@ -1,0 +1,3 @@
+# Förbättrat genomförande av direktivet om energieffektivitet
+
+I denna promemoria föreslås ändringar för att i första hand förbättra genomförandet av Europaparlamentets och rådets direktiv 2012/27/EU av den 25 oktober 2012 om energieffektivitet, om ändring av direktiven 2009/125/EG och 2010/30/EU och om upphävande av direktiven 2004/8/EG och 2006/32/EG. Förslaget genomför även till viss del Europaparlamentets och rådets direktiv (EU) 2018/2002 av den 11 december 2018 om ändring av direktiv 2012/27/EU om energieffektivitet. I promemorian föreslås en ändring i förordningen(2014:348\) om energimätning i byggnader som innebär följande.

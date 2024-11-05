@@ -1,0 +1,5 @@
+# Samordningsnummer och anmälan av dödfödd m.m.
+
+I lagrådsremissen föreslås att uppgifter om personer med samordningsnummer, det nummer som kan begäras av svenska myndigheter för identifikation av personer som inte är folkbokförda i Sverige, ska få ingå i det statliga personadressregistret (SPAR). Förändringen syftar till att underlätta dessa personers kontakter med svenska institutioner och företag. Samordningsnummer kan efter begäran från vissa myndigheter ges till bland annat diplomater och utländska personer som arbetar tillfälligt i landet eller pendlar från grannland, för t. ex. registrering i beskattningsdatabasen och vägtrafikregistret.
+
+Lagrådsremissen innehåller också förslag om att ändra tidpunkten för när dödfödda ska anmälas till Skatteverket. Den nuvarande gränsen efter utgången av tjugoåttonde havandeskapsveckan föreslås sänkas till efter utgången av tjugoandra havandeskapsveckan. Ändringen är en anpassning till WHO:s rekommendationer, och sker med anledning av en hemställan från Socialstyrelsen.

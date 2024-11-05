@@ -1,0 +1,7 @@
+# Sveriges antagande av rambeslut om utbyte av uppgifter ur kriminalregister
+
+Inom Europeiska unionen har det utarbetats ett utkast till rambeslut om utbyte av uppgifter ur kriminalregister. Syftet med rambeslutet är att förbättra utbytet av uppgifter ur kriminalregister mellan medlemsstaterna. I propositionen föreslår regeringen att utkastet till rambeslut ska godkännas av riksdagen.
+
+Rambeslutet är en del av det arbete som pågår inom Europeiska unionen för att förbättra informationsutbytet mellan medlemsstaterna. I utkastet till rambeslut föreslås att varje medlemsstat som meddelar en dom mot en annan medlemsstats medborgare ska informera medborgarstaten om domen. Medborgarstaten ska därefter lagra informationen. Varje medlemsstat får sålunda information om alla de domar som har meddelats inom Europeiska unionen mot de egna medborgarna. Vidare syftar rambeslutet till att påskynda och förenkla förfarandet när uppgifter ur kriminalregister begärs i ett enskilt ärende genom att nya kanaler för att inhämta uppgifterna, tidsfrister och ett standardiserat formulär införs. Rambeslutet lägger också grunden för nästa steg i arbetet med att effektivisera informationsutbytet, nämligen att ta fram ett standardiserat format för att göra informationen begriplig och möjliggöra elektronisk uppgiftsöverföring.
+
+Den tidpunkt då medlemsstaterna ska ha genomfört bestämmelserna i rambeslutet är ännu inte bestämd. I propositionen redovisas en bedömning av vilken lagstiftning som behövs för att genomföra rambeslutet.

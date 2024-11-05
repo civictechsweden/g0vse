@@ -1,0 +1,3 @@
+# Ministeriella noter, växlade med Belgien angående Ungerns ställning till den internationella konventionen
+
+Genom dessa noter, växlade med Belgien, vars regering ombesörjer meddelanden angående anslutning till den internationella konventionen i Bryssel den 5 juli 1890 angående bildandet av en internationell förening för utgivande av tulltariffer, har konstaterats, att svenska regeringen delar ungerska regeringens uppfattning, att den sistnämnda fortfarande är bunden av ifrågavarande konvention, ävensom att svenska regeringen för framtiden kommer att tillämpa dess bestämmelser gent emot Ungern.

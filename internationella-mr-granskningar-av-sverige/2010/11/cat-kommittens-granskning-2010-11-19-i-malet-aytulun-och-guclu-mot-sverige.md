@@ -1,0 +1,12 @@
+# CAT-kommitténs granskning (2010-11-19) i målet Aytulun och Guclu mot Sverige
+
+FN:s CAT\-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.
+
+
+## Sammanfattning av yttrandet
+
+Fråga om utvisning av klagandena till hemlandet (Turkiet) står i strid med artikel 3 i konventionen mot tortyr m.m. med anledning av klagandens påstådda medlemskap i oppositionella partier i hemlandet.
+
+Klagandena, en man och dennes minderåriga dotter, anlände enligt egen uppgift till Sverige den 20 oktober 2005 och ansökte om asyl. Som grund för ansökan anförde klagandena att fadern varit aktiv i PKK sedan 1991, bl.a. genom att ha arbetat som lärare inom organisationen. Detta var enligt klagandena känt för de turkiska myndigheterna, som hade eftersökt honom vid ett flertal tillfällen. Vidare anförde klagandena att åtal hade väckts mot fadern i enlighet med turkisk terroristlagstiftning. Efter att klagandenas ansökan avslagits av de nationella instanserna vände de sig till CAT och gjorde gällande att beslutet att utvisa dem stred mot artikel 3 i konventionen, eftersom det skulle leda till att fadern riskerade att dömas till ett långt fängelsestraff och att utsättas för tortyr.
+
+Regeringen medgav inför CAT att fadern varit aktiv på en låg nivå inom PKK och att det fanns risk för att han, om han eftersöktes av de turkiska myndigheterna, skulle komma att arresteras och dömas till fängelse. Med hänsyn härtill och till att klagandena åberopat viss bevisning om att åtal väckts mot fadern, ansåg CAT att det var sannolikt att han skulle komma att arresteras om han utvisades. CAT tog även fasta på landinformation som tyder på att det förekommer att enskilda tjänstemän vid polisen och säkerhetstjänsten i Turkiet utövar tortyr, bl.a. vid förhör. Av den landinformation som tillförts målet framkom vidare att de åtgärder som vidtagits för att förhindra detta visat sig vara ineffektiva och att medlemmar i PKK löper särskild risk att utsättas för tortyr. Mot denna bakgrund fanns det enligt CAT en verklig och förutsebar risk för att fadern skulle komma att utsättas för sådan behandling om han utvisades till Turkiet. Det skulle därför strida mot artikel 3 i konventionen att verkställa utvisningen av honom och hans dotter, vars klagomål hängde samman med faderns och därför inte bedömdes separat

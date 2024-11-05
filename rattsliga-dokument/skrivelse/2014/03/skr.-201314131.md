@@ -1,0 +1,3 @@
+# Biståndspolitisk plattform
+
+I denna skrivelse redogör regeringen för det svenska biståndets inriktning. Den biståndspolitiska plattformen är ett centralt dokument för den svenska biståndspolitiken och är utgångspunkt för regeringens styrning av det svenska biståndet. Skrivelsen behandlar de principer och värderingar som ska vägleda svenskt bistånd. Dessutom redogör regeringen här för biståndets inriktning i form av en målhierarki för biståndet och resultat som biståndet ska bidra till att uppnå. Med en tydligare styrning och ett ökat fokus på resultat förbättras förutsättningarna för en effektiv fattigdomsbekämpning.

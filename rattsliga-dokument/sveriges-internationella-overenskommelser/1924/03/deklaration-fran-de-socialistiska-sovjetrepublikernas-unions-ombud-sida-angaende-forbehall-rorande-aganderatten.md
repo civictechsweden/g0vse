@@ -1,0 +1,3 @@
+# Deklaration från De Socialistiska Sovjetrepublikernas Unions ombud sida angående förbehåll rörande äganderätten...
+
+At the moment of signing the Commercial Agreement between the So viet Union and Sweden I arn instructed by the Government of the Union of the Socialist Soviet Republics to make the following declaration:

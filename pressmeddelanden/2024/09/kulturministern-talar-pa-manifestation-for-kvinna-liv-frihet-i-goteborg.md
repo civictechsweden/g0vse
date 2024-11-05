@@ -1,0 +1,5 @@
+# Kulturministern talar på manifestation för Kvinna Liv Frihet i Göteborg
+
+Manifestationen arrangeras av Koalitionen Kvinna Liv Frihet i Göteborg för att minnas Amini som dog i myndigheters förvar sedan hon gripits av den iranska moralpolisen för att hon inte hade burit sin slöja korrekt. Representanter från flera politiska partier och människorättsorganisationer deltar i manifestationen där de även kräver frigivning av Irans politiska fångar och att alla avrättningar i Iran ska upphöra omedelbart. På evenemanget kommer det även att framföras musik, dans och poesi.
+
+–”Kvinna, Liv, Frihet” betyder oerhört mycket för mig personligen. Som liten flicka flydde jag med min familj från Iran, ett land där utrymmet för människor att påverka den egna situationen och samhällets inriktning är skrämmande litet. Det gäller inte minst för kvinnor. Därför samlas vi i solidaritet med dem som inte får uttrycka sin åsikt men som med ett oerhört mod gör det ändå. Vi visar dem att de inte står ensamma och att det är vår plikt och ett gemensamt ansvar att fortsätta arbeta för demokrati och frihet, säger kulturminister Parisa Liljestrand.

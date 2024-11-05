@@ -1,0 +1,3 @@
+# Uppdrag att ta fram en tidplan för enhetlig digital tillämpning av plan- och bygglagen samt påbörja arbetet med föreskrifter om standarder för utformning av detaljplaner och planbeskrivningar
+
+Regeringen uppdrar åt Boverket att, i enlighet med vad som anges under rubriken Närmare om uppdraget, ta fram en tidplan för regeringens satsning på enhetlig digital tillämpning av plan\- och bygglagen (dnr N2017/07543/PBB), samt påbörja arbetet med att ta fram föreskrifter om standarder för utformning av detaljplaner och planbeskrivningar. Uppdraget att ta fram tidplan ska slutredovisas till Regeringskansliet (Näringsdepartementet) senast den 31 augusti 2018\.

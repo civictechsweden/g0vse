@@ -1,0 +1,11 @@
+# Uppdrag till Barnombudsmannen att vara strategisk myndighet för hbtq-personers lika rättigheter och möjligheter
+
+Regeringen uppdrar åt Barnombudsmannen att vara en av flera strategiska myndigheter med uppdrag att i sin verksamhet främja hbtq\-personers lika rättigheter och möjligheter.
+
+
+I uppdraget ingår att identifiera och redovisa utvecklingsbehov, mål och aktiviteter som myndigheten avser vidta, samt genomföra under 2020–2022\. Myndigheten bör i genomförandet av uppdraget föra en dialog och vid behov genomföra insatser tillsammans med övriga strategiska myndigheter, dvs. Diskrimineringsombudsmannen, Myndigheten för ungdoms\- och civilsamhällesfrågor, Socialstyrelsen, Folkhälsomyndigheten, Statens kulturråd, Statens skolverk, Migrationsverket och Jämställdhetsmyndigheten. Myndigheten bör även inhämta kunskap och erfarenhet från andra aktörer som besitter kompetens inom området, såsom olika organisationer som företräder hbtq\-personers rättigheter och Nationella sekretariatet för genusforskning vid Göteborgs universitet.
+
+Myndigheten får för uppdragets genomförande 2020 använda högst 500 000 kronor från utgiftsområde 13 Jämställdhet och nyanlända invandrares etablering, anslaget 2:2 Åtgärder mot diskriminering och rasism m.m., anslagsposten 7\. Medlen utbetalas engångsvis efter rekvisition ställd till Kammarkollegiet. Rekvisitionen ska ske senast den 1 november 2020\. Medel som inte har utnyttjats ska återbetalas till Kammarkollegiet senast den 1 mars 2021\. Myndigheten ska redovisa planerade insatser och resultatet av vidtagna insatser inom ramen för uppdraget samt lämna en ekonomisk redovisning av använda medel till Regeringskansliet (Arbetsmarknadsdepartementet) senast
+den 1 mars 2022\. En delredovisning ska även lämnas den 1 mars 2021\. Redovisningarna ska hänvisa till det diarienummer som detta beslut har.
+
+Den totala kostnaden för att genomföra uppdraget beräknas till 1 500 000 kronor.

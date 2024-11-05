@@ -1,0 +1,8 @@
+# Uppdrag att stödja utveckling av battericeller och utbyggnad av ett elektrifieringscampus för batteriforskning i Västerås
+
+Regeringen uppdrar åt Statens energimyndighet (Energimyndigheten) att inom ramen för detta uppdrag lämna stöd med högst 238 miljoner kronor till Northvolt AB (Northvolt) för utveckling av battericeller och utbyggnad av ett elektrifieringscampus för batteriforskning i Västerås i enlighet med Europeiska kommissionens (kommissionens) beslut den 26 januari 2021 i ärende SA.55854 och vad som anges under rubriken Närmare om uppdraget.
+
+
+Energimyndigheten ska delta i det styrande organet Public Authority Board för IPCEI\-projektet European Battery Innovation (EuBatIn) samt delta på mötena för projektets samordnande funktion General Assembly. Myndigheten ska fullgöra de uppgifter som åligger dessa organ i enlighet med kommissionens beslut. Inför varje möte i General Assembly ska Energimyndigheten rådgöra med Regeringskansliet (Näringsdepartementet) avseende formen för deltagande. Eventuella frågor som kräver ett ställningstagande på medlemsstatsnivå ska alltid stämmas av med Regeringskansliet (Näringsdepartementet).
+
+För ändamålet får Energimyndigheten från Naturvårdsverket rekvirera 20 miljoner kronor ur Batterifonden. Utgifter om 218 miljoner kronor ska belasta det under utgiftsområde 24 Näringsliv uppförda anslaget 1:5 Näringslivsutveckling, anslagsposten 3 Näringslivsutveckling – del till Statens energimyndighet.

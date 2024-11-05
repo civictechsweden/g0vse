@@ -1,0 +1,14 @@
+# ICCPR-kommitténs granskning (2012-11-01) av målet X. mot Sverige
+
+FN:s ICCPR\-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention om medborgerliga och politiska rättigheter (ICCPR). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.
+
+
+## Sammanfattning av yttrandet
+
+Klaganden är en man som är medborgare i Afghanistan. Till stöd för sin asylansökan uppgav han att han varit medlem i kommunist¬partiet och att han på grund härav fängslats och torterats. Denna ansökan avslogs dock av samtliga instanser. I en senare ansökan om verkställighetshinder vidhöll han de skäl han tidigare anfört, men tillade också följande. Han är bisexuell och har haft sexuella relationer med både män och kvinnor såväl i Afghanistan som i Sverige. Vid ett återvändande till Afghanistan riskerar han, mot bakgrund av både sin politiska aktivitet och sin sexuella läggning, att på nytt utsättas för tortyr eller omänsklig eller förnedrande behandling eller bestraffning. Även denna ansökan avslogs av Migrationsverket och Migrationsdomstolen. Klaganden överklagade inte Migrationsdomstolens dom.
+
+Inför kommittén anförde klaganden att han vid en utvisning riskerar att utsättas för tortyr eller annan grym, omänsklig eller förnedrande behandling av såväl afghanska myndigheter som enskilda individer. Regeringen invände att klaganden inte kunde anses ha uttömt inhemska rättsmedel eftersom han aldrig överklagade migrationsdomstolens dom den 27 november 2008 att inte bevilja en ny prövning av hans ansökan om uppehållstillstånd. Vidare anförde regeringen att det inte visats att det fanns välgrundad anledning att anta att klaganden skulle komma att utsättas för behandling i strid med artiklarna 6 och 7 i konventionen vid en utvisning och att klagomålet därför var uppenbart ogrundat.
+
+När det gäller frågan om uttömmande av inhemska rättsmedel anförde kommittén att det normalt ankommer på klaganden att använda sig av de rättsmedel som kan anses vara effektiva och som är tillgängliga för klaganden. Enligt kommittén är överklaganden till Migrationsöverdomstolen normalt ett sådant rättsmedel, men i det aktuella fallet hade klagandens utvisning verkställts så pass nära inpå migrationsdomstolens dom den 27 november 2008 att klaganden inte bedömdes ha haft rimliga möjligheter att fullfölja sin talan. Under dessa omständigheter ansåg kommittén att regeln om uttömmande av inhemska rättsmedel inte utgjorde något hinder emot att ta upp klagomålet till prövning.
+
+När det gäller klagomålet i sak ansåg kommittén att de svenska instanserna inte i tillräcklig utsträckning beaktat faktiska risker som kommittén bedömde föreligga för klaganden i Afghanistan. Kommittén ansåg därför att utvisningen av klaganden stod i strid med artiklarna 6 och 7 i konventionen om medborgerliga och politiska rättigheter.

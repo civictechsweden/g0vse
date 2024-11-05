@@ -1,0 +1,7 @@
+# Stöd till Ukraina prioriterat när Johan Forssell träffar Världsbankschefen Ajay Banga
+
+– När det kommer till omvärldens stöd för att bygga upp det krigshärjade Ukraina har Världsbanken en central roll. Det är uppenbart att vi, trots våra bästa ansträngningar, inte kan täcka kostnaden enbart med offentlig finansiering. Privat kapital och investeringar kommer att vara en absolut nödvändighet och den privata sektorns engagemang är avgörande. I detta sammanhang är Världsbankens arbete för att öka privat resursmobilisering centralt, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+
+Mötet samlar bistånds\- och finansministrar från de nordisk\-baltiska länderna. I år betonas bankens pågående reformarbete och de nordisk\-baltiska ländernas vision om att fokusera på klimat och fattigdom. Världsbanken har konstaterat att den måste bli både större och bättre för att kunna mobilisera de resurser som krävs för att möta globala utmaningar som klimatförändringar, liksom för att nå de globala målen.
+
+Det finns inom Världsbanken en stark enighet om vikten av ett fortsatt stöd till Ukraina. Sedan Rysslands fullskaliga invasion har Världsbanken mobiliserat över 37 miljarder USD i ekonomiskt stöd från givarländerna. Det har bland annat gått till att upprätthålla statliga funktioner i form av utbetalningar av löner och pensioner till offentligt anställda, och till reparationer av energi\- och bostadsinfrastruktur.

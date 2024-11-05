@@ -1,0 +1,11 @@
+# Alkolås vid rattfylleri
+
+I lagrådsremissen föreslås ett permanent system att som alternativ till körkortsåterkallelse vid rattfylleri medge körkortsinnehav med alkolås som villkor. Förslaget syftar till att minska risken för återfall i rattfylleri på grund av alkoholintag och därigenom minska antalet dödade och allvarligt skadade i trafiken. Det nya systemet med alkolås utgår ifrån att det i princip bör vara obligatoriskt för den som har dömts för rattfylleri att använda alkolås för att under det eller de närmaste åren kunna köra motorfordon.
+
+Förslaget innebär att ett beslut om körkortsinnehav villkorat av alkolås ska kunna meddelas i stället för interimistisk eller slutlig återkallelse av körkort på grund av rattfylleri efter alkoholintag. Villkorstiden differentieras så att mer ingripande regler föreslås för vissa personer. Detta gäller dem som begår grovt rattfylleri, återfaller i rattfylleribrott inom de senaste fem åren eller har begått ett rattfylleri och har diagnosen alkoholberoende eller missbruk av alkohol. För denna högriskgrupp gäller en villkorstid som motsvarar två år. För övriga gäller en villkorstid som motsvarar ett år. Om en ansökan inte ges in, eller om den inte kan bifallas, ska körkortet återkallas. Spärrtiden ska då bestämmas till lägst den villkorstid som skulle ha bestämts vid ett bifall till ansökan om villkorat körkort, dvs. ett eller två år. Förslaget innebär att spärrtiderna blir längre än vad som för närvarande är fallet när ett körkort återkallas.
+
+För att återfå ett körkort utan villkor om alkolås ska den som har en tvåårig villkorstid genomgå en utvidgad lämplighetsprövning, innefattande krav på ett visst antal läkarkontroller under en observationstid.
+
+Endast den typ av alkolås som godkänts av Tranportstyrelsen får användas när ett körkortsinnehav förenats med ett villkor om alkolås. För godkännande för användning i villkorsverksamheten kan också ställas krav på tillhandahållande av möjligheter att installera, kontrollera, kalibrera och tömma alkolåset på data. För att godkänna en viss typ alkolås krävs också att alkolåset har prövats av en ackrediterad provanstalt, som intygar att det uppfyller den europeiska standarden för alkolås.
+
+De nya bestämmelserna om teknisk kontroll och godkännande av alkolås föreslås träda i kraft den 1 oktober 2011, och övriga bestämmelser den 1 januari 2012\.

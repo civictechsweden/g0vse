@@ -1,0 +1,12 @@
+# Uppdrag om länsstrategier för jämställdhetsintegrering
+
+Regeringen ger länsstyrelserna i uppdrag att ta fram länsstrategier för sitt arbete med jämställdhetsintegrering. Uppdraget om regionala strategier stärker det regionala och lokala arbetet för jämställdhet ytterligare och förbättrar förutsättningarna för samverkan mellan relevanta aktörer. Det övergripande syftet är att jämställdhetspolitiken ska få ännu större genomslag på regional nivå.
+
+
+Länsstyrelsen ska enligt förordningen (2007:825\) med länsstyrelseinstruktion verka för att de jämställdhetspolitiska målen får genomslag i länet och inte­grera ett jämställdhetsperspektiv i sin verksamhet genom att belysa, analysera och beakta kvinnors och mäns samt flickors och pojkars villkor.
+
+Jämställdhetsintegrering är en grundläggande förutsättning för genom­förandet av en feministisk politik och för att uppnå de jämställdhetspolitiska målen. Länsstyrelserna är viktiga i genomförandet av regeringens jämställd­hetspolitik. På regional nivå finns det utmaningar relaterade till jämställdhet som är gemensamma över hela landet, men också specifika utmaningar för den egna enskilda regionen. För att jämställdhetspolitiken ska få genomslag på regional nivå är länsstyrelsernas uppgift att stödja, samordna och utveckla arbetet med jämställdhetsintegrering betydelsefullt.
+
+Regeringen bedömer att den verksamhet som länsstyrelserna har bedrivit inom ramen för utvecklingssatsningen "Länsstyrelserna utvecklar jämställdhet" har bidragit till att länsstyrelserna bedriver ett ambitiöst och strategiskt arbete med jämställdhetsintegrering. Regeringen bedömer att ett uppdrag till länsstyrelserna om att ta fram nya strategier för arbetet med jämställdhetsintegrering bidrar till att främja denna positiva utveckling för arbetet med jämställdhetsintegrering i länen.
+
+I skrivelsen Makt, mål och myndighet – feministisk politik för en jämställd framtid (skr. 2016/17:10\) har regeringen angett att den avser att ge ett upp­drag till länsstyrelserna om att ta fram nya regionala strategier för sitt arbete med jämställdhetsintegrering, i syfte att främja länsstyrelsernas fortsatta arbete med jämställdhetsintegrering. Områden där länsstyrelsen har uppgifter eller uppdrag som har bäring på de jämställdhetspolitiska målen ska i möjligaste mån inkluderas i strategierna. Det kan t.ex. handla om frågor som rör samhällsplanering, barnets rättig­heter, föräldraskapsstöd och mänskliga rättigheter.

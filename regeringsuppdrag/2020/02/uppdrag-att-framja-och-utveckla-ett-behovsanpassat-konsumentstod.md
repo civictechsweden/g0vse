@@ -1,0 +1,3 @@
+# Uppdrag att främja och utveckla ett behovsanpassat konsumentstöd
+
+Regeringen ger Konsumentverket i uppdrag att identifiera och stödja olika samhällsaktörer som har förutsättningar att hjälpa konsumenter i särskilt behov av stöd med att ta tillvara sina intressen i samband med köp och med att hantera privatekonomiska problem. I uppdraget ingår att ta fram metodstöd och stödverktyg samt erbjuda utbildning, liksom att aktivt arbeta för att stödet blir känt bland relevanta aktörer. I uppdraget ingår även att främja samverkan mellan aktörer på lokal nivå, inklusive den kommunala konsumentverksamheten.

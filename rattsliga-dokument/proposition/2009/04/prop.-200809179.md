@@ -1,0 +1,3 @@
+# Liechtensteins associering till Schengenregelverket
+
+I propositionen föreslås att riksdagen godkänner ett protokoll mellan Europeiska unionen, Europeiska gemenskapen, Schweiz och Liechtenstein om att Liechtenstein ansluter sig till avtalet mellan Europeiska unionen, Europeiska gemenskapen och Schweiz om Schweiz associering till Schengenregelverket. Protokollet föranleder vissa lagändringar som föreslås i propositionen. De innebär att sådana bestämmelser som rör samarbetet med länder som ingår i Schengensamarbetet utvidgas till att omfatta även Liechtenstein. Lagändringarna föreslås träda i kraft den dag regeringen bestämmer.

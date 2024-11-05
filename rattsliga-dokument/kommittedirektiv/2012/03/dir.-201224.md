@@ -1,0 +1,3 @@
+# Tilläggsdirektiv till Utredningen om stärkt ställning för patienten genom en ny patientlagstiftning (S 2011:03)
+
+Den huvudsakliga inriktningen av utredningens uppdrag gäller även fortsättningsvis. Genom tilläggsdirektivet överförs från utredarens uppdrag frågor till Utredningen om förbättrad tillgång till personuppgifter inom och mellan hälso\- och sjukvården och socialtjänsten m.m. (S2011:13\). Utredaren ska redovisa de delar som behandlar journalfrågor senast den 30 juni 2012\. Tidpunkten för redovisning av delbetänkande flyttas till den 31 januari 2013\. Tidpunkten för slutredovisning flyttas fram till den 30 juni 2013\.

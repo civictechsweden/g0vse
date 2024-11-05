@@ -1,0 +1,13 @@
+# Åtgärder för att förhindra vissa särskilt allvarliga brott
+
+I propositionen föreslår regeringen att de brottsbekämpande myndigheterna genom en särskild lag ges möjlighet att använda hemlig teleavlyssning, hemlig teleövervakning, hemlig kameraövervakning och postkontroll för att förhindra vissa särskilt allvarliga brott.
+
+Tillstånd till tvångsmedelsanvändning ska enligt förslaget kunna meddelas, om det med hänsyn till omständigheterna finns anledning att anta att en person kommer att utöva allvarlig brottslig verksamhet som innefattar en i lagen särskilt angiven gärning. De gärningar som särskilt anges är vissa högmålsbrott, brott mot rikets säkerhet, allmänfarliga brott och terroristbrott, dvs. den brottslighet som Säkerhetspolisen enligt gällande ansvars\- och uppgiftsfördelning inom polisen har att bekämpa. Vidare anges vissa andra mycket allvarliga brott såsom mord och människorov, dvs. brott som den öppna polisen ska bekämpa.
+
+De aktuella tvångsmedlen ska få användas för att förhindra även dessa brott, om det finns anledning att anta att avsikten med brottet är att förmå offentliga organ eller den som yrkesmässigt bedriver nyhetsförmedling eller annan journalistik att vidta eller avstå från att vidta en åtgärd eller att hämnas en åtgärd.
+
+Förslaget innehåller flera rättssäkerhetsgarantier. Bland annat ska det för den föreslagna tvångsmedelsanvändningen krävas att allmän domstol lämnar tillstånd till åtgärden. Vidare ska offentliga ombud delta i sådana tillståndsärenden. Tillståndstiden ska, i fråga om tid efter beslutet, inte få överstiga en månad åt gången. Tillstånd ska få lämnas endast om det är av synnerlig vikt för att förhindra den brottsliga verksamheten samt om skälen för åtgärden uppväger det intrång eller men i övrigt som åtgärden innebär för den misstänkte eller för något annat motstående intresse.
+
+Det införs också en reglering för användningen av överskottsinformation som erhålls vid tvångsmedelsanvändningen som väsentligen begränsar användningen av sådan information.
+
+Den nya lagen ska enligt förslaget träda i kraft den 1 juli 2006\.

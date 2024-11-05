@@ -1,0 +1,24 @@
+# Mänskliga rättigheter, demokrati och rättsstatens principer i Myanmar
+
+Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Myanmar samt en länk till rapporten i sin helhet.
+
+
+I början av 2021 genomfördes en militärkupp i Myanmar, som utraderade tio år av demokratiska, ekonomiska och sociala liberaliseringar. Den demokratiskt valda regeringen och parlamentet fick aldrig tillträda. Militären tog över all verkställande, lagstiftande och dömande makt och undantagstillstånd infördes i hela landet.
+
+Militärkuppen följdes av massiva och landsomfattande protester, som slogs ned brutalt. Sedan kuppen har omfattande, grova och systematiska kränkningar av mänskliga rättigheter begåtts. Godtyckliga frihetsberövanden, våld, sexuellt och könsrelaterat våld, tortyr och summariska avrättningar har förekommit i stor skala, liksom attacker mot civila och byar. Fram till årsskiftet 2021\-2022 uppges fler än 1 500 civila ha dödats av militärregimen och fler än 12 000 personer ha frihetsberövats. Antalet utdömda dödsstraff för politiska brott har ökat kraftigt.
+
+Parlamentsvalet från 2020 har ogiltigförklarats på grunder som saknar trovärdighet. Militärjuntan utövar all makt utan konsultationer eller insyn. Tack vare ett brett folkligt stöd har demokratirörelsen lyckats skapa parallella strukturer i form av ett skugg\-parlament och en skugg\-regering och samarbeten mellan de olika delarna av oppositionen, både de civila och militära, har etablerats.
+
+Yttrandefriheten och tillgången på information, liksom möjligheterna för oberoende medier att verka, har kraftigt begränsats. Många journalister har fängslats. Nedstängningar av internet och begränsningar av sociala medier förekommer i ökande utsträckning.
+
+Merparten av landet är direkt eller indirekt drabbat av väpnad konflikt. Öppna strider har under 2021 successivt ökat i intensitet, främst i väst och sydost. Antalet internflyktingar har sedan kuppen nästan fördubblats och uppgick vid årsskiftet 2021\-2022 till drygt 776 000 personer. Tusentals flyktingar har korsat gränserna till Indien och Thailand. Upprepade rapporter vittnar om flyganfall mot internflyktingläger på flera håll. Militären har även bränt ned hela byar för att omöjliggöra återvändande, och avsiktligt begränsat humanitärt tillträde.
+
+Ekonomin har närmast kollapsat. Efter kuppen utlystes en generalstrejk i hela landet som fortfarande pågår. Fler än 1,6 miljoner arbetstillfällen har försvunnit, något som främst drabbat kvinnor. Banksystemet har havererat och fattigdomen har fördubblats till att omfatta närmare hälften av befolkningen. Över 14 miljoner människor var vid årsskiftet 2021\-2022 i behov av humanitärt stöd.
+
+Personer som tillhör den övervägande muslimska folkgruppen rohingyer utsätts sedan årtionden för omfattande och systematiska kränkningar och diskriminering, som starkt begränsar deras möjligheter att erkännas som medborgare, utbilda och försörja sig och röra sig fritt. 2016 och 2017 genomförde militären så kallade upprensningsoperationer i norra Rakhine, då tusentals personer dödades, hundratals byar brändes och hundratusentals rohingyer tvingades fly. 2019 inledde Internationella brottmålsdomstolen (ICC) en process med anledning av brotten mot rohingyerna. Samma år inleddes även en process mot Myanmar vid den Internationella Domstolen i Haag (ICJ) för brott mot folkmordskonventionen.
+
+Grundlagen garanterar lika rättigheter för kvinnor och män men könsstereotypa uppfattningar, liksom lagstiftning och sedvänjor som direkt diskriminerar mot kvinnor, utgör hinder för jämställdhet. Det saknas lagstiftning som kriminaliserar våld i nära relationer och kvinnor diskrimineras, bland annat när det gäller ägande av mark och fastigheter. Militärens systematiska användande av sexuellt våld i konflikt har ökat dramatiskt sedan militärkuppen.
+
+Barnets rättigheter är grovt åsidosatta. Tillgången till utbildning har minskat kraftigt i efterdyningarna av pandemin och kuppen och barnarbetet har ökat ytterligare. Såväl Myanmars militär som organiserade väpnade grupper rekryterar och använder sig av barnsoldater, enligt FN, dessutom i ökande utsträckning. Barn är överrepresenterade bland offren för landminor och kvarlämnad ammunition. Ett stort antal barn har även lemlästats och dödats av säkerhetsstyrkor under de politiska protesterna. Hundratals barn uppges ha frihetsberövats under de första månaderna efter kuppen. Barn som frisläppts har berättat om tortyr under fångenskapen.
+
+Samkönade sexuella relationer är kriminaliserade och diskriminering, sexuella trakasserier och ofredande av hbtqi\-personer är vanligt förekommande. De positiva steg som kunde skönjas under åren före kuppen har utraderats, och hbtqi\-personer som frihetsberövats i samband med protesterna rapporteras ha varit särskilt utsatta för sexuella övergrepp.

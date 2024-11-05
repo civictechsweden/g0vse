@@ -1,0 +1,8 @@
+# Mänskliga rättigheter, demokrati och rättsstatens principer i Kanada
+
+Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Kanada samt en länk till rapporten i sin helhet.
+
+
+Kanada är en välfungerande demokrati och rättsstat med starka juridiska, politiska och sociala strukturer som upprätthåller respekten för de mänskliga rättigheterna. Kanadas konstitution innehåller en rättighets\- och frihetsstadga till skydd för de mänskliga rättigheterna och det finns möjlighet att kräva skadestånd för kränkning av dessa. Landet har också ett mycket starkt engagemang för mänskliga rättigheter internationellt, ofta med fokus på kvinnors och flickors samt urfolks åtnjutande av mänskliga rättigheter.
+
+Det finns flera stora utmaningar vad gäller de kanadensiska urfolkens åtnjutande av politiska, ekonomiska och sociala rättigheter. Arbetslöshet, missbruk och brottslighet förekommer i större utsträckning hos urfolk än hos resten av befolkningen. Kvinnor från urfolken är särskilt utsatta för våld i nära relationer. Urfolkens tillgång till bland annat barnomsorg, utbildning, rent vatten och boende är bristfällig. Regeringen har lovat att under mandatperioden vidta åtgärder för att nationellt genomföra FN:s urfolksdeklaration (Declaration on Rights of Indigenous Peoples, UNDRIP) och lovat att minska skillnaderna vad gäller levnadsvillkor. Enligt människorättsorganisationer har regeringen lagt en god grund för förändringsarbetet, men organisationerna har också framfört kritik för att arbetet går för långsamt. Konflikter mellan urfolk och federala regeringen och provinsregeringarna kring urfolkens landrättigheter är vanligt förekommande vid större infrastrukturprojekt.

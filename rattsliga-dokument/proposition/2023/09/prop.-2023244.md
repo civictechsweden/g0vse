@@ -1,0 +1,7 @@
+# EU:s kapitaltäcknings- och krishanteringsregelverk – några förtydliganden
+
+I EU:s krishanteringsregelverk finns regler om avveckling och rekonstruktion av finansiella företag. För att kapital och skulder i finansiella företag ska kunna skrivas ned eller konverteras i en kris, ska företagen uppfylla ett krav på kapitalbas och kvalificerade skulder. Vid tillämpning av kravet kategoriseras företagen i resolutionsenheter eller företag som inte är resolutionsenheter. En resolutionsenhet är en juridisk person inom Europeiska ekonomiska samarbetsområdet (EES) som enligt en resolutionsplan ska vara föremål för resolutionsåtgärder. Det har gjorts ett förtydligande i EU:s krishanteringsregelverk som gäller beräkningen av kravet i fråga om företag som ingår i vissa gränsöverskridande koncerner. Om ett sådant företag hör hemma utanför EES men hade varit en resolutionsenhet om företaget hade hört hemma inom EES, ska det ingå i beräkningen av kravet. Det föreslås därför att ändringarna i EU:s krishanteringsregelverk ska genomföras i svensk rätt.
+
+I EU:s kapitaltäckningsregelverk finns krav på kapital och organisation för finansiella företag. Europeiska bankmyndigheten har ifrågasatt om svensk rätt står i överensstämmelse med unionsrätten. Det föreslås därför att det i svensk rätt ska förtydligas att de aktiebolagsrättsliga bestämmelserna om vinstutdelning på begäran av en aktieägarminoritet inte gäller vid tillämpning av EU:s kapitaltäckningsregelverk.
+
+Lagändringarna föreslås träda i kraft den 15 november 2023\.

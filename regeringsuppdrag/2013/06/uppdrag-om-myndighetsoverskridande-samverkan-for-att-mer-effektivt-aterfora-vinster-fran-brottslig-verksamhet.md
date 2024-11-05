@@ -1,0 +1,3 @@
+# Uppdrag om myndighetsöverskridande samverkan för att mer effektivt återföra vinster från brottslig verksamhet
+
+Regeringen ger Ekobrottsmyndigheten, Åklagarmyndigheten, Rikspolisstyrelsen, Tullverket, Skatteverket och Kronofogdemyndigheten i uppdrag att, som ett led i den särskilda satsningen mot grov organiserad brottslighet, utveckla och följa upp den myndighetsöverskridande samverkan som sker på brottsutbytesområdet. Arbetet ska ske i samverkan med andra berörda myndigheter som inom ramen för den särskilda satsningen mot grov organiserad brottslighet bidrar till det gemensamma arbetet med att återföra vinster av brott.

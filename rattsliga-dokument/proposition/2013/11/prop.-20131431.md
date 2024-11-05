@@ -1,0 +1,3 @@
+# Ändrat huvudmannaskap för tillhandahållande av vissa kurser i läkares vidareutbildning
+
+Läkares specialistkompetenskurser som är bekostade av allmänna medel har på uppdrag av regeringen sedan 2002 anordnats av Institutet för professionell utveckling av läkare i Sverige (IPULS). För att verksamheten ska överensstämma med gällande upphandlingslagstiftning har regeringen genom beslut i september 2012 överfört uppdraget till Socialstyrelsen. I propositionen föreslås de lagändringar som är nödvändiga för att ansvaret för administrationen av specialistkompetenskurserna ska kunna föras över till Socialstyrelsen. Lagändringarna föreslås träda i kraft den 1 mars 2014\.

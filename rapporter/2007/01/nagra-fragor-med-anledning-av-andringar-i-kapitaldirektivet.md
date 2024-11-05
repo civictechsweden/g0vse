@@ -1,0 +1,9 @@
+# Några frågor med anledning av ändringar i kapitaldirektivet
+
+1976 antogs kapitaldirektivet, det vill säga rådets direktiv 77/91/EEG när det gäller att bilda ett aktiebolag samt att bevara och ändra dettas kapital. Direktivet gäller bl.a. för svenska publika aktiebolag. Europaparlamentet och rådet har nu antagit ett direktiv om ändring av kapitaldirektivet. Ändringsdirektivet är avsett att bidra till att främja näringslivets effektivitet och konkurrenskraft utan att skyddet för aktieägare och borgenärer försämras.
+
+För att uppnå detta syfte innehåller direktivet bestämmelser som gör det möjligt för medlemsstaterna att under vissa förutsättningar tillåta publika aktiebolag att ge ut aktier mot betalning med apportegendom utan att kräva att det inhämtas ett särskilt sakkunnigutlåtande. Det finns vidare bestämmelser om att publika aktiebolag ska kunna tillåtas att förvärva egna aktier utan den tioprocentsbegränsning som tidigare har gällt och att ett bemyndigande för styrelsen att besluta om sådana förvärv ska kunna gälla i upp till fem år.
+
+Direktivet innehåller också bestämmelser som gör det möjligt för medlemsstaterna att tillåta publika aktiebolag att under vissa förutsättningar bevilja lån i syfte att tredje man ska kunna förvärva aktier i bolaget. Slutligen innehåller direktivet en bestämmelse om att borgenärer ska ha rätt att tillgripa rättsliga eller administrativa förfaranden om deras fordringar äventyras till följd av en minskning av aktiekapitalet i ett publikt aktiebolag.
+
+I promemorian övervägs om några lagändringar är nödvändiga eller av andra skäl bör genomföras med anledning av direktivet. Dessa överväganden leder till bedömningen att det inte krävs några ändringar i svensk lag för att denna ska vara förenlig med direktivet. Vidare görs den bedömningen att i de avseenden där det är upp till Sverige att avgöra huruvida direktivets bestämmelser ska genomföras i nationell rätt, denna möjlighet inte bör utnyttjas.

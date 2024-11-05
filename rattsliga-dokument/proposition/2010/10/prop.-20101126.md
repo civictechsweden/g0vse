@@ -1,0 +1,9 @@
+# Alkolås efter rattfylleri
+
+I propositionen föreslås ett permanent system att som alternativ till körkortsåterkallelse vid rattfylleribrott medge körkortsinnehav med alkolås som villkor. Förslaget syftar till att minska risken för återfall i rattfylleri på grund av alkoholintag och därigenom minska antalet dödade och allvarligt skadade i trafiken. Det nya systemet med alkolås utgår ifrån att det i princip bör vara obligatoriskt för den som har dömts för rattfylleri att använda alkolås för att under det eller de närmaste åren ha rätt att köra motorfordon.
+
+Förslaget innebär att ett beslut om körkortsinnehav villkorat av alkolås ska kunna meddelas efter ansökan i stället för interimistisk eller slutlig återkallelse av körkort på grund av rattfylleri efter alkoholintag. Tiden med alkolåset, villkorstiden, är differentierad. För dem som begår grovt rattfylleri, återfaller i rattfylleribrott inom de senaste fem åren eller har begått ett rattfylleri och har diagnosen alkoholberoende eller missbruk av alkohol gäller en villkorstid som motsvarar två år. För övriga gäller en villkorstid som motsvarar ett år.
+
+Om en ansökan inte ges in, eller om den inte kan bifallas, ska körkortet återkallas. När spärrtiden bestäms ska den motsvara lägst den villkorstid som skulle ha bestämts vid ett bifall till ansökan om villkorat körkort, dvs. ett eller två år. Förslaget innebär att spärrtiderna blir längre än vad som för närvarande är fallet när ett körkort återkallas. Endast den typ av alkolås som godkänts av Transportstyrelsen får användas när ett körkortsinnehav förenats med ett villkor om alkolås. För att godkänna en viss typ alkolås krävs också att alkolåset har prövats av en ackrediterad provanstalt.
+
+De nya bestämmelserna om teknisk kontroll och godkännande av alkolås föreslås träda i kraft den 1 oktober 2011, och övriga bestämmelser den 1 januari 2012\.

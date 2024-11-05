@@ -1,0 +1,13 @@
+# En ny ordning för asylsökandes boende
+
+I lagrådsremissen föreslår regeringen lagändringar som syftar till att åstadkomma en ny ordning för asylsökandes boende, där utgångspunkten är att asylsökande ska bo på Migrationsverkets boenden i stället för att ordna boende på egen hand.
+
+Förslagen innebär bland annat att
+
+* asylsökande som huvudregel endast ska ha rätt till ekonomiskt bistånd under asyltiden om de bor enbart på den plats på ett asylboende som de har tilldelats,
+* Migrationsverket får möjlighet att undersöka asylsökandes boende\-och förvaringsutrymmen på asylboendena, i syfte att kontrollera att asylsökanden bor på den tilldelade boendeplatsen,
+* en ansökan om uppehållstillstånd får betraktas som återkallad för asylsökande som inte bor på ett asylboende och inte håller Migrationsverket underrättat om sin bostadsadress.
+
+Det föreslås också en lagreglerad skyldighet för asylsökande att delta i samhällsintroduktion.
+
+Lagändringarna föreslås träda i kraft den 1 mars 2025\.

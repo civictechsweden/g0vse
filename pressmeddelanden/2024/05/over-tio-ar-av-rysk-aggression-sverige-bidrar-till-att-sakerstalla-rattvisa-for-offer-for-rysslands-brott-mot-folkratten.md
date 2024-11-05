@@ -1,0 +1,11 @@
+# Över tio år av rysk aggression: Sverige bidrar till att säkerställa rättvisa för offer för Rysslands brott mot folkrätten
+
+Svenska medel kommer bland annat gå till organisationen ”The Reckoning Project” som samlar in bevis och ger stöd till journalister och jurister för utredningar av fall rörande tvångsförflyttade och deporterade ukrainska barn. Sverige har även anslutit sig till en internationell koalition för återvändande av ukrainska barn som syftar till att förhindra Rysslands agerande och att underlätta för barn att återvända till Ukraina.
+
+– Barnen är Ukrainas framtid och genom ett nytt stöd till projekt som ”The Reckoning Project” bidrar Sverige till att försöka hjälpa och få hem de tusentals ukrainska barn som blivit tvångsförflyttade eller deporterade till Ryssland. Gång på gång har vi bevittnat hur Ryssland begår allvarliga överträdelser av den internationella humanitära rätten genom attacker mot civila, tortyr, sexuellt våld och tvångsförflyttning och deportering av civila, däribland många barn. Att utkräva ansvar för Rysslands allvarliga överträdelser är en viktig del i Sveriges kraftfulla stöd till Ukraina, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+
+Sverige ger också stöd till Organisationen för säkerhet och samarbete i Europa (OSSE/ODIHR) som dokumenterar brott mot de mänskliga rättigheterna. Vidare anslöt sig Sverige som en av de grundande medlemmarna till Europarådets skaderegister, som registrerar skadeståndsanspråk och bevis kopplade till skada som orsakats till följd av Rysslands aggression mot Ukraina. Skaderegistret är ett viktigt steg framåt för att säkerställa att Ryssland gottgör Ukraina.
+
+Regeringen har tilldelat Myndigheten för samhällsskydd och beredskap (MSB) medel för att kunna att stödja Ukraina, delvis genom resurser som stärker ukrainska myndigheters tekniska kapacitet att utreda krigsbrott.
+
+Utöver detta fortsätter Sveriges stöd till insatser genom EU, Europarådet, FN, Internationella brottsmålsdomstolen (ICC) och OSSE. Svenska myndigheter bidrar också med kapacitetsstärkande stöd och donation av material. Sverige verkar också tillsammans med andra länder för att etablera en tribunal för det ryska aggressionsbrottet mot Ukraina.

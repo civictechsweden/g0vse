@@ -1,0 +1,26 @@
+# "Klimatomställningen stärker Sveriges konkurrenskraft och ökar vår tillväxt"
+
+Debattartikel av statsminister Ulf Kristersson, energi\- och näringsminister Ebba Busch, klimat\- och miljöminister Romina Pourmokhtari, bistånds\- och utrikeshandelsminister Johan Forssell i Dagens industri den 30 november 2023\.
+
+
+Sverige har tidigare visat att stora utsläppsminskningar kan förenas med ökad tillväxt. Sedan år 1990 har vi minskat våra utsläpp med 37 procent, medan tillväxten har ökat med 92 procent. Fler länder behöver göra samma resa som vi har gjort, skriver företrädare för regeringen.
+
+Nu inleds FN:s klimatförhandlingar under COP28\. Världens länder samlas för att komma överens om gemensamma åtaganden för klimatomställningen och för att hantera konsekvenserna av de alltmer kritiska klimatförändringarna. Budskapet från Sverige och EU är tydligt: det inte bara går att kombinera högt uppställda klimatmål med tillväxt och välstånd, det är till och med nödvändigt.
+
+COP28 är ett viktigt möte som ställer höga krav på alla som deltar – regeringar, näringslivet och miljöorganisationer. Vi måste öka takten i klimatomställningen och det är bråttom. Klimatfrågan är global och den är en av vår tids allra största ödesfrågor. Vi befinner oss nu i ett kritiskt stadium om vi ska lyckas att ställa om. Samtidigt finns stora möjligheter. Sverige har tidigare visat att stora utsläppsminskningar kan förenas med ökad tillväxt. Fler länder behöver göra samma resa som vi har gjort. Sedan år 1990 har vi minskat våra utsläpp med 37 procent, medan tillväxten har ökat med 92 procent. Nu fortsätter vi arbetet mot nettonollutsläpp till 2045 genom elektrifiering av industri\- som transportsektorn, genom nya gröna innovationer och genom att lägga om energisystemet med helt ny svensk kärnkraft.
+
+Det svenska näringslivet har stora möjligheter att bidra med varor och tjänster som snabbar på klimatomställningen även på våra exportmarknader. Samtidigt behöver många fler länder ta fram, och förbinda sig till, färdplaner för att nå hela vägen till klimatneutralitet. Ett bra tillfälle är de kommande veckorna på COP28\. Det är centrala frågor som kommer upp på mötet och den svenska regeringen kommer att driva flera:
+
+• Fasa ut fossila bränslen. Många länder utanför EU måste höja ambitionsnivån för att sluta använda fossila bränslen. Sverige har i dag en i princip fossilfri elproduktion och fortsätter nu bygga ut elsystemet genom en kraftig utbyggnad av baskraften. Annars klarar vi inte klimatomställningen.
+
+• Världens länder behöver stärka klimatanpassningsarbetet när klimatförändringarna får alltmer förödande konsekvenser. Världens länder behöver ha en bättre beredskap vid exempelvis skyfall, översvämningar, torka, värmeböljor och skogsbränder.
+
+• Finansiella institut ska bidra till klimatomställningen. Sverige och EU har goda erfarenheter av att banker, pensionsbolag och försäkringsbolag ställer om sina affärsmodeller och investeringar \- från fossilt till fossilfritt. Det behöver bli en global rörelse och under de kommande veckornas förhandlingar kommer vi att dela med oss av dessa erfarenheter.
+
+• Öka ambitionen i det globala klimatarbetet. Med EU:s nya klimatlagstiftning Fit for 55 – som vi ledde i mål under Sveriges ordförandeskap – är EU ett föredöme för andra kontinenter. Genom tydliga mål och tuffa krav, ska nu 450 miljoner européer gemensamt minska våra utsläpp med minst 55 procent fram till år 2030\. EU ska bli världens första klimatneutrala kontinent senast år 2050\. I Sverige har vi satt upp klimatmål som är mer ambitiösa än så; vi ska nå nettonollutsläpp redan år 2045 – fem år före resten av EU. Med EU:s regler har vi åtgärder på plats för att ta ner unionens utsläpp så att vi gör vår del av jobbet för att klara 1,5\-gradersmålet. Fler måste anta lika kraftfulla regler som EU. Och vi är många som behöver göra mer för att klimatomställningen ska ske med välstånd och social acceptans. För det krävs goda villkor för det näringsliv som ska ställa om.
+
+• Ambitiösa klimatmål ska gälla alla G20\-länderna, som står för 80 procent av världens totala utsläpp. USA och Kina kom överens i förra veckan om flera element som kan bidra till ett positivt utfall för COP28\. Det är mycket välkommet, men fler länder behöver höja ambitionsnivån.
+
+• Regeringen kommer att genomföra klimatomställningen med bred folklig förankring. Omställningen ska öka vår frihet – inte begränsa vår vardag. Det viktigaste är att ställa om våra samhällen från fossilt till fossilfritt. Genom klimatinitiativ med andra länder \- som LeadIT tillsammans med Indien eller First Movers Coalition – visar vi att det handlar om klimatneutral infrastruktur, fossilfri elproduktion och en snabbare elektrifiering, särskilt i industrin och transportsektorn. Målet är inte bara att minska utsläppen på kort sikt, utan att ta bort dem helt.
+
+Störst fokus under COP28 får den globala översynen av Parisavtalet – den första sedan 2015 – som konkret följer upp hur världens länder lever upp till sina åtaganden. Nu är det upp till bevis för alla länder att leva upp till det man redan har sagt och till det som nu behövs.

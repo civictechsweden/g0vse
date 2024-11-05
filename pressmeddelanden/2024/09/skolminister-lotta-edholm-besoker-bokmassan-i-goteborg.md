@@ -1,0 +1,5 @@
+# Skolminister Lotta Edholm besöker Bokmässan i Göteborg
+
+Under Bokmässan kommer skolministern bland annat tillsammans med kulturminister Parisa Liljestrand delta i Kulturrådet och Skolverkets seminarium ”Läsning så in i Norden!”. Seminariet handlar om hur barn och ungas läsande i skolan och på fritiden kan stärkas. Skolministern kommer också att delta i Sveriges Lärares seminarium ”Behöver Sverige en helt ny läspolitik?”, för att tillsammans med representanter från Lärarstiftelsens och Sveriges Lärares expertråd för läsning diskutera barn och ungas läsande. Dessutom kommer skolministern dela ut Nationella Skolbiblioteksgruppens pris Årets skolbibliotek, som i år går till Nydalaskolan i Malmö.
+
+– Jag ser mycket fram emot att diskutera barn och ungas läsning under Bokmässan. En god läsförmåga är grunden för att kunna lära och utvecklas inom alla skolämnen. Skolbiblioteken har här en viktig roll i att bidra till att väcka läslusten och läsglädjen hos fler barn och unga. Därför ska det bli roligt att få dela ut pris till årets skolbibliotek, som lyckats extra bra med detta, säger skolminister Lotta Edholm.

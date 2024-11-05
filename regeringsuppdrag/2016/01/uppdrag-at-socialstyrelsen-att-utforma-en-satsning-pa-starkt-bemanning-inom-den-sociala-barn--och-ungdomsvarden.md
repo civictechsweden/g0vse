@@ -1,0 +1,8 @@
+# Uppdrag åt Socialstyrelsen att utforma en satsning på stärkt bemanning inom den sociala barn- och ungdomsvården
+
+Regeringen ger Socialstyrelsen i uppdrag att utforma ett förslag till stimulanssatsning för att stärka bemanningen inom den sociala barn\- och ungdomsvården. I uppdraget ingår att redovisa hur en sådan satsning kan genomföras, administreras och följas upp.
+
+
+Regeringen konstaterar i budgetpropositionen för år 2016 (prop. 2015/16:1, utgiftsområde 9, Hälsovård, sjukvård och social omsorg) att arbetet med flickor och pojkar som far illa är en av social\-tjänstens svåraste uppgifter. Samtidigt har den ansträngda situation som varit inom socialtjänsten och som rapporterats om under lång tid bidragit till svårigheter att rekrytera och behålla erfaren personal och till tidsbrist och stress i arbetet. Den kraftiga ökningen av antalet ensamkommande barn som har ansökt om asyl i Sverige innebär ytterligare utmaningar för socialtjänsten. Detta bekräftas också vid de kommunbesök som genom förs av regeringens nationella samordnare för den sociala barn\- och ungdomsvården. Det är angeläget att vända utvecklingen och förbättra förutsättningarna att göra ett bra arbete.
+
+Mot den bakgrunden avser regeringen att förbättra förutsättningarna för socialtjänstens arbete inom den sociala barn\- och ungdomsvården. Under förutsättning av riksdagens godkännande ska 250 000 000 kronor årligen under åren 2016–2019 avsättas för ändamålet. Medlen ska i huvudsak gå till att stärka bemanningen, samt till satsningar på kompetens och kvalitet. Av de reserverade medlen för 2016–2019 ska 210 000 000 kronor årligen användas för att stärka bemanningen inom den sociala barn\- och ungdomsvården.

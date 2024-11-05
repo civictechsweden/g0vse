@@ -1,0 +1,6 @@
+# Uppdrag att utveckla en sammanhållen datainfrastruktur för kompetensförsörjning och livslångt lärande
+
+Regeringen uppdrar åt Arbetsförmedlingen, Statens skolverk (Skolverket), Myndigheten för yrkeshögskolan (MYH), Vetenskapsrådet, Universitets\- och högskolerådet, Statistiska centralbyrån, Myndigheten för digital förvaltning (Digg) och Verket för innovationssystem (Vinnova) att utveckla förutsättningarna för tillgängliggörande av data och digital information om utbildning och arbetsmarknad, samt etablera former för förvaltning av en sammanhållen datainfrastruktur för kompetensförsörjning och livslångt lärande.
+
+
+Uppdraget ska långsiktigt främja effektiv kompetensförsörjning och livslångt lärande samt underlätta omställning på arbetsmarknaden. Målet med de insatser som ingår i uppdraget är att stärka förutsättningarna för myndigheter och andra aktörer att skapa och tillhandahålla digitala tjänster som stärker individers ställning på arbetsmarknaden samtidigt som privat och offentlig sektors kompetensbehov tillgodoses.
