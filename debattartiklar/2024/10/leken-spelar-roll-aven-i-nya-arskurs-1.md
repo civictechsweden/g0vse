@@ -15,7 +15,7 @@ För oss är det uppenbart att vi behöver göra mer för att alla elever ska f�
 
 Efter vårt besked om tioårig grundskola lyfter nu Alexandra Söderman behovet av att värna lekens kraft i förskoleklass (SvD Debatt 27/10\). Hon har rätt i att leken är viktig i små barns liv och lärande. Vi menar att det ena inte utesluter det andra. Utbildningen, och undervisningen, ska naturligtvis även fortsättningsvis anpassas efter elevernas ålder. Därmed kommer leken kunna spela en roll i den nya årskurs 1\. Genom en tioårig grundskola ser vi samtidigt till att alla sexåringar får mer undervisning av behöriga lärare, för att ge dem bättre möjlighet att utveckla grundläggande färdigheter tidigare än idag.
 
-I ett läge där var fjärde elev inte kan läsa ordentlig och där svenska elever internationellt sett börjar skolan sent jämfört med andra barn, är en tioårig grundskolan en av flera viktiga reformer för att ta tillbaka skolan till grunderna. Våra elever behöver få undervisning i att läsa, skriva och räkna tidigare än idag. Det är viktigt för alla elever, men allra viktigast för de elever som behöver skolan som mest.
+I ett läge där var fjärde elev inte kan läsa ordentligt och där svenska elever internationellt sett börjar skolan sent jämfört med andra barn, är en tioårig grundskola en av flera viktiga reformer för att ta tillbaka skolan till grunderna. Våra elever behöver få undervisning i att läsa, skriva och räkna tidigare än idag. Det är viktigt för alla elever, men allra viktigast för de elever som behöver skolan som mest.
 
 Johan Pehrson, utbildningsminister (L)
 

@@ -1,5 +1,8 @@
 # Strategi för Sveriges utvecklingssamarbete med Kenya 2021– 2025
 
+(Ny version) Strategin ska gälla under perioden 2021–2025 och omfattar sammantaget 1,75 miljarder kronor.
+
+
 ### Syfte
 
 Målet för svenskt internationellt bistånd är att skapa förutsättningar för
