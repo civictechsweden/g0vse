@@ -1,6 +1,6 @@
 # BIO-Europe utvecklar life science-sektorn
 
-Måndagen den 4 november deltog energi\- och näringsminister Ebba Busch vid konferensen BIO\-Europe, där Stockholm och Sverige står värd. Förutom att invigningstala och inviga den Svenska montern mötte statsrådet flera företag som fick möjlighet att berätta om sin verksamhet.
+Måndagen den 4 november deltog energi\- och näringsminister Ebba Busch vid konferensen BIO\-Europe, där Stockholm och Sverige står värd. Förutom att invigningstala och inviga den svenska montern mötte statsrådet flera företag som fick möjlighet att berätta om sin verksamhet.
 
 
 Mässan BIO\-Europe firar 30 år och arrangeras denna gång i Stockholm. Det är ett unikt tillfälle för företag inom life science\-sektorn, inte bara biotech och läkemedelsbolag, att mötas och dela erfarenheter, hitta partners och finansiering.

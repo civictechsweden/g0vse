@@ -5,7 +5,7 @@ Den 30\-31 oktober samlades närmare 650 deltagare på plats i Visby och därut�
 
 EU:s strategi för Östersjöregionen (EUSBSR) främjar internationellt samarbete i Östersjöregionen och är uppdelad i tre huvudmål: Att rädda havet, att koppla samman regionen och att öka välståndet. Sedan strategin grundades 2009, har den bidragit till att stärka samarbetet i regionen inom samtliga tre områden. Arbete bedrivs för att hantera nivån av skadliga substanser i Östersjön och kustnära områden, liksom insatser med att begränsa läckage av näringsämnen från jordbruk. Rederibranschen är en viktig näring som är beroende av att kunna verka året om. Strategin är därför verksam i projekt som säkerställer möjligheten att kunna navigera i vinterförhållanden, vilket inkluderar isbrytare och möjligheten att kunna utbilda personal. Bara för att nämna några exempel.
 
-Därtill har strategin även bidragit till att stärka samarbetet mellan myndigheter, exempelvis inom frågor som djurskydd, hälsa, antimikrobiellt motstånd och matförsörjning. Med hänsyn till utmaningarna i världsläget har arbete med fokus på krisberedskap, robusthet och resiliens initierats med syfte att stärka säkerheten i regionen.
+Därtill har strategin även bidragit till att stärka samarbetet mellan myndigheter, exempelvis inom frågor som djurskydd, hälsa, antimikrobiell resistens och matförsörjning. Med hänsyn till utmaningarna i världsläget har arbete med fokus på krisberedskap, robusthet och resiliens initierats med syfte att stärka säkerheten i regionen.
 
 ## Ukraina – en fortsatt prioritet för Östersjöstrategin
 
@@ -19,7 +19,7 @@ Utmaningarna länderna emellan skiftar. Några är mer eller mindre självförs�
 
 En stark bioekonomi kan bidra till en modernare, mer resurseffektiv och konkurrenskraftig region, vilket gynnar hela EU. Utsläppen och beroendet av fossila bränslen kan minskas genom användandet av biobaserade resurser vilket driver på den gröna övergången. Genom att stärka krisberedskap inom jordbruk, skogsbruk och fiske och akvakultur, kan geopolitiska och klimatrelaterade utmaningar mötas med större motståndskraft och skapa förutsättningar för en hållbar livsmedelsförsörjning också i kristid.
 
-Ett stärkt transnationellt samarbete inom regionen och hela EU kan vara avgörande för en säker och hållbar livsmedelsförsörjning. Östersjöstrategin kan i detta tillhandahålla ett värdefullt politiskt ramverk som stödjer beredskap, robusthet och motståndskraft i den bioekonomiska sektorn.
+Ett stärkt transnationellt samarbete inom regionen och hela EU kan vara avgörande för en säker och hållbar livsmedelsförsörjning. Östersjöstrategin kan i detta tillhandahålla ett värdefullt politiskt ramverk som stödjer beredskap, robusthet och motståndskraft i den bioekonomisektorn.
 
 ## Stärkt samarbete vägen till en säkrare region
 
