@@ -17,9 +17,7 @@ fungerar idag,
 finansieringslösningar vid mellanstatliga försvarsmaterielexportaffärer
 och vid behov lämna förslag på hur en finansieringslösning kan
 utformas,
-* analysera och utvärdera om exportstödet bör prioriteras annorlunda eller
-utvecklas på annat sätt utifrån näringslivets förutsättningar att bidra till
-totalförsvaret och säkerhets\- och försvarspolitiken i stort,
+* analysera och utvärdera om exportstödet bör prioriteras annorlunda eller utvecklas på annat sätt utifrån näringslivets förutsättningar att bidra till totalförsvaret och säkerhets\- och försvarspolitiken i stort,
 * vid behov lämna nödvändiga författningsförslag.
 
 Uppdraget ska redovisas senast den 30 oktober 2025\.
