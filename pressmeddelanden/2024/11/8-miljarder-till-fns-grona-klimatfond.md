@@ -1,0 +1,9 @@
+# 8 miljarder till FN:s gröna klimatfond
+
+En framgångsrik påfyllnad av FN:s gröna klimatfond är en viktig uppmaning till världens länder att höja ambitionerna för utsläppsminskningar vid klimatkonferensen COP29 i Baku.
+
+– Klimatkrisen är en global kris. Regeringen har en pådrivande roll i det internationella klimatarbetet, där Sverige vill effektivisera och utöka klimatbiståndet. FN:s gröna klimatfond är en av våra viktigaste kanaler. Sveriges bidrag till GCF gör oss till största givare per capita bland de stora bidragsgivarna, och visar därmed vår ledande roll inom klimatfinansiering. Sverige vill att fonden ska prioritera innovation, grön omställning genom investeringar i fossilfri energi, energieffektivisering och klimatsmart infrastruktur, säger bistånds\- och utrikeshandelsminister Benjamin Dousa.
+
+– Sverige är ledande i det globala arbetet för att nå till upp till Parisavtalets 1,5\-gradersmål. Våra betydande bidrag till den största och mest välorganiserade internationella klimatfonden är väl investerade skattepengar. Regeringens ambition med denna satsning är att snabba på klimatomställningen i länder som har stora utsläpp, men som behöver hjälp med att ställa om, säger klimat\- och miljöminister Romina Pourmokhtari.
+
+Med Sveriges bidrag uppgår påfyllnaden av fonden till drygt 13,5 miljarder USD för åren 2024–2027\. Drygt en tredjedel av GCF:s resurser investeras i åtgärder i den privata sektorn och mobiliserar därmed privat kapital till klimatinvesteringar. Sverige är och kommer fortsätta vara en av världens mest generösa givare av internationell klimatfinansiering. Sverige spelade en betydande roll i att världen 2022 nådde målet om 100 miljarder dollar per år i global klimatfinansiering, i och med ett generöst svenskt bidrag. Det svenska bidraget till internationell klimatfinansiering är en central del av Sveriges klimatpolitik.

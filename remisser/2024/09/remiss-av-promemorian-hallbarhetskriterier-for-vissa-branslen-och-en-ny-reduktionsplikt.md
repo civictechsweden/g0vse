@@ -1,6 +1,6 @@
 # Remiss av promemorian Hållbarhetskriterier för vissa bränslen och en ny reduktionsplikt
 
-Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Hållbarhetskriterier för vissa bränslenoch en ny reduktionsplikt
+Här kan du ta del av svaren från de som ombetts svara på remissen av promemorian Hållbarhetskriterier för vissa bränslen och en ny reduktionsplikt. Övriga ärenden finns tillgängliga i departementet.
 
 
 Remissvaren ska ha kommit in till Klimat\- och näringslivsdepartementet senast den 12 november 2024\.
