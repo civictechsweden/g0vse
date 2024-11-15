@@ -39,7 +39,9 @@ print(f"Fetching the latest {to_fetch} items...")
 new_items, new_codes = downloader.get_latest_items(to_fetch)
 
 if just_fetch_new:
-    new_items = [i for i in new_items if Downloader.last_updated(i) > timer.day_before()]
+    new_items = [
+        i for i in new_items if Downloader.last_updated(i) > timer.day_before()
+    ]
     new_items.reverse()
     new_urls = [item["url"] for item in new_items]
 
@@ -69,7 +71,7 @@ for item in items:
 
     print(f"Fetching page at {url}...")
     page = downloader.get_webpage(url)
-    
+
     if not page:
         print(f"Error: {url}")
         continue
@@ -79,7 +81,7 @@ for item in items:
     if not md_content:
         print(f"Error: {url}")
         continue
-    
+
     Writer.write_md(md_content, "data/" + item["url"].strip("/") + ".md")
 
     for category in metadata["categories"]:
@@ -87,7 +89,7 @@ for item in items:
 
     metadata["categories"] = [category[0] for category in metadata["categories"]]
     item.update(metadata)
-    
+
 codes = {str(key): codes[key] for key in sorted(codes)}
 
 latest_updated = {
@@ -99,3 +101,13 @@ latest_updated = {
 Writer.write_json(items, ITEMS_PATH)
 Writer.write_json(codes, CODES_PATH)
 Writer.write_json(latest_updated, "./data/api/latest_updated.json")
+
+types = read_json("./types.json")
+
+
+def get(type, items):
+    return [item for item in items if f"/{type}/" in item["url"]]
+
+
+for type in types:
+    Writer.write_json(get(type, items), f"./data/{type}.json")
