@@ -1,0 +1,5 @@
+# Regeringen utser Mats Granryd till ny ledamot i Business Swedens styrelse
+
+– Vi är glada och tacksamma för att Mats Granryd har tackat ja till detta uppdrag. Mats långa och breda erfarenhet av styrelsearbete och svenska företags internationalisering kommer att vara en stor tillgång i arbetet med att ytterligare förstärka och utveckla Business Swedens stöd till svenska företag på såväl etablerade som nya marknader, säger bistånds\- och utrikeshandelsminister Benjamin Dousa.
+
+Mats Granryd är i dag styrelseordförande för Vattenfall AB och Coor samt styrelseledamot i Ratos. Han har även erfarenhet som styrelseledamot i Sveriges Television och Swedbank. Granryd har lång erfarenhet från olika befattningar i Ericsson och som koncernchef i Tele2\. I dag är han Director General i GSMA (tidigare GSM Association) som är en internationell organisation för mobiloperatörer. Gransyd har även uppdrag som medlem i FN:s Bredbandskommission och i den högnivåexpertgrupp som är knuten till regeringens AI\-kommission. Mats Granryd är civilingenjör utbildad vid KTH.

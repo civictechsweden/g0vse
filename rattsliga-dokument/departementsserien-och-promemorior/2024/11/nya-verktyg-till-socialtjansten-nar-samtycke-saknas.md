@@ -1,5 +1,7 @@
 # En lag om insatser inom socialtjänsten till vårdnadshavare, barn och unga när samtycke saknas
 
+![Ds 2024:30](/contentassets/9b6f81471caf47c4a7d0d5cc84b58dc0/ds202430-150x220px.jpg?width=150&quality=85)
+
 Utredningen om öppna insatser utan samtycke till vårdnadshavare och fler tidiga insatser till barn och unga har bland annat haft i uppdrag att föreslå en ordning som ger möjlighet för socialnämnden att besluta om dels öppna insatser utan samtycke till vårdnadshavare, dels krav riktade mot barn och unga liknande sådana som förekommer i Danmark.
 
 I Ds:en föreslår utredningen bland annat att socialnämnden:
