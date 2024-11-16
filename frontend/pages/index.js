@@ -11,8 +11,8 @@ export default function Index() {
           content="Öppna data från regeringen.se"
         />
         <link rel="icon" href="/favicon.ico" />
-        <meta property="og:image" content="/ulf-mozaic.jpg" />
-        <meta property="og:video" content="/hejulf.mp4" />
+        <meta property="og:title" content="g0vse - Öppna data från regeringen.se" />
+        <meta property="og:image" content="https://raw.githubusercontent.com/civictechsweden/g0vse/refs/heads/master/g0vse.png" />
       </Head>
 
       <main className="">
