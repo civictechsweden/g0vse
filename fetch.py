@@ -24,7 +24,7 @@ if just_fetch_new:
     items = read_json(ITEMS_PATH)
     items.reverse()
 
-    stats = read_json("./api/latest_updated.json")
+    stats = read_json("./data/api/latest_updated.json")
     timer.set_latest_update(stats["latest_updated"])
     amount_saved = stats["items"]
 
