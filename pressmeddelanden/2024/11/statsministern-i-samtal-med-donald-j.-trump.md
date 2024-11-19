@@ -1,0 +1,3 @@
+# Statsministern i samtal med Donald J. Trump
+
+– Har idag haft ett bra samtal med Donald Trump. Sverige och USA är nära partners sedan lång tid tillbaka. Vi talade om vårt samarbete i Nato och våra gemensamma säkerhetsintressen. Vi pratade om Rysslands krig mot Ukraina och jag lyfte särskilt att stödet till Ukraina är viktigt både för svensk och transatlantisk säkerhet. Vi diskuterade också Sveriges och USA:s ekonomiska samarbete inom handel och teknologi. Sverige är den tionde största investeraren i USA. Jag ser fram emot att fortsätta vårt nära samarbete och vi kommer att träffas när tillfälle ges, säger statsminister Ulf Kristersson.
