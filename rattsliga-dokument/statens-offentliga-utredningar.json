@@ -1,5 +1,67 @@
 [
     {
+        "title": "Personuppgifter och mediegrundlagarna, SOU 2024:75",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2024/11/sou-202475/",
+        "published": "2024-11-20",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1287"
+        ],
+        "summary": "Betänkande av Utredningen om ett förstärkt skydd för personuppgifter på tryck- och yttrandefrihetsområdet.",
+        "id": "SOU 2024:75",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Personuppgifter och mediegrundlagarna, SOU 2024:75 (pdf 1 MB)",
+                "url": "/contentassets/2bd035639bae420f9dcb9eb9a5f52ac1/personuppgifter-och-mediegrundlagarna-sou-202475.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1287",
+            "1224",
+            "1263"
+        ]
+    },
+    {
+        "title": "Fler vägar till arbetslivet, SOU 2024:74",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2024/11/sou-202474/",
+        "published": "2024-11-20",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1294"
+        ],
+        "summary": "Betänkande av Utredningen om fler vägar till arbetslivet.",
+        "id": "SOU 2024:74",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Utredning föreslår nya yrkesprogram i gymnasieskolan",
+                "url": "/pressmeddelanden/2024/11/utredning-foreslar-nya-yrkesprogram-i-gymnasieskolan/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Fler vägar till arbetslivet, SOU 2024:74 (pdf 6 MB)",
+                "url": "/contentassets/3d1edf038443454f9c1598e9343afdba/sou-2024_74_pdf-a_webb.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1294",
+            "1276"
+        ]
+    },
+    {
         "title": "Från överskottsmål till balansmål, SOU 2024:76",
         "url": "/rattsliga-dokument/statens-offentliga-utredningar/2024/11/sou-202476/",
         "published": "2024-11-15",

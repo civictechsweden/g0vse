@@ -1,5 +1,94 @@
 [
     {
+        "title": "Ministrar värdar för rundabordssamtal om estetiska verksamheter",
+        "url": "/artiklar/2024/11/ministrar-vardar-for-rundabordssamtal-om-estetiska-verksamheter/",
+        "published": "2024-11-20",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "2607",
+            "2614",
+            "1285",
+            "1292"
+        ],
+        "summary": "Patientsäkerhet, regelefterlevnad och arbetet mot oseriösa aktörer stod i fokus när sjukvårdsminister Acko Ankarberg Johansson och civilminister Erik Slottner bjöd in till Rosenbad för rundabordssamtal om estetiska verksamheter. Branschen har skakats av flera larm och allvarliga patientskador, vilket bland annat Inspektionen för vård och omsorg rapporterat om i mitten av november.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Lag om estetiska kirurgiska ingrepp och estetiska injektionsbehandlingar, Prop. 2020/21:57",
+                "url": "/rattsliga-dokument/proposition/2020/12/prop.-20202157"
+            },
+            {
+                "name": "En översyn av vissa frågor om dokumentation, begränsningar och tillsyn avseende läkemedelsförskrivningar, Dir. 2024:82",
+                "url": "/rattsliga-dokument/kommittedirektiv/2024/09/dir.-202482"
+            },
+            {
+                "name": "Inspektionen för vård och omsorg: IVO har upptäckt omfattande brister i verksamheter som utför skönhetsingrepp",
+                "url": "https://www.ivo.se/aktuellt/publikationer/rapporter/ivo-har-upptackt-omfattande-brister-i-verksamheter-som-utfor-skonhetsingrepp/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2097",
+            "2607",
+            "2614",
+            "1285",
+            "1292",
+            "1240",
+            "1233"
+        ]
+    },
+    {
+        "title": "Omtag för sjukvården i Värmland",
+        "url": "/artiklar/2024/11/omtag-for-sjukvarden-i-varmland/",
+        "published": "2024-11-20",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "2607",
+            "1292"
+        ],
+        "summary": "I Region Värmland görs flera förändringar på hälso- och sjukvårdens område. Regionen driver numera larmcentralen i egen regi och i Karlstad görs en omfattande tillbyggnad på Centralsjukhuset. Sjukvårdsminister Acko Ankarberg Johansson besökte Värmland som del i sin regionturné.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2097",
+            "2607",
+            "1292",
+            "1233",
+            "2693",
+            "2688"
+        ]
+    },
+    {
+        "title": "Årets lärarråd genomförda – skolministern summerar mötena med lärare och förskollärare",
+        "url": "/artiklar/2024/11/arets-lararrad-genomforda--skolministern-summerar-motena-med-larare-och-forskollarare/",
+        "published": "2024-11-20",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "2620",
+            "1294"
+        ],
+        "summary": "I början av året tog regeringen ett initiativ till en serie lärarråd där skolminister Lotta Edholm träffat lärare och förskolelärare runtom i landet. Nu har alla lärarråd genomförts och skolministern tar med sig många viktiga förslag och insikter.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2097",
+            "2620",
+            "1294",
+            "1276"
+        ]
+    },
+    {
         "title": "Dags för nästa steg för den digitala infrastrukturen i hälso- och sjukvården",
         "url": "/artiklar/2024/11/dags-for-nasta-steg-for-den-digitala-infrastrukturen-i-halso--och-sjukvarden/",
         "published": "2024-11-19",
