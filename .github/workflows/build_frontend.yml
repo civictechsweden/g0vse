@@ -1,0 +1,41 @@
+# Simple workflow for deploying static content to GitHub Pages
+name: Build the frontend
+
+on:
+  push:
+    paths:
+      - 'frontend/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master branch
+        uses: actions/checkout@v4
+        with:
+          path: "g0vse"
+      - name: Checkout frontend branch
+        uses: actions/checkout@v4
+        with:
+          ref: "frontend"
+          path: "frontend"
+      - name: Build the frontend, push to frontend
+        run: |
+          cd g0vse/frontend
+          npm install
+          npm run build
+          rsync -av --remove-source-files --delete --exclude '.git/' ./out/ ../../frontend/
+          cd ../../frontend
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add .
+          git commit -m "Update the frontend" || echo "Nothing to push"
+          git push

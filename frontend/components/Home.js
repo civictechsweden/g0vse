@@ -25,8 +25,8 @@ export default function Home() {
   const [addedSuffix, setAddedSuffix] = useState("");
   const [errorMessage, setErrorMessage] = useState("");
   const [latestData, setLatestData] = useState(null);
-  const regexPrefix = /^(https?:\/\/)?(www\.)?(regeringen\.se|gov\.se)/;
-  const regexSuffix = /\/$/
+  const regexPrefix = /^(https?:\/\/)?(www\.)?(regeringen\.se|gov\.se)/i;
+  const regexSuffix = /\/$/;
 
   const convert = async (e) => {
     const link = e.target.value;
