@@ -1,5 +1,48 @@
 [
     {
+        "title": "Sjukvårdsministern talade om svensk cancervård i Bryssel",
+        "url": "/artiklar/2024/11/sjukvardsministern-talade-om-svensk-cancervard-i-bryssel/",
+        "published": "2024-11-22",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "2607",
+            "1292"
+        ],
+        "summary": "Sjukvårdsminister Acko Ankarberg Johansson talade på European Cancer Summit, en av de största konferenserna för cancerfrågor i Europa. Konferens hölls i slutet av november i Bryssel och samlade experter, beslutsfattare och civilsamhället från hela Europa.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Artikel: Sjukvårdsminister Acko Ankarberg Johansson om budgetsatsningar på hälso- och sjukvården",
+                "url": "/artiklar/2024/10/sjukvardsminister-acko-ankarberg-johansson-om-budgetsatsningar-pa-halso--och-sjukvarden/"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen och SKR utökar canceröverenskommelse för att stärka patientsäkerheten",
+                "url": "/pressmeddelanden/2024/11/regeringen-och-skr-utokar-canceroverenskommelse-for-att-starka-patientsakerheten/"
+            },
+            {
+                "name": "Artikel: Cancervården en prioriterad fråga för regeringen",
+                "url": "/artiklar/2024/02/cancervarden-en-prioriterad-fraga-for-regeringen/"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen vill att livmoderhalscancer ska utrotas",
+                "url": "/pressmeddelanden/2024/08/regeringen-vill-att-livmoderhalscancer-ska-utrotas/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2097",
+            "2607",
+            "1292",
+            "1233",
+            "2693",
+            "2688",
+            "1012"
+        ]
+    },
+    {
         "title": "Samförståndsavtal undertecknade under H.M. Konungens statsbesök i Singapore",
         "url": "/artiklar/2024/11/samforstandsavtal-undertecknade-under-h.m.-konungens-statsbesok-i-singapore",
         "published": "2024-11-21",

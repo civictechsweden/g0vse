@@ -1,0 +1,15 @@
+# SCB får nytt uppdrag att mäta andelen självförsörjande i Sverige
+
+– Syftet med att mäta självförsörjning är att skapa bättre förutsättningar att återupprätta arbetslinjen. Med egen försörjning ökar människors frihet och möjlighet att forma sina egna liv. Ett samhälle där alla bidrar efter förmåga ökar legitimeten för den offentligt finansierade välfärden och bidrar till en starkare samhällsgemenskap. För att vi ska kunna genomföra insatser behöver vi bättre statistik och kunskapsunderlag för att kunna motverka utanförskap och öka graden av självförsörjning, säger civilminister Erik Slottner.
+
+Sverige har i dag en av det högsta sysselsättningsgraderna i EU men trots det är det fortfarande många som saknar tillräcklig inkomst för att försörja sig själv och sin familj. Det officiella måttet på sysselsättning utgår i dag från att mäta om individer är sysselsatta minst en timme under en mätvecka, utan att beakta inkomstnivå. Det säger därför väldigt lite om hur många som arbetar i sådan omfattning att de kan anses vara förankrade på arbetsmarknaden och leva på sin egen försörjning.
+
+– Regeringen vill återupprätta arbetslinjen. Fler svenskar ska gå till jobbet och ha en egen försörjning. För att kunna följa upp att vår politik leder till just det behövs ett mått som mäter hur många individer som kan anses vara självförsörjande eller inte. Ett mått på självförsörjning blir också särskilt relevant för analyser av grupper som står långt från arbetsmarknaden, säger finansminister Elisabeth Svantesson.
+
+Det har saknats ett mått som mäter hur många individer som saknar tillräcklig försörjning. För att kunna mäta och följa detta över tid tog regeringen fram ett sådant mått i vårpropositionen för 2024\. Uppdraget till SCB innebär att myndigheten ska samla in och följa det nya måttet över tid, samt göra det tillgängligt för andra. Det är ett stort steg framåt i att kunna beskriva den situation som råder på arbetsmarknaden och möjliggöra mer träffsäker politik för gruppen som i dag inte har en tillräcklig egen försörjning.
+
+– Med självförsörjningsmåttet vill vi visa hur många som arbetar i så hög utsträckning att de kan försörja sig själva. Genom att Statistiska Centralbyrån nu får i uppdrag att ta fram måttet för självförsörjning vill regeringen åstadkomma bättre etablering på arbetsmarknaden, säger arbetsmarknads\- och integrationsminister Mats Persson.
+
+Regeringens utgångspunkt är att integrationspolitiken ska vara kravbaserad och betona individens eget ansvar. Riksdagen har under 2024 antagit ett nytt mål för integrationspolitiken. I syfte att öka genomslaget för det nya integrationspolitiska målet har regeringen som komplement formulerat fem delmål i budgetpropositionen för 2025\. Det handlar om delmål för ekonomisk, språklig, demokratisk, social och kulturell integration samt ett delmål för utbildning. För att bättre kunna följa utvecklingen ska SCB också analysera vilka förändringar som behöver genomföras av den statistik som myndigheten utvecklar, framställer och sprider om integration.
+
+Statistiken om självförsörjning ska redovisas senast den 15 april på SCB:s webbsida.
