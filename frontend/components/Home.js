@@ -10,7 +10,7 @@ export default function Home() {
         const data = await response.json();
         setLatestData(data);
       } catch (error) {
-        setErrorMessage("Kunde inte ladda senaste data");
+        setLatestData(null);
       }
     };
     fetchLatestData();
@@ -75,11 +75,11 @@ export default function Home() {
   };
   return (
     <main>
-      <header id="converter" className="lg:p-8 grid grid-cols-1 md:grid-cols-2 gap-4 lg:px-40 md:h-100">
+      <header id="converter" className="lg:p-8 px-4 grid grid-cols-1 md:grid-cols-2 gap-4 lg:px-40 md:h-100">
         <div className="mx-auto md:mr-auto m-5">
           <div className="flex items-center">
-            <Image src="/logo.svg" alt="g0vse logo" className="mr-4 mt-4 mb-4" height={43.238} width={74.876} />
-            <h1 className="text-8xl font-bold dark:text-white text-black font-mono">
+            <Image src="/logo.svg" alt="g0vse logo" className="mr-4 mt-4 mb-1" height={96} width={96} />
+            <h1 className="text-7xl font-bold dark:text-white text-black font-mono">
               g0vse
             </h1>
           </div>
