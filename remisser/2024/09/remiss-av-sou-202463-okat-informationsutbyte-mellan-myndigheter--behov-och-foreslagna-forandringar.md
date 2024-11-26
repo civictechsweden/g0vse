@@ -4,4 +4,4 @@ HÃ¤r kan du ta del av till vilka instanser som regeringen har remitterat delbetÃ
 2024:63\).
 
 
-Remissvaren ska ha kommit in till Justitiedepartementet senast den 17 december 2024\.
+Remissvaren ska ha kommit in till Justitiedepartementet senast den 17 december 2024.
