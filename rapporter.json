@@ -1,5 +1,39 @@
 [
     {
+        "title": "AI-kommissionens Färdplan för Sverige",
+        "url": "/rapporter/2024/11/ai-kommissionens-fardplan-for-sverige/",
+        "published": "2024-11-26",
+        "updated": null,
+        "types": [
+            "1341"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Kommittédirektiv 2023:164 Förstärkt AI-förmåga i Sverige",
+                "url": "/rattsliga-dokument/kommittedirektiv/2023/12/dir.-2023164"
+            },
+            {
+                "name": "Pressmeddelande: AI-kommissionen överlämnar sina förslag till regeringen",
+                "url": "/pressmeddelanden/2024/11/ai-kommissionen-overlamnar-sina-forslag-till-regeringen/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "AI-kommissionens färdplan för Sverige (pdf 9 MB)",
+                "url": "/contentassets/11431c781ff746b3b7a49312fa4de624/ai-kommissionens-fardplan-for-sverige.pdf"
+            }
+        ],
+        "categories": [
+            "1341",
+            "1285",
+            "1238"
+        ]
+    },
+    {
         "title": "Riktlinjer för statsskuldens förvaltning 2025",
         "url": "/rapporter/2024/11/riktlinjer-for-statsskuldens-forvaltning-2025/",
         "published": "2024-11-07",
