@@ -76,7 +76,7 @@ export default function Home() {
   return (
     <main>
       <header id="converter" className="mx-auto max-w-5xl px-4 grid grid-cols-1 md:grid-cols-2 gap-4 lg:py-4 md:h-100">
-        <div className="mx-auto md:mr-auto m-5">
+        <div className="m-5">
           <div className="flex items-center">
             <Image src="/logo.svg" alt="g0vse logo" className="mr-4 mt-4 mb-1" height={96} width={96} />
             <h1 className="text-7xl font-bold dark:text-white text-black font-mono">
@@ -94,7 +94,7 @@ export default function Home() {
           </p>
         </div>
         <form
-          className="rounded-lg shadow-xl flex flex-col px-8 py-8 bg-white dark:bg-blue-500"
+          className="m-5 rounded-lg shadow-xl flex flex-col px-8 py-8 bg-white dark:bg-blue-500"
         >
           <h1 className="text-2xl font-bold dark:text-gray-50">
             Konvertera en länk
