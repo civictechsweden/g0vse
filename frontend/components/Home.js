@@ -75,7 +75,7 @@ export default function Home() {
   };
   return (
     <main>
-      <header id="converter" className="lg:p-8 px-4 grid grid-cols-1 md:grid-cols-2 gap-4 lg:px-40 md:h-100">
+      <header id="converter" className="mx-auto max-w-5xl px-4 grid grid-cols-1 md:grid-cols-2 gap-4 lg:py-4 md:h-100">
         <div className="mx-auto md:mr-auto m-5">
           <div className="flex items-center">
             <Image src="/logo.svg" alt="g0vse logo" className="mr-4 mt-4 mb-1" height={96} width={96} />
