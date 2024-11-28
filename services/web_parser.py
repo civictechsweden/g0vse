@@ -86,7 +86,7 @@ def extract_text(soup):
         return None
 
     col_1 = soup.select_one(".col-1")
-    title = col_1.select_one("h1").find(text=True).strip()
+    title = soup.select_one("h1").find(text=True).strip()
 
     if not col_1:
         return None
