@@ -1,0 +1,7 @@
+# Nu blir det lättare att veta var maten kommer från
+
+– Det ska vara lätt att veta vart köttbiten på tallriken kommer ifrån. Många konsumenter vill göra medvetna val om maten de äter och då är god information en förutsättning. Nu kommer konsumenter få veta var kött som serveras på restauranger kommer ifrån. Det är bra för djurvälfärden och Sveriges självförsörjningsförmåga, säger landsbygdsminister Peter Kullgren.
+
+Livsmedelsverkets föreskrifter omfattar de köttslag där det i EU-lagstiftningen redan ställs krav på ursprungsmärkning för färdigförpackat obearbetat kött, det vill säga nöt, svin, får, get och fågel. Föreskrifterna ställer krav på att information om ursprungsland ska lämnas för färskt, kylt, fryst och malet kött från nämnda köttslag som används som ingrediens i måltider som serveras på restauranger eller i andra storhushåll. Informationen om ursprungsland får ges till konsumenten skriftligt eller muntligt. Om den ges muntligt ska det tydligt framgå hur konsumenten kan få tillgång till informationen, till exempel via en skylt vid kassan.
+
+För att ge berörda aktörer tid och möjlighet att ta fram rutiner och säkerställa att de nya reglerna kan följas kommer föreskrifterna att träda i kraft 1 mars 2025 och gälla till och med utgången av 2026. Livsmedelsverket har tidsbegränsat föreskrifterna för att kunna utvärdera bestämmelserna och följa utvecklingen av lagstiftningen på EU-nivå.
