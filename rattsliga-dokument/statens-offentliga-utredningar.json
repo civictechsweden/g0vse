@@ -1,5 +1,95 @@
 [
     {
+        "title": "Handlingsoffentlighet och handlingar som inhämtas genom straffprocessuella tvångsmedel, SOU 2024:79",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2024/12/sou-202479/",
+        "published": "2024-12-03",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1287"
+        ],
+        "summary": "Utredningen har haft i uppdrag att analysera och ta ställning till om det bör införas ett undantag från allmänna handlingars offentlighet i tryckfrihetsförordningen för handlingar som tagits i beslag eller inhämtats genom andra straffprocessuella tvångsmedel och som kan ge tillgång till information i stor utsträckning samt kopior av sådana handlingar.",
+        "id": "SOU 2024:79",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Handlingsoffentlighet och handlingar som inhämtas genom straffprocessuella tvångsmedel, SOU 2024:79 (pdf 1 MB)",
+                "url": "/contentassets/bb86402ba46f4f37becbf8ee646691dc/handlingsoffentlighet-och-handlingar-som-inhamtas-genom-straffprocessuella-tvangsmedel-sou-202479.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1287",
+            "1263"
+        ]
+    },
+    {
+        "title": "Ämneskunskaper och lärarskicklighet, SOU 2024:81",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2024/12/sou-202481/",
+        "published": "2024-12-03",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1294"
+        ],
+        "summary": "– en reformerad lärarutbildning",
+        "id": "SOU 2024:81",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Ämneskunskaper och lärarskicklighet - en reformerad lärarutbildning, SOU 2024:81 (pdf 2 MB)",
+                "url": "/contentassets/a1902cd0a0b94cee96972507f4a6c000/amneskunskaper-och-lararskicklighet---en-reformerad-lararutbildning-sou-202481.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1294",
+            "1276",
+            "1277"
+        ]
+    },
+    {
+        "title": "Ett språkkrav för språkutveckling, SOU 2024:78",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2024/12/sou-202478/",
+        "published": "2024-12-03",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1292"
+        ],
+        "summary": "Utredningen om språkkrav för personal i äldreomsorgen har utrett och föreslagit ett språkkrav för personalen i äldreomsorgen.",
+        "id": "SOU 2024:78",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Anna Tenje tog emot språkkravsutredningen – med förslag för att stärka tryggheten i äldreomsorgen",
+                "url": "/pressmeddelanden/2024/12/anna-tenje-tog-emot-sprakkravsutredningen--med-forslag-for-att-starka-tryggheten-i-aldreomsorgen/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Ett språkkrav för språkutveckling, SOU 2024:78 (pdf 1 MB)",
+                "url": "/contentassets/47b986e6e5f043859928a64d64cf98fc/sou-2024_78_.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1292",
+            "2656"
+        ]
+    },
+    {
         "title": "Ett modernt och anpassat regelverk för krigsmateriel, SOU 2024:77",
         "url": "/rattsliga-dokument/statens-offentliga-utredningar/2024/12/ett-modernt-och-anpassat-regelverk-for-krigsmateriel/",
         "published": "2024-12-02",
