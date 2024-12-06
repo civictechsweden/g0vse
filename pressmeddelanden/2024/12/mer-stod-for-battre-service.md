@@ -1,0 +1,7 @@
+# Mer stöd för bättre service
+
+− Regeringen arbetar målmedvetet för att förbättra förutsättningarna för dem som bor och verkar såväl i tätorter som i landsbygderna. Det ska vara möjligt att bo, verka och leva i hela landet. Regeringen höjer därför maxbeloppet för driftstöd och utvidgar investeringsstödet, säger landsbygdsminister Peter Kullgren.
+
+En viktig del i arbetet med att stärka landsbygden är att ytterligare stödja de små dagligvarubutikerna och drivmedelsstationerna i serviceglesa landsbygder. Särskilt eftersom dagligvarubutiker och drivmedelsstationer i landsbygder ofta erbjuder flera andra tjänster, som exempelvis posttjänster samt apoteks- och systembolagsombud, är varje serviceställe viktigt ur flera olika aspekter.
+
+Stöd som kan lämnas enligt den nya förordningen är hemsändningsbidrag, investeringsstöd (tidigare investeringsbidrag) servicebidrag och särskilt driftstöd. Hemsändningsbidraget är oförändrat. Det tidigare investeringsbidraget ersätts av ett investeringsstöd som även kan komma att lämnas till fastighetsägare som hyr ut lokaler till företag som säljer dagligvaror eller drivmedel i landsbygder. En annan skillnad är att andelen kostnader som täcks av investeringsstöd höjs när det gäller sådant stöd för kompetenshöjande insatser. Andelen höjs från upp till 50 procent till upp till 85 procent av kostnaderna. Högsta möjliga nivån för servicebidrag höjs från 300 000 kronor till 350 000 kronor. På samma sätt höjs högsta möjliga nivån för särskilt driftstöd från högst 300 000 kronor till högst 350 000 kronor.
