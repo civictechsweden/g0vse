@@ -1,0 +1,5 @@
+# 14 miljoner kronor i humanitärt stöd till Internationella Rödakorskommitténs arbete i Syrien
+
+– Den humanitära situationen i Syrien är mycket svår och har varit det under lång tid. Mot bakgrund av den humanitära situationen i landet tilldelar regeringen i dag ytterligare 14 miljoner kronor till ICRC:s arbete i Syrien. Stödet går bland annat till ICRC:s arbete med människor som nu blivit frisläppta från fängelser och som vill återförenas med sina familjer. Tilldelningen till ICRC:s arbete i Syrien går dessutom till att bland annat förbättra tillgången till 39 hälsokliniker i Syrien, samt till livsmedel och till att ge människor tak över huvudet, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
+
+Utöver betydande kärnstöd till humanitära aktörer verksamma i Syrien – såsom FN:s livsmedelsprogram (WFP), FN:s flyktingorgan (UNHCR) och ICRC – har Sverige hittills under 2024 bidragit med 218 miljoner kronor i humanitärt stöd för att lindra nöd och lidande hos den syriska civilbefolkningen.
