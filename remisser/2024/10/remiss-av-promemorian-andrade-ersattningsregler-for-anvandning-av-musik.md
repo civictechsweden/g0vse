@@ -1,4 +1,4 @@
-# Ändrade ersättningsregler för användning av musik
+# Remiss av promemorian Ändrade ersättningsregler för användning av musik
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Ändrade ersättningsregler för användning av musik.
 
