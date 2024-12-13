@@ -1,0 +1,9 @@
+# Nytt svenskt stöd till tryggad livsmedelsförsörjning och fattigdomsbekämpning på landsbygden
+
+Den ökade hungern i världen ställer krav på en förbättrad global livsmedelsförsörjning och stärkt fattigdomsbekämpning. IFAD:s insatser bidrar till ökad produktionskapacitet och stärkt möjlighet till livsuppehälle på landsbygden, underlättar för människor i fattigdom att nå marknader med sina produkter och stärker landsbygdens miljömässiga hållbarhet och motståndskraft mot klimatförändringar. Under 2025–2027 kommer IFAD inom sin verksamhet bland annat att prioritera åtgärder för klimatanpassning och stärkt biologisk mångfald samt att främja privata sektorns bidrag till utvecklingsresultat genom mobilisering av privata investeringar.
+
+– Människor på landsbygden påverkas hårt av hunger och klimatförändringar och står samtidigt för en stor andel av världens livsmedelsproduktion. Regeringen fortsätter vara en stark partner till IFAD som på ett effektivt sätt bidrar till människors självförsörjning, hållbart jordbruk och landsbygdsutveckling i utvecklingsländer. Regeringen välkomnar särskilt att Ukraina nyligen blivit medlem i IFAD. Det innebär att IFAD kommer att kunna bidra till att stärka den ukrainska jordbrukssektorn, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
+
+Det stöd IFAD kan ge till småskaligt jordbruk på den ukrainska landsbygden spelar en viktig roll för tryggad livsmedelsförsörjning och lokal ekonomi i Ukraina, och i förlängningen för att lindra den livsmedelskris som eskalerat på grund av Rysslands fullskaliga invasion av Ukraina.
+
+IFAD har verksamhet över hela världen, oftast i utsatta områden där andra utvecklingsaktörer inte är närvarande. Verksamheten bidrar till Sveriges utvecklingspolitiska prioriteringar som bland annat inbegriper att skapa bättre levnadsvillkor för människor som lever i fattigdom och förtryck, samtidigt som miljö och klimat värnas.
