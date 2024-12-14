@@ -1,5 +1,24 @@
 [
     {
+        "title": "Moçambique - avrådan",
+        "url": "/ud-avrader/mocambique---avradan/",
+        "published": "2024-12-13",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget avråder UD från icke nödvändiga resor till hela Moçambique.\n\nAvrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1133",
+            "1295"
+        ]
+    },
+    {
         "title": "Bangladesh - avrådan",
         "url": "/ud-avrader/bangladesh---avradan/",
         "published": "2024-10-29",
@@ -737,25 +756,6 @@
         "categories": [
             "2204",
             "1174",
-            "1295"
-        ]
-    },
-    {
-        "title": "Moçambique - avrådan",
-        "url": "/ud-avrader/mocambique---avradan/",
-        "published": "2018-06-19",
-        "updated": "2019-03-21",
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från icke nödvändiga resor till provinsen Cabo Delgado i norra Moçambique. \n\nAvrådan ändrades senast den 19 juni 2019. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1133",
             "1295"
         ]
     },
