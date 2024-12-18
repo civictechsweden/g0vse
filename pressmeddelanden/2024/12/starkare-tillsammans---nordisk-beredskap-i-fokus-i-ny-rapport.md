@@ -1,0 +1,7 @@
+# Starkare tillsammans - Nordisk beredskap i fokus i ny rapport
+
+– Tillsammans blir vi starkare och tryggare. Genom regionalpolitiskt samarbete stärks regionernas och landsbygdernas konkurrenskraft. Det främjar i sin tur trygga och goda levnadsvillkor i hela Norden, både i vardag och krissituationer. Ett nära nordiskt samarbete är därför avgörande för våra länders gemensamma välstånd, motståndskraft och anpassningsförmåga, säger landsbygdsminister Peter Kullgren.
+
+Sverige har tillsammans med det tidigare ordförandelandet Island initierat projektet som analyserat hur regional utveckling och planering kan bidra till att säkra utveckling, närvaro och beredskap i Nordens regioner, gles- och landsbygder. Projektet har nu avslutats och resulterat i rapporten ”Stabil civil beredskap i Norden”. Studien visar bland annat att de intervjuade regionerna ser behovet och nyttan av strategiskt arbete med civil beredskap inom ramen för regional politik, förutsatt att det finns tydliga direktiv från statens sida och tilldelade resurser.
+
+– Vi har studerat om och hur regionalpolitiken i Norden inkluderar civil beredskap. Fokus har bland annat varit krisberedskap, livsmedelsförsörjning och tillgång till offentlig service. Jag hoppas att studien kan bidra till lärdomar mellan de nordiska länderna om hur de upprätthåller robusta samhällen, säger Elin Slätmo, projektledare och seniorforskare vid Nordregio som är ett samnordiskt institut och internationellt forskningscentrum för regional utveckling och planering.
