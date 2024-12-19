@@ -1,0 +1,15 @@
+# EU:s miljöråd antog ny förordning som ska minska plastföroreningar på land och i havet
+
+Vid miljörådet i Bryssel den 17 december antog EU:s miljöministrar en gemensam ståndpunkt om en förordning som ska minska plastföroreningarna. Dessutom diskuterade rådet kommissionens meddelande om EU:s klimatmål för 2040, samt förslag för att öka hållbarheten inom fordonssektorn. Sverige lyfte att förbud mot de mest skadliga ämnena i vardagliga produkter bör prioriteras i revideringen av kemikalieförordningen REACH.
+
+Rådet antog en så kallad allmän riktlinje om en förordning som syftar till att förebygga spill till miljön av plastpellets som används för att tillverka plastprodukter. Sverige röstade ja till förslaget och har under förhandlingarna verkat för ett förslag med hög ambition. Spill av plastpellets är en av de största källorna till oavsiktliga utsläpp av mikroplast till miljön. De nya reglerna kommer att bidra till att förbättra hanteringen av plastpellets i alla led i leveranskedjan och skulle kunna minska plastspillet i miljön med upp till 74 %. Förslaget innebär lika villkor för transportörer från EU och länder utanför EU, samt inför skyldigheter för fartyg som transporterar plastpellets.
+
+Sverige tog, med stöd av Danmark, Finland och Luxemburg, upp några nyckelfrågor i den kommande revideringen av EU:s kemikalieförordning REACH. Länderna föreslår bland annat att förbud mot de mest skadliga ämnena i konsumentprodukter bör vara en prioriterad åtgärd i revideringen. Sverige har varit pådrivande i arbetet med att revidera REACH så att förekomsten av skadliga ämnen i produkter kan minimeras.
+
+Miljöministrarna diskuterade kommissionens meddelande om EU:s klimatmål för 2040 från den 6 februari 2024. Där rekommenderar kommissionen att EU ska anta ett mål om att minska nettoutsläppen av växthusgaser med 90 % till 2040, jämfört med 1990. På mötet framförde Sverige sitt stöd för den rekommenderade målnivån, liksom de förutsättningar som detta stöd baseras på. Flera ministrar framförde behovet av stabila och förutsägbara reglerings- och investeringsramar för att bidra till en konkurrenskraftig klimatomställning.
+
+Ministrarna höll också en riktlinjedebatt om förslaget till en ny förordning som ska öka hållbarheten och cirkulariteten inom fordonssektorn, från design av nya fordon till hanteringen av uttjänta fordon. Diskussionerna visade att viktiga framsteg har gjorts på flera områden, bland annat vad regelverket ska omfatta, skyldigheter för producenter och myndigheter, samt översyn av relaterad lagstiftning. Ministrarna diskuterade också en miniminivå för återvunnen plast, liksom ett möjligt mål för andel återvunnet innehåll av stål i nya fordon. De var överens om att fler studier behöver göras innan ett sådant mål kan fastställas.
+
+Det ungerska ordförandeskapet informerade tillsammans med kommissionen om resultaten från höstens internationella möten, det vill säga COP29 om klimatförändringar, COP16 om biologisk mångfald, det femte förhandlingsmötet om ett globalt avtal mot platsföroreningar och COP16 om att bekämpa ökenspridning.
+
+Slutligen informerade ministerrådets kommande ordförande Polen om sitt program.
