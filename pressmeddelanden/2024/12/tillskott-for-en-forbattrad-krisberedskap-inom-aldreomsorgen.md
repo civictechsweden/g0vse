@@ -1,0 +1,9 @@
+# Tillskott för en förbättrad krisberedskap inom äldreomsorgen
+
+– Bristande krisberedskap i kommunerna påverkar äldres trygghet och säkerhet samt tillgång till god vård och omsorg. Därför skjuter regeringen till ytterligare medel för att kommunerna ska kunna vidta åtgärder för att kriser och olyckor – stora som små – inte ska drabba äldre, säger äldre- och socialförsäkringsminister Anna Tenje.
+
+Kriser och olyckor uppstår ofrånkomligen och påverkar socialtjänsten, inte minst äldreomsorgen. Det finns exempel på strömavbrott och störningar i mobilnätet som fått stora konsekvenser för kommunernas möjlighet att genomföra hemtjänstinsatser och upprätthålla funktionaliteten i välfärdsteknik, såsom trygghetslarm. Krisberedskapen inom äldreomsorgen behöver stärkas. Idag saknar till exempel en majoritet av landets kommuner aktuella kontinuitetsplaner för både hemtjänst och särskilt boende.
+
+Regeringens beslut innebär att det befintliga statsbidraget till kommunerna för att säkerställa en god omsorg och hälso- och sjukvård för äldre personer, det s.k. sektorsbidraget till äldreomsorgen som omfattar 4 miljarder kronor, utökas med 100 miljoner kronor under 2025. Genom tillskottet vill regeringen möjliggöra för kommuner att vidta åtgärder för en förbättrad krisberedskap. Det kan till exempel handla om att upprätta kontinuitetsplaner, evakueringsplaner och beredskapsplaner.
+
+Sektorsbidraget kan användas av kommunerna inom äldreomsorgen för att säkerställa en god vård och omsorg om äldre personer. Med sektorsbidraget kan kommunerna utifrån sina olika förutsättningar och utmaningar styra hur medlen kan användas på bästa sätt. Att satsningen görs på sektorsbidraget är i linje med regeringens ambition att minska den administrativa bördan och förbättra kommunernas förutsättningar att ta del av statsbidragen inom äldreområdet och möjliggör för kommunerna att snabbare ta del av dessa medel och utveckla arbetet med krisberedskap.
