@@ -1,0 +1,7 @@
+# Regeringen satsar 356 miljoner på att stärka försörjningsförmågan av livsmedel och dricksvatten
+
+– Tillräcklig tillgång till livsmedel och dricksvatten är en grundförutsättning inte bara för människors liv och hälsa, utan också för att samhället ska fungera. Återuppbyggnaden av det civila försvaret behöver intensifieras och att stärka försörjningsförmågan av livsmedel och dricksvatten är av yttersta vikt. Nu går vi in i en ny fas med konkreta förmågehöjande åtgärder för att förbättra beredskapen, säger landsbygdsminister Peter Kullgren.
+
+I regleringsbreven till Livsmedelsverket, Jordbruksverket och Statens veterinärmedicinska anstalt kommer 356 miljoner kronor att tilldelas olika åtgärder för en stärkt livsmedelsberedskap.
+
+Av dessa kommer 150 miljoner att gå till investeringar och rådgivning för ökad robusthet inom primärproduktionen av livsmedel. Ytterligare 50 miljoner kommer att satsas på ett pilotprojekt med inriktningen att stärka robustheten för livsmedelsbutiker, 75 miljoner till satsningar på kommuner och regioner för förmågehöjande åtgärder inom offentlig måltidsverksamhet och 15 miljoner till ett pilotprojekt om förmågehöjande åtgärder för dricksvattenförsörjningen vid höjd beredskap. Som samordnande länsstyrelse kommer Länsstyrelsen Örebro få disponera 16 miljoner för kommunernas planering och arbete med dricksvattenförsörjning under höjd beredskap. Beredskapssektorn kommer även att tilldelas 50 miljoner för att inleda arbetet med att etablera omsättningslager för livsmedelssektorn.
