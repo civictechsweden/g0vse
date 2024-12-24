@@ -1,0 +1,7 @@
+# Skolverket får i uppdrag att följa upp Kunskapsbidraget
+
+Kunskapsbidraget är ett omfattande bidrag, som efter en ytterligare förstärkning på 700 miljoner kronor kommer att uppgå till drygt 8,2 miljarder kronor för 2025. Bidraget skapar bland annat förutsättningar för att sätta in fler tidiga stödinsatser, bilda fler särskilda undervisningsgrupper och anställa fler speciallärare. I stort sett alla kommunala och enskilda huvudmän för förskoleklass och grundskola får del av bidraget.
+
+– Kunskapsbidraget innebär ett rejält ekonomiskt tillskott till våra skolor som bidrar till att de elever som behöver extra stöd får det. Med det nya uppdraget till Skolverket förbättrar vi förutsättningarna för effektiva insatser som utgår ifrån vetenskaplig grund och beprövad erfarenhet, säger skolminister Lotta Edholm.
+
+Villkoren som styr Kunskapsbidraget ändrades tidigare i år. Förutom att förordningen fick ett nytt namn förtydligades syftet med bidraget. För att se till att förändringarna får önskvärda effekter ger regeringen nu Skolverket i uppdrag att analysera hur huvudmän använder och fördelar medel som de tilldelas inom ramen för bidraget, och förbättra informationen om bidraget. Informationen ska handla om hur bidraget kan användas för att stärka utbildningens kvalitet utifrån vetenskaplig grund och beprövad erfarenhet, så att alla elever kan nå så långt som möjligt i sin kunskapsutveckling. Uppdraget ska redovisas senast den 30 september 2025.

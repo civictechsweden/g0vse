@@ -1,0 +1,9 @@
+# Avveckling av statliga kasinon
+
+I denna proposition föreslår regeringen lagändringar som syftar till att ta bort spelformen spel på kasino från licenstypen statligt spel. Eftersom licens för statligt spel är den enda licensformen som omfattar spel på kasino innebär förslaget att ingen aktör kommer att kunna få licens för att tillhandahålla spel på kasino, det vill säga i en särskild lokal för kasinospel. Allt tillhandahållande av spel om pengar utan nödvändig licens är olagligt. Följden av förslaget är att det kasino som i dag drivs av bolaget Casino Cosmopol AB kommer att stängas ned.
+
+Regeringen föreslår också att Spelinspektionen, i egenskap av tillsynsmyndighet inom penningtvättsområdet över sådana verksamhetsutövare som driver spelverksamhet med licens eller registrering enligt spellagen (2018:1138), ska kunna meddela vissa föreskrifter. Det gäller föreskrifter som innebär att verksamhetsutövarna ska lämna uppgifter om sin verksamhet, sina kunder och andra förhållanden, antingen periodiskt eller på myndighetens begäran.
+
+De lagändringar som rör spel på kasino föreslås träda i kraft den 1 januari 2026. Lagändringen som rör den nya föreskriftsrätten föreslås träda i kraft den 1 juli 2025.
+
+I propositionen behandlas också det avtal mellan staten och ägarna till AB Trav och Galopp (ATG), som bland annat reglerar att bolagets överskott går till hästnäringen och att staten har viss kontroll över bolaget. Regeringen gör bedömningen att kontrollen över ATG kan överlämnas till dess ägare.
