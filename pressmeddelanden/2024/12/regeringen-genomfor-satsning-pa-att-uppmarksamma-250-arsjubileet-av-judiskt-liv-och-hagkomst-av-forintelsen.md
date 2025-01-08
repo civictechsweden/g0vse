@@ -26,7 +26,7 @@ Uppdragen att bidra till 250-årsjubileet ska redovisas till regeringen i mars 2
 
 I takt med att Förintelsens överlevande går ur tiden, ökar också behovet av att möjliggöra för nya generationer att föra vittnesmålen om Förintelsen vidare. Det är nu över 25 år sedan den första versionen av boken Om detta må ni berätta delades ut till elever i Sverige.
 
-Antisemitismen förändras över tid, tar sig nya uttryck och anpassas till nya omständigheter. Kunskapen om ett av de allra mörkaste uttrycken för antisemitism – Förintelsen – måste fortsätta vara aktuell, uppdaterad och ändamålsenlig. Regeringen ger nu därför Forum för levande historia i uppdrag att genomföra en bred kunskapshöjande insats för hågkomst av Förintelsen genom att utveckla budskapet i boken ”…om detta må ni berätta…En bok om Förintelsen 1940–1945”.
+Antisemitismen förändras över tid, tar sig nya uttryck och anpassas till nya omständigheter. Kunskapen om ett av de allra mörkaste uttrycken för antisemitism – Förintelsen – måste fortsätta vara aktuell, uppdaterad och ändamålsenlig. Regeringen ger nu därför Forum för levande historia i uppdrag att genomföra en bred kunskapshöjande insats för hågkomst av Förintelsen genom att utveckla budskapet i boken ”…om detta må ni berätta…En bok om Förintelsen 1933–1945”.
 
 I uppdraget ingår att Forum för levande historia ska arbeta kunskapshöjande i olika kanaler, samt utveckla och sprida olika typer av informationsmaterial. Materialet ska riktas till elever, deltagare i folkbildningen samt personal i skolväsendet, folkbildningen och offentlig sektor. Materialet ska även riktas till allmänheten. I uppdraget ingår också att tillhandahålla och utveckla utbildningar som riktar sig till dessa målgrupper.
 

@@ -1,0 +1,7 @@
+# Regeringen välkomnar Riksrevisionens granskning om socialförsäkringen vid utländska inkomster
+
+I september 2024 publicerade Riksrevisionen sin granskningsrapport Socialförsäkringen vid utländska inkomster – stor risk för felaktiga utbetalningar (RiR 2024:16). Riksrevisionens samlade bedömning är att statens insatser för att motverka felaktiga utbetalningar från socialförsäkringen till personer med utländska inkomster inte är tillräckligt effektiva. I rapporten lämnar Riksrevisionen ett antal rekommendationer till regeringen, Försäkringskassan, Pensionsmyndigheten och Skatteverket. Regeringen instämmer i huvudsak i Riksrevisionens iakttagelser.
+
+– För att upprätthålla legitimiteten för välfärdssystemen måste vi stoppa de felaktiga utbetalningarna och bidragsbrotten. Regeringen välkomnar granskningen och har redan gett i uppdrag till Försäkringskassan, Pensionsmyndigheten och Skatteverket att stärka samverkan och kontroll av utländska inkomster i syfte att motverka felaktiga utbetalningar och öka återbetalningen. Vi måste skydda skattebetalarnas pengar och värna våra gemensamma välfärdssystem, säger äldre- och socialförsäkringsminister Anna Tenje.
+
+I skrivelsen redogör regeringen för de åtgärder som vidtagits för att stärka myndigheternas kontrollarbete och öka möjligheterna att utbyta information. Ett viktigt initiativ är lagen (2024:307) om uppgiftsskyldighet för att motverka felaktiga utbetalningar från välfärdssystemen samt regelöverträdelser och brottslighet i arbetslivet, som trädde i kraft den 1 juli 2024.
