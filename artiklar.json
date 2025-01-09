@@ -1,5 +1,88 @@
 [
     {
+        "title": "Ett år med regeringens strategi mot våldsbejakande extremism och terrorism",
+        "url": "/artiklar/2025/01/ett-ar-med-regeringens-strategi-mot-valdsbejakande-extremism-och-terrorism/",
+        "published": "2025-01-08",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Det har nu gått ett år sedan regeringen beslutade om en ny samlad strategi mot våldsbejakande extremism och terrorism. Under året har flera åtgärder vidtagits för att strategin ska få effekt.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Mer om samverkansrådet mot terrorism, på Säkerhetspolisens webbplats",
+                "url": "https://www.sakerhetspolisen.se/verksamheten/kontraterrorism/samverkansradet.html"
+            },
+            {
+                "name": "Samverkan för ökad motståndskraft, Säkerhetspolisens webbplats",
+                "url": "https://www.sakerhetspolisen.se/om-sakerhetspolisen/publikationer/sakerhetspolisens-lagesbild/sakerhetspolisen-2023-2024/allvarligt-lage/samverkan-for-okad-motstandskraft.html"
+            },
+            {
+                "name": "Metodstöd, CVE:s webbplats",
+                "url": "https://cve.se/operativtstod/metodstod.4.37a4efb183f8f190901579.html"
+            },
+            {
+                "name": "Operativt stöd, CVE:s webbplats",
+                "url": "https://cve.se/operativtstod.4.2f4ed3a21806a388a2fd99.html"
+            },
+            {
+                "name": "Inbyggd säkerhet: skydd av offentliga miljöer, vägledning, MSB:s webbplats",
+                "url": "https://www.msb.se/sv/publikationer/inbyggd-sakerhet--skydd-av-offentliga-miljoer-vagledning/"
+            },
+            {
+                "name": "Förebygga skolattentat, MSB:s webbplats",
+                "url": "https://www.msb.se/sv/amnesomraden/krisberedskap--civilt-forsvar/oka-skyddet-mot-terrorism-i-offentliga-miljoer/forebygga-skolattentat/"
+            },
+            {
+                "name": "Skydd och säkerhet i kollektivtrafiken, MSB:s webbplats",
+                "url": "https://www.msb.se/sv/amnesomraden/krisberedskap--civilt-forsvar/oka-skyddet-mot-terrorism-i-offentliga-miljoer/skydd-och-sakerhet-i-kollektivtrafiken/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Regeringsuppdrag: Uppdrag att vidta åtgärder för att införliva den nya strategin mot våldsbejakande extremism och terrorism i myndigheternas verksamheter ",
+                "url": "/contentassets/af5444cf83854d958623ac28283a626e/uppdrag-att-vidta-atgarder-for-att-inforliva-den-nya-strategin-mot-valdsbejakande-extremism-och-terrorism-i-myndigheternas-verksamheter.pdf"
+            },
+            {
+                "name": "Regeringsuppdrag: Uppdrag att utveckla och intensifiera arbetet mot terrorism för att stärka Sveriges säkerhet",
+                "url": "/contentassets/beccb8350d2f4ddfabf823218269e329/uppdrag-att-utveckla-och-intensifiera-arbetet-mot-terrorism-for-att-starka-sveriges-sakerhet.pdf"
+            }
+        ],
+        "categories": [
+            "2097",
+            "2615",
+            "1287",
+            "1264",
+            "2709",
+            "2675"
+        ]
+    },
+    {
+        "title": "Pensionsgruppen",
+        "url": "/artiklar/2025/01/pensionsgruppen/",
+        "published": "2025-01-08",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "1292"
+        ],
+        "summary": "Pensionsgruppen är en blocköverskridande arbetsgrupp som består av företrädare för de partier som står bakom pensionsöverenskommelsen (sedan 2023 samtliga åtta riksdagspartier). Äldre- och socialförsäkringsminister Anna Tenje är ordförande.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2097",
+            "1292"
+        ]
+    },
+    {
         "title": "Life science i forsknings- och innovationspropositionen ",
         "url": "/artiklar/2025/01/life-science-i-forsknings--och-innovationspropositionen/",
         "published": "2025-01-07",
