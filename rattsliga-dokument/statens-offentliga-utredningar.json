@@ -1,5 +1,156 @@
 [
     {
+        "title": "Modernt dataskydd vid CSN, SOU 2024:95",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/01/sou-202495/",
+        "published": "2025-01-15",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1294"
+        ],
+        "summary": "Utredningen har haft i uppdrag att göra en översyn av Centrala studiestödsnämndens (CSN) registerförfattningar; studiestödsdatalagen (2009:287) med tillhörande studiestödsdataförordning (2009:321).",
+        "id": "SOU 2024:95",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Utredning föreslår ökade möjligheter för CSN att behandla personuppgifter vid informationsutbyte med andra myndigheter",
+                "url": "/pressmeddelanden/2025/01/utredning-foreslar-okade-mojligheter-for-csn-att-behandla-personuppgifter-vid-informationsutbyte-med-andra-myndigheter/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Modernt dataskydd vid CSN, SOU 2024:95 (pdf 3 MB)",
+                "url": "/contentassets/b61a93df8a3544d4bfc8875813d617d1/modernt-dataskydd-vid-csn-sou-202495.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1294",
+            "2461"
+        ]
+    },
+    {
+        "title": "Ny kärnkraft i Sverige, SOU 2025:7",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/01/sou-20257/",
+        "published": "2025-01-15",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1291"
+        ],
+        "summary": "– effektivare tillståndsprövning och ändamålsenliga avgifter",
+        "id": "SOU 2025:7",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Ny kärnkraft i Sverige – effektivare tillståndsprövning och ändamålsenliga avgifter, SOU 2025:7 (pdf 3 MB)",
+                "url": "/contentassets/fd2ab0770049418bb47634c950e11064/ny-karnkraft-i-sverige--effektivare-tillstandsprovning-och-andamalsenliga-avgifter-sou-20257.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1291",
+            "1226",
+            "1252"
+        ]
+    },
+    {
+        "title": "Moderna och enklare skatteregler för arbetslivet, SOU 2025:4",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/01/sou-20254/",
+        "published": "2025-01-15",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "Betänkande av Utredningen om moderniserade skatteregler för ett flexibelt arbetsliv",
+        "id": "SOU 2025:4",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "SOU 2025:4 Moderna och enklare skatteregler för arbetslivet (pdf 1 MB)",
+                "url": "/contentassets/8070e10e9cad4b77b9503663fe2c2480/sou-20254-moderna-och-enklare-skatteregler-for-arbetslivet.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1285",
+            "1213",
+            "1267"
+        ]
+    },
+    {
+        "title": "Skatteincitament för forskning och utveckling, SOU 2025:3",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/01/sou-20253/",
+        "published": "2025-01-15",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "En översyn av FoU-avdraget och expertskattereglerna",
+        "id": "SOU 2025:3",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Skatteincitament för forskning och utveckling, SOU 2025:3 (pdf 2 MB)",
+                "url": "/contentassets/685121cb1d764dacb514a5d7c3e2ead3/skatteincitament-for-forskning-och-utveckling-sou-20253.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1285",
+            "1267"
+        ]
+    },
+    {
+        "title": "Några frågor om grundläggande fri- och rättigheter, SOU 2025:2",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/01/sou-20252/",
+        "published": "2025-01-15",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1287"
+        ],
+        "summary": "Betänkande av 2023 års fri- och rättighetskommitté.",
+        "id": "SOU 2025:2",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Några frågor om grundläggande fri- och rättigheter, SOU 2025:2 (pdf 2 MB)",
+                "url": "/contentassets/5bac301322db4e3b992b2d8d649a48b5/nagra-fragor-om-grundlaggande-fri--och-rattigheter-sou-20252.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1287",
+            "1219",
+            "1224",
+            "1249",
+            "1257",
+            "1263"
+        ]
+    },
+    {
         "title": "Skärpta krav för svenskt medborgarskap, SOU 2025:1",
         "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/01/sou-20251/",
         "published": "2025-01-14",
