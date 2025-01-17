@@ -1,0 +1,7 @@
+# Uppdrag att följa upp och analysera regeringens strategiska arbete inom barnets rättigheter
+
+– Alla barn har rätt till en trygg och säker uppväxt. Arbetet med barnkonventionens genomförande är centralt för att garantera detta. Det finns däremot mycket kvar att göra, hos många aktörer. Därför ger vi nu det här uppdraget till Statskontoret, för att ta vara på de lärdomar som finns och framöver utveckla arbetet för att synliggöra barnets rättigheter och skapa förutsättningar för ett barnrättsbaserat synsätt i all offentlig verksamhet, säger socialtjänstminister Camilla Waltersson Grönvall.
+
+Uppdraget till Statskontoret syftar till att ge regeringen underlag till fortsatt och mer effektiv styrning av barnrättspolitiken. Uppdraget fokuserar på det arbete som har genomförts med anledning av den nationella strategin om att stärka barnets rättigheter i Sverige (prop. 2009/10:232). Strategin togs fram för att vara en utgångspunkt för samhällsaktörer i arbetet med att säkerställa barnets rättigheter i enlighet med barnkonventionen.
+
+Sedan strategin beslutades har regeringen vidtagit ett flertal åtgärder för att säkerställa en tydlig och samordnad styrning av genomförandet av barnkonventionen – men betydande utmaningar kvarstår. 2024 lämnade Riksrevisionen ett antal rekommendationer som utgör värdefulla bidrag i arbetet för att Sverige ska uppfylla det åtagande som ratificeringen av barnkonventionen innebär (skr. 2024/25:9). Uppdraget till Statskontoret utgör ett ytterligare steg för en fortsatt och mer effektiv styrning av barnrättspolitiken.
