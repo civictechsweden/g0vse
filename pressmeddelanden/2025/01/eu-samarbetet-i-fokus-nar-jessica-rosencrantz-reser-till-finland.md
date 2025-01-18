@@ -1,0 +1,5 @@
+# EU-samarbetet i fokus när Jessica Rosencrantz reser till Finland
+
+– Sverige och Finland följde varandra in i EU och vi är varandras närmaste samarbetspartners. Tillsammans med våra nordisk-baltiska allierade driver vi på för ett starkt och ihållande stöd till Ukraina. Vi har också tagit initiativ till att EU ska öka kraven på att EU:s medlemsländer lever upp till rättsstatens principer och arbetar för en grön omställning där hållbart skogsbruk spelar en central roll. Jag ser fram emot ett fortsatt starkt samarbete för ett rikare, starkare och friare Europa, säger EU-minister Jessica Rosencrantz.
+
+Resan inleds med ett verksamhetsbesök på Solar Foods, ett finskt livsmedelsteknikföretag som bland annat skapar proteiner av koldioxid och elektricitet. Därefter träffar EU-ministern sin finske motsvarighet för en arbetslunch. Tillsammans avslutar statsråden dagen med att uppmärksamma ländernas 30-åriga EU-medlemskap med ett jubileumsseminarium på Hanaholmen, en mötesplats mellan Sverige och Finland. På seminariet deltar också skolelever som får chansen att ställa frågor till de båda ministrarna.
