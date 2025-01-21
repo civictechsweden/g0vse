@@ -1,0 +1,13 @@
+# Integrationsbarometern ska mäta skillnader mellan inrikes och utrikes födda
+
+Regeringens inriktning är att integrationspolitiken ska vara mer kravbaserad. En del av arbetet har varit att införa ett nytt integrationspolitiskt mål med fem delmål som fastslår att integrationspolitiken ska bidra till ekonomisk, språklig, demokratisk respektive social och kulturell integration samt att genom utbildning förbättra förutsättningarna för flickor och pojkar med utländsk bakgrund. En aspekt som är viktig för att stärka integrationspolitiken är därför att identifiera vilka skillnader som finns mellan utrikes och inrikes födda.
+
+– Integrationsbarometern är ett viktigt verktyg för att identifiera skillnader i behov, värderingar och förutsättningar i den utrikes födda befolkningen jämfört med personer födda i Sverige. Detta ger bättre förutsättningar för att utforma mer träffsäkra integrationsåtgärder. Att mäta är att veta. Genom Integrationsbarometern fortsätter vi att utforma en integrationspolitik som bygger på fakta, och inte på magkänsla. På det sättet kan vi också minska risken för fördomar om målgruppen, säger arbetsmarknads- och integrationsminister Mats Persson.
+
+– Idag ser vi stora skillnader mellan inrikes- och utrikesfödda vad gäller till exempel sysselsättning och skolresultat. En tidigare kravlös integrationspolitik i kombination med en omfattande invandring är orsaken till flera av de samhällsproblem som vi nu hanterar. Vi lägger nu om hela migrations- och integrationspolitiken genom en minskad asylinvandring och krav för att fler ska bli en del av samhället. Uppdraget till SCB innebär att regeringen också kan följa upp effekten av omläggningen, säger migrationsminister Johan Forssell.
+
+– Under hela Sveriges moderna historia har det integrationspolitiska haveriet sopats under mattan. För första gången har vi nu ett regeringssamarbete som lägger korten på bordet vad gäller frågan om hur invandrare anpassar sig i Sverige, säger Ludvig Aspling, migrationspolitisk talesperson för Sverigedemokraterna.
+
+Utvecklingen av integrationen kan i hög grad följas med registerdata, men för att kunna få en samlad bild av utvecklingen av integrationen för de aspekter som inte kan mätas med registerdata finns det behov av att använda kompletterande datainsamlingsmetoder. Det gäller inte minst delmålen om demokratisk respektive social och kulturell integration. Regeringen ger därför Statistiska Centralbyrån i uppdrag att genomföra en förstudie som ska identifiera lämpliga metoder för att följa skillnader mellan den utrikes födda befolkningen och personer födda i Sverige.
+
+Uppdraget ska redovisas senast den 15 juni 2025.
