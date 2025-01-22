@@ -1,0 +1,3 @@
+# Skolministern diskuterar inkluderande utbildning med EU:s utbildningsministrar
+
+Rådet för utbildning, ungdom, kultur och idrott (EYCS/UUKI) består av EU-ländernas ministrar med ansvar för utbildnings-, kultur-, ungdoms-, medie-, kommunikations- och idrottsfrågor. Den 1 januari tog Polen över ordförandeskapet i EU. Ordförandelandet bjuder nu in utbildningsministrarna till ett informellt ministerrådsmöte i Warszawa den 21–22 januari. Detta är ett tillfälle för de deltagande länderna att utbyta erfarenheter och bästa praxis. Temat för mötet är hur vi bygger ett rättvist, motståndskraftigt och sammanhållet Europa genom en inkluderande utbildning. Från Sverige deltar skolminister Lotta Edholm, som är med under den första dagen.
