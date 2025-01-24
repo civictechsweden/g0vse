@@ -1,0 +1,7 @@
+# Delredovisning av uppdrag om jaktlagstiftningen tidigareläggs
+
+– Det är positivt att flera av de viktigaste frågorna prioriteras i ett delbetänkande som kan beredas och beslutas snabbare. Inte minst är det viktigt att underlätta reglerna för skyddsjakt i den mån det är möjligt. Även behovet av åtgärder för att förebygga jaktsabotage, är ett ämne som blev aktuellt så sent som i samband med licensjakten av varg, säger landsbygdsminister Peter Kullgren.
+
+I början av 2024 beslutade regeringen att tillsätta en utredning om en moderniserad jaktlagstiftning. Syftet med utredningen är att kunna skapa en modern lagstiftning för långsiktigt hållbar jakt och viltvård som är enkel att tillämpa.
+
+Nu förlängs utredningstiden så att uppdraget ska redovisas senast den 31 december 2025. Ett delbetänkande ska dock lämnas redan i vår, senast den 7 april 2025. Delbetänkandet ska bland annat innehålla uppdragen om att utredaren ska förbättra genomförandet av EU-rättsliga regler på jaktområdet och säkerställa att det inte avser andra arter än de som omfattas av EU-reglerna. Utöver det ingår att samla in underlag om jaktsabotage och överväga om befintlig lagstiftning är tillräcklig, analysera hur en flerartsförvaltning (till exempel flera slag av klövvilt inom ett område) kan finansieras samt analysera om det behövs ytterligare författningsstöd för en försöksverksamhet med flerartsförvaltning av klövvilt.

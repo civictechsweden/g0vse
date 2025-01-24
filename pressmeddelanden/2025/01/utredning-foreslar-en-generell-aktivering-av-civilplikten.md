@@ -1,0 +1,7 @@
+# Utredning föreslår en generell aktivering av civilplikten
+
+– Vid höjd beredskap eller krig behöver samhället snabbt ställas om och resurser mobiliseras. En grundläggande förutsättning för detta är att säkerställa den personal som behövs inom samhällsviktiga verksamheter. Utredningen har därför haft i uppdrag att se över behoven av personalförstärkningar inom det civila försvaret och lämna förslag om hur personalbehoven inom det civila försvaret kan tryggas, säger ministern för civilt försvar Carl-Oskar Bohlin.
+
+Enligt utredningen står det klart att det behövs civilplikt med mönstring och grundutbildning. Först och främst behövs detta inom räddningstjänst, elförsörjning, hälso- och sjukvård, elektroniska kommunikationer och bevakningsverksamhet. Elektroniska kommunikationer och bevakningsverksamhet är helt nya områden för civilplikt. Berörda myndigheter bör enligt utredningen få i uppdrag att föreslå hur civilplikt snarast ska införas inom dessa områden. Utredningen bedömer att det även kan behövas civilplikt efter mönstring på vissa andra områden, exempelvis inom befolkningsskyddet och transportområdet. Vidare bedömer utredningen att de frivilliga försvarsorganisationernas viktiga roll att bidra med utbildad personal till det civila försvaret bör stärkas.
+
+Utredningen lämnar också förslag om bland annat säkerhetsprövning av civilpliktiga, anvisning till kortare utbildning med allmän tjänsteplikt vid höjd beredskap och hur information om vilka som kan vara lämpliga för civilplikt efter annan utredning än mönstring ska kunna tas fram.
