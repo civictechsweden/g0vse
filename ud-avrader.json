@@ -3,18 +3,37 @@
         "title": "Rwanda - avrådan",
         "url": "/ud-avrader/rwanda---avradan/",
         "published": "2025-01-28",
-        "updated": null,
+        "updated": "2025-01-30",
         "types": [],
         "senders": [
             "1295"
         ],
-        "summary": "Med anledning av säkerhetsläget avråder UD från icke nödvändiga resor till distriktet Rubavu i Rwanda. \n\nBeslut om avrådan togs den 28 januari 2025. Avrådan gäller tills vidare.",
+        "summary": "Med anledning av säkerhetsläget avråder UD från icke nödvändiga resor till distrikten Rubavu och Rusizi i Rwanda. \n\nBeslut om avrådan togs den 30 januari 2025. Avrådan gäller tills vidare.",
         "id": null,
         "shortcuts": [],
         "attachments": [],
         "categories": [
             "2204",
             "1156",
+            "1295"
+        ]
+    },
+    {
+        "title": "Demokratiska republiken Kongo - avrådan",
+        "url": "/ud-avrader/demokratiska-republiken-kongo/",
+        "published": "2017-07-21",
+        "updated": "2025-01-30",
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget avråder UD från alla resor till Kinshasa och provinserna Nord- och Sydkivu, Ituri, Tanganyika, Kasaï, Kasaï Central, Maniema och Haut Uélé samt till gränsområdena upp till ett avstånd om 50 kilometer från gränsen mot Sydsudan och Centralafrikanska republiken.\n\nVidare avråder UD från icke nödvändiga resor till övriga delar av Demokratiska republiken Kongo.\n\nAvrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1048",
             "1295"
         ]
     },
@@ -869,25 +888,6 @@
         "categories": [
             "2204",
             "1100",
-            "1295"
-        ]
-    },
-    {
-        "title": "Demokratiska republiken Kongo - avrådan",
-        "url": "/ud-avrader/demokratiska-republiken-kongo/",
-        "published": "2017-07-21",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet tills vidare från icke nödvändiga resor till Demokratiska republiken Kongo.\n\nUtrikesdepartementet avråder därtill från alla resor till provinserna Nord- och Sydkivu (förutom provinshuvudstäderna Goma, i Nordkivu, och Bukavu,  i Sydkivu), Ituri, Tanganyika, Kasaï, Kasaï Central, Maniema och Haut Uélé samt till gränsområdena upp till ett avstånd om 50 kilometer från gränsen mot Sydsudan och Centralafrikanska republiken.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1048",
             "1295"
         ]
     },
