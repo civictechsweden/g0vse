@@ -1,5 +1,62 @@
 [
     {
+        "title": "Syrien - avrådan",
+        "url": "/ud-avrader/syrien---avradan/",
+        "published": "2025-02-07",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget har Utrikesdepartementet den 7 februari 2025 beslutat att ändra avrådan för Syrien. \n \nUtrikesdepartementet avråder från alla resor till Syrien.\n \nAvrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1182",
+            "1295"
+        ]
+    },
+    {
+        "title": "Palestina - avrådan",
+        "url": "/ud-avrader/palestina---avradan/",
+        "published": "2025-02-07",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av det förbättrade säkerhetsläget har Utrikesdepartementet den 7 februari 2025 beslutat att ändra avrådan för Palestina. \n\nUtrikesdepartementet avråder från alla resor till provinserna Jenin, Tulkarm, Tubas och Qalqilia, samt de delar av provinsen Nablus som ligger norr om Nablus stad. \n\nUD avråder från alla resor till Gaza. \n\nUD avråder från icke-nödvändiga resor till övriga Palestina.\n\nAvrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1147",
+            "1295"
+        ]
+    },
+    {
+        "title": "Demokratiska republiken Kongo - avrådan",
+        "url": "/ud-avrader/demokratiska-republiken-kongo/",
+        "published": "2025-02-07",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget avråder UD från alla resor till hela Demokratiska republiken Kongo. \nBeslut om avrådan togs den 7 februari 2025. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1048",
+            "1295"
+        ]
+    },
+    {
         "title": "Rwanda - avrådan",
         "url": "/ud-avrader/rwanda---avradan/",
         "published": "2025-01-28",
@@ -15,25 +72,6 @@
         "categories": [
             "2204",
             "1156",
-            "1295"
-        ]
-    },
-    {
-        "title": "Demokratiska republiken Kongo - avrådan",
-        "url": "/ud-avrader/demokratiska-republiken-kongo/",
-        "published": "2017-07-21",
-        "updated": "2025-01-30",
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder UD från alla resor till Kinshasa och provinserna Nord- och Sydkivu, Ituri, Tanganyika, Kasaï, Kasaï Central, Maniema och Haut Uélé samt till gränsområdena upp till ett avstånd om 50 kilometer från gränsen mot Sydsudan och Centralafrikanska republiken.\n\nVidare avråder UD från icke nödvändiga resor till övriga delar av Demokratiska republiken Kongo.\n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1048",
             "1295"
         ]
     },
@@ -91,25 +129,6 @@
         "categories": [
             "2204",
             "1084",
-            "1295"
-        ]
-    },
-    {
-        "title": "Palestina - avrådan",
-        "url": "/ud-avrader/palestina---avradan/",
-        "published": "2024-08-01",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av det försämrade säkerhetsläget har Utrikesdepartementet den 1 augusti 2024 beslutat om att skärpa avrådan för Palestina. Följande avrådan gäller: \n \nUtrikesdepartementet avråder från alla resor till Palestina.\n \nUD avråder sedan tio år tillbaka från alla resor till Gaza, och sedan den 8 oktober 2023 från icke nödvändiga resor till samtliga delar av övriga Palestina. Genom beslut den 1 augusti 2024 har avrådan skärpts till att gälla alla resor till hela Palestina.\n \nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1147",
             "1295"
         ]
     },
@@ -1058,25 +1077,6 @@
         "categories": [
             "2204",
             "1125",
-            "1295"
-        ]
-    },
-    {
-        "title": "Syrien - avrådan",
-        "url": "/ud-avrader/syrien---avradan/",
-        "published": "2015-02-10",
-        "updated": "2015-02-20",
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet sedan tidigare från alla resor till Syrien. Utländska beskickningars rörelsefrihet i Syrien är kringskuren och begränsningar gäller för svenska ambassadens möjlighet att bistå svenskar vid en krissituation.\n\nUD uppmanar svenskar att lämna landet med reguljärtrafik.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1182",
             "1295"
         ]
     }
