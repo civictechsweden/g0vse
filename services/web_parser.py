@@ -85,14 +85,19 @@ def extract_text(soup):
     if not soup:
         return None
 
-    col_1 = soup.select_one(".col-1")
-    title = soup.select_one("h1").find(text=True).strip()
+    try:
+        col_1 = soup.select_one(".col-1")
+        title = soup.select_one("h1").find(text=True).strip()
 
-    if not col_1:
-        return None
+        if not col_1:
+            return None
 
-    body = col_1.select("div.has-wordExplanation, div.cl")
-    body = BeautifulSoup("".join(str(div) for div in body), "html.parser")
+        body = col_1.select("div.has-wordExplanation, div.cl")
+        body = BeautifulSoup("".join(str(div) for div in body), "html.parser")
+    except AttributeError as e:
+        print(e)
+        print(soup)
+        raise e
 
     markdown_text = MarkdownConverter(heading_style="ATX").convert_soup(body)
     markdown_text = re.sub(r"\n{3,}", "\n\n", markdown_text.strip())

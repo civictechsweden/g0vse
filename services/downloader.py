@@ -1,7 +1,7 @@
 import urllib
 import time
 
-from services.selenium_driver import Selenium_Driver
+from services.zen_browser import ZenBrowser
 from services.web_parser import get_document_list
 
 REGERING_URL = "https://www.regeringen.se"
@@ -21,11 +21,10 @@ def parameters(page_size, page_number):
 
 class Downloader(object):
     def __init__(self):
-        self.d = Selenium_Driver()
+        self.d = ZenBrowser()
 
     def get_amount(self):
         response = self.d.get_json(REGERING_QUERY_URL + parameters(1, 1))
-        print(response)
         return response["TotalCount"]
 
     def get_latest_items(self, amount):

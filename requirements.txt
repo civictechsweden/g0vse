@@ -1,5 +1,4 @@
 beautifulsoup4==4.12.3
-selenium==4.27.1
-webdriver-manager==4.0.2
 fake-useragent==1.5.1
+zendriver
 markdownify==0.14.1
