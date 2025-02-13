@@ -69,6 +69,7 @@ class Selenium_Driver(object):
             return json.loads(response[response.index("{") : response.index("}") + 1])
         except json.decoder.JSONDecodeError:
             print("Error with response, maybe blocked by Cloudflare...")
+            print(response)
             return {}
 
     def get_file(self, url):

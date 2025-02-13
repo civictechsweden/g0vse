@@ -25,7 +25,7 @@ class Downloader(object):
 
     def get_amount(self):
         response = self.d.get_json(REGERING_QUERY_URL + parameters(1, 1))
-
+        print(response)
         return response["TotalCount"]
 
     def get_latest_items(self, amount):
