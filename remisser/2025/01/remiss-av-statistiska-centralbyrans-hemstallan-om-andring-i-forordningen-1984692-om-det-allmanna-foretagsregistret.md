@@ -1,5 +1,5 @@
 # Remiss av Statistiska centralbyråns hemställan om ändring i förordningen (1984:692) om det allmänna företagsregistret
 
-Här kan du ta del av till vilka instanser som regeringen har remitterat Statistiska centralbyråns hemställan samt komplettering av hemställan om ändring i förordningen (1984:692) om det allmänna företagsregistret.
+Här kan du ta del av svaren från dem som har ombetts att svara på remissen Statistiska centralbyråns hemställan samt komplettering av hemställan om ändring i förordningen (1984:692) om det allmänna företagsregistret. Övriga yttranden finns tillgängliga i departementet.
 
-Remissvaren ska ha kommit in till Finansdepartementet senast den 13 februari 2025.
+Remissvaren ska ha kommit in till Finansdepartementet senast den 13 februari 2025.
