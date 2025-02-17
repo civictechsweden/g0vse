@@ -5,14 +5,17 @@ import zendriver as zd
 from zendriver.core.connection import ProtocolException
 from asyncio import TimeoutError
 
+
 class ZenBrowser:
     def __init__(self):
         self.browser = None
 
     async def initialize_browser(self):
         if platform == "linux":
+            print("I'm on Linux")
             browser_executable_path = "/usr/bin/google-chrome"
         else:
+            print("I'm not on Linux")
             browser_executable_path = None
 
         config = zd.Config(
