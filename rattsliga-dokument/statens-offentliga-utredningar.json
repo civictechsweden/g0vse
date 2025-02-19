@@ -1,5 +1,44 @@
 [
     {
+        "title": "Ett nytt regelverk för uppsikt och förvar, SOU 2025:16",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/02/sou-202516/",
+        "published": "2025-02-17",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1287"
+        ],
+        "summary": "Slutbetänkande av 2023 års förvarsutredning.",
+        "id": "SOU 2025:16",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen har tagit emot en utredning med förslag på nya regler för uppsikt och förvar",
+                "url": "/pressmeddelanden/2025/02/regeringen-har-tagit-emot-en-utredning-med-forslag-pa-nya-regler-for-uppsikt-och-forvar/"
+            },
+            {
+                "name": "Delbetänkande: Förbättrad ordning och säkerhet vid förvar, SOU 2024:5",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2024/01/sou-20245/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Ett nytt regelverk för, SOU 2025:16 (pdf 4 MB)",
+                "url": "/contentassets/3b1c9bf7a191443a828c3d9ae8e72b32/ett-nytt-regelverk-for-sou-202516.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1287",
+            "1249",
+            "2661",
+            "2688"
+        ]
+    },
+    {
         "title": "Anpassning av svensk rätt till EU:s avskogningsförordning, SOU 2025:17",
         "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/02/sou-202517/",
         "published": "2025-02-14",
