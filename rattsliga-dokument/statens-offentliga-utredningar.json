@@ -1,5 +1,42 @@
 [
     {
+        "title": "Ett likvärdigt betygssystem, SOU 2025:18",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/02/sou-202518/",
+        "published": "2025-02-19",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1294"
+        ],
+        "summary": "Betänkande av Utredningen om likvärdiga betyg och meritvärden.",
+        "id": "SOU 2025:18",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Skolministern tar emot Utredningen om likvärdiga betyg och meritvärden",
+                "url": "/pressmeddelanden/2025/02/skolministern-tar-emot-utredningen-om-likvardiga-betyg-och-meritvarden/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Ett likvärdigt betygssystem, SOU 2025:18, Volym 1 (pdf 6 MB)",
+                "url": "/contentassets/56408e57ea8e4954bf38491c8bc33d4c/ett-likvardigt-betygssystem-sou-202518-volym-1.pdf"
+            },
+            {
+                "name": "Ett likvärdigt betygssystem, SOU 2025:18, Volym 2 (pdf 6 MB)",
+                "url": "/contentassets/56408e57ea8e4954bf38491c8bc33d4c/ett-likvardigt-betygssystem-sou-202518-volym-2.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1294",
+            "1276"
+        ]
+    },
+    {
         "title": "Ett nytt regelverk för uppsikt och förvar, SOU 2025:16",
         "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/02/sou-202516/",
         "published": "2025-02-17",

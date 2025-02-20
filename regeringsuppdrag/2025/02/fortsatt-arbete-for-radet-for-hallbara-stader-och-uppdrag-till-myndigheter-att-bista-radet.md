@@ -1,0 +1,3 @@
+# Fortsatt arbete för Rådet för hållbara städer och uppdrag till myndigheter att bistå rådet
+
+Med upphävande av regeringens beslut den 18 december 2017 om inrättande av ett råd för hållbara städer och utseende av de myndigheter som ingår i rådet (M2017/03234), förutom att regeringen inrättar ett råd för hållbara städer, och med upphävande av regeringens beslut den 18 december 2017 om uppdrag att bistå Rådet för hållbara städer (M2017/03235), den 14 mars 2019 om uppdrag att bistå Rådet för hållbara städer (M2019/00651) och den 10 mars 2022 om ändring av uppdraget om inrättandet av Rådet för hållbara städer och av anknytande uppdrag (Fi2022/00907) beslutar regeringen att följande ska gälla fr.o.m. den 1 februari 2025.
