@@ -1,0 +1,19 @@
+# Arbetet med tillståndsprövning för skjutvapen ska stärkas och utvecklas
+
+Den fruktansvärda masskjutningen i Örebro den 4 februari 2025 aktualiserar frågor kring reglerna, och tillämpningen av reglerna, för tillstånd att ha skjutvapen. Det gäller särskilt arbetet med att säkerställa att personer som av medicinska skäl är olämpliga att inneha vapen inte har vapentillstånd. I maj 2024 överlämnade 2022 års vapenutredning sitt betänkande ”En ändamålsenlig vapenlagstiftning” till regeringen. Betänkandet bereds för närvarande i Regeringskansliet och regeringen kommer att återkomma med en lagrådsremiss.
+
+Även processen för tillståndsprövning behöver ses över, inte minst vad gäller hur anmälningsskyldigheten i hälso- och sjukvården fullföljs. För att säkerställa att tillstånd för skjutvapen inte ges till personer som är olämpliga att inneha skjutvapen har regeringen gett Polismyndigheten och Socialstyrelsen i uppdrag att dels kartlägga hur tillståndsarbetet bedrivs avseende medicinsk lämplighet, dels vidta åtgärder. Det kan till exempel handla om att justera föreskrifter, rättsliga vägledningar och kunskapsstöd, åtgärda brister i handläggning av tillstånd respektive återkallelse av tillstånd att ha vapen, men också att sprida och kommunicera resultatet av arbetet till berörda aktörer.
+
+– Vi behöver säkerställa att personer som av medicinska skäl är olämpliga att inneha skjutvapen inte heller har tillstånd för det. För att Polismyndigheten ska kunna göra en korrekt bedömning av en persons lämplighet att inneha vapen måste myndigheten ha tillgång till den information som har betydelse för frågan. Det behöver därför säkerställas att anmälningar från hälso- och sjukvården sker i den utsträckning som lagstiftningen anger. Den information som inkommer till Polismyndigheten behöver också omhändertas på ett ändamålsenligt sätt, säger justitieminister Gunnar Strömmer.
+
+– Läkare har en avgörande men samtidigt svår uppgift att anmäla till polisen om en person inte bör ha tillstånd att inneha vapen. Vi vill ge läkare bästa möjliga förutsättningar att utföra denna samhällsviktiga uppgift och därför ger vi nu Socialstyrelsen i uppdrag att tillsammans med Polismyndigheten stärka och utveckla det här arbetet. Det handlar inte bara om att minska risken för dödligt våld utan är också en angelägen insats för att förebygga självmord, säger socialminister Jakob Forssmed.
+
+– Det är viktigt att hälso- och sjukvården och Polismyndigheten har ett väl fungerande system när det gäller att kontrollera och följa upp personers lämplighet att inneha vapen. Det får inte vara så att någon faller mellan stolarna, säger Martin Melin, rättspolitisk talesperson Liberalerna.
+
+– Svenska vapenägare uppbär ett stort förtroende hos allmänheten och vi är måna om att det förtroendet ska bestå. En viktig del i detta är att fortsätta stärka legitimiteten för hur utfärdade vapentillstånd följs upp och det behövs ett pålitligt system som tar både säkerhet och individens rättigheter på allvar, säger Henrik Vinge, justitieutskottet ordförande Sverigedemokraterna.
+
+Polismyndigheten och Socialstyrelsen ska under genomförandet av uppdraget samverka med, och inhämta kunskap och erfarenheter från, berörda myndigheter, kommuner, regioner, privata vårdgivare, Sveriges Kommuner och Regioner, professions­föreningar, organisationer inom det civila samhället såsom Svenska jägareförbundet, Jägarnas riksförbund och Svenska skyttesportförbundet samt andra aktörer som myndigheterna bedömer är relevanta.
+
+Polismyndigheten och Socialstyrelsen ska lämna en gemensam delredovisning senast den 30 september 2025. Myndigheterna ska senast den 30 november 2026 lämna separata slutredovisningar avseende vidtagna åtgärder och eventuella behov av fortsatta utvecklingsinsatser till Regeringskansliet.
+
+Uppdraget till Polismyndigheten och Socialstyrelsen bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.
