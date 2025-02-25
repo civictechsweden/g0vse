@@ -1,5 +1,74 @@
 [
     {
+        "title": "En STEM-strategi för Sverige",
+        "url": "/informationsmaterial/2025/02/en-stem-strategi-for-sverige/",
+        "published": "2025-02-24",
+        "updated": null,
+        "types": [
+            "1339"
+        ],
+        "senders": [
+            "1294"
+        ],
+        "summary": "Regeringen presenterar i denna strategi ett samlat paket med åtgärder som syftar till att stärka den svenska kompensförsörjningen inom naturvetenskap och teknik. Som ett led i arbetet sätter regeringen här upp långsiktiga mål för att få fler utbildade inom dessa områden.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: En STEM-strategi för Sverige – från förskola till forskarutbildning",
+                "url": "/pressmeddelanden/2025/02/en-stem-strategi-for-sverige--fran-forskola-till-forskarutbildning/"
+            },
+            {
+                "name": "Dir. 2025:11 STEM-delegationen",
+                "url": "/rattsliga-dokument/kommittedirektiv/2025/02/dir.-202511"
+            },
+            {
+                "name": "Informationsmaterial: Förordnande i STEM-delegationen",
+                "url": "/informationsmaterial/2025/02/forordnande-i-stem-delegationen/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "En STEM-strategi för Sverige (pdf 4 MB)",
+                "url": "/contentassets/074ae44c1f0846ceb845c9aa62848114/en-stem-strategi-for-sverige.pdf"
+            }
+        ],
+        "categories": [
+            "1339",
+            "1294",
+            "1277",
+            "1278",
+            "2727"
+        ]
+    },
+    {
+        "title": "Förordnande i STEM-delegationen",
+        "url": "/informationsmaterial/2025/02/forordnande-i-stem-delegationen/",
+        "published": "2025-02-24",
+        "updated": null,
+        "types": [
+            "1339"
+        ],
+        "senders": [
+            "1294"
+        ],
+        "summary": "Här kan du ta del av vilka som ingår i STEM-delegationen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Förordnande ledamöter i STEM-delegationen (pdf 121 kB)",
+                "url": "/contentassets/128adba665b843179fdd1363a2f08a86/forordnande-ledamoter-i-stem-delegationen.pdf"
+            }
+        ],
+        "categories": [
+            "1339",
+            "1294",
+            "1277",
+            "1278",
+            "2727"
+        ]
+    },
+    {
         "title": "Årsredovisning för Regeringskansliet 2024",
         "url": "/informationsmaterial/2025/02/arsredovisning-for-regeringskansliet-2024/",
         "published": "2025-02-20",
