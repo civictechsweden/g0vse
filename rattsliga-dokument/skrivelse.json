@@ -1,5 +1,40 @@
 [
     {
+        "title": "Riksrevisionens rapport om SiS särskilda ungdomshem, Skr.2024/25:40",
+        "url": "/rattsliga-dokument/skrivelse/2025/02/skr.20242540",
+        "published": "2025-02-25",
+        "updated": null,
+        "types": [
+            "1324",
+            "1330"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Regeringen redovisar hur den bedömer de slutsatser och rekommendationer som Riksrevisionen lämnar i sin granskningsrapport SiS särskilda ungdomshem – brister i statens tvångsvård av barn och unga, RiR 2024:7.",
+        "id": "Skr.2024/25:40",
+        "shortcuts": [
+            {
+                "name": "SiS särskilda ungdomshem  – brister i statens tvångsvård av barn och unga, RiR 2024:7, på Riksrevisionens webbplats",
+                "url": "https://www.riksrevisionen.se/download/18.7fda99de18f2935b2a4148c/1714393282688/RiR_2024_7_rapport.pdf"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Riksrevisionens rapport om SiS särskilda ungdomshem, Skr.2024 25 40 (pdf 3 MB)",
+                "url": "/contentassets/dcba8cb184d044a9a80ae951ffbde774/skr.2024-25-40.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1330",
+            "1296",
+            "1292",
+            "1268"
+        ]
+    },
+    {
         "title": "Riksrevisionens rapport om Spelinspektionens tillsyn över spelmarknaden, Skr. 2024/25:105",
         "url": "/rattsliga-dokument/skrivelse/2025/02/skr.-202425105",
         "published": "2025-02-24",
