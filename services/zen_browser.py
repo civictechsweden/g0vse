@@ -12,10 +12,8 @@ class ZenBrowser:
 
     async def initialize_browser(self):
         if platform == "linux":
-            print("I'm on Linux")
             browser_executable_path = "/usr/bin/google-chrome"
         else:
-            print("I'm not on Linux")
             browser_executable_path = None
 
         config = zd.Config(
@@ -58,6 +56,11 @@ class ZenBrowser:
         content = await page.get_content()
         await page
 
+        if "Just a moment" in content:
+            print("Waiting to be redirected from Cloudflare...")
+            await page.wait(10)
+
+        content = await page.get_content()
         await self.stop_browser()
         return content
 
