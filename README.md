@@ -102,6 +102,31 @@ md_content, metadata = extract_page(page)
 
 Have a look at [fetch.py](./fetch.py) for more complex logic that can download all articles or just the missing ones.
 
+## Updating the data manually
+
+As written above, the data is downloaded regularly and stored on the [data](https://github.com/civictechsweden/g0vse/tree/data) branch of this Github repository.
+
+If you want to fetch this data from Github and update it using the [fetch.py](./fetch.py) script, it is recommended to proceed this way:
+
+- Clone the data from the *data* branch in a folder called *data*:
+```bash
+git clone --branch data --single-branch https://github.com/civictechsweden/g0vse.git data
+```
+- Run the script (it will read the data and only download the new pages):
+```bash
+python fetch.py
+```
+
+If you want to push the new data to the branch:
+```bash
+cd data
+git add .
+git -c user.name="github-actions[bot]" \
+    -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+    commit -m "Update data"
+git push
+```
+
 ## License
 
 The code is licensed under AGPLv3.
