@@ -1,0 +1,7 @@
+# Översyn av skolmyndigheters uppgifter och ansvar ska bidra till ökad tydlighet och effektivitet
+
+– Vi har i dag en skola där var fjärde elev inte kan läsa eller räkna ordentligt och där hot och våld i många skolor har blivit vardag. Många lärare ges inte de förutsättningar och den arbetsmiljö som de borde ha. Det är hög tid att agera för att vända denna utveckling. En viktig del i detta är att skolmyndigheternas insatser är tydliga, ändamålsenliga och att de bygger på vetenskaplig grund. säger skolminister Lotta Edholm.
+
+För att regeringen ska lyckas med den omläggning av skolpolitiken som krävs behövs välfungerande och kompetenta myndigheter, som erbjuder relevant stöd och vägledning till svensk skola. Det kräver att skolmyndigheternas insatser är tydliga, ändamålsenliga och att de bygger på vetenskaplig grund. Det är också viktigt att skolmyndigheterna fokuserar på sina kärnuppgifter och har en välfungerande samverkan.
+
+Regeringen har därför beslutat att ge Statskontoret i uppdrag att göra en översyn av vissa skolmyndigheters uppgifter och ansvar. Vid behov ska Statskontoret lämna förslag på hur uppgifter och ansvar kan fördelas på ett annat sätt. Syftet med uppdraget är att bidra till en tydlig, mer ändamålsenlig och effektiv fördelning av uppgifter och ansvar. De skolmyndigheter som ingår i översynen är Skolverket, Specialpedagogiska skolmyndigheten (SPSM), Skolinspektionen och Skolforskningsinstitutet.

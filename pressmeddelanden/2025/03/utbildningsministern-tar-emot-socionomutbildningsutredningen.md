@@ -1,0 +1,3 @@
+# Utbildningsministern tar emot socionomutbildningsutredningen
+
+

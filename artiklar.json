@@ -1,5 +1,62 @@
 [
     {
+        "title": "Regeringen satsar på ökad lästid och minskad skärmtid",
+        "url": "/artiklar/2024/01/regeringen-satsar-pa-okad-lastid-och-minskad-skarmtid/",
+        "published": "2024-01-31",
+        "updated": "2025-03-04",
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "2620",
+            "1294"
+        ],
+        "summary": "Att elever kan läsa och förstå vad de läser är grunden för deras lärande i alla skolämnen. Regeringens skolpolitik syftar till att gå tillbaka till grunderna och återupprätta en stark kunskapsskola där fokus i de tidigare årskurserna ligger på grundläggande färdigheter som att läsa, skriva och räkna. Digitala lärverktyg ska introduceras i undervisningen först i en ålder när de främjar och inte hämmar elevernas lärande.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2097",
+            "2620",
+            "1294",
+            "1276",
+            "2699",
+            "2688",
+            "2694"
+        ]
+    },
+    {
+        "title": "COP16 enades om vägen framåt för biologisk mångfald ",
+        "url": "/artiklar/2025/03/cop16-enades-om-vagen-framat-for-biologisk-mangfald/",
+        "published": "2025-03-03",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "1291"
+        ],
+        "summary": "FN har enats om vägen framåt för att följa upp arbetet med att hejda och vända förlusten av den biologiska mångfalden och mobilisera nödvändiga resurser. Parterna samlades den 25-27 februari i Rom för att slutföra de förhandlingar som inleddes på CBD COP 16 i Colombia hösten 2024.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Webbplats för CBD COP 16",
+                "url": "https://www.cbd.int/conferences/2024"
+            },
+            {
+                "name": "Artikel 241107: COP16 om biologisk mångfald gjorde viktiga framsteg trots tidsbrist",
+                "url": "/artiklar/2024/11/cop16-om-biologisk-mangfald-gjorde-viktiga-framsteg-trots-tidsbrist/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2097",
+            "1291",
+            "1252",
+            "1013"
+        ]
+    },
+    {
         "title": "Högt deltagande på nationell konferens om life science",
         "url": "/artiklar/2025/02/hogt-deltagande-pa-nationell-konferens-om-life-science/",
         "published": "2025-02-28",
@@ -4810,32 +4867,6 @@
             "1268",
             "2708",
             "2698",
-            "2694"
-        ]
-    },
-    {
-        "title": "Regeringen satsar på ökad lästid och minskad skärmtid",
-        "url": "/artiklar/2024/01/regeringen-satsar-pa-okad-lastid-och-minskad-skarmtid/",
-        "published": "2024-01-31",
-        "updated": "2024-09-23",
-        "types": [
-            "2097"
-        ],
-        "senders": [
-            "2620",
-            "1294"
-        ],
-        "summary": "Att elever kan läsa och förstå vad de läser är grunden för deras lärande i alla skolämnen. Regeringens skolpolitik syftar till att gå tillbaka till grunderna och återupprätta en stark kunskapsskola där fokus i de tidigare årskurserna ligger på grundläggande färdigheter som att läsa, skriva och räkna. Digitala lärverktyg ska introduceras i undervisningen först i en ålder när de främjar och inte hämmar elevernas lärande.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2097",
-            "2620",
-            "1294",
-            "1276",
-            "2699",
-            "2688",
             "2694"
         ]
     },
