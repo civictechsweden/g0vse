@@ -1,0 +1,3 @@
+# Satsningar på väg för att stärka Arlanda flygplats konkurrenskraft - preliminära bedömningar och förslag inom vägområdet
+
+Regeringen beslutade den 20 december 2023 att tillkalla en särskild utredare, som även ska fungera som samordnare, med uppdrag att föra dialog med berörda aktörer för att identifiera och föreslå åtgärder som kan genomföras på såväl kort som lång sikt för ökad kapacitet och förbättrad tillgänglighet till och från Arlanda flygplats (dir. 2023:178). Utredningen har lämnat den andra delrapporten Satsningar på väg för att stärka Arlanda flygplats konkurrenskraft – preliminära bedömningar och förslag inom vägområdet.

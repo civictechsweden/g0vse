@@ -1,0 +1,11 @@
+# Elisabeth Svantesson stod värd för nordisk-baltiskt ministermöte med Världsbankens president
+
+Mötet samlade bistånds- och finansministrar från de nordiska och baltiska länderna och Världsbankens president Ajay Banga. Under mötet diskuterades jobbskapande och tillväxt i utvecklingsländer, fortsatt stöd till Ukraina och Världsbankens roll i en tid av osäkerhet för multilateralt ekonomiskt samarbete.
+
+– Ett jobb att gå till ger ekonomiskt självbestämmande och skapar tillväxt, inte bara här hemma utan också i de utvecklings- och tillväxtländer som Världsbanken fokuserar sin verksamhet på. Vid mötet har jag även betonat vikten av fortsatt starkt stöd till Ukraina, där Världsbanken är en viktig partner, säger finansminister Elisabeth Svantesson.
+
+– Jobb handlar om mer än lön – de skapar broar mellan ekonomisk tillväxt och möjligheter, utgör grunden för stabilitet och gör det möjligt att ta tillvara en hel generations potential. När utvecklingsländer skapar jobb för unga får det positiva konsekvenser långt utanför deras egna gränser: det skapar stabilitet, minskar migrationstrycket och utvidgar marknader som ökar det globala välståndet. Det är en gemensam agenda där vi alla har en roll att spela. De nordiska och baltiska ländernas partnerskap är av väsentlig betydelse och visar att när vi samarbetar skapar vi möjligheter som gynnar både utvecklingsländer och industriländer, säger Världsbankens president Ajay Banga.
+
+– Genom vårt omfattande samarbete med Världsbanken stödjer Sverige bland annat organisationens arbete med att bygga starka institutioner vilket skapar förutsättningar för investeringar, handel och tillväxt. I samband med president Bangas besök informerade jag även om ytterligare svenskt stöd med 100 miljoner kronor till Ukraina via Världsbanken, säger bistånds-och utrikeshandelsminister Benjamin Dousa.
+
+Finansminister Elisabeth Svantesson är guvernör i Världsbanken och bistånds- och utrikeshandelsminister Benjamin Dousa är biträdande guvernör. Sverige ingår i en valkrets tillsammans med de nordiska och baltiska länderna. I oktober 2024 valdes finansministern, som andra europé någonsin, till ordförande i Världsbankens och internationella valutafondens (IMF) utvecklingskommitté (DC).

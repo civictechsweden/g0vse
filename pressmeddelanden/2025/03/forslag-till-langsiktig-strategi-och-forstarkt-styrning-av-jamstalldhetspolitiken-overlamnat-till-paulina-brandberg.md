@@ -1,0 +1,9 @@
+# Förslag till långsiktig strategi och förstärkt styrning av jämställdhetspolitiken överlämnat till Paulina Brandberg
+
+Den särskilda utredaren Anna Ekstedt har överlämnat slutbetänkandet Frihet från våld, förtryck och utnyttjande - En jämställdhetspolitisk strategi mot våld och en stärkt styrning av centrala myndigheter (SOU 2025:28). Utredaren har bland annat haft i uppdrag att lämna förslag för en stärkt långsiktig styrning av arbetet mot könsrelaterat våld och hedersrelaterat våld och förtryck (Dir. 2023:117).
+
+I slutbetänkandet lämnas förslag till en långsiktig strategi och förstärkt styrning av jämställdhetspolitiken för att motverka mäns våld mot kvinnor, våld i nära relationer, hedersrelaterat våld och förtryck samt prostitution och människohandel. Utredningen har tidigare lämnat delbetänkandet Ett inkluderande jämställdhetspolitiskt delmål mot våld (SOU 2024:21).
+
+– Att bekämpa mäns våld mot kvinnor, våld i nära relationer, hedersrelaterat våld och förtryck samt prostitution och människohandel är en av avgörande fråga för jämställdhetspolitiken och jag ser med intresse fram emot att ta del av alla utredningens förslag, säger jämställdhets- och arbetslivsminister Paulina Brandberg.
+
+I augusti 2023 fattade regeringen beslut om att tillsätta en utredning för en stärkt långsiktig styrning av arbetet mot könsrelaterat våld och hedersrelaterat våld och förtryck. Utredaren fick i uppdrag att lämna förslag om en ny målformulering för det nuvarande jämställdhetspolitiska delmålet att mäns våld mot kvinnor ska upphöra. Utredaren skulle också göra en bedömning om det bör införas ett särskilt delmål för att förebygga och bekämpa hedersrelaterat våld och förtryck. I uppdraget ingick även att ta fram förslag till en eller två långsiktiga strategier på området för att utveckla och stärka arbetet.
