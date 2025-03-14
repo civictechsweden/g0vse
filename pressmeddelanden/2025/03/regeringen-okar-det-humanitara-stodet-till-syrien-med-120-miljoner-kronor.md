@@ -1,0 +1,5 @@
+# Regeringen ökar det humanitära stödet till Syrien med 120 miljoner kronor
+
+– De humanitära behoven i Syrien är mycket stora och situationen är fortsatt svår. Det stödpaket som regeringen idag presenterar tar sikte på att möta de akuta behoven genom 80 miljoner kronor i stöd till UNHCR som bidrar till livsviktiga förnödenheter som mat och vatten samt underlättar för syriska flyktingar att återvända till sina hem när förutsättningar finns. Dessutom riktar vi 20 miljoner kronor till UNDP för att stödja deras arbete med minröjning, boende och tillgång till grundläggande samhällstjänster för återvändande. Vi stärker också upp med 20 miljoner till ICRC som bidrar till det viktiga arbetet med att återförena familjer och bevara dokumentation om saknade personer, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
+
+Utöver betydande kärnstöd till humanitära aktörer verksamma i Syrien – såsom FN:s livsmedelsprogram (WFP), UNHCR och ICRC – bidrog Sverige under 2024 med 257 miljoner kronor i humanitärt stöd för att lindra nöd och lidande hos den syriska civilbefolkningen.

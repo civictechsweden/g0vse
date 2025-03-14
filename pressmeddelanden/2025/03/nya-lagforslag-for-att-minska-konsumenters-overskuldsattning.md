@@ -1,0 +1,13 @@
+# Nya lagförslag för att minska konsumenters överskuldsättning
+
+De senaste åren har konsumtionskrediterna vuxit i snabb takt och cirka 400 000 personer har skulder hos Kronofogdemyndigheten. Konsumentkrediter lämnas eller förmedlas i dag bland annat av konsumentkreditinstitut, även kallade ”snabblåneföretag”. Konsumentkreditinstitutens lån utmärker sig i flera avseenden jämfört med bankernas. De har ofta en avsevärt högre ränta än den ränta bankerna ger. Deras låntagare utgörs i hög omfattning av unga människor med låga inkomster. Deras låntagare får också i väsentligt högre grad än bankers låntagare betalningspåminnelser, inkassokrav och skulder hos Kronofogde­myndigheten. Förslagen i propositionen innebär att konsumentkrediter i fortsättningen bara får lämnas eller förmedlas av kreditinstitut, det vill säga banker och kreditmarknadsföretag.
+
+– Vi behöver en trygg och sund hantering av kreditprocesser. Med höga krav på företag som lämnar och förmedlar krediter till konsumenter skapar vi förutsättningar för det, säger finansmarknadsminister Niklas Wykman.
+
+Förslaget innebär att bland annat förmedling av krediter till konsumenter inte längre kan drivas som självständig verksamhet, utan endast som ett led i en bank- eller finansierings­rörelse. Detta innebär att de kreditförmedlare som vill fortsätta sin verksamhet behöver ansöka om tillstånd för bank- eller finansieringsrörelse. Lagrådet har riktat kritik mot denna del av förslaget.
+
+Som Lagrådet framhåller bör det inte vidtas mer långtgående åtgärder än vad som är ändamålsenligt och proportionerligt för att komma till rätta med de problem som finns. Det finns en risk för att syftet med förslaget – att skapa förutsättningar för sunda kreditprocesser och effektiv tillsyn – går förlorat om det inte ställs samma krav på kreditförmedling som på kreditgivning. Kreditförmedlarna bedriver ingen oberoende verksamhet. De får ersättning från kreditgivarna för att förmedla krediterna samt tillgängliggör, administrerar och distribuerar krediter, det vill säga utför i praktiken allt förberedande arbete innan själva kreditavtalet ingås med kreditgivaren.
+
+Kreditförmedlarna står dessutom för en stor del av marknadsföringen av krediterna, stundtals av aggressiv karaktär, och har tillsammans med den senaste tidens tekniska utveckling haft avgörande betydelse för hur lättillgängliga konsumtionskrediter har blivit. Därmed har de enligt regeringens bedömning också bidragit till ökningen av skuldsättningen hos grupper med en svag ekonomisk situation och bristande återbetalningsförmåga.
+
+Lagändringarna föreslås träda i kraft den 1 juli 2025.
