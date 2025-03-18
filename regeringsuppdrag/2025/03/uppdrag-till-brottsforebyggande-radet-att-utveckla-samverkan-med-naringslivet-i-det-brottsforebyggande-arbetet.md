@@ -1,0 +1,7 @@
+# Uppdrag till Brottsförebyggande rådet att utveckla samverkan med näringslivet i det brottsförebyggande arbetet
+
+Regeringen ger Brottsförebyggande rådet (Brå) i uppdrag att utveckla samverkan med näringslivet i det lokala brottsförebyggande arbetet genom att ge stöd till kommuner.
+
+Brås stöd ska syfta till att öka kommunernas kunskap om näringslivets roll i det brottsförebyggande arbetet och hur näringslivet kan bidra i det brottsförebyggande arbetet, samt vilka verktyg som kommuner kan använda sig av i samverkan med näringslivet. Brå ska också verka för att kommunernas samverkan med näringslivet utvecklas i det brottsförebyggande arbetet. Det omfattar bl.a. att identifiera inom vilka områden eller sammanhang som det finns stora behov av att utveckla former för samverkan med näringslivet och att bidra till samverkan inom dessa. Brå ska inom ramen för uppdraget föra dialog med berörda aktörer, exempelvis branschorganisationer inom näringslivet.
+
+Brå ska även inhämta synpunkter och erfarenheter från relevanta myndigheter och aktörer, exempelvis länsstyrelserna och Sveriges Kommuner och Regioner. Myndigheten ska i sitt arbete i så stor utsträckning som möjligt använda sig av befintliga samverkansstrukturer på regional och lokal nivå. Brå ska senast den 2 mars 2026 lämna en redovisning av uppdraget till Regeringskansliet (Justitiedepartementet). Redovisningen ska innehålla en redogörelse av vidtagna åtgärder samt en analys av vad arbetet har lett till.
