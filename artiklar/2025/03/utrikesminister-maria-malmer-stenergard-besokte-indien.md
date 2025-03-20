@@ -1,0 +1,9 @@
+# Utrikesminister Maria Malmer Stenergard besökte Indien
+
+Utrikesminister Maria Malmer Stenergard reste till New Delhi den 17-18 mars för deltagande i den säkerhetsspolitiska konferensen Raisina Dialogue. Med sig hade hon en delegation av svenska industriförträdare, som träffade indiska motparter inom ramen för näringslivsinitativet India Sweden Business Leaders Roundtable. I möten med bland andra Indiens utrikesminister och handelsminister diskuterade Malmer Stenergard hur Sveriges och Europas partnerskap med Indien kan bli ännu starkare.
+
+Den säkerhetspolitiska konferensen Raisina Dialogue har arrangerats årligen i New Delhi sedan 2016, och lockar internationellt deltagande på hög nivå. Konferensen invigdes på måndagskvällen, med närvaro av bland andra Indiens premiärminister Modi. I marginalen av Raisina Dialogue träffade  Malmer Stenergard bland annat sin indiska motpart utrikesminister Dr Jaishankar, liksom Ukrainas utrikesminister, Andri Sybiha. På tisdagen deltog hon även i en paneldebatt om europeisk säkerhets- och försvarspolitik, tillsammans med bland andra Luxemburgs utrikesminister och Nederländernas försvarsminister.
+
+Utrikesministern mötte under sitt besök även den indiske handelsministern Piyush Goyal, och ledde ett möte mellan svenska och indiska näringslivsföreträdare, inom ramen för näringslivsinitiativet India Sweden Business Leaders Roundtable. Diskussionerna behandlade bland annat hur Sveriges handelsförbindelser med Indien kan bli än starkare, och om förhandlingarna mellan EU och Indien om ett frihandelsavtal.
+
+Besöket avrundandes med en invigningsceremoni för ett nytt svenskt handels- och investeringskontor i Indien, där utrikesministern deltog tillsammans med Business Swedens VD Jan Larsson. Det nya handelskontoret öppnar i Mumbai och blir det tredje kontoret som Business Sweden driver i Indien.

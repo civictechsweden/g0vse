@@ -1,0 +1,5 @@
+# Sverige ger 20 miljoner kronor till Ugandas ebolarespons
+
+– Ebola är en dödlig sjukdom som kan få snabb spridning. Sverige och andra givare har en viktig roll i att bistå partnerländer vid smittoutbrott. Det har blivit ännu viktigare efter att USA, som varit en stor givare till hälsoarbete, pausat stora delar av sitt stöd. Därför ger vi nu stöd till Ugandas ebolarespons inom vårt bilaterala samarbete, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
+
+Uganda deklarerade den 30 januari 2025 sitt åttonde ebolautbrott med hittills totalt 12 bekräftade fall varav två dödsfall. Hanteringen har från Ugandas regering tillsammans med partnerorganisationer varit resolut med tidig vaccinering inom ramen för klinisk prövning och omgående och omfattande smittspårning och isolering av personer som varit i kontakt med smittade personer för ebola. Till skillnad från tidigare ebolautbrott i Uganda är de kända smittofallen denna gång framför allt lokaliserade i mångmiljonstaden Kampala vilket kan utgöra ytterligare risker och svårigheter i responsen.
