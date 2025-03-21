@@ -1,0 +1,9 @@
+# Regeringen satsar 10 miljoner för att bekämpa idrottsrelaterad brottslighet
+
+– Idrotten ska vara en trygg plats och fri från hot, våld eller brottslighet. Den här permanenta satsningen stärker idrottens förebyggande arbete för att motverka att kriminella aktörer utnyttjar idrotten som sin plattform. Det ger även idrotten förutsättningar att stärka sin samverkan med polisen och andra relevanta myndigheter, säger socialminister Jakob Forssmed.
+
+I budgetpropositionen 2025 avsatte regeringen 10 miljoner kronor per år för att stärka idrottsrörelsens motståndskraft mot idrottsrelaterad brottslighet, inte minst riktad mot unga idrottare. Satsningen syftar till att stärka idrottens arbete och möjlighet att samverka med relevanta aktörer för att motverka idrottsrelaterad brottslighet samt stödja idrotter med särskilt stora utmaningar kopplade till idrottsrelaterad brottslighet.
+
+Genom dagens beslut kan Riksidrottsförbundet påbörja denna satsning. Riksidrottsförbundets arbete kommer att fokusera på att identifiera och motverka kriminella aktörer som försöker infiltrera idrottsföreningar, samt bidra till att bekämpa organiserad idrottskorruption som till exempel matchfixning och oseriös agentverksamhet av spelare. En annan viktig del av arbetet är vidare att bidra till att förhindra att barn och unga rekryteras till kriminella gäng via idrottsmiljöer. Riksidrottsförbundet kommer genom satsningen även förstärka sitt pågående arbete med att säkerställa att ekonomiskt stöd används korrekt och motverka bidragsfusk.
+
+Målet är att idrottsrörelsen ska ha relevant kunskap om brottslighet och kunna agera vid behov eller utsatthet, samt stärka samarbetet med berörda myndigheter och andra organisationer för att motverka idrottsrelaterad brottslighet och därmed värna idrotten och dess positiva betydelse för samhället.
