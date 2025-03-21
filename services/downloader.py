@@ -1,7 +1,7 @@
 import urllib
 import time
 
-from services.zen_browser import ZenBrowser
+from services.browser import Browser
 from services.web_parser import get_document_list
 
 REGERING_URL = "https://www.regeringen.se"
@@ -21,10 +21,10 @@ def parameters(page_size, page_number):
 
 class Downloader(object):
     def __init__(self):
-        self.d = ZenBrowser()
+        self.b = Browser()
 
     def get_amount(self):
-        response = self.d.get_json(REGERING_QUERY_URL + parameters(1, 1))
+        response = self.b.get_json(REGERING_QUERY_URL + parameters(1, 1))
         return response["TotalCount"]
 
     def get_latest_items(self, amount):
@@ -58,7 +58,7 @@ class Downloader(object):
     def get_items_for_page(self, page_size, page_number):
         print(f"Fetching page {page_number}...")
         url = REGERING_QUERY_URL + parameters(page_size, page_number)
-        contents = self.d.get_json(url)
+        contents = self.b.get_json(url)
 
         data, codes = get_document_list(contents)
 
@@ -70,7 +70,7 @@ class Downloader(object):
         return data, codes
 
     def get_webpage(self, path):
-        return self.d.get(REGERING_URL + path)
+        return self.b.get(REGERING_URL + path)
 
     @staticmethod
     def last_updated(item):

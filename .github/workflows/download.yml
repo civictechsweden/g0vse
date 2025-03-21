@@ -17,6 +17,8 @@ jobs:
           python-version: "3.13"
           cache: "pip"
       - run: pip install -r requirements.txt
+      - name: Install browser
+        run: python -m camoufox fetch
       - name: Fetch the data
         run: python fetch.py
       - name: Commit and Push

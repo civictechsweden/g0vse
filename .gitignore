@@ -1,4 +1,5 @@
 __pycache__
+/.venv/
 data/
 
 /frontend/node_modules
