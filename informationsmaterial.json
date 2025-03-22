@@ -1,5 +1,45 @@
 [
     {
+        "title": "Livsmedelsstrategi 2.0",
+        "url": "/informationsmaterial/2025/03/livsmedelsstrategi-2.0",
+        "published": "2025-03-21",
+        "updated": null,
+        "types": [
+            "1339"
+        ],
+        "senders": [
+            "2425"
+        ],
+        "summary": "Sammanfattning av regeringens arbete för att stärka alla delar i livsmedelskedjan och öka den svenska livsmedelsproduktionen.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Beslut om Livsmedelsstrategin 2.0",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/03/livsmedelsstrategin-2.0"
+            },
+            {
+                "name": "Information om livsmedelsstrategin",
+                "url": "/regeringens-politik/en-livsmedelsstrategi-for-jobb-och-hallbar-tillvaxt-i-hela-landet/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Livsmedelsstrategi 2.0 (pdf 3 MB)",
+                "url": "/contentassets/dc5bf50d0654475dabfcb1b255b03dfe/livsmedelsstrategi-2.0.pdf"
+            },
+            {
+                "name": "Åtgärdslista (pdf 138 kB)",
+                "url": "/contentassets/dc5bf50d0654475dabfcb1b255b03dfe/atgardslista.pdf"
+            }
+        ],
+        "categories": [
+            "1339",
+            "2425",
+            "1243",
+            "2270"
+        ]
+    },
+    {
         "title": "En ny era av cybersäkerhet - Nationell strategi för cybersäkerhet 2025-2029",
         "url": "/informationsmaterial/2025/03/nationell-strategi-for-cybersakerhet-2025-2029/",
         "published": "2025-03-20",
