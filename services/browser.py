@@ -12,7 +12,7 @@ class Browser:
         page = self.browser.new_page()
 
         try:
-            page.goto(url, timeout=5000)
+            page.goto(url, timeout=10000)
             source = page.content()
         except TimeoutError:
             print("Timeout, waiting for 3 seconds...")
