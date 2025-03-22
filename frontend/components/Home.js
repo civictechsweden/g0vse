@@ -79,31 +79,31 @@ export default function Home() {
         <div className="m-5">
           <div className="flex items-center">
             <Image src="/logo.svg" alt="g0vse logo" className="mr-4 mt-4 mb-1" height={96} width={96} />
-            <h1 className="text-7xl font-bold dark:text-white text-black font-mono">
+            <h1 className="text-7xl font-bold text-black font-mono">
               g0vse
             </h1>
           </div>
-          <h2 className="text-2xl font-bold mt-4 dark:text-gray-50 text-gray-700">
+          <h2 className="text-2xl font-bold mt-4 text-gray-700">
             regeringen.se som öppna data
           </h2>
-          <p className="text-xl text-gray-700 mt-4 font-light dark:text-gray-200">
+          <p className="text-xl text-gray-700 mt-4 font-light">
             En av Sveriges viktigaste webbplatser... <br/>..äntligen tillgänglig som öppna data!
           </p>
-          <p className="text-xs mt-4 font-bold dark:text-gray-200">
+          <p className="text-xs mt-4 font-bold">
             OBS: g0vse har ingen koppling med regeringen eller Regeringskansliet.
           </p>
         </div>
         <form
-          className="m-5 rounded-lg shadow-xl flex flex-col px-8 py-8 bg-white dark:bg-blue-500"
+          className="m-5 rounded-lg shadow-xl flex flex-col px-8 py-8 bg-white"
         >
-          <h1 className="text-2xl font-bold dark:text-gray-50">
+          <h1 className="text-2xl font-bold">
             Konvertera en länk
           </h1>
           <div className="text-left">
             <p className="mb-2 text-xs text-gray-500">Ange en länk från regeringen.se eller gov.se</p>
           </div>
-          <label htmlFor="oldLink" className="text-500 text-xs font-light my-1 1ark:text-gray-50">
-            Länk<span className="text-red-500 dark:text-gray-50">*</span>
+          <label htmlFor="oldLink" className="text-500 text-xs font-light my-1">
+            Länk<span className="text-red-500">*</span>
           </label>
           <input
             type="text"
@@ -113,7 +113,7 @@ export default function Home() {
             }}
             name="oldLink" className={`bg-transparent border-b py-2 pl-4 rounded-md ring-1 ${!oldLink ? "ring-black" : !newLink ? "ring-red-500" : "ring-green-500"} outline-none`}
           />
-          <p className="text-xs mt-1 dark:text-gray-200">
+          <p className="text-xs mt-1">
             {latestData ? "Antal tillgängliga sidor: " + latestData.items + "." : ""}
             {latestData ? " Senast uppdaterat: " + latestData.latest_updated + "." : ""}
           </p>
@@ -135,7 +135,7 @@ export default function Home() {
             </>
           ) : (
           <div className="mt-3 flex flex-row items-center justify-start">
-            <div className="text-red-500 dark:text-gray-50">
+            <div className="text-red-500">
               {errorMessage}
             </div>
           </div>
@@ -147,13 +147,13 @@ export default function Home() {
           Vad är g0vse?
         </h1>
         <div className="mx-auto my-5 max-w-5xl">
-          <p className="m-5 text-xl text-gray-700 font-light dark:text-gray-200">
+          <p className="m-5 text-xl text-gray-700 font-light">
             g0vse som samlar in viktig information och data från regeringens webbplats och gör den tillgänglig som öppen och strukturerad data.
           </p>
-          <p className="m-5 text-xl text-gray-700 mt-0 font-light dark:text-gray-200">
+          <p className="m-5 text-xl text-gray-700 mt-0 font-light">
             Regeringen publicerar dagligen information som är av stor betydelse för oss alla. Det handlar om allt från beslut och statliga utredningar till propositioner och öppna remissförfaranden. Denna information används av tusentals tjänstepersoner, politiker, journalister, forskare, lobbyister och engagerade medborgare. Tyvärr är den ofta svår att hitta och integrera i andra digitala tjänster.
           </p>
-          <p className="m-5 text-xl text-gray-700 mt-0 font-light dark:text-gray-200">
+          <p className="m-5 text-xl text-gray-700 mt-0 font-light">
             Projektet g0vse har som mål att sänka trösklarna för återanvändning av offentlig information och dokument från regeringen, så att de blir enklare att hitta, använda och sprida.
           </p>
         </div>
@@ -163,7 +163,7 @@ export default function Home() {
           Hur kommer jag åt datat?
         </h1>
         <div className="mx-auto my-5 max-w-5xl">
-          <p className="m-5 text-xl text-gray-700 mt-0 font-light dark:text-gray-200">
+          <p className="m-5 text-xl text-gray-700 mt-0 font-light">
             Det finns flera API-anrop för att hämta listor för specifika typer av dokument eller sidor:
           </p>
           <ul className="m-5 ml-10 list-disc list-inside">
@@ -175,7 +175,7 @@ export default function Home() {
               </li>
             ))}
           </ul>
-          <p className="m-5 text-xl text-gray-700 mt-0 font-light dark:text-gray-200">
+          <p className="m-5 text-xl text-gray-700 mt-0 font-light">
             Utöver det finns det tre extra anrop:
           </p>
           <ul className="m-5 ml-10 list-disc list-inside">
@@ -189,7 +189,7 @@ export default function Home() {
               <a href={"https://g0v.se/api/latest_updated.json"} target="_blank" rel="noreferrer" className="underline text-black-700">{"/api/latest_updated.json"}</a> hämtar nyckelinformation om datat
             </li>
           </ul>
-          <p className="m-5 text-xl text-gray-700 mt-0 font-light dark:text-gray-200">
+          <p className="m-5 text-xl text-gray-700 mt-0 font-light">
             För varje kategori får man en lista av alla sidor med följande metadata:
           </p>
           <ul className="m-5 ml-10 list-disc list-inside">
@@ -212,10 +212,10 @@ export default function Home() {
               Genvägar och bilagor
             </li>
           </ul>
-          <p className="m-5 text-xl text-gray-700 mt-0 font-light dark:text-gray-200">
+          <p className="m-5 text-xl text-gray-700 mt-0 font-light">
             Till slut är det också möjligt att komma åt många enskilda sidors text i Markdown-format genom att ersätta domännamnet med g0v.se och det slutliga &quot;/&quot; med &quot;.md&quot;. <a href="#converter" className="underline text-black-700">Fältet</a> vid sidans topp kan hjälpa att utforma den nya adressen rätt.
           </p>
-          <p className="m-5 text-xl text-gray-700 mt-0 font-light dark:text-gray-200">
+          <p className="m-5 text-xl text-gray-700 mt-0 font-light">
             Allt som går att hämta finns på <a href="https://github.com/civictechsweden/g0vse/tree/data" target="_blank" rel="noreferrer" className="underline text-black-700">Github</a>.
           </p>
         </div>
@@ -225,10 +225,10 @@ export default function Home() {
           Varför inte vänta för Regeringskansliets officiella API?
         </h1>
         <div className="mx-auto my-5 max-w-5xl">
-          <p className="m-5 text-xl text-gray-700 mt-0 font-light dark:text-gray-200">
+          <p className="m-5 text-xl text-gray-700 mt-0 font-light">
             Tyvärr har många efterfrågat öppna data i många år, inklusive aktörer som Riksdagen. Men Regeringskansliet har hittills inte prioriterat det och det finns inga signaler för officiella öppna data från dem under de kommande åren.
           </p>
-          <p className="m-5 text-xl text-gray-700 mt-0 font-light dark:text-gray-200">
+          <p className="m-5 text-xl text-gray-700 mt-0 font-light">
             <a href="https://github.com/civictechsweden/g0vse" target="_blank" rel="noreferrer" className="underline text-black-700">Projektets källkod</a> är helt öppen så om de vill komma igång snabbt är de välkomna att återanvända den.
           </p>
         </div>
@@ -238,20 +238,20 @@ export default function Home() {
           Varför heter projektet g0vse?
         </h1>
         <div className="mx-auto my-5 max-w-5xl">
-          <p className="m-5 text-xl text-gray-700 mt-0 font-light dark:text-gray-200">
+          <p className="m-5 text-xl text-gray-700 mt-0 font-light">
             Efter solrosrevolutionen i Taiwan skapade digitala aktivister <a href="https://www.taiwan-panorama.com/en/Articles/Details?Guid=736828dd-9df4-48fe-9383-71a5353cf4b7" target="_blank" rel="noreferrer" className="underline text-black-700">g0v</a> (uttalas &quot;gov-zero&quot;) och mottot <a href="https://www.wired.com/story/taiwan-sunflower-revolution-audrey-tang-g0v/" target="_blank" rel="noreferrer" className="underline text-black-700">&quot;fork the government&quot;</a>. För att förbättra regeringens dåligt utformade digitala tjänster utvecklade de bättre och mer transparenta alternativ och hostade dem på g0v.tw-domänen. För att byta från de officiella webbplatserna (som slutar på gov.tw) till gräsrotsalternativen (som slutar på g0v.tw) behövde medborgarna bara ändra en bokstav i webbplatsens URL.
           </p>
-          <p className="m-5 text-xl text-gray-700 mt-0 font-light dark:text-gray-200">
+          <p className="m-5 text-xl text-gray-700 mt-0 font-light">
             I Sverige är situationen liknande. Trots vissa insatser har offentlig sektor svårt att gå från reaktiv transparens (analog offentlighetsprincip) till proaktiv transparens med öppna data. Regeringskansliet publicerar allt mer viktig information på regeringen.se, men utan API:er. Detta tvingar civilsamhället, journalister och myndigheter till manuellt arbete för att komma åt datan. Webbscrapers används ibland som lösning, men de är ofta komplexa och opålitliga.
           </p>
-          <p className="m-5 text-xl text-gray-700 mt-0 font-light dark:text-gray-200">
+          <p className="m-5 text-xl text-gray-700 mt-0 font-light">
             Målet med g0vse är att bygga den bästa webscrapern och göra data tillgänglig för alla att återanvända. Förhoppningsvis blir det ännu bättre i framtiden tack vare kollaborativt arbete. Data hämtas idag på ett respektfullt sätt utan att sätta press på regeringens webbplats och bör så småningom minska pressen på den genom att ta bort behovet för andras webscrapers.
           </p>
         </div>
       </section>
       <section>
         <div className="mx-auto my-5 max-w-5xl text-center">
-          <p className="m-5 text-m text-gray-700 mt-0 font-light dark:text-gray-200 italic">
+          <p className="m-5 text-m text-gray-700 mt-0 font-light italic">
             Denna webbsida togs fram av <a className="underline" href="https://www.linkedin.com/in/pierremesure/" target="_blank" rel="noreferrer">Pierre Mesure</a> och publiceras som <a className="underline" href="https://github.com/civictechsweden/g0vse" target="_blank" rel="noreferrer">öppen källkod</a> ❤️ (AGPLv3).
           </p>
         </div>
