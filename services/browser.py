@@ -1,6 +1,7 @@
 import json
 import time
 from camoufox.sync_api import Camoufox
+from playwright._impl._errors import TimeoutError
 
 
 class Browser:
@@ -9,8 +10,14 @@ class Browser:
 
     def get(self, url):
         page = self.browser.new_page()
-        page.goto(url)
-        source = page.content()
+
+        try:
+            page.goto(url, timeout=5000)
+            source = page.content()
+        except TimeoutError:
+            print("Timeout, waiting for 3 seconds...")
+            time.sleep(3)
+            return self.get(url)
 
         if "You are unable to access" in source:
             print("Blocked by Cloudflare, waiting 3 seconds...")
