@@ -2,6 +2,7 @@ import json
 import time
 from camoufox.sync_api import Camoufox
 from playwright._impl._errors import TimeoutError
+from playwright.sync_api import Page
 
 
 class Browser:
@@ -9,7 +10,7 @@ class Browser:
         self.browser: Camoufox = Camoufox(geoip=True, headless=True).start()
 
     def get(self, url):
-        page = self.browser.new_page()
+        page: Page = self.browser.new_page()
 
         try:
             page.goto(url, timeout=10000)
@@ -31,10 +32,11 @@ class Browser:
             print(f"404: Could not download file from {url}")
             return None
 
+        page.close()
         return source
 
     def get_json(self, url):
-        page = self.browser.new_page()
+        page: Page = self.browser.new_page()
         response = page.goto(url)
         try:
             data = response.json()
@@ -42,10 +44,11 @@ class Browser:
             if not data:
                 return {}
 
+            page.close()
             return data
         except json.decoder.JSONDecodeError:
             print("Error with response, maybe blocked by Cloudflare...")
-            print(response)
+            print(response.text())
             return {}
 
     def __del__(self):
