@@ -1,0 +1,15 @@
+# Regeringen satsar 226 miljoner på fler tjänster för allmäntjänstgöring för läkare
+
+– Denna satsning är ett viktigt steg för att säkerställa att vi har tillräckligt med specialistläkare för att möta vårdbehovet i hela landet. Genom att öka antalet tjänster för AT kan vi stärka kompetensförsörjningen och säkerställa en god och jämlik vård, säger sjukvårdsminister Acko Ankarberg Johansson.
+
+Bristen på läkare med specialistkompetens är fortsatt stor i alla regioner. En av orsakerna är att det inte finns tillräckligt med tjänster för AT. Medan antalet platser på läkarprogrammet har utökats har inte regionerna utökat tjänster för AT i tillräcklig utsträckning. Underläkare innan legitimation väntar i genomsnitt cirka 11 månader på att få göra AT.
+
+Enligt överenskommelsen God och nära vård mellan staten och Sveriges Kommuner och Regioner för 2021 behövde regioner som har få tjänster för AT i relation till antalet invånare ta ett större ansvar för att den nationella tillgången skulle möta det samlade behovet. Inom ramen för överenskommelsen tog regionerna fram ett planeringsunderlag för antal tjänster för AT under 2022–2024. Regeringen har samtidigt gett uppdrag till Socialstyrelsen att fördela 847 000 000 kronor till regionerna mellan 2022 och 2024 i syfte att öka antalet tjänster för AT. Av Socialstyrelsens redovisning av uppdragen har regionerna utökat antal AT-tjänster inom ramen för statsbidraget och i jämförelse med planeringsunderlaget.
+
+Under 2021 startade den nya 6 år långa läkarutbildningen med bastjänstgöring (BT) som en del av den nya specialiseringstjänstgöringen (ST) för läkare i Sverige. Reformen innebär att kravet på AT ska fasas ut på sikt, men de läkare som tagit examen enligt de äldre bestämmelserna för läkarexamen måste genomföra AT för att få legitimation. Under 2027 examineras de första läkarna från det nya läkarprogrammet och kommer då behöva ansöka om ST med inledande BT. För att inte BT ska bli en ny flaskhals för att få fler specialistläkare behöver regionerna tillsätta tillräckligt med ST-tjänster inklusive BT.
+
+Från 2025 och framåt saknas underlag för dimensionering av samtliga utbildningstjänster för läkare tjänster på nationell och regional nivå. Med den nya förlängda läkarutbildningen och utfasningen av den 5,5-år långa läkarutbildningen gör det svårt att utifrån idag tillgänglig information prognostisera behovet av utbildningstjänster för åren 2025–2030.
+
+Regeringen anser att det finns skäl att vidta ytterligare åtgärder för att komma till rätta med bristen på läkare med specialistkompetens. Socialstyrelsen har därför fått uppdrag att under 2025 betala ut medel till regionerna i syfte att öka antalet AT tjänster, utveckla planeringsunderlag för dimensionering av läkares utbildningstjänster och stödja regionerna i övergången till en ny utbildningsstruktur för läkare.
+
+För uppdraget får Socialstyrelsen använda totalt 229,15 miljoner kronor, inklusive 3,15 miljoner kronor för egna kostnader. Oanvända medel ska återbetalas senast den 31 mars 2026.
