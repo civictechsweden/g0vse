@@ -1,0 +1,7 @@
+# Socialtjänstministern träffade H.M. Drottningen om regeringens barnrättsarbete
+
+– Alla barn har rätt till en trygg och säker uppväxt. Barn är individer med egna rättigheter och ett tydligt barnrättsperspektiv ska genomsyra all verksamhet som rör barn. Barns bästa ska beaktas och barn har rätt att komma till tals. Det var mycket givande att möta Drottningen och redogöra för regeringens arbete för barns rättigheter. Inte minst då Drottningen har djupt och långvarigt engagemang för just barnrättsfrågor, säger socialtjänstminister Camilla Waltersson Grönvall.
+
+Målet för Sveriges barnrättspolitik är att barn och unga ska respekteras och ges möjlighet till utveckling och trygghet samt delaktighet och inflytande. 1990 ratificerade Sverige barnkonventionen och den trädde i kraft samma år. 2010 antogs Strategin för att stärka barnets rättigheter i Sverige av vilken det bland annat betonas att all lagstiftning som rör barn ska utformas i överensstämmelse med barnkonventionen. Den 1 januari 2020 inkorporerades barnkonventionen i svensk rätt.
+
+Regeringen har vidtagit en rad åtgärder för ett ökat genomslag för barnkonventionen och avser att vidta ytterligare sådana. Den 16 januari 2025 gav regeringen Statskontoret i uppdrag att följa upp regeringens strategiska arbete inom barnets rättigheter, med fokus på det arbete som genomförts med anledning av den nationella strategin. I uppdraget ingår att föreslå hur regeringen kan stärka effektiviteten och genomslaget av arbetet på statlig, regional och kommunal nivå.
