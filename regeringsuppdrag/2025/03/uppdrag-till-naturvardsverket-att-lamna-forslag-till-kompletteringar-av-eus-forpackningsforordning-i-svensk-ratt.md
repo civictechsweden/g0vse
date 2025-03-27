@@ -1,0 +1,7 @@
+# Uppdrag till Naturvårdsverket att lämna förslag till kompletteringar av EU:s förpackningsförordning i svensk rätt
+
+Regeringen ger Naturvårdsverket i uppdrag att föreslå hur det svenska regelverket ska kompletteras avseende, och i övrigt anpassas till, Europaparlamentets och rådets förordning (EU) 2025/40 av den 19 december 2024 om förpackningar och förpackningsavfall, om ändring av förordning (EU) 2019/1020 och direktiv (EU) 2019/904 och om upphävande av direktiv 94/62/EG (EU:s förpackningsförordning).
+
+Uppdraget ska delredovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 1 december 2025, när det gäller de artiklar som ska börja tillämpas senast tre år från förordningens ikraftträdande. Delredovisningen kan även omfatta förslag kopplade till artiklar som ska börja tillämpas senare, om myndigheten gör bedömningen att det är nödvändigt.
+
+Därutöver ska de artiklar som ska börja tillämpas senare än tre år från ikraftträdandet delredovisas senast den 1 december 2026. Artikel 29.15-29.16, 33.6, 43.4, 43.5, 43.7 och 43.8 får redovisas senast 1 juni 2027. De artiklar som ger medlemsstaterna handlingsutrymme att införa nationella undantag från ett krav ska redovisas i samma delredovisning som den artikel som ställer kravet. Om genomförandet bedöms kräva lagändringar, ska förslag på sådana ändringar lämnas senast den 15 augusti 2025. Uppdraget omfattar inte artikel 40.3 gällande att anmäla behörig myndighet.
