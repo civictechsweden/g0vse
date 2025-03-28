@@ -1,5 +1,24 @@
 [
     {
+        "title": "Sydsudan - avrådan",
+        "url": "/ud-avrader/sydsudan---avradan/",
+        "published": "2011-12-21",
+        "updated": "2025-03-27",
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till Sydsudan och uppmanar svenskar som befinner sig där att lämna landet.\n\nBeslut om avrådan togs den 27 mars 2025. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "2195",
+            "1295"
+        ]
+    },
+    {
         "title": "Syrien - avrådan",
         "url": "/ud-avrader/syrien---avradan/",
         "published": "2025-02-07",
@@ -395,25 +414,6 @@
         "categories": [
             "2204",
             "1053",
-            "1295"
-        ]
-    },
-    {
-        "title": "Sydsudan - avrådan",
-        "url": "/ud-avrader/sydsudan---avradan/",
-        "published": "2011-12-21",
-        "updated": "2022-12-05",
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av ett förbättrat säkerhetsläge har Utrikesdepartementet den 5 december 2022 beslutat att ändra avrådan för Sydsudan. \n\nÄndringen innebär att uppmaningen till svenska medborgare att lämna landet tas bort. \n\nUtrikesdepartementet avråder fortfarande från alla resor till hela landet. \n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "2195",
             "1295"
         ]
     },
