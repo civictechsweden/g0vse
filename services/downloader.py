@@ -25,7 +25,12 @@ class Downloader(object):
 
     def get_amount(self):
         response = self.b.get_json(REGERING_QUERY_URL + parameters(1, 1))
-        return response["TotalCount"]
+
+        if "TotalCount" in response:
+            return response["TotalCount"]
+        else:
+            print("TotalCount wasn't found. Retrying...")
+            return self.get_amount()
 
     def get_latest_items(self, amount):
         if amount > 1000:
