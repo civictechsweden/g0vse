@@ -1,0 +1,9 @@
+# Stärkt skydd för donatorer och mottagare av humanbiologiskt material
+
+– Den nya EU-förordningen innebär ett viktigt steg framåt för att säkerställa högsta möjliga kvalitet och säkerhet för humanbiologiskt material i hela EU. Donationsverksamheten bidrar till att rädda liv dagligen och förbättrar livskvaliteten för många människor. När humanmaterialförordningen ska börja tillämpas och vi genomför de anpassningar av svensk rätt som behövs, kan vi bättre skydda både donatorer och mottagare, samt säkerställa att vården håller högsta möjliga nivå, säger sjukvårdsminister Acko Ankarberg Johansson.
+
+EU:s nya förordning 2024/1938 om kvalitets- och säkerhetsstandarder för humanbiologiskt material (humanmaterialförordningen) ersätter tidigare EU-direktiv på området och ställer högre krav på kvalitet och säkerhet för humanmaterial, så som blod, vävnader och celler. Den omfattar fler humanmaterial, aktiviteter och verksamheter än tidigare regelverk. För att säkerställa en smidig och tydlig övergång för berörda verksamheter har Socialstyrelsen fått i uppdrag att utforma nödvändiga författningsförslag för att anpassa svensk rätt till humanmaterialförordningen och att genomföra en konsekvensutredning. Myndigheten ska sträva efter att förslagen minimerar den administrativa bördan för verksamheter som hanterar humanmaterial.
+
+Socialstyrelsen ska även genomföra förberedelser för att bli den nationella SoHO-myndigheten i Sverige. Det innebär bland annat att myndigheten ska kunna utföra de uppgifter som förordningen kräver på ett resurseffektivt sätt. Dialog kommer att föras med relevanta myndigheter och aktörer för att förbereda ett effektivt informationsutbyte.
+
+En delredovisning ska lämnas senast den 30 maj 2026 och en slutredovisning senast den 6 augusti 2027. För uppdraget får Socialstyrelsen använda högst 10 miljoner kronor under 2025.
