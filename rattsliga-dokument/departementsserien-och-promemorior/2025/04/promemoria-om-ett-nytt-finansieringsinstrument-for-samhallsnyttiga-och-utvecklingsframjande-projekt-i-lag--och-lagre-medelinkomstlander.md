@@ -1,0 +1,6 @@
+# Promemoria om ett nytt finansieringsinstrument för samhällsnyttiga och utvecklingsfrämjande projekt i låg- och lägre medelinkomstländer
+
+Regeringen aviserade i budgetpropositionen för 2025 om att inrätta ett nytt finansieringsinstrument för samhällsnyttiga projekt i länder som är berättigade att ta emot offentligt utvecklingsbistånd (Official Development Assistance, ODA) enligt biståndskommittén (Development Assistance Committee, DAC) vid Organisationen för ekonomiskt samarbete och utveckling (Organisation for Economic Cooperation and Development, OECD). Förslaget innebär att biståndsmedel ska kunna beslutas i kombination med en exportkredit och en exportkreditgaranti. Förslaget avser ett pilotprogram som ska löpa under fem år med början 2025.
+
+Det huvudsakliga syftet med finansieringsinstrumentet är att skapa förutsättningar för en effektiv och ändamålsenlig finansiering som bidrar till att uppnå de globala utvecklingsmålen i sektorer där företag verksamma i Sverige kan erbjuda konkurrenskraftiga varor och tjänster.
+Instrumentet är avsett att användas i projekt som saknar förutsättningar att få finansiering fullt ut på kommersiella villkor. Kombinationen med biståndsmedel ska göra det möjligt att genomföra samhällsnyttiga projekt som bidrar till att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck.
