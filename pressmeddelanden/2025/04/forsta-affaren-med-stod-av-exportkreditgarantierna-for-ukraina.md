@@ -1,0 +1,7 @@
+# Första affären med stöd av exportkreditgarantierna för Ukraina
+
+Exportkreditnämnden (EKN) har ställt ut den första exportkreditgarantin inom ramen för förordningen om särskilda exportkreditgarantier för Ukraina. Det innebär att företaget mot en avgift försäkras mot eventuella förluster i affären. EKN räknar med att fler garantier ställs ut i närtid.
+
+–     Det är glädjande att den första affären med stöd av de särskilda exportkreditgarantierna för Ukraina genomförts, och i synnerhet att ett svenskt SME är först ut. Det är många företag som vill vara med och bidra till Ukrainas återuppbyggnad och de nya exportgarantierna ska underlätta för de företagen. Det är ett viktigt steg i Sveriges arbete med att bidra till uppbyggnad av Ukraina och vi hoppas på fler affärer i närtid, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
+
+Förordningen om särskilda exportkreditgarantier för Ukraina trädde i kraft i februari 2024 och är en del av regeringens arbete med att underlätta för svenska företag att bidra till Ukraina. Målet är att fler företag ska kunna exportera till landet och därmed bidra till en hållbar uppbyggnad. Exporterande företag kan ansöka om särskilda exportkreditgarantier hos EKN för affärer som bidrar till ekonomisk och samhällelig utveckling och välfärd i Ukraina. I budgetpropositionen för 2025 sattes garantiramen till 888 miljoner kronor för särskilda exportkreditgarantier för Ukraina.
