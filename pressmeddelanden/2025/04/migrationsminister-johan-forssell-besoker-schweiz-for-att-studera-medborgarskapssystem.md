@@ -1,0 +1,5 @@
+# Migrationsminister Johan Forssell besöker Schweiz för att studera medborgarskapssystem
+
+– Regeringen genomför just nu historiska förändringar av det svenska medborgarskapet med skärpta krav på hederligt levnadssätt, egenförsörjning och språk- och samhällskunskaper. Jag vill att ett svenskt medborgarskap ska förtjänas genom egna ansträngningar. Jag ser fram emot att lära mig av Schweiz och hur de arbetar med detta, säger migrationsminister Johan Forssell.
+
+Under besöket kommer Johan Forssell att träffa företrädare för den schweiziska regeringen, myndigheter och kantonen Bern som arbetar med frågor om medborgarskap. Genom att studera andra länders framgångsrika modeller kan Sverige fortsätta att utveckla och förbättra sina egna system. Schweiz är känt för sitt effektiva system som kombinerar strikta krav för medborgarskap. Johan Forssell kommer också under besöket att träffa företrädare och studenter vid ETH Zürich och representanter för svenska företag i Schweiz. Den svenska regeringen har under de senaste åren arbetat aktivt för att uppvärdera det svenska medborgarskapet och förbättra förutsättningarna för att attrahera internationell talang.
