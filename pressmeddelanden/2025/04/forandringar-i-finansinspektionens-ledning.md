@@ -1,0 +1,11 @@
+# Förändringar i Finansinspektionens ledning
+
+– Att bedriva tillsyn över ett finansiellt system i ständig omvandling är en svår och viktig uppgift. Finansinspektionens uppdrag har blivit alltmer omfattande och Daniel Barr har bidragit på värdefulla sätt i rollen som generaldirektör. Finansinspektionen har haft att hantera en ovanlig situation vad gäller ett sanktionsärende mot Pensionsmyndigheten där Daniel Barr tidigare var generaldirektör. Det är viktigt att myndigheten kan fokusera på sitt uppdrag och upprätthåller ett grundmurat förtroende, säger finansmarknadsminister Niklas Wykman.
+
+Mot den bakgrunden har regeringen efter samråd med generaldirektör Daniel Barr beslutat att han till sommaren kommer att lämna sitt nuvarande uppdrag för att i stället utreda hur man kan stärka den svenska obligationsmarknadens funktionssätt.
+
+– Marknadsfinansiering växer i betydelse i det annars relativt bankcentrerade finansiella systemet. Det kan minska vissa risker men också föra med sig nya risker. Regelverken behöver utformas för tydlighet och motståndskraft. Daniel Barrs långa erfarenhet gör honom väl lämpad för denna uppgift, säger finansmarknadsminister Niklas Wykman.
+
+Sverige möter allvarliga utmaningar. Den senaste veckans marknadsturbulens till följd av det amerikanska tullpaketet är bara ett exempel på händelser som kräver bevakning och beredskap för eventuella åtgärder. Andra exempel är utbredd organiserad brottslighet och samtidigt ett försämrat säkerhetsläge. Att bidra till att bekämpa den kriminella ekonomin, och till att stärka svensk beredskap i en orolig tid, är prioriterade uppgifter för Finansinspektionen. Två av regeringens prioriterade områden är att bekämpa penningtvätt och att stärka den civila beredskapen inom beredskapssektorn finansiella tjänster, där Finansinspektionen är sektorsansvarig myndighet.
+
+I dag har regeringen fattat beslut om att Daniel Barr från och med den 19 juni blir generaldirektör i Regeringskansliet. Nu påbörjas rekryteringen av en ny ordinarie generaldirektör, i en öppen ansökningsprocess enligt gängse rutiner. Från och med den 19 juni till dess att en ny generaldirektör tillträder kommer myndigheten att ledas av en vikarierande generaldirektör. Vikarierande generaldirektör blir Malin Alpen, chef för verksamhetsområdet Betalningar på Finansinspektionen.

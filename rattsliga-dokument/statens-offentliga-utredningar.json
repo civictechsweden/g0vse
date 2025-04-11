@@ -1,5 +1,81 @@
 [
     {
+        "title": "Ett modernare konsumentskydd vid distansavtal, SOU 2025:34",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/04/sou-202534/",
+        "published": "2025-04-10",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1287"
+        ],
+        "summary": "Slutbetänkande av Konsumentkreditutredningen",
+        "id": "SOU 2025:34",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "SOU 2025:34 Ett modernare konsumentskydd vid distansavtal (pdf 2 MB)",
+                "url": "/contentassets/cd428ee2f5ae48c58e1f6809080d88a5/sou-202534-ett-modernare-konsumentskydd-vid-distansavtal.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1287",
+            "1240",
+            "1012"
+        ]
+    },
+    {
+        "title": "Säkrare tivoli, SOU 2025:40",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/04/sou-202540/",
+        "published": "2025-04-10",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1287"
+        ],
+        "summary": "Delbetänkande av Utredningen om En stärkt tillsyn av tivolin och en översyn av vissa uppgifter som utförs av Polismyndigheten."
+    },
+    {
+        "title": "Förbättrat stöd i skolan, SOU 2025:44",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/04/sou-202544/",
+        "published": "2025-04-10",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1294"
+        ],
+        "summary": "Delbetänkande av Utredningen om en förbättrad elevhälsa.",
+        "id": "SOU 2025:44",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Skolministern tar emot delbetänkande från Utredningen om en förbättrad elevhälsa",
+                "url": "/pressmeddelanden/2025/04/skolministern-tar-emot-delbetankande-fran-utredningen-om-en-forbattrad-elevhalsa/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Förbättrat stöd i skolan, SOU 2025:44 (pdf 1 MB)",
+                "url": "/contentassets/2cd8d2f5eb0544f3ba50d5f93087dee9/forbattrat-stod-i-skolan-sou-202544.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1294",
+            "1276"
+        ]
+    },
+    {
         "title": "Utmönstring av permanent uppehållstillstånd och vissa anpassningar till miniminivån enligt EU:s migrations- och asylpakt, SOU 2025:31",
         "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/04/sou-202531/",
         "published": "2025-04-09",
