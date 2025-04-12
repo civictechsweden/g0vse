@@ -1,5 +1,34 @@
 [
     {
+        "title": "Säkerhetsskyddslagen – ytterligare kompletteringar, SOU 2025:42",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/04/sou-202542/",
+        "published": "2025-04-11",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1287"
+        ],
+        "summary": "Betänkande av Utredningen om förbättrade möjligheter att skydda Sveriges säkerhet",
+        "id": "SOU 2025:42",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "SOU 2025:42 Säkerhetsskyddslagen – ytterligare kompletteringar (pdf 2 MB)",
+                "url": "/contentassets/41bc035164f84edb9423be9810660055/sou-202542-sakerhetsskyddslagen--ytterligare-kompletteringar.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1287",
+            "1279",
+            "2675"
+        ]
+    },
+    {
         "title": "Ett modernare konsumentskydd vid distansavtal, SOU 2025:34",
         "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/04/sou-202534/",
         "published": "2025-04-10",
@@ -40,7 +69,26 @@
         "senders": [
             "1287"
         ],
-        "summary": "Delbetänkande av Utredningen om En stärkt tillsyn av tivolin och en översyn av vissa uppgifter som utförs av Polismyndigheten."
+        "summary": "Delbetänkande av Utredningen om En stärkt tillsyn av tivolin och en översyn av vissa uppgifter som utförs av Polismyndigheten.",
+        "id": "SOU 2025:40",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Utredning föreslår åtgärder för att öka säkerheten på tivolin",
+                "url": "/pressmeddelanden/2025/04/utredning-foreslar-atgarder-for-att-oka-sakerheten-pa-tivolin/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Säkrare tivoli, SOU 2025:40 (pdf 906 kB)",
+                "url": "/contentassets/9a9111cade6a49f5aa837a8fe01b9a9f/sakrare-tivoli-sou-202540.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1287",
+            "1263"
+        ]
     },
     {
         "title": "Förbättrat stöd i skolan, SOU 2025:44",
