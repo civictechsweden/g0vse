@@ -1,0 +1,5 @@
+# Anpassning av vissa skatte- och avgiftsnedsättningar till EU:s regler om statsstöd
+
+Den 1 januari 2024 trädde en ny EU-förordning om stöd av mindre betydelse i kraft. Enligt EU-förordningen ska information om beviljat stöd av mindre betydelse från och med den 1 januari 2026 registreras i ett centralt register. Den 10 december 2024 antog Europeiska kommissionen ändringar i EU-förordningen om stöd av mindre betydelse inom jordbrukssektorn som bland annat innebär att även information om sådant beviljat stöd av mindre betydelse från och med den 1 januari 2027 ska registreras i ett centralt register.
+
+Nytt stöd av mindre betydelse ska beviljas först efter att medlemsstaten har kontrollerat att det nya stödet inte medför att det individuella takbeloppet för företaget överskrids och att samtliga villkor i den relevanta förordningen är uppfyllda. Ett antal skatte- och avgiftslättnader inom svensk lagstiftning utgör stöd av mindre betydelse. Promemorian innehåller förslag på anpassningar av svensk skattelagstiftning så att berörda lättnader ska lämnas på ett sätt som är förenligt med det EU-rättsliga regelverket.

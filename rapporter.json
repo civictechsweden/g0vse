@@ -1,5 +1,56 @@
 [
     {
+        "title": "Teknisk bilaga till Fördelningspolitisk redogörelse april 2025",
+        "url": "/rapporter/2025/04/teknisk-bilaga-till-fordelningspolitisk-redogorelse-april-2025/",
+        "published": "2025-04-15",
+        "updated": null,
+        "types": [
+            "1341"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "Denna bilaga innehåller en beskrivning av de datamaterial, modeller, metoder, begrepp och definitioner som används i 2025 års fördelningspolitiska redogörelse (prop. 2024/25:100 bilaga 2).",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Teknisk bilaga till Fördelningspolitisk redogörelse april 2025 (pdf 270 kB)",
+                "url": "/contentassets/13d4bdd8a61d4991b24be8b5da272d19/teknisk-bilaga-till-fordelningspolitisk-redogorelse-april-2025.pdf"
+            }
+        ],
+        "categories": [
+            "1341",
+            "1285",
+            "2212"
+        ]
+    },
+    {
+        "title": "Metod för regeringens bedömning av finanspolitikens långsiktiga hållbarhet",
+        "url": "/rapporter/2025/04/metod-for-regeringens-bedomning-av-finanspolitikens-langsiktiga-hallbarhet/",
+        "published": "2025-04-15",
+        "updated": null,
+        "types": [
+            "1341"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Metod för regeringens bedömning av finanspolitikens långsiktiga hållbarhet (pdf 227 kB)",
+                "url": "/contentassets/93b9af573c714d9299215255a81f9e2a/metod-for-regeringens-bedomning-av-finanspolitikens-langsiktiga-hallbarhet.pdf"
+            }
+        ],
+        "categories": [
+            "1341",
+            "1285",
+            "2212"
+        ]
+    },
+    {
         "title": "Statens ägarpolicy 2025",
         "url": "/rapporter/2025/02/statens-agarpolicy-2025/",
         "published": "2025-02-20",
