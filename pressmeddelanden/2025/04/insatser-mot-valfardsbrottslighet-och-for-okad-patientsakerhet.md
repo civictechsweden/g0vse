@@ -1,0 +1,13 @@
+# Insatser mot välfärdsbrottslighet och för ökad patientsäkerhet
+
+– Att bekämpa välfärdsbrottslighet är viktigt inte bara för att säkerställa att skattepengar inte används för att finansiera kriminell verksamhet, utan också för en patientsäker hälso- och sjukvård. Utredningen är välbehövlig och innehåller flera viktiga delar för att förhindra och motverka välfärdsbrottslighet och ge IVO de verktyg som myndigheter efterfrågar i arbetet, säger sjukvårdsminister Acko Ankarberg Johansson.
+
+– Det är djupt allvarligt när läkare – personer med ett särskilt förtroende i samhället – medvetet hjälper kriminella att plundra våra välfärdssystem. Ett falskt läkarintyg är inte bara ett papper – det är en nyckel in i välfärden och urholkar våra gemensamma skattemedel och undergräver förtroendet. Regeringen agerar nu för att sätta stopp för detta. Utredaren ska kartlägga hur arbetet för att motverka att läkarintyg utfärdas på osanna grunder ser ut idag, överväga olika lösningar för att sätta stopp för falska läkarintyg och vid behov föreslå lagändringar. Det här handlar om att försvara välfärden, säger äldre- och socialförsäkringsminister Anna Tenje.
+
+– Skatt ska gå till ett bättre samhälle, aldrig finansiera grova brott. Varje patient ska självklart vara trygg i vården, och lika odiskutabelt ska kriminella avslöjas innan ett välfärdsbrott ens hinner begås. Vi tänker sätta stopp för plundringståget genom välfärden, säger Liberalernas gruppledare Lina Nordquist.
+
+– Vi välkomnar utredningen för att stoppa den omfattande och systemhotande kriminalitet som inte bara omfattar verksamheter utan även riskerar att leda till akuta patientsäkerhetsrisker. Vi kan aldrig acceptera att det finns exempelvis vårdcentraler, vars syfte är att plundra vår gemensamma välfärd och finansiera kriminell verksamhet, säger Jessica Stegrud, socialpolitisk talesperson, Sverigedemokraterna.
+
+Att välfärdsbrottslighet drabbar svensk hälso- och sjukvården är tyvärr inte längre någon ny problematik. Det finns oseriösa och kriminella aktörer som utnyttjar Sveriges välfärdssystem vilket inte bara drabbar samhället och skattebetalare ekonomiskt, utan även leder till kvalitetsbrister som bristfällig och patientosäker hälso- och sjukvård. För att motverka detta har regeringen beslutat att utse en särskild utredare som ska utreda tillståndsplikt inom hälso- och sjukvård, ökad tillgång till information för IVO, uppgiftsskyldighet för privata vårdgivare till regionerna, stärkt arbete mot falska läkarintyg och utökade tillsynsbefogenheter för estetiska verksamheter.
+
+Uppdraget ska redovisas senast den 12 oktober 2026.
