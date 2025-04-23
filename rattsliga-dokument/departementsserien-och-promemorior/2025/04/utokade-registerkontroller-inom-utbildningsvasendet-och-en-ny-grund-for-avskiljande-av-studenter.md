@@ -1,0 +1,5 @@
+# Utökade registerkontroller inom utbildningsväsendet och en ny grund för avskiljande av studenter
+
+Regeringskansliet beslutade den 2 april 2024 att uppdra åt en utredare att biträda Utbildningsdepartementet med att dels lämna förslag om ökade möjligheter till kontroll av uppgifter i belastnings- och misstankeregistret inför och under pågående anställning inom skolväsendet och annan pedagogisk verksamhet enligt 25 kap. skollagen (2010:800), dels lämna förslag som rör införande av belastningsregisterkontroll inför antagning till vissa högskoleutbildningar och förslag som innebär ökade möjligheter att avskilja studenter i högskolan och studerande i yrkeshögskolan (U 2024:B).
+
+Denna promemoria innehåller tre separata och sinsemellan självständiga förslag. Det första förslaget rör utökade registerkontroller inom skolväsendet och annan pedagogisk verksamhet. Det andra förslaget rör införandet av belastningsregisterkontroll vid antagning till vissa högskoleutbildningar. Det tredje förslaget rör ökade möjligheter att avskilja studenter och studerande på högskolan och yrkeshögskolan.
