@@ -1,0 +1,9 @@
+# Genomförande av bestämmelser i förnybartdirektivet om tillståndsförfaranden för förnybar energi
+
+I promemorian lämnas författningsförslag som genomför bestämmelserna om tillståndsförfaranden i Europaparlamentets och rådets direktiv (EU) 2023/2413 av den 18 oktober 2023 om ändring av direktiv (EU) 2018/2001, förordning (EU) 2018/1999 och direktiv 98/70/EG vad gäller främjande av energi från förnybara energikällor, och om upphävande av rådets direktiv (EU) 2015/652. Promemorian innehåller även författningsförslag som syftar till att förenkla och förtydliga regelverket för miljöbedömning.
+
+Förslagen innebär bl.a. att det införs tidsfrister för handläggningen av ärenden som rör förnybar energi. Hur lång tid som handläggningen av ett ärende får pågå beror på vilken typ av anläggning för produktion av förnybar energi som avses i en tillståndsansökan och varierar mellan en månad och tre år. Vidare föreslås nya bestämmelser som innebär att en verksamhet eller åtgärd för förnybar energi ska ges en större tyngd vid den bedömning som ska som ska göras enligt 7 kap. miljöbalken av om en verksamhet eller åtgärd genomförs av orsaker som har ett allt överskuggande allmänintresse. Det föreslås även nya bestämmelser i lagen om vissa rörledningar, lagen om Sveriges ekonomiska zon, lagen om kontinentalsockeln och naturgaslagen som innebär att en specifik miljöbedömning bara ska behöva göras en gång för en verksamhet eller åtgärd för förnybar energi. Om en specifik miljöbedömning som avser en verksamhet eller åtgärd för förnybar energi har slutförts i ett mål eller ärende om tillstånd enligt miljöbalken ska den gälla även i tillståndsärenden enligt dessa lagar.
+
+Det föreslås därutöver bestämmelser som syftar till att förbättra det underlag som tas fram inför ett avgränsningssamråd. Bestämmelserna gäller för alla typer av verksamheter och inte bara för förnybar energi.
+
+Författningsändringarna föreslås träda i kraft den 1 januari 2026.
