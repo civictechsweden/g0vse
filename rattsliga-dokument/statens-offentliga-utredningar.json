@@ -1,5 +1,33 @@
 [
     {
+        "title": "Spänning i tillvaron, SOU 2025:47",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/04/sou-202547/",
+        "published": "2025-04-24",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1291"
+        ],
+        "summary": "– hur säkrar vi vår framtida elförsörjning?",
+        "id": "SOU 2025:47",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Spänning i tillvaron – hur säkrar vi vår framtida elförsörjning?, SOU 2025:47 (pdf 7 MB)",
+                "url": "/contentassets/afe8f043159c4da084fca6590e01c203/spanning-i-tillvaron--hur-sakrar-vi-var-framtida-elforsorjning-sou-202547.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1291",
+            "1226"
+        ]
+    },
+    {
         "title": "Säkerhetspolisens behandling av personuppgifter, SOU 2025:49",
         "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/04/sou-202549/",
         "published": "2025-04-23",
@@ -42,7 +70,30 @@
         "senders": [
             "1292"
         ],
-        "summary": "Utredningen om stärkt framtida smittskydd har sett över regleringen av smittskydd för att bättre anpassa den till situationer med omfattande smittspridning."
+        "summary": "Utredningen om stärkt framtida smittskydd har sett över regleringen av smittskydd för att bättre anpassa den till situationer med omfattande smittspridning.",
+        "id": "SOU 2025:48",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Socialministern tog emot utredning om stärkt pandemiberedskap",
+                "url": "/pressmeddelanden/2025/04/socialministern-tog-emot-utredning-om-starkt-pandemiberedskap/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Stärkt pandemiberedskap, SOU 2025:48, Vol 1 (pdf 6 MB)",
+                "url": "/contentassets/01fa3f2b57e74de4b1408749a652da04/sou-2025_48_vol-1_pdf-a_webb.pdf"
+            },
+            {
+                "name": "Stärkt pandemiberedskap, SOU 2025:48, Vol 2 (pdf 4 MB)",
+                "url": "/contentassets/01fa3f2b57e74de4b1408749a652da04/sou-2025_48_vol-2_pdf-a_webb.pdf"
+            }
+        ],
+        "categories": [
+            "1324",
+            "1331",
+            "1292",
+            "1233"
+        ]
     },
     {
         "title": " Säkerställ tillgången till läkemedel,  SOU 2025:43",
