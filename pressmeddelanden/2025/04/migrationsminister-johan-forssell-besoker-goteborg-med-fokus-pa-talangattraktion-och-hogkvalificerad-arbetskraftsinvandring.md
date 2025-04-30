@@ -1,0 +1,5 @@
+# Migrationsminister Johan Forssell besöker Göteborg med fokus på talangattraktion och högkvalificerad arbetskraftsinvandring
+
+Syftet med besöket är att migrationsministern ska ta del av hur verksamheterna arbetar med talangattraktion och högkvalificerad spetskompetens. Under besöket på Västsvenska Handelskammaren kommer migrationsministern att få en presentation av Move to Gothenburgs verksamhet och diskutera strategiska åtgärder för att attrahera och behålla internationell kompetens. Vid mötet deltar både representanter från näringslivet och lärosätena i regionen. Migrationsministern besöker även GoCo House som arbetar med att skapa en live-science statsdel samt International House Gothenburg som är en mötesplats för internationella talanger som har flyttat till Göteborg. Under besöken kommer migrationsministern få en inblick i de utmaningar och möjligheter som finns inom talangattraktion och att ta del av goda exempel från regionen.
+
+För ytterligare information eller intervjuförfrågningar, vänligen kontakta pressekreterare.
