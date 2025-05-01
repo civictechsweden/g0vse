@@ -1,0 +1,7 @@
+# Sveriges och Finlands försörjningsberedskap på agendan när Näringslivsrådet besökte Helsingfors
+
+Den 22–23 april besökte det tvärsektoriella näringslivsrådet för totalförsvar och krisberedskap Finland tillsammans med H.K.H. Kronprinsessan Victoria. Minister för civilt försvar Carl-Oskar Bohlin, försvarsminister Pål Jonson och Daniel Liljeberg, statssekreterare hos landsbygdsminister Peter Kullgren, representerade regeringen.
+
+Syftet med besöket var att få en insyn i hur Finland arbetar med privat-offentlig samverkan och att utbyta erfarenheter kring försörjningsberedskap mellan deltagarna i Sveriges och Finlands respektive råd. Näringslivsrådet leds av minister för civilt försvar Carl-Oskar Bohlin och på resan deltog även försvarsminister Pål Jonson och Daniel Liljeberg, statssekreterare hos landsbygdsminister Peter Kullgren.
+
+Den 22 april höll den svenska ambassaden en middag med den svenska delegationen och det finska försörjningsberedskapsrådet. Därefter genomfördes den 23 april en konferens på Hanaholmens kulturcentrum där statsråden Pål Jonson och Carl-Oskar Bohlin talade liksom även Finlands näringsminister Wille Rydman och den finska Försörjnings­beredskaps­centralen verkställande direktör Janne Känkänen. Försörjningsberedskapscentralen presenterade det finska systemet och därefter utbytte deltagarna i Sveriges och Finlands respektive råd erfarenheter kring försörjnings­beredskap och privat-offentlig samverkan. Den svenska delegationen gjorde också ett studiebesök tillsammans den finska Försörjnings­beredskaps­centralen.
