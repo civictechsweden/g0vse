@@ -1,0 +1,7 @@
+# Sverige ökar stödet till oberoende media med 70 miljoner kronor
+
+–  Att stärka yttrandefrihet och demokrati är en viktig del av regeringens reformagenda för biståndet. Stödet till OCCRP är en del av detta arbete, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
+
+Organisationen arbetar specifikt med att stötta journalister och försvarare av mänskliga fri- och rättigheter i repressiva miljöer, inte minst i Ukraina, där organisationens arbete har bidragit till framtagande av analys och underlag för sanktionerna mot Ryssland. USA:s biståndspaus har slagit hårt mot OCCRP som tidigare fick över en tredjedel av sina medel från USA. Sverige går nu in och täcker en stor del av den minskningen. Att fortsätta att stötta mänskliga rättigheter och demokratiska krafter såsom oberoende media i utsatta miljöer är en central del av Sveriges långsiktiga demokratistöd. Detta gäller i synnerhet i Ukraina och övriga Östeuropa, som ständigt utsätts för ryska desinformationskampanjer och andra påverkansförsök.
+
+Sverige har även tidigare ökat stödet till andra organisationer som också stöttar oberoende journalister runt om i världen. Under 2024 beslutade regeringen om utökat stöd till två organisationer som arbetar specifikt med att stötta journalister och försvarare av mänskliga fri- och rättigheter i repressiva miljöer, inklusive i Östeuropa. Stödet till European Endowment for Democracy (EED) ökade från 20 till 35 miljoner kronor och stödet till Prague Civil Society Centre (Pragcentret) fördubblades från 10 till 20 miljoner kronor.
