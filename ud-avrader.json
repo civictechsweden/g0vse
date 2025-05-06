@@ -1,5 +1,24 @@
 [
     {
+        "title": "Moçambique - avrådan",
+        "url": "/ud-avrader/mocambique---avradan/",
+        "published": "2025-05-05",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från icke nödvändiga resor till provinsen Cabo Delgado, distrikten Erati och Memba i provinsen Nampula och distriktet Mecula i provinsen Niassa i Moçambique.\n\nBeslut om avrådan togs den 5 maj 2025. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1133",
+            "1295"
+        ]
+    },
+    {
         "title": "Etiopien – avrådan",
         "url": "/ud-avrader/etiopien---avradan/",
         "published": "2023-10-30",
@@ -110,25 +129,6 @@
         "categories": [
             "2204",
             "1156",
-            "1295"
-        ]
-    },
-    {
-        "title": "Moçambique - avrådan",
-        "url": "/ud-avrader/mocambique---avradan/",
-        "published": "2024-12-13",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder UD från icke nödvändiga resor till hela Moçambique.\n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1133",
             "1295"
         ]
     },
