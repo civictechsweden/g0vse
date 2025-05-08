@@ -1,5 +1,43 @@
 [
     {
+        "title": "Pakistan - avrådan",
+        "url": "/ud-avrader/pakistan---avradan/",
+        "published": "2025-05-07",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till provinserna Khyber-Pakhtunkhwa och Baluchistan i Pakistan (beslutat den 24 januari 2005), från alla resor till den Pakistan-kontrollerade delen av Kashmir, samt från alla resor inom 10 km från gränsen mellan Pakistan och Indien (beslutat den 7 maj 2025).\n\nAvrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1145",
+            "1295"
+        ]
+    },
+    {
+        "title": "Indien - avrådan",
+        "url": "/ud-avrader/indien---avradan/",
+        "published": "2025-05-07",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till det indiska unionsterritoriet Jammu och Kashmir samt från alla resor inom 10 km från gränsen mellan Indien och Pakistan.\n\nBeslut om avrådan togs den 7 maj 2025. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1078",
+            "1295"
+        ]
+    },
+    {
         "title": "Moçambique - avrådan",
         "url": "/ud-avrader/mocambique---avradan/",
         "published": "2025-05-05",
@@ -608,25 +646,6 @@
         ]
     },
     {
-        "title": "Indien - avrådan",
-        "url": "/ud-avrader/indien---avradan/",
-        "published": "2015-02-10",
-        "updated": "2021-12-02",
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från icke nödvändiga resor till och genom det indiska unionsterritoriet Jammu och Kashmir.\n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1078",
-            "1295"
-        ]
-    },
-    {
         "title": "Tanzania - avrådan",
         "url": "/ud-avrader/tanzania---avradan/",
         "published": "2021-09-23",
@@ -850,25 +869,6 @@
         "categories": [
             "2204",
             "1061",
-            "1295"
-        ]
-    },
-    {
-        "title": "Pakistan - avrådan",
-        "url": "/ud-avrader/pakistan---avradan/",
-        "published": "2015-02-10",
-        "updated": "2018-05-21",
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet sedan den 24 januari 2005 från alla resor till provinserna Khyber-Pakhtunkhwa och Baluchistan.\n\nFrån och med 21 maj 2018 omfattas inte övriga Pakistan av avrådan.\n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1145",
             "1295"
         ]
     },
