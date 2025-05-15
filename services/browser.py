@@ -19,6 +19,10 @@ class Browser:
             print("Timeout, waiting for 3 seconds...")
             time.sleep(3)
             return self.get(url)
+        except TimeoutError as e:
+            print("Unknown exception, exiting...")
+            print(e)
+            return None
 
         if "You are unable to access" in source:
             print("Blocked by Cloudflare, waiting 3 seconds...")

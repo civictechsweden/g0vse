@@ -32,17 +32,26 @@ if just_fetch_new:
     print(f"Found {len(codes)} existing codes.")
 
     delta = timer.get_delta()
-    to_fetch = abs(amount_online - amount_saved) + 10 + 5 * (delta - 1)
+    to_fetch = abs(amount_online - amount_saved) + 10 + 5 * (delta + 180 - 1)
 
 print(f"Fetching the latest {to_fetch} items...")
 new_items, new_codes = downloader.get_latest_items(to_fetch)
 
 if just_fetch_new:
     new_items = [
-        i for i in new_items if Downloader.last_updated(i) > timer.day_before()
+        i
+        for i in new_items
+        if Downloader.last_updated(i) > timer.day_before()
+        or (
+            "/remisser/" in i["url"]
+            and not i["updated"]
+            and Downloader.last_updated(i) > timer.six_months_before()
+        )
     ]
     new_items.reverse()
     new_urls = [item["url"] for item in new_items]
+
+    print(f"Updating the content of {len(new_urls)} pages...")
 
     to_remove = []
 

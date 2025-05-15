@@ -3,7 +3,6 @@ from zoneinfo import ZoneInfo
 
 
 class Timer(object):
-
     def __init__(self):
         date = datetime.now(ZoneInfo("Europe/Stockholm"))
         self.start = date
@@ -16,6 +15,9 @@ class Timer(object):
 
     def day_before(self):
         return str(self.latest_update - timedelta(days=1))
+
+    def six_months_before(self):
+        return str(self.latest_update - timedelta(days=180))
 
     def start_string(self):
         return self.start.strftime("%Y-%m-%d %H:%M:%S")
