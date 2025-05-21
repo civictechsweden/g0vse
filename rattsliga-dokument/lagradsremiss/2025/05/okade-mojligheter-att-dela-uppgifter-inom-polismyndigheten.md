@@ -1,0 +1,11 @@
+# Ökade möjligheter att dela uppgifter inom Polismyndigheten
+
+En viktig del av Polismyndighetens underrättelseverksamhet handlar om att inhämta, bearbeta och analysera information. Sådan information är många gånger avgörande för att Polismyndigheten ska kunna förebygga och förhindra allvarliga brott. Samtidigt som inflödet av information ständigt ökar innebär nuvarande regelverk om Polismyndighetens personuppgiftshantering omotiverade hinder för myndighetens underrättelseverksamhet.
+
+Regeringen föreslår därför bl.a. följande förändringar av regelverket:
+
+* Den så kallade fåtalsregeln ska utvidgas, så att uppgifter inte anses gemensamt tillgängliga om endast en särskilt avgränsad krets personer inom myndigheten har rätt att ta del av dem.
+* Fler uppgifter ska få göras gemensamt tillgängliga i Polismyndig-hetens underrättelseverksamhet.
+* Kravet på att gemensamt tillgängliga uppgifter i vissa fall ska förses med särskilda upplysningar ska endast gälla så långt det är möjligt. Vidare ska en generell undantagsregel införas för när en sådan upplysningsskyldighet inte ska gälla.
+
+Lagändringarna föreslås träda i kraft den 1 december 2025.

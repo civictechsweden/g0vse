@@ -1,5 +1,56 @@
 [
     {
+        "title": "Kommenterad dagordning inför Allmänna rådet den 27 maj 2025",
+        "url": "/kommenterade-dagordningar/2025/05/kommenterad-dagordning-den-27-maj-2025/",
+        "published": "2025-05-20",
+        "updated": null,
+        "types": [
+            "2098"
+        ],
+        "senders": [],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "KDO Allmänna rådets möte den 27 maj 2025 (pdf 144 kB)",
+                "url": "/contentassets/c30d4265db3c428aa3a8ceaf293ff3d4/kdo-allmanna-radets-mote-den-27-maj-2025.pdf"
+            }
+        ],
+        "categories": [
+            "2098",
+            "1235",
+            "1257",
+            "1012"
+        ]
+    },
+    {
+        "title": "Kommenterad dagordning inför konkurrenskraftsrådet den 22 maj 2025",
+        "url": "/kommenterade-dagordningar/2025/05/kommenterad-dagordning-infor-konkurrenskraftsradet-den-22-maj/",
+        "published": "2025-05-20",
+        "updated": null,
+        "types": [
+            "2098"
+        ],
+        "senders": [
+            "1291"
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Kommenterad dagordning inför konkurrenskraftsrådet den 22 maj 2025 (pdf 181 kB)",
+                "url": "/globalassets/regeringen/dokument/klimat--och-naringslivsdepartementet/dokument/kommenterad-dagordning-infor-konkurrenskraftsradet-den-22-maj-2025.pdf"
+            }
+        ],
+        "categories": [
+            "2098",
+            "1291",
+            "1257",
+            "2211",
+            "1012"
+        ]
+    },
+    {
         "title": "Kommenterad dagordning inför jordbruks- och fiskerådet 26 maj 2025",
         "url": "/kommenterade-dagordningar/2025/05/kommenterad-dagordning-infor-jordbruks--och-fiskeradet-26-maj-2025/",
         "published": "2025-05-19",
