@@ -1,5 +1,24 @@
 [
     {
+        "title": "Ukraina - avrådan",
+        "url": "/ud-avrader/ukraina---avradan/",
+        "published": "2025-05-23",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från icke nödvändiga resor till följande regioner: Lviv, Transkarpatien, Ivano-Frankivsk, Ternopil, Tjernivtsi, Volyn, Rivne, Zjytomyr, Chmelnytskyj och Vynnytsia. \n \nUtrikesdepartementet avråder från alla resor till övriga delar av Ukraina.\nBeslut om avrådan togs den 23 maj 2025. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1198",
+            "1295"
+        ]
+    },
+    {
         "title": "Pakistan - avrådan",
         "url": "/ud-avrader/pakistan---avradan/",
         "published": "2025-05-07",
@@ -604,25 +623,6 @@
         "categories": [
             "2204",
             "1206",
-            "1295"
-        ]
-    },
-    {
-        "title": "Ukraina - avrådan",
-        "url": "/ud-avrader/ukraina---avradan/",
-        "published": "2015-02-10",
-        "updated": "2022-02-12",
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av den allvarliga och oförutsägbara säkerhetssituationen i landet och dess närområde har UD den 12 februari 2022  beslutat att avråda från alla resor till Ukraina samt att uppmana svenskar som befinner sig i Ukraina att lämna landet.\n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1198",
             "1295"
         ]
     },
