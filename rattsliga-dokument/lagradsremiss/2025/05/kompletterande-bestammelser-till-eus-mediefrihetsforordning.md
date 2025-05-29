@@ -1,0 +1,9 @@
+# Kompletterande bestämmelser till EU:s mediefrihetsförordning
+
+I lagrådsremissen föreslås en ny lag med kompletterande bestämmelser till EU:s mediefrihetsförordning. Lagen innehåller de bestämmelser som krävs för att mediefrihetsförordningen ska kunna tillämpas och få ett effektivt genomslag i Sverige.
+
+Det föreslås att aktörer som tillhandahåller information enligt EU-förordningen ska lämna denna information och en uppgift om var den finns tillgänglig till tillsynsmyndigheten. I lagen föreslås också bestämmelser om bedömningar av företagskoncentrationer på mediemarknaden och om tillsyn. Därutöver föreslås bestämmelser om tillsynsmyndighetens befogenheter och överklagande av myndighetens beslut.
+
+I lagrådsremissen föreslås även en lag om ändring av den nya lagen. Ändringarna beror på att vissa bestämmelser i förordningen ska börja tillämpas vid en senare tidpunkt.
+
+Den nya lagen föreslås träda i kraft den 1 januari 2026 och ändringarna i lagen föreslås träda i kraft den 8 maj 2027.

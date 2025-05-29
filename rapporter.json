@@ -1,5 +1,43 @@
 [
     {
+        "title": "Sveriges digitaliseringsstrategi 2025–2030",
+        "url": "/rapporter/2025/05/sveriges-digitaliseringsstrategi-20252030/",
+        "published": "2025-05-28",
+        "updated": null,
+        "types": [
+            "1341"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "Digitaliseringsstrategin syftar till att ange en tydlig inriktning för regeringens digitaliseringspolitik genom att identifiera utmaningar och ange målsättningar inom ett antal strategiskt viktiga områden.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Ny riktning för Sveriges digitaliseringspolitik",
+                "url": "/pressmeddelanden/2025/05/ny-riktning-for-sveriges-digitaliseringspolitik/"
+            },
+            {
+                "name": "Tema: Digitaliseringsstrategin 2025-2030",
+                "url": "/regeringens-politik/digitaliseringsstrategin-2025-2030/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Sveriges digitaliseringsstrategi 2025–2030 (pdf 4 MB)",
+                "url": "/contentassets/fe3e296228fb474f803a986ae3842b4c/sveriges-digitaliseringsstrategi-20252030.pdf"
+            }
+        ],
+        "categories": [
+            "1341",
+            "1285",
+            "1296",
+            "1238",
+            "2790"
+        ]
+    },
+    {
         "title": "Sveriges lägesrapport 2025",
         "url": "/rapporter/2025/05/sveriges-lagesrapport-2025/",
         "published": "2025-05-02",
