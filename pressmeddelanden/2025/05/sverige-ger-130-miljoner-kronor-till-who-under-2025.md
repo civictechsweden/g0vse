@@ -1,0 +1,9 @@
+# Sverige ger 130 miljoner kronor till WHO under 2025
+
+– Det globala hälsoarbetet står just nu inför stora utmaningar. Genom ett nytt svenskt stöd till WHO kan de utöka sitt viktiga arbete för att stärka hälso- och sjukvårdssystem samt öka tillgången till vaccinationer. I en tid med omfattande humanitära och hälsorelaterade kriser står Sverige bakom WHO och deras viktiga arbete, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
+
+Beslutet innebär att Sveriges frivilliga stöd till WHO kommer att uppgå till 130 miljoner kronor under 2025, utöver den årliga medlemsavgiften. Sveriges frivilliga bidrag ges i syfte att stötta WHO i deras prioriterade arbete med att bekämpa spridningen av smittsamma sjukdomar, stärka hälso- och sjukvårdssystem samt säkerställa alla individers fulla åtnjutande av sexuell och reproduktiv hälsa (SRHR). Det svenska bidraget stärker även WHO:s normativa och kunskapsgenererande arbete inom prioriterade områden som bekämpningen av antimikrobiell resistens och ökad tillgång till vaccinationer, vilket är av stor vikt för Sverige. WHO innehar dessutom en viktig roll i det globala humanitära systemet som samordnare inom hälsoområdet, inte minst i Ukraina.
+
+– WHO är en central aktör i arbetet med att främja en god hälsa för alla människor, I takt med att globala hälsoutmaningar växer är WHO:s samordnande roll avgörande. Sverige ger nu ett kraftfullt frivilligt bidrag till WHO under 2025 för att stärka arbetet med att förebygga infektioner och sjukdomar, vilket inte minst är viktigt i kampen mot antibiotikaresistens, säger socialminister Jakob Forssmed.
+
+WHO:s arbete gör skillnad för miljarder människor runt om i världen, särskilt de som lever i svår fattigdom och utsatthet. Med Sveriges stöd kan organisationen accelerera sitt reformarbete och fokusera på främjandet av hälsa och förebyggandet av sjukdomar.
