@@ -1,5 +1,24 @@
 [
     {
+        "title": "Demokratiska republiken Kongo - avrådan",
+        "url": "/ud-avrader/demokratiska-republiken-kongo/",
+        "published": "2025-06-03",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till provinserna Syd Ubangi, Nord Ubangi, Bas Uele, Haut Uele, Ituri, Nordkivu, Sydkivu, Maniema, Tanganyika, Kasaï och Kasaï Central i Demokratiska Republiken Kongo.\n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till övriga delar av landet.\n\nBeslut om avrådan togs den 3 juni 2025. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1048",
+            "1295"
+        ]
+    },
+    {
         "title": "Ukraina - avrådan",
         "url": "/ud-avrader/ukraina---avradan/",
         "published": "2025-05-23",
@@ -148,25 +167,6 @@
         "categories": [
             "2204",
             "1147",
-            "1295"
-        ]
-    },
-    {
-        "title": "Demokratiska republiken Kongo - avrådan",
-        "url": "/ud-avrader/demokratiska-republiken-kongo/",
-        "published": "2025-02-07",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder UD från alla resor till hela Demokratiska republiken Kongo. \nBeslut om avrådan togs den 7 februari 2025. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1048",
             "1295"
         ]
     },
