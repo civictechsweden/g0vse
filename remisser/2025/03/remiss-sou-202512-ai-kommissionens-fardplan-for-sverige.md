@@ -1,5 +1,3 @@
 # Remiss SOU 2025:12 AI-kommissionens Färdplan för Sverige
 
-Här kan du ta del av till vilka instanser som regeringen har remitterat SOU 2025:12 AI-kommissionens Färdplan för Sverige.
-
-Remissvaren ska ha kommit in till Finansdepartementet senast den 4 juni 2025.
+Här kan du ta del av svaren från dem som har ombetts att svara på remissen SOU 2025:12 AI-kommissionens Färdplan för Sverige. Övriga yttranden finns tillgängliga i departementet.
