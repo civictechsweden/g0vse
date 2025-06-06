@@ -1,0 +1,7 @@
+# Förbättrade ränteavdragsregler för företag
+
+Regeringen föreslår enklare och förbättrade regler om ränteavdrag för företag.
+
+Företag som kan lämna koncernbidrag till varandra eller ta emot koncernbidrag från varandra ska kunna beräkna avdrag för negativt räntenetto gemensamt och på ett mer effektivt sätt. De ska ses som en och samma beräkningsenhet. Huvudregeln justeras så att varken koncernbidrag eller tidigare års underskott ska beaktas vid beräkningen av ett företags avdragsunderlag. Förenklingsregelns beloppsgräns för avdrag höjs från 5 till 25 miljoner kronor. Tidsgränsen för avdrag för kvarstående negativt räntenetto slopas. Detta medför att kvarstående negativt räntenetto fastställs årligen. Rätten att dra av ett sådant kvarstående negativt räntenetto utökas så att det kan dras av mot positivt räntenetto och inom ramen för förenklingsregelns beloppsgräns. De riktade ränteavdrags-reglerna, som begränsar rätten till avdrag för ränteutgifter på vissa skulder till företag i en intressegemenskap, anpassas till EU-rätten genom att ränteutgifter till ett företag i samma intressegemenskap som hör hemma inom Europeiska ekonomiska samarbetsområdet inte får dras av om skuldförhållandet ingår i ett konstlat upplägg. Det föreslås även ändringar i reglerna om uppgiftsskyldighet, efterbeskattning och skattetillägg med anledning av det nya regelverket. Vidare föreslås vissa justeringar som gäller skattetillägg vid underskott av näringsverksamhet.
+
+Ändringarna föreslås träda i kraft den 1 januari 2026.
