@@ -1,7 +1,7 @@
 import re
 
-from .new_chain_parser import extract_new_chains
-from .old_chain_parser import extract_old_chains
+# from .new_chain_parser import extract_new_chains
+# from .old_chain_parser import extract_old_chains
 from .redirecter import get_final_url
 
 from bs4 import BeautifulSoup
@@ -130,20 +130,20 @@ def extract_metadata(soup):
 
 
 def extract_shortcuts(soup):
-    h2 = soup.find("h2", text="Genvägar")
+    h2 = soup.find(lambda tag: tag.name == "h2" and "Genväg" in tag.string)
 
     if h2:
         return [
             {"name": a.text, "url": a["href"]}
             for a in h2.find_parent("div").find_all("a")
-            if not is_attachment(a["href"])
         ]
 
     return []
 
 
 def extract_attachments(soup):
-    links = soup.find_all("a", href=lambda href: href and is_attachment(href))
+    col_1 = soup.select_one("div.col-1")
+    links = col_1.find_all("a")
 
     return [{"name": link.text, "url": link["href"]} for link in links]
 
