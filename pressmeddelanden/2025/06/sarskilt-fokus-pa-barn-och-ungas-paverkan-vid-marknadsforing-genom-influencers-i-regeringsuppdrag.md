@@ -1,0 +1,13 @@
+# Särskilt fokus på barn och ungas påverkan vid marknadsföring genom influencers i regeringsuppdrag
+
+Nästan alla barn och unga i Sverige använder och tillbringar mycket tid på sociala medieplattformar, där de nås av reklam och köpuppmaningar som är mer eller mindre tydliga, inte minst i form av influencer marketing. Att plattformarna fyller viktiga sociala funktioner gör att de kommersiella budskapen blir extra kraftfulla. Det har också en direkt påverkan på barns och ungas förmåga att förhålla sig kritiskt och värja sig mot budskapen.
+
+− Influencers som gör reklam behöver granskas ytterligare, inte minst mot bakgrund av att barn och unga ofta är mottagare. Det kan vara svårt att förstå att det handlar om just reklam när budskapet kommer från någon som man ser upp till, särskilt för yngre personer. Algoritmer, filterbubblor och mängden innehåll på sociala medier kan samtidigt göra det ännu svårare att se igenom oseriös marknadsföring, jämfört med exempelvis en reklampaus på TV eller en affisch ute på gatan, säger civilminister Erik Slottner.
+
+−Varje dag möts barn av ett ständigt flöde av skönhetsprodukter och content som riskerar att bidra till sämre självkänsla och kroppsuppfattning. Sex av 10 tjejer i årskurs 7 uppger att de upptäckt nya fel på sin kropp via bilder på sociala medier. Det finns en destruktiv symbios mellan sociala mediejättar, skönhetsindustrin och influensers och nu ser vi över de kryphål som kan finnas i lagstiftningen för att kunna få ett ännu starkare skydd för barn och unga, säger socialminister Jakob Forssmed.
+
+Konsumentverket ska redovisa hur myndigheten utövat tillsyn över marknadsföring som bedrivs av influencers och hur de informerat aktörer i branschen om vilka regler som gäller. Konsumentverket ska också förstärka insatserna riktade till barn och unga och bedöma om ytterligare stöd och vägledning till företag och influencers kan bidra till ett stärkt konsumentskydd och ta fram sådant material. Slutligen ska Konsumentverket bedöma om det finns brister i konsumentskyddet och redovisa vilka ändringar i regelverket som myndigheten ser behov av.
+
+− Barn och unga är särskilt sårbara för dolda reklambudskap i sociala medier, och det är vårt ansvar att skydda dem från kommersiella påtryckningar som påverkar deras självbild och konsumtionsmönster. Genom att skärpa tillsynen och öka kunskapen om regelverket vill vi skapa en tryggare digital miljö för våra unga, fri från vilseledande marknadsföring, säger jämställdhets-och arbetslivsminister Nina Larsson.
+
+Det finns många aktörer som är involverade i marknadsföring genom influencers. Så väl företag som anlitar eller förmedlar influencers och eventuella andra mellanhänder och aktörer har ansvar för att marknadsföringen är förenlig med gällande regler.
