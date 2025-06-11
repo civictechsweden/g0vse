@@ -1,6 +1,6 @@
 # Regeringen stärker stödet till våldsutsatta barn
 
-Regeringen ger därför Myndigheten för familjerätt och föräldraskapsstöd och Barnombudsmannen i uppdrag att utveckla föräldraskapsstöd samt identifiera kontaktvägar för barn som utsatts för våld i partnerrelation, sexuellt våld eller sexuell exploatering.
+Regeringen ger därför Myndigheten för familjerätt och föräldraskapsstöd i uppdrag att utveckla föräldraskapsstöd samt Barnombudsmannen i uppdrag att identifiera kontaktvägar för barn som utsatts för våld i partnerrelation, sexuellt våld eller sexuell exploatering
 
   - Barn och unga som utsatts för våld behöver tydliga kontaktvägar till hjälp. Föräldrar utgör ett viktigt stöd här – men de behöver också hjälp för att förstå och agera, säger jämställdhets- och arbetslivsminister Nina Larsson.
 
