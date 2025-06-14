@@ -1,0 +1,11 @@
+[project]
+name = "g0vse"
+description = "Making the Swedish government's website (regeringen.se) accessible as open data."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "camoufox[geoip]>=0.4.11",
+    "fake-useragent>=2.2.0",
+    "markdownify>=1.1.0",
+]

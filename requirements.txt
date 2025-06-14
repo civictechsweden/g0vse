@@ -1,4 +1,0 @@
-beautifulsoup4==4.13.3
-fake-useragent==2.1.0
-markdownify==1.1.0
-camoufox[geoip]
