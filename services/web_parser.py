@@ -7,43 +7,40 @@ from .redirecter import get_final_url
 from bs4 import BeautifulSoup
 from markdownify import MarkdownConverter
 
+NEWLINES_RE = re.compile(r"\n{3,}")
+MD_CONVERTER = MarkdownConverter(heading_style="ATX")
+
 
 def get_document_list(response):
-    documents = []
-
-    if "Message" not in response:
+    message = response.get("Message")
+    if not message:
         return None, None
 
-    soup = BeautifulSoup(response["Message"], "html.parser")
-    blocks = soup.select("div.sortcompact")
-    codes = {}
+    soup = BeautifulSoup(message, "html.parser")
+    documents, codes = [], {}
 
-    for block in blocks:
+    for block in soup.select("div.sortcompact"):
         try:
-            url = block.find("a")["href"]
-            url = get_final_url(url) if ".aspx" in url else url
+            a_tag = block.find("a")
+            url = a_tag["href"]
+            url = get_final_url(url) if url.endswith(".aspx") else url
+            title = a_tag.get_text(strip=True)
 
-            title = block.find("a").text
-            dates = [t["datetime"] for t in block.select("time")]
-            published = dates[0] if dates else None
-            updated = dates[1] if len(dates) > 1 else None
+            times = [t["datetime"] for t in block.select("time")]
+            published, updated = (times + [None, None])[:2]
 
             ps = block.select("p")
-            is_sender = False
             types = []
             senders = []
+            is_sender = False
 
             for content in ps[-1].contents:
                 if isinstance(content, str) and "från" in content:
                     is_sender = True
-                elif content.name == "a":
+                elif getattr(content, "name", None) == "a":
                     code, name = extract_from_link(content)
-                    codes[code] = name
-
-                    if is_sender:
-                        senders.append(code)
-                    else:
-                        types.append(code)
+                    codes.setdefault(code, name)
+                    (senders if is_sender else types).append(code)
 
             document = {
                 "title": title,
@@ -55,9 +52,10 @@ def get_document_list(response):
             }
 
             if len(ps) > 1:
-                document["summary"] = ps[0].text.strip()
+                document["summary"] = ps[0].get_text(strip=True)
 
             documents.append(document)
+
         except Exception as e:
             print(e)
             print(soup)
@@ -70,10 +68,6 @@ def extract_from_link(link):
     return str(link["href"].split("/")[-1]), link.text
 
 
-def is_attachment(url):
-    return url.startswith("/contentassets/") or url.startswith("/globalassets/")
-
-
 def extract_page(response):
     soup = BeautifulSoup(response, "html.parser")
 
@@ -81,29 +75,21 @@ def extract_page(response):
 
 
 def extract_text(soup):
-
     if not soup:
         return None
 
-    try:
-        col_1 = soup.select_one(".col-1")
-        title = soup.select_one("h1").find(text=True).strip()
+    col_1 = soup.select_one(".col-1")
+    title = soup.select_one("h1")
+    if not col_1 or not title:
+        return None
 
-        if not col_1:
-            return None
+    body = col_1.select("div.has-wordExplanation, div.cl")
+    body = BeautifulSoup("".join(str(div) for div in body), "html.parser")
 
-        body = col_1.select("div.has-wordExplanation, div.cl")
-        body = BeautifulSoup("".join(str(div) for div in body), "html.parser")
-    except AttributeError as e:
-        print(e)
-        print(soup)
-        raise e
+    markdown = MD_CONVERTER.convert_soup(body)
+    markdown = NEWLINES_RE.sub("\n\n", markdown.strip()).replace("\\.", ".")
 
-    markdown_text = MarkdownConverter(heading_style="ATX").convert_soup(body)
-    markdown_text = re.sub(r"\n{3,}", "\n\n", markdown_text.strip())
-    markdown_text = markdown_text.replace("\\.", ".")
-
-    return f"# {title}\n\n{markdown_text}\n"
+    return f"# {title.get_text(strip=True)}\n\n{markdown}\n"
 
 
 def extract_metadata(soup):
@@ -130,24 +116,21 @@ def extract_metadata(soup):
 
 
 def extract_shortcuts(soup):
-    h2 = soup.find(
-        lambda tag: tag.name == "h2" and tag.string and "Genväg" in tag.string
-    )
+    h2 = soup.find("h2", string=lambda s: s and "Genväg" in s)
 
-    if h2:
-        return [
-            {"name": a.text, "url": a["href"]}
-            for a in h2.find_parent("div").find_all("a")
+    return (
+        [
+            {"name": a.get_text(strip=True), "url": a["href"]}
+            for a in h2.find_parent("div").select("a")
         ]
-
-    return []
+        if h2
+        else []
+    )
 
 
 def extract_attachments(soup):
-    col_1 = soup.select_one("div.col-1")
-    links = col_1.select("ul.list--Block--icons a")
-
-    return [{"name": link.text, "url": link["href"]} for link in links]
+    links = soup.select("div.col-1 ul.list--Block--icons a")
+    return [{"name": link.get_text(strip=True), "url": link["href"]} for link in links]
 
 
 def extract_categories(soup):
