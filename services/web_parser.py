@@ -130,7 +130,9 @@ def extract_metadata(soup):
 
 
 def extract_shortcuts(soup):
-    h2 = soup.find(lambda tag: tag.name == "h2" and "Genväg" in tag.string)
+    h2 = soup.find(
+        lambda tag: tag.name == "h2" and tag.string and "Genväg" in tag.string
+    )
 
     if h2:
         return [
@@ -143,7 +145,7 @@ def extract_shortcuts(soup):
 
 def extract_attachments(soup):
     col_1 = soup.select_one("div.col-1")
-    links = col_1.find_all("a")
+    links = col_1.select("ul.list--Block--icons a")
 
     return [{"name": link.text, "url": link["href"]} for link in links]
 

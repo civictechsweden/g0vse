@@ -12,7 +12,7 @@ g0vse uses the regeringen.se search API to fetch the vast majority of the websit
 
 - title: the page title, which often contains the name of the report, bill, etc.
 - url: the url of the page, which also contains information about the page's object ("/remisser/", "/proposition/")
-- id: the subtitle of the page, which often contains the serial number of the object (*beteckningsnummer*)
+- id: the subtitle of the page, which often contains the serial number of the object (*beteckningsnummer* or *diarienummer*)
 - summary: the excerpt of the page describing its content
 - published & updated: the date when the page was published or updated
 - types: the types of the page's object as codes*
