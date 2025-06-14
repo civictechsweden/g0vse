@@ -9,13 +9,14 @@ from services.web_parser import extract_page
 OVERWRITE = False
 ITEMS_PATH = "./data/api/items.json"
 CODES_PATH = "./data/api/codes.json"
+LATEST_UPDATED_PATH = "./data/api/latest_updated.json"
 
 downloader = Downloader()
 amount_online = downloader.get_amount()
 to_fetch = amount_online
 print(f"Found {amount_online} documents on regeringen.se")
 
-just_fetch_new = not OVERWRITE and os.path.exists(ITEMS_PATH)
+just_fetch_new = not OVERWRITE and os.path.exists(LATEST_UPDATED_PATH)
 
 timer = Timer()
 
@@ -95,7 +96,11 @@ for item in items:
     for category in metadata["categories"]:
         codes[category[0]] = category[1]
 
-    metadata["categories"] = [category[0] for category in metadata["categories"]]
+    metadata["categories"] = [
+        category[0]
+        for category in metadata["categories"]
+        if category[0] not in item["types"] + item["senders"]
+    ]
     item.update(metadata)
 
 codes = {str(key): codes[key] for key in sorted(codes)}
