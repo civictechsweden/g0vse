@@ -6,6 +6,7 @@ from pathlib import Path
 class Writer(object):
     @staticmethod
     def write_json(data, filename):
+        Path(filename).parent.mkdir(parents=True, exist_ok=True)
         json_string = json.dumps(data, ensure_ascii=False, indent=4).encode("utf-8")
 
         with open(filename, "w") as file:
