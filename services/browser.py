@@ -2,55 +2,80 @@ import json
 import time
 from camoufox.sync_api import Camoufox
 from playwright._impl._errors import TimeoutError
-from playwright.sync_api import Page
+from playwright.sync_api import APIRequestContext, Page
 
 
 class Browser:
     def __init__(self):
         self.browser: Camoufox = Camoufox(geoip=True, headless=True).start()
+        self.context = self.browser.new_context()
+        self.page: Page = self.context.new_page()
+        self.context.set_default_navigation_timeout(10_000)
+        blocked = {"image", "stylesheet", "font", "media"}
+        self.context.route(
+            "**/*",
+            lambda route, req: (
+                route.abort() if req.resource_type in blocked else route.continue_()
+            ),
+        )
+        self.request: APIRequestContext = self.context.request
 
-    def get(self, url):
-        page: Page = self.browser.new_page()
+    def get(self, url, retries: int = 3):
+        for _ in range(retries):
+            try:
+                self.page.goto(url, wait_until="domcontentloaded")
+                source = self.page.content()
+
+                if "You are unable to access" in source:
+                    print("Blocked by Cloudflare, waiting 3 seconds...")
+                    time.sleep(3)
+                    continue  # ← no recursion
+                elif "The service is unavailable." in source:
+                    print("Page unavailable, waiting 60 seconds...")
+                    time.sleep(60)
+                    continue  # ← no recursion
+                elif "Sidan kan inte hittas" in source or "Något gick fel" in source:
+                    print(f"404: Could not download file from {url}")
+                    return None
+
+                return source
+            except TimeoutError:
+                print("Timeout, retrying in 3 s…")
+                time.sleep(3)
+
+        self.page.close()
+        self.page = self.context.new_page()
 
         try:
-            page.goto(url, timeout=10000)
-            source = page.content()
+            self.page.goto(url, wait_until="domcontentloaded")
+            return self.page.content()
         except TimeoutError:
-            print("Timeout, waiting for 3 seconds...")
-            time.sleep(3)
-            return self.get(url)
-
-        if "You are unable to access" in source:
-            print("Blocked by Cloudflare, waiting 3 seconds...")
-            time.sleep(3)
-            return self.get(url)
-        elif "The service is unavailable." in source:
-            print("Page unavailable, waiting 60 seconds...")
-            time.sleep(60)
-            return self.get(url)
-        elif "Sidan kan inte hittas" in source or "Något gick fel" in source:
-            print(f"404: Could not download file from {url}")
+            print("Gave up after page rebuild.")
             return None
 
-        page.close()
-        return source
-
     def get_json(self, url):
-        page: Page = self.browser.new_page()
-        response = page.goto(url)
+        resp = self.request.get(url, timeout=10_000)
+        if not resp.ok:
+            print(f"Non-200 from JSON endpoint ({resp.status})")
+            return {}
+
         try:
-            data = response.json()
-
-            if not data:
-                return {}
-
-            page.close()
-            return data
+            return resp.json() or {}
         except json.decoder.JSONDecodeError:
-            print("Error with response, maybe blocked by Cloudflare...")
-            print(response.text())
+            print("Invalid JSON payload, maybe Cloudflare?…")
+            print(resp.text())
             return {}
 
     def __del__(self):
+        try:
+            if hasattr(self, "page") and not self.page.is_closed():
+                self.page.close()
+        except Exception:
+            pass
+        try:
+            if hasattr(self, "request"):
+                self.request.dispose()
+        except Exception:
+            pass
         if self.browser:
             self.browser.stop()
