@@ -2,7 +2,7 @@ import json
 import time
 from camoufox.sync_api import Camoufox
 from playwright._impl._errors import TimeoutError
-from playwright.sync_api import APIRequestContext, Page
+from playwright.sync_api import Page
 
 
 class Browser:
@@ -18,7 +18,6 @@ class Browser:
                 route.abort() if req.resource_type in blocked else route.continue_()
             ),
         )
-        self.request: APIRequestContext = self.context.request
 
     def get(self, url, retries: int = 3):
         for _ in range(retries):
@@ -54,16 +53,13 @@ class Browser:
             return None
 
     def get_json(self, url):
-        resp = self.request.get(url, timeout=10_000)
-        if not resp.ok:
-            print(f"Non-200 from JSON endpoint ({resp.status})")
-            return {}
+        response = self.page.goto(url)
 
         try:
-            return resp.json() or {}
+            return response.json() or {}
         except json.decoder.JSONDecodeError:
             print("Invalid JSON payload, maybe Cloudflare?…")
-            print(resp.text())
+            print(response.text)
             return {}
 
     def __del__(self):
