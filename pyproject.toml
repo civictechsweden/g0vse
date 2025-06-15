@@ -1,5 +1,6 @@
 [project]
 name = "g0vse"
+version = "0.1.0"
 description = "Making the Swedish government's website (regeringen.se) accessible as open data."
 readme = "README.md"
 requires-python = ">=3.13"
@@ -9,3 +10,8 @@ dependencies = [
     "fake-useragent>=2.2.0",
     "markdownify>=1.1.0",
 ]
+
+[tool.setuptools.packages.find]
+include = ["services*"]
+exclude = ["frontend*", "data*"]
+
