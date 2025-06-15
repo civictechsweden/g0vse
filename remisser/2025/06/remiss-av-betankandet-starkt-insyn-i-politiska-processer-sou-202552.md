@@ -1,4 +1,4 @@
-# Remiss av betänkandet Stärkt insyn i politiska processer (SOU 2025:52)
+# Remiss av betänkandet Stärkt insyn i politiska processer (SOU 2025:52)Diarienummer: Ju2025/01117
 
 Här kan du ta del av till vilka remissinstanser som regeringen remitterat betänkandet Stärkt insyn i politiska processer (SOU 2025:52).
 

@@ -1,4 +1,4 @@
-# Remittering av Sjöfartsverkets Hemställan om ändring avseende ansvarig myndighet för rapportering gällande farliga och skadliga ämnen samt olja
+# Remittering av Sjöfartsverkets Hemställan om ändring avseende ansvarig myndighet för rapportering gällande farliga och skadliga ämnen samt oljaDiarienummer: Ju2021/01653
 
 Här kan du ta del av till vilka remissinstanser som regeringen remitterat Sjöfartsverkets Hemställan om ändring avseende ansvarig myndighet för rapportering gällande farliga och skadliga ämnen samt olja.
 

@@ -1,4 +1,4 @@
-# Remiss av Ett register för alla bostadsrätter (utkast till lagrådsremiss)
+# Remiss av Ett register för alla bostadsrätter (utkast till lagrådsremiss)Diarienummer: Ju2023/00948
 
 Här kan du ta del av till vilka remissinstanser som Justitiedepartementet har remitterat utkastet till lagrådsremiss Ett register för alla bostadsrätter.
 

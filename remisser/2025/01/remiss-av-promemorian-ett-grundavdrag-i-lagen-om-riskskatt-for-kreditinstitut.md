@@ -1,4 +1,4 @@
-# Remiss av promemorian Ett grundavdrag i lagen om riskskatt för kreditinstitut
+# Remiss av promemorian Ett grundavdrag i lagen om riskskatt för kreditinstitutDiarienummer: Fi2025/00018
 
 Här kan du ta del av till vilka instanser regeringen har remitterat Ett grundavdrag i lagen om riskskatt för kreditinstitut.
 

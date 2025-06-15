@@ -1,4 +1,4 @@
-# Remiss av Ds 2024:32 Efter kostnadshyra
+# Remiss av Ds 2024:32 Efter kostnadshyraDiarienummer: Fi2024/02399
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Ds 2024:32, Efter kostnadshyra – Ändamålsenlig hyresmodell för fem centrala kulturinstitutioner.
 

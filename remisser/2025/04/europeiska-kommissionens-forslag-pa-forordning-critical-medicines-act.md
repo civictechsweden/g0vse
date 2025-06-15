@@ -1,4 +1,4 @@
-# Remiss Europeiska kommissionens förslag på förordning Critical Medicines Act
+# Remiss Europeiska kommissionens förslag på förordning Critical Medicines ActDiarienummer: S2025/00728
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Europeiska kommissionens förslag på förordning Critical Medicines Act.
 

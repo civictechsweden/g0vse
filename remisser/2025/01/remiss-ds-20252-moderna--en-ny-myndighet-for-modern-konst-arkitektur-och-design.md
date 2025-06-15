@@ -1,4 +1,4 @@
-# Remiss Ds 2025:2 Moderna – en ny myndighet för modern konst, arkitektur och design
+# Remiss Ds 2025:2 Moderna – en ny myndighet för modern konst, arkitektur och designDiarienummer: Ku2025/00038
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Ds 2025:2 Moderna – en ny myndighet för modern konst, arkitektur och design.
 

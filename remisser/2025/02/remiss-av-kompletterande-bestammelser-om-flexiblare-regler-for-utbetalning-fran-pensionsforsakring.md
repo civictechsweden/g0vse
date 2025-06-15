@@ -1,4 +1,4 @@
-# Remiss av Kompletterande bestämmelser om flexiblare regler för utbetalning från pensionsförsäkring
+# Remiss av Kompletterande bestämmelser om flexiblare regler för utbetalning från pensionsförsäkringDiarienummer: Fi2025/00346
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Kompletterande bestämmelser om flexiblare regler för utbetalning från pensionsförsäkring.
 

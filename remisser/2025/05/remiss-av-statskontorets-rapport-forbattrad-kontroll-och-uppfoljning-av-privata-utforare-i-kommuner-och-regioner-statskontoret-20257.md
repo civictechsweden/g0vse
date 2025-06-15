@@ -1,4 +1,4 @@
-# Remiss av Statskontorets rapport Förbättrad kontroll och uppföljning av privata utförare i kommuner och regioner (Statskontoret 2025:7)
+# Remiss av Statskontorets rapport Förbättrad kontroll och uppföljning av privata utförare i kommuner och regioner (Statskontoret 2025:7)Diarienummer: Fi2025/00822
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Statskontorets rapport Förbättrad kontroll och uppföljning av privata utförare i kommuner och regioner (Statskontoret 2025:7)
 

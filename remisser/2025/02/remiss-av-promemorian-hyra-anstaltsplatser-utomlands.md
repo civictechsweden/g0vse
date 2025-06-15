@@ -1,4 +1,4 @@
-# Remiss av Ds 2025:1 Hyra anstaltsplatser utomlands
+# Remiss av Ds 2025:1 Hyra anstaltsplatser utomlandsDiarienummer: Ju2025/00311
 
 Här kan du ta del av remissinstansernas yttranden som inkommit till Justitiedepartement gällande promemorian Hyra anstaltsplatser utomlands (Ds 2025:1).
 

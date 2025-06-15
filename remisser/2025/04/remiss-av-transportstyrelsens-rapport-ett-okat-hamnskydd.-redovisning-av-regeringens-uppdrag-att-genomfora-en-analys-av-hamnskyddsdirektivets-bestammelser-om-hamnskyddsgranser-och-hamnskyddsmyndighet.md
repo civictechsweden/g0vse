@@ -1,4 +1,4 @@
-# Remiss av Transportstyrelsens rapport Ett ökat hamnskydd. Redovisning av regeringens uppdrag att genomföra en analys av hamnskyddsdirektivets bestämmelser om hamnskyddsgränser och hamnskyddsmyndighet
+# Remiss av Transportstyrelsens rapport Ett ökat hamnskydd. Redovisning av regeringens uppdrag att genomföra en analys av hamnskyddsdirektivets bestämmelser om hamnskyddsgränser och hamnskyddsmyndighetDiarienummer: LI2025/00726
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Transportstyrelsens rapport ”Ett ökat hamnskydd. Redovisning av regeringens uppdrag att genomföra en analys av hamnskyddsdirektivets bestämmelser om hamnskyddsgränser och hamnskyddsmyndighet”.
 

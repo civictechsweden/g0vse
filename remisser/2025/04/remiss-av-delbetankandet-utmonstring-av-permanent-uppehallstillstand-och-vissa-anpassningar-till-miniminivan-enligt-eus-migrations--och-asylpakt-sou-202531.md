@@ -1,4 +1,4 @@
-# Remiss av delbetänkandet Utmönstring av permanent uppehållstillstånd och vissa anpassningar till miniminivån enligt EU:s migrations- och asylpakt (SOU 2025:31)
+# Remiss av delbetänkandet Utmönstring av permanent uppehållstillstånd och vissa anpassningar till miniminivån enligt EU:s migrations- och asylpakt (SOU 2025:31)Diarienummer: Ju2025/00838
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat delbetänkandet Utmönstring av permanent uppehållstillstånd och vissa anpassningar till miniminivån enligt EU:s migrations- och asylpakt (SOU 2025:31).
 

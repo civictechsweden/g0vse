@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:56 Stärkt skydd för domstolarnas och domarnas oberoende
+# Remiss av SOU 2025:56 Stärkt skydd för domstolarnas och domarnas oberoendeDiarienummer: Ju2025/01097
 
 Här kan du ta del av till vilka remissinstanser som regeringen remitterat SOU 2025:56 Stärkt skydd för domstolarnas och domarnas oberoende.
 

@@ -1,4 +1,4 @@
-# Remiss av Omsättningslagring av vissa läkemedel för en stärkt försörjningsberedskap
+# Remiss av Omsättningslagring av vissa läkemedel för en stärkt försörjningsberedskapDiarienummer: S2023/02002
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Tandvårds- och läkemedelsförmånsverkets rapport Omsättningslagring av vissa läkemedel för en stärkt försörjningsberedskap.
 

@@ -1,4 +1,4 @@
-# Remiss av betänkandet Skärpta krav för svenskt medborgarskap
+# Remiss av betänkandet Skärpta krav för svenskt medborgarskapDiarienummer: Ju2025/00118
 
 Här kan du ta del av till vilka remissinstanser som regeringen har remitterat betänkandet Skärpta krav för svenskt medborgarskap, SOU 2025:1.
 

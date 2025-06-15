@@ -1,4 +1,4 @@
-# Remiss av  SOU 2025:59 Stärkt lagstiftning mot hedersrelaterat våld och förtryck
+# Remiss av  SOU 2025:59 Stärkt lagstiftning mot hedersrelaterat våld och förtryckDiarienummer: Ju2025/01193
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat SOU 2025:59 Stärkt lagstiftning mot hedersrelaterat våld och förtryck.
 

@@ -1,4 +1,4 @@
-# Remiss av promemorian Permanent skattefrihet för förmån av laddel på arbetsplatsen och utvidgad rätt till avdrag för drivmedelsutgifter
+# Remiss av promemorian Permanent skattefrihet för förmån av laddel på arbetsplatsen och utvidgad rätt till avdrag för drivmedelsutgifterDiarienummer: Fi2025/01064
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Permanent skattefrihet för förmån av laddel på arbetsplatsen och utvidgad rätt till avdrag för drivmedelsutgifter.
 

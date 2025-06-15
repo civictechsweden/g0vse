@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:57 Polisiär beredskap i fred, kris och krig
+# Remiss av SOU 2025:57 Polisiär beredskap i fred, kris och krigDiarienummer: Ju2025/01154
 
 Här kan du ta del av till vilka remissinstanser som regeringen har remitterat betänkandet Polisiär beredskap i fred, kris och krig.
 

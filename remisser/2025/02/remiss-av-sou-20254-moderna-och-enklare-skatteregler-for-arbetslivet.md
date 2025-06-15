@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:4 Moderna och enklare skatteregler för arbetslivet
+# Remiss av SOU 2025:4 Moderna och enklare skatteregler för arbetslivetDiarienummer: FI2025/00072
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat SOU 2025:4, Moderna och enklare skatteregler för arbetslivet.
 

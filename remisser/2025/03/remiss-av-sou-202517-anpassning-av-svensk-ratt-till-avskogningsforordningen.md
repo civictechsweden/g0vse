@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:17 Anpassning av svensk rätt till avskogningsförordningen
+# Remiss av SOU 2025:17 Anpassning av svensk rätt till avskogningsförordningenDiarienummer: LI2025/00674
 
 Här kan du ta del av vilka instanser som regeringen har remitterat SOU 2025:17 Anpassning av svensk rätt till avskogningsförordningen.
 

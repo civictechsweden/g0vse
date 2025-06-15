@@ -1,4 +1,4 @@
-# Remiss av Energimarknadsinspektionens rapport En effektiv bekämpning av marknadsmissbruk på grossistmarknaderna för energi
+# Remiss av Energimarknadsinspektionens rapport En effektiv bekämpning av marknadsmissbruk på grossistmarknaderna för energiDiarienummer: KN2025/00134
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Energimarknadsinspektionens rapport En effektiv bekämpning av marknadsmissbruk på grossistmarknaderna för energi, Ei R2025:02.
 

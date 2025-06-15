@@ -1,4 +1,4 @@
-# Remiss av promemorian Ett undantag i kupongskattelagen för utländska stater
+# Remiss av promemorian Ett undantag i kupongskattelagen för utländska staterDiarienummer: Fi2025/01319
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Ett undantag i kupongskattelagen för utländska stater.
 

@@ -1,4 +1,4 @@
-# Remiss av Energimarknadsinspektionens rapport Genomförande av artikel 27 i Energieffektiviseringsdirektivet i svensk rätt
+# Remiss av Energimarknadsinspektionens rapport Genomförande av artikel 27 i Energieffektiviseringsdirektivet i svensk rättDiarienummer: KN2024/01904
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Energimarknadsinspektionens rapport Genomförande av artikel 27 i Energieffektiviseringsdirektivet i svensk rätt.
 

@@ -1,4 +1,4 @@
-# Remiss Kammarkollegiets utvärdering av utökning av målgruppen för Allmänna arvsfonden
+# Remiss Kammarkollegiets utvärdering av utökning av målgruppen för Allmänna arvsfondenDiarienummer: S2024/01821
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Kammarkollegiets Utvärdering av utökning av målgruppen för Allmänna arvsfonden.
 

@@ -1,4 +1,4 @@
-# Remiss av Mediemyndighetens rapport Tvistlösning för användare och leverantörer av videodelningsplattformar – Förslag till tvistlösning vid granskningsnämnden för radio och tv
+# Remiss av Mediemyndighetens rapport Tvistlösning för användare och leverantörer av videodelningsplattformar – Förslag till tvistlösning vid granskningsnämnden för radio och tvDiarienummer: Ku2024/01049
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Mediemyndighetens rapport Tvistlösning för användare och leverantörer av videodelningsplattformar – Förslag till tvistlösning vid granskningsnämnden för radio och tv.
 

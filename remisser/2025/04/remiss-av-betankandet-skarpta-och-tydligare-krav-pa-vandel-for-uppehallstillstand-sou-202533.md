@@ -1,4 +1,4 @@
-# Remiss av betänkandet Skärpta och tydligare krav på vandel för uppehållstillstånd (SOU 2025:33)
+# Remiss av betänkandet Skärpta och tydligare krav på vandel för uppehållstillstånd (SOU 2025:33)Diarienummer: Ju2025/00812
 
 Här kan du ta del av till vilka remissinstanser som Justitiedepartementet har remitterat betänkandet Skärpta och tydligare krav på vandel för uppehållstillstånd (SOU 2025:33).
 
