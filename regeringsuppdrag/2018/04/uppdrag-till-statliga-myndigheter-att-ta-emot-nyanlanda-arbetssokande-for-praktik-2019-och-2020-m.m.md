@@ -1,6 +1,6 @@
 # Uppdrag till statliga myndigheter att fortsätta ta emot nyanlända arbetssökande för praktik 2019 och 2020 m.m.
 
-Regeringen uppdrar åt myndigheterna som upptas i bilagan att under tiden den 1 januari 2019\-den 31 december 2020 fortsatt ställa praktikplatser till förfogande åt Arbetsförmedlingen och ta emot nyanlända arbetssökande från Arbetsförmedlingen för praktik.
+Regeringen uppdrar åt myndigheterna som upptas i bilagan att under tiden den 1 januari 2019-den 31 december 2020 fortsatt ställa praktikplatser till förfogande åt Arbetsförmedlingen och ta emot nyanlända arbetssökande från Arbetsförmedlingen för praktik.
 
 De nyanlända arbetssökande ska vara inskrivna hos Arbetsförmedlingen, men de behöver inte vara inskrivna i etableringsuppdraget.
 

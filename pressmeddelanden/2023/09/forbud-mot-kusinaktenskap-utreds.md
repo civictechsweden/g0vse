@@ -12,6 +12,6 @@ Utredaren Anne Kuttenkeuler, hovrättsråd och vice ordförande i Svea hovrätt,
 * överväga om reglerna om äktenskap mellan andra nära släktingar bör ändras och, oberoende av vad utredaren kommer fram till, lämna förslag på hur äktenskap med halvsyskon och med föräldrars syskon kan förbjudas, samt
 * lämna förslag till de författningsändringar och andra åtgärder som behövs.
 
-Uppdraget ska redovisas senast den 1 oktober 2024\.
+Uppdraget ska redovisas senast den 1 oktober 2024.
 
 Uppdraget bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

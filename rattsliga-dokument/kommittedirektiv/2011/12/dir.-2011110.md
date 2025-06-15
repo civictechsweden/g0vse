@@ -4,4 +4,4 @@ En särskild utredare ska analysera och ta ställning till om vissa krav på til
 
 Utredaren ska vidare föreslå att överprövningen av vissa associationsrättsliga dispensärenden flyttas från regeringen till allmän förvaltningsdomstol. I uppdraget ingår att analysera vilka de materiella kriterierna för dispens bör vara.
 
-Uppdraget ska redovisas senast den 1 februari 2013\.
+Uppdraget ska redovisas senast den 1 februari 2013.

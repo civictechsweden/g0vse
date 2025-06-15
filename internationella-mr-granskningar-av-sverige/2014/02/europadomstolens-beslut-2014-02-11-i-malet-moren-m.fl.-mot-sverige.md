@@ -2,7 +2,6 @@
 
 Europadomstolen har fattat ett beslut avseende ett klagomål om Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till beslutet i fulltext samt en sammanfattning av beslutet.
 
-
 ## Sammanfattning av beslutet
 
 De fyra klagandena var eller hade varit ägare till varsin fastighet belägen i ett visst område inom vilket Boliden Mineral AB hade beviljats s.k. bearbetningskoncesssion för mineralutvinning. Målet rörde huvudsakligen frågan om detta beslut, som inte gav klagandena någon rätt till ersättning för det fall mineralutvinning skulle komma att ske, utgjorde en kränkning av bestämmelsen om skydd för egendom enligt artikel 1 i tilläggsprotokoll 1 till Europakonventionen.

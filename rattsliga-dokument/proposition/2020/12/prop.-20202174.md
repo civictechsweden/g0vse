@@ -4,4 +4,4 @@ Samhällets insatser mot själv­mord bygger på en vision om att ingen ska beh�
 
 Regeringen föreslår därför att det införs två nya brott, upp­maning till själv­mord och oaktsam upp­maning till självmord, som innebär att det under vissa omständig­heter blir straff­bart att upp­mana eller att på något annat liknande sätt påverka en person att ta sitt liv. Straffet för upp­maning till själv­mord föreslås vara fängelse i högst två år och för oaktsam upp­maning till själv­mord, böter eller fängelse i högst sex månader. Det föreslås även en ansvars­frihets­regel för mindre allvarliga fall.
 
-Lagändringarna föreslås träda i kraft den 1 maj 2021\.
+Lagändringarna föreslås träda i kraft den 1 maj 2021.

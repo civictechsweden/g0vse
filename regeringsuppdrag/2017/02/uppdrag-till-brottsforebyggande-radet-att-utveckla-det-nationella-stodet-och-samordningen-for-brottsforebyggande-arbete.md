@@ -2,7 +2,6 @@
 
 Regeringen ger Brottsförebyggande rådet (Brå) i uppdrag att utveckla det nationella stödet och samordningen för brottsförebyggande arbete.
 
-
 Insatserna ska utgöra en förstärkning av myndighetens befintliga arbete inom området. Brå ska därmed fortsatt främja det brottsförebyggande arbetet genom att utveckla och sprida kunskap, fördela ekonomiskt stöd samt bidra med metodstöd och handledning i brottsförebyggande frågor.
 
 Brå ska även:
@@ -14,4 +13,4 @@ Brå ska även:
 * Stödja länsstyrelserna i arbetet med att stödja och bidra till regional samordning av brottsförebyggande arbete.
 * Årligen ta fram en rapport om hur det brottsförebyggande arbetet har bedrivits och utvecklats. Rapporten ska lämnas senast den 31 mars.
 
-Därutöver ska Brå göra en sammanställning av befintlig kunskap om samhällets kostnader för brott. Denna del av uppdraget ska redovisas senast den 1 november 2017\.
+Därutöver ska Brå göra en sammanställning av befintlig kunskap om samhällets kostnader för brott. Denna del av uppdraget ska redovisas senast den 1 november 2017.

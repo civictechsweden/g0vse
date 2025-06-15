@@ -1,6 +1,6 @@
 # Regeringen presenterar ett stödpaket för barn i Ukraina och Moldavien
 
-–  Rysslands fullskaliga invasion av Ukraina har allvarliga konsekvenser för barns psykiska och fysiska hälsa och deras tillgång till grundläggande samhällstjänster. För regeringen och Sverigedemokraterna är det därför avgörande att bidra med stöd för att barnen ska få tillgång till så grundläggande saker som rent vatten, värme, psykosocialt stöd och tak över huvudet. Genom vårt nya stöd till Unicef arbetar vi också för att motverka familjeseparation och bidrar till att barn får en tryggare omsorg både i Ukraina och i Moldavien, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+–  Rysslands fullskaliga invasion av Ukraina har allvarliga konsekvenser för barns psykiska och fysiska hälsa och deras tillgång till grundläggande samhällstjänster. För regeringen och Sverigedemokraterna är det därför avgörande att bidra med stöd för att barnen ska få tillgång till så grundläggande saker som rent vatten, värme, psykosocialt stöd och tak över huvudet. Genom vårt nya stöd till Unicef arbetar vi också för att motverka familjeseparation och bidrar till att barn får en tryggare omsorg både i Ukraina och i Moldavien, säger bistånds- och utrikeshandelsminister Johan Forssell.
 
 –  Att med hjälp av breda insatser stötta Ukraina på flera olika vis är i förlängningen avgörande för deras motståndskraft. Vi måste se till att stötta där vi kan och det är särskilt viktigt att hjälpa dem som riskerar fara mest illa, säger Sverigedemokraternas gruppledare Linda Lindberg.
 

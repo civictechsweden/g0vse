@@ -4,4 +4,4 @@ Statsminister Ulf Kristersson och president Emmanuel Macron undertecknade i samb
 
 Det förnyade partnerskapet innebär att ländernas samarbete fördjupas inom en rad områden. Syftet är att främja konkurrenskraft och innovation och bidra till att skapa hållbara, digitala och motståndskraftiga samhällen. Dessutom breddas partnerskapet till att omfatta tre helt nya områden; skog, kärnkraft samt säkerhet.
 
-Sverige och Frankrike signerade det första partnerskapet för innovation och gröna lösningar 2017\. Det förnyades senast 2019\.
+Sverige och Frankrike signerade det första partnerskapet för innovation och gröna lösningar 2017. Det förnyades senast 2019.

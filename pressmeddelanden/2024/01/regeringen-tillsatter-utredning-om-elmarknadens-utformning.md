@@ -1,8 +1,8 @@
 # Regeringen tillsätter utredning om elmarknadens utformning
 
-– Elsystemets utveckling och elmarknadens bidrag till ett starkt och leveranssäkert elsystem är avgörande för samhällets och industrins elektrifiering. Med den här utredningen ges Sverige en elmarknad som gynnar svenska intressen och Sverige. En välfungerande svensk och nordisk elmarknad bidrar till ett starkt Europa, säger energi\- och näringsminister Ebba Busch.
+– Elsystemets utveckling och elmarknadens bidrag till ett starkt och leveranssäkert elsystem är avgörande för samhällets och industrins elektrifiering. Med den här utredningen ges Sverige en elmarknad som gynnar svenska intressen och Sverige. En välfungerande svensk och nordisk elmarknad bidrar till ett starkt Europa, säger energi- och näringsminister Ebba Busch.
 
-Under de kommande decennierna förväntas den svenska elmarknaden genomgå betydande förändringar på grund av den omfattande elektrifieringen, utfasningen av fossila bränslen och det nya energipolitiska målet om 100 procent fossilfri elproduktion 2040\. För att möjliggöra denna omställning krävs det att roller och ansvar tydliggörs. Därtill behöver förutsättningar för en långsiktig planering av elsystemet finnas på plats.
+Under de kommande decennierna förväntas den svenska elmarknaden genomgå betydande förändringar på grund av den omfattande elektrifieringen, utfasningen av fossila bränslen och det nya energipolitiska målet om 100 procent fossilfri elproduktion 2040. För att möjliggöra denna omställning krävs det att roller och ansvar tydliggörs. Därtill behöver förutsättningar för en långsiktig planering av elsystemet finnas på plats.
 
 Mot denna bakgrund ska utredaren bland annat:
 
@@ -16,4 +16,4 @@ Bo Diczfalusy utses till särskild utredare. Bo Diczfalusy är Civilekonom vid H
 
 – Utifrån mitt perspektiv är översynen av elmarknaden helt nödvändig. Sverige behöver en uppgradering av elmarknaden för att kunna de utmaningar vi står inför. Jag är tacksam för förtroendet som regeringen visar mig och ser fram emot att påbörja detta stora och viktiga uppdrag, säger utredaren Bo Diczfalusy.
 
-Uppdraget bygger på Tidöavtalets överenskommelse om en utredning av elmarknadens utformning. Uppdraget ska redovisas senast den 25 april 2025\.
+Uppdraget bygger på Tidöavtalets överenskommelse om en utredning av elmarknadens utformning. Uppdraget ska redovisas senast den 25 april 2025.

@@ -1,11 +1,10 @@
 # "Regeringen kallar till samtal med parterna efter arbetsplatsolyckorna"
 
-Debattartikel av arbetsmarknads\- och integrationsminister Johan Pehrson och jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg, Dagens industri, den 14 februari 2024\.
-
+Debattartikel av arbetsmarknads- och integrationsminister Johan Pehrson och jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg, Dagens industri, den 14 februari 2024.
 
 De senaste åren har visat en negativ och oroväckande utveckling på svenska arbetsplatser. Antalet dödsolyckor har ökat, och under 2023 har fler människor förlorat sina liv i arbetsrelaterade olyckor än något år under det senaste decenniet.
 
-Varje person som mister livet till följd av sitt arbete är någons familjemedlem eller kollega som inte kommer hem efter arbetsdagens slut. Mer måste göras för att 2024 inte blir ett lika svart år som 2023\. Mot bakgrund av detta har vi kallat in företrädare för parterna i de branscher som är hårdast drabbade av dödsolyckor för att regeringen ska få en så bred bild som möjligt av vad som görs och kan göras för att förhindra fler dödsolyckor.
+Varje person som mister livet till följd av sitt arbete är någons familjemedlem eller kollega som inte kommer hem efter arbetsdagens slut. Mer måste göras för att 2024 inte blir ett lika svart år som 2023. Mot bakgrund av detta har vi kallat in företrädare för parterna i de branscher som är hårdast drabbade av dödsolyckor för att regeringen ska få en så bred bild som möjligt av vad som görs och kan göras för att förhindra fler dödsolyckor.
 
 En trygg arbetsmiljö för alla är en prioriterad fråga för regeringen, och vi arbetar på bred front för att minska dödsolyckorna. Några av de åtgärder vi redan genomfört är:
 
@@ -27,6 +26,6 @@ Vi är övertygade om att det går att hitta konstruktiva lösningar för att f�
 
 Ingen ska behöva dö på sitt arbete och ingen ska behöva dö på grund av sitt arbete. Regeringen intensifierar och kraftsamlar nu arbetet mot dödsolyckorna. För tryggare arbetsplatser i hela landet.
 
-Johan Pehrson, arbetsmarknads\- och integrationsminister
+Johan Pehrson, arbetsmarknads- och integrationsminister
 
-Paulina Brandberg, jämställdhets\- och biträdande arbetsmarknadsminister
+Paulina Brandberg, jämställdhets- och biträdande arbetsmarknadsminister

@@ -2,8 +2,7 @@
 
 Regeringen uppdrog den 3 december åt Statskontoret att utföra en myndighetsanalys av Myndigheten för delaktighet (MFD).
 
-
-Statskontoret ska genomföra analysen enlighet den modell som Statskontoret redovisade till regeringen i december 2008 i rapporten Modell för myndighetsanalyser (2008:17\).
+Statskontoret ska genomföra analysen enlighet den modell som Statskontoret redovisade till regeringen i december 2008 i rapporten Modell för myndighetsanalyser (2008:17).
 
 ## Uppdragets omfattning
 

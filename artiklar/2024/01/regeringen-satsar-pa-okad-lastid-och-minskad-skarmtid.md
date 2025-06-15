@@ -37,9 +37,9 @@ Det är viktigt att den officiella biblioteksstatistiken ger en samlad bild öve
 
 ## Regeringen vill göra skolan mobilfri
 
-Att samla in mobiltelefoner under skoldagen kan främja elevers trygghet, lärande och kunskapsutveckling. Regeringen har gett en utredare i uppdrag att undersöka hur en reglering för insamling av mobiltelefoner och annan elektronisk kommunikationsutrustning under skoldagen kan utformas. Regleringen ska omfatta förskoleklassen, grundskolan och motsvarande skolformer samt fritidshemmet. Uppdraget ska redovisas under våren 2025.
+Att samla in mobiltelefoner under skoldagen kan främja elevers trygghet, lärande och kunskapsutveckling. En utredare fick i uppdrag att undersöka hur en reglering för insamling av mobiltelefoner och annan elektronisk kommunikationsutrustning under skoldagen kan utformas. Regleringen ska omfatta förskoleklassen, grundskolan och motsvarande skolformer samt fritidshemmet. Uppdraget redovisades i mars 2025.
 
-[Pressmeddelande: Regeringen vill göra skolan mobilfri](/pressmeddelanden/2024/09/regeringen-vill-gora-skolan-mobilfri/)
+[Pressmeddelande: Skolministern tog emot förslag om mobilförbud under hela skoldagen](/pressmeddelanden/2025/03/skolministern-tog-emot-forslag-om-mobilforbud-under-hela-skoldagen/)
 
 ## Barnen i förskolan ska mötas av fler böcker och färre skärmar
 

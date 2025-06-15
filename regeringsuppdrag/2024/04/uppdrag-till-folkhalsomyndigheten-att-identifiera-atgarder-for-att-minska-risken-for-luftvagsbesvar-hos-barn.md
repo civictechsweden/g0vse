@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Folkhälsomyndigheten att ta fram en kunskapsöversikt om vad som påverkar uppkomst av luftvägsbesvär hos barn.
 
-
 Folkhälsomyndigheten ska:
 
 * sammanställa aktuellt kunskapsläge, identifiera eventuella kunskapsbrister och föreslå åtgärder för att främja det fortsatta nationella arbetet inom området.

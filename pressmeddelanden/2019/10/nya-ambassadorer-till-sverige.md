@@ -4,7 +4,7 @@
 
 har en kandidatexamen i nationalekonomi. Francisco Eduardo del Río López har tjänstgjort inom utrikesministeriet sedan 1980 och har de senaste åren innehaft bl.a. följande befattningar:
 
-2016 \- 2018 Enhetschef, Europaenheten, utrikesministeriet.
+2016 - 2018 Enhetschef, Europaenheten, utrikesministeriet.
 
 2013 – 2016 Generalkonsul, Montreal, Kanada.
 
@@ -28,7 +28,7 @@ Francisco Eduardo del Río López talar engelska och franska.
 
 har en magisterexamen i personaladministration. Alice Mashingaidze har tjänstgjort som tjänsteman i regeringskansliet sedan 2002 och har de senaste åren innehaft bl.a. följande befattningar:
 
-2015 \- Chef, personalavdelning, Public Service Commission (en övergripande HR\-avdelning för samtliga ministerier och myndigheter).
+2015 - Chef, personalavdelning, Public Service Commission (en övergripande HR-avdelning för samtliga ministerier och myndigheter).
 
 2009 – 2015 Enhetschef, personalenheten, utrikesministeriet.
 
@@ -58,9 +58,9 @@ Margus Kolga talar engelska, finska, ryska och förstår tyska.
 
 har de senaste åren innehaft bl.a. följande befattningar:
 
-2015 \- Ambassadör, ambassaden i Kiev, Ukraina.
+2015 - Ambassadör, ambassaden i Kiev, Ukraina.
 
-2013 – 2014 Enhetschef, Östeuropa\- och Centralasienenheten, utrikesministeriet.
+2013 – 2014 Enhetschef, Östeuropa- och Centralasienenheten, utrikesministeriet.
 
 2010 – 2012 Ambassadör, ambassaden i Tbilisi, Georgien.
 

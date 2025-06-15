@@ -10,4 +10,4 @@ Skatteverket ska överta hanteringen av äktenskapsregistret från Statistiska c
 
 Handläggningen av ärenden om fingerade personuppgifter flyttas från Stockholms tingsrätt till Rikspolisstyrelsen. Länsstyrelsen övertar handläggningen av ärenden om synemän enligt jordabalken.
 
-Lagändringarna föreslås träda i kraft den 1 oktober 2011\.
+Lagändringarna föreslås träda i kraft den 1 oktober 2011.

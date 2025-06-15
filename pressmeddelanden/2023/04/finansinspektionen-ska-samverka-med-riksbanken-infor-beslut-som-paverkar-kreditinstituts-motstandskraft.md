@@ -8,4 +8,4 @@ Penningpolitiken kan ha betydelse för bedömningen av cykliska systemrisker. Li
 
 – Genom samverkansskyldigheten tillvaratas den kompetens som finns även hos Riksbanken och konsekvenserna av att ändra eller fastställa ett buffertvärde får på så vis en mer allsidig belysning, framhåller finansmarknadsminister Niklas Wykman.
 
-Lagändringen föreslås träda i kraft den 1 januari 2024\.
+Lagändringen föreslås träda i kraft den 1 januari 2024.

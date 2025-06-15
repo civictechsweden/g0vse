@@ -8,4 +8,4 @@ Förslagen i promemorian innebär i huvudsak följande:
 * Uppehållstillstånd ska beviljas för minst ett år eller den kortare tid som utbildningen ska pågå. Tillståndstiden ska kunna förlängas.
 * Medföljande familjemedlemmar till utlänningar som deltar i en uppdragsutbildning eller en specialiseringsutbildning för läkare eller tandläkare ska få beviljas uppehållstillstånd.
 
-Förordningsändringarna föreslås träda i kraft den 1 juli 2020\.
+Förordningsändringarna föreslås träda i kraft den 1 juli 2020.

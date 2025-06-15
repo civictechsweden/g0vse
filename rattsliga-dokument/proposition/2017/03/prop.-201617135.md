@@ -7,4 +7,4 @@ innebär bl.a. att det för vissa fartyg införs en ny form av tillsynsförrätt
 avgöra om ett handelsfartyg ska ha ett s.k. fartcertifikat eller inte ändras
 från bruttodräktighet 20 till en skrovlängd av minst 15 meter.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2017\.
+Lagändringarna föreslås träda i kraft den 1 juni 2017.

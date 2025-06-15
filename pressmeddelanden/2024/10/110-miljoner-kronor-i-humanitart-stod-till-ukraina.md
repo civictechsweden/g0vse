@@ -1,10 +1,10 @@
 # 110 miljoner kronor i humanitärt stöd till Ukraina
 
-– Ryssland siktar in sig på civil infrastruktur och har slagit ut stora delar av värme\- och elförsörjningen i Ukraina. Det får såklart allvarliga konsekvenser ju kallare det blir. En stor del av befolkningen har därför svårt att värma sina bostäder och laga mat. Därför har regeringen beslutat om att ge 110 miljoner kronor till ett antal humanitära aktörer i Ukraina, säger bistånds\- och utrikeshandelsminister Benjamin Dousa.
+– Ryssland siktar in sig på civil infrastruktur och har slagit ut stora delar av värme- och elförsörjningen i Ukraina. Det får såklart allvarliga konsekvenser ju kallare det blir. En stor del av befolkningen har därför svårt att värma sina bostäder och laga mat. Därför har regeringen beslutat om att ge 110 miljoner kronor till ett antal humanitära aktörer i Ukraina, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
 
 Att Ryssland har minerat stora ytor i Ukraina är ett stort problem och hot mot människors säkerhet och liv. Den fullskaliga ryska invasionen har lett till att miljontals människor tvingats lämna sina hem och leva som internflyktingar. Det sexuella våldet mot kvinnor har ökat i dessa redan utsatta grupper.
 
-– Det svenska stödet kommer även gå till minröjning som tyvärr kommer vara ett överhängande problem under lång tid framöver. Stödet kommer även möta sexuella och reproduktiva hälsobehov och till insatser mot könsrelaterat våld, säger bistånds\- och utrikeshandelsministern.
+– Det svenska stödet kommer även gå till minröjning som tyvärr kommer vara ett överhängande problem under lång tid framöver. Stödet kommer även möta sexuella och reproduktiva hälsobehov och till insatser mot könsrelaterat våld, säger bistånds- och utrikeshandelsministern.
 
 – Sveriges bistånd till Ukraina gör skillnad. Nu bidrar vi med att värma hemmen och röja den svarta jorden från minor, så den kan brukas och mätta hunger och säkra livsmedelstillgången, säger Aron Emilsson, utrikespolitisk talesperson för Sverigedemokraterna.
 

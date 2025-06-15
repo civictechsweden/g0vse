@@ -13,8 +13,8 @@ Regeringskansliet har nu fattat beslut om vilka experter som ska stödja utredni
 * Jonas Linderoth, professor vid Göteborgs universitet
 * Linnéa Lindquist, biträdande rektor
 * Håkan Sjöberg, lärare och universitetsadjunkt vid Göteborgs universitet
-* Anna\-Karin Wyndhamn, universitetsadjunkt vid Göteborgs universitet
+* Anna-Karin Wyndhamn, universitetsadjunkt vid Göteborgs universitet
 
 Dessutom deltar experter från flera myndigheter och organisationer som kan bidra med sin expertis. Dessa är från Skolverket, Skolinspektionen, Specialpedagogiska skolmyndigheten, Sameskolstyrelsen, Sveriges kommuner och regioner, Friskolornas riksförbund, Idéburna skolors riksförbund, Sveriges skolledare, Sveriges lärare, Elevernas riksförbund och Sveriges elevråd. Utredningen har även hjälp av sakkunniga från Regeringskansliet.
 
-Uppdraget ska redovisas senast den 28 februari 2025\.
+Uppdraget ska redovisas senast den 28 februari 2025.

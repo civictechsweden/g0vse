@@ -4,5 +4,4 @@ Här kan du ta del av de remissvar som kommit in till Miljödepartementet gälla
 
 Övriga yttranden i samband med remissen finns tillgängliga i departementet.
 
-
-Remissvaren ska ha kommit in senast den 15 mars 2021\.
+Remissvaren ska ha kommit in senast den 15 mars 2021.

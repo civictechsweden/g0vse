@@ -2,9 +2,8 @@
 
 Regeringen uppdrar åt Transportstyrelsen att beskriva de regelverk som gäller för eldrivna enpersonsfordon, däribland elsparkcyklar och elcyklar.
 
-
 Myndigheten ska vidare beskriva omfattningen av olyckor och olyckstillbud där sådana fordon är inblandade. Transportstyrelsen ska dessutom utreda behovet av regeländringar för att åstadkomma ett trafiksäkert och miljövänligt användande av eldrivna enpersonsfordon, som också underlättar för användarna. Utredningen ska omfatta alla regler som är relevanta för användningen av dessa fordon, t.ex. trafikregler, konstruktionsregler, ordningsregler och regler om flyttning av fordon.
 
 Uppdraget omfattar även att överväga om det ska överlämnas till kommuner att avgöra behovet av särskilda regler för den egna kommunen. I uppdraget ingår därför att analysera hur de befintliga möjligheterna att meddela föreskrifter enligt nuvarande trafiklagstiftning kan och bör förtydligas eller utökas med syfte att ge kommunerna bättre möjligheter at reglera eldrivna enpersonsfordon. Utredningen ska också omfatta frågan om vad utformningen av infrastrukturen eller stadsplanering innebär för ett trafiksäkert framförande av dessa fortskaffningsmedel. Vidare ska Transportstyrelsen analysera om det bör införas krav på uthyrare att lämna information om gällande regler till användare av dessa fordon. Transportstyrelsen ska slutligen utreda möjligheten att införa ett krav på tillstånd för att få hyra ut elsparkcyklar.
 
-De eventuella författningsförslag som lämnas ska i så stor utsträckning som anses lämpligt vara funktionsbaserade, teknikneutrala och utformade så att de minimerar behovet av framtida regeländringar. Vid genomförande av uppdraget bör hänsyn tas till pågående internationellt regel\- och standardiseringsarbete för eldrivna enpersonsfordon.
+De eventuella författningsförslag som lämnas ska i så stor utsträckning som anses lämpligt vara funktionsbaserade, teknikneutrala och utformade så att de minimerar behovet av framtida regeländringar. Vid genomförande av uppdraget bör hänsyn tas till pågående internationellt regel- och standardiseringsarbete för eldrivna enpersonsfordon.

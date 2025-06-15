@@ -1,6 +1,6 @@
 # Regeringen inrättar ett kunskapscentrum om Ryssland och Östeuropa
 
-Förhållandet till Ryssland och övriga länder i Östeuropa är av central betydelse för svensk utrikes\- och säkerhetspolitik. Det ligger i Sveriges intresse att öka kunskapen om Ryssland och dess politik och utöka de mellanfolkliga kontakterna med Ryssland och övriga Östeuropa samt identifiera samarbetsområden av ömsesidigt intresse, inklusive handel, miljö och klimat. Regeringen anser det motiverat att stärka regionkompetensen i Sverige utifrån det försämrade säkerhetsläget i Europa och därmed behovet av att bättre förstå Ryssland och dess grannländer.
+Förhållandet till Ryssland och övriga länder i Östeuropa är av central betydelse för svensk utrikes- och säkerhetspolitik. Det ligger i Sveriges intresse att öka kunskapen om Ryssland och dess politik och utöka de mellanfolkliga kontakterna med Ryssland och övriga Östeuropa samt identifiera samarbetsområden av ömsesidigt intresse, inklusive handel, miljö och klimat. Regeringen anser det motiverat att stärka regionkompetensen i Sverige utifrån det försämrade säkerhetsläget i Europa och därmed behovet av att bättre förstå Ryssland och dess grannländer.
 
 En förstärkt svensk kunskapsbas om situationen och utvecklingen i Ryssland och Östeuropa bidrar även till att stärka Sveriges säkerhet och förmåga att främja mellanfolkliga relationer samt stärka samarbetet med Ryssland och övriga länder i regionen.
 

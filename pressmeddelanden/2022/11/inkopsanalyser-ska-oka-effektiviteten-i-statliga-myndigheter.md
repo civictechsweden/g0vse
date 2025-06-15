@@ -8,4 +8,4 @@ Ekonomistyrningsverket kommer nu utreda hur inköpsanalyser kan öka effektivite
 
 – Det är viktigt att de statliga myndigheterna bedriver sin verksamhet effektivt och att regeringen kan få ett underlag för det fortsatta arbetet med att främja utvecklingen av strategiskt inköpsarbete hos statliga myndigheter, avslutar Erik Slottner.
 
-Uppdraget ska redovisas senast den 3 november 2023\.
+Uppdraget ska redovisas senast den 3 november 2023.

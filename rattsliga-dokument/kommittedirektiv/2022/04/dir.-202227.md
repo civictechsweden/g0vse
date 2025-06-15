@@ -1,6 +1,6 @@
 # Stärkta incitament för utbyggd vindkraft
 
-En särskild utredare ska lämna förslag som stärker kommunernas incitament att medverka till utbyggnad av vindkraft, i syfte att klara klimatomställningen och den ökade elektrifieringen av samhället. Uppdraget ska redovisas senast den 31 mars 2023\.
+En särskild utredare ska lämna förslag som stärker kommunernas incitament att medverka till utbyggnad av vindkraft, i syfte att klara klimatomställningen och den ökade elektrifieringen av samhället. Uppdraget ska redovisas senast den 31 mars 2023.
 
 Utredaren ska bl.a.
 
@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * säkerställa att förslagen inte påverkar skatteområdet, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 31 mars 2023\.
+Uppdraget ska redovisas senast den 31 mars 2023.

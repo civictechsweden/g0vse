@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Inspektionen för vård och omsorg (IVO) att under åren 2024 till 2026 stärka och utveckla arbetet med att förebygga och motverka välfärdsbrottslighet och förekomsten av oseriösa aktörer inom omsorgen.
 
-
 Ivo ska:
 
 * beskriva hur myndigheten, inom ramen för sitt uppdrag, kan utveckla åtgärder som bidrar till kommunernas arbete mot välfärdsbrottslighet samt vidta åtgärder som syftar till detta

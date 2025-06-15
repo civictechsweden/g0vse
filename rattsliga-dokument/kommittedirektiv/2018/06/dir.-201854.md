@@ -9,4 +9,4 @@ Utredaren ska bl.a.
 * utreda och ta ställning till om åldersgränsen 55 år för företagare att fritt kunna välja karenstid i sjukförsäkringen ska kvarstå, höjas eller tas bort,
 * utarbeta nödvändiga författningsförslag.
 
-Utredarens förslag ska så långt som möjligt vara neutrala till val av företagsform och ska även främja jämställdhet mellan kvinnor och män. Det arbetsrättsliga regelverket och arbetstagarbegreppet ska inte påverkas av utredarens förslag. Uppdraget ska redovisas senast den 30 juni 2019\.
+Utredarens förslag ska så långt som möjligt vara neutrala till val av företagsform och ska även främja jämställdhet mellan kvinnor och män. Det arbetsrättsliga regelverket och arbetstagarbegreppet ska inte påverkas av utredarens förslag. Uppdraget ska redovisas senast den 30 juni 2019.

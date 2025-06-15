@@ -11,4 +11,4 @@ Utredaren ska:
 
 Utredaren ska utifrån kartläggningarna bedöma om förutsättningarna för stärkt operativ samverkan och samordning av samhällets samlade maritima resurser är ändamålsenlig ur ett effektivitetshänseende och vid behov föreslå förbättringar.
 
-Uppdraget ska redovisas senast den 1 juli 2012\.
+Uppdraget ska redovisas senast den 1 juli 2012.

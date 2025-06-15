@@ -7,4 +7,4 @@ För att ytterligare markera allvaret i sexualbrott som riktar sig mot barn för
 
 I lagrådsremissen föreslås också den lagstiftning som krävs för att Sverige ska uppfylla åtagandena enligt Europarådets konvention om skydd för barn mot sexuell exploatering och sexuella övergrepp. Ändringar föreslås i reglerna om svensk domsrätt och åtalspreskription. Förslagen innebär dels att kravet på dubbel straffbarhet avskaffas för utnyttjande av barn för sexuell posering och köp av sexuell handling av barn, dels att preskriptionstiden förlängs för utnyttjande av barn för sexuell posering genom att den börjar löpa först den dag barnet fyller eller skulle ha fyllt 18 år.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2013\.
+Lagändringarna föreslås träda i kraft den 1 juli 2013.

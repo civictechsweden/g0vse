@@ -2,7 +2,6 @@
 
 Den huvudsakliga frågan i målet var om det skulle utgöra en kränkning av artikel 3 i Europakonventionen att utvisa klaganden till Libyen.
 
-
 Länk till beslutet i fulltext:
 
 [H.A. mot Sverige i Europadomstolens databas HUDOC (engelska)](https://hudoc.echr.coe.int/eng#{%22itemid%22:[%22001-205492%22]})

@@ -12,4 +12,4 @@ inkomstslaget kapital.
 
 Lagändringen föreslås träda i kraft den 1 januari 2017 och tillämpas
 första gången för beskattningsår som påbörjas efter den 31 december
-2 016\.
+2 016.

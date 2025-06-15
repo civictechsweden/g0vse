@@ -1,7 +1,6 @@
 # Regeringen uppmärksammar Antibiotikaveckan 2023
 
-Den 18 \- 24 november hålls Antibiotikaveckan, då problemet med antibiotikaresistens uppmärksammas världen över. Antibiotikaresistens orsakar redan i dag lidande och död bland människor och djur och har även stora ekonomiska konsekvenser. Hör socialminister Jakob Forssmed och Malin Grape, Sveriges ambassadör för arbetet mot antimikrobiell resistens, berätta mer om problemet och lösningarna.
-
+Den 18 - 24 november hålls Antibiotikaveckan, då problemet med antibiotikaresistens uppmärksammas världen över. Antibiotikaresistens orsakar redan i dag lidande och död bland människor och djur och har även stora ekonomiska konsekvenser. Hör socialminister Jakob Forssmed och Malin Grape, Sveriges ambassadör för arbetet mot antimikrobiell resistens, berätta mer om problemet och lösningarna.
 
 Transkribering:
 
@@ -9,7 +8,7 @@ Malin Grape:
 Jakob, du är ju är väldigt engagerad i frågan om antibiotikaresistens. Vad tycker du är viktigt att folk känner till om det?
 
 Jakob Forssmed:
-Det som gör frågan så viktig är ju bland annat att det är ett hot mot hela den moderna sjukvården. Tänk er en vanlig axeloperation eller om någon får en cancerbehandling om man inte har tillgång till antibiotika – då blir själva operationen rent livsfarlig. Så det här är ju en ödesfråga för världen, faktiskt, att vi ska kunna ha en modern hälso\- och sjukvård som klarar av sitt uppdrag. Och det kommer bli allt svårare om vi inte lyckas bromsa och hantera den här svåra utvecklingen.
+Det som gör frågan så viktig är ju bland annat att det är ett hot mot hela den moderna sjukvården. Tänk er en vanlig axeloperation eller om någon får en cancerbehandling om man inte har tillgång till antibiotika – då blir själva operationen rent livsfarlig. Så det här är ju en ödesfråga för världen, faktiskt, att vi ska kunna ha en modern hälso- och sjukvård som klarar av sitt uppdrag. Och det kommer bli allt svårare om vi inte lyckas bromsa och hantera den här svåra utvecklingen.
 
 Malin Grape:
 Det låter väldigt skrämmande. Vad är det vi behöver göra för att motverka utvecklingen av antibiotikaresistens och konsekvenserna av det?

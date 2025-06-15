@@ -1,11 +1,10 @@
 # Industristrategi och utveckling av den digitala marknaden på EU-möte
 
-När EU\-ländernas ministrar för konkurrenskraft möts i Bryssel 27 maj ska de bland annat diskutera regler för digitala tjänster. De ska också diskutera EU:s industristrategi och fatta beslut som handlar om återhämtning i kölvattnet av covid\-19\-pandemin.
-
+När EU-ländernas ministrar för konkurrenskraft möts i Bryssel 27 maj ska de bland annat diskutera regler för digitala tjänster. De ska också diskutera EU:s industristrategi och fatta beslut som handlar om återhämtning i kölvattnet av covid-19-pandemin.
 
 ## Digitala tjänster
 
-Ministrarna ska diskutera delar av EU\-kommissionens lagstiftningspaket för den digitala sektorn.
+Ministrarna ska diskutera delar av EU-kommissionens lagstiftningspaket för den digitala sektorn.
 
 Diskussionen kommer dels att handla om så kallad förhandsreglering av stora digitala plattformsleverantörer, dels om plattformarnas ansvar för information.
 

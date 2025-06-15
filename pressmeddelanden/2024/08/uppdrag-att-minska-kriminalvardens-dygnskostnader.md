@@ -18,4 +18,4 @@ I uppdraget ingår att göra en internationell jämförelse med andra europeiska
 
 Syftet med jämförelsen är att identifiera lämpliga åtgärder för att minska kostnaderna i svensk kriminalvård, utan att förutsättningarna för att upprätthålla en god säkerhet och ett effektivt återfallsförebyggande verksamhet försämras.
 
-Uppdraget ska redovisas senast den 26 juni 2025\.
+Uppdraget ska redovisas senast den 26 juni 2025.

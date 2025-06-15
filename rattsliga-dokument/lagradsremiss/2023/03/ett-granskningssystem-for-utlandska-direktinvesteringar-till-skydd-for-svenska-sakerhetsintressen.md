@@ -6,4 +6,4 @@ Det saknas i dag ett regelverk som ger tillräckliga förutsättningar för att 
 
 Regeringen föreslår därför en ny lag som ger en granskningsmyndighet möjlighet att granska utländska direktinvesteringar och, om det är nödvändigt, förbjuda dem.
 
-Den nya lagen föreslås träda i kraft den 1 december 2023\.
+Den nya lagen föreslås träda i kraft den 1 december 2023.

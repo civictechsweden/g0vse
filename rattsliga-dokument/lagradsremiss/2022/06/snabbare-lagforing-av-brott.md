@@ -13,4 +13,4 @@ Förslagen handlar bland annat om
 * snabbare delgivning av misstanke mot den som är under 18 år, och
 * effektivare hantering av strafföreläggande.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2023\.
+Lagändringarna föreslås träda i kraft den 1 januari 2023.

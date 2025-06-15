@@ -1,11 +1,10 @@
 # Gemensam vision fördjupar nordiskt försvarssamarbete
 
-I samband med Nordefcos försvarsministermöte den 29–30 april i Tórshavn, Färöarna, undertecknade de nordiska försvarsministrarna en gemensam vision för det nordiska försvarssamarbetet, Vision 2030\.
-
+I samband med Nordefcos försvarsministermöte den 29–30 april i Tórshavn, Färöarna, undertecknade de nordiska försvarsministrarna en gemensam vision för det nordiska försvarssamarbetet, Vision 2030.
 
 Försvarsministrarna från Sverige, Danmark, Finland, och Norge, Islands utrikesminister samt representanter från Färöarnas och Grönlands regeringar möttes för att diskutera säkerhetssituationen i närområdet inklusive Arktis och Nordatlanten, det ryska anfallskriget mot Ukraina och Nato.
 
-De senaste årens försvars\- och säkerhetspolitiska utveckling har stått i fokus för det nordiska försvarssamarbetet. Under det svenska Nordefco\-ordförandeskapet 2023 utvecklades nya målsättningar på såväl politisk som militär nivå för att fördjupa samarbetet i Norden, och i förhållande till Nato. Den 30 april undertecknade de nordiska försvars­ministrarna en gemensam vision för hur det nordiska försvarssamarbetet ska utvecklas till 2030\.
+De senaste årens försvars- och säkerhetspolitiska utveckling har stått i fokus för det nordiska försvarssamarbetet. Under det svenska Nordefco-ordförandeskapet 2023 utvecklades nya målsättningar på såväl politisk som militär nivå för att fördjupa samarbetet i Norden, och i förhållande till Nato. Den 30 april undertecknade de nordiska försvars­ministrarna en gemensam vision för hur det nordiska försvarssamarbetet ska utvecklas till 2030.
 
 I och med detta stärker de nordiska länderna försvarssamarbetet på åtta olika områden:
 

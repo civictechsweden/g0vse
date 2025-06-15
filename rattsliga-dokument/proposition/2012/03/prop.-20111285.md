@@ -4,8 +4,8 @@ I propositionen föreslår regeringen att riksdagen godkänner den i Haag den 19
 
 Regeringen föreslår att konventionen blir en del av svensk lagstiftning genom en särskild lag, som också innehåller kompletterande bestämmelser om bland annat beslut om tillfälliga skyddsåtgärder och handläggningen av ärenden om att få förklarat att ett utländskt avgörande är verkställbart i Sverige.
 
-Det föreslås en reglering i lag av förutsättningarna för placering av ett barn över nationsgränserna med stöd av samarbetsbestämmelserna i 1996 års Haagkonvention och Bryssel II\-förordningen. För att en sådan placering ska få äga rum måste det bedömas vara bäst för barnet att placeras i det aktuella landet.
+Det föreslås en reglering i lag av förutsättningarna för placering av ett barn över nationsgränserna med stöd av samarbetsbestämmelserna i 1996 års Haagkonvention och Bryssel II-förordningen. För att en sådan placering ska få äga rum måste det bedömas vara bäst för barnet att placeras i det aktuella landet.
 
 Det föreslås slutligen att det inte längre ska krävas att barnet och barnets föräldrar är svenska medborgare för att en anmälan om gemensam vårdnad ska kunna göras direkt till Skatteverket. Det ska räcka att barnet är folkbokfört här i landet.
 
-De lagar som ansluter till 1996 års Haagkonvention och Bryssel II\-förordningen föreslås träda i kraft den dag regeringen bestämmer. Lagändringen i föräldrabalken om anmälan om gemensam vårdnad föreslås träda i kraft den 1 juli 2012\.
+De lagar som ansluter till 1996 års Haagkonvention och Bryssel II-förordningen föreslås träda i kraft den dag regeringen bestämmer. Lagändringen i föräldrabalken om anmälan om gemensam vårdnad föreslås träda i kraft den 1 juli 2012.

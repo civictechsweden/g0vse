@@ -14,4 +14,4 @@ Utredaren ska bl.a.
 En parlamentariskt sammansatt referensgrupp ska knytas till
 utredningen.
 
-Uppdraget ska redovisas senast den 3 februari 2020\.
+Uppdraget ska redovisas senast den 3 februari 2020.

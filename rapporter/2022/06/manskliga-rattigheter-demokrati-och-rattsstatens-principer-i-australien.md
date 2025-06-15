@@ -2,7 +2,6 @@
 
 Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Australien samt en länk till rapporten i sin helhet.
 
-
 Australien är en väl utvecklad federal demokrati och rättsstat. Skyddet för de mänskliga rättigheterna är gott. Samhällsklimatet är öppet, med oberoende medier och stark yttrandefrihet.
 
 Rättsstatens principer upprätthålls väl. Domstolsväsendet är oberoende och välfungerande. Rättshjälp garanteras.
@@ -23,4 +22,4 @@ Diskriminering på grund av sexuell läggning, könsidentitet eller könsuttryck
 
 Australien har ratificerat flertalet av Internationella arbetsorganisationens (ILO) centrala konventioner. Australien har en reglerad federal minimilön. Arbetstagare har rätt att organisera sig fackligt.
 
-Regeringen har under covid\-19\-pandemin vidtagit en rad åtgärder för att stoppa och minska smittspridningen. Smittskyddsåtgärderna har under perioder kringskurit människors rörelsefrihet och vardagsliv. Bland annat har medborgare förvägrats utresa ur landet och karantänssystemet har inneburit svårigheter för australiska medborgare som velat återvända till Australien från utlandet.
+Regeringen har under covid-19-pandemin vidtagit en rad åtgärder för att stoppa och minska smittspridningen. Smittskyddsåtgärderna har under perioder kringskurit människors rörelsefrihet och vardagsliv. Bland annat har medborgare förvägrats utresa ur landet och karantänssystemet har inneburit svårigheter för australiska medborgare som velat återvända till Australien från utlandet.

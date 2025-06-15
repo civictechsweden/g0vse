@@ -9,4 +9,4 @@ I promemorian föreslås bland annat:
 * att Finansinspektionen ska ingripa mot åsidosättanden av skyldigheten att offentliggöra insiderinformation, men kan avstå från ingripande om något annat organ har vidtagit åtgärder mot personen och dessa åtgärder bedöms tillräckliga. Detta handlar om hur tillsynen över emittenters skyldighet att offentliggöra insiderinformation ska hanteras, särskilt när det gäller samordningen mellan civilrättsliga sanktioner och de administrativa sanktioner som EU:s marknadsmissbruksförordning förutsätter.
 * att den som har gjort en anmälan till Finansinspektionen om en misstänkt överträdelse av marknadsmissbruksförordningen inte ska få göras ansvarig för att ha åsidosatt någon tystnadsplikt.
 
-Lagändringarna föreslås träda i kraft den 1 februari 2017\.
+Lagändringarna föreslås träda i kraft den 1 februari 2017.

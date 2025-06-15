@@ -1,6 +1,6 @@
 # Komplettering av barlastvattenlagen
 
-I propositionen föreslås ändringar i barlastvattenlagen (2009:1165\) för att
+I propositionen föreslås ändringar i barlastvattenlagen (2009:1165) för att
 säkerställa att inspektioner av utländska fartyg i form av s.k. hamnstatskontroll
 kan utföras i enlighet med internationella bestämmelser. Vidare
 föreslås en ändring i lagen så att samtliga åtgärder enligt lagen som bör

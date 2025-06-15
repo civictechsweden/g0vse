@@ -10,4 +10,4 @@ Utredaren ska bland annat:
 • föreslå hur staten kan ta över ansvaret för ledning av utbildningen och den dagliga driften i de skolor som i dag drivs av offentliga huvudmän, och
 • analysera konsekvenserna för bland annat det kommunala självstyret, möjligheter till anpassning utifrån lokala behov och förutsättningar samt möjligheter till ansvarsutkrävande.
 
-Uppdraget ska redovisas senast den 31 maj 2022\.
+Uppdraget ska redovisas senast den 31 maj 2022.

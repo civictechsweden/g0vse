@@ -2,7 +2,6 @@
 
 Brottsvinster från olika typer av bedrägerier göder den organiserade brottsligheten. Många människor drabbas hårt. Telefonbedrägerier är ett exempel på bedrägeri som har ökat kraftigt de senaste åren. Bedragare kontaktar en person via samtal eller sms och lurar denne att logga in på sin bank eller lämna ut koder eller kortuppgifter. Telefonbedrägerierna, som ofta riktas mot äldre, är en viktig finansieringskälla för kriminella gäng.
 
-
 Finansmarknadsminister Niklas Wykman har de senaste dagarna haft en rad möten med representanter för Sveriges ledande telekombolag.
 
 Syftet med mötena är att säkerställa att bolagen gör det som krävs för att stoppa bedrägerierna. Diskussionen handlade om relevanta åtgärder som bolagen kan vidta tillsammans och enskilt, om samarbetet med bankerna, samt om den aktuella regleringen.

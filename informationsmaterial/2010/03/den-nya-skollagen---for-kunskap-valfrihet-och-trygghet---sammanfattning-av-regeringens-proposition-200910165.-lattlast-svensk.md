@@ -8,4 +8,4 @@ Skollagen innehåller regler och bestämmelser för hur skolorna i landet ska ar
 
 Skollagen gäller alla skolor från förskola till och med vuxenutbildning.
 
-Riksdagen fick propositionen den 23 mars år 2010\.
+Riksdagen fick propositionen den 23 mars år 2010.

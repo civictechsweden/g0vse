@@ -3,7 +3,7 @@
 På Ekofinrådets möte den 7 december 2021 finns följande punkter på dagordningen:
 
 * (ev.) Förslag till rådets direktiv om mervärdesskattesatser
-* Förslag inom 55 %\-paketet (gränsjusteringsmekanismen för koldioxid, energiskattedirektivet och sociala klimatfonden)
+* Förslag inom 55 %-paketet (gränsjusteringsmekanismen för koldioxid, energiskattedirektivet och sociala klimatfonden)
 * Förstärkningen av bankunionen
 * (ev.) Lagstiftningspaketet om kapitalmarknadsunionen
 * Lagstiftningspaket om bekämpning av penningtvätt ochfinansiering av terrorism

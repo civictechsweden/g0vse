@@ -6,6 +6,6 @@ En viktig del av uppdraget handlar om att utreda grundlagsskyddet för söktjän
 
 Dagens söktjänster omfattas normalt av det skydd för yttrandefriheten som finns i yttrandefrihetsgrundlagen. Genom att ha beviljats utgivningsbevis för verksamheten har de ett så kallat frivilligt grundlagsskydd enligt grundlagens databasregel. Utredaren ska därför ta ställning till om det finns behov av att inskränka detta grundlagsskydd och ska vid behov lämna förslag på förändringar i lagstiftningen.
 
-Uppdraget ska redovisas senast den 15 november 2024\.
+Uppdraget ska redovisas senast den 15 november 2024.
 
 Hovrättsrådet Daniel Gustavsson har förordnats till utredare. Han kommer att biträdas av en parlamentariskt sammansatt referensgrupp.

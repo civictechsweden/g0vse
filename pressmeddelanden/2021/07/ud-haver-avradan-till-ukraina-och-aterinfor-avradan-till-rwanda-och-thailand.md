@@ -13,6 +13,6 @@ På många platser finns det fortfarande strikta inresebestämmelser och lokala 
 ### Gällande beslut i korthet
 
 * Från och med den 22 juli 2021 hävs avrådan från icke nödvändiga resor till Ukraina. För halvön Krim samt regionerna Donetsk och Luhansk kvarstår dock avrådan från alla resor.
-* UD återinför samtidigt avrådan från icke nödvändiga resor för Rwanda och Thailand. Beslutet gäller till och med den 1 september 2021\.
+* UD återinför samtidigt avrådan från icke nödvändiga resor för Rwanda och Thailand. Beslutet gäller till och med den 1 september 2021.
 * UD har i tidigare beslut hävt avrådan från icke nödvändiga resor till: Albanien, Andorra, Armenien, Australien, Azerbajdzjan, Belgien, Bosnien och Hercegovina, Brunei, Bulgarien, Cypern, Danmark, Estland, Finland, Frankrike, Förenade kungariket Storbritannien och Nordirland, Grekland, Irland, Island, Israel, Italien, Japan, Jordanien, Kanada, Kosovo, Kroatien, Lettland, Libanon, Liechtenstein, Litauen, Luxemburg, Malta, Moldavien, Monaco, Montenegro, Nederländerna, Nordmakedonien, Norge, Nya Zeeland, Polen, Portugal, Qatar, Rumänien, San Marino, Saudiarabien, Schweiz, Serbien, Singapore, Slovakien, Slovenien, Spanien, Sydkorea, Tjeckien, Tyskland, Ungern, USA, Vatikanstaten, Österrike samt Hongkong, Macao och Taiwan.
-* För de länder som inte omfattas av punkt 1 eller 3 ovan gäller avrådan från icke nödvändiga resor alltjämt till och med den 1 september 2021\.
+* För de länder som inte omfattas av punkt 1 eller 3 ovan gäller avrådan från icke nödvändiga resor alltjämt till och med den 1 september 2021.

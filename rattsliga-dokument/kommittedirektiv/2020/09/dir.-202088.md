@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * undersöka och vid behov lämna förslag till vägledning och stöd för den ekonomiska styrningen i kommuner och regioner, och
 * föreslå lösningar som sammantaget skapar goda förutsättningar för en effektiv ekonomistyrning i kommuner och regioner och som ligger i linje med målen för den nationella finanspolitiken.
 
-Uppdraget ska redovisas senast den 24 september 2021\.
+Uppdraget ska redovisas senast den 24 september 2021.

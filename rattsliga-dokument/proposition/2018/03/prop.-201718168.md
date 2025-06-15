@@ -4,4 +4,4 @@ Regeringen föreslår att skydd av sjukpenninggrundande inkomst, SGI, också ska
 
 För dem som startar aktiebolag föreslår regeringen att SGI – under företagets uppbyggnadsskede – beräknas utifrån samma principer som för enskilda näringsidkare. Tiden för uppbyggnadsskedet förlängs från 24 till 36 månader.
 
-Förslagen om företagarnas SGI föreslås träda ikraft den 1 augusti 2018\. Övriga förslag föreslås träda i kraft den 1 juli 2018\.
+Förslagen om företagarnas SGI föreslås träda ikraft den 1 augusti 2018. Övriga förslag föreslås träda i kraft den 1 juli 2018.

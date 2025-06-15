@@ -1,7 +1,7 @@
 # Genomförande av det nya EU-direktivet om kvaliteten på dricksvatten och om bättre tillgång till dricksvatten för alla i unionen
 
 En särskild utredare ges i uppdrag att föreslå hur det kommande
-EU\-direktivet om kvaliteten på dricksvatten och om bättre tillgång till dricksvatten för alla i unionen i sin helhet ska genomföras i svensk rätt.
+EU-direktivet om kvaliteten på dricksvatten och om bättre tillgång till dricksvatten för alla i unionen i sin helhet ska genomföras i svensk rätt.
 
 Utredaren ska bland annat
 
@@ -11,4 +11,4 @@ Utredaren ska bland annat
 * bedöma behovet av författningsändringar och andra åtgärder, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 1 september 2021\.
+Uppdraget ska redovisas senast den 1 september 2021.

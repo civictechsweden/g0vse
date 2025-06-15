@@ -2,7 +2,7 @@
 
 I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och
 rekommendationer som Riksrevisionen har redovisat i rapporten Det
-finanspolitiska ramverket – regeringens tillämpning 2019 (RiR 2019:38\).
+finanspolitiska ramverket – regeringens tillämpning 2019 (RiR 2019:38).
 
 I sin rapport konstaterar Riksrevisionen bl.a. att det är otydligt hur det
 bakåtblickande åttaåriga genomsnittet för det finansiella sparandet ska

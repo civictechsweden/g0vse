@@ -6,4 +6,4 @@ Det nationella kvalitetssäkringssystemet bygger i grunden på att varje läros�
 
 Enligt det nya uppdraget i myndighetens regleringsbrev för 2023 som regeringen har beslutat om ska UKÄ ge förslag på hur det nationella kvalitetssäkringssystemet kan utvecklas för att ytterligare stärka kvalitet och främja excellens inom svensk högre utbildning. Förslagen ska ges inom ramen för nuvarande kvalitetssäkringsuppdrag enligt myndighetens instruktion och får inte medföra ökad administrativ börda för universitet och högskolor. Förslagen ska tas fram i dialog med lärosätena.
 
-Uppdraget ska redovisas senast den 6 september 2024\.
+Uppdraget ska redovisas senast den 6 september 2024.

@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * analysera effektiviteten och ändamålsenligheten i uppföljningssystemet, ta ställning till behovet av förändringar och vid behov lämna förslag till förändringar, och
 * lämna nödvändiga och fullständiga författningsförslag.
 
-Uppdraget ska redovisas senast den 30 juni 2019\.
+Uppdraget ska redovisas senast den 30 juni 2019.

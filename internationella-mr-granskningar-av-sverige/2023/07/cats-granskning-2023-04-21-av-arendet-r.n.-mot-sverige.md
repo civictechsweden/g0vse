@@ -1,7 +1,6 @@
 # CAT:s granskning (2023-04-21) av ärendet R.N. mot Sverige
 
-Fråga om utvisning av klaganden till Burundi skulle strida mot artikel 3 i FN\-konventionen mot tortyr m.m.
-
+Fråga om utvisning av klaganden till Burundi skulle strida mot artikel 3 i FN-konventionen mot tortyr m.m.
 
 Klaganden anförde inför kommittén att en utvisning av honom till Burundi skulle strida mot artikel 3 i konventionen, framför allt på grund av hans politiska engagemang.
 

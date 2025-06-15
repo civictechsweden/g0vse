@@ -2,7 +2,6 @@
 
 Den 20 juni träffade kulturminister Parisa Liljestrand och justitieminister Gunnar Strömmer aktörer från den svenska mediebranschen tillsammans med myndigheter som är centrala i arbetet med journalisters säkerhet.
 
-
 Regeringen beslutade i samband med pressfrihetens dag den 3 maj i år att ge Brottsofferjouren en miljon kronor för att bygga upp en nationell kontaktpunkt för journalister som är i behov av stöd eller skydd till följd av sin yrkesutövning. Samtidigt fick Mediemyndigheten i uppdrag att följa frågan om journalisters säkerhet och samla relevanta aktörer till dialog.
 
 För att de nu beslutade insatserna ska uppnå önskad effekt och bidra till verkligt mervärde för journalister hölls ett rundabordssamtal där kulturministern och justitieministern mötte aktörer från den svenska mediebranschen för att diskutera hur man kan skapa bättre förutsättningar för journalister att verka, om det behövs mer tillgång till stöd och hur det stödet i så fall kan utformas.

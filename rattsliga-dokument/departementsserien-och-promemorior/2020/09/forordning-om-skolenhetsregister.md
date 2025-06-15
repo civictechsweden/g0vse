@@ -6,4 +6,4 @@ Skolenhetsregistret ska föras av Statens skolverk och innehålla grundläggande
 
 Uppgifterna i skolenhetsregistret ska få användas av myndigheter och enskilda och Statens skolverk ska avgiftsfritt hålla uppgifter ur skolenhetsregistret tillgängligt för allmänheten genom en publik webbplats.
 
-Förordningen föreslås träda i kraft den 23 oktober 2020\.
+Förordningen föreslås träda i kraft den 23 oktober 2020.

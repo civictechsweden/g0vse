@@ -1,11 +1,10 @@
 # Tal av statsminister Ulf Kristersson 17 november 2023
 
-Statsminister Ulf Kristerssons inledningstal på ”Fannys Förebilder – Gala version”, en gala mot mäns våld mot kvinnor. Stockholm, fredag den 17 november 2023\.
+Statsminister Ulf Kristerssons inledningstal på ”Fannys Förebilder – Gala version”, en gala mot mäns våld mot kvinnor. Stockholm, fredag den 17 november 2023.
 
 Det talade ordet gäller.
 
-
-Allra först: tack för att jag får vara med er här ikväll \- tillsammans med så många imponerande förebilder.
+Allra först: tack för att jag får vara med er här ikväll - tillsammans med så många imponerande förebilder.
 
 Men, låt mig vara ärlig:
 
@@ -23,7 +22,7 @@ Men vi vet alla, att det inte ser ut så i Sverige. Våld, hot och trakasserier 
 
 Vi har kvinnor – flickor – här i vårt land som tvingas in i äktenskap mot sin vilja, eller som på annat sätt blir kontrollerade – i sin vardag, i sin sexualitet, i sitt liv. Kvinnor som blir slagna och misshandlade – fysiskt och psykiskt. Flickor som lär sig att det är deras lott i livet. Helt förfärligt.
 
-Det är därför vi är här ikväll. För att fira de hjältar som arbetar för ett mer jämställt samhälle, och för att stötta de insatser som görs på tjej\- och kvinnojourer runt om i Sverige.
+Det är därför vi är här ikväll. För att fira de hjältar som arbetar för ett mer jämställt samhälle, och för att stötta de insatser som görs på tjej- och kvinnojourer runt om i Sverige.
 
 För mig är jämlikhet mellan människor och jämställdhet mellan kvinnor och män en svensk kärnvärdering. En värdering värd att försvara, värd att slåss för.
 
@@ -51,7 +50,7 @@ Det finns mycket som vi i regering och riksdag kan göra. Och nu gör vi det. Vi
 
 Jag minns de fruktansvärda morden påsken 2021, när fem kvinnor mördades på mindre än tre veckor. Jag pratade då med både Unizon och Roks om att Sverige borde införa obligatorisk häktning. Det var vi överens om redan då och nu genomför den nya regeringen just det.
 
-Det arbetet leds av justitieminister Gunnar Strömmer och jämställdhetsminister Paulina Brandberg. Hon har många års erfarenhet som åklagare med fokus på relations\- och sexualbrott. Den hands\-on kompetensen är extremt värdefull.
+Det arbetet leds av justitieminister Gunnar Strömmer och jämställdhetsminister Paulina Brandberg. Hon har många års erfarenhet som åklagare med fokus på relations- och sexualbrott. Den hands-on kompetensen är extremt värdefull.
 
 Snart kommer män som slår kvinnor alltid bli häktade. De kommer få hårdare straff. Och dessutom få ett större kontaktförbud än i dag: i särskilt allvarliga fall ska de kunna gälla en hel kommun. Det är farliga män som ska flytta på sig – inte de kvinnor och barn som männen har plågat.
 

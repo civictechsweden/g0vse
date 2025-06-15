@@ -4,4 +4,4 @@ Regeringen beslutade den 12 juli 2012 att ge en särskild utredare i uppdrag att
 
 Uppdraget kompletteras nu med en översyn av hur långsiktighet och stabilitet i större utsträckning kan säkerställas för barn som är eller bedöms bli långvarigt placerade.
 
-Tiden för slutredovisning förlängs till den 15 juni 2015\.
+Tiden för slutredovisning förlängs till den 15 juni 2015.

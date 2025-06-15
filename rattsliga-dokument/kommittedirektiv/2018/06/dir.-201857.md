@@ -9,6 +9,6 @@ nya myndigheten.
 
 Uppdraget att utforma ett regelverk för ett upphandlat
 fondtorg för premiepension och regleringen av den nya myndigheten
-ska redovisas senast den 1 november 2019\. Uppdraget att
+ska redovisas senast den 1 november 2019. Uppdraget att
 inrätta den nya myndigheten med ansvar för fondtorget för
-premiepension, som ska kunna inleda sin verksamhet den 1 september 2020, ska redovisas senast den 31 augusti 2020\.
+premiepension, som ska kunna inleda sin verksamhet den 1 september 2020, ska redovisas senast den 31 augusti 2020.

@@ -1,6 +1,6 @@
 # Tilläggsdirektiv till Regelrådet (N 2008:05)
 
-Regelrådet är ett för Regeringskansliet och förvaltningsmyndigheterna rådgivande organ som ska granska konsekvensutredningar. Rådet skulle enligt sina direktiv bedriva sitt arbete t.o.m. den 31 december 2010 (dir. 2008:57\). Genom tilläggsdirektiv (dir. 2010:96\) har rådets uppdrag förlängts till den 31 december 2014\. Regelrådets roll som rådgivande organ behöver utvecklas ytterligare.
+Regelrådet är ett för Regeringskansliet och förvaltningsmyndigheterna rådgivande organ som ska granska konsekvensutredningar. Rådet skulle enligt sina direktiv bedriva sitt arbete t.o.m. den 31 december 2010 (dir. 2008:57). Genom tilläggsdirektiv (dir. 2010:96) har rådets uppdrag förlängts till den 31 december 2014. Regelrådets roll som rådgivande organ behöver utvecklas ytterligare.
 
 Regelrådet ska därför med förtydligande av uppdraget
 

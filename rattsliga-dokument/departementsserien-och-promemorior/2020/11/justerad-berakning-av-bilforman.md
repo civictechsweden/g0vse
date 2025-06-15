@@ -12,4 +12,4 @@ Förslaget föreslås träda i kraft den 1 juli 2021 och avser bilar som blir sk
 
 Förslaget beräknas öka skatteintäkterna 2021 med omkring 150 miljoner kronor.
 
-Remissvaren ska ha kommit in till Finansdepartementet senast den 26 januari 2021\.
+Remissvaren ska ha kommit in till Finansdepartementet senast den 26 januari 2021.

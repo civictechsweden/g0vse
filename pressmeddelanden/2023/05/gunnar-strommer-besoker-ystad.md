@@ -4,5 +4,5 @@ Kvinnor i kriminalvård är fokus för besöket vid anstalten Ystad, som är en 
 
 I samband med besöket i Ystad finns även en särskild tid avsatt för media.
 
-**Datum och tid för media**: Fredag 5 maj kl. 15\.30
+**Datum och tid för media**: Fredag 5 maj kl. 15.30
 **Plats:** Utanför Ystad anstalt, Norra Zinkgatan 6, Ystad

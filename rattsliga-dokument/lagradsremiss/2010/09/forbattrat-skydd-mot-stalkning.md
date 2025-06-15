@@ -8,4 +8,4 @@ Vidare föreslås att elektronisk övervakning ska få användas för att kontro
 
 I lagrådsremissen föreslås också att ett särskilt brott, olaga förföljelse, införs i brottsbalken. Förslaget syftar till att förstärka det straffrättsliga skyddet mot trakasserier och förföljelse.
 
-Ändringarna föreslås träda i kraft den 1 oktober 2011\.
+Ändringarna föreslås träda i kraft den 1 oktober 2011.

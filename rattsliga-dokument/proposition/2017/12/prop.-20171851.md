@@ -1,8 +1,8 @@
 # Kompletterande bestämmelser till EU:s förordning om personlig skyddsutrustning
 
 I propositionen lämnas förslag till en ny lag som syftar till att anpassa
-svensk rätt till EU\-förordning om personlig skyddsutrustning. Vidare
-föreslås i anledning av EU\-förordningen vissa ändringar i
+svensk rätt till EU-förordning om personlig skyddsutrustning. Vidare
+föreslås i anledning av EU-förordningen vissa ändringar i
 arbetsmiljölagen.
 
 Förordningen, som ersätter det tidigare direktivet på området,
@@ -25,4 +25,4 @@ av sanktionsavgift. Den föreslagna lagen innehåller även bestämmelser
 om hjälp av Polismyndigheten, ekonomisk ersättning, tystnadsplikt och
 överklagande.
 
-Lagen och lagändringarna föreslås träda i kraft den 21 april 2018\.
+Lagen och lagändringarna föreslås träda i kraft den 21 april 2018.

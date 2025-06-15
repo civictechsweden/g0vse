@@ -4,4 +4,4 @@ I propositionen föreslås ändringar i lagen om ansvar för god forskningssed o
 
 Det föreslås bestämmelser om behandling av känsliga personuppgifter, skyddsåtgärder och undantag från den registrerades rättigheter i EU:s dataskyddsförordning.
 
-Lagändringarna föreslås träda i kraft samma dag som lagen om ansvar för god forskningssed och prövning av oredlighet i forskning, dvs. den 1 januari 2020\.
+Lagändringarna föreslås träda i kraft samma dag som lagen om ansvar för god forskningssed och prövning av oredlighet i forskning, dvs. den 1 januari 2020.

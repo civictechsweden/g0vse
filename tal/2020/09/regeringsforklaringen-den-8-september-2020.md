@@ -1,7 +1,6 @@
 # Regeringsförklaringen den 8 september 2020
 
-Statsminister Stefan Löfven, riksdagen, den 8 september 2020\.
-
+Statsminister Stefan Löfven, riksdagen, den 8 september 2020.
 
 Eders Majestäter, Herr talman, Ärade ledamöter av Sveriges riksdag!
 
@@ -28,8 +27,8 @@ Ni har gett varje svensk invånare skäl att vara stolt över vår demokrati.
 
 Det nya coronaviruset kommer att prägla vårt land under lång tid och samhället är rustat för nya utbrott.
 
-Regeringen har beslutat att delta i EU\-gemensamma upphandlingar om vaccin. Storskalig testning, fysiskt avstånd och smittspårning fortsätter.
-En kommission utvärderar nu samhällets samlade åtgärder för att hantera coronakrisen. Kommissionens första rapport kommer före årsskiftet och uppdraget ska slutredovisas i februari 2022\.
+Regeringen har beslutat att delta i EU-gemensamma upphandlingar om vaccin. Storskalig testning, fysiskt avstånd och smittspårning fortsätter.
+En kommission utvärderar nu samhällets samlade åtgärder för att hantera coronakrisen. Kommissionens första rapport kommer före årsskiftet och uppdraget ska slutredovisas i februari 2022.
 
 Vi har talat ovanligt mycket om ansvar och sammanhållning under året.
 Varje person har behövt ta ett stort ansvar för att Sverige ska klara av coronakrisen – och varje person kommer att behövas för att bygga vårt land starkare.
@@ -56,7 +55,7 @@ Herr talman.
 
 Det nya coronaviruset har slagit hårt mot människors liv och hälsa, men också samhällsekonomin har drabbats. Många företagare och arbetstagare har ett mycket tufft år.
 
-När det nya coronaviruset kom hade Sverige den lägsta statsskulden sedan 1977\. Den ekonomiska styrkan möjliggjorde åtgärder som korttids­permittering och omställningsstöd, vilket har räddat jobb och företag.
+När det nya coronaviruset kom hade Sverige den lägsta statsskulden sedan 1977. Den ekonomiska styrkan möjliggjorde åtgärder som korttids­permittering och omställningsstöd, vilket har räddat jobb och företag.
 
 Nu går vi vidare. Vi behöver fortsätta hålla nere smittspridningen, men nu påbörjas omställningen från krispolitik till långsiktiga investeringar. Det innebär en historisk budget med nya förslag på över 100 miljarder kronor.
 
@@ -66,7 +65,7 @@ En hög sysselsättning är avgörande för Sveriges välstånd. Men arbete är 
 
 Människor behöver vara rustade för att kunna ta de jobb som finns. Därför fortsätter utbyggnaden av Kunskapslyftet i hela landet. Särskilt fokus riktas mot bristyrkesutbildningar.
 
-Forskning och innovation krävs för att skapa jobb och stärka Sveriges konkurrenskraft. En forsknings\- och innovationsproposition kommer att presenteras i höst.
+Forskning och innovation krävs för att skapa jobb och stärka Sveriges konkurrenskraft. En forsknings- och innovationsproposition kommer att presenteras i höst.
 
 Arbetsrätten ska moderniseras och anpassas till dagens arbetsmarknad, samtidigt som balansen mellan parterna ska upprätthållas. Om arbetsmarknadens parter når en överenskommelse om hur lagen om anställningsskydd ska reformeras, så kommer regeringen att lägga förslag i enlighet med den.
 
@@ -82,7 +81,7 @@ Herr talman.
 
 Den globala uppvärmningen är vår tids ödesfråga. Konsekvenserna av ett varmare klimat – bränder, torka, stigande havsnivåer – fortsätter att drabba människor. Världens fattigaste bär minst skuld till klimatkrisen men är samtidigt de som drabbas värst.
 
-Sverige ska bli världens första fossilfria välfärdsland. Vi ska fortsätta att vara världsledande i arbetet med att motverka den globala uppvärmningen och i genomförandet av Agenda 2030\.
+Sverige ska bli världens första fossilfria välfärdsland. Vi ska fortsätta att vara världsledande i arbetet med att motverka den globala uppvärmningen och i genomförandet av Agenda 2030.
 
 Att Sverige är världsledande inom klimatomställning och elektrifiering gynnar våra företag, vår export, våra arbetstagare, vår välfärd, vårt land.
 
@@ -126,8 +125,6 @@ De äldre som varit med och byggt Sverige har rätt till en god ålderdom och en
 Under nästa år införs ett särskilt pensionstillägg på upp till 600 kronor i månaden för den som har slitit ett helt yrkesliv med låg lön.
 Pengar som kommer att göra skillnad. Skillnaden i beskattning mellan pension och lön ska tas bort helt.
 
-
-
 Regeringen tar samtidigt nästa steg för långsiktigt höjda pensioner genom fördjupade diskussioner inom Pensionsgruppen. Regeringens uppfattning är att inbetalningarna till pensionssystemet behöver öka.
 
 Den som jobbar inom äldreomsorgen har ett viktigt, ansvarsfullt jobb. Det behöver tydliggöras. Catrin Jansson, undersköterska i hemtjänsten, skrev i sin novell ”De levande” såhär:
@@ -150,19 +147,19 @@ Sverige ska ha en jämlik sjukvård i världsklass som ska finnas där för alla
 
 Personal inom vård och omsorg har visat stor skicklighet under mycket tuffa förhållanden. Ni har imponerat på ett helt land. Ni har ett helt lands tacksamhet.
 
-För att säkra tillgången på akut sjukvård har många patienters besök eller operationer blivit uppskjutna. Sjukvården ska ha resurser att hantera de uppdämda vårdbehoven och den covid\-19\-relaterade vården. Behoven i landet är stora. Förstärkningen av de allmänna bidragen till kommuner och regioner fortsätter.
+För att säkra tillgången på akut sjukvård har många patienters besök eller operationer blivit uppskjutna. Sjukvården ska ha resurser att hantera de uppdämda vårdbehoven och den covid-19-relaterade vården. Behoven i landet är stora. Förstärkningen av de allmänna bidragen till kommuner och regioner fortsätter.
 
 Primärvården ska reformeras. Regeringen vill göra det lättare att få en tid på vårdcentraler i hela landet, stärka vården för exempelvis äldre och utöka förutsättningarna för förebyggande insatser. En fast läkarkontakt är avgörande.
 
-Hälso\- och sjukvårdens krisberedskap stärks. Offentliga såväl som privata aktörers ansvar för en säker försörjning av läkemedel utreds, liksom införandet av särskilda beredskapsapotek.
+Hälso- och sjukvårdens krisberedskap stärks. Offentliga såväl som privata aktörers ansvar för en säker försörjning av läkemedel utreds, liksom införandet av särskilda beredskapsapotek.
 
 Grundskolorna har varit öppna i Sverige under våren. Det är en mening som nog aldrig tidigare uttalats i en regeringsförklaring. Under dessa nya förhållanden har lärare och annan skolpersonal utfört ett fantastiskt arbete.
 
 Det ska vara ordning och reda i skolans klassrum – och ordning och reda i skolans styrning. En nationell plan för studiero och trygghet i skolan tas fram. Skolinspektionen ska ges ökade möjligheter att kunna stänga fristående och kommunala skolor med stora och återkommande brister.
 
-Kunskap och bildning är ledstjärnor för nya reviderade kurs\- och ämnesplaner och därmed för svensk skola. Elevernas kunskapsresultat har förbättrats i flera internationella kunskapsmätningar samtidigt som preliminär statistik från våren visar att andelen niondeklassare som är behöriga till gymnasieskolan ökar.
+Kunskap och bildning är ledstjärnor för nya reviderade kurs- och ämnesplaner och därmed för svensk skola. Elevernas kunskapsresultat har förbättrats i flera internationella kunskapsmätningar samtidigt som preliminär statistik från våren visar att andelen niondeklassare som är behöriga till gymnasieskolan ökar.
 
-Regeringens fokus är att kunskaperna ska fortsätta öka. Skolans resurser ska fördelas efter behov och skolan ska bli mer jämlik. En utredning om statligt huvudmannaskap tillsätts. Köerna i barn\- och ungdomspsykiatrin ska minska och elevhälsan värnas.
+Regeringens fokus är att kunskaperna ska fortsätta öka. Skolans resurser ska fördelas efter behov och skolan ska bli mer jämlik. En utredning om statligt huvudmannaskap tillsätts. Köerna i barn- och ungdomspsykiatrin ska minska och elevhälsan värnas.
 
 Skickliga förskollärare, lärare och rektorer är grunden för en framgångsrik skola. Ett professionsprogram ska utformas, som syftar till att förskollärare, lärare och rektorer ska växa i sin profession, utveckla undervisningen och bidra till forskningen.
 
@@ -170,19 +167,16 @@ Svensk välfärd ska stärkas – i år och under kommande år.
 
 \*\*\*
 
-
-
-
 Herr talman.
 
 Sveriges utrikespolitik har som mål att skapa trygghet i vårt land och i vår omvärld. Vår tids stora utmaningar hanteras bäst genom multilateralt samarbete – i FN, i EU och i vårt närområde.
 
 Gemensam säkerhet bygger vi tillsammans.
-EU är vår viktigaste utrikes\- och säkerhetspolitiska arena. Inget annat samarbete är så avgörande för svensk säkerhet och fred.
+EU är vår viktigaste utrikes- och säkerhetspolitiska arena. Inget annat samarbete är så avgörande för svensk säkerhet och fred.
 
-EU är också centralt för svensk ekonomi, välfärd och vårt klimatarbete. Krisberedskapen ska stärkas och den inre marknaden ska utvecklas för stärkt konkurrenskraft i den globala ekonomin. Sverige ska fullt ut delta i och forma EU\-samarbetet på ett sätt som värnar både svenska och europeiska intressen.
+EU är också centralt för svensk ekonomi, välfärd och vårt klimatarbete. Krisberedskapen ska stärkas och den inre marknaden ska utvecklas för stärkt konkurrenskraft i den globala ekonomin. Sverige ska fullt ut delta i och forma EU-samarbetet på ett sätt som värnar både svenska och europeiska intressen.
 
-EU\-samarbetet bygger på våra gemensamma värderingar. Sverige ska fortsatt driva på för att alla länder ska respektera principer som oberoende domstolar och fria medier. Länder som inte respekterar rättsstatens principer ska inte kunna få EU\-bidrag på samma sätt som tidigare.
+EU-samarbetet bygger på våra gemensamma värderingar. Sverige ska fortsatt driva på för att alla länder ska respektera principer som oberoende domstolar och fria medier. Länder som inte respekterar rättsstatens principer ska inte kunna få EU-bidrag på samma sätt som tidigare.
 
 Sveriges säkerhetspolitiska linje ligger fast. Den militära alliansfriheten tjänar vårt land väl och bidrar till stabilitet och säkerhet i norra Europa. Sverige kommer inte att förhålla sig passivt om en katastrof eller ett angrepp drabbar ett annat land i Norden eller i EU. Vi förväntar oss att dessa länder agerar på samma sätt om Sverige drabbas.
 
@@ -190,9 +184,7 @@ Sverige står upp för Ukrainas suveränitet och territoriella integritet. Vi f�
 
 Vi stöder det belarusiska folkets strävan efter demokrati. Utvecklingen i Belarus påverkar säkerheten i Sveriges närområde.
 
-Det säkerhetspolitiska läget i Sveriges närområde och i Europa har över tid försämrats. Regeringen bedömer att totalförsvarets förmåga därför behöver fortsätta att förstärkas och öka betydligt. Betydande tillskott tillförs det militära försvaret. Sveriges bilaterala och multilaterala försvars\- och säkerhetspolitiska samarbeten bör fortsätta att fördjupas.
-
-
+Det säkerhetspolitiska läget i Sveriges närområde och i Europa har över tid försämrats. Regeringen bedömer att totalförsvarets förmåga därför behöver fortsätta att förstärkas och öka betydligt. Betydande tillskott tillförs det militära försvaret. Sveriges bilaterala och multilaterala försvars- och säkerhetspolitiska samarbeten bör fortsätta att fördjupas.
 
 Det civila försvaret förstärks kraftigt efter många år av nedmontering. Arbetet med att inrätta en myndighet för psykologiskt försvar fortsätter. Ett nationellt cybersäkerhetscenter inrättas under året.
 
@@ -208,18 +200,16 @@ Det nordiska samarbetet är unikt. Våra länder ska dra lärdomar från hanteri
 
 Sverige ska fortsatt vara den ledande kraften i världen för en feministisk utrikespolitik. Coronakrisen har satt behovet av jämlikhet, hälsa och sjukvård världen över i blixtbelysning. Utvecklingssamarbetets demokratifokus fortsätter. Sverige kommer vara drivande internationellt för ett effektivt och ansvarsfullt bistånd.
 
-Multilateralt samarbete är ledordet när FN i år fyller 75\. Sverige ska fortsätta att göra sin del för fred, frihet och samarbete.
+Multilateralt samarbete är ledordet när FN i år fyller 75. Sverige ska fortsätta att göra sin del för fred, frihet och samarbete.
 
 \*\*\*
 
 Herr talman.
 
-Den 15 juni började 61 nya polisassistenter sin tjänstgöring i Polisområdet Stockholm syd. I Polisområdet Nordvästra Skåne var de 22 nya. Och i Polisområdet Västerbotten var de 11\.
-
-
+Den 15 juni började 61 nya polisassistenter sin tjänstgöring i Polisområdet Stockholm syd. I Polisområdet Nordvästra Skåne var de 22 nya. Och i Polisområdet Västerbotten var de 11.
 
 Sverige har nu nästan 21 000 poliser, det högsta antalet någonsin.
-Vi är halvvägs till målet om 10 000 fler polisanställda till 2024\.
+Vi är halvvägs till målet om 10 000 fler polisanställda till 2024.
 Förstärkningen av polisen fortsätter.
 
 När gängen sprider skräck och våld är det ofta hårt arbetande människor som bor i utsatta områden som drabbas.
@@ -267,13 +257,13 @@ Sverige ska fortsätta att värna jämställdhet, jämlikhet och demokrati – h
 
 Trots att rasismen och nazismen borde ha lagts på historiens skräphög för länge, länge sedan, frodas de i dag. Under året har exempelvis afrosvenskar höjt sina röster mot den rasism de drabbas av. Rasism i alla dess former och uttryck ska motas tillbaka av hela samhället.
 
-Malmö internationella forum för hågkomst av Förintelsen och bekämpande av antisemitism har skjutits upp till följd av coronakrisen men äger rum hösten 2021\.
+Malmö internationella forum för hågkomst av Förintelsen och bekämpande av antisemitism har skjutits upp till följd av coronakrisen men äger rum hösten 2021.
 
 Den svenska migrationspolitiken ska vara rättssäker, effektiv och human. Asylrätten ska värnas. Sverige har tagit ett stort ansvar för att ge en fristad åt människor som lämnat sitt land för att söka skydd. Fler länder i EU måste ta sitt ansvar. Den migrationspolitiska kommittén lämnar snart sitt betänkande. Arbetet fortsätter då med ett långsiktigt hållbart regelverk för framtidens migrationspolitik.
 
 Den människa som kommer till Sverige men inte har rätt att stanna ska återvända. Men varje person som flyr till Sverige och har rätt att stanna ska få all hjälp att bli en del av samhället.
 
-Varje människa i Sverige ska vara delaktig i samhället och känna till sina rättigheter. Regeringen avser att inrätta ett oberoende, nationellt institut för mänskliga rättigheter under 2021\. Detta ska föregås av en bred parlamentarisk förankring.
+Varje människa i Sverige ska vara delaktig i samhället och känna till sina rättigheter. Regeringen avser att inrätta ett oberoende, nationellt institut för mänskliga rättigheter under 2021. Detta ska föregås av en bred parlamentarisk förankring.
 
 Sverige ska fortsätta att stärka den fria opinionsbildningen, skydda yttrandefriheten och stödja fria medier i hela landet. Samhällsinformationen till asylsökande utökas och blir en obligatorisk del av asylprocessen.
 
@@ -282,7 +272,7 @@ Inget barn ska behöva oroa sig för våld eller för att tvingas bli bortgift. 
 Alla i Sverige ska ha samma möjlighet att bli sitt bästa jag. För att det ska bli verklighet behöver den ekonomiska jämlikheten öka.
 Inget barns framtid ska heller avgöras av föräldrarnas inkomst – eller brist på inkomst. Jämlikhetskommissionen har lämnat viktiga förslag för att öka den ekonomiska jämlikheten.
 
-Reformerna för hbtq\-personers rättigheter fortsätter. En könsneutral föräldraskapslagstiftning utreds.
+Reformerna för hbtq-personers rättigheter fortsätter. En könsneutral föräldraskapslagstiftning utreds.
 
 Sverige ska vara en kulturnation att räkna med. Kulturen förenar oss, vidgar perspektiv och inspirerar till nya tankar.
 Under coronakrisen har kulturen drabbats hårt. Det har påverkat alla kulturskapares ekonomi – men också oss som land. Vardagen tappar färg när biografer, konserthus och teatrar är stängda.

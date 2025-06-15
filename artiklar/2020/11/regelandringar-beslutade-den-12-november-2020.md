@@ -8,12 +8,12 @@ Det görs även en ändring av skyldigheten enligt avfallsförordningen att uppr
 
 Vidare preciseras kommunernas årliga rapporteringsskyldighet om insamling av kommunalt avfall så att inte endast avfallets vikt ska anges utan även avfallets sammansättning och ursprung.
 
-Ändringarna träder i kraft den 1 december 2020\.
+Ändringarna träder i kraft den 1 december 2020.
 
 **Referenser**:
 
-* förordningen (2020:937\) om ändring i avfallsförordningen (2020:614\)
+* förordningen (2020:937) om ändring i avfallsförordningen (2020:614)
 
 ### Kontaktperson:
 
-Linn Åkesson 08\-405 84 59
+Linn Åkesson 08-405 84 59

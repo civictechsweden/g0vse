@@ -8,8 +8,8 @@ Det är viktigt att socialnämnden får verktyg att tidigt kunna bryta ett riskf
 
 ## Öppna insatser till barn och unga
 
-Med öppna insatser menas insatser som ges till barn och unga som bor i det egna hemmet, t.ex. stöd\- och behandlingsinsatser eller förebyggande insatser som riktar sig till individer och grupper. Öppna insatser kan även ges till barn och unga som bor i familjehem, hem för vård eller boende (HVB) eller stödboende. Med öppna insatser avses inte placeringar utanför det egna hemmet.
+Med öppna insatser menas insatser som ges till barn och unga som bor i det egna hemmet, t.ex. stöd- och behandlingsinsatser eller förebyggande insatser som riktar sig till individer och grupper. Öppna insatser kan även ges till barn och unga som bor i familjehem, hem för vård eller boende (HVB) eller stödboende. Med öppna insatser avses inte placeringar utanför det egna hemmet.
 
 I dag är det möjligt för socialnämnden att med stöd av socialtjänstlagen bevilja öppna in­satser, kontaktperson eller en särskilt kvalificerad kontaktperson till barn utan vårdnadshavares samtycke från det att barnet fyllt 15 år, om det är lämpligt och barnet begär eller samtycker till det.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2023\.
+Lagändringarna föreslås träda i kraft den 1 juli 2023.

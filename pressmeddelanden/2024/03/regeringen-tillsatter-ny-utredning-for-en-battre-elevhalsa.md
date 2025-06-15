@@ -26,8 +26,8 @@ Eftersom elevhälsan rör både medicinska, psykologiska, psykosociala och speci
 
 – Det är viktigt att elevhälsan vid behov kan samverka med andra aktörer. Det behövs ytterligare åtgärder för att säkerställa att den samverkan sker på ett ändamålsenligt sätt och med en tydlig ansvarsfördelning, säger Patrick Reslow, skolpolitisk talesperson för Sverigedemokraterna.
 
-I dag samverkar elevhälsan med hälso\- och sjukvården, BUP, barn\- och ungdomshabiliteringen och socialtjänsten. Trots att det finns lagstadgade skyldigheter att samverka visar flera rapporter och utredningar att det finns brister och utmaningar i det arbetet. Utredningen ska därför föreslå hur elevhälsans samverkan med andra aktörer kan förbättras och analysera om det bör inrättas en samordnande funktion som kan bidra till en förbättrad samverkan.
+I dag samverkar elevhälsan med hälso- och sjukvården, BUP, barn- och ungdomshabiliteringen och socialtjänsten. Trots att det finns lagstadgade skyldigheter att samverka visar flera rapporter och utredningar att det finns brister och utmaningar i det arbetet. Utredningen ska därför föreslå hur elevhälsans samverkan med andra aktörer kan förbättras och analysera om det bör inrättas en samordnande funktion som kan bidra till en förbättrad samverkan.
 
-Till utredare utses Åsa Lundkvist. Uppdraget ska redovisas senast den 7 mars 2025\.
+Till utredare utses Åsa Lundkvist. Uppdraget ska redovisas senast den 7 mars 2025.
 
 Förslaget bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

@@ -12,4 +12,4 @@ En särskild utredare ska utreda frågor som rör statsskuldspolitiken samt stat
 * analysera behovet av reglering av Riksgäldskontorets likviditetsförvaltning,
 * utarbeta nödvändiga författningsförslag i de avseenden utredaren kommer fram till att regelverken behöver ändras.
 
-Uppdraget ska redovisas senast den 15 januari 2014\.
+Uppdraget ska redovisas senast den 15 januari 2014.

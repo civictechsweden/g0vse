@@ -2,7 +2,6 @@
 
 Statsminister Ulf Kristersson, riksdagen, den 18 oktober 2022
 
-
 Herr talman, Ärade ledamöter av Sveriges riksdag!
 
 Moderaterna, Kristdemokraterna och Liberalerna är överens om att tillsammans med Sverigedemokraterna ta ansvar för Sverige. Moderaterna, Kristdemokraterna och Liberalerna kommer att ingå i regeringen. Sverigedemokraterna samarbetar med regeringen i riksdagen, med politiska tjänstemän på Regeringskansliet.
@@ -21,7 +20,7 @@ Fyra mycket krävande uppgifter står framför oss.
 
 För det första: omedelbart efter valet slog Sverige sitt eget, blodiga rekord i dödskjutningar. Kampen mot den grova kriminaliteten måste vinnas, och tryggheten måste återupprättas i hela vårt land. I denna mening ska staten nu ta tillbaka kontrollen. Bara det är en uppgift av en magnitud så stor att många misstror att den ens är möjlig. Vi har i den här kammaren ett gemensamt ansvar att bevisa att vi klarar det.
 
-För det andra måste Sverige – än en gång – ha kraften att ta sig igenom en ny lågkonjunktur, samtidigt som många människor och företag utsätts för dramatiska kostnadsökningar genom hög inflation och extrema energi\- och bränslepriser. Samtidigt som vårt enskilt största svenska ekonomiska och sociala problem beror på stor invandring i kombination med misslyckad integration och hundratusentals människor i utanförskap och bidragsberoende.
+För det andra måste Sverige – än en gång – ha kraften att ta sig igenom en ny lågkonjunktur, samtidigt som många människor och företag utsätts för dramatiska kostnadsökningar genom hög inflation och extrema energi- och bränslepriser. Samtidigt som vårt enskilt största svenska ekonomiska och sociala problem beror på stor invandring i kombination med misslyckad integration och hundratusentals människor i utanförskap och bidragsberoende.
 
 För det tredje måste Sverige komma ur energikrisen för att nå våra klimatmål och återge svenska folket rimliga elpriser.
 
@@ -31,7 +30,7 @@ Mitt budskap idag är alltså rätt kärvt: det är ett mycket tufft läge. Och 
 
 Herr talman
 
-Vi här inne har flera gånger visat att vi kan samarbeta när det krävs. Många av er härinne har själva varit med. Ännu fler känner dem som var med. Som under 90\-talskrisen. Under coronapandemin. När Ryssland inledde sitt anfallskrig. Och inte minst när vi fattade det historiska beslutet att söka medlemskap i Nato. Jag hoppas att vi som partier – och som medborgare – vill ställa upp för varandra igen.
+Vi här inne har flera gånger visat att vi kan samarbeta när det krävs. Många av er härinne har själva varit med. Ännu fler känner dem som var med. Som under 90-talskrisen. Under coronapandemin. När Ryssland inledde sitt anfallskrig. Och inte minst när vi fattade det historiska beslutet att söka medlemskap i Nato. Jag hoppas att vi som partier – och som medborgare – vill ställa upp för varandra igen.
 
 Inte för att vi tycker lika om allt, för det gör vi inte. Låt oss hedra den svenska demokratin genom att frimodigt debattera och göra det som våra vänner i Ukraina nu inte kan göra.
 
@@ -45,19 +44,19 @@ Herr talman
 
 Sveriges arbetslöshet är en av EU:s högsta, och vi har lägst tillväxt av alla länder i unionen. Den svenska tillväxtmotorn har stannat. Nästa år beräknas arbetslösheten att öka från dagens dryga sju procent.
 
-Faktum är att Sverige har en historiskt hög arbetslöshet vid ingången till en lågkonjunktur. Inflationen i Sverige snuddar vid 10 procent. I september höjdes räntan med en procentenhet – den största höjningen sedan inflationsmålet infördes 1993\. Delar av näringslivet kämpar nu förtvivlat för att överleva skenande elkostnader.
+Faktum är att Sverige har en historiskt hög arbetslöshet vid ingången till en lågkonjunktur. Inflationen i Sverige snuddar vid 10 procent. I september höjdes räntan med en procentenhet – den största höjningen sedan inflationsmålet infördes 1993. Delar av näringslivet kämpar nu förtvivlat för att överleva skenande elkostnader.
 
-Regeringen kommer att ta ansvar. Ordning och reda i statens finanser är en kärnuppgift. Finanspolitiken får inte elda på inflationen, budgeten får inte vara expansiv. Sverige får inte än en gång hamna i en pris\- och lönespiral. Budgetramverket ligger fast, och statsbudgeten kommer tas som en helhet.
+Regeringen kommer att ta ansvar. Ordning och reda i statens finanser är en kärnuppgift. Finanspolitiken får inte elda på inflationen, budgeten får inte vara expansiv. Sverige får inte än en gång hamna i en pris- och lönespiral. Budgetramverket ligger fast, och statsbudgeten kommer tas som en helhet.
 
 En av regeringens första uppgifter blir att hjälpa hushållen att klara den kommande vintern. Därför införs på kort sikt ett högkostnadsskydd mot elkostnader riktat mot hushåll och företag där delar av kostnaderna för de höga elräkningarna går tillbaka till konsumenterna. Regeringen kommer också agera för sänkta drivmedelspriser. Amorteringskravet följs upp med berörda myndigheter.
 
-För att mer långsiktigt klara lågkonjunkturen måste arbetslinjen värnas och den svenska tillväxtkraften stärkas. Samtidigt måste den gemensamma välfärden vara pålitlig. Dagens nivå på A\-kassan ska gälla även framgent.
+För att mer långsiktigt klara lågkonjunkturen måste arbetslinjen värnas och den svenska tillväxtkraften stärkas. Samtidigt måste den gemensamma välfärden vara pålitlig. Dagens nivå på A-kassan ska gälla även framgent.
 
-Svenska företag – inte minst de många små företagen – behöver lättnader från byråkrati och administration. Regeringen kommer ta ett helhetsgrepp för att långsiktigt förbättra näringslivets förutsättningar. 3:12\-reglerna ses över och förbättras. En ny produktivitetskommission tillsätts för att likt den för några decennier sedan göra en samlad analys av den svenska ekonomins konkurrenskraft.
+Svenska företag – inte minst de många små företagen – behöver lättnader från byråkrati och administration. Regeringen kommer ta ett helhetsgrepp för att långsiktigt förbättra näringslivets förutsättningar. 3:12-reglerna ses över och förbättras. En ny produktivitetskommission tillsätts för att likt den för några decennier sedan göra en samlad analys av den svenska ekonomins konkurrenskraft.
 
 Det svenska näringslivet är ett drivhus för välstånd och innovation, men numera också en viktig miljörörelse – världsledande i hållbarhet och grön omställning. Regeringen kommer att vara en offensiv partner i det arbetet. Och alla de företagsamma människor som skapar jobb, välstånd och dynamik förtjänar vår respekt. Fri ekonomi och fri företagsamhet är grunden för vårt välstånd.
 
-Få uppgifter är lika viktiga som att bryta utanförskapet. De som nu står utanför, och år efter år har levt på bidrag, behöver byta bidragsberoende mot egen försörjning. En stor bidragsreform ska därför genomföras. Det ska ske dels under mandatperioden genom lägre skatt på framförallt låg\- och medelinkomsttagare. Dels genom ett bidragstak som gör att det alltid lönar sig bättre att jobba än att leva på bidrag.
+Få uppgifter är lika viktiga som att bryta utanförskapet. De som nu står utanför, och år efter år har levt på bidrag, behöver byta bidragsberoende mot egen försörjning. En stor bidragsreform ska därför genomföras. Det ska ske dels under mandatperioden genom lägre skatt på framförallt låg- och medelinkomsttagare. Dels genom ett bidragstak som gör att det alltid lönar sig bättre att jobba än att leva på bidrag.
 
 Ingenting skapar välstånd i ett land, som arbete. Ingenting motverkar enskilda människors fattigdom, som att ha ett arbete. Och ingenting skapar nya klassresor, som att få sitt allra första arbete.
 
@@ -66,9 +65,6 @@ Den som har jobbat ett helt arbetsliv har rätt till tillräckliga pensioner som
 Drivkrafterna för att äldre som vill stanna kvar i arbetslivet kommer att förbättras. Äldres erfarenhet och kompetens är ofta förbisedd i Sverige. Åldersdiskrimineringen kan vara oavsiktlig, men är ändå kännbar. Det underskattar många äldres förmåga att bidra. Regeringen kommer att ha en tydligt ansvarig minister för de samlade äldrefrågorna.
 
 \*\*\*
-
-
-
 
 Herr talman
 
@@ -106,7 +102,7 @@ Det har aldrig funnits en genomtänkt syn på hur många som kan komma, och på 
 
 Regeringens besked är att så här kan det inte få fortsätta. Ett paradigmskifte sker nu inom svensk migrationspolitik.
 
-Asylrätten kommer att upprätthållas genom de bindande internationella regler som Sverige åtagit sig att följa. Utgångspunkten ska vara att skydd för den som flyr en konflikt eller kris ska erbjudas tillfälligt och för den som flyr Sveriges närområde. Sveriges lagstiftning för asylmottagande ska anpassas för att inte vara mer generöst än vad som är en skyldighet för en medlemsstat enligt EU\-rätten. Följande reformer kommer genomföras:
+Asylrätten kommer att upprätthållas genom de bindande internationella regler som Sverige åtagit sig att följa. Utgångspunkten ska vara att skydd för den som flyr en konflikt eller kris ska erbjudas tillfälligt och för den som flyr Sveriges närområde. Sveriges lagstiftning för asylmottagande ska anpassas för att inte vara mer generöst än vad som är en skyldighet för en medlemsstat enligt EU-rätten. Följande reformer kommer genomföras:
 
 Regeringen kommer att införa förstärkta möjligheter till inre utlänningskontroller, skärpta villkor för familjeåterförening och stimulanser för frivillig återvandring för den som vill.
 
@@ -114,7 +110,7 @@ Arbetet för att införa transitcenter påbörjas. Skärpta krav införs för me
 
 Reformer genomförs som minskar risken för att människor söker sig till just Sverige av rent ekonomiska skäl. En utredning får i uppdrag att föreslå en modell för successiv kvalificering in till svenska välfärdsförmåner, genom till exempel arbete eller medborgarskap. Rätten till ekonomiskt bistånd tas bort för den som vistas olovligen i landet. Högre aktivitetskrav ska ställas för försörjningsstöd eller etableringsstöd.
 
-En översyn ska göras av asylprocessen i syfte att stärka kvalitet, enhetlighet och rättssäkerhet. I översynen ska bland annat ingå kriterier för offentliga biträden och bedömningen av ärenden gällande bl.a. konvertiter och HBTQ\-personer.
+En översyn ska göras av asylprocessen i syfte att stärka kvalitet, enhetlighet och rättssäkerhet. I översynen ska bland annat ingå kriterier för offentliga biträden och bedömningen av ärenden gällande bl.a. konvertiter och HBTQ-personer.
 
 Regeringen kommer skärpa villkoren för arbetskraftsinvandring, bland annat genom högre inkomstkrav och förbud mot spårbyte för att motverka fusk. Detta samtidigt som reglerna för den högkvalificerade arbetskraftsinvandringen samt utländska forskare och doktorander förbättras för att stärka Sveriges konkurrenskraft som forskningsnation.
 
@@ -156,7 +152,7 @@ Det svenska skogsbruket är centralt för svenskt klimatarbete. Den växande sko
 
 Behoven inom den svenska infrastrukturen är stora och underhållet är eftersatt. Satsningar på järnvägen ska i första hand underlätta för arbetspendling och godstrafik, som stärker jobb och tillväxt.
 
-Miljöproblemen är en av vår tids stora gränsöverskridande frågor. Sveriges klimat\- och miljöpolitik ska vara ambitiös. Ett program för internationella klimatinvesteringar i enlighet med Parisavtalets artikel sex utvecklas. Investeringarna bidrar till att nå det svenska klimatmålet om nettonollutsläpp 2045\. Stora satsningar på laddinfrastruktur genomförs och teknik för koldioxidinfångning genomförs.
+Miljöproblemen är en av vår tids stora gränsöverskridande frågor. Sveriges klimat- och miljöpolitik ska vara ambitiös. Ett program för internationella klimatinvesteringar i enlighet med Parisavtalets artikel sex utvecklas. Investeringarna bidrar till att nå det svenska klimatmålet om nettonollutsläpp 2045. Stora satsningar på laddinfrastruktur genomförs och teknik för koldioxidinfångning genomförs.
 
 Särskilda insatser görs också för att motverka övergödning av Östersjön och för att flytta ut gränsen för storskaligt trålfiske.
 
@@ -164,35 +160,35 @@ Särskilda insatser görs också för att motverka övergödning av Östersjön 
 
 Herr talman
 
-Vi står inför de största utrikes\-, säkerhets\- och försvarspolitiska prövningarna i modern tid.
+Vi står inför de största utrikes-, säkerhets- och försvarspolitiska prövningarna i modern tid.
 
 Ryssland utmanar den fria världen med auktoritär inrikespolitik och aggressiv utrikespolitik. Genom sitt orättfärdiga och olagliga anfallskrig mot Ukraina har Ryssland brutit freden i Europa – ett angrepp på såväl den internationella rättsordningen som möjligheterna till effektivt mellanstatligt samarbete.
 
 Det ryska kriget har lett till att EU och Nato under besvärliga omständigheter uppvisat enighet, solidaritet och beslutsamhet. Det är ett styrkebesked från de västliga demokratierna.
 
-Utrikes\- och säkerhetspolitiken måste i denna farligare tid omorienteras för att möta de hot som Sverige och Europa står inför. Rysslands anfallskrig, och försvaret av Ukrainas frihet och suveränitet är de närmaste årens mest definierande utrikespolitiska uppgifter.
+Utrikes- och säkerhetspolitiken måste i denna farligare tid omorienteras för att möta de hot som Sverige och Europa står inför. Rysslands anfallskrig, och försvaret av Ukrainas frihet och suveränitet är de närmaste årens mest definierande utrikespolitiska uppgifter.
 
 Givet detta kommer regeringen att föra en i första hand svensk och europeisk utrikespolitik. Att värna svenska intressen och att stå upp för demokratiska värderingar är själva kärnan i denna politik. Lika självklart som att Sverige alltid eftersträvar dialog för att bidra till att lösa motsättningar, kommer vi aldrig tveka att i handling tillvarata våra vitala intressen.
 
-Svensk utrikespolitik förs bäst tillsammans med länder som delar våra grundläggande värderingar. Det sker inom EU och inte minst tillsammans med våra nordiska och baltiska grannar. Ett närmare och starkare nordiskt samarbete är avgörande såväl för vår regions samlade inflytande i EU som för vårt eget bidrag till säkerhet inom ramen för det kommande Nato\-medlemskapet.
+Svensk utrikespolitik förs bäst tillsammans med länder som delar våra grundläggande värderingar. Det sker inom EU och inte minst tillsammans med våra nordiska och baltiska grannar. Ett närmare och starkare nordiskt samarbete är avgörande såväl för vår regions samlade inflytande i EU som för vårt eget bidrag till säkerhet inom ramen för det kommande Nato-medlemskapet.
 
-Det regelbaserade internationella systemet, respekten för FN\-stadgan, och skydd för mänskliga rättigheter är fortsatt grundläggande för utrikespolitiken. Vi tar detta för givet, samtidigt som miljoner iranier just nu kämpar för sin frihet. Sverige kommer aldrig acceptera att aggressiva stater kränker demokratiska länders frihet och självbestämmande. Makt går inte före rätt.
+Det regelbaserade internationella systemet, respekten för FN-stadgan, och skydd för mänskliga rättigheter är fortsatt grundläggande för utrikespolitiken. Vi tar detta för givet, samtidigt som miljoner iranier just nu kämpar för sin frihet. Sverige kommer aldrig acceptera att aggressiva stater kränker demokratiska länders frihet och självbestämmande. Makt går inte före rätt.
 
 Kinas nya tonläge mot Taiwan inger oro. Hot om militärt våld är oacceptabelt. Det gäller alla länder och alldeles särskilt för permanenta medlemmar i FN:s säkerhetsråd. Sveriges relation till Kina bör vara förankrad i en gemensam europeisk strategi med en tydlig transatlantisk länk.
 
-Vi står inför tre centrala utrikes\- försvars\- och säkerhetspolitiska uppgifter under den kommande mandatperioden:
+Vi står inför tre centrala utrikes- försvars- och säkerhetspolitiska uppgifter under den kommande mandatperioden:
 
-För det första; att tillsammans med Finland fullfölja anslutningsprocessen till Nato; att stärka det svenska försvaret och leva uppå till våra förpliktelser som medlem; och att systematiskt integrera oss in i Natos olika strukturer. Detta paradigmskifte för svensk försvars\- och säkerhetspolitik kommer vägleda regeringens arbete.
+För det första; att tillsammans med Finland fullfölja anslutningsprocessen till Nato; att stärka det svenska försvaret och leva uppå till våra förpliktelser som medlem; och att systematiskt integrera oss in i Natos olika strukturer. Detta paradigmskifte för svensk försvars- och säkerhetspolitik kommer vägleda regeringens arbete.
 
-Regeringen kommer därför att såväl före som efter Nato\-anslutningen målmedvetet fullfölja trepartsöverenskommelsen mellan Sverige, Turkiet och Finland. Deltagande i terroristorganisationer kommer att förbjudas. Samarbetet med Socialdemokraterna i Nato\-frågan fullföljs. Den breda enigheten i Nato\-frågan är en styrka för Sverige.
+Regeringen kommer därför att såväl före som efter Nato-anslutningen målmedvetet fullfölja trepartsöverenskommelsen mellan Sverige, Turkiet och Finland. Deltagande i terroristorganisationer kommer att förbjudas. Samarbetet med Socialdemokraterna i Nato-frågan fullföljs. Den breda enigheten i Nato-frågan är en styrka för Sverige.
 
 Sverige kommer som medlem i Nato att bidra till hela alliansens säkerhet. Vi har unika förmågor att bidra med, på marken såväl som på och under vattnet och i luften. Uppbyggnaden av totalförsvaret måste intensifieras. Samtliga försvarsgrenar ska stärkas och en kontinuerlig anpassning måste göras till den snabba tekniska utvecklingen i alla domäner. Försvarsindustrin har länge varit en tillgång för Sverige och genom medlemskapet blir den en tillgång för fler.
 
-Sverige ska uppnå sin förpliktelse om försvarsanslag som motsvarar målet om 2 procent av BNP så snart som möjligt, men senast 2026\. Beräkningsgrunden för 2%\-målet bör snarast anpassas till Natos. Vi kommer, bl.a. i försvarsberedningen, att söka brett politiskt stöd för vägen dit. Även de civila delarna av totalförsvaret är eftersatta. Motståndskraften mot hybridhot ska öka och cybersäkerheten måste förbättras. Därför kommer ansvaret för civilt försvar och krisberedskap att flyttas från Justitiedepartementet till Försvarsdepartementet och en särskild minister för civilt försvar kommer att utses.
+Sverige ska uppnå sin förpliktelse om försvarsanslag som motsvarar målet om 2 procent av BNP så snart som möjligt, men senast 2026. Beräkningsgrunden för 2%-målet bör snarast anpassas till Natos. Vi kommer, bl.a. i försvarsberedningen, att söka brett politiskt stöd för vägen dit. Även de civila delarna av totalförsvaret är eftersatta. Motståndskraften mot hybridhot ska öka och cybersäkerheten måste förbättras. Därför kommer ansvaret för civilt försvar och krisberedskap att flyttas från Justitiedepartementet till Försvarsdepartementet och en särskild minister för civilt försvar kommer att utses.
 
 För att samordna Sveriges säkerhetspolitiska agerande inrättas ett nationellt säkerhetsråd – under statsministerns ledning och efter internationell förebild. En ny nationell säkerhetsstrategi tas fram. Den utgör i sin tur grunden för det försvarsbeslut som regeringen planerar att förelägga riksdagen. Inom kort kommer regeringen att utse den första nationella säkerhetsrådgivaren, som bl.a. ska leda säkerhetsrådets operativa arbete.
 
-Den andra centrala uppgiften är att axla rollen som EU:s ordförandeland från och med den 1 januari 2023\. EU är Sveriges viktigaste utrikespolitiska plattform och helt avgörande också för Sveriges ekonomi. Sverige ska vara en aktiv, engagerad och pådrivande medlem i EU – före, under och efter ordförandeskapet.
+Den andra centrala uppgiften är att axla rollen som EU:s ordförandeland från och med den 1 januari 2023. EU är Sveriges viktigaste utrikespolitiska plattform och helt avgörande också för Sveriges ekonomi. Sverige ska vara en aktiv, engagerad och pådrivande medlem i EU – före, under och efter ordförandeskapet.
 
 De svenska riksdagspartierna har i brett samförstånd pekat ut ett antal områden som särskilt prioriterade för vårt ordförandeskap. Det handlar om att skapa säkerhet för EU:s medborgare och att gemensamt stödja Ukraina. Lika viktigt är energiförsörjningen, klimatomställningen och att stärka unionens konkurrenskraft – inte minst genom större fokus på digitalisering och teknologipolitik, i samverkan med USA. Som en öppen och exportberoende ekonomi ligger det i Sveriges intresse att stärka EU:s inre marknad, den digitala inre marknaden och EU:s ställning som handelsblock.
 
@@ -202,7 +198,7 @@ Svensk biståndspolitik är fortsatt generös. Biståndsramen sätts för tre å
 
 Fokusera också biståndspolitiken för att utgöra ett verktyg för att motverka irreguljär migration, öka återvändandet och bidra till ett effektivt arbete för frivillig återvandring. Biståndet ska även rymma effektiva åtgärder för att minska grundorsakerna till migration.
 
-På längre sikt är det handel och ekonomisk utveckling som är vägen från fattigdom till välstånd. I regeringen sammanförs därför ansvaret för utvecklingsbistånd och utrikeshandel till ett statsråd. Den tillträdande bistånds\- och utrikeshandelsministern ges ett särskilt ansvar för det svenska stödet till återuppbyggnaden av Ukraina.
+På längre sikt är det handel och ekonomisk utveckling som är vägen från fattigdom till välstånd. I regeringen sammanförs därför ansvaret för utvecklingsbistånd och utrikeshandel till ett statsråd. Den tillträdande bistånds- och utrikeshandelsministern ges ett särskilt ansvar för det svenska stödet till återuppbyggnaden av Ukraina.
 
 \*\*\*
 
@@ -230,27 +226,27 @@ Universitet och högskolor bidrar starkt till samhällets utveckling och näring
 
 Herr talman
 
-Svensk hälso\- och sjukvård är av mycket hög kvalitet, när man får tillgång till den. Sedan 2014 – redan före pandemin – har vårdköerna fördubblats. Köerna till barn\- och ungdomspsykiatrin tredubblades under motsvarande period.
+Svensk hälso- och sjukvård är av mycket hög kvalitet, när man får tillgång till den. Sedan 2014 – redan före pandemin – har vårdköerna fördubblats. Köerna till barn- och ungdomspsykiatrin tredubblades under motsvarande period.
 
 Färre än hälften av alla kvinnor med bröstcancer får vård i tid – inte ens var tredje man med prostatacancer. Det är ett stort misslyckande.
 
-Regeringen avser att öka det nationella ansvaret för vården. Det behövs mer av ett nationellt ledarskap för vården. En utredning tillsätts om för\- och nackdelar med att långsiktigt införa ett delvis eller helt statligt huvudmannaskap. En gemensam nationell digital infrastruktur genomförs.
+Regeringen avser att öka det nationella ansvaret för vården. Det behövs mer av ett nationellt ledarskap för vården. En utredning tillsätts om för- och nackdelar med att långsiktigt införa ett delvis eller helt statligt huvudmannaskap. En gemensam nationell digital infrastruktur genomförs.
 
 En nationell vårdförmedling i statlig regi ska inrättas där ledig kapacitet redovisas, och patienter ges möjligheten att söka vård i hela landet. En nationell långsiktig strategi för att ta fram fler vårdplatser tas fram
 
 En omfattande utbyggnad av primärvården påbörjas med målet att fler allmänspecialister och distriktssköterskor ska finnas inom primärvården. Rätten till en fast läkarkontakt ska följas upp.
 
-En särskild satsning för jämlik, nära och patientsäker vård i hela landet, med särskilt fokus på landsbygd och glesbygd, genomförs. En särskild satsning görs på cancer\- och barncancervården inklusive eftervård och rehabilitering.
+En särskild satsning för jämlik, nära och patientsäker vård i hela landet, med särskilt fokus på landsbygd och glesbygd, genomförs. En särskild satsning görs på cancer- och barncancervården inklusive eftervård och rehabilitering.
 
 En utredning tillsätts för att stärka tandvårdens högkostnadsskydd för att mer efterlikna det som finns i övrig vård. Äldre, med sämst munhälsa ska prioriteras.
 
-Personer med funktionsnedsättning ska kunna vara fullt delaktiga i samhället utan att utsättas för diskriminering. Att integrera funktionsrättsperspektivet i fler politik\- och samhällsområden är fortsatt i fokus. Åtgärder för ett statligt helhetsansvar för personlig assistans inom ramen för LSS ska övervägas.
+Personer med funktionsnedsättning ska kunna vara fullt delaktiga i samhället utan att utsättas för diskriminering. Att integrera funktionsrättsperspektivet i fler politik- och samhällsområden är fortsatt i fokus. Åtgärder för ett statligt helhetsansvar för personlig assistans inom ramen för LSS ska övervägas.
 
 En större satsning genomförs riktat mot mer jämställd vård, kvinnosjukdomar och forskning om kvinnors sjukdomar och hälsa. Unga kvinnor ska inte behöva acceptera att det är normalt att leva med smärta. En speciell satsning görs inom vård för migrän, endometrios och klimakterievård. Lagstiftningen ändras så att möjligheten att göra abort även i hemmet tillåts. En nationell förlossningsplan tas fram för att öka tillgängligheten och minska regionala skillnader. Så många födande kvinnor som möjligt ska ha tillgång till ett barnmorsketeam före, under och efter förlossningen.
 
 Få frågor är så viktiga som att tidigt nå barn och ungdomar som lider av psykisk ohälsa. Statistiken är illa nog. Men för den som i sin närhet har någon med psykisk ohälsa, är det inte alls statistik, utan djup och personlig tragik. Vi är många som själva har upplevt det i vår omedelbara närhet.
 
-En lagstadgad vårdgaranti införs med innebörden att barn som behöver hjälp och stöd ska få det inom maximalt 30 dagar. Elevhälsan ska stärkas, varje skola ska ha skolhälsovård och en elevhälsogaranti införs. Den nya nationell strategin för psykisk hälsa och suicidprevention ska redovisas senast den 1 september 2023\. Ett nationellt forskningsprogram ska inrättas.
+En lagstadgad vårdgaranti införs med innebörden att barn som behöver hjälp och stöd ska få det inom maximalt 30 dagar. Elevhälsan ska stärkas, varje skola ska ha skolhälsovård och en elevhälsogaranti införs. Den nya nationell strategin för psykisk hälsa och suicidprevention ska redovisas senast den 1 september 2023. Ett nationellt forskningsprogram ska inrättas.
 
 En nationell samordnare med ett samlat ansvar för det suicidpreventiva arbetet ska inrättas. Uppföljning av patienter med suicidalt beteende ska bli en självklar del av vårdprocessen. Varje gång en människa avslutar sitt liv ska en "haverikommission” tillsättas för att socialtjänst, skola, polis och sjukvård ska kunna göra en utredning och dra lärdomar för framtiden.
 
@@ -270,11 +266,11 @@ Sverige ska stå upp för det fria ordets ambassadörer: regeringen kommer att f
 
 Kulturen och vår gemensamma historia utgör grunden för vår kollektiva identitet. Den skapar sammanhållning och ökar vår förståelse för varandra. Fristående expertkommittéer ska ta fram förslag på svensk kulturkanon. Ett utredningsarbete ska genomföras för att säkerställa att organisationer som tar emot medel från allmänna arvsfonden följer demokratiska värderingar.
 
-En stark demokrati förutsätter en mångfald av starka, fria och oberoende medier. Public service\-mediernas långsiktiga finansiering vidmakthålls och värnas som en del av den demokratiska infrastrukturen. Det är inriktningen för tillståndsperioden 2026–2033\.
+En stark demokrati förutsätter en mångfald av starka, fria och oberoende medier. Public service-mediernas långsiktiga finansiering vidmakthålls och värnas som en del av den demokratiska infrastrukturen. Det är inriktningen för tillståndsperioden 2026–2033.
 
 Den pågående grundlagsutredningen som bland annat syftar till att stärka domstolarnas oberoende ska fullföljas utifrån gällande direktiv. En ny grundlagsutredning ska tillsättas för att bland annat utreda hur aborträtten kan stärkas, genom att kvinnans rätt till abort ges skydd i regeringsformen. Tjänstemannaansvar ska införas. Arbetet mot antisemitism ska prioriteras, och en utredning ska se över förbud mot utländsk finansiering av trossamfund för att motverka bl.a. islamism och separatism.
 
-I Sverige har alla rätt att vara den man är, och älska vem man vill. Regeringen står upp för HBTQ\-personers rättigheter, oavsett vem som hittar sätt att inskränka eller kränka dem. Ett förslag om att förbjuda omvändelseterapi som sker under hot eller tvång ska utredas.
+I Sverige har alla rätt att vara den man är, och älska vem man vill. Regeringen står upp för HBTQ-personers rättigheter, oavsett vem som hittar sätt att inskränka eller kränka dem. Ett förslag om att förbjuda omvändelseterapi som sker under hot eller tvång ska utredas.
 
 \*\*\*
 
@@ -282,7 +278,7 @@ Herr talman
 
 Regeringen tar över ansvaret för ett fantastiskt land. Vi bär nu alla och på olika vis ansvar för Sveriges framtid. Men vi lär också av Sveriges historia.
 
-Sverige mötte oljekrisen på 70\-talet med en helt ny energipolitik, bröt kopplingen mellan tillväxt och ökande utsläpp, och blev en av världens första, nästan helt fossilfria industrinationer. Efter 80\-talets överbudspolitik såg vi sanningen i vitögat och lade på 90\-talet om kursen till strama budgetramverk, låg statsskuld och välskötta offentliga finanser. När en halv miljon människor hade förtidspensionerats och Sverige hade dubbelt så många sjukskrivna som andra länder, återupprättade vi på 00\-talet idén om arbetslinjen. Jag är övertygad om att det nu är dags igen. Vi står inför en ny historiskt viktig uppgift.
+Sverige mötte oljekrisen på 70-talet med en helt ny energipolitik, bröt kopplingen mellan tillväxt och ökande utsläpp, och blev en av världens första, nästan helt fossilfria industrinationer. Efter 80-talets överbudspolitik såg vi sanningen i vitögat och lade på 90-talet om kursen till strama budgetramverk, låg statsskuld och välskötta offentliga finanser. När en halv miljon människor hade förtidspensionerats och Sverige hade dubbelt så många sjukskrivna som andra länder, återupprättade vi på 00-talet idén om arbetslinjen. Jag är övertygad om att det nu är dags igen. Vi står inför en ny historiskt viktig uppgift.
 
 Jag vill därför idag be svenska folket att förbereda sig på tuffa tider. Men kan också lova, att den nya regeringen kommer göra allt i vår makt för att vara goda ledare på vägen. Det offentliga finns till för att tjäna medborgarna. Aldrig tvärtom.
 

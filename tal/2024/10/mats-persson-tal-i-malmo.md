@@ -1,9 +1,8 @@
 # Arbetsmarknads- och integrationsminister Mats Perssons tal under minnesdagen för 7 oktober
 
-Tal av arbetsmarknads\- och integrationsminister Mats Persson vid minnesmanifestationen i Malmö om terrordådet mot Israel den 7 oktober 2023\.
+Tal av arbetsmarknads- och integrationsminister Mats Persson vid minnesmanifestationen i Malmö om terrordådet mot Israel den 7 oktober 2023.
 
-Malmö, 6 oktober 2024\. Det talade ordet gäller.
-
+Malmö, 6 oktober 2024. Det talade ordet gäller.
 
 I dag för ett år sedan startade musikfestivalen Supernova i Negevöknen, under parollen ”Vänskap, kärlek och oändlig frihet”.
 
@@ -35,7 +34,7 @@ Hatet mot judar har uråldriga rötter och samtida uttryck, men oavsett form ska
 
 Vi alla i Sverige har ett ansvar för vad som händer i vårt samhälle, det kan inte överlåtas till någon annan.
 
-Sedan den 7 oktober har fem gånger så många brott med antisemitiska motiv anmälts till Polisen, jämfört med 2022\. Det är helt oacceptabelt.
+Sedan den 7 oktober har fem gånger så många brott med antisemitiska motiv anmälts till Polisen, jämfört med 2022. Det är helt oacceptabelt.
 
 Hatet mot judar får aldrig relativiseras. Det kan inte heller tigas ihjäl – snarare frodas det i det tysta. Det behövs mer än fina ord om nolltolerans.
 
@@ -49,10 +48,10 @@ Mitt och regeringens budskap till den judiska minoriteten som funnits här i Sve
 
 Ni ska känna er trygga på väg till synagogan, när ni lämnar era barn i skolan och ni ska öppet och med stolthet kunna bära Davidsstjärnan runt halsen.
 
-Allt annat än detta är ett misslyckande och ett svek från det samhälle som ni är en del av. Vi kan göra mer \- Sverige måste göra mer!
+Allt annat än detta är ett misslyckande och ett svek från det samhälle som ni är en del av. Vi kan göra mer - Sverige måste göra mer!
 
 Världen får aldrig glömma de fasanfulla illdåd som ägde rum den 7 oktober. Hur föräldrar och deras barn mördades i sina hem på kibbutzer och kidnappades till Gaza. Hur hundratals dansande ungdomar slaktades som djur i intifadans namn.
 
 Jag vill avsluta med att citera rabbinen Jonathan Sacks:
 
-Det folk som kan känna historiens fulla mörker och ändå kunna känna glädje \- är ett folk vars ande ingen makt på jorden någonsin kan bryta.
+Det folk som kan känna historiens fulla mörker och ändå kunna känna glädje - är ett folk vars ande ingen makt på jorden någonsin kan bryta.

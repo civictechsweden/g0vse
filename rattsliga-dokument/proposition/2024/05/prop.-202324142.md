@@ -1,8 +1,8 @@
 # EU:s nya utsläppshandelssystem för fossila bränslen (ETS 2)
 
-I propositionen lämnas förslag till ändringar i lagen om vissa utsläpp av växthusgaser. Ändringarna föreslås med anledning av den senaste revideringen av EU:s utsläppshandelsdirektiv (ETS 2\).
+I propositionen lämnas förslag till ändringar i lagen om vissa utsläpp av växthusgaser. Ändringarna föreslås med anledning av den senaste revideringen av EU:s utsläppshandelsdirektiv (ETS 2).
 
-Revideringen innebär att det införs ett nytt utsläppshandelssystem som omfattar utsläpp från byggnader, vägtransporter och vissa ytterligare sektorer. Utsläppshandelssystemet ETS 2 är EU:s viktigaste styrmedel för att fasa ut utsläppen från fossila bränslen och nå klimatmålen till 2030 och 2050\. En gemensam prissättning av bl.a. koldioxid på EU\-nivå innebär att hela EU ställer om på ett kostnadseffektivt sätt. Genom det nya utsläppshandelssystemet kommer ytterligare verksamheter att omfattas av EU\-gemensam prissättning av utsläpp av växthusgaser.
+Revideringen innebär att det införs ett nytt utsläppshandelssystem som omfattar utsläpp från byggnader, vägtransporter och vissa ytterligare sektorer. Utsläppshandelssystemet ETS 2 är EU:s viktigaste styrmedel för att fasa ut utsläppen från fossila bränslen och nå klimatmålen till 2030 och 2050. En gemensam prissättning av bl.a. koldioxid på EU-nivå innebär att hela EU ställer om på ett kostnadseffektivt sätt. Genom det nya utsläppshandelssystemet kommer ytterligare verksamheter att omfattas av EU-gemensam prissättning av utsläpp av växthusgaser.
 
 Det föreslås bestämmelser som gör det möjligt att föreskriva att utsläpp
 av koldioxid genom förbränning av bränslen som används i byggnader, för
@@ -16,4 +16,4 @@ beslut om avvisning eller kvarhållande av fartyg och beslut om förbud för
 fartyg att anlöpa svensk hamn som fattas inom ramen för det befintliga
 systemet för handel med utsläppsrätter.
 
-Lagändringarna föreslås träda i kraft den 1 november 2024\.
+Lagändringarna föreslås träda i kraft den 1 november 2024.

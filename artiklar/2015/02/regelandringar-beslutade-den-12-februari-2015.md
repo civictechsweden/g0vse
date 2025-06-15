@@ -14,20 +14,20 @@ Det klargörs att man inte blir projektdeltagare endast genom att förvärva en 
 
 ### Referenser
 
-* förordningen (2004:1205\) om handel med utsläppsrätter
+* förordningen (2004:1205) om handel med utsläppsrätter
 
 ## Ändring i förordningen om bekämpningsmedelsavgifter
 
-Regeringen har beslutat om ändring i förordningen om bekämpningsmedelsavgifter. Ändringen innebär att \- årsavgifterna för kemiska bekämpningsmedel höjs från 4 procent till 5,5 procent, och \- taket för årsavgiften höjs från 350 000 kr till 400 000 kr.
+Regeringen har beslutat om ändring i förordningen om bekämpningsmedelsavgifter. Ändringen innebär att - årsavgifterna för kemiska bekämpningsmedel höjs från 4 procent till 5,5 procent, och - taket för årsavgiften höjs från 350 000 kr till 400 000 kr.
 
-Avgiftshöjningen får effekt från 2016\.
+Avgiftshöjningen får effekt från 2016.
 
 ### Referenser
 
-* förordningen (2013:63\) om bekämpningsmedelsavgifter
+* förordningen (2013:63) om bekämpningsmedelsavgifter
 
 ### Mer information
 
-Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 24 februari 2015\.
+Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 24 februari 2015.
 
-Kontaktpersoner: Utsläppsrätter: Egon Abresparr 08\-405 39 13 Bekämpningsmedelsavgifter: Susanne Classon 08\-405 32 76
+Kontaktpersoner: Utsläppsrätter: Egon Abresparr 08-405 39 13 Bekämpningsmedelsavgifter: Susanne Classon 08-405 32 76

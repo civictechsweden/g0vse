@@ -11,4 +11,4 @@ Utredaren ska bland annat:
 * analysera och föreslå hur nyanlända elever i högstadiet och i gymnasieskolans introduktionsprogram som omfattas av förslaget om förlängd skolplikt ska ges kortare sommarlov och därmed mer tid till undervisning, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 12 april 2021\.
+Uppdraget ska redovisas senast den 12 april 2021.

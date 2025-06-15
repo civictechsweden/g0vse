@@ -10,4 +10,4 @@ Regeringen föreslår att de särskilda begränsningarna, för att lämna ut per
 
 Regeringen föreslår även att uttrycket socialförsäkringsdatabasen ska utmönstras och att sökbegränsningar ska utgå från syftet med sökningen i stället för från otillåtna sökbegrepp.
 
-Lagändringarna föreslås träda i kraft den 15 februari 2024\.
+Lagändringarna föreslås träda i kraft den 15 februari 2024.

@@ -10,5 +10,4 @@ Förslagen innebär bl.a. att det i lagen om betaltjänster ska förtydligas att
 * en betaltjänstleverantör ska informera konsumenten om rutinerna vid byte av betalkonto, och
 * att den betaltjänstleverantör som en konsument har ett betalkonto hos inte får ta ut någon avgift för information om betalningstransaktioner vid byte av betalkonto.
 
-
-Lagändringarna föreslås träda i kraft den 1 juli 2019\.
+Lagändringarna föreslås träda i kraft den 1 juli 2019.

@@ -2,7 +2,7 @@
 
 Den 1 december återkom Sida med en rapport efter myndighetens översyn av utvecklingsbiståndet till Palestina. Denna anses ofullständig i förhållande till regeringsuppdraget som gavs 13 oktober och regeringens behov av ett fullständigt beslutsunderlag.
 
-Regeringen uppdrar därför åt Sida att komplettera sin rapport av den 1 december 2023\. I kompletteringen ska samtliga insatser från samtliga strategier redovisas, det vill säga all verksamhet finansierad av svenskt bistånd till Palestina, så som regeringsuppdraget per den 13 oktober är formulerat. Avtalspartners, som myndigheten har granskat mot EU:s sanktionslistor utan anmärkning, ska i det kompletterande uppdraget också granskas enligt regeringsuppdraget per den 13 oktober. Detta gäller även partners i nästa led till vilka vidareförmedling av biståndsmedel förekommer.
+Regeringen uppdrar därför åt Sida att komplettera sin rapport av den 1 december 2023. I kompletteringen ska samtliga insatser från samtliga strategier redovisas, det vill säga all verksamhet finansierad av svenskt bistånd till Palestina, så som regeringsuppdraget per den 13 oktober är formulerat. Avtalspartners, som myndigheten har granskat mot EU:s sanktionslistor utan anmärkning, ska i det kompletterande uppdraget också granskas enligt regeringsuppdraget per den 13 oktober. Detta gäller även partners i nästa led till vilka vidareförmedling av biståndsmedel förekommer.
 
 Redovisningen ska omfatta en analys av organisationernas externa kommunikation, inklusive social media och hemsidor.
 

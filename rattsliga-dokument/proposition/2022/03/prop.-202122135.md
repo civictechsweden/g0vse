@@ -12,4 +12,4 @@ kommuner, regioner och statliga myndigheter i större utsträckning än
 tidigare att kunna dra nytta av de idéburna organisationernas kompetens, erfarenhet och andra resurser.
 
 Den nya lagen och övriga ändringar föreslås träda i kraft den 1 januari
-2023\.
+2023.

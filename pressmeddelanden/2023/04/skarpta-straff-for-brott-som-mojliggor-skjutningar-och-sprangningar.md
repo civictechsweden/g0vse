@@ -4,7 +4,7 @@
 
 [Ds 2023:11 Skjut­vapen och explo­siva varor – skärpta straff för de allvar­ligare brotten](/rattsliga-dokument/departementsserien-och-promemorior/2023/04/ds-202311/ "Ds 2023:11")
 
-Under 2022 dödades 62 personer av skjutvapenvåld i Sverige. Detta innebär att antalet personer som avlidit på grund av skjutningar mer än tredubblats under perioden 2012–2022\. Ökningen av antalet skjutningar kan till stor del härledas till konflikter mellan kriminella grupperingar. De senaste åren har dessa konflikter även lett till en ökad användning av explosiva varor. Antalet sprängningar i Sverige de senaste åren saknar motstycke i modern tid.
+Under 2022 dödades 62 personer av skjutvapenvåld i Sverige. Detta innebär att antalet personer som avlidit på grund av skjutningar mer än tredubblats under perioden 2012–2022. Ökningen av antalet skjutningar kan till stor del härledas till konflikter mellan kriminella grupperingar. De senaste åren har dessa konflikter även lett till en ökad användning av explosiva varor. Antalet sprängningar i Sverige de senaste åren saknar motstycke i modern tid.
 
 Straffskalorna för de allvarligare formerna av vapenbrott, brott mot tillståndsplikten för explosiva varor, vapensmuggling och smuggling av explosiva varor, föreslås därför ändras på följande sätt:
 
@@ -14,4 +14,4 @@ Straffskalorna för de allvarligare formerna av vapenbrott, brott mot tillstånd
 
 Promemorian bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.
 
-Promemorian ska nu skickas på remiss. Därefter kommer den att beredas inom Regeringskansliet. Lagändringarna föreslås träda i kraft den 1 april 2024\.
+Promemorian ska nu skickas på remiss. Därefter kommer den att beredas inom Regeringskansliet. Lagändringarna föreslås träda i kraft den 1 april 2024.

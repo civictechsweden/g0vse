@@ -5,7 +5,7 @@ Rätten till en offentlig försvarare är en viktig del i misstänktas och tillt
 I lagrådsremissen behandlar regeringen direktivet och lämnar följande
 förslag:
 
-* Åklagare ges rätt att tillfälligt och i begränsad utsträckning förordna en offentlig försvarare utanför domstolarnas kontors\- och beredskapstider.
+* Åklagare ges rätt att tillfälligt och i begränsad utsträckning förordna en offentlig försvarare utanför domstolarnas kontors- och beredskapstider.
 * Det klargörs att rätten till en offentlig försvarare för den som eftersöks i Sverige enligt en europeisk eller nordisk arresteringsorder gäller fram till dess att ett överlämnande till en annan stat görs.
 
-Lagändringarna föreslås träda i kraft den 1 maj 2019\.
+Lagändringarna föreslås träda i kraft den 1 maj 2019.

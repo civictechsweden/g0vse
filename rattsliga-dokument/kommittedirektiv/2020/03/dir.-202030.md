@@ -10,4 +10,4 @@ Kommittén ska bl.a.
 * föreslå åtgärder som kan förbättra möjligheten för väljargrupper med svårighet att med nuvarande röstningsförfarande utnyttja sin rösträtt, och
 * på samtliga områden lämna de författningsförslag eller andra förslag på åtgärder som kommittén bedömer är motiverade.
 
-Uppdraget ska redovisas senast den 15 oktober 2021\. Kommittén får, om den bedömer att det är lämpligt, lämna ett eller flera delbetänkanden.
+Uppdraget ska redovisas senast den 15 oktober 2021. Kommittén får, om den bedömer att det är lämpligt, lämna ett eller flera delbetänkanden.

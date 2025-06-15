@@ -1,11 +1,10 @@
 # Statsministerns tal under ceremoni inför Förintelsens minnesdag
 
-Riksdagen den 25 januari 2024\.
+Riksdagen den 25 januari 2024.
 
 Det talade ordet gäller.
 
-
-Kära överlevande, herr vice\-talman, riksdagsledamöter, mina damer och herrar,
+Kära överlevande, herr vice-talman, riksdagsledamöter, mina damer och herrar,
 
 Förintelsen har en alldeles särskild plats i vårt kollektiva minne. Den påminner om vad den mänskliga ondskan är kapabel till. Men den påminner oss också om, att varje generation måste vinnas för demokratin och för den mänskliga värdigheten.
 
@@ -21,9 +20,9 @@ Det högtidliga ”aldrig igen”, blev i praktiken ”nu igen”.
 
 \*\*\*
 
-Nyligen återgav Göteborgs\-Posten vad svenska judar utsätts för i sin vardag. Krossade rutor, hatiska budskap och fruktan för sin säkerhet. Det smärtar att läsa och höra deras berättelser om vad som sker i Sverige just nu.
+Nyligen återgav Göteborgs-Posten vad svenska judar utsätts för i sin vardag. Krossade rutor, hatiska budskap och fruktan för sin säkerhet. Det smärtar att läsa och höra deras berättelser om vad som sker i Sverige just nu.
 
-Några som intervjuas – och andra som jag har pratat med det senaste året – nämner speciellt tystnaden. Den från omgivningen, från vänner och bekanta. En tyst de facto\-acceptans, en normalisering. En lite uppgiven tystnad, som väcker frågan: kan vi bo kvar här?
+Några som intervjuas – och andra som jag har pratat med det senaste året – nämner speciellt tystnaden. Den från omgivningen, från vänner och bekanta. En tyst de facto-acceptans, en normalisering. En lite uppgiven tystnad, som väcker frågan: kan vi bo kvar här?
 
 Vi har som land ett gemensamt ansvar: Att inte relativisera. Att bidra, inte bara med vackra ord, utan med konkret handling. För antisemitism kan inte tigas ihjäl. Tvärtom: Den frodas i tystnad, där de hotade kuvas. Antisemitismen ska bemötas och bekämpas.
 

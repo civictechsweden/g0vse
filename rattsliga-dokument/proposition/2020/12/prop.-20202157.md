@@ -10,7 +10,7 @@ Den som är legitimerad läkare, tandläkare eller sjuksköterska föreslås få
 
 ## Lagar som tillämpas
 
-Patientskadelagen, patientdatalagen och patientsäkerhetslagen samt bestämmelser i hälso\- och sjukvårdslagen ska tillämpas vid estetiska kirurgiska ingrepp och estetiska injektionsbehandlingar.
+Patientskadelagen, patientdatalagen och patientsäkerhetslagen samt bestämmelser i hälso- och sjukvårdslagen ska tillämpas vid estetiska kirurgiska ingrepp och estetiska injektionsbehandlingar.
 
 ## Krav på information, betänketid, samtycke och åldersgräns
 
@@ -21,4 +21,4 @@ För att kunna genomgå behandlingar och ingrepp som omfattas av lagen kräver r
 * åldersgräns på 18 år
 
 Inspektionen för vård och omsorg ska vara ansvarig tillsynsmyndighet.
-Den nya lagen föreslås träda i kraft den 1 juli 2021\.
+Den nya lagen föreslås träda i kraft den 1 juli 2021.

@@ -13,4 +13,4 @@ Digitaliseringsrådets ledamöter.
 Statsrådet med ansvar för övergripande frågor om digitalisering och
 informationsteknik ska vara ordförande i Digitaliseringsrådet.
 
-Arbetet i Digitaliseringsrådet ska avslutas senast den 31 december 2026\.
+Arbetet i Digitaliseringsrådet ska avslutas senast den 31 december 2026.

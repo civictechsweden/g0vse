@@ -1,9 +1,9 @@
 # Uppdrag att utvärdera lagen om koordineringsinsatser för sjukskrivna patienter
 
-Regeringen uppdrar åt Inspektionen för socialförsäkringen (ISF) och Myndigheten för vård\- och omsorgsanalys (Vård\- och omsorgsanalys) att utvärdera lagen om koordineringsinsatser för sjukskrivna patienter. Meningen är att åstadkomma en ändamålsenlig och effektiv
+Regeringen uppdrar åt Inspektionen för socialförsäkringen (ISF) och Myndigheten för vård- och omsorgsanalys (Vård- och omsorgsanalys) att utvärdera lagen om koordineringsinsatser för sjukskrivna patienter. Meningen är att åstadkomma en ändamålsenlig och effektiv
 rehabiliteringsprocess.
 
-ISF och Vård\- och omsorgsanalys ska:
+ISF och Vård- och omsorgsanalys ska:
 
 * analysera sambandet mellan genomförda koordineringsinsatser och patienters inträde eller återgång i arbete med fördelning efter ålder, kön, diagnosgrupp med mera,
 * analysera om det finns olikheter i tillämpningen av lagen mellan regionerna som kan innebära en risk för att patienter inte får likvärdig behandling,

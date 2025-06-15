@@ -8,6 +8,6 @@ Mer detaljerad information om program och deltagare publiceras närmare besöket
 
 ## Till redaktionen
 
-Medierepresentanter behöver särskild ackreditering via UD för att kunna bevaka statsbesöket. Sista dag för ansökan om ackreditering är fredagen den 12 januari 2018\.
+Medierepresentanter behöver särskild ackreditering via UD för att kunna bevaka statsbesöket. Sista dag för ansökan om ackreditering är fredagen den 12 januari 2018.
 
 Ackrediteringen har stängt.

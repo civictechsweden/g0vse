@@ -6,6 +6,6 @@ Skolverket ska analysera hur de obligatoriska kartläggnings¬materialen i förs
 
 I uppdraget ingår också att Skolverket ska se över det kartläggningsmaterial som används för att bedöma nyanlända elevers kunskaper och hur den kartläggningen bäst kan organiseras.
 
-Uppdraget ska redovisas till Utbildningsdepartementet senast den 15 november 2024\.
+Uppdraget ska redovisas till Utbildningsdepartementet senast den 15 november 2024.
 
 Förslaget bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

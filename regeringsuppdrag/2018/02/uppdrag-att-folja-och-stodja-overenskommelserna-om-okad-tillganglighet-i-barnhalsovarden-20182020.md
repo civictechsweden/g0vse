@@ -1,7 +1,6 @@
 # Uppdrag att följa och stödja överenskommelserna om ökad tillgänglighet i barnhälsovården 2018–2020
 
-Folkhälsomyndigheten uppdras följa och stödja arbetet med att genomföra statens och Sveriges Kommuner och Landstings (SKL) överenskommelser om insatser för ökad tillgänglighet i barnhälsovården 2018–2020\.
-
+Folkhälsomyndigheten uppdras följa och stödja arbetet med att genomföra statens och Sveriges Kommuner och Landstings (SKL) överenskommelser om insatser för ökad tillgänglighet i barnhälsovården 2018–2020.
 
 ### Öka tillgängligheten till barnhälsovården
 
@@ -13,7 +12,7 @@ Myndigheten ska också stödja arbetet med utökade hembesök eller annan uppsö
 
 ### Samordning med Socialstyrelsen
 
-Insatserna ska samordnas med Socialstyrelsens uppdrag att följa, analysera och stödja överenskommelserna om ökad tillgänglighet i barnhälsovården 2018–2020\.
+Insatserna ska samordnas med Socialstyrelsens uppdrag att följa, analysera och stödja överenskommelserna om ökad tillgänglighet i barnhälsovården 2018–2020.
 
 ### Andra aktörers synpunkter hämtas in
 

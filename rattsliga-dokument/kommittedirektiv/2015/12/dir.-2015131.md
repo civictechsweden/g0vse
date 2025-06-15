@@ -9,6 +9,6 @@ Utredningen ska analysera och ta ställning till om det finns behov av ett fört
 
 Om utredningen bedömer att det finns behov av författningsändringar, ska förslag till sådana lämnas.
 
-Uppdraget ska fortfarande slutredovisas senast den 9 juni 2016\.
+Uppdraget ska fortfarande slutredovisas senast den 9 juni 2016.
 
 [Pressmeddelande: En översyn av det straffrättsliga skyddet mot exploatering av utsatta personer för tvångsarbete och tiggeri](/pressmeddelanden/2015/12/en-oversyn-av-det-straffrattsliga-skyddet-mot-exploatering-av-utsatta-personer-for-tvangsarbete-och-tiggeri/)

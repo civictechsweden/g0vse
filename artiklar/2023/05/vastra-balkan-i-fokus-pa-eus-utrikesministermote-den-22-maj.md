@@ -2,8 +2,7 @@
 
 Utvecklingen på Västra Balkan var en av dagordningspunkterna på EU:s utrikesministermöte den 22 maj. I samband med mötet hölls också, på svenskt initiativ, en arbetslunch med utrikesministrarna från länderna på Västra Balkan.
 
-
-På initiativ av utrikesminister Tobias Billström hade utrikesministrarna från de sex länderna på Västra Balkan (Albanien, Bosnien\-Hercegovina, Kosovo, Montenegro, Nordmakedonien och Serbien) bjudits in till en arbetslunch i samband med EU\-mötet.
+På initiativ av utrikesminister Tobias Billström hade utrikesministrarna från de sex länderna på Västra Balkan (Albanien, Bosnien-Hercegovina, Kosovo, Montenegro, Nordmakedonien och Serbien) bjudits in till en arbetslunch i samband med EU-mötet.
 
 Mötet och arbetslunchen blev bra tillfällen att diskutera säkerhetspolitiska frågor, som till exempel ländernas anpassning till EU:s gemensamma utrikespolitik (GUSP) och EU:s sanktioner mot Ryssland.
 

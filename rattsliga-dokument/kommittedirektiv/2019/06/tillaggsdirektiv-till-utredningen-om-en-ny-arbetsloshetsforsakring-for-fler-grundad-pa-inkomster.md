@@ -10,4 +10,4 @@ De förslag som utredaren lämnar och som har att göra med dessa tilläggsdirek
 
 Utredaren ska i enlighet med tidigare direktiv analysera och redovisa förslagets konsekvenser.
 
-Utredningstiden förlängs. Uppdraget ska i stället redovisas i sin helhet senast den 15 maj 2020\.
+Utredningstiden förlängs. Uppdraget ska i stället redovisas i sin helhet senast den 15 maj 2020.

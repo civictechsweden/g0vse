@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om statens hantering av markintrång
 
-I skrivelsen redovisar regeringen sin bedömning med anledning av Riksrevisionens iakttagelser och rekommendationer i rapporten Statens hantering av markintrång – värdering och beslut om ersättning (RiR 2023:18\).
+I skrivelsen redovisar regeringen sin bedömning med anledning av Riksrevisionens iakttagelser och rekommendationer i rapporten Statens hantering av markintrång – värdering och beslut om ersättning (RiR 2023:18).
 
 Riksrevisionens övergripande slutsats är att myndigheternas hantering i stor utsträckning är enhetlig och effektiv inom respektive myndighet.
 

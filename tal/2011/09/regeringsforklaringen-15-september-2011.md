@@ -1,7 +1,6 @@
 # Regeringsförklaringen 15 september 2011
 
-Fredrik Reinfeldt, riksdagen, den 15 september 2011\.
-
+Fredrik Reinfeldt, riksdagen, den 15 september 2011.
 
 Regeringsförklaringen är statsministerns årliga tal inför riksdagen vid öppnandet av riksmötet.
 

@@ -4,4 +4,4 @@ I lagrådsremissen behandlas vissa frågor om beskattningen av energiprodukter s
 
 I lagrådsremissen föreslås även ett par förtydliganden av bestämmelsen om avdrag för skatt på bränsle i vissa fall och en mindre ändring av en bestämmelse om skattskyldighetens inträde när bränsle används för ett ändamål som medför att skatt ska betalas med högre belopp.
 
-Ändringarna föreslås träda i kraft den 1 januari 2013\.
+Ändringarna föreslås träda i kraft den 1 januari 2013.

@@ -2,13 +2,13 @@
 
 Illis quorum meruere labores instiftades år 1785 och betyder ”Åt dem vars gärningar gör dem förtjänta av det” och används för att belöna insatser för kulturella, vetenskapliga och andra allmännyttiga ändamål. Medaljen finns i guld av artonde, tolfte, åttonde och femte storleken.
 
-Följande personer tilldelas Illis quorum meruere labores: Gunnel Lindberg, Inga\-Britt Ahlenius, Cecilia Grefve Lang, Anitra Steen, Lena Jersenius, Bo Dockered och Alf Svensson. Medaljerna kommer att delas ut vid gemensamma ceremonier som hålls i början av 2025\.
+Följande personer tilldelas Illis quorum meruere labores: Gunnel Lindberg, Inga-Britt Ahlenius, Cecilia Grefve Lang, Anitra Steen, Lena Jersenius, Bo Dockered och Alf Svensson. Medaljerna kommer att delas ut vid gemensamma ceremonier som hålls i början av 2025.
 
 **Gunnel Lindberg**
 Regeringen tilldelar f.d. överåklagaren Gunnel Lindberg belöningsmedaljen i guld av åttonde storleken med inskriften Illis quorum meruere labores för hennes mångåriga och betydelsefulla insatser för utvecklingen av rättsväsendet.
 
-**Inga\-Britt Ahlenius**
-Regeringen tilldelar den tidigare generaldirektören Inga\-Britt Ahlenius belöningsmedaljen i guld av tolfte storleken med inskriften Illis quorum meruere labores för hennes mångåriga och betydelsefulla insatser inom svensk statsförvaltning och för hennes internationella arbete mot korruption.
+**Inga-Britt Ahlenius**
+Regeringen tilldelar den tidigare generaldirektören Inga-Britt Ahlenius belöningsmedaljen i guld av tolfte storleken med inskriften Illis quorum meruere labores för hennes mångåriga och betydelsefulla insatser inom svensk statsförvaltning och för hennes internationella arbete mot korruption.
 
 **Cecilia Grefve Lang**
 Regeringen tilldelar f.d. förvaltningschefen Cecilia Grefve Lang belöningsmedaljen i guld av åttonde storleken med inskriften Illis quorum meruere labores för hennes betydande insatser inom socialtjänstens område. Cecilia Grefve Lang har sett och lyssnat till barn och unga och hon har varit en tongivande person i arbetet med en förebyggande och moderniserad socialtjänst.
@@ -27,4 +27,4 @@ Regeringen tilldelar Alf Svensson belöningsmedaljen i guld av artonde storleken
 
 Tidigare i år beslutade regeringen även att tilldela skådespelerskan Christina Schollin och författaren och dramatikern Jonas Gardell belöningsmedaljen. Då tilldelades även Anders Wall regeringens utmärkelse Professors namn.
 
-Även dessa utmärkelser delas ut vid de gemensamma ceremonierna som hålls i början av 2025\.
+Även dessa utmärkelser delas ut vid de gemensamma ceremonierna som hålls i början av 2025.

@@ -9,4 +9,4 @@ mervärdesskatt. De nya reglerna syftar bl.a. till ökad enhetlighet och att
 undvika konkurrenssnedvridningar, dubbelbeskattning och utebliven
 beskattning.
 
-Reglerna föreslås träda i kraft den 1 januari 2019\.
+Reglerna föreslås träda i kraft den 1 januari 2019.

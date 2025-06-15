@@ -6,8 +6,8 @@ Kartläggningen ska omfatta antalet utstationerade arbetstagare i Sverige per å
 
 Med kartläggningen som utgångspunkt ska kommittén
 
-* utvärdera om tillämpningen av lex Laval fungerar så att skyddet för utstationerade arbetstagares grundläggande arbets\- och anställningsvillkor kan säkerställas,
+* utvärdera om tillämpningen av lex Laval fungerar så att skyddet för utstationerade arbetstagares grundläggande arbets- och anställningsvillkor kan säkerställas,
 * utvärdera och bedöma tillämpningen av bestämmelserna om Arbetsmiljöverkets uppgift att tillhandahålla information och arbetstagarorganisationernas skyldighet att lämna in kollektivavtalsvillkor till Arbetsmiljöverket ur ett förutsebarhetsperspektiv, samt vid behov föreslå lagändringar eller andra åtgärder, och
 * överväga vilka lagändringar som krävs för att värna den svenska modellen i ett internationellt perspektiv.
 
-Uppdraget ska redovisas senast den 31 december 2014\.
+Uppdraget ska redovisas senast den 31 december 2014.

@@ -8,4 +8,4 @@ Förslagen i lagrådsremissen ger de brottsbekämpande myndigheterna möjlighet 
 
 Samtidigt stärks rättssäkerheten vid användningen av hemliga tvångsmedel genom att regelverket för underrättelse till enskilda ska förbättras så att underrättelser kan lämnas i fler fall.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2024\.
+Lagändringarna föreslås träda i kraft den 1 juni 2024.

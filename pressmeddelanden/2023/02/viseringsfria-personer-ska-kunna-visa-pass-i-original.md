@@ -4,7 +4,7 @@ Syftet med åtgärderna är att den sökande ska kunna undvika att resa långa s
 
 – Regeringen vill inte att Sverige ska tappa i konkurrenskraft. Vi vidtar därför nödvändiga åtgärder för att underlätta för personer som är viseringsfria, att personligen visa upp sitt pass i original, säger migrationsminister Maria Malmer Stenergard.
 
-Den 1 november 2022 trädde en ny praxis i kraft efter ett rättsligt ställningstagande från Migrationsverket. Den innebar att alla sökande av uppehålls\- och arbetstillstånd skulle visa sina pass i original. Förändringen var en del av Migrationsverkets arbete med att förbättra kontrollen av pass och identitet hos den som ansökte om tillfälliga uppehållstillstånd.
+Den 1 november 2022 trädde en ny praxis i kraft efter ett rättsligt ställningstagande från Migrationsverket. Den innebar att alla sökande av uppehålls- och arbetstillstånd skulle visa sina pass i original. Förändringen var en del av Migrationsverkets arbete med att förbättra kontrollen av pass och identitet hos den som ansökte om tillfälliga uppehållstillstånd.
 
 Förändringen innebar dock att viseringsfria personer som tidigare enkelt kunnat resa in i Sverige efter beslut, utan att behöva besöka en utlandsmyndighet, nu blev tvungna att resa långa sträckor enbart för att visa upp sin passhandling.
 

@@ -2,7 +2,6 @@
 
 Fråga om utvisning av klaganden till Irak skulle strida mot artiklarna 10 och 15 i FN:s konvention om rättigheter för personer med funktionsnedsättning.
 
-
 ### Sammanfattning av granskningen
 
 Klaganden är medborgare i Irak och har sökt asyl i Sverige. Hon åberopade som grund för sin asylansökan att det fanns en hotbild mot henne i hemlandet. Klaganden fick avslag på sin ansökan. När utvisningsbeslutet fått laga kraft åberopade hon nya asylskäl i form av sitt hälsotillstånd. Klaganden hade diagnostiserats med bl.a. depression. De nationella migrationsmyndigheterna bedömde att hennes psykiska ohälsa var kopplad till utvisningsbeslutet och därför inte var av bestående natur. Myndigheterna beviljade henne därför inte en ny prövning av ansökan om uppehållstillstånd.

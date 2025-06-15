@@ -1,8 +1,7 @@
 # En långsiktigt hållbar personalförsörjning av det militära försvaret
 
 En särskild utredare ska föreslå en långsiktigt hållbar personalförsörjning av det militära försvaret som även i fortsättningen huvudsakligen baseras på frivillighet, men där en ökad användning av totalförsvarsplikten kompletterar frivilligheten när krigsorganisationens behov inte kan tryggas enbart genom frivillig rekrytering.
-
-Uppdraget ska redovisas senast den 30 september 2016\.
+Uppdraget ska redovisas senast den 30 september 2016.
 
 Utredaren ska bland annat:
 

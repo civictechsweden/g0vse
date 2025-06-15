@@ -1,3 +1,3 @@
 # 2006 års redogörelse för företag med statligt ägande
 
-I skrivelsen som regeringen lämnar till riksdagen finns en redogörelse för förvaltningen av statens företagsägande samt för verksamheten i de företag som Regeringskansliet förvaltade vid årsskiftet 2005/06\.
+I skrivelsen som regeringen lämnar till riksdagen finns en redogörelse för förvaltningen av statens företagsägande samt för verksamheten i de företag som Regeringskansliet förvaltade vid årsskiftet 2005/06.

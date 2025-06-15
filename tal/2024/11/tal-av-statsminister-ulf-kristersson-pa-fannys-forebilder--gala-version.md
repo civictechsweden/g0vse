@@ -1,9 +1,8 @@
 # Tal av statsminister Ulf Kristersson på Fannys Förebilder – Gala version
 
-Stockholm, fredag den 15 november 2024\.
+Stockholm, fredag den 15 november 2024.
 
 Det talade ordet gäller.
-
 
 Tack för att jag får vara med i kväll i år igen – och uppmärksamma alla er, och alla andra, som gör stora insatser. Ni gör skillnad för andra människor. Men ni gör också skillnad för Sverige som land. Stort tack.
 
@@ -23,7 +22,7 @@ Jag pratar ofta om regeringens paradigmskifte i kriminalpolititiken. Det som upp
 
 Det är de våldsamma männens frihet som ska begränsas, inte kvinnornas. Vi håller på att skärpa kontaktförbuden, så att inte bara hemmet utan även vägen till jobbet eller med barnen till skolan ska bli trygg. Vi skärper straffen och vi stramar upp reglerna för villkorlig frigivning. Och en del måste sitta inne på obestämd tid.
 
-Vi tar dessutom sikte på att bryta hedersförtryckets tyranni. Oskuldskontroller kommer att förbjudas. Det gäller även kusinäktenskap. Vi går fram med ett lämna\-program, för att hjälpa fler att bryta med en våldsam partner.
+Vi tar dessutom sikte på att bryta hedersförtryckets tyranni. Oskuldskontroller kommer att förbjudas. Det gäller även kusinäktenskap. Vi går fram med ett lämna-program, för att hjälpa fler att bryta med en våldsam partner.
 
 Det här handlar också om ekonomi. Det ekonomiska våldet är inte bara en påminnelse om en tid som vi borde ha lagt bakom oss. Det är också en vanlig form av eftervåld.
 

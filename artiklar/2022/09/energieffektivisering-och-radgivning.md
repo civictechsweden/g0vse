@@ -2,7 +2,6 @@
 
 Myndigheters och andra aktörers information om energieffektivisering.
 
-
 ## Energieffektivisering
 
 Energimyndigheten har råd om hur företag och hushåll kan energieffektivisera och minska elanvändningen.
@@ -13,15 +12,15 @@ Energimyndigheten har råd om hur företag och hushåll kan energieffektivisera 
 
 ## Klimat och energirådgivare
 
-De flesta kommuner har klimat\- och energirådgivare.
+De flesta kommuner har klimat- och energirådgivare.
 
-[Hitta din energi\- och klimatrådgivare (energimyndigheten.se)](https://www.energimyndigheten.se/energieffektivisering/jag-vill-energieffektivisera-min-organisation/hitta-din-energi--och-klimatradgivare/)
+[Hitta din energi- och klimatrådgivare (energimyndigheten.se)](https://www.energimyndigheten.se/energieffektivisering/jag-vill-energieffektivisera-min-organisation/hitta-din-energi--och-klimatradgivare/)
 
 ## Råd till energikonsumenter
 
 Energimarknadsinspektionen har ett konsumentforum.
 
-[Konsument \- Energimarknadsinspektionen (ei.se)](https://ei.se/konsument)
+[Konsument - Energimarknadsinspektionen (ei.se)](https://ei.se/konsument)
 
 ## Vägledning i energifrågor
 

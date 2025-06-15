@@ -8,4 +8,4 @@ För övervakning där allmänheten inte har tillträde ska det inte heller i fo
 
 Integritetsskyddet förstärks genom en skadeståndsbestämmelse som ger enskilda rätt till ersättning för skada och kränkning vid överträdelser av lagen. I samma syfte förstärks sekretesskyddet och kraven på säkerhet för inspelat material. Datainspektionen får en central tillsynsroll i syfte att göra länsstyrelsernas praxis mer enhetlig.
 
-Lagförslagen föreslås träda i kraft den 1 juli 2013\.
+Lagförslagen föreslås träda i kraft den 1 juli 2013.

@@ -6,4 +6,4 @@ samla arbetsuppgifter från flera myndigheter i Stockholms län
 och tillhandahålla gemensamma lokaler med gemensam kontorsservice
 i Härnösands kommun för dessa uppgifter.
 
-Uppdraget ska redovisas senast den 30 april 2019\.
+Uppdraget ska redovisas senast den 30 april 2019.

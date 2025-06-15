@@ -10,22 +10,22 @@ Mediestödsnämnden ska bestå av en ordförande och lägst fyra, högst sju, an
 
 **Ordförande:**
 
-F.d. kammarrättslagmannen Anita Linder (förordnad sedan tidigare fr.o.m. 1 januari 2023 t.o.m. 31 december 2025\)
+F.d. kammarrättslagmannen Anita Linder (förordnad sedan tidigare fr.o.m. 1 januari 2023 t.o.m. 31 december 2025)
 
 **Nya ledamöter:**
 
-Seniora forskaren Carl Heath (t.o.m. 31 december 2025\)
+Seniora forskaren Carl Heath (t.o.m. 31 december 2025)
 
-Professorn Bengt Johansson (t.o.m. 31 december 2026\)
+Professorn Bengt Johansson (t.o.m. 31 december 2026)
 
-Docenten i företagsekonomi Mart Ots (t.o.m. 31 december 2026\)
+Docenten i företagsekonomi Mart Ots (t.o.m. 31 december 2026)
 
-Journalisten Ola Sigvardsson (t.o.m. 31 december 2026\)
+Journalisten Ola Sigvardsson (t.o.m. 31 december 2026)
 
-Journalisten Lars Truedson (t.o.m. 31 december 2025\)
+Journalisten Lars Truedson (t.o.m. 31 december 2025)
 
 **Ny ersättare och vice ordförande:**
 
-Kammarrättslagmannen Mattias Almqvist (t.o.m. 31 december 2026\)
+Kammarrättslagmannen Mattias Almqvist (t.o.m. 31 december 2026)
 
-Förordnandena för de nya ledamöterna träder i kraft 1 januari 2024\.
+Förordnandena för de nya ledamöterna träder i kraft 1 januari 2024.

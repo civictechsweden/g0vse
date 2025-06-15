@@ -6,4 +6,4 @@ Bedömningen ska göras med utgångspunkt i en analys av stödets samlade effekt
 
 I ett delbetänkande, som ska lämnas senast den 31 maj 2012, ska kommittén ta ställning till om stödet för dagstidningar till nationella minoriteter bör förstärkas i nuvarande presstödsförordning.
 
-Uppdraget ska redovisas slutligt senast den 31 augusti 2013\.
+Uppdraget ska redovisas slutligt senast den 31 augusti 2013.

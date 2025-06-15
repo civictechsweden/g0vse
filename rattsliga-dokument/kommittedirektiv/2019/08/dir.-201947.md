@@ -1,7 +1,7 @@
 # Tilläggsdirektiv till Utredningen om överförande av basunderhåll från Infranord AB till Trafikverket (N 2018:01)
 
 Genom dessa tilläggsdirektiv utvidgas uppdraget i vissa avseenden.
-Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 31 december 2019\.
+Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 31 december 2019.
 
 ## Utvidgning av uppdraget
 
@@ -14,18 +14,18 @@ Utredaren ska göra följande:
 * Analysera hur gränssnitt, affärsformer och avtal mellan Trafikverket och entreprenörer är utformade avseende basunderhåll upphandlat i konkurrens och lämna förslag på hur Trafikverket kan stärka sin roll som beställare, exempelvis genom att förbättra förmågan att analysera anläggningens status samt planera, upphandla, genomföra och följa upp underhållet, för att bland annat öka underhållets samhällsekonomiska effektivitet.
 * Analysera behovet av långsiktiga marknadsförutsättningar avseende basunderhåll för aktörer verksamma på marknaden och föreslå eventuella förändringar i syfte att främja konkurrensen och aktörers vilja att etablera sig på marknaden och att investera i verksamheten. Utredaren ska analysera vilka marknadseffekter ett övertagande kan få och vilka implikationer detta har på den konkurrensutsatta delen av basunderhållet, exempelvis antal budgivare och bud.
 * Utvärdera behovet av och föreslå ett eventuellt åtagande för
-Trafikverket avseende att äga och förvalta maskinella resurser för
-järnvägsunderhåll om det bedöms skapa ökad produktivitet, effektiv
-konkurrens vid upphandling samt samhällsekonomisk effektivitet eller om det krävs för en god beredskap inom Trafikverkets ansvarsområde.
+  Trafikverket avseende att äga och förvalta maskinella resurser för
+  järnvägsunderhåll om det bedöms skapa ökad produktivitet, effektiv
+  konkurrens vid upphandling samt samhällsekonomisk effektivitet eller om det krävs för en god beredskap inom Trafikverkets ansvarsområde.
 * Föreslå hur effekter på t.ex. kvalitet och kostnader, som följd av ett
-eventuellt överförande av basunderhåll till Trafikverket, kan utvärderas
-och följas över tid i förhållande till konkurrensutsatt verksamhet.
+  eventuellt överförande av basunderhåll till Trafikverket, kan utvärderas
+  och följas över tid i förhållande till konkurrensutsatt verksamhet.
 * Beskriva hur föreslagna förändringar bör genomföras och vilka åtgärder som behöver vidtas. En bedömning ska göras av hur lång tid som krävs för att genomföra förslagen med beaktande av att basunderhåll måste levereras utan avbrott.
 
 ## Kontakter och redovisning av uppdraget
 
-För att skapa förutsättningar för utredaren att genomföra tilläggsuppdraget bör Trafikverket bistå utredaren i arbetet. Utredaren ska också ha kontakt med Statens väg\- och transportforskningsinstitut (VTI) vid uppdragets genomförande.
+För att skapa förutsättningar för utredaren att genomföra tilläggsuppdraget bör Trafikverket bistå utredaren i arbetet. Utredaren ska också ha kontakt med Statens väg- och transportforskningsinstitut (VTI) vid uppdragets genomförande.
 
-Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 31 december 2019\.
+Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 31 december 2019.
 
 (Infrastrukturdepartementet)

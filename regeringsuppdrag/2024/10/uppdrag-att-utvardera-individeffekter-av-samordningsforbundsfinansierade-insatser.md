@@ -5,4 +5,4 @@ Regeringen uppdrar åt Inspektionen för socialförsäkringen (ISF) att utvärde
 ISF ska:
 
 * utifrån registerdata analysera försörjningssituationen för individer som omfattats av ISF:s tidigare utvärdering av teamverksamheten vid Göteborgs, Insjörikets och Stockholms stads samordningsförbund,
-* redovisa uppdraget senast den 2 december 2024\.
+* redovisa uppdraget senast den 2 december 2024.

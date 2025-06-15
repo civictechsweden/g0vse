@@ -8,4 +8,4 @@ Vidare föreslår regeringen en ny bestämmelse som gör det möjligt för Finan
 
 Regeringen föreslår även en ändring i brottsbalken som innebär att svensk domstol ska vara behörig att döma över brott enligt den föreslagna lagen om frysning av tillgångar som har begåtts på en annan stats område, även om gärningen inte är straffbar enligt lagen på gärningsorten.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

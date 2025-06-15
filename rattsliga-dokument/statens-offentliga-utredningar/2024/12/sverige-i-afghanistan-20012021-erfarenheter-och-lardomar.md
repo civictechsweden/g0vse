@@ -5,7 +5,7 @@
 Betänkande av den parlamentariska kommittén för utvärdering av Sveriges engagemang
 i Afghanistan under åren 2001–2021.
 
-## Lärdomar i korthet
+## Sammanhang för Sveriges engagemang
 
 Sverige har haft ett långt och brett engagemang i Afghanistan, inledningsvis genom civilsamhällesorganisationer som Svenska Afghanistankommittén (SAK) och humanitärt bistånd genom FN-systemet. Insatserna i Afghanistan har under tjugoårsperioden varit föremål för stort politiskt och samhälleligt intresse, såväl internationellt som i Sverige. Sveriges engagemang i Afghanistan har utgjort en av de mest långvariga och omfattande internationella insatser som Sverige bidragit till. Engagemanget har behandlats löpande i riksdagens utrikes- respektive försvarsutskott samt i sammansatta utskott. Tusentals svenskar har arbetat i landet, många gånger i farliga och utmanande situationer. Sex svenskar har stupat eller dödats när de tjänstgjort i Afghanistan i svensk eller internationell tjänst, liksom två lokalanställda afghanska tolkar.
 

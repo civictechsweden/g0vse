@@ -1,6 +1,6 @@
 # Stärkt brottsbekämpning genom lagreglering av provokation
 
-En särskild utredare ska föreslå en lagreglering av provokation och se över brottsbekämpande myndigheters möjlighet att använda fordon som inte kan kopplas till de egna myndigheterna. Syftet är att stärka myndigheternas förmåga, framför allt när det gäller dold spanings\- och utredningsverksamhet.
+En särskild utredare ska föreslå en lagreglering av provokation och se över brottsbekämpande myndigheters möjlighet att använda fordon som inte kan kopplas till de egna myndigheterna. Syftet är att stärka myndigheternas förmåga, framför allt när det gäller dold spanings- och utredningsverksamhet.
 
 Utredaren ska bl.a.
 
@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * ta ställning till om det bör göras författningsändringar för att förbättra de brottsbekämpande myndigheternas möjligheter att använda fordon som inte kan kopplas till de egna myndigheterna, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 3 november 2025\.
+Uppdraget ska redovisas senast den 3 november 2025.

@@ -7,12 +7,12 @@ Regeringen har beslutat en ny förordning om vattendelegationer och ändringar i
 ### Referenser
 
 * förordning om vattendelegationer
-* förordningen (2004:660\) om förvaltning av kvaliteten på vattenmiljön
-* förordningen (2011:1237\) om miljöprövningsdelegationer
+* förordningen (2004:660) om förvaltning av kvaliteten på vattenmiljön
+* förordningen (2011:1237) om miljöprövningsdelegationer
 
 ## Mer information
 
-Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 26 september 2017\.
+Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 26 september 2017.
 
 **Kontaktperson**
-Pia\-Maria Lindroos 08\-405 21 51
+Pia-Maria Lindroos 08-405 21 51

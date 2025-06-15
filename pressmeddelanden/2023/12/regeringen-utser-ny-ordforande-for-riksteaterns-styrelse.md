@@ -2,7 +2,7 @@
 
 – Riksteatern är en central aktör för att säkerställa tillgång till kvalitativ scenkonst i hela landet, säger kulturminister Parisa Liljestrand. Jag är därför glad att Benny Marcel, med sin gedigna kunskap och erfarenhet från kulturområdet, har tackat ja till det viktiga uppdraget som ordförande i den nationella styrelsen.
 
-Benny Marcel har lång erfarenhet av ledande positioner inom konst\- och kulturområdet, bland annat som ställföreträdande generaldirektör och avdelningschef för Statens kulturråd. Hans senaste uppdrag var som direktör för Nordisk Kulturfond.
+Benny Marcel har lång erfarenhet av ledande positioner inom konst- och kulturområdet, bland annat som ställföreträdande generaldirektör och avdelningschef för Statens kulturråd. Hans senaste uppdrag var som direktör för Nordisk Kulturfond.
 
 ## Om Riksteatern
 

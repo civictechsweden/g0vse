@@ -6,4 +6,4 @@ Handlingsplanen innehåller bland annat åtgärder för att öka kunskapen om v�
 
 Vidare innehåller handlingsplanen åtgärder för att stärka strukturer för samverkan och åtgärder för att motverka grogrunderna för det ideologiskt motiverade våldet.
 
-Regeringen avser att genomföra åtgärderna under 2012–2014\.
+Regeringen avser att genomföra åtgärderna under 2012–2014.

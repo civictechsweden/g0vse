@@ -4,4 +4,4 @@ Brottsligheten behöver motverkas med såväl effektiv brottsbekämpning som fö
 
 Enligt den nya lagen ska kommunerna ta fram en lägesbild över brottsligheten och utifrån denna ta ställning till behovet av åtgärder och besluta om en åtgärdsplan. Kommunerna ska också ta visst ansvar för samordningen av det lokala brottsförebyggande arbetet och inrätta en samordningsfunktion.
 
-Den nya lagen föreslås träda i kraft den 1 juli 2023\.
+Den nya lagen föreslås träda i kraft den 1 juli 2023.

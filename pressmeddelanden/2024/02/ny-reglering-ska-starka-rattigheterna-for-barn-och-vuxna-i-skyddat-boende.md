@@ -1,6 +1,6 @@
 # Ny reglering ska stärka rättigheterna för barn och vuxna i skyddat boende
 
-Lagändringarna som riksdagen nu röstat igenom innebär att skyddat boende blir en boendeinsats enligt socialtjänstlagen. Medföljande barn ska bedömas individuellt och få ett eget beslut om insatsen. De ska också ha en särskilt utsedd socialsekreterare som ansvarar för kontakten med barn och unga. Vidare ska också barn och ungas tillgång till hälso\-och sjukvård samt skola stärkas genom dessa ändringar.
+Lagändringarna som riksdagen nu röstat igenom innebär att skyddat boende blir en boendeinsats enligt socialtjänstlagen. Medföljande barn ska bedömas individuellt och få ett eget beslut om insatsen. De ska också ha en särskilt utsedd socialsekreterare som ansvarar för kontakten med barn och unga. Vidare ska också barn och ungas tillgång till hälso-och sjukvård samt skola stärkas genom dessa ändringar.
 
 – Alla barn och unga har rätt till en trygg uppväxt och en ljus framtid. De lagändringar som riksdagen nu röstat igenom innebär ett stort steg i rätt riktning för våldsutsatta barn och vuxna. Nu behöver alla berörda aktörer kraftsamla för att förverkliga intentionerna bakom det nya regelverket, säger socialtjänstminister Camilla Waltersson Grönvall.
 

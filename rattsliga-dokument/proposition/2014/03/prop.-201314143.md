@@ -10,4 +10,4 @@ Vidare föreslås att kommunerna ska vara skyldiga att anordna ceremonier för n
 
 Dessutom föreslås bl.a. att man genom anmälan ska kunna återfå ett svenskt medborgarskap som man förlorat till följd av tidigare bestämmelser som syftade till att undvika dubbelt medborgarskap.
 
-Lagändringarna föreslås träda i kraft den 1 april 2015\.
+Lagändringarna föreslås träda i kraft den 1 april 2015.

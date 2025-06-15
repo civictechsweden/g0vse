@@ -4,8 +4,8 @@ Myndigheten för samhällsskydd och beredskap (MSB) ges i uppdrag att redovisa e
 
 MSB ska utgå från att statliga flygande förstärkningsresurser för räddningstjänst ska kunna finansieras inom myndighetens nuvarande ekonomiska ramar.
 
-Redovisningen ska även innefatta en övergripande utvärdering av beredskapen och användningen av de av helikoptrar för räddningstjänst som MSB har upphandlat för 2019\.
+Redovisningen ska även innefatta en övergripande utvärdering av beredskapen och användningen av de av helikoptrar för räddningstjänst som MSB har upphandlat för 2019.
 
 Vid genomförandet av uppdraget ska MSB i relevanta delar inhämta synpunkter från kommunala räddningstjänster.
 
-Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 20 mars 2020\.
+Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 20 mars 2020.

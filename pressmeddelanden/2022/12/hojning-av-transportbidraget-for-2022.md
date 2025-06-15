@@ -1,6 +1,6 @@
 # Höjning av transportbidraget för 2022
 
-– Transportbidraget är betydelsefullt för att kompensera för högre transportkostnaderna för bland annat tillverkningsindustrin och stärker därmed företagens konkurrenskraft i de fyra nordligaste länen, säger energi\- och näringsminister Ebba Busch.
+– Transportbidraget är betydelsefullt för att kompensera för högre transportkostnaderna för bland annat tillverkningsindustrin och stärker därmed företagens konkurrenskraft i de fyra nordligaste länen, säger energi- och näringsminister Ebba Busch.
 
 – Vi vill ha ett konkurrenskraftigt näringsliv för en hållbar regional utveckling. Förutsättningarna att bo, verka och leva i hela landet ska förbättras. Transportbidraget bidrar till den regionala utvecklingen och ett konkurrenskraftigt näringsliv, säger landsbygdsminister Peter Kullgren.
 

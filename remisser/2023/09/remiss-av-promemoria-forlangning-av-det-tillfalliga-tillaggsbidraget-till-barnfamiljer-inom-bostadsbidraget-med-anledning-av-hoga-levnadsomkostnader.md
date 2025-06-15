@@ -2,7 +2,6 @@
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Förlängning av det tillfälliga tilläggsbidraget till barnfamiljer inom bostadsbidraget med anledning av höga levnadsomkostnader.
 
-
 Remissinstanser
 1 Boverket
 2 Domstolsverket
@@ -18,4 +17,4 @@ Remissinstanser
 12 Sveriges Kommuner och Regioner
 13 Socialstyrelsen
 
-Remissvaren ska ha kommit in till Socialdepartementet senast måndagen den 4 september 2023\.
+Remissvaren ska ha kommit in till Socialdepartementet senast måndagen den 4 september 2023.

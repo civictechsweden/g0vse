@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om Polismyndighetens arbete i utsatta områden
 
-Denna skrivelse har utarbetats med anledning av Riksrevisionens rapport Rätt insats på rätt plats – polisens arbete i utsatta områden (RiR 2020:20\).
+Denna skrivelse har utarbetats med anledning av Riksrevisionens rapport Rätt insats på rätt plats – polisens arbete i utsatta områden (RiR 2020:20).
 
 Riksrevisionen har granskat om Polis­myndig­hetens arbete i utsatta områden är ända­måls­enligt. Den samlade slutsatsen av granskningen är att arbetet inte är fullt ut ända­måls­enligt. Polis­myndig­hetens metod för att identi­fiera utsatta områden bedöms utgöra ett stöd för lokal­polis­områdena men Riks­revisionen bedömer också att metoden som används har vissa brister.
 

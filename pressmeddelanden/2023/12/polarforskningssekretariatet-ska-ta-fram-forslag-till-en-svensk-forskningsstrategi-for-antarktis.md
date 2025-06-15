@@ -8,4 +8,4 @@ Sverige har sedan 2020 en strategi för den arktiska regionen som inkluderar pol
 
 I regleringsbrevet för 2024 får Polarforskningssekretariatet nu i uppdrag att ta fram förslag till en forskningsstrategi för Antarktis. Målet är en forskningsstrategi som pekar ut prioriteringar för svensk forskningsverksamhet på Antarktis.
 
-Uppdraget ska redovisas senast den 1 maj 2024\.
+Uppdraget ska redovisas senast den 1 maj 2024.

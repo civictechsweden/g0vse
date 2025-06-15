@@ -4,4 +4,4 @@ En särskild utredare ska lämna förslag på en modell med fri hyressättning, 
 
 Enligt en sakpolitisk överenskommelse mellan Socialdemokraterna, Centerpartiet, Liberalerna och Miljöpartiet de gröna ska det införas fri hyressättning vid nybyggnation. Hyran inom dessa bestånd sätts efter en inledande period enligt en tariff grundad på jämförbara nybyggda objekt med en gradvis anpassning för att uppnå förutsägbarhet eller genom gängse förhandling. Fastighetsägaren väljer vilken av dessa metoder som tillämpas.
 
-Uppdraget ska redovisas senast den 31 maj 2021\.
+Uppdraget ska redovisas senast den 31 maj 2021.

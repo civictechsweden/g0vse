@@ -15,14 +15,14 @@ Utredaren ska:
 
 Utredaren ska vidare:
 
-− kartlägga om liknande lösningar för personer med lättare psykisk ohälsa har utformats i något land inom EU eller EES\-området, exempelvis i Norge eller Storbritannien och överväga i vad mån dessa kan tjäna som goda exempel för verksamheter i Sverige, samt
+− kartlägga om liknande lösningar för personer med lättare psykisk ohälsa har utformats i något land inom EU eller EES-området, exempelvis i Norge eller Storbritannien och överväga i vad mån dessa kan tjäna som goda exempel för verksamheter i Sverige, samt
 − i sina överväganden beakta och synliggöra eventuella skillnader som beror på kön, inklusive när det gäller förutsättningar för vården att nå ut till personer med lättare psykisk ohälsa.
 
 ## Utbildningsinsatser
 
 Utredaren ska:
 – överväga vilka kompetenser som bör ligga till grund för det nya stödet, kartlägga nuvarande kompetenser inom primärvården, analysera vilka utbildningsinsatser som finns i dag och bedöma det eventuella behovet av nya utbildningsinsatser och hur sådana i så fall kan erbjudas över hela landet på ett kostnadseffektivt sätt, samt
-− överväga vilka personalkategorier i primärvården som i första hand bör erbjudas kompetensinsatser och om även personer som i dag inte arbetar inom hälso\- och sjukvården kan utbildas för arbete inom primärvården.
+− överväga vilka personalkategorier i primärvården som i första hand bör erbjudas kompetensinsatser och om även personer som i dag inte arbetar inom hälso- och sjukvården kan utbildas för arbete inom primärvården.
 
 ## Konsekvensbeskrivningar
 
@@ -32,4 +32,4 @@ Utredaren ska särskilt
 
 ## Utredningstiden förlängs
 
-De delar som utredningen enligt tidigare beslutade direktiv skulle slutredovisa den 31 mars 2020 ska i stället redovisas i form av ett delbetänkande samma datum. Uppdraget att utreda förutsättningarna för att utveckla en ny form av skyndsamma insatser inom primärvården vid lättare psykisk ohälsa ska redovisas senast den 15 januari 2021\.
+De delar som utredningen enligt tidigare beslutade direktiv skulle slutredovisa den 31 mars 2020 ska i stället redovisas i form av ett delbetänkande samma datum. Uppdraget att utreda förutsättningarna för att utveckla en ny form av skyndsamma insatser inom primärvården vid lättare psykisk ohälsa ska redovisas senast den 15 januari 2021.

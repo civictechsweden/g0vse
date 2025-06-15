@@ -1,6 +1,6 @@
 # En arvs- och testamentsrätt i tiden
 
-En särskild utredare ska göra en översyn av reglerna om arv och testamente i ärvdabalken. Reglerna ska anpassas till den digitala och ekonomiska samhällsutvecklingen och till hur människor bildar familj i dag. Syftet är att åstadkomma en modern, tydlig och trygg arvs\- och testamentsrätt.
+En särskild utredare ska göra en översyn av reglerna om arv och testamente i ärvdabalken. Reglerna ska anpassas till den digitala och ekonomiska samhällsutvecklingen och till hur människor bildar familj i dag. Syftet är att åstadkomma en modern, tydlig och trygg arvs- och testamentsrätt.
 
 Utredaren ska bl.a.
 
@@ -11,4 +11,4 @@ Utredaren ska bl.a.
 * bedöma om ett testamente bör kunna upprättas digitalt, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 29 augusti 2025\.
+Uppdraget ska redovisas senast den 29 augusti 2025.

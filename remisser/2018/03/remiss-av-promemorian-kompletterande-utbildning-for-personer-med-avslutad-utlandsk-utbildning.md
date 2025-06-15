@@ -2,8 +2,7 @@
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Kompletterande utbildning för personer med avslutad utländsk utbildning.
 
-
-Sista dag att svara på remissen är den 9 maj 2018\.
+Sista dag att svara på remissen är den 9 maj 2018.
 
 ### Remissinstanser
 
@@ -15,7 +14,7 @@ Sista dag att svara på remissen är den 9 maj 2018\.
 6 Fastighetsmäklarinspektionen
 7 Statens skolverk
 8 Universitetskanslersämbetet
-9 Universitets\- och högskolerådet
+9 Universitets- och högskolerådet
 10 Överklagandenämnden för högskolan
 11 Uppsala universitet
 12 Lunds universitet
@@ -33,7 +32,7 @@ Sista dag att svara på remissen är den 9 maj 2018\.
 24 Malmö universitet
 25 Blekinge tekniska högskola
 26 Försvarshögskolan
-27 Gymnastik\- och idrottshögskolan
+27 Gymnastik- och idrottshögskolan
 28 Högskolan i Borås
 29 Högskolan Dalarna
 30 Högskolan i Gävle
@@ -68,6 +67,6 @@ Sista dag att svara på remissen är den 9 maj 2018\.
 59 Svenskt Näringsliv
 60 Sveriges akademikers centralorganisation
 61 Sveriges förenade studentkårer
-62 Sveriges universitets\- och högskoleförbund
+62 Sveriges universitets- och högskoleförbund
 63 Teknikföretagen
 64 Tjänstemännens Centralorganisation

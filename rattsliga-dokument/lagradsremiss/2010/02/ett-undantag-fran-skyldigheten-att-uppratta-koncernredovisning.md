@@ -4,4 +4,4 @@ I lagrådsremissen föreslås vissa förenklingar i årsredovisningslagstiftning
 
 I lagrådsremissen föreslås även ett klargörande i fråga om Revisorsnämndens möjligheter att lämna information till tillsynsorgan i stater utanför EES.
 
-De nya bestämmelserna föreslås träda i kraft den 1 juli 2010\.
+De nya bestämmelserna föreslås träda i kraft den 1 juli 2010.

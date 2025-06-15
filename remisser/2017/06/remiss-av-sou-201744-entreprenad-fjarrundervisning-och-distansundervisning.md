@@ -1,7 +1,6 @@
 # Remiss av SOU 2017:44 Entreprenad, fjärrundervisning och distansundervisning
 
-Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:44 Entreprenad, fjärrundervisning och distansundervisning. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 5 oktober 2017\.
-
+Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:44 Entreprenad, fjärrundervisning och distansundervisning. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 5 oktober 2017.
 
 ## Remissinstanser
 
@@ -19,7 +18,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:44
 12 Specialpedagogiska skolmyndigheten
 13 Sameskolstyrelsen
 14 Skolväsendets överklagandenämnd
-15 Myndigheten för ungdoms\- och civilsamhällesfrågor
+15 Myndigheten för ungdoms- och civilsamhällesfrågor
 16 Universitetskanslersämbetet
 17 Uppsala universitet
 18 Högskolan i Dalarna
@@ -69,7 +68,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:44
 62 Västernorrlands läns landsting
 63 Academedia AB
 64 Almega
-65 Autism\- och Aspergerförbundet
+65 Autism- och Aspergerförbundet
 66 Barnplantorna, Riksförbundet för Barn med Cochleaimplantat och Barn med Hörapparat
 67 DHR – Delaktighet, Handlingskraft, Rörelsefrihet – Förbundet för ett samhälle utan rörelsehinder
 68 Folkbildningsrådet
@@ -102,7 +101,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:44
 95 Svenska Downföreningen
 96 Svenska Montessoriförbundet
 97 Svenska Skolläkarföreningen
-98 Svenska Tornedalingars Riksförbund \- Tornionlaaksolaiset
+98 Svenska Tornedalingars Riksförbund - Tornionlaaksolaiset
 99 Svenskt Näringsliv
 100 Sverigefinländarnas delegation
 101 Sverigefinska riksförbundet

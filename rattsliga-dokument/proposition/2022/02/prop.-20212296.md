@@ -4,4 +4,4 @@ I propositionen föreslås att mervärdesskatten sänks från 12 procent till 6 
 
 Förslaget syftar till att förstärka de befintliga incitamenten i mervärdesskattesystemet för att få fler att laga och ändra redan tillverkade varor i stället för att köpa nytt. Förslaget medför ändringar i mervärdesskattelagen.
 
-Lagändringen föreslås träda i kraft den 1 juli 2022\.
+Lagändringen föreslås träda i kraft den 1 juli 2022.

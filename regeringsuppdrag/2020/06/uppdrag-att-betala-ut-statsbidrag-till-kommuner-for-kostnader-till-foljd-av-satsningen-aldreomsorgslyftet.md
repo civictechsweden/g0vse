@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen att betala ut statsbidrag till kommuner. Detta som ersättning för att anställda inom kommunalt finansierad vård och omsorg om äldre ska kunna utbilda sig till vårdbiträde eller undersköterska på arbetstid till följd av satsningen Äldreomsorgslyftet.
 
-
 Socialstyrelsen administrerar och följer upp hur pengarna använts och i vilken utsträckning privata utförare fått tillgång till stimulansmedlen.
 
 ## Information till kommuner och privata utförare
@@ -11,4 +10,4 @@ Socialstyrelsen ska informera kommunerna om hur de ska genomföra Äldreomsorgsl
 
 Kommunerna ansvarar för att både den egen verksamhet den verksamhet som bedrivs av privata utförare har möjlighet att ta del av stimulansmedlen.
 
-Socialstyrelsen ska redovisa uppdraget till Socialdepartementet senast den 31 oktober 2021\.
+Socialstyrelsen ska redovisa uppdraget till Socialdepartementet senast den 31 oktober 2021.

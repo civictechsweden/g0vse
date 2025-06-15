@@ -4,4 +4,4 @@ En särskild utredare ska göra en översyn av ersätt­ningen till rättighets�
 
 Utredaren ska därutöver särskilt analysera förutsätt­ningarna för att ersätta det nuvarande regel­verket med en statlig ersätt­nings­ordning och bedöma om det är lämpligt. I sådana fall ska utredaren föreslå nödvän­diga lagändringar.
 
-Uppdraget ska redovisas senast den 21 februari 2022\.
+Uppdraget ska redovisas senast den 21 februari 2022.

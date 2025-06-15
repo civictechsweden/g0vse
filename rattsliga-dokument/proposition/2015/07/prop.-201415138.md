@@ -16,4 +16,4 @@ respektive översändande ska ske, hur prövningen ska gå till och i vilken
 utsträckning den andra statens medgivande krävs. Kriminalvårdens
 beslut föreslås kunna överklagas till allmän domstol.
 
-Den nya lagstiftningen föreslås träda i kraft den 1 januari 2016\.
+Den nya lagstiftningen föreslås träda i kraft den 1 januari 2016.

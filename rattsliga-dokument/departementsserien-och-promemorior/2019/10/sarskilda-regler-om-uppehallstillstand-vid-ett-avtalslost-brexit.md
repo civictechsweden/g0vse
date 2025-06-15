@@ -9,4 +9,4 @@ Förslagen innebär bl.a. följande:
 
 De nya bestämmelserna om uppehållstillstånd föreslås införas i en ny förordning. I syfte att uppnå en ändamålsenlig reglering föreslås även ett nytt bemyndigande i lag, som bl.a. möjliggör bestämmelser om att uppehållstillstånd enligt det nya regelverket får återkallas i vissa fall.
 
-Förordningen föreslås träda i kraft den 1 januari 2020 och lagändringen den 1 maj 2020\.
+Förordningen föreslås träda i kraft den 1 januari 2020 och lagändringen den 1 maj 2020.

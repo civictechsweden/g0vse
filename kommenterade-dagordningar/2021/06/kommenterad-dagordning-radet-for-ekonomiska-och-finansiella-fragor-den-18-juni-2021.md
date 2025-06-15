@@ -7,9 +7,9 @@ På Ekofinrådets möte den 18 juni 2021 finns följande punkter på dagordninge
 * Marknader för kryptotillgångar
 * Aktuella lagstiftningsförslag om finansiella tjänster
 * Den ekonomiska återhämtningen i Europa
-* Genomförandet av stabilitets\- och tillväxtpakten
+* Genomförandet av stabilitets- och tillväxtpakten
 * Europeiska planeringsterminen 2021
 * Slutsatser om utmaningar för den finanspolitiska hållbarheten tillföljd av en åldrande befolkning
-* Förberedelser inför G20\-mötet med finansministrar och centralbankschefer den 7–10 juli 2021 – EU:s mandat
+* Förberedelser inför G20-mötet med finansministrar och centralbankschefer den 7–10 juli 2021 – EU:s mandat
 * Översynen av Solvens II
-* Europeiska revisionsrättens särskilda rapport om jämställdhetsintegrering i EU\-budgeten
+* Europeiska revisionsrättens särskilda rapport om jämställdhetsintegrering i EU-budgeten

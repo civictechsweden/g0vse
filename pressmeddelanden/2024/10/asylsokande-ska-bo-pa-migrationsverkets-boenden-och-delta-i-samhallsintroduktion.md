@@ -18,4 +18,4 @@ Det föreslås också en lagreglerad skyldighet för asylsökande att delta i sa
 
 – Den samhällsintroduktion Migrationsverket anordnar i dag för asylsökande är mycket viktig och bidrar till kännedom om svenska lagar, normer och lagar. Men tyvärr är deltagandet alldeles för lågt. Regeringen föreslår nu en skyldighet att delta i samhällsintroduktion för asylsökande och personer med tillfälligt skydd enligt massflyktsdirektivet. Det är viktigt och bra för att fler ska delta i introduktionen, säger Liberalernas andre vice partiledare Fredrik Malm.
 
-Lagändringarna föreslås träda i kraft den 1 mars 2025\.
+Lagändringarna föreslås träda i kraft den 1 mars 2025.

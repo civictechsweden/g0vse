@@ -4,7 +4,7 @@ Skolverket har sedan tidigare i uppdrag att tillsammans med Kungliga biblioteket
 
 – Det är viktigt att vi vet hur skolbiblioteksverksamheten ser ut i Sveriges skolor, inte minst när det gäller hur de är bemannade. Skolbibliotekarien kan spela en stor roll för elevernas läsintresse, säger skolminister Lotta Edholm.
 
-I det nya uppdraget ingår att även utveckla och förtydliga uppgiftsinsamlingen från huvudmännen så att den mer detaljerat redovisar hur mycket medel som läggs på läroböcker, andra läromedel och annat material som används i undervisningen. I dag samlar Skolverket in uppgifter om vilka kostnader huvudmännen har för lärverktyg, men begreppet lärverktyg omfattar en mängd olika saker som skön\- och facklitteratur, tidningar, kostnader för skolbibliotekets personal och saker som symaskiner, hyvelbänkar och datorer.
+I det nya uppdraget ingår att även utveckla och förtydliga uppgiftsinsamlingen från huvudmännen så att den mer detaljerat redovisar hur mycket medel som läggs på läroböcker, andra läromedel och annat material som används i undervisningen. I dag samlar Skolverket in uppgifter om vilka kostnader huvudmännen har för lärverktyg, men begreppet lärverktyg omfattar en mängd olika saker som skön- och facklitteratur, tidningar, kostnader för skolbibliotekets personal och saker som symaskiner, hyvelbänkar och datorer.
 
 – Forskningen visar att de bästa förutsättningarna för att utveckla grundläggande färdigheter som att läsa och skriva ges i analoga miljöer med analoga verktyg. Det vill säga med böcker, papper och pennor. Därför är det viktigt är att kunna följa och kartlägga hur mycket pengar som läggs på till exempel läroböcker och andra lärverktyg som datorer och lärplattor, säger skolminister Lotta Edholm.
 

@@ -9,4 +9,4 @@ Utredaren ska bland annat
 * ta ställ­ning till hur sökan­dens identitet ska säker­ställas i lagfarts­ärenden, och
 * lämna nöd­vändiga författ­nings­förslag.
 
-Uppdraget ska redo­visas senast den 1 september 2023\.
+Uppdraget ska redo­visas senast den 1 september 2023.

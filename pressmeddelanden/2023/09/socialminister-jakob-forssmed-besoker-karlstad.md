@@ -8,6 +8,6 @@ Under eftermiddagen kommer socialministern att besöka Experio Lab Sverige som i
 
 Kl 11:00 Verksamhetsbesök på Fritidsbanken i Karlstad.
 
-Kl 13:00 Besök på Centrum för tjänsteforskning och Samhällsnytta, Karlstads universitet, Experio Lab Sverige samt lokala utvecklings\- och innovationsverksamheten i regionen.
+Kl 13:00 Besök på Centrum för tjänsteforskning och Samhällsnytta, Karlstads universitet, Experio Lab Sverige samt lokala utvecklings- och innovationsverksamheten i regionen.
 
 För mer information och intervjuförfrågningar kontakta pressekreterare Simon Hoff.

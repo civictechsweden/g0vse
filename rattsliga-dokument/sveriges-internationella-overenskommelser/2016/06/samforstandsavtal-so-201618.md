@@ -14,4 +14,4 @@ Regeringen beslutade den 28 augusti 2014 att underteckna avtalet. Den
 Avtalet trädde i kraft den 1 juli 2016 efter att Supreme Headquarters Allied Powers Europe mottagit Sveriges underrättelse.
 
 Riksdagsbehandling: Prop. 2015/16:152, bet. 2015/16:UFöU4,
-rskr. 2015/16:257\.
+rskr. 2015/16:257.

@@ -7,6 +7,6 @@ laddnings­punkt eller ett eluttag som tillhandahålls av arbetsgivaren i anslut
 
 Lagändringarna föreslås träda i kraft den 1 juli 2023 och beräknas minska statens intäkter med ca 110 miljoner kronor per helår.
 
-Finansdepartementet skickar nu förslaget på remiss till den 18 januari 2023\.
+Finansdepartementet skickar nu förslaget på remiss till den 18 januari 2023.
 
 Förslaget bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

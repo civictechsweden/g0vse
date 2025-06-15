@@ -6,4 +6,4 @@ Om ett barn frihetsberövas ska enligt hittillsvarande ordning bland annat vård
 
 Promemorian är framtagen mot bakgrund av att Europeiska kommissionen (kommissionen) i en formell underrättelse till regeringen har ifrågasatt Sveriges genomförande av Europaparlamentets och rådets direktiv 2013/48/EU av den 22 oktober 2013 om rätt till tillgång till försvarare i straffrättsliga förfaranden och förfaranden i samband med en europeisk arresteringsorder samt om rätt att få en tredje part underrättad vid frihetsberövande och rätt att kontakta tredje parter och konsulära myndigheter under frihetsberövandet (försvarardirektivet).
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2022\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2022.

@@ -12,4 +12,4 @@ De föreslagna ändringarna medför också vissa justeringar i skatteförfarande
 
 Förslaget utgör ett statligt stöd som måste anmälas till och godkännas av Europeiska kommissionen innan det kan genomföras.
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2022\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2022.

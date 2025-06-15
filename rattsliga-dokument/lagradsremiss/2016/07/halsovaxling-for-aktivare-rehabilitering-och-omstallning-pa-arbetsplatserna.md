@@ -10,4 +10,4 @@ I arbetsgivarens avgiftsunderlag för den särskilda sjukförsäkringsavgiften s
 
 Det föreslås att arbetsgivaravgifterna sänks med 0,15 procentenheter. Arbetsgivarkollektivet kompenseras därigenom för de ökade kostnader som den särskilda sjukförsäkringsavgiften medför. Detta innebär att reformen blir kostnadsneutral. Den särskilda sjukförsäkringsavgiften beräknas och beslutas av Försäkringskassan och debiteras arbetsgivarens skattekonto.
 
-Förslagens effekter ska följas upp och utvärderas. Förslagen föreslås träda i kraft den 1 juni 2017\.
+Förslagens effekter ska följas upp och utvärderas. Förslagen föreslås träda i kraft den 1 juni 2017.

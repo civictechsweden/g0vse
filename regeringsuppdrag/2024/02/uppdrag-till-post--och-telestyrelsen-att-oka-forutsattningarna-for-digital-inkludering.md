@@ -1,7 +1,6 @@
 # Uppdrag till Post- och telestyrelsen att öka förutsättningarna för digital inkludering
 
-Regeringen ger Post\- och telestyrelsen (PTS) i uppdrag att föreslå insatser för att öka andelen individer som är digitalt inkluderade, dvs. individer som använder digitala tjänster.
-
+Regeringen ger Post- och telestyrelsen (PTS) i uppdrag att föreslå insatser för att öka andelen individer som är digitalt inkluderade, dvs. individer som använder digitala tjänster.
 
 I uppdraget ingår att:
 
@@ -14,6 +13,6 @@ Vid framtagandet av förslag ska kostnadseffektivitet och samhällsekonomisk eff
 
 Eventuella förslag om insatser som avser kommuner och regioner ska utgå från vad som gäller enligt den kommunala självstyrelsen och för statens styrning av kommuner och regioner.
 
-Vid genomförandet av uppdraget ska PTS inhämta synpunkter från Myndigheten för digital förvaltning, Statens servicecenter, Myndigheten för delaktighet, Myndigheten för tillgängliga medier, Myndigheten för ungdoms\- och civilsamhällesfrågor, Mediemyndigheten, Statistiska centralbyrån, kommuner och regioner och Sveriges Kommuner och Regioner (SKR), samt övriga myndigheter och organisationer som PTS bedömer särskilt berörs av uppdraget.
+Vid genomförandet av uppdraget ska PTS inhämta synpunkter från Myndigheten för digital förvaltning, Statens servicecenter, Myndigheten för delaktighet, Myndigheten för tillgängliga medier, Myndigheten för ungdoms- och civilsamhällesfrågor, Mediemyndigheten, Statistiska centralbyrån, kommuner och regioner och Sveriges Kommuner och Regioner (SKR), samt övriga myndigheter och organisationer som PTS bedömer särskilt berörs av uppdraget.
 
 PTS ska senast den 1 mars 2024 lämna en skriftlig delredovisning till Regeringskansliet (Finansdepartementet). Myndigheten ska senast den 21 december 2024 slutredovisa uppdraget till Regeringskansliet.

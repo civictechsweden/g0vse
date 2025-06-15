@@ -2,7 +2,6 @@
 
 Migrationsminister Maria Malmer Stenergard, debattartikel, Expressen, den 31 juli 2023
 
-
 Vi lever i en orolig tid. Vid sidan av ett kraftigt försämrat omvärldsläge, pekar Säkerhetspolisen på hur hotet från extremism och våldsbejakande krafter inifrån Sverige har växt sig allt starkare.
 
 Det ställer nya krav på migrationspolitiken.
@@ -11,7 +10,7 @@ En överväldigande majoritet av de som kommer till Sverige vill inget annat än
 
 De migrationsrelaterade hoten rör sig dels om ren terrorism eller annan våldsbejakande extremism. Säpo bedömer att det i dag finns flera hundra individer utan svenskt medborgarskap som utgör ett säkerhetshot och som därför bör utvisas ur Sverige.
 
-Bara under första halvåret i år avrådde myndigheten från att medborgarskap skulle beviljas med hänvisning till att den sökande bedömdes utgöra ett hot i över 400 fall. Det utgör en kraftig ökning och kan jämföras med knappt 150 ärenden under hela 2019\.
+Bara under första halvåret i år avrådde myndigheten från att medborgarskap skulle beviljas med hänvisning till att den sökande bedömdes utgöra ett hot i över 400 fall. Det utgör en kraftig ökning och kan jämföras med knappt 150 ärenden under hela 2019.
 
 Men det kan också handla om mer långsiktiga hot mot svenska intressen som migrationspolitiken måste klara av att hantera.
 
@@ -23,7 +22,7 @@ Regeringen har redan inlett ett antal reformer.
 
 För det första, ett skärpt regelverk. I juni beslutade regeringen om en lagrådsremiss med en rad förändringar i hanteringen av säkerhetsärenden. Fler migrationsärenden föreslås bli säkerhetsärenden och missbruket av svenska resehandlingar kommer att åtgärdas.
 
-För det andra, skärpt kontroll. Migrationsverket fick i december i uppdrag att intensifiera arbetet med att återkalla felaktiga uppehållstillstånd. Det har redan inneburit en mångdubbling av antalet återkallelser jämfört med tidigare. Personer som kommer till Sverige i andra ärenden än de som de faktiskt har tillstånd för måste räkna med att bli utvisade. Myndigheten ska också stärka ID\-kontrollen i handläggningen och öka användningen av biometri.
+För det andra, skärpt kontroll. Migrationsverket fick i december i uppdrag att intensifiera arbetet med att återkalla felaktiga uppehållstillstånd. Det har redan inneburit en mångdubbling av antalet återkallelser jämfört med tidigare. Personer som kommer till Sverige i andra ärenden än de som de faktiskt har tillstånd för måste räkna med att bli utvisade. Myndigheten ska också stärka ID-kontrollen i handläggningen och öka användningen av biometri.
 
 Dessutom kommer regeringen inom kort att låta utreda en möjlighet till utvisning på grund av bristande vandel. Det är anmärkningsvärt att de krav på vandel som finns för att beviljas permanent uppehållstillstånd inte också kan utgöra grund för att dra tillbaka ett redan beviljat tillstånd.
 

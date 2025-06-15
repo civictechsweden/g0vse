@@ -1,9 +1,8 @@
 # Remiss av Betänkandet Forska tillsammans – samverkan för lärande och förbättring, SOU 2018:19
 
-Här kan du ta del av till vilka instanser som regeringen har remitterat betänkandet Forska tillsammans – samverkan för lärande och förbättring, SOU 2018:19\.
+Här kan du ta del av till vilka instanser som regeringen har remitterat betänkandet Forska tillsammans – samverkan för lärande och förbättring, SOU 2018:19.
 
-
-Sista dag att svara på remissen är den 15 augusti 2018\.
+Sista dag att svara på remissen är den 15 augusti 2018.
 
 ## Remissinstanser
 
@@ -12,12 +11,12 @@ Sista dag att svara på remissen är den 15 augusti 2018\.
 3 Statens skolinspektion
 4 Statens institutionsstyrelse
 5 Specialpedagogiska skolmyndigheten
-6 Barn\- och elevombudet
+6 Barn- och elevombudet
 7 Diskrimineringsombudsmannen
 8 Sameskolstyrelsen
 9 Skolforskningsinstitutet
 10 Universitetskanslersämbetet
-11 Universitets\- och högskolerådet
+11 Universitets- och högskolerådet
 12 Kungl. biblioteket
 13 Vetenskapsrådet
 14 Uppsala universitet
@@ -33,7 +32,7 @@ Sista dag att svara på remissen är den 15 augusti 2018\.
 24 Örebro universitet
 25 Mittuniversitetet
 26 Malmö universitet
-27 Gymnastik\- och idrottshögskolan
+27 Gymnastik- och idrottshögskolan
 28 Högskolan i Borås
 29 Högskolan Dalarna
 30 Högskolan i Gävle

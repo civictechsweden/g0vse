@@ -1,6 +1,6 @@
 # Ett mer ändamålsenligt regelverk i sjuk- och aktivitetsersättningen och för förmåner vid rehabilitering
 
-Regeringen uppdrar åt en särskild utredare att se över sjuk\- och aktivitetsersättningen. Meningen är att förmånerna ska ge hög trygghet, god förutsebarhet och stabilitet. Reglernas krav ska göras mer ändamålsenliga och – i möjligaste mån – ta tillvara den försäkrades arbetsförmåga.
+Regeringen uppdrar åt en särskild utredare att se över sjuk- och aktivitetsersättningen. Meningen är att förmånerna ska ge hög trygghet, god förutsebarhet och stabilitet. Reglernas krav ska göras mer ändamålsenliga och – i möjligaste mån – ta tillvara den försäkrades arbetsförmåga.
 
 ## Modernare regler för rehabilitering och förebyggande av ohälsa
 
@@ -14,4 +14,4 @@ Utredaren ska bland annat:
 * lämna förslag på hur nuvarande förmåner vid rehabilitering kan moderniseras eller ersättas av en eller flera nya förmåner som är mer ändamålsenliga i förhållande till dagens rehabiliteringsformer och enkla för individer och handläggande myndigheter att administrera samt säkerställer en tillräcklig uppföljning och kontroll av rehabiliteringen, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 30 juli 2021\.
+Uppdraget ska redovisas senast den 30 juli 2021.

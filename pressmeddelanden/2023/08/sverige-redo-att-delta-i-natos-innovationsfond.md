@@ -2,7 +2,7 @@
 
 Sveriges bidrag kommer att läggas till det nuvarande kapitalet på 1 miljard euro och därmed öka NIF:s investerbara medel och främja innovationskapaciteten i hela alliansen.
 
-– Som Natomedlem kommer Sverige att bidra till alliansens styrka inte bara genom vårt geografiskt strategiska läge och våra militära förmågor utan också genom en livaktig säkerhets\- och försvarsindustri som främjar innovation och utveckling av spjutspetsteknik. Att delta i NIF är ett ytterligare sätt att göra det möjligt, säger försvarsminister Pål Jonson.
+– Som Natomedlem kommer Sverige att bidra till alliansens styrka inte bara genom vårt geografiskt strategiska läge och våra militära förmågor utan också genom en livaktig säkerhets- och försvarsindustri som främjar innovation och utveckling av spjutspetsteknik. Att delta i NIF är ett ytterligare sätt att göra det möjligt, säger försvarsminister Pål Jonson.
 
 David van Weel, Natos biträdande generalsekreterare för framväxande säkerhetsutmaningar, välkomnar Sveriges framtida deltagande.
 

@@ -9,4 +9,4 @@ Förslagen innebär följande:
 * Krav införs på skyndsam handläggning av resningsärenden med unga lagöverträdare och på underrättelse till vårdnadshavarna när ett resningsförfarande inleds mot någon som är under 18 år.
 * Förbudet för högre rätt att ändra en dom till den tilltalades nackdel när endast den tilltalade har överklagat ska inte gälla om det kommer fram nya uppgifter om hans eller hennes ålder som skulle kunna utgöra grund för resning.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2022\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2022.

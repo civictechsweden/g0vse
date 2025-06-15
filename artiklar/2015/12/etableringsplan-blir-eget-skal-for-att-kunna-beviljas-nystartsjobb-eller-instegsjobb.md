@@ -1,11 +1,10 @@
 # Etableringsplan blir eget skäl för att kunna beviljas nystartsjobb eller instegsjobb
 
-Beslutet innebär att nyanlända invandrare som har en etableringsplan enligt lagen (2010:197\) om etableringsinsatser för vissa nyanlända invandrare kan beviljas nystartsjobb.
-
+Beslutet innebär att nyanlända invandrare som har en etableringsplan enligt lagen (2010:197) om etableringsinsatser för vissa nyanlända invandrare kan beviljas nystartsjobb.
 
 ### Vad innebär beslutet?
 
-Beslutet innebär att nyanlända invandrare som har en etableringsplan enligt lagen (2010:197\) om etableringsinsatser för vissa nyanlända invandrare kan beviljas nystartsjobb.
+Beslutet innebär att nyanlända invandrare som har en etableringsplan enligt lagen (2010:197) om etableringsinsatser för vissa nyanlända invandrare kan beviljas nystartsjobb.
 
 ### Varför görs detta?
 

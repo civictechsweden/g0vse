@@ -8,4 +8,4 @@ I uppdraget ingår också att utreda vissa särskilda frågor i den civilrättsl
 
 Därutöver ska utredaren se över gränsdragningen mellan den del av ett livförsäkringsföretags verksamhet som ska beskattas med avkastningsskatt och den del som ska beskattas med inkomstskatt.
 
-Uppdraget ska redovisas senast den 1 februari 2014\.
+Uppdraget ska redovisas senast den 1 februari 2014.

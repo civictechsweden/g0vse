@@ -2,7 +2,6 @@
 
 Skogen ger oss hållbara lösningar på viktiga samhällsfrågor. Den står för avgörande klimatsmarta alternativ för att minska användningen av fossila råvaror och skapar fler jobb i hela landet. Den utgör en värdefull naturresurs med både bidrag till det svenska välfärdsbygget och svenskars välmående och naturupplevelser. Sverige ska visa vägen och vara ett föredöme internationellt i hållbart brukande och bevarande av skog och i omställningen till en växande bioekonomi, bort från fossilberoendet.
 
-
 Efterfrågan på skogens hållbara lösningar förväntas öka. Eftersom våra målsättningar som berör skog – både som land och som individer – är många och olika anser regeringen att det är viktigt att vi ökar samsynen på lång sikt. På så sätt lägger vi grunden för långsiktiga spelregler som ger investeringssäkerhet kring skogen och dess värdekedja vilket möjliggör för en fossilfri framtid, hållbar tillväxt och sysselsättning i hela landet.
 
 Ett långsiktigt skogsprogram behövs för att främja hållbara, konkurrenskraftiga och biobaserade näringar med bas i skogen. En god tillgång till nationell biomassa från den svenska skogen ska säkerställas genom hållbar skoglig tillväxt inom ramen för att de nationella miljömålen nås. För fortsatt lönsamhet och investeringsvilja längs skogens hela värdekedja behövs vision, mål och insatser för ökad samsyn.

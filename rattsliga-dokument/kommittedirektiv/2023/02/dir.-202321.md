@@ -8,4 +8,4 @@ Utredaren får nu även i uppdrag att
 * beakta och analysera om en ändrad finansiering av arbetsskadeförsäkringen kan medföra selektering bland olika grupper, i synnerhet i vilken mån detta kan påverka gruppen långtidsarbetslösas anställbarhet, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska, som tidigare angivits, redovisas senast den 1 augusti 2023\.
+Uppdraget ska, som tidigare angivits, redovisas senast den 1 augusti 2023.

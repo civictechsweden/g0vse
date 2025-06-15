@@ -4,4 +4,4 @@ Problem i samband med telefonförsäljning av varor och tjänster har uppmärksa
 
 En särskild utredare ska därför överväga och bedöma om konsumentskyddet i samband med telefonförsäljning behöver stärkas och vid behov föreslå åtgärder. En åtgärd som ska övervägas är om det bör införas ett krav på skriftlig bekräftelse vid telefonförsäljning till konsumenter. Utredaren ska även bedöma om småföretagare behöver ett särskilt skydd.
 
-Uppdraget ska redovisas senast den 30 april 2015\.
+Uppdraget ska redovisas senast den 30 april 2015.

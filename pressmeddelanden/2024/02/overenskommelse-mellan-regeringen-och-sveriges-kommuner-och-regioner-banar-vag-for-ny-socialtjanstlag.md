@@ -12,10 +12,10 @@ Under 2024 kommer arbetet inom ramen för överenskommelsen framför allt att fo
 
 Regeringen ger Socialstyrelsen i uppdrag att fördela 200 miljoner kronor i statsbidrag till kommuner under 2024 för att stödja kommunerna i omställningen till en långsiktigt hållbar, mer förebyggande och kunskapsbaserad socialtjänst.
 
-Kommunerna får använda medel till att genomföra läges\- och behovsanalyser och planering inför den nya socialtjänstlagen. SKR och Socialstyrelsen ska ge stöd till kommunerna i arbetet. Socialstyrelsen ska med utgångspunkt i kommunernas behov också planera för och förbereda nationella kompetenshöjande insatser för att stödja kommunerna i omställningen och genomförandet av den nya socialtjänstlagen.
+Kommunerna får använda medel till att genomföra läges- och behovsanalyser och planering inför den nya socialtjänstlagen. SKR och Socialstyrelsen ska ge stöd till kommunerna i arbetet. Socialstyrelsen ska med utgångspunkt i kommunernas behov också planera för och förbereda nationella kompetenshöjande insatser för att stödja kommunerna i omställningen och genomförandet av den nya socialtjänstlagen.
 
-Kommunernas förutsättningar och behovsområden inför omställningen skiljer sig åt. Under det förberedande året 2024 får kommunerna använda medel till att genomföra läges\- och behovsanalyser inför den nya socialtjänstlagen. Kommuner kan med fördel samverka med varandra i arbetet.
+Kommunernas förutsättningar och behovsområden inför omställningen skiljer sig åt. Under det förberedande året 2024 får kommunerna använda medel till att genomföra läges- och behovsanalyser inför den nya socialtjänstlagen. Kommuner kan med fördel samverka med varandra i arbetet.
 
-Regeringen avsätter 200 miljoner kronor under det förberedande året 2024\. Av medlen fördelas 650 000 kronor (lika belopp) till varje kommun.
+Regeringen avsätter 200 miljoner kronor under det förberedande året 2024. Av medlen fördelas 650 000 kronor (lika belopp) till varje kommun.
 
 Socialstyrelsen ska senast den 30 september 2025 lämna en redovisning till Regeringskansliet med en samlad analys av kommunernas lägesbilder inför den nya socialtjänstlagen samt redovisning av myndighetens arbete.

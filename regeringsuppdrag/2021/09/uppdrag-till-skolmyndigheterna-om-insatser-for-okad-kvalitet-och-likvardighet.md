@@ -2,10 +2,9 @@
 
 Regeringen ger Statens skolverk, Statens skolinspektion, Specialpedagogiska skolmyndigheten och Skolforskningsinstitutet uppdrag enligt nedan.
 
-
 ## Nationella målsättningar, delmål och indikatorer samt framgångsfaktorer för effektiv skolutveckling
 
-Skolverket ska föreslå nationella målsättningar för de skolformer för vilka det i dag inte finns nationella målsättningar och för fritidshemmet. Skolverket ska vid behov föreslå justeringar av befintliga nationella målsättningar (U2018/03428\). Skolverket ska vidare ta fram och utveckla delmål och indikatorer för uppföljning och analys av huvudmännens verksamhet och resultaten av denna verksamhet. Skolverket ska även identifiera, sammanställa och utveckla framgångsfaktorer för effektiv skolutveckling. Skolverket ska föra en dialog med Skolinspektionen, Specialpedagogiska skolmyndigheten (SPSM) och Skolforskningsinstitutet om arbetet med nationella målsättningar, delmål och indikatorer samt framgångsfaktorer för effektiv skolutveckling. Skolinspektionen, SPSM och Skolforskningsinstitutet ska bidra i detta arbete.
+Skolverket ska föreslå nationella målsättningar för de skolformer för vilka det i dag inte finns nationella målsättningar och för fritidshemmet. Skolverket ska vid behov föreslå justeringar av befintliga nationella målsättningar (U2018/03428). Skolverket ska vidare ta fram och utveckla delmål och indikatorer för uppföljning och analys av huvudmännens verksamhet och resultaten av denna verksamhet. Skolverket ska även identifiera, sammanställa och utveckla framgångsfaktorer för effektiv skolutveckling. Skolverket ska föra en dialog med Skolinspektionen, Specialpedagogiska skolmyndigheten (SPSM) och Skolforskningsinstitutet om arbetet med nationella målsättningar, delmål och indikatorer samt framgångsfaktorer för effektiv skolutveckling. Skolinspektionen, SPSM och Skolforskningsinstitutet ska bidra i detta arbete.
 
 ## Analysunderlag inför kvalitetsdialoger med huvudmän
 

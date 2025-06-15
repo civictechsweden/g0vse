@@ -6,4 +6,4 @@ Förslaget i denna promemoria innebär att yrkesprogrammens omfattning ska utök
 
 Dessutom föreslås att ett estetiskt ämne ska ingå i alla nationella program i gymnasieskolan. Ämnet ska omfatta 50 gymnasiepoäng. Gymnasiearbetet ska också omfatta 50 gymnasiepoäng, i stället för som i dag 100 gymnasiepoäng.
 
-Författningsändringarna föreslås träda i kraft den 1 januari 2019 och tillämpas första gången på utbildning som påbörjas efter den 30 juni 2019\. De förordningsförslag som avser ändrade hänvisningar till skollagens bilagor föreslås dock träda i kraft redan den 1 juli 2018\.
+Författningsändringarna föreslås träda i kraft den 1 januari 2019 och tillämpas första gången på utbildning som påbörjas efter den 30 juni 2019. De förordningsförslag som avser ändrade hänvisningar till skollagens bilagor föreslås dock träda i kraft redan den 1 juli 2018.

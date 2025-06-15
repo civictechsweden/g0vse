@@ -11,6 +11,6 @@ dess mål samt genomföra en bred dialog om hållbar utveckling
 med länsstyrelser och andra myndigheter, företrädare för
 samverkansorgan, landsting, kommuner, arbetsmarknadens
 parter, näringsliv, civilsamhället och forskarsamhället.
-Delegationen ska även främja informations\- och
+Delegationen ska även främja informations- och
 kunskapsutbyte mellan dessa aktörer och med relevanta
 internationella aktörer.

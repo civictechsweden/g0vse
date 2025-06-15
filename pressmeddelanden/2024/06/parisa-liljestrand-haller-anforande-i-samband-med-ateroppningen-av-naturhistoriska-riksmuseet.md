@@ -4,7 +4,7 @@
 
 ### Bakgrund:
 
-Den 16 augusti 2023 föll en 200\-300 kilo tung bit puts från taket i ett rum där samlingar förvaras och där besökare inte får vistas. Då takkonstruktionen är densamma i delar av de publika ytorna stängdes även vissa av museets elva utställningar, Cosmonova, butik och restaurang. Museet kunde dock fortsatt ha delvis öppet.
+Den 16 augusti 2023 föll en 200-300 kilo tung bit puts från taket i ett rum där samlingar förvaras och där besökare inte får vistas. Då takkonstruktionen är densamma i delar av de publika ytorna stängdes även vissa av museets elva utställningar, Cosmonova, butik och restaurang. Museet kunde dock fortsatt ha delvis öppet.
 
 Den 29 augusti 2023 beslutade Statens fastighetsverk, efter fortsatt utredning och undersökning, att även stänga entréhallen och trapphallen till följd av riskerna med putsen i innertaken. Då entréhallen utgör själva navet i huvudbyggnaden var det inte längre möjligt att ta emot besökare och överintendenten beslutade därför om att all publik verksamhet vid museet behövde stänga.
 

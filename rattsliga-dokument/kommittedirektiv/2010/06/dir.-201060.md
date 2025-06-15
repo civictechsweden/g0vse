@@ -7,4 +7,4 @@ Utredaren ska
 * identifiera nödvändiga förändringar och i förekommande fall föreslå anpassningar i lagstiftning och regelverk för att möjliggöra ett sammanhållet systemansvar under de krav på ägarmässig åtskillnad som anges i Europaparlamentets och rådets gasmarknadsdirektiv samt,
 * utreda om den svenska marknadsmodellen för naturgas behöver anpassas för att harmonisera med gällande regelverk inom EU och, om utredaren finner det lämpligt, lämna förslag till sådana förändringar.
 
-Uppdraget ska redovisas senast den 31 maj 2011\.
+Uppdraget ska redovisas senast den 31 maj 2011.

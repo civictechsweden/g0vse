@@ -17,4 +17,4 @@ Propositionen omfattar ändringar och förtydliganden i lagen om arbetslöshetsf
 
 * Alla känsliga personuppgifter som avses i personuppgiftslagen ska få behandlas i en databas, om de har lämnats i ett ärende.
 
-Lagändringarna föreslås träda i kraft den 1 september 2013\.
+Lagändringarna föreslås träda i kraft den 1 september 2013.

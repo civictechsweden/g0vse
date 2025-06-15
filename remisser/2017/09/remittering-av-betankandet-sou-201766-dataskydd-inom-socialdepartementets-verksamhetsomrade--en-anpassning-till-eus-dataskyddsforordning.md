@@ -6,6 +6,6 @@ Myndigheter under regeringen är skyldiga att svara på remissen. En myndighet a
 
 För andra remissinstanser innebär remissen en inbjudan att lämna synpunkter.
 
-Råd om hur remissyttranden utformas finns i Statsrådsberedningens promemoria Svara på remiss – hur och varför (SB PM 2003:2\). Den kan laddas ner från Regeringskansliets webbplats www.regeringen.se.
+Råd om hur remissyttranden utformas finns i Statsrådsberedningens promemoria Svara på remiss – hur och varför (SB PM 2003:2). Den kan laddas ner från Regeringskansliets webbplats www.regeringen.se.
 
-Remissvaren ska ha kommit in till Socialdepartementet senast den 6 november 2017\.
+Remissvaren ska ha kommit in till Socialdepartementet senast den 6 november 2017.

@@ -10,4 +10,4 @@ I utredningsarbetet bör arbetsgivarnas roll särskilt beaktas.
 
 Utredaren ska lämna fullständiga förslag till de författningsändringar som bedöms vara nödvändiga.
 
-Uppdraget ska redovisas senast den 16 april 2012\.
+Uppdraget ska redovisas senast den 16 april 2012.

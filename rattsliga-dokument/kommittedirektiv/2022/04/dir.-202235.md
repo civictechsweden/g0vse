@@ -6,4 +6,4 @@ Utredaren ska analysera konsekvenserna av en eventuell ratificering. Om utredare
 
 Utredaren ska även se över vissa andra frågor med anknytning till barns möjligheter att klaga och utkräva sina rättigheter enligt barnkonventionen.
 
-Uppdraget ska redovisas senast den 28 augusti 2023\.
+Uppdraget ska redovisas senast den 28 augusti 2023.

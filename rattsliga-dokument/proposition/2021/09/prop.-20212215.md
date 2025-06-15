@@ -11,4 +11,4 @@ Ett tillstånd som meddelas av regeringen föreslås få motsvarande rättskraft
 
 I propositionen lämnas även ett förslag på en möjlighet för regeringen att under vissa förutsättningar göra undantag från kraven på miljöbedömning. Det lämnas också förslag på en bestämmelse som innebär att regeringen vid prövningen får besluta om särskilda villkor för att tillgodose allmänna intressen.
 
-Lagändringarna föreslås träda i kraft den 15 oktober 2021 och upphöra att gälla vid utgången av 2021\.
+Lagändringarna föreslås träda i kraft den 15 oktober 2021 och upphöra att gälla vid utgången av 2021.

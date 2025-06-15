@@ -11,4 +11,4 @@ Utredaren föreslår bland annat följande:
 * Det ska krävas särskilt tillstånd för att ett offent­ligt biträde ska få sätta någon annan i sitt ställe.
 * Det ska införas kompetens­krav för tolkar och översättare i migrations­ärenden.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2025\.
+Lagändringarna föreslås träda i kraft den 1 januari 2025.

@@ -3,7 +3,7 @@
 I skrivelsen redovisar regeringen sin bedömning av de iakttagelser som
 Riksrevisionen har gjort i rapporten Räkenskapssammandraget som
 underlag för kommunjämförelser – är kostnadsmåtten tillförlitliga?
-(RiR 2018:7\).
+(RiR 2018:7).
 
 Regeringen instämmer i Riksrevisionens bedömning att kommunernas
 valfrihet att fördela gemensamma kostnader på olika organisatoriska

@@ -1,9 +1,8 @@
 # Uppdrag att genomföra en studie
 
-Regeringen ger Totalförsvarets forskningsinstitut (FOI) i uppdrag att genomföra en studie avseende dels utländskt ägande och investeringar inom utbildningsväsendet, det vill säga barn\- och ungdomsutbildning, kommunal vuxenutbildning (komvux), yrkeshögskola och högskoleutbildning, dels utländska investeringar inom folkbildningen.
+Regeringen ger Totalförsvarets forskningsinstitut (FOI) i uppdrag att genomföra en studie avseende dels utländskt ägande och investeringar inom utbildningsväsendet, det vill säga barn- och ungdomsutbildning, kommunal vuxenutbildning (komvux), yrkeshögskola och högskoleutbildning, dels utländska investeringar inom folkbildningen.
 
-
-Syftet med uppdraget är att belysa risker samt att bidra till ökad kunskap och en bättre bild av utländskt direkt och indirekt ägande inom det svenska utbildningsväsendet och utländska investeringar inom folkbildningen. Även risker förenade med donationer eller samarbeten inom utbildningsområdet ska belysas. Denna kunskap är en förutsättning för att säkerställa att samhällsviktig verksamhet och samhällets funktionalitet inte påverkas eller utnyttjas av utländska stater och aktörer med intressen i strid med demokratiska värderingar, principen om människors lika värde, grundläggande fri\- och rättigheter och rättsstatens principer.
+Syftet med uppdraget är att belysa risker samt att bidra till ökad kunskap och en bättre bild av utländskt direkt och indirekt ägande inom det svenska utbildningsväsendet och utländska investeringar inom folkbildningen. Även risker förenade med donationer eller samarbeten inom utbildningsområdet ska belysas. Denna kunskap är en förutsättning för att säkerställa att samhällsviktig verksamhet och samhällets funktionalitet inte påverkas eller utnyttjas av utländska stater och aktörer med intressen i strid med demokratiska värderingar, principen om människors lika värde, grundläggande fri- och rättigheter och rättsstatens principer.
 
 Myndigheten ska löpande hålla Regeringskansliet (Utbildningsdepartementet) informerat om arbetet med uppdraget. FOI ska senast den 28 april 2023 lämna en redovisning av uppdraget till Regeringskansliet (Utbildningsdepartementet).
 

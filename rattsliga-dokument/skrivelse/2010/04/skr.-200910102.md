@@ -6,7 +6,7 @@ Redovisningen av utvecklingen i den kommunala verksamheten omfattar i första ha
 
 Skrivelsen brukar utöver de obligatoriska verksamheterna innehålla en redovisning av något av de övriga områden där kommunerna bedriver verksamhet. I denna skrivelse ingår därför en redogörelse av kommunala arbetsmarknadsinsatser.
 
-Redovisningen avser i huvudsak förhållandena t.o.m. verksamhetsåret 2009, dock omfattar vissa delar endast uppgifter t.o.m. 2008\. Orsaken är att det ännu inte finns fullständiga uppgifter publicerade om kommunernas och landstingens ekonomi avseende 2009\.
+Redovisningen avser i huvudsak förhållandena t.o.m. verksamhetsåret 2009, dock omfattar vissa delar endast uppgifter t.o.m. 2008. Orsaken är att det ännu inte finns fullständiga uppgifter publicerade om kommunernas och landstingens ekonomi avseende 2009.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+------------------------------
 Riksdagen behandlade den 16 juni skrivelsen. Läs mer via länken i högerspalten.

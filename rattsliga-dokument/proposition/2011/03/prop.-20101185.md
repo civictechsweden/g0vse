@@ -1,6 +1,6 @@
 # Utökat konsumentskydd vid tidsdelat boende
 
-I propositionen föreslår regeringen en ny lag om konsumentskydd vid avtal om tidsdelat boende eller långfristig semesterprodukt. Förslaget syftar till att genomföra ett nytt EU\-direktiv om marknadsföring och ingående av sådana avtal. Den nya lagen ersätter den nuvarande lagen (1997:218\) om konsumentskydd vid avtal om tidsdelat boende.
+I propositionen föreslår regeringen en ny lag om konsumentskydd vid avtal om tidsdelat boende eller långfristig semesterprodukt. Förslaget syftar till att genomföra ett nytt EU-direktiv om marknadsföring och ingående av sådana avtal. Den nya lagen ersätter den nuvarande lagen (1997:218) om konsumentskydd vid avtal om tidsdelat boende.
 
 Med tidsdelat boende avses en rätt att periodvis och återkommande nyttja ett övernattningsboende, exempelvis i ett fritidshus eller på en semesteranläggning. Med långfristig semesterprodukt avses en rätt till boenderabatter eller liknande förmåner som en konsument betalar särskilt för att kunna utnyttja, till exempel under semesterresor.
 
@@ -14,4 +14,4 @@ Konsumenten ska ha en långtgående ångerrätt. Ångerfristen förlängs från 
 
 Lagen innehåller också regler om sanktioner vid överträdelser av dess föreskrifter. Konsumentverket ska utöva tillsyn över att lagen efterlevs.
 
-Den nya lagen, och de följdändringar som behövs med anledning av den, föreslås träda i kraft den 1 augusti 2011\.
+Den nya lagen, och de följdändringar som behövs med anledning av den, föreslås träda i kraft den 1 augusti 2011.

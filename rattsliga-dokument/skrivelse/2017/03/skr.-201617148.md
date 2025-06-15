@@ -2,7 +2,7 @@
 
 Riksrevisionen har granskat regeringens och Affärsverket svenska kraftnäts styrning mot en säker kraftöverföring till samhällsekonomiskt försvarbara kostnader.
 
-Fokus i granskningen är den finansiella och verksamhetsmässiga styrningen av Svenska kraftnät och utbyggnaden av stamnätet, mot bakgrund av omställningen mot mer förnybara energislag. Granskningen har redovisats i rapporten Förutsättningar för en säker kraftöverföring – Styrningen av Svenska kraftnät i genomförande av energiomställningen (RiR 2016:28\).
+Fokus i granskningen är den finansiella och verksamhetsmässiga styrningen av Svenska kraftnät och utbyggnaden av stamnätet, mot bakgrund av omställningen mot mer förnybara energislag. Granskningen har redovisats i rapporten Förutsättningar för en säker kraftöverföring – Styrningen av Svenska kraftnät i genomförande av energiomställningen (RiR 2016:28).
 
 Riksrevisionens samlade slutsats är att regeringens styrning av Svenska kraftnät behöver utvecklas och att styrelsens roll i investeringsbesluten delvis är oklar. Bristerna avser utformningen av finansieringsmodellen för Svenska kraftnät samt Svenska kraftnäts uppdrag, styrelsearbete och beslutsunderlag i form av bl.a. samhällsekonomiska analyser. Detta riskerar att inverka negativt på effektiviteten och i förlängningen kan bristerna bidra till högre kostnader för svenska elnätskunder.
 

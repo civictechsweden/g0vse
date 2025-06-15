@@ -9,4 +9,4 @@ Utredaren ska bland annat
 * ta ställning till om de processuella bestämmelser som reglerar förverkandeförfarandet liksom de bestämmelser som reglerar möjligheterna att säkra ett förverkande är ändamålsenligt utformade och lämna förslag till nödvändiga författningsändringar, och
 * utvärdera tillämpningen av bestämmelserna om penningbeslag och vid behov lämna förslag som utvidgar tillämpningsområdet eller gör bestämmelserna tydligare och effektivare.
 
-Uppdraget ska redovisas senast den 17 december 2021\.
+Uppdraget ska redovisas senast den 17 december 2021.

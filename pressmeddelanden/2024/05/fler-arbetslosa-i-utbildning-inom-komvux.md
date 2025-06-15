@@ -8,6 +8,6 @@ Det finns också stora utmaningar när det gäller Arbetsförmedlingens möjligh
 
 Arbetsförmedlingen har inte tillgång till den information som behövs för att göra nödvändiga kontroller inför och under studiernas gång. Därför remitterar regeringen ett förslag om förbättrat informationsutbyte mellan Arbetsförmedlingen och kommunerna.
 
-– Arbetsförmedlingen har de senaste åren ökat anvisningarna av arbetslösa till komvux, men antalet i utbildning har inte ökat lika mycket. Det är problematiskt att Arbetsförmedlingen inte har haft förutsättningar att kontrollera att de arbetslösa faktiskt sökt och deltar i utbildningen. Regeringen bedömer att det förslag som remitteras skulle innebära ett förbättrat informationsutbyte med bättre möjligheter för både stöd och kontroll, säger arbetsmarknads\- och integrationsminister Johan Pehrson.
+– Arbetsförmedlingen har de senaste åren ökat anvisningarna av arbetslösa till komvux, men antalet i utbildning har inte ökat lika mycket. Det är problematiskt att Arbetsförmedlingen inte har haft förutsättningar att kontrollera att de arbetslösa faktiskt sökt och deltar i utbildningen. Regeringen bedömer att det förslag som remitteras skulle innebära ett förbättrat informationsutbyte med bättre möjligheter för både stöd och kontroll, säger arbetsmarknads- och integrationsminister Johan Pehrson.
 
-Förslagen som nu remitteras föreslås träda i kraft den 1 december 2025\. Efter remitteringen kommer regeringen att bereda vidare ärendet i Regeringskansliet och ta ställning till genomförande.
+Förslagen som nu remitteras föreslås träda i kraft den 1 december 2025. Efter remitteringen kommer regeringen att bereda vidare ärendet i Regeringskansliet och ta ställning till genomförande.

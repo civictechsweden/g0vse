@@ -7,6 +7,6 @@ På plats hos Västsvenska Handelskammaren presenteras en nyhet på näringslivs
 **Tid:** 10:45
 **Plats:** Parkgatan 49, Göteborg. Pressträffen kommer även att gå att se i efterhand på regeringen.se.
 
-Anmälan till pressträffen görs via mail till energi\- och näringsministerns pressekreterare och Västsvenska Handelskammarens kommunikationschef, se presskontakt nedan.
+Anmälan till pressträffen görs via mail till energi- och näringsministerns pressekreterare och Västsvenska Handelskammarens kommunikationschef, se presskontakt nedan.
 
-Energi\- och näringsministern deltar även i invigningen av ST1s nya bioraffinaderi som kommer öka svenskproducerat biodrivmedel inte bara för vägtransporter, utan också för flyg då raffinaderiet kan producera biobränsle till flygtransporter. Bioraffinaderiet kommer huvudsakligen använda tallolja och frityrolja för att göra biobränslen och beräknas bespara slutanvändarna med 475 000 ton CO2\.
+Energi- och näringsministern deltar även i invigningen av ST1s nya bioraffinaderi som kommer öka svenskproducerat biodrivmedel inte bara för vägtransporter, utan också för flyg då raffinaderiet kan producera biobränsle till flygtransporter. Bioraffinaderiet kommer huvudsakligen använda tallolja och frityrolja för att göra biobränslen och beräknas bespara slutanvändarna med 475 000 ton CO2.

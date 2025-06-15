@@ -10,4 +10,4 @@ I propositionen föreslås bl.a.
 * särskilda rörelseregler för tjänstepensionsföretag,
 * att tjänstepensionsföretag ska offentliggöra sina principer för aktieägarengagemang samt delar av sina investeringsstrategier och överenskommelser med kapitalförvaltare.
 
-Lagändringarna föreslås träda i kraft den 15 december 2019, utom en bestämmelse om avgifter vid återköp och överföring av försäkring som föreslås träda i kraft den 1 januari 2020\.
+Lagändringarna föreslås träda i kraft den 15 december 2019, utom en bestämmelse om avgifter vid återköp och överföring av försäkring som föreslås träda i kraft den 1 januari 2020.

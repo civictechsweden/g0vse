@@ -6,4 +6,4 @@ Samtidigt tydliggörs enligt förslaget att skyddet för företagshemligheter in
 
 I lagrådsremissen föreslås även en skärpning i straffskalan för företagsspioneri. Förslagen är ett led i regeringens arbete för att skapa bättre förutsättningar för innovationer och kunskapsintensivt företagande. Ett tydligt och enhetligt skydd för företagshemligheter är viktigt för att främja en sund konkurrens på lika villkor.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2014\.
+Lagändringarna föreslås träda i kraft den 1 juli 2014.

@@ -11,6 +11,6 @@ ordning för att genomföra adoptionsutredningar.
 
 Regeringen föreslår även utökade möjligheter till automatiskt erkännande av utländska adoptionsbeslut. Även i övrigt föreslås modernare regler om adoption i internationella situationer.
 
-Den nya lagen och lagändringarna föreslås träda i kraft den 1 september 2018\.
+Den nya lagen och lagändringarna föreslås träda i kraft den 1 september 2018.
 
 [Pressmeddelande: Adoptionsreglerna moderniseras](/pressmeddelanden/2018/03/adoptionsreglerna-moderniseras/)

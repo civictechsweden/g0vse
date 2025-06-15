@@ -10,4 +10,4 @@ Utredaren får nu även i uppdrag att analysera och lämna förslag om hur
 * arbetsmarknadspolitiken i större utsträckning ska kunna samverka med relevanta aktörer på regional och nationell nivå i syfte att stärka kompetensförsörjningen, och
 * arbetsmarknadsutbildningen kan svara mot arbetsmarknadens behov samt i vilken form och av vilka aktörer arbetsmarknadsutbildningar ska tillhandahållas.
 
-Redovisning av dessa delar ska ske i slutredovisningen senast den 31 januari 2019, inklusive den analys av olika typer av externa leverantörer som enligt de ursprungliga direktiven skulle ha redovisats den 31 oktober 2017\.
+Redovisning av dessa delar ska ske i slutredovisningen senast den 31 januari 2019, inklusive den analys av olika typer av externa leverantörer som enligt de ursprungliga direktiven skulle ha redovisats den 31 oktober 2017.

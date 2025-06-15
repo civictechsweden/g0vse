@@ -8,4 +8,4 @@ I dag har regeringen fattat beslut om förordningar till lagen. Genom beslutet u
 
 I två bilagor till en av de nya förordningarna preciseras vidare lagens tillämpningsområde när det gäller framväxande teknologier och annan strategiskt skyddsvärd teknologi samt kritiska råvaror och metaller och mineral.
 
-Det nya regelverket träder i kraft den 1 december 2023\.
+Det nya regelverket träder i kraft den 1 december 2023.

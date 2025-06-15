@@ -6,4 +6,4 @@ Tillsynsmyndigheten föreslås få möjlighet att förelägga den utkontrakteran
 
 I syfte att förbättra tillsynsmyndigheternas kännedom om var säkerhetskänslig verksamhet bedrivs föreslås det också att en statlig myndighet som avser att överlåta sådan verksamhet ska anmäla åtgärden till någon av tillsynsmyndigheterna. Genom att skärpa kontrollen av utkontraktering och överlåtelse av säkerhetskänslig verksamhet förbättras skyddet för de mest skyddsvärda verksamheterna hos statliga myndigheter.
 
-Förslaget föreslås träda ikraft den 15 januari 2018\.
+Förslaget föreslås träda ikraft den 15 januari 2018.

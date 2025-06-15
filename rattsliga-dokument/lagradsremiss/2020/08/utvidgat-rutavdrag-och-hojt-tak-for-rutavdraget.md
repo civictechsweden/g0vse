@@ -7,4 +7,4 @@ De nya tjänsterna som föreslås är tvätt och vård av kläder och hemtextili
 I lagrådsremissen föreslås även att beslut om återbetalning av felaktigt
 utbetalda belopp avseende skattereduktion ska gälla omedelbart. Vidare föreslås att vissa av skatteförfarandelagens bestämmelser om anstånd ska vara tillämpliga på beslut om återbetalning.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2021\.
+Lagändringarna föreslås träda i kraft den 1 januari 2021.

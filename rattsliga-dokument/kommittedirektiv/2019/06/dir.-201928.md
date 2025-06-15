@@ -2,4 +2,4 @@
 
 Regeringen beslutar förlänga utredningstiden.
 
-Uppdraget ska nu istället slutredovisas senast den 30 augusti 2019\.
+Uppdraget ska nu istället slutredovisas senast den 30 augusti 2019.

@@ -1,15 +1,14 @@
 # EU:s förhandlingsmandat inför COP27 antaget
 
-När EU:s klimat\- och miljöministrar möttes i Luxemburg 24 oktober kom de överens om ett förhandlingsmandat inför FN:s klimatkonferens COP27\. Klimat\- och miljöminister Romina Pourmokhtari representerade Sverige vid mötet.
-
+När EU:s klimat- och miljöministrar möttes i Luxemburg 24 oktober kom de överens om ett förhandlingsmandat inför FN:s klimatkonferens COP27. Klimat- och miljöminister Romina Pourmokhtari representerade Sverige vid mötet.
 
 ## Förhandlingsmandat inför COP27 och COP15
 
 Vid miljörådsmötet antog ministrarna EU:s förhandlingsmandat inför FN:s klimattoppmöte COP27 genom rådsslutsatser.
 
-\- EU:s förhandlingsmandat inför COP27 sänder ett starkt budskap och signalerar att EU är redo att fortsätta att visa globalt ledarskap, både när det gäller ambitionsnivån och genomförandet, säger klimat\- och miljöminister Romina Pourmokhtari.
+- EU:s förhandlingsmandat inför COP27 sänder ett starkt budskap och signalerar att EU är redo att fortsätta att visa globalt ledarskap, både när det gäller ambitionsnivån och genomförandet, säger klimat- och miljöminister Romina Pourmokhtari.
 
-Den 27:e partskonferensen COP27 inom FN:s klimatkonvention (UNFCCC), som även utgör det fjärde partsmötet för Parisavtalet, äger rum i Sharm el\-Sheikh, Egypten i november.
+Den 27:e partskonferensen COP27 inom FN:s klimatkonvention (UNFCCC), som även utgör det fjärde partsmötet för Parisavtalet, äger rum i Sharm el-Sheikh, Egypten i november.
 
 Mötet blir en första uppföljning av den så kallade Glasgowpakten som antogs under COP26 och förutom utsläppsminskningar även kommer att fokusera på behovet av klimatanpassning, skador och förluster samt klimatfinansiering.
 
@@ -35,4 +34,4 @@ Diskussionen vid miljörådet fokuserade på hur förslaget kan bidra till den g
 
 Därutöver antog ministrarna en reviderad förordning om långlivade organiska föroreningar. Syftet med den reviderade förordningen är att ytterligare begränsa skadliga kemikalier i avfall från produkter som möbler, plast och elektronisk utrustning.
 
-Klimat\- och miljöminister Romina Pourmokhtari representerade Sverige vid mötet.
+Klimat- och miljöminister Romina Pourmokhtari representerade Sverige vid mötet.

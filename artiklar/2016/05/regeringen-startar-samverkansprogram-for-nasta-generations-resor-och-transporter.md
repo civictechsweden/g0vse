@@ -1,19 +1,18 @@
 # Regeringen startar samverkansprogram för nästa generations resor och transporter
 
-För att stärka samverkan mellan aktörer i innovationssystemet kommer regeringen den 1 juni presentera fem samverkansprogram. Den övergripande målsättningen med programmen är att gemensamt kraftsamla kring innovationsinsatser och förstärka Sveriges globala innovations\- och konkurrenskraft.
-
+För att stärka samverkan mellan aktörer i innovationssystemet kommer regeringen den 1 juni presentera fem samverkansprogram. Den övergripande målsättningen med programmen är att gemensamt kraftsamla kring innovationsinsatser och förstärka Sveriges globala innovations- och konkurrenskraft.
 
 Nationella innovationsrådet har identifierat tre samverkansområden som är centrala för att lösa samhälles framtida utmaningar:
 
 1. Digitalisering
-2. Miljö\- och klimatteknik
+2. Miljö- och klimatteknik
 3. Life science
 
 Regeringen vill stärka samverkan mellan aktörer i innovationssystemet och kommer därför den 1 juni presentera fem samverkansprogram som ska binda samman, kraftsamla och bygga vidare på de många goda samverkansinsatser som görs tillsammans med näringsliv, offentlig sektor, universitet, högskolor och institut.
 
 Ansatsen i samverkansprogrammen bygger på övertygelsen att framtidens samhälleliga möjligheter och utmaningar, rätt hanterade, innebär betydande möjligheter att stärka svensk konkurrenskraft och därmed skapa nya arbetstillfällen samt bidra till hälsa, välfärd och jämställdhet.
 
-Den övergripande målsättningen med samverkansprogrammen är att gemensamt kraftsamla kring innovationsinsatser och förstärka Sveriges globala innovations\- och konkurrenskraft. Samverkansprogrammen bygger på Sveriges och svenskt näringslivs komparativa fördelar samt områden som bedöms vara av stor betydelse för framtida tillväxt.
+Den övergripande målsättningen med samverkansprogrammen är att gemensamt kraftsamla kring innovationsinsatser och förstärka Sveriges globala innovations- och konkurrenskraft. Samverkansprogrammen bygger på Sveriges och svenskt näringslivs komparativa fördelar samt områden som bedöms vara av stor betydelse för framtida tillväxt.
 
 Det första samverkansprogrammet kommer heta "nästa generations resor och transporter".
 

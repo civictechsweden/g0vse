@@ -10,6 +10,6 @@ Uppdraget består i att
 
 Det övergripande syftet med utvärderingen är att dra lärdom av det inträffade för att stärka förmågan hos berörda aktörer att hantera en eventuell liknande situation. Det ingår dock inte i utredarens uppdrag att lämna förslag till åtgärder.
 
-Uppdraget ska redovisas senast den 28 februari 2017\.
+Uppdraget ska redovisas senast den 28 februari 2017.
 
 [Pressmeddelande: Utvärdering av hanteringen av flyktingsituationen 2015](/pressmeddelanden/2016/06/utvardering-av-hanteringen-av-flyktingsituationen-2015/)

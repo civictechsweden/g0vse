@@ -2,13 +2,13 @@
 
 Ukrainas behov är fortsatt stort och Ryssland pressar Ukraina på flera frontavsnitt för tillfället. Ryssland intensifierar sina luftangrepp mot både militära och civila mål. Regeringen bistår därför Ukraina med ytterligare ett rekordstort militärt stödpaket. Det svenska stödet bidrar till att stärka den samlade ukrainska militära förmågan.
 
-Sverige överlåter radarspanings\- och ledningsflygplan (ASC 890\) till Ukraina och därmed stärker Ukraina deras luftförsvarsförmåga. Sverige donerar hela det svenska beståndet av Pansarbandvagn 302 (Pbv 302\) för att stötta uppbyggnaden av nya ukrainska armébrigader. Sverige donerar också artilleriammunition, samt tillför resurser för underhåll av tidigare donerad materiel.
+Sverige överlåter radarspanings- och ledningsflygplan (ASC 890) till Ukraina och därmed stärker Ukraina deras luftförsvarsförmåga. Sverige donerar hela det svenska beståndet av Pansarbandvagn 302 (Pbv 302) för att stötta uppbyggnaden av nya ukrainska armébrigader. Sverige donerar också artilleriammunition, samt tillför resurser för underhåll av tidigare donerad materiel.
 
 Sedan Rysslands brutala anfallskrig som inleddes i februari 2022 har Sverige har bidragit med 43,5 miljarder kronor i militärt stöd.
 
 ## Luftförsvar
 
-I stödpaketet donerar Sverige flygplan av typen ASC 890 med radarspanings\- och ledningsförmåga. ASC 890 ger Ukraina en helt ny förmåga till luftburen radarspaning\- och stridsledning mot mål i luften och till sjöss. Ukrainas förmåga att identifiera och bekämpa mål på långa avstånd stärks. Med flygplanen följer en helhetslösning inklusive utbildning, teknisk utrustning och metodstöd för radarspaning och flygstridsledning.
+I stödpaketet donerar Sverige flygplan av typen ASC 890 med radarspanings- och ledningsförmåga. ASC 890 ger Ukraina en helt ny förmåga till luftburen radarspaning- och stridsledning mot mål i luften och till sjöss. Ukrainas förmåga att identifiera och bekämpa mål på långa avstånd stärks. Med flygplanen följer en helhetslösning inklusive utbildning, teknisk utrustning och metodstöd för radarspaning och flygstridsledning.
 
 Överlåtelsen medför en tillfällig nedgång i den svenska försvarsförmågan och detta hanteras via en anskaffning av ytterligare ett flygplan av typen S 106, Global Eye, samt tidigareläggning av redan lagd order om två nya Global Eye.
 

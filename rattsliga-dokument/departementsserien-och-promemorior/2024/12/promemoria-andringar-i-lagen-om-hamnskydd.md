@@ -1,4 +1,4 @@
-# Promemoria Ändringar i lagen om hamnskydd
+# Ändringar i lagen om hamnskydd
 
 I promemorian föreslås ändringar i lagen (2006:1209) om hamnskydd.
 

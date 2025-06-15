@@ -10,6 +10,6 @@ I lagrådsremissen föreslår regeringen att det ska införas
 * en möjlighet att omhänderta pass och andra identitets­handlingar som påträffas vid en inre utlännings­kontroll, och
 * ett tydligare lagstöd för att under vissa förut­sätt­ningar ta med en utlänning för utredning av hans eller hennes rätt att vistas i landet.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.
 
 Lagrådsremissen bygger på en överens­kommelse mellan Sverige­demokraterna, Moderaterna, Krist­demokraterna och Liberalerna.

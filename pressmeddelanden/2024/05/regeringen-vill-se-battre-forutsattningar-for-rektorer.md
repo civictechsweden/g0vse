@@ -10,4 +10,4 @@ Många rektorer upplever stress, där administrativa arbetsuppgifter är en bety
 
 Utredaren ska därför även lämna förslag för att minska omsättningen på rektorer och för att skickliga rektorer ska söka sig till och stanna kvar längre på förskolor och skolor med stora utmaningar.
 
-I uppdraget ingår att göra en bred översyn som omfattar hela skolväsendet – förskola, fritidshem, förskoleklass, grundskola, anpassad grundskola, specialskola, sameskola, gymnasieskola, anpassad gymnasieskola och kommunal vuxenutbildning. Uppdraget ska redovisas senast den 12 juni 2025\. Som särskild utredare tillsätts rektor Maria Hahne.
+I uppdraget ingår att göra en bred översyn som omfattar hela skolväsendet – förskola, fritidshem, förskoleklass, grundskola, anpassad grundskola, specialskola, sameskola, gymnasieskola, anpassad gymnasieskola och kommunal vuxenutbildning. Uppdraget ska redovisas senast den 12 juni 2025. Som särskild utredare tillsätts rektor Maria Hahne.

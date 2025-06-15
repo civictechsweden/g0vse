@@ -2,8 +2,7 @@
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Brett deltagande i högskoleutbildning.
 
-
-Sista dag att svara på remissen är den 24 oktober 2017\.
+Sista dag att svara på remissen är den 24 oktober 2017.
 
 ## Remissinstanser
 
@@ -11,11 +10,11 @@ Sista dag att svara på remissen är den 24 oktober 2017\.
 2. Statens skolverk
 3. Statens skolinspektion
 4. Specialpedagogiska skolmyndigheten
-5. Myndigheten för ungdoms\- och civilsamhällesfrågor
+5. Myndigheten för ungdoms- och civilsamhällesfrågor
 6. Skolforskningsinstitutet
 7. Myndigheten för yrkeshögskolan
 8. Universitetskanslersämbetet
-9. Universitets\- och högskolerådet
+9. Universitets- och högskolerådet
 10. Uppsala universitet
 11. Lunds universitet
 12. Göteborgs universitet
@@ -32,7 +31,7 @@ Sista dag att svara på remissen är den 24 oktober 2017\.
 23. Sveriges lantbruksuniversitet
 24. Blekinge tekniska högskola
 25. Försvarshögskolan
-26. Gymnastik\- och idrottshögskolan
+26. Gymnastik- och idrottshögskolan
 27. Högskolan i Borås
 28. Högskolan Dalarna
 29. Högskolan i Gävle
@@ -50,7 +49,7 @@ Sista dag att svara på remissen är den 24 oktober 2017\.
 41. Centrala studiestödsnämnden
 42. Regelrådet
 43. Diskrimineringsombudsmannen
-44. Institutet för arbetsmarknads\- och utbildningspolitisk utvärdering
+44. Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
 45. Valideringsdelegationen
 46. Beckmans skola AB
 47. Chalmers tekniska högskola AB
@@ -86,6 +85,6 @@ Sista dag att svara på remissen är den 24 oktober 2017\.
 77. Sveriges elevråd – SVEA
 78. Sveriges förenade studentkårer
 79. Sveriges Ungdomsorganisationer
-80. Sveriges universitets\- och högskoleförbund
+80. Sveriges universitets- och högskoleförbund
 81. Sveriges Vägledarförening
 82. Tjänstemännens Centralorganisation

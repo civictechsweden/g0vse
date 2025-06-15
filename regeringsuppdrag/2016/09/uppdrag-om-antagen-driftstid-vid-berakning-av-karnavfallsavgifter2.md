@@ -4,4 +4,4 @@ Regeringen uppdrar åt strålsäkerhetsmyndigheten att, utifrån de nya föruts�
 
 Uppdraget ska genomföras i nära dialog med Riksgäldskontoret.
 
-Uppdraget ska redovisas till Regeringskansliet (Miljö\- och energidepartementet) senast den 14 oktober 2016\.
+Uppdraget ska redovisas till Regeringskansliet (Miljö- och energidepartementet) senast den 14 oktober 2016.

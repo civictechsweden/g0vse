@@ -8,4 +8,4 @@ I betänkandet Stärkt konstitutionell beredskap föreslår kommittén en ny bes
 
 Kommittén föreslår även att regeringen ska få nya möjligheter att besluta om föreskrifter i allvarliga fredstida kriser. Det är riksdagen som ska kunna ge regeringen de särskilda befogenheterna, som syftar till att regler ska kunna komma på plats mycket snabbt i akuta lägen. Beslutet kräver att minst tre fjärdedelar av de röstande enas om det. Riksdagen ska när som helst kunna besluta att regeringen inte längre ska ha de särskilda befogenheterna att meddela föreskrifter. Kommittén föreslår att de nya normgivningsreglerna införs i ett nytt kapitel i regeringsformen om allvarliga fredstida krissituationer.
 
-De nya reglerna föreslås träda i kraft den 1 januari 2027\.
+De nya reglerna föreslås träda i kraft den 1 januari 2027.

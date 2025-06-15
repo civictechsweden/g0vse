@@ -7,13 +7,13 @@ leveranssäkerheten och robustheten, skapa långsiktiga planeringsförutsättnin
 Utredaren ska bland annat
 
 * föreslå på vilket sätt den finansiella elmarknaden, långsiktiga
-energiköpsavtal, kapacitetsmekanismer och stödtjänstmarknader kan
-utvecklas,
+  energiköpsavtal, kapacitetsmekanismer och stödtjänstmarknader kan
+  utvecklas,
 * föreslå hur termerna systemansvarig för överföringssystem och
-systemansvarig för distributionssystem kan införas och tydliggöras,
+  systemansvarig för distributionssystem kan införas och tydliggöras,
 * föreslå hur marknadsaktören leverantör av balanstjänst kan regleras,
 * föreslå hur systemet med anvisade elavtal på slutkundsmarknaden kan
-avvecklas, och
+  avvecklas, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska slutredovisas senast den 25 april 2025\.
+Uppdraget ska slutredovisas senast den 25 april 2025.

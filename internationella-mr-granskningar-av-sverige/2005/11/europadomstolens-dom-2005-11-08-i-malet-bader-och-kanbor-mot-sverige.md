@@ -2,7 +2,6 @@
 
 Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.
 
-
 ### Sammanfattning av domen
 
 Bakgrunden till målet var ett besluta att avvisa klagandena, en familj av kurdisk etnicitet från Syrien, till deras hemland. Inför Europadomstolen gjorde klagandena gällande att mannen i familjen i Syrien i sin utevaro dömts till döden för medhjälp till mord och att en verkställighet av avvisningsbeslutet därför skulle utgöra en kränkning av artikel 2 och 3 i Europakonventionen (rätten till liv respektive förbudet mot tortyr och omänsklig eller förnedrande behandling). Sedan skriftväxlingen avslutats, men innan Europadomstolen meddelat dom i målet, beviljades klagandena permanent uppehållstillstånd i Sverige.

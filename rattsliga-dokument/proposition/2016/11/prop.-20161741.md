@@ -6,6 +6,6 @@ Regeringen föreslår nu att det införs ett förbud mot maskering vid idrottsar
 
 Förbudet ska inte gälla den som täcker ansiktet av religiösa skäl eller den som har skäl att täcka ansiktet i tjänsten eller för idrottsarrangemangets genomförande. Förbudet ska inte heller gälla om det med hänsyn till väderförhållanden, hälsoskäl eller övriga omständigheter är att anse som befogat att täcka ansiktet.
 
-Lagändringen föreslås träda i kraft den 1 mars 2017\.
+Lagändringen föreslås träda i kraft den 1 mars 2017.
 
 [Pressmeddelande: Regeringen förbjuder maskering vid idrottsarrangemang](/pressmeddelanden/2016/11/regeringen-forbjuder-maskering-vid-idrottsarrangemang/)

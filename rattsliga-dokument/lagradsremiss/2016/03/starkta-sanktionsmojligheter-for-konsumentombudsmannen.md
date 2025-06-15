@@ -6,4 +6,4 @@ I lagrådsremissen föreslås att de förbud och ålägganden som KO får beslut
 
 I syfte att göra sanktionen marknadsstörningsavgift mera förutsebar och enklare för domstolarna att tillämpa föreslås vidare att det uttryckligen av lagtexten ska framgå vilka omständigheter som särskilt ska beaktas vid prövningen av om avgiften ska dömas ut. För att möjliggöra en nyanserad bedömning med hänsyn till det aktuella företagets storlek föreslås att de nuvarande beloppsgränserna (5 000 – 5 miljoner kr) höjs. Marknadsstörningsavgiften ska framöver fastställas till lägst 10 000 kr och högst 10 miljoner kr.
 
-Mot bakgrund av att de nya patent\- och marknadsdomstolarna inrättas den 1 september 2016 föreslås de nu aktuella lagändringarna träda i kraft den 1 oktober 2016\.
+Mot bakgrund av att de nya patent- och marknadsdomstolarna inrättas den 1 september 2016 föreslås de nu aktuella lagändringarna träda i kraft den 1 oktober 2016.

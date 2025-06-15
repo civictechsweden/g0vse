@@ -8,4 +8,4 @@ Lagrådsremissen innehåller dessutom ett förslag om att en bolagsmans ansvar f
 
 I lagrådsremissen behandlas även frågor om riktade emissioner, om aktiebrev och aktieägarregister samt om förvaltningsrevision och ansvarsfrihet.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2014\.
+Lagändringarna föreslås träda i kraft den 1 juli 2014.

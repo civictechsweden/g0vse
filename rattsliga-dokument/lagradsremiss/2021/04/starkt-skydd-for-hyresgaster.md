@@ -10,4 +10,4 @@ För att underlätta för hyresgäster som får en väsentligt höjd hyra efter 
 
 Det föreslås vidare när det gäller privatpersoners uthyrning av ägda bostäder och bostadsrätter att hyresvärdens rätt att utan skäl säga upp ett tidsbegränsat hyresavtal i förtid tas bort. Regeln om att hyran vid privat­uthyrning bestäms efter hyresvärdens kostnader kompletteras med en möjlighet att bestämma hyran efter lägenhetens bruksvärde.
 
-De nya reglerna föreslås träda i kraft den 1 januari 2022\.
+De nya reglerna föreslås träda i kraft den 1 januari 2022.

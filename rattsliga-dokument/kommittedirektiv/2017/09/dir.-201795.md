@@ -12,7 +12,7 @@ bör finnas vid serviceorganisationens lokala kontor. Utredaren
 ska också presentera en plan för när de lokala kontoren ska tillhandahålla service som avser Försäkringskassans, Pensionsmyndighetens och Skatteverkets verksamhet samt föreslå hur
 serviceorganisationen inledningsvis ska vara organiserad,
 dimensionerad och finansierad. Denna del av uppdraget ska
-redovisas senast den 15 december 2017\.
+redovisas senast den 15 december 2017.
 
 Utredaren ska även presentera en plan för när tillhandahållande
 av service som avser Arbetsförmedlingen, Migrationsverket
@@ -24,4 +24,4 @@ serviceorganisationen. Vidare ska utredaren föreslå nödvändiga
 regleringsbrev. Utredaren ska även lämna förslag till ytterligare
 platser där serviceorganisationen ska tillhandahålla service.
 
-Uppdraget ska slutredovisas senast den 31 maj 2018\.
+Uppdraget ska slutredovisas senast den 31 maj 2018.

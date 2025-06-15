@@ -9,5 +9,5 @@ särskilda värdefulla dataset och arrangemangen för offentliggörande och
 vidareutnyttjande av dessa ska vissa i förteckning angivna värdefulla dataset
 tillgängliggöras avgiftsfritt.
 
-Regeringen beslutar att, i enlighet med 4 kap. 6 § lagen (2022:818\) om den
+Regeringen beslutar att, i enlighet med 4 kap. 6 § lagen (2022:818) om den
 offentliga sektorns tillgängliggörande av data, medge undantag från kravet på avgiftsfritt tillgängliggörande om en tidsbegränsad period om högst två år från den dag då genomförandeförordningen träder i kraft för vissa myndigheter och dataset.

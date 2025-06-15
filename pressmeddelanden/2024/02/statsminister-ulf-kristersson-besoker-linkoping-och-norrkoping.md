@@ -8,22 +8,22 @@ Därefter besöker statsministern socialkontoret i Norrköping som arbetar med f
 
 ### Besök Polisen och Socialkontoret i Linköping
 
-Tid: 10\.30\-11\.15
+Tid: 10.30-11.15
 
 ### Tid för media
 
-Tid: 11\.15 – 11\.30
+Tid: 11.15 – 11.30
 Plats: Adress anges vid anmälan
 
 ### Besök Föräldraskap i Sverige, Norrköping
 
-Kl. 14\.45 – 15\.25
+Kl. 14.45 – 15.25
 
 ### Tid för media
 
-15\.25 – 15\.45
+15.25 – 15.45
 Plats: adress anges vid anmälan
 
 ## Praktisk information
 
-Obligatorisk föranmälan senast kl. 09\.00 den 21 februari till Jonathan Svensson, se presskontakt. Ange namn, redaktion och i vilken funktion du vill delta (reporter eller fotograf). Skicka också med presslegitimation. Deltagande sker i mån av plats.
+Obligatorisk föranmälan senast kl. 09.00 den 21 februari till Jonathan Svensson, se presskontakt. Ange namn, redaktion och i vilken funktion du vill delta (reporter eller fotograf). Skicka också med presslegitimation. Deltagande sker i mån av plats.

@@ -4,4 +4,4 @@ Regeringen uppdrar åt Statens jordbruksverk (Jordbruksverket) och Naturvårdsve
 
 Under uppdragets genomförande ska synpunkter inhämtas från Statens veterinärmedicinska anstalt (SVA), det vetenskapliga rådet för djurskyddsfrågor vid Sveriges lantbruksuniversitet och länsstyrelsen. Synpunkter ska även inhämtas från berörda intresseorganisationer och andra berörda aktörer.
 
-Uppdraget ska samordnas av Jordbruksverket och redovisas till Regeringskansliet (Näringsdepartementet) senast den 30 december 2020\.
+Uppdraget ska samordnas av Jordbruksverket och redovisas till Regeringskansliet (Näringsdepartementet) senast den 30 december 2020.

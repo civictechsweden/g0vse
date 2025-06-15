@@ -12,4 +12,4 @@ I propositionen föreslår regeringen följande:
 * Möjligheten att minska återbetalningsbeloppet ska begränsas genom ett krav på särskilda skäl.
 * Om den dömdes överklagande till en högre rätt förfaller på grund av att han eller hon uteblivit från ett sammanträde ska återbetalningsskyldigheten omfatta hela kostnaden i den högre rätten, utan någon begränsning.
 
-Lagändringarna föreslås träda i kraft den 1 mars 2024\.
+Lagändringarna föreslås träda i kraft den 1 mars 2024.

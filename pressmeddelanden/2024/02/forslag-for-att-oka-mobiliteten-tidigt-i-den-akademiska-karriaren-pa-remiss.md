@@ -8,4 +8,4 @@ Dessutom föreslås en ändring i högskoleförordningen som innebär att tidsgr
 
 – Biträdande lektor utgör ett viktigt steg i en tidig akademisk karriär. Vi vet att vägen dit kan se olika ut inom olika ämnesområden. Alla lärosäten behöver ha goda förutsättningar för att rekrytera de bästa talangerna och på så sätt gynna excellens och internationalisering i svensk högskola, säger Mats Persson.
 
-Förändringarna gällande tidsgränsen mellan doktorsexamen och ansökan till anställning som biträdande lektor föreslås träda i kraft den 1 juli 2024, och förändringarna gällande förenade anställningar föreslås träda i kraft den 1 juli 2025\.
+Förändringarna gällande tidsgränsen mellan doktorsexamen och ansökan till anställning som biträdande lektor föreslås träda i kraft den 1 juli 2024, och förändringarna gällande förenade anställningar föreslås träda i kraft den 1 juli 2025.

@@ -11,4 +11,4 @@ Utredaren ska bland annat:
 * sammanställa den kunskap som finns, och som kan användas inom skolan, om främlingsfientlighet och liknande former av intolerans och om hur dessa fenomen kan bemötas med beaktande av de krav på vetenskaplighet som ställs på undervisningen i skolan, och
 * utreda behovet av ett samlat ansvar för det offentligt understödda arbetet mot främlingsfientlighet och liknande former av intolerans och, om det finns behov av det, lämna förslag till hur arbetet kan organiseras.
 
-Uppdraget ska slutredovisas senast den 26 oktober 2012\.
+Uppdraget ska slutredovisas senast den 26 oktober 2012.

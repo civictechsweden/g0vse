@@ -1,5 +1,7 @@
 # En förebyggande socialtjänstlag
 
+![](/contentassets/679d6aa7333f4f9ba1aa66868154350d/2024-25-89-del-1-fram-baksida_sida_001.jpg?width=150&quality=85)
+
 Regeringen föreslår att en ny socialtjänstlag ska ersätta den nuvarande. Förslagen ska skapa en långsiktigt hållbar, mer förebyggande och kunskapsbaserad socialtjänst.
 
 Regeringen föreslår bland annat att:

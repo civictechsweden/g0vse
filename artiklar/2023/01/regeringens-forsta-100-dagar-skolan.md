@@ -2,7 +2,6 @@
 
 Skolan är ett prioriterat område för regeringen. Området är också ett av de samarbetsprojekt som regeringspartierna har med samarbetspartiet Sverigedemokraterna för att lösa Sveriges viktigaste samhällsproblem. Till grund för samarbetet ligger Tidöavtalet. När de första 100 dagarna nu har gått är en hel del åtgärder inom området gjorda, och fler är på gång.
 
-
 På en pressträff den 20 januari presenterade regeringen en nyhet:
 
 ## Nationellt professionsprogram för rektorer, lärare och förskollärare
@@ -13,12 +12,12 @@ Regeringen vill stärka professionen hos rektorer, lärare och förskollärare, 
 
 Regeringen har genomfört flera åtgärder:
 
-* Satsat 600 miljoner kronor för att öka tillgången till speciallärare, specialpedagogiska insatser och särskilda undervisningsgrupper under 2023\.
+* Satsat 600 miljoner kronor för att öka tillgången till speciallärare, specialpedagogiska insatser och särskilda undervisningsgrupper under 2023.
 * Satsat 685 miljoner kronor för att under 2023 för att öka tillgången till läromedel av hög kvalitet.
 * Satsat 100 miljoner kronor 2023 för att kunna erbjuda lovskola även till yngre elever än tidigare.
 * Satsar på en ny kortare kompletterande pedagogisk utbildning (KPU) för akademiker i syfte att få fler akademiker att söka till läraryrket.
 * Stärkt kvaliteten i den verksamhetsförlagda utbildningen i lärarutbildningarna genom övningsskolor.
-* Ökat anslaget till Läslyftet med 5 miljoner kronor 2023\.
+* Ökat anslaget till Läslyftet med 5 miljoner kronor 2023.
 
 ## På gång inom samarbetsprojekt Skola
 

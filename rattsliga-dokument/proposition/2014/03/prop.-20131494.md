@@ -13,4 +13,4 @@ För att öka återbetalningsgraden hos de gärningsmän som är skadeståndssky
 
 Det föreslås också att Brottsoffermyndigheten som huvudregel ska kvitta en utbetalning av brottsskadeersättning mot en regressfordran för tidigare utbetalad ersättning.
 
-Den nya lagen föreslås träda i kraft den 1 juli 2014\.
+Den nya lagen föreslås träda i kraft den 1 juli 2014.

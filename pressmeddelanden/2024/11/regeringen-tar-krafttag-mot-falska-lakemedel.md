@@ -12,4 +12,4 @@ En annan viktig del av uppdraget är att genomföra en informationskampanj som r
 
 Under uppdragets genomförande ska Läkemedelsverket samarbeta med Tullverket, Polismyndigheten, Skatteverket, Konsumentverket, Sveriges Kommuner och Regioner, läkemedelsindustrin, apoteksbranschen samt andra relevanta myndigheter och aktörer.
 
-Läkemedelsverket ska redovisa uppdraget till Socialdepartementet senast den 31 januari 2026\.
+Läkemedelsverket ska redovisa uppdraget till Socialdepartementet senast den 31 januari 2026.

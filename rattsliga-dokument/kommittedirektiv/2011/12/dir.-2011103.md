@@ -7,4 +7,4 @@ Utredaren ska bl.a.
 * utreda om och i så fall föreslå hur organisationer som bedriver sådan verksamhet kan få uppdrag och organisationsstöd inom ramen för den frivilliga försvarsverksamheten,
 * analysera konsekvenserna för övriga regelsystem om innebörden i frivillig försvarsverksamhet utvecklas, och lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 1 november 2012\.
+Uppdraget ska redovisas senast den 1 november 2012.

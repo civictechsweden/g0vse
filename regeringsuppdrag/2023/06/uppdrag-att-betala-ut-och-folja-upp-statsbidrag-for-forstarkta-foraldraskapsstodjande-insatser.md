@@ -1,7 +1,6 @@
 # Uppdrag att betala ut och följa upp statsbidrag för förstärkta föräldraskapsstödjande insatser
 
-Regeringen uppdrar åt Myndigheten för familjerätt och föräldraskapsstöd (MFoF) att betala ut och följa upp en satsning på statsbidrag till kommuner och regioner för förstärkta föräldraskapsstödjande insatser 2023\.
-
+Regeringen uppdrar åt Myndigheten för familjerätt och föräldraskapsstöd (MFoF) att betala ut och följa upp en satsning på statsbidrag till kommuner och regioner för förstärkta föräldraskapsstödjande insatser 2023.
 
 Medlen ska bidra till ökad och jämlik tillgång till föräldraskapsstöd i hela landet och bidra till att förebygga kriminalitet för barn och unga. MFoF ska informera kommunerna och regionerna om möjligheten att rekvirera medel för de insatser som statsbidraget avser.
 

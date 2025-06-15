@@ -21,4 +21,4 @@ lämnas förslag på förändringar i skattereglerna med anledning av det nya av
 
 De lagändringar som rör förslaget om vissa utbetalningar från en
 arbetskooperativ ekonomisk förening föreslås träda i kraft den 1 januari
-2019\. Övriga lagändringar träder i kraft samtidigt
+2019. Övriga lagändringar träder i kraft samtidigt

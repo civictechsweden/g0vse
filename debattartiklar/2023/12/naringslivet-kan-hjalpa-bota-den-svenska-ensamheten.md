@@ -1,7 +1,6 @@
 # Näringslivet kan hjälpa bota den svenska ensamheten
 
-Socialminister Jakob Forssmed, debattartikel, Dagens Industri, den 12 december 2023\.
-
+Socialminister Jakob Forssmed, debattartikel, Dagens Industri, den 12 december 2023.
 
 När vi på ett strukturellt sätt bygger bort mänskliga kontakter tunnas samhällskittet ut. Näringslivet är en underutnyttjad kraft för att minska ensamheten i Sverige, skriver socialminister Jakob Forssmed (KD).
 
@@ -18,7 +17,6 @@ Nu ändrar vi på det. I arbetet med att bryta ensamheten är jag övertygad om 
 En sektor vars möjligheter att bidra till att lösa samhällsproblem som alltför sällan diskuteras i detta sammanhang är näringslivet. Jag är övertygad om att företag har en viktig roll att spela i arbetet att förebygga och motverka ofrivillig ensamhet och stärka gemenskap.
 
 Företagen finns där människor är. De är arbetsplatser för många och utgör betydelsefulla kontaktytor för oss alla – och i synnerhet för människor som lider av ensamhet. Varje dag träffar till exempel de som arbetar i handel, kollektivtrafik och taxinäring en strid ström av människor. Genom att öppna för möjlighet till kontakt, gemenskap och samtal kan dessa verksamheter vara en viktig kugge för att minska avståndet mellan människor. Många av vårt samhälles viktiga mötesplatser skapas av företag.
-
 
 Vi kan samtidigt inte blunda för att den samhällsutveckling som pågått de senaste decennierna tyvärr riskerar att öka ensamheten. I dag kan en hel dag passera där vi gör våra vardagssysslor utan att möta en enda mänsklig kontakt. Vi handlar på nätet, och när vi väl handlar i en affär uppmuntras vi att använda självutcheckningskassor. Bankärenden görs digitalt. Vi kan nyttja köptjänster där man kan välja att få varan lämnad utanför sin dörr, just för att undvika kontakt. Hos frisören kan vi välja att få en tyst klippning. Det är smidigt och effektivt – men baksidan kan vara att såväl isolering som känslan av ensamhet växer. För det är inte bara långvarig isolering och frånvaron av djupa relationer som det finns skäl att uppmärksamma, utan också de små interaktionerna i vardagen – de små mänskliga mötena – som både kan förgylla tillvaron och ha rent hälsobringande effekter.
 

@@ -11,4 +11,4 @@ Utredaren ska bland annat:
 * identifiera och föreslå långsiktigt hållbara kriterier och bedömningsgrunder för uppdragstagare och deras ersättningsrätt i arbetslöshetsförsäkringen,
 * föreslå lämplig form av reglering samt utarbeta nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 7 juni 2011\.
+Uppdraget ska redovisas senast den 7 juni 2011.

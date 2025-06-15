@@ -6,4 +6,4 @@ Straffskalan ska vara fängelse i högst fyra år. Om brottet är grovt ska stra
 tid, lägst två och högst arton år, eller på livstid. Det föreslås också att försök till det nya brottet ska kriminaliseras. Regeringen föreslår vidare att det ska vara straffbart att finansiera deltagande i en terroristorganisation, att offentligt uppmana och rekrytera till brottet samt att resa utomlands i
 avsikt att begå brottet.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2023\.
+Lagändringarna föreslås träda i kraft den 1 juni 2023.

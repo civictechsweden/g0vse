@@ -8,8 +8,8 @@ I lagrådsremissen lämnas även förslag till en ny lag om rapportering av beta
 
 Företagen ska årligen rapportera betalningar som överstiger 860 000 kronor. Ett moderföretag ska som huvudregel lämna en sammanställd rapport som omfattar hela koncernen. Om ett företag redan lämnar en rapport enligt likvärdiga tredjelandsbestämmelser, ska det vara undantaget från rapporteringskravet.
 
-Förslagen bygger på ett EU\-direktiv.
+Förslagen bygger på ett EU-direktiv.
 
-Den nya lagstiftningen föreslås träda i kraft den 1 januari 2016\.
+Den nya lagstiftningen föreslås träda i kraft den 1 januari 2016.
 
 [Pressmeddelande: Enklare redovisningsregler för små företag](/pressmeddelanden/2015/05/enklare-redovisningsregler-for-sma-foretag/)

@@ -6,15 +6,15 @@ ska också lämna förslag på hur ett system för nationell prioritering av for
 kan utformas. Syftet är att upprätthålla en forskningsinfrastruktur
 av hög kvalitet som ska vara ett effektivt stöd för att möta
 samhällsutmaningarna, när FN:s globala mål för hållbar utveckling (Agenda
-2030\) ska genomföras och i förverkligandet av målet att Sverige ska vara ett
-av världens främsta forsknings\- och innovationsländer.
+2030) ska genomföras och i förverkligandet av målet att Sverige ska vara ett
+av världens främsta forsknings- och innovationsländer.
 
 Utredaren ska bland annat
 
 * föreslå en eller flera finansieringsformer för nationell forskningsinfrastruktur,
 * föreslå en eller flera modeller för organisation och styrning av nationella forskningsinfrastrukturer vid universitet och högskolor,
 * föreslå ett samordnat system på nationell nivå för prioritering av
-infrastruktursatsningar, och
-* föreslå en nationell organisation av e\-infrastruktur för forskning.
+  infrastruktursatsningar, och
+* föreslå en nationell organisation av e-infrastruktur för forskning.
 
-Uppdraget ska redovisas senast den 31 maj 2021\.
+Uppdraget ska redovisas senast den 31 maj 2021.

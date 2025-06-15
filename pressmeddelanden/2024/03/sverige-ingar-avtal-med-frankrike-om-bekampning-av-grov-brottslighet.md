@@ -1,6 +1,6 @@
 # Sverige ingår avtal med Frankrike om bekämpning av grov brottslighet
 
-Sverige och Frankrike har sedan länge ett nära samarbete mot organiserad brottslighet. Vid sidan av gemensamma insatser inom Europol och Interpol har Sverige och Frankrike ett stort bilateralt samarbete. Ett exempel är den information som Polismyndigheten fick från fransk polis om Encrochat\-kommunikation. Genom bland annat detta har arbetet mot gängkriminalitet kunnat stärkas. Det särskilda samarbetsavtal som nu undertecknas förstärker och fördjupar än mer ansträngningarna på båda sidor.
+Sverige och Frankrike har sedan länge ett nära samarbete mot organiserad brottslighet. Vid sidan av gemensamma insatser inom Europol och Interpol har Sverige och Frankrike ett stort bilateralt samarbete. Ett exempel är den information som Polismyndigheten fick från fransk polis om Encrochat-kommunikation. Genom bland annat detta har arbetet mot gängkriminalitet kunnat stärkas. Det särskilda samarbetsavtal som nu undertecknas förstärker och fördjupar än mer ansträngningarna på båda sidor.
 
 – Tillsammans med Frankrike flyttar vi nu fram positionerna mot den organiserade brottsligheten. Det nya avtalet kommer att stärka vår gemensamma förmåga att förebygga, upptäcka och utreda allvarlig brottslighet, som exempelvis narkotikasmuggling och vapenhandel, genom utökat informationsutbyte och samarbete, säger justitieminister Gunnar Strömmer.
 

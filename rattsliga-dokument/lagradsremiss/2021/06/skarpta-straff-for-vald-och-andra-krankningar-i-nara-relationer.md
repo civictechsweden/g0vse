@@ -12,4 +12,4 @@ Det behövs också ytterligare åtgärder för att förebygga och bekämpa våld
 * Ett utvidgat kontaktförbud ska kunna förenas med villkor om elektronisk övervakning som en förstahandsåtgärd.
 * Det så kallade väsentlighetskravet för kontaktförbud avseende en gemensam bostad och för särskilt utvidgat kontaktförbud tas bort.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2022\.
+Lagändringarna föreslås träda i kraft den 1 januari 2022.

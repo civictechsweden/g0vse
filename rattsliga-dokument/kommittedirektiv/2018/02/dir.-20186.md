@@ -14,4 +14,4 @@ Utredaren ska:
 * vid behov lämna nödvändiga författningsförslag, samt
 * göra en första analys av nätnivåerna.
 
-Uppdraget ska redovisas senast den 10 juni 2019\.
+Uppdraget ska redovisas senast den 10 juni 2019.

@@ -20,8 +20,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655"
         ]
     },
@@ -40,7 +38,7 @@
         "id": "Diarienummer: S2025/00394",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Historisk satsning ska korta väntetiderna till BUP",
+                "name": "Pressmeddelande: Historisk satsning ska korta väntetiderna till BUP\n",
                 "url": "/pressmeddelanden/2025/02/historisk-satsning-ska-korta-vantetiderna-till-bup/"
             }
         ],
@@ -51,8 +49,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -71,7 +67,7 @@
         "id": "Diarienummer:  S2025/00104",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen och SKR fortsätter satsningen på cancervård",
+                "name": "Pressmeddelande: Regeringen och SKR fortsätter satsningen på cancervård\n",
                 "url": "/pressmeddelanden/2025/01/regeringen-och-skr-fortsatter-satsningen-pa-cancervard/"
             }
         ],
@@ -82,8 +78,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -102,7 +96,7 @@
         "id": "Diarienummer: S2025/00159",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Miljardsatsning på psykisk hälsa och suicidprevention",
+                "name": "Pressmeddelande: Miljardsatsning på psykisk hälsa och suicidprevention\n",
                 "url": "/pressmeddelanden/2025/02/miljardsatsning-pa-psykisk-halsa-och-suicidprevention/"
             }
         ],
@@ -113,8 +107,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -133,7 +125,7 @@
         "id": "Diarienummer:  S2025/00018",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: SKR och regeringen samarbetar för fler HVB-platser",
+                "name": "Pressmeddelande: SKR och regeringen samarbetar för fler HVB-platser\n",
                 "url": "/pressmeddelanden/2025/01/skr-och-regeringen-samarbetar-for-fler-och-ratt-placeringar/"
             }
         ],
@@ -144,8 +136,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1268"
         ]
     },
@@ -164,7 +154,7 @@
         "id": "Diarienummer: S2024/02239",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Överenskommelse mellan regeringen och SKR om en långsiktigt hållbar socialtjänst",
+                "name": "Pressmeddelande: Överenskommelse mellan regeringen och SKR om en långsiktigt hållbar socialtjänst\n",
                 "url": "/pressmeddelanden/2024/12/overenskommelse-mellan-regeringen-och-skr-om-en-langsiktigt-hallbar-socialtjanst/"
             }
         ],
@@ -175,8 +165,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1268"
         ]
     },
@@ -195,7 +183,7 @@
         "id": "Diarienummer:  S2024/02235",
         "shortcuts": [
             {
-                "name": "Överenkommelse",
+                "name": "Överenkommelse\n",
                 "url": "/overenskommelser-och-avtal/2024/12/overenskommelse-test/"
             }
         ],
@@ -206,34 +194,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
-            "1233"
-        ]
-    },
-    {
-        "title": "En personcentrerad, tillgänglig och jämlik mödrahälsovård och förlossningsvård ",
-        "url": "/overenskommelser-och-avtal/2024/12/en-personcentrerad-tillganglig-och-jamlik-modrahalsovard-och-forlossningsvard/",
-        "published": "2024-12-23",
-        "updated": null,
-        "types": [
-            "1344"
-        ],
-        "senders": [
-            "1292"
-        ],
-        "summary": "Efter överläggningar har staten och Sveriges Kommuner och Regioner (SKR) slutit en ändringsöverenskommelse om En personcentrerad, tillgänglig och jämlik mödrahälsovård och förlossningsvård samt förstärkta insatser för kvinnors hälsa och inriktning för vård och behandling av sällsynta hälsotillstånd 2025.",
-        "id": "Diarienummer:  S2024/00007",
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "En personcentrerad, tillgänglig och jämlik mödrahälsovård och förlossningsvård samt förstärkta insatser för kvinnors hälsa (pdf 453 kB)",
-                "url": "/contentassets/62a979c1f9854deba91f20698bdde307/en-personcentrerad-tillganglig-och-jamlik-modrahalsovard-och-forlossningsvard-samt-forstarkta-insatser-for-kvinnors-halsa.pdf"
-            }
-        ],
-        "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -258,8 +218,30 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
+            "1233"
+        ]
+    },
+    {
+        "title": "En personcentrerad, tillgänglig och jämlik mödrahälsovård och förlossningsvård ",
+        "url": "/overenskommelser-och-avtal/2024/12/en-personcentrerad-tillganglig-och-jamlik-modrahalsovard-och-forlossningsvard/",
+        "published": "2024-12-23",
+        "updated": null,
+        "types": [
+            "1344"
+        ],
+        "senders": [
+            "1292"
+        ],
+        "summary": "Efter överläggningar har staten och Sveriges Kommuner och Regioner (SKR) slutit en ändringsöverenskommelse om En personcentrerad, tillgänglig och jämlik mödrahälsovård och förlossningsvård samt förstärkta insatser för kvinnors hälsa och inriktning för vård och behandling av sällsynta hälsotillstånd 2025.",
+        "id": "Diarienummer:  S2024/00007",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "En personcentrerad, tillgänglig och jämlik mödrahälsovård och förlossningsvård samt förstärkta insatser för kvinnors hälsa (pdf 453 kB)",
+                "url": "/contentassets/62a979c1f9854deba91f20698bdde307/en-personcentrerad-tillganglig-och-jamlik-modrahalsovard-och-forlossningsvard-samt-forstarkta-insatser-for-kvinnors-halsa.pdf"
+            }
+        ],
+        "categories": [
             "1233"
         ]
     },
@@ -278,7 +260,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Överenskommelse mellan regeringen och SKR om en långsiktigt hållbar socialtjänst",
+                "name": "Pressmeddelande: Överenskommelse mellan regeringen och SKR om en långsiktigt hållbar socialtjänst\n",
                 "url": "/pressmeddelanden/2024/12/overenskommelse-mellan-regeringen-och-skr-om-en-langsiktigt-hallbar-socialtjanst/"
             }
         ],
@@ -289,8 +271,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1268"
         ]
     },
@@ -309,7 +289,7 @@
         "id": "Diarienummer: Dnr: S2024/02033",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen och SKR i ny överenskommelse för att stärka hälso- och sjukvårdens beredskap",
+                "name": "Pressmeddelande: Regeringen och SKR i ny överenskommelse för att stärka hälso- och sjukvårdens beredskap\n",
                 "url": "/pressmeddelanden/2024/11/regeringen-och-skr-i-ny-overenskommelse-for-att-starka-halso--och-sjukvardens-beredskap/"
             }
         ],
@@ -320,8 +300,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -340,23 +318,21 @@
         "id": "Diarienummer: S2023/03336",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen och SKR utökar canceröverenskommelse för att stärka patientsäkerheten",
+                "name": "Pressmeddelande: Regeringen och SKR utökar canceröverenskommelse för att stärka patientsäkerheten\n",
                 "url": "/pressmeddelanden/2024/11/regeringen-och-skr-utokar-canceroverenskommelse-for-att-starka-patientsakerheten/"
             },
             {
-                "name": "Överenskommelse mellan staten och Sveriges Kommuner och Regioner om En jämlik och effektiv cancervård med kortare väntetider 2024",
+                "name": "Överenskommelse mellan staten och Sveriges Kommuner och Regioner om En jämlik och effektiv cancervård med kortare väntetider 2024\n",
                 "url": "/overenskommelser-och-avtal/2023/12/overenskommelse-mellan-staten-och-sveriges-kommuner-och-regioner-om-en-jamlik-och-effektiv-cancervard-med-kortare-vantetider-2024/"
             }
         ],
         "attachments": [
             {
-                "name": "Jämlik och effektiv cancervård med kortare väntetider 2024 – Tilläggsöverenskommelse mellan staten och Sveriges Kommuner och Regioner (pdf 308 kB)",
-                "url": "/contentassets/4a4bf6442d8642a1adf5657c0f95c377/bemyndigande-att-underteckna-overenskommelse-mellan-staten-och-centralforbundet-for-alkohol--och-narkotikaupplysning-for-juli-december-2024.pdf"
+                "name": "Jämlik och effektiv cancervård med kortare väntetider 2024 - Tilläggsöverenskommelse mellan staten och Sveriges Kommuner och Regioner (pdf 433 kB)",
+                "url": "/contentassets/4a4bf6442d8642a1adf5657c0f95c377/jamlik-och-effektiv-cancervard-med-kortare-vantetider-2024.pdf"
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -375,7 +351,7 @@
         "id": "Diarienummer: S2024/01658",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen och SKR stärker dialogen om hälsodata",
+                "name": "Pressmeddelande: Regeringen och SKR stärker dialogen om hälsodata\n",
                 "url": "/pressmeddelanden/2024/09/regeringen-och-skr-starker-dialogen-om-halsodata/"
             }
         ],
@@ -386,8 +362,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "1268"
         ]
@@ -413,8 +387,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655"
         ]
     },
@@ -433,7 +405,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen och SKR överens om inriktning för kunskapsstyrningen i hälso- och sjukvården",
+                "name": "Pressmeddelande: Regeringen och SKR överens om inriktning för kunskapsstyrningen i hälso- och sjukvården\n",
                 "url": "/pressmeddelanden/2024/03/regeringen-och-skr-overens-om-inriktning-for-kunskapsstyrningen-i-halso--och-sjukvarden/"
             }
         ],
@@ -444,8 +416,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -467,9 +437,7 @@
                 "url": "/contentassets/7c56d1941eee4ed0bef6a27555674e45/overenskommelse-mellan-staten-och-centralforbundet-for-alkohol--och-narkotikaupplysning-for-januarijuni-2024.pdf"
             }
         ],
-        "categories": [
-            "1344"
-        ]
+        "categories": []
     },
     {
         "title": "Omställning till en långsiktigt hållbar socialtjänst – 2024",
@@ -486,7 +454,7 @@
         "id": "Diarienummer: S2024/00192",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Överenskommelse mellan regeringen och Sveriges Kommuner och Regioner banar väg för ny socialtjänstlag",
+                "name": "Pressmeddelande: Överenskommelse mellan regeringen och Sveriges Kommuner och Regioner banar väg för ny socialtjänstlag\n",
                 "url": "/pressmeddelanden/2024/02/overenskommelse-mellan-regeringen-och-sveriges-kommuner-och-regioner-banar-vag-for-ny-socialtjanstlag/"
             }
         ],
@@ -497,8 +465,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1268"
         ]
     },
@@ -517,7 +483,7 @@
         "id": "Diarienummer: S2023/03333",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Bättre möjlighet att stärka sjukvården genom tidiga besked om statsbidrag",
+                "name": "Pressmeddelande: Bättre möjlighet att stärka sjukvården genom tidiga besked om statsbidrag\n",
                 "url": "/pressmeddelanden/2023/12/battre-mojlighet-att-starka-sjukvarden-genom-tidiga-besked-om-statsbidrag/"
             }
         ],
@@ -528,8 +494,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -548,7 +512,7 @@
         "id": "Diarienummer: S2023/03331",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Bättre möjlighet att stärka sjukvården genom tidiga besked om statsbidrag",
+                "name": "Pressmeddelande: Bättre möjlighet att stärka sjukvården genom tidiga besked om statsbidrag\n",
                 "url": "/pressmeddelanden/2023/12/battre-mojlighet-att-starka-sjukvarden-genom-tidiga-besked-om-statsbidrag/"
             }
         ],
@@ -559,8 +523,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -579,11 +541,11 @@
         "id": "Diarienummer: S2023/02740",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Bättre möjlighet att stärka sjukvården genom tidiga besked om statsbidrag",
+                "name": "Pressmeddelande: Bättre möjlighet att stärka sjukvården genom tidiga besked om statsbidrag\n",
                 "url": "/pressmeddelanden/2023/12/battre-mojlighet-att-starka-sjukvarden-genom-tidiga-besked-om-statsbidrag/"
             },
             {
-                "name": "Tilläggsöverenskommelse mellan staten och Sveriges Kommuner och Regioner om En jämlik och effektiv cancervård med kortare väntetider 2024",
+                "name": "Tilläggsöverenskommelse mellan staten och Sveriges Kommuner och Regioner om En jämlik och effektiv cancervård med kortare väntetider 2024\n",
                 "url": "/overenskommelser-och-avtal/2024/11/tillaggsoverenskommelse-mellan-staten-och-sveriges-kommuner-och-regioner-om-en-jamlik-och-effektiv-cancervard-med-kortare-vantetider-2024/"
             }
         ],
@@ -594,8 +556,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -620,8 +580,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -640,7 +598,7 @@
         "id": "Diarienummer: S2023/03334",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Bättre möjlighet att stärka sjukvården genom tidiga besked om statsbidrag",
+                "name": "Pressmeddelande: Bättre möjlighet att stärka sjukvården genom tidiga besked om statsbidrag\n",
                 "url": "/pressmeddelanden/2023/12/battre-mojlighet-att-starka-sjukvarden-genom-tidiga-besked-om-statsbidrag/"
             }
         ],
@@ -651,8 +609,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -671,7 +627,7 @@
         "id": "Diarienummer: Dnr: S2023/03357 ",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Förstärkt satsning på barn och ungas psykiska hälsa i överenskommelsen mellan staten och SKR om psykisk hälsa och suicidprevention 2024",
+                "name": "Pressmeddelande: Förstärkt satsning på barn och ungas psykiska hälsa i överenskommelsen mellan staten och SKR om psykisk hälsa och suicidprevention 2024\n",
                 "url": "/pressmeddelanden/2023/12/forstarkt-satsning-pa-barn-och-ungas-psykiska-halsa-i-overenskommelsen-mellan-staten-och-skr-om-psykisk-halsa-och-suicidprevention-2024/"
             }
         ],
@@ -682,8 +638,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655",
             "2747",
             "1233"
@@ -704,7 +658,7 @@
         "id": "Diarienummer: S2023/03335",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Bättre möjlighet att stärka sjukvården genom tidiga besked om statsbidrag",
+                "name": "Pressmeddelande: Bättre möjlighet att stärka sjukvården genom tidiga besked om statsbidrag\n",
                 "url": "/pressmeddelanden/2023/12/battre-mojlighet-att-starka-sjukvarden-genom-tidiga-besked-om-statsbidrag/"
             }
         ],
@@ -715,8 +669,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -741,8 +693,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "1013"
         ]
@@ -769,9 +719,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1296",
-            "1292",
             "2655",
             "1233"
         ]
@@ -789,7 +736,7 @@
         "id": "Diarienummer: S2023/02112",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Förslag om skyldighet att lagerhålla läkemedel ska utredas ytterligare",
+                "name": "Pressmeddelande: Förslag om skyldighet att lagerhålla läkemedel ska utredas ytterligare\n",
                 "url": "/pressmeddelanden/2023/06/forslag-om-skyldighet-att-lagerhalla-lakemedel-ska-utredas-ytterligare/"
             }
         ],
@@ -799,38 +746,7 @@
                 "url": "/contentassets/d95722c8149546c7819fe8f2ec79dc02/tillaggsoverenskommelse-om-forsorjningsberedskap-for-lakemedel.pdf"
             }
         ],
-        "categories": [
-            "1344"
-        ]
-    },
-    {
-        "title": "Avsiktsförklaring (Letter of Intent) om ett strategiskt bilateralt partnerskap mellan Sverige och Storbritannien",
-        "url": "/overenskommelser-och-avtal/2023/04/avsiktsforklaring-letter-of-intent-om-ett-strategiskt-bilateralt-partnerskap-mellan-sverige-och-storbritannien/",
-        "published": "2023-04-05",
-        "updated": null,
-        "types": [
-            "1344"
-        ],
-        "senders": [
-            "1286"
-        ],
-        "summary": "Försvarsminister Pål Jonson och den brittiska försvarsministern Ben Wallace har den 29 mars undertecknat en avsiktsförklaring (Letter of Intent) om ett strategiskt bilateralt partnerskap mellan Sverige och Storbritannien till stöd för Ukraina.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Letter of lntent mellan Storbritannien och Sverige (pdf 118 kB)",
-                "url": "/contentassets/e28a9709a9e44f4e8870d4d1e7dfab91/letter-of-lntent-mellan-storbritannien-och-sverige.pdf"
-            }
-        ],
-        "categories": [
-            "1344",
-            "1286",
-            "2247",
-            "2688",
-            "2695",
-            "1177"
-        ]
+        "categories": []
     },
     {
         "title": "Öppen förskola för att öka utrikes födda kvinnors inträde på arbetsmarknaden - Överenskommelse mellan staten och SKR",
@@ -845,7 +761,12 @@
         ],
         "summary": "Regeringens övergripande syfte med att ingå överenskommelsen med SKR är att stärka utrikes födda kvinnors etablering på arbetsmarknaden med fokus på föräldrar med små barn. Inom ramen för överenskommelsen genomför SKR ett riktat processtöd till ett urval kommuner och lokala aktörer samt sprider erfarenheterna så att andra kommuner också kan ta initiativ i framtiden.",
         "id": "Diarienummer: A2023/00122",
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen och SKR i gemensam satsning för att få fler utrikes födda kvinnor i arbete\n",
+                "url": "/pressmeddelanden/2023/03/regeringen-och-skr-i-gemensam-satsning-for-att-fa-fler-utrikes-fodda-kvinnor-i-arbete/"
+            }
+        ],
         "attachments": [
             {
                 "name": "Öppen förskola för att öka utrikes födda kvinnors inträde på arbetsmarknaden - Överenskommelse mellan staten och SKR (pdf 4 MB)",
@@ -853,8 +774,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1284",
             "1213",
             "1239",
             "2708",
@@ -882,8 +801,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "2693",
             "2688"
@@ -904,7 +821,7 @@
         "id": "Diarienummer: S2023/00371",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: 1,6 miljarder kronor till insatser för förlossningsvård och kvinnors hälsa",
+                "name": "Pressmeddelande: 1,6 miljarder kronor till insatser för förlossningsvård och kvinnors hälsa\n",
                 "url": "/pressmeddelanden/2023/01/16-miljarder-kronor-till-insatser-for-forlossningsvard-och-kvinnors-halsa-/"
             }
         ],
@@ -915,8 +832,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "2693",
             "2688"
@@ -937,7 +852,7 @@
         "id": "Diarienummer: S2023/00374",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen ökar medlen till regionerna för hälso- och sjukvårdens arbete med civilt försvar",
+                "name": "Pressmeddelande: Regeringen ökar medlen till regionerna för hälso- och sjukvårdens arbete med civilt försvar\n",
                 "url": "/pressmeddelanden/2023/01/regeringen-okar-medlen-till-regionerna-for-halso--och-sjukvardens-arbete-med-civilt-forsvar/"
             }
         ],
@@ -948,8 +863,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -974,8 +887,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -994,7 +905,7 @@
         "id": "Diarienummer: S2023/00372",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Över 6 miljarder kronor 2023 till omställningen för en god och nära vård",
+                "name": "Pressmeddelande: Över 6 miljarder kronor 2023 till omställningen för en god och nära vård\n",
                 "url": "/pressmeddelanden/2023/01/over-6-miljarder-kronor-2023-till-omstallningen-for-en-god-och-nara-vard/"
             }
         ],
@@ -1005,8 +916,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "2693",
             "2688"
@@ -1033,8 +942,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1053,7 +960,7 @@
         "id": "Diarienummer: S2022/04839",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen och SKR överens om förutsättningarna för arbetet med psykisk hälsa och suicidprevention 2023",
+                "name": "Pressmeddelande: Regeringen och SKR överens om förutsättningarna för arbetet med psykisk hälsa och suicidprevention 2023\n",
                 "url": "/pressmeddelanden/2022/12/regeringen-och-skr-overens-om-forutsattningarna-for-arbetet-med-psykisk-halsa-och-suicidprevention-2023/"
             }
         ],
@@ -1064,8 +971,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655",
             "2747",
             "2708"
@@ -1086,7 +991,7 @@
         "id": "Diarienummer: S2022/04845",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Miljonbelopp till regionerna för kortare väntetider i cancervården",
+                "name": "Pressmeddelande: Miljonbelopp till regionerna för kortare väntetider i cancervården\n",
                 "url": "/pressmeddelanden/2022/12/miljonbelopp-till-regionerna-for-kortare-vantetider-i-cancervarden/"
             }
         ],
@@ -1097,8 +1002,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "2693",
             "2688"
@@ -1125,8 +1028,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "2693",
             "2688"
@@ -1147,7 +1048,7 @@
         "id": "Diarienummer: S2022/04840",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: 500 miljoner kronor till vaccinering mot covid-19",
+                "name": "Pressmeddelande: 500 miljoner kronor till vaccinering mot covid-19\n",
                 "url": "/pressmeddelanden/2022/12/500-miljoner-kronor-till-vaccinering-mot-covid-19/"
             }
         ],
@@ -1158,8 +1059,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "2464"
         ]
@@ -1185,8 +1084,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1211,8 +1108,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1237,8 +1132,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1263,8 +1156,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1289,8 +1180,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1315,8 +1204,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1341,8 +1228,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1268",
             "2656"
         ]
@@ -1368,8 +1253,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1394,8 +1277,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655",
             "1233"
         ]
@@ -1421,8 +1302,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655",
             "1233"
         ]
@@ -1448,8 +1327,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1474,8 +1351,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1500,8 +1375,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655",
             "2747",
             "1233"
@@ -1528,8 +1401,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "2464"
         ]
@@ -1555,8 +1426,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "2464"
         ]
@@ -1582,8 +1451,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "2464"
         ]
@@ -1609,8 +1476,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1635,8 +1500,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "2464"
         ]
@@ -1662,8 +1525,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "2464"
         ]
@@ -1689,8 +1550,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1287",
             "2248",
             "1241",
             "1013",
@@ -1718,8 +1577,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1744,8 +1601,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1770,8 +1625,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1796,8 +1649,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1822,8 +1673,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1848,8 +1697,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1874,8 +1721,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1900,8 +1745,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -1926,8 +1769,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1268"
         ]
     },
@@ -1952,8 +1793,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "2464"
         ]
@@ -1979,8 +1818,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -2005,8 +1842,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1285",
             "1267"
         ]
     },
@@ -2031,8 +1866,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1294",
             "1276",
             "1238"
         ]
@@ -2058,8 +1891,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "2464"
         ]
@@ -2085,8 +1916,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "2464"
         ]
@@ -2112,8 +1941,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1268"
         ]
     },
@@ -2138,8 +1965,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -2164,8 +1989,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655",
             "2747",
             "1233"
@@ -2192,8 +2015,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -2218,8 +2039,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655",
             "1233"
         ]
@@ -2245,8 +2064,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655",
             "1233"
         ]
@@ -2272,8 +2089,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -2298,8 +2113,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655",
             "1233"
         ]
@@ -2325,8 +2138,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1269"
         ]
     },
@@ -2351,8 +2162,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -2377,8 +2186,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -2403,8 +2210,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -2429,8 +2234,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655",
             "1233"
         ]
@@ -2456,8 +2259,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655",
             "2747",
             "1233"
@@ -2484,8 +2285,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -2511,9 +2310,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1296",
-            "1292",
             "2655",
             "1233"
         ]
@@ -2540,9 +2336,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1296",
-            "1292",
             "2655",
             "1233"
         ]
@@ -2565,9 +2358,7 @@
                 "url": "/contentassets/c61741fcb09a40eb9f6f6adc7dd9c56f/bemyndigande-underteckna-overenskommelse-om-standardiserade-vardforlopp.pdf"
             }
         ],
-        "categories": [
-            "1344"
-        ]
+        "categories": []
     },
     {
         "title": "En kvalitetssäker och effektiv sjukskrivnings- och rehabiliteringsprocess - Överenskommelse mellan staten och Sveriges Kommuner och Landsting 2019",
@@ -2590,8 +2381,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2092",
             "1233",
             "1269"
@@ -2618,8 +2407,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1269"
         ]
     },
@@ -2638,15 +2425,15 @@
         "id": "Diarienummer: S2018/01950/FS",
         "shortcuts": [
             {
-                "name": "Godkännande av en tilläggsöverenskommelse om ökad tillgänglighet och jämlikhet i förlossningsvården och förstärkta insatser för kvinnors hälsa",
+                "name": "Godkännande av en tilläggsöverenskommelse om ökad tillgänglighet och jämlikhet i förlossningsvården och förstärkta insatser för kvinnors hälsa\n",
                 "url": "/overenskommelser-och-avtal/2017/06/godkannande-av-en-tillaggsoverenskommelse-om-okad-tillganglighet-och-jamlikhet-i-forlossningsvarden-och-forstarkta-insatser-for-kvinnors-halsa/"
             },
             {
-                "name": "Ökad tillgänglighet och jämlikhet i förlossningsvården och förstärkta insatser för kvinnors hälsa",
+                "name": "Ökad tillgänglighet och jämlikhet i förlossningsvården och förstärkta insatser för kvinnors hälsa\n",
                 "url": "/overenskommelser-och-avtal/2017/01/overenskommelse-ang-okad-tillganglighet-och-jamlikhet-i-forlossningsvarden-och-forstarkta-insatser-for-kvinnors-halsa-2017-2019/"
             },
             {
-                "name": "Överenskommelse om en förbättrad förlossningsvård och insatser för kvinnors hälsa",
+                "name": "Överenskommelse om en förbättrad förlossningsvård och insatser för kvinnors hälsa\n",
                 "url": "/overenskommelser-och-avtal/2015/12/overenskommelse-om-en-forbattrad-forlossningsvard-och-insatser-for-kvinnors-halsa/"
             }
         ],
@@ -2657,8 +2444,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1239",
             "1233"
         ]
@@ -2688,8 +2473,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1288",
             "1218"
         ]
     },
@@ -2714,8 +2497,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -2740,8 +2521,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655",
             "1233"
         ]
@@ -2767,8 +2546,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -2793,8 +2570,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1269"
         ]
     },
@@ -2819,8 +2594,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -2845,8 +2618,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -2875,8 +2646,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1288",
             "1219"
         ]
     },
@@ -2901,8 +2670,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1239",
             "1233"
         ]
@@ -2928,8 +2695,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -2954,8 +2719,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1238",
             "1233"
         ]
@@ -2981,8 +2744,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1239",
             "1233"
         ]
@@ -3002,7 +2763,7 @@
         "id": "Diarienummer: S2017/00322/JÄM",
         "shortcuts": [
             {
-                "name": "Överenskommelse mellan staten och SKL ska stärka jämställdhetsarbetet med fokus på män (2015-2016)",
+                "name": "Överenskommelse mellan staten och SKL ska stärka jämställdhetsarbetet med fokus på män (2015-2016)\n",
                 "url": "/overenskommelser-och-avtal/2015/10/overenskommelse-mellan-staten-och-skl-om-att-starka-jamstalldhetsarbetets-inriktning-mot-man-pojkar-och-maskulinitetsfragor/"
             }
         ],
@@ -3013,8 +2774,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1219",
             "1239",
             "2092",
@@ -3042,8 +2801,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -3068,8 +2825,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1239",
             "1233"
         ]
@@ -3095,8 +2850,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655",
             "1233"
         ]
@@ -3122,8 +2875,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -3148,8 +2899,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "1269"
         ]
@@ -3175,8 +2924,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -3201,8 +2948,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "1269"
         ]
@@ -3228,8 +2973,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -3254,8 +2997,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655",
             "1233",
             "1268",
@@ -3283,8 +3024,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1268",
             "1155"
         ]
@@ -3310,8 +3049,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1268",
             "1039"
         ]
@@ -3337,8 +3074,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -3363,8 +3098,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1213",
             "1269"
         ]
@@ -3390,8 +3123,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1213",
             "1233",
             "1269"
@@ -3418,8 +3149,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233",
             "1269"
         ]
@@ -3445,8 +3174,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -3471,8 +3198,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -3497,8 +3222,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1239",
             "1233"
         ]
@@ -3524,8 +3247,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1269"
         ]
     },
@@ -3550,8 +3271,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1269"
         ]
     },
@@ -3580,8 +3299,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1239"
         ]
     },
@@ -3606,8 +3323,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1269"
         ]
     },
@@ -3627,8 +3342,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1344",
-            "1293",
             "1213",
             "2096",
             "1249",
@@ -3636,32 +3349,6 @@
             "1279",
             "1012",
             "1063"
-        ]
-    },
-    {
-        "title": "Gemensamt uttalande om fördjupat försvarssamarbete mellan Finland och Sverige",
-        "url": "/overenskommelser-och-avtal/2015/05/gemensamt-uttalande-om-fordjupat-forsvarssamarbete-mellan-finland-och-sverige/",
-        "published": "2015-05-26",
-        "updated": null,
-        "types": [
-            "1344"
-        ],
-        "senders": [
-            "1286"
-        ],
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Joint Statement regarding deepened defence cooperation between Finland and Sweden 2015-05-22 (pdf 700 kB)",
-                "url": "/globalassets/regeringen/dokument/forsvarsdepartementet/2015-05-22-joint-statement---signed.pdf"
-            }
-        ],
-        "categories": [
-            "1344",
-            "1286",
-            "2247",
-            "1062"
         ]
     },
     {
@@ -3683,10 +3370,7 @@
                 "url": "/contentassets/2142513bc292447c811b2391344dde5b/dagmaroverenskommelse-2007/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Dagmaröverenskommelse 2008",
@@ -3707,10 +3391,7 @@
                 "url": "/contentassets/bb2cccc86a19418fa1998f12b45705d5/dagmaroverenskommelse-2008/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse mellan regeringen och Sveriges Kommuner och Landsting om fortsatta insatser för att förbättra patienters tillgän",
@@ -3731,10 +3412,7 @@
                 "url": "/contentassets/816edf631d3648ada639de2febf02d9f/overenskommelse-mellan-regeringen-och-sveriges-kommuner-och-landsting-om-fortsatta-insatser-for-att-forbattra-patienters-tillganglighet-till-halso--och-sjukvard/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse regeringen och Sveriges Kommuner och Landsting om fortsatt förändringsarbete för första linjens vård och omsorg",
@@ -3755,10 +3433,7 @@
                 "url": "/contentassets/df0be9e4015f47a5b26043c8c31cccc7/overenskommelse-mellan-regeringen-och-sveriges-kommuner-och-landsting-om-fortsatt-forandringsarbete-for-forsta-linjens-vard-och-omsorg-for-barn-och-ungdomar-med-psykisk-ohalsa-och-psykisk-sjukdom/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse om en nationell satsning för en fungerande vårdgaranti",
@@ -3779,10 +3454,7 @@
                 "url": "/contentassets/9191f66d21894c3791bd9367ed8c8610/overenskommelse-om-en-nationell-satsning-for-en-fungerande-vardgaranti/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse mellan regeringen och Sveriges Kommuner och Landsting om en förstärkt vårdgaranti för insatser till barn och ung",
@@ -3803,10 +3475,7 @@
                 "url": "/contentassets/92ca10a5a91c40e8ab21d5c17051e9f3/overenskommelse-om-forstarkt-vardgaranti-inom-barn--och-ungdomspsykiatrin/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Tillägg till överenskommelsen om fortsatta insatser för att förbättra patienters tillgänglighet till hälso- och sjukvård",
@@ -3827,10 +3496,7 @@
                 "url": "/contentassets/35193138462847d78aa260558fc97c26/tillagg-till-overenskommelsen-om-fortsatta-insatser-for-att-forbattra-patienters-tillganglighet-till-halso--och-sjukvard/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse mellan regeringen och Sveriges Kommuner och Landsting om förbättringar inom den psykiatriska heldygnsvården",
@@ -3851,10 +3517,7 @@
                 "url": "/contentassets/444ea55949d64cddbf2137bbdeb7de61/overenskommelse-mellan-regeringen-och-sveriges-kommuner-och-landsting-om-forbattringar-inom-den-psykiatriska-heldygnsvarden/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse om insatser för att främja en mer jämlik hälso- och sjukvård",
@@ -3875,10 +3538,7 @@
                 "url": "/contentassets/861a7671e5454e15a628465c40b29245/overenskommelse-om-insatser-for-att-framja-en-mer-jamlik-halso--och-sjukvard/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse om stöd till utveckling av ett förstärkt barn- och föräldraperspektiv i missbruks- och beroendevården",
@@ -3899,10 +3559,7 @@
                 "url": "/contentassets/62f4d185bf8b49eb97c884c23ec8feea/overenskommelse-om-stod-till-utveckling-av-ett-forstarkt-barn--och-foraldraperspektiv-i-missbruks--och-beroendevarden/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Uppdrag att utbetala medel till Kammarkollegiet till Sveriges Kommuner och Landsting för att användas till utveckling av ett stärkt barn- och föräldraperspektiv i missbruks- och beroendevården",
@@ -3923,10 +3580,7 @@
                 "url": "/contentassets/4576e9fbd9e5496f96b075ab36143520/uppdrag-att-utbetala-medel-till-kammarkollegiet-till-sveriges-kommuner-och-landsting-for-att-anvandas-till-utveckling-av-ett-starkt-barn--och-foraldraperspektiv-i-missbruks--och-beroendevarden/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse om intensifierat samverkansarbete för barn och ungas psykiska hälsa",
@@ -3947,10 +3601,7 @@
                 "url": "/contentassets/dd039c7fbaea49d5b80335d6f17f6090/overenskommelse-om-intensifierat-samverkansarbete-for-barn-och-ungas-psykiska-halsa/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse om utvecklingen och finansieringen av nationella kvalitetsregister för vård och omsorg under åren 2012-2016",
@@ -3971,10 +3622,7 @@
                 "url": "/contentassets/29c68052301a408b824765d86dda9be2/overenskommelse-om-utvecklingen-och-finansieringen-av-nationella-kvalitetsregister-for-vard-och-omsorg-under-aren-2012-2016/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse om utvecklingsinsatser för psykiatrin med hjälp av de Nationella kvalitetsregistren",
@@ -3995,10 +3643,7 @@
                 "url": "/contentassets/04e8e96879784ce3a5241459093d3568/overenskommelse-om-utvecklingsinsatser-for-psykiatrin-med-hjalp-av-de-nationella-kvalitetsregistren/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse om ett handlingsprogram för att utveckla kunskapen om och vården av unga med självskadebeteende",
@@ -4019,10 +3664,7 @@
                 "url": "/contentassets/54d3ac611f954b4d882d16fdcb7c763c/overenskommelse-om-ett-handlingsprogram-for-att-utveckla-kunskapen-om-och-varden-av-unga-med-sjalvskadebeteende/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse om vissa ersättningar inom folkhälsoområdet",
@@ -4043,10 +3685,7 @@
                 "url": "/contentassets/5b7ded3f17b342c1acd321aea051dc1b/overenskommelse-om-vissa-ersattningar-inom-folkhalsoomradet/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse om insatser inom ramen för den nationella cancerstrategin 2012",
@@ -4067,10 +3706,7 @@
                 "url": "/contentassets/b3c09b3471364e3980da777f9697ffee/overenskommelse-om-insatser-inom-ramen-for-den-nationella-cancerstrategin-2012/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om en sammanhållen vård och omsorg om de mest sjuka äldre",
@@ -4091,10 +3727,7 @@
                 "url": "/contentassets/fffc50c604464c55ad4ba8837d56f565/godkannande-av-en-overenskommelse-om-en-sammanhallen-vard-och-omsorg-om-de-mest-sjuka-aldre/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse om förbättringar inom den psykiatriska heldygnsvården",
@@ -4115,10 +3748,7 @@
                 "url": "/contentassets/8710722784a640dca727e27c03428769/overenskommelse-om-forbattringar-inom-den-psykiatriska-heldygnsvarden/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av överenskommelse om fortsatta insatser för att främja en mer jämlik hälso- och sjukvård, 2012",
@@ -4139,10 +3769,7 @@
                 "url": "/contentassets/027a6cac1d9c4bb29c7a37621e77f3d3/godkannande-av-overenskommelse-om-fortsatta-insatser-for-att-framja-en-mer-jamlik-halso--och-sjukvard-2012/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om förbättrad patientsäkerhet 2012",
@@ -4163,10 +3790,7 @@
                 "url": "/contentassets/2f064c7fd8254d1984426e9d76daebda/godkannande-av-en-overenskommelse-om-forbattrad-patientsakerhet-2012/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om fortsatta insatser för att förbättra patienters tillgänglighet till hälso- och sjukvård",
@@ -4187,10 +3811,7 @@
                 "url": "/contentassets/5b816ddff6db42b8a205f11f316fe39d/godkannande-av-en-overenskommelse-om-fortsatta-insatser-for-att-forbattra-patienters-tillganglighet-till-halso--och-sjukvard/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om rehabiliteringsgarantin för 2012",
@@ -4211,10 +3832,7 @@
                 "url": "/contentassets/ad5eb5506e874814b99edc5933c09057/godkannande-av-en-overenskommelse-om-rehabiliteringsgarantin-for-2012/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om en kvalitetssäker och effektiv sjukskrivningsprocess för 2012",
@@ -4235,10 +3853,7 @@
                 "url": "/contentassets/3696870bd38546ccb638df02d2b9c555/godkannande-av-en-overenskommelse-om-en-kvalitetssaker-och-effektiv-sjukskrivningsprocess-for-2012/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om insatser inom ramen för den nationella cancerstrategin 2011",
@@ -4259,10 +3874,7 @@
                 "url": "/contentassets/5570367b74de401d8d4f4a1e142f4922/godkannande-av-en-overenskommelse-om-insatser-inom-ramen-for-den-nationella-cancerstrategin-2011-s20109129hs/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av Dagmaröverenskommelsen 2011",
@@ -4283,10 +3895,7 @@
                 "url": "/contentassets/144219b84b6d4cdf861ba9e3c1d59a20/godkannande-av-dagmaroverenskommelsen-2011-s20101833hs-m.fl"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse mellan regeringen och Sveriges Kommuner och Landsting om att stärka barnets rättigheter",
@@ -4307,10 +3916,7 @@
                 "url": "/contentassets/f20aa9637c1b4eb3bf6ac24118c31c10/overenskommelse-mellan-regeringen-och-sveriges-kommuner-och-landsting-om-att-starka-barnets-rattigheter/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Dagmaröverenskommelsen 2012 - överenskommelse mellan staten och Sveriges Kommuner och Landsting om vissa ersättningar till utvecklingsområden inom hälso- och sjukvården",
@@ -4331,10 +3937,7 @@
                 "url": "/contentassets/9d374dd3a8724d3b9021b0a6516087bb/dagmaroverenskommelsen-2012---overenskommelse-mellan-staten-och-sveriges-kommuner-och-landsting-om-vissa-ersattningar-till-utvecklingsomraden-inom-halso--och-sjukvarden/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Stöd till en evidensbaserad praktik för god kvalitet inom socialtjänsten - överenskommelse för 2012 mellan staten och Sveriges Kommuner och Landsting",
@@ -4355,10 +3958,7 @@
                 "url": "/contentassets/4f3a65150de14ef388bcf59979dbfead/overenskommelse-om-stod-till-en-evidensbaserad-prakti-for-god-kvalitet-inoom-socialtjansten/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Bemyndigande att ingå en överenskommelse om riktade insatser inom området psykisk ohälsa",
@@ -4379,10 +3979,7 @@
                 "url": "/contentassets/c8bf90a1cb3b41df9a7c3239685a17e0/bemyndigande-att-inga-en-overenskommelse-om-riktade-insatser-inom-omradet-psykisk-ohalsa/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Bemyndigande att underteckna en överenskommelse om vissa ersättningar inom folkhälsoområdet",
@@ -4403,10 +4000,7 @@
                 "url": "/contentassets/3985ee2886b4437a8d792f2e56dbac18/bemyndigande-att-underteckna-en-overenskommelse-om-vissa-ersattningar-inom-folkhalsoomradet-s20126925fs/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse mellan staten och Sveriges Kommuner och Landsting om fördjupade medicinska utredningar för 2013",
@@ -4427,10 +4021,7 @@
                 "url": "/contentassets/a392e18fab28436784b32a2e6bffb013/overenskommelse-mellan-staten-och-sveriges-kommuner-och-landsting-om-fordjupade-medicinska-utredningar-for-2013-s20128099sf/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om en sammanhållen vård och omsorg om de mest sjuka äldre 2013",
@@ -4451,10 +4042,7 @@
                 "url": "/contentassets/5df6b5d01aa343bbb11d314f9962ae31/godkannande-av-en-overenskommelse-om-en-sammanhallen-vard-och-omsorg-om-de-mest-sjuka-aldre-2013-s20128765fst/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om vissa utvecklingsområden inom hälso- och sjukvården 2013",
@@ -4475,10 +4063,7 @@
                 "url": "/contentassets/4a5c8c7fe3df45c6b4f7fc0832d79aa3/godkannande-av-en-overenskommelse-om-vissa-utvecklingsomraden-inom-halso--och-sjukvarden-2013-s20128768fs/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om fortsatta insatser för att främja en mer jämlik hälso- och sjukvård 2013",
@@ -4499,10 +4084,7 @@
                 "url": "/contentassets/aa74bc5cb41644d1a2aa48bbc9c6dc7a/godkannande-av-en-overenskommelse-om-fortsatta-insatser-for-att-framja-en-mer-jamlik-halso--och-sjukvard-2013-s20128766fs/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om fortsatta insatser för att förbättra patienters tillgänglighet till hälso- och sjukvård 2013",
@@ -4523,10 +4105,7 @@
                 "url": "/contentassets/027ea157a83d4cc5a8c11178b1bff66f/godkannande-av-en-overenskommelse-om-fortsatta-insatser-for-att-forbattra-patienters-tillganglighet-till-halso--och-sjukvard-2013-s20128767fs/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om förbättrad patientsäkerhet 2013",
@@ -4547,10 +4126,7 @@
                 "url": "/contentassets/f6785b50adb042688c517886b93f6648/godkannande-av-en-overenskommelse-om-forbattrad-patientsakerhet-2013-s20128770fs/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om stöd till riktade insatser inom området psykisk ohälsa 2013",
@@ -4571,10 +4147,7 @@
                 "url": "/contentassets/c6aa2e5e92f54a35aedb15da19ae97a9/godkannande-av-en-overenskommelse-om-stod-till-riktade-insatser-inom-omradet-psykisk-ohalsa-2013-s20128769fs/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse mellan staten och Sveriges Kommuner och Landsting om rehabiliteringsgaranti 2013",
@@ -4595,10 +4168,7 @@
                 "url": "/contentassets/3a1d79ca7fd34903b4dc51e95e953788/overenskommelse-mellan-staten-och-sveriges-kommuner-och-landsting-om-rehabiliteringsgaranti-2013-s2012527sf/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse mellan staten och Sveriges Kommuner och Landsting om en kvalitetssäker och effektiv sjukskrivningsprocess för 2013",
@@ -4619,10 +4189,7 @@
                 "url": "/contentassets/2f7f7d6506c24851b9f0cf0e88be6a81/overenskommelse-mellan-staten-och-sveriges-kommuner-och-landsting-om-en-kvalitetssaker-och-effektiv-sjukskrivningsprocess-for-2013-s20126876sf/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse om stöd till en evidensbaserad praktik för god kvalitet inom socialtjänsten",
@@ -4643,10 +4210,7 @@
                 "url": "/contentassets/0abc09da45504733b62ca6ab32550188/stod-till-en-evidensbaserad-praktik-for-god-kvalitet-inom-socialtjansten-s20128764fst/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Avtal om bidrag för viss verksamhet hos CAN",
@@ -4667,10 +4231,7 @@
                 "url": "/contentassets/c664fb4549a442909cc961ab1f2f49d2/avtal-om-bidrag-for-viss-verksamhet-hos-can/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Uppdrag att utbetala medel för den s.k. kömiljarden utifrån uppnådda resultat under 2012",
@@ -4691,10 +4252,7 @@
                 "url": "/contentassets/89c13c0483824fccb195bf9b66725678/uppdrag-att-utbetala-medel-for-den-s.k.-komiljarden-utifran-uppnadda-resultat-under-2012s2013995fs"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om utveckling av den svenska takprismodellen för läkemedel",
@@ -4715,10 +4273,7 @@
                 "url": "/contentassets/7a175cca182a4777aa75bb58391c5ee3/godkannande-av-en-overenskommelse-om-utveckling-av-den-svenska-takprismodellen-for-lakemedel-s20136192fs/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om stöd till en evidensbaserad praktik för god kvalitet inom socialtjänsten 2014",
@@ -4739,10 +4294,7 @@
                 "url": "/contentassets/a7a6307d060c47689ae52499209f5553/godkannande-av-en-overenskommelse-om-stod-till-en-evidensbaserad-praktik-for-god-kvalitet-inom-socialtjansten-2014-s20138804fst/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om fortsatta insatser för att främja en mer jämlik hälso- och sjukvård 2014",
@@ -4763,10 +4315,7 @@
                 "url": "/contentassets/2b0dde5ec4fd49bea23cce7cf79964bd/godkannande-av-en-overenskommelse-om-fortsatta-insatser-for-att-framja-en-mer-jamlik-halso--och-sjukvard-2014-s20138792fs/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om förbättrad patientsäkerhet 2014",
@@ -4787,10 +4336,7 @@
                 "url": "/contentassets/628124e30c044e7f8798902cce15fcbc/godkannande-av-en-overenskommelse-om-forbattrad-patientsakerhet-2014/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om stöd till riktade insatser inom området psykisk ohälsa 2014",
@@ -4811,10 +4357,7 @@
                 "url": "/contentassets/69f7d43b6017401f863badcd0aa46eab/godkannande-av-en-overenskommelse-om-stod-till-riktade-insatser-inom-omradet-psykisk-ohalsa-2014-s20138791fs/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om fortsatta insatser för att förbättra patienters tillgänglighet till hälso- och sjukvård 2014",
@@ -4835,10 +4378,7 @@
                 "url": "/contentassets/cd41d58e35cf4be89010bf65ce10dc79/godkannande-av-en-overenskommelse-om-fortsatta-insatser-for-att-forbattra-patienters-tillganglighet-till-halso--och-sjukvard-2014-komiljarden-s20138788fs/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om kunskapsstyrning och vissa utvecklingsområden inom hälso- och sjukvården 2014",
@@ -4859,10 +4399,7 @@
                 "url": "/contentassets/6001b2c0ff594fd795ab6a1dae370f15/godkannande-av-en-overenskommelse-om-kunskapsstyrning-och-vissa-utvecklingsomraden-inom-halso--och-sjukvarden-2014-s20138789fs/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om en sammanhållen vård och omsorg om de mest sjuka äldre",
@@ -4883,10 +4420,7 @@
                 "url": "/contentassets/7d50e6dbb5fb4dc7ba3210bf158d410b/godkannande-av-en-overenskommelse-om-en-sammanhallen-vard-och-omsorg-om-de-mest-sjuka-aldre-s20138803fst/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om rehabiliteringsgaranti för 2014",
@@ -4907,10 +4441,7 @@
                 "url": "/contentassets/924750bd8987476a919c558799198ed4/godkannande-av-en-overenskommelse-om-rehabiliteringsgaranti-for-2014-s20128977sf/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om att stärka barnets rättigheter",
@@ -4931,10 +4462,7 @@
                 "url": "/contentassets/7f48181ae0264b899d3b015e73eb8bbb/godkannande-av-en-overenskommelse-om-att-starka-barnets-rattigheter/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om fördjupade medicinska utredningar för 2014 - 2015",
@@ -4955,10 +4483,7 @@
                 "url": "/contentassets/d83178f9e58d4e869725f6ac243ff294/godkannande-av-en-overenskommelse-om-fordjupade-medicinska-utredningar-for-2014--2015-s20138822sf/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om en pilotverksamhet med aktivitetsförmågeutredningar för 2014",
@@ -4979,10 +4504,7 @@
                 "url": "/contentassets/aaf1f0f1a4cf486da0bc3c76d4a3f9b7/godkannande-av-en-overenskommelse-om-en-pilotverksamhet-med-aktivitetsformageutredningar-for-2014-s20138821sf/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om en kvalitetssäker och effektiv sjukskrivningsprocess för 2014 – 2015",
@@ -5003,10 +4525,7 @@
                 "url": "/contentassets/c9bbdd5cbca143d3ba6b231d1e513fa6/godkannande-av-en-overenskommelse-om-en-kvalitetssaker-och-effektiv-sjukskrivningsprocess-for-2014--2015-s20125434sf/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om kortare väntetider i cancervården",
@@ -5029,8 +4548,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -5053,10 +4570,7 @@
                 "url": "/contentassets/57bee4f52414440493e9465c1a3b3c0e/prestationsbaserat-statsbidrag-till-insatser-for-aldre---en-overenskommelse-mellan-staten-och-sveriges-kommuner-och-landsting/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Plattform för arbetet med att utveckla en evidensbaserad praktik i socialtjänst",
@@ -5077,10 +4591,7 @@
                 "url": "/contentassets/b7b51b3f9e6a4cb5b5a0318ee61633b4/bemyndigande-att-underteckna-en-overenskommelse-plattform-for-arbetet-med-att-utveckla-en-evidensbaserad-praktik-i-socialtjansten-s20094028st/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om rehabiliteringsgarantin för 2011",
@@ -5101,10 +4612,7 @@
                 "url": "/contentassets/99fb28de95ba4b8aa07501057e3eff89/godkannande-av-en-overenskommelse-om-rehabiliteringsgarantin-for-2011/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en tilläggsöverenskommelse till en överenskommelse om insatser för en kvalitetssäker och effektiv sjukskrivningsp",
@@ -5125,10 +4633,7 @@
                 "url": "/contentassets/58b9868517094960b26c238ebb8f5f2d/godkannande-av-en-tillaggsoverenskommelse-till-en-overenskommelse-om-insatser-for-en-kvalitetssaker-och-effektiv-sjukskrivningsprocess-aren-2010-2011/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Bemyndigande att underteckna en överenskommelse om patientsäkerhetssatsning 2011",
@@ -5149,10 +4654,7 @@
                 "url": "/contentassets/7b321cef1a814194babb11a788f385ef/bemyndigande-att-underteckna-en-overenskommelse-om-patientsakerhetssatsning-2011/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om insatser för att samordna vård och omsorg om de mest sjuka äldre",
@@ -5173,10 +4675,7 @@
                 "url": "/contentassets/5885961bed5e4551becd426f1e3a0f5e/godkannande-av-en-overenskommelse-om-insatser-for-att-samordna-vard-och-omsorg-om-de-mest-sjuka-aldre/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse om fortsatta insatser för att förbättra patienters tillgänglighet till hälso- och sjukvård",
@@ -5197,10 +4696,7 @@
                 "url": "/contentassets/d70163df6c6b4f2b844f2ca9033f375f/overenskommelse-om-fortsatta-insatser-for-att-forbattra-patienters-tillganglighet-till-halso--och-sjukvard/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Bemyndigande att underteckna en överenskommelse om förbättringar inom den psykiatriska heldygnsvården",
@@ -5221,10 +4717,7 @@
                 "url": "/contentassets/332f6f0ee57c4483a38687e5680f5398/bemyndigande-att-underteckna-en-overenskommelse-om-forbattringar-inom-den-psykiatriska-heldygnsvarden/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse om stöd till en evidensbaserad praktik",
@@ -5245,10 +4738,7 @@
                 "url": "/contentassets/94ae1fa4c80d419293d4c0d3972ecafe/bemyndigande-att-underteckna-en-overenskommelse-om-stod-till-en-evidensbaserad-praktik/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Prestationsbaserat statsbidrag till insatser för äldre - en överenskommelse mellan staten och Sveriges Kommuner och Landsting",
@@ -5269,10 +4759,7 @@
                 "url": "/contentassets/793822116b5f4791ad64d4cc1f090131/prestationsbaserat-statsbidrag-till-insatser-for-aldre---en-overenskommelse-mellan-staten-och-sveriges-kommuner-och-landsting/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Medel till prestationsbaserade insatser för äldre",
@@ -5293,10 +4780,7 @@
                 "url": "/contentassets/d5c46dfdc70140179482839552b3c1b9/medel-till-prestationsbaserade-insatser-for-aldre/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse om läkemedelsförmånerna 2011",
@@ -5321,10 +4805,7 @@
                 "url": "/contentassets/098358a62bfa450cb467d4c7a67bba3a/ny-behovsmodell-for-lakemedel/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Överenskommelse om utvecklingsarbete inom ramen för cancerstrategin år 2010",
@@ -5345,10 +4826,7 @@
                 "url": "/contentassets/4b258851c079447095ed121db1db38f9/overenskommelse-om-utvecklingsarbete-inom-ramen-for-cancerstrategin-ar-2010/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av överenskommelse om att revidera villkor 5 i överenskommelsen mellan staten och Sveriges Kommuner och Landsting om en kvalitetssäker och effektiv sjukskrivningsprocess 2014–2015",
@@ -5369,10 +4847,7 @@
                 "url": "/contentassets/7e6cf13bb5534eabba7a1d77d3826417/godkannande-av-overenskommelse-om-att-revidera-villkor-5-i-overenskommelsen-mellan-staten-och-sveriges-kommuner-och-landsting-om-en-kvalitetssaker-och-effektiv-sjukskrivningsprocess-20142015-s20146476sf/"
             }
         ],
-        "categories": [
-            "1344",
-            "1292"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om rehabiliteringsgaranti för 2015",
@@ -5393,10 +4868,7 @@
                 "url": "/contentassets/9e5b0ef9fc1a414eafb2ddd72bc3a13d/godkannande-av-en-overenskommelse-om-rehabiliteringsgaranti-for-2015-s2012749sf/"
             }
         ],
-        "categories": [
-            "1344",
-            "1291"
-        ]
+        "categories": []
     },
     {
         "title": "Godkännande av en överenskommelse om en pilotverksamhet med aktivitetsförmågeutredningar för 2015",
@@ -5418,8 +4890,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1269"
         ]
     },
@@ -5443,8 +4913,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1233"
         ]
     },
@@ -5468,8 +4936,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "2655",
             "1268"
         ]
@@ -5494,8 +4960,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1292",
             "1268"
         ]
     },
@@ -5520,8 +4984,6 @@
             }
         ],
         "categories": [
-            "1344",
-            "1288",
             "1219",
             "1260"
         ]
@@ -5545,9 +5007,6 @@
                 "url": "/contentassets/9b4a748fa87c48a3be1bf9f5cac0766b/overenskommelse-mellan-regeringen-ideburna-organisationer-inom-integrationsomradet-och-skl/"
             }
         ],
-        "categories": [
-            "1344",
-            "1284"
-        ]
+        "categories": []
     }
 ]

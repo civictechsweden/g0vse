@@ -14,6 +14,6 @@ Regeringen föreslår bland annat att
 * preskriptionstiden vid grov fridskränkning och hedersförtryck mot ett barn ska räknas från den dag målsäganden fyller eller skulle ha fyllt 18 år, och
 * utdömda fängelsestraff inte ska preskriberas.
 
-Lagändringarna föreslås träda i kraft den 1 april 2025\.
+Lagändringarna föreslås träda i kraft den 1 april 2025.
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

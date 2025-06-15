@@ -7,8 +7,8 @@ En särskild utredare får i uppdrag att bland annat
 * analysera om det finns ett behov av och är lämpligt att införa en möjlighet till strafflindring för den som medverkar till utredning av någon annans brottslighet (så kallade kronvittnen),
 * föreslå åtgärder för att förbättra stödet till vittnen och överväga åtgärder för att stärka skyddet av vittnen,
 * analysera om det finns ett behov av och är lämpligt att införa en
-möjlighet att vittna anonymt, och
+  möjlighet att vittna anonymt, och
 * bedöma om straffskalorna för övergrepp i rättssak, mened och
-skyddande av brottsling bör skärpas.
+  skyddande av brottsling bör skärpas.
 
-Uppdraget ska redovisas senast den 21 maj 2021\.
+Uppdraget ska redovisas senast den 21 maj 2021.

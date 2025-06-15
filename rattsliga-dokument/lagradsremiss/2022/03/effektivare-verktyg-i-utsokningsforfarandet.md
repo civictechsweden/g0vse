@@ -10,4 +10,4 @@ Regeringen föreslår följande:
 * En skärpning av gäldenärens och tredje mans skyldighet att lämna upplysningar i mål om utmätning.
 * Ett tydliggörande av ramarna för Kronofogdemyndighetens utredningar i syfte att ytterligare stärka såväl effektiviteten som rättssäkerheten i myndighetens verksamhet.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2022\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2022.

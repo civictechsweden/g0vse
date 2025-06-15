@@ -1,6 +1,5 @@
 # Remiss SOU 2020:43 Betygsutredningen 2018
 
-Här kan du ta del av svaren från dem som har ombetts att svara på remissen SOU 2020:43 Betygsutredningen 2018\. Övriga yttranden finns tillgängliga i departementet.
+Här kan du ta del av svaren från dem som har ombetts att svara på remissen SOU 2020:43 Betygsutredningen 2018. Övriga yttranden finns tillgängliga i departementet.
 
-
-Sista dag att svara på remissen är den 3 december 2020\.
+Sista dag att svara på remissen är den 3 december 2020.

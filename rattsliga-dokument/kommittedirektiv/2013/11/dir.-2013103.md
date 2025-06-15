@@ -8,4 +8,4 @@ En särskild utredare ska analysera och ta ställning till om Sverige bör tillt
 
 Utredaren ska dessutom ta ställning till vilka förklaringar Sverige bör avge vid ett tillträde. Det ska också utredas om det svenska inskrivningsregistret för luftfartyg vid Transportstyrelsen bör finnas kvar, helt eller delvis, vid ett tillträde till konventionen och protokollet.
 
-Uppdraget ska redovisas senast den 1 december 2014\.
+Uppdraget ska redovisas senast den 1 december 2014.

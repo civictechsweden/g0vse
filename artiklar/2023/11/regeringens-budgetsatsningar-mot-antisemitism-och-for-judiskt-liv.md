@@ -2,7 +2,6 @@
 
 Arbetet mot antisemitism är högt prioriterat för regeringen. I den budget som presenterades den 20 september finns flera satsningar för att stärka och säkerställa det fortsatta arbetet. Bland annat tillförs Judiska museet, Forum för levande historia och Judiska centralrådet medel och statsbidragen till säkerhetshöjande åtgärder förstärks.
 
-
 ## Ökad kunskap och insatser mot yngre för att förebygga antisemitism
 
 – Eftersom antisemitism och andra former av rasism kan gå i arv är det särskilt viktigt med insatser som riktar sig mot yngre generationer. I årets budget avsätter vi medel till hågkomstresor, för att fortsatt kunna möjliggöra för barn och unga att resa till Förintelsens minnesplatser. Vi avsätter också medel för att låta genomföra en stor attitydundersökning kring förekomsten av antisemitism på nätet för att bättre kunna förstå och motverka denna vedervärdiga form av hatideologi, säger Parisa Liljestrand, kulturminister.
@@ -13,13 +12,13 @@ Regeringen avsätter också medel för att genomföra utbildningsinsatser och h�
 
 ## Kunskapshöjande insatser kring den judiska minoritetens historia i Sverige
 
-Det finns ett behov av kunskapshöjande insatser om den judiska minoritetens historia och det svensk\-judiska kulturarvet. Regeringen beviljar därför medel till Stiftelsen Judiska museet i Stockholm för att genomföra satsningen ”Traces of Existence – spår av judiskt liv i Värmland”. Satsningen syftar till att synliggöra det svensk\-judiska kulturarvet och avtäcka en bortglömd och okänd del av den judiska minoritetens historia i Sverige.
+Det finns ett behov av kunskapshöjande insatser om den judiska minoritetens historia och det svensk-judiska kulturarvet. Regeringen beviljar därför medel till Stiftelsen Judiska museet i Stockholm för att genomföra satsningen ”Traces of Existence – spår av judiskt liv i Värmland”. Satsningen syftar till att synliggöra det svensk-judiska kulturarvet och avtäcka en bortglömd och okänd del av den judiska minoritetens historia i Sverige.
 
 ## Regeringen tillför medel till arbetet mot rasism
 
-– Sverige ska vara ett land fritt från rasism och hatbrott. Rasism, annan främlingsfientlighet och diskriminering är skadliga både för de enskilda som utsätts och för samhället som helhet. De bidrar till polarisering och måste bekämpas med full kraft. Därför tillför vi nu mer medel för att motverka rasism och hatbrott, säger jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg.
+– Sverige ska vara ett land fritt från rasism och hatbrott. Rasism, annan främlingsfientlighet och diskriminering är skadliga både för de enskilda som utsätts och för samhället som helhet. De bidrar till polarisering och måste bekämpas med full kraft. Därför tillför vi nu mer medel för att motverka rasism och hatbrott, säger jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg.
 
-Arbetet mot rasism, annan främlingsfientlighet och diskriminering förstärks. I detta ingår arbetet mot antisemitism. Regeringen avser att tillföra arbetet 20 miljoner kronor för år 2024\. Det innebär att cirka 48,5 miljoner kronor kommer att finnas tillgängligt för insatser nästa år.
+Arbetet mot rasism, annan främlingsfientlighet och diskriminering förstärks. I detta ingår arbetet mot antisemitism. Regeringen avser att tillföra arbetet 20 miljoner kronor för år 2024. Det innebär att cirka 48,5 miljoner kronor kommer att finnas tillgängligt för insatser nästa år.
 
 ## Förstärkta statsbidrag till säkerhetshöjande åtgärder
 
@@ -29,4 +28,4 @@ Den fråga som den judiska minoriteten själv har fört fram som den mest centra
 
 ## Ytterligare förstärkning till Judiska centralrådet
 
-I oktober beslutade regeringen också om två ändringar vad gäller det stöd som ges till trossamfund. Ändringarna innebär bland annat en förstärkning av stödet till Judiska Centralrådet om 10 miljoner kronor för innevarande år, 2023\. Detta stöd är utöver den tidigare aviserade förstärkningen på 30 miljoner kronor för säkerhetshöjande åtgärder som aviserades i regeringens budgetproposition. Samtidigt beslutade regeringen att ändra förordningen om statsbidrag för säkerhetshöjande åtgärder till organisationer inom det civila samhället så att de organisationer som har störst behov av stöd ska kunna få stöd. Konkret innebär detta att vid årsskiftet flyttas handläggningen av stödet från Kammarkollegiet till Myndigheten för stöd till trossamfund och att ett särskilt verksamhetsbidrag införs som syftar till att ge förutsättningar för ett långsiktigt säkerhetsbidrag.
+I oktober beslutade regeringen också om två ändringar vad gäller det stöd som ges till trossamfund. Ändringarna innebär bland annat en förstärkning av stödet till Judiska Centralrådet om 10 miljoner kronor för innevarande år, 2023. Detta stöd är utöver den tidigare aviserade förstärkningen på 30 miljoner kronor för säkerhetshöjande åtgärder som aviserades i regeringens budgetproposition. Samtidigt beslutade regeringen att ändra förordningen om statsbidrag för säkerhetshöjande åtgärder till organisationer inom det civila samhället så att de organisationer som har störst behov av stöd ska kunna få stöd. Konkret innebär detta att vid årsskiftet flyttas handläggningen av stödet från Kammarkollegiet till Myndigheten för stöd till trossamfund och att ett särskilt verksamhetsbidrag införs som syftar till att ge förutsättningar för ett långsiktigt säkerhetsbidrag.

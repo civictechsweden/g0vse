@@ -6,4 +6,4 @@ Det finns flera för­delar med att kunna avgöra mål på hand­lingarna. En sk
 
 I syfte att brottmål i tings­rätt och tviste­mål i hovrätt ska kunna hand­läggas på ett så ända­måls­enligt och effektivt sätt som möjligt, föreslår regeringen att fler av dessa mål ska kunna avgöras på hand­lingarna.
 
-Lag­änd­ringarna föreslås träda i kraft den 1 januari 2022\.
+Lag­änd­ringarna föreslås träda i kraft den 1 januari 2022.

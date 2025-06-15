@@ -1,7 +1,6 @@
 # Uppdrag till Myndigheten för ungdoms- och civilsamhällesfrågor att fördela medel till förberedande och kapacitetsstärkande insatser inför införandet av fritidskort för barn och unga
 
-Regeringen uppdrar åt Myndigheten för ungdoms\- och civilsamhällesfrågor, MUCF, att fördela 20 000 000 kronor till barn\- och ungdomsorganisationer för insatser inför det att fritidskortet för barn och unga införs.
-
+Regeringen uppdrar åt Myndigheten för ungdoms- och civilsamhällesfrågor, MUCF, att fördela 20 000 000 kronor till barn- och ungdomsorganisationer för insatser inför det att fritidskortet för barn och unga införs.
 
 MUCF ska informera aktuella organisationer om hur pengarna fördelas och följa upp och redogöra för vad organisationerna gör för pengarna.
 

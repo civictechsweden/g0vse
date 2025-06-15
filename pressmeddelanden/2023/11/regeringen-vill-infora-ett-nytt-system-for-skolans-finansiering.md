@@ -6,9 +6,9 @@ Utredaren ska ge förslag på en nationell beräkningsmodell för skolpengen som
 
 Modellen ska bland annat ta hänsyn till att kommunala och enskilda huvudmän har olika ansvar. Kommunala skolor är till exempel skyldiga att erbjuda alla elever i kommunen plats i en skola nära hemmet, medan fristående skolor inte har det ansvaret. Beräkningsmodellen ska också ta hänsyn till bland annat elevunderlag, var skolan ligger och om skolan har elever som har omfattande behov av särskilt stöd.
 
-Uppdraget att föreslå ett nytt resursfördelningssystem för förskoleklassen, grundskolan och anpassade grundskolan, inklusive för fristående resursskolor i dessa skolformer, ska redovisas senast den 1 april 2025\.
+Uppdraget att föreslå ett nytt resursfördelningssystem för förskoleklassen, grundskolan och anpassade grundskolan, inklusive för fristående resursskolor i dessa skolformer, ska redovisas senast den 1 april 2025.
 
-Uppdraget att föreslå ett nytt resursfördelningssystem för gymnasieskolan och anpassade gymnasieskolan, inklusive för fristående resursskolor i dessa skolformer, ska redovisas senast den 1 november 2026\.
+Uppdraget att föreslå ett nytt resursfördelningssystem för gymnasieskolan och anpassade gymnasieskolan, inklusive för fristående resursskolor i dessa skolformer, ska redovisas senast den 1 november 2026.
 
 Till särskild utredare utses Lena Holmdahl, utbildningsdirektör i Stockholms stad.
 

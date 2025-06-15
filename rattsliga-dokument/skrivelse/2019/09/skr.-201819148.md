@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om köp på saklig grund
 
-I skrivelsen redovisar regeringen sin övergripande bedömning med anledning av Riksrevisionens iakttagelser och slutsatser i granskningsrapporten Köp på saklig grund – myndigheternas skydd mot förtroendeskadliga närståendetransaktioner (RiR 2019:8\).
+I skrivelsen redovisar regeringen sin övergripande bedömning med anledning av Riksrevisionens iakttagelser och slutsatser i granskningsrapporten Köp på saklig grund – myndigheternas skydd mot förtroendeskadliga närståendetransaktioner (RiR 2019:8).
 
 Regeringen instämmer i Riksrevisionens övergripande slutsatser att myndigheter måste vara uppmärksamma på vad som kan hända när anställdas ekonomiska intressesfär överlappar myndighetens.
 

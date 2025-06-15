@@ -4,4 +4,4 @@ Förslagen i betänkandet syftar till att bidra till värnandet av kvalitet och 
 
 Den föreslagna nya myndigheten Oredlighetsnämnden kommer att överta uppgifter som i dag sköts av forskningsutförarna och Expertgruppen för Oredlighet i forskning vid Centrala etikprövningsnämnden. Expertgruppen föreslås därmed läggas ner. Förslagen innebär endast små eller försumbara ekonomiska konsekvenser för myndigheter och forskningsutförare.
 
-Bestämmelserna föreslås träda i kraft den 1 januari 2019\.
+Bestämmelserna föreslås träda i kraft den 1 januari 2019.

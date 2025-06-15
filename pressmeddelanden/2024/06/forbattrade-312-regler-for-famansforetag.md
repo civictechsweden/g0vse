@@ -1,6 +1,6 @@
 # Förbättrade 3:12-regler för fåmansföretag
 
-– Sverige är ett stolt företagarland och just fåmansföretagen är en viktig del av svenskt näringsliv. Regeringen genomför just nu en reformintensiv för att underlätta för företagande i Sverige. Därför är jag så glad att idag få ta emot kommitténs förslag om hur de så kallade 3:12\-reglerna både kan förenklas och förbättras, säger finansminister Elisabeth Svantesson.
+– Sverige är ett stolt företagarland och just fåmansföretagen är en viktig del av svenskt näringsliv. Regeringen genomför just nu en reformintensiv för att underlätta för företagande i Sverige. Därför är jag så glad att idag få ta emot kommitténs förslag om hur de så kallade 3:12-reglerna både kan förenklas och förbättras, säger finansminister Elisabeth Svantesson.
 
 Kommittén om förenklad beskattning av ägare till fåmansföretag föreslår i betänkandet bland annat
 
@@ -9,4 +9,4 @@ Kommittén om förenklad beskattning av ägare till fåmansföretag föreslår i
 * att syskonkretsen inte längre ska betraktas som närstående och därför inte påverkar en delägares beskattning
 * att karenstiden och andra tidsgränser kortas med ett år.
 
-Enligt kommitténs förslag ska de nya reglerna träda i kraft den 1 januari 2026\. Kommitténs förslag kommer nu att beredas i Regeringskansliet.
+Enligt kommitténs förslag ska de nya reglerna träda i kraft den 1 januari 2026. Kommitténs förslag kommer nu att beredas i Regeringskansliet.

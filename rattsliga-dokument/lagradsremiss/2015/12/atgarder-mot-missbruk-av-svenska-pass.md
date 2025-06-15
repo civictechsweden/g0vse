@@ -6,6 +6,6 @@ Det missbruk som består i att äkta pass används av andra än de egentliga pas
 
 I lagrådsremissen föreslår regeringen också ändringar i passlagen för att minska tillgången till svenska pass som kan missbrukas. Ändringarna innebär att svenska medborgare ska kunna beviljas högst tre vanliga pass under en femårsperiod, att ett vanligt pass ska återkallas när ett provisoriskt pass utfärdas för passinnehavaren och att giltighetstiden för vanligt pass till barn ska sänkas till tre år.
 
-Lagändringarna föreslås träda i kraft den 1 maj 2016\.
+Lagändringarna föreslås träda i kraft den 1 maj 2016.
 
 [Pressmeddelande: Regeringen föreslår åtgärder mot missbruk av pass](/pressmeddelanden/2015/12/regeringen-foreslar-atgarder-mot-missbruk-av-pass/)

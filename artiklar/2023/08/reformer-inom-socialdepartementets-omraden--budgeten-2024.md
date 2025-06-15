@@ -2,7 +2,6 @@
 
 Regeringen ger i budgetpropositionen för 2024 en rad förslag inom Socialdepartementets områden. Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-
 ## Civila samhället och idrott
 
 ### Regeringen vill satsa 100 miljoner per år på civilsamhället
@@ -29,51 +28,45 @@ Regeringen föreslår att statsbidraget för säkerhetshöjande åtgärder till 
 
 [Pressmeddelande: Höjt statsbidrag för säkerhet till organisationer och trossamfund](/pressmeddelanden/2023/09/hojt-statsbidrag-for-sakerhet-till-organisationer-och-trossamfund/)
 
-
-
 ## Folkhälsa
 
-### Regeringen säkerställer tillgången av vaccin mot covid\-19
+### Regeringen säkerställer tillgången av vaccin mot covid-19
 
-Regeringen avsätter 792 miljoner kronor för att säkerställa tillgången på vaccin mot covid\-19 under 2024\. För 2025 beräknas 429 miljoner kronor.
+Regeringen avsätter 792 miljoner kronor för att säkerställa tillgången på vaccin mot covid-19 under 2024. För 2025 beräknas 429 miljoner kronor.
 
-[Pressmeddelande: Regeringen säkerställer tillgången av vaccin mot covid\-19](/pressmeddelanden/2023/09/regeringen-sakerstaller-tillgangen-av-vaccin-mot-covid-19/)
+[Pressmeddelande: Regeringen säkerställer tillgången av vaccin mot covid-19](/pressmeddelanden/2023/09/regeringen-sakerstaller-tillgangen-av-vaccin-mot-covid-19/)
 
 ### Förstärkta satsningar för att främja psykisk hälsa
 
-I budgetpropositionen för 2024 föreslår regeringen förstärkning av pågående satsningar för att främja psykisk hälsa. Förslaget innebär en satsning på ytterligare 100 miljoner kronor 2024 och ytterligare ca 1,6 miljarder kronor per år under 2025 respektive 2026 i syfte att främja psykisk hälsa, förebygga psykisk ohälsa och suicid och skapa förutsättningar för en god och tillgänglig vård och omsorg för personer med psykisk ohälsa. Tillsammans med sedan tidigare aviserade anslag innebär detta att över 2,2 miljarder kronor per år avsätts inom området under perioden 2024 \- 2026\.
+I budgetpropositionen för 2024 föreslår regeringen förstärkning av pågående satsningar för att främja psykisk hälsa. Förslaget innebär en satsning på ytterligare 100 miljoner kronor 2024 och ytterligare ca 1,6 miljarder kronor per år under 2025 respektive 2026 i syfte att främja psykisk hälsa, förebygga psykisk ohälsa och suicid och skapa förutsättningar för en god och tillgänglig vård och omsorg för personer med psykisk ohälsa. Tillsammans med sedan tidigare aviserade anslag innebär detta att över 2,2 miljarder kronor per år avsätts inom området under perioden 2024 - 2026.
 
 [Pressmeddelande: Förstärkta satsningar för att främja psykisk hälsa](/pressmeddelanden/2023/09/forstarkta-satsningar-for-att-framja-psykisk-halsa/)
 
-
-
 ## Sjukvård
 
-### Ett nytt sektorsbidrag och ökade prestationsbundna bidrag ska stärka hälso\- och sjukvården i hela landet
+### Ett nytt sektorsbidrag och ökade prestationsbundna bidrag ska stärka hälso- och sjukvården i hela landet
 
-Regeringen föreslår ett sektorsbidrag om 3 miljarder under 2024 med syfte att stärka möjligheterna för hälso\- och sjukvården att bedriva en god och patientsäker hälso\- och sjukvård. Utöver det avser regeringen att öka de tidigare aviserade prestationsbundna bidragen till regionerna om 2 miljarder per år 2023–2025 med 1,5 miljarder kronor under 2025\. Utöver det föreslås 43 miljoner i ökat stöd till utvecklingen mot en nära och tillgänglig vård med fokus på primärvården samt en dubblering av satsningen mot cancer.
+Regeringen föreslår ett sektorsbidrag om 3 miljarder under 2024 med syfte att stärka möjligheterna för hälso- och sjukvården att bedriva en god och patientsäker hälso- och sjukvård. Utöver det avser regeringen att öka de tidigare aviserade prestationsbundna bidragen till regionerna om 2 miljarder per år 2023–2025 med 1,5 miljarder kronor under 2025. Utöver det föreslås 43 miljoner i ökat stöd till utvecklingen mot en nära och tillgänglig vård med fokus på primärvården samt en dubblering av satsningen mot cancer.
 
-[Pressmeddelande: Ett nytt sektorsbidrag och ökade prestationsbundna bidrag ska stärka hälso\- och sjukvården i hela landet](/pressmeddelanden/2023/09/ett-nytt-sektorsbidrag-och-okade-prestationsbundna-bidrag-ska-starka-halso--och-sjukvarden-i-hela-landet/)
+[Pressmeddelande: Ett nytt sektorsbidrag och ökade prestationsbundna bidrag ska stärka hälso- och sjukvården i hela landet](/pressmeddelanden/2023/09/ett-nytt-sektorsbidrag-och-okade-prestationsbundna-bidrag-ska-starka-halso--och-sjukvarden-i-hela-landet/)
 
-### Regeringen satsar på en nationell digital infrastruktur för hälso\- och sjukvården
+### Regeringen satsar på en nationell digital infrastruktur för hälso- och sjukvården
 
-En nationell digital infrastruktur för hälso\- och sjukvården där staten tar ett större ansvar ska genomföras. Syftet är att förbättra kvaliteten och patientsäkerheten i vården samt att på sikt minska den administrativa bördan för hälso\- och sjukvårdens medarbetare. Regeringen föreslår därför i budgetpropositionen att 77 miljoner kronor avsätts för detta ändamål under 2024\.
+En nationell digital infrastruktur för hälso- och sjukvården där staten tar ett större ansvar ska genomföras. Syftet är att förbättra kvaliteten och patientsäkerheten i vården samt att på sikt minska den administrativa bördan för hälso- och sjukvårdens medarbetare. Regeringen föreslår därför i budgetpropositionen att 77 miljoner kronor avsätts för detta ändamål under 2024.
 
-[Pressmeddelande: Regeringen satsar på en nationell digital infrastruktur för hälso\- och sjukvården](/pressmeddelanden/2023/09/regeringen-satsar-pa-en-nationell-digital-infrastruktur-for-halso--och-sjukvarden/)
+[Pressmeddelande: Regeringen satsar på en nationell digital infrastruktur för hälso- och sjukvården](/pressmeddelanden/2023/09/regeringen-satsar-pa-en-nationell-digital-infrastruktur-for-halso--och-sjukvarden/)
 
 ### Regeringen dubblerar satsning mot cancer och barncancer till och med 2026
 
-Regeringen föreslår ytterligare 500 miljoner kronor per år 2024 \- 2026 för att höja ambitionerna inom cancer\- och barncancervården och för att uppdatera Sveriges cancerstrategi. Satsningen innebär en knapp fördubbling av medel som tidigare avsatts för att motverka den utveckling som snart kan innebära att cancer är den vanligaste dödsorsaken i Sverige.
+Regeringen föreslår ytterligare 500 miljoner kronor per år 2024 - 2026 för att höja ambitionerna inom cancer- och barncancervården och för att uppdatera Sveriges cancerstrategi. Satsningen innebär en knapp fördubbling av medel som tidigare avsatts för att motverka den utveckling som snart kan innebära att cancer är den vanligaste dödsorsaken i Sverige.
 
 [Pressmeddelande: Regeringen dubblerar satsning mot cancer och barncancer till och med 2026](/pressmeddelanden/2023/09/regeringen-dubblerar-satsning-mot-cancer-och-barncancer-till-och-med-2026/)
-
-
 
 ## Socialförsäkringar
 
 ### Förslag om förlängning av tilläggsbidrag för ekonomiskt utsatta barnfamiljer som har bostadsbidrag
 
-Med anledning av den fortsatt höga inflationen föreslås i budgetpropositionen för 2024 att den tillfälliga höjningen av bostadsbidraget förlängs ytterligare sex månader till och med den 30 juni 2024\.
+Med anledning av den fortsatt höga inflationen föreslås i budgetpropositionen för 2024 att den tillfälliga höjningen av bostadsbidraget förlängs ytterligare sex månader till och med den 30 juni 2024.
 
 [Pressmeddelande: Förslag om förlängning av tilläggsbidrag för ekonomiskt utsatta barnfamiljer som har bostadsbidrag](/pressmeddelanden/2023/08/forslag-om-forlangning-av-tillaggsbidrag-for-ekonomiskt-utsatta-barnfamiljer-som-har-bostadsbidrag/ "Pressmeddelande: Förslag om förlängning av tilläggsbidrag för ekonomiskt utsatta barnfamiljer som har bostadsbidrag")
 
@@ -89,13 +82,11 @@ Regeringen anser att ersättningen för höga sjuklönekostnader är en problema
 
 [Pressmeddelande: Ersättning för höga sjuklönekostnader fasas ut](/pressmeddelanden/2023/09/ersattning-for-hoga-sjuklonekostnader-fasas-ut/)
 
-
-
 ## Socialtjänst
 
 ### Omfattande satsning på Statens institutionsstyrelse (SiS)
 
-Regeringen ser stora behov av att satsa på stärkt trygghet, säkerhet och kapacitet vid SiS. Därför föreslår regeringen nu i budgetpropositionen att anslaget till myndigheten ökas med 145 miljoner kronor 2024, 153 miljoner kronor 2025 och 156 miljoner kronor 2026\.
+Regeringen ser stora behov av att satsa på stärkt trygghet, säkerhet och kapacitet vid SiS. Därför föreslår regeringen nu i budgetpropositionen att anslaget till myndigheten ökas med 145 miljoner kronor 2024, 153 miljoner kronor 2025 och 156 miljoner kronor 2026.
 
 [Pressmeddelande: Omfattande satsning på Statens institutionsstyrelse (SiS)](/pressmeddelanden/2023/09/omfattande-satsning-pa-statens-institutionsstyrelse-sis/)
 
@@ -111,12 +102,10 @@ För att socialtjänsten ska kunna möta nutida samhällsutmaningar med träffs�
 
 [Pressmeddelande: Regeringen banar väg för ny socialtjänstlag](/pressmeddelanden/2023/09/regeringen-banar-vag-for-ny-socialtjanstlag/)
 
-
-
 ## Äldreomsorg
 
 ### Regeringen föreslår fortsatt satsning på kompetenshöjning inom äldreomsorgen
 
-Kompetensförsörjningen är en av de största utmaningarna inom äldreomsorgen. Äldreomsorgens viktigaste resurs är personalen och avgörande är att den har rätt kompetens för sina arbetsuppgifter. Därför föreslår regeringen i budgeten för 2024 att 1,7 miljarder kronor avsätts för att fortsätta med den påbörjade kompetenssatsningen för personal inom kommunalt finansierad äldreomsorg. Regeringen beräknar även avsätta motsvarande belopp 2025 och 2026\.
+Kompetensförsörjningen är en av de största utmaningarna inom äldreomsorgen. Äldreomsorgens viktigaste resurs är personalen och avgörande är att den har rätt kompetens för sina arbetsuppgifter. Därför föreslår regeringen i budgeten för 2024 att 1,7 miljarder kronor avsätts för att fortsätta med den påbörjade kompetenssatsningen för personal inom kommunalt finansierad äldreomsorg. Regeringen beräknar även avsätta motsvarande belopp 2025 och 2026.
 
 [Pressmeddelande: Regeringen föreslår fortsatt satsning på kompetenshöjning inom äldreomsorgen](/pressmeddelanden/2023/09/regeringen-foreslar-fortsatt-satsning-pa-kompetenshojning-inom-aldreomsorgen/)

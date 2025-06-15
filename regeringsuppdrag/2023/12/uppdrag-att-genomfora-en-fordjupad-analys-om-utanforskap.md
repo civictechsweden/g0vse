@@ -2,7 +2,6 @@
 
 Regeringen ger Statistiska centralbyrån (SCB) och Boverket i uppdrag att genomföra en fördjupad analys av olika områdens förutsättningar, behov och problem kopplat till utanförskap. Genom analysen ska myndigheterna identifiera geografiska områden där utanförskapet bedöms vara särskilt stort, och som har särskilda behov när det gäller insatser från det offentliga.
 
-
 Analysen ska utgå från indelningen Regionala statistikområden (RegSO). Vid
 genomförandet av uppdraget ska SCB och Boverket när det är relevant
 inhämta synpunkter från andra myndigheter, t.ex. Polismyndigheten och

@@ -12,4 +12,4 @@ Utredaren ska bland annat ta ställning till om
 
 Utredaren ska föreslå de författningsändringar som behövs.
 
-Uppdraget ska redovisas senast den 24 februari 2025\.
+Uppdraget ska redovisas senast den 24 februari 2025.

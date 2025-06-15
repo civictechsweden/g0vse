@@ -6,4 +6,4 @@ Regeringen uppdrar åt Rikspolisstyrelsen och Tullverket att gemensamt verka fö
 * vidareutveckla samarbetet med behöriga myndigheter i andra länder, och
 * genomföra gemensamma operativa insatser.
 
-En gemensam redovisning av de åtgärder som har vidtagits och de resultat som har uppnåtts ska lämnas den 31 oktober 2013 och 2014\.
+En gemensam redovisning av de åtgärder som har vidtagits och de resultat som har uppnåtts ska lämnas den 31 oktober 2013 och 2014.

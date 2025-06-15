@@ -15,8 +15,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013",
             "1084"
@@ -39,9 +37,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "2621",
-            "1295",
             "2740",
             "1013",
             "1084",
@@ -65,9 +60,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "2605",
-            "1293",
             "1013"
         ]
     },
@@ -87,9 +79,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "2621",
-            "1295",
             "1219",
             "2391",
             "1279",
@@ -115,11 +104,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2214",
-            "2621",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Statsministerns uttalande med anledning av påve Franciskus bortgång",
@@ -137,11 +122,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2214",
-            "2605",
-            "1293"
-        ]
+        "categories": []
     },
     {
         "title": "Uttalande från Utrikesdepartementet med anledning av uppkallande av Rysslands ambassadör",
@@ -158,10 +139,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2214",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Statsministerns uttalande med anledning av de amerikanska tullarna",
@@ -169,7 +147,8 @@
         "published": "2025-04-02",
         "updated": null,
         "types": [
-            "2214"
+            "2214",
+            "1343"
         ],
         "senders": [
             "2605",
@@ -177,13 +156,16 @@
         ],
         "summary": "Uttalande av statsminister Ulf Kristersson med anledning av de amerikanska tullarna, onsdag den 2 april 2025.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Statsminister Ulf Kristersson kommenterar de amerikanska tullarna\n",
+                "url": "/pressmeddelanden/2025/04/statsminister-ulf-kristersson-kommenterar-de-amerikanska-tullarna/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "2214",
-            "2605",
-            "1293",
-            "1235"
+            "1235",
+            "1012"
         ]
     },
     {
@@ -201,10 +183,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2214",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Uttalande från Utrikesdepartementet med anledning av uppkallande av Rwandas ambassadör",
@@ -222,10 +201,36 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1156"
+        ]
+    },
+    {
+        "title": "Joint statement from the Nordic-Baltic leaders",
+        "url": "/uttalanden/2025/02/joint-statement-from-the-nordic-baltic-leaders/",
+        "published": "2025-02-14",
+        "updated": null,
+        "types": [
+            "2214"
+        ],
+        "senders": [
+            "2605",
+            "1293"
+        ],
+        "summary": "Nordic-Baltic leaders’ statement (Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, Norway, Sweden, 14 February 2025).",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2584",
+            "1047",
+            "1058",
+            "1062",
+            "1083",
+            "1108",
+            "1113",
+            "1142",
+            "1198"
         ]
     },
     {
@@ -244,9 +249,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "2621",
-            "1295",
             "1279",
             "2584",
             "1129"
@@ -268,9 +270,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "2621",
-            "1295",
             "1279",
             "1081",
             "1198"
@@ -293,9 +292,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "2621",
-            "1295",
             "1279",
             "1013",
             "1067"
@@ -317,9 +313,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "2621",
-            "1295",
             "1219",
             "2435",
             "1279",
@@ -342,8 +335,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1081"
         ]
@@ -363,8 +354,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1121"
         ]
     },
@@ -385,9 +374,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "2605",
-            "1293",
             "2740",
             "1084",
             "1147"
@@ -409,27 +395,24 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Libanon – avrådan",
+                "name": "Libanon – avrådan\n",
                 "url": "/ud-avrader/libanon--andrad-avradan/"
             },
             {
-                "name": "Israel - avrådan",
+                "name": "Israel - avrådan\n",
                 "url": "/ud-avrader/israel---avradan/"
             },
             {
-                "name": "Palestina - avrådan",
+                "name": "Palestina - avrådan\n",
                 "url": "/ud-avrader/palestina---avradan/"
             },
             {
-                "name": "Iran - avrådan",
+                "name": "Iran - avrådan\n",
                 "url": "/ud-avrader/iran---avradan/"
             }
         ],
         "attachments": [],
         "categories": [
-            "2214",
-            "2605",
-            "1293",
             "2740",
             "1081",
             "1084",
@@ -454,9 +437,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "2605",
-            "1293",
             "1196"
         ]
     },
@@ -476,8 +456,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1080"
         ]
     },
@@ -497,9 +475,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "2605",
-            "1293",
             "1277",
             "1142"
         ]
@@ -518,18 +493,16 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Libanon – avrådan",
+                "name": "Libanon – avrådan\n",
                 "url": "/ud-avrader/libanon--andrad-avradan/"
             },
             {
-                "name": "Debattartikel: Svenskar i Libanon måste lyssna på UD:s avrådan",
+                "name": "Debattartikel: Svenskar i Libanon måste lyssna på UD:s avrådan\n",
                 "url": "/debattartiklar/2024/07/svenskar-i-libanon-maste-lyssna-pa-uds-avradan/"
             }
         ],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "2740",
             "1109"
         ]
@@ -550,8 +523,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1157"
         ]
@@ -569,11 +540,14 @@
         ],
         "summary": "Talmanus från pressträff den 15 juni 2024.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Johan Floderus och Saeed Azizi har kommit hem till Sverige\n",
+                "url": "/pressmeddelanden/2024/06/johan-floderus-och-saeed-azizi-har-kommit-hem-till-sverige/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279"
         ]
     },
@@ -592,13 +566,14 @@
         ],
         "summary": "Uttalanden av statsminister Ulf Kristersson, den 15 juni 2024, text och video.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Johan Floderus och Saeed Azizi har kommit hem till Sverige\n",
+                "url": "/pressmeddelanden/2024/06/johan-floderus-och-saeed-azizi-har-kommit-hem-till-sverige/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "2214",
-            "1343",
-            "2605",
-            "1293",
             "1279"
         ]
     },
@@ -618,8 +593,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1080"
         ]
     },
@@ -639,8 +612,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013",
             "1067"
@@ -662,8 +633,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1219",
             "1279",
             "1157"
@@ -685,8 +654,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1081"
         ]
     },
@@ -706,8 +673,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013"
         ]
@@ -721,7 +686,6 @@
             "2214"
         ],
         "senders": [
-            "2625",
             "2605",
             "1284",
             "1293"
@@ -730,13 +694,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2214",
-            "2625",
-            "2605",
-            "1284",
-            "1293"
-        ]
+        "categories": []
     },
     {
         "title": "Uttalande från försvarsministrarna inom JEF den 28 november 2023",
@@ -753,14 +711,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Sverige deltar i övning för att skydda kritisk infrastruktur i Östersjön",
+                "name": "Pressmeddelande: Sverige deltar i övning för att skydda kritisk infrastruktur i Östersjön\n",
                 "url": "/pressmeddelanden/2023/11/sverige-deltar-i-JEF-verksamhet-for-att-skydda-kritisk-infrastruktur-i-ostersjon/"
             }
         ],
         "attachments": [],
         "categories": [
-            "2214",
-            "2627",
             "2247",
             "2675",
             "1013"
@@ -782,11 +738,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2214",
-            "2605",
-            "1293"
-        ]
+        "categories": []
     },
     {
         "title": "Uttalande av klimat- och miljöminister Romina Pourmokhtari",
@@ -804,15 +756,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Naturvårdsverkets pressmeddelande.",
+                "name": "Naturvårdsverkets pressmeddelande.\n             - extern webbplats,\n",
                 "url": "https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/2023/november/sverige-ska-rapportera-utslapp-fran-gaslackaget-i-nord-stream/"
             }
         ],
         "attachments": [],
         "categories": [
-            "2214",
-            "2628",
-            "1291",
             "1252"
         ]
     },
@@ -842,7 +791,6 @@
             "2622",
             "2623",
             "2624",
-            "2625",
             "2626",
             "2627",
             "2628",
@@ -853,44 +801,20 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Krisinformation.se",
+                "name": "Krisinformation.se\n             - extern webbplats,\n",
                 "url": "http://krisinformation.se/"
             },
             {
-                "name": "UD Resklar – reseinformation direkt i fickan",
+                "name": "UD Resklar – reseinformation direkt i fickan\n",
                 "url": "/uds-reseinformation/ud-resklar/"
             },
             {
-                "name": "Svensklistan – Sweden Abroad",
+                "name": "Svensklistan – Sweden Abroad\n             - extern webbplats,\n",
                 "url": "https://www.swedenabroad.se/sv/svensklistan/"
             }
         ],
         "attachments": [],
         "categories": [
-            "2214",
-            "2607",
-            "2608",
-            "2609",
-            "2610",
-            "2611",
-            "2612",
-            "2613",
-            "2614",
-            "2615",
-            "2616",
-            "2618",
-            "2619",
-            "2620",
-            "2621",
-            "2622",
-            "2623",
-            "2624",
-            "2625",
-            "2626",
-            "2627",
-            "2628",
-            "2605",
-            "1296",
             "1264",
             "1241",
             "1013"
@@ -912,8 +836,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "2740",
             "1013",
@@ -937,8 +859,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013"
         ]
@@ -956,7 +876,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
             "1279",
             "1013",
             "1100",
@@ -979,8 +898,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1293",
             "2675"
         ]
     },
@@ -1001,9 +918,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "2605",
-            "1293",
             "2675"
         ]
     },
@@ -1023,8 +937,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "2675",
             "1013"
@@ -1046,8 +958,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "2675",
             "1013",
@@ -1069,14 +979,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Gemensamt uttalande från den internationella samordnings- och åtgärdsgruppen för offer från PS752 angående skiljedomsförfarande",
+                "name": "Gemensamt uttalande från den internationella samordnings- och åtgärdsgruppen för offer från PS752 angående skiljedomsförfarande\n",
                 "url": "/uttalanden/2023/01/gemensamt-uttalande-fran-den-internationella-samordnings--och-atgardsgruppen-for-offer-fran-ps752-angaende-skiljedomsforfarande/"
             }
         ],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013"
         ]
@@ -1096,8 +1004,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "2584",
             "1013",
@@ -1120,8 +1026,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1219",
             "1279",
             "1081"
@@ -1143,8 +1047,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1157"
         ]
@@ -1161,11 +1063,14 @@
             "1295"
         ],
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: UD fördömer avrättningen av en svensk medborgare i Iran\n",
+                "url": "/pressmeddelanden/2023/05/ud-fordomer-avrattningen-av-en-svensk-medborgare-i-iran/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1219",
             "1279",
             "1081"
@@ -1185,12 +1090,14 @@
         ],
         "summary": "Det är idag ett år sedan Rysslands fullskaliga invasion av Ukraina. Ukraina har fått betala ett högt pris för sin frihet och Sverige har bistått Ukraina på flera sätt - såväl ekonomiskt som med humanitärt, militärt och civilt stöd. Tillsammans med EU har Sverige i flera omgångar fattat beslut om omfattande sanktioner mot Ryssland. Sverige kommer att fortsätta stödja Ukraina i landets kamp för sin frihet. I valet mellan de som förtrycker friheten och de som kämpar för frihet och demokrati är valet enkelt.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Rysslands invasion av Ukraina\n",
+                "url": "/regeringens-politik/sveriges-stod-till-ukraina/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "2214",
-            "2605",
-            "1293",
             "1279",
             "2584",
             "1013",
@@ -1212,12 +1119,14 @@
         ],
         "summary": "Uttalande av statsministrarna i Sverige, Danmark, Finland, Island och Norge den 24 februari 2023.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Rysslands invasion av Ukraina\n",
+                "url": "/regeringens-politik/sveriges-stod-till-ukraina/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "2214",
-            "2605",
-            "1293",
             "1279",
             "2584",
             "1013",
@@ -1245,9 +1154,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "2605",
-            "1293",
             "2247",
             "1279",
             "1013"
@@ -1268,8 +1174,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1193"
         ]
@@ -1289,18 +1193,16 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "EU:s gemensamma uttalande med anledning av avrättningarna i Iran",
+                "name": "EU:s gemensamma uttalande med anledning av avrättningarna i Iran\n             - extern webbplats,\n",
                 "url": "https://www.eeas.europa.eu/eeas/iran-statement-spokesperson-latest-executions_en"
             },
             {
-                "name": "Sverige stödjer det iranska folkets krav på mänskliga rättigheter",
+                "name": "Sverige stödjer det iranska folkets krav på mänskliga rättigheter\n",
                 "url": "/regeringens-politik/utrikes--och-sakerhetspolitik/sverige-stodjer-det-iranska-folkets-krav-pa-manskliga-rattigheter/"
             }
         ],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1012",
             "1013",
@@ -1322,14 +1224,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Joint statement from the International Coordination and Response Group for the victims of Flight PS752 on arbitration",
+                "name": "Joint statement from the International Coordination and Response Group for the victims of Flight PS752 on arbitration\n",
                 "url": "https://www.government.se/statements/2022/12/joint-statement-from-the-international-coordination-and-response-group-for-the-victims-of-flight-ps752-on-arbitration/"
             }
         ],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013"
         ]
@@ -1352,10 +1252,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "2626",
-            "1291",
-            "2425",
             "1243",
             "1012"
         ]
@@ -1376,8 +1272,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1286",
             "2247",
             "2688",
             "2695",
@@ -1399,14 +1293,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Joint statement by the Foreign Ministers of Estonia, Finland, Iceland, Latvia, Lithuania, Norway, Sweden and Ukraine (på government.se)",
+                "name": "Joint statement by the Foreign Ministers of Estonia, Finland, Iceland, Latvia, Lithuania, Norway, Sweden and Ukraine (på government.se)\n",
                 "url": "https://www.government.se/statements/2022/11/joint-statement-by-the-foreign-ministers-of-estonia-finland-iceland-latvia-lithuania-norway-sweden-and-ukraine/"
             }
         ],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "2688",
             "2584",
@@ -1431,8 +1323,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1286",
             "2247",
             "2688",
             "2584",
@@ -1456,8 +1346,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1286",
             "2247",
             "2199",
             "2688",
@@ -1481,8 +1369,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1286",
             "2247",
             "2688",
             "2695",
@@ -1505,8 +1391,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1286",
             "2247",
             "1013"
         ]
@@ -1526,8 +1410,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "2584",
             "1157",
             "1198"
@@ -1549,8 +1431,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1286",
             "2247",
             "2584",
             "1062",
@@ -1573,8 +1453,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1252",
             "1279",
             "1013"
@@ -1592,11 +1470,14 @@
             "1295"
         ],
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Samlingssida: Rysslands invasion av Ukraina\n",
+                "url": "/regeringens-politik/sveriges-stod-till-ukraina/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "2584"
         ]
@@ -1617,8 +1498,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013"
         ]
@@ -1639,8 +1518,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013",
             "1081"
@@ -1661,8 +1538,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013"
         ]
@@ -1683,8 +1558,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013"
         ]
@@ -1704,8 +1577,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013"
         ]
@@ -1726,8 +1597,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013",
             "1182"
@@ -1748,8 +1617,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013"
         ]
@@ -1769,8 +1636,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013"
         ]
@@ -1790,10 +1655,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2214",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Uttalande med anledning av journalist som vid fototillfälle hotats av bangladeshisk säkerhetspersonal",
@@ -1811,8 +1673,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1028"
         ]
     },
@@ -1832,8 +1692,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013"
         ]
@@ -1853,8 +1711,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013"
         ]
@@ -1874,8 +1730,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2214",
-            "1295",
             "1279",
             "1013"
         ]
@@ -1909,8 +1763,6 @@
             }
         ],
         "categories": [
-            "2214",
-            "1295",
             "1013"
         ]
     }

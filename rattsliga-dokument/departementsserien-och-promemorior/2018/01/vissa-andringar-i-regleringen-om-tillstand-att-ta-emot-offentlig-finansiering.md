@@ -11,4 +11,4 @@ associationsformerna. De särskilda kraven ska gälla under förutsättning att 
 Förslaget innebär att sådan idéburen verksamhet som beskrivits ovan inte kommer att omfattas av kraven på en begränsning av rörelseresultat och värdeöverföringar eller kravet att verksamheten ska drivas i en separat juridisk person. Endast ett fåtal regler föreslås gälla för att sådana aktörer ska beviljas tillstånd att ta emot offentlig finansiering. Den juridiska personen ska lämna en årsredovisning till tillsynsmyndigheten samt ha en auktoriserad eller godkänd revisor och får inte överlämna verksamhet till andra juridiska personer utan tillstånd att ta emot offentlig finansiering. Förslagen innebär att idéburen verksamhet inte i onödan tyngs med administrativa åtgärder eller
 överflödiga krav som inte anpassats för deras verksamhet.
 
-Ändringarna föreslås träda i kraft den 2 januari 2019\.
+Ändringarna föreslås träda i kraft den 2 januari 2019.

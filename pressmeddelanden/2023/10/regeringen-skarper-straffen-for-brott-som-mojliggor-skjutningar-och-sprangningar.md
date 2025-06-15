@@ -12,6 +12,6 @@ I lagrådsremissen föreslås att:
 * straffskalorna för synnerligen grovt brott skärps från fängelse i lägst fyra år och högst sju år till fängelse i lägst sex år och högst tio år, och
 * maximistraffen för normalgradsbrott skärps från fängelse i tre år till fängelse i fem år
 
-I promemorian som ligger till grund för lagrådsremissen föreslogs att straffskärpningarna skulle träda i kraft 1 april 2024\. Mot bakgrund av den senaste våldsvågen föreslår regeringen nu att straffskärpningarna träder i kraft redan den 1 januari 2024\.
+I promemorian som ligger till grund för lagrådsremissen föreslogs att straffskärpningarna skulle träda i kraft 1 april 2024. Mot bakgrund av den senaste våldsvågen föreslår regeringen nu att straffskärpningarna träder i kraft redan den 1 januari 2024.
 
 Förslagen i lagrådsremissen bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

@@ -4,4 +4,4 @@
 
 Genom en ändring i Etikprövningsmyndighetens regleringsbrev får myndigheten i uppdrag att föra och presentera statistik över inkomna ansökningar om forskning som enbart rör känsliga personuppgifter eller personuppgifter om lagöverträdelser som innefattar brott, domar i brottmål, tvångsmedel med mera. Kartläggningen ska göra det möjligt att över tid kunna följa inkomna ansökningar avseende typ av forskningshuvudman, ämnesområde och beslutsutfall.
 
-I uppdraget ingår även att Etikprövningsmyndigheten ska inhämta synpunkter från Överklagandenämnden för etikprövning. Uppdraget ska redovisas till Utbildningsdepartementet senast den 22 februari 2024\.
+I uppdraget ingår även att Etikprövningsmyndigheten ska inhämta synpunkter från Överklagandenämnden för etikprövning. Uppdraget ska redovisas till Utbildningsdepartementet senast den 22 februari 2024.

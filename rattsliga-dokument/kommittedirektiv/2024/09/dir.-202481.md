@@ -2,4 +2,4 @@
 
 Regeringen förlänger utredningstiden för utredningen om HVB för barn och unga.
 
-Uppdraget ska i stället redovisas senast den 1 september 2025\.
+Uppdraget ska i stället redovisas senast den 1 september 2025.

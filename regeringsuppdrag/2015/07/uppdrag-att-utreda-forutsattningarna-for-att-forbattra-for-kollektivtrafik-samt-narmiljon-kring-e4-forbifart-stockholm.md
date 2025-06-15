@@ -8,10 +8,10 @@ De alternativa åtgärderna ska särskilt analyseras med hänsyn till kostnader,
 
 Därutöver ska Trafikverket i dialog med övriga berörda myndigheter och organisationer analysera i vilken mån genomförande av de olika åtgärderna faller under statligt, regionalt respektive kommunalt ansvar.
 
-Uppdraget ska redovisas till Regeringskansliet (Näringsdepartementet) senast den 30 april 2016\.
+Uppdraget ska redovisas till Regeringskansliet (Näringsdepartementet) senast den 30 april 2016.
 
 ## Närmiljöproblem
 
-Regeringen uppdrar åt Trafikverket att utreda förutsättningarna för att ytterligare reducera de närmiljöproblem i form av exempelvis buller och lokala luftföroreningar som förväntas bli följden vid anslutningspunkterna till E4 Förbifart Stockholm. En utgångspunkt för uppdraget är att framdriften av Förbifart Stockholm inte ska påverkas negativt. Alla eventuella åtgärder ska effekt\- och kostnadsbedömas.
+Regeringen uppdrar åt Trafikverket att utreda förutsättningarna för att ytterligare reducera de närmiljöproblem i form av exempelvis buller och lokala luftföroreningar som förväntas bli följden vid anslutningspunkterna till E4 Förbifart Stockholm. En utgångspunkt för uppdraget är att framdriften av Förbifart Stockholm inte ska påverkas negativt. Alla eventuella åtgärder ska effekt- och kostnadsbedömas.
 
-Uppdraget ska redovisas till Regeringskansliet (Näringsdepartementet) senast den 30 april 2016\.
+Uppdraget ska redovisas till Regeringskansliet (Näringsdepartementet) senast den 30 april 2016.

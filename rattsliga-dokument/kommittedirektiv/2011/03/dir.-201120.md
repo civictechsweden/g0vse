@@ -4,8 +4,8 @@ En särskild utredare ska föreslå en ordning för vinstfördelning vid expropr
 
 I uppdraget ingår att ta ställning till
 
-* vilka fall av markåtkomst som bör omfattas av vinstför\-delning och hur dessa fall bör avgränsas,
+* vilka fall av markåtkomst som bör omfattas av vinstför-delning och hur dessa fall bör avgränsas,
 * hur vinsten eller nyttan för den som tar marken i anspråk bör beräknas, och
 * hur vinsten eller nyttan bör fördelas.
 
-Uppdraget ska redovisas senast den 1 oktober 2012\.
+Uppdraget ska redovisas senast den 1 oktober 2012.

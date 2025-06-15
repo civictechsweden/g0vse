@@ -1,7 +1,6 @@
 # Utredning om genomförandet av EU:s direktiv om tillräckliga minimilöner
 
-Regeringen har tillsatt en utredning om genomförandet av EU:s direktiv om tillräckliga minimilöner. Direktivet syftar till att fastställa en ram för att förbättra levnads\- och arbetsvillkoren och att främja social rättvisa och jämställdhet i unionen. I direktivet framhålls också vikten av fullständig respekt för parternas autonomi och rätt att träffa kollektivavtal.
-
+Regeringen har tillsatt en utredning om genomförandet av EU:s direktiv om tillräckliga minimilöner. Direktivet syftar till att fastställa en ram för att förbättra levnads- och arbetsvillkoren och att främja social rättvisa och jämställdhet i unionen. I direktivet framhålls också vikten av fullständig respekt för parternas autonomi och rätt att träffa kollektivavtal.
 
 Utredningen ska ta ställning till hur Europaparlamentets och rådets direktiv (EU) 2022/2041 om tillräckliga minimilöner i EU ska genomföras i Sverige. Enligt direktivet får det inte tolkas som en skyldighet för någon medlemsstat att införa lagstadgad minimilön eller att förklara kollektivavtal allmängiltiga. Direktivet utgår från att lönebildningsmodeller ser olika ut i medlemsstaterna.
 
@@ -9,4 +8,4 @@ Utredaren ska med utgångspunkt i den svenska arbetsmarknadsmodellen ta ställni
 
 Som särskild utredare har Carina Gunnarsson utsetts.
 
-Uppdraget ska redovisas senast den 23 juni 2023\.
+Uppdraget ska redovisas senast den 23 juni 2023.

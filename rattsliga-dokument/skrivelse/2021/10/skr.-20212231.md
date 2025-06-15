@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om hållbart företagande och styrning av de statligt ägda bolagen
 
-I skrivelsen redovisar regeringen sin bedömning av de iakt­tagelser och rekom­mendationer som Riks­revisionen har gjort i rapporten Hållbart företagande – regeringens styrning av de statligt ägda bolagen (RiR 2021:10\).
+I skrivelsen redovisar regeringen sin bedömning av de iakt­tagelser och rekom­mendationer som Riks­revisionen har gjort i rapporten Hållbart företagande – regeringens styrning av de statligt ägda bolagen (RiR 2021:10).
 
 Riksrevisionen har granskat om regeringens styrning mot hållbart företagande i de statligt ägda bolagen har lett till att ambitionerna som regeringen uttrycker i statens ägarpolicy uppnåtts och hur de omsätts i praktiken. Riksrevisionens bedömning är att det är tydligt att staten strävar efter att vara en aktiv och professionell ägare på området hållbart företagande. Riksrevisionen har gjort iakttagelser och lämnat rekommendationer till regeringen att följa upp de statligt ägda bolagens arbete med hållbart företagande mer systematiskt, att förtydliga informationen till bolagen om vilka internationella riktlinjer som de ska beakta och vad riktlinjerna innebär, att utveckla informationen till riksdagen samt att överväga att införa ytterligare krav på bolagens hållbarhetsredovisning.
 

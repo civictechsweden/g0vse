@@ -4,4 +4,4 @@ Regeringens beslutar att ge Sametinget i uppdrag att genomföra en kunskapssamma
 
 Kunskapssammanställningen ska syfta till att ge underlag för behov av fortsatt forskning och kunskapsinhämtning. Det ska också utgöra ett kunskapsstöd för Folkhälsomyndigheten i sitt förebyggande uppdrag samt för berörda landsting i sitt arbete att utforma insatser på det psykosociala området för målgruppen på ett ändamålsenligt sätt.
 
-Uppdraget ska redovisas till Socialdepartementet senast den 20 juni 2016\.
+Uppdraget ska redovisas till Socialdepartementet senast den 20 juni 2016.

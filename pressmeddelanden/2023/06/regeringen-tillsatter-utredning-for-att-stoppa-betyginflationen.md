@@ -4,10 +4,10 @@
 
 Utredningen ska analysera och föreslå förändringar i betygssystemet och systemet för meritvärdering. Utredaren ska bland annat
 
-* analysera för\- och nackdelar med systemet för betygssättning och meritvärdering i det svenska skolväsendet i relation till andra länders system
-* lämna ett huvudförslag, samt ett alternativt förslag på en system¬för\-ändring som innebär att resultat på nationella prov, examensprov, eller liknande, kan användas för att öka likvärdigheten i betyg eller meritvärden
+* analysera för- och nackdelar med systemet för betygssättning och meritvärdering i det svenska skolväsendet i relation till andra länders system
+* lämna ett huvudförslag, samt ett alternativt förslag på en system¬för-ändring som innebär att resultat på nationella prov, examensprov, eller liknande, kan användas för att öka likvärdigheten i betyg eller meritvärden
 * lämna förslag på hur betygsinflation och bristande likvärdighet i betygssättning kan motverkas även i ämnen som inte har nationella prov.
 
 Till särskild utredare utser regeringen Magnus Henrekson, professor i nationalekonomi och senior forskare vid Institutet för Näringslivsforskning (IFN).
 
-Uppdraget ska redovisas senast den 21 februari 2025\.
+Uppdraget ska redovisas senast den 21 februari 2025.

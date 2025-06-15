@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om statens tillsyn av information på tjänstepensionsmarknaden
 
-Riksrevisionen har i rapporten Vem tar ansvar? Statens tillsyn av information på tjänstepensionsmarknaden (RiR 2012:16\) redovisat sin granskning av Finansinspektionens och Konsumentverkets tillsyn av konsumentinformation på den kollektivavtalade tjänstepensionsmarknaden.
+Riksrevisionen har i rapporten Vem tar ansvar? Statens tillsyn av information på tjänstepensionsmarknaden (RiR 2012:16) redovisat sin granskning av Finansinspektionens och Konsumentverkets tillsyn av konsumentinformation på den kollektivavtalade tjänstepensionsmarknaden.
 
 Riksrevisionen anser att Finansinspektionen och Konsumentverket inte har verkat för att konsumenterna ska ha möjlighet att göra medvetna val inom tjänstepensionssystemet. Riksrevisionen rekommenderar regeringen att vidta åtgärder för att Finansinspektionen och Konsumentverket ska ta sitt tillsynsansvar på tjänstepensionsområdet.
 

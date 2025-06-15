@@ -6,11 +6,11 @@ Uppdraget syftar till att säkerställa att de brottsbekämpande myndigheternas 
 
 Utredaren ska bland annat
 
-* analysera förutsättningarna för att leverantörer av så kallade OTT\-tjänster ska kunna omfattas av skyldigheten att lagra och ge tillgång till uppgifter om elektronisk kommunikation samt ta ställning till om en sådan skyldighet bör införas,
+* analysera förutsättningarna för att leverantörer av så kallade OTT-tjänster ska kunna omfattas av skyldigheten att lagra och ge tillgång till uppgifter om elektronisk kommunikation samt ta ställning till om en sådan skyldighet bör införas,
 * analysera och föreslå moderniseringar av regleringen när det gäller tjänsteleverantörers skyldighet att anpassa sin verksamhet så att hemliga tvångsmedel kan verkställas på ett effektivt sätt,
-* analysera och utvärdera nuvarande reglering om lagring av och tillgång till uppgifter om elektronisk kommunikation i förhållande till bland annat ny praxis från EU\-domstolen och ta ställning till om regelverket behöver förändras, och
+* analysera och utvärdera nuvarande reglering om lagring av och tillgång till uppgifter om elektronisk kommunikation i förhållande till bland annat ny praxis från EU-domstolen och ta ställning till om regelverket behöver förändras, och
 * analysera vissa frågor om jurisdiktion, inklusive folkrättsliga överväganden, i förhållande till elektronisk information som finns eller kan finnas utanför Sverige och ta ställning till om det bör införas en särskild lagreglering för exekutiv jurisdiktion.
 
 Utredaren ska föreslå de författningsändringar och andra åtgärder som behövs.
 
-Uppdraget ska redovisas senast den 6 februari 2023\.
+Uppdraget ska redovisas senast den 6 februari 2023.

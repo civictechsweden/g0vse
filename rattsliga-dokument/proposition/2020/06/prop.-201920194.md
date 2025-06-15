@@ -2,7 +2,7 @@
 
 Regeringen föreslår ändringar i reglerna om minoritetsskydd i aktiebolag och ekonomiska föreningar, däribland bostadsrättsföreningar. Förslagen syftar till att stärka minoritetsskyddet samtidigt som missbruk av reglerna motverkas. Förslagen gör det svårare för till exempel styrelsen i ett bolag eller en förening att motarbeta en minoritet av aktieägares eller medlemmars insyn.
 
-I propositionen föreslås det bland annat att en särskild granskare eller minoritetsrevisor ska kunna utses av Bolagsverket utan att frågan först behandlas på en bolags\- eller föreningsstämma. En förutsättning ska vara att ägare till minst en tiondel av samtliga aktier i bolaget respektive minst en tiondel av medlemmarna i föreningen står bakom ansökan.
+I propositionen föreslås det bland annat att en särskild granskare eller minoritetsrevisor ska kunna utses av Bolagsverket utan att frågan först behandlas på en bolags- eller föreningsstämma. En förutsättning ska vara att ägare till minst en tiondel av samtliga aktier i bolaget respektive minst en tiondel av medlemmarna i föreningen står bakom ansökan.
 
 Det föreslås också att det ska införas ett uttryckligt krav på att en särskild granskare ska vara lämplig för uppdraget och oberoende i förhållande till bolaget och aktieägarna respektive föreningen och medlemmarna.
 
@@ -12,4 +12,4 @@ Vidare föreslås det att ägarna i ett aktiebolag ska få större frihet att sj
 Ändringarna föreslås gälla även för de finansiella företag som tillämpar
 reglerna för aktiebolag och ekonomiska föreningar.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2021\.
+Lagändringarna föreslås träda i kraft den 1 januari 2021.

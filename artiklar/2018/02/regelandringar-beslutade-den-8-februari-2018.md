@@ -6,13 +6,13 @@ Regeringen har beslutat om följdändringar i tre förordningar med anledning av
 
 ### Referenser
 
-* förordningen (1992:1226\) om Sveriges ekonomiska zon
-* förordningen (2004:660\) om förvaltning av kvaliteten på vattenmiljön
-* havsmiljöförordningen (2010:1341\)
+* förordningen (1992:1226) om Sveriges ekonomiska zon
+* förordningen (2004:660) om förvaltning av kvaliteten på vattenmiljön
+* havsmiljöförordningen (2010:1341)
 
 ## Mer information
 
-Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 20 februari 2018\.
+Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 20 februari 2018.
 
 **Kontaktperson**
-Anna Berglund 08\-405 49 58
+Anna Berglund 08-405 49 58

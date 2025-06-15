@@ -8,4 +8,4 @@ Kommittén har som huvuduppgift att analysera vilka makroekonomiska risker som �
 
 Kommittén består av professorn Peter Englund, ordförande, dekanen Susanne Ackum och professorn John Hassler. Ett antal sakkunniga från akademin, statsförvaltningen och näringslivet kommer också att bjudas in att medverka i utredningen.
 
-Kommittén ska redovisa sitt uppdrag senast den 31 oktober 2024\.
+Kommittén ska redovisa sitt uppdrag senast den 31 oktober 2024.

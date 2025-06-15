@@ -10,4 +10,4 @@ Utredaren ska bland annat:
 
 Om det behövs ska utredaren lämna förslag till nödvändiga författningsändringar.
 
-Uppdraget ska redovisas senast den 6 mars 2013\.
+Uppdraget ska redovisas senast den 6 mars 2013.

@@ -1,3 +1,3 @@
 # Nationell rapport om ekonomiska reformer
 
-Sverige har i dag överlämnat årets nationella rapport om ekonomiska reformer på produkt\- och kapitalmarknaderna till Kommittén för ekonomisk politik i EU. Rapporten är en del i EU\-samarbetet om ekonomiska reformer.
+Sverige har i dag överlämnat årets nationella rapport om ekonomiska reformer på produkt- och kapitalmarknaderna till Kommittén för ekonomisk politik i EU. Rapporten är en del i EU-samarbetet om ekonomiska reformer.

@@ -1,7 +1,6 @@
 # Uppdrag angående uppföljning och utvärdering av förstärkt rehabilitering för återgång i arbete
 
-Regeringen uppdrar åt Inspektionen för socialförsäkringen (ISF) att följa upp och utvärdera reformen om förstärkt rehabilitering för återgång i arbete vilken trädde i kraft den 1 juli 2018\.
-
+Regeringen uppdrar åt Inspektionen för socialförsäkringen (ISF) att följa upp och utvärdera reformen om förstärkt rehabilitering för återgång i arbete vilken trädde i kraft den 1 juli 2018.
 
 I uppdraget ingår att följa upp och utvärdera:
 
@@ -22,4 +21,4 @@ Ett jämställdhetsperspektiv ska beaktas i uppföljningen och utvärderingen.
 
 Arbetsmiljöverket och Försäkringskassan ska bistå ISF med de uppgifter som behövs för att genomföra uppdraget.
 
-Uppdraget ska delredovisas senast den 30 november 2020 och slutredovisas senast den 30 november 2021\.
+Uppdraget ska delredovisas senast den 30 november 2020 och slutredovisas senast den 30 november 2021.

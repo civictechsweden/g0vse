@@ -1,6 +1,6 @@
 # Uppgifter hos Säkerhetspolisen om misstänkt samröre med Stasi
 
-I skrivelsen redovisar regeringen de omständigheter som legat till grund för samtal mellan justitieministern och företrädare för samtliga riksdagspartier under hösten och vintern 2011/12\. Samtalen har syftat till att nå en samsyn i fråga om offentlighet och sekretess för de uppgifter hos Säkerhetspolisen som gäller enskilda svenskars misstänkta samröre med den östtyska säkerhets\- och underrättelsetjänsten Stasi.
+I skrivelsen redovisar regeringen de omständigheter som legat till grund för samtal mellan justitieministern och företrädare för samtliga riksdagspartier under hösten och vintern 2011/12. Samtalen har syftat till att nå en samsyn i fråga om offentlighet och sekretess för de uppgifter hos Säkerhetspolisen som gäller enskilda svenskars misstänkta samröre med den östtyska säkerhets- och underrättelsetjänsten Stasi.
 
 Skrivelsen innehåller en beskrivning av vilka typer av uppgifter som finns hos Säkerhetspolisen och hur dessa har samlats in. Vidare ges en redogörelse för resultaten av de utredningar Säkerhetspolisen har bedrivit med anledning av misstänkt samröre med Stasi. Det lämnas också en redovisning av de regelverk som avgör frågan om huruvida nu aktuella uppgifter är offentliga eller hemliga i Sverige respektive vissa andra europeiska länder.
 

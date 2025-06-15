@@ -11,4 +11,4 @@ Regeringen föreslår därför ett antal lagändringar som bland annat handlar o
 * en möjlighet att förelägga enskilda att tillhandahålla handlingar på ett tidigare stadium i förundersökningen, och
 * en reglering av möjligheterna att kopiera handlingar och en rätt till domstolsprövning när en kopia förvaras hos en myndighet.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2022\.
+Lagändringarna föreslås träda i kraft den 1 juni 2022.

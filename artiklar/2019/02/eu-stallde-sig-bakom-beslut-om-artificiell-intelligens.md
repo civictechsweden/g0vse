@@ -1,15 +1,14 @@
 # EU ställde sig bakom beslut om artificiell intelligens
 
-EU\-ländernas ministrar med ansvar för konkurrensfrågor träffades i Bryssel 18 februari. De fattade beslut om en gemensam plan för artificiell intelligens. De diskuterade också EU:s klimatstrategi och lägesrapporter om EU:s arbete i flera frågor om konkurrenskraft, industri och näringsliv.
-
+EU-ländernas ministrar med ansvar för konkurrensfrågor träffades i Bryssel 18 februari. De fattade beslut om en gemensam plan för artificiell intelligens. De diskuterade också EU:s klimatstrategi och lägesrapporter om EU:s arbete i flera frågor om konkurrenskraft, industri och näringsliv.
 
 ## Artificiell intelligens, AI
 
 ### EU:s plan för AI
 
-Ministrarna antog rådslutsatser om den samordnade planen för AI som EU\-kommissionen publicerade i december 2018\.
+Ministrarna antog rådslutsatser om den samordnade planen för AI som EU-kommissionen publicerade i december 2018.
 
-Slutsatserna understryker att AI\-tillämpningar ska främjas och kapaciteten stärkas i alla medlemsstater. Slutsatserna nämner bland annat möjligheterna för små och medelstora företag och offentlig sektor. Slutsatserna uppmärksammar behovet av säker och högkvalitativ data, kompetens och etiska riktlinjer. De efterlyser också översyn och förnyelse av medlemsstaternas regelverk där det behövs, till exempel inom produktansvar.
+Slutsatserna understryker att AI-tillämpningar ska främjas och kapaciteten stärkas i alla medlemsstater. Slutsatserna nämner bland annat möjligheterna för små och medelstora företag och offentlig sektor. Slutsatserna uppmärksammar behovet av säker och högkvalitativ data, kompetens och etiska riktlinjer. De efterlyser också översyn och förnyelse av medlemsstaternas regelverk där det behövs, till exempel inom produktansvar.
 
 ### Diskussion om AI
 
@@ -21,15 +20,15 @@ Ministrarna tog bland annat upp AI:s inverkan på samhället och starka koppling
 
 ## Vision för klimatneutral ekonomi
 
-Ministrarna diskuterade EU:s långsiktiga klimatstrategi ”En ren jord åt alla \- En europeisk strategisk långsiktig vision för en stark, modern, konkurrenskraftig och klimatneutral ekonomi.”
+Ministrarna diskuterade EU:s långsiktiga klimatstrategi ”En ren jord åt alla - En europeisk strategisk långsiktig vision för en stark, modern, konkurrenskraftig och klimatneutral ekonomi.”
 
-EU\-kommissionen publicerade strategin i november 2018 i linje med Parisavtalets uppmaning att länderna senast 2020 ska ta fram långsiktiga strategier för att minska växthusgaserna. Strategin beskriver med hjälp av åtta scenarier hur olika samhällssektorer i EU kan bidra till att uppfylla Parisavtalets mål.
+EU-kommissionen publicerade strategin i november 2018 i linje med Parisavtalets uppmaning att länderna senast 2020 ska ta fram långsiktiga strategier för att minska växthusgaserna. Strategin beskriver med hjälp av åtta scenarier hur olika samhällssektorer i EU kan bidra till att uppfylla Parisavtalets mål.
 
 I diskussionen uppmärksammade ministrarna den roll industrin spelar för att minska utsläppen av växthusgaser. Ministrarna lyfte också behovet av en balanserad politik med åtgärder som på olika sätt styr utvecklingen i rätt riktning både inom industrin och andra delar av samhället.
 
 ## Globala och regionala värdekedjor
 
-EU\-kommissionen presenterade en rapport om så kallade globala och regionala värdekedjor. Ofta kommer produkter från olika länder för att sedan sättas ihop till en slutlig vara i ett annat land. Den globala handeln sker allt mer inom globala värdekedjor och så även inom EU.
+EU-kommissionen presenterade en rapport om så kallade globala och regionala värdekedjor. Ofta kommer produkter från olika länder för att sedan sättas ihop till en slutlig vara i ett annat land. Den globala handeln sker allt mer inom globala värdekedjor och så även inom EU.
 
 Diskussionen belyste att utvecklingen av värdekedjor skapar möjligheter för den fortsatta utvecklingen av EU:s inre marknad. Utvecklingen av värdekedjor har hittills främst gynnat tillverkningsindustrin men i diskussionen framkom att det mer och mer gäller även för tjänstesektorn.
 

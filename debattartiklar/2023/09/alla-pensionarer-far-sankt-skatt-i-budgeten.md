@@ -1,7 +1,6 @@
 # "Alla pensionärer får sänkt skatt i budgeten"
 
-Vi kommer att föreslå sänkt skatt för alla pensionärer med sammanlagt två miljarder kronor. Sammantaget med den indexering av grundavdraget som görs årligen innebär detta att en pensionär med en pension på 25 000 kronor i månaden får 3 400 kronor mer i plånboken varje år, skriver finansminister Elisabeth Svantesson, Oscar Sjöstedt (SD), Hans Eklind (KD) och Cecilia Rönn (L) i en debattartikel i Expressen den 5 september 2023\.
-
+Vi kommer att föreslå sänkt skatt för alla pensionärer med sammanlagt två miljarder kronor. Sammantaget med den indexering av grundavdraget som görs årligen innebär detta att en pensionär med en pension på 25 000 kronor i månaden får 3 400 kronor mer i plånboken varje år, skriver finansminister Elisabeth Svantesson, Oscar Sjöstedt (SD), Hans Eklind (KD) och Cecilia Rönn (L) i en debattartikel i Expressen den 5 september 2023.
 
 Inflationen rör sig fortsatt på rekordhöga nivåer och drabbar inte minst pensionärer som nu fått se hur värdet på sparandet minskat, samtidigt som levnadskostnaderna ökat.
 
@@ -27,8 +26,8 @@ I budgeten för 2024 fortsätter nu arbetet med att stärka pensionärers ekonom
 
 Av finansminister Elisabeth Svantesson
 
-Oscar Sjöstedt, ekonomisk\-politisk talesperson Sverigedemokraterna
+Oscar Sjöstedt, ekonomisk-politisk talesperson Sverigedemokraterna
 
-Hans Eklind, ekonomisk\-politisk talesperson Kristdemokraterna
+Hans Eklind, ekonomisk-politisk talesperson Kristdemokraterna
 
-Cecilia Rönn, ekonomisk\-politisk talesperson Liberalerna
+Cecilia Rönn, ekonomisk-politisk talesperson Liberalerna

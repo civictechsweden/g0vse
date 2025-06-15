@@ -9,4 +9,4 @@ Regeringen föreslår:
 * att sekretess ska gälla för uppgift om en enskilds personliga förhållanden hos Polismyndigheten i verksamhet som syftar till att upprätthålla ett utreseförbud. Detta om det kan antas att den enskilde eller någon närstående till honom eller henne lider men om uppgiften röjs.
 * att straffansvaret för egenmäktighet med barn utvidgas till att även omfatta gärningar där ett barn under 15 år förs bort eller annars undanhålls, om gärningen är ägnad att hindra att vård enligt LVU påbörjas.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2024\.
+Lagändringarna föreslås träda i kraft den 1 juni 2024.

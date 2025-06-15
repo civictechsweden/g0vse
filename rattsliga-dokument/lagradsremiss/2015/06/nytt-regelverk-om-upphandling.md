@@ -17,4 +17,4 @@ Huvudsakligen genomför lagarna Europaparlamentets och rådets direktiv om:
 * att upphandlande myndigheter och enheter ska kunna använda sig av följande tre grunder för utvärdering av anbud: bästa förhållandet mellan pris och kvalitet, kostnad eller pris.
 * att inköpscentraler ska få bedriva grossistverksamhet.
 
-Lagarna och följdändringarna föreslås träda i kraft den 1 april 2016\.
+Lagarna och följdändringarna föreslås träda i kraft den 1 april 2016.

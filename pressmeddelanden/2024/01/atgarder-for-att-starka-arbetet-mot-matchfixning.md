@@ -6,4 +6,4 @@ I den promemoria som nu remitteras föreslås en lagändring som ger spelbolag, 
 
 – Det är viktigt att licenshavare, Spelinspektionen och idrottsrörelsen arbetar aktivt mot matchfixning. I vissa fall kan det vara nödvändigt att behandla personuppgifter och då behöver relevanta aktörer ha möjlighet att göra det, säger finansmarknadsminister Niklas Wykman.
 
-Lagändringarna föreslås träda i kraft den 1 december 2024\.
+Lagändringarna föreslås träda i kraft den 1 december 2024.

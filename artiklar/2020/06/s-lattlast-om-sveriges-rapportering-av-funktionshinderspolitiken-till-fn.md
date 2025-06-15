@@ -2,12 +2,11 @@
 
 FN:s konvention om rättigheter för
 för personer med funktionsnedsättning
-är från år 2006\.
+är från år 2006.
 I konventionen står det att
 personer med funktionsnedsättning
 är lika mycket värda som alla andra.
 De har samma rättigheter som andra.
-
 
 Det här är inget nytt.
 Det handlar om mänskliga rättigheter.
@@ -17,7 +16,7 @@ för att personer med funktionsnedsättning
 ska få det som de har rätt till.
 Och det ska vara på jämlika villkor.
 
-Sverige skrev under konventionen år 2007\.
+Sverige skrev under konventionen år 2007.
 År 2008 ratificerade Sverige den.
 Det betyder att staten har godkänt konventionen
 och lovat att följa den.
@@ -25,14 +24,14 @@ Sverige måste alltså se till att
 göra som det står i konventionen.
 Det är inte bara fina ord på ett papper.
 
-Konventionen började gälla i Sverige i början av år 2009\.
+Konventionen började gälla i Sverige i början av år 2009.
 Sverige arbetar enligt konventionen sedan dess.
 Både staten, kommuner och regioner jobbar med det.
 Men det är regeringen som har det yttersta ansvaret.
 Det är regeringen som måste se till att
 det blir som det står i konventionen..
 
-### Det här menar vi med konventions\-stater
+### Det här menar vi med konventions-stater
 
 En konventionsstat är en stat som
 har ratificerat en konvention.
@@ -41,12 +40,12 @@ konventionen om rättigheter för
 personer med funktionsnedsättning.
 Sverige är en av konventionsstaterna.
 
-### FN:s kommitté om rättigheterför personer med funktionsnedsättning
+### FN:s kommitté om rättigheter för personer med funktionsnedsättning
 
 Konventionsstaterna ska följa konventionen.
 De ska göra förbättringar.
 För att granska hur de här staterna sköter sig
-finns det en övervaknings\-kommitté.
+finns det en övervaknings-kommitté.
 Den heter FN:s kommitté för rättigheter
 för personer med funktionsnedsättning.
 
@@ -61,7 +60,7 @@ de är oberoende.
 För att få vara med i kommittén måste man bli vald.
 Konventionsstaterna väljer ut ett antal personer.
 Sen röstar de fram experter.
-Det gör de på Konventionsstats\-konferensen.
+Det gör de på Konventionsstats-konferensen.
 
 Varje medlem sitter i kommittén i fyra år.
 De kan bara bli omvalda en gång.
@@ -71,9 +70,9 @@ Då skulle det bli svårt att arbeta.
 
 Konventionsstaterna skickar rapporter till kommittén.
 Kommittén har i uppdrag att läsa dem.
-De ska skriva kommentarer och tydliga rikt\-linjer.
+De ska skriva kommentarer och tydliga rikt-linjer.
 Kommittén tar också emot klagomål.
-Det kan vara klagomål från en privat\-person
+Det kan vara klagomål från en privat-person
 eller från hela grupper.
 Kommittén utreder sedan klagomålen.
 
@@ -103,7 +102,7 @@ Personer med funktionsnedsättning och andra
 kan ge förslag till kommittén
 när kommittén ska skriva sin lista med frågor.
 Det är organisationer som ger förslag,
-inte privat\-personer.
+inte privat-personer.
 
 ### Nationella rapporter
 
@@ -112,18 +111,18 @@ den nationella rapporten till kommittén.
 Men det står i konventionen att regeringarna uppmanas
 samarbeta med personer med funktionsnedsättning.
 
-### Parallell\-rapporter
+### Parallell-rapporter
 
 Organisationer kan också skriva en egen rapport.
 Det kan vara personer med funktionsnedsättning.
 Det kan också vara andra organisationer som inte är statliga.
-Det kan vara nationella människo\-rätts\-institutioner.
+Det kan vara nationella människo-rätts-institutioner.
 
 I rapporterna kan de berätta hur de tycker
 att regeringen i deras land följer konventionen.
-Den här typen av rapport kallas parallell\-rapport.
-Ibland kallas den alternativ\-rapport,
-eller skugg\-rapport.
+Den här typen av rapport kallas parallell-rapport.
+Ibland kallas den alternativ-rapport,
+eller skugg-rapport.
 
 En organisation kan lämna in en egen rapport.
 Det går också bra att skriva
@@ -152,7 +151,7 @@ Det är landets regering som företräder staten vid dialogen.
 
 Frågorna är oftast detaljerade.
 Ibland är kommittén inte nöjd med svaren.
-Då ställer de följd\-frågor.
+Då ställer de följd-frågor.
 
 Kommittén kan inför dialogen ha kontakt med organisationer också.
 Då får kommittén tips på viktiga frågor.
@@ -176,7 +175,7 @@ Det är regeringen som bestämmer
 om de ska följa rekommendationerna
 eller inte.
 
-### Sveriges rapportering till kommitténoch hur civilsamhället är med i arbetet
+### Sveriges rapportering till kommittén och hur civilsamhället är med i arbetet
 
 Civilsamhället är organisationer, föreningar och andra
 som inte är statliga eller kommunala.
@@ -186,23 +185,23 @@ personer med funktionsnedsättning.
 ### Civilsamhället bidrar till Sveriges nationella rapport
 
 Sveriges regering lämnade in sin första rapport
-till kommittén i januari 2011\.
+till kommittén i januari 2011.
 I oktober 2019 lämnade regeringen in
 en ny nationell rapport.
-Det var en samman\-slagen
+Det var en samman-slagen
 andra och tredje rapport.
 
 Den sammanslagna rapporten utgår från
-kommitténs lista med frågor från år 2018\.
+kommitténs lista med frågor från år 2018.
 Den utgår också ifrån rekommendationer
-som Sverige fick år 2014\.
+som Sverige fick år 2014.
 Sveriges civilsamhälle hade gett förslag på frågor.
-Organisationen Funktions\-rätt Sverige
+Organisationen Funktions-rätt Sverige
 hade satt ihop texten till kommittén.
 Funktionsrätt Sverige hade stöd av
 elva andra organisationer.
 
-Social\-departementet höll ihop
+Social-departementet höll ihop
 arbetet med Sveriges nationella rapport.
 Andra departement var med och bidrog till rapporten.
 Regeringen tog med civilsamhället.
@@ -210,12 +209,12 @@ Regeringen tog med civilsamhället.
 ### Möten med representanter för civilsamhället
 
 Den 16 januari 2018 hölls ett så kallat
-sak\-råd med civilsamhället.
+sak-råd med civilsamhället.
 Det var för att få synpunkter på
-kommitténs rekommendationer från år 2014\.
+kommitténs rekommendationer från år 2014.
 
 Socialdepartementet hade också ett
-möte med civilsamhället den 10 maj 2019\.
+möte med civilsamhället den 10 maj 2019.
 Nu ville departementet ha synpunkter på
 kommitténs lista med frågor.
 Departementet ville också informera om
@@ -229,14 +228,14 @@ Deltagarna fick också svar på frågor
 om innehållet i rapporten.
 
 Departementet informerade även om arbetet
-vid möten i regeringens funktions\-hinders\-delegation.
+vid möten i regeringens funktions-hinders-delegation.
 
 ### Så blev rapporten
 
 Rapporten är 108 sidor lång.
 Den är uppdelad i olika delar.
 Rapporten börjar med
-kort bakgrunds\-information.
+kort bakgrunds-information.
 Sen svarar regeringen på kommitténs frågor.
 Frågorna handlar om vad staten gör.
 En längre del handlar om
@@ -245,23 +244,23 @@ rättigheter i konventionen.
 Regeringen ser en positiv utveckling
 för personer med funktionsnedsättning.
 Fler har fått jobb efter att de har varit
-inskrivna på Arbets\-förmedlingen.
+inskrivna på Arbets-förmedlingen.
 Fler har gått vidare till andra anställningar
-efter jobb med löne\-bidrag.
+efter jobb med löne-bidrag.
 Det är bra.
 Men det finns utmaningar kvar.
 
-Personer med nedsatt arbets\-förmåga är
-fortfarande arbets\-lösa oftare än andra.
+Personer med nedsatt arbets-förmåga är
+fortfarande arbets-lösa oftare än andra.
 Det skriver regeringen i rapporten.
 Och det finns fler exempel
 där det visserligen går bättre
 men inte tillräckligt bra.
 
-### Sveriges civilsamhälle planerar just nuen parallellrapport till kommittén
+### Sveriges civilsamhälle planerar just nu en parallellrapport till kommittén
 
 Sverige ska ha en ny dialog med kommittén.
-Innan dess vill den svenska funktions\-hinders\-rörelsen
+Innan dess vill den svenska funktions-hinders-rörelsen
 skicka en egen rapport till kommittén.
 De utgår ifrån en rapport som
 Funktionsrätt Sverige har skrivit.
@@ -269,7 +268,7 @@ Där finns fakta de kan använda
 när de skriver parallellrapporten.
 
 Rapporten de använder heter Respekt för rättigheter?
-Den är från år 2019\.
+Den är från år 2019.
 Rapporten handlar om hur Sverige
 lever upp till konventionen.
 Många organisationer var med och granskade det.
@@ -284,7 +283,7 @@ Många personer med funktionsnedsättning
 har inget stöd och ingen bostad.
 De har ingen utbildning och inget jobb.
 
-Det finns brister i lag\-stiftningen.
+Det finns brister i lag-stiftningen.
 Myndigheter och domstolar
 använder inte heller konventionen
 för att tolka rättigheter.
@@ -293,11 +292,11 @@ I rapporten ger organisationerna rekommendationer.
 De ger förslag på vad Sverige kan göra
 för att bättre leva upp till konventionen.
 
-### Sveriges dialog med kommittén ochvad kommittén rekommenderade Sverige
+### Sveriges dialog med kommittén och vad kommittén rekommenderade Sverige
 
 Sverige hade sin dialog med kommittén år 2014, i Genève.
-Då var tjänste\-personer med på mötet.
-De kom från olika departement på Regerings\-kansliet.
+Då var tjänste-personer med på mötet.
+De kom från olika departement på Regerings-kansliet.
 Kommittén skrev en sammanfattning om
 vad de kom fram till.
 
@@ -324,21 +323,21 @@ Det rekommenderar kommittén.
 ### Sverige fick beröm
 
 Kommittén berömde Sverige också.
-De tyckte att vår nya diskriminerings\-lag är bra.
+De tyckte att vår nya diskriminerings-lag är bra.
 I den står det att samhället ska vara tillgängligt.
 Om det inte är tillgängligt är det diskriminering.
 
 ### Det är bra att granska
 
 Kommittén tyckte alltså
-att nya diskriminerings\-lagen var bra.
+att nya diskriminerings-lagen var bra.
 Men de såg också brister.
 Företag med mindre än tio anställda
 behövde inte följa lagen.
 Det hade organisationerna i Sverige också kritiserat.
 
 Sverige tog därför bort undantaget i lagen.
-Det var år 2018\.
+Det var år 2018.
 Nu måste även små företag se till att
 personer med funktionsnedsättning
 inte har sämre möjligheter än andra.

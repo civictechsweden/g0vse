@@ -8,4 +8,4 @@ Inom ramen för den myndighets­gemensamma satsningen mot organiserad brottsligh
 
 Organiserad brottslighet tar pengar från det som är viktigt i samhället och gör att staten går miste om många miljarder kronor varje år. Ekobrotts­myndighetens kompetens är centralt i bekämp­ningen av den ekono­miska brotts­ligheten. En utredning tillsätts därför som ska föreslå hur arbetet mot den ekonomiska brotts­ligheten kan bedrivas så effektivt som möjligt.
 
-Utredaren ska påbörja sitt arbete i slutet av augusti i år och redovisa sitt uppdrag i februari 2025\. Till särskild utredare utses f.d. lagmannen Stefan Strömberg.
+Utredaren ska påbörja sitt arbete i slutet av augusti i år och redovisa sitt uppdrag i februari 2025. Till särskild utredare utses f.d. lagmannen Stefan Strömberg.

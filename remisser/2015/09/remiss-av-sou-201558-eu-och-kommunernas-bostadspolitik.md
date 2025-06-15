@@ -2,8 +2,7 @@
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat SOU 2015:58 EU och kommunernas bostadspolitik.
 
-
-Remissvaren ska ha kommit in till Näringsdepartementet senast den 11 december 2015\.
+Remissvaren ska ha kommit in till Näringsdepartementet senast den 11 december 2015.
 
 ## Remissinstanser:
 
@@ -82,12 +81,12 @@ Remissvaren ska ha kommit in till Näringsdepartementet senast den 11 december 2
 73. Sveriges Allmännyttiga Bostadsföretag (SABO)
 74. Sveriges byggindustrier
 75. Sveriges Förenade Studentkårer (SFS)
-76. Trä\- och möbelföretagens förening (TMF)
+76. Trä- och möbelföretagens förening (TMF)
 77. Villaägarnas Riksförbund
 
-Betänkandet EU och kommunernas bostadspolitik (SOU 2015:58\) remitteras härmed till ovanstående remissinstanser.
+Betänkandet EU och kommunernas bostadspolitik (SOU 2015:58) remitteras härmed till ovanstående remissinstanser.
 
-Remissvaren ska ha kommit in till Näringsdepartementet senast den 11 december 2015\. Remissvaren önskas i elektronisk form via e\-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator") och [Maria Edlund](mailto:maria.edlund@regeringskansliet.se "Maria Edlund") i både Word\- och pdf\-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck), N2015\-4746\-PUB, följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i promemorian. I remissvaret anges Regeringskansliets diarienummer N2015/4746/PUB.
+Remissvaren ska ha kommit in till Näringsdepartementet senast den 11 december 2015. Remissvaren önskas i elektronisk form via e-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator") och [Maria Edlund](mailto:maria.edlund@regeringskansliet.se "Maria Edlund") i både Word- och pdf-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck), N2015-4746-PUB, följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i promemorian. I remissvaret anges Regeringskansliets diarienummer N2015/4746/PUB.
 
 I remissen ligger att regeringen vill ha synpunkter på förslagen eller materialet i betänkandet.
 
@@ -95,9 +94,9 @@ Myndigheter under regeringen är skyldiga att svara på remissen. En myndighet a
 
 För andra remissinstanser innebär remissen en in­bju­dan att lämna synpunkter.
 
-Frågor under remisstiden kan ställas till K A [Stefan Svensson](mailto:stefan.svensson@regeringskansliet.se "Stefan Svensson"), telefonnummer 08\-405 16 74\.
+Frågor under remisstiden kan ställas till K A [Stefan Svensson](mailto:stefan.svensson@regeringskansliet.se "Stefan Svensson"), telefonnummer 08-405 16 74.
 
-Remissinstanserna kan utan kostnad få ytterligare högst ett exemplar av betänkandet. Exemplaren beställs hos Fritzes kundservice, 106 47 Stockholm. Telefon 08\-598 191 90, telefax 08\-598 191 91,
-e\-post, [order.fritzes@nj.se](mailto:order.fritzes@nj.se). Ange vid beställning att exemplaren är avsedda för remissändamål.
+Remissinstanserna kan utan kostnad få ytterligare högst ett exemplar av betänkandet. Exemplaren beställs hos Fritzes kundservice, 106 47 Stockholm. Telefon 08-598 191 90, telefax 08-598 191 91,
+e-post, [order.fritzes@nj.se](mailto:order.fritzes@nj.se). Ange vid beställning att exemplaren är avsedda för remissändamål.
 
-Råd om hur remissyttranden utformas finns i Statsrådsberedningens promemoria Svara på remiss – hur och varför (SB PM 2003:2\).
+Råd om hur remissyttranden utformas finns i Statsrådsberedningens promemoria Svara på remiss – hur och varför (SB PM 2003:2).

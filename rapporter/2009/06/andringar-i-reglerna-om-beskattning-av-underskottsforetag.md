@@ -4,4 +4,4 @@ I promemorian lämnas förslag avseende beräknandet av beloppsspärren gälland
 
 Syftet med det aviserade förslaget är att motverka att de nu gällande reglerna kan kringgås.
 
-Regeringen har den 4 juni 2009 i en skrivelse till riksdagen aviserat förslaget (skr. 2008/09:225\) och förklarat att det enligt regeringens mening föreligger särskilda skäl för att med stöd av undantagsbestämmelsen i 2 kap. 10 § andra stycket regeringsformen tillämpa de föreslagna bestämmelserna från och med dagen efter överlämnandet av skrivelsen, dvs. från och med den 5 juni 2009\.
+Regeringen har den 4 juni 2009 i en skrivelse till riksdagen aviserat förslaget (skr. 2008/09:225) och förklarat att det enligt regeringens mening föreligger särskilda skäl för att med stöd av undantagsbestämmelsen i 2 kap. 10 § andra stycket regeringsformen tillämpa de föreslagna bestämmelserna från och med dagen efter överlämnandet av skrivelsen, dvs. från och med den 5 juni 2009.

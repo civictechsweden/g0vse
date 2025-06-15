@@ -8,6 +8,6 @@ Inför budgetpropositionen för 2025 har Finansdepartementet remitterat ett anta
 
 Förslagen innebär att beloppsgränsen för positiv räntefördelning slopas och att beloppsgränsen för negativ räntefördelning höjs från ett negativt kapitalunderlag på 50 000 kronor till 500 000 kronor.
 
-Förslagen innebär också höjningar av vissa beloppsgränser vid beskattningen av enskilda näringsidkare som upprättar förenklat årsbokslut. Det gäller undantaget för värdering av lagertillgångar och möjligheten att göra värdeminskningsavdrag på inventarier med hela avskrivningsunderlaget. De föreslagna ändringarna innebär att beloppsgränserna höjs från 5 000 kronor till ett halvt prisbasbelopp (28 650 kronor för 2024\).
+Förslagen innebär också höjningar av vissa beloppsgränser vid beskattningen av enskilda näringsidkare som upprättar förenklat årsbokslut. Det gäller undantaget för värdering av lagertillgångar och möjligheten att göra värdeminskningsavdrag på inventarier med hela avskrivningsunderlaget. De föreslagna ändringarna innebär att beloppsgränserna höjs från 5 000 kronor till ett halvt prisbasbelopp (28 650 kronor för 2024).
 
-Ändringarna föreslås träda i kraft den 1 januari 2025\.
+Ändringarna föreslås träda i kraft den 1 januari 2025.

@@ -10,9 +10,9 @@ området och i så fall föreslå föreskriftsrättens omfattning,
 samordning mellan den sektorsövergripande och sektorsspecifika nivån,
 • överväga hur en effektiv styrning av interoperabilitet bör organiseras,
 • överväga om det finns behov av en reglering av en förvaltningsgemensam informationsmodell,
-• lämna de författningsförslag som övervägandena föranleder, med hänsyn tagen till de befintliga krav som finns i fråga om bl.a. arkivering, informations\- och cybersäkerhet, nationell säkerhet, det offentlighets\- och sekretessrättsliga regelverket samt tillämplig dataskyddsreglering, och
+• lämna de författningsförslag som övervägandena föranleder, med hänsyn tagen till de befintliga krav som finns i fråga om bl.a. arkivering, informations- och cybersäkerhet, nationell säkerhet, det offentlighets- och sekretessrättsliga regelverket samt tillämplig dataskyddsreglering, och
 • bedöma behovet av ytterligare utredningsinsatser.
 
 Utredaren ska beakta eventuella behov av stärkt informationssäkerhet som föranleds av stärkt interoperabilitet. I uppdraget ingår dock inte att föreslå ändringar i regelverken för informationssäkerhet, säkerhetsskydd, dataskydd eller offentlighet och sekretess.
 
-Uppdraget ska redovisas till Regeringskansliet (Infrastrukturdepartementet) senast den 15 december 2023\.
+Uppdraget ska redovisas till Regeringskansliet (Infrastrukturdepartementet) senast den 15 december 2023.

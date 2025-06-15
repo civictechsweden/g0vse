@@ -1,9 +1,8 @@
 # Remiss av betänkandet Med undervisningsskicklighet i centrum – ett ramverk för lärares och rektorers professionella utveckling
 
-Här kan du ta del av till vilka instanser som regeringen har remitterat betänkandet Med undervisningsskicklighet i centrum – ett ramverk för lärares och rektorers professionella utveckling (SOU 2018:17\).
+Här kan du ta del av till vilka instanser som regeringen har remitterat betänkandet Med undervisningsskicklighet i centrum – ett ramverk för lärares och rektorers professionella utveckling (SOU 2018:17).
 
-
-Sista dag att svara på remissen är den 29 juni 2018\.
+Sista dag att svara på remissen är den 29 juni 2018.
 
 ## Remissinstanser
 
@@ -23,9 +22,9 @@ Sista dag att svara på remissen är den 29 juni 2018\.
 14 Sameskolstyrelsen
 15 Skolväsendets överklagandenämnd
 16 Skolforskningsinstitutet
-17 Myndigheten för ungdoms\- och civilsamhällefrågor
+17 Myndigheten för ungdoms- och civilsamhällefrågor
 18 Universitetskanslersämbetet
-19 Universitets\- och högskolerådet
+19 Universitets- och högskolerådet
 20 Göteborgs universitet
 21 Lunds universitet
 22 Stockholms universitet
@@ -39,7 +38,7 @@ Sista dag att svara på remissen är den 29 juni 2018\.
 30 Mittuniversitetet
 31 Umeå universitet
 32 Örebro universitet
-33 Gymnastik\- och idrottshögskolan
+33 Gymnastik- och idrottshögskolan
 34 Högskolan i Borås
 35 Högskolan Dalarna
 36 Högskolan i Gävle
@@ -55,7 +54,7 @@ Sista dag att svara på remissen är den 29 juni 2018\.
 46 Chalmers tekniska högskola AB
 47 Stiftelsen Högskolan i Jönköping
 48 Arbetsgivarverket
-49 Institutet för arbetsmarknads\- och utbildningspolitisk utvärdering
+49 Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
 (IFAU)
 50 Diskrimineringsombudsmannen
 51 Regelrådet

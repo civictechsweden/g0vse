@@ -8,6 +8,6 @@ Regeringen presenterar nu en ny modell som ökar transparensen och öppnar upp a
 
 Genom den nya modellen möjliggörs för fler civilsamhällesorganisationer att ha direktavtal med Sida. Det kommer att bidra till ökad effektivitet, konkurrens och ett mer pluralistiskt civilsamhälle. Dessutom skapas möjligheter för fler typer av organisationer att bidra till biståndets genomförande – såväl större som mindre, erfarna som nya och innovativa.
 
-En utgångspunkt i framtagandet av modellen har varit att värna samarbetet mellan svenska civilsamhällesorganisationer och deras partnerorganisationer världen över. Mot denna bakgrund möjliggör regeringen nu en ansvarfull övergångsperiod fram till den 30 september 2025\.
+En utgångspunkt i framtagandet av modellen har varit att värna samarbetet mellan svenska civilsamhällesorganisationer och deras partnerorganisationer världen över. Mot denna bakgrund möjliggör regeringen nu en ansvarfull övergångsperiod fram till den 30 september 2025.
 
-Strategin ska gälla under perioden 2025–2029\.
+Strategin ska gälla under perioden 2025–2029.

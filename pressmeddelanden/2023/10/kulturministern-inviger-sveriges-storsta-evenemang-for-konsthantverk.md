@@ -2,7 +2,7 @@
 
 Stockholm Craft Week syftar till att synliggöra konsthantverket och stärka dess position på den samtida konstscenen som helhet.
 
-\- Svenskt konsthantverk håller högsta nivå och är en viktig kulturbärare både nationellt och internationellt, säger kulturminister Parisa Liljestrand.
+- Svenskt konsthantverk håller högsta nivå och är en viktig kulturbärare både nationellt och internationellt, säger kulturminister Parisa Liljestrand.
 
 Förra året samlade Stockholm Craft Week runt 13 000 besökare och i år firar evenemanget sitt femårsjubileum. Årets upplaga inleds på Kulturhuset med den internationella konferensen ”Curating Craft”.
 

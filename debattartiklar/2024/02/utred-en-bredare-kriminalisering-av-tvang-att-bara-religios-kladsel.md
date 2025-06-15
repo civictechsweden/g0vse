@@ -1,7 +1,6 @@
 # "Utred en bredare kriminalisering av tvång att bära religiös klädsel"
 
-Debattartikel av jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg, socialminister Jakob Forssmed, socialtjänstminister Camilla Waltersson Grönvall och Michael Rubbestad, jämställdhetspolitisk talesperson (SD), Svenska Dagbladet, den 16 februari 2024\.
-
+Debattartikel av jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg, socialminister Jakob Forssmed, socialtjänstminister Camilla Waltersson Grönvall och Michael Rubbestad, jämställdhetspolitisk talesperson (SD), Svenska Dagbladet, den 16 februari 2024.
 
 Hederskulturens normer, värderingar och uttryck hör inte hemma i vårt samhälle. I Tidöavtalet är vi överens om att straffen för hedersrelaterat förtryck ska skärpas, stödet till utsatta förbättras och myndigheternas arbete effektiviseras. Flera viktiga åtgärder har redan presenterats, och nu tar vi ytterligare steg framåt. För oss är det en självklarhet att hedersförtryck aldrig kan accepteras. Detta ska gälla för alla och i alla lägen.
 

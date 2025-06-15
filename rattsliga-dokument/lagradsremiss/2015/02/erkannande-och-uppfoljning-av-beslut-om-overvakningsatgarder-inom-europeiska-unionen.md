@@ -6,4 +6,4 @@ Syftet med regleringen är att främja användningen av alternativa åtgärder t
 
 I lagrådsremissen föreslår regeringen att det införs en ny lag om erkännande och uppföljning av beslut om övervakningsåtgärder inom Europeiska unionen. Lagen innehåller dels regler om ett nytt slags tvångsmedel, beslut om övervakningsåtgärder, som ska kunna erkännas och följas upp i en annan medlemsstat, dels regler om att Sverige ska kunna erkänna och följa upp ett utländskt beslut om övervakningsåtgärder.
 
-Den nya lagen, liksom de följdändringar denna för med sig, föreslås träda i kraft den 1 augusti 2015\.
+Den nya lagen, liksom de följdändringar denna för med sig, föreslås träda i kraft den 1 augusti 2015.

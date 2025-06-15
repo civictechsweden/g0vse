@@ -4,4 +4,4 @@ I propositionen lämnas förslag om att en arbetskraftsinvandrare genom sin anst
 
 Lagändringen föreslås träda i kraft den dag som regeringen bestämmer.
 
-(Rättelsebladet avser närvarande statsråd vid regeringssammanträdet den 1 september 2022\.)
+(Rättelsebladet avser närvarande statsråd vid regeringssammanträdet den 1 september 2022.)

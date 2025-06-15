@@ -1,17 +1,16 @@
 # Rest- och bristsituationer av läkemedel ska förebyggas
 
-Rest\- och bristsituationer av läkemedel uppstår allt oftare, både i Sverige och globalt sett. Regeringen följer frågan noga och arbetar för att stärka beredskapen kring läkemedelsförsörjning, att mildra effekterna vid restnoteringar och för att bristsituationer inte ska uppstå.
-
+Rest- och bristsituationer av läkemedel uppstår allt oftare, både i Sverige och globalt sett. Regeringen följer frågan noga och arbetar för att stärka beredskapen kring läkemedelsförsörjning, att mildra effekterna vid restnoteringar och för att bristsituationer inte ska uppstå.
 
 – Förskrivning av läkemedel är en av de vanligare och ofta enklaste sjukvårdsåtgärderna. Men varje gång en patient inte kan få ut sina läkemedel skapas risker för patienten och ökad belastning på sjukvården. Regeringen genomför därför flera åtgärder för att förebygga och mildra effekterna av det, säger sjukvårdsminister Acko Ankarberg Johansson.
 
-Rest\- och bristsituationer uppstår när ett läkemedelsföretag inte kan leverera läkemedel så att tillgång möter efterfrågan. Det finns en mängd orsaker till att sådana situationer uppstår och därför krävs flera olika åtgärder för att komma till rätta med problemet.
+Rest- och bristsituationer uppstår när ett läkemedelsföretag inte kan leverera läkemedel så att tillgång möter efterfrågan. Det finns en mängd orsaker till att sådana situationer uppstår och därför krävs flera olika åtgärder för att komma till rätta med problemet.
 
 ## Läkemedelsverket ser över hur problemen kan förebyggas och hanteras
 
-Regeringen har gett Läkemedelsverket i uppdrag att se över hur rest\- och bristsituationer kan hanteras och förebyggas. Myndigheten ska bland annat kartlägga hur dessa situationer hanteras i andra länder och peka på åtgärder som kan mildra effekter av rest\- och bristsituationer. En del av uppdraget gäller också hur farmaceuterna på apoteken kan hantera situationer när läkemedel är restnoterade. Läkemedelsverket ska då exempelvis se över olika möjligheter som skulle kunna underlätta för både patienter, apotek och för vården när ett läkemedel inte finns att få tag på. Uppdraget innehåller också frågor av mer förebyggande karaktär.
+Regeringen har gett Läkemedelsverket i uppdrag att se över hur rest- och bristsituationer kan hanteras och förebyggas. Myndigheten ska bland annat kartlägga hur dessa situationer hanteras i andra länder och peka på åtgärder som kan mildra effekter av rest- och bristsituationer. En del av uppdraget gäller också hur farmaceuterna på apoteken kan hantera situationer när läkemedel är restnoterade. Läkemedelsverket ska då exempelvis se över olika möjligheter som skulle kunna underlätta för både patienter, apotek och för vården när ett läkemedel inte finns att få tag på. Uppdraget innehåller också frågor av mer förebyggande karaktär.
 
-Mer information: [Läkemedelsverket ska se över hur rest\- och bristsituationer av läkemedel kan förebyggas](/pressmeddelanden/2023/05/lakemedelsverket-ska-se-over-hur-rest--och-bristsituationer-av-lakemedel-kan-forebyggas/ "Läkemedelsverket ska se över hur rest- och bristsituationer av läkemedel kan förebyggas")
+Mer information: [Läkemedelsverket ska se över hur rest- och bristsituationer av läkemedel kan förebyggas](/pressmeddelanden/2023/05/lakemedelsverket-ska-se-over-hur-rest--och-bristsituationer-av-lakemedel-kan-forebyggas/ "Läkemedelsverket ska se över hur rest- och bristsituationer av läkemedel kan förebyggas")
 
 ## Ett fokusområde i läkemedelsstrategin
 
@@ -25,17 +24,17 @@ Mer information: [Ny läkemedelsstrategi med fokus på förbättrad tillgänglig
 
 Den 1 juli 2023 trädde ändringar i läkemedelslagstiftningen i kraft som ska stärka försörjningsberedskapen och därmed också förhindra eller minska konsekvenserna av bristsituationer. Den nya regleringen innebär bland annat en möjlighet att ta ut sanktionsavgifter av läkemedelsföretag som inte anmäler försäljningsuppehåll på föreskrivet sätt och en skyldighet för öppenvårdsapotek att anpassa sina lager utifrån konsumenternas behov så att så många patienter som möjligt ska kunna expedieras direkt.
 
-Mer information: [Vissa frågor om hälso\- och sjukvårdens försörjningsberedskap Prop. 2022/23:45](/rattsliga-dokument/proposition/2023/01/prop.-20222345)
+Mer information: [Vissa frågor om hälso- och sjukvårdens försörjningsberedskap Prop. 2022/23:45](/rattsliga-dokument/proposition/2023/01/prop.-20222345)
 
 ## Nationell lägesbild över tillgång och efterfrågan för läkemedel
 
-Läkemedelsverket och E\-hälsomyndigheten ska gemensamt förbereda ett system för att ta fram en nationell lägesbild över tillgång och efterfrågan för läkemedel. I uppdraget ingår bland annat att förbereda för en framtida daglig inrapportering av information om försäljning och lager av läkemedel från partihandel och öppenvårdsapotek. Myndigheterna ska även analysera konsekvenser av att inkludera veterinärmedicinska läkemedel i informationsinsamlingen, samt utreda hur informationsinsamlingen ska ske för vårdgivare som sköter läkemedelsförsörjningen till sjukhus i egen regi.
+Läkemedelsverket och E-hälsomyndigheten ska gemensamt förbereda ett system för att ta fram en nationell lägesbild över tillgång och efterfrågan för läkemedel. I uppdraget ingår bland annat att förbereda för en framtida daglig inrapportering av information om försäljning och lager av läkemedel från partihandel och öppenvårdsapotek. Myndigheterna ska även analysera konsekvenser av att inkludera veterinärmedicinska läkemedel i informationsinsamlingen, samt utreda hur informationsinsamlingen ska ske för vårdgivare som sköter läkemedelsförsörjningen till sjukhus i egen regi.
 
 Mer information på ESV:s webbplats: [Regleringsbrev 2024 Myndighet Läkemedelsverket](https://www.esv.se/statsliggaren/regleringsbrev/?RBID=24075)
 
 ## Internationell samverkan viktig för ett globalt problem
 
-Rest\- och bristsituationer uppstår ofta i flera länder då många läkemedelsföretag verkar i en global kontext.  De problem som uppstår i samband med rest\- och bristsituationer märks därför även i många andra länder, såväl i Norden som i övriga EU. Läkemedel köps och säljs via globala värdekedjor. För att möta de restsituationer som uppkommer krävs flera olika åtgärder, bland annat internationellt samarbete. Regeringen för därför dialoger om detta i både EU\-sammanhang och inom Nordiska ministerrådet.
+Rest- och bristsituationer uppstår ofta i flera länder då många läkemedelsföretag verkar i en global kontext.  De problem som uppstår i samband med rest- och bristsituationer märks därför även i många andra länder, såväl i Norden som i övriga EU. Läkemedel köps och säljs via globala värdekedjor. För att möta de restsituationer som uppkommer krävs flera olika åtgärder, bland annat internationellt samarbete. Regeringen för därför dialoger om detta i både EU-sammanhang och inom Nordiska ministerrådet.
 
 Läkemedelsverket har haft i uppdrag att göra en kartläggning av den svenska läkemedelsproduktionen. Uppdraget, som var del av samarbetet inom Nordiska ministerrådet, genomfördes i samarbete med de nordiska länderna. Syftet med uppdraget var att ta fram en översiktsbild över tillverkningsanläggningar i Sverige och Norden, en kunskap som är viktig i ledet att minska globala beroenden inom läkemedelsförsörjningen.
 

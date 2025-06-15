@@ -1,7 +1,6 @@
 # Regeringsförklaringen 6 oktober 2006
 
-Fredrik Reinfeldt, riksdagen, den 6 oktober 2006\.
-
+Fredrik Reinfeldt, riksdagen, den 6 oktober 2006.
 
 Regeringsförklaringen är statsministerns årliga tal inför riksdagen vid öppnandet av riksmötet.
 

@@ -1,7 +1,6 @@
 # Utrikesminister Tobias Billström om att Johan Floderus och Saeed Azizi kommit hem till Sverige
 
-Talmanus från pressträff den 15 juni 2024\.
-
+Talmanus från pressträff den 15 juni 2024.
 
 Det har nu gått över två år sedan Johan Floderus godtyckligt frihetsberövades i Iran och närmare sju månader sedan Saeed Azizi frihetsberövades, och det är med stor lättnad och glädje som jag kan konstatera att vi till slut lyckades få hem båda två.
 
@@ -11,9 +10,9 @@ Den här regeringen har ända sedan vi tillträdde hösten 2022 arbetat intensiv
 
 Den svenska ambassaden i Teheran har framfört tydliga budskap till den iranska regeringen men de har också gjort vad de kan för att underlätta Johans och Saeeds situation i fängelset. Därtill har de stöttat på andra sätt.
 
-Jag har också personligen haft flera möten med min iranske utrikesministerkollega. Dessa möten har skett både i New York i samband med FN\-veckan men också via telefon. Vid alla de här samtalen har jag framfört Sveriges och regeringen tydliga budskap; Våra medborgare är godtyckligt frihetsberövade och måste släppas omedelbart.
+Jag har också personligen haft flera möten med min iranske utrikesministerkollega. Dessa möten har skett både i New York i samband med FN-veckan men också via telefon. Vid alla de här samtalen har jag framfört Sveriges och regeringen tydliga budskap; Våra medborgare är godtyckligt frihetsberövade och måste släppas omedelbart.
 
-Samtidigt har vi haft en tät och nära dialog med EU. Utrikeschef Josep Borell har arbetat outtröttligt för Johan Floderus frigivning. Johan är ju som många säkert känner till en uppskattad tjänsteman och medarbetare på EU\-kommissionen.
+Samtidigt har vi haft en tät och nära dialog med EU. Utrikeschef Josep Borell har arbetat outtröttligt för Johan Floderus frigivning. Johan är ju som många säkert känner till en uppskattad tjänsteman och medarbetare på EU-kommissionen.
 
 Helt grundläggande har så klart varit statsministerns outtröttliga engagemang för att få hem de oskyldigt fängslade svenskarna.
 

@@ -10,4 +10,4 @@ postspärr, utöver chefen för Tullverket, också ska gälla för chefen för
 Tullverkets rättsavdelning, att ett beslut om kvarhållande får gälla högst
 en månad, samt viss utökning av tystnadsplikten.
 
-Lagändringarna föreslås träda i kraft den 1 mars 2021\.
+Lagändringarna föreslås träda i kraft den 1 mars 2021.

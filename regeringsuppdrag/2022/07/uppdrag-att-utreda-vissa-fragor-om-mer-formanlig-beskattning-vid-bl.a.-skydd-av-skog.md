@@ -2,7 +2,6 @@
 
 Regeringen ger Skatteverket i uppdrag att analysera och lämna förslag på hur skattereglerna kan göras mer gynnsamma för att öka incitamenten till formell naturvårdsavsättning, samtidigt som bl.a. risken för skatteundandragande och den administrativa bördan ska beaktas.
 
-
 Uppdraget avser
 
 * hur intrångsersättning eller löseskilling som ges för naturvårdande ändamål på ett mer ändamålsenligt sätt kan beskattas inom ramen för systemet med ersättningsfond och

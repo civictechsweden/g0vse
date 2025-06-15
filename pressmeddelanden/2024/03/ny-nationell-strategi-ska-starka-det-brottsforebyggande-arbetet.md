@@ -16,4 +16,4 @@ I skrivelsen Barriärer mot brott – en socialpreventiv strategi mot kriminella
 
 Det handlar bland annat om att utveckla det brottsförebyggande arbetet i skolan, stärka föräldraansvaret och förbättra stödet till vårdnadshavare, ge socialtjänsten fler möjligheter att ge stöd och hjälp till barn och unga och att utveckla det återfallsförebyggande arbetet.
 
-Arbetet med att ta fram strategin påbörjades under 2023\. Parallellt med arbetet i Regeringskansliet har kunskap inhämtats genom verksamhetsbesök, möten samt dialoger med forskare och representanter från myndigheter, kommuner, näringsliv och civilsamhälle.
+Arbetet med att ta fram strategin påbörjades under 2023. Parallellt med arbetet i Regeringskansliet har kunskap inhämtats genom verksamhetsbesök, möten samt dialoger med forskare och representanter från myndigheter, kommuner, näringsliv och civilsamhälle.

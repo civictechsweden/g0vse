@@ -11,4 +11,4 @@ Utredaren ska bl.a.
 
 Utredaren ska noga väga behovet av en effektiv brotts­bekämp­ning mot den enskildes rätt till skydd för sin person­liga integritet.
 
-Uppdraget ska redovisas senast den 20 februari 2023\.
+Uppdraget ska redovisas senast den 20 februari 2023.

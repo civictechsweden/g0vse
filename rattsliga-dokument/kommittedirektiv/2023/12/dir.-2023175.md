@@ -8,4 +8,4 @@ Utredaren ska bl.a.
 * analysera om och i så fall hur deltagande i modersmålsundervisning påverkar elevers integration, studieresultat och kunskapsutveckling i svenska språket i olika stadier och skolformer, och
 * vid behov föreslå åtgärder för att säkerställa att modersmålsundervisningen inte inverkar negativt på elevers integration eller kunskapsutveckling i svenska språket.
 
-Uppdraget ska redovisas senast den 6 december 2024\.
+Uppdraget ska redovisas senast den 6 december 2024.

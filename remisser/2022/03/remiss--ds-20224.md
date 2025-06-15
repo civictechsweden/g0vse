@@ -4,4 +4,4 @@ Här kan du ta del av svaren från dem som har ombetts att svara på remissen Ds
 
 Övriga yttranden finns tillgängliga i departementet.
 
-Sista dag att svara på remissen är den 9 juni 2022\.
+Sista dag att svara på remissen är den 9 juni 2022.

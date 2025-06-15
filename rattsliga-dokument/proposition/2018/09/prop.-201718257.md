@@ -18,4 +18,4 @@ Bland nyheterna kan följande nämnas:
 * Möjligheten att använda engelska vid bevisupptagning i klanderprocessen utökas.
 * Det införs ett krav på prövningstillstånd i Högsta domstolen i klandermålen.
 
-Lagändringarna föreslås träda i kraft den 1 mars 2019\.
+Lagändringarna föreslås träda i kraft den 1 mars 2019.

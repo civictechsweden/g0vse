@@ -5,8 +5,8 @@ En särskild utredare ska utvärdera hur centraliseringen av administrativa tjä
 Utredaren ska bl.a.:
 
 * utvärdera hur centraliseringen av administrativa tjänster till Statens servicecenter har påverkat effektiviteten i den statliga administrationen,
-* utvärdera Statens servicecenters systematiska arbete med säkerhetsskydd och it\- och informationssäkerhet,
+* utvärdera Statens servicecenters systematiska arbete med säkerhetsskydd och it- och informationssäkerhet,
 * utreda förutsättningarna för en ökad anslutning till Statens servicecenter och ytterligare tjänster hos myndigheten som leder till ökad effektivitet, och
 * utreda förutsättningarna för att kommuner och regioner ska kunna ansluta sig till Statens servicecenters administrativa tjänster.
 
-Uppdraget ska redovisas senast den 15 september 2023\.
+Uppdraget ska redovisas senast den 15 september 2023.

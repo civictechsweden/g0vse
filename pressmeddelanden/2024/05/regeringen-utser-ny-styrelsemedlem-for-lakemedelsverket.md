@@ -4,4 +4,4 @@ Nils Gunnar Billinger, som varit ordförande sedan tidigare, för förnyat föro
 
 Även Katarina Kämpe, kommundirektör i Täby, och Per Johansson, myndighetschef för Revisorsinspektionen, får förnyade förordnanden som ledamöter.
 
-Pia Näsvall, hälso\- och sjukvårdsdirektör för Region Norrbotten, tillkommer som ny ledamot.
+Pia Näsvall, hälso- och sjukvårdsdirektör för Region Norrbotten, tillkommer som ny ledamot.

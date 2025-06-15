@@ -8,8 +8,8 @@ Hushållens skuldsättning har ökat de senaste åren. All skuldsättning är in
 
 – Det är ett välkommet förslag att ränteavdraget för dessa lån fasas ut. Det är viktigt i kombination med flera åtgärder regeringen vidtar för att skydda konsumenter från att hamna i en mångårig skuldfälla och för att minska det lidande som överskuldsättning innebär, säger civilminister Erik Slottner.
 
-– Med den här budgeten vidtar vi viktiga åtgärder för att människor inte ska hamna i livslång skuldsättning. Att fasa ut ränteavdraget för blancolån tillsammans med åtgärder för överskuldsättning är viktiga verktyg för att hjälpa människor att inte hamna i klorna på oseriösa långivare. Istället vill vi göra det förmånligare att spara och öka människors frihet och egenmakt, säger Cecilia Rönn, ekonomisk\-politisk talesperson för Liberalerna.
+– Med den här budgeten vidtar vi viktiga åtgärder för att människor inte ska hamna i livslång skuldsättning. Att fasa ut ränteavdraget för blancolån tillsammans med åtgärder för överskuldsättning är viktiga verktyg för att hjälpa människor att inte hamna i klorna på oseriösa långivare. Istället vill vi göra det förmånligare att spara och öka människors frihet och egenmakt, säger Cecilia Rönn, ekonomisk-politisk talesperson för Liberalerna.
 
-Förslaget föreslås träda i kraft 1 januari 2025 och öka skatteintäkterna med ca 4,3 miljarder kronor 2025 och beräknas öka skatteintäkterna ytterligare med ca 4,3 miljarder kronor 2026\. Totalt innebär förslaget att skatteintäkterna beräknas öka med 8,7 miljarder kronor när förslaget är helt infasat.
+Förslaget föreslås träda i kraft 1 januari 2025 och öka skatteintäkterna med ca 4,3 miljarder kronor 2025 och beräknas öka skatteintäkterna ytterligare med ca 4,3 miljarder kronor 2026. Totalt innebär förslaget att skatteintäkterna beräknas öka med 8,7 miljarder kronor när förslaget är helt infasat.
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

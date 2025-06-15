@@ -11,4 +11,4 @@ I uppdraget ingår att
 * ta ställning till om det avskaffade steriliseringskravet och förbudet mot bibehållen fortplantningsförmåga vid ändrad könstillhörighet kan medföra problem vid tillämpningen av bl.a. den föräldraskapsrättsliga lagstiftningen, samt
 * föreslå de följdändringar i den föräldraskapsrättsliga regleringen och i annan lagstiftning som behövs.
 
-Utredaren ska i ett delbetänkande redovisa den del av uppdraget som avser ensamståendes möjlighet till assisterad befruktning och nödvändiga följdändringar senast den 14 maj 2014\. Uppdraget i övrigt ska redovisas senast den 24 juni 2015\.
+Utredaren ska i ett delbetänkande redovisa den del av uppdraget som avser ensamståendes möjlighet till assisterad befruktning och nödvändiga följdändringar senast den 14 maj 2014. Uppdraget i övrigt ska redovisas senast den 24 juni 2015.

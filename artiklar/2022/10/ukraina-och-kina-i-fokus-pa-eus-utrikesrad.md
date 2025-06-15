@@ -1,7 +1,6 @@
 # Ukraina och Kina i fokus på EU:s utrikesråd
 
-När EU\-ländernas utrikesministrar möttes i Luxemburg stod EU:s fortsatta stöd till Ukraina och åtgärder mot Ryssland på dagordningen. Också EU\-Kina relationen diskuterades.
-
+När EU-ländernas utrikesministrar möttes i Luxemburg stod EU:s fortsatta stöd till Ukraina och åtgärder mot Ryssland på dagordningen. Också EU-Kina relationen diskuterades.
 
 ## Rapport från EU:s höga representant för utrikesfrågor
 

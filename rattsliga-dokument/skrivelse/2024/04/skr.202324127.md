@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om styrningen av Business Sweden
 
-I skrivelsen redogör regeringen för sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen lämnar i rapporten Business Sweden – styrningen av Sveriges export\- och investeringsråd (RiR 2023:27\).
+I skrivelsen redogör regeringen för sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen lämnar i rapporten Business Sweden – styrningen av Sveriges export- och investeringsråd (RiR 2023:27).
 
 Riksrevisionen har granskat effektiviteten i styrningen av Business
 Sweden. Riksrevisionens övergripande slutsats är att styrningen av

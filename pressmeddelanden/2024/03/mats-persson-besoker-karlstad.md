@@ -1,6 +1,6 @@
 # Mats Persson besöker Karlstad
 
-Dagen inleds på Karlstads universitet där ministern kommer att få en presentation om Forskargruppen Rose och deras arbete kring hur ämnesdidaktisk forskning bidrar till teori\- och praktikutveckling i skola och lärarutbildning, i synnerhet när det gäller naturvetenskap, matematik och teknik.
+Dagen inleds på Karlstads universitet där ministern kommer att få en presentation om Forskargruppen Rose och deras arbete kring hur ämnesdidaktisk forskning bidrar till teori- och praktikutveckling i skola och lärarutbildning, i synnerhet när det gäller naturvetenskap, matematik och teknik.
 
 Det blir också fokus på hur strategisk samverkan och partnerskap mellan universitetet, regionen och näringslivet stärker forskning och innovation vid lärosätet samt bidrar till regional utveckling. Besöket avslutas med ett samtal med Karlstad Studentkår och universitetsledningen.
 

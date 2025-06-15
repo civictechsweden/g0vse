@@ -8,7 +8,7 @@ Utrikesminister **Tobias Billström** – Sveriges säkerhetspolitiska framtid
 
 Justitieminister **Gunnar Strömmer** – Det förändrade säkerhetsläget
 
-Minister för civilt försvar **Carl\-Oskar Bohlin** – Att skapa samhällelig motståndskraft kan inte vänta
+Minister för civilt försvar **Carl-Oskar Bohlin** – Att skapa samhällelig motståndskraft kan inte vänta
 
 ### Måndag 8 januari
 

@@ -16,6 +16,6 @@ I lagråds­remissen föreslår regeringen bland annat följande:
 * Överskotts­information som har kommit fram vid hemliga tvångs­medel ska få användas för andra ändamål.
 * Rättssäkerheten för den enskilde ska stärkas, bland annat genom för­bättrade möjlig­heter till insyn och tillsyn.
 
-Lagändringarna föreslås träda i kraft den 1 oktober 2023\.
+Lagändringarna föreslås träda i kraft den 1 oktober 2023.
 
 Lagråds­remissen bygger på en överens­kommelse mellan Sverige­demokraterna, Moderaterna, Krist­demokraterna och Liberalerna.

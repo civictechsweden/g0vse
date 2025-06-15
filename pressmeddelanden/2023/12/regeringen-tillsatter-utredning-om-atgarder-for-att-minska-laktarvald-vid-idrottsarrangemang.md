@@ -14,4 +14,4 @@ Utredningen ska ta ett brett grepp om läktarvåldsfrågan och överväga såvä
 
 Utredaren ska även undersöka och beskriva hur frågor som omfattas av uppdraget regleras i länder som till exempel Danmark, England, Nederländerna, Italien och Portugal.
 
-Uppdraget ska redovisas senast den 31 mars 2025\.
+Uppdraget ska redovisas senast den 31 mars 2025.

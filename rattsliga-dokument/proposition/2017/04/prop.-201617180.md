@@ -8,6 +8,6 @@ För att ytterligare stärka enskildas rättssäkerhet vill regeringen att regle
 
 Regeringen föreslår även ändringar i förvaltningsprocesslagen och lagen om överklagande av beslut av enskilda organ med offentliga förvaltningsuppgifter. Ändringarna innebär anpassningar till utformningen av motsvarande bestämmelser i den nya förvaltningslagen.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2018\.
+Lagändringarna föreslås träda i kraft den 1 juli 2018.
 
 [Pressmeddelande: Ny förvaltningslag förenklar kontakten med myndigheter](/pressmeddelanden/2017/04/ny-forvaltningslag-forenklar-kontakten-med-myndigheter/)

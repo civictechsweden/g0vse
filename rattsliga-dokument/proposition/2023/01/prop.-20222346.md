@@ -6,4 +6,4 @@ Den föreslagna lagen utgör en omarbetning av den nuvarande mervärdesskattelag
 
 I den nya lagen införs även bestämmelserna i lagen om särskilda ordningar för mervärdesskatt för distansförsäljning av varor och för tjänster samt vissa bestämmelser i lagen om frihet från skatt vid import, m.m. som endast avser mervärdesskatt. Vidare föreslås följdändringar i flera lagar.
 
-Den nya lagen och övriga lagändringar föreslås träda i kraft den 1 juli 2023\.
+Den nya lagen och övriga lagändringar föreslås träda i kraft den 1 juli 2023.

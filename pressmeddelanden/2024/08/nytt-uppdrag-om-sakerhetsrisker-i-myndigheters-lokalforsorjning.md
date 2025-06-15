@@ -10,4 +10,4 @@ Regeringen ger därför Domstolsverket, Kriminalvården och Polismyndigheten i u
 
 Uppdraget ska genomföras i samverkan med Ekobrottsmyndigheten, Säkerhetspolisen och Åklagarmyndigheten, samt andra relevanta myndigheter och aktörer.
 
-Uppdraget ska redovisas senast den 30 december 2024\.
+Uppdraget ska redovisas senast den 30 december 2024.

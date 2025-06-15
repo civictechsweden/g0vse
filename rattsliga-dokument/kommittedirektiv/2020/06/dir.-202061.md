@@ -1,6 +1,6 @@
 # Pantsystem för småelektronik
 
-En särskild utredare ska föreslå hur producentansvaren för elutrustning kan kompletteras med krav på pant för småelektronik. Med småelektronik menas exempelvis mobiltelefoner, läsplattor och annan mindre elektronisk utrustning. Syftet med uppdraget är att öka insamlingen och återvinningen av elavfall och på så sätt bidra till giftfria, resurseffektiva kretslopp och en cirkulär ekonomi. Uppdraget ska redovisas senast den 1 april 2021\.
+En särskild utredare ska föreslå hur producentansvaren för elutrustning kan kompletteras med krav på pant för småelektronik. Med småelektronik menas exempelvis mobiltelefoner, läsplattor och annan mindre elektronisk utrustning. Syftet med uppdraget är att öka insamlingen och återvinningen av elavfall och på så sätt bidra till giftfria, resurseffektiva kretslopp och en cirkulär ekonomi. Uppdraget ska redovisas senast den 1 april 2021.
 
 Utredaren ska bl.a.
 
@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * lämna nödvändiga författningsförslag,
 * om utredaren, när förslaget till pantsystem utformas, finner att andra alternativa lösningar än pant skulle vara mer kostnadseffektiva, mer samhällsekonomiskt effektiva, mer förenliga med en cirkulär ekonomi eller av andra skäl mer motiverade, bör även sådana lösningar, konsekvenser av dessa lösningar och författningsförslag presenteras.
 
-Uppdraget ska redovisas senast den 1 april 2021\.
+Uppdraget ska redovisas senast den 1 april 2021.

@@ -8,4 +8,4 @@ I dag ansvarar Kammarkollegiet för en övervägande del av arbetet med det allm
 
 Utredaren ska bland annat se över vilka verksamheter som bör samordnas och redovisa såväl de ekonomiska som personella konsekvenserna av samordningen av berörda myndigheters verksamhet och Miljöstyrningsrådet. Utredaren kan även föreslå andra åtgärder som bidrar till att effektivisera upphandlingsstödet.
 
-Uppdraget ska redovisas senast den 1 mars 2012\.
+Uppdraget ska redovisas senast den 1 mars 2012.

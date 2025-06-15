@@ -1,6 +1,6 @@
 # Försvarsminister Pål Jonson besökte Köpenhamn för möten i flera försvarsministerformat
 
-Den 20 november deltog försvarsminister Pål Jonson i möte med Norra gruppen och NB8 för att diskutera Ukrainas behov och ländernas stöd till Ukraina 2025\.
+Den 20 november deltog försvarsminister Pål Jonson i möte med Norra gruppen och NB8 för att diskutera Ukrainas behov och ländernas stöd till Ukraina 2025.
 
 Den 21 november träffades de nordiska försvarsministrarna inom ramen för Nordefco (det nordiska försvarssamarbetet). På agendan stod bland annat utvecklingen av det fortsatta nordiska samarbetet, samarbetet i Nato och hur Norden kan utveckla arbetet med att stödja Ukraina.
 

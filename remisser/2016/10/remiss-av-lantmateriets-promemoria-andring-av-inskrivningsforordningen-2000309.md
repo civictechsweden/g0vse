@@ -1,7 +1,6 @@
 # Remiss av Lantmäteriets promemoria Ändring av Inskrivningsförordningen (2000:309)
 
-Här kan du ta del av till vilka instanser som regeringen har remitterat Lantmäteriets promemoria Ändring av Inskrivningsförordningen (2000:309\).
-
+Här kan du ta del av till vilka instanser som regeringen har remitterat Lantmäteriets promemoria Ändring av Inskrivningsförordningen (2000:309).
 
 Promemorian med författningsförslag har upprättats av Lantmäteriet.
 
@@ -9,4 +8,4 @@ I promemorian föreslår Lantmäteriet att det ska bli möjligt för myndighete
 
 I remissen ligger att regeringen vill ha synpunkter på författningsförslagen och bedömningarna i promemorian.
 
-Remissvaren ska ha kommit in till Justitiedepartementet senast den 5 januari 2017\.
+Remissvaren ska ha kommit in till Justitiedepartementet senast den 5 januari 2017.

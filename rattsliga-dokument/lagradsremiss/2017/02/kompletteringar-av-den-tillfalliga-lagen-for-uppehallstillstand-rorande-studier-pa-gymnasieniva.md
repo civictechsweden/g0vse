@@ -11,6 +11,6 @@ Regeringen föreslår att
 
 I lagrådsremissen föreslår regeringen också vissa övriga ändringar i den tillfälliga lagen.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2017\.
+Lagändringarna föreslås träda i kraft den 1 juni 2017.
 
 [Pressmeddelande: Förslag om att studerande på gymnasienivå ska kunna få längre uppehållstillstånd](/pressmeddelanden/2017/02/forslag-om-att-studerande-pa-gymnasieniva-ska-kunna-fa-langre-uppehallstillstand/)

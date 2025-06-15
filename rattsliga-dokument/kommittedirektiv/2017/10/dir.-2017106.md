@@ -1,6 +1,6 @@
 # Översyn av arkivområdet
 
-En särskild utredare ska göra en bred översyn av arkivområdet. Det övergripande syftet är att säkerställa samhällets tillgång till allmänna handlingar både nu och i framtiden. Uppdraget ska redovisas senast den 18 november 2019\.
+En särskild utredare ska göra en bred översyn av arkivområdet. Det övergripande syftet är att säkerställa samhällets tillgång till allmänna handlingar både nu och i framtiden. Uppdraget ska redovisas senast den 18 november 2019.
 
 Utredaren ska bl.a.
 

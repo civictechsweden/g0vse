@@ -2,7 +2,7 @@
 
 I denna proposition lämnas förslag för att bland annat skapa bättre förutsättningar för patienter att vara delaktiga i sådan vård som ges med stöd av lagen om psykiatrisk tvångsvård och lagen om rättspsykiatrisk vård. De förslag som lämnas i propositionen innebär ändringar av dessa lagar.
 
-En central utgångspunkt inom all hälso\- och sjukvård i Sverige är att patienter så långt möjligt ska få vara delaktiga och utöva inflytande över den hälso\- och sjukvård de tar emot.
+En central utgångspunkt inom all hälso- och sjukvård i Sverige är att patienter så långt möjligt ska få vara delaktiga och utöva inflytande över den hälso- och sjukvård de tar emot.
 
 Vid vård som ges med stöd av lagen om psykiatrisk tvångsvård och lagen om rättspsykiatrisk vård får de begränsningar som gäller för bland annat patientens inflytande över vården aldrig gå utöver vad som är nödvändigt för att kunna genomföra vården.
 

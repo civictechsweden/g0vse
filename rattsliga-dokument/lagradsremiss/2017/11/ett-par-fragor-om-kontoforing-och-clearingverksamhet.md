@@ -11,4 +11,4 @@ gäller för clearingverksamhet som drivs av en clearingorganisation som
 även är en central värdepappersförvarare fram till dess att den centrala
 värdepappersförvararen är auktoriserad som värdepapperscentral.
 
-Lagändringarna föreslås träda i kraft den 1 maj 2018\.
+Lagändringarna föreslås träda i kraft den 1 maj 2018.

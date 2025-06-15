@@ -6,4 +6,4 @@ I propositionen föreslås bland annat följande ändringar i brottsbalken. Brot
 
 Utöver detta föreslås tre nya bestämmelser. Den första anger omständigheter som ska kunna medföra att tagande av muta eller givande av muta bedöms som grovt brott. De båda andra utgör nykriminaliseringar och straffbelägger dels så kallad handel med inflytande, dels vårdslös finansiering av mutbrott.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2012\.
+Lagändringarna föreslås träda i kraft den 1 juli 2012.

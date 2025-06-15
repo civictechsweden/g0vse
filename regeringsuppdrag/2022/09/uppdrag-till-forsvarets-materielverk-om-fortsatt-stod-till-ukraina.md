@@ -2,9 +2,8 @@
 
 Regeringen ger Försvarets materielverk i uppdrag att redovisa förslag på hur myndigheten, inom ramen för sitt verksamhetsområde, kan bidra till att fortsatt stödja Ukrainas försvar.
 
-
 Av redovisningen ska framgå vilka eventuella kostnader som blir
-konsekvensen av myndighetens förslag, när stödet kan lämnas samt påverkan på myndighetens verksamhet i övrigt inklusive styrning och kontroll. Redovisningen ska också innehålla en bedömning i fråga om de sekretess\- och säkerhetsskyddsaspekter som finns vid lämnande av stöd.
+konsekvensen av myndighetens förslag, när stödet kan lämnas samt påverkan på myndighetens verksamhet i övrigt inklusive styrning och kontroll. Redovisningen ska också innehålla en bedömning i fråga om de sekretess- och säkerhetsskyddsaspekter som finns vid lämnande av stöd.
 
 Uppdraget ska genomföras i samverkan med Försvarsmakten.
 

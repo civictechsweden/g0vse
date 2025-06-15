@@ -8,4 +8,4 @@ Vid utförandet av de nya uppgifterna kommer mer information än i dag att behö
 * en ny bestämmelse om sekretess till skydd för enskilda vid Brå, och
 * en ny bestämmelse som möjliggör att få ut uppgifter från viss brottsbekämpande verksamhet, om de behövs i ett ärende om fördjupad granskning.
 
-Den nya lagen och lagändringarna föreslås träda i kraft den 1 mars 2025\.
+Den nya lagen och lagändringarna föreslås träda i kraft den 1 mars 2025.

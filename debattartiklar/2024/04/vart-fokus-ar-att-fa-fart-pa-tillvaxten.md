@@ -1,7 +1,6 @@
 # ”Vårt fokus är att få fart på tillväxten”
 
-Debattartikel av finansminister Elisabeth Svantesson, ekonomisk\-politisk talesperson Oscar Sjöstedt (SD), ekonomisk\-politisk talesperson Hans Eklind (KD) och ekonomisk\-politisk talesperson Cecilia Rönn (L). Svenska Dagbladet, 15 april 2024\.
-
+Debattartikel av finansminister Elisabeth Svantesson, ekonomisk-politisk talesperson Oscar Sjöstedt (SD), ekonomisk-politisk talesperson Hans Eklind (KD) och ekonomisk-politisk talesperson Cecilia Rönn (L). Svenska Dagbladet, 15 april 2024.
 
 Med den budget vi presenterar idag ställer vi in siktet på att ta Sverige genom lågkonjunkturen så att den ekonomiska vintern kan övergå till vår. Ökade kostnader och höjda räntor till följd av de gångna årens höga inflation har tryckt ner tillväxten, pressat upp arbetslösheten och satt såväl hushåll och företag som välfärden under ekonomisk press.
 
@@ -19,16 +18,16 @@ Samtidigt som vi genomför nödvändiga investeringar för att stötta ekonomin 
 
 Hushållens köpkraft har minskat som en konsekvens av inflationen, men väntas successivt att återhämta sig i takt med att inflationen sjunker. Det kommer dock att ta tid innan köpkraften är återställd för alla hushåll. En viktig uppgift framöver i den ekonomiska politiken är därför att understödja återhämtningen i syfte att återställa alla hushålls köpkraft.
 
-Ska ekonomin växa måste fler vara med och bidra och ta de jobb som finns, där de finns. Då behöver de strukturella problemen på arbetsmarknaden åtgärdas. Det handlar inte minst om ökade krav i integrationspolitiken och att förstärka drivkrafterna till arbete och självförsörjning. Regeringen kommer att fortsätta arbetet med att återupprätta arbetslinjen i Sverige, bl.a. genom arbetet med en bidragsreform och en reformerad a\-kassa.
+Ska ekonomin växa måste fler vara med och bidra och ta de jobb som finns, där de finns. Då behöver de strukturella problemen på arbetsmarknaden åtgärdas. Det handlar inte minst om ökade krav i integrationspolitiken och att förstärka drivkrafterna till arbete och självförsörjning. Regeringen kommer att fortsätta arbetet med att återupprätta arbetslinjen i Sverige, bl.a. genom arbetet med en bidragsreform och en reformerad a-kassa.
 
-Ska Sverige bli rikare finns inga genvägar. Den ekonomiska politiken behöver styras tillbaka mot ett fokus på ekonomisk utveckling med åtgärder som ökar produktiviteten och förbättrar den långsiktiga tillväxten. Det är nödvändigt inte bara för att jobben ska bli fler, utan också för att vi ska kunna möta de investerings\- och resursbehov som ligger framför oss, inte minst när det gäller områden som försvar, rättsväsende och infrastruktur. En växande ekonomi är också vad som lägger grunden för välfärdens framtida finansiering. Det är kort sagt en nyckel för att Sverige ska kunna byggas både rikare och tryggare framåt. Vår tillväxtagenda kommer att fokusera på investeringar i infrastruktur, klimatomställning, forskning, energiproduktion samt regelförenklingar och kompetensförsörjning. En forsknings\- och innovationsproposition, som fokuserar på excellens, internationalisering och innovation kommer att läggas fram i slutet av året. Dessutom kommer regeringen i höst att lägga fram en infrastrukturproposition och utarbeta en strategi för nyindustrialiseringen och samhällsomvandlingen i norra Sverige.
+Ska Sverige bli rikare finns inga genvägar. Den ekonomiska politiken behöver styras tillbaka mot ett fokus på ekonomisk utveckling med åtgärder som ökar produktiviteten och förbättrar den långsiktiga tillväxten. Det är nödvändigt inte bara för att jobben ska bli fler, utan också för att vi ska kunna möta de investerings- och resursbehov som ligger framför oss, inte minst när det gäller områden som försvar, rättsväsende och infrastruktur. En växande ekonomi är också vad som lägger grunden för välfärdens framtida finansiering. Det är kort sagt en nyckel för att Sverige ska kunna byggas både rikare och tryggare framåt. Vår tillväxtagenda kommer att fokusera på investeringar i infrastruktur, klimatomställning, forskning, energiproduktion samt regelförenklingar och kompetensförsörjning. En forsknings- och innovationsproposition, som fokuserar på excellens, internationalisering och innovation kommer att läggas fram i slutet av året. Dessutom kommer regeringen i höst att lägga fram en infrastrukturproposition och utarbeta en strategi för nyindustrialiseringen och samhällsomvandlingen i norra Sverige.
 
 Regeringen och Sverigedemokraterna fortsätter att arbeta efter en plan i tre delar för att ta Sverige genom ett svårt ekonomiskt läge. Den första uppgiften har varit och är ett tag till att bekämpa inflationen. I takt med att inflationen stabiliseras runt inflationsmålet kommer vi att flytta fokus för den ekonomiska politiken. Arbetslinjen ska återupprättas och tillväxten ta fart. Bara så kan vi skapa tillräckliga resurser för att möta Sveriges stora investeringsbehov. Bara så kan vi säkerställa att Sverige byggs både rikare och tryggare framåt.
 
 Elisabeth Svantesson, finansminister
 
-Oscar Sjöstedt, ekonomisk\-politisk talesperson Sverigedemokraterna
+Oscar Sjöstedt, ekonomisk-politisk talesperson Sverigedemokraterna
 
-Hans Eklind, ekonomisk\-politisk talesperson Kristdemokraterna
+Hans Eklind, ekonomisk-politisk talesperson Kristdemokraterna
 
-Cecilia Rönn, ekonomisk\-politisk talesperson Liberalerna
+Cecilia Rönn, ekonomisk-politisk talesperson Liberalerna

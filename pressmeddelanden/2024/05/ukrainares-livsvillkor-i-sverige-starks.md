@@ -6,4 +6,4 @@ Som ett led i arbetet att förstärka ukrainarnas livsvillkor i Sverige har rege
 
 I samband med folkbokföring kommer personer med tillfälligt skydd anses vara mottagna i kommunen. Det innebär att kommunen har rätt till statlig ersättning för kostnader för mottagandet. Regeringen har också beslutat om ändringar som innebär att kommunerna ska få samma schablonersättning för vissa initiala kostnader för mottagandet för personer som har anvisats från ett kommunboende som de får för personer som har anvisats från ett av Migrationsverkets anläggningsboenden.
 
-Regeringen kommer att återkomma med beslut om reviderade länstal för 2024\.
+Regeringen kommer att återkomma med beslut om reviderade länstal för 2024.

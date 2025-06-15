@@ -9,5 +9,5 @@ kommunernas och landstingens tillgångar och skulder samt hur dessa utvecklats �
 I redovisningen av de statliga bidragen beskrivs omfattningen och
 utvecklingen av samt villkoren och, i den mån sådana uppgifter finns,
 resultaten för de riktade statsbidragen till kommunerna och landstingen
-2015\. Vidare lämnas en fördjupad redovisning av de riktade bidrag som
-avser hälso\- och sjukvården och socialtjänsten samt ett antal av de bidrag som avser skolväsendet.
+2015. Vidare lämnas en fördjupad redovisning av de riktade bidrag som
+avser hälso- och sjukvården och socialtjänsten samt ett antal av de bidrag som avser skolväsendet.

@@ -10,4 +10,4 @@ Utredningen föreslår att det ska införas ett nytt brott kallat subventionsbro
 
 Samtidigt föreslår utredningen att en ny underrättelseskyldighet ska gälla när det finns anledning att anta att ett statligt företagsstöd har betalats ut eller kommer att betalas ut felaktigt, eller om stödet har använts på ett felaktigt sätt. Underrättelseskyldigheten ska omfatta de myndigheter och organisationer som beslutar om stöd samt regionerna och Kronofogdemyndigheten.
 
-Utredningen föreslår att författningsförslagen ska träda i kraft den 1 januari 2026\.
+Utredningen föreslår att författningsförslagen ska träda i kraft den 1 januari 2026.

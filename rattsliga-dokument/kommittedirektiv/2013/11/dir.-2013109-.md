@@ -11,4 +11,4 @@ Utredaren ska särskilt analysera och överväga om det finns ett utrymme för o
 
 Utredaren ska även analysera och i förekommande fall lämna lagförslag till hur tillsynen över emittenters finansiella regelbundna rapportering (s.k. redovisningstillsyn) bör organiseras.
 
-Uppdraget ska redovisas senast den 30 september 2014\.
+Uppdraget ska redovisas senast den 30 september 2014.

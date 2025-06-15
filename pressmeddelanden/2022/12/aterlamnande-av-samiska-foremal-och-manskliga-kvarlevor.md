@@ -1,10 +1,10 @@
 # Återlämnande av samiska föremål och mänskliga kvarlevor
 
-Samiska föremål och mänskliga kvarlevor finns i dag i samlingar vid ett antal museer och universitet runtom i landet. Dessa har tillkommit samlingarna på olika sätt, vissa i samband med rasforskning. Krav på återförande av föremål och kvarlevor har rests bland världens urfolk sedan 1970\-talet.
+Samiska föremål och mänskliga kvarlevor finns i dag i samlingar vid ett antal museer och universitet runtom i landet. Dessa har tillkommit samlingarna på olika sätt, vissa i samband med rasforskning. Krav på återförande av föremål och kvarlevor har rests bland världens urfolk sedan 1970-talet.
 
 – Återlämnande av samiska föremål och mänskliga kvarlevor handlar om en försoningsprocess mellan urfolken och statsmakterna, men det är samtidigt en komplicerad process som kräver noggranna utredningar och avvägningar som ibland kan vara svåra. Varje fall är unikt och måste utgå ifrån de förutsättningar som gäller i varje enskilt fall. Nu vill regeringen påskynda arbetet med att underlätta dessa processer, säger kulturminister Parisa Liljestrand.
 
-Uppdraget till Riksantikvarieämbetet innebär att myndigheten ska analysera förutsättningarna för att identifiera och återbörda samiska föremål och mänskliga kvarlevor, samt ett sammanhållet regelverk kring detta. Uppdraget ska genomföras i samverkan med Sametinget och flera andra berörda aktörer. En redovisning av uppdragets första del ska lämnas till Kulturdepartementet senast den 6 oktober 2023, medan hela uppdraget ska redovisas senast den 31 mars 2024\.
+Uppdraget till Riksantikvarieämbetet innebär att myndigheten ska analysera förutsättningarna för att identifiera och återbörda samiska föremål och mänskliga kvarlevor, samt ett sammanhållet regelverk kring detta. Uppdraget ska genomföras i samverkan med Sametinget och flera andra berörda aktörer. En redovisning av uppdragets första del ska lämnas till Kulturdepartementet senast den 6 oktober 2023, medan hela uppdraget ska redovisas senast den 31 mars 2024.
 
 Regeringen har också beslutat att Uppsala universitet, i enlighet med dess hemställan, får överlämna mänskliga kvarlevor från arton individer av samiskt ursprung med härkomst från ödekyrkogården i Rounala till Sametinget för att återbegravas.
 

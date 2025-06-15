@@ -12,4 +12,4 @@ Enligt utredningens förslag ska det införas en ny lag om vistelse­förbud på
 * Vistelseförbud ska gälla på allmän plats och vissa andra platser – skolgårdar och liknande områden runt förskolor och fritidshem och i fordon på allmän plats – inom det geografiskt avgränsade området.
 * Vistelseförbud ska vara straff­sanktionerat.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2024\.
+Lagändringarna föreslås träda i kraft den 1 juli 2024.

@@ -1,7 +1,6 @@
 # Regeringsförklaringen den 15 september 2015
 
-Statsminister Stefan Löfven, riksdagen, 15 september 2015\.
-
+Statsminister Stefan Löfven, riksdagen, 15 september 2015.
 
 Eders Majestäter, Eders Kungliga Högheter,
 
@@ -43,7 +42,7 @@ Säkerhetsläget i vår närhet har försämrats.
 
 Den ryska aggressionen och destabiliseringen av Ukraina är den allvarligaste utmaningen mot den europeiska säkerhetsordningen sedan det kalla krigets slut. Rysslands illegala annektering av Krim är ett brott mot folkrätten. Gränser får inte ändras med våld. Stödet till Ukraina fortsätter, såväl politiskt som ekonomiskt.
 
-Ett modernt totalförsvar skapas för att möta de utmaningar som följer av det förändrade säkerhetspolitiska läget. Den blocköverskridande överenskommelsen lägger grunden för försvarets framtida inriktning. Försvarsanslagen höjs. Den militära förmågan ökas successivt. Samtidigt fördjupas våra internationella samarbeten. Det svensk\-finska samarbetet har särskild prioritet. Den svenska militära alliansfriheten tjänar alltjämt vårt land väl.
+Ett modernt totalförsvar skapas för att möta de utmaningar som följer av det förändrade säkerhetspolitiska läget. Den blocköverskridande överenskommelsen lägger grunden för försvarets framtida inriktning. Försvarsanslagen höjs. Den militära förmågan ökas successivt. Samtidigt fördjupas våra internationella samarbeten. Det svensk-finska samarbetet har särskild prioritet. Den svenska militära alliansfriheten tjänar alltjämt vårt land väl.
 
 Ett brett arbete påbörjas för en tydlig politik för Sveriges säkerhet. Hoten mot vår säkerhet är föränderliga och komplexa. Terrorism, digital sårbarhet, epidemier och klimatförändringar är exempel på nutida hot. Flera partier bjuds in för att delta i detta arbete.
 
@@ -51,7 +50,7 @@ Sveriges kandidatur till FN:s säkerhetsråd är ett konkret uttryck för regeri
 
 Också de humanitära insatserna måste förstärkas och effektiviseras. Sverige fortsätter att vara en av världens största givare av humanitärt bistånd. Vi ska vara en stark röst i världen för frihet, fred, mänskliga rättigheter och solidaritet.
 
-Kriget i Syrien fortsätter att orsaka ett enormt mänskligt lidande. Regeringen fördömer Assadregimens omfattande attacker mot civila och ISIL:s barbariska övergrepp. Särskilt upprörande är det systematiska våldet mot kvinnor och barn. 250 000 människor har mist livet. Ett ökat tryck på Assad\-regimen, och de stater som stödjer den, krävs för att nå en politisk lösning.
+Kriget i Syrien fortsätter att orsaka ett enormt mänskligt lidande. Regeringen fördömer Assadregimens omfattande attacker mot civila och ISIL:s barbariska övergrepp. Särskilt upprörande är det systematiska våldet mot kvinnor och barn. 250 000 människor har mist livet. Ett ökat tryck på Assad-regimen, och de stater som stödjer den, krävs för att nå en politisk lösning.
 
 Sverige vill att EU samlar sig till en mer aktiv och pådrivande roll, i kontakt med länder i regionen, och konstruktivt stödjer FN:s sändebud för Syrien. Sverige vill se att en internationell kontaktgrupp bildas med USA, Ryssland, regionala parter och EU för att främja FN:s ansträngningar. Och det brådskar. FN:s säkerhetsråd och dess stormakter, måste ta sitt ansvar för att få ett slut på detta blodbad.
 
@@ -61,7 +60,7 @@ Sverige står upp för asylrätten. I tider av kris är den som viktigast. Den s
 
 Ansvaret för asylsökande måste delas. Det gäller i EU – mellan EU:s medlemsländer. Inget land ska smita undan sitt ansvar. Och det gäller i Sverige – mellan kommunerna. Ingen kommun ska kunna smita undan sitt ansvar.
 
-Många människor gör i dag viktiga insatser. Det är lärare som gör sitt yttersta för att ge barn en ny start i Sverige. Det är fotbolls\- och bandytränare som välkomnar nya spelare i laget. Det är volontärer som hjälper till med läxor. Så kan dagens nyanlända, precis som de som en gång flydde diktaturens Chile eller kriget på Balkan, snabbare bli en del av vårt samhälle och vara med och bygga Sverige. Det är insatser som regeringen hyllar.
+Många människor gör i dag viktiga insatser. Det är lärare som gör sitt yttersta för att ge barn en ny start i Sverige. Det är fotbolls- och bandytränare som välkomnar nya spelare i laget. Det är volontärer som hjälper till med läxor. Så kan dagens nyanlända, precis som de som en gång flydde diktaturens Chile eller kriget på Balkan, snabbare bli en del av vårt samhälle och vara med och bygga Sverige. Det är insatser som regeringen hyllar.
 
 Jag kommer att kalla till en nationell samling,
 
@@ -97,9 +96,9 @@ En stor bostadspolitisk satsning genomförs.
 
 Ett investeringsstöd riktat mot mindre och energieffektiva lägenheter introduceras. En särskild stimulans införs för att snabbt uppföra fler studentbostäder. En byggbonus riktas till kommuner där det byggs nya bostäder.
 
-Järnvägs\- och vägunderhållet förstärks i hela landet, från norr till söder.
+Järnvägs- och vägunderhållet förstärks i hela landet, från norr till söder.
 
-Infrastrukturinvesteringar som leder till fler bostäder, bättre godstransporter och pålitlig arbetspendling prioriteras. Investeringarna i infrastrukturen ökar med drygt 40 procent fram till 2019\.
+Infrastrukturinvesteringar som leder till fler bostäder, bättre godstransporter och pålitlig arbetspendling prioriteras. Investeringarna i infrastrukturen ökar med drygt 40 procent fram till 2019.
 
 Sverige ska vara ett av världens främsta forskningsländer.
 
@@ -107,7 +106,7 @@ Under året arbetas en ny forskningsproposition fram med ett tioårigt perspekti
 
 Takten ökas i klimatomställningen.
 
-Satsningen på miljö\- och klimatteknik för att stärka företagens innovationskraft utökas. Investeringsstödet Klimatklivet riktas till det som ger störst effekt på klimatutsläppen.
+Satsningen på miljö- och klimatteknik för att stärka företagens innovationskraft utökas. Investeringsstödet Klimatklivet riktas till det som ger störst effekt på klimatutsläppen.
 
 Den andra delen av Sveriges nya jobbagenda är en aktiv näringspolitik för fler och växande företag.
 
@@ -117,15 +116,15 @@ Den industrinära forskningen utvecklas. Sverige ska bli ett mer attraktivt land
 
 Statens riskkapital reformeras för att stödja innovativa företag i hela landet.
 
-Företag i tidiga och växande utvecklingsskeden prioriteras. Innovationsrådet har hittills identifierat tre samverkansprogram inom Life science, miljö\- och klimatteknik samt digitalisering.
+Företag i tidiga och växande utvecklingsskeden prioriteras. Innovationsrådet har hittills identifierat tre samverkansprogram inom Life science, miljö- och klimatteknik samt digitalisering.
 
 En modern näringspolitik skapar jobb i hela landet.
 
-Skogen – det gröna guldet – ska bidra till fler jobb och brukas hållbart. Arbetet med ett nationellt skogsprogram fortsätter. Sveriges potential som turistdestination med fokus på natur\- och ekoturism tas tillvara. En livsmedelsstrategi arbetas fram för att öka produktionen i hela livsmedelskedjan och möta efterfrågan på ekologisk mat. En regionreform förbereds. Omfattande satsningar görs på bredbandsutbyggnad. Stödet till grundläggande kommersiell service till glesbygden utökas.
+Skogen – det gröna guldet – ska bidra till fler jobb och brukas hållbart. Arbetet med ett nationellt skogsprogram fortsätter. Sveriges potential som turistdestination med fokus på natur- och ekoturism tas tillvara. En livsmedelsstrategi arbetas fram för att öka produktionen i hela livsmedelskedjan och möta efterfrågan på ekologisk mat. En regionreform förbereds. Omfattande satsningar görs på bredbandsutbyggnad. Stödet till grundläggande kommersiell service till glesbygden utökas.
 
 En exportoffensiv inleds.
 
-Exporten underlättas för små\- och medelstora företag. Svensk närvaro ökar på tillväxtmarknader. En samordningsfunktion, Team Sweden, ska effektivisera och stärka statens exportfrämjande. En exportstrategi presenteras under året.
+Exporten underlättas för små- och medelstora företag. Svensk närvaro ökar på tillväxtmarknader. En samordningsfunktion, Team Sweden, ska effektivisera och stärka statens exportfrämjande. En exportstrategi presenteras under året.
 
 En fri och rättvis världshandel främjas.
 
@@ -139,7 +138,7 @@ Samtidigt finns över 80 000 lediga jobb.
 
 Det är ett stort slöseri. Nu inleds arbetet för att förbättra matchningen och ta tillvara all kompetens. Ingen människas vilja att utbilda sig, förbättra sin kompetens eller gå framåt i karriären ska förslösas.
 
-Ett nytt kunskapslyft sjösätts med 50 000 nya utbildningsmöjligheter 2016\.
+Ett nytt kunskapslyft sjösätts med 50 000 nya utbildningsmöjligheter 2016.
 
 Fler ges möjlighet att studera på yrkeshögskola, folkhögskola, högskola, yrkesvux och komvux. Alla vuxna får 2017 rätt att studera på komvux för att få gymnasiekompetens och behörighet till högre studier.
 
@@ -177,11 +176,11 @@ Lärarna är nyckeln för att vända utvecklingen i skolan. Men de klarar det in
 
 Tidiga insatser prioriteras.
 
-Barngrupperna i förskolan minskas. Fler anställs i grundskolan så att lärare får mer tid med eleverna och klasserna i lågstadiet kan bli mindre. Fritids stärks. Fler speciallärare anställs. Ett skolutvecklingsprogram där lärare ges grundläggande specialpedagogiska verktyg tas fram. Det har stor betydelse inte minst för barn med neuropsykiatriska funktionsnedsättningar. En räkna\-läsa\-skriva garanti för de tidiga åren utformas.
+Barngrupperna i förskolan minskas. Fler anställs i grundskolan så att lärare får mer tid med eleverna och klasserna i lågstadiet kan bli mindre. Fritids stärks. Fler speciallärare anställs. Ett skolutvecklingsprogram där lärare ges grundläggande specialpedagogiska verktyg tas fram. Det har stor betydelse inte minst för barn med neuropsykiatriska funktionsnedsättningar. En räkna-läsa-skriva garanti för de tidiga åren utformas.
 
 Resurser till skolan ska fördelas efter behov.
 
-Läxhjälp och lovskola ges till den som behöver – inte endast till den som kan betala. Särskilda satsningar görs i skolor med tuffa för\-utsättningar. Resurser till kommuner som tar emot asylsökande barn i skolan ökar. Rektorer ska stärkas i sitt pedagogiska ledarskap.
+Läxhjälp och lovskola ges till den som behöver – inte endast till den som kan betala. Särskilda satsningar görs i skolor med tuffa för-utsättningar. Resurser till kommuner som tar emot asylsökande barn i skolan ökar. Rektorer ska stärkas i sitt pedagogiska ledarskap.
 
 Kvaliteten i lärarutbildningen förbättras.
 
@@ -197,7 +196,7 @@ Herr talman!
 
 Mer än 1,1 miljoner kvadratkilometer av Arktis har försvunnit. Det motsvarar ytan av Sverige, Finland och Norge. Klimatförändringarna är här, de är allvarliga och de påverkar alla – både oss som lever nu och framtida generationer.
 
-Det går att bromsa klimatförändringarna om vi vill. Jordens temperaturökning måste hållas så långt under två grader som möjligt. Klimathotet är vår tids ödesfråga. De globala utsläppen av växthusgaser måste halveras till 2050\.
+Det går att bromsa klimatförändringarna om vi vill. Jordens temperaturökning måste hållas så långt under två grader som möjligt. Klimathotet är vår tids ödesfråga. De globala utsläppen av växthusgaser måste halveras till 2050.
 
 Regeringen vill ta ett klimatkliv som skyndar på omställningen till ett mer hållbart samhälle. Genom att ta ansvar i Sverige för vår klimatpåverkan visar vi ledarskap i världen. Genom att investera i klimatomställningen skapas nya svenska jobb.
 
@@ -207,9 +206,9 @@ Klimatarbetet kräver ett globalt ledarskap.
 
 "Vår generation är den första som kan utrota fattigdomen. Och vi är den sista som kan stoppa klimatförändringarna."
 
-Det är FN:s generalsekreterare Ban Ki\-moons ord. I slutet av året samlas världens ledare i Paris för att sluta ett nytt klimat\-avtal. Sverige driver på för ett så ambitiöst avtal som möjligt. Utvecklingssamarbetet ska bidra till en omställning av fossilberoende ekonomier. Samtidigt ska fattiga länders motståndskraft stödjas genom klimatanpassning. Sverige ska fortsätta vara en av de främsta givarna till FN:s gröna klimatfond.
+Det är FN:s generalsekreterare Ban Ki-moons ord. I slutet av året samlas världens ledare i Paris för att sluta ett nytt klimat-avtal. Sverige driver på för ett så ambitiöst avtal som möjligt. Utvecklingssamarbetet ska bidra till en omställning av fossilberoende ekonomier. Samtidigt ska fattiga länders motståndskraft stödjas genom klimatanpassning. Sverige ska fortsätta vara en av de främsta givarna till FN:s gröna klimatfond.
 
-Sverige ska ta en ledande roll i genomförandet även av FN:s nya globala mål för en hållbar utveckling. Fattigdomsbekämpning, miljö\- och klimatarbete och fredsbyggande hör ihop. Sverige ska gå före med en samstämmig politik som tar hänsyn till fattiga människors perspektiv, mänskliga rättigheter och planetens gränser. Arbetet med att uppnå de nya hållbarhets\-målen i Sverige inleds.
+Sverige ska ta en ledande roll i genomförandet även av FN:s nya globala mål för en hållbar utveckling. Fattigdomsbekämpning, miljö- och klimatarbete och fredsbyggande hör ihop. Sverige ska gå före med en samstämmig politik som tar hänsyn till fattiga människors perspektiv, mänskliga rättigheter och planetens gränser. Arbetet med att uppnå de nya hållbarhets-målen i Sverige inleds.
 
 Sverige ska ha en fossilfri fordonsflotta.
 
@@ -227,7 +226,7 @@ Barn ska växa upp i en vardag fri från gifter. Försiktighetsprincipen, utbyte
 
 Grunden läggs för en cirkulär och biobaserad ekonomi som bidrar till att miljömålen nås. Det som i dag är avfall blir istället en resurs som driver fram nya affärsmöjligheter. Farliga gifter ska fasas ur kretsloppen. Material ska i högre grad återanvändas.
 
-Regeringens framtidsgrupper bidrar med en långsiktig idé\- och politikutveckling som förenar konkurrenskraft och jobbskapande med ekologisk hållbarhet och social utveckling.
+Regeringens framtidsgrupper bidrar med en långsiktig idé- och politikutveckling som förenar konkurrenskraft och jobbskapande med ekologisk hållbarhet och social utveckling.
 
 I ett Sverige att vara stolt över tar vi klimatansvar för kommande generationer.
 
@@ -257,9 +256,9 @@ Statsbidragen till verksamheter som stödjer våldsutsatta höjs. Sexualbrottsla
 
 Terrorism ska förebyggas, försvåras och förhindras.
 
-Terrorkrigsresor kriminaliseras. Missbruket av pass stoppas. Brotts\-bekämpande myndigheter ges mer effektiva verktyg. Säkerhetspolisen får nya resurser. Samverkan mellan polis, tull och kustbevakning stärks. Det civila samhällets beredskap måste öka för att möta nya säkerhetshot.
+Terrorkrigsresor kriminaliseras. Missbruket av pass stoppas. Brotts-bekämpande myndigheter ges mer effektiva verktyg. Säkerhetspolisen får nya resurser. Samverkan mellan polis, tull och kustbevakning stärks. Det civila samhällets beredskap måste öka för att möta nya säkerhetshot.
 
-När fördomar sprids och hatet växer, när asylboenden attackeras, när romer misshandlas och läger bränns, när judar, muslimer och kristna angrips för sin tro och när hbtq\-personer möts av hat, då ska vi stå upp för alla människors rättigheter och lika värde. Demokratin måste erövras och erövras igen. Vi delar var och en det ansvaret i vardagen.
+När fördomar sprids och hatet växer, när asylboenden attackeras, när romer misshandlas och läger bränns, när judar, muslimer och kristna angrips för sin tro och när hbtq-personer möts av hat, då ska vi stå upp för alla människors rättigheter och lika värde. Demokratin måste erövras och erövras igen. Vi delar var och en det ansvaret i vardagen.
 
 En nationell plan mot rasism och hatbrott tas fram. Det förebyggande arbetet mot våldsbejakande extremism förstärks. Ett nationellt forskningsprogram om rasism inrättas. Informationssäkerheten stärks och arbetet för att bekämpa brott, kränkningar och hot på internet intensifieras.
 
@@ -297,7 +296,7 @@ Familjepolitiken stärks så att alla barn ges lika goda livschanser.
 
 Grundnivån i föräldraförsäkringen höjs. En modern föräldraförsäkring tas fram som är anpassad till dagens arbetsmarknad och fungerar för alla familjekonstellationer, även stjärnfamiljer. En tredje månad reserveras för vardera föräldern.
 
-En satsning på att rusta upp den sociala barn\- och ungdomsvården påbörjas.
+En satsning på att rusta upp den sociala barn- och ungdomsvården påbörjas.
 
 Samhällets skydd för de mest utsatta är ett nät av människor, ofta socialsekreterare. De har länge kämpat i skymundan.
 

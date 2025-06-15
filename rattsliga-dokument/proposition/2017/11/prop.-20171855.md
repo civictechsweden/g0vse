@@ -12,6 +12,6 @@ Det införs också ett förbud mot att ta emot anonyma bidrag vars värde övers
 
 För att förenkla för allmänheten ska landsting och kommuner på sina webbplatser offentliggöra uppgifter om partistöd som de betalar ut.
 
-Lagändringarna föreslås träda i kraft den 1 april 2018\.
+Lagändringarna föreslås träda i kraft den 1 april 2018.
 
 [Pressmeddelande: Regeringen ökar insynen i hur partier finansieras](/pressmeddelanden/2017/11/regeringen-okar-insynen-i-hur-partier-finansieras/)

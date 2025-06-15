@@ -8,6 +8,6 @@ Olovlig identitetsanvändning ska enligt förslaget få åtalas av åklagare end
 
 Härutöver föreslås att brottet olaga förföljelse ska omfatta gärningar som utgör olovlig identitetsanvändning.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2016\.
+Lagändringarna föreslås träda i kraft den 1 juli 2016.
 
-[Pressmeddelande: Id\-kapningar kriminaliseras](/pressmeddelanden/2016/03/id-kapningar-kriminaliseras/)
+[Pressmeddelande: Id-kapningar kriminaliseras](/pressmeddelanden/2016/03/id-kapningar-kriminaliseras/)

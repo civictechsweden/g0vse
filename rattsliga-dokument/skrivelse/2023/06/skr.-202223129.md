@@ -1,7 +1,7 @@
 # Riksrevisionens rapport om Polismyndighetens hantering av mängdbrott
 
 Denna skrivelse har utarbetats med anledning av Riksrevisionens rapport
-om polisens hantering av mängdbrott (RiR 2023:2\).
+om polisens hantering av mängdbrott (RiR 2023:2).
 
 Riksrevisionen har granskat om Polis­myndig­hetens och regeringens hantering av mängd­brott är effektiv. Gransk­ningens fokus har varit inriktad mot tre delfrågor: arbetar utred­nings­perso­nalen efter fast­ställda metoder och arbets­sätt som effektivi­serar utredning av mängd­brott, har Polis­myndig­heten genom sin styrning skapat tillräcklig förmåga att hantera mängd­brott effektivt och har regeringen möjlig­gjort en effektiv hantering av mängd­brott i Polis­myndig­heten. Den samlade slut­satsen av gransk­ningen är att Polis­myndig­heten inte hanterar mängdbrott effektivt.
 

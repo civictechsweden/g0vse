@@ -2,7 +2,6 @@
 
 Den 14 februari bjöd justitieministern, finansmarknadsministern och civilministern in berörda myndigheter och organ till ett rundabordssamtal med syfte att diskutera hur penningtvättstillsynen kan stärkas.
 
-
 Regeringen har gjort till en av sina viktigaste uppgifter att återupprätta tryggheten och trycka tillbaka den organiserade brottsligheten. Ett viktigt led i detta arbete är att strypa den kriminella ekonomin. Det finansiella systemet ska inte kunna användas för att tvätta kriminellas brottsvinster.
 
 – Det var viktigt att samla de centrala aktörerna runt samma bord med fokus på konkreta åtgärder. Att strypa den kriminella ekonomin är nämligen helt avgörande för att trycka tillbaka den organiserade brottsligheten i Sverige. Vi måste därför gemensamt se till att täppa till varenda hål som gör det möjligt för kriminella att sopa igen spåren efter sig och dölja pengarnas ursprung, säger justitieminister Gunnar Strömmer.

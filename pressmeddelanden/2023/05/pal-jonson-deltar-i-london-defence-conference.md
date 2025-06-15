@@ -1,6 +1,6 @@
 # Pål Jonson deltar i London Defence Conference
 
-The London Defence Conference är en årlig försvars\- och säkerhetskonferens som arrangeras av avdelningen för säkerhetsstudier på King’s College.
+The London Defence Conference är en årlig försvars- och säkerhetskonferens som arrangeras av avdelningen för säkerhetsstudier på King’s College.
 
 Under två dagar kommer ämnen som till exempel säkerhetssituationen i omvärlden, inklusive Rysslands krig mot Ukraina, och hur framtiden hot och utmaningar ska bemötas att belysas.
 

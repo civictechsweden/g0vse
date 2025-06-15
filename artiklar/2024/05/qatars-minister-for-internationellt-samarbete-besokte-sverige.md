@@ -1,7 +1,6 @@
 # Qatars minister för internationellt samarbete besökte Sverige
 
-Qatars minister för internationellt samarbete, Lolwah Al\-Khater, besökte Stockholm den 23–24 maj, på inbjudan av statssekreterare Diana Janse. I besöket ingick även möten med utrikesminister Tobias Billström och bistånds\- och utrikeshandelsminister Johan Forssell. Syftet med besöket var bland annat att diskutera samarbete inom biståndsområdet, återuppbyggnaden av Ukraina och kriget i Gaza.
-
+Qatars minister för internationellt samarbete, Lolwah Al-Khater, besökte Stockholm den 23–24 maj, på inbjudan av statssekreterare Diana Janse. I besöket ingick även möten med utrikesminister Tobias Billström och bistånds- och utrikeshandelsminister Johan Forssell. Syftet med besöket var bland annat att diskutera samarbete inom biståndsområdet, återuppbyggnaden av Ukraina och kriget i Gaza.
 
 Qatar är liksom Sverige en stor biståndsgivare. Under besöket har samtal förts om hur Sverige och Qatar kan samarbeta inom biståndsområdet, bland annat för att mobilisera mer humanitärt bistånd från internationella givare.
 

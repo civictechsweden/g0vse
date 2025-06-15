@@ -1,6 +1,6 @@
 # 600 nya platser i Kriminalvården
 
-– Regeringen gör omfattande satsningar för att säkerställa att Kriminalvården kan expandera. Dagens beslut om dessa 25\-åriga hyresavtal är en viktig del i arbetet med att ge Kriminalvården rätt förutsättningar för sitt viktiga arbete, säger justitieminister Gunnar Strömmer.
+– Regeringen gör omfattande satsningar för att säkerställa att Kriminalvården kan expandera. Dagens beslut om dessa 25-åriga hyresavtal är en viktig del i arbetet med att ge Kriminalvården rätt förutsättningar för sitt viktiga arbete, säger justitieminister Gunnar Strömmer.
 
 Hyresavtalen gäller för anstalterna Skogome, Österåker, Tidaholm, Sörbyn och Mariestad. Anstalterna genomgår nu omfattande kapacitetsutbyggnader för att möta nuvarande behov.
 

@@ -1,6 +1,6 @@
 # Delegationen för cirkulär ekonomi blir fulltaliga med nya förordnanden från näringslivet
 
-– Delegationen för cirkulär ekonomi har i uppdrag att vara en katalysator för det svenska näringslivets utveckling av affärsmässiga cirkulära lösningar. Jag ser fram emot att fortsätta följa delegationens arbete under Mattias Philipssons ledning och jag är mycket nöjd med sammansättningen på de personer som nu ingår i delegationen. Jag har sedan jag tillträdde arbetat med att utveckla delegationen för att få ett tydligare näringslivsfokus på verksamheten, säger klimat\- och miljöminister Romina Pourmokhtari.
+– Delegationen för cirkulär ekonomi har i uppdrag att vara en katalysator för det svenska näringslivets utveckling av affärsmässiga cirkulära lösningar. Jag ser fram emot att fortsätta följa delegationens arbete under Mattias Philipssons ledning och jag är mycket nöjd med sammansättningen på de personer som nu ingår i delegationen. Jag har sedan jag tillträdde arbetat med att utveckla delegationen för att få ett tydligare näringslivsfokus på verksamheten, säger klimat- och miljöminister Romina Pourmokhtari.
 
 – Vi behöver se en utveckling mot nya cirkulära affärsmodeller, som tar hänsyn till hela värdekedjan, och som framgångsrikt kan skalas upp och ta plats på marknaden. Frågor som rör omställningen från det linjära till det cirkulära är prioriterade frågor för mig personligen men också ett prioriterat område för regeringens miljöpolitik.
 

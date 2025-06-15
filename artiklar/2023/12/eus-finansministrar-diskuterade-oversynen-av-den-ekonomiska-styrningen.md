@@ -2,11 +2,10 @@
 
 När EU:s finansministrar den 8 december möttes i Ekofinrådet var översynen av den ekonomiska styrningen i fokus. EU:s ekonomiska stöd till Ukraina, en möjlig framtida digital euro samt reviderade nationella planer för återhämtning och resiliens inom RRF var andra punkter på agendan.
 
-
 ## Översyn av den ekonomiska styrningen
 
 Ministrarna fortsatte diskussionen om den föreslagna reformen av EU:s ramverk för ekonomisk styrning. En överenskommelse nåddes inte vid detta möte.
-\- Viktigt för Sverige är ett ambitiöst ramverk som ser till att länder får ordning och reda i sina statsfinanser, att skulderna faktiskt minskar, samt att reglerna efterlevs. Vi hoppas att en överenskommelse kan nås inom kort, sa finansminister Elisabeth Svantesson som representerade Sverige vid mötet.
+- Viktigt för Sverige är ett ambitiöst ramverk som ser till att länder får ordning och reda i sina statsfinanser, att skulderna faktiskt minskar, samt att reglerna efterlevs. Vi hoppas att en överenskommelse kan nås inom kort, sa finansminister Elisabeth Svantesson som representerade Sverige vid mötet.
 
 ## Ryssland angrepp mot Ukraina
 
@@ -14,7 +13,7 @@ Rådet diskuterade ekonomiska och finansiella konsekvenser av Rysslands aggressi
 
 ## Europaketet
 
-En lägesuppdatering gavs om EU\-kommissionens lagstiftningspaket om en eventuell framtida digital euro. Sverige verkar för att regleringen sker med beaktande av att EU är en marknad med flera olika valutor, att den inre marknaden inte fragmenteras samt att frågor som beror alla medlemsstater diskuteras och beslutas av samtliga medlemsstater.
+En lägesuppdatering gavs om EU-kommissionens lagstiftningspaket om en eventuell framtida digital euro. Sverige verkar för att regleringen sker med beaktande av att EU är en marknad med flera olika valutor, att den inre marknaden inte fragmenteras samt att frågor som beror alla medlemsstater diskuteras och beslutas av samtliga medlemsstater.
 
 ## Faciliteten för återhämtning och resiliens (RRF)
 

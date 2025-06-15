@@ -8,15 +8,15 @@ Regeringen har beslutat om ändringar i förordningen om stöd till lokala klima
 * en maxgräns om 50 procent för stöd för snabbladdare införs, och
 * tidsgränsen för att begära slutlig utbetalning kortas från 6 till 3 månader.
 
-Ändringarna träder i kraft den 10 maj 2016\.
+Ändringarna träder i kraft den 10 maj 2016.
 
 ### Referenser
 
-* förordningen (2015:517\) om stöd till lokala klimatinvesteringar
+* förordningen (2015:517) om stöd till lokala klimatinvesteringar
 
 ### Mer information
 
-Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 26 april 2016\.
+Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 26 april 2016.
 
 **Kontaktperson**
-Ida Kärnström 08\-405 31 04
+Ida Kärnström 08-405 31 04

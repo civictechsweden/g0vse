@@ -11,16 +11,16 @@ på tunga godsfordon för användningen av vissa infrastrukturer, senast
 s.k. Eurovinjettdirektivet, i de delar som rör vägtullar i form av infrastrukturavgifter.
 Lagen ska, med vissa begränsningar, gälla infrastrukturavgifter
 på allmänna vägar utom färjor och infrastrukturavgifter för tunga
-godsfordon på enskilda vägar som ingår i TEN\-T\-vägnätet i Sverige eller
+godsfordon på enskilda vägar som ingår i TEN-T-vägnätet i Sverige eller
 som är motorvägar. I huvudsak innehåller lagen bestämmelser om
 beräkning av infrastrukturavgifter.
 
 Lagen om elektroniska vägtullssystem föreslås ersätta den nuvarande
-lagen (2007:58\) om elektroniska vägavgiftssystem. Genom den nya lagen
+lagen (2007:58) om elektroniska vägavgiftssystem. Genom den nya lagen
 genomförs även kommissionens beslut (EG) nr 750/2009 av den
 6 oktober 2009 om definitionen av det europeiska systemet för elektroniska
-vägtullar och tekniska uppgifter för detta, det s.k. EETS\-beslutet.
-EETS\-beslutet syftar till att skapa ett europeiskt system för elektroniska
+vägtullar och tekniska uppgifter för detta, det s.k. EETS-beslutet.
+EETS-beslutet syftar till att skapa ett europeiskt system för elektroniska
 vägtullar där standardiserad utrustning i fordon ska kunna användas för
 att färdas i alla elektroniska vägtullssystem inom EU.
 
@@ -35,5 +35,5 @@ tekniska krav. För att underlätta medling i tvister mellan avgiftsupptagare
 och betalningsförmedlare inrättas ett förlikningsorgan. Vidare införs ett
 register över vägtullsområden och betalningsförmedlare, vägtullsregistret.
 De nya lagarna och de föreslagna lagändringarna förslås träda i kraft
-den 1 mars 2014, utom i fråga om lagen om Europaråds\- och OECD konventionen
+den 1 mars 2014, utom i fråga om lagen om Europaråds- och OECD konventionen
 om ömsesidig handräckning i skatteärenden

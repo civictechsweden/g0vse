@@ -1,10 +1,10 @@
 # Regeringen tillsätter ny forskningsberedning
 
-En viktig uppgift för Forskningsberedningen är att ge råd till regeringen när den utarbetar den kommande forsknings\- och innovationspolitiska propositionen.
+En viktig uppgift för Forskningsberedningen är att ge råd till regeringen när den utarbetar den kommande forsknings- och innovationspolitiska propositionen.
 
-\- Min ambition är att kvaliteten i svensk forskning ska öka och att förutsättningarna för forskningsintensiv innovation ska stärkas. I en tid där faktaresistens är alltmer utbrett behöver den fria forskningen värnas. Obunden forskning är en omistlig beståndsdel i det öppna samhället. Högre utbildning och forskning är avgörande för Sveriges kompetensförsörjning och för att Sverige ska kunna vara konkurrenskraftigt samt för att möta olika samhällsutmaningar, säger Mats Persson, utbildningsminister.
+- Min ambition är att kvaliteten i svensk forskning ska öka och att förutsättningarna för forskningsintensiv innovation ska stärkas. I en tid där faktaresistens är alltmer utbrett behöver den fria forskningen värnas. Obunden forskning är en omistlig beståndsdel i det öppna samhället. Högre utbildning och forskning är avgörande för Sveriges kompetensförsörjning och för att Sverige ska kunna vara konkurrenskraftigt samt för att möta olika samhällsutmaningar, säger Mats Persson, utbildningsminister.
 
-​​​​​​​Avsikten med Forskningsberedningen är att bidra med nationell och internationell omvärldsbevakning, analyser och råd till forsknings\- och innovationspolitik, vars fokus är excellens, internationalisering och innovation.
+​​​​​​​Avsikten med Forskningsberedningen är att bidra med nationell och internationell omvärldsbevakning, analyser och råd till forsknings- och innovationspolitik, vars fokus är excellens, internationalisering och innovation.
 
 Ledamöter i Forskningsberedningen är:
 
@@ -12,7 +12,7 @@ Per Alfredsson, verkställande direktör, AstraZeneca AB
 
 Bertil Andersson, professor i biokemi
 
-Birgitta Bergvall\-Kåreborn, rektor, Luleå tekniska universitet
+Birgitta Bergvall-Kåreborn, rektor, Luleå tekniska universitet
 
 Linnéa Carlsson, doktorand, Sveriges förenade studentkårer
 
@@ -38,4 +38,4 @@ Anna Wedell, överläkare vid Centrum för Medfödda Metabola Sjukdomar, Karolin
 
 Linus Wiebe, fondförvaltare, Fåhraeus Startup and Growth Fund
 
-Beredningen förordnas från den 1 september 2023 t.o.m. den 30 september 2024\. Ledamöterna är utsedda på personliga meriter.
+Beredningen förordnas från den 1 september 2023 t.o.m. den 30 september 2024. Ledamöterna är utsedda på personliga meriter.

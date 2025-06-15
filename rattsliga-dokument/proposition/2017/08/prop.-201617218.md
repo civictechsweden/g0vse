@@ -6,6 +6,6 @@ Lagförslaget innebär bland annat att en svensk domstol eller åklagare ska kun
 
 Förslaget är ett led i att genomföra Europaparlamentets och rådets direktiv om en europeisk utredningsorder, som bygger på ett initiativ från bland annat Sverige.
 
-Den nya lagen och de följdändringar denna för med sig föreslås träda i kraft den 1 december 2017\.
+Den nya lagen och de följdändringar denna för med sig föreslås träda i kraft den 1 december 2017.
 
 [Pressmeddelande: Möjligheterna till bevisinhämtning inom EU förbättras](/pressmeddelanden/2017/08/mojligheterna-till-bevisinhamtning-inom-eu-forbattras/)

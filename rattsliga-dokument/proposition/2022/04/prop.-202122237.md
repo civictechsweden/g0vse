@@ -7,7 +7,7 @@ Förslagen innebär att:
 * bosättningstid i ett tidigare hemland inte ska få tillgodoräknas som försäkringstid för garantipension och garantipension till omställningspension.
 * det  inte ska vara möjligt att som försäkringstid för garantipension räkna den försäkringstid som legat till grund för sjukersättning i form av garantiersättning.
 
-## Bosättning i hemlandet räknas vid sjuk\- och aktivietetsersättning
+## Bosättning i hemlandet räknas vid sjuk- och aktivietetsersättning
 
 Regeringen bedömer att bosättningstid i tidigare hemland även fortsättningsvis bör tillgodoräknas som försäkringstid för sjukersättning och aktivitetsersättning i form av garantiersättning.
 

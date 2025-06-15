@@ -6,4 +6,4 @@ Regeringen föreslår att elever i grundskolans årskurs 4–9 ska erbjudas extr
 
 Regeringen föreslår även att den skollagsreglerade lovskolan utökas med 25 timmar. Den utökade lovskolan ska erbjudas elever i grundskolans årskurs 9 som riskerar att inte uppfylla kriterierna för betyget E i ett eller flera ämnen och som därmed riskerar att inte bli behöriga till ett nationellt program i gymnasieskolan. Sådan lovskola ska erbjudas på lov under läsåret och ska inte kunna räknas av från de 50 timmar lovskola som huvudmannen är skyldig att erbjuda enligt gällande bestämmelser.
 
-I lagrådsremissen lämnas förslag till de ändringar i skollagen (2010:800\) som behövs. Lagändringarna föreslås träda i kraft den 1 juli 2022\.
+I lagrådsremissen lämnas förslag till de ändringar i skollagen (2010:800) som behövs. Lagändringarna föreslås träda i kraft den 1 juli 2022.

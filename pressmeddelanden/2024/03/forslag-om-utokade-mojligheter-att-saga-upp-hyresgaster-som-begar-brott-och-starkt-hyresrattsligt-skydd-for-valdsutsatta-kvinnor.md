@@ -1,6 +1,6 @@
 # Förslag om utökade möjligheter att säga upp hyresgäster som begår brott och stärkt hyresrättsligt skydd för våldsutsatta kvinnor
 
-– Alla människor i Sverige ska kunna känna sig trygga, säkra och fria i sina egna bostadsområden. Det är tyvärr inte en realitet idag. Den organiserade brottsligheten innebär enorma integritets\- och trygghetsförluster, inte minst för de som bor i närheten av där brotten begås. För att återupprätta tryggheten och friheten måste aktörer i hela samhället mobiliseras. Fastighetsägare ges nu större möjligheter att säga upp hyresgäster som begår brott i lägenheten eller i närområdet. Det innebär till exempel att den som utsätts för en hämndåtgärd, till exempel en sprängning eller en skjutning till följd av egen brottslighet, ska kunna vräkas i vissa fall, säger justitieminister Gunnar Strömmer.
+– Alla människor i Sverige ska kunna känna sig trygga, säkra och fria i sina egna bostadsområden. Det är tyvärr inte en realitet idag. Den organiserade brottsligheten innebär enorma integritets- och trygghetsförluster, inte minst för de som bor i närheten av där brotten begås. För att återupprätta tryggheten och friheten måste aktörer i hela samhället mobiliseras. Fastighetsägare ges nu större möjligheter att säga upp hyresgäster som begår brott i lägenheten eller i närområdet. Det innebär till exempel att den som utsätts för en hämndåtgärd, till exempel en sprängning eller en skjutning till följd av egen brottslighet, ska kunna vräkas i vissa fall, säger justitieminister Gunnar Strömmer.
 
 Förslagen innebär bland annat att
 
@@ -18,4 +18,4 @@ Regeringen har även lämnat förslag som stärker det hyresrättsliga skyddet f
 
 – Mäns våld mot kvinnor är ett stort samhällsproblem och måste bekämpas med samma kraft som gängkriminaliteten. Ingen kvinna ska behöva stanna kvar i en våldsam relation i rädsla för att bli av med sin bostad. Regeringen går därför vidare med förslag som innebär att en man som använder lägenheten för att utöva våld mot en närstående ska kunna bli av med den, samtidigt som vi stärker den våldsutsatta kvinnans möjlighet att ta över kontraktet och bo kvar, säger justitieminister Gunnar Strömmer.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2024\.
+Lagändringarna föreslås träda i kraft den 1 juli 2024.

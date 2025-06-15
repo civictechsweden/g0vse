@@ -8,7 +8,7 @@ För att bygga Sverige rikare prioriterar regeringen reformer inom framför allt
 
 ## Stärka hushållens köpkraft
 
-Även om inflationen har minskat kommer det att ta flera år innan hushållens köpkraft har återställts. Här behöver politiken hjälpa till. I budgeten fortsätter regeringen att lätta på skattebördan för svenska folket genom bland annat sänkt skatt på arbete, pension, sparande, företagande och transporter. Skattetrycket i Sverige beräknas vara det lägsta sedan år 1980\.
+Även om inflationen har minskat kommer det att ta flera år innan hushållens köpkraft har återställts. Här behöver politiken hjälpa till. I budgeten fortsätter regeringen att lätta på skattebördan för svenska folket genom bland annat sänkt skatt på arbete, pension, sparande, företagande och transporter. Skattetrycket i Sverige beräknas vara det lägsta sedan år 1980.
 
 ## Återupprätta arbetslinjen
 
@@ -16,7 +16,7 @@ Arbetslinjen handlar om att öppna dörrar i stället för att låsa in personer
 
 ## Öka tillväxten
 
-Regeringens tillväxtagenda framåt fokuserar på investeringar i forskning, infrastruktur och elförsörjning. Det kommer bygga Sverige rikare och samtidigt bidra till att vi klarar av klimatomställningen. I budgeten avsätts pengar för historiskt stora investeringar inom ramen för de kommande infrastruktur\- och forskningspropositionerna. Regeringen fortsätter också att göra det lättare att driva företag i Sverige och genomför riktade satsningar för att komma till rätta med företagens kompetensbrist. Regeringen bedömer att den samlade politiken i budgeten leder till minskade utsläpp samt att det s.k. ESR\-åtagandet nås 2030\.
+Regeringens tillväxtagenda framåt fokuserar på investeringar i forskning, infrastruktur och elförsörjning. Det kommer bygga Sverige rikare och samtidigt bidra till att vi klarar av klimatomställningen. I budgeten avsätts pengar för historiskt stora investeringar inom ramen för de kommande infrastruktur- och forskningspropositionerna. Regeringen fortsätter också att göra det lättare att driva företag i Sverige och genomför riktade satsningar för att komma till rätta med företagens kompetensbrist. Regeringen bedömer att den samlade politiken i budgeten leder till minskade utsläpp samt att det s.k. ESR-åtagandet nås 2030.
 
 ## Sverige ska byggas säkrare och tryggare
 

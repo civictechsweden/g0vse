@@ -4,4 +4,4 @@ En särskild utredare ges i uppdrag att kartlägga och analysera i vilken utstr�
 
 Utredaren ska särskilt analysera sådan lagstiftning som i onödan försvårar digitalt informationsutbyte inom den offentliga förvaltningen och genomförandet av regeringens målsättning om att digitala tjänster, så långt det är möjligt och när det är relevant, ska vara förstahandsval vid den offentliga sektorns kontakter med medborgare, organisationer och företag. Utredaren ska vidare bl.a. lämna förslag till hur en utvidgad rapportering av hela den offentliga förvaltningens löpande arbete med it och digitalisering kan utformas samt hur aktörerna inom förvaltningen som helhet kan samverka kring behovet av ny eller ändrad lagstiftning för att främja digitaliseringen.
 
-Uppdraget ska redovisas senast den 31 mars 2018\.
+Uppdraget ska redovisas senast den 31 mars 2018.

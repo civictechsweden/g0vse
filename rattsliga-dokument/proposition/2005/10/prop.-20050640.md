@@ -1,5 +1,4 @@
 # Reformerade beskattningsregler för ägare i fåmansföretag
 
 Propositionen innehåller förslag som innebär en satsning på fåmansföretag med drygt 1 miljard kronor. Cirka 100 000 ägare av mindre företag, eller 60 procent av alla som omfattas av skattereglerna för fåmansföretag, kommer att kunna använda sig av en ny förenklingsregel.
-
 Regeringens förslag medför att de så kallade lättnadsreglerna avskaffas. Reglerna innebär skattefrihet för viss utdelning och kapitalvinst på andelar i onoterade företag. Skatteutskottet har under arbetet med regeringens förslag diskuterat förslagets konsekvenser för medlemmar i så kallade oäkta bostadsrättsföreningar. Riksdagen beslutade den 15 december 2005 på förslag av utskottet att lättnadsreglerna under en övergångstid ska fortsätta att gälla för medlemmar i sådana föreningar.

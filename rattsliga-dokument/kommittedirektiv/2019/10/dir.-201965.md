@@ -9,4 +9,4 @@ Utredaren ska nu även bl.a.
 • lämna nödvändiga författningsförslag.
 
 Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den
-30 november 2020\.
+30 november 2020.

@@ -1,6 +1,6 @@
 # Johan Forssell deltar i internationell konferens och företagsmässa om Ukrainas uppbyggnad och utveckling
 
-– Sveriges stöd till Ukraina är brett och långsiktigt och kommer att fortsätta så länge det behövs. Det stora svenska deltagandet i företagsmässan är mycket glädjande och visar tydligt på det stora engagemang för Ukraina som finns bland svenska företag, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+– Sveriges stöd till Ukraina är brett och långsiktigt och kommer att fortsätta så länge det behövs. Det stora svenska deltagandet i företagsmässan är mycket glädjande och visar tydligt på det stora engagemang för Ukraina som finns bland svenska företag, säger bistånds- och utrikeshandelsminister Johan Forssell.
 
 Tillsammans med bland andra Ukrainas energiminister German Galuschenko är Johan Forssell en av invigningstalarna på konferensen. Han deltar också som en av huvudtalarna vid eventet Energy for the Recovery of Ukraine, som anordnas av det ukrainska energiministeriet. I företagsmässans svenska paviljong deltar närmare 40 svenska företag från en rad olika branscher.
 

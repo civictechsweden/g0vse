@@ -14,4 +14,4 @@ flytande naturgas ska endast få återkallas av tillsynsmyndigheten om de
 tekniska kraven och säkerhetskraven för anläggningen inte är uppfyllda
 eller om den myndighet som är certifieringsmyndighet enligt EU:s gasförordning konstaterar att det inte skulle försämra försörjningstryggheten för gas på unionsnivå eller på nationell nivå om verksamheten upphörde.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2023\.
+Lagändringarna föreslås träda i kraft den 1 juli 2023.

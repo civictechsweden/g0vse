@@ -8,9 +8,9 @@ Den andra riktlinjen gäller frågan om markhälsa, där Sverige hoppas kunna st
 
 Den tredje allmänna riktlinjen gäller direktivet om gröna påståenden.  Det handlar om att säkerställa att konsumenter får tillförlitlig, jämförbar och verifierbar information för att de ska kunna fatta mer hållbara beslut. Syftet är att minska risken för så kallad ”greenwashing” och falska miljöpåståenden.
 
-Ministrarna ska också fortsätta diskutera EU:s nya klimatmål för 2040\. Kommissionen rekommenderar utifrån en konsekvensanalys ett mål om 90 procents nettominskning av utsläppen till 2040 jämfört med 1990\.
+Ministrarna ska också fortsätta diskutera EU:s nya klimatmål för 2040. Kommissionen rekommenderar utifrån en konsekvensanalys ett mål om 90 procents nettominskning av utsläppen till 2040 jämfört med 1990.
 
-En annan punkt på dagordningen är hur EU\-länderna bättre kan förbereda sig inför framtida klimatrisker och det strategiska arbetet med klimatanpassning. Diskussionen utgår från en klimat\- och sårbarhetsanalys som Europeiska miljöbyrån, EEA, presenterade i mars i år och som pekar ut 36 allvarliga klimatrisker för Europa.
+En annan punkt på dagordningen är hur EU-länderna bättre kan förbereda sig inför framtida klimatrisker och det strategiska arbetet med klimatanpassning. Diskussionen utgår från en klimat- och sårbarhetsanalys som Europeiska miljöbyrån, EEA, presenterade i mars i år och som pekar ut 36 allvarliga klimatrisker för Europa.
 
 Medlemsländerna ska också anta rådsslutsatser om EU:s åttonde miljöhandlingsprogram.
 

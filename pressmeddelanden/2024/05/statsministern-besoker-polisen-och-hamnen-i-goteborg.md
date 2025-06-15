@@ -8,4 +8,4 @@ Statsministern kommer även att delta i partiaktiviteter i Göteborg.
 
 ### Praktisk information för media
 
-Media är välkomna att närvara under båda besöken i mån av plats. Obligatorisk föranmälan senast idag måndag 27 maj kl. 12\.45\.
+Media är välkomna att närvara under båda besöken i mån av plats. Obligatorisk föranmälan senast idag måndag 27 maj kl. 12.45.

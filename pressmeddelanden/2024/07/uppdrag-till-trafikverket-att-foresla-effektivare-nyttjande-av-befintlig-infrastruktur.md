@@ -8,4 +8,4 @@ De åtgärder som identifieras bör vara åtgärder inom kommuners och regioners
 
 Trafikverket ska under arbetets gång också inhämta synpunkter från Boverket, Trafikanalys och ett urval av kommuner och regioner.
 
-Uppdraget ska redovisas senast den 14 februari 2025\.
+Uppdraget ska redovisas senast den 14 februari 2025.

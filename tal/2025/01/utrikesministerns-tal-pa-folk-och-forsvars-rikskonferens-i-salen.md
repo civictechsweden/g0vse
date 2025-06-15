@@ -1,6 +1,6 @@
 # Utrikesministerns tal på Folk och försvars rikskonferens i Sälen
 
-Utrikesministerns tal på Folk och försvars rikskonferens i Sälen 12 januari 2025.
+Utrikesminister Maria Malmer Stenergards tal på Folk och försvars rikskonferens i Sälen den 12 januari 2025.
 
 Det talade ordet gäller.
 

@@ -1,3 +1,3 @@
 # Viktigare lagar och förordningar inför årsskiftet 2002/2003
 
-Skriften innehåller en kort sammanfattning av de viktigare lagar och förordningar som träder i kraft kring årsskiftet 2002/2003\.
+Skriften innehåller en kort sammanfattning av de viktigare lagar och förordningar som träder i kraft kring årsskiftet 2002/2003.

@@ -12,4 +12,4 @@ I den nya lagen föreslås bland annat:
 
 Enligt förslaget kommer gemenskapsföretag och företagsgrupper med vissa avtal i huvudsak att vara undantagna från den nya lagen.
 
-Den nya lagen föreslås träda i kraft den 6 juni 2011\.
+Den nya lagen föreslås träda i kraft den 6 juni 2011.

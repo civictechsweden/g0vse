@@ -9,11 +9,11 @@ Regeringen lämnar också förslag om en förstärkt sekretess för
 uppgifter om personer med skyddad folkbokföring som är parter i mål
 och ärenden hos alla myndigheter och domstolar.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2019\.
+Lagändringarna föreslås träda i kraft den 1 januari 2019.
 
 I propositionen föreslås också några åtgärder som syftar till att
 förbättra kvaliteten i folkbokföringen. Skatteverket ska få möjlighet att
 avregistrera falska identiteter från folkbokföringen och göra
 kontrollbesök för att kontrollera en persons bosättning. Folkbokföringsbrott införs på nytt. Straffansvar inträder när någon uppsåtligen lämnar oriktig uppgift till grund för beslut om folkbokföring eller inte fullgör sin anmälningsskyldighet och åtgärden innebär fara i bevishänseende. Det ska även vara möjligt att dömas för grovt folkbokföringsbrott. Ringa fall är dock undantagna från straffansvar.
 
-Dessa lagändringar föreslås träda i kraft den 1 juli 2018\.
+Dessa lagändringar föreslås träda i kraft den 1 juli 2018.

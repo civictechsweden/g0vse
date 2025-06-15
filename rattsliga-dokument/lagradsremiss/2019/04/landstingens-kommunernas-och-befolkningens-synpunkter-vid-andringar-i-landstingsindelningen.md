@@ -9,4 +9,4 @@ Vidare ska befolkningens önskemål och synpunkter beaktas vid
 ändringar i landstingsindelningen. Berörda landsting ska, om det inte är uppenbart obehövligt, som ett led i beredningen av ett yttrande eller en ansökan om ändrad landstingsindelning inhämta synpunkter från
 befolkningen.
 
-Lagändringen föreslås träda i kraft den 1 januari 2020\.
+Lagändringen föreslås träda i kraft den 1 januari 2020.

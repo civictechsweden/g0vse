@@ -1,6 +1,6 @@
 # Nationella minoriteter i Sverige
 
-I propositionen lämnas förslag till åtgärder som behövs för att Sverige skall kunna ratificera Europarådets ramkonvention om skydd för nationella minoriteter och den europeiska stadgan om landsdels\- eller minoritetsspråk.
+I propositionen lämnas förslag till åtgärder som behövs för att Sverige skall kunna ratificera Europarådets ramkonvention om skydd för nationella minoriteter och den europeiska stadgan om landsdels- eller minoritetsspråk.
 
 Det innebär att Sveriges nationella minoriteter och deras språk erkänns samt att minoritetsspråken ges det stöd som behövs för att de skall hållas levande. Härigenom läggs en grund för en samlad svensk minoritetspolitik.
 
@@ -11,4 +11,4 @@ eller delvis på dessa språk. För samiska föreslås området omfatta Arjeplog
 
 Regeringen redovisar i propositionen också rikstäckande åtgärder som regeringen avser att vidta för att stödja de nationella minoriteterna och minoritetsspråken. Det gäller utbildningsfrågor, kulturverksamhet, massmedierna, arkivfrågor, äldreomsorg, översättning av vissa författningar, inflytande och samarbete över nationsgränserna.
 
-Lagarna föreslås träda i kraft den 1 april 2000\.
+Lagarna föreslås träda i kraft den 1 april 2000.

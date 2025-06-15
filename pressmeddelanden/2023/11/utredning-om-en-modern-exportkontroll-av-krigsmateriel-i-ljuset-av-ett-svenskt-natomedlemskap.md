@@ -8,4 +8,4 @@ Uppdraget är begränsat till att föreslå ändringar inför ett kommande medle
 
 Utredaren ska även se över vissa andra frågor, bland annat om tillståndskrav för underleverantörer till svensk försvarsindustri och internationella samarbeten rörande utveckling och produktion av krigsmateriel.
 
-Uppdraget ska redovisas senast den 30 november 2024\.
+Uppdraget ska redovisas senast den 30 november 2024.

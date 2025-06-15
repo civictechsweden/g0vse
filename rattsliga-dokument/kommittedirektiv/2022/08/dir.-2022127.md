@@ -9,11 +9,11 @@ sådana förändringar för att säkerställa de grundläggande förutsättninga
 
 • klarlägga behovet av krav på planering, förberedelseåtgärder och
 kontinuerlig leverans av vattentjänster samt vid behov lämna förslag på
-sådana krav för att stärka va\-huvudmännens beredskap att leverera
+sådana krav för att stärka va-huvudmännens beredskap att leverera
 vattentjänster vid händelse av kris, höjd beredskap och då ytterst krig
 
 • klarlägga omfattningen av behovet av en försörjningsberedskap
 avseende vattentjänster och lämna förslag för att säkerställa robusthet
 och kontinuitet i hela landet av försörjningen av kritiska material.
 
-Uppdraget ska redovisas senast den 31 januari 2024\.
+Uppdraget ska redovisas senast den 31 januari 2024.

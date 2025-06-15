@@ -11,6 +11,6 @@ Propositionen innehåller förslag till bestämmelser som reglerar Utbetalningsm
 * Statliga myndigheter och vissa andra aktörer, som exempelvis arbetslöshetskassorna,  ska under vissa förhållanden lämna uppgifter till Utbetalningsmyndigheten. Utbetalningsmyndigheten ska i sin tur även underrätta andra myndigheter och berörda aktörer vid fusk och bidragsbrott samt vid andra felaktigheter.
 * Därtill föreslås bestämmelser om sekretess och personuppgiftsbehandling för att skydda den personliga integriteten.
 
-De nya lagarna föreslås träda i kraft samtidigt som Utbetalningsmyndigheten inrättas den 1 januari 2024\.
+De nya lagarna föreslås träda i kraft samtidigt som Utbetalningsmyndigheten inrättas den 1 januari 2024.
 
 – Ett av de allvarligaste hoten mot vår välfärd är organiserad brottslighet som utnyttjar systemen för sin egen vinning. Statens förmåga att bekämpa välfärdsbrott behöver förbättras avsevärt och inrättandet av Utbetalningsmyndigheten är ett stort steg i rätt riktning för att kunna motverka fusk och bidragsbrott, säger Elisabeth Svantesson.

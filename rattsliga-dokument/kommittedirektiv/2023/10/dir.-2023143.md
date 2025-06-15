@@ -9,7 +9,7 @@ Utredaren ska bland annat
 * ta ställning till vilka uppgifter och vilken folkrättslig ställning som polisen ska ha i krig,
 * bedöma om gränsövervakningen i krig bör organiseras på ett annat sätt än enligt nuvarande system,
 * föreslå hur polisens behov av helikoptertransporter ska kunna säkerställas,
-* ta ställning till om polisens förmåga att fullgöra skydds\- och bevakningsuppdragen kan stärkas, och
+* ta ställning till om polisens förmåga att fullgöra skydds- och bevakningsuppdragen kan stärkas, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 15 april 2025\.
+Uppdraget ska redovisas senast den 15 april 2025.

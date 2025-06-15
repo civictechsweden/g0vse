@@ -10,14 +10,14 @@ modernt, effektivt och ändamålsenligt.
 Utredaren ska bland annat:
 
 * analysera riktlinjerna för utförsel och annan utlandssamverkan i ljuset av
-ett svenskt Natomedlemskap och lämna förslag på förändringar
+  ett svenskt Natomedlemskap och lämna förslag på förändringar
 * föreslå en ändamålsenlig reglering för underleverantörer till svensk
-försvarsindustri
+  försvarsindustri
 * analysera svensk försvarsindustris förutsättningar att ingå
-materielsamarbeten på likvärdiga villkor och vid behov lämna förslag på
-förändringar av regelverket
+  materielsamarbeten på likvärdiga villkor och vid behov lämna förslag på
+  förändringar av regelverket
 * analysera och lämna ytterliga förslag som säkerställer ett moderniserat,
-effektivt och ändamålsenligt regelverk för krigsmateriel
+  effektivt och ändamålsenligt regelverk för krigsmateriel
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 30 november 2024\.
+Uppdraget ska redovisas senast den 30 november 2024.

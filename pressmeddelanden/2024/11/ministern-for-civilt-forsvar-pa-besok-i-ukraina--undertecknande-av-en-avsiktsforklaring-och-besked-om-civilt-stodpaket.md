@@ -2,11 +2,11 @@
 
 Sverige har sedan Rysslands fullskaliga och brutala invasion av Ukraina gett betydande multilateralt civilt stöd till Ukraina genom EU:s civilskyddsmekanism. Det totala värdet av det svenska stödet via EU:s civilskyddsmekanism uppgår till cirka 985 miljoner kronor.
 
-Ministern för civilt försvar, Carl\-Oskar Bohlin, har den här veckan rest till Ukraina för att underteckna en avsiktsförklaring tillsammans med den ukrainska inrikesministern. Avsiktsförklaringen är ett viktigt steg för att stärka ländernas bilaterala samarbete, utöver det multilaterala stödet.
+Ministern för civilt försvar, Carl-Oskar Bohlin, har den här veckan rest till Ukraina för att underteckna en avsiktsförklaring tillsammans med den ukrainska inrikesministern. Avsiktsförklaringen är ett viktigt steg för att stärka ländernas bilaterala samarbete, utöver det multilaterala stödet.
 
 I samband med att avsiktsförklaringen undertecknades så presenterades även ett civilt stödpaket till Ukraina, inklusive donation av materiel och långsiktigt samarbete mellan svenska och ukrainska myndigheter, som regeringen avser besluta om.
 
-– Sverige kommer fortsätta att stötta Ukraina så länge det krävs. Den avsiktsförklaring som jag och inrikesminister Klymenko i dag har undertecknat är ett starkt kvitto på detta och kommer fördjupa samarbetet mellan våra länder. Som ett första steg avser regeringen bistå Ukraina med ett civilt stödpaket, som bland annat innehåller skyddsmasker via MSB och fartyg från Kustbevakningen, säger minister för civilt försvar Carl\-Oskar Bohlin.
+– Sverige kommer fortsätta att stötta Ukraina så länge det krävs. Den avsiktsförklaring som jag och inrikesminister Klymenko i dag har undertecknat är ett starkt kvitto på detta och kommer fördjupa samarbetet mellan våra länder. Som ett första steg avser regeringen bistå Ukraina med ett civilt stödpaket, som bland annat innehåller skyddsmasker via MSB och fartyg från Kustbevakningen, säger minister för civilt försvar Carl-Oskar Bohlin.
 
 ## Avsiktsförklaring om närmare samverkan mellan Sverige och Ukraina
 
@@ -28,4 +28,4 @@ Kustbevakningen ansvarar för att personbilarna, lastbilen och skåpbilen samt s
 
 MSB får också i uppdrag att anskaffa 40 000 skyddsmasker med tillhörande filter och skänka dem till Ukraina. Värdet av donationen uppgår till ett värde av 100 miljoner kronor.
 
-Finansieringen av donationen sker inom ramen för den treåriga ekonomiska Ukrainaram på totalt 75 miljarder kronor som regeringen beslutade om i maj 2024\.
+Finansieringen av donationen sker inom ramen för den treåriga ekonomiska Ukrainaram på totalt 75 miljarder kronor som regeringen beslutade om i maj 2024.

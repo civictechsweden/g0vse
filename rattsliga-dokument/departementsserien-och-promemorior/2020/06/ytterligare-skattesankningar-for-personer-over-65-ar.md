@@ -14,4 +14,4 @@ Förslaget föranleder ändringar i inkomstskattelagen.
 Ändringarna föreslås träda i kraft de n 1 januari 2021
 
 Remissvaren ska ha kommit in till Finansdepartementet senast den
-18 augusti 2020\.
+18 augusti 2020.

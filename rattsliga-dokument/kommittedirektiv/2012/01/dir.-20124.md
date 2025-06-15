@@ -7,4 +7,4 @@ En särskild utredare ska göra en översyn av reglerna om statlig krigsförsäk
 * analysera frågor om uttag av avgifter (premier) och storleken på sådana avgifter (premier), samt
 * överväga och föreslå en lämplig utformning av krigsutbrottsavtalen vad avser svenskt intresse.
 
-Utredaren ska lämna de författningsförslag som övervägandena ger anledning till. Uppdraget ska redovisas senast den 31 oktober 2012\.
+Utredaren ska lämna de författningsförslag som övervägandena ger anledning till. Uppdraget ska redovisas senast den 31 oktober 2012.

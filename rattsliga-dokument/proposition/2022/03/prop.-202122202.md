@@ -4,4 +4,4 @@ I propositionen föreslås att det ska göras vissa förtydliganden i betaltjän
 
 I propositionen behandlas också två tillkännagivanden från riksdagen.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2022\.
+Lagändringarna föreslås träda i kraft den 1 juli 2022.

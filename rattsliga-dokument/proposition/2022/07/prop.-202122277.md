@@ -8,4 +8,4 @@ Syftet med förslaget är att tvister om de årliga hyres­ändringarna ska kunn
 
 För att ytter­ligare effektivi­sera hyres­förhand­lingarna föreslås skärpta regler för hur förhand­lingarna ska bedrivas. Det införs en skade­stånds­skyldighet för en part som inte inställer sig till ett förhand­lings­samman­träde som ska hållas inom viss tid. Det föreslås också att det skade­stånd som en part ska ha rätt till om mot­parten bryter mot sin förhand­lings­skyldig­het ska uppgå till minst ett i lag angivet belopp.
 
-De nya reglerna föreslås träda i kraft den 1 januari 2023\.
+De nya reglerna föreslås träda i kraft den 1 januari 2023.

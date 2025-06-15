@@ -6,8 +6,8 @@ Intresset för omställningsstudiestödet har varit större än väntat vilket h
 
 Det har också varit svårt för den som redan arbetar inom ett yrkesområde med hög efterfrågan på arbetskraft, även kallat bristyrken, att få omställningsstudiestöd för att utbilda sig inom nya arbetsområden. Detta eftersom även efterfrågan på arbetsmarknaden inom det arbetsområde som en person redan arbetar inom ska beaktas.
 
-– Det här medför att det kan bli svårt för till exempel hälso\- och sjukvårdspersonal och lärare att ställa om till ett nytt yrke, även om det finns behov av arbetskraft inom det nya arbetsområdet. Det behöver vi ändra på, säger Mats Persson.
+– Det här medför att det kan bli svårt för till exempel hälso- och sjukvårdspersonal och lärare att ställa om till ett nytt yrke, även om det finns behov av arbetskraft inom det nya arbetsområdet. Det behöver vi ändra på, säger Mats Persson.
 
 I en promemoria föreslår Utbildningsdepartementet därför att reglerna för bedömningen av vilka utbildningar som omställningsstudiestöd får lämnas för ska förändras. Vid bedömningen av om en viss utbildning kan antas stärka den studerandes framtida ställning på arbetsmarknaden är det bara arbetsmarknadens behov inom det arbetsområde som utbildningen gäller som ska beaktas. Det föreslås också en motsvarande justering av vad omställningsorganisationerna ska yttra sig om.
 
-Ändringarna föreslås träda i kraft den 1 januari 2025\. Vissa förordningsändringar som föreslås i CSN:s promemoria bedöms av CSN kunna träda i kraft redan den 1 mars 2024\.
+Ändringarna föreslås träda i kraft den 1 januari 2025. Vissa förordningsändringar som föreslås i CSN:s promemoria bedöms av CSN kunna träda i kraft redan den 1 mars 2024.

@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen att identifiera och beskriva juridiska hinder för den ambulanssjukvård som passerar Sveriges landsgränser mot Norge, Danmark och Finland.
 
-
 ## God, säker och kostnadseffektiv gränsöverskridande ambulanssjukvård
 
 Myndigheten ska analysera de juridiska hinder som identifieras för ambulanssjukvård som passerar Sveriges landsgränser. Dessutom ska myndigheten belysa och analysera frågeställningar som är nödvändiga för att göra gränsöverskridande ambulanssjukvård möjlig.
@@ -17,4 +16,4 @@ Eventuella övriga frågeställningar, som är nödvändiga för att möjliggör
 
 Om det behövs ska myndigheterna föreslå författningsändringar för respektive ansvarsområde. Socialstyrelsen ska – om det behövs – samverka med andra myndigheter och aktörer.
 
-Uppdraget redovisas till Socialdepartementet senast den 1 april 2021\.
+Uppdraget redovisas till Socialdepartementet senast den 1 april 2021.

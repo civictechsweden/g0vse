@@ -11,6 +11,6 @@ Förslaget innebär att:
 * domstolar och vissa förvaltningsmyndigheter inte är skyldiga att konsultera, samt att
 * vissa ärendetyper och även vissa andra särskilt angivna fall undantas från konsultationsplikten.
 
-Den nya lagen och vissa relaterade lagändringar i sametingslagen föreslås träda i kraft den 1 mars 2022\.
+Den nya lagen och vissa relaterade lagändringar i sametingslagen föreslås träda i kraft den 1 mars 2022.
 
-Regioner och kommuner ansluts till konsultationsordningen vilket föreslås träda i kraft den 1 mars 2024\.
+Regioner och kommuner ansluts till konsultationsordningen vilket föreslås träda i kraft den 1 mars 2024.

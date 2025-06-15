@@ -6,4 +6,4 @@ Enligt förslaget i promemorian kan statsbidraget beviljas då organisationens v
 
 Förslaget innebär i huvudsak följande i förhållande till den nu gällande ordningen. För det första utvidgas målgruppen i den nya stödordningen. Förutom statsstödsberättigade trossamfund kan även ideella föreningar och vissa stiftelser beviljas stöd för säkerhetshöjande åtgärder. Stödet lämnas under förutsättning att vissa angivna villkor i bidragsförordningen är uppfyllda. För det andra ska Kammarkollegiet ansvara för att pröva ansökningar och fördela statsbidraget. För det tredje ska Polismyndigheten yttra sig i samband med prövningen av ansökningar.
 
-Den nya bidragsförordningen föreslås träda i kraft den 1 september 2018\.
+Den nya bidragsförordningen föreslås träda i kraft den 1 september 2018.

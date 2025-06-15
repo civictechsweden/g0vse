@@ -6,7 +6,7 @@ nationernas (FN) stabiliseringsinsats i Mali (Minusma) till den
 31 december 2020, under förutsättning att det även fortsättningsvis finns
 ett giltigt mandat för styrkan enligt beslut av FN:s säkerhetsråd.
 
-Minusmas mandat omfattar att stödja genomförandet av fredsavtalet i Mali, stabilisering av landet och skydda civila, stöd till den politiska dialogen och nationell försoning, främja mänskliga rättigheter samt stödja humanitär biståndsverksamhet. Det planerade svenska styrkebidraget föreslås bestå av ett lätt skyttekompani som tillsammans med en nationell stödenhet utgör del av Minusmas samlade förmåga att upprätthålla FN:s säkerhetsrådsresolution 2480 (2019\).
+Minusmas mandat omfattar att stödja genomförandet av fredsavtalet i Mali, stabilisering av landet och skydda civila, stöd till den politiska dialogen och nationell försoning, främja mänskliga rättigheter samt stödja humanitär biståndsverksamhet. Det planerade svenska styrkebidraget föreslås bestå av ett lätt skyttekompani som tillsammans med en nationell stödenhet utgör del av Minusmas samlade förmåga att upprätthålla FN:s säkerhetsrådsresolution 2480 (2019).
 
 Det svenska skyttekompaniet föreslås vara stationerat i Gao, huvudort i Minusmas östra sektor. Emellertid kan det svenska styrkebidraget komma att användas i hela Minusmas insatsområde.
 Parallellt med det svenska styrkebidraget i Gao ska det svenska bidraget också omfatta en styrka för avveckling av det tidigare svenska

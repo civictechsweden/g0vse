@@ -1,7 +1,6 @@
 # Sverige ledande i energiomställning enligt utvärdering av Internationella energibyrån (IEA)
 
-En utvärdering av Sveriges energipolitik visar att Sverige är i framkant i arbetet med att ställa om till ett energisystem med låga utsläpp. Rapporten visar också att det är viktigt att Sverige framöver fokuserar på transportsektorn och industrins energianvändning för att nå uppsatta energi\- och klimatmål.
-
+En utvärdering av Sveriges energipolitik visar att Sverige är i framkant i arbetet med att ställa om till ett energisystem med låga utsläpp. Rapporten visar också att det är viktigt att Sverige framöver fokuserar på transportsektorn och industrins energianvändning för att nå uppsatta energi- och klimatmål.
 
 ## Sverige är ledande i omställningen av energisystemet
 

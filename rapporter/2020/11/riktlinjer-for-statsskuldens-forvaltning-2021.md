@@ -1,8 +1,8 @@
 # Riktlinjer för statsskuldens förvaltning 2021
 
-Statsskulden ökade kraftigt under 2020 och väntas fortsatt öka kraftigt under 2021 och 2022, för att återigen minska 2023\. Ökningen av statsskulden bedöms vara tillfällig och föranleder därför ingen ändring av riktlinjerna för statsskuldsförvaltningen.
+Statsskulden ökade kraftigt under 2020 och väntas fortsatt öka kraftigt under 2021 och 2022, för att återigen minska 2023. Ökningen av statsskulden bedöms vara tillfällig och föranleder därför ingen ändring av riktlinjerna för statsskuldsförvaltningen.
 
-I riktlinjebeslutet för 2021 sker inga förändringar i styrningen i jämfört med föregående år. De statliga gröna obligationerna, som Riksgälds\-kontoret har emitterat, omfattas av de övergripande riktlinjerna för statsskuldens sammansättning och löptid.
+I riktlinjebeslutet för 2021 sker inga förändringar i styrningen i jämfört med föregående år. De statliga gröna obligationerna, som Riksgälds-kontoret har emitterat, omfattas av de övergripande riktlinjerna för statsskuldens sammansättning och löptid.
 
 Statsskuldens sammansättning ska styras mot:
 

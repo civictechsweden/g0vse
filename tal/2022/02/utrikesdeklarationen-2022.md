@@ -3,7 +3,6 @@
 Regeringens utrikesdeklaration presenterades av utrikesminister Ann Linde vid 2022 års utrikespolitiska debatt i riksdagen onsdagen den 16 februari.
 Det talade ordet gäller.
 
-
 Herr talman!
 
 Vi befinner oss i ett allvarligt säkerhetspolitiskt läge. Rysslands ökande konfrontativa retorik och militära aktiviteter, både synliga och dolda, är oacceptabla. Den upptrappade ryska militära närvaron vid Ukrainas gräns och de ryska kraven på säkerhetsgarantier hotar kärnan i den europeiska säkerhetsordningen.
@@ -18,13 +17,13 @@ Herr talman!
 
 Rätten att göra egna säkerhetspolitiska val är nyckeln till vår säkerhet. Regeringen avser inte att ansöka om Natomedlemskap. Den säkerhetspolitiska linjen ligger fast. Vår militära alliansfrihet tjänar oss väl och bidrar till stabilitet och säkerhet i norra Europa.
 
-Vi kombinerar detta med en försvarspolitik som vilar på två ben: förstärkt nationell förmåga och fördjupade internationella försvarssamarbeten. Däri intar samarbetet med Finland en särställning. Sedan 2014 har vi byggt upp ett fungerande försvarspolitiskt säkerhetsnätverk, och slutit ett 30\-tal överenskommelser och omkring 20 samarbetsavtal, inte minst med våra nordiska och baltiska grannar. Vi bygger upp militär förmåga såväl med enskilda länder som med Nato. Och vi bygger upp en trovärdig nationell försvarsförmåga genom den största satsningen på svenskt försvar sedan 1950\-talet.
+Vi kombinerar detta med en försvarspolitik som vilar på två ben: förstärkt nationell förmåga och fördjupade internationella försvarssamarbeten. Däri intar samarbetet med Finland en särställning. Sedan 2014 har vi byggt upp ett fungerande försvarspolitiskt säkerhetsnätverk, och slutit ett 30-tal överenskommelser och omkring 20 samarbetsavtal, inte minst med våra nordiska och baltiska grannar. Vi bygger upp militär förmåga såväl med enskilda länder som med Nato. Och vi bygger upp en trovärdig nationell försvarsförmåga genom den största satsningen på svenskt försvar sedan 1950-talet.
 
-Sverige kommer inte att förhålla sig passivt om en katastrof eller ett angrepp skulle drabba ett annat EU\-land eller ett nordiskt land. Vi förväntar oss att dessa länder agerar på samma sätt om Sverige drabbas. Ett väpnat angrepp mot Sverige kan inte uteslutas. Vi ska därför kunna ge och ta emot stöd, såväl civilt som militärt.
+Sverige kommer inte att förhålla sig passivt om en katastrof eller ett angrepp skulle drabba ett annat EU-land eller ett nordiskt land. Vi förväntar oss att dessa länder agerar på samma sätt om Sverige drabbas. Ett väpnat angrepp mot Sverige kan inte uteslutas. Vi ska därför kunna ge och ta emot stöd, såväl civilt som militärt.
 
 Men det är vi som bestämmer med vilka vi samarbetar och hur detta samarbete ser ut – i fredstid, i kris och i krig.
 
-Sveriges utrikes\- och säkerhetspolitik bygger på sammanhållning i EU och ökat samarbete på bred front: i Norden, Östersjöområdet, genom Organisationen för säkerhet och samarbete i Europa (OSSE) och genom fördjupat partnerskap med Nato. FN och folkrätten förblir en hörnsten i svensk utrikespolitik. En stark transatlantisk länk är nödvändig för Europas säkerhet.
+Sveriges utrikes- och säkerhetspolitik bygger på sammanhållning i EU och ökat samarbete på bred front: i Norden, Östersjöområdet, genom Organisationen för säkerhet och samarbete i Europa (OSSE) och genom fördjupat partnerskap med Nato. FN och folkrätten förblir en hörnsten i svensk utrikespolitik. En stark transatlantisk länk är nödvändig för Europas säkerhet.
 
 Herr talman!
 
@@ -34,7 +33,7 @@ Vi har stärkt plattformen för dialog. Behovet av dialog är större än någon
 
 Vi har stärkt plattformen för konfliktlösning. Som ordförande fokuserade vi på konfliktlösning i Ukraina, Moldavien, Georgien och södra Kaukasien.
 
-Möten med civilsamhället är alltid en prioritet och var det även under OSSE\-ordförandeskapet. I Ryssland har situationen för mänskliga rättigheter blivit allt sämre. Ett alltmer repressivt samhälle har omöjliggjort för människorättsförsvarare att utföra sitt viktiga arbete. Nedstängningen av organisationen Memorial är ett av många upprörande exempel.
+Möten med civilsamhället är alltid en prioritet och var det även under OSSE-ordförandeskapet. I Ryssland har situationen för mänskliga rättigheter blivit allt sämre. Ett alltmer repressivt samhälle har omöjliggjort för människorättsförsvarare att utföra sitt viktiga arbete. Nedstängningen av organisationen Memorial är ett av många upprörande exempel.
 
 I Belarus har vi sett hur regimen på ett cyniskt sätt utnyttjat migranter i politiska syften. Belarus måste släppa alla politiska fångar och hålla demokratiska val.
 
@@ -42,17 +41,17 @@ Sverige har som ordförande också verkat för att den ryska aggressionen mot Uk
 
 Herr talman!
 
-Vi lever mitt i en accelererande klimat\- och miljökris. Sverige ska vara ledande i klimatomställningen. Men den globala ambitionsnivån är långt ifrån tillräcklig. Klimatförändringarna och miljöförstöringen bidrar till ökade spänningar och konflikter. Klimatet har en avgörande betydelse för vår säkerhet. Vi måste ta de klimatrelaterade säkerhetshoten på största allvar.
+Vi lever mitt i en accelererande klimat- och miljökris. Sverige ska vara ledande i klimatomställningen. Men den globala ambitionsnivån är långt ifrån tillräcklig. Klimatförändringarna och miljöförstöringen bidrar till ökade spänningar och konflikter. Klimatet har en avgörande betydelse för vår säkerhet. Vi måste ta de klimatrelaterade säkerhetshoten på största allvar.
 
-Under vårt OSSE\-ordförandeskap kunde ett beslut fattas om de utmaningar som klimatförändringarna medför. Tack vare Sveriges pådrivande roll har nu OSSE fått mandat att arbeta förebyggande mot klimatförändringarnas påverkan på säkerheten i regionen.
+Under vårt OSSE-ordförandeskap kunde ett beslut fattas om de utmaningar som klimatförändringarna medför. Tack vare Sveriges pådrivande roll har nu OSSE fått mandat att arbeta förebyggande mot klimatförändringarnas påverkan på säkerheten i regionen.
 
-Vi ska tillsätta en ambassadör för klimat\- och säkerhet. Vi ska bygga in ny expertis i våra internationella krishanteringsinsatser, i fredsbyggandet, i det internationella utvecklingssamarbetet och inom klimatdiplomatin. Vi ska fortsätta att stärka den svensk\-initierade FN\-mekanismen för klimat och säkerhet. På bara några år har mekanismen blivit en stöttepelare i länder och regioner som befinner sig i klimatrelaterade konflikter.
+Vi ska tillsätta en ambassadör för klimat- och säkerhet. Vi ska bygga in ny expertis i våra internationella krishanteringsinsatser, i fredsbyggandet, i det internationella utvecklingssamarbetet och inom klimatdiplomatin. Vi ska fortsätta att stärka den svensk-initierade FN-mekanismen för klimat och säkerhet. På bara några år har mekanismen blivit en stöttepelare i länder och regioner som befinner sig i klimatrelaterade konflikter.
 
-I juni ska Sverige stå värd för Stockholm\+50, ett internationellt FN\-möte som bidrar till en rättvis och global grön omställning.
+I juni ska Sverige stå värd för Stockholm+50, ett internationellt FN-möte som bidrar till en rättvis och global grön omställning.
 
 Herr talman!
 
-Covid\-19\-pandemin har försvårat genomförandet av Agenda 2030\. De globala framsteg som gjorts under de senaste åren, som förbättringar när det gäller mödrars och barns hälsa och jämställdhet, har delvis suddats ut. Det är första gången på 20 år som hungern och den extrema fattigdomen har ökat i världen.
+Covid-19-pandemin har försvårat genomförandet av Agenda 2030. De globala framsteg som gjorts under de senaste åren, som förbättringar när det gäller mödrars och barns hälsa och jämställdhet, har delvis suddats ut. Det är första gången på 20 år som hungern och den extrema fattigdomen har ökat i världen.
 
 Agenda 2030 är vår färdplan för att vända trenden.
 
@@ -60,23 +59,23 @@ Herr talman!
 
 Vikten av ett bättre globalt hälsosystem och insikten om att pandemins konsekvenser har slagit hårdast mot kvinnor och barn har varit några smärtsamma lärdomar.
 
-Regeringen drev tidigt frågan om en mer jämlik fördelning av vaccin mot Covid\-19\. Det globala vaccinsamarbetet Covax har nu levererat 1 miljard doser till 144 länder runt om i världen. Sverige är världens största bidragsgivare till Covax sett per invånare och femte största givare totalt.
+Regeringen drev tidigt frågan om en mer jämlik fördelning av vaccin mot Covid-19. Det globala vaccinsamarbetet Covax har nu levererat 1 miljard doser till 144 länder runt om i världen. Sverige är världens största bidragsgivare till Covax sett per invånare och femte största givare totalt.
 
 Arbetet med att stärka den globala hälsosäkerheten, inte minst när det gäller arbetet med att motverka antibiotikaresistens och att utveckla ett kraftfullt nytt globalt pandemifördrag, prioriteras. Regeringen kommer därför att tillsätta en ambassadör på Socialdepartementet som ska arbeta med den globala hälsosäkerheten.
 
 Herr talman!
 
-EU är Sveriges viktigaste utrikes\- och säkerhetspolitiska arena. I en osäker tid står medlemsländerna starkare tillsammans. Vi ska fortsätta att stärka våra nära band till våra partners inom EU, liksom till våra nordiska och baltiska grannar. Arbetet med visionen om Norden som den mest hållbara, integrerade och digitaliserade regionen ska stärkas.
+EU är Sveriges viktigaste utrikes- och säkerhetspolitiska arena. I en osäker tid står medlemsländerna starkare tillsammans. Vi ska fortsätta att stärka våra nära band till våra partners inom EU, liksom till våra nordiska och baltiska grannar. Arbetet med visionen om Norden som den mest hållbara, integrerade och digitaliserade regionen ska stärkas.
 
 Regeringen vill se ett starkt EU som kan ta större ansvar för sin egen säkerhet, men vi understryker samtidigt att detta inte står i motsatsförhållande till öppenhet i utvecklande av partnerskap eller en stark transatlantisk länk.
 
-Nästa år kommer Sverige för tredje gången att vara EU:s ordförandeland. EU\-ministern redovisade nyligen hur arbetet med regeringens prioriteringar ska bedrivas i EU. Det är en ambitiös agenda.
+Nästa år kommer Sverige för tredje gången att vara EU:s ordförandeland. EU-ministern redovisade nyligen hur arbetet med regeringens prioriteringar ska bedrivas i EU. Det är en ambitiös agenda.
 
 Situationen för flyktingar och migranter kräver vår fortsatta uppmärksamhet. EU måste få ett gemensamt asylsystem som är rättssäkert, humant och hållbart, där alla tar sitt ansvar.
 
-Vi har fortsatt ett nära samarbete med Storbritannien, inte minst inom säkerhets\- och försvarspolitiken, handel samt inom utbildning och forskning.
+Vi har fortsatt ett nära samarbete med Storbritannien, inte minst inom säkerhets- och försvarspolitiken, handel samt inom utbildning och forskning.
 
-USA är tillbaka på den globala arenan som en konstruktiv partner. Det är glädjande för fortsatta och fördjupade samarbeten, inte minst på klimat\-, demokrati\- och jämställdhetsområdena. Samarbete med USA är centralt inom säkerhets\- och försvarspolitiken, inom handel och på teknikområdet.
+USA är tillbaka på den globala arenan som en konstruktiv partner. Det är glädjande för fortsatta och fördjupade samarbeten, inte minst på klimat-, demokrati- och jämställdhetsområdena. Samarbete med USA är centralt inom säkerhets- och försvarspolitiken, inom handel och på teknikområdet.
 
 Herr talman!
 
@@ -84,13 +83,13 @@ Den feministiska utrikespolitiken fortsätter växa. Sverige var först. Och det
 
 Arbetet ska vässas, inte minst givet den motreaktion mot jämställdhet som vi sett i spåren av pandemin. Våld mot kvinnor och flickor har ökat över hela världen. Med pandemin, klimatkrisen och ett minskat demokratiskt utrymme, riskerar vi nu en global recession för jämställdheten. En feministisk utrikespolitik behövs mer än någonsin.
 
-Vi ska ta fram en ny nationell handlingsplan för kvinnor, fred och säkerhet och vi ska också ta fram en ny global jämställdhetsstrategi för biståndet under 2022\. I FN:s Generation Equality Forum är Sverige med och leder arbetet för kvinnors ekonomiska egenmakt.
+Vi ska ta fram en ny nationell handlingsplan för kvinnor, fred och säkerhet och vi ska också ta fram en ny global jämställdhetsstrategi för biståndet under 2022. I FN:s Generation Equality Forum är Sverige med och leder arbetet för kvinnors ekonomiska egenmakt.
 
 Herr talman!
 
 För femte året i rad ser vi hur antalet länder som rör sig i auktoritär riktning är fler än de som rör sig i en demokratisk riktning. Militärkupper i Myanmar, Sudan, Mali och Burkina Faso, talibanernas maktövertagande i Afghanistan, en förvärrad situation i Belarus och konflikten i Etiopien är dramatiska exempel på demokratins tillbakagång.
 
-Under det demokratitoppmöte som USA:s president Joe Biden stod värd för var Sverige en aktiv partner i flera aktiviteter där både statsministern och jag deltog. Det svenska budskapet var att framväxten av högerpopulistiska och nationalistiska krafter undergräver demokratin, samt att mänskliga rättigheter, rättsstatens principer och kvinnors politiska och ekonomiska deltagande är centrala för demokratin. Hbtqi\-personers rättigheter ska respekteras fullt ut internationellt.
+Under det demokratitoppmöte som USA:s president Joe Biden stod värd för var Sverige en aktiv partner i flera aktiviteter där både statsministern och jag deltog. Det svenska budskapet var att framväxten av högerpopulistiska och nationalistiska krafter undergräver demokratin, samt att mänskliga rättigheter, rättsstatens principer och kvinnors politiska och ekonomiska deltagande är centrala för demokratin. Hbtqi-personers rättigheter ska respekteras fullt ut internationellt.
 
 Sverige är i år ordförande i Internationella alliansen för hågkomst av Förintelsen där vi fortsatt ska främja hågkomst av Förintelsen och, med all kraft, bekämpa antisemitism och antiziganism.
 
@@ -134,7 +133,7 @@ Herr talman!
 
 Vi ska stå upp för den fria handeln, särskilt i tider då protektionismens vindar ökar. Det multilaterala handelssystemet, med bas i Världshandelsorganisationen, är grundläggande för tillväxt och välfärd. Hot mot det regelbaserade handelssystemet är ett hot mot Sveriges ekonomi och våra handelsrelationer. Samtidigt som samarbete är viktigt, inte minst inom handel, agerar vi mot säkerhetshotande verksamhet riktad mot Sverige och svenska företag.
 
-Sverige och EU behöver arbeta ännu närmare likasinnade för att säkerställa och utveckla en global handel, med fokus på den gröna omställningen till ett fossilfritt samhälle. Vår handelspolitik ska bidra till att uppnå målen i Parisavtalet och Agenda 2030\.
+Sverige och EU behöver arbeta ännu närmare likasinnade för att säkerställa och utveckla en global handel, med fokus på den gröna omställningen till ett fossilfritt samhälle. Vår handelspolitik ska bidra till att uppnå målen i Parisavtalet och Agenda 2030.
 
 Genom Sveriges deltagande i världsutställningen Expo 2020 synliggör vi hur svenska lösningar möjliggör en omställning till en grön och hållbar riktning.
 

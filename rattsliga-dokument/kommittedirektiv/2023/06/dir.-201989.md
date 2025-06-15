@@ -11,4 +11,4 @@ Utredaren ska bland annat
 * analysera vilka krav som ska ställas för att godkännas för anställning i auktoriserade bevakningsföretag, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 21 maj 2021\.
+Uppdraget ska redovisas senast den 21 maj 2021.

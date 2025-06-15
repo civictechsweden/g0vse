@@ -7,4 +7,4 @@ Regeringen föreslår att all skriftlig kommunikation i konkursförfarandet ska 
 Regeringen föreslår också att det obligatoriska edgångssammanträdet i tingsrätt ersätts med en ordning där gäldenären skriftligen bekräftar bouppteckningen vid ett sammanträde hos konkursförvaltaren.
 Därutöver lämnas förslag på vissa ytterligare effektiviseringar av konkurshanteringen när det gäller gäldenärens bokföringshandlingar, förvaltarens berättelser och utbetalning av utdelningsmedel till borgenärerna.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2021\.
+Lagändringarna föreslås träda i kraft den 1 juli 2021.

@@ -12,8 +12,6 @@ Kulturråd som är på plats:
 * Maria Lind, kulturråd vid Sveriges ambassad i Moskva
 * Pia Lundberg, kulturråd vid Sveriges ambassad i London
 
-
-
 **Sveriges utsända kulturråd**
 
 Kulturrådens uppgift är främst att främja svenskt kulturutbyte med stationeringslandet och stimulera den kulturella dialogen mellan länderna. Kulturråden ska också verka för kulturen som en del i satsningar på att främja svenskt näringsliv och handelsutbyte, men också om att lyfta Sverigebilden och Sveriges demokratiska värderingar. Kulturrådet i Bryssel företräder Sverige i det europeiska samarbetet, tillvaratar svenska intressen och arbetar för att svenska positioner får genomslag.

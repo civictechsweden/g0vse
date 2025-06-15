@@ -8,4 +8,4 @@ I propositionen finns också förslag som syftar till att effektivisera Kronofog
 
 Slutligen föreslås att den gällande lagen om näringsförbud ersätts med en ny lag. Den nya lagen föreslås få en ny språklig och redaktionell utformning.
 
-Lagändringarna föreslås träda i kraft den 2 augusti 2014\.
+Lagändringarna föreslås träda i kraft den 2 augusti 2014.

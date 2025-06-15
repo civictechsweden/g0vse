@@ -12,4 +12,4 @@ Lagen innehåller flera olika skyddsåtgärder som avser att ge enskildas person
 
 Personuppgifter som direkt kan hänföras till den registrerade ska som huvudregel separeras från övriga personuppgifter. Endast vissa kategorier av känsliga personuppgifter ska få ligga till grund för sökningar för att få fram ett urval av personer. Dessutom innehåller lagen bestämmelser om bland annat krav på den enskildes medgivande vid viss personuppgiftsbehandling och begränsningar av tillgången till personuppgifter.
 
-Lagen föreslås träda i kraft den 1 januari 2025\.
+Lagen föreslås träda i kraft den 1 januari 2025.

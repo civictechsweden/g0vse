@@ -1,9 +1,6 @@
 # Energi- och inomhusmiljödeklaration för byggnader
 
 En lag om energideklaration för byggnader föreslås för att genomföra Europaparlamentets och rådets direktiv 2002/91/EG om byggnaders energiprestanda.
-
 Lagens syfte är att främja en effektiv energianvändning och en god inomhusmiljö i byggnader. Lagen innehåller bestämmelser om en skyldighet för ägaren till en byggnad att se till att byggnaden besiktigas och att vissa uppgifter om byggnadens energianvändning och inomhusmiljö deklareras i en energideklaration. En sådan deklaration ska upprättas när en byggnad uppförs. För större så kallade specialbyggnader och byggnader som upplåts med nyttjanderätt ska det alltid finnas en deklaration som inte är äldre än tio år. En deklaration ska upprättas när en byggnad säljs, om det inte redan finns en deklaration för byggnaden eller om den senast upprättade deklarationen är äldre än tio år. Ägaren till en byggnad ska se till att en oberoende expert besiktigar byggnaden och upprättar deklarationen. Ägaren ska också se till att ett exemplar av energideklarationen lämnas in till Boverket, som ska ansvara för ett deklarationsregister.
-
 Särskilda krav ställs på regelbunden besiktning av större luftkonditioneringssystem. Särskilda krav ställs även vid uppförandet av större byggnader, då byggnadens ägare, för byggnadsnämnden, ska redovisa alternativa energiförsörjningssystem för byggnaden och de olika alternativens tekniska, miljömässiga och ekonomiska genomförbarhet.
-
-Lagen ska träda i kraft den 1 oktober 2006\. Övergångsbestämmelser föreslås, som innebär att specialbyggnaderna och flerbostadshus ska vara deklarerade senast vid utgången av 2008\. Övriga byggnader ska börja deklareras den 1 januari 2009\.
+Lagen ska träda i kraft den 1 oktober 2006. Övergångsbestämmelser föreslås, som innebär att specialbyggnaderna och flerbostadshus ska vara deklarerade senast vid utgången av 2008. Övriga byggnader ska börja deklareras den 1 januari 2009.

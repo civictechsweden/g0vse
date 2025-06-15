@@ -2,19 +2,19 @@
 
 ## Miljösanktionsavgifter
 
-Regeringen har beslutat om ändring i förordningen (2016:1130\) om ändring i förordningen (2012:259\) om miljösanktionsavgifter. Ändringen innebär att felaktiga hänvisningar till en annan författning rättas till.
+Regeringen har beslutat om ändring i förordningen (2016:1130) om ändring i förordningen (2012:259) om miljösanktionsavgifter. Ändringen innebär att felaktiga hänvisningar till en annan författning rättas till.
 
 ### Referenser
 
-* förordningen (2016:1130\) om ändring i förordningen (2012:259\) om miljösanktionsavgifter
+* förordningen (2016:1130) om ändring i förordningen (2012:259) om miljösanktionsavgifter
 
 ## Miljöledning i statliga myndigheter
 
-Regeringen har beslutat om ändring i förordningen om miljöledning i statliga myndigheter. Ändringen föranleds av att Revisorsnämnden byter namn till Revisorsinspektionen. Ändringen träder i kraft den 1 april 2017\.
+Regeringen har beslutat om ändring i förordningen om miljöledning i statliga myndigheter. Ändringen föranleds av att Revisorsnämnden byter namn till Revisorsinspektionen. Ändringen träder i kraft den 1 april 2017.
 
 ### Referenser
 
-* förordningen (2009:907\) om miljöledning i statliga myndigheter
+* förordningen (2009:907) om miljöledning i statliga myndigheter
 
 ## Följdändringar med anledning av en ny lag om bekämpning av marknadsmissbruk
 
@@ -22,18 +22,18 @@ Riksdagen har behandlat regeringens proposition Effektiv bekämpning av marknads
 
 ### Referenser
 
-* regeringens proposition Effektiv bekämpning av marknadsmissbruk (prop. 2016/17:22\)
+* regeringens proposition Effektiv bekämpning av marknadsmissbruk (prop. 2016/17:22)
 * finansutskottets betänkande 2016/17:FiU14 Effektiv bekämpning av marknadsmissbruk
 * riksdagsskrivelse 2016/17:119
-* lagen (2004:1199\) om handel med utsläppsrätter
-* lagen (2013:385\) om ingripande mot marknadsmissbruk vid handel med grossistenergiprodukter
-* förordningen (2004:1205\) om handel med utsläppsrätter.
+* lagen (2004:1199) om handel med utsläppsrätter
+* lagen (2013:385) om ingripande mot marknadsmissbruk vid handel med grossistenergiprodukter
+* förordningen (2004:1205) om handel med utsläppsrätter.
 
 ## Mer information
 
-Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske onsdagen den 28 december 2016\.
+Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske onsdagen den 28 december 2016.
 
 **Kontaktpersoner**
-Miljösanktionsavgifter: Magnus Moreau 08\-405 41 27
-Miljöledning och utsläppsrätter: Christoffer Sheats 08\-405 25 27
-Grossistenergiprodukter: Andreas Lindholm 08\-405 14 54
+Miljösanktionsavgifter: Magnus Moreau 08-405 41 27
+Miljöledning och utsläppsrätter: Christoffer Sheats 08-405 25 27
+Grossistenergiprodukter: Andreas Lindholm 08-405 14 54

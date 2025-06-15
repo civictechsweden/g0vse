@@ -8,6 +8,6 @@ Kriminalvården föreslås ansvara för verkställigheten av ungdomsövervakning
 
 Om den dömde inte inställer sig för att medverka i verkställighetsplaneringen eller inte kommer till möten med koordinatorn, ska Kriminalvården kunna begära hjälp av Polismyndigheten för att hämta den dömde. Föreskrifter om inskränkningar i rörelsefriheten ska också kunna verkställas med hjälp av Polismyndigheten.
 
-För att möjliggöra sådant informationsutbyte mellan Kriminalvården och andra myndigheter och aktörer som kan behövas vid bl.a. upprättande av verkställighetsplanen föreslås vissa ändringar i offentlighets\- och sekretesslagen (2009:400\).
+För att möjliggöra sådant informationsutbyte mellan Kriminalvården och andra myndigheter och aktörer som kan behövas vid bl.a. upprättande av verkställighetsplanen föreslås vissa ändringar i offentlighets- och sekretesslagen (2009:400).
 
-Lagändringarna föreslås träda i kraft den 1 januari 2021\.
+Lagändringarna föreslås träda i kraft den 1 januari 2021.

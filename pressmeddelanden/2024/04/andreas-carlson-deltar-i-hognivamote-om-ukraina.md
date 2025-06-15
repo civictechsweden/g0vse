@@ -2,7 +2,7 @@
 
 Syftet med mötet är att samla transportministrar från ITF:s medlemsländer och internationella organisationer för att diskutera hur man kan stärka samarbetet kring stödet till återuppbyggnaden av Ukrainas transportsystem, både på kort och lång sikt.
 
-ITF har på Sveriges initiativ startat en plattform för koordinering av kort\- och långsiktigt stöd till Ukraina. Den lanserades officiellt den 15 december 2023 i Kiev och har fått namnet Common Interest Group for Transport in Ukraine (CIG4U).
+ITF har på Sveriges initiativ startat en plattform för koordinering av kort- och långsiktigt stöd till Ukraina. Den lanserades officiellt den 15 december 2023 i Kiev och har fått namnet Common Interest Group for Transport in Ukraine (CIG4U).
 
 Plattformen ska koordinera stödet till Ukrainas omedelbara transportrelaterade behov samt utföra av Ukraina prioriterade forskningsprojekt som ska ligga till grund för den långsiktiga återuppbyggnaden av landets transportsystem.
 

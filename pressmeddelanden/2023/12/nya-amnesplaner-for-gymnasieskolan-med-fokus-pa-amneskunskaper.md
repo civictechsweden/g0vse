@@ -8,6 +8,6 @@ Bland förändringarna kan nämnas att de nya ämnesplanerna har en tydligare pr
 
 De ämnen regeringen har beslutat om ämnesplaner för är de så kallade gymnasiegemensamma ämnena som alla elever läser, både på yrkesprogram och högskoleförberedande program. Skolverket har tagit fram förslagen till ämnesplaner i samarbete med ämnesexperter och olika referensgrupper, bland annat med verksamma lärare och forskare. Ämnesplanerna i alla övriga ämnen på gymnasial nivå är det Skolverket som både tar fram och beslutar om.
 
-De nya ämnesplanerna kommer att börja tillämpas på utbildning som påbörjas från och med den 1 juli 2025\.
+De nya ämnesplanerna kommer att börja tillämpas på utbildning som påbörjas från och med den 1 juli 2025.
 
 Förslaget bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

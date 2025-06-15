@@ -17,4 +17,4 @@ Förslagen i promemorian avser ändringar i lagen om värdepappersmarknaden och 
 
 I promemorian föreslås även att det ska göras en ändring i lagen om värdepappersmarknaden som rör Finansinspektionens beslut att förbjuda handel i vissa fall, med anledning av att Europeiska kommissionen har ifrågasatt om EU:s öppenhetsdirektiv har genomförts på ett tillräckligt klart och precist sätt i svensk rätt.
 
-Lagändringen som rör Finansinspektionens beslut att förbjuda handel i vissa fall föreslås träda i kraft den 1 juni 2025\. Lagändringarna i övrigt föreslås träda i kraft den 29 september 2025\.
+Lagändringen som rör Finansinspektionens beslut att förbjuda handel i vissa fall föreslås träda i kraft den 1 juni 2025. Lagändringarna i övrigt föreslås träda i kraft den 29 september 2025.

@@ -4,5 +4,4 @@ Här kan du ta del av svaren från dem som har ombetts att svara på remissen SO
 
 Övriga yttranden finns tillgängliga i departementet.
 
-
-Sista dag att svra på remissen är den 7 augusti 2023\.
+Sista dag att svra på remissen är den 7 augusti 2023.

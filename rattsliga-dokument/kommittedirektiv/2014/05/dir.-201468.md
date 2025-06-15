@@ -11,4 +11,4 @@ Utredaren ska bl.a.:
 * föreslå hur de olika indikatorerna ska presenteras, samt
 * föreslå hur ofta indikatorerna ska mätas, samt i vilken form och med vilken regelbundenhet resultat ska publiceras.
 
-Uppdraget ska redovisas senast den 1 juni 2015\.
+Uppdraget ska redovisas senast den 1 juni 2015.

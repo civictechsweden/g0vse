@@ -6,6 +6,6 @@ Förslaget innebär att vid bedömningen av om ett visst företag utgör ett få
 
 I promemorian föreslås också att utomståenderegeln kompletteras. Enligt förslaget ska ett företag inte anses ägt av utomstående till den del företaget direkt eller indirekt ägs av en stiftelse eller en annan juridisk person utan delägare och företagets verksamma delägare eller en sådan delägares närstående kan få del av medel eller förmåner från den juridiska personen i viss omfattning.
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2022\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2022.
 
-Remissvaren ska ha kommit in till Finansdepartementet senast den 23 juni 2021\.
+Remissvaren ska ha kommit in till Finansdepartementet senast den 23 juni 2021.

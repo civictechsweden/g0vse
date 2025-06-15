@@ -16,8 +16,8 @@ I propositionen föreslår regeringen bland annat följande:
 * Överskotts­information som har kommit fram vid hemliga tvångs­­medel ska få användas för andra ändamål.
 * Rättssäkerheten för den enskilde ska stärkas, bland annat genom för­bättrade möjlig­heter till insyn och tillsyn.
 
-Efter synpunkter från Lag­rådet har förslagen justerats i vissa delar. Bland annat föreslås en under­rättelse­skyldighet till Säkerhets\- och integritets­skydds­nämnden och vissa brott i de utvidgade brotts­katalogerna har tagits bort.
+Efter synpunkter från Lag­rådet har förslagen justerats i vissa delar. Bland annat föreslås en under­rättelse­skyldighet till Säkerhets- och integritets­skydds­nämnden och vissa brott i de utvidgade brotts­katalogerna har tagits bort.
 
-Lagändringarna föreslås träda i kraft den 1 oktober 2023\.
+Lagändringarna föreslås träda i kraft den 1 oktober 2023.
 
 Propositionen bygger på en överens­­kommelse mellan Sverige­­demokraterna, Moderaterna, Krist­­demo­kraterna och Liberalerna.

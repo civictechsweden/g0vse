@@ -4,7 +4,6 @@ Kulturminister Parisa Liljestrands anförande i samband med firandet av Chanukka
 
 Det talade ordet gäller.
 
-
 Kära vänner! Glad Chanukka!
 
 Jag är så glad över att vara här med er idag och fira denna ljusets högtid. Vi lever i mörka och prövande tider och då behöver vi, mer än på mycket länge, kunna få samlas så här och fira det som är ljust och varmt och hoppfullt.

@@ -2,7 +2,6 @@
 
 I Migrationsverkets reglerings­brev för 2023 gav regeringen myndig­heten i uppdrag att främja hög­kvalifi­cerad arbetskraft till Sverige. Vid en pressträff med migrations­minister Maria Malmer Stenergard i dag presen­terade myndigheten resultatet – en ny modell för hur hög­kvalifi­cerad arbets­kraft snabbare ska komma till Sverige.
 
-
 Att reformera reglerna kring arbets­krafts­invandring är en viktig del av regeringens paradigm­skifte på migrations­området. Regeringen vill att Sverige ska vara konkurrens­kraftigt och kunna locka talanger. För att kunna göra det så måste det vara enkelt att ansöka om arbets­tillstånd och det ska gå snabbt att få besked. Mot bakgrund av detta så gav regeringen Migrations­verket i uppdrag att främja den hög­kvalifi­cerade arbets­krafts­invand­ringen till Sverige.
 
 Under dagens pressträff med migrations­ministern presen­terade Migrations­verkets general­direktör Mikael Ribbenvik myndig­hetens arbete med att möta uppdraget. Migrations­verket har i dag fattat ett inrikt­nings­beslut om att införa en ny modell för arbets­tillstånd och inrättande av enheter för inter­nationell rekrytering. Den nya modellen, som ska införas i slutet av året, ska särskilt främja rekryteringen för arbets­givare som söker hög­kvalificerad arbets­kraft utanför EU. Den syftar också till att korta handlägg­nings­tiden för samtliga arbets­marknads­ärenden. En komplett ansökan om arbets­tillstånd för hög­kvalificerad arbets­kraft ska få beslut inom 30 dagar.

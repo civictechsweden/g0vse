@@ -2,8 +2,7 @@
 
 Inledningstal av statsminister Ulf Kristersson vid Symposium – Samling mot antisemitism.
 
-Stockholm, 30 september 2024\. Det talade ordet gäller.
-
+Stockholm, 30 september 2024. Det talade ordet gäller.
 
 Välkomna hit – och tack för att ni tar er tid att diskutera de här viktiga frågorna tillsammans med oss.
 
@@ -13,13 +12,13 @@ Antisemitismen var redan då och sedan väldigt länge omfattande på sina håll
 
 Den 7 oktober 2023 begicks det värsta massmordet på judar sedan Förintelsen. Och attacken fördömdes också brett i stora delar av världen. Samtidigt firades våldet på gator och torg – både i Sverige och i andra länder, med fyrverkerier, sång och dans. Det blev en tydlig kontrast mot löftet om”aldrig igen”. Och det blev tydligt att vi har mycket kvar att göra.
 
-Bara ett par veckor efter den 7 oktober samlades EU:s alla stats\- och regeringschefer till toppmöte i Bryssel. Jag kommer aldrig glömma det mötet.
+Bara ett par veckor efter den 7 oktober samlades EU:s alla stats- och regeringschefer till toppmöte i Bryssel. Jag kommer aldrig glömma det mötet.
 
 Det började med en diskussion om attacken och om allt det stora som EU:s länder faktiskt är helt eniga om:
 
 Israels rätt att existera som stat. Israels rätt att försvara sig – inom folkrätten och den humanitära rättens ramar. Vikten av att minimera skada för civila. Krav på att ovillkorligt släppa gisslan. Krav också på omedelbart humanitärt tillträde. Ytterst att det bara är en förhandlad tvåstatslösning, med två demokratiska länder som kan leva sida vid sida, som kan ge varaktig fred och frihet för både israeler och palestinier.
 
-Därefter en diskussion, där olika EU\-länders sedan länge olika historiska relation till Palestina och till staten Israel på nytt kom i dagen. Inget nytt där.
+Därefter en diskussion, där olika EU-länders sedan länge olika historiska relation till Palestina och till staten Israel på nytt kom i dagen. Inget nytt där.
 
 Men sedan övergick diskussionen sakta till något helt annat: Premiärminister efter premiärminister började vittna om den våg av antisemitism som plötsligt grasserade i deras egna hemländer. Berlin, Köpenhamn, Paris, Stockholm. Wien.
 
@@ -29,7 +28,7 @@ För mig blev det väldigt tydligt: vi har som fredligt land ett delansvar att g
 
 Ansatsen här idag är bred, just för att problemet är så utbrett och komplext.
 
-Efter attacken den 7 oktober såg vi hur antalet brott med antisemitiska motiv ökade. Fem gånger så många brott anmäldes förra året jämfört med samma period 2022\.
+Efter attacken den 7 oktober såg vi hur antalet brott med antisemitiska motiv ökade. Fem gånger så många brott anmäldes förra året jämfört med samma period 2022.
 
 När jag besökte Judiska församlingen i Malmö och Hillelskolan här i Stockholm fick jag höra från lärare, föräldrar och elever, att många svenska judar fruktar för sin familjs säkerhet.
 
@@ -81,7 +80,7 @@ Vi ger ytterligare resurser till institutet Paideia för att de ska fortsätta s
 
 \*\*\*\*\*
 
-EU\-kommissionens ordförande Ursula von der Leyen sa för fem år sen att det inte skulle finnas någon europeisk kultur utan judisk kultur. Att det inte skulle finnas något Europa utan det judiska folket.
+EU-kommissionens ordförande Ursula von der Leyen sa för fem år sen att det inte skulle finnas någon europeisk kultur utan judisk kultur. Att det inte skulle finnas något Europa utan det judiska folket.
 
 Och det är likadant med Sverige. Judisk kultur är en del av svensk kultur. Judisk historia är en del av vår gemensamma historia. Och den judiska framtiden är en del av Sveriges framtid. Vi har ett ansvar att vårda både historien och framtiden. Det är vår gemensamma förpliktelse.
 

@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om statens åtgärder för utveckling av elsystemet
 
-I skrivelsen redogör regeringen för sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen lämnar i rapporten Statens åtgärder för utveckling av elsystemet – reaktiva och bristfälligt underbyggda (RiR 2023:15\).
+I skrivelsen redogör regeringen för sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen lämnar i rapporten Statens åtgärder för utveckling av elsystemet – reaktiva och bristfälligt underbyggda (RiR 2023:15).
 
 Riksrevisionens övergripande slutsats är att de statliga aktörerna inte
 förberett och genomfört åtgärder med påverkan på elsystemet på ett sätt

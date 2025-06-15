@@ -12,4 +12,4 @@ Efter en tid, med underhållsstöd på grund av särskilda skäl, ska underhåll
 
 Regeringen föreslår också en bestämmelse om att Försäkringskassan ska vara skyldig att underrätta alla berörda personer om beslut om underhållsstöd på grund av särskilda skäl.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2022\.
+Lagändringarna föreslås träda i kraft den 1 januari 2022.

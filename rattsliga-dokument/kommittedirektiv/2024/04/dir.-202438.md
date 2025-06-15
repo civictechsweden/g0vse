@@ -8,19 +8,19 @@ utanförskapet är stort.
 Samordnaren ska bl.a.
 
 * inhämta erfarenheter från lokala aktörer i kommuner med områden där
-utanförskapet är stort och sammanställa en lägesbild över situationen i
-dessa områden och arbetet mot utanförskap i kommunerna,
+  utanförskapet är stort och sammanställa en lägesbild över situationen i
+  dessa områden och arbetet mot utanförskap i kommunerna,
 * kartlägga framgångsrikt arbete mot utanförskap samt sammanställa och
-sprida goda exempel på insatser inom kommunernas ansvarsområden
-med fokus på framför allt skola och förskola,
+  sprida goda exempel på insatser inom kommunernas ansvarsområden
+  med fokus på framför allt skola och förskola,
 * kartlägga framgångsrikt arbete inom skolan i syfte att hantera
-gängkriminalitet, inhämta kunskaper från internationella erfarenheter av
-gängkriminalitet i skolmiljön och sammanställa goda exempel på
-arbetssätt för hur skolor konkret kan arbeta förebyggande och
-åtgärdande,
+  gängkriminalitet, inhämta kunskaper från internationella erfarenheter av
+  gängkriminalitet i skolmiljön och sammanställa goda exempel på
+  arbetssätt för hur skolor konkret kan arbeta förebyggande och
+  åtgärdande,
 * kartlägga och sprida goda exempel på centrala samverkansaktörer och
-bra samverkansformer, och
+  bra samverkansformer, och
 * lämna förslag med syfte att stärka och utveckla kommunernas arbete
-mot utanförskap.
+  mot utanförskap.
 
-Uppdraget ska redovisas senast den 31 december 2024\.
+Uppdraget ska redovisas senast den 31 december 2024.

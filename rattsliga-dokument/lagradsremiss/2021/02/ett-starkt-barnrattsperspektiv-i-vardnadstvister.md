@@ -18,4 +18,4 @@ För barn som riskerar att fara illa finns det behov av ökat skydd. Socialnämn
 
 Regeringen föreslår även att domstolen i verkställighetsärenden i fler fall ska kunna besluta att vardera parten ska bära sin rättegångskostnad, om det krävs för att uppnå en rimlig fördelning.
 
-Lagen om informationssamtal föreslås träda i kraft den 1 januari 2022, medan kravet på att ha deltagit i ett samtal för att få framställa ett tvistigt yrkande föreslås träda i kraft den 1 mars 2022\. Lagändringarna i övrigt föreslås träda i kraft den 1 juli 2021\.
+Lagen om informationssamtal föreslås träda i kraft den 1 januari 2022, medan kravet på att ha deltagit i ett samtal för att få framställa ett tvistigt yrkande föreslås träda i kraft den 1 mars 2022. Lagändringarna i övrigt föreslås träda i kraft den 1 juli 2021.

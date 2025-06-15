@@ -2,7 +2,6 @@
 
 Uttalande av utrikesminister Tobias Billström med anledning av avrättning i Iran.
 
-
 Det är med bestörtning som jag har tagit del av informationen att avrättningen av den svenske medborgaren Habib Chaab i dag har verkställts.
 
 Dödsstraffet är ett omänskligt och oåterkalleligt straff och Sverige, tillsammans med övriga EU, fördömer dess tillämpning under alla omständigheter.

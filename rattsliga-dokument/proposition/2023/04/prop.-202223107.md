@@ -8,4 +8,4 @@ Den som har tillgodoräknats stöd föreslås vara återbetalningsskyldig om st�
 
 Beslut enligt den nya lagen föreslås gälla omedelbart.
 
-De nya reglerna föreslås träda i kraft den 8 maj 2023\.
+De nya reglerna föreslås träda i kraft den 8 maj 2023.

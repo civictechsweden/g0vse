@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om upprättandet av tillfälliga gränskontroller vid inre gräns
 
-I denna skrivelse redovisar regeringen sin bedömning av de iakttagelser och slutsatser som framgår av Riksrevisionens rapport Upprättandet av tillfälliga gränskontroller vid inre gräns (RIR 2016:26\).
+I denna skrivelse redovisar regeringen sin bedömning av de iakttagelser och slutsatser som framgår av Riksrevisionens rapport Upprättandet av tillfälliga gränskontroller vid inre gräns (RIR 2016:26).
 
 Riksrevisionen har granskat Polismyndighetens upprättande av tillfälliga gränskontroller vid inre gräns under perioden november 2015 till och med maj 2016 samt de beslut om återinförande och förlängning av gränskontroll som fattades av regeringen under denna period.
 

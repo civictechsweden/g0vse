@@ -8,4 +8,4 @@ Specialförbanden är en militärstrategisk resurs som verkar i fred, kris och k
 
 Sverige har samarbetat med USA:s specialförband tidigare, bland annat i övningar. I oktober 2021 genomfördes en större gemensam specialförbandsövning på Gotland, som bland annat omfattade inflygning och gruppering av det amerikanska artilleriraketsystemet HIMARS (High Mobility Artillery Rocket System) utanför Visby.
 
-Avsiktsförklaringen är ännu ett steg mot ett fortsatt fördjupat samarbete mellan USA och Sverige. Under 2024 har ett försvarsavtal (DCA) och ett strategiskt partnerskapsprogram (SPP) med USA:s nationalgarde undertecknats. Detta kommer att förstärka Sveriges nationella och kollektiva försvar.
+Avsiktsförklaringen är ännu ett steg mot ett fortsatt fördjupat samarbete mellan USA och Sverige. Under 2023 har ett försvarsavtal (DCA) och ett delstatligt partnerskapsprogram (SPP) med nationalgardet i New York undertecknats. Detta kommer att förstärka Sveriges nationella och kollektiva försvar.

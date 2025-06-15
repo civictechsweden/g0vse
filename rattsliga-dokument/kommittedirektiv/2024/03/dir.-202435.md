@@ -10,4 +10,4 @@ Utredaren ska bland annat
 * ta ställning till om regeringen bör bemyndigas att kunna sända en väpnad styrka utomlands i syfte att bistå vid evakueringsinsatser.
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 15 april 2025\.
+Uppdraget ska redovisas senast den 15 april 2025.

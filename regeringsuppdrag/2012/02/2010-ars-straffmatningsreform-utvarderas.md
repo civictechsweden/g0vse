@@ -4,4 +4,4 @@ Regeringen beslutar att ge Brottsförebyggande rådet (Brå) i uppdrag att utfö
 
 Syftet med utvärderingen är att följa upp om reformen fått avsedd effekt, bl.a. när det gäller straffnivåerna för allvarliga våldsbrott.
 
-Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 15 mars 2014\.
+Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 15 mars 2014.

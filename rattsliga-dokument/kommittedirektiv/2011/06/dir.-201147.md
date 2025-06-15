@@ -6,16 +6,14 @@ Regeringen har den 9 juni 2011 beslutat att en särskild utredare få i uppdrag 
 
 * analysera förutsättningarna för och lämna förslag till vilka villkor som bör gälla för riksdagens delegation av föreskriftsrätt till kommuner när det gäller trängselskatt,
 * lämna förslag på uttag av avgifter för användandet av de nya broarna över Sundsvallsfjärden, Motalaviken och Skurusundet, undersöka villkoren för att ta ut trängselskatt och avgifter för användandet av infrastruktur för fordon som inte är registrerade i Sverige,
-* analysera utformningen av påminnelse\- och sanktionsavgifter vid utebliven betalning,
+* analysera utformningen av påminnelse- och sanktionsavgifter vid utebliven betalning,
 * ta ställning till hur framtida höjningar av trängselskatten kan utformas för att bibehålla skattens förmåga att begränsa trängsel samt
 * överväga vilken eller vilka förvaltningsrätter som ska pröva mål om trängselskatt.
 
-Uppdraget ska redovisas senast den 30 september 2012\.
-
-
+Uppdraget ska redovisas senast den 30 september 2012.
 
 ## Kontaktpersoner
 
 Raymond Grankvist, särskild utredare
 Jennifer Moore Peterson, sekreterare
-Tel. 031\-732 74 00\.
+Tel. 031-732 74 00.

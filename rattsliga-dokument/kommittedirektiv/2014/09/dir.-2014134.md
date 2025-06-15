@@ -9,4 +9,4 @@ Utredaren ska sträva efter en fastighetstaxering och fastighetsbeskattning som 
 * överväga om det med hänsyn till påverkan på effektiviteten i elcertifikatsystemet är motiverat att värdet av elcertifikat beaktas vid fastighetstaxeringen eller vid bestämmandet av underlag för uttag av fastighetsskatt, och
 * föreslå hur anläggningar för energislag som inte kan indelas som någon av de befintliga kraftverkstyperna kan fastighetstaxeras och fastighetsbeskattas som elproduktionsenheter.
 
-Uppdraget ska redovisas senast den 15 april 2016\.
+Uppdraget ska redovisas senast den 15 april 2016.

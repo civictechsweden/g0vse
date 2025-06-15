@@ -10,4 +10,4 @@ Regeringen beslutade också om att tillföra 7 miljoner kronor i vårändringsbu
 
 Utbrottet har medfört omfattande konsekvenser för aktörer i den smittade zonen där restriktionerna nu snart kan hävas helt.
 
-I juni 2024 gav regeringen Tillväxtverket i uppdrag att utreda konsekvenserna för näringslivet i Fagersta och Norberg till följd av utbrottet av afrikansk svinpest 2023 samt analysera hur gällande ersättningsregler har tillämpats. Uppdraget ska redovisas 31 december 2024\.
+I juni 2024 gav regeringen Tillväxtverket i uppdrag att utreda konsekvenserna för näringslivet i Fagersta och Norberg till följd av utbrottet av afrikansk svinpest 2023 samt analysera hur gällande ersättningsregler har tillämpats. Uppdraget ska redovisas 31 december 2024.

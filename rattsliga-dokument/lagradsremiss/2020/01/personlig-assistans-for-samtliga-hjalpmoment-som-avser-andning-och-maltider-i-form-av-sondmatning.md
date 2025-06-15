@@ -16,6 +16,6 @@ Vid bland annat hjälp med andning ska man dock alltid ta hänsyn till hjälpbeh
 
 När den funktionshindrade går i barnomsorg eller skola ska bland annat hjälp med andning och måltider i form av sondmatning undantas från kravet på särskilda skäl för assistansersättning.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2020\.
+Lagändringarna föreslås träda i kraft den 1 juli 2020.
 
 Lagrådsremissen bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.

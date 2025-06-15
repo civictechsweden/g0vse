@@ -6,14 +6,14 @@ Paulina Brandberg kommer också att göra ett verksamhetsbesök vid Polisen för
 
 ## Program
 
-**12\.00\-14\.00 Möte med landshövdingen**
+**12.00-14.00 Möte med landshövdingen**
 
-**14\.00\-14\.30 Tid för media**
+**14.00-14.30 Tid för media**
 Adress ges vid anmälan.
 
-**14\.30\-16\.30 Verksamhetsbesök Polisen**
+**14.30-16.30 Verksamhetsbesök Polisen**
 
-**16\.30\-17\.00 Tid för media**
+**16.30-17.00 Tid för media**
 Adress ges vid anmälan.
 
 Kontakta Emelie Franzén vid intervjuförfrågningar.

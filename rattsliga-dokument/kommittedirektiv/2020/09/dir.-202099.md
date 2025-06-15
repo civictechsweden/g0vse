@@ -8,4 +8,4 @@ Myndigheten ska  upphandla fonder till det nya fondtorget och förvalta fondtor
 
 Det är regeringens avsikt att nämndmyndigheten ska ha Pensionsmyndigheten som värdmyndighet. Nämndmyndigheten kommer att ha ett stort inslag av löpande arbete som inkluderar samverkan med befintliga funktioner på Pensionsmyndigheten.
 
-Utredningstiden förlängs till den 31 augusti 2021 så att nämndmyndigheten kan inleda sin verksamhet den 1 september 2021\.
+Utredningstiden förlängs till den 31 augusti 2021 så att nämndmyndigheten kan inleda sin verksamhet den 1 september 2021.

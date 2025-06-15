@@ -8,4 +8,4 @@ Statskontoret ska analysera vilka förutsättningar länsstyrelserna och Polismy
 
 I uppdraget ingår också att utvärdera viss djurskyddsverksamhet. Det handlar framför allt om myndigheternas verksamhet i situationer där djur lider och omedelbart behöver omhändertas. Även i de fallen behövs rätt förutsättningar för verksamheten och ett effektivt samarbete mellan myndigheterna för att djuren snabbt ska få hjälp.
 
-Uppdraget ska redovisas senast 28 februari 2024\.
+Uppdraget ska redovisas senast 28 februari 2024.

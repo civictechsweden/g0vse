@@ -2,7 +2,6 @@
 
 Frågan om utvisning av klaganden till Somalia skulle strida mot artikel 7 i FN:s konvention om medborgerliga och politiska rättigheter.
 
-
 ### Sammanfattning av granskningen
 
 Kommittén beslutade att avvisa ärendet.

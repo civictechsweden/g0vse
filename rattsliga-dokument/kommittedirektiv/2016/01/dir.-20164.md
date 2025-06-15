@@ -15,6 +15,6 @@ Utredaren ska lämna nödvändiga författningsförslag.
 
 Utredaren ska kommunicera med bl.a. en parlamentarisk referensgrupp.
 
-Uppdraget ska redovisas senast den 2 maj 2017\.
+Uppdraget ska redovisas senast den 2 maj 2017.
 
 [Pressmeddelande: Ett stärkt meddelarskydd för privatanställda i verksamheter som är helt eller delvis offentligt finansierade](/pressmeddelanden/2016/01/ett-starkt-meddelarskydd-i-fler-verksamheter-utreds/)

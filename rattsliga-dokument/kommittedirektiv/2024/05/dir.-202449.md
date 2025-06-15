@@ -12,9 +12,9 @@ Sveriges säkerhet, bland annat
 
 Utredaren ska vidare, när det gäller de utlänningar som deltar i eller på annat sätt har samröre med kriminella nätverk, bland annat
 
-* lämna förslag som innebär att en sådan utlänning under vissa förutsätt\-ningar ska kunna utvisas även utan att personen har dömts för brott, och
+* lämna förslag som innebär att en sådan utlänning under vissa förutsätt-ningar ska kunna utvisas även utan att personen har dömts för brott, och
 * lämna nödvändiga författningsförslag.
 
 Utredaren ska analysera om och säkerställa att de förslag som lämnas är förenliga med de krav som ställs upp enligt regeringsformen, Europakonventionen, barnkonventionen och Sveriges åtaganden i övrigt när det gäller mänskliga rättigheter.
 
-Uppdraget ska redovisas senast den 21 november 2025\.
+Uppdraget ska redovisas senast den 21 november 2025.

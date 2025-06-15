@@ -8,4 +8,4 @@ Ett särskilt bidrag föreslås införas inom ramen för strukturbidraget för a
 
 I promemorian görs vidare bedömningen att kostnadsutjämningen bör ändras i linje med vad Utjämningskommittén.08 föreslagit. Även strukturbidraget bör, med det ovan nämnda tillägget, förändras i enlighet med utredningens förslag. Avslutningsvis görs bedömningen att införanderegler bör införas i enlighet med utredningens förslag.
 
-Samtliga ändringar föreslås träda i kraft den 1 januari 2014\.
+Samtliga ändringar föreslås träda i kraft den 1 januari 2014.

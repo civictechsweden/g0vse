@@ -1,6 +1,6 @@
 # Extra ändringsbudget för 2020 – Fler kraftfulla åtgärder med anledning av coronaviruset
 
-I propositionen föreslås fler åtgärder med anledning av coronaviruset som orsakar sjukdomen covid\-19\.
+I propositionen föreslås fler åtgärder med anledning av coronaviruset som orsakar sjukdomen covid-19.
 
 Det föreslås en tillfällig skattefrihet för förmån av fri parkering i
 anslutning till arbetsplatsen. Det föreslås även en tillfällig skattefrihet för gåvor upp till ett värde på 1 000 kronor per anställd som en arbetsgivare kan ge till sina anställda.
@@ -16,8 +16,8 @@ av handläggande myndighet får genomföra kontrollbesök för att
 kontrollera rätten till stöd vid korttidsarbete. Vidare föreslås att Skatteverkets brottsbekämpande verksamhet även ska omfatta sådana bedrägeribrott där gärningen har samband med Skatteverkets verksamhet enligt lagen om stöd vid korttidsarbete.
 
 Vidare föreslås ömsesidiga uppgiftsskyldigheter för Skatteverkets
-brottsbekämpande verksamhet å ena sidan och verksamheterna beskattning, folkbokföring respektive id\-kort å andra sidan. Förslaget syftar till att förebygga, förhindra och upptäcka sådan brottslighet som omfattas av Skatteverkets brottsbekämpande verksamhet och att de beslut som myndigheten fattar är korrekta.
+brottsbekämpande verksamhet å ena sidan och verksamheterna beskattning, folkbokföring respektive id-kort å andra sidan. Förslaget syftar till att förebygga, förhindra och upptäcka sådan brottslighet som omfattas av Skatteverkets brottsbekämpande verksamhet och att de beslut som myndigheten fattar är korrekta.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2020\.
+Lagändringarna föreslås träda i kraft den 1 juni 2020.
 
-Slutligen innehåller propositionen förslag till ändringar som avser statens inkomster och utgifter för budgetåret 2020\. Bland annat föreslås att ytterligare medel anvisas till stöd vid korttidsarbete samt ökade medel till Tillväxtverket för hantering av stödet och till Skatteverket för utökad kontrollverksamhet. Därtill föreslås medel anvisas för att mildra de ekonomiska effekterna av coronaviruset för vissa scenkonstinstitutioner och museer.
+Slutligen innehåller propositionen förslag till ändringar som avser statens inkomster och utgifter för budgetåret 2020. Bland annat föreslås att ytterligare medel anvisas till stöd vid korttidsarbete samt ökade medel till Tillväxtverket för hantering av stödet och till Skatteverket för utökad kontrollverksamhet. Därtill föreslås medel anvisas för att mildra de ekonomiska effekterna av coronaviruset för vissa scenkonstinstitutioner och museer.

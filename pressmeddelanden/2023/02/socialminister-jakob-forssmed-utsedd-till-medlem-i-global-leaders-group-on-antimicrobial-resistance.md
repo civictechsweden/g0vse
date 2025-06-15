@@ -4,4 +4,4 @@
 
 Antimikrobiell resistens (AMR) och särskilt antibiotikaresistens har länge varit en viktig fråga för Sverige och det pågår ett aktivt arbete för att motverka resistensutvecklingen och dess effekter såväl inom som utanför landets gränser. Sverige har haft stora framgångar i det nationella arbetet samt varit drivande i ett flertal initiativ inom EU och internationellt.
 
-Global Leaders Group on Antimicrobial Resistance, som har 26 medlemmar, består av världsledare och experter inom olika sektorer som arbetar för att påskynda politiska åtgärder mot antimikrobiell resistens. Gruppen bildades 2020 under FN, träffas fyra gånger årligen. Det närmaste mötet, gruppens sjätte möte, kommer att äga rum i Bridgetown på Barbados den 7\-8 februari, 2023\.
+Global Leaders Group on Antimicrobial Resistance, som har 26 medlemmar, består av världsledare och experter inom olika sektorer som arbetar för att påskynda politiska åtgärder mot antimikrobiell resistens. Gruppen bildades 2020 under FN, träffas fyra gånger årligen. Det närmaste mötet, gruppens sjätte möte, kommer att äga rum i Bridgetown på Barbados den 7-8 februari, 2023.

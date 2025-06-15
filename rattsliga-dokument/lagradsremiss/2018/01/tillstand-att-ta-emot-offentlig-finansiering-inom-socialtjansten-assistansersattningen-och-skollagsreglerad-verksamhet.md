@@ -11,4 +11,4 @@ Vidare föreslår regeringen att tillstånd att bedriva enskild verksamhet
 enligt SoL och LSS bara ska få lämnas till en juridisk person samt att
 endast juridiska personer ska kunna godkännas som huvudmän enligt skollagen.
 
-Ändringarna föreslås träda i kraft den 2 januari 2019\.
+Ändringarna föreslås träda i kraft den 2 januari 2019.

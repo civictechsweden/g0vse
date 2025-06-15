@@ -2,4 +2,4 @@
 
 Regeringen förlänger utredningstiden för Styrutredningen för funktionshinderspolitiken.
 
-Uppdraget ska redovisas senast den 30 april 2019\.
+Uppdraget ska redovisas senast den 30 april 2019.

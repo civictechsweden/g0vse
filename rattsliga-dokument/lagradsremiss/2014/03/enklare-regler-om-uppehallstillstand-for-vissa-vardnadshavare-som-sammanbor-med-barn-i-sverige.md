@@ -2,7 +2,7 @@
 
 I lagrådsremissen lämnas förslag till en särskild bestämmelse i utlänningslagen om uppehållstillstånd för en utlänning som är förälder till och vårdnadshavare för samt sammanbor med ett barn som är bosatt i Sverige. Syftet med förslaget är att tydliggöra regelverket när det gäller dessa föräldrar och säkerställa principen om barnets bästa.
 
-Lagrådsremissen innehåller också förslag till ändringar i utlänningslagen om när en ansökan om uppehållstillstånd ska vara gjord i dessa fall och om uppehållstillstånd efter lagakraftvunnet beslut om avvisning eller utvisning. Förslag till följdändringar föreslås också i utlänningslagens bestämmelser om DNA\-analys.
+Lagrådsremissen innehåller också förslag till ändringar i utlänningslagen om när en ansökan om uppehållstillstånd ska vara gjord i dessa fall och om uppehållstillstånd efter lagakraftvunnet beslut om avvisning eller utvisning. Förslag till följdändringar föreslås också i utlänningslagens bestämmelser om DNA-analys.
 
 Slutligen föreslås att Migrationsverkets beslut om främlingspass ska kunna överklagas till en migrationsdomstol i samband med att ett beslut om uppehållstillstånd överklagas och att bestämmelsen om när Migrationsverket kan utfärda främlingspass flyttas från utlänningsförordningen till utlänningslagen.
 

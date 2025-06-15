@@ -12,6 +12,6 @@ Den föreslagna lagen innehåller bestämmelser om straff för den som ingriper 
 
 Förslagen i lagrådsremissen bygger på en överenskommelse mellan regeringen och Vänsterpartiet.
 
-Lagen föreslås träda i kraft den 1 april 2017\.
+Lagen föreslås träda i kraft den 1 april 2017.
 
 [Pressmeddelande: Meddelarskydd för bättre kvalitet i välfärden](/pressmeddelanden/2016/09/meddelarskydd-for-battre-kvalitet-i-valfarden/)

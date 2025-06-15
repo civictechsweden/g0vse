@@ -1,7 +1,6 @@
 # Uppdrag att bedöma möjligheten att donera medicinteknisk utrustning, sjukvårdsmateriel m.m. till katastrof- eller krigsdrabbade områden utomlands
 
-Regeringen uppdrar åt Socialstyrelsen att bedöma myndighetens möjlighet att bistå med stöd med anledning av förfrågningar om stöd till katastrof\- eller krigsdrabbade områden utomlands.
-
+Regeringen uppdrar åt Socialstyrelsen att bedöma myndighetens möjlighet att bistå med stöd med anledning av förfrågningar om stöd till katastrof- eller krigsdrabbade områden utomlands.
 
 Socialstyrelsen ska
 

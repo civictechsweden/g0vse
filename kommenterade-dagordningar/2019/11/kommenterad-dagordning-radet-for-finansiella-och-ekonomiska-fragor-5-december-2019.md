@@ -9,7 +9,7 @@ På Ekofinrådets möte den 5 december 2019 finns följande punkter på dagordni
 * (ev.) Slutsatser om energibeskattning
 * (ev.) Ekofinrådets rapport till Europeiska rådet om skattefrågor
 * (ev.) Uppförandekodgruppen (företagsbeskattning)
-* (ev.) Rådets beslut och rekommendationer om genomförandet av stabilitets\- och tillväxtpakten
+* (ev.) Rådets beslut och rekommendationer om genomförandet av stabilitets- och tillväxtpakten
 * Slutsatser om stärkande av den europeiska finansiella arkitekturen för utveckling
 * Agendan för hållbar finansiering
 * Ekofinrådets arbetsplan för klimatåtgärder

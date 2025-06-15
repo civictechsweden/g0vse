@@ -19,7 +19,7 @@ En förutsättning vid arbetet är att den nationell strategin inte ska medföra
 
 ## Tar tillvara aktörernas kunskaper och erfarenheter
 
-Folkhälsomyndigheten ska ta tillvara på de kunskaper och erfarenheter som finns hos Socialstyrelsen, Statens skolverk, Jämställdhetsmyndigheten, Myndigheten för ungdoms\- och civilsamhällesfrågor, Sveriges Kommuner och Landsting, Riksförbundet för sexuell upplysning, Riksförbundet för homosexuellas, bisexuellas, transpersoners och queeras rättigheter, och andra berörda aktörer på området.
+Folkhälsomyndigheten ska ta tillvara på de kunskaper och erfarenheter som finns hos Socialstyrelsen, Statens skolverk, Jämställdhetsmyndigheten, Myndigheten för ungdoms- och civilsamhällesfrågor, Sveriges Kommuner och Landsting, Riksförbundet för sexuell upplysning, Riksförbundet för homosexuellas, bisexuellas, transpersoners och queeras rättigheter, och andra berörda aktörer på området.
 
 Löpande avstämningar ska genomföras med Socialdepartementet.
 

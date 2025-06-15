@@ -15,4 +15,4 @@ Kommittén ska bl.a.
 
 Kommittén ska lämna de förslag till grund­lags­ändringar och andra författ­nings­ändringar som kommittén bedömer vara motiverade.
 
-Uppdraget ska redo­visas senast den 15 november 2023\. Om kom­mittén bedömer att det är lämpligt, får den lämna ett eller flera del­betänkanden.
+Uppdraget ska redo­visas senast den 15 november 2023. Om kom­mittén bedömer att det är lämpligt, får den lämna ett eller flera del­betänkanden.

@@ -1,6 +1,6 @@
 # Effektivare informationsutbyte mellan de brottsbekämpande myndigheterna inom EU
 
-– När brottsligheten är gränsöverskridande måste även brottsbekämpningen vara det. Under det svenska EU\-ordförandeskapet var kampen mot den organiserade brottsligheten en huvudprioritering, och det handlade inte minst om brottsbekämpningens tillgång till information. Förslagen i promemorian kommer att stärka det internationella brottsbekämpande samarbetet och effektivisera den svenska brottsbekämpningen, säger justitieminister Gunnar Strömmer.
+– När brottsligheten är gränsöverskridande måste även brottsbekämpningen vara det. Under det svenska EU-ordförandeskapet var kampen mot den organiserade brottsligheten en huvudprioritering, och det handlade inte minst om brottsbekämpningens tillgång till information. Förslagen i promemorian kommer att stärka det internationella brottsbekämpande samarbetet och effektivisera den svenska brottsbekämpningen, säger justitieminister Gunnar Strömmer.
 
 Det gränsöverskridande samarbetet mellan de brotts­bekämpande myndigheterna inom EU har förbättrats under de senaste åren, men det finns fortfarande vissa praktiska och rättsliga hinder. För att säkerställa att brottsbekämpande myndigheter kan förebygga, upptäcka och utreda brott mer effektivt antogs under 2023 ett nytt direktiv om informationsutbyte. Direktivet möjliggör för brottsbekämpande myndigheter inom EU att dela relevant information med varandra på ett mer effektivt sätt.
 

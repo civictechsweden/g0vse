@@ -6,4 +6,4 @@ Regeringen beslutade den 2 mars om en förordning som gör det möjligt för sko
 
 Skolverket ska nu ta fram bidragsramar och målet är att skolhuvudmännen före sommaren ska få reda på hur stort bidrag de kan få.
 
-Totalt är 685 miljoner kronor avsatta för 2023\. Från och med 2024 är det beräknat drygt en halv miljard kronor per år.
+Totalt är 685 miljoner kronor avsatta för 2023. Från och med 2024 är det beräknat drygt en halv miljard kronor per år.

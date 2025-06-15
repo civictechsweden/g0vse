@@ -6,4 +6,4 @@ Regeringen avser att ge Skolverket i uppdrag att bland annat se över om de obli
 
 En viktig faktor för att kunna följa elevers kunskapsutveckling på lokal och nationell nivå är att det finns information om elevers resultat. Skolverket ska därför också se över hur elevers tidiga kunskapsutveckling bättre kan följas, till exempel genom ny statistikinsamling.
 
-Regeringen föreslår i budgetpropositionen för 2024 att 10 miljoner kronor avsätts till Skolverket 2024\. Uppdraget planeras att ges efter att riksdagen har fattat beslut om budgeten.
+Regeringen föreslår i budgetpropositionen för 2024 att 10 miljoner kronor avsätts till Skolverket 2024. Uppdraget planeras att ges efter att riksdagen har fattat beslut om budgeten.

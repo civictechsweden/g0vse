@@ -2,15 +2,15 @@
 
 ## Statsrådsberedningen
 
-Christian Danielsson fortsätter i rollen som statssekreterare hos EU\-minister Jessica Rosencrantz.
+Christian Danielsson fortsätter i rollen som statssekreterare hos EU-minister Jessica Rosencrantz.
 
 ## Arbetsmarknadsdepartementet
 
-Adam Alfredsson har av regeringen utsetts till statssekreterare hos arbetsmarknads\- och integrationsminister Mats Persson.
+Adam Alfredsson har av regeringen utsetts till statssekreterare hos arbetsmarknads- och integrationsminister Mats Persson.
 
-Sophia Metelius fortsätter i rollen som statssekreterare hos arbetsmarknads\- och integrationsminister Mats Persson.
+Sophia Metelius fortsätter i rollen som statssekreterare hos arbetsmarknads- och integrationsminister Mats Persson.
 
-Katarina Lundahl blir statssekreterare hos jämställdhets\- och arbetslivsminister Paulina Brandberg.
+Katarina Lundahl blir statssekreterare hos jämställdhets- och arbetslivsminister Paulina Brandberg.
 
 ## Justitiedepartementet
 
@@ -26,6 +26,6 @@ Maria Nilsson fortsätter i rollen som statssekreterare hos utbildningsminister 
 
 Dag Hartelius har av regeringen utsetts till kabinettssekreterare hos utrikesminister Maria Malmer Stenergard.
 
-Diana Janse fortsätter i rollen som statssekreterare hos bistånds\- och utrikeshandelsminister Benjamin Dousa.
+Diana Janse fortsätter i rollen som statssekreterare hos bistånds- och utrikeshandelsminister Benjamin Dousa.
 
-Håkan Jevrell fortsätter i rollen som statssekreterare hos bistånds\- och utrikeshandelsminister Benjamin Dousa.
+Håkan Jevrell fortsätter i rollen som statssekreterare hos bistånds- och utrikeshandelsminister Benjamin Dousa.

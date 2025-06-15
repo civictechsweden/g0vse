@@ -16,4 +16,4 @@ Utredaren ska bland annat:
 * analysera hur det som nu uppfattas som ett omsättningskrav i 7 kap. 16 § första stycket 1 miljöbalken kan tas bort eller justeras,
 * lämna nödvändiga författningsförslag eller förslag på andra åtgärder.
 
-Uppdraget ska redovisas den 31 mars 2023\.
+Uppdraget ska redovisas den 31 mars 2023.

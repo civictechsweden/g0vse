@@ -10,4 +10,4 @@ Utredaren ska bland annat
 * analysera behovet av och lämna förslag på en ändrad organisation för Domarnämnden, och
 * lämna nödvändiga författningsförslag.
 
-Det ingår inte i utredarens uppdrag att lämna förslag på grundlagsändringar. Uppdraget ska redovisas senast den 13 maj 2025\.
+Det ingår inte i utredarens uppdrag att lämna förslag på grundlagsändringar. Uppdraget ska redovisas senast den 13 maj 2025.

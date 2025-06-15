@@ -10,4 +10,4 @@ Brottsoffer föreslås vidare få en utökad rätt till brottsskadeersättning, 
 
 För att öka återbetalningsgraden hos de gärningsmän som är skadeståndsskyldiga ska Brottsoffermyndigheten ges ett tydligare och mer effektivt regelverk för sin verksamhet. Större utrymme skapas för Brottsoffermyndigheten att återkräva utbetalad ersättning från gärningsmannen. Det föreslås också att Brottsoffermyndigheten som huvudregel ska kvitta en utbetalning av brottsskadeersättning mot en regressfordran för tidigare utbetalad ersättning.
 
-De nya lagen föreslås träda i kraft den 1 juli 2014\.
+De nya lagen föreslås träda i kraft den 1 juli 2014.

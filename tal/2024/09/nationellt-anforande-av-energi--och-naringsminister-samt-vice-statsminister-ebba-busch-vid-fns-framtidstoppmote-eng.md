@@ -1,15 +1,14 @@
 # Nationellt anförande av energi- och näringsminister samt vice statsminister Ebba Busch vid FN:s framtidstoppmöte (eng)
 
-Nationellt anförande av energi\- och näringsminister samt vice statsminister Ebba Busch vid FN:s framtidstoppmöte, Summit of the Future, i New York den 22 september 2024\. Talet hölls på engelska, det talade ordet gäller.
-
+Nationellt anförande av energi- och näringsminister samt vice statsminister Ebba Busch vid FN:s framtidstoppmöte, Summit of the Future, i New York den 22 september 2024. Talet hölls på engelska, det talade ordet gäller.
 
 President,
 
-I extend my sincere gratitude to the President of the General Assembly, the Secretary\-General, the co\-facilitators, and all stakeholders. Your efforts have been instrumental in arriving at this crucial moment.
+I extend my sincere gratitude to the President of the General Assembly, the Secretary-General, the co-facilitators, and all stakeholders. Your efforts have been instrumental in arriving at this crucial moment.
 
 I proud to speak to you today as a representative of the Swedish government and as a mother of two. Being able to say to my children that their rights are put at the very center of the Pact for the future.
 
-The Pact of the future as agreed to today is a blueprint for a future where a rules\-based international order, based on the UN charter, is stronger and more resilient. Where cooperation and multilateralism thrives.
+The Pact of the future as agreed to today is a blueprint for a future where a rules-based international order, based on the UN charter, is stronger and more resilient. Where cooperation and multilateralism thrives.
 
 Our world faces unprecedented and interconnected challenges; the highest number of conflicts since WWII, threats to human rights, democracy, and gender equality, not to mention climate change.
 
@@ -17,11 +16,11 @@ We are at the same time living in an era where digital and emerging technologies
 
 Sweden, alongside Zambia, has had the great privilege to lead our collective efforts in agreeing on a Global Digital Compact.
 
-This is the roadmap to a digital future that is open, safe, secure, sustainable and inclusive \- where opportunity knows no borders.
+This is the roadmap to a digital future that is open, safe, secure, sustainable and inclusive - where opportunity knows no borders.
 
 The Global Digital Compact will enable closing the digital divides and turbocharge the Sustainable Development Goals.
 
-The GDC emphasizes environmental sustainability, the empowerment of women and girls \- protecting human rights in the digital space.
+The GDC emphasizes environmental sustainability, the empowerment of women and girls - protecting human rights in the digital space.
 
 A childhood in freedom requires safety online.
 
@@ -33,7 +32,7 @@ These initiatives aim to ensure that AI serves humanity and upholds our shared v
 
 President,
 
-The global needs are extensive, and the funding gap is growing. As one of the world's most generous donors, exceeding the UN’s target of 0\.7 percent of Gross National Income to ODA, Sweden welcomes the ambition to increase the effectiveness and scale of innovative financing for the Sustainable Development Goals and the Paris Agreement.
+The global needs are extensive, and the funding gap is growing. As one of the world's most generous donors, exceeding the UN’s target of 0.7 percent of Gross National Income to ODA, Sweden welcomes the ambition to increase the effectiveness and scale of innovative financing for the Sustainable Development Goals and the Paris Agreement.
 
 The reform of the international financial architecture is key. We must adapt to maintain legitimacy by ensuring fair representation and protecting the voices of the poorest and most vulnerable.
 

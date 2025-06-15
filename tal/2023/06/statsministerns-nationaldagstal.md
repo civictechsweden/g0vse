@@ -2,7 +2,6 @@
 
 Det talade ordet gäller.
 
-
 I dag firar vi en stor dag i Sveriges historia.
 
 Här i Strängnäs – bara ett stenkast från min egen trädgård – valdes Gustav Vasa till kung för exakt 500 år sen.
@@ -15,7 +14,7 @@ Och det finns anledning att i dag se tillbaka och vara stolta över den fantasti
 Vi har utvecklats från ett av Europas fattigaste länder till ett rikt välfärdssamhälle.
 
 Från ett land med kungligt envälde till en av världens starkaste demokratier.
-Ett land där vi respekterar varje människas fri\- och rättigheter, ett land där polisen beskyddar – inte förtrycker.
+Ett land där vi respekterar varje människas fri- och rättigheter, ett land där polisen beskyddar – inte förtrycker.
 
 Ett innovativt land där framgångsrika företag exporterar till hela världen.
 Ett land där vi ena dagen tävlar med våra grannländer i Eurovision – och vinner! – och nästa dag fortsätter samarbeta i EU för att lösa svåra problem.
@@ -27,9 +26,7 @@ Mycket i den svenska framgångsresan är ett föredöme för världen. Den visar
 
 Själv känner jag stolthet över att vara svensk. Och jag är stolt över att ha fått ert förtroende att vara statsminister. Ni ska veta att jag tar det förtroendet på allra största allvar.
 
-
 \*\*\*
-
 
 På 500 år har Sverige också gjort en annan resa. Från ett land där de allra flesta liknade varandra, till ett land med människor som har sina rötter i hela världen.
 
@@ -47,9 +44,7 @@ Andra – ofta nya svenskar – som inte känner sig välkomna in i samhällsgem
 
 Låt oss ta allt det här på stort allvar, på lika stort allvar.
 
-
 \*\*\*
-
 
 Det är hög tid för oss att ta nya steg för att bygga ihop Sverige. Och samlas kring det som i grunden borde göra oss till svenskar: det svenska medborgarskapet.
 
@@ -98,9 +93,7 @@ Det här språkliga och kulturella utanförskapet måste bara brytas. Det är pr
 
 Vi kommer införa obligatorisk språkförskola för de barn som behöver det. Mer svenska på skolschemat och mer lovskola för dem som annars halkar efter. Och det blir riktiga böcker i skolan.
 
-
 \*\*\*
-
 
 Ska vi bygga ihop Sverige genom medborgarskapet och genom det svenska språket, så måste vi också kunna tala om gemensamma värderingar.
 
@@ -128,9 +121,7 @@ Ska vi bli det landet måste medborgarskapet uppvärderas, svenska språket stä
 
 Jag tror egentligen att många ställer upp på det här, alldeles oavsett var man står politiskt.
 
-
 \*\*\*
-
 
 Ha nu ett riktigt fint nationaldagsfirande, och njut av allt som hör Sverige till. Den ljusa sommarkvällen, den rena naturen och den stora friheten.
 Oavsett om du är född här, eller har dina rötter någon annanstans – eller kanske själv just nu bor utomlands.

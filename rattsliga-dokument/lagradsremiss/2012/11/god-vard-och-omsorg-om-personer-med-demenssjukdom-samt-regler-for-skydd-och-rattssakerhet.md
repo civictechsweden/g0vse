@@ -6,4 +6,4 @@ Det kan innebära att tvingande skyddsåtgärder ibland kan behöva användas f�
 
 En reglering kan stärka den demenssjukes rättssäkerhet men också ge medarbetarna i vård och omsorg om personer med demenssjukdom ett stöd i det dagliga arbetet med att bedöma vilka handlingssätt som står till buds för att ta hand om personer med demenssjukdom på bästa möjliga sätt. Omsorgen om demenssjuka personer måste kunna bedrivas med så få inslag av tvång som möjligt.
 
-I lagrådsremissen föreslås en ny lag om vissa tvingande skyddsåtgärder inom socialtjänsten. Den föreslagna lagen ska bidra till att stärka utvecklingen av kvalitet och innehåll i omsorgen om personer med demenssjukdom. Lagförslagen föreslås träda i kraft den 1 juli 2014\.
+I lagrådsremissen föreslås en ny lag om vissa tvingande skyddsåtgärder inom socialtjänsten. Den föreslagna lagen ska bidra till att stärka utvecklingen av kvalitet och innehåll i omsorgen om personer med demenssjukdom. Lagförslagen föreslås träda i kraft den 1 juli 2014.

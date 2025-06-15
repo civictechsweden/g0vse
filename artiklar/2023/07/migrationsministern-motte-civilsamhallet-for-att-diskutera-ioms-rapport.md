@@ -2,7 +2,6 @@
 
 Den 29 juni bjöd migrations­minister Maria Malmer Stenergard in till ett runda­bords­samtal för att diskutera slut­satserna från en omfat­tande under­sökning som FN:s migrations­organisation (IOM) genomfört på uppdrag av regeringen. Rapporten handlar om situationen för personer från Ukraina med tillfälligt skydd enligt mass­flykts­direktivet, bland annat deras förut­sättningar för att ta sig in på arbets­marknaden.
 
-
 Undersökningen handlade om hur vuxna personer som är registrerade enligt massflykts­direktivet, upplever sin situation i Sverige och innehöll frågor om individernas livs­situation, bakgrund och framtids­planer. Regeringen bjöd in flera myndig­heter och organisa­tioner som på olika sätt har kontakt med målgruppen.
 
 – Det var ett mycket givande och positivt samtal, där deltagarna kom med flera konkreta frågor och kloka funde­ringar. Rapporten togs väl emot och kan även bidra till utökad kunskap för de myndig­heter och organisa­tioner som arbetar för att stötta den här gruppen, utöver att utgöra ett värdefullt underlag för regeringen, säger Maria Malmer Stenergard.
@@ -15,4 +14,4 @@ Rapporten bekräftade den bild som flera av deltagarna hade. Nämligen att relat
 
 En annan reflektion var att många i gruppen inte avser att flytta tillbaka till Ukraina när det blir möjligt. Bara 28 procent av de tillfrågade svarade att de vill återvända.
 
-– Det ställer högre krav på oss att tänka lång­siktigt. Nu har det snart gått 1,5 år sedan kriget bröt ut och vi behöver – utöver konkreta åtgärder för att stötta dessa personer här och nu \- också titta på vad som sker när kriget tar slut, säger Maria Malmer Stenergard.
+– Det ställer högre krav på oss att tänka lång­siktigt. Nu har det snart gått 1,5 år sedan kriget bröt ut och vi behöver – utöver konkreta åtgärder för att stötta dessa personer här och nu - också titta på vad som sker när kriget tar slut, säger Maria Malmer Stenergard.

@@ -2,7 +2,6 @@
 
 Folkhälsomyndigheten ska se över och utveckla vägledningen för värmeböljor. Myndigheten ska bland annat analysera de erfarenheter som gjorts under sommarens värmebölja.
 
-
 ## Landstingens och kommunernas användning av vägledningen
 
 Folkhälsomyndigheten ska se efter hur landsting och kommuner har använt vägledningen och om den varit ändamålsenlig. Erfarenhet av  arbetet med sårbara grupper är särskilt viktig. Även kommuners och landstingens arbete med att informera allmänheten är viktig.
@@ -19,4 +18,4 @@ Folkhälsomyndigheten ska också identifiera vad som ytterligare behöver göras
 
 I arbetet ska Folkhälsomyndigheten hämta in synpunkter från och samverka med Socialstyrelsen och Sveriges Kommuner och Landsting (SKL). Myndigheterna ska samordna sina eventuella kontakter med kommuner.
 
-Uppdraget ska redovisas till Socialdepartementet senast den 1 april 2019\.
+Uppdraget ska redovisas till Socialdepartementet senast den 1 april 2019.

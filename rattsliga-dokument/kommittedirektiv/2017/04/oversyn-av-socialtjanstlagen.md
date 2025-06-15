@@ -12,8 +12,8 @@ Utredaren ska bland annat se över och lämna förslag på:
 * en hållbar socialtjänst som främjar långsiktigt strukturellt förebyggande arbete och bidrar till hållbarhet samt minskar behovet av individuella insatser,
 * socialtjänstens uppdrag,
 * socialtjänstens indelning i olika grupper,
-* en kompetens\- och kunskapsbaserad socialtjänst,
+* en kompetens- och kunskapsbaserad socialtjänst,
 * möjlighet för kommuner att tillgängliggöra insatser samtidigt som en jämlik, likvärdig och rättssäker socialtjänst säkerställs,
 * möjligheten att förenkla handläggningen utan att rättssäkerheten och kvaliteten i vården och omsorgen riskeras samt analysera konsekvenserna av en förenkling och redogöra för fördelar och nackdelar av en ändring.
 
-Uppdraget ska redovisas senast den 1 december 2018\.
+Uppdraget ska redovisas senast den 1 december 2018.

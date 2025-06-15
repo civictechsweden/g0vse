@@ -6,4 +6,4 @@ Regeringen föreslår också ändringar som medför skyldighet för Försäkring
 
 Regeringen föreslår att möjligheterna för Inspektionen för vård och omsorg att begära in information i tillsynsärenden förtydligas.
 
-Lagändringarna föreslås träda i kraft den 1 november 2021\.
+Lagändringarna föreslås träda i kraft den 1 november 2021.

@@ -1,7 +1,6 @@
 # Bemyndigande att förhandla och ingå samt uppdrag att förvalta avtal om vaccin mot covid-19
 
-Regeringen bemyndigar Folkhälsomyndigheten att förhandla och ingå tilläggsavtal till avtal om vidareförsäljning av vaccin mot covid\-19\.
-
+Regeringen bemyndigar Folkhälsomyndigheten att förhandla och ingå tilläggsavtal till avtal om vidareförsäljning av vaccin mot covid-19.
 
 Bemyndigandet omfattar avtal som
 
@@ -14,7 +13,7 @@ Bemyndigandet omfattar avtal som
 Regeringen uppdrar också åt Folkhälsomyndigheten att bland annat
 
 * förvalta avtal och tilläggsavtal
-* genomföra överlåtelser av vaccin mot covid\-19 och
+* genomföra överlåtelser av vaccin mot covid-19 och
 * administrera ekonomiska transaktioner i övrigt.
 
-Folkhälsomyndigheten delredovisar senast den 1 juni 2024, den 1 juni 2025 och den 1 juni 2026 uppdraget till Regeringskansliet och slutredovisar uppdraget senast den 15 mars 2027\.
+Folkhälsomyndigheten delredovisar senast den 1 juni 2024, den 1 juni 2025 och den 1 juni 2026 uppdraget till Regeringskansliet och slutredovisar uppdraget senast den 15 mars 2027.

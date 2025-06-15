@@ -3,8 +3,8 @@
 I propositionen föreslås att riksdagen godkänner associeringsavtalet
 mellan Europeiska unionen, Europeiska atomenergigemenskapen och
 deras medlemsstater, å ena sidan, och Ukraina, å andra sidan.
-Förhandlingarna om ett avtal med Ukraina inleddes 2007\. De politiska
-delarna av avtalet undertecknades den 21 mars 2014\. Återstående delar
+Förhandlingarna om ett avtal med Ukraina inleddes 2007. De politiska
+delarna av avtalet undertecknades den 21 mars 2014. Återstående delar
 av avtalet undertecknades den 27 juni 2014 då motsvarande avtal även
 undertecknades med Georgien och Moldavien. Unionens relationer med
 Ukraina har fördjupats de senaste åren, inte minst inom ramen för Östliga

@@ -6,4 +6,4 @@ I syfte att minska den illegala införseln av skjutvapen till Sverige uppdrar re
 * vidareutveckla samarbetet med behöriga myndigheter i andra länder och
 * effektivisera kontrollverksamheten genom fler gemensamma operativa insatser.
 
-Uppdraget ska redovisas till regeringen (Justitiedepartementet och Finansdepartementet) senast den 30 september 2012\.
+Uppdraget ska redovisas till regeringen (Justitiedepartementet och Finansdepartementet) senast den 30 september 2012.

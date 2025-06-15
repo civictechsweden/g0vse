@@ -1,6 +1,6 @@
 # Lotta Edholm deltar i lärarråd och besöker Bibliotekshögskolan i Borås
 
-Under dagen deltar skolministern i ett lärarråd tillsammans med lärare från Borås med omnejd. Diskussionen kommer handla om tidig läs\- och skrivinlärning samt hot och våld i skolan. Mer information om lärarråden finns längre ner.
+Under dagen deltar skolministern i ett lärarråd tillsammans med lärare från Borås med omnejd. Diskussionen kommer handla om tidig läs- och skrivinlärning samt hot och våld i skolan. Mer information om lärarråden finns längre ner.
 
 Skolministern besöker även Bibliotekshögskolan, som är en del av Högskolan i Borås. Ministern kommer få en presentation om högskolans utbildning och forskning inom skolbiblioteksverksamhet och få en visning av biblioteket.
 

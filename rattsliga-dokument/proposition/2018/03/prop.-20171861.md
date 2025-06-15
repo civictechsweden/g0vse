@@ -7,4 +7,4 @@ konventionen) tillsammans med regeringens ställningstaganden avseende vilka val
 
 Konventionen har tagits fram som en del av OECD/G20:s åtgärdspaket
 inom projektet för att motverka skattebaserosion och flyttning av vinster,
-det s.k. BEPS\-projektet.
+det s.k. BEPS-projektet.

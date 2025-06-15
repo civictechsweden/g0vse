@@ -8,9 +8,9 @@ Det föreslås även en nedsättning av energiskatten på elektrisk kraft som f�
 
 Energiskatten på landström sätts ner från dagens generella nivå om 28,0 öre per kWh (i norra delarna av landet 18,5 öre per kWh) till 0,5 öre per kWh. Skattenedsättningen begränsas till skepp som används för yrkesmässig sjöfart och föreslås gälla endast om skeppet har en bruttodräktighet om minst 400 och spänningen på den landström som överförs till skeppet är minst 380 volt.
 
-Förslagen föranleder ändringar i lagen (1994:1776\) om skatt på energi och i lagen (2009:1495\) om ändring i lagen (1994:1776\) om skatt på energi. De nya bestämmelserna föreslås träda i kraft den 1 januari 2011\. Förslaget som avser landström förutsätter att Europeiska unionens råd meddelar undantag från reglerna i energiskattedirektivet.
+Förslagen föranleder ändringar i lagen (1994:1776) om skatt på energi och i lagen (2009:1495) om ändring i lagen (1994:1776) om skatt på energi. De nya bestämmelserna föreslås träda i kraft den 1 januari 2011. Förslaget som avser landström förutsätter att Europeiska unionens råd meddelar undantag från reglerna i energiskattedirektivet.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+-------------------------------------------------------
 Riksdagen beslutade den 5 maj 2010 att förslagen i propositionen ska genomföras.
 
 Länk till riksdagsbeslutet finns i högerspalten.

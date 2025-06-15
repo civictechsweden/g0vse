@@ -2,8 +2,8 @@
 
 En särskild utredare ska göra en översyn av nuvarande lagstiftning om läkemedel
 för djur. Syftet med översynen är att anpassa lagstiftningen till två nya
-EU\-förordningar om veterinärmedicinska läkemedel och om foder som
-innehåller läkemedel. Därutöver ska följdändringar som görs i annan EU\-lagstiftning
+EU-förordningar om veterinärmedicinska läkemedel och om foder som
+innehåller läkemedel. Därutöver ska följdändringar som görs i annan EU-lagstiftning
 beaktas.
 
 Det ska säkerställas att Sverige när förordningarna börjar
@@ -14,8 +14,8 @@ till effektiva veterinärmedicinska läkemedel också tillvaratas.
 
 Utredaren ska bl.a.
 
-* överväga vilka lagstiftningsåtgärder som kan krävas nationellt för attkomplettera EU\-förordningen om veterinärmedicinska läkemedel, EUförordningen om foder som innehåller läkemedel och följdändringar i annan EU\-lagstiftning
+* överväga vilka lagstiftningsåtgärder som kan krävas nationellt för attkomplettera EU-förordningen om veterinärmedicinska läkemedel, EUförordningen om foder som innehåller läkemedel och följdändringar i annan EU-lagstiftning
 * bedöma om det finns behov av och möjlighet att ha ytterligare kompletterande nationella bestämmelser
 * lämna förslag till de ändringar som behövs i lag och förordning.
 
-Uppdraget ska redovisas senast den 30 september 2020\.
+Uppdraget ska redovisas senast den 30 september 2020.

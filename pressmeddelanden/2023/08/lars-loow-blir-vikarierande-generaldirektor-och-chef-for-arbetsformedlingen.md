@@ -4,4 +4,4 @@ Lars Lööw är för närvarande överdirektör för Arbetsförmedlingen. Han f�
 
 Nuvarande generaldirektör och chef Maria Mindhammar har av regeringen utsetts till generaldirektör och chef för Migrationsverket.
 
-– Maria Mindhammar har på ett förtjänstfullt sätt lett Arbetsförmedlingen genom den reformering av myndigheten som påbörjades under förra mandatperioden. Jag vill tacka henne för hennes insatser och önska lycka till i det nya uppdraget, säger arbetsmarknads\- och integrationsminister Johan Pehrson.
+– Maria Mindhammar har på ett förtjänstfullt sätt lett Arbetsförmedlingen genom den reformering av myndigheten som påbörjades under förra mandatperioden. Jag vill tacka henne för hennes insatser och önska lycka till i det nya uppdraget, säger arbetsmarknads- och integrationsminister Johan Pehrson.

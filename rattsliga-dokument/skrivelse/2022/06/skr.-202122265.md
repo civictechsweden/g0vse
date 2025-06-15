@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om fastighetsbildningen i Sverige
 
-I skrivelsen redovisar regeringen sin bedömning med anledning av Riksrevisionens iakttagelser och rekommendationer i rapporten Fastighetsbildningen i Sverige – handläggningstider, avgifter och reformbehov (RiR 2022:3\).
+I skrivelsen redovisar regeringen sin bedömning med anledning av Riksrevisionens iakttagelser och rekommendationer i rapporten Fastighetsbildningen i Sverige – handläggningstider, avgifter och reformbehov (RiR 2022:3).
 
 Riksrevisionens övergripande slutsats är att de statliga insatserna inom fastighetsbildningen inte är tillräckligt effektiva.
 

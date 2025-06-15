@@ -9,4 +9,4 @@ Samordnaren ska bl.a.
 * stödja Regeringskansliet med att följa upp och analysera hur arbetet med utbyggnaden av kärnkraft fortskrider samt identifiera behov av kompletterande åtgärder i syfte att driva arbetet framåt, och
 * vara en kontaktpunkt för intressenter och aktörer inom kärnkraftsområdet och samverka med dessa i syfte att öka takten i etableringen av ny kärnkraft.
 
-Uppdraget ska slutredovisas senast den 31 december 2026\.
+Uppdraget ska slutredovisas senast den 31 december 2026.

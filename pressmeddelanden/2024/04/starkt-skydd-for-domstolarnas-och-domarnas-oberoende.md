@@ -11,4 +11,4 @@ Inom ramen för uppdraget ska utredaren därför bland annat
 * analysera vissa frågor om förfarandet vid prövningen av skiljande av ordinarie domare från anställning på grund av ålder och sjukdom, och
 * analysera behovet av och lämna förslag på en ändrad organisation för Domarnämnden.
 
-Uppdraget ska redovisas senast 13 maj 2025\.
+Uppdraget ska redovisas senast 13 maj 2025.

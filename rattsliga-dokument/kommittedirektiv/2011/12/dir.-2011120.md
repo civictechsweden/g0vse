@@ -1,6 +1,6 @@
 # Översyn av vissa frågor i anslutning till lagen om näringsförbud
 
-En särskild utredare får i uppdrag att se över vissa frågor i anslutning till lagen (1986:436\) om näringsförbud och tillsynen av denna. Syftet med översynen är att stärka och modernisera vissa delar av lagstiftningen. Utredaren ska även utreda hur effektiviteten vid tillsynen enligt lagen kan förbättras.
+En särskild utredare får i uppdrag att se över vissa frågor i anslutning till lagen (1986:436) om näringsförbud och tillsynen av denna. Syftet med översynen är att stärka och modernisera vissa delar av lagstiftningen. Utredaren ska även utreda hur effektiviteten vid tillsynen enligt lagen kan förbättras.
 Utredaren ska bland annat:
 
 * utreda förutsättningarna för att införa en uttrycklig bestämmelse om att näringsförbud kan meddelas den som är företrädare för utländska filialer, stiftelser och ideella föreningar,
@@ -12,4 +12,4 @@ Utredaren ska bland annat:
 
 Utredaren ska lämna de förslag till författningsändringar som övervägandena ger anledning till.
 
-Uppdraget ska redovisas senast den 21 december 2012\.
+Uppdraget ska redovisas senast den 21 december 2012.

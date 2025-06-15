@@ -12,4 +12,4 @@ Förberedelse till kränkande fotografering föreslås kriminaliseras i vissa fa
 
 Härutöver föreslås att brottet olaga förföljelse ska omfatta gärningar som utgör kränkande fotografering.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2013\.
+Lagändringarna föreslås träda i kraft den 1 juli 2013.

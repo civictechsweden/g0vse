@@ -10,4 +10,4 @@ I samband med besöket finns en tid avsatt för media. För intervjuförfrågnin
 
 **Plats**: Södertälje stadshus, Nyköpingsvägen 26, Södertälje
 
-**Tid**: 14\.30\-15\.00
+**Tid**: 14.30-15.00

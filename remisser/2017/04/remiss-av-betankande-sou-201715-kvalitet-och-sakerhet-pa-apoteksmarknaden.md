@@ -2,5 +2,4 @@
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat betänkandet Kvalitet och säkerhet på apoteksmarknaden
 
-
-Remissvaren ska ha kommit in till Socialdepartementet den 11 juli 2017\.
+Remissvaren ska ha kommit in till Socialdepartementet den 11 juli 2017.

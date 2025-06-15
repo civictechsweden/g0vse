@@ -1,7 +1,6 @@
 # "Det blir omöjligt att göra ingenting och få bidrag"
 
-Statsminister Ulf Kristersson och äldre\- och socialförsäkringsminister Anna Tenje, debattartikel, Expressen, den 25 november 2024.
-
+Statsminister Ulf Kristersson och äldre- och socialförsäkringsminister Anna Tenje, debattartikel, Expressen, den 25 november 2024.
 
 Över en miljon människor i arbetsför ålder i Sverige är inte självförsörjande. För att bygga ett Sverige som håller ihop måste fler människor få ett arbete. Därför tar regeringen i dag nästa steg för att införa ett aktivitetskrav för personer som får försörjningsstöd, skriver Ulf Kristersson (M) och Anna Tenje (M).
 

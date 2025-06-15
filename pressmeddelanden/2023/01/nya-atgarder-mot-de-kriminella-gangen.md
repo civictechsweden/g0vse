@@ -6,10 +6,10 @@ Under sitt anförande med efterföljande pressträff vid Folk och Försvars riks
 
 ## En nationell strategi mot organiserad brottslighet tas fram
 
-Sverige har sedan tidigare nationella strategier mot terrorism (2015\) och mot våldsbejakande extremism (2016\). Dessa kommer regeringen att revidera och uppdatera. Motsvarande systematiska grepp tas mot de kriminella gängen.
+Sverige har sedan tidigare nationella strategier mot terrorism (2015) och mot våldsbejakande extremism (2016). Dessa kommer regeringen att revidera och uppdatera. Motsvarande systematiska grepp tas mot de kriminella gängen.
 
 Regeringen inleder nu arbetet med att ta fram en motsvarande nationell strategi mot den organiserade brottsligheten. Det blir en huvuduppgift för det nya råd mot organiserad brottslighet som inrättats i Justitiedepartementet, och som startar sitt arbete om en dryg vecka. I rådet ingår cheferna för de centrala brottsbekämpande myndigheterna, och det leds av justitieministern.
 
 ## Beslut om särskilt regeringsuppdrag till Polismyndigheten
 
-Regeringen kommer inom kort att besluta om ett särskilt regeringsuppdrag till Polismyndigheten som handlar om att öka polisens operativa förmåga med särskilt fokus på effektivisering av den nationella operativa avdelningen, NOA, och av polisens nationella forensiska centrum, NFC. En första redovisning sker i april 2023\.
+Regeringen kommer inom kort att besluta om ett särskilt regeringsuppdrag till Polismyndigheten som handlar om att öka polisens operativa förmåga med särskilt fokus på effektivisering av den nationella operativa avdelningen, NOA, och av polisens nationella forensiska centrum, NFC. En första redovisning sker i april 2023.

@@ -1,13 +1,12 @@
 # Remiss av promemorian Förslag till mer ändamålsenliga basårsbestämmelser
 
-Här kan du ta del av till vilka instanser regeringen har remitterat promemorian Förslag till mer ändamålsenliga basårsbestämmelser. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 13 juni 2017\.
-
+Här kan du ta del av till vilka instanser regeringen har remitterat promemorian Förslag till mer ändamålsenliga basårsbestämmelser. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 13 juni 2017.
 
 ## Remissinstanser
 
 1 Statens skolverk
 2 Universitetskanslersämbetet
-3 Universitets\- och högskolerådet
+3 Universitets- och högskolerådet
 4 Överklagandenämnden för högskolan
 5 Uppsala universitet
 6 Lunds universitet
@@ -24,7 +23,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat promemorian
 17 Mittuniversitetet
 18 Blekinge tekniska högskola
 19 Försvarshögskolan
-20 Gymnastik\- och idrottshögskolan
+20 Gymnastik- och idrottshögskolan
 21 Högskolan i Borås
 22 Högskolan Dalarna
 23 Högskolan i Gävle
@@ -46,7 +45,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat promemorian
 39 Landsorganisationen i Sverige
 40 Tjänstemännens Centralorganisation
 41 Sveriges akademikers centralorganisation
-42 Sveriges universitets\- och högskoleförbund
+42 Sveriges universitets- och högskoleförbund
 43 Sveriges universitetslärare och forskare
 44 Sveriges förenade studentkårer
 45 Sveriges elevråd

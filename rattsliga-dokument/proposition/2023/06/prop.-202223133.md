@@ -7,7 +7,7 @@ Mediestödet föreslås ha som syfte att stärka demokratin genom att främja al
 Mediestöd föreslås få lämnas till juridiska personer som ger ut allmänna nyhetsmedier, dvs. medier som har till sin primära uppgift att fortlöpande bedriva nyhetsförmedling och som har ett redaktionellt innehåll av viss karaktär. Stöd ska tillfälligt kunna lämnas även för andra nyhetsmedier. Ett antal allmänna förutsättningar föreslås för mediestöd, som ska gälla oavsett stödform. En sådan förutsättning är att mediets publicistiska verksamhet inte väsentligt verkar mot eller väsentligt kommer i konflikt med vissa grundläggande demokratiska värderingar.
 
 Det föreslås också nya regler om mediestödsnämndens sammansättning.
-Vidare föreslås att tidigare riksdagsbindningar i frågor om press\- och
+Vidare föreslås att tidigare riksdagsbindningar i frågor om press- och
 mediestöd ska upphävas.
 
 Regeringen eller den myndighet regeringen bestämmer föreslås kunna

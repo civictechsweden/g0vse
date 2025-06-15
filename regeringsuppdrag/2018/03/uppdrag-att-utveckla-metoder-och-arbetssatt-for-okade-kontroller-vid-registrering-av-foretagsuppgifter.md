@@ -4,5 +4,4 @@ Regeringen uppdrar åt Bolagsverket att i dialog med Skatteverket och Ekobrottsm
 
 De metoder som utvecklas ska syfta till att försvåra möjligheterna till att nyttja företag i syfte att begå brott och att den tid som företag kan användas i ett sådant syfte minskas.
 
-
-Vid uppdragets genomförande ska hänsyn tas till resultat och slutsatser från pågående uppdrag i regleringsbrevet för Bolagsverket avseende 2018 om förbyggande arbete mot ekonomisk brottslighet som ska redovisas till Regeringskansliet (Näringsdepartementet) senast den 28 mars 2018\.
+Vid uppdragets genomförande ska hänsyn tas till resultat och slutsatser från pågående uppdrag i regleringsbrevet för Bolagsverket avseende 2018 om förbyggande arbete mot ekonomisk brottslighet som ska redovisas till Regeringskansliet (Näringsdepartementet) senast den 28 mars 2018.

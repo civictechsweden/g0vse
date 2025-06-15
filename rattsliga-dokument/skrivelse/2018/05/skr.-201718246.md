@@ -1,6 +1,6 @@
 # En politik för engagemang – långsiktighet och oberoende för civilsamhället
 
-Regeringens skrivelse En politik för engagemang – långsiktighet och oberoende för civilsamhället beskriver åtgärder som vidtagits under mandatperioden 2014–2018 och som bidrar till mer långsiktiga och stabila villkor för det civila samhället. Skrivelsen utgår delvis från Utredningen för ett stärkt civilsamhälles betänkande Palett för ett stärkt civilsamhälle (SOU 2016:13\).
+Regeringens skrivelse En politik för engagemang – långsiktighet och oberoende för civilsamhället beskriver åtgärder som vidtagits under mandatperioden 2014–2018 och som bidrar till mer långsiktiga och stabila villkor för det civila samhället. Skrivelsen utgår delvis från Utredningen för ett stärkt civilsamhälles betänkande Palett för ett stärkt civilsamhälle (SOU 2016:13).
 
 Regeringens politik för det civila samhället syftar till att Sverige ska fortsatt kännetecknas av att ha ett vitalt och självständigt civilsamhälle som spelar en aktiv roll i dialogen med det offentliga och har en mångfald av verksamheter. I skrivelsen sammanfattas regeringens politik för det civila samhället och de åtgärder som ska skapa mer långsiktiga och stabila villkor, samt stärka oberoendet för det civila samhället.
 

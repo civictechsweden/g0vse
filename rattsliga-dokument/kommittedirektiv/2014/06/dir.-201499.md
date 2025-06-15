@@ -10,7 +10,7 @@ Utredaren ska bland annat
 * studera framgångsrika internationella exempel på återfallsförebyggande insatser och
 * kartlägga och analysera Kriminalvårdens återfallsförebyggande arbete och utifrån en jämförelse med några relevanta länder bedöma om arbetet bedrivs effektivt samt om formerna för samverkan är effektiva och ändamålsenliga.
 
-Uppdraget ska redovisas senast den 31 december 2015\.
+Uppdraget ska redovisas senast den 31 december 2015.
 
 ## Utredningen avslutas
 

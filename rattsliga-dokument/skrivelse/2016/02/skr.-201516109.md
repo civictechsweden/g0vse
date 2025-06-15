@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om rehabiliteringsgarantin
 
-I skrivelsen redovisar regeringen sin bedömning av de iakttagelser som Riksrevisionen har gjort i rapporten Rehabiliteringsgarantin fungerar inte – tänk om eller lägg ner (RIR 2015:19\).
+I skrivelsen redovisar regeringen sin bedömning av de iakttagelser som Riksrevisionen har gjort i rapporten Rehabiliteringsgarantin fungerar inte – tänk om eller lägg ner (RIR 2015:19).
 
 Riksrevisionen har genomfört en granskning av vad det är i utformningen och genomförandet av rehabiliteringsgarantin som hindrar att målet om arbetsåtergång för personer med psykisk ohälsa uppfylls.
 

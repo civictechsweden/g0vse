@@ -8,4 +8,4 @@ Utredaren ska i sitt arbete ta särskild hänsyn till barns rätt till informati
 
 En utgångspunkt är att skyddet för barn och unga mot skadlig mediepåverkan ska vara minst lika effektivt som i dag.
 
-Uppdraget ska redovisas senast den 31 augusti 2014\.
+Uppdraget ska redovisas senast den 31 augusti 2014.

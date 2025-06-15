@@ -6,6 +6,6 @@ Till skillnad från i andra föreningar finns i dag inte någon möjlighet för 
 
 I lagrådsremissen föreslår regeringen att det ska vara möjligt att begränsa medlemmarnas rätt att företrädas av ombud vid stämman. Bestämmelserna innebär att organisationerna i sina stadgar kan bestämma vem som får vara ombud och hur många medlemmar ett ombud får företräda, under förutsättning att det inte hindrar medlemmarna från att delta i beslutsfattandet på ett lämpligt och effektivt sätt.
 
-Lagändringen föreslås träda i kraft den 1 maj 2017\.
+Lagändringen föreslås träda i kraft den 1 maj 2017.
 
 [Pressmeddelande: Nya regler om ombud vid stämma i kollektiva förvaltningsorganisationer](/pressmeddelanden/2017/01/nya-regler-om-ombud-vid-stamma-i-kollektiva-forvaltningsorganisationer/)

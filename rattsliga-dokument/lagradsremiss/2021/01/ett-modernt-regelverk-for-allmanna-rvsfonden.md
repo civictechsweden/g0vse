@@ -14,4 +14,4 @@ Förslaget innebär bland annat:
 
 Regeringen avser återkomma i frågan om att införa ett demokrativillkor för Allmänna arvsfonden.
 
-Den nya lagen föreslås träda i kraft den 1 juli 2021\.
+Den nya lagen föreslås träda i kraft den 1 juli 2021.

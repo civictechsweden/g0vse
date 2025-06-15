@@ -1,7 +1,6 @@
 # Säkerhetspolitik och EU:s framtidsfrågor i fokus i Helsingfors
 
-Säkerhetspolitik, aktuella EU\-frågor och de finska erfarenheterna från landets Natoanslutning diskuterades när statsminister Ulf Kristersson den 27 november besökte Finland. Vid besöket deltog även utrikesminister Tobias Billström, försvarsminister Pål Jonson, statssekreterare Christian Danielsson och Sveriges nationella säkerhetsrådgivare Henrik Landerholm.
-
+Säkerhetspolitik, aktuella EU-frågor och de finska erfarenheterna från landets Natoanslutning diskuterades när statsminister Ulf Kristersson den 27 november besökte Finland. Vid besöket deltog även utrikesminister Tobias Billström, försvarsminister Pål Jonson, statssekreterare Christian Danielsson och Sveriges nationella säkerhetsrådgivare Henrik Landerholm.
 
 – I ett allvarligt säkerhetsläge är våra länders nära samarbete mycket viktigt. Vi förbereder nu Sverige för att bli medlem i Nato, genom att ta del av Finlands erfarenheter under anslutningsprocessen, säger Ulf Kristersson.
 

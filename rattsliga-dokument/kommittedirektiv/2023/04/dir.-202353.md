@@ -15,4 +15,4 @@ om makrotillsynspolitikens mellanliggande mål och instrument.
 I uppdraget ingår inte att överväga ändringar i myndighetsstrukturen på
 området.
 
-Uppdraget ska redovisas senast den 31 oktober 2024\.
+Uppdraget ska redovisas senast den 31 oktober 2024.

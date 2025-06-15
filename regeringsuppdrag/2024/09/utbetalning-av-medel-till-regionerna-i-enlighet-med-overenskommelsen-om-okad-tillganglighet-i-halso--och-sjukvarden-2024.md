@@ -2,4 +2,4 @@
 
 Regeringen uppdrar åt Kammarkollegiet att betala ut 141 759 535 kronor till regionerna
 
-Pengarna betalas ut enligt en överenskommelse om ökad tillgänglighet i hälso\- och sjukvården 2024\.
+Pengarna betalas ut enligt en överenskommelse om ökad tillgänglighet i hälso- och sjukvården 2024.

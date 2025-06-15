@@ -2,12 +2,11 @@
 
 Uttalande från försvarsministrarna i länderna inom försvarssamarbetet Norra gruppen i samband med ett möte den 23 november 2022, Oslo, Norge.
 
-
 Uttalandet på engelska i sin helhet nedan.
 
 ## Joint Statement by the Ministers of Defence of the Northern Group
 
-Today, representatives of the Northern Group – comprising Denmark, Estonia, Finland, Germany, Iceland, Latvia, Lithuania, the Netherlands, Norway, Poland, Sweden and the United Kingdom \- met in Oslo on board the UK aircraft carrier, HMS QUEEN ELIZABETH, and gave the following statement:
+Today, representatives of the Northern Group – comprising Denmark, Estonia, Finland, Germany, Iceland, Latvia, Lithuania, the Netherlands, Norway, Poland, Sweden and the United Kingdom - met in Oslo on board the UK aircraft carrier, HMS QUEEN ELIZABETH, and gave the following statement:
 
 Today we discussed the implications of Russia’s illegal invasion of Ukraine. Russia’s invasion continues to inflict immeasurable destruction and suffering on the Ukrainian people, and is a threat to the security of the whole of Europe and the North Atlantic area. We stand together with Ukraine and remain committed in our support against Russia’s brutal and illegal aggression.
 

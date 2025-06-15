@@ -6,4 +6,4 @@ I lagrådsremissen föreslår därför regeringen att den som är skäligen miss
 
 Regeringen föreslår även ändringar i reglerna om befrielse från svenskt medborgarskap. Ändringarna innebär ett förstärkt skydd för barn och vuxna som befinner sig i en utsatt situation. Ingen ska mot sin vilja, t.ex. på grund av att han eller hon lever i en hederskontext, tvingas att avsäga sig sitt svenska medborgarskap. Regeringen föreslår att alla anmälningsärenden ska handläggas av en myndighet.
 
-Lagändringarna föreslås träda i kraft den 1 oktober 2024\.
+Lagändringarna föreslås träda i kraft den 1 oktober 2024.

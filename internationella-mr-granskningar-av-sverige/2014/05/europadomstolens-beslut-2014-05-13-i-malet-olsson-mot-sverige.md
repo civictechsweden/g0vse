@@ -2,7 +2,6 @@
 
 Europadomstolen har fattat ett beslut avseende ett klagomål om Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till beslutet i fulltext samt en sammanfattning av beslutet.
 
-
 ## Sammanfattning av beslutet
 
 Rubricerade mål rörde bl.a. rätten att inte bli lagförd eller straffad två gånger (ne bis in idem).

@@ -8,4 +8,4 @@ uppfyller krav på en minsta andel miljöanpassade fordon, s.k.
 minimimål. Minimimålen avser referensperioder och skiljer sig åt mellan
 medlemsstaterna. Målen är också uppdelade mellan olika slag av fordon.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2022\.
+Lagändringarna föreslås träda i kraft den 1 juni 2022.

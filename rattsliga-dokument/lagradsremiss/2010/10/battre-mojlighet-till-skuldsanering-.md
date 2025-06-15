@@ -8,4 +8,4 @@ Det föreslås också att skuldernas ålder inte längre ska beaktas särskilt v
 
 Vidare föreslås det att förutsättningarna för att gallra uppgifter om skuldsanering i samband med kreditupplysningsverksamhet blir desamma för fysiska personer som bedriver näringsverksamhet som för övriga fysiska personer.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2011\.
+Lagändringarna föreslås träda i kraft den 1 juli 2011.

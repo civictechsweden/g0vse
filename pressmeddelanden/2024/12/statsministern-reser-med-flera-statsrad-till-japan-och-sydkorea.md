@@ -1,4 +1,6 @@
-# Statsministern reser med flera statsråd till Japan och Sydkorea
+# Statsministern reser med flera statsråd till Japan
+
+Resan till Sydkorea har ställts in.
 
 Den svenska delegationen ska bland annat träffa representanter för de japanska och sydkoreanska regeringarna, näringslivsrepresentanter och delta i aktiviteter för främjande av svenskt näringsliv. Statsministern kommer också hålla ett tal på universitetet Keio i Tokyo.
 

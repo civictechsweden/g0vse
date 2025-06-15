@@ -2,14 +2,13 @@
 
 När regeringen nu går in i mandatperiodens andra halvlek har betydande insatser inom Kulturdepartementets områden genomförts. Det handlar bland annat om läsfrämjande insatser, stärkt skydd för journalister och att främja judiskt liv i Sverige.
 
-
 – För två år sedan tillträdde regeringen, och jag blev kulturminister. Mycket har hänt sedan dess, och nu går vi in i andra halvlek. Eller som vi säger på Kulturdepartementet – Akt II. Våra satsningar speglar regeringens viktigaste prioriteringar; bildning, barn och beredskap. Jag är stolt över det vi åstadkommit sedan vi tillträdde. Men jag är långt ifrån klar – och nu ringer det snart in för andra akt! Det ser jag fram emot, säger kulturminister Parisa Liljestrand.
 
 ## Sverige ska vara ett läsande land
 
 Läsfrämjande och läsförståelse är en prioriterad fråga för regeringen. I enlighet med förslag i budgetpropositionen för 2024 och 2025 genomför regeringen flera satsningar på att stärka barns och ungas läsförmåga. Det handlar bland annat om 40 miljoner kronor årligen 2024–2026 för en långsiktig satsning på att stärka folkbibliotekens arbete med att främja läsning, där insatser riktade till barn och unga särskilt ska prioriteras.
 
-Skolverket och Kulturrådet fick under 2024 i uppdrag att ta fram läslistor med litteratur som ska vara ett stöd för förskollärare och lärare. Insatsen kompletteras med en del som avser hur arbetet med böckerna kan bedrivas och hur böckerna på läslistorna ska finnas att tillgå. Skolverket och Kulturrådet får 1,5 miljoner kronor vardera 2025 och 3 miljoner kronor vardera 2026 och 2027\.
+Skolverket och Kulturrådet fick under 2024 i uppdrag att ta fram läslistor med litteratur som ska vara ett stöd för förskollärare och lärare. Insatsen kompletteras med en del som avser hur arbetet med böckerna kan bedrivas och hur böckerna på läslistorna ska finnas att tillgå. Skolverket och Kulturrådet får 1,5 miljoner kronor vardera 2025 och 3 miljoner kronor vardera 2026 och 2027.
 
 Samtidigt på skolans område föreslår regeringen flera satsningar för att stärka elevernas läsförmåga. Det handlar bland annat om en storsatsning på bemannade skolbibliotek och pengar för att köpa in böcker. Kulturminister Parisa Liljestrand och skolminister Lotta Edholm har även samlat ett råd av representanter för civilsamhället, akademin och näringslivet för att bidra till målet att Sverige ska vara ett läsande land.
 
@@ -21,11 +20,11 @@ Hat och hot mot journalister har ingen plats i vår demokrati. Därför har rege
 
 ## Ny strategi för företag i kulturella och kreativa branscher
 
-Regeringen har tagit fram en strategi för företag i kulturella och kreativa branscher, avsedd att gälla under en tioårsperiod 2024–2033\. Strategin ska bidra till att bland annat frigöra de kulturella och kreativa företagens potential för tillväxt, sysselsättning, innovation och export. Visionen för 2033 är att Sverige har stärkt sin position som ett ledande land för de kulturella och kreativa branscherna. Branscherna har god tillväxt och bidrar till svensk ekonomi och ett dynamiskt näringsliv i hela landet, ökad export och en positiv Sverigebild i utlandet. Företag inom de kulturella och kreativa branscherna bidrar till en mångfald av kulturella uttryck och kulturupplevelser i hela landet. I budgetpropositionen för 2025 föreslår regeringen en satsning på 5 miljoner kronor årligen 2025–2027 till kulturlivets internationalisering, kulturexport och att främja svensk medverkan i EU\-programmet Kreativa Europa.
+Regeringen har tagit fram en strategi för företag i kulturella och kreativa branscher, avsedd att gälla under en tioårsperiod 2024–2033. Strategin ska bidra till att bland annat frigöra de kulturella och kreativa företagens potential för tillväxt, sysselsättning, innovation och export. Visionen för 2033 är att Sverige har stärkt sin position som ett ledande land för de kulturella och kreativa branscherna. Branscherna har god tillväxt och bidrar till svensk ekonomi och ett dynamiskt näringsliv i hela landet, ökad export och en positiv Sverigebild i utlandet. Företag inom de kulturella och kreativa branscherna bidrar till en mångfald av kulturella uttryck och kulturupplevelser i hela landet. I budgetpropositionen för 2025 föreslår regeringen en satsning på 5 miljoner kronor årligen 2025–2027 till kulturlivets internationalisering, kulturexport och att främja svensk medverkan i EU-programmet Kreativa Europa.
 
 ## Skapande skola
 
-I budgetpropositionen för 2025 föreslår regeringen en förstärkning av Skapande skola med 50 miljoner kronor årligen 2025–2027\. Bidraget främjar både barns och ungas tillgång till kultur och professionella kulturskapares förutsättningar att leva på sitt konstnärskap. Reformen förväntas nå ut till två av tre barn.
+I budgetpropositionen för 2025 föreslår regeringen en förstärkning av Skapande skola med 50 miljoner kronor årligen 2025–2027. Bidraget främjar både barns och ungas tillgång till kultur och professionella kulturskapares förutsättningar att leva på sitt konstnärskap. Reformen förväntas nå ut till två av tre barn.
 
 ## Kungliga Operan
 
@@ -43,8 +42,8 @@ Regeringen avser att presentera och genomföra en långsiktig strategi med åtg�
 
 ## Fortsatt försoningsprocess med tornedalingar, kväner och lantalaiset
 
-Regeringen har även beslutat att tillföra medel för en fortsatt försoningsprocess med tornedalingar, kväner och lantalaiset utifrån Sannings\- och försoningskommissionens slutbetänkande Som om vi aldrig funnits – exkludering och assimilering av tornedalingar, kväner och lantalaiset. Under 2025 tillförs 3,5 miljoner kronor och för 2026–2027 beräknas årligen 5 miljoner kronor avsättas.
+Regeringen har även beslutat att tillföra medel för en fortsatt försoningsprocess med tornedalingar, kväner och lantalaiset utifrån Sannings- och försoningskommissionens slutbetänkande Som om vi aldrig funnits – exkludering och assimilering av tornedalingar, kväner och lantalaiset. Under 2025 tillförs 3,5 miljoner kronor och för 2026–2027 beräknas årligen 5 miljoner kronor avsättas.
 
 ## Utredningar inom Kulturdepartementets områden
 
-Sedan regeringen tillträdde har flera utredningar tillsatts. Det gäller bland annat en utredning för en bred översyn av den nationella filmpolitiken och en kommitté som ska ta fram förslag på en svensk kulturkanon. Den parlamentariska public service\-kommittén har lämnat sitt betänkande som föreslår hur public service\-uppdraget ska regleras och vad som ska ingå i uppdraget under nästa tillståndsperiod som inleds 2026\. Förslagen bereds nu i Regeringskansliet.
+Sedan regeringen tillträdde har flera utredningar tillsatts. Det gäller bland annat en utredning för en bred översyn av den nationella filmpolitiken och en kommitté som ska ta fram förslag på en svensk kulturkanon. Den parlamentariska public service-kommittén har lämnat sitt betänkande som föreslår hur public service-uppdraget ska regleras och vad som ska ingå i uppdraget under nästa tillståndsperiod som inleds 2026. Förslagen bereds nu i Regeringskansliet.

@@ -13,4 +13,4 @@ För att ytterligare stärka skyddet för barn föreslås i lagrådsremissen bla
 * det i föräldrabalken uttryckligen ska anges vilka faktorer som ska ligga till grund för bedömningen av om vårdnaden av ett barn som är placerat i familjehem ska flyttas över till familjehemsföräldrarna, och
 * barnet och dess vårdnadshavare ska ha rätt till offentligt biträde vid vårdnadsöverflyttning till någon annan än barnets föräldrar.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2025\.
+Lagändringarna föreslås träda i kraft den 1 januari 2025.

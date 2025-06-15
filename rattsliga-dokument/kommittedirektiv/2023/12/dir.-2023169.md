@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * föreslå omfattning och innehåll för samhällsorienteringen och hur den kan avslutas med ett godkänt skriftligt prov, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 21 februari 2025\.
+Uppdraget ska redovisas senast den 21 februari 2025.

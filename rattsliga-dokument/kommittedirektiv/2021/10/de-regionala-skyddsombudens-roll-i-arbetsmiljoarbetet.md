@@ -4,4 +4,4 @@ En särskild utredare ska utvärdera de regionala skyddsombudens verksamhet samt
 
 Utredaren ska vid behov föreslå författningsändringar. Syftet med översynen är att ge regeringen beslutsunderlag för eventuella reformer på området.
 
-Uppdraget ska redovisas senast den 19 augusti 2022\.
+Uppdraget ska redovisas senast den 19 augusti 2022.

@@ -12,4 +12,4 @@ Utredaren ska bland annat
 * kartlägga och föreslå vilka register som Säkerhetspolisen bör kunna inhämta uppgifter från vid registerkontroll, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 29 november 2024\.
+Uppdraget ska redovisas senast den 29 november 2024.

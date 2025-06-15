@@ -6,4 +6,4 @@ I propositionen föreslår regeringen mer flexibla regler för en förvaltningsd
 
 Detta gäller i de fall det behövs av hänsyn till domstolens handläggningstider och om det kan göras utan avsevärd olägenhet för någon part. Ska muntlig förhandling hållas i målet är utgångspunkten att målet inte ska lämnas över. En part kan överklaga beslutet och begära att målet ska flyttas tillbaka.
 
-Lagändringarna föreslås träda i kraft den 1 november 2024\.
+Lagändringarna föreslås träda i kraft den 1 november 2024.

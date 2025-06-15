@@ -10,4 +10,4 @@ På agendan står också situationen i Mellanöstern.
 
 På mötet kommer utrikesministrarna även att diskutera Georgien, Moldavien, Afrikas horn, Venezuela, och Armenien/Azerbajdzjan.
 
-– Jag ser allvarligt på situationen i Georgien. Den georgiska regeringens agerande äventyrar landets EU\-närmande. Det är viktigt att parlamentsvalet den 26 oktober genomförs korrekt. EU behöver sända tydliga budskap om att den georgiska regeringens agerande har konsekvenser för relationen mellan EU och Georgien, säger Maria Malmer Stenergard.
+– Jag ser allvarligt på situationen i Georgien. Den georgiska regeringens agerande äventyrar landets EU-närmande. Det är viktigt att parlamentsvalet den 26 oktober genomförs korrekt. EU behöver sända tydliga budskap om att den georgiska regeringens agerande har konsekvenser för relationen mellan EU och Georgien, säger Maria Malmer Stenergard.

@@ -5,4 +5,4 @@ Regeringskansliet. Den innehåller riktlinjer och vägledning för hur sådana o
 Ett särskilt fokus har lagts vid osjälvständiga organ med utomstående deltagare samt vissa
 tryckfrihetsrättsliga aspekter på dessa organ.
 
-Promemorian ersätter SB PM 1994:5\.
+Promemorian ersätter SB PM 1994:5.

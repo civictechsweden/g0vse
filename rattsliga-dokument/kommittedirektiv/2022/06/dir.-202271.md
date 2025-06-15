@@ -7,10 +7,10 @@ Syftet med utredningen är att stärka förtroendet för det allmänna genom att
 Utredaren ska bl.a.
 
 * ta ställning till vilka som bör omfattas av en reglering om
-övergångsrestriktioner,
+  övergångsrestriktioner,
 * föreslå hur en sådan reglering bör utformas,
-* utvärdera om syftena med lagen (2018:676\) om restriktioner vid
-statsråds och statssekreterares övergång till annan än statlig verksamhet har uppnåtts, och
+* utvärdera om syftena med lagen (2018:676) om restriktioner vid
+  statsråds och statssekreterares övergång till annan än statlig verksamhet har uppnåtts, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 31 augusti 2023\.
+Uppdraget ska redovisas senast den 31 augusti 2023.

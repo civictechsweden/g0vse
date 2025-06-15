@@ -2,7 +2,6 @@
 
 Den svenska regeringen vill att hormonstörande ämnen begränsas i varor som barn och unga kommer i kontakt med. Arbetet drivs både nationellt och i EU.
 
-
 Allt mer forskning tyder på att hormonstörande ämnen kan skada människans fortplantning och påverka fostret och den växande individen. Ämnena kan på liknande sätt påverka de vilda djuren. Världshälsoorganisationen (WHO) och FN:s miljöprogram (UNEP) publicerade i februari 2013 en rapport om kunskapsläget i vilken de uttrycker en oro för det stora antalet laboratoriestudier som stödjer tanken att exponering för kemikalier bidrar till observerade störningar i hormonsystemen hos människor och djur.
 
 [Rapport om hormonstörande ämnen från WHO och UNEP (på engelska)](http://www.unep.org/chemicalsandwaste/hazardoussubstances/UNEPsWork/StateoftheScience/tabid/105913/Default.aspx "Rapport om hormonstörande ämnen från WHO och UNEP (på engelska)")

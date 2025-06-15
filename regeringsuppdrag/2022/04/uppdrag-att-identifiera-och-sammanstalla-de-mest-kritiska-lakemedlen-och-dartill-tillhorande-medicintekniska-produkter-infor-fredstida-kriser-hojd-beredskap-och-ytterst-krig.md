@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen att identifiera och sammanställa de mest kritiska läkemedel som behövs inom sjukvården och tandvården vid fredstida kriser, höjd beredskap och ytterst krig. Detta för att stärka lagerhållningen i regionerna.
 
-
 Meningen med uppdraget är att ge regionerna underlag i deras arbete med att bygga upp och stärka försörjningsberedskapen.
 
 Socialstyrelsen ska:
@@ -14,4 +13,4 @@ Socialstyrelsen ska:
 
 Om det behövs ska Socialstyrelsen hämta in synpunkter från regionerna, Myndigheten för samhällsskydd och beredskap (MSB), Försvarsmakten och Sveriges Kommuner och Regioner (SKR).
 
-Socialstyrelsen redovisar uppdraget senast den 19 april 2022\.
+Socialstyrelsen redovisar uppdraget senast den 19 april 2022.

@@ -6,4 +6,4 @@ Utredningen har haft i uppdrag att göra en generell översyn av vapenlagstiftni
 
 Utredningen föreslår att vapenlagen och vapenförordningen ska ersättas med nya författningar. I dessa föreslås bland annat ett antal lättnader för legala vapeninnehavare.
 
-Författningsändringarna föreslås träda i kraft den 1 januari 2026\.
+Författningsändringarna föreslås träda i kraft den 1 januari 2026.

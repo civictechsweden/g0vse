@@ -2,14 +2,12 @@
 
 ![](/contentassets/8d6ccc3306614c6da5b92d40826a1c09/strategi-150.jpg?width=150&quality=85)
 
-
 Folke Bernadotteakademins (FBA) uppdrag inom ramen för denna strategi ska
 komplettera resultatstratregin för Sveriges utvecklingssamarbete med Afghanistan
-2014\-2019 och bidra till förbättrad kapacitet för en fredlig och inkluderande
+2014-2019 och bidra till förbättrad kapacitet för en fredlig och inkluderande
 samhällsutveckling i Afghanistan.
 
-
-Afghanistan är ett av världens fattigaste länder, nästan 40 procent av befolkningen lever i extrem fattigdom. Landet har de senaste 40 åren präglats av väpnade konflikter. Det allvarliga säkerhetsläget påverkar alla aspekter av afghanernas liv och utgör hinder för en hållbar utveckling i enlighet med Agenda 2030\.
+Afghanistan är ett av världens fattigaste länder, nästan 40 procent av befolkningen lever i extrem fattigdom. Landet har de senaste 40 åren präglats av väpnade konflikter. Det allvarliga säkerhetsläget påverkar alla aspekter av afghanernas liv och utgör hinder för en hållbar utveckling i enlighet med Agenda 2030.
 
 Många av grundorsakerna till konflikterna finns på lokal nivå, relaterade
 till fördelning av makt och resurser, i kombination med ett svagt rättsväsende och polis. Afghanistans regering verkar för  fredsansträngningar som är afghanskledda och ägda, vilket stöds av
@@ -24,4 +22,4 @@ Folke Bernadotteakademins (FBA) uppdrag inom ramen för denna strategi ska bidra
 * Kvinnor har ökad kunskap, stärkta nätverk och är bättre organiseradeför att delta i och påverka fredsansträngningar.
 * Parter i afghanskledda fredsansträngningar har ökad kapacitet attidentifiera möjligheter till dialog och medling, samt att bidra till dialog och medlingsprocesser.
 
-Verksamheten ska genomföras under perioden 2018\-2019 och omfattar sammantaget 10,6 miljoner kronor.
+Verksamheten ska genomföras under perioden 2018-2019 och omfattar sammantaget 10,6 miljoner kronor.

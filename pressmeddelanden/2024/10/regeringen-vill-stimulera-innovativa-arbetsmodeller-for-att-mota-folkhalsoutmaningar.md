@@ -6,7 +6,7 @@ För att satsningar på mer främjande och förebyggande insatser ska bli effekt
 
 Sociala utfallskontrakt är en arbetsmodell med fokus på arbete och finansiering med utgångspunkt i förbättrade sociala utfall. Modellen kan stimulera nya samarbeten då insatser inom ramen för ett kontrakt kan genomföras av såväl offentliga, ideella som privata utförare.
 
-I uppdraget ska Folkhälsomyndigheten bland annat bidra med kunskap om hälso\- och samhällsekonomiska beräkningar, särskilt inom psykisk hälsa hos barn och unga. Vinnova ska bidra med kunskap om hur nationell utfallsfinansiering kan utformas och administreras. Barnrättsperspektivet, funktionshinderperspektivet och jämställdhetsperspektivet ska beaktas vid genomförandet av uppdraget.
+I uppdraget ska Folkhälsomyndigheten bland annat bidra med kunskap om hälso- och samhällsekonomiska beräkningar, särskilt inom psykisk hälsa hos barn och unga. Vinnova ska bidra med kunskap om hur nationell utfallsfinansiering kan utformas och administreras. Barnrättsperspektivet, funktionshinderperspektivet och jämställdhetsperspektivet ska beaktas vid genomförandet av uppdraget.
 
 För uppdraget avsätts totalt tio miljoner kronor under 2024, varav Folkhälsomyndigheten får använda åtta miljoner kronor och Vinnova två miljoner kronor.
 

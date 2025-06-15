@@ -10,4 +10,4 @@ Meningen är att göra det lättare för föräldrar att komma överens om såda
 
 Regeringen föreslår också att Försäkringskassan ska vara skyldig att underrätta alla berörda om beslut om underhållsstöd på grund av särskilda skäl.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2022\.
+Lagändringarna föreslås träda i kraft den 1 januari 2022.

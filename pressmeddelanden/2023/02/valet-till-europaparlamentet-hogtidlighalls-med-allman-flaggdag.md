@@ -6,4 +6,4 @@ Dagen för valet är ett tillfälle att fira och uppmärk­samma demo­kratin oc
 
 Att en ny allmän flagg­dag införs påverkar inte övriga flagg­dagar.
 
-Ändringen gäller från och med den 1 april 2023\.
+Ändringen gäller från och med den 1 april 2023.

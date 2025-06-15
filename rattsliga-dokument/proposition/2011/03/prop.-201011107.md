@@ -8,6 +8,6 @@ Betydelsen av en individuellt utformad verkställighet tydliggörs genom att det
 
 Vidare föreslås att den dömde under den senare delen av verkställigheten ska förberedas för ett liv i frihet genom konkreta åtgärder. Därutöver ska elektroniska hjälpmedel få användas för att kontrollera var den dömde befinner sig vid vistelse utanför det särskilda ungdomshemmet.
 
-Vid misstanke om att den dömde är drogpåverkad föreslås utökade provtagningsmetoder i form av saliv\- och svettprov. Proportionalitetsprincipens betydelse tydliggörs genom att det anges att varje beslut om kontroll\- eller tvångsåtgärd ska föregås av en proportionalitetsbedömning.
+Vid misstanke om att den dömde är drogpåverkad föreslås utökade provtagningsmetoder i form av saliv- och svettprov. Proportionalitetsprincipens betydelse tydliggörs genom att det anges att varje beslut om kontroll- eller tvångsåtgärd ska föregås av en proportionalitetsbedömning.
 
-Ändringarna, som huvudsakligen görs i lagen (1998:603\) om verkställighet av sluten ungdomsvård, föreslås träda i kraft den 1 augusti 2011\.
+Ändringarna, som huvudsakligen görs i lagen (1998:603) om verkställighet av sluten ungdomsvård, föreslås träda i kraft den 1 augusti 2011.

@@ -8,4 +8,4 @@ Vidare förtydligas möjligheten till strafflindring vid sanktionskumulation, dv
 
 Det görs även vissa ytterligare förändringar i regleringen av strafflindringsgrunder bl.a. i syfte att den ska bli mer överskådlig och tydlig.
 
-Lagändringarna föreslås träda i kraft den 1 april 2015\.
+Lagändringarna föreslås träda i kraft den 1 april 2015.

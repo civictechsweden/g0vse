@@ -4,4 +4,4 @@ Förändringarna är en del i arbetet med en gemensam regional indelning för st
 
 Den ändrade ansvarsfördelningen bygger på underlag i Statskontorets rapport ”Koncentration av viss länsstyrelseverksamhet”. I rapporten lämnar Statskontoret även förslag till fler verksamheter som kan koncentreras enligt samma geografiska struktur, och dessa kommer att remitteras inom kort. Genom att koncentrera vissa verksamheter till ett färre antal länsstyrelser stärks förutsättningarna för högre effektivitet.
 
-Regeringen har även beslutat om ett uppdrag till berörda länsstyrelser att förbereda överföring respektive inordnande av verksamheterna inför att ändringarna träder i kraft 1 januari 2025\.
+Regeringen har även beslutat om ett uppdrag till berörda länsstyrelser att förbereda överföring respektive inordnande av verksamheterna inför att ändringarna träder i kraft 1 januari 2025.

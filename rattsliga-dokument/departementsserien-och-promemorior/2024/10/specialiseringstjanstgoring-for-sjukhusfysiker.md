@@ -7,4 +7,4 @@ Socialdepartementet föreslår bland annat:
 * hur specialistkompetens för sjukhusfysiker ska uppnås,
 * hur specialiseringstjänstgöringen ska fullgöras,
 * vilka föreskrifter Socialstyrelsen får meddela samt
-* att förslagen träder i kraft den 1 januari 2026\.
+* att förslagen träder i kraft den 1 januari 2026.

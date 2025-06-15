@@ -9,4 +9,4 @@ Utredaren ska bland annat:
 * utifrån analysen i fråga om ökad differentiering av vården vid HVB, ta ställning till vilka HVB, oavsett driftsform, som bör ha tillgång till särskilda befogenheter, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget redovisas senast den 9 maj 2025\.
+Uppdraget redovisas senast den 9 maj 2025.

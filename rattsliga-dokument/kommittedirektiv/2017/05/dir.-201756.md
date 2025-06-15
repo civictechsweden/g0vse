@@ -8,4 +8,4 @@ Utredaren ska analysera behov av åtgärder utifrån den svenska arbetsmarknadsm
 
 Syftet med utredningen är att skapa ett mer hållbart arbetsliv med minskad risk för ohälsa och arbetslöshet. Regeringen vill också stärka skyddet för arbetstagare, skapa ett tydligare regelverk och öka möjligheten för ett flexibelt arbetsliv.
 
-Uppdraget om ett alterneringsår, arbetstidsbanker, attraktiva arbetsmiljöer, kartläggning av kostnader för stressrelaterad sjukfrånvaro samt deltid som möjlighet ska redovisas senast den 30 mars 2018\. Senast den 31 januari 2019 ska utredaren redovisa återstående delar av uppdraget.
+Uppdraget om ett alterneringsår, arbetstidsbanker, attraktiva arbetsmiljöer, kartläggning av kostnader för stressrelaterad sjukfrånvaro samt deltid som möjlighet ska redovisas senast den 30 mars 2018. Senast den 31 januari 2019 ska utredaren redovisa återstående delar av uppdraget.

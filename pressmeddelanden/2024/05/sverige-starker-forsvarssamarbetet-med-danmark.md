@@ -1,8 +1,8 @@
 # Sverige stärker försvarssamarbetet med Danmark
 
-Det svensk\-danska försvarssamarbetet ska stärkas ytterligare inom ramen för NATO, EU och Nordefco. Pål Jonson och Danmarks försvarsminister Troels Lund Poulsen undertecknade idag en avsiktsförklaring som stärker samarbetet på ett flertal områden.
+Det svensk-danska försvarssamarbetet ska stärkas ytterligare inom ramen för NATO, EU och Nordefco. Pål Jonson och Danmarks försvarsminister Troels Lund Poulsen undertecknade idag en avsiktsförklaring som stärker samarbetet på ett flertal områden.
 
-– Vi stärker ett redan gott samarbete och när Sverige nu är Natomedlem ökar möjligheterna. Både Sverige och Danmark donerar Stridsfordon 90 (CV 90\) till Ukraina och vi delar bilden att fortsatt stöd till Ukraina är avgörande. Luftpatrullering inom ramen för Natos Air policing är ett exempel på vad vi som goda grannar kan samarbeta kring. Även marint samarbete i t.ex. Öresundsregionen är något vi kan utveckla ytterligare, säger försvarsminister Pål Jonson.
+– Vi stärker ett redan gott samarbete och när Sverige nu är Natomedlem ökar möjligheterna. Både Sverige och Danmark donerar Stridsfordon 90 (CV 90) till Ukraina och vi delar bilden att fortsatt stöd till Ukraina är avgörande. Luftpatrullering inom ramen för Natos Air policing är ett exempel på vad vi som goda grannar kan samarbeta kring. Även marint samarbete i t.ex. Öresundsregionen är något vi kan utveckla ytterligare, säger försvarsminister Pål Jonson.
 
 – Med avsiktsförklaringen betonar vi det goda och nära samarbetet mellan Danmark och Sverige. Vi delar en gemensam ambition om att stärka försvar och säkerhet i regionen. Ett närmare samarbete är helt naturligt, nu när Sverige också har blivit medlem i NATO, säger försvarsminister Troels Lund Poulsen.
 

@@ -1,6 +1,6 @@
-# Inledningsanförande vid Försvarsmaktens rymddag 29 nov 2024
+# Inledningsanförande av försvarsministern vid Försvarsmaktens rymddag den 29 november 2024
 
-Försvarsminister Pål Jonson höll tal då Försvarsmakten höll en rymdag den 29 november 2024, i Stockholm.
+Försvarsminister Pål Jonson höll tal då Försvarsmakten höll en rymddag den 29 november 2024, i Stockholm.
 
 Mina damer och herrar, ärade gäster
 

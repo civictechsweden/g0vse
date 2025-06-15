@@ -2,7 +2,6 @@
 
 Enligt klimatlagen ska regeringen varje år lämna en klimatredovisning till riksdagen i budgetpropositionen. Syftet med klimatredovisningen är att underlätta för uppföljning och bedömning av de samlade klimateffekterna av alla politikområden.
 
-
 Klimatredovisningen ska omfatta​
 
 * en redovisning av utsläppsutvecklingen

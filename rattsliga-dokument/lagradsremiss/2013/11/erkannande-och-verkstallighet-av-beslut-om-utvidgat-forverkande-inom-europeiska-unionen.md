@@ -6,4 +6,4 @@ I lagrådsremissen föreslås att Kronofogdemyndigheten ska få ansöka om verks
 
 Vidare föreslås att beslut om utvidgat förverkande som har meddelats i en annan medlemsstat under vissa förutsättningar ska få verkställas i Sverige.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2014\.
+Lagändringarna föreslås träda i kraft den 1 juli 2014.

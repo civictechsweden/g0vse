@@ -6,16 +6,16 @@ Riksdagen har antagit regeringens lagförslag i prop. 2015/16:4 Modernisering av
 
 ### Referenser
 
-* regeringens proposition Modernisering av lagen om ekonomiska föreningar (prop. 2015/16:4\)
+* regeringens proposition Modernisering av lagen om ekonomiska föreningar (prop. 2015/16:4)
 * civilutskottets betänkande 2015/16:CU10 Modernisering av lagen om ekonomiska föreningar
 * riksdagsskrivelse 2015/16:130
-* ellagen (1997:857\)
-* naturgaslagen (2005:403\)
-* fjärrvärmelagen (2008:263\)
+* ellagen (1997:857)
+* naturgaslagen (2005:403)
+* fjärrvärmelagen (2008:263)
 
 ### Mer information
 
-Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 1 mars 2016\.
+Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 1 mars 2016.
 
 Kontaktperson:
-Andreas Lindholm 08\-405 14 54
+Andreas Lindholm 08-405 14 54

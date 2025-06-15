@@ -8,4 +8,4 @@ Konkurrensverket ges vidare vissa befogenheter för att på begäran av kommissi
 
 I propositionen föreslås även ändringar när det gäller de nationella gruppundantagen för konkurrensbegränsande specialiseringsavtal och konkurrensbegränsande avtal om forskning och utveckling. Ändringarna innebär att samma materiella reglering ska gälla som för gruppundantagen på unionsnivå.
 
-Lagändringarna föreslås träda i kraft den 1 december 2024\.
+Lagändringarna föreslås träda i kraft den 1 december 2024.

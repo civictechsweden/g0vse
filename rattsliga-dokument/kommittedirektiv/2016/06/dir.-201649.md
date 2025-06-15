@@ -6,4 +6,4 @@ Utredaren ska analysera om befintliga befogenheter och sanktionsmöjligheter är
 
 Syftet är dels att få en klar bild av den marknadskontroll som bedrivs, dels att undersöka om aktuella regelverk på ett effektivt sätt bidrar till ambitionen att de produkter som tillhandahålls på den svenska marknaden ska uppfylla gällande krav. En mer effektiv marknadskontroll bidrar även till en bättre fungerande inre marknad och motverkar en snedvridning av konkurrensen. Utredaren ska lämna de författningsförslag eller förslag på andra åtgärder som det finns anledning till.
 
-Uppdraget ska redovisas senast den 31 augusti 2017\.
+Uppdraget ska redovisas senast den 31 augusti 2017.

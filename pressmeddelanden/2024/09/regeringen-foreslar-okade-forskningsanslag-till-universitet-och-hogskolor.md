@@ -4,6 +4,6 @@ Liksom i flera andra framstående forskningsländer finansieras forskningen i Sv
 
 – I fördelningen av medel kommer inriktningen i propositionen mot excellens, internationalisering och innovation få genomslag. Så säkrar vi Sverige som ledande kunskapsnation, säger utbildningsminister Johan Pehrson.
 
-Inriktningen av medelstillskott är mot de mest framstående lärosätena. Fördelningsprinciperna kommer att redovisas i den kommande forsknings\- och innovationspropositionen.
+Inriktningen av medelstillskott är mot de mest framstående lärosätena. Fördelningsprinciperna kommer att redovisas i den kommande forsknings- och innovationspropositionen.
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

@@ -2,7 +2,7 @@
 
 I oktober 2023 utfärdade UD den strängaste avrådan för Libanon. UD har därmed i nästan ett helt år avrått från alla resor till Libanon och uppmanat alla svenska medborgare i Libanon att lämna landet.
 
-Av säkerhetsskäl har den UD\-utsända svenska ambassadpersonalen sedan den 3 augusti 2024 arbetat från Cypern. Under hela tiden har ambassaden erbjudit konsulärt stöd för svenska medborgare som velat lämna Libanon, bland annat genom möjligheten till konsulärt ekonomiskt bistånd enligt regelverket för svenska medborgare bosatta i Sverige som velat lämna Libanon med flyg men saknat pengar till biljett. Efterfrågan på konsulärt stöd har varit låg.
+Av säkerhetsskäl har den UD-utsända svenska ambassadpersonalen sedan den 3 augusti 2024 arbetat från Cypern. Under hela tiden har ambassaden erbjudit konsulärt stöd för svenska medborgare som velat lämna Libanon, bland annat genom möjligheten till konsulärt ekonomiskt bistånd enligt regelverket för svenska medborgare bosatta i Sverige som velat lämna Libanon med flyg men saknat pengar till biljett. Efterfrågan på konsulärt stöd har varit låg.
 
 Det går fortfarande kommersiella flyg från Libanon, men bokningstrycket är hårt. Svenska medborgare uppmanas alltjämt att boka flygbiljetter och lämna landet.
 

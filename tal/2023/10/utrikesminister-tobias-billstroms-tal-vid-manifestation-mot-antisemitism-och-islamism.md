@@ -4,12 +4,11 @@ Malmö, den 21 oktober.
 
 Det talade ordet gäller.
 
-
-Kära Malmö\-vänner,
+Kära Malmö-vänner,
 
 Det var med stor förfäran som jag tog emot de första nyheterna om illdåden i Israel i lördags för två veckor sedan. Efter hand som mer blev känt under dagen om vad som skett – och som då fortfarande pågick – började det alltmer gå upp för oss den nära ofattbara omfattningen av dessa terrordåd. Män, kvinnor och barn – tusentals oskyldiga människor hade blivit offer för urskillningslöst våld, i en kallblodigt planerad och systematiskt genomförd attack.
 
-Detta fruktansvärda attentat var en attack inte bara mot de människor som drabbades direkt i Israel, utan mot oss alla, alla vi som varje dag tror på \- och försöker arbeta för – freden och demokratin, såväl här hemma som ute i världen.
+Detta fruktansvärda attentat var en attack inte bara mot de människor som drabbades direkt i Israel, utan mot oss alla, alla vi som varje dag tror på - och försöker arbeta för – freden och demokratin, såväl här hemma som ute i världen.
 
 Jag blev starkt berörd av alla de svåra berättelser från de som överlevt attacken, och som också i många fall förlorat delar av sin familj och sina nära på värsta tänkbara sätt. Grymheten är slående. Tagandet av så många människor som gisslan, inklusive barn och äldre är fasansfullt.
 
@@ -29,7 +28,7 @@ Det är helt enkelt oacceptabelt att judar i Sverige år 2023 möts av denna typ
 
 Kampen mot antisemitismen är en högt prioriterad fråga för regeringen. Vi har på flera sätt aktivt förstärkt arbetet mot antisemitism och för att främja judiskt liv, såväl internationellt som här i vårt eget land. Som ett led i detta var Sverige fram till i år ordförande för den internationella alliansen för Förintelsens hågkomst (IHRA). Arbetet där har bland annat handlat om att motverka Rysslands förvrängda narrativ om Förintelsen som använts som propaganda i kriget mot Ukraina.
 
-Regeringen har också arbetat internationellt genom att följa upp slutsatserna och de åtaganden som gjordes vid Malmö Internationella Forum om Förintelsens hågkomst och kampen mot antisemitism, Remember Re\-act.
+Regeringen har också arbetat internationellt genom att följa upp slutsatserna och de åtaganden som gjordes vid Malmö Internationella Forum om Förintelsens hågkomst och kampen mot antisemitism, Remember Re-act.
 
 Nationellt i Sverige genomförs en mängd olika insatser för att förebygga och motverka antisemitism inom ramen för det åtgärdsprogram som beslutades om förra året. Regeringen har också höjt ambitionen genom en särskild satsning i nästa års budgetproposition.
 

@@ -12,4 +12,4 @@ Utredare blir Ulrik von Essen som är justitieråd i Högsta förvaltningsdomsto
 
 – Ulrik von Essen är en framstående jurist med gedigen kunskap om offentlig rätt och jag är mycket glad att han har tackat ja till detta viktiga uppdrag, säger Mats Persson.
 
-Uppdraget ska redovisas senast den 30 september 2024\.
+Uppdraget ska redovisas senast den 30 september 2024.

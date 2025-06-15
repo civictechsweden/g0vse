@@ -2,7 +2,7 @@
 
 I skrivelsen redogör regeringen för sin bedömning av de iakttagelser som
 Riksrevisionen har gjort i rapporten Försäkringskassans arbete med att
-förebygga sjukskrivning – ett otydligt uppdrag (RiR 2021:19\).
+förebygga sjukskrivning – ett otydligt uppdrag (RiR 2021:19).
 
 Granskningen visar enligt Riksrevisionen att det finns brister i Försäkringskassans arbete med att förebygga sjukskrivningar då det gäller både effektivitet och enhetlighet.
 

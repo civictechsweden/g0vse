@@ -2,7 +2,6 @@
 
 Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Australien samt en länk till rapporten i sin helhet.
 
-
 Australien är en välutvecklad och stabil demokrati med en stark rättsstat. Ett oberoende federalt domstolsväsende garanteras i författningen. Respekten för rättsstatens principer är generellt sett god i Australien. Samhällsklimatet är öppet, med oberoende medier och stark yttrandefrihet. Mänskliga rättigheter respekteras i hög grad och organisationer för mänskliga rättigheter kan bedriva verksamhet i landet utan begränsningar.
 
 Australien är ett ekonomiskt välmående land. I allmänhet lever befolkningen materiellt sett väl. Utbildningen håller överlag god standard. Landet har en väl fungerande korruptionslagstiftning.
@@ -13,6 +12,6 @@ Australiens urfolk har genom historien varit utsatta för en omfattande diskrimi
 
 Våld, inklusive sexuellt våld, mot kvinnor förekommer och är en fråga som fått alltmer uppmärksamhet i Australien. Situationen bedöms vara särskilt allvarlig bland urfolk. Regeringen har utarbetat en nationell handlingsplan på området.
 
-Uppmärksamhet har riktats mot att flera institutioner, bland annat katolska kyrkan, under en längre tid misslyckats med att skydda barn från sexuella övergrepp. Missförhållanden har också konstaterats när det gäller situationen för minderåriga i landets fängelser. Barn är straffrättsligt ansvariga från 10 års ålder, vilket har mött kritik från FN och människorättsorganisationer. En översyn av straffrättsåldern inleddes i november 2018\.
+Uppmärksamhet har riktats mot att flera institutioner, bland annat katolska kyrkan, under en längre tid misslyckats med att skydda barn från sexuella övergrepp. Missförhållanden har också konstaterats när det gäller situationen för minderåriga i landets fängelser. Barn är straffrättsligt ansvariga från 10 års ålder, vilket har mött kritik från FN och människorättsorganisationer. En översyn av straffrättsåldern inleddes i november 2018.
 
-Diskriminering på grund av sexuell läggning eller könsidentitet är förbjudet enligt lag. Hbtq\-personer kan leva öppet i Australien. I december 2017 antog parlamentet ny lagstiftning som möjliggör samkönade äktenskap.
+Diskriminering på grund av sexuell läggning eller könsidentitet är förbjudet enligt lag. Hbtq-personer kan leva öppet i Australien. I december 2017 antog parlamentet ny lagstiftning som möjliggör samkönade äktenskap.

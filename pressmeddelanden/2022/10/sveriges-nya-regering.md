@@ -4,13 +4,13 @@
 
 Ulf Kristersson, statsminister
 
-Jessika Roswall, EU\-minister
+Jessika Roswall, EU-minister
 
 ## Arbetsmarknadsdepartementet
 
-Johan Pehrson, arbetsmarknads\- och integrationsminister
+Johan Pehrson, arbetsmarknads- och integrationsminister
 
-Paulina Brandberg, jämställdhets\- och biträdande arbetsmarknadsminister
+Paulina Brandberg, jämställdhets- och biträdande arbetsmarknadsminister
 
 ## Finansdepartementet
 
@@ -24,7 +24,7 @@ Niklas Wykman, finansmarknadsminister
 
 Pål Jonson, försvarsminister
 
-Carl\-Oskar Bohlin, minister för civilt försvar
+Carl-Oskar Bohlin, minister för civilt försvar
 
 ## Justitiedepartementet
 
@@ -32,21 +32,21 @@ Gunnar Strömmer, justitieminister
 
 Maria Malmer Stenergard, migrationsminister
 
-## Klimat\- och näringslivsdepartementet
+## Klimat- och näringslivsdepartementet
 
-Ebba Busch, energi\- och näringsminister
+Ebba Busch, energi- och näringsminister
 
-Romina Pourmokhtari, klimat\- och miljöminister
+Romina Pourmokhtari, klimat- och miljöminister
 
 ## Kulturdepartementet
 
 Parisa Liljestrand, kulturminister
 
-## Landsbygds\- och infrastrukturdepartementet
+## Landsbygds- och infrastrukturdepartementet
 
 Peter Kullgren, landsbygdsminister
 
-Andreas Carlson, infrastruktur\- och bostadsminister
+Andreas Carlson, infrastruktur- och bostadsminister
 
 ## Socialdepartementet
 
@@ -56,7 +56,7 @@ Acko Ankarberg Johansson, sjukvårdsminister
 
 Camilla Waltersson Grönvall, socialtjänstminister
 
-Anna Tenje, äldre\- och socialförsäkringsminister
+Anna Tenje, äldre- och socialförsäkringsminister
 
 ## Utbildningsdepartementet
 
@@ -68,7 +68,7 @@ Lotta Edholm, skolminister
 
 Tobias Billström, utrikesminister
 
-Johan Forssell, bistånds\- och utrikeshandelsminister
+Johan Forssell, bistånds- och utrikeshandelsminister
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

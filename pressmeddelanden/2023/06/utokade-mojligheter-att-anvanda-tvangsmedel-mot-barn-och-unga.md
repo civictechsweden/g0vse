@@ -12,6 +12,6 @@ Utredaren har därför fått i uppdrag att föreslå hur en ordning bör utforma
 * föreslå författ­nings­ändringar som möjliggör kvarhållande av brotts­miss­tänkta barn och unga i fler fall och under längre tid än vad som är möjligt i dag när det sker i syfte att skyndsamt över­lämna dem till föräld­rarna, annan vårdnads­havare, en tjänste­man inom social­tjänsten eller någon annan lämplig, vuxen person,
 * analysera om och säker­ställa att de förslag som lämnas är förenliga med de krav som ställs upp enligt regerings­formen, Europa­konventionen, barn­konventionen och Sveriges åtaganden i övrigt när det gäller mänskl­iga rättig­heter.
 
-Uppdraget ska redovisas senast den 20 december 2024\.
+Uppdraget ska redovisas senast den 20 december 2024.
 
 Kommitté­direktiven bygger på en överens­kommelse mellan Sverige­demokraterna, Moderaterna, Krist­demokraterna och Liberalerna.

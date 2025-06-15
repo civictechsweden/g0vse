@@ -6,4 +6,4 @@ Det finns dessutom lagförslag som innebär att ett av kriterierna för att avg�
 
 Förslagen innebär att förvaltningsuppgifter som innefattar myndighetsutövning får överlåtas till ett utländskt organ. Riksdagens beslut bör därför fattas i den ordning som föreskrivs i 10 kap. 6 § andra stycket regeringsformen.
 
-Lagändringarna föreslås träda i kraft den 1 maj 2017\.
+Lagändringarna föreslås träda i kraft den 1 maj 2017.

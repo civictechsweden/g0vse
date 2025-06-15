@@ -6,4 +6,4 @@ Den parlamentariskt samman­­satta Utjämningskommittén har i uppdrag att se �
 
 Tilläggsdirektiven är en del av regeringspartiernas och Sverigedemokraternas samarbetsprojekt Tillväxt och hushållsekonomi i Tidöavtalet, inom ramen för reformarbetet för ökat arbetsutbud.
 
-Utjämningskommittén ska lämna sina förslag senast den 3 maj 2024\.
+Utjämningskommittén ska lämna sina förslag senast den 3 maj 2024.

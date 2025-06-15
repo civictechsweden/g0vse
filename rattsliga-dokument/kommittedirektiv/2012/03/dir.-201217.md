@@ -6,4 +6,4 @@ Utredningen ska presenteras på ett sådant sätt att resultaten kan ligga till 
 
 Uppdraget ingår i den migrationspolitiska överenskommelsen med Miljöpartiet de gröna.
 
-Uppdraget ska redovisas senast den 31 mars 2013\.
+Uppdraget ska redovisas senast den 31 mars 2013.

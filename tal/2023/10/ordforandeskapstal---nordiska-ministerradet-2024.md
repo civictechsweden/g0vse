@@ -4,9 +4,9 @@ Tack (herr/fru president),
 
 Det nordiska samarbetet är lätt att ta för givet.
 
-Men betydelsen av starka historiska band – och en förmåga att dra lärdom av varandras erfarenheter \- har nog aldrig varit så viktiga som just nu. I en hotfull tid av ofred och ofrihet i vår omvärld.
+Men betydelsen av starka historiska band – och en förmåga att dra lärdom av varandras erfarenheter - har nog aldrig varit så viktiga som just nu. I en hotfull tid av ofred och ofrihet i vår omvärld.
 
-För två veckor sedan sköts två oskyldiga svenska fotbollssupportrar ihjäl i Bryssel, och ytterligare en skadades allvarligt \- i ett terrordåd som inte kan beskrivas som något annat än en attack på vårt öppna och demokratiska samhälle.
+För två veckor sedan sköts två oskyldiga svenska fotbollssupportrar ihjäl i Bryssel, och ytterligare en skadades allvarligt - i ett terrordåd som inte kan beskrivas som något annat än en attack på vårt öppna och demokratiska samhälle.
 
 Och Rysslands fullskaliga invasion av Ukraina har än en gång tagit krigets fasor till Europa. I Ukraina formas en hel generation av personliga och nationella tragedier, men också av längtan efter fred och frihet och att få vara en del av en större europeisk gemenskap. Många fortsätter att betala det yttersta priset för den drömmen.
 
@@ -16,11 +16,11 @@ Sverige går in i vårt kommande ordförandeskap i Nordiska ministerrådet med d
 
 Vår devis är ett säkrare, grönare och friare Norden.
 
-Säkrare \- genom att stärka vår förmåga att tillsammans förebygga, stå emot och hantera olika sorters kriser.
+Säkrare - genom att stärka vår förmåga att tillsammans förebygga, stå emot och hantera olika sorters kriser.
 
-Grönare \- genom att vara föregångare i en konkurrenskraftig och innovationsdriven grön klimatomställning både på hemmaplan och genom att främja rena nordiska lösningar i resten av världen.
+Grönare - genom att vara föregångare i en konkurrenskraftig och innovationsdriven grön klimatomställning både på hemmaplan och genom att främja rena nordiska lösningar i resten av världen.
 
-Friare \- genom en politik för ökad tillväxt, ett konkurrenskraftigt näringsliv och en fördjupad nordisk integration.
+Friare - genom en politik för ökad tillväxt, ett konkurrenskraftigt näringsliv och en fördjupad nordisk integration.
 
 Visionen om att bli världens mest hållbara och integrerade region till 2030 är vägledande. Men låt oss vara ärliga – vi har en bit kvar. Det är hög tid att accelerera vårt arbete.
 

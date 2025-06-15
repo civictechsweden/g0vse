@@ -2,7 +2,7 @@
 
 På Ekofinrådets möte den 6 maj 2014 finns följande punkter på dagordningen:
 
-* Moder\- och dotterbolagsdirektivet (ev.)
+* Moder- och dotterbolagsdirektivet (ev.)
 * Finansiell transaktionsskatt
 * Makroekonomiska obalansförfarandet: djupgranskningar
-* Uppföljning av G20\-mötet samt IMF:s och Världsbankens vårmöten
+* Uppföljning av G20-mötet samt IMF:s och Världsbankens vårmöten

@@ -5,7 +5,7 @@ Regeringen föreslår ett särskilt straffansvar för den som har vissa former a
 De former av samröre som avses är att
 
 * ta befattning med vapen, ammunition, brandfarliga eller explosiva
-varor, kommunikationsutrustning, transportmedel eller annan liknande utrustning för en terroristorganisation,
+  varor, kommunikationsutrustning, transportmedel eller annan liknande utrustning för en terroristorganisation,
 * upplåta lokal eller mark till en terroristorganisation, eller
 * lämna annat liknande stöd till en terroristorganisation.
 
@@ -13,4 +13,4 @@ Straffskalan för brottet ska vara fängelse i högst två år eller, om brottet
 
 Därutöver föreslås att straffet för brottet olovlig värvning ska skärpas och att vissa moderniseringar av den straffbestämmelsen ska göras.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2020\.
+Lagändringarna föreslås träda i kraft den 1 januari 2020.

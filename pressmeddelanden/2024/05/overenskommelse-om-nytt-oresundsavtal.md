@@ -10,4 +10,4 @@ Genom överenskommelsen att uppdatera Öresundsavtalet, anpassas det till dagens
 
 Kompensationsordningen kommer fortsättningsvis även att omfatta kompensation för offentligt anställda som inte betalar inkomstskatt i sin hemkommun, vilket nu inte görs. Det kommer att ge en ökad nettokompensation till Sverige.
 
-Nu vidtar arbete i båda länderna med en teknisk granskning av avtalet, för att sedan gå vidare mot ett undertecknande under sommaren. Ambitionen är att avtalet om möjligt ska träda i kraft 2025\.
+Nu vidtar arbete i båda länderna med en teknisk granskning av avtalet, för att sedan gå vidare mot ett undertecknande under sommaren. Ambitionen är att avtalet om möjligt ska träda i kraft 2025.

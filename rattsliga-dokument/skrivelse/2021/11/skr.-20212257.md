@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om effektiviteten i Polismyndighetens arbete med information till brottsutsatta
 
-Denna skrivelse har utarbe­tats med anled­ning av Riks­revi­sionens rapport Effektivi­teten i Polis­myndig­hetens arbete med infor­mation till brotts­utsatta (RiR 2021:20\).
+Denna skrivelse har utarbe­tats med anled­ning av Riks­revi­sionens rapport Effektivi­teten i Polis­myndig­hetens arbete med infor­mation till brotts­utsatta (RiR 2021:20).
 
 Riksrevisionen har granskat effektivi­teten i Polis­myndighetens arbete med infor­mation till brotts­utsatta. Gransk­ningens fokus har varit om Polis­myndig­hetens interna styrning och stöd för hur myndig­heten ska infor­mera brotts­utsatta är effektiva och om de bygger på ända­måls­enliga analyser. Den sam­lade slutsatsen av gransk­ningen är att det finns flera brister som gör att arbetet inte är så effektivt som det skulle kunna vara. Effektivi­tets­bristerna hand­lar till stor del om att Polis­myndig­heten har gett olika katego­rier av med­arbe­tare informa­tions­upp­gifter som inte är anpa­ssade till dem som ska utföra upp­gifterna och som inte matchas av bra stöd. Härmed uppstår en risk att brotts­utsatta inte får all den infor­mation de har rätt till. Riks­revi­sionen anser vidare att Polis­myndig­heten saknar olika typer av analy­ser som hade behövts för att utveckla hur brottsutsatta ska informeras.
 

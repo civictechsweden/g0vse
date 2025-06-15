@@ -6,7 +6,7 @@ Det saknas ett enhetligt sätt för hur kommunala föreskrifter ska kungöras. F
 
 I propositionen föreslås att det ska förtydligas att som huvudregel ska kommunernas och landstingens föreskrifter kungöras genom meddelande på den kommunala anslagstavlan. För att kunskap om föreskrifterna ska vara lätt åtkomlig, ska de dessutom hållas tillgängliga på kommunernas och landstingens webbplatser på ett samlat och ordnat sätt under den tid som de är gällande. Genom det bildas en form av kommunal författningssamling för varje kommun och landsting.
 
-Ändringen i kommunallagen föreslås träda i kraft den 1 januari 2013\.
+Ändringen i kommunallagen föreslås träda i kraft den 1 januari 2013.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Riksdagen fattade den 24 oktober 2012 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

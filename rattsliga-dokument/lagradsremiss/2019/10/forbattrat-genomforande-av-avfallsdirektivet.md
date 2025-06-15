@@ -2,9 +2,9 @@
 
 I lagrådsremissen föreslås ändringar i miljöbalken för att förbättra genomförandet
 av Europaparlamentets och rådets direktiv (2008/98/EG) av den
-19 november 2008 om avfall och om upphävande av vissa direktiv (avfallsdirektivet). Lagändringarna föreslås träda i kraft den 1 januari 2020\.
+19 november 2008 om avfall och om upphävande av vissa direktiv (avfallsdirektivet). Lagändringarna föreslås träda i kraft den 1 januari 2020.
 
-En ny bestämmelse införs som innebär att en verksamhet som behandlar avfall och som är tillstånds\- eller anmälningspliktig endast får tillåtas om det finns skäl att anta att den planerade behandlingen kommer att uppfylla kraven i 15 kap. miljöbalken.
+En ny bestämmelse införs som innebär att en verksamhet som behandlar avfall och som är tillstånds- eller anmälningspliktig endast får tillåtas om det finns skäl att anta att den planerade behandlingen kommer att uppfylla kraven i 15 kap. miljöbalken.
 
 Bestämmelsen om vad som är en biprodukt förtydligas så att lydelsen bättre överensstämmer med lydelsen i avfallsdirektivet.
 
@@ -16,4 +16,4 @@ I bestämmelsen anges även exempel på omständigheter som särskilt ska beakta
 
 Slutligen införs ett krav på att en dom som omfattar tillstånd att återvinna eller bortskaffa avfall eller att lagra avfall i samband med en sådan behandling ska innehålla de villkor som behövs avseende åtgärder för avslutning av verksamheten och efterbehandling.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2020\.
+Lagändringarna föreslås träda i kraft den 1 januari 2020.

@@ -1,9 +1,8 @@
 # Uppdrag att ta fram och sprida kunskapsmaterial utifrån regelverket kring utreseförbud för barn
 
-Regeringen uppdrar åt Socialstyrelsen att ta fram och sprida kunskapsmaterial om det nya regelverket om ett utvidgat utreseförbud för barn. Förbudet föreslås träda i kraft den 1 juni 2024\.
+Regeringen uppdrar åt Socialstyrelsen att ta fram och sprida kunskapsmaterial om det nya regelverket om ett utvidgat utreseförbud för barn. Förbudet föreslås träda i kraft den 1 juni 2024.
 
-
-Kunskapsmaterialet ska göras tillgängligt och spridas nationellt. Det ska främst riktas till socialtjänst, hälso\- och sjukvård, skola och polis samt annan anmälningsskyldig personal. Socialstyrelsen ska också förbereda och stödja arbetet med att införa kunskapsmaterialet bland relevanta målgrupper.
+Kunskapsmaterialet ska göras tillgängligt och spridas nationellt. Det ska främst riktas till socialtjänst, hälso- och sjukvård, skola och polis samt annan anmälningsskyldig personal. Socialstyrelsen ska också förbereda och stödja arbetet med att införa kunskapsmaterialet bland relevanta målgrupper.
 
 Socialstyrelsen ska:
 

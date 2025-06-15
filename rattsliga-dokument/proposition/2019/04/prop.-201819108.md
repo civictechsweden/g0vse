@@ -6,7 +6,7 @@ Utgångspunkten är att parterna ska ha stor frihet att komma överens om en ers
 
 I propositionen föreslår regeringen också att skyddet för hyresgäster vid ombildning till bostadsrätt stärks genom ett krav på att en bostadsrättsförening som förvärvar ett hyreshus ska informera samtliga hyresgäster i huset.
 
-De lagändringar som behövs föreslås träda i kraft den 2 oktober 2019\.
+De lagändringar som behövs föreslås träda i kraft den 2 oktober 2019.
 
 Propositionen bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.
 

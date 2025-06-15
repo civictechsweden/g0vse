@@ -4,4 +4,4 @@ I lagrådsremissen föreslås att investeringsfonder inte längre ska vara skatt
 
 Reglerna föreslås gälla även för sådana fondandelsägare som är juridiska personer. Fysiska personer ska ta upp intäkten i inkomstslaget kapital och juridiska personer i inkomstslaget näringsverksamhet.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2012\.
+Lagändringarna föreslås träda i kraft den 1 januari 2012.

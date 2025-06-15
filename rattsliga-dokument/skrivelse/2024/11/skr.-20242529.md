@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om Kriminalvårdens behandlingsverksamhet
 
-I skrivelsen redogör regeringen för sin bedömning av de slutsatser och rekommendationer som Riksrevisionen lämnar i rapporten Verktyg för förändring – Kriminalvårdens behandlingsverksamhet (RiR 2024:13\).
+I skrivelsen redogör regeringen för sin bedömning av de slutsatser och rekommendationer som Riksrevisionen lämnar i rapporten Verktyg för förändring – Kriminalvårdens behandlingsverksamhet (RiR 2024:13).
 
 Riksrevisionens övergripande slutsats är att Kriminalvårdens behandlingsprogram inte fullt ut bedrivs på ett effektivt sätt. Enligt Riksrevisionen är den huvudsakliga förklaringen att verksamheten är underdimensionerad på grund av att det saknas både personal som kan bedriva verksamheten samt lokaler att bedriva dem i.
 

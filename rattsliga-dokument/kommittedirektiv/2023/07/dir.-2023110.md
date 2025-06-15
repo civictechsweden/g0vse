@@ -8,4 +8,4 @@ Utredaren ska bland annat
 * vid behov föreslå avgränsningar mellan denna nya form av yrkesutbildning och andra former av yrkesutbildning på gymnasial och eftergymnasial nivå, och
 * lämna nödvändiga författningsförslag.
 
-Utredningstiden ligger fast. Uppdraget ska alltså redovisas senast den 15 februari 2024\.
+Utredningstiden ligger fast. Uppdraget ska alltså redovisas senast den 15 februari 2024.

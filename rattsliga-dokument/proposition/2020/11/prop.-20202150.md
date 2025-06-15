@@ -4,4 +4,4 @@ En näringsidkare som genom finansiell rådgivning uppsåtligen eller av oaktsam
 
 I propositionen föreslås att näringsidkaren i fortsättningen ska betala full ersättning. Detta innebär att ersättning kan betalas även för bl.a. utebliven vinst.
 
-Lagändringen föreslås träda i kraft den 1 april 2021\.
+Lagändringen föreslås träda i kraft den 1 april 2021.

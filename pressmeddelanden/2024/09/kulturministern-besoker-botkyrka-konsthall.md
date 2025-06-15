@@ -1,6 +1,6 @@
 # Kulturministern besöker Botkyrka konsthall
 
-Botkyrka konsthall är en svensk konsthall för samtidskonst och en mötesplats för olika konstworkshops och aktiviteter. Konsthallen driver också ett residensprogram (Residence Botkyrka) för konstnärer som är intresserade av att, under en period, bo och verka utifrån platsen Botkyrka. Botkyrka konsthall är en del av kultur\- och fritidsförvaltningen i Botkyrka kommun.
+Botkyrka konsthall är en svensk konsthall för samtidskonst och en mötesplats för olika konstworkshops och aktiviteter. Konsthallen driver också ett residensprogram (Residence Botkyrka) för konstnärer som är intresserade av att, under en period, bo och verka utifrån platsen Botkyrka. Botkyrka konsthall är en del av kultur- och fritidsförvaltningen i Botkyrka kommun.
 
 Under besöket kommer kulturministern bland annat att träffa konsthallschefen Miriam Andersson Blecher samt några av hennes medarbetare, för att få höra mer om verksamheten med barn och unga. Även Stina Lundgren, kommunstyrelsens ordförande i Botkyrka, kommer att närvara.
 

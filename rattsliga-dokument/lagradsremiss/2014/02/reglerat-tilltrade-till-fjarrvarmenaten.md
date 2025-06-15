@@ -4,6 +4,6 @@ Förutsättningarna för effektiv konkurrens på fjärrvärmemarknaden är begr�
 
 Detta kan leda till att värmepotential inte utnyttjas eller att möjligheter till effektivt utnyttjande av näten inte tas till vara.
 
-I denna lagrådsremiss föreslås därför att bestämmelser införs i fjärrvärmelagen (2008:263\) som gör det möjligt för den som vill ansluta sig till ett fjärrvärmenät att, under vissa förutsättningar, få ett reglerat tillträde till rörledningarna.
+I denna lagrådsremiss föreslås därför att bestämmelser införs i fjärrvärmelagen (2008:263) som gör det möjligt för den som vill ansluta sig till ett fjärrvärmenät att, under vissa förutsättningar, få ett reglerat tillträde till rörledningarna.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2014\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2014.

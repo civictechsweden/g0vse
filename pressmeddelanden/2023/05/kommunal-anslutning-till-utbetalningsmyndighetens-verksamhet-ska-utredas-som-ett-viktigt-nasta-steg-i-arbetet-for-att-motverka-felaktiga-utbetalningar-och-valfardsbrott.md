@@ -8,4 +8,4 @@ I utredningen ingår bland annat att kartlägga omfattningen av felaktiga utbeta
 
 Under genomförandet av uppdraget ska utredaren föra en dialog med kommuner, regioner, relevanta statliga myndigheter och Sveriges Kommuner och Regioner, samt inhämta synpunkter från relevanta aktörer inom näringslivet. Frågor om det praktiska genomförandet av hur kommuner och regioner ska kunna anslutas till Utbetalningsmyndighetens verksamhet är inte föremål för utredningens uppdrag.
 
-Uppdraget ska redovisas senast den 20 december 2024\.
+Uppdraget ska redovisas senast den 20 december 2024.

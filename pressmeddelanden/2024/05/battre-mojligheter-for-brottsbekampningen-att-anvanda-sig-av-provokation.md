@@ -1,6 +1,6 @@
 # Bättre möjligheter för brottsbekämpningen att använda sig av provokation
 
-En viktig del av brottsbekämpningen är möjligheten att bedriva dold spanings\- och utredningsverksamhet. Provokation är en värdefull arbetsmetod för att avslöja svårutredd och allvarlig brottslighet. Ett exempel på provokation är om polis utger sig för att vara intresserad av att köpa narkotika och förmår någon att avslöja innehav av det. Motsvarande kan gälla vapen, läkemedel, explosiva varor eller sexuellt övergreppsmaterial.
+En viktig del av brottsbekämpningen är möjligheten att bedriva dold spanings- och utredningsverksamhet. Provokation är en värdefull arbetsmetod för att avslöja svårutredd och allvarlig brottslighet. Ett exempel på provokation är om polis utger sig för att vara intresserad av att köpa narkotika och förmår någon att avslöja innehav av det. Motsvarande kan gälla vapen, läkemedel, explosiva varor eller sexuellt övergreppsmaterial.
 
 – Det saknas i dag en uttrycklig författningsreglering av arbetsmetoden och detta bidrar till en osäkerhet kring när och hur provokation får användas. Den här osäkerheten riskerar att leda till omotiverad återhållsamhet, men också en ökad risk för oavsiktliga övertramp. En lagreglering kan säkerställa att provokativa åtgärder kan användas när det är befogat, exempelvis vid sexualbrott på internet, och innebära större möjligheter att använda provokation än vad som är fallet i dag, säger justitieminister Gunnar Strömmer.
 
@@ -10,4 +10,4 @@ Regeringen har därför gett en särskild utredare i uppdrag att bland annat fö
 
 Uppdraget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-Uppdraget ska redovisas senast den 3 november 2025\.
+Uppdraget ska redovisas senast den 3 november 2025.

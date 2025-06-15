@@ -2,7 +2,7 @@
 
 Riksbanken är Sveriges centralbank. Det är Riksbanken som ser till att pengar behåller sitt värde över tid och att betalningar kan göras säkert och effektivt. Det är dessutom Riksbanken som ger ut sedlar och mynt i svenska kronor.
 
-Den nuvarande riksbankslagen trädde i kraft den 1 januari 1989\. Sedan dess har det ekonomisk\-politiska landskapet förändrats betydligt, bl.a. avseende den svenska växelkursregimen, de finansiella marknadernas avreglering och internationalisering och det svenska EU\-medlemskapet. Vidare har det tagits fram nya regelverk kring makrotillsyn av det finansiella systemet och ett nytt regelverk om hantering av finansiella företag i kris i spåren av den globala finanskrisen.
+Den nuvarande riksbankslagen trädde i kraft den 1 januari 1989. Sedan dess har det ekonomisk-politiska landskapet förändrats betydligt, bl.a. avseende den svenska växelkursregimen, de finansiella marknadernas avreglering och internationalisering och det svenska EU-medlemskapet. Vidare har det tagits fram nya regelverk kring makrotillsyn av det finansiella systemet och ett nytt regelverk om hantering av finansiella företag i kris i spåren av den globala finanskrisen.
 
 Det är viktigt att Riksbanken omfattas av en modern och ändamålsenlig rättslig reglering.
 
@@ -19,4 +19,4 @@ Regeringen föreslår därför en ny riksbankslag. Förslaget innebär i huvudsa
 * Riksbanken ska identifiera hot mot hållbar utveckling. Dessa får beaktas i verksamheten och innebär att Riksbanken kan bidra till hållbar utveckling på finansmarknaden.
 * Den nya lagen ges en redaktionell och språklig utformning som syftar till att göra den överskådlig och lättillgänglig.
 
-I lagrådsremissen föreslås också en rad följdändringar i annan lagstiftning. Lagändringarna föreslås träda i kraft den 1 januari 2023\.
+I lagrådsremissen föreslås också en rad följdändringar i annan lagstiftning. Lagändringarna föreslås träda i kraft den 1 januari 2023.

@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen att sätt igång och samordna informationsinsatser till allmänheten om familjehem, jourhem, kontaktperson, kontaktfamilj, god man för ensamkommande barn och särskilt förordnad vårdnadshavare.
 
-
 Meningen är att synliggöra behovet och öka kunskapen om vad uppdragen innebär. Detta för att göra det lättare för kommunerna att rekrytera och säkra tillgången till familjehem med mera. Socialstyrelsen ska även informera om det stöd och den hjälp som bland annat familjehem har rätt att få av socialnämnden.
 
 ## Ändamålsenliga insatser

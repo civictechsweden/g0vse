@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen att inom myndigheten förbereda arbetet med att inrätta ett nationellt kompetenscentrum för äldreomsorg.
 
-
 Socialstyrelsens kompetenscentrum ska vara ett nationellt stöd till kommuner och verksamheter samt utveckla kunskapen om äldreomsorg. Myndigheten ska arbeta verksamhetsnära och samverka tvärprofessionellt med relevanta aktörer. Meningen är att öka kunskapen om äldreomsorg på nationell nivå.
 
 Socialstyrelsen ska:

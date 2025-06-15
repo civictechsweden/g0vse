@@ -10,4 +10,4 @@ Utredaren ska bland annat
 * analysera och ta ställning till om kommuner bör åläggas en skyldighet att rapportera förändringar i sina avtal med enskilda utförare till IVO, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget redovisas senast den 29 mars 2024\.
+Uppdraget redovisas senast den 29 mars 2024.

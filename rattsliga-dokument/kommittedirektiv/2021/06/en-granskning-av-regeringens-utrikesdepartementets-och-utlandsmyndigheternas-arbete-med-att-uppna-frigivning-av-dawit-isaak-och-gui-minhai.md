@@ -8,4 +8,4 @@ Kommissionen ska
 * bedöma om det finns behov av förändringar i regeringens, Utrikesdepartementets eller utlandsmyndigheternas arbete, och
 * vid behov föreslå nödvändiga åtgärder.
 
-Uppdraget ska redovisas senast den 31 mars 2022\.
+Uppdraget ska redovisas senast den 31 mars 2022.

@@ -9,4 +9,4 @@ ska tas bort.
 Den som leder och samordnar det pedagogiska arbetet vid en förskoleenhet ska benämnas rektor i stället för förskolechef.
 
 Lagändringarna i fråga om nyanlända elever föreslås träda i kraft den
-1 augusti 2018 och övriga lagändringar den 1 juli 2019\.
+1 augusti 2018 och övriga lagändringar den 1 juli 2019.

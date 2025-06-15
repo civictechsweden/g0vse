@@ -8,5 +8,5 @@ Skattereduktionen för sjukersättning och aktivitetsersättning föreslås
 också förstärkas i syfte att ta bort skillnaden i beskattning av sådan
 ersättning och av arbetsinkomster. Förslaget innebär att utformningen av skattereduktionen ändras så att den i princip motsvarar hur jobbskatteavdraget beräknas. Personer med sjukersättning och aktivitetsersättning beräknas därmed få en skattesänkning på i genomsnitt ca 10 000 kronor per år.
 
-Förslagen medför ändringar i inkomstskattelagen (1999:1229\) som ska
-träda i kraft den 1 januari 2022\.
+Förslagen medför ändringar i inkomstskattelagen (1999:1229) som ska
+träda i kraft den 1 januari 2022.

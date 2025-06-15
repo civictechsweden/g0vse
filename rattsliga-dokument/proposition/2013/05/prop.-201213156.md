@@ -4,4 +4,4 @@ I propositionen lämnas förslag till lagändringar som krävs för att genomfö
 
 Rambeslutet om verkställighet av utevarodomar ändrar i fem andra redan antagna rambeslut som reglerar det straffrättsliga samarbetet mellan medlemsstaterna i EU, bland annat arresteringsorderrambeslutet. Dessa fem rambeslut reglerar på olika sätt när en medlemsstat ska erkänna och verkställa en annan stats utevarodom. Det har visat sig utgöra ett hinder för det rättsliga samarbetet att frågan om utevarodomar inte är konsekvent reglerad. Avsikten med rambeslutet om verkställighet av utevarodomar är därför att åstadkomma en så likartad reglering som möjligt. På så sätt tydliggörs vilka utevarodomar som kan verkställas över gränserna. Rambeslutet syftar däremot inte till att harmonisera nationella regler om när en utevarodom får meddelas.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2014\.
+Lagändringarna föreslås träda i kraft den 1 januari 2014.

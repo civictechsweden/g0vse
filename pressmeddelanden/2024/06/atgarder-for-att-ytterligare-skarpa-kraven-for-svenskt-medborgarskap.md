@@ -8,4 +8,4 @@ Enligt de ursprungliga direktiven ska utredningen bland annat föreslå ett krav
 * föreslå hur kraven för förvärv av medborgarskap för vuxna personer som är födda i Sverige och sedan födelsen är statslösa kan skärpas, och
 * ta ställning till om och i så fall hur möjligheten att beviljas dispens från naturalisationsvillkoren vid särskilda skäl bör skärpas.
 
-Som en följd av det utvidgade uppdraget förlängs utredningstiden och uppdraget ska nu redovisas senast den 15 januari 2025\.
+Som en följd av det utvidgade uppdraget förlängs utredningstiden och uppdraget ska nu redovisas senast den 15 januari 2025.

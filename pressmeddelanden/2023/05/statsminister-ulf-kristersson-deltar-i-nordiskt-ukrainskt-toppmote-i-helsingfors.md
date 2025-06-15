@@ -4,6 +4,6 @@ Temat för toppmötet är Rysslands anfallskrig mot Ukraina, de nordiska länder
 
 Statsminister Ulf Kristersson kommer också ha ett bilateralt möte med president Zelenskyj.
 
-**Tid för pressträff:** Ca 18\.00 finsk tid, ca 17\.00 svensk tid
+**Tid för pressträff:** Ca 18.00 finsk tid, ca 17.00 svensk tid
 **Plats:** Presidentens slott, Helsingfors
 **Sändning:** Yles direktsändning från presskonferensen kommer att distribueras av Europeiska rundradiounionen EBU.

@@ -2,4 +2,4 @@
 
 ## Förlängning av utredningstid
 
-Kommittén har begärt förlängd tid för uppdraget. Uppdraget ska redovisas senast den 15 februari 2011\.
+Kommittén har begärt förlängd tid för uppdraget. Uppdraget ska redovisas senast den 15 februari 2011.

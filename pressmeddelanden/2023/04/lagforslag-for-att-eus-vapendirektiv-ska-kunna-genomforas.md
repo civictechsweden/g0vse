@@ -1,6 +1,6 @@
 # Lagförslag för att EU:s vapendirektiv ska kunna genomföras
 
-I maj 2022 stämde EU\-kommis­sionen Sverige i EU\-domstolen på grund av för sent genom­­förande av vapen­­direktivet. Sverige upp­fyller redan med nuvarande lag­­stift­ning många delar av direk­tivet men det behövs vissa författ­­nings­­ändringar för att genom­­föra det fullt ut.
+I maj 2022 stämde EU-kommis­sionen Sverige i EU-domstolen på grund av för sent genom­­förande av vapen­­direktivet. Sverige upp­fyller redan med nuvarande lag­­stift­ning många delar av direk­tivet men det behövs vissa författ­­nings­­ändringar för att genom­­föra det fullt ut.
 
 [Prop. 2022/23:102 Genomförande av ändringarna i vapendirektivet](/rattsliga-dokument/proposition/2023/04/prop.-202223102 "Prop. 2022/23:102")
 
@@ -15,4 +15,4 @@ I propositionen föreslås bland annat följande:
 
 Propositionen innebär dock flera lättnader i förhål­lande till den tidigare regeringens förslag. Jägare och sport­­skyttar kommer exempel­vis kunna inneha vapen­­magasin som passar till deras vapen i samma utsträck­ning som tidigare. Det kommer inte heller att ställas några särskilda krav när det gäller för­varing, trans­port eller införsel av magasin.
 
-Lag­ändringarna föreslås träda i kraft den 1 juli 2023\.
+Lag­ändringarna föreslås träda i kraft den 1 juli 2023.

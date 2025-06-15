@@ -8,4 +8,4 @@ Vidare ska utredaren under utredningsarbetet särskilt beakta regeringens arbete
 
 Utredaren ska samråda med berörda branschorganisationer, arbetsmarknadens parter och berörda myndigheter.
 
-Uppdraget ska redovisas senast den 27 oktober 2010\.
+Uppdraget ska redovisas senast den 27 oktober 2010.

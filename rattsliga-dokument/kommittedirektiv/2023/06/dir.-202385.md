@@ -4,4 +4,4 @@ En särskild utredare ska göra en bred översyn av de osjälvständiga brottsfo
 
 Utredaren ska analysera och ta ställning till hur straffansvaret för osjälvständiga brott bör utvidgas och förändras för att på ett mer effektivt sätt motverka brott, särskilt brott som begås inom ramen för organiserad brottslighet. Utredaren ska också lämna författningsförslag som ger uttryck för en skärpt syn på sådan brottslighet.
 
-Uppdraget ska redovisas senast den 16 september 2024\.
+Uppdraget ska redovisas senast den 16 september 2024.

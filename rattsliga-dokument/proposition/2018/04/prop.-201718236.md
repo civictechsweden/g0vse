@@ -1,7 +1,7 @@
 # Skriftväxling till skatteavtalet mellan Sverige och Schweiz
 
 I propositionen föreslås att riksdagen godkänner en skriftväxling mellan
-Sverige och Schweiz, verkställd den 8 och 13 december 2017\. Skriftväxlingen avser tillämpningen av artikel 10 § 8 i avtalet mellan
+Sverige och Schweiz, verkställd den 8 och 13 december 2017. Skriftväxlingen avser tillämpningen av artikel 10 § 8 i avtalet mellan
 Konungariket Sverige och Schweiziska Edsförbundet för undvikande av
 dubbelbeskattning beträffande skatter å inkomst och förmögenhet. Det
 föreslås även att riksdagen antar regeringens förslag till lag om ändring i

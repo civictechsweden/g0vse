@@ -6,4 +6,4 @@ För att kraftfullt motverka den allvarliga brottslighet som internationella st�
 
 – Internationella stöldligor står för en stor andel av de stölder som begås i Sverige och brotten drabbar både svenska privatpersoner och företag. Dagens beslut innebär att vi tar ett kraftfullt steg i kampen mot dessa stöldligor, säger finansminister Elisabeth Svantesson.
 
-Utredningstiden förlängs också och uppdraget ska slutredovisas senast den 21 december 2023\.
+Utredningstiden förlängs också och uppdraget ska slutredovisas senast den 21 december 2023.

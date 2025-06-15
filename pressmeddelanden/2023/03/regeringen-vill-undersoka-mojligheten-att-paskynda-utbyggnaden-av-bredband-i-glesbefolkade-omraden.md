@@ -8,4 +8,4 @@ Regeringen vill därför se över möjligheten att dra nytta av den snabba tekni
 
 Regeringen satsar redan under 2023 1,3 miljarder kronor på stöd till bredbandsutbyggnad för att även landsbygd och glesbygd ska få fungerande bredbandsuppkoppling.
 
-Uppdraget ska redovisas senast den 15 september 2023\.
+Uppdraget ska redovisas senast den 15 september 2023.

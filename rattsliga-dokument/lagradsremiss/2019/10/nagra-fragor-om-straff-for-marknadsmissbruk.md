@@ -7,4 +7,4 @@ Lagändringarna föreslås för att den svenska lagstiftningen
 bättre ska överensstämma med Europaparlamentets och rådets direktiv
 2014/57/EU av den 16 april 2014 om straffrättsliga påföljder för marknadsmissbruk (marknadsmissbruksdirektiv).
 
-Lagändringarna föreslås träda i kraft den 1 februari 2020\.
+Lagändringarna föreslås träda i kraft den 1 februari 2020.

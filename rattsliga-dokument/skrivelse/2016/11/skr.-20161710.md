@@ -12,11 +12,11 @@ För att bidra till en strategisk, sammanhållen och långsiktig styrning samt e
 
 Skrivelsen omfattar vidare en nationell strategi för att förebygga och bekämpa mäns våld mot kvinnor. Strategin innefattar arbete mot hedersrelaterat våld och förtryck samt mot prostitution och människohandel för sexuella ändamål. Den innehåller åtgärder som stärker skydd och stöd till våldsutsatta kvinnor, insatser mot våld i samkönade relationer samt åtgärder som motarbetar destruktiv maskulinitet och hederstänkande.
 
-Strategin inbegriper mål och insatsområden, en struktur för stöd och uppföljning och ett åtgärdsprogram med insatser för perioden 2017–2020\. För att stärka förutsättningarna att nå det jämställdhetspolitiska delmålet att mäns våld mot kvinnor ska upphöra kommer regeringen särskilt att fokusera på förebyggande insatser och mäns delaktighet och ansvar i förverkligandet av ett jämställt samhälle. Strategin är tioårig och börjar gälla den 1 januari 2017\.
+Strategin inbegriper mål och insatsområden, en struktur för stöd och uppföljning och ett åtgärdsprogram med insatser för perioden 2017–2020. För att stärka förutsättningarna att nå det jämställdhetspolitiska delmålet att mäns våld mot kvinnor ska upphöra kommer regeringen särskilt att fokusera på förebyggande insatser och mäns delaktighet och ansvar i förverkligandet av ett jämställt samhälle. Strategin är tioårig och börjar gälla den 1 januari 2017.
 
 ## Två nya jämställdhetspolitiska delmål
 
-Regeringen avser också att införa två nya jämställdhetspolitiska delmål: jämställd utbildning respektive jämställd hälsa, för att ge dessa områden ett större utrymme i jämställdhetspolitiken. Det övergripande målet om att män och kvinnor ska ha samma makt att forma samhället och sina egna liv kvarstår, liksom delmålen om en jämn fördelning av makt och inflytande, ekonomisk jämställdhet, en jämn fördelning av det obetalda hem\- och omsorgsarbetet samt att mäns våld mot kvinnor ska upphöra.
+Regeringen avser också att införa två nya jämställdhetspolitiska delmål: jämställd utbildning respektive jämställd hälsa, för att ge dessa områden ett större utrymme i jämställdhetspolitiken. Det övergripande målet om att män och kvinnor ska ha samma makt att forma samhället och sina egna liv kvarstår, liksom delmålen om en jämn fördelning av makt och inflytande, ekonomisk jämställdhet, en jämn fördelning av det obetalda hem- och omsorgsarbetet samt att mäns våld mot kvinnor ska upphöra.
 
 ## Stärkt styrning för att nå de jämställdhetspolitiska målen
 

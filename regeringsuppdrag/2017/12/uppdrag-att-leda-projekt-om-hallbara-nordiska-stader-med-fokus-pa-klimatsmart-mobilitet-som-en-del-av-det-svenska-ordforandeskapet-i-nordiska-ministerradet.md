@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Statens energimyndighet (Energimyndigheten) att vara huvudprojektledare och förvaltningsorgan i det nordiska ordförandeskapsprojektet Hållbara nordiska städer med fokus på klimatsmart mobilitet.
 
-
 Projektet ska bedrivas i fem delprojekt:
 
 1. Lansering av ordförandeskapsprojektet samt avslutande konferens om hållbara städer med fokus på klimatsmarta resor och transporter.

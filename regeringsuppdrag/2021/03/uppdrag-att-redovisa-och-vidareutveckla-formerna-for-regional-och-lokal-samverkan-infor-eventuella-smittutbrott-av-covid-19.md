@@ -1,7 +1,6 @@
 # Uppdrag att redovisa och vidareutveckla formerna för regional och lokal samverkan inför eventuella smittutbrott av covid-19
 
-Regeringen uppdrar åt länsstyrelserna och Folkhälsomyndigheten att redovisa och vidareutveckla formerna för regionala och lokala samverkan inför eventuell smittspridning eller smittutbrott av covid\-19\.
-
+Regeringen uppdrar åt länsstyrelserna och Folkhälsomyndigheten att redovisa och vidareutveckla formerna för regionala och lokala samverkan inför eventuell smittspridning eller smittutbrott av covid-19.
 
 Myndigheterna ska
 

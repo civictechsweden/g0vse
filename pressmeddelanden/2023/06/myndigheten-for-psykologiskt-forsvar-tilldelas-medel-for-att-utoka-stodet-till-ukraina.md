@@ -2,7 +2,7 @@
 
 Sverige har sedan början av Rysslands fullskaliga invasion av Ukraina hjälpt landet militärt, finansiellt och humanitärt. Stöd har också lämnats inom området psykologiskt försvar, i form av bl.a. rådgivning, utbildning och anpassad träning och övning av ukrainska aktörer. Arbetet har omfattat ett stort antal samarbetspartners i Ukraina, i Sverige och internationellt.
 
-– Sverige har en god kompetens inom området och kan därför erbjuda ett fortsatt kvalificerat stöd, men detta kräver extra resurser till MPF. Stödet bedöms hittills ha gjort stor nytta i den ukrainska försvarsinsatsen och har också gett Sverige viktiga lärdomar som hjälper oss att bygga vårt eget psykologiska försvar, säger minister för civilt försvar Carl\-Oskar Bohlin.
+– Sverige har en god kompetens inom området och kan därför erbjuda ett fortsatt kvalificerat stöd, men detta kräver extra resurser till MPF. Stödet bedöms hittills ha gjort stor nytta i den ukrainska försvarsinsatsen och har också gett Sverige viktiga lärdomar som hjälper oss att bygga vårt eget psykologiska försvar, säger minister för civilt försvar Carl-Oskar Bohlin.
 
 MPF tilldelas därför 15 miljoner kronor för att ytterligare förstärka stödet.
 

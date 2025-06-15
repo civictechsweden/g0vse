@@ -11,4 +11,4 @@ Utredaren ska därför
 * överväga och föreslå de förändringar som behövs i reglerna om påföljds­preskrip­tion för att säker­ställa intresset av att påföljder verkställs, och
 * lämna nödvändiga författ­nings­förslag.
 
-Uppdraget ska redovisas senast den 10 september 2021\.
+Uppdraget ska redovisas senast den 10 september 2021.

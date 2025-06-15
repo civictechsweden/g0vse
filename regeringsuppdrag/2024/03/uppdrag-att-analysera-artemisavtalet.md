@@ -2,7 +2,6 @@
 
 Regeringen ger Rymdstyrelsen i uppdrag att analysera konsekvenser av ett svenskt undertecknande av Artemisavtalet med NASA.
 
-
 Rymdstyrelsen ska särskilt analysera möjliga effekter på följande områden:
 
 * Sveriges internationella samarbeten,

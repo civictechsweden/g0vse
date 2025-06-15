@@ -10,4 +10,4 @@ Regeringen föreslår bland annat:
 * att insatser ska få påbörjas efter dödens inträde om det behövs för att bevara organ eller annat biologiskt material i avvaktan på ett transplantationsingrepp
 * att sekretessbelagda uppgifter om den möjliga donatorn får lämnas mellan vårdgivare.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2022\.
+Lagändringarna föreslås träda i kraft den 1 juli 2022.

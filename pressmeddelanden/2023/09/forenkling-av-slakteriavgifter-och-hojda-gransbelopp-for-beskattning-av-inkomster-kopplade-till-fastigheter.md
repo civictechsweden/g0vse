@@ -10,8 +10,8 @@ Införandet av fasta avgifter innebär ett enklare och mer förutsägbart avgift
 
 Regeringen föreslår även att tre gränsbelopp för beskattning av inkomster som är kopplade till fastigheter höjs. Beloppen har justerats med hänsyn till den allmänna prisutvecklingen, men beloppsgränsen avseende inkomst från samfällighet höjs mer än vad prisutvecklingen motiverar. Eftersom det finns många samfälligheter bedöms det som en stor förenkling att undanta inkomster från samfälligheter i större utsträckning än tidigare.
 
-Förändringarna föreslås träda ikraft den 1 januari 2024\.
+Förändringarna föreslås träda ikraft den 1 januari 2024.
 
-Regeringen avser att överlämna detta förslag till riksdagen i budgetpropositionen för 2024\.
+Regeringen avser att överlämna detta förslag till riksdagen i budgetpropositionen för 2024.
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

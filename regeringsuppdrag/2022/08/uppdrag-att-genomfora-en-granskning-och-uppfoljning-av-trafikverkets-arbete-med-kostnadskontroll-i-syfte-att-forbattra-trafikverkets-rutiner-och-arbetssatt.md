@@ -2,7 +2,6 @@
 
 Regeringen ger Trafikanalys i uppdrag att till och med den 30 april 2028, med syftet att stödja Trafikverket, granska, följa upp och analysera Trafikverkets verksamhet och arbete med att vidareutveckla och förbättra sina processer för kostnadsreducerande åtgärder samt förbättrad kostnadskontroll av verksamheten, som bedrivs inom ramen för den nationella trafikslagsövergripande planen för transportinfrastrukturen för perioden 2022–2033 (nedan nationell plan för transportinfrastrukturen). Trafikverket ska bistå Trafikanalys i arbetet.
 
-
 Trafikanalys ska senast den 31 januari 2023 till Regeringskansliet (Infrastrukturdepartementet) redovisa en plan för hur Trafikanalys avser att genomföra uppdraget.
 
 Trafikanalys ska därefter till Regeringskansliet (Infrastrukturdepartementet) senast den 30 april årligen, från och med 2024 till och med 2028, redovisa:

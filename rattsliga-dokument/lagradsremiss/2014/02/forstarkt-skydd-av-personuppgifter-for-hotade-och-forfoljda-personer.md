@@ -6,4 +6,4 @@ Regeringen föreslår att polismyndigheten och socialnämnden på Skatteverkets 
 
 Regeringen anser dessutom att det bör skapas en mer sammanhållen och konsekvent reglering som skyddar hotade och förföljda personers personuppgifter. Regeringen kommer därför i ett annat sammanhang att göra en övergripande översyn av dessa frågor.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2014\.
+Lagändringarna föreslås träda i kraft den 1 juli 2014.

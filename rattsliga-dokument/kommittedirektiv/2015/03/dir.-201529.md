@@ -11,6 +11,6 @@ Utredaren ska bland annat
 * klargöra hur vetenskaplig grund ska kunna säkerställas i utbildningen, och
 * utarbeta nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 15 april 2016\.
+Uppdraget ska redovisas senast den 15 april 2016.
 
 [Pressmeddelande: Polisutbildning blir högskoleutbildning](/pressmeddelanden/2015/03/polisutbildning-blir-hogskoleutbildning/)

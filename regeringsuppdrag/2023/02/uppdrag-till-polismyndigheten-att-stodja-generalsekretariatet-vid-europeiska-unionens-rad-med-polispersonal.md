@@ -1,7 +1,6 @@
 # Uppdrag till Polismyndigheten att stödja Generalsekretariatet vid Europeiska unionens råd med polispersonal
 
-Regeringen uppdrar åt Polismyndigheten att stödja Generalsekretariatet vid Europeiska unionens råd med polispersonal för att fullgöra bevakningsuppgifter vid Europeiska rådets möten och EU\-toppmöten i Bryssel under perioden 1 januari 2023 till och med 30 juni 2023\.
-
+Regeringen uppdrar åt Polismyndigheten att stödja Generalsekretariatet vid Europeiska unionens råd med polispersonal för att fullgöra bevakningsuppgifter vid Europeiska rådets möten och EU-toppmöten i Bryssel under perioden 1 januari 2023 till och med 30 juni 2023.
 
 Uppdraget ska genomföras tillsammans med säkerhetspersonal från generalsekretariatet och avser erforderliga bevakningsuppgifter i anslutning till rådsmöten på plats i Bryssel.
 

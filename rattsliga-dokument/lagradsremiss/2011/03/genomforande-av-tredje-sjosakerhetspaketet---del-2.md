@@ -6,6 +6,6 @@ I denna lagrådsremiss lämnas förslag till de lagändringar som krävs för at
 
 Klassdirektivet reglerar frågor om åtgärder som medlemsstaterna ska vidta i sina förbindelser med de organisationer som inom Europeiska unionen ombesörjer inspektion, besiktning och certifiering av fartyg. De föreslagna lagändringarna innebär bl.a. införande av hänvisningar till det nya direktivet.
 
-När det gäller olycksutredningsdirektivet är det bland annat fråga om att genomföra åtaganden som rör den närmare omfattningen av skyldigheten att undersöka olyckor till sjöss och regler om undersökningens genomförande. Olycksutredningsdirektivet har också bedömts påkalla vissa tillägg och ändringar i offentlighets\- och sekretesslagen (2009:400\).
+När det gäller olycksutredningsdirektivet är det bland annat fråga om att genomföra åtaganden som rör den närmare omfattningen av skyldigheten att undersöka olyckor till sjöss och regler om undersökningens genomförande. Olycksutredningsdirektivet har också bedömts påkalla vissa tillägg och ändringar i offentlighets- och sekretesslagen (2009:400).
 
-Ändringarna föreslås träda i kraft den 17 juni 2011\.
+Ändringarna föreslås träda i kraft den 17 juni 2011.

@@ -4,5 +4,5 @@ I lagrådsremissen föreslås att möjligheten för kommuner och landsting att s
 
 I lagrådsremissen görs även bedömningen att en statlig kommunstabiliseringsfond inte bör införas.
 
-Ändringarna föreslås träda i kraft den 1 januari 2013\. En möjlighet införs att även reservera överskott upparbetade fr.o.m. räkenskapsåret
-2010\.
+Ändringarna föreslås träda i kraft den 1 januari 2013. En möjlighet införs att även reservera överskott upparbetade fr.o.m. räkenskapsåret
+2010.

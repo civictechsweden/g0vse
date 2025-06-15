@@ -8,4 +8,4 @@ Vidare ska kommittén utreda om det, i fall då Statens skolinspektion riktar al
 
 Kommittén ska också överväga om Skolinspektionen ska ges en utökad möjlighet att granska huruvida förutsättningarna för godkännandet som huvudman även fortsättningsvis är uppfyllda i det fall en fysisk eller juridisk person får ett väsentligt inflytande i en av Skolinspektionen godkänd fristående skola. Kommittén ska, om den anser att behov finns, lämna förslag till en sådan utökad möjlighet.
 
-Uppdraget ska redovisas senast den 1 november 2012\.
+Uppdraget ska redovisas senast den 1 november 2012.

@@ -6,4 +6,4 @@ I lagrådsremissen föreslås att fler anhöriga till flyktingar och andra skydd
 
 Vidare föreslås en ny begränsning som innebär att en nyanländ som ansöker om uppehållstillstånd på grund av anknytning till en person som var svensk medborgare vid tidpunkten för den nyanländes ansökan om uppehållstillstånd inte omfattas av etableringslagen.
 
-Lagändringen föreslås träda i kraft den 1 januari 2014\.
+Lagändringen föreslås träda i kraft den 1 januari 2014.

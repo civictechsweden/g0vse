@@ -1,6 +1,6 @@
 # Kommenterad dagordning, rådet för TTE Energi, den 19 juni 2023
 
-På TTE\-mötet den 19 juni 2023 finns följande punkter på dagordningen:
+På TTE-mötet den 19 juni 2023 finns följande punkter på dagordningen:
 
 * Revidering av EU:s elmarknadsdesign
 

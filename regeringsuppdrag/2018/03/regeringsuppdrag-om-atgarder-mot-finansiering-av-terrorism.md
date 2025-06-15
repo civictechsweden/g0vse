@@ -9,4 +9,4 @@ Regeringen uppdrar vidare åt Säkerhetspolisen, Polismyndigheten (Finanspolisen
 
 Säkerhetspolisen ska leda och samordna arbetet samt ansvara för att redovisa uppdragen.
 
-Uppdragen ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 30 maj 2018\.
+Uppdragen ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 30 maj 2018.

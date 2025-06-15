@@ -6,6 +6,6 @@ Genom befogen­heterna får Polis­myndig­heten större möjlig­heter att gör
 
 – I den omläggning av kriminal­politiken som regeringen nu genom­för har polisen en helt central roll. Det är viktigt att de har de förut­sätt­ningar som behövs för att bedriva sitt arbete, inte minst när det gäller att komma åt den gräns­över­skridande brotts­lig­heten. Förslagen som vi nu lämnar till riksdagen ger polisen möjlig­heter att med större kraft kunna ingripa mot till exempel smuggling och inter­natio­nella stöldligor, säger justitie­minister Gunnar Strömmer.
 
-Ändringarna föreslås träda i kraft den 1 augusti 2023\.
+Ändringarna föreslås träda i kraft den 1 augusti 2023.
 
 Propositionen bygger på en överens­kommelse mellan Sverige­demokraterna, Moderaterna, Krist­demokraterna och Liberalerna.

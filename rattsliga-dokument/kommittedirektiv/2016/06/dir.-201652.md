@@ -16,4 +16,4 @@ Utredaren ska bland annat:
 
 Om utredaren bedömer att författningar behöver ändras, ska utredaren lämna förslag till författningsändringar.
 
-Uppdraget ska redovisas senast den 31 augusti 2017\.
+Uppdraget ska redovisas senast den 31 augusti 2017.

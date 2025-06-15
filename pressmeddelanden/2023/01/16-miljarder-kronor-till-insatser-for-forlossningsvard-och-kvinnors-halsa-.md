@@ -12,7 +12,7 @@ I överenskommelsen En personcentrerad, tillgänglig och jämlik mödrahälsovå
 * Insatser som säkerställer att det finns relevant kompetens i vården och tillgång till multiprofessionella team som stödjer kvinnan genom graviditetsvårdkedjan.
 * Insatser för att utveckla nya arbetssätt och skapa en god arbetsmiljö.
 * Insatser för en mer jämlik mödrahälsovård och förlossningsvård för att komma till rätta med omotiverade skillnader mellan olika grupper av kvinnor.
-* Utveckling av hälso\- och sjukvården som rör flickors och kvinnors hälsa och sjukdomar. Det handlar bland annat om sexuell och reproduktiv hälsa, samt att ge en god vård för personer som utsatts för sexuellt våld och könsstympning.
+* Utveckling av hälso- och sjukvården som rör flickors och kvinnors hälsa och sjukdomar. Det handlar bland annat om sexuell och reproduktiv hälsa, samt att ge en god vård för personer som utsatts för sexuellt våld och könsstympning.
 * Särskilda insatser för att stärka tillgängligheten till mödrahälsovården och förlossningsvården på landsbygd. 150 miljoner kronor avsätts för att återöppna förlossningskliniker, bevara kliniker som annars skulle stänga ner, införa nya vårdplatser på befintliga kliniker, erbjuda patienthotell eller genomföra andra kvalitetshöjande insatser som bidrar till en god tillgänglighet.
 
 Totalt avsätts 1 610 miljoner kronor för satsningen.

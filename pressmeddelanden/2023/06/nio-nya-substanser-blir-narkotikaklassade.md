@@ -4,6 +4,6 @@
 
 Förordningsändringarna som regeringen nu har beslutat om innebär att nio substanser klassificeras som narkotika. De allra flesta av dem har redan beslagtagits i Sverige och säljs eller har sålts på webbshoppar.
 
-Substanserna är Hexahydrocannabinol (HHC), Hexahydrocannabiforol (HHCP), N\-desetylisotonitazen, 3\-fenylpropanoylfentanyl, Metoxpropamin (MXPr), Metoxisopropamin (MXiPr), Deoximetoxetamin (DMXE), 1cP\-LSD och 1V\-LSD.
+Substanserna är Hexahydrocannabinol (HHC), Hexahydrocannabiforol (HHCP), N-desetylisotonitazen, 3-fenylpropanoylfentanyl, Metoxpropamin (MXPr), Metoxisopropamin (MXiPr), Deoximetoxetamin (DMXE), 1cP-LSD och 1V-LSD.
 
-Ändringarna träder i kraft den 11 juli 2023\.
+Ändringarna träder i kraft den 11 juli 2023.

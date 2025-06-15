@@ -4,4 +4,4 @@ En särskild utredare ska göra en översyn av verksamheten med transporter av f
 
 Utredaren ska lämna förslag till de organisationsförändringar som utredaren bedömer vara nödvändiga och redovisa fullständiga författningsförslag. De höga krav på rättssäkerhet som måste ställas på en lagstiftning av detta slag ska särskilt beaktas.
 
-Utredaren ska redovisa sitt uppdrag senast den 31 oktober 2010\.
+Utredaren ska redovisa sitt uppdrag senast den 31 oktober 2010.

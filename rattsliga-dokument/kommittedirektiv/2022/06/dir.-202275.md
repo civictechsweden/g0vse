@@ -10,4 +10,4 @@ Utredaren ska bland annat
 * utreda hur uppföljning, kontroll och granskning av folkbildningen säkerställs, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 19 februari 2024\.
+Uppdraget ska redovisas senast den 19 februari 2024.

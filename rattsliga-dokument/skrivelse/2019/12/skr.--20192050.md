@@ -20,13 +20,13 @@ Kvinnors sjukfrånvaro är betydligt högre än mäns. Det är bekymrande. Reger
 
 Riksrevisionen rekommenderar regeringen att uppdra åt Försäkringskassan att följa upp läkarintygen för män och kvinnor på olika vårdgivarenheter.
 
-Socialstyrelsen och Försäkringskassan har i redovisningen av regeringsuppdraget om bättre dialog mellan Försäkringskassan och hälso\- och sjukvården (dnr S2018/00530/SF) beskrivit åtgärder som myndigheterna ska vidta.
+Socialstyrelsen och Försäkringskassan har i redovisningen av regeringsuppdraget om bättre dialog mellan Försäkringskassan och hälso- och sjukvården (dnr S2018/00530/SF) beskrivit åtgärder som myndigheterna ska vidta.
 
 Regeringen följer Socialstyrelsens och Försäkringskassans fortsatta arbete.
 
 ## Uppmuntra vården att minska osakliga könsskillnader i vården
 
-Riksrevisionen föreslår att regeringen tillsätter en utredning som bland annat ska föreslå hur hälso\- och sjukvården ska uppmuntras att minska osakliga könsskillnader i sjukfrånvaron.
+Riksrevisionen föreslår att regeringen tillsätter en utredning som bland annat ska föreslå hur hälso- och sjukvården ska uppmuntras att minska osakliga könsskillnader i sjukfrånvaron.
 
 Regeringen bedömer att minskad osäkerhet i arbetsförmågebedömningen bäst uppnås genom de åtgärder som nu vidtas.
 

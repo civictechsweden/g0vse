@@ -4,9 +4,9 @@ Den tekniska utvecklingen har förändrat arbetslivet och skapat möjligheter ti
 
 För att stärka plattformsarbetares rättigheter och tydliggöra vem som ska anses vara arbetstagare har Europaparlamentet och rådet antagit det så kallade plattformsdirektivet, som ska genomföras i medlemsstaterna senast den 2 december 2026.
 
-Med detta som bakgrund har en särskild utredare fått i uppdrag att utreda hur EU\-direktivet ska genomföras där den svenska arbetsmarknadsmodellen ska vara en central utgångspunkt.
+Med detta som bakgrund har en särskild utredare fått i uppdrag att utreda hur EU-direktivet ska genomföras där den svenska arbetsmarknadsmodellen ska vara en central utgångspunkt.
 
-– Personer som är anställda i gig\-branschen ska ha goda arbetsvillkor och en god arbetsmiljö precis som alla andra på arbetsmarknaden. Gig\-ekonomin har många fördelar och det är också viktigt att branschens innovationsförmåga tillvaratas, säger jämställdhets\- och arbetslivsminister Paulina Brandberg.
+– Personer som är anställda i gig-branschen ska ha goda arbetsvillkor och en god arbetsmiljö precis som alla andra på arbetsmarknaden. Gig-ekonomin har många fördelar och det är också viktigt att branschens innovationsförmåga tillvaratas, säger jämställdhets- och arbetslivsminister Paulina Brandberg.
 
 Utredaren ska bland annat
 

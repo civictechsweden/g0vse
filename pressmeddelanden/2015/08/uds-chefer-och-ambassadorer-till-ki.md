@@ -1,7 +1,6 @@
 # UD:s chefer och ambassadörer till KI
 
-Onsdagen den 26 augusti besöker närmare 150 UD\-chefer och ambassadörer Karolinska Institutet i Solna i samband med UD:s årliga chefsmöte.
-
+Onsdagen den 26 augusti besöker närmare 150 UD-chefer och ambassadörer Karolinska Institutet i Solna i samband med UD:s årliga chefsmöte.
 
 – KI:s forskning och verksamhet är världsledande och en viktig del av det svenska varumärket, säger UD:s expeditionschef Fredrik Jörgensen.
 

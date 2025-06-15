@@ -1,7 +1,6 @@
 # Remiss av Transportstyrelsens framställning om ändring i mönstringsförordningen (1984:831)
 
-Här kan du ta del av till vilka remissinstanser som regeringen har remitterat Transportstyrelsens framställning om ändring i mönstringsförordningen (1984:831\). Remissvaren ska ha inkommit till Näringsdepartementet senast den 11 juni 2018\.
-
+Här kan du ta del av till vilka remissinstanser som regeringen har remitterat Transportstyrelsens framställning om ändring i mönstringsförordningen (1984:831). Remissvaren ska ha inkommit till Näringsdepartementet senast den 11 juni 2018.
 
 ## Remissinstanser
 

@@ -1,8 +1,8 @@
 # Carl-Oskar Bohlin till Washington D.C. för att stärka samarbetet inom totalförsvar och cybersäkerhet
 
-Besöket i USA:s huvudstad sker i ljuset av Sveriges medlemskap i Nato och det försämrade säkerhetspolitiska läget i Europa, vilket understryker behovet av starka band mellan länderna. Under vistelsen har Carl\-Oskar Bohlin möten med företrädare för Vita huset för att diskutera den geopolitiska situationen, vikten av långsiktigt stöd till Ukraina, och bägge länders arbete med att stärka motståndskraften i cyberdomänen.
+Besöket i USA:s huvudstad sker i ljuset av Sveriges medlemskap i Nato och det försämrade säkerhetspolitiska läget i Europa, vilket understryker behovet av starka band mellan länderna. Under vistelsen har Carl-Oskar Bohlin möten med företrädare för Vita huset för att diskutera den geopolitiska situationen, vikten av långsiktigt stöd till Ukraina, och bägge länders arbete med att stärka motståndskraften i cyberdomänen.
 
-Statsrådet besöker sedan den amerikanska kongressen för möten med bland andra ordföranden för Committee on Homeland Security, Mark Green, och kongressens svenska vänförening, Friends of Sweden Caucus. Carl\-Oskar Bohlin och Johan Berggren möter även senatorer från både det Demokratiska och Republikanska partiet.
+Statsrådet besöker sedan den amerikanska kongressen för möten med bland andra ordföranden för Committee on Homeland Security, Mark Green, och kongressens svenska vänförening, Friends of Sweden Caucus. Carl-Oskar Bohlin och Johan Berggren möter även senatorer från både det Demokratiska och Republikanska partiet.
 
 Vid Hudson Institute, en tankesmedja fokuserad på internationella relationer och försvarsfrågor, kommer Bohlin att delta i ett rundabordssamtal och hålla ett anförande om återuppbyggnaden av det civila försvaret och det svenska totalförsvarskonceptet.
 

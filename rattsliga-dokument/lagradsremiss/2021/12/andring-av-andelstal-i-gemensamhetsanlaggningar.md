@@ -6,4 +6,4 @@ En samfällighetsförening som förvaltar en gemensamhetsanläggning ska själv 
 
 Förslaget utökar samfällighetsföreningarnas självbestämmande. Det blir i många fall både enklare och billigare för en förening att få andelstalen ändrade jämfört med vad som är fallet i dag. Det minskar risken för att föreningarna avstår från att ändra andelstalen trots att förhållandena kräver det.
 
-De nya reglerna föreslås träda i kraft den 1 juli 2022\.
+De nya reglerna föreslås träda i kraft den 1 juli 2022.

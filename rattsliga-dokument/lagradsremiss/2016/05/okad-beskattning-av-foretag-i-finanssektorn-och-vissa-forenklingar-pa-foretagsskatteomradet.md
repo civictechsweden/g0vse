@@ -10,4 +10,4 @@ För det tredje föreslås att den s.k. ventilen i reglerna om begränsning av u
 
 Förslagen föranleder ändringar i inkomstskattelagen.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2017\.
+Lagändringarna föreslås träda i kraft den 1 januari 2017.

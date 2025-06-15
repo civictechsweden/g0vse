@@ -1,17 +1,16 @@
 # Statsministerns jultal
 
-Statsminister Ulf Kristersson höll jultal på Harpsund den 23 december 2023\.
+Statsminister Ulf Kristersson höll jultal på Harpsund den 23 december 2023.
 
 Det talade ordet gäller.
-
 
 Det är rätt så mörkt nu, så här dagarna före jul.
 
 Inte bara för att det alltid är mörkt så här års, utan också för att många svenskar upplever en mörk tid när vi blickar ut över Sverige och världen.
 
-Kriget i Ukraina och kriget i Mellanöstern. Den dödliga gängbrottsligheten. Ett förhöjt terrorhot i spåren av LVU\-kampanjen och koranbränningar.
+Kriget i Ukraina och kriget i Mellanöstern. Den dödliga gängbrottsligheten. Ett förhöjt terrorhot i spåren av LVU-kampanjen och koranbränningar.
 
-Räntor och matpriser som skapar ekonomisk stress. Den senaste Pisa\-undersökningen som vittnar om kunskapsras i läsning och matematik.
+Räntor och matpriser som skapar ekonomisk stress. Den senaste Pisa-undersökningen som vittnar om kunskapsras i läsning och matematik.
 
 Klimatförändringar som måste stoppas – innan det är för sent.
 
@@ -77,13 +76,13 @@ Vi återuppbygger den trygghet som behövs i ett land där människor vill leva 
 
 Men, när vi gör allt det som måste göras: Låt oss samtidigt ta fasta på allt som är fantastiskt med Sverige.
 
-Och då tänker jag inte bara på de djupa gran\- och tallskogarna eller de 100 000 sjöarna med vackra namn som Mälaren, Siljan, Bolmen och Akkajaure.
+Och då tänker jag inte bara på de djupa gran- och tallskogarna eller de 100 000 sjöarna med vackra namn som Mälaren, Siljan, Bolmen och Akkajaure.
 
 Sverige är ett världsledande exportland inom avancerad teknologi och grön omställning. Vi är ett ingenjörsland som många fler än ingenjörerna är stolta över.
 
 När jag nyligen var på FN:s klimatmöte kunde jag berätta om ett land som redan har gjort en tredjedel av den mödosamma resan mot fossilfrihet.
 
-Vi har ett av världens renaste elsystem – 98 procent fossilfritt. Och vi har ett näringsliv som ligger i framkant i det globala racet mot nettonoll\-utsläpp med batterier, fossilfritt stål och elektrobränslen.
+Vi har ett av världens renaste elsystem – 98 procent fossilfritt. Och vi har ett näringsliv som ligger i framkant i det globala racet mot nettonoll-utsläpp med batterier, fossilfritt stål och elektrobränslen.
 
 Nu ska vi göra resten av resan och samtidigt fördubbla vår elproduktion, så att vi kan elektrifiera även transporter och industrier.
 
@@ -93,7 +92,7 @@ Vi är också det näst mest attraktiva landet för globala talanger och spetsko
 
 Nästan oavsett vilken topplista man tittar på så rankas Sverige fortfarande högt.
 
-Sverige är EU:s mest jämställda land och vi ligger fyra bland världens främsta demokratier. Vi har en starkare ekonomi än de allra flesta andra EU\-länder.
+Sverige är EU:s mest jämställda land och vi ligger fyra bland världens främsta demokratier. Vi har en starkare ekonomi än de allra flesta andra EU-länder.
 
 Vi är till och med lyckligare än många andra – faktiskt sjätte lyckligast i världen, om man får tro World Happiness Report.
 

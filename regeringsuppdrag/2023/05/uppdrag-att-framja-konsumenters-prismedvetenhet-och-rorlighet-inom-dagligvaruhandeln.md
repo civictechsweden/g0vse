@@ -2,7 +2,6 @@
 
 Regeringen ger Konsumentverket i uppdrag att vidta åtgärder som främjar konsumenters prismedvetenhet och bidrar till rörlighet inom dagligvaruhandeln.
 
-
 Konsumentverket ska särskilt undersöka förutsättningarna för att genomföra riktade åtgärder som kan höja prismedvetenheten hos konsumenter i köpsituationer, exempelvis i fysiska butiker, och bidra till att konsumenter har god tillgång till information som möjliggör att de kan jämföra produkter och välja att handla hos de aktörer som erbjuder prisvärda alternativ.
 
 Konsumentverket ska undersöka både hur befintliga initiativ på området kan få ett större genomslag och, vid behov, föreslå nya åtgärder för att främja konsumenters medvetenhet om prisvärda produkter och bidra till rörlighet inom dagligvaruhandeln.

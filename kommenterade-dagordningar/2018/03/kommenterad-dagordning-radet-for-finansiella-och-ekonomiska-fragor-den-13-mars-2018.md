@@ -6,5 +6,5 @@ På Ekofinrådets möte den 13 mars 2018 finns följande punkter på dagordninge
 * Bankpaketet
 * Aktuella lagstiftningsförslag om finansiella tjänster
 * Den europeiska planeringsterminen
-* Mandat inför G20\-mötet den 19\-20 mars i Buenos Aires
+* Mandat inför G20-mötet den 19-20 mars i Buenos Aires
 * Läget när det gäller genomförandet av lagstiftningen om finansiella tjänster

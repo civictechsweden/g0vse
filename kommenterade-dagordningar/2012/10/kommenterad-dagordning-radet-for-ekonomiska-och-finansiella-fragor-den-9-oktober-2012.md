@@ -7,5 +7,5 @@ På Ekofinrådets möte den 9 oktober 2012 finns följande punkter på dagordnin
 * Övriga frågor: a) Förslag till Europaparlamentets och rådets direktiv om bekämpning genom straffrättsliga bestämmelser av bedrägerier som riktar sig mot unionens ekonomiska intressen, b) (ev.) Aktuella lagstiftningsförslag
 * Uppföljning av informella Ekofin
 * Den europeiska planeringsterminen 2012
-* (ev.) Genomförande av stabilitets\- och tillväxtpakten
+* (ev.) Genomförande av stabilitets- och tillväxtpakten
 * Internationella möten

@@ -12,4 +12,4 @@ som begränsar småhusbyggandet. I delrapporten redovisas också tills nu
 genomförda aktiviteter i linje med uppdraget samt en plan för det fortsatta
 arbetet.
 
-Uppdraget ska slutredovisas skriftligt senast den 15 januari 2027\.
+Uppdraget ska slutredovisas skriftligt senast den 15 januari 2027.

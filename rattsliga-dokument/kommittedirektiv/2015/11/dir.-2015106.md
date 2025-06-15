@@ -10,7 +10,7 @@ mer miljövänliga alternativ, vilket i sin tur leder till minskade
 utsläpp och mindre klimatpåverkan. Skatten bör också
 uppmuntra flyget till effektivare transporter och minskad
 klimatpåverkan. Skattens utformning ska samverka med de
-närings\-, transport\- och regionalpolitiska målen om bl.a. jobb,
+närings-, transport- och regionalpolitiska målen om bl.a. jobb,
 tillgänglighet och konkurrenskraft i alla delar av landet.
 
 Skatt på flygresor finns i vissa andra medlemsstater inom
@@ -26,6 +26,6 @@ utformning i förhållande till EU:s statsstödsregler ska särskilt
 analyseras. Utredaren ska utarbeta nödvändiga
 författningsförslag.
 
-Uppdraget ska redovisas senast den 30 november 2016\.
+Uppdraget ska redovisas senast den 30 november 2016.
 
 [Pressmeddelande: Utredning om skatt på flygresor](/contentassets/84dce5dbd8f6450e9090b687a3bf640b/pressmeddelande/utredning-om-skatt-pa-flygresor/ "Utredning om skatt på flygresor ")

@@ -20,4 +20,4 @@ En damminnehavare ska vart tionde år låta genomföra en helhetsbedömning av d
 
 Bestämmelser om damminnehavares rapportering införs. Tillsyn ska utövas av länsstyrelsen.
 
-Affärsverket svenska kraftnät ska svara för tillsynsvägledning. Lagstiftningen föreslås träda i kraft den 1 juli 2014\.
+Affärsverket svenska kraftnät ska svara för tillsynsvägledning. Lagstiftningen föreslås träda i kraft den 1 juli 2014.

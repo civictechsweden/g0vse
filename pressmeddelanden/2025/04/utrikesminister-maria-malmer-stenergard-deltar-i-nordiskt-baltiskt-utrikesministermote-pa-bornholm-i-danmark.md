@@ -6,6 +6,6 @@ Den 28–29 april reser utrikesminister Maria Malmer Stenergard till Bornholm i 
 
 Under 2025 är Danmark samordnare för det nordisk-baltiska informella utrikes- och säkerhetspolitiska samarbetet, NB8. Vid mötet på Bornholm kommer även Tyskland och Polens utrikesministrar och Frankrikes minister med ansvar för europafrågor att delta. På agendan står bland annat utvecklingen i närområdet och fortsatt stöd till Ukraina.
 
-Efter mötet 29 april hålls en gemensam pressträff klockan 14.15.
+Efter mötet 29 april hålls en gemensam pressträff klockan 14.40.
 
 Obligatorisk föranmälan till pressträffen senast fredag den 25 april kl. 10.00 via [Accreditation | IPC](https://ipcd.dk/accreditation/accreditation-form)

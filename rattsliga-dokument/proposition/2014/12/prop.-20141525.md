@@ -8,4 +8,4 @@ Ju kortare tid som går från det att brottet begicks tills påföljden verkstä
 
 Regeringen föreslår slutligen att åtalsunderlåtelse för unga ska benämnas straffvarning. Därigenom tydliggörs att det är fråga om en reaktion på ett brott och en varning om att en mer ingripande påföljd kan komma att dömas ut.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2015\.
+Lagändringarna föreslås träda i kraft den 1 juli 2015.

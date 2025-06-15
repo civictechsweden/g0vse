@@ -1,6 +1,6 @@
 # Förberedande och kapacitetsstärkande insatser inför att fritidskortet lanseras
 
-Regeringen avsätter medel till Svenskt Friluftsliv och Sveriges Riksidrottsförbund för att genomföra kompletterande insatser inom barn\- och ungdomsverksamhet. Samtidigt får Statens kulturråd (Kulturrådet) ett uppdrag att stärka kapaciteten i den kommunala kulturskolan och Myndigheten för ungdoms\- och civilsamhällesfrågor (MUCF) ett uppdrag att fördela medel till barn\- och ungdomsorganisationer.
+Regeringen avsätter medel till Svenskt Friluftsliv och Sveriges Riksidrottsförbund för att genomföra kompletterande insatser inom barn- och ungdomsverksamhet. Samtidigt får Statens kulturråd (Kulturrådet) ett uppdrag att stärka kapaciteten i den kommunala kulturskolan och Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF) ett uppdrag att fördela medel till barn- och ungdomsorganisationer.
 
 – Nu möjliggör vi för en bredd av aktörer att skapa goda förutsättningar i sina respektive verksamheter inför att fritidskortet lanseras. Insatserna ska nå de barn och unga som sällan eller inte alls deltar i organiserade fritidsaktiviteter samt öka möjligheten för barn och unga med funktionsnedsättning att delta. Stödet kommer även att gå till att öka tillgången till anläggningar och idrottsmiljöer, säger socialminister Jakob Forssmed.
 
@@ -14,4 +14,4 @@ Regeringen avsätter ytterligare 100 miljoner kronor till Sveriges Riksidrottsf�
 
 Samtidigt får Kulturrådet ett uppdrag om förberedande och kapacitetsstärkande insatser i den kommunala kulturskolan, för vilket de får använda 32 miljoner kronor.
 
-Därtill får MUCF ett uppdrag att fördela medel till barn\- och ungdomsorganisationer som har beviljats organisationsbidrag för bidragsåret 2024 enligt förordningen (2011:65\) om statsbidrag till barn\- och ungdomsorganisationer. För uppdraget får MUCF använda 22 miljoner kronor.
+Därtill får MUCF ett uppdrag att fördela medel till barn- och ungdomsorganisationer som har beviljats organisationsbidrag för bidragsåret 2024 enligt förordningen (2011:65) om statsbidrag till barn- och ungdomsorganisationer. För uppdraget får MUCF använda 22 miljoner kronor.

@@ -11,4 +11,4 @@ Utredaren ska bland annat
 
 Utredaren ska föreslå de författningsändringar och andra åtgärder som bedöms befogade. Det ingår dock inte i uppdraget att föreslå ändringar i grundlag eller i riksdagsordningen.
 
-Uppdraget ska redovisas senast den 15 december 2015\.
+Uppdraget ska redovisas senast den 15 december 2015.

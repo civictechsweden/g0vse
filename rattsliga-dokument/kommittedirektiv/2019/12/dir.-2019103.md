@@ -13,4 +13,4 @@ Utredaren ska bland annat
 * ta ställning till om det bör införas en möjlighet för åklagare att genom ett strafföreläggande besluta om ungdomstjänst, och
 * lämna förslag på de författningsändringar och andra åtgärder som bedöms nödvändiga.
 
-Uppdraget ska redovisas senast den 21 juni 2021\.
+Uppdraget ska redovisas senast den 21 juni 2021.

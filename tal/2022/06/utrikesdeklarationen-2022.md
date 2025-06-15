@@ -3,7 +3,6 @@
 Regeringens utrikesdeklaration presenterades av utrikesminister Ann Linde vid 2022 års utrikespolitiska debatt i riksdagen fredagen den 10 juni.
 Det talade ordet gäller.
 
-
 Herr/Fru talman!
 
 Ett nytt mörkt kapitel har öppnats i Europas historia. Den 24 februari inledde Ryssland ett oprovocerat, olagligt och oförsvarligt krig mot sin granne, det demokratiska Ukraina.
@@ -26,11 +25,11 @@ Sveriges politiska, humanitära, ekonomiska och militära stöd till Ukraina är
 
 Förra veckan presenterade regeringen ett fjärde stödpaket på 1 miljard kronor till Ukraina. Ukrainas lagliga rätt till självförsvar är i praktiken ett försvar av alla länders territorium. Så även Sveriges.
 
-EU\-sanktionerna beslutades med en hastighet, enighet och storlek utan motstycke. EU:s sjätte sanktionspaket, där regeringen varit pådrivande, innebär att 90 % av rysk oljeimport till EU ska fasas ut före årets slut. Det transatlantiska samarbetet har varit avgörande i stödet till Ukraina och de sanktioner mot Ryssland som antagits.
+EU-sanktionerna beslutades med en hastighet, enighet och storlek utan motstycke. EU:s sjätte sanktionspaket, där regeringen varit pådrivande, innebär att 90 % av rysk oljeimport till EU ska fasas ut före årets slut. Det transatlantiska samarbetet har varit avgörande i stödet till Ukraina och de sanktioner mot Ryssland som antagits.
 
 Fortsatt stöd till Ukraina och fortsatta sanktioner mot Ryssland och Belarus är våra viktigaste bidrag till att få ett slut på Rysslands hänsynslösa krig.
 
-Sveriges nationella försvarsförmåga ska fortsätta att stärkas. Vi ska nå två procent av BNP så snart det är praktiskt möjligt och senast år 2028\. Återetableringen av regementen, förstärkningar på Gotland, återaktiverande av värnplikten, materielanskaffningar, ett förstärkt cyberförsvar och utvecklad underrättelseförmåga har varit nödvändig. Det kraftigt försämrade säkerhetsläget har också belyst vikten av att fortsätta fördjupa Sveriges försvars\- och säkerhetspolitiska samarbeten. Det stärker Sveriges säkerhet nu och i framtiden.
+Sveriges nationella försvarsförmåga ska fortsätta att stärkas. Vi ska nå två procent av BNP så snart det är praktiskt möjligt och senast år 2028. Återetableringen av regementen, förstärkningar på Gotland, återaktiverande av värnplikten, materielanskaffningar, ett förstärkt cyberförsvar och utvecklad underrättelseförmåga har varit nödvändig. Det kraftigt försämrade säkerhetsläget har också belyst vikten av att fortsätta fördjupa Sveriges försvars- och säkerhetspolitiska samarbeten. Det stärker Sveriges säkerhet nu och i framtiden.
 
 Herr/Fru talman!
 
@@ -38,7 +37,7 @@ Den 13 maj presenterade regeringen en säkerhetspolitisk rapport efter två mån
 
 Rysslands anfallskrig har fundamentalt försämrat säkerheten i vårt närområde. Natoallierades svar på kriget har också tydliggjort att Natos försvarsklausul artikel 5 enbart gäller alliansens medlemmar.
 
-Regeringen har gjort bedömningen att ett svenskt Nato\-medlemskap är det bästa sättet att värna Sveriges säkerhet. Ett svenskt och ett finskt medlemskap stärker också säkerheten för Natoländerna.
+Regeringen har gjort bedömningen att ett svenskt Nato-medlemskap är det bästa sättet att värna Sveriges säkerhet. Ett svenskt och ett finskt medlemskap stärker också säkerheten för Natoländerna.
 
 Sverige skulle som medlem åta sig helheten i Washingtonfördraget, inklusive Natos doktriner. Ett Natomedlemskap kan också förändra förutsättningarna för krigsmaterielexport inom vårt nationella regelverk.
 
@@ -54,7 +53,7 @@ Det bör inte råda några tvivel om att Sverige även fortsättningsvis ska st�
 
 Fram till dess att ett svenskt medlemskap träder i kraft så kommer vi att stå sårbara för externa hot och försök till påverkan.
 
-För att hantera denna osäkerhet har Sveriges regering erhållit tydliga försäkringar om stöd under ansökningsperioden från flera länder inom Nato, bland annat USA, Storbritannien, Tyskland, Frankrike, Spanien, Norge och Danmark. Även EU:s gemensamma försvarsklausul 42\.7 spelar en viktig roll för Sveriges säkerhet.
+För att hantera denna osäkerhet har Sveriges regering erhållit tydliga försäkringar om stöd under ansökningsperioden från flera länder inom Nato, bland annat USA, Storbritannien, Tyskland, Frankrike, Spanien, Norge och Danmark. Även EU:s gemensamma försvarsklausul 42.7 spelar en viktig roll för Sveriges säkerhet.
 
 Den bilaterala solidaritetsförklaring som Sveriges och Storbritanniens statsministrar undertecknade syftar också till att stärka säkerheten i norra Europa.
 
@@ -74,29 +73,29 @@ Vi har flera säkerhetspolitiska verktyg för att hantera krisen för säkerhete
 
 Som ordförande för OSSE förra året såg vi en accelererande negativ utveckling i Ryssland och Belarus med viljan att efterleva grundläggande åtaganden.
 
-Vi arbetade för att stärka OSSE:s roll som plattform för dialog och ansvarsutkrävande. Ett resultat av detta var ministerrådsmötet i Stockholm där 48 utrikesministrar kunde föra politiska samtal och fatta beslut. Sverige tar fortsatt ansvar för OSSE som del i trojkan till utgången av 2022\.
+Vi arbetade för att stärka OSSE:s roll som plattform för dialog och ansvarsutkrävande. Ett resultat av detta var ministerrådsmötet i Stockholm där 48 utrikesministrar kunde föra politiska samtal och fatta beslut. Sverige tar fortsatt ansvar för OSSE som del i trojkan till utgången av 2022.
 
 Förutsättningarna för dialog och konfliktlösning har förändrats i grunden sedan den 24 februari, men behovet av dialog kvarstår – och OSSE är en viktig plats där det kan göras när omständigheterna tillåter.
 
 Herr/Fru talman!
 
-Vi lever mitt i en accelererande klimat\- och miljökris. Sverige ska vara ledande i klimatomställningen. Men den globala ambitionsnivån är långt ifrån tillräcklig. Klimatförändringarna och miljöförstöringen bidrar till ökade spänningar och konflikter. Klimatet har en avgörande betydelse för vår säkerhet. Vi måste ta de klimatrelaterade säkerhetshoten på största allvar. Vi har därför tillsatt en ambassadör för klimat\- och säkerhet.
+Vi lever mitt i en accelererande klimat- och miljökris. Sverige ska vara ledande i klimatomställningen. Men den globala ambitionsnivån är långt ifrån tillräcklig. Klimatförändringarna och miljöförstöringen bidrar till ökade spänningar och konflikter. Klimatet har en avgörande betydelse för vår säkerhet. Vi måste ta de klimatrelaterade säkerhetshoten på största allvar. Vi har därför tillsatt en ambassadör för klimat- och säkerhet.
 
-Just nu pågår intensiva förhandlingar i EU om det omfattande paket av lagförslag som kallas Fit For 55\. Här driver regeringen på för ambitiösa lösningar som ska minska EU:s nettoutsläpp med minst 55% till 2030, jämfört med 1990 års nivåer.
+Just nu pågår intensiva förhandlingar i EU om det omfattande paket av lagförslag som kallas Fit For 55. Här driver regeringen på för ambitiösa lösningar som ska minska EU:s nettoutsläpp med minst 55% till 2030, jämfört med 1990 års nivåer.
 
-Sverige stod i förra veckan värd för det internationella FN\-mötet Stockholm\+50 om miljö, klimat och hållbar utveckling. Mötet lyfte fram konkreta lösningar och finansieringsmodeller för att snabba på anpassning och omställning, inklusive i utvecklingsländer. Politiker från hela världen enades om att gå från ord till handling.
+Sverige stod i förra veckan värd för det internationella FN-mötet Stockholm+50 om miljö, klimat och hållbar utveckling. Mötet lyfte fram konkreta lösningar och finansieringsmodeller för att snabba på anpassning och omställning, inklusive i utvecklingsländer. Politiker från hela världen enades om att gå från ord till handling.
 
-Under vårt OSSE\-ordförandeskap kunde ett banbrytande beslut fattas om de utmaningar som klimatförändringarna medför. OSSE har nu mandat att arbeta med denna avgörande säkerhetsfråga. Sverige bidrar nu också till att stärka OSSE\-sekretariatet för att kunna öka fokus på dessa frågor.
+Under vårt OSSE-ordförandeskap kunde ett banbrytande beslut fattas om de utmaningar som klimatförändringarna medför. OSSE har nu mandat att arbeta med denna avgörande säkerhetsfråga. Sverige bidrar nu också till att stärka OSSE-sekretariatet för att kunna öka fokus på dessa frågor.
 
 Herr/Fru talman!
 
-EU är Sveriges viktigaste utrikes\- och säkerhetspolitiska arena. I en osäker tid står medlemsländerna starkare tillsammans. Vi ska fortsätta att bygga ett allt närmare samarbete inom EU, liksom med våra nordiska och baltiska grannar. Arbetet med visionen om Norden som världens mest hållbara och integrerade region fortsätter.
+EU är Sveriges viktigaste utrikes- och säkerhetspolitiska arena. I en osäker tid står medlemsländerna starkare tillsammans. Vi ska fortsätta att bygga ett allt närmare samarbete inom EU, liksom med våra nordiska och baltiska grannar. Arbetet med visionen om Norden som världens mest hållbara och integrerade region fortsätter.
 
 Nästa år kommer Sverige för tredje gången att vara ordförande i EU:s ministerråd. Det sker i en tid då Europas säkerhet utmanas i grunden.
 
-Vi har en ambitiös agenda, vilket EU\-ministern också redogjort för i denna kammare. Regeringen vill se ett EU som kan ta större ansvar för sin egen säkerhet. Arbetet med den så kallade strategiska kompassen kommer att fortsätta i syfte att fördjupa det säkerhets\- och försvarspolitiska samarbetet. Det är samtidigt viktigt att EU fördjupar samarbetet med strategiska partners utanför EU och att den transatlantiska länken värnas.
+Vi har en ambitiös agenda, vilket EU-ministern också redogjort för i denna kammare. Regeringen vill se ett EU som kan ta större ansvar för sin egen säkerhet. Arbetet med den så kallade strategiska kompassen kommer att fortsätta i syfte att fördjupa det säkerhets- och försvarspolitiska samarbetet. Det är samtidigt viktigt att EU fördjupar samarbetet med strategiska partners utanför EU och att den transatlantiska länken värnas.
 
-Vi behöver fortsatt hantera krigets konsekvenser, utveckla vårt stöd till Ukraina och verka för Ukrainas, Moldaviens och Georgiens gradvisa integration i EU\-samarbetet. Vår förmåga att hantera vårt eget närområde är avgörande för EU:s trovärdighet som global aktör.
+Vi behöver fortsatt hantera krigets konsekvenser, utveckla vårt stöd till Ukraina och verka för Ukrainas, Moldaviens och Georgiens gradvisa integration i EU-samarbetet. Vår förmåga att hantera vårt eget närområde är avgörande för EU:s trovärdighet som global aktör.
 
 Också inom EU måste de grundläggande värderingarna upprätthållas. Just nu pågår den största flyktingkrisen i Europa sedan andra världskriget. Situationen visar hur viktigt det är att EU:s medlemsstater tar ett gemensamt och solidariskt ansvar för människor på flykt.
 
@@ -118,7 +117,7 @@ Sverige är i år ordförande i Internationella alliansen för hågkomst av För
 
 Herr/Fru talman!
 
-Kärnvapenhotet är en alltmer oroande verklighet. Sverige kommer att fortsätta att vara en stark röst för nedrustning, icke\-spridning och rustningskontroll även som framtida Natomedlem. Det gemensamma målet är en värld fri från kärnvapen.
+Kärnvapenhotet är en alltmer oroande verklighet. Sverige kommer att fortsätta att vara en stark röst för nedrustning, icke-spridning och rustningskontroll även som framtida Natomedlem. Det gemensamma målet är en värld fri från kärnvapen.
 
 Inom Stockholmsinitiativet har Sverige med 15 andra länder föreslagit 22 konkreta och konstruktiva steg för kärnvapennedrustning, samt ett paket med åtgärder för att minska risken för att kärnvapen används – ett område som har ökat i betydelse.
 
@@ -140,11 +139,11 @@ När de antidemokratiska krafterna vinner mark ska det svenska biståndet vara e
 
 Herr/Fru talman!
 
-Sveriges utrikespolitik fortsätter att vara global, multilateral och baserad på folkrätten. Den europeiska säkerhetsordning som vi värnar vilar på FN\-stadgan och dess principer.
+Sveriges utrikespolitik fortsätter att vara global, multilateral och baserad på folkrätten. Den europeiska säkerhetsordning som vi värnar vilar på FN-stadgan och dess principer.
 
 Detta är också en del av att bygga säkerhet med andra. En solidarisk världssyn går hand i hand med insikten om att Sveriges trygghet främjas av en säkrare och mer välmående omvärld.
 
-Sverige fortsätter att investera politiskt och finansiellt i det multilaterala systemet med FN som nav. Det handlar om stöd till fredsbyggande och medling. Om ett djupt engagemang för mänskliga rättigheter, demokrati och rättsstatens principer, jämställdhet och det breda miljö\- och klimatarbetet.
+Sverige fortsätter att investera politiskt och finansiellt i det multilaterala systemet med FN som nav. Det handlar om stöd till fredsbyggande och medling. Om ett djupt engagemang för mänskliga rättigheter, demokrati och rättsstatens principer, jämställdhet och det breda miljö- och klimatarbetet.
 
 Herr/Fru talman!
 
@@ -156,7 +155,7 @@ EU accelererar sina insatser för en global, tryggad livsmedelsförsörjning. Fr
 
 Herr/Fru talman!
 
-Covid\-19\-pandemin har försvårat genomförandet av Agenda 2030\. De globala framsteg som gjorts under de senaste åren, som förbättringar när det gäller mödrars och barns hälsa och jämställdhet, har delvis suddats ut.
+Covid-19-pandemin har försvårat genomförandet av Agenda 2030. De globala framsteg som gjorts under de senaste åren, som förbättringar när det gäller mödrars och barns hälsa och jämställdhet, har delvis suddats ut.
 
 Det är första gången på 20 år som hungern och den extrema fattigdomen har ökat i världen. Agenda 2030 är vår färdplan för att vända trenden.
 
@@ -174,7 +173,7 @@ Herr/Fru talman!
 
 Med ett brinnande krig i Europa och med det dystra globala mörker som många känner just nu så vill jag ändå säga att våra gemensamma ansträngningar spelar roll.
 
-Det kan kännas oändligt, men det finns hopp för förändringar: genom hårt arbete och genom tydliga linjer. För hoppet om fred och en bättre framtid får inte suddas ut. Eller som den 14\-åriga ukrainska flickan Daria Chebotariova skrev i en dikt:
+Det kan kännas oändligt, men det finns hopp för förändringar: genom hårt arbete och genom tydliga linjer. För hoppet om fred och en bättre framtid får inte suddas ut. Eller som den 14-åriga ukrainska flickan Daria Chebotariova skrev i en dikt:
 
 ”Vi tror fortfarande på en lycklig framtid,
 där vi kommer leva i harmoni och fred.

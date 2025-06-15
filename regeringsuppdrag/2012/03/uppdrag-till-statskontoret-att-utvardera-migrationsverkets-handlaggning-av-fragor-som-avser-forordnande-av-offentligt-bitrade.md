@@ -6,4 +6,4 @@ Migrationsverket ska vara Statskontoret behjälpligt med att ta fram nödvändig
 
 Statskontoret ska löpande hålla Regeringskansliet (Justitiedepartementet) informerat om hur arbetet fortskrider.
 
-Uppdraget ska redovisas senast den 31 oktober 2012\.
+Uppdraget ska redovisas senast den 31 oktober 2012.

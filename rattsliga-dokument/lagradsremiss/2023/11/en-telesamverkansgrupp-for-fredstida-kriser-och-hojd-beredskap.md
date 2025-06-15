@@ -4,4 +4,4 @@ I lagrådsremissen föreslås att en myndighet ska få besluta att vissa aktöre
 
 Myndigheten ska vidare få besluta att samma krets av aktörer ska vara skyldiga att genom samverkan på visst sätt stödja arbetet för att återställa infrastrukturen för elektroniska kommunikationer i anslutning till händelser vid fredstida krissituationer eller höjd beredskap.
 
-De nya reglerna föreslås träda i kraft den 1 april 2024\.
+De nya reglerna föreslås träda i kraft den 1 april 2024.

@@ -9,4 +9,4 @@ En särskild utredare ska:
 * bedöma vilken inblandning av biobränsle som är rimlig att uppnå när styrmedel som utredningen föreslår ska träda i kraft med hänsyn till tillgång och pris på sådana bränslen samt efterfrågan i andra sektorer
 * bedöma förutsättningarna för att öka inblandningen av hållbara biobränslen över tid utifrån samma faktorer
 
-Uppdraget ska redovisas senast den 1 mars 2019\.
+Uppdraget ska redovisas senast den 1 mars 2019.

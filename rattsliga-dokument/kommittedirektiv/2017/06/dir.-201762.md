@@ -24,4 +24,4 @@ verksamhetsutveckling med väsentliga inslag av it och
 digitalisering, samt lämna förslag till hur expertgruppens
 uppdrag långsiktigt bör utföras och hur arbetet bör organiseras.
 
-Uppdraget ska slutredovisas senast den 30 juni 2019\.
+Uppdraget ska slutredovisas senast den 30 juni 2019.

@@ -1,7 +1,6 @@
 # Förslag till områden och kompletteringar i Natura 2000-nätverket
 
-Regeringen föreslår nya områden och utvidgning av befintliga områden på Gotland att bli Natura 2000\-områden. Bland dessa ingår Ojnareskogen kring Bästeträsk. Regeringen kommer att utse en statlig kontaktperson som, tillsammans med regionen, näringslivet och facket, ska ta fram ett näringslivspaket för Gotland om 100 miljoner kronor.
-
+Regeringen föreslår nya områden och utvidgning av befintliga områden på Gotland att bli Natura 2000-områden. Bland dessa ingår Ojnareskogen kring Bästeträsk. Regeringen kommer att utse en statlig kontaktperson som, tillsammans med regionen, näringslivet och facket, ska ta fram ett näringslivspaket för Gotland om 100 miljoner kronor.
 
 I ärendet har Naturvårdsverket lämnat en hemställan som baseras på förslag från Länsstyrelsen på Gotland.
 
@@ -30,5 +29,5 @@ Länsstyrelsen på Gotlands skrivelse till Naturvårdsverket:
 **Övriga dokument som inkommit med anledning av ärendet:**
 
 * [Skrivelse från Naturskyddsföreningen](~/link/3fee5431048046e38f0b06f50514d5e4.aspx "skr från Naturskyddsföreningen")
-* [Skrivelse från EU\-kommissionen](~/link/77f4bda933be410fa439f40b34806c42.aspx "skr från EU-kommissionen")
-* [Svar på EU\-kommissionens skrivelse](~/link/181706694b3341ed9a053b34a5942b24.aspx "Regeringens svar till EU-kommissionen om kalkstensbrott på Gotland")
+* [Skrivelse från EU-kommissionen](~/link/77f4bda933be410fa439f40b34806c42.aspx "skr från EU-kommissionen")
+* [Svar på EU-kommissionens skrivelse](~/link/181706694b3341ed9a053b34a5942b24.aspx "Regeringens svar till EU-kommissionen om kalkstensbrott på Gotland")

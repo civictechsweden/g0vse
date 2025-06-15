@@ -1,7 +1,6 @@
 # Uppdrag åt Myndigheten för ungdoms- och civilsamhällesfrågor att administrera, fördela medel och följa upp satsningen på stöd till sommarlovsaktiviteter
 
-Regeringen ger Myndigheten för ungdoms\- och civilsamhällesfrågor (MUCF) i uppdrag att administrera, fördela medel och följa upp satsningen på stöd till sommarlovsaktiviteter under 2016–2019, under förutsättning att riksdagen beviljar medel för ändamålet.
-
+Regeringen ger Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF) i uppdrag att administrera, fördela medel och följa upp satsningen på stöd till sommarlovsaktiviteter under 2016–2019, under förutsättning att riksdagen beviljar medel för ändamålet.
 
 Barnrättspolitiken tar sin utgångspunkt i att barn och unga ska respekteras och ges möjlighet till utveckling och trygghet samt delaktighet och inflytande. Sverige ska vara ett av de allra bästa länderna att växa upp i. Varje flicka och pojke ska kunna känna sig trygg och ges de bästa förutsättningarna för att utveckla sin potential, att växa som en fritt tänkande människa och kunna delta på egna villkor i samhällsutvecklingen.
 

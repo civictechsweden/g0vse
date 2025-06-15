@@ -4,4 +4,4 @@ I propositionen lämnas förslag till hur EG:s direktiv om gränsöverskridande 
 
 I propositionen läggs också fram några förslag som rör europabolag och europakooperativ som driver viss finansiell verksamhet. Förslagen avser Finansinspektionens och Skatteverkets motsättanderätt vid verksamhetsflytt utomlands.
 
-De nya bestämmelserna föreslås träda i kraft den 15 juli 2009\.
+De nya bestämmelserna föreslås träda i kraft den 15 juli 2009.

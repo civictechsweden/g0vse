@@ -1,7 +1,6 @@
 # Uppdrag till Läkemedelsverket att ta fram en plan inför eventuella nya utbrott av covid-19
 
-Regeringen uppdrar åt Läkemedelsverket att planera för insatser som kan bli aktuella i olika skeden av eventuella nya utbrott av covid\-19\.
-
+Regeringen uppdrar åt Läkemedelsverket att planera för insatser som kan bli aktuella i olika skeden av eventuella nya utbrott av covid-19.
 
 ## Utgår från Folkhälsomyndighetens scenarier
 
@@ -13,4 +12,4 @@ Läkemedelsverket tar hänsyn till tidigare och pågående insatser och uppdrag 
 
 Läkemedelsverket genomför uppdraget tillsammans med Folkhälsomyndigheten, Länsstyrelserna, Myndigheten för samhällsskydd och beredskap och Socialstyrelsen som har liknande uppdrag. Läkemedelsverket samtalar även med Sveriges Kommuner och Regioner.
 
-Uppdraget redovisas till Socialdepartementet senast den 1 september 2020\.
+Uppdraget redovisas till Socialdepartementet senast den 1 september 2020.

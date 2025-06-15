@@ -9,4 +9,4 @@ En skyldighet föreslås införas för samtliga myndigheter att underrätta Skat
 
 Lagrådsremissen innehåller också förslag om begränsning av det undantag från folkbokföring som gäller för den som tillhör en främmande makts beskickning eller lönade konsulat eller dess betjäning.
 
-Lagändringarna som gäller lokalanställda vid utländska ambassader eller konsulat föreslås träda i kraft den 1 januari och övriga ändringar den 1 september 2023\.
+Lagändringarna som gäller lokalanställda vid utländska ambassader eller konsulat föreslås träda i kraft den 1 januari och övriga ändringar den 1 september 2023.

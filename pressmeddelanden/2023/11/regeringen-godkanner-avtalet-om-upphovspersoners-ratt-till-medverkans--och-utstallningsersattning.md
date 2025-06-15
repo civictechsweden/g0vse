@@ -1,6 +1,6 @@
 # Regeringen godkänner avtalet om upphovspersoners rätt till medverkans- och utställningsersättning
 
-Avtalet om upphovspersoners rätt till medverkans\- och utställningsersättning (MU\-avtalet) är ett ramavtal om ersättning och andra villkor för upphovspersoner som medverkar med konstverk i en utställning.
+Avtalet om upphovspersoners rätt till medverkans- och utställningsersättning (MU-avtalet) är ett ramavtal om ersättning och andra villkor för upphovspersoner som medverkar med konstverk i en utställning.
 
 Avtalet reglerar skyldigheten för statliga arrangörer att förhandla om och betala ersättning till upphovspersoner för visning eller framförande av verk vid utställning. Avtalet är bindande för statliga institutioner, men ska även etablera en god branschpraxis avseende villkor och ersättningar till upphovspersoner för utställning av verk också för andra arrangörer än statliga.
 
@@ -18,4 +18,4 @@ Regeringen gav i mars 2023 Statens kulturråd i uppdrag att omförhandla avtalet
 * Förtydligande gällande lägsta nivå av utställningsersättning, s.k. garantibelopp.
 * Förtydligande om arrangörens ansvar vid inställd utställning.
 
-Det nya avtalet ska gälla fr.o.m. den 1 januari 2024\.
+Det nya avtalet ska gälla fr.o.m. den 1 januari 2024.

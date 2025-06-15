@@ -7,10 +7,10 @@ risken i förvaltningen beaktas, och att förvaltningen ska ske inom ramen
 för de krav som penningpolitiken ställer.
 
 Statsskulden ökade som andel av BNP (bruttonationalprodukten) under
-2023\. Statsskulden väntas fortsätta att öka som andel av BNP i början av
-prognosperioden för att minska 2026–2027\. Även i absoluta tal väntas
+2023. Statsskulden väntas fortsätta att öka som andel av BNP i början av
+prognosperioden för att minska 2026–2027. Även i absoluta tal väntas
 statsskulden initialt öka. Statsskulden minskar sedan i miljarder kronor
-2027\.
+2027.
 
 Riktlinjebeslutet för 2025 innebär följande förändringar i styrningen
 jämfört med föregående år:
@@ -33,7 +33,7 @@ Löptiden (i termer av genomsnittlig räntebindningstid) för statsskulden
 ska fortsätta att styras mot 3,5–6 år.
 
 Till grund för detta riktlinjebeslut ligger bl.a. Riksgäldskontorets förslag
-till riktlinjer samt anpassningar till lagen (2022:1568\) om Sveriges
+till riktlinjer samt anpassningar till lagen (2022:1568) om Sveriges
 riksbank.
 
 I samband med beredningen inför regeringens riktlinjebeslut har

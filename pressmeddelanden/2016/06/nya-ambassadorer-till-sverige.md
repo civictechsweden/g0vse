@@ -7,7 +7,7 @@ Panamas nyutnämnde ambassadör Mr. Jaime Ortega har ett förflutet inom bankvä
 De senaste åren har han innehaft följande befattningar:
 
 * 2013 – 2015 Senior Vice President, chef för internationella enheten vid Apollo Bank i Miami
-* 2005 – 2012 Chef och ansvarig mäklare vid Biscayne Mortgage \& Lending Corporation i Miami
+* 2005 – 2012 Chef och ansvarig mäklare vid Biscayne Mortgage & Lending Corporation i Miami
 * 1998 – 2005 Senior lånerådgivare vid Espirito Santo Bank i Miami
 
 ## H.E. Mr. Toumani Diallo, Mali
@@ -23,22 +23,22 @@ De senaste åren har han innehaft följande befattningar:
 
 ## H.E. Mr. Mahamat Senoussi, Tchad
 
-Tchads nyutnämnde ambassadör Mr. Mahamat Senoussi, med säte i Berlin, är född 1952\. Han har en teknisk utbildning i botten och har vidareutbildat sig inom personal och administration.
+Tchads nyutnämnde ambassadör Mr. Mahamat Senoussi, med säte i Berlin, är född 1952. Han har en teknisk utbildning i botten och har vidareutbildat sig inom personal och administration.
 
 De senaste åren har han innehaft följande befattningar:
 
 * 2011 – 2015 Särskild rådgivare i presidentkansliet
-* 2008 – 2009 Generaldirektör för Tchads vatten\- och elbolag
-* 2001 – 2008 Rådgivare för gruv\- och energifrågor i presidentkansliet
-* 1979 – 2001 Olika chefspositioner inom Tchads vatten\- och elbolag
+* 2008 – 2009 Generaldirektör för Tchads vatten- och elbolag
+* 2001 – 2008 Rådgivare för gruv- och energifrågor i presidentkansliet
+* 1979 – 2001 Olika chefspositioner inom Tchads vatten- och elbolag
 
 ## H.E. Ms. Pema Choden, Bhutan
 
-Bhutans nyutnämnde ambassadör Ms. Pema Choden, med sidoackreditering från Bryssel, är född 1965 och har tjänstgjort i utrikesministeriet sedan 1989\. Hon har en fil. kand. och har därefter studerat franska och internationella relationer, bland annat vid ENA i Frankrike.
+Bhutans nyutnämnde ambassadör Ms. Pema Choden, med sidoackreditering från Bryssel, är född 1965 och har tjänstgjort i utrikesministeriet sedan 1989. Hon har en fil. kand. och har därefter studerat franska och internationella relationer, bland annat vid ENA i Frankrike.
 
 Under de senaste åren har hon innehaft bland annat följande befattningar:
 
 * 2014 – 2016 Ambassadör i Bangladesh med ackreditering till Sri Lanka, Maldiverna, Pakistan och Sydkorea
-* 2011 – 2014 Chef för Europa\-, Amerika\- och Afrikanheten vid utrikesministeriet i Thimphu
-* 2007 – 2011 Chef på Bhutans radio\- och tv\-bolag
-* 2005 – 2007 Chef för policy\- och planeringsenheten vid utrikesministeriet i Thimphu
+* 2011 – 2014 Chef för Europa-, Amerika- och Afrikanheten vid utrikesministeriet i Thimphu
+* 2007 – 2011 Chef på Bhutans radio- och tv-bolag
+* 2005 – 2007 Chef för policy- och planeringsenheten vid utrikesministeriet i Thimphu

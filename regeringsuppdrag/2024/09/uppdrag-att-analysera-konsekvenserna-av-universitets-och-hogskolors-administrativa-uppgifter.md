@@ -2,7 +2,6 @@
 
 Regeringen ger Statskontoret i uppdrag att analysera konsekvenserna för statliga universitet och högskolor av de administrativa uppgifter som de är skyldiga att utföra till följd av generella regelverk och regeringsbeslut för statliga förvaltningsmyndigheter. Statskontoret ska i sin analys ta hänsyn till de statliga universitetens och högskolornas särart och kärnverksamhet. Statskontoret ska också analysera och bedöma aktuella regelverks och uppdrags samlade konsekvenser för statliga universitets och högskolors möjlighet att bedriva och utveckla sin verksamhet.
 
-
 Myndigheten ska utifrån analysen vid behov föreslå åtgärder som regeringen kan vidta för att minska de statliga universitetens och högskolornas administrativa börda. Statskontoret ska i sin bedömning ta hänsyn till syftena med de generella regelverken och besluten samt regeringens behov av information.
 
 I genomförandet av uppdraget ingår att ge statliga universitet och högskolor möjlighet att inkomma med information om vilka administrativa uppgifter som är särskilt betungande. Statskontoret ska även ge statliga universitet och högskolor möjlighet att inkomma med förslag på effektiviseringsåtgärder.

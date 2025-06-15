@@ -1,11 +1,8 @@
 # En arbetslöshetsförsäkring för arbete
 
-I propositionen föreslås ändringar i lagen (1997:238\) om arbetslöshetsförsäkring och lagen (1997:239\) om arbetslöshetskassor.
-
+I propositionen föreslås ändringar i lagen (1997:238) om arbetslöshetsförsäkring och lagen (1997:239) om arbetslöshetskassor.
 De huvudsakliga förslagen är följande.
 Det arbetsvillkor som skall vara uppfyllt för rätt till arbetslöshetsersättning skärps. Den s.k. överhoppningsbara tiden i arbetslöshetsförsäkringen begränsas som huvudregel till fem år. Möjligheten att kvalificera sig för arbetslöshetsersättning genom studier, studerandevillkoret, avskaffas. Arbetslöshetsersättning lämnas med 80 procent av den sökandes tidigare förvärvsinkomster, upp till ett visst högsta belopp, under de 200 första ersättningsdagarna. Därefter lämnas ersättning med 70 procent. I avvaktan på kommande ändringar avseende ersättningsperiodens längd införs också en ersättningsgrad om 65 procent för arbetssökande som fått en förlängning av perioden enligt de nu gällande reglerna. Beräkningen av den normalarbetstid som ligger till grund för arbetslöshetsersättningen ändras så att ersättningen grundas på förvärvsinkomsterna under de senaste tolv månaderna.
-
 Det föreslås att arbetslöshetskassornas skyldighet att betala avgifter till staten ändras på följande sätt.
 Det införs en förhöjd finansieringsavgift vilken till viss del görs beroende av utbetalning av arbetslöshetsersättning per medlem i kassan jämfört med den genomsnittliga utbetalningen för samtliga kassamedlemmar. Två begränsningar för den förhöjda avgiften införs. För arbetslösa medlemmar betalar kassan ingen förhöjd avgift och den förhöjda avgiften begränsas till högst 300 kronor per månad för medlem som inte är arbetslös. En begränsning införs dessutom av en kassas skyldighet att betala finansieringsavgift och förhöjd finansieringsavgift. Dessa avgifter får tillsammans högst motsvara vad kassan betalat ut i dagpenning enligt inkomstbortfallsförsäkringen. En kassa tillåts inte höja medlemsavgiften för arbetslösa medlemmar och för andra medlemmar med mer än 300 kronor per månad för att täcka kostnaderna för den förhöjda finansieringsavgiften. Det införs en definition av vem som anses vara arbetslös medlem vid tillämpning av reglerna om förhöjd finansieringsavgift. Utjämningsavgiften och därmed även utjämningsbidraget avskaffas. Det föreslås även att regeringen ges rätt att besluta om bidrag till en arbetslöshetskassa för annat ändamål än för kostnader för ersättning som betalas ut enligt lagen om arbetslöshetsförsäkring.
-
-Ändringarna föreslås träda i kraft den 1 januari 2007\. Vissa övergångsbestämmelser föreslås.
+Ändringarna föreslås träda i kraft den 1 januari 2007. Vissa övergångsbestämmelser föreslås.

@@ -4,4 +4,4 @@
 
 Utrikesministern kommer även att träffa företrädare för de belarusiska demokratiska krafterna i Polen.
 
-I programmet ingår också ett besök på College of Europe i Natolin, där utrikesministern kommer att hålla ett anförande och träffa unga diplomater från olika EU\-medlemsländer.
+I programmet ingår också ett besök på College of Europe i Natolin, där utrikesministern kommer att hålla ett anförande och träffa unga diplomater från olika EU-medlemsländer.

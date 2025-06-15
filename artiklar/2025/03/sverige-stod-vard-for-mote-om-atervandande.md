@@ -6,7 +6,7 @@ På dagordningen för mötet stod bland annat en lägesuppdatering om återvänd
 
 Migrationsminister Johan Forssell inledde med att redogöra för regeringens arbete och prioriteringar på återvändandeområdet nationellt och på EU-nivå:
 
-– Effektivt återvändande är avgörande för att upprätthålla allmänhetens förtroende för migrations- och asylsystemet och i förlängningen ett öppet och fritt samhälle. Endast 20 procent av de som meddelats ett återvändandebeslut lämnar dock EU. Att effektivisera återvändandet står därför högt upp på såväl regeringens som EU:s dagordning. Det är viktigt att vi arbetar tillsammans och med en heltäckande ansats som omfattar alla relevanta politikområden såsom viseringspolitiken, diplomati, handel och bistånd. Vi måste också vara öppna för att pröva nya lösningar
+ – Effektivt återvändande är avgörande för att upprätthålla allmänhetens förtroende för migrations- och asylsystemet och i förlängningen ett öppet och fritt samhälle. Endast 20 procent av de som meddelats ett återvändandebeslut lämnar dock EU. Att effektivisera återvändandet står därför högt upp på såväl regeringens som EU:s dagordning. Det är viktigt att vi arbetar tillsammans och med en heltäckande ansats som omfattar alla relevanta politikområden såsom viseringspolitiken, diplomati, handel och bistånd. Vi måste också vara öppna för att pröva nya lösningar
 
 Mötesdeltagarna besökte även ett av Migrationsverkets återvändandecenter i Märsta där de informerades om hur Sverige arbetar med återvändandecenter och återvändanderådgivning. Införandet av återvändandecenter är en av de reformer som regeringen infört för att effektivisera återvändandet på nationell nivå.
 

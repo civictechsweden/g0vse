@@ -4,7 +4,7 @@ I Årjäng besöker Erik Slottner under måndagen kommunhuset och Nordmarkens de
 
 Under tisdagen går resan vidare till Karlstad där civilministern besöker Nobelgymnasiet och träffar företrädare från kommunen för samtal om bland annat innovation och digital utveckling. Statsrådet åker därefter vidare till Karlstad universitet för samtal om bland annat universitetets styrkor och utmaningar samt AI.
 
-Tisdagen avslutas sedan med en AW på Bishop Arms i Karlstad för samtal om det kommande EU\-valet. Allmänhet och media är välkomna att ställa frågor.
+Tisdagen avslutas sedan med en AW på Bishop Arms i Karlstad för samtal om det kommande EU-valet. Allmänhet och media är välkomna att ställa frågor.
 
 Under onsdagen besöker civilminister Erik Slottner Kristinehamns kommun för samtal om bland annat digitalisering och utmaningar inom välfärdstjänster.
 

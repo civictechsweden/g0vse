@@ -2,12 +2,11 @@
 
 När EU:s utrikesministrar sammanträdde den 11 december var situationen i Ukraina, Mellanöstern samt Sahel huvudpunkterna på agendan. Utrikesminister Tobias Billström företrädde Sverige vid utrikesrådets möte.
 
-
 ## Rysslands aggression mot Ukraina
 
 Ukrainas utrikesminister Dmytro Kuleba var inbjuden för en diskussion med EU:s ministrar om situationen i Ukraina, vilken bland annat fokuserade på EU:s långsiktiga säkerhetsåtaganden till Ukraina.
 
-– Ukraina hör hemma i den Europeiska unionen. Viktigt att vi nu kan gå vidare med nästa steg i Ukrainas EU\-närmande samt att EU ökar sitt långsiktiga militära, politiska och ekonomiska stöd till Ukraina, sa utrikesminister Tobias Billström.
+– Ukraina hör hemma i den Europeiska unionen. Viktigt att vi nu kan gå vidare med nästa steg i Ukrainas EU-närmande samt att EU ökar sitt långsiktiga militära, politiska och ekonomiska stöd till Ukraina, sa utrikesminister Tobias Billström.
 
 ## Israel, Palestina och regionen
 

@@ -14,4 +14,4 @@ Förändringen förklaras framförallt av Högsta förvaltningsdomstolens domar 
 
 Syftet med utredningen ska fortsatt vara att skapa en långsiktig hållbar ekonomisk utveckling av insatsen personlig assistans och få tillstånd ändamålsenliga insatser inom LSS. Utgångspunkten är fortsatt att det samlade behovet av insatserna ska utföras med förstärkt kvalitet och förutsägbarhet samt att lagstiftningen ska främja jämlikhet i levnadsvillkor och full delaktighet i samhällslivet.
 
-Uppdraget ska redovisas senast den 15 december 2018\. Utredningen överlämnas till regeringen den 10 januari 2019\.
+Uppdraget ska redovisas senast den 15 december 2018. Utredningen överlämnas till regeringen den 10 januari 2019.

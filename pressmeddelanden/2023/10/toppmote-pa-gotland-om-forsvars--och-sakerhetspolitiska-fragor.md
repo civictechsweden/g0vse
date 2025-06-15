@@ -10,4 +10,4 @@ Mötet hålls på Gotland som spelar en central militärstrategisk roll i försv
 
 Alla medierepresentanter måste ha särskild ackreditering för att delta vid medietillfällena (se bifogad mediehandbok).
 
-Ansökan om särskild ackreditering ska göras senast kl. 23\.59 den 5 oktober 2023\. Ansökningsblanketten finns [här (länk)](https://media.visby2023.se/secured/login). För frågor om ackreditering, kontakta [sb.visby2023@gov.se](mailto:sb.visby2023@gov.se).
+Ansökan om särskild ackreditering ska göras senast kl. 23.59 den 5 oktober 2023. Ansökningsblanketten finns [här (länk)](https://media.visby2023.se/secured/login). För frågor om ackreditering, kontakta [sb.visby2023@gov.se](mailto:sb.visby2023@gov.se).

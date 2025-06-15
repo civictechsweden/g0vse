@@ -1,7 +1,6 @@
 # Remiss av promemorian Fortsatt giltighet av lagen (2013:794) om vissa register för forskning om vad arv och miljö betyder för människors hälsa
 
-Här kan du ta del av till vilka instanser regeringen har remitterat promemorian Fortsatt giltighet av lagen (2013:794\) om vissa register för forskning om vad arv och miljö betyder för människors hälsa. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 6 mars 2017\.
-
+Här kan du ta del av till vilka instanser regeringen har remitterat promemorian Fortsatt giltighet av lagen (2013:794) om vissa register för forskning om vad arv och miljö betyder för människors hälsa. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 6 mars 2017.
 
 ### Remissinstanser
 

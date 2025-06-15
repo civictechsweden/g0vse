@@ -4,8 +4,8 @@ Regeringen föreslår att medlen för skydd av värdefull natur ska stärkas med
 
 Sverige ska ha en hög ambition i arbetet med naturvård, biologisk mångfald och ekosystemtjänster. Välmående och livskraftiga ekosystem är viktiga för människans livsmiljö. Arbetet med att bevara värdefull natur och ekosystem, samt att göra värdefull natur tillgänglig för var och en, behöver därför fortsätta.
 
-– Genom satsningen på 500 miljoner kronor de kommande tre åren skyddar vi värdefull natur och betalar ersättning till de markägare som myndigheterna har träffat frivillig överenskommelse med. Den biologiska mångfalden ska bevaras och användas på ett hållbart sätt, för nuvarande och framtida generationer, säger klimat\- och miljöminister Romina Pourmokhtari.
+– Genom satsningen på 500 miljoner kronor de kommande tre åren skyddar vi värdefull natur och betalar ersättning till de markägare som myndigheterna har träffat frivillig överenskommelse med. Den biologiska mångfalden ska bevaras och användas på ett hållbart sätt, för nuvarande och framtida generationer, säger klimat- och miljöminister Romina Pourmokhtari.
 
-Regeringen avser att överlämna detta förslag till riksdagen i budgetpropositionen för 2024\.
+Regeringen avser att överlämna detta förslag till riksdagen i budgetpropositionen för 2024.
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

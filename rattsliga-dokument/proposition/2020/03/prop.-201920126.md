@@ -4,4 +4,4 @@ Regeringen föreslår att den som är försäkrad, och som på grund av sjukdom 
 
 Regeringen föreslår också en möjlighet för Försäkringskassan att förlänga ett beslut om vårdbidrag, vilken har avskaffats och ersatts av omvårdnadsbidrag och merkostnadsersättning.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2020\.
+Lagändringarna föreslås träda i kraft den 1 juli 2020.

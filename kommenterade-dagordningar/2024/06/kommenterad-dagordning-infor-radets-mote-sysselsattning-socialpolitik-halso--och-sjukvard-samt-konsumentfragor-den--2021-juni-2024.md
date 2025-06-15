@@ -1,10 +1,9 @@
 # Kommenterad dagordning inför rådets möte (sysselsättning, socialpolitik, hälso- och sjukvård samt konsumentfrågor) den  20–21 juni 2024
 
-På EPSCO\-rådets möte den 20–21 juni 2024 finns följande punkter på dagordningen.
-
+På EPSCO-rådets möte den 20–21 juni 2024 finns följande punkter på dagordningen.
 
 * Revidering av direktivet om europeiska företagsråd
-* Direktivet om genomförande av principen om likabehandling (artikel 19\)
+* Direktivet om genomförande av principen om likabehandling (artikel 19)
 * Direktiv om stärkta arbetsvillkor för praktikanter
 * Den inre marknadens sociala dimension
 * Den europeiska planeringsterminen 2024

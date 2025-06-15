@@ -1,5 +1,4 @@
 # Etikprövning av forskning
 
 Den nya lagen föreslås bli tillämplig på forskning som innebär ett fysiskt ingrepp eller utförs enligt en metod som syftar till att påverka en människa fysiskt eller psykiskt. Forskning som innebär ett fysiskt ingrepp på en avliden människa eller avser studier på biologiskt material som tagits från en levande människa eller för medicinska ändamål från en avliden människa, och som kan härledas till denna människa ska också etikprövas. Lagen föreslås dessutom gälla forskning som sker utan uttryckligt samtycke från en enskild och som avser känsliga personuppgifter enligt personuppgiftslagen eller personuppgifter om lagöverträdelser m.m.
-
 I den föreslagna lagen ställs det upp ett krav på etikgodkännande av sådan forskning som lagen omfattar, samt anges allmänna utgångspunkter för etikprövningen. Lagförslaget innehåller också regler om information och samtycke bl.a. vid forskning som avser fysiskt ingrepp på en levande människa och forskning som bedrivs enligt en metod som syftar till fysisk eller psykisk påverkan.

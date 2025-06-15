@@ -8,4 +8,4 @@ Inför budgetpropositionen för 2024 är det angeläget att skatteförslagen kan
 
 I denna promemoria föreslås att nedsättningen av arbetsgivaravgifterna och den allmänna löneavgiften för personer som vid årets ingång har fyllt 15 men inte 18 år slopas.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

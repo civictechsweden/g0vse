@@ -10,4 +10,4 @@ En särskild intresseavvägning ska göras för kamerabevakning i brottsbekämpa
 
 Utredningen föreslår även utvidgade och nya undantag från att göra intresseavvägningen, upplysningskravet och rätten till information i brottsbekämpande verksamhet. Polismyndigheten föreslås exempelvis kunna kamerabevaka med hjälp av drönare i vissa fall och från civila fordon utan att upplysa och informera om bevakningen.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2025\.
+Lagändringarna föreslås träda i kraft den 1 juli 2025.

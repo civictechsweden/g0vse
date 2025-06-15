@@ -4,4 +4,4 @@ Omställningsstudiestödet utökas år för år och kommer att vara fullt utbygg
 
 – Det nya omställningsstudiestödet innebär att fler yrkesaktiva kommer att studera inom högskolan. Nu ser vi över delar av lärosätenas ersättningssystem så att incitamenten blir rätt och de får bättre förutsättningar att utveckla ett flexibelt och kvalificerat utbildningsutbud som svarar upp mot efterfrågan från denna nya studentgrupp, säger utbildningsminister Mats Persson.
 
-Uppdraget ska redovisas senast den 29 april 2025\.
+Uppdraget ska redovisas senast den 29 april 2025.

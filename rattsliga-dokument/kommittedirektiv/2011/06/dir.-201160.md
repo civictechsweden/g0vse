@@ -1,6 +1,6 @@
 # Vissa tomträtts- och arrendefrågor
 
-En särskild utredare ska överväga vissa tomträtts\- och arrendefrågor.
+En särskild utredare ska överväga vissa tomträtts- och arrendefrågor.
 
 I uppdraget ingår att
 
@@ -11,4 +11,4 @@ I uppdraget ingår att
 
 Utredaren ska lämna förslag till de författningsändringar som övervägandena ger anledning till.
 
-Den del av uppdraget som avser tomträttsavgälder ska utredaren redovisa i ett delbetänkande senast den 31 oktober 2012\. Uppdraget i övrigt ska redovisas senast den 30 september 2013\.
+Den del av uppdraget som avser tomträttsavgälder ska utredaren redovisa i ett delbetänkande senast den 31 oktober 2012. Uppdraget i övrigt ska redovisas senast den 30 september 2013.

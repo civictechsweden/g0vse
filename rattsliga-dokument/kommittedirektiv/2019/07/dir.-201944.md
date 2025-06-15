@@ -13,4 +13,4 @@ I uppdraget ingår att ta ställning i frågor om bl.a.
 
 Utredaren ska lämna de förslag till författningsändringar och andra åtgärder som behövs.
 
-Uppdraget ska redovisas senast den 24 februari 2021\.
+Uppdraget ska redovisas senast den 24 februari 2021.

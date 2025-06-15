@@ -15,8 +15,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219"
         ]
     },
@@ -36,8 +34,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219"
         ]
     },
@@ -57,8 +53,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219"
         ]
     },
@@ -78,8 +72,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219"
         ]
     },
@@ -99,8 +91,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1013"
         ]
     },
@@ -120,8 +110,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219"
         ]
     },
@@ -141,8 +129,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219",
             "1013"
         ]
@@ -163,8 +149,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219",
             "1013"
         ]
@@ -185,40 +169,8 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219",
             "1013"
-        ]
-    },
-    {
-        "title": "Sveriges återkommande rapportering om europeiska ramkonventionen",
-        "url": "/internationella-mr-granskningar-av-sverige/2016/06/sveriges-aterkommande-rapportering-om-europeiska-ramkonventionen/",
-        "published": "2016-06-01",
-        "updated": "2023-11-23",
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1288"
-        ],
-        "summary": "Ramkonvention om skydd för nationella minoriteter trädde i kraft i Sverige år 2000. I samband med ratifikationen angavs att Sveriges nationella minoriteter är judar, romer, samer, sverigefinnar och tornedalingar.\nEuroparådets rådgivande kommitté övervakar efterlevnaden av ramkonventionen om skydd för nationella minoriteter. De stater som har ratificerat ramkonventionen är skyldiga att vart femte år rapportera om genomförandet av konventionen i Sverige.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Rådgivande kommittens yttrande 2017-10 (pdf 481 kB)",
-                "url": "/contentassets/659ef59b9bbc4657862d7256e231c1ec/radgivande-kommittens-yttrande-2017-10.pdf"
-            },
-            {
-                "name": "Sveriges femte rapport till Europarådet under ramkonventionen om skydd för nationella minoriteter (pdf 545 kB)",
-                "url": "/contentassets/659ef59b9bbc4657862d7256e231c1ec/sveriges-femte-rapport-till-europaradet-under-ramkonventionen-om-skydd-for-nationella-minoriteter.pdf"
-            }
-        ],
-        "categories": [
-            "2380",
-            "1288",
-            "1219"
         ]
     },
     {
@@ -246,8 +198,6 @@
             }
         ],
         "categories": [
-            "2380",
-            "1288",
             "1219"
         ]
     },
@@ -264,11 +214,14 @@
         ],
         "summary": "Fråga om ett polisingripande som ledde till ett dödsfall stred mot artikel 6 i FN:s konvention om medborgerliga och politiska rättigheter.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Internationella MR-granskningar av Sverige\n",
+                "url": "/internationella-mr-granskningar-av-sverige/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219"
         ]
     },
@@ -288,8 +241,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219"
         ]
     },
@@ -309,8 +260,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219"
         ]
     },
@@ -329,10 +278,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "HRC:s granskning (2022-03-15) av ärendet O. m.fl. mot Sverige",
@@ -350,8 +296,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219"
         ]
     },
@@ -383,6 +327,10 @@
                 "url": "/contentassets/49b69f19914542d2ab6c00d1e2ed56b2/response-from-the-swedish-government-regarding-upr-recommendations.pdf"
             },
             {
+                "name": "National Report from Sweden in the fourth cycle of UPR 2025 (pdf 554 kB)",
+                "url": "/contentassets/49b69f19914542d2ab6c00d1e2ed56b2/national-report-from-sweden-in-the-fourth-cycle-of-upr-2025.pdf"
+            },
+            {
                 "name": "National report from Sweden in the third cycle of Universal Periodic Review 2019 (pdf 308 kB)",
                 "url": "/contentassets/49b69f19914542d2ab6c00d1e2ed56b2/national-report-from-sweden-in-the-third-cycle-of-universal-periodic-review-2019.pdf"
             },
@@ -408,8 +356,6 @@
             }
         ],
         "categories": [
-            "2380",
-            "1284",
             "1219"
         ]
     },
@@ -426,9 +372,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380"
-        ]
+        "categories": []
     },
     {
         "title": "CRPD-kommitténs granskning (2022-03-24) av ärendet J.M. mot Sverige",
@@ -442,9 +386,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2021-11-23) i målet S.A. mot Sverige",
@@ -459,9 +401,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2021-11-24) av ärendet A.A mot Sverige",
@@ -478,10 +418,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Sveriges återkommande rapportering till CPT",
@@ -498,15 +435,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Artikel: Europarådets kommitté mot tortyr har lämnat sin rapport om Sverige",
+                "name": "Artikel: Europarådets kommitté mot tortyr har lämnat sin rapport om Sverige\n",
                 "url": "/artiklar/2021/09/europaradets-kommitte-mot-tortyr-har-lamnat-sin-rapport-om-sverige/"
             },
             {
-                "name": "Artikel: Sverige har svarat på rapporten från Europarådets kommitté mot tortyr",
+                "name": "Artikel: Sverige har svarat på rapporten från Europarådets kommitté mot tortyr\n",
                 "url": "/artiklar/2022/02/sverige-har-svarat-pa-rapporten-fran-europaradets-kommitte-mot-tortyr/"
             },
             {
-                "name": "The CPT and Sweden, på Europarådets webbplats",
+                "name": "The CPT and Sweden, på Europarådets webbplats\n             - extern webbplats,\n",
                 "url": "https://www.coe.int/en/web/cpt/sweden"
             }
         ],
@@ -529,8 +466,6 @@
             }
         ],
         "categories": [
-            "2380",
-            "1287",
             "1219"
         ]
     },
@@ -549,10 +484,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2022-01-20) i målet H.J. mot Sverige ",
@@ -569,10 +501,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2021-09-28) i målet J. mot Sverige",
@@ -589,10 +518,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2021-12-09) i målet S.S. mot Sverige",
@@ -609,10 +535,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2021-05-18) i målet S. mot Sverige",
@@ -629,10 +552,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CRPD-kommitténs granskning (2021-09-06) av ärendet Z.H. mot Sverige",
@@ -649,10 +569,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "ICCPR-kommitténs granskning (2021-03-16)  av ärendet B.B. mot Sverige",
@@ -669,10 +586,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Sveriges återkommande rapportering om efterlevnaden av CAT",
@@ -689,11 +603,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Artikel: FN:s kommitté mot tortyr har lämnat sin rapport om Sverige",
+                "name": "Artikel: FN:s kommitté mot tortyr har lämnat sin rapport om Sverige\n",
                 "url": "/artiklar/2021/12/fns-kommitte-mot-tortyr-har-lamnat-sin-rapport-om-sverige/"
             },
             {
-                "name": "Webbplatsen för The Committee Against Torture (CAT)",
+                "name": "Webbplatsen för The Committee Against Torture (CAT)\n             - extern webbplats,\n",
                 "url": "https://www.ohchr.org/EN/HRBodies/CAT/pages/catindex.aspx"
             }
         ],
@@ -724,8 +638,6 @@
             }
         ],
         "categories": [
-            "2380",
-            "1287",
             "1219"
         ]
     },
@@ -744,10 +656,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2021-07-22) av ärendet A.J.E. mot Sverige",
@@ -764,10 +673,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "ICCPR-kommitténs granskning (2021-07-23) av ärendet H.G. mot Sverige",
@@ -784,10 +690,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2021-07-22) av ärendet L.H. m.fl. mot Sverige",
@@ -804,10 +707,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2021-07-19) av ärendet N.A.O. mot Sverige",
@@ -824,10 +724,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2021-07-18) av ärendet V.M. m.fl. mot Sverige",
@@ -844,10 +741,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Sveriges återkommande rapportering om efterlevnaden av FN:s konvention om barnets rättigheter",
@@ -862,7 +756,12 @@
         ],
         "summary": "Regeringen rapporterar återkommande till FN:s kommitté för barnets rättigheter om Sveriges efterlevnad av FN:s konvention om barnets rättigheter (barnkonventionen). Här kan du ta del av Sveriges rapportering samt de rekommendationer som Sverige har fått av kommittén.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "FN:s barnrättskommitté granskar Sverige\n",
+                "url": "/regeringens-politik/barnets-rattigheter/fns-barnrattskommitte-granskar-sverige/"
+            }
+        ],
         "attachments": [
             {
                 "name": "CRC-kommitténs slutsatser och rekommendationer 230209 (pdf 257 kB)",
@@ -898,8 +797,6 @@
             }
         ],
         "categories": [
-            "2380",
-            "1292",
             "1220",
             "1219"
         ]
@@ -928,10 +825,7 @@
                 "url": "/contentassets/ba6a88765ff146baa375a1a28a5af18f/sveriges-18e-rapport-till-europaradets-kommitte-for-sociala-rattigheter-oktober-2018.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1284"
-        ]
+        "categories": []
     },
     {
         "title": "CRPD-kommitténs granskning (2021-03-19) av ärendet M.Y. mot Sverige",
@@ -947,16 +841,8 @@
         "summary": "Fråga om utvisning av klaganden till Afghanistan skulle strida mot artikel 15, 16 eller 26 i FN-konventionen om rättigheter för personer med funktionsnedsättning.",
         "id": null,
         "shortcuts": [],
-        "attachments": [
-            {
-                "name": "CRPD-kommitténs granskning (2021-03-19) av ärendet M.Y. mot Sverige",
-                "url": "/contentassets/577729a7669c4eab92c02643ebf83063/crpd-kommittens-granskning-2021-03-19-av-arendet-m.y.-mot-sverige.pdf"
-            }
-        ],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "attachments": [],
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2021-05-25) i målet Centrum för Rättvisa mot Sverige",
@@ -974,8 +860,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1012"
         ]
     },
@@ -995,8 +879,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219",
             "1013"
         ]
@@ -1014,9 +896,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380"
-        ]
+        "categories": []
     },
     {
         "title": "H.A. mot Sverige i Europadomstolen",
@@ -1031,9 +911,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380"
-        ]
+        "categories": []
     },
     {
         "title": "FN:s rasdiskrimineringskommittés (CERD) granskning (2020-11-18) av ärendet Å m.fl. mot Sverige",
@@ -1048,9 +926,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380"
-        ]
+        "categories": []
     },
     {
         "title": "CRPD:s granskning (2020-09-24) av ärendet N.L. mot Sverige",
@@ -1068,8 +944,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1013"
         ]
     },
@@ -1087,15 +961,8 @@
         "summary": "Fråga om ett beslut att avbryta en anställningsprocess vid Södertörns högskola och den efterföljande processen var i strid med bl.a. artikel 5 (rätt till skydd mot diskriminering) och artikel 27 (rätt till arbete och sysselsättning) i FN:s konvention om rättigheter för personer med funktionsnedsättning.",
         "id": null,
         "shortcuts": [],
-        "attachments": [
-            {
-                "name": "CRPD:s granskning (2020-08-21) av ärendet R.S. mot Sverige (översättning till svenska) (pdf)",
-                "url": "/contentassets/a8369e18927d49b6a2ca445cb7457349/crpds-granskning-2020-08-21-av-arendet-r.s.-mot-sverige.pdf"
-            }
-        ],
+        "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1013"
         ]
     },
@@ -1128,8 +995,6 @@
             }
         ],
         "categories": [
-            "2380",
-            "1284",
             "1219",
             "1239"
         ]
@@ -1150,8 +1015,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219",
             "1013"
         ]
@@ -1172,8 +1035,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219",
             "1013"
         ]
@@ -1194,8 +1055,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219",
             "1013"
         ]
@@ -1216,8 +1075,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219",
             "1013"
         ]
@@ -1238,8 +1095,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219"
         ]
     },
@@ -1258,10 +1113,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "ICCPR-kommitténs granskning (2019-10-30) av ärendet Q.A mot Sverige",
@@ -1279,8 +1131,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2380",
-            "1295",
             "1219",
             "1013"
         ]
@@ -1300,10 +1150,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2019-09-17) i målet E. mot Sverige",
@@ -1320,10 +1167,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2019-08-02) av ärendet X och Y m.fl. mot Sverige",
@@ -1341,11 +1185,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2018-05-10) av ärendet R.H. mot Sverige",
@@ -1368,11 +1208,7 @@
                 "url": "/contentassets/8af1f7526b5d440396d94594d1560323/cats-granskning-2018-05-10-av-arendet-r.h.-mot-sverige.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2019-04-23) av ärendet I.A. m.fl. mot Sverige",
@@ -1390,11 +1226,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2018-11-16) av ärendet S. mot Sverige",
@@ -1412,11 +1244,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2019-05-14) i målet A. mot Sverige",
@@ -1433,10 +1261,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Sveriges återkommande rapportering om europeiska språkstadgan",
@@ -1479,8 +1304,6 @@
             }
         ],
         "categories": [
-            "2380",
-            "1288",
             "1219"
         ]
     },
@@ -1513,8 +1336,6 @@
             }
         ],
         "categories": [
-            "2380",
-            "1284",
             "1219"
         ]
     },
@@ -1539,8 +1360,6 @@
             }
         ],
         "categories": [
-            "2380",
-            "1284",
             "1219",
             "1239"
         ]
@@ -1582,8 +1401,6 @@
             }
         ],
         "categories": [
-            "2380",
-            "1284",
             "1219"
         ]
     },
@@ -1600,9 +1417,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2018-05-11) av ärendet H.A. mot Sverige",
@@ -1620,11 +1435,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2018-08-09) av ärendet B.N.T.K. mot Sverige",
@@ -1642,11 +1453,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CRPD:s granskning (2017-08-18) av ärendet O.O.J. m.fl. mot Sverige",
@@ -1663,10 +1470,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CRPD:s granskning (2017-03-24) av ärendet D.L. mot Sverige",
@@ -1683,10 +1487,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2016-08-05) av ärendet Z.H. mot Sverige",
@@ -1704,11 +1505,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2016-08-12) av ärendet J.I. mot Sverige",
@@ -1726,11 +1523,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2016-11-11) av ärendet M.M. mot Sverige",
@@ -1748,11 +1541,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2016-11-18) av ärendet R.O m.fl. mot Sverige",
@@ -1770,11 +1559,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2016-11-30) av ärendet R.M. mot Sverige",
@@ -1792,11 +1577,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2017-08-11) av ärendet E.A. mot Sverige",
@@ -1814,11 +1595,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (2018-05-11) av ärendet Z.A. m.fl. mot Sverige",
@@ -1836,11 +1613,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2016-07-15) i målet Hjelm mot Sverige",
@@ -1857,10 +1630,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2016-12-06) i målet M.T. m.fl. mot Sverige",
@@ -1877,10 +1647,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2016-12-13) i målet A.J. och F.B. mot Sverige",
@@ -1897,10 +1664,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2016-12-13) i målet Louw mot Sverige",
@@ -1917,10 +1681,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2016-12-13) i målet Aho mot Sverige",
@@ -1937,10 +1698,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2017-01-27) i målet Isaksson mot Sverige",
@@ -1957,10 +1715,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2017-02-07) i målet Pihl mot Sverige",
@@ -1977,10 +1732,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2017-11-09) i målet K.L. mot Sverige",
@@ -1997,10 +1749,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2017-12-05) i målet Bencheref mot Sverige",
@@ -2017,10 +1766,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2016-11-08) i målet Naku mot Litauen och Sverige",
@@ -2037,10 +1783,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2017-05-02) i målet Ruminski mot Sverige",
@@ -2057,10 +1800,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2018-01-09) i målet X mot Sverige",
@@ -2077,9 +1817,38 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
+        "categories": []
+    },
+    {
+        "title": "Sveriges återkommande rapportering om europeiska ramkonventionen",
+        "url": "/internationella-mr-granskningar-av-sverige/2016/06/sveriges-aterkommande-rapportering-om-europeiska-ramkonventionen/",
+        "published": "2016-06-01",
+        "updated": "2018-03-20",
+        "types": [
+            "2380"
+        ],
+        "senders": [
+            "1288"
+        ],
+        "summary": "Ramkonvention om skydd för nationella minoriteter trädde i kraft i Sverige år 2000. I samband med ratifikationen angavs att Sveriges nationella minoriteter är judar, romer, samer, sverigefinnar och tornedalingar.\nEuroparådets rådgivande kommitté övervakar efterlevnaden av ramkonventionen om skydd för nationella minoriteter. De stater som har ratificerat ramkonventionen är skyldiga att vart femte år rapportera om genomförandet av konventionen i Sverige.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Den rådgivande kommitténs femte yttrande (pdf 1 MB)",
+                "url": "/globalassets/regeringen/dokument/kulturdepartementet/5th-op-sweden-en.docx.pdf"
+            },
+            {
+                "name": "Sammanfattning av den rådgivande kommitténs femte yttrande (på svenska) (pdf 424 kB)",
+                "url": "/globalassets/regeringen/dokument/kulturdepartementet/5th-op-sweden-summary-se.docx.pdf"
+            },
+            {
+                "name": "Sveriges femte rapport till Europarådet under ramkonventionen om skydd för nationella minoriteter (pdf 545 kB)",
+                "url": "/contentassets/659ef59b9bbc4657862d7256e231c1ec/sveriges-femte-rapport-till-europaradet-under-ramkonventionen-om-skydd-for-nationella-minoriteter.pdf"
+            }
+        ],
         "categories": [
-            "2380",
-            "1295"
+            "1219"
         ]
     },
     {
@@ -2097,10 +1866,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2016-08-23) i målet J.K. m.fl. mot Sverige",
@@ -2117,10 +1883,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Sveriges återkommande rapportering om efterlevnaden av CESCR",
@@ -2147,8 +1910,6 @@
             }
         ],
         "categories": [
-            "2380",
-            "1292",
             "1213",
             "2096",
             "1276",
@@ -2176,10 +1937,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2016-04-21) i målet Palmén mot Sverige",
@@ -2196,10 +1954,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2016-03-31) i målen Isaksson, Salkojärvi, Eriksson och Sundqvist mot Sverige",
@@ -2216,10 +1971,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2016-03-23) i målet F.G. mot Sverige",
@@ -2236,10 +1988,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2016-03-01) i målet Arlewin mot Sverige (II)",
@@ -2256,10 +2005,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2016-03-01) i målet Arlewin mot Sverige",
@@ -2276,10 +2022,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2016-01-07) i målet Pshenkina mot Sverige",
@@ -2296,10 +2039,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2015-12-10) i målet Nomoah mot Sverige",
@@ -2316,10 +2056,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2015-11-25) i målet R.G. m.fl. mot Sverige",
@@ -2337,11 +2074,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2015-11-25) i målet B.M.S. mot Sverige",
@@ -2359,11 +2092,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs  granskning (2015-11-23) i målet U. mot Sverige",
@@ -2381,11 +2110,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2015-10-22) i målet Jovanovic mot Sverige",
@@ -2400,9 +2125,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2015-09-10) i målet R.H. mot Sverige",
@@ -2419,10 +2142,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2015-08-07) i målet M.T. mot Sverige",
@@ -2445,11 +2165,7 @@
                 "url": "/contentassets/d78af7523ff843b1b38da7d8a80cf2f4/cat-m.t..pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2015-08-04) i målet X., Y. & Z. mot Sverige",
@@ -2467,11 +2183,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2015-07-30)  i målet M.A. m.fl. mot Sverige",
@@ -2494,11 +2206,7 @@
                 "url": "/contentassets/5d294b31cc48437bb660ed16638233cc/cat--m.a.-mot-sverige.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2015-05-21) i målet Carpelan mot Sverige",
@@ -2515,10 +2223,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2015-05-11) i målet Z. mot Sverige",
@@ -2536,11 +2241,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2015-05-11) i målet A.B. mot Sverige",
@@ -2558,11 +2259,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2015-05-08) i målet S.K. m.fl. mot Sverige",
@@ -2580,11 +2277,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2015-04-08) i målet W.H. mot Sverige",
@@ -2601,10 +2294,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2015-04-08) i målet M.E. mot Sverige",
@@ -2621,10 +2311,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2015-01-13) i målet Abdulrazagh mot Sverige",
@@ -2641,10 +2328,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2015-01-13) i målet Ask mot Sverige",
@@ -2661,10 +2345,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2015-01-13) i målet Hellborg mot Sverige",
@@ -2681,10 +2362,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2015-01-13) i målet De Los Angeles Abenza mot Sverige",
@@ -2701,10 +2379,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2015-01-13) i målet Larsson mot Sverige",
@@ -2721,10 +2396,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2015-01-13) i målet Svensson mot Sverige",
@@ -2741,10 +2413,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2015-01-06) i målet Johansson mot Sverige",
@@ -2761,10 +2430,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2014-12-09) i målet Dahlberg mot Sverige",
@@ -2781,10 +2447,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2014-11-27) i målet Lucky Dev mot Sverige",
@@ -2801,10 +2464,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2014-10-21) i målet Henriksson mot Sverige",
@@ -2821,10 +2481,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2014-10-21) i målet Shibendra Dev mot Sverige",
@@ -2841,10 +2498,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2014-10-21) i målet Åberg mot Sverige",
@@ -2861,10 +2515,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2014-10-16) i målet Göthlin mot Sverige",
@@ -2881,10 +2532,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CRPD-kommitténs granskning (2014-10-02) av ärendet Jungelin mot Sverige",
@@ -2901,10 +2549,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2014-09-25) i målet Karin Andersson m.fl. mot Sverige",
@@ -2921,10 +2566,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2014-07-24) i målet A.A. m.fl. mot Sverige",
@@ -2941,10 +2583,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2014-05-13) i målet Olsson mot Sverige",
@@ -2961,10 +2600,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Sveriges återkommande rapportering om efterlevnaden av CRPD",
@@ -3011,8 +2647,6 @@
             }
         ],
         "categories": [
-            "2380",
-            "1292",
             "1219",
             "1223"
         ]
@@ -3032,10 +2666,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2014-04-03) i målet A.A.M. mot Sverige",
@@ -3052,10 +2683,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2014-02-11) i målet Morén m.fl. mot Sverige",
@@ -3072,10 +2700,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2014-01-28) i målet Bolek m.fl. mot Sverige",
@@ -3092,10 +2717,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2013-12-19) i målet B.K.A. mot Sverige",
@@ -3112,30 +2734,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
-    },
-    {
-        "title": "Europadomstolens dom (2013-12-19) i målet T.A. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2013/12/europadomstolens-dom-2013-12-19-i-malet-t.a.-mot-sverige",
-        "published": "2013-12-19",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2013-12-19) i målet T.K.H. mot Sverige",
@@ -3152,10 +2751,24 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
+        "categories": []
+    },
+    {
+        "title": "Europadomstolens dom (2013-12-19) i målet T.A. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2013/12/europadomstolens-dom-2013-12-19-i-malet-t.a.-mot-sverige",
+        "published": "2013-12-19",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
             "1295"
-        ]
+        ],
+        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2013-12-10) i målet Draggan Marinkovic mot Sverige",
@@ -3172,10 +2785,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2013-11-19) i målet M.A. mot Sverige",
@@ -3192,10 +2802,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2013-11-12) i målet Söderman mot Sverige",
@@ -3212,10 +2819,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2013-11-12) i målet H.Y. mot Sverige",
@@ -3232,10 +2836,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2013-09-05) i målet I. mot Sverige",
@@ -3252,10 +2853,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2013-09-05) i målet K.A.B. mot Sverige",
@@ -3272,10 +2870,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2013-07-25) i målet Rousk mot Sverige",
@@ -3292,10 +2887,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "ICCPR-kommitténs granskning (2013-07-25) i målet M.I. mot Sverige",
@@ -3312,10 +2904,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2013-07-09) i målet Z.K. mot Sverige",
@@ -3332,10 +2921,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2013-06-27) i målet D.N.M. mot Sverige",
@@ -3352,10 +2938,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2013-06-27) i målet N.M.Y. m.fl. mot Sverige",
@@ -3372,10 +2955,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2013-06-27) i målet N.M.B. mot Sverige",
@@ -3392,10 +2972,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2013-06-27) i målet S.A. mot Sverige",
@@ -3412,10 +2989,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2013-06-27) i målet A.G.A.M. mot Sverige",
@@ -3432,10 +3006,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2013-06-27) i målet N.A.N.S. mot Sverige",
@@ -3452,10 +3023,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2013-06-27) i målet M.Y.H. m.fl. mot Sverige",
@@ -3472,10 +3040,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2013-06-27) i målet M.K.N. mot Sverige",
@@ -3492,10 +3057,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2013-06-25) i målet M.A.M. mot Sverige",
@@ -3512,10 +3074,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2013-06-11) i målet K.A. mot Sverige",
@@ -3532,10 +3091,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2013-06-11) i målet J.H.K. m.fl. mot Sverige",
@@ -3552,10 +3108,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2013-06-11) i målet I.S.A. och M.A.A.A. mot Sverige",
@@ -3572,10 +3125,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2013-05-21) i målet Ruminski mot Sverige",
@@ -3592,10 +3142,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2013-05-21) i målet D.Y. mot Sverige",
@@ -3613,11 +3160,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2013-05-21) i målet Tu och Co mot Sverige",
@@ -3634,10 +3177,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2013-05-21) i målet Ghali m.fl. mot Sverige",
@@ -3654,10 +3194,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2013-04-30) i målet Kochieva m.fl. mot Sverige",
@@ -3674,10 +3211,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2013-02-19) i målet Neij och Sunde Kolmisoppi mot Sverige",
@@ -3694,10 +3228,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2013-02-12) i målet C.C.A. m.fl. mot Sverige",
@@ -3714,10 +3245,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2012-12-18) i målet F.N. m.fl. mot Sverige",
@@ -3734,10 +3262,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2012-12-18) i målet B.Z. mot Sverige",
@@ -3754,10 +3279,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2012-12-18) i målet P.Z. m.fl. mot Sverige",
@@ -3774,10 +3296,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2012-12-06) i målet D.N.W. mot Sverige",
@@ -3794,10 +3313,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2012-11-23) i målet M.A.F. m.fl. mot Sverige",
@@ -3815,11 +3331,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-11-20) i målet Parviz mot Sverige",
@@ -3836,10 +3348,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-11-13) i målet Imamovic mot Sverige",
@@ -3856,10 +3365,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-11-13) i målet B.V. mot Sverige",
@@ -3876,10 +3382,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "ICCPR-kommitténs granskning (2012-11-01) av målet X. mot Sverige",
@@ -3896,10 +3399,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-10-09) i målet I.F.W. mot Sverige",
@@ -3916,10 +3416,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-10-09) i målet A.I. m.fl. mot Sverige",
@@ -3936,10 +3433,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-09-25) i målet Chyzhevska mot Sverige",
@@ -3956,10 +3450,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-08-28) i målet W.M.A. mot Sverige",
@@ -3976,10 +3467,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-08-28) i målet B.J. m.fl. mot Sverige",
@@ -3996,10 +3484,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-07-03) i målet A.H.H. mot Sverige",
@@ -4016,10 +3501,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2012-06-21) i målet Olsby mot Sverige",
@@ -4036,10 +3518,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-05-29) i målet Abdulgadir och Mohamednur mot Sverige",
@@ -4056,10 +3535,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2012-05-23) i målet A.A.M. mot Sverige",
@@ -4077,11 +3553,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2012-05-23) i målet M.A.M.A. m.fl. mot Sverige",
@@ -4099,11 +3571,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-05-22) i målet Jacobson mot Sverige",
@@ -4120,10 +3588,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-05-22) i målet A.A. mot Sverige",
@@ -4140,10 +3605,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2012-05-22) i målet M.Z.A. mot Sverige",
@@ -4161,11 +3623,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-05-22) i målet Osorio mot Sverige",
@@ -4182,10 +3640,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2012-05-15) i målet H.N. mot Sverige",
@@ -4202,30 +3657,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
-    },
-    {
-        "title": "Europadomstolens dom (2012-05-15) i målet Nacic m.fl. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2012/05/europadomstolens-dom-2012-05-15-i-malet-nacic-m.fl.-mot-sverige",
-        "published": "2012-05-15",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2012-05-15) i målet S.F. m.fl. mot Sverige",
@@ -4242,10 +3674,24 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
+        "categories": []
+    },
+    {
+        "title": "Europadomstolens dom (2012-05-15) i målet Nacic m.fl. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2012/05/europadomstolens-dom-2012-05-15-i-malet-nacic-m.fl.-mot-sverige",
+        "published": "2012-05-15",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
             "1295"
-        ]
+        ],
+        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
     },
     {
         "title": "CRPD-kommitténs granskning (2012-04-19) av målet H.M. mot Sverige",
@@ -4271,10 +3717,7 @@
                 "url": "/contentassets/f8a6abe93ba149ba9a2ed6e5fc97bc57/sammanfattning-av-svar-fran-sverige-till-crdp-kommitten-2012-12-12.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-04-17) i målet S.A.S. mot Sverige",
@@ -4291,10 +3734,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2012-04-12) i målet Eriksson mot Sverige",
@@ -4311,10 +3751,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-04-10) i målet R.W. m.fl. mot Sverige",
@@ -4331,10 +3768,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2012-04-05) i målet Strömblad mot Sverige",
@@ -4351,10 +3785,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2012-04-03) i målet Gillberg mot Sverige (GC)",
@@ -4371,10 +3802,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-04-03) i målet Biraga m.fl. mot Sverige",
@@ -4391,10 +3819,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-03-27) i målet Hillefors mot Sverige",
@@ -4411,10 +3836,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2012-03-15) i målet Levin mot Sverige",
@@ -4431,30 +3853,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
-    },
-    {
-        "title": "Europadomstolens beslut (2012-02-14) i målet Nizigiymana mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2012/02/europadomstolens-beslut-2012-02-14-i-malet-nizigiymana-mot-sverige/",
-        "published": "2012-02-14",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Europadomstolen har fattat ett beslut avseende ett klagomål om Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till beslutet i fulltext samt en sammanfattning av beslutet.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-02-14) i målet Niyitegure mot Sverige",
@@ -4471,10 +3870,24 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
+        "categories": []
+    },
+    {
+        "title": "Europadomstolens beslut (2012-02-14) i målet Nizigiymana mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2012/02/europadomstolens-beslut-2012-02-14-i-malet-nizigiymana-mot-sverige/",
+        "published": "2012-02-14",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
             "1295"
-        ]
+        ],
+        "summary": "Europadomstolen har fattat ett beslut avseende ett klagomål om Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till beslutet i fulltext samt en sammanfattning av beslutet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2012-02-09) i målet Vejdeland m.fl. mot Sverige",
@@ -4491,10 +3904,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-02-07) i målet F.H. och P.G. mot Sverige",
@@ -4511,10 +3921,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-02-07) i målet V.G. mot Sverige",
@@ -4531,10 +3938,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-02-07) i målet Albertsson mot Sverige",
@@ -4551,10 +3955,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-01-24) i målet H.N. m.fl. mot Sverige",
@@ -4571,10 +3972,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-01-24) i målet Eskilsson mot Sverige",
@@ -4591,10 +3989,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-01-10) i målet A.G. mot Sverige",
@@ -4611,10 +4006,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-01-04) i målet Muco mot Sverige",
@@ -4631,10 +4023,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2012-01-04) i målet Hikmat Habib mot Sverige",
@@ -4651,10 +4040,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2011-12-06) i målet A.G. mot Sverige",
@@ -4671,10 +4057,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2011-11-29) i målet Berg mot Sverige",
@@ -4691,10 +4074,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2011-11-22) i målet Sibomana mot Sverige",
@@ -4711,10 +4091,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2011-11-21) i målet S.K. och R.K. mot Sverige",
@@ -4732,11 +4109,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2011-11-21) i målet S.M. och H.M. mot Sverige",
@@ -4754,11 +4127,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2011-10-27) i målet Ahorugeze mot Sverige",
@@ -4775,10 +4144,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2011-10-20) i målet Samina mot Sverige",
@@ -4795,10 +4161,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2011-10-13) i målet Husseini mot Sverige",
@@ -4815,10 +4178,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2011-10-13) i målet Fexler mot Sverige",
@@ -4835,10 +4195,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2011-09-20) i målet Hajj Hussein mot Sverige",
@@ -4855,10 +4212,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens beslut (2011-07-05) i målet B. mot Sverige",
@@ -4875,10 +4229,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2011-06-03) i målet Bakatu-Bia mot Sverige",
@@ -4896,11 +4247,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2011-05-30) i målet Tony Chahin mot Sverige",
@@ -4918,11 +4265,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2011-05-23) i målet Mondal mot Sverige",
@@ -4940,11 +4283,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2010-12-07) i målet Andersson mot Sverige",
@@ -4961,10 +4300,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2010-11-19) i målet Aytulun och Guclu mot Sverige",
@@ -4982,11 +4318,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning i målet Güclü mot Sverige",
@@ -5004,11 +4336,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2010-07-02) i målet N. mot Sverige",
@@ -5025,10 +4353,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2010-06-08) i målet Dolhamre mot Sverige",
@@ -5045,10 +4370,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2010-05-14) i målet Njamba och Balikosa mot Sverige",
@@ -5066,11 +4388,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2010-03-30) i målet Handölsdalens sameby mot Sverige",
@@ -5087,10 +4405,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2010-03-09) i målet R.C. mot Sverige",
@@ -5107,10 +4422,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2009-06-30) i målet Synnelius och Edsbergs Taxi AB mot Sverige",
@@ -5127,10 +4439,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2005-05-02) i målet R.D. mot Sverige",
@@ -5148,11 +4457,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2009-04-07) i målet Mendel mot Sverige",
@@ -5169,10 +4474,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2009-01-20) i målet F.H. mot Sverige",
@@ -5189,10 +4491,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom i målet (2008-12-16) Khurshid Mustafa m.fl. mot Sverige",
@@ -5209,10 +4508,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2008-11-14) i målet M.F. mot Sverige",
@@ -5230,11 +4526,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2008-11-14) i målet E.J. m.fl. mot Sverige",
@@ -5252,11 +4544,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2008-11-11) i målet M.M. m.fl. mot Sverige",
@@ -5274,11 +4562,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2008-11-04) i målet Iselsten mot Sverige",
@@ -5295,10 +4579,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "ICCPR-kommitténs granskning (2008-10-30) i målet Nakrash och Qifen mot Sverige",
@@ -5315,10 +4596,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2008-05-16) i målet R.K. mot Sverige",
@@ -5336,11 +4614,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2008-05-09) i målet Z.K. mot Sverige",
@@ -5358,11 +4632,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2007-12-20) i målet Rey m.fl. mot Sverige",
@@ -5379,10 +4649,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2007-11-22) i målet T.A. mot Sverige",
@@ -5400,11 +4667,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2007-11-16) i målet K.A. mot Sverige",
@@ -5422,11 +4685,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2007-09-27) i målet Dödsboet Nitschke mot Sverige",
@@ -5443,10 +4702,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2007-05-01) i målet E.V.I. mot Sverige",
@@ -5464,11 +4720,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2007-04-30) i målet E.R.K. och Y.K. mot Sverige",
@@ -5486,11 +4738,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2007-04-30) i målet A.R.A. mot Sverige",
@@ -5508,11 +4756,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2007-02-22) i målet Valin mot Sverige",
@@ -5529,10 +4773,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2007-02-22) i målet Ahmed mot Sverige",
@@ -5549,10 +4790,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2007-02-13) i målet Evaldsson m.fl. mot Sverige",
@@ -5569,10 +4807,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2007-02-06) i målet Wassdahl mot Sverige",
@@ -5589,10 +4824,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2006-11-22) i målet N.Z.S. mot Sverige",
@@ -5610,11 +4842,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2006-11-17) i målet C.T. och K.M. mot Sverige",
@@ -5632,11 +4860,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2006-11-17) i målet M.R.A. mot Sverige",
@@ -5654,11 +4878,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2006-11-16) i målet A.A.C. mot Sverige",
@@ -5676,11 +4896,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2006-11-16) i målet A.H. mot Sverige",
@@ -5698,11 +4914,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "ICCPR-kommitténs granskning (2006-10-25) i målet Alzery mot Sverige",
@@ -5719,10 +4931,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom 2006-10-10 i målet Sali mot Sverige",
@@ -5739,10 +4948,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2006-09-19) i målet White mot Sverige",
@@ -5757,9 +4963,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2006-07-18) i målet Svenska transportarbetareförbundet mot Sverige",
@@ -5774,9 +4978,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2006-06-06) i målet Segerstedt Wiberg m.fl. mot Sverige",
@@ -5793,10 +4995,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2006-05-12) i målet M.Z. mot Sverige",
@@ -5814,11 +5013,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2006-02-28) i målet Hellborg mot Sverige (nr 2)",
@@ -5835,10 +5030,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2006-01-17) i målet Danell m.fl. mot Sverige",
@@ -5855,10 +5047,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2006-01-17) i målet Elli Poluhas dödsbo mot Sverige",
@@ -5875,10 +5064,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2005-11-15) i målet A.H. mot Sverige",
@@ -5896,11 +5082,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2005-11-14) i målet M.C.M.V.F. m.fl. mot Sverige",
@@ -5918,11 +5100,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2005-11-14) i målet M.S.H. mot Sverige",
@@ -5940,11 +5118,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2005-11-08) i målet Bader och Kanbor mot Sverige",
@@ -5961,10 +5135,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2005-10-17) i målet Tibbling mot Sverige",
@@ -5981,10 +5152,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2005-07-12) i målet Jonasson mot Sverige",
@@ -6001,10 +5169,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2005-05-20) i målet Agiza mot Sverige",
@@ -6022,11 +5187,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2005-05-06) i målet T.A. och S.T. mot Sverige",
@@ -6044,11 +5205,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2005-05-03) i målet M.M.K. mot Sverige",
@@ -6066,11 +5223,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2005-03-22) i målet Toimi mot Sverige",
@@ -6087,10 +5240,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2005-02-28) i målet Miller mot Sverige",
@@ -6107,10 +5257,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2005-01-25) i målet Razaghi mot Sverige",
@@ -6127,10 +5274,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2005-01-25) i målet Enhorn mot Sverige",
@@ -6147,10 +5291,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2004-11-22) i målet L.J.R.C. mot Sverige",
@@ -6168,11 +5309,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2004-11-22) i målet S.U.A. mot Sverige",
@@ -6190,11 +5327,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2004-10-26) i målet AB Kurt Kellerman mot Sverige",
@@ -6211,10 +5344,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2004-10-14) i målet Andersson m.fl. mot Sverige",
@@ -6231,10 +5361,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2004-09-14) i målet Frödinge Grus & Åkeri AB mot Sverige",
@@ -6251,10 +5378,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2004-09-14) i målet Hellborg mot Sverige",
@@ -6271,10 +5395,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2004-07-20) i målet Manasson mot Sverige",
@@ -6291,10 +5412,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2004-06-15) i målet Romlin mot Sverige",
@@ -6311,10 +5429,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2004-05-14) i målet M.A.M. mot Sverige",
@@ -6332,11 +5447,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2004-05-12) i målet H.S.V. mot Sverige",
@@ -6354,11 +5465,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2004-05-06) i målet S.A. mot Sverige",
@@ -6376,11 +5483,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2003-11-18) i målet T.M. mot Sverige",
@@ -6398,11 +5501,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2003-11-17) i målet Attia mot Sverige",
@@ -6420,11 +5519,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2003-11-14) i målet E.J.V.M. mot Sverige",
@@ -6442,11 +5537,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2003-11-11) i målet J.A.G.V. mot Sverige",
@@ -6464,11 +5555,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2003-06-24) i målet Allard mot Sverige",
@@ -6485,10 +5572,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2003-05-02) i målet H.I.A. mot Sverige",
@@ -6506,11 +5590,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2003-01-14) i målet Lagerblom mot Sverige",
@@ -6527,10 +5607,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2002-11-19) i målet H.K.H. mot Sverige",
@@ -6548,11 +5625,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2002-11-12) i målet Salomonsson mot Sverige",
@@ -6569,10 +5642,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2002-11-12) i målet Döry mot Sverige",
@@ -6589,10 +5659,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2002-11-12) i målet Lundevall mot Sverige",
@@ -6609,10 +5676,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2002-09-04) i målet Ervin och Olga de Laczay mot Sverige",
@@ -6629,10 +5693,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2002-07-23) i målet Västberga Taxi AB och Vulic mot Sverige",
@@ -6649,10 +5710,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2002-07-23) i målet Janosevic mot Sverige",
@@ -6669,10 +5727,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "ICCPR-kommitténs granskning (2002-07-08) i målet I.N. mot Sverige",
@@ -6689,10 +5744,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2002-07-02) i målet S.N. mot Sverige",
@@ -6709,10 +5761,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2002-05-15) i målet L.M.T.D. mot Sverige",
@@ -6730,11 +5779,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2002-05-08) i målet Karoui mot Sverige",
@@ -6752,11 +5797,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2002-04-30) i målet B.M. mot Sverige",
@@ -6774,11 +5815,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2001-11-23) i målet A.R. mot Sverige",
@@ -6801,11 +5838,7 @@
                 "url": "/contentassets/da124a8518df4080ac1e1c9a6252cb71/cat-kommittens-yttrande-2001-11-23-i-malet-a.r.-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2001-11-13) i målet H.O.V. mot Sverige",
@@ -6823,11 +5856,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2001-05-11) i målet S.L. mot Sverige",
@@ -6845,11 +5874,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2001-03-06) i målet Jakola mot Sverige",
@@ -6866,10 +5891,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2001-01-09) i målet Muonio sameby mot Sverige",
@@ -6886,10 +5908,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2001-01-09) i målet Beck mot Sverige",
@@ -6906,10 +5925,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2000-11-24) i målet A.S. mot Sverige",
@@ -6927,11 +5943,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (2000-06-20) i målet Lindelöf mot Sverige",
@@ -6948,10 +5960,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2000-05-15) i målet V.X.N. och H.N. mot Sverige",
@@ -6969,11 +5978,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (2000-05-02) i målet A.G. mot Sverige",
@@ -6991,11 +5996,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "ICCPR-kommitténs granskning (1999-10-18) i målet Silva mot Sverige",
@@ -7012,10 +6013,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (1999-05-05) i målet S. M. R. och M. M. R. mot Sverige",
@@ -7033,11 +6031,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (1999-05-05) i målet M.B.B. mot Sverige",
@@ -7055,11 +6049,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (1998-11-16) i målet Korban mot Sverige",
@@ -7082,11 +6072,7 @@
                 "url": "/contentassets/14f3d8b4c8bd48c3a853d94ec46683cf/cats-yttrande-2015-11-25-i-malet-korban-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (1998-11-12) i målet Ayas mot Sverige",
@@ -7109,11 +6095,7 @@
                 "url": "/contentassets/0397eafdb9ce4679810dfb57abf64c5d/cat-kommittens-yttrande-2015-11-25-i-malet-ayas-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (1998-10-28) i målet Söderbäck mot Sverige",
@@ -7130,10 +6112,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (1998-10-09) i målet Hatami mot Sverige",
@@ -7150,10 +6129,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CERD-kommitténs granskning (1998-08-17) i målet D.S. mot Sverige (1)",
@@ -7173,9 +6149,7 @@
                 "url": "/contentassets/39cae1ba74fa47a28f6f2c70f0713e46/cerd-kommittens-granskning-1998-08-17-i-malet-d.s.-mot-sverige-1.pdf"
             }
         ],
-        "categories": [
-            "2380"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (1998-07-30) i målet Gustafsson mot Sverige (resning) (GC)",
@@ -7192,10 +6166,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (1998-05-15) i målet J.M.U.M. mot Sverige",
@@ -7218,11 +6189,7 @@
                 "url": "/contentassets/1823b6ff71064413843f15190bc0aee6/cat-kommittens-yttrande-1998-05-15-i-malet-j.m.u.m.-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (1998-05-15) i målet G. R. B. mot Sverige",
@@ -7245,11 +6212,7 @@
                 "url": "/contentassets/247cb69eb27d419d8c093a68602a5fe0/cat-kommittens-yttrande-2015-11-25-i-malet-g.-r.-b.-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (1998-05-08) i målet A.F. mot Sverige",
@@ -7272,11 +6235,7 @@
                 "url": "/contentassets/50e14b1d18f247a79848e25e9d08f76c/cat-kommittens-yttrande-1998-05-08-i-malet-a.f.-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (1998-05-06) i målet I.A.O. mot Sverige",
@@ -7299,11 +6258,7 @@
                 "url": "/contentassets/5b43e158b4ce4e05a1738f8cfc6ac6e5/cat-kommittens-yttrande-1998-05-06-i-malet-i.a.o.-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (1998-05-06) i målet X, Y och Z mot Sverige",
@@ -7326,11 +6281,7 @@
                 "url": "/contentassets/45b8999ba88e4235a6190bd66fd43f9d/cat-kommittens-yttrande-1998-05-06-i-malet-x-y-och-z-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (1998-02-19) i målet Allan Jacobsson mot Sverige (nr 2)",
@@ -7347,10 +6298,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (1998-02-19) i målet Paulsen-Medalen och Svensson mot Sverige",
@@ -7367,10 +6315,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (1997-11-19) i målet L. M. V. R. G. och M. A. B. C. mot Sverige",
@@ -7390,9 +6335,7 @@
                 "url": "/contentassets/f3ecd196957045289240ac98812281e1/cats-yttrande-2015-11-25-i-malet-l.-m.-v.-r.-g.-och-m.-a.-b.-c.-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (1997-10-30) i målet Paez mot Sverige",
@@ -7409,10 +6352,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (1997-08-27) i målet Anne-Marie Andersson mot Sverige",
@@ -7429,10 +6369,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (1997-08-27) i målet M.S. mot Sverige ",
@@ -7449,10 +6386,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (1997-07-01) i målet Rolf Gustafsson mot Sverige",
@@ -7469,10 +6403,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (1997-04-28) i målet Tapia Paez mot Sverige",
@@ -7495,11 +6426,7 @@
                 "url": "/contentassets/39d9c28248a04a4a93b35f6f6d673595/cats-yttrande-2015-11-25-i-malet-tapia-paez-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (1996-11-15) i målet Tala mot Sverige",
@@ -7522,11 +6449,7 @@
                 "url": "/contentassets/4fda153c089b433da46b7a917543c9d6/cat-kommittens-yttrande-1996-11-15-i-malet-tala-mot-sverige/"
             }
         ],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT-kommitténs granskning (1996-05-08) i målet Muzonzo [Kisoki] mot Sverige",
@@ -7549,11 +6472,7 @@
                 "url": "/contentassets/c0f916eeb613437da75e35a783c80a98/cats-yttrande-2015-11-25-i-malet-muzonzo-kisoki-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1287",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "Europadomstolens dom (1996-04-25) i målet Gustafsson mot Sverige (GC)",
@@ -7570,10 +6489,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "CAT:s granskning (1995-11-25) i målet P.M.P.K. mot Sverige",
@@ -7587,9 +6503,7 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "2380"
-        ]
+        "categories": []
     },
     {
         "title": "ICCPR-kommitténs granskning (1994-07-18) i målet Celepli mot Sverige",
@@ -7611,10 +6525,7 @@
                 "url": "/contentassets/aa39127353914773a77a153d279b7a62/ccpr-kommittens-yttrande-1994-07-18-i-malet-celepli-mot-sverige-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "ICCPR-kommitténs granskning (1988-11-09) i målet Lindgren m.fl. och Lundqvist m.fl. mot Sverige",
@@ -7634,9 +6545,7 @@
                 "url": "/contentassets/2b84717c64034b7fb59f095aa58a5150/ccpr-kommittens-yttrande-1988-11-09-i-malet-lindgren-m.fl.-och-lundqvist-m.fl.-mot-sverige-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380"
-        ]
+        "categories": []
     },
     {
         "title": "ICCPR-kommitténs granskning (1988-07-27) i målet Kitok mot Sverige  ",
@@ -7658,10 +6567,7 @@
                 "url": "/contentassets/0db17e9a628a41598aaef3ca73bf54a7/ccpr-kommittens-yttrande-1988-07-27-i-malet-kitok-mot-sverige-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "ICCPR-kommitténs granskning (1988-04-04) i målet Blom mot Sverige",
@@ -7683,10 +6589,7 @@
                 "url": "/contentassets/d18d1a6c266342be8f797520fc549627/ccpr-kommittens-yttrande-1988-04-04-i-malet-blom-mot-sverige-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "ICCPR-kommitténs granskning (1985-07-11) i målet N.B. mot Sverige",
@@ -7708,10 +6611,7 @@
                 "url": "/contentassets/69566964563c48168f2ed12f3415ee99/ccpr-kommittens-yttrande-1985-07-11-i-malet-n.b.-mot-sverige-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "MR-kommitténs granskning (1985-03-26) i målet D.F. m.fl. mot Sverige",
@@ -7733,10 +6633,7 @@
                 "url": "/contentassets/325e2947ec034c89a9864a0762bc181f/ccpr-kommittens-yttrande-1985-03-26-i-malet-d.f.-m.fl.-mot-sverige-engelska.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     },
     {
         "title": "MR-kommitténs granskning (1981-04-09) i målet Maroufidou mot Sverige ",
@@ -7758,9 +6655,6 @@
                 "url": "/contentassets/f3d9a9d216ff44d0b9b53b93ac46fcee/iccpr-kommittens-granskning-1981-04-09-i-malet-maroufidou-mot-sverige.pdf"
             }
         ],
-        "categories": [
-            "2380",
-            "1295"
-        ]
+        "categories": []
     }
 ]

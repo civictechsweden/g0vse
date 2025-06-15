@@ -1,7 +1,6 @@
 # Slutrapport från uppdraget med nationell samordning för att främja en positiv supporterkultur och motverka idrottsrelaterad brottslighet 2015
 
-Under 2015 har en nationell samordnare haft i uppdrag att stödja genomförandet av de åtgärder som följer av den nationella strategi som Svenska fotbollförbundet, Svensk Elitfotboll, Svenska Hockeyligan, Svenska Ishockeyförbundet, Svenska Bandyförbundet och Polisen undertecknade i juni 2014\. I sin slutrapport redogör samordnaren för sitt arbete samt sina slutsatser och rekommendationer.
-
+Under 2015 har en nationell samordnare haft i uppdrag att stödja genomförandet av de åtgärder som följer av den nationella strategi som Svenska fotbollförbundet, Svensk Elitfotboll, Svenska Hockeyligan, Svenska Ishockeyförbundet, Svenska Bandyförbundet och Polisen undertecknade i juni 2014. I sin slutrapport redogör samordnaren för sitt arbete samt sina slutsatser och rekommendationer.
 
 Samordnaren har också haft i uppdrag att stödja och följa andra berörda aktörer i deras arbete med frågor som ligger utanför för den nationella strategin, men som är kopplade till arbetet för en positiv supporterkultur och motverkandet av idrottsrelaterad brottslighet.
 

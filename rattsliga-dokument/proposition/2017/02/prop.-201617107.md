@@ -1,6 +1,6 @@
 # Nya utstationeringsregler
 
-I propositionen föreslås ändringar i lagen (1999:678\) om utstationering
+I propositionen föreslås ändringar i lagen (1999:678) om utstationering
 av arbetstagare.
 
 De förslagna ändringarna innebär i huvudsak följande:
@@ -16,6 +16,6 @@ De förslagna ändringarna innebär i huvudsak följande:
 * En utstationerande arbetsgivare ska betala skadestånd för brott mot flera av de nyss nämnda bestämmelserna.
 * Nya rättegångsbestämmelser införs.
 
-I propositionen föreslås även följdändringar i lagen (1976:580\) om medbestämmande i arbetslivet.
+I propositionen föreslås även följdändringar i lagen (1976:580) om medbestämmande i arbetslivet.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2017\.
+Lagändringarna föreslås träda i kraft den 1 juni 2017.

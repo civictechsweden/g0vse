@@ -8,4 +8,4 @@ I uppdraget ingår att
 * stärka kunskapen inom polisen om hatbrott samt
 * verka för att förtroendet för polisen hos personer inom grupper som är särskilt utsatta för hatbrott ökar.
 
-Uppdraget ska redovisas till regeringen senast den 27 februari 2015\. Av redovisningen ska framgå vilka åtgärder som har vidtagits, vilka resultat som har uppnåtts och hur polismyndigheterna har integrerat arbetet mot hatbrott i sin verksamhet.
+Uppdraget ska redovisas till regeringen senast den 27 februari 2015. Av redovisningen ska framgå vilka åtgärder som har vidtagits, vilka resultat som har uppnåtts och hur polismyndigheterna har integrerat arbetet mot hatbrott i sin verksamhet.

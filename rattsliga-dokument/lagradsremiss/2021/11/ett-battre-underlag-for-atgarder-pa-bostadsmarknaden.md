@@ -6,4 +6,4 @@ Vidare föreslås att kommunen ska genomföra sin analys med stöd av ett underl
 
 Syftet med förslagen är att förbättra förutsättningarna såväl för regeringens uppföljning av riksdagens mål för bostadsmarknaden som för kommunernas planering av bostadsförsörjningen.
 
-Lagändringarna föreslås träda i kraft den 1 oktober 2022\.
+Lagändringarna föreslås träda i kraft den 1 oktober 2022.

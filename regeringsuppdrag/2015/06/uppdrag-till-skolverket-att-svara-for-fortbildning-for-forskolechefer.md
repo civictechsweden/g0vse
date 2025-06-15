@@ -1,7 +1,6 @@
 # Uppdrag till Skolverket att svara för fortbildning för förskolechefer
 
-Regeringen uppdrar åt Statens skolverk att svara för en fortbildning på grundnivå om 7,5 högskolepoäng för verksamma förskolechefer. Ansökan till fortbildningen ska kunna starta hösten 2015 och fortbildningen ska sedan pågå till och med 2018\.
-
+Regeringen uppdrar åt Statens skolverk att svara för en fortbildning på grundnivå om 7,5 högskolepoäng för verksamma förskolechefer. Ansökan till fortbildningen ska kunna starta hösten 2015 och fortbildningen ska sedan pågå till och med 2018.
 
 Skolverket ska senast den 15 februari 2016–2018 rapportera:
 

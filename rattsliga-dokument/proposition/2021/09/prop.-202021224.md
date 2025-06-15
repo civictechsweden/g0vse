@@ -8,4 +8,4 @@ I propositionen föreslås även följdändringar i vissa lagar.
 
 Vidare föreslås ändringar i lagen om signalspaning i försvarsunderrättelseverksamhet som bland annat rör Försvarets radioanstalts internationella samarbete.
 
-De nya lagarna och övriga lagändringar föreslås träda i kraft den 1 januari 2022\.
+De nya lagarna och övriga lagändringar föreslås träda i kraft den 1 januari 2022.

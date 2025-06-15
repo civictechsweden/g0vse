@@ -5,9 +5,9 @@ En särskild utredare ska dels analysera de rättsliga förutsättningarna för 
 Utredaren ska bl.a.:
 
 * kartlägga omfattningen av felaktiga utbetalningar från kommuner och
-regioner till enskilda individer, företag och föreningar,
+  regioner till enskilda individer, företag och föreningar,
 * analysera de rättsliga förutsättningarna för kommunal anslutning till
-Utbetalningsmyndighetens verksamhet, och
+  Utbetalningsmyndighetens verksamhet, och
 * lämna flera alternativa författningsförslag om kommunal anslutning, där ett av förslagen ska innebära att Utbetalningsmyndighetens system med transaktionskonto för utbetalningar från statliga myndigheter även ska omfatta de kommunala utbetalningar som omfattas av kartläggningen.
 
-Uppdraget ska redovisas senast den 20 december 2024\.
+Uppdraget ska redovisas senast den 20 december 2024.

@@ -1,8 +1,8 @@
 # Nya trafikförsäkringsregler
 
-Regeringen föreslår nya regler om trafik­försäkringen. Förslagen, som bygger på ett EU\-direktiv, ökar skyddet för dem som skadas i trafiken, bland annat genom att fler får rätt till ersättning ur försäkrings­systemet.
+Regeringen föreslår nya regler om trafik­försäkringen. Förslagen, som bygger på ett EU-direktiv, ökar skyddet för dem som skadas i trafiken, bland annat genom att fler får rätt till ersättning ur försäkrings­systemet.
 
-För att genomföra EU\-direktivet i svensk lag föreslår regeringen bland annat följande:
+För att genomföra EU-direktivet i svensk lag föreslår regeringen bland annat följande:
 
 * Trafikskade­lagens tillämp­nings­område utvidgas så att även flertalet elspark­cyklar och vissa andra eldrivna cyklar utan pedaler omfattas av kravet på trafik­försäkring.
 * Ett insolvens­garanti­system införs som säker­ställer att en skade­lidande får ersättning även om hans eller hennes trafik­försäkrings­givare blir föremål för tvångs­likvidation eller går i konkurs.

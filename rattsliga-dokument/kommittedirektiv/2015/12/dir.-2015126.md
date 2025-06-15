@@ -12,6 +12,6 @@ I uppdraget ingår också att överväga behovet av att ändra reglerna som gäl
 
 De grundlagsaspekter som ryms i uppdraget ska särskilt uppmärksammas. Förslagen ska vara förenliga med tryckfrihetsförordningen, yttrandefrihetsgrundlagen och regeringsformen. Det ingår inte i uppdraget att föreslå grundlagsändringar.
 
-Uppdraget ska redovisas senast den 1 juni 2017\.
+Uppdraget ska redovisas senast den 1 juni 2017.
 
 [Pressmeddelande: Förbättrade förutsättningar för ordning och säkerhet i domstolarna](/pressmeddelanden/2015/12/forbattrade-forutsattningar-for-ordning-och-sakerhet-i-domstolarna/)

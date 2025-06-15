@@ -4,12 +4,12 @@
 
 Regeringen har beslutat om en ändring i avfallsförordningen som innebär att när avfall ska klassificeras ska man börja med att bedöma om avfallet har farliga egenskaper och därefter välja lämplig avfallskod.
 
-Ändringarna träder i kraft den 1 juli 2019\.
+Ändringarna träder i kraft den 1 juli 2019.
 
 **Referenser:**
 
-* avfallsförordningen (2011:927\)
+* avfallsförordningen (2011:927)
 
 ### Kontaktperson:
 
-Johan Fallenius: 08\-405 13 49
+Johan Fallenius: 08-405 13 49

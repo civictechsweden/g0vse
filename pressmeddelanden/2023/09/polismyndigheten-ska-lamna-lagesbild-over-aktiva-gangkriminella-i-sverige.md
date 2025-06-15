@@ -10,6 +10,6 @@ Det behövs en mer fördjupad och strukturerad kunskap om aktiva gängkriminella
 * en lämplig indelning i kategorier utifrån vilka roller som de aktiva, eller de som är kopplade till, kriminella nätverk bedöms ha och
 * en lämplig indelning i ålderskategorier, inklusive barn och unga, och en bedömning av hur många som befinner sig i respektive ålderskategori.
 
-Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 23 februari 2024\.
+Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 23 februari 2024.
 
 Uppdraget bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

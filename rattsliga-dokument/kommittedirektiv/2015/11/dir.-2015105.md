@@ -6,4 +6,4 @@ Samordnaren ska samla in synpunkter och lämna förslag som syftar till att ge r
 
 Samordnaren ska vid de tidpunkter och i den form som beslutas i dialog med Regeringskansliet (Utbildningsdepartementet) löpande informera om arbetet.
 
-Uppdraget ska slutredovisas senast den 31 januari 2017\.
+Uppdraget ska slutredovisas senast den 31 januari 2017.

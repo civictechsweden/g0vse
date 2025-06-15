@@ -1,9 +1,8 @@
 # Strategi för Sveriges utvecklingssamarbete med Liberia 2016-2020 samt bemyndigande att ingå samarbetsavtal
 
-Svenskt utvecklingssamarbete med Liberia inom ramen för denna strategi ska bidra till freds\- och statsbyggande. Syftet är att bidra till att stärka de liberianska samhällsfunktionerna och skapa förutsättningar för en fredlig, inkluderande och hållbar utveckling.
+Svenskt utvecklingssamarbete med Liberia inom ramen för denna strategi ska bidra till freds- och statsbyggande. Syftet är att bidra till att stärka de liberianska samhällsfunktionerna och skapa förutsättningar för en fredlig, inkluderande och hållbar utveckling.
 
-
-Verksamheten ska också bidra till ökad jämställdhet samt en förbättrad miljö och begränsad klimatpåverkan. Strategin ska gälla under perioden 2016\-2020 och omfattar sammantaget 1350 miljoner svenska kronor, varav 1320 miljoner kronor avser Sidas verksamhet och 30 miljoner kronor avser FBA:s verksamhet.
+Verksamheten ska också bidra till ökad jämställdhet samt en förbättrad miljö och begränsad klimatpåverkan. Strategin ska gälla under perioden 2016-2020 och omfattar sammantaget 1350 miljoner svenska kronor, varav 1320 miljoner kronor avser Sidas verksamhet och 30 miljoner kronor avser FBA:s verksamhet.
 
 Sidas insatser inom ramen för strategin förväntas bidra till:
 
@@ -25,7 +24,7 @@ Sidas insatser inom ramen för strategin förväntas bidra till:
 ### Värnad mänsklig säkerhet och frihet från våld
 
 * Stärkt kapacitet att förebygga och hantera konsekvenserna av sexuellt och könsbaserat våld
-* Stärkta konfliktlösnings\- och försoningsinitiativ på lokal och nationell nivå
+* Stärkta konfliktlösnings- och försoningsinitiativ på lokal och nationell nivå
 
 ### FBA:s insatser inom ramen för strategin förväntas bidra till:
 

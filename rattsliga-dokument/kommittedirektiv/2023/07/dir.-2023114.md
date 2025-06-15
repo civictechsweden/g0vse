@@ -8,4 +8,4 @@ Utredaren får nu i uppdrag att bland annat
 * om utredaren föreslår att obligatoriska eller frivilliga yrkesprov ska införas, föreslå hur arbetslivet ska ges inflytande i fråga om yrkesprovens utveckling och genomförande
 * med utgångspunkt i erfarenheter från försöksverksamheten med branschskolor föreslå hur behovet av utbildning inom små yrkesområden mer ändamålsenligt kan tillgodoses inom gymnasieskolan.
 
-Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 4 november 2024\.
+Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 4 november 2024.

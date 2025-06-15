@@ -4,7 +4,7 @@ Sverige deltar i internationellt samarbete om överförande av påföljder, sär
 
 En särskild utredare får därför i uppdrag att
 
-* göra en översyn av lagen (1972:260\) om internationellt samarbete rörande verkställighet av brottmålsdom och föreslå en tydligare och mer ändamålsenlig reglering samt
+* göra en översyn av lagen (1972:260) om internationellt samarbete rörande verkställighet av brottmålsdom och föreslå en tydligare och mer ändamålsenlig reglering samt
 * föreslå hur rambeslutet om överförande av frihetsberövande påföljder och rambeslutet om erkännande och övervakning av vissa icke frihetsberövande påföljder samt rambeslutet om utevarodomar, i aktuella delar, ska genomföras i svensk rätt.
 
-Uppdraget ska redovisas senast den 30 september 2012\.
+Uppdraget ska redovisas senast den 30 september 2012.

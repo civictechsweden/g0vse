@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om att nekas sjukersättning och aktivitetsersättning
 
-Regeringen bedömer innehållet i Riksrevisionens rapport Nekad sjuk\- och aktivitetsersättning – effekter på inkomst och hälsa (RiR 2018:9\).
+Regeringen bedömer innehållet i Riksrevisionens rapport Nekad sjuk- och aktivitetsersättning – effekter på inkomst och hälsa (RiR 2018:9).
 
 ## Regellättnader motiverade
 
@@ -14,4 +14,4 @@ Myndigheten har också analyserat eventuella hinder för den som har sjukersätt
 
 ## Ny process blir fråga för Försäkringskassans interna styrning
 
-Riksrevisionen anser att regeringen bör överväga att uppdra åt Försäkringskassan att ta fram en ny process för beslut om rätten till sjuk\- och aktivitetsersättning. Regeringen menar at det dock främst bör vara en fråga för myndighetens interna styrning.
+Riksrevisionen anser att regeringen bör överväga att uppdra åt Försäkringskassan att ta fram en ny process för beslut om rätten till sjuk- och aktivitetsersättning. Regeringen menar at det dock främst bör vara en fråga för myndighetens interna styrning.

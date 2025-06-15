@@ -13,4 +13,4 @@ Detta gäller ärenden där sjukpenning nekas på grund av att den försäkrade 
 
 Försäkringskassan ska också redovisa vad myndigheten gjort och kommer att göra för att säkerställa att behovet av rehabiliteringsinsatser utreds och vid behov vidtas så tidigt som det är möjligt utifrån omständigheterna i ärendet.
 
-Försäkringskassan ska delredovisa vidtagna och planerade åtgärder senast den 15 november 2020\. Uppdraget ska slutredovisas den 15 augusti 2021\.
+Försäkringskassan ska delredovisa vidtagna och planerade åtgärder senast den 15 november 2020. Uppdraget ska slutredovisas den 15 augusti 2021.

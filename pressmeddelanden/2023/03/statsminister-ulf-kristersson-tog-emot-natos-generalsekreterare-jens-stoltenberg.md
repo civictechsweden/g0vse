@@ -1,6 +1,6 @@
 # Statsminister Ulf Kristersson tog emot Natos generalsekreterare Jens Stoltenberg
 
-– Vi fortsätter det breda samarbetet med riksdagens partier i processen att leda Sverige in i Nato. Det finns ett mycket starkt och brett stöd i riksdagen för Sveriges Natoanslutning och vår bedömning är att riksdagen kommer fatta beslut om Nato\-propositionen om ett par veckor, vilket då gör Sverige helt redo att bli medlem i Nato, säger statsminister Ulf Kristersson.
+– Vi fortsätter det breda samarbetet med riksdagens partier i processen att leda Sverige in i Nato. Det finns ett mycket starkt och brett stöd i riksdagen för Sveriges Natoanslutning och vår bedömning är att riksdagen kommer fatta beslut om Nato-propositionen om ett par veckor, vilket då gör Sverige helt redo att bli medlem i Nato, säger statsminister Ulf Kristersson.
 
 Syftet med tisdagens möte med de riksdagspartier som står bakom den svenska Natoanslutningen var både att informera om de aktuella processerna i Nato, och om det svenska förberedelsearbetet.
 

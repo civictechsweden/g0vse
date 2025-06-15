@@ -17,4 +17,4 @@ Vidare föreslår regeringen bland annat
 * att överförmyndaren ska bistå tingsrätten med att inhämta underlag i ställföreträdarskapsärenden, och
 * att länsstyrelsen ska föra statistik om överförmyndarnas verksamhet.
 
-Dessa lagändringar föreslås träda i kraft den 1 januari 2015\.
+Dessa lagändringar föreslås träda i kraft den 1 januari 2015.

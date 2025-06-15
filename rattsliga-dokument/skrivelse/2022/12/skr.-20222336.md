@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om statliga insatser för att stimulera investeringar i datorhallar
 
-Riksrevisionen har i rapporten Statliga insatser för att stimulera investeringar i datacenter (RiR 2022:18\) granskat de statliga insatserna för att stimulera investeringar i datorhallar.
+Riksrevisionen har i rapporten Statliga insatser för att stimulera investeringar i datacenter (RiR 2022:18) granskat de statliga insatserna för att stimulera investeringar i datorhallar.
 
 Riksrevisionens övergripande slutsats är att det är osäkert om statens insatser för att stimulera investeringar i datorhallar har givit de avsedda näringspolitiska effekterna.
 

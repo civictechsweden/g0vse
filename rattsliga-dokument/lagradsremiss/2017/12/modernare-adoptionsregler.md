@@ -10,6 +10,6 @@ För att förbättra underlaget i adoptionsärenden föreslår regeringen tydlig
 
 Regeringen föreslår även utökade möjligheter till automatiskt erkännande av adoptionsbeslut från andra länder. Även i övrigt föreslås modernare regler om adoption i internationella situationer.
 
-Den nya lagen och lagändringarna föreslås träda i kraft den 1 juli 2018\.
+Den nya lagen och lagändringarna föreslås träda i kraft den 1 juli 2018.
 
 [Pressmeddelande: Adoptionsreglerna moderniseras](/pressmeddelanden/2017/12/adoptionsreglerna-moderniseras/)

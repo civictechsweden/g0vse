@@ -8,8 +8,8 @@ Regeringen går därför i budgetpropositionen för 2024 fram med ett förstärk
 
 – Det behöver löna sig bättre att jobba. Vi ser i dag en tudelad arbetsmarknad där vissa grupper hamnar i kläm och inte jobbar i samma utsträckning som andra grupper. Drivkrafterna till arbete behöver därför ökas genom ett förstärkt jobbskatteavdrag, säger finansminister Elisabeth Svantesson.
 
-Förslaget finansieras genom att indexeringen av skiktgränsen för statlig inkomstskatt pausas under 2024\.
+Förslaget finansieras genom att indexeringen av skiktgränsen för statlig inkomstskatt pausas under 2024.
 
-Förslagen kommer att aviseras i budgetpropositionen för 2024 och lämnas till riksdagen senare under hösten. Ändringarna föreslås träda i kraft den 1 januari 2024\.
+Förslagen kommer att aviseras i budgetpropositionen för 2024 och lämnas till riksdagen senare under hösten. Ändringarna föreslås träda i kraft den 1 januari 2024.
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

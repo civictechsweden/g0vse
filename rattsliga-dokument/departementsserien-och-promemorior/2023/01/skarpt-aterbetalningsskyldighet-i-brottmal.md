@@ -8,4 +8,4 @@ Statens kostnader för rätts­liga biträden är betydande och har ökat under 
 * Möjlig­heten att sätta ned åter­betalnings­beloppet ska begränsas genom ett krav på särskilda skäl.
 * Om den dömdes över­klagande till en högre rätt för­faller på grund av att han eller hon uteblir från ett samman­träde ska åter­betalnings­skyldig­heten omfatta hela kostnaden där, utan någon begränsning.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

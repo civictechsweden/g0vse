@@ -44,7 +44,7 @@ Kungl. Vasaorden instiftades år 1772 som belöning för förtjänster inom en r
 
 **Skådespelerska Marie Göranzon Malmsjö - Kommendör av Vasaorden**För framstående insatser som skådespelerska.
 
-**Civilingenjör Håkan Lans - Kommendör av Vasaorden**För framstående insatser som uppfinnare.
+**Teknologie hedersdoktor Håkan Lans - Kommendör av Vasaorden**För framstående insatser som uppfinnare.
 
 **Direktör Crister Stark - Kommendör av Vasaorden**För framstående insatser inom näringslivet och jordbrukssektorn.
 

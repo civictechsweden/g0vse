@@ -16,4 +16,4 @@ Lantmäteriet och de kommunala lantmäterimyndigheterna,
 
 • lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 1 oktober 2025\.
+Uppdraget ska redovisas senast den 1 oktober 2025.

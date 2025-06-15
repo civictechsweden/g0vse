@@ -6,6 +6,6 @@ Mot bakgrund av detta har Haninge kommun tillsammans med Barnafrid – Nationell
 
 Sedan i våras har utbildningen lanserats i förskolor över hela landet och är helt kostnadsfri.
 
-Jämställdhets\- och arbetslivsminister Paulina Brandberg kommer få en övergripande presentation av utbildningen samt ta del av pedagogernas erfarenheter.
+Jämställdhets- och arbetslivsminister Paulina Brandberg kommer få en övergripande presentation av utbildningen samt ta del av pedagogernas erfarenheter.
 
 I samband med besöket är Paulina Brandberg tillgänglig för media. Vid intresse, kontakta pressassistent Emelie Franzén

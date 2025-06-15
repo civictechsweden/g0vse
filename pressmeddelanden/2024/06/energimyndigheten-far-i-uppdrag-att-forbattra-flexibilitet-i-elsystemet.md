@@ -1,6 +1,6 @@
 # Energimyndigheten får i uppdrag att förbättra flexibilitet i elsystemet
 
-– Förmågan till flexibilitet är en viktig dellösning för att möta efterfrågan på el och upprätthålla elsystemets driftsäkerhet. Med det här uppdraget visar regeringen att vi tar frågan om leveranssäkerhet på allvar, säger energi\- och näringsminister Ebba Busch.
+– Förmågan till flexibilitet är en viktig dellösning för att möta efterfrågan på el och upprätthålla elsystemets driftsäkerhet. Med det här uppdraget visar regeringen att vi tar frågan om leveranssäkerhet på allvar, säger energi- och näringsminister Ebba Busch.
 
 Uppdraget ligger i linje med den energipolitiska inriktningspropositionen där regeringen anger att flexibiliteten behöver öka om elsystemet ska kunna nyttjas mer effektivt.
 
@@ -13,4 +13,4 @@ Energimyndigheten ska därför bland annat:
 * utveckla kommunikationsprotokoll för teknik som kan möjliggöra flexibilitet, samt
 * se över behov av processer och krav för en driftssäker samverkan med elsystemet i samtliga systemdrifttillstånd.
 
-Uppdraget ska redovisas senast den 20 november 2025\.
+Uppdraget ska redovisas senast den 20 november 2025.

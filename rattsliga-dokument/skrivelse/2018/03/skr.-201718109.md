@@ -7,7 +7,7 @@ Riksrevisionen har granskat betydelsen av sökandesammansättningen hos arbetss�
 Riksrevisionen har granskat betydelsen av sökandesammansättningen hos arbetssökande för matchningen på den svenska arbetsmarknaden.
 
 Enligt Riksrevisionens analys har jobbchansen, mätt som övergången
-till osubventionerat arbete för arbetslösa inskrivna på Arbetsförmedlingen, minskat mellan 2007 och 2015\. En del av denna minskning förklaras av förändringar i sökandesammansättningen men stora delar av jobbchansförsämringen går inte att förklara med en ändrad sökandesammansättning. I stället handlar försämringen i stor utsträckning om en oförklarad generell jobbchansförsämring.
+till osubventionerat arbete för arbetslösa inskrivna på Arbetsförmedlingen, minskat mellan 2007 och 2015. En del av denna minskning förklaras av förändringar i sökandesammansättningen men stora delar av jobbchansförsämringen går inte att förklara med en ändrad sökandesammansättning. I stället handlar försämringen i stor utsträckning om en oförklarad generell jobbchansförsämring.
 
 Riksrevisionen rekommenderar Arbetsförmedlingen att överväga att genomföra djupare analyser av jobbchansförsämringen jämfört med de
 analyser som i dag görs i årsredovisningen och arbetsmarknadsrapporten.

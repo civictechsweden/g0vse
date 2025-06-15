@@ -6,12 +6,12 @@ Många resenärer bokar numera sina resor på internet, och många reseföretag 
 
 I den nya lagen finns även regler för resenärer som köper ett sammanlänkat researrangemang. Dessutom införs regler om att resenären ska ha rätt till skadestånd för bokningsfel.
 
-Förslagen bygger på ett EU\-direktiv om paketresor och sammanlänkade
+Förslagen bygger på ett EU-direktiv om paketresor och sammanlänkade
 researrangemang.
 
 Propositionen innehåller också förslag om bemyndiganden för regeringen eller den myndighet som regeringen bestämmer att meddela föreskrifter om tillsyn över intygsgivare i bostadsrättsföreningar och kooperativa hyresgästföreningar.
 
 Den nya lagen och lagändringarna föreslås träda i kraft den 1 augusti
-2018\.
+2018.
 
 [Pressmeddelande: Regeringen stärker konsumentskyddet i samband med paketresor](/pressmeddelanden/2018/04/regeringen-starker-konsumentskyddet-i-samband-med-paketresor/)

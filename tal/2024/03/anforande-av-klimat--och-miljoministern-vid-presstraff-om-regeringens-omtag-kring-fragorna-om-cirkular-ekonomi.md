@@ -1,7 +1,6 @@
 # Anförande av klimat- och miljöministern vid pressträff om regeringens omtag kring frågorna om cirkulär ekonomi
 
-Anförande av klimat\- och miljöminister Romina Pourmokhtari vid en pressträff om regeringens omtag kring frågorna om cirkulär ekonomi, den 6 mars 2024 i Stockholm.
-
+Anförande av klimat- och miljöminister Romina Pourmokhtari vid en pressträff om regeringens omtag kring frågorna om cirkulär ekonomi, den 6 mars 2024 i Stockholm.
 
 Välkomna hit.
 
@@ -19,15 +18,15 @@ Men när allmänheten ser att näringslivet lyckas använda hållbarhet i sitt v
 
 Vi måste se en förstärkning av cirkulära materialflöden. Vi måste se nya cirkulära affärsmodeller som tar hänsyn till hela värdekedjan, och som framgångsrikt kan skala upp och ta plats på marknaden.
 
-Hållbarhet kan inte bara handla om enskilda projekt \- det måste utgöra en vedertagen grund för kärnverksamheten. I modeindustrin ska det inte handla om att ta fram en hållbar kollektion eller enstaka återvunna plagg – det behöver handla om att på allvar ställa om produktionen utifrån cirkulära affärsmodeller och att ta ett större ansvar för hela värdekedjan, dvs. hela vägen från designstadiet till textilavfallshanteringen.
+Hållbarhet kan inte bara handla om enskilda projekt - det måste utgöra en vedertagen grund för kärnverksamheten. I modeindustrin ska det inte handla om att ta fram en hållbar kollektion eller enstaka återvunna plagg – det behöver handla om att på allvar ställa om produktionen utifrån cirkulära affärsmodeller och att ta ett större ansvar för hela värdekedjan, dvs. hela vägen från designstadiet till textilavfallshanteringen.
 
-I förra veckan befann jag mig på FN:s sjätte miljöförsamling, UNEA\-6, i Nairobi. Där pågick internationella förhandlingar om globala avtal kring bland annat biologisk mångfald, plastföroreningar, klimatförändringar, cirkulär ekonomi, kemikalier, avfallsfrågor och havs\- och vattenfrågor.
+I förra veckan befann jag mig på FN:s sjätte miljöförsamling, UNEA-6, i Nairobi. Där pågick internationella förhandlingar om globala avtal kring bland annat biologisk mångfald, plastföroreningar, klimatförändringar, cirkulär ekonomi, kemikalier, avfallsfrågor och havs- och vattenfrågor.
 
-Under tiden jag var där, såg jag till att genomföra ett besök på marknadsplatsen Gikomba, som är Östafrikas största second hand\-marknad. Gikomba är ett tydligt exempel på utmaningarna vi ser när det kommer till cirkulär ekonomi och avfallshantering. En stor mängd textilier och kläder skickas dit från bland annat Europa, för att återanvändas eller omdesignas. Men där dumpas stora mängder av de textilier som inte går att sälja rakt ned i Nairobi River. Det här är problem som bland annat har uppmärksammats i Aftonbladets stora granskning av textildumpning.
+Under tiden jag var där, såg jag till att genomföra ett besök på marknadsplatsen Gikomba, som är Östafrikas största second hand-marknad. Gikomba är ett tydligt exempel på utmaningarna vi ser när det kommer till cirkulär ekonomi och avfallshantering. En stor mängd textilier och kläder skickas dit från bland annat Europa, för att återanvändas eller omdesignas. Men där dumpas stora mängder av de textilier som inte går att sälja rakt ned i Nairobi River. Det här är problem som bland annat har uppmärksammats i Aftonbladets stora granskning av textildumpning.
 
-Det visar verkligen på vikten av ett större ansvar för producenten kopplat till hanteringen av material och produkter genom hela värdekedjan och på att industrin har en lång väg kvar \- innan de kan göra riktigt trovärdiga hållbarhetsanspråk.
+Det visar verkligen på vikten av ett större ansvar för producenten kopplat till hanteringen av material och produkter genom hela värdekedjan och på att industrin har en lång väg kvar - innan de kan göra riktigt trovärdiga hållbarhetsanspråk.
 
-Innan jul presenterade jag regeringens klimathandlingsplan, som ska ta Sverige hela vägen ner till nettonollutsläpp senast år 2045\. Att ställa om till en cirkulär ekonomi är avgörande för miljön, men också en viktig faktor i vår klimatomställning för minskade utsläpp.
+Innan jul presenterade jag regeringens klimathandlingsplan, som ska ta Sverige hela vägen ner till nettonollutsläpp senast år 2045. Att ställa om till en cirkulär ekonomi är avgörande för miljön, men också en viktig faktor i vår klimatomställning för minskade utsläpp.
 
 Hälften av de globala växthusgasutsläppen kommer från utvinning och bearbetning av material. Dessutom orsakar utvinningen en stor påverkan på miljön. Därför är det viktigt att vi utnyttjar varje resurs som utvinns från vår planet klokt och vi måste använda och återanvända dem till deras fulla potential. Användningen av primära material ska, där det är möjligt, ersättas av återvunna råvaror.
 
@@ -43,11 +42,11 @@ I höstas besökte jag Svensk Plaståtervinning i Motala, som är världsledande
 
 Sverige är ett exportberoende land. Vi har ett strategiskt intresse i att EU:s gemensamma regelverk blir både rättvisa och ambitiösa inom vår gemensamma inre marknad. Det kommer att värna svensk konkurrenskraft medan vi genomför klimatomställningen.
 
-Just nu pågår förhandlingar inom EU om en ny förpackningsförordning, gröna påståenden och revideringen av Avfallsdirektivet. Att dessa förhandlingar landar rätt är viktigt både för Sverige och för planeten. Det behövs EU\-reglering som är bra för tillväxten och för miljön.
+Just nu pågår förhandlingar inom EU om en ny förpackningsförordning, gröna påståenden och revideringen av Avfallsdirektivet. Att dessa förhandlingar landar rätt är viktigt både för Sverige och för planeten. Det behövs EU-reglering som är bra för tillväxten och för miljön.
 
 Nyligen har EU:s medlemsstater kommit överens om en ny lagstiftning för kritiska råmaterial, som ska öka återvinningen av metaller och mineral. Vi har också beslutat om en ny förordning om ekodesign för hållbara produkter som ska säkerställa att produkter designas för att möjliggöra mer cirkularitet.
 
-Kemikalieförordningen Reach ett viktigt verktyg för att minska risker för hälsa och miljö med skadliga kemikalier. Men \- Reach behöver reformeras i enlighet med EU:s Kemikaliestrategi för hållbarhet, så att förekomsten av potentiellt skadliga ämnen i produkter minimeras och materialkretsloppen avgiftas. Detta är en hörnsten i EU:s Gröna giv som tyvärr ännu inte kommit på plats. Jag har på alla möjliga sätt pressat Kommissionen om detta, särskilt under det svenska ordförandeskapet förra våren. I de nätverk som vi ministrar inom EU har, driver jag på för att inte Kommissionen ska dröja med Reach\-revideringen och kvällen innan nästa Miljöråd arrangerar jag ett möte för de ambitiösa länderna i dessa frågor där vi kommer att diskutera hur vi kan göra framsteg inom dessa ämnen, samt hur vi kan få kommissionen att lägga fram den Reach\-revidering vi vill se.
+Kemikalieförordningen Reach ett viktigt verktyg för att minska risker för hälsa och miljö med skadliga kemikalier. Men - Reach behöver reformeras i enlighet med EU:s Kemikaliestrategi för hållbarhet, så att förekomsten av potentiellt skadliga ämnen i produkter minimeras och materialkretsloppen avgiftas. Detta är en hörnsten i EU:s Gröna giv som tyvärr ännu inte kommit på plats. Jag har på alla möjliga sätt pressat Kommissionen om detta, särskilt under det svenska ordförandeskapet förra våren. I de nätverk som vi ministrar inom EU har, driver jag på för att inte Kommissionen ska dröja med Reach-revideringen och kvällen innan nästa Miljöråd arrangerar jag ett möte för de ambitiösa länderna i dessa frågor där vi kommer att diskutera hur vi kan göra framsteg inom dessa ämnen, samt hur vi kan få kommissionen att lägga fram den Reach-revidering vi vill se.
 
 Jag driver också på i frågan om materialåtervinningen av avfall för att bland annat minska förbränningen av plast, för att bidra till en giftfri och resurseffektiv avfallshantering så att vi når EU:s gemensamt uppsatta mål. Jag har därför satt igång en bokstavsutredning som ska föreslå författningsändringar som förstärker och förtydligar lagstiftningen, för att öka materialåtervinningen här i Sverige.
 
@@ -59,17 +58,17 @@ När jag pratar om cirkulär ekonomi, vill jag också passa på att ta upp det a
 
 Andra uppdrag och utredningar där regeringen vill skapa bättre förutsättningar för en cirkulär ekonomi under mandatperioden är till exempel utredningen om ekonomiska styrmedel för att främja omställningen till en cirkulär ekonomi, uppdrag om att utveckla satsningen som ett antal myndigheter gör tillsammans mot avfallsbrottslighet, arbetet med den kommande bioekonomistrategin och så kommer det ju en ny forskningsproposition senare under det här året.
 
-Klimatet är en ödesfråga \- för Sverige och för världens alla länder. Men klimatutmaningen går att lösa – om vi går rätt till väga. Jag som klimat\- och miljöminister har ett ansvar att se till att de rätta förutsättningarna finns, som lagstiftning och ekonomiska styrmedel.
+Klimatet är en ödesfråga - för Sverige och för världens alla länder. Men klimatutmaningen går att lösa – om vi går rätt till väga. Jag som klimat- och miljöminister har ett ansvar att se till att de rätta förutsättningarna finns, som lagstiftning och ekonomiska styrmedel.
 
 Från politiken kan jag se till så att vi får regleringar på plats som ger rättvisa villkor för den cirkulära ekonomin. Vi ser att entreprenörer och innovativa ingenjörer tar fram tekniska lösningar med stor potential – som behöver skalas upp och bli mer omfattande. För att realisera detta måste de berörda branscherna svara med att ta in och investera i de här lösningarna och ge dem en central plats i sina verksamheter.
 
-Som jag sa tidigare så är den cirkulära ekonomin en avgörande faktor för klimatomställningen, och det svenska näringslivet är en oerhört viktig sektor som måste genomföra det skiftet. År 2020 fastställdes den svenska strategin för cirkulär ekonomi och därefter har två särskilda handlingsplaner tagits fram \- en generell och en om plast.
+Som jag sa tidigare så är den cirkulära ekonomin en avgörande faktor för klimatomställningen, och det svenska näringslivet är en oerhört viktig sektor som måste genomföra det skiftet. År 2020 fastställdes den svenska strategin för cirkulär ekonomi och därefter har två särskilda handlingsplaner tagits fram - en generell och en om plast.
 
-Strategin är vägledande för regeringens arbete i omställningen för att nå visionen om ett samhälle där resurser används effektivt i giftfria cirkulära flöden \- där vi ersätter primära material med sekundära. Genom innovativa företag som utvecklar cirkulära materialflöden och affärsmodeller, så stärks den resurseffektiva, giftfria, cirkulära och biobaserad ekonomin i hela
+Strategin är vägledande för regeringens arbete i omställningen för att nå visionen om ett samhälle där resurser används effektivt i giftfria cirkulära flöden - där vi ersätter primära material med sekundära. Genom innovativa företag som utvecklar cirkulära materialflöden och affärsmodeller, så stärks den resurseffektiva, giftfria, cirkulära och biobaserad ekonomin i hela
 
-För att bidra till detta, inrättades Delegationen för cirkulär ekonomi i april 2018\. Delegationens uppdrag är att identifiera hinder för näringslivets omställning till en cirkulär ekonomi och att synliggöra och kommunicera näringslivets möjligheter med en omställning till en cirkulär ekonomi. Delegationen består av en ordförande, en vice ordförande och högst tio ledamöter.
+För att bidra till detta, inrättades Delegationen för cirkulär ekonomi i april 2018. Delegationens uppdrag är att identifiera hinder för näringslivets omställning till en cirkulär ekonomi och att synliggöra och kommunicera näringslivets möjligheter med en omställning till en cirkulär ekonomi. Delegationen består av en ordförande, en vice ordförande och högst tio ledamöter.
 
-Jag är mycket glad att idag kunna presentera att regeringen har utsett Mattias Philipsson till ny ordförande för Delegationen för cirkulär ekonomi. Mattias är VD för Svensk Plaståtervinning AB i Motala sedan 2018 och han har varit ledamot i Delegationen sedan 2021 och vice ordförande sedan 2023\. Han var tidigare chef på Svensk Biogas i Linköping och på Tekniska verken i Linköping.
+Jag är mycket glad att idag kunna presentera att regeringen har utsett Mattias Philipsson till ny ordförande för Delegationen för cirkulär ekonomi. Mattias är VD för Svensk Plaståtervinning AB i Motala sedan 2018 och han har varit ledamot i Delegationen sedan 2021 och vice ordförande sedan 2023. Han var tidigare chef på Svensk Biogas i Linköping och på Tekniska verken i Linköping.
 
 Mattias är engagerad och driven i delegationens arbete och när jag besökte Svensk Plaståtervinnings verksamhet i Motala blev jag imponerad av det engagemang och de innovativa idéer som Mattias och hans medarbetare driver.
 

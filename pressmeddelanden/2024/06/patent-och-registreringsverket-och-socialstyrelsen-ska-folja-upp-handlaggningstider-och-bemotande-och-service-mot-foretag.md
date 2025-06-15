@@ -6,4 +6,4 @@ Tillväxtverket har en sammanhållande uppgift i arbetet och ansvarar för åter
 
 Det andra förenklingspolitiska målet som omfattas av uppdraget är att förvaltningsmyndigheters bemötande och service till företag ska vara företagsanpassat och väl fungerande. Uppdraget ligger i linje med regeringens arbete med att minska företagens regelbörda, administrativa kostnader och fullgörandekostnader.
 
-Myndigheterna ska redovisa uppdraget årligen till och med 2029\.
+Myndigheterna ska redovisa uppdraget årligen till och med 2029.

@@ -16,6 +16,6 @@ Regeringen föreslår regler i lagen om handel med läkemedel som möjliggör f�
 
 ### Utökad tillgång till uppgifter
 
-Ändringar föreslås i lagen om receptregister och lagen om handel med läkemedel med innebörden att Läkemedelsverket ska få ta del av ytterligare uppgifter från E\-hälsomyndigheten för sin tillsyn.
+Ändringar föreslås i lagen om receptregister och lagen om handel med läkemedel med innebörden att Läkemedelsverket ska få ta del av ytterligare uppgifter från E-hälsomyndigheten för sin tillsyn.
 
-Ändringarna som rör förtydligandet av grunduppdraget, leverans\- och tillhandahållandeskyldigheterna, returer av läkemedel, information och rådgivning, den läkemedelsansvariges inflytande över verksamheten samt vissa definitioner föreslås träda i kraft den 1 augusti 2018\. Övriga ändringar föreslås träda i kraft den 1 januari 2019, med undantag för kravet på farmaceutisk kompetens och farmaceutens ansvar i samband med expediering av förskrivningar som ska träda i kraft den 1 juli 2020\. En övergångsbestämmelse som avser verksamhet som bedrivs genom apoteksombud föreslås.
+Ändringarna som rör förtydligandet av grunduppdraget, leverans- och tillhandahållandeskyldigheterna, returer av läkemedel, information och rådgivning, den läkemedelsansvariges inflytande över verksamheten samt vissa definitioner föreslås träda i kraft den 1 augusti 2018. Övriga ändringar föreslås träda i kraft den 1 januari 2019, med undantag för kravet på farmaceutisk kompetens och farmaceutens ansvar i samband med expediering av förskrivningar som ska träda i kraft den 1 juli 2020. En övergångsbestämmelse som avser verksamhet som bedrivs genom apoteksombud föreslås.

@@ -1,6 +1,6 @@
 # Utredning ska se över den statliga lönegarantin
 
-– Regeringen vill skapa ett regelverk som är hållbart över tid, där de enskilda som har rätt till ersättning kan få sin utbetalning skyndsamt samtidigt som myndigheterna förhindrar missbruk av lönegarantin, säger jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg.
+– Regeringen vill skapa ett regelverk som är hållbart över tid, där de enskilda som har rätt till ersättning kan få sin utbetalning skyndsamt samtidigt som myndigheterna förhindrar missbruk av lönegarantin, säger jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg.
 
 Den statliga lönegarantin är ett skydd för arbetstagare som innebär att staten betalar arbetstagarens lön om arbetsgivaren försatts i konkurs eller genomgår företagsrekonstruktion, upp till ett visst belopp.
 
@@ -17,4 +17,4 @@ Utredaren ska bland annat:
 * bedöma och lämna förslag på hur en effektiv och välavvägd kontroll bör utformas samt vilka uppgiftsskyldigheter och möjligheter till informationsutbyte som ska finnas.
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 30 april 2025\.
+Uppdraget ska redovisas senast den 30 april 2025.

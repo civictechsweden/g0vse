@@ -13,7 +13,7 @@ Avtalet syftar till att främja politisk associering och ekonomisk
 integration grundad i de gemensamma värderingar som EU bygger på:
 demokrati, respekt för mänskliga rättigheter och grundläggande friheter
 samt rättsstatsprincipen. Genom avtalet upprättas ett djupgående och
-omfattande frihandels\-område som möjliggör för Georgien att gradvis
+omfattande frihandels-område som möjliggör för Georgien att gradvis
 integreras i EU:s inre marknad samtidigt som landet åtar sig att anpassa
 sin lagstiftning till EU:s lagstiftning på en rad områden. Denna
 anpassning kommer att utgöra kärnan i Georgiens fortsatta

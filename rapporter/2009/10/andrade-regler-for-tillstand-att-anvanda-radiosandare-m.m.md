@@ -1,6 +1,6 @@
 # Ändrade regler för tillstånd att använda radiosändare, m.m.
 
-I denna promemoria föreslås en modernisering och effektivisering av reglerna för tillstånd att använda radiofrekvenser i lagen (2003:389\) om elektronisk kommunikation.
+I denna promemoria föreslås en modernisering och effektivisering av reglerna för tillstånd att använda radiofrekvenser i lagen (2003:389) om elektronisk kommunikation.
 
 Tillstånd att använda radiosändare ska kunna avse inte bara rätt att använda en viss radiosändare, utan också en generell rätt att använda radiosändare inom ett visst frekvensutrymme. Den som har ett sådant tillstånd ska inte behöva något särskilt tillstånd för varje enskild radiosändare. När det kan antas att antalet tillstånd att använda radiosändare som kan beviljas inte räcker till för alla som vill och skulle kunna bedriva verksamhet inom ett frekvensutrymme, ska tillstånd som utgångspunkt alltid fördelas efter allmän inbjudan till ansökan.
 
@@ -10,4 +10,4 @@ Regeringen eller den myndighet som regeringen bestämmer ska få meddela föresk
 
 Det särskilda tvistlösningsförfarandet i lagen om elektronisk kommunikation ska omfatta alla tvister om samtrafik och andra former av tillträde.
 
-De nya bestämmelserna föreslås träda i kraft den 1 april 2010\.
+De nya bestämmelserna föreslås träda i kraft den 1 april 2010.

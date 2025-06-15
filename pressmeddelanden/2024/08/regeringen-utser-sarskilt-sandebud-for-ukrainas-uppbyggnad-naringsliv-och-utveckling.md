@@ -2,9 +2,9 @@
 
 – Att stötta Ukraina är regeringens viktigaste utrikespolitiska prioritering. Genom att tillsätta ett särskilt sändebud ökar regeringen Sveriges engagemang och möjlighet att bidra till Ukrainas uppbyggnad ytterligare, säger Utrikesminister Tobias Billström.
 
-– Regeringen stärker Sveriges arbete för Ukraina genom att utse ett särskilt sändebud för Ukrainas uppbyggnad, näringsliv och utveckling. Den nya rollen innebär ett särskilt fokus på handel, bistånd och främjande. Jag välkomnar Ulrik Tideström till teamet och ser fram emot att arbeta tillsammans, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+– Regeringen stärker Sveriges arbete för Ukraina genom att utse ett särskilt sändebud för Ukrainas uppbyggnad, näringsliv och utveckling. Den nya rollen innebär ett särskilt fokus på handel, bistånd och främjande. Jag välkomnar Ulrik Tideström till teamet och ser fram emot att arbeta tillsammans, säger bistånds- och utrikeshandelsminister Johan Forssell.
 
-Sändebudet kommer att ha ett nära samarbete med den ukrainska regeringen, EU:s institutioner, internationella finansiella institutioner, G7\-länderna samt andra internationella partners för att stödja Ukrainas uppbyggnad. En central uppgift kommer att vara att företräda regeringen inom den internationella givarsamordningen för stödet till Ukrainas uppbyggnad och EU\-närmande . En annan viktig uppgift kommer att vara att främja svenska företags deltagande i Ukrainas uppbyggnad, i nära samarbete med Business Sweden och övriga Team Sweden.
+Sändebudet kommer att ha ett nära samarbete med den ukrainska regeringen, EU:s institutioner, internationella finansiella institutioner, G7-länderna samt andra internationella partners för att stödja Ukrainas uppbyggnad. En central uppgift kommer att vara att företräda regeringen inom den internationella givarsamordningen för stödet till Ukrainas uppbyggnad och EU-närmande . En annan viktig uppgift kommer att vara att främja svenska företags deltagande i Ukrainas uppbyggnad, i nära samarbete med Business Sweden och övriga Team Sweden.
 
 Ulrik Tideström har varit ambassadör i Georgien och i Armenien samt tjänstgjort vid bland annat ambassaderna i Warszawa, Helsingfors, Kiev och Moskva. Han kommer senast från att ha varit rektor för Diplomatprogrammet på Utrikesdepartementet (UD). Ulrik Tideström tillträder sin nya befattning den 26 augusti.
 

@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Trafikverket att ta fram en modell för hur anläggning av bredband i landsbygd kan ske inom statliga vägars vägområde.
 
-
 Trafikverket ska senast den 15 november 2018
 
 * Analysera, bedöma och föreslå var inom vägområdet anläggning av bredband kan ske om ytterslänt och släntfot inte kan användas.
@@ -12,11 +11,11 @@ Trafikverket ska senast den 15 november 2018
 
 Trafikverket ska senast den 31 december 2018
 
-* Kartlägga i den utsträckning som är möjlig vilka vägar eller vägavsnitt i landsbygd som i dag saknar möjlighet till anläggning av bredband på det sätt som Trafikverket normalt förordar, det vill säga i ytterslänt eller släntfot. Post\- och telestyrelsen ska vid behov bistå Trafikverket med underlag om vilka områden i Sverige som saknar tillgång till bredband.
+* Kartlägga i den utsträckning som är möjlig vilka vägar eller vägavsnitt i landsbygd som i dag saknar möjlighet till anläggning av bredband på det sätt som Trafikverket normalt förordar, det vill säga i ytterslänt eller släntfot. Post- och telestyrelsen ska vid behov bistå Trafikverket med underlag om vilka områden i Sverige som saknar tillgång till bredband.
 * Bedöma om den egna organisationen som hanterar ledningsärenden (så kallade grävtillstånd) bör utformas annorlunda, mot bakgrund av vad som framkommer i genomförandet av detta uppdrag.
 
-Trafikverket ska inom ramen för uppdraget samråda med Post\- och
+Trafikverket ska inom ramen för uppdraget samråda med Post- och
 telestyrelsen, Sveriges Kommuner och Landsting och ett urval av
 branschorganisationer och marknadsaktörer samt vid behov övriga relevanta aktörer. "Robust fiber" är ett branschgemensamt koncept med syfte att ge vägledning till den som vill bygga eller upphandla robusta och driftsäkra fibernät. Robust fibers kartläggning av anläggningsmetoder ska beaktas i arbetet. Trafikverket ska även beakta relevanta internationella erfarenheter av användning av sådana anläggningsmetoder.
 
-Kostnaderna för uppdraget hanteras inom Trafikverkets ordinarie ram. Uppdraget ska del\- och slutredovisas till Regeringskansliet (Näringsdepartementet) senast den 15 november respektive den 31 december 2018\.
+Kostnaderna för uppdraget hanteras inom Trafikverkets ordinarie ram. Uppdraget ska del- och slutredovisas till Regeringskansliet (Näringsdepartementet) senast den 15 november respektive den 31 december 2018.

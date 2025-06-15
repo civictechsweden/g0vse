@@ -2,7 +2,6 @@
 
 Den 20–23 februari 2017 avlägger Kanadas generalguvernör David Johnston, tillsammans med fru Sharon Johnston, statsbesök i Sverige på inbjudan av H.M. Konungen.
 
-
 Det fyra dagar långa besöket kommer att äga rum i Stockholm, Malmö, Lund och Göteborg.
 
 Mer information om program och deltagare kommer att publiceras närmare besöket.

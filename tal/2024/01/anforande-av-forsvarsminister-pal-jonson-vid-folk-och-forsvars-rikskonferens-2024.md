@@ -1,9 +1,8 @@
 # Anförande av försvarsminister Pål Jonson vid Folk och Försvars Rikskonferens 2024
 
-Sälen, 8 januari 2024\.
+Sälen, 8 januari 2024.
 
 Det talade ordet gäller.
-
 
 Ers Majestät,
 
@@ -39,11 +38,11 @@ Och vi vill inte heller att våra barn ska växa upp i ett sådant Europa.
 
 I grunden handlar det om att Ukraina utgör Europas sköld mot rysk expansionism. Framtiden för den europeiska säkerhetsordningen avgörs på slagfälten i Ukraina.
 
-Och om denna sköld skulle falla på grund av bristande klarsynthet, handlingskraft eller uthållighet hos de länder som stödjer Ukraina kommer eftervärldens dom \- med all rätt \- att bli hård.
+Och om denna sköld skulle falla på grund av bristande klarsynthet, handlingskraft eller uthållighet hos de länder som stödjer Ukraina kommer eftervärldens dom - med all rätt - att bli hård.
 
 Det skulle skapa ett mycket farligare Europa för oss alla.
 
-Därför krävs uthållighet för att säkra att de ansträngningar som gjorts inte går förlorade \- utan i stället \- bidrar till att bygga upp ett fritt Ukraina och ett bättre Europa.
+Därför krävs uthållighet för att säkra att de ansträngningar som gjorts inte går förlorade - utan i stället - bidrar till att bygga upp ett fritt Ukraina och ett bättre Europa.
 
 För kriget har hittills varit ett strategiskt nederlag för Ryssland.
 
@@ -51,7 +50,7 @@ Det har lett till den största upprustningen i Europa, sedan det kalla krigets s
 
 Ukrainas militära förmåga har stärkts med försvarsmateriel för över 900 miljarder kronor.
 
-Ryssland \- å sin sida \- har mötts av internationell isolering, 12 sanktionsrundor och förlorat över 300\.000 soldater.
+Ryssland - å sin sida - har mötts av internationell isolering, 12 sanktionsrundor och förlorat över 300.000 soldater.
 
 Ukrainarnas försvarsvilja och västs enighet har gjort skillnad och vi ska fortsätta stödja Ukraina så länge som det behövs.
 
@@ -61,7 +60,7 @@ Men stödet behöver vidareutvecklas och anpassas till Ukrainas behov och vår f
 
 De förmågekoalitioner som nu skapas inom Ukraine Defence Contact Group blir centrala för att göra stödet mer uthålligt och förutsägbart.
 
-Fokus kommer att ligga på utbildning och nyproducerad försvarsmateriel för stärkt ukrainsk förmåga här och nu. Men också på att bygga upp landets framtida försvarsstyrkor och göra dom Nato\-interoperabla.
+Fokus kommer att ligga på utbildning och nyproducerad försvarsmateriel för stärkt ukrainsk förmåga här och nu. Men också på att bygga upp landets framtida försvarsstyrkor och göra dom Nato-interoperabla.
 
 Jag vill särskilt tacka alla inom Försvarsmakten och FMV som arbetat med Ukrainastödet. Det är tack vare er professionalism  och hängivelse som Sverige kan ge ett så värdefullt bidrag till Ukrainas kamp.
 
@@ -91,7 +90,7 @@ Det är ohållbart när det rasar ett storkrig på vår kontinent.
 
 Vi öppnar därför upp för möjligheten att rikta långsiktiga upphandlingar av kaliberbunden ammunition och vi använda varandras ramavtal inom Norden för att korta ledtiderna för ny försvarsmateriel både till oss själva och till Ukraina.
 
-Och staten medfinansierar investeringar när försvarsföretag söker EU\-medel för att bekämpa flaskhalsar inom produktionen.
+Och staten medfinansierar investeringar när försvarsföretag söker EU-medel för att bekämpa flaskhalsar inom produktionen.
 
 Med målet att kunna skapa förutsättningar för att tredubbla produktionen av artillerigranater i Sverige inom ett par år.
 
@@ -101,11 +100,11 @@ För det tredje, kriget i Ukraina visar att innovationskraft och användningen a
 
 Sverige är ett av världens mest innovativa länder och har förutsättningar att spela en central roll på detta område.
 
-Men efter årtionden av underfinansiering av försvaret \-inklusive militär forskning och utveckling \- har vi en teknikskuld.
+Men efter årtionden av underfinansiering av försvaret -inklusive militär forskning och utveckling - har vi en teknikskuld.
 
 Kriget i Ukraina visar varför den trenden måste brytas.
 
-Sverige måste bättre kunna utnyttja banbrytande civil teknologi för att stärka försvarsförmågan. Det handlar inte minst om användande av obemannade system i alla domäner, rymdbaserade tjänster och AI\-teknologi för planering och beslutsstöd.
+Sverige måste bättre kunna utnyttja banbrytande civil teknologi för att stärka försvarsförmågan. Det handlar inte minst om användande av obemannade system i alla domäner, rymdbaserade tjänster och AI-teknologi för planering och beslutsstöd.
 
 Därför presenterar regeringen idag en strategi för ökad försvarsinnovation. Målet är att Försvarsmakten ska vara teknologiskt överlägsen på framtidens slagfält genom att bättre kunna anpassa civil teknik till militär förmåga.
 

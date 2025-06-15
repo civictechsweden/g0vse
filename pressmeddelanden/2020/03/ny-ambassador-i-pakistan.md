@@ -1,6 +1,6 @@
 # Ny ambassadör i Pakistan
 
-Henrik Persson tjänstgör idag på utrikesdepartementets Asien\- och Oceanienenhet.
+Henrik Persson tjänstgör idag på utrikesdepartementets Asien- och Oceanienenhet.
 
 Han har tidigare varit chef för Business Sweden’s kontor i Taipei, Taiwan och innehaft uppdraget som samordnare av det statliga exportstödet till svensk försvarsindustri.
 

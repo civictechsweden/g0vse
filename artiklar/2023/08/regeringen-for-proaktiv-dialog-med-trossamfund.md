@@ -2,7 +2,6 @@
 
 Med anledning av den senaste tidens händelser bjöd socialminister Jakob Forssmed och utrikesminister Tobias Billström in företrädare för trossamfund i Sverige till ett samtal för att ta del av deras bild och tankar kring händelserna.
 
-
 På mötet idag deltog representanter från 14 olika samfund.
 
 – Det var ett bra möte med en uppriktig och varm dialog. Under mötet informerade vi om de åtgärder som regeringen vidtagit för att bemöta de förhöjda säkerhetsrisker som uppstått och för att garantera samhället säkerhet. Vi var tydliga med att regeringen starkt tar avstånd från de provokationer som bland annat inneburit att kopior av heliga skrifter har bränts. Samtidigt som vi betonade att yttrandefriheten också är central för religionsfriheten, säger socialminister Jakob Forssmed.

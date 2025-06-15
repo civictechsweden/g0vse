@@ -4,4 +4,4 @@ Regeringen ger i uppdrag till Statens medieråd att göra en kvalitativ studie a
 
 Syftet är att fylla en kunskapslucka i den befintliga forskningen på området, och därigenom bidra till ökad kunskap om pojkars och flickors villkor på nätet. Detta kan möjliggöra framtagande av bättre metoder och verktyg för att stärka barn och unga som medvetna medieanvändare.
 
-Uppdraget ska redovisas senast den 10 december 2013\.
+Uppdraget ska redovisas senast den 10 december 2013.

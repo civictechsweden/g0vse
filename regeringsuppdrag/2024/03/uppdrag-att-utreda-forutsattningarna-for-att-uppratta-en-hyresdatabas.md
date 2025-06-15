@@ -2,7 +2,6 @@
 
 Regeringen ger Statistiska centralbyrån (SCB) i uppdrag att utreda förutsättningarna för att upprätta en hyresdatabas för statistikproduktion av bostadshyror i hyresbostäder.
 
-
 SCB ska undersöka tekniska lösningar för hur uppgifter om bostadshyra kan
 inhämtas från Fastighetsägarna, Hyresgästföreningen och Sveriges
 Allmännytta (parterna på hyresmarknaden). Om det inte är möjligt att

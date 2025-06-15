@@ -8,4 +8,4 @@ Vidare lämnas förslag till författningsstöd för Försäkringskassan att åt
 
 I propositionen lämnas också förslag till ett förtydligande vad gäller rätten till jämställdhetsbonus och en komplettering till den nyligen införda lagstiftningen om vårdnadsbidrag.
 
-De nya bestämmelserna föreslås träda i kraft den 1 juli 2009\.
+De nya bestämmelserna föreslås träda i kraft den 1 juli 2009.

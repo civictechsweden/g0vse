@@ -1,7 +1,6 @@
 # EU-länderna överens om reformen av elmarknaden
 
-Vid mötet i energirådet 17 oktober kom rådet överens om ändringar i utformningen av EU:s elmarknad. Daniel Liljeberg, statssekreterare hos energi\- och näringsminister Ebba Busch, företrädde Sverige på mötet i Luxemburg.
-
+Vid mötet i energirådet 17 oktober kom rådet överens om ändringar i utformningen av EU:s elmarknad. Daniel Liljeberg, statssekreterare hos energi- och näringsminister Ebba Busch, företrädde Sverige på mötet i Luxemburg.
 
 ## Elmarknadsreform
 

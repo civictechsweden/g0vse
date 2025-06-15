@@ -4,4 +4,4 @@ I lagrådsremissen lämnas förslag som syftar till att utvidga förutsättninga
 
 Förslagen innebär att bestämmelsen i miljöbalken som anger att regeringen endast får tillåta en ny kärnkraftsreaktor om den ersätter en permanent avstängd reaktor och uppförs på en plats där någon av de befintliga reaktorerna är lokaliserad tas bort. Det ska vara möjligt att tillåta fler än tio reaktorer i drift samtidigt och på andra platser än tidigare. En följdändring föreslås i en bestämmelse i lagen om kärnteknisk verksamhet som innehåller en hänvisning till förbuden i miljöbalken. Övriga förutsättningar för anläggningar för kärnteknisk verksamhet och tillåtlighetsprövning av kärnkraftsreaktorer påverkas inte av förslagen.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

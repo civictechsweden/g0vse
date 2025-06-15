@@ -9,4 +9,4 @@ På Ekofinrådets möte den 13 juli 2021 finns följande punkter på dagordninge
 * Genomförandet av faciliteten för återhämtning och resiliens
 * (ev.) Rådets genomförandebeslut inom ramen för förordningen om faciliteten för återhämtning och resiliens
 * Den europeiska planeringsterminen 2021: slutsatser om 2021 års fördjupade granskningar
-* Uppföljning av G20\-mötet med finansministrar och centralbankschefer den 9–10 juli 2021
+* Uppföljning av G20-mötet med finansministrar och centralbankschefer den 9–10 juli 2021

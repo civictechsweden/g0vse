@@ -11,9 +11,8 @@ De strategiska målen, eller de fyra pelarna, omfattar
 * främjande av social dialog och trepartism, samt
 * respekt för och främjande av mänskliga rättigheter i arbetslivet.
 
-Främjande av jämställdhet mellan kvinnor och män samt icke\-diskriminering ska dessutom genomsyra de fyra strategiska målen.
+Främjande av jämställdhet mellan kvinnor och män samt icke-diskriminering ska dessutom genomsyra de fyra strategiska målen.
 
 Genom att anta deklarationen åtar sig därmed medlemsstaterna att främja och säkra sysselsättning, utveckla och förbättra åtgärder för social trygghet, främja samarbete mellan arbetsmarknadens parter och respektera och upprätthålla de grundläggande rättigheterna i arbetslivet.
-
 
 ILO:s deklaration återfinns i skrivelsen, se bilaga 1, i sin helhet på svenska och engelska.

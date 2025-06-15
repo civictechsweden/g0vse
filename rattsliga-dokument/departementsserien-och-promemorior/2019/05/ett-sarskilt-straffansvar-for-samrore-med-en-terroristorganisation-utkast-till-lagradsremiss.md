@@ -12,4 +12,4 @@ Straffskalan för brottet ska vara fängelse i högst två år eller, om brottet
 
 Därutöver föreslås att straffet för brottet olovlig värvning ska skärpas och vissa moderniseringar av den straffbestämmelsen.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2020\.
+Lagändringarna föreslås träda i kraft den 1 januari 2020.

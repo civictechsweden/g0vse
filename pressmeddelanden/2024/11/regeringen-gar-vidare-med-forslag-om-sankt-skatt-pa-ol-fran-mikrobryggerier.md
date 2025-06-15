@@ -6,9 +6,9 @@ I dag finns möjlighet att sänka alkoholskatten för oberoende småbryggerier e
 
 – Nu tar vi ytterligare ett steg mot ett friare och företagarvänligare Sverige. Genom sänkt skatt får de företagare som driver småbryggerierna bättre förutsättningar att växa, säger finansminister Elisabeth Svantesson.
 
-– Mikrobryggerier gör mer än att bara brygga öl; de skapar jobb och tillväxt i hela landet, stärker besöksnäringen och bidrar till en levande landsbygd. Genom att sänka alkoholskatten kan vi ge dessa engagerade företag bättre möjligheter att växa och utveckla vår fina ölkultur, säger Oscar Sjöstedt, ekonomisk\-politisk talesperson Sverigedemokraterna.
+– Mikrobryggerier gör mer än att bara brygga öl; de skapar jobb och tillväxt i hela landet, stärker besöksnäringen och bidrar till en levande landsbygd. Genom att sänka alkoholskatten kan vi ge dessa engagerade företag bättre möjligheter att växa och utveckla vår fina ölkultur, säger Oscar Sjöstedt, ekonomisk-politisk talesperson Sverigedemokraterna.
 
-– Det här är ett bra beslut för att göra Sverige till ett lite mer företagsvänligt land. Mikrobryggerier är små företag som möjliggör för fler jobb och kan bidra till turismen i Sverige. Nu ger vi dem bättre förutsättningar att växa, säger energi\- och näringsminister Ebba Busch.
+– Det här är ett bra beslut för att göra Sverige till ett lite mer företagsvänligt land. Mikrobryggerier är små företag som möjliggör för fler jobb och kan bidra till turismen i Sverige. Nu ger vi dem bättre förutsättningar att växa, säger energi- och näringsminister Ebba Busch.
 
 – Det här är ett väldigt välkommet besked. Det ger bryggerier möjlighet att fortsätta att utveckla sin verksamhet och även anställa fler duktiga hantverkare till företaget, säger av Louise Eklund, näringspolitisk talesperson Liberalerna.
 
@@ -16,4 +16,4 @@ För att omfattas av förslaget får producenten som mest producera 3 miljoner l
 
 Skattenedsättningen är kopplad till producentens årsproduktion. De minsta producenterna får 50 procents skattenedsättning och sedan minskar nedsättningen stegvis ju högre årsproduktionen är. Förslaget gäller drycker från både svenska och utländska producenter.
 
-Ändringarna föreslås träda i kraft den 1 juli 2025\.
+Ändringarna föreslås träda i kraft den 1 juli 2025.

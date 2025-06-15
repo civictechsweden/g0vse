@@ -1,7 +1,6 @@
 # Uppdrag att följa upp tillämpningen av Socialstyrelsens föreskrifter om besök i särskilda boendeformer för äldre under covid-19-pandemin
 
-Regeringen uppdrar åt Inspektionen för vård och omsorg (IVO) att följa upp tillämpningen av Socialstyrelsens föreskrifter om besök i särskilda boendeformer för äldre under covid\-19\-pandemin.
-
+Regeringen uppdrar åt Inspektionen för vård och omsorg (IVO) att följa upp tillämpningen av Socialstyrelsens föreskrifter om besök i särskilda boendeformer för äldre under covid-19-pandemin.
 
 I arbetet ska IVO samråda med Socialstyrelsen, Folkhälsomyndigheten, Sveriges Kommuner och Regioner, organisationer som företräder privata aktörer samt andra berörda.
 

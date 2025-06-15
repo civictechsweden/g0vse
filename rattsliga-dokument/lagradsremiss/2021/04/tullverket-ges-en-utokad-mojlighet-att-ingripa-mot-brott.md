@@ -8,4 +8,4 @@ Det föreslås också att en undersökningsledare i vissa fall ska kunna begära
 
 Därutöver föreslås att den som drabbas av en personskada eller en sakskada när en tjänsteman vid Tullverket använder fängsel i vissa fall ska ha rätt till ersättning enligt lagen om ersättning vid frihetsberövanden och andra tvångsåtgärder. Dessutom föreslås att möjligheten för en tulltjänsteman att i vissa fall använda sig av samma befogenheter som en polisman vid ingripanden enligt lagen om Tullverkets och Kustbevakningens befogenheter att ingripa mot rattfylleribrott utökas till situationer som rör fler brott än i dag.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2021\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2021.

@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om konsekvensanalyser inför migrationspolitiska beslut
 
-I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som framgår av Riksrevisionens rapport Konsekvensanalyser inför migrationspolitiska beslut (RiR 2017:25\).
+I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som framgår av Riksrevisionens rapport Konsekvensanalyser inför migrationspolitiska beslut (RiR 2017:25).
 
 Riksrevisionen anser att konsekvensanalyserna inför regeringens migrationspolitiska propositioner har haft brister. Riksrevisionen rekommenderar Regeringskansliet att bland annat utveckla kvaliteten i analyserna.
 

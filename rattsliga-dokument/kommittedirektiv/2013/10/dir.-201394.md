@@ -7,4 +7,4 @@ Utredaren ska bl.a.
 • inom ramen för det nya personalförsörjningssystemet analysera och föreslå hur försvarets folkförankring kan säkerställas,
 • analysera hur det civila meritvärdet för militär anställning och utbildning kan öka, och
 • klarlägga förutsättningarna enligt dagens regelverk för att öka hemvärnets tillgänglighet i fredstid.
-Uppdraget ska redovisas senast den 1 november 2014\.
+Uppdraget ska redovisas senast den 1 november 2014.

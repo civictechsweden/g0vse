@@ -9,4 +9,4 @@ Utredaren ska bland annat
 * ta ställning till när ett förtroendeuppdrag som inte kan likställas med förvärvsarbete i arbetslöshetsförsäkringen kan utgöra hinder för att stå till arbetsmarknadens förfogande,
 * föreslå lämplig form av eventuell reglering samt utarbeta nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 4 juli 2011\.
+Uppdraget ska redovisas senast den 4 juli 2011.

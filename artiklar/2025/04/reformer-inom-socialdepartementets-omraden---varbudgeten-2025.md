@@ -1,6 +1,6 @@
 # Reformer inom Socialdepartementets områden - Vårbudgeten 2025
 
-I regeringens vårproposition för 2024 finns flera förslag som rör Socialdepartementets områden. Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna. Den 15 april överlämnas regeringens vårbudget för 2025 till riksdagen.
+I regeringens vårproposition för 2025 finns flera förslag som rör Socialdepartementets områden. Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna. Den 15 april överlämnas regeringens vårbudget för 2025 till riksdagen.
 
 ## En halv miljard kronor i förstärkt satsning på den specialiserade psykiatriska vården under 2025
 

@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Statskontoret att göra en myndighetsanalys av Arvsfondsdelegationen.
 
-
 Statskontoret ska:
 
 * analysera hur Arvsfondsdelegationen fullgör sitt uppdrag,
@@ -11,4 +10,4 @@ Statskontoret ska:
 * analysera om, och i så fall vilka, andra förutsättningar som kan behövas för att uppdraget ska kunna genomföras så effektivt som möjligt, och
 * lämna en redogörelse som ska utgöra ett underlag i regeringens bedömning av om styrningen är ändamålsenlig.
 
-Uppdraget ska redovisas till regeringen senast den 30 november 2017\.
+Uppdraget ska redovisas till regeringen senast den 30 november 2017.

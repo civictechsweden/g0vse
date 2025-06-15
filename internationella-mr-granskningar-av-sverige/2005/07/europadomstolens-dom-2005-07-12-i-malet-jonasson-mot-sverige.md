@@ -2,7 +2,6 @@
 
 Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.
 
-
 ### Sammanfattning av domen
 
 Bakgrunden till målet var att klaganden, som var anställd som kock på en flygplatsrestaurang med behörighet att vistas inom känsliga områden på flygplatsen, vid en säkerhetsprövning utförd av Luftfartsverket bedömdes som olämplig ur säkerhetssynpunkt med följden att arbetsgivaren såg sig tvingad att säga upp honom. Arbetsdomstolen kom fram till att arbetsgivaren varit skyldig att rätta sig efter beslutet och därmed haft saklig grund för uppsägningen.

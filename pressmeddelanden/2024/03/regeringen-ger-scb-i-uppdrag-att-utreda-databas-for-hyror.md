@@ -1,6 +1,6 @@
 # Regeringen ger SCB i uppdrag att utreda databas för hyror
 
-– Regeringen bedömer att det finns ett behov av tydligare transparens på hyresmarknaden. Statistik över bostadshyror kan skapa bättre möjligheter att analysera bostadsmarknadens funktionssätt, utvärdera politiska reformer och ge bättre information till konsumenter, säger infrastruktur\- och bostadsminister Andreas Carlson.
+– Regeringen bedömer att det finns ett behov av tydligare transparens på hyresmarknaden. Statistik över bostadshyror kan skapa bättre möjligheter att analysera bostadsmarknadens funktionssätt, utvärdera politiska reformer och ge bättre information till konsumenter, säger infrastruktur- och bostadsminister Andreas Carlson.
 
 Statistiska centralbyrån (SCB) får i uppdrag att utreda förutsättningarna för att upprätta en hyresdatabas för statistikproduktion av bostadshyror i hyresbostäder.
 

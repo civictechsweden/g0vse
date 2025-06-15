@@ -1,4 +1,6 @@
-# Veterandagen 29 maj 2025 – Tal av statsministern
+# Tal av statsminister Ulf Kristersson vid Veterandagen 2025
+
+Statsminister Ulf Kristersson talade den 29 maj 2025 vid högtidlighållandet av Veterandagen på Sjöhistoriska museet i Stockholm.
 
 Det talade ordet gäller.
 

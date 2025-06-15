@@ -1,13 +1,12 @@
 # Remiss av utkast till förordning om Eko-bonussystem
 
-Här är de instanser som regeringen remitterat utkastet till förordning om Eko\-bonussystem. Remissvaren ska ha kommit in till Näringsdepartementet senast den 18 april 2018\.
-
+Här är de instanser som regeringen remitterat utkastet till förordning om Eko-bonussystem. Remissvaren ska ha kommit in till Näringsdepartementet senast den 18 april 2018.
 
 Remissinstanser
 
 1 Förvaltningsrätten i Göteborg
 2 Forskningsrådet för miljö, areella näringar och samhällsbyggande
-3 Havs\- och vattenmyndigheten
+3 Havs- och vattenmyndigheten
 4 Initiativet Fossilfritt Sverige
 5 Konjunkturinstitutet
 6 Konkurrensverket
@@ -21,11 +20,11 @@ Remissinstanser
 14 Trafik.analys
 15 Trafik.verket
 16 Transportstyrelsen
-17 VTI, Statens väg\- och transportforskningsinstitut
+17 VTI, Statens väg- och transportforskningsinstitut
 18 Delegationen för sjöfartsstöd
 19 Havsmiljöinstitutet i Göteborg
 20 IVL, Svenska Miljöinstitutet
-21 Luftförorenings\- och klimatsekretariatet (AirClim)
+21 Luftförorenings- och klimatsekretariatet (AirClim)
 22 Maritimt forum
 23 Näringslivets regelnämnd
 24 Seko

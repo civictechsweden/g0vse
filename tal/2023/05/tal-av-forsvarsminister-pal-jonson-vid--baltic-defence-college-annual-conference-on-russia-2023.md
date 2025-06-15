@@ -1,9 +1,8 @@
 # Tal av försvarsminister Pål Jonson vid  Baltic Defence College Annual Conference on Russia 2023
 
-Tartu i Estland, 2 mars 2023\.
+Tartu i Estland, 2 mars 2023.
 
 Det talade ordet gäller.
-
 
 Dear colleagues,
 
@@ -15,25 +14,25 @@ Russia’s gradually stepped up its great power rhetoric in early 2021, as Russi
 
 And today, Putin’s war rages on with no end in sight. Despite heavy losses of personnel and equipment there are no signs that Russia has changed its strategic objective to dominate Ukraine in blatant contravention of international law.
 
-This will have severe and lasting consequences for the European security landscape. And we must be mindful that we are in the midst of a process of structural change, and have humility as we face an unknown future. Whatever it may hold, the world will not be as we knew it before 24 February 2022\. Russia’s war against Ukraine will leave its mark on European security for generations to come. But now is the time for us to act. We are shaping our future today and we must do so in the best possible way.
+This will have severe and lasting consequences for the European security landscape. And we must be mindful that we are in the midst of a process of structural change, and have humility as we face an unknown future. Whatever it may hold, the world will not be as we knew it before 24 February 2022. Russia’s war against Ukraine will leave its mark on European security for generations to come. But now is the time for us to act. We are shaping our future today and we must do so in the best possible way.
 
 In my remarks today, I will focus on the developments leading up to the war, the Russia we are facing today and what actions we – the international community – are taking.
 
-First of all, we are facing a revisionist and increasingly authoritarian Russia that is eager to change the status quo of the post\-Cold War era. This has been clear from the beginning. Shortly after his accession to power in 2000, Putin began imposing limits on freedom of speech and increasing state control over civil society. Over the past 15 years, Russia has invested heavily investment in its military capability and the state security apparatus – resulting in greater control over its population and an enhanced military posture and threat to its neighbours. Putin and his entourage have chosen to use military force as a means to restore Russia’s status as a great power – or at least a ‘light’ version of the Russian or Soviet Empire.
+First of all, we are facing a revisionist and increasingly authoritarian Russia that is eager to change the status quo of the post-Cold War era. This has been clear from the beginning. Shortly after his accession to power in 2000, Putin began imposing limits on freedom of speech and increasing state control over civil society. Over the past 15 years, Russia has invested heavily investment in its military capability and the state security apparatus – resulting in greater control over its population and an enhanced military posture and threat to its neighbours. Putin and his entourage have chosen to use military force as a means to restore Russia’s status as a great power – or at least a ‘light’ version of the Russian or Soviet Empire.
 
 Internally, the situation has deteriorated significantly in a shift from domestic deterrence to structural repression that has severely limited political pluralism. Space for independent civil society has been gradually shrinking. Freedom of speech has been curtailed, and many young and skilled people have emigrated to make a better living elsewhere. At the top of the Russian power vertical sits an ageing leadership whose primary goal is to remain in power. It is a leadership that is unable to offer its people hope for the future and can only offer up false memories of a glorious past.
 
 Russia’s elite dare not risk embarking on either political reform, lest their power be jeopardised, or economic reform, as the wealth of the country is consolidated in the hands of a few. The situation is strikingly similar to that of the 1980s, when the Soviet Union was a gerontocracy mired in stagnation.
 
-Russia’s strategic objectives are two\-fold: to be recognised as a great power having a sphere of influence, and international acceptance of the Russian political system as equal to liberal democracies. Therefore, a successful, democratic and prosperous Ukraine is a threat to the Russian regime, as it would set an unacceptable example for the Russian people. If change is possible in Ukraine, it is possible in Russia. Putin already understood this in 2013\.
+Russia’s strategic objectives are two-fold: to be recognised as a great power having a sphere of influence, and international acceptance of the Russian political system as equal to liberal democracies. Therefore, a successful, democratic and prosperous Ukraine is a threat to the Russian regime, as it would set an unacceptable example for the Russian people. If change is possible in Ukraine, it is possible in Russia. Putin already understood this in 2013.
 
 So, what are we facing today?
 
-Today we are facing an unstable, unpredictable and dangerous security situation in Europe. A peaceful democratic country has fallen victim to Russia’s great power ambitions and its attempts to veto other states’ political decision\-making. Russia’s denial of Ukraine’s right to exist as a sovereign state is a shameless violation of international law.
+Today we are facing an unstable, unpredictable and dangerous security situation in Europe. A peaceful democratic country has fallen victim to Russia’s great power ambitions and its attempts to veto other states’ political decision-making. Russia’s denial of Ukraine’s right to exist as a sovereign state is a shameless violation of international law.
 
-Russia’s efforts to undermine the international rules\-based order extend beyond its war in Ukraine. Russia pursues its global ambitions through its actions in the UN, through interference and influence operations in other countries, by employing private military companies such as the Wagner group, by providing support to the Syrian regime and by delivering arms to states in Africa, Latin America and Asia. And those states are, for the most part, unwilling to condemn Russia’s aggression against Ukraine, which is the latest example of Russia’s bullying and blatant contempt for international peace and security.
+Russia’s efforts to undermine the international rules-based order extend beyond its war in Ukraine. Russia pursues its global ambitions through its actions in the UN, through interference and influence operations in other countries, by employing private military companies such as the Wagner group, by providing support to the Syrian regime and by delivering arms to states in Africa, Latin America and Asia. And those states are, for the most part, unwilling to condemn Russia’s aggression against Ukraine, which is the latest example of Russia’s bullying and blatant contempt for international peace and security.
 
-Developments in Ukraine are critical to European security. Regardless of the outcome, however, Russia will be economically and militarily weakened. Its western\-facing military units are largely depleted of personnel and equipment. Russia’s military capability will therefore be limited for the foreseeable future, so we can expect Russia to pursue non\-linear methods to achieve its political aims. This may include information campaigns to influence public opinion and political decision\-making, blackmailing and sabotage. Russia has also repeatedly threatened to use nuclear weapons. This is unacceptable.
+Developments in Ukraine are critical to European security. Regardless of the outcome, however, Russia will be economically and militarily weakened. Its western-facing military units are largely depleted of personnel and equipment. Russia’s military capability will therefore be limited for the foreseeable future, so we can expect Russia to pursue non-linear methods to achieve its political aims. This may include information campaigns to influence public opinion and political decision-making, blackmailing and sabotage. Russia has also repeatedly threatened to use nuclear weapons. This is unacceptable.
 
 What can we do about it and what are the wider implications?
 
@@ -55,7 +54,7 @@ What is the outlook?
 
 We must prepare for a long war. As I mentioned earlier, there is no indication that Russia will abandon its strategic objectives, and this will put our endurance and resolve to the test. Western countries have thus far performed well in providing support to Ukraine, but we must understand that we are in it for the long run. We must continue to donate equipment and sustainably increase defence industry output to provide weapons and munitions to Ukraine. Training of Ukrainian personnel will also remain an important task.
 
-Russia has thus far failed to achieve its strategic objectives. Events have taken a far different turn than Russia intended. Instead of subjugating Ukraine and wiping out Ukrainian national consciousness, Russia’s full\-scale invasion has been Ukraine’s defining moment as a sovereign state.
+Russia has thus far failed to achieve its strategic objectives. Events have taken a far different turn than Russia intended. Instead of subjugating Ukraine and wiping out Ukrainian national consciousness, Russia’s full-scale invasion has been Ukraine’s defining moment as a sovereign state.
 
 Russia’s leadership has thus far failed in what it sought to achieve by using military force against Ukraine. It has also gone from being a country with difficult relations with the West to what the West now considers a pariah state. Russia is increasingly turning to North Korea, Iran and China to do business.
 

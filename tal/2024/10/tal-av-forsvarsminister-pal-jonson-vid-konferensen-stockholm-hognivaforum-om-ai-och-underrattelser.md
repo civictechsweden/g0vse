@@ -1,11 +1,10 @@
 # Tal av försvarsminister Pål Jonson vid konferensen Stockholm högnivåforum om AI och underrättelser
 
-Försvarshögskolan, Stockholm, den 24 september 2024\.
+Försvarshögskolan, Stockholm, den 24 september 2024.
 
 Det talade ordet gäller. Se talet på engelska nedan.
 
-
-Ladies and Gentlemen, Recorded Future and the Swedish Defence University \- thank you for the opportunity to attend this conference.
+Ladies and Gentlemen, Recorded Future and the Swedish Defence University - thank you for the opportunity to attend this conference.
 
 I am very impressed to see that we can gather both the government resources and the private sector in one conference. I would in particular extend my gratitude for their effort to make this happen to Sir Alex Younger, Dr. Staffan Truvé and Lars Hedström.
 
@@ -13,7 +12,7 @@ I had hoped to be able to partake in the conference and listen to your knowledge
 
 ### Security Situation
 
-All of us in this room are aware of the drastic negative effect the Russian full\-scale invasion of Ukraine in 2022 has had on the European security situation.
+All of us in this room are aware of the drastic negative effect the Russian full-scale invasion of Ukraine in 2022 has had on the European security situation.
 
 The security situation in Europe has deteriorated and hybrid threats is a key security challenge in the region. We do have experience in Sweden of both Chinese attempts to influence decision making, as well as disinformation campaigns by various actors connected to cases of Quran burning. But the main hybrid threat actor in our region is of course Russia.
 
@@ -25,9 +24,9 @@ The intelligence community has an obvious core role to play in connecting the do
 
 The last decade has been a decade of exponential development within the information technology and the importance of information. With so much expertise in the room I will not dwell on this but only state the fact.
 
-This has led to an importance change for the Intelligence Community. For decades the Intelligence Community was in the fore front in information management and technology. They were the top tier in developing innovative and cutting\-edge tools and crafts for discovering, developing and disseminating information.
+This has led to an importance change for the Intelligence Community. For decades the Intelligence Community was in the fore front in information management and technology. They were the top tier in developing innovative and cutting-edge tools and crafts for discovering, developing and disseminating information.
 
-The Intelligence Community is suited to be a great partner to the private industry. The Intelligence Community has vast experience in information management. They have for decades traded in the currency \- information. One could say that until big data, machine learning and AI the Intelligence Community extracted every ounce of value from their information by hand.
+The Intelligence Community is suited to be a great partner to the private industry. The Intelligence Community has vast experience in information management. They have for decades traded in the currency - information. One could say that until big data, machine learning and AI the Intelligence Community extracted every ounce of value from their information by hand.
 
 Now the information technology is no longer developing – it is racing with explosive speed. And the Intelligence Community is no longer the top tier, not even by far. Instead, the private sector is in lead.
 
@@ -65,11 +64,11 @@ So basically, AI is not protected from turning up as a tin foiled hat algorithm.
 
 So far, the Intelligence Community have to some degree been able to introduce AI in their own secure systems where they can let AI deduce from their controlled verified information from their own sensors. Now most of the information exists outside the community´s sensor system. This calls for change.
 
-Computing power and high\-speed development creates a dependency to be connected to the cloud. This calls for a change from high security networks and secluded information towards cloud dependency, closed information systems and mowing to some form of Cloud solution. Some allies have done it.
+Computing power and high-speed development creates a dependency to be connected to the cloud. This calls for a change from high security networks and secluded information towards cloud dependency, closed information systems and mowing to some form of Cloud solution. Some allies have done it.
 
 The business model for the private sector in information technology is often based on access to their client’s data bases. And the Intelligence Community are reluctant to do that very thing. The IC cannot sell its information or most of its methods. But we need to find a partnership. This is a challenge.
 
-We can already see the results of AI on the battle ground in Ukraine. And we are already seeing cheap fake disinformation in the democratic elections in Europe and the US. Almost everyone can create a large\-scale information operation today.
+We can already see the results of AI on the battle ground in Ukraine. And we are already seeing cheap fake disinformation in the democratic elections in Europe and the US. Almost everyone can create a large-scale information operation today.
 
 The protection against the backside of the AI development is in Cyber Security. Last Wednesday the Swedish Government presented the largest cyber security investment ever with a package of approximately 200 million SEK. The government is also investing substantially in cyber defense and the development of our Intelligence Agencies.
 

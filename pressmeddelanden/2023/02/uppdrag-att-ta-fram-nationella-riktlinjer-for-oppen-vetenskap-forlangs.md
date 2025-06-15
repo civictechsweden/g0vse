@@ -6,4 +6,4 @@ Kungl. biblioteket inledde arbetet i höstas, men efter den inledande dialogen m
 
 – Öppen vetenskap ökar tillgängligheten till både forskningspublikationer och data, vilket bidrar till nya framsteg inom forskning och innovation. De nationella riktlinjerna som Kungl. biblioteket ska ta fram behöver vara väl förankrade hos berörda aktörer och därför måste det finnas tillräckligt med tid för en sådan process, säger utbildningsminister Mats Persson.
 
-Uppdraget ska redovisas senast den 15 januari 2024\.
+Uppdraget ska redovisas senast den 15 januari 2024.

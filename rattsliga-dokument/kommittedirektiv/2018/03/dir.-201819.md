@@ -1,6 +1,6 @@
 # Demokrativillkoren i statlig bidragsgivning
 
-En särskild utredare ska se över demokrativillkoren i statsbidragsförordningar och tillämpningen av dessa villkor. Syftet med översynen är att säkerställa att allmänna medel går till verksamheter som är förenliga med samhällets grundläggande värderingar såsom de formuleras i regeringsformen och i de internationella konventionerna om mänskliga rättigheter. Uppdraget ska redovisas senast den 20 juni 2019\.
+En särskild utredare ska se över demokrativillkoren i statsbidragsförordningar och tillämpningen av dessa villkor. Syftet med översynen är att säkerställa att allmänna medel går till verksamheter som är förenliga med samhällets grundläggande värderingar såsom de formuleras i regeringsformen och i de internationella konventionerna om mänskliga rättigheter. Uppdraget ska redovisas senast den 20 juni 2019.
 
 Utredaren ska bl.a.
 

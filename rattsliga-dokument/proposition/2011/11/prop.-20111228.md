@@ -6,4 +6,4 @@ I propositionen föreslås det även vissa ändringar i fråga om avräkningen m
 
 I propositionen behandlas också frågan om rättigheter och skydd för den enskilde vid tillhandahållande av tjänster i offentlig verksamhet. Regeringen redovisar vidtagna och planerade åtgärder. Också behovet av att utvidga konsumenttjänstlagen till att omfatta ytterligare tjänster tas upp.
 
-Lagändringarna föreslås träda i kraft den 1 mars 2012\.
+Lagändringarna föreslås träda i kraft den 1 mars 2012.

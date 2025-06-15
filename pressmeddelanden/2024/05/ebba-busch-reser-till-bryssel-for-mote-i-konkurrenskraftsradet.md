@@ -1,6 +1,6 @@
 # Ebba Busch reser till Bryssel för möte i konkurrenskraftsrådet
 
-Rådsslutsatserna är inte rättsligt bindande men innebär en politisk viljeyttring om den framtida inriktningen på området. Rådsslutsatserna ska fungera som ett inspel från medlemsländerna till den strategiska agendan, som tas fram vart femte år i samband med att det är val till Europaparlamentet och en ny EU\-kommission ska utses. Den strategiska agendan som antas i juni ska fastställa EU:s mål, inriktning och politiska prioriteringar för perioden 2024–2029\.
+Rådsslutsatserna är inte rättsligt bindande men innebär en politisk viljeyttring om den framtida inriktningen på området. Rådsslutsatserna ska fungera som ett inspel från medlemsländerna till den strategiska agendan, som tas fram vart femte år i samband med att det är val till Europaparlamentet och en ny EU-kommission ska utses. Den strategiska agendan som antas i juni ska fastställa EU:s mål, inriktning och politiska prioriteringar för perioden 2024–2029.
 
 Rådsslutsatserna om EU:s industripolitik pekar särskilt ut fem prioriterade områden. Bland annat handlar det om genomförandet av den gröna och digitala omställningen samt kopplingen mellan forskning och industri och en ökad innovationsförmåga.
 

@@ -4,6 +4,6 @@ I regeringens nationella strategi mot organiserad brottslighet är en tydlig må
 
 I fokus för dagens möte står kriminellas tillgång till illegala vapen och vapendelar och vilka åtgärder som behövs för att minska den såväl nationellt som internationellt.
 
-Dagens möte blir det tionde i ordningen sedan rådet inrättades i december 2022\.
+Dagens möte blir det tionde i ordningen sedan rådet inrättades i december 2022.
 
 För mer information om mötet och möjlighet till intervju, kontakta pressekreterare.

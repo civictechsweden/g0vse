@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen att kartlägga och analysera varför antalet vräkningar av barnfamiljer har ökat under senare år.
 
-
 Socialstyrelsen ska:
 
 * redovisa hur olika kommuner arbetar för att förebygga vräkningar och vilka åtgärder som vidtas efter en genomförd vräkning. Detta med särskild hänsyn till barnperspektivet,

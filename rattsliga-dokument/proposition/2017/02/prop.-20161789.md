@@ -6,6 +6,6 @@ Syftet med den nya lagen är att ge Skatteverket möjlighet att behandla personu
 
 Lagen har utformats i nära anslutning till polisdatalagen, kustbevakningsdatalagen och åklagardatalagen. Lagen ska ersätta lagen om behandling av personuppgifter vid Skatteverkets medverkan i brottsutredningar.
 
-I propositionen föreslås också att Skatteverkets brottsbekämpande verksamhet ska utökas till att omfatta bedrägerier i ROT\- och RUT\-systemet. Det föreslås även vissa andra lagändringar av enklare karaktär.
+I propositionen föreslås också att Skatteverkets brottsbekämpande verksamhet ska utökas till att omfatta bedrägerier i ROT- och RUT-systemet. Det föreslås även vissa andra lagändringar av enklare karaktär.
 
-Den nya lagen och de övriga ändringarna föreslås träda i kraft den 1 juli 2017\.
+Den nya lagen och de övriga ändringarna föreslås träda i kraft den 1 juli 2017.

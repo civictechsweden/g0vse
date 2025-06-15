@@ -1,7 +1,6 @@
 # Remiss av förslag till ändring av förordningen om vägtrafikregister
 
-Här är de instanser som regeringen remitterat förslag till ändring av förordningen om vägtrafikregister. Remissvaren ska ha kommit in till Näringsdepartementet senast den 27 april 2018\.
-
+Här är de instanser som regeringen remitterat förslag till ändring av förordningen om vägtrafikregister. Remissvaren ska ha kommit in till Näringsdepartementet senast den 27 april 2018.
 
 Remissinstanser
 

@@ -2,10 +2,9 @@
 
 Regeringen uppdrar åt Folkhälsomyndigheten att samordna arbetet med att genomföra en svensk Joint External Evaluation, (JEE).
 
-
 I uppdraget ingår:
 
-* att leda koordineringen av det multisektoriella förarbetet med att utefter JEE\-verktyget självutvärdera och sammanställa Sveriges beredskap mot gränsöverskridande hälsohot, och
+* att leda koordineringen av det multisektoriella förarbetet med att utefter JEE-verktyget självutvärdera och sammanställa Sveriges beredskap mot gränsöverskridande hälsohot, och
 * att organisera den veckolånga externa utvärderingen med experter i samråd med Världshälsoorganisationen (WHO) och Regeringskansliet.
 
 Folkhälsomyndigheten ska senast den 31 mars 2021 redovisa uppdraget till Socialdepartementet.

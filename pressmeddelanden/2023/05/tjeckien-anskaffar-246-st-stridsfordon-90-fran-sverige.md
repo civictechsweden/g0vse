@@ -4,8 +4,8 @@
 
 ## Fler avtal tecknas
 
-Affären genomförs i ett mellanstatligt upplägg där en övergripande avsiktsförklaring om samarbete inom stridsfordonsområdet tidigare har tecknats mellan Tjeckien, Försvarets materielverk (FMV) och BAE Hägglunds. Vidare har en mellanstatlig överenskommelse tecknats av Försvarets materielverk (FMV) om bland annat stöd under leveransskedet samt erfarenhetsutbyte och samarbete gällande utbildning, nyttjande, drift och fortsatt utveckling av stridsfordon 90\-systemet.
+Affären genomförs i ett mellanstatligt upplägg där en övergripande avsiktsförklaring om samarbete inom stridsfordonsområdet tidigare har tecknats mellan Tjeckien, Försvarets materielverk (FMV) och BAE Hägglunds. Vidare har en mellanstatlig överenskommelse tecknats av Försvarets materielverk (FMV) om bland annat stöd under leveransskedet samt erfarenhetsutbyte och samarbete gällande utbildning, nyttjande, drift och fortsatt utveckling av stridsfordon 90-systemet.
 
-Sedan 2002 finns ett bilateralt samförståndsavtal, Memorandum of Understanding, MoU, med Tjeckien om samarbete på försvarsområdet (SÖ 2004:50\).
+Sedan 2002 finns ett bilateralt samförståndsavtal, Memorandum of Understanding, MoU, med Tjeckien om samarbete på försvarsområdet (SÖ 2004:50).
 
 Avtalen rörande leverans och mellanstatligt samarbete av CV90 undertecknades av Tjeckien, FMV och BAE Systems Hägglunds den 24 maj.

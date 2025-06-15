@@ -2,7 +2,6 @@
 
 Regeringen ger Trafikverket i uppdrag att redogöra för de rutiner och metoder myndigheten tillämpar i sin samverkan med underhållsleverantörer för att hantera störningar i järnvägssystemet och säkerställa en snabb återgång till normal drift. I uppdraget ingår att redogöra för hur dessa rutiner och metoder kan utvecklas.
 
-
 Trafikverket ska redogöra för hur befintliga rutiner och metoder ytterligare kan utvecklas för att minimera tiden för en återgång till normal drift efter en störning. Trafikverket ska vidare redogöra för vilka inställelsetider som har avtalats med leverantörer vid störningar i järnvägssystemet, en bedömning av hur de faktiska inställelsetiderna är och för om dessa tider bör kortas för att få en snabbare återgång till normal drift.
 
 Trafikverket ska vidare redogöra för de ekonomiska konsekvenserna av beskrivna förändringar inklusive en bedömning av den samhällsekonomiska nyttan.

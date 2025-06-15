@@ -2,10 +2,9 @@
 
 Regeringen uppdrar åt Statskontoret att analysera Socialstyrelsen samt föreslå åtgärder.
 
-
 Statskontoret ska beskriva, analysera och bedöma:
 
-* Socialstyrelsens kärnuppdrag samt vilka uppgifter och omvärldsförändringar av vikt för myndigheten som har tillkommit sedan 2011\.
+* Socialstyrelsens kärnuppdrag samt vilka uppgifter och omvärldsförändringar av vikt för myndigheten som har tillkommit sedan 2011.
 * Ändamålsenligheten och effektiviteten i myndighetens interna styrning och uppföljning.
 * Om gränsdragningen av myndighetens uppgifter i förhållande till andra myndigheter med närliggande uppgifter är ändamålsenlig.
 * Ändamålsenligheten i organisering och utformning av de särskilda organ som inryms i myndigheten, samt de verksamheter i myndighetens organisation som regleras av regeringen.

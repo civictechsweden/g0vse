@@ -1,6 +1,6 @@
 # Miljöbalkens försäkringar och avhjälpande av förorenade områden m.m.
 
-I propositionen föreslås den lagändring som behövs för att avskaffa miljöskadeförsäkringen och saneringsförsäkringen. Lagändringen föreslås träda i kraft vid utgången av 2009\.
+I propositionen föreslås den lagändring som behövs för att avskaffa miljöskadeförsäkringen och saneringsförsäkringen. Lagändringen föreslås träda i kraft vid utgången av 2009.
 
 Organisationen för de statliga insatserna i fråga om att efterbehandla förorenade områden är splittrad. Det försvårar kunskapsuppbyggnaden, innebär att värdefull kunskap inte kan nyttjas till fullo och gör att arbetet i vissa fall går långsamt. I dag saknas det ett system för hur staten som verksamhetsutövare ska kunna ta sitt avhjälpandeansvar i enlighet med miljöbalkens regler. Regeringen redovisar därför planerade åtgärder som syftar till att förtydliga ansvarsfördelningen och den statliga organisationen för avhjälpande av förorenade områden.
 

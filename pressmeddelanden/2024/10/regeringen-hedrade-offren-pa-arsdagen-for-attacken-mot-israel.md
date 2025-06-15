@@ -4,6 +4,6 @@ Statsminister Ulf Kristersson höll ett tal under ceremonin. Han talade bland an
 
 Talade gjorde även Aron Verständig, ordförande för Judiska Centralrådet och Ziv Nevo Kulman, Israels ambassadör i Sverige.
 
-Från regeringen deltog också energi\- och näringsminister Ebba Busch, utrikesminister Maria Malmer Stenergard, migrationsminister Johan Forssell, jämställdhets\- och arbetslivsminister Paulina Brandberg och ministern för civilt försvar Carl Oskar Bohlin.
+Från regeringen deltog också energi- och näringsminister Ebba Busch, utrikesminister Maria Malmer Stenergard, migrationsminister Johan Forssell, jämställdhets- och arbetslivsminister Paulina Brandberg och ministern för civilt försvar Carl Oskar Bohlin.
 
 Ceremonin arrangerades av Judiska Församlingen i Stockholm och Israels ambassad i Sverige.

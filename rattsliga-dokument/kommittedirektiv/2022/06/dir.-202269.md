@@ -1,6 +1,6 @@
 # En skärpt miljöstraffrätt och en stärkt miljöbrottsbekämpning
 
-En särskild utredare ges i uppdrag att se över sanktionssystemet i miljöbalken och hur miljöbrottsbekämpningen kan stärkas. Uppdraget ska redovisas senast den 21 december 2023\.
+En särskild utredare ges i uppdrag att se över sanktionssystemet i miljöbalken och hur miljöbrottsbekämpningen kan stärkas. Uppdraget ska redovisas senast den 21 december 2023.
 
 Översynen ska syfta till att säkerställa att det miljörättsliga sanktionssystemet är effektivt och att samhällets möjligheter att förebygga, upptäcka, utreda och lagföra överträdelser av miljölagstiftningen förbättras. Utredaren ska vid utförandet av uppdraget särskilt beakta de utmaningar som följer av att den organiserade brottsligheten har ökat sin närvaro på miljöområdet.
 
@@ -12,4 +12,4 @@ Utredaren ska bl.a.
 * föreslå åtgärder som förebygger brottslig verksamhet på avfallsområdet,
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 21 december 2023\.
+Uppdraget ska redovisas senast den 21 december 2023.

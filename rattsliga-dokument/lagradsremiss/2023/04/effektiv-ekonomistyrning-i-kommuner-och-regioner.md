@@ -10,4 +10,4 @@ Regeringens förslag syftar till att främja en effektiv ekonomistyrning i kommu
 
 Det föreslås slutligen att en felaktig hänvisning i en bestämmelse i 7 kap. kommunallagen ska rättas.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

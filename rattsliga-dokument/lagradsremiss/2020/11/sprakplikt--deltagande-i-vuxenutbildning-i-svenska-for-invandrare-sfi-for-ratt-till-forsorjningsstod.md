@@ -8,6 +8,6 @@ Om det finns godtagbara skäl har den enskilde rätt till försörjningsstöd ä
 
 Meningen är att göra det tydligt hur viktigt det är att vara med i språkutbildningen. Detta för att förbättra möjligheten att få arbete och etableras i Sverige.
 
-Lagändringen föreslås träda i kraft den 1 april 2021\.
+Lagändringen föreslås träda i kraft den 1 april 2021.
 
 Lagrådsremissen bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.

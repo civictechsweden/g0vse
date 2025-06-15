@@ -4,4 +4,4 @@ I propositionen föreslås åtgärder för att genomföra Europaparlamentets och
 
 För att genomföra direktivet föreslås en ny horisontell lag om tjänster på den inre marknaden som tar upp bestämmelser om gemensamma kontaktpunkter, förfarandet vid tillståndsprövning, samarbete mellan myndigheter, information från tjänsteleverantörer, klagomålshantering samt diskriminerande villkor. Därutöver föreslås lagändringar eller nya bestämmelser inom de tjänsteområden som berörs av direktivets tillämpningsområde.
 
-Lagförslagen föreslås träda i kraft den 27 december 2009\.
+Lagförslagen föreslås träda i kraft den 27 december 2009.

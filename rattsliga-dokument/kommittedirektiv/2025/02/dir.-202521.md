@@ -10,4 +10,4 @@ Utredaren ska bl.a.
   direktivet, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 27 maj 2026.
+ Uppdraget ska redovisas senast den 27 maj 2026.

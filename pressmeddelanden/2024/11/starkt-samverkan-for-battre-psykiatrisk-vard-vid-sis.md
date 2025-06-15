@@ -4,6 +4,6 @@
 
 – Det här arbetet är av stor betydelse för att förbättra omhändertagandet för de barn på SiS ungdomshem som förutom sociala vårdbehov också har stora behov av psykiatrisk vård. Insatserna behöver ske integrerat och i samverkan för att möta behoven hos dessa barn, säger socialminister Jakob Forssmed.
 
-Uppdraget ska bidra till långsiktigt hållbara samverkansformer för SiS särskilda ungdomshem och barn\- och ungdomspsykiatrin. Uppdraget innebär att SiS tillsammans med deltagande regioner och med stöd av Socialstyrelsen ska fortsätta och intensifiera det arbete med integrerad vård som påbörjades 2021 och som syftar till att barn som vårdas på SiS och som har både sociala och stora psykiatriska vårdbehov ska få sina behov tillgodosedda på ett sammanhållet sätt.
+Uppdraget ska bidra till långsiktigt hållbara samverkansformer för SiS särskilda ungdomshem och barn- och ungdomspsykiatrin. Uppdraget innebär att SiS tillsammans med deltagande regioner och med stöd av Socialstyrelsen ska fortsätta och intensifiera det arbete med integrerad vård som påbörjades 2021 och som syftar till att barn som vårdas på SiS och som har både sociala och stora psykiatriska vårdbehov ska få sina behov tillgodosedda på ett sammanhållet sätt.
 
-Socialstyrelsen ska senast den 30 november 2028 lämna en slutredovisning av uppdraget, med årliga delredovisningar under 2025–2027\.
+Socialstyrelsen ska senast den 30 november 2028 lämna en slutredovisning av uppdraget, med årliga delredovisningar under 2025–2027.

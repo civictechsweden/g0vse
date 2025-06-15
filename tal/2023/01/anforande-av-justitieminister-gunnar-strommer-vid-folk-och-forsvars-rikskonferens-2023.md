@@ -1,25 +1,24 @@
 # Anförande av justitieminister Gunnar Strömmer vid Folk och Försvars rikskonferens 2023
 
-Folk och Försvars rikskonferens i Sälen, den 10 januari 2023\.
+Folk och Försvars rikskonferens i Sälen, den 10 januari 2023.
 
 Det talade ordet gäller.
-
 
 Ers kungliga höghet! Mina damer och herrar!
 
 Ett grundackord för årets rikskonferens är de omvälvande konsekvenserna av Rysslands invasion av Ukraina. Vi lever i en ny och farlig verklighet.
 
-Det här gäller i hög grad också för justitie\- och inrikesfrågorna.
+Det här gäller i hög grad också för justitie- och inrikesfrågorna.
 
-Hoten mot det fria och öppna samhället är som bekant inte bara militära. Det finns flera andra hot som kommer utifrån, som till exempel spionage och påverkansoperationer från främmande makt. Vi kommer alldeles strax få höra mer om det från Säpo\-chefen.
+Hoten mot det fria och öppna samhället är som bekant inte bara militära. Det finns flera andra hot som kommer utifrån, som till exempel spionage och påverkansoperationer från främmande makt. Vi kommer alldeles strax få höra mer om det från Säpo-chefen.
 
 Men flera allvarliga hot kommer idag inifrån, och då tänker jag inte minst på den grova organiserade brottsligheten.
 
 \*\*\*
 
-För en vecka sedan besökte jag Vällingby Centrum i nordvästra Stockholm. Det var där en man i 20\-årsåldern sköts ihjäl utanför McDonalds vid halvsjutiden på nyårsafton.
+För en vecka sedan besökte jag Vällingby Centrum i nordvästra Stockholm. Det var där en man i 20-årsåldern sköts ihjäl utanför McDonalds vid halvsjutiden på nyårsafton.
 
-Så avrundades ett mörkt 2022\. Totalt sköts 61 människor till döds i Sverige förra året. 61\. Det är den högsta noteringen någonsin. Vi kan jämföra med våra nordiska grannländer: I fjol hade Norge 4 dödsskjutningar. Danmark 4\. Finland 2\.
+Så avrundades ett mörkt 2022. Totalt sköts 61 människor till döds i Sverige förra året. 61. Det är den högsta noteringen någonsin. Vi kan jämföra med våra nordiska grannländer: I fjol hade Norge 4 dödsskjutningar. Danmark 4. Finland 2.
 
 Det är helt avgörande att vi inte tillåter oss själva att trubbas av eller ge upp. Vi är i ett läge, tror jag, när vi hela tiden måste påminna oss om vad som är rimligt och godtagbart. Och drygt en dödlig skjutning i veckan är inte det.
 
@@ -81,7 +80,7 @@ I dag är det tillåtet att använda till exempel hemlig avlyssning för att fö
 
 Över huvud taget behövs effektivare verktyg för att bryta dagens destruktiva mönster. Före jul tillsatte regeringen utredningar om bland annat anonyma vittnen och visitationszoner. Under året lägger vi ett lagförslag för att rejält utvidga möjligheterna att ta brottsvinster från de kriminella. Och polisen har fått ett nytt uppdrag att fyrdubbla antalet fasta bevakningskameror på två år.
 
-Som alla vet är den grova organiserade brottsligheten gränsöverskridande. Därför är kampen mot gängen också en prioriterad fråga för Sverige under EU\-ordförandeskapet
+Som alla vet är den grova organiserade brottsligheten gränsöverskridande. Därför är kampen mot gängen också en prioriterad fråga för Sverige under EU-ordförandeskapet
 
 Under mandatperioden kommer de generella straffnivåerna höjas påtagligt, inte minst genom avskaffad mängdrabatt och skärpta straff för återfall i brott. Brottsoffrens upprättelse och samhällets skyddsbehov måste stå i fokus.
 
@@ -89,7 +88,7 @@ Ni har alla tagit del av rapporterna: Skjutningarna och sprängningarna utförs 
 
 Inom kort kommer regeringen även ge tilläggsdirektiv till en pågående utredning om sekretesshinder för att till exempel skola och socialtjänst ska bli skyldiga att dela information till polisen för att bekämpa brott. En del har kallat det för ”lex Luna”, efter ett uppmärksammat fall i Skellefteå förra året.
 
-Nu görs också historiska ekonomiska resursförstärkningar av hela rättsväsendet, inte minst polisen. Med det följer förstås också berättigade förväntningar från medborgarna på resultat och leverans. Det understryks i regleringsbreven för 2023\.
+Nu görs också historiska ekonomiska resursförstärkningar av hela rättsväsendet, inte minst polisen. Med det följer förstås också berättigade förväntningar från medborgarna på resultat och leverans. Det understryks i regleringsbreven för 2023.
 
 I dag kan jag också berätta att regeringen inom kort kommer att besluta om ett särskilt regeringsuppdrag till Polismyndigheten som handlar om att öka polisens operativa förmåga. Och då med särskilt fokus på effektivisering av den nationella operativa avdelningen, NOA, och av polisens nationella forensiska centrum, NFC.
 

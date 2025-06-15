@@ -13,4 +13,4 @@ mot överdrivet spelande. Höga krav på måttfullhet ska gälla vid marknadsfö
 Punktskatt ska tas ut på licenspliktigt spel med 18 procent av skillnaden
 mellan de sammanlagda insatserna och de sammanlagda utbetalningarna. Spel förbehållet allmännyttiga ändamål ska fortsatt vara skattebefriat.
 
-Den nya regleringen föreslås träda i kraft den 1 januari 2019\. Ansökningar om licens ska kunna lämnas in efter den 1 augusti 2018\.
+Den nya regleringen föreslås träda i kraft den 1 januari 2019. Ansökningar om licens ska kunna lämnas in efter den 1 augusti 2018.

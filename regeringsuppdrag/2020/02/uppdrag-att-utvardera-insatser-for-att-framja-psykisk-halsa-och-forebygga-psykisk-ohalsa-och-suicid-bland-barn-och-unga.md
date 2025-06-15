@@ -1,7 +1,6 @@
 # Uppdrag att utvärdera insatser för att främja psykisk hälsa och förebygga psykisk ohälsa och suicid bland barn och unga
 
-Regeringen ger Statens beredning för medicinsk och social utvärdering (SBU) i uppdrag att utvärdera insatser för att främja psykisk hälsa och före­bygga psykisk ohälsa och suicid bland barn och unga. SBU ska se över det vetenskapliga underlaget vad gäller strukturerade manualbaserade interventioner (program) för att främja psykisk hälsa och förebygga psykisk ohälsa och suicid bland barn och unga i åldern 2\-18 år.
-
+Regeringen ger Statens beredning för medicinsk och social utvärdering (SBU) i uppdrag att utvärdera insatser för att främja psykisk hälsa och före­bygga psykisk ohälsa och suicid bland barn och unga. SBU ska se över det vetenskapliga underlaget vad gäller strukturerade manualbaserade interventioner (program) för att främja psykisk hälsa och förebygga psykisk ohälsa och suicid bland barn och unga i åldern 2-18 år.
 
 SBU ska också identifiera kunskapsluckor inom området, bidra till att belysa områden som behöver beforskas och peka på utvecklingsbehov inom det förebyggande och främjande området såvitt gäller barns och ungas psykiska hälsa.
 
@@ -17,4 +16,4 @@ Arbetet ska genomföras i samråd med Folkhälsomyndigheten, Social­styrelsen, 
 
 ### Redovisning av uppdraget
 
-Den del av uppdraget som syftar till att utvärdera program för att förebygga psykisk ohälsa, och där suicidrelaterade utfallsmått ingår, ska delredovisas till Regeringskansliet (Socialdepartementet) senast den 1 oktober 2021\. Uppdraget ska slutredovisas senast den 1 oktober 2022\.
+Den del av uppdraget som syftar till att utvärdera program för att förebygga psykisk ohälsa, och där suicidrelaterade utfallsmått ingår, ska delredovisas till Regeringskansliet (Socialdepartementet) senast den 1 oktober 2021. Uppdraget ska slutredovisas senast den 1 oktober 2022.

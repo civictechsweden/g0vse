@@ -12,4 +12,4 @@ En särskild utredare ges därför i upp­drag att över­väga en rad straffrä
 
 Utredaren ska vidare överväga och vid behov lämna förslag till ändringar i lag­stiftningen som innebär att det finns en presum­tion för häkt­ning när all­varliga brott, såsom rån, grov miss­handel och grov utpress­ning, begås inom ramen för krimi­nella nätverk.
 
-Uppdraget ska redovisas senast den 11 juni 2021\.
+Uppdraget ska redovisas senast den 11 juni 2021.

@@ -1,7 +1,6 @@
 # Nordiskt ministermöte om barn och unga i kriminalitet
 
-Fler och fler barn och unga involveras i kriminella nätverk och för att stoppa nyrekryteringen krävs tidiga insatser, kunskapsbaserade metoder och samverkan. Därför bjöd justitieminister Gunnar Strömmer och socialtjänstminister Camilla Waltersson Grönvall in justitie\- och socialtjänstministrar från de nordiska länderna, inklusive de självstyrande områdena, till ett samtal om barn och unga som är, eller riskerar att involveras, i kriminalitet. Mötet hölls inom ramen för det pågående svenska ordförandeskapet i Nordiska ministerrådet.
-
+Fler och fler barn och unga involveras i kriminella nätverk och för att stoppa nyrekryteringen krävs tidiga insatser, kunskapsbaserade metoder och samverkan. Därför bjöd justitieminister Gunnar Strömmer och socialtjänstminister Camilla Waltersson Grönvall in justitie- och socialtjänstministrar från de nordiska länderna, inklusive de självstyrande områdena, till ett samtal om barn och unga som är, eller riskerar att involveras, i kriminalitet. Mötet hölls inom ramen för det pågående svenska ordförandeskapet i Nordiska ministerrådet.
 
 Fler och fler barn och unga involveras i kriminella nätverk. I Sverige ser vi en allvarlig utveckling där allt yngre barn dras in i kriminella nätverk, och i vissa fall begår grova brott. Det framgår av en ny rapport framtagen av Brottsförebyggande rådet (Brå). Under de senaste tio åren har antalet barn som misstänks för narkotikaöverlåtelse gradvis ökat, antalet barn mellan 15–17 år som misstänks för vapenbrott flerdubblats och antalet barn mellan 15–20 år som misstänks för mord mångdubblats. För att hindra barn och unga från att lämna de kriminella nätverken används skuldsättning, hot och våld.
 

@@ -4,15 +4,15 @@
 
 Regeringen har efter riksdagens beslut om förslagen i propositionen Ett modernt och stärkt skydd för Sveriges säkerhet – ny säkerhetsskyddslag utfärdat följdändringar i elberedskapslagen och lagen om geografisk miljöinformation. I lagarna uppdateras relevanta hänvisningar till de nya bestämmelserna i säkerhetsskyddslagen.
 
-Säkerhetsskyddslagen och följdändringarna i övriga lagar träder i kraft den 1 april 2019\.
+Säkerhetsskyddslagen och följdändringarna i övriga lagar träder i kraft den 1 april 2019.
 
 ### Referenser:
 
-* regeringens proposition Ett modernt och stärkt skydd för Sveriges säkerhet – ny säkerhetsskyddslag (prop. 2017/18:89\)
+* regeringens proposition Ett modernt och stärkt skydd för Sveriges säkerhet – ny säkerhetsskyddslag (prop. 2017/18:89)
 * justitieutskottets betänkande 2017/18:JuU21 Ett modernt och stärkt skydd för Sveriges säkerhet – ny säkerhetsskyddslag
 * riksdagsskrivelse 2017/18:289
-* elberedskapslagen (1997:288\)
-* lagen (2010:1767\) om geografisk miljöinformation
+* elberedskapslagen (1997:288)
+* lagen (2010:1767) om geografisk miljöinformation
 
 ## Ändring i terrängkörningsförordningen
 
@@ -20,7 +20,7 @@ Regeringen har beslutat om en ändring i terrängkörningsförordningen som inne
 
 ### Referenser:
 
-* terrängkörningsförordningen (1978:594\)
+* terrängkörningsförordningen (1978:594)
 
 ## Upplysningsbestämmelser i industriutsläppsförordningen
 
@@ -30,7 +30,7 @@ Regeringen har beslutat om ändringar i industriutsläppsförordningen som inneb
 
 ### Referenser:
 
-* förordning om ändring i industriutsläppsförordningen (2013:250\)
+* förordning om ändring i industriutsläppsförordningen (2013:250)
 
 ## Ändringar i förordningen om förbränning av avfall
 
@@ -38,21 +38,21 @@ Regeringen har beslutat om ändring i förordningen om förbränning av avfall. 
 
 ### Referenser:
 
-* förordningen (2013:253\) om förbränning av avfall
+* förordningen (2013:253) om förbränning av avfall
 
-## Kompletterande bestämmelser till EU:s förordningar om energi\- och däckmärkning
+## Kompletterande bestämmelser till EU:s förordningar om energi- och däckmärkning
 
 Regeringen har efter riksdagens beslut utfärdat lagen med kompletterande bestämmelser till EU:s energimärkningsförordning och lagen med kompletterande bestämmelser till EU:s däckmärkningsförordning.
 
-Lagarna innehåller kompletterande bestämmelser till en EU\-förordning om energimärkning och en EU\-förordning om märkning av däck vad gäller drivmedelseffektivitet. Enligt de beslutade lagarna ska den myndighet som regeringen bestämmer utöva marknadskontroll enligt EU\-förordningarna. Marknadskontrollmyndigheten ska bl.a. få besluta de förelägganden och förbud vid vite som behövs för att regelverket ska följas. Lagarna innehåller även bestämmelser om hjälp av Polismyndigheten, ekonomisk ersättning, tystnadsplikt och överklagande av marknadskontrollmyndighetens beslut.
+Lagarna innehåller kompletterande bestämmelser till en EU-förordning om energimärkning och en EU-förordning om märkning av däck vad gäller drivmedelseffektivitet. Enligt de beslutade lagarna ska den myndighet som regeringen bestämmer utöva marknadskontroll enligt EU-förordningarna. Marknadskontrollmyndigheten ska bl.a. få besluta de förelägganden och förbud vid vite som behövs för att regelverket ska följas. Lagarna innehåller även bestämmelser om hjälp av Polismyndigheten, ekonomisk ersättning, tystnadsplikt och överklagande av marknadskontrollmyndighetens beslut.
 
-Lagarna träder i kraft den 1 juli 2018\.
+Lagarna träder i kraft den 1 juli 2018.
 
 ### Referenser:
 
 * Europaparlamentets och rådets förordning (EU) 2017/1369 av den 4 juli 2017 om fastställande av en ram för energimärkning och om upphävande av direktiv 2010/30/EU
 * kommissionens förordning (EU) nr 1235/2011 av den 29 november 2011 om ändring av Europaparlamentets och rådets förordning (EG) nr 1222/2009 om märkning av däck vad gäller drivmedelseffektivitet och andra väsentliga parametrar
-* regeringens proposition Kompletterande bestämmelser till EU:s förordningar om energi\- och däckmärkning (prop. 2017/18:227\)
+* regeringens proposition Kompletterande bestämmelser till EU:s förordningar om energi- och däckmärkning (prop. 2017/18:227)
 * näringsutskottets betänkande 2017/18:NU15
 * riksdagsskrivelse 2017/18:279
 * lagen med kompletterande bestämmelser till EU:s energimärkningsförordning
@@ -64,7 +64,7 @@ Regeringen har efter riksdagens beslut om förslagen i propositionen En generell
 
 ### Referenser:
 
-* regeringens proposition En generell rätt till kommunal avtalssamverkan (prop. 2017/18:151\)
+* regeringens proposition En generell rätt till kommunal avtalssamverkan (prop. 2017/18:151)
 * konstitutionsutskottets betänkande 2017/18:KU30 En generell rätt till kommunal avtalssamverkan
 * riksdagsskrivelse 2017/18:304
 * miljöbalken
@@ -74,8 +74,8 @@ Regeringen har efter riksdagens beslut om förslagen i propositionen En generell
 Författningarna blir offentliga när de publicerats på webbplatsen www.svenskforfattningssamling.se.
 
 **Kontaktpersoner:**
-Säkerhetsskyddslagen: Maria Werleskog 08\-405 83 58
-Terrängkörning: Anna Berglund 08\-405 49 58
-Industriutsläpp och förbränning av avfall: Henrik J Jonsson 08\-405 53 08
-Energi\- och däckmärkning: Christina Nordenbladh 08\-405 22 65
-Miljöbalken: Hanna Granberger 08\-405 85 99
+Säkerhetsskyddslagen: Maria Werleskog 08-405 83 58
+Terrängkörning: Anna Berglund 08-405 49 58
+Industriutsläpp och förbränning av avfall: Henrik J Jonsson 08-405 53 08
+Energi- och däckmärkning: Christina Nordenbladh 08-405 22 65
+Miljöbalken: Hanna Granberger 08-405 85 99

@@ -1,7 +1,6 @@
 # ”Arbetsförmedlingen ska bli en jobbmaskin”
 
-Arbetsmarknads\- och integrationsminister Johan Pehrson, debattartikel, Dagens Industri, den 20 juni 2024\.
-
+Arbetsmarknads- och integrationsminister Johan Pehrson, debattartikel, Dagens Industri, den 20 juni 2024.
 
 Regeringen har en tydlig styrning mot en effektivare arbetsmarknadspolitik. Grunden handlar om en stärkt arbetslinje och utbildningslinje. Därtill ska Arbetsförmedlingen prioritera sin kärnverksamhet vilket handlar om att få fler arbetslösa i jobb. Dessutom får Arbetsförmedlingen nu ett förtydligat uppdrag för att inom arbetsmarknadspolitiken motverka kriminella och oseriösa aktörer samt minska fusk och felaktiga utbetalningar.
 
@@ -13,7 +12,7 @@ Från regeringens håll har vi från dag ett varit tydliga med att Arbetsförmed
 
 Arbetsmarknadspolitiken kan effektiviseras, men då måste myndigheten fokusera på kostnadseffektiva och arbetsplatsnära insatser som faktiskt leder till jobb. Det handlar om att prioritera bättre för att öka deltagandet i bland annat arbetsplatsnära insatser som praktik och subventionerade anställningar samt utbildning inklusive arbetsmarknadsutbildningar.
 
-Från regeringens sida har vi också varit tydliga med samhällets förväntningar på de som i dag saknar egen försörjning. Får man samhällets stöd ska man anstränga sig för att göra sig anställningsbar. Det handlar om att utbilda sig, söka jobb samt om det krävs även flytta dit lediga jobb finns och vara beredd på att byta yrke. Här spelar även reformeringen av a\-kassan en viktig roll. I veckan har riksdagen klubbat igenom den största reformeringen av a\-kassan på 30 år. A\-kassans roll som omställningsförsäkring stärks. A\-kassan ska vara en studsmatta och inte en hängmatta. Arbetsförmedlingen måste se till att regelverket också efterlevs.
+Från regeringens sida har vi också varit tydliga med samhällets förväntningar på de som i dag saknar egen försörjning. Får man samhällets stöd ska man anstränga sig för att göra sig anställningsbar. Det handlar om att utbilda sig, söka jobb samt om det krävs även flytta dit lediga jobb finns och vara beredd på att byta yrke. Här spelar även reformeringen av a-kassan en viktig roll. I veckan har riksdagen klubbat igenom den största reformeringen av a-kassan på 30 år. A-kassans roll som omställningsförsäkring stärks. A-kassan ska vara en studsmatta och inte en hängmatta. Arbetsförmedlingen måste se till att regelverket också efterlevs.
 
 En effektiv arbetsmarknadspolitik handlar också om att de som arbetar i Sverige ska kunna räkna med att varenda skattekrona går till rätt saker. Det är i grunden en rättvisefråga. Att pengar läcker från välfärden genom fusk och felaktiga utbetalningar är inte bara ett enormt slöseri utan riskerar även att undergräva förtroendet för välfärden och kan i värsta fall göda organiserad brottslighet.
 
@@ -21,4 +20,4 @@ Därför växlar regeringen upp arbetet med att motverka felaktiga utbetalningar
 
 Steg tas nu för en effektiv arbetsmarknadspolitik. En tydligare arbetslinje och breda satsningar på utbildning som kompletteras med en effektivare Arbetsförmedling, som fokuserar på rätt saker samt på att minska fusk och felaktiga utbetalningar, bidrar till att fler får möjligheten att bidra till Sveriges välfärd.
 
-Johan Pehrson, arbetsmarknads\- och integrationsminister
+Johan Pehrson, arbetsmarknads- och integrationsminister

@@ -8,4 +8,4 @@ Inför budgetpropositionen för 2025 är det angeläget att skatteförslagen kan
 
 I denna promemoria föreslås att ersättningsnivån per månad för expertskatt i den s.k. beloppsregeln sänks från två gånger prisbasbeloppet till en och en halv gånger prisbasbeloppet för det kalenderår då arbetet påbörjas. Förslaget syftar till att skapa bättre förutsättningar för företag att attrahera och behålla internationell nyckelkompetens och gynna svensk konkurrenskraft.
 
-Den nya bestämmelsen föreslås träda i kraft den 1 januari 2025 och tillämpas första gången för arbete i Sverige som påbörjas efter den 31 december 2024\.
+Den nya bestämmelsen föreslås träda i kraft den 1 januari 2025 och tillämpas första gången för arbete i Sverige som påbörjas efter den 31 december 2024.

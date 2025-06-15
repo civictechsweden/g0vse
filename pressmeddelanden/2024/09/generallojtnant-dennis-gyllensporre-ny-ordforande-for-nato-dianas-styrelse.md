@@ -1,6 +1,6 @@
 # Generallöjtnant Dennis Gyllensporre ny ordförande för Nato Dianas styrelse
 
-Dennis Gyllensporre arbetar idag som forskare och docent vid Försvarshögskolan och tar över ordförandeskapet den 1 januari 2025\. Han har tidigare bland annat varit chef för Försvarsmaktens ledningsstab samt befälhavare för FN:s militära insats i Mali.
+Dennis Gyllensporre arbetar idag som forskare och docent vid Försvarshögskolan och tar över ordförandeskapet den 1 januari 2025. Han har tidigare bland annat varit chef för Försvarsmaktens ledningsstab samt befälhavare för FN:s militära insats i Mali.
 
 – Det är mycket glädjande att Dennis Gyllensporre valts till ordförande. Han kommer göra ett utomordentligt arbete för att utveckla och främja försvarsinnovation i Nato. Detta visar också på att Sverige spelar en central roll att i det internationella arbete som nu görs för att stärka den militära förmågan i Nato med hjälp av banbrytande innovativ teknik, säger försvarsminister Pål Jonson.
 

@@ -1,6 +1,6 @@
 # Nya regler i arbetslöshetsförsäkringen om bland annat förtroendeuppdrag och uttag av pension
 
-Denna promemoria innehåller förslag till ändringar i lagen (1997:238\) om arbetslöshetsförsäkring och lagen (1997:239\) om arbetslöshetskassor.
+Denna promemoria innehåller förslag till ändringar i lagen (1997:238) om arbetslöshetsförsäkring och lagen (1997:239) om arbetslöshetskassor.
 
 Det föreslås att tid med förtroendeuppdrag som enligt lag ger rätt till ledighet från anställning ska jämställas med tid med förvärvsarbete. Det föreslås också att dagar med förtroendeuppdrag som enligt lag ger rätt till ledighet från anställning ska tillgodoräknas vid prövning av om en sökande som frånkänts ersättning har arbetat 80 dagar och därmed på nytt ska kunna beviljas ersättning. Det föreslås vidare att  förtroendeuppdrag inte ska anses utgöra lämpligt arbete vid tillämpning av bestämmelserna om varning och avstängning.
 
@@ -13,4 +13,4 @@ Det föreslås även att rätten att bli medlem i en arbetslöshetskassa ska gä
 
 Slutligen föreslås att det ska vara möjligt för en arbetslöshetskassas styrelse att delegera vissa beslut om bibehållet medlemskap till kassaföreståndaren.
 
-Lagändringarna föreslås träda i kraft den 2 april 2018\.
+Lagändringarna föreslås träda i kraft den 2 april 2018.

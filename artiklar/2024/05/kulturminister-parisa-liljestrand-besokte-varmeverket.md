@@ -2,7 +2,6 @@
 
 Den 16 maj besökte kulturminister Parisa Liljestrand Värmeverket i Bredäng. Värmeverket arrangerar utbildningar, evenemang och olika stödjande initiativ för att hjälpa kreatörer bygga hållbara karriärer, kulturellt kapital och att bli framgångsrika entreprenörer.
 
-
 Under besöket fick kulturministern en rundvandring i lokalerna följt av en presentation om verksamheten.
 
 – Det var väldigt intressant och givande att få lära sig mer om Värmeverkets arbete för att stötta unga kreatörer. Det är viktiga frågor för regeringen som vi också fokuserar på i den nya strategin för företag i kulturella och kreativa branscher där en av målsättningarna handlar om stöd, finansiering och att uppnå träffsäker rådgivning, säger kulturminister Parisa Liljestrand.

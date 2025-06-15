@@ -1,7 +1,6 @@
 # Uppdrag om förstärkt tillsyn mot välfärdsbrottslighet inom hälso- och sjukvården och tandvården
 
-Regeringen uppdrar åt Inspektionen för vård och omsorg (IVO) att under 2024 till 2026 stärka och utveckla arbetet med att förebygga och motverka välfärdsbrottslighet och förekomsten av oseriösa aktörer inom hälso\- och sjukvården och tandvården.
-
+Regeringen uppdrar åt Inspektionen för vård och omsorg (IVO) att under 2024 till 2026 stärka och utveckla arbetet med att förebygga och motverka välfärdsbrottslighet och förekomsten av oseriösa aktörer inom hälso- och sjukvården och tandvården.
 
 I uppdraget ingår att:
 

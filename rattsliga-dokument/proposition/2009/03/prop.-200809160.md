@@ -1,8 +1,8 @@
 # Samordnad och tydlig tillsyn av socialtjänsten
 
-I propositionen föreslår regeringen att länsstyrelsernas tillsyns\- och tillståndsverksamhet enligt socialtjänstlagen (2001:453, SoL) och lagen (1993:387\) om stöd och service till vissa funktionshindrade (LSS) förs över till Socialstyrelsen och samordnas med Socialstyrelsens tillsyn av hälso\- och sjukvården.
+I propositionen föreslår regeringen att länsstyrelsernas tillsyns- och tillståndsverksamhet enligt socialtjänstlagen (2001:453, SoL) och lagen (1993:387) om stöd och service till vissa funktionshindrade (LSS) förs över till Socialstyrelsen och samordnas med Socialstyrelsens tillsyn av hälso- och sjukvården.
 
-Vidare föreslås att en bestämmelse införs i SoL och LSS och lagen (1998:531\) om yrkesverksamhet på hälso\- och sjukvårdens område (LYHS) om att Socialstyrelsen vid tillsyn kan höra barn.
+Vidare föreslås att en bestämmelse införs i SoL och LSS och lagen (1998:531) om yrkesverksamhet på hälso- och sjukvårdens område (LYHS) om att Socialstyrelsen vid tillsyn kan höra barn.
 
 Regeringen föreslår även att en definition av begreppet tillsyn införs i SoL, LSS och LYHS. Av författningstexterna kommer även tillsynsmyndighetens övriga uppgifter som har ett nära samband med tillsynen att framgå.
 
@@ -16,4 +16,4 @@ Socialstyrelsen föreslås få ansvar för all tillsyn av tillståndspliktig ens
 
 Regeringen föreslår också att tillsynen av SiS institutioner ska vara en uppgift för Socialstyrelsen.
 
-De föreslagna författningsförändringarna föreslås i huvudsak träda i kraft den 1 januari 2010\.
+De föreslagna författningsförändringarna föreslås i huvudsak träda i kraft den 1 januari 2010.

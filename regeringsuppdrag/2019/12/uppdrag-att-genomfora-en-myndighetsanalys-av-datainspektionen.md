@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Statskontoret att genomföra en myndighetsanalys av Datainspektionen i enlighet med den modell som Statskontoret redovisade till regeringen i december 2008 (Fi2007/08016/OFA/SF).
 
-
 Statskontoret ska:
 
 * analysera hur Datainspektionen fullgör sitt uppdrag och använder sina resurser, och i samband med detta
@@ -15,4 +14,4 @@ Statskontoret ska i sitt uppdrag särskilt ta hänsyn till Datainspektionens rol
 
 Statskontoret ska hålla Regeringskansliet (Justitiedepartementet) informerat under uppdragets genomförande.
 
-Uppdraget ska redovisas skriftligen till Regeringskansliet (Justitiedepartementet) senast den 16 juni 2020\.
+Uppdraget ska redovisas skriftligen till Regeringskansliet (Justitiedepartementet) senast den 16 juni 2020.

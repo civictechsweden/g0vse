@@ -6,4 +6,4 @@ Partnerskapet syftar till att stödja stabilitet, välbefinnande och hållbar ut
 
 I Partnerskapet ingår EU, Nordiska ministerrådet och WHO, samt Ryssland, Norge och Island som medlemmar. Myndigheterna, bland andra Folkhälsomyndigheten och Socialstyrelsen, är också representerade i arbetet och har representanter som sitter med i flera olika expertgrupper.
 
-Den 25 november hölls ett möte inom Partnerskapet. Förutom Sverige deltog även EU\-länderna Finland, Estland, Lettland, Litauen, Polen och Tyskland samt Ryssland, Norge och Island på mötet.
+Den 25 november hölls ett möte inom Partnerskapet. Förutom Sverige deltog även EU-länderna Finland, Estland, Lettland, Litauen, Polen och Tyskland samt Ryssland, Norge och Island på mötet.

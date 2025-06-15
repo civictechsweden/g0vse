@@ -6,4 +6,4 @@ En särskild utredare ska lämna förslag till ett förtydligat regelverk för d
 * lämna förslag till lagstiftning och andra åtgärder som krävs för att möjliggöra en strukturerad rapportering från dammägare till tillsynsmyndigheterna vars omfattning ska anpassas efter vilken kategori dammarna tillhör,
 * utreda om tillsynsvägledningen för dammsäkerhet och åtgärder för att främja dammsäkerheten i landet sker i tillräcklig omfattning och genom lämplig organisation eller om den bör inordnas i någon annan myndighets organisation.
 
-Uppdraget ska redovisas senast den 30 juni 2012\.
+Uppdraget ska redovisas senast den 30 juni 2012.

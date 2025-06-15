@@ -6,4 +6,4 @@ Under eftermiddagen kommer sjukvårdsministern att träffa regionledningen för 
 
 Det finns tid för media. För mer information och intervjuförfrågningar, kontakta pressassistent Matilda Anttonen.
 
-Under mandatperioden kommer sjukvårdsministern att besöka alla regioner för att föra en dialog om hälso\- och sjukvården i regionen och besöka dess verksamheter. Detta är det tionde regionbesöket som sjukvårdsministern genomför.
+Under mandatperioden kommer sjukvårdsministern att besöka alla regioner för att föra en dialog om hälso- och sjukvården i regionen och besöka dess verksamheter. Detta är det tionde regionbesöket som sjukvårdsministern genomför.

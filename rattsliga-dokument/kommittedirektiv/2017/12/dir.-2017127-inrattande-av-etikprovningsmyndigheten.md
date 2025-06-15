@@ -6,7 +6,7 @@ Utredaren ska bland annat
 
 * bemanna den nya myndigheten,
 * lämna förslag till instruktion och regleringsbrev, och
-* vidta de åtgärder som krävs för att myndigheten ska kunna inleda sin verksamhet den 1 januari 2019\.
+* vidta de åtgärder som krävs för att myndigheten ska kunna inleda sin verksamhet den 1 januari 2019.
 
 Uppdraget ges med förbehåll för riksdagens beslut i nödvändiga
-delar. Uppdraget ska redovisas senast den 31 december 2018\.
+delar. Uppdraget ska redovisas senast den 31 december 2018.

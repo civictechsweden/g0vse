@@ -1,7 +1,7 @@
 # Ändringar i konkurrenslagen
 
 I propositionen föreslås ändringar i konkurrenslagen som innebär att instansordningen
-för prövning av företagskoncentrationer ändras. Konkurrensverket ska, i stället för Patent\- och marknadsdomstolen, som första instans få besluta i frågor om företagskoncentrationer. Verkets beslut ska kunna överklagas till domstolen.
+för prövning av företagskoncentrationer ändras. Konkurrensverket ska, i stället för Patent- och marknadsdomstolen, som första instans få besluta i frågor om företagskoncentrationer. Verkets beslut ska kunna överklagas till domstolen.
 
 Vidare föreslås att konkurrenslagen anpassas till förändringar i EU:s
 konkurrensregler när det gäller vissa konkurrensbegränsande avtal inom

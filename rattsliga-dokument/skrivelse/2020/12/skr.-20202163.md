@@ -1,6 +1,6 @@
 # Redovisning av åtgärder i enlighet med målsättningarna i det nationella brottsförebyggande programmet Tillsammans mot brott
 
-I mars 2017 presenterade regeringen det nationella brottsförebyggande programmet Tillsammans mot brott (skr. 2016/17:126\). Syftet med programmet är att skapa förutsättningar för ett strukturerat och långsiktigt brottsförebyggande arbete i hela samhället. Programmet ska också bidra till att stimulera och entusiasmera fler berörda aktörer att vidta brottsförebyggande åtgärder och att utveckla samverkan, såväl på nationell
+I mars 2017 presenterade regeringen det nationella brottsförebyggande programmet Tillsammans mot brott (skr. 2016/17:126). Syftet med programmet är att skapa förutsättningar för ett strukturerat och långsiktigt brottsförebyggande arbete i hela samhället. Programmet ska också bidra till att stimulera och entusiasmera fler berörda aktörer att vidta brottsförebyggande åtgärder och att utveckla samverkan, såväl på nationell
 som på regional och lokal nivå.
 
 I denna skrivelse redogörs för åtgärder som har vidtagits och beslutats i förhållande till de målsättningar för den brottsförebyggande arbetsprocessen och arbetets inriktning som beskrivs i programmet. Regeringen redovisar sin samlade bedömning av arbetet hittills och den fortsatta inriktningen av det långsiktiga brottsförebyggande arbetet.

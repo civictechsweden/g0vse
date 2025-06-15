@@ -11,7 +11,7 @@ Genomförandet får inte i onödan öka utförarnas administration. Regeringen u
 
 Utredaren ska utreda hur en reglering för privata utförare inom offentligt finansierad vård och omsorg kan utformas för att offentlighetsprincipen ska kunna tillämpas hos de privata utförarna eller hur insynen i verksamheten på annat sätt kan öka,
 
-### Tillämpning på huvudmanna\- och enhetsnivå
+### Tillämpning på huvudmanna- och enhetsnivå
 
 Utredaren ska utreda hur en reglering av enskilt bedriven förskola, fritidshem, vuxenutbildning, de särskilda utbildningsformerna och annan pedagogisk verksamhet kan utformas för att offentlighetsprincipen ska tillämpas på såväl huvudmannanivå som enhetsnivå, eller hur insynen i verksamheten på annat sätt kan öka,
 
@@ -31,4 +31,4 @@ Utredaren ska lämna nödvändiga författningsförslag.
 
 Utredaren ska ta hänsyn till de förslag som Utredningen om meddelarskydd för privatanställda i offentligt finansierad verksamhet tidigare har lämnat. Utredaren ska också ta hänsyn till det kommande förslaget från Utredningen om offentlighetsprincipen i fristående skolor.
 
-Uppdraget redovisas senast den 1 oktober 2016\.
+Uppdraget redovisas senast den 1 oktober 2016.

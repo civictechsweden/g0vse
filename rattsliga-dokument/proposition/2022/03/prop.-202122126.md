@@ -8,4 +8,4 @@ Förslaget innebär även en skyldighet för arbetslöshetskassor att lämna
 kontrolluppgift om avgift till arbetslöshetskassa. Kontrolluppgift ska dock inte lämnas för en medlem som skriftligen har begärt detta hos arbetslöshetskassan. Dessutom föreslås en uppgiftsskyldighet i inkomstdeklarationen om avgift till utländsk arbetslöshetskassa.
 
 De nya bestämmelserna föreslås träda i kraft den 1 juli 2022 och
-tillämpas på avgifter som betalas efter den 30 juni 2022\.
+tillämpas på avgifter som betalas efter den 30 juni 2022.

@@ -6,7 +6,7 @@
 
 – Det här uppdraget syftar till att förstärka kvinnors bestämmanderätt över sina egna kroppar och makt över sina egna liv. Det är en väldigt viktig jämställdhetsfråga, säger jämställdhetsminister Paulina Brandberg.
 
-Regeringen har utsett Inga\-Maj Andersson till särskild utredare för detta uppdrag som, med sin bakgrund som legitimerad sjuksköterska, barnmorska, medicine doktor vid Karolinska Institutet och utredare på Socialstyrelsen är ytterst väl lämpad för uppdraget. Hon har fördjupade kunskaper om abortvården, på lokal, regional nivå och nationell nivå.
+Regeringen har utsett Inga-Maj Andersson till särskild utredare för detta uppdrag som, med sin bakgrund som legitimerad sjuksköterska, barnmorska, medicine doktor vid Karolinska Institutet och utredare på Socialstyrelsen är ytterst väl lämpad för uppdraget. Hon har fördjupade kunskaper om abortvården, på lokal, regional nivå och nationell nivå.
 
 I den särskilda utredarens uppdrag ingår bland annat att:
 
@@ -17,4 +17,4 @@ I den särskilda utredarens uppdrag ingår bland annat att:
 
 När abortlagen infördes 1975 var abort ett kirurgiskt ingrepp som behövde utföras av läkare på sjukhus eller annan sjukvårdsinrättning. I dag genomförs en klar majoritet av alla aborter med medicinsk metod delvis i hemmet. Utredningen ska bidra till en abortvård som i högre grad är anpassad till den medicinska utvecklingen som gör det möjligt att genomföra medicinska abort i hemmet.
 
-Utredningen ska lämna sitt betänkande senast den 3 februari 2025\.
+Utredningen ska lämna sitt betänkande senast den 3 februari 2025.

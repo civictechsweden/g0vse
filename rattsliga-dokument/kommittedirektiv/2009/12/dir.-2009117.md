@@ -8,4 +8,4 @@ En särskild utredare ska undersöka hur fler nyanlända ska kunna lära sig sve
 * föreslå när det ska vara motiverat att göra avsteg från en tidsbegränsning och därmed förlänga tiden i sfi, och
 * bedöma hur en tidsbegränsning av sfi kan påverka utbildningens genomförande och kursplanen i ämnet svenska som andraspråk inom grundläggande kommunal vuxenutbildning (komvux) samt vuxenutbildning för utvecklingsstörda (särvux).
 
-Utredaren ska lämna förslag till nödvändiga författningsförslag. Uppdraget ska redovisas senast den 1 december 2010\.
+Utredaren ska lämna förslag till nödvändiga författningsförslag. Uppdraget ska redovisas senast den 1 december 2010.

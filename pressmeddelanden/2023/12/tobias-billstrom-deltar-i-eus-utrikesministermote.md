@@ -2,7 +2,7 @@
 
 Först på dagordningen står Rysslands aggression mot Ukraina.
 
-– Det har nu gått tio år sedan ukrainarna samlades på Maidantorget till stöd för ett fritt och demokratiskt Ukraina, och till stöd för ett EU\-närmande. Det är av vikt att EU bejakar detta genom att stödja Ukrainas EU\-anslutning. EU behöver också säkerställa ett långsiktigt politiskt, militärt och ekonomiskt stöd till Ukraina samt begränsa den ryska krigsförmågan. EU måste dessutom öka trycket på Ryssland och Belarus, inklusive genom att anta det tolfte sanktionspaketet, säger utrikesminister Tobias Billström.
+– Det har nu gått tio år sedan ukrainarna samlades på Maidantorget till stöd för ett fritt och demokratiskt Ukraina, och till stöd för ett EU-närmande. Det är av vikt att EU bejakar detta genom att stödja Ukrainas EU-anslutning. EU behöver också säkerställa ett långsiktigt politiskt, militärt och ekonomiskt stöd till Ukraina samt begränsa den ryska krigsförmågan. EU måste dessutom öka trycket på Ryssland och Belarus, inklusive genom att anta det tolfte sanktionspaketet, säger utrikesminister Tobias Billström.
 
 Mötets andra dagordningspunkt är situationen i Israel och Gaza:
 

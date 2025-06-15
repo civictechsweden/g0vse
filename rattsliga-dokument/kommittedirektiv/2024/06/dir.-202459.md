@@ -8,4 +8,4 @@ Utredaren ska bland annat:
 * sammanfatta de möjligheter som identifierats under arbetet när det gäller att nyttja digitaliseringen inom socialförsäkringens övriga förmåner och andra förmåner som administreras av Försäkringskassan och Pensionsmyndigheten, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 1 november 2025\.
+Uppdraget ska redovisas senast den 1 november 2025.

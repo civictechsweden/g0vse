@@ -8,5 +8,4 @@ Utredaren ska bland annat:
 * särskilt utreda hur personuppgifter behandlas i Försvarets radioanstalt i samband med att myndigheten stödjer andra myndigheter och statligt ägda bolag inom informationssäkerhetsområdet, och
 * lämna de författningsförslag som behövs och är lämpliga.
 
-
-Uppdraget ska redovisas senast den 31 maj 2018\.
+Uppdraget ska redovisas senast den 31 maj 2018.

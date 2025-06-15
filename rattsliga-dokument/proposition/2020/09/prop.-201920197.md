@@ -8,8 +8,8 @@ Vidare lämnas förslag som avser motverkande av skadlig skattekonkurrens och f�
 ansökningar om godkännande för tonnagebeskattning.
 
 Det lämnas även ett förslag om undantag från utbyte av lokalt lämnade
-land\-för\-land\-rapporter på skatteområdet som innebär att Skatteverket inte ska överföra rapporter som lämnas av svenska enheter som inte är
+land-för-land-rapporter på skatteområdet som innebär att Skatteverket inte ska överföra rapporter som lämnas av svenska enheter som inte är
 moderföretag eller ställföreträdande moderföretag i en multinationell
-koncern till andra stater och jurisdiktioner än medlemsstater i Europeiska unionen. Förslaget föranleds av att nya vägledande riktlinjer i fråga om automatiskt utbyte av land\-för\-land\-rapporter har publicerats av OECD.
+koncern till andra stater och jurisdiktioner än medlemsstater i Europeiska unionen. Förslaget föranleds av att nya vägledande riktlinjer i fråga om automatiskt utbyte av land-för-land-rapporter har publicerats av OECD.
 
-Förslagen föreslås träda i kraft den 1 december 2020\.
+Förslagen föreslås träda i kraft den 1 december 2020.

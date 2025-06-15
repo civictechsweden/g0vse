@@ -6,4 +6,4 @@ Förslagen innebär att regeringen utvidgar det utredningssystem som i dag redan
 
 Utredningssystemet syftar till att utifrån ett helhetsperspektiv försöka förstå orsakerna till att denna typ av brott kan ske och att identifiera brister i samhället på ett övergripande plan. Den kunskap som tas fram ska ligga till grund för åtgärder som förebygger att kvinnor och män utsätts för våld eller andra övergrepp av närstående.
 
-Lagförslaget föreslås träda i kraft den 1 januari 2012\. Socialstyrelsen, som idag redan ansvarar för utredningar avseende barn, föreslås få ansvar för att bedriva denna del av utredningsverksamheten.
+Lagförslaget föreslås träda i kraft den 1 januari 2012. Socialstyrelsen, som idag redan ansvarar för utredningar avseende barn, föreslås få ansvar för att bedriva denna del av utredningsverksamheten.

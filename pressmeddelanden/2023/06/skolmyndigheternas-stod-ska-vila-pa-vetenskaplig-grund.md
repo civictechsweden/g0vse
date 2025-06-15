@@ -11,4 +11,4 @@ Uppdraget består av två delar:
 
 Uppdraget ska genomföras i nära dialog mellan de fyra myndigheterna och Skolverket ska samordna arbetet. Skolforskningsinstitutet ska särskilt bistå de andra myndigheterna med sin kunskap och expertis om vetenskaplig grund.
 
-Uppdraget ska redovisas senast den 29 februari 2024\.
+Uppdraget ska redovisas senast den 29 februari 2024.

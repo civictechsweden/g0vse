@@ -4,7 +4,6 @@ Lördagen den 15 april bröt kraftiga stridigheter ut i Sudan. För regeringen h
 
 Utrikesminister Tobias Billström kommenterar situationen.
 
-
 ## Evakueringsinsatsen har just avslutats, hur skulle du beskriva den?
 
 – Evakueringsinsatsen som består av tre faser har utförts under mycket komplicerade förhållanden. Den första fasen handlade om att så snabbt som möjligt och på ett säkert sätt evakuera svensk ambassadpersonal och deras anhöriga. I denna fas evakuerades även ett antal svenska medborgare. Under den andra fasen låg fokus på att fortsätta evakuera svenskar och andra medborgare med flyg. Nu inleds den sista fasen under vilken vi kommer att konsulärt bistå svenskar i Sudan på andra sätt.

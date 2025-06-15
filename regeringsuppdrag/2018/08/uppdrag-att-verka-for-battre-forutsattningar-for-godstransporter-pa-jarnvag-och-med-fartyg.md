@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Trafikverket att genomföra följande uppdrag som har aviserats i regeringens godstransportstrategi Effektiva, kapacitetsstarka och hållbara godstransporter – en nationell godstransportstrategi (dnr N2018/03939/TS).
 
-
 Trafikverket ska:
 
 1. Inventera vilka åtgärder som Trafikverket kan vidta som skapar förutsättningar för fler godstransporter på järnväg och med fartyg och därigenom leder till en överflyttning av godstransporter från väg till järnväg och sjöfart. Kartläggningen ska genomföras med utgångspunkt i regeringens beslut om fastställande av den nationella trafikslagsövergripande planen för transportinfrastrukturen för perioden 2018–2029 och regeringens godstransportstrategi, i dialog med branschen och de största transportköparna. Uppdraget ska inte resultera i nya förslag till namngivna investeringar.
@@ -13,4 +12,4 @@ Vid genomförandet av uppdraget ska Trafikverket inhämta synpunkter från Trans
 
 Trafikverket ska vid de tidpunkter och i den form som bestäms i dialog med det nationella godstransportrådet och Trafikanalys informera om dem om arbetet.
 
-Trafikverket ska redovisa uppdraget till Regeringskansliet (Näringsdepartementet) senast den 15 september 2019\.
+Trafikverket ska redovisa uppdraget till Regeringskansliet (Näringsdepartementet) senast den 15 september 2019.

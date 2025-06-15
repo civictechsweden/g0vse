@@ -4,7 +4,7 @@ Vi, de nordiska länderna, instämmer i de internationella kraven på en grundli
 
 De nordiska länderna har helhjärtat ställt sig bakom Georgiens mål om euroatlantisk integration utifrån gemensamma grundläggande värderingar.
 
-Under de senaste åren har vi följt Georgiens politiska utveckling med tilltagande oro. Den politik som den georgiska regeringen har bedrivit och de lagar som den har lagt fram har alltmer avvikit från vägen mot målet om europeisk och euroatlantisk integration. Att upprätthålla rättsstatsprincipen och demokratiska val är avgörande för att Georgien ska kunna komma närmare ett EU\-medlemskap.
+Under de senaste åren har vi följt Georgiens politiska utveckling med tilltagande oro. Den politik som den georgiska regeringen har bedrivit och de lagar som den har lagt fram har alltmer avvikit från vägen mot målet om europeisk och euroatlantisk integration. Att upprätthålla rättsstatsprincipen och demokratiska val är avgörande för att Georgien ska kunna komma närmare ett EU-medlemskap.
 
 Som utrikesministrar i de nordiska länderna hoppas vi uppriktigt att Georgien återgår till en väg som kan föra landet till dess rättmätiga plats i den europeiska och euroatlantiska familjen. Vi fortsätter att noggrant följa utvecklingen i Georgien och kommer att bedöma den georgiska regeringen utifrån hur den agerar.
 

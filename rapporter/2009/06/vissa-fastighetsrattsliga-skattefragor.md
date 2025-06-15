@@ -6,4 +6,4 @@ Nuvarande regler om att obebyggd mark för småhus, småhus under uppförande oc
 
 I promemorian föreslås även vissa förändringar av reglerna om uppskov med beskattning av kapitalvinst vid avyttring av privatbostad.
 
-Ändringarna föreslås träda i kraft den 1 januari 2010\.
+Ändringarna föreslås träda i kraft den 1 januari 2010.

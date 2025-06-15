@@ -1,11 +1,10 @@
 # Uppdrag till Rådet för Europeiska socialfonden i Sverige om lokalisering av viss verksamhet
 
-Regeringen uppdrar åt Rådet för Europeiska socialfonden i Sverige (Svenska ESF\-rådet) att lokalisera myndighetens stabs\- och stödfunktioner från Stockholm till Gävle där myndigheten ska ha sitt säte.
+Regeringen uppdrar åt Rådet för Europeiska socialfonden i Sverige (Svenska ESF-rådet) att lokalisera myndighetens stabs- och stödfunktioner från Stockholm till Gävle där myndigheten ska ha sitt säte.
 
+Även den funktion som handlägger medel inom FEAD-programmet och medel inom det nationella socialfondsprogrammet som tilldelas på nationell nivå ska lokaliseras till Gävle.
 
-Även den funktion som handlägger medel inom FEAD\-programmet och medel inom det nationella socialfondsprogrammet som tilldelas på nationell nivå ska lokaliseras till Gävle.
-
-Lokaliseringen ska vara avslutad senast den 1 december 2018\.
+Lokaliseringen ska vara avslutad senast den 1 december 2018.
 
 ## Bakgrund
 

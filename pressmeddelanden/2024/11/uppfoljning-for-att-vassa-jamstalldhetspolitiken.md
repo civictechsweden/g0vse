@@ -4,9 +4,9 @@ Sverige står sig väl i internationella mätningar om jämställdhet, bland ann
 
 Långsiktigheten och den strategiska styrningen av arbetet behöver utvecklas för att vi ska kunna nå längre i det jämställdhetspolitiska arbetet. För att stärka förutsättningarna att nå det övergripande målet behöver delmålen följas upp och analyseras. Därför har regeringen beslutat att ge en särskild utredare i uppdrag att bland annat föreslå hur styrningen kan bli mer effektiv samt att analysera om de indikatorer som används för delmålen är ändamålsenliga och vid behov lämna förslag på fler indikatorer. Syftet med utredningen är att åstadkomma en ökad effektivitet och långsiktighet samt förbättrad strategisk styrning.
 
-När det gäller det sjätte delmålet – mäns våld mot kvinnor ska upphöra – pågår redan en utredning som ska slutredovisas den 28 februari 2025\.
+När det gäller det sjätte delmålet – mäns våld mot kvinnor ska upphöra – pågår redan en utredning som ska slutredovisas den 28 februari 2025.
 
-\- Sverige ligger långt fram i internationella jämförelser och mätningar när det gäller jämställdhetspolitiska frågor, men det återstår flera utmaningar. Den snabba digitaliseringen, den gröna omställningen och förändrade villkor på arbetsmarknaden är bara några av faktorer som får konsekvenser för jämställdheten. Nu tar vi ett viktigt steg för att nå ännu längre i det jämställdhetspolitiska arbetet så att det avspeglar de förändringar som sker, säger jämställdhets\- och arbetslivsminister Paulina Brandberg.
+- Sverige ligger långt fram i internationella jämförelser och mätningar när det gäller jämställdhetspolitiska frågor, men det återstår flera utmaningar. Den snabba digitaliseringen, den gröna omställningen och förändrade villkor på arbetsmarknaden är bara några av faktorer som får konsekvenser för jämställdheten. Nu tar vi ett viktigt steg för att nå ännu längre i det jämställdhetspolitiska arbetet så att det avspeglar de förändringar som sker, säger jämställdhets- och arbetslivsminister Paulina Brandberg.
 
 Utredaren ska bland annat
 
@@ -16,4 +16,4 @@ Utredaren ska bland annat
 
 · lämna förslag på hur arbetet mot delmål 1–5 kan struktureras för att öka effektiviteten och måluppfyllelsen
 
-Uppdraget ska redovisas senast den 29 maj 2026\.
+Uppdraget ska redovisas senast den 29 maj 2026.

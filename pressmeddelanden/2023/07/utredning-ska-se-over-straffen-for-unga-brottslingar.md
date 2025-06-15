@@ -13,6 +13,6 @@ Utredningen som nu tillsätts ska:
 * Föreslå en ordning som innebär att den som hunnit fylla 18 år och missköter sin påföljd ska få en vuxen­påföljd, till exempel fängelse, i stället för en ny ungdoms­påföljd.
 * Föreslå hur Kriminal­vården kan involveras vid vård och andra åtgärder inom ramen för ungdoms­­vård eller ungdoms­tjänst och även föreslå hur Kriminal­vården i någon form kan involveras i vissa fall vid sådan vård enligt LVU som sker på grund av den unges brottsliga verksamhet.
 
-Särskild utredare blir Gunnel Lindberg, ordförande för Säkerhets\- och integritets­skydds­nämnden. Gunnel Lindberg är även utredare i utredningen Utökade möjligheter att använda tvångs­medel mot barn och unga (dir. 2023:102\).
+Särskild utredare blir Gunnel Lindberg, ordförande för Säkerhets- och integritets­skydds­nämnden. Gunnel Lindberg är även utredare i utredningen Utökade möjligheter att använda tvångs­medel mot barn och unga (dir. 2023:102).
 
-Uppdraget ska redovisas senast den 10 januari 2025\.
+Uppdraget ska redovisas senast den 10 januari 2025.

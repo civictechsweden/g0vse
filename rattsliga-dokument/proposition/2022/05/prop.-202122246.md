@@ -6,4 +6,4 @@ I det uppkomna läget föreslås vissa lagändringar för att skyndsamt effektiv
 
 Lagändringarna syftar till att förbättra förutsättningarna för Sverige att ta emot operativt militärt stöd i form av militära styrkor från stater som är medlemmar i Europeiska unionen eller i Nordatlantiska fördragsorganisationen.
 
-Lagändringarna föreslås träda i kraft den 19 maj 2022\.
+Lagändringarna föreslås träda i kraft den 19 maj 2022.

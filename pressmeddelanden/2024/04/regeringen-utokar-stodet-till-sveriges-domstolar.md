@@ -4,6 +4,6 @@ Brottsutvecklingen har ökat arbetsbördan på domstolarna, bland annat genom st
 
 Regeringen föreslår därför utökat stöd till Sveriges Domstolar för att verksamheten ska kunna fortgå i takt med övriga satsningar på rättsväsendet. Det utökade stödet är viktigt för att bibehålla rättssäkerheten och upprätthålla allmänhetens förtroende för domstolarna.
 
-Det har tidigare aviserats att Sveriges Domstolars anslag beräknas öka från 7 till 8,2 miljarder kronor mellan 2023 och 2026\.
+Det har tidigare aviserats att Sveriges Domstolars anslag beräknas öka från 7 till 8,2 miljarder kronor mellan 2023 och 2026.
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

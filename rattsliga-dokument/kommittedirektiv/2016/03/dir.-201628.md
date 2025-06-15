@@ -9,6 +9,6 @@ Utredaren ska
 * överväga om förutsättningarna för och innehållet i de särskilda föreskrifter som kan meddelas under prövotiden efter villkorlig frigivning bör förändras, och
 * lämna fullständiga författningsförslag.
 
-Uppdraget ska redovisas senast den 18 april 2017\.
+Uppdraget ska redovisas senast den 18 april 2017.
 
 [Pressmeddelande: Förändringar i systemet med villkorlig frigivning utreds](/pressmeddelanden/2016/03/forandringar-i-systemet-med-villkorlig-frigivning-utreds/)

@@ -1,6 +1,6 @@
 # Lagrådsremiss: Nya utstationeringsregler
 
-I lagrådsremissen föreslås ändringar i lagen (1999:678\) om utstationering av arbetstagare. Lagändringarna föreslås träda i kraft den 1 juli 2017\.
+I lagrådsremissen föreslås ändringar i lagen (1999:678) om utstationering av arbetstagare. Lagändringarna föreslås träda i kraft den 1 juli 2017.
 
 Ändringarna innebär i huvudsak följande:
 
@@ -12,6 +12,6 @@ I lagrådsremissen föreslås ändringar i lagen (1999:678\) om utstationering a
 * Enligt förslaget ska vidare en utstationerande arbetsgivare betala skadestånd för brott mot flera av de nyss nämnda bestämmelserna.
 * Förslaget innebär även att nya rättegångsbestämmelser införs.
 
-I lagrådsremissen föreslås även följdändringar i lagen (1976:580\) om medbestämmande i arbetslivet.
+I lagrådsremissen föreslås även följdändringar i lagen (1976:580) om medbestämmande i arbetslivet.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2017\.
+Lagändringarna föreslås träda i kraft den 1 juli 2017.

@@ -20,19 +20,19 @@ kontrollförordningen.
 
 Den nya kontrollförordningen ska tillämpas vid offentlig kontroll
 som utförs för att säkerställa att unionslagstiftningen inom en
-rad olika sakområden följs, oavsett om de närmare tillämpningsbestämmelserna har fastställts på unionsnivå eller i medlemsstaternas nationella lagstiftning. De berörda sakområdena är livsmedel och livsmedelssäkerhet, inklusive bestämmelser om tillverkning och användning av material och produkter avsedda att komma i kontakt med livsmedel, avsiktlig utsättning av genetiskt modifierade organismer i miljön för livsmedels\- och foderproduktion, foder och fodersäkerhet, djurhälsokrav, animaliska biprodukter, djurskyddskrav, skyddsåtgärder mot växtskadegörare, krav för utsläppande på marknaden och användning av växtskyddsmedel, ekologisk produktion och märkning av ekologiska produkter samt användning och märkning av skyddade ursprungsbeteckningar, skyddade geografiska beteckningar och garanterade traditionella specialiteter.
+rad olika sakområden följs, oavsett om de närmare tillämpningsbestämmelserna har fastställts på unionsnivå eller i medlemsstaternas nationella lagstiftning. De berörda sakområdena är livsmedel och livsmedelssäkerhet, inklusive bestämmelser om tillverkning och användning av material och produkter avsedda att komma i kontakt med livsmedel, avsiktlig utsättning av genetiskt modifierade organismer i miljön för livsmedels- och foderproduktion, foder och fodersäkerhet, djurhälsokrav, animaliska biprodukter, djurskyddskrav, skyddsåtgärder mot växtskadegörare, krav för utsläppande på marknaden och användning av växtskyddsmedel, ekologisk produktion och märkning av ekologiska produkter samt användning och märkning av skyddade ursprungsbeteckningar, skyddade geografiska beteckningar och garanterade traditionella specialiteter.
 
 Kontrollförordningen reglerar hur den offentliga kontrollen i
 medlemsstaterna ska organiseras, finansieras och genomföras. Vissa
 bestämmelser i förordningen gäller även för annan offentlig
 verksamhet än offentlig kontroll. Förordningen ska i huvudsak börja
-tillämpas från och med den 14 december 2019\.
+tillämpas från och med den 14 december 2019.
 
-I promemorian föreslås ändringar i epizootilagen (1999:657\),
-zoonoslagen (1999:658\), livsmedelslagen (2006:804\), lagen
-(2006:805\) om foder och animaliska biprodukter, lagen (2006:806\)
-om provtagning på djur, m.m., lagen (2006:807\) om kontroll av
-husdjur, m.m., lagen (2009:1424\) om kontroll av skyddade beteckningar på jordbruksprodukter och livsmedel, lagen (2013:363\) om kontroll av ekologisk produktion, djurskyddslagen (2018:1192\) och
+I promemorian föreslås ändringar i epizootilagen (1999:657),
+zoonoslagen (1999:658), livsmedelslagen (2006:804), lagen
+(2006:805) om foder och animaliska biprodukter, lagen (2006:806)
+om provtagning på djur, m.m., lagen (2006:807) om kontroll av
+husdjur, m.m., lagen (2009:1424) om kontroll av skyddade beteckningar på jordbruksprodukter och livsmedel, lagen (2013:363) om kontroll av ekologisk produktion, djurskyddslagen (2018:1192) och
 miljöbalken.
 
 Ändringarna innebär i huvudsak följande. Uttrycken offentlig
@@ -73,18 +73,18 @@ delegerats vissa uppgifter.
 När det gäller skyddsåtgärder mot växtskadegörare antog Europaparlamentet och rådet den 26 oktober 2016 förordning (EU) 2016/2031 om skyddsåtgärder mot växtskadegörare, ändring av Europaparlamentets och rådets förordningar (EU) nr 228/2013, (EU) nr 652/2014 och (EU) nr 1143/2014 samt om upphävande av rådets direktiv 69/464/EEG, 74/647/EEG, 93/85/EEG, 98/57/EG, 2000/29/EG, 2006/91/EG och 2007/33/EG (växtskyddsförordningen).
 
 Växtskyddsförordningen trädde i kraft den 13 december
-2016 och ska i allt väsentligt tillämpas från den 14 december 2019\.
+2016 och ska i allt väsentligt tillämpas från den 14 december 2019.
 Växtskyddsförordningen och den nya kontrollförordningen
 ersätter ett antal direktiv på området, främst rådets direktiv
 2000/29/EG av den 8 maj 2000 om skyddsåtgärder mot att skadegörare på växter eller växtprodukter förs in till gemenskapen och
 mot att de sprids inom gemenskapen. Detta innebär att materiella
 bestämmelser och bestämmelser om offentlig kontroll när det gäller
 skyddsåtgärder mot växtskadegörare kommer att finnas i direkt
-tillämpliga EU\-förordningar och inte som nu i medlemsstaternas
+tillämpliga EU-förordningar och inte som nu i medlemsstaternas
 nationella lagstiftning. Det krävs därför en fullständig översyn av
-växtskyddslagen (1972:318\). En sådan översyn pågår för närvarande
+växtskyddslagen (1972:318). En sådan översyn pågår för närvarande
 inom Regeringskansliet. I den här promemorian lämnas därför inte
 några förslag i det avseendet.
 
 Förslagen till lagändringar föreslås träda i kraft den 14 december
-2019\.
+2019.

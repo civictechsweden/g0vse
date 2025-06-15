@@ -8,4 +8,4 @@ På schemat står flera studiebesök där delegaterna kommer att få se bland an
 
 Ackreditering för att bevaka det informella mötet ges via det officiella ackrediteringssystemet för det svenska ordförandeskapet. Praktisk information till journalister ges via mediahandboken. Senaste datum för ackreditering är 4 juni.
 
-För mer information om mötesprogrammet och ackreditering, se det svenska ordförandeskapets webbplats. För eventuella frågor om ackreditering, kontakta det svenska EU\-ordförandeskapets pressfunktion (se kontakt nedan).
+För mer information om mötesprogrammet och ackreditering, se det svenska ordförandeskapets webbplats. För eventuella frågor om ackreditering, kontakta det svenska EU-ordförandeskapets pressfunktion (se kontakt nedan).

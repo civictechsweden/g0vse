@@ -2,7 +2,6 @@
 
 Det femte mötet i arbetsgruppen Samling för judiskt liv hölls i Uppsala den 20 september. Temat under mötet var den ökande antisemitismen med extra fokus på sociala medier och hur det påverkar judisk skolungdom i Sverige.
 
-
 Representanter för Judiska ungdomsförbundet deltog på mötet och gav en lägesbild av antisemitismen i skolan och i sociala medier. Läget är allvarligt och många judiska ungdomar möter antisemitism i olika former, särskilt i sociala medier. Bilden förstärktes av företrädare från World Jewish Congress i Norden och Judiska Centralrådet.
 
 –Att judiska skolungdomar i Sverige känner obehag inför att gå till skolan och utsätts för trakasserier i skolan eller i sociala medier är helt oacceptabelt. Samhällets gemensamma krafter behövs för att vi ska kunna vända denna negativa utveckling. Därför är det oerhört värdefullt att vi har denna arbetsgrupp, säger statsministerns statssekreterare Johan Stuart.

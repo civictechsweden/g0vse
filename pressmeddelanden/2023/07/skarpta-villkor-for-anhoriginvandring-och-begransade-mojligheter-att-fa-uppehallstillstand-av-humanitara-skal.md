@@ -8,4 +8,4 @@ I lagråds­remissen föreslår regeringen bland annat att ålders­gränsen fö
 
 Förslagen bygger på en överens­kommelse mellan regeringen och Sverige­demokraterna.
 
-Lagändringarna föreslås träda i kraft den 1 december 2023\.
+Lagändringarna föreslås träda i kraft den 1 december 2023.

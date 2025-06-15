@@ -15,4 +15,4 @@ t.ex. enskilda näringsidkare och delägare i handelsbolag, har också rätt til
 
 Lagändringarna föreslås träda i kraft den 1 december 2020, men
 tillämpas från och med det beskattningsår som infaller efter den
-31 december 2019\.
+31 december 2019.

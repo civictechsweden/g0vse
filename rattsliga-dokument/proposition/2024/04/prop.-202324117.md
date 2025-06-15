@@ -7,12 +7,12 @@ I syfte att stärka de brottsbekämpande myndigheternas förutsättningar att f�
 Regeringen föreslår bland annat följande:
 
 * Inhämtning av vissa uppgifter om elektronisk kommunikation ska få
-ske i fråga om fler typer av brott.
+  ske i fråga om fler typer av brott.
 * Fler tvångsmedel och verkställighetsåtgärder, till exempel hemlig
-rumsavlyssning och husrannsakan, ska få användas.
+  rumsavlyssning och husrannsakan, ska få användas.
 * Genomsökning på distans ska få användas i utlänningsärenden med
-kvalificerade säkerhetsaspekter.
+  kvalificerade säkerhetsaspekter.
 * Rättssäkerheten för den enskilde ska stärkas, bland annat genom
-utökade förbud mot avlyssning och övervakning.
+  utökade förbud mot avlyssning och övervakning.
 
-Lagändringarna föreslås träda i kraft den 1 september 2024\.
+Lagändringarna föreslås träda i kraft den 1 september 2024.

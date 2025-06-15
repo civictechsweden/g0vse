@@ -1,7 +1,6 @@
 # Statsministern deltog på extrainsatt EU-toppmöte
 
-Statsminister Ulf Kristersson deltog på ett extrainsatt EU\-toppmöte i Bryssel den 17–18 april. På dagordningen stod diskussioner om Europas konkurrenskraft, kriget i Ukraina och den oroliga utvecklingen i Mellanöstern.
-
+Statsminister Ulf Kristersson deltog på ett extrainsatt EU-toppmöte i Bryssel den 17–18 april. På dagordningen stod diskussioner om Europas konkurrenskraft, kriget i Ukraina och den oroliga utvecklingen i Mellanöstern.
 
 I slutsatserna konstaterar Europeiska rådet att det behövs en ny giv för Europas konkurrenskraft i syfte att skapa robusta ekonomier som kan möta utmaningar såsom stöd och återuppbyggnad av Ukraina och den gröna omställningen.
 

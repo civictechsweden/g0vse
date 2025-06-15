@@ -4,4 +4,4 @@
 
 Uppdraget ges i linje med Tidöavtalet – som är en sakpolitisk överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna – och parallellt med regeringens initiativ att uppdatera den nationella cancerstrategin.
 
-Socialstyrelsen får använda 1,5 miljoner kronor för uppdraget och ska slutredovisa uppdraget till Socialdepartementet senast 28 juni 2024\.
+Socialstyrelsen får använda 1,5 miljoner kronor för uppdraget och ska slutredovisa uppdraget till Socialdepartementet senast 28 juni 2024.

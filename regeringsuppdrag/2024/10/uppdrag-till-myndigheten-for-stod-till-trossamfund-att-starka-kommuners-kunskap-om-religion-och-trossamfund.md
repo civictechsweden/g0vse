@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Myndigheten för stöd till trossamfund (SST) att stärka kommunernas kunskap om religion och trossamfund. Detta genom att starta ett nätverk med kommuner.
 
-
 SST ska bland annat:
 
 * dokumentera arbetet och till kommunerna ta fram och sprida en vägledning med goda exempel. Även trossamfunden ska kunna använda vägledningen för att stärka sina kunskaper om offentligsektorn och de principer och värden som ligger till grund för den offentliga sektorn,

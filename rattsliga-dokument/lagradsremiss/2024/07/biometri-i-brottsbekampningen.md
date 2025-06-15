@@ -5,8 +5,8 @@ Dna, fingeravtryck, ansiktsbilder och liknande information om individuella känn
 Regeringen föreslår bland annat följande i lagrådsremissen:
 
 * Biometriska underlag ska få tas upp, registreras och användas vid utredning av brott i större utsträckning.
-* Polisens nuvarande register över dna\-profiler, fingeravtryck och signalement ska ersättas av nya biometriregister.
+* Polisens nuvarande register över dna-profiler, fingeravtryck och signalement ska ersättas av nya biometriregister.
 * Vid förundersökning om viss allvarlig brottslighet ska biometriska jämförelser av ansiktsbilder och fingeravtryck av misstänkta gärningsmän få göras mot Migrationsverkets register över fingeravtryck och fotografier.
-* Dna\-baserad släktforskning ska under vissa förutsättningar tillåtas vid mord och grova våldtäktsbrott.
+* Dna-baserad släktforskning ska under vissa förutsättningar tillåtas vid mord och grova våldtäktsbrott.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2025\.
+Lagändringarna föreslås träda i kraft den 1 juli 2025.

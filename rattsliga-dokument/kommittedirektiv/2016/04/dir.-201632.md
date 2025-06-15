@@ -12,4 +12,4 @@ Utredaren ska därför bl.a.
 * utreda om sanktionssystemet kan renodlas och utvecklas, och
 * om effektiviteten i den s.k. miljöbalkskedjan behöver stärkas.
 
-Utredaren ska i förekommande fall lämna förslag på författningsändringar eller andra åtgärder. Uppdraget ska redovisas senast den 28 april 2017\.
+Utredaren ska i förekommande fall lämna förslag på författningsändringar eller andra åtgärder. Uppdraget ska redovisas senast den 28 april 2017.

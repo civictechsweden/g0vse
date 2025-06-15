@@ -4,18 +4,17 @@ Tal av statssekreterare Minna Ljunggren vid ISPCAN:s konferens i Uppsala den 19 
 
 Det talade ordet gäller. Se tal på engelska nedan.
 
-
 Your Majesty, your excellencies, ladies and gentlemen.
 
 Let me start by thanking Your Majesty for your very insightful remarks. We all know the long standing commitment and dedication Your Majesty has shown when it comes to the wellbeing of children – all over the world. Thank you.
 
 I also want to take the opportunity to thank the (ISPCAN) and Barnafrid – the Swedish National Center for Knowledge on Violence against Children at Linköping University for organising this important congress.
 
-Sweden has a longstanding history taking a leading role in advocating for children's rights and combating violence against children. Not least since Sweden was the first country in the world to ban corporal punishment back in 1979\.
+Sweden has a longstanding history taking a leading role in advocating for children's rights and combating violence against children. Not least since Sweden was the first country in the world to ban corporal punishment back in 1979.
 
-In the process of banning corporal punishment, the government stated that disciplinary methods were contradictory to the view of the child as an independent and rights\-bearing individual. The government believed that the view of parents' right to reprimand children through forms of violence is dangerous, regardless of the extent of the violence, as this can all too easily justify more serious abuse.
+In the process of banning corporal punishment, the government stated that disciplinary methods were contradictory to the view of the child as an independent and rights-bearing individual. The government believed that the view of parents' right to reprimand children through forms of violence is dangerous, regardless of the extent of the violence, as this can all too easily justify more serious abuse.
 
-Since then, research has consistently shown that punitive violence not only fail to improve behavior – it indeed poses significant risks to children's physical and emotional health, and wellbeing. Positive parenting, on the other hand, is shown to reduce the likelihood of parents physically and emotionally abusing their children and improves parent\-child relationships.
+Since then, research has consistently shown that punitive violence not only fail to improve behavior – it indeed poses significant risks to children's physical and emotional health, and wellbeing. Positive parenting, on the other hand, is shown to reduce the likelihood of parents physically and emotionally abusing their children and improves parent-child relationships.
 
 Sweden will continue to strengthen the rights and improve children’s living conditions through both bilateral and multilateral development cooperation. Sweden has for a long time taken a proactive role concerning abolition against all corporal punishment of children. And I can ensure you that as both the Minister of Social Services, and myself, are deeply committed to issues relating to the rights and wellbeing of children and youth – we will continue to push the positions forward in this field.
 
@@ -23,9 +22,9 @@ Sweden will continue to strengthen the rights and improve children’s living co
 
 Today, the goal of Sweden's children's rights policy is for children and young people to be respected and given the opportunity for development, security, participation, and influence.
 
-The objective for the area is based, among other things, on the commitments Sweden made by ratifying the Convention on the Rights of the Child. The convention has also been incorporated into Swedish law since 2020\.
+The objective for the area is based, among other things, on the commitments Sweden made by ratifying the Convention on the Rights of the Child. The convention has also been incorporated into Swedish law since 2020.
 
-According to article 19 of the Convention on the Rights of the Child – as I am sure you know – every child has a right to be protected from all forms of violence, including all forms of physical or psychological abuse, harm, exploitation, or neglect that affect a child's well\-being, survival, development, or dignity – as well as corporal punishment.
+According to article 19 of the Convention on the Rights of the Child – as I am sure you know – every child has a right to be protected from all forms of violence, including all forms of physical or psychological abuse, harm, exploitation, or neglect that affect a child's well-being, survival, development, or dignity – as well as corporal punishment.
 
 There is never an excuse for using violence against children in whatever setting. The need to discipline children is no reason to use violence, neither in schools, institutions, nor in the family. Children should always be raised by positive measures.
 
@@ -48,7 +47,7 @@ I know that many of you attending the congress here today have deep knowledge an
 
 \*\*\*
 
-The Swedish fatality reviews is a legal framework and a working model, with the purpose to investigate and shine light on problems within the public social safety net – to instances of deadly violence against children as well as deadly domestic violence against adults and certain forms of serious non\-deadly violent crimes.
+The Swedish fatality reviews is a legal framework and a working model, with the purpose to investigate and shine light on problems within the public social safety net – to instances of deadly violence against children as well as deadly domestic violence against adults and certain forms of serious non-deadly violent crimes.
 
 The model aims to provide the Government with a basis for decisions on preventive measures, by identifying systemic failures of the public social safety net. For example, the fatality reviews have demonstrated the need for extended coordination between different social actors in Sweden as well as developed measures to actively detect violence, to better prevent serious and deadly violence against children.
 
@@ -67,9 +66,9 @@ In November, the very first international ministerial conference on the theme of
 The main objective of the conference is to engage the UN Member States in discussions on violence against children to speed up the progress towards reaching the Sustainable Developments Goals, to end abuse, exploitation, trafficking, and all forms of violence against children, including torture.
 
 The seed to this conference stems from a global, as well as national, situation where focus on child protection is highly important to enhance.
-Furthermore, we believe that the time is ripe for a global advancement towards ending corporal punishment, forty\-five years since this was prohibited in Sweden.
+Furthermore, we believe that the time is ripe for a global advancement towards ending corporal punishment, forty-five years since this was prohibited in Sweden.
 
-Therefore, we are – together with the other co\-host of the conference –working on a draft call to action, where we also see the need to make a push to ensure comprehensive prohibition of all forms of violence, and those priorities must include absolute prohibition of corporal punishment, among other important issues – which we hope as many member states as possible will support.
+Therefore, we are – together with the other co-host of the conference –working on a draft call to action, where we also see the need to make a push to ensure comprehensive prohibition of all forms of violence, and those priorities must include absolute prohibition of corporal punishment, among other important issues – which we hope as many member states as possible will support.
 
 I hope that this conference could be the accelerator towards reaching the Sustainable Development Goals on ending violence against children, and be a starting point to exchange knowledge as well as best practices between countries on a global level. I really hope many of you will be able to contribute to the conference, and that your future work will benefit from the outcome!
 

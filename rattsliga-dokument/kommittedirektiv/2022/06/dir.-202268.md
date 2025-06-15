@@ -7,8 +7,8 @@ Syftet med översynen är bl.a. att motverka fusk och arbetslivskriminalitet. Ut
 Utredaren ska bl.a.
 
 * överväga vilka uppgifter på individnivå som bör lämnas i arbetsgivardeklarationen och utreda om ytterligare uppgifter bör lämnas som visserligen inte har betydelse för beskattningen eller för Skatteverkets övriga verksamhet men som behövs för att effektivt motverka arbetslivskriminalitet samt felaktiga utbetalningar och brott mot välfärdssystemen,
-* ta ställning till om ytterligare kvalificeringskrav eller uteslutningsgrunder bör införas för företag som utför rot\- och rutarbeten,
+* ta ställning till om ytterligare kvalificeringskrav eller uteslutningsgrunder bör införas för företag som utför rot- och rutarbeten,
 * ta ställning till om ändringar bör göras i regelverket för personalliggare för att effektivisera myndighetssamverkan mot fusk, regelöverträdelser och arbetslivskriminalitet, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska delredovisas senast den 31 augusti 2023 och slutredovisas senast den 30 augusti 2024\.
+Uppdraget ska delredovisas senast den 31 augusti 2023 och slutredovisas senast den 30 augusti 2024.

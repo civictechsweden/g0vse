@@ -1,9 +1,8 @@
 # Tal av försvarsminister Pål Jonson vid Folk och Försvars rikskonferens 2023
 
-Folk och försvars årliga rikskonferens, Sälen, den 9 januari 2023\.
+Folk och försvars årliga rikskonferens, Sälen, den 9 januari 2023.
 
 Det talade ordet gäller.
-
 
 Ers Majestät,
 
@@ -13,7 +12,7 @@ Soldater och sjömän
 
 Mina damer och herrar
 
-Med den fullskaliga invasionen av Ukraina visade Putin\-regimen att Ryssland styrs av en regering som ljuger, förtrycker, mördar, invaderar, ockuperar och deporterar \- både vuxna och barn.
+Med den fullskaliga invasionen av Ukraina visade Putin-regimen att Ryssland styrs av en regering som ljuger, förtrycker, mördar, invaderar, ockuperar och deporterar - både vuxna och barn.
 
 Detta är ett oprovocerat och oförsvarbart krig som också bedrivs på ett olagligt och folkrättsvidrigt sätt. Rysslands angriper systematiskt civila mål som saknar militära syften.
 
@@ -21,13 +20,13 @@ Med ett storkrig i Europa och den europeiska säkerhetsordningen allvarligt skad
 
 Rysslands agerande har resulterat i ett fundamentalt försämrat säkerhetsläge i vårt närområde som med all sannolikhet kommer att bestå under lång tid framöver.
 
-Vi står därför inför tre historiska uppgifter för vårt lands säkerhets\- och försvarspolitik.
+Vi står därför inför tre historiska uppgifter för vårt lands säkerhets- och försvarspolitik.
 
 För det första ska vi stödja Ukraina så landet kan segra och återta sin fulla frihet och territoriella integritet.
 
-För det andra ska vi göra den största omläggningen av Sveriges säkerhets\- och försvarspolitik i modern tid genom att framgångsrikt integrera Sverige i Nato.
+För det andra ska vi göra den största omläggningen av Sveriges säkerhets- och försvarspolitik i modern tid genom att framgångsrikt integrera Sverige i Nato.
 
-Och för det tredje ska vi genomföra den största upprustningen av vårt totalförsvar sedan 1950\-talet.
+Och för det tredje ska vi genomföra den största upprustningen av vårt totalförsvar sedan 1950-talet.
 
 \*\*\*
 
@@ -103,9 +102,9 @@ Norge har redan ingått ett sådant avtal och Danmark och Finland har inlett fö
 
 Inför och under kriget i Ukraina har Nato och EU arbetat närmare varandra än någonsin tidigare. Det är utmärkt.
 
-Genom vårt EU\-ordförandeskap kommer vi att verka för att EU:s alla verktyg används för stöd till Ukraina och för ett ännu starkare samarbete mellan EU och Nato.
+Genom vårt EU-ordförandeskap kommer vi att verka för att EU:s alla verktyg används för stöd till Ukraina och för ett ännu starkare samarbete mellan EU och Nato.
 
-Vi hoppas därför att en ny EU\-Nato deklaration om fördjupat samarbete ska kunna antas under det svenska EU\-ordförandeskapet.
+Vi hoppas därför att en ny EU-Nato deklaration om fördjupat samarbete ska kunna antas under det svenska EU-ordförandeskapet.
 
 Våra Natomedlemskap lägger också grunden för ett starkare nordiskt försvarssamarbete i fred, kris och krig. Hela Norden blir då en del av Nato. Det kommer att vara ett viktigt ingångsvärde i det svenska ordförandeskapet i Nordefco under 2023 och den nya vision för samarbetet till 2030 som vi ska presentera till sommaren.
 
@@ -117,9 +116,9 @@ Kriget i Ukraina visar tydligt på betydelsen av innovationskraft, försörjning
 
 \*\*\*
 
-Totalförsvaret måste stärkas. Det saknas inte utmaningar. Personalförsörjningen behöver stärkas genom bra anställningsvillkor, fler värnpliktiga och anställda soldater. Den långräckviddiga förmågan ska utvecklas och det behövs investeringar i autonoma system och drönare. Förmågan inom cyber\- och rymddomänen måste stärkas. Försvarsunderrättelseförmågan ska vidareutvecklas ytterligare. Det civila försvarets förmåga att stödja Försvarsmakten måste förbättras.
+Totalförsvaret måste stärkas. Det saknas inte utmaningar. Personalförsörjningen behöver stärkas genom bra anställningsvillkor, fler värnpliktiga och anställda soldater. Den långräckviddiga förmågan ska utvecklas och det behövs investeringar i autonoma system och drönare. Förmågan inom cyber- och rymddomänen måste stärkas. Försvarsunderrättelseförmågan ska vidareutvecklas ytterligare. Det civila försvarets förmåga att stödja Försvarsmakten måste förbättras.
 
-Ytterst handlar allt detta om att våra krigsförband måste vara personellt och materiellt uppfyllda. De måste vara samtränade så att de med kort varsel kan försvara Sverige och våra Natoallierade mot ett väpnat angrepp. Detta är en viktig trovärdighetsfråga för Sverige som Nato\-land.
+Ytterst handlar allt detta om att våra krigsförband måste vara personellt och materiellt uppfyllda. De måste vara samtränade så att de med kort varsel kan försvara Sverige och våra Natoallierade mot ett väpnat angrepp. Detta är en viktig trovärdighetsfråga för Sverige som Nato-land.
 
 Den försvarsberedning som jag tillsatte i december har en mycket viktig uppgift framför sig. Den ska staka ut kursen och komma med genomarbetade förslag för upprustningen av totalförsvaret och Sveriges integrering i Nato.
 
@@ -127,7 +126,7 @@ Försvarsberedningen med sin breda politiska sammansättning är en styrka för 
 
 Den tillväxt som vi har framför oss har speciella utmaningar, inte minst i form av olika flaskhalsar i produktion och utveckling. Jag vill ta ett helhetsgrepp på denna problematik och införa vad vi kallar ett tillväxtbaserat politiskt ledarskap. Det syftar till snabbare tillväxt genom att ge försvaret en större handlingsfrihet.
 
-Det handlar t.ex. om rambeslut som ger myndigheterna större flexibilitet i genomförandet av utbildnings\- och övningsverksamhet, det handlar om ändringar i tillstånds\- och processfrågor och det handlar om möjligheter till effektivare upphandlingar.
+Det handlar t.ex. om rambeslut som ger myndigheterna större flexibilitet i genomförandet av utbildnings- och övningsverksamhet, det handlar om ändringar i tillstånds- och processfrågor och det handlar om möjligheter till effektivare upphandlingar.
 
 I gengäld förväntar jag mig myndigheter som är villiga att agera snabbt och innovativt för att säkra en ökad försvarsförmåga. När det pågår ett krig i Europa kan det inte vara ”business as usual” – Exceptionella tider kräver exceptionella åtgärder.
 

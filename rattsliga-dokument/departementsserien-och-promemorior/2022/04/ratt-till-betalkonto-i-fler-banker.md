@@ -8,6 +8,6 @@ Strukturomvandlingen under de senaste åren har medfört att två av de fem stö
 
 Förslaget ökar konsumentskyddet på bankmarknaden och konkurrensen mellan kreditinstituten.
 
-Lagändringarna ska träda i kraft den 1 januari 2023\.
+Lagändringarna ska träda i kraft den 1 januari 2023.
 
-Remissvaren ska ha kommit in till Finansdepartementet senast den 1 juni 2022\.
+Remissvaren ska ha kommit in till Finansdepartementet senast den 1 juni 2022.

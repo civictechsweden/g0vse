@@ -1,7 +1,6 @@
 # Uppdrag om utbildning i föräldraskapsstödjande arbete
 
-Regeringen har som mål att alla föräldrar ska erbjudas universellt och riktat stöd i föräldraskapet och i sin relation till varandra under barnets hela uppväxt. Regeringen ger nu Länsstyrelsen i Örebro län i uppdrag att se till att utbildning i föräldraskapsstödjande arbete erbjuds under vårterminen 2017\.
-
+Regeringen har som mål att alla föräldrar ska erbjudas universellt och riktat stöd i föräldraskapet och i sin relation till varandra under barnets hela uppväxt. Regeringen ger nu Länsstyrelsen i Örebro län i uppdrag att se till att utbildning i föräldraskapsstödjande arbete erbjuds under vårterminen 2017.
 
 ### Kunskap och konkreta verktyg för framgångsrikt föräldrastödjande arbete
 
@@ -13,4 +12,4 @@ Den ska fokusera på hur föräldraskapsstöd kan utvecklas och erbjudas förä
 
 Utbildningen ska genomsyras av ett barnrättsperspektiv och det jämställda föräldraskapet.
 
-Uppdraget ska redovisas till Socialdepartementet senast den 15 oktober 2017\.
+Uppdraget ska redovisas till Socialdepartementet senast den 15 oktober 2017.

@@ -4,7 +4,7 @@ Fokus för Sverige under högnivåveckan ligger bland annat på att öka det glo
 
 Söndagen den 22 september samlas medlemsstaterna för att diskutera grundläggande framtidsfrågor i det så kallade Framtidstoppmötet; Summit of the Future där en politisk deklaration ska antas.
 
-Sverige har spelat en ledande roll i framtagandet av ett första globalt ramverk om digitalt samarbete \- Global Digital Compact \- som ska antas vid toppmötet.
+Sverige har spelat en ledande roll i framtagandet av ett första globalt ramverk om digitalt samarbete - Global Digital Compact - som ska antas vid toppmötet.
 
 Under de inledande dagarna hålls också toppmöten om havsnivåhöjning och antibiotikaresistens.
 

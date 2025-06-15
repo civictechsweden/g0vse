@@ -12,8 +12,8 @@ Ta del av ambassadernas reseinformation på swedenabroad.se och i appen UD Reskl
 
 Rörande den avrådan från icke nödvändiga resor till alla länder som beslutades den 14 mars 2020, och som sedermera har förlängts, beslutar UD följande:
 
-1\. UD förlänger avrådan från icke nödvändiga resor till Estland, Irland, Lettland och Litauen till och med den 4 november 2020\.
+1. UD förlänger avrådan från icke nödvändiga resor till Estland, Irland, Lettland och Litauen till och med den 4 november 2020.
 
 UD har i tidigare beslut hävt avrådan från icke nödvändiga resor till: Andorra, Belgien, Bulgarien, Cypern, Danmark, Finland, Frankrike, Grekland, Island, Italien, Kroatien, Liechtenstein, Luxemburg, Malta, Monaco, Nederländerna, Norge, Polen, Portugal, Rumänien, San Marino, Schweiz, Slovakien, Slovenien, Spanien, Storbritannien, Tjeckien, Tyskland, Ungern, Vatikanstaten och Österrike.
 
-2\. UD har tidigare fattat beslut om avrådan från icke nödvändiga resor till övriga länder utanför EU, EES samt Schengenområdet till och med den 15 november 2020\. Detta beslut gäller alltjämt.
+2. UD har tidigare fattat beslut om avrådan från icke nödvändiga resor till övriga länder utanför EU, EES samt Schengenområdet till och med den 15 november 2020. Detta beslut gäller alltjämt.

@@ -10,4 +10,4 @@ för att beskattas konventionellt ska ansöka om godkännande för tonnagebeskat
 Förslaget föranleder ändringar i inkomstskattelagen och
 skatteförfarandelagen.
 
-De nya bestämmelserna föreslås träda i kraft den 20 juli 2016\.
+De nya bestämmelserna föreslås träda i kraft den 20 juli 2016.

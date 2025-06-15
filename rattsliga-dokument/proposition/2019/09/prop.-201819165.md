@@ -7,4 +7,4 @@ I propositionen föreslås det att lagens definition av forskning, utöver veten
 
 Överklagandenämnden för etikprövning ska ha tillsyn över att lagen, föreskrifter som har meddelats med stöd av lagen och villkor som har meddelats i samband med ett etikgodkännande följs. Straffmaximum för den som uppsåtligen utför forskning utan ett etikgodkännande ska höjas från fängelse i sex månader till fängelse i två år.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2020\.
+Lagändringarna föreslås träda i kraft den 1 januari 2020.

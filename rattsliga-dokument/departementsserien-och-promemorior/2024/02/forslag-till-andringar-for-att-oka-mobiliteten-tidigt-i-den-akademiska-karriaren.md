@@ -6,6 +6,6 @@ Förslagen inkluderar ändringar i högskolelagen (1992:1434, HL) som möjlig g�
 
 Vidare lämnas ett förslag om ändring i HF om att tidsgränsen för anställning som biträdande lektor från doktorsexamen ska vara högst fem år eller högst sju år från avlagd doktorsexamen. Detta innebär att det, vid sidan av den tidsgräns om fem år som gäller i dag, införs en ny möjlig tidsgräns om sju år. Det föreslås vidare att respektive lärosäte ska få bestämma vilken gräns som ska gälla inom respektive ämnesområde. Syftet med dessa förslag är att till godose de skilda förutsättningar och behov som finns vid olika lärosäten för att främja mobilitet och excellens.
 
-De förändringar som föreslås när det gäller tidsgränsen mellan doktors examen och ansökan till anställning som biträdande lektor föreslås träda i kraft den 1 juli 2024\.
+De förändringar som föreslås när det gäller tidsgränsen mellan doktors examen och ansökan till anställning som biträdande lektor föreslås träda i kraft den 1 juli 2024.
 
-De förändringar som föreslås när det gäller förenade anställningar föreslås träda i kraft den 1 juli 2025\.
+De förändringar som föreslås när det gäller förenade anställningar föreslås träda i kraft den 1 juli 2025.

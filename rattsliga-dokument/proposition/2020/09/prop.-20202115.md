@@ -5,4 +5,4 @@ I propositionen föreslås att sekretess ska gälla hos Statens tjänstepensions
 Det föreslås även att sekretessen inte ska hindra att uppgifter lämnas till försäkringsgivare som behöver uppgifterna för att utforma en pensionsförsäkring.
 
 De nya sekretessbestämmelserna föreslås träda i kraft den 1 januari
-2021\.
+2021.

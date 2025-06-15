@@ -19,4 +19,4 @@ En utredare ska därför bland annat analysera och ta ställning till
 
 Utredaren ska lämna nödvändiga författningsförslag.
 
-Utredare är justitierådet Margareta Brattström. Utredningen ska redovisa sitt uppdrag senast den 15 december 2025\.
+Utredare är justitierådet Margareta Brattström. Utredningen ska redovisa sitt uppdrag senast den 15 december 2025.

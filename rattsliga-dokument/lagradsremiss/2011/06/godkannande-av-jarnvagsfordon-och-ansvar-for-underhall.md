@@ -6,4 +6,4 @@ Järnvägslagen föreslås kompletteras med bestämmelser om godkännande av for
 
 Vidare föreslås att det för alla järnvägsfordon utses en underhållsansvarig enhet. Uppgiften som underhållsansvarig enhet ska kunna innehas av ett järnvägsföretag, en infrastrukturförvaltare, en fordonsinnehavare eller någon annan, t.ex. ett underhållsföretag, som uppfyller de krav som ställs i lagen. Information om vilken enhet som ansvarar för ett visst fordon ska föras in i det nationella fordonsregistret. För godsvagnar ska krävas att den underhållsansvariga enheten antingen har tillstånd från tillsynsmyndigheten eller ett certifikat utfärdat av ett ackrediterat certifieringsorgan. I de fall ett certifieringsorgan utfärdat ett certifikat, föreslås att detta organ utövar den fortsatta tillsynen över den underhållsansvariga enheten i de avseenden som prövats vid certifieringen.
 
-Lagändringarna föreslås träda i kraft den 1 december 2011\.
+Lagändringarna föreslås träda i kraft den 1 december 2011.

@@ -1,7 +1,6 @@
 # Sveriges linjetal framfört av jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg vid högnivåmötet Commission on the Status of Women (engelska)
 
-New York, 12 mars 2024\. Det talade ordet gäller.
-
+New York, 12 mars 2024. Det talade ordet gäller.
 
 Madame Chair,
 
@@ -11,15 +10,15 @@ It is an honour for me to address the 68th session of the Commission on the Stat
 
 Our thoughts today are with all women and girls living in conflict situations, under repression or other emergencies, be it in Gaza, Israel, Sudan, Afghanistan, Iran or in Ukraine. There is no conflict that is gender neutral. It is true when we think about the women who are forced to give birth without access to healthcare or pain relief. It is obvious when we think about the women who are subjected to rape and sexualized torture.
 
-In my own region – and I am now speaking about Ukraine – Russia’s full\-scale invasion continues to have appalling consequences for women and girls. They have been forced to flee their homes in huge numbers, many bringing with them horrendous accounts of systematic sexual violence. International law, including the UN Charter, humanitarian law and human rights law, must be respected by all States. Sweden stands united in strong solidarity with the Ukrainian people. My government will continue to support Ukraine and contribute to hold Russia accountable for its crimes in and against Ukraine.
+In my own region – and I am now speaking about Ukraine – Russia’s full-scale invasion continues to have appalling consequences for women and girls. They have been forced to flee their homes in huge numbers, many bringing with them horrendous accounts of systematic sexual violence. International law, including the UN Charter, humanitarian law and human rights law, must be respected by all States. Sweden stands united in strong solidarity with the Ukrainian people. My government will continue to support Ukraine and contribute to hold Russia accountable for its crimes in and against Ukraine.
 
 Let me be crystal clear. International law applies to everyone and always, regardless of geographical context. International humanitarian law must be respected and civilians – women and men, girls and boys – must be protected in all conflict situations no matter where in the world they take place.  And those who stay silent when faced with violence against women and children in any conflict, cannot claim to stand up for women’s rights.
 
 Madame Chair
 
-I am a proud member of a government that has committed to include a gender equality perspective into all areas of policy\-making.
+I am a proud member of a government that has committed to include a gender equality perspective into all areas of policy-making.
 
-Because human rights are universal, indivisible, interrelated, interdependent and mutually reinforcing. They apply to all, regardless of sex, gender identity or expression, ethnicity, religion or other belief, disability, sexual orientation, age, or other status. The Swedish Government is committed to ensure equal rights and the full and equal enjoyment of human rights of LGBTIQ\-persons.
+Because human rights are universal, indivisible, interrelated, interdependent and mutually reinforcing. They apply to all, regardless of sex, gender identity or expression, ethnicity, religion or other belief, disability, sexual orientation, age, or other status. The Swedish Government is committed to ensure equal rights and the full and equal enjoyment of human rights of LGBTIQ-persons.
 
 Madam Chair
 
@@ -41,7 +40,7 @@ We need to intensify our joint efforts for gender equality, democracy and to fig
 
 We need to continue standing up for all women’s and girls’ full enjoyment of human rights. Importantly, this must include their sexual and reproductive health and rights. To promote access to safe and legal abortions, contraceptives, and comprehensive sexuality education is essential.
 
-Also, let us once and for all eliminate men’s violence against women and girls, ‘honour’\-based violence and oppression, as well as putting an end to prostitution and trafficking.
+Also, let us once and for all eliminate men’s violence against women and girls, ‘honour’-based violence and oppression, as well as putting an end to prostitution and trafficking.
 
 Let us continue to stand up for Women, Peace, and Security. Open, democratic societies are a prerequisite for creating and guaranteeing peace and freedom.
 

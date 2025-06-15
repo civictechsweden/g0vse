@@ -9,7 +9,7 @@ På Ekofinrådets möte den 10 oktober 2019 finns följande punkter på dagordni
 * Genomförandet av handlingsplanen för bekämpning av penningtvätt
 * Penningtvättsdirektivet: Politiken gentemot ’’högrisktredjeländer’’
 * Europeiska terminen 2019 – tillvaratagna erfarenheter
-* Förberedelser inför G20\- och IMF\-mötena i Washington den 17–19 oktober 2019
+* Förberedelser inför G20- och IMF-mötena i Washington den 17–19 oktober 2019
 * Finansministrarnas koalition för klimatåtgärder
 * (ev.) Rådets rekommendation om utnämning av en ledamot i Europeiska centralbankens direktion
 * Kapitalmarknadsunionen

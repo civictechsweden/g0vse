@@ -2,4 +2,4 @@
 
 Utredaren får nu i uppdrag att också föreslå hur aktivitets och i tillämpliga fall närvarokrav inom den kommunala vuxenutbildningen (komvux) bör utformas.
 
-Uppdraget ska fortfarande redovisas senast den 2 april 2013\.
+Uppdraget ska fortfarande redovisas senast den 2 april 2013.

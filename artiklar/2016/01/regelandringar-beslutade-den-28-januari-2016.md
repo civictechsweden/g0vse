@@ -7,11 +7,11 @@ Regeringen har beslutat om ändringar i elförordningen som rör den gränsöver
 ### Referenser
 
 * kommissionens förordning (EU) 2015/1222 av den 24 juli 2015 om fastställande av riktlinjer för kapacitetstilldelning och hantering av överbelastning
-* elförordningen (2013:208\)
+* elförordningen (2013:208)
 
 ### Mer information
 
-Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 9 februari 2016\.
+Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 9 februari 2016.
 
 Kontaktperson:
-Andreas Lindholm 08\-405 14 54
+Andreas Lindholm 08-405 14 54

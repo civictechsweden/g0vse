@@ -1,10 +1,10 @@
 # Bättre möjlighet att stärka sjukvården genom tidiga besked om statsbidrag
 
-– Med det nuvarande ekonomiska läget är det avgörande för regionerna att redan nu kunna planera för verksamhetsåret med vetskap om hur mycket pengar de kommer att tilldelas. Detta innebär en minskad risk att pengar läggs på hög mot slutet av året och möjliggör att pengarna kan användas till att stärka hälso\- och sjukvården och öka tillgängligheten i hela landet, säger sjukvårdsminister Acko Ankarberg Johansson.
+– Med det nuvarande ekonomiska läget är det avgörande för regionerna att redan nu kunna planera för verksamhetsåret med vetskap om hur mycket pengar de kommer att tilldelas. Detta innebär en minskad risk att pengar läggs på hög mot slutet av året och möjliggör att pengarna kan användas till att stärka hälso- och sjukvården och öka tillgängligheten i hela landet, säger sjukvårdsminister Acko Ankarberg Johansson.
 
 – Vi behöver säkerställa en god, jämlik och tillgänglig vård till alla invånare både på kort och lång sikt, trots tuffa ekonomiska förutsättningar. Genom de här överenskommelserna får kommuner och regioner tydliga förutsättningar och ett viktigt tillskott i det arbetet, säger Rachel De Basso, ordförande för SKR:s sjukvårdsdelegation.
 
-Svensk hälso\- och sjukvård håller hög kvalitet. Uppföljningar visar bland annat på kontinuerliga förbättringar vad gäller flera olika hälsoutfall och att förtroendet för hälso\- och sjukvården är högt. Samtidigt finns det fortsatta utmaningar. Väntetiderna och vårdköerna behöver kortas, tillgängligheten till vård förbättras och kompetensförsörjningen stärkas. Att åstadkomma detta i nuvarande ekonomiska läge är en utmaning.
+Svensk hälso- och sjukvård håller hög kvalitet. Uppföljningar visar bland annat på kontinuerliga förbättringar vad gäller flera olika hälsoutfall och att förtroendet för hälso- och sjukvården är högt. Samtidigt finns det fortsatta utmaningar. Väntetiderna och vårdköerna behöver kortas, tillgängligheten till vård förbättras och kompetensförsörjningen stärkas. Att åstadkomma detta i nuvarande ekonomiska läge är en utmaning.
 
 ### Besked om medel till regionerna så tidigt som möjligt
 
@@ -12,8 +12,9 @@ Regeringen har sedan tidigare aviserat ökade medel under kommande år till regi
 
 Genom de fem överenskommelser på vårdområdet som regeringen och SKR idag har träffat får regionerna besked om medel innan verksamhetsåret börjat i stället för som tidigare när besked kommit senare under året. Detta förbättrar regionernas förutsättningar att planera verksamhet effektivt och är något som regionerna efterfrågat.
 
-| Region | Sammanlagda medel per region.\*Miljoner kronor |
+|  |  |
 | --- | --- |
+| Region | Sammanlagda medel per region.\* Miljoner kronor |
 | Stockholm | 2 111 |
 | Uppsala | 371 |
 | Sörmland | 279 |
@@ -37,12 +38,13 @@ Genom de fem överenskommelser på vårdområdet som regeringen och SKR idag har
 | Norrbotten | 249 |
 | Totalt | 9 842 |
 
-\*Denna tabell innehåller överenskommelsemedel samt det i budgetpropositionen beslutade sektorsbidraget till regionerna och de prestationsbaserade medlen till regionerna i överenskommelserna (exklusive för barn\- och ungdomspsykiatri). Detta är de preliminära totala medlen som tillfaller respektive region för dessa satsningar.
+\*Denna tabell innehåller överenskommelsemedel samt det i budgetpropositionen beslutade sektorsbidraget till regionerna och de prestationsbaserade medlen till regionerna i överenskommelserna (exklusive för barn- och ungdomspsykiatri). Detta är de preliminära totala medlen som tillfaller respektive region för dessa satsningar.
 
 Utöver medlen till regionerna avsätts genom överenskommelsen om god och nära vård 750 miljoner kronor till kommunerna. Medlen avsätts för kommunernas insatser kopplade till utvecklingen av den nära vården med primärvården som nav och goda förutsättningar för vårdens medarbetare. Nedan visas fördelning till kommunerna per län.
 
-| Län | Överenskommelser medel till kommunerna per län. Miljoner kronor |
+|  |  |
 | --- | --- |
+| Län | Överenskommelser medel till kommunerna per län.  Miljoner kronor |
 | Stockholm | 110 |
 | Uppsala | 29 |
 | Sörmland | 22 |

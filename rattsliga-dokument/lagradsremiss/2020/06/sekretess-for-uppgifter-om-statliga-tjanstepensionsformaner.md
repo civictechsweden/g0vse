@@ -6,4 +6,4 @@ Sekretessen ska gälla om det kan antas att den enskilde eller någon närståen
 
 Det föreslås även att sekretessen inte ska hindra att uppgifter lämnas till försäkringsgivare som behöver uppgifterna för att utforma en pensionsförsäkring.
 
-De nya sekretessbestämmelserna föreslås träda i kraft den 1 januari 2021\.
+De nya sekretessbestämmelserna föreslås träda i kraft den 1 januari 2021.

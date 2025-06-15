@@ -15,4 +15,4 @@ Kommittén ska bland annat analysera och ta ställning till:
 
 Kommittén ska lämna de författningsförslag som den bedömer är motiverade.
 
-Den parlamentariskt sammansatta kommittén, som kommer att bestå av representanter för samtliga riksdagspartier, kommer att ledas av tidigare justitierådet och ordföranden i Högsta förvaltningsdomstolen Mats Melin. Kommittén ska redovisa sitt uppdrag senast den 15 februari 2025\.
+Den parlamentariskt sammansatta kommittén, som kommer att bestå av representanter för samtliga riksdagspartier, kommer att ledas av tidigare justitierådet och ordföranden i Högsta förvaltningsdomstolen Mats Melin. Kommittén ska redovisa sitt uppdrag senast den 15 februari 2025.

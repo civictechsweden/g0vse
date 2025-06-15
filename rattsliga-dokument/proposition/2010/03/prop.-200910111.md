@@ -8,7 +8,7 @@ Avtalet om utbyte av upplysningar i skatteärenden utgör ett viktigt steg i reg
 
 Lagen föreslås träda i kraft den dag regeringen bestämmer.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
-Riksdagen godkände avtalet den 28 april 2010\.
+-------------------------------------------------------
+Riksdagen godkände avtalet den 28 april 2010.
 
 Länk till riksdagsbeslutet finns i högerspalten.

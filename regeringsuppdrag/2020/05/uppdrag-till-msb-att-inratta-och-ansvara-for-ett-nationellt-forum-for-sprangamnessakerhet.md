@@ -2,7 +2,6 @@
 
 Regeringen ger Myndigheten för samhällsskydd och beredskap (MSB) i uppdrag att inrätta och därefter ansvara för ett nationellt forum för sprängämnessäkerhet.
 
-
 I det nationella forumet för sprängämnessäkerhet ska, förutom MSB, även Försvarsmakten, Försvarets materielverk, Jordbruksverket, Kustbevakningen, Polismyndigheten, Säkerhetspolisen, Totalförsvarets forskningsinstitut, Trafikverket, Transportstyrelsen och Tullverket ingå. MSB ska samråda med myndigheterna i arbetet med att inrätta forumet. Vidare ska Sveriges Kommuner och Regioner erbjudas möjlighet att delta i forumet.
 
 Det nationella forumet ska verka för att öka spräng­ämnes­säkerheten genom att bidra till och stimulera erfarenhets­återföring samt kunskaps­utveckling inom området. Därtill ska behov av medvetande­höjande åtgärder identifieras och utifrån dessa behov ska kunskap och information spridas till berörda myndigheter och aktörer. Forumet ska dessutom följa den internationella utvecklingen inom området.

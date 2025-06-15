@@ -1,5 +1,4 @@
 # Ändrade regler för uppskov med kapitalvinst vid avyttring av privatbostad
 
-Uppskov med beskattning av kapitalvinst när en privatbostad avyttras, begränsas enligt gällande regler till att både den avyttrade bostaden och ersättningsbostaden skall ligga i Sverige. I propositionen föreslås att uppskovsmöjligheterna utvidgas till att också avse bostäder som ligger i en stat inom Europeiska ekonomiska samarbetsområdet (EES). De nya bestämmelserna föreslås träda i kraft den 1 februari 2007\. Om den skattskyldige begär det får reglerna tillämpas på avyttringar som skett den 1 januari 2006 eller senare.
-
-Riksdagen sade ja till propositionen den 19 december 2006\.
+Uppskov med beskattning av kapitalvinst när en privatbostad avyttras, begränsas enligt gällande regler till att både den avyttrade bostaden och ersättningsbostaden skall ligga i Sverige. I propositionen föreslås att uppskovsmöjligheterna utvidgas till att också avse bostäder som ligger i en stat inom Europeiska ekonomiska samarbetsområdet (EES). De nya bestämmelserna föreslås träda i kraft den 1 februari 2007. Om den skattskyldige begär det får reglerna tillämpas på avyttringar som skett den 1 januari 2006 eller senare.
+Riksdagen sade ja till propositionen den 19 december 2006.

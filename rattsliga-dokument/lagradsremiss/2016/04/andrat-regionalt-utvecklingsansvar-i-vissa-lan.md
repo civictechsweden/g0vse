@@ -10,4 +10,4 @@ dessa län. Förslaget innebär även att berörda landsting får besluta att
 landstingsfullmäktige och landstingsstyrelsen i stället ska betecknas
 regionfullmäktige respektive regionstyrelse. Vid val ska dock beteckningen landstingsfullmäktige fortfarande användas.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2017\.
+Lagändringarna föreslås träda i kraft den 1 januari 2017.

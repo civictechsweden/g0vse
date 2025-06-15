@@ -4,4 +4,4 @@ I propositionen föreslås att en myndighet ska få besluta att vissa aktörer s
 
 Myndigheten ska vidare få besluta att samma krets av aktörer ska vara skyldiga att genom samverkan stödja arbetet för att återställa infrastrukturen för elektroniska kommunikationer i anslutning till händelser vid fredstida krissituationer eller höjd beredskap.
 
-De nya reglerna föreslås träda i kraft den 1 maj 2024\.
+De nya reglerna föreslås träda i kraft den 1 maj 2024.

@@ -14,4 +14,4 @@ Utredaren ska även överväga hur utlänningar som deltar i eller har samröre 
 
 Utredningsdirektiven är en del av Tidöavtalet och bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.
 
-Uppdraget ska redovisas senast den 21 november 2025\.
+Uppdraget ska redovisas senast den 21 november 2025.

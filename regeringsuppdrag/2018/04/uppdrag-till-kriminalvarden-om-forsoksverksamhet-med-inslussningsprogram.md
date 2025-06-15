@@ -1,7 +1,6 @@
 # Uppdrag till Kriminalvården om försöksverksamhet med inslussningsprogram
 
-Kriminalvården får i uppdrag att förbereda och inrätta försöksverksamhet med inslussningsprogram med utgångspunkt i inslussningsutredningens förslag (bilaga 1\). Försöksverksamheten ska vara möjlig att starta senast den 1 januari 2019 och ska pågå till och med den 30 juni 2020\.
-
+Kriminalvården får i uppdrag att förbereda och inrätta försöksverksamhet med inslussningsprogram med utgångspunkt i inslussningsutredningens förslag (bilaga 1). Försöksverksamheten ska vara möjlig att starta senast den 1 januari 2019 och ska pågå till och med den 30 juni 2020.
 
 Kriminalvården ska vid planeringen av försöksverksamheten, inklusive dess omfattning, samverka med Brottsförebyggande rådet i syfte att möjliggöra en utvärdering av verksamheten. Minst ett av de av Polismyndigheten definierade särskilt utsatta områdena ska ingå i urvalet.
 

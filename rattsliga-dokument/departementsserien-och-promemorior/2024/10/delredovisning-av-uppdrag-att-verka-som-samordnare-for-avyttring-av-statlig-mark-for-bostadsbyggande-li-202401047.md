@@ -5,7 +5,7 @@ att verka för att genom avyttring av statlig mark få till stånd bostadsbyggan
 på statens fastigheter. Till samordnare utsågs Ingrid Eiken och som
 ämnessakkunnig i utredningen anställdes Jon Loit.
 
-Uppdraget gäller fr.o.m. den 25 mars 2024 t.o.m. den 30 september 2025\.
+Uppdraget gäller fr.o.m. den 25 mars 2024 t.o.m. den 30 september 2025.
 Samordnaren ska senast den 30 september 2024 lämna en skriftlig
 delredovisning av uppdraget. Uppdraget ska slutredovisas senast den 30
-september 2025\.
+september 2025.

@@ -2,19 +2,18 @@
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Boverkets rapport 2015:28 – Åtgärder som kan undantas från kravet på bygglov.
 
-
-Remissvaren ska ha kommit in till Näringsdepartementet senast den 11 december 2015\.
+Remissvaren ska ha kommit in till Näringsdepartementet senast den 11 december 2015.
 
 ## Remissinstanser:
 
-1. Svea hovrätt, Mark\- och miljööverdomstolen
-2. Vänersborgs tingsrätt, mark\- och miljödomstolen
-3. Växjö tingsrätt, mark\- och miljödomstolen
+1. Svea hovrätt, Mark- och miljööverdomstolen
+2. Vänersborgs tingsrätt, mark- och miljödomstolen
+3. Växjö tingsrätt, mark- och miljödomstolen
 4. Fortifikationsverket
 5. Försvarsmakten
 6. Myndigheten för samhällsskydd och beredskap
 7. Socialstyrelsen
-8. Havs\- och vattenmyndigheten
+8. Havs- och vattenmyndigheten
 9. Naturvårdsverket
 10. Statens geotekniska institut
 11. Sveriges meteorologiska och hydrologiska institut
@@ -101,7 +100,7 @@ Remissvaren ska ha kommit in till Näringsdepartementet senast den 11 december 2
 92. Sveriges stadsarkitektförening
 93. Villaägarnas Riksförbund
 
-Boverkets rapport Åtgärder som kan undantas från kravet på bygglov (2015:28\) remitteras härmed till ovanstående remissinstanser. Rapporten kan laddas ner via [Boverkets webbplats](http://www.boverket.se/sv/om-boverket/publicerat-av-boverket/publikationer/2015/atgarder-som-kan-undantas-fran-krav-pa-bygglov/ "Boverkets webbplats").
+Boverkets rapport Åtgärder som kan undantas från kravet på bygglov (2015:28) remitteras härmed till ovanstående remissinstanser. Rapporten kan laddas ner via [Boverkets webbplats](http://www.boverket.se/sv/om-boverket/publicerat-av-boverket/publikationer/2015/atgarder-som-kan-undantas-fran-krav-pa-bygglov/ "Boverkets webbplats").
 
 I remissen ligger att regeringen vill ha synpunkter på förslagen eller materialet i rapporten.
 

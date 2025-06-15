@@ -1,4 +1,4 @@
-# Svenska kraftnät ska utvidga tranmissionsnätet i norra Norrbottens län
+# Svenska kraftnät ska utvidga transmissionsnätet i norra Norrbottens län
 
 – I Sverige finns stora obalanser mellan nät och produktion. Södra Sverige har ett starkt nät men saknar produktion, medan norra Sverige har gott om produktion men saknar nät. Nu ska vi råda bot på det. För att nå dit behöver stamnätet utvidgas i norra Norrbottens län. Det är bra för jobb, välfärd och ytterst vår säkerhet, säger energi-och näringsminister Ebba Busch.
 

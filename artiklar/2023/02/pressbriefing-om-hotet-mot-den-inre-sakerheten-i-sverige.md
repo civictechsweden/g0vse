@@ -2,7 +2,6 @@
 
 På en pressbriefing i dag presenterade justitieminister Gunnar Strömmer en lägesbild över brottsligheten och de hot som finns mot Sveriges inre säkerhet.
 
-
 Justitieministern inledde med att redogöra för tre allvarliga hot mot Sveriges inre säkerhet. För det första handlar det om att Ryssland, Kina och Iran agerar allt mer offensivt mot Sverige för att främja sina intressen. För det andra handlar det om det förhöjda terrorhotet mot Sverige – Sverige bedöms vara ett mer prioriterat mål för terrorattentat. För det tredje handlar det om den grova organiserade brottsligheten.
 
 Justitieministern redogjorde därefter mer utförligt för hotet från den grova organiserade brottsligheten, och det aktuella brottslighetsläget i Sverige. Det framgick bl.a. att det sedan julhelgen vid 20 respektive 15 tillfällen inträffat skjutningar och sprängningar bara i Stockholmsområdet, att det grova gängvåldet sprider sig från storstäderna till mindre orter, att våldet har blivit mer hänsynslöst och att systematiska bedrägerier och har blivit en allt viktigare finansieringskälla för den organiserade brottsligheten. Sammantaget är bilden att den organiserade brottsligheten nått en systemhotande omfattning.

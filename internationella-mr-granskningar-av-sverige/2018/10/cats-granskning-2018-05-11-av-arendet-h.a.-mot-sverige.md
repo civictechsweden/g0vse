@@ -1,7 +1,6 @@
 # CAT:s granskning (2018-05-11) av ärendet H.A. mot Sverige
 
-Fråga om utvisning av klaganden till hemlandet (Irak) skulle strida mot artikel 3 i FN\-konventionen mot tortyr m.m.
-
+Fråga om utvisning av klaganden till hemlandet (Irak) skulle strida mot artikel 3 i FN-konventionen mot tortyr m.m.
 
 ## Sammanfattning av granskningen
 

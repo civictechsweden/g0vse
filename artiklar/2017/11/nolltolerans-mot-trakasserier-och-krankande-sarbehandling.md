@@ -2,7 +2,6 @@
 
 På UD och i övriga Regeringskansliet råder nolltolerans mot trakasserier och kränkande särbehandling.
 
-
 Under perioden januari 2015 till den sista oktober 2017 har UD:s personalenhet hanterat två fall av sexuella trakasserier på UD som föranlett någon utredande åtgärd. I båda fallen har åtgärder vidtagits. Personalenheten har vidare hanterat ett fall på utlandsmyndigheter under samma tidsperiod.
 
 När ett misstänkt fall av trakasserier kommer till arbetsgivarens kännedom utreds det. Fortsatta trakasserier ska förhindras och stöd ska ges till den som har utsatts. Olika åtgärder kan bli aktuella mot den som medverkat till eller utsatt en annan medarbetare för trakasserier eller kränkande särbehandling.

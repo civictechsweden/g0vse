@@ -2,7 +2,6 @@
 
 Regeringen ger Statens kulturråd i uppdrag att kartlägga tillgången till musikscener i hela landet och undersöka musikområdets förutsättningar att få tillgång till och nyttja ändamålsenliga lokaler. Fokus ska särskilt vara på de stora städerna.
 
-
 Statens kulturråd ska därtill
 • analysera och föreslå hur gynnsamma förutsättningar för musikscener i
 hela landet kan skapas genom samverkan mellan det offentligt finansierade kulturlivet och privata aktörer,

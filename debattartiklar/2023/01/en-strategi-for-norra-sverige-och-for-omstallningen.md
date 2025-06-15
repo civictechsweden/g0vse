@@ -1,9 +1,8 @@
 # En strategi för norra Sverige och för omställningen
 
-Energi\- och närings­minister Ebba Busch, arbetsmarknads\- och integrations­minister Johan Pehrson och infrastruktur\- och bostadsminister Andreas Carlson, debattartikel, Dagens industri, den 11 januari 2023\.
+Energi- och närings­minister Ebba Busch, arbetsmarknads- och integrations­minister Johan Pehrson och infrastruktur- och bostadsminister Andreas Carlson, debattartikel, Dagens industri, den 11 januari 2023.
 
-
-Imorgon bjuder regeringen in EU\-kommissionen till Kiruna. För oss var det självklart att resan skulle gå till norra Sverige. En tillväxtmotor som leder den gröna omställningen, skapar jobb och välfärd. En stolt historia, ett hopp för framtiden, skriver ministrarna Ebba Busch, Johan Pehrson och Andreas Carlson.
+Imorgon bjuder regeringen in EU-kommissionen till Kiruna. För oss var det självklart att resan skulle gå till norra Sverige. En tillväxtmotor som leder den gröna omställningen, skapar jobb och välfärd. En stolt historia, ett hopp för framtiden, skriver ministrarna Ebba Busch, Johan Pehrson och Andreas Carlson.
 
 Det finns en gyllene möjlighet för norra Sverige att leda den nya industriella revolutionen och bli en motor för gröna innovationer som kan gynna nordligaste Sverige, hela landet och i förlängningen hela Europa. De norra regionernas tillgångar på älvar, malm och skog är basen för omställningen som skapar jobb, konkurrenskraft och stärker förutsättningarna för ett gott liv för människorna som bor och verkar här.
 
@@ -18,10 +17,10 @@ Med ett nyinrättat superdepartement som kopplar ihop klimat, energi och näring
 * Bostad och infrastruktur. Bristen på bostäder är ett av de främsta hindren för att fler människor ska kunna rekryteras till de aktuella företagen och kommunerna. Till det kommer ett stort behov av förstärkningar av vägnätet och järnvägsinfrastrukturen. Regeringen ämnar återkomma till dessa strategiska investeringar.
 * Samverkan. Behovet av samverkan mellan staten och berörda kommuner, län och regioner är stor. Regeringen kommer därför ta ett aktivt helhetsgrepp vad gäller samordningen av nyindustraliseringen i norra Sverige för att säkerställa att processer går så snabbt som möjligt och att intressekonflikter löses ut. Vidare analyserar det nya superdepartementet för närvarande ett antal utredningar och slutrapporter som direkt berör den gröna omställningen i norra Sverige.
 
-När regeringen bjöd in EU\-kommissionen till Kiruna var det för att visa upp norra Sveriges potential för EU. Det blir också startskottet för regeringens arbete med strategin för norra Sverige. Norra Sverige visar inte enbart vägen för Sverige vad gäller konkurrenskraft och klimatarbete, det är en förebild för hela EU att ta efter.
+När regeringen bjöd in EU-kommissionen till Kiruna var det för att visa upp norra Sveriges potential för EU. Det blir också startskottet för regeringens arbete med strategin för norra Sverige. Norra Sverige visar inte enbart vägen för Sverige vad gäller konkurrenskraft och klimatarbete, det är en förebild för hela EU att ta efter.
 
-Ebba Busch, energi\- och näringsminister
+Ebba Busch, energi- och näringsminister
 
-Johan Pehrson, arbetsmarknads\- och integrationsminister
+Johan Pehrson, arbetsmarknads- och integrationsminister
 
-Andreas Carlson, infrastruktur\- och bostadsminister
+Andreas Carlson, infrastruktur- och bostadsminister

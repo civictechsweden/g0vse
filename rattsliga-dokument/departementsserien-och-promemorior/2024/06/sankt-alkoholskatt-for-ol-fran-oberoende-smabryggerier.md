@@ -6,4 +6,4 @@ Det föreslås att nedsättningen ska omfatta öl producerad av producenter vars
 
 Nedsättningen föreslås enbart gälla öl från producenter som är juridiskt och ekonomiskt oberoende från andra ölproducenter och dessutom inte tillverkar på licens. Det krävs även att producenten använder lokaler som är fysiskt skilda från andra ölproducenter. Om två eller fler småbryggerier samarbetar räknas de som ett enda oberoende småbryggeri, så länge inte deras totala produktion överstiger 3 miljoner liter.
 
-Ändringarna föreslås träda i kraft den 1 juli 2025\. Äldre bestämmelser ska fortfarande gälla för förhållanden som hänför sig till tiden före ikraftträdandet.
+Ändringarna föreslås träda i kraft den 1 juli 2025. Äldre bestämmelser ska fortfarande gälla för förhållanden som hänför sig till tiden före ikraftträdandet.

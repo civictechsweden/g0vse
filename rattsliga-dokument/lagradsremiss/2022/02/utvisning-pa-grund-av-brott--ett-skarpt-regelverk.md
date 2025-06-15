@@ -16,4 +16,4 @@ Därutöver föreslås i lagråds­remissen bland annat
 * ökade möjlig­heter att neka uppe­hålls­tillstånd för en utlän­ning som begått brott, och
 * ett stärkt skydd mot åter­kallelse av uppe­hålls­till­stånd för den som utsatts för våld eller kränk­ningar i en nära relation.
 
-Lagändringarna föreslås träda i kraft den 2 juli 2022\.
+Lagändringarna föreslås träda i kraft den 2 juli 2022.

@@ -2,7 +2,7 @@
 
 – Förra veckan var mycket givande. Jag ser fram emot att lära mig mer från näringslivet, speciellt när det gäller vad politiken kan göra för att främja innovation genom digitalisering, säger civilminister Erik Slottner.
 
-Förra veckan besökte statsrådet Finansiell ID\-Teknik BID, UC (kreditupplysningsföretaget), Telenor, Tele2, Ericsson samt AI Sweden. Under denna vecka, 20–24 februari, besöker statsrådet följande företag:
+Förra veckan besökte statsrådet Finansiell ID-Teknik BID, UC (kreditupplysningsföretaget), Telenor, Tele2, Ericsson samt AI Sweden. Under denna vecka, 20–24 februari, besöker statsrådet följande företag:
 
 * Trimble
 * FLIR

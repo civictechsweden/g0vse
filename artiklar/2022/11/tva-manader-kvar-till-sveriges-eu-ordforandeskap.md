@@ -2,14 +2,13 @@
 
 Det är nu mindre än två månader kvar tills Sverige tar över ordförandeskapet i EU:s ministerråd. Under första halvåret ska Sverige hålla i ordförandeklubban vid cirka 2000 möten på olika nivåer inom EU:s ministerråd och driva EU:s agenda framåt.
 
-
 – Vi har en unik möjlighet att vara med och föra saker framåt i frågor som är oändligt viktiga för Europas medborgare, säger Lars Danielsson, ambassadör vid Sveriges ständiga representation i Bryssel.
 
-Den 1 januari 2023 tar Sverige över som EU\-ordförande och kommer att leda arbetet i ministerrådet under ett halvår framåt. Just nu pågår planeringen inför ordförandeskapet, bland annat på den svenska EU\-representationen i Bryssel där runt 200 personer arbetar med förberedelserna.
+Den 1 januari 2023 tar Sverige över som EU-ordförande och kommer att leda arbetet i ministerrådet under ett halvår framåt. Just nu pågår planeringen inför ordförandeskapet, bland annat på den svenska EU-representationen i Bryssel där runt 200 personer arbetar med förberedelserna.
 
 – Vi läser in oss på alla detaljer i de många lagstiftningsärenden som pågår och sätter oss in i vad ordföranderollen innebär, säger Lars Danielsson, ambassadör vid Sveriges ständiga representation i Bryssel.
 
-Ordförandeskapets två huvuduppgifter är att planera och leda mötena i rådet och dess förberedande organ samt att företräda rådet i förbindelserna med övriga EU\-institutioner.
+Ordförandeskapets två huvuduppgifter är att planera och leda mötena i rådet och dess förberedande organ samt att företräda rådet i förbindelserna med övriga EU-institutioner.
 
 Det är nästan 14 år sedan Sverige senast hade ordförandeklubban i rådet. Lars Danielsson menar att ordförandeskapet är viktigt för att ”betala tillbaka” till de övriga medlemsländerna.
 

@@ -1,6 +1,3 @@
-# Remiss av promemorian Ett digitalt utvecklingsstöd till vissa tidskrifter
+# Remiss DS 2024:4 Ett digitalt utvecklingsstöd till vissa tidskrifter
 
-Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Ett digitalt utvecklingsstöd till vissa tidskrifter.
-
-
-Remissvaren ska ha kommit in till Kulturdepartementet senast den 15 augusti 2024\.
+Här kan du ta del av svaren från dem som har ombetts att svara på remissen Ds 2024:4 Ett digitalt utvecklingsstöd till vissa tidskrifter. Övriga yttranden finns tillgängliga i departementet.

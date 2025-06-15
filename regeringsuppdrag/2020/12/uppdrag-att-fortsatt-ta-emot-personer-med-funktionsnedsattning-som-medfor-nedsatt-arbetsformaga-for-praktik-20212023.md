@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt myndigheterna som upptas i bilagan att under perioden den 1 januari 2021–31 december 2023 fortsatt ställa praktikplatser till förfogande åt Arbetsförmedlingen och att från Arbetsförmedlingen ta emot arbetssökande personer med funktionsnedsättning som medför nedsatt arbetsförmåga för praktik.
 
-
 Arbetsförmedlingen ska informera om vilka praktikinsatser som erbjuds, vilka krav som ställs på myndigheterna och, beroende på respektive myndighets förutsättningar, i dialog med myndigheterna matcha praktikplatser med arbetssökande personer med funktionsnedsättning. Kvinnor och män ska ges samma möjligheter till praktik.
 
 Arbetsgivarverket ska, inom sitt ansvarsområde, svara för sådan information, rådgivning och utbildning som myndigheterna behöver.

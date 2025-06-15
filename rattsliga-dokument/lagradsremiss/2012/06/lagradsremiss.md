@@ -10,4 +10,4 @@ När det gäller statsbidrag syftar förslagen till att göra återkravshanterin
 
 I lagrådsremissen föreslås även en ändring i lagen om behandling av personuppgifter i den arbetsmarknadspolitiska verksamheten som innebär att alla känsliga personuppgifter som avses i personuppgiftslagen ska få behandlas i en databas, om de har lämnats i ett ärende.
 
-Lagändringarna föreslås träda i kraft den 1 september 2013\.
+Lagändringarna föreslås träda i kraft den 1 september 2013.

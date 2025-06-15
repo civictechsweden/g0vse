@@ -9,4 +9,4 @@ tjänstepensionskassa nekas tillstånd att driva verksamhet som tjänstepensions
 
 Därutöver föreslås en ändring av rättelsekaraktär i försäkringsrörelselagen.
 
-Lagändringarna föreslås träda i kraft den 15 december 2020\.
+Lagändringarna föreslås träda i kraft den 15 december 2020.

@@ -2,7 +2,7 @@
 
 – Det är en stor ära att dela ut Lilla Augustpriset. Priset representerar kraften som finns i litteraturen och i ungas skapande. Vi har stora utmaningar när det gäller läsning och läsförståelse. Men att möta det unga författarskap som Lilla Augustpriset uppmärksammar stärker mig i tron på det skrivna ordets kraft och i övertygelsen att vi kan vända utvecklingen åt rätt håll tillsammans, säger kulturminister Parisa Liljestrand.
 
-Augustgalan sker på Konserthuset i Stockholm. Under galan delas Augustpriset ut i kategorierna: Årets svenska skönlitterära bok, Årets svenska fackbok och Årets svenska barn\- och ungdomsbok. Vid galan delas också Lilla Augustpriset och Svenska Förläggarföreningens Hederspris ut.
+Augustgalan sker på Konserthuset i Stockholm. Under galan delas Augustpriset ut i kategorierna: Årets svenska skönlitterära bok, Årets svenska fackbok och Årets svenska barn- och ungdomsbok. Vid galan delas också Lilla Augustpriset och Svenska Förläggarföreningens Hederspris ut.
 
 ## Om Lilla Augustpriset
 

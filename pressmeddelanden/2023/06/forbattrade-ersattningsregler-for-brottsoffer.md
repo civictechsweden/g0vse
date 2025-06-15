@@ -12,6 +12,6 @@ Utredningen ska bland annat ta ställning till om
 * poliser som utsätts för brott ska få ersättning i fler fall,
 * rätten till frihetsberövandeersättning ska begränsas.
 
-Utredare är justitierådet i Högsta domstolen Johan Danelius. Utredningen ska redovisas 24 februari 2025\.
+Utredare är justitierådet i Högsta domstolen Johan Danelius. Utredningen ska redovisas 24 februari 2025.
 
 Kommittédirektiven bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

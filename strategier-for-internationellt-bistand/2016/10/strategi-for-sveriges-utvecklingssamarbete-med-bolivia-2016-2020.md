@@ -2,9 +2,7 @@
 
 ![](/contentassets/3aa24b6e3a304984823e1091336389b8/strategi-for-sveriges-utvecklingssamarbete-med-bolivia.png?width=150&quality=85)
 
-
 Svenskt utvecklingssamarbete med Bolivia ska inom ramen för denna strategi bidra till en förbättrad miljö och hållbart nyttjande av naturresurser, begränsad klimatpåverkan och stärkt motståndskraft, demokratisk samhällsutveckling samt förbättrade möjligheter till försörjning för människor som lever i fattigdom. Samarbetet ska vidare stödja en övergång från utvecklingssamarbete till bredare relationer. Strategin ska gälla under perioden 2016–2020 och omfatta sammantaget 750 miljoner svenska kronor.
-
 
 **Insatserna inom ramen för strategin förväntas bidra till:**
 

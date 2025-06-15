@@ -12,6 +12,6 @@ Straffet ska vara böter eller fängelse i högst två år. Om brottet är grovt
 
 Försök och förberedelse till brottet ska vara straffbart.
 
-Förslagen är ett led i genomförandet av EU\-direktivet om bekämpande av bedrägeri och förfalskning som rör andra betalningsmedel än kontanter och om ersättande av rådets rambeslut 2001/413/RIF (det s.k. non\-cashdirektivet).
+Förslagen är ett led i genomförandet av EU-direktivet om bekämpande av bedrägeri och förfalskning som rör andra betalningsmedel än kontanter och om ersättande av rådets rambeslut 2001/413/RIF (det s.k. non-cashdirektivet).
 
-Lagändringarna föreslås träda i kraft den 31 maj 2021\.
+Lagändringarna föreslås träda i kraft den 31 maj 2021.

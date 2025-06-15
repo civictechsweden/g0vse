@@ -2,7 +2,7 @@
 
 I skrivelsen redogör regeringen för den svenska exportkontrollpolitiken i
 fråga om krigsmateriel och produkter med dubbla användningsområden
-under år 2016\.
+under år 2016.
 
 Skrivelsen innehåller också en redovisning av den export
 som har förekommit under året. Dessutom beskrivs samarbetet inom EU

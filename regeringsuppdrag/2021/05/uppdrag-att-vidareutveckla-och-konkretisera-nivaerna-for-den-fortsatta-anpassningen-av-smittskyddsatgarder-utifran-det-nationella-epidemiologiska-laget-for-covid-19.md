@@ -1,7 +1,6 @@
 # Uppdrag att vidareutveckla och konkretisera nivåerna för den fortsatta anpassningen av smittskyddsåtgärder utifrån det nationella epidemiologiska läget för covid-19
 
-Regeringen uppdrar åt Folkhälsomyndigheten att vidareutveckla och konkretisera nivåerna för den fortsatta anpassningen av smittskyddsåtgärder utifrån det nationella epidemiologiska läget för covid\-19\. Detta i likhet med det myndigheten tidigare redovisat i uppdraget om smittskyddsåtgärder i samhället.
-
+Regeringen uppdrar åt Folkhälsomyndigheten att vidareutveckla och konkretisera nivåerna för den fortsatta anpassningen av smittskyddsåtgärder utifrån det nationella epidemiologiska läget för covid-19. Detta i likhet med det myndigheten tidigare redovisat i uppdraget om smittskyddsåtgärder i samhället.
 
 **Vidareutveckling och konkretisering**
 
@@ -11,7 +10,7 @@ Respektive nivå bör innehålla verifierbara data och tydliga indikatorer. Niv�
 
 **Motivera och prioritera restriktioner**
 
-Myndigheten ska motivera och prioritera bland de olika restriktioner som vidtagits med stöd av lagen om särskilda begränsningar för att förhindra spridning av sjukdomen covid\-19 och lagen om tillfälliga smittskyddsåtgärder på serveringsställen utifrån restriktionernas uppskattade effekt på smittspridningen vid respektive nivå.
+Myndigheten ska motivera och prioritera bland de olika restriktioner som vidtagits med stöd av lagen om särskilda begränsningar för att förhindra spridning av sjukdomen covid-19 och lagen om tillfälliga smittskyddsåtgärder på serveringsställen utifrån restriktionernas uppskattade effekt på smittspridningen vid respektive nivå.
 
 **Återgång till normalläge**
 
@@ -19,4 +18,4 @@ Myndigheten ska analysera vad en gradvis återgång till ett ”nytt normalläge
 
 I genomförandet av uppdraget ska Folkhälsomyndigheten samverka med Socialstyrelsen och vid behov med andra berörda myndigheter och aktörer.
 
-Uppdraget ska slutredovisas senast den 12 maj 2021\.
+Uppdraget ska slutredovisas senast den 12 maj 2021.

@@ -2,7 +2,6 @@
 
 Regeringen ger Myndigheten för arbetsmiljökunskap i uppdrag att inhämta och sammanställa kunskap om samband mellan vissa gruppers utsatthet och arbetsrelaterad stress.
 
-
 Ett särskilt fokus ska vara kunskap om arbetsmiljö och vilken betydelse utsatthet till följd av etnisk tillhörighet, hudfärg och religion eller annan trosuppfattning kan ha för individens hälsa. Utifrån den inhämtade och sammanställda kunskapen kan myndigheten lämna förslag på
 evidensbaserade rekommendationer för att minska utsattheten för
 arbetsrelaterad stress bland grupper som i högre grad drabbas, och som därmed kan bidra till god och jämlik hälsa. Myndigheten ska beakta ett jämställdhetsperspektiv i arbetet med kunskapssammanställningen och eventuella förslag. I uppdraget ingår även att sprida resultaten av den sammanställda kunskapen så att den kan utgöra ett stöd för arbetsgivare, skyddsombud och andra förtroendevalda på arbetsplatser i det systematiska arbetsmiljöarbetet.

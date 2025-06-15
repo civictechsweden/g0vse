@@ -1,6 +1,6 @@
 # Nya ambassadörer till Sverige
 
-H.E. Ms Elvira Dilberović, Bosnien\-Hercegovina;
+H.E. Ms Elvira Dilberović, Bosnien-Hercegovina;
 
 H.E. Mr Ahmad Masoumi Far, Iran;
 

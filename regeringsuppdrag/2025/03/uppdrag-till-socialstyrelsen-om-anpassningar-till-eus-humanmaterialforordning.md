@@ -6,8 +6,8 @@ Socialstyrelsen ska bland annat:
 
 * föreslå hur det svenska regelverket ska anpassas till humanmaterialförordningen och lämna nödvändiga författningsförslag,
 * sträva efter att förslagen tydliggör hur humanmaterialförordningen ska tillämpas i Sverige och samtidigt medför en så liten administrativ börda som möjligt,
-* visa hänsyn till de genomförandeakter och delegerade akter som kan komma att beslutas enligt humanmaterialförordningen under uppdragstiden,
-* visa hänsyn till annat pågående nationellt arbete,
+* ta hänsyn till de genomförandeakter och delegerade akter som kan komma att beslutas enligt humanmaterialförordningen under uppdragstiden,
+* ta hänsyn till annat pågående nationellt arbete,
 * utgå från att nuvarande ansvarsfördelning för tillsyn av och tillstånd för verksamheter som hanterar blod, vävnader och celler samt nuvarande ansvar för myndighetsföreskrifter ska bibehållas,
 * utforma författningsförslagen utifrån att den ska vara den nationella SoHO-myndigheten i Sverige,
 * redovisa en konsekvensutredning av förslagen,

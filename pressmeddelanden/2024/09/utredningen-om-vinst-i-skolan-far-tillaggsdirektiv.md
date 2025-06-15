@@ -2,7 +2,7 @@
 
 Enligt skollagen är det huvudmannen som har ansvar för att utbildningen genomförs enligt gällande bestämmelser och att eleverna får den undervisning de har rätt till. Det finns dock problem i skolan som beror på att det är ägaren, utöver huvudmannen, som är olämplig. Regeringen ger därför tilläggsdirektiv till Utredningen om vinst i skolan. Direktivet riktar fokus mot ägarförhållanden genom att bland annat utreda hur tillsynsmyndigheterna ska få ökade möjligheter att hindra olämpliga ägare att kontrollera enskilda huvudmän.
 
-Utredningstiden förlängs. Enligt de ursprungliga direktiven skulle utredaren redovisa sitt uppdrag den 28 februari 2025\. Uppdraget ska i stället redovisas i ett delbetänkande senast den 28 mars 2025 och i ett slutbetänkande senast den 31 december 2025\.
+Utredningstiden förlängs. Enligt de ursprungliga direktiven skulle utredaren redovisa sitt uppdrag den 28 februari 2025. Uppdraget ska i stället redovisas i ett delbetänkande senast den 28 mars 2025 och i ett slutbetänkande senast den 31 december 2025.
 
 – Nu fortsätter regeringen med översynen av friskolesystemet. Tilläggsdirektiven till Utredningen om vinst i skolan riktar in sig på problem som kan uppstå i koncerner, säger utbildningsminister Johan Pehrson.
 

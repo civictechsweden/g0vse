@@ -6,4 +6,4 @@ Under förutsättning att laddningen sker vid en laddningspunkt eller ett elutta
 
 Förslaget syftar till att underlätta omställningen till en fossilfri fordonsflotta och gynna arbetsresor med laddbara fordon framför andra mindre hållbara alternativ. Förslaget förväntas också minska den administrativa börda för både arbetsgivare och anställda som redovisning av denna förmån i dag är förenad med.
 
-De tillfälliga bestämmelserna medför ändringar i inkomstskattelagen (1999:1229\) och föreslås träda i kraft den 1 juli 2023 och tillämpas på förmåner som tillhandahålls efter ikraftträdandet. Bestämmelserna föreslås upphöra att gälla vid utgången av juni 2026\.
+De tillfälliga bestämmelserna medför ändringar i inkomstskattelagen (1999:1229) och föreslås träda i kraft den 1 juli 2023 och tillämpas på förmåner som tillhandahålls efter ikraftträdandet. Bestämmelserna föreslås upphöra att gälla vid utgången av juni 2026.

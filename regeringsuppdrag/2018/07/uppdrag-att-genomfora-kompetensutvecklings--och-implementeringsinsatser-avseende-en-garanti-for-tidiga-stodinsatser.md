@@ -5,4 +5,4 @@ att tillsammans genomföra insatser i syfte att implementera propositionen Läsa
 
 Målgrupperna för de olika insatserna är förskollärare, lärare, speciallärare, specialpedagoger och rektorer som arbetar i förskoleklass eller i lågstadiet i grundskolan, specialskolan eller sameskolan samt huvudmän för dessa skolformer.
 
-Uppdraget ska redovisas till Utbildningsdepartementet senast den 15 december 2020\.
+Uppdraget ska redovisas till Utbildningsdepartementet senast den 15 december 2020.

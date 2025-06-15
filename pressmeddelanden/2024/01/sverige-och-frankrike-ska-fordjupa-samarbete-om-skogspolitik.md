@@ -4,7 +4,7 @@ Sverige och Frankrike ska uppmuntra bilateralt tekniskt utbyte på områden som 
 
 – Detta är en fortsättning på den avsiktsförklaring som Sverige och Frankrike tecknade i oktober förra året. Ett samarbete med Frankrike i skogsbruksfrågor är ett viktigt steg för att inom Europa främja ett ramverk med regler och näringslivsvillkor som är gynnsamma för en konkurrenskraftig skogsnäring, säger landsbygdsminister Peter Kullgren.
 
-På EU\-nivå ska Sverige och Frankrike främja goda ramvillkor och EU\-politik som gynnar innovation, produktion, användning av och handel med trävaror och skogsbaserade produkter, konkurrenskraftiga skogsindustrier och organiserade värdekedjor samt hållbart och multifunktionellt skogsbruk.
+På EU-nivå ska Sverige och Frankrike främja goda ramvillkor och EU-politik som gynnar innovation, produktion, användning av och handel med trävaror och skogsbaserade produkter, konkurrenskraftiga skogsindustrier och organiserade värdekedjor samt hållbart och multifunktionellt skogsbruk.
 
 Under Frankrikes statsbesök i Sverige undertecknade statsminister Ulf Kristersson och president Emmanuel Macron ett förnyat strategiskt innovationspartnerskap som bland annat breddas till att även omfatta samarbete om skogspolitik.
 

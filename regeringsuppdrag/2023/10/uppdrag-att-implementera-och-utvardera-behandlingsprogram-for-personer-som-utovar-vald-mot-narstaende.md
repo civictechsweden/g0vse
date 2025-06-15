@@ -1,7 +1,6 @@
 # Uppdrag att implementera och utvärdera behandlingsprogram för personer som utövar våld mot närstående
 
-Kriminalvården ska stödja ett urval av kommuner i implementeringen av behandlingsprogrammet Predov (Preventing Domestic Violence), i enlighet med det förslag som Kriminalvården lämnade till regeringen den 1 mars 2023 (A2023/00381\). Syftet är att möjliggöra en utvärdering av Predovs kausala behandlingseffekter i socialtjänstens verksamhet och för de personer som frivilligt söker stöd för våld mot närstående.
-
+Kriminalvården ska stödja ett urval av kommuner i implementeringen av behandlingsprogrammet Predov (Preventing Domestic Violence), i enlighet med det förslag som Kriminalvården lämnade till regeringen den 1 mars 2023 (A2023/00381). Syftet är att möjliggöra en utvärdering av Predovs kausala behandlingseffekter i socialtjänstens verksamhet och för de personer som frivilligt söker stöd för våld mot närstående.
 
 Socialstyrelsen ska bistå Kriminalvården i deras stöd till ett urval av kommuner i implementeringen av Predov, t.ex. vad gäller kontakt med kommuner samt vid förberedelser inför uppföljning. Socialstyrelsen ska även genomföra en vetenskaplig uppföljning av resultat och utfall som innebär att de kausala behandlingseffekterna av Predov, i så stor utsträckning som möjligt, utvärderas vid användning i kommunala verksamheter.
 

@@ -6,4 +6,4 @@ Regeringen bedömer att en studerande som studerar med studiemedel och som är f
 
 Vidare bedömer regeringen att Centrala studiestödsnämnden bör få meddela närmare föreskrifter om studerandes rätt till studiehjälp vid ledighet i samband med att ett barn under 18 år har avlidit.
 
-Ändringarna föreslås träda i kraft den 1 juli 2012\.
+Ändringarna föreslås träda i kraft den 1 juli 2012.

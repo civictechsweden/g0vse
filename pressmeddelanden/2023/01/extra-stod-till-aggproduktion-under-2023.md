@@ -4,4 +4,4 @@
 
 Det ökade stödet till äggproduktion ingår i ramen för det nationella stödet till jordbruket i norra Sverige. Stödet betalas ut i samband med att nya höns sätts in i stallarna för äggproduktion och för att samtliga producenter ska kunna ta del av stödet behöver det sträcka sig över 1,5 år.
 
-Beslutet innebär att krisstödet till äggproduktion som infördes under andra halvan av 2022 förlängs till och med utgången av 2023\.
+Beslutet innebär att krisstödet till äggproduktion som infördes under andra halvan av 2022 förlängs till och med utgången av 2023.

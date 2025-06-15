@@ -1,10 +1,10 @@
 # "Nu ökar vi transparensen i biståndet"
 
-Debattartikel av Johan Forssell, bistånds\- och utrikeshandelsminister, Gudrun Brunegård, biståndspolitisk talesperson för Kristdemokratierna och Joar Forssell, biståndspolitisk talesperson för Liberalerna. Publicerad i Svenska Dagbladet 26 april 2024\.
+Debattartikel av Johan Forssell, bistånds- och utrikeshandelsminister, Gudrun Brunegård, biståndspolitisk talesperson för Kristdemokratierna och Joar Forssell, biståndspolitisk talesperson för Liberalerna. Publicerad i Svenska Dagbladet 26 april 2024.
 
 Civilsamhället är en omistlig del av det svenska biståndet. Samarbetet mellan enskilda organisationer i Sverige och mottagarlandet spelar en avgörande roll för att uppnå biståndets mål om att motverka fattigdom och förtryck.
 
-Precis som det är omöjligt att tänka sig den svenska demokratin utan ett starkt civilsamhälle, är det svårt att tänka sig att andra länder ska kunna göra resan mot frihet och demokrati utan samma förutsättningar. Ett livskraftigt civilsamhälle utgör grunden för vårt samhälle och är \- i likhet med fri media och ett oberoende kulturliv \- en förutsättning för demokratin.
+Precis som det är omöjligt att tänka sig den svenska demokratin utan ett starkt civilsamhälle, är det svårt att tänka sig att andra länder ska kunna göra resan mot frihet och demokrati utan samma förutsättningar. Ett livskraftigt civilsamhälle utgör grunden för vårt samhälle och är - i likhet med fri media och ett oberoende kulturliv - en förutsättning för demokratin.
 
 Det är mot den bakgrunden som regeringen slog fast att andelen bistånd som kanaliseras via civilsamhället ska öka. Så har också skett. Hela 43 procent av biståndet från Sida kanaliseras i dag genom olika civilsamhällesorganisationer.
 
@@ -16,11 +16,11 @@ Samtidigt är dagens system behäftat med ett antal problem. Möjligheterna till
 
 Trots att Sida utgått från öppna kriterier i vilka organisationer som ska få status som SPO har processen varit otydlig och avslag på ansökningar har ibland ej motiverats. Även det minskar transparensen och inverkar negativt inte minst på många mindre organisationer. Bilden bekräftas av flera CSO:er i de konsultationer som regeringen haft med civilsamhället under framtagandet av reformagendan för biståndspolitiken.
 
-Att bara vissa genom sin status som SPO garanteras pengar ur just civilsamhällesstrategin – innebär en låg konkurrens och minskade möjligheter för organisationer som inte har en på förhand priviligierad ställning. Eftersom Sida idag inte beaktar andra än SPO:ernas ansökningar inom ramen för CSO\-strategin kan detta i förlängningen riskera att man helt enkelt inte väljer ut de ansökningar som har störst potential gentemot biståndets mål
+Att bara vissa genom sin status som SPO garanteras pengar ur just civilsamhällesstrategin – innebär en låg konkurrens och minskade möjligheter för organisationer som inte har en på förhand priviligierad ställning. Eftersom Sida idag inte beaktar andra än SPO:ernas ansökningar inom ramen för CSO-strategin kan detta i förlängningen riskera att man helt enkelt inte väljer ut de ansökningar som har störst potential gentemot biståndets mål
 
 Slutligen innebär dagens system att biståndsmedel slussas mellan olika svenska organisationer innan pengarna slutligen når fram till mottagarländerna. Det ser naturligtvis olika ut från fall till fall och kan ibland vara motiverat, men varje tillkommande led är behäftat med administration och tillhörande kostnader. Det finns exempel på hur vidareförmedling idag sker i upp till sju led, spritt över cirka 1750 partners i över 90 länder.
 
-Regeringen har därför beslutat att se över SPO\-systemet. För att skapa förutsägbarhet tydliggjordes detta redan när reformagendan för biståndet presenterades ifjol. Det andra steget är det uppdrag vi gett till Sida att inkomma med förslag som ökar transparensen och minskar antalet transaktionsled. Målet är att skapa ett öppet och inkluderande ansökningsförfarande för att ta del av biståndsmedel inom ramen för en framtida CSO\-strategi.
+Regeringen har därför beslutat att se över SPO-systemet. För att skapa förutsägbarhet tydliggjordes detta redan när reformagendan för biståndet presenterades ifjol. Det andra steget är det uppdrag vi gett till Sida att inkomma med förslag som ökar transparensen och minskar antalet transaktionsled. Målet är att skapa ett öppet och inkluderande ansökningsförfarande för att ta del av biståndsmedel inom ramen för en framtida CSO-strategi.
 
 I debatten har flera aktörer de senaste veckorna framfört att regeringens ambition skulle vara ett förstatligande av civilsamhällesbiståndet. Ingenting kunde vara mer felaktigt. Det är ett påstående som helt saknar grund, såväl i regeringens reformagenda liksom i det uppdrag som givits till Sida. Regeringens ambition har aldrig varit att staten ska ta över den verksamhet som idag sker i samarbete mellan svenska och lokala civilsamhällesorganisationer. Däremot är ambitionen att öka transparensen, öppna upp ansökningsförfarandet och minska antalet transaktionsled. Vi vill att fler organisationer ska få möjlighet att ansöka och få projektmedel beviljade från civilsamhällesstrategin för att kunna göra skillnad inom biståndet.
 

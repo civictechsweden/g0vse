@@ -2,7 +2,7 @@
 
 I skrivelsen redovisar regeringen sin bedömning av de iakttagelser som
 Riksrevisionen har gjort i rapporten Är sjukskrivning bra för hälsan?
-(RiR 2016:31\).
+(RiR 2016:31).
 
 Regeringen anser att mer kunskap behövs för att rätt stöd ska ges i en
 sjukskrivningsprocess för att individen ska komma åter i hälsa och

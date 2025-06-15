@@ -8,4 +8,4 @@ beskattningsår och som inte heller under något av de två föregående åren h
 mervärdesskatt. Den som är skattebefriad saknar avdragsrätt för ingående skatt.
 
 Förslaget föranleder ändringar i mervärdesskattelagen.
-Lagändringarna föreslås träda i kraft den 1 januari 2017\.
+Lagändringarna föreslås träda i kraft den 1 januari 2017.

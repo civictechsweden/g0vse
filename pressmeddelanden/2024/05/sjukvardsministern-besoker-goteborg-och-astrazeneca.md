@@ -1,6 +1,6 @@
 # Sjukvårdsministern besöker Göteborg och AstraZeneca
 
-Sjukvårdsministern kommer att vara en av huvudtalarna under konferensen Vitalis och tala på temat om hälso\- och sjukvård ur ett beredskapsperspektiv.
+Sjukvårdsministern kommer att vara en av huvudtalarna under konferensen Vitalis och tala på temat om hälso- och sjukvård ur ett beredskapsperspektiv.
 
 I Göteborg kommer sjukvårdsministern också att besöka AstraZeneca för samtal om Sveriges och EU:s konkurrenskraft, kliniska prövningar samt tillgången till läkemedel.
 

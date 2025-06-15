@@ -1,6 +1,6 @@
 # Skärpta straffrättsliga sanktioner mot företag
 
-I lagrådsremissen lämnar regeringen förslag som syftar till att säkerställa att det straffrättsliga regelverket för företag är effektivt, ändamålsenligt och modernt och att det är anpassat till Sveriges EU\-rättsliga och övriga internationella åtaganden.
+I lagrådsremissen lämnar regeringen förslag som syftar till att säkerställa att det straffrättsliga regelverket för företag är effektivt, ändamålsenligt och modernt och att det är anpassat till Sveriges EU-rättsliga och övriga internationella åtaganden.
 
 Förslagen innebär bl.a. följande:
 
@@ -9,6 +9,6 @@ Förslagen innebär bl.a. följande:
 * Samordningen av påföljd och företagsbot bör i första hand ske när företagsboten bestäms (sanktionskumulation). En särskild bestämmelse införs om att en företagsbot ska kunna jämkas eller efterges om företagets ägare döms till påföljd och den samlade reaktionen på brottsligheten annars skulle bli oproportionerligt sträng.
 * Svensk domstol ges utökad behörighet att döma över vissa internationella mutbrott och möjligheterna att förelägga företagsbot genom strafföreläggande utökas.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2020\.
+Lagändringarna föreslås träda i kraft den 1 januari 2020.
 
 [Pressmeddelande: Regeringen föreslår höjda bötesstraff för företag](/pressmeddelanden/2019/06/regeringen-foreslar-hojda-botesstraff-for-foretag/ "Regeringen föreslår höjda bötesstraff för företag")

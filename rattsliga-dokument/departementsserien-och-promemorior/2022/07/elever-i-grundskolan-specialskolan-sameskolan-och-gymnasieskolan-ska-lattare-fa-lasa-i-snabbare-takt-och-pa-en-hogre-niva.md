@@ -12,4 +12,4 @@ Elever i hela landet ska ha möjlighet att läsa på en högre nivå. Det föres
 
 Skolverket föreslås få i uppdrag att stärka och stödja skolors arbete med att ge elever som lätt når målen för utbildningen den ledning och stimulans de har rätt till. Syftet är att förbättra elevers möjligheter till breddning, fördjupning och studier på en högre nivå. Stödinsatserna ska riktas till flera olika personalkategorier inom skolan, bland annat till skolchefer, rektorer, lärare och personal inom elevhälsan. Skolverket föreslås även få i uppdrag att informera universitet och högskolor om de utökade möjligheterna att läsa på en högre nivå inom gymnasieskolan.
 
-Promemorian innehåller förslag till de ändringar som behövs i skollagen (2010:800\) och anslutande förordningar. Författningsändringarna föreslås i huvudsak träda i kraft den 3 juli 2023\.
+Promemorian innehåller förslag till de ändringar som behövs i skollagen (2010:800) och anslutande förordningar. Författningsändringarna föreslås i huvudsak träda i kraft den 3 juli 2023.

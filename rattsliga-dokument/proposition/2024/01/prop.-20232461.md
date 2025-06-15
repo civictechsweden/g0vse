@@ -4,4 +4,4 @@ I propositionen föreslås att sekretess ska gälla hos en länsstyrelse för up
 
 Vidare föreslås att sekretess på motsvarande sätt ska gälla för uppgift som hänför sig till Polismyndighetens register över uppdragstagare inom Nationella viltolycksrådet.
 
-Lagändringarna föreslås träda i kraft den 15 april 2024\.
+Lagändringarna föreslås träda i kraft den 15 april 2024.

@@ -1,6 +1,6 @@
 # EU fattar historiskt beslut som lägger grunden för att använda avkastning från ryska tillgångar till Ukrainas återuppbyggnad
 
-– Beslutet är en viktig del av det långsiktiga stödet till Ukraina och utgör ett steg framåt i arbetet med att säkerställa att Ukraina kompenseras för den omfattande förstörelse Ryssland orsakat genom aggressionen. Jag välkomnar beslutet som är ett resultat av den arbetsgrupp Sverige tog initiativ till under det svenska EU\-ordförandeskapet. Nästa steg blir nu att enas om hur avkastningen ska överföras till Ukraina, där Sverige är drivande för att nå en snabb lösning, säger utrikesminister Tobias Billström.
+– Beslutet är en viktig del av det långsiktiga stödet till Ukraina och utgör ett steg framåt i arbetet med att säkerställa att Ukraina kompenseras för den omfattande förstörelse Ryssland orsakat genom aggressionen. Jag välkomnar beslutet som är ett resultat av den arbetsgrupp Sverige tog initiativ till under det svenska EU-ordförandeskapet. Nästa steg blir nu att enas om hur avkastningen ska överföras till Ukraina, där Sverige är drivande för att nå en snabb lösning, säger utrikesminister Tobias Billström.
 
 Beslutet utgör ett första steg i EU:s arbete med att ta vara på delar av de extraordinära intäkter som europeiska värdepapperscentraler erhållit genom att förvalta den ryska centralbankens tillgångar.
 

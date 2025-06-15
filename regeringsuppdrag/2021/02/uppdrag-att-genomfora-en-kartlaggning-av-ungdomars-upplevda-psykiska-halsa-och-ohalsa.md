@@ -1,7 +1,6 @@
 # Uppdrag att genomföra en kartläggning av ungdomars upplevda psykiska hälsa och ohälsa
 
-Regeringen uppdrar åt Myndigheten för ungdoms\- och civilsamhällesfrågor (MUCF) och Folkhälsomyndigheten att kartlägga ungdomars upplevda psykiska hälsa och ohälsa.
-
+Regeringen uppdrar åt Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF) och Folkhälsomyndigheten att kartlägga ungdomars upplevda psykiska hälsa och ohälsa.
 
 Kartläggningen ska svara på hur ungdomar mellan 13 och 25 år uppfattar:
 
@@ -11,10 +10,10 @@ Kartläggningen ska svara på hur ungdomar mellan 13 och 25 år uppfattar:
 
 ## Ungas egna erfarenheter
 
-I uppdraget ska myndigheterna ta hänsyn till ungas egna erfarenheter. Ungdomar ska själva få komma till tals och beskriva sin egen livssituation. Unga hbtqi\-personer ska särskilt uppmärksammas.
+I uppdraget ska myndigheterna ta hänsyn till ungas egna erfarenheter. Ungdomar ska själva få komma till tals och beskriva sin egen livssituation. Unga hbtqi-personer ska särskilt uppmärksammas.
 
 ## Samverkan med myndigheter och andra
 
 Myndigheterna ska hämta in synpunkter och erfarenheter från Barnombudsmannen och samverka med myndigheter och övriga aktörer som kan komma att beröras av uppdraget.
 
-Uppdraget delredovisas senast den 1 juni 2021 och slutredovisas senast den 1 juni 2023\.
+Uppdraget delredovisas senast den 1 juni 2021 och slutredovisas senast den 1 juni 2023.

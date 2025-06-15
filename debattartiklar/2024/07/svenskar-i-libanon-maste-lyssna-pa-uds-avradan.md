@@ -1,7 +1,6 @@
 # Svenskar i Libanon måste lyssna på UD:s avrådan
 
-Debattartikel av utrikesminister Tobias Billström, Expressen, 15 juli 2024\.
-
+Debattartikel av utrikesminister Tobias Billström, Expressen, 15 juli 2024.
 
 De senaste veckorna har intensiteten i stridigheterna mellan Israel och den Iranstödda libanesiska Hizbollahmilisen ökat. Läget är spänt och oförutsägbart. På mycket kort tid kan det komma att eskalera till ett fullt krig. Samtidigt befinner sig närmare 2 000 svenskar i Libanon och 5 000 svenskar förväntas resa dit i sommar. Detta trots att UD har utfärdat den strängaste avrådan, att alla svenskar uppmanas att lämna landet.
 

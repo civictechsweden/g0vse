@@ -1,7 +1,6 @@
 # Uppdrag att kartlägga ersättningen för verkställighetskostnader för hemtjänst i vistelsekommuner
 
-Regeringen uppdrar åt Socialstyrelsen att kartlägga kommunernas tillämpning av bestämmelsen i 2 a kap. 7 § socialtjänstlagen (2001:453\) om vistelsekommuners rätt till ersättning för att verkställa bosättningskommuners beslut om hemtjänst.
-
+Regeringen uppdrar åt Socialstyrelsen att kartlägga kommunernas tillämpning av bestämmelsen i 2 a kap. 7 § socialtjänstlagen (2001:453) om vistelsekommuners rätt till ersättning för att verkställa bosättningskommuners beslut om hemtjänst.
 
 Socialstyrelsen ska
 

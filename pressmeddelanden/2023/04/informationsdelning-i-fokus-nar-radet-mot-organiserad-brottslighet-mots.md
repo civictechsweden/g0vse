@@ -8,4 +8,4 @@ Utöver justitie­ministern och stats­sekreterare i Justitiedeparte­mentet, Fi
 
 Med anledning av dagens tema medverkar även Arbetsförmedlingen, Försäkringskassan, Kriminalvården, Kronofogdemyndigheten, Kustbevakningen, Migrationsverket, Socialstyrelsen, Statens institutionsstyrelse, Statens skolverk, Sveriges kommuner och regioner och Säkerhetspolisen.
 
-Mötet pågår klockan 13\.00\-15\.30\. För mer information om mötet och möjligheter till intervju, kontakta pressekre­terare Caroline Opsahl.
+Mötet pågår klockan 13.00-15.30. För mer information om mötet och möjligheter till intervju, kontakta pressekre­terare Caroline Opsahl.

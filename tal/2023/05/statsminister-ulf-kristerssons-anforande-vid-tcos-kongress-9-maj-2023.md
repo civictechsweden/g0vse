@@ -2,7 +2,6 @@
 
 Det talade ordet gäller.
 
-
 Statsministrar kommer och går, men TCO består.
 
 Min mamma Karin var nog lite vad man skulle kunna kalla för en samhällsbärare. Min morfar var snickare och min mormor städade. Mamma blev den första i min familj som tog studenten, läste på universitet och gjorde en typisk svensk klassresa. Hon blev lärare i matte och fysik – och på fritiden skrev hon egna läroböcker för vuxna elever.
@@ -23,11 +22,11 @@ Men politiken måste också göra sitt. Här idag vill jag tala om tre viktiga p
 
 \*\*\*
 
-För det första måste det alltid löna sig mer att jobba än att leva på bidrag. Och då måste vi besegra inflationen. För till skillnad från många bidrag räknas inte lönen upp när inflationen stiger. Och det gör inflation till löntagarnas värsta fiende. Så var det på 70\- och 80\-talen innan vi dyrköpt tog oss igenom 90\-talskrisen.
+För det första måste det alltid löna sig mer att jobba än att leva på bidrag. Och då måste vi besegra inflationen. För till skillnad från många bidrag räknas inte lönen upp när inflationen stiger. Och det gör inflation till löntagarnas värsta fiende. Så var det på 70- och 80-talen innan vi dyrköpt tog oss igenom 90-talskrisen.
 
 Regeringen kommer sänka skatterna på arbete framför allt på låga inkomster – när det ekonomiska läget så tillåter. Men vi måste göra saker i rätt ordning och först ska vi besegra inflationen.
 
-Samtidigt gör vi träffsäkra satsningar för de allra mest utsatta. Som att behålla A\-kassan på en högre nivå, och vi både höjer och förlänger bostadsbidraget till utsatta barnfamiljer. Vi gör vad staten kan göra för att kompensera kommuner och regioner.
+Samtidigt gör vi träffsäkra satsningar för de allra mest utsatta. Som att behålla A-kassan på en högre nivå, och vi både höjer och förlänger bostadsbidraget till utsatta barnfamiljer. Vi gör vad staten kan göra för att kompensera kommuner och regioner.
 
 På längre sikt krävs mer och vi måste göra strukturreformer som leder till högre tillväxt, ökad sysselsättning och bättre konkurrenskraft.
 Tillbaka till en annan bra svensk tradition. Tillbaka till en ambitiös reformpolitik, som går bortom att bara släcka akuta bränder.
@@ -35,7 +34,7 @@ Tillbaka till en annan bra svensk tradition. Tillbaka till en ambitiös reformpo
 Därför sänker vi arbetsgivaravgifter för de som jobbar med forskning och utveckling. Och därför påbörjar vi nu reformerna som gör att det alltid ska löna sig bättre att jobba än att leva på bidrag – om man kan arbeta.
 Som ett bidragstak för de samlade bidragsinkomsterna. Och för den som är ny i Sverige en successiv kvalificering in till den svenska välfärden.
 
-Regeringen har också – precis som på 90\-talet – tillsatt en produktivitetskommission för att än en gång göra en samlad analys av den svenska ekonomins konkurrenskraft.
+Regeringen har också – precis som på 90-talet – tillsatt en produktivitetskommission för att än en gång göra en samlad analys av den svenska ekonomins konkurrenskraft.
 
 \*\*\*
 
@@ -53,7 +52,7 @@ Och utökat antalet platser på Yrkeshögskolan. Så att utrikesfödda som står
 Men i dag fungerar inte kommunikationen på grund av sekretessregler. Olika aktörer som borde jobba gemensamt kan inte prata med varandra.
 Det här slår åt flera håll: den som behöver hjälp får inte rätt hjälp, men det ökar också risken för fusk.
 
-Nu på torsdagens regeringssammanträde tas de första besluten för att informationsutbytet ska förbättras. Vi ser över det regelverk som följer av offentlighets\- och sekretesslagen. Arbetsförmedlingen måste få rätt information från kommuner och andra myndigheter, som Kriminalvården och Försäkringskassan. Så att arbetssökande kan få rätt hjälp.
+Nu på torsdagens regeringssammanträde tas de första besluten för att informationsutbytet ska förbättras. Vi ser över det regelverk som följer av offentlighets- och sekretesslagen. Arbetsförmedlingen måste få rätt information från kommuner och andra myndigheter, som Kriminalvården och Försäkringskassan. Så att arbetssökande kan få rätt hjälp.
 
 Men, det handlar inte bara om att lägga grunden för framtidens matchning. Vi måste göra mycket mer här och nu.
 

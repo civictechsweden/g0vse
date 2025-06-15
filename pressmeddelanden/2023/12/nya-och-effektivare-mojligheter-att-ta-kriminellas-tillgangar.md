@@ -8,6 +8,6 @@ Förslaget innebär att det blir möjligt att förverka egendom som inte står i
 
 Ett självständigt förverkande ska prövas av domstol och utredningen ska ledas av åklagare. I vissa fall ska också den enskilde ha rätt att företrädas av ett rättsligt biträde.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2024\.
+Lagändringarna föreslås träda i kraft den 1 juni 2024.
 
 Förslagen i lagrådsremissen bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

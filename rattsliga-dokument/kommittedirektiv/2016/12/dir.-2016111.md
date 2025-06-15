@@ -1,6 +1,6 @@
 # Radio och tv i allmänhetens tjänst
 
-En parlamentarisk kommitté ska analysera villkoren för radio och tv i allmänhetens tjänst och föreslå nödvändiga förändringar för att skapa fortsatt goda förutsättningar för verksamheten. Kommitténs uppdrag är att föreslå ett långsiktigt hållbart och solidariskt finansieringssystem för radio och tv i allmänhetens tjänst. Uppdraget ska redovisas senast den 30 september 2017\.
+En parlamentarisk kommitté ska analysera villkoren för radio och tv i allmänhetens tjänst och föreslå nödvändiga förändringar för att skapa fortsatt goda förutsättningar för verksamheten. Kommitténs uppdrag är att föreslå ett långsiktigt hållbart och solidariskt finansieringssystem för radio och tv i allmänhetens tjänst. Uppdraget ska redovisas senast den 30 september 2017.
 
 Utgångspunkten är att Sveriges Radio AB, Sveriges Television AB och Sveriges Utbildningsradio AB ska ha finansiella förutsättningar att utveckla en oberoende verksamhet med hög legitimitet, kvalitet och relevans i det moderna medielandskapet.
 

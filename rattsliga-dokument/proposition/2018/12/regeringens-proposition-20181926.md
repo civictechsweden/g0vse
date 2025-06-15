@@ -5,4 +5,4 @@ geoblockeringsförordning. Den föreslagna lagen innehåller bestämmelser
 om att näringsidkare som bryter mot förordningen ska åläggas att betala
 en sanktionsavgift.
 
-Den nya lagen föreslås träda i kraft den 1 april 2019\.
+Den nya lagen föreslås träda i kraft den 1 april 2019.

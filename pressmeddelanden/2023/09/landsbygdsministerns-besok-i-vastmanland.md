@@ -4,7 +4,7 @@ På förmiddagen träffar statsrådet bland annat ordförande för Sveriges gris
 
 ## Pressträff
 
-Klockan 15\.30 hålls en pressträff. Utöver statsrådet medverkar statsepizootolog Karl Ståhl samt företrädare för Jordbruksverket och Fagersta kommun.
+Klockan 15.30 hålls en pressträff. Utöver statsrådet medverkar statsepizootolog Karl Ståhl samt företrädare för Jordbruksverket och Fagersta kommun.
 
 Plats: Presscenter Norra Station, Bangårdsgatan 4, 737 80 Fagersta.
 

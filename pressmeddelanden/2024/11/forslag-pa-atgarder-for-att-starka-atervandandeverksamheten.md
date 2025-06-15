@@ -1,6 +1,6 @@
 # Förslag på åtgärder för att stärka återvändandeverksamheten
 
-– Ett fungerande återvändande är en förutsättning för en ansvarsfull och restriktiv migrationspolitik. Regeringen har redan vidtagit åtgärder på det här området men mer behöver göras för att effektivisera arbetet. Utredningens förslag ger polisen och Migrationsverket bättre verktyg att verkställa av\- och utvisningsbeslut, säger migrationsminister Johan Forssell.
+– Ett fungerande återvändande är en förutsättning för en ansvarsfull och restriktiv migrationspolitik. Regeringen har redan vidtagit åtgärder på det här området men mer behöver göras för att effektivisera arbetet. Utredningens förslag ger polisen och Migrationsverket bättre verktyg att verkställa av- och utvisningsbeslut, säger migrationsminister Johan Forssell.
 
 Utredningen bedömer att de förslag som rör inre utlänningskontroll kan leda till att fler kontroller utförs och att de blir mer träffsäkra. På så sätt kan fler utlänningar som saknar rätt att vistas i Sverige påträffas och avvisas eller utvisas från landet. Förslagen om stärkt återvändande i övrigt bedöms också medföra att fler beslut om avvisning och utvisning kan fattas och verkställas och att detta kan ske snabbare än i dag.
 
@@ -8,7 +8,7 @@ Förslagen innebär bland annat följande:
 
 ### Ett utökat informationsutbyte mellan myndigheter
 
-Utredningen föreslår ett utökat informationsutbyte för ett antal myndigheter, i syfte att stärka arbetet med att verkställa avlägsnandebeslut och motverka olovlig vistelse i landet. Urvalet av myndigheter bygger på att de bedöms ha tillgång till uppgifter om utlänningar som inte har rätt att vistas i Sverige, som de verkställande myndigheterna behöver. Förslaget innebär bland annat att Arbetsförmedlingen, Försäkringskassan, Kriminalvården, Kronofogde­myndigheten, Pensionsmyndigheten och Skatteverket på eget initiativ ska lämna uppgifter om en utlänning till Polismyndigheten, om det finns anledning att anta att utlänningen inte har rätt att vistas i Sverige. Utredningen bedömer att det utökade informationsutbytet inte bör gälla för hälso\- och sjukvården, skolan och socialtjänsten.
+Utredningen föreslår ett utökat informationsutbyte för ett antal myndigheter, i syfte att stärka arbetet med att verkställa avlägsnandebeslut och motverka olovlig vistelse i landet. Urvalet av myndigheter bygger på att de bedöms ha tillgång till uppgifter om utlänningar som inte har rätt att vistas i Sverige, som de verkställande myndigheterna behöver. Förslaget innebär bland annat att Arbetsförmedlingen, Försäkringskassan, Kriminalvården, Kronofogde­myndigheten, Pensionsmyndigheten och Skatteverket på eget initiativ ska lämna uppgifter om en utlänning till Polismyndigheten, om det finns anledning att anta att utlänningen inte har rätt att vistas i Sverige. Utredningen bedömer att det utökade informationsutbytet inte bör gälla för hälso- och sjukvården, skolan och socialtjänsten.
 
 ### En översyn av regelverket om inre utlänningskontroller
 

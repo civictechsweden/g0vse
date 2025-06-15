@@ -1,7 +1,6 @@
 # Uppdrag till MSB att genomföra en informationskampanj till allmänhet och företag om informations- och cybersäkerhet
 
-Regeringen ger Myndig­heten för sam­hälls­skydd och beredskap (MSB) i uppdrag att, i sam­verkan med Polis­myndigheten, genom­föra en nationell informa­tions­kampanj under 2022 som riktar sig till allmän­heten och till företag. Informa­tions­kampanjens syfte är att öka medveten­heten och kunskapen om informations\- och cyber­säkerhet samt förstärka förmågan att skydda sig mot brott.
-
+Regeringen ger Myndig­heten för sam­hälls­skydd och beredskap (MSB) i uppdrag att, i sam­verkan med Polis­myndigheten, genom­föra en nationell informa­tions­kampanj under 2022 som riktar sig till allmän­heten och till företag. Informa­tions­kampanjens syfte är att öka medveten­heten och kunskapen om informations- och cyber­säkerhet samt förstärka förmågan att skydda sig mot brott.
 
 Informa­tions­kampanjen ska spridas via ända­måls­enliga kanaler i syfte att nå ut till så många som möjligt. Den ska även genom­föras på flera språk, finnas till­gänglig på lätt svenska och vara tillgänglig­hets­anpassad.
 

@@ -11,4 +11,4 @@ Utredaren ska:
 
 Om utredaren bedömer att det är nödvändigt med författningsförslag kan utredaren föreslå sådana.
 
-Uppdraget ska delredovisas den 30 januari 2019, och slutredovisas senast den 15 oktober 2019\.
+Uppdraget ska delredovisas den 30 januari 2019, och slutredovisas senast den 15 oktober 2019.

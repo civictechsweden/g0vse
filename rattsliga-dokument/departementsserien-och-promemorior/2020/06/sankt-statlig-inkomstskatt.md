@@ -11,7 +11,7 @@ förvärvsinkomster från 20 till 19,5 procent av den beskattningsbara förvärv
 Förslagen föranleder ändringar inkomstskattelagen .
 
 Lagändringarna föreslås träda i kraft den 1 januari 2021 och tillämpas
-första gången på beskattningsår som börjar efter den 31 december 2020\.
+första gången på beskattningsår som börjar efter den 31 december 2020.
 
 Remissvaren ska ha kommit in till Finansdepartementet senast den
-18 augusti 2020\.
+18 augusti 2020.

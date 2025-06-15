@@ -6,4 +6,4 @@ Det ska också vara straffbart att tillverka, importera, distribuera, sälja, hy
 
 Straffet för att skaffa eller använda olovlig avkodningsutrustning för privat bruk ska vara böter. Straffet för övrig privat olovlig hantering ska vara böter eller fängelse i högst två år, vilket redan gäller för kommersiell olovlig hantering.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2014\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2014.

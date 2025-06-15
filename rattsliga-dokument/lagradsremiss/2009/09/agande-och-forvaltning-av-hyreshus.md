@@ -1,6 +1,6 @@
 # Ägande och förvaltning av hyreshus
 
-I lagrådsremissen föreslås att lagen (1975:1132\) om förvärv av hyresfastighet m.m. ska upphävas, eftersom lagen inte tillräckligt effektivt förhindrar att personer som är mindre lämpliga som hyresvärdar förvärvar och förvaltar hyresfastigheter. I syfte att tillvarata hyresgästernas intressen av en tillfredställande fastighetsförvaltning föreslås att bostadsförvaltningslagen (1977:792\) ska skärpas. De förslagen innebär i huvudsak följande.
+I lagrådsremissen föreslås att lagen (1975:1132) om förvärv av hyresfastighet m.m. ska upphävas, eftersom lagen inte tillräckligt effektivt förhindrar att personer som är mindre lämpliga som hyresvärdar förvärvar och förvaltar hyresfastigheter. I syfte att tillvarata hyresgästernas intressen av en tillfredställande fastighetsförvaltning föreslås att bostadsförvaltningslagen (1977:792) ska skärpas. De förslagen innebär i huvudsak följande.
 
 Förutsättningarna för förvaltningsåläggande mildras. Förvaltningsåläggande ska kunna beslutas om bristerna i fastighetsägarens förvaltning är av mindre allvarligt slag och ett sådant beslut är tillräckligt för att uppnå en tillfredställande förvaltning av hyresfastigheten.
 
@@ -8,4 +8,4 @@ Kraven för särskild förvaltning (förvaltningsåläggande och tvångsförvalt
 
 Vid tvångsförvaltning ska det inte längre krävas särskilda skäl för att förvaltare ska kunna få arvode för sitt uppdrag oftare än en gång varje kalenderår.
 
-Lagändringarna föreslås träda i kraft den 1 mars 2010\.
+Lagändringarna föreslås träda i kraft den 1 mars 2010.

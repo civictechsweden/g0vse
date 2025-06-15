@@ -4,4 +4,4 @@ Vallokaler ska vara tillgängliga för var och en. Den nuvarande möjligheten f�
 
 Det föreslås bl.a. även ändringar i kommunallagen och vallagen som innebär att utländska unionsmedborgare med diplomatisk immunitet ska kunna delta i val till Europaparlamentet, kommunfullmäktige och landstingsfullmäktige.
 
-Ändringarna föreslås träda i kraft den 28 januari 2014\.
+Ändringarna föreslås träda i kraft den 28 januari 2014.

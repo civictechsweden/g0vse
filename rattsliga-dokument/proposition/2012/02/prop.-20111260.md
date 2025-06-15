@@ -6,5 +6,5 @@ Det föreslås att ett beslut om avvisning eller utvisning som huvudregel ska in
 
 Vidare föreslås att reglerna om s.k. verkställighetsförvar anpassas till direktivets ordalydelse. Det föreslås också att en utlänning som hålls i förvar och placeras i kriminalvårdsanstalt, häkte eller polisarrest ska hållas avskild från övriga intagna, om utlänningen inte har utvisats på grund av brott. En utlänning får inte hållas i verkställighetsförvar längre tid än två månader om det inte finns synnerliga skäl för en längre förvarstid. Även om synnerliga skäl föreligger får en utlänning inte hållas i förvar längre tid än tre månader eller, om verkställigheten drar ut på tiden på grund av att utlänningen inte samarbetar eller för att det tar tid att införskaffa nödvändiga handlingar, tolv månader.
 
-Lagändringarna föreslås träda i kraft den 1 maj 2012\.
+Lagändringarna föreslås träda i kraft den 1 maj 2012.
 Propositionen bygger på en överenskommelse mellan regeringen och Miljöpartiet de gröna.

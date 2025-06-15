@@ -1,11 +1,10 @@
 # Acko Ankarberg Johansson om ett möjligt statligt huvudmannaskap för hälso- och sjukvården
 
-Torsdagen den 1 juni 2023 beslutade regeringen om ett direktiv till en parlamentariskt sammansatt kommitté som ska analysera och belysa för\- och nackdelar samt lämna förslag på möjligheterna att långsiktigt införa ett helt eller delvis statligt huvudmannaskap för hälso\- och sjukvården. Hör sjukvårdsminister Acko Ankarberg Johansson berätta om uppdraget till kommittén.
-
+Torsdagen den 1 juni 2023 beslutade regeringen om ett direktiv till en parlamentariskt sammansatt kommitté som ska analysera och belysa för- och nackdelar samt lämna förslag på möjligheterna att långsiktigt införa ett helt eller delvis statligt huvudmannaskap för hälso- och sjukvården. Hör sjukvårdsminister Acko Ankarberg Johansson berätta om uppdraget till kommittén.
 
 Transkribering:
 
-Idag har vi presenterat ett regeringsbeslut som handlar om direktiv till en parlamentarisk utredning. Vi ska utreda organisationen för hälso\- och sjukvården, och mer specifikt: ska vi flytta ansvaret helt eller delvis från regionerna till staten. Så det är en fråga om hur vi ska få en mer jämlik hälso\- och sjukvård.
+Idag har vi presenterat ett regeringsbeslut som handlar om direktiv till en parlamentarisk utredning. Vi ska utreda organisationen för hälso- och sjukvården, och mer specifikt: ska vi flytta ansvaret helt eller delvis från regionerna till staten. Så det är en fråga om hur vi ska få en mer jämlik hälso- och sjukvård.
 
 Varför vill regeringen utreda detta?
 

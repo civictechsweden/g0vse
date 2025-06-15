@@ -8,6 +8,6 @@ Syftet med uppdraget är att skapa förutsättningar för ett utvecklat och änd
 * att sprida kunskap, framgångsfaktorer och goda exempel på om verkningsfulla insatser och effektiva arbetssätt, och
 * att informera om pågående insatser inom området, med särskilt fokus på regeringens och berörda myndigheters arbete.
 
-Uppdraget ska delredovisas senast den 31 mars 2025 respektive den 31 mars 2026\. Uppdraget ska slutredovisas senast den 31 mars 2027\.
+Uppdraget ska delredovisas senast den 31 mars 2025 respektive den 31 mars 2026. Uppdraget ska slutredovisas senast den 31 mars 2027.
 
 Av Tidöavtalet, som är en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna, framgår att arbetet med psykisk hälsa och suicid­prevention är ett prioriterat område. I överenskommelsen framgår att en nationell samordnare med ett samlat ansvar för det suicidpreventiva arbetet ska tillsättas.

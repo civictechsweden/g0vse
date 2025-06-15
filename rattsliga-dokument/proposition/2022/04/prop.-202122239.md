@@ -16,4 +16,4 @@ I propositionen anges vidare att regeringen avser att återkomma med ytterligare
 
 I propositionen görs också en bedömning av att antalet fordon som framförs på gångbanor bör vara möjligt att begränsa.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2023\.
+Lagändringarna föreslås träda i kraft den 1 januari 2023.

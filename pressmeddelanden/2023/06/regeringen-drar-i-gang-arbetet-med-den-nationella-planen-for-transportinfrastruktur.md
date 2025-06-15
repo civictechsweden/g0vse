@@ -1,6 +1,6 @@
 # Regeringen drar i gång arbetet med den nationella planen för transportinfrastruktur
 
-– Nu lägger vi grunden för den kommande långsiktiga planen för landets transportinfrastruktur. Regeringen prioriterar att fortsätta förbättra den infrastruktur vi har, reparera där det behövs och förvalta våra gemensamma resurser på bästa sätt, säger infrastruktur\- och bostadsminister Andreas Carlson.
+– Nu lägger vi grunden för den kommande långsiktiga planen för landets transportinfrastruktur. Regeringen prioriterar att fortsätta förbättra den infrastruktur vi har, reparera där det behövs och förvalta våra gemensamma resurser på bästa sätt, säger infrastruktur- och bostadsminister Andreas Carlson.
 
 Regeringens prioritering är att underlätta för arbetspendling och godstrafik för att stärka jobb och tillväxt i hela landet. Regeringen betonar också vikten av underhåll av vägar och järnvägar samt kostnadseffektiva åtgärder för att optimera transportinfrastrukturen och öka transporteffektiviteten.
 
@@ -10,10 +10,10 @@ Arbetet med kostnadskontroll ska stärkas. Trafikverket ska vidare bedöma tillk
 
 Trafikverkets ska även beakta regeringens prioritering att inte fullfölja utbyggnaden av ett system för nya höghastighetsstambanor.
 
-Syftet med uppdraget till Trafikverket är att ge regeringen ett underlag för bedömning av ekonomiska ramar och inriktning för åtgärder i transportinfrastrukturen för perioden 2026–2037\.
+Syftet med uppdraget till Trafikverket är att ge regeringen ett underlag för bedömning av ekonomiska ramar och inriktning för åtgärder i transportinfrastrukturen för perioden 2026–2037.
 
 Regeringen avser sedan att i en proposition till riksdagen lämna förslag till ekonomiska ramar för åtgärder i transportinfrastrukturen för den nya planperioden.
 
 När riksdagen har fattat beslut om ekonomiska ramar följer en åtgärdsplanering i syfte att ta fram en ny trafikslagsövergripande nationell plan för transportinfrastrukturen och länsplaner för regional transportinfrastruktur.
 
-Trafikverkets inriktningsunderlag ska redovisas till Landsbygds\- och infrastrukturdepartementet senast den 15 januari 2024\.
+Trafikverkets inriktningsunderlag ska redovisas till Landsbygds- och infrastrukturdepartementet senast den 15 januari 2024.

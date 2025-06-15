@@ -1,8 +1,7 @@
 # Remiss av betänkandet Totalförsvarsdatalag – Rekryteringsmyndighetens personuppgiftsbehandling
 
-Här kan du ta del av till vilka remissinstanser som regeringen har remitterat betänkandet Totalförsvarsdatalag – Rekryteringsmyndighetens personuppgiftsbehandling (SOU 2017:97\).
-Remissvaren ska ha kommit in till Försvarsdepartementet senast den 4 juni 2018\.
-
+Här kan du ta del av till vilka remissinstanser som regeringen har remitterat betänkandet Totalförsvarsdatalag – Rekryteringsmyndighetens personuppgiftsbehandling (SOU 2017:97).
+Remissvaren ska ha kommit in till Försvarsdepartementet senast den 4 juni 2018.
 
 Remissinstanser
 
@@ -31,13 +30,13 @@ Remissinstanser
 [23 Länsstyrelsen i Västerbottens län](/contentassets/96863e7c2b3f47b88a8388ab629ec820/fo2017-01697_23-lansstyrelsen-vasterbotten.pdf)
 [24 Länsstyrelsen i Västra Götalands län](/contentassets/96863e7c2b3f47b88a8388ab629ec820/fo2017-01697_24-lansstyrelsen-vastra-gotaland.pdf)
 [25 Statens skolverk](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/totalforsvarsdatalag--rekryteringsmyndighetens-personuppgiftsbehandling-sou-201797/fo2017-01697_25-skolverket.pdf)
-[26 Myndigheten för ungdoms\- och civilsamhällefrågor](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/totalforsvarsdatalag--rekryteringsmyndighetens-personuppgiftsbehandling-sou-201797/fo2017-01697_26-mucf.pdf)
+[26 Myndigheten för ungdoms- och civilsamhällefrågor](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/totalforsvarsdatalag--rekryteringsmyndighetens-personuppgiftsbehandling-sou-201797/fo2017-01697_26-mucf.pdf)
 [27 Universitetskanslersämbetet](/contentassets/96863e7c2b3f47b88a8388ab629ec820/fo2017-01697_27-uka.pdf)
-[28 Universitets\- och högskolerådet](/contentassets/96863e7c2b3f47b88a8388ab629ec820/fo2017-01697_28-universitets--och-hogskoleradet.pdf)
+[28 Universitets- och högskolerådet](/contentassets/96863e7c2b3f47b88a8388ab629ec820/fo2017-01697_28-universitets--och-hogskoleradet.pdf)
 [29 Uppsala universitet](/contentassets/96863e7c2b3f47b88a8388ab629ec820/fo2017-01697_29-uppsala-universitet.pdf)
 [30 Försvarshögskolan](/contentassets/96863e7c2b3f47b88a8388ab629ec820/fo2017-01697_30-fhs.pdf)
 [31 Svenska kraftnät](/contentassets/96863e7c2b3f47b88a8388ab629ec820/fo2017-01697_31-svenska-kraftnat.pdf)
-[32 Post\- och telestyrelsen](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/totalforsvarsdatalag--rekryteringsmyndighetens-personuppgiftsbehandling-sou-201797/fo2017-01697_32-pts.pdf)
+[32 Post- och telestyrelsen](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/totalforsvarsdatalag--rekryteringsmyndighetens-personuppgiftsbehandling-sou-201797/fo2017-01697_32-pts.pdf)
 [33 Trafikverket](/contentassets/96863e7c2b3f47b88a8388ab629ec820/fo2017-01697_33-trafikverket.pdf)
 34 Transportstyrelsen
 [35 Sjöfartsverket](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/totalforsvarsdatalag--rekryteringsmyndighetens-personuppgiftsbehandling-sou-201797/fo2017-01697_35-sjofartsverket.pdf)

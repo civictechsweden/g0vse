@@ -1,6 +1,6 @@
 # Långsiktig satsning på biogas
 
-– De senaste åren har visat hur sårbara vi är för höga energipriser. Genom att vi nu stärker den lokala produktionen av energi så minskar vi sårbarheten för höga energipriser. Dessutom så minskar utsläppen i och med detta stöd, säger energi\- och näringsminister Ebba Busch.
+– De senaste åren har visat hur sårbara vi är för höga energipriser. Genom att vi nu stärker den lokala produktionen av energi så minskar vi sårbarheten för höga energipriser. Dessutom så minskar utsläppen i och med detta stöd, säger energi- och näringsminister Ebba Busch.
 
 – Den här satsningen gör att fler bönder kan producera biogas vilket är viktigt för omställningen, beredskapen och lantbrukets lönsamhet, säger landsbygdsminister Peter Kullgren.
 

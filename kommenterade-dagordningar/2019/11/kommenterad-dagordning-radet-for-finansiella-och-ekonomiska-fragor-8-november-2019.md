@@ -8,6 +8,6 @@ På Ekofinrådets möte den 8 november 2019 finns följande punkter på dagordni
 * (ev.) Rådets rekommendation om utnämning av en ledamot i Europeiska centralbankens direktion
 * Beskattning av den digitala ekonomin
 * 2019 års rapport från den europeiska finanspolitiska nämnden
-* Slutsatser om EU\-statistik
+* Slutsatser om EU-statistik
 * Slutsatser om klimatfinansiering inför COP25
-* Uppföljning av G20\-mötet med finansministrar och centralbankschefer och av IMF:s och Världsbankens årliga möten i oktober 2019 i Washington
+* Uppföljning av G20-mötet med finansministrar och centralbankschefer och av IMF:s och Världsbankens årliga möten i oktober 2019 i Washington

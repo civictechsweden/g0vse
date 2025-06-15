@@ -8,12 +8,12 @@ Utredaren ska bl.a.
 
 * identifiera uppslag till försöksverksamheter,
 * bedöma om, och i så fall hur, staten bör främja och stödja
-försöksverksamheterna,
+  försöksverksamheterna,
 * analysera vilka hinder som staten kan och bör undanröja för att
-möjliggöra genomförandet av försöksverksamheterna, och
+  möjliggöra genomförandet av försöksverksamheterna, och
 * lämna nödvändiga författningsförslag och eventuellt föreslå andra
-statliga insatser.
+  statliga insatser.
 
 Utredaren ska senast den 30 september 2022 lämna en delredovisning av uppdraget att främja och stödja försöksverksamhet som inte kräver
 författningsändringar. Uppdraget ska slutredovisas senast den 14 december
-2023\.
+2023.

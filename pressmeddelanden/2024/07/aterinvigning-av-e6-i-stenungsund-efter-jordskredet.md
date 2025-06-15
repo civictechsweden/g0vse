@@ -2,7 +2,7 @@
 
 Natten till den 23 september 2023 inträffade ett stort skred utanför Stenungsund som fick stor påverkan på infrastrukturen i området.
 
-Trafikverket har sedan dess arbetat med att återställa väg E6 och prognosen var att arbetet skulle vara klart någon gång mellan tidig höst 2024 och årsskiftet 2024/2025\.
+Trafikverket har sedan dess arbetat med att återställa väg E6 och prognosen var att arbetet skulle vara klart någon gång mellan tidig höst 2024 och årsskiftet 2024/2025.
 
 Vägen kan nu öppnas tidigare än beräknat och Trafikverket planerar att släppa på trafiken på morgonen fredag den 5 juli.
 

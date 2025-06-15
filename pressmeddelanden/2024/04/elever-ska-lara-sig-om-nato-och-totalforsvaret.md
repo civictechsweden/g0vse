@@ -2,9 +2,9 @@
 
 – Vi har nu ett förändrat säkerhetsläge, och med anledning av detta och Sveriges inträde i Nato är det viktigt att svenska elever har kunskaper om totalförsvarsfrågor och Nato, säger skolminister Lotta Edholm.
 
-Från och med höstterminen 2025 kommer Sveriges gymnasieelever att få lära sig om totalförsvaret och Nato, då detta kommer att ingå i ämnet samhällskunskap. Eleverna ska bland annat få kunskap om Sveriges totalförsvar, folkrätten samt utrikes\- och säkerhetspolitikens roll för mellanstatliga förbindelser, däribland Natos roll.
+Från och med höstterminen 2025 kommer Sveriges gymnasieelever att få lära sig om totalförsvaret och Nato, då detta kommer att ingå i ämnet samhällskunskap. Eleverna ska bland annat få kunskap om Sveriges totalförsvar, folkrätten samt utrikes- och säkerhetspolitikens roll för mellanstatliga förbindelser, däribland Natos roll.
 
-I den pågående Läroplansutredningens uppdrag ingår att ta ställning till om kunskap om totalförsvaret och Nato även bör ingå i läroplanen för grundskolan, i exempelvis ämnet samhällskunskap. I dagens läroplan för grundskolan finns inga uttryckliga skrivningar inom området. Utredningen ska bland annat ta ställning till om tillägg bör göras om totalförsvaret och Nato, och vid behov lämna förslag på sådana ändringar. Uppdraget ska redovisas senast 28 februari 2025\.
+I den pågående Läroplansutredningens uppdrag ingår att ta ställning till om kunskap om totalförsvaret och Nato även bör ingå i läroplanen för grundskolan, i exempelvis ämnet samhällskunskap. I dagens läroplan för grundskolan finns inga uttryckliga skrivningar inom området. Utredningen ska bland annat ta ställning till om tillägg bör göras om totalförsvaret och Nato, och vid behov lämna förslag på sådana ändringar. Uppdraget ska redovisas senast 28 februari 2025.
 
 ## Skolan är en viktig del av totalförsvaret
 

@@ -10,7 +10,7 @@ Paketet är uppdelat i två delar; Luftförsvar och förstärkt maritim förmåg
 
 Paketet innehåller 70 miljoner pund i luftförsvarsutrustning. Investeringen syftar till att skydda trupperna vid frontlinjen, civila och viktiga industriella platser från Rysslands attacker.
 
-Specifika komponenter i paketet är luftförsvarsradar och motmedel mot obemannade luftburna system (C\-UAS).
+Specifika komponenter i paketet är luftförsvarsradar och motmedel mot obemannade luftburna system (C-UAS).
 
 ### Maritima förmågor:
 

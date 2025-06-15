@@ -1,15 +1,14 @@
 # Romstadgan fyller 25 år
 
-Den 17 juli var det 25 år sedan Romstadgan för Internationella brottsmålsdomstolen (International Criminal Court, ICC) antogs. Antagandet av Romstadgan är en av de viktigaste händelserna inom folkrätten sedan FN\-stadgans tillkomst för mer än 75 år sedan.
+Den 17 juli var det 25 år sedan Romstadgan för Internationella brottsmålsdomstolen (International Criminal Court, ICC) antogs. Antagandet av Romstadgan är en av de viktigaste händelserna inom folkrätten sedan FN-stadgans tillkomst för mer än 75 år sedan.
 
-
-Efter långa och svåra förhandlingar antogs Romstadgan den 17 juli 1998\. Inrättandet av en permanent internationell brottsmålsdomstol gör det möjligt att ställa enskilda till svars för folkmord, krigsförbrytelser, brott mot mänskligheten och, sedan 2018, även aggressionsbrottet. Det var ett historiskt och betydande steg för det ansvarsutkrävandet för de allvarligaste internationella brotten.
+Efter långa och svåra förhandlingar antogs Romstadgan den 17 juli 1998. Inrättandet av en permanent internationell brottsmålsdomstol gör det möjligt att ställa enskilda till svars för folkmord, krigsförbrytelser, brott mot mänskligheten och, sedan 2018, även aggressionsbrottet. Det var ett historiskt och betydande steg för det ansvarsutkrävandet för de allvarligaste internationella brotten.
 
 ## Starkt stöd från Sverige och EU
 
 Sverige har länge arbetat för att stärka det internationella straffrättsliga systemet och stöttade inrättandet av ICC. I dag bidrar Sverige till domstolens arbete på flera sätt, bland annat genom att bistå domstolen med åklagare och utredare och genom att samarbeta kring vittnesskydd och olika former av rättslig hjälp i brottmål, som till exempel förhör och bevisupptagning. Sverige kan även bistå med att verkställa fängelsestraff.
 
-EU har ett nära och välutvecklat samarbete med ICC. Med anledning av 25\-årsdagen för Romstadgans antagande antog EU:s utrikesråd under Sveriges ordförandeskap slutsatser som bekräftade att EU och EU:s medlemsstater fortsätter stå enade i sitt stöd för ICC i arbetet för att säkerställa fullt ansvarsutkrävande för allvarliga internationella brott. År 2006 blev EU den första regionala organisationen att ingå ett samarbetsavtal med domstolen.
+EU har ett nära och välutvecklat samarbete med ICC. Med anledning av 25-årsdagen för Romstadgans antagande antog EU:s utrikesråd under Sveriges ordförandeskap slutsatser som bekräftade att EU och EU:s medlemsstater fortsätter stå enade i sitt stöd för ICC i arbetet för att säkerställa fullt ansvarsutkrävande för allvarliga internationella brott. År 2006 blev EU den första regionala organisationen att ingå ett samarbetsavtal med domstolen.
 
 [Ta del av EU:s utrikesråds rådsslutsatser](https://data.consilium.europa.eu/doc/document/ST-11082-2023-INIT/en/pdf "Ta del av EU:s utrikesråds rådsslutsatser ")
 

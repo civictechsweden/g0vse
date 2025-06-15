@@ -2,7 +2,6 @@
 
 Regeringen ger Statskontoret i uppdrag att utföra en myndighetsanalys av Läkemedelsverket.
 
-
 Statskontoret ska med utgångspunkt i modellen för myndighetsanalyser:
 
 * analysera Läkemedelsverkets ekonomiska situation, finansieringsmodell och principerna för avgiftsstrukturen samt hur myndigheten fullgör sina uppgifter inom befintliga budgetramar

@@ -4,6 +4,6 @@ I promemorian föreslås en ny förordning med bestämmelser om en röstningsrå
 
 I promemorian föreslås också förordningsändringar som anger vilka avgifter Finansinspektionen ska ta ut för den verksamhet som berörs och för prövning av anmälningarna.
 
-Författningsändringarna har anknytning till ändringar i EU\-direktivet om aktieägares rättigheter.
+Författningsändringarna har anknytning till ändringar i EU-direktivet om aktieägares rättigheter.
 
-Förordningarna föreslås träda i kraft den 10 juni 2019\.
+Förordningarna föreslås träda i kraft den 10 juni 2019.

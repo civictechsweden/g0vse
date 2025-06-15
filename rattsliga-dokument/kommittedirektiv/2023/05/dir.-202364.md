@@ -11,4 +11,4 @@ Inom ramen för en översyn av regleringen ska utredaren bland annat
 * lämna förslag som gör att information kan hanteras av Säkerhets­polisen på ett mer ända­måls­enligt sätt än i dag, och
 * lämna nödvändiga författ­nings­förslag.
 
-Uppdraget ska redovisas senast den 15 november 2024\.
+Uppdraget ska redovisas senast den 15 november 2024.

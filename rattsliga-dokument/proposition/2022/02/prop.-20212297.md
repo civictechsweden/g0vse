@@ -6,4 +6,4 @@ Förstärkningen av nedsättningen innebär att för ersättning som utges
 under juni, juli och augusti 2022 ska bara ålderspensionsavgiften på 10,21 procent betalas.
 
 Förslaget föreslås träda i kraft den 1 juni 2022 och tillämpas på
-ersättning som utges under perioden 1 juni–31 augusti 2022\.
+ersättning som utges under perioden 1 juni–31 augusti 2022.

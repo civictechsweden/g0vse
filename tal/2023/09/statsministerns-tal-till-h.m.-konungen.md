@@ -1,13 +1,12 @@
 # Statsministerns tal till H.M. Konungen
 
-Tal av statsminister Ulf Kristersson till Hans Majestät Konungen med anledning av kungens femtioåriga regeringsjubileum. Kungliga slottet, Stockholm, den 15 september 2023\.
+Tal av statsminister Ulf Kristersson till Hans Majestät Konungen med anledning av kungens femtioåriga regeringsjubileum. Kungliga slottet, Stockholm, den 15 september 2023.
 
 Det talade ordet gäller.
 
-
 Eders Majestäter, Eders Kungliga Högheter, Eders excellenser, Herr talman, Prinsessan Christina Fru Magnuson, mina damer och herrar!
 
-Två av tre svenskar är födda efter tronskiftet 1973\. Det betyder att en överväldigande majoritet av Sveriges befolkning aldrig har upplevt en annan kung än den konung vi firar här ikväll. Och att ännu fler än så har vaga eller inga minnen alls av ett Sverige före Carl XVI Gustaf.
+Två av tre svenskar är födda efter tronskiftet 1973. Det betyder att en överväldigande majoritet av Sveriges befolkning aldrig har upplevt en annan kung än den konung vi firar här ikväll. Och att ännu fler än så har vaga eller inga minnen alls av ett Sverige före Carl XVI Gustaf.
 
 Själv var jag nio år när Kungen blev kung. Jag minns det väl. Jag var scout – precis som kungen. I mitt fall sjöscout och vi var på läger den helgen. Vi väcktes tidigt på morgonen, samlades ute och halade flaggan på halv stång. Vi förstod, att det här var en historisk dag.
 
@@ -25,9 +24,9 @@ När politiken ofta tänker i mandatperioder så vet jag att Kungen tänker i ge
 
 När Kungen tillträdde – 27 år gammal – var han ofta yngst i alla sammanhang. I dag är det sällan någon som överträffar honom i erfarenhet och överblick.
 
-Jag har själv slagits av det när Kungen varje år öppnar riksmötet i riksdagen, och berättar om 70\-talets oljekris eller om Berlinmurens fall.
+Jag har själv slagits av det när Kungen varje år öppnar riksmötet i riksdagen, och berättar om 70-talets oljekris eller om Berlinmurens fall.
 
-Men också när Kungen har klivit fram och blivit en samlande kraft vid svåra nationella händelser: Som Estonia\-katastrofen. Tsunamin. Stormen Gudrun.
+Men också när Kungen har klivit fram och blivit en samlande kraft vid svåra nationella händelser: Som Estonia-katastrofen. Tsunamin. Stormen Gudrun.
 
 Och det är klart – om man i 50 år har ägnat varje dag åt att arbeta för Sverige, att ständigt vara i beredskap, att resa genom landet och över världen för att främja våra svenska intressen: Ja, då får man helt unik kunskap och erfarenhet.
 
@@ -41,7 +40,7 @@ Det krävs en personlighet, en pliktkänsla utöver det vanliga, för att bära 
 
 ”Kungavärdighetens symboliska betydelse skulle inte långt förslå, om den ej vore förenad med såväl ett verksamt livs rika erfarenhet som personlighetens helgjutenhet – och karaktärens fasthet.”
 
-Orden är Tage Erlanders, framförda på inre borggården till kungens farfars far Gustaf V, vid hans 40\-åriga tronjubileum. Vi lever i en annan tid idag, men orden är lika sanna nu som då.
+Orden är Tage Erlanders, framförda på inre borggården till kungens farfars far Gustaf V, vid hans 40-åriga tronjubileum. Vi lever i en annan tid idag, men orden är lika sanna nu som då.
 
 Jag tror att kontinuitet är viktigt. Jag tror på de långa linjerna. Men det som är bestående får inte vara stillastående. Tvärtom – och se bara på Kungen.
 

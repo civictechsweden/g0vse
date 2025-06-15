@@ -1,6 +1,6 @@
 # Regeringen ger Svenska kraftnät i uppdrag att upphandla förbrukningsflexibilitet
 
-– Uppdraget skapar nya förutsättningar för att redan denna vinter dämpa elpriserna i Sverige när elförbrukningen är som störst och därtill bidra till minskad fossileldad elproduktion inom EU, säger energi\-och näringsminister Ebba Busch.
+– Uppdraget skapar nya förutsättningar för att redan denna vinter dämpa elpriserna i Sverige när elförbrukningen är som störst och därtill bidra till minskad fossileldad elproduktion inom EU, säger energi-och näringsminister Ebba Busch.
 
 Uppdraget har till syfte att minska bruttoelförbrukningen under de timmar då elförbrukningen är som störst och därigenom bidra till en att dämpa elpriserna samtidigt som försörjningstrygghetens stärks. Svenska kraftnät får även i uppdrag att fastställa höglasttimmar samt följa upp den uppnådda förbrukningsminskningen.
 

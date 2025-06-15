@@ -1,8 +1,8 @@
 # Förslag på ett nationellt inrapporterings- och uppföljningssystem för bortförda barn och vuxna ska tas fram
 
-\- Det är otroligt viktigt att vi har en kraftfull lagstiftning på plats som kan förhindra att barn och vuxna förs ut ur Sverige mot sin vilja. Regeringen föreslog därför nyligen ett utvidgat utreseförbud för barn som riskerar att föras utomlands för att exempelvis uppfostras i föräldrarnas hemländer. I de fall när personer ändå förs utomlands ser vi att det finns ett stort behov av att följa upp dessa ärenden bättre, säger jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg.
+- Det är otroligt viktigt att vi har en kraftfull lagstiftning på plats som kan förhindra att barn och vuxna förs ut ur Sverige mot sin vilja. Regeringen föreslog därför nyligen ett utvidgat utreseförbud för barn som riskerar att föras utomlands för att exempelvis uppfostras i föräldrarnas hemländer. I de fall när personer ändå förs utomlands ser vi att det finns ett stort behov av att följa upp dessa ärenden bättre, säger jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg.
 
-\- Vi har alltför många barn och vuxna som förs ut ur Sverige mot sin vilja. Nu går vi därför vidare och ger Jämställdhetsmyndigheten i uppdrag att utreda hur bortförandeärenden bör hanteras och följas upp, säger socialtjänstminister Camilla Waltersson Grönvall.
+- Vi har alltför många barn och vuxna som förs ut ur Sverige mot sin vilja. Nu går vi därför vidare och ger Jämställdhetsmyndigheten i uppdrag att utreda hur bortförandeärenden bör hanteras och följas upp, säger socialtjänstminister Camilla Waltersson Grönvall.
 
 Jämställdhetsmyndighetens uppdrag om skadliga utlandsvistelser och hedersrelaterat våld och förtryck ges mot bakgrund av att det saknas systematiserad inrapportering och uppföljning av hur många barn och vuxna som förs utomlands varje år. För att kunna sätta in rätt insatser behövs en bättre bild av problemets omfattning.
 

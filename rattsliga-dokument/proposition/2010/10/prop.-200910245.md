@@ -4,5 +4,5 @@ I propositionen lämnas förslag som innebär att personer som är anställda vi
 
 Lagändringarna föreslås träda i kraft den 1 januari 2011
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+----------------------------------------------------------
 Riksdagen fattade den 1 december 2010 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

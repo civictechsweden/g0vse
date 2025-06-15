@@ -1,7 +1,6 @@
 # Uppdrag att lämna stöd till de regionala bredbandskoordinatorerna
 
-Regeringen uppdrar åt Post\- och telestyrelsen (PTS) att lämna stöd till de regionala bredbandskoordinatorerna.
-
+Regeringen uppdrar åt Post- och telestyrelsen (PTS) att lämna stöd till de regionala bredbandskoordinatorerna.
 
 PTS ska som stöd till de regionala bredbandskoordinatorerna
 

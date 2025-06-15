@@ -4,7 +4,7 @@
 
 är född 1964 och har en kandidatexamen i historia. Kairat Abdrakhmanov har tjänstgjort inom utrikesministeriet sedan 1993 och har de senaste åren innehaft bl.a. följande befattningar:
 
-2016 \-  2018 Utrikesminister.
+2016 -  2018 Utrikesminister.
 
 2013 – 2016 Ambassadör, FN, New York.
 
@@ -18,19 +18,17 @@
 
 Kairat Abdrakhmanov talar engelska och ryska.
 
-
-
 **H.E. Mrs Shkëndije Geci Sherifi, Kosovo**
 
-är född 1972 och har en doktorsgrad inom utrikes\- och säkerhetspolitik. Hon har tjänstgjort inom utrikesministeriet sedan 1998 och har de senaste åren innehaft bl.a. följande befattningar:
+är född 1972 och har en doktorsgrad inom utrikes- och säkerhetspolitik. Hon har tjänstgjort inom utrikesministeriet sedan 1998 och har de senaste åren innehaft bl.a. följande befattningar:
 
-2017 \- Enhetschef, EU\-enheten, utrikesministeriet.
+2017 - Enhetschef, EU-enheten, utrikesministeriet.
 
 2013 – 2016 Ambassadör, Kosovos ambassad i Kroatien.
 
 2009 – 2013 Ambassadör, Kosovos ambassad i Ungern.
 
-2008 – 2009 Religions\- och kulturarvspolitiskt ansvarig vid kontoret för EU: s särskilda representant.
+2008 – 2009 Religions- och kulturarvspolitiskt ansvarig vid kontoret för EU: s särskilda representant.
 
 2006 – 2008 Enhetschef, OSSE, Kosovo.
 
@@ -40,13 +38,11 @@ Kairat Abdrakhmanov talar engelska och ryska.
 
 Shkëndije Geci Sherifi talar albanska, engelska, kroatiska, serbiska och tyska.
 
-
-
 **H.E. Mr Andreas Fryganas, Grekland**
 
 är född 1962 och har examina i juridik. Andreas Fryganas har tjänstgjort inom utrikesministeriet sedan 1992 och har de senaste åren innehaft bl.a. följande befattningar:
 
-2016 \- Ambassadör i Ryssland, samt sidoackrediterad till Vitryssland, Tadjikistan, Turkmenistan och Uzbekistan.
+2016 - Ambassadör i Ryssland, samt sidoackrediterad till Vitryssland, Tadjikistan, Turkmenistan och Uzbekistan.
 
 2011 – 2016 Andreman, Greklands ambassad i Berlin, Tyskland.
 
@@ -60,13 +56,11 @@ Shkëndije Geci Sherifi talar albanska, engelska, kroatiska, serbiska och tyska.
 
 Andreas Fryganas talar engelska, franska och tyska.
 
-
-
 **H.E. Mr Giedrius Čekuolis, Litauen**
 
 är född 1959 och har studerat internationella relationer i Moskva. Giedrius Čekuolis har tjänstgjort inom utrikesministeriet sedan 1990 och har de senaste åren innehaft bl.a. följande befattningar:
 
-2016 \-  Ambassador at Large, utrikesministeriet.
+2016 -  Ambassador at Large, utrikesministeriet.
 
 2014 – 2016  Permanent representant till FN, OSSE och andra internationella organisationer, Wien.
 

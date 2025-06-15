@@ -1,7 +1,6 @@
 # Svenskt-finskt ministerbesök hos läsglada elever i Rinkeby
 
-Den 16 september besökte kulturminister Parisa Liljestrand och skolminister Lotta Edholm Rinkeby i Stockholm tillsammans med Finlands undervisningsminister Anders Adlercreutz. Besöket skedde i anslutning till det gemensamma svensk\-finska regeringsmötet tidigare samma dag.
-
+Den 16 september besökte kulturminister Parisa Liljestrand och skolminister Lotta Edholm Rinkeby i Stockholm tillsammans med Finlands undervisningsminister Anders Adlercreutz. Besöket skedde i anslutning till det gemensamma svensk-finska regeringsmötet tidigare samma dag.
 
 På plats i Rinkeby fick ministrarna tillfälle att träffa en klass med elever i årskurs 4 i Askebyskolan och prata om läsning. Både eleverna och de besökande statsråden berättade om sina favoritböcker och vad de brukar gilla att läsa. Eleverna är med i en tävling som heter Den stora läsutmaningen. Den syftar till att skapa läsglädje, bidra till vardagsläsning och att öka läsmängden för barn. Initiativet till tävlingen har tagits av flera svenska bokförlag tillsammans och pågår från mitten av september till början av december.
 

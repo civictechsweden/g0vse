@@ -1,11 +1,10 @@
 # EU:s försvarsministrar diskuterade EU:s gemensamma säkerhets- och försvarspolitik
 
-När EU:s försvarsministrar träffades i Bryssel den 18 maj diskuterades flera frågor inom ramen för EU:s gemensamma säkerhets\- och försvarspolitik. Därutöver diskuterade försvarsministrarna bland annat samarbetet mellan Nato och EU.
+När EU:s försvarsministrar träffades i Bryssel den 18 maj diskuterades flera frågor inom ramen för EU:s gemensamma säkerhets- och försvarspolitik. Därutöver diskuterade försvarsministrarna bland annat samarbetet mellan Nato och EU.
 
+Inom ramen för EU:s gemensamma säkerhets- och försvarspolitik (GSFP) diskuterades bland annat möjligheten att upprätta ett permanent strukturerat samarbete (PESCO), formerna för en koordinerad försvarsöversyn (CARD), utvecklingen av EU:s snabbinsatsförmåga, med särskilt fokus på EU Battle Groups, och upprättandet av en europeisk försvarsfond (EDF). Målet med diskussionen var att förbereda det Europeiska rådet i juni, då EU:s stats- och regeringschefer förväntas fatta beslut om strategisk inriktning för EU:s gemensamma säkerhets- och försvarspolitik.
 
-Inom ramen för EU:s gemensamma säkerhets\- och försvarspolitik (GSFP) diskuterades bland annat möjligheten att upprätta ett permanent strukturerat samarbete (PESCO), formerna för en koordinerad försvarsöversyn (CARD), utvecklingen av EU:s snabbinsatsförmåga, med särskilt fokus på EU Battle Groups, och upprättandet av en europeisk försvarsfond (EDF). Målet med diskussionen var att förbereda det Europeiska rådet i juni, då EU:s stats\- och regeringschefer förväntas fatta beslut om strategisk inriktning för EU:s gemensamma säkerhets\- och försvarspolitik.
-
-Under mötet representerades regeringen av ambassadör Lars Danielsson. Vid mötet underströks regeringens uppfattning att samarbetet inom EU:s gemensamma säkerhets\- och försvarspolitik är under rådande omvärldsläge viktigare än någonsin, men att allt samarbete ska bygga på mellanstatlighet och bidra till att stärka unionens sammanhållning.
+Under mötet representerades regeringen av ambassadör Lars Danielsson. Vid mötet underströks regeringens uppfattning att samarbetet inom EU:s gemensamma säkerhets- och försvarspolitik är under rådande omvärldsläge viktigare än någonsin, men att allt samarbete ska bygga på mellanstatlighet och bidra till att stärka unionens sammanhållning.
 
 ### Samarbetet mellan EU och Nato
 

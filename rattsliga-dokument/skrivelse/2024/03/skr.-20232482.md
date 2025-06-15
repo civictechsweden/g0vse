@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om kontrollen av subventionerade anställningar
 
-Skrivelsen innehåller regeringens bedömning och åtgärder med anledning av Riksrevisionens rapport Subventionerade anställningar – att motverka fel i ett system med allvarliga risker (RiR 2023:17\).
+Skrivelsen innehåller regeringens bedömning och åtgärder med anledning av Riksrevisionens rapport Subventionerade anställningar – att motverka fel i ett system med allvarliga risker (RiR 2023:17).
 
 Riksrevisionens övergripande bedömning är att kontrollen av de
 subventionerade anställningarna, trots att förbättringar har gjorts, inte är

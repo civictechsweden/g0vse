@@ -4,4 +4,4 @@ Regeringen uppdrar åt Naturvårdsverket att utreda finansieringen av förvaltni
 
 Vid genomförandet av uppdraget ska Naturvårdsverket på lämpligt sätt tillvarata de kunskaper och erfarenheter som finns hos andra berörda myndigheter, intresseorganisationer och aktörer.
 
-Uppdraget ska redovisas till Regeringskansliet (Näringsdepartementet) senast den 15 oktober 2020\.
+Uppdraget ska redovisas till Regeringskansliet (Näringsdepartementet) senast den 15 oktober 2020.

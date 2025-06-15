@@ -6,4 +6,4 @@ Regeringen delar i huvudsak Riksrevisionens övergripande synpunkt. För att ök
 
 Samtidigt lyfter regeringen fram några av de initiativ den tagit inom området. Två utredningar är på gång vilka ligger i linje med Riksrevisionens iakttagelser och rekommendationer. Inom EU arbetar man också med att utarbeta nya direktiv på upphandlingsområdet.
 
-Regeringen menar att det är viktigt att både ta hänsyn till utvecklingen på EU\-nivå och att vänta in betänkandena från de utredningar som just nu pågår.
+Regeringen menar att det är viktigt att både ta hänsyn till utvecklingen på EU-nivå och att vänta in betänkandena från de utredningar som just nu pågår.

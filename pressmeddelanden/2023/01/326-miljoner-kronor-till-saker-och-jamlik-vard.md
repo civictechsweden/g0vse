@@ -12,10 +12,10 @@ Totalt uppgår överenskommelsen för 2023 till 326 000 000 kronor, varav region
 
 Nationella kvalitetsregister ska användas i förbättringsarbete i vårdens och omsorgens verksamheter men utgör också värdefulla källor för forskning och innovation.
 
-Genom överenskommelsen fortsätter regeringen att främja arbetet med nationella kvalitetsregister med fokus på att stödja infrastruktur och registrens tillgängliggörande för klinisk forskning, statlig uppföljning inklusive samarbete med life science\-sektorn.
+Genom överenskommelsen fortsätter regeringen att främja arbetet med nationella kvalitetsregister med fokus på att stödja infrastruktur och registrens tillgängliggörande för klinisk forskning, statlig uppföljning inklusive samarbete med life science-sektorn.
 
 ### Personcentrerade och sammanhållna vårdförlopp
 
-Regeringen vill med denna satsning stödja regionernas utveckling inom ramen för ett nationellt sammanhållet system för kunskapsstyrning i nära samverkan med andra aktörer såsom statliga myndigheter samt professions\- och patientföreningar. Detta för att öka jämlikheten, jämställdheten, effektiviteten och kvaliteten i vården utan att det medför onödig administrativ börda för sjukvårdspersonal. Syftet är också att förbättra upplevelsen för patienterna.
+Regeringen vill med denna satsning stödja regionernas utveckling inom ramen för ett nationellt sammanhållet system för kunskapsstyrning i nära samverkan med andra aktörer såsom statliga myndigheter samt professions- och patientföreningar. Detta för att öka jämlikheten, jämställdheten, effektiviteten och kvaliteten i vården utan att det medför onödig administrativ börda för sjukvårdspersonal. Syftet är också att förbättra upplevelsen för patienterna.
 
 Under 2023 ska insatser inom ramen för överenskommelsen fokusera på att stärka arbetet med en gemensam kunskapsstyrning. Syftet är att bidra till att resurserna i vården används på bästa sätt och att bästa möjliga kunskap ska finnas tillgänglig vid varje möte mellan vårdpersonal och patient för att uppnå en effektiv och jämlik vård med hög kvalitet.

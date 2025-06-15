@@ -14,4 +14,4 @@ Kommittén ska bland annat analysera och ta ställning till
 
 Kommittén ska lämna de författningsförslag som den finner motiverade och är oförhindrad att ta upp sådana närliggande frågor som har samband med de frågeställningar som ska utredas. Om kommittén bedömer att det är lämpligt får den lämna ett eller flera delbetänkanden.
 
-Uppdraget ska redovisas senast den 15 februari 2025\.
+Uppdraget ska redovisas senast den 15 februari 2025.

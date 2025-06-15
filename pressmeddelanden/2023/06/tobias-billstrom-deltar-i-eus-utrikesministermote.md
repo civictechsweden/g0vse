@@ -2,7 +2,7 @@
 
 Överst på dagordningen för EU:s utrikesministermöte står Rysslands aggression mot Ukraina.
 
-– Det är glädjande att vårt ordförandeskap har kunnat göra skillnad på många områden, men det finns mycket mer att göra. Stöd till Ukraina så länge som det krävs, tryck på Ryssland, och säkerställande av internationellt stöd för denna politik förblir en av regeringens viktigaste prioriteringar även efter vårt EU\-ordförandeskap, säger utrikesminister Tobias Billström.
+– Det är glädjande att vårt ordförandeskap har kunnat göra skillnad på många områden, men det finns mycket mer att göra. Stöd till Ukraina så länge som det krävs, tryck på Ryssland, och säkerställande av internationellt stöd för denna politik förblir en av regeringens viktigaste prioriteringar även efter vårt EU-ordförandeskap, säger utrikesminister Tobias Billström.
 
 På dagordningen står även EU:s förbindelser med Latinamerika och Karibien samt digital diplomati. Utrikesministrarna väntas också diskutera andra aktuella frågor och anta ytterligare sanktioner mot Iran.
 

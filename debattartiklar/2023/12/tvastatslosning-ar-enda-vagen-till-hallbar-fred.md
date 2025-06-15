@@ -1,6 +1,6 @@
 # ”Tvåstatslösning är enda vägen till hållbar fred"
 
-Statsminister Ulf Kristersson, energi\- och näringsminister Ebba Busch, arbetsmarknads\- och integrations­minister Johan Pehrson och utrikesminister Tobias Billström, debattartikel, Svenska Dagbladet, den 5 december 2023\.
+Statsminister Ulf Kristersson, energi- och näringsminister Ebba Busch, arbetsmarknads- och integrations­minister Johan Pehrson och utrikesminister Tobias Billström, debattartikel, Svenska Dagbladet, den 5 december 2023.
 
 Ett tillfälligt eldupphör i Gaza är nu över. Efter en vecka där humanitär hjälp har kunnat rulla in till nödställda palestinier och över hundra kidnappade israeler har frisläppts, är stridigheterna åter i gång.
 
@@ -26,9 +26,9 @@ Våldet har dessutom ökat kraftigt sedan den 7 oktober. Extrema bosättare miss
 
 Israel måste nu på allvar ta itu med det oacceptabla bosättar­våldet och upphöra med expansionen av bosättningar. Samtidigt måste man på palestinsk sida en gång för alla ta avstånd från våld och terror, såsom PLO gjorde 1993 i Osloavtalet. Bara då kan grunden läggas för en framtida fred.
 
-När kriget i Gaza är över måste idén om en tvåstats­lösning väckas till liv igen. Det kan framstå som utopiskt just nu, men de allra flesta inser att det är enda möjliga vägen till hållbar fred. En tvåstat­slösning har också brett politiskt stöd i vår del av världen. Det är Sveriges och EU:s tydliga ståndpunkt, men också USA:s och Storbritanniens. Under det svenska EU\-ordförandeskapet 2009 enades vi kring en gemensam europeisk position. Det krig som nu rasar har gjort tvåstats­lösningen ännu viktigare och ett Gaza utan Hamas­styre är en nödvändig förutsättning för att göra idén möjlig.
+När kriget i Gaza är över måste idén om en tvåstats­lösning väckas till liv igen. Det kan framstå som utopiskt just nu, men de allra flesta inser att det är enda möjliga vägen till hållbar fred. En tvåstat­slösning har också brett politiskt stöd i vår del av världen. Det är Sveriges och EU:s tydliga ståndpunkt, men också USA:s och Storbritanniens. Under det svenska EU-ordförandeskapet 2009 enades vi kring en gemensam europeisk position. Det krig som nu rasar har gjort tvåstats­lösningen ännu viktigare och ett Gaza utan Hamas­styre är en nödvändig förutsättning för att göra idén möjlig.
 
-Sverige ska alltså vara en stark röst för en tvåstats­lösning, där Israel och Palestina kan samexistera i fred och säkerhet. Vi har historiskt mycket täta band med Israel som den här regeringen har arbetat hårt för att återuppbygga, liksom även Göran Persson gjorde på sin tid. Vi har dessutom väl upparbetade förbindelser med Palestina, som en följd av ett långvarigt svenskt engagemang. Kan Sverige tillsammans med andra EU\-länder bidra till att återuppliva tvåstats­lösningen, skulle det vara en historisk insats för fred i Mellan­östern. Vårt första budskap är därför att Sverige står redo att bidra i ett bredare europeiskt initiativ.
+Sverige ska alltså vara en stark röst för en tvåstats­lösning, där Israel och Palestina kan samexistera i fred och säkerhet. Vi har historiskt mycket täta band med Israel som den här regeringen har arbetat hårt för att återuppbygga, liksom även Göran Persson gjorde på sin tid. Vi har dessutom väl upparbetade förbindelser med Palestina, som en följd av ett långvarigt svenskt engagemang. Kan Sverige tillsammans med andra EU-länder bidra till att återuppliva tvåstats­lösningen, skulle det vara en historisk insats för fred i Mellan­östern. Vårt första budskap är därför att Sverige står redo att bidra i ett bredare europeiskt initiativ.
 
 Vårt andra budskap är att vi samtidigt måste vara realister: Sveriges eget inflytande över konflikten i Mellan­östern är begränsat. Däremot bär vi i Sverige själva det fulla ansvaret för vad som händer i vårt eget land.
 
@@ -39,8 +39,8 @@ En akut svensk uppgift är nu att vårda samtals­klimatet och vårt sansade sä
 Ulf Kristersson
 statsminister
 Ebba Busch
-energi\- och näringsminister
+energi- och näringsminister
 Johan Pehrson
-arbetsmarknads\- och integrations­minister
+arbetsmarknads- och integrations­minister
 Tobias Billström
 utrikesminister

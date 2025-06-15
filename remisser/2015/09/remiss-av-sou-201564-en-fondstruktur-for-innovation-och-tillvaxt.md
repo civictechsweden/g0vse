@@ -2,8 +2,7 @@
 
 Här kan du ta del av de remissvar som har kommit till Näringsdepartementet på remiss av SOU 2015:64 En fondstruktur för innovation och tillväxt. Här finns även en remissammanställning.
 
-
-Remissvaren ska ha inkommit till Näringsdepartementet senast den 14 september 2015\.
+Remissvaren ska ha inkommit till Näringsdepartementet senast den 14 september 2015.
 
 ## Remissinstanser:
 
@@ -14,7 +13,7 @@ Remissvaren ska ha inkommit till Näringsdepartementet senast den 14 september 2
 5. Statens energimyndighet
 6. Tillväxtverket
 7. Myndigheten för tillväxtpolitiska utvärderingar och analyser
-8. Patent\- och registreringsverket, PRV
+8. Patent- och registreringsverket, PRV
 9. Verket för innovationssystem, Vinnova
 10. Konkurrensverket
 11. Riksrevisionen
@@ -24,7 +23,7 @@ Remissvaren ska ha inkommit till Näringsdepartementet senast den 14 september 2
 15. Inlandsinnovation  AB
 16. Stiftelsen Industrifonden
 17. Stiftelsen Nordandsfonden
-18. Sjätte AP\-fonden
+18. Sjätte AP-fonden
 19. RISE Research lostitutes of Sweden AB
 20. Skåne läns landsting
 21. Hallands läns landsting
@@ -76,15 +75,15 @@ Remissvaren ska ha inkommit till Näringsdepartementet senast den 14 september 2
 67. Sveriges akademikers centralorganisation, SACO
 68. Ingenjörsvetenskapsakademien, IVA
 69. Kooperativa Förbundet
-70. Stiftelsen för kunskaps\- och kompetensutveckling
+70. Stiftelsen för kunskaps- och kompetensutveckling
 71. Svensk Handel
 72. Svenska uppfinnareföreningen, SUP
 73. Svenska Riskkapitalföreningen, SVCA
 74. Sveriges Verkstadsindustrier
-75. Swedish Incubators  \& Science Parks, SISP
+75. Swedish Incubators  & Science Parks, SISP
 76. Swedish Network for Innovation  and Technology Transfer Support, SNITTS
 
-Vi ser gärna att remissvaren även skickas i elektronisk form via e\-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator") i både word\- och pdf\-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer  (utan snedstreck), N2015\-4705\-KF, följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen  i betänkandet. I remissvaret anges Regeringskansliets diarienummer N2015/4705/KF.
+Vi ser gärna att remissvaren även skickas i elektronisk form via e-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator") i både word- och pdf-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer  (utan snedstreck), N2015-4705-KF, följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen  i betänkandet. I remissvaret anges Regeringskansliets diarienummer N2015/4705/KF.
 
 I remissen ligger att regeringen vill ha synpunkter på förslagen eller materialet i betänkandet. Om remissen är begränsad till en viss del av betänkandet, anges detta inom parentes efter remissinstansens namn i remisslistan. En sådan begränsning hindrar givetvis inte att remissinstansen lämnar synpunkter också på övriga delar.
 

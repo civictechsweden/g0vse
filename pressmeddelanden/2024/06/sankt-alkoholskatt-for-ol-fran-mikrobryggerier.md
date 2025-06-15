@@ -12,4 +12,4 @@ Nedsättningen är kopplad till producentens årsproduktion. De minsta producent
 
 Förslaget kommer ingå i höstens budgetförhandlingar. Om förslaget kommer att presenteras i budgetpropositionen för 2025, och i vilken omfattning och med vilken dimensionering, blir beroende av det ekonomiska läget, reformutrymmet och finansieringsbehovet samt de överläggningar som förs i det slutliga arbetet med budgetpropositionen.
 
-Ändringarna föreslås träda i kraft den 1 juli 2025\.
+Ändringarna föreslås träda i kraft den 1 juli 2025.

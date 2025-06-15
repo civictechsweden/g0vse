@@ -12,8 +12,8 @@ Utredaren ska bl.a.
 * ta ställning till om det bör göras författningsändringar, t.ex. när det gäller kamerabevakning, för att effektivisera kontrollen av utlänningars vistelserätt och bekämpningen av brott i sådana områden
 * lämna nödvändiga författningsförslag
 
-Uppdraget ska redovisas senast den 20 september 2021\.
+Uppdraget ska redovisas senast den 20 september 2021.
 
-\-\-\-\-\-\-\-\-\-
+---------
 
-Regeringen har den 10 juni 2021 beslutat om förlängd tid för uppdraget. Uppdraget ska i stället redovisas senast den 19 november 2021\.
+Regeringen har den 10 juni 2021 beslutat om förlängd tid för uppdraget. Uppdraget ska i stället redovisas senast den 19 november 2021.

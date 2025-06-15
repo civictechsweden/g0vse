@@ -12,4 +12,4 @@ Utredaren ska
 * bedöma verksamhetens lokalbehov, och
 * kartlägga relevanta samarbetsparter.
 
-Uppdraget ska redovisas senast den 31 mars 2020\.
+Uppdraget ska redovisas senast den 31 mars 2020.

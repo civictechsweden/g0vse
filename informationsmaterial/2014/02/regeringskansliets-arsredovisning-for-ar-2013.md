@@ -6,4 +6,4 @@ Regeringskansliets förvaltningsanslag för 2013 uppgick till 6 643 miljoner kro
 
 Medelantalet anställda i Regeringskansliet 2013, korrigerat för tjänstlediga m.m., var 4 632, vilket är en ökning med cirka 100 anställda jämfört med föregående år.
 
-Lokalkostnaderna har minskat under 2013 vilket är en följd av att Regeringskansliet har evakuerat lokaler för om\- och tillbyggnad.
+Lokalkostnaderna har minskat under 2013 vilket är en följd av att Regeringskansliet har evakuerat lokaler för om- och tillbyggnad.

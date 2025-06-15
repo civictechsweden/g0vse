@@ -7,4 +7,4 @@ och mot närstående. Utredaren ska vid sidan av det uppdraget
 också överväga ett straffrättsligt ansvar för uppmaning eller annan
 psykisk påverkan att begå självmord.
 
-Uppdraget ska redovisas senast den 14 juni 2019\.
+Uppdraget ska redovisas senast den 14 juni 2019.

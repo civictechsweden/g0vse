@@ -12,4 +12,4 @@ Det föreslås också att så kallade omfrågeuppgifter ska gallras senast efter
 
 Vidare föreslås att om en kreditupplysning lämnas ut till en bank eller något annat institut endast för beräkning av kapitalkrav för kreditrisker, så behöver den som avses med upplysningen inte samtidigt få information om innehållet i upplysningen och möjlighet till rättelse. Information om vem som lämnat upplysningen, vem som inhämtat den och ändamålet med inhämtandet ska dock ges utan onödigt dröjsmål.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2010\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2010.

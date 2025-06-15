@@ -1,6 +1,6 @@
 # Indopacifiska regionen allt viktigare i en stormig omvärld
 
-Den indopacifiska regionen, det vidsträckta och tätbefolkade område som spänner från Afrikas östkust via Indiska oceanen och arkipelagerna i Sydostasien till ö\-nationerna i Stilla havet, har de senaste åren fått en central försvarspolitisk och militär betydelse.
+Den indopacifiska regionen, det vidsträckta och tätbefolkade område som spänner från Afrikas östkust via Indiska oceanen och arkipelagerna i Sydostasien till ö-nationerna i Stilla havet, har de senaste åren fått en central försvarspolitisk och militär betydelse.
 
 Den regionala utvecklingen präglas i allt högre utsträckning av dynamiken mellan Kina och USA. Kinas auktoritära utveckling och fördjupade samarbete med Ryssland, liksom USA:s resursprioritering mellan Europa och den indopacifiska regionen, inverkar på det säkerhetspolitiska läget i Europa. Den euroatlantiska regionen, inklusive Sverige, skulle påverkas negativt av konflikter i den indopacifiska regionen.
 

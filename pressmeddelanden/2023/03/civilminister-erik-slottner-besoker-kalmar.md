@@ -6,4 +6,4 @@ Under vistelsen kommer civilministern att besöka Kalmar kommun för samtal om d
 
 Civilministern besöker även Region Kalmar län för att diskutera hur regionen arbetar med den fortsatta digitaliseringen av regionens verksamhet. Detta är ett arbete som drivs i nära samarbete med länets kommuner med mål att de digitala lösningarna ska ge bra nytta för invånare, patienter och användare.
 
-Civilministern kommer även att göra ett besök hos E\-hälsomyndigheten där myndigheten presenterar bland annat sitt arbete med ett europeiskt hälsodatautrymme och Sveriges digitala infrastruktur.
+Civilministern kommer även att göra ett besök hos E-hälsomyndigheten där myndigheten presenterar bland annat sitt arbete med ett europeiskt hälsodatautrymme och Sveriges digitala infrastruktur.

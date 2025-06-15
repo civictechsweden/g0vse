@@ -1,6 +1,6 @@
 # Sjukvårdsministern besöker Västernorrland
 
-Under mötet med ledningen i Region Västernorrland deltar Glenn Nordlund, regionstyrelsens ordförande samt Elina Backlund Arab, ordförande i hälso\- och sjukvårdsnämnden.
+Under mötet med ledningen i Region Västernorrland deltar Glenn Nordlund, regionstyrelsens ordförande samt Elina Backlund Arab, ordförande i hälso- och sjukvårdsnämnden.
 
 Sjukvårdsministern kommer också att göra ett besök på verksamheten Hälsocentralen Kramfors.
 

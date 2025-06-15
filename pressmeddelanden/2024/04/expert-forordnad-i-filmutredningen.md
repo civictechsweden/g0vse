@@ -12,8 +12,8 @@ Regeringen beslutade den 26 januari 2024 om direktiv till en bred översyn av de
 
 • hur filmarvet bättre kan bevaras och göras tillgängligt i framtiden, bland annat genom fortsatt digitalisering, samt
 
-• nya former för parts\- och branschsamverkan.
+• nya former för parts- och branschsamverkan.
 
 Till särskild utredare har regeringen utsett Eva Bergquist, kulturdirektör i Region Stockholm. Till utredningen har sedan tidigare knutits en expertgrupp som består av filmvetaren och verkställande direktör för Stiftelsen Ingmar Bergman, Jan Holmberg, medieanalytikern Johanna Koljonen, analyschefen för Film i Väst, Tomas Eskilsson, verkställande direktören Raoul Grünthal samt tillträdande konstnärliga ledaren för Göteborg filmfestival, Pia Lundberg.
 
-Uppdraget ska redovisas senast den 28 februari 2025\.
+Uppdraget ska redovisas senast den 28 februari 2025.

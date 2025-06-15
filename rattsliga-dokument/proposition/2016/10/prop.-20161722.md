@@ -5,6 +5,6 @@ till EU:s marknadsmissbruksförordning (kompletteringslagen). Den nya lagen inne
 
 I propositionen föreslås vidare en ny lag om straff för marknadsmissbruk på värdepappersmarknaden. Lagen innehåller de bestämmelser som behövs för att genomföra marknadsmissbruksdirektivet. Med anledning av att straffskalorna för marknadsmissbruksbrott justeras föreslås även justeringar i motsvarande straffbestämmelser i lagen om handel med utsläppsrätter och lagen om ingripande mot marknadsmissbruk vid handel med grossistenergiprodukter.
 
-I propositionen föreslås också ändringar i offentlighets\- och sekretesslagen som föranleds av marknadsmissbruksförordningen och de nya befogenheter som Finansinspektionen föreslås få.
+I propositionen föreslås också ändringar i offentlighets- och sekretesslagen som föranleds av marknadsmissbruksförordningen och de nya befogenheter som Finansinspektionen föreslås få.
 
-Lagändringarna föreslås träda i kraft den 1 februari 2017\.
+Lagändringarna föreslås träda i kraft den 1 februari 2017.

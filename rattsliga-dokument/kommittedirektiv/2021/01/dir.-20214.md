@@ -13,4 +13,4 @@ Utredaren ska bl.a.
 * ta ställning till vilka myndigheter och organisationer som bör kunna få tillgång till insamlade uppgifter, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 30 juni 2022\.
+Uppdraget ska redovisas senast den 30 juni 2022.

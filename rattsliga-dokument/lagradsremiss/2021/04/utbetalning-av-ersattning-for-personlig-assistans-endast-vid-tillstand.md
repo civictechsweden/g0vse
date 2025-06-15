@@ -6,4 +6,4 @@ Regeringen föreslår också att lagstiftningen ändras så att Försäkringskas
 
 Dessutom föreslår regeringen att möjligheterna för Inspektionen för vård och omsorg att begära in information i tillsynsärenden förtydligas.
 
-Lagändringarna föreslås träda i kraft den 1 november 2021\.
+Lagändringarna föreslås träda i kraft den 1 november 2021.

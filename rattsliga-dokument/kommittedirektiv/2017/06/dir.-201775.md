@@ -8,6 +8,6 @@ Utredaren ska bland annat
 * kartlägga myndigheternas och aktörernas behov av förbättrade möjligheter för att utbyta information och utreda hur behovet ska kunna tillgodoses på ett effektivt och rättssäkert sätt, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 15 augusti 2018\.
+Uppdraget ska redovisas senast den 15 augusti 2018.
 
 [Pressmeddelande: Stärkt samverkan mot terrorism](/pressmeddelanden/2017/06/starkt-samverkan-mot-terrorism/ "Pressmeddelande: Stärkt samverkan mot terrorism")

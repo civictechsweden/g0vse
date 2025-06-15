@@ -8,4 +8,4 @@ Utredaren ska utreda behovet av och förutsättningarna för att ge kommunerna m
 
 Utredaren ska vidare utreda behovet av och förutsättningarna för att införa en privat initiativrätt till detaljplaneläggning. Kommunen ska ha kvar rätten att besluta om vilka planer som ska antas.
 
-Utredaren ska senast den 20 juni 2017 redovisa uppdraget om en begränsning av kravet på detaljplan. Utredaren ska senast den 15 mars 2018 redovisa uppdraget om en utvecklad översiktsplanering och uppdraget att ge kommunerna möjlighet att reglera upplåtelseformer. Uppdraget ska slutredovisas senast den 15 november 2018\.
+Utredaren ska senast den 20 juni 2017 redovisa uppdraget om en begränsning av kravet på detaljplan. Utredaren ska senast den 15 mars 2018 redovisa uppdraget om en utvecklad översiktsplanering och uppdraget att ge kommunerna möjlighet att reglera upplåtelseformer. Uppdraget ska slutredovisas senast den 15 november 2018.

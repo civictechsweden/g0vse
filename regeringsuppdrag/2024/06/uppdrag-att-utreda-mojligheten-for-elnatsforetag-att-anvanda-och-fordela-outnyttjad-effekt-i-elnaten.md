@@ -8,4 +8,4 @@ Vid genomförandet av uppdraget ska Energimarknadsinspektionen föra
 dialog med och inhämta kunskaper från Affärsverket svenska kraftnät och
 andra berörda aktörer, inklusive berörda kunder och industrietableringar.
 Energimarknadsinspektionen ska senast den 16 december 2024 redovisa
-uppdraget till Regeringskansliet (Klimat\- och näringslivsdepartementet).
+uppdraget till Regeringskansliet (Klimat- och näringslivsdepartementet).

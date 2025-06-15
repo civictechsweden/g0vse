@@ -1,7 +1,6 @@
 # CAT:s granskning (2019-04-23) av ärendet I.A. m.fl. mot Sverige
 
-Fråga om utvisning av klaganden till hemlandet (Ryssland) skulle strida mot artikel 3 i FN\-konventionen mot tortyr m.m.
-
+Fråga om utvisning av klaganden till hemlandet (Ryssland) skulle strida mot artikel 3 i FN-konventionen mot tortyr m.m.
 
 ### Sammanfattning av granskningen
 

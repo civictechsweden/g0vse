@@ -1,6 +1,6 @@
 # Nu ska barns trygghet gå före föräldrars rätt
 
-Socialtjänstminister Camilla Waltersson Grönvall, debattartikel, Aftonbladet, den 13 december 2022\.
+Socialtjänstminister Camilla Waltersson Grönvall, debattartikel, Aftonbladet, den 13 december 2022.
 
 I januari 2020 skakades Sverige av Esmeraldas död. Esmeralda var den treåriga flicka som kom att kallas Lilla hjärtat.
 
@@ -18,9 +18,9 @@ Den utredningen lämnas nu över från riksdagen till regeringen. I dag meddelar
 
 Regeringen går nu vidare med:
 
-1\. Barnens bästa skrivs in i lagen. Det innebär till exempel att ett barn som omhändertagits som nyfödd eller mycket liten och som är trygg i sitt familjehem ska få stanna där i stället för att tvingas tillbaka till de biologiska föräldrarna som barnet inte har någon anknytning till.
-2\. Obligatoriska drogtester blir ett krav för att de biologiska föräldrarna, i de fall där det förekommer/förekommit missbruk, ska få umgängesrätt med barnet.
-3\. När lagen om vård av unga, LVU, upphör ska socialtjänsten följa upp familjen minst ett år.
+1. Barnens bästa skrivs in i lagen. Det innebär till exempel att ett barn som omhändertagits som nyfödd eller mycket liten och som är trygg i sitt familjehem ska få stanna där i stället för att tvingas tillbaka till de biologiska föräldrarna som barnet inte har någon anknytning till.
+2. Obligatoriska drogtester blir ett krav för att de biologiska föräldrarna, i de fall där det förekommer/förekommit missbruk, ska få umgängesrätt med barnet.
+3. När lagen om vård av unga, LVU, upphör ska socialtjänsten följa upp familjen minst ett år.
 
 Det här är stora steg framåt. Men vårt arbete har bara börjat för att bättre skydda de barn som fått en svår och tuff start i livet.
 

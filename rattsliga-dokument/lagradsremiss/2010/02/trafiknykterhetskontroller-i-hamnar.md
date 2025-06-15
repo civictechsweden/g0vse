@@ -6,4 +6,4 @@ Trafiknykterhetskontrollanter kan anlitas av den som äger hamnen eller bedriver
 
 Vid kontrollerna ska trafiknykterhetskontrollanterna stå under ledning av polisen. Endast den som har genomgått föreskriven utbildning för ordningsvakter eller väktare och en särskild kompletterande utbildning kan förordnas till trafiknykterhetskontrollant. Innan en person förordnas ska polisen göra en prövning av personens laglydnad och lämplighet i övrigt.
 
-Försöksverksamheten föreslås regleras i en ny tillfällig lag. Lagen föreslås träda i kraft den 1 juli 2010 och gälla till och med den 30 juni 2013\.
+Försöksverksamheten föreslås regleras i en ny tillfällig lag. Lagen föreslås träda i kraft den 1 juli 2010 och gälla till och med den 30 juni 2013.

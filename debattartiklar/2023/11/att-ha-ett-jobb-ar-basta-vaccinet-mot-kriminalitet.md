@@ -1,7 +1,6 @@
 # ”Att ha ett jobb är bästa vaccinet mot kriminalitet”
 
-Arbetsmarknads\- och integrationsminister Johan Pehrson, debattartikel, Expressen, den 11 november 2023\.
-
+Arbetsmarknads- och integrationsminister Johan Pehrson, debattartikel, Expressen, den 11 november 2023.
 
 Länge har arbetslösheten främst setts som ett ekonomiskt problem. I den nya situation Sverige står inför måste vi se att social utsatthet, arbetslöshet och kriminalitet hänger ihop. Liberalerna vill att arbetslinjen växlas upp för att stärka det förebyggande arbetet och trycka tillbaka gängen, skriver Johan Pehrson (L).
 
@@ -37,4 +36,4 @@ Det ska alltid löna sig att jobba framför att gå på bidrag. Vi sänker skatt
 
 Liberalerna och regeringens politik riktar in sig på de som står längst bort från arbetsmarknaden – utrikes födda och lågutbildade. Därför rullar vi nu ut etableringsjobben, som riktar sig till just den gruppen. Så vänder vi utvecklingen och trycker ner arbetslösheten, så att fler barn ser mamma och pappa gå till jobbet, får framtidstro och rycks ur de kriminella gängens klor.
 
-Johan Pehrson, arbetsmarknads\- och integrationsminister
+Johan Pehrson, arbetsmarknads- och integrationsminister

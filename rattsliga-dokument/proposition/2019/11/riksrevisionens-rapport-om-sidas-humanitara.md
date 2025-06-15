@@ -3,7 +3,7 @@
 I denna skrivelse redovisar regeringen sin bedömning av Riksrevisionens
 iakttagelser och rekommendationer i granskningsrapporten Sidas
 humanitära bistånd och långsiktiga utvecklingssamarbete – förutsättningar
-för samverkan (RiR 2019:17\) samt de åtgärder som har vidtagits eller
+för samverkan (RiR 2019:17) samt de åtgärder som har vidtagits eller
 planeras med anledning av rapporten.
 
 Riksrevisionen slår i sin granskning fast att regeringen och Styrelsen för internationellt utvecklingssamarbete (Sida) har tydliggjort att samverkan är en prioriterad fråga men att det finns brister i de förutsättningar som regeringen gett Sida.

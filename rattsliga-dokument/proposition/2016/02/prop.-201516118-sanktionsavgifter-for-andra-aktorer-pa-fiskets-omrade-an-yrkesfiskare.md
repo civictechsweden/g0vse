@@ -1,7 +1,7 @@
 # Sanktionsavgifter för andra aktörer på fiskets område än yrkesfiskare
 
-I propositionen föreslås ändringar i lagen (1994:1709\) om EG:s förordningar om den gemensamma fiskeripolitiken i syfte att effektivisera sanktionssystemet.
+I propositionen föreslås ändringar i lagen (1994:1709) om EG:s förordningar om den gemensamma fiskeripolitiken i syfte att effektivisera sanktionssystemet.
 
-Förslaget innebär att vissa överträdelser som begås efter landning av fångsten ska överföras från det straffrättsliga området till ett system med sanktionsavgifter. Regeringen föreslås få bemyndigande att meddela föreskrifter om vilka överträdelser som ska leda till sanktionsavgift och vilken avgift som ska betalas. Avgiften ska uppgå till minst 1 000 kronor och högst 50 000 kronor. Det föreslås även bestämmelser som reglerar frågor om subjektivt ansvar, avgiftsbefrielse i vissa fall, undvikande av dubbla sanktioner, rätt för den avgiftsskyldige att yttra sig, verkställighet och preskription. Slutligen görs ändringar med anledning av Lissabonfördraget, reformen av den gemensamma fiskeri\-politiken och tidigare genomförda ändringar i fiskelagen (1993:787\).
+Förslaget innebär att vissa överträdelser som begås efter landning av fångsten ska överföras från det straffrättsliga området till ett system med sanktionsavgifter. Regeringen föreslås få bemyndigande att meddela föreskrifter om vilka överträdelser som ska leda till sanktionsavgift och vilken avgift som ska betalas. Avgiften ska uppgå till minst 1 000 kronor och högst 50 000 kronor. Det föreslås även bestämmelser som reglerar frågor om subjektivt ansvar, avgiftsbefrielse i vissa fall, undvikande av dubbla sanktioner, rätt för den avgiftsskyldige att yttra sig, verkställighet och preskription. Slutligen görs ändringar med anledning av Lissabonfördraget, reformen av den gemensamma fiskeri-politiken och tidigare genomförda ändringar i fiskelagen (1993:787).
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2016\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2016.

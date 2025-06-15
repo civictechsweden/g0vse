@@ -4,6 +4,6 @@ EU har nyligen antagit ett direktiv om ramverk för förebyggande rekonstruktion
 
 En särskild utredare ska ta ställning till hur direktivets regler om rekonstruk­tion ska genomföras i Sverige. I uppdraget ingår att analysera hur svensk rätt förhåller sig till direktivet och föreslå nödvändiga eller annars lämpliga för­fatt­ningsändringar och andra åtgärder.
 
-Uppdraget ska redovisas senast den 26 februari 2021\.
+Uppdraget ska redovisas senast den 26 februari 2021.
 
 [Pressmeddelande: Regeringen tillsätter utredning om nya regler om företagsrekonstruktion](/pressmeddelanden/2019/09/regeringen-tillsatter-utredning-om-nya-regler-om-foretagsrekonstruktion/ "Regeringen tillsätter utredning om nya regler om företagsrekonstruktion")

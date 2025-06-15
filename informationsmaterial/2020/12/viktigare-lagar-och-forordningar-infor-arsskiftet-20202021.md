@@ -1,7 +1,6 @@
 # Viktigare lagar och förordningar inför årsskiftet 2020/2021
 
-Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och förordningar som träder i kraft kring årsskiftet 2020/2021\.
-
+Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och förordningar som träder i kraft kring årsskiftet 2020/2021.
 
 ## Innehållsförteckning
 
@@ -55,7 +54,7 @@ Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och f
 
 [Skatten tas bort för donerade måltider till anställda](#fidepr15)
 
-[Förlängt omställningsstöd under perioden maj och juni\-juli](#fidepr16)
+[Förlängt omställningsstöd under perioden maj och juni-juli](#fidepr16)
 
 **[Försvarsdepartementet](#Forsvarsdepartementet)**
 
@@ -63,7 +62,7 @@ Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och f
 
 [Tydliggörande av det militära försvarets uppgifter](#fdepr2)
 
-[Totalförsvarets rekryteringsmyndighet byter namn till Totalförsvarets plikt\- och prövningsverk](#fdepr3)
+[Totalförsvarets rekryteringsmyndighet byter namn till Totalförsvarets plikt- och prövningsverk](#fdepr3)
 
 **[Infrastrukturdepartementet](#Infrastrukturdepartementet)**
 
@@ -115,7 +114,7 @@ Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och f
 
 **[Lagar och förordningar med anledning av coronapandemin](#coronapandeminjudep)**
 
-[De tillfälliga åtgärderna för att underlätta genomförandet av bolags\- och föreningsstämmor utan hälsorisker förlängs](#judepr15)
+[De tillfälliga åtgärderna för att underlätta genomförandet av bolags- och föreningsstämmor utan hälsorisker förlängs](#judepr15)
 
 [Skydd av Sveriges säkerhet vid försäljning av säkerhetskänslig verksamhet](#judepr16)
 
@@ -125,7 +124,7 @@ Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och f
 
 [Nya och ändrade regler för tv och videodelningsplattformar](#kudepr2)
 
-[Public service\-avgiften sänks](#kudepr3)
+[Public service-avgiften sänks](#kudepr3)
 
 [Lagar och förordningar med anledning av coronapandemin](#kudepr4)
 
@@ -135,7 +134,7 @@ Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och f
 
 **[Miljödepartementet](#Miljodepartementet)**
 
-[Havs\- och vattenmyndigheten får tillsynsvägledningsansvar för de invasiva främmande arter som lever i vatten](#mdepr1)
+[Havs- och vattenmyndigheten får tillsynsvägledningsansvar för de invasiva främmande arter som lever i vatten](#mdepr1)
 
 [Statligt stöd till vissa miljöfordon för att främja introduktionen av miljöfordon på marknaden](#mdepr2)
 
@@ -171,7 +170,7 @@ Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och f
 
 [Statsbidrag införs för skyddsutrustning för personliga assistenter](#sdepr5)
 
-[Vaccinationer mot covid\-19 ska registreras i ett vaccinationsregister](#sdepr6)
+[Vaccinationer mot covid-19 ska registreras i ett vaccinationsregister](#sdepr6)
 
 **[Utbildningsdepartementet](#Utbildningsdepartementet)**
 
@@ -191,7 +190,7 @@ Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och f
 
 **[Lagar och förordningar med anledning av coronapandemin](#coronapandeminudep)**
 
-[Ökade möjligheter att anpassa verksamheten i skolan för att motverka spridning av covid\-19](#udepr8)
+[Ökade möjligheter att anpassa verksamheten i skolan för att motverka spridning av covid-19](#udepr8)
 
 [Lättnader i förutsättningar för statsbidrag för regional yrkesinriktad vuxenutbildning](#udepr9)
 
@@ -201,7 +200,7 @@ Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och f
 
 [Statliga universitet och högskolor får tillfälligt hyra ut bostäder avsedda för utbytesstudenter och gästforskare till andra studenter](#udepr12)
 
-[Universitets\- och högskolerådet får tillfälligt ansvar för genomförande av högskoleprovet](#udepr13)
+[Universitets- och högskolerådet får tillfälligt ansvar för genomförande av högskoleprovet](#udepr13)
 
 [Giltighetstiden för resultat på högskoleprovet förlängs](#udepr14)
 
@@ -221,7 +220,7 @@ Om du vill veta mer om propositioner, lagar och förordningar hittar du informat
 
 Lagstiftningsprocessen finns beskriven under rubriken ”Så styrs Sverige” på www.regeringen.se.
 
-Den här sammanställningen kan laddas ner på www.regeringen.se. Vid publicering har vissa lagar ännu inte hunnit få några SFS\-nummer. Det gäller nummer som slutar på ”000” (till exempel 2020:000\).
+Den här sammanställningen kan laddas ner på www.regeringen.se. Vid publicering har vissa lagar ännu inte hunnit få några SFS-nummer. Det gäller nummer som slutar på ”000” (till exempel 2020:000).
 
 ### Information om svensk lagstiftning
 
@@ -232,7 +231,7 @@ Sveriges riksdags webbplats: www.riksdagen.se
 
 ## Statsrådsberedningen
 
-Statsrådsberedningen ansvarar för att leda och samordna arbetet i Regeringskansliet samt för att samordna den svenska EU\-politiken.
+Statsrådsberedningen ansvarar för att leda och samordna arbetet i Regeringskansliet samt för att samordna den svenska EU-politiken.
 
 ### Kontakt
 
@@ -240,19 +239,17 @@ Statsrådsberedningen ansvarar för att leda och samordna arbetet i Regeringskan
 
 Pressekreterare Maria Soläng
 
-Tfn 072\-206 19 47
+Tfn 072-206 19 47
 
 Pressekreterare Mikael Lindström:
 
-Tfn 073\-078 52 60
+Tfn 073-078 52 60
 
-
-
-**Presskontakt hos EU\-minister Hans Dahlgren:**
+**Presskontakt hos EU-minister Hans Dahlgren:**
 
 T.f. pressekreterare Vidar Jakobínuson Lindgren
 
-Tfn 073\-840 33 12
+Tfn 073-840 33 12
 
 Till årsskiftet 2020/2021 träder inga lagar i kraft inom Statsrådsberedningens ansvarsområden.
 
@@ -266,21 +263,19 @@ Arbetsmarknadsdepartementet ansvarar för frågor och ärenden som rör arbetsma
 
 Pressekreterare Jennie Zetterström
 
-Tfn 073\-053 92 70
-
-
+Tfn 073-053 92 70
 
 **Presskontakt hos jämställdhetsminister samt minister med ansvar för arbetet mot diskriminering och segregation Åsa Lindhagen:**
 
 Tf. pressekreterare Frida Färlin
 
-Tfn 073\-078 52 24
+Tfn 073-078 52 24
 
 ## Lagar och förordningar med anledning av coronapandemin
 
 ### Den tillfälliga lättnaden i arbetsvillkoret förlängs
 
-**Ändring:** Lagen (2020:219\) om ändring i lagen (1997:238\) om arbetslöshetsförsäkring
+**Ändring:** Lagen (2020:219) om ändring i lagen (1997:238) om arbetslöshetsförsäkring
 
 **Beslutsunderlag:** Prop. 2020/21:1 Budgetproposition för 2021
 
@@ -290,13 +285,13 @@ Tfn 073\-078 52 24
 
 **Gäller till och med:** 1 januari 2023
 
-Den tillfälliga lättnaden i arbetslöshetsförsäkringens arbetsvillkor förlängs till och med den 1 januari 2023\. Lättnaden innebär att det krävs färre arbetade timmar för att uppfylla arbetsvillkoret än normalt.
+Den tillfälliga lättnaden i arbetslöshetsförsäkringens arbetsvillkor förlängs till och med den 1 januari 2023. Lättnaden innebär att det krävs färre arbetade timmar för att uppfylla arbetsvillkoret än normalt.
 
 Ändringen bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.
 
 ### Den tillfälliga möjligheten för företagare att utföra vissa begränsade åtgärder i verksamheten förlängs
 
-**Ändring:** Förordning (2020:523\) om ändring i förordningen (1997:835\) om arbetslöshetsförsäkring
+**Ändring:** Förordning (2020:523) om ändring i förordningen (1997:835) om arbetslöshetsförsäkring
 
 **SFS:** 2020:1103
 
@@ -304,13 +299,13 @@ Den tillfälliga lättnaden i arbetslöshetsförsäkringens arbetsvillkor förl�
 
 **Gäller till och med:** 31 december 2021
 
-Den tillfälliga möjligheten för företagare att utföra vissa begränsade åtgärder i verksamheten och samtidigt få arbetslöshetsersättning förlängs till och med den 31 december 2021\.
+Den tillfälliga möjligheten för företagare att utföra vissa begränsade åtgärder i verksamheten och samtidigt få arbetslöshetsersättning förlängs till och med den 31 december 2021.
 
 Ändringen bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.
 
 ### De tillfälligt höjda ersättningsnivåerna i arbetslöshetsförsäkringen förlängs
 
-**Ändring:** Förordningen (2020:221\) om ändring i förordningen (1997:835\) om arbetslöshetsförsäkring, förordningen (2020:223\) om ändring i förordningen (2017:819\) om ersättning till deltagare i arbetsmarknadspolitiska insatser
+**Ändring:** Förordningen (2020:221) om ändring i förordningen (1997:835) om arbetslöshetsförsäkring, förordningen (2020:223) om ändring i förordningen (2017:819) om ersättning till deltagare i arbetsmarknadspolitiska insatser
 
 **SFS:** 2020:1252, 2020:1254
 
@@ -318,7 +313,7 @@ Den tillfälliga möjligheten för företagare att utföra vissa begränsade åt
 
 **Gäller till och med:** 1 januari 2023
 
-De tillfälliga höjningarna av ersättningsbeloppen förlängs till och med den 1 januari 2023\. Den höjda ersättningen i arbetslöshetsförsäkringen omfattar även det aktivitetsstöd som lämnas till personer som uppfyller villkoren för rätt till ersättning från arbetslöshetsförsäkringen.
+De tillfälliga höjningarna av ersättningsbeloppen förlängs till och med den 1 januari 2023. Den höjda ersättningen i arbetslöshetsförsäkringen omfattar även det aktivitetsstöd som lämnas till personer som uppfyller villkoren för rätt till ersättning från arbetslöshetsförsäkringen.
 
 Det högsta beloppet i grundförsäkringen, som har höjts från 365 till 510 kronor per dag, kvarstår. Motsvarande höjning gäller för de arbetslösa som har det lägsta beloppet i den inkomstrelaterade försäkringen.
 
@@ -338,31 +333,27 @@ Finansdepartementet ansvarar för frågor som rör statens ekonomi. Det handlar 
 
 Pressekreterare Johan Ekström
 
-Mobiltelefon 073\-086 32 01
+Mobiltelefon 073-086 32 01
 
-
-
-**Presskontakt hos finansmarknads\- och konsumentminister Per Bolund:**
+**Presskontakt hos finansmarknads- och konsumentminister Per Bolund:**
 
 Pressekreterare Hanna Björnfors
 
-Mobiltelefon 073\-509 26 05
+Mobiltelefon 073-509 26 05
 
 Pressekreterare Elina Jansson
 
-Mobiltelefon 073\-051 58 40
-
-
+Mobiltelefon 073-051 58 40
 
 **Presskontakt hos civilminister Lena Micko:**
 
 Pressekreterare Jonas Lannering
 
-Tfn 073\-057 23 36
+Tfn 073-057 23 36
 
 ### Tidsgränsen för expertskatt utvidgas
 
-**Ändring:** Inkomstskattelagen (1999:1229\)
+**Ändring:** Inkomstskattelagen (1999:1229)
 
 **Beslutsunderlag:** Prop. 2020/21:37 Skattereduktion för förvärvsinkomster och utvidgad tidsgräns för expertskatt
 
@@ -376,7 +367,7 @@ Tidsgränsen för den skattelättnad, som bland annat utländska experter och fo
 
 ### Schablonintäkten för uppskjuten skatt på vinst vid bostadsförsäljning tas bort
 
-**Ändring:** Inkomstskattelagen (1999:1229\)
+**Ändring:** Inkomstskattelagen (1999:1229)
 
 **Beslutsunderlag:** Prop. 2020/21:1 Budgetpropositionen för 2021
 
@@ -392,7 +383,7 @@ Den som avyttrar en privatbostad med vinst och förvärvar en ny bostad kan unde
 
 ### Rutavdraget utvidgas och taket höjs
 
-**Ändring:** Inkomstskattelagen (1999:1229\), lagen (2009:194\) om förfarandet vid skattereduktion för hushållsarbete och skatteförfarandelagen (2011:1244\)
+**Ändring:** Inkomstskattelagen (1999:1229), lagen (2009:194) om förfarandet vid skattereduktion för hushållsarbete och skatteförfarandelagen (2011:1244)
 
 **Beslutsunderlag:** Prop. 2020/21:1 Budgetpropositionen för 2021
 
@@ -406,7 +397,7 @@ Rutavdraget utvidgas med fyra nya tjänster och taket för avdraget höjs till 7
 
 ### Åtgärder på skatteområdet mot icke samarbetsvilliga jurisdiktioner
 
-**Ändring:** Inkomstskattelagen (1999:1229\) och lagen (1986:468\) om avräkning av utländsk skatt
+**Ändring:** Inkomstskattelagen (1999:1229) och lagen (1986:468) om avräkning av utländsk skatt
 
 **Beslutsunderlag:** Prop. 2020/21:26 Motåtgärder på skatteområdet mot icke samarbetsvilliga jurisdiktioner samt vissa andra inkomstfrågor
 
@@ -414,43 +405,43 @@ Rutavdraget utvidgas med fyra nya tjänster och taket för avdraget höjs till 7
 
 **Ikraftträdande:** 1 januari 2021
 
-Det införs ett avdragsförbud i inkomstskattelagen för interna och externa ränteutgifter på skulder till företag i vissa icke samarbetsvilliga jurisdiktioner. Enligt avdrags­förbudet får ett företag inte dra av ränteutgifter avseende en skuld till ett företag som hör hemma i en jurisdiktion som är upptagen i en gällande och offentliggjord förteckning över stater eller jurisdiktioner utanför EU som av medlemsstaterna gemensamt har bedömts vara icke samarbetsvilliga på skatteområdet. Vidare säkerställs tillämpningen av de så kallade CFC\-reglerna när det gäller Trinidad och Tobago. CFC\-reglerna innebär att svenska delägare i utländska bolag i vissa fall beskattas löpande för bolagets inkomst.
+Det införs ett avdragsförbud i inkomstskattelagen för interna och externa ränteutgifter på skulder till företag i vissa icke samarbetsvilliga jurisdiktioner. Enligt avdrags­förbudet får ett företag inte dra av ränteutgifter avseende en skuld till ett företag som hör hemma i en jurisdiktion som är upptagen i en gällande och offentliggjord förteckning över stater eller jurisdiktioner utanför EU som av medlemsstaterna gemensamt har bedömts vara icke samarbetsvilliga på skatteområdet. Vidare säkerställs tillämpningen av de så kallade CFC-reglerna när det gäller Trinidad och Tobago. CFC-reglerna innebär att svenska delägare i utländska bolag i vissa fall beskattas löpande för bolagets inkomst.
 
 Ändringen föranleds av Ekofinrådets riktlinjer om motåtgärder på skatteområdet mot icke samarbetsvilliga jurisdiktioner som antogs den 5 december 2019 och syftar till att motverka att metoder som inte uppfyller internationella standarder och granskningskriterier tillämpas.
 
 ### Bestämmelserna om nedsättning av arbetsgivaravgifterna för den först anställda görs permanenta
 
-**Ny lag:** Lag om dels fortsatt giltighet av lagen (2016:1053\) om särskild beräkning av vissa avgifter för enmansföretag under åren 2017–2021, dels ändring i samma lag, lagen (1994:1920\) om allmän löneavgift.
+**Ny lag:** Lag om dels fortsatt giltighet av lagen (2016:1053) om särskild beräkning av vissa avgifter för enmansföretag under åren 2017–2021, dels ändring i samma lag, lagen (1994:1920) om allmän löneavgift.
 
-**Ändring:** Socialavgiftslagen (2000:980\), lagen (2001:1170\) om särskilda avdrag i vissa fall vid avgiftsberäkningen enligt lagen (1994:1920\) om allmän löneavgift och socialavgiftslagen (2000:980\) och skatteförfarandelagen (2011:1244\).
+**Ändring:** Socialavgiftslagen (2000:980), lagen (2001:1170) om särskilda avdrag i vissa fall vid avgiftsberäkningen enligt lagen (1994:1920) om allmän löneavgift och socialavgiftslagen (2000:980) och skatteförfarandelagen (2011:1244).
 
 **Beslutsunderlag:** Prop. 2020/21:14  Bestämmelserna om nedsättning av arbetsgivaravgifterna för den först anställda görs permanenta
 
-**SFS:** 2020:1058\-1062
+**SFS:** 2020:1058-1062
 
 **Ikraftträdande:** 1 januari 2021
 
-Sedan 2017 finns en möjlighet för vissa så kallade enmansföretag att få en nedsättning av arbetsgivaravgifterna när en första person anställs i företaget. Med enmansföretag avses aktiebolag som inte har någon anställd eller endast har en anställd som också är delägare, handelsbolag utan anställda och högst två delägare samt enskilda näringsidkare utan anställda. Nuvarande regler om sådan nedsättning av arbetsgivaravgifterna är tillfälliga och upphör vid utgången av 2021, men görs permanenta den 1 januari 2021\.
+Sedan 2017 finns en möjlighet för vissa så kallade enmansföretag att få en nedsättning av arbetsgivaravgifterna när en första person anställs i företaget. Med enmansföretag avses aktiebolag som inte har någon anställd eller endast har en anställd som också är delägare, handelsbolag utan anställda och högst två delägare samt enskilda näringsidkare utan anställda. Nuvarande regler om sådan nedsättning av arbetsgivaravgifterna är tillfälliga och upphör vid utgången av 2021, men görs permanenta den 1 januari 2021.
 
 Ändringen bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.
 
 ### Skattereduktion för förvärvsinkomster införs
 
-**Ändring:** Lagen (1986:468\) om avräkning av utländsk skatt, inkomstskattelagen (1999:1229\) och skatteförfarandelagen (2011:1244\).
+**Ändring:** Lagen (1986:468) om avräkning av utländsk skatt, inkomstskattelagen (1999:1229) och skatteförfarandelagen (2011:1244).
 
 **Beslutsunderlag:** Prop. 2020/21:37 Skattereduktion för förvärvsinkomster och utvidgad tidsgräns för expertskatt.
 
-**SFS:** 2020:1165\-1168
+**SFS:** 2020:1165-1168
 
-**Ikraftträdande:** 1 januari 2021\.
+**Ikraftträdande:** 1 januari 2021.
 
-Den nya skattereduktionen för förvärvsinkomster innebär att skatten på inkomster från såväl arbete och pension som socialförsäkrings­förmåner sänks med upp till 1 500 kronor per person och år 2021\. Full skattereduktion med 1 500 kr ges till dem som har en beskattningsbar förvärvsinkomst överstigande 240 000 kronor per år, vilket ungefär motsvarar inkomsten hos de lägsta kollektivavtalsenliga heltids­lönerna.
+Den nya skattereduktionen för förvärvsinkomster innebär att skatten på inkomster från såväl arbete och pension som socialförsäkrings­förmåner sänks med upp till 1 500 kronor per person och år 2021. Full skattereduktion med 1 500 kr ges till dem som har en beskattningsbar förvärvsinkomst överstigande 240 000 kronor per år, vilket ungefär motsvarar inkomsten hos de lägsta kollektivavtalsenliga heltids­lönerna.
 
 Ändringen bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.
 
 ### Justerande bestämmelser om avdrag för koncernbidragsspärrade underskott och avdrag för negativt räntenetto införs
 
-**Ändring:** Inkomstskattelagen (1999:1229\)
+**Ändring:** Inkomstskattelagen (1999:1229)
 
 **Beslutsunderlag:** Prop. 2020/21:23 Justerande bestämmelser om avdrag för koncernbidragsspärrade underskott och avdrag för negativt räntenetto
 
@@ -464,7 +455,7 @@ Reglerna om avdrag för koncernbidragsspärrade underskott ändras. Ändringen i
 
 ### Ett ekonomiskt arbetsgivarbegrepp införs för utomlands bosatta som arbetar tillfälligt i Sverige
 
-Ändring: Lagen (1991:586\) om särskild inkomstskatt för utomlands bosatta, inkomstskattelagen (1999:1229\), socialavgiftslagen (2000:980\) och skatteförfarandelagen (2011:1244\)
+Ändring: Lagen (1991:586) om särskild inkomstskatt för utomlands bosatta, inkomstskattelagen (1999:1229), socialavgiftslagen (2000:980) och skatteförfarandelagen (2011:1244)
 
 Beslutsunderlag: Prop. 2019/20:190 Ekonomiskt arbetsgivarbegrepp – förändrade skatteregler vid tillfälligt arbete i Sverige
 
@@ -480,7 +471,7 @@ Med ändringarna, som bygger på en överenskommelse mellan regeringen, Centerpa
 
 ### Vissa ändringar i skattelagstiftningen till följd av resolutionsregelverket
 
-**Ändring:** Inkomstskattelagen (1999:1229\)
+**Ändring:** Inkomstskattelagen (1999:1229)
 
 **Beslutsunderlag:** Prop. 2020/21:19 Vissa ändringar i skattelagstiftningen till följd av resolutionsregelverket
 
@@ -490,17 +481,17 @@ Med ändringarna, som bygger på en överenskommelse mellan regeringen, Centerpa
 
 För att inte försämra möjligheterna att hitta en långsiktig lösning på ett resolutionsförfarande ska tidigare års underskott inte begränsas av beloppsspärren i bestämmelserna om underskottsavdrag om det sker en ägarförändring i ett företag som före ägarförändringen var försatt i resolution. Motsvarande gäller det fall ett undantag från begränsning av rätten att utnyttja kvarstående negativt räntenetto vid ägarförändringar eller vid fusion eller fission aktualiseras för ett företag som har försatts i resolution.
 
-Ett syfte med ändringen är att åtgärder som genomförs i ett företag i resolution inte ska medföra skatteeffekter som minskar möjligheten till en framgångsrik utgång av resolutionsförfarandet. Genom ändringen införs regler i skattelagstiftningen till följd av resolutionsregelverket som trädde i kraft den 1 februari 2016\.
+Ett syfte med ändringen är att åtgärder som genomförs i ett företag i resolution inte ska medföra skatteeffekter som minskar möjligheten till en framgångsrik utgång av resolutionsförfarandet. Genom ändringen införs regler i skattelagstiftningen till följd av resolutionsregelverket som trädde i kraft den 1 februari 2016.
 
 ### En regional skattereduktion införs i vissa glest befolkade kommuner
 
-**Ändring:** Lagen (1986:468\) om avräkning av utländsk skatt, inkomstskattelagen (1999:1229\) och skatteförfarandelagen (2011:1244\).
+**Ändring:** Lagen (1986:468) om avräkning av utländsk skatt, inkomstskattelagen (1999:1229) och skatteförfarandelagen (2011:1244).
 
 **Beslutsunderlag:** Prop. 2019/20:175 Skattereduktion för boende i vissa glest befolkade områden – regional skattereduktion
 
 **SFS:** SFS 2020:863­–865
 
-**Ikraftträdande:** 1 december 2020, men tillämpas från och med det beskattningsår som infaller efter 31 december 2019\.
+**Ikraftträdande:** 1 december 2020, men tillämpas från och med det beskattningsår som infaller efter 31 december 2019.
 
 Införandet av en regional skattereduktion innebär att skatten sänks med 1 675 kronor per år och person för boende i vissa glest befolkade kommuner, främst i Norrland och nordvästra Svealand. För att ta del av skatte­reduktionen ska en person vara folkbokförd i någon av de aktuella kommunerna senast 1 november året före beskattningsåret. Åtgärden utgör både en kompensation och en regional stimulans som kan underlätta och i viss mån attrahera fler personer att bo och arbeta i de här delarna av landet.
 
@@ -514,7 +505,7 @@ För fysiska personer som har företag vars resultat de själva beskattas för, 
 
 **Ny förordning:** Förordning om förfarandet vid skattereduktion för installation av grön teknik
 
-**Ändring:** Lagen (1997:1024\) om Skatteverkets brottsbekämpande verksamhet, inkomstskattelagen (1999:1229\), skatteförfarandelagen (2011:1244\)
+**Ändring:** Lagen (1997:1024) om Skatteverkets brottsbekämpande verksamhet, inkomstskattelagen (1999:1229), skatteförfarandelagen (2011:1244)
 
 **Beslutsunderlag:** Prop. 2020/21:1 Budgetpropositionen för 2021
 
@@ -522,7 +513,7 @@ För fysiska personer som har företag vars resultat de själva beskattas för, 
 
 **Ikraftträdande:** 1 januari 2021
 
-Skattereduktionen ges för arbets\- och materialkostnader. Reduktionen utformas med en fakturamodell av motsvarande slag som den som finns för rut\- och rotavdrag, så att köparna kan få del av skattelättnaden redan vid köpet. Därmed är den enskilde inte längre beroende av hur mycket medel som finns anslagna för ett visst år för att få en subvention.
+Skattereduktionen ges för arbets- och materialkostnader. Reduktionen utformas med en fakturamodell av motsvarande slag som den som finns för rut- och rotavdrag, så att köparna kan få del av skattelättnaden redan vid köpet. Därmed är den enskilde inte längre beroende av hur mycket medel som finns anslagna för ett visst år för att få en subvention.
 
 Skattereduktion kan medges med 15 procent för solceller och 50 procent för lagring av egenproducerad elenergi och laddningspunkter till elfordon. Den får uppgå till högst 50 000 kronor per person och beskattningsår.
 
@@ -532,7 +523,7 @@ Skattereduktionen ersätter de nuvarande stöden till fysiska personer enligt f�
 
 ### Den permanenta skatteklyftan mellan pension och lön för personer över 65 år tas bort
 
-**Ändring:** Inkomstskattelagen (1999:1229\)
+**Ändring:** Inkomstskattelagen (1999:1229)
 
 **Beslutsunderlag:** Prop. 2020/21:1 Budgetpropositionen för 2021
 
@@ -544,13 +535,13 @@ Skattereduktionen ersätter de nuvarande stöden till fysiska personer enligt f�
 
 För en person över 65 år med en månadsinkomst på 21 000 kronor innebär förslaget en skattesänkning på drygt 800 kronor per år. De över 65 år med lägre inkomster har fått sänkt skatt tidigare. Skattesänkningen sker genom en förstärkning av det förhöjda grundavdraget.
 
-Den tillfälliga skatteklyftan försvinner från 2023\. Samtidigt som skatten sänks för personer över 65 år den 1 januari 2021, införs också en tillfällig skattereduktion på arbete under två år. Syftet med den tillfälliga skattereduktionen är att kompensera för ökade arbetskostnader kopplade till utbrottet av coronaviruset. Den tvååriga skattereduktionen på arbete innebär att det kommer finnas kvar en tillfällig skatteklyfta mellan löntagare och pensionärer 2021 och 2022\.
+Den tillfälliga skatteklyftan försvinner från 2023. Samtidigt som skatten sänks för personer över 65 år den 1 januari 2021, införs också en tillfällig skattereduktion på arbete under två år. Syftet med den tillfälliga skattereduktionen är att kompensera för ökade arbetskostnader kopplade till utbrottet av coronaviruset. Den tvååriga skattereduktionen på arbete innebär att det kommer finnas kvar en tillfällig skatteklyfta mellan löntagare och pensionärer 2021 och 2022.
 
 Ändringen har sin grund i januariavtalet, den sakpolitiska överenskommelsen mellan Socialdemokraterna, Centerpartiet, Liberalerna och Miljöpartiet.
 
 ### Stärkt sekretesskydd för statligt anställdas tjänstepensionsuppgifter
 
-**Ändring:** Offentlighets\- och sekretesslagen (2009:400\)
+**Ändring:** Offentlighets- och sekretesslagen (2009:400)
 
 **Beslutsunderlag:** Prop. 2020/21:15 Sekretess för uppgifter om statliga tjänstepensionsförmåner
 
@@ -566,7 +557,7 @@ Den tillfälliga skatteklyftan försvinner från 2023\. Samtidigt som skatten s�
 
 **Ny förordning:** Förordning om stöd för gröna och trygga samhällen
 
-**Beslutsunderlag:** Promemoria med förslag till förordning om stöd för gröna och trygga samhällen (Fi2020/03071\)
+**Beslutsunderlag:** Promemoria med förslag till förordning om stöd för gröna och trygga samhällen (Fi2020/03071)
 
 **SFS:** 2020:1202
 
@@ -582,7 +573,7 @@ Förordningen bygger på en överenskommelse mellan regeringen, Centerpartiet oc
 
 ### Skatten tas bort för donerade måltider till anställda
 
-**Ändring:** Inkomstskattelagen (1999:1229\)
+**Ändring:** Inkomstskattelagen (1999:1229)
 
 **Beslutsunderlag:** Prop. 2020/21:45 Extra ändringsbudget för 2020 – Ytterligare medel till kommuner och regioner, ökad testning och andra merkostnader med anledning av coronaviruset samt ändrade regler för kostförmån i särskilda fall
 
@@ -596,27 +587,27 @@ Skattefriheten gäller måltider som kommer från någon som saknar samband med 
 
 Ändringen bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.
 
-### Förlängt omställningsstöd under perioden maj och juni\-juli
+### Förlängt omställningsstöd under perioden maj och juni-juli
 
-**Ny förordning:** Förordning (2020:338\) om omställningsstöd
+**Ny förordning:** Förordning (2020:338) om omställningsstöd
 
 Promemorian Omställningsstöd till företag för perioden
 
-maj\-juli 2020 Fi2020/03582
+maj-juli 2020 Fi2020/03582
 
 **SFS:** 2020:838
 
 **Ikraftträdande:** 19 oktober 2020
 
-Regeringen har infört ett omställningsstöd för företag som fått minskad omsättning till följd av pandemin. Förordningen förlänger omställningsstödet till att även omfatta perioden maj till juli 2020\.
+Regeringen har infört ett omställningsstöd för företag som fått minskad omsättning till följd av pandemin. Förordningen förlänger omställningsstödet till att även omfatta perioden maj till juli 2020.
 
-För maj ges stödet till företag som har haft minst 40 procent lägre omsättning och för juni och juli ges stöd till företag som haft 50 procent lägre omsättning i jämförelse med motsvarande period 2019\. Stödet ges med en andel av de fasta kostnaderna. För maj ges stödet med max 150 miljoner kronor per företag och för juni och juli med max åtta miljoner kronor. Ansökan är öppen mellan den 19 oktober och 30 november 2020\. Stödet är godkänt av EU\-kommissionen.
+För maj ges stödet till företag som har haft minst 40 procent lägre omsättning och för juni och juli ges stöd till företag som haft 50 procent lägre omsättning i jämförelse med motsvarande period 2019. Stödet ges med en andel av de fasta kostnaderna. För maj ges stödet med max 150 miljoner kronor per företag och för juni och juli med max åtta miljoner kronor. Ansökan är öppen mellan den 19 oktober och 30 november 2020. Stödet är godkänt av EU-kommissionen.
 
 Förlängningen av omställningsstödet bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.
 
 ## Försvarsdepartementet
 
-Försvarsdepartementet ansvarar för frågor om landets försvar, totalförsvaret, internationellt försvars\- och säkerhetspolitiskt samarbete, försvarsunderrättelseverksamhet, internationella insatser samt folkrätt vid väpnad konflikt.
+Försvarsdepartementet ansvarar för frågor om landets försvar, totalförsvaret, internationellt försvars- och säkerhetspolitiskt samarbete, försvarsunderrättelseverksamhet, internationella insatser samt folkrätt vid väpnad konflikt.
 
 ### Kontakt
 
@@ -624,13 +615,13 @@ Presskontakt hos försvarsminister Peter Hultqvist:
 
 Pressekreterare Toni Eriksson
 
-Tfn 073\-072 83 16
+Tfn 073-072 83 16
 
 ### Regeringen får besluta om operativt militärt stöd till Finland
 
 **Ny lag:** Lag om operativt militärt stöd mellan Sverige och Finland
 
-**Ändringar:** Skyddslagen (2010:305\), luftfartslagen (2010:500\), förordningen (1992:1303\) om krigsmateriel, förordningen (2003:396\) om elektronisk kommunikation, förordningen (2006:311\) om transport av farligt gods, skyddsförordningen (2010:523\), luftfartsförordningen (2010:770\) och förordningen (2010:1075\) om brandfarliga och explosiva varor
+**Ändringar:** Skyddslagen (2010:305), luftfartslagen (2010:500), förordningen (1992:1303) om krigsmateriel, förordningen (2003:396) om elektronisk kommunikation, förordningen (2006:311) om transport av farligt gods, skyddsförordningen (2010:523), luftfartsförordningen (2010:770) och förordningen (2010:1075) om brandfarliga och explosiva varor
 
 **Beslutsunderlag:** Prop. 2019/20:110 Operativt militärt stöd mellan Sverige och Finland
 
@@ -644,7 +635,7 @@ Områden där finska styrkor lämnar stöd ska kunna beslutas vara skyddsobjekt 
 
 ### Tydliggörande av det militära försvarets uppgifter
 
-**Ändringar:** Förordningen (2007:1266\) med instruktion för Försvarsmakten, förordningen (2007:854\) med instruktion för Försvarets materielverk, förordningen (2007:861\) med instruktion för Totalförsvarets forskningsinstitut och förordningen (2007:937\) med instruktion för Försvarets radioanstalt
+**Ändringar:** Förordningen (2007:1266) med instruktion för Försvarsmakten, förordningen (2007:854) med instruktion för Försvarets materielverk, förordningen (2007:861) med instruktion för Totalförsvarets forskningsinstitut och förordningen (2007:937) med instruktion för Försvarets radioanstalt
 
 **Beslutsunderlag:** Prop. 2020/21:30 Totalförsvaret 2021–2025
 
@@ -652,11 +643,11 @@ Områden där finska styrkor lämnar stöd ska kunna beslutas vara skyddsobjekt 
 
 **Ikraftträdande:** 1 januari 2021
 
-Förordningarna med instruktion för Försvarsmakten, Försvarets materielverk, Totalförsvarets forskningsinstitut och Försvarets radioanstalt ändras bland annat för att spegla de mål och uppgifter som det militära försvaret ska ha under den kommande inriktningsperioden 2021–2025\. Det tydliggörs att Försvarsmaktens huvuduppgift är att försvara Sverige mot ett väpnat angrepp.
+Förordningarna med instruktion för Försvarsmakten, Försvarets materielverk, Totalförsvarets forskningsinstitut och Försvarets radioanstalt ändras bland annat för att spegla de mål och uppgifter som det militära försvaret ska ha under den kommande inriktningsperioden 2021–2025. Det tydliggörs att Försvarsmaktens huvuduppgift är att försvara Sverige mot ett väpnat angrepp.
 
-### Totalförsvarets rekryteringsmyndighet byter namn till Totalförsvarets plikt\- och prövningsverk
+### Totalförsvarets rekryteringsmyndighet byter namn till Totalförsvarets plikt- och prövningsverk
 
-**Ändringar:** Lagen (1994:1809\) om totalförsvarsplikt, offentlighets\- och sekretesslagen (2009:400\), totalförsvarsdatalagen (2020:151\) med flera lagar och förordningar
+**Ändringar:** Lagen (1994:1809) om totalförsvarsplikt, offentlighets- och sekretesslagen (2009:400), totalförsvarsdatalagen (2020:151) med flera lagar och förordningar
 
 **Beslutsunderlag:** Prop. 2020/21:30 Totalförsvaret 2021–2025
 
@@ -664,7 +655,7 @@ Förordningarna med instruktion för Försvarsmakten, Försvarets materielverk, 
 
 **Ikraftträdande:** 1 februari 2021
 
-Totalförsvarets rekryteringsmyndighet byter namn till Totalförsvarets plikt\- och prövningsverk. Namnbytet genomförs för att ge myndigheten ett namn som tydligt återspeglar dess verksamhet och uppdrag.
+Totalförsvarets rekryteringsmyndighet byter namn till Totalförsvarets plikt- och prövningsverk. Namnbytet genomförs för att ge myndigheten ett namn som tydligt återspeglar dess verksamhet och uppdrag.
 
 ## Infrastrukturdepartementet
 
@@ -676,25 +667,23 @@ Infrastrukturdepartementet har ansvar för frågor som rör transporter och infr
 
 Pressekreterare Lovisa Alm
 
-Tfn  073\-073 97 53
+Tfn  073-073 97 53
 
-
-
-**Presskontakt hos energi\- och digitaliseringsminister Anders Ygeman:**
+**Presskontakt hos energi- och digitaliseringsminister Anders Ygeman:**
 
 Pressekreterare Fredrik Persson
 
-Tfn 073\-072 81 36
+Tfn 073-072 81 36
 
 ### Bestämmelser införs avseende registrering som drönaroperatör
 
-Ändringar: Förordning (1986:172\) om luftfartygsregistret m.m.
+Ändringar: Förordning (1986:172) om luftfartygsregistret m.m.
 
-Beslutsunderlag: Transportstyrelsens framställan om ändring i förorordningen om luftfartygsregistret m.m. från december 2019\.
+Beslutsunderlag: Transportstyrelsens framställan om ändring i förorordningen om luftfartygsregistret m.m. från december 2019.
 
 SFS: 2020:1065
 
-Ikraftträdande: 1 januari 2021\.
+Ikraftträdande: 1 januari 2021.
 
 Genom ändringen införs bestämmelser om bland annat vilka uppgifter en ansökan om registrering som drönaroperatör ska innehålla, i vilka fall avregistrering ska ske och för vilka ändamål personuppgifter får behandlas i registret. Transportstyrelsen för registret.
 
@@ -702,7 +691,7 @@ Bestämmelserna kompletterar kommissionens genomförandeförordning (EU) 2019/94
 
 ### Åtgärder mot fordonsmålvakter
 
-**Ändring:** Lagen (1976:206\) om felparkeringsavgift, lagen (2014:447\) om rätt att ta fordon i anspråk för fordringar på vissa skatter och avgifter, vägtrafikdataförordningen (2019:382\) och förordningen (2019:383\) om fordons registrering och användning
+**Ändring:** Lagen (1976:206) om felparkeringsavgift, lagen (2014:447) om rätt att ta fordon i anspråk för fordringar på vissa skatter och avgifter, vägtrafikdataförordningen (2019:382) och förordningen (2019:383) om fordons registrering och användning
 
 **Beslutsunderlag:** Prop. 2019/20:67 Användningsförbud och avskyltning av fordon med obetalda felparkeringsavgifter
 
@@ -716,7 +705,7 @@ Uppgifter om bland annat användningsförbud och att fordon har sålts exekutivt
 
 ### Rättvisare bestämmelser vid överlast
 
-**Ändring:** Trafikförordningen (1998:1276\) och vägtrafikförordningen (1995:137\) för den kommunala organisationen för räddningstjänst under utbildning och höjd beredskap
+**Ändring:** Trafikförordningen (1998:1276) och vägtrafikförordningen (1995:137) för den kommunala organisationen för räddningstjänst under utbildning och höjd beredskap
 
 **Beslutsunderlag:** Framställan från Transportstyrelsen
 
@@ -730,7 +719,7 @@ Procentsatsen för acceptabelt överskridande av den totala vikten justeras samt
 
 ### Elcertifikatsystemet avslutas redan 2035
 
-**Ändring:** Lagen (2011:1200\) om elcertifikat
+**Ändring:** Lagen (2011:1200) om elcertifikat
 
 **Beslutsunderlag:** Prop. 2020/21:16 Elcertifikat – stoppregel och kontrollstation 2019
 
@@ -760,7 +749,7 @@ Med tjänsteleverantör jämställs en underleverantör som medverkar till att f
 
 ### Giltighetstiden för handlingar inom sjöfartsområdet förlängs ytterligare
 
-**Ändringar:** Förordning (2020:154\) om förlängning av giltighetstiden för handlingar inom sjöfartsområdet
+**Ändringar:** Förordning (2020:154) om förlängning av giltighetstiden för handlingar inom sjöfartsområdet
 **SFS:** 2020:1225
 **Ikraftträdande:** 1 januari 2021
 
@@ -768,11 +757,11 @@ Restriktionerna under coronapandemin har medfört att sjömän och rederier har 
 
 För att undvika risken att fartygen inte får användas eller att tjänstgöring omöjliggörs när giltighetstiden för intygen och certifikaten löper ut, beslutade regeringen därför vid flera tillfällen under 2020 att generellt förlänga giltighetstiden för alla dessa intyg.
 
-Genom den senaste ändringen förlängs giltighetstiden ytterligare med 15 månader räknat från dokumentets förfallodatum, dock som längst till och med den 30 september 2021\. Förlängningen gäller för alla sådana dokument vars giltighetstid förfaller senast den 31 maj 2021\.
+Genom den senaste ändringen förlängs giltighetstiden ytterligare med 15 månader räknat från dokumentets förfallodatum, dock som längst till och med den 30 september 2021. Förlängningen gäller för alla sådana dokument vars giltighetstid förfaller senast den 31 maj 2021.
 
 ### Det tillfälligt anpassade sjöfartsstödet förlängs
 
-**Ändringar:** Förordning (2020:000\) om fortsatt giltighet för förordningen (2020:730\) om tillfälligt anpassat sjöfartsstöd
+**Ändringar:** Förordning (2020:000) om fortsatt giltighet för förordningen (2020:730) om tillfälligt anpassat sjöfartsstöd
 
 **SFS:** 2020:1296
 
@@ -782,39 +771,37 @@ På grund av det minskade antal passagerare som coronapandemin har medfört har 
 
 En tillfällig förordning togs därför fram som innebär att sjöfartsstöd lämnas för sjömän som med anledning av coronapandemin permitterats eller sysselsatts med underhåll av fartygen eller liknande arbetsuppgifter, även då fartyget tillfälligt tagits ur trafik. Skälet till att förordningen togs fram var färjornas betydelse för svensk varuförsörjning, export och import men även för person­transporter och besöksnäring.
 
-Då smittspridningen inte upphört kvarstår många av problemen som motiverade förordningen om tillfälligt anpassat sjöfartsstöd. Eftersom förordningen upphör att gälla den 31 december 2020 har regeringen därför beslutat om en förordning om fortsatt som upphör att gälla den 1 juli 2021\.
+Då smittspridningen inte upphört kvarstår många av problemen som motiverade förordningen om tillfälligt anpassat sjöfartsstöd. Eftersom förordningen upphör att gälla den 31 december 2020 har regeringen därför beslutat om en förordning om fortsatt som upphör att gälla den 1 juli 2021.
 
 ## Justitiedepartementet
 
-Justitiedepartementet ansvarar bland annat för rättsväsendet, migrations\- och asylfrågor, krisberedskap, grundlagar och civilrätt.
+Justitiedepartementet ansvarar bland annat för rättsväsendet, migrations- och asylfrågor, krisberedskap, grundlagar och civilrätt.
 
 ### Kontakt
 
-Presskontakter hos justitie\- och migrationsminister Morgan Johansson:
+Presskontakter hos justitie- och migrationsminister Morgan Johansson:
 
 Pressekreterare och pressamordnare Sofie Rudh
 
-Tfn 072\-545 74 21
+Tfn 072-545 74 21
 
 Pressekreterare Adriana Haxhimustafa
 
-Tfn 070\-266 31 05
-
-
+Tfn 070-266 31 05
 
 Presskontakter hos inrikesminister Mikael Damberg:
 
 Pressekreterare Mirjam Kontio
 
-Tfn 073\-074 05 57
+Tfn 073-074 05 57
 
 Pressekreterare Per Strängberg
 
-Tfn 073\-093 90 56
+Tfn 073-093 90 56
 
 ### Kompletterande bestämmelser till utträdesavtalet mellan Storbritannien och EU
 
-**Ändringar:** Utlänningslagen (2005:716\), lagen (2001:82\) om svenskt medborgarskap, utlänningsförordningen (2006:97\) och utlänningsdataförordningen (2016:30\)
+**Ändringar:** Utlänningslagen (2005:716), lagen (2001:82) om svenskt medborgarskap, utlänningsförordningen (2006:97) och utlänningsdataförordningen (2016:30)
 
 **Beslutsunderlag:** Prop. 2019/20:178 Kompletterande bestämmelser till utträdesavtalet mellan Förenade kungariket och EU i fråga om medborgarnas rättigheter
 
@@ -822,13 +809,13 @@ Tfn 073\-093 90 56
 
 **Ikraftträdande:** 1 december 2020
 
-När Storbritannien lämnade EU den 1 februari 2020 trädde ett utträdesavtal i kraft. Enligt avtalet fortsätter EU:s regelverk att gälla för Storbritannien under en övergångsperiod till och med den 31 december 2020\. Därefter ska avtalets bestämmelser till skydd för de särskilt berörda medborgarna börja tillämpas. I Sverige är det främst brittiska medborgare med familjer som vid övergångsperiodens slut bor och arbetar här.
+När Storbritannien lämnade EU den 1 februari 2020 trädde ett utträdesavtal i kraft. Enligt avtalet fortsätter EU:s regelverk att gälla för Storbritannien under en övergångsperiod till och med den 31 december 2020. Därefter ska avtalets bestämmelser till skydd för de särskilt berörda medborgarna börja tillämpas. I Sverige är det främst brittiska medborgare med familjer som vid övergångsperiodens slut bor och arbetar här.
 
 De nya bestämmelserna kompletterar utträdesavtalet om dessa medborgares rätt att resa in, vistas och arbeta i Sverige. Bestämmelserna innebär bland annat att brittiska medborgare med familjer i Sverige ska ansöka om en ny uppehållsstatus. Migrationsverket fattar beslut om uppehållsstatus och utfärdar dokument till de gränsarbetare som omfattas av rättigheter enligt avtalet.
 
 ### En strängare syn på hantering av vapen och explosiva varor
 
-**Ändringar:** Vapenlagen (1996:67\), lagen (2000:1225\) om straff för smuggling, lagen (2003:148\) om straff för terroristbrott och lagen (2010:1011\) om brandfarliga och explosiva varor
+**Ändringar:** Vapenlagen (1996:67), lagen (2000:1225) om straff för smuggling, lagen (2003:148) om straff för terroristbrott och lagen (2010:1011) om brandfarliga och explosiva varor
 
 **Beslutsunderlag:** Prop. 2019/20:200 En strängare syn på hantering av vapen och explosiva varor
 
@@ -862,7 +849,7 @@ Bestämmelserna ska förenkla och effektivisera det gränsöverskridande samarbe
 
 **Ändringar:** Följdändringar i ett antal lagar och förordningar
 
-**Beslutsunderlag:** Prop. 2020/21:1 Budgetpropositionen för 2021 (utg.omr. 1\)
+**Beslutsunderlag:** Prop. 2020/21:1 Budgetpropositionen för 2021 (utg.omr. 1)
 
 **SFS:** Ändringar i 45 författningar, se Svensk författningssamling
 
@@ -872,7 +859,7 @@ Datainspektionen byter namn till Integritetsskyddsmyndigheten. Myndigheten komme
 
 ### Förskottsbetalning införs i vissa ärenden om utlämnande av allmän handling
 
-**Ändring:** Offentlighets\- och sekretesslagen (2009:400\)
+**Ändring:** Offentlighets- och sekretesslagen (2009:400)
 
 **Beslutsunderlag:** Prop. 2019/20:179 Förskottsbetalning i vissa ärenden om utlämnande av allmän handling
 
@@ -884,7 +871,7 @@ Att kunna ta del av allmänna handlingar är en viktig del i det demokratiska sa
 
 ### Medarbetarskydd för polisanställda stärks
 
-**Ändringar:** Polislagen (1984:387\), lagen (2006:939\) om kvalificerade skyddsidentiteter, patientsäkerhetslagen (2010:659\), förordningen (1991:1413\) om rättspsykiatrisk undersökning, förordningen (1992:289\) om särskild personutredning i brottmål, m.m., förordningen (1998:642\) om verkställighet av frivårdspåföljder och fängelseförordningen (2010:2010\) samt följdändringar
+**Ändringar:** Polislagen (1984:387), lagen (2006:939) om kvalificerade skyddsidentiteter, patientsäkerhetslagen (2010:659), förordningen (1991:1413) om rättspsykiatrisk undersökning, förordningen (1992:289) om särskild personutredning i brottmål, m.m., förordningen (1998:642) om verkställighet av frivårdspåföljder och fängelseförordningen (2010:2010) samt följdändringar
 
 **Beslutsunderlag:** Prop. 2019/20:186 Ett förstärkt medarbetarskydd för polisanställda
 
@@ -892,11 +879,11 @@ Att kunna ta del av allmänna handlingar är en viktig del i det demokratiska sa
 
 **Ikraftträdande:** 1 januari 2021
 
-Det införs en ny bestämmelse i polislagen som utökar möjligheten att kroppsvisitera personer som förhörs i polisens lokaler. Det görs också en lagändring som innebär att även civilanställda vid Polismyndigheten ska kunna ha kvalificerade skyddsidentitet. Slutligen utvidgas Säkerhetspolisens möjligheter att från hälso\- och sjukvården, Kriminalvården och Rättsmedicinalverket inhämta uppgifter om enskilda i sin personskyddsverksamhet. Ändringarna syftar till att förstärka medarbetarskyddet för polisanställda.
+Det införs en ny bestämmelse i polislagen som utökar möjligheten att kroppsvisitera personer som förhörs i polisens lokaler. Det görs också en lagändring som innebär att även civilanställda vid Polismyndigheten ska kunna ha kvalificerade skyddsidentitet. Slutligen utvidgas Säkerhetspolisens möjligheter att från hälso- och sjukvården, Kriminalvården och Rättsmedicinalverket inhämta uppgifter om enskilda i sin personskyddsverksamhet. Ändringarna syftar till att förstärka medarbetarskyddet för polisanställda.
 
 ### Passavgiften höjs med 50 kronor
 
-**Ändring:** Passförordningen (1979:664\)
+**Ändring:** Passförordningen (1979:664)
 
 **SFS:** 2020:886
 
@@ -924,7 +911,7 @@ Den som döms till påföljden ska bland annat meddelas föreskrifter om rörels
 
 ### Utvidgade möjligheter att förvandla obetalda böter till fängelse
 
-**Ändring:** Bötesverkställighetslagen (1979:189\)
+**Ändring:** Bötesverkställighetslagen (1979:189)
 
 **Beslutsunderlag:** Prop. 2020/21:8 Utvidgade möjligheter att förvandla obetalda böter till fängelse
 
@@ -938,13 +925,13 @@ Böter ska alltså förvandlas till fängelse om de inte har kunnat drivas in p�
 
 ### En effektivare kommunal räddningstjänst
 
-**Ändringar:** Lagen (2003:778\) om skydd mot olyckor, förordningen (2003:789\) om skydd mot olyckor, förordningen (2003:477\) om utbildning i skydd mot olyckor och förordningen (2008:1002\) med instruktion för Myndigheten för samhällsskydd och beredskap
+**Ändringar:** Lagen (2003:778) om skydd mot olyckor, förordningen (2003:789) om skydd mot olyckor, förordningen (2003:477) om utbildning i skydd mot olyckor och förordningen (2008:1002) med instruktion för Myndigheten för samhällsskydd och beredskap
 
 **Beslutsunderlag:** Prop. 2019/20:176 En effektivare kommunal räddningstjänst
 
 **SFS:** 2020:882–885
 
-**Ikraftträdande:** 1 januari 2021\. Kommunerna får dock tid till den 1 januari 2022 för att anta nya handlingsprogram och uppfylla kravet på att ständigt upprätthålla övergripande ledning av räddningstjänsten.
+**Ikraftträdande:** 1 januari 2021. Kommunerna får dock tid till den 1 januari 2022 för att anta nya handlingsprogram och uppfylla kravet på att ständigt upprätthålla övergripande ledning av räddningstjänsten.
 
 Ändringarna innebär en starkare statlig styrning av kommunernas förebyggande verksamhet och räddningstjänst genom ett nytt nationellt mål för den förebyggande verksamheten, tydligare handlingsprogram samt utökad föreskriftsrätt för Myndigheten för samhällsskydd och beredskap (MSB). Kommunerna åläggs att upprätthålla en övergripande ledning av räddningstjänsten och får en möjlighet att delegera uppgifter på ett mer flexibelt sätt.
 
@@ -952,7 +939,7 @@ Tillsyn och stöd förstärks genom en koncentration till MSB med möjlighet att
 
 ### Utökade möjligheter till digital kommunikation i domstolsprocesser
 
-**Ändringar:** Rättegångsbalken, förvaltningsprocesslagen (1971:291\), lagen (1996:242\) om domstolsärenden med flera lagar
+**Ändringar:** Rättegångsbalken, förvaltningsprocesslagen (1971:291), lagen (1996:242) om domstolsärenden med flera lagar
 
 **Beslutsunderlag:** Prop. 2019/20:189 Digital kommunikation i domstolsprocesser
 
@@ -968,9 +955,9 @@ Rättegångsfullmakter ska få utfärdas i digital form och skrivas under med en
 
 ### Samtliga migrationsdomstolar blir behöriga att pröva viseringsmål
 
-**Ändring:** Förordning om ändring i förordningen (1977:937\) om allmänna förvaltningsdomstolars behörighet m.m.
+**Ändring:** Förordning om ändring i förordningen (1977:937) om allmänna förvaltningsdomstolars behörighet m.m.
 
-**Beslutsunderlag:** Promemorian Behörig migrationsdomstol i viseringsmål (Ju2020/01022\)
+**Beslutsunderlag:** Promemorian Behörig migrationsdomstol i viseringsmål (Ju2020/01022)
 
 **SFS:** 2020:917
 
@@ -980,7 +967,7 @@ Rättegångsfullmakter ska få utfärdas i digital form och skrivas under med en
 
 ### Minoritetsskyddet stärks i aktiebolag och ekonomiska föreningar, däribland bostadsrättsföreningar
 
-**Ändringar:** Aktiebolagslagen (2005:551\), lagen (2018:672\) om ekonomiska föreningar med flera lagar samt aktiebolagsförordningen (2005:559\) med flera förordningar
+**Ändringar:** Aktiebolagslagen (2005:551), lagen (2018:672) om ekonomiska föreningar med flera lagar samt aktiebolagsförordningen (2005:559) med flera förordningar
 
 **Beslutsunderlag:** Prop. 2019/20:194 Ett ändamålsenligt minoritetsskydd i aktiebolag och ekonomiska föreningar
 
@@ -988,13 +975,13 @@ Rättegångsfullmakter ska få utfärdas i digital form och skrivas under med en
 
 **Ikraftträdande:** 1 januari 2021
 
-Ändringarna innebär bland annat att en särskild granskare eller minoritetsrevisor kan utses av Bolagsverket utan att frågan först behandlas på en bolags\- eller föreningsstämma, om ägare till minst en tiondel av aktierna i bolaget respektive en tiondel av medlemmarna i föreningen står bakom ansökan. Det införs också ett krav på att en särskild granskare ska vara lämplig och oberoende.
+Ändringarna innebär bland annat att en särskild granskare eller minoritetsrevisor kan utses av Bolagsverket utan att frågan först behandlas på en bolags- eller föreningsstämma, om ägare till minst en tiondel av aktierna i bolaget respektive en tiondel av medlemmarna i föreningen står bakom ansökan. Det införs också ett krav på att en särskild granskare ska vara lämplig och oberoende.
 
 Åtgärderna gör det svårare för till exempel styrelsen i ett bolag eller en förening att motarbeta en minoritet av aktieägares eller medlemmars insyn. I privata aktiebolag och i ekonomiska föreningar ska den som har ansökt om en särskild granskare i undantagsfall kunna bli ersättningsskyldig för kostnader för den särskilda granskaren. Detta motverkar att reglerna missbrukas.
 
 ### Skärpta regler för att minska olaglig tillverkning av sprängämnen
 
-**Ändringar:** Lagen (2020:860\) om ändring i lagen (1996:701\) om Tullverkets befogenheter vid Sveriges gräns mot ett annat land inom Europeiska unionen och lagen (2020:861\) om ändring i lagen (2014:799\) om sprängämnesprekursorer
+**Ändringar:** Lagen (2020:860) om ändring i lagen (1996:701) om Tullverkets befogenheter vid Sveriges gräns mot ett annat land inom Europeiska unionen och lagen (2020:861) om ändring i lagen (2014:799) om sprängämnesprekursorer
 
 **Beslutsunderlag:** Prop. 2019/20:154 Skärpta regler avseende hanteringen av sprängämnesprekursorer
 
@@ -1002,31 +989,31 @@ Rättegångsfullmakter ska få utfärdas i digital form och skrivas under med en
 
 **Ikraftträdande:** 1 februari 2021
 
-Lagändringar genomförs med anledning av en ny EU\-förordning om sprängämnesprekursorer, det vill säga kemiska ämnen som kan användas för legitima ändamål men också missbrukas för att tillverka sprängämnen. EU\-förordningen innebär att ett antal listade ämnen även fortsättningsvis inte får tillhandahållas till, samt införas, innehas eller användas av enskilda. Medlemsstaterna kan medge undantag för vissa ämnen, men möjligheten till undantag är mer begränsad i den nya EU\-förordningen.
+Lagändringar genomförs med anledning av en ny EU-förordning om sprängämnesprekursorer, det vill säga kemiska ämnen som kan användas för legitima ändamål men också missbrukas för att tillverka sprängämnen. EU-förordningen innebär att ett antal listade ämnen även fortsättningsvis inte får tillhandahållas till, samt införas, innehas eller användas av enskilda. Medlemsstaterna kan medge undantag för vissa ämnen, men möjligheten till undantag är mer begränsad i den nya EU-förordningen.
 
 Skyldigheten att rapportera misstänkta transaktioner samt betydande försvinnanden och stölder till den nationella kontaktpunkten utökas till att omfatta fler aktörer. Det har dessutom tillkommit krav på bland annat medvetandehöjande åtgärder och utökad tillsyn.
 
 ## Lagar och förordningar med anledning av coronapandemin
 
-### De tillfälliga åtgärderna för att underlätta genomförandet av bolags\- och föreningsstämmor utan hälsorisker förlängs
+### De tillfälliga åtgärderna för att underlätta genomförandet av bolags- och föreningsstämmor utan hälsorisker förlängs
 
-**Ändring:** Lagen (2020:198\) om tillfälliga undantag för att underlätta genomförandet av bolags\- och föreningsstämmor
+**Ändring:** Lagen (2020:198) om tillfälliga undantag för att underlätta genomförandet av bolags- och föreningsstämmor
 
-**Beslutsunderlag:** Prop. 2020/21:41 Förlängning av de tillfälliga åtgärderna för att underlätta genomförandet av bolags\- och föreningsstämmor
+**Beslutsunderlag:** Prop. 2020/21:41 Förlängning av de tillfälliga åtgärderna för att underlätta genomförandet av bolags- och föreningsstämmor
 
 **SFS:** 2020:1154
 
 **Ikraftträdande:** 1 januari 2021
 
-Lagen om tillfälliga undantag för att underlätta genomförandet av bolags\- och föreningsstämmor gör det möjligt att hålla nere antalet personer som närvarar vid stämmorna. Samtidigt får aktieägare och medlemmar ett så stort inflytande som möjligt. Styrelsen kan bland annat bestämma att stämman ska genomföras helt utan fysiskt deltagande genom elektronisk uppkoppling eller genom poströstning.
+Lagen om tillfälliga undantag för att underlätta genomförandet av bolags- och föreningsstämmor gör det möjligt att hålla nere antalet personer som närvarar vid stämmorna. Samtidigt får aktieägare och medlemmar ett så stort inflytande som möjligt. Styrelsen kan bland annat bestämma att stämman ska genomföras helt utan fysiskt deltagande genom elektronisk uppkoppling eller genom poströstning.
 
-Syftet är att motverka spridningen av covid\-19 och underlätta för företag och föreningar att genomföra stämmorna utan hälsorisker.
+Syftet är att motverka spridningen av covid-19 och underlätta för företag och föreningar att genomföra stämmorna utan hälsorisker.
 
-Lagen är tidsbegränsad och gällde ursprungligen till utgången av 2020\. På grund av det fortsatt osäkra läget med pågående smittspridning i samhället ska lagen fortsätta att gälla till utgången av 2021\.
+Lagen är tidsbegränsad och gällde ursprungligen till utgången av 2020. På grund av det fortsatt osäkra läget med pågående smittspridning i samhället ska lagen fortsätta att gälla till utgången av 2021.
 
 ### Skydd av Sveriges säkerhet vid försäljning av säkerhetskänslig verksamhet
 
-**Ändringar:** Säkerhetsskyddslagen (2018:585\) och säkerhetsskyddsförordningen (2018:658\)
+**Ändringar:** Säkerhetsskyddslagen (2018:585) och säkerhetsskyddsförordningen (2018:658)
 
 **Beslutsunderlag:** Prop. 2020/21:13 Åtgärder till skydd för Sveriges säkerhet vid överlåtelser av säkerhetskänslig verksamhet
 
@@ -1044,13 +1031,13 @@ Kulturdepartementet ansvarar bland annat för frågor om kultur, medier, demokra
 
 ### Kontakt
 
-**Presskontakt hos kultur\- och demokratiminister Amanda Lind:** Pressekreterare Josefin Sasse
+**Presskontakt hos kultur- och demokratiminister Amanda Lind:** Pressekreterare Josefin Sasse
 
-Tfn 073\-077 94 69
+Tfn 073-077 94 69
 
 ### Ett redaktionsstöd införs för nyhetsmedier
 
-**Ändringar:** Mediestödsförordningen (2018:2053\)
+**Ändringar:** Mediestödsförordningen (2018:2053)
 
 **Beslutsunderlag:** SOU 2016:80 En gränsöverskridande mediepolitik. För upplysning, engagemang och ansvar
 
@@ -1058,25 +1045,25 @@ Tfn 073\-077 94 69
 
 **Ikraftträdande:** 13 augusti 2020 och 1 januari 2021
 
-Ett nytt mediestöd i form av ett redaktionsstöd får lämnas till nyhetsmedier som har behov av ekonomiskt stöd för sin redaktionella verksamhet. Under 2020 gäller vissa tillfälliga förutsättningar för redaktionsstöd i syfte att stödja nyhetsmedierna med anledning av coronapandemin, men dessa tillfälliga förutsättningar upphör att gälla den 1 januari 2021\.
+Ett nytt mediestöd i form av ett redaktionsstöd får lämnas till nyhetsmedier som har behov av ekonomiskt stöd för sin redaktionella verksamhet. Under 2020 gäller vissa tillfälliga förutsättningar för redaktionsstöd i syfte att stödja nyhetsmedierna med anledning av coronapandemin, men dessa tillfälliga förutsättningar upphör att gälla den 1 januari 2021.
 
 ### Nya och ändrade regler för tv och videodelningsplattformar
 
-**Ändringar:** Radio\- och tv\-lagen (2010:696\) med flera lagar och förordningar
+**Ändringar:** Radio- och tv-lagen (2010:696) med flera lagar och förordningar
 
-**Beslutsunderlag:** Prop 2019/20:168 En moderniserad radio\- och tv\-lag
+**Beslutsunderlag:** Prop 2019/20:168 En moderniserad radio- och tv-lag
 
 **SFS:** 2020:872–879
 
 **Ikraftträdande:** 1 december 2020
 
-Ändringar görs främst för att genomföra revideringar av EU:s direktiv om audiovisuella medietjänster. I radio\- och tv\-lagen införs bestämmelser för svenska videodelningsplattformar, det vill säga tjänster där användare laddar upp rörlig bild som till exempel videor på en plattform. Det ställs bland annat krav på en leverantör av en plattform att vidta lämpliga åtgärder för att användarna ska följa grundläggande innehålls\- och reklamregler.
+Ändringar görs främst för att genomföra revideringar av EU:s direktiv om audiovisuella medietjänster. I radio- och tv-lagen införs bestämmelser för svenska videodelningsplattformar, det vill säga tjänster där användare laddar upp rörlig bild som till exempel videor på en plattform. Det ställs bland annat krav på en leverantör av en plattform att vidta lämpliga åtgärder för att användarna ska följa grundläggande innehålls- och reklamregler.
 
-Ändringar görs även i bestämmelserna om tv\-sändningar och beställ\-tv när det gäller skydd av barn, tillgänglighet för personer med funktionsnedsättning, krav på program med europeiskt ursprung och reklam.
+Ändringar görs även i bestämmelserna om tv-sändningar och beställ-tv när det gäller skydd av barn, tillgänglighet för personer med funktionsnedsättning, krav på program med europeiskt ursprung och reklam.
 
-### Public service\-avgiften sänks
+### Public service-avgiften sänks
 
-**Ändringar:** Lagen (2018:1893\) om finansiering av radio och tv i allmänhetens tjänst
+**Ändringar:** Lagen (2018:1893) om finansiering av radio och tv i allmänhetens tjänst
 
 **Beslutsunderlag:** Prop. 2020/21:1 Budgetpropositionen för 2021, utgiftsområde 17
 
@@ -1084,7 +1071,7 @@ Ett nytt mediestöd i form av ett redaktionsstöd får lämnas till nyhetsmedier
 
 **Ikraftträdande:** 1 januari 2021
 
-Alla som har fyllt 18 år och har en beskattningsbar förvärvsinkomst betalar public service\-avgift. Avgiften används för att finansiera verksamheten vid Sveriges Radio, Sveriges Television och Utbildningsradion. Avgiftens storlek avgörs av den beskattningsbara förvärvsinkomsten och har ett tak.
+Alla som har fyllt 18 år och har en beskattningsbar förvärvsinkomst betalar public service-avgift. Avgiften används för att finansiera verksamheten vid Sveriges Radio, Sveriges Television och Utbildningsradion. Avgiftens storlek avgörs av den beskattningsbara förvärvsinkomsten och har ett tak.
 
 För 2020 var den högsta avgiften 1 397 kr per person och år. Eftersom avgiftsintäkterna de senaste två åren varit högre än beräknat sänks avgiften 2021 och blir som högst 1 330 kr per person och år.
 
@@ -1092,7 +1079,7 @@ För 2020 var den högsta avgiften 1 397 kr per person och år. Eftersom avgifts
 
 ### Nytt stöd till allmänna samlingslokaler med anledning av coronapandemin
 
-**Ändring:** Förordning (2016:1367\) om statsbidrag till allmänna samlingslokaler
+**Ändring:** Förordning (2016:1367) om statsbidrag till allmänna samlingslokaler
 
 **SFS:** 2020:821
 
@@ -1102,7 +1089,7 @@ Genom ändringen införs bestämmelser om organisationsbidrag till föreningar o
 
 ### Ny stödperiod för inställda och uppskjutna kulturevenemang
 
-**Ändring:** Förordning (2020:246\) om statligt stöd för kulturevenemang som har ställts in eller skjutits upp med anledning av spridningen av sjukdomen covid\-19
+**Ändring:** Förordning (2020:246) om statligt stöd för kulturevenemang som har ställts in eller skjutits upp med anledning av spridningen av sjukdomen covid-19
 
 **SFS:** 2020:831
 
@@ -1116,24 +1103,24 @@ Miljödepartementet ansvarar för frågor som rör minskade klimatutsläpp, en g
 
 ### Kontakt
 
-**Presskontakt hos klimat\- och miljöminister samt vice statsminister Isabella Lövin:**
+**Presskontakt hos klimat- och miljöminister samt vice statsminister Isabella Lövin:**
 
 Pressekreterare Jakob Lundgren
-Tfn 072\-206 08 92
+Tfn 072-206 08 92
 
-### Havs\- och vattenmyndigheten får tillsynsvägledningsansvar för de invasiva främmande arter som lever i vatten
+### Havs- och vattenmyndigheten får tillsynsvägledningsansvar för de invasiva främmande arter som lever i vatten
 
-**Ändring:** Miljötillsynsförordningen (2011:13\)
+**Ändring:** Miljötillsynsförordningen (2011:13)
 
 **SFS:** 2020:419
 
 **Ikraftträdande:** 1 januari 2021
 
-Regeringen har beslutat om en förordningsändring som behövs för att genomföra EU\-förordningen om invasiva främmande arter. Ändringen innebär ett tillägg till miljötillsynsförordningen där Havs\- och vatten­myndigheten från årsskiftet får tillsynsvägledningsansvaret för de invasiva främmande arter som lever i vatten.
+Regeringen har beslutat om en förordningsändring som behövs för att genomföra EU-förordningen om invasiva främmande arter. Ändringen innebär ett tillägg till miljötillsynsförordningen där Havs- och vatten­myndigheten från årsskiftet får tillsynsvägledningsansvaret för de invasiva främmande arter som lever i vatten.
 
 ### Statligt stöd till vissa miljöfordon för att främja introduktionen av miljöfordon på marknaden
 
-**Ny förordning:** Förordning (2020:750\) om statligt stöd till vissa miljöfordon
+**Ny förordning:** Förordning (2020:750) om statligt stöd till vissa miljöfordon
 
 **SFS:** 2020:750
 
@@ -1145,29 +1132,29 @@ Stödet uppgår till 20 procent av inköps­priset, men högst 40 procent av mer
 
 ### Bestämmelsen om tillståndspliktiga insamlingssystem skjuts fram
 
-**Ändringar:** Förordning om ändring i förordningen (2018:1462\) om producentansvar för förpackningar m.fl.
+**Ändringar:** Förordning om ändring i förordningen (2018:1462) om producentansvar för förpackningar m.fl.
 
 **SFS:** 2020:815–820
 
 **Ikraftträdande:** 31 december 2020
 
-Ändringar görs i ikraftträdande\- och övergångsbestämmelserna till förord­ningen om producentansvar för förpackningar. Det innebär att bestämmel­serna om tillståndspliktiga insamlingssystem skjuts fram till och med ut­gången av december 2022\. Ändringarna gör det möjligt för producenterna och kommunerna att fortsätta samla in förpackningar på samma sätt som i dag. Producenternas registreringsplikt hos Naturvårdsverket skjuts dock inte upp.
+Ändringar görs i ikraftträdande- och övergångsbestämmelserna till förord­ningen om producentansvar för förpackningar. Det innebär att bestämmel­serna om tillståndspliktiga insamlingssystem skjuts fram till och med ut­gången av december 2022. Ändringarna gör det möjligt för producenterna och kommunerna att fortsätta samla in förpackningar på samma sätt som i dag. Producenternas registreringsplikt hos Naturvårdsverket skjuts dock inte upp.
 
 ### Kommuner får informationsansvar för detaljplaner och planbeskrivningar
 
-**Ändringar:** Förordning om ändring i förordningen (2010:1770\) om geografisk miljöinformation
+**Ändringar:** Förordning om ändring i förordningen (2010:1770) om geografisk miljöinformation
 
 **SFS:** 2020:905
 
 **Ikraftträdande:** 1 januari 2021
 
-Förordningen om geografisk miljöinformation ändras så att kommuner får ett informationsansvar i fråga om detaljplaner och planbeskrivningar enligt plan\- och bygglagen (PBL).
+Förordningen om geografisk miljöinformation ändras så att kommuner får ett informationsansvar i fråga om detaljplaner och planbeskrivningar enligt plan- och bygglagen (PBL).
 
 Informationsansvaret innebär att kommuner måste tillgängliggöra detalj­planer och planbeskrivningar enligt PBL. Det bedöms vara en förutsättning för att kunna etablera en säker och standardiserad digital infrastruktur för tillgängliggörande av data om samhällsbyggnadsprocessen.
 
 ### Ändringar i avfallsförordningen för att underlätta för kommuner att rapportera till avfallsregistret
 
-**Ändringar:** Förordning om ändring i avfallsförordningen (2020:614\)
+**Ändringar:** Förordning om ändring i avfallsförordningen (2020:614)
 
 **SFS:** 2020:937
 
@@ -1179,7 +1166,7 @@ Det görs även en ändring av skyldigheten enligt avfallsförordningen att upp�
 
 ### Höjd nivå på bidraget för skredsäkring vid Göta älv
 
-**Ändringar:** Förordning om ändring i förordningen (2018:213\) om bidrag för skredsäkring vid Göta älv
+**Ändringar:** Förordning om ändring i förordningen (2018:213) om bidrag för skredsäkring vid Göta älv
 
 **SFS:** 2020:1002
 
@@ -1200,9 +1187,9 @@ Det görs även en ändring av skyldigheten enligt avfallsförordningen att upp�
 **SFS:** 2020:1173–1185 och 1219
 Ikraftträdande: 1 januari 2021
 
-Flera bestämmelser som i dag finns i lag regleras på förordningsnivå. Bestämmelser som motsvaras av EU\-förordningar eller är inaktuella tas bort. Det införs också regler om det globala klimatstyrmedlet för flygverksamhet, Corsia. Straffskalan för brott mot lagen eller föreskrifter som har meddelats med stöd av lagen skärps från fängelse i högst ett år till fängelse i högst två år.
+Flera bestämmelser som i dag finns i lag regleras på förordningsnivå. Bestämmelser som motsvaras av EU-förordningar eller är inaktuella tas bort. Det införs också regler om det globala klimatstyrmedlet för flygverksamhet, Corsia. Straffskalan för brott mot lagen eller föreskrifter som har meddelats med stöd av lagen skärps från fängelse i högst ett år till fängelse i högst två år.
 
-I förordningen finns bland annat bestämmelser om tillståndsplikt för utsläpp av växthusgaser och bestämmelser om försenings\- och sanktionsavgifter för överträdelser av till exempel skyldighet att överlämna utsläppsrätter och rapporteringsskyldigheter enligt EU\-bestämmelser.
+I förordningen finns bland annat bestämmelser om tillståndsplikt för utsläpp av växthusgaser och bestämmelser om försenings- och sanktionsavgifter för överträdelser av till exempel skyldighet att överlämna utsläppsrätter och rapporteringsskyldigheter enligt EU-bestämmelser.
 
 De nya bestämmelserna anpassar svensk rätt till ändringar i EU:s utsläppshandelsdirektiv och innebär i övrigt en modernisering av regelverket.
 
@@ -1214,13 +1201,11 @@ Näringsdepartementet ansvarar för frågor som rör företag med statligt ägan
 
 **Presskontakt hos näringsminister Ibrahim Baylan:**
 Pressekreterare Sara Khatemi
-Tfn 076\-129 67 08
-
-
+Tfn 076-129 67 08
 
 **Presskontakt hos landsbygdsminister Jennie Nilsson:**
 Pressekreterare Simon Sätherberg
-Tfn 073\-086 23 07
+Tfn 073-086 23 07
 
 ## Lagar och förordningar med anledning av coronapandemin
 
@@ -1228,13 +1213,13 @@ Tfn 073\-086 23 07
 
 **Ny förordning:** Förordning om omsättningsstöd till enskilda näringsidkare
 
-**Beslutsunderlag:** Promemorian Omsättningsstöd till enskilda näringsidkare (N2020/02353\)
+**Beslutsunderlag:** Promemorian Omsättningsstöd till enskilda näringsidkare (N2020/02353)
 
 **SFS:** 2020:893
 
 **Ikraftträdande:** 9 november 2020
 
-Den nya förordningen innehåller bestämmelser om statligt stöd till enskilda näringsidkare vars nettoomsättning har minskat i större omfattning till följd av coronapandemin. Stöd kan ansökas för stödperioderna mars och april, maj samt juni och juli 2020\.
+Den nya förordningen innehåller bestämmelser om statligt stöd till enskilda näringsidkare vars nettoomsättning har minskat i större omfattning till följd av coronapandemin. Stöd kan ansökas för stödperioderna mars och april, maj samt juni och juli 2020.
 
 För att stöd ska beviljas krävs att den enskilda näringsidkarens nettoomsättning för stödperioden understiger en viss procentsats av nettoomsättningen för referensperioden. Omsättningsminskningen ska så gott som uteslutande vara orsakad av coronapandemin.
 
@@ -1242,7 +1227,7 @@ Stöd kan lämnas med 75 procent av det faktiska omsättningstappet. Stöd lämn
 
 ### Förlängd giltighetstid för undersökningstillstånd
 
-**Ändring:** Minerallagen (1991:45\)
+**Ändring:** Minerallagen (1991:45)
 
 **Beslutsunderlag:** Prop. 2019/20:183 Förlängd giltighetstid för undersökningstillstånd
 
@@ -1256,54 +1241,52 @@ Bestämmelserna gäller inte undersökningstillstånd som avser olja eller gasfo
 
 ## Socialdepartementet
 
-Socialdepartementet ansvarar för frågor om social omsorg, hälso\- och sjukvård, funktionshinderfrågor, folkhälsa och socialförsäkringar.
+Socialdepartementet ansvarar för frågor om social omsorg, hälso- och sjukvård, funktionshinderfrågor, folkhälsa och socialförsäkringar.
 
 ### Kontakt
 
 **Presskontakt hos socialminister Lena Hallengren:**
 
-Pressekreterare Elin Aarflot 073\-274 23 53
-Pressekreterare Sofia Brändström 072\-219 50 29
-
-
+Pressekreterare Elin Aarflot 073-274 23 53
+Pressekreterare Sofia Brändström 072-219 50 29
 
 **Presskontakt hos socialförsäkringsminister Ardalan Shekarabi:**
 
-Pressekreterare Viktor Nyberg 073\-051 03 71
+Pressekreterare Viktor Nyberg 073-051 03 71
 
 ### Ökade möjligheter för apotek i glesbygden att få bidrag
 
-**Ändring:** Förordning (2013:80\) om bidrag till öppenvårdsapoteksservice av allmänt ekonomiskt intresse
+**Ändring:** Förordning (2013:80) om bidrag till öppenvårdsapoteksservice av allmänt ekonomiskt intresse
 
-**Beslutsunderlag:** Tandvårds\- och läkemedelsförmånsverkets redovisning av uppdrag att se över förordning om bidrag till öppenvårdsapoteksservice
+**Beslutsunderlag:** Tandvårds- och läkemedelsförmånsverkets redovisning av uppdrag att se över förordning om bidrag till öppenvårdsapoteksservice
 
 **SFS:** 2020:853
 
 **Ikraftträdande:** 1 januari 2021
 
-Det särskilda stödet för apotek i glesbygd tillkom 2013\. För att fler apotek ska kunna få ta del av bidraget föreslås att kravet på genomsnittligt öppethållande sänks från 30 till 20 timmar per vecka för apotek som har en försäljning av receptförskrivna läkemedel som överstiger tre miljoner kronor, respektive från 14 till 10 timmar per vecka för apotek med försäljning av receptförskrivna läkemedel som inte överstiger tre miljoner kronor. Vidare föreslås gränsen för maximala försäljningsintäkter av receptförskrivna läkemedel höjas från 10 miljoner till 15 miljoner kronor per år.
+Det särskilda stödet för apotek i glesbygd tillkom 2013. För att fler apotek ska kunna få ta del av bidraget föreslås att kravet på genomsnittligt öppethållande sänks från 30 till 20 timmar per vecka för apotek som har en försäljning av receptförskrivna läkemedel som överstiger tre miljoner kronor, respektive från 14 till 10 timmar per vecka för apotek med försäljning av receptförskrivna läkemedel som inte överstiger tre miljoner kronor. Vidare föreslås gränsen för maximala försäljningsintäkter av receptförskrivna läkemedel höjas från 10 miljoner till 15 miljoner kronor per år.
 
 De nya förutsättningarna ska tillämpas retroaktivt på så sätt att apotek kan få stöd för hela 2020 enligt de föreslagna generösare kriterierna även för perioden innan de trätt ikraft.
 
 ### Möjligheten att få garantipension fortsatt utbetald till EES och Schweiz samt till Förenade kungariket förlängs ytterligare
 
-**Ändringar:** Lagen (2019:646\) om ändring i socialförsäkringsbalken, lagen (2019:648\) om ändring i lagen (2019:168\) om sociala trygghetsförmåner efter det att Förenade kungariket har lämnat Europeiska unionen och lagen (2019:168\) om sociala trygghetsförmåner efter det att Förenade kungariket har lämnat Europeiska unionen
+**Ändringar:** Lagen (2019:646) om ändring i socialförsäkringsbalken, lagen (2019:648) om ändring i lagen (2019:168) om sociala trygghetsförmåner efter det att Förenade kungariket har lämnat Europeiska unionen och lagen (2019:168) om sociala trygghetsförmåner efter det att Förenade kungariket har lämnat Europeiska unionen
 
 **Beslutsunderlag:** Prop. 2020/21:1 Budgetpropositionen för 2021, utgiftsområde 11 Ekonomisk trygghet vid ålderdom
 
 **SFS:** 2020:1241–1243
 
-Garantipension och garantipension till omställningspension kan fortsatt betalas ut till personer bosatta inom Europeiska ekonomiska samarbetsområdet (EES) eller i Schweiz till utgången av 2021 (se även prop. 2017/18:275 och 2018/19:131\).
+Garantipension och garantipension till omställningspension kan fortsatt betalas ut till personer bosatta inom Europeiska ekonomiska samarbetsområdet (EES) eller i Schweiz till utgången av 2021 (se även prop. 2017/18:275 och 2018/19:131).
 
-Vidare kan sådana förmåner fortsatt betalas ut till personer i Förenade kungariket Storbritannien och Nordirland till utgången av 2021 (se även prop. 2018/19:53 och 2018/19:131\). Detta innebär att de tillfälliga regleringar som gäller sedan tidigare förlängs med ytterligare ett år.
+Vidare kan sådana förmåner fortsatt betalas ut till personer i Förenade kungariket Storbritannien och Nordirland till utgången av 2021 (se även prop. 2018/19:53 och 2018/19:131). Detta innebär att de tillfälliga regleringar som gäller sedan tidigare förlängs med ytterligare ett år.
 
 ## Lagar och förordningar med anledning av coronapandemin
 
 ### Nya ersättningsperioder införs inom det statliga tandvårdsstödet
 
-**Ny förordning:** Förordning om särskild beräkning av tandvårdsersättning med anledning av sjukdomen covid\-19
+**Ny förordning:** Förordning om särskild beräkning av tandvårdsersättning med anledning av sjukdomen covid-19
 
-**Beslutsunderlag:** Promemorian Särskild beräkning av tandvårdsersättning med anledning av sjukdomen covid\-19
+**Beslutsunderlag:** Promemorian Särskild beräkning av tandvårdsersättning med anledning av sjukdomen covid-19
 
 **SFS:** 2020:752
 
@@ -1315,7 +1298,7 @@ För tandvårdspatienter som den 1 april 2020 uppnått högkostnadsskyddet inom 
 
 ### Förlängda åtgärder för att förhindra smittspridning på serveringsställen
 
-**Ändring:** Lagen (2020:526\) om tillfälliga smittskyddsåtgärder på serveringsställen och förordningen (2020:527\) om tillfälliga smittskyddsåtgärder på serveringsställen
+**Ändring:** Lagen (2020:526) om tillfälliga smittskyddsåtgärder på serveringsställen och förordningen (2020:527) om tillfälliga smittskyddsåtgärder på serveringsställen
 
 **Beslutsunderlag:** Prop. 2020/21:38 Förlängning av lagen om tillfälliga smittskyddsåtgärder på serveringsställen
 
@@ -1325,13 +1308,13 @@ För tandvårdspatienter som den 1 april 2020 uppnått högkostnadsskyddet inom 
 
 **Gäller till och med:** 31 maj 2021
 
-Sedan den 1 juli 2020 ska den som driver ett serveringsställe vidta åtgärder för att förhindra spridning av covid\-19\. Folkhälsomyndigheten får enligt förordningen meddela föreskrifter om sådana smittskyddsåtgärder som ska vidtas. Tillsynen utövas av den kommunala nämnd som ansvarar för miljö\- och hälsoskyddsområdet.
+Sedan den 1 juli 2020 ska den som driver ett serveringsställe vidta åtgärder för att förhindra spridning av covid-19. Folkhälsomyndigheten får enligt förordningen meddela föreskrifter om sådana smittskyddsåtgärder som ska vidtas. Tillsynen utövas av den kommunala nämnd som ansvarar för miljö- och hälsoskyddsområdet.
 
-Ändringarna innebär att giltighetstiden för lagen och förordningen förlängs till utgången av maj 2021\. Statsbidrag för kostnader som avser personlig skyddsutrustning för personliga assistenter till följd av sjukdomen covid\-19\.
+Ändringarna innebär att giltighetstiden för lagen och förordningen förlängs till utgången av maj 2021. Statsbidrag för kostnader som avser personlig skyddsutrustning för personliga assistenter till följd av sjukdomen covid-19.
 
 ### Statsbidrag införs för skyddsutrustning för personliga assistenter
 
-**Ny förordning:** Förordning om statsbidrag för kostnader som avser personlig skyddsutrustning för personliga assistenter till följd av sjukdomen covid\-19
+**Ny förordning:** Förordning om statsbidrag för kostnader som avser personlig skyddsutrustning för personliga assistenter till följd av sjukdomen covid-19
 
 **Beslutsunderlag:** Promemorian Personlig skyddsutrustning för personliga assistenter
 
@@ -1339,23 +1322,23 @@ Sedan den 1 juli 2020 ska den som driver ett serveringsställe vidta åtgärder 
 
 **Ikraftträdande:** 1 december 2020
 
-Förordningen innehåller bestämmelser om statsbidrag för kostnader som avser personlig skyddsutrustning för personliga assistenter för att kompensera för kostnader till följd av sjukdomen covid\-19\. Statsbidrag lämnas, i mån av tillgång på medel, för kostnader som har uppkommit från och med den 1 februari till och med den 30 november 2020 för personlig skyddsutrustning för personliga assistenter som är i kontakt med personer som har funktionsnedsättning och som är beviljade statlig assistansersättning. Bidrag får lämnas med högst 5 000 kronor per person som beviljats statlig assistansersättning. Försäkringskassan prövar frågor om statsbidraget.
+Förordningen innehåller bestämmelser om statsbidrag för kostnader som avser personlig skyddsutrustning för personliga assistenter för att kompensera för kostnader till följd av sjukdomen covid-19. Statsbidrag lämnas, i mån av tillgång på medel, för kostnader som har uppkommit från och med den 1 februari till och med den 30 november 2020 för personlig skyddsutrustning för personliga assistenter som är i kontakt med personer som har funktionsnedsättning och som är beviljade statlig assistansersättning. Bidrag får lämnas med högst 5 000 kronor per person som beviljats statlig assistansersättning. Försäkringskassan prövar frågor om statsbidraget.
 
-### Vaccinationer mot covid\-19 ska registreras i ett vaccinationsregister
+### Vaccinationer mot covid-19 ska registreras i ett vaccinationsregister
 
-**Ändringar:** Lagen (2012:453\) om register över nationella vaccinationsprogram
+**Ändringar:** Lagen (2012:453) om register över nationella vaccinationsprogram
 
-**Beslutsunderlag:** Prop. 2020/21:47 Uppföljning av vaccinationer mot covid\-19
+**Beslutsunderlag:** Prop. 2020/21:47 Uppföljning av vaccinationer mot covid-19
 
 **SFS:** 2020:1194
 
 **Ikraftträdande:** 1 januari 2021
 
-Ändringarna innebär att vaccinationer mot sjukdomen covid\-19 ska registreras i registret över nationella vaccinationsprogram. För vaccinationer mot covid\-19 ska även uppgift om vaccinationens dosnummer registreras. Den vårdgivare som har ansvarat för en vaccination mot covid\-19 ska lämna uppgifter om vaccinationen till registret. Lagens rubrik föreslås ändras till lag (2012:453\) om register över nationella vaccinationsprogram m.m.
+Ändringarna innebär att vaccinationer mot sjukdomen covid-19 ska registreras i registret över nationella vaccinationsprogram. För vaccinationer mot covid-19 ska även uppgift om vaccinationens dosnummer registreras. Den vårdgivare som har ansvarat för en vaccination mot covid-19 ska lämna uppgifter om vaccinationen till registret. Lagens rubrik föreslås ändras till lag (2012:453) om register över nationella vaccinationsprogram m.m.
 
 ## Utbildningsdepartementet
 
-Utbildningsdepartementet ansvarar bland annat för regeringens utbildnings\-, forsknings\- och folkbildningspolitik.
+Utbildningsdepartementet ansvarar bland annat för regeringens utbildnings-, forsknings- och folkbildningspolitik.
 
 ### Kontakt
 
@@ -1363,15 +1346,13 @@ Utbildningsdepartementet ansvarar bland annat för regeringens utbildnings\-, fo
 
 Pressekreterare Anja Lindberg Sundberg
 
-Tfn 076\-116 77 45
-
-
+Tfn 076-116 77 45
 
 **Presskontakt hos minister för högre utbildning och forskning Matilda Ernkrans:**
 
 Pressekreterare Tove Kullenberg
 
-Tfn 073\-842 50 59
+Tfn 073-842 50 59
 
 ### Genom reglering i förordning kommer skolenhetsregistret fortsätta finnas tillgängligt
 
@@ -1389,7 +1370,7 @@ Uppgifterna i registret får användas av myndigheter och enskilda. Statens skol
 
 ### Möjligheter att använda fjärrundervisning och distansundervisning utökas
 
-**Ändringar:** Skolförordningen (2011:185\), gymnasieförordningen (2010:2039\) och förordningen (2014:854\) om vidareutbildning i form av ett fjärde tekniskt år och statsbidrag för sådan utbildning
+**Ändringar:** Skolförordningen (2011:185), gymnasieförordningen (2010:2039) och förordningen (2014:854) om vidareutbildning i form av ett fjärde tekniskt år och statsbidrag för sådan utbildning
 
 **Beslutsunderlag:** Prop. 2019/20:127 Fjärrundervisning, distansundervisning och vissa frågor om entreprenad
 
@@ -1405,7 +1386,7 @@ Förordningsändringarna innebär bland annat att fjärrundervisning får använ
 
 **Ny förordning:** Förordning om ersättning för kostnader för kompetensinsatser vid korttidsarbete
 
-**Ändring:** Lagen (2013:948\) om stöd vid korttidsarbete
+**Ändring:** Lagen (2013:948) om stöd vid korttidsarbete
 
 **Beslutsunderlag:** Prop. 2020/21:1 Budgetpropositionen för 2021
 
@@ -1419,9 +1400,9 @@ Lagändringen och den nya förordningen har sin grund i januariavtalet, den sakp
 
 ### Utökade möjligheter för personal i skola och förskola att läsa vidareutbildningar som leder till behörighetsgivande examen
 
-**Ändring:** Förordningen (2011:689\) om vissa behörighetsgivande examina för legitimation som lärare och förskollärare och om högskoleutbild­ningar för vidareutbildning av lärare och förskollärare som saknar lärar\- eller förskollärarexamen
+**Ändring:** Förordningen (2011:689) om vissa behörighetsgivande examina för legitimation som lärare och förskollärare och om högskoleutbild­ningar för vidareutbildning av lärare och förskollärare som saknar lärar- eller förskollärarexamen
 
-**Beslutsunderlag:** Promemorian Fler obehöriga lärare och förskollärare ska kunna nå en behörighetsgivande examen genom VAL (U/2019/03260\)
+**Beslutsunderlag:** Promemorian Fler obehöriga lärare och förskollärare ska kunna nå en behörighetsgivande examen genom VAL (U/2019/03260)
 
 **SFS:** 2020:724
 
@@ -1435,9 +1416,9 @@ När det gäller möjligheten att gå en kortare variant av utbildningen utgår 
 
 ### Möjlighet för universitet och högskolor att ställa krav på lämplighet som särskild behörighet för antagning till lärarutbildning
 
-**Ändring:** Högskoleförordningen (1993:100\)
+**Ändring:** Högskoleförordningen (1993:100)
 
-**Beslutsunderlag:** Promemorian Möjlighet för universitet och högskolor att ställa krav på lämplighet som särskild behörighet för antagning till lärarutbildning (U/2019/03981\)
+**Beslutsunderlag:** Promemorian Möjlighet för universitet och högskolor att ställa krav på lämplighet som särskild behörighet för antagning till lärarutbildning (U/2019/03981)
 
 **SFS:** 2020:881
 
@@ -1449,15 +1430,15 @@ För att bli antagen till en högre utbildning krävs att sökanden har grundlä
 
 ### Krav om ökad kompetens om neuropsykiatriska svårigheter och sex och samlevnad införs i lärarutbildningarna
 
-**Ändring:** Högskoleförordningen (1993:100\)
+**Ändring:** Högskoleförordningen (1993:100)
 
-**Beslutsunderlag:** Promemorian Ökad kompetens om neuropsykiatriska svårigheter och sex och samlevnad i lärarutbildningarna (U2020/00176\)
+**Beslutsunderlag:** Promemorian Ökad kompetens om neuropsykiatriska svårigheter och sex och samlevnad i lärarutbildningarna (U2020/00176)
 
 **SFS:** 2020:766
 
 **Ikraftträdande:** 1 januari 2021
 
-En rad rapporter har visat på behovet av ökad kompetens om neuropsykiatriska svårigheter och det råder en bred enighet om att blivande förskollärare och lärare bör få mer kompetens om detta. Därför införs nya krav i förskollärar\- och lärarutbildningarna för att säkerställa detta.
+En rad rapporter har visat på behovet av ökad kompetens om neuropsykiatriska svårigheter och det råder en bred enighet om att blivande förskollärare och lärare bör få mer kompetens om detta. Därför införs nya krav i förskollärar- och lärarutbildningarna för att säkerställa detta.
 
 Unga behöver få en bra sexualundervisning i skolan. Det kräver utbildade lärare med rätt kompetens. Därför blir kunskap om detta obligatoriskt i lärarutbildningarna, genom nya examensmål för att säkerställa att lärarstudenterna får kompetens att undervisa om frågor som rör identitet, sexualitet och relationer.
 
@@ -1465,37 +1446,37 @@ Unga behöver få en bra sexualundervisning i skolan. Det kräver utbildade lär
 
 ### Lag förlängs för att viktig forskning ska kunna fortsätta att utföras
 
-**Ändringar:** Lagen om fortsatt giltighet av lagen (2013:794\) om vissa register för forskning om vad arv och miljö betyder för människors hälsa och förordningen om fortsatt giltighet av förordningen (2013:833\) om vissa register för forskning om vad arv och miljö betyder för människors hälsa
+**Ändringar:** Lagen om fortsatt giltighet av lagen (2013:794) om vissa register för forskning om vad arv och miljö betyder för människors hälsa och förordningen om fortsatt giltighet av förordningen (2013:833) om vissa register för forskning om vad arv och miljö betyder för människors hälsa
 
 **Beslutsunderlag:** Prop. 2019/20:182 Fortsatt giltighet av lagen om vissa register för forskning om vad arv och miljö betyder för människors hälsa
 
 **SFS:** 2020:980–981
 
-Lagen om vissa register för forskning om vad arv och miljö betyder för människors hälsa trädde i kraft den 1 december 2013\. Lagen är tidsbegränsad till och med den 31 december 2020 i avvaktan på en långsiktig reglering av forskningsdatabaser, men förlängs nu till och med den 31 december 2023\.
+Lagen om vissa register för forskning om vad arv och miljö betyder för människors hälsa trädde i kraft den 1 december 2013. Lagen är tidsbegränsad till och med den 31 december 2020 i avvaktan på en långsiktig reglering av forskningsdatabaser, men förlängs nu till och med den 31 december 2023.
 
-Förordningen om vissa register för forskning om vad arv och miljö betyder för människors hälsa kompletterar lagen och förlängs även den till och med den 31 december 2023\.
+Förordningen om vissa register för forskning om vad arv och miljö betyder för människors hälsa kompletterar lagen och förlängs även den till och med den 31 december 2023.
 
-Förlängningen av lagen syftar till att fortsatt göra det möjligt att behandla personuppgifter i vissa register som är eller har utgjort underlag för viktig forskning om till exempel cancer och hjärt\- och kärlsjukdomar. Registren planeras utgöra underlag för forskning om bland annat covid\-19\.
+Förlängningen av lagen syftar till att fortsatt göra det möjligt att behandla personuppgifter i vissa register som är eller har utgjort underlag för viktig forskning om till exempel cancer och hjärt- och kärlsjukdomar. Registren planeras utgöra underlag för forskning om bland annat covid-19.
 
 ## Lagar och förordningar med anledning av coronapandemin
 
-### Ökade möjligheter att anpassa verksamheten i skolan för att motverka spridning av covid\-19
+### Ökade möjligheter att anpassa verksamheten i skolan för att motverka spridning av covid-19
 
-**Ändring:** Förordningen (2020:115\) om utbildning på skolområdet och annan pedagogisk verksamhet vid spridning av viss smitta
+**Ändring:** Förordningen (2020:115) om utbildning på skolområdet och annan pedagogisk verksamhet vid spridning av viss smitta
 
-**Beslutsunderlag:** Förordningsmotiv för förordning om ändring i förordningen (2020:115\) om utbildning på skolområdet och annan pedagogisk verksamhet vid spridning av viss smitta, Fm 2020:10
+**Beslutsunderlag:** Förordningsmotiv för förordning om ändring i förordningen (2020:115) om utbildning på skolområdet och annan pedagogisk verksamhet vid spridning av viss smitta, Fm 2020:10
 
 **SFS:** 2020:957
 
 **Ikraftträdande:** 23 november 2020
 
-Förordningen gör det möjligt att göra vissa undantag från det som normalt gäller för utbildningen, till exempel ha mer fjärr\- eller distansundervisning, för att motverka spridning av det virus som orsakar sjukdomen covid\-19\. Sådana undantag kan göras när skolor måste stängas helt eller delvis, och i vissa fall när skolorna är öppna, till exempel för att minska trängseln i kollektivtrafiken.
+Förordningen gör det möjligt att göra vissa undantag från det som normalt gäller för utbildningen, till exempel ha mer fjärr- eller distansundervisning, för att motverka spridning av det virus som orsakar sjukdomen covid-19. Sådana undantag kan göras när skolor måste stängas helt eller delvis, och i vissa fall när skolorna är öppna, till exempel för att minska trängseln i kollektivtrafiken.
 
-Den senaste ändringen gör det möjligt för gymnasie­skolor som är öppna att till exempel kombinera undervisning på plats i skolans lokaler med fjärr\- eller distansundervisning, om antalet elever som är samtidigt närvarande i skollokalerna behöver begränsas för att följa föreskrifter, allmänna råd eller rekommendationer från Folkhälsomyndigheten.
+Den senaste ändringen gör det möjligt för gymnasie­skolor som är öppna att till exempel kombinera undervisning på plats i skolans lokaler med fjärr- eller distansundervisning, om antalet elever som är samtidigt närvarande i skollokalerna behöver begränsas för att följa föreskrifter, allmänna råd eller rekommendationer från Folkhälsomyndigheten.
 
 ### Lättnader i förutsättningar för statsbidrag för regional yrkesinriktad vuxenutbildning
 
-**Ändring:** Förordningen (2016:937\) om statsbidrag för regional yrkesinriktad vuxenutbildning
+**Ändring:** Förordningen (2016:937) om statsbidrag för regional yrkesinriktad vuxenutbildning
 
 **SFS:** 2020:591
 
@@ -1503,7 +1484,7 @@ Den senaste ändringen gör det möjligt för gymnasie­skolor som är öppna at
 
 Coronapandemin har orsakat svårigheter för en del utbildningsanordnare att tillmötesgå det krav på arbetsplatsförlagt lärande (APL) som finns i förordningen om regional yrkesinriktad vuxenutbildning. För att de studerande ska kunna genomföra och avsluta en utbildning även om APL inte har kunnat genomföras, införs en lättnad som innebär att statsbidrag ska kunna lämnas även om de samverkande kommunerna på grund av vissa omständigheter inte kan tillhandahålla APL på sammanhållna yrkesutbildningar och lärlingsutbildningar.
 
-Det ska vara fråga om omständigheter som kommunerna inte kan råda över eller att utbildningen av säkerhets\- eller hälsoskäl inte kan förläggas till en arbetsplats utanför skolan.
+Det ska vara fråga om omständigheter som kommunerna inte kan råda över eller att utbildningen av säkerhets- eller hälsoskäl inte kan förläggas till en arbetsplats utanför skolan.
 
 ### Extra statsbidrag får lämnas för utbildning som får stöd enligt yrkesvuxförordningen
 
@@ -1519,19 +1500,19 @@ Det ska vara fråga om omständigheter som kommunerna inte kan råda över eller
 
 Som en konsekvens av coronapandemin har behovet av utbildningsplatser inom regional yrkesinriktad vuxenutbildning (regionalt yrkesvux) ökat markant.
 
-Förordningen innebär att de samverkande kommunerna ska kunna få ersättning, utöver den ersättning som de har beviljats och fått enligt förordningen (2016:937\) om statsbidrag för regional yrkes­inriktad vuxenutbildning, för kostnader för vissa utbildningsplatser. Det kan gälla dels platser som kommunerna redan har åtagit sig att finansiera, dels helt nya platser som kommunerna anordnar under 2020\.
+Förordningen innebär att de samverkande kommunerna ska kunna få ersättning, utöver den ersättning som de har beviljats och fått enligt förordningen (2016:937) om statsbidrag för regional yrkes­inriktad vuxenutbildning, för kostnader för vissa utbildningsplatser. Det kan gälla dels platser som kommunerna redan har åtagit sig att finansiera, dels helt nya platser som kommunerna anordnar under 2020.
 
 Syftet med det extra statsbidraget är att förbättra kommunernas för­utsättningar att erbjuda regionalt yrkesvux till exempelvis individer som varslats om uppsäg­ning och behöver utbilda sig, skifta karriär eller kompetensutveckla sig för att få ett nytt arbete.
 
 ### Studerande får ett högre tilläggslån 2021 och 2022
 
-**Ändringar:** Studiestödslagen (1999:1395\) och förordningen (2020:201\) om studiestöd vid spridning av viss smitta
+**Ändringar:** Studiestödslagen (1999:1395) och förordningen (2020:201) om studiestöd vid spridning av viss smitta
 Beslutsunderlag: Prop. 2020/21:1 Budgetproposition för 2021
 SFS: 2020:1237–1238
 
 **Ikraftträdande:** 1 januari 2021
 
-Mot bakgrund av coronapandemin och dess effekter på arbetsmarknaden kan fler personer behöva utbilda sig för att inte hamna i längre arbetslöshet. Vuxna studerande med tidigare inkomster kan utöver de vanliga studiemedlen få ett tilläggslån från och med det år de fyller 25\. Ändringarna innebär att tilläggslånet tillfälligt höjs med cirka 1 000 kronor per studiemånad under 2021 och 2022 (till cirka 5 100 kronor 2021\). Det stärker möjligheterna för denna grupp att påbörja studier och underlättar ekonomiskt i en situation där det kan vara svårare att hitta ett arbete vid sidan om studierna.
+Mot bakgrund av coronapandemin och dess effekter på arbetsmarknaden kan fler personer behöva utbilda sig för att inte hamna i längre arbetslöshet. Vuxna studerande med tidigare inkomster kan utöver de vanliga studiemedlen få ett tilläggslån från och med det år de fyller 25. Ändringarna innebär att tilläggslånet tillfälligt höjs med cirka 1 000 kronor per studiemånad under 2021 och 2022 (till cirka 5 100 kronor 2021). Det stärker möjligheterna för denna grupp att påbörja studier och underlättar ekonomiskt i en situation där det kan vara svårare att hitta ett arbete vid sidan om studierna.
 
 ### Statliga universitet och högskolor får tillfälligt hyra ut bostäder avsedda för utbytesstudenter och gästforskare till andra studenter
 
@@ -1543,11 +1524,11 @@ Mot bakgrund av coronapandemin och dess effekter på arbetsmarknaden kan fler pe
 
 **Gäller till och med:** 31 juli 2021
 
-Den nya förordningen innebär att statliga universitet och högskolor med anledning av coronapandemin tillfälligt, och med undantag från förordningen (1993:528\) om statliga myndigheters lokalförsörjning, får hyra ut bostäder avsedda för utbytesstudenter och gästforskare till andra studenter vid högskolan.
+Den nya förordningen innebär att statliga universitet och högskolor med anledning av coronapandemin tillfälligt, och med undantag från förordningen (1993:528) om statliga myndigheters lokalförsörjning, får hyra ut bostäder avsedda för utbytesstudenter och gästforskare till andra studenter vid högskolan.
 
-### Universitets\- och högskolerådet får tillfälligt ansvar för genomförande av högskoleprovet
+### Universitets- och högskolerådet får tillfälligt ansvar för genomförande av högskoleprovet
 
-**Ändring:** Högskoleförordningen (1993:100\)
+**Ändring:** Högskoleförordningen (1993:100)
 
 **SFS:** 2020:768
 
@@ -1555,13 +1536,13 @@ Den nya förordningen innebär att statliga universitet och högskolor med anled
 
 **Gäller till och med:** 1 juli 2021
 
-Ändringarna innebär att ansvaret för genomförandet av högskoleprovet flyttas från högskolorna till Universitets\- och högskolerådet (UHR). UHR ansvarar för att minst ett prov ska genomföras på ett smittskyddssäkert sätt under varje kalenderhalvår och högskolorna ska bistå UHR vid genomförandet av provet. Ändringarna görs för att skapa bättre förutsätt­ningar för att genomföra högskoleprovet.
+Ändringarna innebär att ansvaret för genomförandet av högskoleprovet flyttas från högskolorna till Universitets- och högskolerådet (UHR). UHR ansvarar för att minst ett prov ska genomföras på ett smittskyddssäkert sätt under varje kalenderhalvår och högskolorna ska bistå UHR vid genomförandet av provet. Ändringarna görs för att skapa bättre förutsätt­ningar för att genomföra högskoleprovet.
 
-Genom förordningen (2020:769\) om ändring i högskoleförordningen, som träder i kraft den 1 juli 2021, återgår ansvaret för genomförandet av högskoleprovet till högskolor och skrivningen om minst antal prov per kalenderhalvår tas bort.
+Genom förordningen (2020:769) om ändring i högskoleförordningen, som träder i kraft den 1 juli 2021, återgår ansvaret för genomförandet av högskoleprovet till högskolor och skrivningen om minst antal prov per kalenderhalvår tas bort.
 
 ### Giltighetstiden för resultat på högskoleprovet förlängs
 
-**Ändring:** Högskoleförordningen (1993:100\)
+**Ändring:** Högskoleförordningen (1993:100)
 
 **SFS:** 2020:744
 
@@ -1571,13 +1552,13 @@ För att ge fler personer ett giltigt resultat på högskoleprovet och därmed g
 
 ### Begränsningar av antal deltagare i högskoleprovet
 
-**Ändring:** Högskoleförordningen (1993:100\)
+**Ändring:** Högskoleförordningen (1993:100)
 
 **SFS:** 2020:1022
 
 **Ikraftträdande:** 1 januari 2021
 
-Ändringarna innebär att om det genomförs fler än ett högskoleprov under ett kalenderhalvår får personer som har rätt att delta i högskoleprovet endast delta i ett av proven. Universitets\- och högskolerådet (UHR) beslutar vilket av dessa prov respektive provdeltagare får delta i.
+Ändringarna innebär att om det genomförs fler än ett högskoleprov under ett kalenderhalvår får personer som har rätt att delta i högskoleprovet endast delta i ett av proven. Universitets- och högskolerådet (UHR) beslutar vilket av dessa prov respektive provdeltagare får delta i.
 
 Om det behövs av smittskyddsskäl får UHR för ett eller flera provtillfällen också besluta om att endast den som fyller 19 år det kalenderår då provet genomförs eller är äldre, eller den som har börjat gymnasieskolan tidigare än det kalenderår då han eller hon fyller 16 år och som går vårterminen i årskurs 3 den termin provet genomförs eller har gått ut gymnasieskolan. får skriva provet.
 
@@ -1585,7 +1566,7 @@ UHR får också besluta om att endast ett visst högsta antal deltagare får skr
 
 ## Utrikesdepartementet
 
-Utrikesdepartementet ansvarar för Sveriges utrikes\-, bistånds\- och utrikeshandelspolitik.
+Utrikesdepartementet ansvarar för Sveriges utrikes-, bistånds- och utrikeshandelspolitik.
 
 ### Kontakt
 
@@ -1593,18 +1574,16 @@ Utrikesdepartementet ansvarar för Sveriges utrikes\-, bistånds\- och utrikesha
 
 Pressekreterare Klara Watmani
 
-Tfn  073\-072 59 27
+Tfn  073-072 59 27
 
 Pressekreterare Andreas Enbuske
 
-Tfn 076\-130 58 86
-
-
+Tfn 076-130 58 86
 
 **Presskontakt hos utrikeshandelsminister och minister med ansvar för nordiska frågor Anna Hallberg:**
 
 Pressekreterare Vidar Jakobínuson Lindgren
 
-Tfn  073\-840 33 12
+Tfn  073-840 33 12
 
 Till årsskiftet 2020/2021 träder inga lagar i kraft inom Utrikesdepartementets ansvarsområden.

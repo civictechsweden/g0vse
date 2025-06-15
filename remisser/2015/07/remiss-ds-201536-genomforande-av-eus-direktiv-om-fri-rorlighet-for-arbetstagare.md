@@ -2,7 +2,6 @@
 
 Här kan du ta del av de remissvar som har kommit till Arbetsmarknadsdepartementet på Ds 2015:36 Genomförande av EU:s direktiv om fri rörlighet för arbetstagare.
 
-
 **Remissinstanser:**
 
 1. Riksdagens ombudsmän (JO)
@@ -25,7 +24,7 @@ Här kan du ta del av de remissvar som har kommit till Arbetsmarknadsdepartement
 18. Statskontoret
 19. Statens skolverk
 20. Myndigheten för yrkeshögskolan
-21. Universitets\- och högskolerådet
+21. Universitets- och högskolerådet
 22. Uppsala universitet
 23. Lunds universitet
 24. Centrala studiestödsnämnden
@@ -40,7 +39,7 @@ Här kan du ta del av de remissvar som har kommit till Arbetsmarknadsdepartement
 33. Sveriges Akademikers Centralorganisation
 34. Tjänstemännens Centralorganisation
 35. Alvesta kommun
-36. Dals\-Ed kommun
+36. Dals-Ed kommun
 37. Dorotea kommun
 38. Filipstads kommun
 39. Gotlands kommun
@@ -69,4 +68,4 @@ Här kan du ta del av de remissvar som har kommit till Arbetsmarknadsdepartement
 62. Svenska institutet för europapolitiska studier
 63. Sveriges advokatsamfund
 
-Remissvaren ska ha kommit in till Arbetsmarknadsdepartementet senast den 30 september 2015\. Vi ser gärna att remissvaren även skickas i elektronisk form via e\-post till a.registrator@regeringskansliet.se i både word\- och pdf\-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck), A2015\-1903\-A, följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i promemorian. I remissvaret anges Regeringskansliets diarienummer A2015/1903/A.
+Remissvaren ska ha kommit in till Arbetsmarknadsdepartementet senast den 30 september 2015. Vi ser gärna att remissvaren även skickas i elektronisk form via e-post till a.registrator@regeringskansliet.se i både word- och pdf-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck), A2015-1903-A, följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i promemorian. I remissvaret anges Regeringskansliets diarienummer A2015/1903/A.

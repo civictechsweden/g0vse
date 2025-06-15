@@ -13,4 +13,4 @@ Utredaren ska bland annat:
 * föreslå åtgärder för att öka deltagandet i fritidshemmets utbildning, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 3 november 2022\.
+Uppdraget ska redovisas senast den 3 november 2022.

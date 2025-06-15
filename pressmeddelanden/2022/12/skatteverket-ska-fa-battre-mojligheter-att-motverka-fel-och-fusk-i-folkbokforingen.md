@@ -8,4 +8,4 @@ Analyser av stora mängder data kan vara väldigt effektivt för att upptäcka s
 
 Flera bestämmelser föreslås även som ska minska det intrång i den personliga integriteten som förslagen kan leda till.
 
-Dessa lagändringar föreslås träda i kraft den 1 maj 2023\.
+Dessa lagändringar föreslås träda i kraft den 1 maj 2023.

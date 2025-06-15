@@ -4,5 +4,5 @@ Den 18 september 2019 lämnade regeringen budgetpropositionen för 2020 till rik
 
 För beställning av Budgetpropositionen för 2020 kontakta:
 Riksdagens tryckeriexpedition, 100 12 Stockholm
-Tel: 08\-786 58 10
-E\-post: order.riksdagstryck@riksdagen.se
+Tel: 08-786 58 10
+E-post: order.riksdagstryck@riksdagen.se

@@ -8,4 +8,4 @@ Utredaren ska bland annat:
 * analysera vilket förhållande lagstiftningen ska ha till EU:s dataskyddsreglering och den kompletterande nationella lagstiftning som kommer att föreslås till följd av den, och
 * lämna förslag till ny lag och förordning samt eventuella andra behövliga och lämpliga författningsändringar.
 
-Uppdraget ska redovisas senast den 4 december 2017\.
+Uppdraget ska redovisas senast den 4 december 2017.

@@ -4,7 +4,7 @@
 
 – Nato är den yttersta garanten för europeisk och transatlantisk säkerhet. Den proposition regeringen nu lämnar till riksdagen möjliggör för Sverige att bidra till Natos avskräckning på ett trovärdigt, pålitligt och solidariskt sätt, säger försvarsminister Pål Jonson.
 
-– Det är centralt både för vår trovärdighet i Nato och för Sveriges egen säkerhet att Försvarsmakten har möjlighet att delta i sådana operationer, säger infrastruktur\- och bostadsminister Andreas Carlson.
+– Det är centralt både för vår trovärdighet i Nato och för Sveriges egen säkerhet att Försvarsmakten har möjlighet att delta i sådana operationer, säger infrastruktur- och bostadsminister Andreas Carlson.
 
 – Den proposition som vi nu presenterar omfattar ett helhetsperspektiv där de bidrag som vi nu kan förutse under 2025 samlas i en proposition, säger utrikespolitisk talesperson för Liberalerna Joar Forssell.
 
@@ -17,4 +17,4 @@ Styrkan som regeringen föreslår Sverige ska bidra med ska bestå av:
 * stridsflygplan till Natos luftrumsövervakning och incidentberedskap
 * markförband, specialförband, amfibieförband och örlogsfartyg till vissa andra fredstida säkerhetshöjande operationer och aktiviteter.
 
-Bidraget stärker möjligheten till försvaret av Sverige och Nato som helhet, och planeras att genomföras under 2025\.
+Bidraget stärker möjligheten till försvaret av Sverige och Nato som helhet, och planeras att genomföras under 2025.

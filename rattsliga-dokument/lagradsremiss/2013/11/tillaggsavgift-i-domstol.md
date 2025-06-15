@@ -4,4 +4,4 @@ Regeringen avser att genomföra en höjning av avgifterna i allmän domstol. De 
 
 I lagrådsremissen föreslås att tingsrätten ska avvisa ett mål om tilläggsavgiften inte betalas. Om målet överlämnats till tingsrätten efter en ansökan om återvinning ska samtidigt förvaltningsmyndighetens utslag eller beslut undanröjas. Vidare föreslås att tilläggsavgiften ska kunna ersättas som en rättegångskostnad och att den som beviljats rättshjälp inte ska behöva betala tilläggsavgiften.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2014\.
+Lagändringarna föreslås träda i kraft den 1 juli 2014.

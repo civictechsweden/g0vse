@@ -9,4 +9,4 @@ I en ny lag anges att marknadskontrollen, dvs. tillsynen över att förordningen
 
 I en ny förordning utses Myndigheten för samhällsskydd och beredskap, Elsäkerhetsverket och Livsmedelsverket till marknadskontrollmyndigheter. Respektive myndighet ska vara marknadskontrollmyndighet när det gäller de risker som följer med användandet av gasanordningar och som faller under myndighetens område.
 
-Författningsändringarna föreslås träda i kraft den 1 juli 2018\.
+Författningsändringarna föreslås träda i kraft den 1 juli 2018.

@@ -1,6 +1,6 @@
 # Tillträde till Unidroit-konventionen om kulturföremål som stulits eller förts ut olagligt
 
-I lagrådsremissen bedömer regeringen att riksdagen bör godkänna 1995 års Unidroit\-konvention om kulturföremål som stulits eller förts ut olagligt.
+I lagrådsremissen bedömer regeringen att riksdagen bör godkänna 1995 års Unidroit-konvention om kulturföremål som stulits eller förts ut olagligt.
 
 Vidare lämnas förslag på den lagstiftning som behövs för att Sverige ska leva upp till de åtaganden som ett tillträde till konventionen medför.
 
@@ -10,6 +10,6 @@ Svensk lagstiftning uppfyller i stor utsträckning redan de krav som ställs upp
 
 Med anledning av konventionens krav avseende kulturföremål som förts ut olagligt behöver särskilda bestämmelser tas in i svensk lagstiftning.
 
-De bestämmelser som behövs förs in i två nya kapitel i lagen (1988:950\) om kulturminnen m.m.
+De bestämmelser som behövs förs in i två nya kapitel i lagen (1988:950) om kulturminnen m.m.
 
 Lagändringarna föreslås träda i kraft den dag regeringen bestämmer.

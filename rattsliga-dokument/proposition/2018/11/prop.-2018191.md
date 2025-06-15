@@ -4,5 +4,5 @@ Budgetpropositionen innehåller regeringens förslag till statens budget för 20
 
 För beställning av Budgetpropositionen för 2019 kontakta:
 Riksdagens tryckeriexpedition, 100 12 Stockholm
-Tel: 08\-786 58 10
-E\-post: ordermottagningen@riksdagen.se
+Tel: 08-786 58 10
+E-post: ordermottagningen@riksdagen.se

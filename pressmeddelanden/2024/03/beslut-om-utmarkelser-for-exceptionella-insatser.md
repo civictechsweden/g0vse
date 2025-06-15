@@ -9,7 +9,7 @@ Utmärkelserna det har fattats beslut om idag är följande
 **Generallöjtnant Dennis Gyllensporre**  –  **Kommendör med stora korset**
 För utomordentligt ledarskap under krigsliknande förhållanden i Mali
 
-**Överste av 1\. graden Ulf Henricsson** – **Kommendör av första klassen**
+**Överste av 1. graden Ulf Henricsson** – **Kommendör av första klassen**
 För mycket föredömligt ledarskap under krigsliknande förhållanden i forna Jugoslavien
 
 ## Kungl. Nordstjärneorden
@@ -34,7 +34,7 @@ För mycket framstående insatser inom svenskt och internationellt musikliv
 **Artisten Agnetha Fältskog**– **Kommendör av första klassen**
 För mycket framstående insatser inom svenskt och internationellt musikliv
 
-**Artisten Anni\-Frid Reuss** – **Kommendör av första klassen**
+**Artisten Anni-Frid Reuss** – **Kommendör av första klassen**
 För mycket framstående insatser inom svenskt och internationellt musikliv
 
 **Artisten Björn Ulvaeus** – **Kommendör av första klassen**

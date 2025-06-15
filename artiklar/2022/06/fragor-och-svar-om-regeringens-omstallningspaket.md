@@ -1,23 +1,22 @@
 # Frågor och svar om regeringens omställningspaket
 
-Regeringens omställningspaket för långsiktigt förbättrad flexibilitet, omställningsförmåga och trygghet på arbetsmarknaden har sin grund i ett förslag från fack och arbetsgivare på den privata arbetsmarknaden. Det handlar om en reformerad arbetsrätt, ett nytt omställningsstudiestöd och ett nytt grundläggande omställnings\- och kompetensstöd. Här kan du ta del av frågor och svar om de olika delarna.
-
+Regeringens omställningspaket för långsiktigt förbättrad flexibilitet, omställningsförmåga och trygghet på arbetsmarknaden har sin grund i ett förslag från fack och arbetsgivare på den privata arbetsmarknaden. Det handlar om en reformerad arbetsrätt, ett nytt omställningsstudiestöd och ett nytt grundläggande omställnings- och kompetensstöd. Här kan du ta del av frågor och svar om de olika delarna.
 
 ### Vad innebär dessa förändringar för dem som jobbar?
 
-Förbättrade möjligheter att studera och ställa om under ett arbetsliv med ett omställningsstudiestöd som för de allra flesta kommer uppgå till minst 80 procent av lönen. Anställda och arbetstagare som är mellan anställningar eller där anställningen är på väg att upphöra kommer få ökat stöd för att underlätta omställningen till ett nytt arbete genom ett omställnings\- och kompetensstöd. Balansen i arbetsvillkor mellan olika anställningsformer förbättras och anställda får mer trygghet kring bl.a. sina arbetstidsmått och anställningsformer. Möjligheterna att få jobb stärks genom ökad flexibilitet.
+Förbättrade möjligheter att studera och ställa om under ett arbetsliv med ett omställningsstudiestöd som för de allra flesta kommer uppgå till minst 80 procent av lönen. Anställda och arbetstagare som är mellan anställningar eller där anställningen är på väg att upphöra kommer få ökat stöd för att underlätta omställningen till ett nytt arbete genom ett omställnings- och kompetensstöd. Balansen i arbetsvillkor mellan olika anställningsformer förbättras och anställda får mer trygghet kring bl.a. sina arbetstidsmått och anställningsformer. Möjligheterna att få jobb stärks genom ökad flexibilitet.
 
 ### Vad innebär dessa förändringar för arbetsgivare?
 
-Arbetsgivare får mer förutsägbarhet och flexibilitet i olika steg i uppsägningsprocessen och en utökad möjlighet till undantag från turordningsreglerna vid arbetsbrist. Genom minskade risker för stora oförutsedda kostnader kan fler arbetsgivare våga anställa personer utan arbetslivserfarenhet. Det innebär också att arbetsgivare får bättre möjligheter att våga växa och lättare att anpassa kompetensen efter verksamhetens behov. Det införs en statlig ersättning till arbetsgivare som finansierar registrerade omställningsorganisationer som tillhandahåller grundläggande omställnings\- och kompetensstöd som väsentligen motsvarar det nya offentliga grundläggande omställnings\- och kompetensstödet.
+Arbetsgivare får mer förutsägbarhet och flexibilitet i olika steg i uppsägningsprocessen och en utökad möjlighet till undantag från turordningsreglerna vid arbetsbrist. Genom minskade risker för stora oförutsedda kostnader kan fler arbetsgivare våga anställa personer utan arbetslivserfarenhet. Det innebär också att arbetsgivare får bättre möjligheter att våga växa och lättare att anpassa kompetensen efter verksamhetens behov. Det införs en statlig ersättning till arbetsgivare som finansierar registrerade omställningsorganisationer som tillhandahåller grundläggande omställnings- och kompetensstöd som väsentligen motsvarar det nya offentliga grundläggande omställnings- och kompetensstödet.
 
 ### När kommer reformen träda ikraft och börja tillämpas?
 
-Omställningsstudiestödet trädde ikraft 30 juni 2022 och tillämpas för studier efter den 31 december 2022\. CSN tar emot ansökningar från och med den 1 oktober 2022\.
+Omställningsstudiestödet trädde ikraft 30 juni 2022 och tillämpas för studier efter den 31 december 2022. CSN tar emot ansökningar från och med den 1 oktober 2022.
 
-Ny lag om grundläggande omställnings\- och kompetensstöd trädde i kraft den 30 juni 2022\. Den nya offentliga omställningsorganisationen inledde sin verksamhet 1 oktober 2022\.
+Ny lag om grundläggande omställnings- och kompetensstöd trädde i kraft den 30 juni 2022. Den nya offentliga omställningsorganisationen inledde sin verksamhet 1 oktober 2022.
 
-Lagändringarna som gäller arbetsrätten trädde ikraft 30 juni 2022\. De nya reglerna tillämpas från den 1 oktober 2022\.
+Lagändringarna som gäller arbetsrätten trädde ikraft 30 juni 2022. De nya reglerna tillämpas från den 1 oktober 2022.
 
 ---
 
@@ -35,7 +34,7 @@ Reformen stärker arbetsgivares flexibilitet och konkurrenskraft. Arbetsgivare f
 
 ### När ska förändringarna genomföras?
 
-Lagändringarna som gäller arbetsrätten trädde ikraft 30 juni 2022 och tillämpas från den 1 oktober 2022\.
+Lagändringarna som gäller arbetsrätten trädde ikraft 30 juni 2022 och tillämpas från den 1 oktober 2022.
 
 ### Hur förändras turordningsreglerna?
 
@@ -71,15 +70,15 @@ Kundföretag som haft en inhyrd arbetstagare hos sig i mer än 24 månader, unde
 
 ---
 
-## Frågor om grundläggande omställnings\- och kompetensstöd
+## Frågor om grundläggande omställnings- och kompetensstöd
 
-### Vem omfattas av det nya grundläggande omställnings\- och kompetensstödet?
+### Vem omfattas av det nya grundläggande omställnings- och kompetensstödet?
 
-För att fler ska omfattas av stöd inrättas ett nytt offentligt grundläggande omställnings\- och kompetensstöd för arbetstagare som inte omfattas av kollektivavtal. För att kvalificera sig för det nya stödet behöver man bl.a. ha jobbat i genomsnitt minst 16 timmar per vecka under varje kalendermånad under minst tolv månader inom en ramtid på 24 månader före ansökan om stöd.
+För att fler ska omfattas av stöd inrättas ett nytt offentligt grundläggande omställnings- och kompetensstöd för arbetstagare som inte omfattas av kollektivavtal. För att kvalificera sig för det nya stödet behöver man bl.a. ha jobbat i genomsnitt minst 16 timmar per vecka under varje kalendermånad under minst tolv månader inom en ramtid på 24 månader före ansökan om stöd.
 
 ### När ska omställningssystemet vara på plats?
 
-Den nya offentliga omställningsorganisationen inledde sin verksamhet den 1 oktober 2022\.
+Den nya offentliga omställningsorganisationen inledde sin verksamhet den 1 oktober 2022.
 
 ### Kan jag ta del av stödet om jag redan omfattas av ett kollektivavtal?
 
@@ -87,7 +86,7 @@ De som omfattas av kollektivavtal har i dag generellt sett möjlighet att genom 
 
 ### Gäller stödet även för mig som jobbar inom statlig sektor, kommun och region?
 
-Huruvida omställningsorganisationer som representerar olika branscher väljer att ansöka om att bli registrerade omställningsorganisationer är en fråga för deras huvudmän d.v.s. parterna. Parterna kommer fortsatt få ta ansvar för att avtala om branschanpassade lösningar, inkluderat grundläggande omställnings\- och kompetensstöd och tilläggstjänster så som omställningsförsäkring. Parterna anpassar sina avtal så att de nya möjligheterna i omställningsstödet även kommer deras medlemmar till del.
+Huruvida omställningsorganisationer som representerar olika branscher väljer att ansöka om att bli registrerade omställningsorganisationer är en fråga för deras huvudmän d.v.s. parterna. Parterna kommer fortsatt få ta ansvar för att avtala om branschanpassade lösningar, inkluderat grundläggande omställnings- och kompetensstöd och tilläggstjänster så som omställningsförsäkring. Parterna anpassar sina avtal så att de nya möjligheterna i omställningsstödet även kommer deras medlemmar till del.
 
 ### Kommer anställda utan kollektivavtal kunna få bättre omställningsstöd än företag med kollektivavtal?
 
@@ -111,15 +110,15 @@ Omställnings­­­studiestöd är ett nytt studiestöd som kommer att kunna lä
 
 ### Hur ansöker man om stödet?
 
-Man ansöker om stödet hos CSN. Det kommer att vara möjligt att få stöd från och med den 1 januari 2023\. Det går att lämna in sin ansökan till CSN innan dess, från och med den 1 oktober 2022\.
+Man ansöker om stödet hos CSN. Det kommer att vara möjligt att få stöd från och med den 1 januari 2023. Det går att lämna in sin ansökan till CSN innan dess, från och med den 1 oktober 2022.
 
 ### Om man blir arbetslös nu och vill studera redan i höst, kan stödet ges retroaktivt för studier som inleds före 2023?
 
-Nej, stödet lämnas för studier på en utbildning som påbörjas efter den 31 december 2022\. Om man redan har påbörjat en längre utbildning som är 80 veckor på heltid eller motsvarande antal veckor på deltid eller längre kommer man dock att kunna få omställningsstudiestöd från och med den 1 januari 2023, även om utbildningen har påbörjats dessförinnan.
+Nej, stödet lämnas för studier på en utbildning som påbörjas efter den 31 december 2022. Om man redan har påbörjat en längre utbildning som är 80 veckor på heltid eller motsvarande antal veckor på deltid eller längre kommer man dock att kunna få omställningsstudiestöd från och med den 1 januari 2023, även om utbildningen har påbörjats dessförinnan.
 
 ### Hur mycket kan man få?
 
-De allra flesta som får omställningsstudiestöd kommer att med både bidrag och lån kunna få en summa som motsvarar minst 80 procent av deras lön. Hur mycket den studerande kan få i bidrag beror, precis som för den som har a\-kassa eller sjukpenning, på vad den studerande tjänade när den jobbade.
+De allra flesta som får omställningsstudiestöd kommer att med både bidrag och lån kunna få en summa som motsvarar minst 80 procent av deras lön. Hur mycket den studerande kan få i bidrag beror, precis som för den som har a-kassa eller sjukpenning, på vad den studerande tjänade när den jobbade.
 
 ### Finns det något tak för hur mycket jag kan få i stöd?
 
@@ -139,7 +138,7 @@ Det kommer att vara möjligt att få omställningsstudiestöd för att läsa så
 
 ### Hur vet jag vilka utbildningar som stärker min ställning på arbetsmarknaden?
 
-Den som arbetar hos en arbetsgivare som är bunden av ett kollektivavtal kommer ofta att kunna få ett yttrande från en omställningsorganisation som visar hur en viss utbildning stärker ställningen på arbetsmarknaden. Den som arbetar hos en arbetsgivare utan kollektivavtal kommer att kunna få ett yttrande av Kammarkollegiet. CSN kommer att i ansökningsprocessesen efterfråga ett yttrande från antingen din registrerade omställningsorganisation eller Kammarkollegiet, men innan man ansöker kan det vara bra att ta kontakt med sin omställningsorganisation för vägledning och stöd inför ansökan.
+Den som arbetar hos en arbetsgivare som är bunden av ett kollektivavtal kommer ofta att kunna få ett yttrande från en omställningsorganisation som visar hur en viss utbildning stärker ställningen på arbetsmarknaden. Den som arbetar hos en arbetsgivare utan kollektivavtal kommer att kunna få ett yttrande av Kammarkollegiet. CSN kommer att i ansökningsprocessen efterfråga ett yttrande från antingen din registrerade omställningsorganisation eller Kammarkollegiet, men innan man ansöker kan det vara bra att ta kontakt med sin omställningsorganisation för vägledning och stöd inför ansökan.
 
 ### Kan man få omställningsstudiestöd samtidigt som man får andra ersättningar?
 

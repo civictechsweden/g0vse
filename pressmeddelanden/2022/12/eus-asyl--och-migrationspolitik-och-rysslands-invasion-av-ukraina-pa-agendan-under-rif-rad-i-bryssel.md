@@ -1,6 +1,6 @@
 # EU:s asyl- och migrationspolitik och Rysslands invasion av Ukraina på agendan under RIF-råd i Bryssel
 
-Under torsdagen den 8 december avhandlas inrikes frågor. Då fortsätter diskus­sionen om situa­tionen längs de huvud­sakliga migrations­rutterna till EU. Frågan var i fokus på det extra­insatta RIF\-rådet den 25 november där migrations­minister Maria Malmer Stenergard deltog. Ministrarna kommer att informeras om hur det pågå­ende arbetet med EU:s asyl\- och migrations­politik går.
+Under torsdagen den 8 december avhandlas inrikes frågor. Då fortsätter diskus­sionen om situa­tionen längs de huvud­sakliga migrations­rutterna till EU. Frågan var i fokus på det extra­insatta RIF-rådet den 25 november där migrations­minister Maria Malmer Stenergard deltog. Ministrarna kommer att informeras om hur det pågå­ende arbetet med EU:s asyl- och migrations­politik går.
 
 Rysslands invasion av Ukraina står också på dag­ordningen. Ministrarna ska bland annat disku­tera situationen för ukrainska flyktingar inom EU och hur bered­skaps­planeringen ser ut för vintern. Frågan om Schengens utvidg­ning kommer också att diskuteras.
 

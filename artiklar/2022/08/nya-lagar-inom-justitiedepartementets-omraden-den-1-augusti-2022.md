@@ -1,7 +1,6 @@
 # Nya lagar inom Justitiedepartementets områden den 1 augusti 2022
 
-Under året har regeringen föreslagit ett flertal lagändringar inom Justitiedepartementets ansvarsområden. Förslagen har behandlats i riksdagen och träder i kraft vid halvårsskiftet 2022\. Ett urval av dem presenteras här.
-
+Under året har regeringen föreslagit ett flertal lagändringar inom Justitiedepartementets ansvarsområden. Förslagen har behandlats i riksdagen och träder i kraft vid halvårsskiftet 2022. Ett urval av dem presenteras här.
 
 ## Skärpt syn på våldtäkt och andra sexuella kränkningar
 
@@ -39,20 +38,20 @@ SFS: 2022:1015–1017
 
 ## Förbättrade förutsättningar för ett europeiskt samarbete om gränsförvaltning
 
-EU:s nya gräns\- och kustbevakningsförordning innebär förbättrade förutsättningar för ett utökat samarbete om gränsförvaltning inom Schengenområdet. För att EU\-förordningen ska kunna tillämpas och få fullt genomslag i Sverige krävs vissa kompletterande nationella bestämmelser i lag och förordning.
+EU:s nya gräns- och kustbevakningsförordning innebär förbättrade förutsättningar för ett utökat samarbete om gränsförvaltning inom Schengenområdet. För att EU-förordningen ska kunna tillämpas och få fullt genomslag i Sverige krävs vissa kompletterande nationella bestämmelser i lag och förordning.
 
-Den nya lagen reglerar vad som ska gälla vid de tillfällen då utländska tjänstemän kan komma att tjänstgöra i Sverige med Europeiska gräns\- och kustbevakningsbyrån. Den nya förordningen innebär bland annat att Polismyndigheten, Kustbevakningen, Tullverket, Kriminalvården och Migrationsverket pekas ut som ansvariga för Sveriges åligganden enligt EU\-förordningen.
+Den nya lagen reglerar vad som ska gälla vid de tillfällen då utländska tjänstemän kan komma att tjänstgöra i Sverige med Europeiska gräns- och kustbevakningsbyrån. Den nya förordningen innebär bland annat att Polismyndigheten, Kustbevakningen, Tullverket, Kriminalvården och Migrationsverket pekas ut som ansvariga för Sveriges åligganden enligt EU-förordningen.
 
 SFS: 2022:1057–1070 m.fl.
-[Prop. 2021/22:227 Kompletteringar till EU:s nya gräns\- och kustbevakningsförordning och förtydliganden i regler om unga lagöverträdare](/rattsliga-dokument/proposition/2022/04/prop.-202122227 "Prop. 2021/22:227 Kompletteringar till EU:s nya gräns- och kustbevakningsförordning och förtydliganden i regler om unga lagöverträdare")
+[Prop. 2021/22:227 Kompletteringar till EU:s nya gräns- och kustbevakningsförordning och förtydliganden i regler om unga lagöverträdare](/rattsliga-dokument/proposition/2022/04/prop.-202122227 "Prop. 2021/22:227 Kompletteringar till EU:s nya gräns- och kustbevakningsförordning och förtydliganden i regler om unga lagöverträdare")
 
-## Enskilda får rätt till grundlagsskadestånd vid överträdelser av grundläggande fri\- och rättigheter enligt regeringsformen
+## Enskilda får rätt till grundlagsskadestånd vid överträdelser av grundläggande fri- och rättigheter enligt regeringsformen
 
-Staten eller en kommun ska ersätta både ekonomisk och icke\-ekonomisk skada som drabbar en enskild på grund av att det allmänna överträtt någon av dennes grundläggande fri\- och rättigheter i 2 kap. regeringsformen.
+Staten eller en kommun ska ersätta både ekonomisk och icke-ekonomisk skada som drabbar en enskild på grund av att det allmänna överträtt någon av dennes grundläggande fri- och rättigheter i 2 kap. regeringsformen.
 
 För att det allmänna ska bli skyldigt att betala krävs att det är nödvändigt att betala skadestånd för att gottgöra den enskilde för överträdelsen. Det innebär bland annat att den enskilde i första hand ska använda sig av andra sätt än grundlagsskadestånd för att komma till rätta med en överträdelse, till exempel genom att överklaga ett oriktigt beslut.
 
-Bestämmelsen syftar till att främja skyddet för fri\- och rättigheterna i regeringsformen, som lyfts fram i rättstillämpningen och framträder tydligare i relation till Europakonventionen.
+Bestämmelsen syftar till att främja skyddet för fri- och rättigheterna i regeringsformen, som lyfts fram i rättstillämpningen och framträder tydligare i relation till Europakonventionen.
 
 SFS: 2022:1368
 [Prop. 2021/22:229 Grundlagsskadestånd – ett rättighetsskydd för enskilda](/rattsliga-dokument/proposition/2022/04/prop.-202122229 "Prop. 2021/22:229 Grundlagsskadestånd – ett rättighetsskydd för enskilda")
@@ -61,16 +60,16 @@ SFS: 2022:1368
 
 Det införs en ny föräldraskapspresumtion i internationella situationer. Enligt presumtionen ska en kvinna som är eller har varit gift med barnets mor på vissa villkor automatiskt anses som barnets förälder i Sverige. Det gäller i första hand om föräldraskapet följer av lagen i det land där barnet vid födelsen fick sin hemvist.
 
-Ändringarna innebär vidare att utländska domstolsavgöranden om och fastställelser av föräldraskap för en kvinna som är eller har varit gift eller sambo med barnets mor under vissa förutsättningar ska erkännas i Sverige. Det införs också flera internationellt privat\- och processrättsliga regler om föräldraskap för en kvinna som är eller har varit gift eller sambo med barnets mor.
+Ändringarna innebär vidare att utländska domstolsavgöranden om och fastställelser av föräldraskap för en kvinna som är eller har varit gift eller sambo med barnets mor under vissa förutsättningar ska erkännas i Sverige. Det införs också flera internationellt privat- och processrättsliga regler om föräldraskap för en kvinna som är eller har varit gift eller sambo med barnets mor.
 
 SFS: 2022:1322–1327
 [Prop. 2021/22:188 Jämlika regler om föräldraskap i internationella situationer](/rattsliga-dokument/proposition/2022/03/prop.-202122188 "Prop. 2021/22:188 Jämlika regler om föräldraskap i internationella situationer")
 
 ## Stärkt skydd för barn i internationella familjemål
 
-Genom EU:s nya Bryssel II\-förordning och de kompletterande regler som nu införs kommer det att gå snabbare och enklare att verkställa avgöranden om föräldraansvar inom EU. Barnets rätt att komma till tals tydliggörs. Dessutom utvecklas informationsutbytet mellan medlemsstaterna, vilket förbättrar beslutsunderlagen och underlättar domstolarnas och myndigheternas handläggning.
+Genom EU:s nya Bryssel II-förordning och de kompletterande regler som nu införs kommer det att gå snabbare och enklare att verkställa avgöranden om föräldraansvar inom EU. Barnets rätt att komma till tals tydliggörs. Dessutom utvecklas informationsutbytet mellan medlemsstaterna, vilket förbättrar beslutsunderlagen och underlättar domstolarnas och myndigheternas handläggning.
 
-Den nya Bryssel II\-förordningen börjar tillämpas den 1 augusti 2022\. Förordningen gäller frågor om äktenskapsskillnad, föräldraansvar och internationella bortföranden av barn. Den innehåller regler om vilken medlemsstats domstol som kan pröva en tvist och om erkännande och verkställighet av avgöranden i EU. Syftet med den nya EU\-förordningen och de kompletterande bestämmelserna är att stärka barns och föräldrars rättssäkerhet.
+Den nya Bryssel II-förordningen börjar tillämpas den 1 augusti 2022. Förordningen gäller frågor om äktenskapsskillnad, föräldraansvar och internationella bortföranden av barn. Den innehåller regler om vilken medlemsstats domstol som kan pröva en tvist och om erkännande och verkställighet av avgöranden i EU. Syftet med den nya EU-förordningen och de kompletterande bestämmelserna är att stärka barns och föräldrars rättssäkerhet.
 
 SFS: 2022:948–963
 [Prop. 2021/22:189 Ökad rättssäkerhet och snabbare verkställighet i internationella familjemål](/rattsliga-dokument/proposition/2022/03/prop.-202122189 "Prop. 2021/22:189 Ökad rättssäkerhet och snabbare verkställighet i internationella familjemål")

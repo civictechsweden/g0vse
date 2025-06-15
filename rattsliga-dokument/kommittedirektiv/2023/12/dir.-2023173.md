@@ -7,8 +7,8 @@ Utredaren ska bl.a.
 * lämna förslag som stärker betydelsen av faktakunskaper och andra grundläggande ämneskunskaper,
 * lämna förslag på hur progressionen mellan årskurser bättre kan anpassas efter barns kognitiva utveckling,
 * lämna förslag på hur läroplanerna bättre kan anpassas till olika elevgruppers kognitiva förutsättningar att nå betygskriterierna, särskilt för betyget E,
-* lämna förslag på hur de praktiskt\-estetiska ämnena ska inriktas på praktiska färdigheter och förmågor i relation till teoretiska kunskaper,
-* lämna förslag på hur de inledande delarna (del 1 och 2\) i läroplanerna bör ändras, och
+* lämna förslag på hur de praktiskt-estetiska ämnena ska inriktas på praktiska färdigheter och förmågor i relation till teoretiska kunskaper,
+* lämna förslag på hur de inledande delarna (del 1 och 2) i läroplanerna bör ändras, och
 * lämna nödvändiga författningsförslag, eller förslag på principer, riktlinjer och exempel som kan ligga till grund för fortsatt författningsarbete.
 
-Uppdraget ska redovisas senast den 28 februari 2025\.
+Uppdraget ska redovisas senast den 28 februari 2025.

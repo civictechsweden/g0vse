@@ -8,4 +8,4 @@ Ett företag som ingår ett avtal som gäller den tekniska driften av en transmi
 
 I propositionen föreslås även ändringar i lagen om beredskapslagring av olja för att genomföra kommissionens genomförandedirektiv (EU) 2018/1581 av den 19 oktober 2018 om ändring av rådets direktiv 2009/119/EG vad avser metoderna för beräkning av lagringsskyldigheter. Ändringarna avser dels ett lagringsårs förläggning, dels hänvisningar till Europaparlamentets och rådets förordning (EG) nr 1099/2008 av den 22 oktober 2008 om energistatistik.
 
-Ändringarna i både naturgaslagen och lagen om beredskapslagring av olja föreslås träda i kraft den 1 januari 2020\.
+Ändringarna i både naturgaslagen och lagen om beredskapslagring av olja föreslås träda i kraft den 1 januari 2020.

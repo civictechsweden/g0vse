@@ -2,7 +2,6 @@
 
 Torkan och värmen har under sommaren drabbat alla län i Sverige. Därför sammankallade landsbygdsministerns statssekreterare Elisabeth Backteman på onsdagen Sveriges landshövdingar för att informera sig om hur arbetet med konsekvenserna av torkan och skogsbränderna fortskrider inom länen och på länsstyrelserna. Med på mötet var även Christina Nordin, generaldirektör på Jordbruksverket och Magnus Viklund, tillförordnad avdelningschef på Skogsstyrelsen.
 
-
 Elisabeth Backteman informerade om regeringens insatser, bland annat det krispaket till Sveriges lantbrukare på drygt 1,2 miljarder kronor som regeringen presenterade i förra veckan. Christina Nordin och Magnus Viklund berättade också inledningsvis om läget för jordbruket respektive skogsbruket i landet som helhet och hur arbetet fortgår på respektive myndighet.
 
 ## Torkan har påverkat lantbrukare i hela landet

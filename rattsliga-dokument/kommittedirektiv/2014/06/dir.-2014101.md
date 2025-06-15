@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * föreslå de förändringar som bedöms lämpliga för att stärka skyddet för den personliga integriteten i förhållande till reglerna om lagring av uppgifter enligt 6 kap. 16 a–f §§ lagen om elektronisk kommunikation, samt övriga bestämmelser om tillgång till och behandling av sådana uppgifter, och
 * lämna förslag på de författningsändringar eller andra förändringar som behövs.
 
-Uppdraget ska redovisas senast den 31 mars 2015\.
+Uppdraget ska redovisas senast den 31 mars 2015.

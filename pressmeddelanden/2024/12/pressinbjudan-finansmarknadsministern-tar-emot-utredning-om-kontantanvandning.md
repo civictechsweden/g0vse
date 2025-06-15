@@ -1,3 +1,3 @@
-# Pressinbjudan: Finansmarknadsministern tar emot utredning om kontantanvändning
+# Finansmarknadsministern tar emot utredning om kontantanvändning
 
 

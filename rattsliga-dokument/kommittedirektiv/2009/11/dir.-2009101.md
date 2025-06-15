@@ -8,4 +8,4 @@ Utredaren ska
 * lämna förslag om hur måluppfyllelsen kan mätas, och
 * undersöka förutsättningarna att erbjuda samhällsorientering till andra nyanlända än dem som omfattas av den föreslagna lagen om etableringsinsatser för vissa nyanlända invandrare.
 
-Utredarens förslag i den del som avser regleringen av samhällsorienteringen för de nyanlända invandrare som omfattas av den föreslagna lagen om etableringsinsatser för vissa nyanlända ska redovisas senast den 1 mars 2010\. Ett slutbetänkande ska redovisas senast den 17 maj 2010\.
+Utredarens förslag i den del som avser regleringen av samhällsorienteringen för de nyanlända invandrare som omfattas av den föreslagna lagen om etableringsinsatser för vissa nyanlända ska redovisas senast den 1 mars 2010. Ett slutbetänkande ska redovisas senast den 17 maj 2010.

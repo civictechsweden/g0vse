@@ -8,4 +8,4 @@ I propositionen föreslås att bestämmelsen om kompetens som Europaläkare i pa
 
 När författningsändringarna har trätt i kraft kommer regeringen att till kommissionen anmäla en ny svensk titel för allmänpraktiserande läkare. Den nya titeln föreslås bli specialist i allmänmedicin.
 
-Författningsändringar föreslås träda i kraft den 1 juli 2012\.
+Författningsändringar föreslås träda i kraft den 1 juli 2012.

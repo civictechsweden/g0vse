@@ -6,4 +6,4 @@ De ekonomiska konsekvenserna av förslagen ska beräknas och redovisas. Om förs
 
 Vid genomförandet av uppdraget ska myndigheterna samråda med Statskontoret och övriga berörda myndigheter samt civila samhällets organisationer, bland annat Brottsofferjouren.
 
-Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 30 november 2015\.
+Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 30 november 2015.

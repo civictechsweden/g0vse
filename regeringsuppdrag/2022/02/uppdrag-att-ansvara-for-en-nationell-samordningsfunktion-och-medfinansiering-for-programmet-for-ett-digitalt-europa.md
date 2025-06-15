@@ -1,7 +1,6 @@
 # Uppdrag att ansvara för en nationell samordningsfunktion och medfinansiering för programmet för ett digitalt Europa
 
-Regeringen ger Myndigheten för digital förvaltning (Digg) i uppdrag att ansvara för en nationell samordningsfunktion för programmet för ett digitalt Europa för perioden 2022–2027\.
-
+Regeringen ger Myndigheten för digital förvaltning (Digg) i uppdrag att ansvara för en nationell samordningsfunktion för programmet för ett digitalt Europa för perioden 2022–2027.
 
 Digg har till uppgift att vara nationellt kontaktorgan för programmet. Digg ska inom ramen för denna uppgift leda och ansvara för att följa upp arbetet samt löpande informera Regeringskansliet (Infrastrukturdepartementet) om hur arbetet fortskrider. Digg ska vidare redovisa förslag på prioriteringar för det svenska deltagandet i programmet för perioden 2023–2027 och en plan för fortsatt hantering av medfinansieringsmedlen. Prioriteringarna för nästkommande år ska rapporteras in senast den 31 oktober årligen.
 

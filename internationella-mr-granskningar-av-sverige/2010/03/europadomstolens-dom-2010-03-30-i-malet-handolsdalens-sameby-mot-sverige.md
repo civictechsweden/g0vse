@@ -2,7 +2,6 @@
 
 Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.
 
-
 ## Sammanfattning av domen
 
 En tvist mellan ett flertal samebyar och fastighetsägare i Härjedalen om rätt att bedriva renbete tog över 13 år i tre domstolsinstanser och utmynnade i att samebyarna inte hade rätt till renbete på fastighetsägarnas mark utan giltigt avtal. Samebyarna fick därmed betala fastighetsägarnas rättegångskostnader på omkring sju miljoner kronor. Målet inför Europadomstolen rörde frågorna om Sverige kränkt samebyarnas rätt till skydd för egendom (artikel 1 i första tilläggsprotokollet till Europakonventionen) samt deras rätt till en rättvis rättegång och till ett effektivt rättsmedel (artiklarna 6 och 13 i Europakonventionen).

@@ -2,7 +2,6 @@
 
 Att öka tryggheten i Sverige och bekämpa kriminaliteten är en prioriterad fråga för regeringen. En viktig del i detta är det brottsförebyggande arbetet som behöver ske på bred front och i samverkan med kommuner och mellan myndigheter. Här kan du ta del av insatser inom Arbetsmarknadsdepartementets områden: integration, jämställdhet, utanförskap, arbetsmarknad och arbetsliv.
 
-
 ## Insatser för att förebygga och bekämpa kriminalitet
 
 Regeringen vill göra en treårig satsning på förebyggande insatser mot gängkriminalitet. För 2024 avsätts 80 miljoner kronor och för 2025 respektive 2026 beräknas 150 miljoner kronor per år. Satsningen görs i form av statsbidrag till kommuner för att förstärka det brottsförebyggande arbetet inom exempelvis socialtjänsten.
@@ -21,7 +20,7 @@ När det gäller brottsförebyggande arbete finns det i Arbetsförmedlingens ins
 
 [Myndighetsgemensam satsning mot organiserad brottslighet (på Polismyndighetens hemsida)](https://polisen.se/om-polisen/polisens-arbete/organiserad-brottslighet/myndighetsgemensam-satsning-mot-organiserad-brottslighet/)
 
-Arbetsförmedlingen ska samverka med Kriminalvården i syfte att stärka möjligheterna att få och behålla ett arbete för arbetssökande som verkställer en påföljd i Kriminalvården. En mindre del av denna samverkan utgörs också av Krami\-verksamheten, där också enskilda kommuner ingår som tredje part. Krami är en samverkan mellan Kriminalvården, Arbetsförmedlingen och kommuner och riktar sig till personer med en bakgrund från kriminella sammanhang som är redo för en förändring. Krami erbjuder arbetsmarknadsinsatser för personer från 18 år som har behov av extra stöd för att få en sysselsättning eller börja studera. Arbetsförmedlingen kan bevilja subventionerad anställning till personer på anstalt på väg ut i arbetslivet.
+Arbetsförmedlingen ska samverka med Kriminalvården i syfte att stärka möjligheterna att få och behålla ett arbete för arbetssökande som verkställer en påföljd i Kriminalvården. En mindre del av denna samverkan utgörs också av Krami-verksamheten, där också enskilda kommuner ingår som tredje part. Krami är en samverkan mellan Kriminalvården, Arbetsförmedlingen och kommuner och riktar sig till personer med en bakgrund från kriminella sammanhang som är redo för en förändring. Krami erbjuder arbetsmarknadsinsatser för personer från 18 år som har behov av extra stöd för att få en sysselsättning eller börja studera. Arbetsförmedlingen kan bevilja subventionerad anställning till personer på anstalt på väg ut i arbetslivet.
 
 ## Stopp för brott och fusk i välfärdssystemen
 
@@ -63,7 +62,7 @@ För att öka kvinnors och flickors deltagande i den demokratiska processen och 
 
 ## Arbetet mot hedersrelaterat våld och förtryck våld växlas upp
 
-Könsrelaterat våld och hedersrelaterat våld och förtryck är stora samhällsproblem som kränker och begränsar grundläggande fri\- och rättigheter. Varje år utsätts tusentals flickor och kvinnor för trakasserier, våld och sexualbrott vilket orsakar stort lidande. Det är viktigt att alla som utsätts för sexuellt våld får rätt stöd och skydd, även pojkar, män och hbtqi\-personer.
+Könsrelaterat våld och hedersrelaterat våld och förtryck är stora samhällsproblem som kränker och begränsar grundläggande fri- och rättigheter. Varje år utsätts tusentals flickor och kvinnor för trakasserier, våld och sexualbrott vilket orsakar stort lidande. Det är viktigt att alla som utsätts för sexuellt våld får rätt stöd och skydd, även pojkar, män och hbtqi-personer.
 
 Sedan 2022 finns ett nationellt våldsförebyggande program inom området mäns våld mot kvinnor. Det förstärker såväl det tidiga våldsförebyggande arbetet som insatser gentemot dem som har förhöjd risk att utöva våld samt gentemot dem som har utsatt en närstående för våld.
 

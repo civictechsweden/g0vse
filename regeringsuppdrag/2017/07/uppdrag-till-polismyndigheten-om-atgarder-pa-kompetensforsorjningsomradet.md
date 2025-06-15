@@ -2,7 +2,6 @@
 
 Regeringen ger Polismyndigheten i uppdrag att vidta ett antal åtgärder som rör kompetensförsörjning och polisutbildningen.
 
-
 Regeringen ger Polismyndigheten i uppdrag att vidta följande åtgärder.
 
 **Kompetensförsörjningsplan**Polismyndigheten ska ta fram en strategisk och långsiktig plan för att säkerställa att rätt kompetens finns att tillgå i verksamheten. Av planen ska framgå vilka kompetensförsörjningsbehov som finns på kort och lång sikt. Det ska också framgå hur nya resurser till myndigheten kommer att användas för att bidra till största möjliga nytta och effektivitet i verksamheten och därigenom också till de kriminalpolitiska målen att brottsligheten ska minska och tryggheten ska öka.
@@ -17,8 +16,8 @@ Regeringen ger Polismyndigheten i uppdrag att vidta följande åtgärder.
 
 ## Redovisning av uppdraget
 
-Den del som avser ökad kapacitet i antagningsprocessen ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 15 november 2017\. I övrigt ska uppdraget redovisas till Regeringskansliet (Justitiedepartementet) senast den 23 maj 2018\.
+Den del som avser ökad kapacitet i antagningsprocessen ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 15 november 2017. I övrigt ska uppdraget redovisas till Regeringskansliet (Justitiedepartementet) senast den 23 maj 2018.
 
-Uppdraget slutredovisades den 22 maj 2018\.
+Uppdraget slutredovisades den 22 maj 2018.
 
 [Redovisningens missiv och bilagor (pdf)](/contentassets/9111427d540a48af91ee934fd6ca937a/polismyndighetens-redovisning-av-regeringsuppdrag-om-atgarder-pa-kompetensforsorjningsomradet-missiv-och-bilagor/)

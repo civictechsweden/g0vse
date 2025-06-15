@@ -6,6 +6,6 @@ I strategin lyfts även behovet av ett förstärkt internationellt arbete mot or
 
 Vid mötet deltar, utöver de sex fasta medlemmarna, finansminister Elisabeth Svantesson och även Kriminalvården.
 
-Dagens möte blir det elfte i ordningen sedan rådet inrättades i december 2022\.
+Dagens möte blir det elfte i ordningen sedan rådet inrättades i december 2022.
 
 För mer information om mötet och möjlighet till intervju, kontakta pressekreterare.

@@ -4,4 +4,4 @@ Regeringen föreslår att det införs ett mer flexi­belt sätt att ändra andel
 
 Förslaget utökar sam­fällig­hets­före­ningarnas själv­bestäm­mande. Det blir i många fall både enklare och billi­gare för en före­ning att få andels­talen ändrade jämfört med vad som är fallet i dag. Det minskar risken för att före­ningarna avstår från att ändra andels­talen trots att förhål­landena kräver det.
 
-De nya reglerna föreslås träda i kraft den 1 juli 2022\.
+De nya reglerna föreslås träda i kraft den 1 juli 2022.

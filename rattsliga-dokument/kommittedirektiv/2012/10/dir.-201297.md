@@ -10,4 +10,4 @@ Utredaren ska:
 * redovisa en översikt över relevant forskning om mäns livssituation, förhållningssätt till jämställdhet och ansvarstagande när det gäller föräldraskap, obetalt hemarbete och anhörigomsorg, och
 * på lämpligt sätt sprida den kunskap som sammanställs och uppmuntra till dialog om de frågor som berörs i uppdraget.
 
-Uppdraget ska redovisas senast den 1 november 2013\.
+Uppdraget ska redovisas senast den 1 november 2013.

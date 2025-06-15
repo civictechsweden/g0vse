@@ -9,4 +9,4 @@ Utredaren ska bland annat:
 * föreslå åtgärder för att se till att personalen i förskolan har adekvat kompetens för uppdraget med språkutveckling, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 30 oktober 2020\.
+Uppdraget ska redovisas senast den 30 oktober 2020.

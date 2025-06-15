@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om bosättningslagen
 
-Skrivelsen inne­håller regeringens bedöm­ning och åtgärder med anled­ning av Riks­revisio­nens rapport Bosätt­nings­lagen – har reformen levt upp till inten­tionerna? (RiR 2021:29\).
+Skrivelsen inne­håller regeringens bedöm­ning och åtgärder med anled­ning av Riks­revisio­nens rapport Bosätt­nings­lagen – har reformen levt upp till inten­tionerna? (RiR 2021:29).
 
 Riks­revi­sionen bedömer att inten­tionerna med reformen har uppnåtts och att Migrations­verkets och läns­styrel­sernas arbete i huvud­sak fungerar väl och främjar inten­tionerna.
 

@@ -6,4 +6,4 @@ Genom avtalet införs bland annat bestämmelser om det straffrättsliga samarbet
 
 I propositionen föreslås en ny lag med kompletterande bestämmelser till avtalet som möjliggör att avtalet kan tillämpas fullt ut i Sverige. Den nya lagen innehåller kompletterande bestämmelser när Sverige begär bistånd av eller lämnar bistånd till Förenade konungariket Storbritannien och Nordirland. Den nya lagen medför vissa följdändringar i andra lagar.
 
-Den nya lagen och lagändringarna föreslås träda i kraft den 15 juli 2021\.
+Den nya lagen och lagändringarna föreslås träda i kraft den 15 juli 2021.

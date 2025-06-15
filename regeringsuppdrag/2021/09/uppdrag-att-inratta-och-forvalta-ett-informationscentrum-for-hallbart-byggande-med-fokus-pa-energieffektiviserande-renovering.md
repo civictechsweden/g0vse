@@ -2,7 +2,6 @@
 
 Regeringen ger Boverket i uppdrag att inrätta och förvalta ett informationscentrum för hållbart byggande med fokus på energieffektiviserande renovering.
 
-
 Informationscentrumet ska främja en ökad energieffektivisering vid
 renovering och förvaltning av det befintliga byggnadsbeståndet. Centrumet ska samla in och sprida resultat, information och kunskap från aktörer, forskningsprojekt och demonstrationssatsningar.
 
@@ -11,4 +10,4 @@ informationscentrumet.
 
 Boverket ska lämna en redovisning avseende inrättandet av
 informationscentrumet till Regeringskansliet (Finansdepartementet) i
-Boverkets årsredovisning för budgetåret 2021\.
+Boverkets årsredovisning för budgetåret 2021.

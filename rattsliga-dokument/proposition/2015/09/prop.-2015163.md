@@ -8,8 +8,8 @@ I propositionen lämnas även förslag till en ny lag om rapportering av betalni
 
 Företagen ska årligen rapportera betalningar som överstiger 860 000 kronor. Ett moderföretag ska som huvudregel lämna en sammanställd rapport som omfattar hela koncernen. Om ett företag redan lämnar en rapport enligt likvärdiga tredjelandsbestämmelser, ska det vara undantaget från rapporteringskravet.
 
-Förslagen bygger på ett EU\-direktiv.
+Förslagen bygger på ett EU-direktiv.
 
-Den nya lagstiftningen föreslås träda i kraft den 1 januari 2016\.
+Den nya lagstiftningen föreslås träda i kraft den 1 januari 2016.
 
 [Pressmeddelande: Enklare redovisning för mindre företag och ökad insyn i större företag som utvinner naturresurser](/pressmeddelanden/2015/09/enklare-redovisning-for-mindre-foretag-och-okad-insyn-i-storre-foretag-som-utvinner-naturresurser/)

@@ -5,8 +5,8 @@ Misstänkta och dömda personer ska inte kunna hålla sig undan från utredning
 I utkastet lämnas därför lagförslag om bland annat följande:
 
 * Det ska vara möjligt att använda hemliga tvångsmedel i syfte att lokalisera personer som håller sig undan eller har avvikit från ett beslut om anhållande eller häktning eller från verkställighet av ett straff.
-* Det införs utökade möjligheter att använda hemliga tvångsmedel i syfte att lokalisera utlänningar som inte har fullgjort sin anmälningsskyldighet enligt lagen (2022:700\) om särskild kontroll av
-vissa utlänningar.
+* Det införs utökade möjligheter att använda hemliga tvångsmedel i syfte att lokalisera utlänningar som inte har fullgjort sin anmälningsskyldighet enligt lagen (2022:700) om särskild kontroll av
+  vissa utlänningar.
 * Reglerna om underrättelse till enskilda som varit föremål för hemliga tvångsmedel ändras i syfte att stärka rättssäkerheten.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2024\.
+Lagändringarna föreslås träda i kraft den 1 juni 2024.

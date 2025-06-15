@@ -1,4 +1,4 @@
-# Kommenterad dagordning, rådet för ekonomiska och finansiella frågor, den 10 december 2024
+# Uppdaterad kommenterad dagordning, rådet för ekonomiska och finansiella frågor, den 10 december 2024
 
 På Ekofinrådets möte den 10 december 2024 finns följande punkter på dagordningen:
 

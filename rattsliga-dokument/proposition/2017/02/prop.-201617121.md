@@ -6,6 +6,6 @@ I ärenden där en asylsökande utlänning uppger att han eller hon är ett ensa
 
 Regeringen föreslår därför ändringar i utlänningslagen som innebär att Migrationsverket ska bedöma en utlännings ålder tidigare i asylprocessen än vad som görs i dag. Om det råder oklarhet om en asylsökande som uppger sig vara ett ensamkommande barn är under 18 år eller inte, ska Migrationsverket så snart som möjligt göra en åldersbedömning och fatta ett tillfälligt beslut om sökandens ålder. Innan ett tillfälligt beslut fattas som innebär att den sökande bedöms vara 18 år eller äldre, ska Migrationsverket ge sökanden tillfälle att genomgå en medicinsk åldersbedömning. Regeringen föreslår också att Migrationsverkets tillfälliga beslut ska kunna överklagas.
 
-Lagändringarna föreslås träda i kraft den 1 maj 2017\.
+Lagändringarna föreslås träda i kraft den 1 maj 2017.
 
 [Pressmeddelande: Åldersbedömning tidigare i asylprocessen](/pressmeddelanden/2017/02/aldersbedomning-tidigare-i-asylprocessen2/)

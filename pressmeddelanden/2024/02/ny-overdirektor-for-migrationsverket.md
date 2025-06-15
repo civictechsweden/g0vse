@@ -4,4 +4,4 @@
 
 Annika Gottberg arbetar i dag som planeringsdirektör på Migrationsverket.
 
-Förordnandet som överdirektör gäller tillsvidare, dock som längst till och med 11 februari 2030\.
+Förordnandet som överdirektör gäller tillsvidare, dock som längst till och med 11 februari 2030.

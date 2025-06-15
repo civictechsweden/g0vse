@@ -8,4 +8,4 @@ Utredaren ska bland annat
 * kartlägga vilka möjligheter som finns att inom högskolan specialisera sig i socialt arbete eller motsvarande inom området ungdomsbrottslighet och bedöma om det finns behov av ytterligare specialiseringar, och i så fall föreslå vilka, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 31 mars 2024\.
+Uppdraget ska redovisas senast den 31 mars 2024.

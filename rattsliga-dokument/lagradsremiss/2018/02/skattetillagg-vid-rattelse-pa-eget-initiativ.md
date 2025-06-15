@@ -6,4 +6,4 @@ En motsvarande reglering föreslås avseende ansvar för brott enligt skattebrot
 
 I lagrådsremissen föreslås ändringar i skatteförfarandelagen och skattebrottslagen.
 
-Bestämmelserna föreslås träda i kraft den 1 augusti 2018\.
+Bestämmelserna föreslås träda i kraft den 1 augusti 2018.

@@ -6,4 +6,4 @@ Regeringen föreslår att all skrift­lig kommu­ni­ka­tion i kon­kurs­för�
 
 Regeringen föreslår också att det obliga­toriska ed­gångs­samman­trädet i tings­rätt ersätts med en ord­ning där gälde­nären skrift­ligen bekräftar bo­upp­teck­ningen vid ett sam­man­träde hos kon­kurs­för­val­taren. Där­ut­över läm­nas för­slag på vissa ytter­ligare effekti­vi­se­ringar av kon­kurs­han­te­ringen när det gäller gälde­närens bok­förings­hand­lingar, för­val­tarens berät­telser och utbetal­ning av utdel­nings­medel till borge­närerna.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2021\.
+Lagändringarna föreslås träda i kraft den 1 juli 2021.

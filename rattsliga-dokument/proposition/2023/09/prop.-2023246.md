@@ -6,4 +6,4 @@ Regleringen ska utvidgas till att omfatta även digital post. Det föreslås bl.
 
 Offentliga aktörer ska få använda tjänsterna i auktorisationssystemen för sina digitala tjänster. Förslaget syftar till att ge alla utförare av offentligt finansierad verksamhet möjlighet att erbjuda service med hjälp av digitala tjänster på lika villkor.
 
-De nya reglerna föreslås träda i kraft den 1 januari 2024\.
+De nya reglerna föreslås träda i kraft den 1 januari 2024.

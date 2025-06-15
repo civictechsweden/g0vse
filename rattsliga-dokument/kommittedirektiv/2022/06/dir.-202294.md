@@ -8,7 +8,7 @@ Utredaren ska bland annat
 * bedöma vilka upp­gifter som bör registreras i fastighets­registret,
 * bedöma om det är till­räckligt att vissa upp­gifter tillhanda­hålls genom Lant­mäteriets digitala tjänster, utan att tas in i registret,
 * bedöma hur skyddet för geo­grafisk information i fastighets­registret som är av betydelse för Sveriges säkerhet ska stärkas,
-* lämna förslag som innebär att över­låtelser av fast egen­dom omfattas av säkerhets­skydds­lagens (2018:585\) bestäm­melser om överlåtelse av säker­hets­känslig verk­samhet och viss egendom, och
+* lämna förslag som innebär att över­låtelser av fast egen­dom omfattas av säkerhets­skydds­lagens (2018:585) bestäm­melser om överlåtelse av säker­hets­känslig verk­samhet och viss egendom, och
 * föreslå de författ­nings­ändringar som behövs.
 
-Uppdraget ska redovisas senast den 1 september 2023\.
+Uppdraget ska redovisas senast den 1 september 2023.

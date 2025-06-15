@@ -10,4 +10,4 @@ En nationell samordnare ska åstadkomma en kraftsamling för att motverka våld 
 * aktivt verka för att synliggöra olika aspekter och negativa konsekvenser av våld i nära relationer för såväl berörda aktörer som allmänheten och
 * vid behov lämna förslag till hur arbetet mot våld i nära relationer kan förbättras och samverkan utvecklas på nationell, regional och lokal nivå.
 
-Uppdraget ska slutredovisas senast den 30 juni 2014\.
+Uppdraget ska slutredovisas senast den 30 juni 2014.

@@ -1,6 +1,6 @@
 # Vissa skattefrågor gällande ideella föreningar, registrerade trossamfund och kollektivavtalsstiftelser
 
-I promemorian föreslås ändringar i 7 kap. inkomstskattelagen (1999:1229\). Den ena ändringen avser ett förtydligande av undantaget från skattskyldighet för ideella föreningar och registrerade trossamfund och den andra ändringen avser fullföljdskravets utformning för kollektivavtalsstiftelser. Lagändringarna föreslås träda i kraft den 1 januari 2018\.
+I promemorian föreslås ändringar i 7 kap. inkomstskattelagen (1999:1229). Den ena ändringen avser ett förtydligande av undantaget från skattskyldighet för ideella föreningar och registrerade trossamfund och den andra ändringen avser fullföljdskravets utformning för kollektivavtalsstiftelser. Lagändringarna föreslås träda i kraft den 1 januari 2018.
 
 ### Ideella föreningar och registrerade trossamfund
 

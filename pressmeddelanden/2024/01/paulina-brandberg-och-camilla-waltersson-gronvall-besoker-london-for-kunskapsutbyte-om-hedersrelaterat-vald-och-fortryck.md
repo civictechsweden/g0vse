@@ -1,6 +1,6 @@
 # Paulina Brandberg och Camilla Waltersson Grönvall besöker London för kunskapsutbyte om hedersrelaterat våld och förtryck
 
-– Arbetet mot hedersrelaterat våld och förtryck är högt prioriterat av regeringen. För att kunna förbättra och utveckla arbetet är det oerhört viktigt att se hur andra länder arbetar med dessa frågor. Jag är särskilt intresserad av att lära mig mer om hur Storbritannien arbetar med bortförda barn, säger jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg.
+– Arbetet mot hedersrelaterat våld och förtryck är högt prioriterat av regeringen. För att kunna förbättra och utveckla arbetet är det oerhört viktigt att se hur andra länder arbetar med dessa frågor. Jag är särskilt intresserad av att lära mig mer om hur Storbritannien arbetar med bortförda barn, säger jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg.
 
 – Alla barn har rätt till en trygg uppväxt och en ljus framtid. Att stärka skyddet av barn och unga är ett arbete som behöver drivas på många olika områden. Jag ser fram emot att utbyta erfarenheter och kunskap med våra brittiska kollegor, säger socialtjänstminister Camilla Waltersson Grönvall.
 

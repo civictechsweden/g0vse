@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * analysera förutsättningarna för och lämna förslag på hur undervisningstiden kan utökas för nyanlända elever, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 6 december 2024\.
+Uppdraget ska redovisas senast den 6 december 2024.

@@ -1,6 +1,6 @@
 # Det handlar om livet – nationell strategi inom området psykisk hälsa och suicidprevention
 
-Regeringen presenterar en nationell strategi inom området psykisk hälsa och suicidprevention. Den nationella strategin ska ge en långsiktig inriktning för arbetet under perioden 2025 till2034, grundat på en tvärsektoriell ansats som skapar förutsättningar för en gemensam riktning för hela samhället i arbetet med psykisk hälsa och suicid-prevention.
+Regeringen presenterar en nationell strategi inom området psykisk hälsa och suicidprevention. Den nationella strategin ska ge en långsiktig inriktning för arbetet under perioden 2025 till 2034, grundat på en tvärsektoriell ansats som skapar förutsättningar för en gemensam riktning för hela samhället i arbetet med psykisk hälsa och suicid-prevention.
 
 Den nationella strategin:
 

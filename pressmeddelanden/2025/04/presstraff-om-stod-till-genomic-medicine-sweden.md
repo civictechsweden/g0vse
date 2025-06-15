@@ -1,3 +1,3 @@
-# Pressträff om stöd till Genomic Medicine Sweden
+# Påminnelse: Pressträff om stöd till Genomic Medicine Sweden
 
 

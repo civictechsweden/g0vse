@@ -1,7 +1,6 @@
 # CAT:s granskning (2018-05-10) av ärendet R.H. mot Sverige
 
-Fråga om utvisning av klaganden till hemlandet (Iran) skulle strida mot artikel 3 i FN\-konventionen mot tortyr m.m.
-
+Fråga om utvisning av klaganden till hemlandet (Iran) skulle strida mot artikel 3 i FN-konventionen mot tortyr m.m.
 
 ### Sammanfattning av granskningen
 

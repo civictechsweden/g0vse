@@ -10,4 +10,4 @@ Utredaren ska bland annat
 * ta ställning till om det straffrättsliga skyddet för tjänstemän mot förolämpningar och andra kränkningar behöver förstärkas, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 1 augusti 2023\.
+Uppdraget ska redovisas senast den 1 augusti 2023.

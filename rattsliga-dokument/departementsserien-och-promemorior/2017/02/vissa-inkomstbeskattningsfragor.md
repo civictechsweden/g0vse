@@ -8,4 +8,4 @@ avyttringstidpunkt ändras och att vad som sägs om värdepapper som har getts u
 I promemorian föreslås även att de särskilda reglerna om lager av
 finansiella instrument inte ska tillämpas på utsläppsrätter som innehas av skattskyldiga som är berättigade att få utsläppsrätter tilldelade. I stället ska de särskilda bestämmelserna om utsläppsrätter även fortsättningsvis tillämpas.
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2018\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2018.

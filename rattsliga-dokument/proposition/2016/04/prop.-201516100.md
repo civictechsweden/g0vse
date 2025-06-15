@@ -1,6 +1,6 @@
 # 2016 års ekonomiska vårproposition
 
-Propositionen innehåller regeringens förslag till riktlinjer för den ekonomiska politiken och budgetpolitiken. Riktlinjernas syfte är att ange politikens inriktning inför budgetpropositionen för 2017\.
+Propositionen innehåller regeringens förslag till riktlinjer för den ekonomiska politiken och budgetpolitiken. Riktlinjernas syfte är att ange politikens inriktning inför budgetpropositionen för 2017.
 
 I propositionen lämnas även förslag till vissa ändringar av utgiftsområdenas indelning.
 

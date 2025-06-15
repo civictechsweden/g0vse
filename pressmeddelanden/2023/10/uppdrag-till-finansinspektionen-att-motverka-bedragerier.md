@@ -8,4 +8,4 @@ Finansinspektionen ska arbeta för ett högt konsumentskydd och utövar även ti
 
 – Vi ska göra allt vi kan för att stoppa de kriminellas möjligheter att utnyttja det finansiella systemet för att berika sig själva eller finansiera annan brottslighet, säger finansmarknadsminister Niklas Wykman.
 
-Uppdraget ska redovisas senast den 31 maj 2024\.
+Uppdraget ska redovisas senast den 31 maj 2024.

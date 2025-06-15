@@ -6,7 +6,7 @@ Temat för IFACCA World Summit 2023 var värnandet av konstnärlig frihet. Att s
 
 Ambitionen med IFACCA World Summit 2023 är att skapa ett globalt erfarenhetsutbyte och utforska faktorerna som påverkar villkoren för ett fritt kulturliv. Syftet med mötet är att initiera och fördjupa dialog som främjar den konstnärliga friheten globalt.
 
-Toppmötet arrangerades av Statens kulturråd i samarbete med bland annat Helsingborgs stad, Kanadas ambassad, Moderna Museet, Region Skåne, Riksteatern, Stadshuset, Stockholm stad och Visit Stockholm. Medverkade gjorde en rad internationella gäster från konst\- och kultursektorn, bland annat Unescos biträdande generaldirektör Ernesto Ottone samt en rad internationella politiska företrädare. Medverkade gjorde också Sveriges kulturminister Parisa Liljestrand och Kulturrådets generaldirektör Kajsa Ravin.
+Toppmötet arrangerades av Statens kulturråd i samarbete med bland annat Helsingborgs stad, Kanadas ambassad, Moderna Museet, Region Skåne, Riksteatern, Stadshuset, Stockholm stad och Visit Stockholm. Medverkade gjorde en rad internationella gäster från konst- och kultursektorn, bland annat Unescos biträdande generaldirektör Ernesto Ottone samt en rad internationella politiska företrädare. Medverkade gjorde också Sveriges kulturminister Parisa Liljestrand och Kulturrådets generaldirektör Kajsa Ravin.
 
 ## The International Federation of Arts Councils and Culture Agencies (IFACCA)
 

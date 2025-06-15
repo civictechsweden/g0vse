@@ -6,4 +6,4 @@ Regeringen föreslår att den, eller den myndighet som regeringen bestämmer, sk
 
 Regeringen bedömer att kommunens, länsstyrelsens och Folkhälsomyndighetens nuvarande tillsynsansvar även bör omfatta de nya kraven. Folkhälsomyndigheten och kommunen bör få ta ut avgifter för sin tillsyn. Sekretess bör gälla i Folkhälsomyndighetens och kommunens tillsyn.
 
-Ändringarna föreslås träda i kraft den 1 maj 2024\.
+Ändringarna föreslås träda i kraft den 1 maj 2024.

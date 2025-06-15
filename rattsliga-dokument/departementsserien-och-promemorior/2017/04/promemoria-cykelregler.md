@@ -2,7 +2,7 @@
 
 Det är viktigt att stimulera långsiktigt hållbara transportlösningar, särskilt inom kollektivtrafik, gång och cykel. Åtgärder inom cykel kan bidra till att nå flera samhällsmål, såsom att minska resandets miljöpåverkan, minska trängseln i tätort och bidra till en bättre folkhälsa.
 
-Riksdagen riktade våren 2015 två tillkännagivanden till regeringen (bet. 2014/15:TU5, rskr. 2014/15:123\) i syfte att främja cykling. Det första tillkännagivandet uttrycker att regeringen bör återkomma till riksdagen med en nationell cykelstrategi. I det andra tillkännagivandet framförs att regeringen bör redogöra för regeländringar för att främja cykeltrafik i städer, och inom ramen för detta pröva möjligheten till regeländringar för att göra det möjligt för cyklister över 15 år att använda körbana även i de fall där cykelväg finns.
+Riksdagen riktade våren 2015 två tillkännagivanden till regeringen (bet. 2014/15:TU5, rskr. 2014/15:123) i syfte att främja cykling. Det första tillkännagivandet uttrycker att regeringen bör återkomma till riksdagen med en nationell cykelstrategi. I det andra tillkännagivandet framförs att regeringen bör redogöra för regeländringar för att främja cykeltrafik i städer, och inom ramen för detta pröva möjligheten till regeländringar för att göra det möjligt för cyklister över 15 år att använda körbana även i de fall där cykelväg finns.
 
 Denna promemoria är framtagen som redogörelse för vissa möjliga regeländringar. I promemorian föreslås följande ändringar:
 
@@ -16,8 +16,8 @@ Denna promemoria är framtagen som redogörelse för vissa möjliga regeländrin
 
 – En cykelpassage ska anges med vägmarkering för cykelpassage.
 
-– Gående på en gemensam gång\- och cykelbana ska om möjligt använda vänster sida i färdriktningen.
+– Gående på en gemensam gång- och cykelbana ska om möjligt använda vänster sida i färdriktningen.
 
-– Förtydligande om att lokaliseringsmärken för vägvisning även innefattar märken för vägvisning av gång\- och cykeltrafik.
+– Förtydligande om att lokaliseringsmärken för vägvisning även innefattar märken för vägvisning av gång- och cykeltrafik.
 
 Bestämmelserna **föreslås träda i kraft den 1 januari 2018**.

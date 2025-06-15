@@ -2,7 +2,6 @@
 
 Det talade ordet gäller
 
-
 Ers majestät och Ers kungliga höghet,
 
 Talmannen, Överbefälhavaren och Generaldirektören,
@@ -27,15 +26,15 @@ Sveriges veteraner är ett tvärsnitt av det svenska samhället. Ni kommer från
 
 \*\*\*\*\*
 
-Just i år uppmärksammar vi särskilt de veteraner som tjänstgjorde på Balkan mellan 1991 och 2000\. När Europa än en gång föll ner i en mörk spiral av motsättningar, våld och död, så valde tusentals svenskar att göra en insats just där. Det glömmer vi inte, varken vad ni gjorde eller varför ni behövde göra, det ni gjorde.
+Just i år uppmärksammar vi särskilt de veteraner som tjänstgjorde på Balkan mellan 1991 och 2000. När Europa än en gång föll ner i en mörk spiral av motsättningar, våld och död, så valde tusentals svenskar att göra en insats just där. Det glömmer vi inte, varken vad ni gjorde eller varför ni behövde göra, det ni gjorde.
 
-Kriget har nu än en gång kommit till Europa. Och som land har vi en historisk uppgift: att hjälpa Ukraina, så länge det krävs. Det är därför vi bidrar med stridsvagnar, stridsfordon, artillerisystem, luftvärn och mycket, mycket mer. För bara några timmar sedan presenterade regeringen Sveriges nya stora militära stödpaket. Fokus är att tillsammans med andra länder kraftigt öka Ukrainas luftförsvarsförmåga. Vårt helt unika bidrag är två stridslednings\- och luftbevakningsflygplan av typen ASC 890\. Det säger nog inte alla så rasande mycket, men betyder att vi utökar kapaciteten på de amerikanska stridsflygplan, som andra länder snart ger till Ukraina.
+Kriget har nu än en gång kommit till Europa. Och som land har vi en historisk uppgift: att hjälpa Ukraina, så länge det krävs. Det är därför vi bidrar med stridsvagnar, stridsfordon, artillerisystem, luftvärn och mycket, mycket mer. För bara några timmar sedan presenterade regeringen Sveriges nya stora militära stödpaket. Fokus är att tillsammans med andra länder kraftigt öka Ukrainas luftförsvarsförmåga. Vårt helt unika bidrag är två stridslednings- och luftbevakningsflygplan av typen ASC 890. Det säger nog inte alla så rasande mycket, men betyder att vi utökar kapaciteten på de amerikanska stridsflygplan, som andra länder snart ger till Ukraina.
 
 Insatsen på just Balkan innebar också att Sverige fick en viktig insikt: att en veteran förblir veteran livet ut. Att man kommer hem med minnen för livet. Men ibland också med osynliga ärr.
 
 Vi är som land skyldiga alla veteraner ett bra mottagande. Jag vet att både Försvarsmakten och frivilliga arbetar hårt för detta – före, under och efter missionen.  På samma sätt som ni fanns där för oss, ska vi finnas där för er.
 
-Insatserna på Balkan innebar en förändring till: 1995 stod för första gången svenska soldater under Nato\-befäl. Vi har sedan dess deltagit i många Nato\-ledda insatser runt om i världen. Det är värt att tänka på, nu när Sverige har tagit det stora steget att lämna 200 år av alliansfrihet. Ett dramatiskt steg – men också ett helt naturligt.
+Insatserna på Balkan innebar en förändring till: 1995 stod för första gången svenska soldater under Nato-befäl. Vi har sedan dess deltagit i många Nato-ledda insatser runt om i världen. Det är värt att tänka på, nu när Sverige har tagit det stora steget att lämna 200 år av alliansfrihet. Ett dramatiskt steg – men också ett helt naturligt.
 
 För Nato är någonting nytt, men ändå en naturlig utveckling av vårt internationella engagemang. De värden som våra veteraner har försvarat i internationella insatser – fred, frihet och demokrati – är själva kärnan i västvärldens försvarsallians.
 

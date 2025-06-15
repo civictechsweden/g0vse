@@ -2,7 +2,6 @@
 
 Förenkling av regelverk, ökad lönsamhet och stärkt konkurrenskraft – det var ledorden när statsminister Ulf Kristersson och landsbygdsminister Peter Kullgren under tisdagen bjöd in svenska lantbrukare för att diskutera utvecklingen av svensk landsbygd.
 
-
 Runtom i EU har det under våren förekommit protester och demonstrationer från lantbrukare, bland annat på grund av missnöje med låg lönsamhet och förslag till ny lagstiftning som innebär ökade kostnader i kombination med omfattande regelverk och administration.
 
 I Sverige är situationen lugnare, även om svenska lantbrukare också påverkas av exempelvis fördyrande omvärldsfaktorer, regelverk och fjolårets utmanande väderförhållanden.

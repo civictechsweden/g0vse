@@ -8,6 +8,6 @@ Antalet asylsökande som sökt sig till Sverige har under 2015 varit rekordhögt
 
 Det föreslås att den tidsbegränsade lagen ska innehålla bestämmelser om tidsbegränsade uppehållstillstånd för alla skyddsbehövande utom kvotflyktingar, om begränsade möjligheter till anhöriginvandring för skyddsbehövande med tidsbegränsade tillstånd och om skärpt försörjningskrav. Dessutom föreslås att det inte ska vara möjligt att bevilja uppehållstillstånd till övriga skyddsbehövande och att bestämmelsen om uppehållstillstånd på grund av synnerligen/särskilt ömmande omständigheter ska ersättas med en bestämmelse som ger en begränsad möjlighet att bevilja uppehållstillstånd när det krävs för att Sverige ska uppfylla sina internationella förpliktelser.
 
-Den tidsbegränsade lagen föreslås träda i kraft den 20 juli 2016\.
+Den tidsbegränsade lagen föreslås träda i kraft den 20 juli 2016.
 
 [Pressmeddelande: Förslag om att tillfälligt begränsa möjligheten att få uppehållstillstånd i Sverige](/pressmeddelanden/2016/02/forslag-om-att-tillfalligt-begransa-mojligheten-att-fa-uppehallstillstand-i-sverige/)

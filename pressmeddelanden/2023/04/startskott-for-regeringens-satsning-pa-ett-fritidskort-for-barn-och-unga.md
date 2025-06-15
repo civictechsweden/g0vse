@@ -14,9 +14,9 @@ De organisationer som utför aktiviteterna ska ha en långsiktig och seriös ver
 
 I ett första steg får nu fem myndigheter i uppdrag att göra de nödvändiga förberedelser som krävs inför att fritidskortet ska införas.
 
-E\-hälsomyndigheten får huvudansvaret för förberedandet, införandet och förvaltandet av fritidskortet. Folkhälsomyndigheten, Försäkringskassan, Myndigheten för ungdoms\- och civilsamhällesfrågor, MUCF, och Statens kulturråd har också uppgifter inom ramen för uppdraget som innebär att säkerställa att de förutsättningar som krävs för att införa fritidskortet under 2024 finns på plats. Dialog kommer att ske med Svenskt friluftsliv och Riksidrottsförbundet och med Sveriges Kommuner och Regioner samt andra relevanta aktörer.
+E-hälsomyndigheten får huvudansvaret för förberedandet, införandet och förvaltandet av fritidskortet. Folkhälsomyndigheten, Försäkringskassan, Myndigheten för ungdoms- och civilsamhällesfrågor, MUCF, och Statens kulturråd har också uppgifter inom ramen för uppdraget som innebär att säkerställa att de förutsättningar som krävs för att införa fritidskortet under 2024 finns på plats. Dialog kommer att ske med Svenskt friluftsliv och Riksidrottsförbundet och med Sveriges Kommuner och Regioner samt andra relevanta aktörer.
 
-Vid framtagandet av förutsättningar för ett fritidskort ska utgångspunkten vara Sveriges folkhälsopolitiska mål om att skapa samhälleliga förutsättningar för en god och jämlik hälsa i hela befolkningen. Andra folkhälso\-, ungdoms\-, kultur\-, frilufts\- och funktionshinderspolitiska mål ska också beaktas, liksom barnets rättigheter.
+Vid framtagandet av förutsättningar för ett fritidskort ska utgångspunkten vara Sveriges folkhälsopolitiska mål om att skapa samhälleliga förutsättningar för en god och jämlik hälsa i hela befolkningen. Andra folkhälso-, ungdoms-, kultur-, frilufts- och funktionshinderspolitiska mål ska också beaktas, liksom barnets rättigheter.
 
 Under 2023 finns 50 miljoner kronor avsatta för att ta fram nödvändig infrastruktur för införandet av ett fritidskort till barn och unga. Under 2024 beräknas 731 miljoner kronor avsättas för att införa reformen med fritidskort och från och med 2025 beräknas årligen 792 miljoner kronor avsättas för samma ändamål.
 

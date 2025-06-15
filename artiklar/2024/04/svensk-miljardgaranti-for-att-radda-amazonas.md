@@ -2,7 +2,6 @@
 
 Sverige ställer nu genom Sida ut en rekordstor garanti på 250 miljoner dollar till Interamerikanska utvecklingsbanken (IDB). Sju länder i Amazonasregionen ska kunna låna upp till 460 miljoner dollar till hållbara investeringar. Avtalet undertecknades i anslutning till IDB:s årsmöte den 8 mars i Dominikanska Republiken.
 
-
 Garantin löper över 22 år och ger IDB ett utökat utlåningsutrymme med ca 460 miljoner dollar för utlåning inom hållbara och motståndskraftiga landskap, hållbart skogsbruk och bevarande, samt bioekonomi i Amazonasregionen.
 
 ## En viktig klimatregulator

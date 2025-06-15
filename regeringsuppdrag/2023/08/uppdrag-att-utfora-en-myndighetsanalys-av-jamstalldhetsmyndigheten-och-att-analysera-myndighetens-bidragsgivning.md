@@ -1,7 +1,6 @@
 # Uppdrag att utföra en myndighetsanalys av Jämställdhetsmyndigheten och att analysera myndighetens bidragsgivning
 
-Regeringen ger Statskontoret i uppdrag att utföra en myndighetsanalys av Jämställdhetsmyndigheten i enlighet med den modell som Statskontoret redovisade till regeringen i december 2008 (Fi2007/08016\). I uppdraget ingår därutöver att särskilt analysera Jämställdhetsmyndighetens bidragsgivning.
-
+Regeringen ger Statskontoret i uppdrag att utföra en myndighetsanalys av Jämställdhetsmyndigheten i enlighet med den modell som Statskontoret redovisade till regeringen i december 2008 (Fi2007/08016). I uppdraget ingår därutöver att särskilt analysera Jämställdhetsmyndighetens bidragsgivning.
 
 Statskontoret ska analysera och bedöma
 
@@ -16,4 +15,4 @@ Inom ramen för uppdraget ingår även att, vid behov, föreslå de åtgärder s
 
 Jämställdhetsmyndigheten ska under uppdragets genomförande bistå Statskontoret med de uppgifter som är nödvändiga för att Statskontoret ska kunna fullgöra uppdraget på ett ändamålsenligt sätt.
 
-Uppdraget ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) i en skriftlig rapport senast den 15 juni 2024\.
+Uppdraget ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) i en skriftlig rapport senast den 15 juni 2024.

@@ -6,4 +6,4 @@ De beviljade medlen ska fördelas till specialidrottsförbund för investeringar
 
 Rörelsesatsningen sker i samverkan med skolan, med särskilt fokus på att nå barn och unga som i dag står längst ifrån idrotten.
 
-Bidraget syftar till att förstärka och utöka de insatser som Sveriges Riksidrottsförbund tidigare beviljades bidrag för den 18 april 2024 (S2023/02773\).
+Bidraget syftar till att förstärka och utöka de insatser som Sveriges Riksidrottsförbund tidigare beviljades bidrag för den 18 april 2024 (S2023/02773).

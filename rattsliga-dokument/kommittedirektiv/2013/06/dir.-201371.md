@@ -11,4 +11,4 @@ Utredaren ska bl.a.
 * analysera och dra slutsatser av hur motsvarande regelverk är utformat i andra länder, och
 * utarbeta de författningsförslag som behövs för att säkerställa ett heltäckande regelverk för kontanthanteringen.
 
-Uppdraget ska redovisas senast den 1 september 2014\.
+Uppdraget ska redovisas senast den 1 september 2014.

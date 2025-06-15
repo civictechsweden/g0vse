@@ -3,7 +3,7 @@
 Skrivelsen innehåller regeringens bedömningar och åtgärder med
 anledning av Riksrevisionens granskningsrapport Deltagarantal i nya
 arbetsmarknadspolitiska insatser – önsketänkande framför träffsäkra
-volymbedömningar (RiR 2018:10\).
+volymbedömningar (RiR 2018:10).
 
 ## Skrivelsens huvudsakliga innehåll
 

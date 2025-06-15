@@ -1,6 +1,6 @@
 # Lotta Edholm besöker Västerås
 
-Under förmiddagen gör Lotta Edholm ett studiebesök på Rudbeckianska gymnasiet som i år firar 400\-årsjubileum. Vid besöket kommer skolministern att träffa och samtala med personal och elever på skolan.
+Under förmiddagen gör Lotta Edholm ett studiebesök på Rudbeckianska gymnasiet som i år firar 400-årsjubileum. Vid besöket kommer skolministern att träffa och samtala med personal och elever på skolan.
 
 Under eftermiddagen besöker skolministern grundskolan Hammarbyskolan för att träffa personal och elever. Fokus under besöket kommer att vara elevernas läsning.
 

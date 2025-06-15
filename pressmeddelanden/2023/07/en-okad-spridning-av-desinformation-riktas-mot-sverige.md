@@ -4,6 +4,6 @@ Den senaste tidens händelser, bland annat bränningar av kopior av heliga skrif
 
 Myndigheten för psykologiskt försvar (MPF) har kunnat konstatera att Sverige sedan en längre tid tillbaka utgör en måltavla för islamistisk informationspåverkan. Påverkanskampanjen mot svensk socialtjänst som startade i slutet av 2021, var och är den mest omfattande som Sverige utsatts för. I tider av en ökad spridning av desinformation är det angeläget att värna det öppna och demokratiska samhället, den fria åsiktsbildningen samt Sveriges frihet och oberoende.
 
-– De desinformationskampanjer som Sverige just nu utsätts för riskerar försämra situationen för svenska medborgare och företag utomlands, liksom säkerheten i landet. Mot denna bakgrund vill regeringen förtydliga att vi alla har ett ansvar för att inte bidra till att sprida information och budskap som är direkt felaktiga, säger ministern för civilt försvar Carl\-Oskar Bohlin.
+– De desinformationskampanjer som Sverige just nu utsätts för riskerar försämra situationen för svenska medborgare och företag utomlands, liksom säkerheten i landet. Mot denna bakgrund vill regeringen förtydliga att vi alla har ett ansvar för att inte bidra till att sprida information och budskap som är direkt felaktiga, säger ministern för civilt försvar Carl-Oskar Bohlin.
 
 Regeringen uppmanar till att vara vaksam mot ryktesspridning och desinformation, att ta del av bekräftad information från myndigheter och att vara källkritisk innan man delar information på sociala medier.

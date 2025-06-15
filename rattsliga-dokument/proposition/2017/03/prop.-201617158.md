@@ -6,4 +6,4 @@ Stödet ska bestå av bidrag utan inslag av lån och utgöra ett komplement till
 
 Den befintliga möjligheten för studerande som går vidare till högskolestudier att skriva av studielån som tas i samband med behörighetsgivande studier ska avskaffas.
 
-Lagen om studiestartsstöd och följdändringar i vissa lagar föreslås träda i kraft den 2 juli 2017\. Reglerna om avskrivning av studielån för behörighetsgivande studier föreslås dock fortsätta gälla för studiemedel som lämnats för tid före den 1 januari 2018\.
+Lagen om studiestartsstöd och följdändringar i vissa lagar föreslås träda i kraft den 2 juli 2017. Reglerna om avskrivning av studielån för behörighetsgivande studier föreslås dock fortsätta gälla för studiemedel som lämnats för tid före den 1 januari 2018.

@@ -1,7 +1,6 @@
 # Program för statsbesöket till Mexiko
 
-Kungaparet avlägger statsbesök till Mexiko 12–14 mars 2024, på inbjudan av president Andrés Manuel López Obrador. Regeringen representeras av bistånds\- och utrikeshandelsminister Johan Forssell. Drygt 35 svenska företag deltar i den näringslivsdelegation som Business Sweden arrangerar.
-
+Kungaparet avlägger statsbesök till Mexiko 12–14 mars 2024, på inbjudan av president Andrés Manuel López Obrador. Regeringen representeras av bistånds- och utrikeshandelsminister Johan Forssell. Drygt 35 svenska företag deltar i den näringslivsdelegation som Business Sweden arrangerar.
 
 Syftet med statsbesöket är att befästa den goda relationen mellan Sverige och Mexiko och stärka de ekonomiska och politiska förbindelserna, med fokus på innovation, partnerskap, handel och investeringar.
 
@@ -28,20 +27,20 @@ På kvällen står kungaparet värdar för en bankett.
 
 ## Onsdag 13 mars
 
-### Mexico\-Sweden Business Forum
+### Mexico-Sweden Business Forum
 
-På förmiddagen äger Mexico–Sweden Business Forum rum. Forumet arrangeras av Business Sweden och fler än 300 deltagare från näringsliv, myndigheter och akademi är inbjudna. Under Business Forum kommer bland annat hållbara transportlösningar, hållbar gruvnäring, telekomindustrin och innovation inom hälsoområdet att diskuteras. Kungaparet och statsrådet välkomnas vid ankomst av Mexikos handelsminister, Raquel Buenrostro, och Business Swedens vd, Jan Larsson. Kungen håller tal när forumet öppnar vilket följs av ett anförande av Mexikos handelsminister och ett tal av bistånds\- och utrikeshandelsministern om svensk\-mexikanska handelsförbindelser.
+På förmiddagen äger Mexico–Sweden Business Forum rum. Forumet arrangeras av Business Sweden och fler än 300 deltagare från näringsliv, myndigheter och akademi är inbjudna. Under Business Forum kommer bland annat hållbara transportlösningar, hållbar gruvnäring, telekomindustrin och innovation inom hälsoområdet att diskuteras. Kungaparet och statsrådet välkomnas vid ankomst av Mexikos handelsminister, Raquel Buenrostro, och Business Swedens vd, Jan Larsson. Kungen håller tal när forumet öppnar vilket följs av ett anförande av Mexikos handelsminister och ett tal av bistånds- och utrikeshandelsministern om svensk-mexikanska handelsförbindelser.
 
-I anslutning till Mexico\-Sweden Business Forum kommer bistånds\- och utrikeshandelsminister Johan Forssell att ha bilaterala samtal med Mexikos handelsminister Raquel Beunrostro och Mexikos utrikesminister Alicia Bárcena Ibarra.
+I anslutning till Mexico-Sweden Business Forum kommer bistånds- och utrikeshandelsminister Johan Forssell att ha bilaterala samtal med Mexikos handelsminister Raquel Beunrostro och Mexikos utrikesminister Alicia Bárcena Ibarra.
 
 ### SOS Barnbyar
 
 Kungaparet besöker SOS Barnbyar, där en förevisning av verksamheten kommer att äga rum. Diana Elena Rosales Espinosa, vd för SOS Barnbyar i Mexiko, Nuria Fernandéz Espresate, ansvarig för det nationella familjeintegreringssystemet och María Constanza Tort San Román, tillförordnad exektuvidirektör för SIPINNA (det nationellt systemet för skydd av flickor, pojkar och ungdomar) är några av de personer, som tillsammans med barn som bor på platsen, tar emot och visar runt.
-[Mexico \- SOS Children's Villages International](https://www.sos-childrensvillages.org/where-we-help/americas/mexico)
+[Mexico - SOS Children's Villages International](https://www.sos-childrensvillages.org/where-we-help/americas/mexico)
 
 ### Universidad Nacional Autónoma de México (UNAM)
 
-Kungaparet besöker sedan det stora statliga universitetet, Universidad Nacional Autónoma de México (UNAM). Det har över 350 000 studenter och är rankat på topp hundra\-listan över världens främsta universitet. Universitetets rektor Leonardo Lomelí Vanegas tar emot vid ankomst. Därutöver deltar bland andra Alexander Dmitriev, prefekt för Institutionen för fysik på Göteborgs universitet, Fransisco Viñuela och Rodrigo Villegas Mendoza, lärare i svenska på UNAM. Efter en presentation av verksamheten och undertecknande av ett samarbetsavtal mellan fysikinstitutionerna på UNAM och Göteborgs Universitet, kommer kungaparet att få träffa en liten grupp mexikanska elever som studerar svenska.
+Kungaparet besöker sedan det stora statliga universitetet, Universidad Nacional Autónoma de México (UNAM). Det har över 350 000 studenter och är rankat på topp hundra-listan över världens främsta universitet. Universitetets rektor Leonardo Lomelí Vanegas tar emot vid ankomst. Därutöver deltar bland andra Alexander Dmitriev, prefekt för Institutionen för fysik på Göteborgs universitet, Fransisco Viñuela och Rodrigo Villegas Mendoza, lärare i svenska på UNAM. Efter en presentation av verksamheten och undertecknande av ett samarbetsavtal mellan fysikinstitutionerna på UNAM och Göteborgs Universitet, kommer kungaparet att få träffa en liten grupp mexikanska elever som studerar svenska.
 [UNAM](https://www.unam.mx/)
 
 ### Lunch med näringslivsrepresentanter
@@ -50,12 +49,12 @@ Kungaparet och statsrådet Johan Forssell deltar i en lunch med representanter f
 
 ### Ericsson Mexico City
 
-På eftermiddagen kommer Sveriges roll på den mexikanska telekommarknaden att belysas. Det sker vid ett möte på Ericssons nybyggda kontor i Mexico City. Efter en inledande presentation av statssekreterare Rogelio Jiménez Pons Gómez, Mexikos departement för infrastruktur, kommunikation och transport, håller bistånds\- och utrikeshandelsminister Johan Forssell ett anförande. Ericssons tillförordnade vd för Nord\- och Latinamerika, Fabian Mongue, berättar om verksamheten i Mexiko, som startade för 120 år sedan. Kungen inviger därefter det nya kontoret, varefter en rundvandring med kungaparet och statsrådet sker.
+På eftermiddagen kommer Sveriges roll på den mexikanska telekommarknaden att belysas. Det sker vid ett möte på Ericssons nybyggda kontor i Mexico City. Efter en inledande presentation av statssekreterare Rogelio Jiménez Pons Gómez, Mexikos departement för infrastruktur, kommunikation och transport, håller bistånds- och utrikeshandelsminister Johan Forssell ett anförande. Ericssons tillförordnade vd för Nord- och Latinamerika, Fabian Mongue, berättar om verksamheten i Mexiko, som startade för 120 år sedan. Kungen inviger därefter det nya kontoret, varefter en rundvandring med kungaparet och statsrådet sker.
 [Ericsson in Mexico](https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/mexico)
 
 ### Möte med svenskkolonin
 
-Kungaparet och bistånds\- och utrikeshandelsminister Johan Forssell träffar medlemmar ur svenskkolonin vid ett möte på det svenska residenset, med ambassadör Gunnar Aldén som värd. Kungen och statsrådet kommer också att hålla varsitt anförande.
+Kungaparet och bistånds- och utrikeshandelsminister Johan Forssell träffar medlemmar ur svenskkolonin vid ett möte på det svenska residenset, med ambassadör Gunnar Aldén som värd. Kungen och statsrådet kommer också att hålla varsitt anförande.
 
 ### Palacio de Bellas Artes
 
@@ -68,7 +67,7 @@ Statsbesökets tredje dag äger rum i Mérida i delstaten Yucatán.
 
 ### Mérida
 
-Kungaparet och bistånds\- och utrikeshandelsminister Forssell anländer till Mérida där de välkomnas av Yucatáns guvernör Mauricio Vila Dosal med fru Maria Eugenia Ortiz Abraham.
+Kungaparet och bistånds- och utrikeshandelsminister Forssell anländer till Mérida där de välkomnas av Yucatáns guvernör Mauricio Vila Dosal med fru Maria Eugenia Ortiz Abraham.
 
 ### Hacienda Temozón
 

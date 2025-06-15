@@ -1,7 +1,7 @@
 # Tilläggsdirektiv till Indelningskommittén
 
 Regeringen beslutade den 2 juli 2015 att ge en kommitté i
-uppdrag att bl.a. föreslå en ny läns\- och landstingsindelning som innebär att Sverige delas in i väsentligt färre län och landsting (dir. 2015:77\). Kommittén har antagit namnet Indelningskommittén. Regeringen beslutar nu att detta uppdrag och tillhörande deluppdrag ska utgå. Kommittén ska inte heller utreda länsstyrelsernas organisation eller lämna förslag till hur det regionala utvecklingsansvaret ska tilldelas
+uppdrag att bl.a. föreslå en ny läns- och landstingsindelning som innebär att Sverige delas in i väsentligt färre län och landsting (dir. 2015:77). Kommittén har antagit namnet Indelningskommittén. Regeringen beslutar nu att detta uppdrag och tillhörande deluppdrag ska utgå. Kommittén ska inte heller utreda länsstyrelsernas organisation eller lämna förslag till hur det regionala utvecklingsansvaret ska tilldelas
 landstingen. Kommittén behåller dock uppdragen i fråga om
 beteckningen för kommuner på regional nivå och statliga
 myndigheters regionala indelning. När det gäller det regionala
@@ -19,4 +19,4 @@ hur landstingen ser på den framtida utvecklingen när det gäller
 samverkan.
 
 Utredningstiden förlängs. Uppdraget ska i sin helhet slutredovisas
-senast den 28 februari 2018\.
+senast den 28 februari 2018.

@@ -1,6 +1,6 @@
 # En ny biobankslag
 
-Regeringen föreslår att en ny biobankslag ska ersätta den nuvarande lagen om biobanker i hälso\- och sjukvården m.m. Även den nya lagen ska reglera hur prover, med respekt för den enskilda människans integritet, ska få samlas in, bevaras och användas för vissa ändamål.
+Regeringen föreslår att en ny biobankslag ska ersätta den nuvarande lagen om biobanker i hälso- och sjukvården m.m. Även den nya lagen ska reglera hur prover, med respekt för den enskilda människans integritet, ska få samlas in, bevaras och användas för vissa ändamål.
 
 ## Utökat tillämpningsområde
 
@@ -8,7 +8,7 @@ Den nya biobankslagen har ett utökat tillämpningsområde. Detta genom att dess
 
 ## Annan lag får inte företräde
 
-Avvikande bestämmelser i andra lagar får inte generellt företräde framför den nya lagen. Systemet med primär\- och sekundärbiobanker tas bort.
+Avvikande bestämmelser i andra lagar får inte generellt företräde framför den nya lagen. Systemet med primär- och sekundärbiobanker tas bort.
 
 ## Tillfällen då prover inte kräver samtycke
 
@@ -18,8 +18,8 @@ Samtycke till att samla in och bevara prover för provgivarens vård eller behan
 
 Reglerna om tillgängliggörande av prover utanför biobanken tydliggörs och en ny möjlighet, att skicka prover för viss åtgärd, införs.
 
-Det generella förbudet mot att förvara prover utomlands tas bort. Reglerna om PKU\-biobanken överförs till den nya lagen i stort sett oförändrade.
+Det generella förbudet mot att förvara prover utomlands tas bort. Reglerna om PKU-biobanken överförs till den nya lagen i stort sett oförändrade.
 
 Lagen ska innehålla bestämmelser om tillsyn, överklagande, straff och skadestånd.
 
-Lagförslagen föreslås träda i kraft den 1 januari 2023\.
+Lagförslagen föreslås träda i kraft den 1 januari 2023.

@@ -7,7 +7,7 @@ Regeringen uppdrar åt Polismyndigheten och Åklagarmyndigheten att ytterligare 
 
 Polismyndigheten och Åklagarmyndigheten ska gemensamt komma överens om den praktiska utformningen av samarbetet samt var i landet insatsen ska genomföras. Uppdraget ska genomföras där Polismyndighetens behov av stöd är stort och på ett sätt som innebär att åklagarresursen gör största möjliga nytta i utredningsarbetet.
 
-En redovisning av hur myndigheterna planerar att genomföra samverkansinsatsen ska lämnas till regeringen (Justitiedepartementet) senast den 15 mars 2017\.
+En redovisning av hur myndigheterna planerar att genomföra samverkansinsatsen ska lämnas till regeringen (Justitiedepartementet) senast den 15 mars 2017.
 
 Uppdraget ska slutredovisas till regeringen (Justitiedepartementet) senast tre månader efter att insatsen har avslutats. Slutredovisningen ska innehålla en redogörelse för hur arbetet har bedrivits, vilka resultat som har uppnåtts och vilka erfarenheter som har gjorts.
 

@@ -1,13 +1,10 @@
 # Tidplan för genomförande av engångsplastdirektivet i Sverige
 
-Enligt engångsplastdirektivet ska vissa delar av direktivet vara genomförda och tillämpas från den 3 juli 2021\. Men beslut om samtliga delar av direktivet kommer tidigast kunna fattas efter 1 november 2021
-
+Enligt engångsplastdirektivet ska vissa delar av direktivet vara genomförda och tillämpas från den 3 juli 2021. Men beslut om samtliga delar av direktivet kommer tidigast kunna fattas efter 1 november 2021
 
 Europaparlamentets och rådets direktiv (EU) 2019/904 om minskning av vissa plastprodukters inverkan på miljön, det så kallade engångsplastdirektivet, syftar till att förebygga och minska vissa plastprodukters inverkan på miljön, särskilt vattenmiljön.
 
-Beredning av förordningsändringar pågår inom Regeringskansliet. Planen är att alla förslag som innefattar genomförandet av engångsplastdirektivet ska beslutas samlat. Det är möjligt först efter att de lagändringar som innehåller de bemyndiganden som krävs beslutats av riksdagen (prop. 2020/21:198\) och Sverige anmält vissa av förslagen till EU\-kommissionen. Bemyndigandena föreslås träda i kraft den 1 november 2021\. Regeringen kan således fatta beslut om samtliga förordningar först efter det datumet.
-
-
+Beredning av förordningsändringar pågår inom Regeringskansliet. Planen är att alla förslag som innefattar genomförandet av engångsplastdirektivet ska beslutas samlat. Det är möjligt först efter att de lagändringar som innehåller de bemyndiganden som krävs beslutats av riksdagen (prop. 2020/21:198) och Sverige anmält vissa av förslagen till EU-kommissionen. Bemyndigandena föreslås träda i kraft den 1 november 2021. Regeringen kan således fatta beslut om samtliga förordningar först efter det datumet.
 
 ### Frågor och svar
 

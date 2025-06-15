@@ -1,13 +1,13 @@
 # Utredning om åtgärder för att främja bil-, motorcykel- och mopedpoolstjänster
 
-En särskild utredare ska lämna förslag om hur bil\-, motorcykel och
+En särskild utredare ska lämna förslag om hur bil-, motorcykel och
 mopedpoolstjänster ska kunna främjas. Huvudmotivet är att stimulera till en cirkulär ekonomi med mer resurseffektiva persontransporter.
 
 Utredaren ska i första hand undersöka förutsättningarna för en
 reducerad mervärdesskattesats på sådant tillhandahållande av bil,
 motorcykel och moped mot betalning som sker genom s.k.
 bilpool. Utredaren ska analysera och ta ställning till om sänkt
-mervärdesskatt på bilpoolstjänster är förenligt med EU\-rätten.
+mervärdesskatt på bilpoolstjänster är förenligt med EU-rätten.
 Om utredaren bedömer att en ordning med sänkt skattesats på
 bilpoolstjänster är möjlig ska utredaren lämna lagförslag om
 detta.
@@ -17,7 +17,7 @@ undersöka andra sätt att främja bilpooltjänster än inom ramen för
 skattesystemet. Utredaren ska i denna del närmare analysera
 förslaget av Utredningen cirkulär ekonomi i betänkandet Från
 värdekedja till värdecykel – så får Sverige en mer cirkulär
-ekonomi (SOU 2017:22\) om att öka tillgängligheten till
+ekonomi (SOU 2017:22) om att öka tillgängligheten till
 bilpooler. Om det bedöms lämpligt ska utredaren lämna förslag
 om detta.
 
@@ -37,4 +37,4 @@ om de fordon som används i en sådan bilpoolstjänst.
 Utredaren ska analysera och redovisa effekterna för
 transportsektorn och andra berörda branscher.
 
-Uppdraget ska redovisas senast den 18 december 2019\.
+Uppdraget ska redovisas senast den 18 december 2019.

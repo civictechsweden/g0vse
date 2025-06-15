@@ -9,8 +9,8 @@ Uppdraget omfattar inte förändrad beskattning av eller uttag av avgift på så
 
 I uppdraget ingår även att utreda förutsättningarna för att
 involvera privat kapital i finansieringen av statlig transportinfrastruktur.
-Kommittén ska bl.a. analysera vilka alternativ eller modeller som finns för sådan finansiering. Kommittén ska redogöra för för\- och nackdelar på kort och på lång sikt för staten och potentiella finansiärer med de olika alternativen. Alternativen ska även jämföras med upplåning i Riksgäldskontoret och användning av olika upphandlingsformer.
+Kommittén ska bl.a. analysera vilka alternativ eller modeller som finns för sådan finansiering. Kommittén ska redogöra för för- och nackdelar på kort och på lång sikt för staten och potentiella finansiärer med de olika alternativen. Alternativen ska även jämföras med upplåning i Riksgäldskontoret och användning av olika upphandlingsformer.
 
 Ett delbetänkande ska lämnas senast den 28 februari 2017
 och det slutliga uppdraget ska redovisas senast den 28 februari
-2018\.
+2018.

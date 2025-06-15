@@ -4,7 +4,7 @@ I propositionen föreslår regeringen en ny lag om allmännyttiga kommunala bost
 
 I propositionen föreslås även förändringar i hyreslagstiftningen: Kollektivt förhandlade hyror ska vara normerande. Hyressättningen i de allmännyttiga kommunala bostadsföretagen ska inte längre vara normerande för alla hyror. Istället ska kollektivt förhandlade hyror vara normerande, oavsett avtalsparter. Vidare föreslås en ny skyddsregel mot kraftiga hyreshöjningar ska dämpa effekten av kraftiga hyreshöjningar i fall där hyran tidigare varit för låg i förhållande till bruksvärdet.
 
-Den föreslagna nya lagen och lagändringarna föreslås träda i kraft 1 januari 2011\.
+Den föreslagna nya lagen och lagändringarna föreslås träda i kraft 1 januari 2011.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Riksdagen fattade den 22 juni 2010 beslut om propositionen.

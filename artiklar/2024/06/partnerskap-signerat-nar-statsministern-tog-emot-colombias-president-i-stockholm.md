@@ -1,7 +1,6 @@
 # Partnerskap signerat när statsministern tog emot Colombias president i Stockholm
 
-Statsminister Ulf Kristersson och Colombias president Gustavo Petro har signerat ett bilateralt partnerskapsavtal mellan Sverige och Colombia. Signeringen skedde i anslutning till den colombianska presidentens besök i Sverige. Sverige och Colombia firar i år 150 års\-jubileum av bilaterala relationer mellan länderna.
-
+Statsminister Ulf Kristersson och Colombias president Gustavo Petro har signerat ett bilateralt partnerskapsavtal mellan Sverige och Colombia. Signeringen skedde i anslutning till den colombianska presidentens besök i Sverige. Sverige och Colombia firar i år 150 års-jubileum av bilaterala relationer mellan länderna.
 
 Partnerskapsavtalet syftar till att stärka ländernas samarbete inom huvudsakligen fyra områden:
 

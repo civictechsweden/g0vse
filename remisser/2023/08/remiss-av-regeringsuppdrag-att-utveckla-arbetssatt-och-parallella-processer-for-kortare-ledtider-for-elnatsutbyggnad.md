@@ -2,5 +2,4 @@
 
 Här kan du ta del av svaren från de som ombetts svara på remissen av rapporten Kortare ledtider för elnätsutbyggnad. Övriga yttranden finns tillgängliga i departementet.
 
-
-Remissvaren ska ha kommit in senast den 31 oktober 2023\.
+Remissvaren ska ha kommit in senast den 31 oktober 2023.

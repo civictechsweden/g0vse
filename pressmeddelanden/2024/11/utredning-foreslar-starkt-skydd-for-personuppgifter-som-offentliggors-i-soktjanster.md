@@ -10,4 +10,4 @@ Utredningen föreslår att generella grundlagsundantag bör införas i tryckfrih
 
 Utredningens förslag innebär att delegationsbestämmelserna i 1 kap. 13 § TF och 1 kap. 20 § YGL utökas till att omfatta samtliga personuppgifter. Vidare föreslås bestämmelserna ändras så att de tillämpas endast om offentliggörandet innebär särskilda risker för otillbörliga intrång i enskildas personliga integritet. Vid denna bedömning ska särskilt beaktas personuppgifternas karaktär, omfattningen av offentliggörandet och syftet med offentliggörandet.
 
-Utredningen föreslår att grundlagsändringarna ska träda i kraft den 1 januari 2027\.
+Utredningen föreslår att grundlagsändringarna ska träda i kraft den 1 januari 2027.

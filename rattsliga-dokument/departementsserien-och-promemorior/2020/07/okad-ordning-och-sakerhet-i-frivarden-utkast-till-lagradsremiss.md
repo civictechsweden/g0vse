@@ -6,4 +6,4 @@ I utkastet föreslås en ny lag om säkerhetskontroll på frivårdskontor. Säke
 
 Kontrollen ska i första hand utföras av Kriminalvårdens egen personal men den ska även kunna utföras av polismän och ordningsvakter. Den ska få bestå av kroppsvisitation och undersökning av väskor och andra föremål, i första hand med en metalldetektor eller en annan liknande anordning. Lagen reglerar också bland annat vad som händer när farliga föremål upptäcks.
 
-Den nya lagen föreslås träda i kraft den 1 mars 2021\.
+Den nya lagen föreslås träda i kraft den 1 mars 2021.

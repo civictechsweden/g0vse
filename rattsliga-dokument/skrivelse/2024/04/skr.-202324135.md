@@ -2,7 +2,7 @@
 
 I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och
 rekommendationer som Riksrevisionen har gjort i rapporten Nationell plan
-för transportinfrastrukturen – lovar mer än den kan hålla (RiR 2033:25\).
+för transportinfrastrukturen – lovar mer än den kan hålla (RiR 2033:25).
 
 Riksrevisionens övergripande slutsats är att investeringarna i nationell
 plan bidrar till att de transportpolitiska målen uppnås men inte på ett

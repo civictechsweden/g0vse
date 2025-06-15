@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Kammarkollegiet att analysera och utvärdera hur utökningen av målgruppen för Allmänna arvsfonden till att omfatta äldre personer påverkat fördelningen av medel.
 
-
 Kammarkollegiet ska bland annat:
 
 * utvärdera om regleringen i lagen om Allmänna arvsfonden om att högst en tiondel av det belopp som regeringen beslutar ska vara tillgängligt för utdelning får fördelas till förmån för äldre personer är ändamålsenlig och uppfyller sitt syfte,

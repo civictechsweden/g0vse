@@ -1,15 +1,16 @@
 # Satsning ska öka tillgången till VFU-platser i hälso- och sjukvårdsutbildningar
 
-Sverige har ett stort behov av fler som vill jobba inom vården. Det är en förutsättning bland annat för att öka antalet vårdplatser. Intresset för att utbilda sig till olika vårdyrken är stort. Men trots ett relativt högt söktryck och ökade resurser till utbildning har flera universitet och högskolor inte kunnat bygga ut till exempel sjuksköterskeutbildningen. En av orsakerna är bristen på VFU\-platser.
+Sverige har ett stort behov av fler som vill jobba inom vården. Det är en förutsättning bland annat för att öka antalet vårdplatser. Intresset för att utbilda sig till olika vårdyrken är stort. Men trots ett relativt högt söktryck och ökade resurser till utbildning har flera universitet och högskolor inte kunnat bygga ut till exempel sjuksköterskeutbildningen. En av orsakerna är bristen på VFU-platser.
 
-– För att kunna bygga ut sjuksköterskeutbildningen krävs fler VFU\-platser så att studenterna kan få nödvändig praktik och utbildning i vården. Brist på sådana platser är i nuläget en stor flaskhals som gör att flera universitet och högskolor har haft svårt att bygga ut utbildningen. Nu betalas 50 miljoner kronor ut till de universitet och högskolor som ger sjuksköterskeutbildning för att öka tillgången till VFU\-platser, säger utbildningsminister Mats Persson.
+– För att kunna bygga ut sjuksköterskeutbildningen krävs fler VFU-platser så att studenterna kan få nödvändig praktik och utbildning i vården. Brist på sådana platser är i nuläget en stor flaskhals som gör att flera universitet och högskolor har haft svårt att bygga ut utbildningen. Nu betalas 50 miljoner kronor ut till de universitet och högskolor som ger sjuksköterskeutbildning för att öka tillgången till VFU-platser, säger utbildningsminister Mats Persson.
 
-Medlen kan till exempel användas till att initiera och utveckla samarbeten med vårdgivare, höja ersättningen till vårdgivare som erbjuder VFU\-platser eller erbjuda fler personer handledarutbildning.
+Medlen kan till exempel användas till att initiera och utveckla samarbeten med vårdgivare, höja ersättningen till vårdgivare som erbjuder VFU-platser eller erbjuda fler personer handledarutbildning.
 
 ## Fördelning av medel för 2023
 
-| **Universitet/högskola** | **Kronor** |
+|  |  |
 | --- | --- |
+| **Universitet/högskola** | **Kronor** |
 | Uppsala universitet | 2 050 000 |
 | Lunds universitet | 1 800 000 |
 | Göteborgs universitet | 2 150 000 |

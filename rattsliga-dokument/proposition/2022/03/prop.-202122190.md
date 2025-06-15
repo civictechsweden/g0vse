@@ -4,4 +4,4 @@ I propositionen föreslås att regeringen eller den myndighet som regeringen bes
 
 Därutöver föreslås att den som övningskör ska vara skyldig att medföra en identitetshandling. Skyldigheten ska vara straffsanktionerad. Samtliga förslag syftar till att stävja den illegala utbildningsverksamheten och att förbättra trafiksäkerheten.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2023\.
+Lagändringarna föreslås träda i kraft den 1 januari 2023.

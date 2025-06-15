@@ -4,10 +4,10 @@
 
 I promemorian föreslås att Polismyndighetens och Säkerhetspolisens möjligheter att bedriva kamerabevakning på bland annat vägar, gator och torg ska utökas. På så sätt ska exempelvis kamerabevakning som möjliggör automatisk igenkänning av registreringsnummer kunna användas i ökad utsträckning.
 
-Det föreslås vidare att Polismyndigheten och Säkerhetspolisen ska kunna ges tillstånd att i vissa fall använda kamerabevakning som möjliggör automatisk ansiktsigenkänning, i enlighet med EU:s AI\-förordning. Det kan till exempel handla om att använda sådan teknik för att förhindra en planerad terroristattack.
+Det föreslås vidare att Polismyndigheten och Säkerhetspolisen ska kunna ges tillstånd att i vissa fall använda kamerabevakning som möjliggör automatisk ansiktsigenkänning, i enlighet med EU:s AI-förordning. Det kan till exempel handla om att använda sådan teknik för att förhindra en planerad terroristattack.
 
 I promemorian lämnas även flera förslag som ska underlätta insamling och spridning av kamerabevakningsmaterial. Bland annat föreslås en utvidgad uppgiftsskyldighet för Transportstyrelsen för uppgifter från trängselskattekameror och infrastrukturavgiftskameror. Kamerabevakningsmaterial föreslås också kunna delas lättare inom polisen och med andra brottsbekämpande myndigheter än i dag.
 
 Detta är den första snabbspårsutredningen som presenteras för regeringen.
 
-Förslagen föreslås träda i kraft den 1 januari 2025\. Förslaget om automatisk ansiktsigenkänning föreslås träda i kraft den dag som regeringen bestämmer.
+Förslagen föreslås träda i kraft den 1 januari 2025. Förslaget om automatisk ansiktsigenkänning föreslås träda i kraft den dag som regeringen bestämmer.

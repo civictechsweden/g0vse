@@ -11,4 +11,4 @@ författningsförslag som behövs för att anpassa svensk lagstiftning till dire
 
 Utredaren ska ha den svenska arbetsmarknadsmodellen som utgångspunkt för sina överväganden och förslag och genomföra utredningsarbetet i dialog med arbetsmarknadens parter.
 
-Uppdraget ska redovisas senast den 15 augusti 2016\.
+Uppdraget ska redovisas senast den 15 augusti 2016.

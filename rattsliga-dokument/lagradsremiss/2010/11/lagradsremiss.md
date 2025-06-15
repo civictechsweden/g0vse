@@ -10,4 +10,4 @@ I den nya lagen föreslås bland annat:
 * nya bestämmelser som gäller förhandlingen om inrättandet av ett företagsråd eller annat samrådsförfarande
 * gemenskapsföretaget/det kontrollerande företaget i företagsgruppen får ansvar för att ge arbetstagarrepresentanterna utbildning
 
-Den nya lagen föreslås träda i kraft den 6 juni 2011\.
+Den nya lagen föreslås träda i kraft den 6 juni 2011.

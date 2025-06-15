@@ -8,6 +8,6 @@ Dubbeldagarna gör det möjligt att vara lediga tillsammans när barnet är lite
 
 De nya reglerna innebär ett viktigt steg mot en flexiblare och mer jämställd föräldraförsäkring.
 
-– Tillsammans bidrar förslagen till att föräldrar kan förena arbetsliv med familjeliv i perioder i livet som kräver mer flexibilitet. På så sätt är det reformer som stärker arbetslinjen och föräldrars makt att utforma sitt eget liv. Förslagen bidrar tillsammans till en mer modern föräldraförsäkring, säger äldre\- och socialförsäkringsminister Anna Tenje.
+– Tillsammans bidrar förslagen till att föräldrar kan förena arbetsliv med familjeliv i perioder i livet som kräver mer flexibilitet. På så sätt är det reformer som stärker arbetslinjen och föräldrars makt att utforma sitt eget liv. Förslagen bidrar tillsammans till en mer modern föräldraförsäkring, säger äldre- och socialförsäkringsminister Anna Tenje.
 
-De nya bestämmelserna träder i kraft den 1 juli 2024\. Förslagen till de nya bestämmelserna har utarbetats efter en överenskommelse mellan regeringen och Sverigedemokraterna.
+De nya bestämmelserna träder i kraft den 1 juli 2024. Förslagen till de nya bestämmelserna har utarbetats efter en överenskommelse mellan regeringen och Sverigedemokraterna.

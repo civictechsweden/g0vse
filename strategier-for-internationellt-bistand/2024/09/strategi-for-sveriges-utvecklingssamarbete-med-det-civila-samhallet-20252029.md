@@ -1,7 +1,6 @@
 # Strategi för Sveriges utvecklingssamarbete med det civila samhället 2025–2029
 
-Denna strategi för Sveriges utvecklingssamarbete med det civila samhället gäller för perioden 2025–2029\. Strategin ska bidra till ett stärkt civilsamhälle i utvecklingsländer, och att en ökad andel stöd når lokala organisationer.
-
+Denna strategi för Sveriges utvecklingssamarbete med det civila samhället gäller för perioden 2025–2029. Strategin ska bidra till ett stärkt civilsamhälle i utvecklingsländer, och att en ökad andel stöd når lokala organisationer.
 
 Civilsamhällesorganisationer (CSO) är viktiga partners i genomförandet av det svenska humanitära biståndet och utvecklingssamarbetet.
 

@@ -8,4 +8,4 @@ Regeringen föreslår därför att förvalt­nings­myndig­heters beslut som av
 
 Regeringen före­slår dess­utom att ett barns ansökan om verk­ställighet som avser skade­stånd på grund av brott ska få göras av endast en vård­nads­havare, om den andra vård­nads­havaren är den som är skade­stånds­skyldig eller om det annars finns särskilda skäl.
 
-Lagändringarna före­slås träda i kraft den 1 september 2022\. För Centrala studie­stöds­nämnden föreslås de nya reglerna tillämpas på beslut som med­delas först efter den 31 augusti 2025\.
+Lagändringarna före­slås träda i kraft den 1 september 2022. För Centrala studie­stöds­nämnden föreslås de nya reglerna tillämpas på beslut som med­delas först efter den 31 augusti 2025.

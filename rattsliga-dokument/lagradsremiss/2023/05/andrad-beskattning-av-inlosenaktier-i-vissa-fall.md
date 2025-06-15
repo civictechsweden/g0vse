@@ -10,4 +10,4 @@ Det föreslås även att kupongskatt ska tas ut på inlösenaktier som tilldelas
 
 Förslaget bedöms medföra en offentligfinansiell effekt på 0,59 miljarder kronor.
 
-Ändringarna föreslås träda i kraft den 1 januari 2025 och tillämpas första gången på inlösenaktier som tilldelas aktieägarna efter den 31 december 2024\.
+Ändringarna föreslås träda i kraft den 1 januari 2025 och tillämpas första gången på inlösenaktier som tilldelas aktieägarna efter den 31 december 2024.

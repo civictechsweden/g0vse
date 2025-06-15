@@ -4,4 +4,4 @@ Socialdepartementet föreslår förordningsändringar utifrån regeringens avise
 
 Socialdepartementet föreslår att personer som är 20 till 23 år ska få 600 kronor om året i allmänt tandvårdsbidrag. Bidraget för personer mellan 24 och 29 år sänks från 600 kronor till 300 kronor om året.
 
-Förordningsändringarna föreslås träda i kraft den 1 januari 2025\.
+Förordningsändringarna föreslås träda i kraft den 1 januari 2025.

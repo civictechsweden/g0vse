@@ -6,12 +6,12 @@ Regeringen har beslutat om ändring i förordningen om deponering av avfall. Än
 
 ### Referenser
 
-* förordningen (2001:512\) om deponering av avfall
+* förordningen (2001:512) om deponering av avfall
 
 ## Mer information
 
-Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 18 augusti 2015\.
+Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 18 augusti 2015.
 
 Kontaktperson:
 
-Johan Fallenius 08\-405 13 49
+Johan Fallenius 08-405 13 49

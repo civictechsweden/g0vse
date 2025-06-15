@@ -14,4 +14,4 @@ Utredaren ska bland annat:
 * analysera behovet av och, om det bedöms lämpligt, föreslå hur förutsättningar kan skapas för en långsiktig och jämförbar uppföljning av och prognoser över samhällskostnader för påverkbara riskfaktorer för ohälsa och hälsoekonomiska utvärderingar, och
 * utvärdera effekterna av alkoholpolitikens olika styrmedel och bedöma hur väl dessa har uppfyllt sitt syfte.
 
-Uppdraget ska redovisas senast den 31 oktober 2025\.
+Uppdraget ska redovisas senast den 31 oktober 2025.

@@ -6,10 +6,10 @@ Syftet med uppdraget är att åstadkomma en valordning som är lätt att först�
 
 Utredaren ska bl.a.
 
-* analysera ordningen för val i kommun\- och regionfullmäktige,
+* analysera ordningen för val i kommun- och regionfullmäktige,
 * ta ställning till hur en möjlighet till automatiserat beslutsfattande kan införas i kommuner och regioner, och
 * lämna författningsförslag.
 
 En parlamentariskt sammansatt referensgrupp ska knytas till utredningen.
 
-Uppdraget ska redovisas senast den 24 mars 2021\.
+Uppdraget ska redovisas senast den 24 mars 2021.

@@ -6,7 +6,7 @@
 * 3 miljoner euro till koalitionen för maritim säkerhet (Maritime Security Coalition). Koalitionen syftar till att öka Ukrainas förmåga till säkra sjötransporter i Svartahavet och samtidigt öka den ukrainska flottans förmåga inom havsövervakning, amfibiestrid, sjökontroll och bekämpning av ryska örlogsfartyg.
 * 10 miljoner euro till koalitionen för drönare (Drone Coalition). Med stödet från koalitionen kan Ukrainas drönarförmåga öka genom att fler ukrainska soldater utbildas på drönarområdet. Ukraina får också hjälp med upphandling av drönare genom stödet.
 
-Dessutom ska Försvarsmakten genomföra en utbetalning på 10 miljoner euro till Natos fond för Ukraina (Ukraine Comprehensive Assistance Package Trust Fund). Fondens syfte är bland annat att upphandla bränsle, medicinsk utrustning, militär träningsutrustning och stöd för att stärka och modernisera Ukrainas försvars\- och säkerhetsinstitutioner.
+Dessutom ska Försvarsmakten genomföra en utbetalning på 10 miljoner euro till Natos fond för Ukraina (Ukraine Comprehensive Assistance Package Trust Fund). Fondens syfte är bland annat att upphandla bränsle, medicinsk utrustning, militär träningsutrustning och stöd för att stärka och modernisera Ukrainas försvars- och säkerhetsinstitutioner.
 
 Finansiering sker inom ramen för avsatta medel i tidigare beslutade stödpaket till Ukraina.
 

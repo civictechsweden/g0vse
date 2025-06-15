@@ -6,13 +6,13 @@ Regeringen har beslutat om ändringar i ett par myndighetsinstruktioner som inne
 
 I förordningen med instruktion för Forskningsrådet för miljö, areella näringar och samhällsbyggande och förordningen med instruktion för Statens energimyndighet görs ändringar som synliggör att Rymdstyrelsen också ingår i gruppen.
 
-Ändringarna träder i kraft den 18 april 2019\.
+Ändringarna träder i kraft den 18 april 2019.
 
 **Referenser:**
 
-* förordningen (2009:1024\) med instruktion för Forskningsrådet för miljö, areella näringar och samhällsbyggande
-* förordningen (2014:520\) med instruktion för Statens energimyndighet
+* förordningen (2009:1024) med instruktion för Forskningsrådet för miljö, areella näringar och samhällsbyggande
+* förordningen (2014:520) med instruktion för Statens energimyndighet
 
 ### Kontaktperson:
 
-Egon Abresparr 08\-405 39 13
+Egon Abresparr 08-405 39 13

@@ -1,17 +1,16 @@
 # Regeringens första 100 dagar för landsbygd och infrastruktur
 
-Nu har det gått 100 dagar sedan regeringen tillträdde. En viktig prioritering är landsbygdspolitiken, där det sammanhållna Landsbygds\- och infrastrukturdepartementet initierat flera viktiga insatser för att hela landet ska fungera.
+Nu har det gått 100 dagar sedan regeringen tillträdde. En viktig prioritering är landsbygdspolitiken, där det sammanhållna Landsbygds- och infrastrukturdepartementet initierat flera viktiga insatser för att hela landet ska fungera.
 
+– Fokus ligger på att villkoren för att leva, bo och verka i hela Sverige ska stärkas. En viktig länk mellan stad och landsbygd är till exempel livsmedelssektorn, där livsmedelskedjan sysselsätter många människor i vårt land. Vi bygger upp en livsmedelsberedskap och har också påbörjat arbetet med en livsmedelsstrategi 2.0, säger landsbygdsminister Peter Kullgren.
 
-– Fokus ligger på att villkoren för att leva, bo och verka i hela Sverige ska stärkas. En viktig länk mellan stad och landsbygd är till exempel livsmedelssektorn, där livsmedelskedjan sysselsätter många människor i vårt land. Vi bygger upp en livsmedelsberedskap och har också påbörjat arbetet med en livsmedelsstrategi 2\.0, säger landsbygdsminister Peter Kullgren.
-
-– För att hela landet ska fungera behöver vi också bygga ut och underhålla samhällsviktig infrastruktur och det behövs reformer för bostäder och bostadsbyggande. Regeringen vill underlätta för arbetspendling och godstrafik för att stärka jobb och tillväxt. Vi prioriterar upprustning av befintlig järnväg, bättre vägstandard och utbyggd laddinfrastruktur, före investeringar i höghastighetståg, säger infrastruktur\- och bostadsminister Andreas Carlson.
+– För att hela landet ska fungera behöver vi också bygga ut och underhålla samhällsviktig infrastruktur och det behövs reformer för bostäder och bostadsbyggande. Regeringen vill underlätta för arbetspendling och godstrafik för att stärka jobb och tillväxt. Vi prioriterar upprustning av befintlig järnväg, bättre vägstandard och utbyggd laddinfrastruktur, före investeringar i höghastighetståg, säger infrastruktur- och bostadsminister Andreas Carlson.
 
 ## Urval beslut och åtgärder:
 
 ### Satsningar för att förbättra villkoren för landsbygden
 
-Villkoren för att leva, bo och verka i hela Sverige ska stärkas. Regeringen satsar därför på sänkt skatt för diesel som används inom jord\- och skogsbruk samt vattenbruksverksamhet, förstärkt reseavdrag, utbyggnad och underhåll av samhällsviktig infrastruktur, som underhåll av vägar, utbyggnad av laddinfrastruktur och etablering av bredband.
+Villkoren för att leva, bo och verka i hela Sverige ska stärkas. Regeringen satsar därför på sänkt skatt för diesel som används inom jord- och skogsbruk samt vattenbruksverksamhet, förstärkt reseavdrag, utbyggnad och underhåll av samhällsviktig infrastruktur, som underhåll av vägar, utbyggnad av laddinfrastruktur och etablering av bredband.
 [Pressmeddelande: Satsningar för att förbättra villkoren för landsbygden](/pressmeddelanden/2022/11/satsningar-for-att-forbattra-villkoren-for-landsbygden/)
 
 ### Regeringens budgetsatsningar inom transportområdet
@@ -36,7 +35,7 @@ Regeringen ger, genom Jordbruksverket, forskningsinstitutet RISE i uppdrag att i
 
 ### Extra satsning på servicebidrag till lanthandlare
 
-Lanthandlare i hela landet har givet det rådande omvärldsläget särskilda utmaningar som påverkar deras dagliga drift. För att stärka lanthandlarna har regeringen beslutat om ett extra servicebidrag till dagligvarubutiker i serviceglesa områden på 25 miljoner kronor 2023\.
+Lanthandlare i hela landet har givet det rådande omvärldsläget särskilda utmaningar som påverkar deras dagliga drift. För att stärka lanthandlarna har regeringen beslutat om ett extra servicebidrag till dagligvarubutiker i serviceglesa områden på 25 miljoner kronor 2023.
 [Pressmeddelande: Extra satsning på servicebidrag till lanthandlare](/pressmeddelanden/2022/12/extra-satsning-pa-servicebidrag-till-lanthandlare/)
 
 ### Regeringen har beslutat om fortsatt arbete för att bygga upp en livsmedelsberedskap

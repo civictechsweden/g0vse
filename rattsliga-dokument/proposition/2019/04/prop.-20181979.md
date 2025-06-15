@@ -1,6 +1,6 @@
 # Ändamålsenliga sanktioner mot otillåtna avfallstransporter
 
-I propositionen föreslås ändringar i miljöbalkens straffbestämmelser om otillåten avfallstransport som kompletterar Europaparlamentets och rådets förordning (EG) nr 1013/2006 av den 14 juni 2006 om transport av avfall (avfallstransportförordningen). Lagändringarna föreslås träda i kraft den 1 augusti 2019\.
+I propositionen föreslås ändringar i miljöbalkens straffbestämmelser om otillåten avfallstransport som kompletterar Europaparlamentets och rådets förordning (EG) nr 1013/2006 av den 14 juni 2006 om transport av avfall (avfallstransportförordningen). Lagändringarna föreslås träda i kraft den 1 augusti 2019.
 
 Straffansvaret för otillåten avfallstransport ska omfatta den som anordnar eller genomför en transport av avfall som är avsedd att gå till ett land utanför EU i strid med avfallstransportförordningen.
 
@@ -13,4 +13,4 @@ Straffansvaret för försvårande av miljökontroll utvidgas till att omfatta oc
 
 Det införs en möjlighet att hålla kvar och omhänderta avfall om det behövs för att säkerställa att ett föreläggande eller förbud med koppling till avfallstransportförordningen följs. Vidare ska avfall som varit föremål för brott kunna förverkas. Avfall som tagits i beslag ska också få säljas eller förstöras, om det skäligen kan antas att avfallet kommer att förverkas.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2019\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2019.

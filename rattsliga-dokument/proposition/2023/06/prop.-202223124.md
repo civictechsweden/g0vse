@@ -13,10 +13,10 @@ syfte att motverka penningtvätt i finansiella instituts verksamhet föreslås
 bland annat att
 
 * den som bedriver valutaväxling eller annan finansiell verksamhet ska
-registrera sig även om verksamheten inte bedrivs i väsentlig
-omfattning eller är den huvudsakliga,
+  registrera sig även om verksamheten inte bedrivs i väsentlig
+  omfattning eller är den huvudsakliga,
 * det ska införas ett allmänt lämplighetskrav för den som bedriver valutaväxling eller annan finansiell verksamhet, har ett kvalificerat innehav i ett finansiellt institut eller ingår i ledningen för ett finansiellt institut,
 * ett finansiellt institut ska till Finansinspektionen anmäla ändringar av de förhållanden som institutet har uppgett i sin ansökan om registrering, och
 * Finansinspektionen ska få besluta om sanktionsavgift för den som inte lämnar begärda upplysningar till inspektionen eller som bedriver registreringspliktig verksamhet utan att ansöka om registrering.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

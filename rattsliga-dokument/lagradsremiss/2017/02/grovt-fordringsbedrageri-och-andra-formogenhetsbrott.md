@@ -10,6 +10,6 @@ Regeringen lägger även fram flera förslag som tar sikte på regleringen av f�
 
 Det föreslås till exempel att förekomsten av integritetskränkande inslag i samband med en gärning ska få större genomslag vid bedömningen av om brotten skadegörelse och stöld ska anses vara grova. Vidare föreslår regeringen att straffskalorna för skadegörelse och grov skadegörelse ska skärpas och därigenom bättre överensstämma med vad som gäller för övriga förmögenhetsbrott.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2017\.
+Lagändringarna föreslås träda i kraft den 1 juli 2017.
 
 [Pressmeddelande: Nya regler om fakturabedrägerier och andra förmögenhetsbrott](/pressmeddelanden/2017/02/nya-regler-om-fakturabedragerier-och-andra-formogenhetsbrott/)

@@ -12,4 +12,4 @@ Förslagen som genomför ändrings­direktivet innebär bl.a. att
 
 I propositionen föreslår regeringen även lättnader i till­stånds­plikten för ljud­dämpare. Förslaget innebär att ljud­dämpare inte längre ska jäm­ställas med skjutvapen, utan i stället regleras på i princip samma sätt som ammu­nition.
 
-Lagändringarna föreslås träda i kraft den 1 mars 2021\.
+Lagändringarna föreslås träda i kraft den 1 mars 2021.

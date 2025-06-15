@@ -5,4 +5,4 @@ En kommitté i form av ett accelerationskontor för att underlätta industrins o
 Syftet med uppdraget är att underlätta industrins omställning till fossilfria
 produktionsprocesser, till exempel genom att bidra till en mer effektiv
 tillståndsprövning, andra åtgärder inom statlig förvaltning samt genom att
-identifiera och omhänderta investerings\- och etableringshinder.
+identifiera och omhänderta investerings- och etableringshinder.

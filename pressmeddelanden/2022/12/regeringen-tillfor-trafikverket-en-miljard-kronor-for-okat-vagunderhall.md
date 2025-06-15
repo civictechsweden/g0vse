@@ -1,6 +1,6 @@
 # Regeringen tillför Trafikverket en miljard kronor för ökat vägunderhåll
 
-– I Sverige finns en underhållsskuld när det kommer till vägnätet. Vi satsar därför en miljard kronor på utökat vägunderhåll. Det kommer bidra till att förbättra framkomligheten i hela landet och trygga en konkurrenskraftig infrastruktur, säger infrastruktur\- och bostadsminister Andreas Carlson.
+– I Sverige finns en underhållsskuld när det kommer till vägnätet. Vi satsar därför en miljard kronor på utökat vägunderhåll. Det kommer bidra till att förbättra framkomligheten i hela landet och trygga en konkurrenskraftig infrastruktur, säger infrastruktur- och bostadsminister Andreas Carlson.
 
 Det finns stora behov inom vägunderhållet och därför omprioriterar regeringen i budgeten för 2023 en mindre del av järnvägsunderhållet, 750 miljoner kronor, till vägunderhåll. Därutöver avsätter regeringen ytterligare 250 miljoner kronor till vägunderhåll.
 

@@ -10,4 +10,4 @@ Utredaren ska nu även bland annat:
 * föreslå vem som i fråga om en elev på det individuella programmet i gymnasiesärskolan, ska fatta beslut om omfattningen av elevens studier samt fördelning av antalet undervisningstimmar för varje ämnesområde, och
 * lämna nödvändiga författningsförslag.
 
-Utredningstiden förlängs. Uppdraget ska i stället slutredovisas senast den 28 februari 2021\.
+Utredningstiden förlängs. Uppdraget ska i stället slutredovisas senast den 28 februari 2021.

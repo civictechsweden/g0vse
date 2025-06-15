@@ -7,9 +7,9 @@ Utredaren ska bland annat analysera och ta ställning till
 * om straffskalorna för vissa hedersrelaterade brott bör skärpas,
 * om kretsen av personer som kan hållas straffrättsligt ansvariga för att ett barn tillåts att gifta sig före 18 års ålder eller tillåts att resa till en annan stat än den där han eller hon bor i syfte att barnet där ska utsättas för ett barnäktenskapsbrott bör utvidgas,
 * om försök och stämpling till vilseledande till äktenskapsresa samt tvång
-att vara kvar i ett äktenskap eller en äktenskapsliknande förbindelse bör kriminaliseras, och
+  att vara kvar i ett äktenskap eller en äktenskapsliknande förbindelse bör kriminaliseras, och
 * om förbudet mot erkännande av utländska månggiften bör gälla utan undantag och reglerna om erkännande av utländska fullmaktsäktenskap bör skärpas.
 
 Utredaren ska även lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 18 april 2025\.
+Uppdraget ska redovisas senast den 18 april 2025.

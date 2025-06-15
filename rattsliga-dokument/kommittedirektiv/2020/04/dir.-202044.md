@@ -2,7 +2,7 @@
 
 En särskild utredare ska göra en översyn av regelverket om utvisning på grund av brott och lämna förslag på hur man kan åstadkomma en skärpt reglering som innebär att det finns förutsättningar att i fler fall än i dag utvisa utlänningar som begår brott och effektivisera verkställigheten av sådana utvisningsbeslut.
 
-En viktig fråga är att skärpa utvisningsreglerna vid hedersrelaterad brottslighet och hatbrott och utredaren ska därför ta ställning till hur detta ska göras och om det utöver andra förslag behövs ytterligare skärpningar i detta avseende. Utredaren ska även ta ställning till hur skyddet mot av\- och utvisning av den som drabbas av hedersrelaterad brottslighet kan förstärkas och om det finns skäl att stärka skyddet för offer för människohandel.
+En viktig fråga är att skärpa utvisningsreglerna vid hedersrelaterad brottslighet och hatbrott och utredaren ska därför ta ställning till hur detta ska göras och om det utöver andra förslag behövs ytterligare skärpningar i detta avseende. Utredaren ska även ta ställning till hur skyddet mot av- och utvisning av den som drabbas av hedersrelaterad brottslighet kan förstärkas och om det finns skäl att stärka skyddet för offer för människohandel.
 
 Uppdraget bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.
 
@@ -29,4 +29,4 @@ Slutligen ska utredaren
 
 Utredaren ska lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 30 juni 2021\.
+Uppdraget ska redovisas senast den 30 juni 2021.

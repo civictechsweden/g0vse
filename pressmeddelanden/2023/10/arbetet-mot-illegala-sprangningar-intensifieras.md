@@ -11,6 +11,6 @@ De kriminellas tillgång till explosiva varor behöver strypas. Regeringen ökar
 * Stärka samarbetet med kommunerna och relevanta aktörer inom berörda branscher
 * Stärka det internationella samarbetet på området
 
-En delredovisning ska lämnas senast den 12 januari 2024 och slutredovisningen ska lämnas senast den 1 oktober 2024\.
+En delredovisning ska lämnas senast den 12 januari 2024 och slutredovisningen ska lämnas senast den 1 oktober 2024.
 
-Utöver detta hanterar regeringen i ett snabbspår författningsändringar för få ett nationellt tillståndsregister för explosiva varor på plats. Målsättningen är att ett sådant tillståndregister ska vara på plats den 1 juli 2024\. Registret ska vara ett viktigt verktyg för att kunna stoppa den illegala hanteringen av sprängämnen. Registret kommer att ge en bättre bild över de sprängämnen som finns, och motverka att de hamnar i orätta händer.
+Utöver detta hanterar regeringen i ett snabbspår författningsändringar för få ett nationellt tillståndsregister för explosiva varor på plats. Målsättningen är att ett sådant tillståndregister ska vara på plats den 1 juli 2024. Registret ska vara ett viktigt verktyg för att kunna stoppa den illegala hanteringen av sprängämnen. Registret kommer att ge en bättre bild över de sprängämnen som finns, och motverka att de hamnar i orätta händer.

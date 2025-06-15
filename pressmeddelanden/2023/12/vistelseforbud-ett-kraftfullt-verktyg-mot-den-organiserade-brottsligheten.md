@@ -8,4 +8,4 @@ Förbudet omfattas av flera rättssäkerhetsgarantier. Till exempel ska förbud 
 
 Förslagen har behandlats av Lagrådet som i huvudsak lämnat förslagen utan erinran.
 
-Regeringen föreslår att lagen ska träda i kraft den 1 februari 2024\. Det är en tidigareläggning med fem månader i förhållande till den ursprungliga planen. Propositionen ska nu behandlas av riksdagen.
+Regeringen föreslår att lagen ska träda i kraft den 1 februari 2024. Det är en tidigareläggning med fem månader i förhållande till den ursprungliga planen. Propositionen ska nu behandlas av riksdagen.

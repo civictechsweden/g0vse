@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Statskontoret att analysera Pensionsmyndighetens effektivitet och föreslå åtgärder.
 
-
 Statskontoret ska
 
 * analysera och bedöma hur Pensionsmyndigheten fullgör sina uppgifter samt hur interna och externa faktorer påverkar myndighetens resultat,
@@ -17,4 +16,4 @@ Statskontoret föreslår, utifrån sin analys, åtgärder för att utveckla Pens
 
 Pensionsmyndigheten bistår Statskontoret med de uppgifter och förutsättningar som krävs. Statskontoret samverkar med Ekonomistyrningsverket och informerar löpande Regeringskansliet om arbetets gång.
 
-Statskontoret redovisar uppdraget till Regeringskansliet senast den 31 oktober 2022\.
+Statskontoret redovisar uppdraget till Regeringskansliet senast den 31 oktober 2022.

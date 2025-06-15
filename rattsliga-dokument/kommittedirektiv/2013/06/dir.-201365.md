@@ -1,6 +1,6 @@
 # Översyn av bestämmelserna om undersökning av olyckor
 
-En särskild utredare ska göra en samlad översyn av lagen (1990:712\) om undersökning av olyckor och förordningen (1990:717\) om undersökning av olyckor samt utredningssekretess vid sådana undersökningar. Utredaren ska se över lagen och förordningen om undersökning av olyckor bland annat i syfte att göra bestämmelserna mer systematiska, effektiva och ändamålsenliga. Om utredaren finner det lämpligt, ska en ny lag föreslås. Utredaren ska även analysera Trafikverkets djupstudier av dödsolyckor i vägtrafiken, överväga om motsvarande studier behövs av dödsolyckor med spårbunden trafik samt analysera Transportstyrelsens vägtrafikolycksregister. Syftet bakom översynen är att undersökningar av olyckor ska vara effektiva och ge goda förutsättningar för beslut om åtgärder som kan förebygga en upprepning av olyckan eller tillbudet eller begränsa effekten av sådana olyckor eller tillbud.
+En särskild utredare ska göra en samlad översyn av lagen (1990:712) om undersökning av olyckor och förordningen (1990:717) om undersökning av olyckor samt utredningssekretess vid sådana undersökningar. Utredaren ska se över lagen och förordningen om undersökning av olyckor bland annat i syfte att göra bestämmelserna mer systematiska, effektiva och ändamålsenliga. Om utredaren finner det lämpligt, ska en ny lag föreslås. Utredaren ska även analysera Trafikverkets djupstudier av dödsolyckor i vägtrafiken, överväga om motsvarande studier behövs av dödsolyckor med spårbunden trafik samt analysera Transportstyrelsens vägtrafikolycksregister. Syftet bakom översynen är att undersökningar av olyckor ska vara effektiva och ge goda förutsättningar för beslut om åtgärder som kan förebygga en upprepning av olyckan eller tillbudet eller begränsa effekten av sådana olyckor eller tillbud.
 
 Utredaren ska bland annat:
 
@@ -13,4 +13,4 @@ Utredaren ska bland annat:
 
 Utredaren ska lämna förslag till de författningstexter som utredaren anser behövs. Utredarens förslag som avser SHK:s verksamhet ska syfta till att åstadkomma en effektivisering av verksamheten och rymmas inom gällande ekonomiska ramar. Förslag som innebär ambitionsökningar ska balanseras med förslag som innebär ambitionsminskningar. Utredaren ska lämna en uttömmande konsekvensanalys av de förslag som lämnas, inklusive ekonomiska konsekvenser.
 
-Uppdraget ska redovisas senast den 8 december 2014\. Den del av uppdraget som avser vägtrafikolycksregistret ska dock redovisas senast den 28 april 2014\.
+Uppdraget ska redovisas senast den 8 december 2014. Den del av uppdraget som avser vägtrafikolycksregistret ska dock redovisas senast den 28 april 2014.

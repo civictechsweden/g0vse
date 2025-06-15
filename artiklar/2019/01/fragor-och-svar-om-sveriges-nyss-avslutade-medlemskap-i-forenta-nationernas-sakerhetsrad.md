@@ -1,7 +1,6 @@
 # Frågor och svar om Sveriges nyss avslutade medlemskap i Förenta nationernas säkerhetsråd
 
-Sverige har under 2017\-18 varit en invald medlem i FN:s säkerhetsråd och vid årsskiftet löpte medlemskapet ut. Nedan finner du frågor och svar gällande Sveriges tid i säkerhetsrådet.
-
+Sverige har under 2017-18 varit en invald medlem i FN:s säkerhetsråd och vid årsskiftet löpte medlemskapet ut. Nedan finner du frågor och svar gällande Sveriges tid i säkerhetsrådet.
 
 **Vad innebär det att vara medlem i FN:s säkerhetsråd?**
 
@@ -9,7 +8,7 @@ Det innebär att man som en av femton medlemsstater är med och delar på det ge
 
 **Vilka länder har Sverige suttit tillsammans med i säkerhetsrådet?**
 
-Med de permanenta medlemmarna Frankrike, Kina, Ryssland, Storbritannien och USA, samt med de valda medlemmarna Bolivia, Egypten (endast 2017\), Elfenbenskusten (2018\), Ekvatorialguinea, Etiopien, Italien (2017\), Japan (2017\), Kazakstan, Kuwait (2018\), Nederländerna (2018\), Peru (2018\), Polen (2018\), Senegal (2017\), Ukraina (2017\) och Uruguay (2017\).
+Med de permanenta medlemmarna Frankrike, Kina, Ryssland, Storbritannien och USA, samt med de valda medlemmarna Bolivia, Egypten (endast 2017), Elfenbenskusten (2018), Ekvatorialguinea, Etiopien, Italien (2017), Japan (2017), Kazakstan, Kuwait (2018), Nederländerna (2018), Peru (2018), Polen (2018), Senegal (2017), Ukraina (2017) och Uruguay (2017).
 
 **Vad hade Sverige för program/målsättningar för medlemskapet i säkerhetsrådet?**
 
@@ -21,25 +20,25 @@ En sammanfattning av Sveriges resultat finns i följande [10 punkter](/artiklar/
 
 **Vilka har arbetat med medlemskapet?**
 
-Medlemskapet i säkerhetsrådet har varit en integrerad del av arbetet i utrikesförvaltningen, på motsvarande sätt som EU\-medlemskapet. Vissa delar av utrikesförvaltningen har engagerats särskilt. I Stockholm har utrikesdepartementets enhet för FN\-politik samordnat medlemskapet, under ledning av kabinettssekreteraren och utrikesrådet för politiska frågor samt med bidrag från departementets geografiska och funktionella enheter. Sveriges FN\-representation i NY har företrätt Sverige i säkerhetsrådet. Sveriges ambassader i länder som varit medlemmar i säkerhetsrådet respektive ambassader i länder på säkerhetsrådets dagordning har involverats i rådsmedlemskapet, liksom Sveriges EU\-representation i Bryssel.
+Medlemskapet i säkerhetsrådet har varit en integrerad del av arbetet i utrikesförvaltningen, på motsvarande sätt som EU-medlemskapet. Vissa delar av utrikesförvaltningen har engagerats särskilt. I Stockholm har utrikesdepartementets enhet för FN-politik samordnat medlemskapet, under ledning av kabinettssekreteraren och utrikesrådet för politiska frågor samt med bidrag från departementets geografiska och funktionella enheter. Sveriges FN-representation i NY har företrätt Sverige i säkerhetsrådet. Sveriges ambassader i länder som varit medlemmar i säkerhetsrådet respektive ambassader i länder på säkerhetsrådets dagordning har involverats i rådsmedlemskapet, liksom Sveriges EU-representation i Bryssel.
 
 **Hur har allmänheten informerats?**
 
-Allmänheten har kunnat följa Sveriges arbete genom FN\-representationens twitter\-konto (@SwedenUN), UD:s kanaler i sociala medier, samt de sammanfattande veckobrev som lagts ut på regeringen.se i början av varje vecka som du kommer åt [här](~/link/9254da289fea4f47b2a74050ee834eff.aspx "Sverige i FN:s säkerhetsråd"). Utrikesministern och utrikesdepartementet har även informerat allmänheten genom media och UD:s och FN\-representationens kommunikationsenheter har besvarat löpande mediefrågor. Olika informations\- och samtalstillfällen har genomförts på bland annat skolor och universitet. Svenska FN\-förbundet har utfört ett omfattande informations\- och påverkansarbete kopplat till medlemskapet.
+Allmänheten har kunnat följa Sveriges arbete genom FN-representationens twitter-konto (@SwedenUN), UD:s kanaler i sociala medier, samt de sammanfattande veckobrev som lagts ut på regeringen.se i början av varje vecka som du kommer åt [här](~/link/9254da289fea4f47b2a74050ee834eff.aspx "Sverige i FN:s säkerhetsråd"). Utrikesministern och utrikesdepartementet har även informerat allmänheten genom media och UD:s och FN-representationens kommunikationsenheter har besvarat löpande mediefrågor. Olika informations- och samtalstillfällen har genomförts på bland annat skolor och universitet. Svenska FN-förbundet har utfört ett omfattande informations- och påverkansarbete kopplat till medlemskapet.
 
 **Hur har riksdagen informerats?**
 
-Riksdagen har hållits informerad inför och under hela medlemskapet. Cirka en gång i månaden har särskilda informationstillfällen hållits för utrikesutskottet. Utskottet har då haft möjlighet att ställa frågor och ge synpunkter på säkerhetsrådsarbetet. Några gånger per år har också riksdagsdelegationer besökt FN\-högkvarteret i NY och tagit del av säkerhetsrådsarbetet.
+Riksdagen har hållits informerad inför och under hela medlemskapet. Cirka en gång i månaden har särskilda informationstillfällen hållits för utrikesutskottet. Utskottet har då haft möjlighet att ställa frågor och ge synpunkter på säkerhetsrådsarbetet. Några gånger per år har också riksdagsdelegationer besökt FN-högkvarteret i NY och tagit del av säkerhetsrådsarbetet.
 
 **Hur har civila samhället involverats?**
 
 Flera gånger per termin har representanter från det civila samhället bjudits till UD för samtal om Sveriges medlemskap. Inom vissa geografiska och tematiska frågor – däribland Myanmar, Demokratiska republiken Kongo, barn och väpnad konflikt, samt kvinnor, fred och säkerhet – har dialog förts i kompletterande format. Utrikesdepartementet har också flera gånger per termin sammankallat ett referensråd för medlemskapet bestående av tjugotalet experter från civila samhället, akademi och myndigheter.
 
-Sverige har därutöver genom svenska ambassader haft kontakt med civila samhället i länder på rådets dagordning. En löpande dialog har också skett med de internationella civilsamhällesorganisationer som nära följer säkerhetsrådets arbete, till exempel Human Rights Watch, International Crisis Group, Amnesty International, Internationella Röda Kors\-kommittén (ICRC) och FN\-föreningarnas världsförbund (WFUNA).
+Sverige har därutöver genom svenska ambassader haft kontakt med civila samhället i länder på rådets dagordning. En löpande dialog har också skett med de internationella civilsamhällesorganisationer som nära följer säkerhetsrådets arbete, till exempel Human Rights Watch, International Crisis Group, Amnesty International, Internationella Röda Kors-kommittén (ICRC) och FN-föreningarnas världsförbund (WFUNA).
 
-**Hur ska SR\-medlemskapet redovisas, utvärderas och följas upp?**
+**Hur ska SR-medlemskapet redovisas, utvärderas och följas upp?**
 
-Inom utrikesförvaltningen finns en process för redovisning och uppföljning av medlemskapet. Redovisningen omfattar bland annat resultat, arbetsmetoder, erfarenheter samt resurser. Avsikten är att under vårterminen 2019 redogöra för medlemskapet i en skriftlig produkt, på sätt som skedde senast Sverige var medlem i säkerhetsrådet 1997 \- 1998 och till exempel då Sverige var EU\-ordförande 2001 och 2009\. Utrikesdepartementet välkomnar utvärderingar och granskningar av utomstående.
+Inom utrikesförvaltningen finns en process för redovisning och uppföljning av medlemskapet. Redovisningen omfattar bland annat resultat, arbetsmetoder, erfarenheter samt resurser. Avsikten är att under vårterminen 2019 redogöra för medlemskapet i en skriftlig produkt, på sätt som skedde senast Sverige var medlem i säkerhetsrådet 1997 - 1998 och till exempel då Sverige var EU-ordförande 2001 och 2009. Utrikesdepartementet välkomnar utvärderingar och granskningar av utomstående.
 
 Beredskap finns i utrikesförvaltningen för att följa upp arbetet i säkerhetsrådet, inklusive på områdena kvinnor, fred och säkerhet, klimat och säkerhet, fredsbyggande samt dialog och medling. Ett bärande tema kan också vara att ytterligare stärka länken mellan EU och FN. Framtida prioriteringar sätts efter regeringsbildningen. I avsikt att föra vidare arbetet har Sverige dessutom haft överlämningskonsultationer med de inkommande rådsmedlemmarna Belgien, Indonesien, Sydafrika och Tyskland.
 
@@ -51,7 +50,7 @@ En redovisning av kostnaderna för medlemskapet ska ske så snart det är möjli
 
 Sveriges medlemskap i EU och vårt medlemskap i SR har varit ömsesidigt förstärkande. Av EU:s globala strategi framgår att EU värnar och främjar ett starkt FN, inklusive dess säkerhetsråd, som nav i en regelbaserad multilateral ordning.
 
-Sverige har under SR\-medlemskapet tagit en rad initiativ för att stärka sammanhållningen mellan EU\-medlemmarna i säkerhetsrådet. Sverige initierade således gemensamma uttalanden av säkerhetsrådets EU\-medlemmar i olika frågor, däribland rörande Ukraina, fredsprocessen i Mellanöstern och Syrien. Tillsammans med de andra valda europeiska SR\-medlemmarna Nederländerna, Polen och Italien har ett arbete inletts om hur sådana medlemmar kan bidra till EU:s genomslag i säkerhetsrådet. Sverige har också involverat EU:s utrikestjänst i säkerhetsrådsarbetet, inklusive EU\-delegationer i länder på rådets dagordning.
+Sverige har under SR-medlemskapet tagit en rad initiativ för att stärka sammanhållningen mellan EU-medlemmarna i säkerhetsrådet. Sverige initierade således gemensamma uttalanden av säkerhetsrådets EU-medlemmar i olika frågor, däribland rörande Ukraina, fredsprocessen i Mellanöstern och Syrien. Tillsammans med de andra valda europeiska SR-medlemmarna Nederländerna, Polen och Italien har ett arbete inletts om hur sådana medlemmar kan bidra till EU:s genomslag i säkerhetsrådet. Sverige har också involverat EU:s utrikestjänst i säkerhetsrådsarbetet, inklusive EU-delegationer i länder på rådets dagordning.
 
 **Hur ställer sig Sverige till en reformering av säkerhetsrådet?**
 

@@ -14,4 +14,4 @@ Regeringen har i budgetpropositionen för budgetåret 2025 föreslagit att 200 m
 
 Lagförslagen har lämnats till Lagrådet som ska granska förslagen innan en proposition lämnas till riksdagen. Lagförslagen innebär en komplettering av förslagen som lämnas i lagrådsremissen En förebyggande socialtjänstlag – för ökade rättigheter, skyldigheter och möjligheter.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2025\.
+Lagändringarna föreslås träda i kraft den 1 juli 2025.

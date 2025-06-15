@@ -8,4 +8,4 @@ Efter valet 2017 skedde en fredlig och demokratisk övergång från en demokrati
 
 Liberia är fortsatt ett av världens tio fattigaste länder och fem av sex liberianer lever under fattigdomsgränsen.
 
-Sida och FBA ska inkomma med underlag för ny strategi till Regeringskansliet senast den 30 september 2020\.
+Sida och FBA ska inkomma med underlag för ny strategi till Regeringskansliet senast den 30 september 2020.

@@ -6,4 +6,4 @@ I uppdraget ingår även att utreda förutsättningarna för och behovet av att 
 
 Alternativen kan exempelvis handla om det bör erbjudas fler val av längden på avstängningen eller om det bör vara möjligt att välja vilka spelformer som man vill bli avstängd från.
 
-Uppdraget ska redovisas senast den 31 oktober 2023\.
+Uppdraget ska redovisas senast den 31 oktober 2023.

@@ -4,4 +4,4 @@ I propositionen lämnas förslag på en ny lag med bestämmelser om rätt till l
 
 Rätten till ledighet ska gälla politiska uppdrag som motsvarar sådana svenska uppdrag som ger rätt till ledighet enligt kommunallagen.
 
-Den nya lagen föreslås träda i kraft den 1 augusti 2022\.
+Den nya lagen föreslås träda i kraft den 1 augusti 2022.

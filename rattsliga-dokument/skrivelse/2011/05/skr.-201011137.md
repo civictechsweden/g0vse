@@ -1,6 +1,6 @@
 # Riksrevisionens granskning av oförbrukade forskningsbidrag vid universitet och högskolor
 
-Skrivelsen innehåller regeringens bedömningar med anledning av Riksrevisionens granskningsrapport Oförbrukade forskningsbidrag vid universitet och högskolor (RiR 2011:3\).
+Skrivelsen innehåller regeringens bedömningar med anledning av Riksrevisionens granskningsrapport Oförbrukade forskningsbidrag vid universitet och högskolor (RiR 2011:3).
 
 Regeringen instämmer delvis i Riksrevisionens iakttagelser men vill särskilt betona betydelsen av lärosätenas övergång till nya redovisningsprinciper för indirekta kostnader som en förklaring till ökningen av oförbrukade bidrag.
 

@@ -1,8 +1,8 @@
 # Statsministern och utbildningsministern välkomnar Marcus Wandt till Sverige
 
-Marcus Wandt landar på Bromma flygplats kl. 12\.05 eskorterad av flygvapnet. Där tas han emot av bland andra statsminister Ulf Kristersson.
+Marcus Wandt landar på Bromma flygplats kl. 12.05 eskorterad av flygvapnet. Där tas han emot av bland andra statsminister Ulf Kristersson.
 
-Omkring kl. 12\.15 hålls en pressträff med den svenska astronauten, utbildningsminister Mats Persson, ESA:s generaldirektör Joseph Aschbacher samt Rymdstyrelsens generaldirektör Anna Rathsman.
+Omkring kl. 12.15 hålls en pressträff med den svenska astronauten, utbildningsminister Mats Persson, ESA:s generaldirektör Joseph Aschbacher samt Rymdstyrelsens generaldirektör Anna Rathsman.
 
 Pressträffen arrangeras av Rymdstyrelsen, för mer information och ackreditering se länk nedan.
 

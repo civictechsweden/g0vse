@@ -1,6 +1,6 @@
 # Ändringar i fiskelagen
 
-I lagrådsremissen föreslås ändringar i fiskelagen (1993:787\). Det förtydligas
+I lagrådsremissen föreslås ändringar i fiskelagen (1993:787). Det förtydligas
 att även befälhavare på fiskefartyg omfattas av bemyndigandet för regeringen eller den myndighet som regeringen bestämmer att meddela vissa föreskrifter om uppgiftsskyldighet. Det införs vidare ett bemyndigande för regeringen eller den myndighet som regeringen bestämmer att meddela föreskrifter om skyldigheter i fråga om vägning av fångst, märkning av partier av fiskeriprodukter, information som ska följa med partier av fiskeriprodukter och dokumentation av uppgifter i syfte att säkerställa spårbarhet av fiskeriprodukter.
 
 Förslaget innebär vidare att överträdelser av föreskrifter om vägning

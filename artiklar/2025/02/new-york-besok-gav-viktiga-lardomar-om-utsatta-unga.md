@@ -10,7 +10,7 @@ Under Sveriges ledarskap ska bland annat en ny strategisk plan för UN Women ant
 
 Socialtjänstministern förmedlade också Sveriges uttalande vid FN:s kommission för social utveckling, där frågor om social inkludering och stöd till utsatta grupper stod på agendan.
 
-### Stöd till unga i utanförskap
+## Stöd till unga i utanförskap
 
 Den svenska delegationen besökte flera organisationer och aktörer som stöttar barn och unga i utsatta livssituationer. Syftet var att utbyta erfarenheter om insatser för unga som fastnat i kriminalitet eller befinner sig i utanförskap.
 
@@ -20,7 +20,7 @@ En av de mest slående insikterna, menar socialtjänstministern, är hur viktigt
 
 – Det jag särskilt tar med mig är hur samverkan mellan olika aktörer – både offentliga och ideella – kan skapa långsiktiga lösningar för att förebygga återfall i kriminalitet och stärka ungas framtidsmöjligheter, säger Camilla Waltersson Grönvall.
 
-### Hbtqi-personers rättigheter stärks
+## Hbtqi-personers rättigheter stärks
 
 I New York finns också flera projekt som jobbar framgångsrikt för att stärka hbtqi-personers rättigheter. De delade med sig av utmaningar med utbredd hemlöshet inom gruppen, och att många unga saknar tillgång till trygga boenden och stödinsatser. De betonade också vikten av inkluderande och riktade åtgärder för att ingen ska behöva hamna utanför samhället.
 

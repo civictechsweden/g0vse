@@ -8,6 +8,6 @@ Det föreslås vidare att näringsidkarna ska utöva s.k. egenkontroll och uppr�
 
 Med undantag för detaljhandel med nikotinläkemedel, ska handel inte få bedrivas i serveringsutrymme där serveringstillstånd gäller. Läkemedel som omfattas av lagen ska inte få säljas till den som inte fyllt 18 år. Överträdelse av förbudet är förenat med straffansvar.
 
-Lagförslagen föreslås träda i kraft den 1 november 2009\.
+Lagförslagen föreslås träda i kraft den 1 november 2009.
 
 Dessutom behandlas frågor om apoteksombud, särskilda egenvårdsbutiker och utbyteslistor för receptfria läkemedel.

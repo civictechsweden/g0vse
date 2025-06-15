@@ -1,9 +1,8 @@
 # Remiss av delbetänkandet Ökad trygghet för studerande som blir sjuka (SOU 2018:9)
 
-Här kan du ta del av till vilka instanser som regeringen har remitterat delbetänkandet Ökad trygghet för studerande som blir sjuka (SOU 2018:9\).
+Här kan du ta del av till vilka instanser som regeringen har remitterat delbetänkandet Ökad trygghet för studerande som blir sjuka (SOU 2018:9).
 
-
-Sista dag att svara på remissen är den 2 juli 2018\.
+Sista dag att svara på remissen är den 2 juli 2018.
 
 ## Remissinstanser
 
@@ -21,7 +20,7 @@ Sista dag att svara på remissen är den 2 juli 2018\.
 12 Folkbildningsrådet
 13 Myndigheten för yrkeshögskolan
 14 Statens skolinspektion
-15 Universitets\- och högskolerådet
+15 Universitets- och högskolerådet
 16 Universitetskanslersämbetet
 17 Överklagandenämnden för studiestöd
 18 Uppsala universitet
@@ -41,7 +40,7 @@ Sista dag att svara på remissen är den 2 juli 2018\.
 32 Sveriges lantbruksuniversitet
 33 Blekinge tekniska högskola
 34 Försvarshögskolan
-35 Gymnastik\- och idrottshögskolan
+35 Gymnastik- och idrottshögskolan
 36 Högskolan i Borås
 37 Högskolan Dalarna
 38 Högskolan i Gävle
@@ -57,7 +56,7 @@ Sista dag att svara på remissen är den 2 juli 2018\.
 48 Södertörns högskola
 49 Diskrimineringsombudsmannen
 50 Arbetsmiljöverket
-51 Institutet för arbetsmarknads\- och utbildningspolitisk utvärdering, (IFAU)
+51 Institutet för arbetsmarknads- och utbildningspolitisk utvärdering, (IFAU)
 52 Arjeplogs kommun
 53 Falkenbergs kommun
 54 Falu kommun

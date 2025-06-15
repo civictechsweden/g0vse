@@ -2,7 +2,6 @@
 
 Att öka tryggheten i Sverige och bekämpa kriminaliteten är en prioriterad fråga för regeringen. En viktig del i detta är det brottsförebyggande arbetet. Här finns ett urval av regeringens breda insatser med fokus på bland annat skola, arbetsmarknad, jämställdhet, utanförskap och integration.
 
-
 ## Förebyggande insatser mot gängkriminalitet
 
 Regeringen vill göra en treårig satsning på förebyggande insatser mot gängkriminalitet. För 2024 avsätts 80 miljoner kronor och för 2025 respektive 2026 beräknas 150 miljoner kronor per år. Satsningen görs i form av statsbidrag till kommuner för att förstärka det brottsförebyggande arbetet inom exempelvis socialtjänsten.
@@ -27,7 +26,7 @@ För ungdomar kan ett sommarjobb bidra till att de tidigt får arbetslivserfaren
 
 I områden med socioekonomiska utmaningar spelar skolan en avgörande roll för att förebygga kriminalitet och ge barn och ungdomar möjlighet att växa. Regeringen vill göra det mer attraktivt att arbeta på de mest krävande skolorna och har därför föreslagit i budgetpropositionen för 2024 att 165 miljoner kronor per år avsätts under en treårsperiod för att göra arbetsmiljön och arbetsvillkoren bättre. Medlen kan användas utifrån de lokala behoven, till exempel för att minska personalomsättningen, stärka tryggheten och studieron eller anställa fler lärare och annan personal som kan avlasta lärarna.
 
-Regeringen vill också förstärka Kunskapsbidraget (tidigare kallat Likvärdighetsbidraget) med 850 miljoner kronor 2024\. Det innebär att bidraget föreslås uppgå till totalt 7 478 miljoner kronor för 2024\. Bidragsramarna för statsbidraget tas fram utifrån en modell med ett socioekonomiskt index och elevantalet hos varje huvudman. Till exempel får en huvudman med en högre andel elever som enligt modellen inte väntas bli behöriga till gymnasiet ett högre bidrag per elev.
+Regeringen vill också förstärka Kunskapsbidraget (tidigare kallat Likvärdighetsbidraget) med 850 miljoner kronor 2024. Det innebär att bidraget föreslås uppgå till totalt 7 478 miljoner kronor för 2024. Bidragsramarna för statsbidraget tas fram utifrån en modell med ett socioekonomiskt index och elevantalet hos varje huvudman. Till exempel får en huvudman med en högre andel elever som enligt modellen inte väntas bli behöriga till gymnasiet ett högre bidrag per elev.
 
 [Pressmeddelande: Bättre arbetsmiljö och arbetsvillkor för lärare i skolor med socioekonomiska utmaningar](/pressmeddelanden/2023/09/battre-arbetsmiljo-och-arbetsvillkor-for-larare-i-skolor-med-socioekonomiska-utmaningar/)
 
@@ -45,9 +44,9 @@ Inom ramen för det nya fortbildningsbidraget har regeringen även satsat 200 mi
 
 ## Lovskola i tidigare årskurser
 
-Det är i lågstadiet som eleverna ska lära sig de grundläggande kunskaper och färdigheter som de sedan behöver för att fortsätta att utvecklas genom sin skolgång. Därför är det viktigt att alla elever får den undervisningstid de behöver. Regeringen har beslutat om en författningsändring som gör det möjligt för skolor att erbjuda elever i låg\- och mellanstadiet undervisning under skolloven. I budgetpropositionen för 2023 utökade regeringen statsbidraget för bland annat lovskola med 100 miljoner kronor.
+Det är i lågstadiet som eleverna ska lära sig de grundläggande kunskaper och färdigheter som de sedan behöver för att fortsätta att utvecklas genom sin skolgång. Därför är det viktigt att alla elever får den undervisningstid de behöver. Regeringen har beslutat om en författningsändring som gör det möjligt för skolor att erbjuda elever i låg- och mellanstadiet undervisning under skolloven. I budgetpropositionen för 2023 utökade regeringen statsbidraget för bland annat lovskola med 100 miljoner kronor.
 
-[Pressmeddelande: Elever i låg\- och mellanstadiet ska erbjudas lovskola](/pressmeddelanden/2023/02/elever-i-lag--och-mellanstadiet-ska-erbjudas-lovskola/)
+[Pressmeddelande: Elever i låg- och mellanstadiet ska erbjudas lovskola](/pressmeddelanden/2023/02/elever-i-lag--och-mellanstadiet-ska-erbjudas-lovskola/)
 
 ## Ökande möjligheter för kvinnor och flickor att organisera sig
 
@@ -81,9 +80,9 @@ Det förekommer att skolor har mycket stora problem med elever som stör ordning
 
 Det är mycket allvarligt när våldsdåd drabbar personer i skolmiljön. För att motverka sådana händelser krävs ett förebyggande arbete som behöver pågå både i skolan och det omgivande samhället. En särskild utredare har fått i uppdrag att lämna förslag på åtgärder för att förbättra arbetet med säkerhet i skolväsendet. I juni 2023 delredovisade utredaren frågan om hur lokala eller regionala operativa organ för samverkan i individärenden som rör oro för skolattacker kan organiseras. Delbetänkandet har remitterats.
 
-Utredaren ska även lämna förslag på olika förebyggande åtgärder, till exempel att skolor ska vara stängda för obehöriga, men även lämna förslag på åtgärder för att stärka beredskapen och kompetensen att hantera våldssituationer. Utredaren ska också lämna förslag om hur en skyldighet att polisanmäla brott som begås i eller i anslutning till skolan kan utformas. Denna del ska delredovisas senast den 29 februari 2024\.
+Utredaren ska även lämna förslag på olika förebyggande åtgärder, till exempel att skolor ska vara stängda för obehöriga, men även lämna förslag på åtgärder för att stärka beredskapen och kompetensen att hantera våldssituationer. Utredaren ska också lämna förslag om hur en skyldighet att polisanmäla brott som begås i eller i anslutning till skolan kan utformas. Denna del ska delredovisas senast den 29 februari 2024.
 
-Utredaren ska också kartlägga och analysera vilka uppgifter som kan behöva utbytas mellan skola, socialtjänst och polis brottsförebyggande syfte och lämna förslag som förbättrar möjligheterna att utbyta information. Detta uppdrag ska slutredovisas den 29 september 2024\.
+Utredaren ska också kartlägga och analysera vilka uppgifter som kan behöva utbytas mellan skola, socialtjänst och polis brottsförebyggande syfte och lämna förslag som förbättrar möjligheterna att utbyta information. Detta uppdrag ska slutredovisas den 29 september 2024.
 
 [Kommittédirektiv: Säkerheten i skolan ska förbättras](/rattsliga-dokument/kommittedirektiv/2022/06/dir.-202286)
 

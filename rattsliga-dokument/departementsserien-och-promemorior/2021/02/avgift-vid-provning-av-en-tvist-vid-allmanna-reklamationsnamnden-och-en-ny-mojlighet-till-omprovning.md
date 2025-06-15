@@ -10,6 +10,6 @@ I promemorian föreslås också att dödsbon inte längre ska få anmäla en tvi
 
 Dessutom föreslås att regeringen för en bestämd tid får förordna anställda vid nämnden som är jurister med erfarenhet som domare att som extra ordförande leda nämndens sammanträden och avgöra tvister.
 
-Förändringarna föreslås ske genom ändringar i lagen om alternativ tvistlösning i konsumentförhållanden och förordningen med instruktion för Allmänna reklamationsnämnden. Ändringarna som avser avgiftsuttaget föreslås träda i kraft den 1 januari 2022 och övriga ändringar den 1 juni 2021\.
+Förändringarna föreslås ske genom ändringar i lagen om alternativ tvistlösning i konsumentförhållanden och förordningen med instruktion för Allmänna reklamationsnämnden. Ändringarna som avser avgiftsuttaget föreslås träda i kraft den 1 januari 2022 och övriga ändringar den 1 juni 2021.
 
-Remissvaren ska ha kommit in till Finansdepartementet senast den 3 maj 2021\.
+Remissvaren ska ha kommit in till Finansdepartementet senast den 3 maj 2021.

@@ -2,7 +2,6 @@
 
 Europadomstolen har fattat ett beslut avseende ett klagomål om Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till beslutet i fulltext samt en sammanfattning av beslutet.
 
-
 ## Sammanfattning av beslutet
 
 Klaganden var en kvinna från Rwanda vars familj (sambo och son) hade beviljats uppehållstillstånd i Sverige men som själv skulle tvingas återvända till Rwanda för att göra en ansökan om uppehållstillstånd på grund av familjeanknytning.

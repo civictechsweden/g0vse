@@ -2,7 +2,6 @@
 
 Måndag den 29 april besökte statsminister Ulf Kristersson och skolminister Lotta Edholm förskolan Humlan i Botkyrka kommun. I samband med besöket presenterade de regeringens planer på att tillsätta en utredning om obligatorisk språkförskola och likvärdig förskola av god kvalitet, där språkkrav för förskolans personal kommer bli en viktig del.
 
-
 Förskolan Humlan arbetar mycket med barnens språkutveckling, bland annat genom samarbeten med bibliotek i närområdet. Under besöket träffade statsministern och skolministern förskolans personal och deltog i en aktivitet med barnen.
 
 Svensk förskola är en av de mest uppskattade offentligt finansierade verksamheterna i vårt land. Det finns mycket goda skäl till det – när den fungerar som bäst ger den alla barn en bra start i livet. Men för att förskolan ska utjämna livschanser behöver alla barn få med sig svenska språket. Det är en uppgift vi behöver ta på allvar.

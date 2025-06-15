@@ -6,8 +6,8 @@
 
 Regeringen fullföljde i budgetpropositionen för 2023 den treåriga satsningen som kallas för Äldreomsorgslyftet, som ger möjlighet till vidareutbildning av personal i äldreomsorgen under betald arbetstid. Bara under de två första åren av satsningen avslutade nästan 3 000 personer en utbildning till antingen vårdbiträde, undersköterska, specialistundersköterska eller en ledarskapsutbildning. Det är ett viktigt steg för att stärka kompetensförsörjningen.
 
-Regeringen föreslår nu att Äldreomsorgslyftet förlängs till och med 2026 för att det viktiga arbetet med att öka kompetensen hos personal inom äldreområdet ska kunna fortsätta. I budgetpropositionen föreslår regeringen att 1,7 miljarder kronor avsätts 2024 och beräknar att avsätta motsvarande belopp 2025 och 2026\.
+Regeringen föreslår nu att Äldreomsorgslyftet förlängs till och med 2026 för att det viktiga arbetet med att öka kompetensen hos personal inom äldreområdet ska kunna fortsätta. I budgetpropositionen föreslår regeringen att 1,7 miljarder kronor avsätts 2024 och beräknar att avsätta motsvarande belopp 2025 och 2026.
 
-– Kompetensförsörjningen inom äldreomsorgen är en av de stora utmaningarna framöver. För regeringen är det mycket angeläget att hjälpa och stötta kommunerna i detta viktiga arbete. Äldreomsorgslyftet och att undersköterska blir en skyddad titel är viktiga komponenter för en generell kvalitetshöjning inom äldreområdet och för att göra vård\- och omsorgsyrkena mer attraktiva genom att kunna erbjuda olika karriärvägar säger äldre\- och socialförsäkringsminister Anna Tenje.
+– Kompetensförsörjningen inom äldreomsorgen är en av de stora utmaningarna framöver. För regeringen är det mycket angeläget att hjälpa och stötta kommunerna i detta viktiga arbete. Äldreomsorgslyftet och att undersköterska blir en skyddad titel är viktiga komponenter för en generell kvalitetshöjning inom äldreområdet och för att göra vård- och omsorgsyrkena mer attraktiva genom att kunna erbjuda olika karriärvägar säger äldre- och socialförsäkringsminister Anna Tenje.
 
-Regeringen avser överlämna detta förslag i budgetpropositionen för 2024\. Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
+Regeringen avser överlämna detta förslag i budgetpropositionen för 2024. Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

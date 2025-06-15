@@ -10,4 +10,4 @@ För att åtgärda problemet föreslås i lagrådsremissen ett tillägg till def
 
 I lagrådsremissen föreslås vidare vissa följdändringar med anledning av en tidigare ändring i lagen om skatt på energi.
 
-Ändringarna föreslås träda i kraft den 1 januari 2017\.
+Ändringarna föreslås träda i kraft den 1 januari 2017.

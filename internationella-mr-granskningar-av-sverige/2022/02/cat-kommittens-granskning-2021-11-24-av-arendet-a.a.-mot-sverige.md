@@ -1,7 +1,6 @@
 # CAT:s granskning (2021-11-24) av ärendet A.A mot Sverige
 
-Fråga om utvisning av klaganden till Afghanistan skulle strida mot artikel 3 i FN\-konventionen mot tortyr m.m.
-
+Fråga om utvisning av klaganden till Afghanistan skulle strida mot artikel 3 i FN-konventionen mot tortyr m.m.
 
 ## Sammanfattning av granskningen
 

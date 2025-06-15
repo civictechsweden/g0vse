@@ -2,7 +2,7 @@
 
 Regeringen har efter samråd med generaldirektör Karin Tegmark Wisell på Folkhälsomyndigheten beslutat att hon lämnar sitt nuvarande uppdrag och i stället ska ha ställning som ambassadör för global hälsa på Regeringskansliet.
 
-– Dagens utnämning bidrar till regeringens ambition att kraftsamla och stärka Sveriges roll i arbetet med hälsofrågorna. Jag välkomnar Karin Tegmark Wisell till teamet och ser fram emot att arbeta tillsammans, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+– Dagens utnämning bidrar till regeringens ambition att kraftsamla och stärka Sveriges roll i arbetet med hälsofrågorna. Jag välkomnar Karin Tegmark Wisell till teamet och ser fram emot att arbeta tillsammans, säger bistånds- och utrikeshandelsminister Johan Forssell.
 
 Trots stora framsteg på området global hälsa kvarstår många utmaningar. Ökad antibiotikaresistens, risken för pandemier, klimatförändringar, migration, krig och konflikter påverkar människors hälsa och välmående.
 

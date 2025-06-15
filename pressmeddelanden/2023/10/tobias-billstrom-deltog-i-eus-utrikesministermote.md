@@ -6,8 +6,8 @@ Utrikesministrarna från EU:s medlemsländer diskuterade flera aktuella frågor 
 
 EU:s fortsatta och långsiktiga stöd till Ukraina var också en viktig punkt som diskuterades på mötet.
 
-– Rysslands aggression mot Ukraina fortsätter naturligtvis att stå på dagordningen vid EU:s utrikesministermöten. Stöd till Ukraina så länge som det krävs, tryck på Ryssland, och säkerställande av internationellt stöd för denna politik förblir en av regeringens viktigaste prioriteringar, säger utrikesminister Tobias Billström. Även fortsatt och långsiktigt militärt stöd är viktigt. Här kommer ambitiösa och långsiktiga säkerhetsåtaganden från EU att utgöra en viktig del. EU bör även fortsätta att stödja och uppmuntra Ukrainas viktiga reformarbete och EU\-närmande.
+– Rysslands aggression mot Ukraina fortsätter naturligtvis att stå på dagordningen vid EU:s utrikesministermöten. Stöd till Ukraina så länge som det krävs, tryck på Ryssland, och säkerställande av internationellt stöd för denna politik förblir en av regeringens viktigaste prioriteringar, säger utrikesminister Tobias Billström. Även fortsatt och långsiktigt militärt stöd är viktigt. Här kommer ambitiösa och långsiktiga säkerhetsåtaganden från EU att utgöra en viktig del. EU bör även fortsätta att stödja och uppmuntra Ukrainas viktiga reformarbete och EU-närmande.
 
-På dagordningen vid mötet i Luxemburg stod även Armenien\-Azerbajdzjan.
+På dagordningen vid mötet i Luxemburg stod även Armenien-Azerbajdzjan.
 
-– Diskussionen om Armenien och Azerbajdzjan är ett viktigt tillfälle att stärka EU:s stöd till Armenien i detta utsatta läge, säger utrikesminister Tobias Billström. EU bör också uppmana Azerbajdzjan att engagera sig i förtroendeskapande åtgärder gentemot de etniska armenier som finns kvar eller vill återvända till Nagorno\-Karabach och tydligt signalera till Azerbajdzjan att unionen är redo att vidta lämpliga åtgärder om situationen förvärras.
+– Diskussionen om Armenien och Azerbajdzjan är ett viktigt tillfälle att stärka EU:s stöd till Armenien i detta utsatta läge, säger utrikesminister Tobias Billström. EU bör också uppmana Azerbajdzjan att engagera sig i förtroendeskapande åtgärder gentemot de etniska armenier som finns kvar eller vill återvända till Nagorno-Karabach och tydligt signalera till Azerbajdzjan att unionen är redo att vidta lämpliga åtgärder om situationen förvärras.

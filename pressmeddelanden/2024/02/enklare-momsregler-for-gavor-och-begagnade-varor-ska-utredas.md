@@ -4,7 +4,7 @@ För att klara den gröna omställningen måste vi bli bättre på att använda 
 
 – Försäljningen av begagnade varor är en viktig del i att ställa om till ett hållbart samhälle. Dagens momsregler innebär onödigt administrativt krångel för många företagare i branschen. Därför är jag glad över att vi fattat beslut om att se över reglerna, säger finansminister Elisabeth Svantesson.
 
-– Vi behöver ställa om till en cirkulär ekonomi och ett mer hållbart samhälle, som tar till vara på våra resurser på ett bättre sätt. Regeringen vill därför uppmuntra människor och företag till att främja återanvändning av olika varor. Vår konsumtion driver idag på en råvaruutvinning som är helt ohållbar. För att utveckla vår cirkulära ekonomi måste vi minska onödig administration, så att företag lättare kan sälja begagnade varor utan att behöva räkna ut momsen för varje enskild vara, säger klimat\- och miljöminister Romina Pourmokhtari.
+– Vi behöver ställa om till en cirkulär ekonomi och ett mer hållbart samhälle, som tar till vara på våra resurser på ett bättre sätt. Regeringen vill därför uppmuntra människor och företag till att främja återanvändning av olika varor. Vår konsumtion driver idag på en råvaruutvinning som är helt ohållbar. För att utveckla vår cirkulära ekonomi måste vi minska onödig administration, så att företag lättare kan sälja begagnade varor utan att behöva räkna ut momsen för varje enskild vara, säger klimat- och miljöminister Romina Pourmokhtari.
 
 – Det ska vara enkelt att göra gott. Nu ser vi över hur reglerna för att skänka begagnade varor till hjälporganisationer kan förenklas och göras mer förutsebara. Det ökar aktörerna i civilsamhällets möjlighet att hjälpa och det är bra miljön, säger socialminister Jakob Forssmed.
 
@@ -15,4 +15,4 @@ Utredaren ska bland annat:
 * ta ställning till om bestämmelserna om förenklad vinstmarginalbeskattning kan utformas på ett sätt som förenklar för företagen och därmed underlättar försäljningen av begagnade varor som är lämpade för återanvändning,
 * överväga om regelverket om uttagsbeskattning kan utformas så att mervärdesskattekonsekvenserna vid gåvor av varor till hjälporganisationer och liknande blir mer förutsebara.
 
-Utredningen ska redovisa sina slutsatser senast den 31 mars 2025\.
+Utredningen ska redovisa sina slutsatser senast den 31 mars 2025.

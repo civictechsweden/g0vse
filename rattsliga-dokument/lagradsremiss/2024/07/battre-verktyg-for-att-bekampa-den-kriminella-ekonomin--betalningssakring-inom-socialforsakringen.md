@@ -4,4 +4,4 @@ Regeringen föreslår att Försäkringskassan får möjlighet att ansöka om bet
 
 Betalningssäkring ska verkställas genom att Kronofogdemyndigheten tar den betalningsskyldiges egendom i anspråk till dess att fordran betalas frivilligt eller kan drivas in.
 
-Lagändringarna föreslås träda i kraft den 1 mars 2025\.
+Lagändringarna föreslås träda i kraft den 1 mars 2025.

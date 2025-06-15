@@ -6,4 +6,4 @@ Utredningen föreslår att presumtionshyror ska kunna höjas löpande i större 
 
 Utredningen föreslår vidare att det ska införas nya möjligheter att lösa tvister om presumtionshyror mellan de förhandlande parterna. Syftet är att förhandlingar om presumtionshyror mellan en hyresvärd och en hyresgästorganisation ska kunna bedrivas mer effektivt.
 
-Utredningen föreslår att lagändringarna ska träda i kraft den 1 januari 2026\.
+Utredningen föreslår att lagändringarna ska träda i kraft den 1 januari 2026.

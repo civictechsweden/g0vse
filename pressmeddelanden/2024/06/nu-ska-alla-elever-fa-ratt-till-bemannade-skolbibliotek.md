@@ -2,7 +2,7 @@
 
 – Det ska inte vara möjligt att kalla en bokhylla i en korridor för ett skolbibliotek, utan alla elever ska ha skolbibliotek som är bemannade med utbildad personal. Ett välutrustat och bemannat skolbibliotek kan spela en viktig roll för att utveckla elevers läsförmåga och deras lärande i alla ämnen, säger skolminister Lotta Edholm.
 
-– Skolbiblioteken har också en mycket viktig roll i att förbättra elevernas kunskap om medie\- och informationskunnighet. Det behövs för att stärka deras förmåga att söka, analysera och kritiskt värdera information. I en tid då teknikutvecklingen sker allt snabbare, desinformationen brer ut sig och anti\-demokratiska vindar blåser behövs det mer än någonsin, säger kulturminister Parisa Liljestrand.
+– Skolbiblioteken har också en mycket viktig roll i att förbättra elevernas kunskap om medie- och informationskunnighet. Det behövs för att stärka deras förmåga att söka, analysera och kritiskt värdera information. I en tid då teknikutvecklingen sker allt snabbare, desinformationen brer ut sig och anti-demokratiska vindar blåser behövs det mer än någonsin, säger kulturminister Parisa Liljestrand.
 
 – En utmaning i skolan är att pojkar som grupp har sämre läsförståelse än jämnåriga flickor. Detta riskerar att få betydelse för pojkars betyg generellt. En satsning på stärkta skolbibliotek kan bidra till att öka pojkars läsförmåga, säger Mattias Bengtsson, utbildningspolitisk talesperson Kristdemokraterna.
 
@@ -16,6 +16,6 @@ Varje huvudman ska också ha en biblioteksplan som bland annat ska precisera hur
 
 Förslagen ska gälla för elever i förskoleklassen, grundskolan och motsvarande skolformer samt gymnasieskolan och anpassade gymnasieskolan.
 
-Kostnaden för förslagen beräknas till 216 miljoner kronor under 2025 och 432 miljoner kronor från 2026 och framåt. Lagändringarna föreslås träda i kraft den 1 juli 2025\.
+Kostnaden för förslagen beräknas till 216 miljoner kronor under 2025 och 432 miljoner kronor från 2026 och framåt. Lagändringarna föreslås träda i kraft den 1 juli 2025.
 
 Beslutet bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

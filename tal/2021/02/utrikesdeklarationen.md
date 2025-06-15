@@ -3,7 +3,6 @@
 Regeringens utrikesdeklaration presenterades av utrikesminister Ann Linde vid 2021 års utrikespolitiska debatt i riksdagen onsdagen den 24 februari.
 Det talade ordet gäller.
 
-
 Herr talman,
 
 Jag vill inleda årets utrikesdeklaration med att säga något som är uppenbart för oss alla.
@@ -12,31 +11,31 @@ Politik spelar roll.
 
 I år är det 100 år sedan kvinnor för första gången fick utöva sin rösträtt i ett riksdagsval. Det var den milstolpe som gjorde Sverige till en demokrati. Demokrati är något vi tar för givet men som förvägras en majoritet av världens befolkning.
 
-Regeringen verkar för en världsordning baserad på folkrätten där regler och avtal går före den starkes rätt. Med vår tydliga säkerhetspolitiska linje, vårt solidariska bistånd, våra klimat\- och miljöinvesteringar, vår feministiska utrikespolitik, och en stark handelspolitik tryggar vi inte bara vårt eget land utan bidrar till fred, säkerhet och utveckling och demokrati globalt.
+Regeringen verkar för en världsordning baserad på folkrätten där regler och avtal går före den starkes rätt. Med vår tydliga säkerhetspolitiska linje, vårt solidariska bistånd, våra klimat- och miljöinvesteringar, vår feministiska utrikespolitik, och en stark handelspolitik tryggar vi inte bara vårt eget land utan bidrar till fred, säkerhet och utveckling och demokrati globalt.
 
 Herr talman,
 
-Covid\-19\-pandemin har skördat över 2 miljoner liv världen över.
+Covid-19-pandemin har skördat över 2 miljoner liv världen över.
 
-Sverige har drivit på för en rättvis global tillgång till vaccin mot covid\-19\. Genom EU ingår vi i det globala vaccinsamarbetet Covax. EU har mobiliserat 853 miljoner euro för detta samarbete och är därmed största givare. Sverige har bidragit med 200 miljoner kronor och deltar i arbetet för att stärka Covax möjlighet att få tillgång till vaccin.
+Sverige har drivit på för en rättvis global tillgång till vaccin mot covid-19. Genom EU ingår vi i det globala vaccinsamarbetet Covax. EU har mobiliserat 853 miljoner euro för detta samarbete och är därmed största givare. Sverige har bidragit med 200 miljoner kronor och deltar i arbetet för att stärka Covax möjlighet att få tillgång till vaccin.
 
-För att säkra vaccintillgången till EES\-länderna har Sverige åtagit sig vidareförsäljning av vaccin till Norge, Island och Schweiz.
-
-Herr talman,
-
-Som ordförande i OSSE 2021 försvarar Sverige den europeiska säkerhetsordningen med utgångspunkt i folkrätten och FN\-stadgan. Vi vill tydliggöra den koppling som görs inom OSSE mellan respekten för demokrati, mänskliga rättigheter och rättsstatens principer och säkerheten inom och mellan stater.
-
-De olösta konflikterna i Nagorno\-Karabach, Ukraina, Georgien och Transnistrien är exempel på de konsekvenser som brotten mot den europeiska säkerhetsordningen medför. Dessa utmaningar påverkar också Sverige.
+För att säkra vaccintillgången till EES-länderna har Sverige åtagit sig vidareförsäljning av vaccin till Norge, Island och Schweiz.
 
 Herr talman,
 
-EU är Sveriges viktigaste utrikes\- och säkerhetspolitiska arena. I en osäker värld ska EU vara en stark röst för fred, demokrati, mänskliga rättigheter och rättsstatens principer.
+Som ordförande i OSSE 2021 försvarar Sverige den europeiska säkerhetsordningen med utgångspunkt i folkrätten och FN-stadgan. Vi vill tydliggöra den koppling som görs inom OSSE mellan respekten för demokrati, mänskliga rättigheter och rättsstatens principer och säkerheten inom och mellan stater.
 
-Ett väl fungerande EU är en förutsättning för Sveriges välfärd. Merparten av vår handel sker med andra EU\-länder och på EU\-nivå kan vi stärka den gröna omställningen och trygga jobb.
+De olösta konflikterna i Nagorno-Karabach, Ukraina, Georgien och Transnistrien är exempel på de konsekvenser som brotten mot den europeiska säkerhetsordningen medför. Dessa utmaningar påverkar också Sverige.
 
-Handels\- och samarbetsavtalet mellan EU och Storbritannien utgör grunden för ett viktigt framtida partnerskap. Regeringen avser fördjupa Sveriges och EU:s relation till Storbritannien, även inom utrikes\- och säkerhetspolitiken.
+Herr talman,
 
-Det nordiska samarbetet är viktigt men utsätts för svåra prövningar under covid\-19\-pandemin. Samarbetet med de baltiska länderna är också av stor vikt för vår region och gemensamma säkerhet. Regeringen har presenterat en ny strategi för den arktiska regionen.
+EU är Sveriges viktigaste utrikes- och säkerhetspolitiska arena. I en osäker värld ska EU vara en stark röst för fred, demokrati, mänskliga rättigheter och rättsstatens principer.
+
+Ett väl fungerande EU är en förutsättning för Sveriges välfärd. Merparten av vår handel sker med andra EU-länder och på EU-nivå kan vi stärka den gröna omställningen och trygga jobb.
+
+Handels- och samarbetsavtalet mellan EU och Storbritannien utgör grunden för ett viktigt framtida partnerskap. Regeringen avser fördjupa Sveriges och EU:s relation till Storbritannien, även inom utrikes- och säkerhetspolitiken.
+
+Det nordiska samarbetet är viktigt men utsätts för svåra prövningar under covid-19-pandemin. Samarbetet med de baltiska länderna är också av stor vikt för vår region och gemensamma säkerhet. Regeringen har presenterat en ny strategi för den arktiska regionen.
 
 Länderna på västra Balkan är en viktig del av EU:s närområde.
 
@@ -44,19 +43,19 @@ Turkiet spelar en central roll för EU. Vi kommer att stödja de demokratiska kr
 
 FN förblir en hörnsten i svensk utrikespolitik och vi fortsätter att vara en tongivande röst inom FN.
 
-I uppföljningen av FN:s 75\-årsdeklaration – som antogs efter förhandlingar som Sverige ledde med Qatar – visade vi att det går att enas om en ambitiös väg för att stärka FN.
+I uppföljningen av FN:s 75-årsdeklaration – som antogs efter förhandlingar som Sverige ledde med Qatar – visade vi att det går att enas om en ambitiös väg för att stärka FN.
 
 FN:s insatser för att lindra nöd och förhindra svält kan inte överskattas. Som en av världens största givare stödjer Sverige FN:s arbete i flera humanitära kriser. Förra årets fredspris till Världslivsmedelsprogrammet är ett bevis på att FN:s arbete gör skillnad.
 
 Herr talman,
 
-Sveriges utrikes\- och säkerhetspolitik bygger på sammanhållning i EU och samarbete på bred front: i Norden och Östersjöområdet, inom FN och OSSE, och med Nato. En stark transatlantisk länk är viktig för Europas och Amerikas säkerhet.
+Sveriges utrikes- och säkerhetspolitik bygger på sammanhållning i EU och samarbete på bred front: i Norden och Östersjöområdet, inom FN och OSSE, och med Nato. En stark transatlantisk länk är viktig för Europas och Amerikas säkerhet.
 
-Sverige kommer inte att förhålla sig passivt om en katastrof eller ett angrepp skulle drabba ett annat EU\-land eller ett nordiskt land. Vi förväntar oss att dessa länder agerar på samma sätt om Sverige drabbas. Vi ska därför kunna ge och ta emot stöd, såväl civilt som militärt.
+Sverige kommer inte att förhålla sig passivt om en katastrof eller ett angrepp skulle drabba ett annat EU-land eller ett nordiskt land. Vi förväntar oss att dessa länder agerar på samma sätt om Sverige drabbas. Vi ska därför kunna ge och ta emot stöd, såväl civilt som militärt.
 
-Sveriges säkerhetspolitiska linje ligger fast. Vår militära alliansfrihet tjänar oss väl och bidrar till stabilitet och säkerhet i norra Europa. Den förutsätter en aktiv, bred och ansvarsfull utrikes\- och säkerhetspolitik i kombination med fördjupade försvarssamarbeten, särskilt med Finland, och en trovärdig nationell försvarsförmåga. Vi ska bidra till långsiktig stabilitet och säkerhet i vår del av Europa.
+Sveriges säkerhetspolitiska linje ligger fast. Vår militära alliansfrihet tjänar oss väl och bidrar till stabilitet och säkerhet i norra Europa. Den förutsätter en aktiv, bred och ansvarsfull utrikes- och säkerhetspolitik i kombination med fördjupade försvarssamarbeten, särskilt med Finland, och en trovärdig nationell försvarsförmåga. Vi ska bidra till långsiktig stabilitet och säkerhet i vår del av Europa.
 
-Det säkerhetspolitiska läget i Sveriges närområde och i Europa har över tid försämrats. Som ett svar på utvecklingen sker en historisk satsning på totalförsvaret och ett fortsatt stärkande av våra internationella försvars\- och säkerhetspolitiska samarbeten.
+Det säkerhetspolitiska läget i Sveriges närområde och i Europa har över tid försämrats. Som ett svar på utvecklingen sker en historisk satsning på totalförsvaret och ett fortsatt stärkande av våra internationella försvars- och säkerhetspolitiska samarbeten.
 
 Genom vårt deltagande i civila och militära insatser i exempelvis Afghanistan, Irak, Mali och Ukraina bidrar Sverige till säkerhet, förebygger konflikter samt skapar förutsättningar för hållbar utveckling. Detta engagemang är en viktig del av vår solidariska säkerhetspolitik och bidrar till gemensam säkerhet.
 
@@ -94,23 +93,23 @@ Regeringen står upp för Ukrainas suveränitet och territoriella integritet och
 
 Där vi har gemensamma intressen kan och bör vi samarbeta med Ryssland. Ett exempel på detta är Östersjöstaternas råd där samarbetet med Ryssland fungerar väl. Samtidigt ser vi med oro på den negativa trenden för mänskliga rättigheter och civilsamhällets utrymme i Ryssland och vi fördömer brott mot internationell rätt och förgiftningsattacker.
 
-Det förfalskade valet och de brutala övergrepp som regimen i Belarus har begått är oacceptabla. Tillsammans med övriga EU\-länder har vi infört riktade sanktioner mot de ansvariga.
+Det förfalskade valet och de brutala övergrepp som regimen i Belarus har begått är oacceptabla. Tillsammans med övriga EU-länder har vi infört riktade sanktioner mot de ansvariga.
 
 De utmaningar som präglat EU:s östra grannskap under det gångna året gör EU:s engagemang i regionen genom det Östliga partnerskapet mer angeläget än på länge.
 
 Herr talman,
 
-För ett år sedan besökte jag Jemen. Det var tydligt hur uppskattat Sveriges engagemang är. Sverige fortsätter att ge ett omfattande humanitärt bistånd till Jemens hårt prövade befolkning, liksom stöd till den FN\-ledda processen för fred.
+För ett år sedan besökte jag Jemen. Det var tydligt hur uppskattat Sveriges engagemang är. Sverige fortsätter att ge ett omfattande humanitärt bistånd till Jemens hårt prövade befolkning, liksom stöd till den FN-ledda processen för fred.
 
 Konflikten i Syrien utgör alltjämt en av världens allvarligaste kriser. Den enda vägen till fred i Syrien går genom en politisk lösning.
 
 Regeringen värnar relationen med både Israel och Palestina. Sverige verkar med EU för återupptagna, meningsfulla förhandlingar mellan Israel och Palestina och en lösning, baserad på folkrätten, där två stater kan leva tillsammans i fred och säkerhet.
 
-För icke\-spridning och den säkerhetspolitiska situationen i Mellanöstern är det centralt att den kärntekniska överenskommelsen med Iran bevaras. Iran måste återgå till full efterlevnad, samtidigt som USA återansluter sig. Vi understryker också den allvarliga situationen för mänskliga rättigheter i Iran.
+För icke-spridning och den säkerhetspolitiska situationen i Mellanöstern är det centralt att den kärntekniska överenskommelsen med Iran bevaras. Iran måste återgå till full efterlevnad, samtidigt som USA återansluter sig. Vi understryker också den allvarliga situationen för mänskliga rättigheter i Iran.
 
 Sverige har ett omfattande och långvarigt engagemang för fred, demokrati och utveckling i Afrika. I Etiopien riskerar konflikten i Tigray att underminera landets demokratiska utveckling och få omfattande regionala konsekvenser. I Sudan fortsätter den politiska övergången med en civilledd övergångsregering efter 30 år av auktoritärt styre.
 
-Säkerhetsläget i Sahel är mycket oroande. I augusti genomfördes en militärkupp i Mali. Nu finns en övergångsregering på plats och allmänna val ska hållas 2022\. Sverige bidrar till säkerhet och utveckling i Sahel.
+Säkerhetsläget i Sahel är mycket oroande. I augusti genomfördes en militärkupp i Mali. Nu finns en övergångsregering på plats och allmänna val ska hållas 2022. Sverige bidrar till säkerhet och utveckling i Sahel.
 
 Herr talman,
 
@@ -118,7 +117,7 @@ Asiens växande betydelse ger möjligheter till handel och investeringar, grön 
 
 Kinas internationella betydelse berör i allt högre utsträckning Sverige och svenska intressen. Sverige och EU ser globala utmaningar som vi bara kan hantera tillsammans med Kina — som klimat, hälsa och en rättvis frihandelsordning. Samtidigt som samarbetet är viktigt agerar vi mot säkerhetshotande verksamhet riktad mot Sverige och svenska företag. Vi för en rak dialog med Kina där mänskliga rättigheter och yttrandefrihet är centrala delar.
 
-Regeringen ser med särskild stor oro på det krympande demokratiska utrymmet i Hongkong. Hongkongbornas mänskliga fri\- och rättigheter måste respekteras.
+Regeringen ser med särskild stor oro på det krympande demokratiska utrymmet i Hongkong. Hongkongbornas mänskliga fri- och rättigheter måste respekteras.
 
 Sverige behöver stärka kunskaperna om Kina. I januari i år inledde det nationella kunskapscentret om Kina sin verksamhet.
 
@@ -128,7 +127,7 @@ Herr talman,
 
 Det är oroande att demokratin utmanas på många håll i världen. De växande auktoritära krafterna hänger ofta ihop med ekonomiska och sociala klyftor.
 
-Genom demokratisatsningen Drive for Democracy har 600 aktiviteter nått 1,7 miljoner människor. Vi har genomfört 70 demokratisamtal , där vi gett utrymme åt civilsamhälle, fackligt aktiva, hbtq\-personer och kvinnorättskämpar. Det svenska demokratibiståndet har ökat de senaste åren.
+Genom demokratisatsningen Drive for Democracy har 600 aktiviteter nått 1,7 miljoner människor. Vi har genomfört 70 demokratisamtal , där vi gett utrymme åt civilsamhälle, fackligt aktiva, hbtq-personer och kvinnorättskämpar. Det svenska demokratibiståndet har ökat de senaste åren.
 
 Internet har öppnat nya möjligheter att delta i demokratin, men också sänkt trösklarna för de som vill begränsa demokratin och yttrandefriheten. Därför kommer regeringen att bjuda in till en dialog med plattformsföretagen för att diskutera hur de tillsammans med civilsamhället kan motverka hot och hat, stärka demokratin och värna mänskliga rättigheter på internet.
 
@@ -152,7 +151,7 @@ Sveriges nedrustningspolitik ska även i framtiden vila på en stark kunskapsbas
 
 Fullt autonoma vapensystem som inte uppfyller folkrättens krav, LAWS, är ett framtidsscenario som måste undvikas. Med ett effektivt internationellt förbud som målsättning deltar Sverige aktivt i det viktiga arbete som bedrivs inom ramen för konventionen om vissa konventionella vapen.
 
-Sverige ska vara ledande i genomförandet av Agenda 2030\. Det är vår färdplan mot en starkare, mer motståndskraftig och hållbar värld. Regeringens arbete för ett internationellt hållbart företagande fortsätter.
+Sverige ska vara ledande i genomförandet av Agenda 2030. Det är vår färdplan mot en starkare, mer motståndskraftig och hållbar värld. Regeringens arbete för ett internationellt hållbart företagande fortsätter.
 
 Sverige har ett effektivt bistånd i världsklass samtidigt som regeringen står fast vid enprocentsmålet.
 
@@ -160,7 +159,7 @@ Herr talman,
 
 Klimatkrisen, förlusten av biologisk mångfald samt utarmning och nedskräpning av världshaven är globala och gränsöverskridande frågor som påverkar oss alla. De riskerar att oåterkalleligen ändra förutsättningarna för mänskligheten och att förvärra svält och öka antalet konflikter och pandemier världen över.
 
-Nästa år kommer Sverige stå värd för det globala högnivåmötet Stockholm\+50\.
+Nästa år kommer Sverige stå värd för det globala högnivåmötet Stockholm+50.
 
 Sverige kommer fortsätta visa ledarskap genom vår egen omställning till ett fossilfritt samhälle och genom vår klimatdiplomati.
 

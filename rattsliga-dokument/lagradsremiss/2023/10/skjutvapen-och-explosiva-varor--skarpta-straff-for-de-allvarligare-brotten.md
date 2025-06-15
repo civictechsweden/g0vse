@@ -8,4 +8,4 @@ Det föreslås ske på följande sätt:
 * Straffskalorna för synnerligen grovt brott ändras från fängelse i lägst fyra år och högst sju år till fängelse i lägst sex år och högst tio år.
 * Maximistraffen för normalgradsbrott höjs från fängelse i tre år till fängelse i fem år.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

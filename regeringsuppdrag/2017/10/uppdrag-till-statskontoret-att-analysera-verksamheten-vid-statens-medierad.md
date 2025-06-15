@@ -1,7 +1,6 @@
 # Uppdrag till Statskontoret att analysera verksamheten vid Statens medieråd
 
-Regeringen uppdrar åt Statskontoret att göra en analys av hur verksamheten vid Statens medieråd förhåller sig till myndighetens uppdrag. Analysen ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 22 mars 2018\.
-
+Regeringen uppdrar åt Statskontoret att göra en analys av hur verksamheten vid Statens medieråd förhåller sig till myndighetens uppdrag. Analysen ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 22 mars 2018.
 
 Statskontoret ska särskilt analysera:
 

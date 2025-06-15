@@ -2,12 +2,11 @@
 
 Sveriges position in i årets förhandlingar var att betona att klimatomställningen brådskar, och att det finns möjligheter med att ställa om som skapar jobb och tillväxt. När förhandlingarna var klara var utfallet ungefär detsamma som i Glasgow förra året, men en framgång var den nya fonden för skador och förluster.
 
-
-I klimatförhandlingarna förhandlar Sverige inom ramen för EU. De stora frågorna i år var klimatanpassning med fokus på det långsiktiga klimatanpassningsmålet (GGA), etableringen av ett arbetsprogram för utsläppsminskningar och det nya långsiktiga finansieringsmålet perioden efter 2025\. Länderna kom också överens om att utveckla formerna för finansiering för skador och förluster som uppstår i samband med klimatförändringar.
+I klimatförhandlingarna förhandlar Sverige inom ramen för EU. De stora frågorna i år var klimatanpassning med fokus på det långsiktiga klimatanpassningsmålet (GGA), etableringen av ett arbetsprogram för utsläppsminskningar och det nya långsiktiga finansieringsmålet perioden efter 2025. Länderna kom också överens om att utveckla formerna för finansiering för skador och förluster som uppstår i samband med klimatförändringar.
 
 ## Arbetsprogrammet för utsläppsminskningar
 
-Sverige och EU prioriterade att få till ett arbetsprogram för utsläppsminskningar. Programmet ska bidra till att sluta ambitionsgapet mellan det parterna har kommit överens om tidigare, och vad vetenskapen säger att vi behöver göra fram till 2030 för att ligga i linje med 1,5\-gradersmålet. Arbetsprogrammet klubbades igenom och under Sveriges kommande ordförandeskap i EU våren 2023 kommer kraft ägnas åt att säkra hög ambition i genomförandet. Programmet sträcker sig till 2026\.
+Sverige och EU prioriterade att få till ett arbetsprogram för utsläppsminskningar. Programmet ska bidra till att sluta ambitionsgapet mellan det parterna har kommit överens om tidigare, och vad vetenskapen säger att vi behöver göra fram till 2030 för att ligga i linje med 1,5-gradersmålet. Arbetsprogrammet klubbades igenom och under Sveriges kommande ordförandeskap i EU våren 2023 kommer kraft ägnas åt att säkra hög ambition i genomförandet. Programmet sträcker sig till 2026.
 
 ## Ny fond för skador och förluster
 
@@ -29,4 +28,4 @@ Samlingsbeslutet som togs fram under årets förhandlingar betonar de politiska 
 
 ## Vad händer nu?
 
-Inom ramen för EU\-ordförandeskapet kommer Sverige från den 1 januari 2023 att leda EU:s arbete med att ta vidare resultaten från COP27\.
+Inom ramen för EU-ordförandeskapet kommer Sverige från den 1 januari 2023 att leda EU:s arbete med att ta vidare resultaten från COP27.

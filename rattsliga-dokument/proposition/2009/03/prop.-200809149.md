@@ -6,4 +6,4 @@ Vidare föreslås att bestämmelsen i 6 kap. 14 § brottsbalken om ansvarsfrihet
 
 I propositionen redovisas också det förebyggande arbete som pågår och planeras för att bland annat motverka och förebygga vuxnas kontakter med barn i sexuella syften.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2009\.
+Lagändringarna föreslås träda i kraft den 1 juli 2009.

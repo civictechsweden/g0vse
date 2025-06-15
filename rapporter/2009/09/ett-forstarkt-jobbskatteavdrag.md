@@ -12,8 +12,8 @@ Mot denna bakgrund föreslås i promemorian att jobbskatteavdraget förstärks i
 
 Det förstärkta jobbskatteavdraget beräknas på lång sikt öka sysselsättningen med ca 12 000 årsarbetskrafter och BNP med 0,25 procent. Åtgärden bedöms ha en självfinansieringsgrad på ca 30 procent vilket är den andel av det initiala budgetbortfallet som balanseras av budgetförstärkningar på grund av förändrat beteende.
 
-I likhet med de tre tidigare stegen inriktas det fjärde steget särskilt mot att dels sänka trösklarna för individen att gå från fulltidsfrånvaro till hel\- eller deltidsarbete, dels förstärka drivkraften hos dem som redan har ett arbete att öka sin arbetsinsats. Med bibehållande av detta dubbla syfte utformas det fjärde steget så att den disponibla inkomsten ökar förhållandevis mycket för låg\- och medelinkomsttagare.
+I likhet med de tre tidigare stegen inriktas det fjärde steget särskilt mot att dels sänka trösklarna för individen att gå från fulltidsfrånvaro till hel- eller deltidsarbete, dels förstärka drivkraften hos dem som redan har ett arbete att öka sin arbetsinsats. Med bibehållande av detta dubbla syfte utformas det fjärde steget så att den disponibla inkomsten ökar förhållandevis mycket för låg- och medelinkomsttagare.
 
-Förslaget innebär att jobbskatteavdraget höjs för dem som vid beskattningsårets ingång inte har fyllt 65 år och som har arbetsinkomster som överstiger ca 38 600 kronor per år. Höjningen motsvarar en skattelättnad med upp till 3 020 kronor per år vid genomsnittlig kommunal skattesats (31,52 procent för 2009\). För den som har 22 000 kronor i månadslön och som betalar genomsnittlig kommunal inkomstskatt blir skattesänkningen genom detta fjärde steg 226 kronor per månad.
+Förslaget innebär att jobbskatteavdraget höjs för dem som vid beskattningsårets ingång inte har fyllt 65 år och som har arbetsinkomster som överstiger ca 38 600 kronor per år. Höjningen motsvarar en skattelättnad med upp till 3 020 kronor per år vid genomsnittlig kommunal skattesats (31,52 procent för 2009). För den som har 22 000 kronor i månadslön och som betalar genomsnittlig kommunal inkomstskatt blir skattesänkningen genom detta fjärde steg 226 kronor per månad.
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2010\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2010.

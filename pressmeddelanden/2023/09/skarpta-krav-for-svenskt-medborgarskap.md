@@ -14,6 +14,6 @@ Utredaren ska bland annat
 
 Det ingår inte i utredarens uppdrag att lämna förslag på grund­lags­ändringar.
 
-Uppdraget ska redo­visas senast den 30 september 2024\.
+Uppdraget ska redo­visas senast den 30 september 2024.
 
 Kommitté­direktivet bygger på en överens­kommelse mellan Sverige­demo­kraterna, Moderaterna, Krist­demokraterna och Liberalerna.

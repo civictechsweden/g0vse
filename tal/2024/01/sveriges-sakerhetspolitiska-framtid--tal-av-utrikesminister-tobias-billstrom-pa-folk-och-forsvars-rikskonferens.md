@@ -4,7 +4,6 @@ Utrikesminister Tobias Billströms tal på Folk och Försvars rikskonferens i S�
 
 Det talade ordet gäller.
 
-
 Ers Majestät,
 
 Ers Kungliga Högheter,
@@ -25,11 +24,9 @@ Det innebär både ett stort ansvar och nya möjligheter att stärka vår frihet
 
 Låt mig lyfta fram några orienteringspunkter i detta arbete.
 
-
-
 **För det första:** Vår centrala utgångspunkt är att Ryssland under överskådlig tid kommer att utgöra ett allvarligt hot mot Sveriges och Europas säkerhet.
 
-Vi måste vara realister och utgå från – och förbereda oss på – en långvarig konfrontation, som varar så länge som Ryssland flagrant bryter mot FN\-stadgan och den europeiska säkerhetsordningen.
+Vi måste vara realister och utgå från – och förbereda oss på – en långvarig konfrontation, som varar så länge som Ryssland flagrant bryter mot FN-stadgan och den europeiska säkerhetsordningen.
 
 Folkrätten utgör en hörnsten för svensk och transatlantisk säkerhet.
 
@@ -47,7 +44,7 @@ Vi välkomnar varmt EU:s beslut att inleda medlemskapsförhandlingar med Ukraina
 
 Grundvalen för Nato är sammanhållningen och trovärdigheten i artikel 5 – och det gäller såväl politiskt som militärt. Att värna sammanhållningen är att värna alliansens styrka.
 
-Detta är ett svenskt kärnintresse. Sverige kommer att vara en pålitlig, solidarisk och engagerad Natomedlem. Vi sluter upp bakom Natos 360\-gradersansats.
+Detta är ett svenskt kärnintresse. Sverige kommer att vara en pålitlig, solidarisk och engagerad Natomedlem. Vi sluter upp bakom Natos 360-gradersansats.
 
 **För det fjärde:** Vi ska fullt ut ta vara på de möjligheter som Sveriges och Finlands Natoanslutningar innebär för att stärka säkerheten och stabiliteten i norra Europa.
 
@@ -59,7 +56,7 @@ Detta handlar om att på bästa sätt underlätta den gemensamma försvarsplaner
 
 Ett av mina första beslut som utrikesminister var att omorganisera UD, bland annat för att skapa en ökad samordning i säkerhetspolitiska frågor. Det är nödvändigt för att möta de krav som nu ställs på oss.
 
-Nato har en unikt djup politisk\-militär integration. För att få genomslag måste vi sömlöst sammanfoga politiska och militära aspekter på en rad områden till en enhetlig politik.
+Nato har en unikt djup politisk-militär integration. För att få genomslag måste vi sömlöst sammanfoga politiska och militära aspekter på en rad områden till en enhetlig politik.
 
 Detta gäller i synnerhet för Natos tre kärnuppgifter, avskräckning och kollektivt försvar, krishantering och säkerhetssamarbeten.
 
@@ -69,7 +66,7 @@ Det gäller frågor som terrorism, desinformation och skydd av kritisk infrastru
 
 Och det gäller arbetet med nya och framväxande hot, med tonvikt på teknik och telekommunikationer, innovation och rymdfrågor, samt den allt närmare kopplingen mellan ekonomi och säkerhet.
 
-Samtidigt ska vi fortsätta att stärka EU som strategisk aktör. Att solidariskt bidra till EU:s gemensamma utrikes\- och säkerhetspolitik med dess breda verktygslåda är en självklar grundsten för Sveriges framtida säkerhetspolitik.
+Samtidigt ska vi fortsätta att stärka EU som strategisk aktör. Att solidariskt bidra till EU:s gemensamma utrikes- och säkerhetspolitik med dess breda verktygslåda är en självklar grundsten för Sveriges framtida säkerhetspolitik.
 
 Europa behöver ett starkt EU, och Nato behöver få en starkare europeisk pelare.
 
@@ -77,17 +74,15 @@ Europa behöver ett starkt EU, och Nato behöver få en starkare europeisk pelar
 
 Avtalet gör det möjligt att snabbt och tidigt få ett effektivt amerikanskt militärt stöd i ett försämrat läge. Vi har utformat avtalet så att det stärker säkerheten för oss, för USA och för våra grannar. Det är konfliktavhållande och stabiliserande.
 
-Att våra nordiska grannar har liknande avtal är ett viktigt uttryck för den säkerhets\- och försvarspolitiska samstämmighet som finns i Norden.
+Att våra nordiska grannar har liknande avtal är ett viktigt uttryck för den säkerhets- och försvarspolitiska samstämmighet som finns i Norden.
 
-**För det sjunde:** När det strategiska landskapet i norra Europa förändras kan det utrikes\- och säkerhetspolitiska samarbetet i regionen utvecklas, hand i hand med det försvarspolitiska närmandet jag just nämnde.
+**För det sjunde:** När det strategiska landskapet i norra Europa förändras kan det utrikes- och säkerhetspolitiska samarbetet i regionen utvecklas, hand i hand med det försvarspolitiska närmandet jag just nämnde.
 
 Behovet är uppenbart i ljuset av det försämrade säkerhetsläget. Och Finlands Natomedlemskap och Sveriges nära förestående medlemskap innebär en historisk möjlighet. För första gången någonsin gör alla demokratiska grannländer i vår region samma säkerhetspolitiska vägval.
 
-Sverige är i år ordförande i och koordinerar det informella samarbetet mellan de nordiska länderna och mellan de nordisk\-baltiska länderna, N5 respektive NB8\. Fördjupat säkerhetspolitiskt samarbete i närområdet är en av våra prioriteringar. Fortsatt stöd till Ukraina och ökat tryck på Ryssland likaså.
+Sverige är i år ordförande i och koordinerar det informella samarbetet mellan de nordiska länderna och mellan de nordisk-baltiska länderna, N5 respektive NB8. Fördjupat säkerhetspolitiskt samarbete i närområdet är en av våra prioriteringar. Fortsatt stöd till Ukraina och ökat tryck på Ryssland likaså.
 
-
-
-Allt det jag beskriver hänger ihop – medlemskapen och vår roll i EU och Nato, försvarssamarbetsavtalet med USA, stödet till Ukraina, Rysslandspolitiken och det fördjupade samarbetet mellan de nordisk\-baltiska länderna. Dessa byggstenar för vår framtida säkerhetspolitik är viktiga var för sig, men utgör tillsammans en ännu viktigare helhet.
+Allt det jag beskriver hänger ihop – medlemskapen och vår roll i EU och Nato, försvarssamarbetsavtalet med USA, stödet till Ukraina, Rysslandspolitiken och det fördjupade samarbetet mellan de nordisk-baltiska länderna. Dessa byggstenar för vår framtida säkerhetspolitik är viktiga var för sig, men utgör tillsammans en ännu viktigare helhet.
 
 Som jag inledde med att säga har förutsättningarna för den svenska säkerhetspolitiken förändrats i grunden. Det är inte längre valbart att prioritera dessa frågor. Det är en absolut nödvändighet.
 

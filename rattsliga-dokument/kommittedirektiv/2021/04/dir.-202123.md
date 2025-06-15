@@ -9,4 +9,4 @@ Utredaren ska bland annat:
 * överväga och vid behov föreslå andra åtgärder för att fler ska nå målen med en utbildning i gymnasieskolan, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 1 mars 2022\.
+Uppdraget ska redovisas senast den 1 mars 2022.

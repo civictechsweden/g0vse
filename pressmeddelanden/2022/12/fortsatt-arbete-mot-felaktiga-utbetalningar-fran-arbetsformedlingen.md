@@ -8,8 +8,8 @@ Arbetsförmedlingen ska utgå från den problembild som myndigheten ser i arbete
 * Vilka åtgärder som har vidtagits med det primära syftet att säkerställa och underlätta för den som har beviljats en ersättning att förstå när det uppstår en skyldighet att informera myndigheten om ändrade förhållanden samt att lämna korrekta uppgifter om ändrade förhållanden som kan ha betydelse för rätten till ersättning.
 * En bedömning av effekterna av de vidtagna åtgärderna.
 
-Uppdraget ges till Arbetsförmedlingen genom myndighetens regleringsbrev för 2023 och ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 3 oktober 2023\.
+Uppdraget ges till Arbetsförmedlingen genom myndighetens regleringsbrev för 2023 och ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 3 oktober 2023.
 
 Arbetsförmedlingen ska dessutom tillsammans med andra välfärdsmyndigheter fortsatt bidra till det övergripande målet att utbetalningarna från välfärdssystemen ska vara korrekta, andelen felaktiga utbetalningar ska minska och fel ska motverkas. Andelen felaktiga utbetalningar från de ersättningar som Arbetsförmedlingen hanterar ska därför minska.
 
-Arbetsförmedlingen ska redovisa måluppfyllelsen i myndighetens årsredovisning för 2023\.
+Arbetsförmedlingen ska redovisa måluppfyllelsen i myndighetens årsredovisning för 2023.

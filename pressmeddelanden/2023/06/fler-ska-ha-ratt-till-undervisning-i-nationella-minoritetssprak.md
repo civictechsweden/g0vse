@@ -6,4 +6,4 @@ Undervisning i ett nationellt minoritetsspråk som modersmål ska enligt skollag
 
 De nationella minoritetsspråken är finska, jiddisch, meänkieli, romani chib och samiska.
 
-Ändringarna föreslås träda i kraft den 1 januari 2024 och tillämpas på utbildning som påbörjas efter den 30 juni 2025\.
+Ändringarna föreslås träda i kraft den 1 januari 2024 och tillämpas på utbildning som påbörjas efter den 30 juni 2025.

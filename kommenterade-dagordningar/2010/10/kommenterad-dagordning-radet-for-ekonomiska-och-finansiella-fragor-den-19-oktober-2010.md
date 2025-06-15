@@ -6,7 +6,7 @@ På Ekofinrådets möte den 19 oktober 2010 finns följande punkter på dagordni
 * Omvänd skatteskyldighet för mobiltelefoner
 * Underskotteförfarandet
 * Uppföljning av Informella Ekofin
-* Förberedelser inför G20 den 22\-23 oktober
+* Förberedelser inför G20 den 22-23 oktober
 * Högre utbildning
 * Finanspolitiska ramverk
-* Förberedelser inför Europeiska rådet 28\-29 oktober
+* Förberedelser inför Europeiska rådet 28-29 oktober

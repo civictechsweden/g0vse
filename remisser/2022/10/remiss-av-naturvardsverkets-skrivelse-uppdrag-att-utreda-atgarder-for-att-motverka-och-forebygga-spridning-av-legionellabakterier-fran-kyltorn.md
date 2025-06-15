@@ -4,5 +4,4 @@ Här kan du ta del av de remissvar som kommit in till Miljödepartementet om Nat
 
 Övriga yttranden finns tillgängliga i departementet.
 
-
-Remissvaren ska ha kommit in till Miljödepartementet senast den 21 december 2022\.
+Remissvaren ska ha kommit in till Miljödepartementet senast den 21 december 2022.

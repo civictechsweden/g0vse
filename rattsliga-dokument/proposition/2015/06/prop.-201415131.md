@@ -14,4 +14,4 @@ tillgängliga avstämningsuppgifter ska användas och att förutsättningarna f�
 
 De föreslagna ändringarna kommer att stärka rättssäkerheten i skatteförfarandet ytterligare, bl.a. med beaktande av Europakonventionen om de mänskliga rättigheterna och genom att reglerna blir tydligare och mer förutsebara för enskilda och för tillämpande myndigheter.
 
-De nya reglerna föreslås träda i kraft den 1 januari 2016\.
+De nya reglerna föreslås träda i kraft den 1 januari 2016.

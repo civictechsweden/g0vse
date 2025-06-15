@@ -10,6 +10,6 @@ Regeringen föreslår därför en lag om resenärers rättigheter i den lokala o
 
 Den föreslagna lagen omfattar i huvudsak resor med tåg, spårväg, tunnelbana och buss. Bestämmelserna ska gälla lika oavsett vilket av trafikslagen som används. En transportör ska inte kunna använda resevillkor som är till nackdel för resenärerna i jämförelse med lagen. Genom förslagen stärks resenärernas rättigheter i förhållande till de allmänna resevillkor som transportörerna tillämpar och till den lagstiftning om rätt till reseinformation som hittills har gällt.
 
-Den nya lagen om kollektivtrafikresenärers rättigheter och övriga lagändringar föreslås träda i kraft den 1 april 2016\.
+Den nya lagen om kollektivtrafikresenärers rättigheter och övriga lagändringar föreslås träda i kraft den 1 april 2016.
 
 [Pressmeddelande: Stärkta rättigheter för kollektivtrafikresenärer](/pressmeddelanden/2015/09/starkta-rattigheter-for-kollektivtrafikresenarer/)

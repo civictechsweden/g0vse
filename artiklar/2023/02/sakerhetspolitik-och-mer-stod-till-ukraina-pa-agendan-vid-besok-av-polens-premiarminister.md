@@ -2,8 +2,7 @@
 
 Behovet av stöd till Turkiet och Syrien med anledning av jordbävningskatastrofen lyftes först av allt både av statsminister Ulf Kristersson och Polens premiärminister Mateusz Morawiecki vid den gemensamma presskonferensen i samband med premiärministerns besök i Sverige.
 
-
-En av många insatser som nu görs är den internationella givarkonferens som planeras av Sverige som ordförandeland i EU tillsammans med EI\-kommissionen. Givarkonferensen ska äga rum i mars i samarbete med Turkiet.
+En av många insatser som nu görs är den internationella givarkonferens som planeras av Sverige som ordförandeland i EU tillsammans med EI-kommissionen. Givarkonferensen ska äga rum i mars i samarbete med Turkiet.
 
 – Förutom de insatser som redan gjorts, med bland annat det transportplan med förnödenheter och räddningspersonal som flögs ner till Turkiet i förra veckan, så planeras fortsatt substantiellt stöd löpande, sade statsminister Kristersson.
 

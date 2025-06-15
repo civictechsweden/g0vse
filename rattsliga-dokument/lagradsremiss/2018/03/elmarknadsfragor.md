@@ -1,6 +1,6 @@
 # Elmarknadsfrågor
 
-I lagrådsremissen föreslås dels en rad ändringar i ellagen (1997:857\), dels ändringar i lagen (2011:710\) om certifiering av stamnätsföretag för el. Ändringarna gäller främst elnätsföretagen. Lagändringarna föreslås träda i kraft den 1 januari 2019\.
+I lagrådsremissen föreslås dels en rad ändringar i ellagen (1997:857), dels ändringar i lagen (2011:710) om certifiering av stamnätsföretag för el. Ändringarna gäller främst elnätsföretagen. Lagändringarna föreslås träda i kraft den 1 januari 2019.
 
 Ellagens terminologi förtydligas när det gäller indelningen av elnätet i olika nivåer och förutsättningarna för att bedriva överföring av el på de högsta spänningsnivåerna. Bestämmelserna om certifiering av stamnätsföretag anpassas till ändringarna i ellagen.
 
@@ -12,4 +12,4 @@ För att motverka att konsumenter utsätts för otillbörliga påtryckningar fö
 
 I lagrådsremissen föreslås också att ellagens bestämmelser om överklagande ska förenklas.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2019\.
+Lagändringarna föreslås träda i kraft den 1 januari 2019.

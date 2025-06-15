@@ -9,6 +9,6 @@ Utredaren ska analysera och föreslå
 
 • förändringar av prövningsprocesser och regelverk så att bättre hänsyn kan tas både till ett projekts lokala miljöpåverkan och dess samhällsnytta, till exempel minskad global klimatpåverkan, och
 
-• förändringar av prövningsprocesser och regelverk så att en större andel av det värde som gruv\- och mineralnäringen genererar kan komma hela landet till del.
+• förändringar av prövningsprocesser och regelverk så att en större andel av det värde som gruv- och mineralnäringen genererar kan komma hela landet till del.
 
-Uppdraget ska redovisas senast den 31 oktober 2022\.
+Uppdraget ska redovisas senast den 31 oktober 2022.

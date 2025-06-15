@@ -9,6 +9,6 @@ sådant sätt att deras välfärd främjas, att de kan utföra sådana beteenden
 Det införs ett krav på att den som håller djur eller på annat sätt tar hand om djur ska ha tillräcklig kompetens för att tillgodose djurets behov. Det
 klargörs att djur av tamdjursart inte får överges. Det införs ett förbud mot att djur tränas för eller används i prov på ett sådant sätt att de utsätts för lidande och förbudet mot dopning utökas och förtydligas.
 
-Ändrade bestämmelser om djurförbud skapar förutsättningar för en mer nyanserad och proportionerlig tillämpning. Det föreslås också bl.a. en ny sekretessbrytande bestämmelse som gör det möjligt för personal inom hälso\- och sjukvården och socialtjänsten att lämna uppgifter om vissa djurskyddsproblem till kontrollmyndigheten för djurskydd eller till Polismyndigheten.
+Ändrade bestämmelser om djurförbud skapar förutsättningar för en mer nyanserad och proportionerlig tillämpning. Det föreslås också bl.a. en ny sekretessbrytande bestämmelse som gör det möjligt för personal inom hälso- och sjukvården och socialtjänsten att lämna uppgifter om vissa djurskyddsproblem till kontrollmyndigheten för djurskydd eller till Polismyndigheten.
 
 De nya reglerna föreslås träda i kraft **den 1 april 2019**.

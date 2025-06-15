@@ -1,7 +1,6 @@
 # Remiss av SOU 2017:50 Personuppgiftsbehandling för forskningsändamål
 
-Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:50 Personuppgiftsbehandling för forskningsändamål. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 15 september 2017\.
-
+Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:50 Personuppgiftsbehandling för forskningsändamål. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 15 september 2017.
 
 ## Remissinstanser
 
@@ -25,16 +24,16 @@ Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:50
 18 Socialstyrelsen
 19 Läkemedelsverket
 20 Folkhälsomyndigheten
-21 Myndigheten för vård\- och omsorgsanalys
+21 Myndigheten för vård- och omsorgsanalys
 22 Statens beredning för medicinsk och social
 utvärdering
 23 Statens institutionsstyrelse
 24 Myndigheten för delaktighet
 25 Forskningsrådet för hälsa, arbetsliv och välfärd
-26 Tandvårds\- och läkemedelsförmånsverket
+26 Tandvårds- och läkemedelsförmånsverket
 27 Inspektionen för socialförsäkringen
 28 Pensionsmyndigheten
-29 E\-hälsomyndigheten
+29 E-hälsomyndigheten
 30 Statistiska centralbyrån
 31 Arbetsgivarverket
 32 Statskontoret
@@ -72,7 +71,7 @@ utvärdering
 64 Statens skolverk
 65 Skolforskningsinstitutet
 66 Försvarshögskolan
-67 Gymnastik\- och idrottshögskolan
+67 Gymnastik- och idrottshögskolan
 68 Göteborgs universitet
 69 Högskolan i Borås
 70 Högskolan i Halmstad
@@ -104,7 +103,7 @@ utvärdering
 96 Forskningsrådet för miljö, areella näringar och
 samhällsbyggande
 97 Statens energimyndighet
-98 Statens väg\- och transportforskningsinstitut
+98 Statens väg- och transportforskningsinstitut
 99 Trafikanalys
 100 Sveriges geologiska undersökning
 101 Verket för innovationssystem
@@ -122,7 +121,7 @@ analyser
 112 Arbetsförmedlingen
 113 Arbetsmiljöverket
 114 Medlingsinstitutet
-115 Institutet för arbetsmarknads\- och utbildningspolitisk
+115 Institutet för arbetsmarknads- och utbildningspolitisk
 utvärdering
 116 Inspektionen för arbetslöshetsförsäkringen
 117 Cancerfonden – Riksföreningen mot Cancer
@@ -130,12 +129,12 @@ utvärdering
 119 Ericsson Research
 120 Ersta Sköndal Bräcke högskola
 121 Funktionsrätt Sverige
-122 Hjärt\-Lungfonden
+122 Hjärt-Lungfonden
 123 Inera AB
 124 Jönköping University
-125 KK\-stiftelsen
+125 KK-stiftelsen
 126 Kungl. Ingenjörsvetenskapsakademien
-127 Kungl. Skogs\- och Lantbruksakademien
+127 Kungl. Skogs- och Lantbruksakademien
 128 Kungl. Vetenskapsakademien
 129 Kungl. Vitterhets Historie och Antikvitets
 Akademien
@@ -144,12 +143,12 @@ Akademien
 132 Nationellt biobanksråd
 133 Pensionärernas riksorganisation
 134 Research Institutes of Sweden
-135 Statens medicinsk\-etiska råd
+135 Statens medicinsk-etiska råd
 136 Stiftelsen för strategisk forskning
 137 Stiftelsen Institutet för framtidsstudier
 138 Svenska läkaresällskapet
 139 Svenskt Näringsliv
 140 Sveriges akademikers centralorganisation
 141 Sveriges kommuner och landsting
-142 Sveriges Universitets\- och högskoleförbund
+142 Sveriges Universitets- och högskoleförbund
 143 Tjänstemännens Centralorganisation

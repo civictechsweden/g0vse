@@ -12,4 +12,4 @@ Regeringen ger Boverket i uppdrag att:
 
 − föreslå hur Boverket och andra relevanta myndigheter kan samverka för att förbättra och ha mer koordinerade processer vad gäller kunskapsunderlaget för bostadsbyggande och den framtida bostadsmarknaden.
 
-Boverket ska senast den 1 mars 2024 lämna en skriftlig redovisning av uppdraget till Regeringskansliet (Landsbygds\- och infrastrukturdepartementet).
+Boverket ska senast den 1 mars 2024 lämna en skriftlig redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).

@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen att föreslå hur ett nationellt kompetenscentrum för äldreomsorg kan inrättas och organiseras vid myndigheten. Kompetenscentrumet ska ha en central roll och kännetecknas av ett verksamhetsnära arbete samt tvärprofessionell samverkan med relevanta aktörer.
 
-
 Centrumets ska
 
 * skapa långsiktigt hållbara kommunikativa strukturer med kommunerna, antingen via befintliga strukturer eller nya,
@@ -13,4 +12,4 @@ Centrumets ska
 
 Centrumet ska från 2023 årligen redovisa sitt arbete i en särskild plan som lämnas senast den 30 september och som innehåller en analys av det långsiktiga arbetet samt information om vilka utvecklingsområden som prioriteras kommande år.
 
-Socialstyrelsen redovisar uppdraget till Regeringskansliet senast den 31 mars 2022\.
+Socialstyrelsen redovisar uppdraget till Regeringskansliet senast den 31 mars 2022.

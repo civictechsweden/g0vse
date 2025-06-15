@@ -1,7 +1,6 @@
 # Stödboende - en ny placeringsform för barn och unga
 
-I propositionen föreslår regeringen en ny placeringsform i socialtjänstlagen för barn och unga i åldern 16\-20 år. Socialtjänsten ska sörja för att barn och unga som behöver vårdas eller bo i ett annat hem än det egna kan tas emot i stödboende. För att placera barn i stödboende ska krävas särskilda skäl.
-
+I propositionen föreslår regeringen en ny placeringsform i socialtjänstlagen för barn och unga i åldern 16-20 år. Socialtjänsten ska sörja för att barn och unga som behöver vårdas eller bo i ett annat hem än det egna kan tas emot i stödboende. För att placera barn i stödboende ska krävas särskilda skäl.
 Lagändringen föreslås träda i kraft den 1 januari 2016
 
 ## Regelbunden inspektion

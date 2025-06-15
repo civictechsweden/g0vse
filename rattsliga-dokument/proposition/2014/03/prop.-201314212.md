@@ -4,4 +4,4 @@ Regeringen föreslår att Sverige ska tillträda tre överenskommelser inom FN o
 
 Regeringen föreslår även de lagändringar som krävs för att Sverige ska uppfylla åtagandena enligt överenskommelserna. Bland annat föreslås en utvidgad möjlighet för regeringen att lämna ett annat land tillstånd att borda ett svenskt fartyg utanför svenskt territorium.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2014\.
+Lagändringarna föreslås träda i kraft den 1 juli 2014.

@@ -2,5 +2,4 @@
 
 Här kan du ta del av vilka instanser som Finansdepartementet har remitterat Skatteverkets promemoria Ökade möjligheter till automatiserat beslutsfattande på fastighetstaxeringsområdet.
 
-
-Remissvaren ska ha kommit in till Finansdepartementet senast den 23 april 2020\.
+Remissvaren ska ha kommit in till Finansdepartementet senast den 23 april 2020.

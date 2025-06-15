@@ -2,4 +2,4 @@
 
 En särskild utredare ska göra en allmän översyn av avfallsområdet. Översynen ska ta sin utgångspunkt i att avfallshanteringen ska ske på ett resurseffektivt och miljömässigt sätt, vara effektiv för samhället och enkel för konsumenter och andra användargrupper.
 Utredaren ska göra en översyn av avfallsområdet främst när det gäller utformningen och ansvaret för insamlingen och omhändertagandet av hushållens avfall. Vidare ska utredaren göra en översyn av ansvaret för näringslivets avfall, särskilt avseende hushållsavfall, förpackningar och returpapper. Utifrån detta ska utredaren föreslå hur avfallshanteringen bäst bör utformas. En sådan bedömning ska göras förutsättningslöst och med möjligheten att pröva såväl nya marknadslösningar som nya administrativa och tekniska lösningar. Utredaren ska även utvärdera dagens styrmedel för att få producenterna att tillverka förpackningar på ett sådant sätt att miljöbelastningen och resursförbrukningen minimeras i ett helhetsperspektiv.
-Uppdraget ska redovisas senast den 1 juni 2012\.
+Uppdraget ska redovisas senast den 1 juni 2012.

@@ -10,4 +10,4 @@ Om ett belopp som har återkrävts inte betalas i rätt tid, föreslås att drö
 
 Beslut enligt den nya lagen föreslås gälla omedelbart.
 
-De nya reglerna föreslås träda i kraft den 16 maj 2023\.
+De nya reglerna föreslås träda i kraft den 16 maj 2023.

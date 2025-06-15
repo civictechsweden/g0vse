@@ -11,4 +11,4 @@ Bland nyheterna kan följande nämnas:
 * En medlem i en bostadsrätts­förening ska inte kunna ha mer än en röst på förenings­stämman.
 * En bostads­rätts­förenings års­redo­visning ska inne­hålla särskild infor­mation som är till nytta för före­ningens intres­senter.
 
-Lagändringarna före­slås träda i kraft den 1 januari 2023 förutom i den del som avser den ekonomiska planen och intygsgivarna, som föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna före­slås träda i kraft den 1 januari 2023 förutom i den del som avser den ekonomiska planen och intygsgivarna, som föreslås träda i kraft den 1 januari 2024.

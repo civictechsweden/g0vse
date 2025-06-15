@@ -7,9 +7,9 @@ Utredaren ska bland annat
 * föreslå hur antalet identitetshandlingar och utfärdare ska begränsas,
 * analysera och föreslå hur verifieringen av äktheten och giltigheten av identitetshandlingar kan förbättras,
 * utreda och vid behov föreslå hur identitetshandlingar bör utfärdas och utformas för att bli säkrare,
-* analysera och ta ställning till om fysiska identitetshandlingar bör innehålla en e\-legitimation på högsta tillitsnivå, och
+* analysera och ta ställning till om fysiska identitetshandlingar bör innehålla en e-legitimation på högsta tillitsnivå, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 29 mars 2019\.
+Uppdraget ska redovisas senast den 29 mars 2019.
 
 [Pressmeddelande: Skärpta krav och rutiner för svenska identitetshandlingar](/pressmeddelanden/2017/08/skarpta-krav-och-rutiner-for-svenska-identitetshandlingar/ "Skärpta krav och rutiner för svenska identitetshandlingar")

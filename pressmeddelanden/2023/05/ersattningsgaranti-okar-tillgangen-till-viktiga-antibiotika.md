@@ -4,4 +4,4 @@
 
 Ett brett sortiment av antibiotika är en förutsättning för att bedriva en modern sjukvård och bromsa utvecklingen av resistenta bakterier. Eftersom Sverige använder antibiotika på ett ansvarsfullt sätt så har nya effektiva antibiotika låg användning när de kommit ut på den svenska marknaden, åtminstone under de första åren. Detta har ofta lett till låga intäkter för företagen, vilket har gjort att Sverige blivit mindre attraktivt för dem att prioritera.
 
-Regeringen ger Folkhälsomyndigheten i uppdrag att fortsätta se till att tillgängligheten till vissa sorters antibiotika ökar genom den modell med garanterad ersättning som tagits fram och testats i en pilotstudie. Myndigheten får använda 7 miljoner kronor för uppdraget som ska redovisas till Socialdepartementet senast den 31 december 2023\.
+Regeringen ger Folkhälsomyndigheten i uppdrag att fortsätta se till att tillgängligheten till vissa sorters antibiotika ökar genom den modell med garanterad ersättning som tagits fram och testats i en pilotstudie. Myndigheten får använda 7 miljoner kronor för uppdraget som ska redovisas till Socialdepartementet senast den 31 december 2023.

@@ -9,4 +9,4 @@ områden där det finns förutsättningar för ett socialt hållbart mottagande 
 
 Förslaget i propositionen bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.
 
-Lagändringen föreslås träda i kraft den 1 januari 2020\.
+Lagändringen föreslås träda i kraft den 1 januari 2020.

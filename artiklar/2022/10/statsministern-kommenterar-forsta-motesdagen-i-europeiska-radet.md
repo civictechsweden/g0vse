@@ -2,7 +2,6 @@
 
 På en pressträff efter första mötesdagen i Europeiska rådet kommenterade statsminister Ulf Kristersson de diskussioner som förts.
 
-
 Det Europeiska rådsmötet präglades under den första dagen av utmaningen för Europas energiförsörjning. Statsminister Ulf Kristersson:
 – Det har varit ett bra möte i en konstruktiv ton med en genuin vilja att lösa problemen.
 

@@ -1,6 +1,6 @@
 # Utbildning för nyanlända elever – mottagande och skolgång
 
-Lagrådsremissen innehåller förslag till ändringar i skollagen (2010:800\).
+Lagrådsremissen innehåller förslag till ändringar i skollagen (2010:800).
 
 En definition av uttrycket nyanländ ska införas. Med nyanländ ska avses den som har varit bosatt utomlands och som numera är bosatt här i landet eller ska anses bosatt här och som har påbörjat sin utbildning här efter höstterminens start det kalenderår då han eller hon fyller sju år. En elev ska inte längre anses vara nyanländ efter fyra års skolgång här i landet.
 
@@ -12,4 +12,4 @@ En nyanländ elev som saknar tillräckliga kunskaper i det svenska språket för
 
 Bestämmelserna om åtgärdsprogram ska inte tillämpas om en elevs stödbehov bedöms kunna tillgodoses genom en åtgärd till stöd för nyanlända elever eller andra elever vars kunskaper har bedömts.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2016\.
+Lagändringarna föreslås träda i kraft den 1 januari 2016.

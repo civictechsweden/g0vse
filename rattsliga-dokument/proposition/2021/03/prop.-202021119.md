@@ -10,4 +10,4 @@ En viktig nyhet i den nya lagen är att den inte bara gäller för fastighetsmä
 
 Ett mäklarföretag som åsidosätter sina skyldigheter ska kunna ges en disciplinpåföljd. Det blir möjligt att ingripa om det finns olämpliga personer i företagsledningen och ägarkretsen. Dessutom ska fler fastighetsmäklare vara registreringsskyldiga och stå under tillsyn. Det föreslås vidare att skyldigheterna enligt penningtvättsregleringen utvidgas till att omfatta även dessa mäklare och företagen.
 
-Den nya lagen och lagändringarna föreslås träda i kraft den 1 juli 2021\.
+Den nya lagen och lagändringarna föreslås träda i kraft den 1 juli 2021.

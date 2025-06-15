@@ -1,7 +1,6 @@
 # Regeringsförklaringen den 21 januari 2019
 
-Statsminister Stefan Löfven, riksdagen, den 21 januari 2019\.
-
+Statsminister Stefan Löfven, riksdagen, den 21 januari 2019.
 
 Herr talman, Ärade ledamöter av Sveriges riksdag!
 
@@ -21,7 +20,7 @@ I morse klev hundratusentals svenskar ur sängen, tog sin kopp kaffe, fixade fru
 
 Kanske blev det en stunds kamp i hallen om ytterkläderna innan alla kom iväg. Barn till förskola och skola. Vuxna till jobbet. Och de allra flesta är för upptagna för att lyssna till dagens regeringsförklaring. Det är vanligt folks slit som bygger Sverige.
 
-Svensk ekonomi är stark. Budgetunderskott har vänts till överskott, sysselsättningsgraden är den högsta på över 25 år och statsskulden är på den lägsta nivån sedan 1970\-talet.
+Svensk ekonomi är stark. Budgetunderskott har vänts till överskott, sysselsättningsgraden är den högsta på över 25 år och statsskulden är på den lägsta nivån sedan 1970-talet.
 
 Nu har vi handlingsutrymme. Nu har vi stora möjligheter. När det går bra för Sverige ska det komma alla till del.
 
@@ -41,9 +40,9 @@ Vårt samhälle ska vara starkt – och vår utveckling hållbar.
 
 Alla som kan jobba ska jobba. Det ska vara ordning och reda i ekonomin. Överenskommelsen om det finanspolitiska ramverket ligger fast. Full beredskap ska finnas för en vändande konjunktur.
 
-En ny stor skattereform genomförs. Så ska vi främja jobb och konkurrenskraft, utjämna klyftor och öka jämlikheten. Så ska vi trygga välfärden och bidra till att klimat\- och miljömålen nås.
+En ny stor skattereform genomförs. Så ska vi främja jobb och konkurrenskraft, utjämna klyftor och öka jämlikheten. Så ska vi trygga välfärden och bidra till att klimat- och miljömålen nås.
 
-De sista resterna av pensionärsskatten slopas. Värnskatten och extraskatten vid generationsskiften tas bort. RUT\-avdraget vidgas. Svensk industri och svenska företag, små som stora, ska ha goda förutsättningar att växa och anställa fler. Problemet med kompetens­utvisningar måste lösas.
+De sista resterna av pensionärsskatten slopas. Värnskatten och extraskatten vid generationsskiften tas bort. RUT-avdraget vidgas. Svensk industri och svenska företag, små som stora, ska ha goda förutsättningar att växa och anställa fler. Problemet med kompetens­utvisningar måste lösas.
 
 Sverige är en ledande forskningsnation. Den positionen ska vi försvara. Den fria forskningen ska värnas samtidigt som forsknings­politiken svarar mot globala och nationella samhällsutmaningar.
 
@@ -79,7 +78,7 @@ Reform för reform ska bostadsbristen bort.
 
 \* \* \*
 
-Svensk skogsnäring ska vara hållbar och växande. Den privata äganderätten till skogen ska värnas. Markägare ska få rättmätig ekonomisk kompensation vid inskränkningar i ägande\- och brukanderätt.
+Svensk skogsnäring ska vara hållbar och växande. Den privata äganderätten till skogen ska värnas. Markägare ska få rättmätig ekonomisk kompensation vid inskränkningar i ägande- och brukanderätt.
 
 Det ska bli betydligt enklare att bygga strandnära i oexploaterade landsbygdsområden. Samtidigt värnas strandskyddet och allemans­rätten i exploaterade områden.
 
@@ -97,11 +96,11 @@ Det klimatpolitiska ramverket ligger fast. All relevant lagstiftning ses över. 
 
 Energiöverenskommelsen ska genomföras. Det ska vara enkelt och lönsamt att investera i egen produktion av förnybar energi.
 
-Sverige ska driva på för en klimatlag på EU\-nivå. Reformarbetet för att genomföra Parisavtalet intensifieras. 1,5\-gradersmålet måste nås.
+Sverige ska driva på för en klimatlag på EU-nivå. Reformarbetet för att genomföra Parisavtalet intensifieras. 1,5-gradersmålet måste nås.
 
 En kraftfull grön skatteväxling görs. Skatter höjs på miljö­förstörande verksamhet och sänks på arbete och företagande.
 
-Flygets stora klimatpåverkan ska minska. Klimatkraven på flyget skärps. Det ska gå att ladda och tanka fossilfritt i hela landet. Klimatbonusar och klimatavgifter på personbilar förstärks och förenklas. Inga nya bensin\- och dieseldrivna bilar ska säljas efter 2030\. Så minskar vi de stora klimatutsläppen från transportsektorn.
+Flygets stora klimatpåverkan ska minska. Klimatkraven på flyget skärps. Det ska gå att ladda och tanka fossilfritt i hela landet. Klimatbonusar och klimatavgifter på personbilar förstärks och förenklas. Inga nya bensin- och dieseldrivna bilar ska säljas efter 2030. Så minskar vi de stora klimatutsläppen från transportsektorn.
 
 Prospektering och nyexploatering av kol, olja och fossilgas förbjuds. Ett större arbete inleds för att binda tillbaka en del av tidigare utsläpp.
 
@@ -165,7 +164,7 @@ Samtidigt återstår ett stort reformarbete för att återupprätta vårt land s
 
 Alla elever måste få en ärlig chans, oavsett bakgrund eller bostadsort. Kunskapsfokus ska stärkas och kraven på kvalitet ska skärpas i alla skolor. Skolkommissionens förslag för ökad likvärdighet i skolan genomförs. Det statliga stödet ökas.
 
-Ett beslutsunderlag som kan skapa förutsättningar för statligt huvudmannaskap för skolan tas fram. Ett etableringsstopp införs för fristående grund\- och gymnasieskolor med konfessionell inriktning.
+Ett beslutsunderlag som kan skapa förutsättningar för statligt huvudmannaskap för skolan tas fram. Ett etableringsstopp införs för fristående grund- och gymnasieskolor med konfessionell inriktning.
 
 Lärarutbildningen reformeras, kraven på utbildningen skärps och antagningskraven höjs. Det blir lättare för akademiker att välja läraryrket. Resurser tillförs för att anställa fler lärarassistenter.
 
@@ -173,7 +172,7 @@ Lärarna ska få det stöd de behöver för att betygen ska bli rättvisa och li
 
 En nationell plan för studiero och trygghet i skolan ska tas fram. Mobilförbud införs. Mobbning bekämpas med kraft. Elever som hotat eller utsatt andra för våld ska lättare kunna stängas av eller omplaceras.
 
-Ingen elev ska lämnas efter och den som vill ska kunna springa före. Läsa\-skriva\-räkna\-garantin ska förverkligas. Förslag tas fram för att möjliggöra en tioårig grundskola. Barngrupper i förskola och fritidshem ska minskas. Det ska bli lättare att få särskilt stöd i mindre under­visnings­grupp. Stöd för barn med neuropsykiatriska funktions­nedsättningar ska öka. Resursskolor ska utvecklas och särskolan stärkas.
+Ingen elev ska lämnas efter och den som vill ska kunna springa före. Läsa-skriva-räkna-garantin ska förverkligas. Förslag tas fram för att möjliggöra en tioårig grundskola. Barngrupper i förskola och fritidshem ska minskas. Det ska bli lättare att få särskilt stöd i mindre under­visnings­grupp. Stöd för barn med neuropsykiatriska funktions­nedsättningar ska öka. Resursskolor ska utvecklas och särskolan stärkas.
 
 Läxhjälpsgaranti och prioriterad timplan ska införas så att den elev som riskerar att inte bli behörig till gymnasiet kan få mer undervisning i de ämnen den behöver. Förhöjd studietakt ska kunna ges till elever som snabbare når kunskapsmålen. Högstadieelever ska kunna läsa gymnasiekurser och gymnasieelever ska kunna läsa kurser på högskolenivå.
 
@@ -191,7 +190,7 @@ Sjukförsäkringen ska ge ekonomisk trygghet vid sjukdom. Det ska vara lätt att
 
 Villkor och arbetsmiljö ska förbättras för anställda i vård och omsorg, så att fler unga vill söka sig dit och jobba kvar – i vetskapen om att jobbet inte bara är viktigt, utan också utvecklande. Undersköterskors yrkesroll förstärks med legitimation eller skyddad yrkestitel. Fler ska kunna studera till specialistsjuksköterska med bibehållen lön.
 
-Psykiatrin byggs ut. Den psykiska ohälsan måste brytas. En ny vårdform för patienter med lättare psykisk ohälsa utreds. Ett mål om köfri barn\- och ungdomspsykiatri införs.
+Psykiatrin byggs ut. Den psykiska ohälsan måste brytas. En ny vårdform för patienter med lättare psykisk ohälsa utreds. Ett mål om köfri barn- och ungdomspsykiatri införs.
 
 Barn som bor i skyddat boende behöver få bättre stöd.
 
@@ -215,7 +214,7 @@ Astrid Lindgren sa en gång att ”barn skapar mirakel när de läser”. Hon ha
 
 Idrottsrörelsen och föreningslivet ska stödjas och uppmuntras. Konstnärer och kulturskapares ekonomiska trygghet ska förbättras.
 
-Vi är en feministisk regering. Jämställdhetsmyndigheten blir kvar. Hbtq\-personers rättigheter stärks. Diskrimineringslagen skärps.
+Vi är en feministisk regering. Jämställdhetsmyndigheten blir kvar. Hbtq-personers rättigheter stärks. Diskrimineringslagen skärps.
 
 Urfolket samernas självbestämmande och inflytande stärks. En oberoende institution för mänskliga rättigheter inrättas.
 
@@ -229,11 +228,11 @@ Herr talman!
 
 Kriminaliteten ska bekämpas med samhällets fulla kraft. Nu söker rekordmånga kvinnor och män polisutbildningen. De ska ha stöd av rejäla resurser, samordnade myndigheter och effektivare lagstiftning.
 
-10 000 fler ska anställas inom polisen till 2024\. Polisyrket ska vara attraktivt. Skyddet ska stärkas för poliser och annan blåljuspersonal. Straffen ska skärpas för brott kopplade till kriminella uppgörelser. Ny lagstiftning om datalagring överlämnas till riksdagen i närtid. Polisen ges rätt att besluta om kameraövervakning på allmän plats.
+10 000 fler ska anställas inom polisen till 2024. Polisyrket ska vara attraktivt. Skyddet ska stärkas för poliser och annan blåljuspersonal. Straffen ska skärpas för brott kopplade till kriminella uppgörelser. Ny lagstiftning om datalagring överlämnas till riksdagen i närtid. Polisen ges rätt att besluta om kameraövervakning på allmän plats.
 
 Minimistraffet för övergrepp i rättssak höjs kraftigt. Ett system med kronvittnen utreds. Oregistrerade kontantkort till mobiltelefoner förbjuds. Straffen skärps för dem som överlåter narkotika till andra.
 
-Allvarliga brott som begås av unga under 15 år ska alltid utredas av polis. Insatserna skärps mot skattefusk och skatteflykt. Åtgärder vidtas mot missbruk av falska id\-handlingar och mot organiserad brottslighet riktad mot våra välfärdssystem.
+Allvarliga brott som begås av unga under 15 år ska alltid utredas av polis. Insatserna skärps mot skattefusk och skatteflykt. Åtgärder vidtas mot missbruk av falska id-handlingar och mot organiserad brottslighet riktad mot våra välfärdssystem.
 
 De som grips och döms måste få verkningsfulla domar, som kan leda till livsförändring. Straffen ska skärpas för den som rekryterar unga till kriminalitet. Dömda som inte medverkar i vård och behandling ska få tiden i fängelse förlängd.
 
@@ -246,7 +245,7 @@ Samhället är alltid starkare än gängen.
 
 Den nya samtyckeslagen möjliggör fler fällande våldtäktsdomar. Nu fortsätter arbetet för att förverkliga en samtyckeskultur.
 
-Mer resurser tillförs det förebyggande arbetet och sex\- och samlevnadsundervisningen moderniseras. Minimistraffet höjs för våldtäkt. Grovt sexuellt ofredande införs som ny brottsrubricering. Preskriptionstiderna förlängs, och tas bort helt för sexualbrott mot barn. Fler mottagningar inrättas för sexualbrottsutsatta.
+Mer resurser tillförs det förebyggande arbetet och sex- och samlevnadsundervisningen moderniseras. Minimistraffet höjs för våldtäkt. Grovt sexuellt ofredande införs som ny brottsrubricering. Preskriptionstiderna förlängs, och tas bort helt för sexualbrott mot barn. Fler mottagningar inrättas för sexualbrottsutsatta.
 
 Regeringen ökar insatserna mot våld i nära relationer. Det gäller både det akuta stödet till våldsutsatta och deras barn, det förebyggande arbetet och insatserna för att få personer som utövar våld att förändra sitt beteende.
 
@@ -262,7 +261,7 @@ Jag önskar att jag kunde säga att hederskulturen har tryckts tillbaka. Men så
 
 Vi ska skärpa straffen, öka kunskapen och förstärka arbetet i skola och socialtjänst.
 
-Icke\-svenska medborgare som döms för hedersrelaterade brott och hatbrott ska lättare kunna utvisas. Samtidigt ska den som utsätts för hedersrelaterad brottslighet få stärkt skydd mot avvisning.
+Icke-svenska medborgare som döms för hedersrelaterade brott och hatbrott ska lättare kunna utvisas. Samtidigt ska den som utsätts för hedersrelaterad brottslighet få stärkt skydd mot avvisning.
 
 Insatser ska i högre grad kunna ges till unga utan föräldrars samtycke vid misstanke om hedersbrott. Samhället ska agera direkt vid misstanke om att personer kommer att könsstympas eller giftas bort mot sin vilja.
 
@@ -272,7 +271,7 @@ Kampen mot terrorism och våldsbejakande extremism måste vara kompromisslös. L
 
 Terror och extremism är tyvärr bara delar av det komplexa säkerhetshot som riktas mot alla öppna och demokratiska samhällen.
 
-Arbetet fortsätter med att skapa ett modernt totalförsvar. Den nationella säkerhetsstrategin ska genomföras utifrån en bred säkerhetsanalys. Ett nationellt center upprättas för att öka informations\- och cybersäkerheten. En ny myndighet inrättas för att stärka det psykologiska försvaret mot bland annat påverkans­operationer. Den civila beredskapen rustas för att bättre kunna möta klimatrelaterade kriser som hälsohot, bränder, torka och över­svämningar. Vaksamheten ökas mot utländska försök att förvärva känslig infrastruktur.
+Arbetet fortsätter med att skapa ett modernt totalförsvar. Den nationella säkerhetsstrategin ska genomföras utifrån en bred säkerhetsanalys. Ett nationellt center upprättas för att öka informations- och cybersäkerheten. En ny myndighet inrättas för att stärka det psykologiska försvaret mot bland annat påverkans­operationer. Den civila beredskapen rustas för att bättre kunna möta klimatrelaterade kriser som hälsohot, bränder, torka och över­svämningar. Vaksamheten ökas mot utländska försök att förvärva känslig infrastruktur.
 
 Sverige bibehåller sin säkerhetspolitiska linje. Försvarsanslagen höjs successivt för att stärka Sveriges militära förmåga, och samarbeten mellan andra länder och organisationer fördjupas.
 
@@ -288,7 +287,7 @@ Sverige arbetar för en handlingskraftig union, ett medborgarnas EU som skapar j
 
 Sverige ska tillsammans med övriga EU fortsätta verka för att Storbritanniens planerade utträde ur unionen sker på ett ordnat sätt. Beredskap finns för att hantera olika scenarier.
 
-EU\-länder som bryter mot unionens värderingar och rättsstatens principer ska möta kännbara konsekvenser. Historien lär oss vad som kan ske om vi blundar för kränkningar av demokratiska fri\- och rättigheter.
+EU-länder som bryter mot unionens värderingar och rättsstatens principer ska möta kännbara konsekvenser. Historien lär oss vad som kan ske om vi blundar för kränkningar av demokratiska fri- och rättigheter.
 
 \* \* \*
 
@@ -298,7 +297,7 @@ En rad svåra utmaningar behöver hanteras:
 
 Konflikterna i Syrien och i Jemen utgör allvarliga säkerhetshot med katastrofala humanitära konsekvenser. Rysslands illegala annektering av Krim och intervention i Ukraina är tydliga brott mot internationell rätt. Rohingyerna i Myanmar utsätts för brott mot mänskligheten. Våldet måste upphöra och de ansvariga ställas inför rätta. Den koreanska halvön måste bli fri från kärnvapen. En långsiktig fred mellan Israel och Palestina kräver en tvåstatslösning.
 
-Sverige verkar aktivt för att främja en nödvändig reformering av FN. Folkrätten ska värnas. Kvinnors roll i fredsprocesser ska stärkas. Fred och demokrati ska främjas genom arbete för icke\-spridning av kärnvapen, för avspänning och nedrustning, för medling och dialog. Tillit mellan folk och länder är ett kraftfullt verktyg mot krig och konflikter.
+Sverige verkar aktivt för att främja en nödvändig reformering av FN. Folkrätten ska värnas. Kvinnors roll i fredsprocesser ska stärkas. Fred och demokrati ska främjas genom arbete för icke-spridning av kärnvapen, för avspänning och nedrustning, för medling och dialog. Tillit mellan folk och länder är ett kraftfullt verktyg mot krig och konflikter.
 
 Så skapas gemensam säkerhet.
 
@@ -318,7 +317,7 @@ Det svenska initiativet Global Deal samlar närmare 100 regeringar, företag och
 
 Regeringen kommer att fortsätta Sveriges omfattande utvecklings­samarbete och upprätthålla ett bistånd motsvarande en procent av BNI. Biståndet ska ytterligare fokuseras på demokratiinsatser. Vi står fast vid de höga ambitionerna för klimatfinansieringen. Vårt ledarskap för globalt hållbara hav fortsätter.
 
-När andra länder minskar sina insatser för global hållbarhet ökar Sverige dem. Vi ska gå i bräschen för Agenda 2030\.
+När andra länder minskar sina insatser för global hållbarhet ökar Sverige dem. Vi ska gå i bräschen för Agenda 2030.
 
 \* \* \*
 

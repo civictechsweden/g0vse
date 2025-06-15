@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om statens insatser för att stärka efterlevnaden av barnkonventionen
 
-Regeringen redovisar hur den bedömer de iakttagelser, slutsatser och rekommendationer som Riksrevisionen lämnar i sin rapport Statens insatser för att stärka efterlevnaden av barnkonventionen – höga ambitioner men otillräckligt genomförande, RiR 2024:5\.
+Regeringen redovisar hur den bedömer de iakttagelser, slutsatser och rekommendationer som Riksrevisionen lämnar i sin rapport Statens insatser för att stärka efterlevnaden av barnkonventionen – höga ambitioner men otillräckligt genomförande, RiR 2024:5.
 
 Riksrevisionens menar att statens insatser för att stärka efterlevnaden av barnkonventionen inte har varit tillräckligt effektiva.
 

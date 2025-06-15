@@ -10,4 +10,4 @@ Utredaren ska beakta hur arbetsmarknadens parter genom kollektivavtal reglerat m
 
 Utredningen ska genomföras i dialog med arbetsmarknadens parter.
 
-Uppdraget ska redovisas senast den 31 januari 2014\.
+Uppdraget ska redovisas senast den 31 januari 2014.

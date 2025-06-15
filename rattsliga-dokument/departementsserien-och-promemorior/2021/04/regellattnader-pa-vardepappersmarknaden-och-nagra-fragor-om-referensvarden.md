@@ -5,4 +5,4 @@ I promemorian finns förslag till lagstiftningsåtgärder som bör vidtas med an
 Förslagen i promemorian omfattar bestämmelser om informationskrav, produktstyrning och handel med råvaruderivat i lagen om värdepappersmarknaden och bestämmelser om ingripanden i lagen med kompletterande regler till EU:s prospektförordning och lagen med
 kompletterande regler till EU:s förordning om värdepapperisering.
 
-Remissvaren ska ha kommit in till Finansdepartementet senast den 21 maj 2021\.
+Remissvaren ska ha kommit in till Finansdepartementet senast den 21 maj 2021.

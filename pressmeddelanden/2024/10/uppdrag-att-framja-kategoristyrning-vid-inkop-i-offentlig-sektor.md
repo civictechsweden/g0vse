@@ -6,4 +6,4 @@ Med en strategisk styrning av inköpsverksamheten skapas goda förutsättningar 
 
 Inledningsvis ska Upphandlingsmyndigheten genomföra en workshop med kommuner som har erfarenhet från att utveckla ett strategiskt arbetssätt för inköpsverksamheten. Myndigheten ska sprida lärdomarna till kommuner som ännu inte har börjat arbeta kategoristyrt, i syfte att påskynda denna utveckling.
 
-Uppdraget pågår till och med den 15 december 2025\.
+Uppdraget pågår till och med den 15 december 2025.

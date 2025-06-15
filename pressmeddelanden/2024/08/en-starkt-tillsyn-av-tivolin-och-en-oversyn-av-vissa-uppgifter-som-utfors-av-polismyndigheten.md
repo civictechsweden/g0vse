@@ -8,7 +8,7 @@ I ljuset av de senaste årens händelser och slutsatserna i Statens haverikommis
 
 – De senaste årens olyckor på svenska tivolin är en tragedi. Det är angeläget att tillsynen av tivolin stärks. Regeringen tar nu nödvändiga steg framåt för att öka tryggheten för alla besökare, säger justitieminister Gunnar Strömmer.
 
-Uppdraget att se över tillsynen av tivoliverksamheter ska redovisas senast den 7 april 2025\.
+Uppdraget att se över tillsynen av tivoliverksamheter ska redovisas senast den 7 april 2025.
 
 ### En översyn av vissa uppgifter som utförs av Polismyndigheten
 
@@ -18,4 +18,4 @@ Den särskilda utredaren får även i uppdrag att ta ställning till i vilken ut
 
 En utgångspunkt är att Polismyndigheten inte ska ägna sig åt arbetsuppgifter som saknar eller har låg polisiär relevans. Arbetsuppgifter där ansvarsflytt kan övervägas är bland annat vissa tillstånd enligt ordningslagen, hantering av parkeringsanmärkningar och ansvaret för stämningsmannadelgivning.
 
-Uppdraget ska slutredovisas senast den 7 oktober 2025\.
+Uppdraget ska slutredovisas senast den 7 oktober 2025.

@@ -2,7 +2,6 @@
 
 Säkerhets­polisen har beslutat att höja terrorhot­nivån från förhöjt hot, till högt hot, från tre till fyra på en fem­gradig skala. Med anledning av det försämrade säkerhets­läget arbetar regeringen intensivt och löpande för att vidta de åtgärder som behövs.
 
-
 Beslut om att höja terror­hotnivån är ett myndig­hets­beslut som fattas av säkerhets­polis­chefen. Höjningen sker efter en samman­vägd bedöm­ning av det strategiska terror­hotet mot Sverige. Hotbedöm­ningen vilar dels på vad som är känt i nuet, dels på möjlig framtida utveckling.
 
 – Sverige har gått från att vara ett så kallat legitimt mål till ett priori­terat mål för terrordåd. Våra myndig­heter, inte minst just Säpo och Polisen, arbetar hårt för att garantera säker­heten i Sverige och vi vet att planerade dåd har avvärjts. Även utom­lands hotas svenska intressen, säger stats­minister Ulf Kristersson. Regeringen står nu i mycket nära kontakt med Säker­hets­polisen, Polis­myndig­heten, Försvars­makten och flera andra viktiga myndig­heter. Vi följer utveck­lingen dagligen och arbetar gemensamt för att förebygga och stoppa terrordåd, i Sverige eller mot svenska intressen.

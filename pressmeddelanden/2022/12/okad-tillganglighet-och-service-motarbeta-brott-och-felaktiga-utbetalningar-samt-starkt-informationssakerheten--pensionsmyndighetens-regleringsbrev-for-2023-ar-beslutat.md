@@ -1,6 +1,6 @@
 # Ökad tillgänglighet och service, motarbeta brott och felaktiga utbetalningar samt stärkt informationssäkerheten – Pensionsmyndighetens regleringsbrev för 2023 är beslutat
 
-\- Genom uppdragen i regleringsbrevet stärks ett antal prioriterade områden, bland annat förbättrad service och tillgänglighet, arbetet mot bidragsbrott och felaktiga utbetalningar samt ökad informationssäkerhet. Det här är prioriterade frågor och myndigheten behöver stå rustad för att möta de förväntningar och krav som ställs av samhället, säger äldre\- och socialförsäkringsminister Anna Tenje.
+- Genom uppdragen i regleringsbrevet stärks ett antal prioriterade områden, bland annat förbättrad service och tillgänglighet, arbetet mot bidragsbrott och felaktiga utbetalningar samt ökad informationssäkerhet. Det här är prioriterade frågor och myndigheten behöver stå rustad för att möta de förväntningar och krav som ställs av samhället, säger äldre- och socialförsäkringsminister Anna Tenje.
 
 Myndigheten får i uppdrag att minska handläggningstider för nyansökningar, ändringsärenden, omprövningar och återkrav när det gäller bostadstillägg.
 

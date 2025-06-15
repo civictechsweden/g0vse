@@ -6,4 +6,4 @@ Förslaget innebär att ränteskillnadsersättningen ska beräknas med utgångsp
 
 I propositionen föreslås även en begränsning av kreditgivarens rätt att få betalt i förtid, när den säkerhet som ställts för lånet har försämrats till följd av en allmän prisnedgång på bostadsmarknaden. En sådan nedgång ska aldrig ge kreditgivaren rätt att säga upp lånet i förtid.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2014\.
+Lagändringarna föreslås träda i kraft den 1 juli 2014.

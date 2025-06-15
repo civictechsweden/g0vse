@@ -2,5 +2,4 @@
 
 Här kan du ta del av till vilka remissinstanser regeringen har remitterat betänkandet Sveriges säkerhet i etern.
 
-
-Remissvaren ska ha kommit in till Kulturdepartementet senast den 2 april 2024\.
+Remissvaren ska ha kommit in till Kulturdepartementet senast den 2 april 2024.

@@ -6,5 +6,5 @@ I propositionen föreslår regeringen en ny skollag som är bättre anpassad til
 
 Propositioner i tryckt format kan du läsa på bibliotek eller köpa hos Riksdagens tryckeriexpedition.
 
-tfn. 08\-786 58 10, fax. 08\-786 61 76
-e\-post: ordermottagningen@riksdagen.se
+tfn. 08-786 58 10, fax. 08-786 61 76
+e-post: ordermottagningen@riksdagen.se

@@ -6,7 +6,7 @@
 
 I lagrådsremissen föreslår regeringen att det ska införas en ny straff­skärpnings­grund. Den innebär att det vid bedöm­ningen av straff­värdet för ett brott ska ses som för­svårande att det begåtts mot en person på grund av att han eller hon eller någon närstående yrkes­mässigt bedrivit nyhets­förmedling eller annan journalistik.
 
-I lagråds­remissen föreslår regeringen också att utövare av vissa samhälls­nyttiga funktioner ska få mot­svarande förstärkta straff­rättsliga skydd som till exempel poliser har idag genom straff­bestäm­melserna om våld eller hot samt förgripelse mot tjänste­man. Det handlar om hälso\- och sjukvårds­personal, social­tjänst­personal, räddnings­tjänst­personal och utbildnings­personal inom skol­väsendet och högskolan.
+I lagråds­remissen föreslår regeringen också att utövare av vissa samhälls­nyttiga funktioner ska få mot­svarande förstärkta straff­rättsliga skydd som till exempel poliser har idag genom straff­bestäm­melserna om våld eller hot samt förgripelse mot tjänste­man. Det handlar om hälso- och sjukvårds­personal, social­tjänst­personal, räddnings­tjänst­personal och utbildnings­personal inom skol­väsendet och högskolan.
 
 – Medarbetare i social­tjänsten ska kunna utföra sitt viktiga arbete utan att vara rädda för hot eller våld. Med den här skärp­ningen ger vi med­arbetarna bättre möjlig­heter att fokusera på sitt arbete med att stödja och skydda barn, säger social­tjänst­minister Camilla Waltersson Grönvall.
 
@@ -14,6 +14,6 @@ I lagråds­remissen föreslår regeringen också att utövare av vissa samhäll
 
 Regeringen föreslår även att straffet för allvarliga och uppsåtliga brott mot tystnads­plikt ska skärpas. Sådana brott kan få allvarliga konse­kvenser för både enskilda personer och myndig­heters verksamhet. I lagråds­remissen föreslås att maximi­straffet för brott mot tystnads­plikt ska höjas och att det införs ett grovt brott mot tystnads­plikt.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2023\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2023.
 
 Lagråds­remissen bygger på en överens­kommelse mellan Sverige­demokraterna, Moderaterna, Krist­demokraterna och Liberalerna.

@@ -1,7 +1,6 @@
 # Statsminister Ulf Kristersson deltog på EU-toppmöte i Bryssel
 
-EU:s stats\- och regeringschefer möttes i Europeiska rådet 21–22 mars. På dagordningen stod bland annat militärt stöd till Ukraina, europeisk försvarsförmåga samt utvecklingen i Mellanöstern.
-
+EU:s stats- och regeringschefer möttes i Europeiska rådet 21–22 mars. På dagordningen stod bland annat militärt stöd till Ukraina, europeisk försvarsförmåga samt utvecklingen i Mellanöstern.
 
 Flera beslut och slutsatser antogs vid mötet.
 

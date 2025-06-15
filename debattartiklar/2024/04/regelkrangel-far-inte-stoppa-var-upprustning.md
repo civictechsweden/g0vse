@@ -1,7 +1,6 @@
 # "Regelkrångel får inte stoppa vår upprustning"
 
-Debattartikel av Pål Jonson, försvarsminister och Carl\-Oskar Bohlin, minister för civilt försvar. Publicerad i Expressen. 25 april 2024\.
-
+Debattartikel av Pål Jonson, försvarsminister och Carl-Oskar Bohlin, minister för civilt försvar. Publicerad i Expressen. 25 april 2024.
 
 Det försämrade säkerhetspolitiska läget ställer krav på snabbare upprustning av totalförsvaret. Kriget i Ukraina visar på behovet och vi i Sverige måste ta till oss den lärdomen. Det som i Ukraina tar veckor eller månader kan i Sverige ta år eller årtionden. Långsamma och omständliga processer som hindrar militär förmågeutveckling kan försämra vår nationella säkerhet.
 
@@ -9,11 +8,11 @@ För att åstadkomma förmågeökning räcker inte ökade anslag. Tillväxttakte
 
 Sverige har stark lagstiftning på en rad områden. Skälen för det är goda. Försvarsmyndigheternas behov skiljer sig dock på en rad punkter från övriga samhällets. Därför går regeringen fram med två beslut för att ta bort hinder för totalförsvarets tillväxt genom att förenkla lagar, regler, interna rutiner och instruktioner:
 
-Dels tas nu ett brett grepp inom Regeringskansliet där det under statsministern bedrivs ett strukturerat arbete över departements\- och politikområdesgränserna för att se över regelverk och processer som utgör hinder för tillväxten av totalförsvaret.
+Dels tas nu ett brett grepp inom Regeringskansliet där det under statsministern bedrivs ett strukturerat arbete över departements- och politikområdesgränserna för att se över regelverk och processer som utgör hinder för tillväxten av totalförsvaret.
 
-Dels ges Försvarsmakten i uppdrag att förenkla och effektivisera sina interna regelverk och processer gällande t.ex. materiel\- personal\- och infrastrukturförsörjning för att påskynda tillväxten. Liknande uppdrag gavs till Försvarets materielverk förra året.
+Dels ges Försvarsmakten i uppdrag att förenkla och effektivisera sina interna regelverk och processer gällande t.ex. materiel- personal- och infrastrukturförsörjning för att påskynda tillväxten. Liknande uppdrag gavs till Försvarets materielverk förra året.
 
-Vi möter återkommande problem när vi besöker regementen, totalförsvarsmyndigheter eller övningar. Ett exempel är Helikopterflottiljen i Linköping som på grund av begränsade miljötillstånd inte kan flyga vissa tider. Ett annat är att luftfartslagen inte är gjord för den snabba utvecklingen på drönarområdet. På flera platser där regementen återetableras har behovet av miljötillstånd i kombination med regler i plan\- och bygglagen gjort att processen tagit mycket lång tid.
+Vi möter återkommande problem när vi besöker regementen, totalförsvarsmyndigheter eller övningar. Ett exempel är Helikopterflottiljen i Linköping som på grund av begränsade miljötillstånd inte kan flyga vissa tider. Ett annat är att luftfartslagen inte är gjord för den snabba utvecklingen på drönarområdet. På flera platser där regementen återetableras har behovet av miljötillstånd i kombination med regler i plan- och bygglagen gjort att processen tagit mycket lång tid.
 
 Alltför krångliga processer är också problem för det civila försvaret. Ett exempel rör möjligheten att säkra livsmedelsförsörjningen i ett försämrat säkerhetsläge genom inhemsk produktion av mineralgödsel. Produktionen hindras av problem med anslutning till elnätet, ledtider för tillståndsprövningar och konkurrens med andra industrietableringar.
 

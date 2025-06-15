@@ -2,4 +2,4 @@
 
 Regeringskansliet föreslår bestämmelser för att tydliggöra socialtjänstens brottsförebyggande ansvar.
 
-Förslagen i promemorian kompletterar betänkandet En hållbar socialtjänst – En ny socialtjänstlag (SOU 2020:47\).
+Förslagen i promemorian kompletterar betänkandet En hållbar socialtjänst – En ny socialtjänstlag (SOU 2020:47).

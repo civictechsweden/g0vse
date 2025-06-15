@@ -13,4 +13,4 @@ Samtidigt kan utsökning inte ske till vilket pris som helst. Kraven på rättss
 * om de tidsfrister som gäller vid avhysning möjliggör för svaranden att få den hjälp han eller hon behöver, och
 * om gäldenärer ska få tillgodoräkna sig vissa ytterligare kostnader vid löneutmätning.
 
-Utredaren ska lämna de förslag till författningsändringar och andra åtgärder som behövs. Uppdraget ska redovisas senast den 1 november 2016\.
+Utredaren ska lämna de förslag till författningsändringar och andra åtgärder som behövs. Uppdraget ska redovisas senast den 1 november 2016.

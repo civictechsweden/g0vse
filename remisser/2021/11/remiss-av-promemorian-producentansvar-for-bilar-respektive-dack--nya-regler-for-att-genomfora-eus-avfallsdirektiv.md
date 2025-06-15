@@ -4,5 +4,4 @@ Här kan du ta del av de remissvar som kommit in till Miljödepartementet på pr
 
 Övriga yttranden finns tillgängliga i departementet.
 
-
-Remissvaren ska ha kommit in till Miljödepartementet senast den 4 februari 2022\.
+Remissvaren ska ha kommit in till Miljödepartementet senast den 4 februari 2022.

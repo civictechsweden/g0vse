@@ -1,6 +1,6 @@
 # Nytt omfattande sanktionspaket mot Ryssland
 
-– Morgonens attacker mot Kiev och andra stora städer har visat att vi behöver öka trycket på Ryssland för att de ska upphöra med aggressionen. Tillsammans med våra bilaterala och EU\-gemensamma stöd till Ukraina är EU:s sanktioner mot Ryssland ett av våra viktigaste instrument för att hjälpa Ukraina att vinna kriget, säger utrikesminister Tobias Billström.
+– Morgonens attacker mot Kiev och andra stora städer har visat att vi behöver öka trycket på Ryssland för att de ska upphöra med aggressionen. Tillsammans med våra bilaterala och EU-gemensamma stöd till Ukraina är EU:s sanktioner mot Ryssland ett av våra viktigaste instrument för att hjälpa Ukraina att vinna kriget, säger utrikesminister Tobias Billström.
 
 Det nionde sanktionspaketet innehåller sanktioner mot nära 200 personer och enheter samt ett antal sektoriella åtgärder.
 

@@ -10,4 +10,4 @@ I händelse av höjd beredskap och ytterst krig är det en central uppgift för 
 
 Trots att mycket av det civila försvaret avveck­lades under många år, finns det fort­farande drygt 64 000 skydds­rum med plats för 7 miljoner personer i Sverige. Detta är unikt stora antal, jämfört med övriga världen, och en viktig tillgång för det civila försvaret.
 
-– Civil­befolk­ningen drabbas alltid hårt i samband med krig, något som vi ser tydligt i Ukraina. Det civila försvaret måste ha förmåga att skydda befolk­ningen i Sverige. Jag ser därför fram emot att ta del av utred­ningens förslag inom det här oerhört viktiga området, säger ministern för civilt försvar Carl\-Oskar Bohlin.
+– Civil­befolk­ningen drabbas alltid hårt i samband med krig, något som vi ser tydligt i Ukraina. Det civila försvaret måste ha förmåga att skydda befolk­ningen i Sverige. Jag ser därför fram emot att ta del av utred­ningens förslag inom det här oerhört viktiga området, säger ministern för civilt försvar Carl-Oskar Bohlin.

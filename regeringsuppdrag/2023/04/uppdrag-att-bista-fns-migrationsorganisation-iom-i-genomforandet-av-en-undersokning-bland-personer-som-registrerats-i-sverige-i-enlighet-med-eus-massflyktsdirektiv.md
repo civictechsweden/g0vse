@@ -2,10 +2,9 @@
 
 Regeringen uppdrar åt Migrations­verket att bistå IOM i genom­förandet av en under­sökning bland de som har registrerats i Sverige enligt massflykts­direktivet.
 
-
 I uppdraget ingår att:
 
-* Distribuera den elektro­niska enkät som IOM har tagit fram till mål­gruppen via e\-post.
+* Distribuera den elektro­niska enkät som IOM har tagit fram till mål­gruppen via e-post.
 * Tillhanda­hålla IOM med telefon­nummer till mål­gruppen för genom­förandet av telefon­intervjuer. Telefon­numren ska tillhanda­hållas enligt IOM:s önskemål för att säker­ställa t.ex. en represen­tativ geografisk sprid­ning. Tillhanda­hållandet ska ske i enlighet med tillämp­liga bestäm­melser om sekretess och person­uppgifts­behandling.
 * Delta i kommu­nikations­insatser om under­sökningen tillsam­mans med IOM och Regerings­kansliet.
 

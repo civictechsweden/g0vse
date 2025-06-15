@@ -1,6 +1,6 @@
 # Ett mer ändamålsenligt klagomålssystem i hälso- och sjukvården
 
-I propositionen föreslår regeringen ett mer ändamålsenligt system för hantering av klagomål mot hälso\- och sjukvården och dess personal.
+I propositionen föreslår regeringen ett mer ändamålsenligt system för hantering av klagomål mot hälso- och sjukvården och dess personal.
 
 Förslagen innebär ett förtydligande av att det, i första hand, ska vara vårdgivarna som tar emot och besvarar klagomål från patienter och deras närstående. Vårdgivarna ska förklara vad som har inträffat och vid behov vidta åtgärder för att händelsen inte ska ske på nytt.
 

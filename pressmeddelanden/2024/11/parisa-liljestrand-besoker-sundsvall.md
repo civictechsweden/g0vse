@@ -6,4 +6,4 @@ Deckarfestivalen i Sundsvall är Sveriges första och äldsta deckarfestival. I 
 
 I samband med litteraturfestivalen delas även ungdomspriset Lilla Sherlock ut, som är en novelltävling för högstadiet. Kulturministern kommer att dela ut årets pris.
 
-Parisa Liljestrand kommer också att besöka studenter vid Mittuniversitetets civilingenjörsutbildning som deltar i konceptet Science \& Scenes där studenterna får möta olika kulturinslag i sin utbildning för att stärka deras framtida roll som civilingenjörer.
+Parisa Liljestrand kommer också att besöka studenter vid Mittuniversitetets civilingenjörsutbildning som deltar i konceptet Science & Scenes där studenterna får möta olika kulturinslag i sin utbildning för att stärka deras framtida roll som civilingenjörer.

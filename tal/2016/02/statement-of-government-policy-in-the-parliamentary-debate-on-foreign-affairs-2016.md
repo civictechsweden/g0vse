@@ -2,10 +2,8 @@
 
 ![](/contentassets/7250211cf851431a98e3343cb175d7ab/utrikesdeklarationen-2016-eng_150.jpg?width=150&quality=85)
 
-
-Presented by Mrs Margot Wallström, Minister for Foreign Affairs in the Parliamentary Debate on Foreign Affairs, Wednesday, 24 February 2016\.
+Presented by Mrs Margot Wallström, Minister for Foreign Affairs in the Parliamentary Debate on Foreign Affairs, Wednesday, 24 February 2016.
 (Utrikesdeklarationen 2016 i översättning till engelska)
-
 
 Mr/Madam Speaker, Honourable Members, Representatives of the Diplomatic Corps, Ladies and Gentlemen,
 
@@ -15,17 +13,17 @@ But at a time when our world is characterised by aggression and division, we mus
 
 Mr/Madam Speaker, Honourable Members,
 
-Sweden's security policy remains firmly in place. Our non\-participation in military alliances serves us well, and contributes to stability and security in northern Europe. It requires an active, broad and responsible foreign and security policy combined with credible national defence capabilities.
+Sweden's security policy remains firmly in place. Our non-participation in military alliances serves us well, and contributes to stability and security in northern Europe. It requires an active, broad and responsible foreign and security policy combined with credible national defence capabilities.
 
-Threats to peace and to our security are best averted collectively and in cooperation with other countries and organisations. Sweden's foreign and security policy builds on cohesion in the EU, and on increased cooperation on a broad front: in the Nordic region and the Baltic Sea region, together with Finland; in the UN and the OSCE; with NATO; and via a strengthened transatlantic link. Dialogue and confidence\-building measures are important instruments to create stability and ease tensions.
+Threats to peace and to our security are best averted collectively and in cooperation with other countries and organisations. Sweden's foreign and security policy builds on cohesion in the EU, and on increased cooperation on a broad front: in the Nordic region and the Baltic Sea region, together with Finland; in the UN and the OSCE; with NATO; and via a strengthened transatlantic link. Dialogue and confidence-building measures are important instruments to create stability and ease tensions.
 
 Sweden will not remain passive if another EU Member State or Nordic country suffers a disaster or an attack. We expect these countries to act in the same way if Sweden is affected. Our country must therefore be in a position to both give and receive support, civilian as well as military.
 
 The defence policy agreement concluded last year is highly significant. It shows the broad political consensus on the need to strengthen our national defence capabilities.
 
-The defining issue of our time – climate change – constitutes a global security threat. Climate change is a catalyst for war, conflicts and poverty. Sweden will vigorously tackle the tasks contained in the global climate agreement, with a view to achieving the goal of keeping global warming well below 2 degrees Celsius and seeking to restrict it to 1\.5 degrees Celsius.
+The defining issue of our time – climate change – constitutes a global security threat. Climate change is a catalyst for war, conflicts and poverty. Sweden will vigorously tackle the tasks contained in the global climate agreement, with a view to achieving the goal of keeping global warming well below 2 degrees Celsius and seeking to restrict it to 1.5 degrees Celsius.
 
-We are adapting the work of the Ministry for Foreign Affairs to a broader view of security. Terrorism, climate change, migration, pandemics and human smuggling are foreign and security policy challenges. Migration issues in particular will demand a great deal of work in both the short and long term. At the Ministry for Foreign Affairs we are reinforcing efforts focusing on European security, the UN and global issues. We are also strengthening our organisation abroad. We are in the process of opening a Consulate\-General in New York and embassies on three continents. The Government is working on a national security strategy.
+We are adapting the work of the Ministry for Foreign Affairs to a broader view of security. Terrorism, climate change, migration, pandemics and human smuggling are foreign and security policy challenges. Migration issues in particular will demand a great deal of work in both the short and long term. At the Ministry for Foreign Affairs we are reinforcing efforts focusing on European security, the UN and global issues. We are also strengthening our organisation abroad. We are in the process of opening a Consulate-General in New York and embassies on three continents. The Government is working on a national security strategy.
 
 The situation in the world calls for a feminist foreign policy that aims to strengthen women's rights, representation and access to resources. In 2015, Sweden helped ensure that the EU appointed a Principal Advisor on Gender, and that a network of women mediators was formed. We will continue our work to involve women in peace processes, in accordance with our action plan. By involving women in the Syrian peace talks, we can help ensure a more sustainable society.
 
@@ -51,15 +49,15 @@ Sweden is a driving force for the EU's Eastern Partnership. A strong neighbourho
 
 The escalation of violence and the human rights situation in Turkey are alarming. Fighting between the Turkish Government and the PKK has intensified. Civilians, particularly Kurds, are being hit hard by violence and curfews. The escalating violence is an obstacle to peace and development not just in Turkey but in the entire region. Sweden is conducting a dialogue with both the country's government and the opposition. It is vital that Turkey and the EU are able to demonstrate tangible progress on the implementation of the joint action plan on migration.
 
-The unimaginable human suffering in Syria is a disaster and a serious threat to the security of the entire region. Half the Syrian population is displaced within or outside the country. The bombing raids on the opposition by the Assad regime and Russia are unacceptable and threaten the fragile peace process. They must cease. All parties must now accept the agreement on cessation of hostilities that has been reached. Through the new Swedish strategy for the Syria crisis encompassing SEK 1\.7 billion, we are working to enable people in Syria and its neighbouring countries to support themselves and get an education. We are also increasing our humanitarian support to the country.
+The unimaginable human suffering in Syria is a disaster and a serious threat to the security of the entire region. Half the Syrian population is displaced within or outside the country. The bombing raids on the opposition by the Assad regime and Russia are unacceptable and threaten the fragile peace process. They must cease. All parties must now accept the agreement on cessation of hostilities that has been reached. Through the new Swedish strategy for the Syria crisis encompassing SEK 1.7 billion, we are working to enable people in Syria and its neighbouring countries to support themselves and get an education. We are also increasing our humanitarian support to the country.
 
-We are part of the core group of the coalition against Daesh and are contributing a Swedish armed force to train Iraqi security forces, particularly Kurdish Peshmerga forces. Sweden is working in the EU for a long\-term stabilisation mission in Iraq. We are supporting the reconstruction of the country, including by providing support to the areas liberated from Daesh.
+We are part of the core group of the coalition against Daesh and are contributing a Swedish armed force to train Iraqi security forces, particularly Kurdish Peshmerga forces. Sweden is working in the EU for a long-term stabilisation mission in Iraq. We are supporting the reconstruction of the country, including by providing support to the areas liberated from Daesh.
 
-Fear and desperation are spreading throughout the Middle East. We must offer hope for the future to young people in both Israel and Palestine. Sweden's recognition of Palestine aims to create momentum for the two\-state solution. Renewed international efforts are needed. Sweden welcomes the French initiative to convene an international peace conference. The objective is to ensure that both Israel and Palestine are able to live in peace and security within mutually agreed borders.
+Fear and desperation are spreading throughout the Middle East. We must offer hope for the future to young people in both Israel and Palestine. Sweden's recognition of Palestine aims to create momentum for the two-state solution. Renewed international efforts are needed. Sweden welcomes the French initiative to convene an international peace conference. The objective is to ensure that both Israel and Palestine are able to live in peace and security within mutually agreed borders.
 
 Mr/Madam Speaker, Honourable Members,
 
-In North Africa, the Government is providing increased support to the UN process concerning Western Sahara, with the aim of finding a fair, mutually accepted solution to the conflict that satisfies the right of the Western Saharan people to self\-determination.
+In North Africa, the Government is providing increased support to the UN process concerning Western Sahara, with the aim of finding a fair, mutually accepted solution to the conflict that satisfies the right of the Western Saharan people to self-determination.
 
 Sweden will continue to support and draw attention to the democratic forces in the region. We will open an embassy in Tunisia in June.
 
@@ -81,11 +79,11 @@ Mr/Madam Speaker, Honourable Members,
 
 Sweden's many years' experience of peace, gender equality and international solidarity have generated a curiosity about our country and what we stand for. The Swedish model attracts interest around the world.
 
-A strong image of Sweden, highlighting culture and values, is important for our long\-term relations with other countries. Promotion of exports, imports and investment in Sweden, in close cooperation with the business community, is an integral part of foreign policy and the responsibility of the entire Government.
+A strong image of Sweden, highlighting culture and values, is important for our long-term relations with other countries. Promotion of exports, imports and investment in Sweden, in close cooperation with the business community, is an integral part of foreign policy and the responsibility of the entire Government.
 
 The Government's export strategy helps strengthen opportunities for Swedish companies in the international market and increase the number of exporting companies. This helps create more Swedish jobs. Two thirds of Sweden's foreign trade goes to other countries in the EU. An effective internal market in the EU is therefore of the utmost importance.
 
-Sweden's economic exchange with the rest of the world and long tradition of free trade has contributed to our prosperity. Free trade between countries lays the long\-term foundations for peace and democracy. Consequently, we are opposed to protectionist tendencies in the EU and other G20 countries, particularly measures that affect developing countries.
+Sweden's economic exchange with the rest of the world and long tradition of free trade has contributed to our prosperity. Free trade between countries lays the long-term foundations for peace and democracy. Consequently, we are opposed to protectionist tendencies in the EU and other G20 countries, particularly measures that affect developing countries.
 
 Sweden is striving to reach a political deal this year in the negotiations on the Transatlantic Trade and Investment Partnership between the EU and the US. An agreement will be of major importance for growth and jobs and will strengthen the transatlantic link. Respect for people and the environment must be factored into the agreement.
 
@@ -93,7 +91,7 @@ Sweden must be a model for free and fair trade. Corporate social responsibility 
 
 In these difficult times, we are one of few countries around the world to succeed in maintaining a generous level of quality aid. We achieve the one per cent target, which remains unchanged. In the course of this year, the Government will present the Riksdag with a new policy framework for Swedish development cooperation.
 
-Our development cooperation is an expression of Sweden's conviction that prosperity around the world must be shared. Looking ahead to the World Humanitarian Summit in Istanbul in May, we are working for a stronger humanitarian system, with special focus on women's rights and influence. I am a member of Ban Ki\-Moon's High\-Level Panel on Humanitarian Financing, which has presented innovative proposals on how to meet the world's humanitarian needs.
+Our development cooperation is an expression of Sweden's conviction that prosperity around the world must be shared. Looking ahead to the World Humanitarian Summit in Istanbul in May, we are working for a stronger humanitarian system, with special focus on women's rights and influence. I am a member of Ban Ki-Moon's High-Level Panel on Humanitarian Financing, which has presented innovative proposals on how to meet the world's humanitarian needs.
 
 Mr/Madam Speaker, Honourable Members,
 
@@ -101,15 +99,15 @@ In a time of global threats, global cooperation is needed. Last year, world lead
 
 Sweden is an active member of the UN and a critical friend. Our engagement makes a difference and is sought after.
 
-Sweden is pushing for a stronger link between development and peace, an increased focus on conflict prevention and a stronger role for women in peace processes. The Government is also making a long\-term commitment to mediation.
+Sweden is pushing for a stronger link between development and peace, an increased focus on conflict prevention and a stronger role for women in peace processes. The Government is also making a long-term commitment to mediation.
 
 This is the basis on which Sweden is now campaigning for a seat on the Security Council. We can provide knowledge, not least of our own neighbourhood. The Security Council must take greater responsibility for peace and security. We want to safeguard international law and limit the use of the veto. The Council must be reformed to better reflect the world of today.
 
-We see with concern that the world's existing nuclear weapons arsenals are being retained and that new weapons are being developed. North Korea's nuclear test earlier this year underscores the necessity of international disarmament and non\-proliferation efforts.
+We see with concern that the world's existing nuclear weapons arsenals are being retained and that new weapons are being developed. North Korea's nuclear test earlier this year underscores the necessity of international disarmament and non-proliferation efforts.
 
-On the other hand, the nuclear deal with Iran shows that it is possible to make progress in the area of non\-proliferation.
+On the other hand, the nuclear deal with Iran shows that it is possible to make progress in the area of non-proliferation.
 
-Sweden is active in the UN, the international Comprehensive Nuclear\-Test\-Ban Treaty Organisation and other multilateral projects such as the Humanitarian Initiative. The Government has taken part in the preparatory work ahead of the Nuclear Security Summit in Washington this spring on enhanced efforts against nuclear terrorism.
+Sweden is active in the UN, the international Comprehensive Nuclear-Test-Ban Treaty Organisation and other multilateral projects such as the Humanitarian Initiative. The Government has taken part in the preparatory work ahead of the Nuclear Security Summit in Washington this spring on enhanced efforts against nuclear terrorism.
 
 The Government will appoint a special ambassador for international disarmament efforts.
 
@@ -121,7 +119,7 @@ Journalists have become targets in armed conflicts around the world. Last year, 
 
 Today, working conditions are a European and global issue. The Global Deal is the Prime Minister's international initiative in cooperation with the ILO, the OECD and others for improved social dialogue between employers and employees, aimed at creating better jobs, greater equality and increased productivity.
 
-Safeguarding every individual's right to protection against discrimination is our common responsibility. This includes anti\-racism and action against forms of intolerance such as anti\-Semitism, Islamophobia, Afrophobia and anti\-Ziganism. Sweden is a global voice for sexual and reproductive health and rights, and for the rights of each individual regardless of sexual orientation or gender identity.
+Safeguarding every individual's right to protection against discrimination is our common responsibility. This includes anti-racism and action against forms of intolerance such as anti-Semitism, Islamophobia, Afrophobia and anti-Ziganism. Sweden is a global voice for sexual and reproductive health and rights, and for the rights of each individual regardless of sexual orientation or gender identity.
 
 Human rights, democracy and the rule of law are fundamental and the Government will therefore present a communication to the Riksdag on this subject, and will appoint a special human rights ambassador.
 

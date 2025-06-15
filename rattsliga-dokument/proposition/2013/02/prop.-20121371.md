@@ -8,4 +8,4 @@ Arbetsmiljöverket ska enligt förslaget utöva tillsyn över att reglerna följ
 
 Syftet med förslaget är att Sverige ska kunna fullgöra sina skyldigheter enligt direktiv 96/71/EG om utstationering av arbetstagare i samband med tillhandahållande av tjänster och för att utstationeringslagen ska fungera i praktiken.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2013\.
+Lagändringarna föreslås träda i kraft den 1 juli 2013.

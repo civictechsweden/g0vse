@@ -1,10 +1,10 @@
 # Pål Jonson och Carl-Oskar Bohlin besöker Rumänien och Moldavien
 
-Under måndagen träffar försvarsminister Pål Jonson och minister för civilt försvar Carl\-Oskar Bohlin Rumäniens försvarsminister Angel Tîlvăr för samtal om det säkerhetspolitiska läget, stödet till Ukraina och relevanta EU\- och Natofrågor. Detta är det första mötet mellan ministrarna sedan Sverige och Rumänien blev Natoallierade.
+Under måndagen träffar försvarsminister Pål Jonson och minister för civilt försvar Carl-Oskar Bohlin Rumäniens försvarsminister Angel Tîlvăr för samtal om det säkerhetspolitiska läget, stödet till Ukraina och relevanta EU- och Natofrågor. Detta är det första mötet mellan ministrarna sedan Sverige och Rumänien blev Natoallierade.
 
-Pål Jonson kommer att besöka den rumänska flygbasen Borcea Air Base som sedan 2023 är ett utbildningscentrum för stridsflyget F\-16 och som spelar en viktig roll inom ramen för förmågekoalitionen för stridsflyg till stöd för Ukraina.
+Pål Jonson kommer att besöka den rumänska flygbasen Borcea Air Base som sedan 2023 är ett utbildningscentrum för stridsflyget F-16 och som spelar en viktig roll inom ramen för förmågekoalitionen för stridsflyg till stöd för Ukraina.
 
-I Bukarest träffar Carl\-Oskar Bohlin inrikesminister Marian Cătălin Predoiu och besöker bland annat EU:s kompetenscentrum för cybersäkerhet, ECCC (European Cybersecurity Competence Centre), för att ta del av arbetet med att stärka europeiska förmågor och konkurrenskraft på området.
+I Bukarest träffar Carl-Oskar Bohlin inrikesminister Marian Cătălin Predoiu och besöker bland annat EU:s kompetenscentrum för cybersäkerhet, ECCC (European Cybersecurity Competence Centre), för att ta del av arbetet med att stärka europeiska förmågor och konkurrenskraft på området.
 
 Statsråden reser på tisdagen vidare till Moldavien för att träffa president Maia Sandu, försvarsminister Anatolie Nosatîi, inrikesminister Adrian Efros samt direktören för Moldaviens nyinrättade center för strategisk kommunikation och arbetet mot desinformation, Ana Revenco.
 

@@ -10,4 +10,4 @@ En kommitté för ökad ekonomisk jämlikhet – en jämlikhetskommission
 Förslagen ska främja jämlikhet på ett sådant sätt att ekonomins
 funktionssätt och tillväxtpotential stärks. Kommissionen ska vidare verka för en bred diskussion om hur ekonomisk jämlikhet och social rörlighet kan främjas. Kommissionen ska löpande hålla Regeringskansliet (Finansdepartementet) informerat om sitt arbete och regelbundet presentera förslag och andra resultat av arbetet.
 
-Kommissionens arbete ska slutredovisas till regeringen (Finansdepartementet) senast den 31 maj 2020\.
+Kommissionens arbete ska slutredovisas till regeringen (Finansdepartementet) senast den 31 maj 2020.

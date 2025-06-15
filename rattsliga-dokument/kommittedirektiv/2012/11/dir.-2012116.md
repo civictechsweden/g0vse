@@ -6,4 +6,4 @@ Utredaren ska också, i den mån det bedöms som nödvändigt för att uppnå st
 
 Utredaren bör även överväga behovet av förändringar av skatteförfarandereglerna samt lämna behövliga författningsförslag med anledning av de förslag som lämnas i övrigt.
 
-Uppdraget ska redovisas senast den 1 oktober 2014\.
+Uppdraget ska redovisas senast den 1 oktober 2014.

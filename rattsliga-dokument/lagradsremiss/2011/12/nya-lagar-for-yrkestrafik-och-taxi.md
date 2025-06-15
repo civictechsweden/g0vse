@@ -8,4 +8,4 @@ Av trafiktillståndsförordningen framgår att medlemsstaterna ska föra natione
 
 I den nya taxitrafiklagen införs en definition av begreppet taxiförarlegitimation. Vidare behandlas frågor om giltighet och förnyelse av legitimationen.
 
-De nya reglerna föreslås träda i kraft den 1 maj 2012, utom i fråga om den nya 8 a § lagen (2001:558\) om vägtrafikregister som föreslås träda i kraft den 1 januari 2013\.
+De nya reglerna föreslås träda i kraft den 1 maj 2012, utom i fråga om den nya 8 a § lagen (2001:558) om vägtrafikregister som föreslås träda i kraft den 1 januari 2013.

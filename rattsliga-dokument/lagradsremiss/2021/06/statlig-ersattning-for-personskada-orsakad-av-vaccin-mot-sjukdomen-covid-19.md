@@ -1,8 +1,8 @@
 # Statlig ersättning för personskada orsakad av vaccin mot sjukdomen covid-19
 
-Regeringen föreslår en lag om statlig ersättning för personskada orsakad av vaccin mot sjukdomen covid\-19\. Meningen är att garantera den drabbade en ersättning motsvarande annan ersättning för godkända skador orsakade av läkemedel.
+Regeringen föreslår en lag om statlig ersättning för personskada orsakad av vaccin mot sjukdomen covid-19. Meningen är att garantera den drabbade en ersättning motsvarande annan ersättning för godkända skador orsakade av läkemedel.
 
-Regeringen föreslår att staten ska betala ersättning för personskada som med övervägande sannolikhet har orsakats av vaccin som tillhandahållits i Sverige mot covid\-19\.
+Regeringen föreslår att staten ska betala ersättning för personskada som med övervägande sannolikhet har orsakats av vaccin som tillhandahållits i Sverige mot covid-19.
 
 ## Ersätter endast om Läkemedelsförsäkringen inte ersätter
 

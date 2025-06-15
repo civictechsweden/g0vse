@@ -12,4 +12,4 @@ I lagrådsremissen föreslås en årlig omräkning av skattesatserna för naturg
 
 Förslagen föranleder ändringar i lagen om skatt på energi, lagen om skatt på naturgrus, lagen om skatt på avfall, lagen om skatt på kemikalier i viss elektronik och skatteförfarandelagen.
 
-Ändringarna föreslås träda i kraft den 1 januari 2018\.
+Ändringarna föreslås träda i kraft den 1 januari 2018.

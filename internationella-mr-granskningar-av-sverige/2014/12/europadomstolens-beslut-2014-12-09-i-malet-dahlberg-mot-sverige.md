@@ -2,7 +2,6 @@
 
 Europadomstolen har fattat ett beslut avseende ett klagomål om Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till beslutet i fulltext samt en sammanfattning av beslutet.
 
-
 ## Sammanfattning av beslutet
 
 Bakgrunden till målet var att klaganden begärde försäkringsersättning för en whiplashskada. Försäkringsbolaget anlitade då ett övervakningsbolag som filmade henne i hemlighet för att utreda hennes rätt till ersättning. Detta ledde fram till en polisanmälan om försäkringsbedrägeri. Klaganden åtalades även för detta brott, men frikändes. Efter den straffrättsliga processen väckte klaganden en skadeståndstalan mot försäkringsbolaget och anförde bl.a. att de kränkt hennes rättigheter enligt artikel 8 i konventionen genom att ha smygfilmat henne under försäkringsutredningen. Denna talan utmynnade i en dom av Svea hovrätt att skadeståndsskyldighet inte förelåg för försäkringsbolaget.

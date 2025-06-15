@@ -8,4 +8,4 @@ Regeringen föreslår även vissa förändringar av reglerna om uppskov med besk
 
 Som ett led i finansieringen av de minskade skatteintäkter som förslagen medför föreslår regeringen att taket för uppskovsbelopp ska sänkas från 1 600 000 kronor till 1 450 000 kronor för försäljningar som sker den 1 januari 2010 eller senare.
 
-Ändringarna föreslås träda i kraft den 1 januari 2010\.
+Ändringarna föreslås träda i kraft den 1 januari 2010.

@@ -8,4 +8,4 @@ För andra trossamfund än Svenska kyrkan ska också uppgifter om en kontaktpers
 
 Vidare föreslås att registreringsmyndigheten får avregistrera ett trossamfund som låter bli att betala registerhållningsavgiften.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2010\.
+Lagändringarna föreslås träda i kraft den 1 juli 2010.

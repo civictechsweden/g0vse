@@ -9,6 +9,6 @@ Avtalet ger möjlighet till samarbeten och dialog på en rad olika områden, bl.
 
 I avtalet betonar parterna särskilt vikten av att respektera de mänskliga
 rättigheterna, de grundläggande friheterna, de demokratiska principerna
-och rättsstatsprincipen, samt att de ska samarbeta och följa internationella regler i fråga om nedrustning och icke\-spridning av massförstörelsevapen
+och rättsstatsprincipen, samt att de ska samarbeta och följa internationella regler i fråga om nedrustning och icke-spridning av massförstörelsevapen
 
-Förhandlingarna om ett avtal inleddes 2014 och i december 2016 undertecknade parterna ett färdigt avtal. Den 5 juli 2017 godkände Europaparlamentet avtalet, som börjadetillämpas provisoriskt mellan EU och Kuba den 1 november 2017\.
+Förhandlingarna om ett avtal inleddes 2014 och i december 2016 undertecknade parterna ett färdigt avtal. Den 5 juli 2017 godkände Europaparlamentet avtalet, som börjadetillämpas provisoriskt mellan EU och Kuba den 1 november 2017.

@@ -6,4 +6,4 @@ I promemorian föreslås att skatten för pensionärer sänks genom att det för
 
 Förslaget föranleder ändringar i inkomstskattelagen.
 
-Ändringarna föreslås träda i kraft den 1 januari 2018\.
+Ändringarna föreslås träda i kraft den 1 januari 2018.

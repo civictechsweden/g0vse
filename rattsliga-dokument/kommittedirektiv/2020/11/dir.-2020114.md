@@ -9,4 +9,4 @@ Utredaren ska bland annat:
 * undersöka och föreslå hur regelverket om tillfällig föräldrapenning och Försäkringskassans hantering av förmånen kan förändras i syfte att minska utrymmet för fusk och felaktiga utbetalningar, och
 * i alla delar lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 31 maj 2022\. Den del som handlar om förslag som gör det möjligt för föräldrar att få tillfällig föräldrapenning för att instruera bland andra skol\- och förskolepersonal om egenvård för ett barn med kronisk sjukdom ska dock redovisas senast den 31 maj 2021\.
+Uppdraget ska redovisas senast den 31 maj 2022. Den del som handlar om förslag som gör det möjligt för föräldrar att få tillfällig föräldrapenning för att instruera bland andra skol- och förskolepersonal om egenvård för ett barn med kronisk sjukdom ska dock redovisas senast den 31 maj 2021.

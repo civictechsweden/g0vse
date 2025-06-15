@@ -10,4 +10,4 @@ Utredaren ska
 * redogöra för de regler som kommer att gälla för söktjänsterna för det fall utredaren bedömer att delegationsbestämmelser bör införas i tryckfrihetsförordningen och yttrandefrihetsgrundlagen.
 
 Utredaren ska biträdas av en parlamentariskt sammansatt referensgrupp.
-Uppdraget ska redovisas senast den 15 november 2024\.
+Uppdraget ska redovisas senast den 15 november 2024.

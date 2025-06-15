@@ -4,6 +4,6 @@ Genom en ny lag om europeisk skyddsorder föreslås regler som stärker skyddsbe
 
 Den nya lagen gäller dels för beslut om europeiska skyddsordrar som meddelas i Sverige för att erkännas och verkställas i en annan medlemsstat, dels för sådana beslut som meddelas i en annan medlemsstat för att erkännas och verkställas i Sverige. De skyddsåtgärder som kan ligga till grund för en europeisk skyddsorder ska vara av straffrättslig karaktär. I den nya lagen föreslås att svenska kontaktförbud ska kunna ligga till grund för utfärdande av en europeisk skyddsorder för översändande till en annan medlemsstat och att en europeisk skyddsorder som översänds till Sverige ska verkställas genom ett förbud som motsvarar ett sådant kontaktförbud.
 
-Den nya lagen och en följdändring i offentlighets\- och sekretesslagen föreslås träda i kraft den 1 januari 2016\.
+Den nya lagen och en följdändring i offentlighets- och sekretesslagen föreslås träda i kraft den 1 januari 2016.
 
 [Pressmeddelande: Europeisk skyddsorder – Rätt till EU:s fria rörlighet även vid kontakatförbud](/pressmeddelanden/2015/05/europeisk-skyddsorder--ratt-till-eus-fria-rorlighet-aven-vid-kontaktforbud/)

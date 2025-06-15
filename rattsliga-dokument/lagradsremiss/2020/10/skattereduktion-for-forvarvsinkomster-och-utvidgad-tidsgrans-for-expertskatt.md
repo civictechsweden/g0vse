@@ -6,4 +6,4 @@ I lagrådsremissen föreslås även att skattelättnaden för experter, forskare
 
 Förslagen föranleder ändringar i lagen om avräkning av utländsk skatt, inkomstskattelagen och skatteförfarandelagen.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2021\.
+Lagändringarna föreslås träda i kraft den 1 januari 2021.

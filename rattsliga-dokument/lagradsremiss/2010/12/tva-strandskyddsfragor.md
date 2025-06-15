@@ -4,4 +4,4 @@ I remissen föreslås två ändringar i miljöbalkens regler om strandskydd. Det
 
 Det andra förslaget innebär att en del av Ångermanälvens mynningsvik får pekas ut som ett område för landsbygdsutveckling i strandnära lägen där lättnader i strandskyddet gäller. Det område vid mynningsviken som ingår i världsarvet Höga kusten och som skyddas även enligt andra bestämmelser i miljöbalken kommer även fortsättningsvis att vara undantaget från reglerna om landsbygdsutveckling.
 
-Lagändringarna föreslås träda i kraft den 2 maj 2011\.
+Lagändringarna föreslås träda i kraft den 2 maj 2011.

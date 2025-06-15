@@ -4,4 +4,4 @@ Sammanfattning på engelska av propositionen som innehåller förslag till ändr
 
 Med bristande tillgänglighet menas att en person med funktionsnedsättning missgynnas genom att en verksamhet inte vidtar skäliga åtgärder för tillgänglighet för att den personen ska komma i en jämförbar situation med personer utan denna funktionsnedsättning.
 
-Lagförslagen föreslås träda i kraft den 1 januari 2015\.
+Lagförslagen föreslås träda i kraft den 1 januari 2015.

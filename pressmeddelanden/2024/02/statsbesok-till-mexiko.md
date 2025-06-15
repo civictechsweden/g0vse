@@ -1,12 +1,12 @@
 # Statsbesök till Mexiko
 
-Regeringen representeras av bistånds\- och utrikeshandelsminister Johan Forssell. Drygt 25 svenska företag deltar i den näringslivsdelegation som Business Sweden arrangerar.
+Regeringen representeras av bistånds- och utrikeshandelsminister Johan Forssell. Drygt 25 svenska företag deltar i den näringslivsdelegation som Business Sweden arrangerar.
 
 Syftet med statsbesöket är att befästa den goda relationen mellan Sverige och Mexiko och stärka de ekonomiska och politiska förbindelserna, med fokus på innovation, partnerskap, handel och investeringar.
 
 Mexiko är Latinamerikas näst största marknad och världens femtonde största ekonomi. Många svenska företag har haft verksamhet i Mexiko under decennier och med en ung befolkning och en dynamisk ekonomi finns goda möjligheter att fördjupa och bredda handelsutbytet. Mexiko är en framträdande multilateral aktör med nära samarbete med Sverige. Besöket ger möjlighet att utveckla detta samarbete.
 
-Statsbesök till Mexiko har tidigare ägt rum 1982 och 2002\.
+Statsbesök till Mexiko har tidigare ägt rum 1982 och 2002.
 
 Statsbesökets program är tre dagar långt och äger rum i Mexico City och i Mérida i delstaten Yucatán.
 

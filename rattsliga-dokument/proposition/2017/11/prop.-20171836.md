@@ -6,6 +6,6 @@ Förslaget syftar till att effektivisera det informationsutbyte som redan förek
 
 Förslaget innebär att varje myndighet vid Nationellt centrum för terrorhotbedömning ska få medge de övriga myndigheterna inom samarbetet direktåtkomst till sådana uppgifter som behövs för att kunna göra bedömningar på strategisk nivå av terrorhotet mot Sverige och svenska intressen. Direktåtkomsten ska inte omfatta fler uppgifter än vad myndigheterna i dag kan lämna ut till varandra. För att möjliggöra utlämnandet föreslås att sekretessbrytande bestämmelser i form av uppgiftsskyldigheter införs.
 
-Lagändringarna föreslås träda i kraft den 1 mars 2018\.
+Lagändringarna föreslås träda i kraft den 1 mars 2018.
 
 [Pressmeddelande: Ett effektivare informationsutbyte vid Nationellt centrum för terrorhotbedömning (NCT)](/pressmeddelanden/2017/11/ett-effektivare-informationsutbyte-vid-nationellt-centrum-for-terrorhotbedomning-nct/)

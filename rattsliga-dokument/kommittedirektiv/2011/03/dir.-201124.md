@@ -11,4 +11,4 @@ Kommittén ska analysera:
 * tidskriftsmarknaden, och
 * det internationella utbytet på litteraturområdet.
 
-Kommittén ska lämna förslag på hur litteraturens ställning kan stärkas samt bland annat bedöma och föreslå vilka statliga insatser som bör göras för att möta de utmaningar som teknikutvecklingen för med sig. En målsättning med förslagen ska vara att de leder till ett ökat läsande och ett rikt utbud av kvalitetslitteratur. Uppdraget ska redovisas senast den 1 september 2012\.
+Kommittén ska lämna förslag på hur litteraturens ställning kan stärkas samt bland annat bedöma och föreslå vilka statliga insatser som bör göras för att möta de utmaningar som teknikutvecklingen för med sig. En målsättning med förslagen ska vara att de leder till ett ökat läsande och ett rikt utbud av kvalitetslitteratur. Uppdraget ska redovisas senast den 1 september 2012.

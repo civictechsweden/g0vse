@@ -2,20 +2,19 @@
 
 Det svenska näringslivets långsiktiga konkurrenskraft är avgörande för Sveriges välstånd. I budgetpropositionen för 2024 genomför regeringen därför en rad satsningar som verkar för förbättrade ramvillkor, innovation, entreprenörskap och väl fungerande marknader som stärker företagens konkurrenskraft. Därtill bedriver regeringen en aktiv industripolitik för näringslivets omställning.
 
-
 ## Tryggare mineralförsörjning
 
 Den europeiska gröna given, med det övergripande målet att göra Europa klimatneutralt, EU:s industristrategi och den kritiska råmaterialakten anger alla att tillgången på metaller och mineral är en strategisk säkerhetsfråga som är avgörande för att kunna uppfylla EU:s ambitioner.
 
-SGU är den myndighet som ansvarar för att skapa goda förutsättningar för ett hållbart nyttjande av landets mineralresurser och för att främja hållbar tillväxt och företagande inom sektorn. Regeringen förstärker SGU:s förvaltningsanslag med 70 miljoner kronor 2024 för myndighetens arbete med kartläggning av malmpotentiella områden, tillgängliggörandet av denna information samt för övriga insatser kopplade till främjande av mineralutvinning i Sverige. Anslaget beräknas öka med 70 miljoner kronor år 2025–2026 och med 30 miljoner kronor från och med 2027\.
+SGU är den myndighet som ansvarar för att skapa goda förutsättningar för ett hållbart nyttjande av landets mineralresurser och för att främja hållbar tillväxt och företagande inom sektorn. Regeringen förstärker SGU:s förvaltningsanslag med 70 miljoner kronor 2024 för myndighetens arbete med kartläggning av malmpotentiella områden, tillgängliggörandet av denna information samt för övriga insatser kopplade till främjande av mineralutvinning i Sverige. Anslaget beräknas öka med 70 miljoner kronor år 2025–2026 och med 30 miljoner kronor från och med 2027.
 
 ## Stärkta förutsättningar för koldioxidlagring
 
-Regeringen gav i december 2022 Sveriges geologiska undersökning (SGU) i uppdrag att utreda lämpliga lagringsplatser för koldioxid i Sverige samt utreda förutsättningarna för driften av lagringsplatserna. SGU behöver genomföra ytterligare maringeologisk kartläggning om uppdraget ska genomföras enligt regeringens ambitioner. För detta ändamål förstärks SGU:s förvaltningsanslag 27 miljoner kronor 2024\. Anslaget beräknas öka med 27 miljoner kronor 2025 för samma ändamål.
+Regeringen gav i december 2022 Sveriges geologiska undersökning (SGU) i uppdrag att utreda lämpliga lagringsplatser för koldioxid i Sverige samt utreda förutsättningarna för driften av lagringsplatserna. SGU behöver genomföra ytterligare maringeologisk kartläggning om uppdraget ska genomföras enligt regeringens ambitioner. För detta ändamål förstärks SGU:s förvaltningsanslag 27 miljoner kronor 2024. Anslaget beräknas öka med 27 miljoner kronor 2025 för samma ändamål.
 
 ## Snabbare tillståndsprövning för havsbaserad vindkraft
 
-Antalet ärenden som SGU kommer att hantera den närmaste tiden bedöms öka bland annat på grund av uppbyggnad av den havsbaserade vindkraften. För att myndigheten ska kunna hantera ärendena effektivt, rättssäkert och snabbt föreslår regeringen att myndigheten tillförs 5 miljoner kronor 2024\. Anslaget beräknas öka med 5 miljoner kronor per år 2025–2026 för samma ändamål.
+Antalet ärenden som SGU kommer att hantera den närmaste tiden bedöms öka bland annat på grund av uppbyggnad av den havsbaserade vindkraften. För att myndigheten ska kunna hantera ärendena effektivt, rättssäkert och snabbt föreslår regeringen att myndigheten tillförs 5 miljoner kronor 2024. Anslaget beräknas öka med 5 miljoner kronor per år 2025–2026 för samma ändamål.
 
 ## Grön omställning och tillväxtstyrka
 
@@ -52,11 +51,11 @@ Genom att tillgängliggöra data avgiftsfritt kommer olika aktörer i samhället
 
 Därför föreslår regeringen en förstärkning av Bolagsverkets respektive Sveriges geologiska underökningens (SGU) anslag med syfte att myndigheterna ska kunna tillgängliggöra värdefulla datamängder avgiftsfritt. Detta görs i enlighet med EU:s direktiv om öppna data och vidareutnyttjande av information från den offentliga sektorn. År 2024 ökas SGU:s och Bolagsverkets förvaltningsanslag med 10 miljoner respektive 40 miljoner kronor.
 
-## Bolagsverket tillförs medel för att ansluta Sverige till EU:s e\-juridikportal
+## Bolagsverket tillförs medel för att ansluta Sverige till EU:s e-juridikportal
 
-Bolagsverket föreslås tillföras 2\.5 miljoner kronor för 2023 för att ansluta Sverige till EU:s e\-juridikportal som en del i införlivandet av Digitaliseringsdirektivet (EU)2019/1151\.
+Bolagsverket föreslås tillföras 2.5 miljoner kronor för 2023 för att ansluta Sverige till EU:s e-juridikportal som en del i införlivandet av Digitaliseringsdirektivet (EU)2019/1151.
 
-Genom sammankopplingen och tillgången till e\-juridikportalen skapas en mer företagsvänlig rättslig miljö och medför också ett skydd mot missbruk och bedrägeri. Sammanfattningsvis medför systemet att fler uppgifter och handlingar kan utbytas mellan registren, dels i brottsförebyggande syfte, dels för att minska den administrativa bördan för företagen.
+Genom sammankopplingen och tillgången till e-juridikportalen skapas en mer företagsvänlig rättslig miljö och medför också ett skydd mot missbruk och bedrägeri. Sammanfattningsvis medför systemet att fler uppgifter och handlingar kan utbytas mellan registren, dels i brottsförebyggande syfte, dels för att minska den administrativa bördan för företagen.
 
 ## Satsning för att stärka Sveriges möjligheter att attrahera och behålla internationell spetskompetens
 
@@ -74,7 +73,7 @@ Ett snabbare trådlöst system förväntas leda till en rad nya datadrivna till�
 
 Relationen mellan näringspolitik och löpande omvärldsförändringar inom ekonomin gör att både insatser och utvärderingsmetoder ständigt behöver ses över och utvecklas. På Klimat och Näringslivsdepartementet (tidigare Näringsdepartementet) har ett utvecklingsarbete pågått sedan 2017 för att skapa struktur och systematik kring överblick, uppföljning och utvärdering av offentliga insatser inom näringspolitiken.
 
-Regeringen avser nu genomföra ytterligare åtgärder som förbättrar förutsättningarna att utvärdera företagsfrämjande insatser med syftet att bättre kunskap ska kunna nås kring vilka effekter som uppnås och för att få en bättre överblick över det företagsfrämjande systemet. Förslaget innebär att 15 miljoner kronor per år tillförs anslag 1:5 på UO24 för att finansiera insatser under åren 2024–2026\. Regeringen kommer att återkomma med mer information om kommande insatser.
+Regeringen avser nu genomföra ytterligare åtgärder som förbättrar förutsättningarna att utvärdera företagsfrämjande insatser med syftet att bättre kunskap ska kunna nås kring vilka effekter som uppnås och för att få en bättre överblick över det företagsfrämjande systemet. Förslaget innebär att 15 miljoner kronor per år tillförs anslag 1:5 på UO24 för att finansiera insatser under åren 2024–2026. Regeringen kommer att återkomma med mer information om kommande insatser.
 
 ## Effektiv och stärkt konkurrenstillsyn
 

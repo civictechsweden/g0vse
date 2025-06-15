@@ -6,4 +6,4 @@ Myndigheten får även i uppdrag att öka och fördjupa kunskaperna om antisemit
 
 – Förintelsen saknar motstycke i historien och kommer för alltid att ha en universell betydelse. Nu får myndigheten ökad frihet att göra urval och ta utgångspunkt i andra brott mot mänskligheten. Kopplingen mellan historia och samtid är avgörande och myndigheten har ett viktigt uppdrag att belysa demokratiska grundläggande värden utifrån historiska kunskaper, säger kulturminister Parisa Liljestrand.
 
-Ändringen träder i kraft den 15 juni 2023\.
+Ändringen träder i kraft den 15 juni 2023.

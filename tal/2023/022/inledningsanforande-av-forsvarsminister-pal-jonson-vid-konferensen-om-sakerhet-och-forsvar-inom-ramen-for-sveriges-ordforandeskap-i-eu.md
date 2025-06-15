@@ -10,7 +10,7 @@ Välkomna till Sverige och Uppsala.
 
 Vad roligt att få se så många deltagare från EU:s medlemsstater och institutioner och från unionens strategiska partner. Utöver diskussionerna här i dag och i morgon hoppas jag att ni alla får det trevligt i den här historiska staden och på slottet.
 
-Det är nu tre månader sedan Sveriges nya regering tillträdde. Vi har ett jättejobb framför oss på den säkerhets\- och försvarspolitiska dagordningen.
+Det är nu tre månader sedan Sveriges nya regering tillträdde. Vi har ett jättejobb framför oss på den säkerhets- och försvarspolitiska dagordningen.
 
 Stödet till Ukraina och processen för medlemskap i Nato samtidigt som vi är ordförande i Nordefco och i Europeiska unionens råd, för att nämna några saker. Jag kommer att beröra alla dessa aspekter i mitt inledningsanförande.
 
@@ -18,11 +18,11 @@ Men låt mig börja med att berätta att jag förra veckan informerade Europapar
 
 Budskapet som jag ville förmedla till alla deltagare under mötena bestod av två delar:
 
-Att Sveriges nya regering inte ser någon motsättning mellan ett starkare EU och ett starkare Nato. Å andra sidan har vi för avsikt att delta fullt ut i båda organisationerna. Vi vill ha en central roll i den gemensamma säkerhets\- och försvarspolitiken – inte i utkanten av den, och vi är övertygade om att vårt framtida Natomedlemskap kommer att stärka vår förmåga att spela en aktiv och konstruktiv roll i europeiska försvarsfrågor. Vi intensifierar nu vår verksamhet inom ramen för den femte omgången av Pesco\-projekt, vilket är ett tecken på Sveriges ökade engagemang i dessa frågor.
+Att Sveriges nya regering inte ser någon motsättning mellan ett starkare EU och ett starkare Nato. Å andra sidan har vi för avsikt att delta fullt ut i båda organisationerna. Vi vill ha en central roll i den gemensamma säkerhets- och försvarspolitiken – inte i utkanten av den, och vi är övertygade om att vårt framtida Natomedlemskap kommer att stärka vår förmåga att spela en aktiv och konstruktiv roll i europeiska försvarsfrågor. Vi intensifierar nu vår verksamhet inom ramen för den femte omgången av Pesco-projekt, vilket är ett tecken på Sveriges ökade engagemang i dessa frågor.
 
 Att Sverige för det andra, välkomnar ett fördjupat och effektivare samarbete mellan EU och Nato. EU och Nato har aldrig tidigare haft ett så nära samarbete som precis före och under kriget i Ukraina. Vårt gemensamma svar på Rysslands aggression har varit enighet, beslutsamhet och solidaritet.
 
-Som ni alla vet har Sverige tagit över ordförandeskapet i Europeiska unionens råd vid en tidpunkt som är avgörande för unionen. Europa står inför de största utmaningarna inom försvars\-, utrikes\- och säkerhetspolitiken sedan andra världskriget.
+Som ni alla vet har Sverige tagit över ordförandeskapet i Europeiska unionens råd vid en tidpunkt som är avgörande för unionen. Europa står inför de största utmaningarna inom försvars-, utrikes- och säkerhetspolitiken sedan andra världskriget.
 
 Tyvärr, måste vi vara beredda på ett långt krig. Rysslands strategiska mål är fortfarande desamma.
 
@@ -38,23 +38,23 @@ Vi måste ha kapacitet att hantera en mängd säkerhetsutmaningar samtidigt, tro
 
 **Natoprocessen**
 
-Mot bakgrund av den försämrade säkerhets\-situationen skulle jag vilja säga några ord om den väg mot Natomedlemskap som Sverige beslutade att slå in på förra året.
+Mot bakgrund av den försämrade säkerhets-situationen skulle jag vilja säga några ord om den väg mot Natomedlemskap som Sverige beslutade att slå in på förra året.
 
 För det första, vill jag betona att Sverige verkligen uppskattar hur snabbt 28 av Natos 30 allierade har ratificerat våra anslutningsprotokoll. Fortsatt politisk och militär integration i Nato, och att bli fullvärdiga medlemmar så snart som möjligt, har allra högsta prioritet för Sveriges regering.
 
 Sverige kommer att vara en trovärdig och tillförlitlig allierad som bidrar till hela den euroatlantiska gemenskapens säkerhet och välstånd. Vi har viljan och förmågan att bidra till alliansens säkerhet på det allra effektivaste sättet, oavsett om det till exempel handlar om Natos Enhanced Forward Presence, incidentberedskap i luften eller Natos stående marina styrkor.
 
-För det andra, kommer Sverige som allierad, över tid och med ett 360\-gradersperspektiv, att delta i alliansens gemensamma planering, övningar, insatser och initiativ.
+För det andra, kommer Sverige som allierad, över tid och med ett 360-gradersperspektiv, att delta i alliansens gemensamma planering, övningar, insatser och initiativ.
 
-För det tredje, är regeringen fast besluten att fortsätta att väsentligt stärka Försvarsmaktens förmågor. Förra året nåddes en politisk överenskommelse om att öka Sveriges försvarsinvesteringar, och min regering har för avsikt att nå 2 %\-målet senast 2026\.
+För det tredje, är regeringen fast besluten att fortsätta att väsentligt stärka Försvarsmaktens förmågor. Förra året nåddes en politisk överenskommelse om att öka Sveriges försvarsinvesteringar, och min regering har för avsikt att nå 2 %-målet senast 2026.
 
 **Ordförandeskapet i Europeiska unionens råd**
 
-Nu går vi vidare till EU\-ordförandeskapet. Det behövs ett starkt Europa som tar större ansvar för den europeiska säkerheten inom ramen för den övergripande euroatlantiska säkerhetsordningen.
+Nu går vi vidare till EU-ordförandeskapet. Det behövs ett starkt Europa som tar större ansvar för den europeiska säkerheten inom ramen för den övergripande euroatlantiska säkerhetsordningen.
 
 Detta måste åstadkommas i nära samarbete med partner runt om i Europa och på andra sidan Atlanten. Den transatlantiska pelaren är fortfarande en central dimension inom europeisk säkerhet, där Nato står för det kollektiva försvaret.
 
-Vid denna avgörande tidpunkt för vår union vilar ansvaret tungt på ordförandeskapet. Sveriges ordförandeskapsprioriteringar syftar således till att fokusera på och möta de utmaningar vi har framför oss. På säkerhets\- och försvarsområdet har Sverige tre huvudprioriteringar, nämligen:
+Vid denna avgörande tidpunkt för vår union vilar ansvaret tungt på ordförandeskapet. Sveriges ordförandeskapsprioriteringar syftar således till att fokusera på och möta de utmaningar vi har framför oss. På säkerhets- och försvarsområdet har Sverige tre huvudprioriteringar, nämligen:
 
 * stöd till Ukraina,
 * genomförandet av den strategiska kompassen och
@@ -64,18 +64,18 @@ Vid denna avgörande tidpunkt för vår union vilar ansvaret tungt på ordföran
 
 Under de senaste tre månaderna har vi presenterat två stödpaket till ett nettovärde av ca 750 miljoner euro:
 
-* ett vinter\- och luftförsvarspaket i november och
+* ett vinter- och luftförsvarspaket i november och
 * ett markstridspaket som presenterades förra veckan.
 
 Vi gjorde detta för att stödja Ukraina med de tunga och avancerade vapensystem som de är i desperat behov av. Men även på grund av att vi visste att ordförandeskapet skulle innebära att vi behövde föregå med gott exempel när det gällde militärt stöd till Ukraina.
 
-Det senaste paketet kommer bland annat att innehålla upp till 50 stridsfordon (CV90\) för att stödja uppbyggnaden av mekaniserade enheter i Ukraina, samt ytterligare pansarvärnsvapen som Carl Gustaf, pansarskott m/86 och Robot 57\. Förberedelser för att ge artillerisystemet Archer till Ukraina pågår. Vi för även en konstruktiv dialog med övriga medlemmar i användargruppen för den främsta stridsvagnen Leopard, och har även för avsikt att bidra till denna insats.
+Det senaste paketet kommer bland annat att innehålla upp till 50 stridsfordon (CV90) för att stödja uppbyggnaden av mekaniserade enheter i Ukraina, samt ytterligare pansarvärnsvapen som Carl Gustaf, pansarskott m/86 och Robot 57. Förberedelser för att ge artillerisystemet Archer till Ukraina pågår. Vi för även en konstruktiv dialog med övriga medlemmar i användargruppen för den främsta stridsvagnen Leopard, och har även för avsikt att bidra till denna insats.
 
 Förra hösten inleddes Europeiska unionens uppdrag för militärt bistånd till Ukraina (Eumam Ukraina) och det var ett viktig steg för EU:s insatser. De flesta medlemsstaterna bidrar till utbildningen av ukrainska soldater på EU:s territorium. Sverige bidrar till Eumam Ukraina med instruktörer och stabsofficerare.
 
 I linje med denna prioritering kommer Ukraina att stå högst upp på dagordningen vid försvarsministrarnas informella möte i Stockholm i mars. Det skulle kunna ge en tidig lägesbild över Eumam Ukraina, för att säkerställa att uppdraget kan tillgodose Ukrainas behov.
 
-Den europeiska fredsfaciliteten spelar en avgörande roll för att underlätta medlemsstaternas donationer av försvarsmateriel till Ukraina. Nu pågår det välbehövliga arbetet med att öka anslaget till den europeiska fredsfaciliteten med 2 miljarder euro, vilket vi kommer att stödja under vårt EU\-ordförandeskap.
+Den europeiska fredsfaciliteten spelar en avgörande roll för att underlätta medlemsstaternas donationer av försvarsmateriel till Ukraina. Nu pågår det välbehövliga arbetet med att öka anslaget till den europeiska fredsfaciliteten med 2 miljarder euro, vilket vi kommer att stödja under vårt EU-ordförandeskap.
 
 Sammanfattningsvis, är det svenska ordförandeskapets övergripande ambition att stödet till Ukraina ska stå på dagordningen vid alla relevanta möten, både i Sverige och Bryssel.
 
@@ -91,11 +91,11 @@ Jag kommer att gå in mer på vart och ett av den strategiska kompassens avsnitt
 
 **Handling**
 
-Inom ramen för avsnittet om handling kommer vi att stödja utvecklingen och genomförandet av EU\-kapaciteten för snabba insatser (EU RDC). Det svenska ordförandeskapet är medvetet om behovet av att ytterligare stärka den militära planerings\- och ledningskapaciteten (MPCC) så att den, från och med 2025, kan sättas in för att leda uppdrag och insatser inom EU\-kapaciteten för snabba insatser.
+Inom ramen för avsnittet om handling kommer vi att stödja utvecklingen och genomförandet av EU-kapaciteten för snabba insatser (EU RDC). Det svenska ordförandeskapet är medvetet om behovet av att ytterligare stärka den militära planerings- och ledningskapaciteten (MPCC) så att den, från och med 2025, kan sättas in för att leda uppdrag och insatser inom EU-kapaciteten för snabba insatser.
 
-Under ordförandeskapet kommer vi dessutom att fokusera på den civila GSFP\-pakten. Fokusera på stöd vad gäller rättsstatens principer och reformer av säkerhetssektorn, men konkret stöd till Ukraina, Georgien och Moldavien är även av stor vikt.
+Under ordförandeskapet kommer vi dessutom att fokusera på den civila GSFP-pakten. Fokusera på stöd vad gäller rättsstatens principer och reformer av säkerhetssektorn, men konkret stöd till Ukraina, Georgien och Moldavien är även av stor vikt.
 
-Kopplingen mellan inre och yttre säkerhet är verkligen ett område där EU, i linje med den integrerade strategin, kan skapa ett mervärde och göra skillnad som garant för säkerheten. Den civila GSFP\-pakten kommer ytterligare att föra den här frågan framåt, och även bidra till att ökad motståndskraft hos vissa av våra partner.
+Kopplingen mellan inre och yttre säkerhet är verkligen ett område där EU, i linje med den integrerade strategin, kan skapa ett mervärde och göra skillnad som garant för säkerheten. Den civila GSFP-pakten kommer ytterligare att föra den här frågan framåt, och även bidra till att ökad motståndskraft hos vissa av våra partner.
 
 **Säkerhet**
 
@@ -119,7 +119,7 @@ En konsolidering kommer att äga rum, om och när kundbeteendet ändras. Det vi 
 
 **Partnerskap**
 
-Avsnittet om partnerskap i den strategiska kompassen är en av de tre huvudprioriteringarna för vårt EU\-ordförandeskap. Jag är övertygad om att ni alla känner till den här prioriteringen och dess betydelse när det gäller att bygga upp säkerheten. Det här är någonting som Sverige har förespråkat under lång tid, och vi menar att förutsättningarna för detta är bättre än någonsin tidigare.
+Avsnittet om partnerskap i den strategiska kompassen är en av de tre huvudprioriteringarna för vårt EU-ordförandeskap. Jag är övertygad om att ni alla känner till den här prioriteringen och dess betydelse när det gäller att bygga upp säkerheten. Det här är någonting som Sverige har förespråkat under lång tid, och vi menar att förutsättningarna för detta är bättre än någonsin tidigare.
 
 Behovet av enighet och samverkan mellan olika försvarssamarbeten har aldrig någonsin varit större. Vi behöver, i likhet med vad som anges i den strategiska kompassen, stärka vårt partnersamarbete för att hantera gemensamma hot och utmaningar.
 

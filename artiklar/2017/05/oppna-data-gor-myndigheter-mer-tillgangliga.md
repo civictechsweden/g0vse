@@ -2,7 +2,6 @@
 
 Öppna data för nya lösningar var en av punkterna på Nationella innovationsrådets möte den 15 maj. Barbara Ubaldi, projektledare från OECD som arbetar med digital förvaltning och öppen data, var inbjuden till mötet för att presentera hur andra länder arbetar med öppna data. Regeringen har givit OECD i uppdrag att granska och komma med förslag på hur Sverige kan öka takten i att utnyttja och tillgängliggöra data i offentlig sektor.
 
-
 **Vilka är de främsta fördelarna med att samhället och den privata företagssektorn får tillgång till myndighetsdata?**
 
 Tillgång till myndighetsdata, förutsatt att dessa data har gjorts tillgängliga som öppna data, kan leda till en rad olika fördelar för både samhället och ekonomin. Detta inbegriper att ge medborgare, företag och civilsamhället möjlighet till ett ökat och mer demokratiskt engagemang i myndigheternas verksamhet, till exempel i politikens utformning och genomförande, men även insyn i myndighetsbeslut; fler möjligheter till innovation när det gäller utformning och tillhandahållande av tjänster av mervärde för leverantörer och användare, samt möjligheten att skapa innovativa företag och uppstartsföretag.

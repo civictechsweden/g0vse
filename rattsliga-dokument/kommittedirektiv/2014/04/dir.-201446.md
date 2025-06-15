@@ -18,4 +18,4 @@ Kommittén ska bl.a.
 * göra en översyn av de statliga insatserna för företagsfrämjande,
 * utreda möjligheterna till ökad rörlighet mellan akademi, näringsliv och företagande.
 
-Uppdraget ska redovisas senast den 15 augusti 2016\.
+Uppdraget ska redovisas senast den 15 augusti 2016.

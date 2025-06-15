@@ -1,7 +1,6 @@
 # Uppdrag till länsstyrelserna att ta fram en plan inför eventuella nya utbrott av covid-19
 
-Regeringen uppdrar åt länsstyrelserna att planera för insatser som kan bli aktuella för landets länsstyrelser i olika skeden av eventuella nya utbrott av covid\-19\.
-
+Regeringen uppdrar åt länsstyrelserna att planera för insatser som kan bli aktuella för landets länsstyrelser i olika skeden av eventuella nya utbrott av covid-19.
 
 ## Utgår från Folkhälsomyndighetens scenarier
 
@@ -15,4 +14,4 @@ Länsstyrelserna tar hänsyn till genomförda och pågående insatser samt uppdr
 
 Uppdraget samordnas av länsstyrelsen i Halland och genomförs tillsammans med Folkhälsomyndigheten, Socialstyrelsen, Läkemedelsverket och Myndigheten för samhällsskydd och beredskap vilka fått liknande uppdrag. Länsstyrelsen i Halland samtalar med Sveriges Kommuner och Regioner.
 
-Länsstyrelsen i Halland redovisar uppdraget till Socialdepartementet senast den 1 september 2020\.
+Länsstyrelsen i Halland redovisar uppdraget till Socialdepartementet senast den 1 september 2020.

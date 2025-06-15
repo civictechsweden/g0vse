@@ -4,7 +4,6 @@ Järva, 29 maj 2024
 
 Det talade ordet gäller.
 
-
 Stort tack för möjligheten att vara här i dag.
 
 När min familj kom till Sverige var jag tre år gammal. Vi lämnade ett land med religiöst och politiskt förtryck för att få leva i demokrati, frihet och öppenhet. Mina föräldrar lämnade allt som för dem var kärt och känt, för att möjliggöra ett liv i frihet. För sig själva, och framför allt för sina döttrar. Tack vare mina föräldrars mod så vet jag idag att min röst tillhör mig, och ingen annan.
@@ -40,6 +39,6 @@ Därför ska bildning inte vara en lyx för några utvalda, utan en allemansrät
 
 Vi står nu inför ett Europaparlamentsval. Alla svenska medborgare har då en möjlighet att påverka vår gemensamma framtid. Men demokrati handlar om mer än rösträtt. I en stark och hållbar demokrati har alla förmågan att fatta beslut på sakliga grunder och med korrekt information. Och det kan den bildade medborgaren. Det är frihet på riktigt.
 
-Till sist: jag är inte här för att valtala. Men jag vill säga en sak som är viktig för mig: Om du och jag har varsin röst. Och om du inte använder din. Då blir din röst inte hörd, och min får dubbelt så stort genomslag. Det är inte så det är tänkt att fungera i en demokrati. Så jag vill be dig om en sak. Om du har rätt att rösta i EU\-valet, gör det. Ge inte bort din röst, utan använd den. För den tillhör dig, och ingen annan.
+Till sist: jag är inte här för att valtala. Men jag vill säga en sak som är viktig för mig: Om du och jag har varsin röst. Och om du inte använder din. Då blir din röst inte hörd, och min får dubbelt så stort genomslag. Det är inte så det är tänkt att fungera i en demokrati. Så jag vill be dig om en sak. Om du har rätt att rösta i EU-valet, gör det. Ge inte bort din röst, utan använd den. För den tillhör dig, och ingen annan.
 
 Tack!

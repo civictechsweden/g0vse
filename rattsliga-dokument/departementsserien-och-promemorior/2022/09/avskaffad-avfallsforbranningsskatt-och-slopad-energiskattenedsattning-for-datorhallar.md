@@ -4,4 +4,4 @@ Rysslands invasion av Ukraina och agerande på energimarknaden har kraftigt änd
 
 I promemorian föreslås dels att avfallsförbränningsskatten avskaffas, dels att skattenedsättningen för energiskatt på elektrisk kraft som förbrukas i datorhallar slopas. Även möjligheten till återbetalning av skatt på elektrisk kraft som förbrukats för framställning av värme eller kyla som levererats för förbrukning i datorhallar slopas.
 
-Avfallsförbränningsskatten föreslås avskaffas den 1 januari 2023\. Skattenedsättningen för energiskatt på elektrisk kraft som förbrukas i datorhallar föreslås slopas fr.o.m. den 1 juli 2023\.
+Avfallsförbränningsskatten föreslås avskaffas den 1 januari 2023. Skattenedsättningen för energiskatt på elektrisk kraft som förbrukas i datorhallar föreslås slopas fr.o.m. den 1 juli 2023.

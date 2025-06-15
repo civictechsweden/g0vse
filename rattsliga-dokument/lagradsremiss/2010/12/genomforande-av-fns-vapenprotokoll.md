@@ -8,4 +8,4 @@ Den svenska regleringen av vapen håller en hög skyddsnivå internationellt set
 
 Den mest ingripande förändringen gäller krav på märkning av skjutvapen, vapendelar och förpackningar med ammunition. För närvarande saknas i svensk rätt regler om märkning av sådana föremål. Förslagen i remissen innebär i korthet att skjutvapen och vapendelar samt förpackningar med ammunition ska märkas vid tillverkningen på ett närmare angivet sätt. Vidare föreslås att skjutvapen och vapendelar som förs in till Sverige ska förses med märkning. Den som bryter mot dessa bestämmelser ska kunna dömas till ansvar. Detsamma gäller den som förfalskar eller olovligen utplånar, avlägsnar eller ändrar angiven märkning. Det föreslås även att skjutvapen och vapendelar som har varit föremål för sådana brott ska kunna förverkas.
 
-Lagförslagen föreslås träda i kraft den 1 juli 2011\.
+Lagförslagen föreslås träda i kraft den 1 juli 2011.

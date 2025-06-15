@@ -4,7 +4,6 @@ Regeringens utrikesdeklaration presenterades vid 2017 års utrikespolitiska deba
 
 Det talade ordet gäller.
 
-
 Herr/fru talman, ärade ledamöter, representanter för den diplomatiska kåren, kära åhörare,
 
 Omvärlden och Sverige befinner sig i en paradoxal tid med snabba och stora förändringar.
@@ -31,13 +30,13 @@ För att navigera bland dagens utmaningar måste vi se till hur fred, frihet och
 
 Utvecklingen inom EU och i vår omvärld sätter samarbetet på prov. Den ekonomiska återhämtningen är ojämn; främlingsfientliga och populistiska krafter har stärkts.
 
-I höst står statsministern och EU\-kommissionens ordförande värd för ett toppmöte i Göteborg om rättvisa jobb och tillväxt. Vi behöver ett mer socialt Europa, med fungerande arbetsmarknader, effektiva och hållbara trygghetssystem och ökad dialog mellan arbetsmarknadens parter.
+I höst står statsministern och EU-kommissionens ordförande värd för ett toppmöte i Göteborg om rättvisa jobb och tillväxt. Vi behöver ett mer socialt Europa, med fungerande arbetsmarknader, effektiva och hållbara trygghetssystem och ökad dialog mellan arbetsmarknadens parter.
 
 Migrationsfrågorna har blivit allt viktigare och EU måste agera gemensamt för ett hållbart europeiskt asylsystem där alla medlemsstater delar på ansvaret. Vi behöver ett ökat fokus på flyktens grundorsaker och konfliktförebyggande samt ökat stöd till UNHCR och IOM.
 
 Regeringen beklagar att Storbritannien har valt att lämna EU och vi vill ha fortsatt goda relationer. När förhandlingar inleds kommer vi att agera utifrån vad som bäst tjänar det gemensamma europeiska samarbetet och Sveriges intressen.
 
-EU är vår viktigaste utrikespolitiska arena. Unionens globala strategi får stor betydelse för förmågan att hantera kriser både med civila och militära medel. Sverige ska aktivt verka för att stärka den gemensamma säkerhets\- och försvarspolitiken. Vi välkomnar det utvecklade samarbetet mellan EU och Nato och vill att EU ska samverka ännu närmare med FN.
+EU är vår viktigaste utrikespolitiska arena. Unionens globala strategi får stor betydelse för förmågan att hantera kriser både med civila och militära medel. Sverige ska aktivt verka för att stärka den gemensamma säkerhets- och försvarspolitiken. Vi välkomnar det utvecklade samarbetet mellan EU och Nato och vill att EU ska samverka ännu närmare med FN.
 
 Regeringen prioriterar såväl ett stärkt Östligt partnerskap som en fortsatt utvidgningsprocess på Västra Balkan och med Turkiet.
 
@@ -49,11 +48,11 @@ Herr/fru talman,
 
 Gemensam säkerhet – att bygga säkerhet i samverkan med andra länder och organisationer – är en hörnsten i svensk säkerhetspolitik.
 
-Sveriges utrikes\- och säkerhetspolitik bygger på sammanhållning i EU och ökat samarbete på bred front: i Norden och Östersjöområdet, inom FN och OSSE, med Nato och genom en stark transatlantisk länk.
+Sveriges utrikes- och säkerhetspolitik bygger på sammanhållning i EU och ökat samarbete på bred front: i Norden och Östersjöområdet, inom FN och OSSE, med Nato och genom en stark transatlantisk länk.
 
-Sveriges säkerhetspolitiska linje ligger fast. Vår militära alliansfrihet tjänar oss väl och bidrar till stabilitet och säkerhet i norra Europa. Den förutsätter en aktiv, bred och ansvarsfull utrikes\- och säkerhetspolitik i kombination med fördjupade försvarssamarbeten, särskilt med Finland, och en trovärdig nationell försvarsförmåga.
+Sveriges säkerhetspolitiska linje ligger fast. Vår militära alliansfrihet tjänar oss väl och bidrar till stabilitet och säkerhet i norra Europa. Den förutsätter en aktiv, bred och ansvarsfull utrikes- och säkerhetspolitik i kombination med fördjupade försvarssamarbeten, särskilt med Finland, och en trovärdig nationell försvarsförmåga.
 
-Sverige kommer inte att förhålla sig passivt om en katastrof eller ett angrepp skulle drabba ett annat EU\-land eller ett nordiskt land. Vi förväntar oss att dessa länder agerar på samma sätt om Sverige drabbas. Vårt land ska därför kunna ge och ta emot stöd, såväl civilt som militärt.
+Sverige kommer inte att förhålla sig passivt om en katastrof eller ett angrepp skulle drabba ett annat EU-land eller ett nordiskt land. Vi förväntar oss att dessa länder agerar på samma sätt om Sverige drabbas. Vårt land ska därför kunna ge och ta emot stöd, såväl civilt som militärt.
 
 Vår första försvarslinje utgörs av en utrikespolitik där vi verkar genom diplomati, medling, konfliktförebyggande och förtroendeskapande åtgärder. Så ökar Sveriges möjligheter att verka för avspänning och stabilitet såväl i vårt närområde som globalt.
 
@@ -67,7 +66,7 @@ Herr/fru talman,
 
 I ett allvarligt världsläge uppmuntrar regeringen till ett ökat ansvarstagande från globala aktörer som USA, Kina, Indien och Ryssland – såväl sinsemellan som gentemot oss andra.
 
-Rysslands agerande, när det tar sig uttryck i militära handlingar, desinformation och påverkansoperationer, är emellertid aggressivt och ökar spänningarna. Vårt svar vägleds av principer och värderingar; präglas av fasthet, tydlighet och långsiktighet; och främjar EU\-enighet. Grunden för vår hållning är viljan att värna folkrätten och den europeiska säkerhetsordningen.
+Rysslands agerande, när det tar sig uttryck i militära handlingar, desinformation och påverkansoperationer, är emellertid aggressivt och ökar spänningarna. Vårt svar vägleds av principer och värderingar; präglas av fasthet, tydlighet och långsiktighet; och främjar EU-enighet. Grunden för vår hållning är viljan att värna folkrätten och den europeiska säkerhetsordningen.
 
 Även den inrikespolitiska utvecklingen i Ryssland är negativ, med auktoritärt styre, ett civilsamhälle under press och bristande respekt för mänskliga rättigheter.
 
@@ -91,9 +90,9 @@ Asien är tillväxtmotorn i den globala ekonomin och här investeras stort i fra
 
 Relationen med Kina utvecklas men de regionala säkerhetspolitiska spänningarna och situationen vad gäller demokrati och mänskliga rättigheter oroar.
 
-Sveriges samarbete med Indien fördjupas. EU:s frihandelsförhandlingar med flera ASEAN\-länder välkomnas och vi verkar för ett ambitiöst avtal med Japan.
+Sveriges samarbete med Indien fördjupas. EU:s frihandelsförhandlingar med flera ASEAN-länder välkomnas och vi verkar för ett ambitiöst avtal med Japan.
 
-Sverige fortsätter arbetet för en fredlig och hållbar utveckling i Afghanistan. Vi behåller vårt civila och militära engagemang och stödjer kvinnors deltagande i freds\- och försoningsprocesser.
+Sverige fortsätter arbetet för en fredlig och hållbar utveckling i Afghanistan. Vi behåller vårt civila och militära engagemang och stödjer kvinnors deltagande i freds- och försoningsprocesser.
 
 Under 2017 avser regeringen fatta beslut om en ny strategi för utvecklingssamarbetet med Myanmar. Den kan bidra till en fredlig, inkluderande och demokratisk utveckling i landet, inklusive för minoritetsgruppen rohingya.
 
@@ -109,7 +108,7 @@ FN måste spela en central roll. Vår plats i säkerhetsrådet erbjuder ett foru
 
 Regeringen avser att under våren ta fram en ny femårig biståndsstrategi för Irak. Vårt bidrag till den globala koalitionen mot ISIL/Daesh dubbleras från 35 till 70 personer.
 
-I år har det gått 50 år sedan Palestina ockuperades. Sverige fortsätter verka för en lösning i Israel\-Palestinakonflikten och tillsätter ett särskilt sändebud.
+I år har det gått 50 år sedan Palestina ockuperades. Sverige fortsätter verka för en lösning i Israel-Palestinakonflikten och tillsätter ett särskilt sändebud.
 
 Att hopp kan övergå i förtvivlan märktes under mitt besök i Palestina i december, och det präglar de samråd som Sverige har med närmare 150 israeliska och palestinska civilsamhällesorganisationer.
 
@@ -119,7 +118,7 @@ Herr/fru talman,
 
 Sveriges feministiska utrikespolitik ger resultat för kvinnor, flickor och hela samhällen.
 
-Vårt arbete har bidragit till att ett 20\-tal länder har tagit fram lagar och förslag för stärkt jämställdhet; att hundratusentals kvinnor och flickor har undgått osäkra aborter och oönskade graviditeter; att ett 90\-tal lokala samhällen har övergett kvinnlig könsstympning och att 65 länder och organisationer har gjort åtaganden mot könsrelaterat våld. Prioriteringen av sexuell och reproduktiv hälsa och rättigheter förstärks.
+Vårt arbete har bidragit till att ett 20-tal länder har tagit fram lagar och förslag för stärkt jämställdhet; att hundratusentals kvinnor och flickor har undgått osäkra aborter och oönskade graviditeter; att ett 90-tal lokala samhällen har övergett kvinnlig könsstympning och att 65 länder och organisationer har gjort åtaganden mot könsrelaterat våld. Prioriteringen av sexuell och reproduktiv hälsa och rättigheter förstärks.
 
 Regeringen står fast vid att biståndet under mandatperioden ska uppgå till en procent av svensk BNI. De principer som ska ligga till grund för vårt bistånd har presenterats i en skrivelse till riksdagen.
 
@@ -131,13 +130,13 @@ Herr/fru talman,
 
 Global Deal följs upp i samarbete med bland annat ILO och OECD.
 
-I en tid när protektionismen ökar och frihandeln ifrågasätts värnar Sverige en fri och rättvis världshandel där WTO:s multilaterala handelssystem utgör stommen. Regeringen ska verka för att EU ingår progressiva frihandelsavtal där sociala rättigheter, miljö\- och djurskydd samt människors hälsa värnas.
+I en tid när protektionismen ökar och frihandeln ifrågasätts värnar Sverige en fri och rättvis världshandel där WTO:s multilaterala handelssystem utgör stommen. Regeringen ska verka för att EU ingår progressiva frihandelsavtal där sociala rättigheter, miljö- och djurskydd samt människors hälsa värnas.
 
 Sverige är ett av världens mest konkurrenskraftiga länder och den svenska exporten sysselsätter nästan en och en halv miljon människor. 71 procent av svensk export går till EU. Vi bidrar därför till att fördjupa EU:s inre marknad. Vi vill riva handelshinder, dra nytta av den fria rörligheten för varor och tjänster, tillvarata de möjligheter som den alltmer digitaliserade ekonomin erbjuder och därmed främja nya affärsmodeller samt ökad innovation. Vår utrikeshandel fortsätter att stärkas genom Sveriges exportstrategi, regionala exportcentra och Team Sweden.
 
-Sverige ska upprätthålla en strikt och effektiv exportkontroll av krigsmateriel, och regeringen återkommer med ett lagförslag under våren i syfte att skärpa reglerna för export till icke\-demokratier.
+Sverige ska upprätthålla en strikt och effektiv exportkontroll av krigsmateriel, och regeringen återkommer med ett lagförslag under våren i syfte att skärpa reglerna för export till icke-demokratier.
 
-Utrikesförvaltningens stöd till svenskar som befinner sig i nöd\- och krissituationer utomlands, liksom arbetet med enskilda konsulära fall, är en verksamhet som aldrig upphör och som alltid prioriteras, oavsett vilken offentlig uppmärksamhet ärendet ges.
+Utrikesförvaltningens stöd till svenskar som befinner sig i nöd- och krissituationer utomlands, liksom arbetet med enskilda konsulära fall, är en verksamhet som aldrig upphör och som alltid prioriteras, oavsett vilken offentlig uppmärksamhet ärendet ges.
 
 Vårt arbete för att stärka respekten för de mänskliga rättigheterna, demokratin och rättsstatens principer presenterades i den skrivelse som överlämnades till riksdagen i december. I vår presenteras nya landsspecifika rapporter om läget på dessa områden i alla världens regioner.
 
@@ -147,7 +146,7 @@ Det fria ordet är under attack världen över, journalister och människorätts
 
 Herr/fru talman, ärade ledamöter
 
-Oxford Dictionaries utsåg "postsanning" till årets ord 2016\.
+Oxford Dictionaries utsåg "postsanning" till årets ord 2016.
 
 En förutsättning för såväl en fungerande demokrati som ett konstruktivt samarbete mellan stater är att vi talar med och inte om varandra, hedrar överenskommelser och låter idéer tävla. Att forskning, fakta och medier respekteras och att vi erkänner andras kloka poänger.
 

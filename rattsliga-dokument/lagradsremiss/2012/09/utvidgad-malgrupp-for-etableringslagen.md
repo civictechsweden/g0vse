@@ -4,4 +4,4 @@ I lagrådsremissen föreslås att fler anhöriga till flyktingar och andra skydd
 
 Ändringen medför ett undantag från det villkor som föreskriver att den anhörige, för att omfattas av lagen, ska ha ansökt om uppehållstillstånd inom två år från det att anknytningspersonen först togs emot i en kommun.
 
-Ändringen föreslås träda i kraft den 1 februari 2013\.
+Ändringen föreslås träda i kraft den 1 februari 2013.

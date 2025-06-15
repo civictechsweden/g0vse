@@ -10,6 +10,6 @@ Utredaren ska bland annat
 * analysera om det är lämpligt att införa hemlig dataavläsning som ett nytt straffprocessuellt tvångsmedel, och
 * lämna fullständiga förslag till författningsändringar eller andra förändringar oavsett vad analysen föranleder.
 
-Uppdraget ska redovisas senast den 13 november 2017\.
+Uppdraget ska redovisas senast den 13 november 2017.
 
 [Pressmeddelande: Regeringen utreder hemlig dataavläsning](/pressmeddelanden/2016/05/regeringen-utreder-hemlig-dataavlasning/)

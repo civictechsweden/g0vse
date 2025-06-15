@@ -4,4 +4,4 @@ De svenska medborgare som behöver ansöka om provisoriskt pass kan kontakta amb
 
 För mer information:
 
- [Sveriges ambassad i Libanon (Sweden Abroad).](https://www.swedenabroad.se/sv/utlandsmyndigheter/libanon--beirut/aktuellt/nyhet/tidsbokning-pass/ "Sveriges ambassad i Libanon (Sweden Abroad)")
+[Sveriges ambassad i Libanon (Sweden Abroad).](https://www.swedenabroad.se/sv/utlandsmyndigheter/libanon--beirut/aktuellt/nyhet/tidsbokning-pass/ "Sveriges ambassad i Libanon (Sweden Abroad)")

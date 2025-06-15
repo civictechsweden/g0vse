@@ -2,8 +2,7 @@
 
 Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Kuba samt en länk till rapporten i sin helhet.
 
-
-Kuba är en enpartistat där de medborgerliga och politiska rättigheterna är allvarligt kringskurna. Efter bröderna Fidel och Raúl Castros 59 år vid presidentposten valdes Miguel Díaz\-Canel i april 2018 till ny president av nationalförsamlingen. Regimens karaktär har emellertid inte förändrats. Raúl Castro sitter kvar som förstesekreterare i kommunistpartiet fram till 2021\.
+Kuba är en enpartistat där de medborgerliga och politiska rättigheterna är allvarligt kringskurna. Efter bröderna Fidel och Raúl Castros 59 år vid presidentposten valdes Miguel Díaz-Canel i april 2018 till ny president av nationalförsamlingen. Regimens karaktär har emellertid inte förändrats. Raúl Castro sitter kvar som förstesekreterare i kommunistpartiet fram till 2021.
 
 I den nya konstitutionen som antogs genom en folkomröstning i februari 2019 angavs att de mänskliga rättigheterna är universella och okränkbara. Det rättsliga skyddet stärktes på flera områden, men det oåterkalleliga socialistiska enpartisystemet kvarstår.
 

@@ -4,4 +4,4 @@ Skogens dag 2024 har temat Omställning för en hållbar framtid. Under dagen ko
 
 Dagen genomförs i samverkan mellan Skogstekniska klustret, Länsstyrelsen i Västerbotten, Sveriges lantbruksuniversitet och Umeå universitet med syftet att stärka kunskapen och drivkraften som finns inom det skogliga området.
 
-Media som är intresserade kan kontakta pressekreteraren för mer information (se presskontakt). Media som är intresserade av att lyssna på landsbygdsministerns tal på plats kan kontakta projektledare Anneli Lundmark via e\-post: [anneli.lundmark@skogstekniskaklustret.se](mailto:anneli.lundmark@skogstekniskaklustret.se).
+Media som är intresserade kan kontakta pressekreteraren för mer information (se presskontakt). Media som är intresserade av att lyssna på landsbygdsministerns tal på plats kan kontakta projektledare Anneli Lundmark via e-post: [anneli.lundmark@skogstekniskaklustret.se](mailto:anneli.lundmark@skogstekniskaklustret.se).

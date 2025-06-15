@@ -5,5 +5,5 @@ På Ekofinrådets möte den 13 juli 2018 finns följande punkter på dagordninge
 * Omvänd skattskyldighet
 * Aktuella lagstiftningsförslag om finansiella tjänster
 * Presentation av ordförandeskapets arbetsprogram
-* (ev.) Uppföljning av Europeiska rådets möte 28\-29 juni 2018
-* Mandat inför G20\-mötet den 21\-22 juli i Buenos Aires
+* (ev.) Uppföljning av Europeiska rådets möte 28-29 juni 2018
+* Mandat inför G20-mötet den 21-22 juli i Buenos Aires

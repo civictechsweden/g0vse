@@ -9,4 +9,4 @@ explosiva varor. En kommun ska få sluta avtal med ackrediterade organ
 om att det ackrediterade organet ska bistå kommunen i kommunens tillsyn.
 Ett sådant avtal ska inte få omfatta uppgifter som innefattar myndighetsutövning.
 
-Lagändringarna föreslås träda i kraft den 18 november 2017\.
+Lagändringarna föreslås träda i kraft den 18 november 2017.

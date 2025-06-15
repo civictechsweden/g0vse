@@ -6,4 +6,4 @@ Anställningsformen biträdande lektor är en ingångsanställning till den akad
 
 Förhoppningen är att ändringen ska leda till en större flexibilitet inom sektorn och ett större utbyte av doktorer mellan lärosätena.
 
-Förordningsändringen träder i kraft den 1 november 2024\.
+Förordningsändringen träder i kraft den 1 november 2024.

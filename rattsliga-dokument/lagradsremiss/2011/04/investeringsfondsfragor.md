@@ -6,4 +6,4 @@ Direktivet, som ersätter ett äldre direktiv på området, innehåller regler f
 
 I lagrådsremissen föreslås också vissa andra ändringar än de som är direkt motiverade av direktivet. Dessa förslag syftar främst till att möjliggöra effektivisering av svensk fondverksamhet.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2011\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2011.

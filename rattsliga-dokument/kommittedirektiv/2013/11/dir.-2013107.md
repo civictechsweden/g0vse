@@ -6,4 +6,4 @@ Mot bakgrund av sin utredning ska utredaren analysera om det har förekommit str
 
 Uppdraget syftar inte till att bedöma eller uttala sig om enskildas ansvar för eventuella brott eller annat som kunnat eller kan komma att prövas av domstol. Utredningen ska inte heller överpröva domstolars, myndigheters eller andra offentliga organs beslut.
 
-Uppdraget ska redovisas senast den 29 januari 2015\.
+Uppdraget ska redovisas senast den 29 januari 2015.

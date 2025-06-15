@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om informationssäkerhet vid universitet och högskolor – hanteringen av skyddsvärda forskningsdata
 
-I skrivelsen redovisar regeringen sin bedömning med anledning av Riksrevisionens rapport om universitet och högskolor bedriver ett effektivt informationssäkerhetsarbete för att hantera skyddsvärda forskningsdata. (RiR 2023:20\)
+I skrivelsen redovisar regeringen sin bedömning med anledning av Riksrevisionens rapport om universitet och högskolor bedriver ett effektivt informationssäkerhetsarbete för att hantera skyddsvärda forskningsdata. (RiR 2023:20)
 
 Riksrevisionen har granskat om universitet och högskolor bedriver ett
 effektivt informationssäkerhetsarbete för att hantera skyddsvärda forskningsdata.

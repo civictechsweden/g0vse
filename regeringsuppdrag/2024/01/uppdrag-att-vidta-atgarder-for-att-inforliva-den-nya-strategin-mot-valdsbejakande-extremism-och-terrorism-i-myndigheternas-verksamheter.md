@@ -1,7 +1,6 @@
 # Uppdrag att vidta åtgärder för att införliva den nya strategin mot våldsbejakande extremism och terrorism i myndigheternas verksamheter
 
-Regeringen ger Brottsförebyggande rådet (Brå) genom Center mot våldsbejakande extremism (CVE), Myndigheten för samhällsskydd och beredskap (MSB), Polismyndigheten och Säkerhetspolisen i uppdrag att vidta åtgärder för att införliva den strategi som läggs fram i skrivelsen Nationell strategi mot våldsbejakande extremism – förebygga, förhindra, skydda och hantera (skr. 2023/24:56\) i sina respektive verksamheter.
-
+Regeringen ger Brottsförebyggande rådet (Brå) genom Center mot våldsbejakande extremism (CVE), Myndigheten för samhällsskydd och beredskap (MSB), Polismyndigheten och Säkerhetspolisen i uppdrag att vidta åtgärder för att införliva den strategi som läggs fram i skrivelsen Nationell strategi mot våldsbejakande extremism – förebygga, förhindra, skydda och hantera (skr. 2023/24:56) i sina respektive verksamheter.
 
 Regeringen vill på så sätt säkerställa att myndigheternas arbete kommer att bedrivas i linje med de inriktningar av det fortsatta arbetet som strategin anger. Även om de fyra myndigheterna har olika uppgifter och ansvarsområden behöver strategins områden hanteras som en helhet för att arbetet ska kunna bli framgångsrikt. Detta gäller särskilt i myndigheternas stöd till kommuner för åtgärder inom
 strategins olika områden.

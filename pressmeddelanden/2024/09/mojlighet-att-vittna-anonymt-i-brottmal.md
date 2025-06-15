@@ -1,6 +1,6 @@
 # Möjlighet att vittna anonymt i brottmål
 
-Läget när det gäller den organiserade brottsligheten är fortsatt allvarligt. Konsekvenserna av denna systemhotande brottslighet är förödande, både för de inblandade och för samhället i stort. Det handlar om enorma integritets\- och trygghetsförluster. Men det handlar också om människor som i allt större utsträckning är rädda för att delta i förundersökningar och brottmålsrättegångar på det sätt som krävs för att kunna lagföra brottslingarna.
+Läget när det gäller den organiserade brottsligheten är fortsatt allvarligt. Konsekvenserna av denna systemhotande brottslighet är förödande, både för de inblandade och för samhället i stort. Det handlar om enorma integritets- och trygghetsförluster. Men det handlar också om människor som i allt större utsträckning är rädda för att delta i förundersökningar och brottmålsrättegångar på det sätt som krävs för att kunna lagföra brottslingarna.
 
  – De kriminella gängen hotar och tystar vittnen. Det innebär att många brottsutredningar som rör de kriminella nätverken blir svåra att ro i land. Det måste vi ändra på. Och det gör vi nu. Tystnadskulturen ska brytas och skyddet för vittnen stärkas. Det är också avgörande för tilliten till vår rättsordning att människor kan erbjudas trygga former för att prata med rättsväsendet, säger justitieminister Gunnar Strömmer.
 
@@ -10,6 +10,6 @@ Regleringen föreslås också innehålla flera rättssäkerhetsgarantier: rätte
 
 Efter synpunkter från Lagrådet har förslagen justerats i vissa delar.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2025\.
+Lagändringarna föreslås träda i kraft den 1 januari 2025.
 
 Förslagen bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

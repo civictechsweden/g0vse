@@ -4,4 +4,4 @@ Terrorism utgör en svår påfrestning för drabbade samhällen och hotar såvä
 
 I propositionen föreslår regeringen en ändring i regeringsformen som innebär utökade möjligheter att genom lag begränsa föreningsfriheten när det gäller sammanslutningar som ägnar sig åt eller understöder terrorism. Den föreslagna ändringen möjliggör för lagstiftaren att exempelvis införa en bredare kriminalisering av deltagande i en terroristorganisation eller ett förbud mot terroristorganisationer. Genom ändringen kommer Sverige att kunna bekämpa terrorism på fler och nya sätt.
 
-Lagändringen föreslås träda i kraft den 1 januari 2023\.
+Lagändringen föreslås träda i kraft den 1 januari 2023.

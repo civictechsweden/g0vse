@@ -10,7 +10,7 @@ produktion skapar möjligheter att stärka svensk industris konkurrenskraft, som
 
 ### Fyra fokusområden har valts ut
 
-– Industri 4\.0 – Ta tillvara på digitaliseringens möjligheter.
+– Industri 4.0 – Ta tillvara på digitaliseringens möjligheter.
 
 – Hållbar produktion – Stärk industrins förmåga till hållbar och resurseffektiv produktion.
 
@@ -19,10 +19,10 @@ produktion skapar möjligheter att stärka svensk industris konkurrenskraft, som
 – Testbädd Sverige – Skapa attraktiva innovationsmiljöer.
 
 Strategin lägger grunden för en nationell kraftsamling kring ett antal
-utmaningar som är avgörande för industrins omställningskraft. Staten och det offentliga har en viktig roll. Det offentliga bör agera för att underlätta strukturomvandlingen i industrin där även arbetsmarknadens parter har en viktig roll. Verktyg i det arbetet är till exempel handelspolitiken, ramvillkor som skatter, lagar, förordningar och andra regler, näringslivsfrämjande satsningar, utbildnings\-, innovations\- och forskningssatsningar, offentlig upphandling, att öppna upp offentlig sektor, incitament för testbäddar i verkliga miljöer samt öppna data.
+utmaningar som är avgörande för industrins omställningskraft. Staten och det offentliga har en viktig roll. Det offentliga bör agera för att underlätta strukturomvandlingen i industrin där även arbetsmarknadens parter har en viktig roll. Verktyg i det arbetet är till exempel handelspolitiken, ramvillkor som skatter, lagar, förordningar och andra regler, näringslivsfrämjande satsningar, utbildnings-, innovations- och forskningssatsningar, offentlig upphandling, att öppna upp offentlig sektor, incitament för testbäddar i verkliga miljöer samt öppna data.
 
 Regeringen har antagit två handlingsplaner för Smart industri, den 16
-juni 2016 och den 30 november 2017\. Åtgärderna i handlingsplanerna
+juni 2016 och den 30 november 2017. Åtgärderna i handlingsplanerna
 har i stor utsträckning utformats efter dialog med och inspel från arbetsmarknadens parter, företag och akademi bland annat genom de kontinuerligt återkommande industrisamtalen.
 
 I denna skrivelse presenterar regeringen innehållet i strategin för Smart

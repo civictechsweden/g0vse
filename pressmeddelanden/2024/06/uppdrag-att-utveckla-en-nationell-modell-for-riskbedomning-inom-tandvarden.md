@@ -4,4 +4,4 @@ Riskbedömning inom tandvården syftar till att bedöma framtida risk för att e
 
 – Med en enhetlig modell för riskbedömning inom tandvården stärker vi kontrollen över hur det statliga tandvårdsstödet används. Ytterst handlar det om att ge rätt vård efter behov och att tandvårdens resurser bättre kommer personer med störst behov till del, säger socialminister Jakob Forssmed.
 
-Både Statens beredning för medicinsk och social utvärdering och Tandvårds\- och läkemedelsförmånsverket ska stödja Socialstyrelsen i arbetet med att ta fram riskbedömningsinstrumentet.
+Både Statens beredning för medicinsk och social utvärdering och Tandvårds- och läkemedelsförmånsverket ska stödja Socialstyrelsen i arbetet med att ta fram riskbedömningsinstrumentet.

@@ -10,4 +10,4 @@ skattereduktion för gåva samt ändringar i inkomstskattelagen och skatteförfa
 Vidare föreslås ett slopande av regleringen av när en särskild
 skattedeklaration för skatt enligt den numera upphävda lagen om skatt på vinstsparande m.m. ska lämnas.
 
-Ändringarna föreslås träda i kraft den 1 juli 2019\.
+Ändringarna föreslås träda i kraft den 1 juli 2019.

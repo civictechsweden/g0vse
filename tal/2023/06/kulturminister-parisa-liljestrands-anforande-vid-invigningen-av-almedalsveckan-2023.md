@@ -4,10 +4,9 @@ Visby, 27 juni 2023
 
 Det talade ordet gäller.
 
-
 Tack för inbjudan att få komma hit och inleda den här demokrativeckan, som jag hoppas kommer att vara fylld av viktiga möten, respektfulla debatter och intressanta samtal.
 
-Det är svårt att tänka på förra årets Almedalsvecka, utan att tänka på det tragiska mordet på Ing\-Marie Wieselgren. Jag skulle vilja börja med att vända mig till Lovisa och Lars. Tack för det fina arbete ni gör i Ing\-Maries anda, och tack för att ni använder er sorg till att konstruktivt göra nytta. Det kräver både mod och styrka.
+Det är svårt att tänka på förra årets Almedalsvecka, utan att tänka på det tragiska mordet på Ing-Marie Wieselgren. Jag skulle vilja börja med att vända mig till Lovisa och Lars. Tack för det fina arbete ni gör i Ing-Maries anda, och tack för att ni använder er sorg till att konstruktivt göra nytta. Det kräver både mod och styrka.
 
 För mig är Almedalsveckan en symbol för en av de vackraste aspekterna av svensk demokrati. Här möts vi, alla vi som bygger samhället, i våra olika roller. Beslutsfattare, och de som berörs av besluten. Här är avstånden mellan människor korta, både bokstavligt och bildligt. Samtal och möten som är svåra att få till i vardagen sker spontant på Visbys gator, samtidigt som vi njuter av solen, rosorna och utsikten.
 
@@ -27,7 +26,7 @@ Men – och det här är viktigt – För att vara en del av det stora, politisk
 
 Jag pratar ofta om vikten av läsning, och det är precis det här det handlar om. Ska man på allvar äga det svenska språket, så måste man läsa böcker. Ju tidigare man börjar, ju mer man läser, desto bättre. Det ger inte bara goda betyg och gott ordförråd. Det öppnar en värld av möjligheter. Möjligheter att – som jag gjorde –kunna kliva in i kommunfullmäktige och på allvar göra skillnad som nittonåring. Därför har jag, tillsammans med skolministern, inlett ett omfattande arbete för att få bukt med den läskris som vi brottas med i Sverige.
 
-För en tid sedan träffade jag äldre en judisk man, som berättade att hans son fått en halskedja med en davidsstjärna som present vid sin bar mitzva. Men sonen, som nu hunnit bli vuxen, hade inte burit smycket en enda gång. Inte för att han inte kände stolthet över sin judiska identitet. Utan för att han inte vågade.  Personer i den judiska minoriteten, liksom judiska institutioner som synagogor och skolor, utsätts för oacceptabla vålds\- och hatyttringar och andra uttryck för antisemitism. Hatet kommer inte från ett, utan från många håll. Från extremhöger, extremvänster och från islamister.
+För en tid sedan träffade jag äldre en judisk man, som berättade att hans son fått en halskedja med en davidsstjärna som present vid sin bar mitzva. Men sonen, som nu hunnit bli vuxen, hade inte burit smycket en enda gång. Inte för att han inte kände stolthet över sin judiska identitet. Utan för att han inte vågade.  Personer i den judiska minoriteten, liksom judiska institutioner som synagogor och skolor, utsätts för oacceptabla vålds- och hatyttringar och andra uttryck för antisemitism. Hatet kommer inte från ett, utan från många håll. Från extremhöger, extremvänster och från islamister.
 
 Jag förstår rädslan, och jag förstår valet att avstå från att bära den där davidsstjärnan. Men jag kommer aldrig att kapitulera för en sådan verklighet. Bekämpandet av antisemitism är prioriterat av regeringen. Vi har därför tillsatt en arbetsgrupp i Regeringskansliet för att ta ett helhetsgrepp om de problem som möter den judiska minoriteten i Sverige.
 

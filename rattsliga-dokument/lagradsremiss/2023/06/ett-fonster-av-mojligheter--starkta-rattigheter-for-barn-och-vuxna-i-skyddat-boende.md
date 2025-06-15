@@ -4,7 +4,7 @@ I lagrådsremissen föreslår regeringen åtgärder som ska förbättra skyddet 
 
 Regeringen föreslår att skyddat boende ska regleras i socialtjänstlagen. Detta som en boendeinsats till den som behöver stöd och skydd till följd av hot, våld eller andra övergrepp.
 
-Barn som följer med en vårdnadshavare till ett skyddat boende ska bedömas och beviljas insatsen individuellt. Socialnämnden ska tillgodose barnets behov av stöd\- och hjälpinsatser.
+Barn som följer med en vårdnadshavare till ett skyddat boende ska bedömas och beviljas insatsen individuellt. Socialnämnden ska tillgodose barnets behov av stöd- och hjälpinsatser.
 
 När båda vårdnadshavarna samtycker ska barnet placeras med stöd av socialtjänstlagen.
 
@@ -14,4 +14,4 @@ Regeringen lämnar även förslag som rör bestämmanderätten över barnet unde
 
 Regeringen föreslår att det ska krävas tillstånd från Inspektionen för vård och omsorg för att få bedriva verksamhet i form av skyddat boende. Kommuner och regioner som bedriver sådan verksamhet ska anmäla detta till myndigheten.
 
-Lagändringarna föreslås träda i kraft den 1 mars 2024\.
+Lagändringarna föreslås träda i kraft den 1 mars 2024.

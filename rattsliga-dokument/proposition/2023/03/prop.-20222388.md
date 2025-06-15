@@ -9,4 +9,4 @@ Uppgifterna ska lämnas till Bolagsverket i en rapport som även ska göras till
 
 Dessutom ska revisorn i de företag som kategoriseras som större företag enligt årsredovisningslagen i revisionsberättelsen ange om företaget är skyldigt att offentliggöra en inkomstskatterapport och om företaget i så fall har gjort det.
 
-Den nya lagstiftningen föreslås träda i kraft den 22 juni 2023\.
+Den nya lagstiftningen föreslås träda i kraft den 22 juni 2023.

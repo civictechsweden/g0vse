@@ -10,8 +10,8 @@ I lagrådsremissen föreslås en ändring i den s.k. beloppsspärren, som anger 
 
 Det föreslås vidare att det införs en undantagsregel som innebär att beloppsspärren inte ska träda in när en fysisk person eller vissa andra subjekt får ett direkt bestämmande inflytande över ett underskottsföretag, om personen redan före ägarförändringen hade ett sådant inflytande genom ett indirekt ägande.
 
-Lagrådsremissen innehåller även förslag på ett antal ändringar i syfte att förenkla tillämpningen av regelverket när en grupp, sinsemellan oberoen\-de fysiska personer eller vissa andra subjekt under en period förvärvar en viss andel av rösterna i ett underskottsföretag (den s.k. flockregeln). Bestämmelsen föreslås också utvidgas till att omfatta indirekta förvärv, dvs. när gruppen personer förvärvar andelar i ett företag som har det bestämmande inflytandet över ett underskottsföretag.
+Lagrådsremissen innehåller även förslag på ett antal ändringar i syfte att förenkla tillämpningen av regelverket när en grupp, sinsemellan oberoen-de fysiska personer eller vissa andra subjekt under en period förvärvar en viss andel av rösterna i ett underskottsföretag (den s.k. flockregeln). Bestämmelsen föreslås också utvidgas till att omfatta indirekta förvärv, dvs. när gruppen personer förvärvar andelar i ett företag som har det bestämmande inflytandet över ett underskottsföretag.
 
 Slutligen föreslås att bestämmelserna om beräkningen av utgiften för förvärvet i vissa fall när förvärvet har gjorts genom ett kapitaltillskott till underskottsföretaget ska kunna tillämpas även när kapitaltillskottet lämnas till ett annat företag som ingår i samma koncern som underskottsföretaget.
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2025\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2025.

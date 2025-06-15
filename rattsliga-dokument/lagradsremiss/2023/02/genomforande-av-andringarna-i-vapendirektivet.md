@@ -10,4 +10,4 @@ Förslagen innebär bl.a. följande:
 * Vapen­handlare och vapen­mäklare ska rapportera miss­tänkta försök till trans­aktioner med ammu­nition.
 * Kraven på regist­rering utökas.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2023\.
+Lagändringarna föreslås träda i kraft den 1 juli 2023.

@@ -6,4 +6,4 @@ propositionen görs bedömningen att det på sikt bör vara möjligt att
 använda fossilfria elektrobränslen för att uppfylla reduktionsplikten och
 att biodrivmedel från råvaror med hög risk för indirekt ändrad markanvändning inte ska kunna användas för att uppfylla reduktionsplikten.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2021\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2021.

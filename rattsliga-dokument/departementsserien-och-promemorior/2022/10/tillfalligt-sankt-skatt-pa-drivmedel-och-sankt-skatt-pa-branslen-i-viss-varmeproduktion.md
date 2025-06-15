@@ -6,4 +6,4 @@ I promemorian föreslås att energiskatten på bensin och diesel tillfälligt un
 
 I promemorian föreslås också att bränsle som förbrukas i kraftvärmeproduktion eller i annan värmeproduktion för framställning av värme i en anläggning inom utsläppshandelssystemet ska befrias från koldioxidskatt.
 
-Ändringarna föreslås träda i kraft den 1 januari 2023\.
+Ändringarna föreslås träda i kraft den 1 januari 2023.

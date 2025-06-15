@@ -6,6 +6,6 @@ En av regeringens viktigaste prioriteringar är att genomföra strukturförändr
 
 Höjningen av omsättningsgränsen innebär att de företag som väljer att tillämpa undantaget inte längre behöver ta ut och redovisa moms på sin försäljning. Höjningen kan också främja de minsta företagens konkurrenskraft i förhållande till större företag, samt sänka trösklarna för personer som vill starta företag. Det innebär även en lägre administrativ börda för Skatteverket som inte behöver hantera deklarationer och betalningar från de minsta företagen.
 
-I propositionen finns även förslag om att svenska företag får möjlighet att tillämpa omsättningsgränsen i andra EU\-länder. Företag som är etablerade i andra EU\-länder får möjlighet att tillämpa omsättningsgränsen i Sverige. Fler företag får också tillämpa reglerna om förenklad faktura.
+I propositionen finns även förslag om att svenska företag får möjlighet att tillämpa omsättningsgränsen i andra EU-länder. Företag som är etablerade i andra EU-länder får möjlighet att tillämpa omsättningsgränsen i Sverige. Fler företag får också tillämpa reglerna om förenklad faktura.
 
-Förslagen föreslås träda i kraft den 1 januari 2025\.
+Förslagen föreslås träda i kraft den 1 januari 2025.

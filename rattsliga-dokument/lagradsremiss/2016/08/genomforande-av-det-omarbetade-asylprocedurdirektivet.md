@@ -6,6 +6,6 @@ Regeringen föreslår bland annat att det ska preciseras i lag att en asylansök
 
 Regeringen föreslår också att det ska anges i lag att ensamkommande barn alltid ska ha rätt till ett offentligt biträde i asylärenden och ärenden om ny prövning. Ensamkommande barn ska också omedelbart efter förordnandet av god man informeras om vem som har förordnats som god man. Informationen ska även lämnas till barnets boende och till barnets offentliga biträde om ett sådant har förordnats.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2017\.
+Lagändringarna föreslås träda i kraft den 1 januari 2017.
 
 [Pressmeddelande: Nu genomförs EU:s omarbetade asylprocedurdirektiv](/pressmeddelanden/2016/08/nu-genomfors-eus-omarbetade-asylprocedurdirektiv/)

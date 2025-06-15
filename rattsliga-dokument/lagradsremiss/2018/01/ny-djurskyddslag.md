@@ -1,6 +1,6 @@
 # Ny djurskyddslag
 
-I lagrådsremissen föreslås att den nuvarande djurskyddslagen (1988:534\)
+I lagrådsremissen föreslås att den nuvarande djurskyddslagen (1988:534)
 ersätts med en ny lag.
 
 Den nya lagen syftar till att säkerställa ett gott djurskydd samt att
@@ -23,5 +23,5 @@ tävlingar eller prov får inte heller utsättas för dopning eller andra
 otillbörliga åtgärder som kan påverka djurets prestationsförmåga eller
 temperament.
 
-Den nya lagen och ändringarna i offentlighets\- och sekretesslagen
+Den nya lagen och ändringarna i offentlighets- och sekretesslagen
 **föreslås träda i kraft den 1 april 2019**.

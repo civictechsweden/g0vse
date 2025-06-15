@@ -6,4 +6,4 @@ Utgångspunkten är att parterna ska ha stor frihet att komma överens om en ers
 
 I lagrådsremissen föreslår regeringen också att skyddet för hyresgäster som vill delta i ombildning till bostadsrätt stärks genom ett krav på att en bostadsrättsförening som förvärvar ett hyreshus ska informera samtliga hyresgäster i huset.
 
-De lagändringar som behövs föreslås träda i kraft den 1 maj 2015\.
+De lagändringar som behövs föreslås träda i kraft den 1 maj 2015.

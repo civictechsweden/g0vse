@@ -14,4 +14,4 @@ I dag remitterar regeringen därför en promemoria där det föreslås att en ar
 
 Promemorian bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.
 
-Förordningsändringen föreslås träda i kraft den 1 oktober 2023\.
+Förordningsändringen föreslås träda i kraft den 1 oktober 2023.

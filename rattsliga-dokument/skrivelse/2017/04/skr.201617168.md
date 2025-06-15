@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om svenska myndigheters beredskap inför brexitomröstningen
 
-Riksrevisionen har i rapporten Svenska myndigheters beredskap inför Brexit\-omröstningen (RiR 2016:33\) redovisat sin bedömning av om de myndigheter med ansvar för att värna om den finansiella stabiliteten vidtog förberedelser i rimlig omfattning inför folkomröstningen i Storbritannien och Nordirland om EU\-medlemskapet i juni 2016\.
+Riksrevisionen har i rapporten Svenska myndigheters beredskap inför Brexit-omröstningen (RiR 2016:33) redovisat sin bedömning av om de myndigheter med ansvar för att värna om den finansiella stabiliteten vidtog förberedelser i rimlig omfattning inför folkomröstningen i Storbritannien och Nordirland om EU-medlemskapet i juni 2016.
 
 Riksrevisionens övergripande slutsatser är att regeringen, myndigheterna under regeringen och Riksbanken vidtog förberedelser i rimlig omfattning och att krisberedskapen var god inför folkomröstningen.
 

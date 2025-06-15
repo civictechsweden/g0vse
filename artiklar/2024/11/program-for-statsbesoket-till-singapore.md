@@ -2,8 +2,7 @@
 
 Kungaparet avlägger statsbesök till Singapore 19–21 november 2024, på inbjudan av president Tharman Shanmugaratnam.
 
-
-Regeringen representeras av utrikesminister Maria Malmer Stenergard, infrastruktur\- och bostadsminister Andreas Carlson, statssekreterare Håkan Jevrell, Utrikesdepartementet och statssekreterare Miriam Söderström, Socialdepartementet. Ett 50\-tal svenska företag, myndigheter och akademi deltar i den näringslivsdelegation som Business Sweden arrangerar.
+Regeringen representeras av utrikesminister Maria Malmer Stenergard, infrastruktur- och bostadsminister Andreas Carlson, statssekreterare Håkan Jevrell, Utrikesdepartementet och statssekreterare Miriam Söderström, Socialdepartementet. Ett 50-tal svenska företag, myndigheter och akademi deltar i den näringslivsdelegation som Business Sweden arrangerar.
 
 Syftet med statsbesöket är att befästa och utveckla den goda relationen mellan Sverige och Singapore och stärka de ekonomiska och politiska förbindelserna, med fokus på handel, innovation, investeringar och grön omställning.
 
@@ -15,7 +14,7 @@ Notera att justeringar i programmet nedan kan komma att ske.
 
 President Tharman Shanmugaratnam och fru Jane Yumiko Ittogi tar emot kungaparet i parlamentet för en officiell välkomstceremoni. Vid ceremonin inspekterar kungen och presidenten hedersvakten och nationalsånger framförs. Därefter signerar kungen en gästbok och introduktion av de officiella delegationerna äger rum.
 
-Presidenten tar sedan emot kungen för ett bilateralt samtal, i vilket utrikesminister Maria Malmer Stenergard, infrastruktur\- och bostadsminister Andreas Carlson samt statssekreterarna Håkan Jevrell och Miriam Söderström deltar.
+Presidenten tar sedan emot kungen för ett bilateralt samtal, i vilket utrikesminister Maria Malmer Stenergard, infrastruktur- och bostadsminister Andreas Carlson samt statssekreterarna Håkan Jevrell och Miriam Söderström deltar.
 [President of the Republic of Singapore](https://www.istana.gov.sg/The-President/President-In-Office "President of the Republic of Singapore")
 [Parliament of Singapore](https://www.parliament.gov.sg/ "Parliament of Singapore")
 
@@ -54,16 +53,11 @@ Kungaparet och utrikesministern deltar i en lunch med företrädare för svenskt
 
 ### Symposium om hälsofrågor
 
-Drottningen deltar i ett symposium med ledande experter och forskare från Singapore och Sverige om hur innovationer kan bidra till att förbättra hälsa och sjukvård – “Singapore\-Sweden Partnership: Empowering Innovation in Healthcare” – och hur samarbetet mellan länderna kan stärkas. Singapores hälsominister Ong Ye Kung deltar. Efter inledningsanföranden av drottningen och hälsominister Kung undertecknas ett samförståndsavtal på hälsoområdet av statssekreterare Miriam Söderström och Lai Wei Lin, Permanent Secretary, Policy and Development of Singapore. En presentation av Singapores strategi för att främja precisionsmedicin följs av en paneldiskussion om hälsa och hälsosamt åldrande.
-
-### Peranakan Museum
-
-Drottningen besöker Peranakan Museum. Museet har en av de finaste och mest omfattande offentliga samlingarna av Peranakan\-föremål i Sydostasien. "Peranakan" är en kultur som förekommer i Sydostasien och tar sig uttryck i design, arkitektur, mat och familjetraditioner. Museet öppnade igen förra året efter fyra års renovering.
-[Peranakan Museum](https://www.nhb.gov.sg/peranakanmuseum/ "Peranakan Museum")
+Drottningen deltar i ett symposium med ledande experter och forskare från Singapore och Sverige om hur innovationer kan bidra till att förbättra hälsa och sjukvård – “Singapore-Sweden Partnership: Empowering Innovation in Healthcare” – och hur samarbetet mellan länderna kan stärkas. Singapores hälsominister Ong Ye Kung deltar. Efter inledningsanföranden av drottningen och hälsominister Kung undertecknas ett samförståndsavtal på hälsoområdet av statssekreterare Miriam Söderström och Lai Wei Lin, Permanent Secretary, Policy and Development of Singapore. En presentation av Singapores strategi för att främja precisionsmedicin följs av en paneldiskussion om hälsa och hälsosamt åldrande.
 
 ### IISS Raffles Lecture
 
-Utrikesminister Maria Malmer Stenergard håller en föreläsning på temat Strengthening Cross\-Regional Security: Sweden and the Indo\-Pacific i närvaro av kungaparet. IISS Raffles Lecture arrangeras av det oberoende forskningsinstitutet International Institute for Strategic Studies (IISS). Föredragsserien syftar till att inspirera till en informerad offentlig debatt om frågor av regional och internationell betydelse.
+Utrikesminister Maria Malmer Stenergard håller en föreläsning på temat Strengthening Cross-Regional Security: Sweden and the Indo-Pacific i närvaro av kungaparet. IISS Raffles Lecture arrangeras av det oberoende forskningsinstitutet International Institute for Strategic Studies (IISS). Föredragsserien syftar till att inspirera till en informerad offentlig debatt om frågor av regional och internationell betydelse.
 [IISS Raffles Lectures](https://www.iiss.org/sv/events/iiss-raffles-lectures/ "IISS Raffles Lecture")
 
 ### Mottagning
@@ -78,7 +72,7 @@ Kungaparet förevisas brandbekämpningsfartyget ”Red Manta” vid Brani Island
 
 ### PSA – Pasir Panjang Terminal
 
-Kungaparet, statsråden och statssekreterarna besöker PSA i Pasir Panjang\-terminalen, som är den stora hamnen i Singapore. Den har en hanteringskapacitet på 34 miljoner TEU (tjugofots ekvivalenta enheter). En ny hamn är under uppbyggnad i västra delen av Singapore, Tuas Port, som vid det planerade färdigställandet (2040\) beräknas få en hanteringskapacitet på 65 miljoner TEU. Frakthanteringen i Tuas planeras bli helt automatiserad. Svenska företag och forskningsinstitutioner är ledande inom innovation, som kan bidra med avancerade lösningar som möjliggör automatisering, digitalisering och hållbarhet.
+Kungaparet, statsråden och statssekreterarna besöker PSA i Pasir Panjang-terminalen, som är den stora hamnen i Singapore. Den har en hanteringskapacitet på 34 miljoner TEU (tjugofots ekvivalenta enheter). En ny hamn är under uppbyggnad i västra delen av Singapore, Tuas Port, som vid det planerade färdigställandet (2040) beräknas få en hanteringskapacitet på 65 miljoner TEU. Frakthanteringen i Tuas planeras bli helt automatiserad. Svenska företag och forskningsinstitutioner är ledande inom innovation, som kan bidra med avancerade lösningar som möjliggör automatisering, digitalisering och hållbarhet.
 
 ### Möte med premiärministern
 
@@ -86,7 +80,7 @@ Kungen har ett möte med premiärminister Lawrence Wong, vid vilket statsråden 
 
 ### Lunch och panelsamtal på Nanyang tekniska universitet
 
-Kungaparet och statssekreterare Håkan Jevrell deltar i en lunch på Nanyang Technological University som universitetets rektor, professor Ho Teck Hua, står värd för. I anslutning till lunchen kommer ett panelsamtal att äga rum om användningen av artificiell intelligens inom utbildning, näringsliv och offentlig sektor med Sharanjit Leyl som moderator.
+Kungaparet och statssekreterare Håkan Jevrell deltar i en lunch på Nanyang Technological University som universitetets rektor, professor Ho Teck Hua, står värd för. I anslutning till lunchen kommer ett panelsamtal att äga rum om användningen av artificiell intelligens inom utbildning, näringsliv och offentlig sektor med professor Luke Ong, NTU, som moderator.
 [Nanyang Technological University](https://www.ntu.edu.sg/ "Nanyang Technological University")
 
 ### Möte med svenskkolonin
@@ -100,7 +94,7 @@ Därefter besöker kungaparet Gardens by the Bay och närvarar vid invigningen a
 
 ### Satay by the Bay
 
-Dagens program avslutas med att kungaparet besöker Satay by the Bay för en presentation av Singapores unika hawker\-matkultur.
+Dagens program avslutas med att kungaparet besöker Satay by the Bay för en presentation av Singapores unika hawker-matkultur.
 
 Statsbesöket avslutas senare på kvällen när kungaparet lämnar Singapore.
 

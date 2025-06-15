@@ -9,4 +9,4 @@ Förbudet omfattar inte gruvverksamhet som avser järnmalm, basmetaller, sällsy
 I minerallagen tas uran bort som koncessionsmineral. Ändringen innebär
 att det inte längre blir möjligt att bevilja vare sig undersökningstillstånd eller bearbetningskoncession för uran. Undersökningsmetoder som använder uranets egenskaper för att hitta koncessionsmineral för vilka undersökningstillstånd meddelats påverkas dock inte av lagändringen.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2018\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2018.

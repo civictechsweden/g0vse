@@ -4,7 +4,6 @@ Järva, 3 juni 2023
 
 Det talade ordet gäller.
 
-
 ## Trygghet är vår tids stora frihetsfråga
 
 Kära Järvabor och deltagare på Järvaveckan,
@@ -25,17 +24,17 @@ Vår vän i Hjulsta är tyvärr inte ensam. Var femte företagare har övervägt
 
 \*\*\*
 
-Idag möts vi här på Spånga IP. 20 minuter härifrån ligger Vällingby centrum. Där sköts en ung man i 20\-årsåldern ihjäl utanför McDonalds vid halvsjutiden på nyårsafton.
+Idag möts vi här på Spånga IP. 20 minuter härifrån ligger Vällingby centrum. Där sköts en ung man i 20-årsåldern ihjäl utanför McDonalds vid halvsjutiden på nyårsafton.
 
-Så avrundades ett mörkt 2022\. Och så inleddes den brutala våldsvåg som har skakat Stockholm det här året.
+Så avrundades ett mörkt 2022. Och så inleddes den brutala våldsvåg som har skakat Stockholm det här året.
 
-Totalt sköts 62 människor till döds i Sverige förra året. 62\. Egentligen är det svårt att ta in. Det är den högsta noteringen någonsin. Jämför det med våra nordiska grannländer under samma tid: Norge 4\. Danmark 4\. Finland 2\.
+Totalt sköts 62 människor till döds i Sverige förra året. 62. Egentligen är det svårt att ta in. Det är den högsta noteringen någonsin. Jämför det med våra nordiska grannländer under samma tid: Norge 4. Danmark 4. Finland 2.
 
 Och de som skjuter och spränger verkar närmast likgiltiga för hur deras handlingar drabbar helt oskyldiga personer. Inklusive barn. Polisen konstaterade nyligen att en person i månaden sköts ihjäl av misstag förra året. Ett människoliv i månaden – av misstag. Det är en ofattbar grymhet.
 
 En bit ifrån Vällingby ligger Hässelby. I mars i år var jag där och träffade boende i ett radhusområde. Några dagar tidigare hade nattens stillhet plötsligt förbytts i glassplitter, rök och barnskrik. En bomb hade detonerat utanför ett av husen. Förödelsen var enorm. Det var som en krigsskådeplats. Många av familjerna förlorade sina hem. Många fler fick skador på sina hus. Det är ett under att ingen omkom.
 
-Och när rekryteringen till de kriminella gängen riktar sig till 10–11\-åringar; eller när polisen stoppar bilar med vapen och sprängmedel som hanteras av 12–13\-åringar; eller när de dödliga skotten avlossas eller sprängladdningarna prepareras av 14–15\-åringar – ja, då utmanas hela vår rätts\- och socialstat i grunden.
+Och när rekryteringen till de kriminella gängen riktar sig till 10–11-åringar; eller när polisen stoppar bilar med vapen och sprängmedel som hanteras av 12–13-åringar; eller när de dödliga skotten avlossas eller sprängladdningarna prepareras av 14–15-åringar – ja, då utmanas hela vår rätts- och socialstat i grunden.
 
 Polisen bedömer att 30 000 människor är knutna till den organiserade brottsligheten – och att gängen rekryterar tre nya personer varje dag. Ofta barn och unga. Det är ett fullständigt cyniskt maskineri, som slukar ungas livschanser och människoliv på löpande band.
 
@@ -53,7 +52,7 @@ Att läget är väldigt allvarligt – det visste jag såklart när jag tillträ
 
 Att läget är så här illa, det grundar jag på information som man får tillgång till som minister. Jag grundar det på möten med brottsoffer. Och jag grundar det på vittnesbörd från poliser, åklagare, socialsekreterare, lärare och andra som står mitt i denna verklighet.
 
-Varje gång jag har lämnat ett sådant möte så har jag ställt mig samma fråga: Om nu Socialdemokraterna hade den här informationen under sina åtta år vid makten, hur är det över huvud taget möjligt att de gjorde så lite åt problemen? Hur kunde min företrädare Morgan Johansson för flera år sedan påstå att den dåvarande S\-regeringen var på väg att knäcka den organiserade brottsligheten, när man i själva verket hade tappat kontrollen?
+Varje gång jag har lämnat ett sådant möte så har jag ställt mig samma fråga: Om nu Socialdemokraterna hade den här informationen under sina åtta år vid makten, hur är det över huvud taget möjligt att de gjorde så lite åt problemen? Hur kunde min företrädare Morgan Johansson för flera år sedan påstå att den dåvarande S-regeringen var på väg att knäcka den organiserade brottsligheten, när man i själva verket hade tappat kontrollen?
 
 Sett i det ljuset blir Socialdemokraternas ansvar för dagens situation ännu mycket större. För vi talar här om en kriminalitet som är systemhotande.
 
@@ -79,15 +78,15 @@ För det andra måste vi erkänna att det finns en konflikt mellan personlig int
 
 För det tredje måste vi göra upp med den felaktiga uppfattningen att det är två helt olika saker att förebygga brott och att bekämpa brott. De är inte varandras motsatser. Det är inte så att det ena är mjukt och det andra hårt. De är delar av samma helhet. Båda behövs. Både rättsstaten och socialstaten måste mobiliseras.
 
-Det här skiftena kommer att få stora praktiska konsekvenser. Och det gäller inte minst barn och unga, och snittet mellan sociala och rättsliga insatser. Till exempel kan vi se hur den 15\-årsgräns som genomsyrar viktiga delar av lagstiftningen i praktiken är överspelad av dagens verklighet:
+Det här skiftena kommer att få stora praktiska konsekvenser. Och det gäller inte minst barn och unga, och snittet mellan sociala och rättsliga insatser. Till exempel kan vi se hur den 15-årsgräns som genomsyrar viktiga delar av lagstiftningen i praktiken är överspelad av dagens verklighet:
 
-När 13\- och 14\-åringar stoppas med vapen och sprängmedel har polisen begränsande möjligheter att beslagta deras mobiltelefoner och tömma dem på innehåll. Innan de har fyllt 15 kan de inte straffas för sina brott – då står bara olika sociala insatser till buds. Och flera av de här insatserna kan dessutom föräldrarna säga nej till så länge de är under 15\.
+När 13- och 14-åringar stoppas med vapen och sprängmedel har polisen begränsande möjligheter att beslagta deras mobiltelefoner och tömma dem på innehåll. Innan de har fyllt 15 kan de inte straffas för sina brott – då står bara olika sociala insatser till buds. Och flera av de här insatserna kan dessutom föräldrarna säga nej till så länge de är under 15.
 
 Det säger sig självt att det här är en ordning som inte kommer att fungera om vi vill bryta utvecklingen. Därför tänker den här regeringen göra på ett annat sätt. Vi gör om och gör rätt.
 
 Vi river sekretesshinder mellan skola, socialtjänst och polis. Vi gör det möjligt för socialtjänsten att agera för barnets bästa, även mot föräldrarnas vilja, redan från 12 års ålder.
 
-Vi kommer att inrätta särskilda ungdomsfängelser för de grövsta unga brottslingarna – också för att de s.k. SIS\-hemmen ska få utrymme att fokusera på alla andra ungdomar i behov av stöd och vård. Och vi stramar åt tillgången till mobiltelefoner för unga intagna.
+Vi kommer att inrätta särskilda ungdomsfängelser för de grövsta unga brottslingarna – också för att de s.k. SIS-hemmen ska få utrymme att fokusera på alla andra ungdomar i behov av stöd och vård. Och vi stramar åt tillgången till mobiltelefoner för unga intagna.
 
 Vi ser över straffen och straffrabatterna för unga brottslingar. Vi ska också pröva om straffmyndighetsåldern bör sänkas – inte för att sätta barn i fängelse, utan för att öppna hela verktygslådan med ungdomsvård, ungdomsövervakning och andra särskilda påföljder för unga för ännu fler.
 
@@ -97,7 +96,7 @@ Uppgiften att ge alla barn en ärlig chans att lyckas är självklart lika vikti
 
 Här ligger flera av Sveriges mest utsatta områden – som Rinkeby, Tensta och Hjulsta. Men här ser vi också flera exempel på hur en negativ utveckling går att vända. Trots ett tragiskt mord på juldagen förra året blev ändå facit att under hela år 2022 skedde ”bara” två dödsskjutningar med koppling till gängmiljön i Järva.
 
-Två mord är två för mycket. Men det kan ändå jämföras med totalt nio gängmord under 2021\. Hittills i år har det inte begåtts en enda gängdödsskjutning i Järva.
+Två mord är två för mycket. Men det kan ändå jämföras med totalt nio gängmord under 2021. Hittills i år har det inte begåtts en enda gängdödsskjutning i Järva.
 
 Vad beror det på? Ja, enligt polisen har ett antal personer med stort våldskapital helt enkelt plockats bort från gatan, och det har gjort stor skillnad i området. Det bekräftar en viktig insikt: Att klara upp brott och låsa in ledarna är också en helt avgörande förebyggande åtgärd.
 

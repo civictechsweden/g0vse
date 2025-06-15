@@ -2,7 +2,6 @@
 
 Regeringen ger Läkemedelsverket i uppdrag att på nationell nivå sammanställa och tillhandahålla statistik avseende kliniska prövningar i Sverige.
 
-
 Statistiken ska omfatta både läkemedelsprövningar och prövningar för medicintekniska produkter samt inkludera, men inte vara begränsad till, ledtider och leveransförmåga för desamma. Statistiken ska systematiseras på ett sådant sätt att den, vid behov, ska kunna utgöra grund för beslutsfattande.
 
 I uppdraget ingår att:

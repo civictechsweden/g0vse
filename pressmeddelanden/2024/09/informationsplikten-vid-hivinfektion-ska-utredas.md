@@ -6,4 +6,4 @@ En central del av tilläggsdirektiven är att analysera och ta ställning till o
 
 Utredaren är inte begränsad till att enbart se över informationsplikten vid hivinfektion utan ska även analysera och ta ställning till andra förhållningsregler och bestämmelser som gäller vid allmänfarlig sjukdom avseende den enskildes skyldighet att förebygga smittspridning.
 
-Uppdragstiden förlängs och ska redovisas senast den 30 januari 2026\. Utredaren ska dock senast den 28 februari 2025 lämna ett delbetänkande med majoriteten av de uppdrag som utredningen fick i de ursprungliga direktiven.
+Uppdragstiden förlängs och ska redovisas senast den 30 januari 2026. Utredaren ska dock senast den 28 februari 2025 lämna ett delbetänkande med majoriteten av de uppdrag som utredningen fick i de ursprungliga direktiven.

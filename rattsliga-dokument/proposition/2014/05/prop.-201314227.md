@@ -9,6 +9,6 @@ Det görs också en bedömning att Migrationsverket under löpande tillståndsti
 Det föreslås slutligen kompletterande bestämmelser om återkallelse av uppehållstillstånd som beviljats för arbete om förutsättningarna för arbetstillståndet inte längre är uppfyllda, eller det arbete som arbetstillståndet
 beviljats för inte påbörjats inom rimlig tid. I samband därmed föreslås också att den s.k. omställningsperioden, dvs. tiden för att söka nytt arbete, i vissa fall ska vara fyra månader i stället för tre.
 
-Ändringarna föreslås träda i kraft den 1 augusti 2014\.
+Ändringarna föreslås träda i kraft den 1 augusti 2014.
 
 Propositionen bygger på en överenskommelse mellan regeringen och Miljöpartiet de Gröna.

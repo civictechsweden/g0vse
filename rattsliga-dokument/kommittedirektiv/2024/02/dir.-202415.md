@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * överväga om regelverket om uttagsbeskattning kan utformas så att mervärdesskattekonsekvenserna vid gåvor av varor till hjälporganisationer och liknande blir mer förutsebara,
 * om det bedöms möjligt och lämpligt, lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 31 mars 2025\.
+Uppdraget ska redovisas senast den 31 mars 2025.

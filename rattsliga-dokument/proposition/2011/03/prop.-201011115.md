@@ -23,4 +23,4 @@ I propositionen föreslås vidare att tillsynsmyndigheten ska ha möjlighet att 
 
 Det föreslås slutligen att regeringen eller den myndighet som regeringen bestämmer får överlämna till fysiska eller juridiska personer att anordna kunskapsprov i fråga om amatörradiosändare, att utfärda bevis om godkända avlagda prov och att tilldela anropssignaler.
 
-De nya reglerna föreslås träda i kraft den 1 juli 2011\.
+De nya reglerna föreslås träda i kraft den 1 juli 2011.

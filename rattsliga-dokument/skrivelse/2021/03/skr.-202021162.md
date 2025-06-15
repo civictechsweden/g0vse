@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om särskild löneskatt för äldre
 
-Riksrevisionen har i rapporten Särskild löneskatt för äldre – redovisning och effekter (RiR 2020:24\) granskat den särskilda löneskatten på förvärvsinkomster för personer över 65 år.
+Riksrevisionen har i rapporten Särskild löneskatt för äldre – redovisning och effekter (RiR 2020:24) granskat den särskilda löneskatten på förvärvsinkomster för personer över 65 år.
 
 Riksrevisionens övergripande slutsats är att regeringen inte har redovisat tillräckliga underlag för att det ska vara möjligt att bedöma effekterna av skatteutgifter i form av en nedsatt eller slopad särskild löneskatt för äldre. Det är enligt Riksrevisionen också oklart om reformerna av den särskilda löneskatten för äldre har infriat riksdagens intentioner.
 

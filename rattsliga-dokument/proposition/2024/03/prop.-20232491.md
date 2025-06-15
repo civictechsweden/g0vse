@@ -9,10 +9,10 @@ föreslås vara handläggande myndighet för kompensationen, vilken
 föreslås tillgodoräknas mottagarna genom kreditering på skattekontot.
 
 De nya bestämmelserna om kompensation föreslås träda i kraft den
-1 juli 2024\.
+1 juli 2024.
 
 Propositionen innehåller även förslag om att senarelägga ikraftträdandet
 av den av riksdagen beslutade höjningen av åldersgränsen för rätt till det
 förhöjda grundavdraget till 67 år. Förslaget innebär att höjningen av
-åldersgränsen i inkomstskattelagen (1999:1229\) för rätt till det förhöjda
-grundavdraget skjuts upp från den 1 januari 2026 till den 1 januari 2027\.
+åldersgränsen i inkomstskattelagen (1999:1229) för rätt till det förhöjda
+grundavdraget skjuts upp från den 1 januari 2026 till den 1 januari 2027.

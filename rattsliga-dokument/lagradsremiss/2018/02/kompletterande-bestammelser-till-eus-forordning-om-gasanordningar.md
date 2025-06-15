@@ -6,4 +6,4 @@ Förordningen, som ersätter det tidigare direktivet på området, innehåller b
 
 I den nya lagen anges att marknadskontrollen, dvs. tillsynen över att förordningen följs, ska utövas av den eller de myndigheter som regeringen bestämmer. Marknadskontrollmyndigheten ska bl.a. få meddela de förelägganden och förbud som behövs för att regelverket ska följas. Dessutom ska marknadskontrollmyndigheten i vissa fall kunna ansöka hos allmän förvaltningsdomstol om utdömande av sanktionsavgift. Den föreslagna lagen innehåller även bestämmelser om hjälp från Polismyndigheten, ekonomisk ersättning, tystnadsplikt och överklagande.
 
-Lagen föreslås träda i kraft den 1 augusti 2018\.
+Lagen föreslås träda i kraft den 1 augusti 2018.

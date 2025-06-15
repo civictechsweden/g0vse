@@ -8,4 +8,4 @@ I propositionen föreslås bland annat att Konkurrensverket ska få fatta beslut
 
 – Det ligger i samtliga aktörers och samhällets intresse att upphandlingslagstiftningen, som bland annat syftar till att främja konkurrens och motverka korruption, följs. Det gläder mig därför att kunna informera om att regeringen idag har beslutat om en proposition vars förslag syftar till en effektivare tillsyn, säger civilminister Erik Slottner.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

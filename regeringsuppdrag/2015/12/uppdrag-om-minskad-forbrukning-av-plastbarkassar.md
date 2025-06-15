@@ -4,4 +4,4 @@ Regeringen uppdrar åt Naturvårdsverket att utreda och utveckla ett förslag ti
 
 En analys av konsekvenserna av förslagen ska utföras i enlighet med 6 och 7 §§ förordningen 2007:1244 om konsekvensutredning vid regelgivning. I konsekvensutredningen ska även ingå en analys av påverkan på handeln och med andra länder.
 
-Uppdraget ska redovisas till Regeringskanslit (Miljö\- och energidepartementet) senast den 15 mars 2016\.
+Uppdraget ska redovisas till Regeringskanslit (Miljö- och energidepartementet) senast den 15 mars 2016.

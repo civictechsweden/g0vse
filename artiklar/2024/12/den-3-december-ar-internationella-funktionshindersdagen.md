@@ -13,4 +13,4 @@ För att uppnå dessa mål har regeringen bland annat genomfört dessa åtgärde
 
 Regeringen har även höjt schablonersättningen för assistansen, och arbetar mot en indexering.
 
-– Ett av regeringens grunduppdrag inom välfärden är att stötta och hjälpa människor med olika behov. Som socialtjänstminister kommer jag fortsätta arbeta för att lyfta de här frågorna högt på den politiska agendan, för att alla på ett jämlikt sätt ska kunna ta del av det som vårt samhälle erbjuder, säger Socialtjänstminsiter Camilla Waltersson Grönvall.
+– Ett av regeringens grunduppdrag inom välfärden är att stötta och hjälpa människor med olika behov. Som socialtjänstminister kommer jag fortsätta arbeta för att lyfta de här frågorna högt på den politiska agendan, för att alla på ett jämlikt sätt ska kunna ta del av det som vårt samhälle erbjuder, säger socialtjänstminsiter Camilla Waltersson Grönvall.

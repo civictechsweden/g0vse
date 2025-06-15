@@ -1,7 +1,6 @@
 # Uppdrag att analysera genomförandet av ett intensivår för nyanlända
 
-Regeringen uppdrar åt Statskontoret att analysera Arbetsförmedlingens genomförande av ett intensivår för nyanlända inom ramen för etableringsprogrammet. Arbetsförmedlingen har den 14 oktober 2020 fått i uppdrag att införa ett intensivår (A2020/02108\). Enligt uppdraget ska nyanlända kvinnor och män kunna ges möjlighet att delta i ett intensivår från och med den 15 april 2021\.
-
+Regeringen uppdrar åt Statskontoret att analysera Arbetsförmedlingens genomförande av ett intensivår för nyanlända inom ramen för etableringsprogrammet. Arbetsförmedlingen har den 14 oktober 2020 fått i uppdrag att införa ett intensivår (A2020/02108). Enligt uppdraget ska nyanlända kvinnor och män kunna ges möjlighet att delta i ett intensivår från och med den 15 april 2021.
 
 Statskontoret ska inom ramen för uppdraget analysera om syftet med intensivåret uppnås, i enlighet med vad regeringen har gett uttryck för i Arbetsförmedlingens uppdrag om genomförandet. Statskontoret ska analysera genomförandet av intensivåret samt vid behov föreslå hur genomförandet av intensivåret kan utvecklas. Analysen ska röra aspekter som styrning, uppföljning och organisering av arbetet. Fokus för uppdraget är Arbetsförmedlingens genomförande men även regeringens styrning av arbetet bör analyseras.
 

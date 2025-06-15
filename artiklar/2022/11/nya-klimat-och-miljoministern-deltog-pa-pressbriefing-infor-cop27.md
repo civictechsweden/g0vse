@@ -1,9 +1,8 @@
 # Nya klimat- och miljöministern deltog på pressbriefing inför COP 27
 
-Om lite drygt en vecka inleds klimatkonferensen COP 27 i Sharm el\-Sheikh, Egypten och under måndagen den 31 oktober hölls en pressbriefing inför, med bland andra klimat\- och miljöminister Romina Pourmokhtari.
+Om lite drygt en vecka inleds klimatkonferensen COP 27 i Sharm el-Sheikh, Egypten och under måndagen den 31 oktober hölls en pressbriefing inför, med bland andra klimat- och miljöminister Romina Pourmokhtari.
 
-
- – Brådska och möjligheter är våra huvudbudskap i förhandlingarna, brådskan ligger i vad vetenskapen säger och möjligheterna finns i omställningen som kan skapa nya jobb och ekonomisk tillväxt. Sveriges höga klimatambition ligger fast men vi måste också bygga en robust klimatpolitik som utgår från den verklighet människor står inför, menade Romina Pourmokhtari.
+– Brådska och möjligheter är våra huvudbudskap i förhandlingarna, brådskan ligger i vad vetenskapen säger och möjligheterna finns i omställningen som kan skapa nya jobb och ekonomisk tillväxt. Sveriges höga klimatambition ligger fast men vi måste också bygga en robust klimatpolitik som utgår från den verklighet människor står inför, menade Romina Pourmokhtari.
 
 Mattias Frumerie, chefsförhandlare i delegationen och tjänsteman på Miljödepartementets klimatenhet, fyllde i:
 

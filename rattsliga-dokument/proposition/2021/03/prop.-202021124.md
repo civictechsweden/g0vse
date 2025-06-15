@@ -13,4 +13,4 @@ personuppgifter och om direktåtkomst. Därutöver finns bestämmelser om skyldi
 Den nya lagen innebär att också uppgifter om olyckor i fritidssjöfart ska
 rapporteras till databasen.
 
-Den nya lagen föreslås träda i kraft den 1 juli 2021\.
+Den nya lagen föreslås träda i kraft den 1 juli 2021.

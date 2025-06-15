@@ -6,6 +6,6 @@ Regeringen föreslår att åklagaren får en skyldighet att anmäla en försvara
 
 Regeringen föreslår också ökade möjligheter för en arbetsgivare att ersätta en offentlig funktionär för hans eller hennes rättegångskostnader och att övervakningsnämnden ska ges möjlighet att lämna information om förenklad delgivning.
 
-Lagändringarna föreslås träda i kraft den 11 juni 2019\.
+Lagändringarna föreslås träda i kraft den 11 juni 2019.
 
 [Pressmeddelande: Ökad rättssäkerhet för barn som är misstänkta eller tilltalade i straffrättsliga förfaranden](/pressmeddelanden/2019/03/okad-rattssakerhet-for-barn-som-ar-misstankta-eller-tilltalade-i-straffrattsliga-forfaranden/)

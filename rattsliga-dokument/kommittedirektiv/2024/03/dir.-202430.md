@@ -9,8 +9,8 @@ Utredaren ska bl.a.
 * analysera och ta ställning till ändamålsenligheten i utformningen av elevhälsans nuvarande huvudmannaskap och ledning,
 * analysera och ta ställning till alternativa huvudmannaskap,
 * föreslå en elevhälsogaranti med målet att åstadkomma ändamålsenliga tidsfrister för att få stöd och hjälp av elevhälsan,
-* analysera och föreslå hur samverkan mellan elevhälsan, skolan i övrigt, hälso\- och sjukvården och socialtjänsten kan förbättras,
+* analysera och föreslå hur samverkan mellan elevhälsan, skolan i övrigt, hälso- och sjukvården och socialtjänsten kan förbättras,
 * föreslå hur arbetet med stöd och särskilt stöd kan förbättras och effektiviseras, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 7 mars 2025\.
+Uppdraget ska redovisas senast den 7 mars 2025.

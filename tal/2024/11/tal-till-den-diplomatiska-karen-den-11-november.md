@@ -4,7 +4,6 @@ Utrikesminister Maria Malmer Stenergard höll tal till den diplomatiska kåren d
 
 Det talade ordet gäller.
 
-
 Ers excellenser, kära kollegor, mina damer och herrar.
 
 Jag gläds åt att se den diplomatiska kåren samlad här i dag i Stockholm. Några av er har jag redan träffat som migrationsminister, och nu ser jag fram emot kontakterna med er som utrikesminister.
@@ -15,13 +14,13 @@ I grova drag ska jag ta upp tre ämnen: Sveriges roll i vårt närområde, Sveri
 
 Eftersom repetition är kunskapens moder vill jag upprepa en viktig passage från den senaste utrikesdeklarationen:
 
-”Regeringens utrikespolitik vilar på en europeisk, nordisk\-baltisk och transatlantisk grund.”
+”Regeringens utrikespolitik vilar på en europeisk, nordisk-baltisk och transatlantisk grund.”
 
 Eller, som en svensk politisk kommentator nyligen uttryckte det: Sverige har tre geopolitiska identiteter.
 
 Vi är en Östersjöstat, med nära historiska och kulturella band till framför allt vår närmaste samarbetspartner, Finland.
 
-Vi är europeiska, med Tyskland som vår största handelspartner och efter nästan 30 år som EU\-medlemsstat.
+Vi är europeiska, med Tyskland som vår största handelspartner och efter nästan 30 år som EU-medlemsstat.
 
 Vi är västerländska, vilket nu också återspeglas genom vårt Natomedlemskap.
 
@@ -57,17 +56,17 @@ Tillsammans utgör de nordiska och baltiska länderna en betydande politisk och 
 
 Det gäller även vårt stöd till Ukraina. Tillsammans är de nordiska och baltiska länderna den näst största leverantören av militärt stöd till Ukraina, efter Förenta staterna. Per capita är vi den överlägset största.
 
-Vi är stolta över att tävla över vår viktklass, men det visar att vi alla måste öka vårt stöd till Ukraina. EU\- och G7\-ländernas samlade ekonomiska styrka är 26 gånger större än Rysslands.
+Vi är stolta över att tävla över vår viktklass, men det visar att vi alla måste öka vårt stöd till Ukraina. EU- och G7-ländernas samlade ekonomiska styrka är 26 gånger större än Rysslands.
 
-Att ge Ukraina det stöd som landet behöver torde vara görbart. Det nordisk\-baltiska exemplet visar att det är görbart.
+Att ge Ukraina det stöd som landet behöver torde vara görbart. Det nordisk-baltiska exemplet visar att det är görbart.
 
-Det nordisk\-baltiska besöket i Odessa i Ukraina var en mörk påminnelse om hur viktigt vårt stöd är. Vintern är på ingång, och behoven är särskilt stora när det gäller uppvärmning och elförsörjning.
+Det nordisk-baltiska besöket i Odessa i Ukraina var en mörk påminnelse om hur viktigt vårt stöd är. Vintern är på ingång, och behoven är särskilt stora när det gäller uppvärmning och elförsörjning.
 
 För att möta de behoven presenterade de nordiska och baltiska länderna ett gemensamt vinterstödpaket i Odessa. Vi kommer att förse energisektorn med turbiner, generatorer, solpaneler, transformatorer och ekonomiskt stöd.
 
 Sverige kommer att bidra med cirka 28 miljoner euro till paketet, utöver de mer än 40 miljoner euro som vi gav i ett annat energistödspaket i september. För att hjälpa hushållen att ta sig igenom vintern behöver Ukraina både eldkraft och elkraft.
 
-Den nordisk\-baltiska ministerresan förde oss som sagt också till Moldavien, där ett viktigt presidentval och en EU\-folkomröstning nyligen ägde rum.
+Den nordisk-baltiska ministerresan förde oss som sagt också till Moldavien, där ett viktigt presidentval och en EU-folkomröstning nyligen ägde rum.
 
 Både valet och folkomröstningen visade tydligt hur Rysslands inblandning sträcker sig långt bortom Ukraina.
 
@@ -75,7 +74,7 @@ Jag är djupt oroad över Rysslands försök att undergräva den demokratiska pr
 
 Sverige har i årtionden haft ett omfattande samarbete med Moldavien för att stödja landets reformarbete.
 
-Vi har också ett nära samarbete med de andra nordiska och baltiska länderna för att stödja Moldaviens EU\-anslutning och stärka landets institutionella kapacitet. Under besöket i Moldavien undertecknade de nordiska och baltiska länderna ett samförståndsavtal som syftade till just det.
+Vi har också ett nära samarbete med de andra nordiska och baltiska länderna för att stödja Moldaviens EU-anslutning och stärka landets institutionella kapacitet. Under besöket i Moldavien undertecknade de nordiska och baltiska länderna ett samförståndsavtal som syftade till just det.
 
 Sverige kommer att fortsätta att stödja Moldavien på landets väg mot EU, och vi välkomnar det moldaviska folkets Europainriktade vägval.
 
@@ -115,11 +114,11 @@ Sverige är sedan länge en av världens största humanitära givare. Det märks
 
 Jag skulle kunna tala länge om situationen i Mellanöstern, som fortfarande är en av de svåraste frågorna för mig och mina kollegor.
 
-Risken för ett fullskaligt krig kvarstår, och Sverige fortsätter tillsammans med andra EU\-länder att uppmana till maximal återhållsamhet för att undvika att situationen trappas upp ytterligare.
+Risken för ett fullskaligt krig kvarstår, och Sverige fortsätter tillsammans med andra EU-länder att uppmana till maximal återhållsamhet för att undvika att situationen trappas upp ytterligare.
 
-Mitt lands mångåriga engagemang för fredsinsatser i Mellanöstern går tillbaka till 1948 och FN\-medlaren Folke Bernadottes ansträngningar.
+Mitt lands mångåriga engagemang för fredsinsatser i Mellanöstern går tillbaka till 1948 och FN-medlaren Folke Bernadottes ansträngningar.
 
-I dag är Sverige en av de största kärnstödsgivarna till FN\-organ och andra organisationer som arbetar för att lindra det enorma lidandet för civilbefolkningen i Gaza. Samtidigt står Sverige upp för Israels rätt att försvara sig i enlighet med folkrätten och kräver att gisslan friges.
+I dag är Sverige en av de största kärnstödsgivarna till FN-organ och andra organisationer som arbetar för att lindra det enorma lidandet för civilbefolkningen i Gaza. Samtidigt står Sverige upp för Israels rätt att försvara sig i enlighet med folkrätten och kräver att gisslan friges.
 
 Den humanitära situationen i Gaza måste förbättras, och en vapenvila är både nödvändig och brådskande. Ni har kanske sett min reaktion på den fruktansvärda nyheten att över 50 barn i Gaza tros ha dödats på bara två dygn. Israel måste göra mer för att förbättra det humanitära tillträdet och skydda civila.
 
@@ -140,7 +139,7 @@ De senaste åren har visat att den euroatlantiska och den indopacifiska regionen
 
 Det är därför regeringen lägger så stor vikt vid den indopacifiska regionen och våra partner där.
 
-För att bara nämna tre exempel har den här regeringen antagit en ny handelsstrategi med särskilt fokus på Asien, antagit en försvarspolitisk inriktning för samarbete med länder i den indopacifiska regionen och stått värd för EU Indo\-Pacific Ministerial Forum under vårt EU\-ordförandeskap.
+För att bara nämna tre exempel har den här regeringen antagit en ny handelsstrategi med särskilt fokus på Asien, antagit en försvarspolitisk inriktning för samarbete med länder i den indopacifiska regionen och stått värd för EU Indo-Pacific Ministerial Forum under vårt EU-ordförandeskap.
 
 Det sker dessutom ett omfattande utbyte av högnivåbesök med regionen. Till exempel besöker Vietnams vicepresident just nu Stockholm med en stor delegation.
 

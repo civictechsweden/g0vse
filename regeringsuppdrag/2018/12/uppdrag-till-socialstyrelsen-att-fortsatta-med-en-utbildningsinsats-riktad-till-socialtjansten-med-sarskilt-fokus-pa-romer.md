@@ -2,7 +2,6 @@
 
 Regeringen uppdrar till Socialstyrelsen att fortsätta med en utbildningsinsats riktad till socialtjänsten om bemötande och inkluderande arbetssätt med särskilt fokus på romer. Socialstyrelsen ska särskilt verka för att involvera romska kvinnor i uppdraget.
 
-
 Uppdraget ska genomföras i nära samverkan med romska
 sakkunniga inom området social omsorg. Uppdraget ska genomföras i samråd med Länsstyrelsen i Stockholms län.
 

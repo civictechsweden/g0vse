@@ -4,6 +4,6 @@
 
 Utredningen omfattar inhemska trädarter som i dag saknar eller har otillräcklig förädling. Om utredaren bedömer det ändamålsenligt ska utredningen även visa hur förädlingsverksamhet ska hanteras, exempelvis i form av ett förädlingsprogram. Utredaren ska också beskriva den förädling och det bevarande av inhemska skogsträd som pågår i Sverige, vilka aktörer som är involverade och hur denna förädling finansieras, samt relevanta samarbeten inom förädling utanför Sverige.
 
-Regeringen har utsett Staffan Eklöf till särskild utredare. Staffan Eklöf är riksdagsledamot och har tidigare mångårig erfarenhet av forsknings\- och myndighetsarbete.
+Regeringen har utsett Staffan Eklöf till särskild utredare. Staffan Eklöf är riksdagsledamot och har tidigare mångårig erfarenhet av forsknings- och myndighetsarbete.
 
-Utredningen ska redovisas senast den 30 april 2024\.
+Utredningen ska redovisas senast den 30 april 2024.

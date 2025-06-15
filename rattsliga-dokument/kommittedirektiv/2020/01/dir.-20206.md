@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * analysera hur systemet med strafföreläggande kan utvecklas för att även i fortsättningen utgöra ett snabbt och effektivt alternativ till prövning i domstol, och
 * analysera och ta ställning till om reglerna om uppdelad handläggning av åtal och deldom är ändamålsenliga för ett snabbförfarande.
 
-Uppdraget ska redovisas senast den 29 april 2021\.
+Uppdraget ska redovisas senast den 29 april 2021.

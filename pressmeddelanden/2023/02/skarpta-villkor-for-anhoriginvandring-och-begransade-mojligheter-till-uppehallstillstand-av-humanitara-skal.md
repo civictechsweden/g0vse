@@ -6,6 +6,6 @@ I utkastet till lagrådsremiss föreslås bland annat att åldersgränsen för a
 
 – Det här ett viktigt steg i den långsiktiga och ansvarsfulla migrationspolitik som nu börjar ta form. Vi behöver kraftigt minska invandringen till Sverige och det är positivt att fler och fler åtgärder för att åstadkomma detta nu börjar bli verklighet, säger Sverigedemokraternas migrationspolitiske talesperson Ludvig Aspling.
 
-Lagändringarna, som nu remitteras, föreslås träda i kraft den 1 december 2023\.
+Lagändringarna, som nu remitteras, föreslås träda i kraft den 1 december 2023.
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

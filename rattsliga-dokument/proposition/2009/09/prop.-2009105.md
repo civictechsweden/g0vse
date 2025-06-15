@@ -6,4 +6,4 @@ Regeringen ska vidare i budgetpropositionen redovisa sina bedömningar av ramarn
 
 I propositionen redovisar regeringen även vissa bedömningar av hur stor den så kallade budgeteringsmarginalen bör vara, när marginalen bör kunna användas samt av i vilka fall det kan vara befogat att föreslå en teknisk justering av ett beslutat utgiftstak.
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2010\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2010.

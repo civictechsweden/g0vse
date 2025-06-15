@@ -2,7 +2,6 @@
 
 Fredagen den 17 mars meddelade Turkiet att de är redo att gå vidare med ratificeringen av Finlands ansökan till Nato, men ännu inte med Sveriges ansökan. Sverige var förberett på beskedet. Med starkt stöd från partnerländer fortsätter nu arbetet för ett svenskt Natomedlemskap, och för att värna Sveriges säkerhet under den tid det tar.
 
-
 Under ett besök i Turkiet av Finlands president Sauli Niinistö meddelade Turkiets president Recep Tayyip Erdoğan att han avsåg överlämna den finska Natoansökan till det turkiska parlamentet för deras beslut. Vägen är därmed öppen för en turkisk ratificering av den finska ansökan, men ännu inte för den svenska. Att Sverige och Finlands ansökningar inte behandlas gemensamt är en oönskad utveckling, men beskedet var väntat.
 
 För svensk del fortsätter arbetet för att de två länder, Turkiet och Ungern, som ännu inte ratificerat den svenska Natoansökan gör det så snart som möjligt. För att bli Natomedlem måste Sveriges ansökan godkännas av samtliga 30 alliansmedlemmar. Som en del i processen har Sverige, Finland och Turkiet upprättat ett gemensamt memorandum och fört samtal i ett trilateralt format. Sverige efterlever och kommer fortsätta att efterleva detta memorandum.

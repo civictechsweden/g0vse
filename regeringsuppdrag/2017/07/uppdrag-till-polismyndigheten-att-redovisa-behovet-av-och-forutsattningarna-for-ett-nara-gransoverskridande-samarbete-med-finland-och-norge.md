@@ -10,6 +10,6 @@ Polismyndigheten ska i genomförandet av uppdraget föra samtal med berörda myn
 
 Polismyndigheten får även redogöra för de behov, förutsättningar eller andra synpunkter i övrigt som aktualiseras med anledning av uppdraget.
 
-Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 7 november 2017\.
+Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 7 november 2017.
 
 [Pressmeddelande: Överenskommelse mellan Sverige, Finland och Norge om operativt polissamarbete](/pressmeddelanden/2017/07/overenskommelse-mellan-sverige-finland-och-norge-om-operativt-polissamarbete/)

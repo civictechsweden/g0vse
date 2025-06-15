@@ -1,6 +1,6 @@
 # Regeringen ger Trafikverket i uppdrag att dela ut bidrag för alkobommar
 
-\- Fler kontroller kan bidra till ökad nykterhet i trafiken och därmed även bättre trafiksäkerhet. Regeringen ger därför Trafikverket i uppdrag att dela ut bidrag, säger infrastruktur\- och bostadsminister Andreas Carlson.
+- Fler kontroller kan bidra till ökad nykterhet i trafiken och därmed även bättre trafiksäkerhet. Regeringen ger därför Trafikverket i uppdrag att dela ut bidrag, säger infrastruktur- och bostadsminister Andreas Carlson.
 
 Fram till 2020 hade Trafikverket ett regeringsuppdrag att etablera anläggningar för nykterhetskontroll i vissa hamnar och fick för det ändamålet 78 miljoner kronor. Men sedan 2020 har pengarna inte kunnat betalas ut eftersom myndigheten inte haft i uppdrag att etablera några anläggningar.
 

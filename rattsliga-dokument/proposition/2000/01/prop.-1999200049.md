@@ -1,6 +1,6 @@
 # Utökat skydd för kodade tjänster
 
-Förslaget i propositionen innebär att reglerna om avkodningsutrustning som ger obehörig tillgång till radio\- och TV\-sändningar skärps.
+Förslaget i propositionen innebär att reglerna om avkodningsutrustning som ger obehörig tillgång till radio- och TV-sändningar skärps.
 
 I propositionen läggs det fram förslag till en ny lag om förbud beträffande viss avkodningsutrustning bl.a. för att i svensk rätt genomföra Europaparlamentets och rådets direktiv 98/84/EG av den 20 november 1998 om det rättsliga skyddet för tjänster som bygger på eller utgörs av villkorad tillgång.
 
@@ -10,4 +10,4 @@ Förslaget innebär att i stort sett all kommersiell hantering av sådan utrustn
 
 Maximistraffet för brott mot lagen föreslås höjt från nuvarande fängelse i sex månader till fängelse i högst två år. Åtal skall enligt förslaget få väckas när målsäganden anger brottet till åtal eller åtal är motiverat från allmän synpunkt.
 
-Den nya lagen föreslås träda i kraft den 1 maj 2000 och ersätta den nuvarande lagen (1993:1367\) om förbud beträffande viss avkodningsutrustning.
+Den nya lagen föreslås träda i kraft den 1 maj 2000 och ersätta den nuvarande lagen (1993:1367) om förbud beträffande viss avkodningsutrustning.

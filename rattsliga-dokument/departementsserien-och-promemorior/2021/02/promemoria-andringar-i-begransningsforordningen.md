@@ -1,6 +1,6 @@
 # Promemoria Ändringar i begränsningsförordningen
 
-Socialdepartementet föreslår att förordningen om särskilda begränsningar för att förhindra spridning av sjukdomen covid\-19 ändras. Nya begränsningar tillkommer för sådant som nu inte omfattas. Museer och konsthallar ska omfattas av liknande krav som gäller för platser för fritidsverksamhet. Nya krav införs för nöjesparker, djurparker, temaparker och liknande. Folkhälsomyndigheten föreslås få meddela ytterligare föreskrifter om smittskyddsåtgärder. Kommuner får meddela förbud mot att vistas i park, badplats eller liknande, om det finns risk för trängsel.
+Socialdepartementet föreslår att förordningen om särskilda begränsningar för att förhindra spridning av sjukdomen covid-19 ändras. Nya begränsningar tillkommer för sådant som nu inte omfattas. Museer och konsthallar ska omfattas av liknande krav som gäller för platser för fritidsverksamhet. Nya krav införs för nöjesparker, djurparker, temaparker och liknande. Folkhälsomyndigheten föreslås få meddela ytterligare föreskrifter om smittskyddsåtgärder. Kommuner får meddela förbud mot att vistas i park, badplats eller liknande, om det finns risk för trängsel.
 
 Förslaget omfattar bland annat:
 
@@ -15,7 +15,7 @@ Förslaget omfattar bland annat:
 
 ## Tid för när ändringarna börjar gälla
 
-Ändringarna som innebär nya begränsningar för vissa verksamheter, bemyndigandet till kommunerna att meddela föreskrifter om förbud mot att vistas på en särskilt angiven plats, samt förtydligandena vad gäller badanläggningar och borgerliga begravningsceremonier föreslås träda i kraft den 11 mars 2021\.
+Ändringarna som innebär nya begränsningar för vissa verksamheter, bemyndigandet till kommunerna att meddela föreskrifter om förbud mot att vistas på en särskilt angiven plats, samt förtydligandena vad gäller badanläggningar och borgerliga begravningsceremonier föreslås träda i kraft den 11 mars 2021.
 
 Äldre föreskrifter gäller fortfarande för ärenden och mål om tillsyn som har inletts före ikraftträdandet.
 

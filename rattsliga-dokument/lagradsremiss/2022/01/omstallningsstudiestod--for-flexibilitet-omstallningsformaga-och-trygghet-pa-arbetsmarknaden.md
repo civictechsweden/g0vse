@@ -10,4 +10,4 @@ En studerande som är anknuten till en omställningsorganisation kan få ett ytt
 
 Denna lagrådsremiss bygger på en överenskommelse mellan regeringen och Centerpartiet.
 
-Den nya lagen föreslås träda i kraft den 30 juni 2022\.
+Den nya lagen föreslås träda i kraft den 30 juni 2022.

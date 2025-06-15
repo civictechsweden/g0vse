@@ -4,4 +4,4 @@ I propositionen föreslås att ansvaret för handläggningen av vissa associatio
 
 I propositionen föreslås också att det inte längre ska vara möjligt för en revisionsbyrå att få dispens från kravet på att den verkställande direktören ska vara revisor.
 
-Lagändringarna föreslås träda i kraft den 1 november 2013\.
+Lagändringarna föreslås träda i kraft den 1 november 2013.

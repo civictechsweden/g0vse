@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om neddragningarna hos Migrationsverket 2017-2020
 
-I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen har gjort i rapporten Att ställa om i en föränderlig omvärld \- neddragningarna hos Migrationsverket 2017–2020 (RiR 2021:24\).
+I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen har gjort i rapporten Att ställa om i en föränderlig omvärld - neddragningarna hos Migrationsverket 2017–2020 (RiR 2021:24).
 
 Riksrevisionens övergripande slutsats är att Migrationsverkets omställning inte till fullo, i synnerhet under åren 2017–2018, har genomförts på ett ändamålsenligt sätt. Riksrevisionen bedömer att Migrationsverkets omställning har haft negativ inverkan på myndighetens förmåga att nå uppsatta mål.
 

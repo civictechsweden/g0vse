@@ -10,4 +10,4 @@ Därefter kommer utrikesministrarna diskutera situationen i Mellanöstern.
 
 Vidare kommer situationen i Georgien att diskuteras.
 
-– Den nyligen antagna lagen om utländskt inflytande innebär att Georgien rör sig bort från sitt uttalade mål om att närma sig EU. Det är viktigt att skicka tydliga budskap om konsekvenserna av lagen för Georgiens EU\-närmande eftersom den inte är förenlig med EU:s normer och värderingar, säger utrikesminister Tobias Billström.
+– Den nyligen antagna lagen om utländskt inflytande innebär att Georgien rör sig bort från sitt uttalade mål om att närma sig EU. Det är viktigt att skicka tydliga budskap om konsekvenserna av lagen för Georgiens EU-närmande eftersom den inte är förenlig med EU:s normer och värderingar, säger utrikesminister Tobias Billström.

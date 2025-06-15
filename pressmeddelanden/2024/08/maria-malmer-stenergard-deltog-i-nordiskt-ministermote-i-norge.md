@@ -8,6 +8,6 @@ Ministrarna kom överens om att inrätta en arbetsgrupp för att koordinera nord
 
 – Med en gemensam nordisk röst får vi större genomslag i EU för nordiska prioriteringar på migrationsområdet, så jag välkomnar att vi hittar nya former för vårt samarbete, säger migrationsministern.
 
-Ministrarna diskuterade även mottagandet av ukrainska flyktingar och behovet av harmoniserade regler och gemensamma lösningar inom Norden och inom EU. Dessutom diskuterade migrationsministrarna det nordiska samarbetet för att stärka den externa gränsen, öka återvändandet och implementera EU:s asyl\-och migrationspakt.
+Ministrarna diskuterade även mottagandet av ukrainska flyktingar och behovet av harmoniserade regler och gemensamma lösningar inom Norden och inom EU. Dessutom diskuterade migrationsministrarna det nordiska samarbetet för att stärka den externa gränsen, öka återvändandet och implementera EU:s asyl-och migrationspakt.
 
 För mer information och intervjuförfrågningar, kontakta pressekreterare.

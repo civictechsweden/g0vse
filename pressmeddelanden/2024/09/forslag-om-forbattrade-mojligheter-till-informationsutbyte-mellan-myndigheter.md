@@ -8,6 +8,6 @@ Utredningen föreslår en ny generell sekretessbrytande bestämmelse. Enligt fö
 
 Utredningen föreslår att det ska göras en intresseavvägning innan en uppgift lämnas ut och att viss sekretess helt ska undantas från bestämmelsens tillämpningsområde.
 
-Utredningen föreslår att ändringarna träder i kraft den 1 september 2025\.
+Utredningen föreslår att ändringarna träder i kraft den 1 september 2025.
 
-Uppdraget ska slutredovisas senast den 28 februari 2025\. Det som kvarstår av uppdraget är bland annat att analysera och ta ställning till hur behovet av att utbyta offentlig information kan tillgodoses, att särskilt överväga och lämna förslag på en bestämmelse som i större utsträckning gör det möjligt att på eget initiativ lämna ut offentliga uppgifter till en annan myndighet samt att göra en översyn, i den utsträckning det behövs, av myndigheternas registerförfattningar.
+Uppdraget ska slutredovisas senast den 28 februari 2025. Det som kvarstår av uppdraget är bland annat att analysera och ta ställning till hur behovet av att utbyta offentlig information kan tillgodoses, att särskilt överväga och lämna förslag på en bestämmelse som i större utsträckning gör det möjligt att på eget initiativ lämna ut offentliga uppgifter till en annan myndighet samt att göra en översyn, i den utsträckning det behövs, av myndigheternas registerförfattningar.

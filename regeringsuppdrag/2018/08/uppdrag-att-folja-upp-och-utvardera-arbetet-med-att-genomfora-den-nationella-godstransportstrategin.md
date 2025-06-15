@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Trafikanalys att löpande följa upp och utvärdera arbetet med att genomföra den nationella godstransportstrategin Effektiva, kapacitetsstarka och hållbara godstransporter – en nationell godstransportstrategi (dnr N2018/03939/TS).
 
-
 Uppföljningen avser genomförandet av godstransportstrategin. Den slutliga utvärderingen avser såväl genomförandet av godstransportstrategin som resultatet av arbetet med att genomföra godstransportstrategin.
 
 Utvärderingen ska genomföras i relation till godstransportstrategins syfte och övergripande inriktning, det vill säga att skapa förutsättningar för effektiva, kapacitetsstarka och hållbara godstransporter och regeringens ambition att arbetet ska bidra till att de transportpolitiska målen nås, till att stärka näringslivets konkurrenskraft och till att främja en överflyttning av godstransporter från väg till järnväg och sjöfart.
@@ -15,6 +14,6 @@ Trafikanalys ska årligen informera det nationella godstransportrådet om result
 
 Trafikanalys ska redovisa den del av uppdraget som rör uppföljning av genomförandet av den nationella godstransportstrategin till Regeringskansliet (Näringsdepartementet) årligen, vid utgången av mars månad.
 
-Trafikanalys ska delredovisa den del av uppdraget som rör utvärdering till Regeringskansliet (Näringsdepartementet) senast den 31 december 2020\.
+Trafikanalys ska delredovisa den del av uppdraget som rör utvärdering till Regeringskansliet (Näringsdepartementet) senast den 31 december 2020.
 
-Trafikanalys ska slutredovisa uppdraget till Regeringskansliet (Näringsdepartementet) senast den 31 december 2022\.
+Trafikanalys ska slutredovisa uppdraget till Regeringskansliet (Näringsdepartementet) senast den 31 december 2022.

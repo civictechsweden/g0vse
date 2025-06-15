@@ -7,10 +7,10 @@ Utredaren ska bedöma om svensk rätt är förenlig med ändringsdirektivet och 
 * utstationerade arbetstagares rätt till mer likabehandling i fråga om lön m.m. i värdmedlemsstaten,
 * utökat skydd för uthyrda utstationerade arbetstagare,
 * utökat skydd för långvarigt utstationerade arbetstagare,
-* tillgång till information om arbets\- och anställningsvillkor,
+* tillgång till information om arbets- och anställningsvillkor,
 * samarbetet mellan myndigheter, och
 * övervakning, kontroll och efterlevnad.
 
-Målsättningen för utredaren ska vara att så långt som möjligt uppnå likabehandling mellan utstationerade och inhemska arbetstagare, samtidigt som den fria rörligheten för tjänster respekteras. Utredaren ska ha den svenska arbetsmarknads\-modellen och det gällande systemet för hur utstationerings\-direktivet har genomförts i svensk rätt som utgångspunkt för sina överväganden och förslag.
+Målsättningen för utredaren ska vara att så långt som möjligt uppnå likabehandling mellan utstationerade och inhemska arbetstagare, samtidigt som den fria rörligheten för tjänster respekteras. Utredaren ska ha den svenska arbetsmarknads-modellen och det gällande systemet för hur utstationerings-direktivet har genomförts i svensk rätt som utgångspunkt för sina överväganden och förslag.
 
-Uppdraget ska redovisas senast den 31 maj 2019\.
+Uppdraget ska redovisas senast den 31 maj 2019.

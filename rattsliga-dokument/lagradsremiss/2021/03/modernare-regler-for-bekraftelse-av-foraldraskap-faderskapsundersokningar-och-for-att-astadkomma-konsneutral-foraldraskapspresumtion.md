@@ -8,4 +8,4 @@ I lagrådsremissen föreslår regeringen också att reglerna om bekräftelse av 
 
 Vidare föreslår regeringen att regle­ringen om fader­skaps­under­sök­ningar ska moderni­seras i syfte att göra den tydli­gare och mer rätts­säker. Regle­ringen görs teknik­neutral och förut­sätt­ningarna för domstol att besluta om rätts­genetisk under­sökning med hjälp av vävnad från en avliden man regleras särskilt. Rätts­gene­tiska under­sökningar vid utred­ning av fader­skap enligt föräldra­balken ska betalas av staten.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2022\.
+Lagändringarna föreslås träda i kraft den 1 januari 2022.

@@ -1,6 +1,6 @@
 # Utbetalningsmyndigheten
 
-I denna proposition lämnar regeringen förslag till lagstiftning med anledning av inrättandet av en ny myndighet, Utbetalningsmyndigheten. Myndigheten ska inleda sin verksamhet den 1 januari 2024\.
+I denna proposition lämnar regeringen förslag till lagstiftning med anledning av inrättandet av en ny myndighet, Utbetalningsmyndigheten. Myndigheten ska inleda sin verksamhet den 1 januari 2024.
 
 Regeringen föreslår bl.a. att Utbetalningsmyndigheten ska förebygga,
 förhindra och upptäcka felaktiga utbetalningar från välfärdssystemen.
@@ -8,6 +8,6 @@ Myndigheten ska också administrera ett system med transaktionskonto för utbeta
 arbetslöshetskassorna och kreditinstitut föreslås vara skyldiga att
 under vissa förhållanden lämna uppgifter till Utbetalningsmyndigheten.
 
-Regeringen föreslår att fyra nya lagar införs, som reglerar Utbetalningsmyndighetens uppgifter. I övrigt medför Utbetalningsmyndighetens verksamhet behov av ändringar i bl.a. offentlighets\- och sekretesslagen (2009:400\).
+Regeringen föreslår att fyra nya lagar införs, som reglerar Utbetalningsmyndighetens uppgifter. I övrigt medför Utbetalningsmyndighetens verksamhet behov av ändringar i bl.a. offentlighets- och sekretesslagen (2009:400).
 
-De nya reglerna föreslås träda i kraft den 1 januari 2024\.
+De nya reglerna föreslås träda i kraft den 1 januari 2024.

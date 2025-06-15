@@ -1,6 +1,6 @@
 # Ett fönster av möjligheter – stärkt barnrättsperspektiv för barn i skyddat boende
 
-Regeringen tillsatte 2016 en utredning om ett stärkt barnrättsperspektiv för barn i skyddat boende. Utredningens uppdrag har varit att föreslå åtgärder för att stärka barnrättsperspektivet för barn som vistas i skyddat boende tillsammans med en vårdnadshavare. Utgångspunkten skulle vara barnets grundläggande mänskliga fri\- och rättigheter och barnets bästa enligt FN:s konvention om barnets rättigheter.
+Regeringen tillsatte 2016 en utredning om ett stärkt barnrättsperspektiv för barn i skyddat boende. Utredningens uppdrag har varit att föreslå åtgärder för att stärka barnrättsperspektivet för barn som vistas i skyddat boende tillsammans med en vårdnadshavare. Utgångspunkten skulle vara barnets grundläggande mänskliga fri- och rättigheter och barnets bästa enligt FN:s konvention om barnets rättigheter.
 
 I uppdraget har ingått att:
 
@@ -10,7 +10,7 @@ I uppdraget har ingått att:
 * och enskilda aktörer redan i dag har för barn i skyddat boende
 * föreslå hur barnet ska synliggöras och göras mer delaktigt i frågor
 * som rör barnet under tiden i skyddat boende
-* föreslå hur barnets rätt till skolgång, hälso\- och sjukvård, tandvård
+* föreslå hur barnets rätt till skolgång, hälso- och sjukvård, tandvård
 * och stöd och behandling ska säkerställas
 * föreslå hur beslut som rör insatsen skyddat boende ska kunna ingå
 * i den officiella statistiken.
@@ -33,7 +33,7 @@ En enskild verksamhet som driver skyddat boende ska ansöka om tillstånd hos IV
 
 Utredningen föreslår att socialnämnden ska fatta beslut enligt socialtjänstlagen även för barn som följer med en vårdnadshavare till skyddat boende.
 
-### Barnet ska få tillgång till hälso\- och sjukvård
+### Barnet ska få tillgång till hälso- och sjukvård
 
 Barn och unga ska, som vid andra placeringar utanför hemmet, erbjudas en hälsoundersökning.
 
@@ -49,4 +49,4 @@ Tillgång till permanent bostad samt fortsatt vård och stöd är viktiga förut
 
 Utredningen föreslår att särskilda utbildningsinsatser riktas till domstolar och familjerätter om barns situation i skyddat boende och att Socialstyrelsen uppdras att ta fram en modell för barns umgänge med en misstänkt förövare. Modellen ska utgå från barnets perspektiv och förövarens ansvar för våldet.
 
-Utredningen föreslår att författningsändringarna ska träda i kraft den 1 juli 2019\.
+Utredningen föreslår att författningsändringarna ska träda i kraft den 1 juli 2019.

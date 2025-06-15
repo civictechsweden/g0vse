@@ -5,4 +5,4 @@ En särskild utredare ska se över reglerna för karens och sjuklön. Syftet med
 bidrar till att inkomstbortfall under sjukdom bärs på ett mer solidariskt och
 fördelningspolitiskt träffsäkert sätt samt motverkar riskerna för sjuknärvaro.
 
-Uppdraget ska redovisas senast den 29 september 2023\.
+Uppdraget ska redovisas senast den 29 september 2023.

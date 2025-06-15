@@ -10,4 +10,4 @@ Utredaren ska bland annat:
 * analysera och vid behov föreslå alternativa modeller och metoder för fastställande av studiemedelsbeloppen, och
 * föreslå nödvändiga författningsändringar.
 
-Uppdraget ska redovisas senast den 30 november 2010\. Ett delbetänkande med förslag till förändringar i de regelverk som styr CSN:s fordringshantering ska lämnas senast den 17 maj 2010\.
+Uppdraget ska redovisas senast den 30 november 2010. Ett delbetänkande med förslag till förändringar i de regelverk som styr CSN:s fordringshantering ska lämnas senast den 17 maj 2010.

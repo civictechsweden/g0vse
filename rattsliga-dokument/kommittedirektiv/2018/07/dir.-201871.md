@@ -9,4 +9,4 @@ Utredaren ska bland annat:
 * om analysen visar att skillnaderna i avsatta resurser behöver minskas för att förbättra kunskapsresultaten, ta fram förslag för att minska dessa skillnader genom resurstilldelning och vid behov också lämna förslag på kompletterande insatser, och
 * lämna förslag till nödvändiga författningsändringar.
 
-Uppdraget ska redovisas senast den 30 mars 2020\.
+Uppdraget ska redovisas senast den 30 mars 2020.

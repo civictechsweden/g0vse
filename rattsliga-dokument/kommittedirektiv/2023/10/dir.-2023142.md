@@ -1,6 +1,6 @@
 # Genomförande av ett nytt konsumentkreditdirektiv
 
-En särskild utredare ska analysera och föreslå vilka författningsändringar som behövs för att i svensk rätt genomföra ett nytt EU\-direktiv om konsumentkrediter som nyligen antagits.
+En särskild utredare ska analysera och föreslå vilka författningsändringar som behövs för att i svensk rätt genomföra ett nytt EU-direktiv om konsumentkrediter som nyligen antagits.
 
 Utredaren ska
 
@@ -9,4 +9,4 @@ Utredaren ska
 * bedöma vilka författningsändringar och andra åtgärder som behövs för att genomföra direktivet i svensk rätt, och
 * lämna nödvändiga författningsförslag och förslag på andra åtgärder.
 
-Uppdraget ska redovisas senast den 11 oktober 2024\.
+Uppdraget ska redovisas senast den 11 oktober 2024.

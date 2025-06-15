@@ -1,6 +1,6 @@
 # Uppdrag att kartlägga digitala stöd och tillämpningar i smittskyddsarbetet i ett urval länder
 
-Regeringen uppdrar åt E\-hälsomyndigheten att kartlägga digitala stöd och tillämpningar som används i löpande smittskyddsarbete och insatser vid större utbrott av smittsamma sjukdomar i ett urval länder inom främst Europeiska unionen.
+Regeringen uppdrar åt E-hälsomyndigheten att kartlägga digitala stöd och tillämpningar som används i löpande smittskyddsarbete och insatser vid större utbrott av smittsamma sjukdomar i ett urval länder inom främst Europeiska unionen.
 
 ## Organisatoriskt och juridiskt ansvar
 

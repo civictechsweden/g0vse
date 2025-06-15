@@ -8,4 +8,4 @@ Uppdraget utvidgas nu ytterligare. Den nationella samordnaren ska även
 * analysera om förslagen medför andra ändringar i regleringen av specialskolan, och
 * lämna nödvändiga författningsförslag.
 
-Enligt utredningens direktiv ska uppdraget redovisas senast den 15 april 2016\. Utredningstiden förlängs nu. Uppdraget ska i stället slutredovisas senast den 30 juni 2016\.
+Enligt utredningens direktiv ska uppdraget redovisas senast den 15 april 2016. Utredningstiden förlängs nu. Uppdraget ska i stället slutredovisas senast den 30 juni 2016.

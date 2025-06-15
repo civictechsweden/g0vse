@@ -10,4 +10,4 @@ Regeringskansliet föreslår bland annat att
 * Folkhälsomyndigheten och kommunen bör få ta ut avgifter för sin tillsyn
 * sekretess bör gälla i Folkhälsomyndighetens och kommunens tillsyn.
 
-Ändringarna föreslås träda i kraft den 1 maj 2024\.
+Ändringarna föreslås träda i kraft den 1 maj 2024.

@@ -1,13 +1,12 @@
 # Anförande av försvarsminister Pål Jonson vid Clingendael Institute
 
-Haag i Nederländerna, 9 november 2023\.
+Haag i Nederländerna, 9 november 2023.
 
 Det talade ordet gäller.
 
-
 Thank you, Rem, for those kind words of introduction. It is great to be here. Congratulations to the Clingendael Institute on your 40th anniversary. Clingendael Institute is really a role model for think tanks in Europe. You have inspired many new ideas that have also been implemented.
 
-To Kajsa \[Ollongren, Minister of Defence of the Netherlands], thank you for your eloquent speech and for the bilateral meeting this morning. We are truly lucky to have you as one of our closest partners as well.
+To Kajsa [Ollongren, Minister of Defence of the Netherlands], thank you for your eloquent speech and for the bilateral meeting this morning. We are truly lucky to have you as one of our closest partners as well.
 
 But we don’t want to be partners any longer. We want to be Allies. I think that when we become Allies, we are going to deepen our cooperation even further.
 
@@ -17,11 +16,11 @@ Both Sweden and the Netherlands are committed Europeanists. We both think that E
 
 But we are also ardent Atlanticists. We think that the world becomes a better place when Europe and North America cooperate, and when we have effective and good cooperation between the EU and NATO.
 
-Being both good Europeanists and strong Atlanticists can certainly go hand in hand. There is a win\-win between a stronger EU and a stronger NATO. That is also a core value.
+Being both good Europeanists and strong Atlanticists can certainly go hand in hand. There is a win-win between a stronger EU and a stronger NATO. That is also a core value.
 
 Sweden and the Netherlands also share a commitment to and support for Ukraine in all forms. Both our countries have punched above our weight when it comes to supporting Ukraine, at both civilian and military level. We are in it for the long haul, and it is a critical mission for both our countries.
 
-These three perspectives – the EU, EU\-NATO cooperation and Ukraine – fit well into where Europe is right now in the “post\-post\-Cold War era”.
+These three perspectives – the EU, EU-NATO cooperation and Ukraine – fit well into where Europe is right now in the “post-post-Cold War era”.
 
 We are currently at a crucial time for the Union. The EU is facing the most challenging security environment since the end of the Second World War. We are at day 624 of the horrendous war in Ukraine due to Russia’s unprovoked and illegal aggression.
 
@@ -31,7 +30,7 @@ Security and defence are moving up on the political agenda for very good reasons
 
 The EU does not have the luxury to look inwards or take any kind of strategic pause. We must have the bandwidth to handle a multitude of challenges at the same time. This is the bottom line of why Europe must take greater responsibility for the security of our region.
 
-There are many measures that we need to take to ensure that. Kajsa, you alluded to defence investments. Defence investments are crucial to ensure capabilities. We are on the right trajectory. Both Sweden and the Netherlands will meet the 2% target on defence investments by next year. Sweden has doubled its defence expenditures since 2020\.
+There are many measures that we need to take to ensure that. Kajsa, you alluded to defence investments. Defence investments are crucial to ensure capabilities. We are on the right trajectory. Both Sweden and the Netherlands will meet the 2% target on defence investments by next year. Sweden has doubled its defence expenditures since 2020.
 
 But it is not enough to only spend more. We must spend more efficiently and do so together. Let’s make good use of the new instruments in the EU that are available. Let’s use the European Defence Fund, get more engaged into PESCO projects, use the CARD, and make use of EDIRPA and ASAP more efficiently. The good thing when using these new instruments is that we also find new consortiums for collaboration.
 
@@ -53,11 +52,11 @@ Another lesson that we have learned from the war in Ukraine is the importance of
 
 Second part is partnerships. Common challenges require common action. There are several things that the EU can do to further expand its partnerships.
 
-During Sweden’s Presidency of the Council of the EU, we arranged the EU Indo\-Pacific Ministerial Forum with several political leaders from the Indo\-Pacific region. The EU must engage more with the Indo\-Pacific region. Both Kajsa and I, together with three other European defence ministers, attended the Shangri\-La Dialogue in June 2023 together with High Representative Borrell and former Minister of Defence \[of Ukraine] Oleksii Reznikov. That kind of engagement and an increased focus by the EU in the Indo\-Pacific region are crucial. What is happening in the Euro\-Atlantic region is interconnected with developments in the Indo\-Pacific region.
+During Sweden’s Presidency of the Council of the EU, we arranged the EU Indo-Pacific Ministerial Forum with several political leaders from the Indo-Pacific region. The EU must engage more with the Indo-Pacific region. Both Kajsa and I, together with three other European defence ministers, attended the Shangri-La Dialogue in June 2023 together with High Representative Borrell and former Minister of Defence [of Ukraine] Oleksii Reznikov. That kind of engagement and an increased focus by the EU in the Indo-Pacific region are crucial. What is happening in the Euro-Atlantic region is interconnected with developments in the Indo-Pacific region.
 
-The relations between the EU and the United States are also critical for the transatlantic link. Regarding the EU and NATO, the two organisations have never cooperated as closely as they have in the run\-up to and during the war in Ukraine. That is something to build on as well. The third Joint Declaration on EU\-NATO Cooperation states that the EU and NATO should intensify cooperation with regards to, for example, space, new and emerging technologies, and climate change. We need to transform that Joint Declaration into an action plan – because history is changed by decisions that are implemented.
+The relations between the EU and the United States are also critical for the transatlantic link. Regarding the EU and NATO, the two organisations have never cooperated as closely as they have in the run-up to and during the war in Ukraine. That is something to build on as well. The third Joint Declaration on EU-NATO Cooperation states that the EU and NATO should intensify cooperation with regards to, for example, space, new and emerging technologies, and climate change. We need to transform that Joint Declaration into an action plan – because history is changed by decisions that are implemented.
 
-I would also like to thank the Netherlands for the important work that it is doing on military mobility. Military mobility and the ability to move assets and capabilities within the Euro\-Atlantic area are essential to ensure credible deterrence.
+I would also like to thank the Netherlands for the important work that it is doing on military mobility. Military mobility and the ability to move assets and capabilities within the Euro-Atlantic area are essential to ensure credible deterrence.
 
 In essence, partnerships are important if the EU is to become a stronger geopolitical actor.
 

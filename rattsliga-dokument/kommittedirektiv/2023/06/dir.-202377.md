@@ -5,8 +5,8 @@ Regeringen uppdrar åt en särskild utredare att analysera och föreslå effekti
 Utredaren ska bland annat:
 
 * analysera behovet av och lämna ändamålsenliga och effektiva förslag på hur stöd i form av kontaktperson till anhöriga till personer som är långvarigt sjuka och till anhöriga till personer som är kortvarigt allvarligtsjuka ska utformas och tillhandahållas,
-* analysera och vid behov lämna förslag på åtgärder som säkerställer ett ändamålsenligt stöd till anhöriga som är barn, lämna effektiva förslag på åtgärder som säkerställer att relevant personal inom socialtjänst och hälso\- och sjukvård har en ändamålsenlig kompetens för att kunna ge stöd av god kvalitet till anhöriga som är barn,
+* analysera och vid behov lämna förslag på åtgärder som säkerställer ett ändamålsenligt stöd till anhöriga som är barn, lämna effektiva förslag på åtgärder som säkerställer att relevant personal inom socialtjänst och hälso- och sjukvård har en ändamålsenlig kompetens för att kunna ge stöd av god kvalitet till anhöriga som är barn,
 * analysera behovet av och lämna ändamålsenliga och effektiva förslag på hur en nationell anhöriglinje som ger tillgängligt stöd av god kvalitet till anhöriga dygnet runt kan erbjudas, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget redovisas senast den 1 september 2024\.
+Uppdraget redovisas senast den 1 september 2024.

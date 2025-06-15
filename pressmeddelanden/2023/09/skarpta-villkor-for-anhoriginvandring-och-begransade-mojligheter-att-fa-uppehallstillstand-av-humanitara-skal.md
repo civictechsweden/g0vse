@@ -6,4 +6,4 @@ I propositionen föreslår regeringen bland annat att åldersgränsen för att n
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-Lagändringarna föreslås träda i kraft den 1 december 2023\.
+Lagändringarna föreslås träda i kraft den 1 december 2023.

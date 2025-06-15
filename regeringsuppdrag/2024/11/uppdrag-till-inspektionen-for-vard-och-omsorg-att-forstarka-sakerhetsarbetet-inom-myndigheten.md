@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Inspektionen för vård och omsorg (IVO) att förstärka säkerhetsarbetet inom myndigheten.
 
-
 IVO ska bland annat:
 
 * redovisa vilka åtgärder som vidtagits och vilka åtgärder som planeras på kort sikt för att stärka säkerhetsarbetet, för såväl medarbetarskyddet som verksamhetens skydd mot otillåten påverkan ur ett bredare perspektiv,

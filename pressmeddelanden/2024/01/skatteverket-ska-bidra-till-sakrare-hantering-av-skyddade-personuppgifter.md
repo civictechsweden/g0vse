@@ -8,4 +8,4 @@ Regeringens beslut innebär att Skatteverket ska etablera en nationell struktur 
 
 – Många kan känna en rädsla för att lämna våldsamma relationer på grund av en oro över vilket skydd som finns. Regeringen arbetar på bred front för att skyddet till våldsutsatta ska förbättras, och en viktig pusselbit är att stärka myndigheters arbete med att säkert hantera skyddade personuppgifter. Uppdraget ska samordnas med Jämställdhetsmyndighetens tidigare beslutade uppdrag att samordna och följa upp myndigheters arbete med skyddade personuppgifter, säger jämställdhetsminister Paulina Brandberg.
 
-För genomförandet får Skatteverket 2 000 000 kronor. Uppdraget finns i Skatteverkets regleringsbrev för 2024 och ska redovisas senast den 31 oktober 2024\.
+För genomförandet får Skatteverket 2 000 000 kronor. Uppdraget finns i Skatteverkets regleringsbrev för 2024 och ska redovisas senast den 31 oktober 2024.

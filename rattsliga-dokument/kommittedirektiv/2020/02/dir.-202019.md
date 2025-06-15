@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 
 Utredaren ska föreslå de författningsändringar som bedöms vara nödvändiga eller lämpliga.
 
-Uppdraget ska redovisas senast den 21 juni 2021\.
+Uppdraget ska redovisas senast den 21 juni 2021.

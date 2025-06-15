@@ -2,10 +2,9 @@
 
 Aktuella frågor när det gäller elever med funktionsnedsättning, rapport från dialog med FN:s barnrättskommitté samt andra viktiga frågor var i fokus på första mötet för året med funktionshindersdelegationen.
 
-
 Funktionshindersdelegationen är ett samordningsorgan för överläggningar och ömsesidig information för hela regeringen och en möjlighet för samtliga statsråd att föra dialog med funktionhindersrörelsen.
 
-På mötet redogjorde socialtjänstminister Camilla Waltersson Grönvall för de sammanfattande slutsatser och rekommendationer som lade särskilt fokus på barn med funktionsnedsättningar  som FN:s barnrättskommitté lämnade till Sverige i februari 2023\. De omfattar ett flertal politikområden och är resultatet av ett gediget arbete av FN:s barnrättskommitté.
+På mötet redogjorde socialtjänstminister Camilla Waltersson Grönvall för de sammanfattande slutsatser och rekommendationer som lade särskilt fokus på barn med funktionsnedsättningar  som FN:s barnrättskommitté lämnade till Sverige i februari 2023. De omfattar ett flertal politikområden och är resultatet av ett gediget arbete av FN:s barnrättskommitté.
 
 — Rekommendationerna är ett viktigt stöd och en vägledning i genomförandet av barnkonventionen och är ett ansvar för hela regeringen, säger, socialtjänstministern.
 
@@ -17,7 +16,7 @@ På mötena framöver kommer statsråd på andra departement att bjudas in för 
 
 ## Deltagande organisationer på funktionshindersdelegationens möte
 
-* Funktionsrätt Sverige (Afasiförbundet, Astma\- och allergiförbundet, Riksförbundet FUB, Riksförbundet Attention, och Parkinsonförbundet)
+* Funktionsrätt Sverige (Afasiförbundet, Astma- och allergiförbundet, Riksförbundet FUB, Riksförbundet Attention, och Parkinsonförbundet)
 * Föreningen Sveriges Dövblinda
 * Nätverket unga för tillgänglighet (NUFT) (Unga med synnedsättning, Unga rörelsehindrade)
 * Riksförbundet för Rörelsehindrade Barn och Ungdomar, RBU

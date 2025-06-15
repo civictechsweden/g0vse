@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om statens arbete med att säkra skyddsutrustning under coronapandemin
 
-Regeringen redogör för hur den bedömer Riksrevisionens iakttagelser och myndighetens rekommendationer till regeringen i rapporten Statens insatser för att säkra skyddsutrustning – krishantering till ett högt pris (RiR 2022:10\).
+Regeringen redogör för hur den bedömer Riksrevisionens iakttagelser och myndighetens rekommendationer till regeringen i rapporten Statens insatser för att säkra skyddsutrustning – krishantering till ett högt pris (RiR 2022:10).
 
 Riksrevisionens övergripande slutsats är att regeringen och myndigheterna inte har säkrat regionernas och kommunernas tillgång till personlig skyddsutrustning på ett effektivt sätt under coronapandemin.
 

@@ -1,6 +1,6 @@
 # Stabiliserings- och associeringsavtal mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Serbien, å andra sidan
 
-I propositionen föreslås att riksdagen godkänner stabiliserings\- och associeringsavtalet mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Serbien, å andra sidan. Syftet med avtalet är att inom ramen för stabiliserings\- och associeringsprocessen bidra till stabilitet samt positiv ekonomisk och social utveckling i regionen.
+I propositionen föreslås att riksdagen godkänner stabiliserings- och associeringsavtalet mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Serbien, å andra sidan. Syftet med avtalet är att inom ramen för stabiliserings- och associeringsprocessen bidra till stabilitet samt positiv ekonomisk och social utveckling i regionen.
 
 Avtalet innehåller bestämmelser om frihandel, politisk dialog och samarbete på en rad olika områden.
 

@@ -4,6 +4,6 @@ I maj 2024 gav regeringen en särskild utredare i uppdrag att se över lagen om 
 
 Regeringen har nu beslutat att utöka uppdraget. Utredaren ska även analysera och överväga om frysning av tillgångar bör införas som komplement till de åtgärder som kan vidtas mot utlänningar som utgör kvalificerade säkerhetshot mot Sverige. Om det bedöms att frysning av tillgångar bör införas ska utredaren föreslå hur en sådan ordning kan utformas.
 
-Utredningstiden ligger fast och uppdraget ska därmed redovisas senast den 21 november 2025\.
+Utredningstiden ligger fast och uppdraget ska därmed redovisas senast den 21 november 2025.
 
 Utredningsdirektiven är en del av Tidöavtalet och bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

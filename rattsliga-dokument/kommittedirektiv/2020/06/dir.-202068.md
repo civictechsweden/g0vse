@@ -12,8 +12,7 @@ behovsanpassad och patientcentrerad vård och omsorg och får tillgång till de 
 Utredaren ska bl.a.:
 − analysera och lämna förslag på hur samverkan för personer med samsjuklighet kan förbättras mellan huvudmännen och mellan verksamheter med samma huvudman,
 − se över ansvarsfördelningen mellan huvudmännen och lämna förslag på hur ansvaret för personer med samsjuklighet kan samlas hos en huvudman,
-− belysa frågor som rör samverkan mellan hälso\- och sjukvård och socialtjänst och andra aktörer vars uppdrag berör personer med samsjuklighet och
-− analysera för\- och nackdelar med en gemensam lagstiftning för personer som vårdas utan samtycke enligt LVM eller LPT.
+− belysa frågor som rör samverkan mellan hälso- och sjukvård och socialtjänst och andra aktörer vars uppdrag berör personer med samsjuklighet och
+− analysera för- och nackdelar med en gemensam lagstiftning för personer som vårdas utan samtycke enligt LVM eller LPT.
 
-
-Uppdraget ska redovisas senast den 30 november 2021\.
+Uppdraget ska redovisas senast den 30 november 2021.

@@ -4,7 +4,7 @@ I lagrådsremissen lämnas förslag om ett nytt system för anstånd med
 betalning av kupongskatt vid utdelning till utländska juridiska personer
 som uppvisar underskott för det aktuella beskattningsåret.
 
-Förslaget föranleds av EU\-domstolens dom i mål C\-575/17, Sofina SA m.fl.
+Förslaget föranleds av EU-domstolens dom i mål C-575/17, Sofina SA m.fl.
 
 Anstånd föreslås kunna beviljas efter ansökan till Skatteverket. Möjligheten föreslås stå öppen för utländska juridiska personer hemmahörande
 
@@ -19,4 +19,4 @@ Anståndet föreslås gälla fram till och med fyra månader efter utgången
 av det beskattningsår som följer närmast efter det beskattningsår vars
 anståndsutrymme ligger till grund för anstånd.
 
-Förslaget föreslås träda i kraft den 1 januari 2020\.
+Förslaget föreslås träda i kraft den 1 januari 2020.

@@ -10,4 +10,4 @@ Utredaren ska
 * samråda med företrädare för Europeiska kommissionen för att säkerställa att förslagen inte ställer upp några oberättigade hinder för den fria rörligheten, och
 * samråda med företrädare för Arbetsförmedlingen.
 
-Uppdraget ska redovisas senast den 15 mars 2010\.
+Uppdraget ska redovisas senast den 15 mars 2010.

@@ -2,7 +2,7 @@
 
 – Folkhälsomyndigheten spelar en central roll i det nationella folkhälsoarbetet. Med Olivia Wigzell som nytillträdd generaldirektör och ett förtydligat uppdrag är detta en nystart för myndigheten, säger socialminister Jakob Forssmed.
 
-Folkhälsomyndigheten har ett nationellt ansvar för folkhälsofrågor. Myndigheten verkar för en god folkhälsa genom att bygga upp och förmedla kunskap till hälso\- och sjukvården och andra aktörer på smittskydds\- och folkhälsoområdet.
+Folkhälsomyndigheten har ett nationellt ansvar för folkhälsofrågor. Myndigheten verkar för en god folkhälsa genom att bygga upp och förmedla kunskap till hälso- och sjukvården och andra aktörer på smittskydds- och folkhälsoområdet.
 
 Folkhälsopolitiken är tvärsektoriell och regeringen anser att myndighetens roll som samlande, stödjande och inte minst pådrivande är avgörande för att nå upp till de mål som riksdagen beslutat om. Av den anledningen aviserar regeringen ett antal ändringar i myndighetens instruktion, bland annat:
 

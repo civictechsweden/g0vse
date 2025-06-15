@@ -10,4 +10,4 @@ Utredaren ska bland annat:
 
 Utredaren bör samråda med berörda myndigheter, bland annat Energimyndigheten, Energimarknadsinspektionen, Boverket, Naturvårdsverket, och andra relevanta aktörer såsom Forum för Smarta elnät, Fossilfritt Sverige m.fl. Genomförandet av uppdraget ska även ske i dialog med andra relevanta utredningar samt berörda delar av näringslivet, den offentliga sektorn och andra berörda aktörer.
 
-Utredningen ska delredovisa hinder, lösningar och erfarenheter från befintliga styrmedel senast den 28 februari 2018\. Uppdraget ska slutredovisas senast den 15 oktober 2018\.
+Utredningen ska delredovisa hinder, lösningar och erfarenheter från befintliga styrmedel senast den 28 februari 2018. Uppdraget ska slutredovisas senast den 15 oktober 2018.

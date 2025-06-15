@@ -4,4 +4,4 @@ I propositionen lämnar regeringen förslag som syftar till att öka rättssäke
 
 Förslagen är en del av genomförandet av Europaparlamentets och rådets direktiv 2012/13/EU om rätten till information vid straffrättsliga förfaranden.
 
-Förslagen föreslås träda i kraft den 1 juni 2014\.
+Förslagen föreslås träda i kraft den 1 juni 2014.

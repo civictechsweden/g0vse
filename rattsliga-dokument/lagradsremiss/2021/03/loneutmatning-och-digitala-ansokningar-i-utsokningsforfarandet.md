@@ -8,4 +8,4 @@ I syfte att skapa en mer resurs­effektiv hantering föreslår regeringen att Kr
 
 För att bättre utnyttja digitali­seringens möjlig­heter föreslår rege­ringen dessutom att en ansökan om utmät­ning eller annan verk­ställig­het ska kunna ges in till Krono­fogde­myndig­heten digitalt.
 
-Lagändringen som rör förbehålls­beloppen föreslås träda i kraft den 1 juni 2022 och lag­ändringarna i övrigt den 1 augusti 2021\.
+Lagändringen som rör förbehålls­beloppen föreslås träda i kraft den 1 juni 2022 och lag­ändringarna i övrigt den 1 augusti 2021.

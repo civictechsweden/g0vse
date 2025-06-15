@@ -1,9 +1,8 @@
 # Anförande av jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg vid minnesceremoni med anledning av Förintelsens minnesdag
 
-Eric Ericsonhallen, Stockholm, den 27 januari 2023\.
+Eric Ericsonhallen, Stockholm, den 27 januari 2023.
 
 Det talade ordet gäller.
-
 
 Ers kungliga höghet, herr talman, överlevande, mina damer och herrar, jag är ödmjuk inför att få tala till er denna betydelsefulla dag.
 

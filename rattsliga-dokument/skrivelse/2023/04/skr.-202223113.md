@@ -2,7 +2,7 @@
 
 I skrivelsen redovisar regeringen sin bedömning av Riksrevisionens
 iakttagelser och rekommendationer i granskningsrapporten Skynda
-långsamt – de statliga servicekontoren i ny regi (RiR 2022:28\).
+långsamt – de statliga servicekontoren i ny regi (RiR 2022:28).
 
 Riksrevisionen har granskat om den lokala serviceorganisationen i
 Statens servicecenters (SSC) regi är ändamålsenlig och effektiv för att

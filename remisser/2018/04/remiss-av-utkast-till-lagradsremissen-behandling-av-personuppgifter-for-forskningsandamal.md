@@ -2,8 +2,7 @@
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat ett utkast till lagrådsremissen Behandling av personuppgifter för forskningsändamål.
 
-
-Sista dag att svara på remissen är den 4 maj 2018\.
+Sista dag att svara på remissen är den 4 maj 2018.
 
 ## Remissinstanser
 
@@ -20,9 +19,9 @@ Sista dag att svara på remissen är den 4 maj 2018\.
 11 Socialstyrelsen
 12 Läkemedelsverket
 13 Folkhälsomyndigheten
-14 Myndigheten för vård\- och omsorgsanalys
+14 Myndigheten för vård- och omsorgsanalys
 15 Forskningsrådet för hälsa, arbetsliv och välfärd
-16 Tandvårds\- och läkemedelsförmånsverket
+16 Tandvårds- och läkemedelsförmånsverket
 17 Inspektionen för socialförsäkringen
 18 Pensionsmyndigheten
 19 Statistiska centralbyrån
@@ -64,14 +63,14 @@ samhällsbyggande
 54 Sveriges lantbruksuniversitet
 55 Riksarkivet
 56 Arbetsförmedlingen
-57 Institutet för arbetsmarknads\- och utbildningspolitisk
+57 Institutet för arbetsmarknads- och utbildningspolitisk
 utvärdering
 58 Chalmers tekniska högskola AB
 59 Ersta Sköndal Bräcke högskola
 60 Jönköping University
 61 Kungl. Vetenskapsakademien
 62 Läkemedelsindustriföreningen
-63 Statens medicinsk\-etiska råd
+63 Statens medicinsk-etiska råd
 64 Sveriges kommuner och landsting
 65 Svenska Journalistförbundet
 66 Svenska tidningsutgivareföreningen

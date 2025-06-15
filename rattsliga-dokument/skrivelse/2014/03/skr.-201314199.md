@@ -14,6 +14,6 @@ Regeringen har bl.a. i regleringsbrevet för 2014 gett Arbetsförmedlingen i upp
 gett en särskild utredare i uppdrag att bl.a. analysera hur myndighetens kontakter med arbetsgivare ytterligare kan förbättras.
 
 Vidare har en särskild utredare i uppdrag att kartlägga förekomsten av oegentligheter, överutnyttjande och andra felaktigheter i den arbetsmarknadspolitiska verksamheten.
-Riksrevisionens granskning är ett viktigt underlag i det fortsatta arbetet med uppföljningen av instegs\- och nystartsjobben.
+Riksrevisionens granskning är ett viktigt underlag i det fortsatta arbetet med uppföljningen av instegs- och nystartsjobben.
 
 I och med denna skrivelse anser regeringen att Riksrevisionens granskningsrapport är slutbehandlad.

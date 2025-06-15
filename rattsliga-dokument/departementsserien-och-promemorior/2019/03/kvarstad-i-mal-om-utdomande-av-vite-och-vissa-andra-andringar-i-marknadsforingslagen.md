@@ -4,6 +4,6 @@ I marknadsföringslagen finns bestämmelser som ger Konsumentombudsmannen (KO) m
 
 I promemorian föreslås att domstolen efter yrkande av part får möjlighet att besluta om kvarstad, vilket innebär att näringsidkaren fråntas sin rätt att förfoga över viss egendom till dess att frågan om vitets utdömande är avgjord.
 
-Förslaget har utarbetats med utgångspunkt i de åtgärder som diskuteras i betänkandet Ett reklamlandskap i förändring – konsumentskydd och tillsyn i en digitaliserad värld (SOU 2018:1\).
+Förslaget har utarbetats med utgångspunkt i de åtgärder som diskuteras i betänkandet Ett reklamlandskap i förändring – konsumentskydd och tillsyn i en digitaliserad värld (SOU 2018:1).
 
 Promemorian innehåller även förslag till redaktionella ändringar av marknadsföringslagen.

@@ -8,4 +8,4 @@ En särskild utredare ska föreslå hur arbetet med unga som varken arbetar elle
 * göra en översyn av det kommunala informationsansvaret för unga som inte har fyllt 20 år och som inte genomför eller har fullföljt en gymnasieutbildning, och
 * vid behov föreslå författningsändringar.
 
-Uppdraget ska i den del som rör en översyn av det kommunala informationsansvaret redovisas senast den 31 januari 2013\. Uppdraget ska slutredovisas senast den 1 augusti 2013\.
+Uppdraget ska i den del som rör en översyn av det kommunala informationsansvaret redovisas senast den 31 januari 2013. Uppdraget ska slutredovisas senast den 1 augusti 2013.

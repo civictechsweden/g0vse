@@ -6,10 +6,10 @@ Under besöket på Nilar kommer företagets VD Erik Oldmark att berätta om Nila
 
 ## Program
 
-08\.30–12\.30 Besöker Högskolan i Gävle
+08.30–12.30 Besöker Högskolan i Gävle
 Plats: Kungsbäcksvägen 47 i Gävle
 
-12\.45–14\.40 Besöker Nilar
+12.45–14.40 Besöker Nilar
 Plats: Bönavägen 55 i Gävle
 
-Klockan 08\.00, 12\.00 och 14\.00 finns det tid för media. Kontakta pressekreterare Agnes Eklund för mer information.
+Klockan 08.00, 12.00 och 14.00 finns det tid för media. Kontakta pressekreterare Agnes Eklund för mer information.

@@ -4,7 +4,7 @@
 
 ## Stöd till rörelsefrämjande organisationer
 
-Regeringen avsätter 10 miljoner kronor årligen 2025–2027 för ett nytt statsbidrag till organisationer inom det civila samhället som arbetar med rörelsefrämjande aktiviteter och som inte omfattas av de nuvarande ramarna för idrotts\- eller friluftsstöden. Det kan t.ex. handla om stöd till organisationer som främjar dans eller idrott utanför den organiserade idrottsrörelsen eller andra ideella organisationer som arbetar med rörelsefrämjande aktiviteter och som inte omfattas av befintliga statliga bidrag kopplat till idrott eller friluftsliv. Utformning och ansvarig myndighet för statsbidraget kommer att presenteras vid ett senare tillfälle.
+Regeringen avsätter 10 miljoner kronor årligen 2025–2027 för ett nytt statsbidrag till organisationer inom det civila samhället som arbetar med rörelsefrämjande aktiviteter och som inte omfattas av de nuvarande ramarna för idrotts- eller friluftsstöden. Det kan t.ex. handla om stöd till organisationer som främjar dans eller idrott utanför den organiserade idrottsrörelsen eller andra ideella organisationer som arbetar med rörelsefrämjande aktiviteter och som inte omfattas av befintliga statliga bidrag kopplat till idrott eller friluftsliv. Utformning och ansvarig myndighet för statsbidraget kommer att presenteras vid ett senare tillfälle.
 
 ## Stöd till friluftsliv för äldre
 

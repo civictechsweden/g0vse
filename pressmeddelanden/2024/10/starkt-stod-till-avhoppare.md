@@ -12,4 +12,4 @@ Myndigheterna ska enligt uppdraget öka fokus på barn och unga samt anpassa arb
 
 I budgetpropositionen för 2025 föreslår regeringen att länsstyrelserna får en regional roll i arbetet med avhoppare och avsätter 12 miljoner kronor per år för detta. Regeringen avser också att tillsätta en utredning som bland annat ska se över regleringen på avhopparområdet i syfte att säkerställa att offentliga medel går till seriösa aktörer som bedriver en verksamhet av god kvalitet.
 
-Uppdraget ska redovisas senast den 1 mars 2025\.
+Uppdraget ska redovisas senast den 1 mars 2025.

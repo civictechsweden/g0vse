@@ -1,4 +1,4 @@
-# Utrikesminister Maria Malmer Stenergard besöker Tallinn
+# Inställt: Utrikesminister Maria Malmer Stenergard besöker Tallinn
 
 Under CBSS:s utrikesministermöte kosmmer ministrarna att diskutera hur man kan stärka samarbetet kring säkerhetspolitik i regionen och skydd av samhällskritisk infrastruktur i Östersjön.
 

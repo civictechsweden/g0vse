@@ -19,4 +19,4 @@ En utgångspunkt är att förslagen inte får leda till lägre sökintensitet,
 
 Förslagen ska vara budgetneutrala.
 
-Uppdraget ska redovisas senast den 31 januari 2020\.
+Uppdraget ska redovisas senast den 31 januari 2020.

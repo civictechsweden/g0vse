@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om hur Diskrimineringsombudsmannen kan bedriva ett effektivare arbete mot diskriminering
 
-I skrivelsen redovisar regeringen sin bedömning av de iakttagelser Riksrevisionen har gjort i rapporten DO och diskrimineringsfrågorna (RiR 2012:3\).
+I skrivelsen redovisar regeringen sin bedömning av de iakttagelser Riksrevisionen har gjort i rapporten DO och diskrimineringsfrågorna (RiR 2012:3).
 
 Regeringen instämmer i huvudsak i Riksrevisionens iakttagelser och rekommendationer.
 

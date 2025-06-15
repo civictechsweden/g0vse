@@ -2,7 +2,6 @@
 
 Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Tyskland samt en länk till rapporten i sin helhet.
 
-
 Tyskland är en väl utvecklad parlamentarisk demokrati och rättsstat och skyddet för de mänskliga rättigheterna är gott.
 
 Landet är en federal stat med en tydlig ansvarsfördelning mellan förbundsnivån och förbundsländerna. Landets sociala skyddsnät är välutvecklat och det ekonomiska välståndet är högt. Regeringen arbetar aktivt med att uppfylla sina förpliktelser för att åtnjutandet och skyddet av de mänskliga rättigheterna ska vara detsamma i både östra och västra Tyskland. I händelse av överträdelser finns fungerande kontrollmekanismer och överprövningsinstanser.
@@ -13,9 +12,9 @@ Regeringens lagförslag att utöka medieplattformars ansvar för olagligt inneh�
 
 Arbetsrättsliga rättigheter efterlevs väl. Anställningsskyddet är starkt och alla anställda har en rätt att organisera sig. Åtgärder har vidtagits för att förbättra arbetsvillkoren för säsongsarbetare.
 
-Möjligheten att informera om abortmöjligheter har ökat men utgör alltjämt en källa till kritik mot regeringen. Tysklands ratificering av Istanbulkonventionen om förebyggande och bekämpning av våld mot kvinnor och av våld i hemmet trädde i kraft i februari 2018\.
+Möjligheten att informera om abortmöjligheter har ökat men utgör alltjämt en källa till kritik mot regeringen. Tysklands ratificering av Istanbulkonventionen om förebyggande och bekämpning av våld mot kvinnor och av våld i hemmet trädde i kraft i februari 2018.
 
-Hbtqi\-personers rättigheter är lagstadgade och sedan december 2018 erkänns ett tredje kön juridiskt. En ökning av anmälningar om hatbrott mot hbtqi\-personer har registrerats.
+Hbtqi-personers rättigheter är lagstadgade och sedan december 2018 erkänns ett tredje kön juridiskt. En ökning av anmälningar om hatbrott mot hbtqi-personer har registrerats.
 
 Barnets rättigheter är väl omhändertagna och 2020 skärptes strafflagen och cyber grooming av barn förbjöds. Förekomsten av barnpornografi på internet är ett växande problem och antalet anmälningar om sexuella övergrepp mot barn har ökat.
 

@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * föreslå hur jäm­ställd­hets­perspek­tivet kan synlig­göras i integrations­politiken, och
 * lämna nödvändiga för­fattnings­förslag.
 
-Uppdraget ska redovisas senast den 31 maj 2023\.
+Uppdraget ska redovisas senast den 31 maj 2023.

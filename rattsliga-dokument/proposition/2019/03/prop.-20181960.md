@@ -5,4 +5,4 @@ Det är regeringen som beslutar i ärenden enligt utlämningslagen och i vissa �
 För att effektivisera handläggningen och därmed frigöra resurser till
 Högsta domstolens prejudikatbildande verksamhet föreslår regeringen att ärendena om utlämning och verkställighet ska kunna prövas med färre ledamöter i rätten än i dag – minst tre i stället för minst fem ledamöter. När det gäller tvångsmedel enligt utlämningslagen ska Högsta domstolen få besluta hur många ledamöter som ska ingå i rätten.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2019\.
+Lagändringarna föreslås träda i kraft den 1 juli 2019.

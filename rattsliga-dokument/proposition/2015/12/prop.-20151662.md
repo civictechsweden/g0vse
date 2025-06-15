@@ -1,6 +1,6 @@
 # Skärpta åtgärder mot missbruk av tidsbegränsade anställningar
 
-I propositionen föreslås ändringar i lagen (1982:80\) om anställningsskydd. Ändringarna innebär i huvudsak att den nuvarande begränsningen för allmän visstidsanställning kompletteras med en ny regel. Lagändringarna föreslås träda i kraft den 1 maj 2016\.
+I propositionen föreslås ändringar i lagen (1982:80) om anställningsskydd. Ändringarna innebär i huvudsak att den nuvarande begränsningen för allmän visstidsanställning kompletteras med en ny regel. Lagändringarna föreslås träda i kraft den 1 maj 2016.
 
 I dag övergår en allmän visstidsanställning till en tillsvidareanställning om den sammanlagda anställningstiden i allmän visstidsanställning överstiger två år inom en femårsperiod.
 
@@ -14,8 +14,8 @@ Vidare föreslås att arbetstagare som har fyllt 67 år ska undantas från regle
 
 Syftet med lagändringarna är att förbättra situationen för arbetstagare som riskerar att fastna i tidsbegränsade anställningar under lång tid och att säkerställa att anställningsskyddslagen uppfyller kraven på åtgärder till förebyggande av missbruk enligt det så kallade visstidsdirektivet. Genom ändringarna kommer möjligheterna att under lång tid använda på varandra följande tidsbegränsade anställningar enligt lagen att begränsas.
 
-I propositionen föreslås också en ändring av rättelsekaraktär i lagen (1970:943\) om arbetstid m.m. i husligt arbete.
+I propositionen föreslås också en ändring av rättelsekaraktär i lagen (1970:943) om arbetstid m.m. i husligt arbete.
 
 ## Ikraftträdande
 
-Lagändringarna föreslås träda i kraft den 1 maj 2016\.
+Lagändringarna föreslås träda i kraft den 1 maj 2016.

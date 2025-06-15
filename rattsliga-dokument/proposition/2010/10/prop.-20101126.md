@@ -6,4 +6,4 @@ Förslaget innebär att ett beslut om körkortsinnehav villkorat av alkolås ska
 
 Om en ansökan inte ges in, eller om den inte kan bifallas, ska körkortet återkallas. När spärrtiden bestäms ska den motsvara lägst den villkorstid som skulle ha bestämts vid ett bifall till ansökan om villkorat körkort, dvs. ett eller två år. Förslaget innebär att spärrtiderna blir längre än vad som för närvarande är fallet när ett körkort återkallas. Endast den typ av alkolås som godkänts av Transportstyrelsen får användas när ett körkortsinnehav förenats med ett villkor om alkolås. För att godkänna en viss typ alkolås krävs också att alkolåset har prövats av en ackrediterad provanstalt.
 
-De nya bestämmelserna om teknisk kontroll och godkännande av alkolås föreslås träda i kraft den 1 oktober 2011, och övriga bestämmelser den 1 januari 2012\.
+De nya bestämmelserna om teknisk kontroll och godkännande av alkolås föreslås träda i kraft den 1 oktober 2011, och övriga bestämmelser den 1 januari 2012.

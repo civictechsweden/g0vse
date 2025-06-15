@@ -1,11 +1,10 @@
 # EU-deklarationen 2019
 
-Statsminister Stefan Löfven, riksdagen, den 13 november 2019\.
-
+Statsminister Stefan Löfven, riksdagen, den 13 november 2019.
 
 Herr/Fru Talman,
 
-I lördags var det precis 30 år sedan Berlin\-muren föll.
+I lördags var det precis 30 år sedan Berlin-muren föll.
 
 Järnridån och ett kallt krig gav vika
 och istället växte ett ökat samarbete i Europa fram.
@@ -14,7 +13,7 @@ Ett historiskt samarbete.
 
 Och just idag för 25 år sedan
 gick svenskar till vallokaler över hela landet
-i en folkomröstning om EU\-medlemskap.
+i en folkomröstning om EU-medlemskap.
 
 Inför den omröstningen var Sverige ett land av debatt.
 På kavajslag och stötfångare gick det att läsa antingen
@@ -35,7 +34,7 @@ idag för 25 år röstade en majoritet för att Sverige skulle gå med i den Eur
 
 Det känns därför extra passande att just idag
 för första gången ha möjligheten att presentera
-regeringens EU\-politiska deklaration.
+regeringens EU-politiska deklaration.
 
 Jag vill ge regeringens syn på den Europeiska unionen
 och presentera de fem viktigaste prioriteringarna under kommande år.
@@ -51,7 +50,7 @@ ska vi veta detta:
 * Ett öppet EU är Sveriges bästa verktyg för fler jobb och ekonomisk utveckling.
 * Och ett enat EU är den bästa garanten för fred.
 
-\*\*\*
+  \*\*\*
 
 Herr/Fru Talman,
 
@@ -66,13 +65,13 @@ papper, bilar, elektronik, går till andra länder i Europa.
 Sverige har i dag ett starkt inflytande i EU,
 vår röst hörs och det vi gör har betydelse.
 
-Men ibland har det också uppfattats som om Sverige tvekat för mycket inför EU\-samarbetet.
+Men ibland har det också uppfattats som om Sverige tvekat för mycket inför EU-samarbetet.
 
 Det har inte alltid tjänat våra intressen.
 
 Vår möjlighet att påverka EU:s beslut, inriktning och utveckling är av fundamental betydelse för att värna våra nationella intressen.
 
-Sveriges utgångspunkt ska vara att vi fullt ut deltar i EU\-samarbetet och är aktiva i utformningen av alla dess delar på ett sätt som värnar svenska intressen.
+Sveriges utgångspunkt ska vara att vi fullt ut deltar i EU-samarbetet och är aktiva i utformningen av alla dess delar på ett sätt som värnar svenska intressen.
 
 Sverige ska vara pådrivande i de frågor vi prioriterar.
 
@@ -120,8 +119,8 @@ Det skadar hela unionen.
 
 Även om länder kan ha olika uppfattningar i sakfrågor och behöver kompromissa, så måste alla respektera de grundläggande värderingar som samarbetet bygger på.
 
-Både för att vår kontinents historia visar vad som kan ske när vi blundar för kränkningar av demokratiska fri\- och rättigheter.
-Men också för att hela EU\-samarbetet annars blir urvattnat.
+Både för att vår kontinents historia visar vad som kan ske när vi blundar för kränkningar av demokratiska fri- och rättigheter.
+Men också för att hela EU-samarbetet annars blir urvattnat.
 Förtroendet mellan länder urholkas, investeringar uteblir, handeln minskar och jobben riskeras.
 
 Sverige kommer aldrig att kompromissa om
@@ -158,9 +157,9 @@ har våra företag klimatsmarta lösningar som en hel värld efterfrågar.
 Här i ligger möjligheten.
 En klimatomställning nu bidrar till fler jobb och starkare välfärd idag och i framtiden.
 
-* Sverige ska därför driva på för en klimatlag på EU\-nivå. Vi ska också arbeta för en skärpning av övrig klimatlagstiftning och för att en allt större del av EU\-budgeten ska gå till klimatomställningen.
-* EU:s mål för minskade utsläpp till 2030 ska skärpas så att ambitionen är i linje med Parisavtalets 1,5\-gradersmål.
-* Och EU ska nå netto noll\-utsläpp senast 2050\.
+* Sverige ska därför driva på för en klimatlag på EU-nivå. Vi ska också arbeta för en skärpning av övrig klimatlagstiftning och för att en allt större del av EU-budgeten ska gå till klimatomställningen.
+* EU:s mål för minskade utsläpp till 2030 ska skärpas så att ambitionen är i linje med Parisavtalets 1,5-gradersmål.
+* Och EU ska nå netto noll-utsläpp senast 2050.
 
 EU ska ta möjligheten att leda omställningen,
 av det enkla skälet att vi människor, våra företag och klimatet tjänar på det.
@@ -193,7 +192,7 @@ Jag är stolt över Sveriges framgångar för schyssta jobb. Nu fortsätter vi.
 * Vår nordiska arbetsmarknadsmodell ska värnas.
 
 Den är bäst i världen.
-Så nu när ett initiativ om minimilöner diskuteras på EU\-nivå måste den nordiska modellen respekteras.
+Så nu när ett initiativ om minimilöner diskuteras på EU-nivå måste den nordiska modellen respekteras.
 
 Genom en modern industri, fler jobb med schyssta villkor och en stark nordisk modell
 får vi ett EU som förbättrar människors vardag på riktigt.
@@ -227,10 +226,10 @@ Internationella stöldligor står enligt polisens bedömning för hälften av al
 
 Och vapen som smugglas in i unionen används vid skjutningar i svenska storstäder.
 
-Regeringen kommer därför ta nya steg för att fördjupa EU\-samarbetet mot gränsöverskridande brottslighet och terrorism. Vi ska vara med där vi kan.
+Regeringen kommer därför ta nya steg för att fördjupa EU-samarbetet mot gränsöverskridande brottslighet och terrorism. Vi ska vara med där vi kan.
 
 * Regeringen vill stärka det europeiska polisiära och straffrättsliga samarbetet: Europol och Eurojust.
-Vi måste bli bättre på att samarbeta om polisiära underrättelser, bevisinsamling och förundersökningar.
+  Vi måste bli bättre på att samarbeta om polisiära underrättelser, bevisinsamling och förundersökningar.
 * EU:s lagstiftning mot sprängämnen behöver skärpas.
 * Och säkerheten vid EU:s yttre gräns behöver höjas. Genom biometrisk verifiering så kan vi veta vilka som passerar.
 
@@ -287,7 +286,7 @@ Som lärt sig om vår folkomröstning på historielektioner,
 studerat utomlands med hjälp av Erasmus eller säsongsarbetat i ett annat land och kanske ser sig som just européer.
 
 Sverige sa ja för 25 år sedan.
-Och vi ser kraften i EU\-samarbetet idag.
+Och vi ser kraften i EU-samarbetet idag.
 
 Vi har redan gått från krig och konflikter
 till fred och sammanhållning.

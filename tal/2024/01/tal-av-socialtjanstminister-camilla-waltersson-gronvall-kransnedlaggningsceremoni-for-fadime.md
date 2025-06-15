@@ -1,7 +1,6 @@
 # Tal av socialtjänstminister Camilla Waltersson Grönvall vid kransnedläggningsceremoni för Fadime
 
-Gamla kyrkogården, Uppsala den 21 januari, 2024\.
-
+Gamla kyrkogården, Uppsala den 21 januari, 2024.
 
 Det talade ordet gäller.
 

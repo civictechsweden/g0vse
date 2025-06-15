@@ -1,6 +1,6 @@
 # Internationella skolor
 
-I propositionen föreslås ändringar i skollagen (2010:800\) i fråga om internationella skolor.
+I propositionen föreslås ändringar i skollagen (2010:800) i fråga om internationella skolor.
 
 En internationell skola föreslås definieras som en skola där utbildningen, i stället för att följa en svensk läroplan, bedrivs enligt ett annat lands läroplan eller en internationell läroplan, och som i första hand riktar sig till elever som är bosatta i Sverige för en begränsad tid.
 
@@ -8,4 +8,4 @@ Det föreslås också tydligare bestämmelser om vilka elever med svensk skolpli
 
 Propositionen innehåller vidare förslag om att kommuner*,* efter medgivande från Skolinspektionen, ska få vara huvudmän för internationella skolor på grundskolenivå, om utbildningen följer en internationell läroplan och det finns behov av sådan utbildning. Det föreslås också bestämmelser om vilka elever som ska ha möjlighet att fullgöra skolplikten i en internationell skola på grundskolenivå med en kommunal huvudman.
 
-Ändringarna föreslås träda i kraft den 1 januari 2016\.
+Ändringarna föreslås träda i kraft den 1 januari 2016.

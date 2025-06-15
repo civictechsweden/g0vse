@@ -2,7 +2,7 @@
 
 Skrivelsen innehåller regeringens bedömning och åtgärder med anledning
 av Riksrevisionens rapport Kortutbildade arbetssökandes övergång till
-reguljär utbildning – uppdrag, verksamhet och styrning (RiR 2024:3\).
+reguljär utbildning – uppdrag, verksamhet och styrning (RiR 2024:3).
 
 Riksrevisionens övergripande bedömning är att regeringens mål om att
 öka kortutbildade arbetssökandes övergång till och deltagande i reguljär

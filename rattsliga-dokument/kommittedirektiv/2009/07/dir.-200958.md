@@ -1,6 +1,6 @@
 # Personalförsörjning för det reformerade försvaret
 
-En särskild utredare ska se över och föreslå de åtgärder som behövs för att kunna anpassa Försvarsmaktens personalförsörjning till myndighetens nya uppgifter och behov. Arbetet ska baseras på de krav på det framtida försvaret som framgår av den av riksdagen antagna propositionen Ett användbart försvar (prop. 2008/09:140, bet. 2008/09:FöU10, rskr. 2008/09:292\).
+En särskild utredare ska se över och föreslå de åtgärder som behövs för att kunna anpassa Försvarsmaktens personalförsörjning till myndighetens nya uppgifter och behov. Arbetet ska baseras på de krav på det framtida försvaret som framgår av den av riksdagen antagna propositionen Ett användbart försvar (prop. 2008/09:140, bet. 2008/09:FöU10, rskr. 2008/09:292).
 
 Utredaren ska särskilt analysera hur Försvarsmaktens tillgång till personal på bästa sätt kan tryggas och redovisa i vilken mån det finns behov av åtgärder för att uppnå detta. Utgångspunkten ska vara att Försvarsmaktens förmåga att genomföra insatser, i Sverige och utomlands, med förband ur insatsorganisationen säkerställs. Utredaren ska överväga och föreslå förbättrade möjligheter att tidsbegränsat kunna anställa vissa personalkategorier.
 

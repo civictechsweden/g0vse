@@ -6,4 +6,4 @@ I propositionen föreslås att straffansvaret för sjöfylleri utvidgas genom at
 
 Vidare föreslås att det införs en möjlighet att ta rutinmässiga alkoholutandningsprov på sådana personer och fartyg som omfattas av den nya promilleregeln. Proven föreslås få tas av polismän och tjänstemän vid Kustbevakningen. Om den som är skyldig att lämna prov vägrar att medverka till det eller på grund av en sjötrafikolycka inte kan lämna ett prov, föreslås att blodprov får tas på honom eller henne.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2010\.
+Lagändringarna föreslås träda i kraft den 1 juni 2010.

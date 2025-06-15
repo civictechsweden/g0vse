@@ -8,4 +8,4 @@ Dessutom föreslås att straffbestämmelsen om så kallat flyktingspionage utvid
 
 Slutligen innefattar propositionen förslag om vissa språkliga och lagtekniska ändringar i brottsbalken. I aktuella delar föreslås ändringarna få genomslag även i tryckfrihetsförordningens brottskatalog.
 
-Ändringarna i brottsbalken och de lagar som reglerar hemliga tvångsmedel föreslås träda i kraft den 1 juli 2014 och ändringarna i tryckfrihetsförordningen den 1 januari 2015\.
+Ändringarna i brottsbalken och de lagar som reglerar hemliga tvångsmedel föreslås träda i kraft den 1 juli 2014 och ändringarna i tryckfrihetsförordningen den 1 januari 2015.

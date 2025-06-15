@@ -1,13 +1,12 @@
 # FAO:s flaggskeppspublikationer på svenska
 
-FN:s fackorgan för jordbruk, skog och fiske övervakar de globala naturresurserna. Svenska FAO\-kommittén har nu låtit översätta fyra av FAO:s regelbundet återkommande rapporter, för att sprida kunskap kring dessa och FAO:s verksamhet.
-
+FN:s fackorgan för jordbruk, skog och fiske övervakar de globala naturresurserna. Svenska FAO-kommittén har nu låtit översätta fyra av FAO:s regelbundet återkommande rapporter, för att sprida kunskap kring dessa och FAO:s verksamhet.
 
 FN:s fackorgan för jordbruk, skog och fiske övervakar globala naturresurser. Det övergripande uppdraget är att samla in statistik från medlemsländerna, analysera, vidareutveckla och distribuera information om jordbruk och skog samt fiske och landsbygdsutveckling som ska tjäna som underlag för policybeslut. FAO ger därför ut ett antal regelbundet återkommande rapporter (så kallade flaggskeppsrapporter) om tillståndet i världen för hunger, jordbruk, jordbruksvaror, skog och fiske för att informationen ska komma till användning.
 
-## Svenska FAO\-kommitténs översättningar
+## Svenska FAO-kommitténs översättningar
 
-Svenska FAO\-kommittén har i uppdrag att sprida information om FAO och dess verksamhet samt skapa intresse för frågor som rör tryggad livsmedelsförsörjning. Därför har kommittén låtit översätta sammandraget av några av dessa.
+Svenska FAO-kommittén har i uppdrag att sprida information om FAO och dess verksamhet samt skapa intresse för frågor som rör tryggad livsmedelsförsörjning. Därför har kommittén låtit översätta sammandraget av några av dessa.
 
 ### The State of World Fisheries and Aquaculture (SOFIA)
 
@@ -23,7 +22,7 @@ State of Food and Agriculture (SOFA) syftar till att ge beslutsfattare, forskare
 
 ### State of Food Insecurity in the World (SOFI)
 
-State of Food Insecurity in the World (SOFI) kommer ut varje år och sammanställs i samarbete med Världslivsmedelsprogrammet (WFP) och Internationella jordbruksutvecklingsfonden (IFAD). I SOFI rapporteras om resultaten av globala och nationella satsningar för att nå målet att minska antalet hungrande i världen. I SOFI 2015 konstateras att trots att antalet svältande fortsatt minskar så hungrar fortfarande 795 miljoner människor. Ansträngningarna måste fördubblas för att kunna uppfylla det andra hållbarhetsmålet i Agenda 2030, att utrota hungern. FAO\-kommittén har låtit översätta ett utdrag av sammandraget.
+State of Food Insecurity in the World (SOFI) kommer ut varje år och sammanställs i samarbete med Världslivsmedelsprogrammet (WFP) och Internationella jordbruksutvecklingsfonden (IFAD). I SOFI rapporteras om resultaten av globala och nationella satsningar för att nå målet att minska antalet hungrande i världen. I SOFI 2015 konstateras att trots att antalet svältande fortsatt minskar så hungrar fortfarande 795 miljoner människor. Ansträngningarna måste fördubblas för att kunna uppfylla det andra hållbarhetsmålet i Agenda 2030, att utrota hungern. FAO-kommittén har låtit översätta ett utdrag av sammandraget.
 
 [Bilaga: Utdrag ur sammanfattning av State of Food Insecurity in the World](/contentassets/379755947583437792aecb18ad51d1dc/sv-state-of-food-insecurity-in-the-world-2015-sofi.pdf)
 
@@ -31,4 +30,4 @@ State of Food Insecurity in the World (SOFI) kommer ut varje år och sammanstäl
 
 Förutom State of the World's Forests ger FAO vart femte år ut Global Forest Resources Assessment. Den redogör för tillståndet i världens skogar och hur de förändras. I 2015 års publikation konstateras att skogarna fortsätter minska till följd av befolkningsökningen som leder till att skogsmark omvandlas till jordbruk och andra användningsområden. De senaste 25 åren har dock takten i den globala avskogningen saktat in med mer än 50 procent, men utvecklingen är ojämnt fördelad.
 
-[Bilaga: Sammanfattning av Den globala skogsutvärderingen 2015 \- Global Forest Resources Assessment](/contentassets/379755947583437792aecb18ad51d1dc/sv-global-forest-resources-assessment-2015.pdf)
+[Bilaga: Sammanfattning av Den globala skogsutvärderingen 2015 - Global Forest Resources Assessment](/contentassets/379755947583437792aecb18ad51d1dc/sv-global-forest-resources-assessment-2015.pdf)

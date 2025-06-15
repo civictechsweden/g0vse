@@ -13,9 +13,9 @@ Utredaren ska bland annat
 * ta ställning till vissa frågor om möjligheten för en offentlig försvarare eller ett målsägandebiträde att sätta någon annan i sitt ställe
 * lämna förslag på hur behörighetskraven för offentliga försvarare bör skärpas
 * ta ställning till om enskilda i vissa fall bör kunna beviljas ersättning för rättegångskostnader inom ramen för ett mål i allmän förvaltningsdomstol
-* kartlägga för\-och nackdelar med en höjd inkomstgräns för rättshjälp och höjda rättshjälpsavgifter
+* kartlägga för-och nackdelar med en höjd inkomstgräns för rättshjälp och höjda rättshjälpsavgifter
 * föreslå hur rätten till målsägandebiträde i överrätt kan stärkas
 * ta ställning till om målsägandens processuella rättigheter vid talan om enskilda anspråk på grund av brott bör stärkas
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 1 augusti 2025\.
+Uppdraget ska redovisas senast den 1 augusti 2025.

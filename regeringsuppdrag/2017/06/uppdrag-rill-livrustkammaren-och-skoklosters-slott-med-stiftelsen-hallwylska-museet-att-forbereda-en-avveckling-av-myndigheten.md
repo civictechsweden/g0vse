@@ -1,6 +1,6 @@
 # Uppdrag till Livrustkammaren och Skoklosters slott med Stiftelsen Hallwylska museet att förbereda en avveckling av myndigheten
 
-Regeringen uppdrar åt Livrustkammaren och Skoklosters slott med Stiftelsen Hallwylska museet att förbereda en överföring av myndighetens uppgifter till Statens historiska museer den 1 januari 2018\.
+Regeringen uppdrar åt Livrustkammaren och Skoklosters slott med Stiftelsen Hallwylska museet att förbereda en överföring av myndighetens uppgifter till Statens historiska museer den 1 januari 2018.
 
 Överföringen avser de uppgifter som bedrivs vid: 
 

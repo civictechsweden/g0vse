@@ -12,4 +12,4 @@ Förslagen innebär följande:
 
 • Ändringar ska införas i syfte att minska elevers upprepade eller längre frånvaro från utbildningen inom den obligatoriska verksamheten.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2018\. Vissa bestämmelser föreslås dock tillämpas första gången för verksamhet som bedrivs efter utgången av 2018\.
+Lagändringarna föreslås träda i kraft den 1 juli 2018. Vissa bestämmelser föreslås dock tillämpas första gången för verksamhet som bedrivs efter utgången av 2018.

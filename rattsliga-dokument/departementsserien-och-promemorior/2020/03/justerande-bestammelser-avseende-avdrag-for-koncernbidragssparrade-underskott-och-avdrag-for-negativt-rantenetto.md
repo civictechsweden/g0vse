@@ -10,6 +10,6 @@ avdragen för koncernbidragsspärrade underskott och av avdraget för
 negativt räntenetto. Detta gäller för fall när det ytterligare avdraget för
 koncernbidragsspärrade underskott hade lett till ett minskat avdragsunderlag för negativt räntenetto och i sin tur ett lägre avdrag för negativt räntenetto, om det ökade underskottsavdraget skulle ha fått dras av före avdragsbegränsningen för negativa räntenetton.
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2021\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2021.
 
-Remissvaren ska ha kommit in till Finansdepartementet senast den 18 maj 2020\.
+Remissvaren ska ha kommit in till Finansdepartementet senast den 18 maj 2020.

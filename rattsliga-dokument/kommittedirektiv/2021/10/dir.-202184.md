@@ -12,4 +12,4 @@ Utredaren ska bland annat:
 * analysera och föreslå hur kunskapen om kvaliteten i vården kan öka lokalt och nationellt, och
 * föreslå de åtgärder eller författningsändringar som bedöms lämpliga.
 
-Uppdraget ska redovisas senast den 10 april 2023\.
+Uppdraget ska redovisas senast den 10 april 2023.

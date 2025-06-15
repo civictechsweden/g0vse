@@ -2,8 +2,7 @@
 
 Tisdagen den 4 juni hölls det fjärde mötet i arbetsgruppen Samling för judiskt liv, och i fokus var utbildning. På mötet deltog inbjudna representanter för skolor, universitet och högskolor samt för folkbildningen.
 
-
-Under mötet diskuterades främst utbildning, vilket är temat för arbetsgruppen år 2024\. Bland de inbjudna fanns bland annat representanter från Hillelskolan, Vasa Real samt Paideia folkhögskola och Universitets\- och högskolerådet. De inbjudna gästerna berättade om sina verksamheter och förutsättningarna för judiska elever och studenter på svenska skolor och lärosäten. Gästerna talade även om den ökade antisemitismen som de alla upplevt, på olika sätt, i sina respektive verksamheter.
+Under mötet diskuterades främst utbildning, vilket är temat för arbetsgruppen år 2024. Bland de inbjudna fanns bland annat representanter från Hillelskolan, Vasa Real samt Paideia folkhögskola och Universitets- och högskolerådet. De inbjudna gästerna berättade om sina verksamheter och förutsättningarna för judiska elever och studenter på svenska skolor och lärosäten. Gästerna talade även om den ökade antisemitismen som de alla upplevt, på olika sätt, i sina respektive verksamheter.
 
 Förra årets tema i arbetsgruppen var säkerhet, ett ämne som gruppen fortsätter att föra dialog kring även i år.
 

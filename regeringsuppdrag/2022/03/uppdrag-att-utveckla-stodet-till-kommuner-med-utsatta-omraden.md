@@ -2,8 +2,7 @@
 
 Brotts­före­byggande rådet (Brå) får i uppdrag att utveckla stödet till kom­muner med utsatta områden. Tillsam­mans med relevanta aktörer ska Brå ge ett behovs­anpassat och praktik­nära stöd i syfte att utveckla ett syste­matiskt och kunskaps­baserat brotts­före­byggande arbete lokalt.
 
-
-För upp­dragets genom­förande får Brå använda 3 miljoner kronor för 2022 från anslag 1:14 Bidrag till lokalt brotts­före­byggande arbete. Regeringen beräknar 3 miljoner kronor för uppdragets genom­förande för 2023\.
+För upp­dragets genom­förande får Brå använda 3 miljoner kronor för 2022 från anslag 1:14 Bidrag till lokalt brotts­före­byggande arbete. Regeringen beräknar 3 miljoner kronor för uppdragets genom­förande för 2023.
 
 Upp­draget ska genom­föras i sam­verkan med rele­vanta aktörer och myndig­heter, till exempel Polis­myndig­heten, läns­styrelser, Myndig­heten för familje­rätt och föräldra­skaps­stöd och Social­styrelsen.
 

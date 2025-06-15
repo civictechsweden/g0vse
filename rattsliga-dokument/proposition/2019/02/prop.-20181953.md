@@ -7,10 +7,10 @@ I propositionen föreslår regeringen bland annat att:
 
 * svenska sociala trygghetsförmåner, med undantag för arbetslöshetsersättning, under en övergångsperiod ska kunna betalas ut till enskilda i Förenade kungariket.
 * enskilda, under samma övergångsperiod, ska kunna få ersättning för vårdkostnader.
-* de EU\-rättsliga principerna om likställande av förmåner med mera och sammanläggning av intjänade försäkringsperioder fortfarande ska kunna tillämpas på samma sätt som före Förenade kungarikets utträde ur EU.
+* de EU-rättsliga principerna om likställande av förmåner med mera och sammanläggning av intjänade försäkringsperioder fortfarande ska kunna tillämpas på samma sätt som före Förenade kungarikets utträde ur EU.
 
 ## Förkortad motionstid
 
 Det är angeläget att lagen träder i kraft senast samtidigt som Förenade kungariket lämnar EU. Regeringen begär därför att motionstiden förkortas till åtta dagar.
 
-Förslagen föreslås träda i kraft den 29 mars 2019\.
+Förslagen föreslås träda i kraft den 29 mars 2019.

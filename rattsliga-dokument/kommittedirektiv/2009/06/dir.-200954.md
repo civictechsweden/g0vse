@@ -6,4 +6,4 @@ Utredaren ska vidare föreslå de kompletterande författningsbestämmelser som 
 
 I utredarens uppdrag ingår att föreslå vilken myndighet som bör utses till centralmyndighet enligt 2007 års Haagkonvention och underhållsförordningen.
 
-Uppdraget ska redovisas senast den 1 september 2010\.
+Uppdraget ska redovisas senast den 1 september 2010.

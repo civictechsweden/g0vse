@@ -4,6 +4,6 @@ I lagrådsremissen lämnas förslag till en ny lag om valfrihetssystem i fråga 
 
 På en särskild webbplats ska det löpande annonseras vilka tjänster för elektronisk identifiering som efterfrågas. Alla leverantörer som ansöker om att få delta i ett valfrihetssystem och som uppfyller de uppställda kraven och villkoren ska godkännas. Därefter ska kontrakt tecknas med varje leverantör. Leverantörer har möjlighet att ansöka om rättelse och begära skadestånd om lagen inte har följts.
 
-Bestämmelserna om s.k. anbudssekretess i offentlighets\- och sekretesslagen (2009:400\) ska inte gälla i ärenden enligt den nya lagen. Det föreslås även en ändring i lagen (1971:289\) om allmänna förvaltningsdomstolar som innebär att förvaltningsrätten ska vara domför med en lagfaren domare vid prövning av mål enligt den nya lagen. Slutligen föreslås en ändring i lagen (2009:47\) om vissa kommunala befogenheter som gör det möjligt för kommunala nämnder att överlåta beslutanderätt till den som ska administrera valfrihetssystem enligt den nya lagen.
+Bestämmelserna om s.k. anbudssekretess i offentlighets- och sekretesslagen (2009:400) ska inte gälla i ärenden enligt den nya lagen. Det föreslås även en ändring i lagen (1971:289) om allmänna förvaltningsdomstolar som innebär att förvaltningsrätten ska vara domför med en lagfaren domare vid prövning av mål enligt den nya lagen. Slutligen föreslås en ändring i lagen (2009:47) om vissa kommunala befogenheter som gör det möjligt för kommunala nämnder att överlåta beslutanderätt till den som ska administrera valfrihetssystem enligt den nya lagen.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2013\.
+Lagändringarna föreslås träda i kraft den 1 juli 2013.

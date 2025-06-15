@@ -1,6 +1,6 @@
 # Svenskt Tenn vinner regeringens exportpris för de kulturella och kreativa branscherna 2023
 
-– Kulturella och kreativa branscher är en viktig basnäring för Sverige och bidrar verkligen till att sätta vårt land på kartan. Svenskt Tenn är ett av Sveriges mest ikoniska varumärken. Företaget är ett ypperligt exempel på när ekonomisk tillväxt och kreativitet går hand i hand och samtidigt bygger Sverige som varumärke ute i världen, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+– Kulturella och kreativa branscher är en viktig basnäring för Sverige och bidrar verkligen till att sätta vårt land på kartan. Svenskt Tenn är ett av Sveriges mest ikoniska varumärken. Företaget är ett ypperligt exempel på när ekonomisk tillväxt och kreativitet går hand i hand och samtidigt bygger Sverige som varumärke ute i världen, säger bistånds- och utrikeshandelsminister Johan Forssell.
 
 Regeringens exportpris för de kulturella och kreativa branscherna delas ut för att uppmärksamma insatser inom svensk export och främjandet av Sverige som ett innovativt och kreativt land. Priset går till en aktör som utgör ett särskilt gott exempel inom sitt område och därmed bidrar till svensk export och till att synliggöra Sverige utomlands.
 
@@ -12,7 +12,7 @@ Nominerade till priset var också Liv Strömquist, Prime Weber Shandwick, Toteme
 
 Hanna Hansdotter utsågs till Årets uppstickare.
 
-– Hanna Hansdotter har uppmärksammats både nationellt och internationellt och belönats med flera prestigefyllda utmärkelser och stipendier. Sverige behöver den här typen av entreprenörer och konstnärer. De förstärker bilden av Sverige som ett innovativt och kreativt land, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+– Hanna Hansdotter har uppmärksammats både nationellt och internationellt och belönats med flera prestigefyllda utmärkelser och stipendier. Sverige behöver den här typen av entreprenörer och konstnärer. De förstärker bilden av Sverige som ett innovativt och kreativt land, säger bistånds- och utrikeshandelsminister Johan Forssell.
 
 ## Juryns motiveringar
 

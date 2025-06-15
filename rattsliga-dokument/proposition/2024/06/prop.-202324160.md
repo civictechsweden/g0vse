@@ -1,6 +1,6 @@
 # Kompletterande bestämmelser till EU:s förordning om digitala tjänster
 
-EU:s förordning om digitala tjänster antogs den 19 oktober 2022\. Förordningen trädde i kraft den 16 november 2022 och tillämpas i sin helhet sedan den 17 februari 2024\.
+EU:s förordning om digitala tjänster antogs den 19 oktober 2022. Förordningen trädde i kraft den 16 november 2022 och tillämpas i sin helhet sedan den 17 februari 2024.
 
 Genom förordningen fastställs enhetliga regler för leverantörer av för
 medlingstjänster, bl.a. onlineplattformar och onlinesökmotorer. Det införs
@@ -12,4 +12,4 @@ bl.a. tillsynsmyndigheters befogenheter, tillsynsåtgärder, domstolsprövning o
 bestämmelser till EU:s förordning om digitala tjänster.
 
 Den nya lagen och övriga lagändringar föreslås träda i kraft den
-1 december 2024\.
+1 december 2024.

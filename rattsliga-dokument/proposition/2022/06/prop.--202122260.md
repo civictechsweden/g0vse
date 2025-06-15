@@ -6,4 +6,4 @@ Regeringen föreslår att Inspektionen för vård och omsorg (IVO) ska få före
 
 Regeringen föreslår även att primärvårdens grunduppdrag ska omfatta rehabiliterande insatser.
 
-Bestämmelserna om möjligheten för IVO att besluta om föreläggande föreslås träda i kraft den 1 juli 2023\. Övriga förslag träder i kraft den 1 januari 2024\.
+Bestämmelserna om möjligheten för IVO att besluta om föreläggande föreslås träda i kraft den 1 juli 2023. Övriga förslag träder i kraft den 1 januari 2024.

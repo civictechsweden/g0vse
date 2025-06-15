@@ -6,4 +6,4 @@ Enligt penningtvättslagen ska banker känna och övervaka sina kunder samt rapp
 
 – Alla finansiella företag ska motverka att det finansiella systemet kan missbrukas av kriminella. Clearingbolag har ett helikopterperspektiv som banker och polisen behöver för att lättare upptäcka penningtvätt och annan brottslig verksamhet. Det kan till exempel röra sig om medel som de kriminella tillskansat sig genom olika former av bedrägerier, säger finans­marknads­minister Niklas Wykman.
 
-Lagändringarna – som har sin grund i ett önskemål från polisen – föreslås träda i kraft den 1 juli 2025\.
+Lagändringarna – som har sin grund i ett önskemål från polisen – föreslås träda i kraft den 1 juli 2025.

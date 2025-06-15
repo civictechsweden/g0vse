@@ -7,4 +7,4 @@ En särskild utredare ska föreslå de kompletterande bestämmelser som förordn
 * analysera behovet av författningsändringar och andra åtgärder för ett svenskt deltagande i Europeiska åklagarmyndigheten (Eppo), och
 * lämna förslag till författningsändringar och andra åtgärder som därmed bedöms nödvändiga.
 
-Uppdraget ska redovisas senast den 14 december 2020\.
+Uppdraget ska redovisas senast den 14 december 2020.

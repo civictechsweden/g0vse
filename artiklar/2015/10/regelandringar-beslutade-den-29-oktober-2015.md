@@ -1,6 +1,6 @@
 # Regeländringar beslutade den 29 oktober 2015
 
-## Lag\- och förordningsändringar med anledning av propositionen om nordisk balansavräkning
+## Lag- och förordningsändringar med anledning av propositionen om nordisk balansavräkning
 
 Riksdagen har antagit regeringens förslag i propositionen Nordisk balansavräkning och regeringen har utfärdat lagändringarna i ellagen och med anledning av detta även beslutat om följdändringar i förordningen om mätning, beräkning och rapportering av överförd el och i elförordningen.
 
@@ -10,16 +10,16 @@ Besluten om förordningarna innebär följdändringar i anslutning till de aktue
 
 ### Referenser
 
-* regeringens proposition Nordisk balansavräkning (prop. 2014/15:112\)
+* regeringens proposition Nordisk balansavräkning (prop. 2014/15:112)
 * näringsutskottets betänkande 2015/16:NU5 Nordisk balansavräkning
 * riksdagsskrivelse 2015/16:2
-* ellagen (1997:857\)
-* förordningen (1999:716\) om mätning, beräkning och rapportering av överförd el
-* elförordningen (2013:208\)
+* ellagen (1997:857)
+* förordningen (1999:716) om mätning, beräkning och rapportering av överförd el
+* elförordningen (2013:208)
 
 ## Mer information
 
-Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 10 november 2015\.
+Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 10 november 2015.
 
 Kontaktperson:
-Andreas Lindholm 08\-405 14 54
+Andreas Lindholm 08-405 14 54

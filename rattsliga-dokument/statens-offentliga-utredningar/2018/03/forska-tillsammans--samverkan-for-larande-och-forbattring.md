@@ -8,7 +8,7 @@ skapa långsiktig samverkan kring praktiknära forskning för att
 stärka den vetenskapliga grund som utbildning enligt skollagen
 ska vila på.
 
-I betänkandet föreslår utredningen tre rekommendationer till huvudmän inom skolväsendet, sex rekommendationer till lärosäten med lärar\- och
+I betänkandet föreslår utredningen tre rekommendationer till huvudmän inom skolväsendet, sex rekommendationer till lärosäten med lärar- och
 förskollärarutbildningar och elva rekommendationer till regeringen.
 
 Sammantaget avser rekommendationerna att
@@ -21,5 +21,5 @@ uppdrag till Skolforskningsinstitutet
 
 Utredningen rekommenderar också regeringen att förtydliga uppdraget
 till den försöksverksamhet med praktiknära forskning som
-ska pågå under 2017–2021\. Utredningen har identifierat ett antal
+ska pågå under 2017–2021. Utredningen har identifierat ett antal
 områden som försöksverksamheten kan pröva och utveckla.

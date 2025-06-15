@@ -6,4 +6,4 @@ I budgetpropositionen för 2023 utökade regeringen statsbidraget för bland ann
 
 I dag kan huvudmän söka statsbidrag för lovskola från årskurs 6 i grundskolan och sameskolan och årskurs 7 i specialskolan. Begränsningen av vilka årskurser som bidraget kan sökas för tas nu bort så att det kan sökas för alla årskurser.
 
-Förordningsändringen träder i kraft den 15 mars 2023\.
+Förordningsändringen träder i kraft den 15 mars 2023.

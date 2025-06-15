@@ -2,7 +2,6 @@
 
 Generaldirektör Ulla Sandborgh fick i september i år i uppgift av Näringsdepartementet att bistå i arbetet med frågor som rör Sveriges tillgång till kalk och cement. Uppgiften, som innebär att vara kontaktperson för externa aktörer i frågor relaterade till kalk och cement, förlängs nu och kommer att pågå under våren.
 
-
 Kalksten är ett viktigt industrimineral som används i stålproduktion, kemiska processer eller kalkning av skog, mark och sjöar. Kalk används också för cementframställning som är nödvändigt för transportinfrastruktur, bostadsbyggande och inom gruvindustrin. Kalk bryts vid ett fåtal platser i Sverige.
 
 Ett driftstopp för Cementas kalkstensbrott i Slite bedöms leda till nationell brist på cement, vilket kan få omfattande negativa samhällskonsekvenser och leda till stora varsel.

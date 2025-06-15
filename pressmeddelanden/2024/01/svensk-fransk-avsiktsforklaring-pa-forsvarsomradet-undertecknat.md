@@ -6,4 +6,4 @@ I ett steg att ytterligare stärka samarbetet mellan länderna har Sverige och F
 
 Avsiktsförklaringen handlar om att länderna gemensamt ska se över potentiella framtida samarbetsmöjligheter inom områdena luftövervakning och luftförsvar.
 
-Försvarsminister Pål Jonson och minister för civilt försvar Carl\-Oskar Bohlin hade efter undertecknandet också ett bilateralt möte med Sébastien Lecornu.
+Försvarsminister Pål Jonson och minister för civilt försvar Carl-Oskar Bohlin hade efter undertecknandet också ett bilateralt möte med Sébastien Lecornu.

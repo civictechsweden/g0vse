@@ -4,4 +4,4 @@ I propositionen föreslås att lagen om åtgärder vid hindrande av fortsatt fä
 
 Förslaget innebär att omhändertagande eller klampning får ske när beslut om förskott och om att färden inte får fortsätta har meddelats i fråga om sanktionsavgift som ska påföras när vissa handlingar inte visas upp vid en vägkontroll. Det gäller handlingar som krävs enligt bestämmelser om utstationering av förare inom vägtransportområdet eller enligt bestämmelser om internationella vägtransporter och annan yrkesmässig trafik med fordon som är registrerade i ett land utanför Europeiska ekonomiska samarbetsområdet.
 
-Lagändringen föreslås träda i kraft den 1 augusti 2022\.
+Lagändringen föreslås träda i kraft den 1 augusti 2022.

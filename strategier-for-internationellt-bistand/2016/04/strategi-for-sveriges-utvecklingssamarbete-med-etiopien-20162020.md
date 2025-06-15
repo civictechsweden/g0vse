@@ -2,9 +2,7 @@
 
 ![](/contentassets/01c5ed3638b247368e2fe9eb685d4275/omslagsbild-strategi-for-sveriges-utvecklingssamarbete-med-etiopien-2016--2020/?width=150&quality=85)
 
-
 Svenskt utvecklingssamarbete med Etiopien inom ramen för denna strategi ska bidra till förbättrad miljö, begränsad klimatpåverkan och stärkt motståndskraft mot klimatförändringar samt förbättrade möjligheter för människor som lever i fattigdom att tillvarata sina rättigheter.
-
 
 Vidare syftar strategin till hållbar och demokratisk samhällsutveckling. Strategin ska gälla under perioden 2016–2020 och omfattar sammantaget 1000 miljoner svenska kronor.
 
@@ -30,4 +28,4 @@ Förbättrade möjligheter och verktyg för fattiga människor att kunna förbä
 * Förbättrat affärsklimat för hållbar och inkluderande näringsverksamhet och stärkande av institutioner
 * Förbättrad tillgång till social trygghet för människor som lever i fattigdom
 
-Artikelnummer UD 16\.016
+Artikelnummer UD 16.016

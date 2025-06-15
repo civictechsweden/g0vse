@@ -8,4 +8,4 @@ Fysiska personer som har företag vars resultat de själva beskattas för, t.ex.
 
 Förslaget föranleder ändringar i lagen om avräkning av utländsk skatt, inkomstskattelagen och skatteförfarandelagen.
 
-Förslaget aviserades i budgetpropositionen för 2020 och bygger på en sakpolitisk överenskommelse mellan regeringen, Centerpartiet och Liberalerna. Ändringarna föreslås träda i kraft den 1 december 2020, men tillämpas från och med det beskattningsår som infaller efter den 31 december 2019\.
+Förslaget aviserades i budgetpropositionen för 2020 och bygger på en sakpolitisk överenskommelse mellan regeringen, Centerpartiet och Liberalerna. Ändringarna föreslås träda i kraft den 1 december 2020, men tillämpas från och med det beskattningsår som infaller efter den 31 december 2019.

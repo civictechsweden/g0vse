@@ -1,7 +1,6 @@
 # Uppdrag till Arbetsförmedlingen om romsk inkludering
 
-Regeringen beslutar att ge Arbetsförmedlingen i uppdrag att vidareutveckla arbetet med romsk inkludering i sin verksamhet 2016–2019\.
-
+Regeringen beslutar att ge Arbetsförmedlingen i uppdrag att vidareutveckla arbetet med romsk inkludering i sin verksamhet 2016–2019.
 
 Under 2012–2015 har Arbetsförmedlingen haft i uppdrag att medverka i en pilotverksamhet för romsk inkludering (A2012/1386/DISK). I detta har bl.a. ingått att sprida information och kunskap bland romer om den service och det stöd som Arbetsförmedlingen kan erbjuda, samt se till att enskilda arbetssökande hos förmedlingen får den hjälp de behöver.
 

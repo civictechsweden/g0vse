@@ -1,6 +1,6 @@
 # Paulina Brandberg diskuterar bättre skydd av personuppgifter med flera myndigheter
 
-\- Regeringen arbetar på bred front för att stärka och förbättra skyddet av de som är utsatta för våld eller andra kränkningar. En viktig del i det arbetet är att följa upp och stärka myndigheters arbete med att säkert hantera skyddade personuppgifter, säger Paulina Brandberg.
+- Regeringen arbetar på bred front för att stärka och förbättra skyddet av de som är utsatta för våld eller andra kränkningar. En viktig del i det arbetet är att följa upp och stärka myndigheters arbete med att säkert hantera skyddade personuppgifter, säger Paulina Brandberg.
 
 Regeringen har i regleringsbrevet för 2024 gett Jämställdhetsmyndigheten i uppdrag att samordna och följa upp myndigheters arbete kopplat till skyddade personuppgifter. Myndigheten ska även verka för ökad kunskap genom att sprida de kunskapsmaterial som tagits fram till berörda målgrupper i syfte att se till att skyddade personuppgifter inte röjs.
 

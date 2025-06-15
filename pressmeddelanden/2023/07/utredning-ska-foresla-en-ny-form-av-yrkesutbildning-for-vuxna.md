@@ -6,6 +6,6 @@ Det finns i dag en brist på gymnasialt yrkesutbildad arbetskraft inom flera oli
 
 Yrkeshögskolan har sedan den inrättades 2009 varit en framgångsrik utbildningsform när det gäller eftergymnasiala utbildningar. Av de som examinerades 2021 hade 91 procent arbete ett år senare. En nyckel till framgången är att arbetslivet har ett avgörande inflytande när det gäller yrkeshögskoleutbildningarna för att möta arbetsmarknadens kompetensbehov. Regeringen vill därför använda yrkeshögskolans modell, som erbjuder utbildningar med en stark koppling till arbetslivet, även för yrkesutbildningar på gymnasial nivå.
 
-Yrkesvuxutredningen (U 2022:05\) får nu i uppdrag att föreslå inriktning och utformning av en ny form av yrkesutbildning. Den nya utbildningsformen ska vara på gymnasial nivå och utformas med utgångspunkt i den modell som tillämpas för yrkeshögskolan. I uppdraget ingår också att analysera utbudet av andra former av yrkesutbildning på gymnasial och eftergymnasial nivå och vid behov föreslå avgränsningar mellan dessa utbildningsformer och den nya formen av yrkesutbildning.
+Yrkesvuxutredningen (U 2022:05) får nu i uppdrag att föreslå inriktning och utformning av en ny form av yrkesutbildning. Den nya utbildningsformen ska vara på gymnasial nivå och utformas med utgångspunkt i den modell som tillämpas för yrkeshögskolan. I uppdraget ingår också att analysera utbudet av andra former av yrkesutbildning på gymnasial och eftergymnasial nivå och vid behov föreslå avgränsningar mellan dessa utbildningsformer och den nya formen av yrkesutbildning.
 
-Uppdraget ska redovisas senast den 15 februari 2024\.
+Uppdraget ska redovisas senast den 15 februari 2024.

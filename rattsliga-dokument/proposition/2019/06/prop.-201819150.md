@@ -12,4 +12,4 @@ Förslagen i huvudsak:
 
 I propositionen föreslås dessutom att skyldigheten för t.ex. verksamhetsutövare att lämna uppgifter till Finanspolissektionen vid Polismyndigheten också ska gälla i förhållande till Säkerhetspolisen.
 
-Lagändringarna föreslås i huvudsak träda i kraft den 1 januari 2020\.
+Lagändringarna föreslås i huvudsak träda i kraft den 1 januari 2020.

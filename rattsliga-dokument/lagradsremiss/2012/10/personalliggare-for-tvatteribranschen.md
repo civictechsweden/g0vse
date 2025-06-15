@@ -4,4 +4,4 @@ I lagrådsremissen föreslås att tvätteribranschen ska omfattas av kravet på 
 
 Syftet med förslagen är att motverka förekomsten av svart arbetskraft.
 
-Bestämmelserna föreslås träda i kraft den 1 april 2013\.
+Bestämmelserna föreslås träda i kraft den 1 april 2013.

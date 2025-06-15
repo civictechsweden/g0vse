@@ -1,6 +1,5 @@
 # Uppdrag att stödja utvecklingen av cirkulära affärsmodeller och industriell symbios
 
-Regeringen uppdrar åt Verket för innovationssystem (Vinnova) att under 2016\-2019 genomföra insatser för att stärka förutsättningarna för cirkulär ekonomi och industriell symbios. Vinnova ska inom ramen för uppdraget undersöka vilka möjligheter och begränsningar som finns för att i högre utsträckning åstadkomma cirkulära samarbeten inom framförallt industrin men också mellan exempelvis industri och kommunala anläggningar.
-
+Regeringen uppdrar åt Verket för innovationssystem (Vinnova) att under 2016-2019 genomföra insatser för att stärka förutsättningarna för cirkulär ekonomi och industriell symbios. Vinnova ska inom ramen för uppdraget undersöka vilka möjligheter och begränsningar som finns för att i högre utsträckning åstadkomma cirkulära samarbeten inom framförallt industrin men också mellan exempelvis industri och kommunala anläggningar.
 
 Uppdraget syftar till att stödja utvecklingen genom att minska hinder och utveckla möjligheter på nationell eller regional nivå. Det kan exempelvis ske genom finansiering av förstudier för nya eller utvecklade lösningar. Det finns i dag hinder för att kluster och samarbeten inom cirkulär ekonomi ska kunna etableras och utvecklas. Exempel på detta är organisatoriska hinder i form av osynkroniserade affärsmodeller eller bristande kompetens och kännedom som försvårar att potentialen för cirkulär ekonomi tas tillvara. Arbetet bör samordnas med åtgärder som genomförs för regeringens samverkansprogram.

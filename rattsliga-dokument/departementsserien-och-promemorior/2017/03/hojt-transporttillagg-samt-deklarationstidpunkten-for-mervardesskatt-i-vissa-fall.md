@@ -2,7 +2,7 @@
 
 Inför budgetpropositionen för 2018 är det angeläget att skatteförslag kan förberedas genom remittering och granskning av Lagrådet. Om förslagen kommer att presenteras i budgetpropositionen för 2018, och med vilken utformning, blir beroende av de överläggningar som förs i det slutliga arbetet med budgetpropositionen.
 
-För alkohol\- och tobaksvaror, energiprodukter och elektricitet finns
+För alkohol- och tobaksvaror, energiprodukter och elektricitet finns
 harmoniserade regler om punktskatt inom EU. Reglerna avser bl.a.
 skattskyldighetens inträde, vissa undantag från beskattning samt ett
 uppskovsförfarande, enligt vilket punktskattepliktiga varor kan flyttas
@@ -22,4 +22,4 @@ Beslutet kan fattas efter den ordinarie tidpunkt då mervärdesskatten
 skulle ha deklarerats. I samband med ett sådant beslut kan det därför
 uppkomma situationer där det inte går att lämna deklarationen och betala mervärdesskatten i rätt tid. Förslaget innebär att deklarationstidpunkten skjuts fram i en sådan situation.
 
-Ändringarna föreslås träda i kraft den 1 januari 2018\.
+Ändringarna föreslås träda i kraft den 1 januari 2018.

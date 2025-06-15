@@ -1,7 +1,6 @@
 # Remiss av SOU 2017:10 Ny ordning för att främja god sed och hantera oredlighet i forskning
 
-Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:10 Ny ordning för att främja god sed och hantera oredlighet i forskning. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 21 augusti 2017\.
-
+Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:10 Ny ordning för att främja god sed och hantera oredlighet i forskning. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 21 augusti 2017.
 
 ## Remissinstanser
 
@@ -22,7 +21,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:10
 15 Läkemedelsverket
 16 Statens beredning för medicinsk och social utvärdering
 17 Forskningsrådet för hälsa, arbetsliv och välfärd
-18 Statens medicinsk\-etiska råd
+18 Statens medicinsk-etiska råd
 19 Arbetsgivarverket
 20 Statskontoret
 21 Statens ansvarsnämnd
@@ -44,7 +43,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:10
 37 Sveriges lantbruksuniversitet
 38 Blekinge tekniska högskola
 39 Försvarshögskolan
-40 Gymnastik\- och idrottshögskolan
+40 Gymnastik- och idrottshögskolan
 41 Högskolan i Borås
 42 Högskolan Dalarna
 43 Högskolan i Gävle
@@ -76,7 +75,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:10
 69 Forskningsrådet för areella näringar och samhällsbyggande
 70 Statens energimyndighet
 71 Trafikverket
-72 Statens väg\- och transportforskningsinstitut
+72 Statens väg- och transportforskningsinstitut
 73 Sveriges geologiska undersökning
 74 Verket för innovationssystem
 75 Statens veterinärmedicinska anstalt
@@ -106,9 +105,9 @@ Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:10
 99 Örebro läns landsting
 100 Östergötlands läns landsting
 101 Ericsson Research
-102 KK\-stiftelsen
+102 KK-stiftelsen
 103 Kungl. Ingenjörsvetenskapsakademien
-104 Kungl. Skogs\- och Lantbruksakademien
+104 Kungl. Skogs- och Lantbruksakademien
 105 Kungl. Vetenskapsakademien
 106 Kungl. Vitterhets Historie och Antikvitets Akademien
 107 Landsorganisationen i Sverige
@@ -118,6 +117,6 @@ Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:10
 111 Svenska Läkaresällskapet
 112 Svenskt Näringsliv
 113 Sveriges akademikers centralorganisation
-114 Sveriges universitets\- och högskoleförbund
+114 Sveriges universitets- och högskoleförbund
 115 Tjänstemännens Centralorganisation
 116 Wallenberg Foundations AB

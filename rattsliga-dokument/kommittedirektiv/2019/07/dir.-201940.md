@@ -2,4 +2,4 @@
 
 Förlängd tid för uppdraget.
 
-Utredningstiden förlängs. Uppdraget ska i stället slutredovisas senast den 1 oktober 2019\.
+Utredningstiden förlängs. Uppdraget ska i stället slutredovisas senast den 1 oktober 2019.

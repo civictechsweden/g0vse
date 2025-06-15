@@ -13,4 +13,4 @@ Utredaren ska bl.a.
 
 Utredaren ska lämna de författningsförslag som behövs.
 
-Uppdraget ska redovisas senast den 1 juli 2022\.
+Uppdraget ska redovisas senast den 1 juli 2022.

@@ -9,4 +9,4 @@ På Ekofinrådets möte den 21 juni 2024 finns följande punkter på dagordninge
 * Ekonomiska och finansiella konsekvenser av Rysslands angrepp mot Ukraina
 * Ekofinrådets rapport till Europeiska rådet om skattefrågor
 * Slutsatser om de framsteg som uppförandekodgruppen (företagsbeskattning) gjort under det belgiska ordförandeskapet
-* Ad hoc\-kommittén för utkastet till mandat för Förenta nationernas ramkonvention om internationellt skattesamarbete
+* Ad hoc-kommittén för utkastet till mandat för Förenta nationernas ramkonvention om internationellt skattesamarbete

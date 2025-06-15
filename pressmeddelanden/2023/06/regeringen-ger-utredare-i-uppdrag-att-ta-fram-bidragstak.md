@@ -6,7 +6,7 @@ Regeringen anser att en grundläggande förutsättning för det svenska välfär
 
 – Nu tar regeringen första steget för att införa ett helt nytt bidragstak i Sverige, för att göra det mer lönsamt att arbeta och minska utanförskapet. I dag lönar det sig alldeles för dåligt för många familjer att gå från bidrag till arbete, det vill vi ändra på, säger finansminister Elisabeth Svantesson.
 
-– Vi vet att långa perioder av ekonomiskt bistånd gör det svårt att komma in på arbetsmarknaden vilket också ökar riskerna för ohälsa och utanförskap. Därför är det viktigt att bidragssystemen inte är utfor­made så att det är mer fördelaktigt att få bidrag än att arbeta. I enlighet med Tidöavtalet går vi nu vidare genom att utreda ett bidragstak. Det ska alltid löna sig att arbeta, säger äldre\- och socialförsäkringsminister Anna Tenje.
+– Vi vet att långa perioder av ekonomiskt bistånd gör det svårt att komma in på arbetsmarknaden vilket också ökar riskerna för ohälsa och utanförskap. Därför är det viktigt att bidragssystemen inte är utfor­made så att det är mer fördelaktigt att få bidrag än att arbeta. I enlighet med Tidöavtalet går vi nu vidare genom att utreda ett bidragstak. Det ska alltid löna sig att arbeta, säger äldre- och socialförsäkringsminister Anna Tenje.
 
 – Vi behöver säkerställa att det finns tydliga skiljelinjer mellan att vara självförsörjande alternativt bidragsförsörjande. Incitamenten för människor att arbeta och bidra till svensk välfärd ska stärkas. Detta är helt avgörande för att välfärden ska fungera på ett tillfredsställande sätt, säger Linda Lindberg, gruppledare i riksdagen Sverigedemokraterna.
 
@@ -16,8 +16,8 @@ Nu har regeringen beslutat om ett tilläggsdirektiv till utredningen där utreda
 
 Utredaren får även i uppdrag att analysera om Arbetsförmedlingen bör ges en utökad uppgiftsskyldighet gentemot socialnämnden så att socialnämnden kan arbeta mer effektivt när det gäller att kontrollera om den enskilde står till arbetsmarknadens förfogande. En effektivare kontroll kan leda till att aktivitetsnivån bland arbetslösa ökar och därmed till att fler kan komma i arbete.
 
-Utredaren ska också analysera och redovisa för\- och nackdelar med nuvarande ansvars­fördel­ning mellan staten och kommuner, för att långtidsarbetslösa ska komma i arbete.
+Utredaren ska också analysera och redovisa för- och nackdelar med nuvarande ansvars­fördel­ning mellan staten och kommuner, för att långtidsarbetslösa ska komma i arbete.
 
-Utredningstiden ligger fast. Uppdraget ska redovisas till Socialdepartementet senast den 1 december 2024\.
+Utredningstiden ligger fast. Uppdraget ska redovisas till Socialdepartementet senast den 1 december 2024.
 
 Beslutet bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

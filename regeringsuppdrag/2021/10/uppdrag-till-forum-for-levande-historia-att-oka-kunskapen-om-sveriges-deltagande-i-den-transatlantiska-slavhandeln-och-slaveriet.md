@@ -2,7 +2,6 @@
 
 Regeringen ger Forum för levande historia i uppdrag att genomföra insatser för att öka kunskapen om Sveriges deltagande i den transatlantiska slavhandeln och slaveriet.
 
-
 I uppdraget ingår att ta fram och sprida utbildningsmaterial främst riktat till elever i grundskolan, gymnasieskolan och den kommunala vuxenutbildningen samt deltagare inom folkhögskolan.
 
 Forum för levande historia ska inom ramen för uppdraget synliggöra Sveriges historiska arv som delaktig i slaveriet och den transatlantiska slavhandeln.

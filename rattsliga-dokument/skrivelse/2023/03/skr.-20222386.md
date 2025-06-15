@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om åtgärder med anledning av trakasserier, hot och våld vid statliga myndigheter
 
-I skrivelsen behandlar regeringen Riksrevisionens iakttagelser och rekommendationer i rapporten Trakasserier, hot och våld – förebyggande insatser och hantering vid statliga myndigheter (RiR 2022:26\).
+I skrivelsen behandlar regeringen Riksrevisionens iakttagelser och rekommendationer i rapporten Trakasserier, hot och våld – förebyggande insatser och hantering vid statliga myndigheter (RiR 2022:26).
 
 Rapporten innehåller en redovisning av Riksrevisionens granskning av de statliga myndigheternas och regeringens arbete med att förebygga och hantera trakasserier, hot och våld mot statligt anställda. Riksrevisionens övergripande slutsats är att arbetet i många delar är effektivt. Riksrevisionen bedömer dock att det behövs ett förbättrat stöd till myndigheter där trakasserier, hot och våld är mer ovanliga, och lämnar ett antal rekommendationer till regeringen.
 

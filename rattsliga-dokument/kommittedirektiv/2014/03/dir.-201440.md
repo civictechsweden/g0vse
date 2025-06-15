@@ -4,4 +4,4 @@ En särskild utredare ska undersöka möjligheterna att på olika sätt underlä
 
 Syftet med utredningen är bl.a. att dessa organisationers kompetens och kapacitet bättre ska tas till vara i mötet mellan människor med olika social, kulturell och ekonomisk bakgrund, inte minst inom vård och omsorg.
 
-Uppdraget ska redovisas senast den 29 februari 2016\.
+Uppdraget ska redovisas senast den 29 februari 2016.

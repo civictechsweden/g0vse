@@ -4,4 +4,4 @@ I lagrådsremissen föreslås att det ska förtydligas att som huvudregel ska ko
 
 Bestämmelserna i förordningar om att kommunala föreskrifter ska kungöras i länets författningssamling och föras in i ortstidning bedöms kunna tas bort. Detsamma gäller kravet på tillhandahållande av tryckta exemplar av föreskrifterna.
 
-Ändringen i kommunallagen föreslås träda i kraft den 1 januari 2013\.
+Ändringen i kommunallagen föreslås träda i kraft den 1 januari 2013.

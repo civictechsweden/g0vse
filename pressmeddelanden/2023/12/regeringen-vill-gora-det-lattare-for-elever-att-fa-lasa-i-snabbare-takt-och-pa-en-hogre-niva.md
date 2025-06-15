@@ -8,6 +8,6 @@ Regeringen föreslår att elever som behöver utmanas mer i undervisningen lätt
 
 Regeringen inför också permanenta riksrekryterande spetsutbildningar i grundskolan och gymnasieskolan.
 
-Lagändringarna föreslås träda i kraft den 2 juli 2024\.
+Lagändringarna föreslås träda i kraft den 2 juli 2024.
 
 Förslaget bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

@@ -6,6 +6,6 @@ De senaste åren har efterfrågan av stöd för att förhindra att offentliga me
 
 Regeringen har nyligen presenterat en ny samlad nationell strategi mot våldsbejakande extremism och terrorism. En av målsättningarna i den nya strategin är att inga offentliga medel ska fördelas till antidemokratisk verksamhet. Uppdraget till Brå är en viktig del i arbetet för att uppfylla strategins målsättning.
 
-I uppdraget ingår att vidta förberedelser inför att en stödfunktion ska inrättas vid CVE. Förberedelserna ska vidtas med utgångspunkt i förslagen som lämnades i slutbetänkandet Rätt mottagare – Granskning och integritet (SOU 2021:99\).
+I uppdraget ingår att vidta förberedelser inför att en stödfunktion ska inrättas vid CVE. Förberedelserna ska vidtas med utgångspunkt i förslagen som lämnades i slutbetänkandet Rätt mottagare – Granskning och integritet (SOU 2021:99).
 
-Uppdraget ska redovisas senast den 15 oktober 2024\.
+Uppdraget ska redovisas senast den 15 oktober 2024.

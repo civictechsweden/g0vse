@@ -1,7 +1,6 @@
 # Regeringsförklaringen den 12 september 2017
 
-Statsminister Stefan Löfven, riksdagen, den 12 september 2017\.
-
+Statsminister Stefan Löfven, riksdagen, den 12 september 2017.
 
 Eders Majestäter, Eders Kungliga Högheter,
 Herr talman, Ärade ledamöter av Sveriges riksdag!
@@ -14,17 +13,17 @@ Vår säkerhetspolitiska linje ligger fast. Den militära alliansfriheten tjäna
 
 Fler kvinnor behövs i FN:s fredsbevarande operationer och vid förhandlingsborden när fred ska slutas. Sverige fortsätter sitt arbete för sexuell och reproduktiv hälsa och rättigheter. Världens första uttalat feministiska utrikespolitik ska fortsätta leverera.
 
-Ett starkt EU där alla tar sin del av ansvaret ökar säkerheten och förmågan att hantera stora globala utmaningar. Sverige arbetar för att Storbritanniens utträde ur unionen ska ske under ordnade former. Vi behöver ett fortsatt starkt EU som håller ihop. I november står jag och EU\-kommissionens ordförande värdar för ett toppmöte om rättvisa jobb och tillväxt. Löntagare ska inte ställas mot löntagare i Europa.
+Ett starkt EU där alla tar sin del av ansvaret ökar säkerheten och förmågan att hantera stora globala utmaningar. Sverige arbetar för att Storbritanniens utträde ur unionen ska ske under ordnade former. Vi behöver ett fortsatt starkt EU som håller ihop. I november står jag och EU-kommissionens ordförande värdar för ett toppmöte om rättvisa jobb och tillväxt. Löntagare ska inte ställas mot löntagare i Europa.
 
 Ett starkt nordiskt samarbete är en självklar del av vårt internationella engagemang.
 
-Sverige driver på för att målen i Agenda 2030 ska nås. Under året utvecklas nya etappmål i det svenska miljömålssystemet. Enprocentsmålet för biståndet nås 2018\. Mer kraft kan sättas in för att hindra väpnade konflikter och för att möta de skriande humanitära behoven i världen.
+Sverige driver på för att målen i Agenda 2030 ska nås. Under året utvecklas nya etappmål i det svenska miljömålssystemet. Enprocentsmålet för biståndet nås 2018. Mer kraft kan sättas in för att hindra väpnade konflikter och för att möta de skriande humanitära behoven i världen.
 
 Världens länder har ett gemensamt ansvar för människor som befinner sig på flykt. EU behöver komma i mål med en ny gemensam, human och solidarisk asylpolitik. Asylrätten ska värnas. Sverige ska ha en reglerad invandring. Regeringens arbete för ett förbättrat återvändande fortsätter. Handläggningstiderna ska kortas. De som får stanna ska snabbare kunna börja jobba eller studera.
 
 Just nu pågår den största svenska försvarsmaktsövningen på 20 år, med 20 000 svenska soldater och officerare, ungefär 40 myndigheter och ett brett deltagande från flera länder. Sveriges försvarsförmåga utvecklas.
 
-Våra bi\- och multilaterala försvars\- och säkerhetssamarbeten för\-djupas. Som en del av att värnplikten återinförs kallas nu 6 000 unga män och kvinnor till mönstring och fler har sökt sig frivilligt till Försvarsmakten. Efter årsskiftet rycker de första in för grund\-utbildning. Det gör mig stolt.
+Våra bi- och multilaterala försvars- och säkerhetssamarbeten för-djupas. Som en del av att värnplikten återinförs kallas nu 6 000 unga män och kvinnor till mönstring och fler har sökt sig frivilligt till Försvarsmakten. Efter årsskiftet rycker de första in för grund-utbildning. Det gör mig stolt.
 
 Den säkerhetspolitiska situationen har försämrats. Den illegala annekteringen av Krim och den ryska aggressionen mot Ukraina bryter mot internationell rätt och utmanar den europeiska säkerhetsordningen. Den internationella terrorismen och klimatförändringarna hotar oss alla. Känsligheten har ökat för störningar i viktiga samhällsfunktioner.
 
@@ -54,7 +53,7 @@ Grundvattenresurserna behöver kartläggas och dricksvattnet skyddas. Våtmarker
 Sverige visar ledarskap i arbetet med att genomföra Parisavtalet. Vi visar att det går att kombinera ekologisk hållbarhet med välfärd, rättvisa och utveckling.
 
 Herr talman!
-Efter valet 2014 ärvde regeringen ett underskott på 60 miljarder. Det har nu vänts till ett stort överskott. Arbetslösheten har pressats tillbaka. 200 000 fler går till jobbet. Sysselsättningen är den högsta och beroendet av ersättningssystemen det lägsta sedan före 90\-talskrisen.
+Efter valet 2014 ärvde regeringen ett underskott på 60 miljarder. Det har nu vänts till ett stort överskott. Arbetslösheten har pressats tillbaka. 200 000 fler går till jobbet. Sysselsättningen är den högsta och beroendet av ersättningssystemen det lägsta sedan före 90-talskrisen.
 
 Svensk ekonomi är i ett helt nytt läge. Nu har vi styrkan att både betala av på statsskulden och investera i det som bygger Sverige starkare för framtiden.
 
@@ -65,13 +64,13 @@ Nu är tid för framtidsbygge.
 
 Klyftan mellan stad och land ska slutas. Det ska gå att arbeta, driva företag och få del av samhällsservice oavsett om du bor i Visby, Vårby gård eller Vittangi.
 
-I hela vårt land ska det finnas möjlighet att delta i och utöva kulturaktiviteter. Kultur får människor att växa och stärker demokratin. Lägre avgifter och sänkta trösklar till kulturskolan ger fler barn möjlighet att uttrycka sig i ord, bild, ton och rörelse. Teaterverksamheten Unga Klara blir en nationell teaterinstitution för barn och unga. Kungliga Operan, Dramaten och Riksteatern tillförs medel för fler digitala utsändningar av teater\- och musikföreställningar. Konstnärernas villkor förbättras. En ny mediepolitik för en mångfald av fria medier i hela landet presenteras.
+I hela vårt land ska det finnas möjlighet att delta i och utöva kulturaktiviteter. Kultur får människor att växa och stärker demokratin. Lägre avgifter och sänkta trösklar till kulturskolan ger fler barn möjlighet att uttrycka sig i ord, bild, ton och rörelse. Teaterverksamheten Unga Klara blir en nationell teaterinstitution för barn och unga. Kungliga Operan, Dramaten och Riksteatern tillförs medel för fler digitala utsändningar av teater- och musikföreställningar. Konstnärernas villkor förbättras. En ny mediepolitik för en mångfald av fria medier i hela landet presenteras.
 
 I Sverige ska det gå att hitta en bostad när man får ett jobb eller en studieplats. Inte sedan miljonprogrammets dagar har det byggts så mycket som i dag. Regeringens investeringsstöd ger nu fler hyresrätter med rimliga hyresnivåer. Fler bostäder ska byggas i trä. Det minskar klimatpåverkan och jobb skapas i hela landet.
 
-Det är slut på centraliseringstrenden. Nu görs den största om\-lokaliseringen av myndigheter på över ett decennium. Minst 10 nya lokala servicekontor öppnas för att erbjuda samlad service från flera myndigheter. Under året läggs en ny landsbygdspolitik fram.
+Det är slut på centraliseringstrenden. Nu görs den största om-lokaliseringen av myndigheter på över ett decennium. Minst 10 nya lokala servicekontor öppnas för att erbjuda samlad service från flera myndigheter. Under året läggs en ny landsbygdspolitik fram.
 
-Skogen ska både vårdas och bidra till utveckling. Ett nationellt skogsprogram presenteras för att möjliggöra att skogen bidrar till att den biobaserade ekonomin växer. Fler naturskogar skyddas och naturvårdshänsynen ska öka i den brukade skogen. Företag inom besöksnäringen stimuleras. Mervärdesskatten sänks för naturguider. Livsmedelsproduktionen ökar och skapar nya jobb. 30 procent av den svenska jordbruksmarken ska vara ekologisk år 2030\.
+Skogen ska både vårdas och bidra till utveckling. Ett nationellt skogsprogram presenteras för att möjliggöra att skogen bidrar till att den biobaserade ekonomin växer. Fler naturskogar skyddas och naturvårdshänsynen ska öka i den brukade skogen. Företag inom besöksnäringen stimuleras. Mervärdesskatten sänks för naturguider. Livsmedelsproduktionen ökar och skapar nya jobb. 30 procent av den svenska jordbruksmarken ska vara ekologisk år 2030.
 
 Med levande skogar och mångskiftande natur kan den biologiska mångfalden förbättras.
 
@@ -88,15 +87,15 @@ Delegationen mot segregation påbörjar sitt arbete. Kommuner, landsting, region
 Där behoven är som störst ska stödet vara som starkast.
 
 Herr talman!
-Organiserad brottslighet har ingen plats i Sverige. Samhället ska alltid vara starkare än gängen. Nästa år inleds 2000\-talets största satsning på svensk polis. Sverige har inte råd med att poliser lämnar yrket.
+Organiserad brottslighet har ingen plats i Sverige. Samhället ska alltid vara starkare än gängen. Nästa år inleds 2000-talets största satsning på svensk polis. Sverige har inte råd med att poliser lämnar yrket.
 
-Polismyndigheten har fått ett nytt uppdrag att tillsammans med de fackliga organisationerna förbättra polisernas utvecklings\- och karriärmöjligheter.
+Polismyndigheten har fått ett nytt uppdrag att tillsammans med de fackliga organisationerna förbättra polisernas utvecklings- och karriärmöjligheter.
 
-Polissatsningen ska göra skillnad och då måste också hela rätts\-kedjan följa med. Jag kan i dag informera riksdagen om att regeringens budget innehåller ytterligare satsningar på 750 miljoner kronor för att förstärka bland annat SOS Alarm, Tullen, Säkerhetspolisen, Åklagarmyndigheten, Ekobrottsmyndigheten och Kriminalvården. Fler brott ska klaras upp. Det blir svårare att vara kriminell i Sverige.
+Polissatsningen ska göra skillnad och då måste också hela rätts-kedjan följa med. Jag kan i dag informera riksdagen om att regeringens budget innehåller ytterligare satsningar på 750 miljoner kronor för att förstärka bland annat SOS Alarm, Tullen, Säkerhetspolisen, Åklagarmyndigheten, Ekobrottsmyndigheten och Kriminalvården. Fler brott ska klaras upp. Det blir svårare att vara kriminell i Sverige.
 
 Straffen för grova vapenbrott skärps. Den slutna ungdomsvården byggs ut med fler platser. Nya påföljder föreslås för unga kriminella. Skyddet för blåljuspersonal och sjukvårdspersonal ska stärkas. Vårt gemensamma budskap är: Rör inte våra hjältar!
 
-Drottninggatan i Stockholm, klockan 14\.53 den 7 april.
+Drottninggatan i Stockholm, klockan 14.53 den 7 april.
 De flesta av oss bär skarpa minnen av vad vi gjorde den eftermiddagen. Samhället slöt upp bakom de som arbetade för att hjälpa de drabbade. Människor öppnade sina hem. Vi var många som möttes och stöttade varandra, sorgsna, men ändå beslutsamma, som ville säga: Det här är vår stad. Vårt land. Det kan ingen terrorist ta ifrån oss.
 
 Låt oss minnas offren och hedra deras minne.
@@ -110,13 +109,13 @@ Varje kvinna i Sverige ska kunna leva som hon vill. Stolt, rakryggad, självklar
 Herr talman!
 Svensk arbetsmarknad är het.
 
-Investeringarna ökar. Industritillverkning flyttar hem. Den svenska exporten visar nya rekordsiffror. Reallöneökningarna är goda. Nästa år beräknas arbetslösheten sjunka under sex procent för första gången på nästan tio år. Målet är EU:s lägsta arbetslöshet år 2020\.
+Investeringarna ökar. Industritillverkning flyttar hem. Den svenska exporten visar nya rekordsiffror. Reallöneökningarna är goda. Nästa år beräknas arbetslösheten sjunka under sex procent för första gången på nästan tio år. Målet är EU:s lägsta arbetslöshet år 2020.
 
 Sverige står i det här läget inför två stora utmaningar. Den första är att arbetsgivare har svårt att hitta rätt kompetens.
 
 Det finns över 100 000 lediga jobb och listan över bristyrken är lång. För att arbetslösheten ska minska ytterligare krävs ännu större investeringar i utbildning.
 
-Kunskapslyftet byggs på så att det omfattar nära 80 000 utbildningsplatser under mandatperioden. Lärcentra ska utvecklas så att fler ska kunna studera på distans. Studiebidraget höjs. Möjligheten att ta CSN\-lån för körkort införs.
+Kunskapslyftet byggs på så att det omfattar nära 80 000 utbildningsplatser under mandatperioden. Lärcentra ska utvecklas så att fler ska kunna studera på distans. Studiebidraget höjs. Möjligheten att ta CSN-lån för körkort införs.
 
 Så rustar vi Sverige i den globala och digitala ekonomin. Sverige konkurrerar om framtidens jobb med kunskap och kompetens – inte med låga löner.
 
@@ -133,7 +132,7 @@ Utrikes födda kvinnor behövs på arbetsmarknaden. Särskilda insatser görs f�
 Arbetet för friska arbetsplatser och snabb rehabilitering ger resultat. De skenande sjukskrivningstalen har bromsats. En myndighet för arbetsmiljökunskap inrättas. Fler åtgärder för bättre arbetsvillkor och balans mellan fritid och arbete utreds. Hinder för personer med funktionsnedsättning ska rivas och fler jobbmöjligheter skapas.
 Alla som kan jobba ska jobba. Alla behövs i framtidsbygget.
 
-Svensk industri ska vara ledande när klimat, globalisering och digitalisering kräver snabb omställning. Innovationsrådets samverkansprogram initierar en rad satsningar för att svenskt näringsliv ska ta fram morgondagens attraktiva produkter och locka utländska investeringar. Svenska test\- och demonstrationsanläggningar utvecklas. Regeringens exportstrategi hjälper svenska företag att vinna affärer över hela världen. Sverige ska vara ett föregångsland för fri och rättvis handel.
+Svensk industri ska vara ledande när klimat, globalisering och digitalisering kräver snabb omställning. Innovationsrådets samverkansprogram initierar en rad satsningar för att svenskt näringsliv ska ta fram morgondagens attraktiva produkter och locka utländska investeringar. Svenska test- och demonstrationsanläggningar utvecklas. Regeringens exportstrategi hjälper svenska företag att vinna affärer över hela världen. Sverige ska vara ett föregångsland för fri och rättvis handel.
 
 Utsläppen från industrin ska minska. Processindustrin ges ett nytt stöd till innovativa projekt och gröna tekniksprång – ett Industrikliv. En strategi tas fram för omställningen till en cirkulär och biobaserad ekonomi. Den förnybara energiproduktionen byggs ut.
 
@@ -156,9 +155,9 @@ Så bygger vi välfärd tillsammans och samtidigt ett hållbart samhälle för e
 
 För ett par veckor sedan träffade jag klass 3A från Nälstaskolan. Vi sågs på Berättarministeriet i Husby. Där jobbar de med något av det mest avgörande för barns lärande, nämligen att erövra språket, att skriva och berätta. Jag var där som volontär. Uppdraget: Peppa, inspirera och ta barnens fantasi på allvar. Tack för all inspiration jag fick tillbaka!
 
-Den som ska lära behöver läsa. En läsa\-räkna\-skriva\-garanti för de tidiga åren lagfästs. Fler skolbibliotek bemannas. Mer kraft ska läggas på källkritik. Sverige får skolstart vid sex års ålder. Specialpedagogiken stärks och fler speciallärare utbildas. Skolan ska vara en trygg lärandemiljö. Alla elever ska lära sig mer.
+Den som ska lära behöver läsa. En läsa-räkna-skriva-garanti för de tidiga åren lagfästs. Fler skolbibliotek bemannas. Mer kraft ska läggas på källkritik. Sverige får skolstart vid sex års ålder. Specialpedagogiken stärks och fler speciallärare utbildas. Skolan ska vara en trygg lärandemiljö. Alla elever ska lära sig mer.
 
-Skolan plågas inte längre av nedskärningar. Trots lärarbrist och stora barnkullar så ökar personaltätheten. Antalet anställda i skolan har ökat med 20 000\. Barngrupperna i förskolan är de minsta på 25 år. Tre av fyra legitimerade lärare i grund\- och gymnasieskolan har fått ett rejält lönepåslag. Fler vägar öppnas för att bli behörig. Äntligen vill fler bli lärare.
+Skolan plågas inte längre av nedskärningar. Trots lärarbrist och stora barnkullar så ökar personaltätheten. Antalet anställda i skolan har ökat med 20 000. Barngrupperna i förskolan är de minsta på 25 år. Tre av fyra legitimerade lärare i grund- och gymnasieskolan har fått ett rejält lönepåslag. Fler vägar öppnas för att bli behörig. Äntligen vill fler bli lärare.
 
 Skolkommissionen har lämnat det mest genomarbetade förslaget för att utveckla svensk skola på decennier. Det lägger grunden för en jämlik skola med höga kunskapsresultat.
 
@@ -172,7 +171,7 @@ Men när någon blir sjuk får det inte råda någon tvekan: Vården ska finnas 
 
 En stor satsning görs på kvinnors hälsa. Blivande föräldrar ska kunna vara trygga med att förlossningsvården fungerar. Den psykiska ohälsan kryper nedåt i åldrarna. Unga som mår dåligt ska fångas upp tidigt.
 
-Vårdyrken ska vara attraktiva. Arbetsvillkoren förbättras. Fler utbildningsplatser skapas. Införandet av en legitimation för under\-sköterskor utreds. De anställda i vården ska ges det erkännande de förtjänar.
+Vårdyrken ska vara attraktiva. Arbetsvillkoren förbättras. Fler utbildningsplatser skapas. Införandet av en legitimation för under-sköterskor utreds. De anställda i vården ska ges det erkännande de förtjänar.
 
 Inget symboliserar framtiden som våra barn. I höstens budget prioriteras barnfamiljernas ekonomi.
 
@@ -199,15 +198,15 @@ Skattemedel för välfärd ska gå till välfärden. Inte förvandlas till oriml
 Det ska vara ordning och reda i välfärden.
 
 Herr talman!
-Mitt ute på fältet i förintelselägret Birkenau står en röd boskaps\-vagn. I en sådan kom Livia Fränkel med sin syster Hédi Fried till Auschwitz den17 maj 1944\. Hopträngda, utan mat, med mycket lite vatten hade de rest i tre dagar och två nätter.
+Mitt ute på fältet i förintelselägret Birkenau står en röd boskaps-vagn. I en sådan kom Livia Fränkel med sin syster Hédi Fried till Auschwitz den17 maj 1944. Hopträngda, utan mat, med mycket lite vatten hade de rest i tre dagar och två nätter.
 
-I juni var vi i Auschwitz\-Birkenau tillsammans, Livia Fränkel och jag. Det var första gången som hon var tillbaka. "Jag vill sluta cirkeln", sade hon. "Jag vill ta farväl av mina föräldrar."
+I juni var vi i Auschwitz-Birkenau tillsammans, Livia Fränkel och jag. Det var första gången som hon var tillbaka. "Jag vill sluta cirkeln", sade hon. "Jag vill ta farväl av mina föräldrar."
 
-Vi har en skyldighet att minnas, för minns vi inte historiens över\-grepp, så kan våldet och hatet segra igen. Då sluts en annan cirkel. Den 1 maj i år demonstrerade cirka 500 nazister i Falun. Nordiska Motståndsrörelsen fanns på plats under Almedalsveckan. Snart samlas de i Göteborg. Det är skrämmande.
+Vi har en skyldighet att minnas, för minns vi inte historiens över-grepp, så kan våldet och hatet segra igen. Då sluts en annan cirkel. Den 1 maj i år demonstrerade cirka 500 nazister i Falun. Nordiska Motståndsrörelsen fanns på plats under Almedalsveckan. Snart samlas de i Göteborg. Det är skrämmande.
 
 Nu kraftsamlar regeringen arbetet mot rasism och hatbrott i en nationell handlingsplan. Stödet till skolungdomars hågkomstresor återinförs. År 2020 hålls en ny internationell konferens för hågkomst och utbildning.
 
-Det finns grupper i vårt land som är räddare än någonsin. Säkerheten för minoritetsgrupper och religiösa lokaler ska höjas. Arbetet för transpersoners rättigheter stärks. Skyddet ökar mot hat\- och hetsbrott.
+Det finns grupper i vårt land som är räddare än någonsin. Säkerheten för minoritetsgrupper och religiösa lokaler ska höjas. Arbetet för transpersoners rättigheter stärks. Skyddet ökar mot hat- och hetsbrott.
 
 De nationella minoriteternas rättigheter stärks. En stor satsning görs på sametinget. En ny funktionshinderspolitik ska visa vägen för ett mer jämlikt samhälle, där människors olika bakgrund eller förutsättningar inte avgör möjligheterna till delaktighet.
 

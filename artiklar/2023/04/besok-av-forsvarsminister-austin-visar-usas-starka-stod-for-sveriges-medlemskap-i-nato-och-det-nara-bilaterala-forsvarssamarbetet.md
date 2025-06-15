@@ -1,7 +1,6 @@
 # Besök av försvarsminister Austin visar USA:s starka stöd för Sveriges medlemskap i Nato och det nära bilaterala försvarssamarbetet
 
-Onsdagen den 19 april tog försvarsminister Pål Jonson emot sin amerikanske kollega Lloyd J. Austin III på Muskö örlogsbas, söder om Stockholm. Besöket var det första av en amerikansk försvarsminister på 23 år och visar på USA:s starka stöd för Sveriges medlemskap i Nato liksom på det nära bilaterala försvarspolitiska\- och militära samarbetet mellan Sverige och USA.
-
+Onsdagen den 19 april tog försvarsminister Pål Jonson emot sin amerikanske kollega Lloyd J. Austin III på Muskö örlogsbas, söder om Stockholm. Besöket var det första av en amerikansk försvarsminister på 23 år och visar på USA:s starka stöd för Sveriges medlemskap i Nato liksom på det nära bilaterala försvarspolitiska- och militära samarbetet mellan Sverige och USA.
 
 Försvarsminister Austin besökte Musköbasen med en stor amerikansk delegation med bland andra USA:s biträdande försvarsminister Celeste Wallander och Julie Smith, USA:s ambassadör till Nato. Försvarsminister Austins besök i Sverige är en tydlig återförsäkran om det fortsatta amerikanska stödet för Sveriges säkerhet och ett konkret ställningstagande för Sveriges anslutning till Nato innan toppmötet i Vilnius. Besöket sker också mot bakgrund av det försämrade säkerhetsläget i Europa och i Sveriges närområde.
 
@@ -17,4 +16,4 @@ Försvarsministrarna fick därefter en presentation av svenska marinens verksamh
 
 Efter lunch höll ministrarna en gemensam presskonferens i hamnen, varefter de klev ombord HMS Härnösand tillsammans med marinchefen och överbefälhavare Micael Bydén för transport till Berga örlogsbas. Under färden fick försvarsministrarna bevittna en militär demonstration bestående av bland annat landstigning av amfibiekåren, överflygningar av JAS Gripen och helikopter 16, svävare och korvetter samt en ubåt som gick upp i ytläge.
 
-– Sveriges medlemskap i Nato kommer att innebära en starkare allians och ett starkare Nato. Sverige har USA:s fulla och fasta stöd. Vi ser fram emot att välkomna Sverige som alliansens 32:a medlem \- och för att vara tydliga ser vi fram emot att så sker innan Natos toppmöte i juli, sade försvarsminister Austin under pressträffen.
+– Sveriges medlemskap i Nato kommer att innebära en starkare allians och ett starkare Nato. Sverige har USA:s fulla och fasta stöd. Vi ser fram emot att välkomna Sverige som alliansens 32:a medlem - och för att vara tydliga ser vi fram emot att så sker innan Natos toppmöte i juli, sade försvarsminister Austin under pressträffen.

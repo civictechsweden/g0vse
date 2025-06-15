@@ -10,7 +10,7 @@ Utredningen föreslår bland annat att detta skulle kunna rättas till genom att
 
 ## Utvecklingen av antalet timmar
 
-Antalet brukare och genomsnittstimmar per brukare är i dag långt högre än vad som förväntades när LSS och den statliga assistansersättningen infördes 1994\. Kostnaderna har kontinuerligt ökat med ungefär 1 miljard kronor per år.
+Antalet brukare och genomsnittstimmar per brukare är i dag långt högre än vad som förväntades när LSS och den statliga assistansersättningen infördes 1994. Kostnaderna har kontinuerligt ökat med ungefär 1 miljard kronor per år.
 
 Utredningen pekar på att ökningen av antalet assistanstimmar kan kopplas till lagens utformning: Lagen har en bred målbild men svag tydlighet som vägledning i det förvaltningsmässiga beslutsfattandet. Detta gäller särskilt så kallade övriga behov där det i princip inte finns några begränsningar. Det innebär att ifall brukaren kan beskriva ett behov har denne i regel rätt att få det tillgodosett inom ramen för LSS eller den statliga assistansersättningen. Ökningen av antalet timmar bedöms således inte ha berott på utvecklingen av privata anordnare på marknaden. De har sannolikt påskyndat timutvecklingen men ökningen skulle ha skett ändå.
 

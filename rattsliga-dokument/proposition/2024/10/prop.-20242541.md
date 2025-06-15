@@ -8,4 +8,4 @@ Regeringen föreslår:
 
 Möjligheten avser  barn och unga som vårdas med stöd av lagen med särskilda bestämmelser om vård av unga på en låsbar enhet på ett särskilt ungdomshem med förhöjd säkerhetsnivå eller avtjänar sluten ungdomsvård enligt lagen om verkställighet av sluten ungdomsvård.
 
-Lagändringarna föreslås träda i kraft den 15 december 2024\.
+Lagändringarna föreslås träda i kraft den 15 december 2024.

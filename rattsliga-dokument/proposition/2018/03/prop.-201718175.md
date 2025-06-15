@@ -6,4 +6,4 @@ Regeringen föreslår också  att den ska bemyndigas att meddela föreskrifter
 
 Regeringen föreslår också att en ny bestämmelse införs i lagen om stöd och service till vissa funktionshindrade (LSS). Bestämmelsen innebär att en kommun som har tagit emot ett beslut från Försäkringskassan om att en enskild saknar rätt till assistansersättning utan dröjsmål ska informera den enskilde om förutsättningarna för insatser enligt LSS.
 
-De nya bestämmelserna föreslås träda i kraft den 1 juli 2018\.
+De nya bestämmelserna föreslås träda i kraft den 1 juli 2018.

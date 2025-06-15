@@ -6,5 +6,5 @@ Skolan får nu en viktigare roll i att lära ut information om försvaret genom 
 
 Det kommer finnas möjlighet för media att delta och ställa frågor till statsråden.
 
-Tid: 13:00\-15:00
+Tid: 13:00-15:00
 Plats: Danderyds gymnasium

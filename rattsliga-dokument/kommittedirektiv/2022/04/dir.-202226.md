@@ -1,7 +1,7 @@
 # Regeringens roll som prövningsmyndighet i en modern och effektiv miljöprövning
 
 En särskild utredare ska utreda regeringens roll som överinstans på vissa delar av miljöområdet. Syftet är att åstadkomma en prövningsordning som innebär att regeringen endast är överinstans om frågan som ska prövas rymmer tydliga politiska avvägningar. Den särskilda utredaren ska även, till viss del, se över processen för ärenden som får tillåtlighetsprövas av regeringen enligt 17 kap. miljöbalken i syfte att åstadkomma snabba
-prövningsprocesser. Uppdraget ska redovisas senast den 30 juni 2023\.
+prövningsprocesser. Uppdraget ska redovisas senast den 30 juni 2023.
 
 Utredaren ska bl.a.
 
@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * utreda när i tillståndsprocessen som regeringen ska kunna förbehålla sig att pröva om en verksamhet kan tillåtas enligt miljöbalken, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 30 juni 2023\.
+Uppdraget ska redovisas senast den 30 juni 2023.

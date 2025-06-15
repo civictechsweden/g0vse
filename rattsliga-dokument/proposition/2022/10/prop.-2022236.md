@@ -6,5 +6,5 @@ Förslaget innebär att svenska plattformsoperatörer ska lämna uppgifter om va
 
 I direktivet finns vidare bestämmelser som syftar till att ytterligare förbättra det redan väl fungerande administrativa samarbetet på direktskatteområdet mellan medlemsstater. Exempelvis införs en ny form av revision som kan utföras gemensamt mellan myndigheter i olika medlemsstater, s.k. gemensamma revisioner. Det befintliga automatiska informationsutbytet utvidgas också till att även omfatta royaltyer, om det finns sådana uppgifter. Antalet kategorier av inkomster och kapital som måste finnas tillgängliga för utbyte med andra medlemsstater utökas. Även kvaliteten på uppgifterna och möjligheten att identifiera vem uppgifterna avser ska förbättras genom direktivet, t.ex. genom att det uttryckligen anges att medlemsstaterna ska sträva efter att lämna uppgift om skatteregistreringsnummer för den person som uppgifterna avser. Ytterligare ett exempel på ändringar är att det kommer att bli möjligt att stoppa utflödet av data till medlemsstater eller andra länder som inte kan upprätthålla sekretessen eller informationssäkerheten för de uppgifter som tas emot.
 
-Bestämmelserna föreslås i huvudsak träda i kraft den 1 januari 2023\.
-Bestämmelserna om gemensamma revisioner föreslås dock träda i kraft först den 1 januari 2024\.
+Bestämmelserna föreslås i huvudsak träda i kraft den 1 januari 2023.
+Bestämmelserna om gemensamma revisioner föreslås dock träda i kraft först den 1 januari 2024.

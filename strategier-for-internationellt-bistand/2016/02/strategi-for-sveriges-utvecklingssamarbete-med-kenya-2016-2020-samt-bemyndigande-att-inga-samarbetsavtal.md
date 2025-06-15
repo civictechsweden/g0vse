@@ -2,8 +2,7 @@
 
 Svenskt utvecklingssamarbete med Kenya inom ramen för denna strategi ska bidra till en förbättrad miljö, begränsad klimatpåverkan och stärkt motståndskraft, en demokratisk samhällsutveckling samt förbättrade möjligheter till försörjning för fattiga människor.
 
-
-Utvecklingssamarbetet ska även bidra till att förebygga konflikter i det kenyanska samhället. Samarbetet ska vidare stödja en övergång från utvecklingssamarbete till bredare ekonomiska relationer. Strategin ska gälla under perioden 2016\-2020 och omfatta sammantaget 1 750 miljoner svenska kronor.
+Utvecklingssamarbetet ska även bidra till att förebygga konflikter i det kenyanska samhället. Samarbetet ska vidare stödja en övergång från utvecklingssamarbete till bredare ekonomiska relationer. Strategin ska gälla under perioden 2016-2020 och omfatta sammantaget 1 750 miljoner svenska kronor.
 
 Insatserna inom ramen för strategin förväntas bidra till:
 

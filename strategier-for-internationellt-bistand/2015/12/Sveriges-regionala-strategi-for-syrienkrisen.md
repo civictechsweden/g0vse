@@ -1,9 +1,8 @@
 # Sveriges regionala strategi för Syrienkrisen
 
-Syftet med verksamheten inom ramen för strategin är att bidra till att stärka resiliensen, det vill säga motståndskraften, återhämtnings\- och anpassningsförmågan, hos den syriska befolkningen och hos utsatta grupper i Syriens grannländer som drabbas hårt av konflikten.
+Syftet med verksamheten inom ramen för strategin är att bidra till att stärka resiliensen, det vill säga motståndskraften, återhämtnings- och anpassningsförmågan, hos den syriska befolkningen och hos utsatta grupper i Syriens grannländer som drabbas hårt av konflikten.
 
-
-Strategin ska även bidra till stärkt demokrati och jämställdhet samt ökad respekt för mänskliga rättigheter i Syrien och för flyktingar från Syrien i angränsande länder. Strategin ska gälla under perioden 2016\-2020 och omfattar sammantaget 1,7 miljarder kronor. Insatserna inom ramen för strategin förväntas bidra till:
+Strategin ska även bidra till stärkt demokrati och jämställdhet samt ökad respekt för mänskliga rättigheter i Syrien och för flyktingar från Syrien i angränsande länder. Strategin ska gälla under perioden 2016-2020 och omfattar sammantaget 1,7 miljarder kronor. Insatserna inom ramen för strategin förväntas bidra till:
 
 ## Stärkt resiliens, värnad mänsklig säkerhet och frihet från våld
 
@@ -29,7 +28,7 @@ Strategin ska även bidra till stärkt demokrati och jämställdhet samt ökad r
 
 ### Med fokus på stärkt civilsamhälle
 
-• Stärkt kapacitet hos syriska civilsamhällesorganisationer och lokala strukturer att bedriva påverkansarbete, delta i dialog och bidra till freds\- och statsbyggnad
+• Stärkt kapacitet hos syriska civilsamhällesorganisationer och lokala strukturer att bedriva påverkansarbete, delta i dialog och bidra till freds- och statsbyggnad
 
 • Stärkt kapacitet hos syriska medieaktörer att tillhandahålla oberoende rapportering och verka för en demokratisk utveckling och ökat ansvarsutkrävande
 

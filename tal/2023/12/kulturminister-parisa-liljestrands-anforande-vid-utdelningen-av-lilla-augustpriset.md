@@ -4,7 +4,6 @@ Kulturminister Parisa Liljestrands anförande vid utdelningen av Lilla Augustpri
 
 Det talade ordet gäller.
 
-
 Tack för möjligheten att vara här idag, för att dela ut Lilla Augustpriset.
 
 Jag vill att Sverige ska vara ett läsande land. Men också ett skrivande land. Och ett skapande land.

@@ -12,10 +12,10 @@ Regeringen anser att det finns behov av en särskild satsning i fråga om äldre
 
 ### Takprissystemets effekter på tillgången till antibiotika ska analyseras
 
-Takprissystemet är ett system för att skapa lägre och jämnare priser för utbytbara läkemedel. Regeringen har gett Tandvårds\- och läkemedelsförmånsverket, TLV, i uppdrag att göra en fördjupad analys av hur de justeringar som är planerade av takprisnivåerna under 2023 och 2024 påverkar tillgången till äldre antibiotika. TLV ska även göra en bedömning av om ytterligare åtgärder, inom ramen för takprissystemet, behöver vidtas för att i ännu högre grad stärka tillgången.
+Takprissystemet är ett system för att skapa lägre och jämnare priser för utbytbara läkemedel. Regeringen har gett Tandvårds- och läkemedelsförmånsverket, TLV, i uppdrag att göra en fördjupad analys av hur de justeringar som är planerade av takprisnivåerna under 2023 och 2024 påverkar tillgången till äldre antibiotika. TLV ska även göra en bedömning av om ytterligare åtgärder, inom ramen för takprissystemet, behöver vidtas för att i ännu högre grad stärka tillgången.
 
 ### Högnivåmöte om antibiotikaresistens 2024
 
-Regeringen förbereder för det särskilda högnivåmöte om antibiotikaresistens som äger rum vid FN:s generalförsamling 2024\. Folkhälsomyndigheten har fått i uppdrag att stödja regeringen i dessa förberedelser samt att hantera eventuella slutsatser från mötet som rör andra internationella initiativ inom antibiotikaresistens\-området.
+Regeringen förbereder för det särskilda högnivåmöte om antibiotikaresistens som äger rum vid FN:s generalförsamling 2024. Folkhälsomyndigheten har fått i uppdrag att stödja regeringen i dessa förberedelser samt att hantera eventuella slutsatser från mötet som rör andra internationella initiativ inom antibiotikaresistens-området.
 
-– Sverige har framgångsrikt drivit frågan om antibiotikaresistens under EU\-ordförandeskapet och lyckats förhandla fram nya ambitiösa rekommendationer för medlemsländerna. Internationellt samarbete är avgörande för att bekämpa den tysta pandemi som antibiotikaresistens utgör och jag har goda förhoppningar om att vi kommer att göra fler framsteg under högnivåmötet vid FN:s generalförsamling nästa år, säger socialminister Jakob Forssmed.
+– Sverige har framgångsrikt drivit frågan om antibiotikaresistens under EU-ordförandeskapet och lyckats förhandla fram nya ambitiösa rekommendationer för medlemsländerna. Internationellt samarbete är avgörande för att bekämpa den tysta pandemi som antibiotikaresistens utgör och jag har goda förhoppningar om att vi kommer att göra fler framsteg under högnivåmötet vid FN:s generalförsamling nästa år, säger socialminister Jakob Forssmed.

@@ -7,9 +7,9 @@ Syftet är att åstadkomma ett väl fungerande förfarande för en trygg och sä
 Utredaren ska bl.a.
 
 * analysera och ta ställning till om, och i så fall hur, Skatteverkets
-postförmedling bör regleras,
+  postförmedling bör regleras,
 * analysera och ta ställning till behovet av ändring i sekretesslagstiftningen,
 * analysera och ta ställning till vilken behandling av personuppgifter som kan aktualiseras vid Skatteverkets förmedling av post och i samband med det göra en integritetsanalys, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 27 juni 2025\.
+Uppdraget ska redovisas senast den 27 juni 2025.

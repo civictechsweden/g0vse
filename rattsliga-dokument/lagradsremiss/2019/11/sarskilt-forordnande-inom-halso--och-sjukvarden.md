@@ -4,4 +4,4 @@ Regeringen föreslår att patientsäkerhetslagen ändras så att även regioner 
 
 En upplysning tas också in om i vilka fall en region eller en kommun får besluta om sådana förordnanden.
 
-Lagändringen föreslås träda i kraft den 1 mars 2020\.
+Lagändringen föreslås träda i kraft den 1 mars 2020.

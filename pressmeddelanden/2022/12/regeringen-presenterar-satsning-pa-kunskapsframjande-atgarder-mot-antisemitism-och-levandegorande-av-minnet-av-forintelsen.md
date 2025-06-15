@@ -4,7 +4,7 @@ Insatserna fokuserar på det förebyggande arbetet genom kunskapshöjande åtgä
 
 – Trygghet är vår tids stora frihetsfråga. Få grupper känner det så in på bara huden som den judiska minoriteten. Signalerna från samhället måste vara glasklara: antisemitism hör inte hemma i Sverige, säger kulturminister Parisa Liljestrand.
 
-– Antisemitism fortsätter att utgöra en stor utmaning och drabbar såväl individer som samhället i stort. Ingen ska behöva utsättas för antisemitism eller någon annan form av rasism eller diskriminering. Arbetet mot antisemitism är därför en prioriterad fråga för regeringen, säger jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg.
+– Antisemitism fortsätter att utgöra en stor utmaning och drabbar såväl individer som samhället i stort. Ingen ska behöva utsättas för antisemitism eller någon annan form av rasism eller diskriminering. Arbetet mot antisemitism är därför en prioriterad fråga för regeringen, säger jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg.
 
 Regeringen avser att avsätta sex miljoner kronor för att genomföra utbildningsinsatser och hågkomstresor till Förintelsens minnesplatser under 2023 för att öka kunskapen och förståelsen om antisemitism historiskt och i dag bland svenska ungdomar och lärare. Regeringen säkrar även finansiering av Forum för Levande Historias kunskapshöjande insatser om antisemitism och andra former av rasism.
 

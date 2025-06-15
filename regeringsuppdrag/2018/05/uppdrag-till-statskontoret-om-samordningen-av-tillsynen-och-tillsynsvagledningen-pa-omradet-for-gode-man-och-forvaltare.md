@@ -7,6 +7,6 @@ Regeringen ger Statskontoret följande uppdrag:
 
 Länsstyrelserna i Stockholms, Östergötlands, Skåne, Västra Götalands, Dalarnas, Västernorrlands och Norrbottens län ska bistå Statskontoret under arbetet med uppdraget.
 
-Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 30 april 2019\.
+Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 30 april 2019.
 
 [Pressmeddelande: Åtgärder för en bättre tillsyn på området för gode män och förvaltare](/pressmeddelanden/2018/05/atgarder-for-en-battre-tillsyn-pa-omradet-for-gode-man-och-forvaltare/)

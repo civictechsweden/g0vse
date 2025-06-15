@@ -10,6 +10,6 @@ Stockholm China Forum tillkom i dialog mellan GMF (huvudarrangör), Utrikesdepar
 
 Kontakt:
 Ambassadör Börje Ljunggren, Utrikesdepartementets koordinator
-Tel. 073\-832 0521
+Tel. 073-832 0521
 Kansliråd Magnus Stuxberg, UD:s Asienenhet
-Tel. 070\-508 3389
+Tel. 070-508 3389

@@ -10,4 +10,4 @@ Utredningen föreslår bland annat att
 
 Utredningen föreslår också att en ny påföljd, utvidgad ungdomsövervakning, införs. Påföljden ska ha samma grundstruktur som ungdomsövervakning men innehålla mer kontroll och övervakning under längre tid, samt inledas med ett två månader långt frihetsberövande. Under verkställigheten ska den dömde vara förbjuden att vistas utanför bostaden annat än på särskilt angivna tider och för bestämda ändamål, till exempel för att gå i skolan. Detta ska kontrolleras med så kallad fotboja.
 
-Utredningen föreslår att lagändringarna ska träda i kraft den 1 juli 2026\.
+Utredningen föreslår att lagändringarna ska träda i kraft den 1 juli 2026.

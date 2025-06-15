@@ -9,8 +9,8 @@ Syftet med utredningen är att det i gymnasieskolan ska finnas flera vägar till
 Utredaren ska bland annat:
 
 * analysera vilka möjligheter som elever som är obehöriga till nationella program på gymnasiet har att välja skola och utbildning och vid behov lämna förslag på valbara yrkesutbildningar inom gymnasieskolan som i större utsträckning tar hänsyn till elevers olika förutsättningar,
-* analysera för\- och nackdelar med hur dagens system för övergången från grund\- till gymnasieskola är konstruerat, samt vid behov lämna förslag på förändringar för att elever som haft svårt att nå målen i grundskolan ska ges bättre möjligheter att förbereda sig för arbetslivet,
+* analysera för- och nackdelar med hur dagens system för övergången från grund- till gymnasieskola är konstruerat, samt vid behov lämna förslag på förändringar för att elever som haft svårt att nå målen i grundskolan ska ges bättre möjligheter att förbereda sig för arbetslivet,
 * vid behov föreslå hur elever på högskoleförberedande program som vill arbeta direkt efter gymnasieskolan ska kunna erbjudas yrkesutbildning som underlättar etableringen på arbetsmarknaden, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 5 juni 2024\.
+Uppdraget ska redovisas senast den 5 juni 2024.

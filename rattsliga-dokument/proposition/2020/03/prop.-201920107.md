@@ -18,4 +18,4 @@ Regeringen föreslår att anpassningsbidrag ibland ska kunna ges för standardut
 
 För en bil som är äldre än fyra år eller har gått mer än 6000 mil föreslår regeringen att kravet på särskilda skäl för anpassningsbidrag bara får tillämpas första gången ett sådant bidrag beviljas.
 
-De nya bestämmelserna föreslås träda i kraft den 1 oktober 2020\.
+De nya bestämmelserna föreslås träda i kraft den 1 oktober 2020.

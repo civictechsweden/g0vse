@@ -6,6 +6,6 @@ Ministermötet kommer bland annat att diskutera förberedelser inför Natos topp
 
 Utrikesministrarna kommer även, tillsammans med EU:s höga representant för utrikes frågor och säkerhetspolitik, Josep Borrell, att träffa Natos indopacifiska partners Australien, Japan, Sydkorea och Nya Zeeland för att diskutera utmaningar för gemensamma intressen såsom säkerhet och värderingar.
 
-Vidare kommer ett möte att hållas i Nato\-Ukraina\-rådet (NATO Ukraine Council), där Natos utrikesministrar deltar tillsammans med sin ukrainska motpart Dmytro Kuleba. Här kommer bland annat det långsiktiga stödet till Ukraina att diskuteras.
+Vidare kommer ett möte att hållas i Nato-Ukraina-rådet (NATO Ukraine Council), där Natos utrikesministrar deltar tillsammans med sin ukrainska motpart Dmytro Kuleba. Här kommer bland annat det långsiktiga stödet till Ukraina att diskuteras.
 
 – Att stödja Ukraina är det mest effektiva sättet att begränsa Rysslands möjligheter till aggression, destabilisering och maktexpansion, säger Tobias Billström.

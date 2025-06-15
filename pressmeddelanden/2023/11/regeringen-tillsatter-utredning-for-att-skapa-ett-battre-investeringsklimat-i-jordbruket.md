@@ -8,7 +8,7 @@ För att säkerställa att detta inte medför risker för en generell uppluckrin
 
 Utredningen ska också se över möjligheten att införa bestämmelser om att även testamenterad mark ska omfattas av prövning enligt jordförvärvslagen. Detta för att även i fortsättningen bevara en god balans i markägandet av lantbruksegendom mellan fysiska och juridiska personer.
 
-− Jordförvärvslagen tjänar Sverige väl. Därför håller vi hårt på dess syfte när vi nu gör en avgränsad översyn av den. Det är viktigt att lagen inte i onödan står i vägen för jordbruksföretagens utveckling och en ökad sysselsättning. Vi ska samtidigt   fortsatt värna en stark koppling mellan brukande och ägande av skogs\- och jordbruksmark, säger landsbygdsminister Peter Kullgren.
+− Jordförvärvslagen tjänar Sverige väl. Därför håller vi hårt på dess syfte när vi nu gör en avgränsad översyn av den. Det är viktigt att lagen inte i onödan står i vägen för jordbruksföretagens utveckling och en ökad sysselsättning. Vi ska samtidigt   fortsatt värna en stark koppling mellan brukande och ägande av skogs- och jordbruksmark, säger landsbygdsminister Peter Kullgren.
 
 Regeringen har utsett agronomen och företagaren Fredrik Daveby till utredare.
 

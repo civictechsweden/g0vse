@@ -2,7 +2,6 @@
 
 Regeringen ger Boverket i uppdrag att samordna det nationella klimatanpassningsarbetet för den byggda miljön.
 
-
 I regeringsuppdraget ingår att Boverket ska:
 
 * stödja kommunerna i deras arbete med klimatanpassning av den byggda miljön

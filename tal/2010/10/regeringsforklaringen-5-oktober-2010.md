@@ -1,7 +1,6 @@
 # Regeringsförklaringen 5 oktober 2010
 
-Fredrik Reinfeldt, riksdagen, den 5 oktober 2010\.
-
+Fredrik Reinfeldt, riksdagen, den 5 oktober 2010.
 
 Regeringsförklaringen är statsministerns årliga tal inför riksdagen vid öppnandet av riksmötet.
 

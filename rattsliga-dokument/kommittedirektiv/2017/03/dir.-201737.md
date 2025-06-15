@@ -12,4 +12,4 @@ Utredaren ska bland annat
 
 En parlamentariskt sammansatt referensgrupp ska knytas till utredningen.
 
-Uppdraget ska redovisas senast den 1 juni 2018\.
+Uppdraget ska redovisas senast den 1 juni 2018.

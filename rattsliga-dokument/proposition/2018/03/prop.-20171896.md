@@ -8,4 +8,4 @@ Egenföretagare som endast har inkomst av annat förvärvsarbete berörs inte av
 
 Meningen med att införa ett karensavdrag är främst att uppnå en mer rättvis självrisk vid sjukfrånvaro. Syftet med ett karensavdrag är också att avdraget blir detsamma för den försäkrade oavsett när sjukfrånvaron inträffar.
 
-Bestämmelserna föreslås träda i kraft den 1 januari 2019\.
+Bestämmelserna föreslås träda i kraft den 1 januari 2019.

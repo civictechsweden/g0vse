@@ -3,7 +3,6 @@
 De senaste åren har kvinnorna i Utrikesförvaltningen blivit allt fler. Trenden är särskilt tydlig på chefsposter.
 Totalt är 60 procent av Utrikesförvaltningens anställda kvinnor. Andelen har varit relativt konstant de senaste 20 åren. Men tittar man närmare på siffrorna för chefsposterna så ser man en tydlig förändring över tid på alla nivåer.
 
-
 Bland cheferna i Utrikesförvaltningen var fördelningen i fjol 43 procent kvinnor och 57 procent män. För tio år sedan var andelen kvinnliga chefer 31 procent, och 1996 bara 17 procent.
 
 – På personalenheten arbetar vi genom en strategisk personalpolitik för att nå en modern och jämställd utrikesförvaltning. Det handlar om att genom rekrytering och bemanning säkra att kvinnor och män är jämnt representerade, i allt från programmen för administrativa tjänster såsom tredje ambassadsekreterarprogrammet och utrikesadministratörsprogrammet till diplomatprogrammet, säger Lena Nordström, personalchef, och fortsätter:

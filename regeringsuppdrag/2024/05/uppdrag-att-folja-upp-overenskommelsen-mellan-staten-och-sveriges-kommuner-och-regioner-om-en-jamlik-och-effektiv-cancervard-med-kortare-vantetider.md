@@ -1,7 +1,6 @@
 # Uppdrag att följa upp överenskommelsen mellan staten och Sveriges Kommuner och Regioner om en jämlik och effektiv cancervård med kortare väntetider
 
-Regeringen uppdrar åt Socialstyrelsen att följa upp regionernas arbete med standardiserade vårdförlopp (SVF) enligt överenskommelsen mellan staten och Sveriges Kommuner och Regioner (SKR) om en jämlik och effektiv cancervård med kortare väntetider 2024\. Socialstyrelsen ska även följa upp de särskilda satsningarna på radiologi, patologi och rehabilitering i överenskommelsen.
-
+Regeringen uppdrar åt Socialstyrelsen att följa upp regionernas arbete med standardiserade vårdförlopp (SVF) enligt överenskommelsen mellan staten och Sveriges Kommuner och Regioner (SKR) om en jämlik och effektiv cancervård med kortare väntetider 2024. Socialstyrelsen ska även följa upp de särskilda satsningarna på radiologi, patologi och rehabilitering i överenskommelsen.
 
 Socialstyrelsen ska:
 

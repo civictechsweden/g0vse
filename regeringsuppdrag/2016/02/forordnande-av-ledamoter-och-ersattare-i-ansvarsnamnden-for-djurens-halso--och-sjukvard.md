@@ -1,19 +1,16 @@
 # Förordnande av ledamöter och ersättare i Ansvarsnämnden för djurens hälso- och sjukvård
 
-Regeringen utser följande personer att vara ledamöter och ersättare i Ansvarsnämnden för djurens hälso\- och sjukvård.
-
+Regeringen utser följande personer att vara ledamöter och ersättare i Ansvarsnämnden för djurens hälso- och sjukvård.
 
 ## Fr.o.m. den 1 januari 2016 t.o.m. den 31 december 2017
 
 ### Ledamot:
 
-Leg. veterinären Lars\-Peter Lannek
+Leg. veterinären Lars-Peter Lannek
 
 ### Ersättare:
 
 Leg. veterinären Nils Roneús
-
-
 
 ## Fr.o.m. den 1 januari 2016 t.o.m. den 31 december 2018
 
@@ -36,8 +33,6 @@ Veterinärmedicine doktorn Karin Holm
 Förbundsjuristen Göran Wahlman
 
 Leg. veterinären Lars Petersson
-
-
 
 ## Fr.o.m. den 1 januari 2016 t.o.m. den 31 december 2019
 

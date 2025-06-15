@@ -1,7 +1,6 @@
 # Uppdrag till Statskontoret att göra en myndighetsanalys av Konstnärsnämnden
 
-Regeringen uppdrar åt Statskontoret att utföra en myndighetsanalys av Konstnärsnämnden i enlighet med den modell som Statskontoret redovisade till regeringen i december 2008 (Fi2007/8016/OFA/SF). Uppdraget ska redovisas till regeringen (Kulturdepartementet) senast den 1 mars 2017\.
-
+Regeringen uppdrar åt Statskontoret att utföra en myndighetsanalys av Konstnärsnämnden i enlighet med den modell som Statskontoret redovisade till regeringen i december 2008 (Fi2007/8016/OFA/SF). Uppdraget ska redovisas till regeringen (Kulturdepartementet) senast den 1 mars 2017.
 
 Statskontoret ska
 

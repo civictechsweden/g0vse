@@ -5,16 +5,16 @@ En särskild utredare ska kartlägga och analysera vilka utvecklingsområden som
 Utredaren ska bland annat
 
 * kartlägga och analysera vilka utvecklingsområden som finns
-i den utbildning som bedrivs i fritidshemmet och vid behov
-föreslå åtgärder för att öka kvaliteten och likvärdigheten,
+  i den utbildning som bedrivs i fritidshemmet och vid behov
+  föreslå åtgärder för att öka kvaliteten och likvärdigheten,
 * analysera och föreslå åtgärder för att stärka fritidshemmets
-kompensatoriska uppdrag,
+  kompensatoriska uppdrag,
 * kartlägga och analysera om pedagogisk omsorg stimulerar
-barns utveckling och lärande i tillräcklig grad och om den
-förbereder barnen för fortsatt lärande,
+  barns utveckling och lärande i tillräcklig grad och om den
+  förbereder barnen för fortsatt lärande,
 * utifrån dessa analyser vid behov lämna förslag på hur barns
-likvärdiga förutsättningar inför start i förskoleklass kan
-främjas, och
+  likvärdiga förutsättningar inför start i förskoleklass kan
+  främjas, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 30 september 2019\.
+Uppdraget ska redovisas senast den 30 september 2019.

@@ -9,4 +9,4 @@ Arbetet för att förebygga våldsbejakande extremism måste bli effektivare. En
 * verka för att det förebyggande arbetet breddas för att kunna bemöta olika former av extremism och
 * lämna förslag till hur ett fortsatt förebyggande arbete kan utvecklas och organiseras på lokal nivå.
 
-Uppdraget ska slutredovisas senast den 13 december 2013\.
+Uppdraget ska slutredovisas senast den 13 december 2013.

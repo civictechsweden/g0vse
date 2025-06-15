@@ -10,4 +10,4 @@ För att ytterligare stärka konsumentskyddet på spelmarknaden föreslås det d
 
 Oseriösa spelföretag ska vidare inte kunna locka in människor i beroende och kriminella ska inte kunna tjäna pengar på spelmarknaden. Regeringen föreslår därför även höjda sanktionsavgifter för spelbolag som bryter mot penningtvättslagen.
 
-Lagändringarna föreslås träda i kraft den 1 april 2024\.
+Lagändringarna föreslås träda i kraft den 1 april 2024.

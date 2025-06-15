@@ -4,4 +4,4 @@ Enligt spellagen har spelbolag med svensk licens en omsorgsplikt som innebär at
 
 – Det ska vara ordning och reda på spelmarknaden. Det nya kravet ska leda till mer utförliga handlingsplaner så att det blir tydligt hur spelbolagen tar sitt ansvar för att motverka risker kring spelande. Det här stärker Spelinspektionens möjligheter att förhindra att människor drabbas av spelandets negativa sidor, säger finansmarknadsminister Niklas Wykman.
 
-Förordningsändringen träder i kraft den 1 oktober 2024\.
+Förordningsändringen träder i kraft den 1 oktober 2024.

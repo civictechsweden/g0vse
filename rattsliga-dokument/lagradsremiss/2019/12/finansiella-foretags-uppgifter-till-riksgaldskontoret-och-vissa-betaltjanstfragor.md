@@ -10,4 +10,4 @@ ramen för full kostnadstäckning, på Riksgäldskontorets vägnar bearbeta och 
 
 I lagrådsremissen föreslås också vissa ändringar i lagen om betaltjänster.
 
-Lagändringarna föreslås träda i kraft den 1 april 2020\.
+Lagändringarna föreslås träda i kraft den 1 april 2020.

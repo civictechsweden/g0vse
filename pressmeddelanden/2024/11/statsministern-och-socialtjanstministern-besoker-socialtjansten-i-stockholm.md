@@ -4,4 +4,4 @@ Tidigare samma dag tar socialtjänstministern emot den så kallade mellantvångs
 
 Regeringen arbetar just nu med en ny socialtjänstlag som ska börja gälla i juli nästa år. Den nya lagen kommer ge socialtjänsten bättre möjligheter att arbeta med förebyggande insatser, både riktade mot barn och unga men också mot vårdnadshavare.
 
-Media är välkomna att delta vid delar av besöket. Obligatorisk föranmälan till Hanna Strömberg senast tisdag den 12 november kl. 16\.00, se presskontakt. Mer detaljerad information ges vid anmälan. Deltagande sker i mån av plats.
+Media är välkomna att delta vid delar av besöket. Obligatorisk föranmälan till Hanna Strömberg senast tisdag den 12 november kl. 16.00, se presskontakt. Mer detaljerad information ges vid anmälan. Deltagande sker i mån av plats.

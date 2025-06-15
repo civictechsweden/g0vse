@@ -1,6 +1,6 @@
 # Finansminister Elisabeth Svantesson vald till ordförande för Världsbanken och Internationella Valutafondens utvecklingskommitté
 
-Utvecklingskommittén är institutionernas högsta rådgivande organ i utvecklingsfrågor. Elisabeth Svantesson blir den första svensken, och den första europeiska finansministern, att leda kommittén. Finansministern efterträder Mohamed bin Hadi Al Hussaini från Förenade Arabemiraten, som har lett kommittén sedan oktober 2022\.
+Utvecklingskommittén är institutionernas högsta rådgivande organ i utvecklingsfrågor. Elisabeth Svantesson blir den första svensken, och den första europeiska finansministern, att leda kommittén. Finansministern efterträder Mohamed bin Hadi Al Hussaini från Förenade Arabemiraten, som har lett kommittén sedan oktober 2022.
 
 – Det är en stor ära att bli vald till ordförande för utvecklingskommittén, som är ett viktigt forum för internationellt ekonomiskt samarbete. På utvecklingskommitténs agenda de närmaste åren står flera viktiga frågor som kommer forma framtiden för detta samarbete. Under mitt ordförandeskap hoppas jag bidra positivt till det internationella ekonomiska samarbetet genom att leda utvecklingskommittén på ett inkluderande, konstruktivt och effektivt sätt, säger finansminister Elisabeth Svantesson.
 

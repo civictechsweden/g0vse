@@ -4,6 +4,6 @@ En särskild utredare ska göra en översyn av järnvägens organisation. Syftet
 
 Utredaren ska bland annat:
 
-* på grundval av en funktionell beskrivning av järnvägssystemet redogöra för fördelningen av ansvar och uppgifter på järnvägsområdet och för hur ansvaret och uppgifterna för\-håller sig till varandra,
+* på grundval av en funktionell beskrivning av järnvägssystemet redogöra för fördelningen av ansvar och uppgifter på järnvägsområdet och för hur ansvaret och uppgifterna för-håller sig till varandra,
 * inventera och redogöra för potentiella förbättringsområden där åtgärder bör kunna vidtas för att bättre möta framtidens behov av ett effektivt och hållbart transportsystem, och
 * utifrån regeringens kommande tilläggsdirektiv föreslå förändringar som kan leda till förbättringar av järnvägens funktionssätt.

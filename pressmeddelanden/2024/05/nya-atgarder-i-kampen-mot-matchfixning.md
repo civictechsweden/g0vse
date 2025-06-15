@@ -8,4 +8,4 @@ I dag kan idrottsförbund, spelbolag och myndigheter var för sig ha vaga missta
 
 I dag har regeringen därför beslutat om förordningsändringar som innehåller flera viktiga åtgärder. Framför allt införs nu både möjligheter och skyldigheter för idrottsförbund, spelbolag och Spelinspektionen att utbyta information med varandra vid misstänkt matchfixning. Spelinspektionen får också i uppgift att inrätta en plattform genom vilken informationsutbytet ska ske.
 
-Förordningsändringarna träder i kraft den 1 juli 2024\.
+Förordningsändringarna träder i kraft den 1 juli 2024.

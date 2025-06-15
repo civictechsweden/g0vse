@@ -2,7 +2,6 @@
 
 Sveriges nationella säkerhetsrådgivare Henrik Landerholm, den 13 augusti.
 
-
 Under de senaste månaderna har, i kölvattnet av bland annat koranbränningar i Sverige, ett antal händelser inträffat som sammantaget indikerar att hotet mot svenska intressen utomlands har ökat.
 
 Företrädare för terroristgrupper har uppmanat till attentat mot Sverige. Stater, men också andra aktörer, har bidragit till att underblåsa sådana budskap. Sveriges ambassad i Bagdad har stormats och bränts ned och ett försök har gjorts att angripa Sveriges ambassad i Beirut. Det finns också indikationer på att terrorgrupper planerat andra dåd mot svenska intressen i utlandet. Oavsett de bakomliggande faktorerna till attentatet mot Sveriges honorärkonsulat i Izmir, då en medarbetare skadades allvarligt, bidrar också detta till bilden av ökade hot mot Sverige och svenska intressen utomlands.

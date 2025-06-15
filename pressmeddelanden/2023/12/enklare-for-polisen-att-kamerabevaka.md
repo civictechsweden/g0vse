@@ -10,6 +10,6 @@ Regeringen ser behov av att överväga hur Polismyndighetens förutsättningar f
 * föreslå hur Polismyndighetens hantering inför påbörjandet av en kamerabevakning kan förenklas och
 * lämna nödvändiga författningsförslag.
 
-Utredningstiden kvarstår. Uppdraget ska redovisas senast den 15 april 2024\.
+Utredningstiden kvarstår. Uppdraget ska redovisas senast den 15 april 2024.
 
 Kommittédirektivet bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

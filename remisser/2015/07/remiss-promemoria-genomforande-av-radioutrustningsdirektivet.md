@@ -1,7 +1,6 @@
 # Remiss Promemoria Genomförande av radioutrustningsdirektivet
 
-Här kan du ta del av remissinstansernas svar på remissen Promemoria Genomförande av radioutrustningsdirektivet. Remisstiden gick ut den 15 oktober 2015\.
-
+Här kan du ta del av remissinstansernas svar på remissen Promemoria Genomförande av radioutrustningsdirektivet. Remisstiden gick ut den 15 oktober 2015.
 
 ## Remissinstanser:
 
@@ -21,7 +20,7 @@ Här kan du ta del av remissinstansernas svar på remissen Promemoria Genomföra
 14. Elsäkerhetsverket
 15. Myndigheten för radio och tv
 16. Strålsäkerhetsmyndigheten
-17. Post\- och telestyrelsen
+17. Post- och telestyrelsen
 18. Regelrådet
 19. Tillväxtverket
 20. Kungliga Tekniska Högskolan (Wireless@KTH)
@@ -38,12 +37,12 @@ Här kan du ta del av remissinstansernas svar på remissen Promemoria Genomföra
 31. Sony Mobile Communications AB
 32. Svensk Elektronik
 33. Svensk Handel
-34. IT\&Telekomföretagen
+34. IT&Telekomföretagen
 35. Teknikföretagen
 36. Intenek SEMKO
 37. Näringspunkten
 38. SEK SvenskElstandard
-39. Svenska Informations\- ochTelekommunikationsstandardiseringen (ITS)
+39. Svenska Informations- ochTelekommunikationsstandardiseringen (ITS)
 40. Sveriges Kommunikationselektronik Företagare Förening  (SKEF)
 41. Föreningen Sveriges Sändareamatörer
 42. Föreningen Experimenterande Svenska Radioamatörer
@@ -54,4 +53,4 @@ Myndigheter  under regeringen är skyldiga att svara på remissen. En myndighet
 
 För andra remissinstanser innebär remissen en inbjudan att lämna synpunkter.
 
-Remissvar i elektronisk form skickas via e\-post till [Näringspepartementets registrator](mailto:n.registrator@regeringskansliet.se "Epost till Näringsdepartementets registrator") senast den 15 oktober 2015\. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer  (utan snedstreck), N2015\-5144\-ITP, följt av remissinstansens  namn. I remissvaret anges Regeringskansliets diarienummer N2015/5144/ITP.
+Remissvar i elektronisk form skickas via e-post till [Näringspepartementets registrator](mailto:n.registrator@regeringskansliet.se "Epost till Näringsdepartementets registrator") senast den 15 oktober 2015. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer  (utan snedstreck), N2015-5144-ITP, följt av remissinstansens  namn. I remissvaret anges Regeringskansliets diarienummer N2015/5144/ITP.

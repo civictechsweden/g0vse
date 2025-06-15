@@ -4,4 +4,4 @@ I lagrådsremissen föreslås en ändring i lagen om alternativ tvistlösning i 
 
 Den som inleder ett sådant ärende kan därmed komma att behöva betala en avgift.
 
-Lagändringen föreslås träda i kraft den 1 juli 2024\.
+Lagändringen föreslås träda i kraft den 1 juli 2024.

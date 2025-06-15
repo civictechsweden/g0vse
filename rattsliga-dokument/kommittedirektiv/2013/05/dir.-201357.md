@@ -4,4 +4,4 @@ En särskild utredare ska lämna förslag som ger företagare med personligt ans
 
 Syftet med uppdraget är att underlätta för seriösa företagare som gått i konkurs eller drabbats av överskuldsättning att snabbt ta itu med sin skuldbörda och kunna starta på nytt eller fortsätta med förnyad kraft.
 
-Uppdraget ska redovisas senast den 17 juni 2014\.
+Uppdraget ska redovisas senast den 17 juni 2014.

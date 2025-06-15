@@ -12,4 +12,4 @@ Det ska inte krävas tillstånd från Socialstyrelsen för att få genomgå viss
 
 Regeringskansliet föreslår vidare att den som har fyllt 12 år efter ansökan ska få ändra det kön som framgår av folkbokföringen. För den som är under 18 år görs ansökan av barnets vårdnadshavare. En ansökan för ett barn får inte göras utan barnets skriftliga samtycke. Vid en första ändring av det kön som framgår av folkbokföringen ska det inte ställas något krav på prövning av sökandens könsidentitet.
 
-Lagförslagen föreslås träda i kraft den 1 januari 2024\.
+Lagförslagen föreslås träda i kraft den 1 januari 2024.

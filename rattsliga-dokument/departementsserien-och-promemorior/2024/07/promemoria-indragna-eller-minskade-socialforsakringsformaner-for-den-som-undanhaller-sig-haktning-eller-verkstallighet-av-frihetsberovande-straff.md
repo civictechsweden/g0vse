@@ -6,4 +6,4 @@ Enligt förslagen ska den som har häktats i utevaro, eller inte har inställt s
 
 Syftet med förslagen är att förhindra att den försäkrade fortsatt får ersättning från socialförsäkringen endast av det skälet att rättsvårdande myndigheter inte har kunnat anträffa honom eller henne för att verkställa häktning eller frihetsberövande påföljd.
 
-Lag\- och förordningsändringarna föreslås träda i kraft den 1 juli 2025\.
+Lag- och förordningsändringarna föreslås träda i kraft den 1 juli 2025.

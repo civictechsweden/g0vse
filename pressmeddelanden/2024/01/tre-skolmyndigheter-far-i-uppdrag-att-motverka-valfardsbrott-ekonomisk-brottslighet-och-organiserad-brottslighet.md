@@ -6,6 +6,6 @@ Skolinspektionen får i sitt regleringsbrev för 2024 i uppdrag att stärka till
 
 Varje år avsätter staten miljardbelopp i form av statsbidrag till skolväsendet. De flesta av statsbidragen administreras av Skolverket, som under förra året betalade ut cirka 25 miljarder kronor. Skolverket får i uppdrag i sitt regleringsbrev för 2024 att redovisa vilka åtgärder myndigheten har genomfört och vilka möjligheter och hinder myndigheten ser för att kunna motverka felaktiga utbetalningar. Även Specialpedagogiska skolmyndigheten, som också hanterar statsbidrag inom skolområdet, får motsvarande uppdrag.
 
-Alla uppdragen ska redovisas senast den 1 oktober 2024\.
+Alla uppdragen ska redovisas senast den 1 oktober 2024.
 
 Förslaget bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

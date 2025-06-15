@@ -13,6 +13,6 @@ I utredarens uppdrag ingår bland annat att
 * ta fram förslag på hur ett skatteincitament för gåvor från juridiska personer bör utformas, och
 * lämna nödvändiga författningsförslag för ett skatteincitament för gåvor från juridiska personer.
 
-Uppdraget ska slutredovisas senast den 16 december 2024\.
+Uppdraget ska slutredovisas senast den 16 december 2024.
 
 Direktiven är del av en överenskommelse mellan regeringen och Sverigedemokraterna.

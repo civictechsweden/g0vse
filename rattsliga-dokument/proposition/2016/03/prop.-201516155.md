@@ -6,8 +6,8 @@ I propositionen lämnas förslag till lagändringar som krävs för att genomfö
 
 Förslagen innebär att möjligheterna att förverka inte bara utbytet av ett konkret brott, utan även utbyte av en inte närmare preciserad brottslig verksamhet (utvidgat förverkande), utökas till att gälla vid fler brott. Utvidgat förverkande ska enligt förslaget kunna beslutas vid alla brott som har fyra års fängelse eller mer i straffskalan och som är av beskaffenhet att kunna ge utbyte. Utvidgat förverkande ska även kunna beslutas vid till exempel brott som har två års fängelse eller mer i straffskalan om brottet har utgjort led i en brottslighet som har utövats i organiserad form.
 
-Vidare föreslås utökade möjligheter att besluta om förverkande även utan samband med en fällande brottmålsdom och vissa anpassningar av möjligheterna att erkänna och verkställa förverkandebeslut från andra EU\-medlemsstater.
+Vidare föreslås utökade möjligheter att besluta om förverkande även utan samband med en fällande brottmålsdom och vissa anpassningar av möjligheterna att erkänna och verkställa förverkandebeslut från andra EU-medlemsstater.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2016\.
+Lagändringarna föreslås träda i kraft den 1 juli 2016.
 
 [Pressmeddelande: Fler möjligheter att förverka vinster från brott](/pressmeddelanden/2016/04/fler-mojligheter-att-forverka-vinster-fran-brott/)

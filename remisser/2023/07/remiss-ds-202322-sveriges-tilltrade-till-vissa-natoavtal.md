@@ -4,5 +4,4 @@ Här kan du ta del av de remissvar som kommit in till Försvarsdepartementet på
 
 Övriga yttranden finns tillgängliga i departementet.
 
-
-Remissvaren ska ha kommit in till Försvarsdepartementet senast den 3 oktober 2023\.
+Remissvaren ska ha kommit in till Försvarsdepartementet senast den 3 oktober 2023.

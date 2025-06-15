@@ -8,6 +8,6 @@ Vidare föreslås att en förälder till ett ogift barn som är skyddsbehövande
 
 Dessutom föreslås att när tidsbegränsade uppehållstillstånd förnyas för skyddsbehövande eller deras familjemedlemmar ska giltighetstiden som huvudregel vara minst två år.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2015\.
+Lagändringarna föreslås träda i kraft den 1 januari 2015.
 
 Lagrådsremissen bygger på en överenskommelse mellan regeringen och Miljöpartiet de gröna.

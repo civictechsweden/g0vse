@@ -4,7 +4,6 @@ Göteborg, 28 september 2023
 
 Det talade ordet gäller.
 
-
 Kära mässdeltagare!
 
 Tack för möjligheten att vara här i dag och att inviga årets bokmässa.
@@ -21,7 +20,7 @@ Men en sak behöver vi ha klart för oss: Det här är inget specialintresse. L�
 
 Här är regeringen mycket tydlig:
 
-Att stärka barns läs\- och skrivförmåga handlar inte om nostalgi eller teknikfientlighet.
+Att stärka barns läs- och skrivförmåga handlar inte om nostalgi eller teknikfientlighet.
 Det handlar inte om fint eller fult.
 Det handlar om demokrati.
 

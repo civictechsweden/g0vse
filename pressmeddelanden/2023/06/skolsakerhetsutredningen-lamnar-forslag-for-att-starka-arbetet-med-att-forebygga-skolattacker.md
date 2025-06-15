@@ -6,4 +6,4 @@
 
 Delbetänkandet som nu skickas på remiss innehåller bland annat förslag på en ny lag om hur CVE ska hantera personuppgifter för att kunna sköta ett eventuellt utökat uppdrag. Utredningen har också föreslagit en ny sekretessbestämmelse som syftar till att skydda uppgifter om individers personliga och ekonomiska förhållanden när sådana uppgifter förekommer i CVE:s stödverksamhet.
 
-I slutbetänkandet kommer utredningen att återkomma och bland annat lämna förslag på ytterligare åtgärder för att stärka skolans beredskap och kompetens att hantera våldssituationer. Slutbetänkandet ska redovisas senast den 29 februari 2024\.
+I slutbetänkandet kommer utredningen att återkomma och bland annat lämna förslag på ytterligare åtgärder för att stärka skolans beredskap och kompetens att hantera våldssituationer. Slutbetänkandet ska redovisas senast den 29 februari 2024.

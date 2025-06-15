@@ -5,12 +5,12 @@ En kommitté i form av en sanningskommission ska kartlägga och granska den poli
 Kommissionen ska bl.a.
 
 * kartlägga och granska den politik som förts gentemot samerna och
-relevanta aktörers agerande vid genomförandet av den politiken,
+  relevanta aktörers agerande vid genomförandet av den politiken,
 * sprida kunskap om och öka den allmänna förståelsen för samernas
-historia och hur historiska oförrätter påverkar dagens villkor för
-samerna samt verka för att denna kunskap förs vidare till kommande
-generationer, och
+  historia och hur historiska oförrätter påverkar dagens villkor för
+  samerna samt verka för att denna kunskap förs vidare till kommande
+  generationer, och
 * lämna förslag på åtgärder som bidrar till upprättelse och främjar
-försoning och ett livskraftigt samiskt samhälle.
+  försoning och ett livskraftigt samiskt samhälle.
 
-Uppdraget ska slutredovisas senast den 1 december 2025\.
+Uppdraget ska slutredovisas senast den 1 december 2025.

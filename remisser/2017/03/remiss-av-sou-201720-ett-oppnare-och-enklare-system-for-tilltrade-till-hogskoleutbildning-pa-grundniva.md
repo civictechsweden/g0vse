@@ -1,19 +1,18 @@
 # Remiss av SOU 2017:20 Ett öppnare och enklare system för tillträde till högskoleutbildning på grundnivå
 
-Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:20 Ett öppnare och enklare system för tillträde till högskoleutbildning på grundnivå. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 20 juni 2017\.
-
+Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:20 Ett öppnare och enklare system för tillträde till högskoleutbildning på grundnivå. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 20 juni 2017.
 
 Remissinstanser
 
 1 Statens skolverk
 2 Statens skolinspektion
 3 Specialpedagogiska skolmyndigheten
-4 Myndigheten för ungdoms\- och civilsamhällesfrågor
+4 Myndigheten för ungdoms- och civilsamhällesfrågor
 5 Skolforskningsinstitutet
 6 Myndigheten för yrkeshögskolan
 7 Folkbildningsrådet
 8 Universitetskanslersämbetet
-9 Universitets\- och högskolerådet
+9 Universitets- och högskolerådet
 10 Överklagandenämnden för högskolan
 11 Högskolans avskiljandenämnd
 12 Uppsala universitet
@@ -32,7 +31,7 @@ Remissinstanser
 25 Sveriges lantbruksuniversitet
 26 Blekinge tekniska högskola
 27 Försvarshögskolan
-28 Gymnastik\- och idrottshögskolan
+28 Gymnastik- och idrottshögskolan
 29 Högskolan i Borås 30 Högskolan Dalarna
 31 Högskolan i Gävle
 32 Högskolan i Halmstad
@@ -47,7 +46,7 @@ Remissinstanser
 42 Södertörns högskola
 43 Centrala studiestödsnämnden
 44 Diskrimineringsombudsmannen
-45 Institutet för arbetsmarknads\- och utbildningspolitisk utvärdering
+45 Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
 46 Chalmers tekniska högskola AB
 47 Stiftelsen Högskolan i Jönköping
 48 Askersunds kommun 49 Bergs kommun
@@ -71,7 +70,7 @@ Remissinstanser
 68 Stockholms kommun
 69 Säters kommun
 70 Trollhättans kommun
-71 Upplands\-Bro kommun
+71 Upplands-Bro kommun
 72 Vadstena kommun
 73 Varbergs kommun
 74 Vilhelmina kommun
@@ -91,11 +90,11 @@ Remissinstanser
 88 Sveriges akademikers centralorganisation
 89 Sveriges Elevkårer
 90 Sveriges elevråd
-91 Sveriges elevråd \- SVEA
+91 Sveriges elevråd - SVEA
 92 Sveriges förenade studentkårer
 93 Sveriges Skolledarförbund
 94 Sveriges Ungdomsorganisationer
-95 Sveriges universitets\- och högskoleförbund
+95 Sveriges universitets- och högskoleförbund
 96 Sveriges universitetslärare och forskare
 97 Sveriges Vägledarförening
 98 Tjänstemännens Centralorganisation

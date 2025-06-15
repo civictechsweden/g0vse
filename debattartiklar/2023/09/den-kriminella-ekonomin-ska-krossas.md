@@ -1,7 +1,6 @@
 # ”Den kriminella ekonomin ska krossas”
 
-Finansminister Elisabeth Svantesson, arbetsmarknads\- och integrations­minister Johan Pehrson, Sverigedemokraternas ekonomisk\-politiska talesperson Oscar Sjöstedt och civilminister Erik Slottner, debattartikel, Svenska Dagbladet, den 14 september 2023\.
-
+Finansminister Elisabeth Svantesson, arbetsmarknads- och integrations­minister Johan Pehrson, Sverigedemokraternas ekonomisk-politiska talesperson Oscar Sjöstedt och civilminister Erik Slottner, debattartikel, Svenska Dagbladet, den 14 september 2023.
 
 Den grova kriminaliteten är en av vår tids största samhällskriser. Bara förra året skedde 62 dödsskjutningar i Sverige. Nästan dagligen ser vi fruktansvärda rubriker. Barn som skjuter barn, sprängningar i bostads­områden och ett alltmer hänsynslöst och likgiltigt våldsanvändande – där ingen i slutändan går säker.
 
@@ -20,11 +19,11 @@ Mycket har redan gjorts för att komma åt den kriminella ekonomin. Skatteverket
 I budgeten tar vi nu ytterligare steg för att krossa gängens ekonomi och för att stoppa välfärds­brottsligheten.
 
 * Skatteverkets, Tullverkets och Kronofogde­myndighetens arbete mot den kriminella ekonomin ska intensifieras. Bland annat ska myndigheterna hindra att företag används som brotts­verktyg, intensifiera arbetet med att stoppa narkotika och stöldgods från att föras in i landet, samt öka insatserna för att spåra och återta brottsvinster, samt motverka felaktiga betalningskrav. I budgeten stärker vi Skatteverket, Tullverket och Kronofogde­myndigheten med över en kvarts miljard kronor i detta syfte.
-* Den 1 januari 2024 startar Utbetalnings­myndigheten sitt arbete. Myndigheten ska arbeta med att förebygga, förhindra och upptäcka felaktiga utbetalningar. Den kommer att ha två huvudsakliga uppgifter: administration av ett system med transaktions­konto samt dataanalys och granskning. I budgeten avsätter vi ytterligare 80 miljoner kronor till dess verksamhet. Det innebär att myndigheten får totalt 160 miljoner kronor för 2024\. Vi avsätter också medel till Försäkrings­kassan, Skatteverket, Arbets­förmedlingen, CSN, Pensions­myndigheten och IVO för att dessa bland annat ska kunna leverera uppgifter till Utbetalnings­myndigheten.
+* Den 1 januari 2024 startar Utbetalnings­myndigheten sitt arbete. Myndigheten ska arbeta med att förebygga, förhindra och upptäcka felaktiga utbetalningar. Den kommer att ha två huvudsakliga uppgifter: administration av ett system med transaktions­konto samt dataanalys och granskning. I budgeten avsätter vi ytterligare 80 miljoner kronor till dess verksamhet. Det innebär att myndigheten får totalt 160 miljoner kronor för 2024. Vi avsätter också medel till Försäkrings­kassan, Skatteverket, Arbets­förmedlingen, CSN, Pensions­myndigheten och IVO för att dessa bland annat ska kunna leverera uppgifter till Utbetalnings­myndigheten.
 
 Kriminaliteten finns där pengarna finns. Genom att knäcka gängens ekonomi försvårar vi för den organiserade brottsligheten och slår samtidigt vakt om skatte­betalarnas pengar. Inte en skattekrona som kan gå till fler sjuksköterskor, lärare eller poliser ska hamna i fickan på kriminella. Den kriminella ekonomin ska krossas.
 
 Elisabeth Svantesson (M), finansminister
-Johan Pehrson (L), arbetsmarknads\- och integrations­minister
-Oscar Sjöstedt (SD), ekonomisk\-politisk talesperson
+Johan Pehrson (L), arbetsmarknads- och integrations­minister
+Oscar Sjöstedt (SD), ekonomisk-politisk talesperson
 Erik Slottner (KD), civilminister

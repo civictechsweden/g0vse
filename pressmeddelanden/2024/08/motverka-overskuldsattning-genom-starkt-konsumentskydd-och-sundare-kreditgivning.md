@@ -6,7 +6,7 @@
 
 – Svenskar är alldeles för högt skuldsatta, och under de senaste 15 åren har lån till vardagsköp mer än fördubblats. Unga är överrepresenterade bland de som får betalningsproblem på grund av dessa lån, vilket kan vara en ingång till långvarig skuldsättning. Nu under sommaren kunde vi ta del av siffror om att en av åtta unga hade lånat pengar till sin semester. Med förslagen som vi presenterar i dag kan vi vända utvecklingen, säger civilminister Erik Slottner.
 
-– Med den här reformen stärks skyddsnäten för de allra mest utsatta och det gör att färre människor riskerar att hamna i livslånga skuldfällor. Hårdare krav ställs på aktörer som ställer ut lån och makten förflyttas mot konsumenterna, säger Cecilia Rönn, ekonomisk\-politisk talesperson för liberalerna.
+– Med den här reformen stärks skyddsnäten för de allra mest utsatta och det gör att färre människor riskerar att hamna i livslånga skuldfällor. Hårdare krav ställs på aktörer som ställer ut lån och makten förflyttas mot konsumenterna, säger Cecilia Rönn, ekonomisk-politisk talesperson för liberalerna.
 
 För att konsumentskyddet på området ska bli starkare och mer heltäckande föreslås ändringar i konsumentkreditlagen som bland annat innebär att
 
@@ -15,4 +15,4 @@ För att konsumentskyddet på området ska bli starkare och mer heltäckande fö
 * regleringen som begränsar möjligheten att förlänga löptiden för en kredit utvidgas till att gälla för alla krediter enligt lagen utom bostadskrediter.
 * regleringen om vilken information som ska lämnas vid marknadsföring av krediter utsträcks till alla konsumentkrediter (utom bostadskrediter och räntefria lån).
 
-Lagändringarna föreslås träda i kraft den 1 mars 2025\.
+Lagändringarna föreslås träda i kraft den 1 mars 2025.

@@ -6,4 +6,4 @@ Ansvaret för utredning och lagföring av ekonomisk brottslighet är delat mella
 * Om utredaren kommer fram till att Ekobrottsmyndigheten bör få ett utökat ansvar ska utredaren bedöma vilka konsekvenser förslaget får för Ekobrottsmyndigheten, Åklagarmyndigheten och Polisen samt andra berörda myndigheter när det gäller verksamhet, resurser och personal.
 * Utredaren ska utvärdera myndighetssamverkan mot ekonomisk brottslighet och, om det bedöms vara motiverat, föreslå förändringar i verksamheten.
 
-Uppdraget ska redovisas senast den 30 april 2011\.
+Uppdraget ska redovisas senast den 30 april 2011.

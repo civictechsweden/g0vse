@@ -6,4 +6,4 @@ Skattebefrielse gäller för vegetabiliska och animaliska oljor och fetter samt 
 
 I promemorian föreslås att denna överkompensation åtgärdas genom att koldioxidskatten sänks från 94 till 80 procent av den generella koldioxidskattenivån för bränslen som förbrukas i värmeverk inom EU:s system för handel med utsläppsrätter.
 
-Ändringen föreslås träda i kraft den 1 januari 2014\.
+Ändringen föreslås träda i kraft den 1 januari 2014.

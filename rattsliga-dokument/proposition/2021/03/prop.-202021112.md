@@ -13,6 +13,6 @@ redan betald skatt på röktobak som används vid tillverkningen av
 tobaksprodukter som omfattas av lagen om tobaksskatt. En ny
 bestämmelse om skattskyldighet införs för den som yrkesmässigt innehar snus, tuggtobak eller övrig tobak utan att skatt för varorna har redovisats i Sverige. Åtgärderna kompletteras med att tillämpningsområdet för lagen om punktskattekontroll av transporter m.m. av alkoholvaror, tobaksvaror och energiprodukter utsträcks till att omfatta vissa flyttningar av snus, tuggtobak samt övrig tobak.
 
-Ändringarna föreslås träda i kraft den 1 juli 2021 vad gäller bestämmelser om godkända lagerhållare, registrerade distansförsäljare och kompletteringar i skatteförfarandelagen och i övrigt den1 augusti 2021\.
+Ändringarna föreslås träda i kraft den 1 juli 2021 vad gäller bestämmelser om godkända lagerhållare, registrerade distansförsäljare och kompletteringar i skatteförfarandelagen och i övrigt den1 augusti 2021.
 
-I propositionen föreslås även vissa följdändringar i skatteförfarandelagen med anledning av propositionen Vissa ändringar i avfallsskattelagen. Dessa ändringar föreslås träda i kraft den 1 juli 2021\.
+I propositionen föreslås även vissa följdändringar i skatteförfarandelagen med anledning av propositionen Vissa ändringar i avfallsskattelagen. Dessa ändringar föreslås träda i kraft den 1 juli 2021.

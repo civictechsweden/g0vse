@@ -4,4 +4,4 @@ Lagrådsremissen innehåller förslag till nya bestämmelser i kommunallagen som
 
 Till följd av förslaget om generella bestämmelser i kommunallagen
 föreslås även ett antal följdändringar i andra lagar. Ändringarna föreslås
-träda i kraft den 1 juli 2018\.
+träda i kraft den 1 juli 2018.

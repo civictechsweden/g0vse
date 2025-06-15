@@ -6,4 +6,4 @@ Under de senaste åren har det pågått en diskussion om ökade svårigheter att
 
 Regeringen ger därför Statens kulturråd i uppdrag att undersöka musikområdets förutsättningar att få tillgång till och nyttja lämpliga lokaler. Statens kulturråd ska även föreslå hur gynnsamma förutsättningar för musikscener kan skapas genom samverkan mellan det offentligt finansierade kulturlivet och privata aktörer samt beskriva de hinder som eventuellt finns kring tillgången till musikscener. Statens kulturråd ska vid genomförandet av uppdraget inhämta synpunkter från regioner och kommuner samt relevanta aktörer inom musikområdet.
 
-Statens kulturråd ska lämna en slutredovisning av uppdraget till Kulturdepartementet senast den 30 september 2024\.
+Statens kulturråd ska lämna en slutredovisning av uppdraget till Kulturdepartementet senast den 30 september 2024.

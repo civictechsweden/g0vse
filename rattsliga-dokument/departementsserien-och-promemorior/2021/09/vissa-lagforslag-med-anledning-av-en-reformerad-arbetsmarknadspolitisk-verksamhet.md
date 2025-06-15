@@ -8,4 +8,4 @@ Arbetsförmedlingen ska fortsatt ha myndighetsansvaret för arbetsmarknadspoliti
 
 För att såväl Arbetsförmedlingen som leverantörerna ska kunna fullgöra sina respektive uppdrag på ett effektivt sätt när leverantörer i större utsträckning utför arbetsmarknadspolitiska insatser, behöver utbytet av information mellan Arbetsförmedlingen och leverantören kunna ske mer effektivt. För att skyddet för enskildas integritet ska kunna upprätthållas och ett effektivt informationsutbyte ska kunna ske krävs vissa lagändringar. Reformeringen innebär även att begrepp behöver anpassas i några lagar. Denna promemoria innehåller förslag till sådana lagändringar.
 
-Lagförslagen föreslås träda i kraft den 1 december 2022\.
+Lagförslagen föreslås träda i kraft den 1 december 2022.

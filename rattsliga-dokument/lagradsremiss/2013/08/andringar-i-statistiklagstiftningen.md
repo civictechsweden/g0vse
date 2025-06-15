@@ -4,4 +4,4 @@ I denna lagrådsremiss lämnas förslag till ändringar i lagen om den officiell
 
 Vissa ändringar görs även i regleringen av vilka som är skyldiga att lämna uppgifter för den officiella statistiken, genom att det införs en uppgiftsskyldighet även för kommunalförbund. Vidare föreslås att det i lagen införs en skyldighet att lämna uppgifter för framställning av sådan europeisk statistik som en myndighet enligt en EU förordning ska ge in till Europeiska kommissionen. Regeringen bemyndigas att meddela föreskrifter om uppgiftsskyldigheten.
 
-Lagändringarna föreslås träda i kraft den 31 december 2013\.
+Lagändringarna föreslås träda i kraft den 31 december 2013.

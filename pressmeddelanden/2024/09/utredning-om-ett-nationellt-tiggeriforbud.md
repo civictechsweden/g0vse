@@ -1,10 +1,10 @@
 # Utredning om ett nationellt tiggeriförbud
 
-Tiggeri var under lång tid en sällsynt företeelse i Sverige. I början av 2010\-talet började EU\-medborgare i större utsträckning än tidigare att komma till Sverige för att bland annat tigga.
+Tiggeri var under lång tid en sällsynt företeelse i Sverige. I början av 2010-talet började EU-medborgare i större utsträckning än tidigare att komma till Sverige för att bland annat tigga.
 
-Många som tigger lever under svåra och ovärdiga förhållanden med undermåliga bostäder och med endast begränsad tillgång till de sociala skyddsnäten. En tidigare utredning har konstaterat att tiggeri sällan leder till arbete, utan endast till försörjning på kort sikt, vilket riskerar att cementera en redan utsatt situation. Polis­myndig­heten har också bedömt att flera grupperingar som tiggt i Sverige har styrts av kriminella aktörer. Dessa aktörer utnyttjar utsatta EU\-medborgare, bland annat genom utpressning, människo­handel och människoexploatering. Ibland tvingas utsatta personer att tigga under hot om våld, ofta för att betala tillbaka en orimligt hög kostnad för resan till Sverige.
+Många som tigger lever under svåra och ovärdiga förhållanden med undermåliga bostäder och med endast begränsad tillgång till de sociala skyddsnäten. En tidigare utredning har konstaterat att tiggeri sällan leder till arbete, utan endast till försörjning på kort sikt, vilket riskerar att cementera en redan utsatt situation. Polis­myndig­heten har också bedömt att flera grupperingar som tiggt i Sverige har styrts av kriminella aktörer. Dessa aktörer utnyttjar utsatta EU-medborgare, bland annat genom utpressning, människo­handel och människoexploatering. Ibland tvingas utsatta personer att tigga under hot om våld, ofta för att betala tillbaka en orimligt hög kostnad för resan till Sverige.
 
-Det finns i dag en möjlighet för kommuner att genom lokala ordningsföreskrifter under vissa förutsättningar förbjuda tiggeri på vissa platser, vilket också har skett i en del kommuner. Det finns dock begränsningar i möj­ligheten att meddela lokala förbud. En särskild utredare ska därför överväga för\- och nackdelar med och lämna förslag på ytterligare åtgärder för att motverka förekomsten av tiggeri i Sverige.
+Det finns i dag en möjlighet för kommuner att genom lokala ordningsföreskrifter under vissa förutsättningar förbjuda tiggeri på vissa platser, vilket också har skett i en del kommuner. Det finns dock begränsningar i möj­ligheten att meddela lokala förbud. En särskild utredare ska därför överväga för- och nackdelar med och lämna förslag på ytterligare åtgärder för att motverka förekomsten av tiggeri i Sverige.
 
 Utredaren ska bland annat
 
@@ -17,4 +17,4 @@ Utredaren ska bland annat
 
 Särskild utredare är den före detta hovrättslagmannen Krister Thelin.
 
-Uppdraget bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna och ska redovisas senast den 26 juni 2025\.
+Uppdraget bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna och ska redovisas senast den 26 juni 2025.

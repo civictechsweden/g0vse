@@ -1,7 +1,7 @@
 # Verksamhetsstödet för idrottens bildningsverksamhet
 
-I propositionen föreslås en ändring i lagen (1976:1046\) om överlämnande av förvaltningsuppgifter inom Utbildningsdepartementets verksamhetsområde som ger lagstöd för Studieförbundet SISU Idrottsutbildarnas verksamhet att pröva frågor om fördelning av statsbidrag till idrottens studie\-, bildnings\- och utbildningsverksamhet.
+I propositionen föreslås en ändring i lagen (1976:1046) om överlämnande av förvaltningsuppgifter inom Utbildningsdepartementets verksamhetsområde som ger lagstöd för Studieförbundet SISU Idrottsutbildarnas verksamhet att pröva frågor om fördelning av statsbidrag till idrottens studie-, bildnings- och utbildningsverksamhet.
 
-Det föreslås också en ändring i bilagan till offentlighets\- och sekretesslagen (2009:400\) som innebär att offentlighetsprincipen ska gälla hos SISU i den del av studieförbundets verksamhet som består i fördelning av statsbidrag.
+Det föreslås också en ändring i bilagan till offentlighets- och sekretesslagen (2009:400) som innebär att offentlighetsprincipen ska gälla hos SISU i den del av studieförbundets verksamhet som består i fördelning av statsbidrag.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2014\.
+Lagändringarna föreslås träda i kraft den 1 juni 2014.

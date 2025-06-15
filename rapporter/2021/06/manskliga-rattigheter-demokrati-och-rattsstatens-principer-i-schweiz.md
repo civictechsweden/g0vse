@@ -2,7 +2,6 @@
 
 Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Schweiz samt en länk till rapporten i sin helhet.
 
-
 Schweiz är en väl utvecklad parlamentarisk demokrati och rättsstat. Landet är en federal stat med en tydlig ansvarsfördelning mellan kantoner och förbundsnivå. Respekten för de mänskliga rättigheterna är god. Landet har ett väl fungerande rättsväsende.
 
 Schweiz har en långtgående direktdemokrati med återkommande folkomröstningar och regionalt självbestämmande. Det huvudsakliga ansvaret för efterlevnad av de mänskliga rättigheterna ligger på kantonal nivå, vilket innebär att efterlevnaden skiftar mellan kantonerna när federal reglering saknas.

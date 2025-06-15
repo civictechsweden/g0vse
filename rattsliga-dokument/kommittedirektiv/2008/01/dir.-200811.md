@@ -8,4 +8,4 @@ I uppdraget ingår även att närmare redovisa och analysera skillnaderna mellan
 
 Utredaren ska lämna de förslag till författningsändringar som översynen motiverar.
 
-Den första delen av uppdraget ska redovisas senast den 31 maj 2008\. Utredaren ska slutligt redovisa hela uppdraget senast den 30 april 2009\.
+Den första delen av uppdraget ska redovisas senast den 31 maj 2008. Utredaren ska slutligt redovisa hela uppdraget senast den 30 april 2009.

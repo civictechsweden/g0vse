@@ -10,6 +10,6 @@ Behov av data till hjälp vid insatser från det offentliga eller som grund för
 
 ## Bred samverkan
 
-Folkhälsomyndigheten samtalar med E\-hälsomyndigheten, Myndigheten för digital förvaltning, Myndigheten för samhällsskydd och beredskap, Datainspektionen samt andra myndigheter med ansvarsområden som kopplar till uppdraget. Folkhälsomyndigheten samtalar även med Sveriges Kommuner och Regioner.
+Folkhälsomyndigheten samtalar med E-hälsomyndigheten, Myndigheten för digital förvaltning, Myndigheten för samhällsskydd och beredskap, Datainspektionen samt andra myndigheter med ansvarsområden som kopplar till uppdraget. Folkhälsomyndigheten samtalar även med Sveriges Kommuner och Regioner.
 
-Uppdraget redovisas till Socialdepartementet senast den 1 april 2021\.
+Uppdraget redovisas till Socialdepartementet senast den 1 april 2021.

@@ -7,4 +7,4 @@ Bland annat föreslås att:
 * Räntebetalningar till mottagare som beskattas över en viss nivå (10 procent) kommer även i fortsättningen vara avdragsgilla. Skatteverket ges dock möjlighet att underkänna ränteavdrag som görs främst för att undvika skatt.
 * Det blir inte längre tillåtet att göra avdrag för ränteutbetalningar till mottagare i lågskatteländer utanför EES (EU plus Island, Norge och Lichtenstein) som Sverige inte har skatteavtal med. Det gäller även om lånen görs av affärsmässiga skäl. Ränteutbetalningar till de länder som brukar beskrivas som skatteparadis blir därmed inte längre avdragsgilla.
 
-Ändringarna föreslås träda i kraft den 1 januari 2013\.
+Ändringarna föreslås träda i kraft den 1 januari 2013.

@@ -1,6 +1,6 @@
 # Införande av trängselskatt i Göteborg
 
-I propositionen föreslås att trängselskatt ska införas i Göteborgs kommun. Trängselskatt föreslås tas ut i de centrala delarna av Göteborg från och med den 1 januari 2013\.
+I propositionen föreslås att trängselskatt ska införas i Göteborgs kommun. Trängselskatt föreslås tas ut i de centrala delarna av Göteborg från och med den 1 januari 2013.
 
 Syftet med en trängselskatt är att förbättra framkomligheten och miljön i Göteborg, men även att bidra till finansieringen av investeringar i kollektivtrafik, järnväg och väg, bland annat Västlänken samt en ny älvförbindelse vid Marieholm.
 

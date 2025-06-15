@@ -1,13 +1,12 @@
 # Detta driver Sverige inför UNEA2
 
-Vid FNs miljömöte UNEA2, som hålls i Nairobi 23\-27 maj, kommer världens länder förhandla fram drygt 20 resolutioner. Resolutionerna pekar ut riktningen för det fortsatta globala arbetet med en mängd klimat\- och miljöfrågor. Ministerdelen kommer kretsa kring två teman: Agenda 2030 samt hälsa och miljö. Nedan beskrivs regeringens syn på de olika politiska områden som resolutionerna och ministerdiskussionerna handlar om.
-
+Vid FNs miljömöte UNEA2, som hålls i Nairobi 23-27 maj, kommer världens länder förhandla fram drygt 20 resolutioner. Resolutionerna pekar ut riktningen för det fortsatta globala arbetet med en mängd klimat- och miljöfrågor. Ministerdelen kommer kretsa kring två teman: Agenda 2030 samt hälsa och miljö. Nedan beskrivs regeringens syn på de olika politiska områden som resolutionerna och ministerdiskussionerna handlar om.
 
 ### Agenda 2030 och de globala målen för hållbar utveckling
 
 Alla länder och aktörer behöver vidta konkreta åtgärder för att målen i Agenda 2030 ska kunna nås. UNEA bidrar till detta genom att erbjuda en mötesplats för världens ministrar att driva arbetet för en global hållbar utveckling framåt.
 
-I den resolution som ska beslutas vill regeringen att FNs miljömöten UNEA ska ha en central roll i genomförandet av Agenda 2030, såväl inom som utanför FN\-systemet. Sverige är ansvarig inom EU för förhandlingarna om resolutionen och har deltagit aktivt i förarbetet.
+I den resolution som ska beslutas vill regeringen att FNs miljömöten UNEA ska ha en central roll i genomförandet av Agenda 2030, såväl inom som utanför FN-systemet. Sverige är ansvarig inom EU för förhandlingarna om resolutionen och har deltagit aktivt i förarbetet.
 
 Även UNEPs roll är central i genomförandet av Agenda 2030, som världens ledande globala miljöorganisation. En viktig uppgift för UNEP är att fortsätta skapa nya partnerskap mellan beslutsfattare, näringsliv, civilsamhälle och forskare.
 
@@ -17,9 +16,9 @@ Ministrarna kommer särskilt diskutera kopplingen mellan hälsa och miljö. Mån
 
 ### Kemikalier och avfall
 
-Regeringen anser att en hållbar hantering av kemikalier och avfall är en förutsättning för att genomföra Agenda 2030\. Sverige har därför tillsammans med EU lagt förslag på att en resolution antas på just detta område.
+Regeringen anser att en hållbar hantering av kemikalier och avfall är en förutsättning för att genomföra Agenda 2030. Sverige har därför tillsammans med EU lagt förslag på att en resolution antas på just detta område.
 
-De globala mål för kemikalier och avfall som finns idag gäller till år 2020\. Det är viktigt att världens länder så snart som möjligt enas om ett tydligt och ambitiöst ramverk för hur arbetet med dessa frågor ska fortsätta efter 2020\. Regeringen vill att UNEP ska ha en ledande roll i detta arbete. Resolutionen som ska antas på UNEA är ett betydelsefullt steg på vägen.
+De globala mål för kemikalier och avfall som finns idag gäller till år 2020. Det är viktigt att världens länder så snart som möjligt enas om ett tydligt och ambitiöst ramverk för hur arbetet med dessa frågor ska fortsätta efter 2020. Regeringen vill att UNEP ska ha en ledande roll i detta arbete. Resolutionen som ska antas på UNEA är ett betydelsefullt steg på vägen.
 
 Kemikaliefrågorna har direkta kopplingar till jämställdhet, hälsa, klimat och fattigdomsbekämpning. De insatser som görs får därmed positiva effekter på flera andra områden.
 

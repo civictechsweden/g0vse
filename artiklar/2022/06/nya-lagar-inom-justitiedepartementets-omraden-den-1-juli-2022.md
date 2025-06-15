@@ -1,7 +1,6 @@
 # Nya lagar inom Justitiedepartementets områden den 1 juli 2022
 
-Under året har regeringen föreslagit ett flertal lagändringar inom Justitiedepartementets ansvarsområden. Förslagen har behandlats i riksdagen och träder i kraft vid halvårsskiftet 2022\. Ett urval av dem presenteras här.
-
+Under året har regeringen föreslagit ett flertal lagändringar inom Justitiedepartementets ansvarsområden. Förslagen har behandlats i riksdagen och träder i kraft vid halvårsskiftet 2022. Ett urval av dem presenteras här.
 
 ### Möjlighet till tillträdesförbud till badanläggningar och bibliotek införs
 
@@ -53,7 +52,7 @@ SFS: 2022:666–699
 
 För att stärka skyddet för vittnen och få fler personer i kriminella nätverk att samarbeta med myndigheter införs flera lagändringar. De innebär bland annat att den som medverkar i utredningen av någon annans brott ska kunna få ett lindrigare straff samtidigt som straffet för olika former av falska anklagelser skärps.
 
-Sekretess ska gälla för uppgift om var den befinner sig som deltar i ett sammanträde inför rätten genom ljudöverföring eller ljud\- och bildöverföring. Övergrepp i rättssak och grova fall av mened och skyddande av brottsling ska kunna leda till betydligt strängare straff.
+Sekretess ska gälla för uppgift om var den befinner sig som deltar i ett sammanträde inför rätten genom ljudöverföring eller ljud- och bildöverföring. Övergrepp i rättssak och grova fall av mened och skyddande av brottsling ska kunna leda till betydligt strängare straff.
 
 SFS: 2022:791–793
 
@@ -87,9 +86,9 @@ SFS: 2022:132 och 2022:455
 
 ### Effektivare bevisupptagning inom EU
 
-Den omarbetade EU\-förordningen innebär bland annat att medlemsstaterna ska kommunicera elektroniskt med varandra via ett decentraliserat it\-system från det att it\-systemet kan tas i bruk år 2025\. När muntlig bevisning ska tas upp direkt av en medlemsstat ska videokonferens eller liknande teknik som huvudregel användas. Syftet är att effektivisera samarbetet mellan medlemsstater.
+Den omarbetade EU-förordningen innebär bland annat att medlemsstaterna ska kommunicera elektroniskt med varandra via ett decentraliserat it-system från det att it-systemet kan tas i bruk år 2025. När muntlig bevisning ska tas upp direkt av en medlemsstat ska videokonferens eller liknande teknik som huvudregel användas. Syftet är att effektivisera samarbetet mellan medlemsstater.
 
-EU\-förordningen blir direkt tillämplig i Sverige, men medför följdändringar i tre lagar som innebär att hänvisningar till den tidigare förordningen om bevisupptagning ändras till att avse den nya förordningen om bevisupptagning. Vissa kompletterande bestämmelser som tidigare fanns i ett tillkännagivande tas i stället in i en ny förordning som bland annat reglerar tillåtna medel för kommunikation och att Regeringskansliet ska vara centralt organ för samarbetet.
+EU-förordningen blir direkt tillämplig i Sverige, men medför följdändringar i tre lagar som innebär att hänvisningar till den tidigare förordningen om bevisupptagning ändras till att avse den nya förordningen om bevisupptagning. Vissa kompletterande bestämmelser som tidigare fanns i ett tillkännagivande tas i stället in i en ny förordning som bland annat reglerar tillåtna medel för kommunikation och att Regeringskansliet ska vara centralt organ för samarbetet.
 
 SFS: 2022:622–625
 
@@ -97,9 +96,9 @@ SFS: 2022:622–625
 
 ### Effektivare delgivning inom EU införs
 
-EU\-förordningen innebär bland annat att medlemsstaterna ska kommunicera elektroniskt med varandra via ett decentraliserat it\-system från det att it\-systemet kan tas i bruk år 2025\. Vidare införs en möjlighet att delge handlingar till en delgivningsmottagare i en annan medlemsstat på elektronisk väg. Syftet är att effektivisera samarbetet mellan medlemsstaterna.
+EU-förordningen innebär bland annat att medlemsstaterna ska kommunicera elektroniskt med varandra via ett decentraliserat it-system från det att it-systemet kan tas i bruk år 2025. Vidare införs en möjlighet att delge handlingar till en delgivningsmottagare i en annan medlemsstat på elektronisk väg. Syftet är att effektivisera samarbetet mellan medlemsstaterna.
 
-EU\-förordningen blir direkt tillämplig i Sverige. Förordningsändringarna innebär bland annat att svenska myndigheter kan nyttja möjligheten till elektronisk delgivning.
+EU-förordningen blir direkt tillämplig i Sverige. Förordningsändringarna innebär bland annat att svenska myndigheter kan nyttja möjligheten till elektronisk delgivning.
 
 SFS: 2022:627
 

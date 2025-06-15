@@ -10,4 +10,4 @@ I ett andra delbetänkande, som ska lämnas den 1 oktober 2012, ska kommittén b
 
 I uppdraget ingår vidare att se över möjligheten att införa källskatt på räntebetalningar samt ta fram förslag på regler om detta. Vidare ska reglerna om koncernbidrag samt behovet av reglerna om underprisöverlåtelser utvärderas och, om det bedöms lämpligt, förslag till förändringar lämnas.
 
-Kommittén ska redovisa det slutliga uppdraget senast den 1 november 2013\.
+Kommittén ska redovisa det slutliga uppdraget senast den 1 november 2013.

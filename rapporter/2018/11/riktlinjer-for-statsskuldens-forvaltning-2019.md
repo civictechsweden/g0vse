@@ -17,4 +17,4 @@ Styrningen av valutaskuldens löptid behålls oförändrad liksom styrningen av 
 * Valutaskuld: Minskning med högst 30 miljarder kronor per år.
 * Real kronskuld: 20 procent (långsiktigt)
 * Nominell kronskuld ska utgöra resterande
-andel.
+  andel.

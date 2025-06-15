@@ -6,4 +6,4 @@ I juli 2014 beslutades om kommittédirektiv om en översyn av försäkringsvillk
 
 Regeringen anser att det är viktigt att tydliggöra vilka som vid migration till och från Sverige utifrån en unionsrättslig kontext ska ha tillgång till de svenska sociala trygghetssystemen avseende de bosättningsbaserade förmånerna.
 
-Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 31 januari 2017\.
+Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 31 januari 2017.

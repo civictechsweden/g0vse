@@ -8,4 +8,4 @@ Utredningen ska fokusera på att främja företagandet och öka sysselsättninge
 
 Regeringen har utsett Marie Thelander Dellhag som särskild utredare. Marie Thelander Dellhag är verkställande direktör på MKB Fastighets AB och styrelseledamot i bland annat Svensk Travsport samt har stor kunskap om hästsporten.
 
-Uppdraget ska redovisas senast 20 maj 2025\.
+Uppdraget ska redovisas senast 20 maj 2025.

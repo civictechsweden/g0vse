@@ -12,4 +12,4 @@ För att på ett effektivt sätt kunna motverka detta hedersförtryck föreslås
 
 Utredningen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-Förslagen föreslås träda i kraft den 1 juli 2026\.
+Förslagen föreslås träda i kraft den 1 juli 2026.

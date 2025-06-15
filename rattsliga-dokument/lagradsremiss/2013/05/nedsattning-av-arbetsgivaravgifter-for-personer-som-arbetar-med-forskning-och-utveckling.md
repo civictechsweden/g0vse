@@ -4,4 +4,4 @@ I lagrådsremissen föreslås att det vid beräkningen av arbetsgivaravgifter f�
 
 En förutsättning för avdraget är att personerna har arbetat med forskning och utveckling i en viss utsträckning och att de vid årets ingång har fyllt 26 men inte 65 år. Med forskning och utveckling ska enligt förslaget avses systematiskt och kvalificerat arbete med att i kommersiellt syfte ta fram ny kunskap (forskning) eller använda resultatet av forskning för att utveckla nya varor, tjänster och produktionsprocesser eller väsentligt förbättra redan existerande sådana (utveckling).
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2014\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2014.

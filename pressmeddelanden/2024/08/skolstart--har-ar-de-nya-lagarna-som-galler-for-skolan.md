@@ -14,6 +14,6 @@ Syftet är att systemet ska bli mer likvärdigt och rättvist så att barn och e
 
 ## Elevens val tas bort
 
-Ämnet elevens val i grundskolan tas bort. Syftet är att frigöra undervisningstid till ämnen som behöver mer undervisningstid. Den tiden omfördelas till framför allt samhälls\- och naturorienterande ämnen, samt till vissa praktisk\-estetiska ämnen. Förändringarna gäller även specialskolan och sameskolan.
+Ämnet elevens val i grundskolan tas bort. Syftet är att frigöra undervisningstid till ämnen som behöver mer undervisningstid. Den tiden omfördelas till framför allt samhälls- och naturorienterande ämnen, samt till vissa praktisk-estetiska ämnen. Förändringarna gäller även specialskolan och sameskolan.
 
-Samtliga lag\- och förordningsändringar ovan trädde i kraft den 1 juli 2024\.
+Samtliga lag- och förordningsändringar ovan trädde i kraft den 1 juli 2024.

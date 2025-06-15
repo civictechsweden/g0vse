@@ -10,4 +10,4 @@ Utredaren ska dessutom:
 
 Uppdraget omfattar inte att föreslå ändringar i grundlag.
 
-Uppdraget om reglering av alkoholhaltiga preparat avsedda för förtäring ska redovisas senast den 1 juni 2017 och övriga delar ska slutredovisas senast den 31 december 2017\.
+Uppdraget om reglering av alkoholhaltiga preparat avsedda för förtäring ska redovisas senast den 1 juni 2017 och övriga delar ska slutredovisas senast den 31 december 2017.

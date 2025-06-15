@@ -1,6 +1,6 @@
 # Tilläggsdirektiv till Kommissionen för jämlik hälsa
 
-Utredningstiden förlängs för den del av kommissionens uppdrag som rör utåtriktat arbete. De insatser som genomförts i enlighet med dessa direktiv redovisas senast den 31 oktober 2017\.
+Utredningstiden förlängs för den del av kommissionens uppdrag som rör utåtriktat arbete. De insatser som genomförts i enlighet med dessa direktiv redovisas senast den 31 oktober 2017.
 
 Kommissionen för jämlik hälsa ska lämna förslag som kan bidra till att hälsoklyftorna i samhället minskar. Till grund för kommissionens uppdrag ligger regeringens mål om att de påverkbara hälsoklyftorna ska slutas inom en generation.
 

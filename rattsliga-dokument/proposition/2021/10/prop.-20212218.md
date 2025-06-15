@@ -7,4 +7,4 @@ Mindre allvarliga överträdelser av djurskyddslagstiftningen bör hanteras snab
 
 Vidare föreslås att överträdelser av djurskyddslagstiftningen som ligger så långt från lagstiftningens skyddsintresse (att motverka djurlidande) att det inte framstår som motiverat med straffansvar ska vara straffria. Slutligen föreslås att kontrollmyndigheternas skyldighet att anmäla överträdelser till Polismyndigheten eller Åklagarmyndigheten förtydligas.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2022\.
+Lagändringarna föreslås träda i kraft den 1 juli 2022.

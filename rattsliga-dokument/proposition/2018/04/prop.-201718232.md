@@ -6,6 +6,6 @@ Syftet med den föreslagna lagen är både att skydda fysiska personers grundlä
 
 Lagen ska vara generellt tillämplig inom det område som direktivet reglerar. Lagen ska även vara subsidiär i förhållande till annan lag eller förordning, vilket möjliggör avvikande bestämmelser i så kallade registerförfattningar.
 
-Regeringen föreslår också vissa ändringar i offentlighets\- och sekretesslagen, lagen om belastningsregister, lagen om misstankeregister, domstolsdatalagen och lagen om internationellt polisiärt samarbete.
+Regeringen föreslår också vissa ändringar i offentlighets- och sekretesslagen, lagen om belastningsregister, lagen om misstankeregister, domstolsdatalagen och lagen om internationellt polisiärt samarbete.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2018\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2018.

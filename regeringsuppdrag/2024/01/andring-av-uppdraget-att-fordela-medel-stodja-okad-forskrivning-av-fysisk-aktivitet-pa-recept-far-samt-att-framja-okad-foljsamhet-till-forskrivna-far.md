@@ -2,7 +2,6 @@
 
 Regeringen ändrar uppdraget till Socialstyrelsen att fördela medel, stödja ökad förskrivning av fysisk aktivitet på recept (FaR) samt att främja ökad följsamhet till förskrivna FaR.
 
-
 Socialstyrelsen ska:
 
 * Fördela 59 miljoner kronor till regionerna under 2024 för att genomföra ändamålsenliga insatser som ska öka dels förskrivningen av FaR, dels följsamheten till förskrivna FaR.

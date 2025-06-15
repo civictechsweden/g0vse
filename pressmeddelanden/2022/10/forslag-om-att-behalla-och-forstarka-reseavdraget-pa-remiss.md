@@ -9,4 +9,4 @@ Avdraget för förmånsbilar som helt drivs med elektricitet ska fortsatt uppgå
 
 För en arbetspendlare som använder egen bil och har 4 mil till jobbet innebär förslaget en årlig skattelättnad på ca 4 700 kronor mer jämfört med modellen med en avståndsbaserad skattereduktion.
 
-Förslagen bedöms sammanlagt minska skatteintäkterna med 1,6 miljarder kronor 2023\. Lagändringarna föreslås träda i kraft den 1 januari 2023\.
+Förslagen bedöms sammanlagt minska skatteintäkterna med 1,6 miljarder kronor 2023. Lagändringarna föreslås träda i kraft den 1 januari 2023.

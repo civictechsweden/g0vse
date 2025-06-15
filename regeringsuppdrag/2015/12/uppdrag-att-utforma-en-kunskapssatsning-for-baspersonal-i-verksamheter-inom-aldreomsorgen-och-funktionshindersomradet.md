@@ -4,8 +4,7 @@ Regeringen uppdrar åt Socialstyrelsen att under 2016 fördela medel för kompet
 
 (På regeringssammanträdet den 28 januari beslutades om ändring av uppdrag avseende kunskapssatsning inom äldreomsorgen och funktionshindersområdet. Regeringsbeslutet innebär att bilagan i beslutet om uppdraget ersätts av ny bilaga. Regeringsbeslutet att ersätta uppdragets bilaga samt den nya bilagan bifogas i länkarna nedan.)
 
-
-## Kompetenssatsning för medarbetare inom äldre\- och funktionshindersområdet
+## Kompetenssatsning för medarbetare inom äldre- och funktionshindersområdet
 
 Under 2016 fördelar Socialstyrelsen 178 000 000 kronor för kompetenssatsning för personal inom äldreomsorg och personal inom funktionshindersområdet.
 
@@ -13,4 +12,4 @@ Under 2016 fördelar Socialstyrelsen 178 000 000 kronor för kompetenssatsning 
 
 Socialstyrelsen ska också utveckla och sprida relevanta kunskapsstöd riktat till kommunerna med syfte att stödja effektiv verksamhetsutveckling.
 
-Uppdraget ska redovisas till Regeringskansliet senast den 30 juni 2017\.
+Uppdraget ska redovisas till Regeringskansliet senast den 30 juni 2017.

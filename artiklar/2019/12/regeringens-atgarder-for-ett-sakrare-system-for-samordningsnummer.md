@@ -2,13 +2,13 @@
 
 Samordningsnummer är en identitetsbeteckning som används för att undvika personförväxling och underlätta informationsutbyten mellan olika myndigheter om individer. Ett samordningsnummer ger i sig inte några rättigheter eller förmåner. En person som inte är eller har varit folkbokförd får tilldelas ett samordningsnummer efter begäran från en statlig myndighet eller vissa enskilda utbildningsanordnare. Skatteverket är den myndighet som ansvarar för folkbokföringen och tilldelar samordningsnummer.
 
-Kritiken mot samordningsnumren har kommit från olika håll i samhället och under en längre tid. Det har blivit nödvändigt att göra en översyn av systemet för samordningsnummer. Regeringen beslutade därför den 5 september 2019 om kommittédirektivet Åtgärder för att minska fel i folkbokföringen (Dir. 2019:54\). I den särskilda utredarens uppdrag ingår bl.a. att lämna förslag om ett säkrare system för samordningsnummer, i detta ingår även att föreslå hur kontrollen av en persons identitet bör utformas för att tilldelningen av samordningsnummer ska bli säkrare. Uppdraget ska redovisas senast den 1 april 2021\.
+Kritiken mot samordningsnumren har kommit från olika håll i samhället och under en längre tid. Det har blivit nödvändigt att göra en översyn av systemet för samordningsnummer. Regeringen beslutade därför den 5 september 2019 om kommittédirektivet Åtgärder för att minska fel i folkbokföringen (Dir. 2019:54). I den särskilda utredarens uppdrag ingår bl.a. att lämna förslag om ett säkrare system för samordningsnummer, i detta ingår även att föreslå hur kontrollen av en persons identitet bör utformas för att tilldelningen av samordningsnummer ska bli säkrare. Uppdraget ska redovisas senast den 1 april 2021.
 
 Det är nödvändigt att agera snabbare än så. Inom Regeringskansliet pågår därför ett arbete som syftar till att skyndsamt åtgärda vissa brister i systemet med samordningsnummer. Regeringens ambition är att återkomma i frågan inom kort.
 
 [Utredningsdirektiv: Åtgärder för att minska fel i folkbokföringen](/rattsliga-dokument/kommittedirektiv/2019/09/dir.-201954)
 
-Kontaktuppgifter till Utredningen om åtgärder för att minska fel i folkbokföringen (Fi 2019:05\) finns tillgängliga på [www.sou.gov.se](http://www.sou.gov.se/?s=Fi+2019%3A05&limiter=allt)
+Kontaktuppgifter till Utredningen om åtgärder för att minska fel i folkbokföringen (Fi 2019:05) finns tillgängliga på [www.sou.gov.se](http://www.sou.gov.se/?s=Fi+2019%3A05&limiter=allt)
 
 Mer information om samordningsnummer:
 

@@ -2,7 +2,7 @@
 
 Utvidgning av uppdraget.
 
-Regeringen beslutade den 20 oktober 2021 kommitté­direktiv om kriminali­sering av förnekande av Förintelsen och av vissa andra brott (dir. 2021:87\).
+Regeringen beslutade den 20 oktober 2021 kommitté­direktiv om kriminali­sering av förnekande av Förintelsen och av vissa andra brott (dir. 2021:87).
 
 Kommittén om kriminali­sering av förnekande av Förintelsen och av vissa andra brott ska utöver vad som framgår av redan beslutade kommitté­direktiv
 
@@ -11,4 +11,4 @@ Kommittén om kriminali­sering av förnekande av Förintelsen och av vissa andr
 * för det fall kom­mittén kommer fram till att en ändring bör göras, ta ställning till om mot­svarande ändring även bör göras på det område som skyddas av tryck­frihets­förord­ningen och yttrande­frihets­grund­lagen och i så fall lämna författ­nings­förslag.
 
 Utrednings­tiden ligger fast. Upp­draget ska alltså redovisas senast
-den 20 april 2023\.
+den 20 april 2023.

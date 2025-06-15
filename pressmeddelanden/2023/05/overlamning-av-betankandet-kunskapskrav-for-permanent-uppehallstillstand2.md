@@ -8,4 +8,4 @@ Utredningen har haft i uppdrag att lämna förslag som inne­bär att det ska st
 
 Enligt utred­ningens förslag ska kunskaperna kunna visas genom ett godkänt digitalt kunskaps­prov för permanent uppehålls­tillstånd som består av två delprov; ett som avser det svenska språket och ett som avser det svenska samhället.
 
-Utredningen föreslår att lagförslagen ska träda i kraft den 1 juli 2027\.
+Utredningen föreslår att lagförslagen ska träda i kraft den 1 juli 2027.

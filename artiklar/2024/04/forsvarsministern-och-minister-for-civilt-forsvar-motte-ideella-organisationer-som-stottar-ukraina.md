@@ -1,7 +1,6 @@
 # Försvarsministern och minister för civilt försvar mötte ideella organisationer som stöttar Ukraina
 
-Den 10 april mötte försvarsminister Pål Jonson och minister för civilt försvar Carl\-Oskar Bohlin ideella organisationer som på olika sätt stöttar Ukraina. Syftet med mötet var att ge organisationerna ett tillfälle att informera om det frivilliga stödet till Ukraina och föra en dialog runt utmaningar inom ramen för de frivilliga ansträngningarna.
-
+Den 10 april mötte försvarsminister Pål Jonson och minister för civilt försvar Carl-Oskar Bohlin ideella organisationer som på olika sätt stöttar Ukraina. Syftet med mötet var att ge organisationerna ett tillfälle att informera om det frivilliga stödet till Ukraina och föra en dialog runt utmaningar inom ramen för de frivilliga ansträngningarna.
 
 De många ideella organisationerna i Sverige som stöttar Ukraina gör ett stort arbete med att till exempel transportera donerad materiel såsom bilar, verktyg, sjukvårdsutrustning, medicin och reservdelar till Ukraina, ibland direkt till fronten.
 

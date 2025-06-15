@@ -1,7 +1,6 @@
 # Sju miljoner kronor i stöd till Fagersta och Norberg
 
-Debattartikel av landsbygdsminister Peter Kullgren och Martin Kinnunen, klimat\- och miljöpolitisk talesperson (SD). Fagersta\-Posten, 11 april 2024\.
-
+Debattartikel av landsbygdsminister Peter Kullgren och Martin Kinnunen, klimat- och miljöpolitisk talesperson (SD). Fagersta-Posten, 11 april 2024.
 
 När det första fallet av afrikansk svinpest i Sverige konstaterades utanför Fagersta i september förra året medförde det stora konsekvenser för kommuner, privatpersoner, företag och föreningar i den smittade zonen. En fortsatt spridning av smittan riskerade att innebära väldigt allvarliga följder för svenska grisuppfödare och svensk export av griskött. Kraftfulla åtgärder var därför nödvändiga i det inledande skedet av bekämpningen och aktiviteter i skog och mark förbjöds i ett cirka tusen kvadratkilometer stort restriktionsområde.
 

@@ -6,4 +6,4 @@ Utredaren ska även lämna förslag på en juridisk definition av skyddat boende
 
 Utredaren ska samråda med Barnombudsmannen, Inspektionen för vård och omsorg, länsstyrelserna i Skåne, Stockholms och Västra Götalands län, Migrationsverket, Socialstyrelsen, Sveriges Kommuner och Landsting, Rädda barnen, ideella organisationer som driver skyddat boende, Stiftelsen Allmänna barnhuset samt med övriga berörda aktörer.
 
-Uppdraget ska redovisas senast den 31 december 2017\.
+Uppdraget ska redovisas senast den 31 december 2017.

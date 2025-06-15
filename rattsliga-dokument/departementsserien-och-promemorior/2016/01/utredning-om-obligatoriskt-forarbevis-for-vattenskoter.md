@@ -4,6 +4,6 @@ Denna promemoria behandlar uppdrag att utreda möjligheten och förutsättningar
 
 I promemorian ges förslag till lag om krav på obligatoriskt förarbevis för vattenskoter. Utformningen av ett sådant förarbevis bygger på att den som klarat ett obligatoriskt kunskapsprov med godkänt resultat ska vara berättigad att ansöka om ett förarbevis. Även den som sedan tidigare innehar ett sådant förarintyg för fritidsbåt som administreras av Nämnden för båtlivsutbildning (NFB) eller avlagt befälsexamen minst klass VII ska kunna ansöka om ett förarbevis för vattenskoter.
 
-Utredningsuppdraget har inte omfattat att undersöka utbildningsmoment eller obligatoriska förarbevis för andra fartygstyper inom fritidsbåtssegmentet eller att ta ställning till eller utreda ändring av förordningen (1993:1053\) om användning av vattenskoter.
+Utredningsuppdraget har inte omfattat att undersöka utbildningsmoment eller obligatoriska förarbevis för andra fartygstyper inom fritidsbåtssegmentet eller att ta ställning till eller utreda ändring av förordningen (1993:1053) om användning av vattenskoter.
 
 I promemorian ges även förslag på en förordning om förarbevis för vattenskoter. Denna förordning kompletterar lagen och ger bland annat närmare instruktioner till Transportstyrelsen som föreslås vara den myndighet som får huvudansvaret för administration och tillsyn över utfärdande av förarbevis för vattenskoter.

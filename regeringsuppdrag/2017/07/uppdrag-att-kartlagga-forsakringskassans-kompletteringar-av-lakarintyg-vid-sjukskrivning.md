@@ -2,7 +2,6 @@
 
 Regeringen beslutar att ge Försäkringskassan i uppdrag att kartlägga omfattningen av begärda kompletteringar av inlämnade läkarintyg.
 
-
 Av kartläggningen ska framgå följande:
 
 − Den totala andelen kompletteringar som begärs in.
@@ -15,4 +14,4 @@ Av kartläggningen ska framgå följande:
 
 − Fördelning mellan primärvård och specialistvård samt region.
 
-Uppdraget ska redovisas senast den 15 december 2017\. Redovisningen ska hänvisa till det diarienummer som detta beslut har.
+Uppdraget ska redovisas senast den 15 december 2017. Redovisningen ska hänvisa till det diarienummer som detta beslut har.

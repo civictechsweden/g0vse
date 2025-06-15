@@ -1,6 +1,6 @@
 # Utökade möjligheter att upprätthålla en god arbetsmiljö
 
-Den svenska arbetsmarknaden har genomgått förändringar sedan arbetsmiljölagens (1977:1160\) tillkomst. Det finns skäl att se över vissa delar av arbetsmiljölagen för att behålla den höga skyddsnivån för arbetstagare i Sverige och för att arbetsmiljöreglerna ska ge samma skydd för kvinnor och män och oavsett yrke, bransch eller sektor. En särskild utredare ges därför i uppdrag att se över vissa frågor i arbetsmiljölagen.
+Den svenska arbetsmarknaden har genomgått förändringar sedan arbetsmiljölagens (1977:1160) tillkomst. Det finns skäl att se över vissa delar av arbetsmiljölagen för att behålla den höga skyddsnivån för arbetstagare i Sverige och för att arbetsmiljöreglerna ska ge samma skydd för kvinnor och män och oavsett yrke, bransch eller sektor. En särskild utredare ges därför i uppdrag att se över vissa frågor i arbetsmiljölagen.
 
 Utredaren ska bl.a.
 
@@ -9,4 +9,4 @@ Utredaren ska bl.a.
 * analysera och föreslå hur arbetsmiljölagen kan förtydligas så att arbetsgivare som en del av det systematiska arbetsmiljöarbetet i högre utsträckning än i dag använder företagshälsovård i det förebyggande arbetsmiljöarbetet, och
 * utarbeta nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 17 juni 2022\.
+Uppdraget ska redovisas senast den 17 juni 2022.

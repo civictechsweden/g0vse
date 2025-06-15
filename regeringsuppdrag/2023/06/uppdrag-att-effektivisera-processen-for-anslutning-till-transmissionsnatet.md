@@ -2,8 +2,7 @@
 
 Regeringen ger Affärsverket svenska kraftnät (Svenska kraftnät) i uppdrag att vidta åtgärder för att effektivisera hanteringen av förfrågningar om anslutning eller utökat abonnemang.
 
-
-Svenska kraftnät ska senast den 31 december 2023 till Regeringskansliet (Klimat\-och näringslivsdepartementet) redovisa kompletteringar till myndighetens befintliga vägledning för anslutning till transmissionsnätet avseende
+Svenska kraftnät ska senast den 31 december 2023 till Regeringskansliet (Klimat-och näringslivsdepartementet) redovisa kompletteringar till myndighetens befintliga vägledning för anslutning till transmissionsnätet avseende
 
 * ändamålsenliga krav på mognadsgrad hos anslutande part,
 * krav på delning av information mellan nätföretag om överlappande förfrågningar om anslutning eller utökat abonnemang samt

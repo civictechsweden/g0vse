@@ -6,4 +6,4 @@ Fullmäktige i både kommuner och regioner har en skyldighet att anta ett progra
 
 I propositionen föreslås att skyldigheten att anta ett program med mål och riktlinjer även ska omfatta den verksamhet som kommuner och regioner bedriver i egen regi.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2024\.
+Lagändringarna föreslås träda i kraft den 1 juli 2024.

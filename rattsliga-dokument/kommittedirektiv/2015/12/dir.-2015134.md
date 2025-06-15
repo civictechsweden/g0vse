@@ -14,4 +14,4 @@ Utredaren ska även analysera om kompetensen hos förskrivare och andra relevant
 
 Utredningens förslag ska vara kostnadseffektiva ur ett samhällsekonomiskt perspektiv och inte öka det offentliga åtagandet på området. Om förslag eventuellt leder till ökade kostnader ska de vara försedda med väl underbyggda finansieringsförslag. Förslagen ska skapa förutsättningar för en långsiktigt hållbar ekonomisk utveckling på området.
 
-Uppdraget ska redovisas senast den 28 februari 2017\.
+Uppdraget ska redovisas senast den 28 februari 2017.

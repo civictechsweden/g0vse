@@ -8,4 +8,4 @@ För att det inte ska råda osäkerhet om i vilken omfattning ersättning betala
 
 För att ge reformen ett större genomslag föreslås också att det skapas en möjlighet för den enskilde och biträdet att komma överens om att den enskilde helt eller delvis ska stå för de skäliga merkostnader som uppkommer och som inte ersätts av allmänna medel. Detta sker genom att det införs ett begränsat undantag från förbudet för biträden att förbehålla sig eller ta emot ersättning av den enskilde utöver vad som ersätts av staten.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2010\.
+Lagändringarna föreslås träda i kraft den 1 januari 2010.

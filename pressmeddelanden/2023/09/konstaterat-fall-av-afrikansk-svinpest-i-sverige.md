@@ -6,7 +6,7 @@ Under senare år har stort arbete lagts på beredskapen för smittsamma djursjuk
 
 En av de första åtgärderna kommer bli att ansvariga myndigheter tillsammans med jägarorganisationerna arbetar med att ta reda på hur stort område som är drabbat. Detta görs genom att söka efter döda vildsvin i kombination med kunskap om vildsvinens hemområden. Inom det drabbade området kommer allt tillträde till en början vara förbjudet. Det innebär till exempel att man inte får vistas där, plocka bär och svamp, jaga, arbeta med skogsbruk, eller göra andra friluftsaktiviteter.
 
-\- Även om det är en allvarlig situation för Sveriges smittskyddsläge så vill jag understryka att det inte är farligt för människor. Man kan t.ex. fortsätta äta griskött, säger landsbygdsminister Peter Kullgren.
+- Även om det är en allvarlig situation för Sveriges smittskyddsläge så vill jag understryka att det inte är farligt för människor. Man kan t.ex. fortsätta äta griskött, säger landsbygdsminister Peter Kullgren.
 
 Landsbygdsministern kommer imorgon att ha ett möte med Jordbruksverket för att få ytterligare information.
 

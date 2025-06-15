@@ -10,6 +10,6 @@ För att markera allvaret i brott som begås i krimi­nella nätverk och vid kri
 * Straffet skärps för narkotika­brott som tar sikte på försälj­ning, och beställ­ning av narkotika för eget bruk krimi­naliseras såsom försöks­brott.
 * En presum­tion för häkt­ning ska gälla vid miss­tanke om brott med ett minimi­straff om fängelse i ett år och sex månader eller mer.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2023\.
+Lagändringarna föreslås träda i kraft den 1 juli 2023.
 
 Denna pro­position bygger på en överens­kommelse mellan regeringen och Sverige­demokraterna.

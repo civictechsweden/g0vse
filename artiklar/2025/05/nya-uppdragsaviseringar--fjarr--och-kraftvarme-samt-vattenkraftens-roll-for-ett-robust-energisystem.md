@@ -8,7 +8,8 @@ Sveriges konkurrenskraft och välfärd bygger på tillgång till fossilfri energ
 
 Det pågår historiskt stora investeringar för att bygga ut det svenska elnätet, men det är komplext och tar tid. För att hålla tempo i elektrifieringen och den gröna omställningen har regeringen initierat investeringsstödet kraftlyftet.
 
-Åtgärder för att stärka fjärr- och kraftvärmens konkurrenskraft
+## Åtgärder för att stärka fjärr- och kraftvärmens konkurrenskraft
+
 Fjärr- och kraftvärmen har stor betydelse för den förväntade kraftiga ökningen av svensk elanvändning. Fjärrvärmen avlastar indirekt elnäten samtidigt som kraftvärmen bidrar med lokal elproduktionen nära användarna. Utan fjärrvärmens värmebidrag visar uppskattningar från Energimyndigheten på ett tillkommande effektbehov på omkring 6,5 GW. Utan kraftvärmens bidrag av elproduktion ökar detta med ytterligare omkring 3 GW.
 
 För att stärka fjärr- och kraftvärmens konkurrenskraft arbetar regeringen med att ta fram ett uppdrag med flera delar. Dessa grundar sig bland annat i Energimyndighetens Förslag tillfjärrvärme- och kraftvärmestrategi (ER 2023:27).

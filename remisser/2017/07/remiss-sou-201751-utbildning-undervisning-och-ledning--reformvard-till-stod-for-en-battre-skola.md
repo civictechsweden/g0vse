@@ -2,8 +2,7 @@
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat SOU 2017:51 Utbildning, undervisning och ledning – reformvård till stöd för en bättre skola.
 
-
-Sista dag att svara på remissen är den 27 oktober 2017\.
+Sista dag att svara på remissen är den 27 oktober 2017.
 
 ## Remissinstanser
 
@@ -23,9 +22,9 @@ Sista dag att svara på remissen är den 27 oktober 2017\.
 14. Sameskolstyrelsen
 15. Skolväsendets överklagandenämnd
 16. Skolforskningsinstitutet
-17. Myndigheten för ungdoms\- och civilsamhällesfrågor
+17. Myndigheten för ungdoms- och civilsamhällesfrågor
 18. Universitetskanslersämbetet
-19. Universitets\- och högskolerådet
+19. Universitets- och högskolerådet
 20. Göteborgs universitet
 21. Stockholms universitet
 22. Umeå universitet
@@ -34,7 +33,7 @@ Sista dag att svara på remissen är den 27 oktober 2017\.
 25. Linnéuniversitetet
 26. Örebro universitet
 27. Mittuniversitetet
-28. Gymnastik\- och idrottshögskolan
+28. Gymnastik- och idrottshögskolan
 29. Högskolan i Borås
 30. Högskolan Dalarna
 31. Högskolan i Gävle
@@ -50,13 +49,13 @@ Sista dag att svara på remissen är den 27 oktober 2017\.
 41. Arbetsgivarverket
 42. Arbetsförmedlingen
 43. Arbetsmiljöverket
-44. Institutet för arbetsmarknads\- och utbildningspolitisk utvärdering
+44. Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
 45. Diskrimineringsombudsmannen
 46. Regelrådet
 47. Arjeplogs kommun
 48. Borlänge kommun
 49. Botkyrka kommun
-50. Dals\-Eds kommun
+50. Dals-Eds kommun
 51. Dorotea kommun
 52. Göteborgs kommun
 53. Gislaveds kommun
@@ -122,7 +121,7 @@ Sista dag att svara på remissen är den 27 oktober 2017\.
 113. Sveriges Förenade Studentkårer, SFS
 114. Sveriges Jiddischförbund
 115. Sveriges Kommuner och Landsting
-116. Sveriges universitets\- och högskoleförbund
+116. Sveriges universitets- och högskoleförbund
 117. Sveriges vägledarförening
 118. Sverigefinländarnas delegation
 119. Tjänstemännens centralorganisation, TCO

@@ -1,7 +1,6 @@
 # Uppdrag till Statskontoret att utföra en myndighetsanalys av Myndigheten för digital förvaltning
 
-Regeringen har den 1 december 2022 beslutat att uppdra åt Statskontoret att utföra en myndighetsanalys av Myndigheten för digital förvaltning i enlighet med den modell som Statskontoret redovisade till regeringen i december 2008 (Fi2007/08016\).
-
+Regeringen har den 1 december 2022 beslutat att uppdra åt Statskontoret att utföra en myndighetsanalys av Myndigheten för digital förvaltning i enlighet med den modell som Statskontoret redovisade till regeringen i december 2008 (Fi2007/08016).
 
 Statskontoret ska analysera
 
@@ -14,4 +13,4 @@ Statskontoret ska analysera
 
 Statskontoret ska vid behov och utifrån analysen lämna förslag på åtgärder som regeringen och myndigheten kan vidta inom befintliga budgetramar för att stärka myndighetens förutsättningar att fullgöra sina uppgifter och uppdrag.
 
-Uppdraget ska redovisas till Regeringskansliet (Finansdepartementet) i en skriftlig rapport senast den 1 december 2023\.
+Uppdraget ska redovisas till Regeringskansliet (Finansdepartementet) i en skriftlig rapport senast den 1 december 2023.

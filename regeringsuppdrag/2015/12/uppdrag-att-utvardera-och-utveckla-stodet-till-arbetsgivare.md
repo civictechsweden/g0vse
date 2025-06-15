@@ -2,7 +2,6 @@
 
 Regeringen ger Försäkringskassan i uppdrag att utveckla stödet till arbetsgivare.
 
-
 Regeringen ger Försäkringskassan i uppdrag att:
 
 * utveckla stödet till arbetsgivare i samband med anställdas sjukskrivning

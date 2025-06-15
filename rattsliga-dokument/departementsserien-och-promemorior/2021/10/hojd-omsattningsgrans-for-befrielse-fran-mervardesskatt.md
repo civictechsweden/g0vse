@@ -4,6 +4,6 @@ I promemorian föreslås att omsättningsgränsen för befrielse från mervärde
 
 Förslaget medför att företag med en omsättning på högst 80 000 kronor inte längre behöver vara registrerade till och deklarera mervärdeskatt. Förslaget syftar till att förenkla för mindre företag och andra aktörer med liten verksamhet. Förslaget medför ändringar i mervärdesskattelagen.
 
-Lagändringen föreslås träda i kraft den 1 juli 2022\.
+Lagändringen föreslås träda i kraft den 1 juli 2022.
 
-Remissvaren ska ha kommit in till Finansdepartementet senast den 10 december 2021\.
+Remissvaren ska ha kommit in till Finansdepartementet senast den 10 december 2021.

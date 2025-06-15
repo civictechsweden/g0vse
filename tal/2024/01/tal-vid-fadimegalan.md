@@ -1,6 +1,6 @@
 # Tal av jämställdhetsminister Paulina Brandberg vid Fadimegalan
 
-Stockholm, 14 januari 2024\.
+Stockholm, 14 januari 2024.
 
 Det talade ordet gäller.
 

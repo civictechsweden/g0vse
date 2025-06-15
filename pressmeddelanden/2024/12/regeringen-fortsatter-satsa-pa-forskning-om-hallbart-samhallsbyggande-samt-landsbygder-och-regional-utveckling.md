@@ -4,7 +4,7 @@ Forskning om hållbart samhällsbyggande bidrar till att stärka och tydliggöra
 
 – Det behövs mer kunskap om vad som krävs för att bo, leva, verka och arbeta hållbart i hela landet. Vi behöver även fokusera mer på hur landsbygdernas värden kan tillvaratas och utvecklas, säger landsbygdsminister Peter Kullgren.
 
-Satsningen förväntas ge ökad kunskap om nya material och resurseffektivitet i byggsektorn samt om den byggda miljöns utformning för trygghet. Forskning om ökad resiliens för viktiga samhällsfunktioner i hela landet ingår också.
+ Satsningen förväntas ge ökad kunskap om nya material och resurseffektivitet i byggsektorn samt om den byggda miljöns utformning för trygghet. Forskning om ökad resiliens för viktiga samhällsfunktioner i hela landet ingår också.
 
 – Forskning, innovationer och ny teknik är avgörande för att förenkla och effektivisera samhällsbyggnadsprocessen. Förstärkningen av programmet hållbart samhällsbyggande kommer innebära mer kunskap kring utvecklingen i landsbygder, regioner och städer, nya material och resurseffektivitet, det brottsförebyggande arbetets betydelse för samhällsplaneringen samt robust infrastruktur, säger infrastruktur- och bostadsminister Andreas Carlson.
 

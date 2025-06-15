@@ -1,6 +1,6 @@
 # Vissa förslag om kompensation m.m. till personer födda 1957 och 1959 på grund av höjd åldersgräns för förhöjt grundavdrag
 
-I budgetpropositionen för 2024 har regeringen aviserat att en kompensation bör ges till personer födda 1957 på grund av höjd åldersgräns för rätt att ta del av det förhöjda grundavdraget. Regeringen har också aviserat att ikraftträdandet av den av riksdagen beslutade höjningen av åldersgränsen till 67 år för rätt till det förhöjda grundavdraget bör senareläggas med ett år, till den 1 januari 2027\. Syftet är att komma till rätta med den situation som uppkommit för personer födda 1957 respektive personer födda 1959 efter höjningarna av åldersgränserna i pensionssystemet och kringliggande trygghetssystem och i skattelagstiftningen.
+I budgetpropositionen för 2024 har regeringen aviserat att en kompensation bör ges till personer födda 1957 på grund av höjd åldersgräns för rätt att ta del av det förhöjda grundavdraget. Regeringen har också aviserat att ikraftträdandet av den av riksdagen beslutade höjningen av åldersgränsen till 67 år för rätt till det förhöjda grundavdraget bör senareläggas med ett år, till den 1 januari 2027. Syftet är att komma till rätta med den situation som uppkommit för personer födda 1957 respektive personer födda 1959 efter höjningarna av åldersgränserna i pensionssystemet och kringliggande trygghetssystem och i skattelagstiftningen.
 
 I promemorian finns förslag om hur kompensation till personer födda 1957 ska utformas, hur handläggningen ska gå till och vilka förfarande­regler som i övrigt ska gälla. Det föreslås vidare att kompensationen ska vara skattefri. Regler om förfarande och skattefrihet föreslås införas i en ny lag. Storleken på kompensationen och vem som har rätt till kompensationen regleras i förordning.
 
@@ -10,6 +10,6 @@ En person som är född 1957 och som 2023 har rätt till grundavdrag beräknat e
 
 Om mottagarens beskattning omprövas ska beslut om kompensation ändras. Det betyder att en person född 1957 som har tillgodoräknats kompensation med ett för lågt belopp har rätt till den tillkommande kompensationen. Om kompensationen har tillgodoräknats felaktigt eller med ett för högt belopp är mottagaren återbetalningsskyldig. Skatteverket kan medge anstånd vid återkrav av kompensation.
 
-De nya bestämmelserna om kompensation föreslås träda i kraft den 1 juli 2024\.
+De nya bestämmelserna om kompensation föreslås träda i kraft den 1 juli 2024.
 
-Promemorian innehåller även förslag om att senarelägga ikraftträdandet av höjningen av åldersgränsen till 67 år för rätt till det förhöjda grund­avdraget. Förslaget innebär i denna del att höjningen av åldersgränsen skjuts upp från den 1 januari 2026 till den 1 januari 2027\. På så sätt kommer personer födda 1959 att ha rätt till förhöjt grundavdrag 2026\. Förslaget bedöms minska skatteintäkterna med 3,4 miljarder kronor 2026\.
+Promemorian innehåller även förslag om att senarelägga ikraftträdandet av höjningen av åldersgränsen till 67 år för rätt till det förhöjda grund­avdraget. Förslaget innebär i denna del att höjningen av åldersgränsen skjuts upp från den 1 januari 2026 till den 1 januari 2027. På så sätt kommer personer födda 1959 att ha rätt till förhöjt grundavdrag 2026. Förslaget bedöms minska skatteintäkterna med 3,4 miljarder kronor 2026.

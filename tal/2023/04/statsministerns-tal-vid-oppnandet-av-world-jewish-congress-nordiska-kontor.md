@@ -4,7 +4,6 @@ Statsminister Ulf Kristerssons anförande i samband med det formella öppnandet 
 
 Det talade ordet gäller.
 
-
 Bäste ordförande Lauder,
 
 Ers excellenser,
@@ -13,7 +12,7 @@ Mina damer och herrar,
 
 Låt mig börja med att säga att det är en stor ära att vara med er här i dag under det formella öppnandet av Judiska världskongressens nordiska kontor.
 
-Men er organisations historia i Sverige – eller för den delen i de nordiska länderna – tar inte sin början i dag. Faktum är att organisationen har spelat en viktig roll för det judiska livet här ända sedan 1940\-talet.
+Men er organisations historia i Sverige – eller för den delen i de nordiska länderna – tar inte sin början i dag. Faktum är att organisationen har spelat en viktig roll för det judiska livet här ända sedan 1940-talet.
 
 Då, under Förintelsens onda tid, etablerade sig Judiska världskongressen i Stockholm och tjänade som en fyrbåk i det europeiska mörkret – i en tid när även Sveriges regering gjorde för lite och till och med hindrade judar från att komma till Sverige.
 
@@ -71,7 +70,7 @@ Vi har till exempel sett att tonåringarnas kunskaper om Förintelsen har ökat 
 
 Regeringen har därför ökat anslagen till Forum för levande historia – en myndighet som inrättades på initiativ av min föregångare Göran Persson – som har i uppdrag att främja demokrati, tolerans och mänskliga rättigheter med hjälp av lärdomar från Förintelsen och den fortlevande antisemitismen.
 
-Vi fortsätter även att stödja Judiska museet, en viktig institution som sprider kunskap om den judiska tankevärlden och det svensk\-judiska kulturarvet.
+Vi fortsätter även att stödja Judiska museet, en viktig institution som sprider kunskap om den judiska tankevärlden och det svensk-judiska kulturarvet.
 
 Det nyligen inrättade Sveriges museum om Förintelsen, där den första utställningen öppnar i sommar, är givetvis en annan viktig institution. Tack till Stefan Löfven för det goda initiativet!
 

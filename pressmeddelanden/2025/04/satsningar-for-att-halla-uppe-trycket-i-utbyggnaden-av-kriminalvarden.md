@@ -6,6 +6,6 @@ Det bedrivs ett intensivt arbete för att möta behovet av platser i det korta p
 
 Kriminalvården har stora utmaningar. Med samarbetspartiernas politik kommer fler sitta i fängelse och under längre tid än idag. Behovet av nya häktes- och anstaltsplatser är mycket högt och expansionen måste fortsätta.
 
-För att lyckas med detta gör regeringen och Sverigedemokraterna kraftiga förstärkningar av Kriminalvården. Åren 2023–2027 beräknas anslaget öka från 14,1 till 26 miljarder kronor, vilket är en ökning med 84 procent. I vårändringsbudgeten satsas nu ytterligare en halv miljard kronor för 2025.
+För att lyckas med detta gör regeringen och Sverigedemokraterna kraftiga förstärkningar av Kriminalvården. Åren 2023–2027 beräknas anslaget öka från 14,1 till 26 miljarder kronor, vilket är en ökning med 84 procent. I vårändringsbudgeten satsas nu ytterligare 484 miljoner kronor för 2025.
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

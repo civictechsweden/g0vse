@@ -4,4 +4,4 @@ Alla ska kunna känna sig trygga på allmänna platser. På vissa badanläggning
 
 Ett sådant tillträdesförbud ska grundas på en bedömning av risken för brott och allvarliga trakasserier samt, för bibliotekens del, risken för vissa ordningsstörningar. Regleringen tas in i den lag som reglerar tillträdesförbud till butik. Lagen ska benämnas lagen om tillträdesförbud till butiker, badanläggningar och bibliotek.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2022\.
+Lagändringarna föreslås träda i kraft den 1 juli 2022.

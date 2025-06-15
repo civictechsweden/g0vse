@@ -6,4 +6,4 @@ Den nya lagen innehåller huvudsakligen allmänna krav som ger uttryck för skyd
 
 Lagrådsremissen behandlar även vissa följdändringar i annan lagstiftning.
 
-Lagen föreslås träda i kraft den 1 oktober 2010\.
+Lagen föreslås träda i kraft den 1 oktober 2010.

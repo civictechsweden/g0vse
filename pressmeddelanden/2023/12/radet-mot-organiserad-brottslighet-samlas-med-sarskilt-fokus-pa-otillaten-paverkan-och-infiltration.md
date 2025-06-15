@@ -4,7 +4,7 @@ Dagens möte är det sjunde i ordningen och det sista för året. Rådet kommer 
 
 ### Om rådet mot organiserad brottslighet
 
-Rådet mot organiserad brottslighet inrättades av regeringen i december 2022\. Syftet är att stärka och effektivisera det samlade arbetet mot den organiserade brottsligheten. Arbetet i rådet ska skapa bättre förutsättningar för att åtgärder som vidtas är träffsäkra, effektiva och leder till praktisk nytta.
+Rådet mot organiserad brottslighet inrättades av regeringen i december 2022. Syftet är att stärka och effektivisera det samlade arbetet mot den organiserade brottsligheten. Arbetet i rådet ska skapa bättre förutsättningar för att åtgärder som vidtas är träffsäkra, effektiva och leder till praktisk nytta.
 
 Rådet har utöver justitieministern, samordnande statssekreterare i Justitiedepartementet och statssekreterare i Finansdepartementet, följande fasta medlemmar: rikspolischefen, chefen för Polismyndighetens nationella operativa avdelning, riksåklagaren, generaltulldirektören samt generaldirektörerna vid Ekobrottsmyndigheten och Skatteverket. Rådet leds av justitieministern.
 

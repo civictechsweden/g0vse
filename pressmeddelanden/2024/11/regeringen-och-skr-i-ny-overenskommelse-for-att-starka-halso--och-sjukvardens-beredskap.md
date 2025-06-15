@@ -1,10 +1,10 @@
 # Regeringen och SKR i ny överenskommelse för att stärka hälso- och sjukvårdens beredskap
 
-– Bristande tillgång till kritiska sjukvårdsprodukter är ett allvarligt hot mot människors liv och hälsa. För att förbättra krisberedskapen måste vi stärka hälso\- och sjukvårdens robusthet i vardagen. Överenskommelsen med SKR bidrar till att säkerställa en långsiktig och robust lagerhållning av medicintekniska produkter och personlig skyddsutrustning, vilket är avgörande för att upprätthålla god vård, säger sjukvårdsminister Acko Ankarberg Johansson.
+– Bristande tillgång till kritiska sjukvårdsprodukter är ett allvarligt hot mot människors liv och hälsa. För att förbättra krisberedskapen måste vi stärka hälso- och sjukvårdens robusthet i vardagen. Överenskommelsen med SKR bidrar till att säkerställa en långsiktig och robust lagerhållning av medicintekniska produkter och personlig skyddsutrustning, vilket är avgörande för att upprätthålla god vård, säger sjukvårdsminister Acko Ankarberg Johansson.
 
-– Regeringen genomför under den kommande försvarsbeslutsperioden en historisk satsning på civilt försvar. Beredskapssektorn hälsa, vård och omsorg är prioriterad och det är glädjande att nya steg nu tas för att stärka försörjningsberedskapen inom sektorn, säger minister för civilt försvar Carl\-Oskar Bohlin.
+– Regeringen genomför under den kommande försvarsbeslutsperioden en historisk satsning på civilt försvar. Beredskapssektorn hälsa, vård och omsorg är prioriterad och det är glädjande att nya steg nu tas för att stärka försörjningsberedskapen inom sektorn, säger minister för civilt försvar Carl-Oskar Bohlin.
 
-– Regionerna och regeringen är överens om att ta viktiga steg framåt i det långsiktiga arbetet att stärka försörjningsberedskapen av medicintekniska produkter och personlig skyddsutrustning i hälso\- och sjukvården. Det är viktigt att vi får ett större fokus på långsiktighet i vår beredskap inom hela hälso\- och sjukvården, säger Anna\-Lena Hogerud, ordförande i SKR:s sjukvårdsdelegation.
+– Regionerna och regeringen är överens om att ta viktiga steg framåt i det långsiktiga arbetet att stärka försörjningsberedskapen av medicintekniska produkter och personlig skyddsutrustning i hälso- och sjukvården. Det är viktigt att vi får ett större fokus på långsiktighet i vår beredskap inom hela hälso- och sjukvården, säger Anna-Lena Hogerud, ordförande i SKR:s sjukvårdsdelegation.
 
 Regionerna tilldelas 850 miljoner kronor för att bygga upp och arbeta med en långsiktig förbättrad tillgång till medicintekniska produkter av förbrukningskaraktär och personlig skyddsutrustning inom främst intensivvården.
 

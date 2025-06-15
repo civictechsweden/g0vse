@@ -2,7 +2,7 @@
 
 Ryssland har idag tillkännagivit avsikten att illegalt annektera de ukrainska regionerna Donetsk, Luhansk, Cherson och Zaporizjzjia.
 
-Sverige fördömer kraftfullt det ryska agerandet som strider mot folkrätten, inklusive FN\-stadgan. Detta har vi idag framfört till Rysslands ambassadör.
+Sverige fördömer kraftfullt det ryska agerandet som strider mot folkrätten, inklusive FN-stadgan. Detta har vi idag framfört till Rysslands ambassadör.
 
 Sverige erkänner inte, och kommer inte att erkänna, Rysslands illegala annekteringar av ukrainskt territorium. Donetsk, Luhansk, Cherson och Zaporizjzjia är, precis som den autonoma republiken Krim och staden Sevastopol, del av Ukraina inom landets internationellt erkända gränser.
 

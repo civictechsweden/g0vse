@@ -1,6 +1,6 @@
 # Det offentliga stödet till startups och scaleups ska effektiviseras
 
-– Svenska startups spelar en nyckelroll för Sveriges innovationskraft, ekonomiska tillväxt och omställning till ett hållbart samhälle. För att upprätthålla Sveriges konkurrenskraft är det viktigt att fortsätta investera i åtgärder så att dessa företag kan bidra inte bara till entreprenörskapsandan i Sverige utan även så vi kan behålla vår position som ledande innovationsnation, säger energi\- och näringsminister Ebba Busch.
+– Svenska startups spelar en nyckelroll för Sveriges innovationskraft, ekonomiska tillväxt och omställning till ett hållbart samhälle. För att upprätthålla Sveriges konkurrenskraft är det viktigt att fortsätta investera i åtgärder så att dessa företag kan bidra inte bara till entreprenörskapsandan i Sverige utan även så vi kan behålla vår position som ledande innovationsnation, säger energi- och näringsminister Ebba Busch.
 
 Innovativa företag fyller en viktig funktion som tillväxtmotorer och katalysatorer för den gröna och digitala strukturomvandlingen. De skapar arbetstillfällen och bidrar till förnyelse i både etablerade och nya värdekedjor och branscher.
 

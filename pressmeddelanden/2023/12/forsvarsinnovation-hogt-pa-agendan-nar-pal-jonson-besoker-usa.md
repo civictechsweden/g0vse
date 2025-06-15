@@ -12,4 +12,4 @@ Försvarsministern kommer även att ha möten med kongressledamöter under sitt 
 
 Försvarsministern deltar även på ett seminarium på Atlantic Council med fokus på Sveriges framtida roll i Nato.
 
-Avslutningsvis besöker försvarsministern ett av Natos operativa högkvarter, Joint Forces Command Norfolk. USA\-resan avslutas med ett besök på Natos Allied Command Transformation, som är Natos kommando för utveckling av strategisk krigföring och förmågeutveckling.
+Avslutningsvis besöker försvarsministern ett av Natos operativa högkvarter, Joint Forces Command Norfolk. USA-resan avslutas med ett besök på Natos Allied Command Transformation, som är Natos kommando för utveckling av strategisk krigföring och förmågeutveckling.

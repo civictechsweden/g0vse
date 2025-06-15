@@ -6,4 +6,4 @@ Folkbildningsrådet bestämmer i dag hur stor del av statens bidrag till folkbil
 
 Motivet till ändringen är att folkhögskolorna och studieförbunden bedriver olika typer av verksamheter och har olika förutsättningar för att genomföra dem. I dag är staten hänvisad till att utgå från folkbildningen som en helhet. Genom förslaget vill regeringen att bidragen bättre ska kunna anpassas efter verksamheternas olika behov och förutsättningar.
 
-Förslaget skickas nu ut på remiss till den 26 juni. Ändringarna före­slås träda i kraft den 1 januari 2024\.
+Förslaget skickas nu ut på remiss till den 26 juni. Ändringarna före­slås träda i kraft den 1 januari 2024.

@@ -4,4 +4,4 @@ Vid årsskiftet inrättas befattningen som kombinerad rättschef och chef för r
 
 Charlotte Kugelberg tjänstgör idag som expeditionschef på Arbetsmarknadsdepartementet. Hon var därförinnan chefsrådman vid Nacka tingsrätt. Charlotte har tidigare bl.a. varit kanslichef för Rättschefens kansli (SB), biträdande enhetschef på Justitiedepartementet (Ju DOM) och arbetat vid Utrikesdepartementet och Svea hovrätt.
 
-Charlotte Kugelberg tillträder sin nya befattning i januari 2022\.
+Charlotte Kugelberg tillträder sin nya befattning i januari 2022.

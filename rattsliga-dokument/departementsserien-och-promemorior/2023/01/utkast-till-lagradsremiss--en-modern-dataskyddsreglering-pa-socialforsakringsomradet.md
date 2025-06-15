@@ -12,4 +12,4 @@ Regeringskansliet föreslår att de särskilda begränsningarna som gäller när
 
 Regeringskansliet föreslår också att uttrycket socialförsäkringsdatabasen slopas och att sökbegränsningar ska utgå från syftet med sökningen i stället för otillåtna sökbegrepp.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

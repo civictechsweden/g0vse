@@ -1,9 +1,8 @@
 # Uppdrag att samordna, planera, genomföra och utvärdera nationella övningar som stärker beredskapen inom hälso- och sjukvården
 
-Regeringen uppdrar åt Socialstyrelsen att samordna, planera, genomföra och utvärdera nationella övningar för hälso\- och sjukvård vid nationella kris\- eller totalförsvarsövningar.
+Regeringen uppdrar åt Socialstyrelsen att samordna, planera, genomföra och utvärdera nationella övningar för hälso- och sjukvård vid nationella kris- eller totalförsvarsövningar.
 
-
-Myndigheten ska planera och hålla samman regionernas deltagande i kris\- och totalförsvarsövningar som leds av andra. Meningen med övningarna är att stärka beredskapen och utveckla sjukvårdens förmåga att lösa sina uppgifter i kris och krig.
+Myndigheten ska planera och hålla samman regionernas deltagande i kris- och totalförsvarsövningar som leds av andra. Meningen med övningarna är att stärka beredskapen och utveckla sjukvårdens förmåga att lösa sina uppgifter i kris och krig.
 
 ## Samordning med MSB och Försvarsmakten
 

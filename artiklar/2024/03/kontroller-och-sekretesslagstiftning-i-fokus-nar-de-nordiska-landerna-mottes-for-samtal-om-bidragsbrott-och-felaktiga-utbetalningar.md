@@ -2,10 +2,9 @@
 
 Mer samarbete över landsgränserna, utökade kontrollmöjligheter och förändrad sekretesslagstiftning behövs för att sätta stopp för att kriminella lurar till sig pengar från välfärdssystemen. Det var några av insikterna från deltagarna under den nordiska konferensen om bidragsbrott och felaktiga utbetalningar inom socialförsäkringen, som arrangerades av Socialdepartementet och Försäkringskassan den 6 mars.
 
+Konferensen anordnades inom ramen för Sveriges ordförandeskap i Nordiska ministerrådet 2024. Vid mötet deltog experter och höga tjänstemän från många nordiska myndigheter. Temat för dagen var de utmaningar som de nordiska länderna möter kopplat till bidragsbrottslighet och felaktiga utbetalningar och nordiska samarbeten på området.
 
-Konferensen anordnades inom ramen för Sveriges ordförandeskap i Nordiska ministerrådet 2024\. Vid mötet deltog experter och höga tjänstemän från många nordiska myndigheter. Temat för dagen var de utmaningar som de nordiska länderna möter kopplat till bidragsbrottslighet och felaktiga utbetalningar och nordiska samarbeten på området.
-
-– Vi vet att kriminalitet och organiserad brottslighet inte stannar inom landsgränserna. En gränsöverskridande bidragsbrottslighet kan många gånger var svårare att utreda. Ett klassiskt exempel är att det kan vara svårt för myndigheter att veta var en person faktiskt befinner sig. Därför är samarbete mellan myndigheter i våra nordiska länder otroligt viktigt, sa äldre\- och socialförsäkringsminister Anna Tenje i sitt inledningstal.
+– Vi vet att kriminalitet och organiserad brottslighet inte stannar inom landsgränserna. En gränsöverskridande bidragsbrottslighet kan många gånger var svårare att utreda. Ett klassiskt exempel är att det kan vara svårt för myndigheter att veta var en person faktiskt befinner sig. Därför är samarbete mellan myndigheter i våra nordiska länder otroligt viktigt, sa äldre- och socialförsäkringsminister Anna Tenje i sitt inledningstal.
 
 ### Diksuterade frågan om kontroller
 
@@ -25,6 +24,6 @@ Frågan om kontroller lyftes även fram av företrädare från myndigheten Udbet
 
 ### Betonade vikten av samarbete
 
-Äldre\- och socialförsäkringsminister Anna Tenje summerade dagen genom att betona vikten av samarbete mellan de nordiska länderna.
+Äldre- och socialförsäkringsminister Anna Tenje summerade dagen genom att betona vikten av samarbete mellan de nordiska länderna.
 
 – Vi får samarbeta kring de goda exemplen och se till att vi verkligen knäcker den organiserade brottsligheten, och se till att upprätthålla de fina demokratiska värden och de fina välfärdssystem som vi har i respektive länder. Stort tack för engagemanget och alla bra frågor och inspel!, avslutade statsrådet.

@@ -8,4 +8,4 @@ Vidare föreslås utökade möjligheter att förverka egendom som har varit för
 
 I propositionen behandlas också tillträdet till Europarådets konvention om penningtvätt, efterforskning, beslag och förverkande av vinning av brott och om finansiering av terrorism. Genom de lagändringar som föreslås bedöms Sverige leva upp till konventionens krav.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2014\.
+Lagändringarna föreslås träda i kraft den 1 juli 2014.

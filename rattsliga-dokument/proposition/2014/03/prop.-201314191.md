@@ -6,4 +6,4 @@ Dessutom presenteras ett ungdomspolitiskt handlingsprogram för perioden 2014–
 
 Slutligen föreslås ändringar i skollagen. Det så kallade informationsansvaret för icke skolpliktiga ungdomar förtydligas och benämns istället aktivitetsansvar för ungdomar. Ansvaret innebär att kommunerna har i uppgift att erbjuda de ungdomar som berörs lämpliga individuella åtgärder. Åtgärderna ska i första hand motivera till utbildning. Kommunerna får i uppgift att föra ett register över de ungdomar som omfattas av ansvaret och att dokumentera sina insatser på lämpligt sätt. Huvudmän för gymnasieskolor och gymnasiesärskolor ska snarast meddela hemkommunen om en elev utan giltigt skäl är frånvarande i betydande utsträckning.
 
-Ändringarna föreslås träda i kraft den 1 januari 2015\.
+Ändringarna föreslås träda i kraft den 1 januari 2015.

@@ -4,6 +4,6 @@
 
 Kulturministern håller ett inledningsanförande och deltar i ett samtal kring den regionala och lokala kulturens förutsättningar. Samtalet kommer även ägnas åt de satsningar som regeringen gör för att stärka och stötta kulturlivet i hela landet.
 
-**Sveriges fritids\- och kulturchefsförening**
+**Sveriges fritids- och kulturchefsförening**
 
-Sveriges fritids\- och kulturchefsförening, SFK, är en intresseorganisation för chefer inom kommunal fritids\- och kultursektor. SFK samlar cirka 390 personer som representerar drygt 190 kommuner i Sverige.
+Sveriges fritids- och kulturchefsförening, SFK, är en intresseorganisation för chefer inom kommunal fritids- och kultursektor. SFK samlar cirka 390 personer som representerar drygt 190 kommuner i Sverige.

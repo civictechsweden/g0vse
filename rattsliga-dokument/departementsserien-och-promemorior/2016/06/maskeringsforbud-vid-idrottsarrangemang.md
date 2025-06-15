@@ -6,6 +6,6 @@ Förslaget innebär att personer förbjuds att helt eller delvis täcka ansiktet
 
 Förbudet ska inte gälla för den som täcker ansiktet av religiösa skäl eller den som har skäl för att täcka ansiktet i tjänsten eller för idrottsarrangemangets genomförande. Förbudet ska inte heller gälla om täckande av ansiktet med hänsyn till väderförhållanden, hälsoskäl eller övriga omständigheter är att anse som befogat.
 
-Lagändringen föreslås träda i kraft den 1 mars 2017\.
+Lagändringen föreslås träda i kraft den 1 mars 2017.
 
 [Pressmeddelande: Maskeringsförbud vid idrottsarrangemang](/pressmeddelanden/2016/06/maskeringsforbud-vid-idrottsarrangemang/)

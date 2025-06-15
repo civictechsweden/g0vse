@@ -10,4 +10,4 @@ Den första åtgärden innebär att Försäkringskassan får använda uppgiftern
 
 Dels får Skatteverket möjlighet att markera individuppgifter som myndigheten inte har lagt till grund för beskattningsbeslut. En sådan markering ska lämnas ut tillsammans med uppgiften.
 
-Förslagen föreslås träda i kraft från och med den 1 juli 2024\.
+Förslagen föreslås träda i kraft från och med den 1 juli 2024.

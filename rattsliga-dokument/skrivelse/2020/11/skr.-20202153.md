@@ -2,7 +2,7 @@
 
 I skrivelsen redovisar regeringen sin bedömning av Riksrevisionens
 iakttagelser och rekommendationer i rapporten Riktade statsbidrag för
-socioekonomiskt utsatta områden (RiR 2020:14\).
+socioekonomiskt utsatta områden (RiR 2020:14).
 
 Riksrevisionen har granskat om riktade statsbidrag ger goda förutsättningar att motverka sociala problem i socioekonomiskt utsatta områden. I rapporten rekommenderar Riksrevisionen regeringen och Regeringskansliet att öka andelen fleråriga riktade statsbidrag, att göra analyser inför införandet av nya statsbidrag för att veta hur de kan tänkas påverka det lokala arbetet i socioekonomiskt utsatta områden och att förbättra uppföljningarna av dessa statsbidrag.
 

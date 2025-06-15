@@ -13,4 +13,4 @@ Utredaren ska bland annat
 * göra en integritetsanalys där behovet av skydd för den personliga integriteten beaktas, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 1 april 2025\.
+Uppdraget ska redovisas senast den 1 april 2025.

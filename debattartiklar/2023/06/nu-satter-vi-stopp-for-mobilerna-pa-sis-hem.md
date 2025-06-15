@@ -1,7 +1,6 @@
 # "Nu sätter vi stopp för mobilerna på Sis-hem"
 
-Debattartikel med socialtjänstminister Camilla Waltersson Grönvall, Aftonbladet den 29 juni 2023\.
-
+Debattartikel med socialtjänstminister Camilla Waltersson Grönvall, Aftonbladet den 29 juni 2023.
 
 I dag kan unga kriminella som är placerade på Sis planera sin egen rymning genom att de fritt kan använda sina mobiltelefoner och datorer för att kommunicera med omgivningen. En verklighet som flera aktuella händelser dessvärre vittnar om.
 
@@ -19,15 +18,15 @@ Samarbetspartierna prioriterar därför åtgärder för att öka tryggheten och 
 
 En viktig åtgärd för att sätta stopp för att placerade ungdomar kan rymma genom kommunikation med omvärlden är kraftfullt begränsad tillgång till elektronisk kommunikation, såsom mobiltelefoner, särskilt vid institutioner med högre säkerhetsklass.
 
-Regeringens utredare föreslår ökade befogenheter att begränsa kommunikationen för Sis\-placerade barn och unga. Detta är nödvändigt för att minska möjligheten till brottsplanering, missbruk eller att planera sin egen rymning. Begränsningen av elektronisk kommunikation ska ske på ett sätt som är proportionerligt och tar hänsyn till individens integritet.
+Regeringens utredare föreslår ökade befogenheter att begränsa kommunikationen för Sis-placerade barn och unga. Detta är nödvändigt för att minska möjligheten till brottsplanering, missbruk eller att planera sin egen rymning. Begränsningen av elektronisk kommunikation ska ske på ett sätt som är proportionerligt och tar hänsyn till individens integritet.
 
 ## Ökad säkerhet genom visitationer och kontroller
 
-Regeringen har även beslutat om utredning av åtgärder för att öka säkerheten på Sis\-hemmen, både för de placerade och för personalen.
+Regeringen har även beslutat om utredning av åtgärder för att öka säkerheten på Sis-hemmen, både för de placerade och för personalen.
 
 Rumsvisitationer och kroppsvisitationer är viktiga för att förhindra införsel av narkotika, vapen och andra farliga föremål.
 
-Dessutom utreds det om allmän inpasseringskontroll bör tillämpas för besökare på Sis\-hemmen för att garantera säkerhet och trygghet för alla inblandade.
+Dessutom utreds det om allmän inpasseringskontroll bör tillämpas för besökare på Sis-hemmen för att garantera säkerhet och trygghet för alla inblandade.
 
 ## Reformera SiS för att trygga barn och ungas vård
 
@@ -42,7 +41,6 @@ För de allra flesta barn är Sverige ett tryggt land att växa upp i, men skydd
 Barn och unga i samhällets vård ska ges den vård och det skydd de behöver och har rätt till. För låt oss vara ärliga; det finns stora brister i det skyddsnät som byggts upp runt utsatta barn.
 
 Samarbetspartierna kommer därför i närtid att återkommer med förslag om hur vi vill reformera Sis.
-
 
 Camilla Waltersson Grönvall, socialtjänstminister
 Linda Lindberg, gruppledare (SD)

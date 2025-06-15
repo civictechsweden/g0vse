@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * analysera befintliga och föreslå eventuella nya, kostnadseffektiva styrmedel för genomförandet av sådana åtgärder som är beroende av näringslivets medverkan, och
 * om det bedöms nödvändigt, lämna författningsförslag.
 
-Uppdraget ska redovisas senast den 1 december 2023\.
+Uppdraget ska redovisas senast den 1 december 2023.

@@ -1,7 +1,6 @@
 # ICCPR-kommitténs granskning (2021-03-16)  av ärendet B.B. mot Sverige
 
-Fråga om utvisning av klaganden till Afghanistan skulle strida mot artikel 6 (rätten till liv) och artikel 7 (förbudet mot tortyr m.m.) i FN\-konventionen om medborgerliga och politiska rättigheter.
-
+Fråga om utvisning av klaganden till Afghanistan skulle strida mot artikel 6 (rätten till liv) och artikel 7 (förbudet mot tortyr m.m.) i FN-konventionen om medborgerliga och politiska rättigheter.
 
 **Sammanfattning av granskningen:** Klaganden anförde inför kommittén att hans utvisning till Afghanistan skulle strida mot artiklarna 6 och 7 i konventionen, bl.a. då han konverterat till kristendomen samt då han riskerar förföljelse från sin far.
 

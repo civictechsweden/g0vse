@@ -8,6 +8,6 @@ I den proposition som nu läggs fram föreslår regeringen att elever som behöv
 
 Dessutom satsar regeringen på riksrekryterande spetsutbildningar i grundskolans högre årskurser och i gymnasieskolan. De försöksverksamheter som finns idag föreslås bli permanenta.
 
-Lagändringarna föreslås träda i kraft den 2 juli 2024\.
+Lagändringarna föreslås träda i kraft den 2 juli 2024.
 
 Förslaget bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

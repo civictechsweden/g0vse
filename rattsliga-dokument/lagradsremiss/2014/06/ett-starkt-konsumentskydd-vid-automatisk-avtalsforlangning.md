@@ -6,4 +6,4 @@ Regeringen vill därför stärka konsumentskyddet genom att föreslå en ny lag.
 
 Detta ska inte gälla om det finns särskilda föreskrifter om förlängning av ett avtal eller om konsumenten efter en förlängning ändå kan säga upp avtalet med högst tre månaders uppsägningstid.
 
-Den nya lagen föreslås träda i kraft den 1 mars 2015\.
+Den nya lagen föreslås träda i kraft den 1 mars 2015.

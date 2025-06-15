@@ -11,7 +11,7 @@ Förslagen i lagrådsremissen syftar till att stärka enskildas möjligheter att
 
 För att förenkla hanteringen av namnärenden föreslås också att Skatteverket blir ensam namnmyndighet.
 
-Den nya lagen föreslås träda i kraft den 1 juli 2017\.
+Den nya lagen föreslås träda i kraft den 1 juli 2017.
 
 [Pressmeddelande: En ny lag om personnamn](/pressmeddelanden/2016/04/en-ny-lag-om-personnamn/)
 

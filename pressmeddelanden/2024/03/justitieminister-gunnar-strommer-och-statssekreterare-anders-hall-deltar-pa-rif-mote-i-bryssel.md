@@ -1,6 +1,6 @@
 # Justitieminister Gunnar Strömmer och statssekreterare Anders Hall deltar på RIF-möte i Bryssel
 
-Måndagen den 4 mars är dagen för inrikes frågor. Justitieminister Gunnar Strömmer deltar i diskussioner om det övergripande läget i Schengenområdet och en utvärdering av EU:s förordning om gräns\- och kustbevakning.
+Måndagen den 4 mars är dagen för inrikes frågor. Justitieminister Gunnar Strömmer deltar i diskussioner om det övergripande läget i Schengenområdet och en utvärdering av EU:s förordning om gräns- och kustbevakning.
 
 Kampen mot olaglig narkotikahandel och organiserad brottslighet kommer att vara centrala frågor under måndagens möte. Statsrådet kommer även att delta i diskussioner om effekterna av konflikten i Mellanöstern och Rysslands anfallskrig mot Ukraina för EU:s inre säkerhet.
 

@@ -1,9 +1,8 @@
 # Finansiella flöden bidrar också till möjligheten att ställa om för klimatet
 
-Det avslutande samtalet med branscherna om klimatomställningen hölls med finansmarknaden. Klimat\- och miljöminister Romina Pourmokhtari och finansmarknadsminister Niklas Wykman ledde samtalet.
+Det avslutande samtalet med branscherna om klimatomställningen hölls med finansmarknaden. Klimat- och miljöminister Romina Pourmokhtari och finansmarknadsminister Niklas Wykman ledde samtalet.
 
-
-–  Jag uppskattar rak dialog med er som är med i omställningsarbetet, inledde klimat\- och miljöminister Romina Pourmokhtari till deltagarna runt bordet. Klimatomställningen handlar om att säkra vårt välstånd, och finansmarknaden har en viktig roll i att lyckas förmedla resurser till omställningen. Till exempel diskuterar vi alltmer internationellt hur vi ska allokera medel och streamlinea flöden i de stora COP\-mötena för att klara klimatomställningen.
+–  Jag uppskattar rak dialog med er som är med i omställningsarbetet, inledde klimat- och miljöminister Romina Pourmokhtari till deltagarna runt bordet. Klimatomställningen handlar om att säkra vårt välstånd, och finansmarknaden har en viktig roll i att lyckas förmedla resurser till omställningen. Till exempel diskuterar vi alltmer internationellt hur vi ska allokera medel och streamlinea flöden i de stora COP-mötena för att klara klimatomställningen.
 
 ## Att investera i hållbarhet är en lönsamhetsfråga
 
@@ -17,8 +16,8 @@ När det gäller hinder lyfte en aktör att det också behöver göras ett kunsk
 
 Och just långsiktigheten lyftes av flera. Risken med bristande långsiktighet är att man väljer att göra investeringar i andra länder än på hemmaplan. Någon föreslog också en generalplan för energiproduktionen för att se en långsiktighet i hur kraftslagen planeras i Sverige, som ett exempel.
 
-Någon lyfte också vikten av företagsrapportering och menade att det måste gå att enklare bedöma vilka som är de vinnande hästarna. Man kanske behöver kompletterande mått för påverkan, som tittar på \- inte bara hur vi investerar i klimat \- utan också vad det har för påverkan på biodiversitet och miljö.
+Någon lyfte också vikten av företagsrapportering och menade att det måste gå att enklare bedöma vilka som är de vinnande hästarna. Man kanske behöver kompletterande mått för påverkan, som tittar på - inte bara hur vi investerar i klimat - utan också vad det har för påverkan på biodiversitet och miljö.
 
-Klimat\- och miljöminister Romina Pourmokhtari avslutade:
+Klimat- och miljöminister Romina Pourmokhtari avslutade:
 
  – Min prioritering för Sverige är enkel: som jag ser det handlar klimatomställningen främst om eltillförsel, men också om infrastruktur och kompetensförsörjning.

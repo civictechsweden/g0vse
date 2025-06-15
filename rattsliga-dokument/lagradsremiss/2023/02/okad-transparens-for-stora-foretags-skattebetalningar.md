@@ -6,4 +6,4 @@ EU har antagit ett direktiv som syftar till att öka de stora koncernernas trans
 
 Dessutom ska revisorn i de företag som kategori­seras som större företag enligt års­redo­visnings­lagen i revisions­berättelsen ange om företaget är skyldigt att offentlig­göra en inkomst­skatte­rapport och om företaget i så fall har gjort det.
 
-Den nya lagstiftningen föreslås träda i kraft den 22 juni 2023\.
+Den nya lagstiftningen föreslås träda i kraft den 22 juni 2023.

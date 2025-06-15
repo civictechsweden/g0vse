@@ -12,4 +12,4 @@ Förslaget innebär bland annat följande sakliga nyheter:
 * Möjligheten för en dömd att lämna nöjdförklaring utökas och förenklas.
 * Möjligheten att återkalla ett beviljat uppskov med verkställigheten av ett fängelsestraff utökas, till exempel om den dömde lagförs för nytt brott.
 
-Lagändringarna föreslås träda i kraft den 1 april 2019\.
+Lagändringarna föreslås träda i kraft den 1 april 2019.

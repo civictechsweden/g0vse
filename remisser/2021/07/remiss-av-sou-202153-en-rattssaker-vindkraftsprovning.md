@@ -4,6 +4,5 @@ Här kan du ta del av svaren från de instanser som ombetts svara på Miljödepa
 
 Övriga yttranden finns tillgängliga i departementet.
 
-
 Remissvaren ska ha kommit in till Miljödepartementet senast den
-5 november 2021\.
+5 november 2021.

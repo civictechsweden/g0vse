@@ -15,4 +15,4 @@ straffskalan, eller om det har inletts ett förfarande om att utlänningen ska u
 
 Slutligen föreslår regeringen att det ska vara möjligt för Polismyndigheten att omhänderta och ta en utlänning i förvar om det är nödvändigt för att genomföra en transitering enligt lagen om transitering av tredjelandsmedborgare.
 
-Lagändringarna föreslås träda i kraft den 1 april 2019\.
+Lagändringarna föreslås träda i kraft den 1 april 2019.

@@ -9,6 +9,6 @@ Utredaren ska bl.a.
 * analysera om den befintliga tillsynsstrukturen på området är tillräckligt ändamålsenlig, och
 * lämna de förslag till författningsändringar som krävs.
 
-Uppdraget har sin grund i riksdagens tillkännagivande om att regeringen snarast ska utreda vilka ytterligare åtgärder som kan vidtas för att stärka arbetet mot penningtvätt (bet. 2018/19:FiU42, rskr. 2018/19:291\).
+Uppdraget har sin grund i riksdagens tillkännagivande om att regeringen snarast ska utreda vilka ytterligare åtgärder som kan vidtas för att stärka arbetet mot penningtvätt (bet. 2018/19:FiU42, rskr. 2018/19:291).
 
-Uppdraget ska redovisas senast den 31 december 2020\.
+Uppdraget ska redovisas senast den 31 december 2020.

@@ -1,6 +1,6 @@
 # En ny förvaltningslag
 
-En särskild utredare ska se över bestämmelserna i förvaltningslagen (1986:223\) och lämna förslag till en ny lag.
+En särskild utredare ska se över bestämmelserna i förvaltningslagen (1986:223) och lämna förslag till en ny lag.
 
 Förvaltningslagen trädde i kraft den 1 januari 1987 och har sin grund i 1971 års förvaltningsrättsreform. Lagen innehåller regler för förvaltningsförfarandet och syftar bl.a. till att upprätthålla en hög rättssäkerhet och tillförsäkra medborgarna en god service.
 
@@ -10,4 +10,4 @@ En utgångspunkt för utredarens arbete ska vara att göra förvaltningslagens r
 * Kan bestämmelserna om omprövning och överklagande förbättras så att en mer rättssäker och effektiv ordning skapas?
 * Kan de allmänna rättsliga principer som tillämpas för förvaltningsförfarandet regleras i en ny förvaltningslag?
 
-Utredaren ska slutredovisa sitt uppdrag senast den 31 mars 2010\.
+Utredaren ska slutredovisa sitt uppdrag senast den 31 mars 2010.

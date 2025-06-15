@@ -18,4 +18,4 @@ till livsmedelsproducenter i andra medlemsstater
 analysera hur det påverkar konkurrenskraften för svenska livsmedelsproducenter
 • analysera och föreslå åtgärder för att stärka konkurrensförutsättningarna för svenska livsmedelsproducenter med bibehållna högt ställda djurhållningskrav.
 
-Uppdraget ska redovisas senast den 30 juni 2024\.
+Uppdraget ska redovisas senast den 30 juni 2024.

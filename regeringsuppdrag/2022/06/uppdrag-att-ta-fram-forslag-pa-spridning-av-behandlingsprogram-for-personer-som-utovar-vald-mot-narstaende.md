@@ -2,7 +2,6 @@
 
 I syfte att möjliggöra en effektutvärdering av behandlingsprogrammet Predov (Preventing Domestic Violence) i frivilliga verksamheter ska Kriminalvården utreda och ta fram en plan för hur programmet kan spridas till kommuner och regioner.
 
-
 I uppdraget ingår att
 
 * bedöma behovet av och planera för anpassningar av programmet samt för hur programmet kan användas tillsammans med metoder för riskbedömning och kontakt med närstående till våldsutövaren inom verksamheter utanför Kriminalvården,
@@ -12,4 +11,4 @@ I uppdraget ingår att
 
 Kriminalvården ska under arbetet med uppdraget samråda med de kommuner som hittills har prövat Predov samt med Socialstyrelsen, Polismyndigheten, Jämställdhetsmyndigheten, länsstyrelserna och Sveriges Kommuner och Regioner (SKR).
 
-Uppdraget ska redovisas till Regeringskansliet (Arbetsmarknads\-departementet med kopia till Justitiedepartementet) senast den 1 mars 2023\.
+Uppdraget ska redovisas till Regeringskansliet (Arbetsmarknads-departementet med kopia till Justitiedepartementet) senast den 1 mars 2023.

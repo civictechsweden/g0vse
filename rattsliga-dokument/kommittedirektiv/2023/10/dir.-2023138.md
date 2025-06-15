@@ -8,4 +8,4 @@ Regeringen beslutar att utredaren även ska:
 * analysera och föreslå hur de särregler för avgifter för tandvård för asylsökande och för utlänningar som vistas i Sverige utan nödvändiga tillstånd kan tas bort, utan att det påverkar rätten till tandvård som inte kan anstå, och
 * lämna nödvändiga författningsförslag.
 
-Utredningstiden förlängs. Uppdraget ska redovisas senast den 31 oktober 2024\.
+Utredningstiden förlängs. Uppdraget ska redovisas senast den 31 oktober 2024.

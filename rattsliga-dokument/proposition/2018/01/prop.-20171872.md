@@ -6,6 +6,6 @@ Snabblån och andra dyra lån erbjuds ofta en grupp konsumenter som löper stör
 
 I propositionen föreslår regeringen även en särskild bestämmelse om att all marknadsföring av konsumentkrediter ska vara måttfull. Konsumentkreditmarknaden och det stora utbudet av krediter innebär i sig risker för överskuldsättning. Genom förslaget ska marknadsföringen ta större hänsyn till de generella riskerna med konsumentkrediter och utformas på ett sådant sätt att den inte lockar konsumenter till oöverlagda beslut.
 
-Lagändringarna föreslås träda i kraft den 1 september 2018\.
+Lagändringarna föreslås träda i kraft den 1 september 2018.
 
 [Pressmeddelande: Rimligare villkor för snabblån](/pressmeddelanden/2018/01/rimligare-villkor-for-snabblan/)

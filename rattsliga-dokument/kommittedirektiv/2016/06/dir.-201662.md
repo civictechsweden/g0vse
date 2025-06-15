@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * föreslå ett förtydligat demokratikriterium som är i överensstämmelse med religionsfriheten, och
 * föreslå nödvändiga författningsändringar.
 
-Uppdraget ska redovisas senast den 15 mars 2018\.
+Uppdraget ska redovisas senast den 15 mars 2018.

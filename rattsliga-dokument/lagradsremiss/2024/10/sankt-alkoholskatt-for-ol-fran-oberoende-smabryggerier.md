@@ -8,4 +8,4 @@ Nedsättningen föreslås enbart gälla öl från producenter som är juridiskt 
 
 En enskild ska ha rätt att ur beskattningsdatabasen få ut uppgifter om huruvida en producent av öl har anmält att den är ett oberoende småbryggeri och i sådana fall producentens anmälda årsproduktion om det inte av särskild anledning kan antas att den som uppgiften avser eller någon närstående lider men om uppgiften röjs. Skatteverket ges vissa möjligheter till föreläggande och revision avseende den som är eller kan antas vara ett oberoende småbryggeri.
 
-Ändringarna föreslås träda i kraft den 1 juli 2025\. Äldre bestämmelser ska fortfarande gälla för förhållanden som hänför sig till tiden före ikraftträdandet.
+Ändringarna föreslås träda i kraft den 1 juli 2025. Äldre bestämmelser ska fortfarande gälla för förhållanden som hänför sig till tiden före ikraftträdandet.

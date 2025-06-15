@@ -8,4 +8,4 @@ En särskild utredare ska analysera och tydliggöra statliga universitets och h�
 * lämna förslag på hur universitetens och högskolornas föreskrifter ska kungöras, och
 * lämna de författningsförslag som behövs.
 
-Uppdraget ska redovisas senast den 1 februari 2012\.
+Uppdraget ska redovisas senast den 1 februari 2012.

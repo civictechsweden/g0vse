@@ -12,4 +12,4 @@ Regeringen föreslår att det även ska vara brottsligt att köpa ett hyreskontr
 I sammanhanget föreslås även att fler utrymmen som byggs om till
 bostäder ska kunna få presumtionshyra, dvs. en kollektivt framförhandlad hyra som anses skälig under 15 år.
 
-De nya reglerna föreslås träda i kraft den 1 maj 2019\.
+De nya reglerna föreslås träda i kraft den 1 maj 2019.

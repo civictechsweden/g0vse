@@ -1,9 +1,8 @@
 # Gemensamt uttalande från den internationella samordnings- och åtgärdsgruppen för offer från PS752
 
-Sverige, Kanada, Storbritannien och Ukraina, som ingår i den internationella samordnings\- och åtgärdsgruppen för offer från PS752, gjorde den 3 oktober ett gemensamt uttalande.
+Sverige, Kanada, Storbritannien och Ukraina, som ingår i den internationella samordnings- och åtgärdsgruppen för offer från PS752, gjorde den 3 oktober ett gemensamt uttalande.
 
-
-Samordningsgruppen tar sitt åtagande om fredlig lösning av tvister på allvar. Sedan 2020 har gruppen gjort flera försök att lösa ärendet genom förhandlingar, och i september 2023 gick Iran till slut med på att träffa och hålla samtal med alla gruppens medlemmar. Den här veckan har därför representanter från gruppens fyra medlemmar träffat företrädare för Iran för att diskutera Irans statsansvar för nedskjutningen av PS752\.
+Samordningsgruppen tar sitt åtagande om fredlig lösning av tvister på allvar. Sedan 2020 har gruppen gjort flera försök att lösa ärendet genom förhandlingar, och i september 2023 gick Iran till slut med på att träffa och hålla samtal med alla gruppens medlemmar. Den här veckan har därför representanter från gruppens fyra medlemmar träffat företrädare för Iran för att diskutera Irans statsansvar för nedskjutningen av PS752.
 
 Gruppens fokus har alltid legat på Irans ansvar för dess brott mot folkrätten och dess skyldighet att ge full gottgörelse för den skada som nedskjutningen av PS752 orsakat. Enligt gruppen innebär gottgörelse mer än ekonomisk kompensation.
 

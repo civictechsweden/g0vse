@@ -3,19 +3,19 @@
 ## Program 1 november
 
 Verksamhetsbesök på Kraftens hus, mötesplats för cancerdrabbade.
-Tid: kl. 09\.00
+Tid: kl. 09.00
 Plats: Hantverkargatan 2D, Serafens sjukhus
 
 Verksamhetsbesök Genomic Medicine Sweden, precisionsmedicin.
-Tid: 10\.00
+Tid: 10.00
 Plats: Gävlegatan 68, plan 2 (Klinisk genetik)
 
 Besök Karolinska Universitetssjukhuset Solna, traumaverksamhet.
-Tid: 10\.50
+Tid: 10.50
 Plats: Eugeniavägen 3, Solna (huvudentré Karolinska Universitetssjukhuset, Solna)
 
 Pressträff
-Tid: 11\.30
+Tid: 11.30
 Plats: Pressträffen sker på plats på Karolinska Universitetssjukhuset. Lokal: A5:04 Clarence Crafoord, Eugeniavägen 3, Solna (huvudentré Karolinska Universitetssjukhuset, Solna).
 Pressträffen kommer finnas tillgänglig på regeringen.se.
 

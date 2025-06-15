@@ -4,4 +4,4 @@ EU:s nya dataskyddsdirektiv kommer i huvudsak att genomföras genom brottsdatala
 
 Regeringen föreslår nya lagar om personuppgiftsbehandling på brottsdatalagens område för polisen, Tullverket, Kustbevakningen, Skatteverket, åklagarväsendet, domstolarna och kriminalvården. Lagarna ska gälla utöver brottsdatalagen och enbart innehålla bestämmelser som innebär preciseringar, undantag eller avvikelser från den lagen. Regeringen föreslår också ändringar i andra lagar som en följd av att de nya registerförfattningarna beslutas.
 
-De nya lagarna och lagändringarna föreslås träda i kraft den 1 januari 2019\.
+De nya lagarna och lagändringarna föreslås träda i kraft den 1 januari 2019.

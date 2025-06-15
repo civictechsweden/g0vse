@@ -2,7 +2,6 @@
 
 Frågan om utvisning av klaganden till Afghanistan skulle strida mot artikel 6 och 7 i FN:s konvention om medborgerliga och politiska rättigheter.
 
-
 **Sammanfattning av granskningen**
 Klaganden anförde inför kommittén att hans utvisning till Afghanistan skulle strida mot hans rättigheter i artikel 6 (rätten till liv) och artikel 7 (förbudet mot tortyr) i konventionen p.g.a. att klaganden lämnat islam.
 

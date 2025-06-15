@@ -4,4 +4,4 @@ Företag som förmedlar betalningar åt andra, så kallade betaltjänstleverant�
 
 – Att penningtvättstillsynen är träffsäker är viktigt för att komma åt den kriminella ekonomin. En alltför standardiserad tillsyn över breda områden kan leda till sämre effektivitet. Mot den bakgrunden får Finansinspektionen nu i uppdrag att redogöra för hur penning­tvättstillsynen kan utvecklas. Samtidigt kommer vi från regeringens sida arbeta för att vår styrning ska bli mer ändamålsenlig, säger finansmarknadsminister Niklas Wykman.
 
-Finansinspektionen ska redovisa sitt uppdrag senast den 31 december 2024\.
+Finansinspektionen ska redovisa sitt uppdrag senast den 31 december 2024.

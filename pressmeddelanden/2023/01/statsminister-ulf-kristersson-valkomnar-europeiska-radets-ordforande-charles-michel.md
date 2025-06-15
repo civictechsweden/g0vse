@@ -7,6 +7,6 @@ Efter mötet hålls en gemensam pressträff med statsminister Ulf Kristersson oc
 ---
 
 **Fotomöjlighet vid ankomst**
-Tid: kl. 11\.45
+Tid: kl. 11.45
 Plats: Utanför Sagerska Palatset
 Obligatorisk föranmälan till: Hanna Strömberg (se presskontakt)

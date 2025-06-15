@@ -9,7 +9,7 @@ Senare på kvällen deltar statsministern i en trygghetstur med Polarna Nacka, s
 ### Program 7 februari
 
 **Pressträff**
-Tid: 14\.15
+Tid: 14.15
 Plats: Adress ges vid anmälan
 
 **Trygghetstur med Polarna Nacka**
@@ -17,6 +17,6 @@ Kontakta Hanna Strömberg för mer information, se presskontakt.
 
 ### Praktisk information
 
-Media är välkomna att närvara vid pressträffen. Obligatorisk föranmälan senast kl. 10\.00 den 7 februari till Jonathan Svensson, se presskontakt. Ange namn, redaktion och i vilken funktion du vill delta (reporter eller fotograf). Skicka också med presslegitimation. Deltagande sker i mån av plats.
+Media är välkomna att närvara vid pressträffen. Obligatorisk föranmälan senast kl. 10.00 den 7 februari till Jonathan Svensson, se presskontakt. Ange namn, redaktion och i vilken funktion du vill delta (reporter eller fotograf). Skicka också med presslegitimation. Deltagande sker i mån av plats.
 
 För mer information om besöket kontakta Hanna Strömberg.

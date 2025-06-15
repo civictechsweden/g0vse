@@ -6,4 +6,4 @@ Medlemsbanker är ett alternativ till affärsbanker för bankkunder som vill var
 
 Banker omfattas av näringsrättslig lagstiftning som regler för tillstånd att driva bankrörelse. De tillämpar också associationsrättslig lagstiftning tex om funktionsfördelningen mellan medlemmar, styrelse och verkställande direktör.  Den näringsrättsliga regleringen för banker påverkas inte av förslaget och medlemsbankerna kommer även fortsatt att stå under Finansinspektionens tillsyn.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2021\.
+Lagändringarna föreslås träda i kraft den 1 januari 2021.

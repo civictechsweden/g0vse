@@ -3,7 +3,6 @@
 Regeringens utrikesdeklaration presenterades av utrikesminister Ann Linde vid 2020 års utrikespolitiska debatt i riksdagen onsdagen den 12 februari.
 Det talade ordet gäller.
 
-
 Herr talman, ärade ledamöter, representanter för den diplomatiska kåren, kära åhörare,
 
 Sveriges utrikespolitik förs med syftet att skapa trygghet i vårt land och i vår omvärld.
@@ -20,27 +19,23 @@ Ett välfungerande internationellt samarbete och folkrätten är grunden för en
 
 Vi står upp för diplomati, dialog och samarbete. Så försvarar vi våra intressen, värderingar och trygghet. Så gör vi världen säkrare.
 
-
-
 Herr/fru talman,
 
-EU är vår viktigaste utrikes\- och säkerhetspolitiska arena. Ingen annan aktör är i så stor utsträckning en garant för svensk ekonomi, säkerhet och fred. Sverige ska fullt ut delta i EU\-samarbetet och i dess utformning på ett sätt som värnar svenska intressen.
+EU är vår viktigaste utrikes- och säkerhetspolitiska arena. Ingen annan aktör är i så stor utsträckning en garant för svensk ekonomi, säkerhet och fred. Sverige ska fullt ut delta i EU-samarbetet och i dess utformning på ett sätt som värnar svenska intressen.
 
 Storbritannien har nu lämnat EU och det är dags att blicka framåt. Sverige ska även framöver ha en så nära och omfattande relation som möjligt med Storbritannien.
 
-Vi stärker också relationen till tongivande medlemsstater som Tyskland och Frankrike, liksom det nordiska samarbetet. Det gör vår region tryggare och mer hållbar. I Nordiska ministerrådet driver regeringen genomförandet av den gemensamma visionen att Norden ska vara världens mest hållbara och integrerade region 2030\.
+Vi stärker också relationen till tongivande medlemsstater som Tyskland och Frankrike, liksom det nordiska samarbetet. Det gör vår region tryggare och mer hållbar. I Nordiska ministerrådet driver regeringen genomförandet av den gemensamma visionen att Norden ska vara världens mest hållbara och integrerade region 2030.
 
 En förnyad svensk Arktisstrategi ska presenteras under året.
 
-Under flera år har rättsstatligheten och respekten för EU:s grundläggande värderingar undergrävts i vissa medlemsstater. Tillsammans med EU\-kommissionen och andra medlemsstater reagerar Sverige tydligt mot denna utveckling.
+Under flera år har rättsstatligheten och respekten för EU:s grundläggande värderingar undergrävts i vissa medlemsstater. Tillsammans med EU-kommissionen och andra medlemsstater reagerar Sverige tydligt mot denna utveckling.
 
-Det finns idag en oro hos många för att EU\-utvidgningen går för fort fram. Det tar vi på allvar. Samtidigt är en nära relation med länderna på västra Balkan viktig för vår gemensamma säkerhet och ekonomi. Vi vill hitta en väg framåt som enar EU och som tydligt bidrar till reformarbetet på västra Balkan. Här är möjligheten att på sikt bli medlem viktigt.
+Det finns idag en oro hos många för att EU-utvidgningen går för fort fram. Det tar vi på allvar. Samtidigt är en nära relation med länderna på västra Balkan viktig för vår gemensamma säkerhet och ekonomi. Vi vill hitta en väg framåt som enar EU och som tydligt bidrar till reformarbetet på västra Balkan. Här är möjligheten att på sikt bli medlem viktigt.
 
 Kommissionen har tidigare föreslagit förhandlingsstart för Albanien och Nordmakedonien. Det har Sverige varit berett att ställa sig bakom.
 
 Sverige stödjer förslaget om en översyn av utvidgningsprocessen, och det är viktigt att alla nödvändiga krav är uppfyllda innan ett land kan bli medlem.
-
-
 
 Herr/fru talman,
 
@@ -52,7 +47,7 @@ Jag vill rikta ett särskilt tack till de svenskar som deltar i våra civila och
 
 Europa måste ta ett större ansvar för sin egen säkerhet.
 
-EU:s gemensamma utrikes\- och säkerhetspolitik måste stärkas i syfte att försvara EU:s intressen och värden globalt.
+EU:s gemensamma utrikes- och säkerhetspolitik måste stärkas i syfte att försvara EU:s intressen och värden globalt.
 
 Vår säkerhet stärks av stabilitet och ekonomisk utveckling i EU:s närområde. Vi står fast vid våra åtaganden att stödja reformprocesser i Ukraina och andra länder i EU:s östra grannskap.
 
@@ -60,18 +55,17 @@ Det östliga partnerskapet har nyligen fyllt tio år. Sverige kommer att fortsä
 
 Vi vill även visa att ett sydligt partnerskap är möjligt. Redan i dag finns det nära samarbeten med de nordafrikanska länderna. Men detta måste stärkas och EU ska ge stöd till dessa staters stabilitet och utveckling.
 
-Sveriges säkerhetspolitiska linje ligger fast. Vår militära alliansfrihet tjänar oss väl och bidrar till stabilitet och säkerhet i norra Europa. Den förutsätter en aktiv, bred och ansvarsfull utrikes\- och säkerhetspolitik i kombination med fördjupade försvarssamarbeten, särskilt med Finland, och en trovärdig nationell försvarsförmåga. Vi ska bidra till långsiktig stabilitet och säkerhet i vår del av Europa.
+Sveriges säkerhetspolitiska linje ligger fast. Vår militära alliansfrihet tjänar oss väl och bidrar till stabilitet och säkerhet i norra Europa. Den förutsätter en aktiv, bred och ansvarsfull utrikes- och säkerhetspolitik i kombination med fördjupade försvarssamarbeten, särskilt med Finland, och en trovärdig nationell försvarsförmåga. Vi ska bidra till långsiktig stabilitet och säkerhet i vår del av Europa.
 
 Den snabba teknikutvecklingen, inte minst inom cybersäkerhet och AI, skapar nya utmaningar i gränslandet mellan konkurrenskraft, handel och säkerhetspolitik.
 
-Sveriges utrikes\- och säkerhetspolitik bygger på sammanhållning i EU och ökat samarbete på bred front: i Norden och Östersjöområdet, inom FN och OSSE, och genom partnerskapet med Nato. En stark transatlantisk länk är viktig för Europas och Amerikas säkerhet.
+Sveriges utrikes- och säkerhetspolitik bygger på sammanhållning i EU och ökat samarbete på bred front: i Norden och Östersjöområdet, inom FN och OSSE, och genom partnerskapet med Nato. En stark transatlantisk länk är viktig för Europas och Amerikas säkerhet.
 
-FN spelar en viktig roll för fred och säkerhet, utveckling och mänskliga rättigheter, och är en central arena för Sveriges arbete med de globala utmaningarna. FN förblir en hörnsten i vår utrikes\- och säkerhetspolitik. Vi stödjer Norge i deras kandidatur till FN:s säkerhetsråd.
+FN spelar en viktig roll för fred och säkerhet, utveckling och mänskliga rättigheter, och är en central arena för Sveriges arbete med de globala utmaningarna. FN förblir en hörnsten i vår utrikes- och säkerhetspolitik. Vi stödjer Norge i deras kandidatur till FN:s säkerhetsråd.
 
-Sverige kommer inte att förhålla sig passivt om en katastrof eller ett angrepp skulle drabba ett annat EU\-land eller ett nordiskt land. Vi förväntar oss att dessa länder agerar på samma sätt om Sverige drabbas. Vi ska därför kunna ge och ta emot stöd, såväl civilt som militärt.
+Sverige kommer inte att förhålla sig passivt om en katastrof eller ett angrepp skulle drabba ett annat EU-land eller ett nordiskt land. Vi förväntar oss att dessa länder agerar på samma sätt om Sverige drabbas. Vi ska därför kunna ge och ta emot stöd, såväl civilt som militärt.
 
 Sveriges ordförandeskap i OSSE år 2021 grundar sig i vårt starka engagemang för den europeiska säkerhetsordningen. Det är ett viktigt säkerhetsintresse för Sverige att upprätthålla dessa gemensamt överenskomna principer och åtaganden.
-
 
 Herr/fru talman,
 
@@ -91,8 +85,6 @@ Regeringen kommer att fortsätta det framgångsrika arbetet mot organiserad brot
 
 Sverige kommer att stärka arbetet för att stoppa flödet av vapen och droger och ta nya steg mot gränsöverskridande brottslighet och terrorism. Europol och Eurojust är centrala i detta arbete.
 
-
-
 Herr/fru talman,
 
 Den globala uppvärmningen drabbar oss här och nu.
@@ -105,8 +97,6 @@ EU är en nödvändig kraft i det globala klimatarbetet. Sverige ska inom och ut
 
 Fungerande ekosystem är en förutsättning för allt liv. Skogar, våtmarker och hav är hem för en rik biologisk mångfald. Havsmiljön är under starkt tryck från klimatförändringar, överutnyttjande, föroreningar och övergödning. Regeringen vill se ett globalt mål om att 30 procent av havet ska omfattas av marint områdesskydd.
 
-
-
 Herr/fru talman,
 
 Demokratin i världen fortsätter att utmanas och ifrågasättas.
@@ -117,15 +107,13 @@ Vi bygger allianser med likasinnade länder och organisationer som vill arbeta f
 
 Vi ökar stödet för det öppna samhället, särskilt för fria och oberoende medier och pressfrihet.
 
-Vi försvarar och främjar hbtq\-personers rättigheter.
+Vi försvarar och främjar hbtq-personers rättigheter.
 
 Vi stärker våra insatser för att bekämpa korruptionen, som är ett av de värsta utvecklingshindren. Alla korruptionsmisstankar inom biståndet följs upp och åtgärdas.
 
 Vi utvecklar handelns betydelse som plattform för dialog om mänskliga rättigheter och demokrati. Senast 2022 ska svenska exportkrediter till investeringar för prospektering och utvinning av fossila bränslen upphöra.
 
 Tilltagande antisemitism är ett växande orosmoln i hela världen och ett demokratihot. Statsministern har därför tagit initiativ till ett internationellt forum i Malmö i oktober 2020 för hågkomst av Förintelsen och bekämpande av antisemitism.
-
-
 
 Herr/fru talman,
 
@@ -138,8 +126,6 @@ För att vända utvecklingen krävs modiga insatser på alla nivåer. Därför d
 Det är glädjande att vi fått sällskap av länder som Frankrike, Kanada, Luxemburg och Mexiko.
 
 Inom EU har Sverige och Frankrike tagit initiativ för att effektivisera EU:s jämställdhetsarbete och vi etablerar en feministisk handelspolitik.
-
-
 
 Herr/fru talman,
 
@@ -155,19 +141,15 @@ Ojämlikhet är inte bara orättvist och ett hinder för ekonomisk utveckling �
 
 Initiativet Global Deal främjar social dialog och hållbar tillväxt globalt. I vissa länder är det förenat med livsfara att stå upp för fackligt engagemang och drägliga arbetsvillkor. Fackliga rättigheter är en del av vår demokratisatsning och kommer att tas upp i alla UD:s landrapporter om mänskliga rättigheter.
 
-
-
 Herr/fru talman,
 
-Världshandeln bidrar till att lyfta hela länder ur fattigdom och till genomförandet av Agenda 2030\.
+Världshandeln bidrar till att lyfta hela länder ur fattigdom och till genomförandet av Agenda 2030.
 
-Sverige driver som EU\-medlem en politik för fri och rättvis handel, som bidrar till hållbar utveckling och skapar jobb i hela landet. Vart tredje jobb i Sverige är beroende av vår handel med omvärlden.
+Sverige driver som EU-medlem en politik för fri och rättvis handel, som bidrar till hållbar utveckling och skapar jobb i hela landet. Vart tredje jobb i Sverige är beroende av vår handel med omvärlden.
 
-Vi kraftsamlar genom en uppdaterad export\- och investeringsstrategi för hela Sverige.
+Vi kraftsamlar genom en uppdaterad export- och investeringsstrategi för hela Sverige.
 
 Världsutställningen Expo 2020 i Dubai visar upp svenska företags konkurrenskraft inom hållbarhet och innovation.
-
-
 
 Herr/fru talman,
 
@@ -175,15 +157,13 @@ Vi kan inte stå passiva inför kärnvapenhotet.
 
 Utvecklingen är oroväckande: avtal om rustningskontroll överges. Kärnvapenarsenaler byggs ut och moderniseras.
 
-Nedrustning och icke\-spridning är en central utrikes\- och säkerhetspolitisk prioritering för regeringen.
+Nedrustning och icke-spridning är en central utrikes- och säkerhetspolitisk prioritering för regeringen.
 
-Regeringen bidrar genom Stockholmsinitiativet för kärnvapennedrustning till kommande översynskonferens om icke\-spridningsfördraget NPT. Arbetet tas nu vidare vid ett nytt ministermöte i Tyskland.
+Regeringen bidrar genom Stockholmsinitiativet för kärnvapennedrustning till kommande översynskonferens om icke-spridningsfördraget NPT. Arbetet tas nu vidare vid ett nytt ministermöte i Tyskland.
 
-Som ordförande i IAEA tar Sverige ansvar för icke\-spridning. Efterlevnaden av kärnenergiavtalet JCPOA är central.
+Som ordförande i IAEA tar Sverige ansvar för icke-spridning. Efterlevnaden av kärnenergiavtalet JCPOA är central.
 
 Sverige driver på inom ramen för konventionen om vissa konventionella vapen för ett effektivt internationellt förbud mot dödliga autonoma vapensystem som är oförenliga med folkrättens krav.
-
-
 
 Herr/fru talman,
 
@@ -191,7 +171,7 @@ Vår nära relation till USA är central för Sveriges säkerhet och välstånd.
 
 Ett fungerande internationellt samfund förutsätter ett engagerat USA. Det är oroande att USA lämnar multilaterala samarbeten. Regeringen arbetar för att handelsrelationen med USA ska fungera väl, och att hot om nya handelshinder inte ska verkställas.
 
-\-
+-
 
 Regeringens rysslandspolitik ligger fast.
 
@@ -201,7 +181,7 @@ Vi fördömer den ryska aggressionen mot Ukraina och den illegala annekteringen 
 
 Vi verkar för att EU:s sanktioner mot Ryssland ska bibehållas så länge skälen till att de infördes består.
 
-\-
+-
 
 Sverige är redo att bidra till regional avspänning och dialog i Mellanöstern.
 
@@ -211,36 +191,34 @@ Regeringen är mån om en god relation med både Israel och Palestina. Sverige v
 
 Regeringen har fördömt Iran för nedskjutningen av ett civilt flygplan där 17 personer hemmahörande i Sverige omkom. Vi kräver en oberoende och transparent utredning.
 
-\-
+-
 
 Vi har både samarbete och en kritisk dialog med Turkiet. EU har fördömt Turkiets offensiv i nordöstra Syrien. Samtidigt har den syriska regimen under snart nio år hänsynslöst bombat sitt eget land till ruiner. Samtliga tillstånd för svensk export av krigsmateriel till Turkiet har återkallats.
 
-\-
+-
 
 Den humanitära, politiska och ekonomiska krisen i Venezuela förvärras dag för dag. Tillsammans med det internationella samfundet verkar vi för en fredlig lösning.
 
 Den ökande polariseringen i Bolivia är allvarlig och har lett till eskalerande våld och skadegörelse.
 
-\-
+-
 
 Kinas alltmer aktiva roll på den globala arenan innebär möjligheter och utmaningar. Vi välkomnar riksdagens enighet kring skrivelsen om vår kinapolitik.
 
 Vi för en rak och öppen dialog med Kina som utgår från våra och EU:s intressen. Mänskliga rättigheter och yttrandefrihet är viktiga delar.
 
-\-
+-
 
 Indien är en viktig global aktör och partner för Sverige. Det är en betydelsefull marknad som kommer att spela en allt större roll för tillväxt och sysselsättning i vårt land.
 
 På FN:s klimattoppmöte i New York lanserade Sverige och Indien en global ledarskapsgrupp för att driva på klimatomställningen inom den tunga industrin för en fossilfri framtid.
-\-
+-
 
 Den afrikanska kontinenten har en ung befolkning. Om de många unga får tillgång till utbildning och sysselsättning kan flera afrikanska länder utvecklas i snabb fart. Men utmaningarna är också stora.
 
 Mänskliga rättigheter, demokrati och jämställdhet är prioriterade frågor i Sveriges afrikapolitik, men också migration och handel. Det är viktigt att stödja en hållbar utveckling i Afrika. Det kan handla om flickors skolgång och ökad tillgång till el.
 
 Säkerhetsläget i Sahel är fortsatt mycket oroande, inte minst i Mali. Regionen präglas av svaga stater. Situationen är en grogrund för radikalisering.
-
-
 
 Herr/fru talman,
 

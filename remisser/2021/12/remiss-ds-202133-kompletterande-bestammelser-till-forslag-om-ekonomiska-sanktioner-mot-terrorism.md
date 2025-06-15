@@ -2,8 +2,7 @@
 
 Här kan du ta del av de remissvar som har kommit till Utrikesdepartementet på Ds 2021:33 Kompletterande bestämmelser till förslag om ekonomiska sanktioner mot terrorism. Övriga yttranden finns tillgängliga i departementet.
 
-
-Sista dag att svara på remissen var den 17 januari 2022\.
+Sista dag att svara på remissen var den 17 januari 2022.
 
 ### Remissinstanser
 

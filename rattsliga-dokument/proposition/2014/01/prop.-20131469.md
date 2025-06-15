@@ -6,7 +6,7 @@ Enligt direktivet ska radioaktivt avfall som uppkommer i en medlemsstat som huvu
 
 För att detta ska kunna tillämpas krävs det att medlemsstaten och det andra landet har ingått ett avtal som bl.a. tar hänsyn till kriterier som har fastställts av Europeiska kommissionen.
 
-Propositionen innehåller därför förslag till ändringar i lagen (1984:3\) om kärnteknisk verksamhet och strålskyddslagen (1988:220\) som innebär krav på tillstånd för att utomlands slutförvara kärnämne som inte är avsett
+Propositionen innehåller därför förslag till ändringar i lagen (1984:3) om kärnteknisk verksamhet och strålskyddslagen (1988:220) som innebär krav på tillstånd för att utomlands slutförvara kärnämne som inte är avsett
 att användas på nytt, kärnavfall eller annat radioaktivt avfall. Vidare innebär förslagen att vissa krav ställs upp för att ett sådant tillstånd ska kunna ges, bl.a. måste det finnas ett avtal mellan Sverige och det andra landet.
 
-De nya bestämmelserna föreslås träda i kraft den 1 maj 2014\.
+De nya bestämmelserna föreslås träda i kraft den 1 maj 2014.

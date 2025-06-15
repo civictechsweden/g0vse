@@ -16,7 +16,7 @@ Genom antagandet av den nationella planen för militär rörlighet har Sverige o
 
 ## Uppdrag till Försvarsmakten
 
-Regeringen har beslutat att ge Försvarsmakten i uppdrag att ta fram förslag på åtgärder för att uppnå målen i Sveriges nationella plan för militär rörlighet 2024–2026\. Åtgärderna ska baseras på planen för militär rörighet, nationella och internationella förutsättningar, samt pågående internationella arbeten och anvisningar från till exempel Nato, EU och från vårt nordiska försvarssamarbete; Nordefco.
+Regeringen har beslutat att ge Försvarsmakten i uppdrag att ta fram förslag på åtgärder för att uppnå målen i Sveriges nationella plan för militär rörlighet 2024–2026. Åtgärderna ska baseras på planen för militär rörighet, nationella och internationella förutsättningar, samt pågående internationella arbeten och anvisningar från till exempel Nato, EU och från vårt nordiska försvarssamarbete; Nordefco.
 
 Uppdraget ska genomföras i dialog med Myndigheten för samhällsskydd och beredskap (MSB), Trafikverket, Tullverket, Kustbevakningen och länsstyrelserna samt vid behov med andra berörda myndigheter.
 

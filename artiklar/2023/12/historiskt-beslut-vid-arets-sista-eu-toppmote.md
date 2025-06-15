@@ -1,9 +1,8 @@
 # Historiskt beslut vid årets sista EU-toppmöte
 
-Under Europeiska rådets möte i Bryssel den 14\-15 december fattades det historiska beslutet att inleda anslutningsförhandlingar med Ukraina och Moldavien. Under EU\-toppmötet, där statsminister Ulf Kristersson deltog, diskuterades även EU:s budget, den oroliga situationen i Mellanöstern och säkerhet\- och försvarsfrågor. Dagen innan mötet i Europeiska rådet deltog statsministern även vid ett toppmöte mellan EU:s stats\- och regeringschefer och ledare från västra Balkan.
+Under Europeiska rådets möte i Bryssel den 14-15 december fattades det historiska beslutet att inleda anslutningsförhandlingar med Ukraina och Moldavien. Under EU-toppmötet, där statsminister Ulf Kristersson deltog, diskuterades även EU:s budget, den oroliga situationen i Mellanöstern och säkerhet- och försvarsfrågor. Dagen innan mötet i Europeiska rådet deltog statsministern även vid ett toppmöte mellan EU:s stats- och regeringschefer och ledare från västra Balkan.
 
-
-– Vi har nu enats i Europeiska rådet om att öppna förhandlingar om Ukraina och Moldaviens framtida EU\-medlemskap. Det här är en viktig politisk signal om att deras långsiktiga plats är i EU. Det är mycket glädjande att vi kan ge det här beskedet till president Zelenskyj, och det ukrainska folket som nu strider för deras och vår frihet, säger statsminister Ulf Kristersson.
+– Vi har nu enats i Europeiska rådet om att öppna förhandlingar om Ukraina och Moldaviens framtida EU-medlemskap. Det här är en viktig politisk signal om att deras långsiktiga plats är i EU. Det är mycket glädjande att vi kan ge det här beskedet till president Zelenskyj, och det ukrainska folket som nu strider för deras och vår frihet, säger statsminister Ulf Kristersson.
 
 Ledarna fattade beslut om att inleda anslutningsförhandlingar med Ukraina och Moldavien, bevilja Georgien status som kandidatland, under förutsättning att vissa åtgärder vidtas, och att inleda anslutningsförhandlingar med Bosnien och Hercegovina så snart landet i nödvändig grad uppfyller kriterierna för medlemskap.
 
@@ -17,12 +16,12 @@ Ledarna fattade beslut om att inleda anslutningsförhandlingar med Ukraina och M
 
 ## Mellanöstern
 
-Vid mötet höll stats\- och regeringscheferna även en diskussion om den senaste utvecklingen i Mellanöstern.
+Vid mötet höll stats- och regeringscheferna även en diskussion om den senaste utvecklingen i Mellanöstern.
 
 ## Säkerhet och försvar
 
 Ledarna uppmanade till en rad åtgärder för att stärka Europas säkerhet och försvar, bland annat genom att stärka den europeiska försvarsindustrin.
 
-## Toppmötet EU\-västra Balkan
+## Toppmötet EU-västra Balkan
 
-Ledarna för EU och för länderna på västra Balkan träffades för sitt fjärde årliga toppmöte. Toppmötet utgjorde ett tillfälle att bekräfta västra Balkans utsikter till EU\-medlemskap, samtidigt som behovet av fortsatt reformarbete underströks. Vid mötet välkomnades inrättandet av en ny avdelning av Europeiska högskolan i Tirana. Länderna enades även om Brysselförklaringen (se länk under "Om toppmötet mellan EU och västra Balkan" till höger på den här sidan).
+Ledarna för EU och för länderna på västra Balkan träffades för sitt fjärde årliga toppmöte. Toppmötet utgjorde ett tillfälle att bekräfta västra Balkans utsikter till EU-medlemskap, samtidigt som behovet av fortsatt reformarbete underströks. Vid mötet välkomnades inrättandet av en ny avdelning av Europeiska högskolan i Tirana. Länderna enades även om Brysselförklaringen (se länk under "Om toppmötet mellan EU och västra Balkan" till höger på den här sidan).

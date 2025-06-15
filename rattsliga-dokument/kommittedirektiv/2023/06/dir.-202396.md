@@ -7,5 +7,4 @@ Mot bakgrund av den begränsade tid som kan förväntas för att genomföra
 direktivet ges en särskild utredare i uppdrag att analysera behovet av och
 lämna förslag till de författningsändringar och eventuella andra åtgärder som behövs för att genomföra direktivet.
 
-
 Uppdraget ska redovisas senast den 22 juni 2024.

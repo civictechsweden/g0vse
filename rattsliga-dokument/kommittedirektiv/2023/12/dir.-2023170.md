@@ -12,4 +12,4 @@ Utredaren ska bland annat
 * föreslå åtgärder som särskilt underlättar för mikroföretag med diversifierad verksamhet i livsmedelskedjan
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 31 mars 2025\.
+Uppdraget ska redovisas senast den 31 mars 2025.

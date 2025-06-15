@@ -6,4 +6,4 @@ Avtalet om utbyte av upplysningar i skatteärenden utgör ett viktigt steg i reg
 
 Lagen föreslås träda i kraft den dag som regeringen bestämmer.
 
-Dessutom föreslås rättelser i mervärdesskattelagen (1994:200\) och i övergångsbestämmelserna till lagen (2014:1493\) om ändring i lagen (1994:1551\) om frihet från skatt vid import, m.m. Dessa lagändringar föreslås träda i kraft den 1 juni 2015\.
+Dessutom föreslås rättelser i mervärdesskattelagen (1994:200) och i övergångsbestämmelserna till lagen (2014:1493) om ändring i lagen (1994:1551) om frihet från skatt vid import, m.m. Dessa lagändringar föreslås träda i kraft den 1 juni 2015.

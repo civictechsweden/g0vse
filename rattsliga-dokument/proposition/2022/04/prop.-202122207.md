@@ -11,8 +11,8 @@ fastigheten eller för samma hänsyn. Regeringen bedömer att uppgifter om avsla
 
 I propositionen Stärkt äganderätt, flexibla skyddsformer och ökade
 incitament för naturvården i skogen med frivillighet som grund (prop.
-2021/22:58\) bedömer regeringen att det i många fall, både för staten och markägaren, kan vara effektivare att med frivillighet som grund vidta förebyggande åtgärder för att bevara värdefulla fjällnära skogar än att reaktivt ersätta intrång i pågående markanvändning vid nekat tillstånd till avverkning. Regeringen tydliggör nu att arbetssätt och incitament bör utvecklas för att öka attraktiviteten för formellt skydd som alternativ till tillståndsansökningar.
+2021/22:58) bedömer regeringen att det i många fall, både för staten och markägaren, kan vara effektivare att med frivillighet som grund vidta förebyggande åtgärder för att bevara värdefulla fjällnära skogar än att reaktivt ersätta intrång i pågående markanvändning vid nekat tillstånd till avverkning. Regeringen tydliggör nu att arbetssätt och incitament bör utvecklas för att öka attraktiviteten för formellt skydd som alternativ till tillståndsansökningar.
 
 Utöver bestämmelser som rör rätten till ersättning föreslår regeringen att det ska tydliggöras att tillstånd till avverkning i fjällnära skog ska gälla i fem år och att det införs en möjlighet att meddela föreskrifter som medger undantag från kravet på tillstånd vid angrepp av växtskadegörare.
 
-Lagändringarna föreslås träda i kraft den 1 september 2022\.
+Lagändringarna föreslås träda i kraft den 1 september 2022.

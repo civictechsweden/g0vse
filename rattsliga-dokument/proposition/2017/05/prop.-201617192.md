@@ -11,4 +11,4 @@ kollektivavtalsstiftelserna. Det föreslås att avgifter som betalas av
 arbetsgivare till kollektivavtalsstiftelser inte ska beaktas vid tillämpning
 av fullföljdskravet.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2018\.
+Lagändringarna föreslås träda i kraft den 1 januari 2018.

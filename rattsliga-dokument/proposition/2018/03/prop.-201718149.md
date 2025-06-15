@@ -12,4 +12,4 @@ Den nya lagen innehåller förslag som innebär att kommunernas och
 landstingens årsredovisning får fler delar. Bestämmelser om vissa grundläggande redovisningsprinciper, exempelvis principen om rättvisande bild, lagfästs för att ge tydligare vägledning till såväl normgivande organ som kommuner och landsting.
 
 Den nya lagen om kommunal bokföring och redovisning föreslås träda
-i kraft den 1 januari 2019\.
+i kraft den 1 januari 2019.

@@ -11,4 +11,4 @@ Utredaren ska bland annat
 * analysera konsekvenserna av utredarens förslag för behörighet och urval till högskoleutbildning och yrkeshögskolans utbildningar, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 30 november 2019\.
+Uppdraget ska redovisas senast den 30 november 2019.

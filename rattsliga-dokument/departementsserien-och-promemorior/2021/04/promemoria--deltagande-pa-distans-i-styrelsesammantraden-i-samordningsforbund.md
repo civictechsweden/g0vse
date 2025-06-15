@@ -4,4 +4,4 @@ Socialdepartementet föreslår en ändring i lagen om finansiell samordning av r
 
 Det innebär att lagen om finansiell samordning av rehabiliteringsinsatser till stor del harmonieras med bestämmelser i kommunallagen i frågan om deltagande i styrelsesammanträden på distans.
 
-Bestämmelsen föreslås träda i kraft den 1 januari 2022\.
+Bestämmelsen föreslås träda i kraft den 1 januari 2022.

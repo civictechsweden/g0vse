@@ -2,7 +2,6 @@
 
 Strax före klockan 7 på morgonen den 25 april landade den evakuerade ambassadpersonalen från Sudan och deras familjemedlemmar på Arlanda där de möttes av utrikesminister Tobias Billström, Sidas generaldirektör Carin Jämtin och ett team från Utrikesdepartementet och Sida. Nu väntar vila och debriefing.
 
-
 ## Personalens hemkomst
 
 Evakueringsresan började i söndags, 23 april, när personalen och deras familjer för första gången på en vecka lämnade sina hem i huvudstaden Khartoum och trots ett osäkert läge tog sig till uppsamlingsplatsen på den franska ambassaden. Efter en tids väntan begav de sig sedan vidare i bussar och bilar, eskorterade av fransk militär, de dryga två milen till flygbasen norr om Khartoum. Planen lyfte från flygbasen under natten och anlände till Djibouti fram på småtimmarna. I Djibouti togs anländande svenskar emot av Utrikesdepartementets (UD) beredskapsstyrka och medarbetare från Myndigheten för samhällsskydd och beredskap (MSB). Efter en natts välbehövlig vila fortsatte sedan resan från Djibouti med reguljära flyg till Stockholm.

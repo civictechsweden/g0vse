@@ -4,5 +4,4 @@ Här kan du ta del av svaren från de som ombetts svara på remissen Naturvårds
 
 Övriga yttranden med anledning av remissen finns tillgängliga i departementet.
 
-
-Remissvaren ska ha kommit in till Miljödepartemenet senast den 30 juni 2020\.
+Remissvaren ska ha kommit in till Miljödepartemenet senast den 30 juni 2020.

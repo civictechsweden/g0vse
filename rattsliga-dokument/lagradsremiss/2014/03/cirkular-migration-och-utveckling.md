@@ -12,4 +12,4 @@ Regeringen ska också kunna meddela föreskrifter om uppehållstillstånd för e
 
 Slutligen föreslås att det ska bli lättare att återvinna ett svenskt medborgarskap. Det nuvarande kravet på hemvist här i landet under sammanlagt tio år ska inte längre behöva vara uppfyllt före 18 års ålder.
 
-Författningsändringarna föreslås träda i kraft den 1 juni 2014\.
+Författningsändringarna föreslås träda i kraft den 1 juni 2014.

@@ -4,4 +4,4 @@ Regeringen föreslår en ny lag om den offentliga sektorns tillgängliggörande 
 
 Lagen ska gälla när en myndighet, ett organ som jämställs med en myndighet eller ett offentligt företag tillgängliggör data för vidareutnyttjande. Det införs bl.a. krav på i vilka format som olika slag av data ska göras tillgängliga. Vidare regleras vad som ska gälla i fråga om tilldelning av exklusiv rätt att vidareutnyttja data samt uttag av avgifter och utformning av villkor när data görs tillgängliga.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2022\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2022.

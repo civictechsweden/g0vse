@@ -4,8 +4,8 @@
 
 Utredningen lämnar flera alternativa förslag. Ett av förslagen innebär att Polismyndigheten ska få vägra tillstånd till en allmän sammankomst om det står klart att sammankomsten är ägnad att medföra en påtaglig fara för att brottslighet som hotar Sveriges säkerhet begås i Sverige eller mot svenska intressen utomlands.
 
-Ett annat förslag innebär begränsningar i mötes\- och demonstrationsfriheterna för utlänningar som har konstaterats utgöra en fara för Sveriges säkerhet eller för allmän säkerhet.
+Ett annat förslag innebär begränsningar i mötes- och demonstrationsfriheterna för utlänningar som har konstaterats utgöra en fara för Sveriges säkerhet eller för allmän säkerhet.
 
 Ytterligare ett förslag som lämnas innebär att det inte införs någon ny vägransgrund med hänsyn till Sveriges säkerhet, men att det införs stärkta möjligheter för Polismyndigheten att besluta om villkor om tid och plats för sammankomsten.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2025\.
+Lagändringarna föreslås träda i kraft den 1 juli 2025.

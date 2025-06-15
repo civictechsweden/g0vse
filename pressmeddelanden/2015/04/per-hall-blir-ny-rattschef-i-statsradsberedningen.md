@@ -1,7 +1,6 @@
 # Per Hall blir ny rättschef i Statsrådsberedningen
 
-Per Hall anställs som rättschef i Statsrådsberedningen. Han kommer att tillträda sin tjänst den 18 maj 2015\.
-
+Per Hall anställs som rättschef i Statsrådsberedningen. Han kommer att tillträda sin tjänst den 18 maj 2015.
 
 – Detta är ett viktigt och spännande uppdrag. Jag ser fram emot att få medverka till att ytterligare höja kvaliteten i lagstiftningen i Regeringskansliet, säger Per Hall.
 

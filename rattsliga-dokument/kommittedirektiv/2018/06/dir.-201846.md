@@ -15,10 +15,10 @@ Utredaren ska bl.a.
 
 * föreslå en definition av idéburna aktörer,
 * kartlägga och analysera olika förfaranden för att utifrån den föreslagna definitionen identifiera idéburna aktörer inom välfärden eller andra närliggande offentligt finansierade eller subventionerade verksamheter,
-* kartlägga och analysera hur icke\-ekonomiska tjänster av allmänt intresse regleras i andra länder inom EES,
-* föreslå riktlinjer, kriterier eller andra tillämpbara instrument för ingående av idéburet offentligt partner\-skap (IOP), i syfte att främja samverkan mellan idé\-burna aktörer och det offentliga, och
+* kartlägga och analysera hur icke-ekonomiska tjänster av allmänt intresse regleras i andra länder inom EES,
+* föreslå riktlinjer, kriterier eller andra tillämpbara instrument för ingående av idéburet offentligt partner-skap (IOP), i syfte att främja samverkan mellan idé-burna aktörer och det offentliga, och
 * lämna nödvändiga författningsförslag.
 
 I uppdraget ingår inte att lämna förslag inom skatteområdet.
 
-Uppdraget ska redovisas senast den 14 december 2019\.
+Uppdraget ska redovisas senast den 14 december 2019.

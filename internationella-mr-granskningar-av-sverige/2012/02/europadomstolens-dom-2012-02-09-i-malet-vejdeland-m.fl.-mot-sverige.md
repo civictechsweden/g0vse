@@ -2,10 +2,9 @@
 
 Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.
 
-
 ## Sammanfattning av domen
 
-Bakgrunden till målet var i korthet följande. I december 2004 distribuerade klagandena flygblad på en gymnasieskola genom att lämna dem i elevernas skåp. Flygbladen var från organisationen Nationell Ungdom och innehöll bl.a. propaganda mot homosexuella. Klagandena fälldes för hets mot folkgrupp av Högsta domstolen i juli 2006\.
+Bakgrunden till målet var i korthet följande. I december 2004 distribuerade klagandena flygblad på en gymnasieskola genom att lämna dem i elevernas skåp. Flygbladen var från organisationen Nationell Ungdom och innehöll bl.a. propaganda mot homosexuella. Klagandena fälldes för hets mot folkgrupp av Högsta domstolen i juli 2006.
 
 Inför Europadomstolen gjorde klagandena gällande att Högsta domstolens dom för hets mot folkgrupp innebar en kränkning av deras yttrandefrihet enligt artikel 10 i Europakonventionen. Klagandena anförde vidare att de hade dömts för ett brott som inte föreskrivits i lag och att detta stred mot artikel 7 i konventionen.
 

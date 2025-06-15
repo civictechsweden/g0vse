@@ -2,7 +2,6 @@
 
 Regeringen ger Jämställdhetsmyndigheten i uppdrag att i dialog med relevanta myndigheter och aktörer genomföra en kvalitativ studie om utrikes födda kvinnor utanför arbetsmarknaden.
 
-
-Syftet med studien är att fylla kunskapsluckor om kvinnornas behov och situation. Studien ska inkludera aspekter som kan utgöra signifikanta hinder för arbetsmarknadsinträde. Jämställdhetsmyndigheten ska redovisa studien till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 31 januari 2023\.
+Syftet med studien är att fylla kunskapsluckor om kvinnornas behov och situation. Studien ska inkludera aspekter som kan utgöra signifikanta hinder för arbetsmarknadsinträde. Jämställdhetsmyndigheten ska redovisa studien till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 31 januari 2023.
 
 Regeringen ger Arbetsförmedlingen, Försäkringskassan, Jämställdhetsmyndigheten, Länsstyrelsen i Västernorrlands län, Migrationsverket och Socialstyrelsen i uppdrag att i samverkan ta fram en myndighetsgemensam plan för att öka utrikes födda kvinnors inträde på arbetsmarknaden. Målgruppen är alla utrikes födda kvinnor, oavsett om de i dag är en del av arbetskraften eller inte, där utrikes födda kvinnor som står långt ifrån arbetsmarknaden är en prioriterad målgrupp. Uppdraget syftar till att öka utrikes födda kvinnors inträde på arbetsmarknaden, genom bl.a. ökad kunskapsöverföring och förbättrad samverkan mellan myndigheter och kommunala, regionala och civila aktörer. Arbetet ska samordnas av Arbetsförmedlingen. I planen ska resultat från ovan nämnda studie om utrikes födda kvinnor utanför arbetsmarknaden beaktas.

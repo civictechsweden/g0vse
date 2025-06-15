@@ -1,6 +1,6 @@
 # Ytterligare tre svenska livsmedelsprodukter får skyddad EU-beteckning
 
-– De skyddade beteckningarna främjar inte bara våra svenska jordbruks\- och livsmedelsprodukter av hög kvalitet utan bidrar också till att bevara produktion och arbetstillfällen på landsbygden och stärka svensk livsmedelsproduktion och besöksnäring i regionerna, säger landsbygdsminister Peter Kullgren.
+– De skyddade beteckningarna främjar inte bara våra svenska jordbruks- och livsmedelsprodukter av hög kvalitet utan bidrar också till att bevara produktion och arbetstillfällen på landsbygden och stärka svensk livsmedelsproduktion och besöksnäring i regionerna, säger landsbygdsminister Peter Kullgren.
 
 Den skyddade beteckningen innebär att produkten måste tillverkas enligt vissa bestämmelser. För Vindelnrökt skinka innebär det att hela produktionsprocessen från saltning till rökning och bitning ska äga rum i det geografiska området Degerfors socken i landskapet Västerbotten enligt vissa traditionella metoder.
 

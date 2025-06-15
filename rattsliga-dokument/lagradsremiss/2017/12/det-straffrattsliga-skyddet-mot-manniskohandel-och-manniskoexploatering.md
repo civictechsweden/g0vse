@@ -14,6 +14,6 @@ Vidare föreslås straffansvar för förstadier till brottet samt lagändringar 
 
 Slutligen föreslås att maximistraffet för **grovt koppleri** ska skärpas till fängelse i tio år.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2018\.
+Lagändringarna föreslås träda i kraft den 1 juli 2018.
 
 [Pressmeddelande: Regeringen skärper straffrätten mot exploatering och människohandel](/pressmeddelanden/2017/12/regeringen-skarper-straffratten-mot-exploatering-och-manniskohandel/)

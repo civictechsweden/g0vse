@@ -6,4 +6,4 @@
 
 Regeringen beviljar Stiftelsen Allmänna Barnhuset sammanlagt en miljon för att vidareutveckla och sprida arbetsmodellerna Skolfam och Förfam. Skolfam är en förebyggande arbetsmodell för att stärka skolresultat för barn i familjehem. Genom arbetssättet samverkar socialtjänst, skola och familjehem med fokus på att stärka barnens skolresultat. Förfam är ett motsvarande koncept för barn i förskolan.
 
-Regeringen beräknar att totalt 4 miljoner kronor kommer att avsättas för projekten för 2025, och 4 miljoner för 2026\.
+Regeringen beräknar att totalt 4 miljoner kronor kommer att avsättas för projekten för 2025, och 4 miljoner för 2026.

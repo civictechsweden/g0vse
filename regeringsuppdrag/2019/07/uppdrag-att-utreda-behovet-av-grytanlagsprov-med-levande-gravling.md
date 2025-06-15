@@ -4,4 +4,4 @@ Naturvårdverket och Statens jordbruksverk (Jordbruksverket) ska tillsammans och
 
 Synpunkter och erfarenheter ska inhämtas från andra berörda myndigheter, universitet och högskolor och intresseorganisationer. En bedömning av grävlingarnas lidande vid proven ska vid behov inhämtas från Sveriges lantbruksuniversitets vetenskapliga råd för djurskyddsfrågor.
 
-Uppdraget ska samordnas av Naturvårdsverket och redovisas till Regeringskansliet (Näringsdepartementet) senast den 1 juli 2020\.
+Uppdraget ska samordnas av Naturvårdsverket och redovisas till Regeringskansliet (Näringsdepartementet) senast den 1 juli 2020.

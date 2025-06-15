@@ -1,3 +1,3 @@
-# Pressträff om nytt uppdrag till Konsumentverket
+# Pressträff om nytt uppdrag till Konsumentverket om telefonförsäljning
 
 

@@ -12,4 +12,4 @@ Delegationen ska nu även bl.a.
 
 Enligt de ursprungliga direktiven ska delegationen vid behov lämna författningsförslag. Samma sak gäller uppdragen i dessa tilläggsdirektiv.
 
-Uppdraget i de ursprungliga direktiven om att delegationen ska utarbeta en metod för kontinuerlig uppföljning av arbetslivskriminalitetens utveckling ändras nu på så sätt att delegationen ska ge förslag på en myndighet, ett organ eller en annan aktör som kan utföra denna del av uppdraget. Det uppdraget ska redovisas senast den 20 juni 2024, i form av en promemoria. Uppdraget ska i övrigt redovisas i samband med delegationens slutredovisning den 28 februari 2025\.
+Uppdraget i de ursprungliga direktiven om att delegationen ska utarbeta en metod för kontinuerlig uppföljning av arbetslivskriminalitetens utveckling ändras nu på så sätt att delegationen ska ge förslag på en myndighet, ett organ eller en annan aktör som kan utföra denna del av uppdraget. Det uppdraget ska redovisas senast den 20 juni 2024, i form av en promemoria. Uppdraget ska i övrigt redovisas i samband med delegationens slutredovisning den 28 februari 2025.

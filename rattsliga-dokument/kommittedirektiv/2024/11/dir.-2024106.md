@@ -4,4 +4,4 @@ Utredaren får nu även i uppdrag att se över vilka förutsättningar som ska g
 
 Syftet är att förbättra Arbetsförmedlingens förutsättningar att på ett effektivt och rättssäkert sätt säkerställa att stöd inom den arbetsmarknadspolitiska verksamheten lämnas för avsett ändamål.
 
-Utredningstiden ligger fast. Uppdraget ska alltså redovisas senast den 13 juni 2025\.
+Utredningstiden ligger fast. Uppdraget ska alltså redovisas senast den 13 juni 2025.

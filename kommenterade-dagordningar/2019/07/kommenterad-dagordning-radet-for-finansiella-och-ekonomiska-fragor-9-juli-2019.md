@@ -6,4 +6,4 @@ På Ekofinrådets möte den 9 juli 2019 finns följande punkter på dagordningen
 * Presentation av ordförandeskapets arbetsprogram
 * Europeiska terminen: Landsspecifika rekommendationer
 * (ev). Rådets beslut/rekommendationer om genomförandet av
-stabilitets\- och tillväxtpakten
+  stabilitets- och tillväxtpakten

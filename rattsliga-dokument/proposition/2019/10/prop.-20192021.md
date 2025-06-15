@@ -4,4 +4,4 @@ Regeringen föreslår att det lägsta tillåtna aktiekapitalet i privata aktiebo
 
 Propositionen bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.
 
-Lagändringen föreslås träda i kraft den 1 januari 2020\.
+Lagändringen föreslås träda i kraft den 1 januari 2020.

@@ -9,4 +9,4 @@ En parlamentariskt sammansatt kommitté ska analysera vissa frågor om insyn i p
 
 Kommittén ska föreslå de författningsändringar som den finner motiverade och är oförhindrad att ta upp sådana närliggande frågor som har samband med de frågeställningar som ska utredas. Om kommittén bedömer att det är lämpligt får den lämna ett eller flera delbetänkanden.
 
-Uppdraget ska redovisas slutligt senast den 30 april 2016\.
+Uppdraget ska redovisas slutligt senast den 30 april 2016.

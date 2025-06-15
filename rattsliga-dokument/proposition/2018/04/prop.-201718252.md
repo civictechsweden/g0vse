@@ -17,4 +17,4 @@ Propositionen innehåller också förslag om att anpassa bestämmelserna om uppe
 
 Regeringen föreslår även ändrade utgiftsramar och anslag för 2018 till följd av lagförslagen.
 
-Ändringarna i lagen om tillfälliga begränsningar av möjligheten att få uppehållstillstånd i Sverige föreslås träda i kraft den 1 juli 2018\.
+Ändringarna i lagen om tillfälliga begränsningar av möjligheten att få uppehållstillstånd i Sverige föreslås träda i kraft den 1 juli 2018.

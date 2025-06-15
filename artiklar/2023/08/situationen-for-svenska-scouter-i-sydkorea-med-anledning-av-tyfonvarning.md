@@ -2,7 +2,6 @@
 
 Varningar om en kommande tyfon tvingar samtliga scouter som deltar vid det internationella scoutlägret i Sydkorea att förflyttas. På plats finns omkring 2100 svenska scouter som nu behöver omlokaliseras. Utrikesminister Tobias Billström har haft direktkontakt med sin sydkoreanske motpart Park Jin och Sveriges ambassad i Seoul har bistått de svenska scouterna i frågor av konsulär karaktär.
 
-
 – Jag har följt situationen vid Världsscoutjamboreen i Sydkorea nära. Situationen vid lägret har varit tuff, men jag har förstått att de svenska scouterna visat gott mod, dådkraft och scoutanda, säger utrikesminister Tobias Billström, som själv har varit aktiv i scouterna.
 
 – Med tanke på att jag själv varit med i scouterna så kan jag säga att jag respekterar alla ansträngningar som ledare och volontärer gjort under dessa dagar. Jag vet att det läggs både privata semestrar och flera års planering på att göra detta möjligt och jag förstår besvikelsen över de många problem som uppstått, säger utrikesministern.

@@ -6,8 +6,8 @@ Ministern kommer även att besöka en havsvindpark för samtal om hur havsbasera
 
 ## Program
 
-14\.40 Talar vid ministersessionen under konferensen Wind Europe
+14.40 Talar vid ministersessionen under konferensen Wind Europe
 
-15\.30 Besöker Ørsteds havsvindpark Avedøre
+15.30 Besöker Ørsteds havsvindpark Avedøre
 
 För mer information kontakta presschef Mia Widell.

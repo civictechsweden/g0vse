@@ -8,4 +8,4 @@ I juli 2023 fick därför en särskild utredare i uppdrag att överväga och fö
 
 Utredaren ska också föreslå en ny påföljd – utvidgad ungdoms­övervakning – som är mer ingripande och innefattar en utvidgad verktygslåda med fler kontrollmöjligheter samt överväga om den befintliga påföljden, ungdomsövervakning, bör förstärkas.
 
-Enligt de ursprungliga direktiven skulle hela uppdraget redovisas senast den 10 januari 2025\. Utredningstiden för den del av uppdraget som handlar om skärpt ungdomsövervakning ska nu i stället redovisas i ett delbetänkande redan den 3 juni 2024\. Utredningstiden i övrigt ligger fast.
+Enligt de ursprungliga direktiven skulle hela uppdraget redovisas senast den 10 januari 2025. Utredningstiden för den del av uppdraget som handlar om skärpt ungdomsövervakning ska nu i stället redovisas i ett delbetänkande redan den 3 juni 2024. Utredningstiden i övrigt ligger fast.

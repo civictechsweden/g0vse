@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om stabilitetsfonden
 
-I skrivelsen redovisar regeringen sin bedömning av de iakttagelser som Riksrevisionen har gjort i sin granskningsrapport Stabilitetsfonden \- Gör den skäl för namnet? (RiR 2011:26\).
+I skrivelsen redovisar regeringen sin bedömning av de iakttagelser som Riksrevisionen har gjort i sin granskningsrapport Stabilitetsfonden - Gör den skäl för namnet? (RiR 2011:26).
 
 Regeringen instämmer delvis i Riksrevisionens iakttagelser. Detta gäller framför allt slutsatsen om att utformningen av den nuvarande målnivån kan behöva modifieras. Riksrevisionens rekommendation i denna del är dock i allt väsentligt under utredning av Finanskriskommittén. Regeringen kommer inleda en översyn av om det finns anledning att återkomma till riksdagen med förslag om att placera de ersättningar och avgifter som inbetalas till stabilitetsfonden på ett annat sätt än på ett räntebärande konto i Riksgäldskontoret.
 

@@ -6,6 +6,6 @@ Det blir allt vanligare att makar eller sambor har anknytning till ett annat lan
 
 EU har inom ramen för ett fördjupat samarbete antagit två förordningar om makars och registrerade partners förmögenhetsförhållanden. Förordningarna skapar ett gemensamt regelverk när det gäller i vilket land eller enligt vilket lands lag en bodelning eller någon annan fråga om makars eller registrerade partners förmögenhetsförhållanden ska prövas. De innehåller också regler om äktenskapsförord och lagvalsavtal samt erkännande och verkställighet av avgöranden som har meddelats i en annan medlemsstat. För att förordningarna ska fungera i praktiken föreslår regeringen kompletterande bestämmelser till förordningarna.
 
-Regeringen föreslår en ny lag som samlar de internationellt privat\- och processrättsliga reglerna om makars och sambors förmögenhetsförhållanden och som ersätter tidigare regler på området.
+Regeringen föreslår en ny lag som samlar de internationellt privat- och processrättsliga reglerna om makars och sambors förmögenhetsförhållanden och som ersätter tidigare regler på området.
 
-Den nya lagen och lagändringarna föreslås träda i kraft den 1 maj 2019\.
+Den nya lagen och lagändringarna föreslås träda i kraft den 1 maj 2019.

@@ -2,8 +2,7 @@
 
 Debattartikel av justitieminister Gunnar Strömmer. Expressen den 2 oktober 2024
 
-
-Den organiserade brottsligheten är en av vår tids största samhällsproblem. Den innebär enorma trygghets\- och integritetsförluster för de som drabbas. Samtidigt riskerar viktiga samhällsvärden att gå förlorade. Regeringens plan ligger därför fast: Vi ska slå hårt mot gängens grova våld, strypa den kriminella ekonomin och bryta rekryteringen av barn och unga in i gängen.
+Den organiserade brottsligheten är en av vår tids största samhällsproblem. Den innebär enorma trygghets- och integritetsförluster för de som drabbas. Samtidigt riskerar viktiga samhällsvärden att gå förlorade. Regeringens plan ligger därför fast: Vi ska slå hårt mot gängens grova våld, strypa den kriminella ekonomin och bryta rekryteringen av barn och unga in i gängen.
 
 I Sverige beräknas den kriminella ekonomin omsätta 100–150 miljarder kronor – varje år. Det är pengar som bland annat kommer från narkotikaförsäljning och omfattande bedrägerier riktade mot våra äldre och våra välfärdssystem, och som göder de kriminella nätverken. För att sätta stopp för den organiserade brottsligheten måste vi därför strypa den kriminella ekonomin.
 

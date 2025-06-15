@@ -11,6 +11,6 @@ Utredaren får därför i uppdrag att analysera och ta ställning till:
 * om försök och stämpling till vilseledande till äktenskapsresa samt tvång att vara kvar i ett äktenskap bör kriminaliseras, och
 * om förbudet mot erkännande av utländska månggiften bör gälla utan undantag och reglerna om erkännande av utländska fullmaktsäktenskap bör skärpas.
 
-Uppdraget ska redovisas senast den 18 april 2025\.
+Uppdraget ska redovisas senast den 18 april 2025.
 
 Uppdraget bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

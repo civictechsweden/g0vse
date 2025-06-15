@@ -17,6 +17,6 @@ Utredaren ska bland annat
 * analysera om man bör införa ett utökat undantag från tillståndsplikten för kameraövervakning av allmänna transportmedel och stationer, och
 * lämna de författningsförslag som bedöms lämpliga.
 
-Uppdraget att föreslå åtgärder som kan underlätta kameraövervakning i brottsbekämpande syfte ska redovisas senast den 15 augusti 2018 och uppdraget att analysera möjligheterna till ett utökat undantag från tillståndsplikten för kameraövervakning av allmänna transportmedel och stationer ska redovisas senast den 15 februari 2019\.
+Uppdraget att föreslå åtgärder som kan underlätta kameraövervakning i brottsbekämpande syfte ska redovisas senast den 15 augusti 2018 och uppdraget att analysera möjligheterna till ett utökat undantag från tillståndsplikten för kameraövervakning av allmänna transportmedel och stationer ska redovisas senast den 15 februari 2019.
 
 [Pressmeddelande: Det ska bli enklare för brottsbekämpande myndigheter att kameraövervaka](/pressmeddelanden/2017/12/det-ska-bli-enklare-for-brottsbekampande-myndigheter-att-kameraovervaka/)

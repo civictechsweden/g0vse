@@ -7,11 +7,11 @@ Utvärderingen ska omfatta Sveriges internationella arbete liksom sådana initia
 Utredaren ska bl.a.
 
 * kartlägga svenska aktörers insatser för en ansvarsfull och minskad
-antibiotikaanvändning inom djurhållningen globalt,
+  antibiotikaanvändning inom djurhållningen globalt,
 * analysera insatsernas effektivitet och bedöma vilka initiativ som kan få
-störst utväxling i förhållande till insatta medel och resurser, och
+  störst utväxling i förhållande till insatta medel och resurser, och
 * lämna förslag till åtgärder som generellt skulle kunna effektivisera och
-utveckla Sveriges arbete ytterligare för en ansvarsfull och minskad
-antibiotikaanvändning inom djurhållningen globalt.
+  utveckla Sveriges arbete ytterligare för en ansvarsfull och minskad
+  antibiotikaanvändning inom djurhållningen globalt.
 
-Uppdraget ska redovisas senast den 30 juni 2022\.
+Uppdraget ska redovisas senast den 30 juni 2022.

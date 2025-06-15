@@ -4,4 +4,4 @@ Civilministern kommer delta vid invigningen i Järfälla tillsammans med general
 
 Vid servicekontoren kan besökare få vägledning och hjälp med ärenden till Arbetsförmedlingen, Skatteverket, Pensionsmyndigheten och Försäkringskassan.
 
-Programmet inleds klockan 11:00 och det finns tid för media klockan 11:45\. Kontakta civilministerns presskontakt vid medieförfrågningar.
+Programmet inleds klockan 11:00 och det finns tid för media klockan 11:45. Kontakta civilministerns presskontakt vid medieförfrågningar.

@@ -4,4 +4,4 @@
 
 I uppdragets åtgärder för att öka användningen av AI inom socialtjänstens verksamhet ska detta ske med hänsyn till de bestämmelser som reglerar socialtjänsten. Under genomförandet av uppdraget ska myndigheterna tillsammans med Sveriges Kommuner och Regioner (SKR) föra dialog med ett urval av kommuner.
 
-I uppdraget framgår att myndigheterna i de kompetenshöjande insatserna bör utgå från befintliga lösningar som förenklar informationsutbyte och enhetlighet i hantering av socialtjänstens verksamhet. Redovisning av uppdraget ska ske till Regeringskansliet (Finansdepartementet) senast den 23 januari 2024\.
+I uppdraget framgår att myndigheterna i de kompetenshöjande insatserna bör utgå från befintliga lösningar som förenklar informationsutbyte och enhetlighet i hantering av socialtjänstens verksamhet. Redovisning av uppdraget ska ske till Regeringskansliet (Finansdepartementet) senast den 23 januari 2024.

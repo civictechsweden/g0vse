@@ -2,8 +2,7 @@
 
 Den 25 juni gjorde kulturministern ett verksamhetsbesök hos Försvarsmusiken, som tillgodoser Försvarsmaktens, Hovets och regeringens behov av musik vid olika högtidliga tillfällen och ceremonier i Sverige.
 
-
-Försvarsmusikens historia sträcker sig tillbaka hela vägen till 1500\-talet och den dåvarande kungen Gustav Vasa som införde Försvarsmusiken genom att anställa en flöjtist och en trumslagare hos sina drabanter år 1526\.
+Försvarsmusikens historia sträcker sig tillbaka hela vägen till 1500-talet och den dåvarande kungen Gustav Vasa som införde Försvarsmusiken genom att anställa en flöjtist och en trumslagare hos sina drabanter år 1526.
 
 Idag har Försvarsmusiken tre professionella, heltidsanställda musikkårer, Arméns musikkår, Livgardets dragonmusikkår och Marinens musikkår. Försvarsmusiken organiserar även Hemvärnets 25 musikkårer som finns spridda runt om i landet. Utöver dessa finns även Marinens ungdomsmusikkår Kronan och Kungl. Svea livgardes Fältpiparkår.
 

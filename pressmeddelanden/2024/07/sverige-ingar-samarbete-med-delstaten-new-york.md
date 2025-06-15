@@ -2,7 +2,7 @@
 
 – Avtalet med delstaten New York stärker samarbetet på försvarsområdet mellan Sverige och USA ytterligare. Det bidrar till ökat utbyte mellan Försvarsmakten och New Yorks nationalgarde, vilket ökar försvarsförmågan, säger försvarsminister Pål Jonson.
 
-I april 2023 ansökte den svenska regeringen om att nomineras till SPP\-samarbetet, och USA:s försvarsminister fattade i juni 2024 beslut om att Sverige ska erbjudas samarbete med New York.
+I april 2023 ansökte den svenska regeringen om att nomineras till SPP-samarbetet, och USA:s försvarsminister fattade i juni 2024 beslut om att Sverige ska erbjudas samarbete med New York.
 
 Den 12 juli undertecknades en avsiktsförklaring om samarbete av Marcos Soler, biträdande chef med ansvar för allmän säkerhet i delstaten New York, samt generalmajor Raymond F Shields, och försvarsminister Pål Jonson samt generalmajor Johan Pekkari. Undertecknandet skedde i One World Trade Center i New York.
 

@@ -2,7 +2,6 @@
 
 EU:s transportråd kom 7 juni överens om inriktningar för nya regler om konkurrens inom luftfarten, hantering av fartygsavfall och system för vägtullar. Även sociala villkor för förare var uppe för diskussion.
 
-
 ## Luftfart, sjöfart och landtransporter
 
 EU:s medlemsländer enades om förslaget till förordning om skydd av konkurrensen inom luftfarten. Förslaget syftar till att säkerställa rättvis konkurrens mellan flygbolag i EU:s medlemsländer och flygbolag från länder utanför EU.
@@ -13,6 +12,6 @@ Rådet enades också om ett förslag till uppdaterade bestämmelser om det gemen
 
 ## Sociala villkor för förare
 
-Medlemsländernas representanter diskuterade ett antal förslag om sociala villkor för förare. Dessa förslag innehåller bland annat nya bestämmelser om förares arbetsvillkor som kör\- och vilotider särskilda utstationeringsregler.
+Medlemsländernas representanter diskuterade ett antal förslag om sociala villkor för förare. Dessa förslag innehåller bland annat nya bestämmelser om förares arbetsvillkor som kör- och vilotider särskilda utstationeringsregler.
 
 Mattias Landgren, statssekreterare hos infrastrukturminister Tomas Eneroth, representerade Sverige på mötet i Luxemburg.

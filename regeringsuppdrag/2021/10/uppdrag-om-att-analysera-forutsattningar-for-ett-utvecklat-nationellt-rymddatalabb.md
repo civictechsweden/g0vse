@@ -9,4 +9,4 @@ Institutes of Sweden AB (RISE) och Luleå tekniska universitet som syftar till a
 
 Rymdstyrelsen ska analysera och undersöka hur ett utvecklat nationellt rymddatalabb skulle kunna främja samhällets digitalisering med särskilt fokus på dess betydelse för genomförandet av insatser inom den europeiska datastrategin inklusive överväganden i förhållande till utlysningar om europeiska gemensamma datautrymmen. Analysen bör bland annat omfatta tillämpningsområdena precisionsjordbruk och skogsbruk samt övervakning och kontroll inom den gemensamma jordbrukspolitiken. Förutsättningar för ett gemensamt och standardiserat gränssnitt för att interagera med data i ett federerat system ska ingå i analysen.
 
-Rymdstyrelsen ska redovisa uppdraget till Regeringskansliet (Infrastrukturdepartementet) senast den 1 mars 2022\.
+Rymdstyrelsen ska redovisa uppdraget till Regeringskansliet (Infrastrukturdepartementet) senast den 1 mars 2022.

@@ -2,10 +2,9 @@
 
 Regeringen ger i budgetpropositionen för 2024 en rad förslag inom politikområdet Socialtjänst. Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-
 ## Omfattande satsning på Statens institutionsstyrelse (SiS)
 
-Regeringen ser stora behov av att satsa på stärkt trygghet, säkerhet och kapacitet vid SiS. Därför föreslår regeringen nu i budgetpropositionen att anslaget till myndigheten ökas med 145 miljoner kronor 2024, 153 miljoner kronor 2025 och 156 miljoner kronor 2026\.
+Regeringen ser stora behov av att satsa på stärkt trygghet, säkerhet och kapacitet vid SiS. Därför föreslår regeringen nu i budgetpropositionen att anslaget till myndigheten ökas med 145 miljoner kronor 2024, 153 miljoner kronor 2025 och 156 miljoner kronor 2026.
 
 [Pressmeddelande: Omfattande satsning på Statens institutionsstyrelse (SiS)](/pressmeddelanden/2023/09/omfattande-satsning-pa-statens-institutionsstyrelse-sis/)
 

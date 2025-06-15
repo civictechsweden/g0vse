@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Försäkringskassan att analysera behovet av ändringar i lagen om finansiell samordning av rehabiliteringsinsatser och lämna författningsförslag om ändringar bedöms motiverade för att uppnå en ändamålsenlig resursanvändning och ett effektivt stöd för personer som har behov av samordnade rehabiliteringsinsatser för att komma i arbete.
 
-
 Försäkringskassan ska bland annat:
 
 * genomföra uppdraget i samråd med Arbetsförmedlingen, Socialstyrelsen och Sveriges Kommuner och Regioner (SKR),

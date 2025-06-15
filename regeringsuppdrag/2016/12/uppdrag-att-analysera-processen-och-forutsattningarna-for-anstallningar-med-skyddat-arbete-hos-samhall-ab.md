@@ -1,7 +1,6 @@
 # Uppdrag att analysera processen och förutsättningarna för anställningar med skyddat arbete hos Samhall AB
 
-Regeringen uppdrar till Statskontoret att kartlägga och analysera bland annat Arbetsförmedlingens process och styrning av anvisningar till skyddat arbete hos Samhall AB. Uppdraget ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 26 maj 2017\.
-
+Regeringen uppdrar till Statskontoret att kartlägga och analysera bland annat Arbetsförmedlingens process och styrning av anvisningar till skyddat arbete hos Samhall AB. Uppdraget ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 26 maj 2017.
 
 Regeringen uppdrar till Statskontoret att kartlägga och analysera:
 
@@ -10,4 +9,4 @@ Regeringen uppdrar till Statskontoret att kartlägga och analysera:
 * hur Samhalls insatser och verksamhet påverkar vilka som kan anvisas till skyddat arbete, och
 * den pågående satsningen på utvecklingsanställningar vid Samhall i förhållande till syftet att skapa goda förutsättningar för att personer ska kunna utveckla sin arbetsförmåga.
 
-Statskontoret ska löpande hålla Regeringskansliet (Arbetsmarknads\-departementet och Näringsdepartementet) informerat om hur arbetet fortskrider. Uppdraget ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 26 maj 2017\.
+Statskontoret ska löpande hålla Regeringskansliet (Arbetsmarknads-departementet och Näringsdepartementet) informerat om hur arbetet fortskrider. Uppdraget ska redovisas till Regeringskansliet (Arbetsmarknadsdepartementet) senast den 26 maj 2017.

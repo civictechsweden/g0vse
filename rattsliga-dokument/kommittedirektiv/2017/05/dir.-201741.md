@@ -13,4 +13,4 @@ En särskild utredare ska studera dessa frågor och föreslå åtgärder om så 
 
 Utredaren ska även se över möjligheten och behovet av lönestöd till en befintlig arbetsgivare som har fullgjort sitt rehabiliteringsansvar för en arbetstagare vars arbetsförmåga har försämrats under pågående anställning.
 
-Uppdraget ska redovisas senast den 15 mars 2018\.
+Uppdraget ska redovisas senast den 15 mars 2018.

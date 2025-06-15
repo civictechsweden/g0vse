@@ -2,7 +2,7 @@
 
 En särskild utredare ska föreslå hur ett nationellt centrum för samling och spridning av kunskap och forskningsresultat om arbetsmiljö och för utvärdering av arbetsmiljöpolitik bör inrättas och utformas.
 
-Utredaren ska i sitt arbete beakta de analyser och förslag som lämnats av Arbetsmiljöpolitiska kunskapsrådet (SOU 2011:60\) och Pensionsåldersutredningen (SOU 2013:25\).
+Utredaren ska i sitt arbete beakta de analyser och förslag som lämnats av Arbetsmiljöpolitiska kunskapsrådet (SOU 2011:60) och Pensionsåldersutredningen (SOU 2013:25).
 
 Utredaren ska bland annat lämna förslag om
 
@@ -14,4 +14,4 @@ Utredaren ska bland annat lämna förslag om
 
 Förslagen ska lämnas så att verksamheten inordnas i befintlig myndighet eller befintligt lärosäte och det kan ske inom ramen för befintliga resurser inom området.
 
-Uppdraget ska redovisas senast den 3 oktober 2016\.
+Uppdraget ska redovisas senast den 3 oktober 2016.

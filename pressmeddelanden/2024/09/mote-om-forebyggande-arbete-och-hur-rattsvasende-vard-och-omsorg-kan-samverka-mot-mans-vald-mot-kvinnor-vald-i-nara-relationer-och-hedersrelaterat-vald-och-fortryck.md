@@ -1,6 +1,6 @@
 # Möte om förebyggande arbete och hur rättsväsende, vård och omsorg kan samverka mot mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck
 
-– Arbetet mot mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck är högt prioriterat av regeringen. Att följa upp det pågående arbetet och identifiera vad vi behöver göra annorlunda är en viktig del i det arbetet, säger arbetslivs\- och jämställdhetsminister Paulina Brandberg.
+– Arbetet mot mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck är högt prioriterat av regeringen. Att följa upp det pågående arbetet och identifiera vad vi behöver göra annorlunda är en viktig del i det arbetet, säger arbetslivs- och jämställdhetsminister Paulina Brandberg.
 
 – Vi vet att våldsutsatta och våldsutövare ofta har haft omfattande kontakter med olika samhällsaktörer innan brott begås. Genom en effektiv samverkan kan fler brott förhindras. Dagens möte är viktigt för att öka det gemensamma trycket i det arbetet. Jag ser fram emot att ta del av myndigheternas och civilsamhällets insikter och erfarenheter, säger justitieminister Gunnar Strömmer.
 

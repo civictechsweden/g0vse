@@ -5,6 +5,6 @@ I propositionen föreslås att riksdagen godkänner ett protokoll undertecknat d
 Genom protokollet införs de ändringar i skatteavtalet mellan Sverige
 samt Storbritannien och Nordirland som följer av den multilaterala
 konvention som Sverige undertecknade den 7 juni 2017 (se prop.
-2017/18:61\). Detta innebär att bl.a. att de minimistandarder på skatteavtalsområdet som tagits fram inom ramen för OECD/G20:s projekt för att motverka skattebaserosion och flyttning av vinster införs i skatteavtalet.
+2017/18:61). Detta innebär att bl.a. att de minimistandarder på skatteavtalsområdet som tagits fram inom ramen för OECD/G20:s projekt för att motverka skattebaserosion och flyttning av vinster införs i skatteavtalet.
 
 De nya bestämmelserna träder i kraft den dag regeringen bestämmer.

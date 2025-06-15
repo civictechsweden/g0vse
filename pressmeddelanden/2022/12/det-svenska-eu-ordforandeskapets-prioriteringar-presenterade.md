@@ -2,7 +2,7 @@
 
 – Sverige tar över ordförandeskapsklubban i en tid där unionen står inför historiska utmaningar. Ett grönare, säkrare och friare Europa utgör grundstommen i våra prioriteringar, säger statsminister Ulf Kristersson.
 
-– Den här regeringen kommer att prioritera EU\-arbetet högt. Det ligger i Sveriges intresse att hålla ihop EU och driva på i frågor där det krävs gemensamma lösningar, säger EU\-minister Jessika Roswall.
+– Den här regeringen kommer att prioritera EU-arbetet högt. Det ligger i Sveriges intresse att hålla ihop EU och driva på i frågor där det krävs gemensamma lösningar, säger EU-minister Jessika Roswall.
 
 ## Det svenska ordförandeskapets fyra prioriteringar
 
@@ -29,6 +29,6 @@ Totalt rör det sig om cirka 2000 möten i Bryssel och Luxemburg och cirka 150 m
 
 ## Ordförandeskapets webbplats och logotyp
 
-I samband med statsministerns presentation i riksdagen lanserades även ordförandeskapets officiella webbplats www.sweden2023\.eu och visuella identitet.
+I samband med statsministerns presentation i riksdagen lanserades även ordförandeskapets officiella webbplats www.sweden2023.eu och visuella identitet.
 
-Ta del av mer information om det svenska ordförandeskapet på www.sweden2023\.eu och prenumerera på utskick från ordförandeskapswebben.
+Ta del av mer information om det svenska ordförandeskapet på www.sweden2023.eu och prenumerera på utskick från ordförandeskapswebben.

@@ -9,4 +9,4 @@ Författningsförslaget ska innebära att:
 * det införs en jobbpremie som ökar det ekonomiska utbytet för den som går från försörjningsstöd till arbete, och
 * den som olovligen vistas i landet, med undantag för akuta nödsituationer, inte får beviljas ekonomiskt bistånd.
 
-Utredningstiden förlängs och ska nu redovisas senast den 14 februari 2025\.
+Utredningstiden förlängs och ska nu redovisas senast den 14 februari 2025.

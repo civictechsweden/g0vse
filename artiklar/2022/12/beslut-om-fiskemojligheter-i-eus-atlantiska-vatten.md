@@ -1,7 +1,6 @@
 # Beslut om fiskemöjligheter i EU:s atlantiska vatten
 
-När EU:s ministrar med ansvar för jordbruks\- och fiskefrågor möttes i Bryssel 11–13 december tog de efter långa förhandlingar ett beslut om fiskekvoter i EU:s atlantiska vatten, Medelhavet och Svarta havet. Därutöver diskuterade de bland annat situationen på jordbruksmarknaden och EU:s djurskyddslagstiftning. Landsbygdsminister Peter Kullgren företrädde Sverige vid mötet.
-
+När EU:s ministrar med ansvar för jordbruks- och fiskefrågor möttes i Bryssel 11–13 december tog de efter långa förhandlingar ett beslut om fiskekvoter i EU:s atlantiska vatten, Medelhavet och Svarta havet. Därutöver diskuterade de bland annat situationen på jordbruksmarknaden och EU:s djurskyddslagstiftning. Landsbygdsminister Peter Kullgren företrädde Sverige vid mötet.
 
 ## Fiskemöjligheter i EU:s vatten
 
@@ -9,7 +8,7 @@ Vid mötet nådde ministrarna en politisk överenskommelse om 2023 års totala t
 
 Utöver kvoter på till exempel sill, makrill, torsk, kolja, rödspätta, räkor och annan i svensk handel vanlig fisk innehåller överenskommelsen även en förbudsperiod för fiske av ål i marina vatten och i kustområden.
 
-Läs mer om beslutet om fiskemöjligheter här: [Uttalande från Landsbygdsminister Peter Kullgren med anledning av avslutade EU\-förhandlingar om fiskemöjligheter i EU:s atlantiska vatten](/uttalanden/20222/12/uttalande-fran-landsbygdsminister-peter-kullgren-med-anledning-av-avslutade-eu-forhandlingar-fiskemojligheter-i-eus-atlantiska-vatten/)
+Läs mer om beslutet om fiskemöjligheter här: [Uttalande från Landsbygdsminister Peter Kullgren med anledning av avslutade EU-förhandlingar om fiskemöjligheter i EU:s atlantiska vatten](/uttalanden/20222/12/uttalande-fran-landsbygdsminister-peter-kullgren-med-anledning-av-avslutade-eu-forhandlingar-fiskemojligheter-i-eus-atlantiska-vatten/)
 
 ## Situationen på jordbruksmarknaden och EU:s djurskyddslagstiftning
 
@@ -23,8 +22,8 @@ Därutöver diskuterade ministrarna kommissionens översyn av EU:s djurskyddslag
 
 Det tjeckiska ordförandeskapet informerade om sin framstegsrapport för förhandlingarna om regelverket för geografiska beteckningar och gav en lägesuppdatering om arbetet med förordningen om hållbar användning av växtskyddsmedel.
 
-Vid rådsmötet redogjorde ordförandeskapet även kortfattat för sin konferens på temat ”harmoniserad framsidesmärkning och dess inverkan på hållbar livsmedels\-märkning”. Syftet med konferensen var att belysa temat mot bakgrund av kommissionens planerade översyn av reglerna för livsmedelsinformation.
+Vid rådsmötet redogjorde ordförandeskapet även kortfattat för sin konferens på temat ”harmoniserad framsidesmärkning och dess inverkan på hållbar livsmedels-märkning”. Syftet med konferensen var att belysa temat mot bakgrund av kommissionens planerade översyn av reglerna för livsmedelsinformation.
 
 Landsbygdsminister Peter Kullgren företrädde Sverige vid mötet.
 
-**Producerat av EU\-representationen.**
+**Producerat av EU-representationen.**

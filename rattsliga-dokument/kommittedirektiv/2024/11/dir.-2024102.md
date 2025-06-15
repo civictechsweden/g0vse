@@ -2,6 +2,6 @@
 
 Regeringen förkortar utredningstiden för den del av uppdraget som handlar om att begränsa förskrivning och expediering av vissa läkemedel vid bristsituationer.
 
-Uppdraget, i delen om att begränsa förskrivning och expediering av vissa läkemedel vid bristsituationer, delredovisas den 15 april 2025\.
+Uppdraget, i delen om att begränsa förskrivning och expediering av vissa läkemedel vid bristsituationer, delredovisas den 15 april 2025.
 
-Uppdragets utredningstid i övrigt ligger fast och slutredovisas senast den 12 mars 2026\.
+Uppdragets utredningstid i övrigt ligger fast och slutredovisas senast den 12 mars 2026.

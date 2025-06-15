@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om valförfarandet
 
-I skrivelsen redovisar regeringen sin bedömning av Riksrevisionens iakttagelser och rekommendationer i rapporten Valförfarandet – valhemlighet, träffsäkerhet och godtagbar tid (RiR 2019:35\).
+I skrivelsen redovisar regeringen sin bedömning av Riksrevisionens iakttagelser och rekommendationer i rapporten Valförfarandet – valhemlighet, träffsäkerhet och godtagbar tid (RiR 2019:35).
 
 Riksrevisionens övergripande slutsats är att regeringens och de statliga valmyndigheternas arbete med att genomföra val i huvudsak är ändamålsenligt utformat samtidigt som det finns utrymme för förbättringar i syfte att öka ändamålsenligheten i arbetet. Riksrevisionen menar att arbetet skulle underlättas genom ökad samverkan mellan valmyndigheterna på central, regional och lokal nivå. Vidare menar Riksrevisionen att ett antal problem som iakttagits i granskningen sannolikt skulle kunna undvikas genom ett annat system för valsedlar. Riksrevisionen lyfter också frågan om att öka andelen förtidsröster som räknas i vallokalerna på valnatten i syfte att förbättra träffsäkerheten i de preliminära valresultaten.
 

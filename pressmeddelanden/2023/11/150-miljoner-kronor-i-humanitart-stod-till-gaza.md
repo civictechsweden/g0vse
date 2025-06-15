@@ -1,6 +1,6 @@
 # 150 miljoner kronor i humanitärt stöd till Gaza
 
-– De humanitära behoven i Gaza är oerhört stora. Sveriges stöd går till betrodda humanitära aktörer på plats som bistår hjälpbehövande civila och arbetar i enlighet med de humanitära principerna. Det är nu viktigt att åstadkomma fortsatt, skyndsamt, säkert och obehindrat humanitärt tillträde till Gaza. Samtidigt råder det ingen tvekan om att Sverige står bakom Israels rätt att försvara sig i enlighet med folkrätten och internationell humanitär rätt, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+– De humanitära behoven i Gaza är oerhört stora. Sveriges stöd går till betrodda humanitära aktörer på plats som bistår hjälpbehövande civila och arbetar i enlighet med de humanitära principerna. Det är nu viktigt att åstadkomma fortsatt, skyndsamt, säkert och obehindrat humanitärt tillträde till Gaza. Samtidigt råder det ingen tvekan om att Sverige står bakom Israels rätt att försvara sig i enlighet med folkrätten och internationell humanitär rätt, säger bistånds- och utrikeshandelsminister Johan Forssell.
 
 Det humanitära stödet fördelas till FN:s livsmedelsprogram (WFP), FN:s barnfond (Unicef), FN:s befolkningsfond (UNFPA) och den internationella rödakorsrörelsen, som arbetar på plats i Gaza och står redo att utöka sin verksamhet.
 

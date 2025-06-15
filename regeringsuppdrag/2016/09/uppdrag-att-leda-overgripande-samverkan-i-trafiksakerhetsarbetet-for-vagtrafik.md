@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Trafikverket att sammankalla till, och leda övergripande samverkan i trafiksäkerhetsarbetet som syftar till att uppnå nollvisionen inom vägtrafikområdet.
 
-
 I uppdraget ingår följande delar:
 
 * Sammankalla och föra en dialog med berörda myndigheter och aktörer.

@@ -8,7 +8,7 @@ Under besöket kommer justitieminister Gunnar Strömmer träffa Polismyndigheten
 
 I samband med besöket kommer det finnas tid för media.
 
-**Tid för media**: kl. 11\.45
+**Tid för media**: kl. 11.45
 **Plats**: (Ny plats)  Hamnkontoret, Oceangatan 3, Helsingborg
 
 För mer information och intervjuförfrågningar, kontakta Caroline Opsahl.

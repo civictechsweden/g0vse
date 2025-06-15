@@ -2,7 +2,7 @@
 
 I propositionen redovisas ett nytt filmavtal, 2000 års filmavtal, med en rad förändringar och kraftiga förstärkningar av nuvarande stöd till produktion och visning av svensk film.
 
-1993 års finansieringsavtal för Stiftelsen Svenska Filminstitutet (Filminstitutet) löper ut den 31 december 1999\. Staten, filmbranschen, Sveriges Television AB och TV 4 AB (publ.) har i april 1999 enats om 2000 års filmavtal, som skall träda i kraft den 1 januari 2000 och gälla till och med den 31 december 2004\.
+1993 års finansieringsavtal för Stiftelsen Svenska Filminstitutet (Filminstitutet) löper ut den 31 december 1999. Staten, filmbranschen, Sveriges Television AB och TV 4 AB (publ.) har i april 1999 enats om 2000 års filmavtal, som skall träda i kraft den 1 januari 2000 och gälla till och med den 31 december 2004.
 
 I propositionen föreslås att alla filmpolitiska stöd som hanteras av Filminstitutet skall regleras i 2000 års filmavtal. Därmed upphör den nuvarande uppdelningen mellan å ena sidan stöd till svensk filmproduktion m.m. som finansieras och regleras i 1993 års finansieringsavtal och å andra sidan den filmkulturella och regionala verksamhet som finansieras av staten och som regleras utanför avtalets ramar.
 

@@ -13,4 +13,4 @@ föreslå hur de förslag som lämnas kan följas upp och utvärderas ur ett pat
 föreslå hur abortlagen kan moderniseras språkligt.
 När abortlagen infördes 1975 var abort ett kirurgiskt ingrepp som behövde utföras av läkare på sjukhus eller annan sjukvårdsinrättning. I dag genomförs en klar majoritet av alla aborter med medicinsk metod delvis i hemmet. Utredningen ska bidra till en abortvård som i högre grad är anpassad till den medicinska utvecklingen som gör det möjligt att genomföra medicinska abort i hemmet.
 
-Utredningen ska lämna sitt betänkande senast den 3 februari 2025\.
+Utredningen ska lämna sitt betänkande senast den 3 februari 2025.

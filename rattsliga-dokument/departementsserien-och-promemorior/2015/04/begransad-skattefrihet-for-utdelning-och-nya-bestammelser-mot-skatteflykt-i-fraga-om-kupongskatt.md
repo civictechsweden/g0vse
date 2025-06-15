@@ -6,4 +6,4 @@ För det andra föreslås att tillämpningsområdet för lagen mot skatteflykt u
 
 Slutligen föreslås att förteckningen i inkomstskattelagen över vilka associationsformer som avses i 24 kap. 16 § andra stycket 1 den lagen kompletteras med vissa associationsformer i Polen och i Rumänien. Förslagen är föranledda av ändringar i rådets direktiv 2011/96/EU om ett gemensamt beskattningssystem för moderbolag och dotterbolag hemmahörande i olika medlemsstater.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2016\.
+Lagändringarna föreslås träda i kraft den 1 januari 2016.

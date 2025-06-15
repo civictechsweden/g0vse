@@ -7,6 +7,6 @@ Syftet med utredningen är att klargöra vilka åtgärder som behöver vidtas f�
 Utredaren ska bl.a.
 
 * kartlägga antalet blockuthyrningar, dvs. hyresavtal som omfattar minst tre bostadslägenheter som hyresgästen ska hyra ut i andra hand, och deras omfattning, samt
-* kartlägga och analysera olika sätt att samla in och hålla information om hyresbostäder uppdaterad, bedöma för\- och nackdelar med ett register för hyresbostäder och, om det bedöms motiverat, föreslå hur ett sådant register kan utformas.
+* kartlägga och analysera olika sätt att samla in och hålla information om hyresbostäder uppdaterad, bedöma för- och nackdelar med ett register för hyresbostäder och, om det bedöms motiverat, föreslå hur ett sådant register kan utformas.
 
-Uppdraget ska redovisas senast den 27 oktober 2023\.
+Uppdraget ska redovisas senast den 27 oktober 2023.

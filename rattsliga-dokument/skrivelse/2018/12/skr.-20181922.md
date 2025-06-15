@@ -1,7 +1,7 @@
 # Riksrevisionens rapport om Riksgäldskontorets användning av ränteswappar
 
 Riksrevisionen har i rapporten Riksgäldskontorets användning av
-ränteswappar – motiv, resultat och redovisning (RiR 2018:18\) redovisat granskningen av effektiviteten och redovisningen av Riksgäldskontorets användning av ränteswappar. Användningen av ränteswappar har blivit omfattande och de motiv Riksgäldskontoret har framfört för användningen av ränteswappar har varierat över tiden, liksom sättet att redovisa resultatet av användningen.
+ränteswappar – motiv, resultat och redovisning (RiR 2018:18) redovisat granskningen av effektiviteten och redovisningen av Riksgäldskontorets användning av ränteswappar. Användningen av ränteswappar har blivit omfattande och de motiv Riksgäldskontoret har framfört för användningen av ränteswappar har varierat över tiden, liksom sättet att redovisa resultatet av användningen.
 
 Riksrevisionen har granskat hur användningen av ränteswappar svarar
 mot det övergripande målet för statsskuldsförvaltningen och om

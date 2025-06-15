@@ -6,4 +6,4 @@ De ska inom ramen för etableringsprogrammet i huvudsak ta del av kommunal vuxen
 
 Den sammanhållna utbildningen ska syfta till att ge deltagarna sådana kunskaper som de behöver för att kunna studera vidare eller etablera sig på arbetsmarknaden. Den ska omfatta minst 23 timmars undervisning i veckan i genomsnitt och följa en plan beslutad av hemkommunen. Utbildningsplanen ska innehålla uppgifter om utbildningens syfte, organisation och huvudsakliga innehåll.
 
-I lagrådsremissen lämnas förslag på de ändringar i skollagen (2010:800\) som behövs. Lagändringarna föreslås träda i kraft den 1 augusti 2022\.
+I lagrådsremissen lämnas förslag på de ändringar i skollagen (2010:800) som behövs. Lagändringarna föreslås träda i kraft den 1 augusti 2022.

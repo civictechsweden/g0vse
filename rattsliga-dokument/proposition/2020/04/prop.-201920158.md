@@ -1,6 +1,6 @@
 # Senarelagt införande av nationell läkemedelslista och bastjänstgöring för läkare
 
-Regeringen föreslår att införandet av lagen om nationell läkemedelslista och reformen bastjänstgöring för läkare senareläggs. Detta med anledning av utbrottet av covid\-19\.
+Regeringen föreslår att införandet av lagen om nationell läkemedelslista och reformen bastjänstgöring för läkare senareläggs. Detta med anledning av utbrottet av covid-19.
 
 Regeringen föreslår även att de följdändringar som sedan tidigare beslutats i andra lagar får träda i kraft senare.
 

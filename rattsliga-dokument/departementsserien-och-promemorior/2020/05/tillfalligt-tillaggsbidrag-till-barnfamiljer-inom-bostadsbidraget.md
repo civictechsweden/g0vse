@@ -10,4 +10,4 @@ Socialdepartementet föreslår att tilläggsbidraget lämnas som ett separat bid
 
 Bidraget ingår inte som en del av beräkningen för det ordinarie slutliga bostadsbidraget. Tilläggsbidraget föreslås lämnas till den som tar emot särskilt bidrag för hemmavarande barn, särskilt bidrag för barn som bor växelvis eller umgängesbidrag.
 
-Förslagen bör träda i kraft så snart som möjligt, vilket bedöms vara den 1 juli 2020\.
+Förslagen bör träda i kraft så snart som möjligt, vilket bedöms vara den 1 juli 2020.

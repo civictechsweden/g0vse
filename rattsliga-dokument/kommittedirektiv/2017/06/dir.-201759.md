@@ -20,4 +20,4 @@ Utredaren ska bland annat:
 * analysera konsekvenserna av nu gällande och föreslagna bestämmelser om säkerhet i en konkurssituation
 * lämna nödvändiga författningsförslag.
 
-Utredningen ska redovisas senast den 30 juni 2018\.
+Utredningen ska redovisas senast den 30 juni 2018.

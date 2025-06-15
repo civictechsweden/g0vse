@@ -1,7 +1,6 @@
 # "Nu bekämpar vi den hänsynslösa arbetslivskriminaliteten"
 
-Jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg, debattartikel, Altinget, den 18 april 2024\.
-
+Jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg, debattartikel, Altinget, den 18 april 2024.
 
 Den organiserade brottsligheten har växt sig stark på den svenska arbetsmarknaden. Allt fler exempel upptäcks på hur hänsynslösa kriminella utnyttjar arbetskraft i Sverige. Därför satsar nu regeringen 30 miljoner på träffsäkra kontroller mot arbetslivskriminalitet.
 
@@ -23,4 +22,4 @@ Effektivitet i brottsbekämpningen är förstås helt nödvändigt, men regering
 
 Tillskotten är ytterligare ett viktigt steg i regeringens kamp mot arbetslivskriminaliteten. Kampen är långt ifrån över, men de ökade resurserna kommer att göra det lättare för oss att ta oss närmare målet. Regeringen är fast besluten om att arbetslivskriminaliteten ska krossas.
 
-Paulina Brandberg, jämställdhets\- och biträdande arbetsmarknadsminister
+Paulina Brandberg, jämställdhets- och biträdande arbetsmarknadsminister

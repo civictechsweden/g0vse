@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Försäkringskassan att analysera och föreslå hur utbetalningar från socialförsäkringen kan säkerställas under krig och krigsfara.
 
-
 I redovisningen ska det framgå:
 
 * hur myndigheten kan säkerställa att utbetalningar kommer försäkrade tillhanda under krig och krigsfara,
@@ -13,4 +12,4 @@ I redovisningen ska det framgå:
 
 Försäkringskassan samverkar i uppdraget med Pensionsmyndigheten samt andra relevanta myndigheter och aktörer.
 
-Försäkringskassan slutredovisar uppdraget senast den 1 november 2022\.
+Försäkringskassan slutredovisar uppdraget senast den 1 november 2022.

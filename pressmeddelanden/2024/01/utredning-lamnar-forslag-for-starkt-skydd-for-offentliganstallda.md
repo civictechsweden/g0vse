@@ -15,4 +15,4 @@ Utredningen lämnar även ett förslag som innebär att det i vissa fall ska var
 
 Vidare lämnar utredningen förslag som rör sekretess inom den personaladministrativa verksamheten och uppgifter om polisstudenter.
 
-Ändringarna ska enligt förslaget träda i kraft den 1 juli 2025\.
+Ändringarna ska enligt förslaget träda i kraft den 1 juli 2025.

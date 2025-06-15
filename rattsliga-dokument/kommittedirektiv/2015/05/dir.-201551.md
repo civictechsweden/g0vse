@@ -4,4 +4,4 @@ En särskild utredare ska ta fram ett förslag till en skatt på finanssektorn, 
 
 Skatten på finanssektorn ska analyseras ur ett juridiskt, samhällsekonomiskt, offentligfinansiellt och administrativt perspektiv. Även skattens förenlighet med EU:s statsstödsregler och unionsrätten i övrigt ska analyseras och bedömas.
 
-Uppdraget ska redovisas senast den 1 november 2016\.
+Uppdraget ska redovisas senast den 1 november 2016.

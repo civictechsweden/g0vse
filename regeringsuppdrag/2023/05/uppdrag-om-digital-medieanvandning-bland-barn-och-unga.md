@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Folkhälsomyndigheten att hämta in och sammanställa kunskap om sambanden mellan hälsoeffekter och digital medieanvändning bland barn och unga. Myndigheten ska – utifrån kunskap och forskning – ta fram åldersanpassad vägledning och rekommendationer om digital medieanvändning bland barn och ungdomar. Myndigheten ska också sprida och kommunicera den framtagna kunskapen till barn och unga, föräldrar och vårdnadshavare samt övriga berörda.
 
-
 Folkhälsomyndigheten ska:
 
 * samverka med Statens medieråd

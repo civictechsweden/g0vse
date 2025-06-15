@@ -1,11 +1,10 @@
 # Samtal om Sveriges väg till noll utsläpp 2045 hölls med jord- och skogsbranschen
 
-Regeringens branschsamtal om klimatomställningen har inletts, och först ut var ledande branschföreträdare inom jord\- och skogsbruket. Klimat\- och miljöminister Romina Pourmokhtari kommer tillsammans med ministerkollegor hålla ett antal samtal under våren, och under det första samtalet var landsbygdsminister Peter Kullgren med.
-
+Regeringens branschsamtal om klimatomställningen har inletts, och först ut var ledande branschföreträdare inom jord- och skogsbruket. Klimat- och miljöminister Romina Pourmokhtari kommer tillsammans med ministerkollegor hålla ett antal samtal under våren, och under det första samtalet var landsbygdsminister Peter Kullgren med.
 
 – Det är en särskild tid vi är ministrar i, inledde Romina Pourmokhtari. Förut pratade vi om klimatomställningen, nu är vi i klimatomställningen. Frågor vi behöver ställa oss är vad politiken kan göra för att skynda på, men också se var politiken behöver flytta på sig och framför allt vad branschen behöver för förutsättningar.
 
-De närvarande lyfte den potential som finns för klimatåtgärder och en utvecklad bioekonomi längs jord\- och skogsbrukets värdekedjor, men att det finns problem som behöver hanteras. En deltagare påpekade att det går tjugo val på ett träds livslängd, så varaktigheten i politiken och stabila spelregler är en viktig faktor.
+De närvarande lyfte den potential som finns för klimatåtgärder och en utvecklad bioekonomi längs jord- och skogsbrukets värdekedjor, men att det finns problem som behöver hanteras. En deltagare påpekade att det går tjugo val på ett träds livslängd, så varaktigheten i politiken och stabila spelregler är en viktig faktor.
 
 ## Politiken behöver styra och uppmuntra
 

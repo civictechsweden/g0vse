@@ -65,7 +65,7 @@ Presidentparet och kungaparet besöker Handelshögskolan i sällskap av utrikesm
 Stockholms stad ger en lunch med kommunfullmäktiges ordförande Olle Burell och finansborgarrådet Karin Wanngård som värdar. Vid lunchen deltar presidentparet, kungaparet, kronprinsessan och prins Daniel och prins Carl Philip samt av staden inbjudna gäster.
 [Stockholms stadshus](https://stadshuset.stockholm/ "Stockholms stadshus")
 
-### Cybercampus Sverige, Kungl. Tekniska Högskolan
+### Cybercampus Sverige, Kungl. Tekniska högskolan
 
 Efter lunch besöker presidentparet och kungaparet Cybercampus Sverige vid Kungl. Tekniska högskolan, där de välkomnas av rektor Anders Söderholm. Utrikesminister Þorgerður Katrín Gunnarsdóttir, hälsominister Alma Möller och minister för civilt försvar Carl-Oskar Bohlin deltar. Efter en introduktion till verksamheten av föreståndaren för Cybercampus Sverige, David Olgart, följer ett panelsamtal om cybersäkerhet med representanter från akademin, näringslivet, civilsamhället och myndigheter. Besöket avslutas med en visning av hur ett vardagsföremål kan hackas och samtal med studenter och startupföretag med fokus på cybersäkerhet.
 [Cybercampus Sverige](https://www.cybercampus.se/ "Cybercampus Sverige, KTH")

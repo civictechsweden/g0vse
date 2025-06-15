@@ -8,4 +8,4 @@ Utredaren ska:
 * utarbeta mål på både lång och kort sikt samt lämna förslag till hur dessa ska följas upp,
 * analysera och bedöma behovet av att inom befintlig myndighetsstruktur samla och sprida kunskap och erfarenheter av arbetet med att bekämpa mäns våld mot kvinnor samt utvärdera insatser och ge konsultativt stöd till myndigheter och andra relevanta aktörer på området.
 
-Uppdraget ska slutredovisas senast den 29 maj 2015\.
+Uppdraget ska slutredovisas senast den 29 maj 2015.

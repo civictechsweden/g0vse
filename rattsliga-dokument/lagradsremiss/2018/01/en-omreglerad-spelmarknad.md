@@ -20,4 +20,4 @@ mellan de sammanlagda insatserna och de sammanlagda utbetalda
 vinsterna. Spel förbehållet allmännyttiga ändamål ska fortfarande vara
 skattebefriat.
 
-Den nya regleringen föreslås träda i kraft den 1 januari 2019\. Ansökningar om licens ska kunna lämnas in efter den 1 juli 2018\.
+Den nya regleringen föreslås träda i kraft den 1 januari 2019. Ansökningar om licens ska kunna lämnas in efter den 1 juli 2018.

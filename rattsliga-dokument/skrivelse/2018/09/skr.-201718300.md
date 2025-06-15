@@ -2,7 +2,7 @@
 
 Skrivelsen innehåller regeringens bedömningar och åtgärder med
 anledning av Riksrevisionens granskningsrapport Den kommunala
-finansieringsprincipen – tillämpas den ändamålsenligt? (RiR 2018:8\).
+finansieringsprincipen – tillämpas den ändamålsenligt? (RiR 2018:8).
 
 Riksrevisionen rekommenderar att kommunalekonomiska reformer bör
 beredas på ett transparent och välunderbyggt sätt, att beredningen av

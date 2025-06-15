@@ -6,4 +6,4 @@ I propositionen föreslår regeringen att förhandsgranskningen av film avsedd a
 
 I propositionen lämnas också förslag om att Statens biografbyrå avvecklas och det bedöms att en ny myndighet bör inrättas. Den nya myndigheten får till uppgift att skydda barn och unga mot skadlig mediepåverkan genom att bl.a. överta Medierådets verksamhet och att besluta åldersgränser för film som är avsedd att visas offentligt för barn under 15 år.
 
-De nya reglerna föreslås träda i kraft den 1 januari 2011\.
+De nya reglerna föreslås träda i kraft den 1 januari 2011.

@@ -1,6 +1,6 @@
 # Förstärkt skydd för kunder på fjärrvärmemarknaden
 
-\- Människor ska känna sig trygga med att de inte betalar oskäliga priser för att värma sina hem. Det här är vad man kallar naturliga monopol där ett bolag har ansvar för både produktion, distribution och försäljning. Det ska inte finnas oklarheter kring prissättning på marknaden, säger energi\- och näringsminister Ebba Busch.
+- Människor ska känna sig trygga med att de inte betalar oskäliga priser för att värma sina hem. Det här är vad man kallar naturliga monopol där ett bolag har ansvar för både produktion, distribution och försäljning. Det ska inte finnas oklarheter kring prissättning på marknaden, säger energi- och näringsminister Ebba Busch.
 
 Under 2022 och 2023 har många fjärrvärmeföretag aviserat och genomfört kraftiga prishöjningar. Enligt fjärrvärmeleverantörerna beror prisökningarna till stor del på ökade bränslekostnader. Prishöjningarna har lett till att antalet anmälningar till Energimarknadsinspektionen, liksom antalet ansökningar om medling till Fjärrvärmenämnden, har ökat markant.
 

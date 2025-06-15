@@ -1,6 +1,6 @@
 # Försvarsminister Pål Jonson deltar i Natos försvarsministermöte
 
-Natos försvarsministrar träffas vid Natos högkvarter för andra gången sedan toppmötet i Madrid i juni 2022\. Försvarsministermötet utgör en viktig milstolpe inför Natos toppmöte i Vilnius i juli 2023\.
+Natos försvarsministrar träffas vid Natos högkvarter för andra gången sedan toppmötet i Madrid i juni 2022. Försvarsministermötet utgör en viktig milstolpe inför Natos toppmöte i Vilnius i juli 2023.
 
 Fokus för mötet är fortsatt stöd till Ukraina liksom stärkandet av Natos avskräckning och försvar i ljuset av det försämrade säkerhetsläget i Europa.
 

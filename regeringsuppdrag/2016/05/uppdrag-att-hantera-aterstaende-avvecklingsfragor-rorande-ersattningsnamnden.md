@@ -1,7 +1,6 @@
 # Uppdrag att hantera återstående avvecklingsfrågor rörande Ersättningsnämnden
 
-Regeringen uppdrar till Kammarkollegiet att från och med den 1 juli 2016 hantera återstående avvecklingsfrågor efter det att Ersättningsnämnden har upphört som myndighet den 30 juni 2016\.
-
+Regeringen uppdrar till Kammarkollegiet att från och med den 1 juli 2016 hantera återstående avvecklingsfrågor efter det att Ersättningsnämnden har upphört som myndighet den 30 juni 2016.
 
 Kammarkollegiet ska senast den 1 september 2016 lämna en arbetsplan och budget till Socialdepartementet.
 

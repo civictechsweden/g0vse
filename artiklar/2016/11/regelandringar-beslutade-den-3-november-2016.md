@@ -6,11 +6,11 @@ Regeringen har beslutat om upphävande av förordningen om statlig garanti för 
 
 ### Referenser
 
-* förordningen (1981:717\) om statlig garanti för utvinning m.m. av olja, naturgas eller kol
+* förordningen (1981:717) om statlig garanti för utvinning m.m. av olja, naturgas eller kol
 
 ## Mer information
 
-Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 15 november 2016\.
+Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 15 november 2016.
 
 **Kontaktperson**
-Christina Nordenbladh 08\-405 22 65
+Christina Nordenbladh 08-405 22 65

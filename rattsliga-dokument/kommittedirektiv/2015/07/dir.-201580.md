@@ -10,6 +10,6 @@ Utredaren ska bland annat
 * särskilt fokusera på åtgärder för att begränsa användningen av häktning och restriktioner för barn och andra unga lagöverträdare, och
 * lämna fullständiga författningsförslag.
 
-Uppdraget ska redovisas senast den 23 augusti 2016\.
+Uppdraget ska redovisas senast den 23 augusti 2016.
 
 [Pressmeddelande: Regeringen lämnar tre uppdrag som syftar till att minska användningen av häktning och bryta isoleringen av häktade](/pressmeddelanden/2015/07/regeringen-lamnar-tre-uppdrag-som-syftar-till-att-minska-anvandningen-av-haktning-och-bryta-isoleringen-av-haktade/)

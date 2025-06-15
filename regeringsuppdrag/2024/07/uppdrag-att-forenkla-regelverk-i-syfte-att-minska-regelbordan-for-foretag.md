@@ -2,14 +2,13 @@
 
 Regeringen ger 11 statliga myndigheter i uppdrag att se över och förenkla egna föreskrifter och allmänna råd och att lämna förslag beträffande lagar och förordningar inom sina verksamhetsområden, i syfte att minska regelbördan för företag.
 
-
-Myndigheterna ska lämna en delredovisning senast den 15 mars 2025 och en slutredovisning senast den 15 mars 2026 till Regeringskansliet, Klimat\- och näringslivsdepartementet med kopia till Tillväxtverket.
+Myndigheterna ska lämna en delredovisning senast den 15 mars 2025 och en slutredovisning senast den 15 mars 2026 till Regeringskansliet, Klimat- och näringslivsdepartementet med kopia till Tillväxtverket.
 
 Följande 11 myndigheter omfattas av uppdraget att förenkla regelverk:
 
 * Arbetsmiljöverket
 * Folkhälsomyndigheten
-* Havs\- och vattenmyndigheten
+* Havs- och vattenmyndigheten
 * Kemikalieinspektionen
 * Livsmedelsverket
 * Naturvårdsverket

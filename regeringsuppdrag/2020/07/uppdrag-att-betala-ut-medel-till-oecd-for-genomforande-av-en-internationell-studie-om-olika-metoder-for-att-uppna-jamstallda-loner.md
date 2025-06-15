@@ -2,8 +2,7 @@
 
 Kammarkollegiet ska senast den 1 december 2020 efter rekvisition betala ut 115 000 euro till Organisationen för ekonomiskt samarbete och utveckling (OECD) för genomförande av en internationell studie om olika metoder för att uppnå jämställda löner.
 
-
-Regeringen beslutade den 5 mars 2020 att inrätta en kommission för jämställda livsinkomster (A 2020:01\). Kommissionens uppdrag är att lämna förslag på åtgärder som bidrar till att främja jämställda löner, jämställda livsinkomster, jämställda arbetsplatser och en jämställd fördelning av offentliga stödåtgärder till kvinnor och män. I delen om jämställda löner ingår bl.a. att analysera det svenska systemet med lönekartläggningar, den isländska modellen för lönecertifiering samt den brittiska respektive tyska modellen för lönetransparens.
+Regeringen beslutade den 5 mars 2020 att inrätta en kommission för jämställda livsinkomster (A 2020:01). Kommissionens uppdrag är att lämna förslag på åtgärder som bidrar till att främja jämställda löner, jämställda livsinkomster, jämställda arbetsplatser och en jämställd fördelning av offentliga stödåtgärder till kvinnor och män. I delen om jämställda löner ingår bl.a. att analysera det svenska systemet med lönekartläggningar, den isländska modellen för lönecertifiering samt den brittiska respektive tyska modellen för lönetransparens.
 
 OECD har meddelat att organisationen skulle kunna genomföra en internationell studie av olika metoder för att uppnå jämställda löner och har inkommit med ett förslag om hur en sådan studie skulle kunna genomföras. Enligt OECD kan en sådan studie utformas i form av en systematisk kartläggning och analys av de olika metoder för jämställda löner som finns i EU och i andra relevanta länder och innehålla information om de olika metoderna, en analys av fördelar och nackdelar med respektive metod, och en analys av metodernas effektivitet och måluppfyllelse.
 

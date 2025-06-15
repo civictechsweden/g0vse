@@ -4,6 +4,6 @@ I lagrådsremissen föreslås att straffansvaret för sjöfylleri utvidgas genom
 
 Även straffansvaret för grovt sjöfylleri föreslås utvidgas så att ansvar kan följa direkt vid en alkoholkoncentration om minst 1,0 promille i blodet motsvarande 0,50 milligram per liter i utandningsluften. Det ska gälla förutsatt att fartyget har sådana hastighetsresurser eller är av sådan storlek som angetts ovan.
 
-Vidare föreslås att det införs en möjlighet att ta rutinmässiga alkohol\-utandningsprov på sådana personer och fartyg som omfattas av den nya promilleregeln. Proven föreslås få tas av polismän och tjänstemän vid Kustbevakningen. Om den som är skyldig att lämna prov vägrar att medverka till det eller på grund av en sjötrafikolycka inte kan lämna ett prov, föreslås att blodprov får tas på honom eller henne.
+Vidare föreslås att det införs en möjlighet att ta rutinmässiga alkohol-utandningsprov på sådana personer och fartyg som omfattas av den nya promilleregeln. Proven föreslås få tas av polismän och tjänstemän vid Kustbevakningen. Om den som är skyldig att lämna prov vägrar att medverka till det eller på grund av en sjötrafikolycka inte kan lämna ett prov, föreslås att blodprov får tas på honom eller henne.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2010\.
+Lagändringarna föreslås träda i kraft den 1 juni 2010.

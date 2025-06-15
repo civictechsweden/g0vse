@@ -12,4 +12,4 @@ Utredningen föreslår bland annat följande:
 * Uppsägning ska också kunna ske om en bostadslägenhet eller en lokal används för att begå allvarlig eller omfattande brottslighet, vilket innebär att uppsägning kommer att kunna ske i fler fall än tidigare.
 * Hyresgästens skyldighet att bevara tryggheten inom fastigheten ska tydliggöras och skärpas.
 
-Utredningen föreslår att lagändringarna ska träda i kraft den 1 januari 2025\.
+Utredningen föreslår att lagändringarna ska träda i kraft den 1 januari 2025.

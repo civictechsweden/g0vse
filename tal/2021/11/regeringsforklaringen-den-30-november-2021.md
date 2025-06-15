@@ -1,7 +1,6 @@
 # Regeringsförklaringen den 30 november 2021
 
-Statsminister Magdalena Andersson, riksdagen, den 30 november 2021\.
-
+Statsminister Magdalena Andersson, riksdagen, den 30 november 2021.
 
 Herr talman, Ärade ledamöter av Sveriges riksdag,
 
@@ -19,7 +18,7 @@ Om tio månader är det åter dags för demokratins högtidsdag. Då går svensk
 
 Låt oss gemensamt övertyga ännu en generation väljare om vikten av att använda sin demokratiska röst.
 
-”All offentlig makt i Sverige utgår från folket. Den svenska folkstyrelsen bygger på fri åsiktsbildning och på allmän och lika rösträtt. \[…] Den offentliga makten ska utövas med respekt för alla människors lika värde och för den enskilda människans frihet och värdighet.”
+”All offentlig makt i Sverige utgår från folket. Den svenska folkstyrelsen bygger på fri åsiktsbildning och på allmän och lika rösträtt. […] Den offentliga makten ska utövas med respekt för alla människors lika värde och för den enskilda människans frihet och värdighet.”
 
 Så står det skrivet i vårt lands grundlag.
 
@@ -55,7 +54,7 @@ Så kan det inte fortsätta. Det svenska samhället ska vara starkare än så.
 
 För att få stopp på våldet måste förövarna lagföras. Kriminalpolitiken läggs om.
 
-Fler än 70 straff har skärpts. Ett 30\-tal gärningar som tidigare inte var straffbara har kriminaliserats. En historisk utbyggnad av hela det svenska rättsväsendet pågår. Målet om 10 000 fler polisanställda är på god väg att nås. En omfattande utbyggnad av Kriminalvården genomförs och domstolarnas kapacitet stärks väsentligt.
+Fler än 70 straff har skärpts. Ett 30-tal gärningar som tidigare inte var straffbara har kriminaliserats. En historisk utbyggnad av hela det svenska rättsväsendet pågår. Målet om 10 000 fler polisanställda är på god väg att nås. En omfattande utbyggnad av Kriminalvården genomförs och domstolarnas kapacitet stärks väsentligt.
 
 I stort sett varenda brottsbekämpande myndighet har fått nya verktyg, fler anställda och större befogenheter.
 
@@ -77,7 +76,7 @@ Våldsbrotten och kriminellas maktutövande utgör ett hot mot den folkliga för
 
 Herr talman,
 
-Varje år mördas ett 15\-tal kvinnor av någon som de har eller har haft en nära relation med. Regeringen har permanentat medel och statsbidrag för att förebygga mäns våld mot kvinnor, och för att skydda de som utsätts. Möjligheterna att stärka det straffrättsliga skyddet också mot psykiskt våld ses över. Straffen för våld och andra kränkningar i nära relationer skärps.
+Varje år mördas ett 15-tal kvinnor av någon som de har eller har haft en nära relation med. Regeringen har permanentat medel och statsbidrag för att förebygga mäns våld mot kvinnor, och för att skydda de som utsätts. Möjligheterna att stärka det straffrättsliga skyddet också mot psykiskt våld ses över. Straffen för våld och andra kränkningar i nära relationer skärps.
 
 För 20 år sedan, ett år innan hon mördades, stod Fadime Sahindal här i riksdagen och sa:
 
@@ -117,7 +116,7 @@ Har du redan yrkeskunskaper som efterfrågas ska du lära dig svenska så fort d
 
 Är du lite äldre och saknar rätt kunskaper kan du börja med en subventionerad anställning, och hjälpa till i vårt samhälle med uppgifter som annars inte blir utförda.
 
-Med den inriktningen på jobbpolitiken har regeringen bidragit till att skapa en kvarts miljon nya jobb och halverat etableringstiden för nyanlända. Och trots pandemin och den värsta nedgången i ekonomin sedan andra världskriget, så jobbar idag en högre andel utrikesfödda jämfört med 2014\.
+Med den inriktningen på jobbpolitiken har regeringen bidragit till att skapa en kvarts miljon nya jobb och halverat etableringstiden för nyanlända. Och trots pandemin och den värsta nedgången i ekonomin sedan andra världskriget, så jobbar idag en högre andel utrikesfödda jämfört med 2014.
 
 Sverige ställer tydliga krav men erbjuder också möjligheter. Det fungerar och på den vägen ska vi fortsätta.
 
@@ -143,7 +142,7 @@ Sverige har ett av världens mest omfattande studiestödssystem. En arbetsmarkna
 
 Herr talman,
 
-”Vi håller 1,5\-gradersmålet vid liv. Men pulsen är mycket låg.” Så samman­fattade Alok Sharma, klimattoppmötets ordförande, resultatet från Glasgow.
+”Vi håller 1,5-gradersmålet vid liv. Men pulsen är mycket låg.” Så samman­fattade Alok Sharma, klimattoppmötets ordförande, resultatet från Glasgow.
 
 Klockan tickar.
 
@@ -163,11 +162,11 @@ En ny nationell elektrifieringsstrategi ska peka ut hur kapaciteten i elnäten s
 
 Det ska finnas goda förutsättningar att bo, leva och arbeta i hela landet. Ambitionerna höjs i regionalpolitiken. En kraftfull satsning görs på landsbygdsprogrammet för ett konkurrenskraftigt och miljömässigt hållbart jordbruk. Investeringarna i bredband ökas kraftigt. Tydliga krav ställs på operatörernas täckningsgrad. Det särskilda driftsstödet till dagligvarubutiker permanentas.
 
-Strandskyddet ska bli mer differentierat. Det ska bli lättare att bygga på landsbygden samtidigt som strandskyddet i högexploaterade områden förstärks. Områden av särskild betydelse för djur\- och växtlivet värnas. Äganderätten i skogen ska stärkas. Det är grunden för att i ökad utsträckning kunna ta tillvara skogens potential för ekonomi, klimat och miljö.
+Strandskyddet ska bli mer differentierat. Det ska bli lättare att bygga på landsbygden samtidigt som strandskyddet i högexploaterade områden förstärks. Områden av särskild betydelse för djur- och växtlivet värnas. Äganderätten i skogen ska stärkas. Det är grunden för att i ökad utsträckning kunna ta tillvara skogens potential för ekonomi, klimat och miljö.
 
 En ny nationell plan för infrastruktur ska läggas fram i vår. Nya steg tas mot en modern och fossilfri transportinfrastruktur så att människor kan förflytta både sig själva och de varor som produceras.
 
-Nästa år står Sverige värd för FN\-mötet Stockholm\+50 för att öka takten i genomförandet av hållbarhetsmålen i Agenda 2030\. Det sker mot bakgrund av att FN:s allra första miljökonferens hölls här i Stockholm. När Olof Palme välkomnade världens ledare konstaterade han med ord som är lika aktuella idag:
+Nästa år står Sverige värd för FN-mötet Stockholm+50 för att öka takten i genomförandet av hållbarhetsmålen i Agenda 2030. Det sker mot bakgrund av att FN:s allra första miljökonferens hölls här i Stockholm. När Olof Palme välkomnade världens ledare konstaterade han med ord som är lika aktuella idag:
 
 ”Framtiden är gemensam. I gemenskap måste vi dela den. Tillsammans ska vi skapa den.”
 
@@ -181,7 +180,7 @@ Den svenska välfärden bärs upp av medarbetarna. De behöver fler kollegor, r�
 
 Betinget är stort, men inte omöjligt.
 
-Viktiga steg har tagits. Regeringen har de senaste åren successivt skjutit till mer pengar till kommuner och regioner. Jämfört med 2014 arbetar idag 100 000 fler i välfärden. Nu ska också de stora 90\-talistkullarnas barn utbildas. De många 40\-talisterna går in i 80\-årsåldern och ska ha den trygga äldreomsorg de förtjänar.
+Viktiga steg har tagits. Regeringen har de senaste åren successivt skjutit till mer pengar till kommuner och regioner. Jämfört med 2014 arbetar idag 100 000 fler i välfärden. Nu ska också de stora 90-talistkullarnas barn utbildas. De många 40-talisterna går in i 80-årsåldern och ska ha den trygga äldreomsorg de förtjänar.
 
 Därför höjs de generella statsbidragen ytterligare. Cancervården, psykiatrin och förlossningsvården ska prioriteras när sjukvården byggs ut. Köerna ska kortas, vårdcentralerna stärkas och fler få en fast läkarkontakt.
 
@@ -189,7 +188,7 @@ Arbetet med att ta fram en ny äldreomsorgslag för stärkt kvalitet och likvär
 
 Arbetet för trygga pensioner handlar om respekt för de som varit med och byggt vårt land. Pensionen har höjts för den som har arbetat ett långt arbetsliv med låg lön. Bostadstillägget höjs ytterligare. En strukturreform för att långsiktigt stärka inkomsterna för de pensionärer som har det sämst ställt ska läggas fram. Det innebär upp till 1 000 kronor mer i plånboken varje månad. En trygghetspension införs, så att den som är över 60 år och utsliten inte ska behöva ta ut sin ålderspension i förtid. Pensionerna behöver höjas ytterligare. Därför måste inbetalningarna till pensionssystemet öka. Initiativ till det kommer tas i Pensionsgruppen.
 
-När du behöver samhället som mest, då ska det starka samhället finnas där för dig. Regeringen har tidigare tagit bort den permanenta skatteklyftan mellan pensionärer och löntagare. Nu sänks skatten rejält också för människor med sjuk\- och aktivitetsersättning. Inriktningen är tydlig. Skatteklyftan mellan funktionsnedsatta och löntagare är orättfärdig. Garantiersättningen i sjuk\- och aktivitetsersättningen höjs. Regeringen fortsätter att stärka rätten till personlig assistans.
+När du behöver samhället som mest, då ska det starka samhället finnas där för dig. Regeringen har tidigare tagit bort den permanenta skatteklyftan mellan pensionärer och löntagare. Nu sänks skatten rejält också för människor med sjuk- och aktivitetsersättning. Inriktningen är tydlig. Skatteklyftan mellan funktionsnedsatta och löntagare är orättfärdig. Garantiersättningen i sjuk- och aktivitetsersättningen höjs. Regeringen fortsätter att stärka rätten till personlig assistans.
 
 Den som blir sjuk ska ha stöd för att snabbt komma tillbaka i arbete. En omfattande satsning görs för att stärka tryggheten vid sjukdom. Taket i sjukpenningen höjs. Förslag från sjukförsäkringsutredningen genomförs för att ge mer tid till rehabilitering och ökad flexibilitet för äldre, behovsanställda och deltidssjukskrivna.
 
@@ -219,9 +218,9 @@ Jag kommer också att göra organisatoriska förändringar i Regeringskansliet.
 
 Kansliet för krishantering, som tidigare har sorterat under Justitiedepartementet, flyttas till Statsrådsberedningen.
 
-Tack vare en ansvarsfull finanspolitik kunde Sverige möta pandemin med den lägsta statsskulden sedan 1977\. Andelen arbetslösa är nu tillbaka på samma nivå som innan pandemin bröt ut. Och trots att Sverige investerat hundratals miljarder i krisåtgärder för att rädda jobb och företag under pandemin, så står de offentliga finanserna fortfarande starka. Så starka att det är motiverat att växla från överskottsmål till balansmål.
+Tack vare en ansvarsfull finanspolitik kunde Sverige möta pandemin med den lägsta statsskulden sedan 1977. Andelen arbetslösa är nu tillbaka på samma nivå som innan pandemin bröt ut. Och trots att Sverige investerat hundratals miljarder i krisåtgärder för att rädda jobb och företag under pandemin, så står de offentliga finanserna fortfarande starka. Så starka att det är motiverat att växla från överskottsmål till balansmål.
 
-Kulturen har en nyckelroll i samhällets återstart. Kulturen tar oss människor utanför oss själva och närmre varandra. En fri och oberoende kultursektor är grundläggande för varje framgångsrikt demokratiskt samhälle. En förstärkning görs av stödet till teatrar, museer, bild\- och formverksamheter, film, bibliotek, orkestrar, konserthus och dansverksamheter i hela landet.
+Kulturen har en nyckelroll i samhällets återstart. Kulturen tar oss människor utanför oss själva och närmre varandra. En fri och oberoende kultursektor är grundläggande för varje framgångsrikt demokratiskt samhälle. En förstärkning görs av stödet till teatrar, museer, bild- och formverksamheter, film, bibliotek, orkestrar, konserthus och dansverksamheter i hela landet.
 
 I hela landet ska vi också ha en mångfald av oberoende medier och ett starkt public service. Den snabba tekniska och mediala utvecklingen revolutionerar tillgången till information men riskerar samtidigt att öka klyftor och polarisering i samhället.
 
@@ -243,19 +242,19 @@ Att befolkningen i de nordiska länderna hålls åtskilda med gränshinder är i
 
 Det europeiska samarbetet är avgörande för Sverige. Det handlar om jobben, eftersom EU är vår viktigaste marknad. Det handlar om fred och säkerhet, både i vårt närområde och längre bort. Men inte bara det. Klimat, migration, vaccin och bekämpandet av den gränsöverskridande och organiserade brottsligheten – allt detta hanteras bättre i samarbete med andra.
 
-EU\-samarbetet bygger på gemensamma värderingar. EU\-länder som inte respekterar mänskliga rättigheter och demokratiska principer som oberoende domstolar, en fri akademi och fria medier ska inte ovillkorligt få del av EU\-medel.
+EU-samarbetet bygger på gemensamma värderingar. EU-länder som inte respekterar mänskliga rättigheter och demokratiska principer som oberoende domstolar, en fri akademi och fria medier ska inte ovillkorligt få del av EU-medel.
 
 Sverige vill se ett öppet och mer jämlikt Europa, med bättre arbetsvillkor och ökad jämställdhet. Däremot ska den svenska arbetsmarknadsmodellen och vårt skogsbruk inte detaljregleras i Bryssel.
 
 För det andra: Sveriges säkerhetspolitiska linje ligger fast.
 
-Den militära alliansfriheten tjänar vårt land väl och bidrar till stabilitet och säkerhet i norra Europa. Sverige ska inte söka medlemskap i Nato. Sverige kommer inte att stå passivt om en katastrof eller ett angrepp drabbar ett annat land i Norden eller i EU och vi förväntar oss att dessa länder agerar på samma sätt om vi själva drabbas. EU är Sveriges viktigaste utrikes\- och säkerhetspolitiska arena. Vårt pågående ordförandeskap i OSSE ger Sverige möjlighet att värna den europeiska säkerhetsordningen.
+Den militära alliansfriheten tjänar vårt land väl och bidrar till stabilitet och säkerhet i norra Europa. Sverige ska inte söka medlemskap i Nato. Sverige kommer inte att stå passivt om en katastrof eller ett angrepp drabbar ett annat land i Norden eller i EU och vi förväntar oss att dessa länder agerar på samma sätt om vi själva drabbas. EU är Sveriges viktigaste utrikes- och säkerhetspolitiska arena. Vårt pågående ordförandeskap i OSSE ger Sverige möjlighet att värna den europeiska säkerhetsordningen.
 
 Sverige och EU fördömer Rysslands militära aggression mot Ukraina inklusive den illegala annekteringen av Krim. Situationen för de människor som fastnat på gränsen mellan Polen och Belarus är oacceptabel. Belarus agerande ska mötas med utökade sanktioner.
 
 För det tredje: Sveriges säkerhet och utveckling tryggas bäst tillsammans med andra.
 
-Vår tids största utmaningar – klimatet, pandemin, värnandet av demokratin – hanteras bäst genom multilateralt samarbete, med utgångspunkt i folkrätten och FN\-stadgan.
+Vår tids största utmaningar – klimatet, pandemin, värnandet av demokratin – hanteras bäst genom multilateralt samarbete, med utgångspunkt i folkrätten och FN-stadgan.
 
 Det är välkommet att USA åter är en konstruktiv samarbetspartner i dessa frågor. Den transatlantiska relationen är central för Sveriges och Europas säkerhet och välstånd.
 
@@ -263,11 +262,11 @@ Dagens konflikter kräver omvärldens engagemang. En långsiktig fred mellan Isr
 
 För det fjärde: Sverige ska rustas att möta vår tids stora geopolitiska, teknologiska och ekonomiska skiften.
 
-Samhällets kapacitet att hantera kriser ska vara stark, såväl i fredstid som vid krig. Sverige fördjupar försvarssamarbetet med Finland och andra nordiska grannar, inom EU, med USA samt i partnerskapet med Nato. Vårt nationella försvar byggs ut. Fem regementen och en flygflottilj återinrättas just nu: I Falun, Sollefteå/Östersund, Arvidsjaur, Kristinehamn, Göteborg och i Uppsala. Det civila försvaret stärks. En ny, uppdaterad nationell säkerhetsstrategi tas fram. Sverige fortsätter att vara en stark röst för kärnvapennedrustning och icke\-spridning.
+Samhällets kapacitet att hantera kriser ska vara stark, såväl i fredstid som vid krig. Sverige fördjupar försvarssamarbetet med Finland och andra nordiska grannar, inom EU, med USA samt i partnerskapet med Nato. Vårt nationella försvar byggs ut. Fem regementen och en flygflottilj återinrättas just nu: I Falun, Sollefteå/Östersund, Arvidsjaur, Kristinehamn, Göteborg och i Uppsala. Det civila försvaret stärks. En ny, uppdaterad nationell säkerhetsstrategi tas fram. Sverige fortsätter att vara en stark röst för kärnvapennedrustning och icke-spridning.
 
 Kinas växande roll utgör ytterligare en av vår tids största globala förändringar. Sverige och EU ska bedriva en aktiv politik i relation till Kina, med utgångspunkt i våra intressen och våra värderingar.
 
-En ny migrationslagstiftning har trätt ikraft i Sverige. Den är väl avvägd för att svensk asylpolitik ska vara långsiktigt hållbar, med ett humant, rättssäkert och effektivt regelverk som inte väsentligen avviker från övriga EU\-länders.
+En ny migrationslagstiftning har trätt ikraft i Sverige. Den är väl avvägd för att svensk asylpolitik ska vara långsiktigt hållbar, med ett humant, rättssäkert och effektivt regelverk som inte väsentligen avviker från övriga EU-länders.
 
 \* \* \*
 

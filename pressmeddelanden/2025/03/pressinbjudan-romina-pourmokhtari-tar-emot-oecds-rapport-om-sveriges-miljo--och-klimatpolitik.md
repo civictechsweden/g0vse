@@ -1,4 +1,4 @@
-# Pressinbjudan: Romina Pourmokhtari tar emot OECD:s rapport om Sveriges miljö- och klimatpolitik
+# Påminnelse pressinbjudan: Romina Pourmokhtari tar emot OECD:s rapport om Sveriges miljö- och klimatpolitik
 
 Seminariet inleds med att Jo Tyndall, direktör för OECD:s miljödirektorat, presenterar OECD:s slutsatser och rekommendationer. Därefter följer kommentarer från klimat- och miljöminister Romina Pourmokhtari samt två expertpaneler som diskuterar resultaten och rekommendationerna.
 

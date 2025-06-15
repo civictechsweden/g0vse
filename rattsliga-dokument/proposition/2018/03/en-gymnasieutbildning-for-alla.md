@@ -11,4 +11,4 @@ Strukturen och kvaliteten på introduktionsprogrammen i gymnasieskolan
 ska förbättras. Utbildningsplanen ska innehålla uppgifter om utbildningens syfte, huvudsakliga innehåll och längd. Eleverna ska ha rätt till en garanterad minsta undervisningstid och nyanlända elevers kunskaper ska bedömas vid mottagandet till språkintroduktion. Rätten att fullfölja utbildningen ska knytas till elevens individuella studieplan.
 
 Delar av lagstiftningspaketet föreslås träda i kraft den 1 juli 2018 och
-andra delar den 1 juli 2019\.
+andra delar den 1 juli 2019.

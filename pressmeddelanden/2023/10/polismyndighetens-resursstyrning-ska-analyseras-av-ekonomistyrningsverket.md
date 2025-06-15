@@ -8,4 +8,4 @@ Ekonomistyrningsverket är regeringens expertmyndighet gällande den ekonomiska 
 
 I uppdraget ingår att bland annat analysera styrningen av de medel som tillförs för att Polismyndigheten ska bli fler anställda. I uppdraget ingår också att bedöma i vilken utsträckning resursfördelningen bidrar till att uppnå en stark lokal närvaro i hela landet. Andra frågor som kan omfattas är resursfördelningen mellan Polismyndighetens nationella avdelningar och polisregionerna, liksom fördelningen mellan stödverksamheter och den polisiära kärnverksamheten.
 
-Uppdraget ska redovisas senast den 4 november 2024\. Av redovisningen ska de huvudsakliga slutsatserna framgå, liksom eventuella förslag till Polismyndigheten och regeringen.
+Uppdraget ska redovisas senast den 4 november 2024. Av redovisningen ska de huvudsakliga slutsatserna framgå, liksom eventuella förslag till Polismyndigheten och regeringen.

@@ -2,7 +2,7 @@
 
 Den svenska ansökan om Olympiska respektive Paralympiska spel i Sverige har som utgångspunkt att spelen ska vara såväl hållbara som välorganiserade. Det är avgörande att dessa är kostnadseffektiva och att de arrangeras i befintliga idrottsarenor runt om i Sverige samt i närheten av vårt land.
 
-En svensk ansökan om Olympiska och Paralympiska vinterspel 2030 behöver ha ett tydligt och starkt stöd hos svenskt näringsliv. Regeringen noterar det stora intresse som visats från svenska företag för vinterspel i Sverige. En förutsättning för ett stöd från regeringen till en svensk OS\-ansökan är att näringslivet bidrar med de sponsorintäkter som har beräknats i budgeten för spelen.
+En svensk ansökan om Olympiska och Paralympiska vinterspel 2030 behöver ha ett tydligt och starkt stöd hos svenskt näringsliv. Regeringen noterar det stora intresse som visats från svenska företag för vinterspel i Sverige. En förutsättning för ett stöd från regeringen till en svensk OS-ansökan är att näringslivet bidrar med de sponsorintäkter som har beräknats i budgeten för spelen.
 
 Vidare avser vi även att titta vidare på frågan om hur berörda svenska myndigheter skulle kunna bidra väl till genomförandet av säkra och effektiva Olympiska och Paralympiska vinterspel i Sverige.
 

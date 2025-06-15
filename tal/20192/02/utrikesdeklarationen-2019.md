@@ -3,10 +3,9 @@
 Regeringens utrikesdeklaration presenterades av utrikesminister Margot Wallström vid 2019 års utrikespolitiska debatt i riksdagen onsdagen den 13 februari.
 Det talade ordet gäller.
 
-
 Herr talman, ärade ledamöter, representanter för diplomatiska kåren, kära åhörare,
 
-Sveriges trygghet börjar i Europa. EU\-samarbetet ger oss fred, stabilitet och tillväxt. Det är avgörande också för att möta klimathotet.
+Sveriges trygghet börjar i Europa. EU-samarbetet ger oss fred, stabilitet och tillväxt. Det är avgörande också för att möta klimathotet.
 
 Samtidigt är det Europa vi känner under förändring.
 
@@ -46,9 +45,9 @@ Fullt fungerande demokrati är omöjligt utan de mänskliga rättigheterna och S
 
 Vi fortsätter att ta fram landrapporter om mänskliga rättigheter, demokrati och rättsstatens principer. Inom kort publicerar vi uppdaterade rapporter om 29 länder i Europa.
 
-På många håll i världen sker förföljelser av religiösa minoriteter, det är oacceptabelt. Vi stärker arbetet mot antisemitism och arrangerar en internationell konferens om Förintelsen år 2020\.
+På många håll i världen sker förföljelser av religiösa minoriteter, det är oacceptabelt. Vi stärker arbetet mot antisemitism och arrangerar en internationell konferens om Förintelsen år 2020.
 
-Vi protesterar när yttrandefriheten begränsas, när journalister tystas och när försvarare av mänskliga rättigheter och hbtq\-personer förföljs.
+Vi protesterar när yttrandefriheten begränsas, när journalister tystas och när försvarare av mänskliga rättigheter och hbtq-personer förföljs.
 
 Herr/fru talman,
 
@@ -94,11 +93,11 @@ Ambitionerna i klimatarbetet måste öka för att världen ska kunna nå målen 
 
 Herr/fru talman,
 
-Sveriges säkerhetspolitiska linje ligger fast. Vår militära alliansfrihet tjänar oss väl och bidrar till stabilitet och säkerhet i norra Europa. Den förutsätter en aktiv, bred och ansvarsfull utrikes\- och säkerhetspolitik i kombination med fördjupade försvarssamarbeten, särskilt med Finland, och en trovärdig nationell försvarsförmåga.
+Sveriges säkerhetspolitiska linje ligger fast. Vår militära alliansfrihet tjänar oss väl och bidrar till stabilitet och säkerhet i norra Europa. Den förutsätter en aktiv, bred och ansvarsfull utrikes- och säkerhetspolitik i kombination med fördjupade försvarssamarbeten, särskilt med Finland, och en trovärdig nationell försvarsförmåga.
 
-Sveriges utrikes\- och säkerhetspolitik bygger på sammanhållning i EU och ökat samarbete på bred front: i Norden och Östersjöområdet, inom FN och OSSE, och genom partnerskapet med Nato.
+Sveriges utrikes- och säkerhetspolitik bygger på sammanhållning i EU och ökat samarbete på bred front: i Norden och Östersjöområdet, inom FN och OSSE, och genom partnerskapet med Nato.
 
-Sverige kommer inte att förhålla sig passivt om en katastrof eller ett angrepp skulle drabba ett annat EU\-land eller ett nordiskt land. Vi förväntar oss att dessa länder agerar på samma sätt om Sverige drabbas. Vi ska därför kunna ge och ta emot stöd, såväl civilt som militärt.
+Sverige kommer inte att förhålla sig passivt om en katastrof eller ett angrepp skulle drabba ett annat EU-land eller ett nordiskt land. Vi förväntar oss att dessa länder agerar på samma sätt om Sverige drabbas. Vi ska därför kunna ge och ta emot stöd, såväl civilt som militärt.
 
 Vår säkerhet är beroende av att den europeiska säkerhetsordningen respekteras, och vi ska verka genom EU samt i OSSE och Europarådet för att upprätthålla den.
 
@@ -118,7 +117,7 @@ Arktisfrågorna är viktiga för den globala säkerheten. Sverige kommer under �
 
 Det viktiga Östliga partnerskapet fyller tio år i år. Vi stöttar partnerländernas utveckling mot stabila demokratier.
 
-Ett delat ansvar för fred och säkerhet handlar också om att gemensamt bemöta försök att skapa splittring och instabilitet i våra samhällen. Regeringen arbetar tillsammans med andra länder också mot icke\-militära hot, som terrorism och på cyber\- och hybridområdet.
+Ett delat ansvar för fred och säkerhet handlar också om att gemensamt bemöta försök att skapa splittring och instabilitet i våra samhällen. Regeringen arbetar tillsammans med andra länder också mot icke-militära hot, som terrorism och på cyber- och hybridområdet.
 
 Jämlikhet och demokrati har en viktig roll i byggandet av gemensam säkerhet. Ett samhälle präglat av social rättvisa och tillit till institutionerna kan bättre stå emot vår tids säkerhetsutmaningar.
 
@@ -126,7 +125,7 @@ Herr/fru talman,
 
 EU är vår viktigaste utrikespolitiska arena. Ett starkt och enigt EU är avgörande i ett osäkert omvärldsläge.
 
-Vi behöver stärka den gemensamma utrikes\- och säkerhetspolitiken. Vi vill vässa EU:s instrument, såsom diplomati, militära och civila krisinsatser och bistånd och handel. Vi bidrar till samarbetet Pesco som stärker den operativa förmågan och effektiviteten på försvarsområdet. Vi har spelat en avgörande roll för den europeiska pakten för civil krishantering.
+Vi behöver stärka den gemensamma utrikes- och säkerhetspolitiken. Vi vill vässa EU:s instrument, såsom diplomati, militära och civila krisinsatser och bistånd och handel. Vi bidrar till samarbetet Pesco som stärker den operativa förmågan och effektiviteten på försvarsområdet. Vi har spelat en avgörande roll för den europeiska pakten för civil krishantering.
 
 Regeringen ska fortsätta verka för att alla medlemsstater respekterar och upprätthåller EU:s gemensamma värderingar.
 
@@ -136,7 +135,7 @@ Det är också viktigt att EU får ett gemensamt asylsystem som är rättssäker
 
 Vi beklagar Storbritanniens beslut att lämna EU, och arbetar för att utträdet ska ske under ordnade former. Det ger de bästa förutsättningarna för att Storbritanniens framtida relation med Sverige och EU blir nära och förtroendefull.
 
-Det ska finnas ett tydligt EU\-perspektiv för länderna på västra Balkan, men det ställer krav på fortsatta reformer som stärker ländernas institutioner och utvecklar demokratin – ett arbete som tar tid, och som vi stödjer.
+Det ska finnas ett tydligt EU-perspektiv för länderna på västra Balkan, men det ställer krav på fortsatta reformer som stärker ländernas institutioner och utvecklar demokratin – ett arbete som tar tid, och som vi stödjer.
 
 Utvecklingen i Turkiet är mycket oroande. EU ska både samarbeta med och ställa krav på Turkiet.
 
@@ -148,7 +147,7 @@ Vid årsskiftet lämnade Sverige FN:s säkerhetsråd där vi var djupt engagerad
 
 I ett polariserat säkerhetsråd har Sverige stått upp för folkrätt, mänskliga rättigheter, jämställdhet samt humanitärt ansvar. Vi har satt kopplingen mellan klimat och säkerhet på rådets agenda.
 
-I början av medlemskapet var Sverige ofta en ensam röst för kvinnors deltagande i freds\- och säkerhetsarbete. Idag ser allt fler rådsmedlemmar nödvändigheten att inkludera kvinnor och flickor för hållbar fred.
+I början av medlemskapet var Sverige ofta en ensam röst för kvinnors deltagande i freds- och säkerhetsarbete. Idag ser allt fler rådsmedlemmar nödvändigheten att inkludera kvinnor och flickor för hållbar fred.
 
 FN:s och andra internationella fredsinsatser fyller en viktig funktion i krigshärjade områden och Sveriges bidrag är uppskattade.
 
@@ -160,9 +159,9 @@ Förutom att ett mänskligt misstag kan orsaka en mänsklig katastrof står vi i
 
 För det första ökar spänningen mellan stormakterna när USA och Ryssland lämnar nedrustningsavtalet INF efter ryska avtalsbrott. Säkerheten i vårt närområde försämras. Kärnvapenländerna behöver ta gemensamt ansvar och göra konkreta nedrustningsåtaganden.
 
-För det andra är det mest centrala avtalet, icke\-spridningsavtalet NPT, i fara av att kärnvapenstaterna utvecklar nya förmågor och inte lever upp till överenskommelsen om nedrustning.
+För det andra är det mest centrala avtalet, icke-spridningsavtalet NPT, i fara av att kärnvapenstaterna utvecklar nya förmågor och inte lever upp till överenskommelsen om nedrustning.
 
-För det tredje är Nordkoreas kärnvapen\- och missilprogram ett allvarligt hot mot internationell fred och säkerhet.
+För det tredje är Nordkoreas kärnvapen- och missilprogram ett allvarligt hot mot internationell fred och säkerhet.
 
 Slutligen riskeras nu den kärntekniska överenskommelsen med Iran. Landets kärnvapenförmåga har minskat avsevärt sedan avtalet slöts. EU tar nu konkreta steg för att skydda överenskommelsen.
 
@@ -180,19 +179,19 @@ Ett välfungerande internationellt samarbete är grunden för en regelbaserad v�
 
 Sverige är nu en plats för samtal om nedrustning och fredlig konfliktlösning på koreanska halvön. Med träget diplomatiskt arbete och goda relationer med alla inblandade fortsätter vi bidra till att försöka undanröja ett allvarligt hot.
 
-Den politiska processen för fred i Jemen tog ett avgörande steg med Stockholmsöverenskommelsen i december 2018\. Vi fortsätter vårt engagemang. Om några veckor står vi för tredje gången värd för en humanitär givarkonferens i Genève. Lidandet måste få ett slut.
+Den politiska processen för fred i Jemen tog ett avgörande steg med Stockholmsöverenskommelsen i december 2018. Vi fortsätter vårt engagemang. Om några veckor står vi för tredje gången värd för en humanitär givarkonferens i Genève. Lidandet måste få ett slut.
 
 När regeringen under förra mandatperioden lanserade en handlingsplan för relationerna med Latinamerika och Karibien hade demokratiutvecklingen varit positiv under många år. Sedan dess har läget försämrats.
 
 Venezuela är ett av de länder där demokratin har urholkats under mycket lång tid. Läget är desperat. EU agerar nu gemensamt och med latinamerikanska länder för en fredlig och demokratisk lösning. Sverige deltar i den nya kontaktgruppen.
 
-Regeringen verkar för en tvåstatslösning baserad på folkrätten i Israel\-Palestinakonflikten. Sverige ser, liksom övriga EU, Jerusalem som framtida huvudstad för två stater. Vi har ett långvarigt vänskapligt engagemang med Israel och Palestina. Regeringen bidrar till ett demokratiskt statsbyggande i Palestina. Vi står upp för Israels legitima säkerhetsbehov.
+Regeringen verkar för en tvåstatslösning baserad på folkrätten i Israel-Palestinakonflikten. Sverige ser, liksom övriga EU, Jerusalem som framtida huvudstad för två stater. Vi har ett långvarigt vänskapligt engagemang med Israel och Palestina. Regeringen bidrar till ett demokratiskt statsbyggande i Palestina. Vi står upp för Israels legitima säkerhetsbehov.
 
 Sveriges breda engagemang i Afghanistan fortsätter, bland annat genom att stärka kvinnors deltagande i fredsprocesser.
 
 Sverige stödjer den nya irakiska regeringens reformansträngningar. Relationerna mellan landets olika etniska och religiösa grupper, som exempelvis de kristna, samt kurdernas ställning är avgörande för långsiktig fred och stabilitet i Irak.
 
-13 miljoner människor är på flykt i Syrien. Sverige har bland annat gett över tre miljarder i humanitärt stöd sedan kriget bröt ut och stöttar den FN\-ledda processen för att nå en hållbar fred.
+13 miljoner människor är på flykt i Syrien. Sverige har bland annat gett över tre miljarder i humanitärt stöd sedan kriget bröt ut och stöttar den FN-ledda processen för att nå en hållbar fred.
 
 Jag kommer aldrig att glömma rohingyakvinnornas fasansfulla vittnesmål från övergreppen i Myanmar. Sverige driver på för att ansvar ska utkrävas.
 

@@ -10,4 +10,4 @@ Utredaren ska bland annat
 * redogöra för de möjligheter till insyn, delaktighet och inflytande som finns i dag,
 * föreslå åtgärder inom ramen för existerande strukturer för att öka insyn, delaktighet och inflytande för individer och andra aktörer i Sverige i frågor som beslutas inom EU.
 
-Uppdraget ska redovisas senast den 15 januari 2016\.
+Uppdraget ska redovisas senast den 15 januari 2016.

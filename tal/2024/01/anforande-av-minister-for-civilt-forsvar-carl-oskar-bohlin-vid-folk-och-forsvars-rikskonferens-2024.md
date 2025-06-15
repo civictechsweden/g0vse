@@ -4,7 +4,6 @@ Sälen den 7 januari 2024
 
 Det talade ordet gäller.
 
-
 Ers majestät, ers kungliga högheter, statsråd, ambassadörer, ärade gäster,
 
 Jag är tacksam för publiken här idag, men den egentliga publiken för detta tal är så mycket bredare, den är hela Sverige, hela totalförsvaret.
@@ -15,7 +14,7 @@ Det kan bli krig i Sverige.
 
 Jag vill inte i första hand vädja till din rädsla, men däremot till din lägesuppfattning. Jag försöker öppna en dörr, en dörr inte sällan blockerad och belamrad med livets alla vardagliga krav, utmaningar och prövningar. En dörr som för många svenskar kanske varit stängd ett helt liv, En dörr, till ett utfallsrum som möter oss med portalfrågan: Vem är du om kriget kommer?
 
-Det Putin aldrig förstod var att han sparkade in denna dörr hos varje ukrainare 2014\. Det ukrainska folket hade vid tiden för den fullskaliga invasionen i februari 2022 under 8 års tid individuellt och gemensamt formulerat sitt svar, nämligen: Vi är ett folk och ett samhälle som kommer möta totalt krig med total motståndskraft, och det var också vad man sedan gjorde. Den ryska angreppsmakten fick möta hela det ukrainska samhällets enade kraft. En sådan ansträngning kan bara göras snabbt nog om det stora flertalet är medvetna om läget och förstår vad som står på spel.
+Det Putin aldrig förstod var att han sparkade in denna dörr hos varje ukrainare 2014. Det ukrainska folket hade vid tiden för den fullskaliga invasionen i februari 2022 under 8 års tid individuellt och gemensamt formulerat sitt svar, nämligen: Vi är ett folk och ett samhälle som kommer möta totalt krig med total motståndskraft, och det var också vad man sedan gjorde. Den ryska angreppsmakten fick möta hela det ukrainska samhällets enade kraft. En sådan ansträngning kan bara göras snabbt nog om det stora flertalet är medvetna om läget och förstår vad som står på spel.
 
 Samhällelig motståndskraft kräver just det, medvetenhet om läget. Medvetenhet hos den enskilde medborgaren, arbetstagaren, företagaren och befattningshavaren i offentlig förvaltning. Men det räcker inte bara att umgås med frågan. Civilt försvar är inte primärt en seminarieövning. Medvetenheten måste omsättas i praktisk handling. Åtgärder som faktiskt höjer tröskeln.
 

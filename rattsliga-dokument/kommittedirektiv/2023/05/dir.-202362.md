@@ -8,4 +8,4 @@ Utredaren ska bland annat
 * analysera och ta ställning till hur ett tryggt regel­system för hyrköp av bostäder bör utformas, och
 * lämna nödvändiga författnings­förslag.
 
-Uppdraget ska redovisas senast den 2 december 2024\.
+Uppdraget ska redovisas senast den 2 december 2024.

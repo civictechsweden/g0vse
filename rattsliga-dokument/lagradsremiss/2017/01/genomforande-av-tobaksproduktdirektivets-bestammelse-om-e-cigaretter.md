@@ -6,7 +6,7 @@ genomföra bestämmelserna om elektroniska cigaretter i EU:s tobaksproduktdirekt
 
 Förslagen föreslås i huvudsak genomföras i en ny lag om elektroniska
 cigaretter och påfyllningsbehållare. Det föreslås också vissa
-ändringar i lagen (1996:701\) om Tullverkets befogenheter vid Sveriges
-gräns mot ett annat land inom Europeiska unionen, marknadsföringslagen (2008:486\) och radio\- och tv\-lagen (2010:696\).
+ändringar i lagen (1996:701) om Tullverkets befogenheter vid Sveriges
+gräns mot ett annat land inom Europeiska unionen, marknadsföringslagen (2008:486) och radio- och tv-lagen (2010:696).
 
-Lagändringarna föreslås träda i kraft den 1 juli 2017\.
+Lagändringarna föreslås träda i kraft den 1 juli 2017.

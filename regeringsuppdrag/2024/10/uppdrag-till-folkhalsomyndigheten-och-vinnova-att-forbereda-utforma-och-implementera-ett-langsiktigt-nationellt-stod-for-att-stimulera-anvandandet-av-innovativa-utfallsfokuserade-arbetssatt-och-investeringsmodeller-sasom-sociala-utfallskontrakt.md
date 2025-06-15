@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Folkhälsomyndigheten och Verket för innovationssystem (Vinnova) att bland annat förbereda, utforma och genomföra ett långsiktigt nationellt stöd för att uppmuntra användningen av innovativa utfallsfokuserade arbetssätt och investeringsmodeller.
 
-
 Meningen är att göra det möjligt för aktörer att tillsammans och med nya innovativa metoder ta sig an olika samhällsutmaningar. Detta för att uppnå förbättrade sociala och hälsomässiga utfall.
 
 Uppdraget samordnas av Folkhälsomyndigheten som också ska:

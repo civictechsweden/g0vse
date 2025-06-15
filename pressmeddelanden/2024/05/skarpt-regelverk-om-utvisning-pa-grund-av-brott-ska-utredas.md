@@ -14,4 +14,4 @@ Utredaren får även i uppdrag att bland annat se över hur åklagare kan ges en
 
 Till särskild utredare utses chefsåklagaren och kammarchefen Ola Sjöstrand.
 
-Uppdraget ska redovisas senast den 15 maj 2025\.
+Uppdraget ska redovisas senast den 15 maj 2025.

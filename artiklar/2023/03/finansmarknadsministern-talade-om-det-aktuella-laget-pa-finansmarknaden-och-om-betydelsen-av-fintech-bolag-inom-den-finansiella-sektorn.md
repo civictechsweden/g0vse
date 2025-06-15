@@ -2,7 +2,6 @@
 
 Idag onsdag den 15 mars talade finansmarknadsminister Niklas Wykman om den senaste tidens oro på finansmarknaden och om betydelsen av finansiell innovation på Swedish Fintech Associations årsmöte.
 
-
 ## Den senaste tidens utveckling i den amerikanska banksektorn
 
 Finansmarknadsminister Niklas Wykman inledde med att tala om den senaste utvecklingen i USA, där några nischaktörer som bland annat inriktat sig på techbolag hamnat i problem.
@@ -11,7 +10,7 @@ Han konstaterade att händelserna delvis har sin grund i förändringen i ränte
 
 Finansmarknadsministern berörde den bank som fått mest uppmärksamhet, Silicon Valley Bank (SVB). De stigande räntorna ledde till att SVB gjorde förluster på ett stort obligationsinnehav, samtidigt som kostnaden för inlåningen ökade. En misslyckad nyemission för att täcka upp för realiserade förluster från försäljningen av obligationer ledde till en förtroendekris och en uttagsanstormning från kunderna. En stor andel, omkring 90 procent, av SVB:s insättningar var så stora att de inte omfattades av insättningsgarantin.
 
-Krisen drabbade även några andra amerikanska nischbanker, bland andra Signature Bank. Denna bank visade sig också sårbar. Signature Bank hade exponeringar mot kryptotillgångar och techbolag, samt en hög andel icke\-garanterade insättningar.
+Krisen drabbade även några andra amerikanska nischbanker, bland andra Signature Bank. Denna bank visade sig också sårbar. Signature Bank hade exponeringar mot kryptotillgångar och techbolag, samt en hög andel icke-garanterade insättningar.
 
 Finansmarknadsministern noterade att problemen som drabbade både SVB och Signature Bank illustrerar att bankverksamhet bygger på förtroende. Om förtroendet skadas allvarligt så kan insättarna ta ut sina pengar och banken drabbas av en uttagsanstormning.
 
@@ -21,7 +20,7 @@ Händelseförloppet hanterades skyndsamt av myndigheter i USA. Även i Storbrita
 
 – Det som har hänt är en viktig påminnelse om varför vi behöver ha finansiella regleringar och effektiv tillsyn. Man kan konstatera att reglerna i EU och Sverige ser olika ut jämfört med USA, menar finansmarknadsminister Niklas Wykman.
 
-## EU\-reglering av fintech
+## EU-reglering av fintech
 
 Finansmarknadsministern talade också om möjligheterna som finansiell innovation för med sig. EU har de senaste åren arbetat strategiskt för att driva på den digitala omställningen av finansiella tjänster i Europa. För att även hantera vissa risker som en ökad digitalisering medför har flera initiativ till reglering tagits. Ett område där EU ligger långt framme är reglering för kryptotillgångar.
 
@@ -33,4 +32,4 @@ Finansmarknadsministern talade också om möjligheterna som finansiell innovatio
 
 Finansmarknadsministern talade även om regeringens inriktning för att skapa bättre förutsättningar för fler och växande företag. Bland annat berördes regeringens ambition om att göra det mer attraktivt att investera i svenska företag, liksom för utländska företag att etablera sig i Sverige.
 
-\- Den här regeringen arbetar för att förbättra förutsättningarna för fler och växande företag. Innovation, forskning och entreprenörskap är avgörande för Sveriges framtid. Regelbördan för företag kommer att lättas. Därtill är skattelättnader och förenklingar för entreprenörskap prioriterat i regeringens arbete. Ett exempel är att villkoren för personaloptioner ska förbättras, säger finansmarknadsminister Niklas Wykman.
+- Den här regeringen arbetar för att förbättra förutsättningarna för fler och växande företag. Innovation, forskning och entreprenörskap är avgörande för Sveriges framtid. Regelbördan för företag kommer att lättas. Därtill är skattelättnader och förenklingar för entreprenörskap prioriterat i regeringens arbete. Ett exempel är att villkoren för personaloptioner ska förbättras, säger finansmarknadsminister Niklas Wykman.

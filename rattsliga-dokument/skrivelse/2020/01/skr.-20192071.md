@@ -1,10 +1,10 @@
 # Riksrevisionens rapport om stöd till renovering och energieffektivisering
 
-I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och de rekommendationer till regeringen som Riksrevisionen har redovisat i rapporten Stöd till renovering och energieffektivisering – en riktad satsning till vissa bostadsområden (RiR 2019:25\).
+I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och de rekommendationer till regeringen som Riksrevisionen har redovisat i rapporten Stöd till renovering och energieffektivisering – en riktad satsning till vissa bostadsområden (RiR 2019:25).
 
 Riksrevisionens övergripande slutsats är att stödet för renovering och
 energieffektivisering inte har varit ändamålsenligt utformat för att på ett
-effektivt sätt kunna bidra till de bostads\- och energipolitiska målen.
+effektivt sätt kunna bidra till de bostads- och energipolitiska målen.
 Riksrevisionen menar att det fanns flera brister i regeringens utformning av stödet som förklarar både varför intresset för stödet varit lågt och varför stödet inte gett förutsättningar att, annat än marginellt, öka takten på renovering och energieffektivisering. Riksrevisionen menar också att det är oklart i vilken utsträckning stödets utformning kunde bidra till att skydda hyresgästerna mot orimliga hyreshöjningar.
 
 Regeringen instämmer delvis i Riksrevisionens iakttagelser, men anser

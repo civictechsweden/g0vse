@@ -6,4 +6,4 @@ IVO står, liksom andra myndigheter, inför nya säkerhetsutmaningar. Regeringen
 
 I det nya uppdraget ska IVO redovisa vilka åtgärder som vidtagits och vilka åtgärder som planeras på kort sikt för att förstärka säkerhetsarbetet, både för medarbetarna och verksamheten. Myndigheten ska också kartlägga behovet av ytterligare säkerhetsåtgärder på lång sikt och hur det förebyggande arbetet kan stärkas. Synpunkter från Polismyndigheten, Ekobrottsmyndigheten och Säkerhetspolisen ska inhämtas.
 
-IVO ska delredovisa medarbetarskyddet senast den 31 mars 2025 och slutredovisa hela uppdraget senast den 31 oktober 2025\.
+IVO ska delredovisa medarbetarskyddet senast den 31 mars 2025 och slutredovisa hela uppdraget senast den 31 oktober 2025.

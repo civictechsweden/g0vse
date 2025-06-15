@@ -8,8 +8,8 @@ Regeringen före­slår att det ska införas en ny föräldra­skaps­presum­ti
 
 Dessutom föreslår regeringen att utländska dom­stols­­av­gö­ran­den om och fast­­ställel­ser av föräldra­skap för en kvinna som är eller har varit gift eller sambo med barnets mor under vissa förut­sätt­ningar ska erkännas i Sverige.
 
-Regeringen föreslår också flera andra inter­natio­nellt privat\- och process­­rättsliga reg­ler om föräldra­skap för en kvinna som är eller har varit gift eller sambo med barnets mor.
+Regeringen föreslår också flera andra inter­natio­nellt privat- och process­­rättsliga reg­ler om föräldra­skap för en kvinna som är eller har varit gift eller sambo med barnets mor.
 
 Förslagen inne­bär att fler barn kommer att ha två rättsliga föräldrar i Sverige. De leder också till ökad jäm­likhet mellan föräld­rar i sam­könade respek­tive olik­könade relationer.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2022\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2022.

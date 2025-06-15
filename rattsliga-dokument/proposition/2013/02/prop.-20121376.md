@@ -6,4 +6,4 @@ Huvudförslaget är att mer än 50 år gamla inskrivningar av bland annat nyttja
 
 I propositionen föreslås också tydligare regler om förrättningskostnader och skadestånd vid upphävande av ledningsrätter som inte längre behövs.
 
-Den nya lag och de lagändringar som behövs för att genomföra åtgärderna föreslås träda i kraft den 1 juli 2013\.
+Den nya lag och de lagändringar som behövs för att genomföra åtgärderna föreslås träda i kraft den 1 juli 2013.

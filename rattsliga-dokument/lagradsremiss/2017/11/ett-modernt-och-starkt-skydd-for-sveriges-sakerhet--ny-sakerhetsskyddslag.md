@@ -6,6 +6,6 @@ För att stärka säkerhetsskyddet föreslår regeringen en ny säkerhetsskyddsl
 
 Den nya lagen tydliggör skyldigheterna för den som bedriver säkerhetskänslig verksamhet och vikten av att verksamhetsutövarna genomför säkerhetsskyddsanalyser för sina verksamheter.
 
-Till följd av den nya lagen föreslås även ett antal följdändringar i andra lagar. Lagen och följdändringarna föreslås träda i kraft den 1 januari 2019\.
+Till följd av den nya lagen föreslås även ett antal följdändringar i andra lagar. Lagen och följdändringarna föreslås träda i kraft den 1 januari 2019.
 
 [Pressmeddelande: Regeringen föreslår en ny säkerhetsskyddslag](/pressmeddelanden/2017/11/regeringen-foreslar-en-ny-sakerhetsskyddslag/)

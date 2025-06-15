@@ -4,8 +4,8 @@
 
 Inom ramen för uppdraget ska Statskontoret analysera om det finns behov av förändrade regelverk liksom lämna förslag till åtgärder som kan minska riskerna för felaktiga utbetalningar.
 
-Uppdraget kompletterar den utredning som tillsatts med uppgift att bl.a. undersöka hur ett särskilt straffrättsligt skydd, motsvarande det som finns i bidragsbrottslagen, kan införas för statliga stöd till företag och andra juridiska personer (Ett effektivt straffrättsligt skydd för statliga stöd till företag, dir. 2022:25\).
+Uppdraget kompletterar den utredning som tillsatts med uppgift att bl.a. undersöka hur ett särskilt straffrättsligt skydd, motsvarande det som finns i bidragsbrottslagen, kan införas för statliga stöd till företag och andra juridiska personer (Ett effektivt straffrättsligt skydd för statliga stöd till företag, dir. 2022:25).
 
-De statliga myndigheter och organisationer som omfattas av Statskontorets kartläggning och analys är Energimyndigheten, Folkbildningsrådet, Kulturrådet, Myndigheten för ungdoms\- och civilsamhällesfrågor, Naturvårdsverket, Riksidrottsförbundet, SISU Idrottsutbildarna och Skolverket.
+De statliga myndigheter och organisationer som omfattas av Statskontorets kartläggning och analys är Energimyndigheten, Folkbildningsrådet, Kulturrådet, Myndigheten för ungdoms- och civilsamhällesfrågor, Naturvårdsverket, Riksidrottsförbundet, SISU Idrottsutbildarna och Skolverket.
 
 Statskontoret ska redovisa uppdraget senast i december 2023, men löpande informera Finansdepartementet om hur arbetet fortgår.

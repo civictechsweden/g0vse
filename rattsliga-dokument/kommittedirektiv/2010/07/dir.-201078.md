@@ -11,4 +11,4 @@ En särskild utredare ska göra en översyn av brottmålsprocessen i syfte att �
 
 Utifrån sina överväganden ska utredaren lämna de förslag till förändringar som han eller hon anser behövs.
 
-Uppdraget ska redovisas senast den 30 september 2012\.
+Uppdraget ska redovisas senast den 30 september 2012.

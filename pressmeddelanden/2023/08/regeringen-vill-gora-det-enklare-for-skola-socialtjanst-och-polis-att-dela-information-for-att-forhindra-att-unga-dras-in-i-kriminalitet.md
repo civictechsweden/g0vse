@@ -8,4 +8,4 @@ En översyn av sekretessreglerna för att möjliggöra informationsutbyte mellan
 
 – Utvecklingen av den grova våldsbrottsligheten ökar behovet av att ta bort sekretesshinder mellan skola, socialtjänst och polis. Det här är ett viktigt steg inte bara för en säkrare skola utan också för ett säkrare Sverige, säger Patrick Reslow, riksdagsledamot i utbildningsutskottet för Sverigedemokraterna.
 
-Det nya uppdraget ska redovisas senast den 29 september 2024\.
+Det nya uppdraget ska redovisas senast den 29 september 2024.

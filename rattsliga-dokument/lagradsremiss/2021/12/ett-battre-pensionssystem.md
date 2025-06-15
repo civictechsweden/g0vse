@@ -6,6 +6,6 @@ Regeringen föreslår också ett regelverk för ett upphandlat fondtorg för pre
 
 Regeringen föreslår också en lag som reglerar en ny myndighet. Myndigheten ska upphandla fonderna och förvalta fondtorget. Regeringen föreslår att den nya myndigheten ska heta Fondtorgsnämnden.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2022\.
+Lagändringarna föreslås träda i kraft den 1 juni 2022.
 
 Förslagen bygger på Pensionsgruppens överenskommelse från den 14 december 2017

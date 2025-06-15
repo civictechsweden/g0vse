@@ -6,8 +6,8 @@ Rapporten ska beskriva bland annat företagets policy i hållbarhetsfrågor och 
 
 Vidare föreslås att vissa noterade bolag i sin bolagsstyrningsrapport ska upplysa om den mångfaldspolicy som tillämpas för styrelsen, med avseende på exempelvis ålder, kön, utbildning och yrkesbakgrund.
 
-Rapporteringskraven, som bygger på ett EU\-direktiv, ska göra informationen om hur företag arbetar med hållbarhetsfrågor mer öppen och jämförbar. Regeringens förslag har till syfte att stödja och utveckla företagens arbete med frågorna.
+Rapporteringskraven, som bygger på ett EU-direktiv, ska göra informationen om hur företag arbetar med hållbarhetsfrågor mer öppen och jämförbar. Regeringens förslag har till syfte att stödja och utveckla företagens arbete med frågorna.
 
-De lagändringar som behövs föreslås träda i kraft den 1 december 2016 och tillämpas första gången för det räkenskapsår som inleds närmast efter den 31 december 2016\.
+De lagändringar som behövs föreslås träda i kraft den 1 december 2016 och tillämpas första gången för det räkenskapsår som inleds närmast efter den 31 december 2016.
 
 [Pressmeddelande: Ökad insyn i hur stora företag arbetar med hållbarhet och mångfald](/pressmeddelanden/2016/06/okad-insyn-i-hur-stora-foretag-arbetar-med-hallbarhet-och-mangfald/)

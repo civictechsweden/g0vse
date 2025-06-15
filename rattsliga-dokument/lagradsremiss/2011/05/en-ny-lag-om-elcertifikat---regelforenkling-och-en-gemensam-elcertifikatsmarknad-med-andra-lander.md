@@ -11,4 +11,4 @@ I lagrådsremissen föreslås en ny lag om elcertifikat. Elcertifikatssystemets 
 
 I övrigt innebär förslaget ett antal redaktionella och språkliga ändringar samt omdispositioner i syfte att göra lagen mer överskådlig, tydlig och lättillgänglig. Den föreslagna nya lagen om elcertifikat bör genom förslagen leda till regelförenklingar och förbättrade administrativa rutiner.
 
-Den nya lagen om elcertifikat föreslås träda i kraft den 1 januari 2012\.
+Den nya lagen om elcertifikat föreslås träda i kraft den 1 januari 2012.

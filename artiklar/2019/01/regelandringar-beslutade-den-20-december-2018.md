@@ -1,7 +1,6 @@
 # Regeländringar beslutade den 20 december 2018
 
-Den 20 december beslutade regeringen om följande regeländringar inom Miljö\- och energidepartementets områden.
-
+Den 20 december beslutade regeringen om följande regeländringar inom Miljö- och energidepartementets områden.
 
 ## Ändringar i förordningen om trygg naturgasförsörjning
 
@@ -9,12 +8,12 @@ Regeringen har beslutat om ändringar i förordningen om trygg naturgasförsörj
 
 Ändringen innebär vidare att det är den som är systembalansansvarig (Swedegas) som ska säkerställa att gasen tillförs det västsvenska naturgassystemet och kan fördelas vidare till kunderna. I fråga om ersättningen för gasen ska det befintliga systemet med balansavräkning under systembalansansvaret utnyttjas. Vid dröjsmål ska Energimyndigheten ombesörja betalning på den systembalansansvariges bekostnad.
 
-Ändringen träder i kraft den 1 februari 2019\.
+Ändringen träder i kraft den 1 februari 2019.
 
 Referenser:
 
 * Europaparlamentets och rådets förordning (EU) 2017/1938 av den 25 oktober 2017 om åtgärder för att säkerställa försörjningstryggheten för gas och om upphävande av förordning (EU) nr 994/2010
-* förordningen (2012:275\) om trygg naturgasförsörjning
+* förordningen (2012:275) om trygg naturgasförsörjning
 
 ## Ändringar i elsäkerhetsförordningen
 
@@ -24,7 +23,7 @@ Regeringen har beslutat om ändringar i elsäkerhetsförordningen. Begreppet elv
 
 Referenser:
 
-* elsäkerhetsförordningen (2017:218\)
+* elsäkerhetsförordningen (2017:218)
 
 ## Ändring i förordningen om miljöledning i statliga myndigheter
 
@@ -32,12 +31,12 @@ Regeringen har beslutat om ändring i förordningen om miljöledning i statliga 
 
 Referenser:
 
-* förordningen (2009:907\) om miljöledning i statliga myndigheter
+* förordningen (2009:907) om miljöledning i statliga myndigheter
 
 ### Kontaktpersoner
 
-Naturgasförsörjning: Christina Nordenbladh, 08\-405 22 65
+Naturgasförsörjning: Christina Nordenbladh, 08-405 22 65
 
-Elsäkerhet: Maria Werleskog, 08\-405 83 58
+Elsäkerhet: Maria Werleskog, 08-405 83 58
 
-Miljöledning: Anna Berglund, 08\-405 49 58
+Miljöledning: Anna Berglund, 08-405 49 58

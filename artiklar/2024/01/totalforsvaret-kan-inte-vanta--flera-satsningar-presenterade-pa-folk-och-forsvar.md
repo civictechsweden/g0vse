@@ -1,13 +1,12 @@
 # Totalförsvaret kan inte vänta – flera satsningar presenterade på Folk och Försvar
 
-När Folk och Försvars rikskonferens 2024 hölls i Sälen den 7–9 januari, presenterade försvarsminister Pål Jonson och minister för civilt försvar Carl\-Oskar Bohlin flera nya satsningar.
-
+När Folk och Försvars rikskonferens 2024 hölls i Sälen den 7–9 januari, presenterade försvarsminister Pål Jonson och minister för civilt försvar Carl-Oskar Bohlin flera nya satsningar.
 
 Satsningarna rör både det militära och det civila försvaret, som tillsammans utgör totalförsvaret.
 
 ## Öka samhällets motståndskraft
 
-Vid höjd beredskap och ytterst krig måste viktiga samhällsfunktioner, som vård, transporter, energiförsörjning och livsmedelsförsörjning, kunna upprätthållas på ett effektivt sätt. Carl\-Oskar Bohlin presenterade i Sälen två nya myndighetsuppdrag för att öka samhällets motståndskraft i händelse av kris eller krig.
+Vid höjd beredskap och ytterst krig måste viktiga samhällsfunktioner, som vård, transporter, energiförsörjning och livsmedelsförsörjning, kunna upprätthållas på ett effektivt sätt. Carl-Oskar Bohlin presenterade i Sälen två nya myndighetsuppdrag för att öka samhällets motståndskraft i händelse av kris eller krig.
 
 Det första uppdraget är till Myndigheten för samhällsskydd och beredskap (MSB) som ska stärka stödet till civila aktörer som ansvarar för samhällsviktig verksamhet. Enligt uppdraget ska MSB utveckla det stöd som redan finns till dessa aktörer i deras arbete med att förbereda sin krigsorganisation – det vill säga förmågan att kunna ställa om från fredstida förhållanden till den verksamhet som ska bedrivas vid höjd beredskap.
 

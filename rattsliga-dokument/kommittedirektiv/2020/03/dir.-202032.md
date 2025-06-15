@@ -10,4 +10,4 @@ Kommittén ska bl.a.
 * överväga på vilket sätt forskning och innovation i högre grad kan knytas till det praktiska arbetet med att förebygga och utreda brott, och
 * genomföra en genomlysning av hur ett modernt straffsystem bör vara utformat för att kunna bidra till de kriminalpolitiska målen.
 
-Kommittén ska slutredovisa sitt arbete senast den 31 oktober 2024\. En första delredovisning ska lämnas senast den 1 mars 2021\. Därefter ska årliga delredovisningar lämnas den 31 oktober 2021–2023\.
+Kommittén ska slutredovisa sitt arbete senast den 31 oktober 2024. En första delredovisning ska lämnas senast den 1 mars 2021. Därefter ska årliga delredovisningar lämnas den 31 oktober 2021–2023.

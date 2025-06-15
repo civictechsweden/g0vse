@@ -1,6 +1,6 @@
 # Ackreditering till besök av hertigparet av Cambridge
 
-Medierepresentanter behöver särskild ackreditering via UD:s internationella presscenter för att kunna bevaka besöket. Senaste dag att ansöka om ackreditering är den 24 januari 2018\.
+Medierepresentanter behöver särskild ackreditering via UD:s internationella presscenter för att kunna bevaka besöket. Senaste dag att ansöka om ackreditering är den 24 januari 2018.
 
 ## Program för besöket
 
@@ -32,27 +32,27 @@ Fotopool
 Onsdagens program inleds med ett besök på Karolinska institutet. Hertigparet och kronprinsessparet får där ta del av arbetet kring att motverka psykisk ohälsa bland barn och unga.
 Fototillfälle och fotopool
 
-**Besök på Matteusskolan**På Matteusskolan får man tillfälle att samtala med elever och lärare som har deltagit i YAM\-projektet, Youth Aware of Mental health. Det är ett program för skolelever som främjar diskussion och utvecklar färdigheter för att möta livets svårigheter och öka kunskap om psykisk hälsa.
+**Besök på Matteusskolan**På Matteusskolan får man tillfälle att samtala med elever och lärare som har deltagit i YAM-projektet, Youth Aware of Mental health. Det är ett program för skolelever som främjar diskussion och utvecklar färdigheter för att möta livets svårigheter och öka kunskap om psykisk hälsa.
 Fototillfälle och fotopool
 
 **Besök på Nordiska Kompaniet**
-Kronprinsessparet och hertigparet besöker varuhuset NK för att ta del av en interaktiv utställning om brittisk design. De träffar också representanter för brittiska design\- och modeföretag verksamma i Sverige för att lära sig mer om företagens arbete, i synnerhet inom hållbarhetsfrågor.
+Kronprinsessparet och hertigparet besöker varuhuset NK för att ta del av en interaktiv utställning om brittisk design. De träffar också representanter för brittiska design- och modeföretag verksamma i Sverige för att lära sig mer om företagens arbete, i synnerhet inom hållbarhetsfrågor.
 Fototillfälle och fotopool
 
 Kronprinsessparet tar emot hertigparet på Haga slott.
 Inget medietillfälle.
 
 **Mottagning på Fotografiska**
-Hertigparet och kronprinsessparet närvarar vid en mottagning på Fotografiska för svenskt kulturliv med inbjudna gäster från musik\-, film\-, tv\-, konst\- och sportvärlden.
+Hertigparet och kronprinsessparet närvarar vid en mottagning på Fotografiska för svenskt kulturliv med inbjudna gäster från musik-, film-, tv-, konst- och sportvärlden.
 Fototillfälle och fotopool
 
 ### Torsdagen den 1 februari
 
-**Uppsala garnison**Hertigparets vistelse i Sverige avslutas med ett besök på luftstridsskolan i Uppsala. Där ges en briefing om Flygvapnets operativa kapacitet samt en presentation av några Gripen\-modeller.
+**Uppsala garnison**Hertigparets vistelse i Sverige avslutas med ett besök på luftstridsskolan i Uppsala. Där ges en briefing om Flygvapnets operativa kapacitet samt en presentation av några Gripen-modeller.
 Fototillfälle
 
 ## Till redaktionen
 
-Medierepresentanter behöver särskild ackreditering via UD:s internationella presscenter för att kunna bevaka besöket. Sista att ansöka om ackreditering är onsdagen den 24 januari 2018\.
+Medierepresentanter behöver särskild ackreditering via UD:s internationella presscenter för att kunna bevaka besöket. Sista att ansöka om ackreditering är onsdagen den 24 januari 2018.
 
 Ackrediteringen är stängd.

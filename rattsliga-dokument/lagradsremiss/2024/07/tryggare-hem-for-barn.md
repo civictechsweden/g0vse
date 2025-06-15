@@ -10,4 +10,4 @@ För att stärka tryggheten och stabiliteten för barn som är placerade i famil
 
 För att stärka barnrättsperspektivet och rättssäkerheten vid vårdnadsöverflyttning föreslår regeringen också att barnet och dess vårdnadshavare ska ha rätt till ett offentligt biträde.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2025\.
+Lagändringarna föreslås träda i kraft den 1 januari 2025.

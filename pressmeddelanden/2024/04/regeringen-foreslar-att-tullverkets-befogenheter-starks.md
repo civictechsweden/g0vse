@@ -1,6 +1,6 @@
 # Regeringen föreslår att Tullverkets befogenheter stärks
 
-Den organiserade brottsligheten är systemhotande och Tullverket har en nyckelroll i arbetet mot den kriminella ekonomin. Under 2023 beslagtog Tullverket dubbelt så stor mängd narkotika som under 2022\. Samtidigt behöver Tullverkets befogenheter stärkas ytterligare för att öka beslagen och tulltjänstemännens säkerhet i arbetet.
+Den organiserade brottsligheten är systemhotande och Tullverket har en nyckelroll i arbetet mot den kriminella ekonomin. Under 2023 beslagtog Tullverket dubbelt så stor mängd narkotika som under 2022. Samtidigt behöver Tullverkets befogenheter stärkas ytterligare för att öka beslagen och tulltjänstemännens säkerhet i arbetet.
 
 – För att krossa den organiserade brottsligheten behöver vi strypa den kriminella ekonomin. Tullverkets tjänstemän befinner sig i frontlinjen i det arbetet och behöver få skarpare verktyg. Därför är jag så glad att vi i dag beslutat om en proposition som stärker Tullverkets befogenheter, säger finansminister Elisabeth Svantesson.
 
@@ -10,4 +10,4 @@ Regeringen föreslår även att tulltjänstemän ska kunna kroppsvisitera person
 
 I propositionen finns även förslag om att utvidga Tullverkets rätt att inleda förundersökningar samt en mer generell möjlighet för myndigheten att biträda åklagare och Polismyndigheten i deras brottsbekämpande verksamhet.
 
-Tulltjänstemännens befogenheter föreslås samlas i en ny lag vilket kommer ge bättre förutsättningar för Tullverket att utföra sitt uppdrag på ett effektivt sätt. Förslagen föreslås träda i kraft den 7 november 2024\.
+Tulltjänstemännens befogenheter föreslås samlas i en ny lag vilket kommer ge bättre förutsättningar för Tullverket att utföra sitt uppdrag på ett effektivt sätt. Förslagen föreslås träda i kraft den 7 november 2024.

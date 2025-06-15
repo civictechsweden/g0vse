@@ -8,4 +8,4 @@ För att regel­verket för ärenden med säker­hets­aspekter ska bli mer änd
 * Ett främlings­pass ska kunna återkallas av säker­hetsskäl.
 * Det ska vara möjligt att i vissa fall återkalla ett uppe­hålls­tillstånd om det kan antas att utlän­ningen kommer att bedriva statsstyrt företags­spioneri eller verk­samhet med koppling till terrorism.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

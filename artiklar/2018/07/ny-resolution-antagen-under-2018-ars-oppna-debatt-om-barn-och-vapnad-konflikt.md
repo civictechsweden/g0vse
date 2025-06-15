@@ -4,11 +4,11 @@
 
 Var femte minut dör ett barn till följd av våld. Runt om i världen tvingas över 350 miljoner barn leva med konsekvenserna av våld och konflikt. Över 125 miljoner barn är direkt drabbade av en väpnad konflikt. Antalet konflikter i världen ökar, och barn är mest sårbara. De behöver vårt skydd. Genom att skydda barn idag kan vi förhindra konflikter imorgon.
 
-Sverige har en lång historia av att arbeta för barnets rättigheter. Under våra två år som icke\-permanent medlem i säkerhetsrådet är ett av våra fokusområden barn och väpnad konflikt.
+Sverige har en lång historia av att arbeta för barnets rättigheter. Under våra två år som icke-permanent medlem i säkerhetsrådet är ett av våra fokusområden barn och väpnad konflikt.
 
 Arbetet på detta område fokuserar på skydd av barn samt respekt för FN:s konvention om barnets rättigheter och internationell humanitär rätt. Detta innefattar respekt för agendan för barn och väpnad konflikt och för dess okränkbarhet.
 
-I säkerhetsrådet har Sverige genomgående lyft frågan om den utsatta situationen för barn som påverkas av väpnade konflikter. Vi har också främjat arbetet för skydd av barn och deras rättigheter, bland annat genom ordförandeskapsuttalandet som lades fram av Sverige och antogs enhälligt av säkerhetsrådet i oktober 2017\. Hittills har vi antagit sex landspecifika rekommendationer. Vi har gjort arbetet i säkerhetsrådets arbetsgrupp för barn och väpnad konflikt mer fältorienterat. Vi har integrerat språk om barn och väpnad konflikt i säkerhetsrådet.
+I säkerhetsrådet har Sverige genomgående lyft frågan om den utsatta situationen för barn som påverkas av väpnade konflikter. Vi har också främjat arbetet för skydd av barn och deras rättigheter, bland annat genom ordförandeskapsuttalandet som lades fram av Sverige och antogs enhälligt av säkerhetsrådet i oktober 2017. Hittills har vi antagit sex landspecifika rekommendationer. Vi har gjort arbetet i säkerhetsrådets arbetsgrupp för barn och väpnad konflikt mer fältorienterat. Vi har integrerat språk om barn och väpnad konflikt i säkerhetsrådet.
 
 Sveriges fyra prioriteringar är genomförande av agendan för barn och väpnad konflikt, barns rätt att göra sina röster hörda, barns rätt till utbildning och barns rätt till hälsa, även psykisk hälsa. Utifrån dessa fyra prioriteringar har Sverige organiserat barnkonsultationer runt om i världen, bland annat i Sverige. Syftet med dessa konsultationer har varit att lyssna på barnen och på deras åsikter och rekommendationer. Rekommendationerna kommer att presenteras för FN, stater, civilsamhällesorganisationer och allmänheten. De presenterades även vid den årliga öppna debatten om barn och väpnad konflikt, som leddes av statsminister Stefan Löfven.
 
@@ -18,7 +18,7 @@ För det första betonar den att agendan för barn och väpnad konflikt är av a
 
 För det andra innehåller den ett omfattande ramverk för återintegrering. En lyckad återintegrering är avgörande för barnet, men också för hela samhället. Barnen ska alltid vara en del av lösningen, inte problemet.
 
-För det tredje erkänner resolutionen vikten av att flickor och pojkar som lever i konfliktdrabbade områden får tillgång till utbildning och hälso\- och sjukvård, även psykisk vård. Resolutionen kopplar även ihop agendan för barn och väpnad konflikt med de globala målen för hållbar utveckling.
+För det tredje erkänner resolutionen vikten av att flickor och pojkar som lever i konfliktdrabbade områden får tillgång till utbildning och hälso- och sjukvård, även psykisk vård. Resolutionen kopplar även ihop agendan för barn och väpnad konflikt med de globala målen för hållbar utveckling.
 
 För det fjärde är det den första säkerhetsrådsresolutionen någonsin som innehåller den centrala principen att barn i första hand ska behandlas som offer.
 

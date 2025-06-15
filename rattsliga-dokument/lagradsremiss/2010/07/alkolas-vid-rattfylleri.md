@@ -8,4 +8,4 @@ För att återfå ett körkort utan villkor om alkolås ska den som har en två�
 
 Endast den typ av alkolås som godkänts av Tranportstyrelsen får användas när ett körkortsinnehav förenats med ett villkor om alkolås. För godkännande för användning i villkorsverksamheten kan också ställas krav på tillhandahållande av möjligheter att installera, kontrollera, kalibrera och tömma alkolåset på data. För att godkänna en viss typ alkolås krävs också att alkolåset har prövats av en ackrediterad provanstalt, som intygar att det uppfyller den europeiska standarden för alkolås.
 
-De nya bestämmelserna om teknisk kontroll och godkännande av alkolås föreslås träda i kraft den 1 oktober 2011, och övriga bestämmelser den 1 januari 2012\.
+De nya bestämmelserna om teknisk kontroll och godkännande av alkolås föreslås träda i kraft den 1 oktober 2011, och övriga bestämmelser den 1 januari 2012.

@@ -6,4 +6,4 @@ Den fasta avgiften för att få en utställningsgaranti bör höjas från 3 000 
 
 I ett ärende om utställningsgarantier är flera parter inblandade, främst Statens kulturråd, Kammarkollegiet, utställningsanordnaren och den som lånar ut ett föremål till en utställning. Informationen om vad som innefattas i systemet med statlig utställningsgaranti behöver förbättras. Detta gäller i relationen mellan Statens kulturråd och utställningsanordnaren, men framför allt i relationen mellan utställningsanordnaren och den som lånar ut föremål. Behovet av dokument som kan användas i kontakter med utländska utlånare behöver särskilt uppmärksammas.
 
-Ändringarna i förordningen (1998:200\) om statliga utställningsgarantier föreslås träda i kraft den 1 januari 2016\.
+Ändringarna i förordningen (1998:200) om statliga utställningsgarantier föreslås träda i kraft den 1 januari 2016.

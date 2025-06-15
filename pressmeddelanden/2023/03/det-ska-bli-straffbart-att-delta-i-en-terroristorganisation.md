@@ -10,4 +10,4 @@ I princip alla former av stöd till en terrorist­organisation – oavsett om de
 
 Straffskalan föreslås vara fängelse i högst fyra år. Om brottet är grovt före­slås straff­skalan vara fängelse i lägst två och högst åtta år. Har gärnings­mannen lett terrorist­organisationen föreslås straff­skalan i stället vara fängelse på viss tid, lägst två och högst arton år, eller på livstid.
 
-Propositionen lämnas i dag över till riksdagen. Lag­ändringarna föreslås träda i kraft den 1 juni 2023\.
+Propositionen lämnas i dag över till riksdagen. Lag­ändringarna föreslås träda i kraft den 1 juni 2023.

@@ -1,6 +1,6 @@
 # Anna Kinberg Batra ny landshövding i Stockholms län
 
-Anna Kinberg Batras förordnande som landshövding och chef för Länsstyrelsen i Stockholms län gäller från och med den 1 mars 2023 till och med den 28 februari 2029\.
+Anna Kinberg Batras förordnande som landshövding och chef för Länsstyrelsen i Stockholms län gäller från och med den 1 mars 2023 till och med den 28 februari 2029.
 
 – Anna Kinberg Batra är en person med erfarenhet från såväl stat som region och kommun. Annas erfarenheter från politik och näringsliv kommer att vara en tillgång för invånarna i Stockholms län. Jag är glad att Anna Kinberg Batra har tackat ja till uppdraget, säger civilminister Erik Slottner.
 

@@ -1,6 +1,6 @@
 # Sverige tar över ordförandeskapet för Forest Europe
 
-Under ministerkonferensen i Tyskland den 1–2 oktober överlämnades ordförandeskapet till Sverige som formellt tar över som ordförandeland 1 januari 2025\. Att bidra till att stärka Forest Europes roll och säkerställa att ministerkonferensen förblir relevant för både undertecknare och observatörsorganisationer står högt bland Sveriges prioriteringar. I slutet av 2025 publiceras rapporten om tillståndet för Europas skogar "State of European Forests".
+Under ministerkonferensen i Tyskland den 1–2 oktober överlämnades ordförandeskapet till Sverige som formellt tar över som ordförandeland 1 januari 2025. Att bidra till att stärka Forest Europes roll och säkerställa att ministerkonferensen förblir relevant för både undertecknare och observatörsorganisationer står högt bland Sveriges prioriteringar. I slutet av 2025 publiceras rapporten om tillståndet för Europas skogar "State of European Forests".
 
 – Jag ser fram emot att leda samarbetet vidare under kommande år. Inför det svenska ordförandeskapet är Sveriges främsta prioritet det pågående arbetet med hållbart skogsbruk och dess kriterier och indikatorer, säger landsbygdsminister Peter Kullgren.
 

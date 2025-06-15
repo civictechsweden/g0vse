@@ -2,4 +2,4 @@
 
 Regeringen beslutar förlänga utredningstiden för utredningen Framtidens socialtjänst.
 
-Uppdraget ska redovisas senast den 3 augusti 2020\.
+Uppdraget ska redovisas senast den 3 augusti 2020.

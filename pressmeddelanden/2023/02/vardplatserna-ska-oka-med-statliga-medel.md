@@ -1,6 +1,6 @@
 # Vårdplatserna ska öka med statliga medel
 
-– Svensk hälso\- och sjukvård har stora utmaningar med bland annat vårdplatsbrist som äventyrar patientsäkerheten och leder till en ohållbar arbetsmiljö för vårdens medarbetare.  Dålig arbetsmiljö som leder till bristande kompetensförsörjning är en viktig bidragande orsak till vårdplatsbristen. Vi måste säkerställa sjukvårdens kompetensförsörjning och lösa de problem vi har med bristande tillgänglighet. Lägstanivån är för låg inom akutsjukvården. Vårdplatserna behöver bli fler, både till vardags men även i händelse av höjd beredskap, säger sjukvårdsminister Acko Ankarberg Johansson.
+– Svensk hälso- och sjukvård har stora utmaningar med bland annat vårdplatsbrist som äventyrar patientsäkerheten och leder till en ohållbar arbetsmiljö för vårdens medarbetare.  Dålig arbetsmiljö som leder till bristande kompetensförsörjning är en viktig bidragande orsak till vårdplatsbristen. Vi måste säkerställa sjukvårdens kompetensförsörjning och lösa de problem vi har med bristande tillgänglighet. Lägstanivån är för låg inom akutsjukvården. Vårdplatserna behöver bli fler, både till vardags men även i händelse av höjd beredskap, säger sjukvårdsminister Acko Ankarberg Johansson.
 
 ### Närmare två miljarder till regionerna för fler disponibla vårdplatser
 

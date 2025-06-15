@@ -4,4 +4,4 @@ Här kan du ta del av de remissvar som kommit in till Miljödepartementet från 
 
 Övriga yttranden med anledning av remissen finns tillgängliga i departementet.
 
-Remissvaren ska ha kommit in till Miljödepartementet senast den 30 oktober 2020\.
+Remissvaren ska ha kommit in till Miljödepartementet senast den 30 oktober 2020.

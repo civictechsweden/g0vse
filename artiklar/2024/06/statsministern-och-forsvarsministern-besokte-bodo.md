@@ -2,7 +2,6 @@
 
 Den 19–20 juni besökte statsminister Ulf Kristersson och försvarsminister Pål Jonson Bodø i Norge för möte med sina norska och finska kollegor.
 
-
 Vid mötet diskuterades bland annat det kommande Natotoppmötet i Washington samt fördjupat samarbete mellan länderna för att stärka den militära och civila försvarsförmågan.
 
 En aspekt som diskuterades handlar om den civila och militära rörligheten mellan landsgränserna. Det handlar till exempel om att sammanlänka ländernas infrastruktur i större utsträckning jämfört med i dag.

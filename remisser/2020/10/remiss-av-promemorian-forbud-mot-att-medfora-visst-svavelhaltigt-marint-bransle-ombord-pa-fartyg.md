@@ -4,5 +4,4 @@ Här kan du ta del av de remissvar som har kommit till Miljödepartementet om pr
 
 Övriga yttranden i samband med remissen finns tillgängliga i departementet.
 
-
-Remissvaren ska ha kommit in till Miljödepartementet senast den 11 januari 2021\.
+Remissvaren ska ha kommit in till Miljödepartementet senast den 11 januari 2021.

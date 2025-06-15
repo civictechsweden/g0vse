@@ -8,4 +8,4 @@ Utredaren rekommenderar att man börjar med att skärpa delar av regelverket, sn
 
 – Utredaren har på ett förtjänstfullt sätt belyst problemen med rådande ordning. Vi följer nu sedvanliga processer och skickar utredningen på remiss. Ett lagstiftningsarbete kan påbörjas i Regeringskansliet omedelbart därefter, säger finansmarknadsminister Niklas Wykman.
 
-Remisstiden löper ut den 12 augusti 2024\.
+Remisstiden löper ut den 12 augusti 2024.

@@ -2,8 +2,7 @@
 
 Elektrifieringskommissionen har nu presenterat 17 elektrifieringslöften från sammantaget 252 aktörer runt om i landet. Gemensamt är att aktörerna vill arbeta för att påskynda elektrifieringen av de regionala godstransporterna med lastbil.
 
-
-Senast år 2045 ska Sverige inte ha några nettoutsläpp av växthusgaser till atmosfären. Nettonollmålet innebär att växthusgasutsläppen från flera sektorer, inklusive transportsektorn, i princip kommer att behöva vara noll senast 2045\. Transporter genererar cirka en tredjedel av växthusgasutsläppen och vägtransporter orsakar huvuddelen av dessa.
+Senast år 2045 ska Sverige inte ha några nettoutsläpp av växthusgaser till atmosfären. Nettonollmålet innebär att växthusgasutsläppen från flera sektorer, inklusive transportsektorn, i princip kommer att behöva vara noll senast 2045. Transporter genererar cirka en tredjedel av växthusgasutsläppen och vägtransporter orsakar huvuddelen av dessa.
 
 Kraftfulla åtgärder behövs för att utsläppen från transporter ska minska i snabbare takt och elektrifiering är en viktig del av lösningen. Regeringen har därför under det senaste året intensifierat arbetet med att elektrifiera transportsektorn, bland annat genom att inrätta en Elektrifieringskommission.
 

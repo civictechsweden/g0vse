@@ -1,7 +1,6 @@
 # Gemensamt uttalande från den internationella samordnings- och åtgärdsgruppen för offer från PS752
 
-Den internationella samordnings\- och åtgärdsgruppen för offer från PS752 har i dag presenterat följande gemensamma uttalande:
-
+Den internationella samordnings- och åtgärdsgruppen för offer från PS752 har i dag presenterat följande gemensamma uttalande:
 
 Vi ministrar som företräder Sverige, Storbritannien, Kanada och Ukraina har tagit ännu ett steg i arbetet för insyn, rättvisa och ansvarsutkrävande för Irans olagliga nedskjutning av Ukraine International Airlines flygning 752 som krävde 176 personers liv, däribland personer hemmahörande i våra länder.
 

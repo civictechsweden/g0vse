@@ -1,7 +1,6 @@
 # CAT:s granskning (2018-08-09) av ärendet B.N.T.K. mot Sverige
 
-Fråga om utvisning av klaganden till hemlandet (Elfenbenskusten) skulle strida mot artikel 3 i FN\-konventionen mot tortyr m.m.
-
+Fråga om utvisning av klaganden till hemlandet (Elfenbenskusten) skulle strida mot artikel 3 i FN-konventionen mot tortyr m.m.
 
 ## Sammanfattning av granskningen
 

@@ -2,7 +2,6 @@
 
 Ansvaret för att främja finansiell stabilitet delas mellan Finansdepartementet, Finansinspektionen, Riksbanken och Riksgälden. Samspelet mellan myndigheterna är viktigt, både i det förebyggande arbetet för finansiell stabilitet och vid en eventuell finansiell kris.
 
-
 ## Finansdepartementet
 
 Finansdepartementet är övergripande ansvarigt för utformningen av ramverket för finansiell stabilitet. Finansdepartementet är också den instans som mest uttalat har att tillvarata skattebetalarnas intresse när den finansiella stabiliteten är hotad.
@@ -17,4 +16,4 @@ Riksbankens löpande stabilitetsarbete består av att inhämta och sprida inform
 
 ## [Riksgälden](http://riksgalden.se)
 
-Riksgälden har som resolutions\- respektive stödmyndighet en central roll i statens åtgärder för att värna den finansiella stabiliteten. Som resolutionsmyndighet kommer Riksgälden att planera hur banker i kris ska hanteras och, om resolution av en bank måste inledas, ha tillgång till verktyg som säkerställer att bankens kritiska verksamhet kan drivas vidare. I uppdraget som stödmyndighet ingår att ge lånegarantier och kapitaltillskott till solventa banker. Riksgälden hanterar även insättningsgarantin och stabilitetsfonden.
+Riksgälden har som resolutions- respektive stödmyndighet en central roll i statens åtgärder för att värna den finansiella stabiliteten. Som resolutionsmyndighet kommer Riksgälden att planera hur banker i kris ska hanteras och, om resolution av en bank måste inledas, ha tillgång till verktyg som säkerställer att bankens kritiska verksamhet kan drivas vidare. I uppdraget som stödmyndighet ingår att ge lånegarantier och kapitaltillskott till solventa banker. Riksgälden hanterar även insättningsgarantin och stabilitetsfonden.

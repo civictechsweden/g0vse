@@ -9,4 +9,4 @@ förundersökningsrätt enligt lagen om Tullverkets och Kustbevakningens befogen
 
 I lagrådsremissen föreslås också att befogenheten för åklagare att ta hjälp av Tullverket ska utvidgas. Befogenheten ska även gälla vid en förundersökning angående brott som avser innehav av en vara som inte får innehas utan tillstånd och som omfattas av ett särskilt föreskrivet förbud mot eller villkor för införsel eller utförsel, om varan har påträffats i samband med att Tullverket utreder ett brott som omfattas av smugglingslagen.
 
-Ändringarna föreslås träda i kraft den 1 augusti 2020\.
+Ändringarna föreslås träda i kraft den 1 augusti 2020.

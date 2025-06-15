@@ -8,6 +8,6 @@ Kapning och andra brott mot den civila luftfarten utgör allvarliga företeelser
 
 I lagrådsremissen föreslås att Sverige ska tillträda protokollet och konventionen. Regeringen föreslår också att straffansvaret för kapning utvidgas till att omfatta den som olovligen med tekniskt hjälpmedel kapar luftfartyg eller andra transportmedel. Vidare föreslås att det utvidgas på så sätt att även lätta lastbilar ska ingå bland de transportmedel som kapningsbrottet omfattar.
 
-Lagändringarna föreslås träda i kraft den 1 maj 2018\.
+Lagändringarna föreslås träda i kraft den 1 maj 2018.
 
 [Pressmeddelande: Kapningsbrottet utvidgas och moderniseras](/pressmeddelanden/2017/11/kapningsbrottet-utvidgas-och-moderniseras/)

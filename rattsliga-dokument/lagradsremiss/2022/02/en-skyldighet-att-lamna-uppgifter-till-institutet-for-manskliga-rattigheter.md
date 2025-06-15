@@ -4,4 +4,4 @@ I lagrådsremissen föreslås att statliga förvaltningsmyndigheter, kommuner oc
 
 Skyldigheten ska inte gälla för domstolsliknande nämnder eller sådana organ i förvaltningsmyndigheter som har domstolsliknande uppgifter. Skyldigheten ska inte heller gälla för Justitiekanslern eller Riksrevisionen.
 
-Lagändringen föreslås träda i kraft den 1 september 2022\.
+Lagändringen föreslås träda i kraft den 1 september 2022.

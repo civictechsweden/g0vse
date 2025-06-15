@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Centrum för idrottsforskning (CIF) att under 2024 fördjupat analysera hur det ideella engagemanget inom idrottsrörelsen ser ut. CIF ska även övergripande kartlägga och analysera idrottsrörelsens tillgång till idrottsanläggningar främst inom kommunala skolfastigheter.
 
-
 Centrum för idrottsforskning (CIF) ska:
 
 * beskriva utvecklingen av det ideella engagemanget inom idrottsrörelsen och de möjligheter och utmaningar som finns, samt utvecklingens möjliga effekter på den svenska idrottsmodellen,

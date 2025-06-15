@@ -12,6 +12,6 @@ Regeringen stramar samtidigt upp bestämmelsen om återkrav av bidrag. Bland ann
 
 Utöver dessa ändringar som syftar till att stärka Folkbildningsrådets roll preciseras vissa villkor för att få statsbidrag.
 
-Förordningen träder i kraft den 1 december 2023 och tillämpas första gången i fråga om bidrag för 2024\. De flesta förändringarna gäller även SISU Idrottsutbildarna som omfattas av samma förordning.
+Förordningen träder i kraft den 1 december 2023 och tillämpas första gången i fråga om bidrag för 2024. De flesta förändringarna gäller även SISU Idrottsutbildarna som omfattas av samma förordning.
 
 Beslutet bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

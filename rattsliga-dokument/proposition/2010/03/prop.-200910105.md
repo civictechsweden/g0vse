@@ -1,6 +1,6 @@
 # Barn under 15 år som misstänks för brott
 
-I propositionen gör regeringen en översyn av de bestämmelser i lagen (1964:167\) med särskilda bestämmelser om unga lagöverträdare som avser brottsmisstänkta barn som inte fyllt 15 år.
+I propositionen gör regeringen en översyn av de bestämmelser i lagen (1964:167) med särskilda bestämmelser om unga lagöverträdare som avser brottsmisstänkta barn som inte fyllt 15 år.
 
 Ett övergripande syfte med de föreslagna ändringarna är att brott begångna av barn under 15 år ska utredas i större utsträckning och mer effektivt.
 
@@ -18,4 +18,4 @@ En möjlighet att vidta tvångsvisa drogtester av barn under 15 år som misstän
 
 Möjligheten att förordna juridiskt biträde för den unge utvidgas.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2010\.
+Lagändringarna föreslås träda i kraft den 1 juli 2010.

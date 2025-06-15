@@ -1,18 +1,17 @@
 # Uppdrag att utreda förutsättningarna för Sjöfartsverkets verksamhets- och finansieringsform
 
-Regeringen ger Statskontoret i uppdrag att utreda förutsättningarna för Sjöfartsverkets verksamhets\- och finansieringsform och lämna förslag på en ändamålsenlig myndighetsorganisation och finansiering som möjliggör en effektiv styrning mot transportpolitiska och klimatpolitiska mål. I uppdraget ingår följande.
-
+Regeringen ger Statskontoret i uppdrag att utreda förutsättningarna för Sjöfartsverkets verksamhets- och finansieringsform och lämna förslag på en ändamålsenlig myndighetsorganisation och finansiering som möjliggör en effektiv styrning mot transportpolitiska och klimatpolitiska mål. I uppdraget ingår följande.
 
 – Utvärdera nuvarande och alternativa verksamhetsformer för
 Sjöfartsverket inklusive:
 
-* för\- respektive nackdelar ur verksamhets\-, finansierings\- och
-styrningsperspektiv,
+* för- respektive nackdelar ur verksamhets-, finansierings- och
+  styrningsperspektiv,
 * samhällsekonomiska effekter och konsekvenser för statens
-budget, samt
+  budget, samt
 * möjligheten att styra mot överflyttning av transporter till
-sjöfart och ökad transporteffektivitet i linje med
-transportpolitiska och klimatpolitiska mål.
+  sjöfart och ökad transporteffektivitet i linje med
+  transportpolitiska och klimatpolitiska mål.
 
 – Utvärdera Sjöfartsverkets avgiftsfinansiering utifrån det övergripande
 målet om att säkerställa samhällsekonomiskt effektiv och långsiktigt
@@ -27,4 +26,4 @@ redogöra för bland annat:
 * möjligheterna för större inslag av samhällsekonomiskt motiverad avgiftsdifferentiering och konsekvenserna för detta, samt
 * sjöfartens bidrag till att nå klimatmålen och internalisera de negativa externaliteter sjöfarten ger upphov till.
 
-Uppdraget ska redovisas till Regeringskansliet (Infrastrukturdepartementet) senast den 15 februari 2023\.
+Uppdraget ska redovisas till Regeringskansliet (Infrastrukturdepartementet) senast den 15 februari 2023.

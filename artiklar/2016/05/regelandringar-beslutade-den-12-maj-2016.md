@@ -6,17 +6,17 @@ Regeringen har beslutat om en ny förordning om nematoder, insekter och spindeld
 
 Följdändringar görs också i förordningen om bekämpningsmedelsavgifter och i förordningen om bekämpningsmedel och innebär bl.a. att den som ansöker om godkännande av en organism ska betala en avgift med 8 000 kronor.
 
-Förordningarna träder i kraft den 1 juli 2016\.
+Förordningarna träder i kraft den 1 juli 2016.
 
 ### Referenser
 
 * förordningen om nematoder, insekter och spindeldjur som bekämpningsmedel
-* förordningen (2013:63\) om bekämpningsmedelsavgifter
-* förordningen (2014:425\) om bekämpningsmedel
+* förordningen (2013:63) om bekämpningsmedelsavgifter
+* förordningen (2014:425) om bekämpningsmedel
 
 ### Mer information
 
-Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 24 maj 2016\.
+Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 24 maj 2016.
 
 **Kontaktperson**
-Johan Pettersson 08\-405 82 41
+Johan Pettersson 08-405 82 41

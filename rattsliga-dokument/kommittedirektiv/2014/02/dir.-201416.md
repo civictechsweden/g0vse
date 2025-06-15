@@ -9,4 +9,4 @@ I uppdraget ingår bl.a. att
 * överväga åtgärder för att säkerställa en effektiv och rättssäker klanderprocess, och
 * överväga åtgärder som förenklar deltagande i klanderprocessen för parter som inte kan svenska, t.ex. om engelska i vissa fall ska kunna användas som rättegångsspråk i klanderprocessen.
 
-Utifrån sina överväganden ska utredaren lämna de förslag till författningsändringar som behövs. Uppdraget ska redovisas senast den 15 augusti 2015\.
+Utifrån sina överväganden ska utredaren lämna de förslag till författningsändringar som behövs. Uppdraget ska redovisas senast den 15 augusti 2015.

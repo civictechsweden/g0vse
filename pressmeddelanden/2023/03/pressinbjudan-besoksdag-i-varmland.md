@@ -4,7 +4,7 @@ Ministern kommer att göra följande besök under dagen och det finns medietillf
 
 ## Program
 
-### Anförande på Nifa \- Framtidens värmländska måltid
+### Anförande på Nifa - Framtidens värmländska måltid
 
 Branschföreningen för värmländska matföretag arrangerar en dag om hur vi ska säkra den värmländska livsmedelsförsörjningen, nu och i framtiden.
 

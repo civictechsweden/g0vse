@@ -1,11 +1,10 @@
 # Sveriges EU-representation söker en assistent för vikariat på heltid
 
-Enheten för utrikes\- och säkerhetspolitik söker en assistent för ett vikariat till 31 mars 2019\.
+Enheten för utrikes- och säkerhetspolitik söker en assistent för ett vikariat till 31 mars 2019.
 
+EU-representationen är Sveriges största utlandsmyndighet. Verksamheten syftar till att utifrån regeringens prioriteringar och målsättningar förbereda, driva och vinna gehör för svenska ståndpunkter i EU-arbetet.
 
-EU\-representationen är Sveriges största utlandsmyndighet. Verksamheten syftar till att utifrån regeringens prioriteringar och målsättningar förbereda, driva och vinna gehör för svenska ståndpunkter i EU\-arbetet.
-
-Enheten för utrikes\- och säkerhetspolitik söker en assistent från och med 1 september 2018 eller enligt överenskommelse. Vikariatet är till och med 31 mars 2019\. Enheten består av fyra grupper som ansvarar för politiska frågor, handelsfrågor, försvarsfrågor och utvecklingssamarbete. Tjänsten tillsätts under förutsättning att nuvarande befattningsinnehavare lämnar sin befattning. Tjänsten är på heltid.
+Enheten för utrikes- och säkerhetspolitik söker en assistent från och med 1 september 2018 eller enligt överenskommelse. Vikariatet är till och med 31 mars 2019. Enheten består av fyra grupper som ansvarar för politiska frågor, handelsfrågor, försvarsfrågor och utvecklingssamarbete. Tjänsten tillsätts under förutsättning att nuvarande befattningsinnehavare lämnar sin befattning. Tjänsten är på heltid.
 
 ## Huvudsakliga arbetsuppgifter
 
@@ -17,8 +16,8 @@ Tjänsten omfattar sedvanliga assistentuppgifter och administrativ service till 
 * hjälp med informationssökning, reseplanering och mötesbokningar;
 * behjälplig vid anordning av event och seminarier;
 * kontakter med regeringskansliet, primärt UD, EU institutioner och andra samarbetspartner;
-* bistå i den administrativa hanteringen av Kommittén för utrikes\- och säkerhetspolitik, KUSP;
-* vid behov täcka andra assistentuppgifter inom enheten och EU\-representationen som helhet.
+* bistå i den administrativa hanteringen av Kommittén för utrikes- och säkerhetspolitik, KUSP;
+* vid behov täcka andra assistentuppgifter inom enheten och EU-representationen som helhet.
 
 ## Kvalifikationskrav
 
@@ -34,15 +33,15 @@ Svenskt medborgarskap är ett krav för befattningen och en registerkontroll kom
 
 ## Ansökan
 
-Ansökan med styrkt meritförteckning och övriga handlingar som den sökande önskar åberopa ska senast 24 juni 2018 ha inkommit till Sveriges EU\-representation i Bryssel, Square de Meeûs 30, 1000 Bryssel, Belgien eller via e\-post till [representationen.bryssel\-ansokan@gov.se](mailto:representationen.bryssel-ansokan@gov.se).
+Ansökan med styrkt meritförteckning och övriga handlingar som den sökande önskar åberopa ska senast 24 juni 2018 ha inkommit till Sveriges EU-representation i Bryssel, Square de Meeûs 30, 1000 Bryssel, Belgien eller via e-post till [representationen.bryssel-ansokan@gov.se](mailto:representationen.bryssel-ansokan@gov.se).
 
 Märk ansökan med diarienummer **UM2018/21636/BRYR**.
 
 Närmare upplysningar om tjänsten kan lämnas av:
-Åsa Pehrson: \+32 2 289 56 22
+Åsa Pehrson: +32 2 289 56 22
 
 Frågor om anställningsvillkor besvaras av:
-Simon Morrissey: \+32 2 289 56 84
+Simon Morrissey: +32 2 289 56 84
 
 Facklig representant (ST):
-Jeanette Lund: \+32 2 289 57 15
+Jeanette Lund: +32 2 289 57 15

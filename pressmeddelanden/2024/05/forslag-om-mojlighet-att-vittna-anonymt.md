@@ -8,12 +8,12 @@ För detta krävs att fler allvarliga brott utreds och klaras upp. En avgörande
 
 Förslagen i lagrådsremissen innebär att ett vittne ska få lämna sina uppgifter under anonymitet om det finns en påtaglig risk för att vittnet eller vittnets närstående utsätts för allvarlig brottslighet. Det brott som vittnet ska höras om måste motsvara minst två års fängelse och skälen för åtgärden måste också uppväga de svårigheter den innebär för en misstänkts eller tilltalads möjligheter att förbereda och utföra sitt försvar.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2025\.
+Lagändringarna föreslås träda i kraft den 1 januari 2025.
 
-Samtidigt ger regeringen Brottsoffermyndigheten i uppdrag att ta fram ett informations\- och utbildningsmaterial för att informera om den nya lagstiftningen och vikten av att vittna, i syfte att få fler att vittna och för att förbättra den allmänna kunskapen hos vittnen, brottsoffer och andra om hur brottmålsprocessen fungerar.
+Samtidigt ger regeringen Brottsoffermyndigheten i uppdrag att ta fram ett informations- och utbildningsmaterial för att informera om den nya lagstiftningen och vikten av att vittna, i syfte att få fler att vittna och för att förbättra den allmänna kunskapen hos vittnen, brottsoffer och andra om hur brottmålsprocessen fungerar.
 
 – Även de vittnen som inte har möjlighet till anonymitet behöver ges bästa möjliga förutsättningar. Nyligen skärptes straffen för den som ger sig på och tystar vittnen. Nu fortsätter vi det breda arbetet med vittnesstöd, vittnesskydd och informationsinsatser för att få fler att vittna, säger justitieminister Gunnar Strömmer.
 
-Uppdraget ska redovisas senast den 29 september 2025\.
+Uppdraget ska redovisas senast den 29 september 2025.
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

@@ -4,4 +4,4 @@ Denna promemoria har utarbetats inom Regeringskansliet (Utbildningsdepartementet
 
 Promemorian innehåller förslag om två nya förordningar som reglerar utbildningen respektive utbildningsbidraget. Därutöver lämnas förslag på ändringar i ett antal lagar och förordningar.
 
-Författningarna föreslås träda i kraft den 1 juli 2016\.
+Författningarna föreslås träda i kraft den 1 juli 2016.

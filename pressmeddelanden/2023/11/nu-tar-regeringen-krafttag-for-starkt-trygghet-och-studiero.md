@@ -12,8 +12,8 @@ Skolan måste också kunna agera kraftfullt när elever kränker, hotar, använd
 
 Utredningar och rapporter har visat att skolfrånvaro är ett stort och allvarligt problem. Trots det saknas systematiska uppföljningar på nationell nivå. I uppdraget ingår därför även att lämna förslag som kan möjliggöra inrättandet av ett nationellt frånvaroregister för grundskolan och motsvarande skolformer, samt eventuellt även för gymnasieskolan.
 
-Uppdraget ska redovisas senast den 20 december 2024\.
+Uppdraget ska redovisas senast den 20 december 2024.
 
-Till särskild utredare utses Happy Hilmarsdottir Arenvall, barn\- och ungdomsdirektör i Järfälla kommun.
+Till särskild utredare utses Happy Hilmarsdottir Arenvall, barn- och ungdomsdirektör i Järfälla kommun.
 
 Beslutet bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

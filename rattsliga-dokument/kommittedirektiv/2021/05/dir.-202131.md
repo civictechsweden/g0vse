@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * om det bedöms lämpligt, föreslå ett system inom ramen för befintlig myndig­hets­struktur för alternativ  tvist­lösning utom domstol på området, och
 * vid behov föreslå nödvän­diga författ­nings­ändringar.
 
-Uppdraget ska redovisas senast den 12 maj 2022\.
+Uppdraget ska redovisas senast den 12 maj 2022.

@@ -4,4 +4,4 @@ Halifax International Security Forum är ett årligt återkommande forum som äg
 
 Under konferensen kommer försvarsminister Jonson att träffa bland annat Kanadas försvarsminister Anita Anand för ett bilateralt möte, USA:s försvarsminister Lloyd III Austin, amerikanska kongressledamöter och Schweiz försvarsminister Viola Amherd.
 
-Försvarsministern deltar även på en sluten middagssession tillsammans med överbefälhavare Michael Bydén, Ukrainas vice\-premiärminister för europeisk och euroatlantisk integration Olga Stefanisjyna samt Lettlands nationella säkerhetsrådgivare Jānis Kažociņš.
+Försvarsministern deltar även på en sluten middagssession tillsammans med överbefälhavare Michael Bydén, Ukrainas vice-premiärminister för europeisk och euroatlantisk integration Olga Stefanisjyna samt Lettlands nationella säkerhetsrådgivare Jānis Kažociņš.

@@ -8,8 +8,9 @@ Statsbidraget kan bland annat användas till kompetensutveckling för förskoll�
 
 Så här mycket kan förskolorna i respektive län få:
 
-| Blekinge län | 36 945 228 kr |
+|  |  |
 | --- | --- |
+| Blekinge län | 36 945 228 kr |
 | Dalarnas län | 73 864 109 kr |
 | Gotlands län | 11 660 176 kr |
 | Gävleborgs län | 71 981 984 kr |

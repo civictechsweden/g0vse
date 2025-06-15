@@ -12,9 +12,9 @@ Regeringen avser också att allokera cirka 43 miljoner euro till ett antal etabl
 
 Exempel på initiativ som kan komma att stödjas är inom några av de förmågekoalitioner som upprättas inom ramen för Ukraine Defence Contact Group, UDCG:
 
-* Koalitionen för stridsflyg, anskaffning av jaktrobotar för det ukrainska F\-16\-programmet
+* Koalitionen för stridsflyg, anskaffning av jaktrobotar för det ukrainska F-16-programmet
 * Koalitionen för maritim säkerhet, utbildning av ukrainskt marininfanteri
 * Minröjningskoalitionen, upphandling av landminröjningsutrustning.
-* IT\-koalitionen, som Sverige nyligen blev medlem i, upphandling av hårdvara för ledning och kommunikation.
+* IT-koalitionen, som Sverige nyligen blev medlem i, upphandling av hårdvara för ledning och kommunikation.
 
 Sverige kommer också inom ramen för detta stöd att bidra till Natos fond för Ukraina (NATO CAP), som upphandlar militär utrustning.

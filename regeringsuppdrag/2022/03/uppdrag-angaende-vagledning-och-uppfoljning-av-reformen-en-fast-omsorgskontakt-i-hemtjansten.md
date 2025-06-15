@@ -1,7 +1,6 @@
 # Uppdrag angående vägledning och uppföljning av reformen En fast omsorgskontakt i hemtjänsten
 
-Socialstyrelsen får i uppdrag att ta fram ett vägledningsmaterial avseende genomförandet av den nya bestämmelsen i socialtjänstlagen (2001:453\) om krav på att den som har hemtjänst ska erbjudas fast omsorgskontakt om det inte bedöms vara uppenbart obehövligt.
-
+Socialstyrelsen får i uppdrag att ta fram ett vägledningsmaterial avseende genomförandet av den nya bestämmelsen i socialtjänstlagen (2001:453) om krav på att den som har hemtjänst ska erbjudas fast omsorgskontakt om det inte bedöms vara uppenbart obehövligt.
 
 I uppdraget ingår även att kommunicera och informera om de nya bestämmelserna. Därutöver får Socialstyrelsen i uppdrag att utreda vilka data och vilken statistik som behövs för en ändamålsenlig uppföljning av reformen samt att bedöma om det finns behov av att ta fram nya data, ny statistik eller nya indikatorer.
 

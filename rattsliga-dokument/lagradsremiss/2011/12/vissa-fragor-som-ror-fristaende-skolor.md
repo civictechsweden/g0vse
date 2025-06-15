@@ -4,4 +4,4 @@ I lagrådsremissen föreslås att fristående gymnasieskolor ska ha möjlighet a
 
 I lagrådsremissen föreslås även att huvudmän för fristående skolor som genomför nationella prov ska bevara elevlösningar på de nationella proven.
 
-Ändringarna föreslås träda i kraft den 1 april 2012\.
+Ändringarna föreslås träda i kraft den 1 april 2012.

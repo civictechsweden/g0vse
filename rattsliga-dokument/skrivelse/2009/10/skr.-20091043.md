@@ -1,6 +1,6 @@
 # Utnämningspolitiken
 
-I skrivelsen redovisar regeringen utvecklingen av utnämningspolitiken beträffande chefer för myndigheter som lyder omedelbart under regeringen med utgångspunkt i riksdagens s.k. verksledningsbeslut 1987\.
+I skrivelsen redovisar regeringen utvecklingen av utnämningspolitiken beträffande chefer för myndigheter som lyder omedelbart under regeringen med utgångspunkt i riksdagens s.k. verksledningsbeslut 1987.
 
 Inledningsvis beskrivs anställningsvillkor, såsom lön, förmånsbil och ersättning vid dubbel bosättning samt avgångsförmåner, inbegripet pension.
 

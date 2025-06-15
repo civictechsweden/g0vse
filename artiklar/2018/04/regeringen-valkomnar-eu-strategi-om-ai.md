@@ -1,7 +1,6 @@
 # Regeringen välkomnar EU-strategi om AI
 
-Den 25 april 2018 presenterade EU\-kommissionen ett meddelande om AI, artificiell intelligens, som regeringen välkomnar.
-
+Den 25 april 2018 presenterade EU-kommissionen ett meddelande om AI, artificiell intelligens, som regeringen välkomnar.
 
 I meddelandet föreslås en strategi för att öka investeringar och garantera ett lämpligt etiskt och rättsligt ramverk för artificiell intelligens.
 

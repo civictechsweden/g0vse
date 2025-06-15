@@ -6,6 +6,6 @@ I uppdraget ingår bl.a. att analysera hur möjligheterna att av­tala om presum
 
 Utredaren ska lämna de författningsförslag som övervägan­dena ger anledning till.
 
-Uppdraget ska redovisas senast den 31 juli 2017\.
+Uppdraget ska redovisas senast den 31 juli 2017.
 
 [Pressmeddelande: Hyressättningsmodellen ska utredas så att fler hyresrätter byggs](/pressmeddelanden/2016/11/hyressattningsmodellen-ska-utredas-sa-att-fler-hyresratter-byggs/)

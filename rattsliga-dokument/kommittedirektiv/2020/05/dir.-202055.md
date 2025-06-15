@@ -7,4 +7,4 @@ Utredaren ska bl.a.
 * undersöka om elektroniska underskrifter på regeringsbeslut är förenligt med regeringsformens krav på att regeringsbeslut som ska expedieras ska skrivas under för att bli gällande och
 * vid behov föreslå de ändringar av bestämmelsen i regeringsformen om underskrift av regeringsbeslut som krävs för att göra bestämmelsen teknikneutral.
 
-Uppdraget ska redovisas senast den 15 januari 2021\.
+Uppdraget ska redovisas senast den 15 januari 2021.

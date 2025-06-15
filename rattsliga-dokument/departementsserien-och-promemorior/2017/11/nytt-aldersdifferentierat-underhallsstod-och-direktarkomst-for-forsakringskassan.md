@@ -6,4 +6,4 @@ Barns behov varierar i olika åldrar. Det finns därför enligt arbetsgruppen sk
 
 ### Förslag att höja underhållsstöd
 
-Förslaget om en höjning av underhållsstödet med 350 kronor per månad till barn som är 15 år eller äldre föreslås träda i kraft den 1 augusti 2018 och tillämpas på underhållsstöd och betalningsskyldighet för tid från och med september 2018\. Förslaget om en höjning av underhållsstödet med 150 kronor per månad till barn som är 11–14 år föreslås träda i kraft den 1 januari 2019 och tillämpas på underhållsstöd och betalningsskyldighet för tid från och med februari 2019\.
+Förslaget om en höjning av underhållsstödet med 350 kronor per månad till barn som är 15 år eller äldre föreslås träda i kraft den 1 augusti 2018 och tillämpas på underhållsstöd och betalningsskyldighet för tid från och med september 2018. Förslaget om en höjning av underhållsstödet med 150 kronor per månad till barn som är 11–14 år föreslås träda i kraft den 1 januari 2019 och tillämpas på underhållsstöd och betalningsskyldighet för tid från och med februari 2019.

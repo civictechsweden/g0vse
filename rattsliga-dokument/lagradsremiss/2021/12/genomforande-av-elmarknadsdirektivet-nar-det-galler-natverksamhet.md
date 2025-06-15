@@ -1,6 +1,6 @@
 # Genomförande av elmarknadsdirektivet när det gäller nätverksamhet
 
-I lagrådsremissen föreslås ändringar i ellagen (1997:857\) när det gäller elnätsverksamhet.
+I lagrådsremissen föreslås ändringar i ellagen (1997:857) när det gäller elnätsverksamhet.
 En stor del av ändringarna har sin bakgrund i Europaparlamentets
 och rådets direktiv (EU) 2019/944 av den 5 juni 2019 om gemensamma
 regler för den inre marknaden för el och om ändring av
@@ -18,4 +18,4 @@ vilken utsträckning flexibilitetstjänster används och förbättrar effektivit
 • Kravet på att en mikroproducent ska vara nettoanvändare av el för att
 undantas från nätavgiften för inmatning av el på elnätet ska utgå.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2022\.
+Lagändringarna föreslås träda i kraft den 1 juli 2022.

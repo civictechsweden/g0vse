@@ -1,15 +1,14 @@
 # FN:s ramverk för biologisk mångfald innehåller nya globala  mål
 
-FN:s konferens för biologisk mångfald, COP 15, hölls i Montréal i Kanada i december 2022\. Det viktigaste resultatet var beslutet om ett mer omfattande och ambitiöst ramverk med nya globala mål för att stoppa och vända den pågående förlusten av biologisk mångfald.
+FN:s konferens för biologisk mångfald, COP 15, hölls i Montréal i Kanada i december 2022. Det viktigaste resultatet var beslutet om ett mer omfattande och ambitiöst ramverk med nya globala mål för att stoppa och vända den pågående förlusten av biologisk mångfald.
 
+Det nya ramverket kallas Kunming-Montreal Global Biodiversity Framework eller Kunming-Montrealramverket. CBD COP15 ägde rum mellan den 7 och 19 december i Montréal med Kina som värd. Mötet skulle ursprungligen ha ägt rum i Kunming, Kina 2020, men på grund av pandemin flyttades det fram flera gånger. Mötet hölls i Montréal, Kanada, där konventionens sekretariat ligger.
 
-Det nya ramverket kallas Kunming\-Montreal Global Biodiversity Framework eller Kunming\-Montrealramverket. CBD COP15 ägde rum mellan den 7 och 19 december i Montréal med Kina som värd. Mötet skulle ursprungligen ha ägt rum i Kunming, Kina 2020, men på grund av pandemin flyttades det fram flera gånger. Mötet hölls i Montréal, Kanada, där konventionens sekretariat ligger.
+Biologisk mångfald, variationen mellan och inom arter och ekosystem, är helt avgörande för vår överlevnad. Det övergripande målet för ramverket är att stoppa och vända förlusten av biologisk mångfald och på detta sätt hjäpa till att addressera en av de stora miljöutmaningarna. Ramverket innehåller fyra långsiktiga mål som beskriver olika tillstånd som ska uppnås senast år 2050. Mål A handlar om tillståndet för all biologisk mångfald, mål B om hållbart nyttjande av biologisk mångfald och ekosystemtjänster, mål C om rättvis fördelning av de genetiska resursernas nyttor, och mål D om att alla typer av resurser för genomförandet av ramverket ska vara tillgängliga för världens länder.
 
-Biologisk mångfald, variationen mellan och inom arter och ekosystem, är helt avgörande för vår överlevnad. Det övergripande målet för ramverket är att stoppa och vända förlusten av biologisk mångfald och på detta sätt hjäpa till att addressera en av de stora miljöutmaningarna. Ramverket innehåller fyra långsiktiga mål som beskriver olika tillstånd som ska uppnås senast år 2050\. Mål A handlar om tillståndet för all biologisk mångfald, mål B om hållbart nyttjande av biologisk mångfald och ekosystemtjänster, mål C om rättvis fördelning av de genetiska resursernas nyttor, och mål D om att alla typer av resurser för genomförandet av ramverket ska vara tillgängliga för världens länder.
+Tjugotre åtgärdsmål specificerar vad som behöver göras fram till 2030. Mest uppmärksammat är målet om 30% skydd. Målet gäller för land och vatten respektive för hav.
 
-Tjugotre åtgärdsmål specificerar vad som behöver göras fram till 2030\. Mest uppmärksammat är målet om 30% skydd. Målet gäller för land och vatten respektive för hav.
-
-Åtgärdsmål 1\-8 handlar om att minska de direkta hoten mot biologisk mångfald, medan åtgärdsmål 9\-13 fokuserar på den biologiska mångfaldens möjligheter att leverera de ekosystemtjänster som alla människor behöver för sin överlevnad, och åtgärdsmål 14\-23 ger redskap för ramverkets genomförande. Samtidigt handlar många av målen 9\-23 om att åtgärda de indirekta drivkrafter i samhället som ytterst orsakar hoten mot biologisk mångfald.
+Åtgärdsmål 1-8 handlar om att minska de direkta hoten mot biologisk mångfald, medan åtgärdsmål 9-13 fokuserar på den biologiska mångfaldens möjligheter att leverera de ekosystemtjänster som alla människor behöver för sin överlevnad, och åtgärdsmål 14-23 ger redskap för ramverkets genomförande. Samtidigt handlar många av målen 9-23 om att åtgärda de indirekta drivkrafter i samhället som ytterst orsakar hoten mot biologisk mångfald.
 
 Alla mål i ramverket är globala, och alla parter förväntas bidra till att de nås. Olika länder kan komma att behöva vidta olika åtgärder för att nå dit.
 

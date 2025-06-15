@@ -6,4 +6,4 @@ Förslaget syftar till att ge myndigheten möjlighet att behandla de personuppgi
 
 Lagen föreslås omfatta behandling av personuppgifter i den del av myndighetens verksamhet som avser kunskapsuppbyggnad, kunskapsspridning, utvärdering och analys. I denna verksamhet föreslås myndigheten få ha samlingar av personuppgifter. Den föreslagna lagen innehåller olika skyddsåtgärder och begränsningar som syftar till att värna enskildas personliga integritet.
 
-Den nya lagen föreslås träda i kraft den 1 mars 2020\.
+Den nya lagen föreslås träda i kraft den 1 mars 2020.

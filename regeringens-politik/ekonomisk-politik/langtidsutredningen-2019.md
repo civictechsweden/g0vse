@@ -2,16 +2,15 @@
 
 Långtidsutredningen analyserar utmaningar och möjligheter för svensk ekonomi på lång sikt och utgör ett underlag för den ekonomiska politiken. 2019 års Långtidsutredning fokuserar på ojämlikhet.
 
+[Långtidsutredningen 2019 - Huvudbetänkande](/rattsliga-dokument/statens-offentliga-utredningar/2019/12/sou-201965/)
 
-[Långtidsutredningen 2019 \- Huvudbetänkande](/rattsliga-dokument/statens-offentliga-utredningar/2019/12/sou-201965/)
-
-Sverige har under lång tid haft små inkomstskillnader, sett ur ett internationellt perspektiv, men sedan början av 1980\-talet har de ökat. Ökningen har varit förhållandevis stor och Sverige har närmat sig nivån i många andra europeiska länder. I Långtidsutredningens huvudbetänkande analyseras vad som förklarar de ökade inkomstskillnaderna och på vilket sätt de kan påverka ekonomins funktionssätt.
+Sverige har under lång tid haft små inkomstskillnader, sett ur ett internationellt perspektiv, men sedan början av 1980-talet har de ökat. Ökningen har varit förhållandevis stor och Sverige har närmat sig nivån i många andra europeiska länder. I Långtidsutredningens huvudbetänkande analyseras vad som förklarar de ökade inkomstskillnaderna och på vilket sätt de kan påverka ekonomins funktionssätt.
 
 **Följande bilagor ingår i Långtidsutredningen 2019:**
 
 [Sveriges ekonomi – utsikter till 2035](/rattsliga-dokument/statens-offentliga-utredningar/2019/12/sou-201961/)
 
-I bilagan beskrivs ett scenario för den makroekonomiska och offentligfinansiella utvecklingen till 2035\. Syftet är att ge en samlad bild av den ekonomiska utvecklingen de närmaste 15 åren, och som kan ligga till grund för diskussion och analys i Långtidsutredningens övriga delar. Ett annat syfte är att identifiera och diskutera viktiga samhällsekonomiska utmaningar som beslutsfattare kommer att ställas inför under tidsperioden.
+I bilagan beskrivs ett scenario för den makroekonomiska och offentligfinansiella utvecklingen till 2035. Syftet är att ge en samlad bild av den ekonomiska utvecklingen de närmaste 15 åren, och som kan ligga till grund för diskussion och analys i Långtidsutredningens övriga delar. Ett annat syfte är att identifiera och diskutera viktiga samhällsekonomiska utmaningar som beslutsfattare kommer att ställas inför under tidsperioden.
 
 [Inkomstfördelningen 2035 vid olika scenarier](/rattsliga-dokument/statens-offentliga-utredningar/2019/12/sou-201957/)
 
@@ -27,7 +26,7 @@ I den tredje delen beskrivs utvecklingen av de svenska hushållens aggregerade f
 
 [Inequality and economic performance](/rattsliga-dokument/statens-offentliga-utredningar/2019/12/sou-201954/)
 
-Bilagan bidrar till att förbättra kunskapen om sambandet mellan inkomstskillnader och ekonomins funktionssätt. Här analyseras inkomstspridningen i Sverige och övriga OECD\-länder, och hur den påverkar ekonomins funktionssätt i dessa länder. Dessutom analyseras genom vilka kanaler inkomstspridning kan påverka ekonomins funktionssätt.
+Bilagan bidrar till att förbättra kunskapen om sambandet mellan inkomstskillnader och ekonomins funktionssätt. Här analyseras inkomstspridningen i Sverige och övriga OECD-länder, och hur den påverkar ekonomins funktionssätt i dessa länder. Dessutom analyseras genom vilka kanaler inkomstspridning kan påverka ekonomins funktionssätt.
 
 [Utvecklingen av intergenerationell rörlighet i Sverige](/rattsliga-dokument/statens-offentliga-utredningar/2019/12/sou-201955/)
 
@@ -39,7 +38,7 @@ I bilagan beskrivs likvärdigheten i svensk skola samt vilken betydelse föräld
 
 [Jobbpolarisering på svensk arbetsmarknad](/rattsliga-dokument/statens-offentliga-utredningar/2019/12/sou-201947/)
 
-Denna bilaga handlar om jobbpolarisering på den svenska arbetsmarknaden. Med jobbpolarisering avses att låg\- och höglönejobb växer i jämförelse med jobb med mer genomsnittliga löner. Syftet är att belysa hur viktigt framsteg inom datorteknologi är, jämfört med andra förklaringar, som drivande faktor bakom de senaste decenniernas jobbpolarisering på svensk arbetsmarknad. Dessutom undersöks hur jobbpolariseringen påverkat lönespridningen.
+Denna bilaga handlar om jobbpolarisering på den svenska arbetsmarknaden. Med jobbpolarisering avses att låg- och höglönejobb växer i jämförelse med jobb med mer genomsnittliga löner. Syftet är att belysa hur viktigt framsteg inom datorteknologi är, jämfört med andra förklaringar, som drivande faktor bakom de senaste decenniernas jobbpolarisering på svensk arbetsmarknad. Dessutom undersöks hur jobbpolariseringen påverkat lönespridningen.
 
 [Kan utbildning för vuxna påverka jobbchanser och inkomster?](/rattsliga-dokument/statens-offentliga-utredningar/2019/12/sou-201948/)
 

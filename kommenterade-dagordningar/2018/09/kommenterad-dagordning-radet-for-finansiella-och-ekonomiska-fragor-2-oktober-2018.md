@@ -4,7 +4,7 @@ På Ekofinrådets möte den 2 oktober 2018 finns följande punkter på dagordnin
 
 * (ev.) Mervärdesskatt – ”enkla lösningar”
 * (ev.) Mervärdesskatt – omvänd skattskyldighet
-* (ev.) Mervärdesskatt – e\-publikationer
+* (ev.) Mervärdesskatt – e-publikationer
 * Bekämpning av penningtvätt och tillsyn
 * Den europeiska planeringsterminen 2018 – erfarenheter
 * Förberedelser inför de internationella mötena i oktober i Bali, Indonesien

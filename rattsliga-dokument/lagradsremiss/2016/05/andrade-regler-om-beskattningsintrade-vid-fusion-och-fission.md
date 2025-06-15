@@ -6,4 +6,4 @@ Enligt förslaget ska vidare sådan förpliktelse som utgör ett finansiellt ins
 
 I lagrådsremissen föreslås även att det återinförs ett krav på att ett värdepapper definitivt ska förlora sitt värde för att det ska anses avyttrat när företaget som gett ut värdepapperet upplöses genom fusion eller fission.
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2017 och tillämpas första gången på beskattningsår som börjar efter den 31 december 2016\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2017 och tillämpas första gången på beskattningsår som börjar efter den 31 december 2016.

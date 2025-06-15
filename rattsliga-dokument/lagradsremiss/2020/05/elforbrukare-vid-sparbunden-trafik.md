@@ -6,4 +6,4 @@ energiskatt på elförbrukning vid spårbunden trafik. Vem som faktiskt
 förbrukat elen i dessa fall kommer därmed att sakna betydelse.
 Förslaget föranleder ändringar i lagen om skatt på energi.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2021\.
+Lagändringarna föreslås träda i kraft den 1 januari 2021.

@@ -18,4 +18,4 @@ Inom ramen för uppdraget ska myndig­heterna
 * redogöra för insatser och åtgärder som vidtas när barn och unga är inblandade i grov krimi­nalitet och hur de kan förbättras och effektivi­seras samt
 * redogöra för eventuella hinder för effektiv samverkan.
 
-Uppdraget ska redovisas till Justitie­departe­mentet senast den 29 september 2023\.
+Uppdraget ska redovisas till Justitie­departe­mentet senast den 29 september 2023.

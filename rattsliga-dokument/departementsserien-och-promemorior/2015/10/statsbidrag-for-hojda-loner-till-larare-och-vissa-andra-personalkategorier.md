@@ -4,4 +4,4 @@ Denna promemoria har utarbetats inom Regeringskansliet (Utbildningsdepartementet
 
 Det övergripande syftet med förslaget är att bidra till att höja statusen och attraktiviteten i läraryrket och därmed i förlängningen till högre kunskapsresultat i skolan. Promemorian innehåller förslag om en ny förordning som reglerar statsbidraget.
 
-Förordningen föreslås träda i kraft den 22 mars 2016\.
+Förordningen föreslås träda i kraft den 22 mars 2016.

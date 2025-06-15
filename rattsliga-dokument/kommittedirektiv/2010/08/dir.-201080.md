@@ -10,4 +10,4 @@ Om ändringar av kriminaliseringen av penningtvätt föreslås, ska utredaren oc
 
 Slutligen ska utredaren ta ställning till om Sverige ska tillträda Europarådets konvention om penningtvätt, efterforskning, beslag och förverkande av vinning av brott och om finansiering av terrorism, samt vilka lagändringar som i så fall krävs.
 
-Uppdraget ska redovisas senast den 20 februari 2012\.
+Uppdraget ska redovisas senast den 20 februari 2012.

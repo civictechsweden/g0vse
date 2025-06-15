@@ -6,4 +6,4 @@ På agendan står förutom krisberedskap på kulturområdet även den nordiska k
 
 I samband med mötet i Stockholm kommer de nordiska kulturministrarna även att möta sina baltiska kollegor för en diskussion om krisberedskap på kulturområdet.
 
-Det svenska ordförandeskapet i Nordiska ministerrådet inleddes den 1 januari och stäcker sig över hela 2024\. Sveriges prioriteringar för kulturområdet under ordförandeskapet är krisberedskap och läsfrämjande.
+Det svenska ordförandeskapet i Nordiska ministerrådet inleddes den 1 januari och stäcker sig över hela 2024. Sveriges prioriteringar för kulturområdet under ordförandeskapet är krisberedskap och läsfrämjande.

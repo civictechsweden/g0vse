@@ -2,7 +2,6 @@
 
 Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.
 
-
 ## Sammanfattning av domen
 
 Målet rörde huvudsakligen frågan om det skulle utgöra en kränkning av artiklarna 2 och 3 i Europakonventionen att utvisa klaganden till Irak.

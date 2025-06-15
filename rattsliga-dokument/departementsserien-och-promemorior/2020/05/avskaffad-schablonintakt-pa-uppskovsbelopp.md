@@ -6,7 +6,7 @@ kan under vissa förutsättningar få uppskov med beskattning av kapitalvinsten.
 I promemorian föreslås att den som har ett uppskovsbelopp inte längre
 ska ta upp en schablonintäkt till beskattning. Ändringen ska gälla både för obegränsat och begränsat skattskyldiga.
 
-Ändringarna föreslås träda i kraft den 1 januari 2021\.
+Ändringarna föreslås träda i kraft den 1 januari 2021.
 
 Remissvaren ska ha kommit in till Finansdepartementet senast den 7
-augusti 2020\.
+augusti 2020.

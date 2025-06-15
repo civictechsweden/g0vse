@@ -8,4 +8,4 @@ Utredaren ska bland annat
 * analysera och föreslå hur möjlig­heterna till sådant informa­tions­utbyte så långt möjligt kan förbättras för att på ett rätts­säkert sätt tillgodose behovet av ett effektivt brotts­före­byggande och brotts­bekämpande arbete, och
 * lämna nöd­vändiga författ­nings­förslag.
 
-Uppdraget ska redo­visas senast den 31 oktober 2023\.
+Uppdraget ska redo­visas senast den 31 oktober 2023.

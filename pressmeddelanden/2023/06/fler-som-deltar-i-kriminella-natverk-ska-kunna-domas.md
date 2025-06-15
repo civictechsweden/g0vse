@@ -14,6 +14,6 @@ Regeringen tillsätter därför en utredning som ska analysera och ta ställning
 
 Utredningen ska även ta ställning till straffansvar för så kallade otjänliga försök. Av särskilt intresse är sådana fall när brott hindrats på grund av att myndigheter har ingripit för att oskadliggöra faran, till exempel byta ut ett vapen mot en replika.
 
-Utredare blir chefsåklagaren Lise Tamm. Uppdraget ska redovisas senast den 16 september 2024\.
+Utredare blir chefsåklagaren Lise Tamm. Uppdraget ska redovisas senast den 16 september 2024.
 
 Utredningen bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

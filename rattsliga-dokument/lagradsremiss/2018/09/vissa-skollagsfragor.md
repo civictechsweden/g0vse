@@ -1,5 +1,4 @@
 # Vissa skollagsfrågor
 
 I lagrådsremissen föreslås att systemet för bidrag till enskilda huvudmän för barn och elever som går i fristående förskolor, skolor eller fritidshem ändras så att ersättning ska ges med grundbelopp, strukturbelopp och i vissa fall tilläggsbelopp. Regeringen bedömer också att alla skolhuvudmän bör redovisa ekonomisk information på skolenhetsnivå och att den informationen publiceras på ett sätt som möjliggör jämförelser mellan skolhuvudmännen. Dessutom omfattar förslagen förtydliganden i skollagen om under vilka omständigheter ett godkännande av enskild som huvudman för utbildning inom skolväsendet eller ett beslut om rätt till bidrag för pedagogisk omsorg ska återkallas, om yttranden inför mottagande av elever till fristående gymnasiesärskolor, om harmonisering av bestämmelser om betygssättning samt om betygsrätt vid distansundervisning.
-
-Lagändringarna föreslås träda i kraft den 1 juli 2019\.
+Lagändringarna föreslås träda i kraft den 1 juli 2019.

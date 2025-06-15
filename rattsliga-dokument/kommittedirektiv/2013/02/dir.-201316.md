@@ -9,4 +9,4 @@ Utredaren ska
 * med beaktande av andra skyddsvärda intressen, föreslå åtgärder som stärker skyddet, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 22 maj 2014\.
+Uppdraget ska redovisas senast den 22 maj 2014.

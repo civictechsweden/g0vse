@@ -10,4 +10,4 @@ Slutligen föreslås en ändring i lagen om avkastningsskatt på pensionsmedel s
 
 Förslagen föranleds av möjligheterna för företag till omstrukturering genom de nya aktiebolagsrättsliga förfarandena delning genom separation och gränsöverskridande ombildning (flytt av ett företags registrerade säte över nationsgränserna inom EES).
 
-Ändringarna föreslås träda i kraft den 1 januari 2024\.
+Ändringarna föreslås träda i kraft den 1 januari 2024.

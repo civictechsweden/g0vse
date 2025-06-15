@@ -1,6 +1,6 @@
 # Ökad tillgänglighet i hälso- och sjukvården
 
-Regeringen tillsätter en delegation som ska arbeta för ökad tillgänglighet i hälso\- och sjukvården. Inriktningen ska vara att korta väntetiderna. Skälet till satsningen är bland annat de uppskjutna vårdinsatser som covid\-19 har förorsakat. Nu måste dessa tas omhand.
+Regeringen tillsätter en delegation som ska arbeta för ökad tillgänglighet i hälso- och sjukvården. Inriktningen ska vara att korta väntetiderna. Skälet till satsningen är bland annat de uppskjutna vårdinsatser som covid-19 har förorsakat. Nu måste dessa tas omhand.
 
 ## Delegationen ska bland annat
 
@@ -12,4 +12,4 @@ Regeringen tillsätter en delegation som ska arbeta för ökad tillgänglighet i
 * vidareutveckla överenskommelsen om kömiljarden, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska delredovisas senast den 30 juni 2021 och slutredovisas senast den 15 maj 2022\.
+Uppdraget ska delredovisas senast den 30 juni 2021 och slutredovisas senast den 15 maj 2022.

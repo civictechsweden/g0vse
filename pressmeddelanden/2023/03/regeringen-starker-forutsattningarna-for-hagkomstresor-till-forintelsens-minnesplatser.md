@@ -10,4 +10,4 @@ Voksenåsen bedriver arbete med hågkomstresor till Förintelsens minnesplatser 
 
 FLH får ett förnyat uppdrag att främja hågkomstresor till Förintelsens minnesplatser. Myndighetens roll blir att fortsätta sprida stödmaterial om hur resor kan genomföras samt att kvalitetssäkra och bedriva utbildningsinsatser riktade till lärare, rektorer och andra som har en viktig roll i genomförandet av resorna.
 
-Totalt tilldelas 6 miljoner kronor för riktade insatser under 2023\. Av dessa medel går 4,5 miljoner kronor till SKMA, 500 000 kronor till Voksenåsen och 1 miljon kronor till myndigheten Forum för levande historia.
+Totalt tilldelas 6 miljoner kronor för riktade insatser under 2023. Av dessa medel går 4,5 miljoner kronor till SKMA, 500 000 kronor till Voksenåsen och 1 miljon kronor till myndigheten Forum för levande historia.

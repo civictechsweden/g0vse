@@ -4,4 +4,4 @@ I promemorian föreslås att sekretess ska gälla i verksamhet med att kontrolle
 
 Lagändringen föreslås träda i kraft den 1 augusti 2020 men äldre föreskrifter ska fortfarande gälla för medborgarinitiativ som registrerats före ikraftträdandet.
 
-Sedan den 1 april 2012 har EU\-medborgare kunnat genomföra ett så kallat medborgarinitiativ för att uppmana Europeiska kommissionen att lägga fram ett visst lagförslag. Medborgarinitiativet är en form av direktkanal för EU:s medborgare att föra fram sina synpunkter och påverka kommissionen att föreslå en rättsakt inom EU:s kompetensområde.
+Sedan den 1 april 2012 har EU-medborgare kunnat genomföra ett så kallat medborgarinitiativ för att uppmana Europeiska kommissionen att lägga fram ett visst lagförslag. Medborgarinitiativet är en form av direktkanal för EU:s medborgare att föra fram sina synpunkter och påverka kommissionen att föreslå en rättsakt inom EU:s kompetensområde.

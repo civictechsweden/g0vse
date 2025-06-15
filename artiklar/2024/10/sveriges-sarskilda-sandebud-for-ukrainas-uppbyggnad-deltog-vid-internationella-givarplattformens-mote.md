@@ -1,7 +1,6 @@
 # Sveriges särskilda sändebud för Ukrainas uppbyggnad deltog vid internationella givarplattformens möte
 
-Ukrainas ekonomiska situation, reformarbetet för landets EU\-närmande och den omfattande ryska förstörelsen av energiinfrastrukturen stod på agendan när den internationella givarplattformen för Ukraina samlades i Rom den 9 oktober för ett styrkommittémöte. Ulrik Tideström, Sveriges särskilda sändebud för Ukrainas uppbyggnad, deltog på mötet.
-
+Ukrainas ekonomiska situation, reformarbetet för landets EU-närmande och den omfattande ryska förstörelsen av energiinfrastrukturen stod på agendan när den internationella givarplattformen för Ukraina samlades i Rom den 9 oktober för ett styrkommittémöte. Ulrik Tideström, Sveriges särskilda sändebud för Ukrainas uppbyggnad, deltog på mötet.
 
 – Det starka och omfattande svenska stödet gör skillnad. De ukrainska ministrarna uttryckte stor tacksamhet för det och för det svenska folkets solidaritet med Ukraina.  Jag är stolt över vårt stöd och att Sverige ingår i kärnan av den internationella stödkretsen för Ukraina, säger särskilda sändebudet Ulrik Tideström.
 

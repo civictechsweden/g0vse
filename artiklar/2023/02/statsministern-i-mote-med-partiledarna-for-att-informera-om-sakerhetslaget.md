@@ -2,7 +2,6 @@
 
 Efter ett möte med partiledarna för riksdagens partier den 31 januari höll statsminister Ulf Kristersson en pressträff om Sveriges säkerhet med anledning av de aktioner som skett i Stockholm de senaste veckorna och dess internationella konsekvenser.
 
-
 – De senaste veckornas händelser i Stockholm har gjort det tydligt hur komplext skyddet av vår säkerhet är, och hur nära sammankopplade enskilda nationella händelser och större internationella skeenden är, sa statsminister Ulf Kristersson.
 
 Vid pressträffen belystes hur enstaka svenska manifestationer kan få direkta konsekvenser för Sverigebilden i världen och för svensk säkerhet. Därtill hur utländska aktörer kan utnyttja manifestationer som ett sätt att skada Sverige.

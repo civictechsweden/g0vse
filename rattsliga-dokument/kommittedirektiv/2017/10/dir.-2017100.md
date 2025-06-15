@@ -24,4 +24,4 @@ beakta de remissynpunkter som har lämnats på utkastet.
 
 **Redovisning av uppdraget**
 Uppdraget ska senast redovisas tillsammans med uppdraget i
-övrigt den 31 maj 2019\.
+övrigt den 31 maj 2019.

@@ -2,11 +2,11 @@
 
 I propositionen lämnas förslag till en ny lag om resegaranti som syftar till
 att anpassa svensk rätt till bestämmelserna om skydd vid obestånd i
-EU\-direktiv om paketresor och sammanlänkade researrangemang.
+EU-direktiv om paketresor och sammanlänkade researrangemang.
 
-Vidare föreslås med anledning av EU\-direktivet en ny lag om paketresor i en proposition beslutad samma dag (En ny paketreselag – ett starkare resenärsskydd).
+Vidare föreslås med anledning av EU-direktivet en ny lag om paketresor i en proposition beslutad samma dag (En ny paketreselag – ett starkare resenärsskydd).
 
-EU\-direktivet, som ersätter ett tidigare direktiv på området, innehåller
+EU-direktivet, som ersätter ett tidigare direktiv på området, innehåller
 bl.a. mer preciserade bestämmelser om det skydd vid obestånd som ska
 tillhandahållas vid försäljning av paketresor och sammanlänkade
 researrangemang. Direktivet innehåller också bestämmelser om
@@ -23,4 +23,4 @@ sammanlänkat researrangemang. Resegarantin ska också säkerställa
 hemtransport och inkvartering om det behövs i avvaktan på
 hemtransporten. Resegarantin ska omfatta rimligt förutsebara kostnader.
 
-Den nya lagen föreslås träda i kraft den 1 augusti 2018\.
+Den nya lagen föreslås träda i kraft den 1 augusti 2018.

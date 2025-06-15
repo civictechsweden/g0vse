@@ -4,4 +4,4 @@ Det blir allt vanligare att en person som avlider har anknytning till flera län
 
 Mot denna bakgrund har det inom EU antagits en förordning som reglerar frågor om behörighet, tillämplig lag, erkännande och verkställighet av domar samt godkännande och verkställighet av officiella handlingar i samband med arv och om inrättandet av ett europeiskt arvsintyg. Vidare har det träffats en överenskommelse mellan de nordiska länderna om ändring av den nordiska arvskonventionen. En särskild utredare ska föreslå de författningsändringar som de båda instrumenten ger anledning till.
 
-Uppdraget ska redovisas senast den 30 april 2014\.
+Uppdraget ska redovisas senast den 30 april 2014.

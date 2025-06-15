@@ -1,7 +1,6 @@
 # Uppdrag att kartlägga omhändertagande av radioaktivt avfall från icke kärnteknisk verksamhet
 
-Regeringen ger Strålsäkerhetsmyndigheten i uppdrag att kartlägga omhändertagandet av radioaktivt avfall från icke kärnteknisk verksamhet genom en nulägesanalys. Analysen ska genomföras som en aktualisering av den kartläggning av det radioaktiva avfallet från icke kärntekniska verksamheter som rapporterades 2003 och som dokumenterats i Statens strålskyddsinstituts rapport SSI 2003:22\.
-
+Regeringen ger Strålsäkerhetsmyndigheten i uppdrag att kartlägga omhändertagandet av radioaktivt avfall från icke kärnteknisk verksamhet genom en nulägesanalys. Analysen ska genomföras som en aktualisering av den kartläggning av det radioaktiva avfallet från icke kärntekniska verksamheter som rapporterades 2003 och som dokumenterats i Statens strålskyddsinstituts rapport SSI 2003:22.
 
 Uppdraget innebär att myndigheten ska vidta följande åtgärder.
 
@@ -12,4 +11,4 @@ Uppdraget innebär att myndigheten ska vidta följande åtgärder.
 
 I uppdraget ingår även att, vid behov, föra dialog med berörda parter.
 
-Uppdraget ska redovisas till Regeringskansliet (Klimat\- och näringslivsdepartementet) senast den 31 oktober 2024\.
+Uppdraget ska redovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 31 oktober 2024.

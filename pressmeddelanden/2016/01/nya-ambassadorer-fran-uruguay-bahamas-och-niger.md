@@ -2,7 +2,6 @@
 
 Ambassadörerna från Uruguay, Bahamas och Niger överlämnade onsdagen den 13 januari 2016 sina kreditivbrev till H.M. Konungen i högtidlig audiens på Stockholms slott. Kreditivbrevet är en fullmakt utfärdad av ambassadörens statschef. I och med att brevet nu är överlämnat till Sveriges statschef kan ambassadören från i dag fullt ut representera sitt land i Sverige.
 
-
 ## H.E. Mr. Santiago Wins, Uruguay
 
 Uruguays nyutnämnde ambassadör Mr. Santiago Wins har tjänstgjort i utrikesministeriet sedan 1997, främst med multilaterala frågor såsom fred och säkerhet, nedrustning och miljö. Under de senaste åren har han innehaft bland annat följande befattningar:
@@ -25,11 +24,11 @@ Bahamas nyutnämnde ambassadör Mr. Eldred Edison Bethel, med säte i London, ä
 
 ## H.E. Mr. Amadou Tcheko, Niger
 
-Nigers nyutnämnde ambassadör Mr. Amadou Tcheko, med säte i Köpenhamn, är född 1959 och har tjänstgjort i utrikesministeriet sedan 1985\. Han har studerat juridik och internationella relationer i Lomé, Paris och Genève. Ambassadör Tcheko har också vistats i Genève vid HEI (Institute of International Studies) och tjänstgjort i Paris vid Nigers UNESCO\-delegation. De senaste åren har han innehaft följande befattningar:
+Nigers nyutnämnde ambassadör Mr. Amadou Tcheko, med säte i Köpenhamn, är född 1959 och har tjänstgjort i utrikesministeriet sedan 1985. Han har studerat juridik och internationella relationer i Lomé, Paris och Genève. Ambassadör Tcheko har också vistats i Genève vid HEI (Institute of International Studies) och tjänstgjort i Paris vid Nigers UNESCO-delegation. De senaste åren har han innehaft följande befattningar:
 
 2014 Ambassadör i Danmark
 
-2011–2014 Chef för rättsliga\- och konsulära enheten vid utrikesministeriet i Niamey
+2011–2014 Chef för rättsliga- och konsulära enheten vid utrikesministeriet i Niamey
 
 2009–2011 Chef för enheten för stöd till civila samhället vid motsvarande inrikesministeriet/landsbygdsministeriet i Niamey
 

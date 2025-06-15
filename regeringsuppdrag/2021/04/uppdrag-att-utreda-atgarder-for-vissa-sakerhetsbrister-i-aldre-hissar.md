@@ -6,4 +6,4 @@ säkerhetsbrister i äldre hissar. Dessa säkerhetsbrister, som påtalats av
 Hissförbundet, gäller hissar med farliga innerdörrar och hissar som helt
 saknar skydd i korgöppningen.
 
-Boverket ska redovisa uppdraget till regeringen (Finansdepartementet) senast den 30 november 2021\.
+Boverket ska redovisa uppdraget till regeringen (Finansdepartementet) senast den 30 november 2021.

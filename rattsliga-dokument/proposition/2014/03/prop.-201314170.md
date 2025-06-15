@@ -6,4 +6,4 @@ I alltför många fall måste huvudförhandlingen ställas in på grund av att d
 
 För att stora brottmål ska hanteras så effektivt som möjligt tydliggörs domstolens ansvar för att bedöma om flera åtal ska hanteras gemensamt eller var för sig. Det skapas större möjligheter att avgöra delar av ett mål mot en person. Åtal mot flera personer för brott som har samband med varandra ska inte längre rutinmässigt hanteras gemensamt. För att lägga samman åtalen krävs att det finns skäl för det. Domstolen får också ett tydligare ansvar för förberedelsen av brottmål, bland annat genom en regel om ökad användning av förberedelsesammanträde i omfattande mål. Fristen för påbörjande av huvudförhandling i ett mål där den tilltalade är frihetsberövad förlängs med en vecka om ett sådant sammanträde hållits.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2014\.
+Lagändringarna föreslås träda i kraft den 1 juli 2014.

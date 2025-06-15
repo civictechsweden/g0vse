@@ -8,4 +8,4 @@ Regeringen ger därför Socialstyrelsen i uppdrag att bedöma förutsättningarn
 
 Syftet med att införa en nationell modell för riskbedömning inom tandvården är att stärka tandvårdens förmåga att bedöma risker för orala sjukdomar. I förlängningen bidrar detta till att tandvården kan prioritera de patienter som har störst behov. En enhetlig modell ger även bättre förutsättningar för datainsamling, uppföljning, kunskapsutveckling och forskning inom tandvården.
 
-Socialstyrelsen få använda 3 miljoner kronor för uppdraget under 2023 och ska lämna en slutredovisning av uppdraget till Socialdepartementet senast den 31 mars 2024\.
+Socialstyrelsen få använda 3 miljoner kronor för uppdraget under 2023 och ska lämna en slutredovisning av uppdraget till Socialdepartementet senast den 31 mars 2024.

@@ -11,4 +11,4 @@ Utredaren ska bland annat
 * ta ställning till vilka förmåner och insatser som ska erbjudas inom ramen för det bistånd som lämnas enligt lagen om mottagande av asylsökande m.fl., och
 * lämna nödvändiga författningsförslag.
 
-Ett delbetänkande ska lämnas senast den 30 maj 2022\. Uppdraget ska slutredovisas senast den 16 februari 2023\.
+Ett delbetänkande ska lämnas senast den 30 maj 2022. Uppdraget ska slutredovisas senast den 16 februari 2023.

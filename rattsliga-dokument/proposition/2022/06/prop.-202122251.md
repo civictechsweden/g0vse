@@ -10,6 +10,6 @@ I propositionen föreslås därför i huvudsak följande.
 
 * Brottsbekämpande myndigheter, Finansinspektionen och banker å ena sidan eller brottsbekämpande myndigheter och tillsynsmyndigheter å andra sidan ska få samverka i syfte att förebygga, förhindra eller upptäcka penningtvätt. I samverkan ska en deltagare vara skyldig att lämna uppgifter till en annan deltagare trots sekretess eller tystnadsplikt.
 * Clearingorganisationer som bedriver clearing eller avveckling av
-betalningar och företag som tillhandahåller finansiell infrastruktur som avser omedelbara betalningar ska vara skyldiga att lämna uppgifter till finanspolisen eller Säkerhetspolisen.
+  betalningar och företag som tillhandahåller finansiell infrastruktur som avser omedelbara betalningar ska vara skyldiga att lämna uppgifter till finanspolisen eller Säkerhetspolisen.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2023\.
+Lagändringarna föreslås träda i kraft den 1 januari 2023.

@@ -2,8 +2,7 @@
 
 Uttalande av utrikesminister Tobias Billström inför Islamiska samarbetsorganisationens (OIC) ministermöte den 31 juli.
 
-
-I eftermiddag håller OIC\-länderna ett ministermöte, där de bland annat kommer att diskutera den senaste tidens manifestationer i Sverige och Danmark. Jag vill inte spekulera i utgången av mötet.
+I eftermiddag håller OIC-länderna ett ministermöte, där de bland annat kommer att diskutera den senaste tidens manifestationer i Sverige och Danmark. Jag vill inte spekulera i utgången av mötet.
 
 De senaste dagarna har jag tagit initiativ till många samtal med utrikesministrarna i flera av OIC:s 57 medlemsländer. Så sent som i torsdags pratade jag också direkt med OIC:s generalsekreterare. Under fredagen skickade jag ut ett brev till alla OIC:s medlemsländers utrikesministrar.
 

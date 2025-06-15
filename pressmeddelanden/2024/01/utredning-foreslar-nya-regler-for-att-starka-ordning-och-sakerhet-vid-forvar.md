@@ -11,4 +11,4 @@ Det förekommer att narkotika och vapen förs in på Migrationsverkets förvar, 
 
 Utredningen föreslår även att Migrationsverket ska kunna förordna väktare för att utföra transporter och bevakning av förvarstagna som vistas utanför förvaret, till exempel vid vård eller behandling.
 
-Utredningen föreslår att lagändringarna träder i kraft den 1 juli 2025\.
+Utredningen föreslår att lagändringarna träder i kraft den 1 juli 2025.

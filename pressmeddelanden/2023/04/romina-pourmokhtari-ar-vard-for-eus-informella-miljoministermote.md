@@ -2,7 +2,7 @@
 
 Miljöministermötet fokuserar på näringslivets och företagandets roll i den gröna omställningen eftersom en viktig del av detta omställningsarbete kommer att genomföras av företagen i EU. Ministrarna har därför uppmanats att ta med en företagsledare eller entreprenör som genom sitt företag bidragit till hållbar utveckling.
 
-\- Förbättrad konkurrenskraft genom grön omställning är en nyckelprioritering för det svenska EU\-ordförandeskapet. Idag ska vi diskutera hur dialogen och samarbetet mellan företag och myndigheter i EU kan bli effektivare och vad vi kan göra för att ta bort hinder för utvecklingen, säger klimat\- och miljöminister Romina Pourmokhtari.
+- Förbättrad konkurrenskraft genom grön omställning är en nyckelprioritering för det svenska EU-ordförandeskapet. Idag ska vi diskutera hur dialogen och samarbetet mellan företag och myndigheter i EU kan bli effektivare och vad vi kan göra för att ta bort hinder för utvecklingen, säger klimat- och miljöminister Romina Pourmokhtari.
 
 ## På mötesagendan
 

@@ -9,6 +9,6 @@ Följande ändringar föreslås i lagen:
 * Kungörelse i ortstidning ska vara nödvändig bara om det finns skäl för det.
 * Skatteverket ska fatta beslut om upphävande av dödförklaring om det visar sig att den dödförklarade lever.
 
-De nya reglerna föreslås träda i kraft den 1 januari 2014\.
+De nya reglerna föreslås träda i kraft den 1 januari 2014.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Riksdagen fattade den 2 oktober 2013 beslut om propositionen. Läs mer om beslutet via länken i högerspalten

@@ -1,7 +1,6 @@
 # Remiss av Förslag till förordning om ändring av rådets förordningar vad gäller fiskerikontroll, KOM (2018) 368 slutlig
 
-Här kan du ta del av till vilka instanser Näringsdepartementet har remitterat Förslag till förordning om ändring av rådets förordningar vad gäller fiskerikontroll, KOM (2018\) 368 slutlig. Remissvaren ska ha kommit in till Näringsdepartementet senast den 16 september 2018\.
-
+Här kan du ta del av till vilka instanser Näringsdepartementet har remitterat Förslag till förordning om ändring av rådets förordningar vad gäller fiskerikontroll, KOM (2018) 368 slutlig. Remissvaren ska ha kommit in till Näringsdepartementet senast den 16 september 2018.
 
 Datainspektionen
 Domstolsverket
@@ -11,8 +10,8 @@ Fiskbranschens Riksförbund ·
 Fiskekommunerna
 Forskningsrådet för miljö, areella näringar och samhällsbyggande Formas
 Förvaltningsrätten i Umeå
-Havs\- och Kustfiskarnas Producentorganisation HKPO
-Havs\- och vattenmyndigheten
+Havs- och Kustfiskarnas Producentorganisation HKPO
+Havs- och vattenmyndigheten
 Hela Sverige ska leva
 Hovrätten för Västra Sverige
 Greenpeace
@@ -62,9 +61,9 @@ Sweden Fishing
 Sveriges Fiskares PO
 Sveriges Fiskevattenägareförbund
 Sveriges kommuner och landsting
-Sveriges kust\- och insjöfiskares organisation, SKIFO
+Sveriges kust- och insjöfiskares organisation, SKIFO
 Sveriges Pelagiska SPFPO
-Sveriges sportfiske\- och fiskevårdsförbund Sportfiskarna
+Sveriges sportfiske- och fiskevårdsförbund Sportfiskarna
 Sveriges Yrkesfiskares ekonomiska förening SYEF
 Världsnaturfonden WWF
 Åklagarmyndigheten

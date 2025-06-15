@@ -2,7 +2,6 @@
 
 President Emmanuel Macron besöker Sverige 30–31 januari 2024 tillsammans med sin hustru Brigitte Macron på inbjudan av H.M. Konungen. Presidenten åtföljs av flera ministrar ur den franska regeringen.
 
-
 En näringslivsdelegation medföljer också, liksom representanter för Frankrikes parlament, myndigheter och kulturliv.
 
 Det två dagar långa besöket äger rum i Stockholm, Lund och Malmö.
@@ -35,11 +34,11 @@ Statsminister Ulf Kristersson tar därefter emot president Emmanuel Macron i Ros
 
 ### Rinkebyskolan
 
-Efter lunch besöker drottningen och Brigitte Macron Rinkebyskolan. De välkomnas av skolminister Lotta Edholm, skol\-, arbetsmarknads\-, och personalborgarrådet Emilia Bjuggren, och rektor Martin Malmberg. Efter presentationer av skolan, elevhälsoteamet och elevrådet följer en diskussion och besök i ett klassrum.
+Efter lunch besöker drottningen och Brigitte Macron Rinkebyskolan. De välkomnas av skolminister Lotta Edholm, skol-, arbetsmarknads-, och personalborgarrådet Emilia Bjuggren, och rektor Martin Malmberg. Efter presentationer av skolan, elevhälsoteamet och elevrådet följer en diskussion och besök i ett klassrum.
 
 ### Moderna muséet
 
-Drottningen och fru Macron besöker också Moderna museet. Där anordnar Svenska institutet och Institut français, tillsammans med franska ambassaden och Moderna museet, ett seminarium om hur utbytet inom bild\- och scenkonstområdena kan stärkas, med särskilt fokus på regional utveckling och hur vi når en ung publik. Medverkar gör bland andra: Sara Arrhenius, direktör för Svenska institutet i Paris, Linda Zachrisson, konstnärlig ledare Göteborgs stadsteater, Nicolas Le Riche, balettchef Kungliga operan, Laurent Le Bon, direktör Centre Pompidou i Paris och Eli Commins, direktör vid Le Lieu unique – Scène nationale, Nantes. Delar av museets samlingar kommer att förevisas och man får även träffa en grupp skapande ungdomar från Botkyrka. Besöket avslutas med förevisning av några alster ur muséets samlingar. Museets chef Gitte Ørskou, Svenska institutets generaldirektör Madeleine Sjöstedt och Franska institutets chef Eva Nguyen Binh, hälsar välkommen. Från regeringen deltar kulturminister Parisa Liljestrand.
+Drottningen och fru Macron besöker också Moderna museet. Där anordnar Svenska institutet och Institut français, tillsammans med franska ambassaden och Moderna museet, ett seminarium om hur utbytet inom bild- och scenkonstområdena kan stärkas, med särskilt fokus på regional utveckling och hur vi når en ung publik. Medverkar gör bland andra: Sara Arrhenius, direktör för Svenska institutet i Paris, Linda Zachrisson, konstnärlig ledare Göteborgs stadsteater, Nicolas Le Riche, balettchef Kungliga operan, Laurent Le Bon, direktör Centre Pompidou i Paris och Eli Commins, direktör vid Le Lieu unique – Scène nationale, Nantes. Delar av museets samlingar kommer att förevisas och man får även träffa en grupp skapande ungdomar från Botkyrka. Besöket avslutas med förevisning av några alster ur muséets samlingar. Museets chef Gitte Ørskou, Svenska institutets generaldirektör Madeleine Sjöstedt och Franska institutets chef Eva Nguyen Binh, hälsar välkommen. Från regeringen deltar kulturminister Parisa Liljestrand.
 
 ### Rundabordssamtal och anföranden om säkerhetspolitik
 
@@ -51,9 +50,9 @@ Kungaparet ger en galamiddag på Kungliga slottet till sina gästers ära.
 
 ## Onsdag 31 januari
 
-### Näringslivsseminarium, Sweden\-France Business Forum
+### Näringslivsseminarium, Sweden-France Business Forum
 
-Kungen och presidenten deltar i ett näringslivsseminarium – Accelerating Europe's competitiveness – i Stockholms stadshus arrangerat av Business Sweden. Cirka 200 representanter från det svenska och franska näringslivet samlas vid seminariet. Kronprinsessparet närvarar och energi\- och näringsminister Ebba Busch, bistånds\- och utrikeshandelsminister Johan Forssell, samt ministrar från Frankrike deltar och talar vid seminariet. Kommunfullmäktiges ordförande Olle Burell och finansborgarrådet Karin Wanngård välkomnar högnivågästerna till Stadshuset. Jan Larsson, vd Business Sweden, hälsar välkommen och inleder forumet, som kommer fokusera på innovation, grön omställning och kompetensförsörjning. Business Forum avslutas med en nätverkslunch i Stadshuset.
+Kungen och presidenten deltar i ett näringslivsseminarium – Accelerating Europe's competitiveness – i Stockholms stadshus arrangerat av Business Sweden. Cirka 200 representanter från det svenska och franska näringslivet samlas vid seminariet. Kronprinsessparet närvarar och energi- och näringsminister Ebba Busch, bistånds- och utrikeshandelsminister Johan Forssell, samt ministrar från Frankrike deltar och talar vid seminariet. Kommunfullmäktiges ordförande Olle Burell och finansborgarrådet Karin Wanngård välkomnar högnivågästerna till Stadshuset. Jan Larsson, vd Business Sweden, hälsar välkommen och inleder forumet, som kommer fokusera på innovation, grön omställning och kompetensförsörjning. Business Forum avslutas med en nätverkslunch i Stadshuset.
 
 ### Ankomst Malmö Airport
 
@@ -69,11 +68,11 @@ Kungen och presidenten besöker därefter Alfa Laval i Lund. De välkomnas vid a
 
 ### Barnahus
 
-Drottningen och Brigitte Macron besöker under eftermiddagen Barnahus i Malmö. Där får barn som misstänks vara utsatta för brott möjlighet att berätta sin historia för specialutbildad personal i en trygg och speciellt anpassad miljö. I stället för att slussas runt mellan olika myndigheter möts barnen av polis, åklagare, socialtjänst, barnläkare och barn\- och ungdomspsykiatrin på en och samma plats. Socialtjänstminister Camilla Waltersson Grönvall, kommunalrådet Sedat Arif samt verksamhetscheferna Elisabeth Green och Jonas Lander tar emot och berättar om arbetet som bedrivs.
+Drottningen och Brigitte Macron besöker under eftermiddagen Barnahus i Malmö. Där får barn som misstänks vara utsatta för brott möjlighet att berätta sin historia för specialutbildad personal i en trygg och speciellt anpassad miljö. I stället för att slussas runt mellan olika myndigheter möts barnen av polis, åklagare, socialtjänst, barnläkare och barn- och ungdomspsykiatrin på en och samma plats. Socialtjänstminister Camilla Waltersson Grönvall, kommunalrådet Sedat Arif samt verksamhetscheferna Elisabeth Green och Jonas Lander tar emot och berättar om arbetet som bedrivs.
 
 ### Friends
 
-Drottningen och fru Macron möter därefter stiftelsen Friends för en presentation av dess arbete med att motverka mobbning. Friends grundandes 1997 av Sara Damber och har som vision en värld där inget barn utsätts för mobbning. Man arbetar i skolor och idrottsföreningar och för en säker digital miljö. Socialtjänstminister Camilla Waltersson Grönvall representerar regeringen. Generalsekreterare Maja Frankel, rådgivare Anna\-Carin Wettefors och Tilda Hesthagen, Friend's Youth Board deltar från Friends.
+Drottningen och fru Macron möter därefter stiftelsen Friends för en presentation av dess arbete med att motverka mobbning. Friends grundandes 1997 av Sara Damber och har som vision en värld där inget barn utsätts för mobbning. Man arbetar i skolor och idrottsföreningar och för en säker digital miljö. Socialtjänstminister Camilla Waltersson Grönvall representerar regeringen. Generalsekreterare Maja Frankel, rådgivare Anna-Carin Wettefors och Tilda Hesthagen, Friend's Youth Board deltar från Friends.
 
 ### Studentafton, Lunds universitet
 

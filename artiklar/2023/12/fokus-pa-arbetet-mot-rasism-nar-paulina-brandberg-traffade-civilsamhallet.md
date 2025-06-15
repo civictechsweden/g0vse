@@ -1,7 +1,6 @@
 # Fokus på arbetet mot rasism när Paulina Brandberg träffade civilsamhället
 
-Den 13 december bjöd jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg in till ett sakråd om det nationella arbetet mot rasism. På mötet, som syftade till fördjupad kunskap och breddade perspektiv om rasism, deltog ett 20\-tal organisationer från civilsamhället.
-
+Den 13 december bjöd jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg in till ett sakråd om det nationella arbetet mot rasism. På mötet, som syftade till fördjupad kunskap och breddade perspektiv om rasism, deltog ett 20-tal organisationer från civilsamhället.
 
 Paulina Brandberg inledde sakrådet med fokus på arbetet mot rasism. Mötet leddes därefter av statssekreterare Martin Andreasson.
 

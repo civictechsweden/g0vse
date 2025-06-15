@@ -9,6 +9,6 @@ Slutligen föreslås en justering av reglerna om tillhandahållanden som
 ingår i upplåtelsen av nyttjanderätt till fastigheter.
 
 Ändringarna görs med anledning av att en unionsrättslig definition av
-fast egendom träder i kraft den 1 januari 2017\. Syftet är att uppnå en mer enhetlig tillämpning av mervärdesskatt på fastighetsområdet och därmed förenkla mervärdesskattehanteringen.
+fast egendom träder i kraft den 1 januari 2017. Syftet är att uppnå en mer enhetlig tillämpning av mervärdesskatt på fastighetsområdet och därmed förenkla mervärdesskattehanteringen.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2017\.
+Lagändringarna föreslås träda i kraft den 1 januari 2017.

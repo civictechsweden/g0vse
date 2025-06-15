@@ -4,4 +4,4 @@ Stiftelsen Högskolan i Jönköping har ansökt om tillstånd att utfärda ämne
 
 – Högskolan i Jönköping erbjuder redan i dag ämneslärarutbildning med inriktning mot arbete i gymnasieskolan i flera andra ämnen. Lärosätet har visat att det uppfyller de krav som ställs för att få utfärda ämneslärarexamen med inriktning mot arbete i gymnasieskolan i ämnet matematik. Regeringen beslutar därför att ge lärosätet detta tillstånd, säger utbildningsminister Mats Persson.
 
-Regeringen beslutar om examenstillstånd för enskilda utbildningsanordnare enligt lagen (1993:792\) om tillstånd att utfärda vissa examina.
+Regeringen beslutar om examenstillstånd för enskilda utbildningsanordnare enligt lagen (1993:792) om tillstånd att utfärda vissa examina.

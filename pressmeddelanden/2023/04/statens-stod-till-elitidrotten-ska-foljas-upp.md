@@ -1,6 +1,6 @@
 # Statens stöd till elitidrotten ska följas upp
 
-– En bred och välkomnande barn\- och ungdomsverksamhet är en självklar och naturlig grund för vuxenidrottens bredd\- och elitverksamhet. Samtidigt finns det utmaningar för svensk elitidrott. I syfte att utveckla svensk elitidrott behövs en analys av de villkor och förutsättningar som råder för elitidrotten och för enskilda svenska elitidrottare, säger socialminister Jakob Forssmed som ansvarar för idrottsfrågor.
+– En bred och välkomnande barn- och ungdomsverksamhet är en självklar och naturlig grund för vuxenidrottens bredd- och elitverksamhet. Samtidigt finns det utmaningar för svensk elitidrott. I syfte att utveckla svensk elitidrott behövs en analys av de villkor och förutsättningar som råder för elitidrotten och för enskilda svenska elitidrottare, säger socialminister Jakob Forssmed som ansvarar för idrottsfrågor.
 
 Regeringen bedömer att det samlade stödet för idrotten kan stärka idrottsutövares internationella konkurrenskraft, men att det finns utmaningar för att skapa en mer effektiv och hållbar idrott. Dessa utmaningar kan finnas såväl inom idrottsrörelsens styrning och organisation som inom systemen för bland annat utbildning, skatter och social trygghet eller inom ramen för de statliga och kommunala stöden till idrott.
 

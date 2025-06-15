@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Folkhälsomyndigheten att genomföra insatser för att utveckla arbetet med existentiell hälsa inom ramen för den nationella folkhälsopolitiken.
 
-
 Folkhälsomyndigheten ska:
 
 * utifrån ett svenskt sammanhang definiera existentiell hälsa, genomföra en kartläggning för att utveckla kunskapen om och arbetet med existentiell hälsa samt föreslå hur existentiella perspektiv kan bidra till att skapa samhälleliga förutsättningar för en god och jämlik hälsa och ett gott psykiskt välbefinnande,

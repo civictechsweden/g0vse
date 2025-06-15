@@ -10,4 +10,4 @@ Vidare föreslås en generell höjning av förseningsavgifterna vid försenad in
 
 Slutligen föreslås att vissa regler om stiftelser ska anpassas till övrig associationsrättslig lagstiftning i brottsförebyggande syfte. Det gäller bland annat jäv för ställföreträdare, målvaktsförbud och anmälningsplikt för revisorer vid misstanke om ekonomisk brottslighet.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2025\.
+Lagändringarna föreslås träda i kraft den 1 januari 2025.

@@ -1,9 +1,9 @@
 # Mottagningsanordningar i hamn för avfall från fartyg
 
-I lagrådsremissen lämnas förslag till de lagändringar som krävs för att genomföra EU\-direktivet om mottagningsanordningar i hamn för avlämning av avfall från fartyg.
+I lagrådsremissen lämnas förslag till de lagändringar som krävs för att genomföra EU-direktivet om mottagningsanordningar i hamn för avlämning av avfall från fartyg.
 
 Det föreslås nya bemyndiganden för regeringen eller den myndighet som regeringen bestämmer att meddela föreskrifter om bland annat skyldighet för hamnar att
-\- inneha en godkänd plan för mottagning och hantering av avfall från fartyg och informera om innehållet i planen,
+- inneha en godkänd plan för mottagning och hantering av avfall från fartyg och informera om innehållet i planen,
 – lämna kvitto till fartyg på det avfall som fartygen har lämnat, och
 – lämna uppgifter till tillsynsmyndigheterna om sin verksamhet.
 
@@ -13,4 +13,4 @@ Förbudet i lag för hamnar att ta särskilt betalt för mottagning av avfall ta
 
 För överträdelser införs ett sanktionsavgiftssystem. Nuvarande straffbestämmelser tas bort.
 
-Lagändringarna föreslås träda i kraft den 1 maj 2023\. Någon sanktionsavgift ska inte påföras för överträdelser som har skett av en fritidsbåtshamn före den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 maj 2023. Någon sanktionsavgift ska inte påföras för överträdelser som har skett av en fritidsbåtshamn före den 1 januari 2024.

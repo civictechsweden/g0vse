@@ -4,7 +4,6 @@ Inledningsanförande av statsminister Ulf Kristersson på den internationella gi
 
 Det talade ordet gäller.
 
-
 Ers excellenser, mina damer och herrar,
 
 För 42 dagar sedan förändrades livet totalt för miljoner människor i Turkiet och Syrien, och det på bara några sekunder.
@@ -19,7 +18,7 @@ Vi kan inte, som EU eller som medlemmar av världssamfundet, få sorgen eller sm
 
 Vi kan inte fylla det tomrum som närstående som omkommit i jordbävningarna har lämnat efter sig. Men det finns en sak som vi kan göra.
 
-Vi kan omsätta våra sorge\- och solidaritetsbetygelser i handling. Det är därför vi samlas här i Bryssel i dag.
+Vi kan omsätta våra sorge- och solidaritetsbetygelser i handling. Det är därför vi samlas här i Bryssel i dag.
 
 Det är därför Sverige, som för närvarande innehar ordförandeskapet i Europeiska unionen, och Europeiska kommissionen anordnar den här sammankomsten till stöd för människorna i Turkiet och Syrien.
 
@@ -37,7 +36,7 @@ De samlade ekonomiska följderna kommer att vara förödande och göra sig gäll
 
 Men en sak till vet vi: när EU och världssamfundet anstränger sig tillsammans och med kraft, då kan vi göra en enorm skillnad.
 
-Det visade sig tydligt när många länder i EU – och andra länder – snabbt skickade sök\- och räddningsteam, tält, fältsjukhus, elverk och annat stöd till de drabbade.
+Det visade sig tydligt när många länder i EU – och andra länder – snabbt skickade sök- och räddningsteam, tält, fältsjukhus, elverk och annat stöd till de drabbade.
 
 Från Sverige skickade vi snabbt experter och nödhjälp.
 

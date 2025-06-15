@@ -6,4 +6,4 @@ Den dömdes sociala återanpassning sker bäst i den stat där han eller hon kom
 
 I propositionen lämnas också förslag till lagändringar när det gäller regeringens tillkännagivande av vissa internationella överenskommelser.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2020\.
+Lagändringarna föreslås träda i kraft den 1 juli 2020.

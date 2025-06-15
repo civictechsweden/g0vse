@@ -12,4 +12,4 @@ Stöd som lämnas av Skatteverket föreslås tillgodoföras arbetsgivaren genom 
 
 Förslagen föreslås träda i kraft den 1 april 2022 och tillämpas första
 gången för ansökningar om godkännande som lämnas efter den
-31 mars 2022\.
+31 mars 2022.

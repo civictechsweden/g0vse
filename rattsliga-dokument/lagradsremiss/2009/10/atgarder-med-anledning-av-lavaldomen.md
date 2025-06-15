@@ -7,9 +7,9 @@ I lagrådsremissen föreslås att en facklig stridsåtgärd mot en utländsk arb
 * De villkor som krävs är förmånligare för arbetstagarna än de villkor som följer av lag.
 * Arbetsgivaren visar inte att arbetstagarna redan har villkor som är minst lika förmånliga som minimivillkoren i ett svenskt centralt branschavtal.
 
-En stridsåtgärd som vidtas trots att dessa förutsättningar inte är uppfyllda ska anses olovlig enligt lagen (1976:580\) om medbestämmande i arbetslivet.
+En stridsåtgärd som vidtas trots att dessa förutsättningar inte är uppfyllda ska anses olovlig enligt lagen (1976:580) om medbestämmande i arbetslivet.
 
 Arbetsmiljöverket ska hjälpa till med information om kollektivavtalsvillkor som kan komma att bli tillämpliga vid en utstationering. En arbetstagarorganisation ska till verket lämna in sådana kollektivavtalsvillkor som organisationen kan komma att gå till strid för.
 En utstationerande arbetsgivare ska inte behöva följa arbetstidslagstiftningens bestämmelser om att arbetstagarna ska få besked om ändringar i arbetstidens förläggning minst två veckor i förväg.
 
-Lagändringarna föreslås träda i kraft den 1 april 2010\.
+Lagändringarna föreslås träda i kraft den 1 april 2010.

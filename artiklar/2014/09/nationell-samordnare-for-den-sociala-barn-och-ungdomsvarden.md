@@ -1,11 +1,10 @@
 # Nationell samordnare för den sociala barn- och ungdomsvården
 
-Den nationella samordnarens huvudsakliga uppgift blir att ge kommunerna stöd i deras arbete med att skapa en trygg och säker vård. Uppdraget sträcker sig till den 15 december 2017\.
-
+Den nationella samordnarens huvudsakliga uppgift blir att ge kommunerna stöd i deras arbete med att skapa en trygg och säker vård. Uppdraget sträcker sig till den 15 december 2017.
 
 ## Dialog med kommunerna
 
-Den nationella samordnaren ska i dialog med ett antal kommuner stärka och stödja socialtjänsten i deras arbete med den sociala barn\- och ungdomsvården. Ett mål med dialogerna är att ge inspiration och stimulera till att tänka nytt i det praktiska arbetet.
+Den nationella samordnaren ska i dialog med ett antal kommuner stärka och stödja socialtjänsten i deras arbete med den sociala barn- och ungdomsvården. Ett mål med dialogerna är att ge inspiration och stimulera till att tänka nytt i det praktiska arbetet.
 
 ## Samarbete med andra aktörer
 

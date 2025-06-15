@@ -4,4 +4,4 @@ En särskild utredare ska lämna förslag till de lagändringar som kommer att k
 
 Utredaren ska också lämna förslag till de ändringar i svensk lagstiftning som kommer att behövas för att komplettera de regler som följer av det pågående arbetet med anledning av kommissionens förslag till Europaparlamentets och rådets förordning om uppgifter som ska åtfölja överföringar av medel.
 
-Uppdraget ska redovisas senast den 30 juni 2015\.
+Uppdraget ska redovisas senast den 30 juni 2015.

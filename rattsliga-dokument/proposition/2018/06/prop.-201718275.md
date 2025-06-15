@@ -8,7 +8,7 @@ Enligt en dom i EU domstolen anses garantipension vara en så kallad minimiförm
 
 ## Utredning belyser konsekvenserna
 
-Regeringen vill låta en utredning belysa konsekvenserna av EU\-domen. Regeringen vill utreda om det behövs förändringar till följd av att garantipension och garantipension till omställningspension anses vara minimiförmåner.
+Regeringen vill låta en utredning belysa konsekvenserna av EU-domen. Regeringen vill utreda om det behövs förändringar till följd av att garantipension och garantipension till omställningspension anses vara minimiförmåner.
 
 ## Förmånerna ska fortsatt kunna betalas ut till annat land
 

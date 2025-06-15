@@ -2,7 +2,7 @@
 
 Ändring i uppdraget.
 
-Den 7 juli 2022 beslutades kommitté­direktiv om en översyn av kontakt­förbuds­lag­stift­ningen (dir. 2022:114\).
+Den 7 juli 2022 beslutades kommitté­direktiv om en översyn av kontakt­förbuds­lag­stift­ningen (dir. 2022:114).
 
 Utredaren ska nu även
 
@@ -12,4 +12,4 @@ Utredaren ska nu även
 * lämna nöd­vändiga författnings­förslag, och
 * lämna författ­nings­förslag som inne­bär att det geo­grafiska området för särskilt utvidgade kontakt­förbud, vid en särskilt allvarlig hotbild, utökas kraftigt och ska kunna omfatta hela kommuner eller mot­svarande.
 
-Utrednings­tiden förlängs. Uppdraget ska i stället redovisas senast den 7 februari 2024\.
+Utrednings­tiden förlängs. Uppdraget ska i stället redovisas senast den 7 februari 2024.

@@ -1,11 +1,10 @@
 # Bistånd ska gå till färre länder
 
-Debattartikel av bistånds\- och utrikeshandelsminister Johan Forssell, Svenska Dagbladet, 3 augusti 2024\.
-
+Debattartikel av bistånds- och utrikeshandelsminister Johan Forssell, Svenska Dagbladet, 3 augusti 2024.
 
 Svensk biståndspolitik genomgår just nu de viktigaste förändringarna på flera decennier. En av de främsta är att bistånd, främjande och handel knyts närmare varandra än någonsin tidigare. Genom att hitta nya samarbeten med näringslivet finns också möjligheter att mobilisera långt större ekonomiska resurser i arbetet för en bättre värld.
 
-Utvecklingssamarbetet är ett av de viktigaste utrikespolitiska verktygen för att värna svenska intressen samt möta de utmaningar som världen står inför. Jag är stolt över att regeringen har gjort Ukraina till den största mottagaren av bilateralt svenskt bistånd. Vi kommer också säkerställa att svenskt bistånd inte stödjer stater som är icke\-demokratiska, men inte heller sådana som motverkar den regelbaserade världsordningen och därmed underminerar svenska intressen.
+Utvecklingssamarbetet är ett av de viktigaste utrikespolitiska verktygen för att värna svenska intressen samt möta de utmaningar som världen står inför. Jag är stolt över att regeringen har gjort Ukraina till den största mottagaren av bilateralt svenskt bistånd. Vi kommer också säkerställa att svenskt bistånd inte stödjer stater som är icke-demokratiska, men inte heller sådana som motverkar den regelbaserade världsordningen och därmed underminerar svenska intressen.
 
 Svenskt bistånd är fortsatt generöst men långt ifrån oändligt. Som en stor givare har vi också ett omfattande och dubbelt ansvar. Dels mot svenska skattebetalare som alltid ska vara trygga med att deras resurser används på bästa sätt. Dels mot mottagarna och deras behov av insatser som långsiktigt gör skillnad. Vi har lämnat det tidigare enprocentsmålet och fokuserar i stället på tydligare mål för vilka resultat biståndet ska uppnå.
 
@@ -29,4 +28,4 @@ Svensk biståndspolitik läggs nu om med fokus på effektivitet och kvalitet. Vi
 
 Med denna nya inriktning vill vi skapa förutsättningar för fler människor att ta sig från fattigdom till välstånd och att främja bredare relationer med Sveriges partnerländer bortom biståndet.
 
-Johan Forssell, bistånds\- och utrikeshandelsminister
+Johan Forssell, bistånds- och utrikeshandelsminister

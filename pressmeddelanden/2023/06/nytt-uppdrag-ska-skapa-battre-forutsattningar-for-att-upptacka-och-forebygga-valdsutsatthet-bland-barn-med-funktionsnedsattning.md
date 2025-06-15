@@ -8,6 +8,6 @@ Myndigheten för delaktighets tidigare kartläggningar av våld mot barn och ung
 
 Det behövs även en fördjupad kartläggning av hedersrelaterat våld och förtyck i alla dess uttrycksformer mot personer med funktionsnedsättning. I uppdraget ingår därför att identifiera målgruppens särskilda utsatthet, förutsättningar och behov och inhämta yrkesverksammas erfarenheter inom bl.a. socialtjänst, grundsärskola, gymnasiesärskola, habiliteringsverksamhet, ungdomsmottagningar och daglig verksamhet.
 
-– Arbetet mot hedersrelaterat våld och förtryck är en av regeringens främsta prioriteringar. Personer med funktionsnedsättning är extra sårbara, och det är därför viktigt att vi gör en fördjupad kartläggning av deras särskilda utsatthet, förutsättningar och behov, säger jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg.
+– Arbetet mot hedersrelaterat våld och förtryck är en av regeringens främsta prioriteringar. Personer med funktionsnedsättning är extra sårbara, och det är därför viktigt att vi gör en fördjupad kartläggning av deras särskilda utsatthet, förutsättningar och behov, säger jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg.
 
-Uppdraget ska redovisas till regeringen senast den 15 februari 2025\.
+Uppdraget ska redovisas till regeringen senast den 15 februari 2025.

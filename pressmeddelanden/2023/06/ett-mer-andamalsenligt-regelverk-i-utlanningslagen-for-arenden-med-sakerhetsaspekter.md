@@ -6,6 +6,6 @@ Regeringen föreslår också att vissa tidsfrister för återkallelse av uppehå
 
 – Terrorister och spioner har inget i Sverige att göra. Det är minst sagt på tiden att vi nu ges ytterligare möjligheter att kunna återkalla uppehållstillstånden för dem som ägnar sig åt att äventyra nationens och medborgarnas säkerhet, säger Ludvig Aspling, migrationspolitisk talesperson för Sverigedemokraterna.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.
 
 Förslagen bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

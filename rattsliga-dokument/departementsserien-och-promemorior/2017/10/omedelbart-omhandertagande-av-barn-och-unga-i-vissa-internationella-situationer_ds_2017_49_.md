@@ -8,4 +8,4 @@ Bedömningen görs att bestämmelserna om omedelbart omhändertagande i lagen me
 
 I promemorian anges att det bör förtydligas att skyddsbehövande barn och unga som vistas i Sverige kan omhändertas omedelbart i akuta situationer, oberoende av om de har hemvist utomlands eller har någon annan anknytning till utlandet. Vidare anges att regleringen bör kompletteras med nya bestämmelser om handläggningen, tidsfrister och förnyad domstolsprövning i internationella ärenden.
 
-De nya bestämmelserna föreslås träda i kraft den 1 april 2018\.
+De nya bestämmelserna föreslås träda i kraft den 1 april 2018.

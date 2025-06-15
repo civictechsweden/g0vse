@@ -10,4 +10,4 @@ I uppdraget ingår bland annat att
 
 Den utredning som nu tillsätts syftar till att i ett snabbspår utreda vissa specifika frågor som ligger utanför den redan pågående Kamerabevakningsutredningens uppdrag. Utredningen sker internt inom Regeringskansliet, en så kallad bokstavsutredning. Kamerabevakningsutredningens arbete fortskrider parallellt med denna utredning.
 
-Uppdraget ska redovisas senast den 29 maj 2024\.
+Uppdraget ska redovisas senast den 29 maj 2024.

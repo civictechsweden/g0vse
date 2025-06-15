@@ -6,4 +6,4 @@ Förtroendet för valförfarandet förutsätter att valen genomförs på ett kor
 
 I syfte att minska risken för otillbörlig påverkan i samband med röstningen föreslås att en lokal för röstmottagning ska vara tydligt avgränsad och även i övrigt lämpad för ändamålet så att väljare inte hindras eller störs under röstningen. Vidare föreslås bland annat att en sådan lokal inte ska ha anknytning till en viss politisk sammanslutning. För att trygga valsäkerheten föreslås också att valnämnden får avsluta den preliminära rösträkningen en dag senare, dvs. under torsdagen efter valdagen.
 
-Ändringarna föreslås träda i kraft den 1 augusti 2014 när det gäller säker förvaring av valmaterial och i övrigt den 1 januari 2015\.
+Ändringarna föreslås träda i kraft den 1 augusti 2014 när det gäller säker förvaring av valmaterial och i övrigt den 1 januari 2015.

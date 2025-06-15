@@ -1,6 +1,6 @@
 # Ukraina på agendan när Pål Jonson deltar på försvarsministermöte
 
-EU:s höga representant Josep Borell kommer inledningsvis att informera om aktuella frågor på det säkerhets\- och försvarspolitiska området.
+EU:s höga representant Josep Borell kommer inledningsvis att informera om aktuella frågor på det säkerhets- och försvarspolitiska området.
 
 Försvarsministrarna förväntas sedan diskutera EU:s stöd till Ukraina genom Europeiska fredsfaciliteten, den militära insatsen EUMAM Ukraina, samt arbetet med att stötta Ukraina med artilleriammunition.
 

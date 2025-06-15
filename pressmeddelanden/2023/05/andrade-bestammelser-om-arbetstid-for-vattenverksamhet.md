@@ -4,4 +4,4 @@ I propositionen föreslås en ändring i miljöbalkens bestämmelse om arbetstid
 
 Regeringen föreslår också att en ny bestämmelse införs i miljöbalken som innebär att om arbetstiden beslutas till mer än tjugo år ska villkoren för återstående arbeten omprövas vart tjugonde år. Syftet med omprövningen är att säkerställa att villkoren för arbetena är aktuella om förändrade förhållanden inträffat eller ytterligare kunskap har tillkommit. Det är den som har tillstånd till verksamheten som ska ta initiativ till omprövningen och tillhandahålla den utredning som behövs för prövningen.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

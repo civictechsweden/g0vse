@@ -4,7 +4,6 @@
 
 Det talade ordet gäller.
 
-
 Ärade kommissionär, ärade parlamentsledamöter, mina damer och herrar,
 
 Det gläder mig verkligen att få se er alla här nu på morgonen – och att få välkomna er som har rest hit till Stockholm från andra länder. Det är en ära för regeringen att stå värd för Forum för den inre marknaden i Sverige. En ännu konkurrenskraftigare inre marknad är ju som ni vet en av de tre främsta prioriteringarna för vårt ordförandeskap i Europeiska unionens råd. ”För ett grönare, säkrare och friare Europa”, brukar vi sammanfatta det.
@@ -21,11 +20,11 @@ I det avseendet belyser dagens konferens flera viktiga aspekter, t.ex. hur man k
 
 \*\*\*
 
-Målet om en europeisk inre marknad fanns redan i Romfördraget, men visionen om att få till stånd en verklig inre marknad slogs fast i mitten av 1980\-talet i och med kommissionens vitbok om en inre marknad som grundas på ömsesidigt erkännande. Men det stora genombrottet kom i och med Maastrichtfördraget 1993\.
+Målet om en europeisk inre marknad fanns redan i Romfördraget, men visionen om att få till stånd en verklig inre marknad slogs fast i mitten av 1980-talet i och med kommissionens vitbok om en inre marknad som grundas på ömsesidigt erkännande. Men det stora genombrottet kom i och med Maastrichtfördraget 1993.
 
-I dag är den inre marknaden avgörande för EU\-samarbetet. Den har förändrat Europa i grunden. Varor flödar, och i allt högre grad även tjänster. Väldigt många EU\-medborgare flyttar till och arbetar på olika platser på kontinenten.
+I dag är den inre marknaden avgörande för EU-samarbetet. Den har förändrat Europa i grunden. Varor flödar, och i allt högre grad även tjänster. Väldigt många EU-medborgare flyttar till och arbetar på olika platser på kontinenten.
 
-Denna ekonomiska integration skapar arbetstillfällen – och en BNP\-ökning på uppskattningsvis 9 procent. Bestämmelserna som reglerar den inre marknaden har många gånger även kommit att bli internationella standarder, vilket stärker EU:s normerande roll i världen.
+Denna ekonomiska integration skapar arbetstillfällen – och en BNP-ökning på uppskattningsvis 9 procent. Bestämmelserna som reglerar den inre marknaden har många gånger även kommit att bli internationella standarder, vilket stärker EU:s normerande roll i världen.
 
 Under tre årtionden har den inre marknaden stärkt den europeiska konkurrenskraften. Även företag som kommer från små länder och har små nationella marknader har blivit starka och redo att möta hård konkurrens på världsarenan.
 
@@ -33,7 +32,7 @@ För Sveriges del är handeln sedan länge motorn i vår ekonomi som stöder pri
 
 \*\*\*
 
-Men låt oss återkomma till covid\-19 och dess effekter på leveranskedjorna. Vi har sedan dess även ställts inför en energikris, hög inflation och minskad köpkraft i spåren av Rysslands storskaliga invasion av Ukraina.
+Men låt oss återkomma till covid-19 och dess effekter på leveranskedjorna. Vi har sedan dess även ställts inför en energikris, hög inflation och minskad köpkraft i spåren av Rysslands storskaliga invasion av Ukraina.
 
 De lärdomar som vi har dragit handlar bland annat om att den inre marknaden bör omfatta mer än de ”traditionella målen” om att skapa tillväxt, sysselsättning och fördelar för medborgare och konsumenter. Den inre marknaden måste även bli vår främsta källa till resiliens.
 
@@ -43,7 +42,7 @@ Faktum är att EU halkar efter Asien och Förenta staterna inom centrala ekonomi
 
 Mellan 2014 och 2019 växte europeiska företag i genomsnitt 40 procent långsammare än sina amerikanska motsvarigheter. Ännu mer bekymrande är att de investerade 40 procent mindre i forskning och utveckling. Jag är helt övertygad om att det finns ett samband.
 
-Så här ser läget ut, och det är därför min regering har prioriterat att sätta europeisk konkurrenskraft högst upp på dagordningen under Sveriges EU\-ordförandeskap.
+Så här ser läget ut, och det är därför min regering har prioriterat att sätta europeisk konkurrenskraft högst upp på dagordningen under Sveriges EU-ordförandeskap.
 
 I mars hörsammade kommissionen Europeiska rådets begäran om en strategi för långsiktig konkurrenskraft. Samma månad enades vi i rådet om viktiga slutsatser som syftar till att ta itu med EU:s långsiktiga konkurrenskraft. En robust plattform för att möta långsiktiga utmaningar genom att
 
@@ -55,7 +54,7 @@ I mars hörsammade kommissionen Europeiska rådets begäran om en strategi för 
 
 Artificiell intelligens kommer att vara mycket viktigt för att öka effektiviteten, produktiviteten och kreativiteten. Det finns dock utmaningar och många okända faktorer, som med de flesta nya tekniktyper. Utvecklingen, möjligheterna och farorna är alla exponentiella, samtidigt som våra lagar, strukturer och policyer sällan är lika dynamiska. Reglering behövs, men den bör vara noga avgränsad för att inte verka dämpande på innovationen eller framstegen. Och här skulle jag förorda transatlantiska strategier – inte ett isolerat europeiskt ”strategiskt oberoende” – för att uppnå globala standarder och universella normer.
 
-Det här är en väg att gå för att minska tillväxt\- och innovationsklyftan mellan Europa och våra globala konkurrenter. Och öka vår produktivitet och konkurrenskraft.
+Det här är en väg att gå för att minska tillväxt- och innovationsklyftan mellan Europa och våra globala konkurrenter. Och öka vår produktivitet och konkurrenskraft.
 
 Dessa diskussioner kommer förstås att fortsätta – t.ex. under detta viktiga evenemang.
 

@@ -6,4 +6,4 @@ För att Sverige ska nå klimatmålen måste alla sektorer i samhället ställa 
 
 Dagens rundabordssamtal är ett led i regeringens arbete med att ta fram den klimatpolitiska handlingsplanen för den här mandatperioden. I det arbetet är dialogen med företagsledare central inom de sektorer som släpper ut mest och de sektorer som kan skapa förutsättningar för att alla ska kunna ställa om.
 
-Media som vill göra en intervju om rundabordssamtalet med klimat\- och miljöministern eller infrastruktur\- och bostadsministern kan kontakta respektive ministers pressekreterare, kontaktuppgifter nedan.
+Media som vill göra en intervju om rundabordssamtalet med klimat- och miljöministern eller infrastruktur- och bostadsministern kan kontakta respektive ministers pressekreterare, kontaktuppgifter nedan.

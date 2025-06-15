@@ -10,6 +10,6 @@ De inkomst­uppgifter som ska kunna lämnas ut är uppgifter per betal­nings­m
 
 – En av regeringens mest priori­terade frågor är att stoppa den grova kriminali­teten. Det arbetar vi med på flera olika områden. En viktig pusselbit är att de brotts­bekäm­pande myndig­heterna nu får tillgång till upp­gifter i Skatte­verkets beskatt­nings­databas, säger finans­minister Elisabeth Svantesson.
 
-Redan i dag kan brotts­bekäm­pande myndig­heter i regel få tillgång till de aktuella upp­gifterna, något som dock kräver en manuell begäran till Skatte­verket i varje ärende. Pro­cessen är både tids\- och resurs­krävande. I och med ändringen ska myndig­heterna få tillgång till upp­gifterna genom en elektro­nisk fråga\-svarstjänst som innebär att svaret kommer omedel­bart.
+Redan i dag kan brotts­bekäm­pande myndig­heter i regel få tillgång till de aktuella upp­gifterna, något som dock kräver en manuell begäran till Skatte­verket i varje ärende. Pro­cessen är både tids- och resurs­krävande. I och med ändringen ska myndig­heterna få tillgång till upp­gifterna genom en elektro­nisk fråga-svarstjänst som innebär att svaret kommer omedel­bart.
 
-Förord­nings­ändringen planeras att träda i kraft den 1 januari 2023\.
+Förord­nings­ändringen planeras att träda i kraft den 1 januari 2023.

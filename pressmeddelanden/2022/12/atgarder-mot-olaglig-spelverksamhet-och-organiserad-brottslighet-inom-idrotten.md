@@ -11,4 +11,4 @@ Regeringen föreslår bland annat:
 * Utökade möjligheter för spelbolag och idrottsförbund att behandla personuppgifter för att motverka matchfixning
 * En skyldighet för spelbolag att lämna ut uppgifter till Polismyndigheten som behövs för en utredning om brott i samband med spel
 
-Lagändringarna föreslås träda i kraft den 1 juli 2023\.
+Lagändringarna föreslås träda i kraft den 1 juli 2023.

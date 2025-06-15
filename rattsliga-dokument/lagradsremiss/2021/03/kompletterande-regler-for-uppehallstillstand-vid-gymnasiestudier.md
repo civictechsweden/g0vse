@@ -1,6 +1,6 @@
 # Kompletterande regler för uppehållstillstånd vid gymnasiestudier
 
-I denna lagrådsremiss föreslås ändringar i lagen (2017:353\) om uppehållstillstånd för studerande på gymnasial nivå för att underlätta för utlänningar som omfattas av den lagen att beviljas permanent uppehållstillstånd vid försörjning.
+I denna lagrådsremiss föreslås ändringar i lagen (2017:353) om uppehållstillstånd för studerande på gymnasial nivå för att underlätta för utlänningar som omfattas av den lagen att beviljas permanent uppehållstillstånd vid försörjning.
 
 Det föreslås att
 
@@ -8,6 +8,6 @@ Det föreslås att
 * studiemedel för halvtidsstudier ska kunna beaktas när man bedömer om försörjningskravet för permanent uppehållstillstånd är uppfyllt,
 * en viss form av subventionerad anställning, en så kallad yrkesintroduktionsanställning, ska kunna ligga till grund för permanent uppehållstillstånd.
 
-Förslagen lämnas mot bakgrund av det skärpta arbetsmarknadsläge som har uppstått till följd av spridningen av sjukdomen covid\-19\.
+Förslagen lämnas mot bakgrund av det skärpta arbetsmarknadsläge som har uppstått till följd av spridningen av sjukdomen covid-19.
 
-Lagändringarna föreslås träda i kraft den 20 juli 2021 och gälla till utgången av juni 2023\.
+Lagändringarna föreslås träda i kraft den 20 juli 2021 och gälla till utgången av juni 2023.

@@ -6,4 +6,4 @@ Direktåtkomsten ska avse uppgifter som behövs för att förebygga, förhindra 
 
 I promemorian redogörs inledningsvis för innebörden av direktåtkomst och gällande rätt avseende dataskydd och sekretess. Därefter beskrivs de brottsbekämpande myndigheternas behov av tillgång till uppgifter i beskattningsdatabasen genom direktåtkomst. Promemorian avslutas med överväganden mellan de motstående intressen som finns i frågan och förslag till en ny reglering som möjliggör att de nämnda myndigheterna medges direktåtkomst till uppgifter i beskattningsdatabasen.
 
-Författningsändringarna föreslås träda i kraft den 1 mars 2021\.
+Författningsändringarna föreslås träda i kraft den 1 mars 2021.

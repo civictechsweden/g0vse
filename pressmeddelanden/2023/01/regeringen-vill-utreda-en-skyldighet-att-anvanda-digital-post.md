@@ -12,6 +12,6 @@ Utredaren ska
 
 – Det här tilläggsdirektivet är viktigt för att undersöka hur digital post ska se ut i framtiden, samt vilka personer som bör undantas från ett krav på digital brevlåda, säger civilminister Erik Slottner.
 
-Utredningen ska redovisa sina förslag senast den 14 juni 2024\.
+Utredningen ska redovisa sina förslag senast den 14 juni 2024.
 
 Civilminister Erik Slottner har även tagit emot utredningens delbetänkande rörande finansieringen av den samhällsomfattande posttjänsten.

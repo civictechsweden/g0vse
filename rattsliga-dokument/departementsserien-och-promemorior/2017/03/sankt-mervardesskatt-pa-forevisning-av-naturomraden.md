@@ -4,4 +4,4 @@ Inför budgetpropositionen för 2018 är det angeläget att skatteförslag kan f
 
 I promemorian föreslås att skattesatsen på mervärdesskatteområdet sänks från 25 procent till 6 procent på förevisning av naturområden.
 
-Förslaget föreslås träda i kraft den 1 januari 2018\.
+Förslaget föreslås träda i kraft den 1 januari 2018.

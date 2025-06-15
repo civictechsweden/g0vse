@@ -2,9 +2,7 @@
 
 ![Omslagsbild strategi](/contentassets/8b5c1b284a03474287288dea5677786d/sahara_150.jpg?width=150&quality=85)
 
-
-Svenskt utvecklingssamarbete med Afrika söder om Sahara inom ramen för denna strategi ska bidra till en ökad regional integration och stärkt kapacitet att möta gränsöverskridande utmaningar och möjligheter på regional nivå. Strategin ska gälla under perioden 2016–2021\.
-
+Svenskt utvecklingssamarbete med Afrika söder om Sahara inom ramen för denna strategi ska bidra till en ökad regional integration och stärkt kapacitet att möta gränsöverskridande utmaningar och möjligheter på regional nivå. Strategin ska gälla under perioden 2016–2021.
 
 Strategin omfattar sammantaget 2700 miljoner svenska kronor varav 2670 miljoner kronor avser Sidas verksamhet och 30 miljoner kronor avser Folke Bernadotteakademins (FBA:s) verksamhet.
 
@@ -46,4 +44,4 @@ Mänsklig säkerhet och frihet från våld
 
 • Stärkt kapacitet hos regionala aktörer att genomföra FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet
 
-Artikelnummer: UD 16\.034
+Artikelnummer: UD 16.034

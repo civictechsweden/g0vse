@@ -6,7 +6,7 @@ Det föreslås att barn inte längre ska kunna få dispens att gifta sig. Vidare
 
 Vidare föreslår regeringen ett nytt brott, äktenskapstvång, med straffet fängelse i högst fyra år. Brottet består i att någon genom olaga tvång eller utnyttjande av utsatt belägenhet förmår en person att gifta sig eller ingå en äktenskapsliknande förbindelse. Förberedande gärningar kriminaliseras genom att försök och förberedelse till äktenskapstvång blir straffbart samt genom det nya brottet vilseledande till tvångsäktenskapsresa.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2014\.
+Lagändringarna föreslås träda i kraft den 1 juli 2014.
 
 Slutligen föreslås att riksdagen ska godkänna Europarådets konvention om våld mot kvinnor.
 

@@ -1,6 +1,6 @@
 # Utrikesminister Tobias Billström reser till Bukarest för Natos utrikesministermöte
 
-– Det är viktigt för oss att vara med och bidra som blivande fullvärdig medlem i Nato. Sverige och Finland är säkrare i Nato, och Nato blir likaså säkrare med Sverige och Finland som fullvärdiga medlemmar. Det är en så kallad ”win\-win situation”. Jag ser fram emot att tala med mina kollegor i Nato om vår ratifikationsprocess. Det är också värdefullt att Natokretsen får träffa Ukrainas utrikesminister, säger utrikesminister Tobias Billström.
+– Det är viktigt för oss att vara med och bidra som blivande fullvärdig medlem i Nato. Sverige och Finland är säkrare i Nato, och Nato blir likaså säkrare med Sverige och Finland som fullvärdiga medlemmar. Det är en så kallad ”win-win situation”. Jag ser fram emot att tala med mina kollegor i Nato om vår ratifikationsprocess. Det är också värdefullt att Natokretsen får träffa Ukrainas utrikesminister, säger utrikesminister Tobias Billström.
 
 Utrikesministern kommer delta i samtliga arbetssessioner där aktuella säkerhetspolitiska frågor kommer diskuteras och har möjlighet att träffa ministerkollegorna i Natokretsen. Tidigare har Sverige deltagit som partnerland och då endast närvarat på en session som är öppen för Natos partnerländer. Ukraina representeras som partnerland under mötet av den ukrainska utrikesministern Dmytro Kuleba.
 

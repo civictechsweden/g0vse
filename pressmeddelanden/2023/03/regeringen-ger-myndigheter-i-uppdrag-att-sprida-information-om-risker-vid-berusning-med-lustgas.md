@@ -10,6 +10,6 @@ Regeringen ser allvarligt på situationen med skadligt bruk av lustgas och den u
 
 Vid inandning orsakar lustgasen ett kort och intensivt rus. Vid frekvent och långvarig användning kan allvarliga skador uppkomma, exempelvis nervskador, psykoser, psykiatriska problem och blodproppar. Användning vid enstaka tillfällen medför risk för köldskador och medvetslöshet.
 
-## Utredning pågår om eventuell reglering av icke\-medicinsk användning av lustgas
+## Utredning pågår om eventuell reglering av icke-medicinsk användning av lustgas
 
-Utredningen om lustgas och vissa frågor inom alkohol\- och tobaksområdet (S 2022:14\) har i uppdrag att föreslå reglering av icke\-medicinsk användning av lustgas, till exempel åldersgränser, försäljning, tillsyn, marknadsföring och införsel.
+Utredningen om lustgas och vissa frågor inom alkohol- och tobaksområdet (S 2022:14) har i uppdrag att föreslå reglering av icke-medicinsk användning av lustgas, till exempel åldersgränser, försäljning, tillsyn, marknadsföring och införsel.

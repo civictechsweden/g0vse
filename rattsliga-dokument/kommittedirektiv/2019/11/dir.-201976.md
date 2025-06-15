@@ -12,4 +12,4 @@ Kommittén ska bl.a.
 * i samråd med hovet, överväga hur utformningen av riksdagens anslag till hovet kan bidra till att det kungliga husets officiella åtaganden främst utförs av ett begränsat antal av dess medlemmar och, med utgångspunkt i detta, utarbeta principer för anslagets utformning, och
 * lämna de författningsförslag som kommittén bedömer vara motiverade.
 
-Uppdraget ska redovisas senast den 15 juni 2021\. Om kommittén bedömer att det är lämpligt, får den lämna ett eller flera delbetänkanden.
+Uppdraget ska redovisas senast den 15 juni 2021. Om kommittén bedömer att det är lämpligt, får den lämna ett eller flera delbetänkanden.

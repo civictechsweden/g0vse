@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om arbetssökande över 55 år
 
-Skrivelsen innehåller regeringens bedömning och åtgärder med anledning av Riksrevisionens rapport Arbetssökande över 55 år – regeringen och Arbetsförmedlingens styrning och prioriteringar (RiR 2021:06\).
+Skrivelsen innehåller regeringens bedömning och åtgärder med anledning av Riksrevisionens rapport Arbetssökande över 55 år – regeringen och Arbetsförmedlingens styrning och prioriteringar (RiR 2021:06).
 
 Riksrevisionens övergripande bedömning är att regeringens och Arbetsförmedlingens styrning försvårar ett effektivt arbete för att arbetssökande över 55 år ska återgå i arbete.
 

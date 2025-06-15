@@ -6,4 +6,4 @@ Det föreslås att avgiftsuttaget till resolutionsreserven ökas genom ett förh
 
 Det föreslås också ett antal redaktionella ändringar i LOR.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2018\.
+Lagändringarna föreslås träda i kraft den 1 januari 2018.

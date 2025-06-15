@@ -1,7 +1,6 @@
 # Remiss av Promemorian Kompletterande bestämmelser till förslagen om utökade miljözoner
 
-Här kan du ta del av till vilka remissinstanser som regeringen har remitterat Promemorian Kompletterande bestämmelser till förslagen om utökade miljözoner. Remissvaren ska ha kommit in till Näringsdepartementet senast den 17 augusti 2018\.
-
+Här kan du ta del av till vilka remissinstanser som regeringen har remitterat Promemorian Kompletterande bestämmelser till förslagen om utökade miljözoner. Remissvaren ska ha kommit in till Näringsdepartementet senast den 17 augusti 2018.
 
 ### Remissinstanser
 

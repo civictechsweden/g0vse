@@ -4,7 +4,6 @@ Den 8 december talade statssekreterare Christian Danielsson vid ett högnivåsem
 
 Talet är publicerat på engelska. Det talade ordet gäller.
 
-
 Thank you (Fredrik) for the introduction!
 
 Dear friends of the EU Strategy for the Baltic Sea Region, dear friends of the Danube Strategy, dear friends of the European Union, honoured Ambassadors and last, but not least, dear Ukrainian friends.
@@ -15,11 +14,11 @@ I am especially happy to welcome my dear colleague, Mr Ihor Korkhovyi. I am also
 
 Russia’s aggression against Ukraine and its far reaching consequences, dominates the political agenda of EU MS: s today. The war has reminded us that our liberties should never be taken for granted.
 
-The European Union has been united in its determination to counter Russia through sanctions, and its robust support for Ukraine \- politically, economically, militarily, and humanitarianly. That support will continue. The Baltic Sea Region is not an exception, and the co\-operation with Ukraine will be a given priority on our agenda today.
+The European Union has been united in its determination to counter Russia through sanctions, and its robust support for Ukraine - politically, economically, militarily, and humanitarianly. That support will continue. The Baltic Sea Region is not an exception, and the co-operation with Ukraine will be a given priority on our agenda today.
 
 Exploring how to further develop cooperation and widen participation developing new forms of cooperation is what we should look for. It includes spreading knowledge of how the Strategy contributes to societal development; and creating the conditions that enable more people to take part in cooperation within the Strategy.
 
-The EU Strategy for the Baltic Sea Region has delivered. It launched during the Swedish Presidency of the European Council in 2009\.
+The EU Strategy for the Baltic Sea Region has delivered. It launched during the Swedish Presidency of the European Council in 2009.
 
 It has formed an important framework for transnational cooperation in the region and has produced useful results in many different areas. Macroregional strategies offer platforms for sustainable cooperation beyond single projects enabling stakeholders to jointly tackle today’s societal challenges.
 

@@ -7,7 +7,7 @@ Riksrevisionens övergripande bedömning är att Svenska Skeppshypotek inte har 
 Regeringen välkomnar Riksrevisionens granskning och instämmer i de
 övergripande iakttagelserna.
 
-Regeringen avser att se över verksamhetsformen för Svenska Skeppshypotek och värdera för\- och nackdelar med olika verksamhetsformer, inklusive den nuvarande, där en möjlig form är aktiebolag.
+Regeringen avser att se över verksamhetsformen för Svenska Skeppshypotek och värdera för- och nackdelar med olika verksamhetsformer, inklusive den nuvarande, där en möjlig form är aktiebolag.
 
 Vid denna analys ska även konsekvenserna för sjöfartsnäringen beaktas.
 

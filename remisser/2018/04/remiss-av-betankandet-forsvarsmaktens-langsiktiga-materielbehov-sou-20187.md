@@ -1,8 +1,7 @@
 # Remiss av betänkandet Försvarsmaktens långsiktiga materielbehov (SOU 2018:7)
 
-Här kan du ta del av till vilka remissinstanser som regeringen har remitterat betänkandet Försvarsmaktens långsiktiga materielbehov (SOU 2018:7\).
-Remissvaren ska ha kommit in till Försvarsdepartementet senast den 27 april 2018\.
-
+Här kan du ta del av till vilka remissinstanser som regeringen har remitterat betänkandet Försvarsmaktens långsiktiga materielbehov (SOU 2018:7).
+Remissvaren ska ha kommit in till Försvarsdepartementet senast den 27 april 2018.
 
 Remissinstanser
 
@@ -15,6 +14,6 @@ Remissinstanser
 [7 Ekonomistyrningsverket](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/forsvarsmaktens-langsiktiga-materielbehov-sou-20187/fo2018-00251_7-ekonomistyrningsverket.pdf)
 [8 Statskontoret](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/forsvarsmaktens-langsiktiga-materielbehov-sou-20187/fo2018-00251_8-statskontoret.pdf)
 [9 Riksgäldskontoret](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/forsvarsmaktens-langsiktiga-materielbehov-sou-20187/fo2018-00251_9-riksgaldskontoret.pdf)
-[10 Säkerhets\- och försvarsföretagen, SOFF](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/forsvarsmaktens-langsiktiga-materielbehov-sou-20187/fo2018-00251_10-soff.pdf)
-[11 SME\-D](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/forsvarsmaktens-langsiktiga-materielbehov-sou-20187/fo2018-00251_11-sme-d.pdf)
+[10 Säkerhets- och försvarsföretagen, SOFF](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/forsvarsmaktens-langsiktiga-materielbehov-sou-20187/fo2018-00251_10-soff.pdf)
+[11 SME-D](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/forsvarsmaktens-langsiktiga-materielbehov-sou-20187/fo2018-00251_11-sme-d.pdf)
 12 Swedish Association of Civil Security, SACS

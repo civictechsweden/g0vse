@@ -1,6 +1,6 @@
 # Utfodring av vilt
 
-Denna promemoria innehåller förslag till ändringar i jaktlagen (1987:259\) och jaktförordningen (1987:905\) som gör det möjligt att meddela förbud mot och villkor för utfodring av vilt.
+Denna promemoria innehåller förslag till ändringar i jaktlagen (1987:259) och jaktförordningen (1987:905) som gör det möjligt att meddela förbud mot och villkor för utfodring av vilt.
 
 Förslagen innebär att den myndighet som regeringen bestämmer i det
 enskilda fallet ska kunna meddela beslut om förbud mot eller villkor för
@@ -11,4 +11,4 @@ Länsstyrelsen ska enligt förslaget utöva tillsyn över att beslut om utfodrin
 Det ska vara möjligt att överklaga de förelägganden som länsstyrelsen
 beslutar om till allmän förvaltningsdomstol. Det ska även vara möjligt att överklaga beslut om förbud mot och villkor för utfodring.
 
-Förslagen föreslås träda i kraft den 1 juli 2021\.
+Förslagen föreslås träda i kraft den 1 juli 2021.

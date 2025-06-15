@@ -1,15 +1,12 @@
 # Regeringsförklaringen den 14 september 2021
 
-Statsminister Stefan Löfven, riksdagen, den 14 september 2021\.
-
+Statsminister Stefan Löfven, riksdagen, den 14 september 2021.
 
 Eders Majestäter, Eders Kungliga Högheter, Herr talman, Ärade ledamöter av Sveriges riksdag!
 
-
-
 Svensk demokrati är inte mer än hundra år.
 
-Under slutet på 1910\-talet var fattigdomen djup och ojämlikheten skriande. Men trots att det var en orolig tid har 1918 kommit att kallas det år då ”Sverige blev Sverige”.
+Under slutet på 1910-talet var fattigdomen djup och ojämlikheten skriande. Men trots att det var en orolig tid har 1918 kommit att kallas det år då ”Sverige blev Sverige”.
 
 Partier som tidigare haft svårt att samarbeta hade gått samman och lagt meningsskiljaktigheter åt sidan. Under de följande åren infördes allmän och lika rösträtt för kvinnor och män. Fattigauktioner ersattes av ett samhälls­ansvar för utsatta människor. Åtta timmars arbetsdag infördes. Det såddes ett frö till välfärdssamhället.
 
@@ -22,7 +19,7 @@ Låt det vara en påminnelse om att demokratin inte kan tas för given. Den bör
 Herr talman,
 
 I boken Historien om Bodri beskriver en liten flicka sin bästa vän:
-”Marika och jag var nästan lika långa och vi kunde vissla lika bra. \[…] Vi hade skrubbsår på knäna och båda hade fått nya framtänder. Skillnaden mellan oss var bara att vi bad olika böner”.
+”Marika och jag var nästan lika långa och vi kunde vissla lika bra. […] Vi hade skrubbsår på knäna och båda hade fått nya framtänder. Skillnaden mellan oss var bara att vi bad olika böner”.
 
 Flickans namn är Hédi Fried. Hon är rädd, men framför allt kan hon inte förstå. Varför får hon inte längre leka med sin vän? Varför är hon hatad, fast hon inte har gjort något? Iklädd fångkläder och hårda skor längtar hon efter mamma, pappa och sin hund Bodri.
 
@@ -42,21 +39,21 @@ Den första januari inrättas i Lund ett institut med uppgift att främja de mä
 
 Herr talman,
 
-EU\-samarbetet gör Sverige starkare och säkrare. Hot som klimatkrisen, pandemier, terrorism och organiserad brottslighet kan inte lösas av ett enskilt land. Tillsammans ska vi stärka vår beredskap att klara kriser. EU ska fortsatt ha en ledande roll i klimatomställningen, för stärkt konkurrenskraft och för en snabbare digitalisering. Även migrationen behöver vi hantera gemensamt i unionen.
+EU-samarbetet gör Sverige starkare och säkrare. Hot som klimatkrisen, pandemier, terrorism och organiserad brottslighet kan inte lösas av ett enskilt land. Tillsammans ska vi stärka vår beredskap att klara kriser. EU ska fortsatt ha en ledande roll i klimatomställningen, för stärkt konkurrenskraft och för en snabbare digitalisering. Även migrationen behöver vi hantera gemensamt i unionen.
 
 Regeringen arbetar för ett mer jämlikt Europa med bättre arbetsvillkor och ökad jämställdhet. EU ska vara öppet mot omvärlden och slå vakt om de mänskliga rättigheterna. De tendenser vi ser där akademins, mediers och civilsamhällets frihet begränsas och domstolars oberoende ifrågasätts måste motverkas.
 
 Ett fungerande europeiskt samarbete bygger på en tydlig ansvarsfördelning mellan unionen och medlemsstaterna. Den fördelningen ligger fast. Skatter ska fortsatt beslutas i Sverige. Arbetsmarknadens parter ska komma överens om löner och villkor. Skogsbruket ska inte detaljregleras i Bryssel.
 
-I tider av ökad protektionism är Sverige pådrivande för en fri, hållbar och rättvis internationell handel och en stark inre marknad. Regeringen verkar för nya frihandelsavtal och slår vakt om miljö och mänskliga rättigheter i de sammanhangen. På så vis kan handeln bidra till att uppfylla målen för Agenda 2030\.
+I tider av ökad protektionism är Sverige pådrivande för en fri, hållbar och rättvis internationell handel och en stark inre marknad. Regeringen verkar för nya frihandelsavtal och slår vakt om miljö och mänskliga rättigheter i de sammanhangen. På så vis kan handeln bidra till att uppfylla målen för Agenda 2030.
 
 \* \* \*
 
 Sveriges säkerhetspolitiska linje ligger fast. Den militära alliansfriheten tjänar vårt land väl och bidrar till stabilitet och säkerhet i norra Europa. Sverige kommer inte att förhålla sig passivt om en katastrof eller ett angrepp drabbar ett annat land i Norden eller i EU. Vi förväntar oss att dessa länder agerar på samma sätt om Sverige drabbas.
 
-Vi lever i en tid som innebär maktförskjutningar – geografiska, ekonomiska och teknologiska. Den globala utvecklingen understryker EU:s betydelse som Sveriges viktigaste utrikes\- och säkerhetspolitiska arena. Genom medlemskapet i unionen kan vi bidra till ett säkert, demokratiskt och välmående Europa, samtidigt som våra värderingar och ståndpunkter i utrikespolitiken får större genomslag. Den transatlantiska relationen är central för Sveriges och Europas säkerhet och välstånd.
+Vi lever i en tid som innebär maktförskjutningar – geografiska, ekonomiska och teknologiska. Den globala utvecklingen understryker EU:s betydelse som Sveriges viktigaste utrikes- och säkerhetspolitiska arena. Genom medlemskapet i unionen kan vi bidra till ett säkert, demokratiskt och välmående Europa, samtidigt som våra värderingar och ståndpunkter i utrikespolitiken får större genomslag. Den transatlantiska relationen är central för Sveriges och Europas säkerhet och välstånd.
 
-Vårt pågående ordförandeskap i OSSE ger Sverige ytterligare möjligheter att försvara den europeiska säkerhetsordningen med utgångspunkt i folkrätten och FN\-stadgan. Säkerhet kan bara garanteras i samarbete med andra och med respekt för demokrati, mänskliga rättigheter och rättsstatens principer.
+Vårt pågående ordförandeskap i OSSE ger Sverige ytterligare möjligheter att försvara den europeiska säkerhetsordningen med utgångspunkt i folkrätten och FN-stadgan. Säkerhet kan bara garanteras i samarbete med andra och med respekt för demokrati, mänskliga rättigheter och rättsstatens principer.
 
 Den svenska migrationspolitiken ska vara rättssäker, effektiv och human.
 En ny lagstiftning som upprätthåller asylrätten och skapar en balans mellan rättigheter och skyldigheter har trätt i kraft.
@@ -71,15 +68,15 @@ Herr talman,
 
 Det säkerhetspolitiska läget i Sveriges närområde och i Europa har över tid försämrats. Hotet mot Sverige har breddats och blivit mer komplext. En ny, uppdaterad nationell säkerhetsstrategi tas därför fram.
 
-Svensk utrikes\-, säkerhets\- och utvecklingspolitik är sammanflätade och ömsesidigt stärkande. De väpnade konflikterna i världen blir fler och mer långdragna och får allt större humanitära konsekvenser. Antalet flyktingar är större än någonsin.
+Svensk utrikes-, säkerhets- och utvecklingspolitik är sammanflätade och ömsesidigt stärkande. De väpnade konflikterna i världen blir fler och mer långdragna och får allt större humanitära konsekvenser. Antalet flyktingar är större än någonsin.
 
 Det utvecklingssamarbete som EU och Sverige bedriver skapar förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Åtagandet att det svenska biståndet ska motsvara en procent av bruttonationalinkomsten ligger fast.
 
-Behovet av gemensam säkerhet har aldrig varit större. Att stärka bi\- och multilaterala samarbeten, såsom FN\-samarbetet, gagnar internationell fred och säkerhet.
+Behovet av gemensam säkerhet har aldrig varit större. Att stärka bi- och multilaterala samarbeten, såsom FN-samarbetet, gagnar internationell fred och säkerhet.
 
 Sverige fördjupar försvarssamarbetet med Finland, med andra nordiska grannar, i EU, genom den transatlantiska länken samt med Nato. Regeringen kommer att fortsätta att utveckla försvarssamarbeten som stärker Sveriges säkerhet.
 
-Ett starkt militärt nationellt försvar byggs åter upp. Fem regementen och en flygflottilj återinrättas med start hösten 2021 och är fullt verksamma efter 2025\. Det rör sig om Dalregementet i Falun, Västernorrlands regemente i Sollefteå med utbildningsdetachement i Östersund, Norrlands dragon­regemente i Arvidsjaur, Bergslagens artilleriregemente i Kristinehamn, Älvsborgs amfibieregemente i Göteborg och Upplands flygflottilj i Uppsala.
+Ett starkt militärt nationellt försvar byggs åter upp. Fem regementen och en flygflottilj återinrättas med start hösten 2021 och är fullt verksamma efter 2025. Det rör sig om Dalregementet i Falun, Västernorrlands regemente i Sollefteå med utbildningsdetachement i Östersund, Norrlands dragon­regemente i Arvidsjaur, Bergslagens artilleriregemente i Kristinehamn, Älvsborgs amfibieregemente i Göteborg och Upplands flygflottilj i Uppsala.
 
 Sverige behöver också ett starkt civilt försvar. Hela samhällets förmåga att hantera höjd beredskap och ytterst krig ska stärkas. Detta innebär att även samhällets förmåga att hantera fredstida kriser ökar.
 
@@ -89,7 +86,7 @@ I Afghanistan, Jemen och Mali finns svårlösta konflikter med omfattande humani
 
 Evakueringen från Afghanistan påminner oss om vilka insatser svensk personal gör ute i världen, ofta under svåra förhållanden. Personal vid utlandsmyndigheterna, Försvarsmakten, Sida och andra myndigheter, före­trädare för civilsamhället, journalister och många andra gör ovärderliga in­satser för fred, säkerhet, demokrati och utveckling. Ett varmt tack till er alla.
 
-Hotet från kärnvapen är en global ödesfråga. Stockholmsinitiativet är ett tongivande politiskt initiativ för kärnvapennedrustning. Regeringen verkar för tydliga framsteg i FN:s arbete med icke\-spridning och nedrustning av kärnvapen.
+Hotet från kärnvapen är en global ödesfråga. Stockholmsinitiativet är ett tongivande politiskt initiativ för kärnvapennedrustning. Regeringen verkar för tydliga framsteg i FN:s arbete med icke-spridning och nedrustning av kärnvapen.
 
 \* \* \*
 
@@ -99,13 +96,13 @@ Regeringen har fyra övergripande prioriteringar. Jobben, klimatet, välfärden 
 
 Jobben är grunden till vårt lands välstånd. Jobben bygger individens frihet och yngre generationers hopp om en bättre framtid. Jobben tar Sverige framåt efter pandemin.
 
-Nu sker den största frihets\- och trygghetsreformen på svensk arbetsmarknad på decennier. Det nya omställningsstudiestödet ger tiotusentals vuxna mitt i arbetslivet möjlighet att vidareutbilda sig för att stå starka på framtidens arbetsmarknad – utan att deras ekonomi kraftigt försämras under studietiden.
+Nu sker den största frihets- och trygghetsreformen på svensk arbetsmarknad på decennier. Det nya omställningsstudiestödet ger tiotusentals vuxna mitt i arbetslivet möjlighet att vidareutbilda sig för att stå starka på framtidens arbetsmarknad – utan att deras ekonomi kraftigt försämras under studietiden.
 
 Kunskapslyftet ger fler utbildningsplatser i hela vårt land. Mälardalens högskola blir universitet. En regional dimensionering av gymnasial utbildning som bättre speglar efterfrågan på arbetsmarknaden införs.
 
 \* \* \*
 
-Långtidsarbetslösheten plågar familjer och lokalsamhällen där den bitit sig fast. Den ska bekämpas med en aktiv arbetsmarknadspolitik. Fler extra\-tjänster och introduktionsjobb, en förstärkning av nystartsjobben och fler möjligheter till arbetspraktik är viktiga åtgärder inte minst för äldre och för utrikes födda kvinnor. Regeringen arbetar för att införa etableringsjobb, i enlighet med parternas förslag.
+Långtidsarbetslösheten plågar familjer och lokalsamhällen där den bitit sig fast. Den ska bekämpas med en aktiv arbetsmarknadspolitik. Fler extra-tjänster och introduktionsjobb, en förstärkning av nystartsjobben och fler möjligheter till arbetspraktik är viktiga åtgärder inte minst för äldre och för utrikes födda kvinnor. Regeringen arbetar för att införa etableringsjobb, i enlighet med parternas förslag.
 
 Kvaliteten på utbildningen i svenska för invandrare ska höjas genom tuffare granskning, och fler vuxna ska kunna kombinera studier i svenska med yrkesutbildning.
 
@@ -133,7 +130,7 @@ Utifrån skogsutredningen kommer regeringen att lämna förslag som innebär st�
 
 I omställningen är det avgörande att alla aktörer tar sitt ansvar och att staten är ett föredöme. Möjligheterna att ställa klimatkrav vid upphandling förbättras.
 
-I pandemins spår har allt fler svenskar hittat ut i vår natur. Fjällvandrings\-lederna och naturreservaten slår besöksrekord. Den utvecklingen ska bejakas. Besöksnäringen ska stärkas.
+I pandemins spår har allt fler svenskar hittat ut i vår natur. Fjällvandrings-lederna och naturreservaten slår besöksrekord. Den utvecklingen ska bejakas. Besöksnäringen ska stärkas.
 
 En grön nyindustrialisering ska möjliggöras genom en ökad elektrifiering av samhället. En nationell elektrifieringsstrategi tas fram med förslag på hur elproduktionen kan öka för att skapa förutsättningar för omställningen av industrin och för en eldriven fordonsflotta.
 
@@ -141,7 +138,7 @@ Regeringens klimatpolitik gynnar svenska företag och Sveriges konkurrenskraft o
 
 Europeiska kommissionen har presenterat ett omfattande lagstiftningspaket för att nå EU:s klimatmål. Sverige kommer att driva på för höga ambitioner i det fortsatta arbetet.
 
-I juni nästa år högtidlighålls 50\-årsdagen av FN:s första miljökonferens, som ägde rum i Stockholm 1972\. Sverige står värd för FN\-konferensen Stockholm \+50 som ska bidra till en högre takt i genomförandet av de globala hållbarhetsmålen i Agenda 2030\.
+I juni nästa år högtidlighålls 50-årsdagen av FN:s första miljökonferens, som ägde rum i Stockholm 1972. Sverige står värd för FN-konferensen Stockholm +50 som ska bidra till en högre takt i genomförandet av de globala hållbarhetsmålen i Agenda 2030.
 
 Tillsammans ska vi ställa om vårt samhälle – för klimatets skull, för Sveriges skull.
 
@@ -173,7 +170,7 @@ Vården, skolan och omsorgen vilar på medarbetarnas axlar. De behöver fler kol
 
 Sjukvården ska stärkas. Tillgängligheten ska öka och primärvården byggas ut. Fler ska få en fast läkarkontakt. Det nya nationella vårdkompetensrådet bidrar till att säkra att rätt utbildad personal finns.
 
-Fortsatta satsningar görs på cancervården, förlossningsvården och kvinnors hälsa, den psykiska hälsan och ambulanssjukvården. Krisberedskapen inom hälso\- och sjukvården ska långsiktigt stärkas. Pandemin har visat att det är nödvändigt.
+Fortsatta satsningar görs på cancervården, förlossningsvården och kvinnors hälsa, den psykiska hälsan och ambulanssjukvården. Krisberedskapen inom hälso- och sjukvården ska långsiktigt stärkas. Pandemin har visat att det är nödvändigt.
 
 Regeringen fortsätter att stärka rätten till personlig assistans. Under detta år kommer regeringen att lämna förslag om stöd för egenvårdsinsatser, ett avsmalnat föräldraansvar samt ett stärkt stöd för tillsyn.
 
@@ -219,7 +216,7 @@ En ny straffskärpningsgrund för brott som motiveras av hat mot kvinnor ska utr
 
 Även barn ska skyddas från våldet. En utredning ser över barns skydd vid umgänge med en förälder som har utövat våld eller gjort sig skyldig till någon annan allvarlig kränkning. Barns straffrättsliga skydd mot sexuella övergrepp ska stärkas. En samlad nationell strategi för att förebygga och motverka våld mot barn tas nu fram. Under nästa år beslutas en ”lex Lilla hjärtat”, som stärker tryggheten för placerade barn och unga.
 
-Inga barn och ungdomar ska tvingas leva under förtryck. Regeringen fortsätter arbetet för att stoppa hedersbrotten. Ett nationellt kompetens\-centrum mot hedersvåld inrättas och ett särskilt hedersbrott införs.
+Inga barn och ungdomar ska tvingas leva under förtryck. Regeringen fortsätter arbetet för att stoppa hedersbrotten. Ett nationellt kompetens-centrum mot hedersvåld inrättas och ett särskilt hedersbrott införs.
 
 \* \* \*
 
@@ -229,7 +226,7 @@ Det är nu drygt tjugo månader sedan regeringen beslutade att klassa det nya co
 
 I dag har över 70 procent av alla vuxna i Sverige fått två vaccindoser. Det är en enorm framgång för forskningen, för sjukvården och för det europeiska samarbetet. Tack vare stigande vaccinationstäckning är Sverige i ett nytt och bättre läge. Vi längtar alla efter en situation där restriktionerna helt kan tas bort. Där är vi ännu inte.
 
-Regeringen har tillsatt en utredning för att ta vara på erfarenheterna från covid\-19\-pandemin och stärka samhällets förmåga att hantera framtida pandemier och epidemier.
+Regeringen har tillsatt en utredning för att ta vara på erfarenheterna från covid-19-pandemin och stärka samhällets förmåga att hantera framtida pandemier och epidemier.
 
 Pandemin är fortfarande högst närvarande överallt i världen. Därför arbetar regeringen aktivt för en global och jämlik vaccintillgång. Ingen är säker förrän alla är säkra.
 
@@ -237,7 +234,7 @@ Tack vare en ansvarsfull finanspolitik gick Sverige in i pandemin med starka sta
 
 \* \* \*
 
-Långsamt släpper covid\-19\-pandemins grepp. Pandemin blir ytterligare ett kapitel i vårt lands långa historia.
+Långsamt släpper covid-19-pandemins grepp. Pandemin blir ytterligare ett kapitel i vårt lands långa historia.
 
 Framför oss ligger en ännu oskriven framtid. Vi har anledning att känna tillförsikt inför den. Vår demokrati står stark. Vi lever i fred i ett av världens mest jämställda länder. Vårt land präglas av tillit mellan människor och en vilja att bidra här i vår värld. Vi har samhällsproblem men också verktyg för att lösa dem.
 

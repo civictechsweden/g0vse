@@ -8,6 +8,6 @@ Regeringen bör även överväga hur länsstyrelsernas nuvarande roll kan stärk
 
 Riksrevisionen rekommenderar också regeringen att aktivt verka för att öka de nyanländas deltagande i den reguljära vuxenutbildningen.
 
-Regeringen bör överväga möjligheten att underlätta för de nyanlända att i ökad utsträckning delta i såväl validering som vuxenutbildning på sitt modersmål. Regeringen bör också pröva om de samlade resurserna kan fördelas på ett effektivare sätt inom och mellan integrations\-, arbetsmarknads\- och utbildningsområdena för att påskynda de nyanländas etablering.
+Regeringen bör överväga möjligheten att underlätta för de nyanlända att i ökad utsträckning delta i såväl validering som vuxenutbildning på sitt modersmål. Regeringen bör också pröva om de samlade resurserna kan fördelas på ett effektivare sätt inom och mellan integrations-, arbetsmarknads- och utbildningsområdena för att påskynda de nyanländas etablering.
 
 Vidare har Riksrevisionen lämnat ett antal rekommendationer till Arbetsförmedlingen.

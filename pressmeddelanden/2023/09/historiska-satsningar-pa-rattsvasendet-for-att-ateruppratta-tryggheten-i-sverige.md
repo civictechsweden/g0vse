@@ -10,7 +10,7 @@ För att kunna genomföra detta måste rättsväsendet stärkas. Regeringen gör
 
 ## Polismyndigheten ska växa
 
-Polismyndigheten ska växa med målet att polistätheten åtminstone ska motsvara genomsnittet i Europeiska unionen. Genom tidigare beslut ökas anslaget med drygt 3,7 miljarder kr mellan 2023 och 2024\. Totalt uppgår anslaget under 2024 till ca 40,8 miljarder kronor. I budgetpropositionen för 2024 lägger regeringen grunden för den fortsatta polistillväxten, med ytterligare omfattande tillskott fr.o.m. 2025\.
+Polismyndigheten ska växa med målet att polistätheten åtminstone ska motsvara genomsnittet i Europeiska unionen. Genom tidigare beslut ökas anslaget med drygt 3,7 miljarder kr mellan 2023 och 2024. Totalt uppgår anslaget under 2024 till ca 40,8 miljarder kronor. I budgetpropositionen för 2024 lägger regeringen grunden för den fortsatta polistillväxten, med ytterligare omfattande tillskott fr.o.m. 2025.
 
 ## Stärkt säkerhetstjänst för att möta hoten
 
@@ -18,11 +18,11 @@ Omvärldsutvecklingen innebär att skyddet för den nationella säkerheten forts
 
 ## Kriminalvården behöver byggas ut kraftigt
 
-Regeringens omläggning av rättspolitiken innebär att fler kommer sitta i fängelse och under längre tid än idag. Kriminalvården kommer därför att behöva expanderas kraftigt. För att öka kapaciteten och antalet häktes\- och anstaltsplatser föreslår regeringen att myndigheten tillförs 1,475 miljarder kr 2024 i budget­propositionen för 2024 och 450 miljoner kr i höständrings­budgeten för detta ändamål.
+Regeringens omläggning av rättspolitiken innebär att fler kommer sitta i fängelse och under längre tid än idag. Kriminalvården kommer därför att behöva expanderas kraftigt. För att öka kapaciteten och antalet häktes- och anstaltsplatser föreslår regeringen att myndigheten tillförs 1,475 miljarder kr 2024 i budget­propositionen för 2024 och 450 miljoner kr i höständrings­budgeten för detta ändamål.
 
 ## Exempel på ytterligare förstärkningar för ökad trygghet:
 
 * Fler åklagare för att fler brott ska leda till åtal – ökade resurser till Åklagarmyndigheten.
 * Domstolarna ska fortsatt stärkas för att hantera den allt mer komplexa brottsligheten – ökade resurser till Sveriges Domstolar.
 * Brottsoffret i centrum för rättspolitiken – ökade resurser till Brottsoffermyndigheten, bland annat för att få fler att vittna
-* Fortsatt stöd till befintliga etableringar av Group Violence Intervention (GVI), ett samverkansbaserat arbetssätt mot grovt våld i kriminella miljöer från USA som har använts i Malmö sedan 2018\.
+* Fortsatt stöd till befintliga etableringar av Group Violence Intervention (GVI), ett samverkansbaserat arbetssätt mot grovt våld i kriminella miljöer från USA som har använts i Malmö sedan 2018.

@@ -4,4 +4,4 @@ I lagrådsremissen föreslås en ny lag om undantag från lokaliseringsprincipen
 
 Kommunala stadsnät ska få bedriva verksamhet i det utbyggda nätet på samma sätt som i bredbandsnätet i den egna kommunen.
 
-Lagförslagen föreslås träda i kraft den 1 mars 2023\.
+Lagförslagen föreslås träda i kraft den 1 mars 2023.

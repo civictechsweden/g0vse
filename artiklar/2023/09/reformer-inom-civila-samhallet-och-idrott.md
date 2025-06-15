@@ -2,7 +2,6 @@
 
 Regeringen ger i budgetpropositionen för 2024 en rad förslag inom politikområdet Civila samhället och idrott. Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-
 ## Regeringen vill satsa 100 miljoner per år på civilsamhället
 
 Det civila samhällets bidrag till samhällslivet och människor i utsatta situationer är omistligt. Regeringen föreslår därför att 100 miljoner kronor tillförs årligen, där huvuddelen av medlen går till att stärka det civila samhällets möjligheter för att ge stöd till utsatta.

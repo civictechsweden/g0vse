@@ -4,9 +4,9 @@
 
 är född 1948 och har en doktorsexamen i teologi. Han har studerat i London, Rom och Toronto och har även betyg i bl.a. filosofi, ögonhälsa och landsbygdsutveckling.
 
-Dr Slaa har en bakgrund som oppositionspolitiker och var generalsekreterare för oppositionspartiet Chadema fram till 2015\. Han har valts som parlamentsledamot tre gånger under åren 1995–2010 och var även Chademas presidentkandidat vid valet 2010\.
+Dr Slaa har en bakgrund som oppositionspolitiker och var generalsekreterare för oppositionspartiet Chadema fram till 2015. Han har valts som parlamentsledamot tre gånger under åren 1995–2010 och var även Chademas presidentkandidat vid valet 2010.
 
-Åren 1977–1991 var Dr Slaa katolsk präst i Mbulus Stift där han även verkade som biträdande biskop under åren 1983–1985\. Dr Slaa var VD i Tanzanias förening för blinda (1992–1998\) där han även idag är en aktiv styrelseledamot.
+Åren 1977–1991 var Dr Slaa katolsk präst i Mbulus Stift där han även verkade som biträdande biskop under åren 1983–1985. Dr Slaa var VD i Tanzanias förening för blinda (1992–1998) där han även idag är en aktiv styrelseledamot.
 
 Dr Slaa har innehaft ordförandeskap i ett flertal organisationer såsom CCBRT (Comprehensive Community Based Rehabilitation in Tanzania). Han var en av grundarna av SADC:s parlamentariska forum (Southern African Development Community).
 
@@ -40,8 +40,8 @@ Dr Slaa har innehaft ordförandeskap i ett flertal organisationer såsom CCBRT (
 
 2010 – Statssekreterare och ASEAN Senior Official (SOM) vid UD i Phnom Penh
 
-2009 – 2010 Biträdande statssekreterare och rådgivare till vice premiär\- och utrikesministern samt ASEAN SOM
+2009 – 2010 Biträdande statssekreterare och rådgivare till vice premiär- och utrikesministern samt ASEAN SOM
 
 2006 – 2009 Biträdande generaldirektör för ASEAN, Jakarta
 
-2004 \- 2006 Enhetschef för ASEAN\-frågor i Phnom Penh
+2004 - 2006 Enhetschef för ASEAN-frågor i Phnom Penh

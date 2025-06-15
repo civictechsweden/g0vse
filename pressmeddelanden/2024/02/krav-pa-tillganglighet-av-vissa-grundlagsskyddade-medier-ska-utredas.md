@@ -8,4 +8,4 @@ Utredaren får i uppdrag att
 * bedöma och redovisa vilka ändringar i mediegrundlagarna som kan behöva göras för att kraven enligt direktivet ska kunna uppfyllas, och
 * lämna förslag på författningsändringar som är motiverade.
 
-Uppdraget ska redovisas senast den 31 december 2024\.
+Uppdraget ska redovisas senast den 31 december 2024.

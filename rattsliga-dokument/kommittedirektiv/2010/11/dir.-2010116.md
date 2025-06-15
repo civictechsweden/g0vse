@@ -6,4 +6,4 @@ Vidare ska utredaren lämna förslag till de författningsändringar som behövs
 
 Utgångspunkten för utredningen ska genomgående vara ett så starkt och effektivt skydd för de skadelidande som möjligt.
 
-Uppdraget ska redovisas senast den 31 december 2011\.
+Uppdraget ska redovisas senast den 31 december 2011.

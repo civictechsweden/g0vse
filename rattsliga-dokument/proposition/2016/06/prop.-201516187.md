@@ -6,4 +6,4 @@ Det införs bl.a. en uttrycklig regel om att ett barn som har frihetsberövats s
 
 En misstänkt som är frihetsberövad och företräds av en offentlig försvarare, eller en privat försvarare som uppfyller motsvarande krav, får en oinskränkt rätt att träffa och samtala i enrum med sin försvarare. Detsamma ska gälla för annan kontakt i form av t.ex. telefonsamtal eller brev mellan den frihetsberövade och hans eller hennes försvarare. För frihetsberövade som företräds av en privat försvarare som inte uppfyller de krav som ställs på en offentlig försvarare kan dessa rättigheter i undantagsfall begränsas.
 
-Lagändringarna föreslås träda i kraft den 27 november 2016\.
+Lagändringarna föreslås träda i kraft den 27 november 2016.

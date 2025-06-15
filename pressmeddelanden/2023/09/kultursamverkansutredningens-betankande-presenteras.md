@@ -5,12 +5,12 @@ Utredningen föreslår bl.a. en ny lag om vidareutvecklad samverkan mellan stat,
 Utredningen är en pusselbit för att vidareutveckla den nuvarande kultursamverkansmodellen, som är en modell för bl.a. statens stöd till regional och lokal kultur och som 2023 uppgår till ca
 1,6 miljarder kronor.
 
-De statliga medlen fördelas till olika konst\- och kulturområden, bl.a. till länsteatrar, museer, orkestrar, professionell bild\- och formverksamhet regionala museer, regionbibliotek, läs\- och litteraturfrämjande, enskilda arkiv, främjande av hemslöjd och filmkulturell verksamhet.
+De statliga medlen fördelas till olika konst- och kulturområden, bl.a. till länsteatrar, museer, orkestrar, professionell bild- och formverksamhet regionala museer, regionbibliotek, läs- och litteraturfrämjande, enskilda arkiv, främjande av hemslöjd och filmkulturell verksamhet.
 
-\- Det är viktigt att modellen vidareutvecklas så att den i ökad grad kan bidra till kultur i hela landet och till att de nationella kulturpolitiska målen uppfylls, säger kulturminister Parisa Liljestrand.
+- Det är viktigt att modellen vidareutvecklas så att den i ökad grad kan bidra till kultur i hela landet och till att de nationella kulturpolitiska målen uppfylls, säger kulturminister Parisa Liljestrand.
 
 **Om utredningen**
-Regeringen beslutade den 7 juli 2022 att tillkalla en särskild utredare med uppdrag (dir2022:103\) att genomföra en översyn av kultursamverkansmodellen.
+Regeringen beslutade den 7 juli 2022 att tillkalla en särskild utredare med uppdrag (dir2022:103) att genomföra en översyn av kultursamverkansmodellen.
 
 Syftet med översynen är att modellen ska utvecklas så att den i ökad grad kan bidra till kultur i hela landet och till att de nationella kulturpolitiska målen uppfylls. I översynen ska regionernas frihet och ansvar beaktas.
 

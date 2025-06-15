@@ -7,10 +7,10 @@ Lagen innehåller bland annat allmänna bestämmelser rörande samtliga nationel
 Propositionen innehåller även andra delar i regeringens samlade strategi för minoritetspolitiken med åtgärder för att:
 
 * motverka diskriminering och utsatthet av de nationella minoriteterna,
-* säkerställa en bättre efterlevnad av Europarådets ramkonvention om skydd för nationella minoriteter och den europeiska stadgan om landsdels\- och minoritetsspråk och uppföljning av vidtagna åtgärder,
+* säkerställa en bättre efterlevnad av Europarådets ramkonvention om skydd för nationella minoriteter och den europeiska stadgan om landsdels- och minoritetsspråk och uppföljning av vidtagna åtgärder,
 * stärka de nationella minoriteternas egenmakt och inflytande, samt
 * främja bevarandet av de nationella minoritetsspråken.
 
-Den föreslagna lagen föreslås ersätta lagen (1999:1175\) om rätt att använda samiska hos förvaltningsmyndigheter och domstolar samt lagen (1999:1176\) om rätt att använda finska och meänkieli hos förvaltningsmyndigheter och domstolar, som därmed upphör att gälla. Vidare föreslås ändringar i sametingslagen (1992:1433\) och socialtjänstlagen (2001:453\).
+Den föreslagna lagen föreslås ersätta lagen (1999:1175) om rätt att använda samiska hos förvaltningsmyndigheter och domstolar samt lagen (1999:1176) om rätt att använda finska och meänkieli hos förvaltningsmyndigheter och domstolar, som därmed upphör att gälla. Vidare föreslås ändringar i sametingslagen (1992:1433) och socialtjänstlagen (2001:453).
 
-Den nya lagen och lagändringarna föreslås träda i kraft den 1 januari 2010\.
+Den nya lagen och lagändringarna föreslås träda i kraft den 1 januari 2010.

@@ -8,4 +8,4 @@ I lagrådsremissen föreslås huvudsakligen följande:
 * Ett samlat sanktionsförfarande i en domstol införs: allmän domstol ska i samband med skattebrottsprocessen kunna besluta om även skattetillägg.
 * Reglerna om åtalsprövning i skattebrottslagen justeras.
 
-De nya reglerna föreslås träda i kraft den 1 januari 2016\.
+De nya reglerna föreslås träda i kraft den 1 januari 2016.

@@ -10,8 +10,8 @@ Det ska inte krävas en konkret brottsmisstanke, utan grunden för ingripande ka
 
 Systemet med säkerhetszoner omgärdas av flera rättssäkerhetsgarantier. Som exempel ska ett beslut om en säkerhetszon enligt förslagen gälla högst två veckor åt gången och kunna överklagas till domstol. Vidare ska varje ingripande som sker i en zon dokumenteras.
 
-I propositionen föreslår regeringen att en utvärdering av lagstiftningen ska inledas cirka tre år efter regleringen trätt i kraft. Behovet av detta har såväl remissinstanser som Lagrådet betonat. Utvärdering ska ske antingen genom en utredning eller genom ett uppdrag till relevant myndighet. Vid utvärderingen ska användningen av säkerhetszoner ur ett effekt\-, likabehandlings\- och integritetsperspektiv, den praktiska användningen och det fortsatta behovet av regleringen att analyseras.
+I propositionen föreslår regeringen att en utvärdering av lagstiftningen ska inledas cirka tre år efter regleringen trätt i kraft. Behovet av detta har såväl remissinstanser som Lagrådet betonat. Utvärdering ska ske antingen genom en utredning eller genom ett uppdrag till relevant myndighet. Vid utvärderingen ska användningen av säkerhetszoner ur ett effekt-, likabehandlings- och integritetsperspektiv, den praktiska användningen och det fortsatta behovet av regleringen att analyseras.
 
 Lagrådet pekade i sitt yttrande på att den snabba tidsplanen kan begränsa regeringens möjlighet att överväga Lagrådets synpunkter. Regeringen har senarelagt ikraftträdandet med en månad till den 25 april 2024, och har använt tiden till att analysera Lagrådets yttrande och göra lämpliga anpassningar av lagförslaget utifrån det.
 
-Lagändringarna föreslås träda i kraft den 25 april 2024\.
+Lagändringarna föreslås träda i kraft den 25 april 2024.

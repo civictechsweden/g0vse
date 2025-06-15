@@ -1,7 +1,6 @@
 # Krafttag mot arbetslivskriminaliteten
 
-Jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg, debattartikel, Västerbottens\-Kuriren den 6 november 2023\.
-
+Jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg, debattartikel, Västerbottens-Kuriren den 6 november 2023.
 
 I Sverige ska företag sköta sig och följa de lagar och regler som gäller. Vi vet att arbetslivskriminaliteten har en stor omfattning och leder till många negativa konsekvenser. Arbetslivskriminaliteten leder till att konkurrensen snedvrids så att seriösa företagare konkurreras ut av oseriösa företag. Den är också en inkomstkälla för den grova organiserade brottsligheten. Dessutom utnyttjas arbetskraft på olika utstuderade sätt så att otryggheten i arbetslivet ökar.
 
@@ -23,4 +22,4 @@ En mycket efterfrågad förändring från myndigheterna som arbetar mot arbetsli
 
 Arbetet mot arbetslivskriminaliteten i Västerbotten och hela landet måste fortsätta med full kraft.
 
-Av: Paulina Brandberg (L), jämställdhets\- och biträdande arbetsmarknadsminister, Maria Lindvall (L), gruppledare Liberalerna Umeå, Christina Soldan (L), gruppledare Liberalerna Skellefteå
+Av: Paulina Brandberg (L), jämställdhets- och biträdande arbetsmarknadsminister, Maria Lindvall (L), gruppledare Liberalerna Umeå, Christina Soldan (L), gruppledare Liberalerna Skellefteå

@@ -8,6 +8,6 @@ I sak föreslås att kravet på dubbel straffbarhet för att en svensk domstol s
 
 När det gäller brottet köp av sexuell handling av barn föreslås att straffskalan ska skärpas. Detta ska ske dels genom att minimistraffet höjs från böter till fängelse, dels genom att maximistraffet höjs till fängelse i fyra år. Vidare föreslås att brottsbeteckningen ändras till utnyttjande av barn genom köp av sexuell handling.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2018\.
+Lagändringarna föreslås träda i kraft den 1 juli 2018.
 
 [Pressmeddelande: Sexköp utomlands ska kunna lagföras i Sverige oavsett var de har begåtts](/pressmeddelanden/2017/12/sexkop-utomlands-ska-kunna-lagforas-i-sverige-oavsett-var-de-har-begatts/)

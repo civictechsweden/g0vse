@@ -8,4 +8,4 @@ Hänvisningar till personuppgiftslagen försvinner och ersätts i vissa fall av
 
 Dessutom föreslår regeringen exempelvis att bestämmelser om rättelse och skadestånd tas bort eftersom sådant i stället kommer att regleras av dataskyddsförordningen och dataskyddslagen.
 
-Regeringen föreslår att lagändringarna träder i kraft den 25 maj 2018\.
+Regeringen föreslår att lagändringarna träder i kraft den 25 maj 2018.

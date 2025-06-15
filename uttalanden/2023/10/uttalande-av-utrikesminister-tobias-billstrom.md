@@ -2,7 +2,6 @@
 
 Uttalande av utrikesminister Tobias Billström angående säkerhetsläget i Israel och Palestina
 
-
 Morgonens utveckling i Israel och Gaza är djupt oroande.
 
 Jag har å den svenska regeringens vägnar tydligt fördömt terroristgruppen Hamas  attacker mot Israel.

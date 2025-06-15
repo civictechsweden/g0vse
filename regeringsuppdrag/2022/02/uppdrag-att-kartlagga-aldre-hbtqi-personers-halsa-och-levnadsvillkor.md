@@ -1,10 +1,9 @@
 # Uppdrag att kartlägga äldre hbtqi-personers hälsa och levnadsvillkor
 
-Regeringen uppdrar åt Folkhälsomyndigheten att kartlägga äldre hbtqi\-personers hälsa och levnadsvillkor i enlighet med vad som framgår under rubriken Närmare om uppdraget. Uppdraget utgår från regeringens handlingsplan för hbtqi\-personers lika rättigheter och möjligheter.
-
+Regeringen uppdrar åt Folkhälsomyndigheten att kartlägga äldre hbtqi-personers hälsa och levnadsvillkor i enlighet med vad som framgår under rubriken Närmare om uppdraget. Uppdraget utgår från regeringens handlingsplan för hbtqi-personers lika rättigheter och möjligheter.
 
 Uppdraget ska genomföras i nära samverkan med Socialstyrelsen som ska
-kartlägga äldre hbtqi\-personers vård och omsorg. Kunskap och erfarenheter
+kartlägga äldre hbtqi-personers vård och omsorg. Kunskap och erfarenheter
 bör även inhämtas från berörda myndigheter, kommuner, regioner, organisationer och lärosäten.
 
 Folkhälsomyndigheten ska lämna en delredovisning den 16 september 2022

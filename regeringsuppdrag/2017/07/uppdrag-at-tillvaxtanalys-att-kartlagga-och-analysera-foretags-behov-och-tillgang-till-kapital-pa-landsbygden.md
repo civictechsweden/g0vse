@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Myndigheten för tillväxtpolitiska utvärderingar och analyser (Tillväxtanalys) att analysera landsbygdsföretags nyttjande av offentliga kapitalförsörjningsinsatser.
 
-
 I analysen ingår att undersöka hur företagsstrukturen ser ut i landsbygder
 respektive urbana områden. Tillväxtanalys ska också kartlägga hur företag i Sveriges olika landsbygder nyttjat olika offentliga kapitalförsörjningsinsatser under de senaste 5 åren.
 

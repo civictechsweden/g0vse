@@ -7,4 +7,4 @@ Uppdraget utvidgas. Utredaren ska nu även
 
 Vidare ska en parlamentariskt sammansatt referensgrupp knytas till utredningen.
 
-Utredningstiden förlängs. Enligt de ursprungliga direktiven skulle utredaren redovisa sitt uppdrag senast den 30 november 2019\. Uppdraget ska i stället redovisas senast den 29 maj 2020\.
+Utredningstiden förlängs. Enligt de ursprungliga direktiven skulle utredaren redovisa sitt uppdrag senast den 30 november 2019. Uppdraget ska i stället redovisas senast den 29 maj 2020.

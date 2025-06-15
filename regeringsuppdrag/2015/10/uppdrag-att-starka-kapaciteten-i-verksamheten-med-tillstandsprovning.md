@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Inspektionen för vård och omsorg, IVO, att vidta åtgärder som stärker kapaciteten i myndighetens verksamhet med prövning av tillstånd rörande hem för vård eller boende, HVB, för barn och unga och för den kommande nya placeringsformen stödboenden.
 
-
 Antalet barn och unga som behöver placeras utanför det egna hemmet har sedan en tid ökat väsentligt. En starkt bidragande orsak är en kraftig ökning av antalet ensamkommande barn som ansöker om asyl i Sverige.
 
 Migrationsverket bedömer i sina prognoser att det kommer att ske en fortsatt kraftig ökning av antalet ensamkommande barn till Sverige.

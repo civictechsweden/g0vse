@@ -8,6 +8,6 @@ Regeringen föreslår också att röstningsrådgivares verksamhet ska regleras i
 
 Regeringen föreslår ändringar i reglerna om ersättning till ledande befattningshavare i noterade aktiebolag. Riktlinjerna för ersättning får ett mer detaljerat innehåll. Bolaget ska beskriva det gångna årets utbetalda och innestående ersättningar i en särskild rapport. Aktieägarna får ta ställning till rapporten på årsstämman. Regeringen föreslår också en ny beslutsordning för väsentliga transaktioner med närstående. Den innebär bl.a. att transaktionerna ska underställas bolagsstämman och att styrelsen dessförinnan ska lämna en särskild redogörelse.
 
-Ändringarna genomför ett EU\-direktiv. Syftet med direktivet är att skapa ett ökat engagemang hos aktieägarna och företagsledningarna och att motverka kortsiktiga risktaganden i noterade aktiebolag.
+Ändringarna genomför ett EU-direktiv. Syftet med direktivet är att skapa ett ökat engagemang hos aktieägarna och företagsledningarna och att motverka kortsiktiga risktaganden i noterade aktiebolag.
 
-Ändringarna föreslås träda i kraft den 10 juni 2019\.
+Ändringarna föreslås träda i kraft den 10 juni 2019.

@@ -6,7 +6,7 @@ Utredaren ska bl.a.
 
 * överväga om den s.k. tioårsregeln bör ersättas eller kompletteras med generella regler för beskattning av orealiserade kapitalvinster när en fysisk person flyttar ut och upphör att vara obegränsat skattskyldig eller får skatterättslig hemvist i ett annat land,
 * lämna förslag på ett system för en effektiv kapitalbeskattning vid
-utflyttning, och
+  utflyttning, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 15 februari 2024\.
+Uppdraget ska redovisas senast den 15 februari 2024.

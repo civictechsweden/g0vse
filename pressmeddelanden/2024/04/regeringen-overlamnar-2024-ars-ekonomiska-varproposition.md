@@ -26,14 +26,14 @@ Regeringen förstärker det generella klimatinvesteringsstödet Klimatklivet, vi
 
 ### Brottsbekämpning och ökad trygghet
 
-Regeringen föreslår fortsatta resursförstärkningar för att stärka brottsbekämpande myndigheter. Medel avsätts för att påskynda Kriminalvårdens planerade utbyggnad av häktes\- och fängelseplatser. Statens institutionsstyrelse får förstärkt stöd för att höja säkerheten och för att omhänderta det ökande antalet barn och unga som döms till sluten ungdomsvård. Sveriges Domstolar föreslås även få ett tillskott.
+Regeringen föreslår fortsatta resursförstärkningar för att stärka brottsbekämpande myndigheter. Medel avsätts för att påskynda Kriminalvårdens planerade utbyggnad av häktes- och fängelseplatser. Statens institutionsstyrelse får förstärkt stöd för att höja säkerheten och för att omhänderta det ökande antalet barn och unga som döms till sluten ungdomsvård. Sveriges Domstolar föreslås även få ett tillskott.
 
 Den kriminella ekonomin ska krossas. Därför föreslår regeringen utökade medel till Skatteverket, Tullverket och Kronofogdemyndigheten. Försäkringskassan får resurser för arbetet mot felaktiga utbetalningar och Inspektionen för vård och omsorg får medel för att förebygga och motverka välfärdsbrottslighet. Dessutom avsätts resurser för att utveckla informationsutbytet mellan myndigheter.
 
 ### Stärkt försvar och krisberedskap
 
-Regeringen fortsätter att stötta Ukraina och avsätter de medel som behövs för att finansiera de återstående delarna av stödpaketet som presenterades i den extra ändringsbudget som lämnades till riksdagen i februari 2024\.
+Regeringen fortsätter att stötta Ukraina och avsätter de medel som behövs för att finansiera de återstående delarna av stödpaketet som presenterades i den extra ändringsbudget som lämnades till riksdagen i februari 2024.
 
 Regeringen bedömer att Sveriges försvarsutgifter enligt Natos definition kommer att uppgå till 2 procent av BNP i år. För att stärka förmågan i befintliga krigsförband ytterligare föreslår regeringen ett tillskott av medel till Försvarsmakten. Regeringen föreslår också att medel tillförs för att kunna påbörja arbetet med vissa prioriterade åtgärder i transportinfrastrukturen utifrån totalförsvarets behov.
 
-För att värna cybersäkerheten föreslår regeringen ett tillskott till Försäkringskassan och stöd till mindre kommuner och andra offentliga aktörer för att de bättre ska kunna stå emot och hantera it\-incidenter.
+För att värna cybersäkerheten föreslår regeringen ett tillskott till Försäkringskassan och stöd till mindre kommuner och andra offentliga aktörer för att de bättre ska kunna stå emot och hantera it-incidenter.

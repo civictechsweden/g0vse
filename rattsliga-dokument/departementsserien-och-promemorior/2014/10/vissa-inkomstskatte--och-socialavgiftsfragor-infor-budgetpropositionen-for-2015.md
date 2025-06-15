@@ -1,6 +1,6 @@
 # Vissa inkomstskatte- och socialavgiftsfrågor inför budgetpropositionen för 2015
 
-Regeringen avser att i budgetpropositionen för 2015 föreslå vissa förändringar på inkomstskatte\- och socialavgiftsområdet. En promemoria med förslag har därför tagits fram inom Finansdepartementet.
+Regeringen avser att i budgetpropositionen för 2015 föreslå vissa förändringar på inkomstskatte- och socialavgiftsområdet. En promemoria med förslag har därför tagits fram inom Finansdepartementet.
 
 Följande förslag behandlas i denna promemoria.
 

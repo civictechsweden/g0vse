@@ -1,6 +1,6 @@
 # Fler arbetslösa ska flytta för att få jobb
 
-– Behovet av inflyttad personal är ofta stort vid företagsetableringar och företagsexpansioner, inte minst kopplat till den gröna omställningen av ekonomin. Därför behöver den geografiska och yrkesmässiga rörligheten öka. Vi har hög arbetslöshet i vissa delar av landet medan andra skriker efter arbetskraft, säger arbetsmarknads\- och integrationsminister Johan Pehrson.
+– Behovet av inflyttad personal är ofta stort vid företagsetableringar och företagsexpansioner, inte minst kopplat till den gröna omställningen av ekonomin. Därför behöver den geografiska och yrkesmässiga rörligheten öka. Vi har hög arbetslöshet i vissa delar av landet medan andra skriker efter arbetskraft, säger arbetsmarknads- och integrationsminister Johan Pehrson.
 
 Arbetsförmedlingen ska öka den geografiska och yrkesmässiga rörligheten bland arbetssökande. Det innebär att den som är arbetslös ska vara beredd att flytta inom landet eller byta yrke. De arbetssökande ska erbjudas stöd i form av bland annat platsförslag och platsanvisning.
 

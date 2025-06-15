@@ -9,8 +9,8 @@ Regeringen föreslår en helt ny lag om kollektiv förvaltning av upphovsrätt. 
 * att medlemmar, rättighetshavare och andra garanteras insyn i organisationernas verksamhet, och
 * att säkerställa att villkoren i de licensavtal som ingås mellan kollektiva förvaltningsorganisationer och användare är rimliga.
 
-Patent\- och registreringsverket föreslås ansvara för tillsynen över att bestämmelserna i lagen följs.
+Patent- och registreringsverket föreslås ansvara för tillsynen över att bestämmelserna i lagen följs.
 
-Bestämmelserna har sin bakgrund i ett EU\-direktiv. De föreslås träda i kraft den 1 januari 2017\.
+Bestämmelserna har sin bakgrund i ett EU-direktiv. De föreslås träda i kraft den 1 januari 2017.
 
 [Pressmeddelande: Ny lag om kollektiv förvaltning av upphovsrätt](/pressmeddelanden/2016/06/ny-lag-om-kollektiv-forvaltning-av-upphovsratt/)

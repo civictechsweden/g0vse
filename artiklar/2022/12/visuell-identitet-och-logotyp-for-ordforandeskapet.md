@@ -2,7 +2,6 @@
 
 Det svenska ordförandeskapets logotyp står för samhörighet och gemenskap. Den visuella identiteten är inspirerad av det svenska ljuset och dess skiftningar från januari till juni.
 
-
 ## Ordförandeskapets logotyp
 
 Ordförandeskapets logotyp står för samhörighet och gemenskap. Sweden, 2023 och EU i gemener bildar ordförandeskapets webbadress. Genom att lyfta olika delar av logotypens text framträder fler budskap:

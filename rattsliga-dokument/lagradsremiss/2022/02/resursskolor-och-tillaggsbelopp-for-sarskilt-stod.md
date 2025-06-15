@@ -1,6 +1,6 @@
 # Resursskolor och tilläggsbelopp för särskilt stöd
 
-I lagrådsremissen föreslås ändringar i skollagen (2010:800\) med syfte att utveckla och tydliggöra förutsättningarna för så kallade resursskolor, det vill säga skolor som begränsar sitt mottagande till elever i behov av särskilt stöd.
+I lagrådsremissen föreslås ändringar i skollagen (2010:800) med syfte att utveckla och tydliggöra förutsättningarna för så kallade resursskolor, det vill säga skolor som begränsar sitt mottagande till elever i behov av särskilt stöd.
 
 Sammanfattning av förslagen:
 
@@ -10,4 +10,4 @@ Benämningen resursskola föreslås införas i skollagen för ovan nämnda skolo
 
 Därutöver föreslås att bemyndigandet i skollagen för regeringen att meddela ytterligare föreskrifter om det tilläggsbelopp som kommunerna ska lämna till enskild verksamhet för barn och elever som har ett omfattande behov av särskilt stöd, ska förses med en möjlighet för regeringen att delegera denna uppgift till den myndighet som regeringen bestämmer. Syftet är att systemet med tilläggsbelopp ska bli mer likvärdigt och rättvist så att barn och elever får det stöd de behöver.
 
-Lagändringarna föreslås träda i kraft den 2 juli 2022\. De nya bestäm\-melserna om resursskolor föreslås tillämpas för utbildning som bedrivs efter den 1 juli 2023\.
+Lagändringarna föreslås träda i kraft den 2 juli 2022. De nya bestäm-melserna om resursskolor föreslås tillämpas för utbildning som bedrivs efter den 1 juli 2023.

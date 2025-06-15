@@ -8,6 +8,6 @@ Förslaget syftar till att asylsökande i fler fall än i dag ska välja att bo 
 
 Förslaget i lagrådsremissen bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.
 
-Lagändringen föreslås träda i kraft den 1 januari 2020\.
+Lagändringen föreslås träda i kraft den 1 januari 2020.
 
 [Pressmeddelande: Regeringen vill ändra reglerna om eget boende för asylsökande](/pressmeddelanden/2019/06/regeringen-vill-andra-reglerna-om-eget-boende-for-asylsokande/)

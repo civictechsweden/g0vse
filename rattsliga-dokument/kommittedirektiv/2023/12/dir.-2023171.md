@@ -9,4 +9,4 @@ Utredaren ska därför bland annat
 * analysera och ta ställning till om det bör införas ett undantag från allmänna handlingars offentlighet i tryckfrihetsförordningen för handlingar som tagits i beslag eller inhämtats genom andra straffprocessuella tvångsmedel som kan ge tillgång till information i stor omfattning, samt kopior av sådana handlingar, och
 * lämna förslag till nödvändiga författningsändringar.
 
-Till utredaren ska det knytas en referensgrupp med företrädare för samtliga politiska partier i riksdagen. Uppdraget ska redovisas senast den 29 november 2024\.
+Till utredaren ska det knytas en referensgrupp med företrädare för samtliga politiska partier i riksdagen. Uppdraget ska redovisas senast den 29 november 2024.

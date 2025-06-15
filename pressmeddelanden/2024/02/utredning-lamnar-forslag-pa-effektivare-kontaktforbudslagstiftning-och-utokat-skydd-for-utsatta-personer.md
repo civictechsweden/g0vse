@@ -10,7 +10,7 @@ Utredningen lämnar flera förslag som syftar till att kontaktförbudens brottsp
 
 Utredningen föreslår bland annat att
 
-* kontaktförbud ska kunna utfärdas vid otillbörlig övervakning – exempelvis genom GPS\-sändare eller appar – och som skydd för förhörspersoner i en rättsprocess,
+* kontaktförbud ska kunna utfärdas vid otillbörlig övervakning – exempelvis genom GPS-sändare eller appar – och som skydd för förhörspersoner i en rättsprocess,
 * fler omständigheter ska beaktas vid riskbedömningen för att öka möjligheterna att utfärda kontaktförbud även om förbudspersonen inte tidigare begått brott,
 * särskilt utvidgade kontaktförbud ska kunna utfärdas som en förstahandsåtgärd,
 * det ska vara möjligt att i större utsträckning än i dag utfärda kontakt­förbud som omfattar stora geografiska områden, till exempel en hel kommun,
@@ -20,4 +20,4 @@ Utredningen föreslår bland annat att
 
 Utredningen bedömer att förslagen kommer att leda till fler kontaktförbud och en ökad användning av elektronisk övervakning. Utredningen bedömer också att fler personer kommer att ges ett ändamålsenligt skydd samt att förslagen kommer att få positiva effekter för barns rättigheter.
 
-Utredningen föreslår att lagändringarna träder i kraft den 1 juli 2025\.
+Utredningen föreslår att lagändringarna träder i kraft den 1 juli 2025.

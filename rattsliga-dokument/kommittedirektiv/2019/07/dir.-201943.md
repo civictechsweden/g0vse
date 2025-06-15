@@ -20,6 +20,6 @@ Slutligen ska utredaren
 
 * överväga vilka förändringar i lagstiftningen avseende kontaktförbud som bör genomföras med anledning av två tillkännagivanden från riksdagen och lämna förslag på nödvändiga författningsändringar,
 * analysera och vid behov föreslå de ytterligare förändringar på detta område som är lämpliga med anledning av den utvärdering av Sverige som Europarådets expertgrupp Grevio genomfört i fråga om artiklarna 52 och 53 i Istanbulkonventionen, samt
-* analysera om det geografiska området vid särskilt utvidgat kontakt\-förbud bör utvidgas och vid behov föreslå förändringar i lagstiftningen.
+* analysera om det geografiska området vid särskilt utvidgat kontakt-förbud bör utvidgas och vid behov föreslå förändringar i lagstiftningen.
 
-Uppdraget ska redovisas senast den 30 september 2020\.
+Uppdraget ska redovisas senast den 30 september 2020.

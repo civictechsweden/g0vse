@@ -2,7 +2,7 @@
 
 ## H.E. Mr Soonthorn Chaiyindeepum, Thailand
 
-har tjänstgjort i utrikesministeriet sedan 1984\. Han är fil.dr. i ekonomi och har studerat ekonomi vid Kasetsart universitet och Thammasat universitet i Thailand samt vid Australian National University.
+har tjänstgjort i utrikesministeriet sedan 1984. Han är fil.dr. i ekonomi och har studerat ekonomi vid Kasetsart universitet och Thammasat universitet i Thailand samt vid Australian National University.
 
 Under de senaste åren har han innehaft bland annat följande befattningar:
 
@@ -10,9 +10,9 @@ Under de senaste åren har han innehaft bland annat följande befattningar:
 
 2012 – 2016 Minister vid Thailands ambassad, New Delhi
 
-2011 – 2012 Enhetschef vid Asien\- och Oceanienenheten, Thailands Utrikesministerium
+2011 – 2012 Enhetschef vid Asien- och Oceanienenheten, Thailands Utrikesministerium
 
-2007 – 2011 Gruppchef vid enheten för ASEAN\-länderna, Thailands Utrikesministerium
+2007 – 2011 Gruppchef vid enheten för ASEAN-länderna, Thailands Utrikesministerium
 
 2004 – 2007 Minister vid Thailands ambassad i Singapore
 
@@ -28,15 +28,15 @@ har en magisterexamen i ekonomi. Hon har tjänstgjort i utrikesdepartementet sed
 
 2009 – 2013 Bitr. enhetschef, Europaenheten, Utrikesdepartementet.
 
-2005 – 2009 Råd, EU\-sekretariatet, Premiärministerns kontor
+2005 – 2009 Råd, EU-sekretariatet, Premiärministerns kontor
 
 2000 – 2005 Antici, Finlands ständiga representation vid Europeiska unionen
 
-1996 – 2000 EU\-sekretariatet, Utrikesdepartementet
+1996 – 2000 EU-sekretariatet, Utrikesdepartementet
 
 ## H.E. Mr José Antonio Bellina Acevedo, Peru
 
-har en högskoleutbildning inom politik och internationella relationer. Han har tjänstgjort i utrikesdepartementet sedan 1977 och som ambassadör sedan 1999\. José Antonio Bellina Acevedo har de senaste åren innehaft bland annat följande befattningar:
+har en högskoleutbildning inom politik och internationella relationer. Han har tjänstgjort i utrikesdepartementet sedan 1977 och som ambassadör sedan 1999. José Antonio Bellina Acevedo har de senaste åren innehaft bland annat följande befattningar:
 
 2015 –        Enhetschef, Enheten för Asien och Oceanien, Utrikesdepartementet.
 
@@ -54,6 +54,6 @@ har en högskoleutbildning inom politik och internationella relationer. Han har 
 
 ## H.E. Mr Ricardo José Alvarado Noguera, Nicaragua (med sidoackreditering från Helsingfors)
 
-har i över trettio år tjänstgjort inom universitets\- och myndighetsvärlden samt arbetat med socialt arbete. Ambassadör Alvarado har tjänstgjort i utrikesministeriet sedan år 2000 och har varit Dean inom diplomatiska kåren i Danmark från 2007 till 2011\. Han har även varit Nicaraguas ambassadör i Irland och är för närvarande ambassadör i Finland, där han sedan 2017 är Dean för diplomatiska kåren.
+har i över trettio år tjänstgjort inom universitets- och myndighetsvärlden samt arbetat med socialt arbete. Ambassadör Alvarado har tjänstgjort i utrikesministeriet sedan år 2000 och har varit Dean inom diplomatiska kåren i Danmark från 2007 till 2011. Han har även varit Nicaraguas ambassadör i Irland och är för närvarande ambassadör i Finland, där han sedan 2017 är Dean för diplomatiska kåren.
 
-Ambassadör Alvarado fick sin ingenjörsexamen 1987 i Nicaragua med högsta betyg. Han var en Fulbright\-stipendiat i USA mellan 1988\-1992 och har en civilingenjörsexamen samt är filosofie doktor i fysisk kemi.
+Ambassadör Alvarado fick sin ingenjörsexamen 1987 i Nicaragua med högsta betyg. Han var en Fulbright-stipendiat i USA mellan 1988-1992 och har en civilingenjörsexamen samt är filosofie doktor i fysisk kemi.

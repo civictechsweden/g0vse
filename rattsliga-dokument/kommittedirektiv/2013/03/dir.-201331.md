@@ -9,4 +9,4 @@ Utredaren ska bland annat:
 * vid behov föreslå åtgärder som kan förhindra oegentligheter och överutnyttjande och som kan förbättra myndigheternas beslutsunderlag, och
 * lämna de författningsförslag som behövs.
 
-Uppdraget ska redovisas senast den 31 mars 2014\.
+Uppdraget ska redovisas senast den 31 mars 2014.

@@ -7,4 +7,4 @@ Delegationen ska bl.a.
 * verka samlande och stödjande för att motverka arbetslivskriminalitet, och
 * förstärka kunskapen om arbetslivskriminaliteten i Sverige och sprida kunskap om internationella erfarenheter.
 
-Uppdraget ska delredovisas senast den 17 juni 2022, senast den 24 februari 2023 och senast den 23 februari 2024, och slutredovisas senast den 28 februari 2025\.
+Uppdraget ska delredovisas senast den 17 juni 2022, senast den 24 februari 2023 och senast den 23 februari 2024, och slutredovisas senast den 28 februari 2025.

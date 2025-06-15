@@ -2,4 +2,4 @@
 
 En särskild utredare ska analysera de konsekvenser som uppkommer om EU:s regelverk om inre vattenvägar genomförs i svensk rätt samt föreslå författningsändringar för ett sådant genomförande.
 
-Uppdraget ska redovisas senast den 29 november 2010\.
+Uppdraget ska redovisas senast den 29 november 2010.

@@ -1,7 +1,6 @@
 # Uppdrag till Statskontoret att utföra en myndighetsanalys av Forum för levande historia
 
-Regeringen uppdrar åt Statskontoret att utföra en myndighetsanalys av Forum för levande historia (FLH) enligt den modell som Statskontoret redovisade till regeringen i december 2008 i rapporten Modell för myndighetsanalyser (2008:17\). Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 2 juni 2017\.
-
+Regeringen uppdrar åt Statskontoret att utföra en myndighetsanalys av Forum för levande historia (FLH) enligt den modell som Statskontoret redovisade till regeringen i december 2008 i rapporten Modell för myndighetsanalyser (2008:17). Uppdraget ska redovisas till Regeringskansliet (Kulturdepartementet) senast den 2 juni 2017.
 
 Statskontoret ska
 

@@ -8,4 +8,4 @@ I lagrådsremissen föreslår regeringen att en ny bestämmelse införs i lagen 
 
 Syftet bakom förslaget är att ARN:s resurser ska användas mer effektivt och att korta handläggningstiderna hos ARN. Genom att införa en avgift kan det antas att bara de konsumenter som avser att fullfölja anmälan vänder sig till ARN. På så sätt läggs resurserna för handläggning på de ärenden som i slutändan också kommer att prövas i sak.
 
-Lagändringen föreslås träda i kraft den 1 juli 2024\.
+Lagändringen föreslås träda i kraft den 1 juli 2024.

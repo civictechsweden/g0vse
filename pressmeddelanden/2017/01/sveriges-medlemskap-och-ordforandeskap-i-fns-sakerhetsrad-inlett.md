@@ -4,6 +4,6 @@ Den 10 januari bjuder Sverige in till en öppen debatt på ministernivå i säke
 
 Säkerhetsrådet kommer under Sveriges ordförandeskap i januari bland annat att diskutera Mali, Syrien, fredsprocessen i Mellanöstern, Somalia, Demokratiska Republiken Kongo, Cypern och Colombia.
 
-Länk: [Program för Sveriges medlemskap i FN:s säkerhetsråd 2017\-2018](/pressmeddelanden/2016/12/program-for-sveriges-medlemskap-i-fns-sakerhetsrad-2017-2018/)
+Länk: [Program för Sveriges medlemskap i FN:s säkerhetsråd 2017-2018](/pressmeddelanden/2016/12/program-for-sveriges-medlemskap-i-fns-sakerhetsrad-2017-2018/)
 
 Länk: [Debattartikel: Sverige tar plats i FN:s säkerhetsråd](/debattartiklar/2017/01/sverige-tar-plats-i-fns-sakerhetsrad/)

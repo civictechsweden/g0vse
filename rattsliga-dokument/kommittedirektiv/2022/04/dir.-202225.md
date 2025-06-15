@@ -8,10 +8,10 @@ Utredaren ska samtidigt överväga om lagen om underrättelseskyldighet vid fela
 Utredaren ska bl.a.
 
 * kartlägga och analysera statliga stöd till företag och andra juridiska
-personer, identifiera vilka stöd som har behov av ett särskilt
-straffrättsligt skydd i förhållande till vad som gäller i dag samt föreslå hur ett sådant straffrättsligt skydd bör utformas,
+  personer, identifiera vilka stöd som har behov av ett särskilt
+  straffrättsligt skydd i förhållande till vad som gäller i dag samt föreslå hur ett sådant straffrättsligt skydd bör utformas,
 * utreda om underrättelseskyldigheten vid felaktiga utbetalningar från
-välfärdssystemen bör utökas, och t.ex. omfatta felaktiga utbetalningar av statliga stöd till företag och andra juridiska personer, och i så fall föreslå hur en sådan underrättelseskyldighet bör utformas på ett sätt som säkerställer skyddet för den personliga integriteten, och
+  välfärdssystemen bör utökas, och t.ex. omfatta felaktiga utbetalningar av statliga stöd till företag och andra juridiska personer, och i så fall föreslå hur en sådan underrättelseskyldighet bör utformas på ett sätt som säkerställer skyddet för den personliga integriteten, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 1 april 2024\.
+Uppdraget ska redovisas senast den 1 april 2024.

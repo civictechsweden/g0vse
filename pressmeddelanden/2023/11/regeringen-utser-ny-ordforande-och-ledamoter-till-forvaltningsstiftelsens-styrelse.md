@@ -12,7 +12,7 @@ Mediakonsulten Mats Örbrink, nominerad av KD
 
 Leg. psykologen Birgit Hansson, nominerad av V
 
-Public affairs\-konsulten Mattias Keresztesi, nominerad av M
+Public affairs-konsulten Mattias Keresztesi, nominerad av M
 
 F.d. riksdagsledamoten Jonas Gunnarsson, nominerad av S
 

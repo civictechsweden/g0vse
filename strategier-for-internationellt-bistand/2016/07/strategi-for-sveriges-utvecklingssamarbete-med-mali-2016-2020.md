@@ -2,10 +2,8 @@
 
 ![](/contentassets/58a72e4ecc574848a56c646ae334c5e9/strategi-for-sveriges-utvecklingssamarbete-med-mali.jpg?width=150&quality=85)
 
-
 Svenskt utvecklingssamarbete med Mali inom ramen för denna strategi ska bidra till ett stärkt samhällskontrakt och minskad sårbarhet för återfall i konflikt. Sverige ska vidare bidra till ett mer hållbart nyttjande av naturresurser och stärkt motståndskraft mot klimatförändringar.
-Strategin ska gälla under perioden 2016–2020\.
-
+Strategin ska gälla under perioden 2016–2020.
 
 Strategin omfattar sammantaget 1200 miljoner svenska kronor för perioden varav 1180 miljoner kronor avser Sidas verksamhet och 20 miljoner kronor avser Folke Bernadotteakademins verksamhet.
 
@@ -23,9 +21,9 @@ Stärkt demokrati och jämställdhet samt ökad respekt för mänskliga rättigh
 
 Mänsklig säkerhet och frihet från våld
 
-• Stärkta freds\- och försoningsmekanismer på nationell och lokal nivå
+• Stärkta freds- och försoningsmekanismer på nationell och lokal nivå
 
-• Stärkt inflytande och deltagande för kvinnor i fredsprocesser och i freds\- och statsbyggande
+• Stärkt inflytande och deltagande för kvinnor i fredsprocesser och i freds- och statsbyggande
 
 Förbättrad miljö, begränsad klimatpåverkan och stärkt motståndskraft mot miljöpåverkan, klimatförändringar och naturkatastrofer
 
@@ -39,4 +37,4 @@ Förbättrad miljö, begränsad klimatpåverkan och stärkt motståndskraft mot 
 
 • Stärkt kapacitet hos individer och institutioner att främjasäkerhet och mänskliga rättigheter
 
-Artikelnr: UD 16\.032
+Artikelnr: UD 16.032

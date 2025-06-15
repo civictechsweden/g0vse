@@ -6,6 +6,6 @@ Det är viktigt att statistik om fristående skolor kan fortsätta att publicera
 
 Regeringen vill också öka insynen i ekonomin både i kommunala och i enskilda skolor. Därför föreslår regeringen att medel avsätts för att göra det möjligt att ta om hand Skolkostnadsutredningens förslag om att Skolverket även ska samla in och publicera ekonomisk information på skolenhetsnivå. I dag saknas den informationen, vilket bland annat försvårar beslutsfattares och medborgares insyn i skolväsendet.
 
-För att göra det möjligt att ta om hand utredningarnas förslag föreslår regeringen att 56,5 miljoner avsätts i budgetpropositionen för 2024\. För 2025 beräknas 80,5 miljoner kronor och för 2026 62,5 miljoner kronor. Permanent beräknas förslaget uppgå till 58 miljoner kronor. Medlen avser förstärkningar till Skolverket, Skolinspektionen, SCB, samt till kommunerna för att finansiera deras ökade kostnader.
+För att göra det möjligt att ta om hand utredningarnas förslag föreslår regeringen att 56,5 miljoner avsätts i budgetpropositionen för 2024. För 2025 beräknas 80,5 miljoner kronor och för 2026 62,5 miljoner kronor. Permanent beräknas förslaget uppgå till 58 miljoner kronor. Medlen avser förstärkningar till Skolverket, Skolinspektionen, SCB, samt till kommunerna för att finansiera deras ökade kostnader.
 
-Regeringen avser att överlämna detta förslag till riksdagen i budgetpropositionen för 2024\. Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
+Regeringen avser att överlämna detta förslag till riksdagen i budgetpropositionen för 2024. Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

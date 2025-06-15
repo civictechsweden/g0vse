@@ -6,4 +6,4 @@ Enligt förslaget måste talan om personligt betalningsansvar väckas inom tre �
 
 Syftet med förslaget är att underlätta för företagare vars aktiebolag har gått i konkurs eller likvidation att återgå till att driva näringsverksamhet. På det sättet främjas entreprenörsanda och vilja att starta nya företag.
 
-Lagändringen föreslås träda i kraft den 1 maj 2013\.
+Lagändringen föreslås träda i kraft den 1 maj 2013.

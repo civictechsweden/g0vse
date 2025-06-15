@@ -13,4 +13,4 @@ I betänkandet föreslår utredningen ytterligare åtgärder, bland annat:
 * utökade möjligheter till förtida förstöring av omhänder­tagen egendom, samt
 * att Tullverket i vissa fall ska få använda förverkad egendom för bland annat utbildning av sökhundar och personal.
 
-Förslagen kommer i ett nästa steg att skickas på remiss och föreslås träda i kraft den 1 juli 2025\.
+Förslagen kommer i ett nästa steg att skickas på remiss och föreslås träda i kraft den 1 juli 2025.

@@ -10,4 +10,4 @@ Den straffrättsliga preskriptionslagstiftningen är närmare hundra år gammal.
 * att preskriptionstiden vid grov fridskränkning och hedersförtryck mot ett barn ska räknas från den dag målsäganden fyller eller skulle ha fyllt 18 år, och
 * att utdömda fängelsestraff inte ska preskriberas.
 
-Lagändringarna föreslås träda i kraft den 1 april 2025\. Merparten av lagändringarna föreslås gälla även för brott som har begåtts före ikraftträdandet men som vid lagens ikraftträdande ännu inte preskriberats.
+Lagändringarna föreslås träda i kraft den 1 april 2025. Merparten av lagändringarna föreslås gälla även för brott som har begåtts före ikraftträdandet men som vid lagens ikraftträdande ännu inte preskriberats.

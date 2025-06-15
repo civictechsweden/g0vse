@@ -6,4 +6,4 @@ Statskontoret ska även analysera om medverkan av medarbetare från relevanta ve
 
 Utifrån de analyser som görs ska Statskontoret, för det fall det är relevant, lämna rekommendationer om hur statliga myndigheter kan arbeta strukturerat med att involvera medarbetare från kommunal verksamhet vid framtagandet av sådant material.
 
-Uppdraget ska redovisas till regeringen (Finansdepartementet) senast den  2 maj 2018\.
+Uppdraget ska redovisas till regeringen (Finansdepartementet) senast den  2 maj 2018.

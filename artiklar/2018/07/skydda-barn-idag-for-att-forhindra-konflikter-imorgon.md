@@ -1,13 +1,12 @@
 # Skydda barn idag för att förhindra konflikter imorgon
 
-En viktig del av svensk utrikes\-och biståndspolitik är att barn ska få sina rättigheter och behov tillgodosedda. Sverige leder just nu den arbetsgrupp i FN:s säkerhetsråd som strävar efter att skydda barn som drabbas av konflikt och deras rättigheter.
-
+En viktig del av svensk utrikes-och biståndspolitik är att barn ska få sina rättigheter och behov tillgodosedda. Sverige leder just nu den arbetsgrupp i FN:s säkerhetsråd som strävar efter att skydda barn som drabbas av konflikt och deras rättigheter.
 
 Krig och väpnade konflikter för med sig förödande konsekvenser för både individer och hela samhällen. Och de som är mest skyddslösa är barn. Över 350 miljoner barn runt om i världen är idag påverkade av väpnad konflikt. 125 miljoner barn är direkt drabbade.
 
 Med utgångspunkt i barnkonventionen och internationell humanitär rätt, leder Sverige arbetet i säkerhetsrådets arbetsgrupp för barn och väpnad konflikt. Sverige har i egenskap av ordförande också konsekvent tagit upp barns utsatta situation vid diskussioner och förhandlingar i säkerhetsrådet. Arbetet sker utifrån fyra prioriteringar:
 
-• Genomförande av FN:s barn och väpnad konflikt\-agenda med mål att skydda barn från väpnade konflikter och ställa förövare till svars.
+• Genomförande av FN:s barn och väpnad konflikt-agenda med mål att skydda barn från väpnade konflikter och ställa förövare till svars.
 • Barns möjligheter att göra sin röst hörd.
 • Barns rätt till utbildning.
 • Barns rätt till hälsa, inklusive psykisk hälsa.

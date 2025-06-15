@@ -13,4 +13,4 @@ Mot bakgrund av resultatet av utvärderingen ska utredaren ta ställning till om
 
 Utredaren ska också utreda och redovisa sin bedömning av om straffansvaret för egenmäktighet med barn är lämpligt utformat vid gemensam vårdnad. Om utredaren finner att straffansvaret bör ändras ska han eller hon lämna författningsförslag.
 
-Uppdraget ska redovisas senast den 31 maj 2011\.
+Uppdraget ska redovisas senast den 31 maj 2011.

@@ -12,4 +12,4 @@ Utredningens uppdrag har därför varit att analysera förutsättningarna för, 
 
 Utredningen föreslår att Konkurrensverket som första instans ska kunna fatta beslut i ärenden som gäller sanktioner mot otillåtna samarbeten, missbruk av dominerande ställning samt förbud mot eller ålägganden i fråga om företagskoncentrationer. Utredningen föreslår att Konkurrensverket fortsätter att vara en enrådighetsmyndighet. Den interna organisationen bör vara en fråga för verket.
 
-Utredningen föreslår att författningsändringarna ska träda i kraft den 1 januari 2018\.
+Utredningen föreslår att författningsändringarna ska träda i kraft den 1 januari 2018.

@@ -12,7 +12,7 @@ Ett mer detaljerat program kommer att publiceras i anslutning till besöket.
 
 ## Till redaktionen
 
-Medierepresentanter behöver särskild ackreditering via UD för att bevaka statsbesöket. Sista dag att ansöka om ackreditering är torsdagen den 12 maj 2022\.
+Medierepresentanter behöver särskild ackreditering via UD för att bevaka statsbesöket. Sista dag att ansöka om ackreditering är torsdagen den 12 maj 2022.
 [Ansökan om ackreditering](/ackrediteringar/2022/09/medieackreditering/ "Länk till ackrediteringsformuläret")
 
 Finsk media ackrediterar sig via

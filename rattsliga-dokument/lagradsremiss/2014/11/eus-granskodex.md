@@ -6,4 +6,4 @@ Europaparlamentets och rådets förordning (EG) nr 562/2006 om en gemenskapskode
 
 Lagrådsremissen innehåller också förslag på några andra ändringar av utlänningslagen. Dessa ändringar rör bland annat bestämmelserna om så kallad uppskjuten invandringsprövning vid beviljande av uppehållstillstånd på grund av anknytning.
 
-Lagförslagen föreslås träda i kraft den 15 april 2015\.
+Lagförslagen föreslås träda i kraft den 15 april 2015.

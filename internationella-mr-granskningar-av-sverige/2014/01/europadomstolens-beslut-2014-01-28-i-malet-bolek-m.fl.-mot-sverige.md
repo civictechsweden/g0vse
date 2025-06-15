@@ -2,7 +2,6 @@
 
 Europadomstolen har fattat ett beslut avseende ett klagomål om Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till beslutet i fulltext samt en sammanfattning av beslutet.
 
-
 ## Sammanfattning av beslutet
 
 Klagandena var en familj från Kongo (två vuxna och deras två barn) som hade ansökt om uppehållstillstånd i Sverige. Kvinnan och barnen hade beviljats uppehållstillstånd medan mannen skulle tvingas återvända till Kongo för att därifrån göra en ansökan om uppehållstillstånd i Sverige.

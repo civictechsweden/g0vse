@@ -8,4 +8,4 @@ Brottsoffermyndigheten fick tidigt i uppdrag att kartlägga samhällets samlade 
 
 Uppdraget är en del i den omläggning av kriminalpolitiken som regeringen genomför och som innebär ett perspektivskifte från gärningsman till brottsoffer och samhällsskydd.
 
-Uppdraget ska slutredovisas senast den 10 juni 2024\.
+Uppdraget ska slutredovisas senast den 10 juni 2024.

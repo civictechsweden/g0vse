@@ -6,4 +6,4 @@ I promemorian föreslås ändringar som ska stimulera privatpersoner att i stör
 
 I sammanhanget föreslås även att så kallade presumtionshyror för nyproducerade lägenheter ska gälla femton i stället för tio år.
 
-Den nya lagen och lagändringarna föreslås träda i kraft den 1 januari 2013\.
+Den nya lagen och lagändringarna föreslås träda i kraft den 1 januari 2013.

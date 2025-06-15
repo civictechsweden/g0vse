@@ -8,4 +8,4 @@ Det föreslås också att det ska anges i lag att Finansinspektionens beslut om 
 
 Det föreslås slutligen att Finansinspektionens beslut om ersättningsrättens inträde ska gälla omedelbart.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2020\.
+Lagändringarna föreslås träda i kraft den 1 januari 2020.

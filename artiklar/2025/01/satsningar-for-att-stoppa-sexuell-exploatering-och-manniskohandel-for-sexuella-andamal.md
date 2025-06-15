@@ -42,7 +42,7 @@ Både dessa uppdrag bygger på förslag från Utredningen om skydd, stöd och v�
 
 Jämställdhetsmyndigheten får i uppdrag att inom ramen för sitt nationella samordningsansvar mot människohandel, fortsätta arbetet mot sexuell exploatering av barn, utnyttjande i prostitution och människohandel.
 
-I syfte att ge stöd och skydd till utsatta ska Jämställdhetsmyndigheten inom ramen för uppdraget fördela medel i den omfattning som myndigheten finner lämplig för ett ändamålsenligt genomförande till det nationella stödprogrammet som drivs av Plattformen Civila Sverige mot människohandel, samt det frivilliga återvändandeprogrammet för offer för människohandel som genomförs av International Organization for Migration (IOM). För uppdraget får myndigheten 4 000 0000 miljoner kronor.
+I syfte att ge stöd och skydd till utsatta ska Jämställdhetsmyndigheten inom ramen för uppdraget fördela medel i den omfattning som myndigheten finner lämplig för ett ändamålsenligt genomförande till det nationella stödprogrammet som drivs av Plattformen Civila Sverige mot människohandel, samt det frivilliga återvändandeprogrammet för offer för människohandel som genomförs av International Organization for Migration (IOM). För uppdraget får myndigheten 4 000 000 kronor.
 
 ### Stärkt arbete mot människohandel i Östersjöregionen
 

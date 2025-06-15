@@ -1,7 +1,6 @@
 # Strategi för fred, säkerhet och stabilisering 2024-2028
 
-Strategin för fred, säkerhet och stabilisering är en del av styrningen av Sveriges samlade bistånds\-, utrikes\- och säkerhetspolitik. Strategin ska bidra till konflikthantering och konfliktförebyggande i syfte att stärka förutsättningarna för utveckling och minska humanitära behov.
-
+Strategin för fred, säkerhet och stabilisering är en del av styrningen av Sveriges samlade bistånds-, utrikes- och säkerhetspolitik. Strategin ska bidra till konflikthantering och konfliktförebyggande i syfte att stärka förutsättningarna för utveckling och minska humanitära behov.
 
 Strategin ska komplettera och förstärka andra delar av biståndet i konfliktländer och områden med hög konfliktrisk.
 

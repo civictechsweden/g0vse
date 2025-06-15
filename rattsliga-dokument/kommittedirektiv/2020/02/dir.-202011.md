@@ -14,4 +14,4 @@ Kommittén ska bl.a. bedöma om
 
 Kommittén ska lämna de förslag till grundlagsändringar och andra författningsändringar som kommittén bedömer är motiverade.
 
-Uppdraget att utreda begränsningar i föreningsfriheten ska redovisas senast den 15 mars 2021\. Om kommittén bedömer att det är lämpligt, får den samtidigt redovisa även andra delar av sitt uppdrag. Uppdraget ska i övriga delar redovisas senast den 15 februari 2023\.
+Uppdraget att utreda begränsningar i föreningsfriheten ska redovisas senast den 15 mars 2021. Om kommittén bedömer att det är lämpligt, får den samtidigt redovisa även andra delar av sitt uppdrag. Uppdraget ska i övriga delar redovisas senast den 15 februari 2023.

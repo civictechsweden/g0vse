@@ -2,10 +2,9 @@
 
 Regeringen ger Kriminalvården i uppdrag att, tillsammans med Åklagarmyndigheten och Statens institutionsstyrelse, analysera hur situationen för barn som frihetsberövas kan förbättras inom ramen för Kriminalvårdens verksamhet, samt utifrån denna analys lämna förslag på åtgärder. Vid behov ska även författningsförslag lämnas.
 
-
 I uppdraget ingår att bedöma ekonomiska och övriga konsekvenser av förslagen.
 
-En gemensam redovisning av uppdraget ska lämnas till Regeringskansliet (Justitiedepartementet) senast den 31 augusti 2018\. Kriminalvården ska leda och administrera uppdraget.
+En gemensam redovisning av uppdraget ska lämnas till Regeringskansliet (Justitiedepartementet) senast den 31 augusti 2018. Kriminalvården ska leda och administrera uppdraget.
 
 Arbetet ska utföras i nära dialog med Barnombudsmannen, Polismyndigheten och Socialstyrelsen samt andra relevanta aktörer inom området.
 

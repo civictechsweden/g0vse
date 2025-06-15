@@ -1,9 +1,8 @@
 # Statsminister Ulf Kristerssons tal på Hertie School
 
-Tal av statsminister Ulf Kristersson på Hertie School i Berlin den 15 mars 2023\.
+Tal av statsminister Ulf Kristersson på Hertie School i Berlin den 15 mars 2023.
 
 Det talade ordet gäller.
-
 
 Tack så mycket, och tack för att ni tar emot mig här i dag. Det är verkligen ett privilegium att få den här möjligheten. För några veckor sedan träffade jag studenter som er på Kyiv School of Economics.
 
@@ -19,15 +18,15 @@ Freden som krävt sådan möda befinner sig nu under attack. Rysslands brutala o
 
 Och om vi vill att de europeiska värdena – respekt för folkrätten, demokrati, suveränitet och människans värdighet – ska segra måste vi hjälpa Ukraina att vinna detta existentiella krig. Tyskland och Sverige kan spela en avgörande roll i den kampen.
 
-Och det gör vi – varje dag i EU, och genom våra egna särskilda initiativ. För bara några veckor sedan enades våra två länder om samverkan när det gäller att ge Ukraina ytterligare avancerad luftförsvarsförmåga. Och vi samarbetar tätt för att stödja Ukraina med Leopard 2\-stridsvagnar. Jag vill tacka Olaf Scholz för hans ledarskap i den här frågan.
+Och det gör vi – varje dag i EU, och genom våra egna särskilda initiativ. För bara några veckor sedan enades våra två länder om samverkan när det gäller att ge Ukraina ytterligare avancerad luftförsvarsförmåga. Och vi samarbetar tätt för att stödja Ukraina med Leopard 2-stridsvagnar. Jag vill tacka Olaf Scholz för hans ledarskap i den här frågan.
 
 \*\*\*
 
-Både Tyskland och Sverige är ingenjörsnationer. Under 1900\-talet gjorde Sverige en resa från fattigdom på landet till industri och välfärd i toppklass.
+Både Tyskland och Sverige är ingenjörsnationer. Under 1900-talet gjorde Sverige en resa från fattigdom på landet till industri och välfärd i toppklass.
 
 I slutet av det föregående seklet var Sverige ett av de fattigaste länderna i Europa. Så fattigt att vi 1867 rentav fick humanitärt bistånd från Storbritannien för att hålla svälten borta.
 
-Ett århundrade senare hade Sverige –liksom Västtyskland – blivit ett av de modernaste industriländerna i Europa. En Volvo Amazon blev – liksom en Volkswagen\-bubbla – en symbol för europeisk kreativitet och teknisk spetskompetens.
+Ett århundrade senare hade Sverige –liksom Västtyskland – blivit ett av de modernaste industriländerna i Europa. En Volvo Amazon blev – liksom en Volkswagen-bubbla – en symbol för europeisk kreativitet och teknisk spetskompetens.
 
 Kort sagt byggdes det moderna Europa av ingenjörer. Av människor som hade en långsiktig vision och resurserna för att uppnå den. Inte bara i yrkesmässigt utan även politiskt avseende. För det moderna Europa byggdes på principerna om fri konkurrens, gemensamma spelregler och likvärdiga förutsättningar.
 
@@ -35,7 +34,7 @@ Det står dock i skarp kontrast till utvecklingen under de senaste femton åren.
 
 Världsläget har varit starkt präglat av kriser. EU, dess medlemsstater och resten av världen har varit tvungna att fokusera på akuta ingripanden. På det hela taget har vi varit framgångsrika här i Europa.
 
-Först kom eurokrisen som hotade att stjälpa den gemensamma valutan och tvinga medlemsstater i Sydeuropa att ställa in betalningarna. Därefter kom migrationskrisen, som blev tung för både Tyskland och Sverige. Covid\-19\-pandemin var en annan svår kris som vi lyckades ta oss igenom tillsammans, som européer. Men just som den nästan var över bestämde sig Ryssland för att skapa en säkerhetskris av historiska mått.
+Först kom eurokrisen som hotade att stjälpa den gemensamma valutan och tvinga medlemsstater i Sydeuropa att ställa in betalningarna. Därefter kom migrationskrisen, som blev tung för både Tyskland och Sverige. Covid-19-pandemin var en annan svår kris som vi lyckades ta oss igenom tillsammans, som européer. Men just som den nästan var över bestämde sig Ryssland för att skapa en säkerhetskris av historiska mått.
 
 Vi i EU har inte tvingats utstå samma omedelbara och tragiska konsekvenser av invasionen som våra ukrainska vänner. Icke desto mindre är det här även vår kris. Kriget har tvingat oss att hantera en rad olika följdverkningar, inte minst energipriser som skjuter i höjden och allmän inflation.
 
@@ -61,7 +60,7 @@ Målet bör vara tydligt: att fortsätta att ge starkt stöd till kandidatlände
 
 Samtidigt som vi måste börja skapa förutsättningar för ytterligare utvidgning måste vi även skapa förutsättningar för en grönare och konkurrenskraftigare europeisk ekonomi. Och vi måste komma ihåg att europeiskt oberoende inte kan existera utan europeisk konkurrenskraft.
 
-Det är oroväckande att vi för närvarande inte erkänner det för oss själva. EU släpar efter partnerländer – inte minst USA och i Asien – när det gäller konkurrenskraft och produktivitet. Mellan 2014 och 2019 växte europeiska företag i genomsnitt 40 procent långsammare än amerikanska företag och investerade 40 procent mindre i forskning och utveckling. På tio år minskade andelen europeiska företag på Fortune 500\-listan från 32 procent till 23 procent. Utvecklingen går åt fel håll.
+Det är oroväckande att vi för närvarande inte erkänner det för oss själva. EU släpar efter partnerländer – inte minst USA och i Asien – när det gäller konkurrenskraft och produktivitet. Mellan 2014 och 2019 växte europeiska företag i genomsnitt 40 procent långsammare än amerikanska företag och investerade 40 procent mindre i forskning och utveckling. På tio år minskade andelen europeiska företag på Fortune 500-listan från 32 procent till 23 procent. Utvecklingen går åt fel håll.
 
 Vi behöver inte bara reaktiva åtgärder, utan även en långsiktig vision. Vad krävs för att Europa ska få tillbaka sin ledande ställning? Hur kan vi stärka vår ekonomiska bas?
 
@@ -83,7 +82,7 @@ Vi ägnar mycket tid åt att diskutera hur Kinas roll i världen förändras –
 
 I alla aspekter av samarbetet – från försvaret till klimatet, miljön, ekonomin och handeln – är den transatlantiska länken en grundpelare för EU:s intressen. Och att bygga vidare på bron över Atlanten är kanske vår viktigaste geopolitiska uppgift för att slå vakt om grundläggande europeiska och västerländska värden.
 
-Fallet med Ukraina visar än en gång på värdet av detta ömsesidigt förstärkande samarbete. Vårt ovärderliga samarbete när det gäller Rysslands krig i Ukraina bör påminna oss om att diskussionen om den amerikanska IRA\-lagen mot inflation är en som förs vänner emellan och där vi söker efter de bästa möjliga lösningarna. Vi låter ingen köra med oss, men vi vet vilka våra vänner är. Därför får vi inte ge upp tanken om bättre framtida handelsförbindelser, och vi bör bygga vidare på handels\- och teknikrådet mellan EU och USA.
+Fallet med Ukraina visar än en gång på värdet av detta ömsesidigt förstärkande samarbete. Vårt ovärderliga samarbete när det gäller Rysslands krig i Ukraina bör påminna oss om att diskussionen om den amerikanska IRA-lagen mot inflation är en som förs vänner emellan och där vi söker efter de bästa möjliga lösningarna. Vi låter ingen köra med oss, men vi vet vilka våra vänner är. Därför får vi inte ge upp tanken om bättre framtida handelsförbindelser, och vi bör bygga vidare på handels- och teknikrådet mellan EU och USA.
 
 En stark demokratisk allians mellan EU och dess transatlantiska partner är väsentligt för den regelbaserade världsordningen. Och Europa och Amerika är den västerländska civilisationens två brofästen.
 
@@ -93,7 +92,7 @@ I år firar Sverige 500 år som självständig stat. År 1522, ett år innan G
 
 Det ger oss även lite perspektiv när det gäller Europabygget och EU:s framtidsutsikter. Det europeiska projektet är en ganska ny skapelse med tanke på de europeiska nationernas långa historia, och framför oss har vi en ofantlig tidsrymd. Vilka medgångar och motgångar väntar oss under de kommande århundrandena?
 
-Det är lika svårt att förutspå i dag som det var för berlinarna under 1980\-talet att förutse Berlinmurens fall. Och som det var 1963 för de människor som lyssnade på president John F. Kennedy när han yttrade de berömda orden och sa att han också var berlinare.
+Det är lika svårt att förutspå i dag som det var för berlinarna under 1980-talet att förutse Berlinmurens fall. Och som det var 1963 för de människor som lyssnade på president John F. Kennedy när han yttrade de berömda orden och sa att han också var berlinare.
 
 Vi kan inte förutspå framtiden. Därför har vi alla ett ansvar att agera som ingenjörer och bygga ett starkare Europa i dag. För att bygga ett grönare, säkrare och friare Europa. För att hjälpa framtida generationer att möta de utmaningar som vi ännu inte kan förutse.
 

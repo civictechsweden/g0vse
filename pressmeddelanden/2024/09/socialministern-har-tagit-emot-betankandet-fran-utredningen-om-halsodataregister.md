@@ -1,6 +1,6 @@
 # Socialministern har tagit emot betänkandet från Utredningen om hälsodataregister
 
-Tillgången till hälsodata är avgörande för att kunna fatta bättre beslut, bedriva forskning och utveckla hälso\- och sjukvården. I dag saknas dock viktiga uppgifter i de nationella hälsodataregistren vilket försvårar uppföljning och utveckling.
+Tillgången till hälsodata är avgörande för att kunna fatta bättre beslut, bedriva forskning och utveckla hälso- och sjukvården. I dag saknas dock viktiga uppgifter i de nationella hälsodataregistren vilket försvårar uppföljning och utveckling.
 
 Utredaren Ingela Alverfors lämnar nu i betänkandet ”Ett nytt regelverk för hälsodataregister” bland annat förslag på regler för behandling av uppgifter från de områden där nationell insamling saknas, till exempel uppgifter från primärvården och uppgifter om läkemedel som administreras i vården.
 

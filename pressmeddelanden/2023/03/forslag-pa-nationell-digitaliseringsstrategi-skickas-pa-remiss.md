@@ -6,4 +6,4 @@ Det gäller särskilt synpunkter som rör hur barns och elevers kognitiva utveck
 
 – All digitalisering är givetvis inte av ondo, tvärtom. Men den måste alltid ske på ett genomtänkt sätt och bygga på forskning och beprövad erfarenhet. Därför är det viktigt att få in viktiga perspektiv, från bland annat kognitionsforskningen, kring hur barns och elevers inlärning påverkas av digitala verktyg, säger utbildningsminister Mats Persson.
 
-Remisstiden pågår till den 28 april 2023\.
+Remisstiden pågår till den 28 april 2023.

@@ -8,6 +8,6 @@ Utredaren ska bland annat:
 * lämna förslag på en ny och ändamålsenlig dataskyddsreglering för Arbetsförmedlingen och vid behov för Kammarkollegiet,
 * lämna förslag på hur de lagar som styr den arbetsmarknadspolitiska verksamheten kan regleras mer sammanhållet och ändamålsenligt, och
 * lämna nödvändiga författningsförslag.
-Utredaren ska noga väga behovet av ett förbättrat informationsutbyte och en mer ändamålsenlig personuppgiftsbehandling mot den enskildes rätt till skydd för sin personliga integritet.
+  Utredaren ska noga väga behovet av ett förbättrat informationsutbyte och en mer ändamålsenlig personuppgiftsbehandling mot den enskildes rätt till skydd för sin personliga integritet.
 
-Uppdraget ska redovisas senast den 13 juni 2025\.
+Uppdraget ska redovisas senast den 13 juni 2025.

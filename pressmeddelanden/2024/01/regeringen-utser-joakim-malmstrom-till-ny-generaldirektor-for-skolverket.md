@@ -4,6 +4,6 @@
 
 – Skolverket får nu en nystart, vilket är viktigt när regeringen har lagt om skolpolitiken. Det gäller för en ny ledning, med den tillträdande generaldirektören i spetsen, att ta fasta på det som fungerar bra – samtidigt som man tar itu med de brister som finns. Skolverkets nya ledning får ett tydligt förändringsmandat, säger skolminister Lotta Edholm.
 
-Joakim Malmström är filosofie doktor i historia. Han har lång erfarenhet inom universitets\- och högskolevärlden, dels som kanslichef för Samhällsvetenskapliga fakultetskansliet vid Stockholms universitet, dels som universitetsdirektör under flera år. Han har också varit myndighetschef för Naturhistoriska riksmuseet. Joakim Malmström kommer närmast från Riksantikvarieämbetet där han har varit Sveriges riksantikvarie och myndighetschef.
+Joakim Malmström är filosofie doktor i historia. Han har lång erfarenhet inom universitets- och högskolevärlden, dels som kanslichef för Samhällsvetenskapliga fakultetskansliet vid Stockholms universitet, dels som universitetsdirektör under flera år. Han har också varit myndighetschef för Naturhistoriska riksmuseet. Joakim Malmström kommer närmast från Riksantikvarieämbetet där han har varit Sveriges riksantikvarie och myndighetschef.
 
 – Jag vill samtidigt tacka Peter Fredriksson för viktiga insatser i skolväsendet i nära 40 år. Som ämneslärare i svenska och historia, som biträdande rektor och rektor, som skolchef och utbildningsdirektör. Och de senaste dryga sex åren som generaldirektör för Skolverket, säger skolminister Lotta Edholm.

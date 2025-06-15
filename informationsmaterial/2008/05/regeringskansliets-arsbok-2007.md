@@ -9,6 +9,6 @@ Nu är Regeringskansliets årsbok 2007 här, som svarar på dessa frågor och me
 * Departementens verksamhet
 * Särskilda projekt och program
 * Regeringskansliets interna utvecklingsarbete
-* Regeringskansliet i siffror \- appendix
+* Regeringskansliet i siffror - appendix
 
 Årsboken riktar sig främst till riksdagens ledamöter och tjänstemän, andra myndigheter, organisationer, skolor och bibliotek.

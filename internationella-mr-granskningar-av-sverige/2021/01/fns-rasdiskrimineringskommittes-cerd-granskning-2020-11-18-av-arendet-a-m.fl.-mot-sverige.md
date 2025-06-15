@@ -2,14 +2,13 @@
 
 Fråga om beslut att bevilja tre bearbetningskoncessioner för gruvverksamhet i områden där en sameby bedriver renskötsel var i strid med artiklarna 5 (a), 5 (d)(v) och 6 i FN:s rasdiskrimineringskonvention.
 
-
 ### Länk till granskningen i fulltext:
 
-[CERD:s granskning (2020\-11\-18\) av ärendet Å m.fl. mot Sverige](https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=CERD%2FC%2F102%2FD%2F54%2F2013&Lang=en)
+[CERD:s granskning (2020-11-18) av ärendet Å m.fl. mot Sverige](https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=CERD%2FC%2F102%2FD%2F54%2F2013&Lang=en)
 
-[CERD:s granskning (2020\-11\-18\) av ärendet Å m.fl. mot Sverige (svenska)](/494ee1/contentassets/31eb4283855144c092e72f08cff6e8de/cerd-utlatande-a-m.fl.-mot-sverige--svenska.pdf "CERD:s granskning (2020-11-18) av ärendet Å m.fl. mot Sverige (svenska)")
+[CERD:s granskning (2020-11-18) av ärendet Å m.fl. mot Sverige (svenska)](/494ee1/contentassets/31eb4283855144c092e72f08cff6e8de/cerd-utlatande-a-m.fl.-mot-sverige--svenska.pdf "CERD:s granskning (2020-11-18) av ärendet Å m.fl. mot Sverige (svenska)")
 
-[CERD:s granskning (2020\-11\-18\) av ärendet Å m.fl. mot Sverige (samiska)](/494ef4/contentassets/31eb4283855144c092e72f08cff6e8de/cerd-utlatande-a-m.fl.-mot-sverige--samiska.pdf "CERD:s granskning (2020-11-18) av ärendet Å m.fl. mot Sverige (samiska)")
+[CERD:s granskning (2020-11-18) av ärendet Å m.fl. mot Sverige (samiska)](/494ef4/contentassets/31eb4283855144c092e72f08cff6e8de/cerd-utlatande-a-m.fl.-mot-sverige--samiska.pdf "CERD:s granskning (2020-11-18) av ärendet Å m.fl. mot Sverige (samiska)")
 
 ### Sammanfattning av granskningen
 

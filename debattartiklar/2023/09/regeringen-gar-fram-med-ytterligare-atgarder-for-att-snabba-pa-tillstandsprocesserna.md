@@ -1,7 +1,6 @@
 # "Regeringen går fram med ytterligare åtgärder för att snabba på tillståndsprocesserna"
 
-Klimatomställningen är en av vår tids största utmaningar \- men den innebär också enorma möjligheter. Svenska företag är idag världsledande och ligger i framkant när det kommer till att elektrifiera sina verksamheter och skapa nya klimatsmarta produkter, skriver Ebba Busch, energi\- och näringsminister och Romina Pourmokhtari, klimat\- och miljöminister, tillsammans med Mats Green, gruppledare för Moderaterna i riksdagens näringsutskott och Martin Kinnunen, miljö\- och klimatpolitisk talesperson för Sverigedemokraterna i en debattartikel i Dagens industri den 18 september 2023\.
-
+Klimatomställningen är en av vår tids största utmaningar - men den innebär också enorma möjligheter. Svenska företag är idag världsledande och ligger i framkant när det kommer till att elektrifiera sina verksamheter och skapa nya klimatsmarta produkter, skriver Ebba Busch, energi- och näringsminister och Romina Pourmokhtari, klimat- och miljöminister, tillsammans med Mats Green, gruppledare för Moderaterna i riksdagens näringsutskott och Martin Kinnunen, miljö- och klimatpolitisk talesperson för Sverigedemokraterna i en debattartikel i Dagens industri den 18 september 2023.
 
 Omställningen måste gå snabbt och kräver stora investeringar, vilket innebär ett högt risktagande för företag och investerare. Oförutsägbara, långa och ineffektiva miljöprövningar riskerar att leda till att sådana investeringar blir dyrare än planerat och att arbetet försenas.
 
@@ -19,10 +18,10 @@ Det måste vara enkelt att kunna starta och driva verksamheter med stor samhäll
 
 Industrin står redan nu redo att göra de stora investeringar för klimatomställningen som är viktiga för vår resa mot nettonoll utsläpp, och byråkratin får inte sätta käppar i hjulet för det arbetet. När vi nu skjuter till mer medel till länsstyrelserna och Sveriges Domstolar, bidrar vi till bättre förutsättningar för klimatomställningen och Sveriges konkurrenskraft och tillväxt.
 
-Romina Pourmokhtari, klimat\- och miljöminister
+Romina Pourmokhtari, klimat- och miljöminister
 
-Ebba Busch, energi\- och näringsminister
+Ebba Busch, energi- och näringsminister
 
 Mats Green, gruppledare för Moderaterna i riksdagens näringsutskott
 
-Martin Kinnunen, miljö\- och klimatpolitisk talesperson för Sverigedemokraterna
+Martin Kinnunen, miljö- och klimatpolitisk talesperson för Sverigedemokraterna

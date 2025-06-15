@@ -2,7 +2,6 @@
 
 Regeringen ger Myndigheten för samhällsskydd och beredskap (MSB) i uppdrag att kartlägga och analysera kommunernas behov av att i större omfattning än i dag inrätta räddningsvärn som kan bistå räddningstjänsterna vid omfattande skogsbränder och andra typer av naturolyckor.
 
-
 MSB ska mot bakgrund av sin analys lämna förslag till åtgärder och rekommendationer som på ett lämpligt och ändamålsenligt sätt syftar till att stödja kommuner som ser behov av att inrätta räddningsvärn enligt lagen om skydd mot olyckor. Myndigheten ska även på övergripande nivå redogöra för vilka effekter som de föreslagna åtgärderna och rekommendationerna förväntas ge samt ange en tidsplanering för när åtgärderna bedöms kunna vara genomförda.
 
 Vid genomförandet av uppdraget ska MSB ta hänsyn till kommunernas pågående arbete på området liksom till annan relevant utveckling samt tidigare erfarenheter. Kommunernas behov, såväl under normala förhållanden som vid extraordinära händelser och höjd beredskap, bör beaktas.

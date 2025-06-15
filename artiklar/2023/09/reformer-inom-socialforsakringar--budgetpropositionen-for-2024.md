@@ -2,10 +2,9 @@
 
 Regeringen ger i budgetpropositionen för 2024 en rad förslag inom politikområdet Socialförsäkringar. Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-
 ## Förslag om förlängning av tilläggsbidrag för ekonomiskt utsatta barnfamiljer som har bostadsbidrag
 
-Med anledning av den fortsatt höga inflationen föreslås i budgetpropositionen för 2024 att den tillfälliga höjningen av bostadsbidraget förlängs ytterligare sex månader till och med den 30 juni 2024\.
+Med anledning av den fortsatt höga inflationen föreslås i budgetpropositionen för 2024 att den tillfälliga höjningen av bostadsbidraget förlängs ytterligare sex månader till och med den 30 juni 2024.
 
 [Pressmeddelande: Förslag om förlängning av tilläggsbidrag för ekonomiskt utsatta barnfamiljer som har bostadsbidrag](/pressmeddelanden/2023/08/forslag-om-forlangning-av-tillaggsbidrag-for-ekonomiskt-utsatta-barnfamiljer-som-har-bostadsbidrag/)
 

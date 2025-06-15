@@ -14,4 +14,4 @@ Regeringen lämnar även förslag för att förbättra förutsättningarna för 
 hyresgäst som utsatts för våld av en närstående att behålla lägenheten vid
 en uppsägning. Dessutom föreslås förstärkta möjligheter för en medhyresgäst eller medboende maka eller sambo som utsatts för våld av en närstående att överta ett hyreskontrakt.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2024\.
+Lagändringarna föreslås träda i kraft den 1 juli 2024.

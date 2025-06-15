@@ -4,7 +4,7 @@ Regeringen har tagit fram en plan för hur och när de restriktioner som har inf
 
 ## Folkhälsomyndighetens underlag är ett centralt underlag för regeringens plan
 
-Folkhälsomyndigheten har lämnat rapporten ”Vidareutveckling och konkretisering av nivåerna för den fortsatta anpassningen av smittskyddsåtgärder för covid\-19” till regeringen. Regeringens plan för avveckling av restriktioner baseras på underlaget, samt dialog mellan regeringen och Folkhälsomyndigheten.
+Folkhälsomyndigheten har lämnat rapporten ”Vidareutveckling och konkretisering av nivåerna för den fortsatta anpassningen av smittskyddsåtgärder för covid-19” till regeringen. Regeringens plan för avveckling av restriktioner baseras på underlaget, samt dialog mellan regeringen och Folkhälsomyndigheten.
 
 ## Regeringens och Folkhälsomyndighetens olika roller
 
@@ -12,7 +12,7 @@ I regeringens plan för avveckling av restriktioner gäller samma ansvarsfördel
 
 ## Nivåer för anpassning och avveckling av restriktioner
 
-Regeringens plan utgår från Folkhälsomyndighetens tre nivåer för smittspridning. Nivåerna fastställs genom en samlad bedömning av regeringen, i dialog med Folkhälsomyndigheten, av smittläget, belastningen i hälso\- och sjukvården och vaccinationsgraden i befolkningen.
+Regeringens plan utgår från Folkhälsomyndighetens tre nivåer för smittspridning. Nivåerna fastställs genom en samlad bedömning av regeringen, i dialog med Folkhälsomyndigheten, av smittläget, belastningen i hälso- och sjukvården och vaccinationsgraden i befolkningen.
 
 ## Anpassningar och avvecklingar av restriktioner
 

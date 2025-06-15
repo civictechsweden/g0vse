@@ -8,4 +8,4 @@ Straffskalan föreslås vara fängelse i högst fyra år. Om brottet är grovt f
 
 I princip alla former av stöd till en terroristorganisation, oavsett om det handlar om materiellt bistånd eller bistånd i form av deltagande i verksamheten, bidrar till att upprätthålla och stärka organisationen och därmed dess förmåga att begå terroristbrott. För att ytterligare förbättra möjligheterna att förhindra och bekämpa terrorism föreslår regeringen därför att den straffrättsliga terrorismlagstiftningen skärps genom att det införs en särskild straffbestämmelse för deltagande i en terrorist­organisation.
 
-Lagrådsremissen beslutas idag den 2 februari 2023\. Propositionen planeras att överlämnas den 7 mars i år och lagändringarna föreslås träda i kraft den 1 juni 2023\.
+Lagrådsremissen beslutas idag den 2 februari 2023. Propositionen planeras att överlämnas den 7 mars i år och lagändringarna föreslås träda i kraft den 1 juni 2023.

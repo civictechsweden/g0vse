@@ -2,19 +2,19 @@
 
 **Vad innehåller förordningen om mediestöd?**
 
-Förordningen innehåller kompletterande bestämmelser till lagen (2023:664\) om mediestöd. Förordningen innehåller bl.a. bestämmelser om stödformer, allmänna och särskilda förutsättningar för de olika stödformerna, stödens storlek, prioritering mellan ansökningar, ärendenas handläggning, hinder mot att lämna mediestöd, återbetalning och återkrav av stöd samt bemyndiganden för Mediemyndigheten att meddela ytterligare föreskrifter.
+Förordningen innehåller kompletterande bestämmelser till lagen (2023:664) om mediestöd. Förordningen innehåller bl.a. bestämmelser om stödformer, allmänna och särskilda förutsättningar för de olika stödformerna, stödens storlek, prioritering mellan ansökningar, ärendenas handläggning, hinder mot att lämna mediestöd, återbetalning och återkrav av stöd samt bemyndiganden för Mediemyndigheten att meddela ytterligare föreskrifter.
 
 **Vilka är de största förändringarna i förhållande till medieutredningens förslag?**
 
-Förordningen följer huvudsakligen medieutredningens förslag (Ett hållbart mediestöd för hela landet (Ds 2022:14\)), eftersom detta har en bred förankring. Regeringen har även beaktat remissynpunkter och den oro för stödets närmare utformning som främst vissa mindre aktörer signalerat. Regeringen har därför vid den närmare utformningen av vissa villkor beaktat små medieaktörers situation och i möjligaste mån säkerställa goda förutsättningar för dessa.
+Förordningen följer huvudsakligen medieutredningens förslag (Ett hållbart mediestöd för hela landet (Ds 2022:14)), eftersom detta har en bred förankring. Regeringen har även beaktat remissynpunkter och den oro för stödets närmare utformning som främst vissa mindre aktörer signalerat. Regeringen har därför vid den närmare utformningen av vissa villkor beaktat små medieaktörers situation och i möjligaste mån säkerställa goda förutsättningar för dessa.
 
-\- I förordningen siffersätts de mätbara allmänna villkoren för mediestöd; periodicitet, användarförankring, andel redaktionellt innehåll och andel exklusivt egenproducerat innehåll.
+- I förordningen siffersätts de mätbara allmänna villkoren för mediestöd; periodicitet, användarförankring, andel redaktionellt innehåll och andel exklusivt egenproducerat innehåll.
 
-\- Kravet på användarförankring höjs till 3 000 för regelbundna användare, men kvarstår på 1 500 för betalande prenumeranter.
+- Kravet på användarförankring höjs till 3 000 för regelbundna användare, men kvarstår på 1 500 för betalande prenumeranter.
 
-\- För att övergångsstödet ska ge stabila förutsättningar för en ordnad övergång för berörda aktörer behöver definitionen av allmänt nyhetsmedium inte vara uppfyllt för detta stöd. Lägre krav ställs också på lågfrekventa tidningars användarförankring (1 500 regelbundna användare) för övergångsstödet.
+- För att övergångsstödet ska ge stabila förutsättningar för en ordnad övergång för berörda aktörer behöver definitionen av allmänt nyhetsmedium inte vara uppfyllt för detta stöd. Lägre krav ställs också på lågfrekventa tidningars användarförankring (1 500 regelbundna användare) för övergångsstödet.
 
-\- En viss del frilanskostnader (200 000 kr) får räknas med i den stödgrundande kostnaden, vilket kan vara betydelsefullt för små nyhetsmedier.
+- En viss del frilanskostnader (200 000 kr) får räknas med i den stödgrundande kostnaden, vilket kan vara betydelsefullt för små nyhetsmedier.
 
 **Vilka nivåer av god användarförankring gäller?**
 
@@ -22,7 +22,7 @@ Med god användarförankring avses i normalfallet 3 000 regelbundna användare e
 
 **Vilken andel eget innehåll gäller och kommer det vara möjligt för nyhetsmedier att publicera varandras innehåll?**
 
-Andelen redaktionellt innehåll (45 procent) och exklusivt egenproducerat innehåll (45 procent av det redaktionella innehållet) ligger ungefär i paritet med dagens nivåer i det sammanvägda press\- och mediestödet. Det innebär att nyhetsmedier fortfarande kan samarbeta kring eller köpa in byråmaterial upp till 55 procent av det redaktionella innehållet.
+Andelen redaktionellt innehåll (45 procent) och exklusivt egenproducerat innehåll (45 procent av det redaktionella innehållet) ligger ungefär i paritet med dagens nivåer i det sammanvägda press- och mediestödet. Det innebär att nyhetsmedier fortfarande kan samarbeta kring eller köpa in byråmaterial upp till 55 procent av det redaktionella innehållet.
 
 **Hur kommer prövningen av nyhetsmedier som inte är lokala eller regionala att göras?**
 

@@ -2,7 +2,6 @@
 
 Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Kenya samt en länk till rapporten i sin helhet.
 
-
 Kenyas konstitution ger ett långtgående skydd för de mänskliga rättigheterna men inskränkningar av dessa rättigheter förekommer. Flera lagar har ännu inte trätt i kraft och kompletterande lagstiftning behövs på en rad områden för att säkerställa skydd för de mänskliga rättigheterna. Kvinnor och män garanteras lika rättigheter i lagen men kvinnors åtnjutande av dessa rättigheter begränsas ofta av lokala traditioner och sedvänjor samt långdragna domstolsprocesser.
 
 Kenya har ett flerpartisystem med allmänna och regelbundna val. Konstitutionen garanterar politiska rättigheter som att delta och ställa upp i val och grunda eller engagera sig i ett politiskt parti. Kvinnors möjligheter till politiskt deltagande försvåras till följd av patriarkala strukturer och begränsade ekonomiska resurser. Konstitution från 2010 har bidragit till tydligare maktdelning och decentralisering.

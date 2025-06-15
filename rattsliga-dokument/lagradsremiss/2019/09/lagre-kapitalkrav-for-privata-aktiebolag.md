@@ -6,4 +6,4 @@ Förslaget gör aktiebolagsformen mer tillgänglig för den som driver eller vil
 
 Förslaget bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.
 
-Lagändringen föreslås träda i kraft den 1 januari 2020\.
+Lagändringen föreslås träda i kraft den 1 januari 2020.

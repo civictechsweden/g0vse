@@ -1,7 +1,6 @@
 # Strategi mot hiv/aids och vissa andra smittsamma sjukdomar
 
-Regeringen har beslutat om en ny strategi mot hiv/aids och vissa andra smittsamma sjukdomar, eftersom situationen har förändrats sedan förra strategin från 2006\.
-
+Regeringen har beslutat om en ny strategi mot hiv/aids och vissa andra smittsamma sjukdomar, eftersom situationen har förändrats sedan förra strategin från 2006.
 
 ### Övergripande mål och delmål
 
@@ -11,13 +10,13 @@ Det övergripande målet för samhällets insatser är att begränsa spridning a
 
 Strategin innehåller tre delmål:
 
-1. Att behovs\- och kunskapsbaserade hälsofrämjande och förebyggande insatser når relevanta målgrupper, såväl som hela befolkningen.
+1. Att behovs- och kunskapsbaserade hälsofrämjande och förebyggande insatser når relevanta målgrupper, såväl som hela befolkningen.
 2. Att tidigt identifiera och behandla hivinfektion.
 3. Att stigma och diskriminering relaterad till hivinfektion minimeras, och att personer som lever med hivinfektion kan berätta om sin infektion utan oro för att särbehandlas.
 
 ### Långsiktigt förebyggande arbete
 
-Det långsiktiga förebyggande arbetet förblir grunden i den statliga satsningen inom området. Arbetet bör integreras med relevanta folkhälsopolitiska målområden och globala utvecklingsmål i Agenda 2030\. Uppföljning och utvärdering av insatta åtgärder utgör en hörnsten i ett framgångsriktpreventionsarbete och bör från början integreras i preventionsprojekt. Personer som lever med hivinfektion och andra målgrupper bör involveras i utformande och genomförande av preventiva insatser i så stor utsträckning som möjligt. Ökad jämställd och jämlik sexuell hälsa ska vara en prioritering i arbetet med de preventiva insatserna.
+Det långsiktiga förebyggande arbetet förblir grunden i den statliga satsningen inom området. Arbetet bör integreras med relevanta folkhälsopolitiska målområden och globala utvecklingsmål i Agenda 2030. Uppföljning och utvärdering av insatta åtgärder utgör en hörnsten i ett framgångsriktpreventionsarbete och bör från början integreras i preventionsprojekt. Personer som lever med hivinfektion och andra målgrupper bör involveras i utformande och genomförande av preventiva insatser i så stor utsträckning som möjligt. Ökad jämställd och jämlik sexuell hälsa ska vara en prioritering i arbetet med de preventiva insatserna.
 
 ### Från dödlig sjukdom till kronisk infektion
 

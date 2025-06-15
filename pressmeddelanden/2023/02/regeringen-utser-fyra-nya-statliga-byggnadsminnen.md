@@ -14,8 +14,8 @@ Huvudbyggnaden uppfördes 1641–1644 för riksamiralen Erik Ryning och hans hus
 
 ### Stumholmen i Karlskrona, Karlskrona kommun, Blekinge län
 
-Sannolikt etablerades de första militärt anknutna verksamheterna på nuvarande Stumholmen redan på 1680\-talet. Stumholmen var en sluten militär stadsdel fram till det att den öppnades för allmänheten på 1990\-talet. En obruten historisk kontinuitet kan avläsas i byggnadsbeståndet som består av en rad världsunika militärhistoriska anläggningar.
+Sannolikt etablerades de första militärt anknutna verksamheterna på nuvarande Stumholmen redan på 1680-talet. Stumholmen var en sluten militär stadsdel fram till det att den öppnades för allmänheten på 1990-talet. En obruten historisk kontinuitet kan avläsas i byggnadsbeståndet som består av en rad världsunika militärhistoriska anläggningar.
 
 ### Tumba bruk, Botkyrka kommun, Stockholms län
 
-Tumba pappersbruk representerar en levande bruksmiljö med kontinuitet från 1700\-talet fram till i dag. Anläggningen är en unikt samlad bruksmiljö som berättar om 250 år av obruten papperstillverkning och av svensk sedelhistoria.
+Tumba pappersbruk representerar en levande bruksmiljö med kontinuitet från 1700-talet fram till i dag. Anläggningen är en unikt samlad bruksmiljö som berättar om 250 år av obruten papperstillverkning och av svensk sedelhistoria.

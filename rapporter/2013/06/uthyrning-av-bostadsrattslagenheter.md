@@ -6,4 +6,4 @@ Det föreslås även bli möjligt för bostadsrättsföreningar att ta ut en sä
 
 Förslagen är avsedda att vara en del av regeringens bostadspolitiska satsning på att öka privatpersoners uthyrning av bostäder och förbättra villkoren för denna del av bostadsmarknaden.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2014\.
+Lagändringarna föreslås träda i kraft den 1 juli 2014.

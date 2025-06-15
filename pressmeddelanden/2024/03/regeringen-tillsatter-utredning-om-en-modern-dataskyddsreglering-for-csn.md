@@ -10,4 +10,4 @@ CSN:s registerförfattningar behöver också ses över på en övergripande niv�
 
 Till särskild utredare utses kammarrättslagmannen Peder Liljeqvist.
 
-Uppdraget ska redovisas senast den 31 december 2024\.
+Uppdraget ska redovisas senast den 31 december 2024.

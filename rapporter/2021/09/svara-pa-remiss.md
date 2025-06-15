@@ -4,4 +4,4 @@ Varje år skickar Regeringskansliet ut många betänkanden och andra förslag p�
 
 Statsrådsberedningen ger ut denna promemoria för att underlätta remissarbetet både utanför och inom Regeringskansliet. Promemorian vänder sig i första hand till myndigheter, organisationer och andra som får remisser från Regeringskansliet.
 
-Promemorian ersätter den publikation i samma ämne som Statsrådsberedningen gav ut i december 2003 och som uppdaterades i maj 2009\.
+Promemorian ersätter den publikation i samma ämne som Statsrådsberedningen gav ut i december 2003 och som uppdaterades i maj 2009.

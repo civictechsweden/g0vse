@@ -6,6 +6,6 @@ I denna proposition lämnas förslag till de lagändringar som krävs för att g
 
 När det gäller olycksutredningsdirektivet är det bl.a. fråga om att genomföra åtaganden som rör den närmare omfattningen av skyldigheten att undersöka olyckor till sjöss och regler om undersökningens genomförande.
 
-Olycksutredningsdirektivet har också bedömts påkalla vissa tillägg och ändringar i offentlighets\- och sekretesslagen (2009:400\).
+Olycksutredningsdirektivet har också bedömts påkalla vissa tillägg och ändringar i offentlighets- och sekretesslagen (2009:400).
 
-Ändringarna föreslås träda i kraft den 17 juni 2011\.
+Ändringarna föreslås träda i kraft den 17 juni 2011.

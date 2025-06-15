@@ -6,4 +6,4 @@ Syftet med förhandlingspersonens uppdrag är att dels möjliggöra ett snabbt g
 
 Konsekvenserna av förslagen, inklusive miljökonsekvenser, ska analyseras och förslag till överenskommelser ska tas fram med närmast berörda aktörer i Stockholms län, Västra Götalands län och Skåne län samt med övriga berörda aktörer längs de nya stambanorna om stationer och lokala anslutningar. Samtliga överenskommelser ska ingås med förbehåll för efterföljande rättsliga prövningar samt regeringens och i förekommande fall riksdagens godkännande.
 
-Förhandlingspersonen ska lämna delredovisningar senast den 1 juni 2015, den 31 december 2015 respektive den 1 juni 2016\. Förhandlingspersonen ska slutredovisa sitt uppdrag senast den 31 december 2017\.
+Förhandlingspersonen ska lämna delredovisningar senast den 1 juni 2015, den 31 december 2015 respektive den 1 juni 2016. Förhandlingspersonen ska slutredovisa sitt uppdrag senast den 31 december 2017.

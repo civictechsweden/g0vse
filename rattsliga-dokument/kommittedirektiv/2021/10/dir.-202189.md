@@ -7,8 +7,8 @@ börda.
 
 Utredaren ska bland annat:
 
-* identifiera och analysera för\- och nackdelar med att införa offentlighetsprincipen i fristående skolor för att lösa tillgången till skolinformation,
-* identifiera och analysera för\- och nackdelar med att Skolverket för att lösa tillgången till skolinformation samlar in uppgifter från huvudmän, myndigheter och eventuellt andra uppgiftslämnare inom ramen för en insamling utanför den särskilda verksamheten för att framställa statistik som avses i 24 kap. 8 § offentlighets\- och sekretesslagen (2009:400\), och
+* identifiera och analysera för- och nackdelar med att införa offentlighetsprincipen i fristående skolor för att lösa tillgången till skolinformation,
+* identifiera och analysera för- och nackdelar med att Skolverket för att lösa tillgången till skolinformation samlar in uppgifter från huvudmän, myndigheter och eventuellt andra uppgiftslämnare inom ramen för en insamling utanför den särskilda verksamheten för att framställa statistik som avses i 24 kap. 8 § offentlighets- och sekretesslagen (2009:400), och
 * lämna nödvändiga författningsförslag för de olika alternativen.
 
-Uppdraget ska redovisas senast den 1 december 2022\.
+Uppdraget ska redovisas senast den 1 december 2022.

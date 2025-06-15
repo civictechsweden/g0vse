@@ -1,6 +1,6 @@
 # Civilministern bjuder in organisationer till samtal om telefonbedrägerier
 
-Bedrägeribrotten ökar, däribland telefonbedrägerier riktade mot framför allt äldre. Under 2022 uppskattades telefonbedrägerierna omsätta över 600 miljoner kronor, en siffra som ökat till över 700 miljoner under 2023\.
+Bedrägeribrotten ökar, däribland telefonbedrägerier riktade mot framför allt äldre. Under 2022 uppskattades telefonbedrägerierna omsätta över 600 miljoner kronor, en siffra som ökat till över 700 miljoner under 2023.
 
 Fredag 8 mars träffar civilministern organisationerna i ett möte för att få insikt i hur deras medlemmar ser på bedrägeribrott och åtgärder för att motverka denna typ av brottslighet.
 

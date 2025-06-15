@@ -2,7 +2,6 @@
 
 Möt Elvir Dzanic, VD Göteborgs Hamn AB, som är ledamot i Elektrifieringskommissionen. Här berättar han om uppdraget.
 
-
 **Vilken är kommissionens viktigaste uppgift?**
 
 − Kommissionens viktigaste uppgift är att identifiera konkreta och trovärdiga förslag där både slutmålet, men framförallt milstolparna, är tydliga och där teknik samt marknad möts på ett sådant sätt som möjliggör accelerering av elektrifieringen inom transportsektorn. Kommissionens resultat bör eka runtom på jorden och fungera som en planritning för övriga att ta efter.

@@ -1,7 +1,7 @@
 # Riksrevisionens rapport om internrevisionen vid de statliga myndigheterna
 
 I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och
-rekommendationer som Riksrevisionen har redogjort för i granskningsrapporten Internrevisionen vid myndigheter – En funktion som behöver stärkas (RiR 2017:5\).
+rekommendationer som Riksrevisionen har redogjort för i granskningsrapporten Internrevisionen vid myndigheter – En funktion som behöver stärkas (RiR 2017:5).
 
 Regeringen instämmer i Riksrevisionens bedömning att internrevisionen
 vid myndigheterna ska ha tillräckliga förutsättningar för att

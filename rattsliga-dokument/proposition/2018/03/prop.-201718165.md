@@ -1,6 +1,6 @@
 # Effektivare sanktioner i livsmedelskedjan
 
-I propositionen föreslås ändringar i straffbestämmelserna i livsmedelslagen (2006:804\) och i lagen (2006:805\) om foder och animaliska biprodukter. Förslaget innebär att straffet skärps för allvarliga brott. Straffet föreslås vara böter eller fängelse i högst två år.
+I propositionen föreslås ändringar i straffbestämmelserna i livsmedelslagen (2006:804) och i lagen (2006:805) om foder och animaliska biprodukter. Förslaget innebär att straffet skärps för allvarliga brott. Straffet föreslås vara böter eller fängelse i högst två år.
 
 Som allvarliga brott ska sådana gärningar betraktas som innebär eller kan innebära en fara för människors eller djurs liv eller hälsa, som innebär eller kan innebära ett omfattande vilseledande eller som på ett allvarligt sätt orsakar eller kan orsaka att möjligheten att spåra t.ex. ett livsmedel eller foder försvåras. Såväl uppsåtliga som oaktsamma gärningar ska kunna straffas med fängelse.
 

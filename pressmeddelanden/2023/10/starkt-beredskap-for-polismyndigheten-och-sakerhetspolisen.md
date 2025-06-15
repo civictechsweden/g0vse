@@ -2,7 +2,7 @@
 
 – Det allvarliga säkerhetsläget ställer nya krav på polisen, som nu står inför en av sina svåraste uppgifter någonsin. Bara i september månad i år dog tolv personer till följd av gängens våld. Vi måste se till att polisen får det stöd och den hjälp som situationen kräver. Dagens beslut är en viktig del i regeringens arbete med att stärka polisens förmåga, inte minst i arbetet med att trycka tillbaka den grova organiserade brottsligheten, säger justitieminister Gunnar Strömmer.
 
-– Kriget i Ukraina har visat att Sveriges beredskap och civila försvar behöver stärkas inom flera områden. Regeringen tillsätter nu en utredning med syftet att undersöka hur en polisiär förstärkningsresurs kan utformas, liknande den särskilda beredskapspolisen som avskaffades 2012\. Dagens beslut syftar till att öka samhällets motståndskraft både inför kriser som kan ske i fredstid och inför höjd beredskap, säger ministern för civilt försvar Carl\-Oskar Bohlin.
+– Kriget i Ukraina har visat att Sveriges beredskap och civila försvar behöver stärkas inom flera områden. Regeringen tillsätter nu en utredning med syftet att undersöka hur en polisiär förstärkningsresurs kan utformas, liknande den särskilda beredskapspolisen som avskaffades 2012. Dagens beslut syftar till att öka samhällets motståndskraft både inför kriser som kan ske i fredstid och inför höjd beredskap, säger ministern för civilt försvar Carl-Oskar Bohlin.
 
 Det säkerhetspolitiska läget är det allvarligaste sedan andra världskriget, och Sveriges inre säkerhet hotas från flera håll. Auktoritära stater agerar alltmer offensivt för att främja sina nationella intressen. Attentatshotet har ökat, och i slutet av sommaren höjdes terrorhotnivån från ett förhöjt till ett högt hot. Samtidigt hotar den grova organiserade brottsligheten medborgarnas trygghet och i förlängningen vårt öppna och fria samhälle.
 
@@ -15,9 +15,9 @@ Utredaren ska bland annat
 * ta ställning till vilka uppgifter och vilken folkrättslig ställning som polisen ska ha i krig,
 * bedöma om gränsövervakningen i krig bör organiseras på ett annat sätt än enligt nuvarande system,
 * föreslå hur polisens behov av helikoptertransporter ska kunna säkerställas,
-* ta ställning till om polisens förmåga att fullgöra skydds\- och bevakningsuppdragen kan stärkas, och
+* ta ställning till om polisens förmåga att fullgöra skydds- och bevakningsuppdragen kan stärkas, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 15 april 2025\.
+Uppdraget ska redovisas senast den 15 april 2025.
 
 Som särskild utredare utses Rikard Jermsten, generaldirektör vid Konkurrensverket.

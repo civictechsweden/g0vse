@@ -4,6 +4,6 @@ För att stötta företagens möjligheter att bedriva forskning och utveckling f
 
 Förslaget beräknas minska statens intäkter med 100 miljoner kronor 2023 och 200 miljoner kronor 2024 och framåt.
 
-Finansdepartementet skickar nu förslaget på remiss till den 1 februari 2023\.
+Finansdepartementet skickar nu förslaget på remiss till den 1 februari 2023.
 
 Förslaget bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

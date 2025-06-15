@@ -1,6 +1,6 @@
 # Kulturminister Parisa Liljestrands tal vid Chanukka-firandet på Norrmalmstorg i Stockholm
 
-Kulturministern höll tal vid Chanukka-firandet på Norrmalmstorg i Stockholm den 26 december 2024.
+Norrmalmstorg, Stockholm, den 26 december 2024.
 
 Det talade ordet gäller.
 

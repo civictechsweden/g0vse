@@ -1,7 +1,6 @@
 # Remiss av promemorian Specialpedagogisk kompetens i fråga om neuropsykiatriska svårigheter
 
-Här kan du ta del av till vilka instanser regeringen har remitterat promemorian Specialpedagogisk kompetens i fråga om neuropsykiatriska svårigheter. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 26 juni 2017\.
-
+Här kan du ta del av till vilka instanser regeringen har remitterat promemorian Specialpedagogisk kompetens i fråga om neuropsykiatriska svårigheter. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 26 juni 2017.
 
 ## Remissinstanser
 
@@ -63,7 +62,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat promemorian
 56 Jönköping läns landsting
 57 Kalmar läns landsting
 58 Stockholms läns landsting
-59 Autism\- och Aspergerförbundet
+59 Autism- och Aspergerförbundet
 60 Friskolornas riksförbund
 61 Handikappförbunden
 62 Idéburna skolors riksförbund
@@ -81,6 +80,6 @@ Här kan du ta del av till vilka instanser regeringen har remitterat promemorian
 74 Sveriges förenade studentkårer
 75 Sveriges Kommuner och Landsting
 76 Sveriges Skolledarförbund
-77 Sveriges universitets\- och högskoleförbund
+77 Sveriges universitets- och högskoleförbund
 78 Sveriges universitetslärare och forskare
 79 Tjänstemännens Centralorganisation

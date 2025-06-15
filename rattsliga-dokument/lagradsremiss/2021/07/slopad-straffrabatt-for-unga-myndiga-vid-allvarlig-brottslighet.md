@@ -6,4 +6,4 @@ I lagråds­remissen lämnas förslag som inne­bär att om någon som är 18–
 
 Slutligen föreslås att det inte ska ställas särskilda krav på inhämtade av yttrande från social­nämnden för att kunna döma lagöver­trädare under 21 år till fängelse i mer än tre månader.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2022\.
+Lagändringarna föreslås träda i kraft den 1 januari 2022.

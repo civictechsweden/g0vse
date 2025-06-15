@@ -9,3 +9,5 @@ Regeringen arbetar för att den nya kommissionen ska prioritera frågan och läg
 Justitieminister Gunnar Strömmer och ansvariga ministrar i likasinnade medlemsländer uppmanar nu i ett gemensamt brev kommissionen att gå fram med ett lagförslag på upphovsrättsområdet.
 
 Regeringen ser positivt på att svenska aktörer driver frågan på EU-nivå.
+
+[Ta del av brevet (på engelska)](/contentassets/6792f27e1859488f9f2511ce7383315b/joint-letter-regarding-the-need-for-a-legislative-proposal-on-rules-and-boundaries-of-international-application-of-eu-law-on-copyright-and-neighbouring-rights.pdf)

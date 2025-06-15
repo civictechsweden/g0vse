@@ -1,6 +1,6 @@
 # Tilläggsdirektiv till Medierådet
 
-Verksamheten som i dag utförs av kommittén Medierådet överförs till Statens medieråd och därmed upphör kommittén. Medierådet ska avsluta sin verksamhet den 31 december 2010\.
+Verksamheten som i dag utförs av kommittén Medierådet överförs till Statens medieråd och därmed upphör kommittén. Medierådet ska avsluta sin verksamhet den 31 december 2010.
 
 ## Bakgrund
 

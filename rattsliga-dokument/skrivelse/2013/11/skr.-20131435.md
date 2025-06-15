@@ -8,7 +8,7 @@ Arbetsförmedlingen rekommenderas att utveckla arbetet för att nå de ungdomar 
 
 Regeringen instämmer i huvudsak i Riksrevisionens bedömning att statens stöd för ungdomars etablering på arbetsmarknaden kan förbättras och att Arbetsförmedlingens arbete med ungdomar kan bli effektivare. Arbetsförmedlingens nya arbetssätt som infördes 2012 innebär bland annat att ungdomar kan få individanpassat stöd tidigt i arbetslösheten.
 
-Regeringen har gett Arbetsförmedlingen i uppdrag att skyndsamt vidta åtgärder för att säkerställa att det nya arbetssättet följs. Vidare avser regeringen att presentera en ungdomspolitisk proposition under 2014\.
+Regeringen har gett Arbetsförmedlingen i uppdrag att skyndsamt vidta åtgärder för att säkerställa att det nya arbetssättet följs. Vidare avser regeringen att presentera en ungdomspolitisk proposition under 2014.
 
 I propositionsarbetet bereds för närvarande förslag som syftar till att förbättra register, statistik och uppföljningen av det kommunala informationsansvaret för ungdomar som inte fyllt 20 år och som inte genomför eller har fullföljt en gymnasieutbildning. Såsom aviserats i budgetpropositionen för 2014, avser regeringen att ge ett gemensamt uppdrag till Socialstyrelsen och Arbetsförmedlingen om hur samverkan mellan socialtjänsten och Arbetsförmedlingen kan utformas.
 

@@ -8,4 +8,4 @@ Den myndighet som ansvarar för beslut om ersättning enligt lagen om statlig er
 
 Genom den föreslagna ordningen kommer Försäkringskassan och Pensionsmyndigheten inte längre att vara skyldiga att göra en skadeprövning i samtliga ärenden som anmäls inom ramen för det statliga personskadeskyddet.
 
-Lagändringen föreslås träda i kraft den 1 april 2025\.
+Lagändringen föreslås träda i kraft den 1 april 2025.

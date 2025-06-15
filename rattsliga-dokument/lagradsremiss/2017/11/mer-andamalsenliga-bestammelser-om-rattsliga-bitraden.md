@@ -6,4 +6,4 @@ Behovet av målsägandebiträde i hovrätten har minskat på grund av reformen E
 
 Dömda i brottmål får en viss ökad ersättningsskyldighet till staten för kostnader och det föreslås uttryckliga regler om när man ska få byta offentlig försvarare.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2018\.
+Lagändringarna föreslås träda i kraft den 1 juli 2018.

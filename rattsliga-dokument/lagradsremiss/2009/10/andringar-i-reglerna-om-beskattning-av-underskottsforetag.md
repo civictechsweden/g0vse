@@ -8,4 +8,4 @@ Förslaget innebär att när beloppsspärren beräknas ska kapitaltillskott som 
 
 Syftet med regeringens förslag är att motverka att de nu gällande reglerna kringgås och att skatteintäkterna därmed minskar betydligt.
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2010\. Regeringen har dock i en tidigare skrivelse till riksdagen aviserat att förslaget enligt regeringens mening bör gälla redan från och med den 5 juni 2009, (Skr. 2008/09:225\).
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2010. Regeringen har dock i en tidigare skrivelse till riksdagen aviserat att förslaget enligt regeringens mening bör gälla redan från och med den 5 juni 2009, (Skr. 2008/09:225).

@@ -8,4 +8,4 @@ Lagändringarna innebär att riksdagen medger att regeringen får, om Sverige ä
 
 Det finns redan nu lagstiftning på plats som medger att regeringen begär stöd av Finland i dessa situationer. Lagstiftningen föreslås alltså justeras, så att den även omfattar samtliga stater som är medlemmar i EU eller i Nato.
 
-Regeringen har i dag lämnat över propositionen till riksdagen. Lagändringarna föreslås träda i kraft den 19 maj 2022\.
+Regeringen har i dag lämnat över propositionen till riksdagen. Lagändringarna föreslås träda i kraft den 19 maj 2022.

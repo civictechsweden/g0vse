@@ -1,6 +1,6 @@
 # Utvärdering av behandlingsprogram för våld mot närstående
 
-– Våld i nära relationer kan aldrig accepteras. Vi måste både förebygga våld och arbeta aktivt med behandling hos våldsutövarna. För att kunna se vilka åtgärder som verkligen ger effekt behöver mer resurser satsas på utvärdering och uppföljning, säger jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg.
+– Våld i nära relationer kan aldrig accepteras. Vi måste både förebygga våld och arbeta aktivt med behandling hos våldsutövarna. För att kunna se vilka åtgärder som verkligen ger effekt behöver mer resurser satsas på utvärdering och uppföljning, säger jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg.
 
 – Våldet mot kvinnor och barn ska bekämpas med samma kraft som gängsbrottsligheten. Det är en fråga om att bekämpa grova brott, men också om trygghet, frihet och jämställdhet. Kriminalvården har en gedigen erfarenhet av att förebygga återfall i brott, och det är bra att det här arbetet följs upp på ett strukturerat sätt, säger justitieminister Gunnar Strömmer.
 
@@ -14,4 +14,4 @@ Socialstyrelsen får i uppdrag att bistå Kriminalvården i deras stöd till kom
 
 För uppdraget tilldelas Kriminalvården 2 miljoner kronor under 2024 och 2025 och Socialstyrelsen 3 miljoner kronor. För 2026 och 2027 tilldelas Kriminalvården 1 miljon kronor och Socialstyrelsen 1,5 miljoner kronor, under förutsättning att riksdagen anvisat medel för det aktuella anslaget.
 
-Uppdraget ska slutredovisas till regeringen senast den 15 december 2028\.
+Uppdraget ska slutredovisas till regeringen senast den 15 december 2028.

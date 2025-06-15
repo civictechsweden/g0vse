@@ -1,6 +1,6 @@
 # Vissa ändringar i skattelagstiftningen till följd av resolutionsregelverket (utkast till lagrådsremiss)
 
-I utkastet föreslås ändringar i skattelagstiftningen till följd av resolutionsregelverket som trädde i kraft den 1 februari 2016\.
+I utkastet föreslås ändringar i skattelagstiftningen till följd av resolutionsregelverket som trädde i kraft den 1 februari 2016.
 
 Resolution är ett särskilt förfarande under statlig kontroll för rekonstruktion eller avveckling av finansiell verksamhet som bedrivs av finansiella företag och ett alternativ till konkurs när en sådan skulle medföra stora samhällsekonomiska kostnader.
 
@@ -11,6 +11,6 @@ utkastet föreslås därför att det för företag i resolution ska införas und
 
 Resolutionsregelverket innehåller även bestämmelser om förebyggande tillsynsåtgärder, som syftar till att undvika att ett företag ska försättas i resolution. En sådan åtgärd är nedskrivning av relevanta kapitalinstrument. I utkastet föreslås att sådana nedskrivningar ska behandlas på samma sätt som ackord utan konkurs och skuldsanering. I en sådan situation ska det belopp som motsvarar summan av de kapitalinstrument som skrivits ned inte tas upp som intäkt.
 
-Ändringarna föreslås träda i kraft den 1 januari 2021\.
+Ändringarna föreslås träda i kraft den 1 januari 2021.
 
-Remissvaren ska ha kommit in till Finansdepartementet senast den 3 augusti 2020\.
+Remissvaren ska ha kommit in till Finansdepartementet senast den 3 augusti 2020.

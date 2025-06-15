@@ -6,4 +6,4 @@ Vidare gör regeringen bedömningen att det bör klargöras att ett tilläggsbel
 
 Det föreslås även att en hänvisning i skollagen till specialutformade program i gymnasiesärskolan, som inte längre tillhandahålls, ska tas bort.
 
-De nya bestämmelserna föreslås träda i kraft den 1 juli 2016\.
+De nya bestämmelserna föreslås träda i kraft den 1 juli 2016.

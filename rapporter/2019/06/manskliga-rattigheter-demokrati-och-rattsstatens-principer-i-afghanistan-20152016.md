@@ -2,7 +2,6 @@
 
 Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Afghanistan situationen per den 31 december 2018 samt en länk till rapporten i sin helhet.
 
-
 Situationen avseende de mänskliga rättigheterna i Afghanistan är svår. Framsteg sker, men de är få och utmaningarna flertaliga. Det allvarliga säkerhetsläget är en bidragande faktor och den väpnade konflikten fortsätter att slå hårt mot befolkningen. FN bedömer att året 2018 blev ett av de dödligaste för civila i Afghanistan sedan talibanregimens fall.
 
 Rättsväsendet har stora brister, både på grund av begränsad kapacitet och omfattande korruption. Befolkningens förtroende för myndigheter och domstolsväsendet är lågt. Många afghaner väljer att istället vända sig till de informella rättssystem som existerar parallellt med det formella. Informell rättvisa i Afghanistan bygger inte sällan på en blandning av lokala sedvänjor och sharialag. Straffriheten är utbredd och många afghaner saknar grundläggande rättssäkerhet. Olagliga frihetsberövanden förekommer liksom tortyr, även om Afghanistan under 2018 anpassade sin straffrättslagstiftning efter FN:s konvention mot tortyr och ratificerade konventionens fakultativa tilläggsprotokoll. Dödsstraff tillämpas.

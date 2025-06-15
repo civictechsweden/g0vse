@@ -6,4 +6,4 @@ Temat för årets konferens är ”Addressing the New Strategic Reality Together
 
 NATO Industry Forum är ett återkommande evenemang och syftar till att vara en plattform för strategisk dialog mellan Nato och försvarsindustrin. Konferensen riktar sig främst till höga representanter från Nato, försvarsindustrin och Natos allierade.
 
-– Jag är glad att Sverige är värd för Natos industriforum och välkomnar generalsekreteraren och övriga deltagare till Sverige, säger minister för civilt försvar Carl\-Oskar Bohlin.
+– Jag är glad att Sverige är värd för Natos industriforum och välkomnar generalsekreteraren och övriga deltagare till Sverige, säger minister för civilt försvar Carl-Oskar Bohlin.

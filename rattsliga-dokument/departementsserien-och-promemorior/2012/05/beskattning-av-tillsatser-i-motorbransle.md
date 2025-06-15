@@ -6,4 +6,4 @@ I promemorian föreslås även ett förtydligande av bestämmelsen om avdrag fö
 
 Förslagen föranleder ändringar i lagen om skatt på energi och lagen om ändring i lagen om skatt på energi.
 
-Ändringarna föreslås träda i kraft den 1 januari 2013\.
+Ändringarna föreslås träda i kraft den 1 januari 2013.

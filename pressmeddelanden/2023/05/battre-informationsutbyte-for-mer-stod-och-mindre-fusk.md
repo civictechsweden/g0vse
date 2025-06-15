@@ -6,7 +6,7 @@ Alla dessa aktörer behöver ha tillgång till information för att kunna genomf
 
 För att motverka dessa risker tillsätter regeringen en särskild utredare, som ska lämna förslag om ett förbättrat informationsutbyte och en mer ändamålsenlig lagreglering för den arbetsmarknadspolitiska verksamheten.
 
-– Nu tar vi det första steget för att informationsutbytet ska förbättras. Ingen ska falla mellan stolarna. Det är viktigt att Arbetsförmedlingen och andra arbetsmarknadspolitiska aktörer får rätt information om arbetssökandes bakgrund, så att de kan erbjuda rätt hjälp och stöd.  Det är också avgörande för att motverka felaktiga utbetalningar, bidragsbrott och annan brottslighet i de gemensamma systemen, säger arbetsmarknads\- och integrationsminister Johan Pehrson.
+– Nu tar vi det första steget för att informationsutbytet ska förbättras. Ingen ska falla mellan stolarna. Det är viktigt att Arbetsförmedlingen och andra arbetsmarknadspolitiska aktörer får rätt information om arbetssökandes bakgrund, så att de kan erbjuda rätt hjälp och stöd.  Det är också avgörande för att motverka felaktiga utbetalningar, bidragsbrott och annan brottslighet i de gemensamma systemen, säger arbetsmarknads- och integrationsminister Johan Pehrson.
 
 Utredaren ska bland annat:
 
@@ -15,4 +15,4 @@ Utredaren ska bland annat:
 * lämna förslag på hur de lagar som styr den arbetsmarknadspolitiska verksamheten kan regleras mer sammanhållet och ändamålsenligt, och
 * lämna nödvändiga författningsförslag.
 
-­Uppdraget ska redovisas senast den 13 juni 2025\.
+­Uppdraget ska redovisas senast den 13 juni 2025.

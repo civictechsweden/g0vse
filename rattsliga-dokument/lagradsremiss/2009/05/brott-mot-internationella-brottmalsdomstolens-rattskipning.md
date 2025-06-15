@@ -10,6 +10,6 @@ Svensk domstol är behörig att pröva brott som begåtts i Sverige. I vissa fal
 
 Ett generellt krav på åtalsförordnande föreslås för brott mot Internationella brottmålsdomstolens rättskipning. Enligt förslaget ska de särskilda åtalsbestämmelserna för bestickning och mutbrott i 17 kap. 17 § respektive 20 kap. 5 § tredje stycket brottsbalken, i likhet med vad som gäller för domare eller annan funktionär vid Internationella brottmålsdomstolen, inte tillämpas i de fall då gärningen riktats mot respektive begåtts av arbetstagare vid domstolen.
 
-En lagakraftvunnen dom som Internationella brottmålsdomstolen har meddelat i fråga om brott mot dess rättskipning ska enligt förslaget som huvudregel hindra en senare lagföring av samma gärning i Sverige. Undantag föreslås dock gälla i fråga om brott som begåtts i Sverige eller som begåtts utom riket och som riktats mot ett svenskt allmänt intresse eller som enligt svensk rätt bestraffas med minst fyra års fängelse. En bestämmelse med detta innehåll föreslås placeras i lagen (2002:329\) om samarbete med Internationella brottmålsdomstolen.
+En lagakraftvunnen dom som Internationella brottmålsdomstolen har meddelat i fråga om brott mot dess rättskipning ska enligt förslaget som huvudregel hindra en senare lagföring av samma gärning i Sverige. Undantag föreslås dock gälla i fråga om brott som begåtts i Sverige eller som begåtts utom riket och som riktats mot ett svenskt allmänt intresse eller som enligt svensk rätt bestraffas med minst fyra års fängelse. En bestämmelse med detta innehåll föreslås placeras i lagen (2002:329) om samarbete med Internationella brottmålsdomstolen.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2010\.
+Lagändringarna föreslås träda i kraft den 1 januari 2010.

@@ -2,7 +2,6 @@
 
 Fråga om en utvisning av klaganden till Libanon skulle strida mot artiklarna 3 och 8 i Europakonventionen.
 
-
 ## Sammanfattning av beslutet
 
 Klaganden åberopade att han riskerade att dödas i hemlandet bl.a. på grund av sin religionstillhörighet samt att en utvisning skulle utgöra en inskränkning av hans rätt till privatliv då han etablerat sig i Sverige.

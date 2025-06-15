@@ -2,7 +2,7 @@
 
 Riksrevisionen har granskat om syftena med förändringen av villkoren i arbetslöshetsförsäkringen för deltidsarbetslösa har uppfyllts och utvärderat om regeringens målsättning med förändringen har uppnåtts.
 
-Kommittén om hållbara försäkringar vid sjukdom och arbetslöshet (S 2010:04\) har i uppdrag att göra en översyn av den nuvarande deltidsbegränsningen. Kommittén ska lämna sitt slutbetänkande senast den 31 januari 2015\.
+Kommittén om hållbara försäkringar vid sjukdom och arbetslöshet (S 2010:04) har i uppdrag att göra en översyn av den nuvarande deltidsbegränsningen. Kommittén ska lämna sitt slutbetänkande senast den 31 januari 2015.
 
 Regeringen avser att invänta slutbetänkandet innan några eventuella åtgärder vidtas när det gäller deltidsbegränsningen i arbetslöshetsförsäkringen.
 

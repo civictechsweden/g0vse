@@ -4,6 +4,6 @@
 
 Regeringen föreslår även att ett främlingspass ska kunna återkallas av säkerhetsskäl. Ärenden där Säkerhetspolisen förordar att en utlänning inte ska beviljas främlingspass, eller att ett främlingspass ska återkallas, ska vidare utgöra säkerhetsärenden enligt utlänningslagen. Syftet med förslagen är att göra regelverket för ärenden med säkerhetsaspekter mer ändamålsenligt.
 
-Lagändringarna föreslås träda i kraft den 1 mars 2024\.
+Lagändringarna föreslås träda i kraft den 1 mars 2024.
 
 Förslagen bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

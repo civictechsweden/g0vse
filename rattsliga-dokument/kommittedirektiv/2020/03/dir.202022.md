@@ -21,4 +21,4 @@ Kommissionens arbete ska genomsyras av perspektiv som innebär att
 
 Kommissionen ska löpande hålla Regeringskansliet (Arbetsmarknadsdepartementet) informerat om sitt arbete.
 
-Uppdraget ska redovisas till regeringen (Arbetsmarknadsdepartementet) senast den 20 december 2021\. En delredovisning ska göras senast den 25 januari 2021\.
+Uppdraget ska redovisas till regeringen (Arbetsmarknadsdepartementet) senast den 20 december 2021. En delredovisning ska göras senast den 25 januari 2021.

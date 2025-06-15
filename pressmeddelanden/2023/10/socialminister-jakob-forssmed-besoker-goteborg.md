@@ -6,10 +6,8 @@ Ministern kommer också att möta representanter för bostadsbolaget Framtidskon
 
 ## Program 4 oktober
 
-Kl 9\.30 Invigningstalar vid Fysioterapi 2023\.
+Kl 9.30 Invigningstalar vid Fysioterapi 2023.
 
-Kl 11\.00 Möte med Framtidskoncernen AB.
-
-
+Kl 11.00 Möte med Framtidskoncernen AB.
 
 För mer information och intervjuförfrågningar kontakta pressekreterare Simon Hoff.

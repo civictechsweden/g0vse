@@ -5,3 +5,7 @@
 Demenssjukdomar är en av vår tids stora folkhälsoutmaningar. Antalet som lever med en demensdiagnos ökar. Samtidigt går forskningen inom området snabbt framåt. Regeringen har därför beslutat om en utvecklad nationell demensstrategi för att stärka vården och omsorgen för personer som har en demenssjukdom.
 
 Den utvecklade nationella demensstrategin syftar till att tydliggöra områden inom vården och omsorgen som är av särskild betydelse för personer som har en demenssjukdom, lyfta fram behov av utveckling och följa den utvecklingen. I avsnitten nedan beskrivs de olika utvecklingsområdena. Strategin sträcker sig över åren 2025–2028. Strategin kan ses som ett komplement till Socialstyrelsens Nationella riktlinjer för vård och omsorg vid demenssjukdom – Stöd och styrning och ledning.
+
+## Flertal regeringsbeslut på området
+
+I samband med beslut om en utvecklad nationell demensstrategi har ytterligare ett flertal regeringsbeslut på området tagits för att stötta utvecklingen av svensk demensvård och uppföljning av den utvecklade strategin.

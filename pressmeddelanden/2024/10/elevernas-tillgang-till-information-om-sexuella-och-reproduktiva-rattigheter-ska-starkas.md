@@ -2,7 +2,7 @@
 
 Alla unga människor ska känna trygghet och integritet i sin egen sexualitet och sexuella relationer, de ska också kunna identifiera goda relationer och kunna skilja dem från risksituationer. Tillgång till information är en del av skolans hälsofrämjande område och är en viktig förutsättning för att unga ska kunna fatta välavvägda beslut om sin egen kropp.
 
-– Det finns ett behov av att stärka kunskapen och informationen om sexuell och reproduktiv hälsa och rättigheter bland alla unga, inte minst i områden där utanförskapet är stort, säger jämställdhets\- och arbetslivsminister Paulina Brandberg.
+– Det finns ett behov av att stärka kunskapen och informationen om sexuell och reproduktiv hälsa och rättigheter bland alla unga, inte minst i områden där utanförskapet är stort, säger jämställdhets- och arbetslivsminister Paulina Brandberg.
 
 – Att ge barn och unga kunskap på området är ett steg för att värna deras rättigheter och förebygga att deras rättigheter kränks, särskilt på nätet, säger socialtjänstminister Camilla Waltersson Grönvall.
 
@@ -16,4 +16,4 @@ I det våldsförebyggande arbete ska fokus vara på både den som utsätts, och 
 
 Folkhälsomyndigheten och Statens skolverk ska efterhöra och beakta synpunkter från Socialstyrelsen, särskilt när det gäller uppdraget nationellt hälsoprogram för barn och unga. De material som tas fram inom ramen för uppdraget ska kunna användas som underlag inför kommande uppdatering av Vägledning för elevhälsan.
 
-Folkhälsomyndigheten och Statens skolverk ska lämna en delredovisning av uppdraget den 30 september 2025\. Slutredovisningen ska lämnas in senast den 1 mars 2027\.
+Folkhälsomyndigheten och Statens skolverk ska lämna en delredovisning av uppdraget den 30 september 2025. Slutredovisningen ska lämnas in senast den 1 mars 2027.

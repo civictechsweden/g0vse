@@ -8,4 +8,4 @@ Utredaren ska bl.a.
 * föreslå andra insatser som bidrar till ökad trygghet och brottsförebyggande åtgärder i den byggda miljön som ett sätt att lyfta utsatta områden, samt
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 17 januari 2025\.
+Uppdraget ska redovisas senast den 17 januari 2025.

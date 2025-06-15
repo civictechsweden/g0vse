@@ -1,6 +1,6 @@
 # Kulturminister Parisa Liljestrand håller tal vid tillkännagivandet av Alma-priset
 
-\- Barn och ungas läsning är en källa till kunskap, språk och fantasi och är en hjärtefråga för mig och regeringen. Därför känns det både fint och hedersamt att få medverka vid tillkännagivandet av världens största barnbokspris, säger kulturminister Parisa Liljestrand.
+- Barn och ungas läsning är en källa till kunskap, språk och fantasi och är en hjärtefråga för mig och regeringen. Därför känns det både fint och hedersamt att få medverka vid tillkännagivandet av världens största barnbokspris, säger kulturminister Parisa Liljestrand.
 
 Bakgrund:
 
@@ -12,6 +12,6 @@ De senaste pristagarna är:
 
 2022 – Eva Lindström (Sverige)
 
-2021 – Jean\-Claude Mourlevat (Frankrike)
+2021 – Jean-Claude Mourlevat (Frankrike)
 
 2020 – Baek Heena (Korea)

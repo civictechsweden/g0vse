@@ -9,6 +9,6 @@ Regeringen gör många satsningar på läsning inom utbildningsområdet. Det rö
 * Lagändringar för att alla elever ska få tillgång till bemannade skolbibliotek.
 * Lagändringar för att elever ska ha tillgång till läroböcker, andra läromedel och andra lärverktyg, samt statsbidrag som gör det möjligt för skolhuvudmän att köpa läroböcker.
 * Läslistor med svensk och internationell skönlitteratur tas fram för att fungera som ett stöd för lärare när de ska välja litteratur för sin undervisning.
-Satsning på bokinköp till förskolor och skolor.
+  Satsning på bokinköp till förskolor och skolor.
 * Kraftsamling för ett läsande land: ett råd av representanter för civilsamhället, akademin och näringslivet.
 * Förstärkt bidrag till Svenska barnboksinstitutet.

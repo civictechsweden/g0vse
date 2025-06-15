@@ -4,4 +4,4 @@ Polarforskningen ger unika insikter i jordens klimatsystem och den snabba klimat
 
 – Sverige har en ledande internationell roll inom polarforskningsområdet. Polarforskning är viktigt för klimatforskningen och har stor betydelse för att ge oss kunskap om den globala klimatutvecklingen. Regeringen vill därför att Polarforskningssekretariatet ska intensifiera sina informationsinsatser och göra data från polarforskning tillgänglig och återanvändbar för fler forskare och andra aktörer, säger utbildningsminister Mats Persson.
 
-Uppdraget ska delredovisas senast den 1 mars 2024 och slutredovisas senast den 1 oktober 2024\.
+Uppdraget ska delredovisas senast den 1 mars 2024 och slutredovisas senast den 1 oktober 2024.

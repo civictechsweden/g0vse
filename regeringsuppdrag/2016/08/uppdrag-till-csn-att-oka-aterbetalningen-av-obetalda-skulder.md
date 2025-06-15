@@ -2,7 +2,6 @@
 
 Det svenska studiestödet lämnas med allmänna medel och är, i ett internationellt perspektiv, generöst. Det är därför viktigt att studielån och återkrav återbetalas.
 
-
 I syfte att öka återbetalningen av obetalda skulder uppdrar regeringen åt Centrala studiestödsnämnden (CSN) att
 
 * närmare analysera skälen till att inbetalningarna från låntagare bosatta utomlands minskar i förhållande till det debiterade beloppet,
@@ -14,4 +13,4 @@ I syfte att öka återbetalningen av obetalda skulder uppdrar regeringen åt Cen
 * vidta eller föreslå åtgärder för att säkerställa att myndigheten över tid har tillgång till korrekta adresser och kontaktuppgifter till låntagare, samt, att öka inbetalningarna från de som myndigheten erhåller en adress eller kontaktuppgift till, och
 * vidta eller föreslå åtgärder för att få fler låntagare med rätt till nedsättning av årsbeloppet att ansöka om nedsättning.
 
-Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 31 januari 2017\. Uppdraget som rör analysen av skälen till minskade inbetalningar från låntagare utomlands ska redovisas senast den 31 mars 2017\.
+Uppdraget ska redovisas till Regeringskansliet (Utbildningsdepartementet) senast den 31 januari 2017. Uppdraget som rör analysen av skälen till minskade inbetalningar från låntagare utomlands ska redovisas senast den 31 mars 2017.

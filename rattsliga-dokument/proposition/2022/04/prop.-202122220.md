@@ -8,10 +8,10 @@ Meningen med förslaget är att erbjuda ekonomisk trygghet åt dem som har sliti
 
 ## Särskilda regler för rätten till sjukersättning för äldre i förvärvsarbetande ålder
 
-Utgångspunkten är det förslag som har Utredningen om sjuk\-och aktivitetsersättningen lämnat samt förmåner vid rehabilitering. Regeringen föreslår särskilda regler för rätten till sjukersättning för äldre i förvärvsarbetande ålder.
+Utgångspunkten är det förslag som har Utredningen om sjuk-och aktivitetsersättningen lämnat samt förmåner vid rehabilitering. Regeringen föreslår särskilda regler för rätten till sjukersättning för äldre i förvärvsarbetande ålder.
 
 ## Reglerna i sjukersättningen anpassas till ett längre arbetsliv
 
 Arbetsförmågan hos försäkrade som har som mest fem år kvar tills de uppnår den ålder då de inte längre kan få sjukersättning – och som har erfarenhet av sådant arbete som normalt förekommer på arbetsmarknaden – ska enligt förslaget bedömas i förhållande till dessa arbeten. Finns det något annat lämpligt arbete för den försäkrade ska arbetsförmågan bedömas mot det.
 
-Lagändringarna föreslås träda i kraft den 1 september 2022\.
+Lagändringarna föreslås träda i kraft den 1 september 2022.

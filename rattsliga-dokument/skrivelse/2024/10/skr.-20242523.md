@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om statens arbete med informationssäkerhet i vård och omsorg
 
-Regeringen redogör för hur den bedömer de iakttagelser och rekommendationer som Riksrevisionen lämnar i rapporten Informationssäkerhet i vård och omsorg – statens stöd och tillsyn, RiR 2024:6\.
+Regeringen redogör för hur den bedömer de iakttagelser och rekommendationer som Riksrevisionen lämnar i rapporten Informationssäkerhet i vård och omsorg – statens stöd och tillsyn, RiR 2024:6.
 
 Riksrevisionen menar bland annat att:
 
@@ -19,5 +19,5 @@ Regeringen:
 
 * välkomnar Riksrevisionens granskning och instämmer i huvudsak i Riksrevisionens övergripande iakttagelser och analyser,
 * har sett ett växande behov av ett utvecklat informationssäkerhetsarbete i hela samhället.
-* har vidtagit åtgärder i arbetet med att stärka statens arbete inom informations\- och cybersäkerhetsområdet, vilket även omfattar vård och omsorg,
+* har vidtagit åtgärder i arbetet med att stärka statens arbete inom informations- och cybersäkerhetsområdet, vilket även omfattar vård och omsorg,
 * anser i och med denna skrivelse att Riksrevisionens rapport är slutbehandlad.

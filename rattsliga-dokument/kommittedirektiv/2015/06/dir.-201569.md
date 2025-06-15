@@ -14,4 +14,4 @@ behövas. Utredaren ska även överväga behovet av resegarantier
 för andra typer av researrangemang än paketresor och
 assisterade researrangemang.
 
-Uppdraget ska redovisas senast den 31 augusti 2016\.
+Uppdraget ska redovisas senast den 31 augusti 2016.

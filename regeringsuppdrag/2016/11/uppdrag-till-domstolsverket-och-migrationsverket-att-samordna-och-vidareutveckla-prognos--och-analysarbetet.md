@@ -1,7 +1,6 @@
 # Uppdrag till Domstolsverket och Migrationsverket att samordna och vidareutveckla prognos- och analysarbetet
 
-Regeringen ger Domstolsverket och Migrationsverket i uppdrag att samordna och vidareutveckla prognos\- och analysarbetet för migrationsdomstolarna i syfte att förbättra möjligheterna att göra tillförlitliga och rättvisande prognoser av den ekonomiska och verksamhetsmässiga utvecklingen på anslagen 1\.4 Domstolsprövning i utlänningsmål och 1\.5 Rättsliga biträden m.m. vid domstolsprövning i utlänningsmål. Uppdraget ska genomföras i samverkan med migrationsdomstolarna och Migrationsöverdomstolen.
-
+Regeringen ger Domstolsverket och Migrationsverket i uppdrag att samordna och vidareutveckla prognos- och analysarbetet för migrationsdomstolarna i syfte att förbättra möjligheterna att göra tillförlitliga och rättvisande prognoser av den ekonomiska och verksamhetsmässiga utvecklingen på anslagen 1.4 Domstolsprövning i utlänningsmål och 1.5 Rättsliga biträden m.m. vid domstolsprövning i utlänningsmål. Uppdraget ska genomföras i samverkan med migrationsdomstolarna och Migrationsöverdomstolen.
 
 I uppdraget ingår att:
 
@@ -12,8 +11,8 @@ I uppdraget ingår att:
 
 Domstolsverket ska löpande informera Regeringskansliet (Justitiedepartementet) om uppdragets fortskridande.
 
-Uppdraget ska redovisas till regeringen (Justitiedepartementet) senast den 3 april 2017\.
+Uppdraget ska redovisas till regeringen (Justitiedepartementet) senast den 3 april 2017.
 
-Redovisningen ska innefatta en plan för hur de förbättrade prognos\- och analysmetoderna ska kunna tillämpas så snart det är möjligt.
+Redovisningen ska innefatta en plan för hur de förbättrade prognos- och analysmetoderna ska kunna tillämpas så snart det är möjligt.
 
 [Pressmeddelande: Regeringsuppdrag att effektivisera handläggningen av asylmål](/pressmeddelanden/2016/11/regeringsuppdrag-att-effektivisera-handlaggningen-av-asylmal/)

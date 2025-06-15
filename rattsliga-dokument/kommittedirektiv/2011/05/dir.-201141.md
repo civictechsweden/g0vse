@@ -6,4 +6,4 @@ Utredaren ska också lägga fram förslag om inrättande av en angränsande zon 
 
 Utredaren ska lämna de förslag till författningsändringar som översynen kan ge anledning till.
 
-Uppdraget ska redovisas senast den 31 december 2013\.
+Uppdraget ska redovisas senast den 31 december 2013.

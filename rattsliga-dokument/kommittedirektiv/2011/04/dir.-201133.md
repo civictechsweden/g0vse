@@ -4,4 +4,4 @@ En särskild utredare ska lämna förslag till hur de verksamheter inom Regering
 
 Utredaren ska bl.a. kartlägga och utvärdera alternativa organisationsformer för förvaltningen av företag med statligt ägande, undersöka och redovisa andra ägares erfarenheter och förhållanden på området samt föreslå i vilken form förvaltningen av företag med statligt ägande fortsättningsvis bör organiseras.
 
-Uppdraget ska redovisas senast den 13 januari 2012\.
+Uppdraget ska redovisas senast den 13 januari 2012.

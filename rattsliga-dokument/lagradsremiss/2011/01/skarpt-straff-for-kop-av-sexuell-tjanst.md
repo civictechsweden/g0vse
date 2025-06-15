@@ -4,4 +4,4 @@ I lagrådsremissen föreslås att straffmaximum för köp av sexuell tjänst hö
 
 I lagrådsremissen redovisas också utvecklingsinsatser av olika slag som vidtagits för att bl.a. förebygga och bekämpa prostitution.
 
-Lagändringen föreslås träda i kraft den 1 juli 2011\.
+Lagändringen föreslås träda i kraft den 1 juli 2011.

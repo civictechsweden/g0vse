@@ -19,4 +19,4 @@ och
 möjliggöra en effektivare stabiliseringspolitik och ett bättre samspel
 mellan finanspolitiken och penningpolitiken.
 
-Uppdraget ska redovisas senast den 15 november 2024\.
+Uppdraget ska redovisas senast den 15 november 2024.

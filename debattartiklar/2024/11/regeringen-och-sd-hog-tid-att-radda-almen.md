@@ -1,7 +1,6 @@
 # "Regeringen och SD: Hög tid att rädda almen"
 
-Debattartikel av Peter Kullgren, landsbygdsminister, Romina Pourmokhtari, klimat\- och miljöminister och Staffan Eklöf, riksdagsledamot i miljö\- och jordbruksutskottet (SD), Uppsala Nya Tidning, 8 november 2024\.
-
+Debattartikel av Peter Kullgren, landsbygdsminister, Romina Pourmokhtari, klimat- och miljöminister och Staffan Eklöf, riksdagsledamot i miljö- och jordbruksutskottet (SD), Uppsala Nya Tidning, 8 november 2024.
 
 Almsjukan – En svamp som har kommit till Europa genom oförsiktig handel och sedan angripit och slagit ut de flesta almarna. Du har säkerligen sett ”trädskeletten” runt om i vårt landskap.
 
@@ -9,7 +8,7 @@ Sveriges tre arter av alm – skogsalm, lundalm och vresalm – är alla klassad
 
 Till Gotland kom sjukdomen dock sent och ett bekämpningsprogram sattes i verket snabbt, där man sågar ner och transporterar bort de sjuka träd man ser. Det gör att Gotland har Europas troligen största population av almar.
 
-Det är hög tid att vi med kraft vidtar åtgärder som kan förbättra skyddet för viktiga skogsträd såsom almen. Almen bär upp viktiga ekosystem och har varit vår följeslagare i tusentals år. Genom att göra träd mer motståndskraftiga kan vi slå vakt om virkesvärden, men även centrala natur\- och kulturvärden.
+Det är hög tid att vi med kraft vidtar åtgärder som kan förbättra skyddet för viktiga skogsträd såsom almen. Almen bär upp viktiga ekosystem och har varit vår följeslagare i tusentals år. Genom att göra träd mer motståndskraftiga kan vi slå vakt om virkesvärden, men även centrala natur- och kulturvärden.
 
 År 2021 samlades en majoritet i riksdagen för att rikta ett tillkännagivande till den dåvarande regeringen om att ta fram växtförädlingsprojekt för alm och ask – ett förslag som Socialdemokraterna, Vänsterpartiet och Miljöpartiet valde att rösta nej till.
 
@@ -23,6 +22,6 @@ För asken har man redan börjat identifiera träd som är mindre skadade, och s
 
 Utöver almsjukan och askskottsjukan är skador som rotticka hos gran och törskatesvamp hos tall exempel där resistensförädling kan skynda på framtagandet av skogsodlingsmaterial som är motståndskraftiga mot angrepp från skadegörare.
 
-Regeringen och Sverigedemokraterna lägger nu fram en offensiv satsning i budgeten på skogsträdsförädling. Den uppgår till 26 miljoner kronor årligen för 2025 och 2026 och 24 miljoner kronor för 2027\. Medlen kommer att kanaliseras via forskningsrådet Formas och möjliggöra insatser på flera fronter. Långsiktighet är en nyckel i frågor som dessa, därför är satsningen permanent.
+Regeringen och Sverigedemokraterna lägger nu fram en offensiv satsning i budgeten på skogsträdsförädling. Den uppgår till 26 miljoner kronor årligen för 2025 och 2026 och 24 miljoner kronor för 2027. Medlen kommer att kanaliseras via forskningsrådet Formas och möjliggöra insatser på flera fronter. Långsiktighet är en nyckel i frågor som dessa, därför är satsningen permanent.
 
 Ambitionen här är tydlig: Vi ska stärka motståndskraften mot skador hos våra skogsträd och rädda den hotade almen och de arter som är beroende av den. Det är ett ansvar vi har mot kommande generationer.

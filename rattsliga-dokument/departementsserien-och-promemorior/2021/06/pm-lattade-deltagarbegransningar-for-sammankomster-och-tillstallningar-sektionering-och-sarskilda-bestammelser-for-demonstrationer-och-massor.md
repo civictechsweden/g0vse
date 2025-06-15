@@ -8,7 +8,7 @@ För demonstrationer utomhus föreslår Regeringskansliet ett särskilt deltagar
 
 ## Motionslopp och idrottstävlingar
 
-För motionslopp och liknande idrottstävlingar föreslår Regeringskansliet att deltagarbegränsningen endast ska avse start\- och målområden och inte som i dag även tävlingsområdet. Bestämmelsen utökas också till att omfatta även andra idrottstävlingar vid vilka allmänheten kan delta som utövare och som huvudsakligen genomförs i skog, på väg eller i eller på vatten.
+För motionslopp och liknande idrottstävlingar föreslår Regeringskansliet att deltagarbegränsningen endast ska avse start- och målområden och inte som i dag även tävlingsområdet. Bestämmelsen utökas också till att omfatta även andra idrottstävlingar vid vilka allmänheten kan delta som utövare och som huvudsakligen genomförs i skog, på väg eller i eller på vatten.
 
 ## Mässor
 

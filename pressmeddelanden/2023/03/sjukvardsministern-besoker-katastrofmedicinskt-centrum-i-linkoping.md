@@ -4,4 +4,4 @@ Katastrofmedicinskt centrum (KMC) är ett centrum för forskning, utbildning, ut
 
 Sjukvårdsministern kommer att träffa Marie Morell, ordförande i regionstyrelsen i Region Östergötland, och Rickard Lundin, Centrumchef vid KMC, och göra en rundvandring. Hon kommer också besöka en pågående kunskapshöjande aktivitet kring totalförsvar och delta övningar i akutsjukvård och sjukvårdsledning i kris och vid masskadehändelser.
 
-Journalister är välkomna att delta på plats från kl. 13:00\. Kontakta pressekreterare Joel Apelthun för mer information.
+Journalister är välkomna att delta på plats från kl. 13:00. Kontakta pressekreterare Joel Apelthun för mer information.

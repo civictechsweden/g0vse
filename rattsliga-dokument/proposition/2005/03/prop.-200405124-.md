@@ -6,7 +6,7 @@ Den betydelse arkiven har för att vi skall kunna förstå vårt samhälle och h
 
 Regeringen föreslår att ett tidsbegränsat nationellt uppdrag för arkivpedagogiska insatser inrättas på arkivområdet och tilldelas ett enskilt arkiv.
 
-Under det senaste årtiondet har förutsättningarna för arkivverksamheten förändrats, något som till stor del är en följd av bland annat den tekniska utvecklingen. Mot den bakgrunden bedömer regeringen att det är angeläget att arkivmyndigheterna på olika sätt deltar i utvecklingsarbetet och samarbetar med bland annat andra arkiv\- och arkivbildande myndigheter om frågor om långsiktigt bevarande och tillhandahållande av digital information.
+Under det senaste årtiondet har förutsättningarna för arkivverksamheten förändrats, något som till stor del är en följd av bland annat den tekniska utvecklingen. Mot den bakgrunden bedömer regeringen att det är angeläget att arkivmyndigheterna på olika sätt deltar i utvecklingsarbetet och samarbetar med bland annat andra arkiv- och arkivbildande myndigheter om frågor om långsiktigt bevarande och tillhandahållande av digital information.
 
 Regeringen avser att ge Riksarkivet i uppdrag att utveckla arbetsformerna för samarbetet med andra institutioner och organisationer om frågor som rör dokument på de nationella minoritetsspråken.
 

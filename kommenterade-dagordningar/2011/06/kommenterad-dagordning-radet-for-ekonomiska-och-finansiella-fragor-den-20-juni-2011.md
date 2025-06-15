@@ -5,7 +5,7 @@ På Ekofinrådets möte den 20 juni 2011 finns följande punkter på dagordninge
 * Lagstiftningsförslag om ekonomisk styrning
 * Beviljande av externt lånemandat för Europeiska investeringsbanken
 * Insättningsgarantin
-* OTC\-derivat, centrala motparter och transaktionsregister
+* OTC-derivat, centrala motparter och transaktionsregister
 * Ekonomisk styrning
 * Den Europeiska terminen
 * Kvalitetshantering av den Europeiska statistiken

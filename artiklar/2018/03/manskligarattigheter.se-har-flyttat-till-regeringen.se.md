@@ -2,7 +2,6 @@
 
 Innehållet på regeringens webbplats för mänskliga rättigheter (manskligarattigheter.se) finns nu på regeringen.se.
 
-
 Innehållet är fördelat på tre olika sidor:
 
 * Fakta om mänskliga rättigheter.

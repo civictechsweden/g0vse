@@ -1,8 +1,8 @@
 # En ny renskötsellagstiftning – det samiska folkets rätt till renskötsel, jakt och fiske
 
-En parlamentariskt sammansatt kommitté ska lämna ett förslag till en ny renskötsellag som ska ersätta den nuvarande rennäringslagen (1971:437\). Kommittén ska även analysera det samiska folkets rätt till jakt och fiske – såväl för de samer som i dag är medlemmar i samebyar som för dem som inte är det.
+En parlamentariskt sammansatt kommitté ska lämna ett förslag till en ny renskötsellag som ska ersätta den nuvarande rennäringslagen (1971:437). Kommittén ska även analysera det samiska folkets rätt till jakt och fiske – såväl för de samer som i dag är medlemmar i samebyar som för dem som inte är det.
 
-I uppdraget ingår också att föreslå de ändringar i annan författning som kan krävas av hänsyn till renskötsel­rätten. De förslag som lämnas ska vara förenliga med Högsta domstolens slutsatser i Girjasdomen (NJA 2020 s. 3\) och med Sveriges folkrättsliga förpliktel­ser.
+I uppdraget ingår också att föreslå de ändringar i annan författning som kan krävas av hänsyn till renskötsel­rätten. De förslag som lämnas ska vara förenliga med Högsta domstolens slutsatser i Girjasdomen (NJA 2020 s. 3) och med Sveriges folkrättsliga förpliktel­ser.
 
 Kommittén ska bland annat
 
@@ -16,4 +16,4 @@ Kommittén ska bland annat
 
 I uppdraget ingår inte att överväga eller lämna förslag till ändringar i grund­lag.
 
-Den del av uppdraget som handlar om att utreda inom vilka delar av statligt ägd mark som samebyar har ensamrätt i för­hållande till staten att upplåta småviltsjakt och fiske, och om denna ensamrätt omfattar jakt på annat vilt än småvilt, ska redovisas i ett delbetänkande senast den 21 november 2022\. Uppdraget i övrigt ska slut­redovisas senast den 20 maj 2025\.
+Den del av uppdraget som handlar om att utreda inom vilka delar av statligt ägd mark som samebyar har ensamrätt i för­hållande till staten att upplåta småviltsjakt och fiske, och om denna ensamrätt omfattar jakt på annat vilt än småvilt, ska redovisas i ett delbetänkande senast den 21 november 2022. Uppdraget i övrigt ska slut­redovisas senast den 20 maj 2025.

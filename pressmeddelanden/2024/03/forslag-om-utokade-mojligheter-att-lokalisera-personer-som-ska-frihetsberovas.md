@@ -8,4 +8,4 @@ De brottsbekämpande myndigheterna behöver därför bättre verktyg för att sn
 
 Förslagen i propositionen ger brottsbekämpande myndigheter möjlighet att använda hemlig övervakning av elektronisk kommunikation och hemlig dataavläsning vid tillfällen då det bedöms nödvändigt för att hitta en eftersökt person. Det föreslås också utökade möjligheter att använda hemliga tvångsmedel i syfte att lokalisera utlänningar som inte har fullgjort sin anmälningsskyldighet enligt lagen om särskild kontroll av vissa utlänningar. Samtidigt stärks rättssäkerheten vid användningen av hemliga tvångsmedel genom att regelverket för underrättelse till enskilda ändras så att underrättelser kan lämnas i fler fall.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2024\.
+Lagändringarna föreslås träda i kraft den 1 juli 2024.

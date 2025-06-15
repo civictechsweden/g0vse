@@ -1,8 +1,7 @@
 # Remiss av Fördjupad översyn av Försvarsmaktens logistikförsörjning i fråga om vidmakthållande och upphandling
 
 Här kan du ta del av till vilka remissinstanser som regeringen har remitterat promemorian Fördjupad översyn av Försvarsmaktens logistikförsörjning i fråga om vidmakthållande och upphandling (Fö 2017:B).
-Remissvaren ska ha kommit in till Försvarsdepartementet senast den 27 april 2018\.
-
+Remissvaren ska ha kommit in till Försvarsdepartementet senast den 27 april 2018.
 
 Remissinstanser
 
@@ -17,7 +16,7 @@ Remissinstanser
 [9 Fortifikationsverket](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/fordjupad-oversyn-av-forsvarsmaktens-logistikforsorjning/fo2018-00471_9-fortifikationsverket.pdf)
 [10 Riksrevisionen](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/fordjupad-oversyn-av-forsvarsmaktens-logistikforsorjning/fo2018-00471_10-riksrevisionen.pdf)
 [11 Förvaltningsrätten i Stockholm](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/fordjupad-oversyn-av-forsvarsmaktens-logistikforsorjning/fo2018-00471_11-forvaltningsratten.pdf)
-[12 Säkerhets\- och försvarsföretagen, SOFF](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/fordjupad-oversyn-av-forsvarsmaktens-logistikforsorjning/fo2018-00471_12-soff.pdf)
+[12 Säkerhets- och försvarsföretagen, SOFF](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/fordjupad-oversyn-av-forsvarsmaktens-logistikforsorjning/fo2018-00471_12-soff.pdf)
 13 Offentliganställdas förhandlingsråd, OFR/S,P, O
-[14 Seko, Service\- och kommunikationsfacket](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/fordjupad-oversyn-av-forsvarsmaktens-logistikforsorjning/fo2018-00471_14-seko.pdf)
-[15 Sveriges akademikers centralorganisation, SACO\-S](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/fordjupad-oversyn-av-forsvarsmaktens-logistikforsorjning/fo2018-00471_15-saco.pdf)
+[14 Seko, Service- och kommunikationsfacket](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/fordjupad-oversyn-av-forsvarsmaktens-logistikforsorjning/fo2018-00471_14-seko.pdf)
+[15 Sveriges akademikers centralorganisation, SACO-S](/globalassets/regeringen/dokument/forsvarsdepartementet/remisser/fordjupad-oversyn-av-forsvarsmaktens-logistikforsorjning/fo2018-00471_15-saco.pdf)

@@ -9,7 +9,7 @@ Utredaren ska bl.a.
 * analysera ansvarsfördelningen mellan myndigheter,
 * föreslå utökat samhällsuppdrag avseende industriforskning, provning och certifiering,
 * utreda regeringens möjlighet att besluta om tillfälligt miljötillstånd för
-samhällsviktig verksamhet,
+  samhällsviktig verksamhet,
 * lämna nödvändiga författningsförslag.
 
-Ett delbetänkande ska lämnas senast den 30 december 2022 i den del som avser uppdraget om miljötillstånd för samhällsviktig verksamhet. Övriga delar av uppdraget ska redovisas senast den 31 oktober 2024\.
+Ett delbetänkande ska lämnas senast den 30 december 2022 i den del som avser uppdraget om miljötillstånd för samhällsviktig verksamhet. Övriga delar av uppdraget ska redovisas senast den 31 oktober 2024.

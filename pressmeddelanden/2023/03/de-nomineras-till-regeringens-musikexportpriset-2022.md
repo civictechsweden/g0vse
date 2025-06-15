@@ -1,12 +1,12 @@
 # De nomineras till regeringens musikexportpris 2022
 
-– De nominerade till musikexportpriset visar på bredden och de internationella framgångarna inom svensk musikscen. Det gläder mig att det svenska musikundret fortsätter stå starkt och jag är stolt att få dela ut regeringens musikexportpris för 2022, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+– De nominerade till musikexportpriset visar på bredden och de internationella framgångarna inom svensk musikscen. Det gläder mig att det svenska musikundret fortsätter stå starkt och jag är stolt att få dela ut regeringens musikexportpris för 2022, säger bistånds- och utrikeshandelsminister Johan Forssell.
 
 ## De nominerade är:
 
 * Bladee
 * First Aid Kit
-* LIOHN \& Klahr
+* LIOHN & Klahr
 * Tove Lo
 * Watain
 
@@ -14,6 +14,6 @@ Under ceremonin delar statsrådet Johan Forssell också ut regeringens hederspri
 
 ## Program:
 
-Kl. 13\.30: Dörrarna öppnas
-Kl. 14\.00: Prisceremoni
-Ca kl. 14\.50: Tid för intervjuer och mediefrågor
+Kl. 13.30: Dörrarna öppnas
+Kl. 14.00: Prisceremoni
+Ca kl. 14.50: Tid för intervjuer och mediefrågor

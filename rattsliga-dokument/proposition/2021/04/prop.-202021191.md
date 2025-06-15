@@ -1,6 +1,6 @@
 # Ändrade regler i utlänningslagen
 
-I propositionen föreslås ändringar i utlänningslagen (2005:716\) för att den svenska migrationspolitiken ska vara långsiktigt hållbar, med ett humant, rättssäkert och effektivt regelverk som inte väsentligen avviker från de i andra EU\-länder.
+I propositionen föreslås ändringar i utlänningslagen (2005:716) för att den svenska migrationspolitiken ska vara långsiktigt hållbar, med ett humant, rättssäkert och effektivt regelverk som inte väsentligen avviker från de i andra EU-länder.
 
 Ändringarna innebär bland annat att
 
@@ -13,8 +13,8 @@ I propositionen föreslås ändringar i utlänningslagen (2005:716\) för att de
 
 I propositionen föreslås också att det ska införas en möjlighet för vissa statslösa utlänningar som har fötts i Sverige och som har tidsbegränsat uppehållstillstånd att beviljas svenskt medborgarskap.
 
-Lagen (2016:752\) om tillfälliga begränsningar av möjligheten att få uppehållstillstånd i Sverige (den tillfälliga lagen) upphör att gälla den 20 juli 2021\. Därmed upphör begränsningarna av tillämpningen av bestämmelsen om uppehållstillstånd på grund av särskilt och synnerligen ömmande omständigheter som gällde under den tillfälliga lagen. I propositionen gör regeringen bedömningen att barn fortsatt bör kunna beviljas uppehållstillstånd enligt bestämmelsen om särskilt ömmande omständigheter.
+Lagen (2016:752) om tillfälliga begränsningar av möjligheten att få uppehållstillstånd i Sverige (den tillfälliga lagen) upphör att gälla den 20 juli 2021. Därmed upphör begränsningarna av tillämpningen av bestämmelsen om uppehållstillstånd på grund av särskilt och synnerligen ömmande omständigheter som gällde under den tillfälliga lagen. I propositionen gör regeringen bedömningen att barn fortsatt bör kunna beviljas uppehållstillstånd enligt bestämmelsen om särskilt ömmande omständigheter.
 
 Med anledning av förslagen i propositionen föreslås därtill följdändringar i vissa andra lagar.
 
-Lagändringarna föreslås träda i kraft den 20 juli 2021\.
+Lagändringarna föreslås träda i kraft den 20 juli 2021.

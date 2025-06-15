@@ -4,7 +4,7 @@ Lagen om finansiell samordning av rehabiliteringsinsatser ger Arbetsförmedlinge
 
 Regeringen föreslår i propositionen att lagen om ersättning för viss mervärdesskatt för kommuner och landsting ändras så att även samordningsförbund som bedriver verksamhet enligt lagen om finansiell samordning av rehabiliteringsinsatser ska ha rätt till ersättning på samma sätt som gäller för kommuner, landsting och kommunalförbund.
 
-Ändringen föreslås träda i kraft den 1 juli 2012, men tillämpas för ersättning från och med den 1 januari 2010\.
+Ändringen föreslås träda i kraft den 1 juli 2012, men tillämpas för ersättning från och med den 1 januari 2010.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

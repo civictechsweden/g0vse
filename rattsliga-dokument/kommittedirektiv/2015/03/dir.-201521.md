@@ -11,6 +11,6 @@ Utredaren ska:
 * analysera ramvillkorens betydelse för företagens möjligheter att få finansiering, särskilt med beaktande av förändringar som genomförts de senaste åren,
 * kartlägga instrument och metoder för riskdelning och samverkan mellan offentligt och privat kapital.
 
-Om utredaren kommer till slutsatsen att nya insatser eller förändringar av befintliga insatser för att stödja finansieringen av nya, små och medelstora företag är motiverade, ska utredaren föreslå hur de ska utformas. I den mån åtgärderna har stats\-finansiella konsekvenser ska utredaren också föreslå hur insatserna ska finansieras. Uppdraget ska genomföras i nära dialog med Regeringskansliet (Näringsdepartementet).
+Om utredaren kommer till slutsatsen att nya insatser eller förändringar av befintliga insatser för att stödja finansieringen av nya, små och medelstora företag är motiverade, ska utredaren föreslå hur de ska utformas. I den mån åtgärderna har stats-finansiella konsekvenser ska utredaren också föreslå hur insatserna ska finansieras. Uppdraget ska genomföras i nära dialog med Regeringskansliet (Näringsdepartementet).
 
-Uppdraget ska redovisas senast den 15 juni 2015\.
+Uppdraget ska redovisas senast den 15 juni 2015.

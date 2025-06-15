@@ -12,6 +12,6 @@ I uppdraget ingår att:
 2. Utveckla sam­ord­ningen mellan den nationella, regionala och lokala nivån.
 3. Stärka och utveckla dialogen mellan myndig­heter och tros­sam­funden och andra aktörer i det civila samhället.
 
-Uppdraget inleds direkt och ska ske i sam­verkan med Myndig­heten för sam­hälls­skydd och beredskap, Myndig­heten för stöd till tros­samfund, Myndig­heten för psyko­logiskt försvar, Myndig­heten för ungdoms\- och civil­sam­hälles­frågor, Polis­myndig­heten, Social­styrelsen och Säker­hets­polisen. Dialog ska föras med tros­samfund och andra relevanta aktörer, till exempel med föreningar och organisa­tioner i civila sam­hället och med Sveriges Kommuner och Regioner.
+Uppdraget inleds direkt och ska ske i sam­verkan med Myndig­heten för sam­hälls­skydd och beredskap, Myndig­heten för stöd till tros­samfund, Myndig­heten för psyko­logiskt försvar, Myndig­heten för ungdoms- och civil­sam­hälles­frågor, Polis­myndig­heten, Social­styrelsen och Säker­hets­polisen. Dialog ska föras med tros­samfund och andra relevanta aktörer, till exempel med föreningar och organisa­tioner i civila sam­hället och med Sveriges Kommuner och Regioner.
 
 Senast den 29 augusti 2024 ska uppdraget redovisas till Regerings­kansliet (Justitie­departe­mentet).

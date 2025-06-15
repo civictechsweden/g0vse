@@ -6,6 +6,6 @@ För straffansvar ska krävas att någon utger sig för att vara en annan person
 
 Olovlig identitetsanvändning ska enligt förslaget få åtalas av åklagare endast om målsäganden anger brottet till åtal eller om åtal är påkallat från allmän synpunkt. Härutöver föreslås att brottet olaga förföljelse ska omfatta gärningar som utgör olovlig identitetsanvändning.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2016\.
+Lagändringarna föreslås träda i kraft den 1 juli 2016.
 
-[Pressmeddelande: Id\-kapningar kriminaliseras](/pressmeddelanden/2016/02/id-kapningar-kriminaliseras/)
+[Pressmeddelande: Id-kapningar kriminaliseras](/pressmeddelanden/2016/02/id-kapningar-kriminaliseras/)

@@ -1,6 +1,6 @@
 # Regeringen avsätter 658 miljoner för inköp av läroböcker
 
-– I många skolor saknar elever och lärare tillgång till läromedel av hög kvalitet. Genom det här statsbidraget får Sveriges skolor möjlighet att köpa in ungefär 1,3 miljoner läroböcker under 2024\. Det är ett viktigt steg i vår strävan mot principen om en lärobok per elev och ämne, säger skolminister Lotta Edholm.
+– I många skolor saknar elever och lärare tillgång till läromedel av hög kvalitet. Genom det här statsbidraget får Sveriges skolor möjlighet att köpa in ungefär 1,3 miljoner läroböcker under 2024. Det är ett viktigt steg i vår strävan mot principen om en lärobok per elev och ämne, säger skolminister Lotta Edholm.
 
 Skolverket har nu beslutat om bidragsramarna för 2024 gällande statsbidraget för inköp av läroböcker. Bidragsramarna är den summa som avgör hur mycket varje kommun och fristående huvudman kan söka.
 
@@ -10,8 +10,9 @@ Statsbidraget gör det möjligt för skolhuvudmän att söka medel för att köp
 
 Tabellen nedan visar hur mycket de kommunala skolorna i respektive län kan ansöka om. Se bidragsramen för de fristående huvudmännen på Skolverkets webbplats.
 
-| Blekinge län | 8 281 730 kr |
+|  |  |
 | --- | --- |
+| Blekinge län | 8 281 730 kr |
 | Dalarnas län | 16 186 871 kr |
 | Gotlands län | 2 985 510 kr |
 | Gävleborgs län | 14 899 469 kr |

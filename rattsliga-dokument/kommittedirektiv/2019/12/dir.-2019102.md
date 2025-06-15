@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * om det är möjligt med hänsyn till förutsättningarna i mervärdesskattedirektivet, i syfte att kraftigt förenkla beskattningen och regelverket, lämna ett förslag till ett frivilligt system där även mervärdesbeskattningen bestäms schablonmässigt för de näringsidkare som tillämpar alternativet där inkomstbeskattningen bestäms schablonmässigt.
 
 Den del av uppdraget som handlar om att utvärdera och analysera den
-grundläggande strukturen för beskattning av enskilda näringsidkare inom det konventionella systemet för inkomstbeskattningen ska redovisas i ett delbetänkande senast den 1 september 2020\. Uppdraget i övrigt ska redovisas senast den 1 juli 2021\.
+grundläggande strukturen för beskattning av enskilda näringsidkare inom det konventionella systemet för inkomstbeskattningen ska redovisas i ett delbetänkande senast den 1 september 2020. Uppdraget i övrigt ska redovisas senast den 1 juli 2021.

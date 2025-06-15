@@ -15,4 +15,4 @@ Regeringen föreslår att SIS ska få utökade möjligheter att vid särskilda u
 * ytterligare begränsningar och kontroll av användningen av elektroniska kommunikationstjänster
 * begränsningar och kontroll av besök. Ett besök ska bland annat få villkoras med att besökaren genomgår kroppsvisitation om det är nödvändigt av säkerhetsskäl. SiS ska även, om det behövs, undersöka om den som barnet eller den unge vill kommunicera med eller få besök av är dömd eller misstänkt för brott.
 
-Lagändringarna föreslås träda i kraft den 15 maj 2024\.
+Lagändringarna föreslås träda i kraft den 15 maj 2024.

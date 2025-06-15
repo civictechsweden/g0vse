@@ -16,4 +16,4 @@ ska vara både behov och ändamålsenlighet. Tillståndsprocessen stärker
 också Polismyndighetens möjligheter till ledning och kontroll av ordningsvakter. Ett beslut om tillstånd att använda ordningsvakter får under
 vissa förutsättningar återkallas.
 
-De nya reglerna föreslås träda i kraft den 1 januari 2024\.
+De nya reglerna föreslås träda i kraft den 1 januari 2024.

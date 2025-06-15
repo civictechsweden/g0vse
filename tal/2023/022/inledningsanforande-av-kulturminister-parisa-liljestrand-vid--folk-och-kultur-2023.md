@@ -4,8 +4,7 @@ Inledningsanförande av kulturminister Parisa Liljestrand vid det kulturpolitisk
 
 Det talade ordet gäller.
 
-
-Det är en väldigt speciell känsla att stå här och tala inför just er. I den här salen sitter konstnärer, regissörer, författare och musiker. Kulturskapare. Här sitter också kulturpolitiker och \-tjänstemän, representanter för institutioner och myndigheter, evenemangsarrangörer och entreprenörer. Kulturens möjliggörare, som står för infrastrukturen. Och inte minst finns här, och dit kan jag nog räkna er alla, vana kulturkonsumenter.
+Det är en väldigt speciell känsla att stå här och tala inför just er. I den här salen sitter konstnärer, regissörer, författare och musiker. Kulturskapare. Här sitter också kulturpolitiker och -tjänstemän, representanter för institutioner och myndigheter, evenemangsarrangörer och entreprenörer. Kulturens möjliggörare, som står för infrastrukturen. Och inte minst finns här, och dit kan jag nog räkna er alla, vana kulturkonsumenter.
 
 Som kulturminister vet jag att det är mycket tack vare er, ert engagemang och ert hårda arbete, som Sverige kan skryta med ett så fantastiskt kulturliv.
 
@@ -19,7 +18,7 @@ Hemma hos oss var sång, dans, musik och dikt närvarande i vardagen. Det ström
 
 Men trots en kulturell identitet och bakgrund, så växte jag inte upp med de referenser och kulturella koder som krävs för att låsa upp dörren till den svenska kulturen och dess – ibland – slutna rum. Kontexten var ny, den kulturella identiteten och arvet var nytt och mina tidigare referensramar fungerade inte. Jag tappade en del av min identitet. Men jag hade tur, för jag mottogs i ett sammanhang som bildade mig i en ny kulturell kontext. Och undan för undan låstes de slutna rummen upp och jag blev rikare.
 
-I morgon ordnas ett scensamtal här på Folk och Kultur med titeln ”’Jag har aldrig sett teater eller dans’ säger 18\-årig gymnasist.” Tillgång till kulturen får aldrig vara en fråga om klass eller bakgrund. Vi behöver gemensamma insatser för att slipa ned trösklarna. När Riksteatern sätter upp sina föreställningar på Eskilstuna Teater kostar en ungdomsbiljett 95 kronor, betydligt billigare än en biobiljett. Ändå är jag rätt säker på att det är fler 18\-åringar som aldrig varit på teater än som aldrig varit på bio.
+I morgon ordnas ett scensamtal här på Folk och Kultur med titeln ”’Jag har aldrig sett teater eller dans’ säger 18-årig gymnasist.” Tillgång till kulturen får aldrig vara en fråga om klass eller bakgrund. Vi behöver gemensamma insatser för att slipa ned trösklarna. När Riksteatern sätter upp sina föreställningar på Eskilstuna Teater kostar en ungdomsbiljett 95 kronor, betydligt billigare än en biobiljett. Ändå är jag rätt säker på att det är fler 18-åringar som aldrig varit på teater än som aldrig varit på bio.
 
 Tillgång till olika kulturformer är alltså inte bara en fråga om pengar, om entréavgifter och biljettpriser. Saknar man de kulturella koderna, kan kulturlivet och kulturarvet upplevas som väldigt avlägset. Som någon annans. Den guldfoajé som för många är porten till en värld av upplevelser, blir för andra en signal om att vända i dörren. Det är tio stopp på blå linjen från Husby till Kungliga Dramatiska Teatern, femton minuters cykelväg från Rosengård till Malmöoperan. För många upplevs det avståndet som en milsvid öken.
 
@@ -33,7 +32,7 @@ Kriget i Ukraina är en väckarklocka, en påminnelse om att det gemensamma kult
 
 Kriget i Ukraina är också en påminnelse om att kulturarvet är en måltavla. Konst stjäls för ekonomisk vinning. Arkiv och historiska artefakter förstörs för att påverka historieskrivning och erodera kulturella identiteter. Fria och oberoende medier är de auktoritära krafternas värsta fiende. Beredskapsfrågorna kommer att ta mer plats i kulturpolitiken framöver.
 
-På 80\-talet kom jag från Iran – ett land präglat av förtryck, till Sverige – att land med starka medborgerliga fri\- och rättigheter. I vuxen ålder, som lärare och rektor, har jag sett det som min uppgift att utrusta barn och unga med kunskap och förståelse om vad dessa friheter och rättigheter innebär. Den resan påverkar mig också som kulturminister.
+På 80-talet kom jag från Iran – ett land präglat av förtryck, till Sverige – att land med starka medborgerliga fri- och rättigheter. I vuxen ålder, som lärare och rektor, har jag sett det som min uppgift att utrusta barn och unga med kunskap och förståelse om vad dessa friheter och rättigheter innebär. Den resan påverkar mig också som kulturminister.
 
 Med makt följer ansvar, och för min del handlar det ansvaret bland annat om att sätta gränser för mitt eget inflytande.
 

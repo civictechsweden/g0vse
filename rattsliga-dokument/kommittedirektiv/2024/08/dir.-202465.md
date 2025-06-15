@@ -7,10 +7,10 @@ Arbetet ska komplettera det som redan görs i dag inom beredskapssektorerna. Sy
 Rådgivaren ska bland annat
 
 * följa upp och analysera arbetet med en stärkt försörjningsberedskap,
-framför allt inom beredskapssektorerna, belysa hinder samt utifrån detta lämna förslag på kompletterande åtgärder i syfte att driva arbetet framåt,
+  framför allt inom beredskapssektorerna, belysa hinder samt utifrån detta lämna förslag på kompletterande åtgärder i syfte att driva arbetet framåt,
 * ge förslag på, och vid behov initiera, samarbeten mellan statliga aktörer
-och privata aktörer för att underlätta näringslivets beredskapsplanering
-och möjlighet att solidariskt kunna stödja Sverige under kris, höjd
-beredskap och ytterst krig.
+  och privata aktörer för att underlätta näringslivets beredskapsplanering
+  och möjlighet att solidariskt kunna stödja Sverige under kris, höjd
+  beredskap och ytterst krig.
 
-Uppdraget ska redovisas senast den 30 november 2026\.
+Uppdraget ska redovisas senast den 30 november 2026.

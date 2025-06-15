@@ -1,7 +1,6 @@
 # Viktigare lagar och förordningar inför halvårsskiftet 2022
 
-Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och förordningar som träder i kraft kring halvårsskiftet 2022\.
-
+Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och förordningar som träder i kraft kring halvårsskiftet 2022.
 
 ## Innehållsförteckning
 
@@ -15,7 +14,7 @@ Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och f
 
 [Arbetsrätten reformeras](#a1)
 
-[Ett grundläggande omställnings\- och kompetensstöd införs](#a2)
+[Ett grundläggande omställnings- och kompetensstöd införs](#a2)
 
 [Nya regler för att främja tydliga och förutsägbara arbetsvillkor](#a3)
 
@@ -29,7 +28,7 @@ Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och f
 
 [Nedsättning av förmånsvärdet för miljöanpassade bilar ändras](#f1)
 
-[Miljöstyrningen skärps i bonus\-malus\-systemet](#f2)
+[Miljöstyrningen skärps i bonus-malus-systemet](#f2)
 
 [Förstärkt nedsättning av arbetsgivaravgifter för 19–23 åringar under sommaren 2022](#f3)
 
@@ -41,15 +40,15 @@ Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och f
 
 [En mer förutsägbar byggprocess med certifierade byggprojekteringsföretag införs](#f7)
 
-[Insatser på plan\- och byggområdet med anledning av invasionen av Ukraina](#f8)
+[Insatser på plan- och byggområdet med anledning av invasionen av Ukraina](#f8)
 
-[Undantag från plan\- och byggregler för kommunala ankomstboenden för vissa utlänningar](#f9)
+[Undantag från plan- och byggregler för kommunala ankomstboenden för vissa utlänningar](#f9)
 
-[Undantag från plan\- och byggregler för enkla förläggningar för vissa utlänningar](#f10)
+[Undantag från plan- och byggregler för enkla förläggningar för vissa utlänningar](#f10)
 
-[Hållbarhetsmål införs för Sjätte AP\-fondens placeringsverksamhet](#f11)
+[Hållbarhetsmål införs för Sjätte AP-fondens placeringsverksamhet](#f11)
 
-[Utvidgad rätt till återköp och flytt av fond\- och depåförsäkringar](#f12)
+[Utvidgad rätt till återköp och flytt av fond- och depåförsäkringar](#f12)
 
 [En effektivare överprövning av offentliga upphandlingar införs](#f13)
 
@@ -75,7 +74,7 @@ Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och f
 
 [Kontaktpunkt för ärenden om tillstånd till starkströmsledningar och kortare tidsfrister för beslut införs](#i6)
 
-[Fjärrkyle\- och fjärrvärmekunder samt lägenhetsinnehavare ska kunna styra och minska sin energianvändning](#i7)
+[Fjärrkyle- och fjärrvärmekunder samt lägenhetsinnehavare ska kunna styra och minska sin energianvändning](#i7)
 
 [Ny lag möjliggör säkrare och mer effektiv elektronisk kommunikation](#i8)
 
@@ -129,7 +128,7 @@ Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och f
 
 [Förbättrade förutsättningar för ett europeiskt samarbete om gränsförvaltning](#j23)
 
-[Enskilda får rätt till grundlagsskadestånd vid överträdelser av grundläggande fri\- och rättigheter enligt regeringsformen](#j24)
+[Enskilda får rätt till grundlagsskadestånd vid överträdelser av grundläggande fri- och rättigheter enligt regeringsformen](#j24)
 
 [Jämlika regler om föräldraskap införs i internationella situationer](#j25)
 
@@ -213,7 +212,7 @@ Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och f
 
 [Åtgärder för att förbättra skolans arbete med trygghet och studiero](#u10)
 
-[Ansvar för genomförande av högskoleprovet överförs permanent till Universitets\- och högskolerådet](#u11)
+[Ansvar för genomförande av högskoleprovet överförs permanent till Universitets- och högskolerådet](#u11)
 
 [Fler kan erbjudas folkbildningsinsatsen Svenska från dag 1](#u12)
 
@@ -239,7 +238,7 @@ Om du vill veta mer om propositioner, lagar och förordningar hittar du informat
 
 Lagstiftningsprocessen finns beskriven under rubriken ”Så styrs Sverige” på www.regeringen.se.
 
-Den här sammanställningen kan laddas ner på www.regeringen.se. Vid publicering har vissa lagar ännu inte hunnit få några SFS\-nummer. Det gäller nummer som slutar på ”000” (till exempel 2020:000\).
+Den här sammanställningen kan laddas ner på www.regeringen.se. Vid publicering har vissa lagar ännu inte hunnit få några SFS-nummer. Det gäller nummer som slutar på ”000” (till exempel 2020:000).
 
 ### Information om svensk lagstiftning
 
@@ -250,7 +249,7 @@ Sveriges riksdags webbplats: www.riksdagen.se
 
 ## Statsrådsberedningen
 
-Statsrådsberedningen ansvarar för att leda och samordna arbetet i Regeringskansliet samt för att samordna den svenska EU\-politiken.
+Statsrådsberedningen ansvarar för att leda och samordna arbetet i Regeringskansliet samt för att samordna den svenska EU-politiken.
 
 ### Kontakt
 
@@ -258,46 +257,46 @@ Statsrådsberedningen ansvarar för att leda och samordna arbetet i Regeringskan
 
 Pressekreterare Darina Agha
 
-Tfn 073\-592 85 48
+Tfn 073-592 85 48
 
 Pressekreterare Johan Ekström:
 
-Tfn 073\-086 32 01
+Tfn 073-086 32 01
 
-**Presskontakt hos EU\-minister Hans Dahlgren:**
+**Presskontakt hos EU-minister Hans Dahlgren:**
 
 Pressekreterare Victoria Frisk Garcia
 
-Tfn 073\-047 23 12
+Tfn 073-047 23 12
 
 Till halvårsskiftet 2022 träder inga lagar i kraft inom Statsrådsberedningens ansvarsområden.
 
 ## Arbetsmarknadsdepartementet
 
-Arbetsmarknadsdepartementet ansvarar för frågor och ärenden som rör arbetsmarknad, arbetsrätt och arbetsmiljö. Departementet ansvarar också för arbetet för ökad jämställdhet mellan kvinnor och män och mänskliga rättigheter på nationell nivå. Dessutom ansvarar departementet för arbetet mot rasism och diskriminering samt för att stärka hbtqi\-personers (homosexuella, bisexuella, transpersoner, queer och intersexpersoner) rättigheter.
+Arbetsmarknadsdepartementet ansvarar för frågor och ärenden som rör arbetsmarknad, arbetsrätt och arbetsmiljö. Departementet ansvarar också för arbetet för ökad jämställdhet mellan kvinnor och män och mänskliga rättigheter på nationell nivå. Dessutom ansvarar departementet för arbetet mot rasism och diskriminering samt för att stärka hbtqi-personers (homosexuella, bisexuella, transpersoner, queer och intersexpersoner) rättigheter.
 
 ### Kontakt
 
-**Presskontakt hos arbetsmarknads\- och jämställdhetsminister Eva Nordmark:**
+**Presskontakt hos arbetsmarknads- och jämställdhetsminister Eva Nordmark:**
 
 Pressekreterare Yasmin Hussein
 
-Tfn 073\-076 73 27
+Tfn 073-076 73 27
 
 **Presskontakt hos bostadsminister och biträdande arbetsmarknadsminister Johan Danielsson:**
 
 Pressekreterare Tora Heckscher
 
-Tfn 073\-0935083
+Tfn 073-0935083
 
 ### Arbetsrätten reformeras
 
-**Ändringar:** Lag (1982:80\) om anställningsskydd, lag (2012:854\) om uthyrning av arbetstagare m.fl.
+**Ändringar:** Lag (1982:80) om anställningsskydd, lag (2012:854) om uthyrning av arbetstagare m.fl.
 
 **Beslutsunderlag:** Prop. 2021/22:176 Flexibilitet, omställningsförmåga och trygghet på arbetsmarknaden
 
 **SFS:** 2022:835–2022:848
-Ikraftträdande: 30 juni 2022 (tillämpas från 1 oktober 2022\)
+Ikraftträdande: 30 juni 2022 (tillämpas från 1 oktober 2022)
 
 Ändringarna innebär bland annat ökade möjligheter till kollektivavtalsavvikelser från lagen om anställningsskydd, att en anställning som utgångspunkt gäller på heltid och att särskild visstidsanställning införs.
 
@@ -305,13 +304,13 @@ Vidare innebär ändringarna att uppsägning från arbetsgivaren ska grunda sig 
 
 Lagändringarna är en av tre delar i omställningspaketet för långsiktigt förbättrad flexibilitet, omställningsförmåga och trygghet på arbetsmarknaden.
 
-### Ett grundläggande omställnings\- och kompetensstöd införs
+### Ett grundläggande omställnings- och kompetensstöd införs
 
-**Ny lag:** Lag (2022:000\) om grundläggande omställnings\- och kompetensstöd
+**Ny lag:** Lag (2022:000) om grundläggande omställnings- och kompetensstöd
 
-**Ny förordning:** Förordning (2022:000\) om grundläggande omställnings\- och kompetensstöd och förordning (2022:000\) om ikraftträdande av lagen om grundläggande omställnings\- och kompetensstöd
+**Ny förordning:** Förordning (2022:000) om grundläggande omställnings- och kompetensstöd och förordning (2022:000) om ikraftträdande av lagen om grundläggande omställnings- och kompetensstöd
 
-**Ändringar:** Förordning (2007:824\) med instruktion för Kammarkollegiet och förordning (2001:588\) om behandling av uppgifter i Skatteverkets beskattningsverksamhet
+**Ändringar:** Förordning (2007:824) med instruktion för Kammarkollegiet och förordning (2001:588) om behandling av uppgifter i Skatteverkets beskattningsverksamhet
 
 **Beslutsunderlag:** Prop. 2021/22:176 Flexibilitet, omställningsförmåga och trygghet på arbetsmarknaden
 
@@ -319,15 +318,15 @@ Lagändringarna är en av tre delar i omställningspaketet för långsiktigt fö
 
 **Ikraftträdande:** 30 juni och 1 oktober 2022
 
-Enskilda personer som inte omfattas av kollektivavtal ska kunna få ett offentligt grundläggande omställnings\- och kompetensstöd genom staten. Det offentliga stödet lämnas i form av rådgivning, vägledning och förstärkt stöd.
+Enskilda personer som inte omfattas av kollektivavtal ska kunna få ett offentligt grundläggande omställnings- och kompetensstöd genom staten. Det offentliga stödet lämnas i form av rådgivning, vägledning och förstärkt stöd.
 
-Det införs även en statlig ersättning till arbetsgivare som finansierar registrerade omställningsorganisationer som tillhandahåller grundläggande omställnings\- och kompetensstöd som väsentligen motsvarar det offentliga stödet. Kammarkollegiet ansvarar för det grundläggande omställnings\- och kompetensstödet.
+Det införs även en statlig ersättning till arbetsgivare som finansierar registrerade omställningsorganisationer som tillhandahåller grundläggande omställnings- och kompetensstöd som väsentligen motsvarar det offentliga stödet. Kammarkollegiet ansvarar för det grundläggande omställnings- och kompetensstödet.
 
-Det grundläggande omställnings\- och kompetensstödet syftar till att stärka enskilda personers framtida ställning på den svenska arbetsmarknaden. Den nya lagen är en av tre delar i omställningspaketet för långsiktigt förbättrad flexibilitet, omställnings­förmåga och trygghet på arbetsmarknaden.
+Det grundläggande omställnings- och kompetensstödet syftar till att stärka enskilda personers framtida ställning på den svenska arbetsmarknaden. Den nya lagen är en av tre delar i omställningspaketet för långsiktigt förbättrad flexibilitet, omställnings­förmåga och trygghet på arbetsmarknaden.
 
 ### Nya regler för att främja tydliga och förutsägbara arbetsvillkor
 
-**Ändringar:** Lag (1982:80\) om anställningsskydd med flera lagar
+**Ändringar:** Lag (1982:80) om anställningsskydd med flera lagar
 
 **Beslutsunderlag:** Prop. 2021/22:151 Genomförande av arbetsvillkorsdirektivet
 
@@ -349,13 +348,13 @@ Ett nytt statsbidrag inrättas i syfte att stärka det våldsförebyggande arbet
 
 ### Tillfälligt statsbidrag för kvalitetshöjande åtgärder på skyddade boenden
 
-**Ny förordning:** Förordning (2022:291\) om tillfälligt statsbidrag till ideella organisationer för kvalitetshöjande åtgärder på skyddade boenden
+**Ny förordning:** Förordning (2022:291) om tillfälligt statsbidrag till ideella organisationer för kvalitetshöjande åtgärder på skyddade boenden
 
 **SFS:** 2022:291
 
 **Ikraftträdande:** 1 juni 2022
 
-Regeringen har i budgetpropositionen för 2022 aviserat en reform där skyddat boende regleras som en ny placeringsform enligt socialtjänstlagen (2001:453\) och även blir tillståndspliktigt och förenat med kvalitetskrav. För att skapa förutsättningar för ideella organisationer som driver skyddade boenden att kunna möta de kommande kvalitetskraven inrättas ett nytt tillfälligt statsbidrag i syfte att stödja organisationerna att genom tillfälliga åtgärder utveckla kvaliteten i verksamheten. Statsbidraget fördelas efter ansökan av Socialstyrelsen.
+Regeringen har i budgetpropositionen för 2022 aviserat en reform där skyddat boende regleras som en ny placeringsform enligt socialtjänstlagen (2001:453) och även blir tillståndspliktigt och förenat med kvalitetskrav. För att skapa förutsättningar för ideella organisationer som driver skyddade boenden att kunna möta de kommande kvalitetskraven inrättas ett nytt tillfälligt statsbidrag i syfte att stödja organisationerna att genom tillfälliga åtgärder utveckla kvaliteten i verksamheten. Statsbidraget fördelas efter ansökan av Socialstyrelsen.
 
 ### Etableringsjobb – en helt ny modell införs för staten att stimulera anställningar för långtidsarbetslösa och nyanlända
 
@@ -379,27 +378,27 @@ Finansdepartementet ansvarar för frågor som rör statens ekonomi. Det handlar 
 
 Pressekreterare Mirjam Kontio
 
-Tfn 073\-074 05 57
+Tfn 073-074 05 57
 
 Pressekreterare Per Strängberg
 
-Tfn 073\-093 90 56
+Tfn 073-093 90 56
 
 **Presskontakt hos finansmarknadsminister Max Elger:**
 
 Pressekreterare Simon Sätherberg
 
-Tfn 073\-086 23 07
+Tfn 073-086 23 07
 
 **Presskontakt hos civilminister Ida Karkiainen:**
 
 Pressekreterare Jonas Lannering
 
-Tfn  073\-057 23 36
+Tfn  073-057 23 36
 
 ### Nedsättning av förmånsvärdet för miljöanpassade bilar ändras
 
-**Ändring:** Lag om ändring i inkomstskattelagen (1999:1229\)
+**Ändring:** Lag om ändring i inkomstskattelagen (1999:1229)
 
 **Beslutsunderlag:** Prop. 2021/22:173 Ändrad nedsättning av förmånsvärdet för miljöanpassade bilar
 
@@ -409,23 +408,23 @@ Tfn  073\-057 23 36
 
 Lagändringen innebär att nedsättningen av förmånsvärdet för miljöanpassade bilar ändras. Nybilspriset vid beräkningen av förmånsvärdet sätts ned med ett fast schabloniserat belopp som utgår från bilens miljöteknik, istället för att utgå från nybilspriset för närmast jämförbara konventionella bil. Nedsättningens storlek baseras huvudsakligen på den genomsnittliga nedsättning som görs i dag för respektive fordonstyp och uppgår till 350 000 kronor för elbilar och vätgasbilar, 140 000 kronor för laddhybrider och 100 000 kronor för gasbilar.
 
-Nedsättnings­beloppets storlek får dock inte överstiga 50 procent av bilens nybilspris. Ändringen gäller för bilar som blir skattepliktiga enligt vägtrafikskattelagen (2006:227\) för första gången från och med 1 juli 2022\.
+Nedsättnings­beloppets storlek får dock inte överstiga 50 procent av bilens nybilspris. Ändringen gäller för bilar som blir skattepliktiga enligt vägtrafikskattelagen (2006:227) för första gången från och med 1 juli 2022.
 
-### Miljöstyrningen skärps i bonus–malus\-systemet
+### Miljöstyrningen skärps i bonus–malus-systemet
 
-**Ändring:** Lag om ändring i vägtrafikskattelagen (2006:227\)
+**Ändring:** Lag om ändring i vägtrafikskattelagen (2006:227)
 
-**Beslutsunderlag:** Prop. 2021/22:91 Skärpt miljöstyrning i bonus–malus\-systemet
+**Beslutsunderlag:** Prop. 2021/22:91 Skärpt miljöstyrning i bonus–malus-systemet
 
 **SFS:** 2022:349
 
 **Ikraftträdande:** 1 juni 2022
 
-Regeringen har i budgetpropositionen för 2022 bedömt att miljöstyrningen i det så kallade bonus–malus\-systemet bör skärpas. Den nedre gränsen för när det förhöjda koldioxidbeloppet tas ut sänks därför från 90 till 75 gram koldioxid per kilometer och gränsen för när den högre nivån på det förhöjda koldioxidbeloppet tas ut sänks från 130 till 125 gram per kilometer.
+Regeringen har i budgetpropositionen för 2022 bedömt att miljöstyrningen i det så kallade bonus–malus-systemet bör skärpas. Den nedre gränsen för när det förhöjda koldioxidbeloppet tas ut sänks därför från 90 till 75 gram koldioxid per kilometer och gränsen för när den högre nivån på det förhöjda koldioxidbeloppet tas ut sänks från 130 till 125 gram per kilometer.
 
 ### Förstärkt nedsättning av arbetsgivaravgifter för 19–23 åringar under sommaren 2022
 
-**Ändring:** Lag om ändring i lagen (2021:55\) om särskild beräkning av arbetsgivaravgifter och allmän löneavgift för personer som vid årets ingång fyllt 18 men inte 23 år
+**Ändring:** Lag om ändring i lagen (2021:55) om särskild beräkning av arbetsgivaravgifter och allmän löneavgift för personer som vid årets ingång fyllt 18 men inte 23 år
 
 **Beslutsunderlag:** Prop. 2021/22:97 Förstärkt nedsättning av arbetsgivaravgifter för­ 19–23 åringar under sommaren 2022
 
@@ -433,11 +432,11 @@ Regeringen har i budgetpropositionen för 2022 bedömt att miljöstyrningen i de
 
 **Ikraftträdande:** 1 juni 2022
 
-Lagändringen utgör en tillfällig förstärkning av nedsättningen av arbetsgivaravgifter för personer som vid årets ingång har fyllt 18 men inte 23 år. Förstärkningen av nedsättningen innebär att endast ålderspensionsavgiften på 10,21 procent ska betalas för ersättning som utges under juni, juli och augusti 2022\.
+Lagändringen utgör en tillfällig förstärkning av nedsättningen av arbetsgivaravgifter för personer som vid årets ingång har fyllt 18 men inte 23 år. Förstärkningen av nedsättningen innebär att endast ålderspensionsavgiften på 10,21 procent ska betalas för ersättning som utges under juni, juli och augusti 2022.
 
 ### Ytterligare sänkt mervärdesskatt på vissa reparationer
 
-**Ändring:** Lag om ändring i mervärdesskattelagen (1994:200\)
+**Ändring:** Lag om ändring i mervärdesskattelagen (1994:200)
 
 **Beslutsunderlag:** Prop. 2021/22:96 Ytterligare sänkt mervärdesskatt på vissa reparationer
 
@@ -449,7 +448,7 @@ Mervärdesskatten för reparationer av cyklar, skor, lädervaror, kläder och hu
 
 ### Höjd omsättningsgräns för befrielse från mervärdesskatt
 
-**Ändring:** Lag om ändring i mervärdesskattelagen (1994:200\)
+**Ändring:** Lag om ändring i mervärdesskattelagen (1994:200)
 
 **Beslutsunderlag:** Prop. 2021/22:110 Höjd omsättningsgräns för befrielse från mervärdesskatt
 
@@ -461,7 +460,7 @@ Omsättningsgränsen för befrielse från mervärdesskatt höjs från dagens 30 
 
 ### Skattelättnad för avgift till arbetslöshetskassa
 
-**Ändringar:** Lag om ändring i inkomstskattelagen (1999:1229\) och lag om ändring i skatteförfarandelagen (2011:1244\)
+**Ändringar:** Lag om ändring i inkomstskattelagen (1999:1229) och lag om ändring i skatteförfarandelagen (2011:1244)
 
 **Beslutsunderlag:** Prop. 2021/22:126 Skattereduktion för avgift till arbetslöshetskassa
 
@@ -471,11 +470,11 @@ Omsättningsgränsen för befrielse från mervärdesskatt höjs från dagens 30 
 
 Den nya skattelättnaden för avgift till arbetslöshetskassa innebär att 25 procent av den avgift som en medlem under året har betalat till en svensk arbetslöshetskassa ger rätt till en avräkning mot den beräknade skatten. I underlaget för skattereduktion ska efter begäran även avgift till en utländsk arbetslöshetskassa medräknas.
 
-Arbetslöshets­kassorna ska lämna kontrolluppgift till Skatteverket om betald avgift till arbetslöshetskassa. Om avgift betalats till en utländsk arbetslöshetskassa ska dock medlemmen själv lämna uppgift om betald avgift i inkomstdeklarationen. De nya bestämmelserna träder i kraft 1 juli 2022 och tillämpas på avgifter som betalas efter 30 juni 2022\.
+Arbetslöshets­kassorna ska lämna kontrolluppgift till Skatteverket om betald avgift till arbetslöshetskassa. Om avgift betalats till en utländsk arbetslöshetskassa ska dock medlemmen själv lämna uppgift om betald avgift i inkomstdeklarationen. De nya bestämmelserna träder i kraft 1 juli 2022 och tillämpas på avgifter som betalas efter 30 juni 2022.
 
 ### En mer förutsägbar byggprocess med certifierade byggprojekteringsföretag införs
 
-**Ändringar:** Plan\- och bygglagen (2010:900\) och plan\- och byggförordningen (2011:338\)
+**Ändringar:** Plan- och bygglagen (2010:900) och plan- och byggförordningen (2011:338)
 
 **Beslutsunderlag:** Prop. 2021/22:212 Certifierade byggprojekteringsföretag – en mer förutsägbar byggprocess
 
@@ -483,75 +482,75 @@ Arbetslöshets­kassorna ska lämna kontrolluppgift till Skatteverket om betald 
 
 **Ikraftträdande:** 1 augusti 2022
 
-Ändringen innebär att certifierat byggprojekteringsföretag införs som en ny aktör i plan\- och bygglagen. Ett sådant företag ska kunna bedöma utformningskraven på ändamålsenlighet och tillgänglighet samt tekniska egenskapskrav vid nybyggnad av vissa bostadshus och vara certifierat för ändamålet.
+Ändringen innebär att certifierat byggprojekteringsföretag införs som en ny aktör i plan- och bygglagen. Ett sådant företag ska kunna bedöma utformningskraven på ändamålsenlighet och tillgänglighet samt tekniska egenskapskrav vid nybyggnad av vissa bostadshus och vara certifierat för ändamålet.
 
 Om ett certifierat byggprojekteringsföretag används vid projekteringen av vissa bostadshus ska byggnadsnämnden inte pröva de krav som omfattas av certifieringen inför beslut om bygglov och startbesked.
 
 Ändringen syftar till att öka förutsägbarheten och effektiviteten i byggprocessen samt underlätta repeterbara processer för de byggherrar som använder ett certifierat byggprojekteringsföretag.
 
-### Insatser på plan\- och byggområdet med anledning av invasionen av Ukraina
+### Insatser på plan- och byggområdet med anledning av invasionen av Ukraina
 
-**Ändring:** Plan\- och bygglagen (2010:900\).
+**Ändring:** Plan- och bygglagen (2010:900).
 
-**Beslutsunderlag:** Prop. 2021/22:211 Insatser på plan\- och byggområdet med anledning av invasionen av Ukraina
+**Beslutsunderlag:** Prop. 2021/22:211 Insatser på plan- och byggområdet med anledning av invasionen av Ukraina
 
 **SFS:** 2022:296
 
 **Ikraftträdande:** 2 maj 2022
 
-Ändringen innebär att regeringen ska kunna bestämma om att göra undantag från plan\- och bygglagen för att snabbt kunna anordna boenden vid en särskilt omfattande tillströmning av asylsökande. Ändringen omfattar även boenden för personer som ansöker om eller har uppehållstillstånd med tillfälligt skydd eller efter tillfälligt skydd och som inte är folkbokförda här i landet.
+Ändringen innebär att regeringen ska kunna bestämma om att göra undantag från plan- och bygglagen för att snabbt kunna anordna boenden vid en särskilt omfattande tillströmning av asylsökande. Ändringen omfattar även boenden för personer som ansöker om eller har uppehållstillstånd med tillfälligt skydd eller efter tillfälligt skydd och som inte är folkbokförda här i landet.
 
 Ändringen genomförs mot bakgrund av Rysslands invasion av Ukraina, som innebär en omfattande tillströmning av personer som fördrivits från Ukraina och som omfattas av ett beslut om tillfälligt skydd enligt EU:s så kallade massflyktsdirektiv.
 
-### Undantag från plan\- och byggregler för kommunala ankomstboenden för vissa utlänningar
+### Undantag från plan- och byggregler för kommunala ankomstboenden för vissa utlänningar
 
-**Ny förordning:** Förordning om undantag från plan\- och byggregler för kommunala ankomstboenden för vissa utlänningar
+**Ny förordning:** Förordning om undantag från plan- och byggregler för kommunala ankomstboenden för vissa utlänningar
 **SFS:** 2022:297
 **Ikraftträdande:** 2 maj 2022
 
-Ankomstboenden för personer som avser att ansöka om asyl eller om uppehållstillstånd med tillfälligt skydd undantas från vissa bestämmelser i plan\- och bygglagen (2010:900\) och plan\- och byggförordningen (2011:338\). Undantagen omfattar bland annat kraven på bygglov och marklov, kraven på anmälan, undantag från kraven på hänsyn till vissa allmänna intressen i 2 kap. plan\- och bygglagen samt undantag från utformnings\- och egenskapskraven på byggnadsverk. Förordningen upphör att gälla vid utgången av 2024\.
+Ankomstboenden för personer som avser att ansöka om asyl eller om uppehållstillstånd med tillfälligt skydd undantas från vissa bestämmelser i plan- och bygglagen (2010:900) och plan- och byggförordningen (2011:338). Undantagen omfattar bland annat kraven på bygglov och marklov, kraven på anmälan, undantag från kraven på hänsyn till vissa allmänna intressen i 2 kap. plan- och bygglagen samt undantag från utformnings- och egenskapskraven på byggnadsverk. Förordningen upphör att gälla vid utgången av 2024.
 
-### Undantag från plan\- och byggregler för enkla förläggningar för vissa utlänningar
+### Undantag från plan- och byggregler för enkla förläggningar för vissa utlänningar
 
-**Ny förordning:** Förordning om undantag från plan\- och byggregler för enkla förläggningar för vissa utlänningar
+**Ny förordning:** Förordning om undantag från plan- och byggregler för enkla förläggningar för vissa utlänningar
 
 **SFS:** 2022:298
 
 **Ikraftträdande:** 2 maj 2022
 
-Enkla förläggningar för vissa utlänningar undantas från vissa bestämmelser i plan\- och bygglagen (2010:900\) och plan\- och byggförordningen (2011:338\). Med enkla förläggningar menas byggnadsverk vars konstruktion är av så enkelt slag att de kan flyttas eller rivas med förhållandevis enkla åtgärder och som under en begränsad tid ska användas som en sådan förläggning som avses i 2 § första stycket lagen (1994:137\) om mottagande av asylsökande m.fl.
+Enkla förläggningar för vissa utlänningar undantas från vissa bestämmelser i plan- och bygglagen (2010:900) och plan- och byggförordningen (2011:338). Med enkla förläggningar menas byggnadsverk vars konstruktion är av så enkelt slag att de kan flyttas eller rivas med förhållandevis enkla åtgärder och som under en begränsad tid ska användas som en sådan förläggning som avses i 2 § första stycket lagen (1994:137) om mottagande av asylsökande m.fl.
 
-Undantagen omfattar bland annat kraven på bygglov och marklov, kraven på anmälan, undantag från kraven på hänsyn till vissa allmänna intressen i 2 kap. plan\- och bygglagen samt undantag från utformnings\-och egenskapskraven på byggnadsverk. Förordningen upphör att gälla vid utgången av 2024\.
+Undantagen omfattar bland annat kraven på bygglov och marklov, kraven på anmälan, undantag från kraven på hänsyn till vissa allmänna intressen i 2 kap. plan- och bygglagen samt undantag från utformnings-och egenskapskraven på byggnadsverk. Förordningen upphör att gälla vid utgången av 2024.
 
-### Hållbarhetsmål införs för Sjätte AP\-fondens placeringsverksamhet
+### Hållbarhetsmål införs för Sjätte AP-fondens placeringsverksamhet
 
-**Ändringar:** Lagen (2000:193\) om Sjätte AP\-fonden och lagen (2000:192\) om allmänna pensionsfonder (AP\-fonder)
+**Ändringar:** Lagen (2000:193) om Sjätte AP-fonden och lagen (2000:192) om allmänna pensionsfonder (AP-fonder)
 
-**Beslutsunderlag:** Prop. 2021/22:146 Ett nytt mål för Sjätte AP\-fondens placeringsverksamhet
+**Beslutsunderlag:** Prop. 2021/22:146 Ett nytt mål för Sjätte AP-fondens placeringsverksamhet
 
 **SFS:** 2022:787, 2022:786
 
 **Ikraftträdande:** 1 juli 2022
 
-Genom lagändringarna införs ett hållbarhetsmål för Sjätte AP\-fondens placeringsverksamhet. Målet innebär att fondmedlen ska förvaltas på ett föredömligt sätt genom ansvarsfulla investeringar och ansvarsfullt ägande. Särskild vikt ska fästas vid hur en hållbar utveckling kan uppnås utan att det påverkar det övergripande målet för fondens placeringsverksamhet.
+Genom lagändringarna införs ett hållbarhetsmål för Sjätte AP-fondens placeringsverksamhet. Målet innebär att fondmedlen ska förvaltas på ett föredömligt sätt genom ansvarsfulla investeringar och ansvarsfullt ägande. Särskild vikt ska fästas vid hur en hållbar utveckling kan uppnås utan att det påverkar det övergripande målet för fondens placeringsverksamhet.
 
-Det nya målet är detsamma som sedan 1 januari 2019 gäller för Första–Fjärde AP\-fonderna. En annan ändring är att Första, Andra, Tredje, Fjärde och Sjätte AP\-fonderna ska samverka kring redovisningen av hur målen om föredömlig förvaltning har uppnåtts.
+Det nya målet är detsamma som sedan 1 januari 2019 gäller för Första–Fjärde AP-fonderna. En annan ändring är att Första, Andra, Tredje, Fjärde och Sjätte AP-fonderna ska samverka kring redovisningen av hur målen om föredömlig förvaltning har uppnåtts.
 
-### Utvidgad rätt till återköp och flytt av fond\- och depåförsäkringar
+### Utvidgad rätt till återköp och flytt av fond- och depåförsäkringar
 
-**Ändringar:** Försäkringsavtalslagen (2005:104\), försäkringsrörelselagen (2010:2043\), årsredovisningslagen (1995:1554\) och lagen (1995:1560\) om årsredovisning i försäkringsföretag
+**Ändringar:** Försäkringsavtalslagen (2005:104), försäkringsrörelselagen (2010:2043), årsredovisningslagen (1995:1554) och lagen (1995:1560) om årsredovisning i försäkringsföretag
 
-**Beslutsunderlag:** Prop. 2021/22:74 En utvidgad rätt till återköp och flytt av fond\- och depåförsäkringar
+**Beslutsunderlag:** Prop. 2021/22:74 En utvidgad rätt till återköp och flytt av fond- och depåförsäkringar
 
 **SFS:** 2022:643, 2022:644, 2022:645 och 2022:646
 
 **Ikraftträdande:** 1 juli 2022
 
-Rätten till återköp och flytt av individuella livförsäkringar där försäkringstagarna eller andra ersättningsberättigade bär placeringsrisken, det vill säga fond\- och depåförsäkringar, utvidgas. Ändringarna innebär att rätten till återköp och flytt gäller oavsett när ett fond\- och depåförsäkringsavtal har ingåtts. Tidigare har återköp och flytt endast varit möjliga för avtal som ingåtts efter 1 juli 2007\. De avgifter som får tas ut för återköp och flytt ska vara desamma som sedan tidigare gällt för sådana försäkringsavtal som ingåtts efter 1 juli 2007\.
+Rätten till återköp och flytt av individuella livförsäkringar där försäkringstagarna eller andra ersättningsberättigade bär placeringsrisken, det vill säga fond- och depåförsäkringar, utvidgas. Ändringarna innebär att rätten till återköp och flytt gäller oavsett när ett fond- och depåförsäkringsavtal har ingåtts. Tidigare har återköp och flytt endast varit möjliga för avtal som ingåtts efter 1 juli 2007. De avgifter som får tas ut för återköp och flytt ska vara desamma som sedan tidigare gällt för sådana försäkringsavtal som ingåtts efter 1 juli 2007.
 
 ### En effektivare överprövning av offentliga upphandlingar införs
 
-**Ändringar:** Lagen (2016:1145\) om offentlig upphandling, lagen (2016:1146\) om upphandling inom försörjningssektorerna, lagen (2011:1029\) om upphandling på försvars\- och säkerhetsområdet och lagen (2016:1147\) om upphandling av koncessioner
+**Ändringar:** Lagen (2016:1145) om offentlig upphandling, lagen (2016:1146) om upphandling inom försörjningssektorerna, lagen (2011:1029) om upphandling på försvars- och säkerhetsområdet och lagen (2016:1147) om upphandling av koncessioner
 
 **Beslutsunderlag:** Prop. 2021/22:120 En effektivare överprövning av offentliga upphandlingar
 
@@ -561,15 +560,15 @@ Rätten till återköp och flytt av individuella livförsäkringar där försäk
 
 I mål om offentlig upphandling införs dels ett skyndsamhetskrav och dels så kallade preklusionsfrister, som innebär att parternas möjligheter att efter en viss tidpunkt i domstol åberopa nya fel och brister i upphandlingen, begränsas i både förvaltningsrätten och kammarrätten,.
 
-Ett skyndsamhetskrav införs även i mål om att lämna ut kontrakt enligt upphandlingslagstiftningen. Vidare kortas tidsfristen för att ansöka om överprövning av ett icke\-direktivstyrt avtals giltighet från sex månader till 30 dagar i det fall myndigheten har efterannonserat resultatet av upphandlingen.
+Ett skyndsamhetskrav införs även i mål om att lämna ut kontrakt enligt upphandlingslagstiftningen. Vidare kortas tidsfristen för att ansöka om överprövning av ett icke-direktivstyrt avtals giltighet från sex månader till 30 dagar i det fall myndigheten har efterannonserat resultatet av upphandlingen.
 
-Även fristen för att väcka talan om skadestånd vid fel och brister i en upphandling ändras för att överensstämma med EU\-rätten. Slutligen införs tidsgränser på fem och tre år vid beslut om uteslutning av en leverantör på grund av brott respektive missförhållanden i övrigt.
+Även fristen för att väcka talan om skadestånd vid fel och brister i en upphandling ändras för att överensstämma med EU-rätten. Slutligen införs tidsgränser på fem och tre år vid beslut om uteslutning av en leverantör på grund av brott respektive missförhållanden i övrigt.
 
 ### Möjlighet att använda automatiserat beslutsfattande
 
 **Ny lag:** Lag om proportionella val i kommuner och regioner
 
-**Ändringar:** Kommunallagen (2017:725\) samt ett antal följdändringar
+**Ändringar:** Kommunallagen (2017:725) samt ett antal följdändringar
 
 **Beslutsunderlag:** Prop. 2021/22:125 Val och beslut i kommuner och regioner
 
@@ -583,7 +582,7 @@ En ny lag om proportionella val i kommuner och regioner införs som bland annat 
 
 ## Försvarsdepartementet
 
-Försvarsdepartementet ansvarar för frågor om landets försvar, totalförsvaret, internationellt försvars\- och säkerhetspolitiskt samarbete, försvarsunderrättelseverksamhet, internationella insatser samt folkrätt vid väpnad konflikt.
+Försvarsdepartementet ansvarar för frågor om landets försvar, totalförsvaret, internationellt försvars- och säkerhetspolitiskt samarbete, försvarsunderrättelseverksamhet, internationella insatser samt folkrätt vid väpnad konflikt.
 
 ### Kontakt
 
@@ -591,14 +590,14 @@ Försvarsdepartementet ansvarar för frågor om landets försvar, totalförsvare
 
 Pressekreterare Toni Eriksson
 
-Tfn 073\-072 83 16
+Tfn 073-072 83 16
 
 Pressekreterare Ulrika Langels
-Tfn 072\-210 13 89
+Tfn 072-210 13 89
 
 ### Förbättrade rättsliga förutsättningar för att kunna ta emot militärt stöd från andra stater
 
-**Ändringar:** Lagen (2020:782\) om operativt militärt stöd mellan Sverige och Finland, skyddslagen (2010:305\), luftfartslagen (2010:500\) och vissa förordningsändringar
+**Ändringar:** Lagen (2020:782) om operativt militärt stöd mellan Sverige och Finland, skyddslagen (2010:305), luftfartslagen (2010:500) och vissa förordningsändringar
 
 **Beslutsunderlag:** Prop. 2020/21:246 Förbättrade rättsliga förutsättningar för att kunna ta emot militärt stöd från andra stater
 **SFS:** 2022:430
@@ -608,15 +607,15 @@ Tfn 072\-210 13 89
 
 ### Antalet aktörer som Försvarets radioanstalt får ge stöd till inom informationssäkerhetsområdet utökas
 
-**Ändring:** Förordningen (2007:937\) med instruktion för Försvarets radioanstalt
+**Ändring:** Förordningen (2007:937) med instruktion för Försvarets radioanstalt
 
-**Beslutsunderlag:** Försvarets radioanstalts hemställan (Fö2021/00758\)
+**Beslutsunderlag:** Försvarets radioanstalts hemställan (Fö2021/00758)
 
 **SFS:** 2022:776
 
 **Ikraftträdande:** 1 juli 2022
 
-Ändringen innebär att Försvarets radioanstalt, utöver att lämna stöd till statliga myndigheter och statligt ägda bolag, även får lämna stöd till enskilda verksamhetsutövare som inte utgör statligt ägda bolag och som hanterar information som bedöms vara känslig från sårbarhets­synpunkt eller i ett säkerhets\- eller försvarspolitiskt avseende. Ändringen syftar till att upprätthålla ett starkt säkerhetsskydd för de mest skyddsvärda verksamheterna och i förlängningen höja den nationella förmågan att stå emot antagonistiska cyberangrepp.
+Ändringen innebär att Försvarets radioanstalt, utöver att lämna stöd till statliga myndigheter och statligt ägda bolag, även får lämna stöd till enskilda verksamhetsutövare som inte utgör statligt ägda bolag och som hanterar information som bedöms vara känslig från sårbarhets­synpunkt eller i ett säkerhets- eller försvarspolitiskt avseende. Ändringen syftar till att upprätthålla ett starkt säkerhetsskydd för de mest skyddsvärda verksamheterna och i förlängningen höja den nationella förmågan att stå emot antagonistiska cyberangrepp.
 
 ## Infrastrukturdepartementet
 
@@ -628,17 +627,17 @@ Infrastrukturdepartementet ansvarar för frågor som rör transporter och infras
 
 Pressekreterare Jennie Zetterström
 
-Tfn  073\-053 92 70
+Tfn  073-053 92 70
 
-**Presskontakt hos energi\- och digitaliseringsminister Khashayar Farmanbar:**
+**Presskontakt hos energi- och digitaliseringsminister Khashayar Farmanbar:**
 
 Pressekreterare Amalia Pedersen
 
-Tfn 073\-043 78 85
+Tfn 073-043 78 85
 
 ### Skärpta miljökrav införs vid upphandling av bilar och vissa tjänster inom vägtransportområdet
 
-**Ändringar:** Lagen (2011:846\) om miljökrav vid upphandling av bilar och vissa kollektivtrafiktjänster och lagen (2010:1065\) om kollektivtrafik
+**Ändringar:** Lagen (2011:846) om miljökrav vid upphandling av bilar och vissa kollektivtrafiktjänster och lagen (2010:1065) om kollektivtrafik
 
 **Ny förordning:** Förordning om miljökrav vid upphandling av bilar och vissa tjänster inom vägtransportområdet
 
@@ -650,13 +649,13 @@ Tfn 073\-043 78 85
 
 Ändringarna innebär att de avtal som tilldelas efter upphandling ska uppfylla krav på en minsta andel miljöanpassade fordon, så kallade minimimål.
 
-Lagen gäller vid upphandling enligt lagen om offentlig upphandling eller lagen om upphandling inom försörjningssektorerna och endast upphandlingar över de så kallade tröskelvärdena. Lagen gäller om upphandlingen avser köp, leasing, hyra eller hyrköp av bilar eller kollektivtrafik på väg, passagerartransporter på väg för särskilda ändamål, icke\-reguljära passagerartransporter, sophämtning, posttransporter på väg, pakettransporter, postutdelning och paketutlämning.
+Lagen gäller vid upphandling enligt lagen om offentlig upphandling eller lagen om upphandling inom försörjningssektorerna och endast upphandlingar över de så kallade tröskelvärdena. Lagen gäller om upphandlingen avser köp, leasing, hyra eller hyrköp av bilar eller kollektivtrafik på väg, passagerartransporter på väg för särskilda ändamål, icke-reguljära passagerartransporter, sophämtning, posttransporter på väg, pakettransporter, postutdelning och paketutlämning.
 
-Ändringarna innebär att ett EU\-direktiv om att främja och stimulera marknaden för rena och energieffektiva fordon samt att förbättra transportsektorns bidrag till Europeiska unionens miljö\-, klimat\- och energipolitik genomförs.
+Ändringarna innebär att ett EU-direktiv om att främja och stimulera marknaden för rena och energieffektiva fordon samt att förbättra transportsektorns bidrag till Europeiska unionens miljö-, klimat- och energipolitik genomförs.
 
 ### Fler verktyg för att komma åt vattenskoterförare som begår brott
 
-**Ändringar:** Lagen (2021:626\) om förarbevis för vattenskoter och förordningen (2021:628\) om förarbevis för vattenskoter
+**Ändringar:** Lagen (2021:626) om förarbevis för vattenskoter och förordningen (2021:628) om förarbevis för vattenskoter
 
 **Beslutsunderlag:** Prop. 2021/22:143 Omhändertagande och återkallelse av förarbevis för vattenskoter
 
@@ -668,7 +667,7 @@ Från och med 1 maj 2022 krävs förarbevis för att få framföra vattenskoter.
 
 ### Tydligare regler för myndigheter och offentliga företag som tillgängliggör data för vidareutnyttjande
 
-**Ny lag:** Lag (2022:818\) om den offentliga sektorns tillgängliggörande av data
+**Ny lag:** Lag (2022:818) om den offentliga sektorns tillgängliggörande av data
 
 **Beslutsunderlag:** Prop. 2021/22:225 Den offentliga sektorns tillgängliggörande av data
 
@@ -678,13 +677,13 @@ Från och med 1 maj 2022 krävs förarbevis för att få framföra vattenskoter.
 
 Den som har rätt att få tillgång till data från en myndighet eller ett offentligt företag ska kunna få dessa tillgängliggjorda i ett format som lämpar sig för vidareutnyttjande, exempelvis ett öppet och maskinläsbart format. Lagen innehåller ett tak för vilka avgifter som en myndighet eller ett offentligt företag får ta ut för att göra data tillgängliga för vidareutnyttjande.
 
-Av lagen framgår när det är tillåtet för en myndighet eller ett offentligt företag att ange villkor för vidareutnyttjande eller ge någon exklusiv rätt att vidareutnyttja viss data. Lagen genomför det så kallade öppna data\-direktivet (EU) 2019/1024\.
+Av lagen framgår när det är tillåtet för en myndighet eller ett offentligt företag att ange villkor för vidareutnyttjande eller ge någon exklusiv rätt att vidareutnyttja viss data. Lagen genomför det så kallade öppna data-direktivet (EU) 2019/1024.
 
 ### Nya krav när det gäller elnätsverksamhet införs
 
-**Ändringar:** Ellagen (1997:857\) med flera lagar och förordningar
+**Ändringar:** Ellagen (1997:857) med flera lagar och förordningar
 
-**Ny förordning:** Förordning (2022:585\) om elnätsverksamhet
+**Ny förordning:** Förordning (2022:585) om elnätsverksamhet
 
 **Beslutsunderlag:** Prop. 2021/22:153 Genomförande av elmarknadsdirektivet när det gäller nätverksamhet
 
@@ -696,9 +695,9 @@ Det införs nya krav när det gäller elnätsverksamhet, bland annat i fråga om
 
 ### Skärpta regler om utstationering av förare och sanktioner mot företag som fuskar
 
-**Ändring:** Lagen (1999:678\) om utstationering av arbetstagare
+**Ändring:** Lagen (1999:678) om utstationering av arbetstagare
 
-**Ny förordning:** Förordning (2022:469\) om utstationering av förare inom vägtransportområdet
+**Ny förordning:** Förordning (2022:469) om utstationering av förare inom vägtransportområdet
 
 **Beslutsunderlag:** Prop. 2021/22:166 Genomförande av mobilitetspaketet
 
@@ -712,23 +711,23 @@ För att underlätta kontroller av att reglerna följs ska deklarationen visas u
 
 ### Kontaktpunkt för ärenden om tillstånd till starkströmsledningar och kortare tidsfrister för beslut införs
 
-**Ändringar:** Förordningen (2021:808\) om nätkoncession och förordningen (2021:757\) om tidsfrister och kontaktpunkt för vissa ärenden som gäller tillförsel av förnybar energi
+**Ändringar:** Förordningen (2021:808) om nätkoncession och förordningen (2021:757) om tidsfrister och kontaktpunkt för vissa ärenden som gäller tillförsel av förnybar energi
 
-**Beslutsunderlag:** Tillkännagivande från riksdagen (bet. 2020/21:NU27 punkt 4, rskr. 2020/21:394\)
+**Beslutsunderlag:** Tillkännagivande från riksdagen (bet. 2020/21:NU27 punkt 4, rskr. 2020/21:394)
 
-**SFS:** 2022:662\-663
+**SFS:** 2022:662-663
 
 **Ikraftträdande:** 1 juli 2022
 
 Energimyndigheten ansvarar för en digital kontaktpunkt för vägledning och information i ärenden om tillstånd till produktion av förnybar energi. Ändringen innebär att detta också ska omfatta ärenden om tillstånd för att bygga eller använda starkströmsledningar (nätkoncession). Samtidigt kortas tidsfristen för beslut i ärenden om meddelande av nätkoncession från tre år till två år för ärenden som prövas av Energimarknadsinspektionen, och från fem år till fyra år för ärenden som prövas av regeringen.
 
-### Fjärrkyle\- och fjärrvärmekunder samt lägenhetsinnehavare ska kunna styra och minska sin energianvändning
+### Fjärrkyle- och fjärrvärmekunder samt lägenhetsinnehavare ska kunna styra och minska sin energianvändning
 
-**Nya lagar:** Fjärrkylelag (2022:332\) och lag (2022:333\) om energimätning i byggnader
+**Nya lagar:** Fjärrkylelag (2022:332) och lag (2022:333) om energimätning i byggnader
 
-**Nya förordningar:** Fjärrkyleförordning (2022:335\) och förordning (2022:336\) om energimätning i byggnader
+**Nya förordningar:** Fjärrkyleförordning (2022:335) och förordning (2022:336) om energimätning i byggnader
 
-**Ändringar:** Fjärrvärmelagen (2008:263\) och fjärrvärmeförordningen (2008:526\)
+**Ändringar:** Fjärrvärmelagen (2008:263) och fjärrvärmeförordningen (2008:526)
 
 **Beslutsunderlag:** Prop. 2021/22:124 Genomförande av ändringar i energieffektiviseringsdirektivet om värme, kyla och tappvarmvatten för hushållsbruk
 
@@ -736,23 +735,23 @@ Energimyndigheten ansvarar för en digital kontaktpunkt för vägledning och inf
 
 **Ikraftträdande:** 1 juni 2022
 
-Reglerna införs för att fjärrkyle\- och fjärrvärmekunder samt lägenhetsinnehavare ska kunna styra och minska sin energianvändning.
+Reglerna införs för att fjärrkyle- och fjärrvärmekunder samt lägenhetsinnehavare ska kunna styra och minska sin energianvändning.
 
 I det nya regelverket för fjärrkyla införs krav på mätning och fakturering av fjärrkyla. Det införs även krav på fjärrkyleföretag att tillhandahålla faktureringsinformation och information om energianvändning. Motsvarande bestämmelser för fjärrvärmeföretag införs i regelverket för fjärrvärme.
 
-I regelverket för energimätning i byggnader införs krav på mätning av användningen av tappvarmvatten för hushållsbruk på lägenhetsnivå i nya flerbostadshus. Den som äger en byggnad där system för individuell mätning har installerats ska säkerställa att lägenhetsinnehavare får faktureringsinformation och information om energianvändning. Reglerna är en följd av ett EU\-direktiv.
+I regelverket för energimätning i byggnader införs krav på mätning av användningen av tappvarmvatten för hushållsbruk på lägenhetsnivå i nya flerbostadshus. Den som äger en byggnad där system för individuell mätning har installerats ska säkerställa att lägenhetsinnehavare får faktureringsinformation och information om energianvändning. Reglerna är en följd av ett EU-direktiv.
 
 ### Ny lag möjliggör säkrare och mer effektiv elektronisk kommunikation
 
-**Nya lagar:** Lag (2022:482\) om elektronisk kommunikation och lag (2022:483\) om införande av lagen (2022:482\) om elektronisk kommunikation
+**Nya lagar:** Lag (2022:482) om elektronisk kommunikation och lag (2022:483) om införande av lagen (2022:482) om elektronisk kommunikation
 
-**Ny förordning:** Förordning (2022:511\) om elektronisk kommunikation
+**Ny förordning:** Förordning (2022:511) om elektronisk kommunikation
 
 **Ändringar:** Rättegångsbalken med flera lagar och förordningar
 
 **Beslutsunderlag:** Prop. 2021/22:136 Genomförande av direktivet om inrättande av en europeisk kodex för elektronisk kommunikation
 
-**SFS:** 2022:482\-523
+**SFS:** 2022:482-523
 
 **Ikraftträdande:** 3 juni 2022
 
@@ -762,13 +761,13 @@ Den nya lagen ersätter den nuvarande lagen om elektronisk kommunikation. Den ge
 
 ### Modernisering av järnvägslagstiftningen
 
-**Nya lagar:** Järnvägsmarknadslag (2022:365\), järnvägstekniklag (2022:366\), järnvägssäkerhetslag (2022:367\) och lag (2022:368\) om nationella järnvägssystem
+**Nya lagar:** Järnvägsmarknadslag (2022:365), järnvägstekniklag (2022:366), järnvägssäkerhetslag (2022:367) och lag (2022:368) om nationella järnvägssystem
 
-**Nya förordningar:** Järnvägsmarknadsförordning (2022:416\), järnvägsteknikförordning (2022:417\), järnvägssäkerhetsförordning (2022:418\) och förordning (2022:419\) om nationella järnvägssystem
+**Nya förordningar:** Järnvägsmarknadsförordning (2022:416), järnvägsteknikförordning (2022:417), järnvägssäkerhetsförordning (2022:418) och förordning (2022:419) om nationella järnvägssystem
 
 **Beslutsunderlag:** Prop. 2021/22:83 Fjärde järnvägspaketet
 
-**SFS:** 2022:365\-2022:368 och 2022:416\-2022:419
+**SFS:** 2022:365-2022:368 och 2022:416-2022:419
 
 **Ikraftträdande:** 1 juni 2022
 
@@ -778,27 +777,27 @@ De fyra nya lagarna ersätter nuvarande järnvägslag. Stora delar av nuvarande 
 
 ## Justitiedepartementet
 
-Justitiedepartementet ansvarar bland annat för rättsväsendet, migrations\- och integrationsfrågor, samhällets krisberedskap, grundlagar och civilrätt.
+Justitiedepartementet ansvarar bland annat för rättsväsendet, migrations- och integrationsfrågor, samhällets krisberedskap, grundlagar och civilrätt.
 
 ### Kontakt
 
-**Presskontakt hos justitie\- och inrikesminister Morgan Johansson:**
+**Presskontakt hos justitie- och inrikesminister Morgan Johansson:**
 Pressekreterare och pressamordnare Sofie Rudh
-Tfn 072\-545 74 21
+Tfn 072-545 74 21
 
 Pressekreterare Angelica Vallgren
-Tfn 073\-087 60 54
+Tfn 073-087 60 54
 
-**Presskontakt hos integrations\- och migrationsminister med ansvar för idrottsfrågor Anders Ygeman:**
+**Presskontakt hos integrations- och migrationsminister med ansvar för idrottsfrågor Anders Ygeman:**
 Pressekreterare Ömer Oguz
-Tfn 073\-048 09 59
+Tfn 073-048 09 59
 
 Pressekreterare Ebba Kock
-Tfn 076\-116 75 99
+Tfn 076-116 75 99
 
 ### Ökad kvalitet i rättsintygen
 
-**Ändring:** Förordning (2005:1063\) om rättsintyg i anledning av brott
+**Ändring:** Förordning (2005:1063) om rättsintyg i anledning av brott
 Beslutsunderlag: Promemorian Ökad kvalitet i rättsintygen
 
 **SFS:** 2022:55
@@ -811,14 +810,14 @@ Beslutsunderlag: Promemorian Ökad kvalitet i rättsintygen
 
 **Ny lag:** Konsumentköplag
 
-**Ändringar:** Lagen (1964:528\) om tillämplig lag beträffande internationella köp av lösa saker, köplagen (1990:931\), produktansvarslagen (1992:18\), marknadsföringslagen (2008:486\) och kommissionslagen (2009:865\)
+**Ändringar:** Lagen (1964:528) om tillämplig lag beträffande internationella köp av lösa saker, köplagen (1990:931), produktansvarslagen (1992:18), marknadsföringslagen (2008:486) och kommissionslagen (2009:865)
 
 **Beslutsunderlag:** Prop. 2021/22:85 En ny konsumentköplag
 SFS: 2022:260–265
 
 **Ikraftträdande:** 1 maj 2022
 
-Den nya konsumentköplagen innebär ett stärkt konsumentskydd och en modernisering av konsumenträtten vid köp av varor och vid avtal om tillhandahållande av digitalt innehåll och digitala tjänster. Lagen, som genomför två EU\-direktiv, reglerar bland annat vad som utgör fel på en vara eller digitalt innehåll, vem som ansvarar för felet och vilken rätt konsumenten har att få felet avhjälpt. Alla fel som visar sig under två år efter köpet av en vara ska som utgångspunkt anses vara fel som näringsidkaren ansvarar för, vilket är en förlängning från tidigare sex månader. I lagen finns även vissa särskilda regler vid konsumentköp av levande djur.
+Den nya konsumentköplagen innebär ett stärkt konsumentskydd och en modernisering av konsumenträtten vid köp av varor och vid avtal om tillhandahållande av digitalt innehåll och digitala tjänster. Lagen, som genomför två EU-direktiv, reglerar bland annat vad som utgör fel på en vara eller digitalt innehåll, vem som ansvarar för felet och vilken rätt konsumenten har att få felet avhjälpt. Alla fel som visar sig under två år efter köpet av en vara ska som utgångspunkt anses vara fel som näringsidkaren ansvarar för, vilket är en förlängning från tidigare sex månader. I lagen finns även vissa särskilda regler vid konsumentköp av levande djur.
 
 ### Ett särskilt brott för hedersförtryck införs
 
@@ -846,7 +845,7 @@ Det införs ett nytt brott i brottsbalken med beteckningen hedersförtryck. Brot
 
 ### Skärpta och förbättrade regler om arbetskraftsinvandring
 
-**Ändringar:** Utlänningslagen (2005:716\), socialförsäkringsbalken, lagen (1991:572\) om särskild utlänningskontroll, utlänningsförordningen (2006:97\), förordningen (2001:588\) om behandling av uppgifter i Skatteverkets beskattningsverksamhet och förordningen (1997:691\) om avgifter vid utlandsmyndigheterna
+**Ändringar:** Utlänningslagen (2005:716), socialförsäkringsbalken, lagen (1991:572) om särskild utlänningskontroll, utlänningsförordningen (2006:97), förordningen (2001:588) om behandling av uppgifter i Skatteverkets beskattningsverksamhet och förordningen (1997:691) om avgifter vid utlandsmyndigheterna
 
 **Beslutsunderlag:** Prop. 2021/22:134 Skärpta och förbättrade regler om arbetskraftsinvandring
 
@@ -862,7 +861,7 @@ Vidare införs ett krav på ett anställningsavtal för att beviljas arbetstills
 
 ### Möjlighet till tillträdesförbud till badanläggningar och bibliotek införs
 
-**Ändringar:** Lagen (2021:34\) om tillträdesförbud till butik, lagen (1998:620\) om belastningsregister, Offentlighets och sekretesslagen (2009:400\) och lagen (2015:485\) om erkännande och uppföljning av beslut om övervakningsåtgärder inom Europeiska unionen
+**Ändringar:** Lagen (2021:34) om tillträdesförbud till butik, lagen (1998:620) om belastningsregister, Offentlighets och sekretesslagen (2009:400) och lagen (2015:485) om erkännande och uppföljning av beslut om övervakningsåtgärder inom Europeiska unionen
 
 **Beslutsunderlag:** Prop. 2021/22:108 Tillträdesförbud till badanläggningar och bibliotek
 
@@ -888,7 +887,7 @@ Straffskalan för dessa brott ändras från fängelse i högst två år till fä
 
 ### Straff för knivbrott skärps
 
-**Ändringar:** Lagen (1988:254\) om förbud beträffande knivar och andra farliga föremål
+**Ändringar:** Lagen (1988:254) om förbud beträffande knivar och andra farliga föremål
 
 **Beslutsunderlag:** Prop. 2021/22:192 Skärpta straff för knivbrott
 
@@ -930,7 +929,7 @@ Den nya lagen syftar till att göra den straffrättsliga terrorismlagstiftningen
 
 ### En stärkt rättsprocess för att bryta tystnadskulturen
 
-**Ändringar:** Rättegångsbalken, brottsbalken samt offentlighets\- och sekretesslagen (2009:400\)
+**Ändringar:** Rättegångsbalken, brottsbalken samt offentlighets- och sekretesslagen (2009:400)
 
 **Beslutsunderlag:** Prop. 2021/22:186 En stärkt rättsprocess och en ökad lagföring
 
@@ -940,11 +939,11 @@ Den nya lagen syftar till att göra den straffrättsliga terrorismlagstiftningen
 
 För att stärka skyddet för vittnen och få fler personer i kriminella nätverk att samarbeta med myndigheter införs flera lagändringar. De innebär bland annat att den som medverkar i utredningen av någon annans brott ska kunna få ett lindrigare straff samtidigt som straffet för olika former av falska anklagelser skärps.
 
-Sekretess ska gälla för uppgift om var den befinner sig som deltar i ett sammanträde inför rätten genom ljudöverföring eller ljud\- och bildöverföring. Övergrepp i rättssak och grova fall av mened och skyddande av brottsling ska kunna leda till betydligt strängare straff.
+Sekretess ska gälla för uppgift om var den befinner sig som deltar i ett sammanträde inför rätten genom ljudöverföring eller ljud- och bildöverföring. Övergrepp i rättssak och grova fall av mened och skyddande av brottsling ska kunna leda till betydligt strängare straff.
 
 ### Åtgärder för en jämnare fördelning av boende för vissa skyddsbehövande
 
-**Ändringar:** Lag (1994:137\) om mottagande av asylsökande m.fl. och lag (2008:344\) om hälso\- och sjukvård åt asylsökande m.fl.
+**Ändringar:** Lag (1994:137) om mottagande av asylsökande m.fl. och lag (2008:344) om hälso- och sjukvård åt asylsökande m.fl.
 
 **Beslutsunderlag:** Prop. 2021/22:250 Åtgärder för en jämnare fördelning av boende för vissa skyddsbehövande
 
@@ -955,11 +954,11 @@ Migrationsverket ska få anvisa en kommun att ordna boendet för personer med up
 
 ### Nytt regelverk för de som utgör kvalificerade hot mot Sveriges säkerhet införs
 
-**Ny lag:** Lag (2022:700\) om särskild kontroll av vissa utlänningar
+**Ny lag:** Lag (2022:700) om särskild kontroll av vissa utlänningar
 
-**Ny förordning:** Förordning (2022:701\) om särskild kontroll av vissa utlänningar
+**Ny förordning:** Förordning (2022:701) om särskild kontroll av vissa utlänningar
 
-**Ändringar:** Lagen (2007:980\) om tillsyn över viss brottsbekämpande verksamhet, postlagen (2010:1045\), lagen (2018:1693\) om polisens behandling av personuppgifter inom brottsdatalagens område, lagen (2020:62\) om hemlig dataavläsning, förordningen (1977:937\) om allmänna förvaltningsdomstolars behörighet m.m., förordningen (1992: 824\) om fingeravtryck m.m., förordningen (1999:1134\) om belastningsregister, förordningen (1999:1135\) om misstankeregister, utlänningsförordningen (2006:97\), förordningen (2014:1103\) med instruktion för Säkerhetspolisen, samt följdändringar i ett antal lagar och förordningar
+**Ändringar:** Lagen (2007:980) om tillsyn över viss brottsbekämpande verksamhet, postlagen (2010:1045), lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område, lagen (2020:62) om hemlig dataavläsning, förordningen (1977:937) om allmänna förvaltningsdomstolars behörighet m.m., förordningen (1992: 824) om fingeravtryck m.m., förordningen (1999:1134) om belastningsregister, förordningen (1999:1135) om misstankeregister, utlänningsförordningen (2006:97), förordningen (2014:1103) med instruktion för Säkerhetspolisen, samt följdändringar i ett antal lagar och förordningar
 
 **Beslutsunderlag:** SOU 2020:16 Ett effektivare regelverk för utlänningsärenden med säkerhetsaspekter och prop. 2021/22:131 Nytt regelverk för kvalificerade säkerhetsärenden
 
@@ -973,7 +972,7 @@ Den nya regleringen innebär bland annat utvidgade möjligheter att utvisa utlä
 
 ### Lättnader i tillståndsplikten för ljuddämpare
 
-**Ändringar:** Vapenlagen (1996:67\) och vapenförordningen (1996:70\)
+**Ändringar:** Vapenlagen (1996:67) och vapenförordningen (1996:70)
 
 **Beslutsunderlag:** Prop. 2021/22:46 Lättnader i tillståndsplikten för ljuddämpare
 
@@ -985,7 +984,7 @@ Ljuddämpare ska inte längre jämställas med skjutvapen, utan i stället regle
 
 ### Effektivare bevisupptagning inom EU
 
-**Ändringar:** Lagen (1946:816\) om bevisupptagning åt utländsk domstol, lagen (1946:817\) om bevisupptagning vid utländsk domstol och lagen (2003:493\) om EG:s förordning om bevisupptagning i mål och ärenden av civil eller kommersiell natur
+**Ändringar:** Lagen (1946:816) om bevisupptagning åt utländsk domstol, lagen (1946:817) om bevisupptagning vid utländsk domstol och lagen (2003:493) om EG:s förordning om bevisupptagning i mål och ärenden av civil eller kommersiell natur
 
 **Ny förordning:** Förordning med kompletterande bestämmelser till EU:s bevisupptagningsförordning
 
@@ -995,13 +994,13 @@ Ljuddämpare ska inte längre jämställas med skjutvapen, utan i stället regle
 
 **Ikraftträdande:** 1 juli 2022
 
-Den omarbetade EU\-förordningen innebär bland annat att medlemsstaterna ska kommunicera elektroniskt med varandra via ett decentraliserat it\-system från det att it\-systemet kan tas i bruk år 2025\. När muntlig bevisning ska tas upp direkt av en medlemsstat ska videokonferens eller liknande teknik som huvudregel användas. Syftet är att effektivisera samarbetet mellan medlemsstater.
+Den omarbetade EU-förordningen innebär bland annat att medlemsstaterna ska kommunicera elektroniskt med varandra via ett decentraliserat it-system från det att it-systemet kan tas i bruk år 2025. När muntlig bevisning ska tas upp direkt av en medlemsstat ska videokonferens eller liknande teknik som huvudregel användas. Syftet är att effektivisera samarbetet mellan medlemsstater.
 
-EU\-förordningen blir direkt tillämplig i Sverige, men medför följdändringar i tre lagar som innebär att hänvisningar till den tidigare förordningen om bevisupptagning ändras till att avse den nya förordningen om bevisupptagning. Vissa kompletterande bestämmelser som tidigare fanns i ett tillkännagivande tas i stället in i en ny förordning som bland annat reglerar tillåtna medel för kommunikation och att Regeringskansliet ska vara centralt organ för samarbetet.
+EU-förordningen blir direkt tillämplig i Sverige, men medför följdändringar i tre lagar som innebär att hänvisningar till den tidigare förordningen om bevisupptagning ändras till att avse den nya förordningen om bevisupptagning. Vissa kompletterande bestämmelser som tidigare fanns i ett tillkännagivande tas i stället in i en ny förordning som bland annat reglerar tillåtna medel för kommunikation och att Regeringskansliet ska vara centralt organ för samarbetet.
 
 ### Effektivare delgivning inom EU införs
 
-**Ändringar:** Förordningen (2008:808\) med kompletterande föreskrifter till EG:s delgivningsförordning
+**Ändringar:** Förordningen (2008:808) med kompletterande föreskrifter till EG:s delgivningsförordning
 
 **Beslutsunderlag:** Ds 2021:21 Nya regler för delgivning och bevisupptagning inom EU
 
@@ -1009,13 +1008,13 @@ EU\-förordningen blir direkt tillämplig i Sverige, men medför följdändringa
 
 **Ikraftträdande:** 1 juli 2022
 
-EU\-förordningen innebär bland annat att medlemsstaterna ska kommunicera elektroniskt med varandra via ett decentraliserat it\-system från det att it\-systemet kan tas i bruk år 2025\. Vidare införs en möjlighet att delge handlingar till en delgivningsmottagare i en annan medlemsstat på elektronisk väg. Syftet är att effektivisera samarbetet mellan medlemsstaterna.
+EU-förordningen innebär bland annat att medlemsstaterna ska kommunicera elektroniskt med varandra via ett decentraliserat it-system från det att it-systemet kan tas i bruk år 2025. Vidare införs en möjlighet att delge handlingar till en delgivningsmottagare i en annan medlemsstat på elektronisk väg. Syftet är att effektivisera samarbetet mellan medlemsstaterna.
 
-EU\-förordningen blir direkt tillämplig i Sverige. Förordningsändringarna innebär bland annat att svenska myndigheter kan nyttja möjligheten till elektronisk delgivning.
+EU-förordningen blir direkt tillämplig i Sverige. Förordningsändringarna innebär bland annat att svenska myndigheter kan nyttja möjligheten till elektronisk delgivning.
 
 ### Samfällighetsföreningar får själva ändra andelstalen i gemensamhetsanläggningar
 
-**Ändringar:** Anläggningslagen (1973:1149\), lagen (1973:1150\) om förvaltning av samfälligheter och förordningen (1995:1459\) om avgifter vid lantmäteriförrättningar
+**Ändringar:** Anläggningslagen (1973:1149), lagen (1973:1150) om förvaltning av samfälligheter och förordningen (1995:1459) om avgifter vid lantmäteriförrättningar
 
 **Beslutsunderlag:** Ds 2021:8 Ändring av andelstal i gemensamhetsanläggningar
 
@@ -1029,7 +1028,7 @@ Fastigheterna i en samfällighetsförening som förvaltar en gemensamhetsanlägg
 
 ### Rätten till skadestånd för brottsoffer stärks
 
-**Ändringar:** Utsökningsbalken, skadeståndslagen (1972:207\) och brottsskadelagen (2014:322\) samt vissa förordningsändringar
+**Ändringar:** Utsökningsbalken, skadeståndslagen (1972:207) och brottsskadelagen (2014:322) samt vissa förordningsändringar
 
 **Beslutsunderlag:** Prop. 2021/22:198 Stärkt rätt till skadestånd för brottsoffer
 
@@ -1057,7 +1056,7 @@ Det införs också nya straffbestämmelser om sexuellt ofredande mot barn, grovt
 
 ### Nya uppgifter om den tilltalades ålder blir grund för resning
 
-**Ändringar:** Rättegångsbalken, lagen (1964:167\) med särskilda bestämmelser om unga lagöverträdare
+**Ändringar:** Rättegångsbalken, lagen (1964:167) med särskilda bestämmelser om unga lagöverträdare
 
 **Beslutsunderlag:** Prop. 2021/22:233 Nya uppgifter om den tilltalades ålder i straffprocessen
 
@@ -1069,7 +1068,7 @@ Resning till den tilltalades nackdel ska kunna beviljas om det kommer fram nya u
 
 ### Registrering av kontantkort – förbättrad tillgång till uppgifter för brottsbekämpande myndigheter
 
-**Ändringar:** Lagen (2022:482\) om elektronisk kommunikation och förordningen (2022:511\) om elektronisk kommunikation
+**Ändringar:** Lagen (2022:482) om elektronisk kommunikation och förordningen (2022:511) om elektronisk kommunikation
 
 **Beslutsunderlag:** Prop. 2021/22:183 Registrering av kontantkort – förbättrad tillgång till uppgifter för brottsbekämpande myndigheter
 
@@ -1083,7 +1082,7 @@ I syfte att underlätta för brottsbekämpande myndigheter och försvåra för k
 
 ### Regler om utvisning på grund av brott skärps
 
-**Ändringar:** Utlänningslagen (2005:716\) och i brottsbalken samt följdändringar i en lag och två förordningar
+**Ändringar:** Utlänningslagen (2005:716) och i brottsbalken samt följdändringar i en lag och två förordningar
 
 **Beslutsunderlag:** Prop. 2021/22:224 Utvisning på grund av brott – ett skärpt regelverk
 
@@ -1097,25 +1096,25 @@ Dessutom ska domstolen inte längre beakta det men som utlänningen förorsakas 
 
 ### Förbättrade förutsättningar för ett europeiskt samarbete om gränsförvaltning
 
-**Ny lag:** Lagen (2022:1057\) med kompletterande bestämmelser till EU:s gräns\- och kustbevakningsförordning
+**Ny lag:** Lagen (2022:1057) med kompletterande bestämmelser till EU:s gräns- och kustbevakningsförordning
 
-**Ny förordning:** Förordningen (2022:1058\) med kompletterande bestämmelser till EU:s gräns\- och kustbevakningsförordning
+**Ny förordning:** Förordningen (2022:1058) med kompletterande bestämmelser till EU:s gräns- och kustbevakningsförordning
 
-**Ändringar:** Vapenlagen (1996:67\), tillträdesförordningen (1992:118\), förordningen (1992:1303\) om krigsmateriel, förordningen (1995:1301\) om handläggning av skadeståndsanspråk mot staten, vapenförordningen (1996:70\), utlänningsförordningen (2006:97\), förordningen (2010:1075\) om brandfarliga och explosiva varor m.fl.
+**Ändringar:** Vapenlagen (1996:67), tillträdesförordningen (1992:118), förordningen (1992:1303) om krigsmateriel, förordningen (1995:1301) om handläggning av skadeståndsanspråk mot staten, vapenförordningen (1996:70), utlänningsförordningen (2006:97), förordningen (2010:1075) om brandfarliga och explosiva varor m.fl.
 
-**Beslutsunderlag:** Ds 2021:10 EU:s nya gräns\- och kustbevakningsförordning – Kompletterande reglering och prop. 2021/22:227 Kompletteringar till EU:s nya gräns\- och kustbevakningsförordning och förtydliganden i regler om unga lagöverträdare
+**Beslutsunderlag:** Ds 2021:10 EU:s nya gräns- och kustbevakningsförordning – Kompletterande reglering och prop. 2021/22:227 Kompletteringar till EU:s nya gräns- och kustbevakningsförordning och förtydliganden i regler om unga lagöverträdare
 
 **SFS:** 2022:000
 
 **Ikraftträdande:** 1 augusti 2022
 
-EU:s nya gräns\- och kustbevakningsförordning innebär förbättrade förutsättningar för ett utökat samarbete om gränsförvaltning inom Schengenområdet. För att EU\-förordningen ska kunna tillämpas och få fullt genomslag i Sverige krävs vissa kompletterande nationella bestämmelser i lag och förordning.
+EU:s nya gräns- och kustbevakningsförordning innebär förbättrade förutsättningar för ett utökat samarbete om gränsförvaltning inom Schengenområdet. För att EU-förordningen ska kunna tillämpas och få fullt genomslag i Sverige krävs vissa kompletterande nationella bestämmelser i lag och förordning.
 
-Den nya lagen reglerar vad som ska gälla vid de tillfällen då utländska tjänstemän kan komma att tjänstgöra i Sverige med Europeiska gräns\- och kustbevakningsbyrån. Den nya förordningen innebär bland annat att Polismyndigheten, Kustbevakningen, Tullverket, Kriminalvården och Migrationsverket pekas ut som ansvariga för Sveriges åligganden enligt EU\-förordningen.
+Den nya lagen reglerar vad som ska gälla vid de tillfällen då utländska tjänstemän kan komma att tjänstgöra i Sverige med Europeiska gräns- och kustbevakningsbyrån. Den nya förordningen innebär bland annat att Polismyndigheten, Kustbevakningen, Tullverket, Kriminalvården och Migrationsverket pekas ut som ansvariga för Sveriges åligganden enligt EU-förordningen.
 
-### Enskilda får rätt till grundlagsskadestånd vid överträdelser av grundläggande fri\- och rättigheter enligt regeringsformen
+### Enskilda får rätt till grundlagsskadestånd vid överträdelser av grundläggande fri- och rättigheter enligt regeringsformen
 
-**Ändringar:** Skadeståndslagen (1972:207\)
+**Ändringar:** Skadeståndslagen (1972:207)
 
 **Beslutsunderlag:** Prop. 2021/22:229 Grundlagsskadestånd – ett rättighetsskydd för enskilda
 
@@ -1123,15 +1122,15 @@ Den nya lagen reglerar vad som ska gälla vid de tillfällen då utländska tjä
 
 **Ikraftträdande:** 1 augusti 2022
 
-Staten eller en kommun ska ersätta både ekonomisk och icke\-ekonomisk skada som drabbar en enskild på grund av att det allmänna överträtt någon av dennes grundläggande fri\- och rättigheter i 2 kap. regeringsformen.
+Staten eller en kommun ska ersätta både ekonomisk och icke-ekonomisk skada som drabbar en enskild på grund av att det allmänna överträtt någon av dennes grundläggande fri- och rättigheter i 2 kap. regeringsformen.
 
 För att det allmänna ska bli skyldigt att betala krävs att det är nödvändigt att betala skadestånd för att gottgöra den enskilde för överträdelsen. Det innebär bland annat att den enskilde i första hand ska använda sig av andra sätt än grundlagsskadestånd för att komma till rätta med en överträdelse, till exempel genom att överklaga ett oriktigt beslut.
 
-Bestämmelsen syftar till att främja skyddet för fri\- och rättigheterna i regeringsformen, som lyfts fram i rättstillämpningen och framträder tydligare i relation till Europakonventionen.
+Bestämmelsen syftar till att främja skyddet för fri- och rättigheterna i regeringsformen, som lyfts fram i rättstillämpningen och framträder tydligare i relation till Europakonventionen.
 
 ### Jämlika regler om föräldraskap införs i internationella situationer
 
-**Ändringar:** Lagen (1985:367\) om internationella faderskapsfrågor, lagen (1979:1001\) om erkännande av nordiska faderskapsavgöranden och lagen (1977:595\) om erkännande och verkställighet av nordiska domar på privaträttens område samt vissa förordningsändringar
+**Ändringar:** Lagen (1985:367) om internationella faderskapsfrågor, lagen (1979:1001) om erkännande av nordiska faderskapsavgöranden och lagen (1977:595) om erkännande och verkställighet av nordiska domar på privaträttens område samt vissa förordningsändringar
 
 **Beslutsunderlag:** Prop. 2021/22:188 Jämlika regler om föräldraskap i internationella situationer
 
@@ -1141,28 +1140,28 @@ Bestämmelsen syftar till att främja skyddet för fri\- och rättigheterna i re
 
 Det införs en ny föräldraskapspresumtion i internationella situationer. Enligt presumtionen ska en kvinna som är eller har varit gift med barnets mor på vissa villkor automatiskt anses som barnets förälder i Sverige. Det gäller i första hand om föräldraskapet följer av lagen i det land där barnet vid födelsen fick sin hemvist.
 
-Ändringarna innebär vidare att utländska domstolsavgöranden om och fastställelser av föräldraskap för en kvinna som är eller har varit gift eller sambo med barnets mor under vissa förutsättningar ska erkännas i Sverige. Det införs också flera internationellt privat\- och processrättsliga regler om föräldraskap för en kvinna som är eller har varit gift eller sambo med barnets mor.
+Ändringarna innebär vidare att utländska domstolsavgöranden om och fastställelser av föräldraskap för en kvinna som är eller har varit gift eller sambo med barnets mor under vissa förutsättningar ska erkännas i Sverige. Det införs också flera internationellt privat- och processrättsliga regler om föräldraskap för en kvinna som är eller har varit gift eller sambo med barnets mor.
 
 ### Stärkt skydd för barn i internationella familjemål
 
-**Ny lag:** Lag med kompletterande bestämmelser till Bryssel II\-förordningen
+**Ny lag:** Lag med kompletterande bestämmelser till Bryssel II-förordningen
 
-**Ny förordning:** Förordning med kompletterande bestämmelser till Bryssel II\-förordningen
+**Ny förordning:** Förordning med kompletterande bestämmelser till Bryssel II-förordningen
 
-**Ändringar:** Offentlighets\- och sekretesslagen (2009:400\) m.fl.
+**Ändringar:** Offentlighets- och sekretesslagen (2009:400) m.fl.
 Beslutsunderlag: Prop. 2021/22:189 Ökad rättssäkerhet och snabbare verkställighet i internationella familjemål
 
 **SFS:** 2022:948–963
 
 **Ikraftträdande:** 1 augusti 2022
 
-Genom EU:s nya Bryssel II\-förordning och de kompletterande regler som nu införs kommer det att gå snabbare och enklare att verkställa avgöranden om föräldraansvar inom EU. Barnets rätt att komma till tals tydliggörs. Dessutom utvecklas informationsutbytet mellan medlemsstaterna, vilket förbättrar beslutsunderlagen och underlättar domstolarnas och myndigheternas handläggning.
+Genom EU:s nya Bryssel II-förordning och de kompletterande regler som nu införs kommer det att gå snabbare och enklare att verkställa avgöranden om föräldraansvar inom EU. Barnets rätt att komma till tals tydliggörs. Dessutom utvecklas informationsutbytet mellan medlemsstaterna, vilket förbättrar beslutsunderlagen och underlättar domstolarnas och myndigheternas handläggning.
 
-Den nya Bryssel II\-förordningen börjar tillämpas 1 augusti 2022\. Förordningen gäller frågor om äktenskapsskillnad, föräldraansvar och internationella bortföranden av barn. Den innehåller regler om vilken medlemsstats domstol som kan pröva en tvist och om erkännande och verkställighet av avgöranden i EU. Syftet med den nya EU\-förordningen och de kompletterande bestämmelserna är att stärka barns och föräldrars rättssäkerhet.
+Den nya Bryssel II-förordningen börjar tillämpas 1 augusti 2022. Förordningen gäller frågor om äktenskapsskillnad, föräldraansvar och internationella bortföranden av barn. Den innehåller regler om vilken medlemsstats domstol som kan pröva en tvist och om erkännande och verkställighet av avgöranden i EU. Syftet med den nya EU-förordningen och de kompletterande bestämmelserna är att stärka barns och föräldrars rättssäkerhet.
 
 ### Effektivare verktyg i utsökningsförfarandet införs
 
-**Ändringar:** Utsökningsbalken och utsökningsförordningen (1981:981\)
+**Ändringar:** Utsökningsbalken och utsökningsförordningen (1981:981)
 
 **Beslutsunderlag:** Prop. 2021/22:197 Effektivare verktyg i utsökningsförfarandet
 
@@ -1178,7 +1177,7 @@ Kronofogdemyndighetens tillgångsutredningar i utmätningsärenden underlättas,
 
 **Ny förordning:** Förordning om företagsrekonstruktion
 
-**Ändringar:** Förmånsrättslagen (1970:979\), köplagen (1990:931\) och aktiebolagslagen (2005:551\) m.fl.
+**Ändringar:** Förmånsrättslagen (1970:979), köplagen (1990:931) och aktiebolagslagen (2005:551) m.fl.
 
 **Beslutsunderlag:** Prop. 2021/22:215 En ny lag om företagsrekonstruktion
 
@@ -1226,11 +1225,11 @@ Kulturdepartementet ansvarar bland annat för frågor om kultur, medier, demokra
 
 Pressekreterare Amalia Lind
 
-Tfn 073\-087 87 43
+Tfn 073-087 87 43
 
 ### Statligt stöd till organisationer som bedriver verksamhet som riktar sig till människor i socialt särskilt utsatta situationer
 
-**Ny förordning:** Förordning (2022:145\) om statsbidrag med anledning av covid\-19 till vissa organisationer som bedriver verksamhet som riktar sig till människor i socialt särskilt utsatta situationer
+**Ny förordning:** Förordning (2022:145) om statsbidrag med anledning av covid-19 till vissa organisationer som bedriver verksamhet som riktar sig till människor i socialt särskilt utsatta situationer
 
 **SFS:** 2022:145
 
@@ -1244,17 +1243,17 @@ Miljödepartementet ansvarar för frågor som rör minskade klimat­utsläpp, en
 
 ### Kontakt
 
-**Presskontakt hos klimat\- och miljöminister Annika Strandhäll:**
+**Presskontakt hos klimat- och miljöminister Annika Strandhäll:**
 
 Pressekreterare Tove Kullenberg
 
-Tfn 073\-842 50 59
+Tfn 073-842 50 59
 
 ### Stöd till sanering av förorenade områden
 
 **Ny förordning:** Förordning om statligt stöd till åtgärder för efterbehandling av föroreningsskador
 
-**Ändringar:** Förordningen (2004:100\) om avhjälpande av föroreningsskador och statligt stöd för sådant avhjälpande
+**Ändringar:** Förordningen (2004:100) om avhjälpande av föroreningsskador och statligt stöd för sådant avhjälpande
 
 **SFS:** 2022:98 och 2022:99
 
@@ -1264,17 +1263,17 @@ Tfn 073\-842 50 59
 
 ### Tillfälliga ändringar gällande tillståndsplikt för avloppsreningsverksamhet
 
-**Ändringar:** Miljöprövningsförordningen (2013:251\) m.fl.
+**Ändringar:** Miljöprövningsförordningen (2013:251) m.fl.
 
 **SFS:** 2022:111–114
 
 **Ikraftträdande:** 15 mars 2022
 
-Ändringarna innebär att det ska vara möjligt att anmäla en brådskande och tillfällig ändring av en avloppsreningsverksamhet som annars omfattas av tillståndsplikt. Detta om behov av en sådan ändring uppkommer till följd av en bristande tillgång till kemikalier för rening av avloppsvatten som verksamhetsutövaren inte råder över. Möjligheten har tidsbegränsats till perioden 15 mars 2022–30 juni 2023\.
+Ändringarna innebär att det ska vara möjligt att anmäla en brådskande och tillfällig ändring av en avloppsreningsverksamhet som annars omfattas av tillståndsplikt. Detta om behov av en sådan ändring uppkommer till följd av en bristande tillgång till kemikalier för rening av avloppsvatten som verksamhetsutövaren inte råder över. Möjligheten har tidsbegränsats till perioden 15 mars 2022–30 juni 2023.
 
 ### Miljösanktionsavgift införs för överträdelse av förbud mot användning av växtskyddsmedel
 
-**Ändringar:** Förordningen (2014:425\) om bekämpningsmedel och förordningen (2012:259\) om miljösanktionsavgifter
+**Ändringar:** Förordningen (2014:425) om bekämpningsmedel och förordningen (2012:259) om miljösanktionsavgifter
 
 **SFS:** 2022:289 och 2022:290
 
@@ -1290,17 +1289,17 @@ Näringsdepartementet ansvarar för frågor som rör företag med statligt ägan
 
 ### Kontakt
 
-**Presskontakt hos näringsminister Karl\-Petter Thorwaldsson:**
+**Presskontakt hos näringsminister Karl-Petter Thorwaldsson:**
 Pressekreterare Kajsa Loord
-Tfn 073\-075 97 31
+Tfn 073-075 97 31
 
-Presskontakt hos landsbygdsminister Anna\-Caren Sätherberg:
+Presskontakt hos landsbygdsminister Anna-Caren Sätherberg:
 Pressekreterare Max Ney
-Tfn 073\-094 25 40
+Tfn 073-094 25 40
 
 ### Stöd till drivmedelsstationer i serviceglesa landsbygder
 
-**Ny förordning:** Förordning (2022:206\) om statligt stöd till försäljningsställen för drivmedel i vissa landsbygdsområden
+**Ny förordning:** Förordning (2022:206) om statligt stöd till försäljningsställen för drivmedel i vissa landsbygdsområden
 
 **SFS:** 2022:206
 
@@ -1318,13 +1317,13 @@ Stöd kan enligt förorodningen lämnas för att bygga om eller byta ut rörledn
 
 **Ikraftträdande:** 1 juli 2022
 
-Staten ska lämna ersättning vid bekämpning av EU\-reglerade växtskadegörare till den som drabbas av vissa kostnader och förluster. Lagen kompletterar EU\-förordningen om skyddsåtgärder mot växtskadegörare och EU\-förordningen om offentlig kontroll och annan offentlig verksamhet i livsmedelskedjan. Den syftar till att ge ett bättre och effektivare skydd mot växtskadegörare vars introduktion, etablering och spridning skulle kunna få oacceptabla ekonomiska, miljömässiga eller sociala konsekvenser.
+Staten ska lämna ersättning vid bekämpning av EU-reglerade växtskadegörare till den som drabbas av vissa kostnader och förluster. Lagen kompletterar EU-förordningen om skyddsåtgärder mot växtskadegörare och EU-förordningen om offentlig kontroll och annan offentlig verksamhet i livsmedelskedjan. Den syftar till att ge ett bättre och effektivare skydd mot växtskadegörare vars introduktion, etablering och spridning skulle kunna få oacceptabla ekonomiska, miljömässiga eller sociala konsekvenser.
 
-Lagen innehåller också en nationell reglering för att skydda virkesproduktionen. För att skydda trädslag som används i virkesproduktionen blir det möjligt att i föreskrifter ställa krav på åtgärder även i andra växtmiljöer än skog och mot andra aktörer än de som är verksamma inom skogsbruket. Det kan till exempel gälla parker och trädgårdar. Skogsvårdslagens (1979:429\) bemyndigande att meddela föreskrifter om åtgärder mot insektshärjning och yngelhärdar förs därför över till växtskyddslagen och utvidgas till att omfatta andra växtskadegörare än insekter.
+Lagen innehåller också en nationell reglering för att skydda virkesproduktionen. För att skydda trädslag som används i virkesproduktionen blir det möjligt att i föreskrifter ställa krav på åtgärder även i andra växtmiljöer än skog och mot andra aktörer än de som är verksamma inom skogsbruket. Det kan till exempel gälla parker och trädgårdar. Skogsvårdslagens (1979:429) bemyndigande att meddela föreskrifter om åtgärder mot insektshärjning och yngelhärdar förs därför över till växtskyddslagen och utvidgas till att omfatta andra växtskadegörare än insekter.
 
 ### Giltighetstid för undersökningstillstånd förlängs med ett år
 
-**Ändringar:** Lag om ändring i minerallagen (1991:45\)
+**Ändringar:** Lag om ändring i minerallagen (1991:45)
 
 **Beslutsunderlag:** Prop. 2021/22:201 Ett års förlängd giltighetstid för undersökningstillstånd
 
@@ -1332,11 +1331,11 @@ Lagen innehåller också en nationell reglering för att skydda virkesproduktion
 
 **Ikraftträdande:** 10 juni 2022
 
-Minerallagen ändras för att motverka de allvarliga konsekvenser som spridningen av covid\-19 medfört för prospekteringsbolagen och för gruvindustrin. Ändringarna innebär att giltighetstiden för undersökningstillstånd som var giltiga 1 juli 2020 och som fortfarande är giltiga 9 juni 2022 förlängs med ett år. Bestämmelserna gäller inte undersökningstillstånd som avser olja eller gasformiga kolväten eller som grundar sig på en ansökan om stenkol och där stenkol uttryckligen anges i tillståndet.
+Minerallagen ändras för att motverka de allvarliga konsekvenser som spridningen av covid-19 medfört för prospekteringsbolagen och för gruvindustrin. Ändringarna innebär att giltighetstiden för undersökningstillstånd som var giltiga 1 juli 2020 och som fortfarande är giltiga 9 juni 2022 förlängs med ett år. Bestämmelserna gäller inte undersökningstillstånd som avser olja eller gasformiga kolväten eller som grundar sig på en ansökan om stenkol och där stenkol uttryckligen anges i tillståndet.
 
 ### Utvinning av kol, olja och naturgas förbjuds och reglerna för utvinning i alunskiffer skärps
 
-**Ändringar:** Lag om ändring i miljöbalken och lag om ändring i minerallagen (1991:45\)
+**Ändringar:** Lag om ändring i miljöbalken och lag om ändring i minerallagen (1991:45)
 
 **Beslutsunderlag:** Prop. 2021/22:150 Förbud mot utvinning av kol, olja och naturgas och skärpta regler för utvinning i alunskiffer
 
@@ -1350,7 +1349,7 @@ I minerallagen tas stenkol, olja och gasformiga kolväten bort som koncessionsmi
 
 ### Brott mot djur – skärpta straff och ett mer effektivt sanktionssystem
 
-**Ändringar:** Ändringar i brottsbalken och djurskyddslagen (2018:1192\)
+**Ändringar:** Ändringar i brottsbalken och djurskyddslagen (2018:1192)
 
 **Beslutsunderlag:** Prop. 2021/22:18
 
@@ -1374,13 +1373,13 @@ Det görs också en ändring i djurskyddslagen som innebär en viss utvidgning a
 
 Förordningen gör det möjligt att, för perioden 1 januari 2020 till och med 31 december 2023, lämna stöd för kostnader som förorsakas av att Förenade konungariket lämnat Europeiska unionen.
 
-Stöd får lämnas till företag för kostnader för konsult\- och rådgivningstjänster, märkning av produkter, deltagande i mässor och liknande.
+Stöd får lämnas till företag för kostnader för konsult- och rådgivningstjänster, märkning av produkter, deltagande i mässor och liknande.
 
 Stöd får även lämnas för investeringar i hamninfrastruktur till den del infrastrukturen är nödvändig för statens myndighetsutövning.
 
 Stöd får också lämnas till statliga myndigheter för kostnader som föranleds av brexit.
 
-Frågor om stöd prövas av Svenska ESF\-rådet.
+Frågor om stöd prövas av Svenska ESF-rådet.
 
 ## Socialdepartementet
 
@@ -1392,21 +1391,21 @@ Socialdepartementet ansvarar för frågor om barnets rättigheter, folkhälsa oc
 
 Pressekreterare Sofia Brändström
 
-Tfn 073\-065 16 12
+Tfn 073-065 16 12
 
 Pressekreterare Elin Aarflot
 
-Tfn 073\-274 23 53
+Tfn 073-274 23 53
 
 **Presskontakt hos socialförsäkringsminister Ardalan Shekarabi:**
 
 Pressekreterare Hanna Kretz
 
-Tfn 073\-064 96 04
+Tfn 073-064 96 04
 
 ### Vårdcentraler ska väljas genom listning
 
-**Ändringar:** Hälso\- och sjukvårdslagen (2017:30\) och patientlagen (2014:821\)
+**Ändringar:** Hälso- och sjukvårdslagen (2017:30) och patientlagen (2014:821)
 
 **Beslutsunderlag:** Prop. 2021/22:72 Ökad kontinuitet och effektivitet i vården – en primärvårdsreform
 
@@ -1418,7 +1417,7 @@ Val av vårdcentral eller liknande vårdenhet sker så att patienten listar sig 
 
 ### Avtal om social trygghet mellan Sverige och Japan
 
-**Nya förordningar:** Förordning (2022:300\) om ikraftträdande av lagen (2021:989\) om avtal om social trygghet mellan Sverige och Japan och förordning (2022:301\) om tillämpning av avtalet om social trygghet mellan Sverige och Japan
+**Nya förordningar:** Förordning (2022:300) om ikraftträdande av lagen (2021:989) om avtal om social trygghet mellan Sverige och Japan och förordning (2022:301) om tillämpning av avtalet om social trygghet mellan Sverige och Japan
 
 **Beslutsunderlag:** Prop. 2021/22:199 Avtal om social trygghet mellan Sverige och Japan
 
@@ -1426,13 +1425,13 @@ Val av vårdcentral eller liknande vårdenhet sker så att patienten listar sig 
 
 **Ikraftträdande:** 1 juni 2022
 
-Avtalet om social trygghet mellan Sverige och Japan innehåller bestämmelser som samordnar de båda ländernas lagstiftning om ålders\-, efterlevande\- och invaliditetspensioner (för svensk del sjuk\- och aktivitetsersättning). Det berör personer som omfattas av eller har omfattats av båda ländernas socialförsäkringssystem och i vissa fall dessa personers familjemedlemmar.
+Avtalet om social trygghet mellan Sverige och Japan innehåller bestämmelser som samordnar de båda ländernas lagstiftning om ålders-, efterlevande- och invaliditetspensioner (för svensk del sjuk- och aktivitetsersättning). Det berör personer som omfattas av eller har omfattats av båda ländernas socialförsäkringssystem och i vissa fall dessa personers familjemedlemmar.
 
 Det berör också arbetsgivare i något av länderna som sänder ut arbetstagare till det andra landet. De viktigaste reglerna avser sammanläggning av försäkringsperioder, betalning av avgifter och utbyte av uppgifter. Regeringen har också ingått en administrativ överenskommelse med Japan för tillämpning av avtalet.
 
 ### En fast omsorgskontakt införs i hemtjänsten
 
-**Ändringar:** Socialtjänstlagen (2001:453\)
+**Ändringar:** Socialtjänstlagen (2001:453)
 
 **Beslutsunderlag:** Prop. 2021/22:116 En fast omsorgskontakt i hemtjänsten
 
@@ -1444,7 +1443,7 @@ Det införs krav på att den som har hemtjänst erbjuds en fast omsorgskontakt, 
 
 ### Förutsättningarna för organdonation förtydligas
 
-**Ändringar:** Lagen (1995:831\) om transplantation m.m., lagen (1987:269\) om kriterier för bestämmande av människans död och offentlighets\- och sekretesslagen (2009:400\)
+**Ändringar:** Lagen (1995:831) om transplantation m.m., lagen (1987:269) om kriterier för bestämmande av människans död och offentlighets- och sekretesslagen (2009:400)
 
 **Beslutsunderlag:** Prop. 2021/22:128 Nya regler för organdonation
 
@@ -1458,7 +1457,7 @@ Närstående har inte längre rätt att förbjuda donation i de fall den möjlig
 
 ### Lex lilla hjärtat – lagändringar för att säkerställa barns bästa när vård enligt LVU upphör
 
-**Ändringar:** Lagen (1990:52\) med särskilda bestämmelser om vård av unga och socialtjänstlagen (2001:453\)
+**Ändringar:** Lagen (1990:52) med särskilda bestämmelser om vård av unga och socialtjänstlagen (2001:453)
 
 **Beslutsunderlag:** Prop. 2021/22:178 Barnets bästa när vård enligt LVU upphör – lex lilla hjärtat
 
@@ -1474,11 +1473,11 @@ En skyldighet för socialnämnden att i vissa situationer överväga om det finn
 
 ### Ett upphandlat fondtorg för premiepensionen införs och en ny myndighet inrättas
 
-**Nya lagar:** Lag (2022:759\) om Fondtorgsnämnden och lag (2022:760\) om upphandling av fonder till premiepensionens fondtorg
+**Nya lagar:** Lag (2022:759) om Fondtorgsnämnden och lag (2022:760) om upphandling av fonder till premiepensionens fondtorg
 
-**Ny förordning:** Förordning (2022:764\) med instruktion för Fondtorgsnämnden
+**Ny förordning:** Förordning (2022:764) med instruktion för Fondtorgsnämnden
 
-**Ändringar:** Socialförsäkringsbalken, offentlighets\- och sekretesslagen (2009:400\), förordningen (2009:1173\) med instruktion för Pensionsmyndigheten med flera förordningar
+**Ändringar:** Socialförsäkringsbalken, offentlighets- och sekretesslagen (2009:400), förordningen (2009:1173) med instruktion för Pensionsmyndigheten med flera förordningar
 
 **Beslutsunderlag:** Prop. 2021/22:179 Ett bättre premiepensionssystem
 
@@ -1488,7 +1487,7 @@ En skyldighet för socialnämnden att i vissa situationer överväga om det finn
 
 Ett upphandlat fondtorg för premiepensionen införs. Fondtorget erbjuder pensionsspararna en pålitlig och säker valmiljö som vägleder pensionssparare att utifrån kunskap och intresse göra egna val i fråga om hur deras fondmedel placeras.
 
-Upphandlingen av fonder och övrig förvaltning av fondtorget sköts av Fondtorgsnämnden som är en nyinrättad nämndmyndighet. Nämnden har Pensionsmyndigheten som sin värdmyndighet och påbörjar sitt arbete den 20 juni 2022\. Detta nya regelverk för premiepensionen bygger på en överenskommelse i Pensionsgruppen från den 14 december 2017\.
+Upphandlingen av fonder och övrig förvaltning av fondtorget sköts av Fondtorgsnämnden som är en nyinrättad nämndmyndighet. Nämnden har Pensionsmyndigheten som sin värdmyndighet och påbörjar sitt arbete den 20 juni 2022. Detta nya regelverk för premiepensionen bygger på en överenskommelse i Pensionsgruppen från den 14 december 2017.
 
 ### Garantipensionen höjs
 
@@ -1498,9 +1497,9 @@ Upphandlingen av fonder och övrig förvaltning av fondtorget sköts av Fondtorg
 
 **SFS:** 2022:1031
 
-**Ikraftträdande:** 15 juli 2022 men gäller garantipension fr.o.m. augusti 2022\.
+**Ikraftträdande:** 15 juli 2022 men gäller garantipension fr.o.m. augusti 2022.
 
-Grundnivån för garantipension höjs med 1 000 kronor per månad. Höjningen av grundnivån innebär att även gränsen för den nivå på inkomstgrundad pension som ger rätt till garantipension höjs. För att höjningen inte ska medföra ett sänkt bostadstillägg så höjs det s.k. fribeloppet i bostadstillägget med samma belopp. Den höjda pensionen betalas ut till berörda pensionärer första gången i augusti 2022\.
+Grundnivån för garantipension höjs med 1 000 kronor per månad. Höjningen av grundnivån innebär att även gränsen för den nivå på inkomstgrundad pension som ger rätt till garantipension höjs. För att höjningen inte ska medföra ett sänkt bostadstillägg så höjs det s.k. fribeloppet i bostadstillägget med samma belopp. Den höjda pensionen betalas ut till berörda pensionärer första gången i augusti 2022.
 
 ### Bostadstillägget höjs för pensionärer
 
@@ -1510,13 +1509,13 @@ Grundnivån för garantipension höjs med 1 000 kronor per månad. Höjningen a
 
 **SFS:** 2022:1031
 
-**Ikraftträdande:** 15 juli 2022 men tillämpas för tid från och med den 1 augusti 2022\. Äldre bestämmelser gäller för bostadstillägg som avser tid före utgången av juli 2022\.
+**Ikraftträdande:** 15 juli 2022 men tillämpas för tid från och med den 1 augusti 2022. Äldre bestämmelser gäller för bostadstillägg som avser tid före utgången av juli 2022.
 
 Ändringen innebär att konsumtionsstödet i bostadstillägget höjs med 300 kronor för den som är ogift och med 150 kronor för den som är gift. Detta för att stärka den ekonomiska situationen för den grupp pensionärer som med hänsyn till inkomster och bostadskostnader har små ekonomiska marginaler.
 
 ### Höjt minimibelopp för fastställande av avgifter enligt socialtjänstlagen
 
-**Ändringar:** Socialtjänstlagen (2001:453\)
+**Ändringar:** Socialtjänstlagen (2001:453)
 
 **Beslutsunderlag:** Prop. 2021/22:269 Extra Ändringsbudget – Vårändringsbudget för 2022 och stöd till Ukraina
 
@@ -1538,11 +1537,11 @@ Minimibeloppet för fastställande av avgifter enligt socialtjänstlagen höjs. 
 
 Tilläggsbidraget är ett tillfälligt tillskott för ekonomiskt utsatta hushåll i en extraordinär situation. Bidraget lämnas utan ansökan till barnfamiljer som har rätt till särskilt bidrag eller umgängesbidrag.
 
-Bidraget lämnas månadsvis med ett belopp som motsvarar 25 procent av det preliminära bostadsbidrag som lämnas för samma månad. Bidragsbestämmelserna gäller till och med december 2022\. Dock gäller bestämmelserna även efter den 1 januari 2023 vad gäller bostadsbidrag som avser perioden juli–december 2022\.
+Bidraget lämnas månadsvis med ett belopp som motsvarar 25 procent av det preliminära bostadsbidrag som lämnas för samma månad. Bidragsbestämmelserna gäller till och med december 2022. Dock gäller bestämmelserna även efter den 1 januari 2023 vad gäller bostadsbidrag som avser perioden juli–december 2022.
 
 ## Utbildningsdepartementet
 
-Utbildningsdepartementet ansvarar bland annat för regeringens utbildnings\-, forsknings\- och folkbildningspolitik.
+Utbildningsdepartementet ansvarar bland annat för regeringens utbildnings-, forsknings- och folkbildningspolitik.
 
 ### Kontakt
 
@@ -1550,17 +1549,17 @@ Utbildningsdepartementet ansvarar bland annat för regeringens utbildnings\-, fo
 
 Pressekreterare Anja L Sundberg
 
-Tfn 076\-116 77 45
+Tfn 076-116 77 45
 
 ### Presskontakt hos skolminister Lina Axelsson Kihlblom:
 
 Pressekreterare Vidar J Lindgren
 
-Tfn 073\-840 33 12
+Tfn 073-840 33 12
 
 ### Ökade möjligheter att stänga skolor med allvarliga brister införs
 
-**Ändringar:** Skollagen (2010:800\)
+**Ändringar:** Skollagen (2010:800)
 
 **Beslutsunderlag:** Prop. 2021/22:45 Ökade möjligheter att stänga skolor med allvarliga brister
 
@@ -1578,7 +1577,7 @@ Syftet med lagändringen är att göra tillsynen mer effektiv och möjligheterna
 
 ### Åtgärder för att fler barn ska delta i förskola
 
-**Ändringar:** Skollagen (2010:800\)
+**Ändringar:** Skollagen (2010:800)
 
 **Beslutsunderlag:** Prop. 2021/22:132 Fler barn i förskola
 
@@ -1588,11 +1587,11 @@ Syftet med lagändringen är att göra tillsynen mer effektiv och möjligheterna
 
 Varje hemkommun ska genom uppsökande verksamhet ta kontakt med vårdnadshavare till barn som inte har en plats i förskolan och informera om förskolans syfte och barnets rätt till förskola. Den första kontakten ska tas inför hösten det år barnet fyller tre år. Från och med den hösten ska hemkommunen också tillhandahålla en reserverad förskoleplats till barn som har bott i Sverige kort tid eller som har vårdnadshavare som har bott i Sverige kort tid, även om vårdnadshavarna inte har anmält önskemål om det.
 
-Kommuner ska även sträva efter att ge ett sådant erbjudande om förskoleplats till andra barn som har behov av förskola för en bättre språkutveckling i svenska. Syftet med ändringarna är att öka deltagandet i förskolan. Ändringarna ska tillämpas första gången i fråga om utbildning som påbörjas efter 1 juli 2023\.
+Kommuner ska även sträva efter att ge ett sådant erbjudande om förskoleplats till andra barn som har behov av förskola för en bättre språkutveckling i svenska. Syftet med ändringarna är att öka deltagandet i förskolan. Ändringarna ska tillämpas första gången i fråga om utbildning som påbörjas efter 1 juli 2023.
 
 ### Mer tid till lärande genom att extra studietid och utökad lovskola införs
 
-**Ändringar:** Skollagen (2010:800\)
+**Ändringar:** Skollagen (2010:800)
 
 **Beslutsunderlag:** Prop. 2021/22:111 Mer tid till lärande – extra studietid och utökad lovskola
 
@@ -1608,15 +1607,15 @@ Syftet med ändringarna är att stärka skolans kompensatoriska uppdrag och att 
 
 ### Ett nytt offentligt omställningsstudiestöd införs i syfte att stärka arbetstagares ställning på arbetsmarknaden
 
-**Ny lag:** Lagen (2022:856\) om omställningsstudiestöd
+**Ny lag:** Lagen (2022:856) om omställningsstudiestöd
 
-**Ny förordning:** Förordningen (2022:857\) om omställningsstudiestöd
+**Ny förordning:** Förordningen (2022:857) om omställningsstudiestöd
 
-**Ändringar:** Lagen om omställningsstudiestöd, socialförsäkringsbalken, lagen (1998:676\) om statlig ålderspensionsavgift, inkomstskattelagen (1999:1229\), studiestödslagen (1999:1395\), lagen (2017:527\) om studiestartsstöd, förordningen (1997:835\) om arbetslöshetsförsäkring, studiestödsförordningen (2000:655\), förordningen (2000:1418\) om tillämpningen av vissa skyddsbestämmelser för sjukpenninggrundande inkomst, förordningen (2017:819\) om ersättning till deltagare i arbetsmarknadspolitiska insatser m.fl.
+**Ändringar:** Lagen om omställningsstudiestöd, socialförsäkringsbalken, lagen (1998:676) om statlig ålderspensionsavgift, inkomstskattelagen (1999:1229), studiestödslagen (1999:1395), lagen (2017:527) om studiestartsstöd, förordningen (1997:835) om arbetslöshetsförsäkring, studiestödsförordningen (2000:655), förordningen (2000:1418) om tillämpningen av vissa skyddsbestämmelser för sjukpenninggrundande inkomst, förordningen (2017:819) om ersättning till deltagare i arbetsmarknadspolitiska insatser m.fl.
 
 **Beslutsunderlag:** Prop. 2021/22:176 Flexibilitet, omställningsförmåga och trygghet på arbetsmarknaden
 
-**SFS:** 2022:856\-873
+**SFS:** 2022:856-873
 
 **Ikraftträdande:** 30 juni respektive 2 juli 2022
 
@@ -1628,11 +1627,11 @@ Förslaget är en av tre delar i omställningspaketet för långsiktigt förbät
 
 ### En sammanhållen utbildning för att stärka nyanländas etablering
 
-**Ändringar:** Skollagen (2010:800\) och förordningen (2011:1108\) om vuxenutbildning
+**Ändringar:** Skollagen (2010:800) och förordningen (2011:1108) om vuxenutbildning
 
 **Beslutsunderlag:** Prop. 2021/22:51 En sammanhållen utbildning för nyanlända som har utbildningsplikt
 
-**SFS:** 2022:109\-110
+**SFS:** 2022:109-110
 
 **Ikraftträdande:** 1 augusti 2022
 
@@ -1648,7 +1647,7 @@ Utbildningen ska omfatta minst 23 timmars undervisning i veckan i genomsnitt und
 
 **SFS:** 2022:222
 
-**Ikraftträdande:** 11 april 2022 (förordningen upphör att gälla vid utgången av juni 2023\)
+**Ikraftträdande:** 11 april 2022 (förordningen upphör att gälla vid utgången av juni 2023)
 
 Fristående förskoleklasser, grundskolor och grundsärskolor ska kunna avsätta ett begränsat antal platser per läsår, en särskild kvot. I kvoten får bara de elever ingå som varit bosatta i landet kortare tid än två år före starten av det aktuella läsåret. Syftet är att få en så jämn spridning av nyanlända elever i landet som möjligt.
 
@@ -1658,9 +1657,9 @@ Förordningen har införts med anledning av tillströmningen av flyktingar från
 
 ### Högre kvalitet i lärarutbildningarna
 
-**Ny förordning:** Förordningen (2021:1335\) om utbildning till lärare och förskollärare
+**Ny förordning:** Förordningen (2021:1335) om utbildning till lärare och förskollärare
 
-**Beslutsunderlag:** Promemorian Ökad kvalitet i lärarutbildningen och fler lärare i skolan (U2021/00301\)
+**Beslutsunderlag:** Promemorian Ökad kvalitet i lärarutbildningen och fler lärare i skolan (U2021/00301)
 
 **SFS:** 2021:1335
 
@@ -1672,7 +1671,7 @@ Kopplingen mellan teori och praktik i utbildningarna stärks och fokus på metod
 
 ### En sammantagen bedömning införs vid betygssättning
 
-**Ändring:** Skollagen (2010:800\)
+**Ändring:** Skollagen (2010:800)
 
 **Beslutsunderlag:** Prop. 2021/22:36 Ämnesbetyg – betygen ska bättre spegla elevers kunskaper
 
@@ -1686,7 +1685,7 @@ Samtliga kriterier för det lägsta godkända betyget ska dock vara uppfyllda f�
 
 ### Tydligare regler för resursskolor och tilläggsbelopp för särskilt stöd
 
-**Ändringar:** Skollagen (2010:800\)
+**Ändringar:** Skollagen (2010:800)
 
 **Beslutsunderlag:** Prop. 2021/22:156 Resursskolor och tilläggsbelopp för särskilt stöd
 
@@ -1696,11 +1695,11 @@ Samtliga kriterier för det lägsta godkända betyget ska dock vara uppfyllda f�
 
 Förutsättningarna för så kallade resursskolor, det vill säga skolor som begränsar sitt mottagande till elever i behov av särskilt stöd, utvecklas och förtydligas. Det tydliggörs att kommuner får driva egna resursskolor på grundskolenivå. Benämningen resursskola införs även för fristående skolor som begränsar utbildningen på det sättet.
 
-Vidare tydliggörs att resursskolor är en form av särskilt stöd. Dessutom  införs ett bemyndigande som möjliggör förtydligande föreskrifter om när så kallade tilläggsbelopp för barn och elever i behov av omfattande särskilt stöd ska lämnas. Syftet är att systemet ska bli mer likvärdigt och rättvist så att barn och elever får det stöd de behöver. De nya bestämmelserna om resursskolor ska tillämpas från och med höstterminen 2023\.
+Vidare tydliggörs att resursskolor är en form av särskilt stöd. Dessutom  införs ett bemyndigande som möjliggör förtydligande föreskrifter om när så kallade tilläggsbelopp för barn och elever i behov av omfattande särskilt stöd ska lämnas. Syftet är att systemet ska bli mer likvärdigt och rättvist så att barn och elever får det stöd de behöver. De nya bestämmelserna om resursskolor ska tillämpas från och med höstterminen 2023.
 
 ### Åtgärder för att förbättra skolans arbete med trygghet och studiero
 
-**Ändringar:** Skollagen (2010:800\)
+**Ändringar:** Skollagen (2010:800)
 
 **Beslutsunderlag:** Prop. 2021/22:160 Skolans arbete med trygghet och studiero
 
@@ -1712,21 +1711,21 @@ Vidare tydliggörs att resursskolor är en form av särskilt stöd. Dessutom  i
 
 Mobiltelefoner ska vid undervisning i regel endast få användas efter lärarens instruktion. Möjligheterna att omhänderta mobiltelefoner och ha mobilfria skoldagar ska öka. Dessutom ska kraven på huvudmannens klagomålshantering skärpas och Statens skolinspektion ska som huvudregel inte kunna inleda tillsyn som rör ett enskilt barn eller en enskild elev om inte huvudmannen har fått möjlighet att hantera frågan först.
 
-### Ansvar för genomförande av högskoleprovet överförs permanent till Universitets\- och högskolerådet
+### Ansvar för genomförande av högskoleprovet överförs permanent till Universitets- och högskolerådet
 
-**Ändring:** Förordning (2020:769\) om ändring i högskoleförordningen
+**Ändring:** Förordning (2020:769) om ändring i högskoleförordningen
 
-**Beslutsunderlag:** Högskoleprovsutredningens betänkande Högskoleprovets organisation och styrning (SOU 2021:72\)
+**Beslutsunderlag:** Högskoleprovsutredningens betänkande Högskoleprovets organisation och styrning (SOU 2021:72)
 
 **SFS:** 2022:341
 
 **Ikraftträdande:** 1 juli 2022
 
-Under coronapandemin överfördes ansvaret för genomförande av högskoleprovet tillfälligt från universitet och högskolor till Universitets\- och högskolerådet (UHR). Genom en ändring i högskoleförordningen överförs nu ansvaret för genomförandet av högskoleprovet permanent till UHR. Myndigheten ska samråda om genomförandet av provet med de universitet och högskolor som ska använda provet som urvalsgrund. Sådana universitet och högskolor ska bistå UHR vid genomförandet av provet.
+Under coronapandemin överfördes ansvaret för genomförande av högskoleprovet tillfälligt från universitet och högskolor till Universitets- och högskolerådet (UHR). Genom en ändring i högskoleförordningen överförs nu ansvaret för genomförandet av högskoleprovet permanent till UHR. Myndigheten ska samråda om genomförandet av provet med de universitet och högskolor som ska använda provet som urvalsgrund. Sådana universitet och högskolor ska bistå UHR vid genomförandet av provet.
 
 ### Fler kan erbjudas folkbildningsinsatsen Svenska från dag 1
 
-**Ändring:** Förordningen (2015:521\) om statsbidrag till särskilda folkbildningsinsatser för asylsökande och vissa nyanlända invandare
+**Ändring:** Förordningen (2015:521) om statsbidrag till särskilda folkbildningsinsatser för asylsökande och vissa nyanlända invandare
 
 **SFS:** 2022:223
 
@@ -1736,7 +1735,7 @@ Det förtydligas att statsbidraget som fördelas till studieförbund och folkhö
 
 ## Utrikesdepartementet
 
-Utrikesdepartementet ansvarar för Sveriges utrikes\-, bistånds\- och utrikeshandelspolitik.
+Utrikesdepartementet ansvarar för Sveriges utrikes-, bistånds- och utrikeshandelspolitik.
 
 ### Kontakt
 
@@ -1744,23 +1743,23 @@ Utrikesdepartementet ansvarar för Sveriges utrikes\-, bistånds\- och utrikesha
 
 Pressekreterare Andreas Enbuske
 
-Tfn 076\-130 58 86
+Tfn 076-130 58 86
 
 **Presskontakt hos utrikeshandelsminister och minister med ansvar för nordiska frågor Anna Hallberg:**
 
 Pressekreterare Tobias Eke Vestergren
 
-Tfn 073\-042 21 84
+Tfn 073-042 21 84
 
 **Presskontakt hos biståndsminister Matilda Ernkrans:**
 
 Pressekreterare Nadja Yusuf
 
-Tfn 073\-085 00 49
+Tfn 073-085 00 49
 
 ### En mer enhetlig och effektiv marknadskontroll av varor och produkter införs
 
-**Ny lag:** Lag om marknadskontroll av EU\-gödselprodukter
+**Ny lag:** Lag om marknadskontroll av EU-gödselprodukter
 
 **Ändringar:** Anpassningar till EU:s marknadskontrollförordning genom ändring i flera lagar
 
@@ -1772,11 +1771,11 @@ Tfn 073\-085 00 49
 
 Bestämmelserna innebär att marknadskontrollmyndigheterna får utökade befogenheter att kontrollera att produkter som tillhandahålls på EU:s inre marknad uppfyller gällande krav, till exempel säkerhetskrav eller krav för att skydda människors hälsa eller miljön.
 
-Marknadskontroll avser de åtgärder som myndigheter vidtar för att säkerställa att produkter på marknaden uppfyller gällande lagstiftning och att de är kontrollerade och märkta på föreskrivet sätt. Genom ändringar i flera lagar genomförs och kompletteras EU:s produktlagstiftning, inklusive de övriga kompletteringar av EU:s marknadskontroll som inte omhändertagits genom det lagstiftningsärende som innebar lagändringar 16 juli 2021\.
+Marknadskontroll avser de åtgärder som myndigheter vidtar för att säkerställa att produkter på marknaden uppfyller gällande lagstiftning och att de är kontrollerade och märkta på föreskrivet sätt. Genom ändringar i flera lagar genomförs och kompletteras EU:s produktlagstiftning, inklusive de övriga kompletteringar av EU:s marknadskontroll som inte omhändertagits genom det lagstiftningsärende som innebar lagändringar 16 juli 2021.
 
 ### Förstärkt kontroll av produkter med dubbla användningsområden
 
-**Ändringar:** Lag (2000:1064\) om kontroll av produkter med dubbla användningsområden och av tekniskt bistånd
+**Ändringar:** Lag (2000:1064) om kontroll av produkter med dubbla användningsområden och av tekniskt bistånd
 
 **Beslutsunderlag:** Prop. 2021/22:209 Förstärkt kontroll av produkter med dubbla användningsområden
 
@@ -1790,7 +1789,7 @@ Lagändringarna görs med anledning av EU:s nya förordning om kontroll av produ
 
 ### Regeringen bemyndigas att meddela föreskrifter om återkallelse av vissa uppehållstillstånd
 
-**Ändring:** Utlänningslag (2005:716\)
+**Ändring:** Utlänningslag (2005:716)
 
 **Beslutsunderlag:** Prop. 2021/22:121 Återkallelse av uppehållstillstånd som har meddelats av Regeringskansliet för personer med anknytning till utländska beskickningar, karriärkonsulat eller internationella organ
 
@@ -1802,7 +1801,7 @@ Regeringen får rätt att meddela föreskrifter om under vilka förutsättningar
 
 ### Regeringen ges rätt att meddela föreskrifter om tullfrihet
 
-**Ändringar:** Lag (1994:1547\) om tullfrihet m.m.
+**Ändringar:** Lag (1994:1547) om tullfrihet m.m.
 
 **Beslutsunderlag:** Prop. 2021/22:222 Översyn av vissa bestämmelser om tullfrihet
 
@@ -1810,4 +1809,4 @@ Regeringen får rätt att meddela föreskrifter om under vilka förutsättningar
 
 **Ikraftträdande:** 1 november 2022
 
-Regeringen får rätt att meddela föreskrifter om villkor för användning och avyttring av vissa varor för att frihet från tull ska gälla för EU:s institutioner och organ samt personer knutna till dessa. Regeringen ges även rätt att meddela föreskrifter om tullfrihet inom området för vissa överenskommelser och internationella konventioner. Ändringarna innebär i huvudsak att svensk lagstiftning justeras med anledning av EU\-rätten.
+Regeringen får rätt att meddela föreskrifter om villkor för användning och avyttring av vissa varor för att frihet från tull ska gälla för EU:s institutioner och organ samt personer knutna till dessa. Regeringen ges även rätt att meddela föreskrifter om tullfrihet inom området för vissa överenskommelser och internationella konventioner. Ändringarna innebär i huvudsak att svensk lagstiftning justeras med anledning av EU-rätten.

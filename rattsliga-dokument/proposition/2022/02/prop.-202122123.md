@@ -12,4 +12,4 @@ Förslagen är att det
 * förtydligas vad som krävs i fråga om dokumentation efter en validering
 * ges ett brett bemyndigande för regeringen eller den myndighet som regeringen bestämmer att meddela föreskrifter om validering av en persons kunnande.
 
-I propositionen lämnas förslag till de lagändringar som behövs. Lagändringarna föreslås träda i kraft den 1 januari 2023\.
+I propositionen lämnas förslag till de lagändringar som behövs. Lagändringarna föreslås träda i kraft den 1 januari 2023.

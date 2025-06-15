@@ -4,6 +4,6 @@ I promemorian föreslås att undantaget från skatteplikt för egenproducerad el
 
 Därutöver föreslås att den befintliga skattenedsättningen i form av avdrag i deklarationen för egenproducerad förnybar el, inklusive solel, utvidgas till fullständig skattebefrielse. Effektgränserna för skattenedsättningen i form av avdrag höjs på motsvarande sätt som effektgränserna för undantaget från skatteplikt. Förslagen ligger i linje med regeringens ambition att det ska vara enklare och mer lönsamt att investera i förnybar energi för eget bruk.
 
-Ändringarna föreslås träda i kraft den 1 juli 202\.
+Ändringarna föreslås träda i kraft den 1 juli 202.
 
-Remissvaren ska ha kommit in till Finansdepartementet senast den 20 januari 2021\.
+Remissvaren ska ha kommit in till Finansdepartementet senast den 20 januari 2021.

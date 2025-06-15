@@ -8,13 +8,13 @@ Regeringen har beslutat om en ny förordning om statligt stöd till åtgärder f
 
 En mindre följdändring görs också i förordningen med instruktion för Sveriges geologiska undersökning.
 
-Ändringarna träder i kraft den 8 mars 2022\.
+Ändringarna träder i kraft den 8 mars 2022.
 
 **Referenser:**
 
-* förordning (2022:98\) om statligt stöd till åtgärder för efterbehandling av föroreningsskador
-* förordning (2022:99\) om ändring i förordningen (2004:100\) om avhjälpande av föroreningsskador och statligt stöd för sådant avhjälpande
+* förordning (2022:98) om statligt stöd till åtgärder för efterbehandling av föroreningsskador
+* förordning (2022:99) om ändring i förordningen (2004:100) om avhjälpande av föroreningsskador och statligt stöd för sådant avhjälpande
 
 ### Kontaktperson:
 
-Pia\-Maria Lindroos 08\-405 21 51
+Pia-Maria Lindroos 08-405 21 51

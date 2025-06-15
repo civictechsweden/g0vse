@@ -10,4 +10,4 @@ Vidare föreslås mot bakgrund av EG:s åttonde bolagsrättsliga direktiv, revis
 
 I propositionen föreslås en skyldighet för revisorn att i vissa fall till åklagare anmäla misstankar om brott i aktiebolaget. Härigenom utformas reglerna kring revisionen så att revisorn på ett effektivt sätt kan ingripa mot sådana oegentligheter i bolaget som riktar sig mot bolaget eller dess intressenter.
 
-De nya reglerna föreslås träda i kraft den 1 januari 1999\.
+De nya reglerna föreslås träda i kraft den 1 januari 1999.

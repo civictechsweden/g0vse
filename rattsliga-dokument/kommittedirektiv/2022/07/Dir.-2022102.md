@@ -11,4 +11,4 @@ Utredaren ska bland annat
 * föreslå övergångslösningar som ger befintliga aktörer förutsättningar att ställa om sin verksamhet med hänsyn till förbudet, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 29 februari 2024\.
+Uppdraget ska redovisas senast den 29 februari 2024.

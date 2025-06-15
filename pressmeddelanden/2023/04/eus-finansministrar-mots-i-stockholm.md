@@ -8,4 +8,4 @@ Mötet inleds med arbetsluncher för ministrarna och centralbankscheferna den 28
 
 Ackreditering för att bevaka det informella mötet erhålls via det officiella ackrediteringssystemet för det svenska ordförandeskapet (se länk).
 
-Praktisk information till journalister erhålls via mediahandboken (se länk). Senaste datum för ackreditering är fredag 21 april. För mer information om mötesprogrammet och ackreditering se det svenska ordförandeskapets webbplats (se länk). För eventuella frågor om ackreditering kontakta det svenska EU\-ordförandeskapets pressfunktion (se kontakt nedan).
+Praktisk information till journalister erhålls via mediahandboken (se länk). Senaste datum för ackreditering är fredag 21 april. För mer information om mötesprogrammet och ackreditering se det svenska ordförandeskapets webbplats (se länk). För eventuella frågor om ackreditering kontakta det svenska EU-ordförandeskapets pressfunktion (se kontakt nedan).

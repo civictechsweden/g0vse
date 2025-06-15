@@ -2,4 +2,4 @@
 
 Uppdraget begränsas genom att vissa delar utgår.
 
-Uppdraget ska redovisas senast den 1 februari 2012\.
+Uppdraget ska redovisas senast den 1 februari 2012.

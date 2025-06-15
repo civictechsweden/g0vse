@@ -4,9 +4,9 @@ En särskild utredare ska föreslå hur reglerna om privatpersoners uthyrning a
 
 Utredaren ska bland annat
 
-* bedöma hur reglerna i lagen (2012:978\) om uthyrning av egen bostad om lagens tillämpningsområde och hyressättning bör utformas för att bli tydligare, mer förutsebara och enklare att tillämpa,
+* bedöma hur reglerna i lagen (2012:978) om uthyrning av egen bostad om lagens tillämpningsområde och hyressättning bör utformas för att bli tydligare, mer förutsebara och enklare att tillämpa,
 * föreslå utökade möjligheter att hyra ut en bostadsrättslägenhet i andra hand,
 * bedöma hur hyrorna för nyproducerade hyreslägenheter bör kunna ändras under presumtionstiden, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget i den del som avser att se över reglerna om ändring av presumtionshyror ska redovisas i ett delbetänkande senast den 2 september 2024\. De övriga delarna av uppdraget ska slutredovisas senast den 3 mars 2025\.
+Uppdraget i den del som avser att se över reglerna om ändring av presumtionshyror ska redovisas i ett delbetänkande senast den 2 september 2024. De övriga delarna av uppdraget ska slutredovisas senast den 3 mars 2025.

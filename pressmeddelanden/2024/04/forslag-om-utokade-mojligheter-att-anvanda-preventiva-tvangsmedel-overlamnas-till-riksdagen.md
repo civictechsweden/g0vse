@@ -13,4 +13,4 @@ I propositionen föreslår regeringen bland annat följande lagändringar:
 
 – De här förslagen kommer också ge brottsbekämpningen bättre möjligheter att förhindra ekonomisk brottslighet, något som efterfrågats av bland annat Polismyndigheten och Ekobrottsmyndigheten. Detta kommer bli centralt i arbetet framåt med att strypa den kriminella ekonomin, säger justitieminister Gunnar Strömmer.
 
-Lagändringarna föreslås träda i kraft den 1 september 2024\.
+Lagändringarna föreslås träda i kraft den 1 september 2024.

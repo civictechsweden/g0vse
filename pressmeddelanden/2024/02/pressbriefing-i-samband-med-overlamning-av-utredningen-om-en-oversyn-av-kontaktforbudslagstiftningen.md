@@ -8,7 +8,7 @@ I mars 2023 beslutade regeringen att ge ett tilläggsdirektiv till utredningen, 
 
 Måndag den 12 februari överlämnas betänkandet till justitieminister Gunnar Strömmer och jämställdhetsminister Paulina Brandberg. I samband med överlämningen hålls en pressbriefing. För mer information och intervjuförfrågningar, kontakta pressekreterare.
 
-**Tid**: kl. 13\.45\. Inpassering från kl. 13\.30\.
-**Plats:** Rosenbad, ingång Drottninggatan 1\.
+**Tid**: kl. 13.45. Inpassering från kl. 13.30.
+**Plats:** Rosenbad, ingång Drottninggatan 1.
 
-Obligatorisk föranmälan senast måndag den 12 februari kl. 11\.30 till pressekreterare Erica Wide.
+Obligatorisk föranmälan senast måndag den 12 februari kl. 11.30 till pressekreterare Erica Wide.

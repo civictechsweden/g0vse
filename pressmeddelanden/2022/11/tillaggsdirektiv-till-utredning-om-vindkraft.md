@@ -6,10 +6,10 @@ I det andra uppdraget ingick att bedöma om finansieringen av förslagen bör ko
 
 För att klara klimatomställningen och den ökade elektrifieringen i samhället behövs mer fossilfri elproduktion.
 
-– Vindkraften är en viktig del av Sveriges energimix och vår övergång till helt fossilfri elproduktion. Men elproduktionen måste också vara marknadsmässigt hållbar. Därför behövs en väl fungerande elmarknad där staten står neutral mellan olika fossilfria kraftslag och där varje produktionsslag bär sina egna kostnader, säger klimat\- och miljöminister Romina Pourmokhtari.
+– Vindkraften är en viktig del av Sveriges energimix och vår övergång till helt fossilfri elproduktion. Men elproduktionen måste också vara marknadsmässigt hållbar. Därför behövs en väl fungerande elmarknad där staten står neutral mellan olika fossilfria kraftslag och där varje produktionsslag bär sina egna kostnader, säger klimat- och miljöminister Romina Pourmokhtari.
 
-Beslutet om tilläggsdirektivet ligger i linje med Tidö\-avtalet, en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna. I Tidö\-avtalet identifieras bland annat  ”Klimat och energi” som ett viktigt samarbetsprojekt.
+Beslutet om tilläggsdirektivet ligger i linje med Tidö-avtalet, en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna. I Tidö-avtalet identifieras bland annat  ”Klimat och energi” som ett viktigt samarbetsprojekt.
 
-– Tilläggsdirektivet gör att utredningen går i takt med regeringens politik på området. Utredningen är viktig för den framtida produktionen av vindkraftsel och jag ser fram emot att till våren ta emot utredarens förslag, säger klimat\- och miljöminister Romina Pourmokhtari.
+– Tilläggsdirektivet gör att utredningen går i takt med regeringens politik på området. Utredningen är viktig för den framtida produktionen av vindkraftsel och jag ser fram emot att till våren ta emot utredarens förslag, säger klimat- och miljöminister Romina Pourmokhtari.
 
-Utredaren ska lämna sina förslag senast den 31 mars 2023\.
+Utredaren ska lämna sina förslag senast den 31 mars 2023.

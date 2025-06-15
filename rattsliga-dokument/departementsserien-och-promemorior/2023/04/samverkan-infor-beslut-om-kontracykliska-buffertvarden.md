@@ -8,4 +8,4 @@ I denna promemoria föreslås att Finansinspektionen ska ge Riksbanken tillfäll
 
 I promemorian föreslås även att det ska göras vissa rättelser av svensk rätt. Det innebär t.ex. att bestämmelserna om när resolutionsavgift ska tas ut anpassas till unionsrätten.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

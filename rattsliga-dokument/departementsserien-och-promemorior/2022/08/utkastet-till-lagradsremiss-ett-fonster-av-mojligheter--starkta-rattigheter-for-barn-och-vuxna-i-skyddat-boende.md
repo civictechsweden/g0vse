@@ -10,7 +10,7 @@ Regeringskansliet föreslår att skyddat boende ska regleras i socialtjänstlage
 
 ## Barn bedöms individuellt
 
-Barn som följer med en vårdnadshavare till ett skyddat boende ska bedömas och beviljas insatsen individuellt och socialnämnden ska ansvara för att tillgodose barnets behov av stöd\- och hjälpinsatser.
+Barn som följer med en vårdnadshavare till ett skyddat boende ska bedömas och beviljas insatsen individuellt och socialnämnden ska ansvara för att tillgodose barnets behov av stöd- och hjälpinsatser.
 
 När det finns samtycke från båda vårdnadshavarna ska barnet placeras med stöd av socialtjänstlagen. Saknas samtycke från den vårdnadshavare som barnet inte placeras tillsammans med, ska socialnämnden, efter ansökan hos förvaltningsrätten, kunna placera barnet i ett skyddat boende med stöd av en ny lag. En sådan placering ska även kunna göras omedelbart av socialnämnden och underställas förvaltningsrätten.
 
@@ -20,4 +20,4 @@ I utkastet lämnas även förslag som rör bestämmanderätten över barnet unde
 
 I utkastet lämnas förslag om att det ska krävas tillstånd från Inspektionen för vård och omsorg för att få driva verksamhet i form av skyddat boende. Kommuner och regioner som driver sådan verksamhet ska anmäla detta till myndigheten.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2023\.
+Lagändringarna föreslås träda i kraft den 1 juli 2023.

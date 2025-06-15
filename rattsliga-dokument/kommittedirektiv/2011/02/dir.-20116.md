@@ -11,4 +11,4 @@ Kommittén ska bland annat:
 * analysera och föreslå förbättringar av regelverket för Riksbankens hantering av frågor som rör finansiell stabilitet, inklusive lämnande av likviditetsstöd samt uppgifter och medel i sin roll att främja finansiell stabilitet och god marknadsfunktion.
 * utreda och föreslå en riskdifferentierad avgift för stabilitetsfonden.
 
-Uppdraget ska redovisas senast den 15 augusti 2012\.
+Uppdraget ska redovisas senast den 15 augusti 2012.

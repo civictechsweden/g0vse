@@ -1,6 +1,6 @@
 # Ledamöter i Äldreforskarrådet får nya förordnanden
 
-– Det ska bli väldigt intressant att träffa alla ledamöter och ta del av deras forskning som spänner brett över hela äldreområdet. Rådets samlade kompetens är en viktig tillgång då äldreomsorgen står inför stora utmaningar och är en av regeringens prioriterade frågor, säger äldre\- och socialförsäkringsminister Anna Tenje.
+– Det ska bli väldigt intressant att träffa alla ledamöter och ta del av deras forskning som spänner brett över hela äldreområdet. Rådets samlade kompetens är en viktig tillgång då äldreomsorgen står inför stora utmaningar och är en av regeringens prioriterade frågor, säger äldre- och socialförsäkringsminister Anna Tenje.
 
 Äldreforskarrådet inrättades 2019 i syfte att främja dialog mellan regeringen och forskare inom äldreområdet. Forskarrådet ska ge regeringen möjlighet att inhämta fakta och synpunkter rörande policyutveckling i prioriterade frågor och informera sig om aktuell och relevant forskning.
 

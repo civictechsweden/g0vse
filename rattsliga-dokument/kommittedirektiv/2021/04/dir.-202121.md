@@ -2,4 +2,4 @@
 
 Förlängd tid för uppdraget.
 
-Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 15 augusti 2021\.
+Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 15 augusti 2021.

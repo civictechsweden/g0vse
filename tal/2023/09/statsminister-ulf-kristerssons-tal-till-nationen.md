@@ -1,15 +1,14 @@
 # Statsminister Ulf Kristerssons tal till nationen
 
-Tal till nationen av statsminister Ulf Kristersson med anledning av det grova våldet, Stockholm, torsdag den 28 september 2023\.
+Tal till nationen av statsminister Ulf Kristersson med anledning av det grova våldet, Stockholm, torsdag den 28 september 2023.
 
 Det talade ordet gäller.
 
-
 Det är en svår tid för Sverige.
 
-En 25\-årig kvinna gick och la sig igår – en helt vanlig kväll – men fick aldrig vakna igen. I morse dödades hon i ett sprängdåd i Uppsala. Mina tankar är med henne och hennes familj.
+En 25-årig kvinna gick och la sig igår – en helt vanlig kväll – men fick aldrig vakna igen. I morse dödades hon i ett sprängdåd i Uppsala. Mina tankar är med henne och hennes familj.
 
-För en vecka sedan gick en 70\-åring man till en bar i Sandviken för att umgås med sina vänner. Han fick aldrig komma hem igen. Han var blind och han sköts till döds. Mina tankar går också till honom och hans familj.
+För en vecka sedan gick en 70-åring man till en bar i Sandviken för att umgås med sina vänner. Han fick aldrig komma hem igen. Han var blind och han sköts till döds. Mina tankar går också till honom och hans familj.
 
 Och mina tankar går till den unga man i Uppsala som mördades en tidig morgon i en trappuppgång för två veckor sedan, på väg till sitt jobb i hemtjänsten.
 

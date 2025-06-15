@@ -2,7 +2,6 @@
 
 I mycket hård konkurrens, och efter en spännande omröstning har Ola Laurell som förste svensk, och nordbo, valts in i Europarådets expertgrupp mot människohandel (GRETA).
 
-
 Ola Laurell har tidigare bland annat varit chefsåklagare vid internationella åklagarkammaren i Uppsala, vid åklagarkammaren i Stockholm samt Sveriges nationella medlem vid Eurojust i Haag.
 
 **Grattis till utnämningen! Hur känns det?**
@@ -12,7 +11,7 @@ Tack! Det känns mycket hedrande att få det här uppdraget. Det börjar redan d
 Det finns flera kontroversiella frågor när det gäller människohandel inom Europarådets medlemsländer. Det gäller till exempel synen på prostitution, där en del länder ser det närmast som en mänsklig rättighet att det ska finnas prostituerade och där vi i Sverige har en helt avvikande uppfattning.
 
 **Den svenska sexköpslagen, som funnits i drygt 15 år och som har varit effektiv, har väl fått en del efterföljare i andra länder?**
-Det stämmer, några länder har följt efter, men det finns fortfarande ett stort motstånd mot kriminalisering av sexköp i till exempel Nederländerna, Tyskland och Österrike. De här frågorna är något som Kajsa Wahlberg, polisens nationella rapportör för människohandel, och jag haft ett samarbete kring i åtta\-tio år.
+Det stämmer, några länder har följt efter, men det finns fortfarande ett stort motstånd mot kriminalisering av sexköp i till exempel Nederländerna, Tyskland och Österrike. De här frågorna är något som Kajsa Wahlberg, polisens nationella rapportör för människohandel, och jag haft ett samarbete kring i åtta-tio år.
 
 **Det var Justitiedepartementet som nominerade dig till expertgruppen. Kommer du att ha något med departementet att göra i ditt nya uppdrag?**
 Jag kommer inte att vara regeringens eller Regeringskansliets representant, inte ens Sveriges representant egentligen, utan ledamöterna i expertgruppen ska vara oberoende och opartiska i förhållande till hemlandet, så nej, det kommer jag inte.

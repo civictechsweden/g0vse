@@ -1,6 +1,6 @@
 # Mer film till fler - en sammanhållen filmpolitik
 
-I propositionen föreslår regeringen nya mål för den nationella filmpolitiken och nya former för samverkan med filmbranschen. Staten avser att lämna filmavtalsmodellen och ta ett helhetsansvar för den nationella filmpolitiken från och med den 1 januari 2017\. Förändringen innebär att filmpolitiken blir en fullt ut integrerad del av kulturpolitiken.
+I propositionen föreslår regeringen nya mål för den nationella filmpolitiken och nya former för samverkan med filmbranschen. Staten avser att lämna filmavtalsmodellen och ta ett helhetsansvar för den nationella filmpolitiken från och med den 1 januari 2017. Förändringen innebär att filmpolitiken blir en fullt ut integrerad del av kulturpolitiken.
 
 Filmpolitikens vision för svensk film bör vara att svensk film ska ha hög kvalitet och uppvisa sådan bredd och mångfald av berättelser att den angår alla. Svensk film ska vara ett självklart och tillgängligt val för publiken i hela landet och attraktiv internationellt.
 
@@ -9,7 +9,7 @@ Filmpolitikens vision för svensk film bör vara att svensk film ska ha hög kva
 I propositionen föreslås följande mål för den nationella filmpolitiken:
 
 1. Utveckling och produktion av värdefull svensk film sker kontinuerligt och i olika delar av landet.
-2. Allt fler ser värdefull film som sprids och visas i olika visnings\-former i hela landet.
+2. Allt fler ser värdefull film som sprids och visas i olika visnings-former i hela landet.
 3. Filmarvet bevaras, används och utvecklas.
 4. Svensk film sprids alltmer utomlands och kvalificerat internationellt utbyte och samverkan sker på filmområdet.
 5. Barn och unga har goda kunskaper om film och rörlig bild och ges möjligheter till eget skapande.

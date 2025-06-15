@@ -6,4 +6,4 @@ Riksdagen fastställde i december 2020 att de fyra regementena skulle återuppr�
 
 – Välfungerande och ändamålsenliga garnisoner för våra värnpliktiga, anställda och frivilliga är en förutsättning för den tillväxt som sker, säger försvarsminister Pål Jonson.
 
-Investeringen avser omfatta förvärv av mark, etablering av teknisk försörjning, planering för vägar, byggnader och andra objekt för verksamhetens behov. Projekteringsarbetet kommer att pågå under en period av två till tre år och garnisonerna bedöms kunna färdigställas och tas i bruk omkring år 2030\.
+Investeringen avser omfatta förvärv av mark, etablering av teknisk försörjning, planering för vägar, byggnader och andra objekt för verksamhetens behov. Projekteringsarbetet kommer att pågå under en period av två till tre år och garnisonerna bedöms kunna färdigställas och tas i bruk omkring år 2030.

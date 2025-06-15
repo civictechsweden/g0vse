@@ -1,6 +1,6 @@
 # En ny lag om företagshemligheter
 
-Regeringen föreslår att skyddet för företagshemligheter stärks. Genom förslagen genomförs ett nytt EU\-direktiv.
+Regeringen föreslår att skyddet för företagshemligheter stärks. Genom förslagen genomförs ett nytt EU-direktiv.
 
 Skyddet för företagshemligheter stärker företagens konkurrenskraft och ger bättre förutsättningar för innovation och ett kunskapsbaserat företagande.
 
@@ -15,6 +15,6 @@ Regeringen vill samtidigt göra det tydligare att skyddet för företagshemlighe
 
 Skyddet för företagshemligheter får inte leda till att arbetstagare känner sig hindrade att byta arbete. Det klargörs därför i lagen att arbetstagarens personliga kunskaper och färdigheter kan användas hos en ny arbetsgivare. Det ställs också högre krav på att företagen talar om för arbetstagarna vad företagen håller hemligt.
 
-Den nya lagen och lagändringarna föreslås träda i kraft den 1 juli 2018\.
+Den nya lagen och lagändringarna föreslås träda i kraft den 1 juli 2018.
 
 [Pressmeddelande: Stärkt skydd för företagshemligheter](/pressmeddelanden/2018/03/starkt-skydd-for-foretagshemligheter/)

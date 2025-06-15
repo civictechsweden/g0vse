@@ -4,7 +4,7 @@ I höstas överlämnade Riksrevisionen sin granskningsrapport om statens åtgär
 
 Regeringen instämmer i Riksrevisionens bedömning att konsekvensanalyserna inför beslut som har haft påverkan på elsystemet i vissa avseenden har varit otillräckliga. Därtill har hanteringen av konsekvenserna varit kortsiktig och reaktiv.
 
-– Riksrevisionens granskning visar att den omläggning av energipolitiken som regeringen nu genomför är nödvändig för att trygga elförsörjningen och skapa långsiktiga förutsättningar för ny planerbar och fossilfri elproduktion, säger energi\- och näringsminister Ebba Busch.
+– Riksrevisionens granskning visar att den omläggning av energipolitiken som regeringen nu genomför är nödvändig för att trygga elförsörjningen och skapa långsiktiga förutsättningar för ny planerbar och fossilfri elproduktion, säger energi- och näringsminister Ebba Busch.
 
 När det gäller utlandsförbindelser ingår det i regeringens prövning att avgöra om ledningen är lämplig ur allmän synpunkt, vilket bland annat kan innebära att bedöma förbindelsens geopolitiska eller strategiska effekter. Regeringen delar inte Riksrevisionens bedömning att det saknas tillräckliga möjligheter för regeringen att ta hänsyn till sådana aspekter vid prövningen av en utlandsförbindelse. Regeringen ser därför inget behov av ytterligare åtgärder på området.
 

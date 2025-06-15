@@ -1,11 +1,10 @@
 # Allas nyårslöfte bör vara bättre hemberedskap
 
-Minister för civilt försvar Carl\-Oskar Bohlin, debattartikel, Expressen, den 31 december 2022\.
-
+Minister för civilt försvar Carl-Oskar Bohlin, debattartikel, Expressen, den 31 december 2022.
 
 Det säkerhetspolitiska läget är ett av de sämsta sedan andra världskrigets slut. Sveriges civila försvar och beredskapen i hela samhället behöver stärkas. Centralt i det arbetet är varje svensks egen beredskap. Om du just nu funderar över vilket ditt nyårslöfte för 2023 ska vara har jag ett förslag: Förbättra din egen hemberedskap och gör därigenom en insats, inte bara för dig själv, utan också för dina medmänniskor och Sverige.
 
-Sverige står inför de största utrikes\-, säkerhets\- och försvarspolitiska prövningarna i modern tid. Det försämrade omvärldsläget är också en av anledningarna till mitt nya uppdrag. För första gången på 77 år har regeringen tillsatt en minister med ansvar för civilt försvar.
+Sverige står inför de största utrikes-, säkerhets- och försvarspolitiska prövningarna i modern tid. Det försämrade omvärldsläget är också en av anledningarna till mitt nya uppdrag. För första gången på 77 år har regeringen tillsatt en minister med ansvar för civilt försvar.
 
 Regeringen genomför en historiskt stor satsning på återbyggnaden av det civila försvaret. Vi skjuter till nästan en miljard kronor för 2023, utöver de pengar som man sedan tidigare är överens om i det blocköverskridande försvarsbeslutet.
 
@@ -23,6 +22,6 @@ Personlig beredskap är en solidaritetshandling med dig själv, din familj och d
 
 Så om du går och funderar på ditt nyårslöfte har jag ett råd. Stärk din personliga beredskap. Vi behöver alla hjälpas åt – för Sveriges bästa.
 
-Carl\-Oskar Bohlin
+Carl-Oskar Bohlin
 
 Minister för civilt försvar

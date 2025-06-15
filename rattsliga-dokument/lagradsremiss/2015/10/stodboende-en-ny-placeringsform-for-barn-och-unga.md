@@ -19,7 +19,7 @@ placeras i ett stödboende, på motsvarande sätt som gäller barn och unga som 
 
 Stödboenden som tar emot barn ska inför en anställning, ett uppdrag,
 en praktiktjänstgöring eller liknande kontrollera om den person som
-erbjuds tjänsten eller liknande förekommer i belastnings\- eller misstankeregistret.
+erbjuds tjänsten eller liknande förekommer i belastnings- eller misstankeregistret.
 
 IVO ska kunna återkalla ett tillstånd att driva verksamhet i form
 av stödboende om verksamheten har underlåtit att iaktta bestämmelserna om obligatorisk registerkontroll och underlåtenheten är av allvarlig art.

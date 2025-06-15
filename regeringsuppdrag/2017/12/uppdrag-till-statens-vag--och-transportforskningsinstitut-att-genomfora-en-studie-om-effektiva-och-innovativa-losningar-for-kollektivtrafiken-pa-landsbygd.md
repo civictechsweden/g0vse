@@ -1,7 +1,6 @@
 # Uppdrag till Statens väg- och transportforskningsinstitut att genomföra en studie om effektiva och innovativa lösningar för kollektivtrafiken på landsbygd
 
-Regeringen uppdrar åt Statens väg\- och transportforskningsinstitut (VTI) att i enlighet med vad som anges närmare under rubriken Uppdraget genomföra en studie om effektiva och innovativa lösningar som kan öka medborgarnas vilja och möjlighet att utnyttja kollektivtrafiken på landsbygd.
-
+Regeringen uppdrar åt Statens väg- och transportforskningsinstitut (VTI) att i enlighet med vad som anges närmare under rubriken Uppdraget genomföra en studie om effektiva och innovativa lösningar som kan öka medborgarnas vilja och möjlighet att utnyttja kollektivtrafiken på landsbygd.
 
 Regeringens övergripande mål för transportpolitiken är att säkerställa en
 samhällsekonomiskt effektiv och långsiktigt hållbar transportförsörjning

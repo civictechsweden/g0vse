@@ -4,8 +4,6 @@
 
 Regeringen har beslutat om följande förordningsändringar för att korrigera brister i genomförandet av industriutsläppsdirektivet.
 
-
-
 Ändringarna innebär:
 
 I förordningen om stora förbränningsanläggningar
@@ -22,15 +20,15 @@ I förordningen om användning av organiska lösningsmedel
 – kraven på hur beräkningen av utsläppsmål i en plan för minskade utsläpp anpassas till industriutsläppsdirektivets krav,
 – verksamheten träbeläggning läggs till i bestämmelsen om beräkning av referensvärde till en plan för minskade utsläpp.
 
-Ändringarna träder i kraft den 14 november 2019\.
+Ändringarna träder i kraft den 14 november 2019.
 
 **Referenser:**
 
 * Europaparlamentets och rådets direktiv 2010/75/EU av den 24 november 2010 om industriutsläpp (samordnade åtgärder för att förebygga och begränsa föroreningar)
-* förordningen (2013:252\) om stora förbränningsanläggningar
-* förordningen (2013:253\) om förbränning av avfall
-* förordningen (2013:254\) om användning av organiska lösningsmedel
+* förordningen (2013:252) om stora förbränningsanläggningar
+* förordningen (2013:253) om förbränning av avfall
+* förordningen (2013:254) om användning av organiska lösningsmedel
 
 Kontaktperson:
 
-Ingrid Backudd 08\-405 93 52
+Ingrid Backudd 08-405 93 52

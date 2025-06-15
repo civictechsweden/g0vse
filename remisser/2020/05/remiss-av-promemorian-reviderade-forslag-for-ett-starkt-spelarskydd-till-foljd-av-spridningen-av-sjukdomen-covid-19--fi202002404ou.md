@@ -2,5 +2,4 @@
 
 Här kan du ta del av till vilka instanser som Finansdepartementet har remitterat Fi2020/02404/OU.
 
-
-Remissvaren ska ha kommit in till Finansdepartementet senast den 5 juni 2020\.
+Remissvaren ska ha kommit in till Finansdepartementet senast den 5 juni 2020.

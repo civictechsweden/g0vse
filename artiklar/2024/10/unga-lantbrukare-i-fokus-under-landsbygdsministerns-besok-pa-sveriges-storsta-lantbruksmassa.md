@@ -2,7 +2,6 @@
 
 Under onsdagen den 16 oktober besökte landsbygdsminister Peter Kullgren lantbruksmässan Elmia Lantbruk i Jönköping och hann bland annat med att invigningstala, dela ut priser och träffa många innovativa företag.
 
-
 – Det är med stolthet jag får inviga Sveriges största lantbruksmässa som ger en fantastisk möjlighet att mötas, visa upp och samtala om det svenska lantbruket, vår modernäring, säger landsbygdsminister Peter Kullgren som invigde mässan.
 
 Mässan pågår 16–18 oktober på Elmia i Jönköping. Årets tema är konkurrenskraft för framtiden med fokus på beredskap, lönsamhet och innovation. Mässans första dag är ungdomarnas dag eller framtidens dag som landsbygdsministern kallar det. Där tävlar ungdomar i olika grenar och agerar även domare.

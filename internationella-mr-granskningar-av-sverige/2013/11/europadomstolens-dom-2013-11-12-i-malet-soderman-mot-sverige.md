@@ -2,7 +2,6 @@
 
 Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.
 
-
 ## Sammanfattning av domen
 
 Klaganden, född 1987, upptäckte vid ett tillfälle i september 2002 en påslagen videokamera som var riktad mot det ställe i badrummet där hon klätt av sig för att duscha. Hennes styvfar dömdes av Falu tingsrätt för sexuellt ofredande avseende bl.a. denna händelse. Vidare förpliktades styvfadern att utge skadestånd till klaganden. Efter överklagande ändrade Svea hovrätt tingsrättens dom bl.a. på det sätt att åtalet mot styvfadern ogillades. Därmed lämnades även klagandens skadeståndstalan, som grundade sig enbart på åtalet, utan bifall. Med hänvisning till NJA 1996 s. 418 konstaterade hovrätten att det inte i sig var brottsligt att filma en person utan dennes vetskap. Klaganden fick visserligen reda på inspelningsförsöket men det omfattades inte av styvfaderns uppsåt. Teoretiskt sett skulle, menade hovrätten, handlandet kunna utgöra försök till barnpornografibrott men någon ansvarstalan för sådant brott hade inte förts i målet. Något straffrättsligt ansvar för filmningsförsöket kunde således inte komma i fråga. Högsta domstolen beslutade att inte meddela prövningstillstånd.

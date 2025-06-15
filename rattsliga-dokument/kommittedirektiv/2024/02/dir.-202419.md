@@ -5,11 +5,11 @@ En särskild utredare ska analysera hur Europaparlamentets och rådets direktiv 
 Utredaren ska
 
 * analysera hur tillgänglighetsdirektivets krav förhåller sig till
-tryckfrihetsförordningen och yttrandefrihetsgrundlagen,
+  tryckfrihetsförordningen och yttrandefrihetsgrundlagen,
 * bedöma och redovisa vilka ändringar i mediegrundlagarna som i
-förekommande fall behöver göras för att kraven enligt direktivet ska
-kunna uppfyllas, och
+  förekommande fall behöver göras för att kraven enligt direktivet ska
+  kunna uppfyllas, och
 * lämna de förslag till författningsändringar som är motiverade.
-Utredaren ska biträdas av en parlamentariskt sammansatt referensgrupp.
+  Utredaren ska biträdas av en parlamentariskt sammansatt referensgrupp.
 
-Uppdraget ska redovisas senast den 31 december 2024\.
+Uppdraget ska redovisas senast den 31 december 2024.

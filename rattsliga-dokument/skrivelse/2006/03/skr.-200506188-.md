@@ -1,6 +1,6 @@
 # Kulturlivets internationalisering
 
-I skrivelsen presenteras ett program för ökat internationellt kulturutbyte. Regeringen redovisar mål för kulturlivets internationalisering i ett långsiktigt perspektiv, hur de statliga insatserna i stort bör utvecklas samt hur uppgifts\- och ansvarsfördelningen bland berörda statliga aktörer bör utformas.
+I skrivelsen presenteras ett program för ökat internationellt kulturutbyte. Regeringen redovisar mål för kulturlivets internationalisering i ett långsiktigt perspektiv, hur de statliga insatserna i stort bör utvecklas samt hur uppgifts- och ansvarsfördelningen bland berörda statliga aktörer bör utformas.
 
 Förändringarna i Sverige och vår omvärld under de senaste decennierna påverkar politiken på flera områden. För kulturlivets del kan bland annat framhållas förbättrade förutsättningar för internationella kontakter och en utveckling av nya konstnärliga nätverk.
 

@@ -2,7 +2,6 @@
 
 Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Östtimor samt en länk till rapporten i sin helhet.
 
-
 Vid Östtimors frigörelse från Indonesien 1999 låg landets institutioner och samhällsstrukturer i spillror. Stora framsteg gjorts i återuppbyggnaden av samhället och dess institutioner. Östtimor har idag ett relativt väl fungerande demokratiskt system med regelbundna fria och rättvisa val och lagstiftningen är i hög utsträckning utformad i enlighet med grundläggande principer om de mänskliga rättigheterna.
 
 En rad allvarliga utmaningar kvarstår. Landets ekonomi är trots oljeintäkter outvecklad och stora delar av befolkningen lever i fattigdom och saknar adekvat tillgång till mat, vatten, sjukvård, utbildning och arbete.

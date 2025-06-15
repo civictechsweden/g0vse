@@ -8,6 +8,6 @@ Under 2024 kommer skolminister Lotta Edholm träffa lärare och förskollärare 
 
 Det var efter en krönika i tidningen Vi Lärare, där läraren Maria Wiman uttryckte en önskan om att skolministern och utbildningsministern skulle träffa lärare genom ett lärarråd, som regeringen tog initiativet till detta.
 
-Teman för varje lärarråd tas fram gemensamt av deltagarna och Utbildningsdepartementet. Det första lärarrådet genomförs i Lund den 15 mars och handlar om både de sjunkande PISA\-resultaten och framtidens läraruppdrag. Nästa lärarråd kommer genomföras i Borås den 10 april och till hösten planeras ytterligare två, då i mellersta och norra Sverige. Det kommer vara olika lärare och förskollärare som deltar på varje lärarråd.
+Teman för varje lärarråd tas fram gemensamt av deltagarna och Utbildningsdepartementet. Det första lärarrådet genomförs i Lund den 15 mars och handlar om både de sjunkande PISA-resultaten och framtidens läraruppdrag. Nästa lärarråd kommer genomföras i Borås den 10 april och till hösten planeras ytterligare två, då i mellersta och norra Sverige. Det kommer vara olika lärare och förskollärare som deltar på varje lärarråd.
 
 För mer information och intervjuförfrågningar i samband med lärarrådet i Lund, kontakta pressekreterare Ellen Kult.

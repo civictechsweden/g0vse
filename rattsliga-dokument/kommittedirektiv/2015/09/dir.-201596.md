@@ -11,7 +11,7 @@ Utredaren ska bl.a.
 * se över de system och rutiner för uppföljning och kontroll som finns hos brottsutsatta myndigheter och bedöma om dessa är ändamålsenliga och väl avvägda,
 * följa upp och utvärdera informationsutbytet mellan brottsutsatta eller på annat sätt berörda myndigheter,
 * analysera och föreslå åtgärder som effektiviserar de brottsbekämpande myndigheternas förutsättningar att utreda och beivra organiserad och systematisk ekonomisk brottslighet mot välfärden och
-* överväga vissa andra åtgärder som är ägnade att effektivisera bekämpningen av sådan brottslighet, såsom förutsättningarna för näringsförbud enligt lagen (2014:836\) om näringsförbud och en spärrtid mot företag vid missbruk av välfärdssystemen.
+* överväga vissa andra åtgärder som är ägnade att effektivisera bekämpningen av sådan brottslighet, såsom förutsättningarna för näringsförbud enligt lagen (2014:836) om näringsförbud och en spärrtid mot företag vid missbruk av välfärdssystemen.
 
 I uppdraget ingår att utarbeta nödvändiga lagförslag.
 

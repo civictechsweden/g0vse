@@ -8,4 +8,4 @@ Utredaren ska bland annat
 * analysera och bedöma om och hur studier i ämnet modersmål respektive studiehandledning på modersmål förbättrar elevernas studieresultat, bland annat elevernas behörighet till gymnasieskolans nationella program, och
 * vid behov lämna förslag på åtgärder och författningsförslag.
 
-Uppdraget ska redovisas senast den 31 december 2018\.
+Uppdraget ska redovisas senast den 31 december 2018.

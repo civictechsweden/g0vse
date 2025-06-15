@@ -7,8 +7,8 @@ Samordnaren ska även verka för att kunskapen om våldsbejakande extremism öka
 I uppdraget ingår att:
 
 * stärka och stödja samverkan i arbetet med att värna demokratin mot våldsbejakande extremism på nationell och lokal nivå,
-* inrätta en referensgrupp för kunskaps\- och informationsutbyte,
+* inrätta en referensgrupp för kunskaps- och informationsutbyte,
 * stödja aktörer som identifierar problem med våldsbejakande extremism lokalt, och
 * genomföra riktade utbildningsinsatser.
 
-Uppdraget ska redovisas senast den 15 juni 2016\.
+Uppdraget ska redovisas senast den 15 juni 2016.

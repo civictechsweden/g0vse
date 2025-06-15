@@ -8,13 +8,13 @@ Regeringen har beslutat om ändringar i förordningen om bekämpningsmedel och f
 
 Dessutom återinförs tillståndsplikten för användning av växtskyddsmedel i bl.a. handelsträdgårdar (”yrkesmässig användning i parker och trädgårdar som allmänheten har tillträde till”).
 
-Ändringarna träder i kraft den 1 juni resp. den 1 oktober 2022\.
+Ändringarna träder i kraft den 1 juni resp. den 1 oktober 2022.
 
 **Referenser:**
 
-* förordning (2022:289\) om ändring i förordningen (2014:425\) om bekämpningsmedel
-* förordning (2022:290\) om ändring i förordningen (2012:259\) om miljösanktionsavgifter
+* förordning (2022:289) om ändring i förordningen (2014:425) om bekämpningsmedel
+* förordning (2022:290) om ändring i förordningen (2012:259) om miljösanktionsavgifter
 
 ### Kontaktperson:
 
-Jannice Ribberström 08\-405 15 20
+Jannice Ribberström 08-405 15 20

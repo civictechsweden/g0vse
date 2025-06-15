@@ -2,8 +2,7 @@
 
 Här kan du ta del av vilka instanser som regeringen har remitterat SOU 2015:85 Bostäder att bo kvar i.
 
-
-Remissvaren ska ha kommit in till Näringsdepartementet senast tisdagen den 1 mars 2016\.
+Remissvaren ska ha kommit in till Näringsdepartementet senast tisdagen den 1 mars 2016.
 
 ## Remissinstanser:
 
@@ -80,9 +79,9 @@ Remissvaren ska ha kommit in till Näringsdepartementet senast tisdagen den 1 ma
 71. Riksföreningen Kollektivhus NU
 72. Föreningen för byggemenskaper
 
-Betänkandet ”Bostäder att bo kvar i” (SOU 2015:85\) remitteras härmed till ovanstående remissinstanser.
+Betänkandet ”Bostäder att bo kvar i” (SOU 2015:85) remitteras härmed till ovanstående remissinstanser.
 
-Remissvaren ska ha kommit in till Näringsdepartementet senast tisdagen den 1 mars 2016\. Remissvaren önskas i elektronisk form via e\-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator") och [Maria Edlund](mailto:maria.edlund@regeringskansliet.se "Maria Edlund") i både Word\- och pdf\-format. Vi uppskattar om filnamnet är Regeringskansliets diarienummer (utan snedstreck) N2015\-06917\-PUB, följt av remissinstansens namn. Remissvarets disposition bör om möjligt ansluta sig till dispositionen i betänkandet. I remissvaret anges Regeringskansliets diarienummer N2015/06917/PUB.
+Remissvaren ska ha kommit in till Näringsdepartementet senast tisdagen den 1 mars 2016. Remissvaren önskas i elektronisk form via e-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator") och [Maria Edlund](mailto:maria.edlund@regeringskansliet.se "Maria Edlund") i både Word- och pdf-format. Vi uppskattar om filnamnet är Regeringskansliets diarienummer (utan snedstreck) N2015-06917-PUB, följt av remissinstansens namn. Remissvarets disposition bör om möjligt ansluta sig till dispositionen i betänkandet. I remissvaret anges Regeringskansliets diarienummer N2015/06917/PUB.
 
 I remissen ligger att regeringen vill ha synpunkter på förslagen eller materialet i betänkan­det.
 
@@ -90,4 +89,4 @@ Myndigheter under regeringen är skyldiga att svara på remissen. En myndighet a
 
 För andra remissinstanser innebär remissen en in­bju­dan att lämna synpunkter.
 
-Frågor under remisstiden kan ställas till [Sophie Ahlstrand](mailto:sophie.ahlstrand@regeringskansliet.se "Sophie Ahlstrand"), telefonnummer 08\-405 16 63\.
+Frågor under remisstiden kan ställas till [Sophie Ahlstrand](mailto:sophie.ahlstrand@regeringskansliet.se "Sophie Ahlstrand"), telefonnummer 08-405 16 63.

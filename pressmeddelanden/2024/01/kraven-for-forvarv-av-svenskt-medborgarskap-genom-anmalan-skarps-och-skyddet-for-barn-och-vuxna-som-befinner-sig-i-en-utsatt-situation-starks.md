@@ -8,4 +8,4 @@ Enligt regeringen finns det starka skäl för att en utlänning som kvalificerar
 
 Regeringen föreslår även ändringar i reglerna om befrielse från svenskt medborgarskap. Ändringarna innebär ett förstärkt skydd för barn och vuxna som befinner sig i en utsatt situation. Ingen ska mot sin vilja, till exempel på grund av att han eller hon lever i en hederskontext, tvingas att avsäga sig sitt svenska medborgarskap.
 
-Lagändringarna föreslås träda i kraft den 1 oktober 2024\.
+Lagändringarna föreslås träda i kraft den 1 oktober 2024.

@@ -1,7 +1,5 @@
 # Mottagande av ensamkommande barn
 
-I lagrådsremissen föreslås att särskilda bestämmelser om mottagande av ensamkommande barn skall införas i lagen (1994:137\) om mottagande av asylsökande m.fl. (LMA). Med ensamkommande barn avses barn under 18 år som vid ankomsten till Sverige är skilda från båda sina föräldrar eller från någon annan vuxen person som får anses ha trätt i förälders ställe, eller som efter ankomsten står utan sådan ställföreträdare.
-
+I lagrådsremissen föreslås att särskilda bestämmelser om mottagande av ensamkommande barn skall införas i lagen (1994:137) om mottagande av asylsökande m.fl. (LMA). Med ensamkommande barn avses barn under 18 år som vid ankomsten till Sverige är skilda från båda sina föräldrar eller från någon annan vuxen person som får anses ha trätt i förälders ställe, eller som efter ankomsten står utan sådan ställföreträdare.
 Det reella mottagandet av ensamkommande barn som antingen söker asyl eller som har beviljats uppehållstillstånd med eller efter tillfälligt skydd (asylsökande ensamkommande barn) skall föras över till kommuner som träffat överenskommelse om detta med Migrationsverket. Migrationsverket skall dock behålla det övergripande ansvaret för mottagandet. Verket skall anvisa en kommun som skall anordna boende för barnet. Den anvisade kommunen blir vistelsekommun och ansvarar för utredning och åtgärder enligt socialtjänstlagen beträffande barnet. Det föreslås också att kommunerna ges rätt att anordna gruppboenden för asylsökande ensamkommande barn. Eftersom asylsökande ensamkommande barn enligt förslagen inte kommer att vistas på förläggningar kommer de att ha rätt till fortsatt bistånd enligt lagen om mottagande av asylsökande m.fl. under maximalt en månad från den dag de beviljats uppehållstillstånd.
-
-Lagändringarna föreslås träda i kraft den 1 juli 2006\.
+Lagändringarna föreslås träda i kraft den 1 juli 2006.

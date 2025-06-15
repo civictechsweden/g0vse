@@ -1,6 +1,6 @@
 # Regeringen föreslår nya regler för krediter som inte betalas i tid
 
-Genom förslagen införs en ny reglering av marknaden för överlåtelser av så kallade nödlidande kreditavtal som har ingåtts av ett kreditinstitut. Med nödlidande kreditavtal avses kreditavtal där låntagaren inte klarar av att betala krediten i tid. De nya reglerna bygger på ett EU\-direktiv och föreslås bli en ny lag om förvärv och förvaltning av nödlidande kreditavtal.
+Genom förslagen införs en ny reglering av marknaden för överlåtelser av så kallade nödlidande kreditavtal som har ingåtts av ett kreditinstitut. Med nödlidande kreditavtal avses kreditavtal där låntagaren inte klarar av att betala krediten i tid. De nya reglerna bygger på ett EU-direktiv och föreslås bli en ny lag om förvärv och förvaltning av nödlidande kreditavtal.
 
 Den nya lagen innebär bland annat att det behövs tillstånd från Finansinspektionen för att få förvalta kreditavtal där låntagaren inte klarar av att betala i tid, och att kreditförvaltare ställs under Finansinspektionens tillsyn. Lagen innebär även att låntagarnas skydd stärks, till exempel genom att det införs krav på relevant information när ett avtal överlåts och på effektiv hantering av låntagares klagomål.
 

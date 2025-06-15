@@ -13,4 +13,4 @@ Utredaren ska bland annat
 * kartlägga vilka andra brott som förekommer med koppling till produktion och distribution av pornografi och i vilken utsträckning de anmäls, utreds samt leder till åtal och lagföring, och
 * analysera vilka eventuella hinder som finns som kan försvåra utredning och åtal.
 
-Uppdraget som utgår från en överenskommelse mellan regeringen och Miljöpartiet de gröna, ska redovisas senast den 29 september 2023\.
+Uppdraget som utgår från en överenskommelse mellan regeringen och Miljöpartiet de gröna, ska redovisas senast den 29 september 2023.

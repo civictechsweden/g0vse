@@ -1,9 +1,9 @@
 # Pausad uppräkning av skiktgränsen för statlig inkomstskatt för beskattningsåret 2024
 
-I promemorian föreslås att någon uppräkning inte ska göras vid bestämmandet av skiktgränsen för uttag av statlig inkomstskatt på beskattningsbara förvärvsinkomster för beskattningsåret 2024\.
+I promemorian föreslås att någon uppräkning inte ska göras vid bestämmandet av skiktgränsen för uttag av statlig inkomstskatt på beskattningsbara förvärvsinkomster för beskattningsåret 2024.
 
 Skiktgränsen för beskattningsåret föreslås därmed uppgå till 598 500 kronor.
 
-Ändringen föreslås träda i kraft den 1 januari 2024\.
+Ändringen föreslås träda i kraft den 1 januari 2024.
 
-Remissvaren ska ha kommit in till Finansdepartementet senast den 22 september 2023\.
+Remissvaren ska ha kommit in till Finansdepartementet senast den 22 september 2023.

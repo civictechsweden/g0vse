@@ -15,6 +15,6 @@ En ansökan om ett sådant uppehållstillstånd föreslås endast få göras und
 
 Lagrådsremissen innehåller också förslag om att anpassa bestämmelserna om uppehållstillstånd för studier på gymnasienivå så att studier på sammanhållna yrkesutbildningar inom vuxenutbildningen eller liknande utbildningar inom introduktionsprogram i gymnasieskolan kan ge samma möjlighet till uppehållstillstånd som studier på ett  nationellt program i gymnasieskolan eller gymnasiesärskolan.
 
-Ändringarna i lagen (2016:752\) om tillfälliga begränsningar av möjligheten att få uppehållstillstånd i Sverige föreslås träda i kraft den 1 juli 2018\.
+Ändringarna i lagen (2016:752) om tillfälliga begränsningar av möjligheten att få uppehållstillstånd i Sverige föreslås träda i kraft den 1 juli 2018.
 
 [Pressmeddelande: Ny möjlighet till uppehållstillstånd](/pressmeddelanden/2018/03/ny-mojlighet-till-uppehallstillstand/)

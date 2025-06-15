@@ -2,7 +2,6 @@
 
 Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.
 
-
 ## Sammanfattning av domen
 
 Målet rörde en familj bestående av tre iranska medborgare som sökt asyl i Sverige men fått avslag i samtliga inhemska instanser. Klagandena hävdade att en utvisning till hemlandet skulle strida mot artikel 3 i konventionen.

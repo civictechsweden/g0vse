@@ -6,4 +6,4 @@ I uppdraget ingår att vidta åtgärder som främjar konsumenters prismedvetenhe
 
 Konsumentverket ska undersöka hur befintliga initiativ kan få större genomslag och överväga hur prisundersökningar som görs exempelvis i statistiksyfte kan användas för att bidra till rörlighet inom dagligvaruhandeln. Konsumentverket ska även vid behov föreslå nya åtgärder för att främja konsumenters medvetenhet om prisvärda produkter.
 
-Uppdraget ska redovisas senast den 1 december 2023\.
+Uppdraget ska redovisas senast den 1 december 2023.

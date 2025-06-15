@@ -7,7 +7,7 @@ Under besöket kommer utrikesministern även att träffa företrädare i det tur
 Efter mötet med Turkiets utrikesminister Mevlüt Çavuşoğlu hålls en gemensam presskonferens.
 
 **Dag**: torsdagen den 22 december
-**Tid**: kl.13\.15 (lokal tid), svensk tid kl. 11\.15
+**Tid**: kl.13.15 (lokal tid), svensk tid kl. 11.15
 **Plats**: Turkiska utrikesministeriet, rum Fatin Rüştü Zorlu Conference Hall.
 
 För frågor om presskonferensen inklusive ackreditering, kontakta pressekreterare Anna Erhardt.

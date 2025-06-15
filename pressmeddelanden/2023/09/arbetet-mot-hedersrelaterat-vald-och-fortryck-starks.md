@@ -2,7 +2,7 @@
 
 Hedersrelaterat våld och förtryck innebär att människor begränsas i sina liv och utsätts för påtryckningar och våld som syftar till att upprätthålla familjens kontroll över individen. Personer som utsätts för denna form av våld och förtryck är en mycket utsatt grupp.
 
-\- Det är tydligt att vi behöver göra mer för att motverka hedersrelaterat våld och förtryck och se till att det upphör. Regeringen intensifierar nu därför arbetet mot könsrelaterat våld och hedersrelaterat våld och förtryck på bred front, säger jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg.
+- Det är tydligt att vi behöver göra mer för att motverka hedersrelaterat våld och förtryck och se till att det upphör. Regeringen intensifierar nu därför arbetet mot könsrelaterat våld och hedersrelaterat våld och förtryck på bred front, säger jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg.
 
 Hedersrelaterat våld och förtryck kräver ökad uppmärksamhet och synlighet så att vi kan förebygga och bekämpa det mer effektivt. Hedersrelaterat våld och förtryck innebär också särskilda utmaningar. Det gäller både för möjligheterna att upptäcka och ge stöd och skydd samt i fall där någon misstänks eller åtalas för brott. Kunskaperna behöver därför öka bland yrkesverksamma, eftersom hedersrelaterat våld och förtryck kan kräva en annan typ av insatser än i fall där heder inte är en faktor.
 

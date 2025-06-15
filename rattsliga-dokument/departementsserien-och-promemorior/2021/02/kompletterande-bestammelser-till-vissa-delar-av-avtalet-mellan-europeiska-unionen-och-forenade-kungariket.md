@@ -4,4 +4,4 @@ I promemorian lämnas förslag till komplet­terande bestäm­melser till vissa 
 
 I promemorian lämnas förslag till en ny lag med komplet­terande bestäm­melser till avtalet som möjlig­gör för att avtalet ska kunna tilläm­pas fullt ut i Sverige. Den nya lagen innehåller komplet­terande bestäm­melser när Sverige är den stat som såväl begär bistånd som lämnar bistånd till Förenade kungariket.
 
-Förslagen föreslås träda i kraft den 15 juli 2021\.
+Förslagen föreslås träda i kraft den 15 juli 2021.

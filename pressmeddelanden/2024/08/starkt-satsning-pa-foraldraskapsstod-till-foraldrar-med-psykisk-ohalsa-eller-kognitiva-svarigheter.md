@@ -10,4 +10,4 @@ Psykisk ohälsa kan exempelvis påverka samspelet mellan barn och föräldrar li
 
 Uppdraget innebär att MFoF ska genomföra en kartläggning av befintliga föräldraskapsstödjande insatser som riktar sig till föräldrar med psykisk ohälsa eller kognitiva svårigheter samt analysera och klargöra målgruppernas stödbehov. Baserat på resultaten av kartläggningen och analysen ska myndigheten lämna förslag på hur stödet till föräldrar med psykisk ohälsa eller kognitiva svårigheter kan stärkas.
 
-Uppdraget ska slutredovisas för Regeringskansliet (Socialdepartementet) senast den 27 februari 2026\.
+Uppdraget ska slutredovisas för Regeringskansliet (Socialdepartementet) senast den 27 februari 2026.

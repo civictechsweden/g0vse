@@ -9,4 +9,4 @@ Utredaren ska
 * analysera om det går att vara mer återhållsam med användningen av straffrätt på olika områden, främst inom specialstraffrätten, och hur detta i så fall bör uppnås samt peka ut sådana områden och metoder, och
 * kartlägga på vilka områden det finns så kallade blankettstraffbud som kan antas stå i strid med regeringsformen och lämna förslag på en lösning.
 
-Uppdraget ska redovisas senast den 2 april 2013\.
+Uppdraget ska redovisas senast den 2 april 2013.

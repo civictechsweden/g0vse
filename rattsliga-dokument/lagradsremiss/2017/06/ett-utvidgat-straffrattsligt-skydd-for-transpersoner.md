@@ -8,6 +8,6 @@ Regeringen föreslår även att diskrimineringsgrunden könsöverskridande ident
 
 Vidare föreslår regeringen att orden ras och rasmässig ersätts med föreställning om ras i straffrättsliga bestämmelser, bestämmelser om straffrättsligt samarbete och utlänningslagen. Genom förslaget markeras ett avståndstagande från idéer om att människor kan delas in i olika raser.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2018, förutom ändringarna i bestämmelserna om hets mot folkgrupp i tryckfrihetsförordningen och brottsbalken som föreslås träda i kraft den 1 januari 2019\.
+Lagändringarna föreslås träda i kraft den 1 juli 2018, förutom ändringarna i bestämmelserna om hets mot folkgrupp i tryckfrihetsförordningen och brottsbalken som föreslås träda i kraft den 1 januari 2019.
 
 [Pressmeddelande: Skyddet för transpersoner utökas](/pressmeddelanden/2017/06/skyddet-for-transpersoner-utokas/)

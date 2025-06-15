@@ -7,8 +7,8 @@ Inför budgetpropositionen för 2024 är det angeläget att skatteförslagen kan
 I denna promemoria lämnas följande förslag:
 
 * Schablonavdraget vid uthyrning av privatbostadsfastigheter, privatbostäder och hyreslägenheter höjs från 40 000 kronor till 50 000 kronor. Avdraget ska, liksom i dag, vara gemensamt för dels sådan uthyrning, dels försäljning av produkter från privatbostadsfastigheter och privatbostäder.
-* Beloppsgränsen för beskattning av kapitalvinst vid överföring av mark eller andel i samfällighet genom fastighetsreglering enligt 5 kap. fastighetsbildningslagen (1970:988\) och uppdelning i lotter genom klyvning enligt 11 kap. samma lag höjs från 5 000 kronor till 42 000 kronor.
-* Det schabloniserade omkostnadsbeloppet vid allframtids\-upplåtelser höjs från 5 000 kronor till 12 000 kronor.
+* Beloppsgränsen för beskattning av kapitalvinst vid överföring av mark eller andel i samfällighet genom fastighetsreglering enligt 5 kap. fastighetsbildningslagen (1970:988) och uppdelning i lotter genom klyvning enligt 11 kap. samma lag höjs från 5 000 kronor till 42 000 kronor.
+* Det schabloniserade omkostnadsbeloppet vid allframtids-upplåtelser höjs från 5 000 kronor till 12 000 kronor.
 * Beloppsgränsen för beskattning av inkomst från samfällighet höjs från 600 kronor till 1 500 kronor.
 
-Ändringarna föreslås träda i kraft den 1 januari 2024\.
+Ändringarna föreslås träda i kraft den 1 januari 2024.

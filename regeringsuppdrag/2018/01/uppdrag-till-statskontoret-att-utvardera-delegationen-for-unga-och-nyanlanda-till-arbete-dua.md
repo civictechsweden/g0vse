@@ -1,7 +1,6 @@
 # Uppdrag till Statskontoret att utvärdera delegationen för unga och nyanlända till arbete (Dua)
 
-Regeringen uppdrar åt Statskontoret att genomföra en utvärdering av Dua. Slutrapport ska lämnas till regeringen (Arbetsmarknadsdepartementet) senast den 26 oktober 2018\.
-
+Regeringen uppdrar åt Statskontoret att genomföra en utvärdering av Dua. Slutrapport ska lämnas till regeringen (Arbetsmarknadsdepartementet) senast den 26 oktober 2018.
 
 Statskontoret ska innan dess löpande hålla regeringen (Arbetsmarknadsdepartementet) informerad om det pågående arbetet.
 

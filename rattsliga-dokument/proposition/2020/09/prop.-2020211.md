@@ -5,5 +5,5 @@ Budgetpropositionen innehåller regeringens förslag till statens budget för 20
 
 För beställning av Budgetpropositionen för 2021 kontakta:
 Riksdagens tryckeriexpedition, 100 12 Stockholm
-Tel: 08\-786 58 10
-E\-post: order.riksdagstryck@riksdagen.se
+Tel: 08-786 58 10
+E-post: order.riksdagstryck@riksdagen.se

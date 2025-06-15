@@ -4,4 +4,4 @@ Regeringen uppdrar åt en särskild utredare att se över regelverket för sjukp
 
 Utredaren ska bland annat utreda hur regelverket för sjukpenninggrundande inkomst ska ge ökad trygghet och förutsebarhet för den försäkrade samt leda till stärkt kvalitet och effektivitet i handläggningen och minska de felaktiga utbetalningarna.
 
-Uppdraget redovisas senast den 20 april 2023\.
+Uppdraget redovisas senast den 20 april 2023.

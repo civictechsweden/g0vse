@@ -1,13 +1,12 @@
 # Sveriges stöd till drabbade av konflikten i Nagorno-Karabach
 
-Armenien har mottagit över 100 000 flyktingar till följd av Azerbajdzjans militära operation i Nagorno\-Karabach. Sverige stödjer den humanitära responsen och Armeniens flyktingmottagande genom riktat humanitärt stöd, omfattande kärnstöd till humanitära organisationer och långsiktigt reformstöd.
+Armenien har mottagit över 100 000 flyktingar till följd av Azerbajdzjans militära operation i Nagorno-Karabach. Sverige stödjer den humanitära responsen och Armeniens flyktingmottagande genom riktat humanitärt stöd, omfattande kärnstöd till humanitära organisationer och långsiktigt reformstöd.
 
+Azerbajdzjan inledde den 19 september en militär operation i Nagorno-Karabach. Efter ett dygns strider gick regionens de facto-regering med på att avväpna sina militära styrkor och sedermera att upplösa samtliga statsorgan från 1 januari 2024. Konflikten utlöste stora flyktingströmmar till grannlandet Armenien, som tog emot drygt 100 000 personer under loppet av en vecka. De humanitära behoven för de som flytt är stora. Armeniska myndigheter arbetar för att möta dessa behov, i nära samarbete med FN och andra internationella och lokala aktörer.
 
-Azerbajdzjan inledde den 19 september en militär operation i Nagorno\-Karabach. Efter ett dygns strider gick regionens de facto\-regering med på att avväpna sina militära styrkor och sedermera att upplösa samtliga statsorgan från 1 januari 2024\. Konflikten utlöste stora flyktingströmmar till grannlandet Armenien, som tog emot drygt 100 000 personer under loppet av en vecka. De humanitära behoven för de som flytt är stora. Armeniska myndigheter arbetar för att möta dessa behov, i nära samarbete med FN och andra internationella och lokala aktörer.
+## Riktat stöd till Nagorno-Karabach och Armenien
 
-## Riktat stöd till Nagorno\-Karabach och Armenien
-
-För att bistå de drabbade har Sverige fördelat nära 35 miljoner kronor till riktade insatser i Nagorno\-Karabach och Armenien. Stödet har gått till FN:s flyktingorgan (UNHCR, 15 miljoner kronor), Internationella rödakorskommittén (ICRC, 15 miljoner kronor), organisationen Action Against Hunger (knappt 2,5 miljoner kronor) och Rädda barnen (2,5 miljoner kronor).
+För att bistå de drabbade har Sverige fördelat nära 35 miljoner kronor till riktade insatser i Nagorno-Karabach och Armenien. Stödet har gått till FN:s flyktingorgan (UNHCR, 15 miljoner kronor), Internationella rödakorskommittén (ICRC, 15 miljoner kronor), organisationen Action Against Hunger (knappt 2,5 miljoner kronor) och Rädda barnen (2,5 miljoner kronor).
 
 Sverige bidrar också till civilt stöd genom Myndigheten för samhällsskydd och beredskap (MSB) inom ramen för EU:s civilskyddsmekanism. EU har därtill bistått med drygt 10 miljoner euro i humanitärt stöd.
 

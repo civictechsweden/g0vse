@@ -6,4 +6,4 @@ I denna proposition föreslår regeringen ändringar av bestämmelserna som regl
 
 Ändringar föreslås i lagen med särskilda bestämmelser om kommuns och annan menighets utdebitering av skatt, m.m. och i begravningslagen.
 
-Ändringarna i lagen med särskilda bestämmelser om kommuns och annan menighets utdebitering av skatt, m.m. föreslås träda i kraft den 1 september 2023 och tillämpas i fråga om begravningsavgifter och förskott på dessa som betalas ut fr.o.m. den 1 januari 2024\. Ändringarna i begravningslagen föreslås träda i kraft den 1 september 2023 och tillämpas i fråga om den avgiftssats som fastställs för 2024\.
+Ändringarna i lagen med särskilda bestämmelser om kommuns och annan menighets utdebitering av skatt, m.m. föreslås träda i kraft den 1 september 2023 och tillämpas i fråga om begravningsavgifter och förskott på dessa som betalas ut fr.o.m. den 1 januari 2024. Ändringarna i begravningslagen föreslås träda i kraft den 1 september 2023 och tillämpas i fråga om den avgiftssats som fastställs för 2024.

@@ -8,4 +8,4 @@ En särskild utredare ska lämna förslag på hur rättssäkerheten i vissa dela
 * analysera reglerna om tredjemansrevision och föreslå författningsändringar som ytterligare stärker rättssäkerheten, och
 * analysera reglerna om ersättning för kostnader för ombud, biträde eller utredning i ärenden och mål om skatt m.m. och föreslå författningsändringar som ytterligare stärker rättssäkerheten.
 
-Uppdraget ska redovisas senast den 9 september 2013\.
+Uppdraget ska redovisas senast den 9 september 2013.

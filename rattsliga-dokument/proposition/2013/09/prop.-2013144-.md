@@ -10,4 +10,4 @@ Vidare föreslås att föräldrapenning inte ska lämnas för längre tid tillba
 
 I propositionen lämnas även förslag om att tidsperioden för tillfällig föräldrapenning i samband med att ett barn har avlidit förlängs så att förmånen kan tas ut i tio dagar fram till den 90:e dagen efter det att barnet har avlidit.
 
-Regeringen föreslår att bestämmelserna ska träda i kraft den 1 januari 2014\.
+Regeringen föreslår att bestämmelserna ska träda i kraft den 1 januari 2014.

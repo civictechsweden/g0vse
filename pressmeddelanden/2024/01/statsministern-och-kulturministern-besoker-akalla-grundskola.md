@@ -5,11 +5,11 @@ Elever på Akalla grundskola gjorde i höstas en hågkomstresa till Polen, där 
 **Program 26 januari**
 
 Besök Akalla grundskola
-Tid: kl. 08\.30
+Tid: kl. 08.30
 Plats: Adress ges vid anmälan
 
 Pressträff
-Tid: 09\.15
+Tid: 09.15
 Plats: Adress ges vid anmälan
 
 ---

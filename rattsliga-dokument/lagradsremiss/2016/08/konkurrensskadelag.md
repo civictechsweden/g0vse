@@ -7,7 +7,7 @@ medlemsstaternas och Europeiska unionens konkurrensrättsliga bestämmelser.
 Det föreslås att direktivet genomförs i en ny lag, konkurrensskadelagen.
 
 Lagförslaget innehåller bestämmelser om ersättningsansvar och
-hur ersättningen ska bestämmas, om regressrätt och om rättegången i mål enligt lagen. I remissen lämnas också förslag till följdändringar i lagen om grupprättegång, konkurrenslagen och lagen om patent\- och marknadsdomstolar.
+hur ersättningen ska bestämmas, om regressrätt och om rättegången i mål enligt lagen. I remissen lämnas också förslag till följdändringar i lagen om grupprättegång, konkurrenslagen och lagen om patent- och marknadsdomstolar.
 
 Den nya lagen och lagändringarna föreslås träda i kraft den 27 december
-2016\.
+2016.

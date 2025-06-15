@@ -25,4 +25,4 @@ Tillsyn ska utövas av länsstyrelsen.
 
 Affärsverket svenska kraftnät ska svara för tillsynsvägledning.
 
-Lagstiftningen föreslås träda i kraft den 1 juli 2014\.
+Lagstiftningen föreslås träda i kraft den 1 juli 2014.

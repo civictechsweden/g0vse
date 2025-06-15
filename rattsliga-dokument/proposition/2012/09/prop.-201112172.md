@@ -4,7 +4,7 @@ I propositionen föreslås att möjligheten för kommuner och landsting att sjä
 
 I propositionen görs även bedömningen att en statlig kommunstabiliseringsfond inte bör införas.
 
-Ändringarna föreslås träda i kraft den 1 januari 2013\. En möjlighet införs även att reservera överskott upparbetade fr.o.m. räkenskapsåret 2010\.
+Ändringarna föreslås träda i kraft den 1 januari 2013. En möjlighet införs även att reservera överskott upparbetade fr.o.m. räkenskapsåret 2010.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Riksdagen fattade den 28 november 2012 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

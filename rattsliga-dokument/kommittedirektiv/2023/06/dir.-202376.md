@@ -9,4 +9,4 @@ Utredaren ska bl.a.
 * analysera behovet av tillfälliga avsteg från bestämmelser eller principer inom arbetslöshetsförsäkringen som ska gälla vid höjd beredskap och ytterst krig, och
 * föreslå hur arbetslöshetskassornas deltagande i arbetet med krisberedskap och civilt försvar kan förbättras.
 
-Uppdraget ska redovisas senast den 30 juni 2024\.
+Uppdraget ska redovisas senast den 30 juni 2024.

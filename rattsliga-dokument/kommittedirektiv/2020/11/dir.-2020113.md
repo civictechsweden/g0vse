@@ -1,6 +1,6 @@
 # Personuppgiftsbehandling i ärenden om stöd till det civila samhället
 
-En särskild utredare ska analysera frågor om personuppgiftsbehandling och sekretess i ärenden om stöd till det civila samhället, inklusive trossamfunden. Med trossamfund avses i dessa direktiv de trossamfund som omfattas av lagen (1999:932\) om stöd till trossamfund.
+En särskild utredare ska analysera frågor om personuppgiftsbehandling och sekretess i ärenden om stöd till det civila samhället, inklusive trossamfunden. Med trossamfund avses i dessa direktiv de trossamfund som omfattas av lagen (1999:932) om stöd till trossamfund.
 
 Utredaren ska bl.a.
 
@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * analysera behovet av och konsekvenserna av att införa bestämmelser om sekretess, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 1 augusti 2021\.
+Uppdraget ska redovisas senast den 1 augusti 2021.

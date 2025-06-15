@@ -6,4 +6,4 @@ Dessa syftar till att säkerställa att elever som vistas i ett hem för vård e
 
 Särskild undervisning på sjukhus ska anordnas för elever som inte kan delta i vanligt skolarbete och som vårdas på sjukhus om det inte är obehövligt för elevens inhämtande av kunskaper. Det ska inte längre krävas att eleven inte kan delta i skolarbetet under längre tid. Den som undervisar på sjukhus ska vara legitimerad lärare.
 
-Ändringarna i skollagen ska träda i kraft den 1 juli 2015\.
+Ändringarna i skollagen ska träda i kraft den 1 juli 2015.

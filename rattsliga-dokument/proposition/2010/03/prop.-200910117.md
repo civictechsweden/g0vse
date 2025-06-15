@@ -6,11 +6,11 @@ Säkerhetskontroll ska kunna genomföras om det vid ett offentligt sammanträde 
 
 En säkerhetskontroll ska ledas av polis men kunna utföras av ordningsvakter.
 
-Säkerhetskontrollen ska omfatta besökare till sammanträdet och dess syfte är att eftersöka vapen och andra farliga föremål. Kontrollen får omfatta kroppsvisitation och undersökning av väskor, paket m.m. med hjälp av teknisk utrustning som exempelvis larmbåge, handmetall\-detektor och röntgenmaskin. Manuell kroppsvisitation får endast ske om det finns särskilda skäl för åtgärden och ska i så fall utföras av polis eller av ordningsvakt som polismyndigheten har godkänt för uppgiften.
+Säkerhetskontrollen ska omfatta besökare till sammanträdet och dess syfte är att eftersöka vapen och andra farliga föremål. Kontrollen får omfatta kroppsvisitation och undersökning av väskor, paket m.m. med hjälp av teknisk utrustning som exempelvis larmbåge, handmetall-detektor och röntgenmaskin. Manuell kroppsvisitation får endast ske om det finns särskilda skäl för åtgärden och ska i så fall utföras av polis eller av ordningsvakt som polismyndigheten har godkänt för uppgiften.
 
-Som en följd av den nya lagen föreslås vissa ändringar i lagen (1980:578\) om ordningsvakter.
+Som en följd av den nya lagen föreslås vissa ändringar i lagen (1980:578) om ordningsvakter.
 
-Lagförslagen föreslås träda i kraft den 1 juli 2010\.
+Lagförslagen föreslås träda i kraft den 1 juli 2010.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Riksdagen beslutade den 21 april 2010 att förslagen i propositionen ska genomföras.

@@ -16,4 +16,4 @@ huvudsak att
 
 Pensionsgruppen, med företrädare för de partier som står bakom pensionsöverenskommelsen, har ställt sig bakom förslagen. Regeringenföreslår att riksdag beslutar om förkortad motionstid till 12 dagar.
 
-Förslagen om egenhändigt undertecknande och förbudet mot marknadsföring och försäljning via telefon ska träda i kraft den 1 juli 2018\. Övriga förslag ska träda i kraft den 1 november 2018\.
+Förslagen om egenhändigt undertecknande och förbudet mot marknadsföring och försäljning via telefon ska träda i kraft den 1 juli 2018. Övriga förslag ska träda i kraft den 1 november 2018.

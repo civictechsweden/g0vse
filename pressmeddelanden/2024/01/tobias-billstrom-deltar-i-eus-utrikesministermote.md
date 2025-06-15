@@ -2,7 +2,7 @@
 
 Först på dagordningen står Rysslands aggression mot Ukraina.
 
-– I december fattade EU det historiska beslutet att starta EU\-anslutningsförhandlingar med Ukraina. Nu behöver EU snabbt besluta om ett flerårigt ekonomiskt stödpaket till Ukraina, och långsiktigt militärt stöd genom den europeiska fredsfonden. Ett kraftfullt och skyndsamt agerande från EU:s sida är en viktig signal om vårt orubbliga stöd till Ukraina, säger utrikesminister Tobias Billström.
+– I december fattade EU det historiska beslutet att starta EU-anslutningsförhandlingar med Ukraina. Nu behöver EU snabbt besluta om ett flerårigt ekonomiskt stödpaket till Ukraina, och långsiktigt militärt stöd genom den europeiska fredsfonden. Ett kraftfullt och skyndsamt agerande från EU:s sida är en viktig signal om vårt orubbliga stöd till Ukraina, säger utrikesminister Tobias Billström.
 
 Mötets andra dagordningspunkt är situationen i Mellanöstern.
 

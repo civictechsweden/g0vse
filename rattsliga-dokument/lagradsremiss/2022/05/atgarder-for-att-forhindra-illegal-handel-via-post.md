@@ -2,8 +2,8 @@
 
 I lagrådsremissen föreslås ändringar i tystnadsplikten i syfte att underlätta för brottsbekämpande myndigheter att förhindra illegal handel via post. Den som arbetar i postverksamhet ges möjlighet att på eget initiativ bryta tystnadsplikten och lämna uppgifter som gäller misstanke om brott till en brottsbekämpande myndighet, om fängelse är föreskrivet för brottet.
 
-Möjligheten för brottsbekämpande myndigheter att begära ut uppgifter som omfattas av tystnadsplikten utökas till att omfatta brott för vilka det är föreskrivet fängelse i ett år eller mer och brottslig verksamhet som innefattar ett sådant brott. Post\- och telestyrelsen ges större möjligheter att lämna uppgifter om misstänkta brott till brottsbekämpande myndigheter.
+Möjligheten för brottsbekämpande myndigheter att begära ut uppgifter som omfattas av tystnadsplikten utökas till att omfatta brott för vilka det är föreskrivet fängelse i ett år eller mer och brottslig verksamhet som innefattar ett sådant brott. Post- och telestyrelsen ges större möjligheter att lämna uppgifter om misstänkta brott till brottsbekämpande myndigheter.
 
 Tystnadsplikten ska även omfatta uppgifter som gäller att undersöka, öppna, granska eller hålla kvar försändelser enligt lagen om åtgärder för att förhindra vissa särskilt allvarliga brott. Tystnadsplikten för uppgifter om viss kontroll av försändelser föreslås omfatta verksamheten hos alla befordringsföretag, dvs. även företag som endast befordrar paket.
 
-Lagändringarna föreslås träda i kraft den 2 januari 2023\.
+Lagändringarna föreslås träda i kraft den 2 januari 2023.

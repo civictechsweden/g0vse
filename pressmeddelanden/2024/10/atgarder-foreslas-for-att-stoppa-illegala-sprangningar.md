@@ -8,6 +8,6 @@ Sammanlagt har trettio möjliga åtgärder identifierats för att motverka illeg
 
 Många av de föreslagna åtgärderna kommer att kräva fortsatt analys och i vissa fall även lagändringar, både i Sverige och inom EU. Vissa åtgärder bedöms dock kunna genomföras snabbare och är redan under övervägande.
 
-– Kriminellas tillgång till sprängämnen måste strypas, och den här slutredovisningen är en viktig pusselbit i det arbetet. Men arbetet är långt ifrån färdigt. Ett tydligt medskick till alla berörda aktörer är att fortsätta arbetet för att få ett slut på de illegala sprängningarna, säger Carl\-Oskar Bohlin, minister för civilt försvar.
+– Kriminellas tillgång till sprängämnen måste strypas, och den här slutredovisningen är en viktig pusselbit i det arbetet. Men arbetet är långt ifrån färdigt. Ett tydligt medskick till alla berörda aktörer är att fortsätta arbetet för att få ett slut på de illegala sprängningarna, säger Carl-Oskar Bohlin, minister för civilt försvar.
 
 Myndigheternas rapport kommer nu att analyseras inom Regeringskansliet. Parallellt pågår även ett annat viktigt arbete. Den 22 maj 2024 gav regeringen en utredare i uppdrag att se över tillståndsgivning och tillsyn av explosiva varor. Utredaren ska lämna förslag på en mer ändamålsenlig tillståndsprövning samt en effektivare tillsyn över tillståndspliktig verksamhet kopplad till explosiva varor. I utredningen ska även de förslag som redovisats av myndigheterna i det nationella forumet beaktas. Utredarens slutbetänkande väntas den 20 december i år.

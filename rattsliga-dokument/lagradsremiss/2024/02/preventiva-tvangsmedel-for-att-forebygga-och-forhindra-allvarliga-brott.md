@@ -9,4 +9,4 @@ I syfte att stärka de brottsbekämpande myndigheternas förutsättningar att f�
 * Genomsökning på distans ska få användas i utlänningsärenden med kvalificerade säkerhetsaspekter.
 * Rättssäkerheten för den enskilde ska stärkas, bland annat genom utökade förbud mot avlyssning och övervakning.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2024\.
+Lagändringarna föreslås träda i kraft den 1 juli 2024.

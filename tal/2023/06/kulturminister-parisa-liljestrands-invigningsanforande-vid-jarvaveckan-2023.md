@@ -4,10 +4,9 @@ Järva, 31 maj 2023
 
 Det talade ordet gäller.
 
-
 Kära publik!
 
-I ett gammalt fotoalbum finns ett fotografi på en 6\-årig flicka. Hon är uppklädd i sina finaste kläder och ansiktet är målat med svenska flaggans färger. Hon står på ett torg, inte helt olikt den här platsen, och precis som här är det fullt med folk. Hon ler på bilden och är förväntansfull. Kungen och drottningen ska komma på besök och tydligen också representanter för den svenska regeringen. Flickan på bilden är jag.
+I ett gammalt fotoalbum finns ett fotografi på en 6-årig flicka. Hon är uppklädd i sina finaste kläder och ansiktet är målat med svenska flaggans färger. Hon står på ett torg, inte helt olikt den här platsen, och precis som här är det fullt med folk. Hon ler på bilden och är förväntansfull. Kungen och drottningen ska komma på besök och tydligen också representanter för den svenska regeringen. Flickan på bilden är jag.
 
 Då hade jag och min familj bott i Sverige i tre år. Mina föräldrar flydde undan förtrycket i Iran, för att vi barn skulle få växa upp med yttrandefrihet, rösträtt, religionsfrihet och åsiktsfrihet. En sådan här dag, när människor samlas över alla gränser för möten, samtal, diskussioner – kanske till och med en och annan konflikt – då är jag extra stolt över vårt statsskick. Det här är levande demokrati.
 
@@ -17,11 +16,11 @@ Under våren har jag och skolminister Lotta Edholm inlett ett gemensamt arbete f
 
 Innan jag blev heltidspolitiker arbetade jag som lärare och rektor, och jag vet hur svårt det kan vara att motivera unga att läsa. En stängd bok är inte lika lättillgänglig som att scrolla igenom ett öppet flöde i sociala medier. Den kräver mer. Men den ger mångfalt mer tillbaka.
 
-Utbredd läs\- och skrivförmåga är en förutsättning för Sverige som kunskapsnation. Och det är en förutsättning för den enskildes möjligheter att lyckas i livet. Den som ger sig ut på en bildningsresa, får ofta en klassresa på köpet. Det är en resa jag vill att fler ska göra, och den börjar ofta med en bok.
+Utbredd läs- och skrivförmåga är en förutsättning för Sverige som kunskapsnation. Och det är en förutsättning för den enskildes möjligheter att lyckas i livet. Den som ger sig ut på en bildningsresa, får ofta en klassresa på köpet. Det är en resa jag vill att fler ska göra, och den börjar ofta med en bok.
 
-När Laurie Halse Anderson tog emot årets Alma\-pris, sade hon att en bok är både en spegel och ett fönster. Böcker hjälper oss att förstå oss själva, men de hjälper oss också att relatera till människor som ser ut eller lever på andra sätt, på andra platser och i andra tider, med annan tro och andra värderingar.
+När Laurie Halse Anderson tog emot årets Alma-pris, sade hon att en bok är både en spegel och ett fönster. Böcker hjälper oss att förstå oss själva, men de hjälper oss också att relatera till människor som ser ut eller lever på andra sätt, på andra platser och i andra tider, med annan tro och andra värderingar.
 
-Mina barn är allihop födda de senaste 10 åren. Men tillsammans med Pettson eller Emil lever de sig in i ett Bondesverige som få av oss med rötterna i andra länder har en egen relation till. Ett bondesverige som få barn med rötterna i Sverige, för övrigt kan relatera till. Med Alfons får de alla uppleva 1980\-talets miljonprogram. Att få sådana pusselbitar med sig från början \- att man delar vissa referensramar \- gör det lättare att förstå hur och varför vårt samhälle ser ut som det gör och vi förstår varandra.
+Mina barn är allihop födda de senaste 10 åren. Men tillsammans med Pettson eller Emil lever de sig in i ett Bondesverige som få av oss med rötterna i andra länder har en egen relation till. Ett bondesverige som få barn med rötterna i Sverige, för övrigt kan relatera till. Med Alfons får de alla uppleva 1980-talets miljonprogram. Att få sådana pusselbitar med sig från början - att man delar vissa referensramar - gör det lättare att förstå hur och varför vårt samhälle ser ut som det gör och vi förstår varandra.
 
 I förra veckan träffade jag barn och volontärer på Berättarministeriet i Husby, och var med och invigde Rinkeby Bokfestival. Tidigare i våras besökte jag Läslandet i Södertälje, som uttryckligen jobbar för att stärka demokratin och integrationen genom läsning. Det är tre fantastiska initiativ som rustar kommande generationer.
 

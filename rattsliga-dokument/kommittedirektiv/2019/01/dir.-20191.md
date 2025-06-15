@@ -2,4 +2,4 @@
 
 Utredningstiden förlängs.
 
-Uppdraget ska i stället redovisas senast den 29 mars 2019\.
+Uppdraget ska i stället redovisas senast den 29 mars 2019.

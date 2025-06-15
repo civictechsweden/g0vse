@@ -1,10 +1,10 @@
 # Nu ska en ny analys av Socialstyrelsen göras
 
-– Socialstyrelsen har ett brett och viktigt uppdrag att stötta och främja utvecklingen inom hälso\- och sjukvård, socialtjänst och tandvård. Myndighetens uppgifter och uppdrag har förändrats och vuxit genom åren, och därför behövs nu en ny analys för att säkerställa att myndigheten har rätt förutsättningar att utföra sin verksamhet, säger sjukvårdsminister Acko Ankarberg Johansson.
+– Socialstyrelsen har ett brett och viktigt uppdrag att stötta och främja utvecklingen inom hälso- och sjukvård, socialtjänst och tandvård. Myndighetens uppgifter och uppdrag har förändrats och vuxit genom åren, och därför behövs nu en ny analys för att säkerställa att myndigheten har rätt förutsättningar att utföra sin verksamhet, säger sjukvårdsminister Acko Ankarberg Johansson.
 
-Förra gången Statskontoret fick i uppdrag att göra en myndighetsanalys av Socialstyrelsen var år 2010\. Sedan dess har stora förändringar skett. Socialstyrelsens uppgifter och uppdrag har blivit allt fler, bland annat genom rollen som sektorsansvarig för beredskapssektorn ”hälsa, vård och omsorg”. Kommande förändringar kommer också att påverka myndigheten och dess relation till målgrupperna, såsom en ny socialtjänstlag.
+Förra gången Statskontoret fick i uppdrag att göra en myndighetsanalys av Socialstyrelsen var år 2010. Sedan dess har stora förändringar skett. Socialstyrelsens uppgifter och uppdrag har blivit allt fler, bland annat genom rollen som sektorsansvarig för beredskapssektorn ”hälsa, vård och omsorg”. Kommande förändringar kommer också att påverka myndigheten och dess relation till målgrupperna, såsom en ny socialtjänstlag.
 
-Socialstyrelsen arbetar i dag bland annat med kunskapsstyrning och bidrar med underlag och analyser om hälso\- och sjukvården, socialtjänsten och tandvårdens kvalitet och utveckling.
+Socialstyrelsen arbetar i dag bland annat med kunskapsstyrning och bidrar med underlag och analyser om hälso- och sjukvården, socialtjänsten och tandvårdens kvalitet och utveckling.
 
 Myndigheten tar fram underlag för bedömning och för dialog med huvudmän på nationell och lokal nivå samt utvecklar och tillhandahåller nationella kunskapsstöd i form av riktlinjer och vägledningar för beslutsfattare och profession.
 
@@ -27,4 +27,4 @@ I uppdraget ingår även att föreslå åtgärder inom dessa områden.
 
 Statskontoret ska ta hänsyn till pågående relevanta utredningar. Statskontoret ska också inhämta kunskaper och erfarenheter från kommuner, regioner och övriga myndigheter som har verksamhet som berör Socialstyrelsen samt från relevanta professionsförbund.
 
-Socialdepartementet ska löpande informeras om hur arbetet fortskrider och uppdraget ska slutredovisas den 15 april 2025\.
+Socialdepartementet ska löpande informeras om hur arbetet fortskrider och uppdraget ska slutredovisas den 15 april 2025.

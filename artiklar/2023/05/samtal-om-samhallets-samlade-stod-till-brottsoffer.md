@@ -2,7 +2,6 @@
 
 I dag, fredagen den 5 maj, bjöd justitieminister Gunnar Strömmer in flera myndigheter och andra aktörer till ett samtal om hur samhällets samlade stöd till brottsoffer kan stärkas.
 
-
 Som en del i den omläggning av kriminalpolitiken som regeringen nu genomför flyttas fokus från gärningsman till brottsoffer och samhällsskydd. De som utsätts för brott ska få upprättelse och det är av stor vikt att den samlade politiken mot den grova brottsligheten värnar brottsoffren och samhällets behov av skydd.
 
 För att diskutera hur det samlade stödet till brottsoffer kan stärkas och samordnas, till exempel vid sprängningar och andra grova våldsdåd, höll justitieministern i dag ett samtal med Polismyndigheten, Brottsoffermyndigheten, Brottsofferjouren Sverige, Svensk Försäkring, Sveriges Kommuner och Regioner samt Röda Korset.

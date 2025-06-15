@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen att löpande samtala med betydelsefulla civilsamhällesorganisationer, trossamfund och andra om socialtjänstens arbete med barn, unga och familjer. Meningen är att informera viktiga målgrupper för att motverka ryktesspridning och desinformation.
 
-
 Socialstyrelsen ska bland annat:
 
 * ta fram förslag på åtgärder för att långsiktigt stärka tilliten till socialtjänsten bland barn, unga och familjer som behöver stöd och hjälp,
@@ -11,4 +10,4 @@ Socialstyrelsen ska bland annat:
 * uppmärksamma behovet av olika slags kulturkompetens inom socialtjänsten
 * via Utrikesdepartementet förmedla information till Sveriges utlandsmyndigheter och utländska beskickningar i Sverige om socialtjänstens uppdrag och ansvar.
 
-Socialstyrelsen ska slutredovisa uppdraget senast den 10 december 2026\.
+Socialstyrelsen ska slutredovisa uppdraget senast den 10 december 2026.

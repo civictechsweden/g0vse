@@ -2,7 +2,6 @@
 
 Statsminister Ulf Kristersson, riksdagen, den 10 september 2024
 
-
 **För ett rikare och tryggare Sverige**
 Regeringsförklaring avgiven av statsminister Ulf Kristersson.
 
@@ -21,7 +20,7 @@ fler brott i gängmiljö klaras upp och en kriminalpolitisk offensiv utan
 motstycke har inletts. Antalet asylsökande är historiskt lågt.
 
 På område efter område har Sverige fått en nystart – från
-energipolitiken till skol\- och socialpolitiken. De fyra
+energipolitiken till skol- och socialpolitiken. De fyra
 samarbetspartierna sökte och fick mandatet av väljarna att sätta vårt
 land på en ny kurs. Att få ordning på Sverige. Och vi gör det vi sade.
 När vi nu går in i mandatperiodens andra halvlek börjar resultaten
@@ -136,7 +135,7 @@ för denna regering, och ett stort antal reformer är på gång. Bland
 annat ska Försäkringskassan och Bolagsverket ges nya muskler i
 brottsbekämpningen. Den organiserade brottsligheten utnyttjar också
 de finansiella systemen. Regeringen kommer med förslag för att
-försvåra penningtvätt genom så kallad hawala\-verksamhet. En nära
+försvåra penningtvätt genom så kallad hawala-verksamhet. En nära
 dialog förs med banker och mobiloperatörer för att stoppa
 bedrägeribrotten mot äldre.
 
@@ -147,7 +146,7 @@ kvinnor, våld i nära relationer och hedersvåld.
 
 Ett åtgärdsprogram med 132 punkter har presenterats. För att göra
 det lättare att bryta upp från en våldsam partner tar regeringen fram
-ett nytt ”lämna\-program”. Hedersförtryckets tyranni – det som
+ett nytt ”lämna-program”. Hedersförtryckets tyranni – det som
 isolerar många flickor och kvinnor i ofrihet – måste brytas. Så kallade
 oskuldskontroller kommer att förbjudas.
 
@@ -165,9 +164,9 @@ igen.
 
 Regeringen genomför nu ett paradigmskifte, och effekten är redan
 tydlig. Antalet asylsökande har minskat kraftigt och väntas i år bli det
-lägsta under hela 2000\-talet.
+lägsta under hela 2000-talet.
 
-Regeringen kommer att genomföra EU:s migrations\-och asylpakt
+Regeringen kommer att genomföra EU:s migrations-och asylpakt
 enligt de nya reglernas miniminivå. Med bättre kontroll över EU:s
 yttre gräns kommer den irreguljära migrationen till Sverige och till
 unionen som helhet att minska ytterligare. EU:s nya enighet är viktig,
@@ -256,7 +255,7 @@ på den. Därför driver regeringen på för att regionerna ska öka
 vårdkapaciteten. Arbetet med att inrätta en nationell vårdförmedling
 skyndas på. Regeringen planerar också att införa en ny och stärkt
 vårdgaranti med väsentligt kortare tidsgränser än i dag. Det statliga
-ansvaret för hälso\- och sjukvården behöver öka.
+ansvaret för hälso- och sjukvården behöver öka.
 
 Sverige ska fortsätta att vara ett föregångsland inom cancervården.
 Alla barn som drabbas av cancer erbjuds numera en genetisk
@@ -290,7 +289,7 @@ ensamhet att presenteras.
 
 Det finns flera orosmoln när det gäller hur barn mår i Sverige.
 Stillasittandet ökar och barn drabbas numera av sjukdomar som man
-förr bara upptäckte hos äldre, som fettlever och diabetes typ 2\.
+förr bara upptäckte hos äldre, som fettlever och diabetes typ 2.
 
 Tonåringar mellan 13 och 16 år ägnar i genomsnitt sex och en halv
 timmar per dag åt skärmen – skolarbetet oräknat. Det stjäl tid från
@@ -302,7 +301,7 @@ skoldagen helt mobilfri. Nästa år införs också Fritidskortet, som blir
 en av flera insatser för att aktivera barn och unga.
 
 Det som sker i klassrummen i dag, avgör hur Sverige ser ut imorgon.
-Därför är det djupt oroande när de svenska Pisa\-resultaten faller
+Därför är det djupt oroande när de svenska Pisa-resultaten faller
 kraftigt. En fjärdedel av femtonåringarna kan inte ens läsa ordentligt.
 Det understryker behovet av att skolan måste tillbaka till grunderna.
 
@@ -347,8 +346,8 @@ ska ligga i framkant – ett litet land som tävlar över sin viktklass.
 
 Under hösten kommer regeringen att lägga fram tre centrala
 propositioner för att förverkliga denna vision: en budgetproposition
-med ett tydligt investerings\- och tillväxtfokus, en
-infrastrukturproposition och en forsknings\- och
+med ett tydligt investerings- och tillväxtfokus, en
+infrastrukturproposition och en forsknings- och
 innovationsproposition.
 
 En historisk satsning görs på att rusta upp Sveriges infrastruktur. Den
@@ -356,13 +355,13 @@ ekonomiska ramen kommer att utökas med över 200 miljarder kronor.
 Det behövs eftersom Sverige har en stor underhållsskuld i form av
 potthål i vägarna och ständiga tågstopp. Att ta itu med den skulden
 kommer att ha högsta prioritet när regeringen pekar ut inriktningen
-för den kommande planperioden 2026–2037\. Men det handlar också
+för den kommande planperioden 2026–2037. Men det handlar också
 om att möjliggöra nya investeringar. Fungerande infrastruktur är
 
 avgörande för såväl näringslivets utveckling som städernas och
 landsbygdens livskraft, men ytterst också för försvaret av Sverige.
 
-Sverige har länge varit en framstående forsknings\- och tekniknation,
+Sverige har länge varit en framstående forsknings- och tekniknation,
 och ska fortsätta vara det. Men den internationella konkurrensen
 hårdnar. Därför gör regeringen nu den största satsningen någonsin på
 forskning och innovation. År 2028 kommer de statliga satsningarna att
@@ -376,10 +375,10 @@ forskning och utveckling. Det är en styrka att staten och kapitalet går
 hand i hand. Det kan vi göra oftare. Regeringen vill se mer av Team
 Sweden.
 
-Under hösten presenterar AI\-kommissionen sina rekommendationer.
+Under hösten presenterar AI-kommissionen sina rekommendationer.
 Sverige har unika möjligheter även på detta område.
 Steg för steg, reform för reform, ska vi få upp svensk tillväxt igen.
-Regeringen utvidgar det så kallade växa\-stödet så att de allra minsta
+Regeringen utvidgar det så kallade växa-stödet så att de allra minsta
 företagen kan gå från en till två anställda. Vi breddar expertskatten så
 att det blir lättare att locka hit högkvalificerad arbetskraft. Flygskatten
 har inneburit en tung konkurrensnackdel för svenska flygplatser. Nu
@@ -393,9 +392,8 @@ i två steg upp till en grundnivå på 300 000 kronor. Så ökar vi
 friheten för vanligt folk. Efter flera tuffa år blir det åter möjligt att
 unna sig något extra eller lägga undan en slant.
 
-
 Arbetslinjen behöver återupprättas. Alla som kan arbeta ska arbeta. Vi
-har reformerat A\-kassan för att öka drivkrafterna att ta ett arbete.
+har reformerat A-kassan för att öka drivkrafterna att ta ett arbete.
 Regeringen stärker stödet för dem som står särskilt långt ifrån
 arbetsmarknaden.
 
@@ -425,7 +423,7 @@ arbetet går nu in i en intensiv fas. Regeringen arbetar vidare med den
 riskdelningsmodell som nyligen presenterades. En proposition läggs
 fram om forskning och innovation på energiområdet, där
 kärnkraftsforskningen är ett särskilt prioriterat område. Vi gör en
-satsning på pilot\- och demonstrationsprojekt inom kärnkraftsområdet.
+satsning på pilot- och demonstrationsprojekt inom kärnkraftsområdet.
 
 Sverige har en enorm potential i klimatomställningen. Därför har
 regeringen bland annat presenterat ett grönt accelerationskontor och
@@ -437,7 +435,7 @@ onödiga regler ska tynga svenska företagare och grumla glädjen i
 entreprenörers livsprojekt.
 
 Även bostadsbyggandet hämmas av en alltför stor regelbörda.
-Regeringen arbetar för att förenkla och effektivisera plan\- och
+Regeringen arbetar för att förenkla och effektivisera plan- och
 byggprocessen så att fler bostäder byggs. Fler åtgärder ska befrias från
 bygglov och de orimliga kraven på studentbostädernas utformning
 förenklas.
@@ -455,7 +453,7 @@ konkurrenskraft och lönsamhet. Livsmedelsstrategin uppdateras.
 
 Sverige ska bli ett friare land. Det är ofta små reformer som gör det
 möjligt. Gårdsförsäljning av alkoholhaltiga drycker planeras till det
-första halvåret 2025\. Regeringen planerar även att lägga fram förslag
+första halvåret 2025. Regeringen planerar även att lägga fram förslag
 om liberalisering av strandskyddet, så att fler kan bo nära våra vackra
 vatten.
 
@@ -463,7 +461,7 @@ vatten.
 Herr talman,
 
 Sverige ska föra en ambitiös klimatpolitik med målet att nå
-nettonollutsläpp senast år 2045\. Och Sverige har visat att det är
+nettonollutsläpp senast år 2045. Och Sverige har visat att det är
 möjligt att minska utsläppen med mer än en tredjedel samtidigt som
 
 ekonomin har fördubblats. Det gör oss till en förebild för andra länder
@@ -474,7 +472,7 @@ vara det. Svensk klimatpolitik förverkligas bäst inom ramen för EUsamarbetet.
 riktigt.
 
 Med regeringens åtgärder beräknas nu Sverige nå EU:s klimatmål
-inom den så kallade ESR\-sektorn, dvs. de utsläpp som inte ingår i
+inom den så kallade ESR-sektorn, dvs. de utsläpp som inte ingår i
 EU:s utsläppshandelssystem. Den nya reduktionsplikten, som också
 inkluderar fossilfri el från publika laddstationer, justeras upp.
 Samtidigt sänks skatten på bensin och diesel för att priset vid pump
@@ -488,14 +486,14 @@ till produktion av biogas i jordbruket.
 
 Ny teknik har en nyckelroll i omställningen. Skogsnationen Sverige
 har potential att bli världsledande inom koldioxidinfångning, så kallad
-bio\-CCS. I höst tas de första konkreta stegen, när en omvänd auktion
+bio-CCS. I höst tas de första konkreta stegen, när en omvänd auktion
 med negativa utsläpp genomförs.
 
 Regeringen fortsätter omläggningen av skogspolitiken och är starkt
 drivande inom EU för att värna vitala svenska intressen och
 äganderätten. Skogen är en strategisk resurs både för
 klimatomställningen och svensk konkurrenskraft. Antalet vargar i
-Sverige ska minska. EU\-kommissionen har föreslagit ändrad
+Sverige ska minska. EU-kommissionen har föreslagit ändrad
 skyddsstatus på varg, vilket regeringen välkomnar.
 
 Vi måste ta hand om våra hav och marker. Det handlar bland annat
@@ -521,10 +519,10 @@ Sverige har kommit hem till den fria världens försvarsallians för fred
 och frihet. Hem till alla våra grannländers samarbete för säkerhet.
 Hem till den krets av nationer där vi under lång tid har hört hemma.
 
-Med Nato\-medlemskapet blev Sverige tryggare och Nato starkare. Vi
+Med Nato-medlemskapet blev Sverige tryggare och Nato starkare. Vi
 tar med oss strategisk geografi, militär förmåga och en innovativ
 försvarsindustri in i samarbetet. Alla dessa dimensioner understryker
-att Sverige är ett relativt stort Nato\-land. Sveriges Natointegration
+att Sverige är ett relativt stort Nato-land. Sveriges Natointegration
 pågår med full kraft och regeringen kommer föreslå att Sverige under
 det första halvåret 2025 ska bidra med en reducerad bataljon till Natos
 framskjutna närvaro i Lettland. Vi är med och formar det nya Nato i
@@ -537,7 +535,7 @@ och vi förväntar oss att andra länder står för sin del. De senaste fyra
 Sverige att lägga över 2,3 procent av BNP på det militära försvaret.
 
 I höst överlämnar regeringen en proposition till riksdagen om
-totalförsvarets utveckling för perioden 2025–2030\. Den utgår från
+totalförsvarets utveckling för perioden 2025–2030. Den utgår från
 försvarsberedningens rapporter som samtliga riksdagspartier i
 huvudsak står bakom. Regeringen tar fasta på att det nu finns en bred
 politisk samsyn kring att stärka försvaret.
@@ -554,9 +552,9 @@ världen har en historisk uppgift att stå emot Rysslands maktexpansion
 och hjälpa Ukraina att vinna kriget.
 
 Sverige bidrar på många sätt. Sammanlagt 17 stödpaket har levererats
-med allt från stridsvagnar till stridslednings\- och
+med allt från stridsvagnar till stridslednings- och
 luftbevakningsflygplan. Regeringen har presenterat en flerårig
-ekonomisk ram på 75 miljarder kronor för perioden 2024\-26, för att
+ekonomisk ram på 75 miljarder kronor för perioden 2024-26, för att
 ge långsiktighet och förutsebarhet i stödet.
 
 Regeringen driver på för ytterligare steg mot ett ukrainskt EUmedlemskap.
@@ -609,10 +607,10 @@ begränsa andras.
 
 I Sverige ska alla kunna leva tryggt och fritt, oavsett gudstro och
 personliga övertygelser, oavsett hudfärg och oavsett vem man älskar.
-Arbetet har börjat med en flerårig handlingsplan för hbtqi\-personers
+Arbetet har börjat med en flerårig handlingsplan för hbtqi-personers
 lika rättigheter och möjligheter.
 
-År 2025 inträffar 250\-årsjubileet av judiskt liv i Sverige. Att stärka
+År 2025 inträffar 250-årsjubileet av judiskt liv i Sverige. Att stärka
 förutsättningarna för judiskt liv i vårt land är en högt prioriterad fråga
 för regeringen, och en långsiktig strategi kommer att tas fram.
 
@@ -624,7 +622,7 @@ Fri och oberoende journalistik är en omistlig del av den demokratiska
 infrastrukturen. Alla former av hot, hat, trakasserier och våld mot
 journalister är också angrepp mot det öppna samhället. Regeringen har
 beslutat om insatser för att stärka skyddet för journalister. Public
-service\-mediernas oberoende ska bestå och deras långsiktiga
+service-mediernas oberoende ska bestå och deras långsiktiga
 finansiering vidmakthållas.
 
 Mänskliga rättigheter, inklusive yttrandefriheten, är en hörnsten inom

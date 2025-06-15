@@ -12,4 +12,4 @@ Det handlar bland annat om följande:
 * Ett försörjningskrav införs vid anhöriginvandring kopplat till utländsk arbetskraft.
 * Brottet organiserande av människosmuggling utvidgas så att även tillstånd som har utfärdats på grundval av osanna uppgifter omfattas.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2022\.
+Lagändringarna föreslås träda i kraft den 1 juni 2022.

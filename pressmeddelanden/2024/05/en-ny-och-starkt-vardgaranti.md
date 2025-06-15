@@ -1,6 +1,6 @@
 # En ny och stärkt vårdgaranti
 
-Svensk hälso\- och sjukvård håller hög kvalitet men långa väntetider och stora regionala skillnader är ett problem sedan lång tid tillbaka. De senaste åren har väntetiderna fortsatt att öka och den lagstadgade vårdgarantin har sedan införandet 2010 aldrig uppnåtts i sin helhet.
+Svensk hälso- och sjukvård håller hög kvalitet men långa väntetider och stora regionala skillnader är ett problem sedan lång tid tillbaka. De senaste åren har väntetiderna fortsatt att öka och den lagstadgade vårdgarantin har sedan införandet 2010 aldrig uppnåtts i sin helhet.
 
 – Att tvingas vänta på vård kan utöver förvärrade medicinska tillstånd skapa oro, stress och öka lidandet hos patienten. För att fler ska få vård i tid behövs en ny modell för vårdgarantin som är tydligare, skarpare och utgår från patientens behov av vård, säger sjukvårdsminister Acko Ankarberg Johansson.
 
@@ -14,7 +14,7 @@ I de fall vårdgarantin inte uppfylls ska utredare också analysera och lämna f
 
 ### Fast läkarkontakt inom specialiserad vård
 
-I dag finns inget särskilt krav på att patienter i den specialiserade vården ska kunna få tillgång till en fast läkarkontakt, trots att det finns ett tydligt värde med god kontinuitet inom hälso\- och sjukvården. Utredaren ska därför kartlägga behovet av kontinuitet och sammanhållen vård samt ge förslag på hur patienter kan få tillgång till fast läkarkontakt i relevanta delar av den specialiserade vården.
+I dag finns inget särskilt krav på att patienter i den specialiserade vården ska kunna få tillgång till en fast läkarkontakt, trots att det finns ett tydligt värde med god kontinuitet inom hälso- och sjukvården. Utredaren ska därför kartlägga behovet av kontinuitet och sammanhållen vård samt ge förslag på hur patienter kan få tillgång till fast läkarkontakt i relevanta delar av den specialiserade vården.
 
 ### Engångsinsatser för kortare köer
 

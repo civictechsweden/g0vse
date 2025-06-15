@@ -6,4 +6,4 @@ Idag ska endast den vinnande anbudsgivaren anges i annonsen om resultatet. Reger
 
 För upphandlingar under EU:s tröskelvärden, dvs. cirka hälften av alla upphandlingar, är det redan obligatoriskt att ange upphandlingens uppskattade värde respektive om det i upphandlingen tas hänsyn till miljö, sociala aspekter och innovation. Genom förordningsändringarna kommer detta att bli obligatoriskt för samtliga upphandlingar. Uppgift om upphandlingens uppskattade värde är en värdefull uppgift för företag, särskilt de som är nya på den offentliga marknaden, som annars kan ha ett informationsunderläge i förhållande till befintliga leverantörer.
 
-Uppgifterna ska börja anges fr.o.m. den 1 januari 2024\.
+Uppgifterna ska börja anges fr.o.m. den 1 januari 2024.

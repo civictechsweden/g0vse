@@ -8,4 +8,4 @@ Vidare föreslås att domstolen i ett ärende om resning ska kunna förelägga �
 
 Det föreslås också att den tidigare tilltalade och målsäganden i vissa fall ska ha rätt till rättsligt biträde när resning aktualiserats. Om den tidigare tilltalade bedöms ha rätt till ett sådant biträde ska en offentlig försvarare förordnas. För målsäganden ska målsägandebiträde eller – om han eller hon är under 18 år – särskild företrädare för barn kunna förordnas.
 
-Förslagen föreslås träda i kraft den 1 januari 2013\.
+Förslagen föreslås träda i kraft den 1 januari 2013.

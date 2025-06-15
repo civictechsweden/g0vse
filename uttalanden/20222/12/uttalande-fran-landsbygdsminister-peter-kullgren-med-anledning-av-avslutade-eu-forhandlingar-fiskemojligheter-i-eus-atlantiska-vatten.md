@@ -1,7 +1,6 @@
 # Uttalande från Landsbygdsminister Peter Kullgren med anledning av avslutade EU-förhandlingar om fiskemöjligheter i EU:s atlantiska vatten
 
-Uttalande från landsbygdsminister Peter Kullgren med anledning av avslutade förhandlingar mellan EU:s jordbruks\- och fiskeriministrar om fiskemöjligheter för en stor mängd arter i EU:s atlantiska vatten.
-
+Uttalande från landsbygdsminister Peter Kullgren med anledning av avslutade förhandlingar mellan EU:s jordbruks- och fiskeriministrar om fiskemöjligheter för en stor mängd arter i EU:s atlantiska vatten.
 
 Idag har vi slutfört förhandlingarna i Agrifish om fiskekvoter. Den största svenska framgången är att vi fortsatt har flexibilitet att fiska sill i Nordsjön. Det var viktigt för att oss för att värna den västliga Östersjösillen.
 

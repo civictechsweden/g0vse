@@ -10,4 +10,4 @@ Utredaren ska vid behov föreslå förbättringsåtgärder, regelförändringar 
 
 Utgångspunkterna för utredaren är att föräldrar har ett gemensamt ansvar för att ta hand om och försörja sitt barn och att ett välfungerande samarbete dem emellan gagnar barnet. Föräldrarna ska sätta barnets bästa främst exempelvis vad gäller frågor om ekonomi, vårdnad, umgänge och boende efter en separation.
 
-Utredaren ska redovisa uppdraget senast den 31 december 2010\.
+Utredaren ska redovisa uppdraget senast den 31 december 2010.

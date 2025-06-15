@@ -8,4 +8,4 @@ Regeringen föreslår även ett utvidgat förbud mot erkän­nande av äkten­sk
 
 Regeringen föreslår också ett tydli­gare barn­rätts­perspektiv vid inter­natio­n­ella fader­skaps­frågor. Förslaget innebär bl.a. att ett fader­skap grundat direkt på utländsk lag, till följd av att man­nen är gift med den kvinna som fött barnet, ska gälla här i landet även om äkten­skapet inte erkänns under förut­sättning att det är giltigt i det land där barnet vid födelsen fick sin hemvist.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2021\.
+Lagändringarna föreslås träda i kraft den 1 juli 2021.

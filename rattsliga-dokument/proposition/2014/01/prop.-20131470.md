@@ -12,6 +12,6 @@ Det ska vara enkelt för allmänheten att ta del av handlingarna och få insyn i
 
 Den föreslagna lagen innehåller även bestämmelser om tillsyn och sanktioner i form av förseningsavgift och särskild avgift samt om överklagande till allmän förvaltningsdomstol.
 
-Lagen föreslås träda i kraft den 1 april 2014\.
+Lagen föreslås träda i kraft den 1 april 2014.
 
 Regeringen avser att tillsätta en parlamentariskt sammansatt kommitté som ska utreda vidare bland annat frågan om en skyldighet för partier och valkandidater på regional och lokal nivå att redovisa sina intäkter för offentliggörande och frågan om ett eventuellt förbud mot att ta emot anonyma bidrag.

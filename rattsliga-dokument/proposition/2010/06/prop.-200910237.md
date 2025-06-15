@@ -6,4 +6,4 @@ Syftet med förslagen är att ge bättre förutsättningar för en effektiv och 
 
 Förslaget om auktorisation av privata delgivningsföretag innebär att godkänd personal vid sådana företag ges i princip samma befogenheter som de stämningsmän som har förordnats av polismyndigheterna.
 
-Lagändringarna föreslås träda i kraft den 1 april 2011\.
+Lagändringarna föreslås träda i kraft den 1 april 2011.

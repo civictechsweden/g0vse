@@ -11,4 +11,4 @@ Utredaren ska
 * beräkna vilka kostnader förslagen kommer att medföra hos en ny huvudman, och
 * föreslå hur kostnaderna ska finansieras.
 
-Uppdraget ska, i den del som avser polisens uppgifter på djurområdet, redovisas i ett delbetänkande senast den 31 januari 2015\. Uppdraget i övrigt ska redovisas senast den 31 oktober 2015\.
+Uppdraget ska, i den del som avser polisens uppgifter på djurområdet, redovisas i ett delbetänkande senast den 31 januari 2015. Uppdraget i övrigt ska redovisas senast den 31 oktober 2015.

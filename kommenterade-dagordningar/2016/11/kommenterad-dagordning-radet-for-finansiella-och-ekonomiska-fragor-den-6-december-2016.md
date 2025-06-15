@@ -17,6 +17,6 @@ På Ekofinrådets möte den 6 december 2016 finns följande punkter på dagord
 * (ev.) Uppförandekoden (företagsbeskattning)
 * (ev.) Inrättande av ett rättvist, konkurrenskraftigt och stabilt system för företagsbeskattning i EU
 * (ev.) Rapport om strategiska frågor på tullområdet från högnivågruppen av generaldirektörer för tullmyndigheterna
-* (ev.) Förbättrad förutsägbarhet och insyn i stabilitets\- och tillväxtpakten
-* (ev.) Genomförandet av stabilitets\- och tillväxtpakten
+* (ev.) Förbättrad förutsägbarhet och insyn i stabilitets- och tillväxtpakten
+* (ev.) Genomförandet av stabilitets- och tillväxtpakten
 * Kapitalmarknadsunionen

@@ -10,4 +10,4 @@ Utredaren ska bland annat
 * ta ställning till hur det grova vapenbrottet bör förändras för att en skärpt syn på vapenbrottsligheten ska få genomslag och för att möjligheten att göra nyanserade bedömningar av grova vapenbrott ska öka, och
 * lämna författningsförslag där så bedöms nödvändigt.
 
-Uppdraget ska redovisas senast den 31 januari 2013\.
+Uppdraget ska redovisas senast den 31 januari 2013.

@@ -8,4 +8,4 @@ Förslaget innebär att uppgifter om frånvaro från arbetet av skäl som kan ge
 
 Uppgifterna kommer att tas emot av Skatteverket som lämnar över uppgifterna till Försäkringskassan. Förslaget innebär att Försäkringskassan får möjlighet att stämma av de uppgifter om frånvaro som lämnas av den enskilde i ansökan mot den av arbetsgivaren rapporterade frånvaron.
 
-Förslaget föreslås träda i kraft den 1 januari 2025\.
+Förslaget föreslås träda i kraft den 1 januari 2025.

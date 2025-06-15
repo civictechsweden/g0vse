@@ -10,4 +10,4 @@ Utredaren ska bland annat
 * föreslå författningsändringar som i större utsträckning än i dag möjliggör ett omhändertagande av pass eller andra identitetshandlingar,
 * föreslå författningsändringar som syftar till att motverka missbruk av främlingspass, resedokument och uppehållstillståndskort.
 
-Uppdraget ska redovisas senast den 1 december 2017\.
+Uppdraget ska redovisas senast den 1 december 2017.

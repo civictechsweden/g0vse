@@ -4,4 +4,4 @@ Här kan du ta del av svaren från dem som har ombetts att svara på remissen me
 
 Övriga yttranden finns tillgängliga i departementet.
 
-Remissvaren ska ha kommit in till Klimat\- och näringslivsdepartementet senast den 14 augusti 2023\.
+Remissvaren ska ha kommit in till Klimat- och näringslivsdepartementet senast den 14 augusti 2023.

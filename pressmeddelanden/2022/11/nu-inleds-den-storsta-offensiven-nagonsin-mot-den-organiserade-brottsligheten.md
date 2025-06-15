@@ -6,4 +6,4 @@ Kampen mot brotten ska stärkas och tryggheten återupprättas. Den gränsövers
 
 Polismyndigheten ska växa med målet att polistätheten åtminstone ska motsvara genomsnittet inom EU. Brottsbekämpande myndigheter måste också få bättre verktyg, som utökade möjligheter till hemliga och preventiva tvångsmedel, nya sätt att ta brottsvinster från kriminella och minskad sekretess mellan myndigheter.
 
-Att ge alla barn en ärlig chans att lyckas är lika viktigt som att skärpa straffen. Förebyggande arbete mot ungdomskriminalitet lönar sig. Regeringen vill därför stärka socialtjänstens brottsförebyggande arbete samtidigt som föräldraskapsstödsprogrammen byggs ut. Dessutom får kommuner en temporär subvention av LVU\-placeringar på SiS.
+Att ge alla barn en ärlig chans att lyckas är lika viktigt som att skärpa straffen. Förebyggande arbete mot ungdomskriminalitet lönar sig. Regeringen vill därför stärka socialtjänstens brottsförebyggande arbete samtidigt som föräldraskapsstödsprogrammen byggs ut. Dessutom får kommuner en temporär subvention av LVU-placeringar på SiS.

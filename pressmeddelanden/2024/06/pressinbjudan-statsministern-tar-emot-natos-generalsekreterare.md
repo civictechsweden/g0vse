@@ -8,7 +8,7 @@ Observera att media inte kommer kunna vara med under Försvarsmaktens förevisni
 
 ## Program 7 juni
 
-10:40\-11:00 Anmälan, inpassering och uppsamling vid första parkeringen till höger innan vakten.
+10:40-11:00 Anmälan, inpassering och uppsamling vid första parkeringen till höger innan vakten.
 11:30 Pressträff
 
 OBS! Fototillstånd gäller endast på anvisad plats.

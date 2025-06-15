@@ -13,7 +13,7 @@ Det finns många exempel på hur Sverige har påverkats av det svenska EU-medlem
 * EU-samarbetet tillgängliggör medel för forskning och utveckling och stöd till jordbruk och regioner.
 * Genom EU:s roamingregler kan svenskar använda sin telefon utan extra kostnad i hela EU.
 * Programmet ERASMUS+ hjälper svenskar att finansiera sin utbildning och bygga värdefull arbetslivserfarenhet i EU.
-* Sedan 2021 har EU en myndighet för beredskap och insatser vid hälsokriser. Myndigheten heter Hera och ska bland annat säkerställa tillgång till vaccin, mediciner och skyddsutrustning som till exempel handskar och munskydd.
+* Sedan 2021 har EU en myndighet för beredskap och insatser vid hälsokriser. Myndigheten heter Hera och är organisatoriskt ett generaldirektorat inom EU-kommissionen och ska bland annat säkerställa tillgång till vaccin, mediciner och skyddsutrustning som till exempel handskar och munskydd.
 * Det polisiära och rättsliga samarbetet mellan medlemsstaterna har effektiviserats. Exempelvis kan svensk polis få hjälp av till exempel fransk polis i olika brottsrelaterade ärenden.
 * EU civilskyddsmekanism möjliggör för Sverige att erbjuda hjälp till drabbade länder, samt få stöd från andra länder vid naturkatastrofer och andra kriser. Som till exempel flygplan för brandsläckning eller donation av medicinsk utrustning.
 * Centrum för samordning av katastrofberedskap, ERCC, övervakar händelseutvecklingen över hela världen dygnet runt och samordnar EU:s insatser för katastrofhantering och drabbade länders begäran om hjälp.

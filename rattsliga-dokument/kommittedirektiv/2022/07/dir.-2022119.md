@@ -11,6 +11,6 @@ Utredaren ska bland annat
 
 * bemanna myndigheten,
 * lämna underlag till regleringsbrev, och
-* vidta de ytterligare åtgärder som krävs för att myndigheten ska kunna inleda sin verksamhet den 1 januari 2023\.
+* vidta de ytterligare åtgärder som krävs för att myndigheten ska kunna inleda sin verksamhet den 1 januari 2023.
 
-Uppdraget ska slutredovisas senast den 31 december 2022\.
+Uppdraget ska slutredovisas senast den 31 december 2022.

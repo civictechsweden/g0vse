@@ -1,6 +1,6 @@
 # Tilläggsdirektiv till Barnrättighetsutredningen (S 2013:08)
 
-Regeringen beslutade den 27 mars 2013 att ge en särskild utredare i uppdrag att göra en kartläggning inom särskilt angelägna områden av hur tillämpningen av lagar och andra föreskrifter överensstämmer med barnets rättigheter enligt FN:s konvention om barnets rättigheter (barnkonventionen) och de tilläggsprotokoll som Sverige har tillträtt. I uppdraget ingår vidare att analysera vilka för\- och nack\-delar en inkorporering av barnkonventionen i svensk rätt skulle kunna medföra.
+Regeringen beslutade den 27 mars 2013 att ge en särskild utredare i uppdrag att göra en kartläggning inom särskilt angelägna områden av hur tillämpningen av lagar och andra föreskrifter överensstämmer med barnets rättigheter enligt FN:s konvention om barnets rättigheter (barnkonventionen) och de tilläggsprotokoll som Sverige har tillträtt. I uppdraget ingår vidare att analysera vilka för- och nack-delar en inkorporering av barnkonventionen i svensk rätt skulle kunna medföra.
 
 Mot bakgrund av att regeringen nu påbörjar arbetet med att göra barnkonventionen till svensk lag får utredaren genom dessa tilläggsdirektiv ett utökat uppdrag.
 
@@ -13,4 +13,4 @@ Utredaren ska
 
 Mer om bakgrund och innehåll i uppdraget framgår av dokumentet.
 
-Uppdraget förlängs och ska i sin helhet redovisas senast 28 februari 2016\.
+Uppdraget förlängs och ska i sin helhet redovisas senast 28 februari 2016.

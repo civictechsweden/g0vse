@@ -8,12 +8,12 @@ Den svenska vapenlagstiftningen uppfyller i många avseenden de utökade krav so
 Förslagen innebär bland annat följande:
 
 * Kraven på märkning utökas samtidigt som det införs en möjlighet att
-göra undantag från märkningskraven för historiskt värdefulla vapen.
+  göra undantag från märkningskraven för historiskt värdefulla vapen.
 * Vapenmagasin som rymmer många patroner och som kan kombineras
-med vissa halvautomatiska skjutvapen regleras.
+  med vissa halvautomatiska skjutvapen regleras.
 * Vapenmäklarverksamhet regleras på motsvarande sätt som vapenhandlarverksamhet.
 * Vapenhandlare och vapenmäklare ska rapportera misstänkta försök till
-transaktioner med ammunition.
+  transaktioner med ammunition.
 * Kraven på registrering utökas.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2023\.
+Lagändringarna föreslås träda i kraft den 1 juli 2023.

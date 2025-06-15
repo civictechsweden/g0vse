@@ -1,7 +1,6 @@
 # Stärkt partnerskap mellan EU och den indopacifiska regionen
 
-Den 13 maj 2023 hölls EU Indo\-Pacific Ministerial Forum i Stockholm, det största utrikespolitiska mötet som hålls i Sverige under det svenska EU\-ordförandeskapet. Tillsammans står EU och den indopacifiska regionen för 70 % av den globala handeln och över 60 % av direkta investeringsflöden. Utrikesminister Tobias Billström och EU:s höga representant för utrikesfrågor Josep Borell stod värdar för mötet.
-
+Den 13 maj 2023 hölls EU Indo-Pacific Ministerial Forum i Stockholm, det största utrikespolitiska mötet som hålls i Sverige under det svenska EU-ordförandeskapet. Tillsammans står EU och den indopacifiska regionen för 70 % av den globala handeln och över 60 % av direkta investeringsflöden. Utrikesminister Tobias Billström och EU:s höga representant för utrikesfrågor Josep Borell stod värdar för mötet.
 
 Ett sextiotal länder från EU och den indopacifiska regionen deltog på utrikesministernivå, liksom företrädare för ett antal regionala organisationer. Mötet hölls på Expo i närheten av Arlanda flygplats.
 

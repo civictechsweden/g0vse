@@ -12,4 +12,4 @@ Mot bakgrund av Säkerhetspolisens hemställan har regeringen i dag beslutat att
 
 Syftet med översynen av de olika frågorna kopplade till säkerhetsprövningar är att stärka regleringen på personalsäkerhetsområdet, ge verksamhetsutövare tydliga förutsättningar för sitt säkerhetsskyddsarbete samt öka rättssäkerheten och förutsebarheten för såväl enskilda som verksamhetsutövare. Detta kommer i förlängningen ge ett starkare skydd för Sveriges säkerhet.
 
-Utredningens uppdrag ska redovisas senast den 15 augusti 2024\.
+Utredningens uppdrag ska redovisas senast den 15 augusti 2024.

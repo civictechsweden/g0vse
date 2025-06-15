@@ -5,4 +5,4 @@ Regeringen föreslår att kamerabevakningslagen ändras så att Kustbevakningen,
 För att upprätthålla ett starkt integritetsskydd föreslår regeringen att
 myndigheterna även i fortsättningen ska få bedriva kamerabevakning bara om intresset av bevakningen väger tyngre än den enskildes intresse av att inte bli bevakad. Denna intresseavvägning ska göras av myndigheterna själva och dokumenteras. Datainspektionen ska utöva tillsyn och kunna ta ut en sanktionsavgift av den myndighet som inte gör en intresseavvägning.
 
-Lagändringen föreslås träda i kraft den 1 januari 2020\.
+Lagändringen föreslås träda i kraft den 1 januari 2020.

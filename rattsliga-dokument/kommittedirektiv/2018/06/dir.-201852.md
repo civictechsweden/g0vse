@@ -2,4 +2,4 @@
 
 Förlängd tid för uppdraget
 
-Uppdraget ska slutredovisas senast den 28 september 2018\.
+Uppdraget ska slutredovisas senast den 28 september 2018.

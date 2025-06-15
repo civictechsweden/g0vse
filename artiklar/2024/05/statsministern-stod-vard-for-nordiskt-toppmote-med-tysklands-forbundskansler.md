@@ -2,7 +2,6 @@
 
 Den 13 maj träffades regeringscheferna för de fem nordiska länderna och Tysklands förbundskansler Olaf Scholz i Stockholm inom ramen för ett nordiskt toppmöte.
 
-
 Toppmötet inleddes med att de nordiska regeringscheferna diskuterade nordisk konkurrenskraft tillsammans med näringslivsrepresentanter från respektive land. Mötet avslutades med att länderna skrev under en gemensam deklaration för att underlätta nordisk konkurrenskraft, tillväxt och ökad säkerhet.
 
 Senare under dagen anslöt Tysklands förbundskansler Olaf Scholz och ledarna besökte Ericsson i Kista. Efter en rundvandring höll de nordiska regeringscheferna och den tyske förbundskanslern överläggningar om säkerhetspolitiska frågor som hybridhot, civil beredskap och nya teknologier.

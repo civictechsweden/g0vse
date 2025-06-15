@@ -8,4 +8,4 @@ Regeringen föreslår att:
 * SiS ska få utökade möjligheter att vid särskilda ungdomshem besluta om begränsningar och kontroll av besök. Ett besök ska bland annat få villkoras med att besökaren genomgår kroppsvisitation om det är nödvändigt av säkerhetsskäl.
 * SiS, om det behövs, ska undersöka om den som barnet eller den unge vill kommunicera med eller få besök av är dömd eller misstänkt för brott.
 
-Lagändringarna föreslås träda i kraft den 15 maj 2024\.
+Lagändringarna föreslås träda i kraft den 15 maj 2024.

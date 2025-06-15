@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Sveriges lantbruksuniversitet (SLU) att uppdatera, utveckla och förenkla befintligt utbildningspaket i adaptiv älgförvaltning.
 
-
 Utbildningspaketet ska vara användarvänligt och rikta sig till målgruppen. Det ska bidra till ökad förståelse för och tillit till älgförvaltningssystemet. Vidare ska utbildningspaketet ange vikten av att hänsyn tas i älgförvaltningsplanerna till allmänna intressen som rovdjur, motverkande av trafikolyckor med älg, skador på skog samt inverkan på övrig biologisk mångfald. Utbildningspaketet ska även tydliggöra roller, ansvar och befogenheter inom och mellan älgförvaltningens olika nivåer dvs. älgskötselområden, älgförvaltningsområden, viltförvaltningsdelegationer och länsstyrelsen samt metoder för samverkan.
 
 Viltbestånd och naturmiljö ser olika ut i olika delar av landet och manualer för förvaltningen ska därför anpassas efter regionala förhållanden vad gäller grundläggande faktorer för älgförvaltningen.
@@ -18,7 +17,7 @@ Uppdraget ska utföras med stöd av en referensgrupp bestående av
 representanter för länsstyrelserna, Naturvårdsverket, Skogsstyrelsen,
 Trafikverket samt jägarnas och markägarnas organisationer. Vid tillsättandet av referensgruppen ska en jämn könsfördelning eftersträvas.
 
-SLU ska senast den 28 februari 2019 lämna in en verksamhetsrapport till Regeringskansliet (Näringsdepartementet) om uppdragets genomförande under 2018\. För uppdragets genomförande får SLU använda högst 1 000 000 kronor under 2018\. Medlen ska belasta anslaget 1:2 Insatser för skogsbruket, anslagsposten 3 Nationellt skogsprogram under utgiftsområde 23 Areella näringar, landsbygd och livsmedel. Medlen ska betalas ut efter rekvisition ställd till Skogsstyrelsen. Rekvisition ska ske senast den 1 december 2018\.
+SLU ska senast den 28 februari 2019 lämna in en verksamhetsrapport till Regeringskansliet (Näringsdepartementet) om uppdragets genomförande under 2018. För uppdragets genomförande får SLU använda högst 1 000 000 kronor under 2018. Medlen ska belasta anslaget 1:2 Insatser för skogsbruket, anslagsposten 3 Nationellt skogsprogram under utgiftsområde 23 Areella näringar, landsbygd och livsmedel. Medlen ska betalas ut efter rekvisition ställd till Skogsstyrelsen. Rekvisition ska ske senast den 1 december 2018.
 
-Utbetalda medel ska förbrukas och redovisas i SLU:s bokföring före årets utgång, dvs. vid tidpunkten för bokslut 2018\. En ekonomisk uppföljning ska lämnas senast den 15 mars 2019 till Regeringskansliet
-(Näringsdepartementet). Medel som inte har utnyttjats ska återbetalas till Skogsstyrelsen på bankgiro 787\-8606 senast den 28 februari året efter rekvisitionen.
+Utbetalda medel ska förbrukas och redovisas i SLU:s bokföring före årets utgång, dvs. vid tidpunkten för bokslut 2018. En ekonomisk uppföljning ska lämnas senast den 15 mars 2019 till Regeringskansliet
+(Näringsdepartementet). Medel som inte har utnyttjats ska återbetalas till Skogsstyrelsen på bankgiro 787-8606 senast den 28 februari året efter rekvisitionen.

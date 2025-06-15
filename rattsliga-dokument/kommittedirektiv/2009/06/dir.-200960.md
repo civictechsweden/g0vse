@@ -10,4 +10,4 @@ Utredaren ska ta ställning till om den som har fyllt 18 år ska behandlas som e
 
 Slutligen ska utredaren ta ställning till om ett system med villkorligt fängelse ska införas.
 
-Uppdraget ska redovisas senast den 31 maj 2012\.
+Uppdraget ska redovisas senast den 31 maj 2012.

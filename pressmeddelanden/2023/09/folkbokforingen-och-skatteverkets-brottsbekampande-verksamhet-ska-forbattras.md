@@ -8,4 +8,4 @@ Beslutet innebär att en särskild utredare ska göra en översyn av straffbest�
 
 I uppdraget ingår också att se över om de biometriska uppgifter, exempelvis fingeravtryck eller ansiktsbilder, som Skatteverket har möjlighet att ta idag vid en identitetskontroll, ska få sparas och användas vid senare tillfällen. Idag måste de förstöras. Utredaren ska även undersöka om Skatteverket bör ges utökade befogenheter inom brottsbekämpningen.
 
-Utredningens uppdrag ska redovisas senast den 28 maj 2025\.
+Utredningens uppdrag ska redovisas senast den 28 maj 2025.

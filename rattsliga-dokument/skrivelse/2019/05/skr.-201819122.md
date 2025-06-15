@@ -1,6 +1,6 @@
 # Det kyrkliga kulturarvet
 
-I skrivelsen redovisar regeringen hur den kyrkoantikvariska ersättningen har använts mellan 2002–2017\. Skrivelsen behandlar också tillgängligheten till de kyrkliga kulturminnena, kunskaps\- och kompetensfrågor, samverkan mellan Svenska kyrkan och myndigheterna inom kulturmiljöområdet samt det kyrkliga kulturarvets roll i samhället.
+I skrivelsen redovisar regeringen hur den kyrkoantikvariska ersättningen har använts mellan 2002–2017. Skrivelsen behandlar också tillgängligheten till de kyrkliga kulturminnena, kunskaps- och kompetensfrågor, samverkan mellan Svenska kyrkan och myndigheterna inom kulturmiljöområdet samt det kyrkliga kulturarvets roll i samhället.
 
 Regeringen bedömer i skrivelsen bland annat att:
 

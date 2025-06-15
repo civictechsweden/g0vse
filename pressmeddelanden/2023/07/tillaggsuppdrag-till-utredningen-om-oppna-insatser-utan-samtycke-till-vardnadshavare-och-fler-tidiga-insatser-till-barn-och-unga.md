@@ -12,4 +12,4 @@ För att besluten inte ska bli verkningslösa behöver socialtjänsten även kun
 
 När ett barn misstänks för brott är det viktigt med tidig kontakt mellan socialtjänsten och vårdnadshavare. Dels för att få vårdnadshavare att medverka till stöd för barnet men också för att tidigt fånga upp de vårdnadshavare som inte själva har förmåga att ge sitt barn det stöd som behövs. Därför får utredningen även ett nytt uppdrag att analysera behovet av och lämna förslag på en ordning där socialnämnden ska kalla vårdnadshavare till ett samtal inom 24 timmar efter det att nämnden får kännedom om att ett barn misstänks för brott. Utredningen ska även analysera och ta ställning till om barnet ska kallas till samtalet.
 
-Uppdragstiden förlängs och uppdraget ska nu redovisas senast den 30 augusti 2024\. Ny utredare är Anna Tengberg.
+Uppdragstiden förlängs och uppdraget ska nu redovisas senast den 30 augusti 2024. Ny utredare är Anna Tengberg.

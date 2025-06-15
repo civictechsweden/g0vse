@@ -6,4 +6,4 @@ Samtliga analyser ska göras utifrån ett juridiskt, administrativt, tekniskt, s
 
 Avståndsbaserade vägavgifter och vägskatter finns i vissa andra länder. Kommittén ska därför kartlägga och analysera införda och planerade system för avståndsbaserade vägavgifter och vägskatter i andra europeiska länder i syfte att få kunskapsunderlag för bedömningen av hur en vägslitageskatt kan utformas i Sverige.
 
-Uppdraget ska redovisas senast den 9 december 2016\.
+Uppdraget ska redovisas senast den 9 december 2016.

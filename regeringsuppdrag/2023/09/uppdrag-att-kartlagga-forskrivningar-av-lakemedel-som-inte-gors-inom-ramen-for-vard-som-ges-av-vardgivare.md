@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen att kartlägga sådana förskrivningar av läkemedel som inte görs inom ramen för vård som ges av vårdgivare.
 
-
 I uppdraget ingår att
 
 * kartlägga frekvensen av förskrivningar som inte görs hos en vårdgivare,

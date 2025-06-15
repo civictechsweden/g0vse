@@ -8,4 +8,4 @@ I lagrådsremissen föreslås vissa ändringar i arbetstidslagen och i arbetsmil
 * Kravet på att söka tillstånd hos Arbetsmiljöverket om nödfallsövertid ska tas ut för längre tid än två dygn, upphävs.
 * Skyddsombud ges möjlighet att göra framställningar till arbetsgivaren om det behövs för att säkerställa att arbetstidslagens krav angående extra övertid, extra mertid och nödfallsövertid följs, samt att få detta prövat av Arbetsmiljöverket.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2011\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2011.

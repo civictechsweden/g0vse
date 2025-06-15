@@ -4,4 +4,4 @@ I EU:s krishanteringsregelverk finns regler om avveckling och rekonstruktion av 
 
 I EU:s kapitaltäckningsregelverk finns krav på kapital och organisation för finansiella företag. Europeiska bankmyndigheten har ifrågasatt om svensk rätt står i överensstämmelse med unionsrätten. Det föreslås därför att det i svensk rätt ska förtydligas att de aktiebolagsrättsliga bestämmelserna om vinstutdelning på begäran av en aktieägarminoritet inte gäller vid tillämpning av EU:s kapitaltäckningsregelverk.
 
-Lagändringarna föreslås träda i kraft den 15 november 2023\.
+Lagändringarna föreslås träda i kraft den 15 november 2023.

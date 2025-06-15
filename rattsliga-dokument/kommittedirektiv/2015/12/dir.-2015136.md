@@ -4,7 +4,7 @@ Den s.k. delningsekonomin har många fördelar såväl för enskilda individer o
 
 * göra en beskrivande kartläggning av olika modeller som möjliggör eller underlättar transaktioner där privatpersoner säljer, hyr ut, lånar ut eller ger bort materiella eller finansiella tillgångar, samäger eller samnyttjar sådana tillgångar eller erbjuder tjänster,
 * analysera olika användares roller och rättsliga ställning vid sådana transaktioner,
-* resonera kring om befintlig lagstiftning är ändamålsenlig eller om det finns eventuella behov av författningsändringar, såväl nationellt som inom EU, framför allt i fråga om förmögenhetsrätt, konsumenträttsliga delar av marknads\-rätten, produktsäkerhet, tillsyn och tvistlösning och
+* resonera kring om befintlig lagstiftning är ändamålsenlig eller om det finns eventuella behov av författningsändringar, såväl nationellt som inom EU, framför allt i fråga om förmögenhetsrätt, konsumenträttsliga delar av marknads-rätten, produktsäkerhet, tillsyn och tvistlösning och
 * bedöma om det finns behov av andra åtgärder för att främja en positiv utveckling, exempelvis när det gäller information eller samarbete mellan olika samhällsaktörer.
 
-Uppdraget ska redovisas senast den 31 mars 2017\.
+Uppdraget ska redovisas senast den 31 mars 2017.

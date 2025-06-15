@@ -1,7 +1,6 @@
 # Forssmed och Kullgren: Om inte världen agerar kan sårinfektioner bli livshotande
 
-Debattartikel av socialminister Jakob Forssmed och landsbygdsminister Peter Kullgren, Altinget den 26 september 2024\.
-
+Debattartikel av socialminister Jakob Forssmed och landsbygdsminister Peter Kullgren, Altinget den 26 september 2024.
 
 Antibiotikaresistens är ett växande hot mot människors och djurs hälsa, som inte känner av några landsgränser. Sverige har ett gott resistensläge bland både människor och djur vilket är resultatet av ett aktivt engagemang inom olika sektorer och nivåer under lång tid. Dessvärre ser det inte lika bra ut globalt.
 
@@ -21,14 +20,14 @@ Svensk erfarenhet inom livsmedelsproduktionen visar att det inte behöver vara e
 
 ## Andra länder måste bidra
 
-Sverige har under lång tid prioriterat arbetet mot antibiotikaresistens. Under det svenska ordförandeskapet i EU förra året antogs gemensamma mål för hur mycket antibiotikaanvändningen och \-resistensen ska minska fram till år 2030 och hur uppföljningen kan förbättras.
+Sverige har under lång tid prioriterat arbetet mot antibiotikaresistens. Under det svenska ordförandeskapet i EU förra året antogs gemensamma mål för hur mycket antibiotikaanvändningen och -resistensen ska minska fram till år 2030 och hur uppföljningen kan förbättras.
 
 I dagarna samlas ministrar från hela världen i FN:s generalförsamling för att tillsammans anta en deklaration som ska vägleda hanteringen av antibiotika på global såväl som nationell nivå de kommande åren. För att lyckas räcker det inte att arbeta med frågan i Sverige, andra länder behöver bidra och accelerera sitt arbete, deklarationen är dock ett viktigt första steg.
 
-I förhandlingarna har vi från svenskt håll varit tydliga med att det krävs nationella handlingsplaner med mål för minskad antibiotikaanvändning och \-resistens, en tydlig uppföljning och även finansiering av nationella handlingsplaner för att antibiotikaresistensen i världen ska kunna stävjas. Alla dessa delar finns nu med i förslaget till ny deklaration. Samtidigt beklagar vi att ett antal stora länder blockerat möjligheten att ta ytterligare steg för att minska antibiotikaanvändningen i tillväxtfrämjande syfte inom animalieproduktionen.
+I förhandlingarna har vi från svenskt håll varit tydliga med att det krävs nationella handlingsplaner med mål för minskad antibiotikaanvändning och -resistens, en tydlig uppföljning och även finansiering av nationella handlingsplaner för att antibiotikaresistensen i världen ska kunna stävjas. Alla dessa delar finns nu med i förslaget till ny deklaration. Samtidigt beklagar vi att ett antal stora länder blockerat möjligheten att ta ytterligare steg för att minska antibiotikaanvändningen i tillväxtfrämjande syfte inom animalieproduktionen.
 
 ## En patientsäkerhetsfråga
 
 Arbete kvarstår alltså alltjämt. Medvetenheten om problemet med antibiotikaresistens måste öka, perspektivet behöver vidgas från ett infektionsproblem till en patientsäkerhetsfråga, och från att ses som ett hälsoproblem till att det är ett samhällsekonomiskt problem på lång sikt, där många fler aktörer behöver bidra mer aktivt.
 
-Genom FN\-deklarationen finns nu potential att flytta fram positionerna i det globala och nationella arbetet.
+Genom FN-deklarationen finns nu potential att flytta fram positionerna i det globala och nationella arbetet.

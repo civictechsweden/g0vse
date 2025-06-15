@@ -8,6 +8,4 @@ Pål Wrange, professor                                      �
 
 Ulrika Cronenberg Mossberg, civilekonom                 ledamot
 
-
-
 Som sekreterare i kommittén anställs justitiesekreterare Esin Tubluk samt som biträdande sekreterare ambassadör Barbro Elm.

@@ -4,6 +4,6 @@ Promemorian innehåller förslag om att ett s.k. ingångsavdrag ska införas. In
 
 Den föreslagna nedsättningen innebär att endast ålderspensionsavgift ska betalas på ersättningar upp till 23 500 kronor per kalendermånad och anställd. Nedsättningens storlek, tillsammans med inkomsttaket om 23 500 kronor per månad, innebär att arbetsgivaren med ingångsavdraget får en nedsättning med som mest cirka 5 000 kronor per månad och anställd.
 
-Förslaget bygger på en sakpolitisk överenskommelse mellan regeringen, Centerpartiet och Liberalerna. Förslaget aviserades i budgetpropositionen för 2020\.
+Förslaget bygger på en sakpolitisk överenskommelse mellan regeringen, Centerpartiet och Liberalerna. Förslaget aviserades i budgetpropositionen för 2020.
 
-Förslaget föreslås träda i kraft den 1 juli 2020\.
+Förslaget föreslås träda i kraft den 1 juli 2020.

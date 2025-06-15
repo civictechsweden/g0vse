@@ -10,4 +10,4 @@ lägenhetsnivå i nya flerbostadshus eller i bostadsdelarna av nya byggnader med
 Förslagen är i huvudsak föranledda av Europaparlamentets och rådets
 direktiv (EU) 2018/2002 av den 11 december 2018 om ändring av direktiv 2012/27/EU om energieffektivitet.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2022\.
+Lagändringarna föreslås träda i kraft den 1 juni 2022.

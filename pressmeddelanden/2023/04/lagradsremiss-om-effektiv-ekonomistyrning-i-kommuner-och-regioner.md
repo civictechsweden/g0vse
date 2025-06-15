@@ -8,4 +8,4 @@ I lagrådsremissen föreslås även att kravet på att besluta om särskilda rik
 
 Slutligen föreslås att budgeten ska innehålla en redogörelse för ekonomin i de kommunala koncernföretag som ingår i en kommunal koncern samt att revisionsberättelserna ska hållas tillgängliga för allmänheten på kommunens eller regionens webbplats.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

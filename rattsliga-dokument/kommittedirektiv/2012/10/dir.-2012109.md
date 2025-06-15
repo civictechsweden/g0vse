@@ -9,4 +9,4 @@ Utredaren ska bland annat
 * identifiera behovet av offentligt stöd till lättläst, och
 * föreslå hur statens insatser för lättläst ska organiseras.
 
-Uppdraget ska redovisas senast den 31 maj 2013\.
+Uppdraget ska redovisas senast den 31 maj 2013.

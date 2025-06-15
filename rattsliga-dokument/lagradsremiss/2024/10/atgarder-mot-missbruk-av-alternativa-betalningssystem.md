@@ -8,4 +8,4 @@ Mot bakgrund av att valutaväxlare och registrerade betaltjänstleverantörer s�
 
 För att anpassa svensk rätt till unionsrätten föreslås dessutom att registrerade betaltjänstleverantörer som tillhandahåller kontoinformationstjänster ska omfattas av penningtvättslagen.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2025\.
+Lagändringarna föreslås träda i kraft den 1 juli 2025.

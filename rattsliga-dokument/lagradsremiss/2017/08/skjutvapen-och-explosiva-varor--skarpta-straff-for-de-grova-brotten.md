@@ -4,6 +4,6 @@ I lagrådsremissen föreslår regeringen att straffskalorna för grovt vapenbro
 
 Vidare föreslås att minimistraffen för de synnerligen grova brotten höjs från fängelse i tre år till fängelse i fyra år. Slutligen föreslås att straffmaximum för vapenbrott och brott mot tillståndsplikten för explosiva varor av normalgraden ändras från fängelse i två år till fängelse i tre år.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2018\.
+Lagändringarna föreslås träda i kraft den 1 januari 2018.
 
 [Pressmeddelande: Regeringen skärper straffen för illegala vapen och handgranater](/pressmeddelanden/2017/08/regeringen-skarper-straffen-for-illegala-vapen-och-handgranater/)

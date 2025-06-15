@@ -4,4 +4,4 @@ Skattetillägg får inte tas ut om den uppgiftsskyldige på eget initiativ har r
 
 I promemorian föreslås ändringar i skatteförfarandelagen och i skattebrottslagen.
 
-Bestämmelserna föreslås träda i kraft den 1 augusti 2018\.
+Bestämmelserna föreslås träda i kraft den 1 augusti 2018.

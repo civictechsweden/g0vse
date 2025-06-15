@@ -1,7 +1,6 @@
 # Forssmed: Delaktigheten för unga med NPF-diagnos måste öka – nu bjuder jag in till samtal
 
-Debattartikel av socialminister Jakob Forssmed, Altinget den 8 oktober 2024\.
-
+Debattartikel av socialminister Jakob Forssmed, Altinget den 8 oktober 2024.
 
 Alla barn och unga, oavsett funktionsförmåga, har rätt till en meningsfull och utvecklande fritid i gemenskap med andra. Tyvärr visar undersökningar att unga med funktionsnedsättning generellt har en sämre tillgång till fritidsaktiviteter. Många unga i gruppen känner sig också exkluderade under själva aktiviteterna som sker på fritiden.
 
@@ -9,7 +8,7 @@ Alla barn och unga, oavsett funktionsförmåga, har rätt till en meningsfull oc
 
 En grupp som vi vet kan ha svårt att hitta sin plats i fritidsverksamhet är barn och unga med neuropsykiatriska funktionsnedsättningar, NPF. Arbete pågår i många idrottsföreningar och förbund för att öka möjligheten för dessa personer att delta, men det kvarstår utmaningar och min bild är att mer kan göras! Därför har jag bjudit in ett antal idrottsförbund, representanter för friluftsliv och andra organisationer för ett samtal om hur vi kan öka delaktigheten i idrott, friluftsliv och annat föreningsliv för personer med NPF.
 
-För delaktigheten behöver öka. Alltför många barn och ungdomar med NPF slutar med idrott för att kraven upplevs för höga eller för att de inte får det stöd de behöver för att komma till sin rätt. Den nationella ungdomsenkät som Myndigheten för ungdoms\- och civilsamhällesfrågor genomfört visar att unga som har en funktionsnedsättning i lägre utsträckning idrottat både inom och utanför föreningar, umgåtts med kompisar, besökt gym eller är medlemmar i en förening jämfört med andra unga. Exempelvis är det endast nio procent av personer med intellektuell funktionsnedsättning som når rekommendationerna för fysisk aktivitet enligt Kommittén för främjande av ökad fysisk aktivitet.
+För delaktigheten behöver öka. Alltför många barn och ungdomar med NPF slutar med idrott för att kraven upplevs för höga eller för att de inte får det stöd de behöver för att komma till sin rätt. Den nationella ungdomsenkät som Myndigheten för ungdoms- och civilsamhällesfrågor genomfört visar att unga som har en funktionsnedsättning i lägre utsträckning idrottat både inom och utanför föreningar, umgåtts med kompisar, besökt gym eller är medlemmar i en förening jämfört med andra unga. Exempelvis är det endast nio procent av personer med intellektuell funktionsnedsättning som når rekommendationerna för fysisk aktivitet enligt Kommittén för främjande av ökad fysisk aktivitet.
 
 ## Hälften inte nöjda med sin fritid
 

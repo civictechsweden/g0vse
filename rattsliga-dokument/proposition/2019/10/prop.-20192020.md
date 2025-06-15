@@ -5,10 +5,10 @@ I propositionen föreslås ändringar i skatteförfarandelagen för att anstånd
 Förslagen utvidgar möjligheten till anstånd vid utflyttningsbeskattning
 inom Europeiska ekonomiska samarbetsområdet, både för juridiska och fysiska personer. Det föreslås att det högsta tillåtna anståndsbeloppet ska minskas med en femtedel varje år nytt anstånd beviljas. Det föreslås även att kostnadsränta ska tas ut när anstånd beviljas samt att anstånd får förenas med krav på säkerhet. Vidare föreslås att anstånd ska kunna beviljas i samband med avdrag och fiktiv avräkning av utländsk skatt.
 
-Det föreslås också vissa ändringar i inkomstskattelagens regler om omedelbar återföring av avdrag för avsättning till periodiseringsfonder och ersättningsfonder vid utflyttning. Förslaget föranleds av praxis från EU\-domstolen.
+Det föreslås också vissa ändringar i inkomstskattelagens regler om omedelbar återföring av avdrag för avsättning till periodiseringsfonder och ersättningsfonder vid utflyttning. Förslaget föranleds av praxis från EU-domstolen.
 
 Propositionen innehåller slutligen ett förslag om ändring i lagen
 om identifiering av rapporteringspliktiga konton vid automatiskt utbyte av upplysningar om finansiella konton.
 
 De nya bestämmelserna föreslås i huvudsak träda i kraft den 1 januari
-2020\.
+2020.

@@ -2,7 +2,6 @@
 
 Rättsmedicinalverket ska senast den 15 november 2016 redovisa hur medicinska åldersbedömningar görs och, inom ramen för ansökningar om uppehållstillstånd, beskriva hur sådana ska genomföras över tid och processen för dessa.
 
-
 Rättsmedicinalverket ska utifrån aktuell forskning och beprövad erfarenhet:
 
 * med stor skyndsamhet påbörja genomförandet av medicinska åldersbedömningar inom ramen för ansökningar om uppehållstillstånd och omedelbart öka förmågan och kapaciteten på detta område

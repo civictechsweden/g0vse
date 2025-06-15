@@ -1,13 +1,12 @@
 # Vägen till fred i Ukraina diskuterades vid toppmöte i Schweiz
 
-Fredstoppmötet i Schweiz i helgen samlade representanter från ett 90\-tal länder.
-
+Fredstoppmötet i Schweiz i helgen samlade representanter från ett 90-tal länder.
 
 Statsminister Ulf Kristersson om mötet:
 
 – Helgens toppmöte visar att det finns ett brett internationellt stöd för Ukrainas ansträngningar för fred. Gränser får inte flyttas med våld. Sverige stödjer Ukrainas kamp mot Rysslands olagliga aggression så länge som det behövs.
 
-I en gemensam kommuniké från mötet konstateras bland annat att en hållbar och rättvis fred i Ukraina måste bygga på internationell rätt och FN\-stadgans principer om territoriell integritet och suveränitet.
+I en gemensam kommuniké från mötet konstateras bland annat att en hållbar och rättvis fred i Ukraina måste bygga på internationell rätt och FN-stadgans principer om territoriell integritet och suveränitet.
 
 Ett stort antal regeringschefer och andra deltagare på hög nivå närvarade vid mötet. Vice statsminister Ebba Busch deltog från Sverige.
 

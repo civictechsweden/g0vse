@@ -8,4 +8,4 @@ Strukturomvandlingen under de senaste åren har medfört att två av de fem stö
 
 Förslaget ökar konsumentskyddet på bankmarknaden och konkurrensen mellan kreditinstituten.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2023\.
+Lagändringarna föreslås träda i kraft den 1 januari 2023.

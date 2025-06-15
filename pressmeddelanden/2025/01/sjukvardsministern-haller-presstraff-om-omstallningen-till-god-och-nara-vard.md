@@ -1,3 +1,3 @@
-# Sjukvårdsministern håller pressträff om omställningen till god och nära vård
+# Inställd: Sjukvårdsministern håller pressträff om omställningen till god och nära vård
 
 

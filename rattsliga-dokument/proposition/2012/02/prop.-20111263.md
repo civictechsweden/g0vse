@@ -8,4 +8,4 @@ Säkerhetskontroll beslutas av domstolens chef eller någon annan lagfaren domar
 
 En säkerhetskontroll genomförs, efter närmare anvisningar av polismyndigheten, av en ordningsvakt under ledning av en polisman eller av en polisman. Vid kontrollen ska kroppsvisitation och undersökning av väskor och andra föremål i första hand ske genom användande av metalldetektor eller annan liknande anordning. Möjligheten att lämna okontrollerade väskor och andra föremål för förvaring tas bort.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2012\.
+Lagändringarna föreslås träda i kraft den 1 juli 2012.

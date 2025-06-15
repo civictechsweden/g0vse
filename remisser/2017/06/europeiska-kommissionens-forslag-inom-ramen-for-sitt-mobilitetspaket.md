@@ -2,10 +2,9 @@
 
 Här kan du ta del av vilka instanser som regeringen remitterat rättsakterna Europeiska kommissionens förslag inom ramen för sitt mobilitetspaket.
 
-
 Remissvaren ska ha kommit in till Näringsdepartementet, **senast den 31 augusti 2017**.
 
-Därutöver erbjuds remissinstanserna att inkomma med preliminära remissvar senast den 16 juni 2017, synpunkter som lämnas vid detta tillfälle kommer att kunna beaktas i de faktapromemorior som ska lämnas till riksdagen i juli 2017 samt i det förhandlingsarbete som bedrivs under sommaren 2017\. Svaren bör lämnas både på papper och per e post. Ange diarienummer N2017/03932/MRT och remissinstansens namn i ämnesraden på e postmeddelandet.
+Därutöver erbjuds remissinstanserna att inkomma med preliminära remissvar senast den 16 juni 2017, synpunkter som lämnas vid detta tillfälle kommer att kunna beaktas i de faktapromemorior som ska lämnas till riksdagen i juli 2017 samt i det förhandlingsarbete som bedrivs under sommaren 2017. Svaren bör lämnas både på papper och per e post. Ange diarienummer N2017/03932/MRT och remissinstansens namn i ämnesraden på e postmeddelandet.
 
 ### Remissen avser följande rättsakter:
 

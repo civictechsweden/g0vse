@@ -8,4 +8,4 @@ Utredaren ska bland annat
 * ta ställning till om straff­skalorna för barn­fridsbrott, grov frids­kränkning och grov kvinno­frids­kränkning bör skärpas och oavsett bedömning i sak lämna nödvändiga författ­nings­förslag, och
 * lämna författ­nings­förslag som tydlig­gör att anstiftan och medhjälp till brott samt i före­kom­mande fall försök, förbere­delse och stämp­ling till brott kan ingå i de särskilda brotten heders­förtryck och grov frids­kränk­ning respektive grov kvinno­frids­kränkning.
 
-Uppdraget ska redovisas senast den 7 augusti 2023\.
+Uppdraget ska redovisas senast den 7 augusti 2023.

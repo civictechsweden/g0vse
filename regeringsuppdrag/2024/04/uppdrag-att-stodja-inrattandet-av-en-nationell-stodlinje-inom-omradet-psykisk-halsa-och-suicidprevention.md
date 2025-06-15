@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Folkhälsomyndigheten att stödja inrättandet av en nationell stödlinje inom området psykisk hälsa och suicidprevention.
 
-
 Den nationella stödlinjen ska rikta sig till personer med psykisk ohälsa och suicidalitet samt till anhöriga och närstående.
 
 Folkhälsomydigheten ska:

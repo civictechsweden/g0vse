@@ -6,4 +6,4 @@ Det första förslaget innebär att kurser som ger grundläggande behörighet ti
 
 Det andra förslaget är att ett estetiskt ämne ska ingå i alla nationella program i gymnasieskolan. Ämnet ska omfatta 50 gymnasiepoäng. Gymnasiearbetet ska också omfatta 50 gymnasiepoäng, i stället för som i dag 100 gymnasiepoäng.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2019 och tillämpas första gången på utbildning som påbörjas efter den 30 juni 2019\.
+Lagändringarna föreslås träda i kraft den 1 januari 2019 och tillämpas första gången på utbildning som påbörjas efter den 30 juni 2019.

@@ -1,6 +1,6 @@
 # Bättre prisreglering enligt lagen om elektronisk kommunikation
 
-Prisregleringssystemet i lagen (2003:389\) om elektronisk kommunikation förbättras, i syfte att skapa ökad förutsägbarhet.
+Prisregleringssystemet i lagen (2003:389) om elektronisk kommunikation förbättras, i syfte att skapa ökad förutsägbarhet.
 
 För att skapa ökad tydlighet och minska osäkerheten när det gäller prisnivåer ska tillsynsmyndigheten i vissa fall kunna besluta att operatörer ska tillämpa ett visst högsta eller lägsta pris för samtrafik och andra former av tillträde.
 
@@ -8,4 +8,4 @@ För att förenkla processen för fastställande av priser upphävs bestämmelse
 
 I lagrådsremissen lämnas dessutom förslag som gör det möjligt för tillsynsmyndigheten att utöva tillsyn över genomförandeåtgärder som Europeiska kommissionen antar i form av förordningar och att pröva tvister som har samband med skyldigheter i sådana förordningar.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2014\.
+Lagändringarna föreslås träda i kraft den 1 juli 2014.

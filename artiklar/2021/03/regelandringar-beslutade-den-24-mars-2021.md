@@ -6,13 +6,13 @@ Regeringen har beslutat om ändring i förordningen om bekämpningsmedel som inn
 
 * All användning av växtskyddsmedel förbjuds
 
-\- på skolgårdar och gårdar till förskolor och på lekplatser
+- på skolgårdar och gårdar till förskolor och på lekplatser
 
-\- i parker och trädgårdar och andra områden som i första hand är avsedda att vara rekreationsområden som allmänheten har tillträde till
+- i parker och trädgårdar och andra områden som i första hand är avsedda att vara rekreationsområden som allmänheten har tillträde till
 
-\- på tomtmark för bostadshus, på krukväxter i trädgårdar, inom koloniträdgårdsområden och i växthus som inte används yrkesmässigt
+- på tomtmark för bostadshus, på krukväxter i trädgårdar, inom koloniträdgårdsområden och i växthus som inte används yrkesmässigt
 
-\- på växter inomhus utom i produktionslokaler, lagerlokaler och dyl.
+- på växter inomhus utom i produktionslokaler, lagerlokaler och dyl.
 
 * Kemikalieinspektionen får möjlighet att föreskriva om undantag från användningsförbuden för verksamma ämnen i växtskyddsmedel som innebär begränsad risk för människors hälsa och miljön
 * Jordbruksverket får möjlighet att föreskriva om undantag för att förhindra introduktion, etablering och spridning av karantänskadegörare, eller som behövs för odlandet av växter som bevaras i Nationella genbanken eller i Nordiskt genresurscenter
@@ -29,8 +29,8 @@ Beslutet gällande ansvaret för utbildning i säker hantering av bekämpningsme
 **Referenser:**
 
 * Europaparlamentets och rådets direktiv 2009/128/EG av den 21 oktober 2009 om upprättande av en ram för gemenskapens åtgärder för att uppnå en hållbar användning av bekämpningsmedel
-* förordning (2021:229\) om ändring i förordningen (2014:425\) om bekämpningsmedel
+* förordning (2021:229) om ändring i förordningen (2014:425) om bekämpningsmedel
 
 ### Kontaktperson:
 
-Anna\-Karin Rosman 08\-405 92 47
+Anna-Karin Rosman 08-405 92 47

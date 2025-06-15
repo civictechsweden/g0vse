@@ -1,6 +1,6 @@
 # Ökad träffsäkerhet i arbetet mot utanförskap
 
-– För att minska utanförskapet och säkerställa goda livschanser för alla behöver myndigheter arbeta mer mot utanförskap. Fallande skolresultat är en faktor som påverkar människors framtidsutsikter, därför är det viktigt att bland annat Skolverket tar del av det här uppdraget. Statistik på områdesnivå behövs för mer träffsäkra insatser mot utanförskapet, säger arbetsmarknads\- och integrationsminister Johan Pehrson.
+– För att minska utanförskapet och säkerställa goda livschanser för alla behöver myndigheter arbeta mer mot utanförskap. Fallande skolresultat är en faktor som påverkar människors framtidsutsikter, därför är det viktigt att bland annat Skolverket tar del av det här uppdraget. Statistik på områdesnivå behövs för mer träffsäkra insatser mot utanförskapet, säger arbetsmarknads- och integrationsminister Johan Pehrson.
 
 Statistik på områdesnivå möjliggör analyser av faktorer som påverkar människors livsvillkor när det gäller bland annat arbetsmarknad, utbildning, hälsa, brottslighet och otrygghet, boendesituation och segregation.
 

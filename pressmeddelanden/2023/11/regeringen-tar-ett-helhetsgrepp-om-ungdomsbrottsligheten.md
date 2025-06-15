@@ -6,7 +6,7 @@
 
 – För att skydda barn och unga ifrån att begå brott förstärker vi nu socialtjänsten och stödet till utsatta familjer, och för att skydda andra barn ifrån att utsättas för brott skärper vi samtidigt kontrollen av de unga kriminella. Fotboja skulle minska friheten för unga brottslingar och öka tryggheten för resten av samhället. Det är precis vad Sverige behöver, säger Christian Carlsson (KD), ordförande socialutskottet.
 
-\- Att barn utsätter andra barn för grova våldsbrott är ett totalt misslyckande. Nu måste vi fokusera på de tidiga förebyggande insatserna och identifiera vad som ligger till grund för den allvarliga utvecklingen. Barn i riskzonen måste fångas upp redan i förskoleåldern, säger Juno Blom (L), talesperson i barnrättsfrågor.
+- Att barn utsätter andra barn för grova våldsbrott är ett totalt misslyckande. Nu måste vi fokusera på de tidiga förebyggande insatserna och identifiera vad som ligger till grund för den allvarliga utvecklingen. Barn i riskzonen måste fångas upp redan i förskoleåldern, säger Juno Blom (L), talesperson i barnrättsfrågor.
 
 ## Nytt paket för att bryta rekryteringen av barn och unga till gängen
 
@@ -24,15 +24,15 @@ I dagsläget gör SiS en prioritering där de barn och unga med störst vårdbeh
 
 För att komma till rätta med problemen har regeringen även gjort en familjehemssatsning för att stärka tillgången till familjehem på bred front och förbättra förutsättningarna för fler förstärkta familjehem.
 
-Regeringen kommer också att tillsätta en samordnare för fler kvalitativa platser i den sociala barn\- och ungdomsvården. På sikt också ska tungt kriminella ungdomar flyttas över från SiS till särskilda ungdomsfängelser.
+Regeringen kommer också att tillsätta en samordnare för fler kvalitativa platser i den sociala barn- och ungdomsvården. På sikt också ska tungt kriminella ungdomar flyttas över från SiS till särskilda ungdomsfängelser.
 
 ### Förkortad utredningstid för utvidgad ungdomsövervakning
 
-Det pågår just nu en utredning som ska föreslå en ny och mer ingripande ungdomspåföljd – utvidgad ungdomsövervakning, och överväga om dagens ungdomsövervakning ska användas i fler fall. Regeringen har beslutat om ett tilläggsdirektiv som innebär att förslaget ska redovisas redan 3 juni 2024, i stället för 10 januari 2025\.
+Det pågår just nu en utredning som ska föreslå en ny och mer ingripande ungdomspåföljd – utvidgad ungdomsövervakning, och överväga om dagens ungdomsövervakning ska användas i fler fall. Regeringen har beslutat om ett tilläggsdirektiv som innebär att förslaget ska redovisas redan 3 juni 2024, i stället för 10 januari 2025.
 
 ### Förstärkningsteam inom socialtjänsten
 
-Regeringen startar ett pilotprojekt med fyra team, där ambitionen är att ha dem på plats i början på 2024\. Syftet är att stötta socialtjänsten i särskilt utsatta kommuner och att förstärkningsteamen ska bidra till att motverka att fler barn och unga dras in i kriminalitet.
+Regeringen startar ett pilotprojekt med fyra team, där ambitionen är att ha dem på plats i början på 2024. Syftet är att stötta socialtjänsten i särskilt utsatta kommuner och att förstärkningsteamen ska bidra till att motverka att fler barn och unga dras in i kriminalitet.
 
 ### Samverkansstruktur (Bob) för arbete med barn och unga i grov kriminalitet
 

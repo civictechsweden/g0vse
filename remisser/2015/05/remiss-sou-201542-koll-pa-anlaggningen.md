@@ -1,20 +1,19 @@
 # Remiss SOU 2015:42 Koll på anläggningen
 
-Här kan du ta del av remissinstansernas svar på remissen av SOU 2015:42 Koll på anläggningen. Sista dag att svara på remissen var den 18 september 2015\.
-
+Här kan du ta del av remissinstansernas svar på remissen av SOU 2015:42 Koll på anläggningen. Sista dag att svara på remissen var den 18 september 2015.
 
 ## Remissinstanser:
 
 1. Trafikverket
 2. Transportstyrelsen
 3. Trafikanalys
-4. Statens väg\- och transportforskningsinstitut
+4. Statens väg- och transportforskningsinstitut
 5. Statskontoret
 6. Konkurrensverket
 7. Naturvårdsverket
-8. Utredningen om Utbyggnad av nya stambanor samt åtgärder för bostäder och ökad tillgänglighet i storstäderna (N2014:106\)
+8. Utredningen om Utbyggnad av nya stambanor samt åtgärder för bostäder och ökad tillgänglighet i storstäderna (N2014:106)
 9. Arlandabanan Infrastructure AB
-10. A\-train AB
+10. A-train AB
 11. Öresundsbrokonsortiet
 12. Svedab AB
 13. Inlandsbanan AB

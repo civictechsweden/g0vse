@@ -1,6 +1,6 @@
 # Översyn av regler för subventionering av speciallivsmedel till barn avslutad
 
-– Det är en välkommen översyn då systemet om subvention av speciallivsmedel för barn knappt har förändrats sedan början av 1980\-talet. Nästa steg är att utredningens förslag skickas på remiss, säger statssekreterare Miriam Söderström.
+– Det är en välkommen översyn då systemet om subvention av speciallivsmedel för barn knappt har förändrats sedan början av 1980-talet. Nästa steg är att utredningens förslag skickas på remiss, säger statssekreterare Miriam Söderström.
 
 Den särskilda utredaren, Jenny Wennhall, som till vardags arbetar som rådman vid Förvaltningsrätten i Malmö, fick i juni 2022 i uppdrag att göra en översyn av regelverket för subvention av speciallivsmedel till barn. I uppdraget har bland annat ingått att föreslå ett moderniserat och kostnadseffektivt subventionssystem som kan erbjuda barn som behöver speciallivsmedel jämlik och ändamålsenlig tillgång utifrån sina medicinska behov.
 

@@ -8,4 +8,4 @@ Bidraget ingår heller inte som en del av beräkningen för det ordinarie slutli
 
 Tilläggsbidraget föreslås lämnas till den som tar emot särskilt bidrag för hemmavarande barn, särskilt bidrag för barn som bor växelvis eller umgängesbidrag.
 
-Förslagen föreslås träda i kraft den 1 juli 2021\. Socialdepartementet bedömer att stödet bör lämnas från den 1 juli till den 31 december 2021\.
+Förslagen föreslås träda i kraft den 1 juli 2021. Socialdepartementet bedömer att stödet bör lämnas från den 1 juli till den 31 december 2021.

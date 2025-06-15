@@ -2,7 +2,7 @@
 
 Samhället har ett ansvar för att kunskap om Förintelsen och andra folkmord förs vidare och för att hindra att något liknande händer igen. Många av Förintelsens över­levande har nu gått ur tiden och kan inte längre genom sina person­liga vittnesmål stärka mot­stånds­kraften mot falska påståen­den om att Förintelsen inte har ägt rum.
 
-I Sverige finns ett starkt straff­rättsligt skydd mot hat­propa­ganda på rasistiska grunder, bland annat genom straff­ansvaret för hets mot folkgrupp. Det kan dock ifråga­sättas om lagstift­ningen till­räckligt tydligt ger uttryck för sam­hällets avstånds­tagande från bland annat förnekelse av Förintelsen. Europeiska kommissionen har också ifrågasatt det svenska genom­förandet av EU\-rättsliga bestäm­melser om kriminali­sering av offentligt urskuldande, förnekande och flagrant förringande av folkmord och vissa andra brott.
+I Sverige finns ett starkt straff­rättsligt skydd mot hat­propa­ganda på rasistiska grunder, bland annat genom straff­ansvaret för hets mot folkgrupp. Det kan dock ifråga­sättas om lagstift­ningen till­räckligt tydligt ger uttryck för sam­hällets avstånds­tagande från bland annat förnekelse av Förintelsen. Europeiska kommissionen har också ifrågasatt det svenska genom­förandet av EU-rättsliga bestäm­melser om kriminali­sering av offentligt urskuldande, förnekande och flagrant förringande av folkmord och vissa andra brott.
 
 En parlamentariskt sammansatt kommitté ska därför
 
@@ -10,4 +10,4 @@ En parlamentariskt sammansatt kommitté ska därför
 * lämna författ­nings­förslag om kommittén kommer fram till att ett särskilt straff­ansvar bör införas, och
 * för det fall kommittén kommer fram till att ett särskilt straff­ansvar bör införas, ta ställning till om straff­ansvaret även ska gälla på det område som skyddas av tryck­frihets­förord­ningen och yttrande­frihets­grund­lagen och i så fall lämna författnings­förslag.
 
-Uppdraget ska redovisas senast den 20 april 2023\.
+Uppdraget ska redovisas senast den 20 april 2023.

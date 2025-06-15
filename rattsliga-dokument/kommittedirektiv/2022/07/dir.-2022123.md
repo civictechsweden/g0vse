@@ -14,4 +14,4 @@ Utredaren ska bland annat:
 * Analysera hur ansvaret och finansieringen av handläggningen av ärenden om bilstöd bör regleras mellan berörda myndigheter för att säkerställaen effektiv, ändamålsenlig och rättssäker handläggning av stödet.
 * Föreslå de åtgärder och författningsändringar som bedöms nödvändiga.
 
-Uppdraget ska redovisas senast den 29 september 2023\.
+Uppdraget ska redovisas senast den 29 september 2023.

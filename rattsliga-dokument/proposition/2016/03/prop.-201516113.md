@@ -10,6 +10,6 @@ Regeringen föreslår följande ändringar i det straffrättsliga regelverket:
 * Det ska införas nya omständigheter som särskilt ska beaktas vid bedömningen av om ett brott är grovt. Bland annat ska det vid vissa brott med hotinslag särskilt beaktas om gärningen har innefattat hot som påtagligt har förstärkts med hjälp av vapen, sprängämne eller vapenattrapp eller genom anspelning på ett våldskapital eller som annars har varit av allvarligt slag.
 * Brottsbeteckningarna grovt brott och ringa brott införs för de brott som berörs av förslagen och som inte redan har en sådan beteckning.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2016\.
+Lagändringarna föreslås träda i kraft den 1 juli 2016.
 
 [Pressmeddelande: Stärkta straffrättsliga åtgärder mot organiserad brottslighet och vinster från brottslig verksamhet](/pressmeddelanden/2016/02/starkta-straffrattsliga-atgarder-mot-organiserad-brottslighet-och-vinster-fran-brottslig-verksamhet/)

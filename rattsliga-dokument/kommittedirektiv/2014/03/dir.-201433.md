@@ -12,4 +12,4 @@ Utredaren ska bl.a.
 * analysera behovet av andra förändringar i skattereglerna för att förbättra reglerna och göra dem mer effektiva för att rekrytera och behålla nyckelpersoner inom företaget, och
 * lämna förslag till de förändringar av skattereglerna, inklusive skatteförfarandereglerna, som utredaren finner lämpliga.
 
-Uppdraget ska redovisas senast den 1 oktober 2015\.
+Uppdraget ska redovisas senast den 1 oktober 2015.

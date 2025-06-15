@@ -12,4 +12,4 @@ Det föreslås även att bestämmelserna om våldtäkt och våldtäkt mot barn s
 * Minimistraffet för utnyttjande av barn genom köp av sexuell handling ska höjas från fängelseminimum till fängelse i sex månader.
 * Straffskalan för sexuellt ofredande mot barn ska bestämmas till fängelse i högst två år och straffskalorna för grovt sexuellt ofredande mot barn och grovt sexuellt ofredande ska bestämmas till fängelse i lägst sex månader och högst tre år.
 
-Lagändringarna föreslås träda i kraft den 2 juli 2022\.
+Lagändringarna föreslås träda i kraft den 2 juli 2022.

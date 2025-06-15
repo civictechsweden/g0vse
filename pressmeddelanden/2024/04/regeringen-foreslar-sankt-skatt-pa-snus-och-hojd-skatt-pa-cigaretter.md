@@ -4,8 +4,8 @@ Skatten på tobakssnus är i dag klart lägre än skatten på cigaretter och rö
 
 Skatten på de flesta tobaksprodukter, inklusive cigaretter och röktobak, ska även höjas med cirka 9 procent. Eftersom inflationen den senaste tiden har varit högre än tidigare prognoser har skatten för 2024 blivit lägre än om de senaste två skattehöjningarna inte hade genomförts. De höjningarna har därmed inte fått den avsedda effekten. En höjd skatt och därmed högre priser på cigaretter och röktobak kan bidra till att minska rökningen.
 
-Regeringen föreslår inga förändringar av skatten för tobaksfritt snus eller e\-vätskor men bedömer att det finns skäl att dessa skatter årligen ska räknas upp med inflationen, vilket redan i dag sker för tobaksprodukter. På så sätt kommer förhållandet mellan skatterna på tobak och nikotin att vara samma över tid.
+Regeringen föreslår inga förändringar av skatten för tobaksfritt snus eller e-vätskor men bedömer att det finns skäl att dessa skatter årligen ska räknas upp med inflationen, vilket redan i dag sker för tobaksprodukter. På så sätt kommer förhållandet mellan skatterna på tobak och nikotin att vara samma över tid.
 
-Ändringarna föreslås träda i kraft den 1 november 2024\.
+Ändringarna föreslås träda i kraft den 1 november 2024.
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

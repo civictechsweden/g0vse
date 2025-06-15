@@ -8,4 +8,4 @@ Sverige har vid genomförandet av de fem aktuella direktiven inte infört några
 
 I sjöfolksdirektivet finns även en bestämmelse om att företagsrådsmöten om möjligt ska planeras så att arbetstagarrepresentanter som har befattning ombord på fartyg kan delta på plats. Om närvaro på plats inte är möjlig ska det övervägas att genomföra mötet med hjälp av teknik för deltagande på distans. Regeringen föreslår att denna bestämmelse genomförs i svensk rätt genom en ny regel i lagen om europeiska företagsråd.
 
-Lagändringarna föreslås träda ikraft den 1 oktober 2017\.
+Lagändringarna föreslås träda ikraft den 1 oktober 2017.

@@ -1,7 +1,6 @@
 # Uppdrag att inrätta en samordningsfunktion för intensivvårdsplatser
 
-Regeringen uppdrar åt Socialstyrelsen att inrätta en samordningsfunktion som ska stödja regionerna med att samordna tillgängliga intensivvårdsplatser i landet. Detta med anledning av utbrottet av covid\-19\.
-
+Regeringen uppdrar åt Socialstyrelsen att inrätta en samordningsfunktion som ska stödja regionerna med att samordna tillgängliga intensivvårdsplatser i landet. Detta med anledning av utbrottet av covid-19.
 
 I samordningsfunktionens uppdrag ingår att:
 
@@ -16,4 +15,4 @@ Socialstyrelsen ska genomföra uppdraget tillsammans med Sveriges Kommuner och R
 
 ## Gäller så länge det krävs
 
-Uppdraget ska gälla så länge det krävs med tanke på utbrottet av covid\-19\. Uppdraget ska löpande redovisas till Socialdepartementet. En sammanfattande rapport om arbetet lämnas senast den 31 december 2020\.
+Uppdraget ska gälla så länge det krävs med tanke på utbrottet av covid-19. Uppdraget ska löpande redovisas till Socialdepartementet. En sammanfattande rapport om arbetet lämnas senast den 31 december 2020.

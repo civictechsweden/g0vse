@@ -8,7 +8,7 @@ Utredaren ska bl.a.
 
 * undersöka hur verksamheten i Regeringskansliet kan utvecklas och effektiviseras, bland annat genom att se över möjligheten att införa och acceptera digitaliserade signaturer för legaliseringar,
 * klarlägga gränserna för utlandsmyndigheternas legaliseringsverksamhet och utförande av andra närliggande uppgifter,
-* ta ställning till om det bör införas en möjlighet att utfärda elektronisk apostille och e\-register för apostille, och
+* ta ställning till om det bör införas en möjlighet att utfärda elektronisk apostille och e-register för apostille, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 31 maj 2023\.
+Uppdraget ska redovisas senast den 31 maj 2023.

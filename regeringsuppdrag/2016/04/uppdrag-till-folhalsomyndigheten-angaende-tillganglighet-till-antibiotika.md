@@ -1,7 +1,6 @@
 # Uppdrag till Folkhälsomyndigheten och Tandvårds- och läkemedelsförmånsverket angående tillgänglighet till antibiotika
 
-Regeringen beslutar att ge Folkhälsomyndigheten i uppdrag att utforma förslag för hur nya antibiotika, samt äldre antibiotika där den nationella tillgängligheten är otillräcklig, kan göras tillgängliga i Sverige. Folkhälsomyndigheten och Tandvårds\- och läkemedelsförmånsverket ska genomföra uppdraget i samverkan med varandra
-
+Regeringen beslutar att ge Folkhälsomyndigheten i uppdrag att utforma förslag för hur nya antibiotika, samt äldre antibiotika där den nationella tillgängligheten är otillräcklig, kan göras tillgängliga i Sverige. Folkhälsomyndigheten och Tandvårds- och läkemedelsförmånsverket ska genomföra uppdraget i samverkan med varandra
 
 Förslag till en eller flera modeller för hur sådan antibiotika ska göras tillgängliga ska utformas så att detta kan ske under former där risken för resistensutveckling minimeras samtidigt som bästa möjliga vård möjliggörs för patienter med infektioner orsakade av multiresistenta bakterier.
 

@@ -1,7 +1,6 @@
 # Remiss av SOU 2016:94 Saknad! Uppmärksamma elever frånvaro och agera
 
-Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2016:94 Saknad! Uppmärksamma elever frånvaro och agera. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 8 maj 2017\.
-
+Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2016:94 Saknad! Uppmärksamma elever frånvaro och agera. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 8 maj 2017.
 
 ## Remissinstanser
 
@@ -16,18 +15,18 @@ Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2016:94
 9 Statskontoret
 10 Statens skolverk
 11 Statens skolinspektion
-12 Barn\- och elevombudet
+12 Barn- och elevombudet
 13 Skolväsendets överklagandenämnd
 14 Specialpedagogiska skolmyndigheten
 15 Sameskolstyrelsen
 16 Statens institutionsstyrelse
 17 Skolforskningsinstitutet
-18 Myndigheten för ungdoms\- och civilsamhällsfrågor
+18 Myndigheten för ungdoms- och civilsamhällsfrågor
 19 Stockholms universitet
 20 Göteborgs universitet
 21 Malmö högskola
 22 Umeå universitet
-23 Gymnastik\- och idrottshögskolan
+23 Gymnastik- och idrottshögskolan
 24 Alvesta kommun
 25 Arvidsjaur kommun
 26 Arvika kommun
@@ -60,7 +59,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2016:94
 53 Älvdalens kommun
 54 Östersunds kommun
 55 AcadeMedia AB
-56 Autism\- och Aspergerförbundet
+56 Autism- och Aspergerförbundet
 57 BRIS – Barnens rätt i samhället
 58 Friskolornas riksförbund
 59 Föräldraalliansen Sverige

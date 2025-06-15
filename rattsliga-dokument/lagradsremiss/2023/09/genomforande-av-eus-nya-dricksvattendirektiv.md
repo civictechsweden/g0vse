@@ -10,6 +10,6 @@ Bestämmelserna om hälsoskydd i miljöbalken kompletteras med ett bemyndigande
 
 I livsmedelslagen föreslås ett bemyndigande att meddela föreskrifter om skyldighet för den som producerar eller tillhandahåller dricksvatten att lämna uppgifter om dricksvattenkvaliteten.
 
-I plan\- och bygglagen föreslås en bestämmelse om marknadskontroll och ett bemyndigande att meddela föreskrifter om villkor för att släppa ut och tillhandahålla byggprodukter avsedda att komma i kontakt med dricksvatten på marknaden.
+I plan- och bygglagen föreslås en bestämmelse om marknadskontroll och ett bemyndigande att meddela föreskrifter om villkor för att släppa ut och tillhandahålla byggprodukter avsedda att komma i kontakt med dricksvatten på marknaden.
 
-Lagändringarna föreslås träda i kraft den 1 mars 2024\.
+Lagändringarna föreslås träda i kraft den 1 mars 2024.

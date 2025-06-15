@@ -2,7 +2,7 @@
 
 I denna skrivelse lämnas en redogörelse av förvaltningen av Allmänna
 arvsfonden och en redovisning av hur Arvsfondsdelegationen fördelat stöd
-från fonden under 2019\.
+från fonden under 2019.
 
 Vidare redogör regeringen för sin bedömning av
 Arvsfondsdelegationens verksamhet och utveckling samt analyserar

@@ -10,6 +10,6 @@ Den andra förändringen handlar om hur ramtiden för arbetsvillkoret ska beräk
 
 – Det är angeläget att förslag som förenklar handläggningen av omställningsstudiestödet kan komma på plats så snart som möjligt. Stödet fyller en viktig funktion för dem som behöver stärka sin ställning på arbetsmarknaden och därmed för samhällets och näringslivets kompetensförsörjning, säger Mats Persson.
 
-Ändringarna träder i kraft den 1 april 2024\.
+Ändringarna träder i kraft den 1 april 2024.
 
 Mer information om bakgrunden till förändringarna och vad de innebär finns i kapitel 4 i CSN:s promemoria. [Uppdrag att ta fram förslag på regelförenklingar inom omställningsstudiestödet (på CSN:s webbplats)](https://www.csn.se/download/18.377a5c4818b4cdc32494d1/1699963073139/Uppdrag%20regelf%C3%B6r%C3%A4ndringar%20omst%C3%A4llningsstudiest%C3%B6d.pdf)

@@ -8,4 +8,4 @@ Enligt förslaget ska ett försäkringsbolag vara skyldigt att löpande kontroll
 
 I lagrådsremissen föreslås slutligen några mindre justeringar och rättelser i försäkringsavtalslagen.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2015\.
+Lagändringarna föreslås träda i kraft den 1 januari 2015.

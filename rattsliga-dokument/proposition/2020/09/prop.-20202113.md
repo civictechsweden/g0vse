@@ -1,6 +1,6 @@
 # Åtgärder till skydd för Sveriges säkerhet vid överlåtelser av säkerhetskänslig verksamhet
 
-För att stärka skyddet för Sveriges säkerhet föreslår regeringen kompletteringar av säkerhetsskyddslagen (2018:585\).
+För att stärka skyddet för Sveriges säkerhet föreslår regeringen kompletteringar av säkerhetsskyddslagen (2018:585).
 
 Förslaget innebär bland annat följande:
 
@@ -9,4 +9,4 @@ Förslaget innebär bland annat följande:
 * Samrådsmyndigheten ska få möjlighet att förelägga verksamhetsutövare att vidta åtgärder för att uppfylla sina skyldigheter enligt lagen och ytterst besluta att en överlåtelse inte får genomföras (förbud).
 * En överlåtelse i strid med ett förbud ska vara ogiltig.
 
-Lagändringen föreslås träda i kraft den 1 januari 2021\.
+Lagändringen föreslås träda i kraft den 1 januari 2021.

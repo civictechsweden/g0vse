@@ -12,10 +12,10 @@ Tillstånd ska beviljas endast om verksamheten uppfyller kraven på god kvalitet
 
 I propositionen föreslår regeringen tillståndsplikt för att yrkesmässigt få bedriva verksamhet som har till uppgift att till socialnämnden föreslå familjehem och jourhem till barn och som lämnar stöd och handledning till familjehem och jourhem som tar emot barn.
 
-I propositionen föreslår regeringen att bestämmelser förs in i socialtjänstlagen och hälso\- och sjukvårdslagen om att kommuner och landsting ska ingå överenskommelser om samarbete i fråga om barn och unga som vårdas utanför det egna hemmet.
+I propositionen föreslår regeringen att bestämmelser förs in i socialtjänstlagen och hälso- och sjukvårdslagen om att kommuner och landsting ska ingå överenskommelser om samarbete i fråga om barn och unga som vårdas utanför det egna hemmet.
 
 ## Erbjudande om hälsoundersökning
 
 I propositionen föreslår regeringen en ny bestämmelse i socialtjänstlagen. Förslaget innebär att socialnämnden, om det inte är obehövligt, ska underrätta landstinget om att ett barn eller en ung person i åldern 18–20 år, i anslutning till att vård utanför det egna hemmet inleds, ska erbjudas en hälsoundersökning av landstinget.
 
-Lagändringarna föreslås träda i kraft den 15 april 2017\.
+Lagändringarna föreslås träda i kraft den 15 april 2017.

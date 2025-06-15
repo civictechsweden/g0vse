@@ -19,4 +19,4 @@ personuppgifter, behovet av sekretess och skyddet för den
 personliga integriteten. Utredaren ska lämna förslag till nödvändiga
 författningsändringar.
 
-Uppdraget ska redovisas senast den 29 maj 2020\.
+Uppdraget ska redovisas senast den 29 maj 2020.

@@ -7,7 +7,7 @@ I betänkandet lämnar utredningen flera förslag till åtgärder som syftar til
 Förslagen innebär bland annat att:
 
 * Skatteverket föreslås få ytterligare verktyg för att stärka kontrollverksamheten kopplad till registreringen för mervärdesskatt bland annat i form av ökade möjligheter till föreläggande om uppgifter, möjlighet att begära personlig inställelse samt att genomföra identitetskontroller.
-* För att begränsa möjligheten till EU\-handel i syfte att genomföra mervärdesskattebedrägerier föreslås en möjlighet att visa ett registreringsnummer för mervärdesskatt som ogiltigt i det elektroniska systemet för utbyte av information mellan EU\-länder, VAT Information Exchange System om det är sannolikt att ett registreringsnummer används, eller kommer att användas, för mervärdesskattebedrägerier.
+* För att begränsa möjligheten till EU-handel i syfte att genomföra mervärdesskattebedrägerier föreslås en möjlighet att visa ett registreringsnummer för mervärdesskatt som ogiltigt i det elektroniska systemet för utbyte av information mellan EU-länder, VAT Information Exchange System om det är sannolikt att ett registreringsnummer används, eller kommer att användas, för mervärdesskattebedrägerier.
 * Skatteverket föreslås få större möjligheter att avregistrera eller neka registrering för mervärdeskatt i samband med mervärdesskattebedrägerier.
 
 Utredningens förslag kommer nu att beredas i Regeringskansliet.

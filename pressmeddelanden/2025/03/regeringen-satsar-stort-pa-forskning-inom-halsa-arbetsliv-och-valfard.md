@@ -13,5 +13,4 @@ För att möta framtidens utmaningar och förbättra livskvaliteten för alla me
 * Omställning mot en god och nära vård: 10 miljoner kronor avsätts för forskning och utveckling som stödjer omställningen mot en god och nära vård. Detta initiativ syftar till att förbättra vården och göra den mer tillgänglig för alla.
 * Arbetslivsforskning: 80 miljoner kronor investeras i forskning om arbetsliv. Målet är att förbättra arbetsmiljön och arbetsvillkoren för alla arbetstagare.
 
-
 Forte får även i uppgift att inrätta två nya tioåriga nationella forskningsprogram inom områdena barn och ungas uppväxtvillkor och hälsoutveckling och socialtjänsten. Från och med år 2028 kommer programmet om barn och unga finansiera forskning för 60 miljoner kronor per år. Programmet om socialtjänsten kommer från år 2028 att finansiera forskning till en omfattning av 140 miljoner kronor per år.

@@ -4,4 +4,4 @@ För att även fortsättningsvis stimulera till inköp av personbilar med bättr
 
 Skattebefrielsen föreslås omfatta alla personbilar som uppfyller kraven oavsett ägare. För nybilsköpare förväntas fordonsskattebefrielsen fungera som en kombination av information och ekonomiskt incitament. Fordonsskattebefrielsen skiljer sig beloppsmässigt åt mellan olika bilar, men uppgår i genomsnitt till knappt 1 200 kronor per bil och år.
 
-Skattebefrielsen föreslås träda i kraft den 1 januari 2010, men bör gälla retroaktiv och tillämpas för bilar som tas i bruk från och med den 1 juli 2009\.
+Skattebefrielsen föreslås träda i kraft den 1 januari 2010, men bör gälla retroaktiv och tillämpas för bilar som tas i bruk från och med den 1 juli 2009.

@@ -2,10 +2,9 @@
 
 Mellan den 1 och 8 december 2023 besökte försvarsminister Pål Jonson USA för att bland annat främja svensk försvarsinnovation och stärka samarbetet mellan Sverige och USA på området.
 
+Resan innehöll flera olika programpunkter, bland annat ett undertecknande av ett Defence Cooperation Agreement med USA, men det var svensk innovation och innovationssamarbete som var resans fokusområde. En viktig del i regeringens försvarsinnovationsinitiativ som lanserades i maj 2023 är att genom en ökad samverkan inom civil- och försvarssektorn höja Sveriges militära förmåga och öka svensk konkurrenskraft inom försvarsinnovation. Ett ökat samarbete med USA på området är en viktig pusselbit i detta arbete.
 
-Resan innehöll flera olika programpunkter, bland annat ett undertecknande av ett Defence Cooperation Agreement med USA, men det var svensk innovation och innovationssamarbete som var resans fokusområde. En viktig del i regeringens försvarsinnovationsinitiativ som lanserades i maj 2023 är att genom en ökad samverkan inom civil\- och försvarssektorn höja Sveriges militära förmåga och öka svensk konkurrenskraft inom försvarsinnovation. Ett ökat samarbete med USA på området är en viktig pusselbit i detta arbete.
-
-Pål Jonson inledde USA\-besöket med att besöka Reagan National Defense Forum som är en stor nationell försvarskonferens där försvarsinnovation var ett återkommande tema. Konferensen inriktar sig i huvudsak till politiker, försvarsindustri, entreprenörer och representanter från Pentagon och USA:s försvarsgrenar.
+Pål Jonson inledde USA-besöket med att besöka Reagan National Defense Forum som är en stor nationell försvarskonferens där försvarsinnovation var ett återkommande tema. Konferensen inriktar sig i huvudsak till politiker, försvarsindustri, entreprenörer och representanter från Pentagon och USA:s försvarsgrenar.
 
 På Stanford University träffade Pål Jonson Condoleezza Rice, direktör vid Hoover Institution samt Arthur Bienenstock, chef för Wallenberg Research Link (WRL). WRL fungerar som en forskningslänk mellan Sverige och Stanford. WRL hjälper också svenska postdoktorer under deras vistelse vid Stanford University.
 

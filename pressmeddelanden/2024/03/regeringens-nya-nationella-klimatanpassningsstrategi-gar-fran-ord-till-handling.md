@@ -1,6 +1,6 @@
 # Regeringens nya nationella klimatanpassningsstrategi går från ord till handling
 
-– De senaste årens extrema väderhändelser visar oss alla att vårt samhälle behöver bli mer robust mot naturolyckor och klimatförändringarnas effekter. Nu måste vi gå från ord till handling i klimatanpassningsarbetet, säger klimat\- och miljöminister Romina Pourmokhtari.
+– De senaste årens extrema väderhändelser visar oss alla att vårt samhälle behöver bli mer robust mot naturolyckor och klimatförändringarnas effekter. Nu måste vi gå från ord till handling i klimatanpassningsarbetet, säger klimat- och miljöminister Romina Pourmokhtari.
 
 – Det krävs mycket bättre samarbete mellan bland annat myndigheter, kommuner och fastighetsägare. Vi behöver också ta fram ny lagstiftning för att förtydliga både ansvarsfördelningen och finansieringsmodeller för att kunna effektivisera det lokala klimatanpassningsarbetet, så att det kan genomföras i snabbare takt, säger Romina Pourmokhtari.
 

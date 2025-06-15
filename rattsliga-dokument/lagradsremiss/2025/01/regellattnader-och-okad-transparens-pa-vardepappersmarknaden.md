@@ -10,7 +10,6 @@ I lagrådsremissen föreslås ändringar i lagen om värdepappersmarknaden som a
 * regler om minsta tillåtna prisändring
 * Finansinspektionens ingripandemöjligheter.
 
-
 I lagrådsremissen föreslås även att det ska göras en ändring i lagen om värdepappersmarknaden som rör Finansinspektionens beslut att förbjuda handel i vissa fall. Ändringen föreslås med anledning av att Europeiska kommissionen har ifrågasatt om EU:s öppenhetsdirektiv har genomförts i svensk rätt på ett tillräckligt klart och precist sätt.
 
 I lagrådsremissen föreslås också vissa ändringar i kompletterande bestämmelser och hänvisningar till EU:s förordning om värdepapperscentraler.

@@ -6,8 +6,8 @@ Utredaren ska beskriva och utvärdera den operativa insatsen och övrigt arbete 
 
 Med utgångspunkt i beskrivningen och utvärderingen ska utredaren identifiera möjliga förbättringsåtgärder och, om så bedöms lämpligt, lämna förslag på nödvändiga författningsändringar m.m. i syfte att stärka samhällets beredskap och förmåga att förebygga och hantera allvarliga olyckor och kriser.
 
-Utredaren ska i sitt arbete ta del av relevanta aktörers utredningar av skogsbranden i Västmanlands län sommaren 2014\. Denna utredning ersätter inte övriga aktörers utredningar.
+Utredaren ska i sitt arbete ta del av relevanta aktörers utredningar av skogsbranden i Västmanlands län sommaren 2014. Denna utredning ersätter inte övriga aktörers utredningar.
 
-Uppdraget ska redovisas senast den 1 september 2015\.
+Uppdraget ska redovisas senast den 1 september 2015.
 
 [Rapport från Skogsbrandsutredningen](/rapporter/2015/03/rapport-fran-skogsbrandsutredningen/)

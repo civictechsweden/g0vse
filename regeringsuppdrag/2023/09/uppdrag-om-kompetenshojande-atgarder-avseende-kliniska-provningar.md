@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Läkemedelsverket att genomföra kompetenshöjande åtgärder för att främja kliniska prövningar i Sverige.
 
-
 Läkemedelsverket ska
 
 * kartlägga behovet av kompetenshöjande åtgärder genom att samtala med områdets aktörer.
@@ -10,4 +9,4 @@ Läkemedelsverket ska
 
 Uppdraget omfattar kliniska prövningar som utförs för läkemedel och medicintekniska produkter för människa eller djur.
 
-Läkemedelsverket slutredovisar uppdraget Regeringskansliet senast den 30 juni 2024\.
+Läkemedelsverket slutredovisar uppdraget Regeringskansliet senast den 30 juni 2024.

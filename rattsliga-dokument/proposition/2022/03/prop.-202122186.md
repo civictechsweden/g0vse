@@ -8,4 +8,4 @@ Regeringen lämnar därför lag­förslag om bland annat följande:
 * Sekre­tess ska gälla för kontakt­upp­gifter till enskilda i all­män domstol. Sekre­tess ska också gälla för uppgift om var den befinner sig som deltar i ett samman­träde inför rätten genom ljud­över­föring eller ljud och bild­överföring.
 * Övergrepp i rätts­sak och grova fall av mened och skyddande av brotts­ling ska kunna leda till betydligt strängare straff.
 
-Lag­ändringarna föreslås träda i kraft den 1 juli 2022\.
+Lag­ändringarna föreslås träda i kraft den 1 juli 2022.

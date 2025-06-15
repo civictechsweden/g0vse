@@ -5,4 +5,4 @@ I propositionen finns förslag till ändringar i lagen om elcertifikat. Lagförs
 Det föreslås nya grundtermer för beräkning av kvotplikten och att Statens
 energimyndighet under vissa förutsättningar ska få avsluta elcertifikatskonton och makulera kvarvarande elcertifikat. I propositionen föreslås även att riksdagen godkänner det avtal som träffats mellan Sveriges regering och Norges regering om ändring av avtalet om en gemensam marknad för elcertifikat.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2021\.
+Lagändringarna föreslås träda i kraft den 1 januari 2021.

@@ -4,4 +4,4 @@ Regeringen föreslår att parter i hyresförhandlingar som avses i hyresförhand
 
 Förslaget skapar förutsättningar för en digitaliserad förhandlingsprocess. Det innebär att förhandlingarna kan bedrivas på ett mer effektivt sätt och att transparensen kring hyressättningen kan ökas.
 
-Lagändringen föreslås träda i kraft den 1 januari 2020\.
+Lagändringen föreslås träda i kraft den 1 januari 2020.

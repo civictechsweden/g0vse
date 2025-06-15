@@ -2,7 +2,6 @@
 
 Regeringen ger Spelinspektionen och Finansinspektionen i uppdrag att inom ramen för den samverkan som finns mellan myndigheterna se över hur samarbetet kan stärkas för att motverka olovlig spelverksamhet på den svenska spelmarknaden samt förebygga och förhindra penningtvätt.
 
-
 Myndigheterna ska bl.a. analysera hur de, utifrån respektive myndighets
 befintliga mandat och ekonomiska förutsättningar, kan utveckla sitt
 samarbete för att öka möjligheterna att blockera betalningsförmedling till

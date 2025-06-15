@@ -1,9 +1,8 @@
 # Statsministerns tal vid Kungliga Krigsvetenskapsakademiens högtidssammankomst
 
-Statsminister Ulf Kristerssons tal vid Kungliga Krigsvetenskapsakademiens högtidssammankomst, 12 november 2024\.
+Statsminister Ulf Kristerssons tal vid Kungliga Krigsvetenskapsakademiens högtidssammankomst, 12 november 2024.
 
 Det talade ordet gäller.
-
 
 Ärade ledamöter,
 
@@ -13,11 +12,11 @@ Tack för inbjudan att få komma hit i denna mycket speciella tid. Och jag ser f
 
 Sist jag var där var när Michael Claesson klev på som överbefälhavare och tog över den viktiga militära stafettpinnen från Micael Bydén. Vi har på kort tid inlett ett mycket bra samarbete.
 
-Gången före det var vid flaggceremonin i mars, då den svenska flaggan hissades bredvid Nato\-flaggan för att markera att Sverige hade blivit den 32:a medlemmen av den fria världens försvarsallians. När vi gick från alliansfrihetens allianslöshet till den förpliktigande principen en för alla, alla för en.
+Gången före det var vid flaggceremonin i mars, då den svenska flaggan hissades bredvid Nato-flaggan för att markera att Sverige hade blivit den 32:a medlemmen av den fria världens försvarsallians. När vi gick från alliansfrihetens allianslöshet till den förpliktigande principen en för alla, alla för en.
 
 Det är ett paradigmskifte för oss som land. Historiskt var ju samarbete med de västliga demokratierna en känslig sak. Ledande politiker kände till att vi delade underrättelser med framför allt USA. De båda blocken kände definitivt till det och det fanns inga illusioner om vart Sverige skulle vända sig vid en väpnad konflikt. De enda som i grunden inte var informerade var vår egen befolkning.
 
-Sveriges förre Berlin\-ambassadör Staffan Carlsson beskriver det rätt bra i sin bok om Dag Hammarskjöld – inte mystikern Hammarskjöld eller ens FN\-chefen Hammarskjöld, utan ämbetsmannen, statsrådet och transatlantikern Hammarskjöld.
+Sveriges förre Berlin-ambassadör Staffan Carlsson beskriver det rätt bra i sin bok om Dag Hammarskjöld – inte mystikern Hammarskjöld eller ens FN-chefen Hammarskjöld, utan ämbetsmannen, statsrådet och transatlantikern Hammarskjöld.
 
 Den tiden är nu över.
 
@@ -41,27 +40,27 @@ Verkligheten hade kommit ifatt svensk politik och självbild. Både EU och Nato 
 
 Det finns också viktiga lärdomar att ta med sig in i Nato från 30 års medlemskap i EU.
 
-Den första är att man måste vara helhjärtad. Gå all\-in.
+Den första är att man måste vara helhjärtad. Gå all-in.
 
-Inte för att varken EU eller Nato är några perfekta samarbeten, men för att bara den som engagerar sig fullt ut kommer att få inflytande. Sverige var under många år en alltför passiv EU\-medlem. Vi kom in för sent i processerna. Och upptäckte att utan likasinnade gick viktiga beslut oss emot.
+Inte för att varken EU eller Nato är några perfekta samarbeten, men för att bara den som engagerar sig fullt ut kommer att få inflytande. Sverige var under många år en alltför passiv EU-medlem. Vi kom in för sent i processerna. Och upptäckte att utan likasinnade gick viktiga beslut oss emot.
 
 Det finns många exempel på detta, men de nu allvarligaste och mest aktuella handlar om skogsbruket, arbetsmarknaden och invandringen.
 
-Där gör vi nu precis tvärt om. Tillsammans med likasinnade – ofta de nordiska och baltiska länderna plus Polen och Irland – förbereder vi varje EU\-beslut av vikt. Vi landar ofta i snarlika slutsatser i de större frågorna. Det är viktigt att ha likasinnade i EU och det är ännu viktigare att likasinnade samarbetar.
+Där gör vi nu precis tvärt om. Tillsammans med likasinnade – ofta de nordiska och baltiska länderna plus Polen och Irland – förbereder vi varje EU-beslut av vikt. Vi landar ofta i snarlika slutsatser i de större frågorna. Det är viktigt att ha likasinnade i EU och det är ännu viktigare att likasinnade samarbetar.
 
-Under vårt dryga första halvår av Nato\-integration har vi tagit den erfarenheten med oss. Att ta för sig, att understryka att vi gick med i Nato för att få skydd av andra, men också för att ge skydd till andra. Att Sverige vill vara en nettobidragsgivare i säkerhet.
+Under vårt dryga första halvår av Nato-integration har vi tagit den erfarenheten med oss. Att ta för sig, att understryka att vi gick med i Nato för att få skydd av andra, men också för att ge skydd till andra. Att Sverige vill vara en nettobidragsgivare i säkerhet.
 
-När Finland hade varit medlem i Nato några månader tog jag med mig relevanta statsråd och ledande officerare för att lyssna på deras goda råd och erfarenheter av Nato\-integration. De sa två saker till oss:
+När Finland hade varit medlem i Nato några månader tog jag med mig relevanta statsråd och ledande officerare för att lyssna på deras goda råd och erfarenheter av Nato-integration. De sa två saker till oss:
 
 För det första att det är en väldig skillnad mellan att ”följa Nato” och att ”vara Nato”. Ständiga beslut att fatta, ständigt nya frågeställningar. Mer av precis allt.
 
-För det andra att man som Nato\-medlem måste vara ETT land – inte flera olika departement eller en regering och en annan försvarsmakt. Varje ord som Sverige lägger i helheten ska vara just Sveriges. Det kan låta självklart men ni som kan något om svenska stuprör, ni vet att det inte alls är självklart. Vi måste helt enkelt putsa på vårt arv från Axel Oxenstierna. Underifrån och upp måste kompletteras med uppifrån och ner.
+För det andra att man som Nato-medlem måste vara ETT land – inte flera olika departement eller en regering och en annan försvarsmakt. Varje ord som Sverige lägger i helheten ska vara just Sveriges. Det kan låta självklart men ni som kan något om svenska stuprör, ni vet att det inte alls är självklart. Vi måste helt enkelt putsa på vårt arv från Axel Oxenstierna. Underifrån och upp måste kompletteras med uppifrån och ner.
 
 Vi arbetar nu hårt med Nationella säkerhetsrådet som epicentrum för att mejsla ut en genomtänkt och konsistent svensk hållning i Nato.
 
 En sista viktig slutsats från EU, in i Nato, handlar om vår egen självbild. I EU grundas inflytande i sådant som folkmängd, historia och samlad BNP. Då tillhör vi med våra 10 miljoner invånare inte de allra största.
 
-På mitt första Nato\-summit i Washington DC blev det uppenbart att i Nato räknar man annorlunda. Där handlar vårt bidrag och vårt inflytande om geografi och kapacitet. Titta bara på kartan! Titta på vår försvarsindustri och på våra militära förmågor.
+På mitt första Nato-summit i Washington DC blev det uppenbart att i Nato räknar man annorlunda. Där handlar vårt bidrag och vårt inflytande om geografi och kapacitet. Titta bara på kartan! Titta på vår försvarsindustri och på våra militära förmågor.
 
 Vi har ett starkt och respekterat flygvapen. Vi har en avancerad ubåtsflotta – jag var själv nere med HMS Uppland utanför Karlskrona tidigare i höstas. Vi har internationellt erkända specialförband. Vi har en respekterad underrättelseförmåga, inte minst riktad mot Ryssland.
 
@@ -97,9 +96,9 @@ Integrationen in i Nato leder oss också till frågan om hur vi ska se på framt
 
 Det handlar inte om att regionalisera Nato eller skapa ett separat ”Nordnato”. Men det handlar om hur vi praktiskt kan öka det nordiska samarbetet där alla i hela Nato tjänar på det. Utöver den synkronisering av försvarsplaner som nu har påbörjats innebär det nordiska samarbetet att fler kan göra mer tillsammans.
 
-Fler gemensamma övningar och utbildningar, gemensamma operationer, gemensam luft\- och sjöövervakning och mer av en gemensam militär infrastruktur.
+Fler gemensamma övningar och utbildningar, gemensamma operationer, gemensam luft- och sjöövervakning och mer av en gemensam militär infrastruktur.
 
-Att vi är med i JEF, stärker vår förmåga och är ett viktigt komplement till Nato. Framför allt möjliggör det ett snabbt agerande vid kriser som ligger under tröskeln för aktivering av artikel 5\.
+Att vi är med i JEF, stärker vår förmåga och är ett viktigt komplement till Nato. Framför allt möjliggör det ett snabbt agerande vid kriser som ligger under tröskeln för aktivering av artikel 5.
 
 Vi borde dessutom fundera på gemensam anskaffning av försvarsmateriel och inte bara acceptera, utan harmonisera varandras standarder. Alla hjul måste inte uppfinnas varje gång. Det finns utrymme för ökat samarbete inom försvarsinnovation och analysfunktioner. Att skapa ett kreativt nordiskt kluster inte bara för försvar och säkerhet, utan också för gemensam konkurrenskraft, borde ligga i allas intresse.
 
@@ -117,7 +116,7 @@ Av det kan man dra två operativa slutsatser.
 
 För det första, att vi måste bry oss om Asien om vi vill att USA ska bry sig om Europa. Det finns alltså både ekonomiska och säkerhetspolitiska skäl till att jag själv åker till Japan och Sydkorea om några veckor.
 
-För det andra, att de europeiska Nato\-länderna måste ta ett större ansvar för sin egen säkerhet, sina egna nationella försvar och sina försvarskostnader.
+För det andra, att de europeiska Nato-länderna måste ta ett större ansvar för sin egen säkerhet, sina egna nationella försvar och sina försvarskostnader.
 
 \*\*\*
 
@@ -127,7 +126,7 @@ Sveriges försvar börjar nu i Finland och i de baltiska staterna och sträcker 
 
 Vi behöver tänka som allierad. Vi behöver agera som allierad. Vi behöver förklara den nya strategiska kontexten för svenska folket.
 
-Nästa pedagogiska uppgift handlar om avskräckning och kärnvapen. Natos avskräckning fungerar. Att Nato upprätthåller förtroendet för de kollektiva försvarsgarantierna är helt centralt för att bevara freden. Ingen ska våga angripa Nato\-land.
+Nästa pedagogiska uppgift handlar om avskräckning och kärnvapen. Natos avskräckning fungerar. Att Nato upprätthåller förtroendet för de kollektiva försvarsgarantierna är helt centralt för att bevara freden. Ingen ska våga angripa Nato-land.
 
 Kärnvapenavskräckningen i Nato är avsedd för att motverka konflikter, aggressioner och eskalering. Det står tydligt i Natos strategiska koncept som nu också är vårt: ”Natos avskräckning ska syfta till att avskräcka från varje möjlighet till aggression.” Och Sverige står fullt ut bakom detta.
 
@@ -147,7 +146,7 @@ Till sist:
 
 Ukraina lär oss att folkligt engagemang och stark försvarsvilja är avgörande i ett krig. Engagemanget och viljan påverkas naturligtvis av politik och rent militär kapacitet.
 
-Vi har alla en skyldighet att efter förmåga försvara vårt land. Jag sa på förra Folk\- och Försvar\-konferensen, att ett svenskt pass inte i första hand är en resehandling. Utan ett fysiskt lojalitetsbevis som är förpliktigande – att ytterst med vapen i hand försvara Sverige och de värderingar som bygger vårt land.
+Vi har alla en skyldighet att efter förmåga försvara vårt land. Jag sa på förra Folk- och Försvar-konferensen, att ett svenskt pass inte i första hand är en resehandling. Utan ett fysiskt lojalitetsbevis som är förpliktigande – att ytterst med vapen i hand försvara Sverige och de värderingar som bygger vårt land.
 
 Det måste sägas i en tid som ofta präglas av me, myself and I.
 

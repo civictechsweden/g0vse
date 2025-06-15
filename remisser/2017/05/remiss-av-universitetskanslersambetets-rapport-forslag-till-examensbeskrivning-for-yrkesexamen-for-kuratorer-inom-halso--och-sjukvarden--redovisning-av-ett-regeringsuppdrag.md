@@ -1,7 +1,6 @@
 # Remiss av Universitetskanslersämbetets rapport Förslag till examensbeskrivning för yrkesexamen för kuratorer inom hälso- och sjukvården – redovisning av ett regeringsuppdrag
 
-Här kan du ta del av till vilka instanser regeringen har remitterat Universitetskanslersämbetets rapport Förslag till examensbeskrivning för yrkesexamen för kuratorer inom hälso\- och sjukvården – redovisning av ett regeringsuppdrag. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 6 september 2017\.
-
+Här kan du ta del av till vilka instanser regeringen har remitterat Universitetskanslersämbetets rapport Förslag till examensbeskrivning för yrkesexamen för kuratorer inom hälso- och sjukvården – redovisning av ett regeringsuppdrag. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 6 september 2017.
 
 ## Remissinstanser
 
@@ -10,7 +9,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat Universitet
 3 Folkhälsomyndigheten
 4 Länsstyrelsen i Östergötlands län
 5 Universitetskanslersämbetet
-6 Universitets\- och högskolerådet
+6 Universitets- och högskolerådet
 7 Överklagandenämnden för högskolan
 8 Högskolans avskiljandenämnd
 9 Centrala studiestödsnämnden
@@ -90,7 +89,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat Universitet
 83 Sveriges förenade studentkårer
 84 Sveriges Kommuner och Landsting
 85 Svensk kuratorsförening
-86 Sveriges universitets\- och högskoleförbund
+86 Sveriges universitets- och högskoleförbund
 87 Tjänstemännens Centralorganisation
 88 Vision
 89 Vårdföretagarna

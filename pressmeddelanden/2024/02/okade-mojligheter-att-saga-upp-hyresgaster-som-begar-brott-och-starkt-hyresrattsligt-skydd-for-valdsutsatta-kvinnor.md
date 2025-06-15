@@ -20,4 +20,4 @@ Regeringen lämnar även förslag som stärker det hyresrättsliga skyddet för 
 
 Förslagen bygger på betänkandet Åtgärder för tryggare bostadsområden som överlämnades i oktober förra året och promemorian Stärkt hyresrättsligt skydd för våldsutsatta kvinnor som överlämnades i juni samma år.
 
-Lagändringarna föreslås träda i kraft den 31 maj 2024\.
+Lagändringarna föreslås träda i kraft den 31 maj 2024.

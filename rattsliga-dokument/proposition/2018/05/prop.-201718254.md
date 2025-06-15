@@ -6,4 +6,4 @@ Förordningen, som ska börja tillämpas den 25 maj 2018, är direkt tillämplig
 
 Förslagen innebär bland annat att hänvisningarna till personuppgiftslagen upphävs och att vissa bestämmelser kompletteras med hänvisningar till förordningen. Regeringen föreslår även ändringar avseende utlänningsdatalagens förhållande till annan lagstiftning och utformningen av förbudet mot integritetskänsliga sökningar. Det föreslås också vissa undantag från förordningens bestämmelser.
 
-Lagändringarna föreslås träda i kraft den 1 december 2018\.
+Lagändringarna föreslås träda i kraft den 1 december 2018.

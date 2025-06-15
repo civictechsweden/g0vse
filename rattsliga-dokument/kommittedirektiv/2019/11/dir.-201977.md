@@ -11,4 +11,4 @@ Samordnaren ska bland annat:
 * utifrån sina noga avvägda analyser, stödja och initiera förändringsarbete i kommunalt finansierade verksamheter inom vård och omsorg i syfte att göra det möjligt att behålla och rekrytera personal, såväl män som kvinnor, och
 * till kommuner föreslå och förmedla goda exempel på välfärdstekniska lösningar som är ändamålsenliga och kostnadseffektiva och som bör prioriteras i syfte att avlasta personalen och effektivisera verksamheten.
 
-Uppdraget ska redovisas senast den 15 juni 2021\.
+Uppdraget ska redovisas senast den 15 juni 2021.

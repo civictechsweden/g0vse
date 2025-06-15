@@ -1,5 +1,4 @@
 # Särskilda smittskyddsåtgärder för injektionsmissbrukare
 
 I lagrådsremissen föreslås en lag som reglerar sprututbytesverksamhet för intravenösa narkotikamissbrukare, s.k. injektionsmissbrukare. Syftet är att förebygga spridning av hivinfektion och andra blodburna infektioner bland injektionsmissbrukare. Verksamheten skall bedrivas på ett sådant sätt att injektionsmissbrukare kan motiveras till vård och behandling. Förslaget innebär att ett landsting, efter tillstånd från Socialstyrelsen, får bedriva verksamhet som innebär att injektionsmissbrukare under vissa villkor får byta begagnade sprutor och kanyler mot rena sådana. Villkoren rör bland annat samverkan med kommuner inom landstinget, patienternas ålder samt att begagnade sprutor skall återlämnas innan nya kan lämnas ut. Socialstyrelsen föreslås få bemyndigande att meddela närmare föreskrifter för verksamheten. Socialstyrelsen skall inom ramen för sin tillsyn fortlöpande kontrollera att verksamheten bedrivs i enlighet med reglerna i lagen och föreskrifterna.
-
-Lagen föreslås träda i kraft den 1 juli 2006\.
+Lagen föreslås träda i kraft den 1 juli 2006.

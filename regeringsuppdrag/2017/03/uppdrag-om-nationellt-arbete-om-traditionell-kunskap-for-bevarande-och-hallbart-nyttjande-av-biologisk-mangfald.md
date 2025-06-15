@@ -6,4 +6,4 @@ Regeringen ger Naturvårdsverket och Sametinget i uppdrag att föreslå åtgär
 
 Myndigheterna ska samverka i arbetet och förslagen utformas så att de kan stärka den egna myndighetens och andra nationella myndigheters fortsatta genomförandearbete.
 
-Myndigheterna ska redovisa uppdraget gemensamt till Miljö\- och energidepartementet och Kulturdepartementet senast den 28 februari 2018\.
+Myndigheterna ska redovisa uppdraget gemensamt till Miljö- och energidepartementet och Kulturdepartementet senast den 28 februari 2018.

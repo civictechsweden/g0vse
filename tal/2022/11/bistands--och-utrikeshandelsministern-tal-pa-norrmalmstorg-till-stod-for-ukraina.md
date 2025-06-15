@@ -1,9 +1,8 @@
 # Bistånds- och utrikeshandelsministern tal på Norrmalmstorg till stöd för Ukraina
 
-Den 7 november talade bistånds\- och utrikeshandelsminister Johan Forssell på Norrmalmstorg i Stockholm i samband med Måndagsrörelsens demonstration för Ukrainas kamp gentemot den ryska invasionen.
+Den 7 november talade bistånds- och utrikeshandelsminister Johan Forssell på Norrmalmstorg i Stockholm i samband med Måndagsrörelsens demonstration för Ukrainas kamp gentemot den ryska invasionen.
 
 Det talade ordet gäller.
-
 
 Tack Gunnar Hökmark och Fredrik Malm. Det är viktigt för mig att få vara här idag. Som medborgare. Men också som den första ministern som talar här för Måndagsrörelsen på Norrmalmstorg.
 

@@ -6,10 +6,10 @@ Under konferensen håller justitieminister Gunnar Strömmer ett anförande om re
 
 Tid för media finns:
 
-**Tid:** Klockan 11\.15\-11\.45
+**Tid:** Klockan 11.15-11.45
 **Plats:** Borås Kongress, Akademiplatsen 2
 
-**Tid:** Klockan 13\.40\-14\.10
+**Tid:** Klockan 13.40-14.10
 **Plats:** Högskolan Borås, Sagagatan 19
 
 För mer information om besöken och intervjuförfrågningar samt anmälan, kontakta pressekreterare Caroline Opsahl.

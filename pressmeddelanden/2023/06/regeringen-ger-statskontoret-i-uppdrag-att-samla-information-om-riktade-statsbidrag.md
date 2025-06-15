@@ -6,4 +6,4 @@ Syftet är att genom tydligare information om vilka bidrag som finns tillgängli
 
 Staten ska skapa bättre förutsättningar och underlätta för dem som bidragen är till för genom att tydligt informera om vilka bidrag som finns tillgängliga samt underlätta en samlad uppföljning och öka användningen av de medel som finns.
 
-Uppdraget ska redovisas senast den 27 maj 2024\.
+Uppdraget ska redovisas senast den 27 maj 2024.

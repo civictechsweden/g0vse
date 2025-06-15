@@ -2,7 +2,7 @@
 
 I sin rapport om erfarenheter från valen 2022 drar Valmyndigheten slutsatsen att för en majoritet av väljarna fungerar valen och röstningen väl. Myndigheten menar samtidigt att valsystemet är i behov av förändringar för att förenkla, förbättra och skapa ett mindre sårbart system.
 
-Med hänsyn till bland annat Valmyndighetens erfarenheter behöver valsedelsystemet utvärderas. En parlamentariskt sammansatt kommitté får därför i uppdrag att utvärdera och överväga förändringar av valsedelsystemet, inklusive att analysera för\- och nackdelar med att övergå till ett system med gemensamma eller neutrala valsedlar.
+Med hänsyn till bland annat Valmyndighetens erfarenheter behöver valsedelsystemet utvärderas. En parlamentariskt sammansatt kommitté får därför i uppdrag att utvärdera och överväga förändringar av valsedelsystemet, inklusive att analysera för- och nackdelar med att övergå till ett system med gemensamma eller neutrala valsedlar.
 
 – Ur demokratisk synvinkel är förtroendet för valsystemet viktigt. Särskilt i ljuset av Valmyndighetens slutsatser är det därför bra att valsedelsystemet analyseras, säger justitieminister Gunnar Strömmer.
 
@@ -23,6 +23,6 @@ Kommittén ska bland annat:
 
 Den parlamentariskt sammansatta kommittén, som kommer att bestå av representanter för samtliga riksdagspartier, kommer att ledas av tidigare hovrättspresidenten och ordföranden i Valmyndighetens nämnd Margareta Bergström.
 
-Kommittén ska redovisa sitt uppdrag senast den 15 september 2025\.
+Kommittén ska redovisa sitt uppdrag senast den 15 september 2025.
 
 Beslutet att tillsätta en utredning är en del av Tidöavtalet.

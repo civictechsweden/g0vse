@@ -11,4 +11,4 @@ I uppdraget ingår vidare bland annat att
 * överväga om sekretessmålen bör överklagas till förvaltningsrätten som första domstolsinstans, och
 * genomföra en konsekvensbeskrivning vid förkortade överklagandetider i mål om socialförsäkring och mål om arbetslöshetsförsäkring.
 
-Uppdraget ska redovisas senast den 1 december 2014\.
+Uppdraget ska redovisas senast den 1 december 2014.

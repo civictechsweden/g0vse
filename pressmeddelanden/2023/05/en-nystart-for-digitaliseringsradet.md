@@ -4,4 +4,4 @@ Den digitala utvecklingen i samhället går snabbt och Digitaliseringsrådet utg
 
 – Jag är väldigt glad över dagens beslut och tacksam över att ledamöterna tackat ja till uppdraget att bidra till digitaliseringspolitikens utveckling. Det här är en välbehövd nystart för Digitaliseringsrådet och jag ser mycket fram emot att konkret diskutera digitaliseringens möjligheter och utmaningar, säger civilminister Erik Slottner.
 
-Rådets arbete förlängs till och med den 31 december 2026\.
+Rådets arbete förlängs till och med den 31 december 2026.

@@ -2,5 +2,4 @@
 
 Här kan du ta del av de remissvar som har kommit till Arbetsmarknadsdepartementet på promemorian Ett gemensamt ansvar för mottagande av nyanlända.
 
-
 ##

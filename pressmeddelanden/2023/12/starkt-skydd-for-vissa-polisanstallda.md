@@ -14,6 +14,6 @@ För att trycka tillbaka den grova organiserade brottsligheten är det avgörand
 
 Förslagen i promemorian innebär att anställda vid Polismyndigheten som arbetar mot den organiserade brottsligheten i vissa fall ska kunna använda en annan uppgift än namn i beslut och andra handlingar som dokumenterar åtgärder. Vidare föreslås även i promemorian att sekretess ska gälla för uppgifter som kan bidra till upplysning om identiteten på den anställde vid Polismyndigheten som använt en sådan annan uppgift.
 
-Förslagen har idag skickats på remiss. Remisstiden pågår till den 2 februari 2024\. Författningsändringarna föreslås träda i kraft den 15 april 2024\.
+Förslagen har idag skickats på remiss. Remisstiden pågår till den 2 februari 2024. Författningsändringarna föreslås träda i kraft den 15 april 2024.
 
 Regleringen föreslås tidsbegränsas till att gälla i fem år efter införandet.

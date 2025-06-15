@@ -1,7 +1,6 @@
 # Remiss av Förslag till förordning om ändring i luftfartsförordningen (2010:770)
 
-Här kan du ta del av till vilka remissinstanser som regeringen har remitterat Promemorian om förslag till ändring i luftfartsförordningen (2010:770\). Remissvaren ska ha kommit in till Näringsdepartementet senast den 15 oktober 2018\.
-
+Här kan du ta del av till vilka remissinstanser som regeringen har remitterat Promemorian om förslag till ändring i luftfartsförordningen (2010:770). Remissvaren ska ha kommit in till Näringsdepartementet senast den 15 oktober 2018.
 
 ### Remissinstanser
 

@@ -1,9 +1,8 @@
 # Nordiska ministrar: Sociala medier-jättarna måste ta sitt ansvar
 
-Socialminister Jakob Forssmed med nordiska social\- och hälsoministrar, debattartikel, Altinget, den 17 april 2024\.
+Socialminister Jakob Forssmed med nordiska social- och hälsoministrar, debattartikel, Altinget, den 17 april 2024.
 
-Skärmen är här för att stanna. Men det är inte utan bekymmer. Psykisk ohälsa ökar bland barn\- och ungdomar i hela Norden. Därför kräver vi gemensamt nu att sociala medier\-jättarna tar sitt ansvar. Det skriver ministrar från hela Norden.
-
+Skärmen är här för att stanna. Men det är inte utan bekymmer. Psykisk ohälsa ökar bland barn- och ungdomar i hela Norden. Därför kräver vi gemensamt nu att sociala medier-jättarna tar sitt ansvar. Det skriver ministrar från hela Norden.
 
 I dagens digitala era är vi alla mer eller mindre konstant uppkopplade till skärmar av olika slag. Vårt digitala samhälle ställer krav på en digital befolkning och det finns fördelar med denna utveckling, till exempel ökad kunskap och möjlighet till lärande och enkla sätt att kommunicera och samarbeta världen över. Men tillgången till smartphones har gjort att skärmen nästan alltid är tillgänglig, en armlängd bort. Många ungdomar uttrycker i dag att de använder mobilen eller sociala medier mer än de själva önskar, och att detta går ut över andra aktiviteter så som träning, skolarbete och sömn.
 
@@ -19,7 +18,7 @@ Sociala medieföretagen har ett stort ansvar. Med den stora mängd information, 
 
 ## Tillsammans måste Norden agera
 
-Frågan är viktig och kräver ett engagemang från hela samhället. Därför vill vi i Norden anta ett brett angreppssätt om frågan och involvera alla relevanta intressenter, inklusive föräldrar, skolor, hälso\- och välfärdsorgan, och civilsamhället, och gemensamt ställa krav på de stora plattformsbolagen. På EU\-nivå har man gjort goda framsteg i regleringen. Genom att arbeta tillsammans kan vi utveckla en mångsidig och hållbar strategi för att hantera ökad skärmanvändning och främja en hälsosam livsstil, framför allt för våra barn och unga.
+Frågan är viktig och kräver ett engagemang från hela samhället. Därför vill vi i Norden anta ett brett angreppssätt om frågan och involvera alla relevanta intressenter, inklusive föräldrar, skolor, hälso- och välfärdsorgan, och civilsamhället, och gemensamt ställa krav på de stora plattformsbolagen. På EU-nivå har man gjort goda framsteg i regleringen. Genom att arbeta tillsammans kan vi utveckla en mångsidig och hållbar strategi för att hantera ökad skärmanvändning och främja en hälsosam livsstil, framför allt för våra barn och unga.
 
 Genom att samarbeta i Norden kan vi dela kunskap, dela goda exempel och resurser för att utveckla strategier och initiativ som främjar en balanserad användning av skärmar och minimerar dess potentiella negativa konsekvenser. Men även sätta press på de stora sociala medieföretagen att agera för barns och ungas hälsa. De måste ta sitt ansvar och presentera åtgärder för hur den tillbringade tiden på plattformarna kan minska och hur man inom ramen för respektive bolag arbetar för att minska undanträngningseffekterna. Sömnen minskar, den psykiska ohälsan ökar och stillasittandet likaså. Trenden är likadan i hela Norden och måste vändas.
 
@@ -34,19 +33,19 @@ Jakob Forssmed,
 Sveriges socialminister
 
 Kaisa Juuso
-Finlands social\- och hälsovårdsminister
+Finlands social- och hälsovårdsminister
 
 Sophie Löhde
-Danmarks inrikes\- och hälsominister
+Danmarks inrikes- och hälsominister
 
 Ingvild Kjerkol
 Norges före detta hälsominister
 
 Guðmundur Ingi Guðbrandsson
-Islands social\- och arbetsmarknadsminister
+Islands social- och arbetsmarknadsminister
 
 Margit Stórá
 Färöarnas hälsominister
 
 Arsim Zekaj
-Ålands social\- och hälsovårdsminister
+Ålands social- och hälsovårdsminister

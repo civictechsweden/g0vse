@@ -1,8 +1,8 @@
 # Lantmäteriet får medel för att göra information tillgänglig
 
-– Flera utvärderingar har visat att öppna data kan leda till stora vinster för samhället, inte minst företag och organisationer som kan använda uppgifterna för att skapa nya produkter och tjänster, säger infrastruktur\- och bostadsminister Andreas Carlson.
+– Flera utvärderingar har visat att öppna data kan leda till stora vinster för samhället, inte minst företag och organisationer som kan använda uppgifterna för att skapa nya produkter och tjänster, säger infrastruktur- och bostadsminister Andreas Carlson.
 
-I regeringens förslag får Lantmäteriet 20 miljoner kronor för att utveckla infrastruktur för att göra data tillgänglig för alla, så kallade öppna data. Detta ska enligt EU\-direktiv ha skett senast sommaren 2024\.
+I regeringens förslag får Lantmäteriet 20 miljoner kronor för att utveckla infrastruktur för att göra data tillgänglig för alla, så kallade öppna data. Detta ska enligt EU-direktiv ha skett senast sommaren 2024.
 
 Öppna data från Lantmäteriet kan till exempel vara adresser, kartor, flygfotografier och höjddata.
 

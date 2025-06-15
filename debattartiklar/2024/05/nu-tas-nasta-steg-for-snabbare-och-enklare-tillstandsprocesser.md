@@ -1,13 +1,12 @@
 # "Nu tas nästa steg för snabbare och enklare tillståndsprocesser"
 
-Debattartikel av energi\- och näringsminister Ebba Busch, klimat\- och miljöminister Romina Pourmokhtari och finansminister Elisabeth Svantesson, Dagens industri, 6 maj 2024\.
-
+Debattartikel av energi- och näringsminister Ebba Busch, klimat- och miljöminister Romina Pourmokhtari och finansminister Elisabeth Svantesson, Dagens industri, 6 maj 2024.
 
 Regeringen har fattat beslut om förslag för att effektivisera och förenkla miljöbalkens tillståndsprocesser. Förslag från miljöprövningsutredningen skickas nu till lagrådet. Därmed tas ytterligare steg för att effektivisera tillståndsprocesserna, så att industrins omställning kan skyndas på, välståndet öka och utsläppen minska snabbare.
 
 När regeringen tillträdde, fanns en rad olika hinder som bromsade klimatomställningen och tillväxten i Sverige. Vi har arbetat i högsta möjliga fart för att riva ned dessa hinder, för att skynda på klimatomställningen och se till att de största utsläpparna kan ställa om sina verksamheter.och på så sätt minska sina klimatavtryck.
 
-Åtgärder för att förenkla och förkorta tillståndsprocesserna är helt nödvändiga för att vi ska klara Sveriges klimatmål och nå hela vägen till nettonollutsläpp senast år 2045\. Det är också helt avgörande för svenska företags konkurrenskraft och för att både locka och behålla investeringar i Sverige. En central del är utbyggnaden av fossilfri elproduktion för att vi ska få tillräckligt med energi för elektrifieringen och industriexpansionen.
+Åtgärder för att förenkla och förkorta tillståndsprocesserna är helt nödvändiga för att vi ska klara Sveriges klimatmål och nå hela vägen till nettonollutsläpp senast år 2045. Det är också helt avgörande för svenska företags konkurrenskraft och för att både locka och behålla investeringar i Sverige. En central del är utbyggnaden av fossilfri elproduktion för att vi ska få tillräckligt med energi för elektrifieringen och industriexpansionen.
 
 Många företag vittnar om att tillståndsprocesserna är ett stort hinder när man vill ställa om sina verksamheter. Kostsamma, långdragna och oförutsebara miljöprövningar riskerar att leda till att investeringar blir dyrare än planerat och att arbetet försenas. De problem som tillståndsprocesserna i dag orsakar kan till och med skrämma bort investeringar och nya industrietableringar i Sverige.
 
@@ -19,7 +18,7 @@ Miljöbalken kom till för 25 år sedan, då samhället, den globala kontexten o
 
 Genom snabbare och effektivare tillståndsprocesser har vi möjlighet att ta tillvara de chanser som finns för att öka farten i klimatomställningen och nyindustrialiseringen. Vi ska behålla det övergripande syftet med miljöprövningarna, samtidigt som tillståndsprocesserna effektiviseras. Arbetet med att förändra tillståndsprocesserna har varit av högsta prioritet för den här regeringen ända sedan dagen vi tillträdde.
 
-Vi har tillsatt en större utredning om förkortade och förenklade tillståndsprocesser enligt miljöbalken, den så kallade Miljötillståndsutredningen, som ska vara färdig i december i år. Vi har också skjutit till resurser till både länsstyrelserna, Sveriges domstolar, Naturvårdsverket och Havs\- och vattenmyndigheten för att de ska kunna effektivisera hanteringen av tillståndsprövningarna.
+Vi har tillsatt en större utredning om förkortade och förenklade tillståndsprocesser enligt miljöbalken, den så kallade Miljötillståndsutredningen, som ska vara färdig i december i år. Vi har också skjutit till resurser till både länsstyrelserna, Sveriges domstolar, Naturvårdsverket och Havs- och vattenmyndigheten för att de ska kunna effektivisera hanteringen av tillståndsprövningarna.
 
 I februari i år blev Regeringsprövningsutredningen klar som föreslår åtgärder som möjliggör att processer som har bäring för totalförsvaret kortas ned och skyndas på. Vi har också satt igång ett gediget arbete för effektivare tillståndsprocesser för utbyggnaden av såväl kärnkraft som havsbaserad vindkraft.
 
@@ -34,8 +33,8 @@ De huvudsakliga förslagen handlar om att:
 
 Det måste vara enkelt att starta och driva verksamheter med stor samhällsnytta. Industrin står redan nu redo att göra de stora investeringar för klimatomställningen som är viktiga för vår väg mot nettonollutsläpp. Byråkratin får inte sätta käppar i hjulet för det arbetet. Genom de förändringar som regeringen nu driver igenom, bidrar vi till bättre förutsättningar för klimatomställningen och för Sveriges tillväxt och välstånd.
 
-**Ebba Busch**, energi\- och näringsminister.
+**Ebba Busch**, energi- och näringsminister.
 
-**Romina Pourmokhtari**, klimat\- och miljöminister.
+**Romina Pourmokhtari**, klimat- och miljöminister.
 
 **Elisabeth Svantesson**, finansminister.

@@ -4,7 +4,7 @@ Tillgången på rätt kompetens är avgörande för Sveriges innovationsförmåg
 
 Tillgången till rätt kompetens avgör Sveriges förmåga att driva forskning och innovation, utveckla nya behandlingar, ny teknik och attrahera investeringar och talanger. För att Sverige ska kunna stärka sin konkurrenskraft och ställning som ett av världens främsta forsknings- och innovationsländer krävs också en högre grad av mobilitet mellan olika sektorer.
 
-- Förbättrad kompetensförsörjning är en avgörande faktor för att vi ska uppfylla målsättningarna i den nationella strategin för life science. Regeringen har tagit flera initiativ för att säkerställa att Sverige har rätt kompetens för framtidens behov. Ett exempel är en lagändring i forsknings- och innovationspropositionen som syftar till att underlätta för förenade anställningar för utländska studenter och forskare, sa utbildningsminister Johan Pehrson.
+ - Förbättrad kompetensförsörjning är en avgörande faktor för att vi ska uppfylla målsättningarna i den nationella strategin för life science. Regeringen har tagit flera initiativ för att säkerställa att Sverige har rätt kompetens för framtidens behov. Ett exempel är en lagändring i forsknings- och innovationspropositionen som syftar till att underlätta för förenade anställningar för utländska studenter och forskare, sa utbildningsminister Johan Pehrson.
 
 Den rådgivande gruppen består av ett 20-tal representanter för universitet, näringsliv, branschorganisationer och regioner.   De framförde en lång rad värdefulla inspel till regeringen i sina diskussioner.
 

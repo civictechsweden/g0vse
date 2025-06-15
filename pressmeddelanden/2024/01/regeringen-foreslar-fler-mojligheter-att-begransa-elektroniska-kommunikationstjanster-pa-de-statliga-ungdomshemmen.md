@@ -28,4 +28,4 @@ Det föreslås också att det införs en bestämmelse om att alla barn och unga 
 
 – Det är viktigt att poängtera att förslagen inte innebär att barn och unga på särskilda ungdomshem tas ifrån möjligheten att kommunicera med vänner och familj. Rätten att stå i förbindelse med annan person gäller för samtliga barn och unga som vårdas på särskilda ungdomshem. I vissa fall kan dock restriktioner krävas för att kunna upprätthålla adekvat vård och behandling. Bedömningen av vilka säkerhetshöjande åtgärder barnet eller den unge är i behov av kommer noggrant att övervägas i samband med SiS platsanvisning och genom socialnämndens beslut om placering, säger Juno Blom, talesperson i barnrättsfrågor (L).
 
-Lagändringarna föreslås träda i kraft den 15 maj 2024\.
+Lagändringarna föreslås träda i kraft den 15 maj 2024.

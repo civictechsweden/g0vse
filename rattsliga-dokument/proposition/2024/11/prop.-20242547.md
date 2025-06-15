@@ -10,4 +10,4 @@ En enskild ska ha rätt att ur beskattningsdatabasen få ut uppgifter om huruvid
 
 Skatteverket ges vissa möjligheter till föreläggande och revision avseende den som är eller kan antas vara ett oberoende småbryggeri.
 
-Ändringarna föreslås träda i kraft den 1 juli 2025\. Äldre bestämmelser ska fortfarande gälla för förhållanden som hänför sig till tiden före ikraftträdandet.
+Ändringarna föreslås träda i kraft den 1 juli 2025. Äldre bestämmelser ska fortfarande gälla för förhållanden som hänför sig till tiden före ikraftträdandet.

@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om statens krisstöd till idrott och kultur under coronapandemin
 
-I skrivelsen redovisar regeringen sin bedömning av Riksrevisionens iakttagelser i rapporten Operation Rädda branschen – statens krisstöd till idrott och kultur under coronapandemin (RiR 2022:7\).
+I skrivelsen redovisar regeringen sin bedömning av Riksrevisionens iakttagelser i rapporten Operation Rädda branschen – statens krisstöd till idrott och kultur under coronapandemin (RiR 2022:7).
 
 Riksrevisionens övergripande slutsats är att regeringen och de bidragsgivande organisationerna har utformat och fördelat de granskade krisstöden på ett i huvudsak ändamålsenligt och effektivt sätt. Framför allt har både regeringen och de bidragsgivande organisationerna visat att de kan agera snabbt och uthålligt under en utdragen kris, där besluten om stöd har fattats i omgångar. Granskningen visar samtidigt att det finns brister i bidragsgivningens transparens och att ansvariga aktörers fokus på att nå ut med stöden till kulturen så snabbt som möjligt i viss utsträckning har skett på bekostnad av stödens träffsäkerhet.
 

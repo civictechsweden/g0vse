@@ -1,7 +1,7 @@
 # Årsredovisning för staten 2022
 
 I skrivelsen lämnar regeringen en redogörelse för det ekonomiska utfallet i staten
-2022\.
+2022.
 
 Skrivelsen omfattar en uppföljning av de budgetpolitiska målen, utfallet på budgetens inkomsttitlar och anslag samt övriga finansiella befogenheter, resultaträkning, balansräkning och finansieringsanalys, utvecklingen av statsskulden, redovisning och riskanalys av statliga garantier och utlåning samt nationellt intygande och avgifter till och bidrag från EU.
 

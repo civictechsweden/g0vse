@@ -27,4 +27,4 @@ Bostadsanpassningsbidrag ska inte kunna lämnas för åtgärder i vissa särskil
 
 Regeringen föreslår även bestämmelser om handläggningen av ansökningar om bostadsanpassningsbidrag.
 
-Lagförslagen föreslås träda i kraft den 1 juli 2018\.
+Lagförslagen föreslås träda i kraft den 1 juli 2018.

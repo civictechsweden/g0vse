@@ -8,6 +8,6 @@ Sedan 2019 pågår en försöksverksamhet i polisregion Stockholm med ett snabbf
 
 Försöksverksamheten utgör ett myndighetsgemensamt uppdrag och omfattar idag hela polisregion Stockholm. Försöksverksamheten har visat på goda resultat när det gäller hanteringen i förundersökningsstadiet, med både kortare handläggningstider och ökad kvalitet i brottsutredningarna hos Polismyndigheten.
 
-Dagens beslut innebär att försöksverksamheten successivt ska byggas ut till samtliga polisregioner i landet med målsättningen att den ska vara fullt utbyggd under 2026\. Uppdraget ges till Polismyndigheten, Åklagarmyndigheten, Rättsmedicinalverket, Kriminalvården och Domstolsverket.
+Dagens beslut innebär att försöksverksamheten successivt ska byggas ut till samtliga polisregioner i landet med målsättningen att den ska vara fullt utbyggd under 2026. Uppdraget ges till Polismyndigheten, Åklagarmyndigheten, Rättsmedicinalverket, Kriminalvården och Domstolsverket.
 
-Uppdraget ska redovisas till Justitiedepartementet senast den 31 mars 2025 och den 31 mars 2026\.
+Uppdraget ska redovisas till Justitiedepartementet senast den 31 mars 2025 och den 31 mars 2026.

@@ -8,4 +8,4 @@ Vid OTIF:s generalförsamling den 25–26 september 2018 beslutades vissa ändri
 
 I lagrådsremissen föreslår regeringen att Sverige ska godkänna ändringarna och att dessa, i den utsträckning som det behövs, ska införlivas med svensk rätt i berörda lagar om järnvägstrafik. Det föreslås också vissa rättelser i järnvägstekniklagen.
 
-Lagändringarna föreslås träda i kraft den dag som regeringen bestämmer. Rättelserna i järnvägstekniklagen föreslås dock träda i kraft den 1 januari 2025\.
+Lagändringarna föreslås träda i kraft den dag som regeringen bestämmer. Rättelserna i järnvägstekniklagen föreslås dock träda i kraft den 1 januari 2025.

@@ -1,6 +1,6 @@
 # Uppdrag att genomföra förstudier om apoteksindikatorer och om en försöksverksamhet med en farmaceutisk tjänst på apotek
 
-Regeringen ger Tandvårds\- och läkemedelsförmånsverket (TLV) i uppdrag att genomföra två förstudier.
+Regeringen ger Tandvårds- och läkemedelsförmånsverket (TLV) i uppdrag att genomföra två förstudier.
 
 ## Indikatorer för öppenvårdsapotekens verksamhet
 
@@ -16,4 +16,4 @@ Den andra förstudien handlar om vilka förutsättningar som finns föra att gen
 
 Meningen med studien är att uppnå ökad följsamhet till ordinerad behandling. TLV ska i förstudien bland annat analysera de juridiska förutsättningarna, behov av tillgång till ytterligare data och samverkan med olika aktörer i samband med planering, genomförande och utvärdering av försöksverksamheten.
 
-Uppdraget redovisas till Socialdepartementet senast den 31 december 2019\.
+Uppdraget redovisas till Socialdepartementet senast den 31 december 2019.

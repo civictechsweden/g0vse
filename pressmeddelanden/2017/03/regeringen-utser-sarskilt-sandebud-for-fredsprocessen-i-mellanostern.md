@@ -4,4 +4,4 @@ Sändebudet kommer att vara Stockholmbaserat och fokusera på att främja en lå
 
 Sändebudet kommer att hålla kontakten med andra sändebud och svenska och internationella intressenter. Sverige har liknande Stockholmsbaserade sändebud för flera andra fredsprocesser och prioriterade sakfrågor.
 
-Ambassadör Per Örnéus har arbetat på UD i över 25 år, de senaste åren som ambassadör för humanitära frågor. Dessförinnan var Örnéus chef för UD:s enhet för multilaterala utvecklingsfrågor. Örnéus har även tjänstgjort som ambassadör och biträdande chef för Sveriges FN\-representation i New York.
+Ambassadör Per Örnéus har arbetat på UD i över 25 år, de senaste åren som ambassadör för humanitära frågor. Dessförinnan var Örnéus chef för UD:s enhet för multilaterala utvecklingsfrågor. Örnéus har även tjänstgjort som ambassadör och biträdande chef för Sveriges FN-representation i New York.

@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen att stödja och stimulera barnhälsovårdens arbete med bland annat utökade hembesöksprogram bland yngre barn bosatta och folkbokförda i Sverige.
 
-
 Socialstyrelsen ska:
 
 * fördela medel till regioner under 2023 för att i samverkan med kommuner förbereda utökade hemsbesöksprogram inom områden med socioekonomiska utmaningar.

@@ -1,8 +1,7 @@
 # Anförande av Olof Skoog, Sveriges ständige representant till Förenta nationerna, vid FN:s säkerhetsråds debatt om icke-spridning
 
-New York, onsdagen den 18 januari 2017\.
+New York, onsdagen den 18 januari 2017.
 Enligt det talade ordet.
-
 
 Sverige välkomnade överenskommelsen om den gemensamma övergripande handlingsplanen i juli 2015 som en seger för diplomatin. Den är ett utmärkt exempel på fredlig tvistlösning och konfliktförebyggande arbete. Ett lyckat genomförande av handlingsplanen gynnar såväl stabiliteten i regionen som internationell fred och säkerhet. Vi uppmanar alla parter att fullgöra sina åtaganden och fortsätta driva arbetet framåt.
 
@@ -14,7 +13,7 @@ För det första har vi fått oroväckande rapporter om vapenöverföringar som 
 
 För det andra har överträdelser av reseförbudet rapporterats. Endast säkerhetsrådet kan avgöra när sådana resor är berättigade. Dessutom måste alla länder fullgöra sin skyldighet att förhindra personer som finns på listan som upprättats i enlighet med resolution 2231 att resa in på eller transitera genom deras territorium.
 
-Sverige uppmanar den iranska regeringen att formellt bemöta uppgifterna i generalsekreterarens rapport om aktiviteter som strider mot bilaga B i resolution 2231\. Vi betonar vikten av att generalsekreteraren får tillgång till all nödvändig information och ges möjlighet att undersöka specifika vapenbeslag som misstänks ha kommit från Iran. Det är viktigt med en nära dialog mellan Iran och generalsekreteraren, liksom mellan Iran och facilitatorn.
+Sverige uppmanar den iranska regeringen att formellt bemöta uppgifterna i generalsekreterarens rapport om aktiviteter som strider mot bilaga B i resolution 2231. Vi betonar vikten av att generalsekreteraren får tillgång till all nödvändig information och ges möjlighet att undersöka specifika vapenbeslag som misstänks ha kommit från Iran. Det är viktigt med en nära dialog mellan Iran och generalsekreteraren, liksom mellan Iran och facilitatorn.
 
 Ett sätt för Iran att bygga förtroende vore att tidigt ratificera tilläggsprotokollet.
 

@@ -7,7 +7,7 @@ First, to state the obvious: in the long run, very few things matter more than t
 
 I am honoured to be one of the hosts of this conference. And it’s particularly important that we are joined by key stakeholders: children and young people taking part in our meeting – present here in Stockholm, and from Ukraine.
 
-This Swedish EU Presidency is taking place at a time when war is raging in Europe, again. For more than a year, the people of Ukraine have suffered from Russia’s full\-scale invasion and cruel atrocities.
+This Swedish EU Presidency is taking place at a time when war is raging in Europe, again. For more than a year, the people of Ukraine have suffered from Russia’s full-scale invasion and cruel atrocities.
 
 We have long known that in war, children are those who suffer first and most. And this is true also in Ukraine. From the bloody attacks at the train station in Kramatorsk last year, to recent missile attacks in Dnipro and Uman, many children have been among the victims.
 
@@ -21,7 +21,7 @@ Allow me to explicitly point to accountability for Russia’s forced transfers a
 
 According to the Commission of Inquiry on Ukraine, these actions are war crimes. The decision by the International Criminal Court, to issue arrest warrants against Putin and his Commissioner for Children’s Rights, is a good beginning.
 
-We strongly support the Court and its investigations. Don’t underestimate the bad long\-term consequences from these brutal family separations. Future generations years from now will grieve, remember, and condemn.
+We strongly support the Court and its investigations. Don’t underestimate the bad long-term consequences from these brutal family separations. Future generations years from now will grieve, remember, and condemn.
 
 On a Swedish initiative, individuals involved in these illegal transfers were listed under EU sanctions – and we will continue our efforts. The next step will be to extend the listings as we prepare the next sanctions package – making sure no one goes unpunished.
 

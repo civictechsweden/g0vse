@@ -2,7 +2,6 @@
 
 Sveriges utvecklingssamarbete med Sudan ska, inom ramen för denna strategi, bidra till hållbar fred, förbättrade förutsättningar för god samhällsservice samt stärkt motståndskraft. Strategin ska gälla under perioden 2018–2022 och omfatta sammanlagt 1 200 miljoner kronor.
 
-
 Verksamheten ska bidra till följande mål:
 
 **Hållbar fred**

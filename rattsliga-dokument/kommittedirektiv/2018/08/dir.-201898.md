@@ -12,8 +12,8 @@ Utredaren ska
 
 * analysera nuvarande hyresmodell och hyresrelation mellan de fem kulturinstitutionerna och Statens fastighetsverk och modellens effekter för hyresgästerna och statens finanser,
 * med utgångspunkt i analysen föreslå nya hållbara
-alternativa hyresmodeller för de fem kulturinstitutionerna för att hantera bristerna med den befintliga modellen,
+  alternativa hyresmodeller för de fem kulturinstitutionerna för att hantera bristerna med den befintliga modellen,
 * belysa effekterna av förslagen för såväl berörda kulturinstitutioner, som Statens fastighetsverks fastighetsförvaltning och statens finanser, och
 * värdera och bedöma möjligheterna till att de föreslagna alternativa modellerna kan tillämpas på andra motsvarande fastigheter som rymmer kulturverksamhet och som förvaltas av Statens fastighetsverk.
 
-Uppdraget ska redovisas senast den 31 oktober 2019\.
+Uppdraget ska redovisas senast den 31 oktober 2019.

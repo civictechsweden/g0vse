@@ -2,7 +2,6 @@
 
 Inom ramen för Fossilfritt Sverige har 22 olika branscher tagit fram färdplaner för att visa hur de kan stärka sin konkurrenskraft genom att bli fossilfria eller klimatneutrala. Panelen diskuterar exempel där man övervunnit utmaningar med målkonflikter inom dagens lagar och regler.
 
-
 Svante Axelsson, nationell samordnare för Fossilfritt Sverige, inleder.
 
 Paneldeltagare:

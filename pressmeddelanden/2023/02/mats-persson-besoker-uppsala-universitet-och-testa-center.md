@@ -6,10 +6,10 @@ Efter lunch besöker ministern Testa Center där han bland annat kommer att gå 
 
 ## Program
 
-09\.30–12\.00 Besöker Uppsala universitet
+09.30–12.00 Besöker Uppsala universitet
 Plats: Ångströmlaboratoriet, Lägerhyddsvägen 1 samt universitetshuset, Biskopsgatan 3 i Uppsala
 
-13\.00–15\.00 Besöker Testa Center
+13.00–15.00 Besöker Testa Center
 Plats: Björkgatan 30 i Uppsala
 
-Klockan 15\.00 finns det tid för media. Kontakta pressekreterare Agnes Eklund för mer information.
+Klockan 15.00 finns det tid för media. Kontakta pressekreterare Agnes Eklund för mer information.

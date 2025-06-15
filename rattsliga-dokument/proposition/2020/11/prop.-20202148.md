@@ -20,4 +20,4 @@ För att ge möjlighet till olika slags donation föreslår regeringen att medic
 
 Regeringen föreslår att sekretessbelagda uppgifter om den möjliga donatorn får lämnas mellan vårdgivare.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2021\.
+Lagändringarna föreslås träda i kraft den 1 juli 2021.

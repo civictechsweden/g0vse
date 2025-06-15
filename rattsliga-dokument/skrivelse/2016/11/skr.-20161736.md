@@ -2,7 +2,7 @@
 
 I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och
 rekommendationer som Riksrevisionen har redovisat i rapporten
-Granskning av Årsredovisning för staten 2015 (RiR 2016:6\).
+Granskning av Årsredovisning för staten 2015 (RiR 2016:6).
 
 I rapporten har Riksrevisionen rekommenderat regeringen att, bl.a.
 med anledning av den höjning av nivån på utgiftstaket för 2015 som
@@ -20,6 +20,6 @@ kan inte reduceras till en beräkning enligt en i förväg bestämd formel.
 
 Regeringen instämmer i Riksrevisionens bedömning att det är möjligt
 att göra årsredovisningen för staten tydligare i vissa avseenden.
-Regeringen avser därför att, inom ramen för bestämmelserna i budgetlagen (2011:203\), fortsätta arbetet med att göra årsredovisningen tydligare och mer transparent.
+Regeringen avser därför att, inom ramen för bestämmelserna i budgetlagen (2011:203), fortsätta arbetet med att göra årsredovisningen tydligare och mer transparent.
 
 I och med denna skrivelse anser regeringen att granskningsrapporten är slutbehandlad.

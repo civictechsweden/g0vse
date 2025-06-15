@@ -1,9 +1,8 @@
 # Tal av Carl-Oskar Bohlin på Summit for Democracy 2024
 
-Tal av minister för civilt försvar Carl\-Oskar Bohlin vid Summit for Democracy i Seoul, Sydkorea, den 18 mars 2024\.
+Tal av minister för civilt försvar Carl-Oskar Bohlin vid Summit for Democracy i Seoul, Sydkorea, den 18 mars 2024.
 
 Det talade ordet gäller. Se talet på engelska nedan.
-
 
 First of all, let me thank our host, Republic of Korea, for organizing this third Summit for Democracy.
 

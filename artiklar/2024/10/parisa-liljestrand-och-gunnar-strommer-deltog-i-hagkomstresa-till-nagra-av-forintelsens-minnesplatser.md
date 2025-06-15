@@ -1,7 +1,6 @@
 # Parisa Liljestrand och Gunnar Strömmer deltog i hågkomstresa till några av Förintelsens minnesplatser
 
-Den 17\-18 oktober deltog kulturminister Parisa Liljestrand och justitieminister Gunnar Strömmer i ett tvådagarsbesök till några av Förintelsens minnesplatser i Polen. Ministrarna fick följa med på en resa som anordnades av Svenska kommittén mot antisemitism (SKMA) för skolelever i årskurs 9 från sex skolor från olika områden i Göteborg. Resan innefattade bland annat besök vid koncentrations\- och förintelselägret Auschwitz\-Birkenau.
-
+Den 17-18 oktober deltog kulturminister Parisa Liljestrand och justitieminister Gunnar Strömmer i ett tvådagarsbesök till några av Förintelsens minnesplatser i Polen. Ministrarna fick följa med på en resa som anordnades av Svenska kommittén mot antisemitism (SKMA) för skolelever i årskurs 9 från sex skolor från olika områden i Göteborg. Resan innefattade bland annat besök vid koncentrations- och förintelselägret Auschwitz-Birkenau.
 
 Elevernas hågkomstresa finansierades av det årliga statsbidraget för hågkomstresor. För 2024 har regeringen totalt avsatt 7 miljoner kronor för utbildningsinsatser och hågkomstresor. I januari 2024 beslutade regeringen om en förstärkning av medlen till utbildningsinsatser om hågkomstresor till Förintelsens minnesplatser. Förstärkningen om 1 miljon är öronmärkt för hågkomstresor och utbildningsinsatser för skolor i områden med socioekonomiska utmaningar. Förstärkningen syftar till att möjliggöra för fler elever och lärare att delta i en hågkomstresa och nå skolor och elever som annars i lägre utsträckning deltar i hågkomstresor.
 
@@ -9,7 +8,7 @@ Elevernas hågkomstresa finansierades av det årliga statsbidraget för hågkoms
 
 Inför hågkomstresan fick eleverna delta i ett tvådagarsseminarium med workshops, diskussioner och föreläsningar om det judiska livet i framför allt Polen och om Förintelsen och dess olika faser och den nazistiska politiken. Eleverna fick också en föreläsning om antisemitismens rötter.
 
-– Jag vill rikta ett stort tack till alla eldsjälar i SKMA och alla fantastiska elever och lärare som lät oss bli en del av deras hågkomstresa. Intrycken efter resan är många och starka. Att få se koncentrations\- och förintelselägren berörde mig på djupet, men också att möta tomheten i mindre samhällen där man idag bara ser spår av det som en gång var ett rikt judiskt liv. Minnet om vad som hände under Förintelsen får aldrig falla i glömska, och dessa hågkomstresor är omistliga för att hålla minnet vid liv, säger justitieminister Gunnar Strömmer.
+– Jag vill rikta ett stort tack till alla eldsjälar i SKMA och alla fantastiska elever och lärare som lät oss bli en del av deras hågkomstresa. Intrycken efter resan är många och starka. Att få se koncentrations- och förintelselägren berörde mig på djupet, men också att möta tomheten i mindre samhällen där man idag bara ser spår av det som en gång var ett rikt judiskt liv. Minnet om vad som hände under Förintelsen får aldrig falla i glömska, och dessa hågkomstresor är omistliga för att hålla minnet vid liv, säger justitieminister Gunnar Strömmer.
 
 ### Hågkomstresor till Förintelsens minnesplatser
 

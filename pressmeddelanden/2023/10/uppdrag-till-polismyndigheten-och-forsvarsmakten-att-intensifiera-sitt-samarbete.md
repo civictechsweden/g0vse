@@ -10,4 +10,4 @@ Försvarsmakten har personal med särskild kompetens och även särskilda resurs
 
 I dag kan Försvarsmakten lämna stöd till Polismyndigheten till exempel enligt lagen om skydd mot olyckor. Försvarsmaktens resurser används bland annat som stöd till polisen vid eftersök av försvunna personer, tekniska undersökningar och omhändertagande av explosiva varor. Försvarsmakten kan även ge stöd med helikoptertransporter i samband med olika insatser. Hjälp till polisen från Försvarsmakten som kan innebära användning av våld eller tvång mot enskilda är begränsat till vissa situationer vid terrorismbekämpning.
 
-Uppdraget innebär att omgående fördjupa samarbetet. Polismyndigheten och Försvarsmakten ska även delredovisa uppdraget till Regeringskansliet (Justitiedepartementet) senast den 2 april 2024 och slutredovisa uppdraget senast den 15 oktober 2024\.
+Uppdraget innebär att omgående fördjupa samarbetet. Polismyndigheten och Försvarsmakten ska även delredovisa uppdraget till Regeringskansliet (Justitiedepartementet) senast den 2 april 2024 och slutredovisa uppdraget senast den 15 oktober 2024.

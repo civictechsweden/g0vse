@@ -1,9 +1,8 @@
 # Remiss av promemoria angående ändring i rennäringsförordningen (1993:384)
 
-Här kan du ta del av vilka instanser som regeringen har remitterat promemorian Ändring i rennäringsförordningen (1993:384\).
+Här kan du ta del av vilka instanser som regeringen har remitterat promemorian Ändring i rennäringsförordningen (1993:384).
 
-
-Sista dag att svara på remissen är den 15 februari 2016\.
+Sista dag att svara på remissen är den 15 februari 2016.
 
 ## Remissinstanser:
 
@@ -41,10 +40,10 @@ Sista dag att svara på remissen är den 15 februari 2016\.
 32. Viltskadecenter
 33. Världsnaturfonden
 
-Regeringskansliet önskar synpunkter på bilagd promemoria. Remissvaren ska vara inkomna till Näringsdepartementet senast den 15 februari 2016\. Vi ser gärna att remissvaren även skickas i elektronisk form via e\-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "E-post till Näringsdepartementets registrator") i både word\- och pdf\-format med kopia till [Sara Ahmed](mailto:sara.ahmed@regeringskansliet.se "E-post till Sara Ahmed") i både word\- och pdf\-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck) N2015\-08441\-RS, följt av remissinstansens namn. I remissvaret anges Regeringskansliets diarienummer N2015/08441/RS.
+Regeringskansliet önskar synpunkter på bilagd promemoria. Remissvaren ska vara inkomna till Näringsdepartementet senast den 15 februari 2016. Vi ser gärna att remissvaren även skickas i elektronisk form via e-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "E-post till Näringsdepartementets registrator") i både word- och pdf-format med kopia till [Sara Ahmed](mailto:sara.ahmed@regeringskansliet.se "E-post till Sara Ahmed") i både word- och pdf-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck) N2015-08441-RS, följt av remissinstansens namn. I remissvaret anges Regeringskansliets diarienummer N2015/08441/RS.
 
 Myndigheter under regeringen är skyldiga att svara på remissen. En myndighet avgör dock på eget ansvar om den har några synpunkter att redovisa i ett svar. Om myndigheten inte har några synpunkter, räcker det att i svaret ge besked om detta.
 
 För andra remissinstanser innebär remissen en inbjudan att lämna synpunkter.
 
-Vid rättsliga frågor avseende remissen kontaktas ämnesrådet [Jacob Wichmann](mailto:jacob.wichmann@regeringskansliet.se "E-post till Jacob Wichmann") (08\-405 10 73\) eller rättssakkunniga [Sara Ahmed](mailto:sara.ahmed@regeringskansliet.se "E-post till Sara Ahmed") (08\-405 13 59\) och i övriga frågor departementssekreteraren [Camilla Frisch](mailto:camilla.frisch@regeringskansliet.se "E-post till Camilla Frisch") (08\- 405 53 36\).
+Vid rättsliga frågor avseende remissen kontaktas ämnesrådet [Jacob Wichmann](mailto:jacob.wichmann@regeringskansliet.se "E-post till Jacob Wichmann") (08-405 10 73) eller rättssakkunniga [Sara Ahmed](mailto:sara.ahmed@regeringskansliet.se "E-post till Sara Ahmed") (08-405 13 59) och i övriga frågor departementssekreteraren [Camilla Frisch](mailto:camilla.frisch@regeringskansliet.se "E-post till Camilla Frisch") (08- 405 53 36).

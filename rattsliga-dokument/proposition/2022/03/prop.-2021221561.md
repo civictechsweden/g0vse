@@ -1,6 +1,6 @@
 # Ökad likvärdighet för skolhuvudmän
 
-I denna proposition föreslås ändringar i skollagen (2010:800\) som syftar dels till att systemet för kommuners beslut om bidrag till enskilda huvudmän inom skolväsendet ska bli tydligare, mer transparent och rättssäkert, dels till att öka likvärdigheten mellan kommunala och enskilda huvudmän samtidigt som principen om lika villkor upprätthålls. Ändringarna bedöms
+I denna proposition föreslås ändringar i skollagen (2010:800) som syftar dels till att systemet för kommuners beslut om bidrag till enskilda huvudmän inom skolväsendet ska bli tydligare, mer transparent och rättssäkert, dels till att öka likvärdigheten mellan kommunala och enskilda huvudmän samtidigt som principen om lika villkor upprätthålls. Ändringarna bedöms
 öka möjligheten att ge alla barn och elever tillgång till god och likvärdig
 utbildning oavsett huvudman.
 
@@ -11,4 +11,4 @@ ansvar att anordna utbildning och de enskilda huvudmännen bör därför inte ge
 
 De individualiserade grundbeloppen för varje enskild huvudman bör kunna överklagas till allmän förvaltningsdomstol genom förvaltningsrättsligt överklagande.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2022 och tillämpas första gången i fråga om bidrag för kalenderåret 2024\.
+Lagändringarna föreslås träda i kraft den 1 juli 2022 och tillämpas första gången i fråga om bidrag för kalenderåret 2024.

@@ -2,34 +2,33 @@
 
 Att bekämpa kriminaliteten är ett prioriterat område för regeringen. Området är också ett av de samarbetsprojekt vilka regeringspartierna har med Sverigedemokraterna för att lösa Sveriges viktigaste samhällsproblem. Till grund för samarbetet ligger Tidöavtalet. När de första 100 dagarna nu har gått är en hel del åtgärder inom området gjorda, och fler är på gång.
 
-
 Samhällsproblemen med kriminalitet och gängbrottslighet ska lösas. Målet är att öka tryggheten, att förebygga att fler unga dras in i kriminalitet, att fler brott utreds och leder till lagföring, att bekämpa den grova organiserade brottsligheten, att brottsoffren får ökad upprättelse och att straffen blir mer rättvisa.
 
 I anslutning till en pressträff den 26 januari presenterade regeringen fyra nyheter:
 
-## 1\.   Ny sekretessregel för att bekämpa brott
+## 1.   Ny sekretessregel för att bekämpa brott
 
-Det ska införas en ny huvudregel i sekretesslagstiftningen som innebär att myndigheter ska dela information med brottsbekämpande myndigheter när det behövs för att bekämpa och förebygga brott. För att säkerställa att informationen kan utbytas effektivt ska utredningen också lämna förslag om hur informationsutbyte kan ske elektroniskt. Regeringen kommer därför idag besluta om tilläggsdirektiv till utredningen Förbättrade möjligheter att utbyta information med brottsbekämpande myndigheter (Ju 2022:03\), med samma tid för redovisning som tidigare, 31 oktober 2023\.
+Det ska införas en ny huvudregel i sekretesslagstiftningen som innebär att myndigheter ska dela information med brottsbekämpande myndigheter när det behövs för att bekämpa och förebygga brott. För att säkerställa att informationen kan utbytas effektivt ska utredningen också lämna förslag om hur informationsutbyte kan ske elektroniskt. Regeringen kommer därför idag besluta om tilläggsdirektiv till utredningen Förbättrade möjligheter att utbyta information med brottsbekämpande myndigheter (Ju 2022:03), med samma tid för redovisning som tidigare, 31 oktober 2023.
 
-[Dir. 2023:11 Tilläggsdirektiv till Utredningen om förbättrade möjligheter att utbyta information med brottsbekämpande myndigheter (Ju 2022:03\)](/rattsliga-dokument/kommittedirektiv/2023/01/dir.-202311 "Dir. 2023:11")
+[Dir. 2023:11 Tilläggsdirektiv till Utredningen om förbättrade möjligheter att utbyta information med brottsbekämpande myndigheter (Ju 2022:03)](/rattsliga-dokument/kommittedirektiv/2023/01/dir.-202311 "Dir. 2023:11")
 
-## 2\.   Skärpta straff för brott i kriminella nätverk
+## 2.   Skärpta straff för brott i kriminella nätverk
 
 Regeringen beslutar i dag en proposition med förslag på hårdare straff för våldsamma gänguppgörelser, liksom straffskärpningar för flera brott som är vanliga i den kriminella miljön, till exempel grovt olaga hot, rån, och narkotikaförsäljning. I propositionen finns också förslag på att presumtionen om häktning vid misstanke om brott sänks från minimistraff 2 år till minimistraff 1,5 år, vilket träffar bland annat grov misshandel och rån. Det innebär att fler kommer häktas. Regeringen föreslår också en ny straffbestämmelse om involverandet av unga i brottslig verksamhet.
 
 [Prop. 2022/23:53 Skärpta straff för brott i kriminella nätverk](/rattsliga-dokument/proposition/2023/01/prop.-20222353 "Prop. 2022/23:53")
 
-## 3\.   Förbättrade åtgärder när barn misstänks för brott
+## 3.   Förbättrade åtgärder när barn misstänks för brott
 
 Tidiga och ändamålsenliga insatser är viktiga när barn är misstänkta för brott för att bryta den negativa spiralen. Regeringen beslutar i dag om en lagrådsremiss som bland annat innehåller förslag om att domstol i fler fall ska pröva om ett barn under 15 år begått brott. Det ska även bli möjligt för brottsoffer att få juridiskt stöd när den misstänkte är under 15 år. Regeringen föreslår också att fler brott där barn under 15 år är misstänkta ska utredas av polis.
 
 [Lagrådsremiss: Förbättrade åtgärder när barn misstänks för brott](/rattsliga-dokument/lagradsremiss/2023/01/forbattrade-atgarder-nar-barn-misstanks-for-brott/ "Lagrådsremiss: Förbättrade åtgärder när barn misstänks för brott")
 
-## 4\.   Utökade möjligheter till preventiva tvångsmedel
+## 4.   Utökade möjligheter till preventiva tvångsmedel
 
 Utredningen om preventiva tvångsmedel kommer att få tilläggsdirektiv som innebär att de ska lämna förslag på utökade möjligheter att använda preventiva tvångsmedel för att förhindra och upptäcka brottslig verksamhet i bland annat kriminella nätverk. Det handlar om att brottsbekämpande myndigheterna ska ha möjligheter att hämta in uppgifter om meddelanden i realtid, inte bara i efterhand.
 
-[Dir. 2023:9 Tilläggsdirektiv till Utredningen om preventiva tvångsmedel (Ju 2021:15\)](/rattsliga-dokument/kommittedirektiv/2023/01/dir.-20239 "Dir. 2023:9")
+[Dir. 2023:9 Tilläggsdirektiv till Utredningen om preventiva tvångsmedel (Ju 2021:15)](/rattsliga-dokument/kommittedirektiv/2023/01/dir.-20239 "Dir. 2023:9")
 
 ## Genomförda åtgärder inom Kriminalitet
 

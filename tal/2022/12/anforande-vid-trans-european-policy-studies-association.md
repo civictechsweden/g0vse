@@ -1,9 +1,8 @@
 # Anförande vid Trans European Policy Studies Association
 
-Den 2 december talade EU\-minister Jessika Rosvall vid konferensen för Trans European Policy Studies Association (TEPSA). Fokus för konferensen var bland annat det svenska ordförandeskapet i EU:s ministerråd i ljuset av kriget i Ukraina, det ekonomiska läget och energikrisen.
+Den 2 december talade EU-minister Jessika Rosvall vid konferensen för Trans European Policy Studies Association (TEPSA). Fokus för konferensen var bland annat det svenska ordförandeskapet i EU:s ministerråd i ljuset av kriget i Ukraina, det ekonomiska läget och energikrisen.
 
 Talet är publicerat på engelska. Det talade ordet gäller.
-
 
 Ladies and gentlemen, dear friends,
 
@@ -15,7 +14,7 @@ From past experience, we know that this is an opportunity to play a leading role
 
 Our Government took office just three months before Sweden takes over the Presidency. That poses quite a challenge.
 
-But I believe that starting the term of office with the Presidency is the ideal way to forge a strong, pro\-EU government, which we will need for our whole term and beyond.
+But I believe that starting the term of office with the Presidency is the ideal way to forge a strong, pro-EU government, which we will need for our whole term and beyond.
 
 What more could one wish for as Minister for EU Affairs?
 
@@ -45,21 +44,21 @@ And we need strategic relationships with many other countries. Especially with a
 
 The EU needs to diversify supply chains. We cannot afford to put all our eggs in one basket. As former Commissioner Malmström is well aware, the Union must establish open, strong and sustainable trade relations around the world to accomplish this. We will thus work for open trade with partners like Australia and New Zealand, like Mexico and Chile, like India, Indonesia, and MERCOSUR.
 
-As a Union, we must promote our strategic interests and our values in this cooperation. We must remain the principal champion of a rules\-based world order. We must continue to stand for what has served us so well in the past.
+As a Union, we must promote our strategic interests and our values in this cooperation. We must remain the principal champion of a rules-based world order. We must continue to stand for what has served us so well in the past.
 
 Second, we must step up efforts to combat climate change.
 
-As Sweden and several other EU countries have already shown, economic growth and innovation can go hand in hand with lowering greenhouse\-gas emissions. Businesses are in fact demanding that we speed up the green transition.
+As Sweden and several other EU countries have already shown, economic growth and innovation can go hand in hand with lowering greenhouse-gas emissions. Businesses are in fact demanding that we speed up the green transition.
 
 Energy policy plays a key role in this transition. To combat climate change, we must phase out fossil fuels. And Russia has now made it clear to us just how urgently we must phase out any dependency on their gas.
 
-The only way forward is to invest in fossil\-free and reliable energy – wind, solar, hydroelectric, hydrogen and nuclear power.
+The only way forward is to invest in fossil-free and reliable energy – wind, solar, hydroelectric, hydrogen and nuclear power.
 
 Similarly, investments in sustainable transport systems and other technological innovations provide great opportunities for society.
 
 This is the essence of the green transition.
 
-Third, we need effective regulation to promote well\-functioning markets, competition and innovation.
+Third, we need effective regulation to promote well-functioning markets, competition and innovation.
 
 We need to develop and deepen the single market – our crown jewel.
 
@@ -75,6 +74,6 @@ Needless to say, our fundamental values and the rule of law are important in and
 
 Strong compliance with the rule of law offers investors legal and political safeguards. It also increases the attractiveness and competitiveness of the single market.
 
-Moreover, it is our values\-based cooperation that makes the EU special and sets us apart from other powers and blocs in a competitive world. And it is our values that attract countries like Ukraine to our Union.
+Moreover, it is our values-based cooperation that makes the EU special and sets us apart from other powers and blocs in a competitive world. And it is our values that attract countries like Ukraine to our Union.
 
 Thank you for your contributions and recommendations for the Swedish Presidency. I look forward to a lively and engaging discussion, both today and in the months to come.

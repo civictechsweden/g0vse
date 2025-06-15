@@ -8,4 +8,4 @@ Skolverket föreslås bedöma och besluta om ansökningar om meriteringsnivå. S
 
 Medel har stegvis avsatts för alla delar av professionsprogrammet. Totalt uppgår medlen till 234,5 miljoner kronor från 2023 och framåt.
 
-Regeringen föreslår att lagstiftningen om ett nationellt professionsprogram ska träda i kraft den 1 januari 2025\.
+Regeringen föreslår att lagstiftningen om ett nationellt professionsprogram ska träda i kraft den 1 januari 2025.

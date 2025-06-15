@@ -4,4 +4,4 @@ En särskild utredare ska utreda och ta ställning till om det bör införas en 
 
 Om utredaren kommer fram till att en sådan möjlighet bör införas ska denne redovisa de författningsförslag som behövs i patentlagstiftningen och eventuell annan lagstiftning.
 
-Uppdraget ska redovisas senast den 15 mars 2012\.
+Uppdraget ska redovisas senast den 15 mars 2012.

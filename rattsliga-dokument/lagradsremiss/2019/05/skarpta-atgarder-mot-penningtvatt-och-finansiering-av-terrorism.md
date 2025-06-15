@@ -10,9 +10,8 @@ Förslagen i huvudsak:
 * Utrymmet för att vidta förenklade åtgärder för kundkännedom i fråga om anonyma betalningsinstrument ska begränsas.
 * Skyddet för visselblåsare ska utökas, framför allt genom nya bestämmelser om rätt till skadestånd.
 * Finansinspektionen ska i större utsträckning samarbeta och utbyta
-information med Europeiska centralbanken och utländska tillsynsmyndigheter.
-
+  information med Europeiska centralbanken och utländska tillsynsmyndigheter.
 
 I lagrådsremissen föreslås dessutom att skyldigheten för t.ex. verksamhetsutövare att lämna uppgifter till Finanspolissektionen vid Polismyndigheten också ska gälla i förhållande till Säkerhetspolisen.
 
-Lagändringarna föreslås i huvudsak träda i kraft den 1 januari 2020\.
+Lagändringarna föreslås i huvudsak träda i kraft den 1 januari 2020.

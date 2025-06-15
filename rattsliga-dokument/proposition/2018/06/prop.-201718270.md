@@ -26,4 +26,4 @@ Regeringen föreslår också att lagen om särskild bestämmelse om bostadsbidra
 
 Regeringen föreslår att Försäkringskassan får direktåtkomst till vissa uppgifter i Skatteverkets beskattningsdatabas. Detta om myndigheten behöver uppgifterna i ärenden om föräldrars betalningsskyldighet för underhållsstöd.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2019\.
+Lagändringarna föreslås träda i kraft den 1 januari 2019.

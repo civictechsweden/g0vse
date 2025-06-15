@@ -6,8 +6,8 @@ Regeringens förslag innebär att totalt 27,5 miljoner kronor ska avsättas för
 
 Statsbidraget till särskilda insatser på skolområdet förstärks med 20 miljoner kronor. Förstärkningen gäller den del som går till kostnader för att inrätta eller utveckla anpassade lärmiljöer med få elever och hög personaltäthet i grundskolan eller gymnasieskolan. Denna del av statsbidraget omfattar i dag 40 miljoner kronor.
 
-2,5 miljoner kronor går till Specialpedagogiska skolmyndigheten (SPSM) för att myndigheten ska nå ut bredare med deras stödinsatser och material inom NPF\-området. Syftet är att huvudmännen ska få större kunskap om det stöd SPSM kan erbjuda.
+2,5 miljoner kronor går till Specialpedagogiska skolmyndigheten (SPSM) för att myndigheten ska nå ut bredare med deras stödinsatser och material inom NPF-området. Syftet är att huvudmännen ska få större kunskap om det stöd SPSM kan erbjuda.
 
 5 miljoner kronor går till kompetensutveckling inom specialpedagogik. Skolverket och SPSM ska bland annat ta fram kompetensutvecklingsinsatser om hur utbildningen kan anpassas för barn och elever med NPF.
 
-Regeringen avser att överlämna förslaget till riksdagen i vårändringsbudgeten för 2023\. Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
+Regeringen avser att överlämna förslaget till riksdagen i vårändringsbudgeten för 2023. Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

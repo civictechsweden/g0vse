@@ -2,8 +2,7 @@
 
 I samband med energirådet den 8 juni undertecknades två politiska avsiktsförklaringar för ett ökat energisamarbete inom norden och Europa.
 
-
-Den ena deklarationen gäller regionalt samarbete mellan de nordiska EU\-länderna, Tyskland, Polen och Baltikum i det så kallade Baltic Energy Market Interconnection Plan (BEMIP). BEMIP\-samarbetet inleddes 2009 för att bryta de baltiska ländernas isolering på den europeiska energimarknaden. I och med undertecknandet uppdateras och utvidgas samarbetet.
+Den ena deklarationen gäller regionalt samarbete mellan de nordiska EU-länderna, Tyskland, Polen och Baltikum i det så kallade Baltic Energy Market Interconnection Plan (BEMIP). BEMIP-samarbetet inleddes 2009 för att bryta de baltiska ländernas isolering på den europeiska energimarknaden. I och med undertecknandet uppdateras och utvidgas samarbetet.
 
 Ladda ner:
 

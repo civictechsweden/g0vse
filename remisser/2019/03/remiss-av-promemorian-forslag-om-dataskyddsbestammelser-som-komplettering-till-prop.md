@@ -4,6 +4,5 @@ Här kan du ta del av till vilka instanser som Utbildningsdepartementet har remi
 propositionen Ny ordning för att främja god sed och hantera
 oredlighet i forskning.
 
-
 Remissvaren ska ha kommit in till Utbildningsdepartementet senast den
-7 maj 2019\.
+7 maj 2019.

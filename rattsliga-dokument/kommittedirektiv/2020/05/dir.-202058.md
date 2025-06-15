@@ -1,6 +1,6 @@
 # Översyn av artskyddsförordningen
 
-En särskild utredare ska se över artskyddsförordningen och ta ställning till om ändringar i miljöbalkens ersättningsbestämmelser eller andra delar av balken är nödvändiga för att översynens syfte ska kunna nås. Slutredovisningsdatumet för utredningen är framflyttat till den 10 juni 2021\.
+En särskild utredare ska se över artskyddsförordningen och ta ställning till om ändringar i miljöbalkens ersättningsbestämmelser eller andra delar av balken är nödvändiga för att översynens syfte ska kunna nås. Slutredovisningsdatumet för utredningen är framflyttat till den 10 juni 2021.
 
 Utredaren ska bland annat:
 
@@ -13,6 +13,6 @@ Utredaren ska bland annat:
 * föreslå ett förbud mot äggsamlingar och utreda om det behövs särskilda bestämmelser om skadestånd vid brott mot skyddade arter, samt andra ändringar i lagstiftningen i syfte att bättre förebygga och bekämpa artskyddsrelaterad brottslighet
 * lämna de författningsförslag och eventuella förslag på övriga åtgärder som bedöms nödvändiga.
 
-Uppdraget skulle redovisas den 14 maj 2021\.
+Uppdraget skulle redovisas den 14 maj 2021.
 
-Slutredovisningsdatumet för utredningen är framflyttat till den 10 juni 2021\.
+Slutredovisningsdatumet för utredningen är framflyttat till den 10 juni 2021.

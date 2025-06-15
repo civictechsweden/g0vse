@@ -8,4 +8,4 @@ En bestämmelse om vilka krav som kan ställas på en bil  för att anpassnings
 
 En funktionskontroll av anpassningar ska göras om det inte är uppenbart obehövligt.
 
-Författningsändringen föreslås träda i kraft den 1 januari 2017\.
+Författningsändringen föreslås träda i kraft den 1 januari 2017.

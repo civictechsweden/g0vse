@@ -10,4 +10,4 @@ fastighetsägaren. Det föreslås att stöd endast får ges för åtgärder på 
 
 Boverket ska enligt förslaget administrera och besluta om stöd.
 
-Förordningen föreslås träda ikraft den 1 januari 2021\.
+Förordningen föreslås träda ikraft den 1 januari 2021.

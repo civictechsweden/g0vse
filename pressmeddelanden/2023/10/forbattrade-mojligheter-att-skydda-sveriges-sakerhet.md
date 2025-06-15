@@ -8,4 +8,4 @@ En utredare får därför i uppdrag att se över statens möjlighet att kunna in
 
 I uppdraget ingår även bland annat att föreslå ett system med tvångsåtgärder i säkerhetsskyddslagen som ska kunna tillämpas vid brådskande situationer när en aktivitet kan skada Sveriges säkerhet.
 
-Uppdraget ska redovisas senast den 29 november 2024\.
+Uppdraget ska redovisas senast den 29 november 2024.

@@ -4,10 +4,10 @@ Redovisningen av uppdraget ändras och utredningstiden förlängs.
 
 Regeringen beslutade den 18 december 2017 kommittédirektiv om en
 kommitté för Sveriges deltagande i världsutställningen Expo 2020 i Dubai
-(dir. 2017:130\). Enligt direktiven skulle uppdraget redovisas senast den 1
-september 2021\.
+(dir. 2017:130). Enligt direktiven skulle uppdraget redovisas senast den 1
+september 2021.
 Tidpunkten för världsutställningen har skjutits upp till den 1 oktober 2021–
-31 mars 2022\. Kommittén får nu i uppdrag att
+31 mars 2022. Kommittén får nu i uppdrag att
 • ta fram en plan för arbetet under den mellanperiod på ett år som nu
 uppstår, med en ambitionsnivå präglad av återhållsamhet i
 resursutnyttjandet,

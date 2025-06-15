@@ -8,4 +8,4 @@ I de fall vårdgarantin inte uppfylls ska utredaren också analysera och lämna 
 
 I utredarens uppdrag ingår också att ge förslag på hur patienter kan få tillgång till fast läkarkontakt i relevanta delar av den specialiserade vården, samt att lämna förslag på statliga engångsinsatser som syftar till att öka en enskild regions eller samtliga regioners förutsättningar att korta väntetiderna.
 
-Anna Nergårdh är överläkare och specialist i kardiologi och internmedicin. Hon har tidigare varit särskild utredare för utredningen Samordnas utveckling för en modern, jämlik, tillgänglig och effektiv vård med fokus på primärvården (Dir. 2017:24\).
+Anna Nergårdh är överläkare och specialist i kardiologi och internmedicin. Hon har tidigare varit särskild utredare för utredningen Samordnas utveckling för en modern, jämlik, tillgänglig och effektiv vård med fokus på primärvården (Dir. 2017:24).

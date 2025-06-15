@@ -6,4 +6,4 @@ Den som tillhanda­håller en för­betald tjänst ska regist­rera uppgifter om
 
 Dessutom föreslår rege­ringen ändrade regler om utläm­nande av upp­gifter om elektro­nisk kommu­nika­tion till brotts­bekäm­pande myndig­heter. Förslagen innebär ett tydli­gare krav på format, ett utvidgat skynd­sam­hets­krav och en utvidgad reglering om ersättning.
 
-Lagändringen föreslås träda i kraft den 1 augusti 2022\.
+Lagändringen föreslås träda i kraft den 1 augusti 2022.

@@ -14,7 +14,7 @@ Skatteverket redovisar årligen folkbokföringsfelets storlek till regeringen. D
 
 ## Ökad kontroll av samordningsnummer
 
-Skatteverket ska också redovisa hur fler kontroller av samordningsnummer kan genomföras. Det handlar om att beskriva hur myndigheten kommer att omhänderta underrättelser om misstänkta fel i folkbokföringsdatabasen om personer med samordningsnummer och hur Skatteverket förberett sig inför att nya regler för att stärka identitets­kontrollen träder i kraft den 1 september 2023\. Skatteverket ska även redo­visa utfallet av de beslut som fattats med anledning av tidsfristen inom vilken ett samordningsnummer ska förklaras vilande.
+Skatteverket ska också redovisa hur fler kontroller av samordningsnummer kan genomföras. Det handlar om att beskriva hur myndigheten kommer att omhänderta underrättelser om misstänkta fel i folkbokföringsdatabasen om personer med samordningsnummer och hur Skatteverket förberett sig inför att nya regler för att stärka identitets­kontrollen träder i kraft den 1 september 2023. Skatteverket ska även redo­visa utfallet av de beslut som fattats med anledning av tidsfristen inom vilken ett samordningsnummer ska förklaras vilande.
 
 ## Information och folkbokföringsdeklaration
 
@@ -24,4 +24,4 @@ Skatteverket ska även lämna förslag som riktar sig brett i samhället och ök
 
 Skatteverket ska samverka med de statliga myndigheter och övriga aktörer som Skatteverket anser nödvändiga samt inhämta synpunkter från bland annat Migrationsverket, Polismyndigheten Statistiska centralbyrån och ett urval av kommuner.
 
-Uppdraget ska redovisas senast den 4 september 2023\.
+Uppdraget ska redovisas senast den 4 september 2023.

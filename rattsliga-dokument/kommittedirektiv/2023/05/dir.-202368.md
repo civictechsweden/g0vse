@@ -10,4 +10,4 @@ I direktivet fastställs minimikrav för att stärka tillämpningen av principen
 * med utgångspunkt i den svenska arbetsmarknadsmodellen, arbetsmarknadens parters autonomi och diskrimineringslagens systematik ta ställning till och motivera vad som är nödvändigt för att direktivet ska genomföras i Sverige, och
 * vid behov lämna nödvändiga författningsförslag och förslag på andra åtgärder som är nödvändiga för att genomföra direktivet.
 
-Uppdraget ska redovisas senast den 31 maj 2024\.
+Uppdraget ska redovisas senast den 31 maj 2024.

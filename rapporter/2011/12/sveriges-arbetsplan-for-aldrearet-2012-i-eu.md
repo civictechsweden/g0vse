@@ -4,9 +4,9 @@ Europeiska unionen har sedan 1983 anordnat särskilda temaår för att uppmärks
 
 Året syftar till att underlätta skapandet av en kultur för aktivt åldrande i Europa som grundar sig på ett samhälle för alla åldrar.
 
-I Sverige \- liksom i övriga europeiska länder \- går vi mot en demografisk utveckling med en ökande andel äldre människor i befolkningen. Fram till 2050 förväntas andelen invånare över 65 år i befolkningen öka från dagens cirka 17 procent till cirka 25 procent.
+I Sverige - liksom i övriga europeiska länder - går vi mot en demografisk utveckling med en ökande andel äldre människor i befolkningen. Fram till 2050 förväntas andelen invånare över 65 år i befolkningen öka från dagens cirka 17 procent till cirka 25 procent.
 
-Antalet personer över 85 år förväntas öka med 50 procent de kommande 20 åren och förväntas ha fördubblats till 2050\. Den demografiska utvecklingen kommer att påverka den ekonomiska och sociala utvecklingen, välfärden och hälso\- och sjukvården och omsorgen samt den enskilda människans välbefinnande.
+Antalet personer över 85 år förväntas öka med 50 procent de kommande 20 åren och förväntas ha fördubblats till 2050. Den demografiska utvecklingen kommer att påverka den ekonomiska och sociala utvecklingen, välfärden och hälso- och sjukvården och omsorgen samt den enskilda människans välbefinnande.
 
 Istället för att ensidigt fokusera på funktionsnedsättningar och oförmåga i diskussioner om äldre, bör betoningen ligga på möjligheter och förmåga.
 

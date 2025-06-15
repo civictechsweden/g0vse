@@ -2,7 +2,6 @@
 
 Almedalen den 28 juni. Det talade ordet gäller.
 
-
 Stort tack!
 
 Det är inte alla partier som har en tidigare försvarsminister som partisekreterare. Men det har Moderaterna. Kajsa, tack för vårt fina samarbete!
@@ -19,15 +18,15 @@ Att under en eftermiddag få samtala med fyra generationer Erlander, två genera
 
 Låt oss ha tuffa politiska debatter i sak, men ändå ibland kunna samlas runt lägerelden och grilla korv – precis som vi gjorde på Harpsund. Så vill jag fortsätta leda Sverige.
 
-Att komma tillbaka hit till Almedalen väcker även ett helt annat minne: förra årets avskyvärda mord på Ing\-Marie Wieselgren, bara några steg härifrån.
+Att komma tillbaka hit till Almedalen väcker även ett helt annat minne: förra årets avskyvärda mord på Ing-Marie Wieselgren, bara några steg härifrån.
 
-Jag lärde känna Ing\-Marie redan 2006, när jag var socialborgarråd i Stockholm och jobbade med frågor om psykisk ohälsa. Hon förkroppsligade så mycket som är så bra i Sverige:
+Jag lärde känna Ing-Marie redan 2006, när jag var socialborgarråd i Stockholm och jobbade med frågor om psykisk ohälsa. Hon förkroppsligade så mycket som är så bra i Sverige:
 
 alltid kunskap och vetenskap i centrum. Alltid med känslomässig empati. Och alltid nyfiken på att lösa de svåraste problemen. Och så hade hon läkarens självklara ideal: att bota, lindra och trösta.
 
-En av de sista gångerna jag hörde Ing\-Marie var i P1:s ”Tankar för dagen”. Hon pratade om varför vi måste bevara hoppet också i tider av oro. Jag tror att Ing\-Marie hade önskat att vi för den hoppfullheten vidare. Att vi fortsätter samtala, diskutera och lära nytt. Och att vi fortsätter skydda det ömtåliga öppna samhället.
+En av de sista gångerna jag hörde Ing-Marie var i P1:s ”Tankar för dagen”. Hon pratade om varför vi måste bevara hoppet också i tider av oro. Jag tror att Ing-Marie hade önskat att vi för den hoppfullheten vidare. Att vi fortsätter samtala, diskutera och lära nytt. Och att vi fortsätter skydda det ömtåliga öppna samhället.
 
-Låt oss hedra Ing\-Maries minne med en stunds tystnad.
+Låt oss hedra Ing-Maries minne med en stunds tystnad.
 
 När jag tillträdde som statsminister, så sa jag att förändring inte bara är nödvändig – utan att förändring också är möjlig. Att det är svårt och att det tar tid – men att det faktiskt går. Vi fick det mandatet och de senaste åtta månaderna har vi bevisat att det går.
 
@@ -87,11 +86,11 @@ Det är tuffa tider nu – både hemma och i omvärlden. Inflationen plågar hus
 
 Även välfärden står inför sina tuffaste år på många år. Allt från skolmat till läkemedel kostar mer, och det gör även pensionerna.
 
-Jag lovar: Vi kommer att hålla i pengarna. Men regeringen kommer inte lämna vården, skolan och omsorgen åt sitt öde. Alla som sliter i hemtjänsten, alla lärare som får 7\-åringar att knäcka läskoden och alla barnmorskor som hjälper ännu ett barn till världen – ni ska veta att vi värnar ert viktiga arbete. I höstens budget kommer vi att prioritera välfärden.
+Jag lovar: Vi kommer att hålla i pengarna. Men regeringen kommer inte lämna vården, skolan och omsorgen åt sitt öde. Alla som sliter i hemtjänsten, alla lärare som får 7-åringar att knäcka läskoden och alla barnmorskor som hjälper ännu ett barn till världen – ni ska veta att vi värnar ert viktiga arbete. I höstens budget kommer vi att prioritera välfärden.
 
 Vi har haft en blodig start på sommaren. Varje dag nya skjutningar, bomber och knivdåd. Det här händer hela tiden – men det är inte normalt, utan extremt. Låt oss inte normalisera det extrema.
 
-Våldet kryper ner i åldrarna. Tioåringar lockas med hamburgare, och 15\-åringar mördar för pengar och prestige. Inget annat land i Europa är ens i närheten. Och låt oss göra upp med knark\-myten: Narkotikan är förfärlig och den ska bekämpas – men den finns i alla länder. Bara Sverige har en epidemi av dödsskjutningar.
+Våldet kryper ner i åldrarna. Tioåringar lockas med hamburgare, och 15-åringar mördar för pengar och prestige. Inget annat land i Europa är ens i närheten. Och låt oss göra upp med knark-myten: Narkotikan är förfärlig och den ska bekämpas – men den finns i alla länder. Bara Sverige har en epidemi av dödsskjutningar.
 
 Det sägs ofta att samhället borde komma in tidigare – helt rätt. Problemet är att systemet tvärtom är byggt för att samhället ska komma in för sent.
 
@@ -99,7 +98,7 @@ Sekretesshinder – så att polis, socialtjänst och skola inte ska kunna prata 
 
 På punkt efter punkt kommer kommunens och statens reaktioner för sent. Och när barnen väl begår brott, så fortsätter samhället att sticka huvudet i sanden.
 
-Minderåriga är mer eller mindre straffimmuna. Det värsta som kan hända är att socialtjänsten kallar till samtal eller att man placeras tillfälligt på ett SIS\-hem. Som man kan rymma ifrån – eller via mobilen hålla kontakten med sina kriminella kompisar på utsidan.
+Minderåriga är mer eller mindre straffimmuna. Det värsta som kan hända är att socialtjänsten kallar till samtal eller att man placeras tillfälligt på ett SIS-hem. Som man kan rymma ifrån – eller via mobilen hålla kontakten med sina kriminella kompisar på utsidan.
 
 All den här avsiktliga slappheten gör barn attraktiva för gängens ledare. Och allt detta tänker vi ändra på. För det finns ingen motsättning mellan det repressiva – alltså de tuffa tagen mot dem som redan begår brott – och det som är förebyggande, så att dagens barn inte blir morgondagens mördare. Ingen motsättning mellan det hårda och det mjuka. Båda behövs.
 
@@ -129,29 +128,29 @@ Det handlar om att upptäcka normbrytande beteende i tid. Men det handlar också
 
 Det understryker det uppenbara: Alla måste dra åt samma håll. Och det tidiga, det förebyggande är precis lika svårt och lika viktigt som det akuta, när problemen redan har blivit tydliga. Vi gör både och.
 
-Polisens insatser är helt avgörande, men de räcker inte. Sverige behöver en armé av engagerade vuxna som sätter gränser i vardagen mot anti\-socialt beteende.
+Polisens insatser är helt avgörande, men de räcker inte. Sverige behöver en armé av engagerade vuxna som sätter gränser i vardagen mot anti-socialt beteende.
 
-Ingen 15\-åring börjar sin brottslighet med beställningsmord. Det börjar ofta med våld i skolan, kanske mot en lärare, med grova könsord i korridoren. Eller med en första orosanmälan till socialtjänsten. Men ingen satte stopp i tid, trots att många i efterhand sa sig veta precis hur det skulle gå.
+Ingen 15-åring börjar sin brottslighet med beställningsmord. Det börjar ofta med våld i skolan, kanske mot en lärare, med grova könsord i korridoren. Eller med en första orosanmälan till socialtjänsten. Men ingen satte stopp i tid, trots att många i efterhand sa sig veta precis hur det skulle gå.
 
 Därför måste vi börja redan på MVC och BVC.
 
-I april besökte jag Lövgärdet i Göteborg – ett särskilt utsatt område. På Familjecentralen har de börjat arbeta enligt den framgångsrika Rinkebymodellen. Med tre gånger fler hembesök till alla förstagångsföräldrar. Inte bara BVC\-sköterskan kommer på besök, utan även en socionom som hjälper föräldrarna.
+I april besökte jag Lövgärdet i Göteborg – ett särskilt utsatt område. På Familjecentralen har de börjat arbeta enligt den framgångsrika Rinkebymodellen. Med tre gånger fler hembesök till alla förstagångsföräldrar. Inte bara BVC-sköterskan kommer på besök, utan även en socionom som hjälper föräldrarna.
 
 Så ska vi jobba över hela landet. Regeringen satsar hundratals miljoner kronor de kommande åren på fler hembesök hos familjer i utsatta områden. För alla barn ska få samma chans.
 
 Alla kommer inte uppskatta den här breda offensiven. En del kommer ogilla att samhället knackar på dörren. Några kommer klaga på särbehandling. Men vi måste tänka nytt. Vi måste lägga ängsligheten åt sidan och gripa in tidigare och tydligare. Det vi hittills gjort har inte fungerat.
 
-Sverige har gjort en liknande resa förut. Många av det tidiga 1900\-talets sociala problem har nu dykt upp igen. Extrem trångboddhet, problem med tandhälsa och barn som far illa.
+Sverige har gjort en liknande resa förut. Många av det tidiga 1900-talets sociala problem har nu dykt upp igen. Extrem trångboddhet, problem med tandhälsa och barn som far illa.
 
-I SVT\-journalisten Diamant Salihus bok ”Tills alla dör” berättas om en lärare som frågar en pojke varför han är så trött när han kommer till skolan. ”Sover du med dina syskon?” frågar läraren. ”Nej, du vet, jag sover där man ställer skorna när man kommer in”. Han blev sedan en av ledargestalterna i gänget som kallas Dödspatrullen.
+I SVT-journalisten Diamant Salihus bok ”Tills alla dör” berättas om en lärare som frågar en pojke varför han är så trött när han kommer till skolan. ”Sover du med dina syskon?” frågar läraren. ”Nej, du vet, jag sover där man ställer skorna när man kommer in”. Han blev sedan en av ledargestalterna i gänget som kallas Dödspatrullen.
 
 Vi bekämpade en gång Fattigsverige med en blandning av rationell syn på kunskap, närgångna sociala reformer, familjeplanering och skötsamhetsideal. Jag tror att vi måste göra något liknande igen.
 
 Från vänstern hörs alltid ett och samma svar: mer resurser! Och visst behöver skolan och socialtjänsten resurser för att göra sitt jobb. Det fattar de flesta och Sverige gör mer än nästan alla andra länder.
 
-Men bara mer resurser hjälper inte mot de föräldrar som säger nej till socialtjänstens insatser. Bara mer resurser hjälper inte mot frånvarande pappor eller mot mammor som fastnar i rundgång mellan SFI\-kurs och barnafödande.
+Men bara mer resurser hjälper inte mot de föräldrar som säger nej till socialtjänstens insatser. Bara mer resurser hjälper inte mot frånvarande pappor eller mot mammor som fastnar i rundgång mellan SFI-kurs och barnafödande.
 
-Och bara mer resurser hjälper inte mot 6\-åringar som börjar skolan utan att tala svenska. Det hjälper inte heller mot våld i hemmet, klanvälde, hederskultur, desinformationskampanjer eller de sunkiga machoideal som frodas bland grabbarna i gängen.
+Och bara mer resurser hjälper inte mot 6-åringar som börjar skolan utan att tala svenska. Det hjälper inte heller mot våld i hemmet, klanvälde, hederskultur, desinformationskampanjer eller de sunkiga machoideal som frodas bland grabbarna i gängen.
 
 För att ändra normer och värderingar krävs mer än nya projektpengar.
 

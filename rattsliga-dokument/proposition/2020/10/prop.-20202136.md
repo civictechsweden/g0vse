@@ -12,4 +12,4 @@ Det föreslås i huvudsak att
 * det ska införas ett krav på godkännande för vissa finansiella holdingföretag och blandade finansiella holdingföretag, och
 * det ska införas ett krav på grupper från länder utanför EES att etablera intermediära moderföretag inom EES.
 
-Lagändringarna föreslås i huvudsak träda i kraft den 29 december 2020\.
+Lagändringarna föreslås i huvudsak träda i kraft den 29 december 2020.

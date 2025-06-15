@@ -8,4 +8,4 @@ För vissa situationer föreslås att en samtidig justering ska göras av avdrag
 
 Förslaget medför ändringar i inkomstskattelagen.
 
-Ändringarna föreslås träda i kraft den 1 januari 2021\.
+Ändringarna föreslås träda i kraft den 1 januari 2021.

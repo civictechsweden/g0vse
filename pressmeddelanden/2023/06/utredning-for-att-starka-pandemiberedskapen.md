@@ -9,7 +9,7 @@ Direktivet till den utredning om stärkt beredskap inför framtida pandemier som
 3. Analysera och ta ställning till vissa organisatoriska frågor som rör smittskyddsläkare.
 4. Analysera och föreslå hur ett nationellt samordningsansvar för vårdhygienfrågor bör utformas.
 
-I och med beslutet om en ny utredning om pandemiberedskap har regeringen också beslutat om ett tilläggsdirektiv till Utredningen om författningsberedskap inför framtida pandemier från 2021\. Tillägget innebär att den tidigare utredningen inte längre ska göra en översyn av smittskyddslagen och en översyn av behovet av nya bestämmelser för att motverka trängsel.
+I och med beslutet om en ny utredning om pandemiberedskap har regeringen också beslutat om ett tilläggsdirektiv till Utredningen om författningsberedskap inför framtida pandemier från 2021. Tillägget innebär att den tidigare utredningen inte längre ska göra en översyn av smittskyddslagen och en översyn av behovet av nya bestämmelser för att motverka trängsel.
 
 ### Folkhälsomyndighetens verksamhet analyseras av Statskontoret
 

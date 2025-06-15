@@ -2,16 +2,15 @@
 
 Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Turkiet samt en länk till rapporten i sin helhet.
 
-
 Turkiet har övergått från att vara en parlamentarisk republik till en exekutiv presidentrepublik. Regelbundna allmänna val hålls.
 
 Respekten för de mänskliga rättigheterna, demokrati och rättsstatens principer urholkas fortlöpande. Situationen präglas av det tvååriga undantagstillstånd som infördes efter kuppförsöket 2016 och påföljande lagändringar, vilka har försvagat viktiga demokratiska kontrollmekanismer och stärkt presidentämbetet ytterligare. Inte minst rättsväsendets oberoende och rättssäkerheten har undergrävts. Europadomstolens domar verkställs inte konsekvent. Korruption fortsätter att vara ett utbrett problem.
 
 Lagar mot terrorism och brott mot staten, liksom anklagelser om förtal av presidenten, används för att tysta oliktänkande och regimkritiker. Detta gäller även oppositionspolitiker, särskilt från det prokurdiska Folkets demokratiska parti (HDP).
 
-Den negativa utvecklingen fortsätter avseende yttrande\-, press\- och informationsfriheten, med trakasserier av rättslig karaktär, frihetsberövanden, hot och våld mot journalister, övervakning, regleringar och självcensur.
+Den negativa utvecklingen fortsätter avseende yttrande-, press- och informationsfriheten, med trakasserier av rättslig karaktär, frihetsberövanden, hot och våld mot journalister, övervakning, regleringar och självcensur.
 
-Det civila samhället i Turkiet är aktivt, men dess utrymme att verka krymper, bland annat som ett resultat av nya lagar. Rättsliga åtgärder och andra efterräkningar mot människorättsförsvarare och advokater som försvarar oppositionella har ökat. Hbtqi\-personer utsätts regelbundet för diskriminering.
+Det civila samhället i Turkiet är aktivt, men dess utrymme att verka krymper, bland annat som ett resultat av nya lagar. Rättsliga åtgärder och andra efterräkningar mot människorättsförsvarare och advokater som försvarar oppositionella har ökat. Hbtqi-personer utsätts regelbundet för diskriminering.
 
 2019 presenterade regeringen en handlingsplan för reformer inom rättsväsendet. 2021 presenterades en motsvarande handlingsplan för mänskliga rättigheter. Planerna har kritiserats för att sakna verkningsfulla åtgärder för att stärka rättsväsendets oberoende, säkra en effektiv maktdelning och förbättra skyddet för de mänskliga rättigheterna.
 

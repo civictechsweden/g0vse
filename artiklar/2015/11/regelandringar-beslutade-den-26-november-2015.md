@@ -9,17 +9,17 @@ I propositionen Tydligare redovisningsregler och nya rapporteringskrav för utvi
 ### Referenser:
 
 * Europaparlamentets och rådets direktiv 2013/34/EU av den 26 juni 2013 om årsbokslut, koncernredovisning och rapporter i vissa typer av företag, om ändring av Europaparlamentets och rådets direktiv 2006/43/EG och om upphävande av rådets direktiv 78/660/EEG och 83/349/EEG
-* regeringens proposition Tydligare redovisningsregler och nya rapporteringskrav för utvinningsindustrin (prop. 2015/16:3\)
+* regeringens proposition Tydligare redovisningsregler och nya rapporteringskrav för utvinningsindustrin (prop. 2015/16:3)
 * civilutskottets betänkande 2015/16:CU6
 * riksdagsskrivelse 2015/16:36
-* förordningen (1995:1145\) om redovisning av nätverksamhet
-* förordningen (2006:1051\) om redovisning och revision av överföring av naturgas, lagring av naturgas och drift av förgasningsanläggning
-* förordningen (2006:1203\) om redovisning av fjärrvärmeverksamhet
+* förordningen (1995:1145) om redovisning av nätverksamhet
+* förordningen (2006:1051) om redovisning och revision av överföring av naturgas, lagring av naturgas och drift av förgasningsanläggning
+* förordningen (2006:1203) om redovisning av fjärrvärmeverksamhet
 
 ### Mer information
 
-Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 8 december 2015\.
+Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 8 december 2015.
 
 **Kontaktperson:**
 
-Andreas Lindholm 08\-405 14 54
+Andreas Lindholm 08-405 14 54

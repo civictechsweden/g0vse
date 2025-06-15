@@ -1,11 +1,10 @@
 # ”Antisemitism är en skamfläck för vårt land”
 
-Vi ser nu en våg av antisemitism, både i Sverige och andra länder. Vi har ett gemensamt ansvar att aldrig låta det offentliga samtalet förgiftas av dem som hatar. Det skriver statsminister Ulf Kristersson i en debattartikel i Svenska Dagbladet den 9 november 2023\.
-
+Vi ser nu en våg av antisemitism, både i Sverige och andra länder. Vi har ett gemensamt ansvar att aldrig låta det offentliga samtalet förgiftas av dem som hatar. Det skriver statsminister Ulf Kristersson i en debattartikel i Svenska Dagbladet den 9 november 2023.
 
 Efter Förintelsen var Sverige ett av de länder som välkomnade judar till ett liv i fred och frihet. Och trots att även Sverige bär på ett mörkt arv, så känner vi stolthet över Raoul Wallenberg och räddnings­aktionen över Öresund som hjälpte tusentals danska judar i säkerhet. Efter kriget blev vi en fristad för judar och judiskt liv.
 
-Men i dagens Sverige är detta inte längre självklart. I mina många möten med företrädare för den judiska gemenskapen hör jag förfärliga berättelser om rå och ogenerad antisemitism. Mammor och pappor som själva har vuxit upp i Sverige frågar sig om de ska tvingas göra som sina egna far\- eller morföräldrar och flytta till ett tryggare land, där man kan lämna barnen på skolan, besöka synagogan eller bära sin davids­stjärna utan rädsla. Det gör ont att höra.
+Men i dagens Sverige är detta inte längre självklart. I mina många möten med företrädare för den judiska gemenskapen hör jag förfärliga berättelser om rå och ogenerad antisemitism. Mammor och pappor som själva har vuxit upp i Sverige frågar sig om de ska tvingas göra som sina egna far- eller morföräldrar och flytta till ett tryggare land, där man kan lämna barnen på skolan, besöka synagogan eller bära sin davids­stjärna utan rädsla. Det gör ont att höra.
 
 Den här utvecklingen kommer jag och regeringen aldrig att acceptera. Ingen jude i Sverige ska behöva fråga sig om han eller hon vågar bo kvar i sitt eget land.
 
@@ -15,7 +14,7 @@ I vår demokrati får man naturligtvis ha olika åsikter även om den infekterad
 
 Dessa frågor engagerar många människor i vårt land. Men det vi ser nu är något helt annat: en våg av antisemitism, både i Sverige och andra länder. Judar hotas och trakasseras, och antalet antisemitiska uttalanden och dåd har ökat markant. Kritik mot Israel blandas med hat mot judar som grupp. Terror­romantik på svenska gator där Hamas slakt av civila – det största massmordet på judar sedan Förintelsen – firades med dans och fyrverkerier. Det är en skamfläck för Sverige och ett hot mot judiskt liv i vårt land.
 
-Antisemitismen är en av historiens äldsta och värsta farsoter. Den har genom seklerna odlat sina konspirations­teorier och nu enar den höger\- och vänster­extremister med extrema islamister. Nynazisterna och den autonoma vänstern har länge hotat judar. Nu ökar den hatiska propagandan som sprids av personer med sina rötter i Mellanöstern.
+Antisemitismen är en av historiens äldsta och värsta farsoter. Den har genom seklerna odlat sina konspirations­teorier och nu enar den höger- och vänster­extremister med extrema islamister. Nynazisterna och den autonoma vänstern har länge hotat judar. Nu ökar den hatiska propagandan som sprids av personer med sina rötter i Mellanöstern.
 
 Regeringens arbete mot antisemitism fokuserar på tre områden: att stärka judars trygghet och säkerhet i Sverige. Att uppmärksamma den judiska kulturen. Och att stärka utbildnings­insatserna och kunskapen om vår judiska minoritet, som snart funnits i Sverige i 250 år.
 

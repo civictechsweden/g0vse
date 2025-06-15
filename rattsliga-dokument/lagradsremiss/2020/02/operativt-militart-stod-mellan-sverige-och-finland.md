@@ -4,6 +4,6 @@ Det fördjupade försvarssamarbetet mellan Sverige och Finland syftar till att s
 
 I lagrådsremissen föreslås att det införs en ny lag för det operativa försvarssamarbetet med Finland, i vilken regeringen bemyndigas att fatta vissa beslut om att lämna respektive ta emot operativt militärt stöd inom ramen för samarbetet. Vidare föreslås ett antal lagändringar som syftar till att förbättra förutsättningarna för finska militära styrkor att lämna stöd till Sverige.
 
-Förslagen i lagrådsremissen bygger på de förslag som lämnats i betänkandet En lag om operativt militärt stöd mellan Sverige och Finland (SOU 2018:31\).
+Förslagen i lagrådsremissen bygger på de förslag som lämnats i betänkandet En lag om operativt militärt stöd mellan Sverige och Finland (SOU 2018:31).
 
-Den nya lagen och lagändringarna föreslås träda i kraft den 1 augusti 2020\.
+Den nya lagen och lagändringarna föreslås träda i kraft den 1 augusti 2020.

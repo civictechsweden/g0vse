@@ -8,7 +8,7 @@ Utredaren ska bl.a.
 * föreslå åtgärder som tillgodoser att folkbokföringen i största möjliga utsträckning innehåller korrekta uppgifter,
 * föreslå åtgärder som minskar risken för att oriktiga uppgifter blir registrerade i folkbokföringsdatabasen och förhindrar att en person blir folkbokförd där den inte är bosatt,
 * föreslå åtgärder som åstadkommer ett säkrare system för
-samordningsnummer och ökar numrens användbarhet i samhället, och
+  samordningsnummer och ökar numrens användbarhet i samhället, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 1 april 2021\.
+Uppdraget ska redovisas senast den 1 april 2021.

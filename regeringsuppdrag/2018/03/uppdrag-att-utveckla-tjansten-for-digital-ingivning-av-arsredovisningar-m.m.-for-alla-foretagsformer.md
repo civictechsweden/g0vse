@@ -2,5 +2,4 @@
 
 Regeringen uppdrar åt Bolagsverket att utveckla tjänsten för digital ingivning av årsredovisningar till att omfatta alla företagsformer som enligt gällande lagstiftning ska upprätta en årsredovisning och offentliggöra den genom att skicka den till Bolagsverket. Tjänsten ska också utvecklas så att koncernredovisningar kan offentliggöras på samma sätt. Arbetet bygger vidare på det uppdrag som Bolagsverket har haft att införa en tjänst för digital ingivning av årsredovisningar (dnr N2016/04957 /SUN). I uppdraget ingår också att fortsatt uppdatera och utveckla de taxonomier som behövs för uppdragets genomförande.
 
-
 Uppdraget ska slutredovisas senast den 31 mars 2021 till Regeringskansliet (Näringsdepartementet). I slutredovisningen till Regeringskansliet ska Bolagsverket lämna förslag på fortsatt arbete, samordning och förvaltning av begreppsstandarder, processer och tjänster för inlämnande och informationsutbyte av finansiell information mellan myndigheter och näringsliv.

@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Barnombudsmannen att under perioden 2017–2019 stödja kommuner och landsting i arbetet med att säkerställa tillämpningen av barnets rättigheter inom centrala verksamhetsområden.
 
-
 I uppdraget ingår att
 − kartlägga kommuners och landstings behov av stöd rörande tillämpningen av barnkonventionen,
 − erbjuda stöd till kommuner och landsting rörande ändamålsenlig vägledning, kunskap och kompetens avseende tolkning och tillämpning av barnets rättigheter,
@@ -14,4 +13,4 @@ I uppdraget ingår att
 Vad gäller uppdragets genomförande ska Barnombudsmannen föra en dialog med Sveriges Kommuner och Landsting (SKL),
 särskilt berörda statliga myndigheter, inklusive länsstyrelserna, och organisationer från det civila samhället.
 
-Uppdraget ska redovisas, inklusive en ekonomisk redovisning, senast den 30 mars 2020\.
+Uppdraget ska redovisas, inklusive en ekonomisk redovisning, senast den 30 mars 2020.

@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om stödet till kommuner för ökat bostadsbyggande
 
-I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och de rekommendationer till regeringen som Riksrevisionen har redovisat i rapporten Stödet till kommuner för ökat bostadsbyggande (RiR 2019:20\).
+I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och de rekommendationer till regeringen som Riksrevisionen har redovisat i rapporten Stödet till kommuner för ökat bostadsbyggande (RiR 2019:20).
 
 Riksrevisionens övergripande slutsats är att stödet inte har stimulerat ett ökat bostadsbyggande och att regeringen inte har utformat stödet så att det tydligt styr mot syftet att öka bostadsbyggandet. Det saknades reglering av vad det utbetalda stödet skulle användas till och stödets utformning gav inte kommunerna goda förutsättningar att följa upp användningen eller resultatet av stödet enligt Riksrevisionen.
 

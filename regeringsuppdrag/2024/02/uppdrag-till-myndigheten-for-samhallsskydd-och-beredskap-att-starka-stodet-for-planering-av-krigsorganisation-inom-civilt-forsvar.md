@@ -2,7 +2,6 @@
 
 Regeringen ger Myndigheten för samhällsskydd och beredskap (MSB) i uppdrag att stärka stödet för civila aktörers planering för att under höjd beredskap kunna övergå till krigsorganisation.
 
-
 Myndigheten ska:
 
 * Utveckla det stöd som redan finns kring krigsorganisation och krigsplacering med fokus på de delar som handlar om att ta fram en krigsorganisation.
@@ -12,4 +11,4 @@ Myndigheten ska:
 MSB ska vid behov föra dialog med sektorsansvariga myndigheter i
 genomförandet av uppdraget.
 
-Uppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 1 mars 2024\.
+Uppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 1 mars 2024.

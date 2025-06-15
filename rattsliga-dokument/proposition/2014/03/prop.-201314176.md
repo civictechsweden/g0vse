@@ -6,4 +6,4 @@ Syftet med lagen är att dels minska de restförda fordonsrelaterade skulderna t
 
 Det föreslås också att felparkerade fordon, vars registrerade ägare har sådana obetalade och förfallna skulder uppgående till visst belopp, ska få flyttas och att fordonet inte behöver återlämnas till ägaren förrän alla dessa skulder och kostnader i samband med flytten är betalade.
 
-Den nya lagen och de övriga författningsändringarna föreslås träda i kraft den 1 juli 2014\.
+Den nya lagen och de övriga författningsändringarna föreslås träda i kraft den 1 juli 2014.

@@ -10,4 +10,4 @@ Utredaren ska bland annat:
 * redogöra för hur den föreslagna anmälningsskyldigheten förhåller sig till andra former av anmälningsplikt och till arbetstagares lojalitetsplikt gentemot arbetsgivare, och
 * lämna de författningsförslag som utredaren bedömer som nödvändiga.
 
-Uppdraget ska redovisas senast den 31 mars 2011\.
+Uppdraget ska redovisas senast den 31 mars 2011.

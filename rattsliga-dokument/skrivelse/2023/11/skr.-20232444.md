@@ -2,7 +2,7 @@
 
 I skrivelsen redogör regeringen för sin bedömning av de iakttagelser och
 rekommendationer som Riksrevisionen lämnar i rapporten Reduktionsplikten
-– risker för genomförande och effektivitet (RiR 2023:13\).
+– risker för genomförande och effektivitet (RiR 2023:13).
 
 Riksrevisionens övergripande bedömning är att reduktionsplikten delvis
 kan bidra till att klimatpolitiska mål nås på ett effektivt sätt, men att

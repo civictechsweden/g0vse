@@ -10,4 +10,4 @@ I lagen anges att språket i domstolar, förvaltningsmyndigheter och andra organ
 
 Enligt förslaget ska det allmänna också ha ett ansvar för den enskildes tillgång till språk. Var och en som är bosatt i Sverige ska ges möjlighet att lära sig, utveckla och använda svenska. Den som tillhör en nationell minoritet och den som har behov av teckenspråk ska ges möjlighet att lära sig, utveckla och använda minoritetsspråket respektive det svenska teckenspråket. Den som har ett annat modersmål än de nu nämnda ska ges möjlighet att utveckla och använda sitt modersmål.
 
-Språklagen föreslås träda i kraft den 1 juli 2009\.
+Språklagen föreslås träda i kraft den 1 juli 2009.

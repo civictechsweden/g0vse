@@ -1,6 +1,6 @@
 # Afghanistan – först ut i ny säsong av UD-podden
 
-I sjunde säsongen av UD\-podden gör vi nedslag i Nigeria och vid världsutställningen i Dubai, Kristoffer Triumf reder också ut vilket stöd du kan förvänta dig om du råkar illa ut utomlands och vad biologisk mångfald har med UD att göra.
+I sjunde säsongen av UD-podden gör vi nedslag i Nigeria och vid världsutställningen i Dubai, Kristoffer Triumf reder också ut vilket stöd du kan förvänta dig om du råkar illa ut utomlands och vad biologisk mångfald har med UD att göra.
 
 I första avsnittet hör vi Jonas Westerlund berätta om hur det var att arbeta med ett av UD:s mest krävande uppdrag någonsin – evakueringsinsatsen vid Kabuls flygplats i augusti i år. Dessutom har vi med Per Olsson Fridh, minister för internationellt utvecklingssamarbete. Afghanistan är det land som tar emot störst bistånd från Sverige – vad händer med det nu? Är det möjligt att stötta Afghanistan utan att stötta talibanerna?
 
@@ -16,7 +16,7 @@ Afghanistan är det land som tar emot störst bistånd från Sverige. Vad hände
 
 ### Vad visar Sverige upp för omvärlden på världsutställningen i Dubai?
 
-Det är dags för världsutställning! Sveriges paviljong under Expo2020 i Dubai är helt byggd i trä och ledordet för Sveriges deltagande är hållbarhet. Varför deltar Sverige på en världsutställning? I detta skyltfönster mot omvärlden, vilka svenska lösningar visar vi upp? Och hur går ökad handel ihop med regeringens ambitiösa klimatmål? Kristoffer Triumf tar ett snack med Sveriges Expo2020\-general, Jan Thesleff.
+Det är dags för världsutställning! Sveriges paviljong under Expo2020 i Dubai är helt byggd i trä och ledordet för Sveriges deltagande är hållbarhet. Varför deltar Sverige på en världsutställning? I detta skyltfönster mot omvärlden, vilka svenska lösningar visar vi upp? Och hur går ökad handel ihop med regeringens ambitiösa klimatmål? Kristoffer Triumf tar ett snack med Sveriges Expo2020-general, Jan Thesleff.
 
 ### I knipa utomlands – vad kan en ambassad hjälpa till med?
 
@@ -28,4 +28,4 @@ Sverige och Nigeria har haft diplomatiska relationer i 60 år. Hur har relatione
 
 ### Vad har UD med biologisk mångfald att göra?
 
-Ett fokusområde för det svenska biståndet är skydd av biologisk mångfald och ekosystem. Artdöd och utarmning av ekosystem sker delvis p.g.a. klimatförändringarna men det är långtifrån den enda eller största orsaken. Vilka är farhågorna och hur kan biståndet hjälpa? UD\-podden gästas av UD:s handläggare för biologisk mångfald Charlotta Rodhe och Jan Wärnbäck som utifrån ambassaden i Nairobi arbetar med att stärka miljö, klimat och biologisk mångfald i utvecklingssamarbetet. Dessutom medverkar Janine Alm Ericson, statssekreterare hos ministern för internationellt utvecklingssamarbete.
+Ett fokusområde för det svenska biståndet är skydd av biologisk mångfald och ekosystem. Artdöd och utarmning av ekosystem sker delvis p.g.a. klimatförändringarna men det är långtifrån den enda eller största orsaken. Vilka är farhågorna och hur kan biståndet hjälpa? UD-podden gästas av UD:s handläggare för biologisk mångfald Charlotta Rodhe och Jan Wärnbäck som utifrån ambassaden i Nairobi arbetar med att stärka miljö, klimat och biologisk mångfald i utvecklingssamarbetet. Dessutom medverkar Janine Alm Ericson, statssekreterare hos ministern för internationellt utvecklingssamarbete.

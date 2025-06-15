@@ -1,6 +1,6 @@
 # Upphovsrätten på den digitala inre marknaden
 
-Regeringen föreslår nya regler på upphovsrättsområdet som syftar till att anpassa upphovsrätten till den senaste tekniska utvecklingen. Med förslagen genomförs EU\-direktivet om upphovsrätten på den digitala inre marknaden.
+Regeringen föreslår nya regler på upphovsrättsområdet som syftar till att anpassa upphovsrätten till den senaste tekniska utvecklingen. Med förslagen genomförs EU-direktivet om upphovsrätten på den digitala inre marknaden.
 
 Regeringen föreslår bland annat nya inskränkningar i upphovsrätten för att underlätta undervisning och forskning och för att kulturarvet ska kunna bevaras. Nya bestämmelser föreslås också för att förbättra förutsättningarna för att fritt kunna återge äldre konstverk.
 
@@ -10,4 +10,4 @@ Nya regler föreslås för att reglera ansvaret för leverantörer av tjänster 
 
 Slutligen föreslås ett antal bestämmelser som avser att stärka avtalspositionen för upphovsmän, utövande konstnärer och fotografer när de överlåter sina rättigheter till förlag, producenter, tidningar och andra aktörer på den upphovsrättsliga marknaden.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2023\.
+Lagändringarna föreslås träda i kraft den 1 januari 2023.

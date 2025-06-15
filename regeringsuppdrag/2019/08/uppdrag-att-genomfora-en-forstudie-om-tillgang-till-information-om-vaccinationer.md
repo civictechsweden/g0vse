@@ -1,7 +1,6 @@
 # Uppdrag att genomföra en förstudie om tillgång till information om vaccinationer
 
-Regeringen uppdrar åt E\-hälsomyndigheten och Folkhälsomyndigheten att se på om var och en på ett enkelt och digitalt sätt kan få uppgifterna samlade om vilka vaccinationer man fått.
-
+Regeringen uppdrar åt E-hälsomyndigheten och Folkhälsomyndigheten att se på om var och en på ett enkelt och digitalt sätt kan få uppgifterna samlade om vilka vaccinationer man fått.
 
 I uppdraget ingår att bland annat att:
 
@@ -13,4 +12,4 @@ I uppdraget ingår att bland annat att:
 
 Uppdraget görs i samverkan med berörda myndigheter, Sveriges Kommuner och Landsting, Inera AB och Smittskyddsläkarföreningen. Synpunkter ska hämtas in från bland annat privata vaccinationscentraler.
 
-Uppdraget redovisas till Socialdepartementet senast den 15 juni 2020\. E\-hälsomyndigheten samordnar arbetet.
+Uppdraget redovisas till Socialdepartementet senast den 15 juni 2020. E-hälsomyndigheten samordnar arbetet.

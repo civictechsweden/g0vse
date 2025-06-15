@@ -2,7 +2,6 @@
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen Transportstyrelsens förslag till ändringar avseende regleringen av marktjänster. Övriga eventuella yttranden utöver remisslistan, finns tillgängliga i departementet.
 
-
 ## Remissinstanser
 
 1. Riksdagens ombudsmän CTO)

@@ -6,4 +6,4 @@ En särskild utredare ska ges i uppdrag att inhämta ytterligare kunskap om två
 
 Utredaren ska göra en samlad översyn av relevant straffrättslig, civilrättslig och internationellt privaträttslig lagstiftning. Utredaren ska lägga fram de förslag till författningsändringar som behövs för att ytterligare stärka skyddet mot tvångsäktenskap och barnäktenskap.
 
-Uppdraget ska redovisas senast den 21 maj 2012\.
+Uppdraget ska redovisas senast den 21 maj 2012.

@@ -1,6 +1,6 @@
 # Insats för att stoppa välfärdsbrottslighet inom apoteksverksamhet
 
-– Det finns en växande problematik med oseriösa och kriminella aktörer inom hälso\- och sjukvården, bland annat apoteksverksamhet. Dessa angrepp blir alltmer systematiska och avancerade och det är något som regeringen ser allvarligt på, säger sjukvårdsminister Acko Ankarberg Johansson.
+– Det finns en växande problematik med oseriösa och kriminella aktörer inom hälso- och sjukvården, bland annat apoteksverksamhet. Dessa angrepp blir alltmer systematiska och avancerade och det är något som regeringen ser allvarligt på, säger sjukvårdsminister Acko Ankarberg Johansson.
 
 Arbetet med att kartlägga, förebygga, förhindra och upptäcka förekomsten av välfärdsbrottslighet inom apoteksverksamhet behöver stärkas.
 

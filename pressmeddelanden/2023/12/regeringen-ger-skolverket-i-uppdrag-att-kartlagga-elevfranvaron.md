@@ -6,6 +6,6 @@ Regeringen tillsatte i november en utredning som ska ta fram förslag för varak
 
 – Det är viktigt att vi följer utvecklingen så att vi kan vidta de åtgärder som behövs för att minska elevfrånvaron. Ett nationellt frånvaroregister ligger sannolikt en bit bort och vi behöver mer kunskap om frånvaron tidigare än så, säger Lotta Edholm.
 
-Uppdraget ges inom ramen för myndighetens regleringsbrev för 2024\. Kartläggningen ska ge en uppföljande nationell bild över omfattningen av elevfrånvaron sedan Skolverkets kartläggning 2021\.
+Uppdraget ges inom ramen för myndighetens regleringsbrev för 2024. Kartläggningen ska ge en uppföljande nationell bild över omfattningen av elevfrånvaron sedan Skolverkets kartläggning 2021.
 
-Uppdraget ska redovisas till Utbildningsdepartementet senast den 20 december 2024\.
+Uppdraget ska redovisas till Utbildningsdepartementet senast den 20 december 2024.

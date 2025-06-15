@@ -2,7 +2,7 @@
 
 – Regeringens plan för att trycka tillbaka den grova organiserade brottsligheten ligger fast: vi ska slå hårt mot det grova våldet, strypa den kriminella ekonomin och bryta rekryteringen av barn och unga. En avgörande del i detta är att ge polisen nya effektiva verktyg. Visitationszoner har varit ett användbart verktyg i Danmark för att kyla ned konflikter, till exempel bryta våldsspiraler och förhindra hämndaktioner. Det är också något som efterfrågats av den svenska Polismyndigheten i många år, säger justitieminister Gunnar Strömmer.
 
-Mot bakgrund av den allvarliga våldsutvecklingen fick utredaren Karin Erlingsson i uppdrag att undersöka och lämna förslag om hur ett system med tidsbegränsade och geografiskt avgränsade visitationszoner kan införas i Sverige. Utredningen skulle beakta de liknande verktyg som den danska polisen haft tillgång till sedan 2004\.
+Mot bakgrund av den allvarliga våldsutvecklingen fick utredaren Karin Erlingsson i uppdrag att undersöka och lämna förslag om hur ett system med tidsbegränsade och geografiskt avgränsade visitationszoner kan införas i Sverige. Utredningen skulle beakta de liknande verktyg som den danska polisen haft tillgång till sedan 2004.
 
 I promemorian föreslås att det införs regler i polislagen om ett system med så kallade säkerhetszoner, vilket enligt utredaren är ett mer rättvisande begrepp än visitationszoner.
 

@@ -10,4 +10,4 @@ Utredaren ska bland annat:
 * föreslå vilken omfattning aktiva åtgärder ska ha, och
 * utifrån sina förslag, lämna nödvändiga och fullständiga författningsförslag.
 
-Uppdraget ska redovisas senast den 1 november 2013\.
+Uppdraget ska redovisas senast den 1 november 2013.

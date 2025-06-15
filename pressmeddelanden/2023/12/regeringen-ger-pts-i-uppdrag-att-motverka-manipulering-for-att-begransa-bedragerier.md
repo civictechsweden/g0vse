@@ -1,6 +1,6 @@
 # Regeringen ger PTS i uppdrag att motverka manipulering för att begränsa bedrägerier
 
-PTS har under hösten tagit fram en vägledning för att begränsa manipulering av telefonnummer vid samtal, så kallad spoofing. Det innebär att en bedragare använder sig av förfalskad eller lånad identitet för att kunna lura av någon värdefull information; till exempel kortuppgifter, inloggning på bank eller signering med e\-legitimation.
+PTS har under hösten tagit fram en vägledning för att begränsa manipulering av telefonnummer vid samtal, så kallad spoofing. Det innebär att en bedragare använder sig av förfalskad eller lånad identitet för att kunna lura av någon värdefull information; till exempel kortuppgifter, inloggning på bank eller signering med e-legitimation.
 
 PTS arbetar med att ta fram regler till operatörerna för att förhindra detta. PTS behöver också utreda om de har de rättsliga förutsättningarna för att vidta nödvändiga åtgärder mot bedrägerier genom till exempel SMS.
 

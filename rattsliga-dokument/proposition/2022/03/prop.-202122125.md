@@ -9,4 +9,4 @@ Förslagen innebär i korthet:
 * nya regler om fyllnadsval som innebär att representationen i en nämnd, så långt det är möjligt, inte kommer förändras om en ledamot som valts proportionellt avgår under mandattiden.
 * ett förslag om att kommunallagens jävsbestämmelser för förtroendevalda i nämnder och anställda ska anpassas till lydelsen av motsvarande bestämmelse i förvaltningslagen
 
-Lagändringarna föreslås träda i kraft den 1 juli 2022\.
+Lagändringarna föreslås träda i kraft den 1 juli 2022.

@@ -5,4 +5,4 @@ En särskild utredare ska analysera och lämna förslag med anledning av Europap
 * undersöka vilka kompletterande författningsbestämmelser
 * föreslå vilken myndighet eller vilka myndigheter som lämpligen bör vara behörig myndighet respektive informationsmyndighet i Sverige.
 
-Uppdraget ska redovisas senast den 12 juni 2015\.
+Uppdraget ska redovisas senast den 12 juni 2015.

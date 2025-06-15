@@ -11,4 +11,4 @@ Förslagen handlar bland annat om att
 * ge fordringar som avser skade­stånd på grund av brott företräde framför opriori­terade fordringar vid löne­utmätning.
 
 Lagändringarna föreslås träda i kraft den 1 juli 2022, med undantag för
-lagändringen om ändrad före­trädes­ordning vid löne­utmätning som föreslås träda i kraft den 10 september 2022\.
+lagändringen om ändrad före­trädes­ordning vid löne­utmätning som föreslås träda i kraft den 10 september 2022.

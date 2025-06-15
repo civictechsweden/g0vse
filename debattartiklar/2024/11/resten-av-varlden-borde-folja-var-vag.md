@@ -1,13 +1,12 @@
 # "Resten av världen borde följa vår väg"
 
-Debattartikel av statsminister Ulf Kristersson och klimat\- och miljöminister Romina Pourmokhtari, Expressen, 20 november 2024\.
-
+Debattartikel av statsminister Ulf Kristersson och klimat- och miljöminister Romina Pourmokhtari, Expressen, 20 november 2024.
 
 För det första att det är bråttom. Vetenskapen slår gång på gång fast att de globala utsläppen måste minska. Klimatfrågan är en av vår tids stora ödesfrågor. De senaste veckornas extremväder i Spanien, där över 200 människor har omkommit, blixtbelyser problemet. Vetenskapen är tydlig med att extrema väderhändelser inte bara kommer förvärras – de kommer också bli vanligare.
 
 För det andra att klimatomställningen också innebär stora möjligheter för de länder som ligger i framkant och lyckas kombinera minskade utsläpp med teknologi, tillväxt och växande välstånd. Det är dags att fler länder gör samma resa som Sverige.
 
-Med den europeiska klimatlagen har vi bestämt att EU ska uppnå klimatneutralitet senast år 2050 och minska utsläppen med 55 procent till 2030\. Med lagstiftningspaketet ”Fit for 55” – som kom på plats under det svenska ordförandeskapet – är EU ett globalt föredöme. Ingen annan kontinent har fattat motsvarande beslut. Och i Sverige har vi ett ännu mer ambitiöst klimatmål: att nå nettonollutsläpp redan 2045\.
+Med den europeiska klimatlagen har vi bestämt att EU ska uppnå klimatneutralitet senast år 2050 och minska utsläppen med 55 procent till 2030. Med lagstiftningspaketet ”Fit for 55” – som kom på plats under det svenska ordförandeskapet – är EU ett globalt föredöme. Ingen annan kontinent har fattat motsvarande beslut. Och i Sverige har vi ett ännu mer ambitiöst klimatmål: att nå nettonollutsläpp redan 2045.
 
 Sverige har bland de lägsta utsläppen per capita i hela EU. Sedan 1990 har vi minskat våra utsläpp med 38 procent. Samtidigt har den svenska ekonomin nästan fördubblats. Vårt budskap till andra länder är att omställningen är en möjlighet, inte en börda. Fler länder måste följa det svenska exemplet.
 

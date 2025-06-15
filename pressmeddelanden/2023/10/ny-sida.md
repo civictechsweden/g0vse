@@ -8,7 +8,7 @@ Det gäller i huvudsak vid stora demonstrationer som förväntas leda till omfat
 
 Ändringarna som beslutats innebär
 
-* att det i tillfälliga polisarrester ska vara möjligt att, i vissa fall, använda förvaringsrum som avviker från rådande storlekskrav för golvyta, kubikinnehåll och rumshöjd i viss mån och, om det finns särskilda skäl, även från vissa utformnings\- och utrustningskrav, och
+* att det i tillfälliga polisarrester ska vara möjligt att, i vissa fall, använda förvaringsrum som avviker från rådande storlekskrav för golvyta, kubikinnehåll och rumshöjd i viss mån och, om det finns särskilda skäl, även från vissa utformnings- och utrustningskrav, och
 * att det i häkten och polisarrester ska vara möjligt att använda väntrum som avviker från rådande krav på storlek, utformning och utrustning när en person anländer till eller ska lämna ett häkte eller en polisarrest. Placering i väntrum ska bara ske under mycket kort tid.
 
-Ändringarna träder i kraft den 1 november 2023\.
+Ändringarna träder i kraft den 1 november 2023.

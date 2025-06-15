@@ -1,6 +1,6 @@
 # En förenklad semesterlag, m.m.
 
-Semesterlagen (1977:480\) föreslås förenklas i sak samt språkligt och redaktionellt.
+Semesterlagen (1977:480) föreslås förenklas i sak samt språkligt och redaktionellt.
 
 * En ny beräkningsregel för semesterlön, sammalöneregeln, föreslås införas som huvudregel för arbetstagare med fast lön.
 * Procentregeln, som gäller för beräkning av semesterlön i dag, behålls och förenklas.
@@ -10,8 +10,8 @@ Semesterlagen (1977:480\) föreslås förenklas i sak samt språkligt och redakt
 * De särskilda regler som nu gäller för hemarbetande och okontrollerade arbetstagare tas bort.
 * En ny regel föreslås som innebär att endast ett visst antal semesterdagar ska ersättas med semesterlön om semestern på grund av frånvaro inte har kunnat läggas ut under semesteråret.
 
-Lagändringarna föreslås träda i kraft den 1 april 2010\.
+Lagändringarna föreslås träda i kraft den 1 april 2010.
 
-* Dessutom föreslås att lönegarantilagen (1992:497\) anpassas till Europaparlamentets och rådets direktiv 2008/94/EG av den 22 oktober 2008 om skydd för arbetstagare vid arbetsgivarens insolvens.
+* Dessutom föreslås att lönegarantilagen (1992:497) anpassas till Europaparlamentets och rådets direktiv 2008/94/EG av den 22 oktober 2008 om skydd för arbetstagare vid arbetsgivarens insolvens.
 
-Den lagändringen föreslås träda i kraft den 1 januari 2010\.
+Den lagändringen föreslås träda i kraft den 1 januari 2010.

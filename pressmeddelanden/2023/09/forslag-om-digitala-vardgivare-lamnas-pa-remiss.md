@@ -8,8 +8,8 @@ Utredningen föreslår bland annat att:
 
 * regionerna ska erbjuda öppen vård genom distanskontakt om det inte bedöms vara nödvändigt att vården utförs genom fysisk kontakt,
 * det ska vara patientens hemregion som bestämmer patientavgiften för primärvård och annan öppen vård som erbjuds av en annan region genom distanskontakt. Syftet med förslaget är att patienter inte ska välja utomlänsvård när ett för patienten likvärdigt utbud av utförare och vårdtjänster finns att tillgå i den egna regionen, och att
-* utomlänsvård på distans ska föregås av en behovs\- och lämplighetsbedömning.
+* utomlänsvård på distans ska föregås av en behovs- och lämplighetsbedömning.
 
-Runtom i Sverige pågår omställningen till en god och nära vård. Omställningen syftar till en hälso\- och sjukvård som tillhandahålls sammanhållet med utgångspunkt i patientens individuella behov och förutsättningar.
+Runtom i Sverige pågår omställningen till en god och nära vård. Omställningen syftar till en hälso- och sjukvård som tillhandahålls sammanhållet med utgångspunkt i patientens individuella behov och förutsättningar.
 
-Remissvaren ska ha kommit in till socialdepartementet senast den 12 december 2023\. Utredaren svarar ensam för innehållet i promemorian.
+Remissvaren ska ha kommit in till socialdepartementet senast den 12 december 2023. Utredaren svarar ensam för innehållet i promemorian.

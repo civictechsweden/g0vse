@@ -8,4 +8,4 @@ Den kommitté som tillsätts ska analysera vilka konsekvenser olika nivåer på 
 
 Kommittén kommer även att ha i uppdrag att bedöma om ramverket behöver tydligare principer för hur en stabiliserande finanspolitik kan bedrivas när konjunkturen viker.
 
-Regeringen avser att utse Hans Lindberg till kommitténs ordförande och uppdraget ska redovisas senast den 15 november 2024\.
+Regeringen avser att utse Hans Lindberg till kommitténs ordförande och uppdraget ska redovisas senast den 15 november 2024.

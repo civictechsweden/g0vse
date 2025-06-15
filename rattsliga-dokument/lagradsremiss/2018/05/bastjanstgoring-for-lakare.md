@@ -9,12 +9,12 @@ Förslaget bygger på ett förslag om en sexårig utbildning till läkarexamen d
 
 ## Behov av strukturerad introduktion
 
-Regeringen anser att det behövs en strukturerad introduktion till hälso\- och sjukvården som ett led mellan läkarexamen, legitimation och nuvarande specialiseringstjänstgöring. Detta när kravet på praktisk tjänstgöring för legitimation tas bort.
+Regeringen anser att det behövs en strukturerad introduktion till hälso- och sjukvården som ett led mellan läkarexamen, legitimation och nuvarande specialiseringstjänstgöring. Detta när kravet på praktisk tjänstgöring för legitimation tas bort.
 
 ## Specialisttjänstgöring inleds med bastjänstgöring
 
 Regeringen bedömer att läkarnas specialiseringstjänstgöring bör inledas med en fristående första introduktionsdel – bastjänstgöring.
 
-En strukturerad introduktion till svensk hälso\- och sjukvård införs som ett obligatoriskt tjänstgöringsavsnitt vid specialisering för alla läkare. Detta oavsett från vilket land man har sin läkarexamen.
+En strukturerad introduktion till svensk hälso- och sjukvård införs som ett obligatoriskt tjänstgöringsavsnitt vid specialisering för alla läkare. Detta oavsett från vilket land man har sin läkarexamen.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2020\.
+Lagändringarna föreslås träda i kraft den 1 juli 2020.

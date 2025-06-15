@@ -8,4 +8,4 @@ Förslagen innebär att möjlig­heterna att använda berättel­ser som lämnat
 * ta upp bevis­ning i dom­stol före huvud­förhand­ling, till exempel i stora brott­mål eller om det kan antas få bety­delse för frågan om att häva ett häkt­nings­beslut eller restrik­tioner, och
 * använda vittnes­attester som bevis­ning.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2022\.
+Lagändringarna föreslås träda i kraft den 1 januari 2022.

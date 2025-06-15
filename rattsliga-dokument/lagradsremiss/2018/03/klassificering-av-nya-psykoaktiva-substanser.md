@@ -10,4 +10,4 @@ Regeringen bedömer att regleringen av narkotika eller hälsofarliga varor inte 
 
 Regeringen kommer att ta initiativ till en ny bred analys av frågan om vilka åtgärder som kan vidtas för att mer effektivt möta problemet med nya psykoaktiva substanser som inte utgör narkotika eller hälsofarliga varor.
 
-Lagförslagen föreslås träda i kraft 1 januari 2019\.
+Lagförslagen föreslås träda i kraft 1 januari 2019.

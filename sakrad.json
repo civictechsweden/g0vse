@@ -8,18 +8,17 @@
             "2367"
         ],
         "senders": [
-            "2625",
             "1284"
         ],
-        "summary": "Den 10 januari deltog civilsamhällesorganisationer som arbetar för hbtqi-personers lika rättigheter och möjligheter i ett sakråd. Under sakrådet diskuterades det fortsatta arbetet med den nya handlingsplanen för hbtqi-personers lika rättigheter och möjligheter.",
+        "summary": "Den 10 februari deltog civilsamhällesorganisationer som arbetar för hbtqi-personers lika rättigheter och möjligheter i ett sakråd. Under sakrådet diskuterades det fortsatta arbetet med den nya handlingsplanen för hbtqi-personers lika rättigheter och möjligheter.",
         "id": null,
         "shortcuts": [
             {
-                "name": "Hbtqi-personers lika rättigheter och möjligheter",
+                "name": "Hbtqi-personers lika rättigheter och möjligheter\n",
                 "url": "/regeringens-politik/hbtq-personers-lika-rattigheter-och-mojligheter/"
             },
             {
-                "name": "Långsiktigt arbete med hbtqi-personers rättigheter i fokus",
+                "name": "Långsiktigt arbete med hbtqi-personers rättigheter i fokus\n",
                 "url": "/artiklar/2025/02/langsiktigt-arbete-med-hbtqi-personers-rattigheter-i-fokus/"
             }
         ],
@@ -34,9 +33,6 @@
             }
         ],
         "categories": [
-            "2367",
-            "2625",
-            "1284",
             "1219",
             "2403"
         ]
@@ -61,10 +57,7 @@
                 "url": "/contentassets/e62150aad26640d5b5af8b25a873027a/inbjudan-till-samrad-om-eus-sociala-klimatfond-den-sociala-klimatplanen-och-regeringens-forslag-om-en-riktad-elbilspremie.pdf"
             }
         ],
-        "categories": [
-            "2367",
-            "1291"
-        ]
+        "categories": []
     },
     {
         "title": "Sakråd om preventiva och trygghetsskapande åtgärder för att öka integrationen och minska utanförskapet",
@@ -91,8 +84,6 @@
             }
         ],
         "categories": [
-            "2367",
-            "1284",
             "2460",
             "1237",
             "2661"
@@ -123,8 +114,6 @@
             }
         ],
         "categories": [
-            "2367",
-            "1292",
             "1219"
         ]
     },
@@ -137,12 +126,16 @@
             "2367"
         ],
         "senders": [
-            "2625",
             "1284"
         ],
         "summary": "Den 5 februari 2024 deltog ett tiotal representanter från olika civilsamhällesorganisationer samt ett tiotal representanter för Regeringskansliet på ett sakråd om det fortsatta arbetet för hbtqi-personers lika rättigheter och möjligheter.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Hbtqi-personers lika rättigheter och möjligheter\n",
+                "url": "/regeringens-politik/hbtq-personers-lika-rattigheter-och-mojligheter/"
+            }
+        ],
         "attachments": [
             {
                 "name": "Inbjudan till sakråd om det fortsatta arbetet för hbtqi-personers lika rättigheter och möjligheter (pdf 197 kB)",
@@ -154,9 +147,6 @@
             }
         ],
         "categories": [
-            "2367",
-            "2625",
-            "1284",
             "1219",
             "2403"
         ]
@@ -170,12 +160,16 @@
             "2367"
         ],
         "senders": [
-            "2625",
             "1284"
         ],
         "summary": "Representanter för ett tjugotal organisationer i det civila samhället samt ett tjugotal representanter för olika departement i Regeringskansliet samlades till sakråd om det nationella arbetet mot rasism den 13 december 2023.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Artikel: Fokus på arbetet mot rasism när Paulina Brandberg träffade civilsamhället\n",
+                "url": "/artiklar/2023/12/fokus-pa-arbetet-mot-rasism-nar-paulina-brandberg-traffade-civilsamhallet/"
+            }
+        ],
         "attachments": [
             {
                 "name": "Inbjudan till sakråd om det nationella arbetet mot rasism (pdf 157 kB)",
@@ -187,9 +181,6 @@
             }
         ],
         "categories": [
-            "2367",
-            "2625",
-            "1284",
             "1219",
             "2344",
             "2666"
@@ -228,8 +219,6 @@
             }
         ],
         "categories": [
-            "2367",
-            "2425",
             "1243"
         ]
     },
@@ -259,9 +248,6 @@
             }
         ],
         "categories": [
-            "2367",
-            "2619",
-            "1284",
             "2460",
             "1218",
             "1237"
@@ -292,8 +278,6 @@
             }
         ],
         "categories": [
-            "2367",
-            "2425",
             "1243"
         ]
     },
@@ -322,8 +306,6 @@
             }
         ],
         "categories": [
-            "2367",
-            "2425",
             "1243"
         ]
     },
@@ -348,13 +330,11 @@
             }
         ],
         "categories": [
-            "2367",
-            "1284",
             "1220",
             "1219",
             "1223",
-            "2403",
-            "2344"
+            "2344",
+            "2403"
         ]
     },
     {
@@ -382,8 +362,6 @@
             }
         ],
         "categories": [
-            "2367",
-            "1287",
             "1263",
             "1274",
             "1012"
@@ -404,7 +382,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Artikel: Statsrådet Jakob Forssmed i samtal med civilsamhället om demokrativillkor",
+                "name": "Artikel: Statsrådet Jakob Forssmed i samtal med civilsamhället om demokrativillkor\n",
                 "url": "/artiklar/2022/12/statsradet-jakob-forssmed-i-samtal-med-civilsamhallet-om-demokrativillkor/"
             }
         ],
@@ -415,8 +393,6 @@
             }
         ],
         "categories": [
-            "2367",
-            "1288",
             "1218",
             "1219"
         ]
@@ -434,7 +410,12 @@
         ],
         "summary": "Den 6 december bjöd Regeringskansliet in till sakråd som en del i uppföljningen av de slutsatser med rekommendationer som FN:s rasdiskrimineringskommitté (CERD) lämnade till Sverige den 6 juni 2018.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Sveriges rapportering om efterlevnaden av CERD\n",
+                "url": "/internationella-mr-granskningar-av-sverige/2017/01/sveriges-rapportering-om-efterlevnaden-av-cerd/"
+            }
+        ],
         "attachments": [
             {
                 "name": "Inbjudan till sakråd inför rapportering till FN:s rasdiskrimineringskommitté (CERD) (pdf 130 kB)",
@@ -446,8 +427,6 @@
             }
         ],
         "categories": [
-            "2367",
-            "1284",
             "1219",
             "2344"
         ]
@@ -465,7 +444,12 @@
         ],
         "summary": "Den 9 december bjöd Regeringskansliet in till sakråd med ungdomsorganisationer som en del i uppföljningen av de slutsatser med rekommendationer som FN:s rasdiskrimineringskommitté (CERD) lämnade till Sverige den 6 juni 2018.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Sveriges rapportering om efterlevnaden av CERD\n",
+                "url": "/internationella-mr-granskningar-av-sverige/2017/01/sveriges-rapportering-om-efterlevnaden-av-cerd/"
+            }
+        ],
         "attachments": [
             {
                 "name": "Inbjudan till sakråd inför rapportering till FN:s rasdiskrimineringskommitté (CERD) (pdf 125 kB)",
@@ -477,8 +461,6 @@
             }
         ],
         "categories": [
-            "2367",
-            "1284",
             "1219",
             "2344"
         ]

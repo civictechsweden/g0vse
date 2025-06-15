@@ -12,4 +12,4 @@ Uppdraget har bestått av tre delar:
 * att utreda och föreslå åtgärder för en mer effektiv och ändamålsenlig återkravshantering inom socialförsäkringsområdet.
 
 Utredningen föreslår att de föreslagna författningsändringarna ska träda
-i kraft den 1 juli 2019\.
+i kraft den 1 juli 2019.

@@ -8,4 +8,4 @@ Statens jordbruksverk har också påtalat att dagens reglering av spridningen av
 
 Därför har regeringen nu i april remitterat ett förslag från Naturvårdsverket som syftar till att möjliggöra forskning och utveckling avseende spridning av växtskyddsmedel med bland annat med drönare. Regeringen har också remitterat ett förslag om en mer tydlig och ändamålsenlig reglering av spridning av flera växtskyddsmedel.
 
-Förslagen som är ute på remiss innebär ändringar i förordningen (2014:425\) om bekämpningsmedel, och de har remitterats fram till mitten av augusti.
+Förslagen som är ute på remiss innebär ändringar i förordningen (2014:425) om bekämpningsmedel, och de har remitterats fram till mitten av augusti.

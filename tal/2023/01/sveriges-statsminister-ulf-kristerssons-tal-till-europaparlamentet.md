@@ -2,8 +2,7 @@
 
 Tisdagen den 17 januari höll den svenske statsministern Ulf Kristersson ett tal till Europaparlamentet i Strasbourg. I talet redogjorde Ulf Kristersson för det svenska ordförandeskapets prioriteringar. Det talade ordet gäller.
 
-
-## Grönare, säkrare, friare – Sveriges ordförandeskap i Europeiska unionens råd
+## Grönare, säkrare, friare  – Sveriges ordförandeskap i Europeiska unionens råd
 
 Fru talman, kära Roberta, ledamöter av Europaparlamentet, vice ordförande för kommissionen (Maroš Šefčovič), mina damer och herrar.
 
@@ -19,7 +18,7 @@ Hittills har Europa gett ett kraftfullt, enat och beslutsamt svar på Rysslands 
 
 Många enskilda länder ger Ukraina viktig försvarsmateriel. Och Ukraina och Moldavien är nu kandidatländer.
 
-Dessutom är vår union på väg att minska sitt beroende av fossila bränslen från Ryssland. På 1970\-talet ville man sluta använda fossila bränslen av ekonomiska skäl. Under 80\- och 90\-talen kom frågan i allt större utsträckning att handla om att bekämpa klimatförändringarna. Och nu har den också kommit att handla om geopolitik och säkerhet.
+Dessutom är vår union på väg att minska sitt beroende av fossila bränslen från Ryssland. På 1970-talet ville man sluta använda fossila bränslen av ekonomiska skäl. Under 80- och 90-talen kom frågan i allt större utsträckning att handla om att bekämpa klimatförändringarna. Och nu har den också kommit att handla om geopolitik och säkerhet.
 
 Under de senaste åren har vi visat att EU, i tider av kris, kan samla sig och påverka omvärlden, utan att förlora sin långsiktiga agenda ur sikte. Vladimir Putins regim underskattade inte bara Ukraina utan även Europeiska unionen.
 
@@ -31,7 +30,7 @@ En självklar utgångspunkt för oss − allas högsta prioritet − är Ukraina
 
 Ingenting annat är lika viktigt. Men det här handlar inte bara om krishantering − det här handlar om att kämpa för demokrati och att kämpa för anständighet. Ukrainas seger är av avgörande betydelse för Europa och − i ärlighetens namn − för hela världen.
 
-Den 24 februari vaknade jag i Helsingfors, kl. 04\.00 på morgonen, till nyheten att Ryssland hade invaderat Ukraina − endast timmar efter ett samtal med den finska presidenten Sauli Niinistö. Vi såg båda risken för krig, men även risken för splittring europeiska och transatlantiska vänner emellan. Men när kriget kom stod demokratierna i väst fortsatt enade. I dag är den transatlantiska enigheten kring Ukraina starkare än någonsin tidigare.
+Den 24 februari vaknade jag i Helsingfors, kl. 04.00 på morgonen, till nyheten att Ryssland hade invaderat Ukraina − endast timmar efter ett samtal med den finska presidenten Sauli Niinistö. Vi såg båda risken för krig, men även risken för splittring europeiska och transatlantiska vänner emellan. Men när kriget kom stod demokratierna i väst fortsatt enade. I dag är den transatlantiska enigheten kring Ukraina starkare än någonsin tidigare.
 
 Det är ett fruktansvärt krig, där en tredjedel av Ukrainas befolkning har fördrivits och där hälften av landets energiinfrastruktur har förstörts. Många ukrainare, både soldater och civila, har betalat det yttersta priset. Butja har blivit en del av det kollektiva europeiska minnet.
 
@@ -61,7 +60,7 @@ De här företagen vill få saker gjorda. De vill använda sig av de stora möjl
 
 Och det är precis det som EU har gjort − till exempel genom att besluta att fr.o.m. 2035 förbjuda försäljning av nya bilar som går på fossila bränslen. Vi måste fortsätta på den inslagna vägen i arbetet framåt.
 
-Det svenska ordförandeskapet avser göra vad det kan för att stärka EU som föregångare i den gröna omställningen. Vi kommer att fortsätta det viktiga arbete som institutionerna utför och göra slutförhandlingen av 55 %\-paketet till en prioriterad fråga. Vi räknar med Europaparlamentet och ser fram emot att arbeta tillsammans med detta.
+Det svenska ordförandeskapet avser göra vad det kan för att stärka EU som föregångare i den gröna omställningen. Vi kommer att fortsätta det viktiga arbete som institutionerna utför och göra slutförhandlingen av 55 %-paketet till en prioriterad fråga. Vi räknar med Europaparlamentet och ser fram emot att arbeta tillsammans med detta.
 
 Vi ser även fram emot att påbörja arbetet med reformer på den europeiska elmarknaden eftersom energi från rätt källor och till rätt pris är grunden för den gröna omställningen.
 
@@ -81,7 +80,7 @@ Vi kämpar med andra ord med flera utmaningar som är kopplade till de kriser vi
 
 Men vi får inte glömma att långsiktig konkurrenskraft måste byggas på starka företag som kan överleva och röna framgångar på en öppen konkurrensutsatt marknad. På lång sikt utgör faktorer som svag produktivitet, otillräckliga satsningar på forskning och utveckling och höga elpriser större risker för den europeiska konkurrenskraften än bristen på produktionssubventioner.
 
-Om vi vill bevara våra ledande, kunskapsbaserade ekonomier med innovativa branscher måste vi bli bättre. Därför behöver vi en ny långsiktig strategi på EU\-nivå som främjar konkurrenskraften och produktiviteten. Den inre marknadens 30\-årsjubileum är en bra utgångspunkt.
+Om vi vill bevara våra ledande, kunskapsbaserade ekonomier med innovativa branscher måste vi bli bättre. Därför behöver vi en ny långsiktig strategi på EU-nivå som främjar konkurrenskraften och produktiviteten. Den inre marknadens 30-årsjubileum är en bra utgångspunkt.
 
 \*\*\*
 
@@ -93,7 +92,7 @@ Liberal demokrati – kombinationen av folkets självbestämmande och individens
 
 Det finns strukturer och forum för dialog med auktoritära stater, men dit hör inte EU. Det här är och måste förbli en klubb för demokratier.
 
-Under de senaste åren har vi gjort betydande framsteg med att skydda rättsstaten i EU. Villkorlighetsmekanismen har varit ett viktigt nytt instrument när det gäller att säkerställa att EU:s medel inte missbrukas. Artikel 7\-förfaranden har inletts. Och dialogerna om rättsstatsprincipen har visat att det finns utrymme för förbättringar hos alla medlemsstater, inte bara hos ett fåtal, när det gäller rättsstatsprincipen.
+Under de senaste åren har vi gjort betydande framsteg med att skydda rättsstaten i EU. Villkorlighetsmekanismen har varit ett viktigt nytt instrument när det gäller att säkerställa att EU:s medel inte missbrukas. Artikel 7-förfaranden har inletts. Och dialogerna om rättsstatsprincipen har visat att det finns utrymme för förbättringar hos alla medlemsstater, inte bara hos ett fåtal, när det gäller rättsstatsprincipen.
 
 Det arbetet kommer att fortsätta under det svenska ordförandeskapet. Och vi kommer även att anordna ett symposium om den frågan i Stockholm i maj för att lyfta fram rättsstatsprincipens betydelse.
 
@@ -105,7 +104,7 @@ Kära ledamöter av Europaparlamentet: sex månader är en kort tid. Ändå finn
 
 Av förklarliga skäl kan jag inte lova mer än att vi ska göra vårt yttersta – min regering har inte kontroll över allt och oväntade saker kommer med all sannolikhet att ske.
 
-Men jag kan försäkra er om att Sverige på ett konstruktivt och engagerat sätt kommer att leda arbetet i rådet och vara en samarbetsinriktad partner som söker kompromisser där hänsyn tas till samtliga medlemsstater och EU\-institutioner.
+Men jag kan försäkra er om att Sverige på ett konstruktivt och engagerat sätt kommer att leda arbetet i rådet och vara en samarbetsinriktad partner som söker kompromisser där hänsyn tas till samtliga medlemsstater och EU-institutioner.
 
 Tillsammans kommer vi att försöka hitta lösningar för att möta de utmaningar som jag i korta drag har beskrivit i dag – för säkerheten, klimatet, konkurrenskraften, rättsstatsprincipen och mer därtill. Och vi kommer att räkna med er, inte bara som en motpart utan även som en allierad.
 

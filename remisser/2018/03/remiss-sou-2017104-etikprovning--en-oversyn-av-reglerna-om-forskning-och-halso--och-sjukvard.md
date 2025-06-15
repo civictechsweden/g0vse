@@ -1,9 +1,8 @@
 # Remiss SOU 2017:104 Etikprövning – en översyn av reglerna om forskning och hälso- och sjukvård
 
-Här kan du ta del av till vilka instanser som regeringen har remitterat SOU 2017:104 Etikprövning – en översyn av reglerna om forskning och hälso\- och sjukvård.
+Här kan du ta del av till vilka instanser som regeringen har remitterat SOU 2017:104 Etikprövning – en översyn av reglerna om forskning och hälso- och sjukvård.
 
-
-Sista dag att svara på remissen är den 30 april 2018\.
+Sista dag att svara på remissen är den 30 april 2018.
 
 ## Remissinstanser
 
@@ -22,14 +21,14 @@ Sista dag att svara på remissen är den 30 april 2018\.
 13 Inspektionen för vård och omsorg
 14 Läkemedelsverket
 15 Folkhälsomyndigheten
-16 Myndigheten för vård\- och omsorgsanalys
+16 Myndigheten för vård- och omsorgsanalys
 17 Statens beredning för medicinsk och social utvärdering
 18 Myndigheten för delaktighet
 19 Forskningsrådet för hälsa, arbetsliv och välfärd
 20 Statistiska centralbyrån
 21 Arbetsgivarverket
 22 Statskontoret
-23 Gymnastik\- och idrottshögskolan
+23 Gymnastik- och idrottshögskolan
 24 Göteborgs universitet
 25 Högskolan Dalarna
 26 Högskolan Väst
@@ -91,8 +90,8 @@ Sista dag att svara på remissen är den 30 april 2018\.
 82 Famna
 83 Forska!Sverige
 84 Funktionsrätt Sverige
-85 Hjärt\-Lungfonden
-86 KK\-stiftelsen
+85 Hjärt-Lungfonden
+86 KK-stiftelsen
 87 Kungl. Ingenjörsvetenskapsakademien
 88 Kungl. Vetenskapsakademien
 89 Landsorganisationen i Sverige
@@ -101,7 +100,7 @@ Sista dag att svara på remissen är den 30 april 2018\.
 92 Pensionärernas riksorganisation
 93 RISE Research Institutes of Sweden AB
 94 Sophiahemmet, Ideell förening
-95 Statens medicinsk\-etiska råd
+95 Statens medicinsk-etiska råd
 96 Stiftelsen för strategisk forskning
 97 Stiftelsen Högskolan i Jönköping
 98 Stiftelsen Rödakorshemmet
@@ -110,6 +109,6 @@ Sista dag att svara på remissen är den 30 april 2018\.
 101 Sveriges akademikers centralorganisation
 102 Sveriges förenade studentkårer
 103 Sveriges Pensionärsförbund
-104 Sveriges Universitets\- och högskoleförbund
+104 Sveriges Universitets- och högskoleförbund
 105 Tjänstemännens Centralorganisation
 106 Vårdföretagarna

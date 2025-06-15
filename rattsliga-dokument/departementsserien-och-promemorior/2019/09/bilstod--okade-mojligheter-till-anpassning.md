@@ -12,4 +12,4 @@ Departementet föreslår också en begränsning i höjd för sådana bilar som k
 
 ## Äldre bestämmelser gäller fram till ikraftträdandet
 
-De nya bestämmelserna föreslås träda i kraft den 1 oktober 2020\. De äldre bestämmelserna gäller för de ansökningar som kommit in till Försäkringskassan före ikraftträdandet.
+De nya bestämmelserna föreslås träda i kraft den 1 oktober 2020. De äldre bestämmelserna gäller för de ansökningar som kommit in till Försäkringskassan före ikraftträdandet.

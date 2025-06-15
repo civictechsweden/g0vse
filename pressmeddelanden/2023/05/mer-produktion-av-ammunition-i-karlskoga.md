@@ -4,4 +4,4 @@ Rysslands fullskaliga invasion av Ukraina har skapat ett säkerhetspolitiskt lä
 
 Försvarsminister Pål Jonson besöker Karlskoga för att träffa representanter och medarbetare från BAE Bofors, SAAB, Nammo och Eurenco. Utöver besök till produktionsplatserna, kommer ett rundabordssamtal att genomföras för att diskutera vilka behov och åtgärder som kan bidra till att skala upp produktionen av ammunition.
 
-Statsrådet finns tillgänglig för media i anslutning till Bofors hotell kl 11\.00 – 11:30\.
+Statsrådet finns tillgänglig för media i anslutning till Bofors hotell kl 11.00 – 11:30.

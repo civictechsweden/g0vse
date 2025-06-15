@@ -10,6 +10,6 @@ Utredningen föreslår bland annat att
 * det straffbara området för förberedelse och stämpling utvidgas, och
 * straffskalan för vissa osjälvständiga brottsformer skärps.
 
-Utredningen föreslår att lagändringarna ska träda i kraft den 1 november 2025\.
+Utredningen föreslår att lagändringarna ska träda i kraft den 1 november 2025.
 
 Utredningen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

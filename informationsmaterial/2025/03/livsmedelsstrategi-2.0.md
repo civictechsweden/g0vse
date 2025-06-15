@@ -1,8 +1,10 @@
-# Livsmedelsstrategi 2.0
+# Kortversion av Livsmedelsstrategin 2.0
 
 ![](/contentassets/dc5bf50d0654475dabfcb1b255b03dfe/ls_pop_tumnagel.jpg?width=150&quality=85)
 
-Sammanfattning av regeringens arbete för att stärka alla delar i livsmedelskedjan och öka den svenska livsmedelsproduktionen.
+En kortversion av regeringens arbete för att stärka alla delar i livsmedelskedjan och öka den svenska livsmedelsproduktionen.
+
+Här kan du läsa och ladda ner strategin i sin helhet: [Livsmedelsstrategin 2.0](/rattsliga-dokument/departementsserien-och-promemorior/2025/03/livsmedelsstrategin-2.0).
 
 Regeringens ambition är att Livsmedelsstrategin 2.0 ska bidra till mer svensk mat på butikshyllorna och på tallrikarna samt att svensk mat ska synas och bli ett begrepp utanför landets gränser. Sveriges duktiga livsmedelsproducenter, som producerar god och hållbar mat, förtjänar att uppmärksammas både i Sverige och utomlands.
 

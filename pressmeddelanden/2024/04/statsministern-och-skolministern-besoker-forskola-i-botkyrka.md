@@ -4,4 +4,4 @@ Besöket görs på en förskola som arbetar mycket med barnens språkutveckling,
 
 Statministern och skolministern träffar pedagoger och deltar i en aktivitet med barnen.
 
-Media är välkomna att närvara. Besöket börjar kl. 13\.30 och pressträffen börjar kl. 14\.15\.
+Media är välkomna att närvara. Besöket börjar kl. 13.30 och pressträffen börjar kl. 14.15.

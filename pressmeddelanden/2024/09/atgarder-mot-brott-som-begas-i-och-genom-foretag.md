@@ -10,4 +10,4 @@ Förslagen innebär bland annat att
 * förseningsavgifterna vid försenad inlämning av årsredovisningar ska höjas och alla bostadsrätts­föreningar och andra ekonomiska föreningar ska lämna in sina årsredovisningar till Bolagsverket, och
 * vissa nya regler om stiftelser ska införas, bland annat målvaktsförbud och anmälningsplikt för revisorer vid misstanke om ekonomisk brottslighet.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2025\.
+Lagändringarna föreslås träda i kraft den 1 januari 2025.

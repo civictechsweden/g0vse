@@ -2,8 +2,7 @@
 
 Regeringen ger Arbetsförmedlingen, Arbetsmiljöverket, Ekobrottsmyndigheten, Försäkringskassan, Jämställdhetsmyndigheten, Migrationsverket, Polismyndigheten, Skatteverket och Åklagarmyndigheten i uppdrag att under 2022–2023 samverka för att motverka arbetslivskriminalitet.
 
-
-I uppdraget ligger vidare att Arbetsmiljöverket, Polismyndigheten och Skatteverket under 2022 ska påbörja inrättandet av regionala center mot arbetslivskriminalitet till vilka övriga samverkande myndigheter ska ansluta sig successivt, dock senast i slutet av 2023\.
+I uppdraget ligger vidare att Arbetsmiljöverket, Polismyndigheten och Skatteverket under 2022 ska påbörja inrättandet av regionala center mot arbetslivskriminalitet till vilka övriga samverkande myndigheter ska ansluta sig successivt, dock senast i slutet av 2023.
 
 I uppdraget ingår att, utifrån respektive myndighets uppgift och förutsättningar:
 

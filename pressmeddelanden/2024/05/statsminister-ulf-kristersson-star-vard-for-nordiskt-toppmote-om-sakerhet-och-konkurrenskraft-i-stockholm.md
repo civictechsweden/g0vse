@@ -16,6 +16,6 @@ Ett detaljerat program skickas till ackrediterade journalister inför mötet.
 
 ### Information om medieackreditering
 
-Media som önskar bevaka mötet behöver särskild ackreditering via Utrikesdepartementet. Sista dag att ansöka är onsdag 8 maj 2024\.
+Media som önskar bevaka mötet behöver särskild ackreditering via Utrikesdepartementet. Sista dag att ansöka är onsdag 8 maj 2024.
 
 [Länk till ackrediteringssida på regeringen.se](/ackrediteringar/2024/05/ansokan-om-medieackreditering/ "Länk till ackrediteringssida")

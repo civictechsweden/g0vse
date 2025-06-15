@@ -2,7 +2,6 @@
 
 Regeringen ger Läkemedelsverket i uppdrag att se över hur myndighetens tillsyn över apoteksmarknaden kan utvecklas.
 
-
 Det är ett grundläggande krav på den svenska apoteksmarknaden att
  samtliga öppenvårdsapotek inom rimlig tid tillhandahåller läkemedel till den som är i behov av sådana. I normalfallet ska öppenvårdsapotek inom 24 timmar kunna tillhandahålla samtliga förordnade läkemedel.
 

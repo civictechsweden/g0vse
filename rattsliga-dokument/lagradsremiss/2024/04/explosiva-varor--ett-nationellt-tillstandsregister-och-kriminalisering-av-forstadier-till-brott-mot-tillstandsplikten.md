@@ -7,11 +7,11 @@ I lagrådsremissen föreslår regeringen därför bland annat
 
 * ett nationellt tillståndsregister för explosiva varor,
 * sekretess för uppgifter i registret och i ärendehanteringen för att
-förhindra att explosiva varor kommer till brottslig användning och för
-att skydda enskilda,
+  förhindra att explosiva varor kommer till brottslig användning och för
+  att skydda enskilda,
 * sekretess hos Myndigheten för samhällsskydd och beredskap för
-uppgifter som kan användas för tillverkning av explosiva varor, och
+  uppgifter som kan användas för tillverkning av explosiva varor, och
 * kriminalisering av försök, förberedelse och stämpling till grovt och
-synnerligen grovt brott mot tillståndsplikten för explosiva varor.
+  synnerligen grovt brott mot tillståndsplikten för explosiva varor.
 
-Lagändringarna föreslås träda i kraft den 8 juli 2024\.
+Lagändringarna föreslås träda i kraft den 8 juli 2024.

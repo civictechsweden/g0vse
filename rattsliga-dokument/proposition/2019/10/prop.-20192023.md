@@ -7,10 +7,10 @@ Förslaget innebär att institut eller filialer som tillhandahåller betalkonton
 Förslaget gäller institut och filialer som har inlåning från allmänheten
 som överstiger 70 miljarder kronor.
 
-Post\- och telestyrelsen ska utöva tillsyn över att instituten och filialerna
+Post- och telestyrelsen ska utöva tillsyn över att instituten och filialerna
 uppfyller sina skyldigheter. Om ett svenskt institut inte fullgör sina skyldigheter, ska Finansinspektionen få ingripa mot institutet genom beslut om föreläggande och sanktionsavgift.
 
 Förslaget syftar till att säkerställa en viss lägsta nivå på tillgången till
 kontanttjänster för konsumenter och företag.
 
-Skyldigheten för instituten och filialerna att tillhandahålla kontanttjänster föreslås träda i kraft den 1 januari 2021\.
+Skyldigheten för instituten och filialerna att tillhandahålla kontanttjänster föreslås träda i kraft den 1 januari 2021.

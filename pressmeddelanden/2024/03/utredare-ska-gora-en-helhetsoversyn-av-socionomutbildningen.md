@@ -12,6 +12,6 @@ Den som avlagt en socionomexamen verkar inom ett brett fält som i många fall s
 
 I dag är det möjligt att specialisera sig efter avlagd socionomexamen genom vidareutbildning inom högskolan. Det saknas dock en nationell kartläggning över vilka utbildningsmöjligheter som finns. I utredningens arbete har det framkommit att möjligheterna till att specialisera sig kan behöva förbättras för att motsvara arbetsmarknadens efterfrågan på spetskompetens. Därför får utredaren även i uppdrag att kartlägga vilka möjligheter som finns inom högskolan att specialisera sig i socialt arbete eller motsvarande, även inom andra områden än ungdomsbrottslighet.
 
-Utredningstiden förlängs till den 20 december 2024\. Senast den 31 mars 2024 ska utredningen också överlämna en redovisning av det arbete som har genomförts till och med den 1 mars 2024\.
+Utredningstiden förlängs till den 20 december 2024. Senast den 31 mars 2024 ska utredningen också överlämna en redovisning av det arbete som har genomförts till och med den 1 mars 2024.
 
 Beslutet bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

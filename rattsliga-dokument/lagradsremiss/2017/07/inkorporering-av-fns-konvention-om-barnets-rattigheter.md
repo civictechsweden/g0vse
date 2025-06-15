@@ -6,4 +6,4 @@ En inkorporering av FN:s barkonvention innebär främst ett tydligare krav på a
 
 För att barnets rättigheter ska få önskat genomslag krävs vid sidan av en inkorporering även fortsatt transformering av barnkonventionens bestämmelser i nationell rätt. Därutöver krävs en kombination av olika åtgärder såsom vägledning, utbildning och samordning mellan olika aktörer på olika nivåer i samhället. Regeringen redogör i lagrådsremissen därför även för behovet av ett fortsatt och systematiskt transformeringsarbete för att barnkonventionen i ökad grad ska synliggöras i förarbeten till lagstiftning där konventionen kan vara relevant.
 
-Lagen föreslås träda i kraft den 1 januari 2020\.
+Lagen föreslås träda i kraft den 1 januari 2020.

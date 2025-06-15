@@ -1,7 +1,6 @@
 # Remiss av SOU 2017:49 EU:s dataskyddsförordning och utbildningsväsendet
 
-Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:49 EU:s dataskyddsförordning och utbildningsväsendet. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 15 september 2017\.
-
+Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:49 EU:s dataskyddsförordning och utbildningsväsendet. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 15 september 2017.
 
 ## Remissinstanser
 
@@ -24,7 +23,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:49
 17 Skolforskningsinstitutet
 18 Myndigheten för yrkeshögskolan
 19 Universitetskanslersämbetet
-20 Universitets\- och högskolerådet
+20 Universitets- och högskolerådet
 21 Överklagandenämnden för högskolan
 22 Högskolans avskiljandenämnd
 23 Centrala studiestödsnämnden
@@ -65,7 +64,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:49
 58 Säters kommun
 59 Trollhättans kommun
 60 Umeå kommun
-61 Upplands\-Bro kommun
+61 Upplands-Bro kommun
 62 Vadstena kommun
 63 Varbergs kommun
 64 Vilhelmina kommun
@@ -100,4 +99,4 @@ Här kan du ta del av till vilka instanser regeringen har remitterat SOU 2017:49
 93 Sveriges förenade studentkårer
 94 Sveriges Kommuner och Landsting
 95 Sveriges skolledarförbund
-96 Sveriges Universitets\- och högskoleförbund
+96 Sveriges Universitets- och högskoleförbund

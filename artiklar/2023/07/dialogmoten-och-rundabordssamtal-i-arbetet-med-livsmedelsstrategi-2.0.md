@@ -1,11 +1,10 @@
 # Dialogmöten och rundabordssamtal i arbetet med Livsmedelsstrategin 2.0
 
-Arbetet med Livsmedelsstrategin 2\.0 bedrivs i nära dialog med livsmedelskedjans aktörer, bland annat genom särskilda dialogmöten och rundabordssamtal. Från april till juni i år genomförde landsbygdsminister Peter Kullgren och statssekreterare Dan Ericsson tematiska samtal med representanter för företag, organisationer och myndigheter.
-
+Arbetet med Livsmedelsstrategin 2.0 bedrivs i nära dialog med livsmedelskedjans aktörer, bland annat genom särskilda dialogmöten och rundabordssamtal. Från april till juni i år genomförde landsbygdsminister Peter Kullgren och statssekreterare Dan Ericsson tematiska samtal med representanter för företag, organisationer och myndigheter.
 
 Samtalen utgick ifrån de fyra temana Konkurrenskraft och förenkling, Kunskap och innovation, Robusthet och minskat beroende samt Regionala livsmedelsstrategier. I mötena deltog bland annat Kött och charkföretagen, Livsmedelsföretagen, Svensk Dagligvaruhandel, Visita, Lantmännen, Lantbrukarnas Riksförbud, Norrmejerier, Hushållningssällskapen, Statens lantbruksuniversitet, Vinnova, Tillväxtverket, och Jordbruksverket samt länsstyrelser och regioner.
 
-Inom ramen för arbetet med Livsmedelsstrategin 2\.0 har också separata dialogmöten genomförts inom en rad andra områden. Landsbygds\- och intrastrukturdepartementet har bland annat träffat företag som arbetar med teknik kopplat till livsmedel och livsmedelsproduktion (Food tech och Ag tech), företag och organisationer inom export (till exempel Business Sweden, Lantmännen och Orkla) och företag inom de blå näringarna och sjömat (Matfiskodlarna, Svenskt vattenbruk och sjömat med flera).
+Inom ramen för arbetet med Livsmedelsstrategin 2.0 har också separata dialogmöten genomförts inom en rad andra områden. Landsbygds- och intrastrukturdepartementet har bland annat träffat företag som arbetar med teknik kopplat till livsmedel och livsmedelsproduktion (Food tech och Ag tech), företag och organisationer inom export (till exempel Business Sweden, Lantmännen och Orkla) och företag inom de blå näringarna och sjömat (Matfiskodlarna, Svenskt vattenbruk och sjömat med flera).
 
 Vid samtliga samtal och möten har det varit stort engagemang från deltagarna som har framfört många värdefulla synpunkter. Några exempel på inspel är:
 

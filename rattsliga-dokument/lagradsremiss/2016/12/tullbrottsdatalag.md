@@ -6,6 +6,6 @@ Syftet med den nya lagen är att ge Tullverket möjlighet att behandla personupp
 
 Lagen reglerar nästan all behandling i Tullverkets brottsbekämpande verksamhet. Den ska ersätta lagen om behandling av uppgifter i Tullverkets brottsbekämpande verksamhet.
 
-Lagrådsremissen innehåller också förslag till ändringar i offentlighets\- och sekretesslagen, lagen om internationellt polisiärt samarbete och lagen om behandling av uppgifter i Tullverkets verksamhet.
+Lagrådsremissen innehåller också förslag till ändringar i offentlighets- och sekretesslagen, lagen om internationellt polisiärt samarbete och lagen om behandling av uppgifter i Tullverkets verksamhet.
 
-Den nya lagen och de övriga ändringarna föreslås träda i kraft den 1 juli 2017\.
+Den nya lagen och de övriga ändringarna föreslås träda i kraft den 1 juli 2017.

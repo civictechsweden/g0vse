@@ -9,4 +9,4 @@ I denna promemoria föreslås därför bland annat
 * sekretess hos MSB för uppgift som kan användas för tillverkning av explosiv vara, samt
 * kriminalisering av försök, förberedelse och stämpling till grovt och synnerligen grovt brott mot tillståndsplikten för explosiva varor.
 
-Författningsändringarna föreslås träda i kraft den 8 juli 2024\.
+Författningsändringarna föreslås träda i kraft den 8 juli 2024.

@@ -1,12 +1,12 @@
 # Personalförsörjningen inom Försvarsmakten ska förbättras
 
-Försvarsmakten växer. Försvarsanslagen för 2024 kommer att ligga på 119 mdkr vilket är en ökning med 27 mdkr från anslagen 2023\. Antalet värnpliktiga vilka genomför grundutbildning kommer öka till 8 000 under 2025\. För att lyckas med denna tillväxt behöver personalförsörjningen inom Försvarsmakten att tryggas.
+Försvarsmakten växer. Försvarsanslagen för 2024 kommer att ligga på 119 mdkr vilket är en ökning med 27 mdkr från anslagen 2023. Antalet värnpliktiga vilka genomför grundutbildning kommer öka till 8 000 under 2025. För att lyckas med denna tillväxt behöver personalförsörjningen inom Försvarsmakten att tryggas.
 
 Regeringen utser därför generalmajor Roland Ekenberg som särskild utredare för utredningen En ökad tillgång till personal och en ökad uthållighet inom det militära försvaret. Utredningen har som syfte att utifrån 14 frågeställningar öka tillgängligheten av både militär och civil personal inom Försvarsmakten.
 
-En av frågorna som ska belysas är bland annat tillgången till anställda gruppbefäl, soldater och sjömän (GSS). Tillgången av GSS är mycket viktig för de stående förbanden. Riksrevisionen har i sin rapport från 2022 identifierat att alltför många slutar sin anställning för tidigt. Samtidigt saknas i dag möjligheter att fortsätta arbeta kontinuerligt efter fullgjort kontrakt om 8\+4 år.
+En av frågorna som ska belysas är bland annat tillgången till anställda gruppbefäl, soldater och sjömän (GSS). Tillgången av GSS är mycket viktig för de stående förbanden. Riksrevisionen har i sin rapport från 2022 identifierat att alltför många slutar sin anställning för tidigt. Samtidigt saknas i dag möjligheter att fortsätta arbeta kontinuerligt efter fullgjort kontrakt om 8+4 år.
 
-Utredningen ska redovisas senast den 1 juli 2025\.
+Utredningen ska redovisas senast den 1 juli 2025.
 
 Frågor som ska belysas i utredningen:
 

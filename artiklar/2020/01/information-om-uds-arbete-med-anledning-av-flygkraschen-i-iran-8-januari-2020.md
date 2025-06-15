@@ -1,7 +1,6 @@
 # Information om UD:s arbete med anledning av flygkraschen i Iran 8 januari 2020
 
-Den 8 januari 2020 sköts det ukrainska passagerarplanet PS752 ner av en iransk luftvärnsrobot nära Teheran. Samtliga 176 ombord – såväl passagerare som besättning – omkom, däribland 17 hemmahörande i Sverige. De fem länder som, utöver Iran, hade passagerare ombord – Afghanistan, Kanada, Storbritannien, Sverige och Ukraina – bildade omgående en samverkansgrupp på utrikesministernivå. Den kallas International Coordination and Response Group for the Victims of Flight PS752 (ICRG), med Kanada som ordförande. ICRG\-länderna har ingått en principöverenskommelse om att gemensamt förhandla med Iran om bland annat ersättning. Gruppen har utsett Ukraina att fungera som språkrör och Kanada som sekretariat.
-
+Den 8 januari 2020 sköts det ukrainska passagerarplanet PS752 ner av en iransk luftvärnsrobot nära Teheran. Samtliga 176 ombord – såväl passagerare som besättning – omkom, däribland 17 hemmahörande i Sverige. De fem länder som, utöver Iran, hade passagerare ombord – Afghanistan, Kanada, Storbritannien, Sverige och Ukraina – bildade omgående en samverkansgrupp på utrikesministernivå. Den kallas International Coordination and Response Group for the Victims of Flight PS752 (ICRG), med Kanada som ordförande. ICRG-länderna har ingått en principöverenskommelse om att gemensamt förhandla med Iran om bland annat ersättning. Gruppen har utsett Ukraina att fungera som språkrör och Kanada som sekretariat.
 
 UD har haft kontakt med anhöriga till eller representanter för samtliga offer för kraschen med hemvist i Sverige för att informera om processen och de svenska myndigheternas arbete.
 
@@ -15,7 +14,7 @@ MSB har bistått UD med att lämna information till de kommuner där de omkomna 
 
 ### Identifiering
 
-Iranska myndigheter ansvarar för identifieringsarbetet på plats, med stöd av svenska polisens ID\-kommission vad gäller personer bosatta i Sverige. Polisen samlar nu in uppgifter som kan bidra till att fastställa identitet. Under identifieringsarbetet ansvarar polisen för information till och kontakt med anhöriga. När identifieringsarbetet är klart kan dödsbevis utfärdas av iranska myndigheter och anhöriga kan få ett slutligt besked.
+Iranska myndigheter ansvarar för identifieringsarbetet på plats, med stöd av svenska polisens ID-kommission vad gäller personer bosatta i Sverige. Polisen samlar nu in uppgifter som kan bidra till att fastställa identitet. Under identifieringsarbetet ansvarar polisen för information till och kontakt med anhöriga. När identifieringsarbetet är klart kan dödsbevis utfärdas av iranska myndigheter och anhöriga kan få ett slutligt besked.
 
 Mer information om polisens identifieringsarbete i händelse av en stor olycka finns på polisens webbplats [polisen.se](https://polisen.se/om-polisen/polisens-arbete/identifiering-av-offer/)
 
@@ -25,6 +24,6 @@ Först efter att polisens arbete med identifiering är färdigt tar UD och aktue
 
 Varje ärende hanteras individuellt. UD eller ambassaden för alltid en dialog med närmast anhörig oavsett om den anhörige befinner sig i Sverige eller utomlands. UD lämnar som regel inte ut detaljer om enskilda ärenden till andra än närmast anhörig. Om en person inte har några anhöriga kommer UD ta ställning i det enskilda fallet och föra dialog med andra berörda parter.
 
-Befinner man sig i Sverige så kan man alltid ta en kontakt med UD (tel. 08\-405 10 00\). Befinner man sig i Iran kan man vända dig till ambassaden i Teheran (tel. \+98 21 2371 2200\).
+Befinner man sig i Sverige så kan man alltid ta en kontakt med UD (tel. 08-405 10 00). Befinner man sig i Iran kan man vända dig till ambassaden i Teheran (tel. +98 21 2371 2200).
 
 Läs mer om UD och ambassadernas generella stöd vid dödsfall i utlandet på [swedenabroad.se](https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/hjälp-till-svenskar-utomlands/nödsituation-utomlands/dödsfall/)

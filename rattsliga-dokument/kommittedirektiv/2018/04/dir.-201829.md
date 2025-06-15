@@ -11,4 +11,4 @@ Utredaren ska därutöver bland annat:
 * utreda och överväga den straffrättsliga regleringen vid otillåten terrängkörning och vid behov föreslå ändringar i syfte att åstadkomma en ändamålsenlig reglering,
 * utreda hur en effektiv tillsyn kan åstadkommas.
 
-Uppdraget ska redovisas till Regeringskansliet (Miljö\- och energidepartementet) senast den 1 oktober 2019\.
+Uppdraget ska redovisas till Regeringskansliet (Miljö- och energidepartementet) senast den 1 oktober 2019.

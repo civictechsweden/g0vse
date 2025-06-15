@@ -2,7 +2,6 @@
 
 Torsdagen den 2 februari träffade statsminister Ulf Kristersson och socialminister Jakob Forssmed företrädare för muslimska organisationer i Sverige.
 
-
 Syftet med mötet var att ta del av organisationernas bild av situationen för muslimer i Sverige.
 
 Vid mötet framförde statsministern betydelsen av en god dialog och samverkan mellan regeringen och muslimska organisationer i Sverige.

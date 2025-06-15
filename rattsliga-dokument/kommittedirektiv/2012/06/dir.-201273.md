@@ -7,4 +7,4 @@ En särskild utredare ska undersöka om det finns ett behov av att stärka det s
 * överväga om försök till häleri bör kriminaliseras, och
 * överväga om det bör införas en möjlighet att vid straffansvar
 
-Uppdraget ska redovisas senast den 20 december 2013\.
+Uppdraget ska redovisas senast den 20 december 2013.

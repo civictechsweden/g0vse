@@ -2,7 +2,7 @@
 
 Sedan invasionen av Ukraina har ordförandeskapen inom ramen för utbildningsområdet haft en samordnande roll i medlemsstaternas kontakter med Ukraina. Under dagens möte kommer ministrarna bland annat att samtala om läget när det gäller högre utbildning och forskning i Ukraina i dag, samt situationen för ukrainska studenter och forskare i EU och Sverige.
 
-Mötet äger rum kl. 09\.30–10\.00\. Från kl. 10\.30 är Mats Persson tillgänglig för intervjuer. Kontakta Christian Brundu för mer information och intervjuförfrågningar.
+Mötet äger rum kl. 09.30–10.00. Från kl. 10.30 är Mats Persson tillgänglig för intervjuer. Kontakta Christian Brundu för mer information och intervjuförfrågningar.
 
 ## Exempel på svenska stödinsatser inom utbildningsområdet
 

@@ -6,4 +6,4 @@ Uppdraget innebär att Jordbruksverket ska lämna en analys av konsekvenserna f�
 
 Regeringen ger även Jordbruksverket i uppdrag att analysera om de stöd som går till jordbruket inom ramen för EU:s gemensamma jordbrukspolitik kan användas för att främja att jordbruksmark även används för livsmedelsproduktion eller för att stärka biologisk mångfald i samband med att marken används för solelproduktion. Analysen ska också omfatta behovet av att återställa jordbruksmarken om solcellsparker avvecklas.
 
-Uppdraget ska redovisas senast 1 mars 2025\.
+Uppdraget ska redovisas senast 1 mars 2025.

@@ -4,4 +4,4 @@
 
 Regeringen ger Folkhälsomyndigheten i uppdrag att, tillsammans med Statens medieråd, göra en kunskapssammanställning om sambandet mellan digital medieanvändning och effekter på den psykiska och fysiska hälsan samt den kognitiva utvecklingen bland barn och unga. Sammanställningen ska inbegripa både de positiva och de negativa aspekterna.
 
-Utifrån kunskapssammanställningen och forskningsläget ska en åldersanpassad vägledning och rekommendationer för digitala medieanvändning bland barn och unga i åldrarna 0 \- 18 år tas fram och spridas. För uppdraget avsätts totalt 4 000 000 kronor under 2023\.
+Utifrån kunskapssammanställningen och forskningsläget ska en åldersanpassad vägledning och rekommendationer för digitala medieanvändning bland barn och unga i åldrarna 0 - 18 år tas fram och spridas. För uppdraget avsätts totalt 4 000 000 kronor under 2023.

@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om Strålsäkerhetsmyndighetens kärnkraftstillsyn
 
-Riksrevisionen har granskat Strålsäkerhetsmyndighetens tillsyn av kärnkraftsreaktorer i drift. Granskningen har redovisats i rapporten Strålsäkerhetsmyndighetens kärnkraftstillsyn (RiR 2017:17\). I en skrivelse redovisar regeringen sin bedömning av Riksrevisionens iakttagelser och de åtgärder som bedöms nödvändiga med anledning av de rekommendationer som ges till regeringen.
+Riksrevisionen har granskat Strålsäkerhetsmyndighetens tillsyn av kärnkraftsreaktorer i drift. Granskningen har redovisats i rapporten Strålsäkerhetsmyndighetens kärnkraftstillsyn (RiR 2017:17). I en skrivelse redovisar regeringen sin bedömning av Riksrevisionens iakttagelser och de åtgärder som bedöms nödvändiga med anledning av de rekommendationer som ges till regeringen.
 
 Riksrevisionens övergripande slutsats är att tillsynen bör bedrivas mer effektivt genom att myndigheten utför tillsyn i den omfattning som riksdagen gett ekonomiskt utrymme för och på ett mer systematiskt sätt prioriterar de från säkerhetssynpunkt mest angelägna tillsynsinsatserna.
 

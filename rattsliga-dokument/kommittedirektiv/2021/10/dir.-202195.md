@@ -9,10 +9,9 @@ Meningen är att klargöra om oegentligheter har förekommit inom Sveriges inter
 
 Utredningens lärdomar ska vägleda utvecklingen av Sveriges internationella adoptionsverksamhet. Detta genom att föreslå hur nuvarande regelverk, organisering och processer kan förändras och förstärkas för att ytterligare stärka barnrättsperspektivet och rättssäkerheten.
 
-
 Utredaren ska bland annat:
 
-• utreda behov av adoptionsspecifikt stöd och föreslå vilka hjälp\- och stödinsatser som bör erbjudas, och
+• utreda behov av adoptionsspecifikt stöd och föreslå vilka hjälp- och stödinsatser som bör erbjudas, och
 • föreslå de författningsändringar och andra åtgärder som behövs.
 
-Uppdraget ska redovisas senast den 7 november 2023\.
+Uppdraget ska redovisas senast den 7 november 2023.

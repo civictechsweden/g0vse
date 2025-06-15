@@ -1,6 +1,6 @@
 # Statsbesök från Tyskland
 
-Syftet med statsbesöket är att främja de redan goda svensk\-tyska relationerna och ytterligare stärka långsiktiga politiska, ekonomiska, samhälleliga och kulturella förbindelser. Besöket syftar också till att stimulera fördjupade samarbeten inom bland annat klimat, energi och digitalisering, med fokus på innovativa och hållbara lösningar.
+Syftet med statsbesöket är att främja de redan goda svensk-tyska relationerna och ytterligare stärka långsiktiga politiska, ekonomiska, samhälleliga och kulturella förbindelser. Besöket syftar också till att stimulera fördjupade samarbeten inom bland annat klimat, energi och digitalisering, med fokus på innovativa och hållbara lösningar.
 
 Tyskland är en av Sveriges viktigaste handelspartner, tillika världens fjärde största ekonomi, och en av våra närmaste och mest betydelsefulla samarbetspartner inom EU och i internationella sammanhang. Vi är likasinnade i många samhällsfrågor och har ett brett bilateralt samarbete.
 
@@ -53,7 +53,7 @@ Drottningen och fru Büdenbender besöker Tyska skolan i Stockholm för att blan
 Stockholms stad står värd för en lunch i stadshuset.
 
 **Eftermiddag**
-Presidenten och kungen besöker Karolinska universitetssjukhuset. Forskning och innovation inom e\-hälsa och pandemins påverkan på området är några av de frågor som kommer att diskuteras.
+Presidenten och kungen besöker Karolinska universitetssjukhuset. Forskning och innovation inom e-hälsa och pandemins påverkan på området är några av de frågor som kommer att diskuteras.
 
 Fru Büdenbender och drottningen besöker Goetheinstitutet för panelsamtal om det viktiga språkutbytet mellan Sverige och Tyskland och hur språkstudier kan uppmuntras.
 
@@ -69,7 +69,7 @@ Besök på Esrange. På rymdbasen Esrange Space Center, som ägs och drivs av de
 Landshövdingen i Norrbottens län står värd för en lunch i Kirunas nya stadshus, Kristallen. Under lunchen kommer flytten av staden att belysas ur olika aspekter.
 
 **Eftermiddag**
-Besök på LKAB. Där kommer arbetet med omställningen av järn\- och stålindustrin för en hållbar framtid att presenteras, vilket bland annat inkluderar fossilfri järn\- och stålproduktion, en digitaliserad, automatiserad och koldioxidfri gruvdrift och produktion av kritiska mineraler från återvunnet gruvavfall.
+Besök på LKAB. Där kommer arbetet med omställningen av järn- och stålindustrin för en hållbar framtid att presenteras, vilket bland annat inkluderar fossilfri järn- och stålproduktion, en digitaliserad, automatiserad och koldioxidfri gruvdrift och produktion av kritiska mineraler från återvunnet gruvavfall.
 
 **Kväll**
 Statsbesöket avslutas när kungaparet tar farväl av sina gäster vid en avskedsceremoni på Kiruna Airport.
@@ -80,6 +80,6 @@ Ett mer detaljerat program kommer att publiceras i anslutning till besöket.
 
 ### Till redaktionen
 
-Medierepresentanter behöver särskild ackreditering via UD för att bevaka statsbesöket. Sista dag att ansöka om ackreditering är torsdagen den 2 september 2021\.
+Medierepresentanter behöver särskild ackreditering via UD för att bevaka statsbesöket. Sista dag att ansöka om ackreditering är torsdagen den 2 september 2021.
 
 Ackrediteringen är stängd.

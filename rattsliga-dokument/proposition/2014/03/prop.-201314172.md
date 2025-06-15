@@ -6,6 +6,6 @@ Det föreslås ett tillägg i ett av de fyra syftena för statsbidraget till fol
 
 Vidare föreslås att de av riksdagen fastställda sju verksamhetsområdena upphävs.
 
-En ny modell för oberoende statlig utvärdering av folkbildningen föreslås. Statskontoret bör ges i uppdrag att genomföra en första samlad utvärdering av folkbildningen. Institutet för arbetsmarknads\- och utbildningspolitisk utvärdering (IFAU) och Myndigheten för kulturanalys bör förse Statskontoret med relevanta underlag.
+En ny modell för oberoende statlig utvärdering av folkbildningen föreslås. Statskontoret bör ges i uppdrag att genomföra en första samlad utvärdering av folkbildningen. Institutet för arbetsmarknads- och utbildningspolitisk utvärdering (IFAU) och Myndigheten för kulturanalys bör förse Statskontoret med relevanta underlag.
 
 Ett antal bedömningar redovisas också avseende folkbildningens betydelse för och arbete med olika samhällsområden och frågor.

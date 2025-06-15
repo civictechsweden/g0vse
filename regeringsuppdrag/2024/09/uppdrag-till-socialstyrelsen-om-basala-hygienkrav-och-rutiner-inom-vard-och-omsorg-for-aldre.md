@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen att informera äldreomsorgen om hur viktigt det är att följa grundläggande hygienkrav och rutiner. Socialstyrelsen ska följa upp hur väl äldreomsorgen efterlever föreskrifter och allmänna råd om smittförebyggande åtgärder enligt lagar och föreskrifter om grundläggande hygien i vård och omsorg i äldreomsorgen.
 
-
 I uppföljningen ingår att:
 
 * kartlägga i vilken utsträckning hygienrutiner ingår i verksamhetens kvalitetsledningssystem,

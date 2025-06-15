@@ -1,17 +1,16 @@
 # Statsminister Ulf Kristerssons jultal
 
-Statsminister Ulf Kristersson höll jultal den 21 december 2022\. Det talade ordet gäller.
-
+Statsminister Ulf Kristersson höll jultal den 21 december 2022. Det talade ordet gäller.
 
 Idag vill jag tala om ansvar – men först om tillståndet i landet.
 
 Sverige befinner sig i ett mycket allvarligt läge. Låt mig tala klartext om det. Utöver den globala klimatkrisen så går vi själva genom tre parallella kriser samtidigt.
 
-Vi har den inre säkerhets\- och trygghetskrisen, med ständiga skjutningar som ett akut symptom. Vi har den yttre säkerhetskrisen med Rysslands anfallskrig mot Ukraina som den omedelbara faran.
+Vi har den inre säkerhets- och trygghetskrisen, med ständiga skjutningar som ett akut symptom. Vi har den yttre säkerhetskrisen med Rysslands anfallskrig mot Ukraina som den omedelbara faran.
 
-Och vi har energikrisen och ett svårt ekonomiskt läge. Åren framöver kan bli de ekonomiskt tuffaste för vårt land sedan 90\-talskrisen och finanskrisen.
+Och vi har energikrisen och ett svårt ekonomiskt läge. Åren framöver kan bli de ekonomiskt tuffaste för vårt land sedan 90-talskrisen och finanskrisen.
 
-Det dödliga skjutvapenvåldet slår förfärliga rekord och är i hög grad en helt självförvållad svensk kris. Inget annat land i EU är i närheten av våra nivåer. Från den 1 januari fram till den 15 december har 60 personer dödats och 104 skadats \- i 378 svenska skjutningar. I Danmark har fyra dödats, i Norge fyra och i Finland två.
+Det dödliga skjutvapenvåldet slår förfärliga rekord och är i hög grad en helt självförvållad svensk kris. Inget annat land i EU är i närheten av våra nivåer. Från den 1 januari fram till den 15 december har 60 personer dödats och 104 skadats - i 378 svenska skjutningar. I Danmark har fyra dödats, i Norge fyra och i Finland två.
 
 Hittills i år har lika många skjutits ihjäl i Södertälje som i hela London. Det är en utveckling så förfärlig att den är svår att ta in. Främst mycket unga personer dödas och skadas. Det är också mycket unga personer som dödar och skadar. Nästan alltid inom ramen för organiserade kriminella gäng. Nästan alltid med utländsk bakgrund.
 
@@ -19,13 +18,13 @@ Skjutvapenvåldet sker ofta i offentliga miljöer och skapar otrygghet och ofrih
 
 Den yttre säkerhetskrisen drabbar allra mest Ukraina, efter Rysslands anfall den 24 februari. Den ukrainska militären och civilbefolkningen lever i ett krigstillstånd som många hoppades aldrig skulle återkomma i Europa – med skyttegravar, terrorbombningar och massdeportationer. Men Ukrainas folk visar också varje dag vad fria människor kan göra.
 
-Ryssland har skapat en mycket större konflikt – mot väst och hela det demokratiska Europa. Vårt säkerhetspolitiska läge är det sämsta sedan andra världskriget. Vi kan inte heller utesluta risken att konflikten sprider sig ytterligare. Och på flera vis är Sverige redan inne i det man kallar gråzons\-krigföring: Sprängningen av Nord Stream\-rören utanför Bornholm. IT\-attacker som drabbar Sverige varje vecka. Utländska makter som vill försvaga oss.
+Ryssland har skapat en mycket större konflikt – mot väst och hela det demokratiska Europa. Vårt säkerhetspolitiska läge är det sämsta sedan andra världskriget. Vi kan inte heller utesluta risken att konflikten sprider sig ytterligare. Och på flera vis är Sverige redan inne i det man kallar gråzons-krigföring: Sprängningen av Nord Stream-rören utanför Bornholm. IT-attacker som drabbar Sverige varje vecka. Utländska makter som vill försvaga oss.
 
 Energikrisen och det svåra ekonomiska läget känns hemma hos varje hushåll. Elpriset är skyhögt. Inflationen ligger på nivåer som ingen har upplevt på decennier. Räntorna tickar uppåt för varje centralbanksmöte. Den återhämtning som en hel värld längtade efter när pandemin ebbade ut är avbruten. Tillväxten kommer att bromsa in eller bli negativ, arbetslösheten kommer att stiga.
 
 Efter åtta år med instabil regeringsmakt utan riktning, muskler och mandat; efter åtta år av tilltagande parlamentariskt kaos i svensk politik med fallna budgetar och regeringar – och efter 12 år med regeringar utan stöd av en majoritet i Sveriges riksdag – har Sverige nu fått en beslutsför regering. Som vet vad den vill och har stöd för att genomföra de reformer som krävs.
 
-Jag sa i valrörelsen att förändring är absolut nödvändig – men också att förändring är möjlig. De fyra samarbetspartier som nu har majoritet i riksdagen \- och som står bakom den nya regeringen \- har lagt väl kända åsiktsskillnader åt sidan för att kunna fokusera på att lösa Sveriges riktigt stora problem. Åren av ständigt svagare regeringsmakt är över. Vi kommer att genomföra ett paradigmskifte i svensk politik.
+Jag sa i valrörelsen att förändring är absolut nödvändig – men också att förändring är möjlig. De fyra samarbetspartier som nu har majoritet i riksdagen - och som står bakom den nya regeringen - har lagt väl kända åsiktsskillnader åt sidan för att kunna fokusera på att lösa Sveriges riktigt stora problem. Åren av ständigt svagare regeringsmakt är över. Vi kommer att genomföra ett paradigmskifte i svensk politik.
 
 I söndags hade jag och regeringen arbetat i exakt två månader. Och alla förstår naturligtvis att man inte på bara åtta veckor hinner lösa de problem som har vuxit fram under mer än åtta år. Men jag vill att svenska folket ska veta att vi jobbar metodiskt med ett brett reformprogram för att klara av de tre kriserna: stärka rättsstaten, stärka svensk och europeisk säkerhet och stärka energisystemet och den svenska konkurrenskraften.
 
@@ -33,11 +32,11 @@ Vi har i dessa två månader förberett reformerna, som under de kommande åren 
 
 Polisen får nu ökade resurser, större och fler befogenheter. Precis som vi sa i valrörelsen. Brottslingar får strängare straff. Att ta tillbaka kontrollen från kriminella gäng är vår tids största frihetsfråga, inte minst i utsatta områden. Under våra första 100 dagar kommer vi ta konkreta steg på vägen mot anonyma vittnen, visitationszoner, fler fängelser, ökade straff för kriminella gäng, ökat informationsutbyte mellan myndigheter och mycket mer. Som vi sa, i valrörelsen.
 
-Ett starkt försvar som skyddar Sveriges och Europas frihet är precis som polis och domstolar en statlig kärnuppgift. Därför ökar vi hjälpen till Ukraina, militärt, humanitärt och ekonomiskt \- precis som vi sa före valet. Regeringen beslutade nyligen om ett mycket stort svenskt stödpaket till Ukraina, större än alla de tidigare tillsammans.
+Ett starkt försvar som skyddar Sveriges och Europas frihet är precis som polis och domstolar en statlig kärnuppgift. Därför ökar vi hjälpen till Ukraina, militärt, humanitärt och ekonomiskt - precis som vi sa före valet. Regeringen beslutade nyligen om ett mycket stort svenskt stödpaket till Ukraina, större än alla de tidigare tillsammans.
 
-Samtidigt stärker vi kraftigt vår egen försvarsförmåga, för att möta Natos målsättning om två procent av BNP, senast 2026\. Alla försvarsgrenar ska stärkas, liksom det civila försvaret. Sverige är ett högteknologiskt land och vi bygger ett högteknologiskt försvar. Vi förbereder Sveriges roll som ny medlem i Nato. Vi inte bara söker skydd gemensamt, vi vill också erbjuda ett gemensamt skydd.
+Samtidigt stärker vi kraftigt vår egen försvarsförmåga, för att möta Natos målsättning om två procent av BNP, senast 2026. Alla försvarsgrenar ska stärkas, liksom det civila försvaret. Sverige är ett högteknologiskt land och vi bygger ett högteknologiskt försvar. Vi förbereder Sveriges roll som ny medlem i Nato. Vi inte bara söker skydd gemensamt, vi vill också erbjuda ett gemensamt skydd.
 
-Vi för en ansvarsfull ekonomisk politik för att dämpa inflationen. Vi stärker välfärdens kärna, värnar de sociala skyddsnäten och en robust a\-kassa. Precis som vi sa i valrörelsen så står vi upp för arbetslinjen och den grundläggande tanken att alla som kan, ska försörja sig själva.
+Vi för en ansvarsfull ekonomisk politik för att dämpa inflationen. Vi stärker välfärdens kärna, värnar de sociala skyddsnäten och en robust a-kassa. Precis som vi sa i valrörelsen så står vi upp för arbetslinjen och den grundläggande tanken att alla som kan, ska försörja sig själva.
 
 Vi återkommer under mandatperioden med borgerliga reformer som ytterligare ökar drivkrafterna för arbete, som sänker skatten på sparande och på arbete även för pensionärer, liksom lägre anställningskostnader för långtidsarbetslösa. Och det långsiktigt kanske allra viktigaste för vårt välstånd: en tryggare skolmiljö och tydligt kunskapsfokus i skolan.
 
@@ -47,9 +46,9 @@ De rödgröna regeringarna avvecklade den kärnkraft som de borde ha utvecklat: 
 
 Sverige har nu bara sex reaktorer kvar, men vi kunde haft 12 och ett mycket stabilare energisystem med lägre priser och lägre klimatutsläpp.
 
-Energifrågan har paralyserat svenska regeringar sedan 1980\-talet, men nu finns en majoritet i riksdagen för ett paradigmskifte även i energipolitiken. Vi kommer att genomföra reformer som ger långsiktigt goda förutsättningar för investeringar i ny kärnkraft. Precis som vi sa före valet. Vi ser mycket positivt på förra veckans genombrott för fussionskraft i USA. Och investeringarna i vind och sol kommer fortsätta.
+Energifrågan har paralyserat svenska regeringar sedan 1980-talet, men nu finns en majoritet i riksdagen för ett paradigmskifte även i energipolitiken. Vi kommer att genomföra reformer som ger långsiktigt goda förutsättningar för investeringar i ny kärnkraft. Precis som vi sa före valet. Vi ser mycket positivt på förra veckans genombrott för fussionskraft i USA. Och investeringarna i vind och sol kommer fortsätta.
 
-I hela Europa ställer man nu om energiförsörjningen. Att bli av med oljan var på 70\-talet en fråga om ekonomi. Sen blev det en fråga om klimat. Nu är det också en fråga om säkerhetspolitik.
+I hela Europa ställer man nu om energiförsörjningen. Att bli av med oljan var på 70-talet en fråga om ekonomi. Sen blev det en fråga om klimat. Nu är det också en fråga om säkerhetspolitik.
 
 Klimatfrågan börjar och slutar med energipolitiken. Det är därför som vi – precis som Danmark och Tyskland – lägger ihop de frågorna i det nya gemensamma superdepartementet. Sverige ska åter bli ledande i utbyggnaden av fossilfri kraft, både sådan som är planerbar och sådan som är väderberoende. Myndigheterna kommer få uppdrag att påbörja koldioxidinfångning och ta breda initiativ för energieffektivisering.
 
@@ -85,7 +84,7 @@ Men också till allas rätt att älska vem man vill; till barns rätt att vara a
 
 Skolpersonal och socialsekreterare är viktiga medarbetare och jag vill tacka för er insats. Utan er hade det aldrig fungerat. Men det viktigaste förebyggande arbetet mot kriminalitet utförs i hemmet, i kamratskap, i föräldraskap, i syskonskap, och av släkt och vänner, av föreningar och företag och det utförs varje dag, dygnet runt på ett sätt som gör skillnad. Jag vill uppriktigt tacka också för er insats.
 
-Den yttre säkerhetskrisen handlar också om de många människornas ansvar. Vi stärker försvaret, men utan personal har vi inget försvar. Under de kommande åren måste tiotusentals människor i vårt land säga ja till att göra sin värnpliktsutbildning, säga ja till att ta ansvar för en grupp eller pluton, för ett fartyg eller ett stridsfordon. Mina egna döttrar är två av tusentals ungdomar som nu tar det ansvaret \- vid T2 i Skövde och på Ledningsregementet i Enköping.
+Den yttre säkerhetskrisen handlar också om de många människornas ansvar. Vi stärker försvaret, men utan personal har vi inget försvar. Under de kommande åren måste tiotusentals människor i vårt land säga ja till att göra sin värnpliktsutbildning, säga ja till att ta ansvar för en grupp eller pluton, för ett fartyg eller ett stridsfordon. Mina egna döttrar är två av tusentals ungdomar som nu tar det ansvaret - vid T2 i Skövde och på Ledningsregementet i Enköping.
 
 Många människor kommer att behöva flytta, vara borta, gå svåra utbildningar och ytterst vara beredda att offra allt. Från hemvärnsoldaten till stridspiloten, från skyttesoldaten till ubåtskaptenen, från de viktiga gruppbefälen till generalerna, krävs samma sak: ansvar och pliktkänsla, annars går det inte. Jag vill tacka för er insats.
 
@@ -103,16 +102,16 @@ Sydsvenskarna väntade inte på att någon annan skulle göra det, utan de tog e
 
 Kriminaliteten, kriget och den svåra ekonomiska situationen gör att många känner oro och ovisshet. Framtiden är mörkare än den var förr. Jag är övertygad om att alla är beredda att ta ansvar. Staten ska ta sitt, jag som statsminister ska ta mitt och jag är säker på att svenska folket kommer att ta sitt. Det har vi gjort förr och klarat av förr.
 
-I varje kris har vi byggt landet starkare, friare och bättre att leva i. Och i varje kris har enskilda tagit ansvar \- för sig och de sina, för grannar och vänner, för arbetskamrater och medborgare, för sitt land och för sina ideal. Men också för att lindra nöd och öka friheten för folk i andra länder. Det har aldrig varit lätt, men viljan att ta ansvar har alltid funnits där. Kraften när många tar ansvar ändrar historiens gång och bygger Sverige starkare.
+I varje kris har vi byggt landet starkare, friare och bättre att leva i. Och i varje kris har enskilda tagit ansvar - för sig och de sina, för grannar och vänner, för arbetskamrater och medborgare, för sitt land och för sina ideal. Men också för att lindra nöd och öka friheten för folk i andra länder. Det har aldrig varit lätt, men viljan att ta ansvar har alltid funnits där. Kraften när många tar ansvar ändrar historiens gång och bygger Sverige starkare.
 
 Förra vintern läste jag Kerstin Ekmans senaste bok, Löpa Varg. En jägmästare som hade arbetat på Domänverket i hela sitt liv får en existentiell kris när han på jaktpasset ser en varg på andra sidan myren, på skarsnön mellan en enbuske och en förkrympt tall. Han förlorar sin överhöghet inför djuret och hamnar i vördnad och ångest inför allt vilt och alla träd som han har fällt.
 
-Kerstin Ekman kretsar på sitt typiska sätt kring en av vår tids stora frågor – hur människan ska leva med resten av det levande, kring ödesfrågorna klimat\- och miljö. Boken är en tankeställare för alla oss som tar ansvar för skogsbruk, biologisk mångfald och viltvård. Hon är sörmlänning men hon skriver så vackert om snön, tallarna, skogsbrynet och kvällen om våren i nedre Norrland.
+Kerstin Ekman kretsar på sitt typiska sätt kring en av vår tids stora frågor – hur människan ska leva med resten av det levande, kring ödesfrågorna klimat- och miljö. Boken är en tankeställare för alla oss som tar ansvar för skogsbruk, biologisk mångfald och viltvård. Hon är sörmlänning men hon skriver så vackert om snön, tallarna, skogsbrynet och kvällen om våren i nedre Norrland.
 
 Men som läsare fäster man sig snart vid en annan person i boken. Jägmästaren är inte ensam. Han lever i en ständig dialog med sin livskamrat, sin fru, som hjälper honom nu när han är i kris. Det säger något viktig om oss människor. Bakom allt arbete och yttre händelser finns relationer mellan människor, som hjälper varandra genom livet. Det kan vara syskon, vänner, livskamrater, föräldrar, barn och eldsjälar i församlingar och föreningar. Som stöttar varandra, som plåstrar om, som uppfostrar barn ihop, som driver bort ensamheten i julmörkret.
 
 Ni är det allra viktigaste i vårt samhälle. Ni är det allra bästa med Sverige.
 
-Nu vill jag önska er en riktigt god jul och ett välförtjänt jullov för alla skolelever. På det nya året tar vi nya tag. Var och en \- och tillsammans.
+Nu vill jag önska er en riktigt god jul och ett välförtjänt jullov för alla skolelever. På det nya året tar vi nya tag. Var och en - och tillsammans.
 
 Tack!

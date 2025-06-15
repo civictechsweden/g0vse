@@ -9,4 +9,4 @@ Avsiktsförklaringen ska bland annat:
 * Stärka försvarssamarbetet mellan länderna.
 * Stärka samarbetet med att tackla hybrida hot och med att bekämpa desinformation.
 * Utöka samarbetet rörande implementeringen av FN:s säkerhetsrådsresolution 1325 om kvinnor, fred och säkerhet.
-* Öka teknik\- och kunskapsutbytet.
+* Öka teknik- och kunskapsutbytet.

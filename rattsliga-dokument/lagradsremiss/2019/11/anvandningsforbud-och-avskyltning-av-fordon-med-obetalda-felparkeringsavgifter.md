@@ -6,4 +6,4 @@ ta hand om fordonets registreringsskyltar om användningsförbudet överträds.
 
 Vidare föreslås vissa mindre ändringar som rör rätten att ta fordon i
 anspråk för fordringar på vissa skatter och avgifter.
-Lagändringarna föreslås träda i kraft den 1 januari 2021\.
+Lagändringarna föreslås träda i kraft den 1 januari 2021.

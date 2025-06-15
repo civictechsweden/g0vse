@@ -4,7 +4,7 @@ På BTH besöker utbildningsministern bland annat Nationellt undervattensteknisk
 
 Ministern kommer också att besöka Karlskrona Education Hub (KEH) som samlar nationellt, regionalt och kommunalt tillgängliga utbildningar för att möta arbetsgivares kompetensbehov.
 
-– För att få in rätt och skicklig kompetens på arbetsmarknaden krävs satsningar på alla plan. När det nu uppdagas att studenter på lärosäten runt om i Sverige har försämrade läs\- och skrivförmågor, är det extra viktigt med samarbete mellan olika aktörer för att få kompetenta och skickliga framtida arbetstagare. Det ska bli väldigt spännande att höra mer om Blekinge tekniska högskolas och KEH:s arbete, säger utbildningsminister Johan Pehrson.
+– För att få in rätt och skicklig kompetens på arbetsmarknaden krävs satsningar på alla plan. När det nu uppdagas att studenter på lärosäten runt om i Sverige har försämrade läs- och skrivförmågor, är det extra viktigt med samarbete mellan olika aktörer för att få kompetenta och skickliga framtida arbetstagare. Det ska bli väldigt spännande att höra mer om Blekinge tekniska högskolas och KEH:s arbete, säger utbildningsminister Johan Pehrson.
 
 I Ronneby besöker ministern Gymnasieskolan Knut Hahn som tidigare hade utmaningar med stök och otrygghet, men som i dag vänt utvecklingen.
 

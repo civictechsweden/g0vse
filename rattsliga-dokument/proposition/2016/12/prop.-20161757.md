@@ -8,6 +8,6 @@ Regeringen föreslår också att en begäran om handräckning med stöd av vissa
 
 Regeringen föreslår även att Polismyndigheten ges ett övergripande ansvar för transporter som sker inom ramen för internationellt samarbete. Även dessa transporter ska få överlämnas av Polismyndigheten till Kriminalvården.
 
-Lagändringarna föreslås träda i kraft den 1 april 2017\.
+Lagändringarna föreslås träda i kraft den 1 april 2017.
 
 [Pressmeddelande: Transporter av frihetsberövade](/pressmeddelanden/2016/12/transporter-av-frihetsberovade/)

@@ -7,9 +7,9 @@ Sammanläggningarna syftar till att långsiktigt stärka kommunernas kapacitet a
 Utredaren ska bl.a.
 
 * i dialog med kommuner undersöka intresset för frivilliga
-sammanläggningar,
+  sammanläggningar,
 * lämna förslag till statligt stöd som kan erbjudas enskilda kommuner för att påbörja ett arbete med sammanläggningar, och
 * bedöma förutsättningarna för att fortsätta arbetet med
-sammanläggningar, och vid behov lämna förslag till statliga åtgärder.
+  sammanläggningar, och vid behov lämna förslag till statliga åtgärder.
 
-Uppdraget ska redovisas senast den 30 november 2023\.
+Uppdraget ska redovisas senast den 30 november 2023.

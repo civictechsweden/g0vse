@@ -10,4 +10,4 @@ I lagrådsremissen föreslås också förtydliganden i socialavgiftslagen och sk
 
 I lagrådsremissen föreslås även att det i fastighetstaxeringslagen ska införas en bestämmelse om undertecknande av fastighetsdeklaration och påpekande med anledning av förslag till fastighetstaxering samt att uttrycket behörig ställföreträdare ska införas i lagen.
 
-Ändringarna i fastighetstaxeringslagen föreslås träda i kraft den 1 juli 2017\. I övrigt föreslås de nya bestämmelserna träda i kraft den 1 januari 2018\.
+Ändringarna i fastighetstaxeringslagen föreslås träda i kraft den 1 juli 2017. I övrigt föreslås de nya bestämmelserna träda i kraft den 1 januari 2018.

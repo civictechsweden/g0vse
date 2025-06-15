@@ -4,14 +4,13 @@ Fredagen den 24 februari talade statsminister Ulf Kristersson på Sergels torg u
 
 Det talade ordet gäller.
 
-
 Varmt tack!
 
 Så här sa president Zelenskyj när han 2019 och helt nyvald talade till det ukrainska parlamentet:
 
 ”Vi har slagit in på vägen till Europa, men Europa är inte någonting som finns någonstans där borta. Europa sitter här (i huvudet). När det väl är på plats här, då kommer det snart att finnas överallt i Ukraina.”
 
-Det vägvalet bestraffade Putin\-regimen genom att stympa Ukraina. Vi minns alla vad som hände på Krim och i Donbas. Men det var fortfarande före den fullskaliga invasionen, för att utplåna Ukraina som självständig nation.
+Det vägvalet bestraffade Putin-regimen genom att stympa Ukraina. Vi minns alla vad som hände på Krim och i Donbas. Men det var fortfarande före den fullskaliga invasionen, för att utplåna Ukraina som självständig nation.
 
 Idag har det kriget pågått i exakt ett år. Vi minns nog alla här vad vi gjorde tidigt den morgonen för ett år sedan.
 
@@ -27,7 +26,7 @@ En del ville inte ens skicka vapen för att hjälpa Ukraina. För att det ansåg
 
 Andra sa vid den här tiden fortfarande att försvarsindustri inte är en ”hållbar investering”. Just det har jag faktiskt inte hört sedan dess. Fråga Ukraina om deras soldater utan våra vapen hade varit hållbart mot Ryssland.
 
-De senaste veckorna har Sverige varit i intensiv dialog med våra partners i EU och Nato. Regeringen kunde därför i dag meddela att vi tillsammans med Tyskland och andra länder i den internationella Leopard\-familjen kommer skicka tio svenska Leopardstridsvagnar till Ukraina.
+De senaste veckorna har Sverige varit i intensiv dialog med våra partners i EU och Nato. Regeringen kunde därför i dag meddela att vi tillsammans med Tyskland och andra länder i den internationella Leopard-familjen kommer skicka tio svenska Leopardstridsvagnar till Ukraina.
 
 För att Vi stöttar Ukraina!
 
@@ -47,7 +46,7 @@ Som generationer före oss, har vi nu ett val att göra. Står vi ytterst med de
 
 Exemplen finns även i vår egen moderna historia. I den norska motståndsrörelsens kamp mot Nazityskland. Den finländska kampen för att försvara sitt land mot kommunismen under vinterkriget. Låt det inte råda något tvivel om att Sverige stöttar de ukrainare som nu följer i deras fotspår.
 
-Vi gör det inte för att vi måste \- utan för att vi vill. För att det är rätt. För att samma blågula värderingar som vägleder Ukraina till en framtid i frihet och trygghet också vägleder oss.
+Vi gör det inte för att vi måste - utan för att vi vill. För att det är rätt. För att samma blågula värderingar som vägleder Ukraina till en framtid i frihet och trygghet också vägleder oss.
 
 För att det finns en väg till frihet och demokrati, men också en väg som leder från frihet och demokrati. Och i det vägvalet finns inte längre någon neutralitet.
 
@@ -63,7 +62,7 @@ Vi stöttar Ukraina!
 
 I förra veckan var jag i Ukrainas huvudstad Kiev. Jag träffade naturligtvis president Zelenskyj igen – och imponerades av hans ledarskap och uthållighet. Men det starkaste intrycket var inte att han klarar det – för det visste jag.
 
-Utan att alla andra gör det. Det ord som mer än något annat sammanfattade alla mina möten – från presidenten och premiärministern, via riksåklagaren till tågpersonalen och de imponerande 20\-åriga studenterna på Kiev School of Economics var detta: Beslutsamhet.
+Utan att alla andra gör det. Det ord som mer än något annat sammanfattade alla mina möten – från presidenten och premiärministern, via riksåklagaren till tågpersonalen och de imponerande 20-åriga studenterna på Kiev School of Economics var detta: Beslutsamhet.
 
 De säger: Vi gör det vi måste, vi gör det vi vill. Beslutsamhet. De säger: Vi kommer att vinna till slut. Och eftersom vi ännu inte har vunnit så är det heller ännu inte slut.
 

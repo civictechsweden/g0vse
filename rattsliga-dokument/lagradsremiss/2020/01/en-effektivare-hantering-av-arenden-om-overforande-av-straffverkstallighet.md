@@ -6,4 +6,4 @@ I lagrådsremissen föreslås ett krav på skyndsam handläggning av denna typ a
 
 I lagrådsremissen lämnas också förslag till lagändringar när det gäller regeringens tillkännagivande av vissa internationella överenskommelser.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2020\.
+Lagändringarna föreslås träda i kraft den 1 juli 2020.

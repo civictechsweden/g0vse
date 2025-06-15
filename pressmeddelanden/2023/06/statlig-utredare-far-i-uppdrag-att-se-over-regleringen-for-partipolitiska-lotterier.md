@@ -12,4 +12,4 @@ En utredning ska nu se över det undantag från bland annat kreditförbud, bonus
 
 Utredare är Gunnar Larsson, tidigare konsumentombudsman och generaldirektör för Konsumentverket. Han har bland annat tjänstgjort som domare och har omfattande erfarenhet av statliga utredningar, bland annat på spelområdet.
 
-Uppdraget omfattar inte verksamheter som har andra allmännyttiga ändamål än partipolitiska, till exempel religiösa, välgörande, sociala, konstnärliga, kulturella eller idrottsliga. Uppdraget ska redovisas senast den 29 februari 2024\.
+Uppdraget omfattar inte verksamheter som har andra allmännyttiga ändamål än partipolitiska, till exempel religiösa, välgörande, sociala, konstnärliga, kulturella eller idrottsliga. Uppdraget ska redovisas senast den 29 februari 2024.

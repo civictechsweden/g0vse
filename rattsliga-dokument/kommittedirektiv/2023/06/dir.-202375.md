@@ -7,10 +7,10 @@ näringsverksamheten samt för rätten till avdrag för resor till och från arb
 Utredaren ska bl.a.
 
 * analysera hur bestämmelserna för fastställande av tjänsteställets
-placering i inkomstslagen tjänst och näringsverksamhet kan ändras
-för att göras mer tydliga och förutsägbara,
-* analysera om bestämmelserna om avdrag för ökade levnads\-kostnader vid resa i tjänsten eller i näringsverksamheten samt vid tillfälligt arbete och dubbel bosättning är ändamålsenligt utformade,
+  placering i inkomstslagen tjänst och näringsverksamhet kan ändras
+  för att göras mer tydliga och förutsägbara,
+* analysera om bestämmelserna om avdrag för ökade levnads-kostnader vid resa i tjänsten eller i näringsverksamheten samt vid tillfälligt arbete och dubbel bosättning är ändamålsenligt utformade,
 * särskilt bedöma om de tidsgränser och beloppsnivåer som gäller för avdrag för ökade levnadskostnader bör ändras för att bli tydligare och mer förutsägbara, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 15 januari 2025\.
+Uppdraget ska redovisas senast den 15 januari 2025.

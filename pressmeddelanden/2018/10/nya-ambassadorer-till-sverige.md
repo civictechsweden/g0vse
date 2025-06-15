@@ -4,7 +4,7 @@
 
 har examina i ekonomi och internationella relationer. Han har tjänstgjort i utrikesministeriet sedan 1985 och har de senaste åren innehaft bl.a. följande befattningar:
 
-2015 \- Enhetschef, Amerikaenheten, Utrikesministeriet.
+2015 - Enhetschef, Amerikaenheten, Utrikesministeriet.
 
 2011 – 2015 Ambassadör i Zambia och Malawi, ständig representant till COMESA(Common Market for Eastern and Southern Africa).
 
@@ -18,7 +18,7 @@ har examina i ekonomi och internationella relationer. Han har tjänstgjort i utr
 
 har en doktorsexamen i juridik samt en magisterexamen i utvecklingsplanering. Hon har tjänstgjort i utrikesministeriet sedan 1990 och har de senaste åren innehaft bl.a. följande befattningar:
 
-2014 \-  Enhetschef, Enhet för Information, dokumentation och kunskapshantering, Utrikesministeriet.
+2014 -  Enhetschef, Enhet för Information, dokumentation och kunskapshantering, Utrikesministeriet.
 
 2009 – 2013 Ambassadör, ambassaden i Addis Abeba, Etiopien. Permanent representant till Afrikanska Unionen.
 
@@ -30,7 +30,7 @@ har en doktorsexamen i juridik samt en magisterexamen i utvecklingsplanering. Ho
 
 ### H.E. Mr Kena Mphonda, Malawi (med sidoackreditering från London)
 
-har tjänstgjort till och från i utrikesministeriet sedan 1985\. De senaste åren har han innehaft följande befattningar:
+har tjänstgjort till och från i utrikesministeriet sedan 1985. De senaste åren har han innehaft följande befattningar:
 
 2015 – Ambassadör, Malawi High Commission, London
 
@@ -42,12 +42,12 @@ har tjänstgjort till och från i utrikesministeriet sedan 1985\. De senaste år
 
 2004 – 2006 Biträdande protokollchef vid utrikesministeriet i Lilongwe
 
-### H.E. Ms Amerley Ollennu Awua\-Asamoa, Ghana (med sidoackreditering från Köpenhamn)
+### H.E. Ms Amerley Ollennu Awua-Asamoa, Ghana (med sidoackreditering från Köpenhamn)
 
-har under större delen av sitt liv arbetat med strategisk personalhantering samt varit en förespråkare inom kvinno\- och utvecklingsfrågor. Hon har över 25 års erfarenhet av strategisk planering, politisk utformning, projektstyrning samt genomförande och övervakning av projekt. Ambassadör Amerley Ollennu Awua\-Asamoa har en fil.mag. i företagsekonomi samt en fil.kand. i juridik och sociologi. Under de senaste åren har hon haft bl.a. följande befattningar:
+har under större delen av sitt liv arbetat med strategisk personalhantering samt varit en förespråkare inom kvinno- och utvecklingsfrågor. Hon har över 25 års erfarenhet av strategisk planering, politisk utformning, projektstyrning samt genomförande och övervakning av projekt. Ambassadör Amerley Ollennu Awua-Asamoa har en fil.mag. i företagsekonomi samt en fil.kand. i juridik och sociologi. Under de senaste åren har hon haft bl.a. följande befattningar:
 
-2018\-  Ambassadör, Ghanas ambassad, Köpenhamn
+2018-  Ambassadör, Ghanas ambassad, Köpenhamn
 
-1992\-2016 Administrationschef, personal\- och regionalchef samt senast generaldirektör i Electricity Company of Ghana
+1992-2016 Administrationschef, personal- och regionalchef samt senast generaldirektör i Electricity Company of Ghana
 
-1989\-1992 Chef för kvinnofrågor vid World Federation of UN Association i Accra
+1989-1992 Chef för kvinnofrågor vid World Federation of UN Association i Accra

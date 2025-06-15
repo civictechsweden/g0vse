@@ -14,13 +14,12 @@ Skillnaden mellan ordinärt boende och biståndsbedömt trygghetsboende är att 
 
 ## Hemtjänsten ska kunna hjälpa till
 
-Stöd och hjälp från hemtjänsten ska kunna erbjudas efter biståndsprövning. Kravet på dygnet runt\-bemanning utifrån den enskildes aktuella behov bör dock inte gälla för biståndsbedömt trygghetsboende.
+Stöd och hjälp från hemtjänsten ska kunna erbjudas efter biståndsprövning. Kravet på dygnet runt-bemanning utifrån den enskildes aktuella behov bör dock inte gälla för biståndsbedömt trygghetsboende.
 
 Om den äldres efter en tid behöver mer omfattande stöd bör han eller hon motiveras att flytta till en boendeform som bättre passar behoven.
 
 ## Ska kunna erbjuda hemsjukvård
 
-Kommunens ansvar för hälso\- och sjukvård i särskilda boendeformer ska inte omfatta biståndsbedömt trygghetsboende. Kommunen ska däremot få erbjuda hemsjukvård.
-
+Kommunens ansvar för hälso- och sjukvård i särskilda boendeformer ska inte omfatta biståndsbedömt trygghetsboende. Kommunen ska däremot få erbjuda hemsjukvård.
 
 Landstinget ska få överlåta sin skyldighet att erbjuda hemsjukvård i dessa boenden till en kommun om landstinget och kommunen kommer överens om det.

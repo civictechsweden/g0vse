@@ -2,12 +2,11 @@
 
 Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Pakistan samt en länk till rapporten i sin helhet.
 
-
 Pakistans konstitution garanterar grundläggande politiska och medborgerliga, ekonomiska och sociala rättigheter, men implementeringen brister. Lagstiftning och institutioner till skydd för mänskliga rättigheter finns och stärks kontinuerligt, men tillämpning samt resurser och kapacitet brister. Provinsernas lagstiftande kompetenser bidrar till att situationen varierar inom landet.
 
-Kränkningar och övergrepp av mänskliga rättigheter begås såväl av statliga som icke\-statliga aktörer och präglas av straffrihet. Tortyr, påtvingade försvinnanden, utomrättsliga avrättningar och godtyckliga frihetsberövanden är vanligt i samband med militär och polisers insatser mot misstänkta terrorister.
+Kränkningar och övergrepp av mänskliga rättigheter begås såväl av statliga som icke-statliga aktörer och präglas av straffrihet. Tortyr, påtvingade försvinnanden, utomrättsliga avrättningar och godtyckliga frihetsberövanden är vanligt i samband med militär och polisers insatser mot misstänkta terrorister.
 
-Pakistan är ett av världens farligaste länder för journalister. Yrkesgruppen, liksom människorättsförsvarare, utsätts för våld och påtvingade försvinnanden. Media och civilsamhällets utrymme minskar. Särskilt utländska icke\-statliga organisationer får svårare att verka i landet.
+Pakistan är ett av världens farligaste länder för journalister. Yrkesgruppen, liksom människorättsförsvarare, utsätts för våld och påtvingade försvinnanden. Media och civilsamhällets utrymme minskar. Särskilt utländska icke-statliga organisationer får svårare att verka i landet.
 
 Parlamentsvalet 2018 ledde till regeringsskifte mellan två demokratiskt valda regeringar efter fullgjord mandatperiod, detta för andra gången i Pakistan. Trots en valreform innebar det få framsteg för kvinnor och minoriteters politiska rättigheter. Militärens inflytande förblir stort och offentliga institutioner är överlag svaga.
 

@@ -2,7 +2,6 @@
 
 Statsminister Ulf Kristersson informerar Sveriges riksdag om regeringens prioriteringar och arbetsprogram inför ordförandeskapet i Europeiska unionens råd våren 2023
 
-
 Herr talman!
 
 Varje tid har sin frihetsfråga. Och trygghet har blivit vår tids stora svenska frihetsfråga. Vi förstår det, när gängkriminella begränsar hederliga medborgares frihet i många bostadsområden. Vi förstår det, när hot och utpressning drabbar många småföretagare i socialt utsatta områden. Därför har jag och den nya regeringen gjort tryggheten till en helt avgörande politisk prioritering.
@@ -51,21 +50,21 @@ Den inre marknaden är ett medel både för välstånd och för den gröna omst�
 
 EU är världsledande i klimatarbetet och den positionen vill Sverige förstärka under ordförandeskapet. Att EU:s institutioner enats om att fasa ut alla nya fossildrivna bilar till 2035 är ett stort kliv i rätt riktning.
 
-Klimatomställningen börjar och slutar med energin. Det gäller transporter och det gäller industrin. Dessutom har Rysslands invasion av Ukraina gjort utfasning av fossila bränslen ännu mer angelägen. Att bli av med det fossila började på 70\-talet som en prisfråga.  Det blev på 80\- och 90\-talen även en miljö\- och klimatfråga. Och nu har det dessutom blivit en säkerhetspolitisk fråga. Under en kall vinter måste EU stå enat för att klara av både energiomställningen och uppgiften att värma upp europeiska hem.
+Klimatomställningen börjar och slutar med energin. Det gäller transporter och det gäller industrin. Dessutom har Rysslands invasion av Ukraina gjort utfasning av fossila bränslen ännu mer angelägen. Att bli av med det fossila började på 70-talet som en prisfråga.  Det blev på 80- och 90-talen även en miljö- och klimatfråga. Och nu har det dessutom blivit en säkerhetspolitisk fråga. Under en kall vinter måste EU stå enat för att klara av både energiomställningen och uppgiften att värma upp europeiska hem.
 
-Därför kommer Sverige prioritera arbetet med att påskynda EU:s elektrifiering. Till exempel genom arbetet med en ny batteriförordning och fortsatta förhandlingar om att öka den fossilfria energiproduktionen. Vi kommer att ta vidare arbetet med förslagen i gasmarknadspaketet, för att ersätta rysk fossilenergi med andra koldioxidsnåla energikällor. Samtidigt som de EU\-länder som själva vill, fortsätter ta ansvar genom att bygga ny kärnkraft.
+Därför kommer Sverige prioritera arbetet med att påskynda EU:s elektrifiering. Till exempel genom arbetet med en ny batteriförordning och fortsatta förhandlingar om att öka den fossilfria energiproduktionen. Vi kommer att ta vidare arbetet med förslagen i gasmarknadspaketet, för att ersätta rysk fossilenergi med andra koldioxidsnåla energikällor. Samtidigt som de EU-länder som själva vill, fortsätter ta ansvar genom att bygga ny kärnkraft.
 
 Herr talman,
 
-Sverige ska vara en pådrivande ordförande och erbjuda ett konstruktivt ledarskap för att fördjupa EU:s styrkor och finna kompromisser i Europeiska rådet. Vi kommer se till det gemensamma europeiska intresset och visa ödmjukhet inför medlemsstaters mångfald. Precis som här hemma är den nya regeringens mål att samla, inte att splittra \- att ena, inte att dela. Det kommer kräva att vi ibland lägger lite band på oss själva och medlar och mäklar lite mer än vi predikar.
+Sverige ska vara en pådrivande ordförande och erbjuda ett konstruktivt ledarskap för att fördjupa EU:s styrkor och finna kompromisser i Europeiska rådet. Vi kommer se till det gemensamma europeiska intresset och visa ödmjukhet inför medlemsstaters mångfald. Precis som här hemma är den nya regeringens mål att samla, inte att splittra - att ena, inte att dela. Det kommer kräva att vi ibland lägger lite band på oss själva och medlar och mäklar lite mer än vi predikar.
 
 Det kräver också ett mått av samling här hemma. Precis som 2001 och 2009 både hoppas och förväntar jag mig att hela riksdagen känner ansvar för Sveriges ordförandeskap. I gengäld kommer regeringen vara mycket aktivt med att söka bred enighet. Alla kommer inte kunna enas om allt, men regeringen kommer vilja diskutera med alla. Jag hoppas att alla också är beredda att diskutera med varandra.
 
-Då behövs både principfasthet och pragmatism. Fasthet i värderingar och pragmatism i konkreta lösningar. Till de fasta europeiska värderingarna hör respekten för demokratin, de individuella fri\- och rättigheterna, rättsstatens principer. Oroande rapporter visar hur graden av demokrati har minskat i olika EU\-länder.
+Då behövs både principfasthet och pragmatism. Fasthet i värderingar och pragmatism i konkreta lösningar. Till de fasta europeiska värderingarna hör respekten för demokratin, de individuella fri- och rättigheterna, rättsstatens principer. Oroande rapporter visar hur graden av demokrati har minskat i olika EU-länder.
 
-Men när jag samtidigt ser hur den blågula EU\-flaggan är en frihetssymbol bredvid den blågula ukrainska flaggan, så övertygas jag om att ett blågult svenskt ordförandeskap har en viktig uppgift i att upprätthålla dessa värden i Europa.
+Men när jag samtidigt ser hur den blågula EU-flaggan är en frihetssymbol bredvid den blågula ukrainska flaggan, så övertygas jag om att ett blågult svenskt ordförandeskap har en viktig uppgift i att upprätthålla dessa värden i Europa.
 
-Därför kommer Sverige under ordförandeskapet på ett konstruktivt sätt föra rådets arbete vidare i artikel 7\-förfaranden och stå upp för EU:s rätt att villkora utbetalningar av gemensamma medel med rättsstatliga principer.
+Därför kommer Sverige under ordförandeskapet på ett konstruktivt sätt föra rådets arbete vidare i artikel 7-förfaranden och stå upp för EU:s rätt att villkora utbetalningar av gemensamma medel med rättsstatliga principer.
 
 Herr talman,
 

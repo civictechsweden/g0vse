@@ -4,4 +4,4 @@ En särskild utredare ska se över det befintliga stödet till konsumenter i for
 
 I uppdraget ingår att föreslå lämpliga strategier och metoder för hur insatser ska utformas för att stödet ska nå fram till och användas av konsumenterna.
 
-Uppdraget ska redovisas senast den 31 mars 2012\.
+Uppdraget ska redovisas senast den 31 mars 2012.

@@ -1,10 +1,10 @@
 # Sverige donerar det största icke-militära stödet till Ukraina
 
-– Ukraina genomlever ännu en vinter under rysk aggression. Liksom förra året intensifierar Ryssland attacker mot civil infrastruktur, inte minst mot el\- och värmeförsörjning. Sådana attacker får förödande konsekvenser för en redan hårt drabbad befolkning och förvärrar den humanitära situationen i landet. Stödet ska bidra till att värma Ukraina och stärka landets motståndskraft i vinter, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+– Ukraina genomlever ännu en vinter under rysk aggression. Liksom förra året intensifierar Ryssland attacker mot civil infrastruktur, inte minst mot el- och värmeförsörjning. Sådana attacker får förödande konsekvenser för en redan hårt drabbad befolkning och förvärrar den humanitära situationen i landet. Stödet ska bidra till att värma Ukraina och stärka landets motståndskraft i vinter, säger bistånds- och utrikeshandelsminister Johan Forssell.
 
-Stödet kommer att bidra till Ukrainas civila infrastruktur under vintern, deras energisystem, skyddsrum och stöd inom hälso\- och sjukvård.
+Stödet kommer att bidra till Ukrainas civila infrastruktur under vintern, deras energisystem, skyddsrum och stöd inom hälso- och sjukvård.
 
-– Tillgång till energi är avgörande för Ukrainas säkerhet och motståndskraft, liksom för att så snabbt som möjligt kunna återuppbygga landet och få igång Ukrainas näringsliv när Rysslands invasionskrig är över. Sverige kommer stötta Ukraina så länge som det krävs, säger energi\- och näringsminister Ebba Busch.
+– Tillgång till energi är avgörande för Ukrainas säkerhet och motståndskraft, liksom för att så snabbt som möjligt kunna återuppbygga landet och få igång Ukrainas näringsliv när Rysslands invasionskrig är över. Sverige kommer stötta Ukraina så länge som det krävs, säger energi- och näringsminister Ebba Busch.
 
 Vinterpaketet till Ukraina 2023 omfattar 1,4 miljarder kronor från biståndsbudgeten och är fördelade genom Världsbanken, Europeiska banken för återuppbyggnad och utveckling (EBRD), Unesco samt Myndigheten för samhällsskydd och beredskap (MSB).
 

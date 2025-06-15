@@ -8,7 +8,7 @@ Sverige ska fortsätta arbeta internationellt för regleringar och kontroll av
 farliga ämnen så att tillförseln av farliga ämnen till havsmiljön minskar.
 Regeringen föreslår även att Sverige ska utöka och förstärka skyddet av
 marina områden för att bidra till att nå den internationella målsättningen
-om att 30 procent av de marina områdena ska vara skyddade till 2030\. Av
+om att 30 procent av de marina områdena ska vara skyddade till 2030. Av
 de skyddade områdena ska en tredjedel vara strikt skyddade, motsvarande
 10 procent.
 

@@ -10,6 +10,6 @@ Det ska inte krävas en konkret brottsmisstanke, utan grunden för ingripande ka
 
 Ett beslut om en säkerhetszon ska enligt förslagen gälla högst två veckor åt gången och kunna överklagas till domstol. Polismyndigheten ska dessutom publicera beslutet om en säkerhetszon på sin webbplats. Varje ingripande som sker i en zon ska dokumenteras.
 
-Lagändringarna föreslås träda i kraft den 28 mars 2024\.
+Lagändringarna föreslås träda i kraft den 28 mars 2024.
 
 Förslagen bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

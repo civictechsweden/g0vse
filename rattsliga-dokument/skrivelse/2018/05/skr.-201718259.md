@@ -10,6 +10,6 @@ Vidare bör svenskt deltagande i internationella samarbeten vara förutsägbart 
 
 Svensk rymdverksamhet bör bedrivas på ett långsiktigt hållbart sätt och rymden bör hållas fri från konflikter. Detta bör bidra till att svensk tillgång till rymden säkras.
 
-Vidare bör rymdverksamhetens möjligheter att bidra till arbetet med Agenda 2030 och de globala målen främjas. Synergier mellan civil och militär rymdverksamhet bör utnyttjas och utövare av rymdverksamhet måste ta hänsyn till försvars\- och säkerhetsaspekter.
+Vidare bör rymdverksamhetens möjligheter att bidra till arbetet med Agenda 2030 och de globala målen främjas. Synergier mellan civil och militär rymdverksamhet bör utnyttjas och utövare av rymdverksamhet måste ta hänsyn till försvars- och säkerhetsaspekter.
 
 Andelen kvinnor och män bland forskare och anställda inom svensk rymdverksamhet bör bli jämställd. Intresset för att satsa på utbildningar inom naturvetenskap och teknik bör stimuleras genom att finansiärerna i samverkan med lärosätena sprider information om rymdverksamhet.

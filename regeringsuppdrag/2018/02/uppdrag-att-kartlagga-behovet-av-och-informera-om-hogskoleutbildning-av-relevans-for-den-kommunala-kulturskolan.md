@@ -1,8 +1,6 @@
 # Uppdrag att kartlägga behovet av och informera om högskoleutbildning av relevans för den kommunala kulturskolan
 
-Universitets\- och högskolerådet och Statens kulturråd får tillsammans i uppdrag att kartlägga behovet av, och informera om, högskoleutbildning av relevans för den kommunala kulturskolan.
-
-
+Universitets- och högskolerådet och Statens kulturråd får tillsammans i uppdrag att kartlägga behovet av, och informera om, högskoleutbildning av relevans för den kommunala kulturskolan.
 
 I uppdraget ingår att kartlägga
 
@@ -11,4 +9,4 @@ I uppdraget ingår att kartlägga
 
 Uppdraget som rör kartläggning ska delredovisas senast den 28 december 2018 till Regeringskansliet (Utbildningsdepartementet och Kulturdepartementet).
 
-Myndigheterna ska årligen redovisa vidtagna åtgärder och aktiviteter i den del som avser samordning mellan lärosäten och avnämare. En slutredovisning av uppdraget ska lämnas senast den 30 december 2020\.
+Myndigheterna ska årligen redovisa vidtagna åtgärder och aktiviteter i den del som avser samordning mellan lärosäten och avnämare. En slutredovisning av uppdraget ska lämnas senast den 30 december 2020.

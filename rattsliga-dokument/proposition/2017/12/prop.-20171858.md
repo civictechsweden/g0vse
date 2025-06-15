@@ -7,4 +7,4 @@ Förslaget syftar till att uppfylla EU:s direktiv om oskuldspresumtionen och rä
 I propositionen redovisas också hur Sverige i övrigt uppfyller sina
 åtaganden enligt direktivet.
 
-Lagändringen föreslås träda i kraft den 1 april 2018\.
+Lagändringen föreslås träda i kraft den 1 april 2018.

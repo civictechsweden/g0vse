@@ -1,6 +1,6 @@
 # Kulturarvspolitik
 
-I lagrådsremissen lämnar regeringen förslag till museilag och förslag till ändringar i kulturmiljölagen (1988:950\). I lagrådsremissen beskrivs regeringens kulturarvspolitiska prioriteringar och kulturarvsområdets framväxt som eget politikområde behandlas. Museilagen och ändringarna i kulturmiljölagen föreslås träda i kraft den 1 juli 2017\.
+I lagrådsremissen lämnar regeringen förslag till museilag och förslag till ändringar i kulturmiljölagen (1988:950). I lagrådsremissen beskrivs regeringens kulturarvspolitiska prioriteringar och kulturarvsområdets framväxt som eget politikområde behandlas. Museilagen och ändringarna i kulturmiljölagen föreslås träda i kraft den 1 juli 2017.
 
 Den föreslagna museilagen innehåller bestämmelser om det allmänna museiväsendet. Lagen utgår från att det övergripande ändamålet för museerna i det allmänna museiväsendet är att bidra till samhället och dess utveckling genom att främja kunskap, kulturupplevelser och fri åsiktsbildning. Allmänna utgångspunkter för museernas arbete med samlingsförvaltning, kunskapsuppbyggnad och publik verksamhet anges i lagen. Lagen innehåller en särskild bestämmelse om museernas självständiga ställning i förhållande till den politiska beslutsnivån.
 

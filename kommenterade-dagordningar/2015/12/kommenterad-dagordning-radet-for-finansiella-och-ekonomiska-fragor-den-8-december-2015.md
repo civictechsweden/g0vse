@@ -13,7 +13,7 @@ På Ekofinrådets möte den 8 december 2015 finns följande punkter på dagordni
 * (ev.) Urholkning av skattebasen och överföring av vinster
 * Genomförande av bankunionen
 * Den europeiska planeringsterminen
-* (ev.) Gemensam ståndpunkt om flexibilitet inom stabilitets\- och tillväxtpakten
+* (ev.) Gemensam ståndpunkt om flexibilitet inom stabilitets- och tillväxtpakten
 * Statistik
 * Europeiska revisionsrättens årsrapport om genomförandet av Europeiska unionens budget för budgetåret 2014
-* Övriga frågor \- Kampen mot terrorismfinansiering
+* Övriga frågor - Kampen mot terrorismfinansiering

@@ -1,9 +1,8 @@
 # EU:s klimatpaket Fit for 55 är en milstolpe i klimatarbetet
 
-Under Sveriges ordförandeskap har stora delar av EU:s omfattande klimatpaket Fit for 55 slutförhandlats. Lagstiftningspaketet Fit for 55 innehåller ny eller uppdaterad lagstiftning på klimat\-, energi\- och transportområdena som ska leda till att EU\-länderna minskar utsläppen med minst 55 procent till 2030 och når klimatneutralitet senast 2050\.
+Under Sveriges ordförandeskap har stora delar av EU:s omfattande klimatpaket Fit for 55 slutförhandlats. Lagstiftningspaketet Fit for 55 innehåller ny eller uppdaterad lagstiftning på klimat-, energi- och transportområdena som ska leda till att EU-länderna minskar utsläppen med minst 55 procent till 2030 och når klimatneutralitet senast 2050.
 
-
-Fit for 55 presenterades av EU\-kommissionen i juli 2021 och sedan dess har ett intensivt arbete pågått i rådet och Europaparlamentet för att förhandla fram klimatpaketet.
+Fit for 55 presenterades av EU-kommissionen i juli 2021 och sedan dess har ett intensivt arbete pågått i rådet och Europaparlamentet för att förhandla fram klimatpaketet.
 
 Under ledning av det svenska ordförandeskapet har rådet under våren nått preliminära uppgörelser med Europaparlamentet om:
 
@@ -24,4 +23,4 @@ Under det svenska ordförandeskapet har Rådet godkänt följande akter:
 * Mål för nettoutsläpp och nettoupptag av växthusgaser från markanvändning (LULUCF)
 * Regler för minskning av koldioxidutsläpp till noll för både nya personbilar och skåpbilar från 2035
 
-Fortfarande kvarstår att nå överenskommelser om förslaget om minskning av metanutsläppen i energisektorn, förslaget om byggnaders energiprestanda och översynen av energiskattedirektivet. De två förstnämnda presenterades efter övriga förslag inom Fit for 55\-paketet och ligger därför senare i processen. Översynen av energiskattedirektivet behandlas i rådet och måste beslutas med enhällighet. Arbetet med dem fortsätter under det spanska ordförandeskapet.
+Fortfarande kvarstår att nå överenskommelser om förslaget om minskning av metanutsläppen i energisektorn, förslaget om byggnaders energiprestanda och översynen av energiskattedirektivet. De två förstnämnda presenterades efter övriga förslag inom Fit for 55-paketet och ligger därför senare i processen. Översynen av energiskattedirektivet behandlas i rådet och måste beslutas med enhällighet. Arbetet med dem fortsätter under det spanska ordförandeskapet.

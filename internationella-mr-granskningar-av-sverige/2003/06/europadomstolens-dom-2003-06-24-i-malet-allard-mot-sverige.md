@@ -2,7 +2,6 @@
 
 Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.
 
-
 ### Sammanfattning av domen
 
 Bakgrunden till målet var rivningen av klagandens hus genom myndigheternas försorg. Huset låg på en skärgårdsfastighet som klaganden samägde med släktingar. De senare gjorde gällande att huset uppförts utan deras samtycke och yrkade inför domstol att det skulle rivas. Ett flertal processer med olika partsställningar följde i spåren av rättegången rörande rivningen av klagandens hus, bl.a. en rörande fastighetsbildning i syfte att fastigheten skulle klyvas och att det markområde där huset låg skulle tilldelas klaganden. En dom med innebörd att klagandens hus skulle rivas vann så småningom laga kraft. Klagandens yrkande om att verkställigheten av den domen skulle vilandeförklaras i avvaktan bl.a. på att fastighetsbildningen blev klar avslogs. Sedan huset rivits genom kronofogdemyndighetens försorg meddelade fastighetsdomstolen dom i klyvningsfrågan och klaganden tilldelades en tomt där det rivna huset hade stått. Inför Europadomstolen gjorde klaganden bl.a. gällande att hennes rätt till egendomsskydd kränkts i strid mot artikel 1 i konventionens första tilläggsprotokoll.

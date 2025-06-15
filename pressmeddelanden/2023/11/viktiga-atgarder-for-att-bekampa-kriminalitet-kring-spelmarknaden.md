@@ -12,4 +12,4 @@ Sedan 2018 finns ett skriftlighetskrav vid telefonförsäljning enligt distansav
 
 Utöver ett skriftlighetskrav vid telefonförsäljning av spel och höjda sanktionsavgifter för spelbolag som bryter mot penningtvättslagen föreslår regeringen även att bolag med svensk spellicens ska få rätt att ta del av personuppgifter om ekonomi och hälsa som spelarna själva tillhandahållit, för att kunna motverka överdrivet spelande.
 
-Lagändringarna föreslås träda i kraft den 1 april 2024\.
+Lagändringarna föreslås träda i kraft den 1 april 2024.

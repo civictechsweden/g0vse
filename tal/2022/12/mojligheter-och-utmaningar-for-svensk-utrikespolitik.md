@@ -4,7 +4,6 @@ Den 21 december 2022 höll utrikesminister Tobias Billström ett utrikespolitisk
 
 Det talade ordet gäller.
 
-
 Det är en glädje att få tala vid Utrikespolitiska institutet, som spelar en så betydelsefull roll för det utrikespolitiska samtalet i Sverige.
 
 Jag vill också gratulera UI till de nya kunskapscentrumen för Ryssland och Kina. Dessa förstärkningar är viktiga inte bara för institutet, utan också för att öka Regeringskansliets och allas vår förståelse för den nya komplicerade värld vi nu möter.
@@ -17,7 +16,7 @@ Det leder oss osökt in till de konkreta uppgifter som kommer att prägla utrike
 
 Sammantaget leder det till att Sveriges utrikespolitik nu behöver genomgå en kursändring. Jag ska inte föregå utrikesdeklarationen som presenteras i februari nästa år, därför kommer jag fokusera på de säkerhetspolitiska utmaningar som just nu präglar svensk utrikespolitik.
 
-Och allting är inte kallt och dystert, även om det kan kännas så med tanke på decembermörkret. Det finns stora, långsiktiga möjligheter för svensk utrikes\- och säkerhetspolitik det kommande decenniet.
+Och allting är inte kallt och dystert, även om det kan kännas så med tanke på decembermörkret. Det finns stora, långsiktiga möjligheter för svensk utrikes- och säkerhetspolitik det kommande decenniet.
 
 \*\*\*
 
@@ -25,7 +24,7 @@ Det finns vissa datum som för evigt är associerade med stora historiska hände
 
 Vi upplever nu ett av de sällsynta ögonblick i världspolitiken när en händelse blir en lins genom vilken vi betraktar nästan allting annat.
 
-Genom aggressionskriget mot Ukraina har Ryssland försökt att undergräva den fredliga europeiska säkerhetsordningen och visat ett närmast gränslöst förakt mot FN\-stadgans principer.
+Genom aggressionskriget mot Ukraina har Ryssland försökt att undergräva den fredliga europeiska säkerhetsordningen och visat ett närmast gränslöst förakt mot FN-stadgans principer.
 
 Om Ryssland lyckas underkuva Ukraina, det näst största landet i Europa, kommer det inte stanna där. Vi måste därför vara klarsynta över att det inte bara är Ukrainas frihet som står på spel, utan Europas frihet och den värld vi önskar leva i.
 
@@ -35,7 +34,7 @@ För det första, grundläggande svenska intressen utmanas i Ukraina.
 
 President Putins krig är inte bara riktat mot Ukraina, utan även mot hela Europa och mot de värderingar som utgör EU:s fundament. Det är riktat mot hela den globala världsordningen som bygger på folkrätten. Putin har valt ut de fria demokratierna till sin fiende för att vi står för det som han vill montera ner – det öppna samhället.
 
-Putins målsättningar blev vi varse den 17 december förra året. De krav Putin ställde skulle i praktiken innebära att en intressesfär skapas under rysk dominans på den europeiska kontinenten. Stater som Sverige skulle inte ha den suveräna rätten att fatta egna beslut om sin utrikes\- och säkerhetspolitik. Putins krav syftade även till att splittra EU och Nato.
+Putins målsättningar blev vi varse den 17 december förra året. De krav Putin ställde skulle i praktiken innebära att en intressesfär skapas under rysk dominans på den europeiska kontinenten. Stater som Sverige skulle inte ha den suveräna rätten att fatta egna beslut om sin utrikes- och säkerhetspolitik. Putins krav syftade även till att splittra EU och Nato.
 
 Allt annat än ett ryskt misslyckande i Ukraina skulle driva på Moskvas militära aggression och motivera andra auktoritära krafter att göra detsamma.
 
@@ -57,11 +56,11 @@ För några veckor sedan presenterade regeringen och ett nytt stödpaket till Uk
 
 Förra veckan antog Europeiska unionens råd det nionde sanktionspaketet mot Ryssland sedan den fullskaliga invasionen av Ukraina inleddes i februari. Den innehåller sanktioner mot nära 200 personer och enheter samt ett antal sektoriella åtgärder.
 
-Nyligen var jag i Kiev tillsammans med mina nordiska\-baltiska utrikesministerkollegor. Vi träffade president Zelenskyj och min ukrainske motpart Kuleba. Vi fick också se resultatet av Rysslands urskillningslösa terrorangrepp mot ukrainsk bebyggelse och infrastruktur.
+Nyligen var jag i Kiev tillsammans med mina nordiska-baltiska utrikesministerkollegor. Vi träffade president Zelenskyj och min ukrainske motpart Kuleba. Vi fick också se resultatet av Rysslands urskillningslösa terrorangrepp mot ukrainsk bebyggelse och infrastruktur.
 
 Och i fredags träffade jag ett stort antal ukrainska volontärer som är här tillfälligt i Sverige för att återhämta sig från kriget. Deras vittnesmål har gjort starkt intryck på mig och stärkte min övertygelse om att vi måste fortsätta ge stöd till Ukraina.
 
-Vi är smärtsamt medvetna om att mer behövs – och att Europa som helhet behöver en högre ambitionsnivå. Detta kommer att vara en av Sveriges främsta prioriteringar när vi tar över EU\-ordförandeskapet vid årsskiftet.
+Vi är smärtsamt medvetna om att mer behövs – och att Europa som helhet behöver en högre ambitionsnivå. Detta kommer att vara en av Sveriges främsta prioriteringar när vi tar över EU-ordförandeskapet vid årsskiftet.
 
 Vi är bara i början av en lång och svår resa. Detta är en konflikt som lär bli utdragen och som förs på flera fronter, inte bara i Ukraina.
 
@@ -97,7 +96,7 @@ Europas och USA:s gemensamma svar på Rysslands angrepp är ett styrkebesked. De
 
 Kriget har också haft en mobiliserande effekt i andra delar av världen hos stater som Australien, Japan och Sydkorea.
 
-Vi kan konstatera att vi har moralen och rätten på vår sida. Alla stater har rätt att göra sina utrikes\- och säkerhetspolitiska vägval utan påtryckningar från andra. Det är en princip som 143 länder i FN ställde sig bakom när de fördömde Rysslands krig. Det sammanbindande intresset är att upprätthålla den regelbaserade internationella ordningen.
+Vi kan konstatera att vi har moralen och rätten på vår sida. Alla stater har rätt att göra sina utrikes- och säkerhetspolitiska vägval utan påtryckningar från andra. Det är en princip som 143 länder i FN ställde sig bakom när de fördömde Rysslands krig. Det sammanbindande intresset är att upprätthålla den regelbaserade internationella ordningen.
 
 En av våra viktigaste utrikespolitiska uppgifter – förutom att stödja Ukraina – är att bygga vidare våra relationer och samarbeten med de stater som delar dessa grundprinciper.
 
@@ -137,13 +136,13 @@ Finland intar en särställning i Sveriges relationer med omvärlden. Vi svenska
 
 Tillsammans med Finland kommer vi att fullfölja anslutningsprocessen till Nato och leva upp till våra förpliktelser som medlem. Vi genomför alla delar av den trilaterala överenskommelsen med Turkiet, inklusive bekämpandet av terrorism.
 
-Sverige och Finland kommer att vara solidariska och engagerade allierade som värnar säkerheten i hela det euro\-atlantiska området.
+Sverige och Finland kommer att vara solidariska och engagerade allierade som värnar säkerheten i hela det euro-atlantiska området.
 
 \*\*\*
 
 Med Natomedlemskapet sker ett paradigmskifte i svensk säkerhetspolitik. Sverige och Finland blir en del av de gemensamma försvarsåtaganden som binder samman demokratierna i västvärlden. Det är av största vikt när det säkerhetspolitiska mönstret nu förändras i vårt närområde.
 
-Ett svenskt och finskt Natomedlemskap kommer att stärka både vår egen och hela alliansens säkerhet. Vi blir fullt ut en del av en euro\-atlantisk säkerhetszon.
+Ett svenskt och finskt Natomedlemskap kommer att stärka både vår egen och hela alliansens säkerhet. Vi blir fullt ut en del av en euro-atlantisk säkerhetszon.
 
 Här kan vi känna stolthet. Sverige och Finland kommer att vara nettobidragare till Nato med sofistikerade försvarsförmågor och industrier. Sverige kommer att bidra till hela alliansens säkerhet med stora kompetenser på marken, såväl som på och under vattnet, och i luften.
 
@@ -153,17 +152,17 @@ Norden är vår starkaste gemenskap och en av världens mest integrerade och kon
 
 Med Sverige och Finland i Nato kommer alla länder i Norden och Baltikum att dela samma säkerhetsplattform. Alliansen kommer att kunna ha en samlad ansats till försvarsplanering och säkerhet i Nordeuropa, ett område som sträcker sig från norra Arktis till söder om Östersjön. Vi ser fram emot att arbeta nära Polen och Tyskland i de här frågorna.
 
-Med våra nordiska\-baltiska vänner har vi goda förutsättningar till fördjupad dialog om säkerheten i vårt närområde. EU:s hybridcenter i Helsingfors, Natos cybercenter i Tallinn och Natos strategiska kommunikationscenter i Riga kompletterar varandra. Dessa kunskapscentra stärker våra bidrag till den euro\-atlantiska säkerheten inom ramen för Nato. Redan nu har vi gjort ansatser för att fortsätta att utveckla det nordisk\-baltiska samarbetet och jag ser fram emot att fortsätta det.
+Med våra nordiska-baltiska vänner har vi goda förutsättningar till fördjupad dialog om säkerheten i vårt närområde. EU:s hybridcenter i Helsingfors, Natos cybercenter i Tallinn och Natos strategiska kommunikationscenter i Riga kompletterar varandra. Dessa kunskapscentra stärker våra bidrag till den euro-atlantiska säkerheten inom ramen för Nato. Redan nu har vi gjort ansatser för att fortsätta att utveckla det nordisk-baltiska samarbetet och jag ser fram emot att fortsätta det.
 
 \*\*\*
 
 Europa är Sveriges hem och EU vår närmaste utrikespolitiska plattform.
 
-Sveriges EU\-ordförandeskap kommer att vägledas av en enkel grundtanke, eller enkel i teorin åtminstone. Att EU behöver bli starkare och mer strategiskt.
+Sveriges EU-ordförandeskap kommer att vägledas av en enkel grundtanke, eller enkel i teorin åtminstone. Att EU behöver bli starkare och mer strategiskt.
 
-Den inomeuropeiska sammanhållningen blir viktigare. Att jämka ihop olika intressen till en helhet är grunden för den gemensamma europeiska utrikes\- och säkerhetspolitiken. Sveriges ambassader i de europiska huvudstäderna har här en viktig uppgift att bygga nätverk och broar med andra stater.
+Den inomeuropeiska sammanhållningen blir viktigare. Att jämka ihop olika intressen till en helhet är grunden för den gemensamma europeiska utrikes- och säkerhetspolitiken. Sveriges ambassader i de europiska huvudstäderna har här en viktig uppgift att bygga nätverk och broar med andra stater.
 
-Samarbetet tillsammans med Tyskland och Frankrike är viktigt för att skapa ett starkare EU. Samtidigt behöver formerna för att inkludera Storbritannien utvecklas. Sverige vill tillhöra kärnan av EU:s utrikes\- och säkerhetspolitiska samarbete.
+Samarbetet tillsammans med Tyskland och Frankrike är viktigt för att skapa ett starkare EU. Samtidigt behöver formerna för att inkludera Storbritannien utvecklas. Sverige vill tillhöra kärnan av EU:s utrikes- och säkerhetspolitiska samarbete.
 
 Vi behöver också utveckla EU:s geoekonomiska motståndskraft genom att stärka konkurrenskraften, minska sårbarheter och se till att de ekonomiska flödena fungerar även i tider av pandemier, naturkatastrofer eller geopolitisk turbulens.
 
@@ -173,23 +172,23 @@ Ett starkt Europa och en stark transatlantisk länk är ömsesidigt förstärkan
 
 \*\*\*
 
-Rysslands aggression mot Ukraina kommer att sätta sin prägel på alla delar av det svenska EU\-ordförandeskapet. EU har tagit stora kliv det senaste året, men mer behövs.
+Rysslands aggression mot Ukraina kommer att sätta sin prägel på alla delar av det svenska EU-ordförandeskapet. EU har tagit stora kliv det senaste året, men mer behövs.
 
-De mest omfattande EU\-sanktionerna någonsin är på plats.
+De mest omfattande EU-sanktionerna någonsin är på plats.
 
 EU ger omfattande militärt, finansiellt och humanitärt stöd till Ukraina, men ytterligare stöd är viktigt i detta skede.
 
 En annan viktig uppgift är att konsolidera och vidga utrymmet för våra demokratiska värderingar, mänskliga rättigheter och rättsstatens principer. Det Östliga partnerskapet som Sverige och Polen initierade 2009, under det förra ordförandeskapet, är fortsatt relevant men behöver utvecklas och bli mer flexibelt.
 
-Vid sidan av de länder i sydöstra Europa som redan har ett europeiskt perspektiv har nu dörren öppnats för ett framtida EU\-medlemskap för Ukraina, Moldavien och Georgien. EU har därmed slagit in på en väg där vår gemenskap av fria demokratier i framtiden kommer att omfatta ytterligare 60 miljoner européer.
+Vid sidan av de länder i sydöstra Europa som redan har ett europeiskt perspektiv har nu dörren öppnats för ett framtida EU-medlemskap för Ukraina, Moldavien och Georgien. EU har därmed slagit in på en väg där vår gemenskap av fria demokratier i framtiden kommer att omfatta ytterligare 60 miljoner européer.
 
-EU måste axla en central roll i att återbygga Ukraina efter kriget. Det arbetet måste kopplas till Ukrainas EU\-närmande. Det är inte bara viktigt för Ukraina utan också för EU. Ukrainas frihetslängtan påminner oss om kärnidén i EU\-samarbetet: att främja fred och frihet i Europa.
+EU måste axla en central roll i att återbygga Ukraina efter kriget. Det arbetet måste kopplas till Ukrainas EU-närmande. Det är inte bara viktigt för Ukraina utan också för EU. Ukrainas frihetslängtan påminner oss om kärnidén i EU-samarbetet: att främja fred och frihet i Europa.
 
 \*\*\*
 
-Eftersom utvecklingen i det Indo\-pacifiska området är av stor vikt för Europas framtid, kommer Sverige också att arbeta för att genomföra EU:s Indo\-pacifiska strategi. Flera för oss viktiga partnerländer finns där, som Japan, Indien, Australien och Sydkorea.
+Eftersom utvecklingen i det Indo-pacifiska området är av stor vikt för Europas framtid, kommer Sverige också att arbeta för att genomföra EU:s Indo-pacifiska strategi. Flera för oss viktiga partnerländer finns där, som Japan, Indien, Australien och Sydkorea.
 
-I förhållande till Kina tjänas våra intressen bäst av att Europa och USA är nära koordinerade. Sverige ska arbeta för att stärka EU:s enighet i Kina\-politiken och förbättra vår gemensamma beredskap att möta de utmaningar som Kina alltmer offensiva agenda medför. Det hårdare kinesiska tonläget gentemot Taiwan inger oro. För att klara detta behöver den transatlantiska dimensionen av EU:s Kina\-politik befästas. Men vi behöver också fortsättningsvis samarbete med Kina inom flera olika områden, exempelvis klimatfrågan.
+I förhållande till Kina tjänas våra intressen bäst av att Europa och USA är nära koordinerade. Sverige ska arbeta för att stärka EU:s enighet i Kina-politiken och förbättra vår gemensamma beredskap att möta de utmaningar som Kina alltmer offensiva agenda medför. Det hårdare kinesiska tonläget gentemot Taiwan inger oro. För att klara detta behöver den transatlantiska dimensionen av EU:s Kina-politik befästas. Men vi behöver också fortsättningsvis samarbete med Kina inom flera olika områden, exempelvis klimatfrågan.
 
 \*\*\*
 
@@ -209,7 +208,7 @@ Gemensamma transatlantiska spelregler för teknologi och handel är en nyckel ti
 
 \*\*\*
 
-Klimatfrågan är en av vår tids största utmaningar. Och den gröna omställningen kräver samarbete mellan världens stora ekonomier, där EU spelar en väldigt viktig roll. EU är världsledande inom klimatsamarbetet. Den positionen vill Sverige förstärka under EU\-ordförandeskapet.
+Klimatfrågan är en av vår tids största utmaningar. Och den gröna omställningen kräver samarbete mellan världens stora ekonomier, där EU spelar en väldigt viktig roll. EU är världsledande inom klimatsamarbetet. Den positionen vill Sverige förstärka under EU-ordförandeskapet.
 
 EU, med sina 450 miljoner invånare och världens största integrerade marknad, är nyckeln till Sverige klimatpolitik. Det är genom EU vi kan påskynda den gröna omställningen och påverka andra länder att följa efter.
 

@@ -1,9 +1,6 @@
 # Skärpta fusionsregler
 
 Lagrådsremissen innehåller förslag till skärpta regler om fusion mellan aktiebolag. Förslagen har sin bakgrund i den kritik som har riktats mot möjligheten att överta minoritetsaktier med användning av det aktiebolagsrättsliga institutet fusion i stället för med tillämpning av lagens regler om en aktieägares rätt att vid en viss storlek på sitt aktieinnehav lösa in minoritetens aktier (tvångsinlösen).
-
 I lagrådsremissen föreslås att mer än hälften av värdet på fusionsvederlaget ska utgöras av aktier i det övertagande bolaget. Vidare föreslås att det övertagande bolagets aktier i ett överlåtande bolag inte ska beaktas vid en omröstning i det senare bolaget om en fråga om fusion. Det nu gällande kravet på nio tiondelars majoritet för beslut om fusion mellan ett överlåtande publikt aktiebolag och ett övertagande privat aktiebolag föreslås utsträckas till att omfatta fusioner där det överlåtande bolaget är ett publikt aktiebolag vars aktier är upptagna till handel på en reglerad marknad eller en motsvarande marknad utanför Europeiska ekonomiska samarbetsområdet och det som fusionsvederlag ska lämnas aktier som inte är upptagna till handel på en sådan marknad.
-
 Det föreslås också att det nuvarande provisoriska majoritetskravet på nio tiondelar för beslut om fusioner där kontanter ingår i fusionsvederlaget tas bort. Motsvarande lagändringar föreslås när det gäller delning av aktiebolag.
-
-Lagändringarna ska enligt förslaget träda i kraft den 1 januari 2009\.
+Lagändringarna ska enligt förslaget träda i kraft den 1 januari 2009.

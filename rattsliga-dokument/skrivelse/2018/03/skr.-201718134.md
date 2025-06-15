@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om inkomsteffekter av bruksvärdessystemet
 
-I skrivelsen redovisas regeringens bedömning av Riksrevisionens rapport Inkomsteffekter av bruksvärdessystemet (RIR 2017:24\).
+I skrivelsen redovisas regeringens bedömning av Riksrevisionens rapport Inkomsteffekter av bruksvärdessystemet (RIR 2017:24).
 
 Riksrevisionen har granskat om reglerna som styr hyressättningen kan få effekt på i första hand hyresgästers arbetsinkomst men också på deras utbildning och barnafödande då det är faktorer som påverkar inkomstens storlek. Granskningen utgår från ett experiment i vilket hyresrätter lottades ut bland bostadssökande.
 

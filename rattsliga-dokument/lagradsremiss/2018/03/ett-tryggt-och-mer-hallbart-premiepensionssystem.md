@@ -19,6 +19,6 @@ Pensionsgruppen, med företrädare för de partier som står bakom
 pensionsöverenskommelsen, har ställt sig bakom förslagen.
 
 Förslagen om egenhändigt undertecknande och förbudet mot
-marknadsföring och försäljning via telefon ska träda i kraft den 1 juli 2018\.
+marknadsföring och försäljning via telefon ska träda i kraft den 1 juli 2018.
 
-Övriga förslag ska träda i kraft den 1 november 2018\.
+Övriga förslag ska träda i kraft den 1 november 2018.

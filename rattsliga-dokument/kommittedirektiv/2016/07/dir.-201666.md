@@ -11,4 +11,4 @@ Samordnaren ska bl.a.
 * översiktligt sammanställa och beskriva aktörernas klimat­arbete och utifrån det identifiera goda exempel,
 * synliggöra, främja och kommunicera aktörernas arbete nationellt och internationellt för att stimulera fler aktörer till att bidra till utsläppsminskningar och ett fossilfritt Sverige.
 
-Uppdraget ska redovisas senast den 31 december 2018\.
+Uppdraget ska redovisas senast den 31 december 2018.

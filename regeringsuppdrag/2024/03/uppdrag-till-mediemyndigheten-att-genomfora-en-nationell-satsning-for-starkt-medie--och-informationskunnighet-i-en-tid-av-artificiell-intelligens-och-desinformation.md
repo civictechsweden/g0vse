@@ -1,7 +1,6 @@
 # Uppdrag till Mediemyndigheten att genomföra en nationell satsning för stärkt medie- och informationskunnighet i en tid av artificiell intelligens och desinformation
 
-Regeringen ger Mediemyndigheten i uppdrag att under 2024 och 2025 genomföra en bred och långsiktigt hållbar nationell satsning för att stärka medie\- och informationskunnigheten (MIK) i befolkningen.
-
+Regeringen ger Mediemyndigheten i uppdrag att under 2024 och 2025 genomföra en bred och långsiktigt hållbar nationell satsning för att stärka medie- och informationskunnigheten (MIK) i befolkningen.
 
 Syftet är att stärka individer som medvetna medieanvändare i en tid av snabb teknikutveckling. Insatsen ska bidra till att öka den grundläggande förmågan att förstå och värdera olika typer av budskap samt tilliten till trovärdiga avsändare. Satsningen ska höja allmänhetens kunskap om hur artificiell intelligens (AI) kan användas i informationsflödet och därmed bidra till att stärka samhällets motståndskraft mot bland annat desinformation och otillbörlig informationspåverkan.
 

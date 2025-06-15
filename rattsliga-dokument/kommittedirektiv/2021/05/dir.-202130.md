@@ -8,6 +8,6 @@ Utredaren ska bland annat
 * kartlägga och analysera ansvarsförhållanden och förmåga på lokal, regional och nationell nivå gällande planering och genomförande av utrymning och inkvartering vid höjd beredskap och ytterst krig samt lämna förslag på hur en sammanhållen och effektiv planering på samtliga angivna nivåer kan utformas,
 * analysera och lämna förslag till en stödorganisation som under ledning av en myndighet eller annat offentligt organ kan genomföra insatser exempelvis inför eller i samband med att skyddsrum används eller utrymning och inkvartering genomförs.
 
-De analyser som görs och de förslag som lämnas ska i relevanta delar utgå från Försvarsberedningens rapport Motståndskraft – inriktningen av totalförsvaret och utformningen av det civila försvaret 2021–2025 (Ds 2017:66\) och regeringens proposition Totalförsvaret 2021–2025 (prop. 2020/21:30\).
+De analyser som görs och de förslag som lämnas ska i relevanta delar utgå från Försvarsberedningens rapport Motståndskraft – inriktningen av totalförsvaret och utformningen av det civila försvaret 2021–2025 (Ds 2017:66) och regeringens proposition Totalförsvaret 2021–2025 (prop. 2020/21:30).
 
-Uppdraget ska redovisas senast den 7 november 2022\.
+Uppdraget ska redovisas senast den 7 november 2022.

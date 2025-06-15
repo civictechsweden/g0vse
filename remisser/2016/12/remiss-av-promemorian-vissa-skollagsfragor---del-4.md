@@ -1,7 +1,6 @@
 # Remiss av promemorian Vissa skollagsfrågor - del 4
 
-Här kan du ta del av till vilka instanser regeringen har remitterat promemorian Vissa skollagsfrågor \- del 4\. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 1 mars 2017\.
-
+Här kan du ta del av till vilka instanser regeringen har remitterat promemorian Vissa skollagsfrågor - del 4. Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 1 mars 2017.
 
 ### Remissinstanser
 
@@ -19,7 +18,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat promemorian
 12 Statens skolinspektion
 13 Specialpedagogiska skolmyndigheten
 14 Sameskolstyrelsen
-15 Myndigheten för ungdoms\- och civilsamhällesfrågor
+15 Myndigheten för ungdoms- och civilsamhällesfrågor
 16 Linköpings universitet
 17 Högskolan i Halmstad
 18 Konkurrensverket
@@ -73,7 +72,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat promemorian
 66 Lika Unika
 67 Lärarförbundet
 68 Lärarnas Riksförbund
-69 Rekonstruktions\- och konkursförvaltarkollegiet (REKON)
+69 Rekonstruktions- och konkursförvaltarkollegiet (REKON)
 70 Riksförbundet BRIS
 71 Småföretagarnas Riksförbund
 72 Svenska Montessoriförbundet

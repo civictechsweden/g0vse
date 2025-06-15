@@ -11,4 +11,4 @@ utsläpp från arbetsresor.
 Propositionens förslag är att skattereduktion ska göras med 50 öre per
 kilometer för arbetsresor till den del resan överstiger en nedre avståndsgräns men inte en övre avståndsgräns. Den nedre avståndsgränsen föreslås vara högre för dem som bor och arbetar i vissa storstadskommuner i Stockholms, Västra Götalands och Skåne län, medan den övre avståndsgränsen föreslås vara densamma i hela landet. Förslaget utgör en modell för ett nytt skatterättsligt regelverk för arbetsresor.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2023\.
+Lagändringarna föreslås träda i kraft den 1 januari 2023.

@@ -12,4 +12,4 @@ Regeringen har också utsett nuvarande rikspolischef Anders Thornberg till lands
 
 – Jag vill tacka Anders Thornberg för hans plikttrogna insatser som polis i över 40 år, varav de senaste 11 åren som chef för först Säkerhetspolisen och sedan Polismyndigheten. Jag känner en stor respekt för den gärningen och det är bra för Sverige att hans breda erfarenhet nu tas tillvara i en ny roll. Jag önskar honom lycka till i hans nya uppdrag, säger justitieminister Gunnar Strömmer.
 
-Petra Lundh tillträder som rikspolischef den 1 december 2023\. Förordnandet gäller i sex år.
+Petra Lundh tillträder som rikspolischef den 1 december 2023. Förordnandet gäller i sex år.

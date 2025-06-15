@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Statistiska centralbyrån att ta fram och redovisa statistik om levnadsförhållanden för personer med funktionsnedsättning.
 
-
 ## Definition av begreppet funktionsnedsättning
 
 Myndigheten ska se över definitionen av funktionsnedsättning och ta fram en definition som kan användas som grund för nationell statistik och undersökningar.
@@ -19,6 +18,6 @@ Statistiska centralbyrån ska kartlägga, analysera och samlat redovisa hur den
 
 Myndigheten ska föreslå prioriteringar och upplägg av det fortsatta arbetet med att systematiskt  redovisa, utveckla och förbättra statistiken. I arbetet ska myndigheten samtala med Myndigheten för delaktighet, funktionshindersrörelsen och andra relevanta och berörda aktörer.
 
-Kartläggning, analys samt bedömning av och förslag på ett systematiskt utvecklingsarbete  redovisas till Regeringskansliet (Socialdepartementet) senast den 28 februari 2020\.
+Kartläggning, analys samt bedömning av och förslag på ett systematiskt utvecklingsarbete  redovisas till Regeringskansliet (Socialdepartementet) senast den 28 februari 2020.
 
-Övriga delar av uppdraget slutredovisas till Regeringskansliet (Socialdepartementet) senast den 28 februari 2021\.
+Övriga delar av uppdraget slutredovisas till Regeringskansliet (Socialdepartementet) senast den 28 februari 2021.

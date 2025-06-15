@@ -2,7 +2,7 @@
 
 Utredningen för Stärkt kvalitet och likvärdighet inom komvux för elever med svenska som andraspråk (KLIVA) redovisar i denna promemoria uppdraget att utreda hur utbildning kan erbjudas för nyanlända som omfattas av s.k. utbildningsplikt.
 
-Syftet är att analysera förutsättningarna för att sfi\-elever ska kunna erbjudas en utbildning av god kvalitet som motsvarar elevernas behov och förutsättningar samt att förbättra genomströmningen inom sfi och underlätta övergången till och kombinationer med andra vuxenutbildningar.
+Syftet är att analysera förutsättningarna för att sfi-elever ska kunna erbjudas en utbildning av god kvalitet som motsvarar elevernas behov och förutsättningar samt att förbättra genomströmningen inom sfi och underlätta övergången till och kombinationer med andra vuxenutbildningar.
 
 Utredningen föreslår bland annat att:
 

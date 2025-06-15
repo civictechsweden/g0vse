@@ -4,4 +4,4 @@ Det är viktigt att den som avtjänar ett fängelse­straff ges ett starkt incit
 
 I lagrådsremissen föreslås att den villkorliga frigiv­ningen ska kunna skjutas upp i större utsträck­ning än i dag för den som under anstalts­tiden inte deltar i eller miss­köter åter­falls­före­byggande åtgär­der eller andra åtgär­der som kan hjälpa den dömde att anpassa sig i sam­hället. Vidare föreslås utökade möjlig­heter att skjuta upp den vill­kor­liga frigiv­ningen även vid annan miss­köt­samhet under verk­ställig­hets­tiden.
 
-Lagändringen föreslås träda i kraft den 1 maj 2021\.
+Lagändringen föreslås träda i kraft den 1 maj 2021.

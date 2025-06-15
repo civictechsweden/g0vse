@@ -12,4 +12,4 @@ Nu vidtas ytterligare åtgärder genom att Brå får i uppdrag att utveckla samv
 
 Brå ska också identifiera inom vilka områden eller sammanhang som det finns stora behov att utveckla former för kommunernas samverkan med civilsamhället och bidra till samverkan inom dessa.
 
-Brå ska slutredovisa uppdraget senast den 2 mars 2026\.
+Brå ska slutredovisa uppdraget senast den 2 mars 2026.

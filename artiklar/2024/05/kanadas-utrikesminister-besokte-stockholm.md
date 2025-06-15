@@ -1,7 +1,6 @@
 # Kanadas utrikesminister besökte Stockholm
 
-Kanadas utrikesminister, Mélanie Joly, besökte Stockholm den 28\-29 maj på inbjudan av utrikesminister Tobias Billström. Besöket ägde rum i ljuset av det svenska Natointrädet och förberedelser inför det kommande Natotoppmötet i Washington i juli.
-
+Kanadas utrikesminister, Mélanie Joly, besökte Stockholm den 28-29 maj på inbjudan av utrikesminister Tobias Billström. Besöket ägde rum i ljuset av det svenska Natointrädet och förberedelser inför det kommande Natotoppmötet i Washington i juli.
 
 Sverige och Kanada har sedan länge utmärkta relationer som nu fördjupas ytterligare med anledning av det svenska Natointrädet och det förändrade omvärldsläget.
 

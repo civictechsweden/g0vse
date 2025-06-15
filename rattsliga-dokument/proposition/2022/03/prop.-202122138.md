@@ -4,4 +4,4 @@ Hedersrelaterat våld och förtryck måste bekämpas med kraft. De senaste åren
 
 Brottet innebär att en särskild strängare straffskala införs för den som upprepat begår vissa brottsliga gärningar mot en person med ett hedersmotiv och där gärningarna utgjort led i en upprepad kränkning av personens integritet och varit ägnade att allvarligt skada personens självkänsla. Straffet föreslås vara fängelse i lägst ett och högst sex år.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2022\.
+Lagändringarna föreslås träda i kraft den 1 juni 2022.

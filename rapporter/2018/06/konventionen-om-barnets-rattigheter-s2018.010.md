@@ -1,7 +1,6 @@
 # Konventionen om barnets rättigheter (svenska)
 
-Skriften innehåller den reviderade svenska översättningen av FN:s konvention om barnets rättigheter. Texten är ett utdrag från proposition 2017/18:186\.
-
+Skriften innehåller den reviderade svenska översättningen av FN:s konvention om barnets rättigheter. Texten är ett utdrag från proposition 2017/18:186.
 
 Här finns även länkar till de två fakultativa protokoll till konventionen om barnets rättigheter som Sverige ratificerat:
 

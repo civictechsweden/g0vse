@@ -4,5 +4,4 @@ Här kan du ta del av svaren från dem som har ombetts att svara på remissen SO
 
 Övriga yttranden finns tillgängliga i departementet.
 
-
-Sista dag att besvara remissen är fredagen den 9 juni 2023\.
+Sista dag att besvara remissen är fredagen den 9 juni 2023.

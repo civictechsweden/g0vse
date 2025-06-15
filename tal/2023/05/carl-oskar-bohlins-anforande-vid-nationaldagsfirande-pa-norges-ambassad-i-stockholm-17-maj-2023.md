@@ -1,9 +1,8 @@
 # Carl-Oskar Bohlins anförande vid nationaldagsfirande på Norges ambassad
 
-Stockholm, 17 maj 2023\.
+Stockholm, 17 maj 2023.
 
 Det talade ordet gäller.
-
 
 Norska systrar och bröder,
 

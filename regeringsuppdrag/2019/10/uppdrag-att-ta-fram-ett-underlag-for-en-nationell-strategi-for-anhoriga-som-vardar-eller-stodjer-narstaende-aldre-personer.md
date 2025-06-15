@@ -2,7 +2,6 @@
 
 Socialstyrelsen får regeringens uppdrag att lämna underlag för en bred nationell anhörigstrategi.
 
-
 Underlaget ska bestå av:
 
 * en analys av vad anhörigperspektiv innebär för den anhörige, den äldre och för personalen, samt
@@ -14,7 +13,7 @@ Socialstyrelsen ska samverka med Nationellt kompetenscentrum anhöriga (Nka) och
 
 ## Hänsyn tas till omställning
 
-I kartläggningen och analysen ska myndigheten ta hänsyn till den påbörjade omställningen av svensk hälso\- och sjukvård till en mer nära vård med fokus på primärvården. Detta utifrån en mer patientcentrerad och samordnad hälso\- och sjukvård.
+I kartläggningen och analysen ska myndigheten ta hänsyn till den påbörjade omställningen av svensk hälso- och sjukvård till en mer nära vård med fokus på primärvården. Detta utifrån en mer patientcentrerad och samordnad hälso- och sjukvård.
 
 Uppdraget ska också genomföras utifrån ett jämställdhetsperspektiv.
 

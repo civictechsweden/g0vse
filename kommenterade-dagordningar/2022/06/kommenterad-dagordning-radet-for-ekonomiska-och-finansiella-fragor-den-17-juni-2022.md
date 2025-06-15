@@ -11,6 +11,6 @@ På Ekofinrådets möte den 17 juni 2022 finns följande punkter på dagordninge
 * (ev.) Aktuella lagstiftningsförslag om finansiella tjänster
 * Konvergensrapporter från Europeiska Centralbanken/ kommissionen och utvidgningen av euroområdet
 * (ev.) Ekonomisk återhämtning
-* Den europeiska planeringsterminen 2022 \- Landsspecifika rekommendationer
+* Den europeiska planeringsterminen 2022 - Landsspecifika rekommendationer
 * (ev.) Uppförandekod (företagsbeskattning)
 * (ev.) Rapport till Europeiska rådet om skattefrågor

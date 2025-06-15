@@ -6,4 +6,4 @@ En särskild utredare ska redovisa och utvärdera tillämpningen av dessa bestä
 
 Om utredaren, mot bakgrund av resultatet av utvärderingen, anser att det finns behov av lagändringar, särskilt för att upprätthålla en väl avvägd balans mellan den enskildes integritet å den ena sidan och skyddet av immateriella rättigheter å den andra sidan, ska utredaren lämna förslag till sådana lagändringar.
 
-Uppdraget ska redovisas senast den 1 augusti 2012\.
+Uppdraget ska redovisas senast den 1 augusti 2012.

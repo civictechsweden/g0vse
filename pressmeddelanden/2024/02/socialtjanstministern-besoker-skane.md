@@ -1,6 +1,6 @@
 # Socialtjänstministern besöker Skåne
 
-– Att komma till rätta med de samhällsutmaningar Sverige står inför är ett komplext och långsiktigt arbete. Jag är därför glad att regeringen nyligen kunde meddela att det tillsätts en särskild utredning för att se över den statliga barn\- och ungdomsvården. Steg för steg stärker vi vårdkedjan för barn och unga och det förebyggande arbetet, säger socialtjänstminister Camilla Waltersson Grönvall.
+– Att komma till rätta med de samhällsutmaningar Sverige står inför är ett komplext och långsiktigt arbete. Jag är därför glad att regeringen nyligen kunde meddela att det tillsätts en särskild utredning för att se över den statliga barn- och ungdomsvården. Steg för steg stärker vi vårdkedjan för barn och unga och det förebyggande arbetet, säger socialtjänstminister Camilla Waltersson Grönvall.
 
 Socialtjänstministern kommer att delta i Hasselasamtalet, en konferens som arrangeras av Hassela Skåne. Temat är den nya socialtjänstlagen som väntas presenteras under 2024 och på vilket sätt den nya lagstiftningen kan bidra till att stärka det brottsförebyggande arbetet.
 

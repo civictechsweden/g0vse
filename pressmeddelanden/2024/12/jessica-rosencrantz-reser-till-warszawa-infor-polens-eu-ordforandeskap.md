@@ -1,0 +1,5 @@
+# Jessica Rosencrantz reser till Warszawa inför Polens EU-ordförandeskap
+
+– Polen är en viktig samarbetspartner. Tillsammans med våra grannar i Norden och Baltikum ligger vi i framkant i stödet till Ukraina. Både Sverige och Polen sätter frågor om säkerhet, konkurrenskraft och migration högt på agendan. Under Polens kommande EU-ordförandeskap ser jag fram emot ett bra samarbete med att öka pressen mot Ryssland, stödja Ukraina och bygga ett säkrare och starkare Europa, säger EU-minister Jessica Rosencrantz.
+
+Utöver besök vid Frontex och möte med sin polske motsvarighet, träffar EU-ministern också Polens statssekreterare för migrationsfrågor, representanter från svenska företag verksamma i Ukraina samt tankesmedjorna Polityja Insight och Visegrad Insight. Vidare träffar hon också UNHCR och civilsamhällesorganisationerna Polish Center for International Foundation (PCPM) och Polish Humanitarian Action (PAH) som arbetar med mottagandet av personer som flytt från Ukraina till Polen på grund av Rysslands fullskaliga invasion.

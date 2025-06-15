@@ -14,4 +14,4 @@ Försvårande och förmildrande omständigheter ges ett ökat genomslag vid stra
 
 Slutligen förtydligas att återfall i brott ska beaktas i skärpande riktning vid bestämmande av straff.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2010\.
+Lagändringarna föreslås träda i kraft den 1 juli 2010.

@@ -2,8 +2,7 @@
 
 Näringsdepartementet har i en promemoria lagt fram förslag till regelförenklingar i elcertifikatslagstiftningen. Ändringarna innebär att lagtexterna har omarbetats och omdisponerats i förhållande till den nuvarande lagen om elcertifikat. Utgångspunkten har varit de förslag till regelförenklingar som Energimyndigheten har tagit fram. Näringsdepartementet har vidareutvecklat myndighetens förslag.
 
-
-För att uppnå en ökad överskådlighet och lättillgänglighet har förslag till en helt ny lag om elcertifikat utarbetats. I lagen föreslås också de ändringar som krävs för att etablera gemensamma elcertifikatmarknader med andra länder. För närvarande pågår förhandlingar mellan Sverige och Norge om ett juridiskt bindande avtal med inriktningen att etablera en gemensam elcertifikatmarknad med start från och med den 1 januari 2012\.
+För att uppnå en ökad överskådlighet och lättillgänglighet har förslag till en helt ny lag om elcertifikat utarbetats. I lagen föreslås också de ändringar som krävs för att etablera gemensamma elcertifikatmarknader med andra länder. För närvarande pågår förhandlingar mellan Sverige och Norge om ett juridiskt bindande avtal med inriktningen att etablera en gemensam elcertifikatmarknad med start från och med den 1 januari 2012.
 
 Promemorian sänds ut på en remiss t.o.m. den 6 april 2011 för att berörda aktörer ska ges möjlighet att yttra sig om de förändringar som föreslås.
 

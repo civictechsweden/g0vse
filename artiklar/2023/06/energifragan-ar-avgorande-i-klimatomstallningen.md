@@ -1,13 +1,12 @@
 # Energifrågan är avgörande i klimatomställningen
 
-Under det fjärde rundabordssamtalet träffade regeringen energibranschen för att diskutera hinder och möjligheter som branschen ser för att de ska kunna ställa om för klimatet. Klimat\- och miljöminister Romina Pourmokhtari och energi\- och näringsminister Ebba Busch ledde samtalet.
-
+Under det fjärde rundabordssamtalet träffade regeringen energibranschen för att diskutera hinder och möjligheter som branschen ser för att de ska kunna ställa om för klimatet. Klimat- och miljöminister Romina Pourmokhtari och energi- och näringsminister Ebba Busch ledde samtalet.
 
 Ebba Busch, ansvarig minister för energifrågorna, uppmuntrade till ett förtroendefullt samtal runt bordet och att branschen skulle vara så konkreta i de hinder och möjligheter de ser som möjligt.
 
 Romina Pourmokhtari fyllde i:
 
-– En viktig punkt i svensk klimatpolitik är att öka tillgången till ren el. Vi behöver fördubbla svensk energiproduktion för att klara målen med nollutsläpp 2045\. Vårt samtal idag kommer att handla om hur ni tycker att regeringen ska jobba för att ta bort hinder och skapa incitament för mer fossilfri energi.
+– En viktig punkt i svensk klimatpolitik är att öka tillgången till ren el. Vi behöver fördubbla svensk energiproduktion för att klara målen med nollutsläpp 2045. Vårt samtal idag kommer att handla om hur ni tycker att regeringen ska jobba för att ta bort hinder och skapa incitament för mer fossilfri energi.
 
 ## Vem går före?
 

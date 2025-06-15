@@ -1,7 +1,6 @@
 # Uppdrag angående stöd till genomförande av överenskommelse om nationell testning och smittspårning för covid-19
 
-Regeringen ger Folkhälsomyndigheten i uppdrag att stödja genomförandet av överenskommelsen mellan staten och Sveriges Kommuner och Regioner (SKR) om nationell testning och smittspårning för covid\-19 för 2022\. Detta uppdrag omfattar inte testning inför resande.
-
+Regeringen ger Folkhälsomyndigheten i uppdrag att stödja genomförandet av överenskommelsen mellan staten och Sveriges Kommuner och Regioner (SKR) om nationell testning och smittspårning för covid-19 för 2022. Detta uppdrag omfattar inte testning inför resande.
 
 Folkhälsomyndigheten ska bland annat:
 

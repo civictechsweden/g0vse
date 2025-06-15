@@ -2,12 +2,11 @@
 
 Socialminister Jakob Forssmed stod värd för ett ministermöte inom ramen för den Nordliga Dimensionens Partnerskap för Hälsa och Socialt Välbefinnande (NDPHS) den 17 januari. Mötet avslutar det svenska ordförandeskapet.
 
-
 – Detta partnerskap är en unik plattform för samarbete, som samlar experter och beslutsfattare från hela regionen. Nordliga Dimensionens Partnerskap för Hälsa och Socialt Välbefinnande har funnits i tjugo år nu, och med tanke på den allvarliga situationen i omvärlden är regionalt samarbete viktigare än någonsin, säger socialminister Jakob Forssmed.
 
-NDPHS är en internationell organisation som bildades 2003\. I organisationen ingår de nordiska länderna (förutom Danmark) de baltiska länderna, Polen samt Tyskland. EU och organisationer som WHO och Nordiska ministerrådet är också medlemmar. Syftet med organisationens arbete är att genom konkret samarbete förbättra hälsan och det sociala välbefinnandet i Östersjöområdet. NDPHS deltar också i genomförandet av EU:s Östersjöstrategi (EUSBSR) som samordnare av insatser på hälsoområdet.
+NDPHS är en internationell organisation som bildades 2003. I organisationen ingår de nordiska länderna (förutom Danmark) de baltiska länderna, Polen samt Tyskland. EU och organisationer som WHO och Nordiska ministerrådet är också medlemmar. Syftet med organisationens arbete är att genom konkret samarbete förbättra hälsan och det sociala välbefinnandet i Östersjöområdet. NDPHS deltar också i genomförandet av EU:s Östersjöstrategi (EUSBSR) som samordnare av insatser på hälsoområdet.
 
-Sverige har varit ordförande för organisationen 2022 och 2023\. Litauen är vice ordförande och övertar ordförandeskapet 2024\.
+Sverige har varit ordförande för organisationen 2022 och 2023. Litauen är vice ordförande och övertar ordförandeskapet 2024.
 
 ## Särskilt fokus på antimikrobiell resistens
 

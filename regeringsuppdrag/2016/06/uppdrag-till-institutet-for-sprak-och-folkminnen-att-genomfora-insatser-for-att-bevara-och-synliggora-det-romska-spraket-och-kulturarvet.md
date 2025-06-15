@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Institutet för språk och folkminnen att genomföra insatser som har till syfte att bevara den romska språkvarieteten resanderomani för nutida och framtida bruk och synliggöra det romska immateriella kulturarvet.
 
-
 I uppdraget ingår att
 
 – samla in, dokumentera och bevara muntliga aspekter av resanderomani så att den kunskap som finns kvar blir tillgänglig för nutida och framtida bruk, bl.a. för forskning och språkundervisning. I insatsen ingår att genomföra samtalsgrupper och individuella samtal med talare av resanderomani samt kartlägga tidigare och pågående insatser för den aktuella språkgruppen.

@@ -8,4 +8,4 @@ I propositionen föreslår regeringen att bland andra följande ärendegrupper k
 
 Förslaget innebär att dessa uppgifter ska koncentreras till länsstyrelserna i Stockholms, Östergötlands, Skåne, Västra Götalands, Dalarnas, Västernorrlands och Norrbottens län.
 
-Regeringen föreslår att lagändringarna träder i kraft den 1 juli 2012\.
+Regeringen föreslår att lagändringarna träder i kraft den 1 juli 2012.

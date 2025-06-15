@@ -4,7 +4,7 @@ Riskskatt betalas i dag av kreditinstitut med skulder över ett gränsvärde. Kr
 
 För att de offentliga finanserna ska vara opåverkade bör samtidigt skattesatsen för riskskatten höjas. Detta kompenserar för de lägre skatteintäkter som grundavdraget ger upphov till.
 
-Ändringarna bör träda i kraft den 1 januari 2026\.
+Ändringarna bör träda i kraft den 1 januari 2026.
 
 Regeringen kommer även med anledning av tillkännagivanden från riksdagen att initiera en översyn av riskskatten.
 

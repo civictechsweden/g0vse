@@ -12,4 +12,4 @@ Regeringen föreslår bland annat att
 * en grunduppgift i det regionala utvecklingsansvaret bland annat ska vara att bedöma regionens kompetensbehov inom privat och offentlig sektor på både kort och lång sikt
 * kommunernas skyldighet att lämna stöd för dagliga resor även ska omfatta elever under 16 år.
 
-De ändringar som behövs i skollagen föreslås träda i kraft den 1 juli 2023 och tillämpas i fråga om utbildning som påbörjas 2025\.
+De ändringar som behövs i skollagen föreslås träda i kraft den 1 juli 2023 och tillämpas i fråga om utbildning som påbörjas 2025.

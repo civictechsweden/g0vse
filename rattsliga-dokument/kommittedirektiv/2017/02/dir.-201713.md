@@ -6,4 +6,4 @@ En parlamentariskt sammansatt kommitté ges därför i uppdrag att utarbeta en s
 
 Kommittén ges även i uppdrag att utreda förutsättningarna för att ge kommunerna generella möjligheter till avtalssamverkan.
 
-Den del av uppdraget som avser avtalssamverkan ska redovisas senast den 1 oktober 2017\. Uppdraget ska i övrigt redovisas senast den 15 oktober 2019\.
+Den del av uppdraget som avser avtalssamverkan ska redovisas senast den 1 oktober 2017. Uppdraget ska i övrigt redovisas senast den 15 oktober 2019.

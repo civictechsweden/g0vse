@@ -11,4 +11,4 @@ Regeringen föreslår att lagen om hemlig dataavläsning ska gälla utan tidsbeg
 * Överskottsinformation som har kommit fram vid hemlig dataavläsning ska få användas för andra ändamål.
 * Rättssäkerheten för den enskilde stärks, bland annat genom förbättrade möjligheter till insyn och tillsyn.
 
-Lagändringarna föreslås träda i kraft den 1 april 2025\.
+Lagändringarna föreslås träda i kraft den 1 april 2025.

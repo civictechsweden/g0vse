@@ -8,4 +8,4 @@ Utredaren ska bl.a.
 * överväga om det finns behov av att ändra reglerna om det skatterättsliga företrädaransvaret och om anstånd som är till fördel för det allmänna, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 30 oktober 2020\.
+Uppdraget ska redovisas senast den 30 oktober 2020.

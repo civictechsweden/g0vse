@@ -2,7 +2,6 @@
 
 Ska du ut och resa i sommar? Kom ihåg att ladda ner appen UD Resklar, se till att ditt pass är giltigt och att du har en försäkring som räcker för hela resan. Här får du tips och råd inför din utlandsresa.
 
-
 För att undvika problem på utlandssemestern är det viktigt att vara väl förberedd. Se till att:
 
 * du har en reseförsäkring som räcker under hela resan
@@ -17,7 +16,7 @@ Tänk på att det är lagarna i landet du vistas i som gäller, så läs på om 
 
 På webbplatsen Sweden Abroad ger svenska ambassader reseinformation och aktuell information när något händer i landet som kan påverka dig som resenär. Där finns lokal information om säkerhetsläget, trafiksäkerhet, sjukvård, kriminalitet och mycket mer. Välj land i landväljaren på Sweden Abroad:
 
-[Ambassadernas reseinformation \- på Sweden Abroad](https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/reseinformation/)
+[Ambassadernas reseinformation - på Sweden Abroad](https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/reseinformation/)
 
 Du kan också hålla dig uppdaterad och få aktuell reseinformation om ditt resmål direkt i fickan via appen UD Resklar.
 

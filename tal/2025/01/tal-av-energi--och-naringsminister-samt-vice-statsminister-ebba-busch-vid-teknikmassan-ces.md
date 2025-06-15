@@ -10,13 +10,13 @@ Sweden is a land of science and engineering. We are the home to the Nobel Prize.
 
 But how did we get here, and where are we headed?
 
-In the mid-1800s, Sweden was one of the poorest countries in Europe, defined by cold, starvation, and hopelessness. A situation that led one  million swedes to leave for the US.
+In the mid-1800s, Sweden was one of the poorest countries in Europe, defined by cold, starvation, and hopelessness. A situation that led one million swedes to leave for the US.
 
 Hope arose through groundbreaking innovations, brilliant engineers, and tireless efforts by hard working people. They drove economic growth and laid the foundation for an engineering tradition that defines Sweden’s identity today. From the dynamite to today's fossil-free industries, technological development drives our prosperity.
 
 Today we face a similar challenge: many young people lack hope.
 
-Aa a mother of two I can see that many parents worried that their children may not experience better living conditions than they had themselves. Can you imagine what that does to a whole generation. And as a mother of two I can relate. The two key ingredients to Sweden’s success – hard work and curiosity – are now in danger.
+As a mother of two I can see that many parents are worried that their children may not experience better living conditions than they had themselves. Can you imagine what that does to a whole generation. The two key ingredients to Sweden’s success – hard work and curiosity – are now in danger.
 
 Fear can drive action, but too much fear leads to hopelessness and paralysis. Political decisions, lately rooted in fear of climate change, war, or pandemics, hinders next generation to believe and pursue these values.
 
@@ -34,7 +34,7 @@ We excel in clean technologies – leading the fossil-free transition, including
 
 We have amazing natural resources – including metals and rare earth metals which are essential components of new technology.
 
-And we are a space nation too! If you want to launch rockets in the EU, you must go to northern Sweden. To Esrange. I gladly welcome  you myself.
+And we are a space nation too! If you want to launch rockets in the EU, you must go to northern Sweden. To Esrange. I gladly welcome you myself.
 
 For 16 years, Sweden has consistently ranked among the top three most innovative countries globally. We are number 2 in patent applications per capita.
 
@@ -48,6 +48,6 @@ And we make the world sing, dance, play and look good – from Abba to Avicii, f
 
 Swedish companies are experts at turning technology into complex systems and solutions. International collaboration with like-minded nations is essential, particularly in a world where geopolitics increasingly shapes technology.
 
-Finally, ladies and gentlemen. I encourage you to be part of team Sweden. Where hard work and curiosity turns poverty to prosperity and hopelessness to hope for the next generation
+Finally, ladies and gentlemen. I encourage you to be part of team Sweden. Where hard work and curiosity turns poverty to prosperity and hopelessness to hope for the next generation.
 
 Join Sweden! We are open for business. Thank you!

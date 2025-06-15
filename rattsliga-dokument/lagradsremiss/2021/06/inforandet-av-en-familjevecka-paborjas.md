@@ -12,6 +12,6 @@ Det är föräldrar till barn mellan fyra och 16 år som ska kunna få familjeda
 
 Regeringen föreslår också en ledighetsrätt i föräldraledighetslagen, ledighet med familjedagspenning m.m. Ledigheten ska få delas upp på ett obegränsat antal perioder under ett år. En arbetstagare som vill utnyttja sin rätt till ledighet med familjedagspenning ska anmäla detta till arbetsgivaren minst två månader i förväg. Om man vill använda förmånen vid lov, terminsuppehåll eller studiedag ska man så snart som möjligt anmäla detta till arbetsgivaren. Vid ledighet för att vara med vid ett utvecklingssamtal ska anmälningstiden vara minst en vecka.
 
-Lagändringarna föreslås träda i kraft den 4 april 2022\.
+Lagändringarna föreslås träda i kraft den 4 april 2022.
 
-Meningen är att förslagen ska ingå i budgetpropositionen för 2022\.
+Meningen är att förslagen ska ingå i budgetpropositionen för 2022.

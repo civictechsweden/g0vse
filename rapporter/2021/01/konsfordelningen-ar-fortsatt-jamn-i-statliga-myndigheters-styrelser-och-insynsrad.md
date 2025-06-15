@@ -1,7 +1,6 @@
 # Könsfördelningen är fortsatt jämn i statliga myndigheters styrelser och insynsråd
 
-Könsfördelningen är fortsatt jämn i statliga myndigheters styrelser och insynsråd m.m. Årets redovisning avser styrelser, insynsråd, nämnder och stiftelser där regeringen utser samtliga eller en del av ledamöterna och gäller förhållanden per den 31 december 2019\.
-
+Könsfördelningen är fortsatt jämn i statliga myndigheters styrelser och insynsråd m.m. Årets redovisning avser styrelser, insynsråd, nämnder och stiftelser där regeringen utser samtliga eller en del av ledamöterna och gäller förhållanden per den 31 december 2019.
 
 För styrelser, insynsråd m.m. där regeringen utser samtliga ledamöter uppgick andelen kvinnor till 51 procent och andelen män till 49 procent. Andelen kvinnor som var ordförande var 52 procent och andelen män var 48 procent.
 

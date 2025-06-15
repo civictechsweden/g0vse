@@ -6,8 +6,8 @@ En sparbank är en särskild associationsform. Den är i grunden närmast en sti
 
 Den associationsrättsliga regleringen för sparbanker finns i dag i 1987 års sparbankslag. I promemorian föreslås att den lagen ska upphävas och att sparbanker i stället ska tillämpa lagen om ekonomiska föreningar med de undantag som motiveras av associationsformen (bl.a. bestämmelser om huvudmän och användning av egendom) och av bankrörelsen. Förslaget syftar till att sparbanker ska omfattas av en modern och ändamålsenlig reglering.
 
-I promemorian föreslås också att vissa föråldrade författningar om tillverkning av minnes\- och jubileumsmynt ska upphöra att gälla.
+I promemorian föreslås också att vissa föråldrade författningar om tillverkning av minnes- och jubileumsmynt ska upphöra att gälla.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2021\.
+Lagändringarna föreslås träda i kraft den 1 januari 2021.
 
-Sista dag att svara på remissen är den 3 juni 2020\.
+Sista dag att svara på remissen är den 3 juni 2020.

@@ -2,12 +2,11 @@
 
 Sjukvårdsminister Acko Ankarberg Johansson deltog vid FN:s generalförsamlings 78:e session i New York. Under mötet deltog ministern bland annat vid ett panelsamtal om sällsynta sjukdomar, som sponsrades av Sverige och Spanien tillsammans med organisationen Rare Diseases International.
 
-
 I anslutning till ett högnivåmöte om grundläggande hälsoskydd (Universal Health Coverage, UHC) hölls sidoevenemanget “Engaging the UN System and Member States to Achieve Universal Health Coverage for Persons Living with a Rare Disease: A Blueprint for Leaving No One Behind”, som fokuserade på erfarenheter, utmaningar och möjligheter för personer som lever med sällsynta sjukdomar.
 
 – Arbetet med diagnostik, vård, stöd och behandling av sällsynta sjukdomar är en prioritet för den svenska regeringen och vi ser tyvärr att många patienter inte får den vård och behandling de har rätt till idag i Sverige. Det är därför vi, sedan regeringsskiftet, nyligen meddelade att vi kommer att påbörja ett arbete med att ta fram en nationell strategi för människor som lever med sällsynta sjukdomar, sa sjukvårdsminister Acko Ankarberg i sitt inledningstal på evenemanget.
 
-Den 16 december 2021 antog FN:s generalförsamling den första FN\-resolutionen någonsin om att hantera utmaningarna för personer som lever med en sällsynt sjukdom och deras familjer. Resolutionen, föreslagen av Spanien, Brasilien och Qatar och med medförställarskap av 54 länder, antogs i samförstånd och stöd med alla 193 FN\-medlemsstater. Det är det första FN\-dokumentet som erkänner specifika utmaningar för personer som lever med en sällsynt sjukdom och deras familjer. Redan 2019 antog FN:s generalförsamling den politiska deklaration om grundläggande hälsoskydd (UHC), där sällsynta sjukdomar särskilt nämndes.
+Den 16 december 2021 antog FN:s generalförsamling den första FN-resolutionen någonsin om att hantera utmaningarna för personer som lever med en sällsynt sjukdom och deras familjer. Resolutionen, föreslagen av Spanien, Brasilien och Qatar och med medförställarskap av 54 länder, antogs i samförstånd och stöd med alla 193 FN-medlemsstater. Det är det första FN-dokumentet som erkänner specifika utmaningar för personer som lever med en sällsynt sjukdom och deras familjer. Redan 2019 antog FN:s generalförsamling den politiska deklaration om grundläggande hälsoskydd (UHC), där sällsynta sjukdomar särskilt nämndes.
 
 ## Studiebesök på välmeriterat cancersjukhus
 

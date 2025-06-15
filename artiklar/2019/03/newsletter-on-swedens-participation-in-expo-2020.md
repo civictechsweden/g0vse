@@ -2,8 +2,7 @@
 
 Would you like to receive information about how efforts to advance Sweden’s participation in Expo 2020 are progressing?
 
-
-Send an (empty) email to [newsletter@expo2020\.se](mailto:newsletter@expo2020.se) to register your email address.
+Send an (empty) email to [newsletter@expo2020.se](mailto:newsletter@expo2020.se) to register your email address.
 
 You can receive the first newsletter by clicking [here](https://mailchi.mp/1ec44fbfd363/join-us-in-co-creation-at-expo-2020-dubai?e=4ea3e76a26)
 

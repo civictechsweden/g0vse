@@ -4,4 +4,4 @@ Myndighetens namn ska vara Myndigheten för vårdanalys. Den ska dessutom vara e
 
 ## Ändrad rapporteringstid
 
-Den 15 oktober 2010 ska utredaren bl.a. lämna förslag till instruktion för myndigheten samt regleringsbrev och anslag för 2011\. I direktiven till utredningen (dir. 2010:58\) står det dessutom att utredaren ska lämna förslag på övriga författningsändringar. Dessa ändringar ska dock inte redovisas förrän i slutrapporten den 1 mars 2011\.
+Den 15 oktober 2010 ska utredaren bl.a. lämna förslag till instruktion för myndigheten samt regleringsbrev och anslag för 2011. I direktiven till utredningen (dir. 2010:58) står det dessutom att utredaren ska lämna förslag på övriga författningsändringar. Dessa ändringar ska dock inte redovisas förrän i slutrapporten den 1 mars 2011.

@@ -4,4 +4,4 @@ Regeringen föreslår nya bestämmelser om marknadskontroll i flera lagar som ge
 
 Bestämmelserna innebär att marknadskontrollmyndigheterna får utökade befogenheter att kontrollera att produkter som tillhandahålls på EU:s inre marknad uppfyller gällande krav, till exempel säkerhetskrav eller krav för att skydda människors hälsa eller miljön.
 
-Lagändringarna föreslås träda i kraft den 25 juli 2022\.
+Lagändringarna föreslås träda i kraft den 25 juli 2022.

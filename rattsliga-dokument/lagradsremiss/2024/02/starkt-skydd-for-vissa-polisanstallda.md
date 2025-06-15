@@ -4,4 +4,4 @@ Polisanställda är i hög grad utsatta för våld, hot, trakasserier och otill�
 
 Förslagen i lagrådsremissen innebär att anställda vid Polismyndigheten som arbetar mot den organiserade brottsligheten i vissa fall ska kunna använda en annan uppgift än namn i beslut och andra handlingar som dokumenterar åtgärder. Det föreslås också att sekretess ska gälla för uppgifter som kan bidra till upplysning om identiteten på den anställde vid Polismyndigheten. Möjligheten att använda en annan uppgift än namn föreslås gälla under en tidsbegränsad period om fem år.
 
-Lagändringarna föreslås träda i kraft den 30 april 2024\.
+Lagändringarna föreslås träda i kraft den 30 april 2024.

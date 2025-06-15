@@ -4,4 +4,4 @@ I lagrådsremissen föreslås att det generella undantaget i diskrimineringslage
 
 I stället föreslås att det införs ett särskilt förbud mot att ha olika försäkringspremier och ersättningar för kvinnor och män om skillnaderna grundas på beräkningar där kön använts som en faktor.
 
-Förslaget till ändring i diskrimineringslagen föreslås träda i kraft den 21 december 2012\. Kravet på könsneutrala beräkningar ska gälla nya försäkringsavtal efter denna tidpunkt.
+Förslaget till ändring i diskrimineringslagen föreslås träda i kraft den 21 december 2012. Kravet på könsneutrala beräkningar ska gälla nya försäkringsavtal efter denna tidpunkt.

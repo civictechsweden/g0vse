@@ -6,4 +6,4 @@ Vidare föreslås att egenavgifter ska tas ut på samtliga avgiftspliktiga inkom
 
 Slutligen föreslås att bestämmelserna om allmänt avdrag för obligatoriska utländska socialförsäkringsavgifter ändras på så sätt att det för avdragsrätt inte längre ska krävas att avgiften är knuten till en intäkt som erhållits på grund av utfört arbete.
 
-Ändringarna föreslås träda i kraft den 1 januari 2013\.
+Ändringarna föreslås träda i kraft den 1 januari 2013.

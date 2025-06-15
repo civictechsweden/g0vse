@@ -4,4 +4,4 @@ Tullverket har en omfattande verksamhet och en del av myndighetens uppdrag handl
 
 – Det är viktigt att våra tulltjänstemän känner sig trygga i sitt arbete. Den senaste tidens eskalerande säkerhetsläge har ökat behovet av att beväpna fler tulltjänstemän. Därför ger vi nu Tullverket i uppdrag att se över behovet av utrustning, inklusive vapen, för de anställda, säger Elisabeth Svantesson.
 
-Uppdraget ska redovisas senast den 15 januari 2024\.
+Uppdraget ska redovisas senast den 15 januari 2024.

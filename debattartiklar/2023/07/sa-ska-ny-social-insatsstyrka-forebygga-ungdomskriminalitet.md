@@ -2,7 +2,6 @@
 
 Debattartikel med socialtjänstminister Camilla Waltersson Grönvall, Göteborgsposten, den 27 juli 2023
 
-
 Allt fler barn och unga dras idag in i kriminella nätverk och vi vet att barn och unga som växer upp i områden där kriminella har stort inflytande löper större risk att utnyttjas och involveras i brottslighet. Samtidigt har det stöd som socialtjänsten haft behov av för att tidigt och kraftfullt kunna agera mot ungdomskriminalitet allt för länge förbisetts. Samarbetspartierna prioriterar det brottsförebyggande arbetet på riktigt och tar nu ett helhetsgrepp kring det.
 
 För att förhindra och förebygga att barn och unga rekryteras eller socialiseras in i kriminella nätverk eller annan kriminalitet och för att minska brottsligheten och öka tryggheten i vårt land måste det brottsförebyggande arbetet med fart intensifieras. Regeringen, tillsammans med Sverigedemokraterna, tar nu fram en nationell strategi mot den organiserade brottsligheten som under allt för lång tid har tillåtits att bre ut sig. En sådan strategi är en av flera viktiga pusselbitar i samhällets arbete mot de kriminella nätverken och annan organiserad brottslighet.

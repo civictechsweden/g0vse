@@ -2,4 +2,4 @@
 
 I lagrådsremissen föreslås lagändringar i fråga om infrastrukturavgifter på väg. Om infrastrukturavgifter inte betalas i rätt tid, ska olika sanktioner kunna drabba den betalningsskyldige. Regeringen eller den myndighet som regeringen bestämmer ska kunna meddela föreskrifter om att avgifter, förseningsavgift och tilläggsavgift ska tas ut om en infrastrukturavgift inte betalas i rätt tid. Fordonet ska vidare, som huvudregel, inte få användas om den totala avgiftsskulden uppgår till mer än 5 000 kronor och minst sex månader har gått sedan minst det beloppet senast skulle ha betalats. Om en bil används i strid med ett meddelat användningsförbud, ska en polisman eller en bilinspektör ta hand om fordonets registreringsskyltar. Ett fordon ska även kunna tas i anspråk för betalning av statens fordringar på infrastrukturavgift, förseningsavgift och tilläggsavgift. Infrastrukturavgifter bör betalas för passager som sker även med utländska fordon.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2015\.
+Lagändringarna föreslås träda i kraft den 1 januari 2015.

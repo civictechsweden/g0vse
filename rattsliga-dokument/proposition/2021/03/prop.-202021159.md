@@ -6,4 +6,4 @@ För att identi­fiera fler personer som vistas i Sverige och motverka missbruk 
 * En utlän­ning ska i vissa fall kunna beviljas högst tre främlings­pass under en fem­års­period.
 * Resedokument och främlings­pass ska kunna åter­kallas.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2021\.
+Lagändringarna föreslås träda i kraft den 1 juli 2021.

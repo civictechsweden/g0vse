@@ -4,4 +4,4 @@ Uppdrag att överväga regelverket för personuppgiftsbehandling vid strafförel
 
 En utredare har fått i uppdrag att lämna förslag till hur regelverket för personuppgiftsbehandling i samband med strafförelägganden, förelägganden av ordningsbot och uppbörd av böter bör vara utformat.
 
-Uppdraget ska redovisas senast den 20 januari 2015\.
+Uppdraget ska redovisas senast den 20 januari 2015.

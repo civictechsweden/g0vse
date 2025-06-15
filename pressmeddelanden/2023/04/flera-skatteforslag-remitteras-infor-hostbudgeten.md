@@ -19,7 +19,7 @@ I promemorian föreslås bland annat:
 
 [Promemoria: Vissa förslag om sänkt skatt på arbetsinkomster och pension inför budgetpropositionen 2024](/rattsliga-dokument/departementsserien-och-promemorior/2023/04/vissa-forslag-om-sankt-skatt-pa-arbetsinkomster-och-pension-infor-budgetpropositionen-2024/)
 
-**Förslag om sänkt skatt på plastbärkassar inför budgetpropositionen 2024**Regeringen angav i 2023 års vårproposition att ett förslag om att avskaffa eller kraftigt sänka skatten på plastbärkassar skulle remitteras inför budgetpropositionen för 2024\. I promemorian remitteras ett förslag om att kraftigt sänka skatten. Detta vore även ett första steg för att eventuellt avskaffa skatten.
+**Förslag om sänkt skatt på plastbärkassar inför budgetpropositionen 2024**Regeringen angav i 2023 års vårproposition att ett förslag om att avskaffa eller kraftigt sänka skatten på plastbärkassar skulle remitteras inför budgetpropositionen för 2024. I promemorian remitteras ett förslag om att kraftigt sänka skatten. Detta vore även ett första steg för att eventuellt avskaffa skatten.
 
 [Promemoria: Förslag om sänkt skatt på plastbärkassar inför budgetpropositionen 2024](/rattsliga-dokument/departementsserien-och-promemorior/2023/04/forslag-om-sankt-skatt-pa-plastbarkassar-infor-budgetpropositionen-2024/)
 
@@ -27,13 +27,13 @@ I promemorian föreslås bland annat:
 
 I promemorian föreslås att:
 
-* Den årliga indexeringen av skatt på drivmedel pausas under 2024 och 2025\.
-* Den tillfälligt utökade skattenedsättningen på s.k. jordbruksdiesel föreslås gälla även under 2024 och 2025\.
+* Den årliga indexeringen av skatt på drivmedel pausas under 2024 och 2025.
+* Den tillfälligt utökade skattenedsättningen på s.k. jordbruksdiesel föreslås gälla även under 2024 och 2025.
 
 [Promemoria: Vissa förslag på bränsleskatteområdet inför budgetpropositionen 2024](/rattsliga-dokument/departementsserien-och-promemorior/2023/04/vissa-forslag-pa-bransleskatteomradet-infor-budgetpropositionen-2024/)
 
 **Förslag om pausad indexering av energiskatten på el inför budgetpropositionen 2024**
-Den årliga indexeringen av energiskatten på el föreslås pausas under 2024 och 2025\.
+Den årliga indexeringen av energiskatten på el föreslås pausas under 2024 och 2025.
 
 [Promemoria: Förslag om pausad indexering av energiskatten på el inför budgetpropositionen 2024](/rattsliga-dokument/departementsserien-och-promemorior/2023/04/forslag-om-pausad-indexering-av-energiskatten-pa-el-infor-budgetpropositionen-2024/)
 
@@ -51,7 +51,7 @@ Experter, forskare och nyckelpersoner kan i dag få skattelättnad under de fem 
 
 **Förslag om slopad nedsättning av arbetsgivaravgifter för 15–18 åringar inför budgetpropositionen 2024**
 
-Förslaget i promemorian innebär att nedsättningen av arbetsgivaravgifterna och den allmänna löneavgiften för personer som vid årets ingång har fyllt 15 men inte 18 år slopas fr.o.m. den 1 januari 2024\.
+Förslaget i promemorian innebär att nedsättningen av arbetsgivaravgifterna och den allmänna löneavgiften för personer som vid årets ingång har fyllt 15 men inte 18 år slopas fr.o.m. den 1 januari 2024.
 
 [Promemoria: Förslag om slopad nedsättning av arbetsgivaravgifter för 15–18 åringar inför budgetpropositionen 2024](/rattsliga-dokument/departementsserien-och-promemorior/2023/04/forslag-om-slopad-nedsattning-av-arbetsgivaravgifterna-for-1518-aringar-infor-budgetpropositionen-2024/)
 
@@ -67,6 +67,6 @@ Förslaget innebär att reglerna om beräkning av ränteförmån ändras genom a
 
 **Förslag om teknisk översyn av vissa nedsättningar av socialavgifterna inför budgetpropositionen 2024**
 
-I promemorian föreslås att det s.k. FoU\-avdraget ändras på så sätt att avdraget vid beräkning av arbetsgivaravgifterna och den allmänna löneavgiften ska göras mot summan av dessa avgifter. I dag görs avdraget separat mot varje del. En motsvarande ändring föreslås avseende den generella nedsättningen av egenavgifterna. Syftet med förslagen är att skapa utrymme för berörda arbetsgivare och näringsidkare att kunna utnyttja respektive avdrag fullt ut.
+I promemorian föreslås att det s.k. FoU-avdraget ändras på så sätt att avdraget vid beräkning av arbetsgivaravgifterna och den allmänna löneavgiften ska göras mot summan av dessa avgifter. I dag görs avdraget separat mot varje del. En motsvarande ändring föreslås avseende den generella nedsättningen av egenavgifterna. Syftet med förslagen är att skapa utrymme för berörda arbetsgivare och näringsidkare att kunna utnyttja respektive avdrag fullt ut.
 
 [Promemoria: Förslag om teknisk översyn av vissa nedsättningar av socialavgifterna inför budgetpropositionen 2024](/rattsliga-dokument/departementsserien-och-promemorior/2023/04/forslag-om-teknisk-oversyn-av-vissa-nedsattningar-av-socialavgifterna-infor-budgetpropositionen-2024/)

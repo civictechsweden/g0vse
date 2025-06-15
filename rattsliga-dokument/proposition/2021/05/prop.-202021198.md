@@ -11,5 +11,5 @@ I propositionen föreslås även att undantaget för ringa brott avseende
 nedskräpningsförseelse i miljöbalken ska tas bort. Nedskräpningsförseelse föreslås således kunna medföra straffansvar även om gärningen är ringa.
 
 Ändringen när det gäller nedskräpningsförseelse föreslås träda i kraft
-den 1 januari 2022\. Övriga lagändringar föreslås träda i kraft den
-1 november 2021\.
+den 1 januari 2022. Övriga lagändringar föreslås träda i kraft den
+1 november 2021.

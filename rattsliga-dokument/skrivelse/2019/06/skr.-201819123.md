@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om jämställdhet i Almis låneverksamhet
 
-I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen har gjort i rapporten Jämställdhet i Almis låneverksamhet – otydlig styrning och återrapportering (RiR 2019:7\).
+I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen har gjort i rapporten Jämställdhet i Almis låneverksamhet – otydlig styrning och återrapportering (RiR 2019:7).
 
 Riksrevisionen har granskat om regeringens och Almi Företagspartner AB:s (Almi) arbete med Almis uppdrag om kvinnors företagande bidrar till att uppfylla det jämställdhetspolitiska delmålet om ekonomisk jämställdhet. Riksrevisionens övergripande slutsats är att Almi strävar efter att utföra uppdraget om kvinnors företagande på ett samstämmigt och konsekvent sätt, men att det råder otydligheter i regeringens styrning och i Almis återrapportering till regeringen.
 

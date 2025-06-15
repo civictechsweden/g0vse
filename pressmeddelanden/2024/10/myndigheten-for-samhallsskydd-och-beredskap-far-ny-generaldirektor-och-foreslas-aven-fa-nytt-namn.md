@@ -8,8 +8,8 @@ MSB har en avgörande roll i återuppbyggnaden av det civila försvaret och får
 
 För att myndighetens namn bättre ska återspegla det ansvar som myndigheten har, föreslås att myndigheten får ett nytt namn: Myndigheten för civilt försvar, MCF. Genom det föreslagna namnbytet tydliggörs och markeras myndighetens uppdrag inom civilt försvar, med krigets krav som det dimensionerande hotet och det civila försvaret som den prioriterade uppgiften.
 
-– Den kursomläggning vi nu genomför ställer krav på en förändrad kultur och ett framåtlutat ledarskap. Mikael Frisell har beprövad erfarenhet av att leda genom förändring, vilket kommer vara avgörande i det arbete som nu väntar. Vi ser fram emot att se de mycket viktiga steg som myndigheten kommer ta under hans ledning, säger minister för civilt försvar Carl\-Oskar Bohlin.
+– Den kursomläggning vi nu genomför ställer krav på en förändrad kultur och ett framåtlutat ledarskap. Mikael Frisell har beprövad erfarenhet av att leda genom förändring, vilket kommer vara avgörande i det arbete som nu väntar. Vi ser fram emot att se de mycket viktiga steg som myndigheten kommer ta under hans ledning, säger minister för civilt försvar Carl-Oskar Bohlin.
 
 Inom MSB föreslås också räddningstjänst, skydd mot olyckor och åtgärder inom befolkningsskydd att organiseras inom en egen del av myndigheten och med en egen chef som utses av regeringen. Förslagen om namnbytet och organisationsförändringarna skickas nu ut på remiss.
 
-Den föreslagna organisationsförändringen föreslås träda i kraft den 1 juli 2025\. Namnändringen föreslås träda i kraft den 1 januari 2026\.
+Den föreslagna organisationsförändringen föreslås träda i kraft den 1 juli 2025. Namnändringen föreslås träda i kraft den 1 januari 2026.

@@ -5,10 +5,10 @@ En särskild utredare ska genomföra en översyn av kultursamverkansmodellen. Sy
 Utredaren ska bland annat:
 
 * föreslå hur roller, ansvar och samverkan inom modellen kan utvecklas
-och förtydligas,
+  och förtydligas,
 * föreslå hur modellen kan bidra till ökad tillgång till kultur och till
-breddat deltagande i kulturverksamhet i hela landet,
+  breddat deltagande i kulturverksamhet i hela landet,
 * föreslå vilka statligt stödda områden som bör ingå i modellen, och
-lämna nödvändiga författningsförslag.
+  lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 29 september 2023\.
+Uppdraget ska redovisas senast den 29 september 2023.

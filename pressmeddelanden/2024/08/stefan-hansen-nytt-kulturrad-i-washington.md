@@ -2,7 +2,7 @@
 
 Stefan Hansen har en bred yrkesbakgrund inom kultursektorn, inte minst inom scenkonstområdet. Närmast kommer han från tjänsten som VD för Unga Klara, nationell scen för barn och unga. Tidigare har han bland annat varit projektledare på Göteborgsoperan, verksamhetsledare på Teater Sagohuset samt ordförande i referensgruppen för den fria scenkonsten på Statens kulturråd. 2017 var han verksam vid ambassaden i Washington under ett år.
 
-Stefan Hansens förordnande löper från 1 december 2024 till 30 november 2027\.
+Stefan Hansens förordnande löper från 1 december 2024 till 30 november 2027.
 
 ## Sveriges utsända kulturråd
 

@@ -6,7 +6,7 @@ Det finns i dag en möjlighet att sänka alkoholskatten för oberoende småbrygg
 
 – Detta är ett ytterligare steg mot ett friare och mer företagarvänligt Sverige. Mikrobryggerier bidrar med arbetstillfällen runt om i landet. Med sänkt skatt får de ytterligare möjlighet att växa, säger finansminister Elisabeth Svantesson.
 
-– Sverige har en fantastisk ölkultur, den vill vi bevara och utveckla, säger Oscar Sjöstedt, ekonomisk\-politisk talesperson för Sverigedemokraterna.
+– Sverige har en fantastisk ölkultur, den vill vi bevara och utveckla, säger Oscar Sjöstedt, ekonomisk-politisk talesperson för Sverigedemokraterna.
 
 För att omfattas av förslaget får producenten som mest producera 3 miljoner liter öl per år. Det finns även krav på att producenten måste vara oberoende från andra ölproducenter, men det finns möjligheter för småbryggerier att samarbeta med varandra.
 

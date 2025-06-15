@@ -1,7 +1,7 @@
 # Sänkt reklamskatt
 
 Regeringen har i budgetpropositionen för 2016 förklarat att ytterligare
-steg i avskaffandet av reklamskatten för bl.a. dagspressen ska tas genom att skatten ska sänkas med motsvarande 20 miljoner kronor från och med den 1 januari 2017 och med ytterligare 20 miljoner kronor från och med den 1 januari 2019\.
+steg i avskaffandet av reklamskatten för bl.a. dagspressen ska tas genom att skatten ska sänkas med motsvarande 20 miljoner kronor från och med den 1 januari 2017 och med ytterligare 20 miljoner kronor från och med den 1 januari 2019.
 
 I promemorian föreslås att skattesänkningen för 2017 hanteras genom
 en sänkning av skattesatsen för annonser i periodiska publikationer från

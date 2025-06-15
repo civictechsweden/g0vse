@@ -2,7 +2,6 @@
 
 Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.
 
-
 ## Sammanfattning av domen
 
 Målet rörde huvudsakligen tillämpningen av artikel 4 i tilläggsprotokoll 7 till Europakonventionen om rätten att inte bli lagförd eller straffad två gånger (dubbelprövningsförbudet).

@@ -2,7 +2,6 @@
 
 Regeringen presenterade idag en ny satsning och ett samlat grepp i arbetet mot antisemitism och för att stärka judiskt liv i Sverige. En arbetsgrupp med statssekreterare från flera olika departement kommer att samverka och föra dialog om förebyggande åtgärder och insatser mot antisemitism och som stärker förutsättningarna för judiskt liv i Sverige.
 
-
 – Arbetet mot antisemitism ska prioriteras. Regeringen fokuserar på tre områden för att motverka antisemitism: utbildningsinsatser, att öka tryggheten för judar i Sverige och att uppmärksamma den judiska kulturen. Att arbeta med frågan brett är en förutsättning för att komma till rätta med problemen, säger statsminister Ulf Kristersson.
 
 En framgångsrik kamp mot antisemitism bygger på att den synliggörs och att flera aktörer arbetar gemensamt med frågan. Arbetet mot antisemitism behöver därför bedrivas brett även inom Regeringskansliet. Regeringen presenterade idag en ny tvärdepartemental statssekreterargrupp där statssekreterare från flera olika departement ska ta ett samlat grepp runt frågan. Gruppen leds av statsministerns statssekreterare Johan Stuart.
@@ -13,8 +12,8 @@ Säkerheten lyfts som ett särskilt problem för den judiska minoriteten. Det ä
 
 – Judar i Sverige har rätt att utöva sin tro öppet, fullt ut och tillsammans med sina trosfränder. Men som ansvarig för trossamfunden har jag mött många människor som säger att bristande säkerhet inte alltid gör detta möjligt. Man är orolig för hot och våld eller att bli trakasserad på gatan, säger socialminister Jakob Forssmed.
 
-Regeringen gör också ett antal satsningar inom kultur och utbildning. Det gäller bland annat finansiering av hågkomstresor till Förintelsens minnesplatser, fortsatt samarbete för lärares undervisning om Förintelsen och finanisering av uppbyggnaden av Sveriges museum om Förintelsen. Medlen för Forum för levande historias och Segerstedtinstitutets satsning med uppdraget att genomföra kunskapshöjande insatser mot antisemitism dubbleras 2023\.
+Regeringen gör också ett antal satsningar inom kultur och utbildning. Det gäller bland annat finansiering av hågkomstresor till Förintelsens minnesplatser, fortsatt samarbete för lärares undervisning om Förintelsen och finanisering av uppbyggnaden av Sveriges museum om Förintelsen. Medlen för Forum för levande historias och Segerstedtinstitutets satsning med uppdraget att genomföra kunskapshöjande insatser mot antisemitism dubbleras 2023.
 
-Dessutom ska skolan ges bättre verktyg för att motverka antisemitism. Satsningen görs även på högskole\- och universitetsnivå där Forum för levande historia och Segerstedtinstitutet vid Göteborgs universitet ska ta fram nya arbetsmetoder mot antisemitism i skolmiljöer.
+Dessutom ska skolan ges bättre verktyg för att motverka antisemitism. Satsningen görs även på högskole- och universitetsnivå där Forum för levande historia och Segerstedtinstitutet vid Göteborgs universitet ska ta fram nya arbetsmetoder mot antisemitism i skolmiljöer.
 
-– Skolan har en mycket viktig roll i att förebygga antisemitism. Många barn utsätts för detta samtidigt som lärare ger uttryck för att de saknar kunskapen att hantera antisemitismen. Regeringen vill därför med sitt stöd öka denna kunskap, ge lärarna de verktyg som krävs och få stopp på antisemitismen i skolans korridorer, säger jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg.
+– Skolan har en mycket viktig roll i att förebygga antisemitism. Många barn utsätts för detta samtidigt som lärare ger uttryck för att de saknar kunskapen att hantera antisemitismen. Regeringen vill därför med sitt stöd öka denna kunskap, ge lärarna de verktyg som krävs och få stopp på antisemitismen i skolans korridorer, säger jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg.

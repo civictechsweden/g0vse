@@ -67,7 +67,6 @@ I began my speech by taking you back to a dark period not so long ago. When Swed
 * We have Koenigsegg, in small-town Ängelholm, which produces the world’s fastest car, IKEA from small-town Älmhult is the world’s largest furniture-seller and LKAB up in the north, has made the largest find in Europe of rare earth metals.
 * We are the home of the pacemaker, Bluetooth, the seat belt and many more inventions.
 
-
 Sweden is an innovative, thrifty and ambitious country. Together, we can do even greater things. In short, We. Are. Open. For. Business!
 
 Thank you.

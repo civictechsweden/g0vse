@@ -8,6 +8,6 @@ Tidsåtgången för förberedelser inför ett omval behöver även i övrigt min
 
 För att effektivisera handläggningen av överklaganden av beslut om val föreslås bland annat att ett överklagande av ett beslut att fastställa utgången av ett val ska ges in direkt till Valprövningsnämnden. Den uttryckliga rätten för var och en att yttra sig över överklaganden i val tas bort. Det föreslås även ändringar i kungörelseförfarandet.
 
-Ändringarna föreslås träda i kraft den 1 januari 2018\.
+Ändringarna föreslås träda i kraft den 1 januari 2018.
 
 [Pressmeddelande: Regeringen föreslår lagändringar för snabbare omval](/pressmeddelanden/2017/06/regeringen-foreslar-lagandringar-for-snabbare-omval/)

@@ -8,4 +8,4 @@ Det är väsentligt att de lärverktyg som används i undervisningen är ändam�
 
 Enligt uppdraget ska Skolverket, utöver allmänna råd eller rekommendationer, även ta fram stödmaterial som kan tillämpas vid val och användning av lärverktyg. Skolverket ska ansvara för att sprida och kommunicera de allmänna råden eller rekommendationerna och stödmaterialet till berörda målgrupper.
 
-Uppdraget ska redovisas senast den 15 januari 2025\.
+Uppdraget ska redovisas senast den 15 januari 2025.

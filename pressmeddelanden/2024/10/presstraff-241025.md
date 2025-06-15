@@ -1,6 +1,6 @@
 # Tandvårdsutredningen föreslår förstärkt högkostnadsskydd för äldre med sämst munhälsa
 
-– Även om mun\- och tandhälsan i Sverige generellt är god, är den som sämst bland äldre som kanske inte har råd att gå till tandläkaren. Det är inte värdigt Sverige. Den här regeringen har för avsikt att genomföra den största tandvårdsreformen på över 20 år och utredningen är ett viktigt steg i detta, säger socialminister Jakob Forssmed.
+– Även om mun- och tandhälsan i Sverige generellt är god, är den som sämst bland äldre som kanske inte har råd att gå till tandläkaren. Det är inte värdigt Sverige. Den här regeringen har för avsikt att genomföra den största tandvårdsreformen på över 20 år och utredningen är ett viktigt steg i detta, säger socialminister Jakob Forssmed.
 
 Utredaren har haft i uppdrag att analysera och lämna nödvändiga författningsförslag på:
 

@@ -2,12 +2,11 @@
 
 Regeringen utsåg idag nya ledamöter i Exportkontrollrådet hos Inspektionen för strategiska produkter (ISP).
 
-
 Följande personer, som antingen är eller tidigare har varit riksdagsledamöter har utsetts:
 
-Jan R. Andersson, Annicka Engblom, Stig Henriksson, Mikael Jansson, Lars Johansson, Nina Larsson, Kerstin Lundgren, Mattias Ottosson, Pernilla Stålhammar, Caroline Szyber, Anna\-Lena Sörenson, Per Westerberg.
+Jan R. Andersson, Annicka Engblom, Stig Henriksson, Mikael Jansson, Lars Johansson, Nina Larsson, Kerstin Lundgren, Mattias Ottosson, Pernilla Stålhammar, Caroline Szyber, Anna-Lena Sörenson, Per Westerberg.
 
-Förordnandena gäller i samtliga fall till den 31 december 2018\.
+Förordnandena gäller i samtliga fall till den 31 december 2018.
 
 \*\*\*
 

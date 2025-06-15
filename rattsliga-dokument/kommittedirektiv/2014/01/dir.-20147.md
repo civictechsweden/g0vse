@@ -5,4 +5,4 @@ En särskild utredare ska förbereda och genomföra inrättandet av en ny myndig
 Uppdraget gäller med förbehåll för riksdagens beslut i nödvändiga delar.
 
 Uppdraget ska delredovisas den 15 maj 2014 och slutredovisas
-senast den 19 december 2014\.
+senast den 19 december 2014.

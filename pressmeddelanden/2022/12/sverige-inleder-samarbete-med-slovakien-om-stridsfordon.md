@@ -6,8 +6,8 @@ Slovakien har efter omfattande utvärderingar valt att anskaffa 152 stycken nya 
 
 ## Fler avtal tecknas
 
-Affären genomförs i ett mellanstatligt upplägg där en övergripande avsiktsförklaring om samarbete inom stridsfordonsområdet tecknas på försvarsministernivå. En mellanstatlig överenskommelse tecknas av Försvarets materielverk (FMV) om bland annat stöd under leveransskedet samt erfarenhetsutbyte och samarbete gällande utbildning, nyttjande, drift och fortsatt utveckling av stridsfordon 90\-systemet. Ett kommersiellt avtal tecknas mellan Slovakien och BAE Systems Hägglunds.
+Affären genomförs i ett mellanstatligt upplägg där en övergripande avsiktsförklaring om samarbete inom stridsfordonsområdet tecknas på försvarsministernivå. En mellanstatlig överenskommelse tecknas av Försvarets materielverk (FMV) om bland annat stöd under leveransskedet samt erfarenhetsutbyte och samarbete gällande utbildning, nyttjande, drift och fortsatt utveckling av stridsfordon 90-systemet. Ett kommersiellt avtal tecknas mellan Slovakien och BAE Systems Hägglunds.
 
-Sedan 2014 finns ett bilateralt samförståndsavtal, Memorandum of Understanding, MoU, med Slovakien om samarbete på försvarsområdet (SÖ 2014:14\).
+Sedan 2014 finns ett bilateralt samförståndsavtal, Memorandum of Understanding, MoU, med Slovakien om samarbete på försvarsområdet (SÖ 2014:14).
 
 Det kommersiella avtalet mellan Slovakien och BAE Systems Hägglunds och den mellanstatliga överenskommelsen mellan FMV och Slovakien undertecknades vid en ceremoni måndagen den 12 december.

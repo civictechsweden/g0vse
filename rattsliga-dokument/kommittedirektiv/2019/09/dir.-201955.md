@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * om utredaren finner att andra alternativa lösningar än beskattning skulle vara mer kostnadseffektiva, eller av andra skäl mer motiverade ska även sådana lösningar och konsekvenserna av dessa alternativa lösningar presenteras,
 * beakta administrativa aspekter vid utformningen av förslagen och sträva efter att begränsa den administrativa bördan för berörda aktörer och myndigheter.
 
-Uppdraget ska redovisas senast den 6 augusti 2020\.
+Uppdraget ska redovisas senast den 6 augusti 2020.

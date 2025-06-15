@@ -9,4 +9,4 @@ Regeringen föreslår bland annat:
 * en ny bestämmelse om särskild underrättelse till Inspektionen för vård och omsorg om en patient som är under 18 år har blivit föremål för upprepade tvångsåtgärder under vårdperioden.
 * en ny bestämmelse om att patienter som är under 18 år ska ha rätt till dagliga aktiviteter på vårdinrättningen och att vistas utomhus under minst en timme varje dag, om inte medicinska skäl talar mot det.
 
-Ändringarna föreslås träda i kraft den 1 juli 2020\.
+Ändringarna föreslås träda i kraft den 1 juli 2020.

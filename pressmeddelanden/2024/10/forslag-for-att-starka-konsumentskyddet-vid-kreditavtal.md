@@ -16,4 +16,4 @@ Utredaren har haft i uppdrag att analysera hur direktivet bör genomföras i Sve
 * tydligare regler om ångerrätt, information och förtidsbetalning, och
 * nya krav på kreditgivare och deras verksamhet.
 
-Lagändringarna föreslås träda i kraft den 20 november 2026\.
+Lagändringarna föreslås träda i kraft den 20 november 2026.

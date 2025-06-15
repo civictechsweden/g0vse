@@ -1,6 +1,6 @@
 # SiS ska förbereda för nya ungdomshem tillsammans med kommuner och regioner
 
-Enligt socialtjänstlagen finns möjligheten för SiS att öppna ungdomshem genom avtal med kommuner eller regioner. Den möjligheten vill regeringen att SiS utnyttjar för att öka antalet plaster för sluten ungdomsvård.
+Enligt socialtjänstlagen finns möjligheten för SiS att öppna ungdomshem genom avtal med kommuner eller regioner. Den möjligheten vill regeringen att SiS utnyttjar för att öka antalet platser för tvångsvård.
 
 – Det är vårt ansvar som samhälle att skydda barn och unga från skadliga miljöer. Men i dag gör platsbristen vid SiS att många med komplexa och omfattande vårdbehov inte alltid får den hjälp de behöver. Vi behöver uttömma alla möjligheter vi har för att förbättra situationen och skydda våra barn och unga, säger socialtjänstminister Camilla Waltersson Grönvall.
 

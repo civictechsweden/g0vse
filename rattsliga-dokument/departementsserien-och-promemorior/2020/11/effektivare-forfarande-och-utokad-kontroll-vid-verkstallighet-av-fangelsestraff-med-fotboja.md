@@ -4,4 +4,4 @@ I promemorian föreslås åtgärder som syftar till att effekti­visera för­fa
 
 Vidare föreslås åtgärder som syftar till att öka möjlig­heterna till kontroll av dem som avtjänar fängelse­straff med fotboja. Det föreslås att Kriminal­vården ges möjlighet att fatta beslut om en före­skrift om vistelse som den dömde måste följa. Det kan handla om ett förbud att vistas på en viss plats eller inom ett visst geo­grafiskt område. Det förslås också att före­skrifter som kan beslutas för den dömde under verk­ställig­het med fotboja ska kunna över­vakas elektro­niskt.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2021\.
+Lagändringarna föreslås träda i kraft den 1 juli 2021.

@@ -1,7 +1,6 @@
 # Uppdrag att bedöma möjligheten att donera medicinteknisk utrustning, sjukvårdsmateriel m.m. till katastrof- eller krigsdrabbade områden utomlands
 
-Regeringen uppdrar åt Socialstyrelsen att bedöma möjligheten att bistå med stöd via EU:s civilskyddsmekanism eller via Nato Euro\-Atlantic Disaster Response Coordination Centre (EADRCC). Socialstyrelsen får under året donera utrustning och materiel för maximalt 45 miljoner kronor.
-
+Regeringen uppdrar åt Socialstyrelsen att bedöma möjligheten att bistå med stöd via EU:s civilskyddsmekanism eller via Nato Euro-Atlantic Disaster Response Coordination Centre (EADRCC). Socialstyrelsen får under året donera utrustning och materiel för maximalt 45 miljoner kronor.
 
 Socialstyrelsen ska bland annat:
 

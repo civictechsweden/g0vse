@@ -8,4 +8,4 @@ utformning, blir beroende av de överläggningar som förs i det slutliga arbete
 I promemorian föreslås ett avdragsförbud för ränta på vissa efterställda
 skuldförbindelser och vissa förenklingar på företagsskatteområdet. Förslagen föranleder ändringar i inkomstskattelagen, IL.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2017\.
+Lagändringarna föreslås träda i kraft den 1 januari 2017.

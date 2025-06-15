@@ -1,9 +1,8 @@
 # Konferensen som ska göra trafiken säkrare i hela världen
 
-1 700 delegater från ett 140\-tal länder, varav cirka 80 ministerledda delegationer, kraftsamlar för att nå nya globala mål för trafiksäkerhet 2030\.
+1 700 delegater från ett 140-tal länder, varav cirka 80 ministerledda delegationer, kraftsamlar för att nå nya globala mål för trafiksäkerhet 2030.
 
-
-Den 19\-20 februari står Sverige värd för den tredje globala ministerkonferensen, 3rd Global Ministerial Conference on Road Safety 2020\.  Världens ledare inom trafiksäkerhet samlas för att följa upp och sammanfatta det globala trafiksäkerhetsarbetet som gjorts inom FN, WHO och dess medlemsländer, samt skapa en global uppslutning kring en framåtsyftande deklaration med riktlinjer för det fortsatta globala trafiksäkerhetsarbetet till år 2030, Stockholm Declaration.
+Den 19-20 februari står Sverige värd för den tredje globala ministerkonferensen, 3rd Global Ministerial Conference on Road Safety 2020.  Världens ledare inom trafiksäkerhet samlas för att följa upp och sammanfatta det globala trafiksäkerhetsarbetet som gjorts inom FN, WHO och dess medlemsländer, samt skapa en global uppslutning kring en framåtsyftande deklaration med riktlinjer för det fortsatta globala trafiksäkerhetsarbetet till år 2030, Stockholm Declaration.
 
 ### Nära koppling till hållbarhetsmålen inom Agenda 2030
 

@@ -7,4 +7,4 @@ På Ekofinrådets möte den 18 januari 2022 finns följande punkter på dagordni
 * Det franska ordförandeskapets prioriteringar
 * Ekonomisk återhämtning
 * Den europeiska planeringsterminen 2022
-* Förberedelser inför G20\-mötet med finansministrar och centralbankschefer i februari 2022: EU:s mandat vid G20
+* Förberedelser inför G20-mötet med finansministrar och centralbankschefer i februari 2022: EU:s mandat vid G20

@@ -1,7 +1,6 @@
 # Uttalande med anledning av byggarbetsplatsolyckan i Sundbyberg
 
-Statsminister Ulf Kristersson och jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg, uttalande, Stockholm den 12 december 2023
-
+Statsminister Ulf Kristersson och jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg, uttalande, Stockholm den 12 december 2023
 
 I dag nåddes regeringen av det fruktansvärda beskedet att det konstaterats att de fem personer som igår var med om en olycka på en byggarbetsplats i Sundbyberg har avlidit.
 

@@ -1,7 +1,6 @@
 # Sverige godkänner utökande av Romstadgans brottskatalog
 
-Den 26 januari godkände Sverige genom FN\-ambassadör Anna\-Karin Eneström en utökning av brottskatalogen i Romstadgan för den Internationella brottmålsdomstolen (ICC).
-
+Den 26 januari godkände Sverige genom FN-ambassadör Anna-Karin Eneström en utökning av brottskatalogen i Romstadgan för den Internationella brottmålsdomstolen (ICC).
 
 Ändringarna som Sverige nu godtagit är bland annat de så kallade Kampalaändringarna, som beslutades om under översynskonferensen i Kampala 2010, och som innebär att Romstadgans brottskatalog utökas med ett femte brott  – aggressionsbrott mot andra stater. För aggressionsbrott kan den ställas till svars som kan utöva kontroll eller styra över en stats politiska eller militära handlande och som planerar, förbereder, inleder eller utför en aggressionshandling mot en annan stat som till sin karaktär, svårhetsgrad och omfattning utgör en uppenbar överträdelse av Förenta nationernas stadga. ICC:s jurisdiktion över brottet trädde i kraft den 17 juli 2018 efter att 30 statsparter ratificerat eller godkänt ändringen.
 

@@ -6,4 +6,4 @@ En särskild utredare ska bl.a. lämna förslag på hur sanktionerna för lotter
 * ta ställning till utformningen av straffansvar för främjande i 54 § andra stycket lotterilagen så att straffansvaret avser alla överträdelser av främjandeförbudet, oavsett om främjandet avsett ett svenskt eller utländskt lotteri,
 * överväga ett system med vitesförelägganden som ska gälla omedelbart.
 
-Uppdraget ska redovisas senast den 30 november 2014\.
+Uppdraget ska redovisas senast den 30 november 2014.

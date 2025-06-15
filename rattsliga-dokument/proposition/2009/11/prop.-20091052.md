@@ -4,6 +4,6 @@ I propositionen föreslås att riksdagen godkänner protokoll nr 14a till den eu
 
 Vidare föreslås att riksdagen godkänner en förklaring om förtida tillämpning av protokoll nr 14a, för att domstolen snarast möjligt ska kunna tillämpa reglerna i mål mot Sverige.
 
-Som en följd av ett godkännande av protokoll nr 14a föreslås också en ändring i lagen (1994:1219\) om den europeiska konventionen angående skydd för de mänskliga rättigheterna och de grundläggande friheterna.
+Som en följd av ett godkännande av protokoll nr 14a föreslås också en ändring i lagen (1994:1219) om den europeiska konventionen angående skydd för de mänskliga rättigheterna och de grundläggande friheterna.
 
 Lagändringen föreslås träda i kraft den dag regeringen bestämmer.

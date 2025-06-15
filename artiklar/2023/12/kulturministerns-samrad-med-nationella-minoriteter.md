@@ -2,7 +2,6 @@
 
 Varje år ordnas enskilda samråd med representanter för Sveriges fem nationella minoriteter judar, romer, samer som också är ett urfolk, sverigefinnar och tornedalingar. Syftet med de årliga samråden är att diskutera aktuella frågeställningar kring minoritetspolitiken i en öppen och konstruktiv dialog.
 
-
 Under november och december har kulturminister Parisa Liljestrand bjudit in representanter från minoritetsorganisationer från alla fem minoriteter till samråd.
 
 – Samråden är ett viktigt forum för att lyssna in synpunkter på den nationella minoritetspolitiken. Det är glädjande att många insatser pågår samtidigt som jag ser med oro på den utsatthet som flera av de nationella minoriteterna upplever, säger kulturminister Parisa Liljestrand.

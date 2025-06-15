@@ -8,8 +8,8 @@ Reglerna föreslås också ändras på så sätt att en personaloption kan nyttj
 
 De föreslagna ändringarna föranleder också vissa justeringar i skatteförfarandelagen vad gäller skyldighet att lämna kontrolluppgift och uppgift i arbetsgivardeklaration.
 
-Förslaget om att utvidga reglerna om lättnad i beskattningen av personaloption i vissa fall till att omfatta fler företag och styrelse\-medlemmar utgör ett statligt stöd som måste anmälas till och godkännas av Europeiska kommissionen innan det kan genomföras.
+Förslaget om att utvidga reglerna om lättnad i beskattningen av personaloption i vissa fall till att omfatta fler företag och styrelse-medlemmar utgör ett statligt stöd som måste anmälas till och godkännas av Europeiska kommissionen innan det kan genomföras.
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2022\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2022.
 
-Remissvaren ska ha kommit in till Finansdepartementet senast den 23 december 2020\.
+Remissvaren ska ha kommit in till Finansdepartementet senast den 23 december 2020.

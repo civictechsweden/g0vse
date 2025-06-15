@@ -2,7 +2,6 @@
 
 Måndag 3 oktober valdes Sverige in i FN:s fackorgan Internationella teleunionen (ITU).
 
-
 ITU, Internationella teleunionen, anordnar just nu en fullmaktskonferens i Bukarest. Under måndagen 3 oktober röstades Sverige in i ITU:s verkställande råd. Valet innebär att Sverige blir en del av det verkställande råd som styr ITU:s arbete med bland annat global kapacitetsutveckling, tekniska standarder och internets styrning under de kommande fyra åren.
 
 En plats i rådet är en viktig plattform för att säkerställa att digitaliseringen sker utifrån Sveriges grundläggande principer och värderingar. Sveriges ambition i rådet är att arbeta för en mer inkluderande och jämlik värld genom digitalisering.
@@ -17,11 +16,11 @@ Sverige har under en lång tid stöttat och varit drivande i utvecklingen och ut
 
 ### Digitala färdigheter
 
-För att överbrygga den digitala klyftan behövs både tekniska förutsättningar och digitala färdigheter \- två sakområden där Sverige besitter mycket kunskap och praktisk erfarenhet att ta med till ITU:s råd.
+För att överbrygga den digitala klyftan behövs både tekniska förutsättningar och digitala färdigheter - två sakområden där Sverige besitter mycket kunskap och praktisk erfarenhet att ta med till ITU:s råd.
 
 ### Transparent, rättvis och effektiv styrning
 
-Sveriges långa tradition av FN\-arbete och stöd till multilateralismen samt goda kunskaper, erfarenheter och resurser inom digitaliseringsområdet kommer användas för att inom ITU:s råd bidra till att styra organisationen i en riktning som levererar tydliga resultat för alla dess medlemmar på ett transparent, effektivt och rättvist sätt.
+Sveriges långa tradition av FN-arbete och stöd till multilateralismen samt goda kunskaper, erfarenheter och resurser inom digitaliseringsområdet kommer användas för att inom ITU:s råd bidra till att styra organisationen i en riktning som levererar tydliga resultat för alla dess medlemmar på ett transparent, effektivt och rättvist sätt.
 
 ### Flexibelt och effektivt användande av radiospektrum
 

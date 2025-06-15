@@ -12,4 +12,4 @@ Lagen föreslås innehålla ett bemyndigande för regeringen eller den myndighet
 
 I propositionen görs bedömningen att överträdelser av bestämmelser i virkesmätningslagstiftningen inte bör vara förenade med straff eller sanktionsavgifter.
 
-Den nya lagen föreslås träda i kraft den 1 mars 2015\.
+Den nya lagen föreslås träda i kraft den 1 mars 2015.

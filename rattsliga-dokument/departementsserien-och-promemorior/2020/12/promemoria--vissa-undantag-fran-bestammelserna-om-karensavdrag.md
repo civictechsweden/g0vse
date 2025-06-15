@@ -12,4 +12,4 @@ Det är viktigt att följa upp och utvärdera reglerna. Detta bland annat vad av
 
 Även kostnaderna för arbetsgivare behöver följas upp. Det är också viktigt att följa upp att möjligheten att avtala bort karensavdraget enbart används av dem som har särskilda skäl att göra det.
 
-Bestämmelserna föreslås gälla för perioden den 1 augusti 2021 till och med den 31 januari 2023\.
+Bestämmelserna föreslås gälla för perioden den 1 augusti 2021 till och med den 31 januari 2023.

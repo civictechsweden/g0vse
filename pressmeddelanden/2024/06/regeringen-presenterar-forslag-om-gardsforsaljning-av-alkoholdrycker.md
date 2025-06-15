@@ -1,6 +1,6 @@
 # Regeringen presenterar förslag om gårdsförsäljning av alkoholdrycker
 
-Gårdsförsäljning av alkoholhaltiga drycker har debatterats under lång tid och utretts tre gånger, med olika resultat. Nu går regeringen vidare med ett förslag som kan börja gälla första halvåret 2025\.
+Gårdsförsäljning av alkoholhaltiga drycker har debatterats under lång tid och utretts tre gånger, med olika resultat. Nu går regeringen vidare med ett förslag som kan börja gälla första halvåret 2025.
 
 – Det här är en efterlängtad frihetsreform som öppnar upp för en växande bransch att fortsätta utveckla sig. Företagare som med hantverk och passion drivit sin näring med begränsade möjligheter att sälja sin produkt, ska nu kunna göra just detta. Kunder som besöker vingårdar och mikrobryggerier, ska ha möjlighet att köpa med sig några flaskor hem och svensk besöksnäring ska kunna växa, säger statsminister Ulf Kristersson.
 
@@ -18,6 +18,6 @@ Det kommer att handla om småskalig och hantverksmässig produktion, upp till
 
 Varje person kommer att kunna köpa 0,7 liter spritdryck, 3 liter vin, 3 liter starköl och 3 liter andra jästa drycker.
 
-Förslaget värnar detaljhandelsmonopolet och bedöms förenligt med EU\-rätten. Med den modell för gårdsförsäljning som regeringen nu föreslår kommer det att vara en tydlig skillnad mellan den försäljning som sker på Systembolaget och den försäljning som sker direkt hos producenten, som i enlighet med utredningens förslag ska ske i samband med ett betalt studiebesök.
+Förslaget värnar detaljhandelsmonopolet och bedöms förenligt med EU-rätten. Med den modell för gårdsförsäljning som regeringen nu föreslår kommer det att vara en tydlig skillnad mellan den försäljning som sker på Systembolaget och den försäljning som sker direkt hos producenten, som i enlighet med utredningens förslag ska ske i samband med ett betalt studiebesök.
 
-Regeringen kommer härnäst att besluta om en lagrådsremiss. Förslaget kommer att skickas för så kallad notifiering till EU\-kommissionen. Bedömningen är att lagstiftningen kan kunna träda i kraft under första halvåret 2025, om inte EU\-processen drar ut på tiden.
+Regeringen kommer härnäst att besluta om en lagrådsremiss. Förslaget kommer att skickas för så kallad notifiering till EU-kommissionen. Bedömningen är att lagstiftningen kan kunna träda i kraft under första halvåret 2025, om inte EU-processen drar ut på tiden.

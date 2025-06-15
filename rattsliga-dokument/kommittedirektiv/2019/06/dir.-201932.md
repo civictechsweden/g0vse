@@ -6,6 +6,6 @@ Migrationspolitiken ska vara human, rättssäker och effektiv. Den ska säkerst�
 
 Migrationspolitiken ska svara mot samhällets behov av att i god tid kunna planera för grundläggande samhällsservice till personer som bosätter sig i Sverige och att dessa individer ges goda förutsättningar att etablera sig i landet. Den ska i en föränderlig omvärld minska behovet av tillfälliga lösningar och säkerställa en permanent ordning med ett brett stöd i den svenska riksdagen.
 
-Uppdraget ska redovisas senast den 15 augusti 2020\.
+Uppdraget ska redovisas senast den 15 augusti 2020.
 
 [Pressmeddelande: Parlamentarisk kommitté ska utreda migrationspolitiken](/pressmeddelanden/2019/06/parlamentarisk-kommitte-ska-utreda-migrationspolitiken/ "Parlamentarisk kommitté ska utreda migrationspolitiken")

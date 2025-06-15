@@ -6,4 +6,4 @@ Regeringen vill också göra det möjligt för bostadsrättsföreningar att ta u
 
 Förslagen är en del av regeringens bostadspolitiska satsning på att öka privatpersoners uthyrning av bostäder och förbättra villkoren för denna del av bostadsmarknaden.
 
-De lagändringar som behövs föreslås träda i kraft den 1 juli 2014\.
+De lagändringar som behövs föreslås träda i kraft den 1 juli 2014.

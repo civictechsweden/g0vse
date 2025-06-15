@@ -1,6 +1,6 @@
 # Förbättrat stöd för funktionsnedsatta på arbetsmarknaden
 
-– Det behövs en rad insatser för att förbättra stödet på arbetsmarknaden för personer med funktionsnedsättningar. Arbetsförmedlingen måste bli snabbare på att identifiera personer med funktionsnedsättning som medför nedsatt arbetsförmåga för att mer effektivt kunna erbjuda dessa individer relevanta insatser, säger arbetsmarknads\- och integrationsminister Johan Pehrson.
+– Det behövs en rad insatser för att förbättra stödet på arbetsmarknaden för personer med funktionsnedsättningar. Arbetsförmedlingen måste bli snabbare på att identifiera personer med funktionsnedsättning som medför nedsatt arbetsförmåga för att mer effektivt kunna erbjuda dessa individer relevanta insatser, säger arbetsmarknads- och integrationsminister Johan Pehrson.
 
 För att förbättra möjligheterna för funktionsnedsatta på arbetsmarknaden behöver deras behov identifieras snabbare. Arbetsförmedlingen har påtalat behovet av att utveckla inskrivningen för att inhämta information om funktionsnedsättning så tidigt som möjligt, för att korta ledtider till arbete, något som även påpekats av funktionsrättsrörelsen. Därför får Arbetsförmedlingen i uppdrag att väsentligt korta den tid det i genomsnitt tar att identifiera och registrera funktionsnedsättning som medför nedsatt arbetsförmåga.
 

@@ -4,7 +4,7 @@ I lagrådsremissen föreslås förenklingar av reglerna om bokföring, årsboksl
 
 Kravet på att årsredovisningen ska innehålla uppgifter om de anställdas sjukfrånvaro tas bort. Vidare tas kraven bort på att årsredovisningen ska innehålla uppgift om löner och andra ersättningar till anställda särskilt för varje land, uppgift om fastigheters taxeringsvärde samt uppgift om beloppet av den ränta som räknats in i anskaffningsvärde på en tillgång. Vissa ytterligare krav på tilläggsupplysningar i årsredovisningen begränsas till att gälla endast för större företag och mindre företag som är publika aktiebolag.
 
-Mindre företag ges en generell rätt att upprätta resultat\- och balansräkning i förkortad form. De undantas också från kravet på att i förvaltningsberättelsen lämna upplysningar om företagets verksamhet inom forskning och utveckling eller om verksamhets påverkan på den yttre miljön.
+Mindre företag ges en generell rätt att upprätta resultat- och balansräkning i förkortad form. De undantas också från kravet på att i förvaltningsberättelsen lämna upplysningar om företagets verksamhet inom forskning och utveckling eller om verksamhets påverkan på den yttre miljön.
 
 De lättnader som införs för större företag omfattar även finansiella företag.
 
@@ -18,4 +18,4 @@ Möjligheten att använda gemensam verifikation vid kontantförsäljning utökas
 
 Möjligheterna till överföring av räkenskapsinformation från ett material till ett annat utökas och arkiveringstiden för räkenskapsinformation sänks från tio år till sju år.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2011\.
+Lagändringarna föreslås träda i kraft den 1 januari 2011.

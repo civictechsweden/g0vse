@@ -1,6 +1,6 @@
 # Regeringen avser ge nya uppdrag för att effektivisera processen för nya anslutningar till elnäten
 
-– För att nya företag ska kunna etablera sig, och befintliga ska kunna växa, behövs tillgång till anslutning till elnätet och tillräcklig effekt. Att effektivisera processen för tilldelning av anslutningskapacitet är ett viktigt steg för att bättre möta företagens behov och i förlängningen vår möjlighet att nå våra klimatmål och stärka svensk konkurrenskraft, säger energi\- och näringsminister Ebba Busch.
+– För att nya företag ska kunna etablera sig, och befintliga ska kunna växa, behövs tillgång till anslutning till elnätet och tillräcklig effekt. Att effektivisera processen för tilldelning av anslutningskapacitet är ett viktigt steg för att bättre möta företagens behov och i förlängningen vår möjlighet att nå våra klimatmål och stärka svensk konkurrenskraft, säger energi- och näringsminister Ebba Busch.
 
 Svenska kraftnät får bland annat i uppdrag att förtydliga och precisera den befintliga vägledningen för anslutningen av nya anläggningar till deras elnät. Vidare ska Svenska kraftnät ta fram allmänna råd för nätföretagen för vilka krav och vilken hantering som bör gälla för ansökningar om nya anslutningar i elnäten. Ett andra uppdrag går till Energimarknadsinspektionen som ska utreda en utvecklad och effektiv informationsdelning vid ansökningar om nya anslutningar.
 

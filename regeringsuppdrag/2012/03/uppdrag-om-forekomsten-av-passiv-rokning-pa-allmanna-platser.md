@@ -4,4 +4,4 @@ Regeringen har givit Statens folkhälsoinstitut i uppdrag att utreda och analyse
 
 Statens folkhälsoinstitut fick 2011 ett uppdrag att kartlägga i vilka offentliga miljöer i samhället exponering för passiv rökning fortfarande förekommer och utreda om fler rökfria miljöer bör införas.
 
-Uppdraget är en del av regeringens samlade strategi för alkohol\-, narkotika\-, dopnings\- och tobakspolitiken (prop. 2010/11:47\), som riksdagen antog den 30 mars 2011\.
+Uppdraget är en del av regeringens samlade strategi för alkohol-, narkotika-, dopnings- och tobakspolitiken (prop. 2010/11:47), som riksdagen antog den 30 mars 2011.

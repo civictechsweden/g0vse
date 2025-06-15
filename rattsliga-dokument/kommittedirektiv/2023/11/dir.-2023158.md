@@ -10,4 +10,4 @@ Utredaren ska bland annat
 * analysera och föreslå hur berörda myndigheter kan få ökad tillgång till information i syfte att möjliggöra fler beslut om att neka och återkalla uppehållstillstånd samt fler beslut om avvisning, och
 * lämna nödvändiga författningsförslag och förslag på andra åtgärder som bedöms nödvändiga.
 
-Uppdraget ska redovisas senast den 15 januari 2025\.
+Uppdraget ska redovisas senast den 15 januari 2025.

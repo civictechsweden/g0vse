@@ -12,6 +12,6 @@ Utredaren ska bland annat
 * undersöka hur samverkan mellan olika berörda myndigheter fungerar, och
 * lämna förslag till nödvändiga författningsändringar.
 
-Den del av uppdraget som avser erkännande av utländska barnäktenskap ska redovisas i ett delbetänkande senast den 6 december 2017\. Uppdraget ska slutredovisas senast den 1 september 2018\.
+Den del av uppdraget som avser erkännande av utländska barnäktenskap ska redovisas i ett delbetänkande senast den 6 december 2017. Uppdraget ska slutredovisas senast den 1 september 2018.
 
 [Pressmeddelande: Starkare skydd mot barnäktenskap, tvångsäktenskap och brott med hedersmotiv](/pressmeddelanden/2017/03/starkare-skydd-mot-barnaktenskap-tvangsaktenskap-och-brott-med-hedersmotiv/)

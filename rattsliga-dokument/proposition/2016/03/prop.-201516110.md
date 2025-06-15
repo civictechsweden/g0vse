@@ -10,6 +10,6 @@ Utgångspunkten för förändringarna är att genom en ändrad struktur och ett 
 
 Viss verksamhet som det nationella utvecklingsbolaget kommer att bedriva kan komma att innefatta stödgivning enligt EU:s statsstödsregler. I propositionen lämnas därför även förslag till en ny lag som syftar till att göra det möjligt för det nationella utvecklingsbolaget att lämna stöd inom ramen för EU:s statsstödsregler.
 
-Den nya lagen föreslås träda i kraft den 1 januari 2017\.
+Den nya lagen föreslås träda i kraft den 1 januari 2017.
 
-[Pressmeddelande: Staten och kapitalet \- reformer för innovation och hållbar tillväxt](/contentassets/f43a3063977a450189ed54041ab3d35c/staten-och-kapitalet---reformer-for-innovation-och-hallbar-tillvaxt/ "Pressmeddelande: Staten och kapitalet - reformer för innovation och hållbar tillväxt")
+[Pressmeddelande: Staten och kapitalet - reformer för innovation och hållbar tillväxt](/contentassets/f43a3063977a450189ed54041ab3d35c/staten-och-kapitalet---reformer-for-innovation-och-hallbar-tillvaxt/ "Pressmeddelande: Staten och kapitalet - reformer för innovation och hållbar tillväxt")

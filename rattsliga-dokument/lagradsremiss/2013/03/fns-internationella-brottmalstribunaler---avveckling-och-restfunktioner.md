@@ -8,4 +8,4 @@ Lagen om immunitet och privilegier i vissa fall kompletteras så att den även o
 
 I lagrådsremissen föreslås även att en författning som rör en numera obsolet konvention från 1870 mellan Sverige och Belgien om utlämning av förbrytare ska upphävas.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2013\.
+Lagändringarna föreslås träda i kraft den 1 juli 2013.

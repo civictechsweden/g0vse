@@ -9,4 +9,4 @@ innehåller de bestämmelser som bedöms nödvändiga och lämpliga,
 • föreslå förenklade förutsättningar för att bedriva vattenbruk, och
 • ta ställning till om det är ändamålsenligt att samla de bestämmelser som reglerar vattenbruket i en ny lag med tillhörande förordning.
 
-Uppdraget att föreslå förenklade förutsättningar att bedriva vattenbruk ska redovisas senast den 1 juli 2023\. Uppdraget i övrigt ska redovisas senast den 29 november 2024\.
+Uppdraget att föreslå förenklade förutsättningar att bedriva vattenbruk ska redovisas senast den 1 juli 2023. Uppdraget i övrigt ska redovisas senast den 29 november 2024.

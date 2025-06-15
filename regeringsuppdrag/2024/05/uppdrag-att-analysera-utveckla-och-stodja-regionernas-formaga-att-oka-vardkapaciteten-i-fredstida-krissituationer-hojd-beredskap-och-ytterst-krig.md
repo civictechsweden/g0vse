@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen att analysera, utveckla och stödja regionernas förmåga att öka vårdkapaciteten i fredstida krissituationer, höjd beredskap och ytterst krig.
 
-
 I uppdraget ingår:
 
 * att genomlysa och analysera regionernas förmåga att hantera ett plötsligt och oväntat inflöde av patienter samt identifiera eventuella hinder för ökad förmåga,
@@ -15,6 +14,6 @@ I uppdraget ingår:
 
 Socialstyrelsen ska:
 
-* ta hänsyn till det pågående arbetet i uppdraget att bidra till att stärka tillgängligheten och vårdkapaciteten på regional och nationell nivå och i uppdraget att utveckla och uppdatera nyckeltalsberäkningar och dimensionerande målbilder för hälso\- och sjukvården.
+* ta hänsyn till det pågående arbetet i uppdraget att bidra till att stärka tillgängligheten och vårdkapaciteten på regional och nationell nivå och i uppdraget att utveckla och uppdatera nyckeltalsberäkningar och dimensionerande målbilder för hälso- och sjukvården.
 * samtala med regionerna och med andra relevanta aktörer.
 * senast den 16 december 2024 delredovisa och senast den 2 juni 2025 slutredovisa uppdraget till Regeringskansliet.

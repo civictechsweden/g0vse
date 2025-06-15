@@ -8,4 +8,4 @@ Det föreslås även att länsstyrelsen pekas ut som behörig myndighet att blan
 
 Livsmedelsverket har redan tagit fram ett förslag till föreskrifter och där föreslås att en jägare under ett kalenderår ska få leverera tio vildsvin och kött av tio vildsvin direkt till slutkonsument.
 
-Sista dagen att besvara remissen är 30 juli 2023\.
+Sista dagen att besvara remissen är 30 juli 2023.

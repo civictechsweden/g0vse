@@ -4,4 +4,4 @@ Arbetet mot penningtvätt och finansiering av terrorism är prioriterade frågor
 
 Dessutom föreslås att det ska göras vissa förtydliganden i penningtvättslagen med anledning av att Europeiska kommissionen har ifrågasatt om några artiklar i det s.k. fjärde penningtvättsdirektivet fullt ut har genomförts i svensk rätt.
 
-Lagändringarna föreslås träda i kraft den 1 april 2020\.
+Lagändringarna föreslås träda i kraft den 1 april 2020.

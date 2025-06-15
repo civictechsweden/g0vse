@@ -1,11 +1,10 @@
 # Försörjningsberedskap i fokus när Näringslivsrådet träffades
 
-Den 12 juni höll Näringslivsrådet för totalförsvar och krisberedskap sitt andra möte. Näringslivsrådet ska bidra till att förbättra den privat\-offentliga samverkan i gemensamma frågor som stärker totalförsvaret och krisberedskapen i Sverige. I dagens agenda gavs tillfälle för organisationerna att lyfta de frågor som de bedömer som mest relevanta avseende totalförsvar och krisberedskap.
-
+Den 12 juni höll Näringslivsrådet för totalförsvar och krisberedskap sitt andra möte. Näringslivsrådet ska bidra till att förbättra den privat-offentliga samverkan i gemensamma frågor som stärker totalförsvaret och krisberedskapen i Sverige. I dagens agenda gavs tillfälle för organisationerna att lyfta de frågor som de bedömer som mest relevanta avseende totalförsvar och krisberedskap.
 
 ## Civil och militär lägesbild
 
-Carl\-Oskar Bohlin, minister för civilt försvar och Näringslivsrådets ordförande, inledde mötet tillsammans med energi\- och näringsminister Ebba Busch och Pål Jonson, försvarsminister.
+Carl-Oskar Bohlin, minister för civilt försvar och Näringslivsrådets ordförande, inledde mötet tillsammans med energi- och näringsminister Ebba Busch och Pål Jonson, försvarsminister.
 
 Överbefälhavare Micael Bydén och Charlotte Petri Gornitzka, generaldirektör för Myndigheten för samhällsskydd och beredskap (MSB) redogjorde sedan för omvärldsläget på det militära respektive civila området.
 

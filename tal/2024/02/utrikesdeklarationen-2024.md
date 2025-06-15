@@ -1,9 +1,8 @@
 # Utrikesdeklarationen 2024
 
-Regeringens utrikesdeklaration presenterades av utrikesminister Tobias Billström vid 2024 års utrikespolitiska debatt i riksdagen onsdagen den 14 februari 2024\.
+Regeringens utrikesdeklaration presenterades av utrikesminister Tobias Billström vid 2024 års utrikespolitiska debatt i riksdagen onsdagen den 14 februari 2024.
 
 Det talade ordet gäller.
-
 
 Herr/fru talman!
 
@@ -15,7 +14,7 @@ Regeringen prioriterar dessa relationer.
 
 Sverige är i år ordförande för Nordiska ministerrådet, institutionen för det bredare samarbetet mellan de nordiska regeringarna. Visionen om Norden som världens mest integrerade och hållbara region 2030 är här vägledande.
 
-Vi leder även arbetet i N5 och NB8, som samlar de nordiska och nordisk\-baltiska länderna i ett informellt samarbete fokuserat på utrikes\- och säkerhetspolitik.
+Vi leder även arbetet i N5 och NB8, som samlar de nordiska och nordisk-baltiska länderna i ett informellt samarbete fokuserat på utrikes- och säkerhetspolitik.
 
 Vi vill under året befästa och förstärka detta samarbete, en nödvändighet i en ny allvarstid.
 
@@ -27,7 +26,7 @@ Tillsammans med min finska kollega har jag tagit initiativ till en diskussion om
 
 Herr/fru talman!
 
-Bara ett fåtal mil från vår nordisk\-baltiska region pågår ett krig, där en demokratisk stat anfallits av en auktoritär.
+Bara ett fåtal mil från vår nordisk-baltiska region pågår ett krig, där en demokratisk stat anfallits av en auktoritär.
 
 Vi går snart in på det tredje året av Rysslands fullskaliga krig mot Ukraina.
 
@@ -35,9 +34,9 @@ Det mod som det ukrainska folket uppbådat för att möta aggressionen inger den
 
 Sverige fortsätter stödja Ukraina så länge det behövs – politiskt, humanitärt, militärt och ekonomiskt.
 
-Sveriges totala stöd till Ukraina sedan den fullskaliga invasionen inleddes uppgår till cirka 30 miljarder kronor. 80 procent av stödet till Ukraina har getts efter regeringens tillträde 2022\.
+Sveriges totala stöd till Ukraina sedan den fullskaliga invasionen inleddes uppgår till cirka 30 miljarder kronor. 80 procent av stödet till Ukraina har getts efter regeringens tillträde 2022.
 
-Sedan tidigare har regeringen fattat beslut om 14 militära stödpaket och antagit en omfattande strategi för uppbyggnads\- och reformsamarbete med Ukraina. Regeringen förbereder nya militära och civila stödpaket. Ukrainas sak är vår.
+Sedan tidigare har regeringen fattat beslut om 14 militära stödpaket och antagit en omfattande strategi för uppbyggnads- och reformsamarbete med Ukraina. Regeringen förbereder nya militära och civila stödpaket. Ukrainas sak är vår.
 
 Regeringen har också varit pådrivande för ett starkt och långsiktigt stöd genom EU.
 
@@ -49,11 +48,11 @@ Ryssland kommer under överskådlig tid att utgöra ett allvarligt hot mot Sveri
 
 Sverige driver på för att skärpa sanktionerna mot Ryssland. Hittills har EU antagit tolv sanktionspaket. Arbetet inom EU att motverka kringgående av sanktioner måste intensifieras.
 
-Sverige välkomnar att EU nu har lagt grunden för att kunna använda ryska frysta tillgångar till stöd för Ukraina, något som Sverige tog initiativ till under det svenska EU\-ordförandeskapet.
+Sverige välkomnar att EU nu har lagt grunden för att kunna använda ryska frysta tillgångar till stöd för Ukraina, något som Sverige tog initiativ till under det svenska EU-ordförandeskapet.
 
 Sverige bidrar till att säkerställa ansvarsutkrävande för Rysslands aggression mot Ukraina och för brott mot folkrätten som begåtts i och med kriget.
 
-Vi ser också grova och allvarliga kränkningar av mänskliga fri\- och rättigheter i Belarus. Det finns i dag nästan 1 400 politiska fångar i landet.
+Vi ser också grova och allvarliga kränkningar av mänskliga fri- och rättigheter i Belarus. Det finns i dag nästan 1 400 politiska fångar i landet.
 
 Sverige verkar för ytterligare sanktioner mot den belarusiska regimen både med anledning av repressionen i landet och medverkan till Rysslands aggression mot Ukraina.
 
@@ -65,11 +64,11 @@ Herr/fru talman!
 
 Rysslands fullskaliga invasion av Ukraina har skapat momentum för EU:s utvidgning. Sverige välkomnar beslutet att inleda anslutningsförhandlingar med Ukraina och Moldavien.
 
-Sverige har arbetat för detta beslut som är ett erkännande av ländernas omfattande reformansträngningar. Vi fortsätter att stödja deras EU\-närmande. Deras framtid är i EU.
+Sverige har arbetat för detta beslut som är ett erkännande av ländernas omfattande reformansträngningar. Vi fortsätter att stödja deras EU-närmande. Deras framtid är i EU.
 
 EU:s utvidgning är en geostrategisk investering i fred, demokrati, säkerhet, stabilitet och välstånd. Det ligger i vårt intresse att hjälpa kandidatländerna att närma sig unionen.
 
-Sverige stöder ansatsen om gradvis integration. Det är angeläget att ansatsen utformas som ett stöd på vägen mot ett EU\-medlemskap och inte som ett substitut till det.
+Sverige stöder ansatsen om gradvis integration. Det är angeläget att ansatsen utformas som ett stöd på vägen mot ett EU-medlemskap och inte som ett substitut till det.
 
 Medlemskapsförhandlingarna bygger på kandidatländernas meriter och på genomförandet av nödvändiga reformer, inte minst när det gäller rättsstatens principer och demokrati.
 
@@ -81,15 +80,15 @@ I juni är det val till Europaparlamentet och sedan ska en ny kommission tillsä
 
 I svaret på Rysslands fullskaliga invasion av Ukraina har EU visat prov på stark vilja och förmåga att agera enat och strategiskt. Att värna fred och frihet på vår kontinent är unionens själva kärna.
 
-EU har stärkt sin roll som utrikes\-, säkerhets\- och försvarspolitisk aktör, vilket regeringen har varit pådrivande för.
+EU har stärkt sin roll som utrikes-, säkerhets- och försvarspolitisk aktör, vilket regeringen har varit pådrivande för.
 
 En förutsättning för EU:s kapacitet att möta säkerhetshot är stärkt konkurrenskraft. Genom företag, handel och innovationer stärker vi EU:s geopolitiska inflytande. Därför tog regeringen under ordförandeskapet initiativ till en ny långsiktig konkurrenskraftsstrategi.
 
 Det finns ett behov av att skydda strategiska intressen inom EU. Detta måste ske på ett sätt som så långt som möjligt begränsar de negativa effekterna på den inre marknaden.
 
-Det gemensamma handels\- och teknikrådet, TTC, är en allt viktigare plattform för transatlantisk samverkan i kritiska framtidsfrågor.
+Det gemensamma handels- och teknikrådet, TTC, är en allt viktigare plattform för transatlantisk samverkan i kritiska framtidsfrågor.
 
-Sverige vill ha en fördjupad relation mellan EU och Storbritannien. Det är också positivt att EU utvecklar sina relationer med andra viktiga aktörer. EU\-institutionerna har presenterat förslag om förnyat engagemang med Turkiet.
+Sverige vill ha en fördjupad relation mellan EU och Storbritannien. Det är också positivt att EU utvecklar sina relationer med andra viktiga aktörer. EU-institutionerna har presenterat förslag om förnyat engagemang med Turkiet.
 
 Herr/fru talman!
 
@@ -103,11 +102,11 @@ Vi välkomnar att Turkiet slutfört sin ratifikationsprocess, och förväntar os
 
 Sverige kommer vara en pålitlig, solidarisk och engagerad Natoallierad.
 
-Vi kommer att ta ett betydande ansvar i vårt närområde och bidra till samtliga allierades säkerhet genom Natos 360\-gradersansats och alliansens avskräckningspolitik.
+Vi kommer att ta ett betydande ansvar i vårt närområde och bidra till samtliga allierades säkerhet genom Natos 360-gradersansats och alliansens avskräckningspolitik.
 
 Sveriges försvarsutgifter överskrider i år två procent av BNP och kommer fortsätta att göra det under överskådlig tid.
 
-Sverige fortsätter sitt engagemang för rustningskontroll, nedrustning och icke\-spridning, däribland genom att aktivt delta i Stockholms\-initiativet för kärnvapennedrustning.
+Sverige fortsätter sitt engagemang för rustningskontroll, nedrustning och icke-spridning, däribland genom att aktivt delta i Stockholms-initiativet för kärnvapennedrustning.
 
 Herr/fru talman!
 
@@ -127,7 +126,7 @@ Regeringen har under en längre tid arbetat för att förebygga och förhindra s
 
 Vi har också under det gångna året hanterat ett antal konsulära kriser, inklusive evakueringen från Sudan och den fortsatt pågående hanteringen för att ge stöd till svenskar med anledning av utvecklingen i Mellanöstern.
 
-Regeringen kommer att fortsätta arbetet för att uppnå en frigivning av journalisten Dawit Isaak och förläggaren och poeten Gui Minhai. Regeringen arbetar samtidigt intensivt med andra konsulära fall där svenska medborgare har frihetsberövats, inklusive EU\-tjänstemannen Johan Floderus.
+Regeringen kommer att fortsätta arbetet för att uppnå en frigivning av journalisten Dawit Isaak och förläggaren och poeten Gui Minhai. Regeringen arbetar samtidigt intensivt med andra konsulära fall där svenska medborgare har frihetsberövats, inklusive EU-tjänstemannen Johan Floderus.
 
 Regeringen kräver att de alla friges.
 
@@ -149,9 +148,9 @@ Det är av stor vikt att undvika regional eskalering. Regeringen stödjer anstr�
 
 Herr/fru talman!
 
-För Sveriges säkerhet och stabiliteten i omvärlden är det avgörande att den regelbaserade världsordningen, folkrätten och respekten för FN\-stadgan upprätthålls.
+För Sveriges säkerhet och stabiliteten i omvärlden är det avgörande att den regelbaserade världsordningen, folkrätten och respekten för FN-stadgan upprätthålls.
 
-Mänskliga fri\- och rättigheter måste försvaras. Varje individs lika värde oavsett kön, ålder, sexuell läggning eller religion är en frihetsfråga. Flera religiösa minoritetsgrupper som kristna och uigurer är runt om i världen utsatta för förtryck.
+Mänskliga fri- och rättigheter måste försvaras. Varje individs lika värde oavsett kön, ålder, sexuell läggning eller religion är en frihetsfråga. Flera religiösa minoritetsgrupper som kristna och uigurer är runt om i världen utsatta för förtryck.
 
 Det är oroande när dessa regler undergrävs av auktoritära stater som Ryssland, Kina och Iran, som vill omforma dem utifrån sina värderingssystem.
 
@@ -169,13 +168,13 @@ Herr/fru talman!
 
 Jämställdhet är ett kärnvärde i svensk utrikespolitik. Vi ser hur det globala motståndet mot jämställdhet ökar. I länder som Afghanistan och Iran är det auktoritära styrets grund ett omfattande och systematiskt förtryck av kvinnor. Det kan Sverige aldrig acceptera. Men vi ser det också i Europa, inte minst i form av systematiskt sexuellt våld i spåren av den ryska aggressionen mot Ukraina.
 
-Denna utveckling arbetar vi inom såväl utrikes\- som biståndspolitiken för att vända.
+Denna utveckling arbetar vi inom såväl utrikes- som biståndspolitiken för att vända.
 
 Herr/fru talman!
 
 Det finns ökade protektionistiska strömningar i världspolitiken.
 
-Sveriges ställning som ett exportberoende land gör det viktigt att slå vakt om en fri, hållbar och regelbaserad handel, liksom en väl fungerande inre marknad i EU. Detta bidrar till vår konkurrens\- och motståndskraft.
+Sveriges ställning som ett exportberoende land gör det viktigt att slå vakt om en fri, hållbar och regelbaserad handel, liksom en väl fungerande inre marknad i EU. Detta bidrar till vår konkurrens- och motståndskraft.
 
 Regeringen har presenterat en ny utrikeshandelsstrategi. Sveriges konkurrenskraft ska stärkas och förutsättningarna för handel, investeringar och innovation förbättras.
 
@@ -183,11 +182,11 @@ Sveriges ställning som global prioriterad partner för grön och digital omstä
 
 Under det senaste året har EU slutit frihandelsavtal med Nya Zeeland. Regeringen kommer fortsatt aktivt verka för att fler frihandelsavtal förhandlas fram.
 
-Länderna i den indopacifiska regionen är viktiga partner såväl inom handelspolitiken som inom utrikes\- och säkerhetspolitiken.
+Länderna i den indopacifiska regionen är viktiga partner såväl inom handelspolitiken som inom utrikes- och säkerhetspolitiken.
 
 Vi fördjupar våra relationer med globala partner i Afrika och Latinamerika. Det finns goda möjligheter för utökat samarbete, inom både teknik och handel liksom inom bredare utrikespolitiska frågor.
 
-Kina är världens näst största ekonomi och en teknologisk ledarnation, samtidigt som landet fortfarande har ett auktoritärt styre och växande globala ambitioner. Kinas agerande mot Taiwan inger oro, och hot om militärt våld är oacceptabelt. Sveriges relation till Kina ska vara förankrad i en europeisk strategi, och i nära transatlantisk samverkan. Under vårt EU\-ordförandeskap togs viktiga steg i en sådan riktning.
+Kina är världens näst största ekonomi och en teknologisk ledarnation, samtidigt som landet fortfarande har ett auktoritärt styre och växande globala ambitioner. Kinas agerande mot Taiwan inger oro, och hot om militärt våld är oacceptabelt. Sveriges relation till Kina ska vara förankrad i en europeisk strategi, och i nära transatlantisk samverkan. Under vårt EU-ordförandeskap togs viktiga steg i en sådan riktning.
 
 Vi bejakar dialog och samarbete med Kina där det är möjligt och i linje med våra intressen och värderingar, till exempel för att främja handel på lika villkor och hantera klimatfrågan.
 
@@ -205,7 +204,7 @@ Vårt breda engagemang för global hälsa ligger fast. Investeringar i hälsa ä
 
 Utvecklingssamarbetet har en viktig roll i att motverka den demokratiska tillbakagången på många håll i världen.
 
-Sverige är en stark röst och aktör för demokrati och mänskliga fri\- och rättigheter. Öppna demokratiska samhällen är en förutsättning för att skapa och garantera fred och frihet.
+Sverige är en stark röst och aktör för demokrati och mänskliga fri- och rättigheter. Öppna demokratiska samhällen är en förutsättning för att skapa och garantera fred och frihet.
 
 Biståndet ska förebygga grundorsakerna till irreguljär migration och tvångsfördrivning och skapa förutsättningar för hållbar återintegrering.
 
@@ -217,11 +216,11 @@ I alla dessa delar är civilsamhällets organisationer omistliga partner.
 
 Herr/fru talman!
 
-Regeringens utrikespolitik vilar på en europeisk, nordisk\-baltisk och transatlantisk grund.
+Regeringens utrikespolitik vilar på en europeisk, nordisk-baltisk och transatlantisk grund.
 
 Med ett krig i Europa är det ofrånkomligt att vårt närområde har högsta prioritet i utrikespolitiken. Men vår utrikespolitik kommer alltid att ha en viktig global dimension.
 
-Vi stärker samarbetet i EU. Jag hoppas snart kunna återkomma till riksdagen för att redovisa vår politik som fullvärdig medlem av Nato. Vi prioriterar våra ordförandeskap i nordiska och nordisk\-baltiska samarbetsformat.
+Vi stärker samarbetet i EU. Jag hoppas snart kunna återkomma till riksdagen för att redovisa vår politik som fullvärdig medlem av Nato. Vi prioriterar våra ordförandeskap i nordiska och nordisk-baltiska samarbetsformat.
 
 De utmaningar vi står inför är komplexa och svåra. Vi behöver våra vänner. Och vi behöver global dialog.
 

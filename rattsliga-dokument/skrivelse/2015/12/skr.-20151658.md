@@ -10,8 +10,8 @@ förändringar inom såväl integrationsområdet som angränsande politikområde
 Regeringen delar i huvudsak Riksrevisionens övergripande slutsatser
 och bedömningar och har inlett ett omfattande utvecklingsarbete som
 syftar till hållbart mottagande av nyanlända i hela landet och snabbare
-etablering i arbets\- och samhällslivet. Inriktningen på reformarbetet
-redovisas i budgetpropositionen för 2016\.
+etablering i arbets- och samhällslivet. Inriktningen på reformarbetet
+redovisas i budgetpropositionen för 2016.
 
 Mot bakgrund av att antalet personer som sökt asyl i Sverige ökat
 kraftigt efter att budgetpropositionen lämnats till riksdagen har

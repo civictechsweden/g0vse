@@ -15,4 +15,4 @@ Vidare föreslås att en försäkring meddelad av ett tjänstepensionsföretag i
 I promemorian föreslås även att om ett försäkringsföretag eller ett
 tjänstepensionsföretag förvärvar ett helt försäkringsbestånd från ett annat försäkringsföretag eller tjänstepensionsföretag ska det inte medföra stämpelskatt för de fastigheter eller tomträtter som ingår i förvärvet.
 
-Ändringarna föreslås träda i kraft den 1 maj 2019\.
+Ändringarna föreslås träda i kraft den 1 maj 2019.

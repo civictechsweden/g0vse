@@ -6,4 +6,4 @@ I syfte att under­lätta för brotts­bekäm­pande myndig­heter och försvår
 
 Dessutom föreslår regeringen ändrade regler om utläm­nande av uppgifter om elek­tronisk kommu­nikation till brotts­bekäm­pande myndig­heter. För­slagen inne­bär ett tydli­gare krav på format, ett utvidgat skynd­sam­hets­krav och en utvidgad reglering om ersätt­ning.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2022\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2022.

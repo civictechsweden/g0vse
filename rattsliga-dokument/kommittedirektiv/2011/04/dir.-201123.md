@@ -11,4 +11,4 @@ Utredaren ska
 * Bedöma om det bör införas en författningsreglerad tystnadsplikt för uppgifter om de arbetssökande som behandlas i de kompletterande aktörernas egna verksamheter.
 * Föreslå de författningsändringar som bedöms vara nödvändiga.
 
-Uppdraget ska redovisas senast den 1 februari 2012\.
+Uppdraget ska redovisas senast den 1 februari 2012.

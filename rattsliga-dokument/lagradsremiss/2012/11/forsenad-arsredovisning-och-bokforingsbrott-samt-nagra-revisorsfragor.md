@@ -8,4 +8,4 @@ Det föreslås även att begreppet revisionsverksamhet ges en tydligare och någ
 
 I lagrådsremissen behandlas också revisorns skadeståndsskyldighet och vissa frågor om revisorns oberoende.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2013\.
+Lagändringarna föreslås träda i kraft den 1 juni 2013.

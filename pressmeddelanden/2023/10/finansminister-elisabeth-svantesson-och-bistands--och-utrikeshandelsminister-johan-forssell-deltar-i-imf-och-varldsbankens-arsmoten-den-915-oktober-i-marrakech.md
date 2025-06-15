@@ -2,7 +2,7 @@
 
 Årsmötena väntas bland annat fokusera på det osäkra ekonomiska läget, institutionernas stöd till länder, Världsbankens pågående reformprocess och IMF:s resurser. Diskussionerna kommer fortsatt att präglas av Rysslands krig mot Ukraina och dess ekonomiska konsekvenser.
 
-Finansminister Elisabeth Svantesson leder den svenska delegationen tillsammans med bistånds\- och utrikeshandelsminister Johan Forssell. Finansministern kommer bland annat att delta på Världsbankens rundabordssamtal om Ukraina och bistånds\- och utrikeshandelsministern kommer bland annat att stå värd för en middag med näringslivsrepresentanter för att diskutera hur privat sektor och privata investerare kan bidra mer i Världsbankens arbete.
+Finansminister Elisabeth Svantesson leder den svenska delegationen tillsammans med bistånds- och utrikeshandelsminister Johan Forssell. Finansministern kommer bland annat att delta på Världsbankens rundabordssamtal om Ukraina och bistånds- och utrikeshandelsministern kommer bland annat att stå värd för en middag med näringslivsrepresentanter för att diskutera hur privat sektor och privata investerare kan bidra mer i Världsbankens arbete.
 
 Ministrarna kommer även träffa företrädare för IMF och Världsbanksgruppen och föra samtal om bland annat vikten av att stödja Ukraina, samtidigt som institutionerna fortsatt ska fokusera på de utmaningar som världens länder står inför. Det handlar dels om mer kortsiktiga utmaningar, som inflationsbekämpning, dels om långsiktiga utmaningar som att främja hållbar och inkluderande ekonomisk utveckling och motverka och hantera klimatförändringar.
 

@@ -4,7 +4,7 @@ Regeringen har inför 2025 stärkt myndighetens förvaltningsanslag, särskilt u
 
 Under 2025 får myndigheten bland annat i uppdrag att skapa förutsättningar för ett utökat, förstärkt och ändamålsenligt skydd av marina områden i Sverige, som bidrar till att säkerställa och bevara den biologiska mångfalden i svenska hav.
 
-– Havs- och vattenmyndigheten har en central roll i genomförandet av havsmiljöpropositionen För ett levande hav, genom åtgärder för att stärka skyddet, minska övergödningen och skapa ett hållbart fiske, säger klimat- och miljöminister Romina Pourmokthari.
+– Havs- och vattenmyndigheten har en central roll i genomförandet av havsmiljöpropositionen För ett levande hav, genom åtgärder för att stärka skyddet, minska övergödningen och skapa ett hållbart fiske, säger klimat- och miljöminister Romina Pourmokhtari.
 
 – Regeringen arbetar målmedvetet för en bättre havsmiljö och tar här ett helhetsgrepp. Det är en bredd av åtgärder vi går fram med, bland annat regleringar på fiskeområdet och en bättre förvaltning av predatorer som påverkar våra fiskbestånd, säger landsbygdsminister Peter Kullgren.
 

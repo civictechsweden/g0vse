@@ -4,4 +4,4 @@ Under besöket träffar civilministern Länsstyrelsen i Blekinge län och landsh
 
 Civilministern gör även ett studiebesök på Marinbasen i Karlskrona samt träffar länets försvarsdirektör för att diskutera civil beredskap och totalförsvar i Blekinge.
 
-På eftermiddagen kl. 15:00\-15:30 deltar civilministern på en pressträff på residenset tillsammans med landshövding Ulrica Messing och försvarsdirektör Peter Ryman. Vid mediaförfrågningar, kontakta civilministerns presskontakt.
+På eftermiddagen kl. 15:00-15:30 deltar civilministern på en pressträff på residenset tillsammans med landshövding Ulrica Messing och försvarsdirektör Peter Ryman. Vid mediaförfrågningar, kontakta civilministerns presskontakt.

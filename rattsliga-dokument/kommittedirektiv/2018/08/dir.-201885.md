@@ -4,4 +4,4 @@ Sverige och världen står inför flera stora samhällsutmaningar, däribland kl
 
 Kommittén ska bistå regeringen i arbetet med att identifiera policyutmaningar, bidra till att minska osäkerheten kring gällande regler och påskynda policyutveckling kopplad till den fjärde industriella revolutionens teknologier inom inledningsvis tillämpningsområdena precisionsmedicin, uppkopplad industri samt uppkopplade och automatiserade fordon, farkoster och system. En referensgrupp, med representanter från Regeringskansliet, myndigheter, regionala aktörer, näringslivet och organisationer med erfarenhet av policyutveckling, ska knytas till kommittén.
 
-Kommittén ska för åren 2019 och 2020, senast den 31 december, lämna en delrapportering av arbetet dittills. Uppdraget ska slutredovisas senast den 31 december 2021\.
+Kommittén ska för åren 2019 och 2020, senast den 31 december, lämna en delrapportering av arbetet dittills. Uppdraget ska slutredovisas senast den 31 december 2021.

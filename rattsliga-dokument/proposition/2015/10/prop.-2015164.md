@@ -13,6 +13,6 @@ Bland nyheterna kan följande nämnas.
 
 Flera av de föreslagna ändringarna omfattar även bostadsrättslagen, lagen om kooperativ hyresrätt samt lagstiftningen om kreditmarknadsföreningar, ömsesidiga försäkringsbolag och försäkringsföreningar.
 
-De nya bestämmelserna föreslås träda i kraft den 1 juli 2016\.
+De nya bestämmelserna föreslås träda i kraft den 1 juli 2016.
 
 [Pressmeddelande: Bättre villkor för kooperativa företag](/pressmeddelanden/2015/10/battre-villkor-for-kooperativa-foretag/)

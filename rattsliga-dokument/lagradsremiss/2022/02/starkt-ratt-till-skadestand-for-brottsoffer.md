@@ -10,4 +10,4 @@ Förslagen handlar bl.a. om att
 * utvidga möjlig­heterna att utmäta frihets­berövande­ersättning till förmån för brotts­offer, och
 * ge fordringar som avser skade­stånd på grund av brott före­träde framför opriori­terade ford­ringar vid löne­utmätning.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2022, med undantag för lag­ändringen om ändrad före­trädes­ordning vid löne­utmätning som föreslås träda i kraft den 10 september 2022\.
+Lagändringarna föreslås träda i kraft den 1 juli 2022, med undantag för lag­ändringen om ändrad före­trädes­ordning vid löne­utmätning som föreslås träda i kraft den 10 september 2022.

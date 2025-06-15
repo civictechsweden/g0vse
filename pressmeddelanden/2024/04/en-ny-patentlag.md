@@ -8,4 +8,4 @@ Förslagen i lagrådsremissen innebär att ett antal av bestämmelserna i patent
 
 För att möjliggöra en effektiv handläggning och underlätta förståelsen för patentprocessen förtydligas reglerna om handläggning av en patentansökan. Det görs också en övergripande språklig och redaktionell modernisering av patentlagen för att lagen ska bli mer överskådlig och lättare att förstå och tillämpa.
 
-Den nya patentlagen och lagändringar föreslås träda i kraft den 1 januari 2025\.
+Den nya patentlagen och lagändringar föreslås träda i kraft den 1 januari 2025.

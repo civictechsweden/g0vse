@@ -12,6 +12,6 @@ Vid mötet enades försvarsministrarna även om ett gemensamt uttalande om hur J
 
 – Vi ska stärka samarbetet för att upptäcka och avskräcka hot i vårt närområde med särskilt fokus på hot mot samhällskritisk infrastruktur i havet. Tillsammans stärker vi säkerheten och stabiliteten i Norra atlanten, nordområdena och Östersjöområdet, säger försvarsminister Pål Jonson.
 
-[Gemensamt uttalande av försvarsministrar i JEF 2023\-06\-13](/contentassets/e985e0c299b14afa9eb4003b702bf7c6/230613-ministerial-statement__final_-version.pdf)
+[Gemensamt uttalande av försvarsministrar i JEF 2023-06-13](/contentassets/e985e0c299b14afa9eb4003b702bf7c6/230613-ministerial-statement__final_-version.pdf)
 
 Försvarsministrarna i JEF:s partnerländer möts två gånger om året. Utöver stöd till Ukraina handlade mötet i Amsterdam om hur samarbetet kan utvecklas som komplement till Nato och om kommande övningar.

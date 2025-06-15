@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen, Folkhälsomyndigheten, Myndigheten för familjerätt och föräldraskapsstöd, Specialpedagogiska skolmyndigheten, Statens beredning för medicinsk och social utvärdering och Statens skolverk att ta fram ett nationellt hälsoprogram för barn och unga till och med 20 års ålder.
 
-
 Programmet ska bland annat främja barns och ungas hälsa och utveckling och förebygga ohälsa. Myndigheterna ska föreslå en långsiktig och ändamålsenlig uppföljning av barns och ungas hälsa och utveckling samt utvärdera programmets insatser.
 
 ## Samverkan mellan flera myndigheter
@@ -11,7 +10,7 @@ Socialstyrelsen ansvarar för att i samverkan med övriga deltagande myndigheter
 
 ## Övriga berörda myndigheters medverkan
 
-Socialstyrelsen samtalar med övriga berörda statliga myndigheter som E\-hälsomyndigheten samt med Sveriges Kommuner och Regioner, Friskolornas riksförbund, Idéburna skolor, kommuner och regioner samt enskilda och kommunala skolhuvudmän. Socialstyrelsen samtalar med organisationer som företräder barn och unga, professionsföreningar samt patient\-, brukar\- och anhörigorganisationer och andra som är viktiga för barns och ungas hälsa och utveckling.
+Socialstyrelsen samtalar med övriga berörda statliga myndigheter som E-hälsomyndigheten samt med Sveriges Kommuner och Regioner, Friskolornas riksförbund, Idéburna skolor, kommuner och regioner samt enskilda och kommunala skolhuvudmän. Socialstyrelsen samtalar med organisationer som företräder barn och unga, professionsföreningar samt patient-, brukar- och anhörigorganisationer och andra som är viktiga för barns och ungas hälsa och utveckling.
 
 ## Redovisning av uppdraget
 

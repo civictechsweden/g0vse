@@ -1,9 +1,8 @@
 # Uttalande från trilateralt möte mellan Finland, Norge och Sverige på Harpsund, 22 februari 2023
 
-Uttalande från trilateralt möte mellan Finland, Norge och Sverige på Harpsund, 22 februari 2023\.
+Uttalande från trilateralt möte mellan Finland, Norge och Sverige på Harpsund, 22 februari 2023.
 
-
-Vi, ledarna för Sverige, Finland och Norge, tillsammans med våra utrikes\- och försvarsministrar, har idag träffats på Harpsund i Sverige för att diskutera våra gemensamma säkerhetsutmaningar och vårt nära samarbete i utrikes\- säkerhets\- och försvarspolitiska frågor.
+Vi, ledarna för Sverige, Finland och Norge, tillsammans med våra utrikes- och försvarsministrar, har idag träffats på Harpsund i Sverige för att diskutera våra gemensamma säkerhetsutmaningar och vårt nära samarbete i utrikes- säkerhets- och försvarspolitiska frågor.
 
 Sedan vi träffades första gången i detta format, på president Niinistös sommarresidens i Gullranda 2019, har behovet av närmare samarbete oss emellan stärkts. Vi fördömer kraftfullt Rysslands oprovocerade, olagliga och fullskaliga invasion, som i dagarna har pågått i ett år och bekräftar vårt starka stöd till Ukraina. Ukrainas självständighet, suveränitet och territoriella integritet är ett gemensamt och fundamentalt säkerhetsintresse. Våra länder är stora bidragsgivare till Ukraina, såväl humanitärt, som militärt och ekonomiskt. Utvecklingen i och runt Ukraina påverkar oss direkt.
 

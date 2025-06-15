@@ -12,4 +12,4 @@ En särskild utredare ska bland annat:
 * lämna de förslag till författningsändringar eller andra åtgärder som behövs, och
 * redovisa de rättsliga och ekonomiska konsekvenserna av förslagen.
 
-Uppdraget ska redovisas senast den 1 februari 2016\.
+Uppdraget ska redovisas senast den 1 februari 2016.

@@ -8,4 +8,4 @@ Genom det nya avtalet byggs kompensationsordningen ut så att kompensation även
 
 Lagen om särskild inkomstskatt för utomlands bosatta ändras. Detta innebär att löneinkomster kan beskattas i Sverige vid de fall arbete har utförts i Danmark i enlighet med det nya avtalet.
 
-Det nya avtalet kan träda i kraft när det har godkänts av parlamenten i båda länderna. De nya eller ändrade reglerna kan därför bli tillämpliga tidigast den 1 januari 2025\.
+Det nya avtalet kan träda i kraft när det har godkänts av parlamenten i båda länderna. De nya eller ändrade reglerna kan därför bli tillämpliga tidigast den 1 januari 2025.

@@ -6,12 +6,12 @@ Regeringen har beslutat att instruktionen för Forskningsrådet för miljö, are
 
 ### Referenser
 
-* förordningen (2009:1024\) med instruktion för Forskningsrådet för miljö, areella näringar och samhällsbyggande
+* förordningen (2009:1024) med instruktion för Forskningsrådet för miljö, areella näringar och samhällsbyggande
 
 ## Mer information
 
-Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 15 september 2015\.
+Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 15 september 2015.
 
 Kontaktperson:
 
-Pia\-Maria Lindroos 08\-405 21 51
+Pia-Maria Lindroos 08-405 21 51

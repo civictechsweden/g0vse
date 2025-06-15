@@ -3,12 +3,11 @@
 Nu pågår utredningen som ska lämna förslag till regeringen om hur ett nationellt center för romska frågor kan inrättas.
 – Utredningen har i dagsläget samtalat och träffat ett femtiotal organisationer, sakkunniga och romska företrädare. Intresset för utredningen från den nationella minoriteten romer är stort, säger Charlotta Wickman som sedan mitten av juni leder arbetet.
 
-
 Utredningens uppdrag handlar om att ge förslag på hur ett nationellt center för romska frågor kan inrättas. Det ingår bland annat att föreslå vilka uppgifter centret ska ha, om centret ska inrättas inom ramen för befintlig myndighetsstruktur och utreda hur romskt deltagande och inflytande kan säkerställas. Det ingår också att föreslå hur centret kan bidra till främjande av romskt språk och romsk kultur.
 
 ## Därför har utredningen tillsatts
 
-Bakgrunden till varför utredningen har tillsatts, är att Kommissionen mot antiziganism i sitt betänkande Kraftsamling mot antiziganism (SOU 2016:44\) drog slutsatsen att situationen för romers mänskliga rättigheter är allvarlig. Kommissionen föreslog därför att regeringen inrättar ett nationellt center för romska frågor och att en utredning tillsätts för att ta fram ett mer detaljerat förslag om hur detta ska gå till och när.
+Bakgrunden till varför utredningen har tillsatts, är att Kommissionen mot antiziganism i sitt betänkande Kraftsamling mot antiziganism (SOU 2016:44) drog slutsatsen att situationen för romers mänskliga rättigheter är allvarlig. Kommissionen föreslog därför att regeringen inrättar ett nationellt center för romska frågor och att en utredning tillsätts för att ta fram ett mer detaljerat förslag om hur detta ska gå till och när.
 
 ## Livesända möten via sociala medier
 
@@ -22,4 +21,4 @@ Charlotta Wickman som leder utredningens arbete betonar att minoriteten romer in
 
 – Framöver kommer utredningen fortsätta med samtalen med organisationer, sakkunniga och romska företrädare och även samla till större möten, berättar utredningssekreterare Elvis Stan.
 
-Uppdraget ska redovisas senast den 15 februari 2018\.
+Uppdraget ska redovisas senast den 15 februari 2018.

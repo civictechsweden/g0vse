@@ -9,7 +9,7 @@ I Sverige bor asylsökande i eget boende i en utsträckning som saknar motsvarig
 Regeringens förslag innebär bland annat att
 
 * asylsökande som huvudregel endast ska ha rätt till ekonomiskt bistånd under asyltiden om de bor på det asylboende som de har tilldelats,
-* Migrationsverket får möjlighet att undersöka asylsökandes boende\- och förvaringsutrymmen på asylboendena, i syfte att kontrollera att asylsökanden bor på den tilldelade boendeplatsen, och
+* Migrationsverket får möjlighet att undersöka asylsökandes boende- och förvaringsutrymmen på asylboendena, i syfte att kontrollera att asylsökanden bor på den tilldelade boendeplatsen, och
 * en ansökan om uppehållstillstånd kan betraktas som återkallad för asylsökande som inte bor på ett asylboende och inte håller Migrationsverket underrättat om sin bostadsadress.
 
-Lagändringarna föreslås träda i kraft den 1 mars 2025\. Den 15 oktober mottog migrationsministern slutbetänkandet från Utredningen om ett ordnat initialt mottagande av asylsökande som i enlighet med tilläggsdirektiv som beslutades av den nya regeringen 2023 föreslår mer långtgåendeåtgärder för att avskaffa ordningen med eget boende för asylsökande. Slutbetänkandet har skickats på remiss.
+Lagändringarna föreslås träda i kraft den 1 mars 2025. Den 15 oktober mottog migrationsministern slutbetänkandet från Utredningen om ett ordnat initialt mottagande av asylsökande som i enlighet med tilläggsdirektiv som beslutades av den nya regeringen 2023 föreslår mer långtgåendeåtgärder för att avskaffa ordningen med eget boende för asylsökande. Slutbetänkandet har skickats på remiss.

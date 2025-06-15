@@ -6,9 +6,9 @@ Efter att 33 kvinnor fått sina livmödrar bortopererade till följd av felaktig
 
 – Vi behöver öka kunskapen om kvinnors hälsa. Kvinnor och män, flickor och pojkar ska ha samma förutsättningar för en god hälsa och erbjudas vård och omsorg på lika villkor. Dagens beslut är ett viktigt steg i den riktningen, säger jämställdhetsminister Paulina Brandberg.
 
-– Det är oerhört viktigt att människor kan känna sig trygga med att de får en god och säker vård, med individens bästa i fokus. Att vi nu stärker överenskommelsen är ett viktigt steg för en tryggare och mer jämlik cancervård i hela Sverige, säger äldre\- och socialförsäkringsminister Anna Tenje.
+– Det är oerhört viktigt att människor kan känna sig trygga med att de får en god och säker vård, med individens bästa i fokus. Att vi nu stärker överenskommelsen är ett viktigt steg för en tryggare och mer jämlik cancervård i hela Sverige, säger äldre- och socialförsäkringsminister Anna Tenje.
 
-– Vi har en mycket bra och säker cancervård i Sverige som det är viktigt att alla patienter känner sig trygga med. Genom den här förstärkningen i en redan befintlig överenskommelsen, skyndar vi på arbetet i hela landet med att säkerställa att de kontrollsystem som finns fångar upp avvikelser i tid, utifrån erfarenheterna i Region Uppsala, säger Anna\-Lena Hogerud, ordförande för Sjukvårdsdelegationen på Sveriges Kommuner och Regioner (SKR).
+– Vi har en mycket bra och säker cancervård i Sverige som det är viktigt att alla patienter känner sig trygga med. Genom den här förstärkningen i en redan befintlig överenskommelsen, skyndar vi på arbetet i hela landet med att säkerställa att de kontrollsystem som finns fångar upp avvikelser i tid, utifrån erfarenheterna i Region Uppsala, säger Anna-Lena Hogerud, ordförande för Sjukvårdsdelegationen på Sveriges Kommuner och Regioner (SKR).
 
 ## Överenskommelse förstärks med nationell analys
 
@@ -28,4 +28,4 @@ Det nya tillägget innebär att Regionala Cancercentrum i Samverkan ska:
 
 Utöver det ska Regionala Cancercentrum i Samverkan även genomföra en informationskampanj för att motverka missinformation eftersom diagnoserna livmoderkroppscancer och livmoderhalscancer lätt blandas ihop. Den aktuella händelsen rör bara förstadier till livmoderkroppscancer, vilket är en relativ sällsynt diagnos och berör alltså inte screening för livmoderhalscancer.
 
-Resultaten från analysen, workshopen och kommunikationsinsatsen ska rapporteras i verksamhetsrapporten för 2024, som lämnas till Socialdepartementet senast den 31 mars 2025\. För att finanserna insatserna har regeringen beslutat att betala ut 3 550 000 kronor.
+Resultaten från analysen, workshopen och kommunikationsinsatsen ska rapporteras i verksamhetsrapporten för 2024, som lämnas till Socialdepartementet senast den 31 mars 2025. För att finanserna insatserna har regeringen beslutat att betala ut 3 550 000 kronor.

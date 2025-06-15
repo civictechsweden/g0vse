@@ -11,6 +11,6 @@ emittenters regelbundna finansiella information får överlämnas till ett
 organ med representativa företrädare på redovisningsområdet. Finansinspektionen, som behörig myndighet, ska ha kvar det yttersta ansvaret genom sin befogenhet att besluta om ingripanden vid eventuella överträdelser. Enligt förslaget ska ett sådant övervakningsorgan i sin handläggning tillämpa vissa bestämmelser i förvaltningslagen. Organet ska även få ta ut avgifter av de övervakade emittenterna för att bekosta övervakningen.
 
 I propositionen föreslås ändringar i lagen om värdepappersmarknaden
-och offentlighets\- och sekretesslagen.
+och offentlighets- och sekretesslagen.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2019\.
+Lagändringarna föreslås träda i kraft den 1 januari 2019.

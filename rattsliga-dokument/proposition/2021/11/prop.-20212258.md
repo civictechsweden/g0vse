@@ -3,7 +3,7 @@
 Regeringen prioriterar åtgärder för att Sverige ska ha en växande skogsnäring och ökad hållbar skoglig tillväxt med god och säkerställd tillgång till biomassa från den svenska skogen. Sverige har också ett ansvar internationellt och för kommande generationer att bevara, restaurera och
 utveckla den biologiska mångfalden samt nationella och internationella åtaganden för att skydda biologisk mångfald i skogen. Hållbar skoglig tillväxt, ersättning av fossila råvaror, ökad cirkularitet samt kolinbindning i biomassa och marken ska främjas och läckage från mark och andra källor minskas.
 
-Regeringen anser att en stark ägande\- och brukanderätt är grunden för att i ökad utsträckning kunna ta tillvara skogens potential för ekonomi, klimat och miljö.
+Regeringen anser att en stark ägande- och brukanderätt är grunden för att i ökad utsträckning kunna ta tillvara skogens potential för ekonomi, klimat och miljö.
 
 För att värna möjligheten för skogsägare att fortsätta bedriva skogsbruk föreslår regeringen att nya ersättningsmarker och ett nytt markförsäljningsprogram från Sveaskog AB bör bidra till skydd av värdefull skog.
 
@@ -17,6 +17,6 @@ Regeringen avser att återkomma till riksdagen med förslag som tydliggör best�
 
 Skogsstyrelsen bör upphöra med inventering och registrering av nyckelbiotoper. Kunskapsunderlag är värdefullt och inventeringen i skogen bör utvecklas för att utgöra ett stöd till markägare. För naturvärdesinventeringar i skog som inte sker inom ramen för ett ärende ska inga sammanvägda bedömningar registreras.
 
-För att stärka skogsbruket bör skogsägare ges ökade möjligheter till klimatanpassning genom utveckling av vitala skogssystem och bruknings\-metoder som har förmåga att anpassa sig till ett förändrat klimat.
+För att stärka skogsbruket bör skogsägare ges ökade möjligheter till klimatanpassning genom utveckling av vitala skogssystem och bruknings-metoder som har förmåga att anpassa sig till ett förändrat klimat.
 
-Staten bör vara föregångare i hållbart skogsbruk och ta stor natur\- och kulturmiljöhänsyn samt hänsyn till rennäringen.
+Staten bör vara föregångare i hållbart skogsbruk och ta stor natur- och kulturmiljöhänsyn samt hänsyn till rennäringen.

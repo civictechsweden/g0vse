@@ -11,8 +11,8 @@ I uppdraget ingår bl.a.
 * på vilket eller vilka sätt som en bostadsrättsförening bör säkerställa att det kommer att finnas tillräckliga medel för att möta det långsiktiga underhållsbehovet,
 * om det i årsredovisningen bör lyftas fram uppgifter som är särskilt viktiga för bostadsrättsföreningens intressenter,
 * om reglerna om fastighetsmäklarens informationsgivning vid förmedling av en bostadsrätt bör ändras, och
-* om reglerna för om\- eller tillbyggnader som berör en bostadsrättshavares lägenhet bör ändras.
+* om reglerna för om- eller tillbyggnader som berör en bostadsrättshavares lägenhet bör ändras.
 
 Utredaren ska lämna de författningsförslag som övervägandena ger anledning till.
 
-Uppdraget ska redovisas senast den 14 april 2017\.
+Uppdraget ska redovisas senast den 14 april 2017.

@@ -12,4 +12,4 @@ I uppdraget ingår bland annat att
 * föreslå en ny modell för utvärderingen som beaktar behovet av mer regelbundna övergripande utvärderingar och behovet av mer djupgående studier inom avgränsade områden, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 31 oktober 2012\.
+Uppdraget ska redovisas senast den 31 oktober 2012.

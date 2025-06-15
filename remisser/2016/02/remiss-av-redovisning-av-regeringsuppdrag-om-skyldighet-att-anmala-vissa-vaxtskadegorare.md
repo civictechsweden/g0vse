@@ -1,7 +1,6 @@
 # Remiss av Redovisning av regeringsuppdrag om skyldighet att anmäla vissa växtskadegörare
 
-Remissvaren ska ha kommit in till Näringsdepartementet senast den 12 april 2016\.
-
+Remissvaren ska ha kommit in till Näringsdepartementet senast den 12 april 2016.
 
 ## Remissinstanser
 
@@ -25,10 +24,10 @@ Remissvaren ska ha kommit in till Näringsdepartementet senast den 12 april 2016
 18. Umeå universitet (Institutionen för ekologi, miljö och geovetenskap)
 19. Uppsala universitet (Biologiska sektionen)
 20. Naturvårdsverket
-21. Havs\- och vattenmyndigheten
+21. Havs- och vattenmyndigheten
 22. Regelrådet
 23. Skogsstyrelsen
-24. Sveriges lantbruksuniversitet (Fakulteten för landskapsarkitektur, trädgårds\- och produktionsvetenskap, Fakulteten för natur­resurser och jordbruksvetenskap, Fakulteten för skogsvetenskap)
+24. Sveriges lantbruksuniversitet (Fakulteten för landskapsarkitektur, trädgårds- och produktionsvetenskap, Fakulteten för natur­resurser och jordbruksvetenskap, Fakulteten för skogsvetenskap)
 25. Naturhistoriska riksmuseet
 26. Branschråd för Lantbrukets Rådgivningsföretag
 27. Fritidsodlarnas Riksorganisation
@@ -46,7 +45,7 @@ Remissvaren ska ha kommit in till Näringsdepartementet senast den 12 april 2016
 39. Svenska Botaniska Föreningen
 40. Svenska Utsädesföretagens Förening
 41. Sverigepotatis AB
-42. Sveriges Frö\- och Oljeväxtodlare
+42. Sveriges Frö- och Oljeväxtodlare
 43. Svensk Handel
 44. Svenska kyrkan
 45. Sveriges Byggindustrier

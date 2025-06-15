@@ -10,4 +10,4 @@ Regeringen redovisar i propositionen följande bedömning av hur organisationen 
 
 Regeringen föreslår i propositionen att benämningen för de allmänna förvaltningsdomstolarna i första instans ändras från länsrätt till förvaltningsrätt. Det nya namnet på en allmän förvaltningsdomstol i första instans kommer att bli "Förvaltningsrätten i" följt av namnet på kansliorten.
 
-Sammanläggningarna bör genomföras den 15 februari 2010\. Lagändringarna föreslås träda i kraft vid samma tidpunkt.
+Sammanläggningarna bör genomföras den 15 februari 2010. Lagändringarna föreslås träda i kraft vid samma tidpunkt.

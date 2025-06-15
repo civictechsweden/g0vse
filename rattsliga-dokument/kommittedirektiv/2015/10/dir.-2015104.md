@@ -9,6 +9,6 @@ Utredaren ska bl.a.
 * analysera och ta ställning till hur kraven kan skärpas på sättet att tillhandahålla valsedlar i anslutning till ett röstmottagningsställe, och
 * lämna förslag till behövliga författningsändringar.
 
-Uppdraget ska redovisas senast den 31 oktober 2016\.
+Uppdraget ska redovisas senast den 31 oktober 2016.
 
 [Pressmeddelande: Snabbare omval och skärpta krav kring valsedlar utreds](/pressmeddelanden/2015/10/snabbare-omval-och-skarpta-krav-kring-valsedlar-utreds/)

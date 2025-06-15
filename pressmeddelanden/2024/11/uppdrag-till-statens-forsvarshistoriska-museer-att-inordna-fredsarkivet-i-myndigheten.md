@@ -6,4 +6,4 @@ Fredsarkivet har sedan 2006 varit en del av Folke Bernadotteakademin. I augusti 
 
 Beslutet är en del av regeringens omprövning av den statliga förvaltningens uppgifter och organisering. Målsättningen att uppnå en effektivare statsförvaltning, med ökat fokus på bland annat medborgarnytta och kostnadseffektivitet.
 
-Ansvaret för Fredsarkivet övergår från Folke Bernadotteakademin till Statens försvarshistoriska museer den 1 januari 2025\.
+Ansvaret för Fredsarkivet övergår från Folke Bernadotteakademin till Statens försvarshistoriska museer den 1 januari 2025.

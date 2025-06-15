@@ -6,4 +6,4 @@ I lagrådsremissen föreslås även att en indexering ska införas i beräkninge
 
 Dessutom föreslås i lagrådsremissen att skatten för pensionärer ska sänkas med totalt 2,18 miljarder kronor. Förslaget innebär att det förhöjda grundavdraget för personer som vid årets ingång har fyllt 66 år förstärks. I genomsnitt minskar skatten med ca 1 300 kronor per person och år.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

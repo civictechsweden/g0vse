@@ -2,7 +2,6 @@
 
 Det talade ordet gäller
 
-
 Det handlar om vår överlevnad. Det finns inga alternativ – vi måste lyckas.
 
 I detta nu, smälter glaciärerna, samtidigt har vi El Niño över Stilla havet och en väldigt torr och varm sommar framför oss här i Sverige.
@@ -34,7 +33,7 @@ Att få de största utsläpparna att ställa om – det får stor påverkan på 
 
 Och då är det de här VD:arna som inte låter hållbarhet stanna vid en slogan eller att redovisa hållbarhet på sista sidorna i årsrapporten – utan, på allvar låter fossilfrihet och nollutsläpp prägla hela värdekedjan – och hela ledningsgruppen.
 
-De företagsledarna som gör det, de bekämpar inte bara klimatkrisen – de kommer generera vinst. De stärker svensk konkurrenskraft, lockar nya investeringar till Sverige och risksäkrar sitt företag för framtiden \- där regleringar, lagar och incitament i hållbar riktning bara kommer att bli starkare.
+De företagsledarna som gör det, de bekämpar inte bara klimatkrisen – de kommer generera vinst. De stärker svensk konkurrenskraft, lockar nya investeringar till Sverige och risksäkrar sitt företag för framtiden - där regleringar, lagar och incitament i hållbar riktning bara kommer att bli starkare.
 
 Den fossila ekonomin är i full fart med att bli fossilfri.
 Efterfrågan på rena varor och tjänster kommer bara att öka.
@@ -74,7 +73,7 @@ Genom gröna lösningar och ny teknik som räddar klimatet – men också stoppa
 
 Jag är stolt över att så många svenska företag själva väljer att ligga i framkant – och därmed stärker svensk konkurrenskraft på ett långsiktigt och hållbart sätt.
 
-Här finns goda exempel och – en potential för fler att bli förebilder – för hur vi bör agera med \- kraft och hastighet för att minska utsläppen och ta tillvara på möjligheterna.
+Här finns goda exempel och – en potential för fler att bli förebilder – för hur vi bör agera med - kraft och hastighet för att minska utsläppen och ta tillvara på möjligheterna.
 
 \*\*\*\*\*
 

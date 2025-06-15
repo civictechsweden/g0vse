@@ -8,4 +8,4 @@ hänsyn även tas till delägares eller någon närståendes verksamhet, dels i
 det företag som äger företaget som prövningen avser, dels i ett annat
 företag som ägs av det förstnämnda företaget.
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2018\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2018.

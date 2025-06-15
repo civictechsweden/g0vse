@@ -2,7 +2,6 @@
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen av förordningen om stöd till kommuner för kostnader avseende flyttning, uppställning och skrotning av vissa fordon
 
-
 ### Remissinstanser
 
 Arboga kommun
@@ -44,7 +43,7 @@ Transportstyrelsen
 Trelleborgs kommun
 Umeå kommun
 Uppsala kommun
-Upplands\-Bro kommun
+Upplands-Bro kommun
 Vadstena kommun
 Växjö kommun
 Örebro kommun

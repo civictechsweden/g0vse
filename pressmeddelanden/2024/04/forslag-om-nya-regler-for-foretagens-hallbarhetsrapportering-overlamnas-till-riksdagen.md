@@ -6,4 +6,4 @@ Redovisning om könsfördelningen bland styrelseledamöterna i börsnoterade fö
 
 För att säkerställa att svenska företag kan verka på konkurrenskraftiga villkor inom EU föreslår regeringen att direktiven genomförs på miniminivå.
 
-Lagändringarna föreslås träda i kraft i den 1 juli 2024\.
+Lagändringarna föreslås träda i kraft i den 1 juli 2024.

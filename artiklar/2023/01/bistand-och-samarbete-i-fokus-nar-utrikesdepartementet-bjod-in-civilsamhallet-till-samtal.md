@@ -1,7 +1,6 @@
 # Bistånd och samarbete i fokus när Utrikesdepartementet bjöd in civilsamhället till samtal
 
-Uppslutningen var stor när bistånds\- och utrikeshandelsminister Johan Forssell och statssekreterare Diana Janse den 11 januari bjöd in närmare 90 organisationer från civilsamhället till samtal om svenskt bistånd.
-
+Uppslutningen var stor när bistånds- och utrikeshandelsminister Johan Forssell och statssekreterare Diana Janse den 11 januari bjöd in närmare 90 organisationer från civilsamhället till samtal om svenskt bistånd.
 
 – Civilsamhället har ofta en lokal förankring och spelar en viktig roll i att stärka det svenska utvecklingssamarbetets resultat och bidra till en hållbar global utveckling, sa Johan Forssell.
 
@@ -11,7 +10,7 @@ Johan Forssell och Diana Janse var glada över att tidigt kunna etablera en kont
 
 ## Regeringens reformagenda för biståndet
 
-Under evenemanget berättade bistånds\- och utrikeshandelsministern om regeringens reformagenda för biståndet. Den innebär bland annat att kärnstöd till vissa FN\-organ, fonder och program minskar medan andelen stöd till civilsamhället ökar. Ytterligare en förändring är sammanslagningen av bistånds\- och handelsfrågor. För första gången hanteras frågorna av ett och samma statsråd.
+Under evenemanget berättade bistånds- och utrikeshandelsministern om regeringens reformagenda för biståndet. Den innebär bland annat att kärnstöd till vissa FN-organ, fonder och program minskar medan andelen stöd till civilsamhället ökar. Ytterligare en förändring är sammanslagningen av bistånds- och handelsfrågor. För första gången hanteras frågorna av ett och samma statsråd.
 
 – Med bistånd kan vi lindra akut nöd och fattigdom. Men för att bygga broar från fattigdom till välstånd måste vi arbeta långsiktigt med fokus på näringsliv, företagande, rättsstat och handelsutbyte, sa Johan Forssell.
 

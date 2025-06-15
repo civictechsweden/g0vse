@@ -10,4 +10,4 @@ I den nya lagen finns också bestämmelser om förutsättningarna för att erkä
 
 Myndigheten ska också svara för den praktiska verkställigheten. Den enskilde ska ha möjlighet att överklaga Kronofogdemyndighetens beslut.
 
-Lagstiftningen föreslås träda i kraft den 1 juli 2011\.
+Lagstiftningen föreslås träda i kraft den 1 juli 2011.

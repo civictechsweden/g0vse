@@ -4,4 +4,4 @@ Enligt 7 kap. 7 § regerings­formen ska författ­ningar, förslag till riks­d
 
 Ändringarna innebär att regerings­beslut som ska expedieras ska kunna bli gällande också på andra sätt än genom under­skrift med penna på papper, under förut­sättning att höga krav på säkerhet uppfylls. Förslaget gör det möjligt att införa en digital hantering av regerings­beslut.
 
-Lagändringen föreslås träda i kraft den 1 januari 2023\.
+Lagändringen föreslås träda i kraft den 1 januari 2023.

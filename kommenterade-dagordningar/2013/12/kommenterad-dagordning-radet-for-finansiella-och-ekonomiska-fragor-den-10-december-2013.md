@@ -14,4 +14,4 @@ På Ekofinrådets möte den 10 december 2013 finns följande punkter på dagordn
 * Förfarande vid makroekonomiska obalanser – KOM:s rapport om förvarningsmekanismen
 * Den årliga tillväxtrapporten 2014
 * Bedömning av de ekonomiska partnerskapsprogrammen
-* Genomförande av stabilitets\- och tillväxtpakten
+* Genomförande av stabilitets- och tillväxtpakten

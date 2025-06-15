@@ -1,7 +1,6 @@
 # Så fungerar Parisavtalets regelbok
 
-Den 2\-14 december pågår FN:s årliga klimatmöte COP24 i Katowice, Polen. Under mötet väntas länderna fatta beslut om det regelverk som ska styra genomförandet av Parisavtalet. Sverige driver på för ett ambitiöst och dynamiskt regelverk som säkerställer ett ambitiöst genomförande av Parisavtalet.
-
+Den 2-14 december pågår FN:s årliga klimatmöte COP24 i Katowice, Polen. Under mötet väntas länderna fatta beslut om det regelverk som ska styra genomförandet av Parisavtalet. Sverige driver på för ett ambitiöst och dynamiskt regelverk som säkerställer ett ambitiöst genomförande av Parisavtalet.
 
 I Paris enades världens länder om ett nytt globalt och rättsligt bindande klimatavtal där alla länder åtar sig att bidra med allt ambitiösare klimatplaner för att hålla den globala uppvärmningen väl under två grader (och helst under 1,5 grader). Länderna åtar sig också att öka anpassningsförmågan till skadliga effekter av klimatförändringarna och skifta finansiella flöden mot hållbara lösningar.
 

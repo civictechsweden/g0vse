@@ -4,4 +4,4 @@ I lagrådsremissen föreslås ändringar i skollagen. Det så kallade informatio
 
 Dessutom föreslås att huvudmän för gymnasieskolor och gymnasiesärskolor snarast ska meddela hemkommunen om en elev utan giltigt skäl är frånvarande i betydande utsträckning.
 
-Ändringarna föreslås träda i kraft den 1 januari 2015\.
+Ändringarna föreslås träda i kraft den 1 januari 2015.

@@ -4,12 +4,11 @@ Stockholm, 15 januari 2023
 
 Det talade ordet gäller.
 
-
 Mina damer och herrar! Kära vänner!
 
 ”Jag hoppas att ni inte vänder dem ryggen, att ni inte blundar för dem.”
 
-Det var den uppmaning som Fadime riktade till oss alla i sitt berömda tal i riksdagen hösten 2001\. Drygt 20 år senare känns de här orden fortfarande väldigt förpliktigande – och dessvärre alltför aktuella.
+Det var den uppmaning som Fadime riktade till oss alla i sitt berömda tal i riksdagen hösten 2001. Drygt 20 år senare känns de här orden fortfarande väldigt förpliktigande – och dessvärre alltför aktuella.
 
 Fadime talade om alla de unga invandrarkvinnor som begränsas i sina livsval för att familjen vill ha kontroll. Det handlar om ett hedersförtryck med förfärliga konsekvenser. I Fadimes eget fall till och med dödliga. Det kan vi aldrig acceptera eller tolerera.
 

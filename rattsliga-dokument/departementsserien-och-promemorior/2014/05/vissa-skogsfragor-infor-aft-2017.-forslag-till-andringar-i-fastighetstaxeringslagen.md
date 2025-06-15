@@ -9,4 +9,4 @@ De föreslagna lagändringarna är b.la.
 * produktiv skogsmark med avverkningsförbud bildar ett nytt ägoslag och görs till egen värderingsenhet samt att
 * ekonomibyggnad som inte används i yrkesmässig näringsverksamhet ska hänföras till småhus.
 
-Förslagen är avsedda att tillämpas vid den allmänna fastighetstaxeringen av lantbruksenheter 2017\. Förberedelsearbetet inför AFT 2017 påbörjas av Skatteverket redan under våren 2015\. Skatteverket vill därför att regelförändringarna träder i kraft senast den 1 januari 2015\.
+Förslagen är avsedda att tillämpas vid den allmänna fastighetstaxeringen av lantbruksenheter 2017. Förberedelsearbetet inför AFT 2017 påbörjas av Skatteverket redan under våren 2015. Skatteverket vill därför att regelförändringarna träder i kraft senast den 1 januari 2015.

@@ -1,6 +1,6 @@
 # Kulturarv - kulturmiljöer och kulturföremål
 
-I propositionen föreslår regeringen övergripande mål för arbetet för kulturmiljön. Genom målen förtydligas bland annat vikten av att olika sektorer i samhället samverkar till gagn för en långsiktigt hållbar förvaltning och utveckling av kultur\- och naturmiljön.
+I propositionen föreslår regeringen övergripande mål för arbetet för kulturmiljön. Genom målen förtydligas bland annat vikten av att olika sektorer i samhället samverkar till gagn för en långsiktigt hållbar förvaltning och utveckling av kultur- och naturmiljön.
 
 Vidare framhålls kulturarvets betydelse för den demokratiska utvecklingen samt vikten av samarbete över nationsgränserna m.m.
 

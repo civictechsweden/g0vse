@@ -10,4 +10,4 @@ De till förfalskningsbrotten nära anknytande sanningsbrotten i 15 kap. 10–15
 
 Till följd av att tillämpningsområdet för de generella reglerna i brottsbalken utvidgas föreslås upphävande av ett antal straffrättsliga särlösningar om elektroniskt uppgiftslämnande i andra författningar.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2013\.
+Lagändringarna föreslås träda i kraft den 1 juli 2013.

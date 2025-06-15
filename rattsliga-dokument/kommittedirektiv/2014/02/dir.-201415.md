@@ -12,8 +12,8 @@ Utredaren ska bland annat:
 * utreda möjligheten och lämpligheten att konkurrensutsätta vissa delar av Arbetsförmedlingens verksamhet som inte utgörs av myndighetsutövning.
 * analysera hur Arbetsförmedlingen använder kompletterande aktörer och vid behov föreslå förändringar i användandet av dessa
 * analysera och föreslå hur ersättningssystemen bör utformas för att skapa incitament för kompletterande aktörer att på ett effektivt sätt bidra till fungerande stödinsatser och effektiv matchning.
-* utreda och utvärdera för\- och nackdelar med Arbetsförmedlingens organisation.
+* utreda och utvärdera för- och nackdelar med Arbetsförmedlingens organisation.
 * analysera och föreslå hur styrningen av Arbetsförmedlingen kan utvecklas.
 * analysera och föreslå hur uppföljning och utvärdering av Arbetsförmedlingens verksamhet kan utvecklas och förbättras.
 
-Uppdraget ska redovisas senast den 15 januari 2016\.
+Uppdraget ska redovisas senast den 15 januari 2016.

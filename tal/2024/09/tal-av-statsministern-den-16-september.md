@@ -2,8 +2,7 @@
 
 Efter ett gemensamt regeringsmöte mellan den svenska regeringen och den finländska regeringen den 16 september 2024 deltog statsministrarna vid ett seminarium som Svenskt Näringsliv och deras finländska motsvarighet EK arrangerade. Fokus för seminariet var hur man gemensamt kan stärka Sveriges, Finlands och EU:s konkurrenskraft. Vid tillfället höll statsminister Ulf Kristersson ett tal. Talet hölls och återges här på engelska.
 
-
-Näringslivets hus, Stockholm, den 16 september 2024\.
+Näringslivets hus, Stockholm, den 16 september 2024.
 (Det talade ordet gäller.)
 
 Dear Friends,

@@ -10,6 +10,6 @@ Utredaren ska bland annat
 * analysera hur regleringen av myndighetens hantering av humanbiologiskt material bör se ut, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 31 oktober 2017\.
+Uppdraget ska redovisas senast den 31 oktober 2017.
 
 [Pressmeddelande: Regeringen tillsätter utredning för att stärka integriteten i Rättsmedicinalverkets verksamhet](/pressmeddelanden/2016/09/regeringen-tillsatter-utredning-for-att-starka-integriteten-i-rattsmedicinalverkets-verksamhet/)

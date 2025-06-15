@@ -14,4 +14,4 @@ Regeringen lämnar också vissa förslag som syftar till att stärka rättssäke
 * de brottsbekämpande myndigheternas användning av hemlig rumsavlyssning och preventiva tvångsmedel som huvudregel ska omfattas av regeringens årliga redovisning till riksdagen om användningen av hemliga tvångsmedel, och
 * möjligheten för domstolen att fatta beslut om hemliga tvångsmedel utan att ett offentligt ombud har medverkat tas bort.
 
-Förslagen bygger på en överenskommelse mellan regeringen och Socialdemokraterna. Ändringarna föreslås träda i kraft den 1 januari 2015\.
+Förslagen bygger på en överenskommelse mellan regeringen och Socialdemokraterna. Ändringarna föreslås träda i kraft den 1 januari 2015.

@@ -8,4 +8,4 @@ Det nya rekon­struktions­förfaran­det kommer i många fall att inne­fatta p
 
 Förslagen i lagråds­remissen genomför EU:s insolvens­direktiv.
 
-Den nya lagen och lag­änd­ringarna föreslås träda i kraft den 1 juli 2022\.
+Den nya lagen och lag­änd­ringarna föreslås träda i kraft den 1 juli 2022.

@@ -8,4 +8,4 @@ I propositionen föreslås därför en ny lag som gör det möjligt för Polismy
 
 De uppgifter som ska få registreras och behandlas är bland annat namn, fotografi, omfattningen av beslut om tillträdesförbud och överträdelser av gällande tillträdesförbud. Lagen kompletteras med en rätt för polisen att fotografera den som har tillträdesförbud eller skäligen kan antas få det, om syftet är att fotografiet ska tillföras tillträdesförbudsregistret.
 
-Lagändringarna föreslås träda i kraft den 1 april 2015\.
+Lagändringarna föreslås träda i kraft den 1 april 2015.

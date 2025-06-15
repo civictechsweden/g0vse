@@ -4,8 +4,7 @@ Statsminister Ulf Kristerssons tal om Förintelseöverlevandes berättelser, den
 
 Det talade ordet gäller.
 
-
-Tack Christer, och tack för möjligheten att få tala här ikväll. På en dag som markerar nyutgåvan av en av de viktigaste skildringarna av Förintelsen som har givits ut på svenska – Ferenc Göndörs ”A\-6171: Ett judiskt levnadsöde”.
+Tack Christer, och tack för möjligheten att få tala här ikväll. På en dag som markerar nyutgåvan av en av de viktigaste skildringarna av Förintelsen som har givits ut på svenska – Ferenc Göndörs ”A-6171: Ett judiskt levnadsöde”.
 
 I det exemplar av Göndörs bok som fanns i Regeringskansliets bibliotek, så fanns också en dedikation till min föregångare, statsminister Göran Persson – daterad för 24 år sedan.
 
@@ -13,7 +12,7 @@ Där tackade författaren Göran Persson för hans arbete för det judiska folke
 
 Under hans regering skapades den myndighet som har det särskilda uppdraget att verka för att sprida kunskap till allmänheten om Förintelsen – Forum för levande historia. Det är ett uppdrag som min regering både vårdar och värnar.
 
-Staten kan och staten ska göra mycket i de här frågorna. Men det är nog de enskilda berättelser som Göndör och andra överlevande har delat med sig av genom åren, som är den viktigaste grunden för det arbetet. Och nästan varje år kommer nya exempel: som ”Witnesses” – den sevärda fotografiska porträttutställningen på kulturhuset 2018\. Margit Silbersteins bok ”Förintelsens barn”. Eller Micael Bindefelds årliga pris på minnesdagen.
+Staten kan och staten ska göra mycket i de här frågorna. Men det är nog de enskilda berättelser som Göndör och andra överlevande har delat med sig av genom åren, som är den viktigaste grunden för det arbetet. Och nästan varje år kommer nya exempel: som ”Witnesses” – den sevärda fotografiska porträttutställningen på kulturhuset 2018. Margit Silbersteins bok ”Förintelsens barn”. Eller Micael Bindefelds årliga pris på minnesdagen.
 
 Berättandet är ett unikt sätt att förmedla den historia som annars ofta bara finns i historieböckerna. Förr i tiden brukade yngre generationer sitta hänförda och lyssna när äldre generationer berättade historier – runt lägereldar eller fotogenlampor. I vart fall vill vi gärna tro det. I dag – framför våra skärmar – riskerar länken mellan generationerna att bli svagare, länken mellan förr, nu och framtid att bli svagare och länken mellan erfarenheter och lärdomar att också bli svagare.
 
@@ -29,11 +28,7 @@ Och när jag tog våra barn till Berlin för att se både Checkpoint Charlie och
 
 Desto viktigare att inte ge sig. Desto viktigare att se platserna, bevisen och höra berättelserna. Och ingenstans gör man det nog mer levande än på det enastående museet Yad Vashem strax utanför Jerusalem. Våra barn visste förstås, men var ändå helt tagna av den upplevelsen.
 
-
-
 \*\*\*
-
-
 
 Om berättandet levandegör vår historia, så skapar det dessutom en annan tillgång för ett samhälle: det kollektiva minnet, samhällets roder i kursen mot framtiden. Som gör det möjligt för en hel nation eller ett helt folk att bära med sig tidigare generationers lärdomar. Och som skapar minnesplatser inom var och en av oss, trots att vi kanske själva inte var där.
 
@@ -45,15 +40,11 @@ Litteraturen är central. Utan klassiker som ”På västfronten intet nytt” e
 
 Vi skulle också sakna lärdomar för framtiden. Därför är Göndörs och andra skildringar från Förintelsen också en omistlig del av vårt svenska och europeiska kulturarv.
 
-Förintelsen har en särställning i vårt kollektiva minne – för skyddet av demokratin och försvaret av människovärdet. Rätt vårdat är detta minne ett vaccin. Inte bara mot framtida övergrepp och folkmord. Utan också mot den stegvisa och systematiska nedmonteringen av mänskliga fri\- och rättigheter, som vi av historisk erfarenhet vet föregår sådana brott. I den liberala demokratin tror vi på en fungerande rättsstat. Men en rättsstat som inte befolkas av människor som drar lärdomar av det förflutna ger inget fullgott skydd mot ondskan.
+Förintelsen har en särställning i vårt kollektiva minne – för skyddet av demokratin och försvaret av människovärdet. Rätt vårdat är detta minne ett vaccin. Inte bara mot framtida övergrepp och folkmord. Utan också mot den stegvisa och systematiska nedmonteringen av mänskliga fri- och rättigheter, som vi av historisk erfarenhet vet föregår sådana brott. I den liberala demokratin tror vi på en fungerande rättsstat. Men en rättsstat som inte befolkas av människor som drar lärdomar av det förflutna ger inget fullgott skydd mot ondskan.
 
 Just därför är Förintelseöverlevarnas berättelser så viktiga. För att bevara det mänskliga minnet bortom den direkta mänskliga erfarenheten. Och för att långsiktigt motverka antisemitism och hat i vårt samhälle.
 
-
-
 \*\*\*
-
-
 
 I dag syns allt fler tecken på att antisemitismen ökar – och några miljöer är särskilt riskabla. Vi har sedan länge nynazismen och den högerextrema subkulturen. Vi har sedan lika länge de vänsterextrema miljöernas konspirationsteorier – och nu har vi även i vårt land den intoleranta islamismen. De står för olika obehagliga idéer – men de förenas i hatet mot judar. Och därför ska vi andra förenas i att bekämpa antisemitismen – oavsett varifrån den kommer.
 

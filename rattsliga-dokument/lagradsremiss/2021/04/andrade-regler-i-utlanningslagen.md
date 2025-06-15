@@ -1,6 +1,6 @@
 # Ändrade regler i utlänningslagen
 
-I lagrådsremissen före­slås ändringar i utlännings­lagen (2005:716\) för att den svenska migra­tions­politiken ska vara lång­siktigt hållbar, med ett humant, rätts­säkert och effektivt regel­verk som inte väsent­ligen avviker från de i andra EU\-länder.
+I lagrådsremissen före­slås ändringar i utlännings­lagen (2005:716) för att den svenska migra­tions­politiken ska vara lång­siktigt hållbar, med ett humant, rätts­säkert och effektivt regel­verk som inte väsent­ligen avviker från de i andra EU-länder.
 
 Ändringarna innebär bl.a. att
 
@@ -13,8 +13,8 @@ I lagrådsremissen före­slås ändringar i utlännings­lagen (2005:716\) för
 
 I lagråds­remissen före­slås också att det ska införas en möjlig­het för vissa stats­lösa utlän­ningar som har fötts i Sverige och som har tids­begrän­sat uppe­hålls­till­stånd att bevil­jas svenskt med­borgar­skap.
 
-Lagen (2016:752\) om tillfälliga begräns­ningar av möjlig­heten att få uppe­hålls­till­stånd i Sverige (den tillfälliga lagen) upphör att gälla den 20 juli 2021\. Därmed upphör begräns­ningarna av tillämp­ningen av särskilt och synner­ligen ömmande omstän­dig­heter som gällde under den till­fälliga lagen. I lagråds­remissen gör regeringen bedöm­ningen att barn fortsatt bör kunna bevil­jas uppe­hålls­tillstånd enligt bestäm­melsen om särskilt ömmande omstän­dig­heter.
+Lagen (2016:752) om tillfälliga begräns­ningar av möjlig­heten att få uppe­hålls­till­stånd i Sverige (den tillfälliga lagen) upphör att gälla den 20 juli 2021. Därmed upphör begräns­ningarna av tillämp­ningen av särskilt och synner­ligen ömmande omstän­dig­heter som gällde under den till­fälliga lagen. I lagråds­remissen gör regeringen bedöm­ningen att barn fortsatt bör kunna bevil­jas uppe­hålls­tillstånd enligt bestäm­melsen om särskilt ömmande omstän­dig­heter.
 
 Med anled­ning av förslagen i lagråds­remissen före­slås därtill följd­ändringar i vissa andra lagar.
 
-Lagändringarna föreslås träda i kraft den 20 juli 2021\.
+Lagändringarna föreslås träda i kraft den 20 juli 2021.

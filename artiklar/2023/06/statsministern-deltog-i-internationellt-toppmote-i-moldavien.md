@@ -2,7 +2,6 @@
 
 Torsdagen den 1 juni deltog statsminister Ulf Kristersson i toppmötet European Political Community (EPC) som hölls i utkanten av Moldaviens huvudstad Chisinău.
 
-
 Vid mötet diskuterades framför allt frågor kopplat till säkerhet och energiförsörjning.
 
 När statsministern mötte media inför mötet uttryckte han sitt stöd för Moldaviens närmande till EU. Statsministern underströk också EU:s stöd till Moldavien i kampen mot ryska försök att underminera och destabilisera demokratin i landet.

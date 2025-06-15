@@ -1,6 +1,6 @@
 # Ändring av lagen om flygplatsavgifter
 
-I lagrådsremissen föreslås ändringar i lagen (2011:866\) om flygplatsavgifter. Syftet med förslagen är att förbättra genomförandet av Europaparlamentets och rådets direktiv 2009/12/EG av den 11 mars 2009 om flygplatsavgifter.
+I lagrådsremissen föreslås ändringar i lagen (2011:866) om flygplatsavgifter. Syftet med förslagen är att förbättra genomförandet av Europaparlamentets och rådets direktiv 2009/12/EG av den 11 mars 2009 om flygplatsavgifter.
 
 Av lagen ska framgå att flygplatsens ledningsenhet vanligen ska offentliggöra en ny taxa minst två månader innan den träder i kraft. Flygplatsens ledningsenhet ska motivera sitt beslut i de delar man inte kommit överens med brukarna av flygplatsen. Samråd med brukarna av flygplatsen ska avslutas med att flygplatsens ledningsenhet fattar ett formellt beslut om sina taxor, även i fall där man stannar för att inte göra några ändringar.
 
@@ -10,4 +10,4 @@ Transportstyrelsens tillsynsansvar tydliggörs och myndigheten ska få bättre m
 
 För att täcka kostnader för tillsynen bemyndigas regeringen eller den myndighet som regeringen bestämmer att meddela föreskrifter om avgifter.
 
-Lagändringarna föreslås träda i kraft den 1 november 2015\.
+Lagändringarna föreslås träda i kraft den 1 november 2015.

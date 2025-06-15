@@ -12,4 +12,4 @@ att bygga laddpunkter för elfordon,
 för elektrifieringen av transportsektorn, och
 • lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 31 december 2024\.
+Uppdraget ska redovisas senast den 31 december 2024.

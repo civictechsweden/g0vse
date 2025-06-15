@@ -4,6 +4,6 @@ Sammantaget bedöms förslagen i budgetpropositionen ge utsläppsminskningar som
 
 – Vi går nu fram med en budget som minskar utsläppen och som innebär att vi väntas nå ett av EU:s klimatmål. Det är viktiga steg för att bygga ett rikare och tryggare Sverige, säger finansminister Elisabeth Svantesson.
 
-– Med den här budgeten väntas Sveriges totala utsläpp minska nästa år och år 2026, samtidigt som vi bedöms kunna klara vårt ESR\-åtagande till år 2030\. Som klimat\- och miljöminister är jag stolt över att den ambitiösa och effektiva klimatpolitik som vi bedriver nu väntas ge de resultat som vi tidigare har utlovat. I den kommande budgeten finns flera kraftfulla åtgärder som minskar utsläppen och ser till att den svenska klimatomställningen utvecklas i rätt riktning, säger klimat\- och miljöminister Romina Pourmokhtari.
+– Med den här budgeten väntas Sveriges totala utsläpp minska nästa år och år 2026, samtidigt som vi bedöms kunna klara vårt ESR-åtagande till år 2030. Som klimat- och miljöminister är jag stolt över att den ambitiösa och effektiva klimatpolitik som vi bedriver nu väntas ge de resultat som vi tidigare har utlovat. I den kommande budgeten finns flera kraftfulla åtgärder som minskar utsläppen och ser till att den svenska klimatomställningen utvecklas i rätt riktning, säger klimat- och miljöminister Romina Pourmokhtari.
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

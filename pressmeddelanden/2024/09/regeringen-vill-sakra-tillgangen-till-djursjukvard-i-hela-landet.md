@@ -4,4 +4,4 @@
 
 Ökad efterfrågan på djursjukvård i kombination med brist på veterinärer och djursjukskötare har medfört svårigheter att säkerställa tillgången till veterinär dygnet runt i hela landet. Satsningarna syftar till att förbättra tillgången till djursjukvård. Förstärkningen vid SLU Universitetsdjursjukhuset underlättar även fortsatt europeisk ackreditering av svenska veterinärer.
 
-Regeringen har överlämnat dessa förslag till riksdagen i budgetpropositionen för 2025\. Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
+Regeringen har överlämnat dessa förslag till riksdagen i budgetpropositionen för 2025. Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

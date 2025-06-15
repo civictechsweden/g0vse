@@ -1,7 +1,6 @@
 # Europadomstolens beslut (2016-12-13) i målet A.J. och F.B. mot Sverige
 
-I huvudsak fråga om det skulle utgöra en kränkning av artiklarna 2 och 3 i Europakonventionen att utvisa klagandena till hemlandet Afghanistan. Klagandena åberopade bland annat deras äktenskap samt konvertering till kristendom som grund för att en utvisning skulle stå i strid med artikel 2 och 3\.
-
+I huvudsak fråga om det skulle utgöra en kränkning av artiklarna 2 och 3 i Europakonventionen att utvisa klagandena till hemlandet Afghanistan. Klagandena åberopade bland annat deras äktenskap samt konvertering till kristendom som grund för att en utvisning skulle stå i strid med artikel 2 och 3.
 
 ## Sammanfattning av beslutet
 

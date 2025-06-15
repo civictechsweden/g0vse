@@ -1,11 +1,10 @@
 # Uppdrag att fördela utvecklingsmedel och ge kompetensstöd
 
-Regeringen uppdrar åt Socialstyrelsen att under 2020 till 2022 fördela pengar åt socialtjänstens och hälso\- och sjukvårdens arbete mot våld i nära relationer, sexuellt våld, hedersrelaterat våld och förtryck. Satsningen ska stödja arbetet med vuxna och barn i prostitution och människohandel för sexuella ändamål.
-
+Regeringen uppdrar åt Socialstyrelsen att under 2020 till 2022 fördela pengar åt socialtjänstens och hälso- och sjukvårdens arbete mot våld i nära relationer, sexuellt våld, hedersrelaterat våld och förtryck. Satsningen ska stödja arbetet med vuxna och barn i prostitution och människohandel för sexuella ändamål.
 
 ## Socialstyrelsen tillhandahåller kompetensstöd
 
-Socialstyrelsen ska bland annat tillhandahålla och kvalitetssäkra kunskaps\- och metodstöd, så kallat kompetensstöd.
+Socialstyrelsen ska bland annat tillhandahålla och kvalitetssäkra kunskaps- och metodstöd, så kallat kompetensstöd.
 
 ## Jämställdhetsmyndigheten sprider det nationella stödet
 
@@ -33,10 +32,10 @@ Socialstyrelsen har övergripande ansvar för att i hela landet samordna, kvalit
 
 Tillsammans med medverkande myndigheter ska Socialstyrelsen senast den 1 september 2020 till Socialdepartementet redogörelse för hur uppdraget om nationellt och regionalt kompetensstöd ska genomföras.
 
-En slutredovisning av hela uppdraget lämnas till Socialdepartementet senast den 30 september 2023\.
+En slutredovisning av hela uppdraget lämnas till Socialdepartementet senast den 30 september 2023.
 
 ## Så har uppdraget bidragit till måluppfyllelse
 
-Regeringen uppdrar åt Myndigheten för vård\- och omsorgsanalys att analysera och bedöma hur uppdraget bidragit till att uppfylla de övergripande målen för uppdraget och för det jämställdhetspolitiska delmålet att mäns våld mot kvinnor ska upphöra.
+Regeringen uppdrar åt Myndigheten för vård- och omsorgsanalys att analysera och bedöma hur uppdraget bidragit till att uppfylla de övergripande målen för uppdraget och för det jämställdhetspolitiska delmålet att mäns våld mot kvinnor ska upphöra.
 
-Myndigheten för vård\- och omsorgsanalys ska redovisa uppdraget till Socialdepartementet senast den 30 november 2023\.
+Myndigheten för vård- och omsorgsanalys ska redovisa uppdraget till Socialdepartementet senast den 30 november 2023.

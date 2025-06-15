@@ -1,6 +1,6 @@
 # Fokus på film - en ny svensk filmpolitik
 
-I propositionen redovisas ett nytt filmavtal, 2006 års filmavtal, som gäller för tiden 2006\-2010\.
+I propositionen redovisas ett nytt filmavtal, 2006 års filmavtal, som gäller för tiden 2006-2010.
 
 Avtalet innebär en offensiv satsning på stöd till bland annat svensk filmproduktion och till internationell lansering av svensk film.
 

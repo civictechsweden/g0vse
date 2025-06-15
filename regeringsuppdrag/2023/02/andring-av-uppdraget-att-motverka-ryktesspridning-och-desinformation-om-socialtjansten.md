@@ -2,7 +2,6 @@
 
 Regeringen ändrar uppdraget till Socialstyrelsen om att motverka ryktesspridning och desinformation om socialtjänsten. Socialstyrelsen förstärker arbetet genom att samtala med berörda aktörer och arbeta för att öka kunskapsspridningen om socialtjänstens arbete.
 
-
 Socialstyrelsen ska:
 
 * föra en kontinuerlig dialog med kommuner, trossamfund eller andra trosbaserade organisationer samt civilsamhällesorganisationer.
@@ -17,4 +16,4 @@ Svenska institutet stöttar Socialstyrelsen i myndighetens arbete med att unders
 
 Socialstyrelsen samverka med Myndigheten för stöd till trossamfund. Myndigheten för stöd till trossamfund bistår Socialstyrelsen med kunskap om hur trossamfund eller civilsamhällesorganisationer kan involveras i arbetet mot ryktesspridning och desinformation.
 
-Socialstyrelsen delredovisar uppdraget vid ett flertal angivna tillfällen under år 2023 till 2026\. Uppdraget slutredovisas senast den 10 december 2026\.
+Socialstyrelsen delredovisar uppdraget vid ett flertal angivna tillfällen under år 2023 till 2026. Uppdraget slutredovisas senast den 10 december 2026.

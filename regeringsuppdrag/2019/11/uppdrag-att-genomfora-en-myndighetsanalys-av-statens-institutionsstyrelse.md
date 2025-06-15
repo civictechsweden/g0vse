@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Statskontoret att analysera verksamheten vid Statens institutionsstyrelse (SiS).
 
-
 Statskontoret ska:
 
 * analysera hur Statens institutionsstyrelse fullgör sitt uppdrag,
@@ -16,4 +15,4 @@ Meningen med analysen är att identifiera vilka utvecklingsbehov myndigheten har
 
 Statens institutionsstyrelse ska hjälpa Statskontoret med underlag och information för analysen.
 
-Statskontoret ska hålla Socialdepartementet informerat under det att uppdraget genomförs. Uppdraget redovisas till Socialdepartementet senast den 31 mars 2020\.
+Statskontoret ska hålla Socialdepartementet informerat under det att uppdraget genomförs. Uppdraget redovisas till Socialdepartementet senast den 31 mars 2020.

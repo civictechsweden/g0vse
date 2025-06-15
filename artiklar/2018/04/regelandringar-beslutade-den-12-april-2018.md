@@ -13,27 +13,27 @@ Syftet med bidraget är att förbättra stabilitetsförhållandena längs Göta 
 * Delegationen har i uppgift att bl.a. samordna arbetet med stabilitetsförbättrande åtgärder mellan berörda aktörer.
 * Följande aktörer deltar eller inbjuds att delta i delegationen: länsstyrelserna i Värmlands och Västra Götalands län, Myndigheten för samhällsskydd och beredskap, Sjöfartsverket, Trafikverket, Ale, Göteborgs, Vänersborgs, Kungälvs, Lilla Edets och Trollhättans kommuner, Västra Götalands läns landsting och Vattenfall Vattenkraft AB.
 
-Förordningarna träder i kraft den 3 maj 2018\.
+Förordningarna träder i kraft den 3 maj 2018.
 
 ### Referenser
 
 – förordning om bidrag för skredsäkring vid Göta älv
-– förordning (2009:945\) med instruktion för Statens geotekniska institut
+– förordning (2009:945) med instruktion för Statens geotekniska institut
 
 ## Nya bestämmelser i industriutsläppsförordningen
 
-Regeringen har beslutat om ändring i industriutsläppsförordningen för att slutsatser om bästa tillgängliga teknik (s.k. BAT\-slutsatser) för rening av avloppsvatten och avgaser inom kemikaliesektorn samt icke\-järnmetallindustrin ska genomföras i svensk rätt.
+Regeringen har beslutat om ändring i industriutsläppsförordningen för att slutsatser om bästa tillgängliga teknik (s.k. BAT-slutsatser) för rening av avloppsvatten och avgaser inom kemikaliesektorn samt icke-järnmetallindustrin ska genomföras i svensk rätt.
 
-Förordningen träder i kraft den 17 maj 2018\.
+Förordningen träder i kraft den 17 maj 2018.
 
 ### Referenser
 
-– industriutsläppsförordningen (2013:250\)
+– industriutsläppsförordningen (2013:250)
 
 ## Mer information
 
 Författningarna blir offentliga när de publicerats på webbplatsen www.svenskforfattningssamling.se.
 
 **Kontaktpersoner:**
-Skredsäkring: Christoffer Sheats 08\-405 25 27
-Industriutsläppsförordningen: Henrik Jonsson 08\-405 53 08
+Skredsäkring: Christoffer Sheats 08-405 25 27
+Industriutsläppsförordningen: Henrik Jonsson 08-405 53 08

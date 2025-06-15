@@ -1,9 +1,8 @@
 # Tal av minister för civilt försvar Carl-Oskar Bohlin vid Folk och Försvars rikskonferens 2023
 
-Folk och försvars årliga rikskonferens, Sälen, den 9 januari 2023\.
+Folk och försvars årliga rikskonferens, Sälen, den 9 januari 2023.
 
 Det talade ordet gäller.
-
 
 ”Varje medborgare måste vara beredd att till det yttersta göra sin insats i det totala försvaret – inom krigsmakten, civilförsvaret, krigsproduktionen, folkförsörjningen, sjukvården, i hemmen. Var och en måste också veta hur man skyddar sig mot de faror som ett nutida krig medför och inse hur väsentligt det är att också i kritiska lägen bevara lugn och jämvikt.”
 
@@ -27,7 +26,7 @@ Kort sagt, det civila försvaret kan hantera kris, bättre än vad krisberedskap
 
 Personlig beredskap är en solidaritetshandling med sitt land. Att göra sin plikt i det lilla är också att hjälpa till i det stora när läget blir skarpt. Varje invånare i detta land som i normalfallet klarar sig utan hjälp från samhället måste vara beredda att göra det även när samhället är stört i sina mest grundläggande funktioner. Men inte bara det, man måste också klara av att utföra sin totalförsvarsplikt om det skulle komma till det. Och då krävs personlig beredskap.
 
-\-\-\-
+---
 
 Det finns en länk mellan det civila försvar som avvecklades och det som nu ska återuppbyggas. De som aldrig slutade, de osjungna hjältarna som inte tog strategisk time out när politikerna och det offentliga Sverige gjorde det. Jag talar om de 350 000 svenskar som är engagerade i våra frivilliga försvarsorganisationer.
 
@@ -35,11 +34,11 @@ Att säkerställa att dessa organisationer ges goda förutsättningar till utbil
 
 Den nya regeringen har tillträtt i en svår tid präglad av kriser och krig i vårt närområde, vi ska leda Sverige in i Nato och vi tog för en dryg vecka sedan över ordförandeskapet i EU. Det blir ett ordförandeskap präglat av just krig och kris. Den säkerhetspolitiska miljön har inte varit så här osäker sedan andra världskriget.
 
-Återuppbyggnaden av det civila försvaret har påbörjats. I höstas trädde den nya strukturen för samhällets krisberedskap och det civila försvaret i kraft, med beredskapsmyndigheter, sektorsansvariga myndigheter och civilområden på högre regional nivå. I försvarsbeslutet från 2020 utstakades en tydlig bana för upprustningen av det civila försvaret, regeringen höjer nu de anslagen med nästan 1 miljard för 2023\.
+Återuppbyggnaden av det civila försvaret har påbörjats. I höstas trädde den nya strukturen för samhällets krisberedskap och det civila försvaret i kraft, med beredskapsmyndigheter, sektorsansvariga myndigheter och civilområden på högre regional nivå. I försvarsbeslutet från 2020 utstakades en tydlig bana för upprustningen av det civila försvaret, regeringen höjer nu de anslagen med nästan 1 miljard för 2023.
 
-Men låt mig vara uppriktig, vi kommer från mycket låga nivåer och i en tid där varje utgift måste vägas mot andra är det viktigt att vi frågar oss hur vi uppnår maximal förmågeökning per satsad krona. Den nya försvarsberedningen är mycket viktig. Den kommer att lägga grunden för Sveriges nya försvars\- och säkerhetspolitik. Regeringens ambition är att totalförsvaret fortsatt ska stärkas och det civila försvaret utvecklas.
+Men låt mig vara uppriktig, vi kommer från mycket låga nivåer och i en tid där varje utgift måste vägas mot andra är det viktigt att vi frågar oss hur vi uppnår maximal förmågeökning per satsad krona. Den nya försvarsberedningen är mycket viktig. Den kommer att lägga grunden för Sveriges nya försvars- och säkerhetspolitik. Regeringens ambition är att totalförsvaret fortsatt ska stärkas och det civila försvaret utvecklas.
 
-\-\-\-
+---
 
 Civilplikt
 
@@ -53,7 +52,7 @@ För det andra, det finns behov av att säkra Sveriges försörjningsberedskap. 
 
 Den föregående regeringen beslutade om ett tvärsektoriellt näringslivsråd som aldrig besattes. Under hösten har vi arbetat om beslutet och kommer på torsdag att besluta om ett nytt näringslivsråd med bättre förutsättningar att dela information mellan regering och näringsliv med en högre upplösningsnivå för att driva arbetet på detta område framåt.
 
-I år kommer en efterlängtad utredning som ska presentera förslag på en funktion med ansvar för nationell samordning av försörjningsberedskapen samt på principer och former för finansiering av samhällets försörjningsberedskap. Kring detta behöver vi alla vara framåtlutade. I försörjningshänseende kan Sverige lätt bli avskärmat. Just in time\-samhället var också ett av pandemins första offer. Vi behöver tänka och agera samlat kring lagerhållning, försörjningskedjor och produktionsomställning.
+I år kommer en efterlängtad utredning som ska presentera förslag på en funktion med ansvar för nationell samordning av försörjningsberedskapen samt på principer och former för finansiering av samhällets försörjningsberedskap. Kring detta behöver vi alla vara framåtlutade. I försörjningshänseende kan Sverige lätt bli avskärmat. Just in time-samhället var också ett av pandemins första offer. Vi behöver tänka och agera samlat kring lagerhållning, försörjningskedjor och produktionsomställning.
 
 Cyber
 

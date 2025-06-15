@@ -1,7 +1,6 @@
 # Uppdrag att förstärka arbetet för en god inomhusmiljö
 
-Regeringen uppdrar åt Boverket att under åren 2018\-2021 förstärka arbetet för att nya och befintliga byggnader ska vara säkra och ha en god inomhusmiljö.
-
+Regeringen uppdrar åt Boverket att under åren 2018-2021 förstärka arbetet för att nya och befintliga byggnader ska vara säkra och ha en god inomhusmiljö.
 
 Boverket ska samla in, kvalitetssäkra och sprida information om byggnaders inomhusmiljö i syfte att öka medvetenheten om vilka brister i byggnaders inomhusmiljö som kan uppstå, vanliga orsaker till bristerna och hur de kan undvikas eller åtgärdas. Informationen ska grundas på undersökningar av god kvalitet, etablerad forskning och annat kvalitetssäkrat material. Informationen ska utgöra en källa till kunskap om byggnaders inomhusmiljö och göras lätt tillgänglig för berörda målgrupper.
 
@@ -11,7 +10,7 @@ Boverket ska identifiera och utreda systematiska fel inom byggandet och utbredda
 systematiskt fel eller skada. Boverket ska även verka för ökad kunskap om hur fel och skador kan undvikas, utan att hämma den tekniska utvecklingen och med beaktande av byggnadens tekniska egenskapskrav. Under uppdragets genomförande ska Boverket ha en kontinuerlig dialog med
 berörda aktörer såsom byggföretag, tillverkare av byggprodukter, branschorganisationer, myndigheter, forskningsinstitut, försäkringsbolag, och arbetsmarknadens parter.
 
-Boverket får för uppdragets genomförande använda högst 16 miljoner kronor under 2018\. Dessa medel har tillförts utgiftsområde 18 Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik,
-anslaget 1 :4 Boverket. Regeringen avser att avsätta 28 miljoner kronor per år 2019\-2021 för det fortsatta genomförandet av uppdraget. Medlen betalas ut under förutsättning att riksdagen beviljar medel för ändamålet. Uppdraget ska redovisas i delrapporter senast den 31 januari 2019 respektive den 30 september 2020 och en slutrapport senast den 31 december 2021\. I delrapporterna ska Boverket redovisa hur uppdraget fortskrider, vilka resultat som uppnåtts och eventuella behov av förändringar i uppdraget.
+Boverket får för uppdragets genomförande använda högst 16 miljoner kronor under 2018. Dessa medel har tillförts utgiftsområde 18 Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik,
+anslaget 1 :4 Boverket. Regeringen avser att avsätta 28 miljoner kronor per år 2019-2021 för det fortsatta genomförandet av uppdraget. Medlen betalas ut under förutsättning att riksdagen beviljar medel för ändamålet. Uppdraget ska redovisas i delrapporter senast den 31 januari 2019 respektive den 30 september 2020 och en slutrapport senast den 31 december 2021. I delrapporterna ska Boverket redovisa hur uppdraget fortskrider, vilka resultat som uppnåtts och eventuella behov av förändringar i uppdraget.
 
 Boverket får i delrapporterna eller i slutrapporten lämna de författningsförslag som behövs. I slutrapporten ska Boverket redovisa vilka insatser som gjorts och vilka resultat som uppnåtts genom satsningen. Samtliga rapporter ska lämnas till Regeringskansliet (Näringsdepartementet).

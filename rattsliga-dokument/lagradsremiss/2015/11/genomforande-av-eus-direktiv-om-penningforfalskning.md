@@ -6,6 +6,6 @@ Direktivet ersätter ett tidigare rambeslut på samma område och innehåller be
 
 För att genomföra direktivet föreslås att maximistraffet för olovlig befattning med falska pengar, grovt brott, höjs till fängelse i sex år.
 
-Lagändringen föreslås träda i kraft den 1 maj 2016\.
+Lagändringen föreslås träda i kraft den 1 maj 2016.
 
 [Pressmeddelande: Skärpt straff för hantering av falska pengar](/pressmeddelanden/2015/11/skarpt-straff-for-hantering-av-falska-pengar/)

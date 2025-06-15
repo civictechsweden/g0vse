@@ -1,7 +1,6 @@
 # Aktuella jämställdhetsfrågor inom områden som ekonomisk jämställdhet, integration och våld i nära relationer lyftes vid möte med jämställdhetsministern
 
-Den 2 maj träffade jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg företrädare för ett tiotal nätverk och civilsamhällesorganisationer som på olika sätt arbetar för jämställdhet och att öka kvinnors deltagande i samhället och på arbetsmarknaden. Syftet med mötet var att byta erfarenheter och att diskutera aktuella jämställdhetsfrågor.
-
+Den 2 maj träffade jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg företrädare för ett tiotal nätverk och civilsamhällesorganisationer som på olika sätt arbetar för jämställdhet och att öka kvinnors deltagande i samhället och på arbetsmarknaden. Syftet med mötet var att byta erfarenheter och att diskutera aktuella jämställdhetsfrågor.
 
 – För mig är det viktigt att träffa nätverk och organisationer som arbetar med jämställdhet i syfte att skapa förändring. Att få ta del av deras kompetens och perspektiv är något jag prioriterar. En fråga vad gäller ekonomisk jämställdhet är hur vi kan arbeta för att fler kvinnor ska äga och driva företag samt hur vi ska komma framåt i frågor som bidrar till integration, säger jämställdhetsminister och biträdande arbetsmarknadsminister Paulina Brandberg.
 

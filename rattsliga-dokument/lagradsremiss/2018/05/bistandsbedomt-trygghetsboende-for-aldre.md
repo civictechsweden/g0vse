@@ -12,7 +12,7 @@ Boendeformen bryter också den isolering som många äldre lider av när de bor 
 
 ### Hemsjukvård
 
-Bestämmelser om dygnet runt\-bemanning gäller inte för biståndsbedömt trygghetsboende. Om den äldres behov ökar bör han eller hon byta till ett mer lämpligt boende. Vid biståndsbedömt trygghetsboende ansvarar kommunen inte för hälso\- och sjukvård. Vid biståndsbedömt trygghetsboende får landstinget till kommunen överlåta sin skyldighet att erbjuda hemsjukvård. Detta om landstinget och kommunen är överens.
+Bestämmelser om dygnet runt-bemanning gäller inte för biståndsbedömt trygghetsboende. Om den äldres behov ökar bör han eller hon byta till ett mer lämpligt boende. Vid biståndsbedömt trygghetsboende ansvarar kommunen inte för hälso- och sjukvård. Vid biståndsbedömt trygghetsboende får landstinget till kommunen överlåta sin skyldighet att erbjuda hemsjukvård. Detta om landstinget och kommunen är överens.
 
 ### IVO ger tillstånd
 

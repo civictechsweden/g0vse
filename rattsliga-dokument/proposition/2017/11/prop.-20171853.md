@@ -1,9 +1,8 @@
 # Nya regler i arbetslöshetsförsäkringen om bland annat förtroendeuppdrag och pension
 
-Propositionen innehåller förslag till ändringar i lagen (1997:238\) om
-arbetslöshetsförsäkring och lagen (1997:239\) om arbetslöshetskassor.
-
-Lagändringarna föreslås träda i kraft den 2 juli 2018\.
+Propositionen innehåller förslag till ändringar i lagen (1997:238) om
+arbetslöshetsförsäkring och lagen (1997:239) om arbetslöshetskassor.
+Lagändringarna föreslås träda i kraft den 2 juli 2018.
 
 I lagen om arbetslöshetsförsäkring föreslås en tydlig reglering av förtroendeuppdrag i arbetslöshetsförsäkringen.
 
@@ -19,4 +18,4 @@ I lagen om arbetslöshetskassor föreslås att
 * rätten att bli medlem i en arbetslöshetskassa ska gälla till månadsskiftet före den månad då den som ansöker om medlemskap fyller 65 år.
 * Vidare föreslås att det ska vara möjligt för en arbetslöshetskassas styrelse att delegera vissa beslut om fortsatt medlemskap till kassaföreståndaren.
 
-Lagändringarna föreslås träda i kraft den 2 juli 2018\.
+Lagändringarna föreslås träda i kraft den 2 juli 2018.

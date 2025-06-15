@@ -25,4 +25,4 @@ förslag på förändringar i skattereglerna med anledning av det nya
 avvecklingsförfarandet. Ändringarna innebär att förenklad avveckling vid
 tillämpningen av vissa bestämmelser får samma inkomstskattekonsekvenser som likvidation. Det lämnas även förslag på en ändring i reglerna gällande behandling av uppgifter i Skatteverket beskattningsdatabas.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2018\.
+Lagändringarna föreslås träda i kraft den 1 juli 2018.

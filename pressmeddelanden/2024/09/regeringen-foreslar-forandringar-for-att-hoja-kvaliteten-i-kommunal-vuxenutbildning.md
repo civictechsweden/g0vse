@@ -2,7 +2,7 @@
 
 Det finns i dag allvarliga kvalitetsbrister inom kommunal vuxenutbildning (komvux). Utbildningsformen har ett komplext system där många aktörer ingår och flexibiliteten är långtgående, vilket gör det svårt att skapa en överblick och helhetssyn i systemet.
 
-I budgetpropositionen för 2025 föreslår regeringen därför en höjning av Skolinspektionens förvaltningsanslag med 7 miljoner kronor för 2025\. Anslaget beräknas öka med 10 miljoner kronor för 2026 och 12 miljoner kronor från och med 2027\. Syftet är att stärka myndighetens kapacitet att prioritera, utveckla och utöka sin granskning av komvux, och bidra till stärkt kvalitet.
+I budgetpropositionen för 2025 föreslår regeringen därför en höjning av Skolinspektionens förvaltningsanslag med 7 miljoner kronor för 2025. Anslaget beräknas öka med 10 miljoner kronor för 2026 och 12 miljoner kronor från och med 2027. Syftet är att stärka myndighetens kapacitet att prioritera, utveckla och utöka sin granskning av komvux, och bidra till stärkt kvalitet.
 
 – Eleverna inom komvux har rätt att förvänta sig en kvalitativ yrkesutbildning. Med detta förslag kommer Skolinspektionen få större möjligheter att verka för god kvalitet i vuxenutbildningen. Att vuxenutbildningen är välfungerande, likvärdig och av hög kvalitet är viktigt för att trygga den nationella kompetensförsörjningen nu och framåt, säger utbildningsminister Johan Pehrson.
 

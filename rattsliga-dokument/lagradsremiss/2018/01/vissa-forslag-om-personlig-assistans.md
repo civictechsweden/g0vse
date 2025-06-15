@@ -8,4 +8,4 @@ I lagrådsremissen föreslås också ändringar i lagen om stöd och service til
 * tid under den enskildes dygnsvila när en assistent i stället behöver finnas till förfogande på annan plats i väntan på att den enskilde behöver hjälp (beredskap), och
 * tid när en assistent behöver vara närvarande i samband med en aktivitet utanför den enskildes hem på grund av att ett hjälpbehov kan förväntas uppstå.
 
-Lagändringarna föreslås träda i kraft den 1 april 2018\.
+Lagändringarna föreslås träda i kraft den 1 april 2018.

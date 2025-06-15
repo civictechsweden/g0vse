@@ -4,12 +4,11 @@
 
 Det talade ordet gäller.
 
-
-Tack för att jag får komma hit till Åre och delta i firandet av Sametingets 30\-årsjubileum!
+Tack för att jag får komma hit till Åre och delta i firandet av Sametingets 30-årsjubileum!
 
 Som kulturminister har jag ansvar för samiska språk och kultur. Med min bakgrund som lärare och rektor ligger frågor om språk och litteratur, särskilt för barn och unga, mig varmt om hjärtat. Jag är glad att se den positiva utvecklingen för arbetet med samiska språk.
 
-Samiskan vinner mark i de unga generationerna, och samisk kultur och identitet, den samiska levda erfarenheten, får en allt större plats i det svenska kultur\- och samhällslivet. Fler får upp ögonen för att den samiska kulturen är en del av den svenska kulturen.
+Samiskan vinner mark i de unga generationerna, och samisk kultur och identitet, den samiska levda erfarenheten, får en allt större plats i det svenska kultur- och samhällslivet. Fler får upp ögonen för att den samiska kulturen är en del av den svenska kulturen.
 
 I förra veckan nåddes jag av nyheten att Mittuniversitetet startar en helt ny språkutbildning i sydsamiska, och nästa års bokmässa i Göteborg kommer att ha Sápmi som tema.  Arrangörerna utlovar många spännande frågor om samisk kultur och mångfalden inom samisk litteratur, inklusive muntlig och skriftlig tradition.
 
@@ -21,7 +20,7 @@ Låt mig ta tillfället i akt att tacka dig Håkan, styrelsen och plenum för de
 
 Jag vill också rikta mitt varma tack till Sametingets kansli.
 
-Det har hänt mycket på de trettio år som gått sen Sametinget bildades 1993\. Att Sametinget sedan sitt grundande lyft och drivit frågor har varit av avgörande betydelse för att forma den politik som förts.
+Det har hänt mycket på de trettio år som gått sen Sametinget bildades 1993. Att Sametinget sedan sitt grundande lyft och drivit frågor har varit av avgörande betydelse för att forma den politik som förts.
 
 För trettio år sen hade vi ingen konsultationsordning och inga förvaltningskommuner för samiska.
 

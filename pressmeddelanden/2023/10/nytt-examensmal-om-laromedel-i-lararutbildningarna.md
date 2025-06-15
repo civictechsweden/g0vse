@@ -2,7 +2,7 @@
 
 En statlig utredning har konstaterat att blivande lärare under sina utbildningar inte får tillräcklig förberedelse om val och användning av läromedel. Både lärare och lärarstudenter har beskrivit att de saknat inslag om läromedel.
 
-Det nya examensmålet kommer därför lyda att studenten för examen ska visa förmåga att använda och värdera läroböcker, andra läromedel och andra lärverktyg. På detta sätt vill regeringen säkerställa att alla lärarutbildningar behandlar väsentliga frågor om läromedel. Detta kan på sikt bidra till att stärka undervisningen och därmed gynna elevernas kunskapsutveckling. Examensmålet börjar gälla den 1 juli 2024\.
+Det nya examensmålet kommer därför lyda att studenten för examen ska visa förmåga att använda och värdera läroböcker, andra läromedel och andra lärverktyg. På detta sätt vill regeringen säkerställa att alla lärarutbildningar behandlar väsentliga frågor om läromedel. Detta kan på sikt bidra till att stärka undervisningen och därmed gynna elevernas kunskapsutveckling. Examensmålet börjar gälla den 1 juli 2024.
 
 – Läromedel av hög kvalitet är avgörande för elevernas lärande. Därför behöver studenter på lärarutbildningarna utbildas i att använda och värdera läroböcker samt andra läromedel och lärverktyg. Med det nya examensmålet stärker vi medvetenheten och kunskapen om läromedel, säger utbildningsminister Mats Persson.
 

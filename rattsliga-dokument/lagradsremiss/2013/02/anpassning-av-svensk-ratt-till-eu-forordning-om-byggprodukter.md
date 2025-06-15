@@ -1,3 +1,3 @@
 # Anpassning av svensk rätt till EU-förordning om byggprodukter
 
-I lagrådsremissen föreslås ändringar i plan\- och bygglagen (2010:900\). De föreslagna ändringarna innebär att svensk rätt anpassas till Europa\-parlamentets och rådets förordning (EU) nr 305/2011 av den 9 mars 2011 om fastställande av harmoniserade villkor för saluföring av byggprodukter och om upphävande av rådets direktiv 89/106/EG (byggproduktförordningen). Lagförslagen föreslås träda i kraft den 1 juli 2013\.
+I lagrådsremissen föreslås ändringar i plan- och bygglagen (2010:900). De föreslagna ändringarna innebär att svensk rätt anpassas till Europa-parlamentets och rådets förordning (EU) nr 305/2011 av den 9 mars 2011 om fastställande av harmoniserade villkor för saluföring av byggprodukter och om upphävande av rådets direktiv 89/106/EG (byggproduktförordningen). Lagförslagen föreslås träda i kraft den 1 juli 2013.

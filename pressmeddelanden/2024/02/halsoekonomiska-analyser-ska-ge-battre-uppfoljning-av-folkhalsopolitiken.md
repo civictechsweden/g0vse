@@ -17,4 +17,4 @@ Riksdagen har tillkännagett för regeringen att en bred och gedigen utvärderin
 
 ­– Systembolagets monopol är en av grundstenarna i svensk alkoholpolitik och viktigt för folkhälsan. I Sverige har vi valt att ha strikta regler kring försäljning och marknadsföring av alkoholdrycker för att det ger goda effekter på folkhälsan.
 
-Uppdraget ska slutredovisas senast den 31 oktober 2025\.
+Uppdraget ska slutredovisas senast den 31 oktober 2025.

@@ -6,7 +6,7 @@ IOSCO har bedömt att den omständigheten att Finansinspektionen i dag saknar be
 
 Det föreslås därför att Finansinspektionen, efter begäran från en tillsynsmyndighet i ett annat land med vilken inspektionen har ingått avtal om samarbete (samförståndsavtal), i den utsträckning som följer av avtalet, ska få befogenhet att lämna eller kontrollera information som behövs för att den utländska myndigheten ska kunna utöva sin tillsyn. Detta bör inte gälla enbart beträffande IOSCO:s samförståndsavtal utan även andra avtal om tillsynssamarbete som Finansinspektionen har ingått eller ingår med stöd av regeringens bemyndigande. Förslaget innebär att Finansinspektionen får begära att ett företag eller någon annan tillhandahåller uppgifter, handlingar eller annat. Det innebär vidare att den som förväntas kunna lämna upplysningar i saken inställer sig till förhör också när det uppförande som utreds inte har något samband med Finansinspektionens egen tillsynsverksamhet utan enbart grundar sig på en begäran från en tillsynsmyndighet i tredjeland med vilken inspektionen med stöd av regeringens bemyndigande har ingått avtal om samarbete.
 
-Lagändringarna föreslås träda i kraft den 1 mars 2011\.
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+Lagändringarna föreslås träda i kraft den 1 mars 2011.
+------------------------------------------------------
 
 Riksdagen fattade den 2 december 2010 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

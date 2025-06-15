@@ -6,4 +6,4 @@ I promemorian lämnas förslag som innebär att det under de första fem åren s
 
 Motsvarande ändringar föreslås även för utbetalning från pensionssparkonto (IPS).
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2025\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2025.

@@ -14,8 +14,8 @@ Tilläggsdirektiven innehåller frågor om
 * EU:s vapenpass, och
 * tydligare regler om ljuddämpare och vapensamlingar.
 
-Tiden för vapenutredningens uppdrag förlängs. Uppdraget ska redovisas senast den 10 maj 2024\.
+Tiden för vapenutredningens uppdrag förlängs. Uppdraget ska redovisas senast den 10 maj 2024.
 
-Regeringen har för avsikt att återkomma till frågan om att tillsätta en utredning av formerna för en ny jakt\- och viltvårdsmyndighet.
+Regeringen har för avsikt att återkomma till frågan om att tillsätta en utredning av formerna för en ny jakt- och viltvårdsmyndighet.
 
 Tilläggsdirektivet bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

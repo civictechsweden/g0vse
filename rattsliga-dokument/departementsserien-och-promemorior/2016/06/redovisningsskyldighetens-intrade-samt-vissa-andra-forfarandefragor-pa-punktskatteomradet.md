@@ -14,4 +14,4 @@ av ansökningar, förelägganden och dokumentationsskyldighet i samband med åte
 Förslaget föranleder ändringar i lagen om tobaksskatt,
 lagen om alkoholskatt, lagen om skatt på energi, lagen om punktskattekontroll av transporter m.m. av alkoholvaror, tobaksvaror och energiprodukter, lagen om behandling av uppgifter i Skatteverkets beskattningsverksamhet och skatteförfarandelagen.
 
-Ändringarna föreslås träda i kraft den 1 januari 2018\.
+Ändringarna föreslås träda i kraft den 1 januari 2018.

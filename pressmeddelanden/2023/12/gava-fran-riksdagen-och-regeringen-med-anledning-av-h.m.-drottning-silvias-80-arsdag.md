@@ -2,7 +2,7 @@
 
 –  Med gåvan vill vi uppmärksamma en fantastisk företrädare för vårt land. Vår förhoppning är att gåvan ska bidra till utsmyckningen på Slottet med ett föremål som lyfter fram vår drottning, sa talman Andreas Norlén vid överlämnandet av gåvan.
 
-– Drottningen är en sann vägvisare och har genom åren varit banbrytande för att uppmärksamma svåra men viktiga frågor. Låt den här gåvan bli symbol för en stark kvinnlig förebild och en symbol för Sverige. Eller som konstnären själv beskrev sitt hantverk \- ”en bro mellan dåtid, nutid och framtid”, säger statsminister Ulf Kristersson.
+– Drottningen är en sann vägvisare och har genom åren varit banbrytande för att uppmärksamma svåra men viktiga frågor. Låt den här gåvan bli symbol för en stark kvinnlig förebild och en symbol för Sverige. Eller som konstnären själv beskrev sitt hantverk - ”en bro mellan dåtid, nutid och framtid”, säger statsminister Ulf Kristersson.
 
 ## Gåvan
 

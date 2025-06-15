@@ -10,6 +10,6 @@ Utredaren ska bland annat
 * analysera om det bör vara möjligt att i vissa fall dröja med att underrätta om ett beslag när den som beslaget görs hos inte är närvarande, och
 * lämna fullständiga författningsförslag.
 
-Uppdraget ska redovisas senast den 28 september 2017\.
+Uppdraget ska redovisas senast den 28 september 2017.
 
 [Pressmeddelande: Regeringen vill se effektivare beslag och husrannsakan](/pressmeddelanden/2016/03/regeringen-vill-se-effektivare-beslag-och-husrannsakan/)

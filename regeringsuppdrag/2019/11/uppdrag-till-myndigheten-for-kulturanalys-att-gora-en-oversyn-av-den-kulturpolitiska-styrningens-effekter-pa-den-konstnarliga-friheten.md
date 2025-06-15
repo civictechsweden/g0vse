@@ -6,4 +6,4 @@ I uppdraget ingår att analysera hur de kulturpolitiska insatserna kan påverka 
 
 ### Framställning från Myndigheten för kulturanalys om förlängd tid för uppdraget
 
-Tiden för genomförande av uppdraget förlängs. Uppdraget ska istället redovisas till regeringen (Kulturdepartementet) senast den 10 juni 2021\.
+Tiden för genomförande av uppdraget förlängs. Uppdraget ska istället redovisas till regeringen (Kulturdepartementet) senast den 10 juni 2021.

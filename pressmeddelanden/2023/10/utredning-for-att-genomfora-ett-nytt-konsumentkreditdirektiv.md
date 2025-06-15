@@ -12,4 +12,4 @@ I uppdraget ingår att
 * ta ställning till de alternativa tillvägagångssätt och valmöjligheter som direktivet erbjuder, och
 * lämna nödvändiga författningsförslag och förslag på andra åtgärder.
 
-Uppdraget ska redovisas senast den 11 oktober 2024\.
+Uppdraget ska redovisas senast den 11 oktober 2024.

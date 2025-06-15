@@ -2,14 +2,13 @@
 
 Sveriges regering består av Moderaterna (M), Kristdemokraterna (KD) och Liberalerna (L). Regeringen leds av statsminister Ulf Kristersson. Samarbetsparti utanför regeringen är Sverigedemokraterna (SD). Till grund för samarbetet ligger Tidöavtalet.
 
-
 Regeringspartierna har, tillsammans med samarbetspartiet Sverigedemokraterna, enats om sex samarbetsprojekt. Inom ramen för dessa ska politiska reformer utarbetas och genomföras för att lösa Sveriges viktigaste samhällsproblem. Samarbetsprojekten är:
 
 * tillväxt och hushållsekonomi,
 * kriminalitet,
 * migration och integration,
 * klimat och energi,
-* hälso\- och sjukvård samt
+* hälso- och sjukvård samt
 * skola.
 
 Utöver samarbetsprojekten så kommer partierna samarbeta i ett antal frågor som bland annat rör kultur och demokrati.
@@ -24,15 +23,15 @@ Samhällsproblemen med kriminalitet och gängbrottslighet ska lösas. Målet är
 
 ## Migration och integration
 
-Sverige ska ha en ansvarsfull migrationspolitik som är i enlighet med de bindande internationella regler som Sverige åtagit sig att följa. Det innebär bland annat att asylrätten kommer att upprätthållas. Utgångspunkten ska vara att tillfälligt skydd ska erbjudas för den som flyr en konflikt eller kris och för den som flyr Sveriges närområde. En kravbaserad integrationspolitik ska införas. Den som långvarigt befinner sig i landet ska ansvara för att bli en del av det svenska samhället.
+Regeringen genomför ett ansvarsfullt och långsiktigt hållbart paradigmskifte på migrationsområdet. Sverige har gått från att i första hand vara ett land för asylinvandring till att nu vara ett land för arbetskraftsinvandring. Sverige behöver fortsätta attrahera utländska experter, forskare och talanger för att stärka den svenska konkurrenskraften och Sverige som forskarnation. En minskad asylinvandring skapar bättre förutsättningar för en lyckad integration. Regeringen tror på varje individs drivkraft. Integrationspolitiken ska möjliggöra för att fler bidrar till det svenska samhället.
 
 ## Klimat och energi
 
 Sverige ska ha ett robust elsystem med låga elpriser. Förutsättningar för planerbara fossilfria kraftslag ska förbättras för att öka produktionen av ren el. Inom klimatpolitiken förbättras förutsättningarna för att industrin och transporterna ska kunna ställa om och bidra till en effektiv klimatomställning.
 
-## Hälso\- och sjukvård
+## Hälso- och sjukvård
 
-Politiska reformer ska utarbetas och genomföras för att kapa vårdköerna, öka tillgängligheten, förbättra effektiviteten och jämlikheten i hälso\- och sjukvården samt förbättra arbetsmiljö och kompetensförsörjning för anställda inom vården. Patientens bästa ska vara i centrum för reformarbetet. Det statliga ansvaret för vården ska utredas och successivt ökas samtidigt som sjukvårdens långsiktiga organisation utreds.
+Politiska reformer ska utarbetas och genomföras för att kapa vårdköerna, öka tillgängligheten, förbättra effektiviteten och jämlikheten i hälso- och sjukvården samt förbättra arbetsmiljö och kompetensförsörjning för anställda inom vården. Patientens bästa ska vara i centrum för reformarbetet. Det statliga ansvaret för vården ska utredas och successivt ökas samtidigt som sjukvårdens långsiktiga organisation utreds.
 
 ## Skola
 
@@ -42,6 +41,6 @@ Kunskapsresultaten i den svenska skolan ska lyftas och trygghet och arbetsro ska
 
 Det säkerhetspolitiska läget innebär att det svenska försvaret behöver stärkas. Sverige ska tillsammans med Finland fullfölja anslutningsprocessen till Nato. Stöd ska ges till det krigsdrabbade Ukraina – politiskt, ekonomiskt och säkerhetsmässigt. Ett långsiktigt och sammanhållet program för såväl civil återuppbyggnad som militärt stöd ska utformas.
 
-## EU\-samarbetet
+## EU-samarbetet
 
 Det första halvåret 2023 är Sverige ordförande i EU:s ministerråd. EU är Sveriges viktigaste utrikespolitiska plattform och Sverige ska vara en aktiv, engagerad och pådrivande medlem i EU – före, under och efter ordförandeskapet.

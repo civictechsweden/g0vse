@@ -4,6 +4,6 @@ I lagrådsremissen föreslås ett förtydligande av att det är myndigheter och 
 
 Av de åtgärdsprogram som tas fram för att följa en miljökvalitetsnorm ska det framgå hur kraven på förbättringar fördelas mellan olika typer av källor och åtgärder, hur stora förbättringar varje åtgärd innebär och hur åtgärderna är avsedda att finansieras.
 
-I lagrådsremissen föreslås också en ändring i fråga om miljöorganisationers talerätt enligt 16 kap. 13 § miljöbalken som innebär att talerätten utvidgas. Ändringen är föranledd av ett avgörande från EU\-domstolen.
+I lagrådsremissen föreslås också en ändring i fråga om miljöorganisationers talerätt enligt 16 kap. 13 § miljöbalken som innebär att talerätten utvidgas. Ändringen är föranledd av ett avgörande från EU-domstolen.
 
-De föreslagna ändringarna medför följdändringar i lagar som hänvisar till miljöbalkens bestämmelser. Samtliga ändringar planeras träda i kraft den 1 september 2010\.
+De föreslagna ändringarna medför följdändringar i lagar som hänvisar till miljöbalkens bestämmelser. Samtliga ändringar planeras träda i kraft den 1 september 2010.

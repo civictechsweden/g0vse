@@ -2,7 +2,6 @@
 
 På denna sida finner du en länk till domen i fulltext samt en svensk sammanfattning av domen.
 
-
 ### Sammanfattning
 
 Bakgrunden till målet var ett beslut från Konkurrensverket som innebar att en klausul i ett kollektivavtal mellan Svenska Transportarbetareförbundet och Svenska Tidningsutgivareföreningen inte längre fick tillämpas. Förbundet gjorde bl.a. gällande inför Europadomstolen att dess rätt till tillgång till domstolsprövning enligt artikel 6 § 1 i konventionen kränkts i och med att man inte kunnat överklaga Konkurrensverkets beslut trots att det påverkade förbundet och dess medlemmar negativt.

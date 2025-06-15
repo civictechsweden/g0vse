@@ -2,7 +2,6 @@
 
 Den 4 mars 2022 fördömde Sverige å det kraftfullaste den oprovocerade, olagliga och oförsvarliga ryska invasionen av Ukraina. Rysslands agerande är en attack på den europeiska säkerhetsordningen och de europeiska länderna står nu enade i solidaritet med Ukraina och det ukrainska folket. Omfattande sanktioner har införts på kort tid mot Ryssland och den ryska statsledningen. Regeringen fortsätter nu att driva på sanktioner mot Ryssland, stötta Ukraina och stärka Sverige.
 
-
 Detta gäller för kultursamarbeten mellan svenska kulturinstitutioner och myndigheter, och Ryssland och Belarus:
 
 * Regeringen uppmanar till att kontakter och samarbeten med statliga institutioner i Ryssland och Belarus omedelbart upphör och att inga nya kontakter eller åtaganden initieras.

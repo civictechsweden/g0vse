@@ -6,4 +6,4 @@ I en promemoria föreslås nu att den som en gång har använt minst 22 veckor m
 
 – Nu tar vi ytterligare ett steg för att stärka Sveriges och våra företags konkurrenskraft, säkra kompetensförsörjningen och främja det livslånga lärandet. Återkvalificering till omställningsstudiestödet kommer att underlätta för yrkesverksamma som redan har ställt om en gång, arbetat en längre tid och som på nytt behöver utbildning för att kunna möta arbetsmarknadens föränderliga behov, säger utbildningsminister Mats Persson.
 
-Fler veckor med stöd kan bli aktuellt tidigast 2038\.
+Fler veckor med stöd kan bli aktuellt tidigast 2038.

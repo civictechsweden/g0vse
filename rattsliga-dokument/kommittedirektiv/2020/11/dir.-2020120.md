@@ -11,4 +11,4 @@ Utredaren ska bl.a.
 * analysera om anställningsvillkoren för myndighetschefer bör anpassas för en situation då en myndighetschef i samband med en förflyttning får ändrade arbetsuppgifter, och
 * lämna förslag på nödvändiga författningsändringar.
 
-Uppdraget ska redovisas senast den 19 november 2021\.
+Uppdraget ska redovisas senast den 19 november 2021.

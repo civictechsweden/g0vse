@@ -6,6 +6,6 @@ arbetsgivaravgifter för personer som vid årets ingång har fyllt 18 men inte 2
 Förstärkningen av nedsättningen innebär att för ersättning som utges
 under juni, juli och augusti 2022 ska bara ålderspensionsavgiften på 10,21 procent betalas.
 
-Bestämmelserna föreslås träda i kraft den 1 juni 2022 och tillämpas på ersättning som utges under perioden 1 juni–31 augusti 2022\.
+Bestämmelserna föreslås träda i kraft den 1 juni 2022 och tillämpas på ersättning som utges under perioden 1 juni–31 augusti 2022.
 
-Remissvaren ska ha kommit in till Finansdepartementet senast den 3 december 2021\.
+Remissvaren ska ha kommit in till Finansdepartementet senast den 3 december 2021.

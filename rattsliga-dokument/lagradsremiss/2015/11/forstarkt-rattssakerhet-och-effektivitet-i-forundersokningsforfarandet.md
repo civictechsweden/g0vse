@@ -9,4 +9,4 @@ Regeringen föreslår bland annat
 * att det ska framgå av lag att den som ska kroppsvisiteras eller kroppsbesiktigas får tas med till den plats där åtgärden ska verkställas, och
 * att beslag av föremål som kan ha betydelse som bevisning som huvudregel ska bestå till dess att domen får laga kraft även om domen är frikännande.
 
-Förslagen föreslås träda i kraft den 1 juli 2016\.
+Förslagen föreslås träda i kraft den 1 juli 2016.

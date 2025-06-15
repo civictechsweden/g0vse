@@ -5,4 +5,4 @@ En särskild utredare ska genomföra en samlad utvärdering av 2008 års tandvå
 – analysera besöksfrekvensen i olika grupper,
 – föreslå vilken eller vilka aktörer som bör ha det övergripande ansvaret för information om det statliga tandvårdsstödet.
 
-Uppdraget ska redovisas senast den 31 augusti 2015\.
+Uppdraget ska redovisas senast den 31 augusti 2015.

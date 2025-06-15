@@ -6,4 +6,4 @@ etableringslots enligt lagen om etableringsinsatser för vissa
 nyanlända invandrare ska upphöra att gälla.
 
 I propositionen föreslås att detta krav ska upphöra att gälla den 1
-januari 2016\.
+januari 2016.

@@ -1,5 +1,41 @@
 [
     {
+        "title": "Ny industristrategi ska öka Sveriges konkurrenskraft",
+        "url": "/debattartiklar/2025/06/ny-industristrategi-ska-oka-sveriges-konkurrenskraft/",
+        "published": "2025-06-12",
+        "updated": null,
+        "types": [
+            "1333"
+        ],
+        "senders": [
+            "2612",
+            "2613",
+            "2628",
+            "1291"
+        ],
+        "summary": "Debattartikel av energi- och näringsminister Ebba Busch, finansminister Elisabeth Svantesson och klimat- och miljöminister Romina Pourmokhtari, Dagens Industri, den 12 juni 2025.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Informationsmaterial: Sveriges industristrategi: för en teknikledande och konkurrenskraftig industri i en ny omvärld\n",
+                "url": "/informationsmaterial/2025/06/sveriges-industristrategi-for-en-teknikledande-och-konkurrenskraftig-industri-i-en-ny-omvarld/"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen lanserar strategi för en teknikledande och konkurrenskraftig industri\n",
+                "url": "/pressmeddelanden/2025/06/regeringen-lanserar-strategi-for-en-teknikledande-och-konkurrenskraftig-industri/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2282",
+            "1252",
+            "1257",
+            "1262",
+            "1274",
+            "2749"
+        ]
+    },
+    {
         "title": "Nya åtgärder för att stärka digitala infrastrukturen",
         "url": "/debattartiklar/2025/06/nya-atgarder-for-att-starka-digitala-infrastrukturen/",
         "published": "2025-06-04",
@@ -16,9 +52,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2614",
-            "1285",
             "1238",
             "2790"
         ]
@@ -42,12 +75,8 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2619",
-            "2627",
-            "1286",
-            "1294",
-            "1277"
+            "1277",
+            "2781"
         ]
     },
     {
@@ -68,25 +97,20 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Explosiva varor – en ändamålsenlig hantering av tillstånd och tillsyn, Prop. 2024/25:163",
+                "name": "Explosiva varor – en ändamålsenlig hantering av tillstånd och tillsyn, Prop. 2024/25:163\n",
                 "url": "/rattsliga-dokument/proposition/2025/05/prop.-202425163"
             },
             {
-                "name": "Nationell strategi mot organiserad brottslighet",
+                "name": "Nationell strategi mot organiserad brottslighet\n",
                 "url": "/regeringens-politik/nationell-strategi-mot-organiserad-brottslighet/"
             },
             {
-                "name": "Minska tillgången på illegala vapen och explosiva varor",
+                "name": "Minska tillgången på illegala vapen och explosiva varor\n",
                 "url": "/regeringens-politik/nationell-strategi-mot-organiserad-brottslighet/minska-tillgangen-pa-illegala-vapen-och-explosiva-varor/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2611",
-            "2615",
-            "1286",
-            "1287",
             "2248",
             "1241",
             "2710"
@@ -115,15 +139,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "2619",
-            "2621",
-            "2605",
-            "1291",
-            "1293",
-            "1294",
-            "1295",
             "2740",
             "1012",
             "1013",
@@ -145,12 +160,18 @@
         ],
         "summary": "Debattartikel av socialminister Jakob Forssmed. Dagens Industri, den 20 maj 2025.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Nya uppdrag för att stärka den nationella digitala infrastrukturen för hälso- och sjukvården\n",
+                "url": "/pressmeddelanden/2025/05/nya-uppdrag-for-att-starka-den-nationella-digitala-infrastrukturen-for-halso--och-sjukvarden/"
+            },
+            {
+                "name": "Europeiska kommissionens webbplats\n             - extern webbplats,\n",
+                "url": "https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space-regulation-ehds_sv"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2616",
-            "1292",
             "1238",
             "2655",
             "1233",
@@ -179,12 +200,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2754",
-            "2621",
-            "2605",
-            "1293",
-            "1295",
             "1279",
             "2584",
             "1012",
@@ -211,11 +226,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2626",
-            "2628",
-            "1291",
-            "2425",
             "1243",
             "2212"
         ]
@@ -241,13 +251,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2611",
-            "2614",
-            "2628",
-            "1285",
-            "1286",
-            "1291",
             "1218",
             "2248",
             "1242",
@@ -276,14 +279,14 @@
         ],
         "summary": "Debattartikel av försvarsminister Pål Jonson och klimat- och miljöminister Romina Pourmokhtari. Expressen, den 10 april 2025.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Snabbare beslutsprocesser och uppdaterade miljötillstånd ökar Sveriges försvarsförmåga\n",
+                "url": "/pressmeddelanden/2025/04/snabbare-beslutsprocesser-och-uppdaterade-miljotillstand-okar-sveriges-forsvarsformaga/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2627",
-            "2628",
-            "1286",
-            "1291",
             "2247",
             "1252",
             "2675",
@@ -311,13 +314,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2613",
-            "2616",
-            "2619",
-            "1285",
-            "1292",
-            "1294",
             "2655",
             "2747",
             "2212"
@@ -343,39 +339,32 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen föreslår omfattande åtgärder för att minska övergödningen, skydda marina områden och rädda fiskbestånden",
+                "name": "Pressmeddelande: Regeringen föreslår omfattande åtgärder för att minska övergödningen, skydda marina områden och rädda fiskbestånden\n",
                 "url": "/pressmeddelanden/2024/06/regeringen-foreslar-omfattande-atgarder-for-att-minska-overgodningen-skydda-marina-omraden-och-radda-fiskbestanden/"
             },
             {
-                "name": "Proposition: Ett levande hav – ökat skydd, minskad övergödning och ett hållbart fiske Prop. 2023/24:156",
+                "name": "Proposition: Ett levande hav – ökat skydd, minskad övergödning och ett hållbart fiske Prop. 2023/24:156\n",
                 "url": "/rattsliga-dokument/proposition/2024/06/prop.-202324156"
             },
             {
-                "name": "Pressmeddelande: Nämdöskärgårdens nationalpark föreslås bli Sveriges första marina nationalpark i Östersjön",
+                "name": "Pressmeddelande: Nämdöskärgårdens nationalpark föreslås bli Sveriges första marina nationalpark i Östersjön\n",
                 "url": "/pressmeddelanden/2025/03/namdoskargardens-nationalpark-foreslas-bli-sveriges-forsta-marina-nationalpark-i-ostersjon/"
             },
             {
-                "name": "Pressmeddelande: Regeringen ger uppdrag om åtgärder för hav och vatten",
+                "name": "Pressmeddelande: Regeringen ger uppdrag om åtgärder för hav och vatten\n",
                 "url": "/pressmeddelanden/2024/12/regeringen-ger-uppdrag-om-atgarder-for-hav-och-vatten/"
             },
             {
-                "name": "Pressmeddelande: Satsning på 260 miljoner kronor för miljöåtgärder som ska stärka biologiska mångfalden på land och i hav och vattendrag",
+                "name": "Pressmeddelande: Satsning på 260 miljoner kronor för miljöåtgärder som ska stärka biologiska mångfalden på land och i hav och vattendrag\n",
                 "url": "/pressmeddelanden/2024/09/satsning-pa-260-miljoner-kronor-for-miljoatgarder-som-ska-starka-biologiska-mangfalden-pa-land-och-i-hav-och-vattendrag/"
             },
             {
-                "name": "Pressmeddelande: Utredning presenteras om Sveriges tillträde till det nya globala avtalet till skydd för miljön i världshavet",
+                "name": "Pressmeddelande: Utredning presenteras om Sveriges tillträde till det nya globala avtalet till skydd för miljön i världshavet\n",
                 "url": "/pressmeddelanden/2025/03/utredning-presenteras-om-sveriges-tilltrade-till-det-nya-globala-avtalet-till-skydd-for-miljon-i-varldshavet/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2754",
-            "2626",
-            "2628",
-            "1291",
-            "2425",
-            "1293",
             "1243",
             "1252",
             "1012"
@@ -397,16 +386,14 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Största stödpaketet till Ukraina hittills höjer det svenska stödet för 2025 till 29,5 miljarder kronor",
+                "name": "Pressmeddelande: Största stödpaketet till Ukraina hittills höjer det svenska stödet för 2025 till 29,5 miljarder kronor\n",
                 "url": "/pressmeddelanden/2025/03/storsta-stodpaketet-till-ukraina-hittills-hojer-det-svenska-stodet-for-2025-till-295-miljarder-kronor/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2611",
-            "1286",
             "2248",
+            "2212",
             "2584",
             "2703"
         ]
@@ -428,9 +415,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2619",
-            "1294",
             "1277",
             "2701"
         ]
@@ -451,19 +435,16 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Försäkringskassan ska utveckla arbetet med socialfondsprojekt för att få fler att närma sig arbetsmarknaden",
+                "name": "Pressmeddelande: Försäkringskassan ska utveckla arbetet med socialfondsprojekt för att få fler att närma sig arbetsmarknaden\n",
                 "url": "/pressmeddelanden/2025/03/forsakringskassan-ska-utveckla-arbetet-med-socialfondsprojekt-for-att-fa-fler-att-narma-sig-arbetsmarknaden/"
             },
             {
-                "name": "Regeringsuppdrag: Uppdrag till Försäkringskassan att säkerställa genomförande av socialfondsprojekt som identifieras inom ramen för samordningsförbundens beredningsstruktur",
+                "name": "Regeringsuppdrag: Uppdrag till Försäkringskassan att säkerställa genomförande av socialfondsprojekt som identifieras inom ramen för samordningsförbundens beredningsstruktur\n",
                 "url": "/regeringsuppdrag/2025/03/uppdrag-till-forsakringskassan-att-sakerstalla-genomforande-av-socialfondsprojekt-som-identifieras-inom-ramen-for-samordningsforbundens-beredningsstruktur/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2609",
-            "1292",
             "1269"
         ]
     },
@@ -484,9 +465,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2616",
-            "1292",
             "2655",
             "2747",
             "2711"
@@ -509,9 +487,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2622",
-            "1284",
             "1213"
         ]
     },
@@ -535,27 +510,20 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Artikel: Sverige i Nato – året som gått",
+                "name": "Artikel: Sverige i Nato – året som gått\n",
                 "url": "/artiklar/2025/03/sverige-i-nato--aret-som-gatt/"
             },
             {
-                "name": "Pressmeddelande: Svenska Natoinsatser i Polen för stöd till Ukraina",
+                "name": "Pressmeddelande: Svenska Natoinsatser i Polen för stöd till Ukraina\n",
                 "url": "/pressmeddelanden/2025/03/svenska-natoinsatser-i-polen-for-stod-till-ukraina/"
             },
             {
-                "name": "Sverige i Nato",
+                "name": "Sverige i Nato\n",
                 "url": "/regeringens-politik/sverige-i-nato/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2621",
-            "2627",
-            "2605",
-            "1286",
-            "1293",
-            "1295",
             "2248",
             "2247",
             "1279",
@@ -573,7 +541,6 @@
         "senders": [
             "2607",
             "2610",
-            "2625",
             "1284",
             "1292"
         ],
@@ -581,18 +548,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Sjukvårdsministern tog emot förslag om förändringar i abortlagstiftningen",
+                "name": "Pressmeddelande: Sjukvårdsministern tog emot förslag om förändringar i abortlagstiftningen\n",
                 "url": "/pressmeddelanden/2025/02/sjukvardsministern-tog-emot-forslag-om-forandringar-i-abortlagstiftningen/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2607",
-            "2610",
-            "2625",
-            "1284",
-            "1292",
             "1239",
             "1233",
             "2693",
@@ -620,13 +581,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "2613",
-            "2614",
-            "2628",
-            "1285",
-            "1291",
             "1235",
             "1252",
             "2734"
@@ -649,9 +603,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2616",
-            "1292",
             "2655",
             "1233",
             "2464"
@@ -676,11 +627,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2611",
-            "2612",
-            "1286",
-            "1291",
             "2248",
             "1226",
             "2584",
@@ -697,7 +643,6 @@
         ],
         "senders": [
             "2621",
-            "2625",
             "1284",
             "1295"
         ],
@@ -706,11 +651,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2621",
-            "2625",
-            "1284",
-            "1295",
             "1239",
             "1279",
             "2665",
@@ -734,9 +674,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2754",
-            "1293",
             "1235",
             "1249",
             "2746",
@@ -763,21 +700,16 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Tydligare mål och ny inriktning för energiforskningen – fokusera, accelerera, leverera",
+                "name": "Pressmeddelande: Tydligare mål och ny inriktning för energiforskningen – fokusera, accelerera, leverera\n",
                 "url": "/pressmeddelanden/2024/12/tydligare-mal-och-ny-inriktning-for-energiforskningen--fokusera-accelerera-leverera/"
             },
             {
-                "name": "Prop. 2024/25:72 Forskning och innovation på energiområdet för försörjningstrygghet, konkurrenskraft och klimatomställning",
+                "name": "Prop. 2024/25:72 Forskning och innovation på energiområdet för försörjningstrygghet, konkurrenskraft och klimatomställning\n",
                 "url": "/rattsliga-dokument/proposition/2024/12/prop.-20242572"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "2623",
-            "2628",
-            "1291",
             "1226",
             "1277"
         ]
@@ -799,9 +731,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2616",
-            "1292",
             "1218"
         ]
     },
@@ -823,21 +752,16 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Aktivitetskrav för att få försörjningsstöd – en viktig åtgärd för att få fler i arbete",
+                "name": "Pressmeddelande: Aktivitetskrav för att få försörjningsstöd – en viktig åtgärd för att få fler i arbete\n",
                 "url": "/pressmeddelanden/2024/11/aktivitetskrav-for-att-fa-forsorjningsstod--en-viktig-atgard-for-att-fa-fler-i-arbete/"
             },
             {
-                "name": "Ds 2024:29: Aktivitetskrav inom försörjningsstödet – för arbete, egenförsörjning och nationell likformighet",
+                "name": "Ds 2024:29: Aktivitetskrav inom försörjningsstödet – för arbete, egenförsörjning och nationell likformighet\n",
                 "url": "/rattsliga-dokument/departementsserien-och-promemorior/2024/11/ds-202429/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2609",
-            "2605",
-            "1292",
-            "1293",
             "2460",
             "1237",
             "1269"
@@ -860,9 +784,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2616",
-            "1292",
             "2655",
             "2747"
         ]
@@ -886,11 +807,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2628",
-            "2605",
-            "1291",
-            "1293",
             "1252",
             "2706",
             "2746",
@@ -914,9 +830,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2616",
-            "1292",
             "1218",
             "2655",
             "2766"
@@ -939,9 +852,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2622",
-            "1284",
             "2460",
             "1237"
         ]
@@ -964,10 +874,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "2628",
-            "1291",
             "1226",
             "2282",
             "1252",
@@ -996,11 +902,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2626",
-            "2628",
-            "1291",
-            "2425",
             "1243",
             "1252"
         ]
@@ -1030,17 +931,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2756",
-            "2612",
-            "2619",
-            "2622",
-            "2626",
-            "1284",
-            "1291",
-            "2425",
-            "1294",
-            "1295",
             "1213",
             "1257",
             "2734"
@@ -1064,10 +954,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2619",
-            "2620",
-            "1294",
             "1276"
         ]
     },
@@ -1091,12 +977,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2611",
-            "2612",
-            "2628",
-            "1286",
-            "1291",
             "2248",
             "1226"
         ]
@@ -1119,21 +999,16 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Rapport: Bistånd för en ny era – Frihet, egenmakt och hållbar tillväxt",
+                "name": "Rapport: Bistånd för en ny era – Frihet, egenmakt och hållbar tillväxt\n",
                 "url": "/rapporter/2023/12/bistand-for-en-ny-era---frihet-egenmakt-och-hallbar-tillvaxt/"
             },
             {
-                "name": "Debattartikel (extern länk): Förebygg asylinvandring med bistånd",
+                "name": "Debattartikel (extern länk): Förebygg asylinvandring med bistånd\n             - extern webbplats,\n",
                 "url": "https://www.di.se/debatt/forebygg-asylinvandring-med-bistand/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2756",
-            "2618",
-            "1287",
-            "1295",
             "1215",
             "1249"
         ]
@@ -1155,9 +1030,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2616",
-            "1292",
             "1218"
         ]
     },
@@ -1178,9 +1050,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2615",
-            "1287",
             "2690",
             "2688",
             "2710"
@@ -1205,11 +1074,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2616",
-            "2626",
-            "2425",
-            "1292",
             "2655",
             "1243",
             "2731",
@@ -1234,10 +1098,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2613",
-            "2614",
-            "1285",
             "1234",
             "1260",
             "2212"
@@ -1263,12 +1123,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2616",
-            "2628",
-            "1285",
-            "1291",
-            "1292",
             "1218",
             "2655",
             "1252",
@@ -1286,7 +1140,6 @@
         "senders": [
             "2616",
             "2624",
-            "2625",
             "1284",
             "1288",
             "1292"
@@ -1295,19 +1148,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Regeringens satsning Samling för judiskt liv",
+                "name": "Regeringens satsning Samling för judiskt liv\n",
                 "url": "/regeringens-politik/samling-for-judiskt-liv/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2616",
-            "2624",
-            "2625",
-            "1284",
-            "1288",
-            "1292",
             "1219",
             "2539",
             "2666",
@@ -1333,17 +1179,14 @@
         ],
         "summary": "Arbetsmarknads- och integrationsminister Johan Pehrson, äldre- och socialförsäkringsminister Anna Tenje, debattartikel, Dagens industri, den 5 september 2024.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Förstärkningar av bland annat yrkesutbildning för att bekämpa arbetslösheten\n",
+                "url": "/pressmeddelanden/2024/09/forstarkningar-av-bland-annat-yrkesutbildning-for-att-bekampa-arbetslosheten/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2609",
-            "2619",
-            "1284",
-            "1285",
-            "1291",
-            "1292",
-            "1294",
             "1213",
             "1257",
             "1267",
@@ -1370,21 +1213,16 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Migration och asyl",
+                "name": "Migration och asyl\n",
                 "url": "/regeringens-politik/migration-och-asyl/"
             },
             {
-                "name": "Migration och integration",
+                "name": "Migration och integration\n",
                 "url": "/regeringens-politik/regeringens-prioriteringar/migration-och-integration/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2621",
-            "2605",
-            "1287",
-            "1293",
             "1249",
             "2661",
             "2688"
@@ -1406,23 +1244,20 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen föreslår omfattande åtgärder för att minska övergödningen, skydda marina områden och rädda fiskbestånden",
+                "name": "Pressmeddelande: Regeringen föreslår omfattande åtgärder för att minska övergödningen, skydda marina områden och rädda fiskbestånden\n",
                 "url": "/pressmeddelanden/2024/06/regeringen-foreslar-omfattande-atgarder-for-att-minska-overgodningen-skydda-marina-omraden-och-radda-fiskbestanden/"
             },
             {
-                "name": "Prop. 2023/24:156 Ett levande hav – ökat skydd, minskad övergödning och ett hållbart fiske",
+                "name": "Prop. 2023/24:156 Ett levande hav – ökat skydd, minskad övergödning och ett hållbart fiske\n",
                 "url": "/rattsliga-dokument/proposition/2024/06/prop.-202324156"
             },
             {
-                "name": "Pressmeddelande: Skyddet för Natura 2000 ändras för att rädda tumlaren i Östersjön",
+                "name": "Pressmeddelande: Skyddet för Natura 2000 ändras för att rädda tumlaren i Östersjön\n",
                 "url": "/pressmeddelanden/2024/03/skyddet-for-natura-2000-andras-for-att-radda-tumlaren-i-ostersjon/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2628",
-            "1291",
             "1252"
         ]
     },
@@ -1442,23 +1277,20 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Rapport: Bistånd för en ny era  – Frihet, egenmakt och hållbar tillväxt",
+                "name": "Rapport: Bistånd för en ny era  – Frihet, egenmakt och hållbar tillväxt\n",
                 "url": "/rapporter/2023/12/bistand-for-en-ny-era---frihet-egenmakt-och-hallbar-tillvaxt/"
             },
             {
-                "name": "Artikel: Bistånds- och utrikeshandelsministern om regeringens inriktning för det svenska biståndet",
+                "name": "Artikel: Bistånds- och utrikeshandelsministern om regeringens inriktning för det svenska biståndet\n",
                 "url": "/artiklar/2024/01/bistands--och-utrikeshandelsministern-om-regeringens-inriktning-for-det-svenska-bistandet/"
             },
             {
-                "name": "Regeringen fasar ut det bilaterala utvecklingsbiståndet med Irak",
+                "name": "Regeringen fasar ut det bilaterala utvecklingsbiståndet med Irak\n",
                 "url": "/pressmeddelanden/2024/07/regeringen-fasar-ut-det-bilaterala-utvecklingsbistandet-med-irak/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2618",
-            "1295",
             "1235",
             "1215",
             "1013"
@@ -1479,18 +1311,16 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Libanon – avrådan",
+                "name": "Libanon – avrådan\n",
                 "url": "/ud-avrader/libanon--andrad-avradan/"
             },
             {
-                "name": "Uttalande av Utrikes­departementet med anledning av reseavrådan för Libanon",
+                "name": "Uttalande av Utrikes­departementet med anledning av reseavrådan för Libanon\n",
                 "url": "/uttalanden/2024/06/uttalande-av-utrikesdepartementet-med-anledning-av-reseavradan-for-libanon/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "1295",
             "2740",
             "1109"
         ]
@@ -1506,21 +1336,27 @@
         "senders": [
             "2610",
             "2616",
-            "2625",
             "1284",
             "1292"
         ],
         "summary": "Debattartikel av Camilla Waltersson Grönvall, socialtjänstminister, Jakob Forssmed, socialminister, Paulina Brandberg, jämställdhets- och biträdande arbetsmarknadsminister och Carina Ståhl Herrstedt, socialpolitisk talesperson (SD), Aftonbladet, 2 juli 2024",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Ny socialtjänstlag\n",
+                "url": "/regeringens-politik/socialtjanst/ny-socialtjanstlag/"
+            },
+            {
+                "name": "Frågor och svar om nya socialtjänstlagen\n",
+                "url": "/regeringens-politik/socialtjanst/fragor-och-svar-om-nya-socialtjanstlagen/"
+            },
+            {
+                "name": "Pressmeddelande: En förebyggande socialtjänstlag – för ökade rättigheter, skyldigheter och möjligheter\n",
+                "url": "/pressmeddelanden/2024/07/en-forebyggande-socialtjanstlag--for-okade-rattigheter-skyldigheter-och-mojligheter/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2610",
-            "2616",
-            "2625",
-            "1284",
-            "1292",
             "1268"
         ]
     },
@@ -1543,17 +1379,14 @@
         ],
         "summary": "Energi- och näringsminister Ebba Busch, sjukvårdsminister Acko Ankarberg Johansson, socialminister Jakob Forssmed, utbildningsminister Mats Persson, debattartikel, Dagens Industri, den 27 juni 2024.\n\nI stark internationell konkurrens ska Sverige erbjuda attraktiva förutsättningar för forskning och innovation. Regeringens olika uppdrag på området stärker landets konkurrenskraft och möjligheten att marknadsföra Sveriges förmåga som land för kliniska prövningar, skriver företrädare för regeringen.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Bättre förutsättningar för kliniska prövningar i Sverige\n",
+                "url": "/pressmeddelanden/2024/06/battre-forutsattningar-for-kliniska-provningar-i-sverige/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2607",
-            "2612",
-            "2616",
-            "2622",
-            "1291",
-            "1292",
-            "1294",
             "1233",
             "2734",
             "2533"
@@ -1576,9 +1409,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2619",
-            "1284",
             "1213"
         ]
     },
@@ -1603,13 +1433,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "2618",
-            "2622",
-            "1291",
-            "1294",
-            "1295",
             "1235",
             "1277",
             "2282",
@@ -1635,9 +1458,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2605",
-            "1293",
             "2707",
             "2700"
         ]
@@ -1661,22 +1481,16 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: 11 nya steg för att effektivisera tillståndsprocesserna och skynda på klimatomställningen",
+                "name": "Pressmeddelande: 11 nya steg för att effektivisera tillståndsprocesserna och skynda på klimatomställningen\n",
                 "url": "/pressmeddelanden/2024/05/11-nya-steg-for-att-effektivisera-tillstandsprocesserna-och-skynda-pa-klimatomstallningen/"
             },
             {
-                "name": "Lagrådsremiss: Steg på vägen mot en mer effektiv miljöprövning",
+                "name": "Lagrådsremiss: Steg på vägen mot en mer effektiv miljöprövning\n",
                 "url": "/rattsliga-dokument/lagradsremiss/2024/05/steg-pa-vagen-mot-en-mer-effektiv-miljoprovning/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "2613",
-            "2628",
-            "1285",
-            "1291",
             "1232",
             "1252",
             "1257",
@@ -1704,11 +1518,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2615",
-            "2624",
-            "1287",
-            "1288",
             "1219",
             "1224",
             "1248"
@@ -1733,11 +1542,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2618",
-            "2624",
-            "1288",
-            "1295",
             "1219",
             "1215",
             "1248"
@@ -1761,10 +1565,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2611",
-            "2627",
-            "1286",
             "2248",
             "2247",
             "2703"
@@ -1787,9 +1587,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2618",
-            "1295",
             "1215"
         ]
     },
@@ -1811,19 +1608,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Artikel: Medel till Försäkringskassan för att stärka handläggningen, kontrollerna samt informations- och cybersäkerheten",
+                "name": "Artikel: Medel till Försäkringskassan för att stärka handläggningen, kontrollerna samt informations- och cybersäkerheten\n",
                 "url": "/artiklar/2024/04/medel-till-forsakringskassan-for-att-starka-handlaggningen-kontrollerna-samt-informations--och-cybersakerheten/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2609",
-            "2611",
-            "1286",
-            "1292",
             "2248",
-            "1269"
+            "1269",
+            "2781"
         ]
     },
     {
@@ -1835,7 +1628,6 @@
             "1333"
         ],
         "senders": [
-            "2625",
             "1284"
         ],
         "summary": "Jämställdhetsminister Paulina Brandberg, debattartikel, Svenska Dagbladet, den 19 april 2024.",
@@ -1843,9 +1635,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2625",
-            "1284",
             "1239",
             "2671"
         ]
@@ -1859,7 +1648,6 @@
             "1333"
         ],
         "senders": [
-            "2625",
             "1284"
         ],
         "summary": "Jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg, debattartikel, Altinget, den 18 april 2024.",
@@ -1867,9 +1655,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2625",
-            "1284",
             "1213",
             "2096"
         ]
@@ -1891,9 +1676,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2616",
-            "1292",
             "2655",
             "2435",
             "2747",
@@ -1917,9 +1699,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2613",
-            "1285",
             "1232",
             "2212"
         ]
@@ -1938,12 +1717,14 @@
         ],
         "summary": "Debattartikel av landsbygdsminister Peter Kullgren och Martin Kinnunen, klimat- och miljöpolitisk talesperson (SD). Fagersta-Posten, 11 april 2024.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Sju miljoner kronor föreslås i stöd till kommuner som drabbats av afrikansk svinpest\n",
+                "url": "/pressmeddelanden/2024/04/sju-miljoner-kronor-foreslas-i-stod-till-kommuner-som-drabbats-av-afrikansk-svinpest/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2626",
-            "2425",
             "1243"
         ]
     },
@@ -1966,11 +1747,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2619",
-            "2621",
-            "1284",
-            "1287",
             "1213",
             "1237",
             "2092",
@@ -1996,9 +1772,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2627",
-            "1286",
             "2247",
             "2744",
             "2212"
@@ -2020,15 +1793,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Regeringens prioriteringar inom klimat och energi",
+                "name": "Regeringens prioriteringar inom klimat och energi\n",
                 "url": "/regeringens-politik/regeringens-prioriteringar/klimat-och-energi/om-regeringens-prioritering-klimat-och-energi/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2628",
-            "1291",
             "1252",
             "2691",
             "2688",
@@ -2053,17 +1823,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Förslag om ytterligare förlängning av det tillfälliga tilläggsbidraget till barnfamiljer med bostadsbidrag",
+                "name": "Pressmeddelande: Förslag om ytterligare förlängning av det tillfälliga tilläggsbidraget till barnfamiljer med bostadsbidrag\n",
                 "url": "/pressmeddelanden/2024/03/forslag-om-ytterligare-forlangning-av-det-tillfalliga-tillaggsbidraget-till-barnfamiljer-med-bostadsbidrag/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2609",
-            "2612",
-            "1291",
-            "1292",
             "1269",
             "2212"
         ]
@@ -2087,11 +1852,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2614",
-            "2624",
-            "1285",
-            "1288",
             "1238",
             "1248"
         ]
@@ -2107,7 +1867,6 @@
         "senders": [
             "2612",
             "2613",
-            "2625",
             "1284",
             "1285",
             "1291"
@@ -2116,19 +1875,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Temasida: Kvinnors företagande",
+                "name": "Temasida: Kvinnors företagande\n",
                 "url": "/regeringens-politik/kvinnors-foretagande/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "2613",
-            "2625",
-            "1284",
-            "1285",
-            "1291",
             "1232",
             "1239",
             "1257",
@@ -2154,11 +1906,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2619",
-            "2621",
-            "1284",
-            "1287",
             "2460",
             "1237",
             "2092",
@@ -2176,7 +1923,6 @@
         "senders": [
             "2610",
             "2616",
-            "2625",
             "1284",
             "1292"
         ],
@@ -2185,12 +1931,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2610",
-            "2616",
-            "2625",
-            "1284",
-            "1292",
             "2671"
         ]
     },
@@ -2208,12 +1948,18 @@
         ],
         "summary": "Regeringen vidtar nu ytterligare åtgärder för att underlätta för hushåll och företag i ett pressat läge. Det handlar om kompensation till personer födda 1957 och ett tillfälligt höjt tak för rotavdraget för att stötta byggsektorn. Idag skickar vi dessa förslag till Lagrådet så att lagändringarna kan träda i kraft senare i år.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Lagrådsremiss: Vissa förslag om kompensation m.m. till personer födda 1957 och 1959 på grund av höjd åldersgräns för förhöjt grundavdrag\n",
+                "url": "/rattsliga-dokument/lagradsremiss/2024/02/vissa-forslag-om-kompensation-m.m.-till-personer-fodda-1957-och-1959-pa-grund-av-hojd-aldersgrans-for-forhojt-grundavdrag"
+            },
+            {
+                "name": "Lagrådsremiss: Tillfälligt höjt tak för rotavdraget\n",
+                "url": "/rattsliga-dokument/lagradsremiss/2024/02/tillfalligt-hojt-tak-for-rotavdraget/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2613",
-            "1285",
             "1267",
             "2212"
         ]
@@ -2228,7 +1974,6 @@
         ],
         "senders": [
             "2619",
-            "2625",
             "1284"
         ],
         "summary": "Debattartikel av arbetsmarknads- och integrationsminister Johan Pehrson och jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg, Dagens industri, den 14 februari 2024.",
@@ -2236,10 +1981,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2619",
-            "2625",
-            "1284",
             "1213",
             "2096"
         ]
@@ -2263,11 +2004,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "2613",
-            "2614",
-            "1291",
             "1257"
         ]
     },
@@ -2288,9 +2024,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2619",
-            "1284",
             "1213",
             "2729"
         ]
@@ -2311,23 +2044,20 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen tillsätter utredning för att främja ett långsiktigt hållbart och konkurrenskraftigt skogsbruk",
+                "name": "Pressmeddelande: Regeringen tillsätter utredning för att främja ett långsiktigt hållbart och konkurrenskraftigt skogsbruk\n",
                 "url": "/pressmeddelanden/2024/02/regeringen-tillsatter-utredning-for-att-framja-skogsbruk-och-en-vaxande-bioekonomi/"
             },
             {
-                "name": "Kommittédirektiv: En robust skogspolitik som ser skogen som en resurs",
+                "name": "Kommittédirektiv: En robust skogspolitik som ser skogen som en resurs\n",
                 "url": "/rattsliga-dokument/kommittedirektiv/2024/02/dir.-202416"
             },
             {
-                "name": "Tal av landsbygdsminister Peter Kullgren på Skogens dag 2024",
+                "name": "Tal av landsbygdsminister Peter Kullgren på Skogens dag 2024\n",
                 "url": "/tal/2024/02/tal-av-landsbygdsminister-peter-kullgren-pa-skogens-dag-2024/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2626",
-            "2425",
             "1243",
             "1252"
         ]
@@ -2341,17 +2071,18 @@
             "1333"
         ],
         "senders": [
-            "2625",
             "1284"
         ],
         "summary": "Jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg, debattartikel, QX, den 5 februari 2024.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Hbtqi-personers lika rättigheter och möjligheter\n",
+                "url": "/regeringens-politik/hbtq-personers-lika-rattigheter-och-mojligheter/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2625",
-            "1284",
             "1219",
             "2403"
         ]
@@ -2378,21 +2109,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Ny strategi mot våldsbejakande extremism och terrorism",
+                "name": "Ny strategi mot våldsbejakande extremism och terrorism\n",
                 "url": "/regeringens-politik/ny-strategi-mot-valdsbejakande-extremism-och-terrorism/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "2615",
-            "2619",
-            "2605",
-            "1284",
-            "1287",
-            "1291",
-            "1293",
             "2709"
         ]
     },
@@ -2415,11 +2137,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2607",
-            "2611",
-            "1286",
-            "1292",
             "2248",
             "1241",
             "1233",
@@ -2446,9 +2163,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2605",
-            "1293",
             "2688"
         ]
     },
@@ -2468,23 +2182,20 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Tillsammans mot ofrivillig ensamhet - företagsnätverk för ökad gemenskap",
+                "name": "Tillsammans mot ofrivillig ensamhet - företagsnätverk för ökad gemenskap\n",
                 "url": "/regeringens-politik/ofrivillig-ensamhet--ett-folkhalsoproblem/tillsammans-mot-ofrivillig-ensamhet---foretagsnatverk-for-okad-gemenskap/"
             },
             {
-                "name": "Ofrivillig ensamhet – ett folkhälsoproblem",
+                "name": "Ofrivillig ensamhet – ett folkhälsoproblem\n",
                 "url": "/regeringens-politik/ofrivillig-ensamhet--ett-folkhalsoproblem/"
             },
             {
-                "name": "Artikel: Initiativ samlar näringslivets engagemang mot den ofrivilliga ensamheten",
+                "name": "Artikel: Initiativ samlar näringslivets engagemang mot den ofrivilliga ensamheten\n",
                 "url": "/artiklar/2023/12/initiativ-samlar-naringslivets-engagemang-mot-den-ofrivilliga-ensamheten/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2616",
-            "1292",
             "2655",
             "2711"
         ]
@@ -2506,9 +2217,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2628",
-            "1291",
             "1252",
             "2691",
             "2688"
@@ -2531,9 +2239,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2609",
-            "1292",
             "1269"
         ]
     },
@@ -2558,20 +2263,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "In English: “Two-state solution only path to sustainable peace”",
+                "name": "In English: “Two-state solution only path to sustainable peace”\n",
                 "url": "https://www.government.se/opinion-pieces/2023/12/two-state-solution-only-path-to-sustainable-peace/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "2619",
-            "2605",
-            "1284",
-            "1291",
-            "1293",
-            "1295",
             "1279",
             "2740",
             "1084",
@@ -2600,14 +2297,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "2618",
-            "2628",
-            "2605",
-            "1291",
-            "1293",
-            "1295",
             "1226",
             "1235",
             "1252",
@@ -2633,9 +2322,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2616",
-            "1292",
             "2655",
             "2731",
             "1012",
@@ -2659,9 +2345,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2626",
-            "2425",
             "1243"
         ]
     },
@@ -2682,9 +2365,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2619",
-            "1284",
             "2460",
             "1213",
             "1237"
@@ -2707,9 +2387,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2605",
-            "1293",
             "1219",
             "2666"
         ]
@@ -2723,7 +2400,6 @@
             "1333"
         ],
         "senders": [
-            "2625",
             "1284"
         ],
         "summary": "Jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg, debattartikel, Västerbottens-Kuriren den 6 november 2023.",
@@ -2731,9 +2407,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2625",
-            "1284",
             "1213",
             "2096"
         ]
@@ -2755,9 +2428,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2626",
-            "2425",
             "1243",
             "2211",
             "1012"
@@ -2782,11 +2452,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2619",
-            "2605",
-            "1284",
-            "1293",
             "1213"
         ]
     },
@@ -2807,9 +2472,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "1291",
             "1226"
         ]
     },
@@ -2827,12 +2489,14 @@
         ],
         "summary": "Underhållet av både vägar och järnvägar har varit kraftigt eftersatt. Regeringen och Sverigedemokraterna är nu överens om att rusta upp infrastrukturen, skriver Andreas Carlson, infrastruktur- och bostadsminister (KD) och Thomas Morell, vice ordförande i Trafikutskottet (SD) i en debattartikel i Dagens industri den 15 september 2023.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Satsning på vägunderhåll för att bidra till en väl fungerande infrastruktur i hela landet\n",
+                "url": "/pressmeddelanden/2023/09/satsning-pa-vagunderhall-for-att-bidra-till-en-val-fungerande-infrastruktur-i-hela-landet/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2608",
-            "2425",
             "1274",
             "2212"
         ]
@@ -2854,16 +2518,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Viktigt för klimatomställningen att miljöprocesserna kortas",
+                "name": "Pressmeddelande: Viktigt för klimatomställningen att miljöprocesserna kortas\n",
                 "url": "/pressmeddelanden/2023/09/viktigt-for-klimatomstallningen-att-miljoprocesserna-kortas/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "2628",
-            "1291",
             "1252",
             "1257",
             "2212"
@@ -2886,9 +2546,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2616",
-            "1292",
             "2655"
         ]
     },
@@ -2912,12 +2569,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2613",
-            "2614",
-            "2619",
-            "1284",
-            "1285",
             "1213",
             "1263",
             "1267",
@@ -2943,11 +2594,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2608",
-            "2612",
-            "1291",
-            "2425",
             "1226",
             "1274",
             "2212"
@@ -2967,12 +2613,14 @@
         ],
         "summary": "Vi kommer att föreslå sänkt skatt för alla pensionärer med sammanlagt två miljarder kronor. Sammantaget med den indexering av grundavdraget som görs årligen innebär detta att en pensionär med en pension på 25 000 kronor i månaden får 3 400 kronor mer i plånboken varje år, skriver finansminister Elisabeth Svantesson, Oscar Sjöstedt (SD), Hans Eklind (KD) och Cecilia Rönn (L) i en debattartikel i Expressen den 5 september 2023.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Beräkningar - effekten längs inkomstskalan av sänkt skatt för pensionärer\n",
+                "url": "/informationsmaterial/2023/09/berakningar---effekten-langs-inkomstskalan-av-sankt-skatt-for-pensionarer/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2613",
-            "1285",
             "1267",
             "2212"
         ]
@@ -2986,7 +2634,6 @@
             "1333"
         ],
         "senders": [
-            "2625",
             "1284"
         ],
         "summary": "Debattartikel av jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg, Upsala Nya Tidning, 25 augusti 2023",
@@ -2994,9 +2641,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2625",
-            "1284",
             "1276",
             "1239",
             "2671"
@@ -3018,14 +2662,14 @@
         ],
         "summary": "Debattartikel i Aftonbladet den 26 augusti 2023.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Debattartikel i Aftonbladet 26 augusti 2023\n             - extern webbplats,\n",
+                "url": "https://www.aftonbladet.se/debatt/a/LlG7wx/tidopartierna-57-orna-kompenseras-for-skattemissen"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "2619",
-            "2605",
-            "1296",
             "1267",
             "2212"
         ]
@@ -3049,11 +2693,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2607",
-            "2612",
-            "2619",
-            "2605",
             "1233"
         ]
     },
@@ -3073,8 +2712,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2607",
             "1233"
         ]
     },
@@ -3095,9 +2732,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2621",
-            "1287",
             "1249",
             "2661",
             "2675"
@@ -3121,10 +2755,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2610",
-            "1287",
-            "1292",
             "1263",
             "1268"
         ]
@@ -3146,9 +2776,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2610",
-            "1292",
             "1220",
             "1268",
             "2708"
@@ -3170,15 +2797,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Försvarsinnovation",
+                "name": "Försvarsinnovation\n",
                 "url": "/regeringens-politik/forsvarsinnovation/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2627",
-            "1286",
             "2247",
             "2688",
             "2695"
@@ -3204,12 +2828,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "2628",
-            "2605",
-            "1291",
-            "1293",
             "1252",
             "1257"
         ]
@@ -3231,9 +2849,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2615",
-            "1287",
             "1263",
             "1012"
         ]
@@ -3254,8 +2869,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "1293",
             "1012"
         ]
     },
@@ -3278,11 +2891,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "2615",
-            "1287",
-            "1291",
             "2282",
             "1257",
             "1012"
@@ -3304,19 +2912,16 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Etikprövningslagen ska ses över",
+                "name": "Pressmeddelande: Etikprövningslagen ska ses över\n",
                 "url": "/pressmeddelanden/2023/05/etikprovningslagen-ska-ses-over/"
             },
             {
-                "name": "Pressmeddelande: Etikprövningsmyndigheten får i uppdrag att kartlägga ansökningar som berör vissa personuppgifter",
+                "name": "Pressmeddelande: Etikprövningsmyndigheten får i uppdrag att kartlägga ansökningar som berör vissa personuppgifter\n",
                 "url": "/pressmeddelanden/2023/05/etikprovningsmyndigheten-far-i-uppdrag-att-kartlagga-ansokningar-som-beror-vissa-personuppgifter/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2622",
-            "1294",
             "1277"
         ]
     },
@@ -3338,10 +2943,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2615",
-            "1287",
-            "1293",
             "1219",
             "1263",
             "2205",
@@ -3366,10 +2967,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2612",
-            "1291",
-            "1293",
             "1277",
             "2282",
             "1252",
@@ -3397,12 +2994,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2610",
-            "2615",
-            "2621",
-            "1287",
-            "1292",
             "1249",
             "1263",
             "1268"
@@ -3422,12 +3013,14 @@
         ],
         "summary": "Socialminister Jakob Forssmed, debattartikel, Sydsvenskan, 28 mars 2023",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Uppdrag till Folkhälsomyndigheten att ta fram en nationell strategi mot ofrivillig ensamhet\n",
+                "url": "/pressmeddelanden/2023/03/uppdrag-till-folkhalsomyndigheten-att-ta-fram-en-nationell-strategi-mot-ofrivillig-ensamhet/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2616",
-            "1292",
             "2655",
             "2747",
             "2711"
@@ -3447,12 +3040,14 @@
         ],
         "summary": "Justitieminister Gunnar Strömmer, debattartikel, Dagens industri den 13 mars 2023.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Det ska bli straffbart att delta i en terrorist­organisation\n",
+                "url": "/pressmeddelanden/2023/03/det-ska-bli-straffbart-att-delta-i-en-terroristorganisation/"
+            }
+        ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2615",
-            "1287",
             "1264",
             "1263",
             "2709",
@@ -3477,10 +3072,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2609",
-            "2616",
-            "1292",
             "2655",
             "2747",
             "2656",
@@ -3504,9 +3095,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2626",
-            "2425",
             "1243",
             "2270"
         ]
@@ -3528,9 +3116,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2615",
-            "1287",
             "1264",
             "1224",
             "1263"
@@ -3557,13 +3142,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2608",
-            "2612",
-            "2619",
-            "1284",
-            "1291",
-            "2425",
             "1213",
             "1226",
             "1243",
@@ -3590,10 +3168,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2608",
-            "2626",
-            "2425",
             "1217",
             "1243",
             "1262",
@@ -3616,15 +3190,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Om hemberedskap på Myndigheten för samhällsskydd och beredskaps webbplats",
+                "name": "Om hemberedskap på Myndigheten för samhällsskydd och beredskaps webbplats\n             - extern webbplats,\n",
                 "url": "https://www.msb.se/sv/rad-till-privatpersoner/forbered-dig-for-kris/hemberedskap---preppa-for-en-vecka/"
             }
         ],
         "attachments": [],
         "categories": [
-            "1333",
-            "2611",
-            "1286",
             "2248",
             "1241",
             "2688",
@@ -3648,9 +3219,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2620",
-            "1294",
             "1276"
         ]
     },
@@ -3671,9 +3239,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2610",
-            "1292",
             "1220",
             "1268"
         ]
@@ -3695,9 +3260,6 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1333",
-            "2605",
-            "1293",
             "1219",
             "1232",
             "1252",
@@ -3724,13 +3286,6 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": [
-            "1333",
-            "2612",
-            "2628",
-            "2605",
-            "1291",
-            "1293"
-        ]
+        "categories": []
     }
 ]

@@ -15,4 +15,4 @@ Utredaren ska bland annat
 * klargöra hur ett ändamålsenligt stöd kan säkerställas för personer som saknar sjukpenninggrundande inkomst, och
 * vid behov lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 1 december 2024\.
+Uppdraget ska redovisas senast den 1 december 2024.

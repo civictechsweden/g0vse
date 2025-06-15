@@ -1,6 +1,5 @@
 # Rapport från urbefolkningsdelegationen
 
-Slutrapport från den så kallade urbefolkningsdelegationen som regeringen tillsatte i april 1995\. Delegationen tillsattes mot bakgrund av att FN proklamerat ett internationellt urfolksårtioende för perioden 10 december 1994\-2004 med målet att stärka internationellt samarbete i frågor som rör urfolk.
-
+Slutrapport från den så kallade urbefolkningsdelegationen som regeringen tillsatte i april 1995. Delegationen tillsattes mot bakgrund av att FN proklamerat ett internationellt urfolksårtioende för perioden 10 december 1994-2004 med målet att stärka internationellt samarbete i frågor som rör urfolk.
 
 Delegationens uppgift har bland annat varit att följa och behandla FN:s beslut om årtiondet samt att initiera, planera och utföra olika åtgärder som ligger i linje med syftena med årtiondet. Delegationen har kunnat rikta in sig på att arbeta långsiktigt med principiella och strategiska urfolkspolitiska frågor. Genom att identifiera hinder för allmänhetens och beslutsfattares förståelse för den samiska kulturen och kraven på rättigheter kunde delegationen se behovet av åtgärder som ökar kunskapen samt vidgar kommunikationsvägar på olika plan. Vidare har delegationen haft som mål att bidra till ett ökat samiskt självbestämmande, ett ökat samiskt deltagande i det politiska livet, att främja samisk kultur, samiskt språk och de traditionella näringarna samt att bidra till att allmänhetens medvetenhet om det samiska kulturarvet ökar. Delegationen har också verkat för en ökad samverkan i samepolitiska frågor inom Norden.

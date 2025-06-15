@@ -7,10 +7,9 @@ I uppdraget ingår också att se över om Skatteverkets möjligheter att använ
 Utredaren ska bl.a.
 
 * analysera och ta ställning till om, och i sådana fall hur, ett utvidgat
-straffansvar i folkbokföringslagen bör utformas,
+  straffansvar i folkbokföringslagen bör utformas,
 * analysera och ta ställning till om Skatteverket ska få möjlighet att lagra och på annat sätt behandla ansiktsbilder och fingeravtryck samt de biometriska uppgifterna som tas fram ur dessa i ärenden om folkbokföring och samordningsnummer,
 * analysera och ta ställning till om Skatteverket gällande vissa brott ska ges befogenhet att inleda förundersökning, och
 * lämna författningsförslag oavsett ställningstagande i sak.
 
-
-Uppdraget ska redovisas senast den 28 maj 2025\.
+Uppdraget ska redovisas senast den 28 maj 2025.

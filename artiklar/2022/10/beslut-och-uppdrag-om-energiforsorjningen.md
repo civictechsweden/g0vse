@@ -1,7 +1,6 @@
 # Beslut och uppdrag om energiförsörjningen
 
-Här samlas ett urval av beslut och uppdrag om energiförsörjningen under perioden januari\-september 2022\.
-
+Här samlas ett urval av beslut och uppdrag om energiförsörjningen under perioden januari-september 2022.
 
 Den 7 oktober 2022: Skatteförslag på remiss med anledning av EU:s nödåtgärder för att sänka elpriserna. (Ett led i det paket med tillfälliga nödåtgärder för att hantera de höga elpriserna, som EU:s energiministrar kom överens om den 30 september.)
 
@@ -21,11 +20,11 @@ Den 11 juli 2022: [Uppdrag till Energimarknadsinspektionen i uppdrag att avrappo
 
 Den 22 juni 2022: Uppdrag till Energimyndigheten att analysera hur användningen av energi, effekt och resurser kan effektiviseras i olika delar av samhället.
 
-Den 16 juni 2022: [Uppdrag till Energimyndigheten att ta fram förslag till en fjärr\- och kraftvärmestrategi.](/regeringsuppdrag/2022/06/uppdrag-att-ta-fram-forslag-till-en-fjarr--och-kraftvarmestrategi/)
+Den 16 juni 2022: [Uppdrag till Energimyndigheten att ta fram förslag till en fjärr- och kraftvärmestrategi.](/regeringsuppdrag/2022/06/uppdrag-att-ta-fram-forslag-till-en-fjarr--och-kraftvarmestrategi/)
 
 Den 7 juni 2022: [Uppdrag till Svenska kraftnät att, i samverkan med Energimyndigheten, utreda vattenkraftens lokala och regionala nyttor för kraftsystemet.](/regeringsuppdrag/2022/06/uppdrag-att-utreda-vattenkraftens-lokala-och-regionala-nyttor-for-kraftsystemet/)
 
-Den 12 maj 2022: Beslut om modifierad elpriskompensation för mars månad. (Förordningen upphör att gälla vid utgången av februari 2023\.)
+Den 12 maj 2022: Beslut om modifierad elpriskompensation för mars månad. (Förordningen upphör att gälla vid utgången av februari 2023.)
 
 Den 5 maj 2022: [Proposition om pausad höjning av reduktionsplikten för bensin och diesel 2023 överlämnas till riksdagen.](/rattsliga-dokument/proposition/2022/05/prop.-202122243)
 
@@ -37,7 +36,7 @@ Den 17 mars 2022: [Proposition Genomförande av elmarknadsdirektivet när det g�
 
 Den 17 mars 2022: [Kommittédirektiv med uppdrag till en särskild utredare att se över reglering av nätavgifter.](/rattsliga-dokument/kommittedirektiv/2022/03/dir.-202220)
 
-Den 25 februari 2022: Beslut om förordning om elpriskompensation. (Förordningen upphör att gälla vid utgången av 2022\.)
+Den 25 februari 2022: Beslut om förordning om elpriskompensation. (Förordningen upphör att gälla vid utgången av 2022.)
 
 Den 17 februari 2022: [Proposition Genomförande av ändringar i energieffektiviseringsdirektivet om värme, kyla och tappvarmvatten för hushållsbruk överlämnas till riksdagen.](/rattsliga-dokument/proposition/2022/02/prop.-202122124)
 

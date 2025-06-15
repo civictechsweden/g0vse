@@ -10,7 +10,7 @@ För att stärka skolans arbete med stöd och anpassningar så att fler elever s
 
 Den nya statsbidragsförordningen omfattar även det befintliga statsbidraget för personalförstärkning inom elevhälsan som avser skolläkare, skolsköterska, psykolog och kurator.
 
-Förordningen träder i kraft och ska börja tillämpas den 12 april 2023\. Beslutet bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.
+Förordningen träder i kraft och ska börja tillämpas den 12 april 2023. Beslutet bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.
 
 ## Fakta
 

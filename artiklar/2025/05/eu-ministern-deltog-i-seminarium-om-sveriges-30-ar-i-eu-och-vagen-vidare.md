@@ -1,6 +1,6 @@
 # EU-ministern deltog i seminarium om Sveriges 30 år i EU och vägen vidare
 
-EU:s framtid och Sveriges roll i unionen stod i fokus när EU-minister Jessica Rosencrantz den 22 maj deltog i ett seminarium på temat Sverige 30 år i EU. Seminariet anordnades av Sieps, Svenska institutet för europapolitiska studier.
+(Ny version) EU:s framtid och Sveriges roll i unionen stod i fokus när EU-minister Jessica Rosencrantz den 22 maj deltog i ett seminarium på temat Sverige 30 år i EU. Seminariet anordnades av Sieps, Svenska institutet för europapolitiska studier.
 
 Under rubriken ”EU:s framtid: vilken roll för Sverige?” höll EU-minister Jessica Rosencrantz ett inledningsanförande och medverkade i ett panelsamtal med tidigare EU-kommissionärerna Cecilia Malmström och Margot Wallström samt tidigare EU-ambassadör Lars Danielsson.
 

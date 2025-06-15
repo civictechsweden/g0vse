@@ -2,7 +2,6 @@
 
 Regeringen ger Statens jordbruksverk (Jordbruksverket) i uppdrag att föreslå hur ett ekonomiskt stöd till jordbruksföretag som har drabbats av torkan skulle kunna utformas.
 
-
 Jordbruksverket ska analysera och redovisa vilka stödåtgärder som är mest
 effektiva och ändamålsenliga för att lindra de ekonomiska konsekvenserna
 som uppstått med anledning av torkan. I uppdraget ingår att inhämta
@@ -15,7 +14,7 @@ sett påverkats svårast av torkan och där ett stöd bedöms nå bäst effekt f
 att begränsa torkans långsiktiga konsekvenser för svensk
 livsmedelsproduktion.
 
-Förslaget ska utformas i enlighet med de regler och kriterier som EU\-kommissionen anger för det tredje stödpaketet från EU:s jordbruksreserv
+Förslaget ska utformas i enlighet med de regler och kriterier som EU-kommissionen anger för det tredje stödpaketet från EU:s jordbruksreserv
 och EU:s statstödsregelverk. Förslaget ska utgå ifrån Sveriges tilldelning på
 5,59 miljoner euro och vara skalbart med möjlighet till medfinansiering med
 nationella medel med upp till motsvarande 200 procent av tilldelningen från
@@ -26,4 +25,4 @@ föreslagna utformningen av stödet får för myndigheten och stödmottagare sam
 
 Jordbruksverket ska vidare analysera och beskriva de ekonomiska, administrativa och andra eventuella konsekvenser av förslaget. Dessutom ska Jordbruksverket lämna relevanta författningsförslag.
 
-Uppdraget ska redovisas senast den 4 augusti 2023 till Regeringskansliet (Landsbygds\-och infrastrukturdepartementet).
+Uppdraget ska redovisas senast den 4 augusti 2023 till Regeringskansliet (Landsbygds-och infrastrukturdepartementet).

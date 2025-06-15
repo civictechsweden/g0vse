@@ -42,7 +42,6 @@ Sverige fortsätter stödja Ukraina så länge det behövs – politiskt, humani
 
 Herr/fru talman!
 
-
 Tillsammans med våra allierade och partner ska vi motverka Ryssland ur en styrkeposition.
 
 Motverkanspolitikens grundval är att Natos artikel 5 är politiskt och militärt trovärdig.

@@ -2,4 +2,4 @@
 
 Förlängd tid för uppdraget.
 
-Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 17 augusti 2020\.
+Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 17 augusti 2020.

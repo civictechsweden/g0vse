@@ -6,4 +6,4 @@ Det är förbjudet att fotografera under rättegångar. Däremot finns det inte 
 
 Regeringen föreslår därför att spridning av bilder från rättegångar kriminaliseras.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2020\.
+Lagändringarna föreslås träda i kraft den 1 juli 2020.

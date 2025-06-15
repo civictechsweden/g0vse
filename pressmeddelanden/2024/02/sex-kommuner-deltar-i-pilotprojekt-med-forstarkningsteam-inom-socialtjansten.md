@@ -8,7 +8,7 @@ Det övergripande syftet med förstärkningsteam, som är inspirerade av den dan
 
 Delegationens första uppgift har varit att föreslå vilken befintlig statlig myndighet som skulle få uppdraget att bygga upp och koordinera arbetet med förstärkningsteam. Delegationen föreslog under hösten 2023 att Socialstyrelsen skulle få uppdraget och i regleringsbrevet för 2024 har myndigheten fått uppdraget att fortsätta utforma förstärkningsteam i samverkan med delegationen.
 
-Totalt har sex kommuner valts ut för att delta i pilotverksamheten 2024\. De deltagande kommunerna har alla varierande befolkningsstorlek och en geografisk spridning i landet.
+Totalt har sex kommuner valts ut för att delta i pilotverksamheten 2024. De deltagande kommunerna har alla varierande befolkningsstorlek och en geografisk spridning i landet.
 
 De sex kommunerna är:
 
@@ -21,4 +21,4 @@ De sex kommunerna är:
 
 Pilotkommunerna har på olika sätt utmaningar kopplat till barn och unga i kriminalitet och flera har initierat eller står inför uppstart av utvecklings­arbete med fokus på brottsförebyggande arbete. I urvalet har delegationen utgått från ett antal kriterier, så som kommunernas motivation att delta i pilotprojektet och deras beredskap för att ingå i ett utvecklingsarbete. Bedömningen av urvalet har genomförts utifrån vad som framkommit i möten med representanter från ledning och andra funktioner i kommunen.
 
-De erfarenheter och lärdomar som genereras från pilotverksamheten ska redovisas i delegationens slutrapport som planeras vara klar i juni 2025\.
+De erfarenheter och lärdomar som genereras från pilotverksamheten ska redovisas i delegationens slutrapport som planeras vara klar i juni 2025.

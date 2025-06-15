@@ -7,4 +7,4 @@ Lagen gäller nätföretag som har ett s.k. outnyttjat underskott i förhålland
 Det föreslås även att regeringen eller den myndighet som regeringen
 bestämmer ska kunna meddela föreskrifter om skyldighet för elnätsföretag att i en särskild ordning redovisa vilka investeringar som genomförs i en redovisningsenhet med särskilt investeringsutrymme.
 
-Lagen föreslås träda i kraft den 1 juni 2021\.
+Lagen föreslås träda i kraft den 1 juni 2021.

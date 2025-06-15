@@ -2,7 +2,6 @@
 
 Nu är samverkansgrupperna för regeringens strategiska samverkansprogram igång med arbetet att prioriera och identifiera insatser med fokus på innovation. Hur ska samverkansområden och insatser prioriteras? Hur uppnår vi största möjliga effekt utifrån det som satsas? Vilka redan pågående samarbeten kan växlas upp? Det är exempel på frågor som grupperna diskuterat.
 
-
 ## Cirkulär och biobaserad ekonomi
 
 Samverkansgruppen för Cirkulär och biobaserad ekonomi som träffades den 3 oktober diskuterade samverkansinsatser som på kort och lång sikt kan bidra till omställningen till ett cirkulärt och biobaserat samhälle. Med inspelen från mötet som grund kommer ett antal områden att prioriteras som blir en bas för det fortsatta arbetet. Till exempel nämns trähusbyggande, och utveckling av cirkulära affärsmodeller som möjliga samverkansområden.

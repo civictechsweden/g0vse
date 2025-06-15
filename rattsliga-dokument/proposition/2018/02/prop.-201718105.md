@@ -1,6 +1,6 @@
 # Ny dataskyddslag
 
-Regeringen föreslår att personuppgiftslagen upphävs och att en ny lag med kompletterande bestämmelser till EU:s dataskyddsförordning införs. Vidare föreslås att vissa bestämmelser i offentlighets\- och sekretesslagen ändras.
+Regeringen föreslår att personuppgiftslagen upphävs och att en ny lag med kompletterande bestämmelser till EU:s dataskyddsförordning införs. Vidare föreslås att vissa bestämmelser i offentlighets- och sekretesslagen ändras.
 
 Den föreslagna lagen innehåller bland annat bestämmelser om att dataskyddsförordningen med vissa undantag ska gälla även utanför sitt egentliga tillämpningsområde, till exempel i verksamhet som rör nationell säkerhet. Lagen ska dock vara subsidiär i förhållande till annan lag eller förordning, vilket möjliggör avvikande bestämmelser i så kallade registerförfattningar.
 
@@ -8,6 +8,6 @@ Lagförslaget förtydligar under vilka förutsättningar personuppgifter får be
 
 Slutligen anges att dataskyddsförordningen och den nya lagen inte ska tillämpas i den utsträckning det strider mot tryckfrihetsförordningen eller yttrandefrihetsgrundlagen.
 
-Lagändringarna föreslås träda i kraft den 25 maj 2018\.
+Lagändringarna föreslås träda i kraft den 25 maj 2018.
 
 [Pressmeddelande: En ny dataskyddslag ska komplettera EU:s dataskyddsförordning](/pressmeddelanden/2018/02/en-ny-dataskyddslag-ska-komplettera-eus-dataskyddsforordning/)

@@ -2,8 +2,7 @@
 
 Elektrifieringen av industrin försvåras i dag av otydliga regler kring anslutning till det svenska elnätet. Mot denna bakgrund har regeringen beslutat om två uppdrag till Svenska kraftnät och Energimarknadsinspektionen som syftar till att effektivisera anslutningsprocessen och korta ledtiderna.
 
-
-– För att nya företag ska kunna etablera sig, och befintliga ska kunna växa, behövs tillgång till anslutning till elnätet och tillräcklig effekt. Att effektivisera processen för tilldelning av anslutningskapacitet är ett viktigt steg för att bättre möta företagens behov och i förlängningen vår möjlighet att nå våra klimatmål och stärka svensk konkurrenskraft, säger energi\- och näringsminister Ebba Busch.
+– För att nya företag ska kunna etablera sig, och befintliga ska kunna växa, behövs tillgång till anslutning till elnätet och tillräcklig effekt. Att effektivisera processen för tilldelning av anslutningskapacitet är ett viktigt steg för att bättre möta företagens behov och i förlängningen vår möjlighet att nå våra klimatmål och stärka svensk konkurrenskraft, säger energi- och näringsminister Ebba Busch.
 
 ## Bristfälligt informationsutbyte är i dag en orsak till längre ledtider
 
@@ -15,7 +14,7 @@ Detta leder till att det blir luftbokningar i systemet. Ansökningar där en pot
 
 För att komma åt detta problem har regeringen gett Svenska kraftnät i uppdrag att dels utveckla sin befintliga vägledning om anslutning till stamnätet, dels att publicera allmänna råd och rekommendationer om utbyte av information mellan berörda nätägare. Detta innefattar även utbyte av information med den som önskar få anslutningen till elnätet. Det kan till exempel handla om information om vem som ansöker, hur stor anläggningen är som ansökningen avser samt när anläggningen är klar för anslutning.
 
-Svenska kraftnät ska ta fram dessa uppdateringar, råd och rekommendationer så att de är klara för publicering i början av 2024\.
+Svenska kraftnät ska ta fram dessa uppdateringar, råd och rekommendationer så att de är klara för publicering i början av 2024.
 
 Vidare får Svenska kraftnät i uppdrag att vidareutveckla möjligheten att ansluta till elnätet via så kallade villkorade avtal. Detta innebär att anslutningsavtalet ger Svenska kraftnät rätt att under vissa förhållanden minska elanvändningen i anslutningen. Svenska kraftnät ska även utreda möjligheterna att ge förtur till anslutningar som kan tillhandahålla systemnyttor eller vars anslutning ryms inom befintligt nät. Syftet är att dessa åtgärder tillsammans med ökat informationsutbyte ska öka effektiviteten i handläggningsprocessen vid platser i nätet där det finns ett stort intresse att ansluta.
 

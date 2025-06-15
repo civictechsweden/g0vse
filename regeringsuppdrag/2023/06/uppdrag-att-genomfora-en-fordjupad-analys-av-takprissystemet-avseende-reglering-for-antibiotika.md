@@ -1,7 +1,6 @@
 # Uppdrag att genomföra en fördjupad analys av takprissystemet avseende reglering för antibiotika
 
-Regeringen uppdrar åt Tandvårds\- och läkemedelsförmånsverket (TLV) att fördjupat analysera det så kallade takprissystemet. Analysen ska belysa behovet av anpassningar för att stärka tillgången till antibiotika inom det så kallade periodens vara\-systemet.
-
+Regeringen uppdrar åt Tandvårds- och läkemedelsförmånsverket (TLV) att fördjupat analysera det så kallade takprissystemet. Analysen ska belysa behovet av anpassningar för att stärka tillgången till antibiotika inom det så kallade periodens vara-systemet.
 
 TLV ska bland annat:
 

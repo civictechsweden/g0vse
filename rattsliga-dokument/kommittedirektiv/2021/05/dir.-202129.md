@@ -12,4 +12,4 @@ Utredaren ska ta fram förslag till mål för det långsiktiga arbetet att före
 
 Uppdraget ska genomföras i dialog med berörda myndigheter och andra relevanta aktörer. Utredaren ska i framtagandet av strategin lyssna till barn och unga samt beakta deras synpunkter och åsikter.
 
-Uppdraget ska redovisas senast den 31 maj 2022\.
+Uppdraget ska redovisas senast den 31 maj 2022.

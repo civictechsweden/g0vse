@@ -6,4 +6,4 @@ I regeringens förslag ingår att dagens resultatutjämningsreserv (RUR) ersätt
 
 I propositionen föreslås även att kravet på att besluta om särskilda riktlinjer för pensionsmedelsförvaltningen ska tas bort. Slutligen föreslås att budgeten ska innehålla en redogörelse för ekonomin i de kommunala koncernföretag som ingår i en kommunal koncern samt att revisionsberättelserna ska hållas tillgängliga för allmänheten på kommunens eller regionens webbplats. Vidare görs bedömningen att pensionsförpliktelser även fortsättningsvis ska redovisas enligt blandmodellen.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

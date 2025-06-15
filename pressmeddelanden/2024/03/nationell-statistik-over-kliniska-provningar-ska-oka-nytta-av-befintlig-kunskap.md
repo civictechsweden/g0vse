@@ -1,8 +1,8 @@
 # Nationell statistik över kliniska prövningar ska öka nytta av befintlig kunskap
 
-– Kliniska prövningar är centralt för Sveriges konkurrenskraft inom life science och bidrar till Sveriges position som innovationsland. Det möjliggör också för svenska patienter att dra nytta av forskning om och utveckling av nya läkemedel och behandlingsmetoder samt bidra till att dessa kommer ut i hälso\- och sjukvården. I sin tur leder det till bättre vård och ökad livskvalitet för patienter, säger sjukvårdsminister Acko Ankarberg Johansson.
+– Kliniska prövningar är centralt för Sveriges konkurrenskraft inom life science och bidrar till Sveriges position som innovationsland. Det möjliggör också för svenska patienter att dra nytta av forskning om och utveckling av nya läkemedel och behandlingsmetoder samt bidra till att dessa kommer ut i hälso- och sjukvården. I sin tur leder det till bättre vård och ökad livskvalitet för patienter, säger sjukvårdsminister Acko Ankarberg Johansson.
 
-– Det här är en del i att förbättra förutsättningarna för att Sverige ska vara en ledande life science\-nation. Vi vill att företag inom life science, som är en av våra viktiga exportbranscher, ska välja Sverige för sina kliniska prövningar. Då får också våra patienter tidigt ta del av nya innovativa behandlingar och terapier vilket kan vara helt avgörande för den som är svårt sjuk, säger energi\- och näringsminister Ebba Busch.
+– Det här är en del i att förbättra förutsättningarna för att Sverige ska vara en ledande life science-nation. Vi vill att företag inom life science, som är en av våra viktiga exportbranscher, ska välja Sverige för sina kliniska prövningar. Då får också våra patienter tidigt ta del av nya innovativa behandlingar och terapier vilket kan vara helt avgörande för den som är svårt sjuk, säger energi- och näringsminister Ebba Busch.
 
 – Kliniska prövningar är själva hjärtat i arbetet för att inte bara förstå, behandla och förebygga sjukdomar, utan också för att skapa en framtid där hälsa och välbefinnande är tillgängligt för alla, säger socialminister Jakob Forssmed.
 

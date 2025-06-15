@@ -1,7 +1,6 @@
 # En ny europeisk agenda för kultur
 
-EU\-kommissionen presenterade i slutet på maj ett förslag till en ny europeisk agenda för kultur för att stärka samarbetet på kulturområdet inom EU och öka deltagandet i kulturella aktiveter.
-
+EU-kommissionen presenterade i slutet på maj ett förslag till en ny europeisk agenda för kultur för att stärka samarbetet på kulturområdet inom EU och öka deltagandet i kulturella aktiveter.
 
 Den nya europeiska agendan för kultur spelar en nyckelroll i kommissionens svar på uppmaningen från Europeiska rådet i december 2017 om att bland annat göra mer för att via kultur och utbildning erbjuda en vision av ett attraktivt EU.
 

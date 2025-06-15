@@ -8,4 +8,4 @@ System med anonyma vittnen finns bland annat i Danmark, Finland och Norge. Sveri
 
 Två viktiga delar i arbetet med att bryta tystnads­kulturen är även kron­vittnes­systemet och möjligheten att kunna använda tidiga förhör som bevis i domstol. Utredningen ska därför även analy­sera tillämp­ningen av dessa reformer och överväga om regler­ingarna behöver ändras i något avseende.
 
-Utredare blir Fredrik Wersäll. Utredningen ska redovisa sitt arbete i fråga om anonyma vittnen i oktober 2023 och i övriga delar under våren 2024\.
+Utredare blir Fredrik Wersäll. Utredningen ska redovisa sitt arbete i fråga om anonyma vittnen i oktober 2023 och i övriga delar under våren 2024.

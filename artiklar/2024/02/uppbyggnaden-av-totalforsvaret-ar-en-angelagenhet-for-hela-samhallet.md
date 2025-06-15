@@ -2,10 +2,9 @@
 
 Den 20 februari samlade Försvarsdepartementet representanter från garnisonskommuner och civilområdesansvariga länsstyrelser för dialog om utvecklingen av totalförsvaret. Försvarsmakten och Myndigheten för samhällsskydd och beredskap (MSB) deltog också för att informera om sitt arbete.
 
+Försvarsminister Pål Jonson och minister för civilt försvar Carl-Oskar Bohlin ledde mötet som hölls på Regeringskansliet i Stockholm. Deltog gjorde företrädare för kommuner med militära garnisoner och militära övningsområden, civilområdesansvariga länsstyrelser och militärregioner.
 
-Försvarsminister Pål Jonson och minister för civilt försvar Carl\-Oskar Bohlin ledde mötet som hölls på Regeringskansliet i Stockholm. Deltog gjorde företrädare för kommuner med militära garnisoner och militära övningsområden, civilområdesansvariga länsstyrelser och militärregioner.
-
-– Uppbyggnaden av totalförsvaret är en angelägenhet för hela samhället. Ett väl fungerande samspel mellan civila och militära aktörer från lokal till nationell nivå är centralt, inledde Carl\-Oskar Bohlin.
+– Uppbyggnaden av totalförsvaret är en angelägenhet för hela samhället. Ett väl fungerande samspel mellan civila och militära aktörer från lokal till nationell nivå är centralt, inledde Carl-Oskar Bohlin.
 
 Syftet med mötet var att informera om uppbyggnaden av totalförsvaret, regeringens nya totalförsvarsproposition som väntas till hösten, förberedelserna för Sveriges Natomedlemskap samt det nya försvarssamarbetsavtalet med USA.
 

@@ -9,4 +9,4 @@ Utredaren ska bland annat:
 * utreda hur arbetet mot bruk av dopningsmedel utanför idrotten kan tas om hand i en ny organisation, samt
 * lämna förslag till lagstiftning för att idrottens och samhällets antidopningsverksamhet ska kunna bedrivas effektivt, med beaktande av integritetsaspekter och internationella åtaganden.
 
-Uppdraget ska redovisas senast den 29 oktober 2010\.
+Uppdraget ska redovisas senast den 29 oktober 2010.

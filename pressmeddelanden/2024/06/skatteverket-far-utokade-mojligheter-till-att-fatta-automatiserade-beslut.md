@@ -6,8 +6,8 @@ En av regeringens centrala prioriteringar är att öka produktiviteten i den sve
 
 – Digitaliseringen medför stor potential för att effektivisera såväl offentlig förvaltning som välfärd. Digitala verktyg kan, rätt använt, minska administrationen, ge ökad medborgarnytta och höja kvalitén, säger civilminister Erik Slottner.
 
-Ändringen i skatteförfarandeförordningen (2011:1261\) innebär att det får ske undantag från när en underrättelse om beslut ska innehålla uppgift om vem som har fattat beslutet. Detta då uppgift om vem som har fattat beslutet inte behöver anges om beslutet har fattats automatiserat och beslutet avser beslut om skönsbeskattning på grund av att någon inkomstdeklaration inte har lämnats, omprövningsbeslut eller beslut om förseningsavgift.
+Ändringen i skatteförfarandeförordningen (2011:1261) innebär att det får ske undantag från när en underrättelse om beslut ska innehålla uppgift om vem som har fattat beslutet. Detta då uppgift om vem som har fattat beslutet inte behöver anges om beslutet har fattats automatiserat och beslutet avser beslut om skönsbeskattning på grund av att någon inkomstdeklaration inte har lämnats, omprövningsbeslut eller beslut om förseningsavgift.
 
 Skatteverket ges genom regeringens beslut förutsättningar att öka graden av automatisering i vissa beslutsprocesser genom att den maskinella hanteringen kan öka i handläggningen. Ändringen skapar därför möjlighet till effektivisering. Ändringen grundar sig på ett förslag från Skatteverket.
 
-Förordningen träder i kraft den 1 augusti 2024\.
+Förordningen träder i kraft den 1 augusti 2024.

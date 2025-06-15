@@ -6,4 +6,4 @@ Regeringens insatser på området psykisk hälsa omfattar bland annat att det f�
 
 Vid genomförandet av uppdraget ska Folkhälsomyndigheten genomgående beakta äldres egna erfarenheter och äldre personer ska själva få komma till tals och beskriva sin livssituation utifrån det egna perspektivet.
 
-Uppdraget ska slutredovisas till Regeringskansliet senast den 1 september 2025\.
+Uppdraget ska slutredovisas till Regeringskansliet senast den 1 september 2025.

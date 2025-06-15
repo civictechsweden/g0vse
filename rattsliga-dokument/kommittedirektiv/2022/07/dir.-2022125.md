@@ -4,4 +4,4 @@ En särskild utredare ska se över upphovsrättslagens bestämmelser om inskrän
 
 I uppdraget ingår att föreslå bestämmelser som säkerställer att det finns rimliga möjligheter att återge offentlig konst samt att använda verk och andra skyddade prestationer vid nyhetsrapportering och i parodisyfte. Utredaren ska föreslå de författningsändringar som behövs.
 
-Uppdraget ska redovisas senast den 25 november 2023\.
+Uppdraget ska redovisas senast den 25 november 2023.

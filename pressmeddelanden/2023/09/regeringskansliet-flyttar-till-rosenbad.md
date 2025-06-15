@@ -2,7 +2,7 @@
 
 Renoveringen av kvarteret Rosenbad inleddes 2019 och nu påbörjas inflyttning i lokalerna. Efter renoveringen får Regeringskansliet fler arbetsplatser som uppfyller gällande krav på arbetsmiljö, teknik, säkerhet, tillgänglighet och miljö.
 
-Ny adress för regeringens lokal för pressträffar är Drottninggatan 1\.
+Ny adress för regeringens lokal för pressträffar är Drottninggatan 1.
 
 ### Om renoveringen
 

@@ -10,4 +10,4 @@ För att omfattas av förslaget får producenten som mest producera 3 miljoner l
 
 Skattenedsättningen är kopplad till producentens årsproduktion. De minsta producenterna får 50 procents skattenedsättning och sedan minskar nedsättningen stegvis ju högre årsproduktionen är. Förslaget gäller drycker från både svenska och utländska producenter.
 
-Ändringarna föreslås träda i kraft den 1 juli 2025\.
+Ändringarna föreslås träda i kraft den 1 juli 2025.

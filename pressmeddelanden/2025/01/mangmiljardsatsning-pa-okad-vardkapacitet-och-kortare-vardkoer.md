@@ -34,8 +34,9 @@ I dag är det främst Sveriges Kommuner och Regioner (SKR) som samlar in väntet
 
 Socialstyrelsen ska senast den 31 mars 2025 lämna en slutredovisning av uppdraget.
 
-| **Region** | **Totalt (kronor)** |
+|  |  |
 | --- | --- |
+| **Region** | **Totalt (kronor)** |
 | Region Stockholm | 984 031 803 |
 | Region Uppsala | 245 813 551 |
 | Region Sörmland | 207 911 498 |

@@ -2,7 +2,6 @@
 
 Regeringen ger Polismyndigheten, Brottsförebyggande rådet, Kriminalvården, länsstyrelserna, Socialstyrelsen, Statens institutionsstyrelse, Statens skolverk och Åklagarmyndigheten i uppdrag att inrätta en samverkansstruktur, för ett sammanhållet arbete med barn och unga som riskerar att begå eller begår grova brott, i miljöer kopplade till organiserad brottslighet.
 
-
 Syftet med samverkanstrukturen är att förstärka och effektivisera arbetet
 med att motverka att barn och unga hamnar i grov kriminalitet genom
 konkreta åtgärder och insatser. Syftet är också att säkerställa att det är
@@ -17,4 +16,4 @@ behöver omständigheterna kring den enskilda vara en utgångspunkt.
 
 Samverkansstrukturen ska bestå av samverkansråd som inrättas på nationell, regional och lokal nivå. Samverkansråden på regional och lokal nivå ska etableras stegvis, i de mest prioriterade områdena och där det är särskilt angeläget. Resultat och effekter ska löpande följas upp av det nationella rådet.
 
-En redovisning av uppdraget ska lämnas till Regeringskansliet (Justitiedepartementet och Socialdepartementet) senast den 6 december 2024 med en delredovisning senast den 31 maj 2024\.
+En redovisning av uppdraget ska lämnas till Regeringskansliet (Justitiedepartementet och Socialdepartementet) senast den 6 december 2024 med en delredovisning senast den 31 maj 2024.

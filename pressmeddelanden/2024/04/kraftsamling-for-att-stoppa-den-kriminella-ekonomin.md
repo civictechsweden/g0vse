@@ -4,11 +4,11 @@ Den kriminella ekonomin har infiltrerat flera delar av samhället, så som det f
 
 – Den kriminella ekonomin måste strypas och det kräver en kraftsamling från hela samhället. Nu tar samhället ett ytterligare kliv framåt med över en kvarts miljard i ökade resurser till tio myndigheter, säger finansminister Elisabeth Svantesson.
 
-– Vi behöver stärka säkerheten för våra tulltjänstemän som idag arbetar i mycket utsatta och potentiellt livsfarliga situationer. Att stoppa in\- och utförsel av olagliga varor och stöldgods är en viktig del i vårt arbete mot de kriminella gängen, säger ekonomisk\-politisk talesperson Oscar Sjöstedt.
+– Vi behöver stärka säkerheten för våra tulltjänstemän som idag arbetar i mycket utsatta och potentiellt livsfarliga situationer. Att stoppa in- och utförsel av olagliga varor och stöldgods är en viktig del i vårt arbete mot de kriminella gängen, säger ekonomisk-politisk talesperson Oscar Sjöstedt.
 
 – För att värna om förtroendet för den offentliga förvaltningen krävs det hårda tag mot den organiserade brottsligheten. Kriminella organisationers verksamhet blir alltmer avancerad och nu vidtar vi ytterligare åtgärder för att bekämpa den kriminella ekonomin, säger civilminister Erik Slottner.
 
-– Arbetslivskriminaliteten är en inkomstkälla för den kriminella ekonomin, gör fusk till en konkurrensfördel så att hederliga företag slås ut och leder till att människor utsätts för människohandel och människoexploatering. Den ska bekämpas med full styrka. Därför förstärker vi nu arbetet mot arbetslivskriminalitet med 30 miljoner kronor, säger jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg.
+– Arbetslivskriminaliteten är en inkomstkälla för den kriminella ekonomin, gör fusk till en konkurrensfördel så att hederliga företag slås ut och leder till att människor utsätts för människohandel och människoexploatering. Den ska bekämpas med full styrka. Därför förstärker vi nu arbetet mot arbetslivskriminalitet med 30 miljoner kronor, säger jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg.
 
 De tillskott som föreslås kommer att gå till tre områden.
 

@@ -1,7 +1,6 @@
 # Långtidsutredningen 2023 - Finanspolitisk konjunkturstabilisering
 
-Långtidsutredningen analyserar framtida utmaningar för svensk ekonomi, bidrar med underlag till den ekonomiska politiken och till den ekonomisk\-politiska debatten. Långtidsutredningen 2023 är den tjugofjärde i ordningen och har temat finanspolitisk konjunkturstabilisering.
-
+Långtidsutredningen analyserar framtida utmaningar för svensk ekonomi, bidrar med underlag till den ekonomiska politiken och till den ekonomisk-politiska debatten. Långtidsutredningen 2023 är den tjugofjärde i ordningen och har temat finanspolitisk konjunkturstabilisering.
 
 När konjunkturen svänger har både penningpolitiken och finanspolitiken ett ansvar att stabilisera ekonomin. De senaste decennierna har penningpolitiken dock haft det huvudsakliga ansvaret, och finanspolitikens roll har främst varit att förbättra ekonomins funktionssätt och säkerställa hållbara offentliga finanser. I 2023 års Långtidsutredning beskrivs hur denna skarpa uppdelning började ifrågasättas i samband med den globala finanskrisen och hur denna diskussion tilltog efter pandemin. Kriserna visade att penningpolitiken hade svårt att ensamt hantera stabiliseringen av konjunkturen.
 

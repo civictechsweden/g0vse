@@ -6,6 +6,6 @@ Direktivet, som ersätter ett äldre direktiv på området, innehåller regler f
 
 I propositionen föreslås också vissa andra ändringar än de som är direkt motiverade av direktivet. Dessa förslag syftar främst till att möjliggöra effektivisering av svensk fondverksamhet.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2011\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2011.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Riksdagen fattade den 21 juni 2011 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

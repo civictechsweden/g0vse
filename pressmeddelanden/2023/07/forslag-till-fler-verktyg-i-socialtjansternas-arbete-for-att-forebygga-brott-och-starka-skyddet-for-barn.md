@@ -6,7 +6,7 @@ Utredaren Anna Tengberg har haft i uppdrag att biträda Socialdepartementet med 
 
 Utredaren har bl.a. haft i uppdrag att ta ställning till:
 
-* hur socialtjänstens möjligheter att ta del av uppgifter ur misstanke\- och belastningsregistret inom ramen för en barnavårdsutredning kan utvidgas,
+* hur socialtjänstens möjligheter att ta del av uppgifter ur misstanke- och belastningsregistret inom ramen för en barnavårdsutredning kan utvidgas,
 * om det ska vara obligatoriskt för socialtjänsten att återkoppla till den som omfattas av skyldigheten att göra en orosanmälan
 * om anmälningsskyldigheten ska utökas till att omfatta fler yrkesgrupper än i dag,
 * om möjligheterna till informationsutbyte mellan socialtjänsten i olika kommuner behöver utvidgas,

@@ -6,6 +6,6 @@ Det nya, mer effektiva förfarandet ska kallas för avlägsnande. För att under
 
 Särskilda bestämmelser införs som skyddar rättssäkerheten vid ett avlägsnande. Kronofogdemyndigheten ska bland annat göra en intresseavvägning när myndigheten prövar hur och när ett avlägsnande ska genomföras. Myndigheten kan även meddela anstånd med avlägsnandet. Särskild hänsyn ska tas till om det finns barn på platsen.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2017\.
+Lagändringarna föreslås träda i kraft den 1 juli 2017.
 
 [Pressmeddelande: Avlägsnande – en ny form av särskild handräckning](/pressmeddelanden/2017/03/avlagsnande--en-ny-form-av-sarskild-handrackning/)

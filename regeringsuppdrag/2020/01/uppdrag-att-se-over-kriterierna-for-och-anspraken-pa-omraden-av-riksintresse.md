@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Naturvårdsverket, Riksantikvarieämbetet, Statens energimyndighet, Tillväxtverket och Trafikverket (riksintresse­myndigheterna) att tillsammans med Boverket som samordnande myndighet göra en översyn av sina respektive anspråk på områden av riksintresse.
 
-
 I uppdraget ingår att
 
 * se över och precisera kriterierna för vilka områden som ska anses vara av riksintresse enligt 3 kap. 6–8 §§ miljöbalken, och

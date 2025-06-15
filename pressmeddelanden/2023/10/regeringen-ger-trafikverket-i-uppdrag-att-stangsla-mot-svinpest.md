@@ -1,6 +1,6 @@
 # Regeringen ger Trafikverket i uppdrag att stängsla mot svinpest
 
-– Trafikverket har den kompetens som behövs för att hjälpa till med stängslingsåtgärder och får därför i uppdrag att bistå Jordbruksverket med detta, säger infrastruktur\- och bostadsminister Andreas Carlson.
+– Trafikverket har den kompetens som behövs för att hjälpa till med stängslingsåtgärder och får därför i uppdrag att bistå Jordbruksverket med detta, säger infrastruktur- och bostadsminister Andreas Carlson.
 
 Den 6 september 2023 konstaterades det första fallet av afrikansk svinpest i Sverige. Afrikansk svinpest är en smittsam och dödlig sjukdom som drabbar vildsvin och grisar, men inte människor eller andra djurarter.
 

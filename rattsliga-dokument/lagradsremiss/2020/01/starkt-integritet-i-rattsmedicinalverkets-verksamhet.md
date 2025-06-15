@@ -4,6 +4,6 @@ Regeringen föreslår två nya lagar för Rättsmedicinalverkets verksamhet, lag
 
 Lagen om Rättsmedicinalverkets behandling av personuppgifter kommer, med de undantag som uttryckligen anges i lagen, att vara tillämplig på all behandling av personuppgifter som äger rum vid Rättsmedicinalverket.
 
-Genom lagen om Rättsmedicinalverkets elimineringsdatabas införs tydliga rättsliga förutsättningar för att Rättsmedicinalverket ska kunna föra en elimineringsdatabas i syfte att stärka kvaliteten i den rättsgenetiska verksamheten med dna\-analyser.
+Genom lagen om Rättsmedicinalverkets elimineringsdatabas införs tydliga rättsliga förutsättningar för att Rättsmedicinalverket ska kunna föra en elimineringsdatabas i syfte att stärka kvaliteten i den rättsgenetiska verksamheten med dna-analyser.
 
-De nya lagarna föreslås träda i kraft den 1 juli 2020\.
+De nya lagarna föreslås träda i kraft den 1 juli 2020.

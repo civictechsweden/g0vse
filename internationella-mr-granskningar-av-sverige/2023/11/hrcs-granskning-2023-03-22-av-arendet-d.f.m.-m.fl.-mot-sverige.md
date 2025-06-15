@@ -2,7 +2,6 @@
 
 Fråga om ett polisingripande som ledde till ett dödsfall stred mot artikel 6 i FN:s konvention om medborgerliga och politiska rättigheter.
 
-
 FN:s kommitté för de mänskliga rättigheterna (HRC) fann i sitt utlåtande, slutversion från den 8 juni 2023, att polisens ingripande innebar en kränkning av rätten till liv i FN:s konvention om medborgerliga och politiska rättigheter.
 
 I utlåtandet riktade kommittén kritik mot polisinsatsens genomförande. Kommittén ansåg bland annat att det fanns brister i samband med insatsens planering och att användandet av vapen inte hade varit proportionerligt i förhållande till situationen som påkallat insatsen.

@@ -2,16 +2,15 @@
 
 Här kan du ta del av vilka instanser som regeringen har remitterat SOU 2015:109 Bättre samarbete mellan stat och kommun vid planering och byggande.
 
-
-Remissvaren ska ha kommit in till Näringsdepartementet senast den 31 mars 2016\.
+Remissvaren ska ha kommit in till Näringsdepartementet senast den 31 mars 2016.
 
 ## Remissinstanser:
 
 1. Riksdagens ombudsmän
 2. Riksrevisionen
-3. Svea hovrätt, Mark\- och miljööverdomstolen
-4. Östersunds tingsrätt, mark\- och miljödomstolen
-5. Växjö tingsrätt, mark\- och miljödomstolen
+3. Svea hovrätt, Mark- och miljööverdomstolen
+4. Östersunds tingsrätt, mark- och miljödomstolen
+5. Växjö tingsrätt, mark- och miljödomstolen
 6. Boverket
 7. Jordbruksverket
 8. Naturvårdsverket
@@ -110,12 +109,12 @@ Remissvaren ska ha kommit in till Näringsdepartementet senast den 31 mars 2016\
 101. Villaägarnas Riksförbund
 102. Lantbrukarnas Riksförbund
 
-Planprocessutredningen betänkande Bättre samarbete mellan stat och kommun vid planering och byggande (SOU 2015:109\) remitteras härmed till ovanstående remissinstanser.
+Planprocessutredningen betänkande Bättre samarbete mellan stat och kommun vid planering och byggande (SOU 2015:109) remitteras härmed till ovanstående remissinstanser.
 
-Remissvaren ska ha kommit in till Näringsdepartementet senast den 31 mars 2016\. Remissvaren önskas i elektronisk form via e\-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "E-post till Näringsdepartementets registrator")med kopia till [Maria Edlund](mailto:maria.edlund@regeringskansliet.se "E-post till Maria Edlund") i både Word\- och pdf\-format. Vi uppskattar om filnamnet är Regeringskansliets diarienummer utan snedstreck, N2015\-08971\-PUB följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i rapporten. I remissvaret anges Regeringskansliets diarienummer N2015/08971/PUB.
+Remissvaren ska ha kommit in till Näringsdepartementet senast den 31 mars 2016. Remissvaren önskas i elektronisk form via e-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "E-post till Näringsdepartementets registrator")med kopia till [Maria Edlund](mailto:maria.edlund@regeringskansliet.se "E-post till Maria Edlund") i både Word- och pdf-format. Vi uppskattar om filnamnet är Regeringskansliets diarienummer utan snedstreck, N2015-08971-PUB följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i rapporten. I remissvaret anges Regeringskansliets diarienummer N2015/08971/PUB.
 
 Myndigheter under regeringen är skyldiga att svara på remissen. En myndighet avgör dock på eget ansvar om den har några synpunkter att redovisa i ett svar. Om myndigheten inte har några synpunkter, räcker det att svaret ger besked om detta.
 
 För andra remissinstanser innebär remissen en inbjudan att lämna synpunkter.
 
-Frågor under remisstiden kan ställas till [Ivar Frostenson](mailto:ivar.frostenson@regeringskansliet.se "E-post till Ivar Frostenson "), telefonnummer 08\-405 35 32\.
+Frågor under remisstiden kan ställas till [Ivar Frostenson](mailto:ivar.frostenson@regeringskansliet.se "E-post till Ivar Frostenson "), telefonnummer 08-405 35 32.

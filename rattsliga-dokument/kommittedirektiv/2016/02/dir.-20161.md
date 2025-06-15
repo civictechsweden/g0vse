@@ -8,6 +8,6 @@ Utredaren ska bland annat:
 * analysera och bedöma om gällande bestämmelser om arbetsmiljöansvar är ändamålsenliga med tanke på det moderna arbetslivets utmaningar, och
 * se över de regionala skyddsombudens tillträdesrätt och befogenheter och i denna del utarbeta nödvändiga författningsförslag.
 
-Uppdragen att kartlägga det moderna arbetslivets utmaningar och att analysera gällande bestämmelser om arbetsmiljöansvar ska redovisas senast den 14 december 2016\.
+Uppdragen att kartlägga det moderna arbetslivets utmaningar och att analysera gällande bestämmelser om arbetsmiljöansvar ska redovisas senast den 14 december 2016.
 
-Uppdraget att se över de regionala skyddsombudens tillträdesrätt och befogenheter ska redovisas senast den 31 mars 2017\.
+Uppdraget att se över de regionala skyddsombudens tillträdesrätt och befogenheter ska redovisas senast den 31 mars 2017.

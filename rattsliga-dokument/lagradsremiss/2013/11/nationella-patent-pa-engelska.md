@@ -4,4 +4,4 @@ Regeringen föreslår att nationella patentansökningar ska kunna behandlas och 
 
 För att tillgodose allmänhetens intresse av att kunna bilda sig en uppfattning om en patentansökan föreslås att sökanden i dessa fall ska ge in en översättning till svenska av patentkraven, som utgör en begränsad del av ansökan.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2014\.
+Lagändringarna föreslås träda i kraft den 1 juli 2014.

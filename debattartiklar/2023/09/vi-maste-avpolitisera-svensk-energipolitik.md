@@ -1,7 +1,6 @@
 # "Vi måste avpolitisera svensk energipolitik"
 
-Slaget om olika kraftslag har fått skadliga konsekvenser, skriver energi\- och näringsminister Ebba Busch i en debattartikel i Aftonbladet den 19 september 2023\.
-
+Slaget om olika kraftslag har fått skadliga konsekvenser, skriver energi- och näringsminister Ebba Busch i en debattartikel i Aftonbladet den 19 september 2023.
 
 Det är dags att avpolitisera energipolitiken. Alla borde vara överens om att det svenska elsystemet måste leverera fossilfri el där den behövs, när den behövs och till konkurrenskraftiga priser.
 
@@ -15,7 +14,7 @@ Enskilda människor har tvingats till drastiska besparingsåtgärder i sina desp
 
 Förra året visade en kartläggning av Sveriges radio att minst 24 kommuner har gått miste om nya företagsetableringar på grund av begränsningar i elnätet.
 
-Sverige har byggt ut elsystemet de senaste tio åren med 10 000 megawatt mer elproduktion installerat i elsystemet. Det motsvarar nästan sju Oskarshamns 3\-kärnkraftsreaktorer. Därtill har vi mer elnät än någonsin.
+Sverige har byggt ut elsystemet de senaste tio åren med 10 000 megawatt mer elproduktion installerat i elsystemet. Det motsvarar nästan sju Oskarshamns 3-kärnkraftsreaktorer. Därtill har vi mer elnät än någonsin.
 
 Paradoxalt nog har Sverige under denna period haft successivt minskad överföringskapacitet i elsystemet, försämrad effektbalans och högre elpriser.
 
@@ -23,7 +22,7 @@ Förklaringen är att elproduktion som tillkommit är väderberoende och planerb
 
 Den 31 augusti träffade regeringen representanter från alla delar av vårt fysiska elsystem som gav ett tydligt medskick: Politisk enighet och stabilitet är avgörande för att Sverige ska lyckas med att bygga ut och expandera landets energisystem.
 
-Ett kommunalt energibolag påpekade att det är dags att ta svensk samverkan till en helt ny nivå. Som energi\- och näringsminister är jag övertygad om att det är möjligt.
+Ett kommunalt energibolag påpekade att det är dags att ta svensk samverkan till en helt ny nivå. Som energi- och näringsminister är jag övertygad om att det är möjligt.
 
 Ett första steg i den här riktningen är det möte som regeringen nu ordnar med övriga riksdagspartier.
 
@@ -33,7 +32,7 @@ De här mötena bidrar till framtagandet av den energipolitiska inriktningspropo
 
 Samtidigt har den här regeringen accelererat arbetet för att korta anslutningstiderna till elnätet, få en effektivare hantering av förfrågningar om anslutning och förenkla samt förkorta miljötillstånd. Kortare ledtider som snabbare processer är målet.
 
-Vår energipolitik har gett resultat, ett flertal förstudier om ny kärnkraft är på gång, till exempel etablering av SMR\-reaktorer hos Studsvik i Nyköping. Alltså ny fossilfri kraftproduktion med rätt egenskaper på rätt plats.
+Vår energipolitik har gett resultat, ett flertal förstudier om ny kärnkraft är på gång, till exempel etablering av SMR-reaktorer hos Studsvik i Nyköping. Alltså ny fossilfri kraftproduktion med rätt egenskaper på rätt plats.
 
 Det svenska elsystemet är viktigt för familjer och företag. Det är avgörande för vårt lands välfärd och bestämmer Sveriges konkurrenskraft som industriland. Dessutom är det elsystemets utformning som ger förutsättningarna för Sverige ska kunna uppnå klimatmålen.
 
@@ -41,4 +40,4 @@ Politiska förutsättningarna behöver komma på plats för att bygga Sveriges e
 
 Jag hoppas att det kan göras över de politiska blockgränserna. Alla goda krafter behövs.
 
-Ebba Busch, energi\- och näringsminister
+Ebba Busch, energi- och näringsminister

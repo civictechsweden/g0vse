@@ -1,6 +1,6 @@
 # Ny lag om leksakers säkerhet
 
-I propositionen föreslås en ny lag om leksakers säkerhet som ersätter lagen (1992:1327\) om leksakers säkerhet. Genom den nya lagen genomförs Europaparlamentets och rådets direktiv 2009/48/EG av den 18 juni 2009 om leksakers säkerhet.
+I propositionen föreslås en ny lag om leksakers säkerhet som ersätter lagen (1992:1327) om leksakers säkerhet. Genom den nya lagen genomförs Europaparlamentets och rådets direktiv 2009/48/EG av den 18 juni 2009 om leksakers säkerhet.
 
 Direktivet är ett resultat av en revidering av rådets direktiv 88/378/EEG om tillnärmning av medlemsstaternas lagstiftning om leksakers säkerhet. Revideringen innebär en rad förändringar som syftar till att höja säkerhetsnivån på leksaker. De ekonomiska aktörernas ansvar för leksakers säkerhet konkretiseras och en rad konstruktionskrav skärps och preciseras.
 
@@ -8,4 +8,4 @@ Propositionen innehåller även förslag som syftar till att komplettera Europap
 
 Den nya lagen om leksakers säkerhet föreslås tillämpas på leksaker som tillhandahålls i kommersiell och i offentlig verksamhet. Lagen innehåller nya bestämmelser om säkerhetskrav, krav på ekonomiska aktörer samt kompletterande bestämmelser om marknadskontroll.
 
-Den nya lagen, och en följdändring i lagen (2001:559\) om vägtrafikdefinitioner, föreslås träda i kraft den 20 juli 2011\.
+Den nya lagen, och en följdändring i lagen (2001:559) om vägtrafikdefinitioner, föreslås träda i kraft den 20 juli 2011.

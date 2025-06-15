@@ -1,10 +1,9 @@
 # Uppdrag att upprätta en nationell förstärkningsresurs för katastrofmedicinska insatser
 
-Regeringen uppdrar åt Socialstyrelsen att upprätta en nationell förstärkningsresurs för katastrofmedicinska insatser som med kort varsel kan stödja en region vars hälso\- och sjukvård riskerar att överbelastas.
-
+Regeringen uppdrar åt Socialstyrelsen att upprätta en nationell förstärkningsresurs för katastrofmedicinska insatser som med kort varsel kan stödja en region vars hälso- och sjukvård riskerar att överbelastas.
 
 * genomföra nödvändiga inköp av materiel till den nationella förstärkningsresursen och skapa en struktur för personella resurser som ett stöd till regionerna i att bemanna förstärkningsresursen,
-* påbörja utbildning och övning för berörd hälso\- och sjukvårdspersonal i regionerna,
+* påbörja utbildning och övning för berörd hälso- och sjukvårdspersonal i regionerna,
 * påbörja en certifieringsprocess av den nationella förstärkningsresursen i enlighet med Världshälsoorganisationens (WHO) standard avseende Emergency Medical Team (EMT),
 * utreda möjligheterna till och verka för ett nordiskt samarbete för förstärkningsresursen,
 * inhämta synpunkter och kunskap från Försvarets materielverk,

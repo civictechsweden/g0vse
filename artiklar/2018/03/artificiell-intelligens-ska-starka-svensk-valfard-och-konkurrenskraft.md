@@ -1,13 +1,12 @@
 # Artificiell intelligens ska stärka svensk välfärd och konkurrenskraft
 
-Utveckling och tillämpning av artificiell intelligens (AI) är en prioriterad fråga för regeringen och står i fokus för Nationella innovationsrådets möte den 19 mars 2018\. Åsa Zetterberg, regeringens Chief Digital Officer, är inbjuden till mötet för att delta i diskussionen om hur regeringen kan bidra till att AI:s möjligheter utvecklas och tas tillvara i hela samhället.
-
+Utveckling och tillämpning av artificiell intelligens (AI) är en prioriterad fråga för regeringen och står i fokus för Nationella innovationsrådets möte den 19 mars 2018. Åsa Zetterberg, regeringens Chief Digital Officer, är inbjuden till mötet för att delta i diskussionen om hur regeringen kan bidra till att AI:s möjligheter utvecklas och tas tillvara i hela samhället.
 
 Artificiell intelligens är en intelligens som uppvisas av maskiner. Genom att processa stora mängder data upptäcks mönster och samband som skapar förmåga hos maskiner att lära sig, förstå, fatta beslut och agera på ett liknande sätt som människor.
 
 ## AI är en viktig katalysator för innovation och utveckling
 
-AI är ett mycket kraftfullt verktyg och en teknologi som öppnar upp för nya förmågor, arbetssätt, affärsidéer och tjänster, och utgör på så vis en viktig katalysator för innovation och utveckling. Det kan stärka Sveriges konkurrenskraft och välfärd. Idag används AI i analys\- och beslutsstöd, diagnostik, hemassistenter, handläggarrobotar, självkörande fordon, hälsoappar, tal\- och bildigenkänning, översättning, adaptiva lärprogram, bedrägeribekämpning i finansiella system, kundanpassning av utbud i e\-handel med mera.
+AI är ett mycket kraftfullt verktyg och en teknologi som öppnar upp för nya förmågor, arbetssätt, affärsidéer och tjänster, och utgör på så vis en viktig katalysator för innovation och utveckling. Det kan stärka Sveriges konkurrenskraft och välfärd. Idag används AI i analys- och beslutsstöd, diagnostik, hemassistenter, handläggarrobotar, självkörande fordon, hälsoappar, tal- och bildigenkänning, översättning, adaptiva lärprogram, bedrägeribekämpning i finansiella system, kundanpassning av utbud i e-handel med mera.
 
 ## Ett bra innovationsklimat är en framgångsfaktor för Sverige
 

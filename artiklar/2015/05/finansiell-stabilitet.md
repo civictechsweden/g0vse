@@ -2,7 +2,6 @@
 
 Sverige har ett ramverk för finansiell stabilitet i syfte att minska risken för att det finansiella systemet drabbas av allvarliga problem. Det ska även hantera en eventuell finansiell kris så att återverkningarna på tillväxt och sysselsättning begränsas och kostnaderna för skattebetalarna minimeras.
 
-
 Inom ramverkets olika delar pågår ett kontinuerligt arbete för att stärka det finansiella systemet. De viktigaste delarna i ramverket är:
 
 ## Stärkta regelverk
@@ -27,7 +26,7 @@ Tillsynen har stärkts:
 
 Flera åtgärder har vidtagits för att förbättra hanteringen av finansiella kriser:
 
-* Ett EU\-direktiv om krishantering av kreditinstitut och värdepappersbolag har genomförts i svensk rätt. De nya reglerna, som trädde i kraft den 1 februari 2016, specificerar hur krishantering ska gå till och vem som ska bära kostnaderna för krishanteringsåtgärder. Ett av de viktigaste syftena med det nya regelverket är att ägare och borgenärer till det krisande företaget ska bära mer av kostnaderna, så att statens kostnader för krishantering kan minimeras. Ett helt nytt förfarande, resolution, har införts för att särskilt kunna hantera finansiella företag i kris. Riksgälden har getts uppdraget att, såsom resolutionsmyndighet, tillämpa det nya regelverket.
+* Ett EU-direktiv om krishantering av kreditinstitut och värdepappersbolag har genomförts i svensk rätt. De nya reglerna, som trädde i kraft den 1 februari 2016, specificerar hur krishantering ska gå till och vem som ska bära kostnaderna för krishanteringsåtgärder. Ett av de viktigaste syftena med det nya regelverket är att ägare och borgenärer till det krisande företaget ska bära mer av kostnaderna, så att statens kostnader för krishantering kan minimeras. Ett helt nytt förfarande, resolution, har införts för att särskilt kunna hantera finansiella företag i kris. Riksgälden har getts uppdraget att, såsom resolutionsmyndighet, tillämpa det nya regelverket.
 * Samtidigt har det införts en ny lag om förebyggande statligt stöd till kreditinstitut (stödlagen) som gör det möjligt att ingripa med olika former av stöd (garantier eller kapitaltillskott) till solventa svenska kreditinstitut för att förhindra allvarliga störningar i det finansiella systemet. Riksgälden har av regeringen utsetts till stödmyndighet enligt den nya lagen.
 * Sedan 2008 finns en stabilitetsfond som buffert för stödåtgärder vid finansiella kriser. Kreditinstituten har också betalat in avgifter till fonden. Genom det nya regelverket för krishantering har en ny fond – resolutionsreserven – skapats för att täcka statens kostnader för krishantering. Kreditinstitut och värdepappersbolag ska betala in avgifter till den nya fonden. På grund av detta har avgiften till stabilitetsfonden avskaffats, men själva fonden blir kvar.
 * Höjd insättningsgaranti för att skydda konsumenter och värna den finansiella stabiliteten. Investerarskydd för att skydda konsumenter som har värdepapper eller pengar hos banker och värdepappersbolag.

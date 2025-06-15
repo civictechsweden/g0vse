@@ -9,4 +9,4 @@ Utredaren ska bland annat
 
 Utredaren ska biträdas av en parla­men­tariskt samman­satt referens­grupp.
 
-Uppdraget att före­slå hur ändrings­direktivet ska genom­föras ska redo­visas senast den 11 november 2022\. Upp­draget i övrigt ska redo­visas senast den 10 november 2023\.
+Uppdraget att före­slå hur ändrings­direktivet ska genom­föras ska redo­visas senast den 11 november 2022. Upp­draget i övrigt ska redo­visas senast den 10 november 2023.

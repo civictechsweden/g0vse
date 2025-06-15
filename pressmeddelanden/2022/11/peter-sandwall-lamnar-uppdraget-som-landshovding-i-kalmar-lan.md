@@ -4,4 +4,4 @@
 
 Regeringen har idag även utsett tidigare länsrådet Johan Blom till vikarierande landshövding i Kalmar län. Johan Blom var under ett år vikarierande landshövding för Länsstyrelsen i Värmlands län. Dessförinnan var Blom avdelningschef för Myndigheten för yrkeshögskolan och under en period även vikarierande generaldirektör för denna myndighet. Blom har också varit chef i Arbetsförmedlingen, både lokalt, regionalt och nationellt.
 
-Både Peter Sandwall och Johan Blom tillträder sina tjänster den 3 november 2022\.
+Både Peter Sandwall och Johan Blom tillträder sina tjänster den 3 november 2022.

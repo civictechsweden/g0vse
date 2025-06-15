@@ -2,7 +2,6 @@
 
 Ungdom Mot Rasism är Sveriges största antirasistiska ungdomsorganisation som organiserar ungdomar som vill engagera sig mot rasism. I dagsläget har de cirka 3000 medlemmar. Ungdom Mot Rasism är en partipolitiskt och religiöst obunden organisation som är uppbyggd av och för ungdomar och består framförallt av lokala föreningar runt om i Sverige och finns på cirka 20 orter.
 
-
 **Hej, Isabella Andersson, ordförande, berätta hur ni bedriver ert arbete?**
 
 Vi arbetar med demokratiska metoder och använder kunskap som främsta verktyg. Grunden i verksamheten är lokal aktivism där medlemmar engagerar sig lokalt på det sätt som passar dem bäst. Det kan handla om att ordna demonstrationer, arrangera diskussionskvällar, diskutera på nätet, skriva insändare eller ordna fotbollsturneringar och kulturaktiviteter.

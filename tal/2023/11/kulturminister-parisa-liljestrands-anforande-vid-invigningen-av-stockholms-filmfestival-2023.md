@@ -4,7 +4,6 @@ Stockholm, 7 november 2023
 
 Det talade ordet gäller.
 
-
 Det är en stor ära – och framför allt fantastiskt roligt! – att återigen få inviga Stockholms filmfestival.
 
 First of I would like to start by welcoming our international guests. We are honoured by your presence and participation, and glad that you have all made the journey to Sweden. As Minister of Culture, I am happy to see this kind of international cooperation and exchange of ideas taking place here, in Stockholm. A special warm welcome to you! And now I hope you will excuse me as I switch back to Swedish.
@@ -27,7 +26,7 @@ Det finns många och ofta väldigt skilda åsikter kring hur svensk filmpolitik 
 
 Vi behöver definiera vilka typer av filmer som förtjänar skattebetalarnas stöd, och på vilket sätt. Vi behöver titta på hur svensk film ska fortsätta att vara konkurrenskraftig internationellt, men också hur vi kan få fler att upptäcka svensk film här på hemmaplan.
 
-Vi behöver fundera över hur det offentliga ska kunna stötta och underlätta för filmskapare och producenter, så att svensk film kan vinna priser världen över och samtidigt locka publik till svenska biografer och få familjer att samlas i TV\-sofforna.
+Vi behöver fundera över hur det offentliga ska kunna stötta och underlätta för filmskapare och producenter, så att svensk film kan vinna priser världen över och samtidigt locka publik till svenska biografer och få familjer att samlas i TV-sofforna.
 
 Svensk film kan nämligen göra allt det. Men då behöver den också rustas för att möta förändring.
 

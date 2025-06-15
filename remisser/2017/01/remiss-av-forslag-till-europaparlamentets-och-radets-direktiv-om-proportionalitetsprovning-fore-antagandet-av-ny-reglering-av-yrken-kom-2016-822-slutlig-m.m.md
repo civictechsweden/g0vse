@@ -1,7 +1,6 @@
 # Remiss av förslag till Europaparlamentets och rådets direktiv om proportionalitetsprövning före antagandet av ny reglering av yrken (KOM (2016) 822 slutlig) och Meddelande från kommissionen till Europaparlamentet, rådet, Europeiska ekonomiska och sociala kommittén och regionkommittén med reformrekommendationer för reglering av professionella tjänster (KOM (2016) 820 slutlig)
 
-Här kan du ta del av till vilka instanser regeringen har remitterat förslag till Europaparlamentets och rådets direktiv om proportionalitetsprövning före antagandet av ny reglering av yrken (KOM (2016\) 822 slutlig) och Meddelande från kommissionen till Europaparlamentet, rådet, Europeiska ekonomiska och sociala kommittén och regionkommittén med reformrekommendationer för reglering av professionella tjänster (KOM (2016\) 820 slutlig). Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 22 februari 2017\.
-
+Här kan du ta del av till vilka instanser regeringen har remitterat förslag till Europaparlamentets och rådets direktiv om proportionalitetsprövning före antagandet av ny reglering av yrken (KOM (2016) 822 slutlig) och Meddelande från kommissionen till Europaparlamentet, rådet, Europeiska ekonomiska och sociala kommittén och regionkommittén med reformrekommendationer för reglering av professionella tjänster (KOM (2016) 820 slutlig). Remissvaren ska ha kommit in till Utbildningsdepartementet senast den 22 februari 2017.
 
 ### Remissinstanser
 
@@ -22,7 +21,7 @@ Här kan du ta del av till vilka instanser regeringen har remitterat förslag ti
 15 Fastighetsmäklarinspektionen
 16 Statens skolverk
 17 Myndigheten för yrkeshögskolan
-18 Universitets\- och högskolerådet
+18 Universitets- och högskolerådet
 19 Naturvårdsverket
 20 Kemikalieinspektionen
 21 Elsäkerhetsverket

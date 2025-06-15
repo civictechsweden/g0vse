@@ -4,7 +4,6 @@ Statsminister Ulf Kristerssons tal under en manifestation mot antisemitism. Onsd
 
 Det talade ordet gäller.
 
-
 Vi är här i dag för att visa vårt stöd till Sveriges judar. Rätten att ge uttryck för sin tro, sin identitet, sin kultur och sitt sammanhang är fundamental i en demokrati som vår. Hotas den, hotas inte bara enskilda människor utan något större och bredare i vårt samhälle.
 
 Historiskt har vi sett väldigt många exempel på brutal antisemitism. Många har frågat sig: hur kunde det tillåtas? Hur kunde det ske? Varför sa ingen något? Varför gjordes så lite?

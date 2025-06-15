@@ -6,4 +6,4 @@ Efterlevandestöd får enligt nuvarande bestämmelser inte lämnas för längre 
 
 Arbetsgruppen föreslår att efterlevandestöd inte ska få lämnas för längre tid tillbaka än sex månader före ansökningsmånaden.
 
-Lagändringen föreslås träda i kraft den 1 juli 2018\.
+Lagändringen föreslås träda i kraft den 1 juli 2018.

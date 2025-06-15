@@ -8,4 +8,4 @@ Förslaget innebär också att fler verksamheter omfattas av reglerna. I dag omf
 
 – Det innebär att ytterligare företag, såsom Getswish AB, kan komma att ställas under Finansinspektionens tillsyn, säger finansmarknadsminister Niklas Wykman.
 
-Efter Lagrådets granskning av förslaget är avsikten att regeringen ska besluta en proposition till riksdagen. Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Efter Lagrådets granskning av förslaget är avsikten att regeringen ska besluta en proposition till riksdagen. Lagändringarna föreslås träda i kraft den 1 januari 2024.

@@ -2,7 +2,6 @@
 
 Söndag den 8 januari börjar Folk och försvars årliga rikskonferens i Sälen. Politiker och civilsamhället möts för att diskutera säkerhetspolitik, försvar och samhällets beredskap.
 
-
 Temat i år är Nato och EU i en ny säkerhetspolitiska verklighet. Regeringen deltar med statsministern och fyra statsråd. Även Sveriges nationella säkerhetsrådgivare Henrik Landerholm deltar.
 
 **8 januari:**
@@ -16,10 +15,10 @@ Utrikesminister **Tobias Billström**:
 
 **9 januari:**
 Försvarsminister **Pål Jonson** och
-minister för civilt försvar **Carl\-Oskar Bohlin**:
+minister för civilt försvar **Carl-Oskar Bohlin**:
 – Försvarspolitiska prövningar och totalförsvarets motståndskraft
 [Tal: Försvarsminister Pål Jonson](/tal/2023/01/tal-av-forsvarsminister-pal-jonson-vid-folk-och-forsvars-rikskonferens-2023/ "Tal av försvarsminister Pål Jonson vid Folk och Försvars rikskonferens 2023")
-[Tal: Minister för civilt försvar Carl\-Oskar Bohlin](/tal/2023/01/tal-av-minister-for-civilt-forsvar-carl-oskar-bohlin-vid-folk-och-forsvars-rikskonferens-2023/ "Tal av minister för civilt försvar Carl-Oskar Bohlin vid Folk och Försvars rikskonferens 2023")
+[Tal: Minister för civilt försvar Carl-Oskar Bohlin](/tal/2023/01/tal-av-minister-for-civilt-forsvar-carl-oskar-bohlin-vid-folk-och-forsvars-rikskonferens-2023/ "Tal av minister för civilt försvar Carl-Oskar Bohlin vid Folk och Försvars rikskonferens 2023")
 
 **10 januari:**
 Justitieminister **Gunnar Strömmer**:

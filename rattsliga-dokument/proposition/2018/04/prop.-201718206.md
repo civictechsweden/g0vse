@@ -7,4 +7,4 @@ dess rubrik ändras till lagen om regionalt utvecklingsansvar och att vissa
 följdändringar görs i den lagen samt i lagen om strukturfondspartnerskap, lagen om registrering av verkliga huvudmän
 och kommunallagen. Vidare föreslås att lagen om samverkansorgan i länen och lagen om kreditering på skattekonto av stöd till kommuner för anläggande av telenät ska upphöra att gälla.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2019\.
+Lagändringarna föreslås träda i kraft den 1 januari 2019.

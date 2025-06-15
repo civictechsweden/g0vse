@@ -1,6 +1,6 @@
 # Modernare regler för polisens användning av skjutvapen
 
-En utredning har haft i uppdrag att föreslå en ny reglering för polisens använd­ning av skjutvapen. I upp­draget ingick bland annat att se över i vilka situa­tioner och under vilka förut­sätt­ningar polisen ska få använda skjut­vapen. Den nuvarande regleringen, som i dag finns i en kun­görelse från 1960\-talet, har beskrivits som föråld­rad och svår­tillämpad i flera avseenden. Polis­myndig­heten har därför begärt att den ska ses över.
+En utredning har haft i uppdrag att föreslå en ny reglering för polisens använd­ning av skjutvapen. I upp­draget ingick bland annat att se över i vilka situa­tioner och under vilka förut­sätt­ningar polisen ska få använda skjut­vapen. Den nuvarande regleringen, som i dag finns i en kun­görelse från 1960-talet, har beskrivits som föråld­rad och svår­tillämpad i flera avseenden. Polis­myndig­heten har därför begärt att den ska ses över.
 
 [Ds 2023:25 Polisens rätt att skjuta – ­­En ny reglering om laga befogenhet
 att använda skjutvapen](/rattsliga-dokument/departementsserien-och-promemorior/2023/09/ds-202325/ "Ds 2023:25")

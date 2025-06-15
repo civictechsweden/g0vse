@@ -6,6 +6,6 @@ Forskningens frihet är sedan tidigare reglerad i grundlagen och högskolelagen.
 
 UKÄ ska enligt uppdraget i myndighetens regleringsbrev för 2023 genomföra fallstudier i syfte att ge en fördjupad förståelse för universitets och högskolors arbete med att främja och värna akademisk frihet i enlighet med bestämmelserna i högskolelagen och en kultur som tillåter fritt kunskapssökande och fri kunskapsspridning. Myndigheten ska även sammanställa lärosätenas arbete med att främja och värna den akademiska friheten och en kultur som tillåter fritt kunskapssökande och fri kunskapsspridning. Sammanställningen ska inkludera en sammanfattande nationell bild och en internationell utblick.
 
-Uppdraget om fallstudier ska redovisas senast den 15 februari 2024 och övriga delar ska redovisas senast den 15 maj 2024\.
+Uppdraget om fallstudier ska redovisas senast den 15 februari 2024 och övriga delar ska redovisas senast den 15 maj 2024.
 
 Frågan om akademisk frihet aktualiserades under hösten i debatten om förekomsten av så kallad cancelkultur på svenska lärosäten.

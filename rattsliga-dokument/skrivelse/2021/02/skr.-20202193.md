@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om Finansinspektionens arbete för att motverka intressekonflikter
 
-Riksrevisionen har i sin rapport Finansinspektionens arbete för att motverka intressekonflikter (RiR 2020:18\) redovisat granskningen av Finansinspektionens arbete för att motverka intressekonflikter inom myndigheten.
+Riksrevisionen har i sin rapport Finansinspektionens arbete för att motverka intressekonflikter (RiR 2020:18) redovisat granskningen av Finansinspektionens arbete för att motverka intressekonflikter inom myndigheten.
 
 Riksrevisionens granskning visar att Finansinspektionen har ett omfattande personalutbyte med finansbranschen och anför att detta kan undergräva såväl allmänhetens som branschens förtroende för myndighetens förmåga att utföra sitt uppdrag. Riksrevisionen konstaterar att Finansinspektionen sammantaget har ändamålsenliga regler, riktlinjer och arbetsprocesser för att motverka intressekonflikter.
 

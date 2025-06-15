@@ -8,4 +8,4 @@ Utredaren ska bland annat
 * analysera risk­faktorer för otillåten påverkan och korruption, samt
 * föreslå åtgärder för att före­bygga och bekämpa otillåten påverkan och korruption.
 
-Uppdraget ska redo­visas senast den 5 januari 2024\.
+Uppdraget ska redo­visas senast den 5 januari 2024.

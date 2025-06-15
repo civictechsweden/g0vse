@@ -29,4 +29,4 @@ bestämmelser om bl.a. krav på den enskildes medgivande vid viss
 personuppgiftsbehandling och begränsningar av tillgången till
 personuppgifter.
 
-Lagen föreslås träda i kraft den 1 januari 2025\.
+Lagen föreslås träda i kraft den 1 januari 2025.

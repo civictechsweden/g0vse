@@ -2,8 +2,7 @@
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat SOU 2017:54 Fler nyanlända elever ska uppnå behörighet till gymnasiet.
 
-
-Sista dag att svara på remissen är den 27 oktober 2017\.
+Sista dag att svara på remissen är den 27 oktober 2017.
 
 ## Remissinstanser
 
@@ -19,7 +18,7 @@ Sista dag att svara på remissen är den 27 oktober 2017\.
 10. Myndigheten för ungdoms och civilsamhällesfrågor
 11. Statens institutionsstyrelse
 12. Skolväsendets överklagandenämnd
-13. Barn\- och elevombudet
+13. Barn- och elevombudet
 14. Diskrimineringsombudsmannen
 15. Nationellt centrum för svenska som andraspråk
 16. Boxholms kommun
@@ -35,7 +34,7 @@ Sista dag att svara på remissen är den 27 oktober 2017\.
 26. Lidköpings kommun
 27. Lunds kommun
 28. Malmö kommun
-29. Malung\-Sälens kommun
+29. Malung-Sälens kommun
 30. Mariestads kommun
 31. Mönsterås kommun
 32. Nykvarns kommun

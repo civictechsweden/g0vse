@@ -12,4 +12,4 @@ Samtidigt ska bestämmelsen om straffansvar för underlåtenhet att anmäla upph
 
 Regeringen föreslår att primärvårdens grunduppdrag ska omfatta rehabiliterande insatser.
 
-Regeringen föreslår att bestämmelserna om möjligheten för IVO att besluta om föreläggande föreslås träda i kraft den 1 juli 2023\. Övriga förslag föreslås träda i kraft den 1 januari 2024\.
+Regeringen föreslår att bestämmelserna om möjligheten för IVO att besluta om föreläggande föreslås träda i kraft den 1 juli 2023. Övriga förslag föreslås träda i kraft den 1 januari 2024.

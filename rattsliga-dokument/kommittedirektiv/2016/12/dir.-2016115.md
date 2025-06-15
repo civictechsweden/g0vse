@@ -10,6 +10,6 @@ Utredaren ska bland annat
 * ta ställning till om det finns behov av ytterligare kriminalisering av hindrande av polisens, räddningstjänstens och ambulanssjukvårdens ingripanden eller hjälpinsatser, och
 * lämna förslag till nödvändiga författningsändringar.
 
-Uppdraget ska redovisas senast den 29 juni 2018\.
+Uppdraget ska redovisas senast den 29 juni 2018.
 
 [Pressmeddelande: Ett starkare straffrättsligt skydd för samhällsnyttiga funktioner](/pressmeddelanden/2016/12/ett-starkare-straffrattsligt-skydd-for-samhallsnyttiga-funktioner/)

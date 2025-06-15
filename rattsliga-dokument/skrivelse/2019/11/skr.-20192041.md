@@ -1,6 +1,6 @@
 # Riksrevisionens rapport om Sidas humanitära bistånd och långsiktiga utvecklingssamarbete
 
-I skrivelsen redovisar regeringen sin bedömning av Riksrevisionens iakttagelser och rekommendationer i granskningsrapporten Sidas humanitära bistånd och långsiktiga utvecklingssamarbete – förutsättningar för samverkan (RiR 2019:17\) samt de åtgärder som har vidtagits eller planeras med anledning av rapporten.
+I skrivelsen redovisar regeringen sin bedömning av Riksrevisionens iakttagelser och rekommendationer i granskningsrapporten Sidas humanitära bistånd och långsiktiga utvecklingssamarbete – förutsättningar för samverkan (RiR 2019:17) samt de åtgärder som har vidtagits eller planeras med anledning av rapporten.
 
 Riksrevisionen slår i sin granskning fast att regeringen och Styrelsen för internationellt utvecklingssamarbete (Sida) har tydliggjort att samverkan är en prioriterad fråga men att det finns brister i de förutsättningar som regeringen gett Sida. Riksrevisionen anser också att det finns brister i Sidas interna styrning, organisation och arbetsformer. Regeringen rekommenderas att ta fram målformuleringar på strateginivå som är gemensamma för det humanitära biståndet och det långsiktiga utvecklingssamarbetet.
 

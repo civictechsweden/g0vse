@@ -4,5 +4,4 @@ Regeringen har sedan hösten 2014 genomfört en rad åtgärder i kampen mot den 
 
 Håkan Jevrell tjänstgör för närvarande som chef för Business Swedens kontor i Taipei. Han har tidigare varit ambassadör i Singapore, statssekreterare i Försvarsdepartementet och politisk sakkunnig i Statsrådsberedningen. Han har även tjänstgjort som åklagare och på advokatfirma.
 
-
 Håkan Jevrell tillträder sin nya befattning den 1 september i år.

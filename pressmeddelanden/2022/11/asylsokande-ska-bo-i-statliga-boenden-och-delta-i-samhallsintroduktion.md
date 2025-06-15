@@ -12,8 +12,8 @@ I utredningens delbetänkande föreslås bland annat följande
 * Skötsamhet på asyl­boenden ska införas som villkor för dag­ersätt­ning.
 * Asylsökande ska vara skyldiga att delta i sam­hälls­introduk­tion enligt lag. Genom­förd sam­hälls­introduk­tion ska vara ett villkor för undan­tag från kravet på arbets­tillstånd.
 
-Utredningen föreslår att lag­ändringarna träder i kraft den 1 april 2024\. För personer som är regist­rerade i mot­tagande­systemet vid ikraft­trädan­det börjar dock flera av bestäm­melserna gälla först från och med den 1 april 2025\.
+Utredningen föreslår att lag­ändringarna träder i kraft den 1 april 2024. För personer som är regist­rerade i mot­tagande­systemet vid ikraft­trädan­det börjar dock flera av bestäm­melserna gälla först från och med den 1 april 2025.
 
 – Asylprocessen behöver bli snabbare och mer effektiv. Förslagen som vi nu tar emot handlar bland annat om hur hela asyl­pro­cessen ska förläggas till asyl­boenden. Förslagen kommer nu noggrant att analy­seras och därefter se hur tilläggs­direktivet ska utformas, bland annat med hänsyn till samarbets­partiernas överens­kommelse om transit­center, säger migrations­minister Maria Malmer Stenergard.
 
-Utredningens slut­betänkande redovisas senast den 31 augusti 2023\.
+Utredningens slut­betänkande redovisas senast den 31 augusti 2023.

@@ -2,4 +2,4 @@
 
 Regeringen lämnar förslag som anpassar lagstiftningen om personuppgiftsbehandling inom Skatteverkets, Tullverkets och Kronofogdemyndighetens verksamheter till EU:s nya dataskyddsförordning. De flesta förslagen är följder av eller anpassningar till dataskyddsförordningen och till att personuppgiftslagen till följd av den nya förordningen kommer att upphävas. Förslagen innebär också att lagarna om personuppgiftsbehandling i de berörda myndigheternas verksamheter ska komplettera dataskyddsförordningen och dataskyddslagen. Det föreslås även vissa förtydliganden och justeringar som inte föranleds direkt av dataskyddsförordningen. Ändringarna bidrar bl.a. till att minska eventuell dubbelreglering och klargör de olika regleringarnas förhållande till varandra. Anpassningarna gäller inte personuppgiftsbehandling vid myndigheternas brottsbekämpande verksamhet.
 
-Lagändringarna föreslås träda i kraft den 25 maj 2018\.
+Lagändringarna föreslås träda i kraft den 25 maj 2018.

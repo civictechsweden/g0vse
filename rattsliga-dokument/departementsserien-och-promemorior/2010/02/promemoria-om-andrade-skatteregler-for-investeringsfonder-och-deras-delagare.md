@@ -4,4 +4,4 @@ Promemorian föreslår att investeringsfonder inte längre ska vara skattskyldig
 
 Reglerna föreslås också gälla vissa svenska fondandelsägare som är juridiska personer. Fysiska personer ska ta upp intäkten i inkomstslaget kapital och juridiska personer i inkomstslaget näringsverksamhet.
 
-De nya reglerna föreslås träda i kraft den 1 januari 2011\.
+De nya reglerna föreslås träda i kraft den 1 januari 2011.

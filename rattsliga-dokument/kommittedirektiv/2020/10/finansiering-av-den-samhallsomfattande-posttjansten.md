@@ -16,4 +16,4 @@ lämna förslag på hur varje sådan finansieringsmodell bör utformas för att 
 * föreslå hur finansieringen ska gå till, och
 * utarbeta nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 31 januari 2023\.
+Uppdraget ska redovisas senast den 31 januari 2023.

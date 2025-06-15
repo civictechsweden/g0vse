@@ -4,4 +4,4 @@ Regeringen föreslår lag­ändringar som ger främst polisen utökade befogen­
 
 Befogenheterna innebär utökade möjligheter att ingripa för att göra inre utlännings­kontroller och för att förebygga brott. Dessutom innebär befogen­heterna bättre möjlig­heter att bedriva kamera­bevakning.
 
-Ändringarna föreslås träda i kraft den 1 augusti 2023\.
+Ändringarna föreslås träda i kraft den 1 augusti 2023.

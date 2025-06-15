@@ -2,10 +2,9 @@
 
 Regeringen ger Skogsstyrelsen i uppdrag att tillsammans med Lantmäteriet och Naturvårdsverket utreda tillgängliggörande av uppgifter om:
 
-
 * beslut om avslag på ansökan om tillstånd till avverkning i fjällnära skog på grund av att avverkningen är oförenlig med intressen som är av väsentlig betydelse för naturvården eller kulturmiljövården,
 * beslut om tillstånd till avverkning som avser ett område där Skogsstyrelsen tidigare har avslagit en ansökan om tillstånd till avverkning i fjällnära skog på grund av att avverkningen är oförenlig med intressen som är av väsentlig betydelse för naturvården eller kulturmiljövården, och
-* utbetalning av ersättning på grund av beslut enligt skogsvårdslagen (1979:429\) som innebär att pågående markanvändning inom en viss del av en fastighet avsevärt försvåras.
+* utbetalning av ersättning på grund av beslut enligt skogsvårdslagen (1979:429) som innebär att pågående markanvändning inom en viss del av en fastighet avsevärt försvåras.
 
 I uppdraget ingår att utreda formerna och metoderna för tillgängliggörandet av uppgifter, vilka närmare uppgifter som bör tillgängliggöras, hos vilken myndighet uppgifterna bör finnas lagrade samt lämplig teknisk lösning. I uppdraget ingår att beräkna eventuella offentligfinansiella effekter som uppstår till följd av arbete med tillgängliggörande av dessa uppgifter. Myndigheterna ska vid behov lämna förslag på förordningsändringar.
 

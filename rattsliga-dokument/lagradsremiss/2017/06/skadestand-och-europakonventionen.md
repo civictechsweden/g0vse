@@ -6,4 +6,4 @@ Sverige är sedan länge part till Europakonventionen. Konventionen innehåller 
 
 I lagrådsremissen föreslås även en rättelse och en utvidgning av rätten till ersättning för den som utan egen förskyllan drabbas av personskada eller sakskada på grund av att vissa statliga befattningshavare har utövat ett i och för sig lagenligt våld.
 
-Lagändringarna föreslås träda i kraft den 1 april 2018\.
+Lagändringarna föreslås träda i kraft den 1 april 2018.

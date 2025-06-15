@@ -9,4 +9,4 @@ I uppdraget ingår bl.a. att
 * bedöma vilka konsekvenser de föreslagna åtgärderna får för arbetsgivarens vilja att anställa, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 28 september 2012\.
+Uppdraget ska redovisas senast den 28 september 2012.

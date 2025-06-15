@@ -7,7 +7,7 @@ Regeringen anser att Riksrevisionens granskning är ett viktigt bidrag till Arbe
 Riksrevisionen har granskat om Arbetsförmedlingens program Arbetsmarknadsutbildning ger likvärdiga effekter i hela landet och om den eventuella variationen i effekt av detta program har förändrats över tid.
 
 Resultaten visar att Norra Mälardalens marknadsområde har levererat de högsta effekterna av arbetsmarknadsutbildning under den studerade
-tidsperioden 2006–2011\. Effekten är mer än dubbelt så hög i Norra Mälardalen jämfört med marknadsområdet Norra Norrland medan skillnaderna i effektstorlek mellan marknadsområden för resterande
+tidsperioden 2006–2011. Effekten är mer än dubbelt så hög i Norra Mälardalen jämfört med marknadsområdet Norra Norrland medan skillnaderna i effektstorlek mellan marknadsområden för resterande
 marknadsområden är relativt små.
 
 Två år efter påbörjat deltagande i utbildningen har fler deltagande individer en inkomst som överstiger ett prisbasbelopp än jämförbara arbetslösa som inte deltagit i någon arbetsmarknadsutbildning. Den effekten av arbetsmarknadsutbildning har dock minskat över tid.

@@ -1,6 +1,6 @@
 # Regeringen genomför särskild satsning på regionalt yrkesvux i expansiva regioner
 
-– Samhället och arbetsmarknaden präglas allt mer av omställningen till ett fossilfritt samhälle och en cirkulär ekonomi. Efterfrågan på yrkesutbildad arbetskraft med kompetens inom bland annat digitalisering, automatisering och elektrifiering ökar just nu till följd av att företag etablerar sig och expanderar i exempelvis norra Sverige. För att möta behoven genomför regeringen en särskild utbildningssatsning 2024, säger arbetsmarknads\- och integrationsminister Johan Pehrson.
+– Samhället och arbetsmarknaden präglas allt mer av omställningen till ett fossilfritt samhälle och en cirkulär ekonomi. Efterfrågan på yrkesutbildad arbetskraft med kompetens inom bland annat digitalisering, automatisering och elektrifiering ökar just nu till följd av att företag etablerar sig och expanderar i exempelvis norra Sverige. För att möta behoven genomför regeringen en särskild utbildningssatsning 2024, säger arbetsmarknads- och integrationsminister Johan Pehrson.
 
 Satsningen avser yrkesutbildning på gymnasial nivå, och det är kompetensbehoven som ska styra vilka yrkesutbildningar och hur många utbildningsplatser som erbjuds. Utbudet ska också planeras efter samråd med bland andra Arbetsförmedlingen.
 

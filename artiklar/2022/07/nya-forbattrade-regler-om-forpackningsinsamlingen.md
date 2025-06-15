@@ -2,7 +2,6 @@
 
 Regeringen har beslutat om nya regler som gör det enklare för hushåll och verksamheter att sortera sitt förpackningsavfall. Det nya systemet innebär nya roller för kommuner och producenter.
 
-
 Enklare insamling och sortering av förpackningar för hushåll och verksamheter gör att producenterna kan återvinna mer avfall, och bidrar i sin tur till en mer resurseffektiv hantering av avfall. Det bidrar också till den gröna omställningen eftersom behovet av nya råvaror blir mindre och gör att koldioxidutsläppen minskar.
 
 Nedan följer en översiktlig beskrivning av det nya regelverket. För fullständig reglering hänvisas till förordningen om producentansvar för förpackningar och avfallsförordningen med flera förordningar.
@@ -19,11 +18,11 @@ Producenterna har via producentansvarsorganisationerna kvar det operationella an
 
 De nya bestämmelserna innebär att alla producenter av förpackningar ska anlita eller tillhandahålla en producentansvarsorganisation. En producentansvarsorganisation är en aktör som en producent har anlitat för att fullgöra producentansvaret. Producentansvarsorganisationernas verksamhet ska prövas av Naturvårdsverket och de får ett godkännande om de uppfyller kraven i förordningen. Kraven utgår från minimikraven i EU:s avfallsdirektiv, men innefattar även ett krav som innebär att intäkterna bara får användas för verksamhet som har samband med organisationens skyldigheter enligt förordningen eller annan författning eller för att betala tillbaka ett eventuellt överskott till producenterna.
 
-Ansökan om godkännande av en producentansvarsorganisation ska lämnas in senast den 31 mars året innan verksamheten ska påbörjas, första gången senast den 31 mars 2023\. Naturvårdsverket ska besluta om godkännande senast den 31 oktober för att gälla för en producentansvarsorganisation nästkommande kalenderår.
+Ansökan om godkännande av en producentansvarsorganisation ska lämnas in senast den 31 mars året innan verksamheten ska påbörjas, första gången senast den 31 mars 2023. Naturvårdsverket ska besluta om godkännande senast den 31 oktober för att gälla för en producentansvarsorganisation nästkommande kalenderår.
 
 ## Insamling av förpackningsavfall från hushållen
 
-De nya bestämmelserna innebär att kommunerna tar över det operationella ansvaret för insamlingen av förpackningsavfall, och för information till hushållen om förebyggande och sortering av förpackningsavfall. Idag sköts insamlingen av producenterna. Ansvarsövergången sker den 1 januari 2024\.
+De nya bestämmelserna innebär att kommunerna tar över det operationella ansvaret för insamlingen av förpackningsavfall, och för information till hushållen om förebyggande och sortering av förpackningsavfall. Idag sköts insamlingen av producenterna. Ansvarsövergången sker den 1 januari 2024.
 
 Senast den 1 januari 2027 ska fastighetsnära insamling vara införd för hushållen. De vanligast förekommande förpackningsslagen (papper, plast, metall och glas) ska alltid samlas in fastighetsnära. Skrymmande förpackningar av papper och plast ska samlas in på lättillgängliga insamlingsplatser och övriga förpackningsmaterial (trä, keramik, textil o. dyl.) på kommunens återvinningscentral (ÅVC). Vidare föreslås att kommunen måste ta emot alla förpackningsmaterial på en ÅVC.
 
@@ -31,7 +30,7 @@ Insamlingen ska vara gratis för hushållen. Kommunerna ska ersättas för sina 
 
 ## Insamling av förpackningsavfall från verksamheter
 
-Alla verksamheter ges ansvar att hantera sitt förpackningsavfall. Den producentansvarsorganisation som har störst marknadsandel blir från och med den 1 januari 2024 skyldig att ordna mottagningsplatser för förpackningsavfall från verksamheter. Den producentansvarsorganisationen är även ansvarig för att informera verksamheterna. Utbyggnaden av mottagningsplatserna ska vara färdig den 1 januari 2026\.
+Alla verksamheter ges ansvar att hantera sitt förpackningsavfall. Den producentansvarsorganisation som har störst marknadsandel blir från och med den 1 januari 2024 skyldig att ordna mottagningsplatser för förpackningsavfall från verksamheter. Den producentansvarsorganisationen är även ansvarig för att informera verksamheterna. Utbyggnaden av mottagningsplatserna ska vara färdig den 1 januari 2026.
 
 Verksamheter ska kunna lämna sitt avfall på en mottagningsstation i sin kommun utan avgift, oavsett volym och frekvens. Avfallet ska därefter fördelas till producentansvarsorganisationerna utifrån marknadsandel. Övriga producentansvarsorganisationer, dvs. de som inte är störst, ska ersätta den största producentansvarsorganisationen för skäliga kostnader utifrån en nyligen införd bestämmelse i miljöbalken.
 
@@ -53,7 +52,7 @@ Regeringen förtydligar kraven på att den som har ett serveringsställe med sit
 
 ## Retursystem för dryck i plastflaskor och metallburkar
 
-Förordning om retursystem för plastflaskor och metallburkar har upphävts och ersatts med nya bestämmelser i förordningen om producentansvar för förpackningar. Tillsynsansvaret över retursystemet flyttas samtidigt från Jordbruksverket till Naturvårdsverket genom en ändring i miljötillsynsförordningen. Retursystem som har ett befintligt godkännande kan fortsätta sin verksamhet enligt detta godkännande till och med 1 januari 2027\. Därefter får de omprövas enligt den nya förordningen.
+Förordning om retursystem för plastflaskor och metallburkar har upphävts och ersatts med nya bestämmelser i förordningen om producentansvar för förpackningar. Tillsynsansvaret över retursystemet flyttas samtidigt från Jordbruksverket till Naturvårdsverket genom en ändring i miljötillsynsförordningen. Retursystem som har ett befintligt godkännande kan fortsätta sin verksamhet enligt detta godkännande till och med 1 januari 2027. Därefter får de omprövas enligt den nya förordningen.
 
 ## Regeringsuppdrag till Naturvårdsverket
 

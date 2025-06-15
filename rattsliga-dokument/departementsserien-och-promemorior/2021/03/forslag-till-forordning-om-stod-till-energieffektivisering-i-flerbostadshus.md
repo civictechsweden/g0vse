@@ -6,4 +6,4 @@ Stödet kan ges till byggnader som till övervägande del innehåller bostads­l
 
 Länsstyrelsen ska administrera och besluta i frågor om stödet. Boverket ska betala ut stödet och ta fram vägledningar och schabloner som hjälp i ansökningsprocessen.
 
-Remisstiden är satt till två månader och förordningen föreslås träda i kraft den 1 augusti 2021\.
+Remisstiden är satt till två månader och förordningen föreslås träda i kraft den 1 augusti 2021.

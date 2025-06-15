@@ -8,4 +8,4 @@ Propositionen innehåller dessutom ett förslag om att en bolagsmans ansvar för
 
 I propositionen behandlas även frågor om riktade emissioner, om aktiebrev och aktieägarregister samt om förvaltningsrevision och ansvarsfrihet.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2014\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2014.

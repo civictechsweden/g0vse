@@ -10,14 +10,14 @@ I lagrådsremissen föreslås en ny lag som innebär att ett antal statliga mynd
 
 Alla myndigheter, förutom FRA, blir skyldiga att på begäran lämna en persons kontaktuppgifter till en brottsbekämpande myndighet.
 
-## Ökat uppgiftslämnande från hälso\- och sjukvården och socialtjänsten
+## Ökat uppgiftslämnande från hälso- och sjukvården och socialtjänsten
 
-Socialtjänsten och hälso\- och sjukvården omfattas inte av någon generell uppgiftsskyldighet i den nya lagen förutom för kontaktuppgifter. Men även de här aktörerna ska få bättre möjligheter att lämna information. Det nuvarande regelverket är i vissa delar komplext och svårtillämpat, vilket leder till att uppgifter inte lämnas ut på de sätt som det var tänkt. Därför föreslås nu sänkta trösklar för utlämnande och förenklingar i det befintliga regelverket för att på så sätt utvidga den rättsliga möjligheten att lämna ut uppgifter och samtidigt se till att de nuvarande möjligheterna utnyttjas fullt ut. Det kommer bland annat att innebära att uppgifter om våld i nära relationer kommer att kunna lämnas ut i fler fall.
+Socialtjänsten och hälso- och sjukvården omfattas inte av någon generell uppgiftsskyldighet i den nya lagen förutom för kontaktuppgifter. Men även de här aktörerna ska få bättre möjligheter att lämna information. Det nuvarande regelverket är i vissa delar komplext och svårtillämpat, vilket leder till att uppgifter inte lämnas ut på de sätt som det var tänkt. Därför föreslås nu sänkta trösklar för utlämnande och förenklingar i det befintliga regelverket för att på så sätt utvidga den rättsliga möjligheten att lämna ut uppgifter och samtidigt se till att de nuvarande möjligheterna utnyttjas fullt ut. Det kommer bland annat att innebära att uppgifter om våld i nära relationer kommer att kunna lämnas ut i fler fall.
 
 ## Ökat uppgiftslämnande från banker och de finansiella företagen
 
 Regeringen föreslår också att banker och finansiella företag på begäran ska vara skyldiga att lämna uppgifter om enskilda till brottsbekämpningen, om uppgifterna behövs för att förebygga, förhindra eller upptäcka brottslig verksamhet.
 
-Förslagen föreslås träda i kraft den 1 januari 2025\.
+Förslagen föreslås träda i kraft den 1 januari 2025.
 
 Förslagen i lagrådsremissen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

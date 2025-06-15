@@ -1,6 +1,6 @@
 # En modernare lag om ekonomiska föreningar
 
-En särskild utredare ska se över lagen (1987:667\) om ekonomiska föreningar (föreningslagen) i syfte att förenkla för ekonomiska föreningar att driva sin verksamhet och att underlätta etablering av nya föreningar. Utredaren ska bland annat,
+En särskild utredare ska se över lagen (1987:667) om ekonomiska föreningar (föreningslagen) i syfte att förenkla för ekonomiska föreningar att driva sin verksamhet och att underlätta etablering av nya föreningar. Utredaren ska bland annat,
 
 * se över definitionen av begreppet "ekonomisk förening", särskilt det kooperativa kravet,
 * överväga om möjligheterna för ekonomiska föreningar att bedriva sin verksamhet i delägda företag bör utvidgas,
@@ -11,6 +11,6 @@ En särskild utredare ska se över lagen (1987:667\) om ekonomiska föreningar (
 
 Utredaren ska lämna de författningsförslag som övervägandena ger anledning till.
 
-I uppdraget ingår vidare att föreslå de författningsändringar som behövs för att avveckla lagen(1995:1570\) om medlemsbanker.
+I uppdraget ingår vidare att föreslå de författningsändringar som behövs för att avveckla lagen(1995:1570) om medlemsbanker.
 
-Utredaren ska i ett delbetänkande senast den 1 april 2009 redovisa resultatet av sina överväganden om ändring av stadgarna, föreningsstämman och andra förenklingsåtgärder som avser administrativa bördor. Övriga delar av uppdraget ska redovisas senast den 1 november 2010\. Om utredaren finner det lämpligt, får den del av uppdraget som gäller föreningslagen redovisas i ett delbetänkande.
+Utredaren ska i ett delbetänkande senast den 1 april 2009 redovisa resultatet av sina överväganden om ändring av stadgarna, föreningsstämman och andra förenklingsåtgärder som avser administrativa bördor. Övriga delar av uppdraget ska redovisas senast den 1 november 2010. Om utredaren finner det lämpligt, får den del av uppdraget som gäller föreningslagen redovisas i ett delbetänkande.

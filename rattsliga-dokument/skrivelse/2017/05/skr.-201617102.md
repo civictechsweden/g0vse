@@ -8,4 +8,4 @@ kommunernas och landstingens tillgångar och skulder samt hur dessa
 utvecklats över tid.
 
 I redovisningen av de statliga bidragen beskrivs omfattningen och utvecklingen av dessa samt villkoren och, i den mån sådana uppgifter
-finns, resultaten för de riktade statsbidragen till kommunerna och landstingen 2016\. Vidare lämnas en fördjupad redovisning av de riktade bidragen inom hälso\- och sjukvården, socialtjänsten och skolväsendet.
+finns, resultaten för de riktade statsbidragen till kommunerna och landstingen 2016. Vidare lämnas en fördjupad redovisning av de riktade bidragen inom hälso- och sjukvården, socialtjänsten och skolväsendet.

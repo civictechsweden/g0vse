@@ -9,4 +9,4 @@ Det föreslås i huvudsak att
 * kravet på att utse en alternativ verklig huvudman inte ska gälla, om kunden är en stat, ett landsting, en kommun eller motsvarande och den risk som kan förknippas med kunden är låg, och
 * det i lag ska förtydligas att förenklade åtgärder för kundkännedom för gemensamma konton bara ska vidtas i förhållande till kundens verkliga huvudman.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2020\.
+Lagändringarna föreslås träda i kraft den 1 januari 2020.

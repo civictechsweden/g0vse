@@ -1,3 +1,3 @@
 # Regeringens ärendeförteckning vecka 51
 
-Till regeringssammanträdet torsdagen den 22 december 2011\.
+Till regeringssammanträdet torsdagen den 22 december 2011.

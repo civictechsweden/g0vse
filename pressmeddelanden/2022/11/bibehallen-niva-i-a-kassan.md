@@ -4,6 +4,6 @@ Samtidigt som arbetslinjen ska återupprättas behöver skyddet för arbetslösa
 
 Regeringen föreslår även att de tillfälliga lättnaderna i arbetsvillkoret och karensvillkoret i lagen om arbetslöshetsförsäkring som gällt under pandemin ska förlängas. Även möjligheten att göra undantag från den s.k. femårsregeln för företagare föreslås förlängas.
 
-Förlängningen av de tillfälliga lättnaderna i lagen om arbetslöshetsförsäkring föreslås gälla till och med den 31 december 2023\. Regeringen har för avsikt att återkomma med förslag om att lättnader motsvarande de som har gällt under pandemin ska gälla tills vidare. Kostnaderna för förändringarna i arbetslöshetsförsäkringen beräknas till 5 823 miljoner kronor för 2023\.
+Förlängningen av de tillfälliga lättnaderna i lagen om arbetslöshetsförsäkring föreslås gälla till och med den 31 december 2023. Regeringen har för avsikt att återkomma med förslag om att lättnader motsvarande de som har gällt under pandemin ska gälla tills vidare. Kostnaderna för förändringarna i arbetslöshetsförsäkringen beräknas till 5 823 miljoner kronor för 2023.
 
 Förslagen bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

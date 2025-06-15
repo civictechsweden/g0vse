@@ -2,7 +2,6 @@
 
 Regeringen ger Ekobrottsmyndigheten, Kriminalvården, Polismyndigheten, Skatteverket, Tullverket och Åklagarmyndigheten i uppdrag att förstärka det internationella arbetet mot organiserad brottslighet. Syftet är att öka lagföringen av kriminella kopplade till organiserad brottslighet, som anstiftar eller begår brott i Sverige, men befinner sig i andra länder, samt att reducera deras möjligheter att utöva sin brottsliga verksamhet från utlandet.
 
-
 Inom ramen för uppdraget ska myndigheterna
 
 * redogöra för omfattningen av kriminella kopplade till organiserad brottslighet, som anstiftar eller begår brott i Sverige, men befinner sig i andra länder,
@@ -11,4 +10,4 @@ Inom ramen för uppdraget ska myndigheterna
 * vidta och föreslå åtgärder, per myndighet och myndighetsgemensamt, för att stärka arbetet inom EU och i multilaterala forum, på strategisk och operativ nivå, samt
 * redogöra för förslag på ytterligare åtgärder för att åstadkomma ökad lagföring av kriminella kopplade till organiserad brottslighet, som anstiftar eller begår brott i Sverige, men befinner sig andra länder.
 
-Uppdraget ska redovisas till Regeringskansliet senast 31 oktober 2025 med en delredovisning senast den 29 april 2025\.
+Uppdraget ska redovisas till Regeringskansliet senast 31 oktober 2025 med en delredovisning senast den 29 april 2025.

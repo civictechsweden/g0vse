@@ -2,7 +2,7 @@
 
 ## H.E. Mr Jonathan Charles William Kenna, Australien
 
-Australiens nyutnämnde ambassadör, Mr Jonathan Charles William Kenna,är född 1960 och började vid utrikesminsiteret 2004\. Under de senaste åren har han innehaft bland annat följande befattningar:
+Australiens nyutnämnde ambassadör, Mr Jonathan Charles William Kenna,är född 1960 och började vid utrikesminsiteret 2004. Under de senaste åren har han innehaft bland annat följande befattningar:
 
 **2015 – 2016**Biträdande enhetschef vid Indienenheten
 
@@ -16,7 +16,7 @@ Australiens nyutnämnde ambassadör, Mr Jonathan Charles William Kenna,är född
 
 ## H.E. Mr Roberto Ochoa Madrid, Honduras
 
-Honduras nyutnämnde ambassadör till Sverige, med säte i Bryssel, Mr Roberto Ochoa Madrid, är född 1959 och har tjänstgjort i utrikesförvaltningen sedan 1990\. Ambassadör Ochoa Madrid har arbetat som rådgivare i internationella\- och protokollära frågor vid presidentens kansli. De senaste åren har han innehaft bland annat följande befattningar:
+Honduras nyutnämnde ambassadör till Sverige, med säte i Bryssel, Mr Roberto Ochoa Madrid, är född 1959 och har tjänstgjort i utrikesförvaltningen sedan 1990. Ambassadör Ochoa Madrid har arbetat som rådgivare i internationella- och protokollära frågor vid presidentens kansli. De senaste åren har han innehaft bland annat följande befattningar:
 
 **2013 – 2016**Understatssekreterare vid utrikesministeriet
 
@@ -28,11 +28,11 @@ Honduras nyutnämnde ambassadör till Sverige, med säte i Bryssel, Mr Roberto O
 
 ## H.E. Mr Majak Philemon Majok Koung, Sydsudan
 
-Sydsudans nyutnämnde ambassadör till Sverige, med säte i Oslo, Mr Majak Philemon Majok Koung, är född 1960 och har tjänstgjort i utrikesministeriet sedan 1986\. Han har under sin karriär bland annat innehaft följande befattningar:
+Sydsudans nyutnämnde ambassadör till Sverige, med säte i Oslo, Mr Majak Philemon Majok Koung, är född 1960 och har tjänstgjort i utrikesministeriet sedan 1986. Han har under sin karriär bland annat innehaft följande befattningar:
 
 **2015 – 2016**Sydsudans ambassadör i Norge
 
-**2008 – 2015**Chef för EU\-enheten vid Sudans utrikesministerium i Khartoum
+**2008 – 2015**Chef för EU-enheten vid Sudans utrikesministerium i Khartoum
 
 **2004 – 2008**Andreman vid Sudans ambassad i Sverige
 

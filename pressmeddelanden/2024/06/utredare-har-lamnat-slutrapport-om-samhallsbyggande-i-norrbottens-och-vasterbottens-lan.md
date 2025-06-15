@@ -1,6 +1,6 @@
 # Utredare har lämnat slutrapport om samhällsbyggande i Norrbottens och Västerbottens län
 
-– När hållbara industrier etablerar sig och expanderar i norra Sverige kan denna del av landet bli ledande i klimatomställningen. Utredarens uppdrag har varit att underlätta samhällsbyggandet för de kommuner som berörs av nyindustrialiseringen och behöver växa mycket på kort tid. Jag ska nu ta del av de slutsatser som utredaren redovisar i sin slutrapport, säger infrastruktur\- och bostadsminister Andreas Carlson.
+– När hållbara industrier etablerar sig och expanderar i norra Sverige kan denna del av landet bli ledande i klimatomställningen. Utredarens uppdrag har varit att underlätta samhällsbyggandet för de kommuner som berörs av nyindustrialiseringen och behöver växa mycket på kort tid. Jag ska nu ta del av de slutsatser som utredaren redovisar i sin slutrapport, säger infrastruktur- och bostadsminister Andreas Carlson.
 
 Peter Larsson fick i juni 2023 i uppdrag att främja koordinering av statliga insatser som verkar möjliggörande för hållbart samhällsbyggande och snabb befolkningsutveckling i Norrbottens och Västerbottens län, i den samhällsomvandling som sker med anledning av större företagsetableringar och företagsexpansioner. Syftet med uppdraget var att underlätta för berörda kommuner att planera, bygga och förvalta hållbara och växande samhällen.
 

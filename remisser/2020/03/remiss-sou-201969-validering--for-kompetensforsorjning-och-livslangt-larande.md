@@ -2,5 +2,4 @@
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen SOU 2019:69 Validering – för kompetensförsörjning och livslångt lärande. Övriga yttranden finns tillgängliga i departementet.
 
-
-Sista dag att svara på remissen är den 16 juni 2020\.
+Sista dag att svara på remissen är den 16 juni 2020.

@@ -11,4 +11,4 @@ För att markera allvaret i brott som begås i kriminella nätverk och vid krimi
 * En presumtion för häktning ska gälla vid misstanke om brott med ett minimi­straff om fängelse i ett år och sex månader eller mer.
 * Återfall i brott ska beaktas i skärpande riktning vid straff­mätningen i fler fall.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2023\.
+Lagändringarna föreslås träda i kraft den 1 juli 2023.

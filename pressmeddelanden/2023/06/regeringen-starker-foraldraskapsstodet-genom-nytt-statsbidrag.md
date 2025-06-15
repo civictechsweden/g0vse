@@ -4,7 +4,7 @@ Regeringens ambition är att föräldraskapsstödsprogram ska finnas i hela land
 
 –Vi måste arbeta mer förebyggande. Alla barn och unga har rätt till en trygg och säker uppväxt, liksom en ljus framtid. Det är viktigt att vi kan ge föräldraskapsstöd i hela landet i syfte att förebygga kriminalitet bland barn och unga, säger socialtjänstminister Camilla Waltersson Grönvall.
 
-Föräldraskapsstöd erbjuds bl.a. inom socialtjänstens öppna verksamheter, mödrahälsovården, barnhälsovården och familjecentraler. Genom både tidiga och förebyggande insatser \- såsom stöd i föräldraskapet \- finns stora möjligheter att främja barns hälsa och utveckling.
+Föräldraskapsstöd erbjuds bl.a. inom socialtjänstens öppna verksamheter, mödrahälsovården, barnhälsovården och familjecentraler. Genom både tidiga och förebyggande insatser - såsom stöd i föräldraskapet - finns stora möjligheter att främja barns hälsa och utveckling.
 
 –Kommunernas och regionernas utgångslägen ser olika ut. Varje kommun och region behöver bedöma hur medlen bäst används och gör nytta utifrån de behov och förutsättningar som finns just där, säger socialtjänstminister Camilla Waltersson Grönvall.
 

@@ -2,8 +2,7 @@
 
 Idrottsminister Gabriel Wikström och näringsminister Mikael Damberg träffade den 26 februari samordningsgruppen för internationella evenemang. Statsråden var inbjudna för att få en bild av idrottens och besöksnäringens gemensamma strategi och arbete för att få fler internationella evenemang till Sverige.
 
-
-Mötet ägde rum i Falun och förbundsdirektören på Svenska Skidförbundet gav en bild av arbetet och samverkan kring pågående skid\-VM.
+Mötet ägde rum i Falun och förbundsdirektören på Svenska Skidförbundet gav en bild av arbetet och samverkan kring pågående skid-VM.
 
 ## Kompetenscentrum för att få fler evenemang till Sverige
 

@@ -2,7 +2,6 @@
 
 Regeringen beslutar att ge Folkhälsomyndigheten i uppdrag att ingå en överenskommelse med Världshälsoorganisationen (WHO) om en sekundering av en expert till organisationen inom området antibiotikaresistens.
 
-
 Överenskommelsen avser 2016 och ska vara ettårig med möjlighet till förlängning.
 
 Folkhälsomyndigheten fick i regleringsbrevet för 2015 i uppdrag att ge stöd till Världshälsoorganisationen (WHO) i arbetet med att utveckla och genomföra den globala handlingsplanen (GAP) vad gäller utvecklingen av ett globalt resistensövervakningssystem.

@@ -4,5 +4,4 @@ Här kan du ta del av svaren från dem som ombetts svara på remissen Svensk kä
 
 Övriga yttranden med anledning av remissen finns tillgängliga i departementet.
 
-
-Remissvaren ska ha kommit in till Miljö\- och energidepartementet senast den 13 september 2019\.
+Remissvaren ska ha kommit in till Miljö- och energidepartementet senast den 13 september 2019.

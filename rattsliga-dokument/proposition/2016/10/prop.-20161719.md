@@ -4,4 +4,4 @@ I propositionen lämnas förslag till författningsändringar som krävs för at
 
 I propositionen föreslås ändringar i lagen om administrativt samarbete inom Europeiska unionen i fråga om beskattning.
 
-Bestämmelserna föreslås träda i kraft den 1 januari 2017\.
+Bestämmelserna föreslås träda i kraft den 1 januari 2017.

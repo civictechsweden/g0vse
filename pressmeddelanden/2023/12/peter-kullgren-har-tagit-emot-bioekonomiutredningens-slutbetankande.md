@@ -2,7 +2,7 @@
 
 Den föregående regeringen tillsatte en särskild utredare för att fram förslag till en strategi för en hållbar, konkurrenskraftig och växande svensk bioekonomi.
 
-Utredningen presenterade 29 mars 2023 sitt delbetänkande ”Förnybart i tanken (SOU 2023:15\) där man analyserade, och förslog åtgärder som främjar effektiv produktion av flytande biodrivmedel baserat på inhemska råvaror i Sverige. Den lade även förslag till långsiktigt produktionsstöd för produktion av flytande hållbara förnybara drivmedel.
+Utredningen presenterade 29 mars 2023 sitt delbetänkande ”Förnybart i tanken (SOU 2023:15) där man analyserade, och förslog åtgärder som främjar effektiv produktion av flytande biodrivmedel baserat på inhemska råvaror i Sverige. Den lade även förslag till långsiktigt produktionsstöd för produktion av flytande hållbara förnybara drivmedel.
 
 I dag överlämnade utredningen sitt slutbetänkande ”SOU 2023:84 En hållbar bioekonomistrategi – för ett välmående fossilfritt samhälle”. Uppdraget för betänkandet var att ta fram förslag till en nationell strategi inklusive uppföljningsbara mål och åtgärder för en hållbar, konkurrenskraftig och växande bioekonomi.
 

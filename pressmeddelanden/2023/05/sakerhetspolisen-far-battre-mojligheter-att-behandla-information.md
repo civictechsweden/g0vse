@@ -8,4 +8,4 @@ Säkerhets­polisen har i en hem­ställan som kommit in till regeringen beskriv
 
 Säkerhets­polisen framhåller att det inte längre är möjligt att manuellt granska och strukturera uppgifter som kan vara av intresse för myndig­hetens verk­samhet. Med ett mer ända­måls­enligt regel­verk skulle tekniska hjälp­medel kunna användas för att göra en initial ytlig gransk­ning av stora data­mängder och flagga upp information som sannolikt är relevant för myndig­heten.
 
-Utredningens uppdrag ska redovisas senast den 15 november 2024\.
+Utredningens uppdrag ska redovisas senast den 15 november 2024.

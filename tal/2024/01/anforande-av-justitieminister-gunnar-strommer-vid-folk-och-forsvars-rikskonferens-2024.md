@@ -1,9 +1,8 @@
 # Anförande av justitieminister Gunnar Strömmer vid Folk och Försvars Rikskonferens 2024
 
-Folk och Försvars Rikskonferens i Sälen, den 7 januari 2024\.
+Folk och Försvars Rikskonferens i Sälen, den 7 januari 2024.
 
 Det talade ordet gäller.
-
 
 Ers majestät! Ers kungliga höghet! Mina damer och herrar!
 

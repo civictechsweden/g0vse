@@ -6,4 +6,4 @@ som ger kommuner och landsting generella möjligheter till avtalssamverkan. Geno
 Till följd av förslaget om generella bestämmelser i kommunallagen
 föreslås även ett antal följdändringar i andra lagar.
 
-Regleringen föreslås träda i kraft den 1 juli 2018\.
+Regleringen föreslås träda i kraft den 1 juli 2018.

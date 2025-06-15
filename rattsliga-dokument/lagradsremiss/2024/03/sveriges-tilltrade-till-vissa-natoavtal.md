@@ -6,13 +6,13 @@ samband med att en sändande stats militära personal befinner sig i en mottagan
 De avtal som behandlas i lagrådsremissen förutsätter vissa författningsändringar för att Sverige ska uppfylla sina förpliktelser enligt avtalen. Riksdagens godkännande krävs därför innan avtalen kan träda i kraft. I lagrådsremissen föreslås bland annat följande ändringar.
 
 * Privilegier och immunitet som enligt statusavtalen gäller för vissa
-personalkategorier ska införas i svensk rätt.
+  personalkategorier ska införas i svensk rätt.
 * Medlemmar av en främmande stats militära styrka, civil personal och
-vissa andra personalkategorier ska inte folkbokföras här.
+  vissa andra personalkategorier ska inte folkbokföras här.
 * Sverige ska i vissa fall kunna hemlighålla utländska
-försvarsuppfinningar som hålls hemliga i ett annat land med hänsyn till
-det nationella försvarsintresset.
+  försvarsuppfinningar som hålls hemliga i ett annat land med hänsyn till
+  det nationella försvarsintresset.
 * Det ska införas en bestämmelse om skadeståndsskyldighet för staten
-vid felaktig hantering av försvarsrelaterad teknisk information.
+  vid felaktig hantering av försvarsrelaterad teknisk information.
 
 Lagändringarna föreslås träda i kraft den dag som regeringen bestämmer.

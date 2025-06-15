@@ -3,7 +3,7 @@
 Regeringen beslutar att Myndigheten för samhällsskydd och beredskap, Statens energimyndighet, Affärsverket svenska kraftnät, Post- och telestyrelsen, Polismyndigheten och Kustbevakningen i samverkan ska vidta åtgärder för att stärka förmågan att upptäcka och rapportera incidenter och störningar på undervattensinfrastruktur för energiförsörjning respektive elektroniska kommunikationer till och från Sverige som kan innebära risk för påverkan på samhällsviktig verksamhet.
 
 Myndigheterna ska utifrån sina respektive författningsstyrda uppgifter och
-mandat, samt inom givna ekonomiska ramar,
+mandat, samt inom givna ekonomiska ramar:
 
 * stärka myndighetens förmåga att utan dröjsmål upptäcka incidenter och störningar i undervattensinfrastruktur som riskerar att hota
   funktionaliteten för samhällsviktig verksamhet, samt skyndsamt

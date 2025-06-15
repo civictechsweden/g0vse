@@ -10,4 +10,4 @@ Regeringen delar Riksrevisionens bedömning att det finns anledning att se över
 
 ## Viktigt att följa upp återkraven
 
-Regeringen delar Riksrevisionens syn att det är viktigt att noggrant följa upp återkraven av bostadsbidrag. Regeringen menar dock att det finns anledning att vänta med exempelvis en IT\-utveckling inom området till dess att översynen av regelverket har genomförts.
+Regeringen delar Riksrevisionens syn att det är viktigt att noggrant följa upp återkraven av bostadsbidrag. Regeringen menar dock att det finns anledning att vänta med exempelvis en IT-utveckling inom området till dess att översynen av regelverket har genomförts.

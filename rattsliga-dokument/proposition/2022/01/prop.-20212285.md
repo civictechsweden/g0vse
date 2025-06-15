@@ -8,6 +8,6 @@ Den nya lagen ska reglera vad som gäller för leverans av varor och digitalt in
 
 Regeringen föreslår dessutom att det införs vissa särskilda regler vid konsumentköp av levande djur. Syftet är att få till stånd en mer ändamålsenlig ordning för både näringsidkare och konsumenter samt bidra till en god djurvälfärd och respekt för djur vid sådana köp.
 
-Förslagen i propositionen genomför EU\-direktiven om försäljning av varor och om tillhandahållande av digitalt innehåll och digitala tjänster.
+Förslagen i propositionen genomför EU-direktiven om försäljning av varor och om tillhandahållande av digitalt innehåll och digitala tjänster.
 
-Lagändringarna föreslås träda i kraft den 1 maj 2022\.
+Lagändringarna föreslås träda i kraft den 1 maj 2022.

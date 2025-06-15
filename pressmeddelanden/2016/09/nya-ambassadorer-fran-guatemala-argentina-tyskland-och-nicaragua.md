@@ -1,8 +1,8 @@
 # Nya ambassadörer från Guatemala, Argentina, Tyskland och Nicaragua
 
-## H.E. Mr. Francisco Roberto Gross Hernández\-Kramer, Guatemala
+## H.E. Mr. Francisco Roberto Gross Hernández-Kramer, Guatemala
 
-Guatemalas nyutnämnde ambassadör, Mr. Francisco Hernández\-Kramer, är född 1972\. Han har en master i internationella studier inom fred, konflikt, utveckling och en i internationella relationer. Därutöver har han studerat tandkirurgi, teologi och organisationsutveckling. Ambassadör Hernández\-Kramer har under de senaste åren innehaft bland annat följande befattningar:
+Guatemalas nyutnämnde ambassadör, Mr. Francisco Hernández-Kramer, är född 1972. Han har en master i internationella studier inom fred, konflikt, utveckling och en i internationella relationer. Därutöver har han studerat tandkirurgi, teologi och organisationsutveckling. Ambassadör Hernández-Kramer har under de senaste åren innehaft bland annat följande befattningar:
 
 **2013 – 2016**
 Chef för den iberoamerikanska avdelningen vid European Christian Mission (ECM) i Spanien
@@ -11,11 +11,11 @@ Chef för den iberoamerikanska avdelningen vid European Christian Mission (ECM) 
 Chef för ECM:s regionala team i Spanien
 
 **2000 – 2003**
-Chef för odontologiavdelningen vid Puerta Abierta\-kliniken i Bukarest, representant för ECM:s multikulturella team i Östeuropa
+Chef för odontologiavdelningen vid Puerta Abierta-kliniken i Bukarest, representant för ECM:s multikulturella team i Östeuropa
 
 ## H.E. Ms. Nélida Maria Contreras de Ecker, Argentina
 
-Argentinas nyutnämnda ambassadör, Ms. Nélida Maria Contreras de Ecker, har studerat juridik vid universitetet i Mar del Plata. Hon har arbetat i utrikesförvaltningen sedan 1988\. Ambassadör Contreras de Ecker har de senaste åren innehaft bland annat följande befattningar:
+Argentinas nyutnämnda ambassadör, Ms. Nélida Maria Contreras de Ecker, har studerat juridik vid universitetet i Mar del Plata. Hon har arbetat i utrikesförvaltningen sedan 1988. Ambassadör Contreras de Ecker har de senaste åren innehaft bland annat följande befattningar:
 
 **2015 – 2016**
 Chargé d'affaires vid Argentinas ständiga representation till UNESCO i Paris
@@ -29,9 +29,9 @@ Biträdande chef vid enheten för internationella organisationer vid utrikesmini
 **2006 – 2012**
 Chef för den ekonomiska avdelningen vid Argentinas ambassad och ständiga representation för internationella organisationer i Wien
 
-## H.E. Mr. Hans\-Jürgen Heimsoeth, Tyskland
+## H.E. Mr. Hans-Jürgen Heimsoeth, Tyskland
 
-Tysklands nyutnämnde ambassadör, Mr. Hans\-Jürgen Heimsoeth, är född 1953 och har studerat filosofi och tyska. Han har också doktorerat i historia. Ambassadör Heimsoeth har en lång karriär inom den tyska utrikesförvaltningen och har även tjänstgjort som personlig rådgivare åt president von Weizsäcker i början av 90\-talet. Under de senaste åren har han innehaft bland annat följande befattningar:
+Tysklands nyutnämnde ambassadör, Mr. Hans-Jürgen Heimsoeth, är född 1953 och har studerat filosofi och tyska. Han har också doktorerat i historia. Ambassadör Heimsoeth har en lång karriär inom den tyska utrikesförvaltningen och har även tjänstgjort som personlig rådgivare åt president von Weizsäcker i början av 90-talet. Under de senaste åren har han innehaft bland annat följande befattningar:
 
 **2015 – 2016**
 Chef för säkerhetsavdelningen vid utrikesministeriet i Berlin
@@ -53,7 +53,7 @@ Ansvarig för frågor rörande Östersjön vid utrikesministeriet i Berlin
 
 ## H.E. Ms. Veronica Alejandra Rojas Berrios, Nicaragua
 
-Nicaraguas nyutnämnda ambassadör, Ms Veronica Alejandra Rojas Berrios, är född 1953\. Hon har en master och post graduate\-studier i ekonomi och marknadsföring. Ambassadör Berrios har bland annat innehaft följande befattningar:
+Nicaraguas nyutnämnda ambassadör, Ms Veronica Alejandra Rojas Berrios, är född 1953. Hon har en master och post graduate-studier i ekonomi och marknadsföring. Ambassadör Berrios har bland annat innehaft följande befattningar:
 
 **Jan – mars 2016**
 Vice minister vid Näringsdepartementet med ansvar för små och medelstora företag

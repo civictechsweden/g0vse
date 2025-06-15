@@ -6,4 +6,4 @@ I syfte att öka möjligheterna att förverka fordon föreslår därför regerin
 
 För att minska polisens kostnader för förvaring av fordon föreslår regeringen också att det ska bli möjligt att sälja eller förstöra beslagtagna fordon innan ett förverkandebeslut har fattats, om de inte är värda mer än en femtedel av prisbasbeloppet.
 
-Lagändringarna föreslås träda i kraft den 1 april 2015\.
+Lagändringarna föreslås träda i kraft den 1 april 2015.

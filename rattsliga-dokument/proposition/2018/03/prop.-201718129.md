@@ -6,6 +6,6 @@ Telefonförsäljning är en utbredd försäljningskanal, som har fördelar både
 
 Förslaget innebär att det inte längre ska vara möjligt att ingå ett avtal muntligen, om näringsidkaren på eget initiativ kontaktar konsumenten per telefon i syfte att ingå ett distansavtal. Om telefonkontakten leder till att parterna vill ingå ett avtal, ska näringsidkaren bekräfta sitt anbud i en handling eller i någon annan läsbar och varaktig form. För att ingå ett giltigt avtal ska det krävas att konsumenten efter telefonsamtalet skriftligen accepterar näringsidkarens anbud. Om en näringsidkare levererar produkter eller utför tjänster trots att det inte finns något giltigt avtal, ska konsumenten inte vara betalningsskyldig för dessa.
 
-Lagändringarna föreslås träda i kraft den 1 september 2018\.
+Lagändringarna föreslås träda i kraft den 1 september 2018.
 
 [Pressmeddelande: Regeringen stärker konsumentskyddet vid telefonförsäljning](/pressmeddelanden/2018/03/regeringen-starker-konsumentskyddet-vid-telefonforsaljning/ "Regeringen stärker konsumentskyddet vid telefonförsäljning")

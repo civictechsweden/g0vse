@@ -6,7 +6,7 @@ Försvarsminister Pål Jonson är på besök i USA för att bland annat stärka 
 
 **Plats: Pentagon, Washington D.C.**
 
-Obligatorisk föranmälan senast tisdag 5 december kl. 08:00 EST, 14:00 svensk tid via e\-post till pressekreterare Johan Hjelmstrand. Ange namn, redaktion, och i vilken funktion du vill delta (reporter eller fotograf).
+Obligatorisk föranmälan senast tisdag 5 december kl. 08:00 EST, 14:00 svensk tid via e-post till pressekreterare Johan Hjelmstrand. Ange namn, redaktion, och i vilken funktion du vill delta (reporter eller fotograf).
 
 Deltagande sker i mån av plats (antalet platser är starkt begränsat).
 

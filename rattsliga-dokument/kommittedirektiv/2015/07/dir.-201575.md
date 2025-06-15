@@ -11,6 +11,6 @@ Utredaren ska bland annat överväga
 
 Utredaren ska i arbetet analysera och bedöma eventuella effekter av föreslagna åtgärder för handläggningstiderna hos Migrationsverket och effektiviteten i systemet för arbetskraftsinvandring. Utredaren ska också lämna nödvändiga författningsförslag för de åtgärder som föreslås.
 
-Uppdraget ska redovisas senast den 1 september 2016\.
+Uppdraget ska redovisas senast den 1 september 2016.
 
 [Pressmeddelande: Skärpta regler för arbetskraftsinvandring](/pressmeddelanden/2015/07/skarpta-regler-for-arbetskraftsinvandring/)

@@ -16,4 +16,4 @@ Förslagen innebär att kammarrätternas sammansättning i mål om rätt till er
 
 ## Ikraftträdande
 
-Lagändringarna föreslås träda i kraft den 1 juli 2012 och förslagen i inkomstskattelagen föreslås att tillämpas på ersättningar och stöd som betalas ut efter den 30 juni 2012\.
+Lagändringarna föreslås träda i kraft den 1 juli 2012 och förslagen i inkomstskattelagen föreslås att tillämpas på ersättningar och stöd som betalas ut efter den 30 juni 2012.

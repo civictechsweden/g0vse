@@ -8,4 +8,4 @@ På fredagen kommer justitieministrarna att diskutera Eurojusts roll som stöd f
 
 EU:s samordnare för kampen mot terrorism (EU CTC) deltar på mötet och kommer att lämna information om dialogen med Ukraina om den inre säkerheten. Avslutningsvis kommer också svenska åklagare för krigsförbrytelser och Eurojust att hålla en presentation om lagföring av brott mot folkrätten i Ukraina. Ukrainas justitieminister Denys Maljuska deltar också vid mötet via videokonferens.
 
-Båda mötesdagarna avslutas med en pressträff som kommer att direktsändas på ordförandeskapets webbplats, sweden2023\.eu.
+Båda mötesdagarna avslutas med en pressträff som kommer att direktsändas på ordförandeskapets webbplats, sweden2023.eu.

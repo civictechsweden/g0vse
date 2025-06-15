@@ -1,5 +1,4 @@
 # Sveriges tillträde till Romstadgan för Internationella brottmålsdomstolen
 
-Genom Romstadgan för Internationella brottmålsdomstolen som antogs den 17 juli 1998 inrättas en permanent internationell domstol för utredning och lagföring av folkmord, brott mot mänskligheten och krigsförbrytelser. Sverige undertecknade stadgan i oktober 1998\. För att stadgan ska träda i kraft och Internationella brottmålsdomstolen komma till stånd krävs att 60 stater ratificerar stadgan. Det kan beräknas ske under våren 2002\.
-
+Genom Romstadgan för Internationella brottmålsdomstolen som antogs den 17 juli 1998 inrättas en permanent internationell domstol för utredning och lagföring av folkmord, brott mot mänskligheten och krigsförbrytelser. Sverige undertecknade stadgan i oktober 1998. För att stadgan ska träda i kraft och Internationella brottmålsdomstolen komma till stånd krävs att 60 stater ratificerar stadgan. Det kan beräknas ske under våren 2002.
 I propositionen föreslår regeringen att Sverige ska ratificera Romstadgan och därvid avge förklaringar angående de språk och den kommunikationsväg som ska användas vid samarbete med Internationella brottmålsdomstolen. Den lagstiftning som en anslutning till stadgan kräver kommer att behandlas i en särskild proposition.

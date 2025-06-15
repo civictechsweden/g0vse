@@ -16,4 +16,4 @@ Utredaren ska mot den bakgrunden bland annat:
 * ta ställning till om det bör vara möjligt för kommunala arbetsgivare att göra kontroller mot belastningsregistret och misstankeregistret under pågående anställning, och
 * lämna nödvändiga författningsförslag.
 
-Utredningen kommer att bedrivas i snabbspår och ska redovisas senast den 31 oktober 2024\.
+Utredningen kommer att bedrivas i snabbspår och ska redovisas senast den 31 oktober 2024.

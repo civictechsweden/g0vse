@@ -5,5 +5,5 @@ Den 23 oktober 2014 lämnade regeringen budgetpropositionen för år 2015 till r
 För beställning av Budgetpropositionen för 2015 kontakta:
 Riksdagens tryckeriexpedition,
 100 12 Stockholm
-Tel: 08\-786 58 10
-E\-post: ordermottagningen@riksdagen.se
+Tel: 08-786 58 10
+E-post: ordermottagningen@riksdagen.se

@@ -12,6 +12,6 @@ Att motverka rekrytering av barn och unga till drogrelaterad organiserad brottsl
 
 – Med en ny, reformerad socialtjänstlag skapar vi bättre förutsättningar för socialtjänsten att bedriva sitt viktiga arbete, bland annat genom ett ännu större fokus på förebyggande arbete, kunskap, tillgänglighet och uppföljning. Inom ramen för det paradigmskifte som nu görs i svensk politik genomför vi nu kraftfulla åtgärder i syfte att på riktigt ta itu med den allvarliga brottsligheten, säger Linda Lindberg, gruppledare för Sverigedemokraterna.
 
-I propositionen för en ny socialtjänstlag (prop. 2024/25:89) tydliggörs det brottsförebyggande arbetet för socialnämnden. I förslaget tydliggörs det också att socialnämnden särskilt ska arbeta för och ta initiativ till att förebygga och motverka brottslighet bland barn och unga.
+ I propositionen för en ny socialtjänstlag (prop. 2024/25:89) tydliggörs det brottsförebyggande arbetet för socialnämnden. I förslaget tydliggörs det också att socialnämnden särskilt ska arbeta för och ta initiativ till att förebygga och motverka brottslighet bland barn och unga.
 
 Uppdraget att betala ut medlen ges till Socialstyrelsen, som i arbetet även ska samverka med Brottsförebyggande rådet. Av medlen ska 198 500 000 kronor fördelas till kommunerna. Resterande medel får användas av Socialstyrelsen för genomförande av uppdraget. Socialstyrelsen ska senast den 30 september 2026 lämna en redovisning till Regeringskansliet (Socialdepartementet).

@@ -1,6 +1,6 @@
 # Förslag om att ta bort krav på anmälan för komplementbostadshus
 
-– Det krävs olika åtgärder för att möta behovet av bostäder i Sverige. Med detta förslag blir det ännu enklare att bygga komplementbostadshus eller inreda ytterligare en bostad i sitt enbostadshus. Förslaget ger fastighetsägare mer frihet att bestämma hur den egna fastigheten ska utvecklas och kan stimulera till ökad privatuthyrning, säger infrastruktur\- och bostadsminister Andreas Carlson.
+– Det krävs olika åtgärder för att möta behovet av bostäder i Sverige. Med detta förslag blir det ännu enklare att bygga komplementbostadshus eller inreda ytterligare en bostad i sitt enbostadshus. Förslaget ger fastighetsägare mer frihet att bestämma hur den egna fastigheten ska utvecklas och kan stimulera till ökad privatuthyrning, säger infrastruktur- och bostadsminister Andreas Carlson.
 
 Förslaget i den remitterade promemorian innebär att den särskilda anmälningsplikten tas bort för:
 

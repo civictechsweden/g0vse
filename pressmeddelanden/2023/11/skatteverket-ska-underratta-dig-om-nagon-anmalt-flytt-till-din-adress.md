@@ -10,4 +10,4 @@ Kriminaliteten breder ut sig i samhället och folk känner sig inte trygga i sin
 
 Uppdraget innebär att Skatteverket ska underrätta den person som är folkbokförd på en viss fastighet, och i förekommande fall lägenhet, om att en annan person har anmält flytt dit. Den redan folkbokförda personen ska sen kunna lämna synpunkter på flyttanmälan innan Skatteverket fattar ett beslut. Det bidrar till en ökad trygghet och en högre kvalitet på bosättningsuppgifter i folkbokföringen.
 
-Uppdraget ska redovisas senast den 5 augusti 2024\.
+Uppdraget ska redovisas senast den 5 augusti 2024.

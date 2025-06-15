@@ -9,4 +9,4 @@ register.
 
 Bolagsverket ska kunna förelägga ett rapporteringsskyldigt företag som inte har rapporterat in uppgifter att fullgöra rapporteringsskyldigheten. Ett sådant föreläggande ska få förenas med vite. Frågor om utdömande av vite ska prövas av Bolagsverket.
 
-Lagen föreslås träda i kraft den 1 mars 2022\. Rapportering ska ske första gången senast den 30 september 2023 och omfatta perioden från och med den 1 juli 2022 till och med den 30 juni 2023\.
+Lagen föreslås träda i kraft den 1 mars 2022. Rapportering ska ske första gången senast den 30 september 2023 och omfatta perioden från och med den 1 juli 2022 till och med den 30 juni 2023.

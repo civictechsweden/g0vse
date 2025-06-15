@@ -11,4 +11,4 @@ Utredaren ska bland annat:
 * analysera behovet av utökade möjlig­heter att kamera­bevaka i syfte att bekämpa brott och upp­rätt­hålla allmän ord­ning och säkerhet, och
 * lämna de författ­nings­förslag som bedöms lämpliga.
 
-Uppdraget ska redovisas senast den 15 april 2024\.
+Uppdraget ska redovisas senast den 15 april 2024.

@@ -2,10 +2,9 @@
 
 Ny version: För att fler hyresgäster ska få tillgång till hemmaladdning tog Elektrifieringskommissionen och sex bostadsbolag under våren 2022 initiativ till Klart för laddplats. Ytterligare sju bostadsbolag har därefter anslutit sig till initiativet.
 
-
 Initiativet ”Klart för laddplats” lyfter bostadsbolagens viktiga roll att påskynda elektrifieringen av transportsektorn. Elbilar laddas mestadels i närheten av bostaden. En förutsättning att skaffa elbil kan för många därför vara att bilen kan laddas nära hemmet.
 
-Antalet elbilar ökar, men takten i omställningen behöver gå snabbare än i dag för att nå klimatmålen. En omfattande elektrifiering av transporter krävs för att transportsektorn ska kunna ha i princip noll utsläpp av växthusgaser senast 2045\.
+Antalet elbilar ökar, men takten i omställningen behöver gå snabbare än i dag för att nå klimatmålen. En omfattande elektrifiering av transporter krävs för att transportsektorn ska kunna ha i princip noll utsläpp av växthusgaser senast 2045.
 
 Inom ramen för Klart för laddplats har Lunds Kommuns Fastighets AB, Örebrobostäder, Stena Fastigheter, Kopparstaden, Stockholmshem, Halmstads Fastighets AB, SBB, Stiftelsen Arbetarebostadsfonden, Familjebostäder, Växjö bostäder, Ängelholmshem, Finnveden bostäder samt Östhammarshem manifesterat sina ambitioner att ge sina hyresgäster möjlighet att gå före i omställningen till ett fossilfritt samhälle, och gör följande åtaganden:
 

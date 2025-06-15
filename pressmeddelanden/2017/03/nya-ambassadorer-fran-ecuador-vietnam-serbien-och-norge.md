@@ -17,10 +17,10 @@ Vice utrikesminister
 Utrikesrådgivare hos presidenten
 
 **2005 – 2006**
-Chargé d'Affaires vid UNESCO\-delegationen, Paris
+Chargé d'Affaires vid UNESCO-delegationen, Paris
 
 **2001 – 2006**
-Minister vid UNESCO\-delegationen, Paris
+Minister vid UNESCO-delegationen, Paris
 
 **1998 – 2001**
 Chef för utrikesministerns kansli
@@ -30,7 +30,7 @@ Protokollchef
 
 ### **H.E. Thi Phuong Dung Doan, Vietnam**
 
-Vietnams nyutnämnda ambassadör är född 1964 och har tjänstgjort i utrikesministeriet sedan 1988\. Hon har en Master i freds\- och konfliktstudier vid Uppsala universitet och har gjort en stor del av sin karriär inom Vietnams diplomatakademi vid utrikesministeriet i Hanoi. Under de senaste åren har hon innehaft bl.a. följande befattningar:
+Vietnams nyutnämnda ambassadör är född 1964 och har tjänstgjort i utrikesministeriet sedan 1988. Hon har en Master i freds- och konfliktstudier vid Uppsala universitet och har gjort en stor del av sin karriär inom Vietnams diplomatakademi vid utrikesministeriet i Hanoi. Under de senaste åren har hon innehaft bl.a. följande befattningar:
 
 **2015 – 2016**
 Ordförande för Vietnams diplomatakademi
@@ -64,7 +64,7 @@ Ambassadör i Addis Abeba
 Ambassadör vid utrikesdepartementet i Belgrad
 
 **2006 – 2007**
-Departementsråd med ansvar för EU\-frågor
+Departementsråd med ansvar för EU-frågor
 
 **2004 – 2006**
 Ambassadör i Peking
@@ -92,4 +92,4 @@ Senior rådgivare på internationella enheten vid statsministerns kontor
 Chef på Europaenheten och för de bilaterala förbindelserna med Nordamerika vid UD
 
 **1993 – 1996**
-Ambassadsekreterare på den norska EU\-delegationen i Bryssel
+Ambassadsekreterare på den norska EU-delegationen i Bryssel

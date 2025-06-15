@@ -5,8 +5,8 @@ Höga krav måste ställas på kvaliteten i brottmålsprocessen. De regler som d
 * tillämpningen av objektivitetskravet,
 * förundersökningsledarens ansvar,
 * metoderna som de brottsutredande myndigheterna tillämpar för kvalitetssäkring,
-* dokumentation och bevarande av utrednings\- och bevismaterial,
-* beslag som görs i bevissyfte och beslag i IT\-miljö, samt
+* dokumentation och bevarande av utrednings- och bevismaterial,
+* beslag som görs i bevissyfte och beslag i IT-miljö, samt
 * rätten till rättsligt biträde i samband med ansökan om resning i brottmål.
 
-Uppdraget ska i den del som avser förfarandet i samband med ansökan om resning i brottmål redovisas i ett delbetänkande senast den 31 december 2009\. Uppdraget ska i övriga delar redovisas senast den 31 december 2010\.
+Uppdraget ska i den del som avser förfarandet i samband med ansökan om resning i brottmål redovisas i ett delbetänkande senast den 31 december 2009. Uppdraget ska i övriga delar redovisas senast den 31 december 2010.

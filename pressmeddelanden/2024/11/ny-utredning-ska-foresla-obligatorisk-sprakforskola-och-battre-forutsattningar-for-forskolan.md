@@ -12,4 +12,4 @@ Regeringen tillsätter nu en utredning som bland annat får i uppdrag att utreda
 
 Utredningen ska också se över hur det kan införas en så kallad språkförskola. Språkförskolan ska vara obligatorisk för barn som visar påtagliga brister i språkutvecklingen i svenska på grund av att de inte i tillräcklig utsträckning exponeras för svenska i sin hemmiljö. Utredningen ska även föreslå hur det kan införas tydligare nationella krav på personalens kunskaper i svenska språket.
 
-Som särskild utredare tillsätts Eva Broström. Uppdraget ska redovisas senast den 18 december 2025\.
+Som särskild utredare tillsätts Eva Broström. Uppdraget ska redovisas senast den 18 december 2025.

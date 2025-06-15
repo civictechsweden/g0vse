@@ -2,7 +2,6 @@
 
 Den 20 december kallade partiledarna från regeringspartierna tillsammans med samarbetspartiet Sverigedemokraterna till en pressträff för att presentera ett trygghetspaket kopplat till Tidöavtalet.
 
-
 – Det här är ett av Tidöavtalets allra mest centrala områden där vi har lovat göra vad som krävs för att bryta utvecklingen mot allt grövre kriminalitet. Det här är en del av de stora samarbetsprojekt som vi arbetar med systematiskt, sade statsminister Ulf Kristersson.
 
 Regeringen har delat in arbetet mot kriminalitet i fem stora projekt. På pressträffen presentades tre av dessa: ”Flera effektiva och träffsäkra åtgärder”, ”Tystnadskulturer måste brytas” och ”Tidigare insatser av socialtjänsten”.

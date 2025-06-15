@@ -12,7 +12,7 @@ Förslaget om en socialtjänstdataregisterlag innebär att fler personuppgifter 
 * analysera hur förslagen förhåller sig till regelverken om offentlighet och sekretess och ta ställning till om kommunerna ska ges tillgång till de uppgifter som de har lämnat genom elektronisk åtkomst, och
 * lämna nödvändiga författningsförslag.
 
-Utredaren ska redovisa uppdraget senast den 1 juli 2024\.
+Utredaren ska redovisa uppdraget senast den 1 juli 2024.
 
 Som ett komplement till utredningen ger regeringen Socialstyrelsen i uppdrag att analysera kommunernas förutsättningar och behov inför införandet av en socialtjänstdataregisterlag.
 
@@ -23,4 +23,4 @@ Socialstyrelsen ska bland annat:
 * analysera hur kommunernas system kan hantera en sådan uppgiftsinsamling samt
 * föra dialog med vissa berörda myndigheter.
 
-Uppdraget till Socialstyrelsen ska redovisas senast den 19 april 2024\.
+Uppdraget till Socialstyrelsen ska redovisas senast den 19 april 2024.

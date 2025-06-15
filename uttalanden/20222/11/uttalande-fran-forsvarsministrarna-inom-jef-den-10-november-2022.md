@@ -2,7 +2,6 @@
 
 Ny version: Uttalande från försvarsministrarna i länderna inom försvarssamarbetet Joint Expeditionary Force (JEF), i samband med ett möte den 9–10 november 2022, Edinburgh, Skottland.
 
-
 Uttalandet på engelska i sin helhet nedan.
 
 ## JEF Defence Ministers Statement
@@ -17,6 +16,6 @@ Today we addressed recent developments in the ongoing invasion and considered ho
 
 The JEF has increased its military activities in Northern Europe in 2022 to provide greater levels of security assurance to our members and the wider region. As we meet, Joint Protector 2022 is concluding in Denmark, through which JEF members have exercised our collective responses to the newly emerging threats and potential crisis scenarios. This year the JEF has also deployed military forces and provided practical assurance measures to Finland and Sweden through their accession to NATO, and we remain steadfast in our support of them becoming full members of the Alliance.
 
-JEF meetings develop both our shared understanding of events and agility to react to them, providing a valuable contribution to regional and wider European security. Today, we reviewed that contribution and agreed to deepen our cooperation on hybrid threats and the protection of Critical National Infrastructure, and mature our vision for the JEF’s long\-term development as a key component of Northern European security: supporting our members, delivering region\-specific and multi\-domain defence activities, and contributing to the security of Europe as one of NATO’s Framework Nation Concept.
+JEF meetings develop both our shared understanding of events and agility to react to them, providing a valuable contribution to regional and wider European security. Today, we reviewed that contribution and agreed to deepen our cooperation on hybrid threats and the protection of Critical National Infrastructure, and mature our vision for the JEF’s long-term development as a key component of Northern European security: supporting our members, delivering region-specific and multi-domain defence activities, and contributing to the security of Europe as one of NATO’s Framework Nation Concept.
 
 The leaders of JEF member nations are scheduled to meet in Riga, Latvia, in December and will progress this work together.

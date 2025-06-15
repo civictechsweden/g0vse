@@ -1,6 +1,6 @@
 # Trafikverket får säkra strategisk vägmateriel
 
-– Trafikverket får nu bättre möjlighet att säkerställa en god beredskap när det gäller väginfrastrukturen och att vid behov parera situationer när det annars skulle kunna uppstå brist på varor, säger infrastruktur\- och bostadsminister Andreas Carlson.
+– Trafikverket får nu bättre möjlighet att säkerställa en god beredskap när det gäller väginfrastrukturen och att vid behov parera situationer när det annars skulle kunna uppstå brist på varor, säger infrastruktur- och bostadsminister Andreas Carlson.
 
 Ändringen syftar till att ge Trafikverket handlingsfrihet att i händelse av höjd beredskap eller ytterst krig, säkerställa tillgången till strategisk materiel genom upphandling eller lagerhållning.
 

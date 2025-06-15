@@ -4,4 +4,4 @@ I lagrådsremissen föreslås att bestämmelserna i mervärdesskattelagen om omv
 
 Ändringen syftar till att anpassa bestämmelsernas tillämpningsområde så att det bättre överensstämmer med vad som enligt allmänt språkbruk avses med avfall och skrot.
 
-Lagändringarna föreslås träda i kraft den 1 oktober 2021\.
+Lagändringarna föreslås träda i kraft den 1 oktober 2021.

@@ -6,6 +6,6 @@ Det finns få studier om svensk modersmålsundervisning och därför behövs mer
 
 – Nu ser vi till att lärarna får förutsättningar att anpassa undervisningen i svenska som andraspråk efter elevernas förkunskaper. Vidare är det viktigt att modersmålsundervisningen får en översyn. Undervisningen ska självklart vara utformad på bästa möjliga sätt för att främja elevernas integration och kunskapsutveckling, säger skolminister Lotta Edholm.
 
-Uppdraget ska redovisas senast den 6 december 2024\. Till utredare utses Marie\-Hélène Ahnborg.
+Uppdraget ska redovisas senast den 6 december 2024. Till utredare utses Marie-Hélène Ahnborg.
 
 Beslutet bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

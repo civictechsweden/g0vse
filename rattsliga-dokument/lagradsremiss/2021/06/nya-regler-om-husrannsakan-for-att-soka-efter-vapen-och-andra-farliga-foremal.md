@@ -4,4 +4,4 @@ Våldet från kriminella har förändrats på ett oroväckande sätt de senaste 
 
 För att polisen ska få bättre möjligheter att förhindra att vapen och andra farliga föremål används vid våldsbrott föreslår regeringen lagändringar som ger polisen en ny befogenhet att i brottsförebyggande syfte söka efter sådana föremål i gemensamma utrymmen i eller i anslutning till flerbostadshus.
 
-Ändringarna föreslås träda i kraft den 1 december 2021\.
+Ändringarna föreslås träda i kraft den 1 december 2021.

@@ -11,7 +11,7 @@ I utredarens uppdrag ingår bland annat att
 * utreda i vilken eller vilka andra stater som förhyrning av anstaltsplatser kan aktualiseras utifrån kapacitet och rådande fängelseförhållanden,
 * avgöra i vilken form som förhyrning lämpligast bör ske i fråga om ansvar för drift och verkställighetsinnehåll och utreda hur verksamheten lämpligen kan bemannas,
 * föreslå hur urvalet av intagna kan och bör göras,
-* identifiera och lämna förslag på hantering av en rad praktiska frågor kopplade till förhyrningen, till exempel gällande säkerhet, behandling av personuppgifter, transporter samt hälso\- och sjukvård,
+* identifiera och lämna förslag på hantering av en rad praktiska frågor kopplade till förhyrningen, till exempel gällande säkerhet, behandling av personuppgifter, transporter samt hälso- och sjukvård,
 * beräkna kostnaderna för att hyra fängelseplatser utomlands och hur de förhåller sig till kostnaderna för att verkställa ett fängelsestraff i Sverige och
 * ta fram utkast på avtal med en eller flera lämpliga stater.
 
@@ -19,4 +19,4 @@ Utredaren ska genomföra uppdraget i samarbete med Kriminalvården. Syftet är a
 
 Uppdraget bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.
 
-Uppdraget ska redovisas senast den 16 december 2024\.
+Uppdraget ska redovisas senast den 16 december 2024.

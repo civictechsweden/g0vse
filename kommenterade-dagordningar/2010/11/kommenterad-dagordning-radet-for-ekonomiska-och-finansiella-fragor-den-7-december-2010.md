@@ -7,6 +7,6 @@ På Ekofinrådets möte den 7 december 2010 finns följande punkter på dagordni
 * Blankning och statskreditswappar
 * Stärkt ekonomiskt samarbete
 * Förberedelser inför Europeiska rådet
-* Allmännyttiga tjänster hälso\- och sjukvårdsområdet
+* Allmännyttiga tjänster hälso- och sjukvårdsområdet
 * Krishantering
 * Uppförandekod för företagsbeskattning

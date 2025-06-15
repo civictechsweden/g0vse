@@ -2,9 +2,7 @@
 
 ![](/contentassets/71bb621681f74e62b4cdcb3ff62fb88f/strategi-for-sveriges-utvecklingssamarbete-med-guatemala.png?width=150&quality=85)
 
-
 Svenskt utvecklingssamarbete med Guatemala inom ramen för denna strategi ska stödja landet i genomförandet av fredsavtalen, och därmed bidra till stärkt demokrati, respekt för mänskliga rättigheter, konsolidering av freden, lägre våldsnivå och minskad fattigdom. Verksamheten ska också bidra till jämställdhet och förbättrade möjligheter för urfolk. Strategin ska gälla under perioden 2016–2020 och omfattar sammantaget 1 125 miljoner svenska kronor.
-
 
 **Sidas insatser inom ramen för strategin förväntas bidra till:**
 
@@ -19,7 +17,7 @@ Stärkt demokrati och jämställdhet samt ökad respekt för mänskliga rättigh
 * Stärkta demokratiska institutioner och ökat deltagande i politiska processer.
 * Stärkt respekt för mänskliga rättigheter, med fokus på urfolks samt kvinnors och barns situation.
 * Ökad respekt för och tillgång till sexuell och reproduktiv hälsa och rättigheter (SRHR)
-* Stärkta mark\- och nyttjanderättigheter för kvinnor och urfolk inom det småskaliga lantbruket.
+* Stärkta mark- och nyttjanderättigheter för kvinnor och urfolk inom det småskaliga lantbruket.
 
 Förbättrade möjligheter och verktyg för fattiga människor att kunna förbättra sina levnadsvillkor:
 

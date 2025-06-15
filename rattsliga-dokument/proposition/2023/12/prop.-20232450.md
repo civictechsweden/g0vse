@@ -6,4 +6,4 @@ Uppgiftsskyldigheten innebär att myndigheter och auktoriserade sammanslutningar
 
 Regeringen föreslår också att sekretess ska gälla för uppgift om en enskilds personliga eller ekonomiska förhållanden hos Adoptionskommissionen i dess verksamhet som rör kartläggning och utredning av Sveriges internationella adoptionsverksamhet. Detta om det kan antas att den enskilde eller någon närstående till denne lider skada eller men om uppgiften röjs. För uppgift i en allmän handling föreslås att sekretessen ska gälla i högst 70 år.
 
-De nya reglerna föreslås träda i kraft den 1 mars 2024\.
+De nya reglerna föreslås träda i kraft den 1 mars 2024.

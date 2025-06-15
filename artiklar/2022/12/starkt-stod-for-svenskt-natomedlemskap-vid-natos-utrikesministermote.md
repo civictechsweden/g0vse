@@ -1,7 +1,6 @@
 # Starkt stöd för svenskt Natomedlemskap vid Natos utrikesministermöte
 
-Samsyn och enighet präglade det första Nato\-utrikesministermöte som Sverige deltagit i som inbjuden. Sverige deltog aktivt i alla diskussioner, som hade ett starkt fokus på Rysslands aggression mot Ukraina och det militära och civila stödet till Ukraina.
-
+Samsyn och enighet präglade det första Nato-utrikesministermöte som Sverige deltagit i som inbjuden. Sverige deltog aktivt i alla diskussioner, som hade ett starkt fokus på Rysslands aggression mot Ukraina och det militära och civila stödet till Ukraina.
 
 Det var under Natotoppmötet i Madrid i juni i år som Sverige formellt blev inbjuden till Nato. När mötet i Bukarest nu ägt rum fem månader senare har 28 av 30 Natomedlemmar ratificerat Sveriges Natomedlemskap.
 

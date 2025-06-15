@@ -11,4 +11,4 @@ Utredaren ska dessutom bland annat
 * föreslå åtgärder för att säkerställa att offentliga organ kan ta emot data under exceptionella omständigheter
 * lämna de författningsförslag i övrigt som är nödvändiga för att uppfylla kraven i förordningen.
 
-Uppdraget ska redovisas senast den 15 oktober 2025\.
+Uppdraget ska redovisas senast den 15 oktober 2025.

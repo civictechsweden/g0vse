@@ -4,7 +4,6 @@ Kulturminister Parisa Liljestrands anförande i samband med invigningen av konve
 
 Det talade ordet gäller.
 
-
 Stort tack för möjligheten att vara här i dag.
 
 Vi lever i ekonomiskt tuffa och osäkra tider. Det påverkar hela samhället. Jag är väl medveten om att det påverkar också er, som arbetar i och med kulturen. Jag reser ofta ut i landet och besöker olika kulturverksamheter. Det jag möter där är ett enormt engagemang, yrkesstolthet och uppfinningsrikedom. Tack för ert fantastiska arbete med att göra kulturen tillgänglig i hela landet, också i mycket kärva tider.

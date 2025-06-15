@@ -2,8 +2,7 @@
 
 Detta dokument är en uppdaterad beskrivning av hur Sverige behandlar och arbetar utifrån rådets förstärkta rekommendation av den 30 oktober 2020 om en väg till jobb – en förstärkt ungdomsgaranti och om ersättande av rådets rekommendation av den 22 april 2013 om att inrätta en ungdomsgaranti.
 
-
-I dokumentet presenteras den svenska strategiska politiken för att främja sysselsättning bland ungdomar och de åtgärder som regeringen har vidtagit och kommer att vidta för att förbättra arbetsmarknadssituationen för ungdomar i Sverige. De åtgärder som presenteras i rapporten ska ses som kompletterande och ömsesidigt förstärkande och ställas mot regeringens bredare antagna och planerade arbetsmarknads\-, skatte\- och utbildningspolitik.
+I dokumentet presenteras den svenska strategiska politiken för att främja sysselsättning bland ungdomar och de åtgärder som regeringen har vidtagit och kommer att vidta för att förbättra arbetsmarknadssituationen för ungdomar i Sverige. De åtgärder som presenteras i rapporten ska ses som kompletterande och ömsesidigt förstärkande och ställas mot regeringens bredare antagna och planerade arbetsmarknads-, skatte- och utbildningspolitik.
 
 ## Summary
 

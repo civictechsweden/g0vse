@@ -1,6 +1,6 @@
 # En tioårig grundskola
 
-En särskild utredare ska föreslå hur en tioårig grundskola kan införas genom att förskoleklassen görs om till årskurs ett. Syftet är att förbättra kunskapsresultaten genom att eleverna ges mer undervisning utifrån grundskolans kursplaner och inom den regel\- och kompetensmässiga struktur som grundskolan har. Även de motsvarande obligatoriska skolformerna grundsärskolan, specialskolan och sameskolan ska utökas med ett år genom att förskoleklassen omvandlas till en ny första årskurs.
+En särskild utredare ska föreslå hur en tioårig grundskola kan införas genom att förskoleklassen görs om till årskurs ett. Syftet är att förbättra kunskapsresultaten genom att eleverna ges mer undervisning utifrån grundskolans kursplaner och inom den regel- och kompetensmässiga struktur som grundskolan har. Även de motsvarande obligatoriska skolformerna grundsärskolan, specialskolan och sameskolan ska utökas med ett år genom att förskoleklassen omvandlas till en ny första årskurs.
 
 Utredaren ska bland annat:
 
@@ -11,4 +11,4 @@ Utredaren ska bland annat:
 * föreslå vilken fortbildning och kompetensutveckling som bör genomföras för förskollärare och lärare, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 26 april 2021\.
+Uppdraget ska redovisas senast den 26 april 2021.

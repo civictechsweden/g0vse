@@ -8,4 +8,4 @@ För många länder är frågan om finansiering av avtalets genomförande centra
 
 Sverige prioriterar att avtalet ska inkludera principen om att förorenaren betalar. Då är så kallat utökat producentansvar (EPR) ett viktigt verktyg. Det innebär att den som gör en produkt tillgänglig på marknaden ska ansvara och betala för att den tas omhand efter användning, exempelvis genom att samla in och transportera bort avfall eller återanvända eller återvinna varor.
 
-Den svenska delegationen leds av Johanna Lissinger\-Peitz på Klimat\- och Näringslivsdepartementet. Delegationen består även av tjänstemän från Klimat\- och Näringslivsdepartementet, samt representanter från Kemikalieinspektionen, Naturvårdsverket och Havs\- och vattenmyndigheten.
+Den svenska delegationen leds av Johanna Lissinger-Peitz på Klimat- och Näringslivsdepartementet. Delegationen består även av tjänstemän från Klimat- och Näringslivsdepartementet, samt representanter från Kemikalieinspektionen, Naturvårdsverket och Havs- och vattenmyndigheten.

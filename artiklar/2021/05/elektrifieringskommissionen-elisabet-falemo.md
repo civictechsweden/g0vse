@@ -2,7 +2,6 @@
 
 Möt Elisabet Falemo, särskild utredare Elvägar, som är ledamot i Elektrifieringskommissionen. Här berättar hon om uppdraget.
 
-
 **Vilken är kommissionens viktigaste uppgift?**
 
 − Elektrifieringskommissionens viktigaste uppgift är att öka kunskap och ge överblick över de möjligheter som kan skapas för hållbara transportsystem. Förhoppningsvis kan kreativa samarbeten utvecklas genom att olika aktörer träffas.

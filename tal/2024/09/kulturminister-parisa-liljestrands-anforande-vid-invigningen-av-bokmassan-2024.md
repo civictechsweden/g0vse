@@ -4,14 +4,13 @@ Göteborg, 26 september 2024
 
 Det talade ordet gäller.
 
-
 Kära vänner,
 
 I år firar Bokmässan 40 mässor – en milstolpe och en prestation.
 
 Alla vi som själva passerat 40 vet att ingen gör det utan att lära sig några tuffa läxor på vägen. Bokmässan är inget undantag. Sedan 1985 har den gått igenom skiftande konjunkturer, politiska kontroverser och en global pandemi.
 
-Och här är vi nu. Med över 80 000 besök, 800 utställare och 300 seminarier är Bokmässan i Göteborg Nordens största kulturevenemang. Bokmässan är i dag ett fantastiskt nav för läsning, litteratur och kulturdebatt. Hela det litterära ekosystemet är på plats. Från bibliotek, författare, förlag och bokhandlare, till lärare och läsare. Den här 40\-åringen är på en bra plats i livet.
+Och här är vi nu. Med över 80 000 besök, 800 utställare och 300 seminarier är Bokmässan i Göteborg Nordens största kulturevenemang. Bokmässan är i dag ett fantastiskt nav för läsning, litteratur och kulturdebatt. Hela det litterära ekosystemet är på plats. Från bibliotek, författare, förlag och bokhandlare, till lärare och läsare. Den här 40-åringen är på en bra plats i livet.
 
 I år har Bokmässan tillsammans med sin hedersgäst valt att låta illustratören Kine Kjaer, från den norska sidan av Sápmi, gestalta och tolka årets mässa. För årets affisch har hon avbildat ett bibliotek. En fin passning till grunden för Bokmässan, som från början bestod av just en sammanslutning bibliotekarier.
 
@@ -31,6 +30,6 @@ Rymden, med sin oändlighet, har alltid fascinerat oss människor. Den har inspi
 
 Låt oss fortsatt inspireras av rymdens oändlighet och Sápmis rika kultur.
 
-Låt oss också fira detta 40\-årsjubileum genom att hylla litteraturen, författarna, biblioteken, förlagen, bokhandlarna och framför allt – alla läsare! Låt oss aldrig sluta utforska, lära och drömma.
+Låt oss också fira detta 40-årsjubileum genom att hylla litteraturen, författarna, biblioteken, förlagen, bokhandlarna och framför allt – alla läsare! Låt oss aldrig sluta utforska, lära och drömma.
 
 Jag förklarar här med den 40:e Bokmässan i ordningen invigd!

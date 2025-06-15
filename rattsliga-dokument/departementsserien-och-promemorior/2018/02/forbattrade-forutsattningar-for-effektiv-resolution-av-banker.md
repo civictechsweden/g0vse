@@ -15,4 +15,4 @@ förmånsrättsordningen i omvänd ordning.
 Det föreslås slutligen att vissa felskrivningar i lagen om
 kapitalbuffertar ska rättas.
 
-Lagändringarna föreslås träda i kraft den 29 december 2018\.
+Lagändringarna föreslås träda i kraft den 29 december 2018.

@@ -1,8 +1,8 @@
 # Sjukvårdsministern och Ukrainas hälsominister har i Kiev signerat ett avtal för fortsatt stöd till Ukrainas EU-närmande på hälso- och sjukvårdens område
 
-– Regeringen är tydlig med att det svenska stödet till Ukraina ligger fast så länge som det krävs. Inte minst inom hälso\- och sjukvårdsområdet som är en avgörande del i motståndskraften och reformeringen av landet. För mig var det viktigt att vara på plats och visa på mitt och hela regeringens stöd till det krigsdrabbade landet, säger sjukvårdsminister Acko Ankarberg Johansson.
+– Regeringen är tydlig med att det svenska stödet till Ukraina ligger fast så länge som det krävs. Inte minst inom hälso- och sjukvårdsområdet som är en avgörande del i motståndskraften och reformeringen av landet. För mig var det viktigt att vara på plats och visa på mitt och hela regeringens stöd till det krigsdrabbade landet, säger sjukvårdsminister Acko Ankarberg Johansson.
 
-Avtalet omfattar bland annat samarbete om kunskapsöverföring till hälso\- och sjukvårdens personal, bidra till arbetet mot antimikrobiell resistens och samarbete och erfarenhetsutbyte kring rehabilitering för ukrainare som drabbats av kriget. Det omfattar också samarbete och kapacitetsstärkande för att stödja reformer som är nödvändiga för europeisk integrering på bland annat läkemedelsområdet.
+Avtalet omfattar bland annat samarbete om kunskapsöverföring till hälso- och sjukvårdens personal, bidra till arbetet mot antimikrobiell resistens och samarbete och erfarenhetsutbyte kring rehabilitering för ukrainare som drabbats av kriget. Det omfattar också samarbete och kapacitetsstärkande för att stödja reformer som är nödvändiga för europeisk integrering på bland annat läkemedelsområdet.
 
 Avtalet skrevs under av ministrarna på plats på Ukrainas hälsodepartement, och bygger vidare på tidigare ingångna avtal och överenskommelser mellan länderna.
 
@@ -16,7 +16,7 @@ Vid besöket undertecknade Spinalis också en överenskommelse om internationell
 
 ## Besök på bombat barnsjukhus
 
-Ukrainas största barnsjukhus, Okhmatdyt, ligger i Kiev och utsattes för en rysk missilattack den 8 juli 2024\. En stor del av sjukhuset förstördes i attacken och är i stort behov av uppbyggnad. Ministern besökte platsen och fick bland annat en visning av förstörelsen och träffade patienter.
+Ukrainas största barnsjukhus, Okhmatdyt, ligger i Kiev och utsattes för en rysk missilattack den 8 juli 2024. En stor del av sjukhuset förstördes i attacken och är i stort behov av uppbyggnad. Ministern besökte platsen och fick bland annat en visning av förstörelsen och träffade patienter.
 
 Regeringen har gett ett stöd på närmare 10 miljoner kronor för att bidra till återuppbyggnaden av barnsjukhuset. Det svenska bidraget går till den ideella organisationen Beredskapslyftet som i samarbete med Astrid Lindgrens Barnsjukhus vid Karolinska Universitetssjukhuset är initiativtagare till projektet och ansvarar för inköp av utrustning.
 

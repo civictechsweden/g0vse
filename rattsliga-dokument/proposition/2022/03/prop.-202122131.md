@@ -1,11 +1,11 @@
 # Nytt regelverk för kvalificerade säkerhetsärenden
 
-Arbetet mot terrorism är en högt prioriterad fråga för regeringen. Regeringen föreslår därför en mer ändamålsenlig, effektiv och överskådlig reglering när det gäller de utlänningar som utgör kvalificerade hot mot Sveriges säkerhet. Den nya regleringen är samtidigt förenlig med ett väl fungerande skydd för grundläggande fri\- och rättigheter.
+Arbetet mot terrorism är en högt prioriterad fråga för regeringen. Regeringen föreslår därför en mer ändamålsenlig, effektiv och överskådlig reglering när det gäller de utlänningar som utgör kvalificerade hot mot Sveriges säkerhet. Den nya regleringen är samtidigt förenlig med ett väl fungerande skydd för grundläggande fri- och rättigheter.
 
 I den nya lagen föreslår regeringen därför bland annat
 
 * utvidgade möjligheter att utvisa utlänningar som utgör kvalificerade
-hot mot Sveriges säkerhet,
+  hot mot Sveriges säkerhet,
 * att det ställs utökade krav på muntlig handläggning i utvisningsärenden och att det införs en möjlighet för utlänningar att få verkställda utvisningsbeslut upphävda,
 * att förutsättningarna för att få ta en utlänning i förvar enligt den nya lagen förtydligas,
 * att fler tvångsmedel ska få användas och att kraven för att få ett tillstånd till hemliga tvångsmedel sänks,
@@ -17,4 +17,4 @@ Det ska också tydligare framgå att brotten är av sådan art att påföljden
 normalt bör vara fängelse.
 
 Den nya lagen och övriga lagändringar föreslås träda i kraft den 1 juli
-2022\.
+2022.

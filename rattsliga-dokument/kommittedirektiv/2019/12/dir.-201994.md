@@ -10,6 +10,6 @@ Utredaren ska bland annat
 * beskriva och analysera verksamheter inom kommunerna som kan bidra till det brottsförebyggande arbetet,
 * föreslå hur ett lagstadgat kommunalt ansvar för det brottsförebyggande arbetet bör utformas och vilka verksamheter som bör omfattas av ett sådant ansvar,
 * lämna förslag som bidrar till att kommunerna på ett effektivt sätt kan
-fullgöra sitt ansvar för det brottsförebyggande arbetet.
+  fullgöra sitt ansvar för det brottsförebyggande arbetet.
 
-Uppdraget ska redovisas senast den 15 juni 2021\.
+Uppdraget ska redovisas senast den 15 juni 2021.

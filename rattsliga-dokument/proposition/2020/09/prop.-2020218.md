@@ -5,4 +5,4 @@ För att bötesstraffet ska vara en trovärdig påföljd är det viktigt att per
 För att utvidga möjligheterna till bötesförvandling föreslår regeringen att kravet på att det ska vara uppenbart att den bötfällde av tredska inte har betalat sina böter ska tas bort. Regeringen föreslår också att det ålderdomliga ordet tredska byts ut mot trots. Böter ska alltså förvandlas till fängelse om de inte har kunnat drivas in och det
 beror på trots från den bötfällde.
 
-Lagändringen föreslås träda i kraft den 1 januari 2021\.
+Lagändringen föreslås träda i kraft den 1 januari 2021.

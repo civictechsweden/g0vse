@@ -7,5 +7,5 @@ beskattning bara till den del värdet av förmånen överstiger 3 000 kronor per
 
 I propositionen föreslås även att ersättningar vid uthyrning av personliga tillgångar ska tas upp till beskattning bara till den del som de sammanlagda ersättningarna överstiger 20 000 kronor.
 
-Förslaget medför ändringar i inkomstskattelagen (1999:1229\) som
-föreslås träda i kraft den 1 januari 2022\.
+Förslaget medför ändringar i inkomstskattelagen (1999:1229) som
+föreslås träda i kraft den 1 januari 2022.

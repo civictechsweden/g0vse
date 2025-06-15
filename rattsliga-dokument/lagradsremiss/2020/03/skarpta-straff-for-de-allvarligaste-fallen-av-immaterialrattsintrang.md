@@ -6,4 +6,4 @@ I lagrådsremissen föreslås därför att straffskalorna för de allvarligaste 
 
 Vidare föreslås att nya brottsbeteckningar ska införas och att åtalsprövningsreglerna i de immaterialrättsliga lagarna ändras så att åklagare får väcka allmänt åtal för brott endast om åtalet är motiverat från allmän synpunkt.
 
-Lagändringarna föreslås träda i kraft den 1 september 2020\.
+Lagändringarna föreslås träda i kraft den 1 september 2020.

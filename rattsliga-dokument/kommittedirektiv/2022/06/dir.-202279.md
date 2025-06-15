@@ -8,10 +8,10 @@ samhället.
 
 Utredaren ska bland annat:
 
-* föreslå hur språk\- och samhällskunskapskrav för permanent
-uppehållstillstånd ska utformas och kontrolleras på ett sätt som är
-ändamålsenligt, rättssäkert och effektivt,
+* föreslå hur språk- och samhällskunskapskrav för permanent
+  uppehållstillstånd ska utformas och kontrolleras på ett sätt som är
+  ändamålsenligt, rättssäkert och effektivt,
 * föreslå vilka undantag som ska kunna göras från kraven, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 22 maj 2023\.
+Uppdraget ska redovisas senast den 22 maj 2023.

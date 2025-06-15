@@ -4,7 +4,7 @@
 
 Utredningen har kommit fram till att ett system för erkännande av ungas insatser i civilsamhället bör bestå av en palett av åtgärder. Utredningen ger förslag på fem konkreta åtgärder som, tillsammans med andra insatser, kan skapa ett system som uppvärderar ungas ideella engagemang.
 
-I departementspromemorian Underlätta, utbilda, uppskatta – så erkänns ungas ideella engagemang (Ds 2024:15\) föreslås att:
+I departementspromemorian Underlätta, utbilda, uppskatta – så erkänns ungas ideella engagemang (Ds 2024:15) föreslås att:
 
 * Samtliga länsstyrelser inrättar ett årligt ungdomspris inom respektive län, där ungas ideella insatser uppmärksammas offentligt vid en ceremoni.
 * Ungdomsorganisationer ska kunna söka särskilda medel för att genomföra ledarutbildningar och mentorskapsprogram i syfte att stärka det ideella ledaruppdraget.

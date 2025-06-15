@@ -1,9 +1,8 @@
 # Nya regler i Europakonventionen efter den 1 augusti
 
-Den 1 augusti 2021 trädde ändrings­protokoll nr 15 till Europa­konventionen i kraft. Ändringarna innebär i huvudsak nya regler som syftar till att öka effekti­viteten hos Europa­domstolen. Bland annat blir tids­fristen för att lämna in klagomål till Europa­domstolen kortare. Den nya tids­fristen tillämpas dock först från och med den 1 februari 2022\.
+Den 1 augusti 2021 trädde ändrings­protokoll nr 15 till Europa­konventionen i kraft. Ändringarna innebär i huvudsak nya regler som syftar till att öka effekti­viteten hos Europa­domstolen. Bland annat blir tids­fristen för att lämna in klagomål till Europa­domstolen kortare. Den nya tids­fristen tillämpas dock först från och med den 1 februari 2022.
 
-
-Samtliga 47 konventionsstater har nu ratificerat ändrings­proto­kollet och det trädde därför i kraft den 1 augusti 2021\. Sverige ratificerade proto­kollet redan i mars 2016 efter att riksdagen hade godkänt det.
+Samtliga 47 konventionsstater har nu ratificerat ändrings­proto­kollet och det trädde därför i kraft den 1 augusti 2021. Sverige ratificerade proto­kollet redan i mars 2016 efter att riksdagen hade godkänt det.
 
 Ändringarna i protokoll nr 15 innebär i huvudsak följande.
 
@@ -15,7 +14,7 @@ Konventions­staterna har många gånger en bedömnings­marginal när de tillä
 
 Den tekniska utveck­lingen har ansetts medföra att klago­fristen kan minskas till fyra månader. Den nya klago­fristen överens­stämmer också väl med klago­fristen i de flesta konven­tionsstater.
 
-Genom en övergångs­bestäm­melse följer att den nya tids­fristen för att lämna in klagomål till Europa­domstolen kommer att börja tillämpas först sex månader efter att ändrings­proto­kollet har trätt i kraft. Den nya klago­fristen har inte någon retro­aktiv verkan, dvs. den är inte tillämplig på ansök­ningar som rör ett slutligt avgörande som med­delats innan ikraft­trädandet. Den nya fyra­månaders­fristen ska alltså tillämpas i fråga om slutliga avgöranden av den högsta klago­instansen i varje nationellt förfarande från och med den 1 februari 2022\.
+Genom en övergångs­bestäm­melse följer att den nya tids­fristen för att lämna in klagomål till Europa­domstolen kommer att börja tillämpas först sex månader efter att ändrings­proto­kollet har trätt i kraft. Den nya klago­fristen har inte någon retro­aktiv verkan, dvs. den är inte tillämplig på ansök­ningar som rör ett slutligt avgörande som med­delats innan ikraft­trädandet. Den nya fyra­månaders­fristen ska alltså tillämpas i fråga om slutliga avgöranden av den högsta klago­instansen i varje nationellt förfarande från och med den 1 februari 2022.
 
 ### En ändring görs i bestäm­melsen om att domstolen ska avvisa ett klagomål om klaganden inte har lidit avsevärt men av en kon­ven­tions­kränkning
 

@@ -1,6 +1,6 @@
 # Regeringen ser över hur företagens regelkostnader följs upp
 
-– Regelbördan och onödiga administrativa avgifter för företag måste ner. Det är en prioriterad fråga för den här regeringen. Vi behöver därför på ett enkelt sätt kunna följa utvecklingen av företagens administrativa och fullgörandekostnader till följd av regler, säger energi\- och näringsminister Ebba Busch.
+– Regelbördan och onödiga administrativa avgifter för företag måste ner. Det är en prioriterad fråga för den här regeringen. Vi behöver därför på ett enkelt sätt kunna följa utvecklingen av företagens administrativa och fullgörandekostnader till följd av regler, säger energi- och näringsminister Ebba Busch.
 
 Syftet med uppdraget är att förbättra förutsättningarna att utvärdera effekter av utförda insatser. Detta förbättrar också förutsättningarna att följa upp regeringens politik.
 

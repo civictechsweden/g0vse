@@ -6,4 +6,4 @@ Myndigheten för yrkeshögskolan (MYH) har tidigare fått i uppdrag att förbere
 
 Den 29 februari 2024 öppnade MYH den första ansökningsomgången för de utbildningsanordnare som vill anordna utbildningar inom ramen för pilotverksamheten. De utbildningsområden som är aktuella den här gången är bygg och anläggning, el och energi, fordon och transport, industriteknik samt naturbruk. Utbildningarna ska vara på gymnasial nivå.
 
-Förordningen planeras att träda i kraft i april 2024\. De första utbildningarna beräknas starta under hösten.
+Förordningen planeras att träda i kraft i april 2024. De första utbildningarna beräknas starta under hösten.

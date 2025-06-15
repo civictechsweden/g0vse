@@ -9,4 +9,4 @@ Utredaren ska
 * överväga behovet av förändringar med avseende på gradindelningen av narkotikabrott och narkotikasmugglingsbrott, samt
 * även i övrigt överväga behovet av förändringar i straffskalorna för dessa brott.
 
-Uppdraget ska redovisas senast den 27 juni 2014\.
+Uppdraget ska redovisas senast den 27 juni 2014.

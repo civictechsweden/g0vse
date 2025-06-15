@@ -4,4 +4,4 @@ I denna proposition föreslår regeringen att Transportstyrelsens verksamhet i f
 
 Dessutom lämnas förslag på överföring av Arbetsmiljöverkets tillsynsuppgifter enligt arbetstidsbestämmelserna inom delar av transportområdet.
 
-Författningsförslagen föreslås träda i kraft den 1 januari 2011\.
+Författningsförslagen föreslås träda i kraft den 1 januari 2011.

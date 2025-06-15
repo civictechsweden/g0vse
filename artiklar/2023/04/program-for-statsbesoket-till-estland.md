@@ -1,7 +1,6 @@
 # Program för statsbesöket till Estland
 
-Kungaparet avlägger statsbesök i Estland 2–4 maj 2023 på inbjudan av president Alar Karis. Regeringen representeras av utrikesminister Tobias Billström, försvarsminister Pål Jonson och bistånds\- och utrikeshandelsminister Johan Forssell.
-
+Kungaparet avlägger statsbesök i Estland 2–4 maj 2023 på inbjudan av president Alar Karis. Regeringen representeras av utrikesminister Tobias Billström, försvarsminister Pål Jonson och bistånds- och utrikeshandelsminister Johan Forssell.
 
 Drygt 25 svenska företag deltar i den näringslivsdelegation som Business Sweden arrangerar.
 
@@ -32,7 +31,7 @@ Kungaparet och utrikesminister Billström besöker Estlands parlament, Riigikogu
 
 ### Muséet i Nikolaikyrkan (Niguliste Museum)
 
-Kungaparet och utrikesministern besöker muséet i Nikolaikyrkan tillsammans med presidentparet. Där får de en visning av den kommande utställningen ”Michel Sittow in the North? Altarpiecies in Dialogue”. Utställningen, som är ett samarbete mellan Estlands konstmuseum och Hälsinglands museum, fokuserar på två mästerverk från senmedeltiden: Tallinns passionsaltartavla och Bollnäs heliga släktskapsaltartavla. Båda verken är förknippade med Michel Sittow (ca 1469–1525\), en internationellt erkänd konstnär som föddes och arbetade i Tallinn. Museet har nyligen totalrenoverats och öppnade igen i mars. En konsert med deltagande av framstående estniska musiker kommer också att äga rum.
+Kungaparet och utrikesministern besöker muséet i Nikolaikyrkan tillsammans med presidentparet. Där får de en visning av den kommande utställningen ”Michel Sittow in the North? Altarpiecies in Dialogue”. Utställningen, som är ett samarbete mellan Estlands konstmuseum och Hälsinglands museum, fokuserar på två mästerverk från senmedeltiden: Tallinns passionsaltartavla och Bollnäs heliga släktskapsaltartavla. Båda verken är förknippade med Michel Sittow (ca 1469–1525), en internationellt erkänd konstnär som föddes och arbetade i Tallinn. Museet har nyligen totalrenoverats och öppnade igen i mars. En konsert med deltagande av framstående estniska musiker kommer också att äga rum.
 [Niguliste Museum](https://nigulistemuuseum.ekm.ee/en/ " https://nigulistemuuseum.ekm.ee/en/ ")
 
 ### Monumentet till minne av kommunismens offer, Maarjamäe
@@ -46,21 +45,21 @@ På kvällen står presidentparet värd för en statsbankett på Viimsi Artium.
 
 ## Onsdag 3 maj
 
-### Näringslivsseminarium – Estonia\-Sweden Business Forum
+### Näringslivsseminarium – Estonia-Sweden Business Forum
 
-Kungen, utrikesminister Billström och bistånds\- och utrikeshandelsminister Forssell deltar tillsammans med presidenten i näringslivsseminariet ”Estonia\-Sweden Business Forum” på Kultuurikatel. Seminariet arrangeras av Business Sweden tillsammans med Enterprise Estonia. Det är ett historiskt stort möte mellan svenskt och estniskt näringsliv, med över 25 svenska företag närvarande och ett 100\-tal deltagare från estniska näringslivet. Jan Larsson, vd Business Sweden, och Liina Maria Lepik, styrelseledamot Enterprise Estonia hälsar välkomna vid ankomst. Kungen och presidenten inleder seminariet med var sitt öppningsanförande. Därefter talar ekonomi\- och IT\-ministern, Tiit Riisalo, samt bistånds\- och utrikeshandelsminister Johan Forssell.
+Kungen, utrikesminister Billström och bistånds- och utrikeshandelsminister Forssell deltar tillsammans med presidenten i näringslivsseminariet ”Estonia-Sweden Business Forum” på Kultuurikatel. Seminariet arrangeras av Business Sweden tillsammans med Enterprise Estonia. Det är ett historiskt stort möte mellan svenskt och estniskt näringsliv, med över 25 svenska företag närvarande och ett 100-tal deltagare från estniska näringslivet. Jan Larsson, vd Business Sweden, och Liina Maria Lepik, styrelseledamot Enterprise Estonia hälsar välkomna vid ankomst. Kungen och presidenten inleder seminariet med var sitt öppningsanförande. Därefter talar ekonomi- och IT-ministern, Tiit Riisalo, samt bistånds- och utrikeshandelsminister Johan Forssell.
 [Kultuurikatel](https://kultuurikatel.ee/en/ "https://kultuurikatel.ee/en/ ")
 [Business Sweden](https://www.business-sweden.com/ "https://www.business-sweden.com/")
 [Enterprise Estonia](https://eas.ee/en/ "https://eas.ee/en/ ")
 
 ### Gustav Adolfs gymnasium (Gustav Adolf Grammar School)
 
-Kungaparet och utrikesminister Billström besöker Gustav Adolf\-gymnasiet (Gustav Adolf Grammar School), som är den äldsta gymnasieskolan i Estland. Den grundades av Gustav II Adolf 1631\. Gymnasiet har i dag 437 elever av vilka 116 studerar svenska fem till sex timmar per vecka. Läsåret 2022/2023 firar skolan 30 år av svenskundervisning, som infördes efter statsbesöket från Sverige 1992\.
+Kungaparet och utrikesminister Billström besöker Gustav Adolf-gymnasiet (Gustav Adolf Grammar School), som är den äldsta gymnasieskolan i Estland. Den grundades av Gustav II Adolf 1631. Gymnasiet har i dag 437 elever av vilka 116 studerar svenska fem till sex timmar per vecka. Läsåret 2022/2023 firar skolan 30 år av svenskundervisning, som infördes efter statsbesöket från Sverige 1992.
 [Gustav Adolf Grammar School](https://gag.ee/ "https://gag.ee/ ")
 
 ### Cyber Range 14
 
-Kungen, utrikesminister Billström och försvarsminister Jonson besöker Cyber Range 14 (CR14\).  Här ges en demonstration av Estlands förmåga att försvara sig vid ett cyberangrepp. Cyber Range 14 etablerades av det estniska försvarsministeriet 2021\. Det är en unik mjukvarubaserad virtuell miljö som används för cybersäkerhetsutbildning och utveckling av innovativ teknik.
+Kungen, utrikesminister Billström och försvarsminister Jonson besöker Cyber Range 14 (CR14).  Här ges en demonstration av Estlands förmåga att försvara sig vid ett cyberangrepp. Cyber Range 14 etablerades av det estniska försvarsministeriet 2021. Det är en unik mjukvarubaserad virtuell miljö som används för cybersäkerhetsutbildning och utveckling av innovativ teknik.
 [Cyber Range CR14](https://www.cr14.ee/ "https://www.cr14.ee/")
 
 ### Lunch Lillepaviljon
@@ -69,7 +68,7 @@ Kungen, utrikesminister Billström och försvarsminister Jonson deltar i en lunc
 
 ### Seminarium om säkerhet på försvarsdepartementet
 
-Kungen, utrikesminister Billström och försvarsminister Jonson deltar tillsammans med president Karis i ett seminarium om säkerhet och försvar. Fokus är svenskt\-estniskt försvarssamarbete i dag, framöver och i relation till den svenska Nato\-anslutningsprocessen.
+Kungen, utrikesminister Billström och försvarsminister Jonson deltar tillsammans med president Karis i ett seminarium om säkerhet och försvar. Fokus är svenskt-estniskt försvarssamarbete i dag, framöver och i relation till den svenska Nato-anslutningsprocessen.
 
 ### Arvo Pärt Centre
 
@@ -82,7 +81,7 @@ Fru Karis står värd för en lunch i Lahepere Villa. Drottningen och fru Karis 
 
 ### SOS Barnbyar
 
-Drottningen och fru Karis besöker en av SOS Barnbyar belägen i Keila\-Joa. Där kommer man att samtala med en husmor, som förestår ett av de tolv hus som finns på platsen för barn från svåra omständigheter, samt med familjer från Ukraina.
+Drottningen och fru Karis besöker en av SOS Barnbyar belägen i Keila-Joa. Där kommer man att samtala med en husmor, som förestår ett av de tolv hus som finns på platsen för barn från svåra omständigheter, samt med familjer från Ukraina.
 [SOS Barnbyar, Estland](https://www.sos-childrensvillages.org/where-we-help/europe/estonia "https://www.sos-childrensvillages.org/where-we-help/europe/estonia ")
 
 ### Broken Line Monument
@@ -111,7 +110,7 @@ Kungaparet, utrikesminister Billström och presidentparet tas emot vid rådhuspl
 
 ### Tartu universitet
 
-På Tartu universitet, vid vilket president Karis tidigare har varit rektor, träffar kungaparet, utrikesministern och presidentparet representanter för Tartu stad. Nuvarande rektor, professor Toomas Asser hälsar välkommen. En överenskommelse om kunskapssamarbete om Estlands svensktid kommer vid besöket att signeras av rektor Asser och Nordiska museets styresman, docent Sanne Houby\-Nielsen. Tartu universitet är det näst äldsta universitetet, efter Uppsala, som grundats av Sverige (Gustav II Adolf grundade universitetet 1632\). Många kända forskare har varit verksamma här, däribland flera från Sverige. Bland fakulteterna finns Skytteinstitutet och Skandinavistika.
+På Tartu universitet, vid vilket president Karis tidigare har varit rektor, träffar kungaparet, utrikesministern och presidentparet representanter för Tartu stad. Nuvarande rektor, professor Toomas Asser hälsar välkommen. En överenskommelse om kunskapssamarbete om Estlands svensktid kommer vid besöket att signeras av rektor Asser och Nordiska museets styresman, docent Sanne Houby-Nielsen. Tartu universitet är det näst äldsta universitetet, efter Uppsala, som grundats av Sverige (Gustav II Adolf grundade universitetet 1632). Många kända forskare har varit verksamma här, däribland flera från Sverige. Bland fakulteterna finns Skytteinstitutet och Skandinavistika.
 [Tartu universitet](https://ut.ee/en "https://ut.ee/en")
 
 ### Gustav II Adolfs minnesmärke
@@ -126,7 +125,7 @@ Rektor Toomas Asser står värd för en lunch på universitetets museum.
 
 ### Delta Centre
 
-På eftermiddagen besöker kungen, utrikesministern och presidenten Delta Centre vid Tartu universitet. Det är ett modernt center för digital teknik och analytiskt och ekonomiskt tänkande, som samlar studenter, forskare och innovatörer inom bland annat datavetenskap, robotik, teknik, matematik, ekonomi och företagsledning. Dr Kristjan Vassil, vice\-rektor för forskning,  hälsar välkommen och ger en introduktion till centrets arbete. Därefter följer besök vid stationer som presenterar forskning inom bland annat intelligenta material, datorgrafik och virtuell verklighet, biobanker och digital styrning, cybersäkerhet och innovationer för folkhälsa.
+På eftermiddagen besöker kungen, utrikesministern och presidenten Delta Centre vid Tartu universitet. Det är ett modernt center för digital teknik och analytiskt och ekonomiskt tänkande, som samlar studenter, forskare och innovatörer inom bland annat datavetenskap, robotik, teknik, matematik, ekonomi och företagsledning. Dr Kristjan Vassil, vice-rektor för forskning,  hälsar välkommen och ger en introduktion till centrets arbete. Därefter följer besök vid stationer som presenterar forskning inom bland annat intelligenta material, datorgrafik och virtuell verklighet, biobanker och digital styrning, cybersäkerhet och innovationer för folkhälsa.
 Här möter man också den del av näringslivsdelegationen som håller fortsatta möten i Tartu.
 [Delta Centre](https://delta.ut.ee/en/ "https://delta.ut.ee/en/ ")
 
@@ -137,12 +136,12 @@ Kungen, utrikesministern och presidenten besöker Estonian University of Life Sc
 
 ### Eesti Agrenska Tammistu Centre
 
-Drottningen och fru Karis besöker Eesti Agrenska Foundation i Tammistu. Det är en icke\-statlig, ideell organisation som bildades 2003\. Det övergripande syftet är att utveckla tjänster för barn och tonåringar med sällsynta diagnoser och funktionsnedsättningar i syfte att förbättra livskvalitet, integration och lika möjligheter för dem och deras familjer. Verksamheten är lik den som bedrivs vid svenska Ågrenska. Medlemmar i styrelsen för Eesti Agrenska tar emot för samtal och rundvandring. Det kommer också att ges tillfälle att tala med några av de boende.
+Drottningen och fru Karis besöker Eesti Agrenska Foundation i Tammistu. Det är en icke-statlig, ideell organisation som bildades 2003. Det övergripande syftet är att utveckla tjänster för barn och tonåringar med sällsynta diagnoser och funktionsnedsättningar i syfte att förbättra livskvalitet, integration och lika möjligheter för dem och deras familjer. Verksamheten är lik den som bedrivs vid svenska Ågrenska. Medlemmar i styrelsen för Eesti Agrenska tar emot för samtal och rundvandring. Det kommer också att ges tillfälle att tala med några av de boende.
 [Eesti Agrenska](http://www.agrenska.se/om-oss/verksamheter/internationellt/eesti-agrenska-agrenskas-systerorganisation/ "http://www.agrenska.se/om-oss/verksamheter/internationellt/eesti-agrenska-agrenskas-systerorganisation/")
 
 ### Estlands nationalmuseum
 
-Eftermiddagens program avslutas med besök på Estlands nationalmuseum, Eesti Rahva Museum, där museichefen Dr Kertu Saks hälsar välkommen. President Karis, som var chef för museet 2018\-2021, kommer att presentera delar av museets samlingar. Museet grundades i Tartu 1909 med uppgiften att skydda och utveckla Estlands historia och kultur. I dag arbetar man för att bevara känslan av kontinuitet och tradition. En av de permanenta  utställningar som visas är "Encounters", vilken täcker Estlands förhistoria och historia i detalj, med särskilt fokus på den sovjetiska ockupationen. Museet är byggt på en före detta sovjetisk landningsbana.
+Eftermiddagens program avslutas med besök på Estlands nationalmuseum, Eesti Rahva Museum, där museichefen Dr Kertu Saks hälsar välkommen. President Karis, som var chef för museet 2018-2021, kommer att presentera delar av museets samlingar. Museet grundades i Tartu 1909 med uppgiften att skydda och utveckla Estlands historia och kultur. I dag arbetar man för att bevara känslan av kontinuitet och tradition. En av de permanenta  utställningar som visas är "Encounters", vilken täcker Estlands förhistoria och historia i detalj, med särskilt fokus på den sovjetiska ockupationen. Museet är byggt på en före detta sovjetisk landningsbana.
 [Eesti Rhava Museum](https://www.erm.ee/en " https://www.erm.ee/en ")
 
 ### Avskedsceremoni

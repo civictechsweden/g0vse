@@ -11,11 +11,11 @@ I utkastet lämnas därför lagförslag om bland annat följande:
 
 * Behörighetskraven för offentliga biträden skärps.
 * Det ska krävas särskilt tillstånd för att ett offentligt biträde ska få sätta
-någon annan i sitt ställe (substitution).
+  någon annan i sitt ställe (substitution).
 * Olämpliga ombud och biträden ska kunna förklaras obehöriga att
-medverka i migrationsärenden hos Migrationsverket och
-Polismyndigheten.
+  medverka i migrationsärenden hos Migrationsverket och
+  Polismyndigheten.
 * Det införs kompetenskrav för tolkar och översättare i
-migrationsärenden.
+  migrationsärenden.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2026\.
+Lagändringarna föreslås träda i kraft den 1 januari 2026.

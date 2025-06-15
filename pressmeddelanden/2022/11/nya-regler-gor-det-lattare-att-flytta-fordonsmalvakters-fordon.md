@@ -1,6 +1,6 @@
 # Nya regler gör det lättare att flytta fordonsmålvakters fordon
 
-– Det här blir ytterligare ett sätt att komma åt fordonsmålvakter som ofta används i brottslig verksamhet, säger infrastruktur\- och bostadsminister Andreas Carlson.
+– Det här blir ytterligare ett sätt att komma åt fordonsmålvakter som ofta används i brottslig verksamhet, säger infrastruktur- och bostadsminister Andreas Carlson.
 
 En fordonsmålvakt är en person som är registrerad i vägtrafikregistret som ägare i stället för den som faktiskt äger eller använder fordonet. Syftet är ofta att undvika betalningsansvar för skatter och avgifter som är kopplade till fordonet. Dessutom används fordonsmålvakter vid brottslighet för att försvåra identifieringen av de inblandade.
 

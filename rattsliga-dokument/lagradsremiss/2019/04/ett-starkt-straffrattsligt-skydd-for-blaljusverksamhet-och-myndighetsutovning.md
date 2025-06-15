@@ -6,4 +6,4 @@ För att stärka det straffrättsliga skyddet för de centrala blåljusverksamhe
 
 För att stärka det straffrättsliga skyddet för myndighetsutövning föreslår regeringen att straffskalan för grovt våld eller hot mot tjänsteman skärps till fängelse i lägst ett och högst sex år.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2020\.
+Lagändringarna föreslås träda i kraft den 1 januari 2020.

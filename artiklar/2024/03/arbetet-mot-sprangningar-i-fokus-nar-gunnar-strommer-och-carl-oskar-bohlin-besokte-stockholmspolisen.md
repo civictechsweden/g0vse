@@ -1,9 +1,8 @@
 # Arbetet mot sprängningar i fokus när Gunnar Strömmer och Carl-Oskar Bohlin besökte Stockholmspolisen
 
-Förra veckan besökte justitieminister Gunnar Strömmer och minister för civilt försvar Carl\-Oskar Bohlin Stockholmspolisen. Fokus under besöket var utredningar av sprängdåd och lägesbilden i Sverige över läckage av sprängmedel för civilt bruk. Under besöket träffade statsråden även representanter från Nationellt bombdatacenter (NBDC) och den forensiska sektionen i Stockholm.
+Förra veckan besökte justitieminister Gunnar Strömmer och minister för civilt försvar Carl-Oskar Bohlin Stockholmspolisen. Fokus under besöket var utredningar av sprängdåd och lägesbilden i Sverige över läckage av sprängmedel för civilt bruk. Under besöket träffade statsråden även representanter från Nationellt bombdatacenter (NBDC) och den forensiska sektionen i Stockholm.
 
-
-De senaste åren har antalet illegala sprängningar i Sverige ökat markant. Under 2023 anmäldes 159 fullbordade brott avseende allmänfarlig ödeläggelse genom sprängning enligt preliminär statistik, vilket kan jämföras med 89 anmälningar om fullbordade brott under 2022\.
+De senaste åren har antalet illegala sprängningar i Sverige ökat markant. Under 2023 anmäldes 159 fullbordade brott avseende allmänfarlig ödeläggelse genom sprängning enligt preliminär statistik, vilket kan jämföras med 89 anmälningar om fullbordade brott under 2022.
 
 Under besöket hos Stockholmspolisen presenterades bland annat arbetet mot illegala sprängningar och våldsutvecklingen i Stockholm och nationellt. Även den forensiska processen kring sprängdåd, bakspårningen av sprängämnen samt kopplingar mellan företag och kriminella nätverk diskuterades.
 
@@ -15,6 +14,6 @@ Regeringen har i linje med den nya strategin redan vidtagit en mängd åtgärder
 
 Myndigheten för samhällsskydd och beredskap (MSB) har även fått i uppdrag att utveckla ett nationellt tillståndsregister för explosiva varor med syfte att kartlägga de sprängmedel som finns i Sverige och motverka att de hamnar i fel händer.
 
-– De kriminellas tillgång till explosiva varor måste strypas och regeringen vidtar åtgärder för att täppa till de sårbarheter i samhället som kriminella utnyttjar för att komma över sprängmedel. Ett konkret exempel på detta är det nationella tillståndsregistret för explosiva varor där regeringen nu arbetar med ett snabbspår för att få registret på plats, säger minister för civilt försvar Carl\-Oskar Bohlin.
+– De kriminellas tillgång till explosiva varor måste strypas och regeringen vidtar åtgärder för att täppa till de sårbarheter i samhället som kriminella utnyttjar för att komma över sprängmedel. Ett konkret exempel på detta är det nationella tillståndsregistret för explosiva varor där regeringen nu arbetar med ett snabbspår för att få registret på plats, säger minister för civilt försvar Carl-Oskar Bohlin.
 
-Justitiedepartementet och Försvarsdepartementet bjöd i höstas in berörda myndigheter och aktörer till ett rundabordssamtal för att diskutera åtgärder för att minska den illegala användningen av explosiva varor. Efter rundabordssamtalet tillkom bland annat ett regeringsuppdrag till det nationella forumet för sprängämnessäkerhet att intensifiera och utveckla arbetet med att stoppa illegala sprängningar. En slutrapport av uppdraget ska lämnas till Regeringskansliet senast den 1 oktober 2024\.
+Justitiedepartementet och Försvarsdepartementet bjöd i höstas in berörda myndigheter och aktörer till ett rundabordssamtal för att diskutera åtgärder för att minska den illegala användningen av explosiva varor. Efter rundabordssamtalet tillkom bland annat ett regeringsuppdrag till det nationella forumet för sprängämnessäkerhet att intensifiera och utveckla arbetet med att stoppa illegala sprängningar. En slutrapport av uppdraget ska lämnas till Regeringskansliet senast den 1 oktober 2024.

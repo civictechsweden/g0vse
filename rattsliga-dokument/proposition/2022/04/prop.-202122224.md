@@ -16,4 +16,4 @@ Därutöver föreslås i proposi­tionen bland annat
 * ökade möjlig­heter att neka uppe­hålls­tillstånd för en utlänning som begått brott, och
 * ett stärkt skydd mot åter­kallelse av uppe­hålls­tillstånd för den som utsatts för våld eller allvarliga kränk­ningar i en nära relation.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2022\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2022.

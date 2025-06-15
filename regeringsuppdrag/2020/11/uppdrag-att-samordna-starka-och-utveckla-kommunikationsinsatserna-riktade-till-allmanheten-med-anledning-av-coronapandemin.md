@@ -2,10 +2,9 @@
 
 Regeringen uppdrar åt Folkhälsomyndigheten, länsstyrelserna och Myndigheten för samhällsskydd och beredskap (MSB) att gemensamt samordna, stärka och utveckla kommunikationsinsatser till allmänheten med anledning av corona.
 
-
 Myndigheterna ska bland annat:
 
-* utarbeta och genomföra kommunikationsinsatser som ska öka efterlevnaden av bland annat de råd som utfärdats för att minska spridningen av covid\-19\. Det gäller särskilt lokala allmänna råd i regionerna. Myndigheterna ska ta hänsyn till tidigare kommunikationsinsatser och se över hur kommunikationen kan utvecklas.
+* utarbeta och genomföra kommunikationsinsatser som ska öka efterlevnaden av bland annat de råd som utfärdats för att minska spridningen av covid-19. Det gäller särskilt lokala allmänna råd i regionerna. Myndigheterna ska ta hänsyn till tidigare kommunikationsinsatser och se över hur kommunikationen kan utvecklas.
 * ta fram en kommunikationsstrategi som säkrar att kommunikation på nationell, regional och lokal nivå är samordnad och att det kan finnas regional anpassning.
 
 ## Översättningar och tillgänglighetsanpassning

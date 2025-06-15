@@ -4,4 +4,4 @@ I mars beslutade regeringen om ett nytt statsbidrag för att öka tillgången ti
 
 – Skolan måste tillbaka till grunderna. Alla som har sett sitt barn jobba med knyckliga papper eller leta på plattformar efter uppgifter vet vilken fördel det är med en riktig lärobok. Nu vill vi förtydliga skollagen för att fler elever och lärare ska få tillgång till läroböcker, andra läromedel och andra lärverktyg, säger skolminister Lotta Edholm.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2024\.
+Lagändringarna föreslås träda i kraft den 1 juli 2024.

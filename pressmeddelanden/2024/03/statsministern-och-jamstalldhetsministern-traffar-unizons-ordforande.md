@@ -6,6 +6,6 @@ Efter mötet kommer en nyhet presenteras och tid för intervjuer finns.
 
 Tid och plats: 26 mars kl 11:25 i Gästmatsalarna i Rosenbad
 
-Praktisk information: Obligatorisk föranmälan senast tisdag den 26 mars kl. 10:00 via e\-post till Christina Grapenfelt, se presskontakt nedan. Ange namn, redaktion, och i vilken funktion du vill delta (reporter eller fotograf). Skicka också med kopia på din presslegitimation. Det är bara möjligt att delta på plats och antalet platser är begränsat.
+Praktisk information: Obligatorisk föranmälan senast tisdag den 26 mars kl. 10:00 via e-post till Christina Grapenfelt, se presskontakt nedan. Ange namn, redaktion, och i vilken funktion du vill delta (reporter eller fotograf). Skicka också med kopia på din presslegitimation. Det är bara möjligt att delta på plats och antalet platser är begränsat.
 
-Inpassering från 11:00, ingång via Drottninggatan 1\.
+Inpassering från 11:00, ingång via Drottninggatan 1.

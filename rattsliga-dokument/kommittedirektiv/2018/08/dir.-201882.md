@@ -8,4 +8,4 @@ Förslagen ska gälla:
 * förbättrade rättsliga förutsättningar för användning av välfärdsteknik,
 * förbättrad samverkan, nationellt stöd och myndigheternas roll.
 
-Uppdraget ska redovisas senast den 1 mars 2020\.
+Uppdraget ska redovisas senast den 1 mars 2020.

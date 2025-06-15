@@ -10,4 +10,4 @@ Utredaren ska bl.a.
 * lämna förslag som syftar till att skickliga rektorer ska söka sig till och stanna kvar längre på förskolor och skolor med stora utmaningar, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 12 juni 2025\.
+Uppdraget ska redovisas senast den 12 juni 2025.

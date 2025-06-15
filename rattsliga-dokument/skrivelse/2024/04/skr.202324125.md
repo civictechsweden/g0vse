@@ -4,7 +4,7 @@ I denna skrivelse behandlar regeringen de iakttagelser och rekommendationer som
 Riksrevisionen har redovisat i sin rapport Svart på vitt –
 rotavdragets kostnader och effekter.
 
-Riksrevisionen har i rapporten Svart på vitt – rotavdragets kostnader och effekter (RiR 2023:26\) granskat om regeringen har utformat rotavdraget så att det på ett varaktigt och effektivt sätt ökar arbetsutbudet och minskar svartarbetet.
+Riksrevisionen har i rapporten Svart på vitt – rotavdragets kostnader och effekter (RiR 2023:26) granskat om regeringen har utformat rotavdraget så att det på ett varaktigt och effektivt sätt ökar arbetsutbudet och minskar svartarbetet.
 
 Riksrevisionen bedömer att rotavdraget har haft en relativt stor betydelse för att minska hushållens efterfrågan på svarta hantverkartjänster, men däremot haft en mycket begränsad effekt när det gäller att öka köparnas arbetsutbud och inkomster. Riksrevisionens övergripande slutsats är att rotavdraget i sin nuvarande utformning inte skapar tillräckligt stora skatteintäkter, genom minskat svartarbete och ökat arbetsutbud, för att motivera statens kostnader för rotavdrag.
 

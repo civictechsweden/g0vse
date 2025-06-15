@@ -6,7 +6,7 @@ I propositionen föreslås även vissa ändringar i inkomstskattelagen och kupon
 
 Slutligen föreslås en redaktionell ändring i lagen om avkastningsskatt på pensionsmedel.
 
-De nya bestämmelserna föreslås träda i kraft den 1 juli 2012\.
+De nya bestämmelserna föreslås träda i kraft den 1 juli 2012.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+--------------------------------------------------------------
 Riksdagen fattade den 9 maj 2012 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

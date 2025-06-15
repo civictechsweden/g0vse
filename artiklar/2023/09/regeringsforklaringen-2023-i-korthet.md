@@ -2,7 +2,6 @@
 
 Den 12 september presenterade statsminister Ulf Kristersson sin regeringsförklaring i samband med riksmötets öppnande.
 
-
 Sverige har en regering som klarar att ta tag i de samhällsproblem som vuxit fram under lång tid. Budgeten som läggs fram den 20 september har förhandlats fram av fyra samarbetspartier som har en majoritet i riksdagen.
 
 Men de ärvda problemen är fortfarande stora. Därför kommer regeringen nu öka tempot. Regeringskansliets reformkraft stärks, bland annat genom att inrätta en ny funktion med erfarna och meriterade utredare för att korta – till och med halvera – tiden för utredningar.

@@ -1,10 +1,10 @@
 # Åtgärdsprogram mot mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck
 
-– Regeringens arbete mot mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck fortsätter med full kraft. Hedersförtrycket har ingen plats i vårt samhälle och alla former av våld \- fysiskt, psykiskt, ekonomiskt och sexuellt \- ska upphöra. Åtgärdsprogrammet som ska förebygga, motverka och bekämpa våldet och förtrycket på bred front i alla delar av samhället är ett viktigt steg i det arbetet, säger jämställdhetsminister Paulina Brandberg.
+– Regeringens arbete mot mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck fortsätter med full kraft. Hedersförtrycket har ingen plats i vårt samhälle och alla former av våld - fysiskt, psykiskt, ekonomiskt och sexuellt - ska upphöra. Åtgärdsprogrammet som ska förebygga, motverka och bekämpa våldet och förtrycket på bred front i alla delar av samhället är ett viktigt steg i det arbetet, säger jämställdhetsminister Paulina Brandberg.
 
 – Mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck är allvarliga samhällsproblem som ska bekämpas med samma kraft som gängkriminaliteten. Med det här åtgärdsprogrammet ökar vi trycket i regeringens arbete ytterligare och skapar förutsättningar för ett brett, effektivt och långsiktigt arbete, säger justitieminister Gunnar Strömmer.
 
-– Våldet måste upphöra och för att det ska hända behöver många aktörer hjälpas åt. Hälso\- och sjukvården har sin roll, då personalen i sitt arbete möter våldsutsatta, säger sjukvårdsminister Acko Ankarberg Johansson.
+– Våldet måste upphöra och för att det ska hända behöver många aktörer hjälpas åt. Hälso- och sjukvården har sin roll, då personalen i sitt arbete möter våldsutsatta, säger sjukvårdsminister Acko Ankarberg Johansson.
 
 ## Åtgärdsprogrammet innehåller 132 åtgärder utifrån följande sex målsättningar:
 

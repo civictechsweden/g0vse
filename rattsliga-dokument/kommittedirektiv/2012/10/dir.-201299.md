@@ -4,4 +4,4 @@ En särskild utredare ska föreslå de författningsändringar som behövs till 
 
 Utredaren ska också lämna förslag till en ny patentlag och en ny förordning som ska vara överskådliga och lättillgängliga. I uppdraget ingår dessutom att utreda vissa begränsade sakliga frågor.
 
-Uppdraget som avser ett förbättrat europeiskt patentsystem ska redovisas i ett delbetänkande senast den 17 juni 2013\. Uppdraget om en ny patentlag m.m. ska redovisas senast den 3 juni 2014\.
+Uppdraget som avser ett förbättrat europeiskt patentsystem ska redovisas i ett delbetänkande senast den 17 juni 2013. Uppdraget om en ny patentlag m.m. ska redovisas senast den 3 juni 2014.

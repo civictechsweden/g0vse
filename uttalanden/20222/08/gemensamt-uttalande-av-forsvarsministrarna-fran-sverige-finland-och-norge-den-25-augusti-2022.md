@@ -2,7 +2,6 @@
 
 Gemensamt uttalande av försvarsminister Peter Hultqvist, Finlands försvarsminister Antti Kaikkonen och Norges försvarsminister Bjørn Arild Gram i samband med ett möte den 25 augusti i Finland. Uttalandet på engelska i sin helhet nedan:
 
-
 The security situation has deteriorated following Russia’s invasion of Ukraine. Russia has proved that it does not respect international law and has upended the European security order.
 
 The security in northern Europe has been adversely impacted by this development. A crisis in our region affects us all. Therefore, we must be ready and able to act together in peace, crisis and conflict.

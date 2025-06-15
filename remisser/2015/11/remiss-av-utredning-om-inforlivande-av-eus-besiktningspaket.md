@@ -2,8 +2,7 @@
 
 Här kan du ta del av vilka instanser som regeringen har remitterat Transportstyrelsens utredning Införlivande av besiktningspaket.
 
-
-Sista dag att svara på remissen är den 12 februari 2016\.
+Sista dag att svara på remissen är den 12 februari 2016.
 
 ## Remissinstanser:
 
@@ -24,7 +23,7 @@ Sista dag att svara på remissen är den 12 februari 2016\.
 15. Konkurrensverket
 16. Trafikverket
 17. Trafikanalys
-18. VTI – statens väg\- och transportforskningsinstitut
+18. VTI – statens väg- och transportforskningsinstitut
 19. Regelrådet
 20. Länsstyrelsen i Norrbottens län
 21. Länsstyrelsen i Västernorrlands län
@@ -53,8 +52,8 @@ Sista dag att svara på remissen är den 12 februari 2016\.
 44. Sveriges Motorcyklister (SMC)
 45. Sveriges Åkeriföretag
 46. Swedish Association for Testing, Inspection and Certification
-\- Swetic Sektion Fordonsbesiktning
-\- Swetic TK Lyft
+    - Swetic Sektion Fordonsbesiktning
+    - Swetic TK Lyft
 47. Svenska Taxiförbundet
 48. Trafikförsäkringsföreningen
 49. Svensk Försäkring
@@ -86,4 +85,4 @@ Myndigheter under regeringen är skyldiga att svara på remissen. En myndighet a
 
 För andra remissinstanser innebär remissen en inbjudan att lämna synpunkter.
 
-Remissvaren ska vara inkomna till Näringsdepartementet senast den 12 februari 2016\. Vi ser gärna att ni skickar dem per epost, helst i wordformat, till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator") med kopia till [Peter Kalliopuro](mailto:peter.kalliopuro@regeringskansliet.se "Peter Kalliopuro"). Uppge diarienummer N2015/07635/MRT.
+Remissvaren ska vara inkomna till Näringsdepartementet senast den 12 februari 2016. Vi ser gärna att ni skickar dem per epost, helst i wordformat, till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator") med kopia till [Peter Kalliopuro](mailto:peter.kalliopuro@regeringskansliet.se "Peter Kalliopuro"). Uppge diarienummer N2015/07635/MRT.

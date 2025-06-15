@@ -1,6 +1,6 @@
 # Strategi för företag i kulturella och kreativa branscher
 
-I skrivelsen redovisas regeringens strategi för företag i kulturella och kreativa branscher, mot bakgrund av bl.a. teknik\- och branschutvecklingen och de behov som finns på området. Strategin är avsedd att gälla under en tioårsperiod (2024–2033\).
+I skrivelsen redovisas regeringens strategi för företag i kulturella och kreativa branscher, mot bakgrund av bl.a. teknik- och branschutvecklingen och de behov som finns på området. Strategin är avsedd att gälla under en tioårsperiod (2024–2033).
 
 Strategin inbegriper en övergripande vision och sex strategiska mål inom lika många prioriterade områden:
 

@@ -1,3 +1,3 @@
 # Regeringens ärendeförteckning vecka 25
 
-Till regeringssammanträdet torsdagen 19 juni 2014\.
+Till regeringssammanträdet torsdagen 19 juni 2014.

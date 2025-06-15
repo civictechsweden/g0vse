@@ -1,7 +1,6 @@
 # Uppdrag att genomföra analyser av tillsynens resultat inom den sociala barn- och ungdomsvården
 
-Regeringen uppdrar åt Inspektionen för vård och omsorg (IVO) att analysera kommunernas utredningar av barn\- och ungdomsärenden. Detta utifrån resultaten av den tillsyn IVO genomförde 2017 och 2018\.
-
+Regeringen uppdrar åt Inspektionen för vård och omsorg (IVO) att analysera kommunernas utredningar av barn- och ungdomsärenden. Detta utifrån resultaten av den tillsyn IVO genomförde 2017 och 2018.
 
 ## Brister och framgångar i handläggningen
 
@@ -19,4 +18,4 @@ Det är viktigt att peka på missförhållanden och kompetensbrist. Hänsyn ska 
 
 Tillsammans med Socialstyrelsen ska IVO lyfta områden där myndigheten ser behov av ytterligare åtgärder.
 
-Uppdraget redovisas till Socialdepartementet senast den 22 februari 2020\. Senast den 30 september delredovisas analysen av kompetensbrist och missförhållanden på boenden som tar emot barn och unga.
+Uppdraget redovisas till Socialdepartementet senast den 22 februari 2020. Senast den 30 september delredovisas analysen av kompetensbrist och missförhållanden på boenden som tar emot barn och unga.

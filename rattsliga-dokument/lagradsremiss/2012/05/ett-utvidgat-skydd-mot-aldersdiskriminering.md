@@ -9,11 +9,11 @@ Diskriminering på grund av ålder föreslås vara förbjuden inom samhällsomr�
 * bostäder
 * allmän sammankomst
 * offentlig tillställning
-* hälso\- och sjukvård
+* hälso- och sjukvård
 * socialtjänst
 * socialförsäkring
 * arbetslöshetsförsäkring
 * statligt studiestöd
 * offentlig anställning
 
-Lagändringarna föreslås träda i kraft den 1 januari 2013\.
+Lagändringarna föreslås träda i kraft den 1 januari 2013.

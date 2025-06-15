@@ -1,6 +1,6 @@
 # Skolstart vid sex års ålder
 
-Lagrådsremissen innehåller förslag till ändringar i skollagen (2010:800\). Det föreslås att skolplikten för barn bosatta i Sverige ska inträda ett år tidigare än i dag, det vill säga redan höstterminen det kalenderår då barnet fyller sex år. Skolplikten i Sverige förlängs därmed med ett år och blir i regel tioårig.
+Lagrådsremissen innehåller förslag till ändringar i skollagen (2010:800). Det föreslås att skolplikten för barn bosatta i Sverige ska inträda ett år tidigare än i dag, det vill säga redan höstterminen det kalenderår då barnet fyller sex år. Skolplikten i Sverige förlängs därmed med ett år och blir i regel tioårig.
 
 Skolplikten ska normalt börja fullgöras i förskoleklassen som blir en obligatorisk skolform inom skolväsendet. Därefter ska skolplikten fullgöras i grundskolan, om inte barnet ska tas emot i sameskolan, specialskolan eller grundsärskolan.
 

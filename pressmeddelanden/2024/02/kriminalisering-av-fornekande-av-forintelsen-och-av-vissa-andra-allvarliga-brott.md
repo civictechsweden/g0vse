@@ -17,4 +17,4 @@ Regeringen föreslår därför att bestämmelserna om hets mot folkgrupp i tryck
 Lagändringarna föreslås träda i kraft den 1 juli 2024 i brottsbalken och den
 1 januari 2027 i tryckfrihetsförordningen.
 
-Genom lagförslagen tar regeringen hand om de synpunkter som EU\-kommissionen har haft gällande Sveriges genomförande av det s.k. rasismrambeslutet, som är EU:s straffrättsliga instrument i arbetet mot rasism och främlingsfientlighet.
+Genom lagförslagen tar regeringen hand om de synpunkter som EU-kommissionen har haft gällande Sveriges genomförande av det s.k. rasismrambeslutet, som är EU:s straffrättsliga instrument i arbetet mot rasism och främlingsfientlighet.

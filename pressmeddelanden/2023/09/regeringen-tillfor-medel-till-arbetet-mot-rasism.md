@@ -1,6 +1,6 @@
 # Regeringen tillför medel till arbetet mot rasism
 
-\- Sverige ska vara ett land fritt från rasism och hatbrott. Rasism, annan främlingsfientlighet och diskriminering är skadligt både för de enskilda som utsätts och för samhället som helhet. Det bidrar till polarisering och måste bekämpas med full kraft. Därför tillför vi nu mer medel för att motverka detta, säger jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg.
+- Sverige ska vara ett land fritt från rasism och hatbrott. Rasism, annan främlingsfientlighet och diskriminering är skadligt både för de enskilda som utsätts och för samhället som helhet. Det bidrar till polarisering och måste bekämpas med full kraft. Därför tillför vi nu mer medel för att motverka detta, säger jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg.
 
 Arbetet inom ramen för den nationella planen mot rasism, liknande former av fientlighet och hatbrott som beslutades 2016 har bland annat bidragit till mer kunskap om hur rasism och diskriminering fortsätter att utgöra en utmaning inom flera samhällsområden. Förstärkningen innebär att arbetet med att förebygga och motverka olika former av rasism och annan främlingsfientlighet fortsätter med hög ambitionsnivå.
 

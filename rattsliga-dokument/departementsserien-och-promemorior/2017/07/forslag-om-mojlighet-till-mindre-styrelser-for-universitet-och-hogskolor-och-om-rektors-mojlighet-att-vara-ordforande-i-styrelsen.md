@@ -4,4 +4,4 @@ Denna promemoria innehåller förslag som innebär att det skapas möjlighet fö
 
 Syftet med förslagen är att öka möjligheten till variation i antalet ledamöter i styrelsen utifrån respektive universitets och högskolas behov samt att säkra en tydlig rollfördelning mellan styrelseordföranden och rektorn.
 
-Förändringarna föreslås träda i kraft den 1 augusti 2018\.
+Förändringarna föreslås träda i kraft den 1 augusti 2018.

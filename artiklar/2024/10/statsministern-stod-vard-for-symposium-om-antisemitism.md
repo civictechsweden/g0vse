@@ -2,7 +2,6 @@
 
 För regeringen är bekämpandet av antisemitism och främjandet av judiskt liv i Sverige prioriterade frågor. Den 30 september stod statsminister Ulf Kristersson värd för ett symposium om antisemitismen i Sverige. En mängd representanter från bland annat regeringen, akademin och skolväsendet, myndigheter och det judiska civilsamhället liksom andra experter samlades för en lägesbeskrivning och samtal om åtgärder mot antisemitism.
 
-
 I statsministerns inledningsanförande betonade han att samhällets samlade kraft behövs för att arbetet mot antisemitism ska ge effekt.
 
 –Judisk kultur är en del av svensk kultur. Judisk historia är en del av vår gemensamma historia. Och den judiska framtiden är en del av Sveriges framtid. Vi har ett ansvar att vårda både historien och framtiden. Det är vår gemensamma förpliktelse, sa statsminister Ulf Kristersson.

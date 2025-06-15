@@ -8,4 +8,4 @@ Att spelbolag har en god kännedom om sina kunder är viktigt för att kunna upp
 
 Syftet med förslaget är att förhindra att personer med spelproblem, eller personer som ligger i riskzonen för problemspelande, lockas att spela.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

@@ -1,6 +1,6 @@
 # 75 miljoner till Unesco för att bygga upp skolor och förskolor i Ukraina
 
-– Det svenska biståndet till Ukraina är omfattande och uppgår sedan den nya regeringen tillträdde till över tre miljarder kronor. Ukrainas utbildnings\- och vetenskapsdepartement har bett svenska regeringen om hjälp inom just utbildningssektorn, något vi med detta stöd nu svarar upp mot, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+– Det svenska biståndet till Ukraina är omfattande och uppgår sedan den nya regeringen tillträdde till över tre miljarder kronor. Ukrainas utbildnings- och vetenskapsdepartement har bett svenska regeringen om hjälp inom just utbildningssektorn, något vi med detta stöd nu svarar upp mot, säger bistånds- och utrikeshandelsminister Johan Forssell.
 
 Skyddsrum kan hjälpa tusentals barn och elever att återvända till fysisk undervisning och aktiviteter i förskolan och skolan. Dessutom påverkas barnens sociala och psykiska välmående positivt om de får möjlighet till ordnat umgänge med jämnåriga. Förskolan kan dessutom ha en viktig roll i att förmedla hälsotjänster som hälsovård och måltider. I dag begränsar bristen på fungerande skyddsrum antalet barn som kan vistas i förskolan och att barn inte kan gå i förskolan hindrar i sin tur vårdnadshavarnas möjligheter att arbeta.
 

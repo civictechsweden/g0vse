@@ -10,4 +10,4 @@ Regeringen föreslår även att SiS ska få utökade möjligheter att i enskilda
 
 – I det här läget är det också viktigt att poängtera att rätten att stå i förbindelse med vänner och familj alltjämt gäller för samtliga barn och unga som vårdas på särskilda ungdomshem, säger socialtjänstminister Camilla Waltersson Grönvall.
 
-Lagändringarna föreslås träda i kraft den 15 maj 2024\.
+Lagändringarna föreslås träda i kraft den 15 maj 2024.

@@ -8,7 +8,7 @@ Excellencies, Distinguished delegates, Members of Civil Society.
 
 Sweden aligns itself fully with the statement made earlier by the EU and the LGBTI Core Group.
 
-This CSW session takes us all back to Beijing in 1995 when the e Beijing Declaration and Platform for Action was adopted.
+This CSW session takes us all back to Beijing in 1995 when the Beijing Declaration and Platform for Action was adopted.
 
 Here we stand 30 years later, celebrating those who made it possible and honouring the transformative power of those global commitments for gender equality.
 

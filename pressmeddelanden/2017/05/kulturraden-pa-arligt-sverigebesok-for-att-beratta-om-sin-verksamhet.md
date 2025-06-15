@@ -11,4 +11,4 @@ Kulturråd som är på plats:
 * Mats Widbom, kulturråd och chef för Svenska Institutet i Paris
 * Linda Zachrisson, kulturråd vid Sveriges ambassad i Washington DC
 
-Kulturråden är tillgängliga från och med kl 12\.40 på måndagen den 22 maj. Kontakta Boris Vasic för bokning.
+Kulturråden är tillgängliga från och med kl 12.40 på måndagen den 22 maj. Kontakta Boris Vasic för bokning.

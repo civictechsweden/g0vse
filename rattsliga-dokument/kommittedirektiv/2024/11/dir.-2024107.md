@@ -8,17 +8,17 @@ motverka ekonomiskt våld.
 Utredaren ska bland annat:
 
 * analysera och ta ställning till om det bör införas en tidsgräns för
-bodelningsförrättningen,
+  bodelningsförrättningen,
 * analysera och ta ställning till vilka verktyg som en bodelningsförrättare
-bör ha tillgång till,
+  bör ha tillgång till,
 * analysera och ta ställning till om det bör införas kompetenskrav för
-bodelningsförrättare,
+  bodelningsförrättare,
 * analysera och ta ställning till om möjligheterna att få ersättning enligt
-ersättningsgarantin för bodelningsförrättares arvode bör förbättras,
+  ersättningsgarantin för bodelningsförrättares arvode bör förbättras,
 * analysera och ta ställning till om det bör införas en tidsfrist för när en
-make senast måste begära bodelning,
+  make senast måste begära bodelning,
 * analysera och ta ställning till om betänketid vid äktenskapsskillnad bör
-krävas i färre fall än i dag, och
+  krävas i färre fall än i dag, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 15 december 2025\.
+Uppdraget ska redovisas senast den 15 december 2025.

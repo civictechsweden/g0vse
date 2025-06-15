@@ -12,6 +12,6 @@ I propositionen föreslår regeringen att det ska införas:
 
 Syftet med förslagen är att ge myndigheterna bättre förutsättningar att klarlägga utlänningars identitet och rätt att uppehålla sig i Sverige samt att säkerställa att pass och andra identitetshandlingar finns tillgängliga för myndigheterna.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.
 
 Propositionen bygger på en överenskommelse mellan Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.

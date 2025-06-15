@@ -4,5 +4,4 @@ Här kan du ta del av svaren från dem som har ombetts att svara på remissen av
 
 Övriga yttranden finns tillgängliga i departementet.
 
-
-Remissvaren ska ha kommit in till Socialdepartementet senast den 28 februari 2024\.
+Remissvaren ska ha kommit in till Socialdepartementet senast den 28 februari 2024.

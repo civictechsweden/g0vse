@@ -11,5 +11,5 @@ Regeringen föreslår att LSS reglerar att personlig assistans inte lämnas för
 ## Barnomsorg och skola
 
 All hjälp med andning och sondmatning ska enligt förslaget undantas från kravet på särskilda skäl för assistansersättning i barnomsorg eller skola.
-Lagändringarna föreslås träda i kraft den 1 juli 2020\. Äldre bestämmelser föreslås gälla före ikraftträdandet.
+Lagändringarna föreslås träda i kraft den 1 juli 2020. Äldre bestämmelser föreslås gälla före ikraftträdandet.
 Propositionen bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.

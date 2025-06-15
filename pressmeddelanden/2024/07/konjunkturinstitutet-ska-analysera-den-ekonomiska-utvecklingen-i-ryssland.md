@@ -9,7 +9,7 @@ Samtidigt är det mycket som tyder på att den ryska ekonomin inte är så välf
 Regeringen ger Konjunkturinstitutet i uppdrag att analysera den ekonomiska utvecklingen i Ryssland. Konjunkturinstitutet ska bland annat:
 
 * analysera hur den ekonomiska tillväxten i Ryssland har påverkats och bedöms komma att påverkas med anledning av aggressionen mot Ukraina, på kort, medellång och lång sikt
-* analysera nyckeltal för rysk ekonomi, såsom inflation, arbetsmarknad, utrikeshandel, penningpolitisk\- och offentligfinansiell ställning, inklusive reserver såsom fonder, ur ett konjunkturellt och strukturellt perspektiv
+* analysera nyckeltal för rysk ekonomi, såsom inflation, arbetsmarknad, utrikeshandel, penningpolitisk- och offentligfinansiell ställning, inklusive reserver såsom fonder, ur ett konjunkturellt och strukturellt perspektiv
 * belysa eventuella ekonomiska obalanser och sårbarheter som orsakats av kriget på övergripande nivå och inom viktiga sektorer.
 
-Konjunkturinstitutet får inhämta kunskap och information från andra aktörer. Uppdraget ska redovisas senast den 1 oktober 2024\.
+Konjunkturinstitutet får inhämta kunskap och information från andra aktörer. Uppdraget ska redovisas senast den 1 oktober 2024.

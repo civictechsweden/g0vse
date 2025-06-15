@@ -16,4 +16,4 @@ Därutöver föreslås tulltjänstemän få nya eller utvidgade befogenheter ino
 * Tullverket får ökade möjligheter till revision utan att informera om revisionen i förväg.
 * Tullverket ges ökad tillgång till bokningsuppgifter.
 
-Lagändringarna föreslås träda i kraft den 1 september 2024\.
+Lagändringarna föreslås träda i kraft den 1 september 2024.

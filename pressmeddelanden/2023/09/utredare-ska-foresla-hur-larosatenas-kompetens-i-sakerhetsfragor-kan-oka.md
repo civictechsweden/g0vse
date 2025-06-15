@@ -8,4 +8,4 @@ Utredaren ska bland annat i lämplig utsträckning redovisa hur andra länder ar
 
 Utredare blir Peter Egardt, före detta landshövding i Uppsala län.
 
-Uppdraget ska redovisas senast den 31 december 2023\.
+Uppdraget ska redovisas senast den 31 december 2023.

@@ -16,4 +16,4 @@ Nödvändiga följdändringar görs. Det föreslås bl.a. följande:
 * Tullverket får ökade möjligheter till revision utan att informera om revisionen i förväg.
 * Tullverket ges ökad tillgång till bokningsuppgifter.
 
-Lagändringarna föreslås träda i kraft den 7 november 2024\.
+Lagändringarna föreslås träda i kraft den 7 november 2024.

@@ -2,7 +2,6 @@
 
 Europadomstolen har fattat ett beslut avseende ett klagomål om Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till beslutet i fulltext samt en sammanfattning av beslutet.
 
-
 ## Sammanfattning av beslutet
 
 Klaganden gjorde inför Europadomstolen gällande att hans rätt till domstolsprövning enligt artikel 6 i Europakonventionen har kränkts genom att Regeringsrätten (nuvarande Högsta förvaltningsdomstolen) inte beviljade hans begäran om rättsprövning av regeringens beslut om tillägg till detaljplan avseende del av Norra länken i Stockholms kommun.

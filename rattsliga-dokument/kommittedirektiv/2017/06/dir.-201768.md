@@ -8,8 +8,8 @@ Utredaren ska bland annat:
 * analysera kriterierna för stöd,
 * överväga frågor om arvsavstående,
 * se över vissa administrativa frågor samt
-* föreslå de författningsändringar som föranleds av analys och bedöm\-ningar.
+* föreslå de författningsändringar som föranleds av analys och bedöm-ningar.
 
 Utredaren ska inte föreslå några förändringar av organisationen.
 
-Uppdraget ska redovisas senast den 1 september 2018\.
+Uppdraget ska redovisas senast den 1 september 2018.

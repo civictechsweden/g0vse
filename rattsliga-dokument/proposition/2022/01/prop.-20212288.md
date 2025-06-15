@@ -9,4 +9,4 @@ EU:s tillsynsförordning och de bestämmelser som i svensk rätt genomför EU:s 
 
 Det finns i dagsläget inga mycket stora värdepappersbolag i Sverige.
 
-Lagändringarna föreslås träda i kraft den 1 april 2022\.
+Lagändringarna föreslås träda i kraft den 1 april 2022.

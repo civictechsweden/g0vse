@@ -4,6 +4,6 @@ Regeringen föreslår att en person som är misstänkt för brott i Sverige ska 
 
 I propositionen föreslår regeringen att det införs en ny lag om erkännande och uppföljning av beslut om övervakningsåtgärder inom EU. Lagen innehåller dels regler om svenska beslut om övervakningsåtgärder, som ska kunna erkännas och följas upp i en annan medlemsstat, dels regler om att Sverige ska kunna erkänna och följa upp ett utländskt beslut om övervakningsåtgärder.
 
-Den nya lagen, liksom de följdändringar denna för med sig, föreslås träda i kraft den 1 augusti 2015\.
+Den nya lagen, liksom de följdändringar denna för med sig, föreslås träda i kraft den 1 augusti 2015.
 
 [Pressmeddelande: Erkännande och uppföljning av beslut om övervakningsåtgärder inom EU](/pressmeddelanden/2015/04/erkannande-och-uppfoljning-av-beslut-om-overvakningsatgarder-inom-eu/)

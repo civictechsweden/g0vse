@@ -2,7 +2,6 @@
 
 Statsminister Ulf Kristersson, den 30 juli 2023
 
-
 Jag har det senaste dygnet haft tät dialog med Danmarks statsminister Mette Frederiksen och den svenska regeringen har diskuterat med den danska regeringen, med anledning av de bränningar som sker av kopior av heliga skrifter. Vi befinner oss i det allvarligaste säkerhetspolitiska läget sedan andra världskriget, och här hemma vet vi att både stater, statsliknande aktörer och enskilda individer kan utnyttja situationen.
 
 Sverige och Danmark är två av världens mest välfungerande demokratier. Vi står upp för yttrandefrihet och demonstrationsfrihet. Vi har en stark tradition av att respektera andra människor och olika trosuppfattningar. Religionsfriheten är en självklar hörnsten i våra samhällen.

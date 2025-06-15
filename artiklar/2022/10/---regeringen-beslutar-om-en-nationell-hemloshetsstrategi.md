@@ -2,15 +2,14 @@
 
 Den nationella hemlöshetsstrategin med omfattande satsningar för att motverka hemlöshet under strategiperioden 2022 – 2026 har beslutats. Målet är att minska och förebygga att personer hamnar i hemlöshet.
 
-
-Syftet med en nationell hemlöshetsstrategi är att tydliggöra inriktningen för insatser för att minska antalet vuxna och barn som befinner sig i hemlöshet och insatser för att förebygga att människor blir hemlösa. Insatserna i strategin bör kunna genomföras oberoende av hur bostadsmarknaden utvecklas under perioden och kräver ingen ny lagreglering. Det sker också arbete parallellt på andra områden som påverkar utvecklingen, till exempel tillgängligheten av missbruks\- och beroendevården samt psykiatrin.
+Syftet med en nationell hemlöshetsstrategi är att tydliggöra inriktningen för insatser för att minska antalet vuxna och barn som befinner sig i hemlöshet och insatser för att förebygga att människor blir hemlösa. Insatserna i strategin bör kunna genomföras oberoende av hur bostadsmarknaden utvecklas under perioden och kräver ingen ny lagreglering. Det sker också arbete parallellt på andra områden som påverkar utvecklingen, till exempel tillgängligheten av missbruks- och beroendevården samt psykiatrin.
 
 I strategin anges fyra mål för att motverka hemlöshet:
 
-Mål 1\. Hemlöshet ska förebyggas
-Mål 2\. Ingen ska bo eller leva på gatan
-Mål 3\. Bostad först bör införas nationellt
-Mål 4\. Det sociala perspektivet i samhällsplaneringen ska stärkas.
+Mål 1. Hemlöshet ska förebyggas
+Mål 2. Ingen ska bo eller leva på gatan
+Mål 3. Bostad först bör införas nationellt
+Mål 4. Det sociala perspektivet i samhällsplaneringen ska stärkas.
 
 ## Uppdrag till myndigheter och länsstyrelser
 
@@ -20,7 +19,7 @@ Regeringen har också beslutat om ett antal regeringsuppdrag som ska stödja den
 
 Inom ramen för strategin ger regeringen länsstyrelserna i uppdrag att under hela strategiperioden 2022 – 2026 stödja kommunerna i deras arbete med att motverka hemlöshet. Regeringen ser att länsstyrelserna på regional nivå kan utgöra ett stöd till kommuner i deras arbete med att motverka hemlöshet och att arbeta förebyggande mot avhysningar och på så sätt bidra till att målen i hemlöshetsstrategin uppfylls.
 
-Länsstyrelserna ska bland annat bistå kommunerna genom att stödja kunskaps\- och metodutveckling i kommunerna samt främja erfarenhetsutbyte om effektiva metoder och goda exempel i arbetet med att motverka hemlöshet.
+Länsstyrelserna ska bland annat bistå kommunerna genom att stödja kunskaps- och metodutveckling i kommunerna samt främja erfarenhetsutbyte om effektiva metoder och goda exempel i arbetet med att motverka hemlöshet.
 
 ### Uppdrag till Socialstyrelsen att analysera hur kommunens akuta boendelösningar används
 

@@ -1,3 +1,3 @@
 # Genomförande av EG-direktivet om rätt till familjeåterförening samt vissa frågor om handläggning och DNA-analys vid ...
 
-I propositionen föreslås ändringar i utlänningslagen (2005:716\), till följd av rådets direktiv 2003/86/EG av den 22 september 2003 om rätt till familjeåterförening.
+I propositionen föreslås ändringar i utlänningslagen (2005:716), till följd av rådets direktiv 2003/86/EG av den 22 september 2003 om rätt till familjeåterförening.

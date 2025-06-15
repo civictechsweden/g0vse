@@ -1,13 +1,12 @@
 # Statsministerns tal på manifestationen för Ukraina
 
-Statsministerns tal den 24 februari 2024\. Det talade ordet gäller.
-
+Statsministerns tal den 24 februari 2024. Det talade ordet gäller.
 
 Tack till alla er som har samlats här i dag – igen. Jag minns den här dagen för ett år sedan. Och vi minns alla den här dagen för två år sedan.
 
 När vi sågs här förra gången skickade vi en viktig signal – till både vänner och fiender: att vi står på frihetens och demokratins sida. Att vi står upp mot dem som vill att makt går före rätt. Att vi står på det ukrainska folkets sida i kampen för sin frihet – och för vår frihet.
 
-Idag – två år efter den fullskaliga invasionen – ger vi ett ännu viktigare besked: Att där står vi kvar. Vid Ukrainas sida, på frihetens sida \- och så länge det krävs.
+Idag – två år efter den fullskaliga invasionen – ger vi ett ännu viktigare besked: Att där står vi kvar. Vid Ukrainas sida, på frihetens sida - och så länge det krävs.
 
 \*\*\*
 
@@ -19,7 +18,7 @@ Från studenterna jag träffade på Kiev School of Economics till de militärlä
 
 Och som min kloka danska kollega Mette Frederiksen brukar säga, så har ingen av oss rätt att vara krigstrött, så länge Ukraina inte är det.
 
-Europas länder har nu enats igen. Både om Ukrainas framtid som EU\-medlem och om vårt långsiktiga ekonomiska stöd. Som President Zelenskyj skrev omedelbart efter beskedet ”det här är en seger för Ukraina. En seger för hela Europa. En seger som motiverar, inspirerar och stärker.”
+Europas länder har nu enats igen. Både om Ukrainas framtid som EU-medlem och om vårt långsiktiga ekonomiska stöd. Som President Zelenskyj skrev omedelbart efter beskedet ”det här är en seger för Ukraina. En seger för hela Europa. En seger som motiverar, inspirerar och stärker.”
 
 \*\*\*
 
@@ -29,13 +28,13 @@ Rent militärt så bidrar Sverige med stridsvagnar, stridsfordon och artillerisy
 
 Många svenskar skänker pengar till humanitär hjälp. Vi har Operation Aid, som bistår med transport och vård av sårade, och aktiviteter för krigsdrabbade barn och ungdomar. Vi har Blågula bilen som har levererat hundratals välfyllda lastbilar. Vi har den svenske läkaren Jonas Zimmerman, som på plats hjälper sårade från fronten.
 
-Och i två års tid har människor under Gunnar Hökmarks och Fredrik Malms ledning träffats bara några hundra meter härifrån, varje måndag, för att visa sitt stöd för Ukraina. Många rörs till tårar när 14\-årige Tymur sjunger den ukrainska nationalsången.
+Och i två års tid har människor under Gunnar Hökmarks och Fredrik Malms ledning träffats bara några hundra meter härifrån, varje måndag, för att visa sitt stöd för Ukraina. Många rörs till tårar när 14-årige Tymur sjunger den ukrainska nationalsången.
 
 Den samlade svenska insatsen är ingenting mot Ukrainas, men samtidigt så stor att jag inte kan räkna upp allt som görs. Det gör mig stolt som svensk och det gör mig stolt som statsminister. Tack för att ni står upp för det som är rätt och sant.
 
 \*\*\*
 
-Den fullskaliga invasionen inleddes 2022, men det ryska kriget mot Ukraina inleddes 2014\. Och Rysslands aggressioner redan 2008\. Många har sedan dess lärt sig att det inte går att förhandla med en regim som vill utplåna sin granne. Och man ska inte ens försöka.
+Den fullskaliga invasionen inleddes 2022, men det ryska kriget mot Ukraina inleddes 2014. Och Rysslands aggressioner redan 2008. Många har sedan dess lärt sig att det inte går att förhandla med en regim som vill utplåna sin granne. Och man ska inte ens försöka.
 
 Det finns bara ett acceptabelt slut på det här kriget: Ryssland ska förlora, och Ukraina ska bli fritt och helt. Putins ryska regim ska ställas till svars för sina brott.
 

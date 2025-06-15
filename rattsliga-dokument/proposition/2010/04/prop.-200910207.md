@@ -12,4 +12,4 @@ Det föreslås också att kommuner ska kunna avtala om att samverka avseende tob
 
 Ett par nya straffbestämmelser föreslås. Att sälja tobaksvaror utan att först ha gjort anmälan till kommunen kan medföra straffrättsligt ansvar, likaså att sälja tobak i strid med meddelat försäljningsförbud.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2010\.
+Lagändringarna föreslås träda i kraft den 1 juli 2010.

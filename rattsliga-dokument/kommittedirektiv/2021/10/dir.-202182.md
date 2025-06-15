@@ -1,6 +1,6 @@
 # Vita certifikat
 
-En särskild utredare ska föreslå ett kvotpliktssystem för energieffektivisering (s.k. vita certifikat). Syftet med uppdraget är att åstadkomma ett marknads\-baserat och kostnadseffektivt styrmedel som kan öka energieffektiviserings\-takten i Sverige, bidra till att de energi\- och klimatpolitiska målen nås samt underlätta en snabb, smart och samhällsekonomiskt effektiv elektrifiering av samhället.
+En särskild utredare ska föreslå ett kvotpliktssystem för energieffektivisering (s.k. vita certifikat). Syftet med uppdraget är att åstadkomma ett marknads-baserat och kostnadseffektivt styrmedel som kan öka energieffektiviserings-takten i Sverige, bidra till att de energi- och klimatpolitiska målen nås samt underlätta en snabb, smart och samhällsekonomiskt effektiv elektrifiering av samhället.
 
 Utredaren ska vid förslag på utformning av ett kvotpliktssystem göra bl.a. följande:
 
@@ -10,6 +10,6 @@ Utredaren ska vid förslag på utformning av ett kvotpliktssystem göra bl.a. f�
 * föreslå hur systemet bör utformas för att administration, tillsyn och kontroll ska vara självfinansierande,
 * föreslå sanktioner för kvotpliktiga parter som inte uppfyller sin kvotplikt,
 * föreslå hur handel med vita certifikat ska regleras, och
-* genomföra en samhällsekonomisk analys av förslagen som läggs fram, bland annat ska förslagens kostnadseffektivitet analyseras, deras bidrag till att uppnå EU:s klimat\- och energipolitiska mål beskrivas och överlappning med andra styrmedel kartläggas.
+* genomföra en samhällsekonomisk analys av förslagen som läggs fram, bland annat ska förslagens kostnadseffektivitet analyseras, deras bidrag till att uppnå EU:s klimat- och energipolitiska mål beskrivas och överlappning med andra styrmedel kartläggas.
 
-Uppdraget ska redovisas senast den 31 mars 2023\.
+Uppdraget ska redovisas senast den 31 mars 2023.

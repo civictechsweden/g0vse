@@ -8,6 +8,6 @@ Det föreslås vidare att skyldigheterna att förbjuda ett fartygs resa vid bris
 
 Det föreslås slutligen att regeringen eller den myndighet som regeringenbestämmer ska få meddela föreskrifter dels om skyldighet att föra över uppgifter om ombordvarande på passagerarfartyg, dels om tillträde till fartyg vid tillsyn för andra personer än de som verkställer eller biträder vid tillsynen.
 
-Förslagen genomför flera EU\-direktiv som rör säkerhet på passagerarfartyg och tillsyn av sådana fartyg.
+Förslagen genomför flera EU-direktiv som rör säkerhet på passagerarfartyg och tillsyn av sådana fartyg.
 
-Lagändringarna föreslås träda i kraft den 19 december 2019\.
+Lagändringarna föreslås träda i kraft den 19 december 2019.

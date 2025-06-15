@@ -6,7 +6,7 @@ En del i den nya kameraoffensiven är det uppdrag som regeringen har fattat besl
 
 – En ökad tillgång till andra aktörers kameramaterial har stor praktisk betydelse för Polismyndighetens förmåga att förhindra och förebygga fler brott som begås av de kriminella nätverken. Genom det här uppdraget säkerställer vi att myndigheterna använder sig av det utrymme som redan finns i dag, säger justitieminister Gunnar Strömmer.
 
-– Som en del i regeringens kameraoffensiv mot kriminella nätverk inventerar vi nu vilka verktyg som kan tillgängliggöras. Genom att ge ökad tillgång till befintliga kamerasystem kopplade till den statliga transportinfrastrukturen kan de brottsbekämpande myndigheterna få bättre verktyg i kampen mot den grova brottsligheten, säger infrastruktur\- och bostadsminister Andreas Carlson.
+– Som en del i regeringens kameraoffensiv mot kriminella nätverk inventerar vi nu vilka verktyg som kan tillgängliggöras. Genom att ge ökad tillgång till befintliga kamerasystem kopplade till den statliga transportinfrastrukturen kan de brottsbekämpande myndigheterna få bättre verktyg i kampen mot den grova brottsligheten, säger infrastruktur- och bostadsminister Andreas Carlson.
 
 Polismyndigheten samordnar arbetet och ska även precisera vilka behov myndigheten har av uppgifter från Trafikverkets kamerasystem, till exempel möjligheten att i realtid följa skeenden eller prioriterade geografiska områden. Trafikverket ska bland annat ange i vilken mån de tekniska plattformar som används inom respektive system i dag tekniskt medger, eller kan anpassas för att medge, en kamerabevakning i enlighet med Polismyndighetens behov.
 

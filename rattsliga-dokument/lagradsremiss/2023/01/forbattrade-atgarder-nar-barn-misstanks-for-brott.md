@@ -11,4 +11,4 @@ Regeringen lämnar nu ett antal förslag som syftar till att för­bättra regel
 * fler drog­tester ska få genom­föras mot barn under 15 år, och
 * det ska bli möjligt för åkla­gare att genom strafföre­läggande förordna om ungdoms­tjänst.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2023\.
+Lagändringarna föreslås träda i kraft den 1 juli 2023.

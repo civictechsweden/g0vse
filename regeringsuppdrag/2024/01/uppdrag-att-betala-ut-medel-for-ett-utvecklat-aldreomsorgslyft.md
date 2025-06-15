@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen att betala ut statsbidrag till kommuner som ersättning inom det så kallade Äldreomsorgslyftet.
 
-
 Utöver det som tidigare angivits ska medlen kunna användas:
 
 * till validering av kunskap till undersköterska eller till vårdbiträde hos anställda inom kommunalt finansierad vård och omsorg om äldre

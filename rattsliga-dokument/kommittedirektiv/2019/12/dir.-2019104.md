@@ -9,8 +9,8 @@ Utredaren ska bland annat
 * ta ställning till hur efterlevande anhörigas rätt till ideellt skadestånd kan stärkas,
 * ta ställning till hur reglerna om förbud mot utmätning av skadestånd med anledning av ett frihetsberövande bör ändras för att i större utsträckning möjliggöra utmätning till förmån för brottsoffer, och
 * föreslå de författningsändringar och andra åtgärder som bedöms
-nödvändiga eller lämpliga.
+  nödvändiga eller lämpliga.
 
 En parlamentarisk referensgrupp ska tillsättas.
 
-Uppdraget ska redovisas senast den 30 juni 2021\.
+Uppdraget ska redovisas senast den 30 juni 2021.

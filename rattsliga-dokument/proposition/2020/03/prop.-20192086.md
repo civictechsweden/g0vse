@@ -1,7 +1,7 @@
 # Svenskt deltagande i militär insats för stärkt säkerhet i Mali
 
 Riksdagen medger att regeringen ställer en svensk väpnad styrka
- till förfogande till och med den 31 december 2021 för att på malisk inbjudan delta i insatsen Task Force Takuba i Mali och att styrkan även ska kunna verka på Nigers territorium
+till förfogande till och med den 31 december 2021 för att på malisk inbjudan delta i insatsen Task Force Takuba i Mali och att styrkan även ska kunna verka på Nigers territorium
 inom ramen för deltagandet i insatsen, förutsatt att en inbjudan från Niger
 finns.
 

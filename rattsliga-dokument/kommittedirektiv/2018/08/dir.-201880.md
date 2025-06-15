@@ -13,4 +13,4 @@ Utredaren ska bland annat analysera och lämna förslag på
 * finansiering av myndigheten
 * nödvändiga författningar och författningsändringar.
 
-Uppdraget ska redovisas senast den 15 augusti 2019\.
+Uppdraget ska redovisas senast den 15 augusti 2019.

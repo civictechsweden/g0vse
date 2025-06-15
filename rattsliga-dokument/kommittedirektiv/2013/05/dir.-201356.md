@@ -12,4 +12,4 @@ Utredaren ska också analysera och ta ställning till vilka åtgärder som behö
 
 Utredaren ska också vid behov föreslå författningsändringar.
 
-Uppdraget ska redovisas senast den 30 april 2014\.
+Uppdraget ska redovisas senast den 30 april 2014.

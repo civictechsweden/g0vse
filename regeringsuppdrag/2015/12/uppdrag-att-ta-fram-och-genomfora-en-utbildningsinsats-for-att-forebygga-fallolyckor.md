@@ -2,10 +2,9 @@
 
 Regeringen gav den 3 december Socialstyrelsen i uppdrag att förbereda och genomföra uppdrag inom området fallprevention.
 
-
 ## Webbaserad utbildning om fallprevention
 
-Socialstyrelsen ska planera och ta fram en webbaserad utbildning om fallprevention. Utbildningen riktar sig mot verksamheter inom hälso\- och sjukvård och verksamheter inom social omsorg.
+Socialstyrelsen ska planera och ta fram en webbaserad utbildning om fallprevention. Utbildningen riktar sig mot verksamheter inom hälso- och sjukvård och verksamheter inom social omsorg.
 
 Myndigheten ska senast den 1 mars 2019 slutredovisas den här delen av uppdraget till Regeringskansliet.
 

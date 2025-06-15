@@ -10,9 +10,9 @@ Regeringen tar nu ett bredare grepp och ger en utredare i uppdrag att föreslå 
 
 – Vi vill att utgångspunkten, i motsats till idag, ska vara att myndigheter får dela information med varandra för att förhindra och bekämpa brott. Det här är ett perspektivskifte som efterfrågats av många myndigheter under lång tid, och helt avgörande för att öka trycket i det förebyggande arbetet. Det skulle inte bara möjliggöra ett utökat informationsutbyte, utan det skulle också göra det lätt att göra rätt, säger justitieminister Gunnar Strömmer.
 
-\- För de kriminella är den största inkomstkällan bedrägerier mot våra välfärdssystem. Men regeringen är fast besluten att ändra på detta. För att knäcka gängen måste vi också knäcka gängens ekonomi. Våra välfärdssystem måste skyddas och värnas, säger äldre\- och socialförsäkringsminister Anna Tenje.
+- För de kriminella är den största inkomstkällan bedrägerier mot våra välfärdssystem. Men regeringen är fast besluten att ändra på detta. För att knäcka gängen måste vi också knäcka gängens ekonomi. Våra välfärdssystem måste skyddas och värnas, säger äldre- och socialförsäkringsminister Anna Tenje.
 
-En särskild utredare har fått i uppdrag att överväga och föreslå förbättrade möjligheter att utbyta information inom och mellan myndigheter och andra organ som omfattas av offentlighets\- och sekretesslagen.
+En särskild utredare har fått i uppdrag att överväga och föreslå förbättrade möjligheter att utbyta information inom och mellan myndigheter och andra organ som omfattas av offentlighets- och sekretesslagen.
 
 Utredaren ska bland annat
 
@@ -24,4 +24,4 @@ Utredaren ska bland annat
 
 • lämna nödvändiga författningsförslag.
 
-Uppdraget ska slutredovisas senast den 28 februari 2025\. Senast den 30 augusti 2024 ska utredaren lämna en delredovisning, bland annat av uppdraget att förslag på en generell möjlighet att lämna uppgifter som omfattas av sekretess till skydd för enskilda till en annan myndighet.
+Uppdraget ska slutredovisas senast den 28 februari 2025. Senast den 30 augusti 2024 ska utredaren lämna en delredovisning, bland annat av uppdraget att förslag på en generell möjlighet att lämna uppgifter som omfattas av sekretess till skydd för enskilda till en annan myndighet.

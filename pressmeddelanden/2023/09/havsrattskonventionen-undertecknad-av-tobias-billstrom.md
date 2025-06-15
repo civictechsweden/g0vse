@@ -4,6 +4,6 @@
 
 Det aktuella avtalet rymmer fyra delar; regler för områdesbaserade förvaltningsverktyg inklusive marina skyddade ­områden, miljökonsekvensbeskrivningar, marina genetiska resurser samt kapacitetsuppbyggnad och teknologiöverföring.
 
-– Det här är ett banbrytande avtal för våra världshav. Världen är i stort behov av att vi skyddar våra ekosystem från föroreningar och klimatförändringar. Jag är mycket glad över att Sverige har varit pådrivande i arbetet och bidragit till att förhandlingarna gått i mål, säger klimat\- och miljöminister Romina Pourmokhtari.
+– Det här är ett banbrytande avtal för våra världshav. Världen är i stort behov av att vi skyddar våra ekosystem från föroreningar och klimatförändringar. Jag är mycket glad över att Sverige har varit pådrivande i arbetet och bidragit till att förhandlingarna gått i mål, säger klimat- och miljöminister Romina Pourmokhtari.
 
-Sverige har under lång tid haft en ledande roll i det internationella havsmiljöarbetet och står tillsammans med EU bakom FN:s målsättning om att 30 procent av jordens yta ska vara skyddad 2030\. Avtalet bidrar till att det målet nu är möjligt att uppnå.
+Sverige har under lång tid haft en ledande roll i det internationella havsmiljöarbetet och står tillsammans med EU bakom FN:s målsättning om att 30 procent av jordens yta ska vara skyddad 2030. Avtalet bidrar till att det målet nu är möjligt att uppnå.

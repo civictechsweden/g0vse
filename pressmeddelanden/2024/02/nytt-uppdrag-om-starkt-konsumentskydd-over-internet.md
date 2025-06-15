@@ -10,4 +10,4 @@ Utredaren ska
 * ta ställning till de alternativa tillvägagångssätt och valmöjligheter som ändringsdirektivet erbjuder, och
 * lämna nödvändiga författningsförslag.
 
-Utredningstiden förlängs. Uppdraget ska redovisas senast den 11 april 2025\. Ett delbetänkande som avser delarna i de ursprungliga direktiven ska dock lämnas senast den 11 oktober 2024\.
+Utredningstiden förlängs. Uppdraget ska redovisas senast den 11 april 2025. Ett delbetänkande som avser delarna i de ursprungliga direktiven ska dock lämnas senast den 11 oktober 2024.

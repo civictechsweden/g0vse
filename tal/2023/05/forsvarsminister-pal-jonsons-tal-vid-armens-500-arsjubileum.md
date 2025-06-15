@@ -1,9 +1,8 @@
 # Försvarsminister Pål Jonsons tal vid arméns 500-årsjubileum
 
-Gärdet, 27 maj 2023\.
+Gärdet, 27 maj 2023.
 
 Det talade ordet gäller.
-
 
 Arméchefen, generaler, amiraler, soldater, mina damer och herrar.
 
@@ -13,7 +12,7 @@ Jag kommer inte att fördjupa mig mer i historia annat än att konstatera att Ar
 
 Detta gäller även vår nutid.
 
-Att stå här idag på denna plats som också spelat en viktig roll i Arméns och Sveriges historia är speciellt. Gärdet liksom en rad olika övnings\- och samlingsområden runtom i Sverige binder Armén till landet, de institutioner och de människor som Armén tjänar.
+Att stå här idag på denna plats som också spelat en viktig roll i Arméns och Sveriges historia är speciellt. Gärdet liksom en rad olika övnings- och samlingsområden runtom i Sverige binder Armén till landet, de institutioner och de människor som Armén tjänar.
 
 Detta band är starkt än i dag vilket visas av det intresse och den debatt som fortfarande blossar upp så snart det antyds förändringar av grundorganisationen.
 
@@ -41,7 +40,7 @@ Jag är som försvarsminister stolt men framförallt djupt tacksam för det star
 
 Låt mig också säga några ord om arméchefen generalmajor Karl Engelbrektsson. Karl är ett utmärkt exempel på den kvarlevande viktiga kunskapen i Armén, som jag talade om tidigare.
 
-Som Arméchef har Karl varit central för att återskapa Arméns förmåga. Under hans ledarskap skapades en tydlig målbild som senare fastställdes i Försvarsbeslutet 2020\. Att ha en tydlig målbild som fokuserade på högre förband i samverkan nationellt och internationellt var och är en viktig framgångsfaktor.
+Som Arméchef har Karl varit central för att återskapa Arméns förmåga. Under hans ledarskap skapades en tydlig målbild som senare fastställdes i Försvarsbeslutet 2020. Att ha en tydlig målbild som fokuserade på högre förband i samverkan nationellt och internationellt var och är en viktig framgångsfaktor.
 
 Karls oslagbara internationella kontaktnät och djupa hängivenhet att stärka armén har gjort honom till en lysande arméchef i en svår tid för vår säkerhet.
 

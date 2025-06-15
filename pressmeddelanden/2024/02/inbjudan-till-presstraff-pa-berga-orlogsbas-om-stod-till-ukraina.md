@@ -2,9 +2,9 @@
 
 ### Program
 
-13\.30 Anmälan, inpassering och uppsamling vid vakten
-14\.00 Pressträff
-15\.00 Militär förevisning
+13.30 Anmälan, inpassering och uppsamling vid vakten
+14.00 Pressträff
+15.00 Militär förevisning
 
 Deltagande sker i mån av plats.
 

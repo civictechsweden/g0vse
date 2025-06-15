@@ -6,4 +6,4 @@ Av flera undersökningar framgår att Polismyndighetens anställda i hög grad u
 
 Enligt förslagen i lagrådsremissen ska Polismyndigheten få besluta att en anställd ska få använda en annan uppgift än sitt namn i vissa ärenden. Det gäller ärenden som rör en person som kan antas tillhöra eller verka för en organisation eller grupp där brottslig verksamhet av allvarlig eller omfattande karaktär utövas. Dessutom ska det finnas en påtaglig risk för att den anställde eller någon närstående till denne utsätts för hot eller våld. Vidare föreslås att sekretess som huvudregel ska gälla för uppgifter som kan bidra till upplysning om identiteten på den anställde vid Polismyndigheten.
 
-För att möjliggöra en utvärdering av regelverket föreslås att bestämmelserna tidsbegränsas till att gälla i fem år. Författningsförslagen föreslås träda i kraft den 30 april 2024\.
+För att möjliggöra en utvärdering av regelverket föreslås att bestämmelserna tidsbegränsas till att gälla i fem år. Författningsförslagen föreslås träda i kraft den 30 april 2024.

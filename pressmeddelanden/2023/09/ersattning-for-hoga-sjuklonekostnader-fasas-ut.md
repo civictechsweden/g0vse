@@ -4,8 +4,8 @@ Handläggningen är till stor del automatiserad för att minimera den administra
 
 Regeringen påbörjar därför ett arbete för att avskaffa rätten att få ersättning för höga sjuklönekostnader.
 
-Det innebär att den sista ersättningen som arbetsgivarna får genom kreditering på skattekontot förmodligen kommer ske under 2025\. Detta eftersom Försäkringskassan beslutar om ersättningen efter kalenderårets utgång baserat på arbetsgivarnas uppgifter i arbetsgivardeklarationen. Försäkringskassan lämnar sedan uppgifter till Skatteverket som behövs för kreditering på arbetsgivarnas skattekonton.
+Det innebär att den sista ersättningen som arbetsgivarna får genom kreditering på skattekontot förmodligen kommer ske under 2025. Detta eftersom Försäkringskassan beslutar om ersättningen efter kalenderårets utgång baserat på arbetsgivarnas uppgifter i arbetsgivardeklarationen. Försäkringskassan lämnar sedan uppgifter till Skatteverket som behövs för kreditering på arbetsgivarnas skattekonton.
 
-Detta beräknas minska utgifterna med 1 230 miljoner kronor 2025 och 2 638 miljoner kronor 2026\.
+Detta beräknas minska utgifterna med 1 230 miljoner kronor 2025 och 2 638 miljoner kronor 2026.
 
 Till följd av avskaffandet minskas Försäkringskassans förvaltningsanslag 2026 med 7 miljoner kronor.

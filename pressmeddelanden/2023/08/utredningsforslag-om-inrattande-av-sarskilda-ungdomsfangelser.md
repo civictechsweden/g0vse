@@ -10,4 +10,4 @@ I utredningens uppdrag har bland annat ingått att föreslå lagänd­ringar som
 
 Utredningen föreslår nu att påföljden sluten ungdoms­vård ska utmönstras och att unga lag­över­trädare framöver i stället ska dömas till fängelse. Fängelse­påföljden ska verkställas på särskilda ungdoms­avdelningar på Kriminal­vårdens befintliga anstalter. Verk­samheten på de särskilda ungdoms­avdel­ningarna ska anpassas till barn och ungas behov. Utgångs­punkten ska vara att barn och unga inte ska avtjäna straffet tillsammans med vuxna.
 
-Utredningen föreslår att lagändringarna träder i kraft den 1 januari 2028\.
+Utredningen föreslår att lagändringarna träder i kraft den 1 januari 2028.

@@ -11,4 +11,4 @@ Den svenska marknaden för säkerställda obligationer är välfungerande med et
 * Ett nytt krav på likviditetsbuffert i säkerhetsmassan införs.
 * Ett nytt krav på information till investerare införs.
 
-Lagändringarna föreslås träda i kraft den 8 juli 2022\.
+Lagändringarna föreslås träda i kraft den 8 juli 2022.

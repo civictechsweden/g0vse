@@ -1,6 +1,6 @@
 # Nytt Förenklingsråd ska minska företagens regelbörda
 
-–  Den här regeringen driver en offensiv förenklingsagenda. Varje extra timme en företagare lägger på regelkrångel är en förlorad timme på att ägna sig åt sin kärnverksamhet. Nu ökar vi tempot i förenklingsarbetet med ett nyinrättat Förenklingsråd som ska inkomma med konkreta förenklingsförslag som regeringen kan gå vidare med, säger energi\- och näringsminister Ebba Busch.
+–  Den här regeringen driver en offensiv förenklingsagenda. Varje extra timme en företagare lägger på regelkrångel är en förlorad timme på att ägna sig åt sin kärnverksamhet. Nu ökar vi tempot i förenklingsarbetet med ett nyinrättat Förenklingsråd som ska inkomma med konkreta förenklingsförslag som regeringen kan gå vidare med, säger energi- och näringsminister Ebba Busch.
 
 – Liberalerna har under lång tid drivit frågan om minskad regelbörda för företagen. Reglerna behöver vara få och välmotiverade. Om de inte upplevs så, undergräver det samhällsmoralen och människors vilja att följa reglerna. Därför är dagens besked så viktigt, säger Louise Eklund (L), näringspolitisk talesperson.
 

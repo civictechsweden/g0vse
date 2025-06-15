@@ -1,6 +1,6 @@
 # Ökad reglering av barns underhåll utanför underhållsstödet
 
-Många barn skulle få ett högre underhåll om det reglerades civilrättsligt i stället för via Försäkringskassan och underhållsstödet. Detta gäller särskilt för barn i hushåll med låg ekonomisk standard. Det framgår bland annat av Särlevandeutredningens betänkande (SOU 2011:51\). En stor andel föräldrar reglerar underhållsskyldigheten via underhållsstödet trots att de har ekonomiska förutsättningar att i stället reglera det direkt mellan sig.
+Många barn skulle få ett högre underhåll om det reglerades civilrättsligt i stället för via Försäkringskassan och underhållsstödet. Detta gäller särskilt för barn i hushåll med låg ekonomisk standard. Det framgår bland annat av Särlevandeutredningens betänkande (SOU 2011:51). En stor andel föräldrar reglerar underhållsskyldigheten via underhållsstödet trots att de har ekonomiska förutsättningar att i stället reglera det direkt mellan sig.
 
 Mot bakgrund av att regeringen avser att ge Försäkringskassan ett utökat uppdrag om information och stöd till föräldrar i frågor om underhållsbidrag, lämnas i propositionen förslag om ändringar i underhållsstödssystemet som utgör incitament att, när förutsättningar för detta finns, i stället reglera underhållsskyldigheten för barn utanför underhållsstödet. Genom detta bedöms förut­sättningarna för särlevande föräldrar att komma överens om civilrättsliga avtal om underhållsbidrag att öka.
 

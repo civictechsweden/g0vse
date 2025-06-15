@@ -6,4 +6,4 @@ Syftet är även att manifestera mot det terroristattentat som en våldsbejakand
 
 –   Det är oerhört tragiskt att svenskar fallit offer för ett terroristdåd. Våldsbejakande extremism är ett stort hot mot vårt öppna samhälle. Den har bland annat sin grogrund i antisemitismen och måste bekämpas med beslutsamhet, säger Tobias Billström.
 
-Jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg talar också vid manifestationen.
+Jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg talar också vid manifestationen.

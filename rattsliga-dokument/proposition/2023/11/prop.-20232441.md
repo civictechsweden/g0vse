@@ -9,11 +9,11 @@ kommunerna kommer att kunna få ersättning ur kärnavfallsfonden för
 insatser i samband med
 
 * stegvis prövning av utbyggnaden av slutförvaret för radioaktivt
-driftavfall och slutförvaret för använt kärnbränsle och medverkan vid
-samråd om lokala miljöfrågor kopplade till dessa förvar
-* granskning av programmet för allsidig forsknings\- och utvecklingsverksamhet som tas fram vart tredje år.
+  driftavfall och slutförvaret för använt kärnbränsle och medverkan vid
+  samråd om lokala miljöfrågor kopplade till dessa förvar
+* granskning av programmet för allsidig forsknings- och utvecklingsverksamhet som tas fram vart tredje år.
 
 Syftet med förslagen är att skapa bättre förutsättningar för en allsidig
-bedömning och granskning av slutförvaringens miljö\- och säkerhetskonsekvenser och för allmänhetens insyn i arbetet.
+bedömning och granskning av slutförvaringens miljö- och säkerhetskonsekvenser och för allmänhetens insyn i arbetet.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2024\.
+Lagändringarna föreslås träda i kraft den 1 juli 2024.

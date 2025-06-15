@@ -8,4 +8,4 @@ Detta gäller i de fall det behövs av hänsyn till domstolens handläggningstid
 
 – Rätten att få sitt mål prövat inom skälig tid skyddas av både regeringsformen och Europakonventionen, och domstolarna behöver få bättre verktyg för att kunna tillgodose detta. Genom det här förslaget kan domstolarnas samlade kapacitet bättre tas tillvara så att enskilda parter kan få sina mål avgjorda i rimlig tid, säger justitieminister Gunnar Strömmer.
 
-Lagändringarna föreslås träda i kraft den 1 november 2024\.
+Lagändringarna föreslås träda i kraft den 1 november 2024.

@@ -4,6 +4,6 @@ Regeringen uppdrar åt Säkerhetspolisen att inom sitt ansvarsområde införliva
 
 Säkerhetspolisen ska samverka med Polismyndigheten och andra berörda myndigheter vid genomförandet av uppdraget.
 
-Uppdraget ska redovisas senast den 1 mars 2017\. En delredovisning ska ske senast den 1 november 2016\.
+Uppdraget ska redovisas senast den 1 mars 2017. En delredovisning ska ske senast den 1 november 2016.
 
 [Förebygga, förhindra och försvåra – den svenska strategin mot terrorism, Skr. 2014/15:146](/rattsliga-dokument/skrivelse/2015/08/forebygga-forhindra-och-forsvara--den-svenska-strategin-mot-terrorism/)

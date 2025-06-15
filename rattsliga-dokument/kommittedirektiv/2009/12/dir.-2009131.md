@@ -8,4 +8,4 @@ En särskild kommitté ska
 * lämna förslag till en fortsatt utformning av rehabiliteringsgaranti efter 2010 samt
 * stötta och bistå regeringen i frågor med koppling till rehabiliteringsområdet.
 
-Uppdraget ska slutredovisas senast den 10 december 2010\.
+Uppdraget ska slutredovisas senast den 10 december 2010.

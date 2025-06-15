@@ -10,14 +10,14 @@ Utrikesdeklarationen sammanfattar regeringens utrikespolitiska mål och priorite
 
 ## Fortsatt starkt stöd till Ukraina
 
-Sedan Rysslands storskaliga invasion av Ukraina i februari 2022 har det svenska stödet till Ukraina uppgått till cirka 30 miljarder kronor. Sverige har försett Ukraina med bland annat militärt stöd, avancerade vapensystem, och humanitärt och finansiellt stöd. Sverige stödjer också Ukrainas EU\-närmande.
+Sedan Rysslands storskaliga invasion av Ukraina i februari 2022 har det svenska stödet till Ukraina uppgått till cirka 30 miljarder kronor. Sverige har försett Ukraina med bland annat militärt stöd, avancerade vapensystem, och humanitärt och finansiellt stöd. Sverige stödjer också Ukrainas EU-närmande.
 
 ## Sveriges medlemskap i Nato
 
-Det kommande medlemskapet i Nato innebär en ny svensk utrikes\- och säkerhetspolitisk identitet.
+Det kommande medlemskapet i Nato innebär en ny svensk utrikes- och säkerhetspolitisk identitet.
 
 – Sverige är redo att inträda som fullvärdig medlem i Nato. Med Sverige i Nato kommer Sverige bli säkrare och Nato starkare. Vi kommer vara en pålitlig, solidarisk och engagerad Natoallierad, säger Tobias Billström.
 
 ## Fördjupat samarbete i närområdet
 
-Under 2024 är Sverige ordförande i Nordiska ministerrådet och leder även arbetet i N5 och NB8, som samlar de fem nordiska och de åtta nordisk\-baltiska länderna i ett informellt samarbete fokuserat på utrikes och säkerhetspolitik.
+Under 2024 är Sverige ordförande i Nordiska ministerrådet och leder även arbetet i N5 och NB8, som samlar de fem nordiska och de åtta nordisk-baltiska länderna i ett informellt samarbete fokuserat på utrikes och säkerhetspolitik.

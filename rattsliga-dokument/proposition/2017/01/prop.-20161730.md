@@ -6,10 +6,10 @@ Framtidsfullmakter utgör ett alternativ till ordningen med god man och förvalt
 
 Framtidsfullmakten är giltig när den enskilde blir beslutsoförmögen. Det är fullmaktshavaren som avgör när detta inträffar. Det ska därutöver finnas en möjlighet att få frågan prövad av domstol.
 
-Fullmaktshavaren ska ha en lojalitets\- och samrådsplikt i förhållande till den enskilde och denne ska få utse en särskild granskare som har rätt att begära redovisning av uppdraget. Även överförmyndaren ska ha en sådan rätt och ska kunna agera om fullmaktshavaren till exempel missbrukar sitt förtroende.
+Fullmaktshavaren ska ha en lojalitets- och samrådsplikt i förhållande till den enskilde och denne ska få utse en särskild granskare som har rätt att begära redovisning av uppdraget. Även överförmyndaren ska ha en sådan rätt och ska kunna agera om fullmaktshavaren till exempel missbrukar sitt förtroende.
 
 Utöver detta föreslår regeringen bland annat behörighetsregler för anhöriga till personer som inte längre kan ha hand om sina ekonomiska angelägenheter. Förslaget skapar en rättslig ram för sådana vardagliga rättshandlingar som många anhöriga redan i dag utför.
 
-Den nya lagen om framtidsfullmakter och övriga lagförslag föreslås träda i kraft den 1 juli 2017\.
+Den nya lagen om framtidsfullmakter och övriga lagförslag föreslås träda i kraft den 1 juli 2017.
 
 [Pressmeddelande: Framtidsfullmakter – en ny form av ställföreträdarskap för vuxna](/pressmeddelanden/2017/01/framtidsfullmakter--en-ny-form-av-stallforetradarskap-for-vuxna/)

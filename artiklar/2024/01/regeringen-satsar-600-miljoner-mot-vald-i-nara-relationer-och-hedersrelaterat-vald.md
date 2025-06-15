@@ -2,7 +2,6 @@
 
 Att förebygga och bekämpa mäns våld mot kvinnor och hedersrelaterat våld och förtryck är prioriterat inom jämställdhetspolitiken. Regeringen satsar genom jämställdhetspolitiken drygt 600 miljoner kronor under 2024 inom området. Flera myndigheter har genom regleringsbreven fått viktiga uppdrag för att stärka arbetet som kräver långsiktighet och uthållighet.
 
-
 ## Hedersrelaterat våld och förtryck
 
 Arbetet mot hedersrelaterat våld och förtryck är i gång på bred front. Straffen för hedersrelaterat förtryck ska skärpas, stödet till utsatta förbättras och myndigheternas arbete effektiviseras. Några av regeringens satsningar handlar om att inrätta en nationell funktion för utsatta och närstående att vända sig till, systematisk uppföljning av socialtjänstens insatser till utsatta individer och bättre stöd för att motverka hedersrelaterat våld vid nätverksplacering av barn och unga. Även fortsatt kunskapsutveckling om barns och ungas skadliga utlandsvistelser, liksom stärkt systematiskt arbete mot hedersrelaterat våld och förtryck i skolan är viktiga delar i arbetet.
@@ -11,7 +10,7 @@ Arbetet mot hedersrelaterat våld och förtryck är i gång på bred front. Stra
 
 ## Barn och ungas utsatthet för våld
 
-För att stärka skyddet och stödet till barn och unga som är utsatta för våld gör regeringen satsningar inom flera områden. Det handlar om våldsförebyggande insatser i skolan: att analysera skolors arbete med att förebygga och åtgärda våld i ungas relationer och hedersrelaterat våld och förtryck samt att föreslå en struktur för samordning av arbetet. Andra uppdrag rör att stärka rättsväsendets kunskap om barns våldsutsatthet, insatser vad gäller bortförda barn samt att ta fram kunskapsstöd för att förebygga att unga hbtqi\-personer exploateras sexuellt, både digitalt och fysiskt.
+För att stärka skyddet och stödet till barn och unga som är utsatta för våld gör regeringen satsningar inom flera områden. Det handlar om våldsförebyggande insatser i skolan: att analysera skolors arbete med att förebygga och åtgärda våld i ungas relationer och hedersrelaterat våld och förtryck samt att föreslå en struktur för samordning av arbetet. Andra uppdrag rör att stärka rättsväsendets kunskap om barns våldsutsatthet, insatser vad gäller bortförda barn samt att ta fram kunskapsstöd för att förebygga att unga hbtqi-personer exploateras sexuellt, både digitalt och fysiskt.
 
 [Pressmeddelande: Stärkt skydd och stöd till våldsutsatta barn och unga](/pressmeddelanden/2023/12/starkt-skydd-och-stod-till-valdsutsatta-barn-och-unga/)
 
@@ -23,7 +22,7 @@ Regeringen stärker arbetet för att höja kvaliteten på skyddade boenden. Blan
 
 ## Ekonomisk jämställdhet
 
-Inom området ekonomisk jämställdhet ska särskilt unga kvinnors och mäns ekonomiska förutsättningar att ur ett jämställdshetsperspektiv etablera sig på bostadsmarknaden analyseras. Andra frågor att se över är hur tillgången till hyresrätter påverkar kvinnor och män, bland annat vad gäller möjligheter att flytta för att ta ett arbete och för våldsutsatta att lämna en våldsam relation. Frågan om ökat distansarbete efter covid\-19 pandemin fortsatt påverkar jämställdheten mellan kvinnor och män på arbetsmarknaden ska analyseras. Viktiga pågående uppdrag inom området rör fortsatta satsningar på utrikes födda kvinnors etablering på arbetsmarknaden.
+Inom området ekonomisk jämställdhet ska särskilt unga kvinnors och mäns ekonomiska förutsättningar att ur ett jämställdshetsperspektiv etablera sig på bostadsmarknaden analyseras. Andra frågor att se över är hur tillgången till hyresrätter påverkar kvinnor och män, bland annat vad gäller möjligheter att flytta för att ta ett arbete och för våldsutsatta att lämna en våldsam relation. Frågan om ökat distansarbete efter covid-19 pandemin fortsatt påverkar jämställdheten mellan kvinnor och män på arbetsmarknaden ska analyseras. Viktiga pågående uppdrag inom området rör fortsatta satsningar på utrikes födda kvinnors etablering på arbetsmarknaden.
 
 [Pressmeddelande: Nya steg för att öka den ekonomiska jämställdheten](/pressmeddelanden/2024/01/nya-steg-for-att-oka-den-ekonomiska-jamstalldheten/)
 
@@ -37,10 +36,10 @@ Myndigheten har bland annat följande uppdrag:
 * kartlägga och analysera förekomsten av hedersrelaterat våld och förtryck, bland annat barnäktenskap, tvångsäktenskap och månggifte i Sverige liksom att sammanställa evidensbaserade metoder och strategier för prevention, riskhantering, skydd och stöd.
 * genomföra kompetenshöjande insatser om våld i frågor om vårdnad, boende och umgänge.
 * förstärka arbetet mot sexuell exploatering av barn, prostitution och människohandel.
-* samordna och följa upp arbetet med att förebygga och bekämpa könsstympning \- flera myndigheter har uppdrag på området.
+* samordna och följa upp arbetet med att förebygga och bekämpa könsstympning - flera myndigheter har uppdrag på området.
 * analysera bostadsmarknaden ur ett jämställdhetsperspektiv.
 * fortsatt stödja statliga myndigheter och länsstyrelser samt universitet och högskolor i deras arbete med jämställdhetsintegrering.
 
 ## Nytt åtgärdsprogram
 
-Regeringen arbetar nu intensivt med att ta fram ett nytt åtgärdsprogram för att motverka och bekämpa mäns våld mot kvinnor och hedersrelaterat våld och förtryck, som ska gälla för 2024–2026\.
+Regeringen arbetar nu intensivt med att ta fram ett nytt åtgärdsprogram för att motverka och bekämpa mäns våld mot kvinnor och hedersrelaterat våld och förtryck, som ska gälla för 2024–2026.

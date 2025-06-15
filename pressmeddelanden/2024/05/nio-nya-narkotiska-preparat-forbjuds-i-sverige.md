@@ -4,6 +4,6 @@
 
 Beslutet har fattats inom två veckor från att Folkhälsomyndigheten kom med en hemställan.
 
-Förordningsändringarna som regeringen nu har beslutat om innebär att nio substanser ska klassificeras som narkotika. Substanserna är N\-desetyletonitazen, 5\-aminoisotonitazen, isotodesnitazen, ADB\-4en\-PINACA, CUMYL\-NBMINACA, 2\-MEB, MDPEP, 4\-CEC och deskloroketamin.
+Förordningsändringarna som regeringen nu har beslutat om innebär att nio substanser ska klassificeras som narkotika. Substanserna är N-desetyletonitazen, 5-aminoisotonitazen, isotodesnitazen, ADB-4en-PINACA, CUMYL-NBMINACA, 2-MEB, MDPEP, 4-CEC och deskloroketamin.
 
-Regeringen har även beslutat att substanserna 3F\-NEB och 4F\-3Me\-alfa\-PHP, som tillhör gruppen centralstimulerande katinoner, ska klassificeras som hälsofarliga varor. Den senare har hittills kopplats till ett dödsfall i Sverige.
+Regeringen har även beslutat att substanserna 3F-NEB och 4F-3Me-alfa-PHP, som tillhör gruppen centralstimulerande katinoner, ska klassificeras som hälsofarliga varor. Den senare har hittills kopplats till ett dödsfall i Sverige.

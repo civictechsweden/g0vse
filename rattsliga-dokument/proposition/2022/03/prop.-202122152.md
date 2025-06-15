@@ -2,4 +2,4 @@
 
 I denna proposition lämnar regeringen förslag om ekonomiskt stöd till Ukraina med anledning av Rysslands invasion av landet.
 
-Det föreslås att Sverige garanterar Internationella återuppbyggnads\- och utvecklingsbankens kompletterande lån till Ukraina till ett belopp om högst 44,7 miljoner euro plus ränta.
+Det föreslås att Sverige garanterar Internationella återuppbyggnads- och utvecklingsbankens kompletterande lån till Ukraina till ett belopp om högst 44,7 miljoner euro plus ränta.

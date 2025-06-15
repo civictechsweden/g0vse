@@ -2,7 +2,6 @@
 
 Migration är ett prioriterat område för regeringen. Området är också ett av de samarbetsprojekt som regeringspartierna har med samarbetspartiet Sverigedemokraterna för att lösa Sveriges viktigaste samhällsproblem. Till grund för samarbetet ligger Tidöavtalet. När de första 100 dagarna nu har gått är en hel del åtgärder inom området gjorda, och fler är på gång.
 
-
 I anslutning till en pressträff den 24 januari presenterades en nyhet:
 
 ## Internationell informationskampanj om paradigmskiftet i migrationspolitiken
@@ -32,19 +31,19 @@ Regeringen har genomfört flera åtgärder på migrationsområdet sedan regering
 
 ## På gång inom migration
 
-* Utredning för att anpassa asyllagstiftningen till den rättsliga miniminivån enligt EU\-rätten.
+* Utredning för att anpassa asyllagstiftningen till den rättsliga miniminivån enligt EU-rätten.
 * Utredning för att se över regelverket om förvar av utlänningar – bl.a. ökad säkerhet och elektronisk övervakning som alternativ.
 * Tilläggsdirektiv till utredningar om:
-\- En behovsprövad arbetskraftsinvandring
-\- Åtgärder för att stärka återvändandeverksamheten
-\- Ett ordnat initialt mottagande av asylsökande
+  - En behovsprövad arbetskraftsinvandring
+  - Åtgärder för att stärka återvändandeverksamheten
+  - Ett ordnat initialt mottagande av asylsökande
 
 ## Mål för samarbetsprojektet migration och integration
 
 När regeringen tillträdde sattes mål för samarbetsprojektet. Syftet med projektet är att ta fram en reformagenda med konkreta politiska förslag som löser Sveriges viktigaste samhällsproblem inom migrationspolitikens och integrationspolitikens område.
 
 * Paradigmskifte vad gäller synen på asylmottagande där utgångspunkten ska vara att skydd erbjuds den som flyr en konflikt eller kris tillfälligt och för den som flyr Sveriges närområde.
-* Sverige ska inte vara mer generöst i synen på asyl än vad som krävs enligt EU\-rätten eller andra juridiskt bindande internationella traktat.
-* Kravbaserad integrationspolitik \- den som långvarigt befinner sig i Sverige ska ta ansvar för att bli en del av det svenska samhället.
+* Sverige ska inte vara mer generöst i synen på asyl än vad som krävs enligt EU-rätten eller andra juridiskt bindande internationella traktat.
+* Kravbaserad integrationspolitik - den som långvarigt befinner sig i Sverige ska ta ansvar för att bli en del av det svenska samhället.
 * Sverige ska komma till rätta med skuggsamhället.
 * Underlätta för högkvalificerad arbetskraftsinvandring.

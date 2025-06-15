@@ -4,4 +4,4 @@ I promemorian lämnas förslag till en ny lag som ger regeringen befogenhet att 
 
 Förbuden ska behövas för att underlätta för viktiga samhällsfunktioner att fullgöra sina uppgifter. Regeringen ska också få meddela föreskrifter om sanktionsavgifter för den som bryter mot sådana förbud. De åtgärder som får vidtas med stöd av den föreslagna lagen ska begränsas att gälla till högst sex månader.
 
-Lagen föreslås träda i kraft den 1 mars 2024\.
+Lagen föreslås träda i kraft den 1 mars 2024.

@@ -11,6 +11,6 @@ Utredaren ska bland annat
 
 Utredaren ska lämna de författningsförslag som övervägandena ger anledning till.
 
-Uppdraget ska redovisas senast den 2 november 2017\.
+Uppdraget ska redovisas senast den 2 november 2017.
 
 [Pressmeddelande: Utredare ska föreslå åtgärder mot handel med hyreskontrakt](/pressmeddelanden/2017/02/utredare-ska-foresla-atgarder-mot-handel-med-hyreskontrakt/)

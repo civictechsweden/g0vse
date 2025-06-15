@@ -5,7 +5,7 @@ En särskild utredare ska analysera och föreslå hur Banverkets behov av elektr
 Utredaren ska bland annat:
 
 * analysera Banverkets fibernät ur ett ägarperspektiv,
-* beskriva fördelar och nackdelar ur Banverkets perspektiv med att ägarskapet för fibernät ligger inom Banverket alter\-nativt inom någon annan statlig myndighet eller statligt ägt bolag, samt
+* beskriva fördelar och nackdelar ur Banverkets perspektiv med att ägarskapet för fibernät ligger inom Banverket alter-nativt inom någon annan statlig myndighet eller statligt ägt bolag, samt
 * tillgodogöra sig erfarenheter från andra länder när det gäller organisatoriska lösningar för den typ av verksamhet som ICT bedriver.
 
-Uppdraget ska redovisas senast den 31 oktober 2010\.
+Uppdraget ska redovisas senast den 31 oktober 2010.

@@ -1,15 +1,14 @@
 # Överenskommelse om fiskekvoter för Östersjön
 
-När EU\-ländernas fiskeri\- och jordbruksministrar möttes den 11\-12 oktober enades de om fiskekvoter för Östersjön under 2022\. Beslutet innebär totalt sett minskade fiskemöjligheter för alla länder runt Östersjön.
-
+När EU-ländernas fiskeri- och jordbruksministrar möttes den 11-12 oktober enades de om fiskekvoter för Östersjön under 2022. Beslutet innebär totalt sett minskade fiskemöjligheter för alla länder runt Östersjön.
 
 ## Fiske i Östersjön 2022
 
-På oktobermötet i EU:s jordbruks\- och fiskeråd sker den årliga förhandlingen om vilka fiskerinivåer som ska tillåtas i Östersjön under det nästkommande året.
+På oktobermötet i EU:s jordbruks- och fiskeråd sker den årliga förhandlingen om vilka fiskerinivåer som ska tillåtas i Östersjön under det nästkommande året.
 
 Efter omfattande diskussioner som drog ut på tiden nåddes så småningom en överenskommelse.
 
-Överenskommelsen innebär att fiskemöjligheterna minskar 2022 jämfört med 2021\. Det gäller framför allt fiske av torsk och sill. Ett förbud införs mot riktat torskfiske i västra Östersjön och det förbud som finns sedan tidigare mot riktat fiske av den östliga torsken förlängs. Bara oundvikliga bifångster tillåts.
+Överenskommelsen innebär att fiskemöjligheterna minskar 2022 jämfört med 2021. Det gäller framför allt fiske av torsk och sill. Ett förbud införs mot riktat torskfiske i västra Östersjön och det förbud som finns sedan tidigare mot riktat fiske av den östliga torsken förlängs. Bara oundvikliga bifångster tillåts.
 
 Också fiske av sill minskar med stopp i västra Östersjön och sänkning i centrala Östersjön.
 
@@ -23,8 +22,8 @@ Beslutet antas få negativa konsekvenser för det svenska kustnära fisket, kust
 
 Medlemsländerna gav sin syn på de kommande förhandlingarna mellan EU, Storbritannien och Norge om fångstnivåer i gemensamma vatten.
 
-EU förhandlar årligen med Norge om fisket i gemensamma bestånd i Nordsjön och Skagerrak. Brexit har inneburit att en majoritet av arterna i Nordsjön från och med 2021 delas mellan EU, Norge och Storbritannien. Diskussionen mellan EU\-länderna om fångstnivåer var en viktig förberedelse inför den kommande förhandlingen mellan de tre parterna.
+EU förhandlar årligen med Norge om fisket i gemensamma bestånd i Nordsjön och Skagerrak. Brexit har inneburit att en majoritet av arterna i Nordsjön från och med 2021 delas mellan EU, Norge och Storbritannien. Diskussionen mellan EU-länderna om fångstnivåer var en viktig förberedelse inför den kommande förhandlingen mellan de tre parterna.
 
-Mötets första dag ägnades åt fiske och andra dagen åt en rad frågor på jord\- och skogsbruksområdet.
+Mötets första dag ägnades åt fiske och andra dagen åt en rad frågor på jord- och skogsbruksområdet.
 
 Statssekreterare Per Callenberg företrädde Sverige som ägde rum i Luxemburg.

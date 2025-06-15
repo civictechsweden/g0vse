@@ -1,7 +1,6 @@
 # Uppdrag avseende skolbarns hälsovanor
 
-Folkhälsomyndigheten har fått i uppdrag att utöka urvalet i undersökningen Skolbarns hälsovanor och analysera resultaten på läns\- och kommunnivå. Kartläggningen ska även inkludera nyanlända och asylsökande barns hälsa och psykiska hälsa genom att en så kallad baslinjemätning genomförs.
-
+Folkhälsomyndigheten har fått i uppdrag att utöka urvalet i undersökningen Skolbarns hälsovanor och analysera resultaten på läns- och kommunnivå. Kartläggningen ska även inkludera nyanlända och asylsökande barns hälsa och psykiska hälsa genom att en så kallad baslinjemätning genomförs.
 
 I uppdraget ingår att:
 

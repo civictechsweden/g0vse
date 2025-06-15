@@ -10,9 +10,9 @@ Utredaren ska bl.a.
 
 * överväga i vilken utsträck­ning det ska införas utökade möjligheter att använda preven­tiva tvångs­medel för att för­hindra allvarlig brotts­lighet som före­kommer inom ramen för krimi­nella nätverk och lämna författ­nings­förslag,
 * överväga i vilken utsträck­ning det ska införas nya möjlig­heter för de brotts­bekäm­pande myndig­heterna att använda husrann­sakan för att förhindra allvarlig brotts­lighet och vid behov lämna författ­nings­förslag,
-* ta ställning till om skyddet för privat\- och familje­livet respektive den personliga integri­teten bör stärkas och vid behov lämna sådana förslag, och
+* ta ställning till om skyddet för privat- och familje­livet respektive den personliga integri­teten bör stärkas och vid behov lämna sådana förslag, och
 * lämna förslag på de författ­nings­ändringar och andra åtgärder som bedöms nödvändiga.
 
-Utredaren ska noga väga behovet av en effektiv brotts­bekämp­ning mot den enskildes rätt till skydd för grund­läggande fri\- och rättigheter såsom den person­liga integriteten. Förslagen ska uppfylla högt ställda krav på rätts­säkerhet.
+Utredaren ska noga väga behovet av en effektiv brotts­bekämp­ning mot den enskildes rätt till skydd för grund­läggande fri- och rättigheter såsom den person­liga integriteten. Förslagen ska uppfylla högt ställda krav på rätts­säkerhet.
 
-Uppdraget ska redovisas senast den 2 februari 2023\.
+Uppdraget ska redovisas senast den 2 februari 2023.

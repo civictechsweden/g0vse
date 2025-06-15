@@ -12,6 +12,6 @@ Uppdraget innefattar att Läkemedelsverket ska vara den myndighet som för Sveri
 
 ## Test i fiktiva tillstånd
 
-Läkemedelsverket uppdras att tillsammans med de sex regionala etikprövningsnämnderna också testa samarbetsformerna i fiktiva tillståndsförfaranden. Detta för att se till att myndigheternas handläggning effektivt tillgodoser de krav som ställs i ovan nämnda EU\-förordning. I dessa testförfaranden ska även samarbetsformer prövas för att inhämta yttrande från biobanker och strålskyddskommittéer till berörd etikprövningsnämnd.
+Läkemedelsverket uppdras att tillsammans med de sex regionala etikprövningsnämnderna också testa samarbetsformerna i fiktiva tillståndsförfaranden. Detta för att se till att myndigheternas handläggning effektivt tillgodoser de krav som ställs i ovan nämnda EU-förordning. I dessa testförfaranden ska även samarbetsformer prövas för att inhämta yttrande från biobanker och strålskyddskommittéer till berörd etikprövningsnämnd.
 
 Läkemedelsverket ska efter samråd med de regionala etikprövningsnämnderna senast den 28 april 2017 redogöra för uppdragets utfall till Regeringskansliet.

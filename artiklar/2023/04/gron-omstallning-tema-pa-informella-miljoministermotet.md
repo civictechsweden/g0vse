@@ -1,11 +1,10 @@
 # Grön omställning tema på informella miljöministermötet
 
-Klimat\- och miljöminister Romina Pourmokhtari var värd när EU:s miljöministrar möttes i Stockholm den 18–19 april. Det informella ministermötets tema var den gröna omställningen och vilken roll näringslivet kan spela i arbetet med biologisk mångfald, cirkularitet och konkurrenskraft bland annat. Företagsledare från hela EU deltog i diskussionerna.
+Klimat- och miljöminister Romina Pourmokhtari var värd när EU:s miljöministrar möttes i Stockholm den 18–19 april. Det informella ministermötets tema var den gröna omställningen och vilken roll näringslivet kan spela i arbetet med biologisk mångfald, cirkularitet och konkurrenskraft bland annat. Företagsledare från hela EU deltog i diskussionerna.
 
+- Den gröna omställningen måste vara i fokus för Europas långsiktiga konkurrenskraft. På mötet lyfte vi konkreta frågor om hur omställningen kan genomföras. Vi diskuterade vilka förutsättningar, utmaningar, drivkrafter och flaskhalsar som finns och hur vi kan stärka samarbetet mellan beslutsfattare och företag, säger klimat- och miljöminister Romina Pourmokhtari.
 
-\- Den gröna omställningen måste vara i fokus för Europas långsiktiga konkurrenskraft. På mötet lyfte vi konkreta frågor om hur omställningen kan genomföras. Vi diskuterade vilka förutsättningar, utmaningar, drivkrafter och flaskhalsar som finns och hur vi kan stärka samarbetet mellan beslutsfattare och företag, säger klimat\- och miljöminister Romina Pourmokhtari.
-
-Mötet inleddes den 18 april med en diskussion i plenum kring sektorsövergripande frågor som är viktiga för den gröna omställningen. Tre inbjudna talare gav olika perspektiv på investeringar, hållbarhet och innovation, nämligen generaldirektör Jean\-Christophe Laloux från Europeiska investeringsbanken, doktor Martin Porter från Cambridge Institute of Sustainability Leadership och professor Mariana Mazzucato från University College London.
+Mötet inleddes den 18 april med en diskussion i plenum kring sektorsövergripande frågor som är viktiga för den gröna omställningen. Tre inbjudna talare gav olika perspektiv på investeringar, hållbarhet och innovation, nämligen generaldirektör Jean-Christophe Laloux från Europeiska investeringsbanken, doktor Martin Porter från Cambridge Institute of Sustainability Leadership och professor Mariana Mazzucato från University College London.
 
 En viktig del av den gröna omställningen kommer att genomföras av företagen i EU. Varje minister uppmanades därför att ta med en representant för en grön föregångare, ett företag som påtagligt bidragit till hållbar utveckling.
 

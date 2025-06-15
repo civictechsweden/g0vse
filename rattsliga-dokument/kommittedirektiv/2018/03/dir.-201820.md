@@ -4,4 +4,4 @@ Regeringen uppdrar åt en särskild utredare att kartlägga och belysa hur svens
 
 Kartläggningen har som mål att ge stöd i det fortsatta arbetet med överföra barnkonventionens bestämmelser inom olika rättsområden.
 
-Uppdraget ska redovisas senast den 15 november 2019\.
+Uppdraget ska redovisas senast den 15 november 2019.

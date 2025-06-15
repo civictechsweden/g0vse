@@ -2,14 +2,13 @@
 
 Den 21 september lämnade Cementa AB in en ansökan till regeringen. Ansökan gäller ett tillstånd enligt miljöbalken till täktverksamhet i Slite på Gotland. I dag kungör Miljödepartementet ansökan.
 
+Kungörelsen innebär bland annat att de som särskilt berörs av ansökan och allmänheten har möjlighet att yttra sig i ärendet. Yttranden ska lämnas senast den 18 oktober 2021.
 
-Kungörelsen innebär bland annat att de som särskilt berörs av ansökan och allmänheten har möjlighet att yttra sig i ärendet. Yttranden ska lämnas senast den 18 oktober 2021\.
-
-I samband med kungörelsen remitteras även ansökan till berörda myndigheter. Berörda myndigheter ska lämna sina yttranden senast den 14 oktober 2021\.
+I samband med kungörelsen remitteras även ansökan till berörda myndigheter. Berörda myndigheter ska lämna sina yttranden senast den 14 oktober 2021.
 
 ## Vad innehåller Cementa AB:s ansökan?
 
-Cementa AB ansöker om tillstånd till att fortsätta verksamheten vid bolagets kalkstenstäkter i Slite på Gotland i tre år. Ansökan omfattar brytning av kalk\- och märgelsten, drift av anläggning för krossning och annan utrustning för verksamheten samt bortledning av dag\- och grundvatten. Cementa AB har begärt att regeringen ska besluta om undantag från kraven på miljöbedömning i miljöbalken.
+Cementa AB ansöker om tillstånd till att fortsätta verksamheten vid bolagets kalkstenstäkter i Slite på Gotland i tre år. Ansökan omfattar brytning av kalk- och märgelsten, drift av anläggning för krossning och annan utrustning för verksamheten samt bortledning av dag- och grundvatten. Cementa AB har begärt att regeringen ska besluta om undantag från kraven på miljöbedömning i miljöbalken.
 
 ## Vad händer efter kungörelsetidens utgång?
 

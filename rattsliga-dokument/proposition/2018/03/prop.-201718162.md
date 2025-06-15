@@ -8,4 +8,4 @@ innebär att statsrådet eller statssekreteraren inte får påbörja ett nytt up
 I propositionen föreslås också en ändring i lagen om arvoden
 till statsråd m.m. som innebär att avdrag på ett statsråds arvode ska göras med 10 procent per dag då statsrådet är helt eller delvis frånvarande för att ta hand om sitt barn, om statsministern medgett sådan frånvaro.
 
-Regleringen föreslås träda i kraft den 1 juli 2018\.
+Regleringen föreslås träda i kraft den 1 juli 2018.

@@ -4,4 +4,4 @@ I propositionen föreslås att krav på att föra personalliggare införs för b
 
 Syftet med förslaget är att motverka förekomsten av svartarbete och främja en sundare konkurrens inom byggbranschen.
 
-Bestämmelserna föreslås träda i kraft den 1 januari 2016\.
+Bestämmelserna föreslås träda i kraft den 1 januari 2016.

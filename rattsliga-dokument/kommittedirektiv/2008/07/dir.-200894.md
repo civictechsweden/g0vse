@@ -8,4 +8,4 @@ Utredaren ska även analysera frågan om Sveriges tillträde till Europarådets 
 
 Utredaren ska lämna förslag till de författningsändringar som utvärderingen eller uppdraget i övrigt ger anledning till.
 
-Uppdraget ska redovisas senast den 29 oktober 2010\.
+Uppdraget ska redovisas senast den 29 oktober 2010.

@@ -8,8 +8,9 @@ Medlen kan användas för utökade insatser som stärker likvärdigheten och kun
 
 Så här mycket kan de kommunala skolorna i respektive län ansöka om:
 
-| Blekinge län | 101 392 320 kr |
+|  |  |
 | --- | --- |
+| Blekinge län | 101 392 320 kr |
 | Dalarnas län | 217 098 887 kr |
 | Gotlands län | 35 274 355 kr |
 | Gävleborgs län | 200 354 882 kr |

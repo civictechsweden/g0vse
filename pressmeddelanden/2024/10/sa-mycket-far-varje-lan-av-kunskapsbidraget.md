@@ -2,14 +2,15 @@
 
 – Sverige befinner sig i en läskris där var fjärde elev inte kan läsa ordentligt. För att skapa bättre förutsättningar för våra skolor att kunna sätta in tidiga stödinsatser, skapa fler särskilda undervisningsgrupper och anställa fler speciallärare förstärker vi Kunskapsbidraget ytterligare. Min förhoppning är att det här kan bidra till att vända utvecklingen, säger skolminister Lotta Edholm.
 
-Skolverket har nu tagit ett första beslut om preliminära bidragsramar för statsbidraget för 2025\. Bidragsramarna anger den summa som kommunala och fristående huvudmän kan ansöka om. I nuläget är det 7,5 miljarder kronor som fördelas, men regeringen har också föreslagit att statsbidraget ska förstärkas med 700 miljoner kronor. De ytterligare 700 miljonerna kommer att fördelas efter att riksdagen har beslutat om budgetpropositionen för 2025\.
+Skolverket har nu tagit ett första beslut om preliminära bidragsramar för statsbidraget för 2025. Bidragsramarna anger den summa som kommunala och fristående huvudmän kan ansöka om. I nuläget är det 7,5 miljarder kronor som fördelas, men regeringen har också föreslagit att statsbidraget ska förstärkas med 700 miljoner kronor. De ytterligare 700 miljonerna kommer att fördelas efter att riksdagen har beslutat om budgetpropositionen för 2025.
 
 Syftet med bidraget är att skolorna utifrån vetenskap och beprövad erfarenhet ska stärka utbildningens kvalitet, så att alla elever kan nå så långt som möjligt i sin kunskapsutveckling. Pengarna kan till exempel användas för att sätta in ytterligare tidiga stödinsatser, för att bilda fler särskilda undervisningsgrupper och för att anställa fler speciallärare. Statsbidraget betalas ut till kommunala och enskilda huvudmän för förskoleklass, grundskola och fritidshem.
 
 Så här mycket kan de kommunala skolorna i respektive län ansöka om:
 
-| Blekinge län | 100 554 627 kr |
+|  |  |
 | --- | --- |
+| Blekinge län | 100 554 627 kr |
 | Dalarnas län | 218 251 547 kr |
 | Gotlands län | 35 926 738 kr |
 | Gävleborgs län | 203 238 353 kr |

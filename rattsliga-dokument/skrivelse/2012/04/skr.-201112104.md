@@ -1,6 +1,6 @@
 # Utvärdering av statens upplåning och skuldförvaltning 2007-2011
 
-I skrivelsen utvärderar regeringen statens upplåning och skuldförvaltning under perioden 2007–2011\. Skrivelsen ska överlämnas till riksdagen senast den 25 april vartannat år. Utgångspunkten för utvärderingen är det av riksdagen beslutade målet för statsskuldspolitiken att statens skuld ska förvaltas så att kostnaden för skulden långsiktigt minimeras samtidigt som risken i förvaltningen beaktas, samt att förvaltningen ska ske inom ramen för de krav penningpolitiken ställer.
+I skrivelsen utvärderar regeringen statens upplåning och skuldförvaltning under perioden 2007–2011. Skrivelsen ska överlämnas till riksdagen senast den 25 april vartannat år. Utgångspunkten för utvärderingen är det av riksdagen beslutade målet för statsskuldspolitiken att statens skuld ska förvaltas så att kostnaden för skulden långsiktigt minimeras samtidigt som risken i förvaltningen beaktas, samt att förvaltningen ska ske inom ramen för de krav penningpolitiken ställer.
 
 Föremål för utvärderingen är såväl regeringens styrning som Riksgäldskontorets operativa förvaltning av statsskulden. Eftersom målet är långsiktigt utvärderas verksamheten i rullande femårsintervall.
 

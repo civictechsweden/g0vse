@@ -2,7 +2,6 @@
 
 Med anledning av aktuella medieuppgifter gör UD:s rättschef Anders Rönquist följande uttalande:
 
-
 "Vi har nåtts av nyheten att Anders Kompass den 17 april fick besked att han suspenderats från sin tjänst på Högkommissariens kontor i avvaktan på en utredning som ska göras av FN:s internrevisorer. Vi vet inte helt vad som läggs Kompass till last eller varför han suspenderats från sin tjänst utan får avvakta den utredning som nu görs.
 
 Anders Kompass har som tidigare chef för flera av FN:s kontor för mänskliga rättigheter i Latinamerika och som chef för avdelningen för fältoperationer hos FN:s högkommissarie för mänskliga rättigheter i Genève, gjort mycket stora insatser i FN:s arbete för mänskliga rättigheter.
@@ -13,4 +12,4 @@ Vad som är oroande är att uppgifter gör gällande att den suspendering Kompas
 
 FN måste ha nolltolerans mot sexuella övergrepp mot barn och verka för att misstankar om sådana övergrepp utreds.
 
-Sveriges FN\-ambassadör i New York har inte uttryckt sig så som tidningen Guardian påstår och har fullt förtroende för att FN kommer att genomföra sin undersökning på ett oberoende och trovärdigt sätt."
+Sveriges FN-ambassadör i New York har inte uttryckt sig så som tidningen Guardian påstår och har fullt förtroende för att FN kommer att genomföra sin undersökning på ett oberoende och trovärdigt sätt."

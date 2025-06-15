@@ -1,6 +1,6 @@
 # Johan Forssell träffar näringslivet för samtal om företagsverksamhet i utlandet
 
-– Regeringen är fast besluten att värna om våra relationer till omvärlden och att hjälpa svenska företag hantera de aktuella utmaningar som Sverige står inför. För att säkerställa att regeringen och UD är väl informerade om hur företagen ser på situationen vill jag ha en öppen och löpande dialog med de företag som berörs. Det är viktigt för att kunna ta del av företagens bedömning av hur regeringen bäst kan möta deras behov av stöd och åtgärder, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+– Regeringen är fast besluten att värna om våra relationer till omvärlden och att hjälpa svenska företag hantera de aktuella utmaningar som Sverige står inför. För att säkerställa att regeringen och UD är väl informerade om hur företagen ser på situationen vill jag ha en öppen och löpande dialog med de företag som berörs. Det är viktigt för att kunna ta del av företagens bedömning av hur regeringen bäst kan möta deras behov av stöd och åtgärder, säger bistånds- och utrikeshandelsminister Johan Forssell.
 
 Regeringen ser allvarligt på de hot som uppkommit till följd av skändningar av kopior av heliga skrifter i Sverige. Även om det är för tidigt att bedöma vilka konsekvenser den senaste händelseutvecklingen får är det viktigt för svenskt näringsliv att Sverige upprätthåller och utvecklar goda politiska och ekonomiska relationer.
 

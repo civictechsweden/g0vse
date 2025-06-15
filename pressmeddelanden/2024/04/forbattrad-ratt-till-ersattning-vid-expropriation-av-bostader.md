@@ -8,4 +8,4 @@ Regeringen föreslår därför att de boende ska ha en utökad rätt till ersät
 
 Förslagen innebär även en förstärkt rätt för bostadsrättshavare till expropriationsersättning. Dagens regler innebär en risk för att bostadsrättshavare inte får full ersättning för sina bostadsrätter vid expropriation, eftersom panthavare med säkerhet i bostadsrättsfastigheten har rätt att få betalt i första hand. Enligt lagrådsremissen ska bostadsrättshavare i skälig utsträckning kompenseras för detta genom en utökad rätt till ersättning.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2025\.
+Lagändringarna föreslås träda i kraft den 1 januari 2025.

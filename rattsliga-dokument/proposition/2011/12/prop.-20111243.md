@@ -4,6 +4,6 @@ Riksdagen föreslås godkänna protokollet om ändring av avtalet om uttag av en
 
 Ändringarna föreslås träda ikraft den dag regeringen bestämmer.
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+------------------------------------------------------
 
 Riksdagen fattade den 28 mars 2012 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

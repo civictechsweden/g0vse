@@ -19,4 +19,4 @@ Regeringen uppdrar åt följande myndigheter att i samverkan ta fram en nationel
 * Tullverket, och
 * Åklagarmyndigheten.
 
-Finansinspektionen ska samordna arbetet. Den nationella riskbedömningen i fråga om penningtvätt ska rapporteras av Finansinspektionen på samtliga berörda myndigheters vägnar till regeringen senast den 30 augusti 2013\. En motsvarande riskbedömning ska göras beträffande finansiering av terrorism. Den riskbedömningen ska rapporteras på liknande sätt senast den 28 mars 2014\.
+Finansinspektionen ska samordna arbetet. Den nationella riskbedömningen i fråga om penningtvätt ska rapporteras av Finansinspektionen på samtliga berörda myndigheters vägnar till regeringen senast den 30 augusti 2013. En motsvarande riskbedömning ska göras beträffande finansiering av terrorism. Den riskbedömningen ska rapporteras på liknande sätt senast den 28 mars 2014.

@@ -4,6 +4,6 @@ Som ett led i detta arbete remitteras nu ett delförslag i reformen av strandsky
 
 Samtidigt ska länsstyrelserna kunna införa strandskydd vid sådana småvatten, men bara om de har särskild betydelse för strandskyddets syften.
 
-– Detta är ett viktigt steg i liberaliseringen av strandskyddet, säger klimat\- och miljöminister Romina Pourmokhtari.
+– Detta är ett viktigt steg i liberaliseringen av strandskyddet, säger klimat- och miljöminister Romina Pourmokhtari.
 
 Propositionen Lättnader i strandskyddet – ett första steg, med förslag för att skapa ett mer ändamålsenligt strandskydd, planeras till i början av nästa år.

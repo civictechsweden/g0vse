@@ -9,4 +9,4 @@ Regeringen föreslår vidare att Överklagandenämnden för etikprövning ska ha
 
 Straffmaximum för den som uppsåtligen utför forskning utan ett etikgodkännande ska höjas från fängelse i sex månader till fängelse i två år. Detta innebär att preskriptionstiden förlängs från två till fem år. Samma straffskala ska införas för en forskningshuvudman som uppsåtligen underlåter att vidta förebyggande åtgärder, om forskning utförs utan ett etikgodkännande eller i strid med ett villkor som meddelats i samband med ett sådant godkännande. Straffansvar föreslås även för brott mot etikprövningslagen som begås av grov oaktsamhet.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2020\.
+Lagändringarna föreslås träda i kraft den 1 januari 2020.

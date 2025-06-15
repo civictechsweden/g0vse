@@ -6,4 +6,4 @@ Utredaren ska se över patientskadelagen för att göra det möjligt för patien
 
 Utredaren ska se över lagen om handel med vissa receptfria läkemedel. Detta för att nuvarande förfarande med anmälningsplikt för försäljning av vissa receptfria läkemedel ska ersättas med ett tillståndsförfarande. Översynen ska uppnå en dels mer ändamålsenlig uppdelning mellan kommunernas och Läkemedelsverkets roll i systemet, dels en ökad patientsäkerhet i fråga om dessa läkemedel.
 
-Uppdraget delredovisas senast den 27 maj 2022\. Den del som ska delredovisas är uppdraget om ägarförhållanden på apoteksmarknaden. Uppdraget slutredovisas senast den 17 mars 2023\.
+Uppdraget delredovisas senast den 27 maj 2022. Den del som ska delredovisas är uppdraget om ägarförhållanden på apoteksmarknaden. Uppdraget slutredovisas senast den 17 mars 2023.

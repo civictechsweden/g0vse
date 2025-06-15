@@ -1,11 +1,10 @@
 # Uppdrag till Socialstyrelsen att ta fram en plan inför eventuella nya utbrott av covid-19
 
-Regeringen uppdrar åt Socialstyrelsen att planera för insatser som kan bli aktuella i olika skeden av eventuella nya utbrott av covid\-19\.
-
+Regeringen uppdrar åt Socialstyrelsen att planera för insatser som kan bli aktuella i olika skeden av eventuella nya utbrott av covid-19.
 
 ## Nationell lagerhållning av utrustning och material
 
-Socialstyrelsen bedömer vilka insatser som kan bli aktuella för att stärka hälso\- och sjukvårdens samt socialtjänstens förmåga att effektivt hantera nya utbrott. Det kan exempelvis vara att bedöma om nationella lager behövs med skyddsutrustning och sjukvårdsmaterial.
+Socialstyrelsen bedömer vilka insatser som kan bli aktuella för att stärka hälso- och sjukvårdens samt socialtjänstens förmåga att effektivt hantera nya utbrott. Det kan exempelvis vara att bedöma om nationella lager behövs med skyddsutrustning och sjukvårdsmaterial.
 
 ## Bedömer kostnaderna för insatserna
 
@@ -21,4 +20,4 @@ I uppdraget får Socialstyrelsen hämta in nödvändig data. Då bör myndighete
 
 Uppdraget genomförs tillsammans med Folkhälsomyndigheten, Myndigheten för samhällsskydd och beredskap, Läkemedelsverket och länsstyrelserna vilka har fått liknande uppdrag. Socialstyrelsen ska även samtala med Sveriges Kommuner och Regioner.
 
-Uppdraget ska slutredovisas till Socialdepartementet senast den 1 september 2020\.
+Uppdraget ska slutredovisas till Socialdepartementet senast den 1 september 2020.

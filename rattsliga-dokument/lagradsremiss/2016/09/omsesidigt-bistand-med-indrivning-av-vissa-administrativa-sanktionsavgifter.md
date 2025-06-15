@@ -4,4 +4,4 @@ I lagrådsremissen föreslås en ny lag om ömsesidigt bistånd med indrivning a
 
 Slutligen föreslås en följdändring i lagen om indrivning av statliga fordringar m.m.
 
-Den nya lagen och lagändringen föreslås träda i kraft den 1 januari 2017\.
+Den nya lagen och lagändringen föreslås träda i kraft den 1 januari 2017.

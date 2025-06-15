@@ -8,6 +8,6 @@ För att fler ska komma i arbete har Arbetsmarknadsdepartementet gett en utredar
 
 Arbetsmarknadsdepartementet kommer i större utsträckning än tidigare att kroka arm med Utbildningsdepartementet och samarbeta bredare kring hur vi kan se till att människors kompetens möter arbetsmarknadens behov.
 
-– Det normala är att gå till jobbet. En nygammal arbetslinje är vad Sverige behöver i det osäkra läget i ekonomin som vi står inför. Då kan alla bli den bästa versionen av sig själva, och fler kan hjälpas ur sitt utanförskap. Från politikens sida handlar det om att ha höga förväntningar och ställa krav. Fler arbetslösa behöver flytta dit där jobben och utbildningar finns, säger arbetsmarknads\- och integrationsminister Johan Pehrson.
+– Det normala är att gå till jobbet. En nygammal arbetslinje är vad Sverige behöver i det osäkra läget i ekonomin som vi står inför. Då kan alla bli den bästa versionen av sig själva, och fler kan hjälpas ur sitt utanförskap. Från politikens sida handlar det om att ha höga förväntningar och ställa krav. Fler arbetslösa behöver flytta dit där jobben och utbildningar finns, säger arbetsmarknads- och integrationsminister Johan Pehrson.
 
 – Passivitet är skadligt för individen och vi vet att utbildningsnivån är lägre i utanförskapsområdena. Ett viktigt område är att öka övergången från arbetslöshet till utbildningar inom det reguljära utbildningssystemet. Regeringen fortsätter arbeta för att arbetslösa ska kunna kombinera olika studieformer, till exempel sfi och yrkesutbildning, säger utbildningsminister Mats Persson.

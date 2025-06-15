@@ -10,4 +10,4 @@ Utredaren ska bland annat:
 * bedöma om det finns behov av författningsreglerade bestämmelser om sekretess och tystnadsplikt, och
 * lämna sådana författningsförslag som är behövliga och lämpliga.
 
-Uppdraget ska redovisas senast den 28 februari 2019\.
+Uppdraget ska redovisas senast den 28 februari 2019.

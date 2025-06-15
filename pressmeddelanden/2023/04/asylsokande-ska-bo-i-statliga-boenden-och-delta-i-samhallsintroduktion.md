@@ -14,4 +14,4 @@ Asylsökande ska vara skyldiga att delta i samhälls­introduktion enligt lag. G
 
 – Det här är ett viktigt första steg för att få bättre ordning på asyl­mot­tagandet. Vi kommer att åter­komma med tilläggs­direktiv till utred­ningen för att förbättra mot­tagandet ytterligare, säger migrations­minister Maria Malmer Stenergard.
 
-Utredningen föreslår att lag­ändringarna träder i kraft den 1 april 2024\. För personer som är registrerade i mottagande­systemet vid ikraft­trädandet börjar dock flera av bestäm­melserna gälla först från och med den 1 april 2025\.
+Utredningen föreslår att lag­ändringarna träder i kraft den 1 april 2024. För personer som är registrerade i mottagande­systemet vid ikraft­trädandet börjar dock flera av bestäm­melserna gälla först från och med den 1 april 2025.

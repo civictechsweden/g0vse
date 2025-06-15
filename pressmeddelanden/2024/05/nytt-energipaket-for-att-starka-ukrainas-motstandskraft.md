@@ -1,6 +1,6 @@
 # Nytt energipaket för att stärka Ukrainas motståndskraft
 
-– Tillgången till energi är avgörande för att hålla det ukrainska samhället, ekonomin och näringslivet i gång. Sveriges stöd till Ukraina är kraftfullt och långsiktigt. Ryssland riktar alltmer sina attacker mot det ukrainska energisystemet i syfte att slå ut viktig samhällsinfrastruktur. För att stärka Ukrainas motståndskraft ökar vi nu vårt stöd till energiområdet, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+– Tillgången till energi är avgörande för att hålla det ukrainska samhället, ekonomin och näringslivet i gång. Sveriges stöd till Ukraina är kraftfullt och långsiktigt. Ryssland riktar alltmer sina attacker mot det ukrainska energisystemet i syfte att slå ut viktig samhällsinfrastruktur. För att stärka Ukrainas motståndskraft ökar vi nu vårt stöd till energiområdet, säger bistånds- och utrikeshandelsminister Johan Forssell.
 
 Sverige stöttar Ukraina politiskt, militärt, humanitärt och genom stöd till uppbyggnad, näringsliv och utveckling. Ukraina är numera den största bilaterala mottagaren av svenskt bistånd. Det nya svenska stödet till energiinfrastruktur finansieras från biståndsbudgeten och hanteras av Sida på uppdrag av regeringen. Det nya stödet består av två delar:
 

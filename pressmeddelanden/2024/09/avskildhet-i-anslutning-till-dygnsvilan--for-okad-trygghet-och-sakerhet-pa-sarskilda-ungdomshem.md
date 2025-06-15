@@ -4,4 +4,4 @@ Syftet med att införa en möjlighet att besluta om avskildhet i anslutning till
 
 Regeringen föreslår även ett förbud mot att i vissa fall hålla ett barn eller en ungdom avskild i anslutning till dygnsvilan. Förbudet syftar till att förhindra självskador och allvarliga psykiska konsekvenser för barnet eller den unge.
 
-Lagändringarna föreslås träda i kraft den 15 december 2024\.
+Lagändringarna föreslås träda i kraft den 15 december 2024.

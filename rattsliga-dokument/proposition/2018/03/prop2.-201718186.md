@@ -22,4 +22,4 @@ Regeringen redogör för behovet av fortsatt och systematiskt transformeringsarb
 
 Regeringen har beslutat ge en särskild utredare i uppdrag att  kartlägga och belysa hur svensk lagstiftning och praxis överensstämmer med barnkonventionen. Målet med kartläggningen är att stödja det fortsatta arbetet med transformeringen av barnkonventionens bestämmelser i olika rättsområden.
 
-Lagen föreslås träda i kraft den 1 januari 2020\.
+Lagen föreslås träda i kraft den 1 januari 2020.

@@ -1,7 +1,6 @@
 # Uppdrag om riktad tillsynsinsats med fokus på riskutsatta branscher för smittspridning av sjukdomen covid-19
 
-Regeringen uppdrar åt Arbetsmiljöverket att genomföra en riktad tillsynsinsats med fokus på riskutsatta branscher för smittspridning av sjukdomen covid\-19\. I uppdraget ingår att identifiera vilka branscher som är särskilt riskutsatta.
-
+Regeringen uppdrar åt Arbetsmiljöverket att genomföra en riktad tillsynsinsats med fokus på riskutsatta branscher för smittspridning av sjukdomen covid-19. I uppdraget ingår att identifiera vilka branscher som är särskilt riskutsatta.
 
 Uppdraget ska genomföras i dialog med Folkhälsomyndigheten
 Arbetet ska genomföras skyndsamt.

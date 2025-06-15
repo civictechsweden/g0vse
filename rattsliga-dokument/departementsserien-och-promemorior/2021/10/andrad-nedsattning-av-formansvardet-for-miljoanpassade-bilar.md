@@ -6,6 +6,6 @@ Förslaget innebär att nybilspriset för miljöanpassade bilar, vid beräkninge
 
 Ändringen föreslås träda i kraft den 1 juli 2022 och gälla för bilar som blir skattepliktiga enligt vägtrafikskattelagen för första gången från och med ikraftträdandet.
 
-Förslaget aviserades i budgetpropositionen för 2022 (prop. 2021/22:1 Förslag till statens budget, finansplan och skattefrågor avsnitt 11\.5\) och föranleder ändringar i inkomstskattelagen.
+Förslaget aviserades i budgetpropositionen för 2022 (prop. 2021/22:1 Förslag till statens budget, finansplan och skattefrågor avsnitt 11.5) och föranleder ändringar i inkomstskattelagen.
 
-Remissvaren ska ha kommit in till Finansdepartementet senast den 3 januari 2022\.
+Remissvaren ska ha kommit in till Finansdepartementet senast den 3 januari 2022.

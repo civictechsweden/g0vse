@@ -10,4 +10,4 @@ Myndigheten ska även, med utgångspunkt i kartläggningen, lämna rekommendatio
 
 Vetenskapsrådet ska inhämta synpunkter från berörda myndigheter och organisationer samt beakta pågående arbete hos dessa aktörer.
 
-Uppdraget ska slutredovisas senast den 1 december 2024\.
+Uppdraget ska slutredovisas senast den 1 december 2024.

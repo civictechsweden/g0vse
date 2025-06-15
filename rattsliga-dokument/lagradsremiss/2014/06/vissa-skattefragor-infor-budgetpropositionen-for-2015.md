@@ -8,4 +8,4 @@ Det finns också ett förslag om förändrat undantag från mervärdesskatt för
 
 Förslagen föranleder ändringar i mervärdesskattelagen, inkomstskattelagen och skatteförfarandelagen.
 
-Ändringarna föreslås träda i kraft den 1 januari 2015\.
+Ändringarna föreslås träda i kraft den 1 januari 2015.

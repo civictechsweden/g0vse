@@ -8,4 +8,4 @@ mervärdesskatt. Förslaget syftar till att förenkla för mindre företag och
 andra aktörer med liten verksamhet. Förslaget medför ändringar i
 mervärdesskattelagen.
 
-Lagändringen föreslås träda i kraft den 1 juli 2022\.
+Lagändringen föreslås träda i kraft den 1 juli 2022.

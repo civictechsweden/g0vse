@@ -6,9 +6,9 @@ Inflationen har under de senaste månaderna fallit tillbaka något, både i Sver
 
 – Vi ser ljuspunkter med en lägre inflationstakt, men kärninflationen är fortfarande för hög. Det pressar hushåll och företag hårt och bidrar till att svensk ekonomi går in i en lågkonjunktur. Nu måste vi vara uthålliga i inflationsbekämpningen så att vi kan vända utvecklingen i svensk ekonomi, säger finansminister Elisabeth Svantesson.
 
-Svensk arbetsmarknad är fortsatt stark, med rekordhög sysselsättningsgrad. Men till följd av den vikande konjunkturen väntas arbetslösheten öka 2023 och 2024\. Under loppet av 2025 väntas ekonomin börja återhämta sig vilket leder till att efterfrågan på arbetskraft ökar.
+Svensk arbetsmarknad är fortsatt stark, med rekordhög sysselsättningsgrad. Men till följd av den vikande konjunkturen väntas arbetslösheten öka 2023 och 2024. Under loppet av 2025 väntas ekonomin börja återhämta sig vilket leder till att efterfrågan på arbetskraft ökar.
 
-Prognosen är omgärdad av flera osäkerhetsfaktorer. Inflationens varaktighet, utvecklingen på bostads\- och fastighetsmarknaden samt den geopolitiska utvecklingen utgör några av dessa osäkerheter.
+Prognosen är omgärdad av flera osäkerhetsfaktorer. Inflationens varaktighet, utvecklingen på bostads- och fastighetsmarknaden samt den geopolitiska utvecklingen utgör några av dessa osäkerheter.
 
 – Vi befinner oss i ett pressat ekonomiskt läge men även i ett svårt säkerhetsläge. Fokus måste ligga på att få ner inflationen samtidigt som vi prioriterar nödvändiga förstärkningar av rättsväsende och försvar, säger Elisabeth Svantesson.
 

@@ -10,4 +10,4 @@ USA har tidigare ingått DCA med flera europeiska länder, bland annat med Norge
 
 Avtalet anger vilka av Försvarsmaktens områden och anläggningar som USA kommer ha tillgång till och möjlighet att besöka och vidta aktiviteter på. Se det bifogade avtalet för mer detaljer.
 
-DCA undertecknades av försvarsminister Pål Jonson och försvarsminister Lloyd J. Austin III tisdagen den 5 december 2023\. För att avtalet ska träda i kraft behöver riksdagen godkänna avtalet och besluta om författningsändringar som krävs för att genomföra det. Behandling i riksdagen följt av ett ikraftträdande bör kunna ske under 2024\.
+DCA undertecknades av försvarsminister Pål Jonson och försvarsminister Lloyd J. Austin III tisdagen den 5 december 2023. För att avtalet ska träda i kraft behöver riksdagen godkänna avtalet och besluta om författningsändringar som krävs för att genomföra det. Behandling i riksdagen följt av ett ikraftträdande bör kunna ske under 2024.

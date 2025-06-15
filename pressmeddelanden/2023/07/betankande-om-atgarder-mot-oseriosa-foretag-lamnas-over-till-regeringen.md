@@ -10,4 +10,4 @@ Det finns tydliga indika­tioner på att oseriösa företag används systema­ti
 * att maxstraffet för den som är målvakt i en styrelse eller utser någon annan till detta höjs från ett år till två års fängelse, och
 * att företags­kapning kriminali­seras genom en ny straff­bestämmelse.
 
-Utredningen föreslår att lag­ändringarna ska träda i kraft den 1 juli 2025 och att ändringen av förord­ningen med instruktion för Bolags­verket ska träda i kraft den 1 juli 2024\.
+Utredningen föreslår att lag­ändringarna ska träda i kraft den 1 juli 2025 och att ändringen av förord­ningen med instruktion för Bolags­verket ska träda i kraft den 1 juli 2024.

@@ -6,4 +6,4 @@ Samverkan mellan polis och socialtjänst är av stor betydelse i arbetet med att
 
 Vidare föreslår regeringen att det klargörs under vilka förutsättningar polisen enligt polislagen får tillfälligt omhänderta den som kan antas vara under 18 år och som anträffas under förhållanden som uppenbarligen innebär en överhängande och allvarlig risk för den unges hälsa eller utveckling. Omständigheter som ska beaktas vid riskbedömningen är om det kan befaras att den unge kommer att utsättas för brott, involveras i brottslig verksamhet eller skadas genom något annat socialt nedbrytande beteende.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2013\.
+Lagändringarna föreslås träda i kraft den 1 januari 2013.

@@ -4,4 +4,4 @@ En särskild utredare ska lämna förslag till hur det moderniserade yrkeskvalif
 
 Utredaren ska föreslå författningsändringar och andra åtgärder som behövs för att säkerställa ett korrekt genomförande av direktivet. Utredaren ska följa de förhandlingar om förslagen till ändring av yrkeskvalifikationsdirektivet som pågår inom Europeiska unionen (EU) och i sitt förslag utgå från det innehåll som direktivet får när det antas av Europaparlamentet och rådet.
 
-Uppdraget ska redovisas senast den 11 april 2014\.
+Uppdraget ska redovisas senast den 11 april 2014.

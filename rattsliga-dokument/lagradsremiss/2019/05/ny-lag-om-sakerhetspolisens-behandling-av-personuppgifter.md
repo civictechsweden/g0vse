@@ -6,4 +6,4 @@ Den nya lagen föreslås innehålla bestämmelser om bland annat grundläggande 
 
 Lagen ska gälla vid behandling av personuppgifter som rör nationell säkerhet i Säkerhetspolisens brottsbekämpande och lagförande verksamhet. När Säkerhetspolisen behandlar personuppgifter som inte rör nationell säkerhet i syfte att bekämpa och lagföra brott, ska myndigheten tillämpa brottsdatalagen och polisens brottsdatalag. Vidare föreslås följdändringar i ett antal andra lagar.
 
-Den nya lagen och övriga lagändringar föreslås träda i kraft den 1 januari 2020\.
+Den nya lagen och övriga lagändringar föreslås träda i kraft den 1 januari 2020.

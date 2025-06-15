@@ -1,5 +1,4 @@
 # Delegation för jämställdhet i högskolan
 
 En delegation ska stödja insatser och föreslå åtgärder som främjar jämställdhet i högskolan. Med högskolan avses i detta uppdrag hela högskolesektorn, dvs. såväl statliga universitet och högskolor som enskilda utbildningsanordnare med examenstillstånd samt organisationer med anknytning till sådana lärosäten. Delegationen ska särskilt uppmärksamma och motverka könsbundna utbildningsval till högskolan och den minskade andelen män som söker sig till högre utbildning. Delegationen ska även uppmärksamma skillnader mellan kvinnor och män vad avser studietakt, avhopp och benägenhet att avlägga examen samt kvinnors och mäns skilda möjligheter till forskarkarriär och den ojämna könsfördelningen på högre befattningar inom högskolan.
-
-Uppdraget ska slutligt redovisas senast den 1 januari 2011\.
+Uppdraget ska slutligt redovisas senast den 1 januari 2011.

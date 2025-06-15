@@ -12,4 +12,4 @@ Utifrån befintliga dataunderlag genomföra en översiktlig statistisk kartlägg
 
 Genomföra en fördjupad undersökning av faktorer som kan påverka förutsättningarna för demokratisk delaktighet hos personer med olika psykiska funktionsnedsättningar eller sjukdomar.
 
-Uppdraget ska redovisas senast den 18 oktober 2016\.
+Uppdraget ska redovisas senast den 18 oktober 2016.

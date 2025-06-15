@@ -8,6 +8,6 @@ Regeringen föreslår också att handläggningen enligt anläggningslagen ska f�
 enklare och billigare att göra nödvändiga ändringar. En samfällighetsförening ska även ges rätt att i fler fall än hittills företräda delägarna i en gemensamhetsanläggning vid förrättningar och överenskommelser.
 Ändringarna underlättar för såväl enskilda som handläggande myndigheter.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2015\.
+Lagändringarna föreslås träda i kraft den 1 juli 2015.
 
 [Pressmeddelande: Regeringen föreslår enklare och tydligare regler för samverkan mellan fastigheter](/pressmeddelanden/2015/03/regeringen-foreslar-enklare-och-tydligare-regler-for-samverkan-mellan-fastigheter/)

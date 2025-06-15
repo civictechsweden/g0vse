@@ -6,4 +6,4 @@ Polismyndigheten ska få införa en säkerhetszon i ett avgränsat område om de
 
 Inom en säkerhetszon ska polismän ha utvidgade befogenheter att kroppsvisitera personer och genomsöka transportmedel för att söka efter vapen och andra farliga föremål. Befogenheterna ska gälla på allmän plats och ingripanden ska få göras i den utsträckning det behövs för att förebygga eller förhindra den brottsliga verksamhet som zonen har införts för att motverka. Alla ingripanden ska dokumenteras i protokoll.
 
-Lagändringarna föreslås träda i kraft den 25 april 2024\.
+Lagändringarna föreslås träda i kraft den 25 april 2024.

@@ -11,4 +11,4 @@ Utredaren ska bland annat
 
 Det ingår inte i utredarens uppdrag att lämna förslag på grundlagsändringar.
 
-Uppdraget ska, i de delar som gäller språk\- och samhällskunskapskrav, redovisas senast den 15 oktober 2020\. I övriga delar ska uppdraget redovisas senast den 1 maj 2021\.
+Uppdraget ska, i de delar som gäller språk- och samhällskunskapskrav, redovisas senast den 15 oktober 2020. I övriga delar ska uppdraget redovisas senast den 1 maj 2021.

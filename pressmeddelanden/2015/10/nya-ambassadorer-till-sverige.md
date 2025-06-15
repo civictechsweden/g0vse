@@ -2,10 +2,9 @@
 
 Ambassadörerna från Tunisien, Grekland, Rumänien och Laos överlämnade torsdagen den 15 oktober 2015 sina kreditivbrev till H.M. Konungen i högtidlig audiens på Stockholms slott. Kreditivbrevet är en fullmakt utfärdad av ambassadörens statschef. I och med att brevet nu är överlämnat till Sveriges statschef kan ambassadören från i dag fullt ut representera sitt land i Sverige.
 
-
 ## H.E. Ms Fatma Omrani Chargui, Tunisien
 
-Tunisiens nyutnämnde ambassadör Ms Fatma Omrani Chargui är född 1970 och har tjänstgjort i utrikesministeriet sedan 1996\. Ms. Chargui har sedan 2012 varit chargé d’affaires vid Tunisiens ambassad i Stockholm.  Hon har under de senaste åren innehaft följande befattningar:
+Tunisiens nyutnämnde ambassadör Ms Fatma Omrani Chargui är född 1970 och har tjänstgjort i utrikesministeriet sedan 1996. Ms. Chargui har sedan 2012 varit chargé d’affaires vid Tunisiens ambassad i Stockholm.  Hon har under de senaste åren innehaft följande befattningar:
 
 2012–2015: Chargé d’affaires en pied vid Tunisiens ambassad i Sverige.
 
@@ -17,9 +16,9 @@ Tunisiens nyutnämnde ambassadör Ms Fatma Omrani Chargui är född 1970 och har
 
 ## H.E. Mr Dimitrios Touloupas, Grekland
 
-Greklands nyutnämnde ambassadör Mr Dimitrios Touloupas är född 1961 och har tjänstgjort i utrikesministeriet sedan 1984\. Han har en juristexamen från universitetet i Athen. Under de senaste åren har han innehaft bland annat följande befattningar:
+Greklands nyutnämnde ambassadör Mr Dimitrios Touloupas är född 1961 och har tjänstgjort i utrikesministeriet sedan 1984. Han har en juristexamen från universitetet i Athen. Under de senaste åren har han innehaft bland annat följande befattningar:
 
-2013–2015: Greklands ambassadör vid EU:s kommitté för utrikes\- och säkerhetspolitik i Bryssel.
+2013–2015: Greklands ambassadör vid EU:s kommitté för utrikes- och säkerhetspolitik i Bryssel.
 
 2009–2013: Chef för avdelningen för Turkiet vid utrikesministeriet i Athen.
 
@@ -27,7 +26,7 @@ Greklands nyutnämnde ambassadör Mr Dimitrios Touloupas är född 1961 och har 
 
 ## H.E. Mr Iulian Buga, Rumänien
 
-Rumäniens nyutnämnde ambassadör Mr Iulian Buga är född 1957 och har arbetat i utrikesministeriet sedan 1991\. Ambassadör Buga har under de senaste åren innehaft följande befattningar:
+Rumäniens nyutnämnde ambassadör Mr Iulian Buga är född 1957 och har arbetat i utrikesministeriet sedan 1991. Ambassadör Buga har under de senaste åren innehaft följande befattningar:
 
 2013–2015: Rumäniens ambassadör i USA.
 
@@ -39,7 +38,7 @@ Rumäniens nyutnämnde ambassadör Mr Iulian Buga är född 1957 och har arbetat
 
 ## H.E. Mr Bounpheng Saykanya, Laos
 
-Laos nyutnämnde ambassadör Mr Bounpheng Saykanya är född 1955 och har tjänstgjort i utrikesministeriet sedan 1980\. De senaste åren har han innehaft följande befattningar:
+Laos nyutnämnde ambassadör Mr Bounpheng Saykanya är född 1955 och har tjänstgjort i utrikesministeriet sedan 1980. De senaste åren har han innehaft följande befattningar:
 
 2013–2015: Chef för rättsavdelningen vid utrikeministeriet i Laos.
 

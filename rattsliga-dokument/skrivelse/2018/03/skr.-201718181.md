@@ -1,8 +1,8 @@
 # Riksrevisionens rapport om det samlade stödet till solel
 
-Riksrevisionen har granskat det samlade stödet till solel. Syftet med granskningen var att bedöma om det samlade stödet bidrar till EU:s och riksdagens mål inom energi\- och klimatpolitiken på ett samhällsekonomiskt effektivt sätt.
+Riksrevisionen har granskat det samlade stödet till solel. Syftet med granskningen var att bedöma om det samlade stödet bidrar till EU:s och riksdagens mål inom energi- och klimatpolitiken på ett samhällsekonomiskt effektivt sätt.
 
-Granskningen har redovisats i rapporten Det samlade stödet till solel (RiR 2017:29\).
+Granskningen har redovisats i rapporten Det samlade stödet till solel (RiR 2017:29).
 
 Riksrevisionens övergripande slutsats är att underlagen till stor del saknar samhällsekonomiska analyser och att stödens kostnadseffektivitet i förhållande till målet om en ökad förnybar elproduktion inte har belysts i tillräckligt omfattning.
 

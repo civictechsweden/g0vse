@@ -11,4 +11,4 @@ I uppdraget ingår att ta ställning till bland annat
 Utredaren ska föreslå de författningsändringar och andra åtgärder som
 behövs.
 
-Uppdraget ska redovisas senast den 20 december 2022\.
+Uppdraget ska redovisas senast den 20 december 2022.

@@ -1,8 +1,8 @@
 # Gemensamt uttalande från Kanada och Sverige om fortsatt arbete med kritiska råvaror, batterivärdekedjor och ny teknik
 
-François\-Philippe Champagne, Kanadas minister för innovation, forskning och näringsliv, och Ebba Busch, Sveriges energi\- och näringsminister samt vice statsminister, har gjort följande uttalande:
+François-Philippe Champagne, Kanadas minister för innovation, forskning och näringsliv, och Ebba Busch, Sveriges energi- och näringsminister samt vice statsminister, har gjort följande uttalande:
 
-I samband med att Ebba Busch besökte Kanada och deltog på de svensk\-kanadensiska innovationsdagarna i Quebec tillsammans med François\-Philippe Champagne åtog sig båda ministrarna att samarbeta och dra nytta av våra strategiska tillgångar – kritiska mineraler, ren energi och kompetens – för att vara ledande i en grön, digital framtid, främja ekonomisk utveckling och välbetalda arbetstillfällen samt uppnå våra högt satta klimatmål.
+I samband med att Ebba Busch besökte Kanada och deltog på de svensk-kanadensiska innovationsdagarna i Quebec tillsammans med François-Philippe Champagne åtog sig båda ministrarna att samarbeta och dra nytta av våra strategiska tillgångar – kritiska mineraler, ren energi och kompetens – för att vara ledande i en grön, digital framtid, främja ekonomisk utveckling och välbetalda arbetstillfällen samt uppnå våra högt satta klimatmål.
 
 Våra länder har industrier som kompletterar varandra och kunskapscentrum med ledande innovativa företag. Vi har kommit överens om att vidareutveckla våra länders bilaterala samarbete för att främja innovation, forskning och införande av renare teknik, bland annat små modulära reaktorer (SMR:er) med tillhörande leveranskedjor. Vi ser fram emot fler företagssamarbeten och möjligheter att främja framväxten av starka ekosystem med innovativa företag från våra båda länder.
 

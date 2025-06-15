@@ -8,4 +8,4 @@ I förslaget finns också begränsningar för hur mycket varje konsument får k�
 
 De nya reglerna föreslås träda i kraft den 1 juni 2025 och de nya bestämmelserna om gårdsförsäljning föreslås gälla i sex år från ikraftträdandet. Reformen föreslås utvärderas efter några år och utvärderingen ska ligga till grund för beslut om regleringen bör förlängas eller göras permanent.
 
-Förslaget kommer också att skickas för så kallad notifiering till EU\-kommissionen.
+Förslaget kommer också att skickas för så kallad notifiering till EU-kommissionen.

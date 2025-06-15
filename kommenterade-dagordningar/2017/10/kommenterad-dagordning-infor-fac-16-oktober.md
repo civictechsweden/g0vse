@@ -3,7 +3,7 @@
 På dagordningen inför mötet i FAC den 16 oktober 2017:
 
 * Godkännande av dagordningen
-* A\-punkter
+* A-punkter
 * Iran
 * Nordkorea
 * Mänskliga rättigheter

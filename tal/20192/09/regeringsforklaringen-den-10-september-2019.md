@@ -1,7 +1,6 @@
 # Regeringsförklaringen den 10 september 2019
 
-Statsminister Stefan Löfven, riksdagen, den 10 september 2019\.
-
+Statsminister Stefan Löfven, riksdagen, den 10 september 2019.
 
 Eders Majestäter, Eders Kungliga Högheter,
 Herr talman, Ärade ledamöter av Sveriges riksdag!
@@ -24,7 +23,7 @@ Sveriges säkerhetspolitiska linje ligger fast. Stabiliteten och säkerheten i n
 
 Vårt lands försvarsförmåga fortsätter att stärkas. Under 2020 läggs en försvarspolitisk proposition med Försvarsberedningens betänkan­den som grund. Ett brett stöd finns nu för finansieringen.
 
-Den transatlantiska länken värnas och våra försvarssamarbeten fördjupas, inte minst runt Östersjön. Det ska gå snabbare att ge och ta emot operativt stöd inom det finsk\-svenska samarbetet.
+Den transatlantiska länken värnas och våra försvarssamarbeten fördjupas, inte minst runt Östersjön. Det ska gå snabbare att ge och ta emot operativt stöd inom det finsk-svenska samarbetet.
 
 Säkerheten i Sveriges närområde har försämrats. Rysslands illegala annektering av Krim och intervention i Ukraina är tydliga brott mot internationell rätt och den europeiska säkerhetsordningen. Vi står upp för EU:s sanktioner samtidigt som vi har kontakter och dialog med Ryssland och det ryska samhället.
 
@@ -34,7 +33,7 @@ Sverige möter nya former av hot och utmaningar. Genomförandet av den nationell
 
 Medlemskapet i Europeiska unionen är ett fundament för Sverige och en självklar del i vårt nationella, europeiska och globala arbete.
 
-Nu inleds en ny lagstiftningsperiod i EU. Sverige arbetar för en handlingskraftig union, ett medborgarnas EU som stöder skapandet av fler jobb med rättvisa villkor. Ett EU som bidrar till säkerheten och är ledande i miljö\- och klimatarbetet. Vi kommer att arbeta för att upprätthålla respekten för unionens värderingar.
+Nu inleds en ny lagstiftningsperiod i EU. Sverige arbetar för en handlingskraftig union, ett medborgarnas EU som stöder skapandet av fler jobb med rättvisa villkor. Ett EU som bidrar till säkerheten och är ledande i miljö- och klimatarbetet. Vi kommer att arbeta för att upprätthålla respekten för unionens värderingar.
 
 Ökade risker för ett fullskaligt handelskrig understryker behovet av att Sverige är en röst för fri, hållbar och rättvis handel. Världshandeln ska bygga på ordning och regler – inte på den starkes rätt.
 
@@ -54,13 +53,13 @@ Den svenska migrationspolitiken ska vara rättssäker, effektiv och human. Polit
 
 Att alternativt skyddsbehövande och flyktingar får samma rätt att i Sverige återförenas med barn, partner eller föräldrar är en humanitär reform som dessutom bidrar till integrationen.
 
-Det ska bli möjligt för Migrationsverket att åter snabbt kunna hantera asyl\-ansökningar från personer från så kallade säkra ursprungsländer. En oberoende granskning av metoden för medicinska åldersbedömningar ska genomföras.
+Det ska bli möjligt för Migrationsverket att åter snabbt kunna hantera asyl-ansökningar från personer från så kallade säkra ursprungsländer. En oberoende granskning av metoden för medicinska åldersbedömningar ska genomföras.
 
 En framgångsrik kamp mot krig, terrorism och global uppvärmning krävs för att färre ska tvingas på flykt.
 
 \* \* \*
 
-Vår generation är den första som kan utrota fattigdom i världen och den sista som kan stoppa den globala uppvärmningen. Sverige ska gå i bräschen för Agenda 2030\.
+Vår generation är den första som kan utrota fattigdom i världen och den sista som kan stoppa den globala uppvärmningen. Sverige ska gå i bräschen för Agenda 2030.
 
 Demokratifokuset i biståndet stärks.
 
@@ -100,7 +99,7 @@ Servicekontor, där flera statliga myndigheter erbjuder medborgarna tjänster, �
 
 Det svenska näringslivets ambitiösa klimatåtaganden imponerar. Folkligt engagemang, innovativa företag och tuffa klimatkrav leder till resultat. Ny miljöteknik och nya innovationer ger oss möjlighet att exportera produkter och tjänster som världen efterfrågar. Så skapas nya jobb.
 
-Dagligvaruhandeln, gruv\- och mineralbranschen och cement­industrin är exempel på branscher som har tagit fram färdplaner för att bli fossilfria. En spännande och världsunik utveckling av koldioxidfri stålproduktion pågår nu i Luleå.
+Dagligvaruhandeln, gruv- och mineralbranschen och cement­industrin är exempel på branscher som har tagit fram färdplaner för att bli fossilfria. En spännande och världsunik utveckling av koldioxidfri stålproduktion pågår nu i Luleå.
 
 Sveriges råvaruresurser ska nyttjas mer effektivt och hållbart. Prövningsprocesser och regelverk behöver ses över så att hänsyn tas till både samhällsnytta och lokal miljöpåverkan när ett projekt prövas.
 
@@ -112,7 +111,7 @@ Genom enklare regler kan fler runt om i landet ta chansen att starta företag. K
 
 Svensk natur, svensk mat och svenska besöksmål tillhör vårt lands stora tillgångar.
 
-Det går bra för svensk turism. Sedan millennieskiftet har syssel­sättningen inom besöksnäringen ökat med drygt 40 000 personer. En nationell strategi ska stärka besöksnäringen som en viktig jobb\- och tillväxtmotor i hela landet.
+Det går bra för svensk turism. Sedan millennieskiftet har syssel­sättningen inom besöksnäringen ökat med drygt 40 000 personer. En nationell strategi ska stärka besöksnäringen som en viktig jobb- och tillväxtmotor i hela landet.
 
 Svenska bönder producerar varor i världsklass. Genom fortsatta satsningar på livsmedelsstrategin och ett kraftfullt bondepaket stärks det svenska jordbrukets konkurrenskraft.
 
@@ -128,7 +127,7 @@ Villkoren för de gröna näringarna står högt på regeringens dagordning.
 
 En fungerande bostadsmarknad är en förutsättning både för människors trygghet och för en dynamisk arbetsmarknad.
 
-Under förra året färdigställdes det största antalet lägenheter sedan 1973\. Samtidigt rapporterar 240 kommuner att de har ett underskott av bostäder. Regeringen avser att samla alla aktörer på bostadsmarknaden kring det gemensamma intresset att trygga en fortsatt hög byggtakt.
+Under förra året färdigställdes det största antalet lägenheter sedan 1973. Samtidigt rapporterar 240 kommuner att de har ett underskott av bostäder. Regeringen avser att samla alla aktörer på bostadsmarknaden kring det gemensamma intresset att trygga en fortsatt hög byggtakt.
 
 Investeringsstödet koncentreras och effektiviseras samt riktas mot studentbostäder och hyresrätter med rimliga hyror i hela landet. Vi förenklar byggreglerna och ser över hyressystemet. Krav på klimat­deklarationer och mer byggande i trä bidrar till samhällets omställning.
 
@@ -168,11 +167,11 @@ Juli månad i år var den varmaste som uppmätts. Greta Thunberg har blivit en g
 
 Samtidigt ska Sverige skapa och utveckla jobb och välfärd i en tuff global konkurrens och i snabb teknikutveckling. Ingen ska lämnas efter i det nya samhällsbygget.
 
-Vårt land ska bli världens första fossilfria välfärdsland. Det kommer att påverka alla delar av samhället och genomsyra politiken. En klimat\-handlingsplan ska beslutas.
+Vårt land ska bli världens första fossilfria välfärdsland. Det kommer att påverka alla delar av samhället och genomsyra politiken. En klimat-handlingsplan ska beslutas.
 
 En kraftfull grön skatteväxling har påbörjats och kommer att öka de kommande åren. Nu kommer också en svensk statlig grön obligation.
 
-Senast år 2045 ska Sverige inte längre ha några nettoutsläpp av växthusgaser. Det kommer att kräva stora tekniksprång. Industriklivet innebär ett stöd till företag hela vägen från forsknings\- och innovations­projekt till demonstrationsanläggningar och fullskalig produktion.
+Senast år 2045 ska Sverige inte längre ha några nettoutsläpp av växthusgaser. Det kommer att kräva stora tekniksprång. Industriklivet innebär ett stöd till företag hela vägen från forsknings- och innovations­projekt till demonstrationsanläggningar och fullskalig produktion.
 
 Vi ska klara omställningen och vi ska göra det på samma sätt som förr: Tillsammans.
 
@@ -188,7 +187,7 @@ Herr talman,
 
 Den internationella konjunkturen mattas nu av och det påverkar ekonomin här hemma. På arbetsmarknaden ser vi en fortsatt hög syssel­sättningsgrad men också rekryteringsproblem, inte minst i välfärden.
 
-Statsskuldens andel av bnp är på samma nivå som 1977\. En låg skuld ger oss en styrka om konjunkturen försvagas ytterligare, en styrka många länder saknar.
+Statsskuldens andel av bnp är på samma nivå som 1977. En låg skuld ger oss en styrka om konjunkturen försvagas ytterligare, en styrka många länder saknar.
 
 Regeringen vill använda reformutrymmet för att få fler i arbete, fler poliser, en starkare välfärd, bättre ekonomi för pensionärer och en kraftfull klimatomställning.
 
@@ -198,7 +197,7 @@ En bankskatt ska införas för att finansiera satsningar på försvaret.
 
 Arbetet mot skattefusk och skatteundandragande fortsätter oförtrutet. När skatteflykten är gränsöverskridande måste också arbetet mot den vara det.
 
-Pensionärerna har i genomsnitt fått 1 600 kronor mer i plånboken per månad jämfört med 2014\. Nu fortsätter förstärkningen av pensionärernas ekonomi. Nästa år kommer garantipensionen och taket i bostadstillägget för pensionärer höjas. Utfasningen av den orättfärdiga pensionärsskatten fortsätter.
+Pensionärerna har i genomsnitt fått 1 600 kronor mer i plånboken per månad jämfört med 2014. Nu fortsätter förstärkningen av pensionärernas ekonomi. Nästa år kommer garantipensionen och taket i bostadstillägget för pensionärer höjas. Utfasningen av den orättfärdiga pensionärsskatten fortsätter.
 
 \* \* \*
 
@@ -212,7 +211,7 @@ Det finns inga genvägar till att höja kunskaperna i den svenska skolan. Det m�
 
 En nationell plan för trygghet och studiero i skolan ska tas fram och ett mobilförbud på lektionstid ska införas. För de skolor som önskar införs en möjlighet att ge betyg från årskurs fyra.
 
-Skolan ska vara en mötesplats för elever med olika bakgrund. Regeringen tar de första stegen mot ett etableringsstopp för fristående grund\- och gymnasieskolor med konfessionell inriktning.
+Skolan ska vara en mötesplats för elever med olika bakgrund. Regeringen tar de första stegen mot ett etableringsstopp för fristående grund- och gymnasieskolor med konfessionell inriktning.
 
 Nyckeln till en stark kunskapsskola är fler kunniga och kompetenta lärare och fler anställda som kan avlasta lärarna. Insatser krävs för att möta lärarbristen. Möjligheterna att studera till lärare parallellt med arbete i skolan förbättras. Fler högskoleutbildade ska kunna växla karriär och bli lärare. Det statliga stödet för att anställa lärarassistenter förstärks.
 
@@ -258,7 +257,7 @@ Parterna på arbetsmarknaden har ett stort ansvar för att minska arbetsrelatera
 
 \* \* \*
 
-Joakim Bergs textrader ur Kent\-låten Elite fångar en känsla många delar:
+Joakim Bergs textrader ur Kent-låten Elite fångar en känsla många delar:
 
 ”Min släkt är full av hjältar
 
@@ -288,17 +287,17 @@ Sverige ska ha en sjukförsäkring som är trygg, rättssäker och begriplig med
 
 \* \* \*
 
-Sverige ska ha en sjukvård i världsklass och den ska finnas där för alla. Därför tar regeringen krafttag för en tryggare, mer tillgänglig och jämlik hälso\- och sjukvård.
+Sverige ska ha en sjukvård i världsklass och den ska finnas där för alla. Därför tar regeringen krafttag för en tryggare, mer tillgänglig och jämlik hälso- och sjukvård.
 
 Vi ska vara stolta över den höga kvaliteten i svensk sjukvård. Varje dag räddar vårdpersonalen livet på akut och svårt sjuka patienter. Samtidigt behöver inte minst primärvården utvecklas vidare. Den har unika förutsättningar att se till hela vårdbehovet och främja en god hälsa. Regeringen kommer att rusta den nära vården.
 
 För att förbättra kontinuiteten i sjukvården ska rätten till fast läkarkontakt säkras. Patientkontrakt ska ge både patienten och sjukvården en överblick över alla inplanerade vårdbesök.
 
-Den psykiska ohälsan är ett av vår tids stora samhällsproblem. Tidiga insatser är viktiga för att minska lidandet och förhindra att lindriga problem blir allvarliga. För att göra det enklare att få hjälp förbereds en ny vårdform för lättare psykisk ohälsa. Köerna i barn\- och ungdomspsykiatrin ska minska och elevhälsan värnas.
+Den psykiska ohälsan är ett av vår tids stora samhällsproblem. Tidiga insatser är viktiga för att minska lidandet och förhindra att lindriga problem blir allvarliga. För att göra det enklare att få hjälp förbereds en ny vårdform för lättare psykisk ohälsa. Köerna i barn- och ungdomspsykiatrin ska minska och elevhälsan värnas.
 
 Herr talman,
 
-Larmet kom till polisen klockan 09\.58 en måndagsförmiddag. Kvinnan på Ribersborg var 31 år gammal. Hon sköts till döds på öppen gata när hon var ute med sitt lilla barn. Den bottenlösa tragedin lämnar ingen i Sverige oberörd.
+Larmet kom till polisen klockan 09.58 en måndagsförmiddag. Kvinnan på Ribersborg var 31 år gammal. Hon sköts till döds på öppen gata när hon var ute med sitt lilla barn. Den bottenlösa tragedin lämnar ingen i Sverige oberörd.
 
 Den våldsamma brottsligheten skapar ett enormt lidande i samhället. Pojkar lockas in i en kriminell karriär som antingen slutar med döden eller med långa fängelsestraff. Anhöriga till brottsoffer drabbas hårt.
 
@@ -346,7 +345,7 @@ Alla barn har rätt att växa i nyfikenhet och kreativitet. Kulturskolan ska fin
 
 Om 112 dagar blir barnkonventionen svensk lag. Alla barn ska kunna komma till tals och ha en möjlighet att hävda sina rättigheter.
 
-Lagstiftningen kring föräldraskap ses över för att göras mer könsneutral. Det är en del i regeringens arbete med att stärka hbtq\-personers rättigheter.
+Lagstiftningen kring föräldraskap ses över för att göras mer könsneutral. Det är en del i regeringens arbete med att stärka hbtq-personers rättigheter.
 
 \* \* \*
 

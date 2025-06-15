@@ -6,6 +6,6 @@ I lagrådsremissen lämnas även förslag om återköp av pensionsförsäkring o
 
 I lagrådsremissen föreslås också att obegränsat skattskyldiga som har ingått ett avtal om tjänstepension med ett utländskt tjänstepensionsinstitut ska ha möjlighet att sätta ned avkastningsskatten med ett belopp som motsvarar den utländska skatt eller kupongskatt som kan hänföras till tjänstepensionsavtalet.
 
-Förslagen föranleder ändringar i inkomstskattelagen (1999:1229\) och lagen (1990:661\) om avkastningsskatt på pensionsmedel.
+Förslagen föranleder ändringar i inkomstskattelagen (1999:1229) och lagen (1990:661) om avkastningsskatt på pensionsmedel.
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2016\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2016.

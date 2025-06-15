@@ -2,7 +2,6 @@
 
 Sedan 1 januari 2023 ansvarar Socialdepartementet för frågor som tidigare legat inom andra departements områden. För dig som prenumererar på det som publiceras från Socialdepartementet innebär det att du kan behöva uppdatera inställningarna i din prenumeration från regeringens webbplats.
 
-
 Utöver att vissa frågor flyttat till departement har även andra politikområden på Socialdepartementet justerats.
 
 Ansvarsområden som påverkas efter årsskiftet:

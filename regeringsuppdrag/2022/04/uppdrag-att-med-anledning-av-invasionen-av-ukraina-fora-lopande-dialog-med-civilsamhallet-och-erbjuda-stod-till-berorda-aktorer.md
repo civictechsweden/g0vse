@@ -2,7 +2,6 @@
 
 Barnombudsmannen ska, med anledning av invasionen i Ukraina, samtala med berörda företrädare för civilsamhället. Parterna ska utbyta kunskap om situationen för barn och unga och nå ut med korrekt och barnanpassad information. Myndigheten ska utgå från de rättigheter barn har inom olika delar av samhället.
 
-
 Om det behövs ska Barnombudsmannen erbjuda stöd för att anpassa information och kunskap riktad till barn. Detta såväl till aktörer inom civilsamhället som till statliga, regionala och lokala myndigheter.
 
 Informationen kan dels gälla oro i den rådande situationen, dels vad som gäller vid ankomst till Sverige.

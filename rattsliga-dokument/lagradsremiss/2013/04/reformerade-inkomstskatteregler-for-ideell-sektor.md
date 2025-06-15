@@ -4,6 +4,6 @@ I lagrådsremissen föreslås att enhetliga bestämmelser införs om allmännytt
 
 De allmännyttiga ändamålen ska kunna tillgodoses antingen genom egen verksamhet eller genom bidrag till en annan allmännyttig organisation.
 
-Verksamhetskravet föreslås få en mer tydlig utformning för att öka rättssäkerheten vid tillämpningen. Förutom att fullföljdskravet också föreslås få en mer tydlig utformning föreslås i lagrådsremissen en något mer generös tillämpning av fullföljdskravet. I lagrådsremissen föreslås även att öppenhetskravet för central\-, distrikts\- och samarbetsorganisationer förtydligas. Dessutom förtydligas situationen för de registrerade trossamfunden och dess självständiga organisatoriska delar.
+Verksamhetskravet föreslås få en mer tydlig utformning för att öka rättssäkerheten vid tillämpningen. Förutom att fullföljdskravet också föreslås få en mer tydlig utformning föreslås i lagrådsremissen en något mer generös tillämpning av fullföljdskravet. I lagrådsremissen föreslås även att öppenhetskravet för central-, distrikts- och samarbetsorganisationer förtydligas. Dessutom förtydligas situationen för de registrerade trossamfunden och dess självständiga organisatoriska delar.
 
-De nya reglerna föreslås träda i kraft den 1 januari 2014\.
+De nya reglerna föreslås träda i kraft den 1 januari 2014.

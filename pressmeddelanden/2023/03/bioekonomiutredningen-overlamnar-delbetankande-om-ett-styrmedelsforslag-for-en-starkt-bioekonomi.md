@@ -1,6 +1,6 @@
 # Bioekonomiutredningen överlämnar delbetänkande om ett styrmedelsförslag för en stärkt bioekonomi
 
-Delbetänkandet som presenterades idag handlar om produktion av biodrivmedel. Bioekonomiutredningens arbete fortsätter nu med huvuduppgiften att ta fram förslag till en nationell strategi inklusive uppföljningsbara mål för en hållbar, konkurrenskraftig och växande bioekonomi. Utredningens slutbetänkande ska redovisas till regeringen 31 oktober 2023\.
+Delbetänkandet som presenterades idag handlar om produktion av biodrivmedel. Bioekonomiutredningens arbete fortsätter nu med huvuduppgiften att ta fram förslag till en nationell strategi inklusive uppföljningsbara mål för en hållbar, konkurrenskraftig och växande bioekonomi. Utredningens slutbetänkande ska redovisas till regeringen 31 oktober 2023.
 
 ## Fakta om uppdraget
 

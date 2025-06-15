@@ -6,4 +6,4 @@ Utbildningsministrarna förväntas godkänna slutsatser om färdigheter och komp
 
 Ministrarna kommer också att hålla en riktlinjedebatt om de utmaningar som finns i medlemsstaterna gällande lärarbristen och vad som skulle kunna göras på europeisk nivå för att bidra till att attrahera, vidareutbilda och behålla kvalificerade och välutbildade lärare och utbildare.
 
-Slutligen kommer EU\-kommissionen att informera om sitt initiativ för att fira Europeiska författares dag som kommer att högtidlighållas för första gången den 27 mars 2023\.
+Slutligen kommer EU-kommissionen att informera om sitt initiativ för att fira Europeiska författares dag som kommer att högtidlighållas för första gången den 27 mars 2023.

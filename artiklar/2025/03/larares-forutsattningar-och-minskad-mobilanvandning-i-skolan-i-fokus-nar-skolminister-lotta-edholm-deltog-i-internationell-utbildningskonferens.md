@@ -1,12 +1,12 @@
 # Lärares förutsättningar och minskad mobilanvändning i skolan i fokus när skolminister Lotta Edholm deltog i internationell utbildningskonferens
 
-Skolminister Lotta Edholm deltog den 24–26 april i årets upplaga av ISTP på Island. På konferensen träffades utbildningsministrar, experter och fackliga företrädare för att diskutera utmaningar i utbildningssystemen och hur lärarprofessionen kan stärkas.
+Skolminister Lotta Edholm deltog den 24–26 mars i årets upplaga av ISTP på Island. På konferensen träffades utbildningsministrar, experter och fackliga företrädare för att diskutera utmaningar i utbildningssystemen och hur lärarprofessionen kan stärkas.
 
 International Summit on the Teaching Profession (ISTP) är en internationell konferens som årligen samlar utbildningsministrar och ledare för lärarfacken från OECD:s medlemsländer för att genom öppen dialog samtala om hur man bäst kan stärka läraryrket och höja elevernas prestationer. Under konferensen blandas erfarenhetsutbyte med skolbesök och föredrag om aktuell forskning. Årets konferens hade temat Utbildning av hög kvalitet – nyckeln till välstånd och välbefinnande.
 
 – Det var mycket intressanta dagar med många spännande möten. Inte minst är det givande att träffa ministerkollegor från andra länder och diskutera gemensamma utmaningar, till exempel att det behövs ett ökat fokus på grundläggande kunskaper i skolan, att mobilerna stör i klassrummet och att lärare behöver få bättre förutsättningar, säger skolminister Lotta Edholm.
 
-– På de anföranden jag höll under konferensen betonade jag vikten av att behålla behöriga och legitimerade lärare, förbättra arbetsvillkoren och arbetsmiljö samt öka likvärdigheten genom ett mer träffsäkert finansieringssystem, säger Anna Olskog, förbundsordförande för Sveriges Lärare.
+– I mina anföranden jag höll under konferensen betonade jag vikten av att behålla behöriga och legitimerade lärare, förbättra arbetsvillkoren och arbetsmiljö samt öka likvärdigheten genom ett mer träffsäkert finansieringssystem, säger Anna Olskog, förbundsordförande för Sveriges Lärare.
 
 Sveriges delegation till årets ISTP leddes av skolministern, och i delegationen ingick även Anna Olskog, förbundsordförande för Sveriges Lärare och Linda Fälth, professor och biträdande vicerektor för lärarutbildningarna vid Linnéuniversitetet.
 

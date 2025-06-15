@@ -2,4 +2,4 @@
 
 Förlängd tid för uppdraget.
 
-Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 28 februari 2017\.
+Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 28 februari 2017.

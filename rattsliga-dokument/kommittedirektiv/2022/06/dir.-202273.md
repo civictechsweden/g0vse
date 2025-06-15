@@ -7,7 +7,7 @@ Syftet med utredningen är att bättre kunna följa upp situationen i skolväsen
 Utredaren ska bland annat
 
 * analysera och föreslå vilka typer av uppgifter som bör samlas in för
-uppföljning av barn och elever med funktionsnedsättning i skolväsendet, och hur insamlandet av sådana uppgifter ska organiseras och genomföras,
+  uppföljning av barn och elever med funktionsnedsättning i skolväsendet, och hur insamlandet av sådana uppgifter ska organiseras och genomföras,
 * analysera och föreslå hur uppgifter om exkluderade elever kan särredovisas i Pisaundersökningen,
 * göra en integritetsanalys och
 * lämna nödvändiga författningsförslag.

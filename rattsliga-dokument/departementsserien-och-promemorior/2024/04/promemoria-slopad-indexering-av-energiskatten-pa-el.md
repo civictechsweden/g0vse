@@ -8,4 +8,4 @@ Inför budgetpropositionen för 2025 är det angeläget att skatteförslagen kan
 
 I promemorian föreslås att den årliga indexeringen av energiskatten på el slopas permanent. Skattesatsen för energiskatt på el föreslås ligga kvar på 2024 års nivå, dvs. 42,8 öre per förbrukad kilowattimme.
 
-Ändringarna föreslås träda i kraft den 1 januari 2025\.
+Ändringarna föreslås träda i kraft den 1 januari 2025.

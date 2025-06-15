@@ -5,4 +5,4 @@ I promemorian föreslås att den övre skiktgränsen för statlig inkomstskatt
 
 Förslaget bygger på januariavtalet, den sakpolitiska överenskommelsen mellan Socialdemokraterna, Centerpartiet, Liberalerna och Miljöpartiet de gröna. Förslaget föranleder ändringar i inkomstskattelagen.
 
-Ändringarna föreslås träda i kraft den 1 januari 2020\.
+Ändringarna föreslås träda i kraft den 1 januari 2020.

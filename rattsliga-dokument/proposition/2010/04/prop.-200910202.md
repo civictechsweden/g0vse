@@ -6,4 +6,4 @@ Vidare lämnas förslag till en ny lag om auktorisation av patentombud. I dag fi
 
 I propositionen föreslås också att riksdagen godkänner att staten kvarstår som medlem i European Business Register European Economic Interest Grouping.
 
-Lagförslagen föreslås träda i kraft den 1 september 2010\.
+Lagförslagen föreslås träda i kraft den 1 september 2010.

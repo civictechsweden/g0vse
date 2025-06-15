@@ -10,4 +10,4 @@ Utredaren ska
 * föreslå hur ett sådant centrum kan finansieras, och
 * bedöma om det bör knytas till befintliga organisationer eller institut.
 
-Uppdraget ska redovisas senast den 31 mars 2017\.
+Uppdraget ska redovisas senast den 31 mars 2017.

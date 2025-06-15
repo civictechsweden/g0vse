@@ -14,4 +14,4 @@ Utredaren anser också att regeringen bör ge Försvarshögskolan i uppdrag att 
 
 Som ytterligare åtgärd för att öka lärosätenas kompetens i säkerhetsfrågor föreslås att regeringen ska låta utreda hur en stödfunktion i säkerhetsfrågor kan inrättas för universitet och högskolor.
 
-Utredaren rekommenderar vidare att regeringen bör säkerhetspröva rektorer vid lärosäten som bedriver säkerhetskänslig verksamhet. Om det finns personal vid lärosätet som är placerad i säkerhetsklass bör även rektor och styrelseordförande normalt vara placerade i säkerhetsklass 3\.
+Utredaren rekommenderar vidare att regeringen bör säkerhetspröva rektorer vid lärosäten som bedriver säkerhetskänslig verksamhet. Om det finns personal vid lärosätet som är placerad i säkerhetsklass bör även rektor och styrelseordförande normalt vara placerade i säkerhetsklass 3.

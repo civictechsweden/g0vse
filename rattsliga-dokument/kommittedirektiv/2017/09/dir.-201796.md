@@ -6,7 +6,7 @@ inom vattenförvaltningen.
 
 Utredaren ska bl.a.
 
-* föreslå hur organisationen bör vara utformad för att underlätta en effektiv, samordnad, förankrad och ändamålsenlig förvaltning av yt\- och grundvatten som uppfyller ramdirektivets krav,
+* föreslå hur organisationen bör vara utformad för att underlätta en effektiv, samordnad, förankrad och ändamålsenlig förvaltning av yt- och grundvatten som uppfyller ramdirektivets krav,
 * föreslå hur finansieringen av de åtgärder som följer av åtgärdsprogrammen bäst kan säkerställas, och
 * lämna nödvändiga författningsförslag.
 
@@ -20,4 +20,4 @@ hur avvägningar mellan effekter på andra miljö och
 samhällsmål kan beaktas när miljökvalitetsnormer fastställs
 och åtgärdsprogram och förvaltningsplaner utformas i vattenförvaltningen.
 
-Uppdraget ska redovisas senast den 31 oktober 2019\.
+Uppdraget ska redovisas senast den 31 oktober 2019.

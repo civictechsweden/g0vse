@@ -6,8 +6,9 @@ I vårändringsbudgeten tillförde regeringen 500 miljoner kronor till kommunern
 
 Så här mycket får kommunerna i respektive län:
 
-| Stockholms län | 118 030 438 kr |
+|  |  |
 | --- | --- |
+| Stockholms län | 118 030 438 kr |
 | Uppsala län | 19 148 679 kr |
 | Södermanlands län | 15 028 772 kr |
 | Östergötlands län | 22 219 963 kr |

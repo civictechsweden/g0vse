@@ -12,4 +12,4 @@ Regeringen bedömer att regleringen av bland annat narkotika inte bör göras m
 
 Regeringen påbörjar en ny bred analys av hur man effektivare ska kunna möta problemet med nya psykoaktiva substanser som inte är exempelvis narkotika.
 
-Lagförslagen föreslås träda i kraft 1 januari 2019\.
+Lagförslagen föreslås träda i kraft 1 januari 2019.

@@ -8,4 +8,4 @@ Förslaget innebär att mycket stora värdepappersbolag ska tillämpa det kapita
 
 Det finns i dagsläget inga mycket stora värdepappersbolag i Sverige.
 
-Lagändringarna föreslås träda i kraft den 1 april 2022\.
+Lagändringarna föreslås träda i kraft den 1 april 2022.

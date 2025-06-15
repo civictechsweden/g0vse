@@ -6,7 +6,7 @@ UD har beslutat att lyfta reseavrådan eftersom pandemisituationen förbättrats
 
 – Resenärer har fortsatt ett stort ansvar att själva ta reda på vad som gäller på resmålet och att följa de regler och rekommendationer som finns, säger utrikesminister Ann Linde.
 
-Även om det inte längre finns en bred avrådan med anledning av pandemin, finns i många länder fortfarande restriktioner som kan påverka en resa såsom krav på munskydd, uppvisande av negativa PCR\-tester eller vaccinationsintyg. I vissa länder råder fortfarande inreseförbud för utländska resenärer. Generellt sett är det enklare att resa om man är fullvaccinerad mot covid\-19\. Folkhälsomyndigheten rekommenderar ovaccinerade utlandsresenärer att testa sig när de återvänder till Sverige.
+Även om det inte längre finns en bred avrådan med anledning av pandemin, finns i många länder fortfarande restriktioner som kan påverka en resa såsom krav på munskydd, uppvisande av negativa PCR-tester eller vaccinationsintyg. I vissa länder råder fortfarande inreseförbud för utländska resenärer. Generellt sett är det enklare att resa om man är fullvaccinerad mot covid-19. Folkhälsomyndigheten rekommenderar ovaccinerade utlandsresenärer att testa sig när de återvänder till Sverige.
 
 På [swedenabroad.se](http://www.swedenabroad.se) och i appen UD Resklar finns ambassadernas reseinformation för respektive land. Där finns bland annat information om vad som gäller för inresa eller hänvisning till var den informationen kan hittas.
 

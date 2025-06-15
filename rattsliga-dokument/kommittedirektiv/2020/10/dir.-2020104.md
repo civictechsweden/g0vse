@@ -12,4 +12,4 @@ Utredaren ska bl.a.
 * ta ställning till om skyddet för den personliga integri­teten bör stärkas, och
 * lämna förslag till författ­nings­ändringar som bedöms nödvän­diga.
 
-Uppdraget ska redovisas senast den 14 april 2022\.
+Uppdraget ska redovisas senast den 14 april 2022.

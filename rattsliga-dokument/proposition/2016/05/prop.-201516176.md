@@ -4,4 +4,4 @@ Enligt lagen om regionalt utvecklingsansvar i vissa län ansvarar landstingen i 
 
 Uppsala, Västmanlands, Västernorrlands och Norrbottens läns landsting har hos regeringen ansökt om att få överta det regionala utvecklingsansvaret i sina respektive län. I propositionen föreslås att lagen om regionalt utvecklingsansvar ändras så att lagen även omfattar dessa län. Förslaget innebär även att berörda landsting får besluta att landstingsfullmäktige och landstingsstyrelsen i stället ska betecknas regionfullmäktige respektive regionstyrelse. Vid val ska dock beteckningen landstingsfullmäktige fortfarande användas.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2017\.
+Lagändringarna föreslås träda i kraft den 1 januari 2017.

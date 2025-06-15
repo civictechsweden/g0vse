@@ -6,8 +6,8 @@ Utredaren ska bland annat:
 
 * ta ställning till om det i rymdlagen bör införas bestämmelser om vilka krav som ska gälla för att få tillstånd till rymdverksamhet och om staten bör omfattas av tillståndsplikt,
 * undersöka om det är lämpligt att i rymdlagen införa bestämmelser om skydd för rymdmiljön och förebyggande av uppkomsten av rymdskrot, och
-* vid översynen ta hänsyn till Sveriges utrikes\-, säkerhets\- och försvarspolitiska intressen och folkrättsliga förpliktelser samt bedöma om skydd för Sveriges säkerhet bör regleras i rymdlagen.
+* vid översynen ta hänsyn till Sveriges utrikes-, säkerhets- och försvarspolitiska intressen och folkrättsliga förpliktelser samt bedöma om skydd för Sveriges säkerhet bör regleras i rymdlagen.
 
 Utredaren ska också identifiera på vilka områden kompletterande reglering kan behövas för att kommersiell bemannad rymdfart ska kunna bedrivas.
 
-Uppdraget ska redovisas senast den 1 juni 2021\.
+Uppdraget ska redovisas senast den 1 juni 2021.

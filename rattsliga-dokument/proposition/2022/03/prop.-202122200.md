@@ -6,8 +6,8 @@ Förslagen har utformats för att även omfatta nikotinprodukter som ännu inte 
 
 ### Lagar förtydligas
 
-Regeringen föreslår att lagen om tobak och liknande produkter samt radio\- och tv\-lagen förtydligas.
+Regeringen föreslår att lagen om tobak och liknande produkter samt radio- och tv-lagen förtydligas.
 
-### Tillsatser i E\-vätskor förbjuds
+### Tillsatser i E-vätskor förbjuds
 
-Regeringen föreslår även ett förbud mot tillsatser i e\-vätskor som leder till en tydligt märkbar doft eller smak av annat än tobak.
+Regeringen föreslår även ett förbud mot tillsatser i e-vätskor som leder till en tydligt märkbar doft eller smak av annat än tobak.

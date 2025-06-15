@@ -4,4 +4,4 @@ Regeringen föreslår att det ska bli möjligt att använda modern kommunikation
 
 Regeringen föreslår också förtydliganden i jordabalken när det gäller möjligheten att använda modern kommunikationsteknik i vissa sammanträden vid inskrivningsmyndigheten.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2015\.
+Lagändringarna föreslås träda i kraft den 1 juli 2015.

@@ -2,8 +2,7 @@
 
 Regeringen arbetar aktivt med att undanröja hinder och skapa förutsättningar för en kraftfull utbyggnad av elproduktionen och att ny kärnkraft kan byggas i Sverige. Strålsäkerhetsmyndigheten har haft i uppdrag att analysera vilken utveckling och anpassning som behövs av regelverket för befintlig och framtida kärnkraft, och det har nu slutredovisats i form av en rapport.
 
-
-Klimat\- och miljöminister Romina Pourmokhtari tog emot rapporten från vikarierande generaldirektör Michael Knochenhauer under en pressträff den 9 augusti.
+Klimat- och miljöminister Romina Pourmokhtari tog emot rapporten från vikarierande generaldirektör Michael Knochenhauer under en pressträff den 9 augusti.
 
 Strålsäkerhetsmyndigheten har haft i uppdrag att utreda vilken utveckling som behövs av regelverket för kärnkraft. De har också undersökt vilka andra åtgärder som kan komma att behövas för att Sverige fullt ut ska kunna nyttja både befintlig och framtida kärnkraft.
 

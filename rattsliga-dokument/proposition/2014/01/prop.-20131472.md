@@ -8,4 +8,4 @@ För att förenkla processen för fastställande av priser upphävs bestämmelse
 
 I propositionen lämnas dessutom förslag som gör det möjligt för tillsynsmyndigheten att utöva tillsyn över genomförandeåtgärder som Europeiska kommissionen antar i form av förordningar och att pröva tvister som har samband med skyldigheter i sådana förordningar.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2014\.
+Lagändringarna föreslås träda i kraft den 1 juli 2014.

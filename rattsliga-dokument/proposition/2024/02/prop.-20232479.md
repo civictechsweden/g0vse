@@ -1,6 +1,6 @@
 # Att lättare få läsa i snabbare takt och på en högre nivå
 
-Propositionen innehåller förslag till ändringar i skollagen (2010:800\) som innebär bättre möjligheter för elever i grundskolan, specialskolan och sameskolan att läsa på en högre nivå och för elever i gymnasieskolan att gå fram i snabbare studietakt.
+Propositionen innehåller förslag till ändringar i skollagen (2010:800) som innebär bättre möjligheter för elever i grundskolan, specialskolan och sameskolan att läsa på en högre nivå och för elever i gymnasieskolan att gå fram i snabbare studietakt.
 
 Förslagen innebär följande:
 
@@ -13,4 +13,4 @@ Förslagen innebär följande:
 
 Vidare bedömer regeringen att förutsättningarna för att det ska finnas riksrekryterande spetsutbildningar i gymnasieskolan bör regleras.
 
-Ändringarna i skollagen ska träda i kraft den 2 juli 2024\. Vissa ändringar ska dock träda i kraft den 1 juli 2025\. Det gäller ändringar som görs till följd av att utbildning i gymnasieskolan som påbörjas efter den 30 juni 2025 enligt redan beslutade ändringar i lagen ska vara ämnesutformad och inte kursutformad.
+Ändringarna i skollagen ska träda i kraft den 2 juli 2024. Vissa ändringar ska dock träda i kraft den 1 juli 2025. Det gäller ändringar som görs till följd av att utbildning i gymnasieskolan som påbörjas efter den 30 juni 2025 enligt redan beslutade ändringar i lagen ska vara ämnesutformad och inte kursutformad.

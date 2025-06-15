@@ -8,6 +8,6 @@ Regeringen föreslår även att regleringen av jäv för polisanställda och fö
 
 Ändringar görs också i lagen om unga lagöverträdare och lagen om visst stöldgods m.m. Ändringarna hör samman med nyligen beslutade ändringar i andra propositioner.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2015\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2015.
 
-[Pressmeddelande: Den nya polisorganisationen \- några kompletterande lagändringar](/pressmeddelanden/2015/04/den-nya-polisorganisationen---nagra-kompletterande-lagandringar/ "Den nya polisorganisationen - några kompletterande lagändringar")
+[Pressmeddelande: Den nya polisorganisationen - några kompletterande lagändringar](/pressmeddelanden/2015/04/den-nya-polisorganisationen---nagra-kompletterande-lagandringar/ "Den nya polisorganisationen - några kompletterande lagändringar")

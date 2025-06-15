@@ -6,4 +6,4 @@ Andra nyheter är till exempel att reglerna om ersättning i inkomstbortfallsfö
 
 Förslag om fler ändringar i de aktuella lagarna (1997:238 om arbetslöshetsförsäkring och 1997:239 om arbetslöshetskassor) är exempelvis: krav på aktuellt arbete och viss arbetad tid för att få tillhöra en arbetslöshetskassa tas bort, arbetslöshetsavgiften ska minskas med 50 kronor per ej arbetslös medlem och månad.
 
-Övriga förslag framgår av propositionen. Samtliga förslag beräknas träda i kraft den 1 juli 2009\.
+Övriga förslag framgår av propositionen. Samtliga förslag beräknas träda i kraft den 1 juli 2009.

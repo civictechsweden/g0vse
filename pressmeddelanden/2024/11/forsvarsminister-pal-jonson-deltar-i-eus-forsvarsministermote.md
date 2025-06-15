@@ -1,6 +1,6 @@
 # Försvarsminister Pål Jonson deltar i EU:s försvarsministermöte
 
-Mötet inleds med att försvarsministrarna kommer att diskutera EU:s snabbinsatsstyrka och den pågående strategiska översynen av PESCO (det permanent strukturerade samarbetet) som är en ram för att stärka försvarssamarbetet mellan EU\-länderna.
+Mötet inleds med att försvarsministrarna kommer att diskutera EU:s snabbinsatsstyrka och den pågående strategiska översynen av PESCO (det permanent strukturerade samarbetet) som är en ram för att stärka försvarssamarbetet mellan EU-länderna.
 
 EU:s fortsatta stöd till Ukraina utgör huvudpunkten på försvarsministermötet. Försvarsministrarna kommer bland annat att ta upp den europeiska fredsfaciliteten (EPF) och den militära utbildningsinsatsen till stöd för Ukraina (EUMAM Ukraina).
 

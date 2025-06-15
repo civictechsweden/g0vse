@@ -5,8 +5,8 @@ En särskild utredare ska ta ställning till hur tillgänglighetsdirektivet ska 
 Utredaren ska bland annat:
 
 * analysera hur kraven i direktivet förhåller sig till gällande regelverk i svensk rätt vad gäller banktjänster och finansiella tjänster,
-* analysera hur e\-handelsdirektivet, e\-handelslagen och marknadsförings\-lagen förhåller sig till direktivets krav,
+* analysera hur e-handelsdirektivet, e-handelslagen och marknadsförings-lagen förhåller sig till direktivets krav,
 * analysera om det behövs några särskilda insatser för att underlätta för upphandlande myndigheter att uppfylla direktivets krav, samt
 * vid behov lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 31 maj 2021\.
+Uppdraget ska redovisas senast den 31 maj 2021.

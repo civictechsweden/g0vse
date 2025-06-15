@@ -4,4 +4,4 @@ En särskild utredare ska ta fram ett förslag om att arbetsgivare med flera ska
 
 Syftet med systemet avseende inkomstuppgifter ska vara att ge Försäkringskassan och Skatteverket med flera bättre kontrollmöjligheter, att arbetsgivarnas uppgiftslämnande till olika myndigheter effektiviseras genom att uppgiftslämnandet samordnas i en inrapporteringsfunktion samt att korrekta inkomstrelaterade ersättningar lämnas från välfärdssystemen.
 
-Uppdraget ska redovisas senast den 15 december 2010\.
+Uppdraget ska redovisas senast den 15 december 2010.

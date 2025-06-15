@@ -8,10 +8,10 @@ För att undvika att någon drabbas av både vite och sanktionsavgift alternativ
 
 Bestämmelserna i arbetsmiljölagen med bemyndigande för Arbetsmiljöverket att utfärda föreskrifter ändras i syfte att skapa enhetlighet. Alla regler om bemyndigande får därigenom en formulering som överensstämmer med regeringsformens bestämmelser.
 
-På arbetstidsområdet föreslås det ändringar i arbetstidslagen, lagen om arbetstid m.m. i husligt arbete, lagen om arbetstid m.m. för flygpersonal inom civilflyget och lagen om kör\- och vilotid vid internationell järnvägstrafik. På samma sätt som för arbetsmiljöområdet föreslås att straffsanktionerna i huvudsak ersätts av sanktionsavgifter i de arbetstidslagar som omfattas av lagrådsremissen, men vissa överträdelser ska fortfarande leda till straff. Reglerna om sanktionsavgifter och förfarandet för uttagande av avgifterna utformas på samma sätt som motsvarande regler i arbetsmiljölagen. Beräkningsgrunden för sanktionsavgifterna i arbetstidslagarna anges dock direkt i respektive lag.
+På arbetstidsområdet föreslås det ändringar i arbetstidslagen, lagen om arbetstid m.m. i husligt arbete, lagen om arbetstid m.m. för flygpersonal inom civilflyget och lagen om kör- och vilotid vid internationell järnvägstrafik. På samma sätt som för arbetsmiljöområdet föreslås att straffsanktionerna i huvudsak ersätts av sanktionsavgifter i de arbetstidslagar som omfattas av lagrådsremissen, men vissa överträdelser ska fortfarande leda till straff. Reglerna om sanktionsavgifter och förfarandet för uttagande av avgifterna utformas på samma sätt som motsvarande regler i arbetsmiljölagen. Beräkningsgrunden för sanktionsavgifterna i arbetstidslagarna anges dock direkt i respektive lag.
 
 Vissa redaktionella ändringar görs också i arbetsmiljölagen och arbetstidslagarna.
 
 I lagrådsremissen föreslås också en mindre ändring i 46 § medbestämmandelagen.
 
-Ändringarna i arbetsmiljö\- och arbetstidslagarna föreslås träda i kraft den 1 juli 2014\. Ändringen i medbestämmandelagen föreslås träda i kraft den 1 juli 2013\.
+Ändringarna i arbetsmiljö- och arbetstidslagarna föreslås träda i kraft den 1 juli 2014. Ändringen i medbestämmandelagen föreslås träda i kraft den 1 juli 2013.

@@ -2,14 +2,13 @@
 
 I regeringens skrivelse Giftfri vardag finns en redogörelse över de politiska initiativ och framsteg som har gjorts på kemikalieområdet under de senaste åren.
 
-
-Sverige har nått goda resultat på kemikalieområdet även om arbete kvarstår tills vi får en giftfri vardagsmiljö. Med hjälp av en bred palett av styrmedel fortsätter nu regeringen satsningen på en giftfri miljö \- för barnen och vår hälsa.
+Sverige har nått goda resultat på kemikalieområdet även om arbete kvarstår tills vi får en giftfri vardagsmiljö. Med hjälp av en bred palett av styrmedel fortsätter nu regeringen satsningen på en giftfri miljö - för barnen och vår hälsa.
 
 ## Giftfri förskola för att skydda barnen
 
 Farliga ämnen kan orsaka cancer, allergier eller påverka möjligheten att få barn. Barn är särskilt känsliga och de har rätt att växa upp i en giftfri vardag. Leksaker, soffor och köksredskap som finns på exempelvis förskolor ska inte innehålla farliga kemikalier. Därför har regeringen bland annat ökat stödet till kommunerna så att de kan ställa giftfria krav när de köper in saker till skolor och förskolor.
 
-Konkurrensverket och Kemikalieinspektionen har presenterat ett kravpaket som hjälper kommunerna att ställa krav i sin upphandling för en minskad förekomst av miljö\- och hälsofarliga ämnen i förskolan. Regeringen har också gett Kemikalieinspektionen i uppdrag att starta ett nätverk för kommuner, i syfte att underlätta dialog kring upphandling. Fler än 100 kommuner har hittills anslutit sig.
+Konkurrensverket och Kemikalieinspektionen har presenterat ett kravpaket som hjälper kommunerna att ställa krav i sin upphandling för en minskad förekomst av miljö- och hälsofarliga ämnen i förskolan. Regeringen har också gett Kemikalieinspektionen i uppdrag att starta ett nätverk för kommuner, i syfte att underlätta dialog kring upphandling. Fler än 100 kommuner har hittills anslutit sig.
 
 [Giftfri förskola på Upphandlingsmyndighetens webbplats](http://www.upphandlingsmyndigheten.se/omraden/giftfri-forskola/)
 
@@ -17,17 +16,17 @@ Konkurrensverket och Kemikalieinspektionen har presenterat ett kravpaket som hj�
 
 ## Handlingsplan för giftfri vardag
 
-Kemikalieinspektionen har sedan 2015 ett vidareutvecklat uppdrag för en giftfri vardag, där regeringen lägger stor vikt vid att nationella förbud ska tas fram där EU\-lagstiftningen inte räcker till. Myndigheten har också i uppdrag av regeringen att arbeta med en handlingsplan för en giftfri vardag. Fokus är främst att skydda barn och unga från farliga kemikalier.
+Kemikalieinspektionen har sedan 2015 ett vidareutvecklat uppdrag för en giftfri vardag, där regeringen lägger stor vikt vid att nationella förbud ska tas fram där EU-lagstiftningen inte räcker till. Myndigheten har också i uppdrag av regeringen att arbeta med en handlingsplan för en giftfri vardag. Fokus är främst att skydda barn och unga från farliga kemikalier.
 
 [Artikel på webbplatsen: Ny handlingsplan för en giftfri vardag](/artiklar/2015/04/ny-handlingsplan-for-en-giftfri-vardag/)
 
 Ett av fokusområdena i handlingsplanen är de svårnedbrytbara och giftiga högfluorerade ämnen som fått stor uppmärksamhet bland annat när föroreningar konstaterats i dricksvattentäkter.
 
-[Artikel på webbplatsen: Högfluorerade ämnen \- en viktig del i handlingsplanen för en giftfri vardag](/artiklar/2015/05/hogfluorerade-amnen/)
+[Artikel på webbplatsen: Högfluorerade ämnen - en viktig del i handlingsplanen för en giftfri vardag](/artiklar/2015/05/hogfluorerade-amnen/)
 
 [Pressmeddelande: Regeringen skärper arbetet mot miljögifter](/pressmeddelanden/2015/01/regeringen-skarper-arbetet-mot-miljogifter-/)
 
-[Utredningen om spridning av PFAS\-föroreningar i dricksvatten](/rapporter/2016/03/utredningen-om-spridning-av-pfas-fororeningar-i-dricksvatten/)
+[Utredningen om spridning av PFAS-föroreningar i dricksvatten](/rapporter/2016/03/utredningen-om-spridning-av-pfas-fororeningar-i-dricksvatten/)
 
 [Remiss av rapport från ett regeringsuppdrag om förslag på nationella regler för högfluorerade ämnen i brandsläckningsskum](/remisser/2016/02/remiss-av-rapport-fran-ett-regeringsuppdrag-om-forslag-pa-nationella-regler-for-hogfluorerade-amnen-i-brandslackningsskum/)
 
@@ -49,7 +48,7 @@ Regeringen vill också inrätta ett kunskapscentrum för att förse företag, fo
 
 Regeringen bereder för närvarande ett förslag från Kemikalieskatteutredningen om två nya punktskatter – en på viss elektronik och en på golvbeläggningsmaterial, väggbeklädnad och takbeklädnad av polymerer av vinylklorid (PVC).
 
-Elektronikvaror som innehåller flamskyddsmedel kan vara giftiga för människor. Golv, väggar och tak som har material av PVC\-plast kan innehålla mjukgörare (ftalater), som stör förmågan att få barn.
+Elektronikvaror som innehåller flamskyddsmedel kan vara giftiga för människor. Golv, väggar och tak som har material av PVC-plast kan innehålla mjukgörare (ftalater), som stör förmågan att få barn.
 
 Både flamskyddsmedel och mjukgörare tillhör gruppen kemikalier som har visat sig ha hälsofarliga egenskaper för människor, varför det är angeläget att fasa ut dem från vardagsmiljön.
 
@@ -81,15 +80,15 @@ Under mandatperioden har regeringen hittills beslutat om vissa förbud för anv�
 
 ## Sverige är en viktig aktör i EU och internationellt
 
-Sverige har under flera år aktivt försökt påverka EU\-lagstiftningen för att nå målet om en giftfri miljö. Till exempel uppmanade miljöministrarna i Norden under 2015 EU\-kommissionen att skärpa lagstiftningen för farliga kemikalier i textilier. Regeringen har också tillsammans med den svenska textilbranschen också drivit på för att EU på ett heltäckande sätt ska begränsa förekomsten av farliga kemikalier i textilier. Dessa påtryckningar har bidragit till att kommissionen nyligen föreslagit ett förbud i textilier för ämnen som är cancerframkallande, kan påverka arvsmassan eller störa fortplantningen. Regeringen har också fått kommissionen fälld i domstol för att inte ha beslutat om vetenskapliga kriterier för hormonstörande ämnen. Med domen i ryggen kan nu Sverige och andra aktörer sätta ytterligare press på kommissionen att fatta de beslut som behövs för att fasa ut hormonstörande ämnen.
+Sverige har under flera år aktivt försökt påverka EU-lagstiftningen för att nå målet om en giftfri miljö. Till exempel uppmanade miljöministrarna i Norden under 2015 EU-kommissionen att skärpa lagstiftningen för farliga kemikalier i textilier. Regeringen har också tillsammans med den svenska textilbranschen också drivit på för att EU på ett heltäckande sätt ska begränsa förekomsten av farliga kemikalier i textilier. Dessa påtryckningar har bidragit till att kommissionen nyligen föreslagit ett förbud i textilier för ämnen som är cancerframkallande, kan påverka arvsmassan eller störa fortplantningen. Regeringen har också fått kommissionen fälld i domstol för att inte ha beslutat om vetenskapliga kriterier för hormonstörande ämnen. Med domen i ryggen kan nu Sverige och andra aktörer sätta ytterligare press på kommissionen att fatta de beslut som behövs för att fasa ut hormonstörande ämnen.
 
 ### Hormonstörande ämnen
 
 [Pressmeddelande: EU måste agera om hormonstörande ämnen](/pressmeddelanden/2014/10/eu-maste-agera-om-hormonstorande-amnen/)
 
-[Pressmeddelande: Ökad press på EU\-kommissionen att peka ut hormonstörande ämnen](/artiklar/2015/11/okad-press-pa-eu-kommissionen-att-peka-ut-hormonstorande-amnen/)
+[Pressmeddelande: Ökad press på EU-kommissionen att peka ut hormonstörande ämnen](/artiklar/2015/11/okad-press-pa-eu-kommissionen-att-peka-ut-hormonstorande-amnen/)
 
-[Pressmeddelande: Svensk seger om EU\-kriterier för hormonstörande ämnen](/pressmeddelanden/2015/12/svensk-seger-om-eu-kriterier/)
+[Pressmeddelande: Svensk seger om EU-kriterier för hormonstörande ämnen](/pressmeddelanden/2015/12/svensk-seger-om-eu-kriterier/)
 
 [Pressmeddelande: Åsa Romson kräver handling mot hormonstörande ämnen](/pressmeddelanden/2016/03/asa-romson-kraver-handling-mot-hormonstorande-amnen/)
 
@@ -99,7 +98,7 @@ Sverige har under flera år aktivt försökt påverka EU\-lagstiftningen för at
 
 ### Textilier
 
-[Pressmeddelande: Åsa Romson kräver tillsammans med svenska textil\- och klädesföretag att EU tar bort farliga kemikalier](/pressmeddelanden/2015/10/asa-romson-kraver-tillsammans-med-svenska-textil--och-kladesforetag-att-eu-tar-bort-farliga-kemikalier/)
+[Pressmeddelande: Åsa Romson kräver tillsammans med svenska textil- och klädesföretag att EU tar bort farliga kemikalier](/pressmeddelanden/2015/10/asa-romson-kraver-tillsammans-med-svenska-textil--och-kladesforetag-att-eu-tar-bort-farliga-kemikalier/)
 
 ### Internationellt arbete
 

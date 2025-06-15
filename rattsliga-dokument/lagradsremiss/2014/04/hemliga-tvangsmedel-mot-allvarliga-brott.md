@@ -16,4 +16,4 @@ Regeringen lämnar också vissa förslag som syftar till att stärka rättssäke
 
 Förslagen bygger på en överenskommelse mellan regeringen och Socialdemokraterna.
 
-Ändringarna föreslås träda i kraft den 1 januari 2015\.
+Ändringarna föreslås träda i kraft den 1 januari 2015.

@@ -6,4 +6,4 @@ I lagrådsremissen föreslås även en ändring av reglerna om investeraravdrag.
 
 Förslagen föranleder ändringar i inkomstskattelagen, förkortad IL, och lagen om avkastningsskatt på pensionsmedel. I inkomstskattelagen föreslås dessutom en lagteknisk ändring i fråga om skattskyldigheten för schablonintäkt enligt 30 kap. 6 a § IL.
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2016\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2016.

@@ -1,11 +1,10 @@
 # Sanktioner, kapitaltäckning och amerikansk inflationsbekämpning på EU-möte
 
-När EU\-ländernas finans\- och ekonomiministrar möts i Bryssel den 8 november står en diskussion om de ekonomiska och finansiella konsekvenserna av Rysslands aggression mot Ukraina på dagordningen. Ministrarna ska också fatta beslut om skatter och avgifter för tunga fordon och om kapitaltäckningskrav för banker som utgår från den så kallade Basel III\-överenskommelsen.
-
+När EU-ländernas finans- och ekonomiministrar möts i Bryssel den 8 november står en diskussion om de ekonomiska och finansiella konsekvenserna av Rysslands aggression mot Ukraina på dagordningen. Ministrarna ska också fatta beslut om skatter och avgifter för tunga fordon och om kapitaltäckningskrav för banker som utgår från den så kallade Basel III-överenskommelsen.
 
 ## Ukraina
 
-EU\-ländernas finans\- och ekonomiministrar ska nu liksom på flera tidigare möten diskutera de ekonomiska och finansiella konsekvenserna av Rysslands aggression mot Ukraina. EU arbetar med både akut och långsiktigt stöd och godkände i september ett lån på fem miljarder euro i makrofinansiellt stöd till Ukraina.
+EU-ländernas finans- och ekonomiministrar ska nu liksom på flera tidigare möten diskutera de ekonomiska och finansiella konsekvenserna av Rysslands aggression mot Ukraina. EU arbetar med både akut och långsiktigt stöd och godkände i september ett lån på fem miljarder euro i makrofinansiellt stöd till Ukraina.
 
 EU har antagit totalt åtta sanktionspaket mot Ryssland. På mötet den 8 november kommer samtalet i första hand handla om genomförandet och effekterna av dessa.
 
@@ -25,9 +24,9 @@ Regeringen står bakom förslaget till allmän riktlinje.
 
 ## Amerikansk lag om inflation
 
-EU\-kommissionen ska gå igenom hur den amerikanska lagstiftningen mot inflation, "Inflation Reduction Act", påverkar EU.
+EU-kommissionen ska gå igenom hur den amerikanska lagstiftningen mot inflation, "Inflation Reduction Act", påverkar EU.
 
-Regeringen delar EU\-kommissionens oro för att lagen kan få diskriminerande effekter för företag i EU och riskerar att underminera både europeiska och amerikanska klimatambitioner. Regeringen välkomnar därför att en arbetsgrupp med representanter från EU\-kommissionen och USA har upprättats för att diskutera frågorna.
+Regeringen delar EU-kommissionens oro för att lagen kan få diskriminerande effekter för företag i EU och riskerar att underminera både europeiska och amerikanska klimatambitioner. Regeringen välkomnar därför att en arbetsgrupp med representanter från EU-kommissionen och USA har upprättats för att diskutera frågorna.
 
 ## Ekonomisk återhämtning och andra lägesrapporter
 

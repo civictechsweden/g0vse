@@ -26,8 +26,8 @@ På senare tid har flera fall uppmärksammats där offentliga försvarare misst
 
 – Det är oacceptabelt att det finns advokater som missbrukar sin roll och sin titel. Det skadar förtroendet för advokatkåren och för rättsväsendet i stort. Vi vill värna en oberoende advokatkår, och Advokatsamfundets tillsyn över landets advokater är en viktig del av detta. Samtidigt är det angeläget att regeringen säkerställer att de regler som finns lever upp till samtidens krav, och därför får utredningen i uppdrag att överväga förslag som kan värna förtroendet för advokatkåren, säger justitieminister Gunnar Strömmer.
 
-Utredaren ska lämna nödvändiga författningsförslag. Uppdraget ska redovisas senast den 1 augusti 2025\.
+Utredaren ska lämna nödvändiga författningsförslag. Uppdraget ska redovisas senast den 1 augusti 2025.
 
 ## Uppdrag till Domstolsverket att förbereda inrättandet av en digital process för rättsliga biträdens kostnadsräkningar
 
-Regeringen har också beslutat att ge Domstolsverket i uppdrag att förbereda inrättandet av en digital process för rättsliga biträdens kostnadsräkningar i domstol. Processen ska bland annat förbättra domstolarnas kontroll av kostnadsräkningar och möjliggöra att fel och dubbeldebitering kan motverkas. Uppdraget ska redovisas senast den 1 augusti 2025\.
+Regeringen har också beslutat att ge Domstolsverket i uppdrag att förbereda inrättandet av en digital process för rättsliga biträdens kostnadsräkningar i domstol. Processen ska bland annat förbättra domstolarnas kontroll av kostnadsräkningar och möjliggöra att fel och dubbeldebitering kan motverkas. Uppdraget ska redovisas senast den 1 augusti 2025.

@@ -4,4 +4,4 @@ I lagråds­remissen lämnas förslag till komplet­terande bestäm­melser till
 
 I lagråds­remissen föreslås en ny lag med komplet­terande bestäm­melser till avtalet som möjlig­gör att avtalet kan tillämpas fullt ut i Sverige. Den nya lagen innehåller komplet­terande bestäm­melser när Sverige begär bistånd av eller lämnar bistånd till Förenade konunga­riket Storbritan­nien och Nord­irland. Den nya lagen medför vissa följd­ändringar i andra lagar.
 
-Förslagen föreslås träda i kraft den 15 juli 2021\.
+Förslagen föreslås träda i kraft den 15 juli 2021.

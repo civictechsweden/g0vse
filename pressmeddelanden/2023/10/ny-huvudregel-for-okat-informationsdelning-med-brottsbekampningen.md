@@ -8,10 +8,10 @@ Att öka informationsutbytet från exempelvis skola och socialtjänst till Polis
 
 I utredningens betänkande föreslås en ny lag med ett antal skyldigheter för myndigheter och vissa andra att lämna information till de brottsbekämpande myndigheterna. Uppgiftsskyldigheterna innebär att eventuell sekretess bryts.
 
-Den nya lagen innebär en skyldighet för alla myndigheter och för enskilda som bedriver verksamhet inom socialtjänst, hälso\- och sjukvård och skola att på begäran lämna ut kontaktuppgifter som brottsbekämpande myndigheter behöver. Ett antal statliga myndigheter föreslås också bli skyldiga att – både på eget initiativ och på begäran – lämna ut andra uppgifter som brottsbekämpningen behöver. Motsvarande skyldighet föreslås även gälla för kommuner och regioner. En uppgiftsskyldighet införs också för rektorer vid skolor – oavsett om dessa drivs av offentliga eller enskilda huvudmän.
+Den nya lagen innebär en skyldighet för alla myndigheter och för enskilda som bedriver verksamhet inom socialtjänst, hälso- och sjukvård och skola att på begäran lämna ut kontaktuppgifter som brottsbekämpande myndigheter behöver. Ett antal statliga myndigheter föreslås också bli skyldiga att – både på eget initiativ och på begäran – lämna ut andra uppgifter som brottsbekämpningen behöver. Motsvarande skyldighet föreslås även gälla för kommuner och regioner. En uppgiftsskyldighet införs också för rektorer vid skolor – oavsett om dessa drivs av offentliga eller enskilda huvudmän.
 
-När det gäller socialtjänsten och hälso\- och sjukvården föreslås att uppgifter kommer att kunna lämnas i fler fall både i det brottsförebyggande och det brottsbekämpande arbetet.
+När det gäller socialtjänsten och hälso- och sjukvården föreslås att uppgifter kommer att kunna lämnas i fler fall både i det brottsförebyggande och det brottsbekämpande arbetet.
 
 Vidare föreslår utredningen en uppgiftsskyldighet för banker och andra finansiella företag som innebär att brottsbekämpande myndigheter får begära in finansiella uppgifter för att förebygga, förhindra eller upptäcka brottslig verksamhet.
 
-Ändringarna ska enligt förslaget träda i kraft den 1 januari 2025\.
+Ändringarna ska enligt förslaget träda i kraft den 1 januari 2025.

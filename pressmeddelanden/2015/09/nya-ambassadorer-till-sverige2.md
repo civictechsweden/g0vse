@@ -2,20 +2,19 @@
 
 Ambassadörerna från Storbritannien, Island, Sydafrika och Bosnien och Hercegovina överlämnade onsdagen den 23 september 2015 sina kreditivbrev till H.M. Konungen i högtidlig audiens på Stockholms slott. Kreditivbrevet är en fullmakt utfärdad av ambassadörens statschef. I och med att brevet nu är överlämnat till Sveriges statschef kan ambassadören från i dag fullt ut representera sitt land i Sverige.
 
-
 ## H.E. Mr David Cairns, Storbritannien
 
-Storbritanniens nyutnämnde ambassadör David Cairns har tjänstgjort i utrikesministeriet sedan 1993\. Ambassadör Cairns har arbetat med handelsfrågor under stora delar av sin karriär. Under de senaste åren har han innehaft bland annat följande befattningar:
+Storbritanniens nyutnämnde ambassadör David Cairns har tjänstgjort i utrikesministeriet sedan 1993. Ambassadör Cairns har arbetat med handelsfrågor under stora delar av sin karriär. Under de senaste åren har han innehaft bland annat följande befattningar:
 
-2010–2014: Chef för enheten Corporate Services, Estates \& Security, utrikesministeriet.
+2010–2014: Chef för enheten Corporate Services, Estates & Security, utrikesministeriet.
 
 2006–2010: Chef för enheten för handel och investeringar vid ambassaden i Tokyo.
 
-2002–2006: Chef för World Trade Organisation (WTO)\-enheten vid delegationen i Genève.
+2002–2006: Chef för World Trade Organisation (WTO)-enheten vid delegationen i Genève.
 
 ## H.E. Ms Estrid Brekkan, Island
 
-Islands nyutnämnda ambassadör Estrid Brekkan, är född 1954 och har tjänstgjort i utrikesministeriet sedan 1974\. Hon har en statsvetarexamen från University of Maryland University College. Under de senaste åren har hon innehaft bland annat följande befattningar:
+Islands nyutnämnda ambassadör Estrid Brekkan, är född 1954 och har tjänstgjort i utrikesministeriet sedan 1974. Hon har en statsvetarexamen från University of Maryland University College. Under de senaste åren har hon innehaft bland annat följande befattningar:
 
 2013–2015: Avdelningsdirektör med ansvar för internationella organisationer och mänskliga rättigheter, direktoratet för internationella och säkerhetspolitiska frågor, generaldirektörens ställföreträdare, utrikesministeriet.
 
@@ -37,7 +36,7 @@ Sydafrikas nyutnämnda ambassadör Faith Doreen Radebe är född 1952 och har en
 
 Bosnien och Hercegovinas nyutnämnda ambassadör Vesna Ćužić är född 1962 och har ej tidigare tjänstgjort i landets utrikesförvaltning. Hon har under de senaste åren innehaft följande befattningar:
 
-1997–2015: Ordförande i föreningen ”International God\-parenthood for the Herzeg\-Bosnian Child”.
+1997–2015: Ordförande i föreningen ”International God-parenthood for the Herzeg-Bosnian Child”.
 
 1995–1997: Marknadsföring och försäljning vid ett lokalt företag.
 

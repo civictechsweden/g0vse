@@ -6,7 +6,7 @@ Kommissionens uppdrag blir att analysera faktorer som påverkar produktivitetsti
 
 – En svag produktivitetstillväxt hämmar inte bara den ekonomiska utvecklingen, utan det påverkar också kvalitén i välfärden. Målet är naturligtvis att varje investerad skattekrona ska generera så bra vård, skola och omsorg som möjligt. Därför behöver vi undersöka vilka strukturella problem som finns och hur vi kan komma till rätta med dem, säger finansminister Elisabeth Svantesson.
 
-Regeringen fattade beslut om kommissionens direktiv på regeringssammanträdet i torsdags förra veckan. Kommissionens arbete kommer att ledas av Hans Lindblad, före detta riksgäldsdirektör och chef för Riksgäldskontoret. Till kommissionen knyts ett antal ledamöter med olika kompetenser och erfarenheter. Uppdraget sträcker sig till oktober 2025 men en delredovisning ska lämnas i maj 2024\.
+Regeringen fattade beslut om kommissionens direktiv på regeringssammanträdet i torsdags förra veckan. Kommissionens arbete kommer att ledas av Hans Lindblad, före detta riksgäldsdirektör och chef för Riksgäldskontoret. Till kommissionen knyts ett antal ledamöter med olika kompetenser och erfarenheter. Uppdraget sträcker sig till oktober 2025 men en delredovisning ska lämnas i maj 2024.
 
 ## Produktivitet i ekonomin
 
@@ -14,4 +14,4 @@ Produktivitet kan beskrivas som effektiviteten i produktionen, och är ett mått
 
 ## Svensk produktivitetstillväxt
 
-Sverige hade, i likhet med många andra länder i västvärlden, en stark tillväxt i arbetsproduktivitet på i genomsnitt 2,7 procent per år under perioden 1995–2007\. Efter finanskrisen har dock produktivitetstillväxten varit svag. År 2010–2020 var Sveriges tillväxt i arbetsproduktivitet i genomsnitt 0,9 procent per år. En liknande utveckling kan ses i stora delar av västvärlden.
+Sverige hade, i likhet med många andra länder i västvärlden, en stark tillväxt i arbetsproduktivitet på i genomsnitt 2,7 procent per år under perioden 1995–2007. Efter finanskrisen har dock produktivitetstillväxten varit svag. År 2010–2020 var Sveriges tillväxt i arbetsproduktivitet i genomsnitt 0,9 procent per år. En liknande utveckling kan ses i stora delar av västvärlden.

@@ -2,7 +2,6 @@
 
 Regeringen ger Verket för innovationssystem (Vinnova) i uppdrag att kartlägga och analysera behov av utvecklingsinsatser för datadelning.
 
-
 Regeringen bedömer att det finns behov av att utreda behov av
 kapacitetshöjande insatser för företag och organisationer som framkommit inom ramen för samverkansprogrammet för Näringslivets digitala strukturomvandling.
 
@@ -15,4 +14,4 @@ Vinnova ska genomföra en kartläggning och analys av:
 * relevanta datamarknader och värderingsmodeller för data, samt
 * framgångsrika datadelningsexempel.
 
-Vinnova ska inkomma med en delrapport till Regeringskansliet (Infrastrukturdepartementet) senast den 1 mars 2022 samt slutrapportera uppdraget till Regeringskansliet (Infrastrukturdepartementet) senast den 1 juni 2022\.
+Vinnova ska inkomma med en delrapport till Regeringskansliet (Infrastrukturdepartementet) senast den 1 mars 2022 samt slutrapportera uppdraget till Regeringskansliet (Infrastrukturdepartementet) senast den 1 juni 2022.

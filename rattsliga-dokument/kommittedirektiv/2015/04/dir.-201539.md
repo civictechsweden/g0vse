@@ -6,4 +6,4 @@ Utredaren ska också lämna förslag till de ändringar i svensk lagstiftning so
 
 Utredaren ska vidare lämna förslag till de lagändringar som krävs i svensk rätt för att genomföra de regler som följer av Europaparlamentets och rådets direktiv 2014/92/EU av den 23 juli 2014 om jämförbarhet för avgifter som avser betalkonto, byte av betalkonto och tillgång till betalkonto med grundläggande funktioner.
 
-Uppdraget ska redovisas senast den 4 januari 2016\.
+Uppdraget ska redovisas senast den 4 januari 2016.

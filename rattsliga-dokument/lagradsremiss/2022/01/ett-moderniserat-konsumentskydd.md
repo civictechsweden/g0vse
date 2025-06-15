@@ -6,6 +6,6 @@ Förslagen innebär att det måste framgå om den som erbjuder en produkt till f
 
 Lagrådsremissen innehåller också förslag om att möjligheterna att påföra marknadsstörningsavgift ska utvidgas och att det ska införas en möjlighet att påföra en näringsidkare en sanktionsavgift vid överträdelser av avtalsvillkorslagen. Syftet är att skydda konsumenter mot allvarliga överträdelser av de konsu­mentskyddande reglerna.
 
-Förslagen i lagrådsremissen genomför ett EU\-direktiv från 2019 om ett moderniserat konsumentskydd och innebär lagändringar i avtalsvillkorslagen, prisinformationslagen, distansavtalslagen och marknadsföringslagen.
+Förslagen i lagrådsremissen genomför ett EU-direktiv från 2019 om ett moderniserat konsumentskydd och innebär lagändringar i avtalsvillkorslagen, prisinformationslagen, distansavtalslagen och marknadsföringslagen.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2022\.
+Lagändringarna föreslås träda i kraft den 1 juli 2022.

@@ -10,4 +10,4 @@ Vidare föreslås att kostnadsersättningar normalt ska bli skattefria även fö
 
 Förslagen medför ändringar i lagen om särskild inkomstskatt för utomlands bosatta, inkomstskattelagen och skatteförfarandelagen.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2022\.
+Lagändringarna föreslås träda i kraft den 1 januari 2022.

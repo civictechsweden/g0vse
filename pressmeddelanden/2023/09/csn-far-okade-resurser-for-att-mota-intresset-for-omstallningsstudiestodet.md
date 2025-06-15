@@ -8,4 +8,4 @@ För att myndigheten ska kunna hantera den stora ärendemängden bättre föresl
 
 För att ytterligare underlätta administrationen av stödet avser regeringen inom kort ge CSN i uppdrag att ta fram förslag på regelförändringar inom omställningsstudiestödet som kan leda till förbättringar i form av kortare handläggningstider och mer automatiserade processer, som inte ska ändra det grundläggande syftet med reformen eller utvidga målgruppen i någon större utsträckning. Regeringen kommer fortsätta följa frågan och föra dialog med arbetsmarknadens parter.
 
-Regeringen avser att överlämna förslagen om ökade resurser till CSN till riksdagen i höständringsbudgeten för 2023 och i budgetpropositionen för 2024\. Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
+Regeringen avser att överlämna förslagen om ökade resurser till CSN till riksdagen i höständringsbudgeten för 2023 och i budgetpropositionen för 2024. Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

@@ -8,12 +8,12 @@ Regeringen bedömer att det kan vara möjligt att få högre effektivitet i stat
 
 I myndigheternas uppdrag ingår att ta fram förslag på hur organisationsförändringarna kan genomföras samt att ta fram en analys av dess konsekvenser. Utgångspunkten är att den mindre myndigheten bör inordnas i den större, men alternativa utformningar kan också övervägas.
 
-Myndigheterna ska inkomma med förslag senast den 1 mars 2024\. Utgångspunkten är att organisationsförändringarna, i de fall regeringen bedömer att de ska genomföras, ska träda i kraft senast den 1 januari 2026\.
+Myndigheterna ska inkomma med förslag senast den 1 mars 2024. Utgångspunkten är att organisationsförändringarna, i de fall regeringen bedömer att de ska genomföras, ska träda i kraft senast den 1 januari 2026.
 
 Regeringen kommer att pröva följande sammanslagningar:
 
 * Statskontoret inordnas i Ekonomistyrningsverket
-* Myndigheten för stöd till trossamfund inordnas i Myndigheten för ungdoms\- och civilsamhällesfrågor
+* Myndigheten för stöd till trossamfund inordnas i Myndigheten för ungdoms- och civilsamhällesfrågor
 * Konstnärsnämnden inordnas i Statens kulturråd
 * Fastighetsmäklarinspektionen inordnas i Konsumentverket
 * Myndigheten för arbetsmiljökunskap inordnas i Arbetsmiljöverket

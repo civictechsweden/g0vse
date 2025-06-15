@@ -6,4 +6,4 @@ Mot bakgrund av houthiernas attacker mot internationell sjöfart i Röda havet b
 
 Eunavfor Aspides, eller Operation Aspides, uppgift är att ledsaga och skydda fartyg mot attacker till havs i Röda havet och i närliggande områden. Detta ska ske i nära samarbete med likasinnade aktörer. Insatsens mandat är defensivt.
 
-Den 22 februari beslutade regeringen att Sverige skulle bidra med upp till 10 stabsofficerare till Eunavfor Aspides. Nu utökas Sveriges insats med en traumaenhet på upp till 25 personer som placeras på ett nederländskt fartyg under 2024\.
+Den 22 februari beslutade regeringen att Sverige skulle bidra med upp till 10 stabsofficerare till Eunavfor Aspides. Nu utökas Sveriges insats med en traumaenhet på upp till 25 personer som placeras på ett nederländskt fartyg under 2024.

@@ -10,6 +10,6 @@ Regeringen föreslår även att den tidsperiod när ett återfall ska kunna beak
 
 Slutligen föreslår regeringen att ungdomstjänst och ungdomsvård ska omfattas av regleringen om ny påföljdsbestämning efter tidigare dom.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2016\.
+Lagändringarna föreslås träda i kraft den 1 juli 2016.
 
 [Pressmeddelande: Återfall i brottslighet ska leda till ny påföljd](/pressmeddelanden/2015/11/aterfall-i-brottslighet-ska-leda-till-ny-pafoljd/)

@@ -1,7 +1,6 @@
 # EU-beslut som stärker forskningens och rymdteknikens möjligheter
 
-Ministrarna antog slutsatser i flera forskningspolitiska frågor. De handlar bland annat om att stärka vetenskapens öppenhet och om behov av att rikta in den EU\-finansierade forskningen på samhälleliga utmaningar. Två beslut på rymdområdet lyfter rymdteknikens möjligheter och utveckling av tjänster, samt behovet av en säker och hållbar användning av rymden. Utbildningsminister Anna Ekström företrädde Sverige på mötet.
-
+Ministrarna antog slutsatser i flera forskningspolitiska frågor. De handlar bland annat om att stärka vetenskapens öppenhet och om behov av att rikta in den EU-finansierade forskningen på samhälleliga utmaningar. Två beslut på rymdområdet lyfter rymdteknikens möjligheter och utveckling av tjänster, samt behovet av en säker och hållbar användning av rymden. Utbildningsminister Anna Ekström företrädde Sverige på mötet.
 
 ## Tre beslut inom forskning
 
@@ -29,12 +28,12 @@ På dagordningen står slutsatser om Copernicus och om trafikledning i rymden.
 
 Copernicus är ett världsledande civilt och användardrivet system. Det behöver utvecklas för att svara upp mot nya behov och användarkrav för att på bästa sätt bidra till grön och digital omställning och till ett säkrare mer motståndskraftigt samhälle.
 
-Slutsatserna lyfter bland annat utvecklingen inom artificiell intelligens och databehandling liksom Copernicus viktiga roll inom till exempel transporter, energi, jordbruk, bekämpning av katastrofer och uppföljning av klimatets förändringar. Det handlar bland annat om säkrare livsmedels\- och vattenförsörjning.
+Slutsatserna lyfter bland annat utvecklingen inom artificiell intelligens och databehandling liksom Copernicus viktiga roll inom till exempel transporter, energi, jordbruk, bekämpning av katastrofer och uppföljning av klimatets förändringar. Det handlar bland annat om säkrare livsmedels- och vattenförsörjning.
 
 ### Rymdtrafikledning
 
-Rymdtrafikledningens roll växer i EU\-samarbetet, dels inom övervakning av rymdskrot, dels inom säkerhet och försvar såväl som civilt
+Rymdtrafikledningens roll växer i EU-samarbetet, dels inom övervakning av rymdskrot, dels inom säkerhet och försvar såväl som civilt
 
 ### Diskussion om EU:s rymdprogram
 
-Därutöver diskuterade ministrarna EU:s rymdprogram, det vill säga bland annat Copernicus och Galileo, med fokus på motstånds\- och konkurrenskraft och på investeringar, kapacitet och oberoende.
+Därutöver diskuterade ministrarna EU:s rymdprogram, det vill säga bland annat Copernicus och Galileo, med fokus på motstånds- och konkurrenskraft och på investeringar, kapacitet och oberoende.

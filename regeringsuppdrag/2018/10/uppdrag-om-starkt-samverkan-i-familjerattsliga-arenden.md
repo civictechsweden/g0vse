@@ -4,7 +4,6 @@ Regeringen uppdrar åt Myndigheten för familjerätt och föräldraskapsstöd (M
 
 Den kunskap som analysen skapar ska sammanställas och göras tillgänglig för kommunala huvudmän och profession. Uppdraget ska genomföras i samråd med Barnombudsmannen, Socialstyrelsen, Stiftelsen Allmänna Barnhuset och Sveriges Kommuner och Landsting.
 
-I uppdraget ska ett barnrätts\- och jämställdhetsperspektiv beaktas.
+I uppdraget ska ett barnrätts- och jämställdhetsperspektiv beaktas.
 
-
-Uppdraget ska slutredovisas till Socialdepartementet senast den 31 mars 2021\.
+Uppdraget ska slutredovisas till Socialdepartementet senast den 31 mars 2021.

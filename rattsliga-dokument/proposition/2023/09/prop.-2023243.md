@@ -6,4 +6,4 @@ Enligt förslagen ska Konkurrensverket få fatta beslut om upphandlingsskadeavgi
 
 De föreslagna ändringarna syftar till en effektivare tillsyn.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2024\.
+Lagändringarna föreslås träda i kraft den 1 januari 2024.

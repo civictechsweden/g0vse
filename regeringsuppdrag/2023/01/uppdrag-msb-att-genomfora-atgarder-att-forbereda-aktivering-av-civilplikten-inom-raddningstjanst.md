@@ -2,20 +2,19 @@
 
 Myndigheten för samhällsskydd och beredskap (MSB) ska genomföra de åtgärder som behövs för att förbereda för ett beslut om en aktivering av civilplikten som innebär att totalförsvarspliktiga som har genomgått relevant utbildning ska kunna skrivas in för civilplikt, fullgöra eventuellt nödvändig grundutbildning, krigsplaceras i en befattning samt fullgöra repetitionsutbildning inom kommunal räddningstjänst.
 
-
 Myndigheten ska:
 
-* Påbörja arbetet med att ta fram föreskrifter i enlighet med förordningen (1995:238\) om totalförsvarsplikt.
+* Påbörja arbetet med att ta fram föreskrifter i enlighet med förordningen (1995:238) om totalförsvarsplikt.
 * Utifrån gällande regelverk beskriva hur och av vilken aktör som
-identifieringen av totalförsvarspliktiga med relevant utbildning och
-utredningen av de totalförsvarspliktigas personliga förhållanden kan
-göras samt redovisa vilka åtgärder som behövs för att inskrivning för civilplikt, eventuellt nödvändig grundutbildning, krigsplacering och repetitionsutbildning ska kunna genomföras.
+  identifieringen av totalförsvarspliktiga med relevant utbildning och
+  utredningen av de totalförsvarspliktigas personliga förhållanden kan
+  göras samt redovisa vilka åtgärder som behövs för att inskrivning för civilplikt, eventuellt nödvändig grundutbildning, krigsplacering och repetitionsutbildning ska kunna genomföras.
 * Analysera behovet av författningsändringar, inklusive behov av
-ändringar som ger berörda aktörer möjlighet att behandla
-personuppgifter i den utsträckning som behövs.
+  ändringar som ger berörda aktörer möjlighet att behandla
+  personuppgifter i den utsträckning som behövs.
 * Vidta åtgärder för att förbereda för att informera allmänheten och
-berörda aktörer om vad en aktivering av civilplikten inom kommunal
-räddningstjänst kommer att innebära.
+  berörda aktörer om vad en aktivering av civilplikten inom kommunal
+  räddningstjänst kommer att innebära.
 * Vidta planering inför övriga förberedande åtgärder som en aktivering av civilplikten inom kommunal räddningstjänst skulle kräva, exempelvis i form av stöd till kommunerna.
 * Analysera behovet av kompletterande utbildning i form av nödvändig grundutbildning för genomförande av krigsuppgiften vid en eventuell aktivering av civilplikten.
 * Analysera repetitionsutbildningens utformning och omfattning inför en eventuell aktivering av civilplikten.
@@ -24,4 +23,4 @@ räddningstjänst kommer att innebära.
 * Analysera vilka kostnader som en aktivering av civilplikten inom kommunal räddningstjänst skulle medföra för kommuner och berörda myndigheter och lämna förslag på hur dessa kan finansieras.
 * Redovisa en tidplan för de åtgärder som krävs för att civilplikten ska kunna aktiveras i nu aktuellt avseende.
 
-Uppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 1 mars 2023\.
+Uppdraget ska redovisas till Regeringskansliet (Försvarsdepartementet) senast den 1 mars 2023.

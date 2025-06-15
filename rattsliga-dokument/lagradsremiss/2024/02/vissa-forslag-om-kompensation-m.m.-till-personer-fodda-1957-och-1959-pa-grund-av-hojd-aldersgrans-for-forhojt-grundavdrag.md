@@ -4,6 +4,6 @@ Regeringen har i budgetpropositionen för 2024 aviserat att en kompensation bör
 
 Lagförslaget innehåller dels en bestämmelse om att kompensationen ska vara skattefri, dels de bestämmelser som ska gälla för handläggning och övrigt förfarande för kompensationen. Skatteverket föreslås vara handläggande myndighet för kompensationen, vilken föreslås tillgodoräknas mottagarna genom kreditering på skattekontot.
 
-De nya bestämmelserna om kompensation föreslås träda i kraft den 1 juli 2024\.
+De nya bestämmelserna om kompensation föreslås träda i kraft den 1 juli 2024.
 
-Lagrådsremissen innehåller även förslag om att senarelägga ikraftträdandet av den av riksdagen beslutade höjningen av åldersgränsen för rätt till det förhöjda grundavdraget till 67 år. Förslaget innebär att höjningen av åldersgränsen i inkomstskattelagen (1999:1229\) för rätt till det förhöjda grundavdraget skjuts upp från den 1 januari 2026 till den 1 januari 2027\.
+Lagrådsremissen innehåller även förslag om att senarelägga ikraftträdandet av den av riksdagen beslutade höjningen av åldersgränsen för rätt till det förhöjda grundavdraget till 67 år. Förslaget innebär att höjningen av åldersgränsen i inkomstskattelagen (1999:1229) för rätt till det förhöjda grundavdraget skjuts upp från den 1 januari 2026 till den 1 januari 2027.

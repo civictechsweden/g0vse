@@ -1,11 +1,10 @@
 # EU-deklarationen 2021
 
-EU\-minister Hans Dahlgren, riksdagen, den 20 januari 2021\.
-
+EU-minister Hans Dahlgren, riksdagen, den 20 januari 2021.
 
 Herr/Fru talman.
 
-Hösten 2019 läste statsministern upp den första EU\-deklarationen någonsin, här i Sveriges riksdag.
+Hösten 2019 läste statsministern upp den första EU-deklarationen någonsin, här i Sveriges riksdag.
 
 Sedan dess har samarbetet prövats.
 Världen, EU och Sverige kämpar mot en pandemi som sprider död, rädsla och arbetslöshet.
@@ -34,17 +33,17 @@ Vi har samarbetets styrka i klimatomställningen och i kampen för våra demokra
 
 Ja, i varje enskild fråga stärks Sverige genom denna samverkan.
 
-EU\-samarbetet har ett stort värde i sig.
+EU-samarbetet har ett stort värde i sig.
 
 Men EU är viktigt också för hela världens fred, säkerhet och utveckling. Och Sverige ska använda den stora möjlighet till inflytande som vårt medlemskap ger.
 
-Sveriges utgångspunkt ska vara att vi fullt ut deltar i EU\-samarbetet och är aktiva i utformningen av alla dess delar på ett sätt som värnar svenska intressen.
+Sveriges utgångspunkt ska vara att vi fullt ut deltar i EU-samarbetet och är aktiva i utformningen av alla dess delar på ett sätt som värnar svenska intressen.
 
 Vi får mycket, samtidigt som vi bidrar till andra länders utveckling, precis så som ett väl fungerande samarbete ska gå till.
 
-Sveriges beslutade prioriteringar för EU\-arbetet ligger fast: skapa flera jobb med bra arbetsvillkor; bekämpa klimatkrisen; öka säkerheten; föra en human, rättssäker och långsiktigt hållbar migrationspolitik.
+Sveriges beslutade prioriteringar för EU-arbetet ligger fast: skapa flera jobb med bra arbetsvillkor; bekämpa klimatkrisen; öka säkerheten; föra en human, rättssäker och långsiktigt hållbar migrationspolitik.
 
-I EU\-samarbetet har Sverige bidragit till att forma starka allianser.  Under sommarens budgetförhandlingar tog vi ett tydligt ansvar tillsammans med tre andra länder, vilket också fick ett stort genomslag.
+I EU-samarbetet har Sverige bidragit till att forma starka allianser.  Under sommarens budgetförhandlingar tog vi ett tydligt ansvar tillsammans med tre andra länder, vilket också fick ett stort genomslag.
 
 Tack vare ett tidigt ledarskap har vi kunnat samla en växande skara länder bakom både en europeisk klimatlag och höjda klimatambitioner.
 Tillsammans med flera andra länder har Sverige lagt förslag om hur den inre marknaden kan utvecklas.
@@ -67,7 +66,7 @@ När coronaviruset började sprida sig i Europa under våren agerade flera län
 
 Länder stängde gränser utan förvarning, och höll på medicinsk utrustning. Vi kunde inte riktigt lita på den fria rörligheten, när det verkligen gällde.
 
-Sedan dess har samarbetet blivit klart bättre. EU\-länderna har beslutat om ett gigantiskt återhämtningspaket. Gemensamma beredskapslager för skyddsutrustning byggs upp, ett av dem i Sverige. Och allra viktigast \- tillsammans har vi fått fram ett vaccin till alla EU:s länder, och de första kunde vaccineras redan under julhelgen.
+Sedan dess har samarbetet blivit klart bättre. EU-länderna har beslutat om ett gigantiskt återhämtningspaket. Gemensamma beredskapslager för skyddsutrustning byggs upp, ett av dem i Sverige. Och allra viktigast - tillsammans har vi fått fram ett vaccin till alla EU:s länder, och de första kunde vaccineras redan under julhelgen.
 
 Fokus nu är att dämpa smittspridningen och att skydda liv, hälsa och jobb. Fortsatt vaccinering kommer att vara en viktig del i detta.
 
@@ -103,7 +102,7 @@ När världens länder nu förnyar sina mål och sina insatser i enlighet med Pa
 
 Herr/Fru talman.
 
-EU\-samarbetet bygger på några grundläggande värderingar:
+EU-samarbetet bygger på några grundläggande värderingar:
 
 * Respekt för mänskliga rättigheter.
 * Frihet och demokrati.
@@ -122,7 +121,7 @@ EU är en union för demokratier. Alla länder ska leva upp till de grundläggan
 
 Utan ömsesidigt förtroende hotas också ekonomin. Investeringar riskerar att stoppas, handeln blir lidande och jobb förvinner.
 
-Sverige har i flera år varit starkt drivande för att utbetalningar av EU\-medel ska villkoras med respekt för rättsstatens principer. Sedan årsskiftet finns nu äntligen en mekanism på plats som för första gången knyter EU:s pengar till våra gemensamma värderingar.
+Sverige har i flera år varit starkt drivande för att utbetalningar av EU-medel ska villkoras med respekt för rättsstatens principer. Sedan årsskiftet finns nu äntligen en mekanism på plats som för första gången knyter EU:s pengar till våra gemensamma värderingar.
 Det är ett historiskt och helt nödvändigt ställningstagande.
 
 \*\*\*
@@ -140,7 +139,7 @@ en attack mot hela Europa, mot vårt öppna Europa.
 
 Grov kriminalitet känner inga gränser, den rör sig hänsynslöst över hela Europa. Därför behöver hela EU bekämpa brottsligheten överallt, tillsammans. Inget hörn ska gå att gömma sig i.
 
-Det krävs mer samarbete mellan EU\-ländernas polis, åklagare och andra myndigheter för att komma åt brottsligheten. Genom krav på passageraruppgifter från fler trafikslag än luftfart kan vi bättre följa kriminellas resor.
+Det krävs mer samarbete mellan EU-ländernas polis, åklagare och andra myndigheter för att komma åt brottsligheten. Genom krav på passageraruppgifter från fler trafikslag än luftfart kan vi bättre följa kriminellas resor.
 
 Vi ska arbeta för att brottsbekämpande myndigheter ska få bästa möjliga tillgång till information och bevisning, också digitalt. Och regeringen förbereder nu Sveriges anslutning till den europeiska åklagarmyndigheten.
 

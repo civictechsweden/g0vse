@@ -2,7 +2,6 @@
 
 Tillsammans mot ett hållbart mode. Idag den 30 maj bjuder regeringen in modebranschen inom ramen för samverkansprogrammet Cirkulär och biobaserad ekonomi. Detta för att tillsammans samla och konkretisera arbetet för att få en hållbar textil värdekedja i alla delar. Ambitionen är att Sverige ska bli världsledande i hållbar modeproduktion och konsumtion.
 
-
 Textilindustrin är på global nivå den smutsigaste industrin efter oljeindustrin. Befolkningsökningen gör att vi använder mer och mer textilier för varje år. Regeringens ambition är att Sverige ska ligga i framkant när det gäller arbetet med hållbarhet i värdekedjan som en del i arbetet för att uppnå de globala målen för hållbar utveckling i Agenda 2030 och klimatavtalet från Paris.
 
 – Jag ser framför mig att hållbart mode ska vara en tydlig markör för

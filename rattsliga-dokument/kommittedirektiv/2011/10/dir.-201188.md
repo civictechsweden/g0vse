@@ -10,6 +10,6 @@ Utredaren ska:
 * föreslå åtgärder som ökar möjligheterna för nyanlända utrikes födda kvinnor och män att kombinera föräldraskap med arbete och deltagande i etableringsinsatser, samt
 * föreslå åtgärder som säkerställer att nyanlända får en individuellt anpassad etablering som är likvärdig för kvinnor och män.
 
-Uppdraget att kartlägga uttaget av föräldrapenning bland nyanlända utrikes födda kvinnor och män ska redovisas senast den 1 mars 2012\.
+Uppdraget att kartlägga uttaget av föräldrapenning bland nyanlända utrikes födda kvinnor och män ska redovisas senast den 1 mars 2012.
 
-Uppdraget ska slutredovisas senast den 15 oktober 2012\.
+Uppdraget ska slutredovisas senast den 15 oktober 2012.

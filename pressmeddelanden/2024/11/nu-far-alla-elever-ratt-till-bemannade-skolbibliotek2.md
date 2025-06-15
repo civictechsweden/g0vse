@@ -1,6 +1,6 @@
 # Nu får alla elever rätt till bemannade skolbibliotek
 
-Ett välutrustat och bemannat skolbibliotek kan, tillsammans med lärarna, spela en viktig roll för att utveckla elevers läsförmåga och lärande i alla skolans ämnen. Regeringen beslutade i juli om propositionen Stärkta skolbibliotek som ska stärka elevernas rätt till bemannade skolbibliotek. Nu har riksdagen beslutat i enlighet med regeringens förslag. Lagändringarna träder i kraft den 1 juli 2025\. Efter det datumet ska elever ha tillgång till bemannade skolbibliotek.
+Ett välutrustat och bemannat skolbibliotek kan, tillsammans med lärarna, spela en viktig roll för att utveckla elevers läsförmåga och lärande i alla skolans ämnen. Regeringen beslutade i juli om propositionen Stärkta skolbibliotek som ska stärka elevernas rätt till bemannade skolbibliotek. Nu har riksdagen beslutat i enlighet med regeringens förslag. Lagändringarna träder i kraft den 1 juli 2025. Efter det datumet ska elever ha tillgång till bemannade skolbibliotek.
 
 – Med de här lagändringarna gör vi det tydligt vad ett skolbibliotek ska vara. Äntligen ska alla elever få tillgång till bemannade skolbibliotek, säger skolminister Lotta Edholm.
 

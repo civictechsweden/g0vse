@@ -2,7 +2,6 @@
 
 Läkemedelsverket och Etikprövningsmyndigheten ska i samarbete med regionala biobankscentra göra en förstudie av vilka systemlösningar och processer som behövs för att bland annat hantera ärenden och samordna nationella bedömningar i enlighet med de nya lagstiftningarna om nytt tillståndsförfarande om kliniska läkemedelsprövningar och om nytt tillståndsförfarande om kliniska läkemedelsprövningar.
 
-
 ## Läkemedelsverket samordnar uppdraget
 
 Förstudien ska analysera potentiella konsekvenser och uppskatta kostnader samt belysa rättsliga frågor. Läkemedelsverket ska fortsatt ha den samordnande rollen i uppdraget.

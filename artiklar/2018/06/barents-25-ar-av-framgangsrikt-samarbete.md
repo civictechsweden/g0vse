@@ -1,13 +1,12 @@
 # Barents: 25 år av framgångsrikt samarbete
 
-Barentssamarbetet har lagt grunden för ett omfattande folk\-till\-folk samarbete såväl som dialog på hög politisk nivå i det europeiska Arktis. Att samarbetet i år firar 25 år uppmärksammades på Sveriges EU\-representation 5 juni med ett evenemang för att lyfta samarbetet i ett EU\-perspektiv och för att blicka framåt.
-
+Barentssamarbetet har lagt grunden för ett omfattande folk-till-folk samarbete såväl som dialog på hög politisk nivå i det europeiska Arktis. Att samarbetet i år firar 25 år uppmärksammades på Sveriges EU-representation 5 juni med ett evenemang för att lyfta samarbetet i ett EU-perspektiv och för att blicka framåt.
 
 ## Samarbete sedan 1993
 
-Det var 1993 som Norges dåvarande utrikesminister, Thorvald Stoltenberg, tog initiativet till Barentssamarbetet i den anda som rådde vid det kalla krigets slut. Ambitionen var att säkra fred och stabilitet i ett område starkt präglat av politisk spänning \- först under andra världskriget för att sedan skäras itu av järnridån.
+Det var 1993 som Norges dåvarande utrikesminister, Thorvald Stoltenberg, tog initiativet till Barentssamarbetet i den anda som rådde vid det kalla krigets slut. Ambitionen var att säkra fred och stabilitet i ett område starkt präglat av politisk spänning - först under andra världskriget för att sedan skäras itu av järnridån.
 
-\- Barentssamarbetet utmärker sig som ett av de mest framgångsrika regionala samarbetena i vår del av världen. Vi har byggt vidare på de kontakter människor i området har haft i området i hundratals år och skapat ett nät där människor och organisationer samarbetar.
+- Barentssamarbetet utmärker sig som ett av de mest framgångsrika regionala samarbetena i vår del av världen. Vi har byggt vidare på de kontakter människor i området har haft i området i hundratals år och skapat ett nät där människor och organisationer samarbetar.
 
 Det underströk Björn Lyrvall, Sveriges ambassadör för Arktis när han talade vid evenemanget.
 
@@ -18,21 +17,21 @@ Björn Lyrvall liksom flera andra talare påpekade att allt fler ögon vänds mo
 Barentsregionen förenar norra Finland, Sverige, Norge och nordvästra Ryssland. Regionen är med sina dryga fem miljoner invånare det mest tätbefolkade området norr om polcirkeln. EU är liksom länderna och de 14 regionerna i Barentsområdet medlem av samarbetet sedan
 Kirkenesdeklarationen undertecknades 1993 och samarbetet startade.
 
-\- Men när Sverige och Finland blev medlem i EU 1995 fanns inte nordligaste Europa med på EU:s kartor. I dag däremot är EU en oerhört viktig partner, inte minst ur finansiellt perspektiv, och det är lovande att se att intresset ökar, påpekade Björn Lyrvall.
+- Men när Sverige och Finland blev medlem i EU 1995 fanns inte nordligaste Europa med på EU:s kartor. I dag däremot är EU en oerhört viktig partner, inte minst ur finansiellt perspektiv, och det är lovande att se att intresset ökar, påpekade Björn Lyrvall.
 
-Bland möjligheterna till projektfinansiering märks särskilt EU\-programmet KOLARCTIC CBC med 63 miljoner euro för perioden 2014–2020, vilket uppmärksammades av flera talare.
+Bland möjligheterna till projektfinansiering märks särskilt EU-programmet KOLARCTIC CBC med 63 miljoner euro för perioden 2014–2020, vilket uppmärksammades av flera talare.
 
-## Folk\-till\-folk i Barentsregionen
+## Folk-till-folk i Barentsregionen
 
-Viljan att säkra fred och stabilitet har lagt grunden för ett aktivt folk\-till\-folk\-samarbete liksom expertsamarbeten i Barentsregionen inom många områden. Här finns välförankrade samarbeten inom till exempel kultur, sport och miljö och inte minst projekt och samarbetsgrupper som för samman regionens tre urfolk. Bland regionens invånare är det framför allt samerna som påverkats av nationella gränser eftersom deras utbredning och levnadssätt inte följer de gränsdragningar som statsmakterna ritat upp. Tatiana Egorova, chef för Barents urfolkskontor, lyfte bland annat att flera unga urfolksentreprenörer nu kan försörja sig på sin verksamhet efter att ha deltagit i Barentsprojektet Indigee.
+Viljan att säkra fred och stabilitet har lagt grunden för ett aktivt folk-till-folk-samarbete liksom expertsamarbeten i Barentsregionen inom många områden. Här finns välförankrade samarbeten inom till exempel kultur, sport och miljö och inte minst projekt och samarbetsgrupper som för samman regionens tre urfolk. Bland regionens invånare är det framför allt samerna som påverkats av nationella gränser eftersom deras utbredning och levnadssätt inte följer de gränsdragningar som statsmakterna ritat upp. Tatiana Egorova, chef för Barents urfolkskontor, lyfte bland annat att flera unga urfolksentreprenörer nu kan försörja sig på sin verksamhet efter att ha deltagit i Barentsprojektet Indigee.
 
-På en mer politisk nivå handlar Barentssamarbetet till exempel om gemensamma planer på transportområdet, att 12 så kallade "hot\-spots" på miljöområdet av totalt 42 har hittills har åtgärdats, räddningstjänster som hjälper varandra över gränserna och att få till stånd förenklade visumregler som sedan några år tillbaka gäller för de som bor i den norsk\-ryska gränsens närhet.
+På en mer politisk nivå handlar Barentssamarbetet till exempel om gemensamma planer på transportområdet, att 12 så kallade "hot-spots" på miljöområdet av totalt 42 har hittills har åtgärdats, räddningstjänster som hjälper varandra över gränserna och att få till stånd förenklade visumregler som sedan några år tillbaka gäller för de som bor i den norsk-ryska gränsens närhet.
 
 ## Fortsatta utmaningar
 
 Trots landvinningar fortsätter visumregler liksom brister i infrastruktur att vara en börda i regionen, påpekade Ragnhild Vassvik, regionråd för norska Finnmark och ordförande för det mellanregionala samarbetet. Hon uppmuntrade också EU att förbli en stark partner som fortsätter att stötta Barentssamarbetet.
 
-\- I ljuset av de inte alltid konfliktfria relationerna till Ryssland fortsätter vi att samarbeta. Det är tydligt att våra utmaningar och möjligheter är gemensamma och vi behöver därför samarbetet, avslutade Ragnhild Vassvik sitt anförande.
+- I ljuset av de inte alltid konfliktfria relationerna till Ryssland fortsätter vi att samarbeta. Det är tydligt att våra utmaningar och möjligheter är gemensamma och vi behöver därför samarbetet, avslutade Ragnhild Vassvik sitt anförande.
 
 Två paneldiskussioner där Europaparlamentariker, representanter från EU och nationella och regionala nivåer i medlemsländerna deltog rundade av dagen.
 
@@ -40,7 +39,7 @@ Två paneldiskussioner där Europaparlamentariker, representanter från EU och n
 
 Evenemanget "Barents Cooperation 25 years – Fostering Common Opportunities in the European Arctic" var ett initiativ av Sveriges ordförandeskap i Barentsrådet i samarbete med Finnmarks region och regionkontoren i Bryssel för norra Norge och norra Sverige samt de norska och det internationella Barentssekretariaten.
 
-Sveriges ordförandeskap i det mellanstatliga samarbetet 2017\-2019 sammanfaller med 25\-årsjubiléet och tar avstamp inför framtiden. Temat för ordförandeskapet är "Regional uthållig utveckling för framtiden" med fokus på att stärka regionens ungdomssamarbete och att prioritera frågor inom miljö, ekonomi och det sociala området.
+Sveriges ordförandeskap i det mellanstatliga samarbetet 2017-2019 sammanfaller med 25-årsjubiléet och tar avstamp inför framtiden. Temat för ordförandeskapet är "Regional uthållig utveckling för framtiden" med fokus på att stärka regionens ungdomssamarbete och att prioritera frågor inom miljö, ekonomi och det sociala området.
 
 ### Programmet
 

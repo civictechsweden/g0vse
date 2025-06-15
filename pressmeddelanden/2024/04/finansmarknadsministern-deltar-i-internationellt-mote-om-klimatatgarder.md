@@ -6,4 +6,4 @@ Finansministerkoalitionen för klimatåtgärder är en sammanslutning av ministr
 
 Finansmarknadsministern kommer under mötet att delta i en diskussion på temat mobilisering av globala skuld­­marknader som en källa till finansiering för rättvis omställning.
 
-Under besöket i Washington D.C. kommer finansmarknadsministern även hålla ett inledningsanförande på ett högnivåevent anordnat av Global Investment for Sustainable Development och UNDESA, delta i Världsbankens rundabordssamtal om Ukraina samt i FATF\-ministermöte.
+Under besöket i Washington D.C. kommer finansmarknadsministern även hålla ett inledningsanförande på ett högnivåevent anordnat av Global Investment for Sustainable Development och UNDESA, delta i Världsbankens rundabordssamtal om Ukraina samt i FATF-ministermöte.

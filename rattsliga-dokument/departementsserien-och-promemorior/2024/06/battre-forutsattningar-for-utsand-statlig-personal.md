@@ -13,6 +13,6 @@ Utredningen har kartlagt och analyserat:
 
 I promemorian föreslås att förmånen av vaccination av medföljande familjemedlemmar vid tjänstgöring utomlands ska göras skattefri, om vaccinationen krävs för utlandsvistelsen. Skattefriheten föreslås gälla både privat och statligt anställd personal.
 
-I promemorian föreslås också att även den som sänds ut av Regeringskansliet eller Försvarsmakten för tjänstgöring utomlands, men inte är bosatt här i Sverige, ska omfattas av regionernas ansvar att erbjuda en god hälso\- och sjukvård samt tandvård. Detta gäller även medföljande familjemedlemmar. Personal från Försvarsmakten som tjänstgör i en internationell militär insats ska dock inte omfattas av regionernas utökade ansvar enligt förslaget.
+I promemorian föreslås också att även den som sänds ut av Regeringskansliet eller Försvarsmakten för tjänstgöring utomlands, men inte är bosatt här i Sverige, ska omfattas av regionernas ansvar att erbjuda en god hälso- och sjukvård samt tandvård. Detta gäller även medföljande familjemedlemmar. Personal från Försvarsmakten som tjänstgör i en internationell militär insats ska dock inte omfattas av regionernas utökade ansvar enligt förslaget.
 
-Lagändringarna föreslås träda i kraft 1 juli 2025\.
+Lagändringarna föreslås träda i kraft 1 juli 2025.

@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Myndigheten för familjerätt och föräldraskapsstöd (MFoF) att kartlägga befintliga föräldraskapsstödjande insatser som riktar sig till föräldrar med psykisk ohälsa eller kognitiva svårigheter.
 
-
 MFoF ska bland annat
 
 * analysera hur väl befintligt föräldraskapsstöd svarar mot det som målgrupperna behöve,

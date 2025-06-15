@@ -6,4 +6,4 @@ Därutöver ska utredaren ta fram förslag och alternativa strategier för hur d
 
 Direktiven har tagits fram i samråd med Pensionsgruppen.
 
-Uppdraget ska delredovisas i fråga om analysen senast den 16 januari 2012 och slutredovisas i april 2013\.
+Uppdraget ska delredovisas i fråga om analysen senast den 16 januari 2012 och slutredovisas i april 2013.

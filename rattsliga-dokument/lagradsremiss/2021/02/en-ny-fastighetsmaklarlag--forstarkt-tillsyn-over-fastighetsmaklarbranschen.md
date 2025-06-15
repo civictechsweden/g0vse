@@ -6,4 +6,4 @@ För många människor är köp och försäljning av bostaden de viktigaste aff�
 
 En viktig nyhet i den nya lagen är att den inte bara gäller för fastig­hets­mäklare utan även för fastig­hets­mäklar­företag. Lagen inne­bär att före­tagen ska regi­st­reras och stå under tillsyn. Före­tagen måste uppfylla flera krav för att få vara verk­­samma. De ges också ett över­­gri­pande ansvar att verka för att de mäk­lare som är verksamma i före­taget föl­­jer god fastig­­hets­­mäklar­sed. Ett mäk­­lar­­före­tag som åsido­sätter sina skyl­­dig­heter ska kunna ges en disciplin­påföljd. Det blir möjligt att ingripa om det finns olämp­liga per­soner i företags­­ledningen och ägar­kretsen. Dess­utom ska fler fas­tig­­hets­­mäklare vara regist­rerings­skyldiga och stå under tillsyn. Det föreslås vidare att skyldig­­he­terna enligt penning­­­tvätts­­regleringen utvidgas till att omfatta även dessa mäklare och ­företagen.
 
-Den nya lagen och lagänd­ringarna föreslås träda i kraft den 1 juli 2021\.
+Den nya lagen och lagänd­ringarna föreslås träda i kraft den 1 juli 2021.

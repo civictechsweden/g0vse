@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen och Folkhälsomyndigheten att lämna in underlag till en nationell strategi för psykisk hälsa och suicidprevention. Uppdraget görs i nära samverkan med flera berörda myndigheter.
 
-
 Arbetet utgår från det övergripande folkhälsopolitiska ramverk och den stödstruktur som Folkhälsomyndigheten haft i uppdrag att utveckla samt andra relevanta nationella mål och riktlinjer.
 
 I arbetet medverkar:
@@ -18,7 +17,7 @@ I arbetet medverkar:
 * Myndigheten för arbetsmiljökunskap (Mynak),
 * Myndigheten för delaktighet (MFD),
 * Myndigheten för familjerätt och föräldraskapsstöd (MFoF),
-* Myndigheten för ungdoms\- och civilsamhällesfrågor (MUCF),
+* Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF),
 * Polismyndigheten,
 * Sametinget,
 * Specialpedagogiska skolmyndigheten (SPSM),
@@ -41,4 +40,4 @@ Myndigheterna ska också föreslå hur de kan stödja arbetet med att genomföra
 
 Myndigheternas individuella analyser redovisas senast den 1 september 2021 till Folkhälsomyndigheten och Socialstyrelsen. De samordnande myndigheterna ska senast den 31 december 2021 komma in med en fortsatt arbetsplan till Socialdepartementet.
 
-Uppdraget slutredovisas till Socialdepartementet senast den 1 september 2023\.
+Uppdraget slutredovisas till Socialdepartementet senast den 1 september 2023.

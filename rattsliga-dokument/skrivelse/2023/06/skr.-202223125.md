@@ -1,11 +1,11 @@
 # Riksrevisionens rapport om etablering av myndigheter utanför Stockholm
 
-I skrivelsen redovisar regeringen sin bedömning av Riksrevisionens iakttagelser och rekommendationer i granskningsrapporten Etablering av myndigheter utanför Stockholm – små regionala bidrag utan äventyrad effektivitet på lång sikt (RiR 2023:1\).
+I skrivelsen redovisar regeringen sin bedömning av Riksrevisionens iakttagelser och rekommendationer i granskningsrapporten Etablering av myndigheter utanför Stockholm – små regionala bidrag utan äventyrad effektivitet på lång sikt (RiR 2023:1).
 
 Riksrevisionen har granskat om regeringens lokalisering av
 myndigheter på orter utanför Stockholm har levt upp till riksdagens
 avsikter. Granskningen omfattar 46 myndigheter som regeringen helt eller
-delvis har lokaliserat utanför Stockholm mellan 2004 och 2020\.
+delvis har lokaliserat utanför Stockholm mellan 2004 och 2020.
 Riksrevisionens övergripande slutsats är att regeringens lokalisering av
 myndigheter på orter utanför Stockholm under perioden 2004–2020 delvis
 har levt upp till riksdagens avsikter. Enligt Riksrevisionen har lokaliseringsbesluten medfört ett litet men positivt bidrag till regional

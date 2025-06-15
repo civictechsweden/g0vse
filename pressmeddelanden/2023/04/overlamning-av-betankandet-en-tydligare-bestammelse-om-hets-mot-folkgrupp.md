@@ -9,6 +9,6 @@ Kommittén, som består av leda­möter från samtliga riksdags­partier, har ha
 * Det ska uttryckligen framgå av lag­texten att hets mot folk­grupp också omfattar upp­maningar till våld.
 * Det ska införas ett särskilt straff­ansvar för för­nekande, urskuldande och uppenbart förringande av Förintelsen och vissa andra folkmord, brott mot mänsk­ligheten, krigs­förbrytelse och aggressions­brott.
 * Enskilda brotts­offer ska få ett bättre skydd av bestäm­melsen om hets mot folkgrupp.
-Det särskilda straff­ansvaret ligger inom ramen för bestäm­melsen om hets mot folkgrupp och är begränsat till att omfatta endast brott som har fastställts av en inter­nationell eller svensk domstol. Inget av förslagen innebär att gränserna för straff­ansvar eller för yttrande­friheten ändras.
+  Det särskilda straff­ansvaret ligger inom ramen för bestäm­melsen om hets mot folkgrupp och är begränsat till att omfatta endast brott som har fastställts av en inter­nationell eller svensk domstol. Inget av förslagen innebär att gränserna för straff­ansvar eller för yttrande­friheten ändras.
 
-Kommittén bedömer att före­slagna ändringar i bestäm­melsen i brotts­balken bör kunna träda i kraft den 1 juli 2024 och att före­slagna ändringar i bestäm­melsen i tryck­frihets­förordningen bör kunna träda i kraft den 1 januari 2027\.
+Kommittén bedömer att före­slagna ändringar i bestäm­melsen i brotts­balken bör kunna träda i kraft den 1 juli 2024 och att före­slagna ändringar i bestäm­melsen i tryck­frihets­förordningen bör kunna träda i kraft den 1 januari 2027.

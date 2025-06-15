@@ -4,6 +4,6 @@ I den nationella strategin mot organiserad brottslighet är en tydlig målsättn
 
 Dagens möte blir det nionde i ordningen och i fokus står arbetslivskriminalitet, vilket är en drivande faktor i den kriminella ekonomin. Arbetslivskriminaliteten berör hela samhället och sträcker sig över departementsgränser och myndigheters ansvarsområden. Effektiv myndighetssamverkan är därför centralt för att bekämpa denna typ av brottslighet.
 
-Vid dagens möte deltar, utöver rådets sex fasta medlemmar, även Arbetsförmedlingen, Arbetsmiljöverket, Jämställdhetsmyndigheten, Försäkringskassan, Migrationsverket samt Delegationen mot arbetslivskriminalitet. Från regeringen deltar justitieminister Gunnar Strömmer, jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg och migrationsminister Maria Malmer Stenergard.
+Vid dagens möte deltar, utöver rådets sex fasta medlemmar, även Arbetsförmedlingen, Arbetsmiljöverket, Jämställdhetsmyndigheten, Försäkringskassan, Migrationsverket samt Delegationen mot arbetslivskriminalitet. Från regeringen deltar justitieminister Gunnar Strömmer, jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg och migrationsminister Maria Malmer Stenergard.
 
 För mer information om mötet och möjlighet till intervju, kontakta presskontakt.

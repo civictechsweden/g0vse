@@ -2,7 +2,7 @@
 
 Skrivelsen innehåller regeringens bedömningar med anledning av Riksrevisionens granskningsrapport Undantag från skolplikten – regler, tillämpning och tillsyn.
 
-Riksrevisionens övergripande slutsats är att skollagens (2010:800\) bestämmelser om ledighet, fullgörande av skolplikten på annat sätt och upphörande av skolplikten vid varaktig vistelse utomlands inte tillämpas i enlighet med lagstiftarens intentioner. Riksrevisionen anser att Statens skolinspektion inte har utövat någon tillsyn över hur bestämmelserna tillämpas och att Statens skolverk inte har tagit fram tillräckligt med stöd och vägledning.
+Riksrevisionens övergripande slutsats är att skollagens (2010:800) bestämmelser om ledighet, fullgörande av skolplikten på annat sätt och upphörande av skolplikten vid varaktig vistelse utomlands inte tillämpas i enlighet med lagstiftarens intentioner. Riksrevisionen anser att Statens skolinspektion inte har utövat någon tillsyn över hur bestämmelserna tillämpas och att Statens skolverk inte har tagit fram tillräckligt med stöd och vägledning.
 
 Riksrevisionen ger följande rekommendationer:
 

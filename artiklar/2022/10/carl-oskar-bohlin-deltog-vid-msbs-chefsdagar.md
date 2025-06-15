@@ -1,7 +1,6 @@
 # Carl-Oskar Bohlin deltog vid MSB:s chefsdagar
 
-Onsdagen den 19 oktober gjorde Carl\-Oskar Bohlin, minister för civilt försvar, sitt första verksamhetsbesök som statsråd.
-
+Onsdagen den 19 oktober gjorde Carl-Oskar Bohlin, minister för civilt försvar, sitt första verksamhetsbesök som statsråd.
 
 Bohlin deltog vid Myndigheten för samhällsskydd och beredskaps (MSB) chefsdagar på Lidingö i Stockholm. Där samlades Myndighetens chefer från hela landet för att diskutera omvärldsläget, ledarskap och framtiden för civil beredskap.
 

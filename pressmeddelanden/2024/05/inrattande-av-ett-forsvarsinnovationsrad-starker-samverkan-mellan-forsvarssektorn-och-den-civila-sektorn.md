@@ -26,7 +26,7 @@ Försvarsinnovationsrådets första möte äger rum vid Försvarsdepartementet d
 
 **Micael Johansson**, verkställande direktör, Saab
 
-**Robert Limmergård**, generalsekreterare, Säkerhets\- och försvarsföretagen
+**Robert Limmergård**, generalsekreterare, Säkerhets- och försvarsföretagen
 
 **Jens Mattsson**, generaldirektör, Totalförsvarets forskningsinstitut (FOI)
 

@@ -4,8 +4,7 @@
 
 Det talade ordet gäller.
 
-
-Det är min stora glädje och ära att få hälsa er välkomna till invigningen av Stockholm Art Week 2023\.
+Det är min stora glädje och ära att få hälsa er välkomna till invigningen av Stockholm Art Week 2023.
 
 Stockholm har länge varit ett centrum för kultur och konst. Vår huvudstad har också skildrats flitigt i både litteratur, film och bildkonst.
 

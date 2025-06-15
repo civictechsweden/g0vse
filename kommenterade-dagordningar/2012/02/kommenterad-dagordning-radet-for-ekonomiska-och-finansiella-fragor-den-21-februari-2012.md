@@ -5,8 +5,8 @@ På Ekofinrådets möte den 21 februari 2012 finns följande punkter på dagordn
 * Förslag från kommissionen om ekonomisk styrning
 * Förhandlingsmandat för avtalen om beskattning med tredjeländer
 * Makroekonomisk obalans: Rapport om förvarningsmekanismen (ev.)
-* Bidrag till Europeiska rådets möte den 1\-2 mars 2012
-* Förberedelser inför G20\-mötet med finansministrar och centralbankschefer 24\-26 februari 2012
+* Bidrag till Europeiska rådets möte den 1-2 mars 2012
+* Förberedelser inför G20-mötet med finansministrar och centralbankschefer 24-26 februari 2012
 * Ansvarsfrihet för genomförande av budgeten för 2010
 * Budgetriktlinjer för 2013
 * Klimatfinansiering: Uppföljning av konferensen i Durban (ev.)

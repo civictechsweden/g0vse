@@ -6,6 +6,6 @@ De nyanlända arbetssökande ska vara inskrivna hos Arbetsförmedlingen, men de 
 
 Arbetsgivarverket ska, inom sitt ansvarsområde, svara för sådan information, rådgivning och utbildning som myndigheterna behöver.
 
-Statskontoret ska löpande följa hur arbetet med uppdraget fortskrider och lämna en slutrapport senast den 1 mars 2019\.
+Statskontoret ska löpande följa hur arbetet med uppdraget fortskrider och lämna en slutrapport senast den 1 mars 2019.
 
 Satsningen är en del av den överenskommelse mellan regeringspartierna, Moderaterna, Centerpartiet, Liberalerna och Kristdemokraterna som slöts i oktober 2015 med anledning av flyktingkrisen.

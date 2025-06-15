@@ -10,6 +10,6 @@ Regeringen föreslår också att bestämmelsen om anmälningstid i föräldraled
 
 Bestämmelserna gäller vid extraordinära händelser i fred. Meningen är att exempelvis under pågående smittspridning minska riskerna för att smitta sprids och på så sätt öka skyddet för befolkningen och viktiga samhällsfunktioner.
 
-Regeringen föreslår att lagändringarna träder i kraft den 7 april 2020\. Bestämmelserna om läkarintyg ska tillämpas från den 13 mars 2020\.
+Regeringen föreslår att lagändringarna träder i kraft den 7 april 2020. Bestämmelserna om läkarintyg ska tillämpas från den 13 mars 2020.
 
 Genom förslaget ges regeringen möjlighet att föreskriva när det äldre regelverket om läkarintyg åter ska träda i kraft.

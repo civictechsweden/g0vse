@@ -4,4 +4,4 @@ Regeringen ger Kriminalvården i uppdrag att ytterligare utveckla myndighetens �
 
 Vid genomförande av uppdraget ska Kriminalvården samverka med Socialstyrelsen. Kriminalvården ska vidare inhämta synpunkter från Jämställdhetsmyndigheten, länsstyrelserna och andra relevanta myndigheter.
 
-Uppdraget ska delredovisas till Regeringskansliet senast den 31 mars 2020 och slutredovisas senast den 31 mars 2021\.
+Uppdraget ska delredovisas till Regeringskansliet senast den 31 mars 2020 och slutredovisas senast den 31 mars 2021.

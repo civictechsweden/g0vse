@@ -5,7 +5,7 @@ förebygga ohälsa till följd av exponering för asbest
 
 * kartlägga inom vilka områden kunskap om förekomst och hantering av asbest i byggnader brister,
 * föreslå hur information och kunskap om hur asbest ska hanteras vid
-byggnadsarbeten kan stärkas för olika målgrupper,
+  byggnadsarbeten kan stärkas för olika målgrupper,
 * ta fram frågor och svar till Boverkets hemsida utifrån den kunskap som finns i dag om risker med asbest och hur asbest ska hanteras vid byggnadsarbeten.
 
 Boverket ska i lämpliga delar samverka med Arbetsmiljöverket och

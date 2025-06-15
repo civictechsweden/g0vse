@@ -11,4 +11,4 @@ Utredaren ska bl.a.
 
 Syftet med utredningen är att gynna en utveckling där lägre produktionskostnader återspeglas i boendekostnaderna och där företag med sådana affärsmodeller ges bättre förutsättningar att verka.
 
-Maria Ågren har utsetts till särskild utredare och uppdraget ska redovisas senast den 14 december 2020\.
+Maria Ågren har utsetts till särskild utredare och uppdraget ska redovisas senast den 14 december 2020.

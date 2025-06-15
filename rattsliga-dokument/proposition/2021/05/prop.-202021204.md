@@ -6,4 +6,4 @@ Sverige har under lång tid varit starkt enga­gerat för att främja utveck­li
 
 I propositionen föreslår regeringen även att lag­stift­ningen om svensk straff­rätts­lig doms­rätt förtyd­ligas, moderni­seras och anpassas till folk­rätten genom att det införs ett nytt 2 kap. i brotts­balken med rubriken Om svensk dom­stols behörighet. Förslagen innebär bl.a. att svensk domstol ska vara behörig att döma över brott som har begåtts utom­lands mot svenska med­borgare och företag. Det före­slås också att huvud­ansvaret för pröv­ningen av frågor om åtals­förord­nande flyttas från regeringen till riks­åkla­garen samt att de omstän­dig­heter som särskilt ska beaktas vid en sådan pröv­ning anges i lag.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2022\.
+Lagändringarna föreslås träda i kraft den 1 januari 2022.

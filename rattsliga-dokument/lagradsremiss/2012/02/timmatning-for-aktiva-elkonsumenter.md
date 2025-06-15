@@ -4,4 +4,4 @@
 
 I förlängningen kommer en större andel timmätta elkonsumenter att bidra till ett lägre effektuttag under kritiska perioder, något som medför både lägre elpriser och ett mer effektivt resursutnyttjande.
 
-Lagändringen föreslås träda i kraft den 1 oktober 2012\.
+Lagändringen föreslås träda i kraft den 1 oktober 2012.

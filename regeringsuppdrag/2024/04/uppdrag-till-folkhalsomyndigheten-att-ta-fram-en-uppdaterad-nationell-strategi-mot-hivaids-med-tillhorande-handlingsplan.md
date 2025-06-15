@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Folkhälsomyndigheten att ta fram en uppdaterad nationell strategi och handlingsplan mot hiv/aids och vissa andra sexuellt överförbara infektioner. Strategin ska utgå från underlag som Folkhälsomyndigheten tidigare har redovisat.
 
-
 Den uppdaterade nationella strategin och handlingsplanen ska utgå från den epidemiologiska situationen i Sverige. Strategin ska vägleda arbetet så att insatserna når de målgrupper som är särskilt viktiga i det hälsofrämjande och förebyggande arbetet, för att minska spridningen och skadeverkningarna av hiv och vissa andra sexuellt överförbara sjukdomar.
 
 ## Kunskapsframtagning, kunskapsspridning, samordning och uppföljning

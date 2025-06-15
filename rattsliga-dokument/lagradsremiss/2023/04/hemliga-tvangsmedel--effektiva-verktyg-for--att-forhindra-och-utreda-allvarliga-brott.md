@@ -11,4 +11,4 @@ Regeringen föreslår därför bland annat följande:
 * Överskotts­information som har kommit fram vid hemliga tvångs­medel ska få användas för andra ändamål.
 * Rättssäkerheten för den enskilde ska stärkas, bland annat genom förbättrade möjlig­heter till insyn och tillsyn.
 
-Lagändringarna föreslås träda i kraft den 1 oktober 2023\.
+Lagändringarna föreslås träda i kraft den 1 oktober 2023.

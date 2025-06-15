@@ -4,4 +4,4 @@
 
 Anna Olofsson arbetar i dag som länsråd vid Länsstyrelsen Örebro.
 
-Förordnandet som överdirektör gäller tills vidare, dock som längst till och med 31 december 2030\.
+Förordnandet som överdirektör gäller tills vidare, dock som längst till och med 31 december 2030.

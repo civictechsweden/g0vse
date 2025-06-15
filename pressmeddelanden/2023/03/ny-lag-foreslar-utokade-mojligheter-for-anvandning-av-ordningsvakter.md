@@ -8,4 +8,4 @@ I propositionen tydliggörs att ordnings­vakter ska få användas för att medv
 
 I proposi­tionen föreslås att en ny tillstånds­process ska införas. Processen innebär en mer behovs­inriktad prövning av använd­ningen av ordnings­vakter. Ordnings­vakter kommer att kunna användas på fler platser och inom större områden än idag. Polis­myndig­heten ges också utökade möjligheter att leda och kontrollera använd­ningen av ordnings­vakter.
 
-Den nya lagen och övriga ändringar föreslås träda i kraft den 1 januari 2024\.
+Den nya lagen och övriga ändringar föreslås träda i kraft den 1 januari 2024.

@@ -8,4 +8,4 @@ en anpassning till bestämmelserna i EU:s dataskyddsförordning.
 Den nya lagen föreslås reglera behandlingen av personuppgifter om
 totalförsvarspliktiga och annan personal inom totalförsvaret i Totalförsvarets rekryteringsmyndighets verksamhet.
 
-Lagen föreslås träda i kraft den 1 maj 2020\.
+Lagen föreslås träda i kraft den 1 maj 2020.

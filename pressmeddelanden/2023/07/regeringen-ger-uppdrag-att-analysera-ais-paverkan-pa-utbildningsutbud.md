@@ -4,4 +4,4 @@
 
 AI är ett område med stor potential att förbättra samhället. De nya tjänsterna som nu utvecklas kommer att kunna medföra högre produktivitet inom både offentlig verksamhet och näringslivet. Nya användningsområden för tekniken upptäcks löpande och dess konsekvenser på samhället kan bli mycket omfattande.
 
-UKÄ och MYH ska genomföra sina respektive uppdrag i dialog med andra berörda myndigheter och aktörer inklusive arbetsgivare. Uppdragen ska redovisas senast den 30 mars 2024\.
+UKÄ och MYH ska genomföra sina respektive uppdrag i dialog med andra berörda myndigheter och aktörer inklusive arbetsgivare. Uppdragen ska redovisas senast den 30 mars 2024.

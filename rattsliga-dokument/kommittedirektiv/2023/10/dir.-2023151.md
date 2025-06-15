@@ -11,4 +11,4 @@ Utredaren ska bland annat
 * analysera hur svenska myndigheter bättre kan bistå den som kan komma i fråga för återvandring med praktiska förberedelser och samordning i anknytningslandet inför återvandringen, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 1 augusti 2024\.
+Uppdraget ska redovisas senast den 1 augusti 2024.

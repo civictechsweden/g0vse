@@ -1,6 +1,6 @@
 # En effektivare narkotika- och dopningslagstiftning m.m.
 
-I lagrådsremissen gör regeringen en översyn av regleringen beträffande narkotika, narkotikaprekursorer, (\= utgångsämne för framställning av narkotika, red. anm.), dopningsmedel, hälsofarliga varor och flyktiga ämnen m.m.
+I lagrådsremissen gör regeringen en översyn av regleringen beträffande narkotika, narkotikaprekursorer, (= utgångsämne för framställning av narkotika, red. anm.), dopningsmedel, hälsofarliga varor och flyktiga ämnen m.m.
 
 I lagrådsremissen föreslås bland annat att dagens systematik beträffande lagstiftningen inte bör ändras. Inte heller bör den grundläggande arbetsfördelningen mellan Läkemedelsverket och Statens folkhälsoinstitut ändras, när det gäller att utreda och till regeringen föreslå om en substans bör bli föremål för kontroll.
 
@@ -15,4 +15,4 @@ Dopningslagens tillämpningsområde ändras på så sätt att regleringen gälle
 
 Statens folkhälsoinstitut och Läkemedelsverket bör få en mer aktiv och offensiv roll för att snabbare än i dag kunna identifiera nya missbrukssubstanser som bör utredas och kontrolleras som narkotika eller hälsofarlig vara. Statens folkhälsoinstitut och Läkemedelsverket får en förordningsreglerad rätt att köpa in varor som saluförs, på bland annat Internet, som lagliga alternativ till kontrollerade substanser för att låta analysera dem i syfte att undersöka innehåll och aktiv substans. Analys av inköpta substanser ska ske med medverkan av Statens kriminaltekniska laboratorium.
 
-Lagändringarna föreslås träda i kraft den 1 december 2010\.
+Lagändringarna föreslås träda i kraft den 1 december 2010.

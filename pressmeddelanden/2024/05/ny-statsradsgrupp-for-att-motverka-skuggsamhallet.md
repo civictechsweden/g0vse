@@ -6,4 +6,4 @@ Statsrådsgruppen ska inledningsvis fokusera på personer som saknar rätt att v
 
 – Skuggsamhället är en fruktansvärd miljö för de individer som befinner sig där. De riskerar att fara illa, utnyttjas och hamna i kriminell verksamhet, både som förövare och brottsoffer. Det handlar också om att vi behöver ha kontroll över vilka som befinner sig i Sverige, inte minst av säkerhetsskäl, säger migrationsminister Maria Malmer Stenergard.
 
-Statsrådsgruppen består av migrationsministern, justitieministern, finansministern, jämställdhets\- och biträdande arbetsmarknadsministern och civilministern.
+Statsrådsgruppen består av migrationsministern, justitieministern, finansministern, jämställdhets- och biträdande arbetsmarknadsministern och civilministern.

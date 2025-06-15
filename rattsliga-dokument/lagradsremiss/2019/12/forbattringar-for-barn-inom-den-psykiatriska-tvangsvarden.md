@@ -22,4 +22,4 @@ En ny bestämmelse införs för beslut om inskränkning i barns rätt till elek
 
 Det ska införas en ny paragraf om att en särskild underrättelse ska skickas till Inspektionen för vård och omsorg (IVO). Detta om ett barn varit föremål för fastspänning, avskiljning, eller inskränkning i rätten att använda elektroniska kommunikationstjänster vid tre olika tillfällen under en vårdperiod.
 
-Ändringarna föreslås träda i kraft den 1 juli 2020\.
+Ändringarna föreslås träda i kraft den 1 juli 2020.

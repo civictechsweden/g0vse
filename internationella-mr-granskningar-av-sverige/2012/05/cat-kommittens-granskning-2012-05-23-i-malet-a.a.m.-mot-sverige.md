@@ -1,7 +1,6 @@
 # CAT-kommitténs granskning (2012-05-23) i målet A.A.M. mot Sverige
 
-FN:s CAT\-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.
-
+FN:s CAT-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.
 
 ### Sammanfattning av yttrandet
 

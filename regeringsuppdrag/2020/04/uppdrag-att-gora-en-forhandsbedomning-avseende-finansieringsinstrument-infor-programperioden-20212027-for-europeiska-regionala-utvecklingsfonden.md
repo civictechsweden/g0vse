@@ -2,11 +2,10 @@
 
 Regeringen uppdrar åt Tillväxtverket att göra en förhandsbedömning avseende finansieringsinstrument inför programperioden 2021–2027 för Europeiska regionala utvecklingsfonden för målet Investering för sysselsättning och tillväxt.
 
+Förhandsbedömningen ska baseras på EU-kommissionens nedanstående förslag, dock med beaktande av att rättsakterna ännu inte är antagna.
 
-Förhandsbedömningen ska baseras på EU\-kommissionens nedanstående förslag, dock med beaktande av att rättsakterna ännu inte är antagna.
-
-* KOM (2018\) 375 slutlig, Förslag till Europaparlamentets och Rådets förordning om gemensamma bestämmelser för Europeiska regionala utvecklingsfonden, Europeiska socialfonden\+, Sammanhållningsfonden samt Europeiska havs\- och fiskerifonden, och om finansiella regler för dessa fonder och för Asyl\- och migrationsfonden, Fonden för inre säkerhet samt instrumentet för gränsförvaltning och visering, och
-* KOM (2018\) 372 slutlig, Förslag till Europaparlamentets och Rådets förordning om Europeiska regionala utvecklingsfonden och Sammanhållningsfonden.
+* KOM (2018) 375 slutlig, Förslag till Europaparlamentets och Rådets förordning om gemensamma bestämmelser för Europeiska regionala utvecklingsfonden, Europeiska socialfonden+, Sammanhållningsfonden samt Europeiska havs- och fiskerifonden, och om finansiella regler för dessa fonder och för Asyl- och migrationsfonden, Fonden för inre säkerhet samt instrumentet för gränsförvaltning och visering, och
+* KOM (2018) 372 slutlig, Förslag till Europaparlamentets och Rådets förordning om Europeiska regionala utvecklingsfonden och Sammanhållningsfonden.
 
 Hänsyn ska vidare tas till förslaget till EU:s långsiktiga budget (MFF).
 
@@ -16,8 +15,8 @@ I förhandsbedömningen ska Tillväxtverket vidare beskriva hur finansieringsins
 
 Under arbetet ska dialog föras med relevanta aktörer på regional och nationell nivå. Avstämning ska ske med Regeringskansliet (Näringsdepartementet) under arbetets gång.
 
-Uppdraget ska redovisas till regeringen (Näringsdepartementet) senast den 15 oktober 2020\. Den slutliga förhandsbedömningen ska färdigställas i enlighet med gällande förordningar.
+Uppdraget ska redovisas till regeringen (Näringsdepartementet) senast den 15 oktober 2020. Den slutliga förhandsbedömningen ska färdigställas i enlighet med gällande förordningar.
 
 ## Skälen för regeringens beslut
 
-Inför programperioden 2021–2027 inom EU:s sammanhållningspolitik pågår förhandlingar om kommissionens förslag till regelverk. Enligt förslaget till regelverk ska stöd från fonderna genom finansierings\-instrument bygga på en förhandsbedömning som genomförs av förvaltande myndighet.
+Inför programperioden 2021–2027 inom EU:s sammanhållningspolitik pågår förhandlingar om kommissionens förslag till regelverk. Enligt förslaget till regelverk ska stöd från fonderna genom finansierings-instrument bygga på en förhandsbedömning som genomförs av förvaltande myndighet.

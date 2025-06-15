@@ -1,7 +1,6 @@
 # Remiss av Boverkets rapport 2018:17 Lovbefriade åtgärder, utvändiga ändringar och anmälan - analys och förslag
 
-Här kan du ta del av till vilka remissvaren på Boverkets rapport 2018:17 Lovbefriade åtgärder, utvändiga ändringar och anmälan \- analys och förslag. Remissvaren ska ha kommit in till Näringsdepartementet senast den 1 oktober 2018\. Övriga yttranden finns tillgängliga på departementet.
-
+Här kan du ta del av till vilka remissvaren på Boverkets rapport 2018:17 Lovbefriade åtgärder, utvändiga ändringar och anmälan - analys och förslag. Remissvaren ska ha kommit in till Näringsdepartementet senast den 1 oktober 2018. Övriga yttranden finns tillgängliga på departementet.
 
 ### Remissinstanser
 
@@ -26,7 +25,7 @@ Försvarets radioanstalt (FRA)
 Försvarsmakten
 Göteborgs kommun
 Haparanda kommun
-Havs\- och vattenmyndigheten (HAV)
+Havs- och vattenmyndigheten (HAV)
 Hylte kommun
 Hässleholms kommun
 Höganäs kommun
@@ -80,7 +79,7 @@ Statens geotekniska institut (SGI)
 Stockholms kommun
 Stockholms läns landsting
 Sundsvalls kommun
-Svea hovrätt, mark\- och miljööverdomstolen
+Svea hovrätt, mark- och miljööverdomstolen
 Svenska byggnadsvårdsföreningen
 Sveriges Allmännyttiga Bostadsbolag (SABO)
 Sveriges Arkitekter
@@ -92,14 +91,14 @@ Tidaholms kommun
 Tierps kommun
 Tillväxtverket
 Trafikverket
-Trä\- och möbelföretagen
+Trä- och möbelföretagen
 Ulricehamns kommun
-Umeå tingsrätt, mark\- och miljödomstolen
+Umeå tingsrätt, mark- och miljödomstolen
 Upplands Väsby kommun
 Uppsala universitet, juridiska fakulteten
 Vadstena kommun
 Villaägarnas Riksförbund
-Vänersborgs tingsrätt, mark\- och miljödomstolen
+Vänersborgs tingsrätt, mark- och miljödomstolen
 Västarvet
 Västerås kommun
 Örebro läns museum

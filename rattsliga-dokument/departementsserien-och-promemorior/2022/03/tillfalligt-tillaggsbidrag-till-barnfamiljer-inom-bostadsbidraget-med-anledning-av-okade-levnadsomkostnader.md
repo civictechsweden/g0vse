@@ -8,6 +8,6 @@ Bidraget beräknas inte utifrån en bidragsgrundande inkomst utan betalas ut lö
 
 Bidraget är inte en del av beräkningen för det ordinarie slutliga bostadsbidraget. Tilläggsbidraget föreslås lämnas till den som tar emot särskilt bidrag för hemmavarande barn, särskilt bidrag för barn som bor växelvis eller umgängesbidrag.
 
-Förslagen föreslås träda i kraft den 1 juli 2022\.
+Förslagen föreslås träda i kraft den 1 juli 2022.
 
-Tilläggsbidraget bör lämnas under en begränsad tid från och med den 1 juli till och med den 31 december 2022\.
+Tilläggsbidraget bör lämnas under en begränsad tid från och med den 1 juli till och med den 31 december 2022.

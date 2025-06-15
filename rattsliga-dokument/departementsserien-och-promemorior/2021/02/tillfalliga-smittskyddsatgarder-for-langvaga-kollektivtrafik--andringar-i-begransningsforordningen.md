@@ -6,4 +6,4 @@ Verksamheten ska så långt som möjligt bedrivas på ett sådant sätt att trä
 
 Folkhälsomyndigheten ska få meddela ytterligare föreskrifter om kraven på smittskyddsåtgärder och om åtgärder för att förhindra smittspridning i sådan kollektivtrafik.Begränsningen av högsta antal personer på buss eller tåg ska inte gälla resor som har bokats före ikraftträdandet.
 
-Förordningsändringen föreslås träda i kraft den 14 februari 2021 och gälla till utgången av maj 2021\.
+Förordningsändringen föreslås träda i kraft den 14 februari 2021 och gälla till utgången av maj 2021.

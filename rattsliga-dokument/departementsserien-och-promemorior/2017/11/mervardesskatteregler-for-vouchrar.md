@@ -10,4 +10,4 @@ bestämmelse om beskattningsunderlaget vid transaktioner med
 flerfunktionsvouchrar. Förslagen är föranledda av ändringar i rådets
 direktiv om ett gemensamt för mervärdesskatt. De nya reglerna syftar till ökad enhetlighet och tydlighet. Andra syften är att undvika konkurrenssnedvridningar, dubbelbeskattning och utebliven beskattning.
 
-Reglerna föreslås träda i kraft den 1 januari 2019\.
+Reglerna föreslås träda i kraft den 1 januari 2019.

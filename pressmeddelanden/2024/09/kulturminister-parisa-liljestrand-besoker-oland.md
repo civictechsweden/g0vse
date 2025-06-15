@@ -6,6 +6,4 @@ På Capellagården, Carl Malmstens skola för gestaltande arbete i Vickleby, kom
 
 Avslutningsvis kommer kulturministern att besöka Öland Museum Himmelsberga för att se en samlingsutställning med verk av konstnärer verksamma på Öland.
 
-
-
 För mer information om invigningen eller medieförfrågningar till kulturminister Parisa Liljestrand, vänligen kontakta pressekreterare Sara E. Persson.

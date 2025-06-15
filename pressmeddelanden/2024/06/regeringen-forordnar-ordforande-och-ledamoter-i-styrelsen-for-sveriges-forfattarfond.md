@@ -2,9 +2,9 @@
 
 Joakim Stymne är generaldirektör för Statistiska centralbyrån och har tidigare bl.a. varit statssekreterare på kulturdepartementet och generaldirektör för Statens tjänstepensionsverk.
 
-Kulturjournalisten Erik Jersenius skriver för bland annat Dagens Nyheter och har tidigare varit kulturredaktör för Östgöta\-Correspondenten.
+Kulturjournalisten Erik Jersenius skriver för bland annat Dagens Nyheter och har tidigare varit kulturredaktör för Östgöta-Correspondenten.
 
-Karin Westerberg, advokat och partner på Sandart \& Partners är specialiserad på processrätt, immaterialrätt och marknadsrätt.
+Karin Westerberg, advokat och partner på Sandart & Partners är specialiserad på processrätt, immaterialrätt och marknadsrätt.
 
 **Bakgrund**
 

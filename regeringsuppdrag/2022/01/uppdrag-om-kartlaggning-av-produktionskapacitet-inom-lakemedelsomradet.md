@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Läkemedelsverket att kartlägga den svenska läkemedelsproduktionen. Uppdraget är en del i ett nordiskt samarbete för att kartlägga den nordiska produktionen av läkemedel.
 
-
 Myndigheten ska:
 
 * kartlägga den svenska läkemedelsproduktionen samt en eventuell produktion av aktiva substanser,

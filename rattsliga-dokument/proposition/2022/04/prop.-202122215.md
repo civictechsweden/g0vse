@@ -9,4 +9,4 @@ ställs under tillsyn. Vidare skapas förut­sätt­ningar att koncen­trera han
 
 Förslagen i proposi­tionen genomför EU:s insolvens­direktiv.
 
-Den nya lagen och lag­änd­ringarna föreslås träda i kraft den 1 augusti 2022\.
+Den nya lagen och lag­änd­ringarna föreslås träda i kraft den 1 augusti 2022.

@@ -1,6 +1,6 @@
 # Lex Sarah och socialtjänsten - förslag om vissa förändringar
 
-I propositionen föreslår regeringen att den så kallade lex Sarah\-bestämmelsen ändras så att det i socialtjänstlagen stadgas att var och en som fullgör uppgifter inom socialtjänsten eller vid Statens institutionsstyrelse (SiS) ska medverka till att den verksamhet som bedrivs och de insatser som genomförs är av god kvalitet.
+I propositionen föreslår regeringen att den så kallade lex Sarah-bestämmelsen ändras så att det i socialtjänstlagen stadgas att var och en som fullgör uppgifter inom socialtjänsten eller vid Statens institutionsstyrelse (SiS) ska medverka till att den verksamhet som bedrivs och de insatser som genomförs är av god kvalitet.
 
 Regeringen föreslår att motsvarande lydelse införs i lagen om stöd och service till vissa funktionshindrade, förkortad LSS, för var och en som fullgör uppgifter enligt den lagen. Var och en som fullgör uppgifter inom dessa verksamheter ska vara skyldig att rapportera om missförhållanden, eller påtagliga risker för missförhållanden, till berörd nämnd, till SiS ledning eller, i yrkesmässigt bedriven enskild verksamhet, till den som bedriver verksamheten. Rapporteringsskyldigheten uppkommer redan om någon kan komma i fråga för en insats, alltså inte enbart om han eller hon redan beviljats en insats. Skyldigheten gäller dock inte för frivilligarbetare.
 
@@ -10,4 +10,4 @@ Regeringen föreslår också att det i socialtjänstlagen införs en skyldighet 
 
 Vidare föreslås att det i socialtjänstlagen och LSS införs en skyldighet för den som bedriver yrkesmässig enskild verksamhet att utreda och dokumentera rapporter om missförhållanden eller påtagliga risker för missförhållanden.
 
-De föreslagna författningsändringarna föreslås träda i kraft den 1 juli 2011\.
+De föreslagna författningsändringarna föreslås träda i kraft den 1 juli 2011.

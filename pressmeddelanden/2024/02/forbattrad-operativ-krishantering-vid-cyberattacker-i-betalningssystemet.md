@@ -8,4 +8,4 @@ I dag finns flera olika aktörer, inte minst de finansiella företagen själva, 
 
 Behovet av en tydligare ansvarsfördelning för operativ krishantering i den finansiella sektorn har framhållits i flera rapporter och utredningar under de senaste åren, senast av internationella valutafonden (IMF).
 
-Lagändringarna föreslås träda i kraft den 1 januari 2025\.
+Lagändringarna föreslås träda i kraft den 1 januari 2025.

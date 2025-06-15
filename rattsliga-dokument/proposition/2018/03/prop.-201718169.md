@@ -4,7 +4,7 @@ Regeringen föreslår ändringar i lagen med särskilda bestämmelser om vård a
 
 ### Ökad rättssäkerhet, delaktighet, trygghet och säkerhet
 
-Förslagen handlar i huvudsak om de särskilda befogenheter Statens institutionsstyrelse (SiS) har för att genomföra vården vid särskilda ungdomshem och LVM\-hem. Meningen med förslagen är ökad rättssäkerhet, delaktighet, trygghet och säkerhet för barn och unga som vårdas vid de särskilda ungdomshemmen och för intagna som vårdas vid LVM\-hemmen.
+Förslagen handlar i huvudsak om de särskilda befogenheter Statens institutionsstyrelse (SiS) har för att genomföra vården vid särskilda ungdomshem och LVM-hem. Meningen med förslagen är ökad rättssäkerhet, delaktighet, trygghet och säkerhet för barn och unga som vårdas vid de särskilda ungdomshemmen och för intagna som vårdas vid LVM-hemmen.
 
 ### Maxtid för avskildhet kortas
 
@@ -20,10 +20,10 @@ Den unge som vistas på ett särskilt ungdomshem ska också erbjudas uppföljand
 
 ### Omedelbar anvisning av plats
 
-I propositionen föreslår regeringen också att SiS i akuta situationer omedelbart ska anvisa plats vid ett särskilt ungdomshem. Motsvarande ändring föreslås när det gäller anvisning av plats vid ett LVM\-hem.
+I propositionen föreslår regeringen också att SiS i akuta situationer omedelbart ska anvisa plats vid ett särskilt ungdomshem. Motsvarande ändring föreslås när det gäller anvisning av plats vid ett LVM-hem.
 
 ### Förbud mot innehav av berusningsmedel
 
 I propositionen lämnar regeringen också förslag om en ny lag om förbud mot innehav av berusningsmedel med mera. på hem för vård eller boende.
 
-Lagändringarna föreslås träda i kraft den 1 oktober 2018\.
+Lagändringarna föreslås träda i kraft den 1 oktober 2018.

@@ -9,8 +9,8 @@ Regeringen föreslår:
 * att när barnet har varit placerat i samma familjehem under två år ska socialnämnden särskilt överväga om det finns skäl att ansöka om överflyttning av vårdnaden
 * att när vården enligt LVU upphör ska socialnämnden följa upp situationen för den som är under 18 år
 * att när socialnämnden prövar om vård enligt LVU ska upphöra ska socialnämnden särskilt överväga om det finns skäl att ansöka
-om flyttningsförbud. När ett barn är placerad i ett enskilt hem enligt socialtjänstlagen och vårdnadshavaren eller den unge, om han eller hon har fyllt 15 år, begär att vården ska upphöra, ska socialnämnden också särskilt överväga om det finns skäl att ansöka om flyttningsförbud
+  om flyttningsförbud. När ett barn är placerad i ett enskilt hem enligt socialtjänstlagen och vårdnadshavaren eller den unge, om han eller hon har fyllt 15 år, begär att vården ska upphöra, ska socialnämnden också särskilt överväga om det finns skäl att ansöka om flyttningsförbud
 * att det ska införas en möjlighet för socialnämnden att besluta att en vårdnadshavare eller förälder till ett barn som vårdas enligt LVU ska uppmanas att lämna drogtest inför umgänge
 * att det ska införas en möjlighet för socialnämnden att besluta att en vårdnadshavare ska uppmanas att lämna drogtest inför prövningen av om vård enligt LVU ska upphöra.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2022\.
+Lagändringarna föreslås träda i kraft den 1 juli 2022.

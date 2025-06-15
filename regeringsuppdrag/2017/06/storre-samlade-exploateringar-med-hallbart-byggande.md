@@ -10,6 +10,6 @@ Samtliga överenskommelser ska ingås med förbehåll för att de identifierade 
 
 Om större samlade exploateringar inte kan åstadkommas med hänvisning till utpekat riksintresse ska samordnaren ta initiativ till dialog med berörda parter för att därmed försöka finna en lösning i frågan.
 
-Uppdraget att ingå överenskommelser och att samordna statliga myndigheter och berörda parter i frågor som rör riksintressen börjar gälla från och med den 1 juli 2017\.
+Uppdraget att ingå överenskommelser och att samordna statliga myndigheter och berörda parter i frågor som rör riksintressen börjar gälla från och med den 1 juli 2017.
 
-Med ändring av regeringens beslut i ärende N2016/07177 /PBB beslutar regeringen att samordnaren ska delredovisa uppdraget senast den 31 augusti 2017 och slutredovisa uppdraget, inklusive de delar som omfattas av detta tilläggsuppdrag senast den 31 december 2017\. Slutredovisningen ska innehålla överenskommelser med berörda parter samt \- för nytillkomna objekt \- en tidsplan, budget och organisation för ett möjligt genomförande.
+Med ändring av regeringens beslut i ärende N2016/07177 /PBB beslutar regeringen att samordnaren ska delredovisa uppdraget senast den 31 augusti 2017 och slutredovisa uppdraget, inklusive de delar som omfattas av detta tilläggsuppdrag senast den 31 december 2017. Slutredovisningen ska innehålla överenskommelser med berörda parter samt - för nytillkomna objekt - en tidsplan, budget och organisation för ett möjligt genomförande.

@@ -1,4 +1,4 @@
-# Statsministern håller nationaldagstal – För ett rättvist Sverige
+# Statsministern höll nationaldagstal – För ett rättvist Sverige
 
 Talet sänds på regeringens webbplats kl. 11.15.
 

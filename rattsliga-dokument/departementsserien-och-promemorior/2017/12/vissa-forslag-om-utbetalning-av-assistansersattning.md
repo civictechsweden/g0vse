@@ -8,4 +8,4 @@ Arbetsgruppen föreslår att Försäkringskassan dels ska beräkna assistansers�
 
 I promemorian föreslås vidare bestämmelser som gör det möjligt för Försäkringskassan att debitera kommunen den del av den kompletterande utbetalningen som avser de första 20 assistanstimmarna per vecka.
 
-De nya bestämmelserna föreslås träda i kraft den 1 juli 2018\.
+De nya bestämmelserna föreslås träda i kraft den 1 juli 2018.

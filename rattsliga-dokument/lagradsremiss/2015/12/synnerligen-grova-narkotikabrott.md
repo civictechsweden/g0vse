@@ -10,6 +10,6 @@ Regeringens avsikt är inte att generellt påverka straffnivåerna. Däremot inn
 
 Regeringen föreslår även att de särskilda brottsbeteckningarna ringa narkotikabrott och ringa narkotikasmuggling införs.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2016\.
+Lagändringarna föreslås träda i kraft den 1 juli 2016.
 
 [Pressmeddelande: Synnerligen grova narkotikabrott ska ge hårdare straff](/pressmeddelanden/2015/12/synnerligen-grova-narkotikabrott-ska-ge-hardare-straff/)

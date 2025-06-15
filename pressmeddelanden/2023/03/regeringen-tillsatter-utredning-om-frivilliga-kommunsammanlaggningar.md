@@ -6,4 +6,4 @@ Frivilliga kommunsammanläggningar kan stärka kapaciteten, och därmed föruts�
 
 Av Sveriges 290 kommuner har den minsta under 2400 invånare medan den största har runt 1 miljon.
 
-Uppdraget ska redovisas senast den 30 november 2023\.
+Uppdraget ska redovisas senast den 30 november 2023.

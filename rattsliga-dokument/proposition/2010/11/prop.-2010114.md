@@ -1,6 +1,6 @@
 # En effektivare narkotika- och dopningslagstiftning
 
-I propositionen gör regeringen en översyn av regleringen beträffande narkotika, narkotikaprekursorer, (\=utgångsämne för framställning av narkotika, red. anm.), dopningsmedel, hälsofarliga varor och flyktiga ämnen m.m. I propositionen föreslås att dagens systematik beträffande lagstiftningen inte bör ändras. Inte heller bör den grundläggande arbetsfördelningen mellan Läkemedelsverket och Statens folkhälsoinstitut ändras, när det gäller att utreda och till regeringen föreslå att en substans bör bli föremål för kontroll.
+I propositionen gör regeringen en översyn av regleringen beträffande narkotika, narkotikaprekursorer, (=utgångsämne för framställning av narkotika, red. anm.), dopningsmedel, hälsofarliga varor och flyktiga ämnen m.m. I propositionen föreslås att dagens systematik beträffande lagstiftningen inte bör ändras. Inte heller bör den grundläggande arbetsfördelningen mellan Läkemedelsverket och Statens folkhälsoinstitut ändras, när det gäller att utreda och till regeringen föreslå att en substans bör bli föremål för kontroll.
 
 Regeringen föreslår att det i lagen om kontroll av narkotika införs en bestämmelse som gör det möjligt att hantera narkotika för industriella ändamål. Syftet med detta är att göra det möjligt att narkotikaklassa GBL och 1,4 butandiol som i dag är upptagna som hälsofarliga varor.
 
@@ -12,4 +12,4 @@ Straffskalan för grovt dopningsbrott skärps till fängelse i högst sex år. D
 
 Slutligen föreslås också ett antal lagändringar som syftar till att öka överskådligheten i regelsystemet och att förbättra kontrollsystemet. Ett exempel är att det i paragraf tolv i lagen om kontroll av narkotika intas ett bemyndigande om att ytterligare föreskrifter också får meddelas i fråga om innehav av narkotika. Lagen om kontroll av narkotika ändras så att den svenska regleringen i fråga om beredningar ska stämma överens med regleringen om beredningar i FN:s allmänna narkotikakonvention. I lagen om kontroll av narkotika införs en föreskrift om att den som får tillstånd till innehav av narkotika för utbildningsändamål eller något annat samhällsnyttigt ändamål som är särskilt angeläget, ska föra sådana anteckningar som avses i nionde paragrafen i lagen om kontroll av narkotika.
 
-Lagändringarna föreslås träda i kraft den 1 april 2011\.
+Lagändringarna föreslås träda i kraft den 1 april 2011.

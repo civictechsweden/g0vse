@@ -1,6 +1,6 @@
 # Skolans arbete med trygghet och studiero
 
-I denna lagrådsremiss föreslås ändringar i skollagen (2010:800\) som syftar till ökad trygghet och studiero i skolan och i förlängningen högre kunskapsresultat.
+I denna lagrådsremiss föreslås ändringar i skollagen (2010:800) som syftar till ökad trygghet och studiero i skolan och i förlängningen högre kunskapsresultat.
 
 I lagrådsremissen föreslås bland annat följande:
 
@@ -13,4 +13,4 @@ I lagrådsremissen föreslås bland annat följande:
 * Kraven på huvudmannens klagomålshantering ska skärpas och Skolinspektionen ska som huvudregel inte kunna inleda tillsyn som rör ett enskilt barn eller enskild elev om inte huvudmannen har fått möjlighet att hantera frågan först.
 * Ordningsreglerna ska tydliggöras och hur dessa följs ska regelbundet följas upp under medverkan av eleverna.
 
-Ändringarna ska träda i kraft den 1 augusti 2022\.
+Ändringarna ska träda i kraft den 1 augusti 2022.

@@ -6,9 +6,9 @@ Regeringen har beslutat att de avgifter som verksamheter på strålskyddsområde
 
 ### Referenser:
 
-förordningen (2008:463\) om vissa avgifter till Strålsäkerhetsmyndigheten
+förordningen (2008:463) om vissa avgifter till Strålsäkerhetsmyndigheten
 
 ### Mer information
 
-Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 20 januari 2015\.
-Kontaktperson: Helen Blomberg 08\-405 82 24
+Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 20 januari 2015.
+Kontaktperson: Helen Blomberg 08-405 82 24

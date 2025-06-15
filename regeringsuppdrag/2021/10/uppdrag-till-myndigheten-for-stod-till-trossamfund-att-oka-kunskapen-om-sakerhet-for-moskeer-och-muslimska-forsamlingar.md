@@ -2,7 +2,6 @@
 
 Myndigheten för stöd till trossamfund (SST) får i uppdrag att fortsatt öka kunskapen om säkerhet för moskéer och muslimska församlingar och om utsattheten för islamofobi och hatbrott på lokal, regional och nationell nivå i relation till dessa verksamheter.
 
-
 Arbetet ska genomföras med utgångspunkt i det arbete som myndigheten genomfört enligt tidigare uppdrag på området (A2019/01200/MRB).
 
 I uppdraget ingår bl.a. att:
@@ -14,4 +13,4 @@ SST ska verka för att alla muslimska inriktningar ska kunna ta del av insatsen 
 
 I genomförandet av uppdraget ska SST samverka med Polismyndigheten, samtliga länsstyrelser och andra berörda myndigheter.
 
-En delredovisning av uppdraget ska lämnas till regeringen (Arbetsmarknadsdepartementet och Kulturdepartementet) med kopia till Forum för levande historia senast den 1 mars 2022\. En slutredovisning av uppdraget ska lämnas senast den 1 december 2022\.
+En delredovisning av uppdraget ska lämnas till regeringen (Arbetsmarknadsdepartementet och Kulturdepartementet) med kopia till Forum för levande historia senast den 1 mars 2022. En slutredovisning av uppdraget ska lämnas senast den 1 december 2022.

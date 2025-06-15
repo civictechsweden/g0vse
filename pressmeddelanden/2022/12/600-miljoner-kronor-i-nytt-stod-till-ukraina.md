@@ -1,6 +1,6 @@
 # 600 miljoner kronor i nytt stöd till Ukraina
 
-– Som inkommande EU\-ordförande vill jag skicka en stark signal om att Sverige står sida vid sida med Ukraina. EU är Ukrainas framtid. Det ska det inte råda något tvivel om, säger bistånds\- och utrikeshandelsminister Johan Forssell.
+– Som inkommande EU-ordförande vill jag skicka en stark signal om att Sverige står sida vid sida med Ukraina. EU är Ukrainas framtid. Det ska det inte råda något tvivel om, säger bistånds- och utrikeshandelsminister Johan Forssell.
 
 Sedan Rysslands fullskaliga invasion av Ukraina i februari 2022 har fattigdomen i landet mångdubblats. Miljontals människor har ingen eller osäker tillgång till energi, värme, vatten och sjukvård. För att återuppbygga Ukraina och öka landets motståndskraft mot den ryska aggressionen krävs investeringar.
 

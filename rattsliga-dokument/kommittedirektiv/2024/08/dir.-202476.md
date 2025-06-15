@@ -9,4 +9,4 @@ En särskild utredare ska föreslå de anpassningar och kompletterande författ
 * föreslå vilken eller vilka myndigheter som ska få i uppdrag att vara behöriga nationella tvistlösningsorgan, och
 * lämna de förslag, inklusive författningsförslag, i övrigt som är nödvändiga eller annars bedöms lämpliga för att komplettera förordningen.
 
-Uppdraget ska redovisas senast den 19 september 2025\.
+Uppdraget ska redovisas senast den 19 september 2025.

@@ -2,7 +2,7 @@
 
 –  Alla barn har rätt till en trygg och ljus framtid och inga skolbänkar ska stå tomma för att barn har förts utomlands mot sin vilja. Det är oerhört viktigt att socialtjänsten har de verktyg som behövs för att kunna hjälpa barn som riskerar att föras utomlands, säger socialtjänstminister Camilla Waltersson Grönvall.
 
-– Det finns ett behov av att utvidga tillämpningsområdet för den nuvarande lagstiftningen, så att fler barn kan skyddas från att föras utomlands mot sin vilja. Förslaget om ett utvidgat tillämpningsområde för utreseförbud innebär dels ett stärkt skydd för barn mot att drabbas av hedersrelaterat våld och förtryck, dels ett bättre skydd mot att av andra anledningar allvarligt fara illa utomlands, säger jämställdhets\- och biträdande arbetsmarknadsminister Paulina Brandberg.
+– Det finns ett behov av att utvidga tillämpningsområdet för den nuvarande lagstiftningen, så att fler barn kan skyddas från att föras utomlands mot sin vilja. Förslaget om ett utvidgat tillämpningsområde för utreseförbud innebär dels ett stärkt skydd för barn mot att drabbas av hedersrelaterat våld och förtryck, dels ett bättre skydd mot att av andra anledningar allvarligt fara illa utomlands, säger jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg.
 
 Enligt nu gällande reglering ska ett utreseförbud meddelas för den som är under 18 år om det finns en påtaglig risk för att han eller hon förs utomlands eller lämnar Sverige i syfte att ingå äktenskap eller en äktenskapsliknande förbindelse eller könsstympas.
 
@@ -12,4 +12,4 @@ I lagrådsremissen föreslås också att straffansvaret för egenmäktighet med 
 
 Regeringen föreslår också att en lämplig aktör bör få i uppdrag att ta fram och sprida ett kunskapsmaterial om regelverket om utreseförbud.
 
-Lagändringarna föreslås träda i kraft den 1 juni 2024\.
+Lagändringarna föreslås träda i kraft den 1 juni 2024.

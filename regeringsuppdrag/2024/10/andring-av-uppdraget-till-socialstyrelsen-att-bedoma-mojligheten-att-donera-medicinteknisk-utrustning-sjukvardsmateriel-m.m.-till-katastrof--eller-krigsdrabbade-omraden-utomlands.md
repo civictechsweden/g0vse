@@ -1,7 +1,6 @@
 # Ändring av uppdraget till Socialstyrelsen att bedöma möjligheten att donera medicinteknisk utrustning, sjukvårdsmateriel m.m. till katastrof- eller krigsdrabbade områden utomlands
 
-Regeringen ändrar uppdraget till Socialstyrelsen att bedöma möjligheten att donera medicinteknisk utrustning, sjukvårdsmateriel m.m. till katastrof\- eller krigsdrabbade områden utomlands.
-
+Regeringen ändrar uppdraget till Socialstyrelsen att bedöma möjligheten att donera medicinteknisk utrustning, sjukvårdsmateriel m.m. till katastrof- eller krigsdrabbade områden utomlands.
 
 Socialstyrelsen får:
 
@@ -9,4 +8,4 @@ Socialstyrelsen får:
 
 Socialstyrelsen ska:
 
-* informera Regeringskansliet när förfrågan om donationer kommer in till EU:s civilskyddsmekanism eller via Nato Euro\-Atlantic Disaster Response Coordination Centre (EADRCC).
+* informera Regeringskansliet när förfrågan om donationer kommer in till EU:s civilskyddsmekanism eller via Nato Euro-Atlantic Disaster Response Coordination Centre (EADRCC).

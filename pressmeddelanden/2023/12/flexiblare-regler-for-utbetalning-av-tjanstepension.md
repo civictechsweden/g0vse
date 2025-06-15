@@ -6,8 +6,8 @@ Det förslag som nu skickas ut på remiss innebär att det under de första fem 
 
 – Sveriges pensionärer ska själva kunna välja hur de vill lägga upp sin pension. Om en person vill pausa utbetalning av tjänstepension för att exempelvis arbeta ska det vara möjlighet. Det här ser vi nu till att åtgärda, säger finansminister Elisabeth Svantesson.
 
-– Att pausa sin tjänstepension handlar om att stärka pensionerna och arbetslinjen samtidigt som äldre personers kompetens på arbetsmarknaden tillvaratas. Det blir win\-win\-win för individ, arbetsgivare och samhälle, säger äldre\- och socialförsäkringsminister Anna Tenje.
+– Att pausa sin tjänstepension handlar om att stärka pensionerna och arbetslinjen samtidigt som äldre personers kompetens på arbetsmarknaden tillvaratas. Det blir win-win-win för individ, arbetsgivare och samhälle, säger äldre- och socialförsäkringsminister Anna Tenje.
 
 I dag gäller den s.k. femårsregeln som innebär att kapitalet i en pensionsförsäkring inte får betalas ut under en kortare tid än fem år, och att utbetalningarna under den tiden vid varje utbetalningstillfälle ska betalas ut med samma eller med stigande belopp.
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2025\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2025.

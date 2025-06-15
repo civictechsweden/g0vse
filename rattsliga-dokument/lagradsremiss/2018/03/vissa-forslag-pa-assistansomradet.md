@@ -5,6 +5,6 @@ föreskrifter om att assistansersättning med ett högre belopp än schablonbelo
 
 Det föreslås också en ny bestämmelse om att regeringen ska bemyndigas att meddela föreskrifter om att kommunen ska ersätta en del av Försäkringskassans kostnader för de 20 första assistanstimmarna per vecka på annat sätt än månadsvis, och meddela föreskrifter om skyldighet för kommunen att betala dröjsmålsränta på en sådan skuld till Försäkringskassan.
 
-Vidare föreslås att en ny bestämmelse införs i lagen (1993:387\) om stöd och service till vissa funktionshindrade (LSS). Bestämmelsen innebär att en kommun som har tagit emot ett beslut från Försäkringskassan om att en enskild saknar rätt till assistansersättning utan dröjsmål ska informera den enskilde om förutsättningarna för insatser enligt LSS.
+Vidare föreslås att en ny bestämmelse införs i lagen (1993:387) om stöd och service till vissa funktionshindrade (LSS). Bestämmelsen innebär att en kommun som har tagit emot ett beslut från Försäkringskassan om att en enskild saknar rätt till assistansersättning utan dröjsmål ska informera den enskilde om förutsättningarna för insatser enligt LSS.
 
-De nya bestämmelserna föreslås träda i kraft den 1 juli 2018\.
+De nya bestämmelserna föreslås träda i kraft den 1 juli 2018.

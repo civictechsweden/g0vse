@@ -1,6 +1,6 @@
 # Nya åtgärder för bättre säkerhet vid förvar
 
-Bakgrunden till förslaget är att det förekommer att narkotika och vapen förs in på Migrationsverkets förvar, vilket skapar en otrygg situation för såväl förvarstagna som anställda. Det har både Migrationsverket och Justitieombudsmannen under en längre tid framfört behovet av åtgärder för att komma till rätta med problemen på förvaren.
+Bakgrunden till förslaget är att det förekommer att narkotika och vapen förs in på Migrationsverkets förvar, vilket skapar en otrygg situation för såväl förvarstagna som anställda. Både Migrationsverket och Justitieombudsmannen har under en längre tid framfört behovet av åtgärder för att komma till rätta med problemen på förvaren.
 
 – ​Narkotika och farliga föremål har ingen som helst plats på Migrationsverkets förvar. Med de nya förslagen säkerställer vi att Migrationsverket får bättre verktyg för att upprätthålla säkerheten på förvaren. Det är viktigt både för de anställda och förvarstagna, säger migrationsminister Johan Forssell.
 

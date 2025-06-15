@@ -6,6 +6,6 @@ Vidare föreslås ett s.k. användningsförbud vid för sent betald trängselska
 
 En ändring föreslås också av reglerna om vilken allmän förvaltningsdomstol som prövar överklaganden av beslut om trängselskatt.
 
-Dessutom föreslås ett tillägg i lagen (1990:313\) om Europaråds\- och OECD\-konventionen om ömsesidig handräckning i skatteärenden.
+Dessutom föreslås ett tillägg i lagen (1990:313) om Europaråds- och OECD-konventionen om ömsesidig handräckning i skatteärenden.
 
-Lagändringarna i lagen om trängselskatt föreslås träda i kraft den 1 januari 2015\. Ändringen i lagen om Europaråds\- och OECD\-konventionen om ömsesidig handräckning i skatteärenden föreslås träda i kraft den dag som regeringen bestämmer.
+Lagändringarna i lagen om trängselskatt föreslås träda i kraft den 1 januari 2015. Ändringen i lagen om Europaråds- och OECD-konventionen om ömsesidig handräckning i skatteärenden föreslås träda i kraft den dag som regeringen bestämmer.

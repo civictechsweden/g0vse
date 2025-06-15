@@ -10,4 +10,4 @@ I lagrådsremissen föreslår regeringen fem lagändringar för att stärka prin
 * Det införs en skyldighet för socialnämnden att följa upp situationen efter att en placering upphört.
 * Det införs en möjlighet för socialnämnden att besluta att vårdnadshavare och föräldrar ska lämna drogtest inför umgänge och inför prövningen av om vård enligt LVU ska upphöra.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2022\.
+Lagändringarna föreslås träda i kraft den 1 juli 2022.

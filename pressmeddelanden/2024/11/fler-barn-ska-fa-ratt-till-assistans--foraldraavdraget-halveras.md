@@ -6,4 +6,4 @@ Vid en bedömning av ett barns behov av personlig assistans bortser Försäkring
 
 Förändringen innebär att de timmar som är fastställda i förordningen om stöd och service till vissa funktionshindrade och förordningen om assistansersättning som varierar beroende på barnets ålder halveras.
 
-Förändringarna träder i kraft den 1 januari 2025\.
+Förändringarna träder i kraft den 1 januari 2025.

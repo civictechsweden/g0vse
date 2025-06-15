@@ -8,4 +8,4 @@ Den utredning som nu tillsätts syftar till att skapa förutsättningar för ett
 
 Utredningen sker internt inom Regeringskansliet, en så kallad bokstavsutredning.
 
-Uppdraget kommer att bedrivas i snabbspår och ska redovisas senast den 30 september 2024\.
+Uppdraget kommer att bedrivas i snabbspår och ska redovisas senast den 30 september 2024.

@@ -1,7 +1,6 @@
 # Exportdagen med Team Sweden Livsmedel: Nya grepp i en förändrad omvärld
 
-Livsmedelsstrategin 2\.0 och en ny utrikeshandelsstrategi var några saker som togs upp på Exportdagen med Team Sweden Livsmedel den 26 oktober. Fokus för dagen var hur svenskproducerande företag påverkas av en svagare krona och förändrad omvärld och vad det kräver för nya förhållningssätt.
-
+Livsmedelsstrategin 2.0 och en ny utrikeshandelsstrategi var några saker som togs upp på Exportdagen med Team Sweden Livsmedel den 26 oktober. Fokus för dagen var hur svenskproducerande företag påverkas av en svagare krona och förändrad omvärld och vad det kräver för nya förhållningssätt.
 
 Exportdagen är ett återkommande arrangemang som syftar till att öka kontaktytan mellan näringslivet och det offentliga och lyfta möjligheterna för svensk livsmedelsexport. Johan Krallis Anell, nationell exportsamordnare för livsmedelssektorn på Regeringskansliet och sammankallande för Team Sweden Livsmedel, modererade dagen, som innehöll tre tematiska delar.
 
@@ -13,9 +12,9 @@ Första talare från Regeringskansliet, ambassadör Per Thöresson på Utrikesde
 
 ## En uppdaterad livsmedelsstrategi för att möte en ändrad omvärld
 
-Thöresson följdes av Carl\-Fredrik Lööf, ämnesråd på Landsbygds\- och Infrastrukturdepartementet. Lööf talade om Livsmedelsstrategin 2\.0, som bygger vidare på den livsmedelsstrategi som lanserades 2017\.
+Thöresson följdes av Carl-Fredrik Lööf, ämnesråd på Landsbygds- och Infrastrukturdepartementet. Lööf talade om Livsmedelsstrategin 2.0, som bygger vidare på den livsmedelsstrategi som lanserades 2017.
 
-Sedan dess har extremväder, pandemi och krig i Ukraina ökat den ekonomiska pressen på hela livsmedelskedjan, konstaterade han. Livsmedelsstrategin 2\.0 tas fram som ett svar på dessa ändrade omständigheter.
+Sedan dess har extremväder, pandemi och krig i Ukraina ökat den ekonomiska pressen på hela livsmedelskedjan, konstaterade han. Livsmedelsstrategin 2.0 tas fram som ett svar på dessa ändrade omständigheter.
 
 – Tanken är inte att riva upp målet, utan att leva upp till det i en förändrad omvärld. Det kräver ett ökat fokus på lönsamhet, konkurrenskraft och produktion, sade Lööf.
 

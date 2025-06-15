@@ -2,7 +2,6 @@
 
 Den 9–11 oktober reste statssekreterare Diana Janse till Elfenbenkusten för att inviga Swedfunds nya regionala kontor i Abidjan.
 
-
 Statssekreterare Diana Janse ledde en handelsdelegation bestående av svenska företag och myndigheter, inklusive Sida. Besöket är ytterligare ett konkret exempel på regeringens arbete med att koppla samman handel och bistånd och nyttja svenska företags mervärde.
 
 Resans höjdpunkt var invigningen av Swedfunds regionala kontor i Abidjan. Det blir det statliga bolagets andra kontor på den afrikanska kontinenten, efter Nairobi, och innebär en ökad närvaro för Sverige i Västafrika.

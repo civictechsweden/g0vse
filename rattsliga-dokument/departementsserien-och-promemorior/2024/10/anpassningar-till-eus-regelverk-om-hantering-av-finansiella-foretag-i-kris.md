@@ -4,4 +4,4 @@ I EU:s krishanteringsdirektiv – som genomförs i lagen om resolution – finns
 
 I promemorian föreslås också att det ska göras vissa klargöranden i lagen om resolution med anledning av att Europeiska kommissionen har ifrågasatt om några artiklar i EU:s krishanteringsdirektiv (oberoende av ändringsdirektivet) fullt ut genomförts i svensk rätt. Artiklarna reglerar bland annat hur kravet på kapitalbas och kvalificerade skulder ska bestämmas och uppfyllas.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2025\.
+Lagändringarna föreslås träda i kraft den 1 juli 2025.

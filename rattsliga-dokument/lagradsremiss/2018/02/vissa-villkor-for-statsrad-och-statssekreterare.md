@@ -5,6 +5,6 @@ I lagrådsremissen föreslås att restriktioner införs för statsråds och stat
 Två olika restriktioner införs – karens och ämnesrestriktion. Karens
 innebär att statsrådet eller statssekreteraren inte får påbörja ett nytt uppdrag, en ny anställning eller en ny näringsverksamhet upp till tolv månader efter det att uppdraget eller anställningen avslutades. Ämnesrestriktion innebär att den enskilde inom ramen för ett nytt uppdrag, en ny anställning eller en ny näringsverksamhet inte får befatta sig med vissa särskilda angivna frågor under en tid upp till tolv månader efter avgången. Ett särskilt prövningsorgan, Nämnden för prövning av statsråds och statssekreterares övergångsrestriktioner, föreslås inrättas under riksdagen för att pröva frågor enligt lagen. Restriktionerna föreslås regleras i en ny lag om restriktioner vid statsråds och statssekreterares övergång till annan än statlig verksamhet.
 
-I lagrådsremissen föreslås också en ändring i lagen (1991:359\) om arvoden till statsråd m.m. som innebär att avdrag på ett statsråds arvode ska göras med 10 procent per dag då statsrådet är helt eller delvis frånvarande för att ta hand om sitt barn, om statsministern medgett sådan frånvaro.
+I lagrådsremissen föreslås också en ändring i lagen (1991:359) om arvoden till statsråd m.m. som innebär att avdrag på ett statsråds arvode ska göras med 10 procent per dag då statsrådet är helt eller delvis frånvarande för att ta hand om sitt barn, om statsministern medgett sådan frånvaro.
 
-Regleringen föreslås träda i kraft den 1 juli 2018\.
+Regleringen föreslås träda i kraft den 1 juli 2018.

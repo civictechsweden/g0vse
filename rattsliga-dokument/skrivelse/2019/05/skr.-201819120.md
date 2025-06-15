@@ -1,8 +1,8 @@
 # Riksrevisionens rapport om scenarier inom miljö-, energi-, transport- och bostadspolitiken
 
-Riksrevisionen har granskat de statliga myndigheternas arbete med långsiktiga scenarier inom miljö\-, energi\-, transport\-, och bostadspolitiken.
+Riksrevisionen har granskat de statliga myndigheternas arbete med långsiktiga scenarier inom miljö-, energi-, transport-, och bostadspolitiken.
 
-Långsiktiga scenarier utgör underlag för bl.a. formuleringen av politiska målsättningar, analyser av reformer, samhällsekonomiska analyser och internationell rapportering. Riksrevisionen har redovisat resultatet av sin granskning i rapporten Att planera för framtiden – statens arbete med scenarier inom miljö\-, energi\-, transport\-, och bostadspolitiken (RiR 2019:4\).
+Långsiktiga scenarier utgör underlag för bl.a. formuleringen av politiska målsättningar, analyser av reformer, samhällsekonomiska analyser och internationell rapportering. Riksrevisionen har redovisat resultatet av sin granskning i rapporten Att planera för framtiden – statens arbete med scenarier inom miljö-, energi-, transport-, och bostadspolitiken (RiR 2019:4).
 
 I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och
 de rekommendationer till regeringen som Riksrevisionen har redovisat i rapporten. Vidare redovisar regeringen vilka åtgärder som har vidtagits med anledningen av rapporten.

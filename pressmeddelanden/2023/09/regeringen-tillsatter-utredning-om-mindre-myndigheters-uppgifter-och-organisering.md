@@ -6,4 +6,4 @@ Många myndigheter är små och har avgränsade uppgifter. Mindre myndigheter ka
 
 Utredningen omfattar förvaltningsmyndigheter som har upp till 100 årsarbetskrafter. Utredningen ska bl.a. analysera myndigheternas uppgifter utifrån vad som ligger i det offentliga åtagandet, och eventuella överlappningar i uppgifterna. Utifrån analyserna ska utredningen föreslå vilka myndigheter eller delar av myndigheter som bör avvecklas, samt till vilken eller vilka myndigheter som eventuellt kvarvarande uppgifter bör överföras. Översynen omfattar inte universitet och högskolor, myndigheter som leds av en nämnd eller vars uppgifter anges i grundlag. Eftersom domstolar inte är förvaltningsmyndigheter så omfattas de inte av uppdraget.
 
-Uppdraget ska redovisas senast den 15 december 2024\.
+Uppdraget ska redovisas senast den 15 december 2024.

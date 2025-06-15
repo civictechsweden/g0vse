@@ -17,4 +17,4 @@ samlas i en lag som ger förutsättningar till en samordnad, modern och
 effektiv prövning av sådan verksamhet, och
 • lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 28 juni 2024\.
+Uppdraget ska redovisas senast den 28 juni 2024.

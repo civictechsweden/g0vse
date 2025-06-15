@@ -8,6 +8,6 @@ inkomstskattelagen över vilka associationsformer som avses i 24 kap.
 och i Rumänien. Förslagen är föranledda av ändringar i rådets direktiv
 2011/96/EU av den 30 november 2011 om ett gemensamt beskattningssystemför moderbolag och dotterbolag hemmahörande i olika medlemsstater. I lagrådsremissen föreslås slutligen att det ska bli möjligt att ansöka om förhandsbesked om kupongskatt.
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2016\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2016.
 
 [Pressmeddelande: Nya regler för att motverka skatteflykt](/contentassets/84dce5dbd8f6450e9090b687a3bf640b/pressmeddelande/nya-regler-for-att-motverka-skatteflykt/ "Nya regler för att motverka skatteflykt")

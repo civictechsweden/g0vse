@@ -19,4 +19,4 @@ Det möjliggörs för barn som har fyllt 15 år att få genomgå vissa kirurgisk
 
 De avvägningar som görs i lagrådsremissen rör främst personers rätt till självbestämmande i förhållande till risken för missbruk av identitetshandlingar, förhållandet mellan vårdnadshavares bestämmanderätt och ungas rätt till självbestämmande, patientsäkerhet och personlig integritet.
 
-Lagförslagen föreslås träda i kraft  den 1 januari 2020\.
+Lagförslagen föreslås träda i kraft  den 1 januari 2020.

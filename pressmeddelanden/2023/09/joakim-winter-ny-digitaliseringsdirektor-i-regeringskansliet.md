@@ -6,4 +6,4 @@ Tjänsten som digitaliseringsdirektör är nyinrättad. Uppdraget är att leda o
 
 – Såväl Regeringskansliets kärnprocesser som stödprocesser behöver vidareutvecklas för att motsvara både dagens och framtidens krav. Jag är mycket glad över rekryteringen av Joakim Winter – han har en gedigen erfarenhet av verksamhetsutveckling och förändringsarbete i olika komplexa organisationer, inklusive statlig verksamhet, säger Henrik Holmer, Regeringskansliets förvaltningschef.
 
-Joakim Winter kommer närmast från Karolinska Institutet där han varit IT\-direktör sedan 2018\. Han har tidigare arbetat på bland annat Stockholms universitet, Svenska Röda Korset och Jordbruksverket.
+Joakim Winter kommer närmast från Karolinska Institutet där han varit IT-direktör sedan 2018. Han har tidigare arbetat på bland annat Stockholms universitet, Svenska Röda Korset och Jordbruksverket.

@@ -2,4 +2,4 @@
 
 ## Förlängd tid för uppdraget
 
-Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 31 augusti 2011\.
+Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 31 augusti 2011.

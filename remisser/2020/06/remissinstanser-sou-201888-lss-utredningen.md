@@ -4,5 +4,4 @@ Här kan du ta del av svaren från dem som har ombetts att svara på remissen SO
 
 Övriga yttranden finns tillgängliga i departementet.
 
-
-Sista dag att svara på remissen är den 12 november 2020\.
+Sista dag att svara på remissen är den 12 november 2020.

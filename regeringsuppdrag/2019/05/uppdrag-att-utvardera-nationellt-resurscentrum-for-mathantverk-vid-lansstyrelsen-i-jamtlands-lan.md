@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Statskontoret att utvärdera Nationellt resurscentrum för mathantverk vid Länsstyrelsen i Jämtlands län.
 
-
 Statskontoret ska utvärdera resultaten av verksamheten i förhållande till mål och disponerade medel. Statskontoret ska också utvärdera om nuvarande hemvist och organisering är ändamålsenlig för att nå syftena eller om det finns en annan organisering som har bättre möjlighet att nå syftena.
 
 Statskontorets utvärdering ska utgå från det övergripande målet i livsmedels­strategin och de strategiska övervägandena för området konsument och mark­nad i strategin samt det övergripande målet för en sammanhållen lands­bygdspolitik.
@@ -17,7 +16,7 @@ Statskontoret bör också särskilt beakta om nuvarande hemvist och avgränsning
 
 Statskontoret ska samverka med och ta tillvara kunskap hos Länsstyrelsen i Jämtlands län, Statens jordbruksverk och andra relevanta aktörer inom området småskalig livsmedelsförädling, t.ex. Sveriges lantbruksuniversitet, Livsmedelsverket och etablerade privata aktörer, landsting utifrån sitt regionala utvecklingsansvar, myndigheter eller organisationer.
 
-Uppdraget ska redovisas till Regeringskansliet (Näringsdepartementet) senast den 1 februari 2020\.
+Uppdraget ska redovisas till Regeringskansliet (Näringsdepartementet) senast den 1 februari 2020.
 
 ## Bakgrund
 
@@ -27,4 +26,4 @@ Medel för basfinansiering har beviljats för åren 2016–2019 (N2016/07805/HL)
 
 Regeringen har också, som ett led i livsmedelsstrategin, fattat beslut om att avsätta särskilda resurser inom landsbygdsprogrammet (N2018/00163/HL), som utlyses för information och andra kompetenshöjande insatser inom området.
 
-Av regeringsbeslutet 2015 om att utse Länsstyrelsen i Jämtlands län som nationellt centrum framgår att verksamheten ska utvärderas år 2019\.
+Av regeringsbeslutet 2015 om att utse Länsstyrelsen i Jämtlands län som nationellt centrum framgår att verksamheten ska utvärderas år 2019.

@@ -2,8 +2,7 @@
 
 Här följer en sammanfattning av rapporten om demokrati, mänskliga rättigheter och rättsstatens principer i Luxemburg samt en länk till rapporten i sin helhet.
 
-
-I Luxemburg är situationen för de mänskliga rättigheterna god. Landet har ratificerat ett stort antal instrument om de mänskliga rättigheterna, både på europeisk och global nivå och god dialog och samverkan föreligger mellan Luxemburg och de FN\-kommittéer som övervakar tillämpningen av konventionerna.
+I Luxemburg är situationen för de mänskliga rättigheterna god. Landet har ratificerat ett stort antal instrument om de mänskliga rättigheterna, både på europeisk och global nivå och god dialog och samverkan föreligger mellan Luxemburg och de FN-kommittéer som övervakar tillämpningen av konventionerna.
 
 En allmän ombudsman, liksom en ombudskommitté för barns rättigheter, finns etablerade i landet och ett konsultativt råd för mänskliga rättigheter lämnar en årlig rapport till regeringen.
 

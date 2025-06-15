@@ -9,4 +9,4 @@ För att förstärka skyddet mot tillgreppsbrott och vissa andra brott lämnar r
 * En ny kvalifikations­grund i straff­bestäm­mel­serna om grov stöld och grovt häleri. Vid bedöm­ningen av om brottet är grovt ska det särskilt beaktas om gärningen har ingått som ett led i en brotts­lighet som utövats syste­matiskt.
 * Kriminali­sering av försök, förbere­delse och stämp­ling till häleri.
 
-Lagändringarna föreslås träda i kraft den 1 mars 2021\.
+Lagändringarna föreslås träda i kraft den 1 mars 2021.

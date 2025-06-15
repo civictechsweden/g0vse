@@ -7,4 +7,4 @@ bestämmelserna om information i försäkringsavtalslagen. Det ska även gälla 
 
 Det föreslås vidare att föreningarna inte ska omfattas av definitionen av företag av allmänt intresse i revisorslagen, och att lagen om åtgärder mot penningtvätt och finansiering av terrorism och lagen om försäkringsdistribution inte ska tillämpas på dem.
 
-Lagändringarna föreslås träda i kraft den 1 augusti 2020\.
+Lagändringarna föreslås träda i kraft den 1 augusti 2020.

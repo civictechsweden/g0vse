@@ -10,6 +10,6 @@ I uppdraget ingår bland annat att
 
 Utredaren ska lämna fullständiga författningsförslag och de förslag till åtgärder i övrigt som behövs.
 
-Uppdraget ska redovisas senast den 31 oktober 2017\.
+Uppdraget ska redovisas senast den 31 oktober 2017.
 
 [Pressmeddelande: En utredning av rekryteringen av ordinarie domare](/pressmeddelanden/2016/10/en-utredning-av-rekryteringen-av-ordinarie-domare/)

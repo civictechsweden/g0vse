@@ -2,7 +2,6 @@
 
 Regeringen ger Läkemedelsverket i uppdrag att utveckla en löpande omvärldsbevakning i fråga om humanläkemedel och relevanta medicintekniska produkter i syfte att på kort och lång sikt kunna förebygga och hantera förändringar i tillgången på produkterna så att Sveriges försörjningsberedskap stärks.
 
-
 Läkemedelsverket ska inom ramen för uppdraget
 
 * vidta de åtgärder som krävs för att bedriva en löpande och kostnadseffektiv omvärldsbevakning i syfte att förebygga och hantera bristsituationer,
@@ -12,4 +11,4 @@ Läkemedelsverket ska inom ramen för uppdraget
 * se över hur myndighetens informationsgivning vid försäljningsuppehåll, exempelvis restanmälningar, kan utvecklas och
 * se över om det finns behov av ytterligare reglering.
 
-Läkemedelsverket ska lämna en redovisning av uppdraget till Socialdepartementet senast den 28 februari 2023\.
+Läkemedelsverket ska lämna en redovisning av uppdraget till Socialdepartementet senast den 28 februari 2023.

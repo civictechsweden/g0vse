@@ -11,6 +11,6 @@ I uppdraget ingår att
 
 I uppdraget ingår även att se över fastighetsmäklarlagen i syfte att förbättra möjligheterna till elektronisk kommunikation.
 
-Uppdraget ska redovisas senast den 26 juli 2018\.
+Uppdraget ska redovisas senast den 26 juli 2018.
 
 [Pressmeddelande: Utredning om stärkt tillsyn över fastighetsmäklarbranschen](/pressmeddelanden/2017/05/utredning-om-starkt-tillsyn-over-fastighetsmaklarbranschen/)

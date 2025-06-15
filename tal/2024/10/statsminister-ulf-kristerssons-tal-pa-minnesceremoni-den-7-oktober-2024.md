@@ -1,11 +1,10 @@
 # Statsminister Ulf Kristerssons tal på minnesceremoni den 7 oktober 2024
 
-Tal av statsminister Ulf Kristersson vid minnesceremoni i Stora synagogan i Stockholm på årsdagen för terrordådet mot Israel 7 oktober 2023\.
+Tal av statsminister Ulf Kristersson vid minnesceremoni i Stora synagogan i Stockholm på årsdagen för terrordådet mot Israel 7 oktober 2023.
 
-Stockholm, 7 oktober 2024\. Det talade ordet gäller.
+Stockholm, 7 oktober 2024. Det talade ordet gäller.
 
-
-För exakt ett år sedan begicks det värsta massmordet på judar sedan Förintelsen. 1 200 människor mördades av Hamas\-terrorister. 251 kidnappades. 101 av dem saknas fortfarande av sina familjer och vi vet inte hur många som faktiskt är vid liv.
+För exakt ett år sedan begicks det värsta massmordet på judar sedan Förintelsen. 1 200 människor mördades av Hamas-terrorister. 251 kidnappades. 101 av dem saknas fortfarande av sina familjer och vi vet inte hur många som faktiskt är vid liv.
 
 \*\*\*
 
@@ -29,7 +28,7 @@ Men jag står också upp för att oenighet om konflikter där inte får bli anti
 
 Många judar i vårt land vittnar nu om ökad otrygghet. Upplever oro och rädsla och känner sig övergivna av omgivningen, inte minst av civilsamhället.
 
-Det judiska livet drar sig tillbaka och många gömmer sin identitet. Eller som Christer Mattsson vid Segerstedt\-institutet så träffande beskrev det på ett symposium förra veckan:
+Det judiska livet drar sig tillbaka och många gömmer sin identitet. Eller som Christer Mattsson vid Segerstedt-institutet så träffande beskrev det på ett symposium förra veckan:
 
 ”Antisemitism är inte bara det som sägs och det som görs, utan antisemitismen gör att vissa saker inte sägs och inte kan göras.”
 
@@ -53,9 +52,9 @@ Vi accepterar inte antisemitismen, inga ursäkter och ingen relativisering. Rege
 
 Nästa år firar Sverige 250 år av etablerat judiskt liv. Och svenska judars bidrag till vårt samhälle är många och stora.
 
-Som Georg Riedels musik – för så många själva synonymen med svensk barndom. Eller Pride\-veckans shabbatgudstjänst, som följdes av klezmer\-konserten på Mälarpaviljongen. En fantastisk kväll med glädje och gemenskap!
+Som Georg Riedels musik – för så många själva synonymen med svensk barndom. Eller Pride-veckans shabbatgudstjänst, som följdes av klezmer-konserten på Mälarpaviljongen. En fantastisk kväll med glädje och gemenskap!
 
-Det här är en 250\-årig historia värd att fira, men framför allt att bygga vidare på. Den judiska kulturen är en viktig del av svensk kultur. Den judiska historien är en viktig del av svensk historia. Och den judiska framtiden ska vara en omistlig del av Sveriges framtid.
+Det här är en 250-årig historia värd att fira, men framför allt att bygga vidare på. Den judiska kulturen är en viktig del av svensk kultur. Den judiska historien är en viktig del av svensk historia. Och den judiska framtiden ska vara en omistlig del av Sveriges framtid.
 
 Låt oss ikväll lämna ett mörkt år bakom oss. För det kommer ljusare dagar. Inte av sig själv, utan för att vi är många som tänder ljuset.
 

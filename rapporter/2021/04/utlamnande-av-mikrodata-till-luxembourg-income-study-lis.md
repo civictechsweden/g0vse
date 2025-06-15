@@ -1,7 +1,6 @@
 # Utlämnande av mikrodata till Luxembourg Income Study (LIS)
 
-Denna delrapport innehåller förslag som syftar till att uppgifter på individnivå om inkomstförhållanden, skulder och förmögenheter ska kunna lämnas till det internationella data\- och forskningscentret Luxembourg Income Study (LIS) i Luxemburg.
-
+Denna delrapport innehåller förslag som syftar till att uppgifter på individnivå om inkomstförhållanden, skulder och förmögenheter ska kunna lämnas till det internationella data- och forskningscentret Luxembourg Income Study (LIS) i Luxemburg.
 
 Utredningen gör bedömningen att behovet av att kunna lämna ut uppgifter till LIS väger tyngre än behovet av sekretess och integritetsskydd. Enligt utredningens förslag ska regeringen enligt ett nytt normgivningsbemyndigande i lagen om den officiella statistiken (statistiklagen) få föreskriva att en statistikansvarig myndighet ska lämna ut uppgifter till LIS. Dessa uppgifter ska inte direkt kunna hänföras till en enskild och ska som huvudregel inte avse s.k. känsliga personuppgifter m.m.
 

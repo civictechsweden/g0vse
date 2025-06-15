@@ -1,7 +1,6 @@
 # Uppdrag till Uppsala universitet att kartlägga myndigheters tillämpning av principen om fördragskonform tolkning i förhållande till Sveriges konventionsåtaganden om mänskliga rättigheter
 
-Regeringen uppdrar åt Uppsala universitet att inom särskilt angelägna områden göra en kartläggning av myndigheters tillämpning av principen om fördragskonform tolkning i förhållande till Sveriges konventionsåtaganden om mänskliga rättigheter. Kartläggningen ska ta sin utgångspunkt i en beskrivning av innebörden av principen om fördragskonform tolkning såsom den anges i den svenska doktrinen. En redovisning av uppdraget ska lämnas till Regeringskansliet (Kulturdepartementet) senast den 31 december 2017\.
-
+Regeringen uppdrar åt Uppsala universitet att inom särskilt angelägna områden göra en kartläggning av myndigheters tillämpning av principen om fördragskonform tolkning i förhållande till Sveriges konventionsåtaganden om mänskliga rättigheter. Kartläggningen ska ta sin utgångspunkt i en beskrivning av innebörden av principen om fördragskonform tolkning såsom den anges i den svenska doktrinen. En redovisning av uppdraget ska lämnas till Regeringskansliet (Kulturdepartementet) senast den 31 december 2017.
 
 Uppdraget ska innefatta en redovisning av:
 

@@ -1,6 +1,6 @@
 # Utkast till lagrådsremiss Skärpta krav i sfi
 
-Lagrådsremissen innehåller förslag till ändringar i skollagen (2010:800\) som innebär att kommunal vuxenutbildning i svenska för invandrare (sfi) stärks.
+Lagrådsremissen innehåller förslag till ändringar i skollagen (2010:800) som innebär att kommunal vuxenutbildning i svenska för invandrare (sfi) stärks.
 
 Förslagen innebär följande:
 
@@ -10,4 +10,4 @@ Förslagen innebär följande:
 * När en elev tas emot till sfi ska elevens kunskaper bedömas, om en sådan bedömning inte är uppenbart onödig. Resultatet av bedömningen ska ligga till grund för den individuella studieplanen.
 * Den individuella studieplanen för en elev i sfi ska innehålla en uppgift om den tidpunkt då eleven för första gången togs emot till utbildningen. Om eleven övergår till sfi hos en annan huvudman ska den huvudman som eleven lämnar överlämna elevens individuella studieplan till den mottagande huvudmannen.
 
-Ändringarna i skollagen ska träda i kraft den 1 januari 2025\. För den som har tagits emot till sfi före ikraftträdandet ska rätten att delta i utbildningen gälla till och med den 31 december 2027\.
+Ändringarna i skollagen ska träda i kraft den 1 januari 2025. För den som har tagits emot till sfi före ikraftträdandet ska rätten att delta i utbildningen gälla till och med den 31 december 2027.

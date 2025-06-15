@@ -1,3 +1,3 @@
 # Migration och asylpolitik
 
-I skrivelsen redovisas den svenska migrations\- och asylpolitiken sedan december 2003\. Häri ingår en redogörelse för Sveriges roll i Europasamarbetet och i det internationella samarbetet i övrigt.
+I skrivelsen redovisas den svenska migrations- och asylpolitiken sedan december 2003. Häri ingår en redogörelse för Sveriges roll i Europasamarbetet och i det internationella samarbetet i övrigt.

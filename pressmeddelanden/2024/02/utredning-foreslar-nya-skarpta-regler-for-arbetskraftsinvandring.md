@@ -8,4 +8,4 @@ Utredningen föreslår även att systemet med så kallat spårbyte avskaffas, de
 
 – Det här är ett viktigt steg i arbetet med att skärpa villkoren för lågkvalificerad arbetskraftsinvandring och samtidigt underlätta och förbättra reglerna för högkvalificerad arbetskraftsinvandring. Sverige ska vara ett attraktivt land för högkvalificerad arbetskraft, säger migrationsminister Maria Malmer Stenergard.
 
-Utredningen föreslår att författningsändringarna ska träda i kraft den 1 juni 2025\.
+Utredningen föreslår att författningsändringarna ska träda i kraft den 1 juni 2025.

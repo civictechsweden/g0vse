@@ -4,4 +4,4 @@ I propositionen föreslås en ny lag om ansvar för god forskningssed och prövn
 
 I lagen regleras att en forskare ansvarar för att följa god forskningssed i sin forskning och att en forskningshuvudman har det övergripande ansvaret för att forskningen utförs i enlighet med god forskningssed. Vidare regleras att frågor om oredlighet i forskning ska prövas av en särskild nämnd.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2020\.
+Lagändringarna föreslås träda i kraft den 1 januari 2020.

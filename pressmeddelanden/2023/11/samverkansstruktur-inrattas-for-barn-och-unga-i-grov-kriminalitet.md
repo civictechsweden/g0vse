@@ -18,6 +18,6 @@ Samverkansstrukturen ska bestå av olika råd på nationell, regional och lokal 
 
 Fokus för det operativa arbetet ska vara barn och unga i miljöer kopplade till organiserad brottslighet som riskerar att begå eller begår grova brott. Omständigheterna kring den enskilda personen ska vara en utgångspunkt, eftersom syftet är att effektivisera arbetet med individer på lokal nivå.
 
-Det nationella rådet ska vara inrättat och ha inlett sitt arbete senast den 31 december 2023\. De regionala och lokala råden ska inrättas och starta sitt arbete successivt under 2024\. Arbetet vid det nationella rådet ska ledas av Polismyndigheten. Där ska även Brottsförebyggande rådet, Kriminalvården, länsstyrelserna, Socialstyrelsen, SiS, Skolverket och Åklagarmyndigheten ingå.
+Det nationella rådet ska vara inrättat och ha inlett sitt arbete senast den 31 december 2023. De regionala och lokala råden ska inrättas och starta sitt arbete successivt under 2024. Arbetet vid det nationella rådet ska ledas av Polismyndigheten. Där ska även Brottsförebyggande rådet, Kriminalvården, länsstyrelserna, Socialstyrelsen, SiS, Skolverket och Åklagarmyndigheten ingå.
 
-En redovisning av hur arbetet har genomförts ska lämnas till Justitiedepartementet och Socialdepartementet senast den 6 december 2024 med en delredovisning senast den 31 maj 2024\.
+En redovisning av hur arbetet har genomförts ska lämnas till Justitiedepartementet och Socialdepartementet senast den 6 december 2024 med en delredovisning senast den 31 maj 2024.

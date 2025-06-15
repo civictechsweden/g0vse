@@ -8,4 +8,4 @@ Toppmötet kommer även handla om partnerskapssamarbeten och alliansens långsik
 
 – Sverige står fullt ut bakom alliansens uttalanden om att Ukrainas framtid är i Nato. Vi är tydliga med att stöd till Ukraina är vår tids ödesfråga och att vårt stöd består så länge som det behövs, säger statsminister Ulf Kristersson.
 
-I samband med toppmötet uppmärksammas även Natos 75\-årsjubileum.
+I samband med toppmötet uppmärksammas även Natos 75-årsjubileum.

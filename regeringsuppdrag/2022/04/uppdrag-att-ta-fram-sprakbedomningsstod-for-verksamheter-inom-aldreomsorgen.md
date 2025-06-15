@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen att ta fram stöd som gör det lättare att bedöma vilka svenskkunskaper medarbetarna behöver i äldreomsorgen.
 
-
 Stödet ska ge vägledning när verksamheterna bedömer om personalen har tillräckliga svenskkunskaper för arbetsuppgifterna. Stödet ska vara frivilligt.
 
 Socialstyrelsen ska samtala med berörda myndigheter och andra relevanta aktörer.

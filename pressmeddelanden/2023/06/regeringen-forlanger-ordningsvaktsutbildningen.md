@@ -12,4 +12,4 @@ Förra veckan antog riksdagen regeringens lagförslag som bland annat innebär a
 
 Regeringen har i dag beslutat att utfärda dessa lagändringar.
 
-De nya reglerna träder i kraft den 1 januari 2024\.
+De nya reglerna träder i kraft den 1 januari 2024.

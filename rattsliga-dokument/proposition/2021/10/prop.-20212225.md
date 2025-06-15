@@ -15,6 +15,6 @@ skatteförfarandelagen vad gäller skyldighet att lämna
 kontrolluppgift och uppgift i arbetsgivardeklaration.
 
 Förslaget utgör ett statligt stöd och anmäldes till kommissionen för
-godkännande den 10 juni 2021\. Kommissionen godkände den föreslagna utvidgningen av stödordningen den 14 oktober 2021\.
+godkännande den 10 juni 2021. Kommissionen godkände den föreslagna utvidgningen av stödordningen den 14 oktober 2021.
 
-De nya bestämmelserna föreslås träda i kraft den 1 januari 2022\.
+De nya bestämmelserna föreslås träda i kraft den 1 januari 2022.

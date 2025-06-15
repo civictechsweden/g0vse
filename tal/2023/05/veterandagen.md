@@ -1,9 +1,8 @@
 # Statsminister Ulf Kristerssons tal vid veterandagen
 
-Veterandagen den 29 maj 2023\.
+Veterandagen den 29 maj 2023.
 
 Det talade ordet gäller.
-
 
 Ers majestät,
 
@@ -25,7 +24,7 @@ Låt mig först och främst rikta ett varmt tack från mig och hela den svenska 
 
 Låt mig också säga tack till dem som i denna stund tjänstgör för Sverige internationellt.
 
-Idag vill jag också särskilt uppmärksamma de veteraner som tjänstgjorde i UNIFIL \- (United Nations Interim Force In Lebanon) \- mellan 1978 och 2007\. Många av er som är här idag har med egna ögon sett hur skör freden kan vara i andra delar av världen.
+Idag vill jag också särskilt uppmärksamma de veteraner som tjänstgjorde i UNIFIL - (United Nations Interim Force In Lebanon) - mellan 1978 och 2007. Många av er som är här idag har med egna ögon sett hur skör freden kan vara i andra delar av världen.
 
 Som när vi tidigare i år behövde genomföra en omfattande evakueringsinsats från Sudan, för att hämta hem utsända svenskar på plats – men också flera andra länders medborgare. På bara några dagar fattade vi alla beslut som krävdes för att skicka en väpnad styrka för undsättning. Vi visade att Sverige har förmågan att agera snabbt när det krävs.
 
@@ -41,7 +40,7 @@ Sverige tar därför ett stort ansvar. Politiskt, ekonomiskt och militärt. Med 
 
 Om Ukrainas nyckelord är beslutsamhet, så måste våra vara ”enighet” och ”uthållighet”. Enighet här hemma i Sverige, enighet i EU och enighet mellan Europas länder och USA.
 
-Som Nato\-medlem kommer Sverige bidra till hela Alliansens säkerhet. Med vår geografi, med vårt högteknologiska försvar och med vår försvarsindustri i framkant. Med kompetent militär och civil personal – och en stark försvarsvilja.
+Som Nato-medlem kommer Sverige bidra till hela Alliansens säkerhet. Med vår geografi, med vårt högteknologiska försvar och med vår försvarsindustri i framkant. Med kompetent militär och civil personal – och en stark försvarsvilja.
 
 Sedan jag blev statsminister har jag haft förmånen att träffa många soldater, sjömän och officerare. Jag har ätit lunch med soldater från I 19 och A 8 i Boden, och besökt sjömännen ombord på ubåten Gotland i Karlskrona. Besökt övningen Aurora ute på Korsö tillsammans med förband från Älvsborgs regemente och brittiska Royal Marines.
 
@@ -51,6 +50,6 @@ Jag vill säga varmt tack till alla de ungdomar som likt mina egna tjejer inlede
 
 Men idag vill vi uppmärksamma alla veteraners internationella insatser i rikets tjänst. Det är en dag för att tacka, men också en dag för oss att minnas och hedra de som har skadats eller mist sina liv i arbetet för andras säkerhet.
 
-Tack också till de frivilliga veteran\- och anhörigorganisationerna. Ni bidrar till att skapa viktiga mötesplatser, där människorna bakom Sveriges internationella insatser kan dela erfarenheter och upplevelser. Det ni gör för just era veteraner, gör ni också för alla våra veteraner.
+Tack också till de frivilliga veteran- och anhörigorganisationerna. Ni bidrar till att skapa viktiga mötesplatser, där människorna bakom Sveriges internationella insatser kan dela erfarenheter och upplevelser. Det ni gör för just era veteraner, gör ni också för alla våra veteraner.
 
 Tack.

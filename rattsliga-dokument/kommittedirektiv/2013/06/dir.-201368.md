@@ -12,6 +12,6 @@ Utredaren ska analysera byggnation av egnahemsboende på landsbygden och föresl
 
 Utredaren är fri att lämna förslag i samband med uppdraget.
 
-Förslag ska vara förenliga med EU\-rätten. Marknadspåverkan ska minimeras och att kostnaderna begränsas.
+Förslag ska vara förenliga med EU-rätten. Marknadspåverkan ska minimeras och att kostnaderna begränsas.
 
-Uppdraget ska redovisas senast den 29 maj 2015\.
+Uppdraget ska redovisas senast den 29 maj 2015.

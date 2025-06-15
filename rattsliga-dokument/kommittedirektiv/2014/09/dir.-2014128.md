@@ -8,4 +8,4 @@ En särskild utredare ska undersöka om det finns behov av åtgärder i syfte at
 * se över straffskalan för köp av sexuell handling av barn, och
 * utvärdera tillämpningen av oaktsamhetskravet i 6 kap. 13 § brottsbalken som innebär att en gärningsman kan dömas för vissa sexualbrott mot barn även om han eller hon inte insåg men hade skälig anledning att anta att barnet inte hade uppnått en viss ålder.
 
-Uppdraget ska redovisas senast den 9 mars 2016\.
+Uppdraget ska redovisas senast den 9 mars 2016.

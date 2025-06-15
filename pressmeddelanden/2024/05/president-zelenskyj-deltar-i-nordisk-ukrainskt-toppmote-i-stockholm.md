@@ -8,10 +8,10 @@ Under dagen kommer de nordiska ledarna och president Zelenskyj även att hålla 
 
 ## Program (observera att tiderna är preliminära)
 
-Kl. 10\.30 – Doorstep och fototillfälle i Rosenbad
+Kl. 10.30 – Doorstep och fototillfälle i Rosenbad
 Statsminister Ulf Kristersson och president Zelenskyj.
 
-Kl. 13\.00 – Pressträff
+Kl. 13.00 – Pressträff
 De nordiska ledarna och president Zelenskyj.
 
 Doorstepen och pressträffen med ledarna direktsänds på regeringens webbplats. Simultantolkning till engelska erbjuds under de delar av pressträffen som inte hålls på engelska.
@@ -21,6 +21,6 @@ H.M. Konungen tar emot president Volodymyr Zelenskyj på Kungliga Slottet under 
 Observera att ansökningstiden för medieackreditering har löpt ut.
 
 Videospelarna nedan har följande språk:
-\- engelska
-\- tolkad till engelska
-\- engelska
+- engelska
+- tolkad till engelska
+- engelska

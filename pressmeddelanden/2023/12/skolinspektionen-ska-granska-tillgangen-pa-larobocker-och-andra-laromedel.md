@@ -10,4 +10,4 @@ Regeringen har även beslutat om ett nytt examensmål för lärarutbildningen so
 
 Regeringen tar nu ytterligare ett steg och ger Skolinspektionen i uppdrag att genomföra en granskning av elevers tillgång till läroböcker och andra läromedel i förskoleklass, grundskola och motsvarande skolformer.
 
-Uppdraget ges inom ramen för Skolinspektionens regleringsbrev för 2024\. Myndigheten ska delredovisa sina erfarenheter och slutsatser av granskningen senast den 9 oktober 2025 och lämna en slutredovisning den 9 oktober 2026\.
+Uppdraget ges inom ramen för Skolinspektionens regleringsbrev för 2024. Myndigheten ska delredovisa sina erfarenheter och slutsatser av granskningen senast den 9 oktober 2025 och lämna en slutredovisning den 9 oktober 2026.

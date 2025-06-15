@@ -7,9 +7,9 @@ Utredaren ska bl.a.
 * överväga hur lämpliga solvensregler för tjänstepensionsinstituten ska utformas,
 * analysera och överväga hur lämpliga associationsrättsliga regler för tjänstepensionsinstituten ska utformas,
 * överväga vilka andra regler som krävs till följd av tjänstepensionsdirektivet,
-* analysera och överväga övergångs\- och ombildningsregler för befintliga företag \- exempelvis livförsäkringsföretag och tjänstepensionskassor \- som kan uppfylla tjänstepensionsdirektivets definition av tjänstepensionsinstitut,
+* analysera och överväga övergångs- och ombildningsregler för befintliga företag - exempelvis livförsäkringsföretag och tjänstepensionskassor - som kan uppfylla tjänstepensionsdirektivets definition av tjänstepensionsinstitut,
 * överväga hur lämpliga redovisningsregler för tjänstepensionsinstituten ska utformas,
 * utarbeta de författningsförslag som behövs för den nya rörelseregleringen för tjänstepensionsinstitut, och
 * lämna förslag till följdändringar som behövs i annan lagstiftning.
 
-Uppdraget ska redovisas senast den 31 december 2013\.
+Uppdraget ska redovisas senast den 31 december 2013.

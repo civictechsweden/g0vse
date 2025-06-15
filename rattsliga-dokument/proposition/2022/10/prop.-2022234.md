@@ -5,4 +5,4 @@ I propositionen föreslås nya straffrättsliga bestämmelser i miljöbalken som
 Det föreslås att en fartygsägare ska kunna dömas till böter eller fängelse
 i högst två år om han eller hon inte fullgör skyldigheten i fartygsåtervinningsförordningen att se till att fartyg som ska återvinnas endast återvinns vid sådana fartygsåtervinningsanläggningar som enligt förordningen ska användas för att återvinna fartyget. Brottet ska benämnas otillåten fartygsåtervinning. Även försök till uppsåtligt brott kriminaliseras.
 
-Lagändringarna föreslås träda i kraft den 1 mars 2023\.
+Lagändringarna föreslås träda i kraft den 1 mars 2023.

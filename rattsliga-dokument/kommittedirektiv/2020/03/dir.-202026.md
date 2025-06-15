@@ -1,6 +1,6 @@
 # Skärpning av regelverket för när utvinning av metaller och mineral från alunskiffer får ske
 
-Beslut vid regeringssammanträde den 12 mars 2020\. En särskild utredare ska förutsättningslöst analysera hur regelverket för utvinning av metaller och mineral från alunskiffer kan skärpas och lämna författningsförslag för detta.
+Beslut vid regeringssammanträde den 12 mars 2020. En särskild utredare ska förutsättningslöst analysera hur regelverket för utvinning av metaller och mineral från alunskiffer kan skärpas och lämna författningsförslag för detta.
 
 Alunskifferns sammansättning och egenskaper kan innebära betydande miljörisker i samband med eventuell brytning och avfallshantering. Utvinning av metaller och mineral ur alunskiffer innebär även att markområden måste tas i anspråk, vilket kan innebära konflikter med andra markanvändningsintressen samt med äganderätten. Samtidigt kan alunskiffer innehålla ett flertal metaller och mineral som är nödvändiga för utvecklingen av grön teknik i syfte att klara samhällets klimatomställning.
 
@@ -12,4 +12,4 @@ Utredaren ska bland annat.
 * sammanställa kunskap och identifiera kunskapsluckor när det gäller miljörisker vid utvinning av metaller och mineral ur alunskiffer
 * analysera hur regelverket för utvinning av metaller och mineral från alunskiffer kan skärpas och lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 1 december 2020\.
+Uppdraget ska redovisas senast den 1 december 2020.

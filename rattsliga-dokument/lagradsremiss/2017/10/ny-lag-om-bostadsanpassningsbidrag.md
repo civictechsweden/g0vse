@@ -22,9 +22,8 @@ Det införs två nya frivilliga bidragsformer:
 • bidrag i form av åtagande från kommunen att låta utföra åtgärderna och
 • bidrag i form av överlämnande av begagnad anordning.
 
-
 Bostadsanpassningsbidrag ska inte kunna lämnas för åtgärder i vissa särskilda boenden eller om behovet kan tillgodoses med hjälpmedel som erbjuds av landstinget eller kommunen.
 
 Regeringen föreslår även bestämmelser om handläggningen av ansökningar om bostadsanpassningsbidrag.
 
-Lagförslagen föreslås träda i kraft den 1 juli 2018\.
+Lagförslagen föreslås träda i kraft den 1 juli 2018.

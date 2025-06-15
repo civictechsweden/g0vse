@@ -6,4 +6,4 @@ I propositionen föreslås också att om Riksbankens eget kapital understiger m�
 
 I EU:s finalitydirektiv finns regler om godkännande av administratörer av och deltagande i system för clearing och avveckling av betalningar och värdepapper (avvecklingssystem). Enligt ändringar i EU:s finalitydirektiv ska också betalningsinstitut och utgivare av elektroniska pengar få delta i avvecklingssystem. Enligt ändringar i EU:s betaltjänstdirektiv ska instituten i så fall uppfylla vissa krav. I propositionen lämnas de lagförslag som krävs för att i svensk rätt genomföra ändringarna i direktiven.
 
-Lagändringarna föreslås träda i kraft den 1 januari respektive den 9 april 2025\.
+Lagändringarna föreslås träda i kraft den 1 januari respektive den 9 april 2025.

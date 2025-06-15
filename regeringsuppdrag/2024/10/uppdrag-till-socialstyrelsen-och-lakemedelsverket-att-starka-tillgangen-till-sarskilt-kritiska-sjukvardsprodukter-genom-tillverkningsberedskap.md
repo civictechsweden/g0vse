@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Socialstyrelsen och Läkemedelsverket att stärka tillgången till särskilt kritiska sjukvårdsprodukter.
 
-
 **Socialstyrelsen ska:**
 
 * börja samtala med tillverkare av särskilt kritiska sjukvårdsprodukter för vilka det är lämpligt att tillverkaren är väl förberedd. Målet är att se till att tillverkaren är väl förberedd för att tillverka vissa särskilt kritiska sjukvårdsprodukter i Sverige,
@@ -10,7 +9,7 @@ Regeringen uppdrar åt Socialstyrelsen och Läkemedelsverket att stärka tillgå
 * genomföra den här delen av uppdraget med stöd av Upphandlingsmyndigheten. Här bör Socialstyrelsen även ta tillvara Försvarets Materielverks erfarenheter,
 * genomföra uppdraget:
 
-1. utifrån myndighetens rapport Underlag för vilka sjukvårdsprodukter som behöver omfattas av hälso\- och sjukvårdens försörjningsberedskap,
+1. utifrån myndighetens rapport Underlag för vilka sjukvårdsprodukter som behöver omfattas av hälso- och sjukvårdens försörjningsberedskap,
 2. utifrån Läkemedelsverkets rapport Kartläggning av produktionskapacitet inom läkemedelsområdet och
 3. med hänsyn till uppdraget till Myndigheten för samhällsskydd och beredskap och Socialstyrelsen att analysera försörjningen avseende samhällets behov av och tillgång till sjukvårdsprodukter.
 
@@ -26,7 +25,7 @@ Regeringen uppdrar åt Socialstyrelsen och Läkemedelsverket att stärka tillgå
 **Socialstyrelsen ska:**
 
 * kartlägga de företag vars produktion av varor och tjänster är av synnerlig vikt för att god vård ska kunna ges under höjd beredskap. Utgångspunkten för kartläggningen ska vara resultaten från uppdrag till Myndigheten för samhällsskydd och beredskap och Socialstyrelsen att genomföra en försörjningsanalys avseende samhällets behov av och tillgång till sjukvårdsprodukter.
-* ta hänsyn till arbetet i Utredningen om ökad försörjningsberedskap för varor och tjänster från industrin, dir. 2022:72, och den nationella rådgivaren för stärkt privat\-offentlig samverkan i totalförsvaret, dir. 2024:65\.
+* ta hänsyn till arbetet i Utredningen om ökad försörjningsberedskap för varor och tjänster från industrin, dir. 2022:72, och den nationella rådgivaren för stärkt privat-offentlig samverkan i totalförsvaret, dir. 2024:65.
 
 **Socialstyrelsen och Läkemedelsverket ska**
 

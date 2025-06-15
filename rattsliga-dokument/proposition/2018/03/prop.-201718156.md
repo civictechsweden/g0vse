@@ -2,7 +2,7 @@
 
 Regeringen föreslår i propositionen att tobakslagen och lagen om elektroniska cigaretter och påfyllningsbehållare ersätts av en ny lag om tobak och liknande produkter. De flesta av de nuvarande bestämmelserna förs över till den nya lagen. I propositionen föreslår regeringen även åtgärder som ska minska användningen av tobak.
 
-Regeringen föreslår att bara den som har tillstånd får driva detalj\- och partihandel med tobak.
+Regeringen föreslår att bara den som har tillstånd får driva detalj- och partihandel med tobak.
 
 Rökförbud vidgas till att gälla vissa allmänna platser utomhus: bland annat uteserveringar, entréer till rökfria lokaler, kollektivtrafikens områden utomhus, inhägnade platser för idrott och lek.
 

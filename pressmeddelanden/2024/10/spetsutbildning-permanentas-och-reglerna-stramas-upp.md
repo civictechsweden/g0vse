@@ -12,6 +12,6 @@ De nya reglerna kommer att innebära vissa förändringar för att säkerställa
 
 – För att en hög nivå på spetsutbildningen ska uppnås kommer kraven för behörighet att höjas och den som söker kommer att få göra ett prov i det ämne eller ämnesområde som spetsutbildningen är inriktad mot, säger Mathias Bengtsson, utbildningspolitisk talesperson för Kristdemokraterna.
 
-De utbildningar som i dag bedrivs inom försöksverksamheten kan komma att fortsätta, men skolorna kommer att behöva ansöka om nya tillstånd enligt de nya reglerna. Både kommunala och enskilda huvudmän kommer att kunna ansöka om att få bedriva spetsutbildningarna som kommer att kunna starta till höstterminen 2025\.
+De utbildningar som i dag bedrivs inom försöksverksamheten kan komma att fortsätta, men skolorna kommer att behöva ansöka om nya tillstånd enligt de nya reglerna. Både kommunala och enskilda huvudmän kommer att kunna ansöka om att få bedriva spetsutbildningarna som kommer att kunna starta till höstterminen 2025.
 
 Förordningsändringarna bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

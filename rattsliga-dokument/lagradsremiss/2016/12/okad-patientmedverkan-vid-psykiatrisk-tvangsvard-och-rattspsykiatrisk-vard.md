@@ -1,8 +1,8 @@
 # Ökad patientmedverkan vid psykiatrisk tvångsvård och rättspsykiatrisk vård
 
-En central utgångspunkt inom all hälso\- och sjukvård i Sverige är att
+En central utgångspunkt inom all hälso- och sjukvård i Sverige är att
 patienter så långt möjligt ska få vara delaktiga och utöva inflytande över
-den hälso\- och sjukvård de tar emot. Vid vård som ges med stöd av lagen om psykiatrisk tvångsvård och lagen om rättspsykiatrisk vård får de begränsningar som gäller för bland annat patientens inflytande över vården aldrig gå utöver vad som är nödvändigtför att kunna genomföra vården.
+den hälso- och sjukvård de tar emot. Vid vård som ges med stöd av lagen om psykiatrisk tvångsvård och lagen om rättspsykiatrisk vård får de begränsningar som gäller för bland annat patientens inflytande över vården aldrig gå utöver vad som är nödvändigtför att kunna genomföra vården.
 
 Patienter som vårdas med tvång befinner sig i en särskilt utsatt ställning. Det är därför särskilt viktigt att så långt möjligt säkerställa dels deras medverkan i vården, dels att vården och behandlingen sker i former som inkräktar så lite som möjligt på deras integritet och värdighet.
 
@@ -24,4 +24,4 @@ Regeringen föreslår att det i lagen om psykiatrisk tvångsvård förs in en ny
 
 Slutligen föreslår regeringen att det i 17 § lagen om psykiatrisk tvångsvård ska förtydligas att en patient, om det är nödvändigt och efter beslut av chefsöverläkaren, får ges behandling utan samtycke. Detta tydliggörande, som inte avses innebära någon ändring i sak, har även betydelse för den rättspsykiatriska vården.
 
-Lagändringarna föreslås träda ikraft den 1 juli 2017\.
+Lagändringarna föreslås träda ikraft den 1 juli 2017.

@@ -10,4 +10,4 @@ Bidraget gör det möjligt för regionerna och kommunerna att finansiera projekt
 
 Förslagen har sin grund i den satsning på ett hållbart arbetsliv för personal i vård och omsorg som regeringen har beskrivit i budgetpropositionen för 2021, nämligen återhämtningsbonusen.
 
-Den nya förordningen föreslås träda i kraft den 1 juni 2021\.
+Den nya förordningen föreslås träda i kraft den 1 juni 2021.

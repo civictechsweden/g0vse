@@ -8,4 +8,4 @@ Förbudet ska gälla i högst sex månader i taget och gälla ett geografiskt av
 
 Förbudet omfattas av flera rättssäkerhetsgarantier. Till exempel ska förbud kunna överklagas till domstol, och barn under 18 år föreslås få tillgång till ett offentligt biträde i processen om vistelseförbud.
 
-Reglerna föreslås träda i kraft den 1 februari 2024\. Det är en tidigareläggning med fem månader i förhållande till den ursprungliga planen.
+Reglerna föreslås träda i kraft den 1 februari 2024. Det är en tidigareläggning med fem månader i förhållande till den ursprungliga planen.

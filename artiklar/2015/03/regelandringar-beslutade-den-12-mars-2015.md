@@ -6,11 +6,10 @@ Regeringen har beslutat att förordningen om avgifter för prövning och tillsyn
 
 ### Referenser
 
-* förordningen (1998:940\) om avgifter för prövning och tillsyn enligt miljöbalken
+* förordningen (1998:940) om avgifter för prövning och tillsyn enligt miljöbalken
 
 ## Mer information
 
-Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 24 mars 2015\.
+Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 24 mars 2015.
 
-
-Kontaktperson: Pia\-Maria Lindroos 08\-405 21 51
+Kontaktperson: Pia-Maria Lindroos 08-405 21 51

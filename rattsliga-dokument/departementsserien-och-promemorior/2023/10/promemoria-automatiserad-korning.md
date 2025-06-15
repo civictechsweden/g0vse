@@ -4,4 +4,4 @@ I promemorian föreslås en ny förordning om helautomatiserade fordon för att 
 
 Förordningen förtydligar att helautomatiserade fordon som är typgodkända enligt kommissionens genomförandeförordning (EU) 2022/1426 bara får framföras där det är särskilt tillåtet och ger väghållare mandat att föreskriva om sådana platser.
 
-Den nya förordningen föreslås träda i kraft den 1 juli 2024\.
+Den nya förordningen föreslås träda i kraft den 1 juli 2024.

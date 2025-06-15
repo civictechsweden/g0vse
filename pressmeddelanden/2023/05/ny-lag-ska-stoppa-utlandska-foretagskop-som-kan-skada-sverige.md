@@ -8,6 +8,6 @@ Utländska direkt­investeringar är en viktig del av det svenska närings­live
 
 Det finns med dagens regelverk inte till­räckliga förutsätt­ningar att hindra utländska investe­ringar i svenska företag vars verk­samhet, information eller teknik har betydelse för Sveriges säkerhet eller för allmän ordning eller allmän säkerhet i Sverige.
 
-– Den säker­hets­politiska utveck­lingen har visat på riskerna med att främ­mande makt kontrol­lerar kritisk infra­struktur och får inflytande inom försvars\- och säkerhets­industrin, säger Carl\-Oskar Bohlin, minister för civilt försvar.
+– Den säker­hets­politiska utveck­lingen har visat på riskerna med att främ­mande makt kontrol­lerar kritisk infra­struktur och får inflytande inom försvars- och säkerhets­industrin, säger Carl-Oskar Bohlin, minister för civilt försvar.
 
-Den nya lagen föreslås träda i kraft den 1 december 2023\.
+Den nya lagen föreslås träda i kraft den 1 december 2023.

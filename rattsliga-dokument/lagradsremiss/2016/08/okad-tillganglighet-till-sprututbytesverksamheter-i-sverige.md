@@ -8,4 +8,4 @@ Förslagen innebär att
 * personer som injicerar droger och har fyllt 18 år ska kunna delta i verksamheten
 * det särskilda kravet på märkning av kanyler och sprutor utdelade via sprututbyten tas bort.
 
-Lagändringarna föreslås träda i kraft 1 mars 2017\.
+Lagändringarna föreslås träda i kraft 1 mars 2017.

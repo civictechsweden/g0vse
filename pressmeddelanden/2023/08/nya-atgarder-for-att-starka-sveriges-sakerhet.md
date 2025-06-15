@@ -8,7 +8,7 @@ Inre gränskontroll syftar till att kunna identifiera personer som reser in i Sv
 
 Att intensifiera arbetet med inre gränskontroller kan till exempel handla om att förstärka den nuvarande gränskontrollen vid inre gräns eller genomföra inre utlänningskontroller med särskilda befogenheter i gränsnära områden. De särskilda befogenheterna kommer från en ny lag som träder i kraft idag den 1 augusti och som sänker kraven för när polisen får genomföra inre utlänningskontroll.
 
-Uppdraget ska redovisas den 1 mars 2024\.
+Uppdraget ska redovisas den 1 mars 2024.
 
 Precis som den danska regeringen tittar också den svenska regeringen på andra möjliga åtgärder under rådande säkerhetsläge. Regeringen överväger bland annat hur en utredning om ordningslagen skulle kunna utformas. Det handlar i så fall inte om att generellt förbjuda vissa yttringar, utan om att bredda tillståndsprövningen vad gäller allmänna sammankomster. Detta så att inte enbart ordningsstörningar på själva platsen – utan även Sveriges säkerhet – ska kunna vägas in vid prövningen.
 

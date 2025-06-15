@@ -6,4 +6,4 @@ Flera av nämndmyndigheterna har inte omprövats sedan myndigheterna inrättades
 
 – För att öka medborgarnyttan behöver statsförvaltningen bli mer effektiv. Regeringen tar ett samlat grepp för att se till att verksamheterna är organiserade på ett ändamålsenligt sätt och att skattemedel används där de gör mest nytta, säger civilminister Erik Slottner.
 
-Regeringen har även tillsatt en utredning för att se över mindre myndigheters samt analys\- och utvärderingsmyndigheters uppgifter och organisering. Regeringen har sedan tidigare också meddelat att en prövning görs av ett antal myndighetssammanslagningar.
+Regeringen har även tillsatt en utredning för att se över mindre myndigheters samt analys- och utvärderingsmyndigheters uppgifter och organisering. Regeringen har sedan tidigare också meddelat att en prövning görs av ett antal myndighetssammanslagningar.

@@ -16,4 +16,4 @@ Naturvårdsverket, Sjöfartsverket, Statens energimyndighet, Statens väg och tr
 
 Trafikverket bör även samråda med ett urval aktörer inom den akademiska världen, som har relevant kompetens om upphandling, samt med berörda branschorganisationer och ett urval företag som ofta deltar i Trafikverkets upphandlingar.
 
-Trafikverket ska senast den 1 december 2012, i en delrapport till Regeringskansliet (Näringsdepartmentet) redovisa tidigare resultat och erfarenheter, förslag till testverksamhet samt preliminär plan för ökad användning av innovationsupphandling. Trafikverket ska slutredovisa uppdraget i en rapport till Regeringskansliet (Näringsdepartementet) senast den 1 juli 2014\.
+Trafikverket ska senast den 1 december 2012, i en delrapport till Regeringskansliet (Näringsdepartmentet) redovisa tidigare resultat och erfarenheter, förslag till testverksamhet samt preliminär plan för ökad användning av innovationsupphandling. Trafikverket ska slutredovisa uppdraget i en rapport till Regeringskansliet (Näringsdepartementet) senast den 1 juli 2014.

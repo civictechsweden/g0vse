@@ -8,4 +8,4 @@ I propositionen föreslås därför att Finansinspektionen ska samverka med Riks
 
 I propositionen föreslås också att svensk rätt ska anpassas till EU:s regelverk om hantering av finansiella företag i kris och EU:s regelverk om gränsöverskridande betalningar i euro. Förslagen är av rättelsekaraktär.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2024\.
+Lagändringarna föreslås träda i kraft den 1 juli 2024.

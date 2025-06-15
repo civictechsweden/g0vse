@@ -10,4 +10,4 @@ Mer detaljerad information om programmet och deltagare publiceras närmare besö
 
 ## Till redaktionen
 
-Medierepresentanter behöver särskild ackreditering via UD för att bevaka statsbesöket. Sista dag att ansöka var torsdagen den 18 januari 2024\. Ackrediteringen är stängd.
+Medierepresentanter behöver särskild ackreditering via UD för att bevaka statsbesöket. Sista dag att ansöka var torsdagen den 18 januari 2024. Ackrediteringen är stängd.

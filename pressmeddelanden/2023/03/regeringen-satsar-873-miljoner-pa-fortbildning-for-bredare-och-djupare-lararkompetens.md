@@ -13,4 +13,4 @@ Det nya fortbildningsbidraget ersätter de fem olika statsbidrag som finns i dag
 
 En annan nyhet är möjligheten för huvudmän att använda en viss del av det studiebaserade bidraget som lönetillägg, ett så kallat studiestipendium, för den som går en fortbildning. Det regleras också att lärare och förskollärare i skolor med särskilt svåra förutsättningar ska ha företräde till det nya fortbildningsbidraget.
 
-Det nya fortbildningsbidraget kommer kunna sökas för första gången för studier som påbörjas under hösten 2023\.
+Det nya fortbildningsbidraget kommer kunna sökas för första gången för studier som påbörjas under hösten 2023.

@@ -6,4 +6,4 @@ Transportörer ska därför i samband med försäljning av och erbjudanden om en
 
 Inledningsvis kommer kravet på klimatdeklarationer endast att gälla resor med flyg.
 
-Den nya lagen och förordningen föreslås träda i kraft den 1 juli 2022\.
+Den nya lagen och förordningen föreslås träda i kraft den 1 juli 2022.

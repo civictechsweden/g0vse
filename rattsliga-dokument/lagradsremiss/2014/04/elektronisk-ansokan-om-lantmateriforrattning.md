@@ -6,6 +6,6 @@ Möjligheten till elektronisk ansökan ska finnas i alla slags förrättningar o
 
 Regeringen föreslår också ändringar i reglerna om vilka kontaktuppgifter som ska lämnas i en ansökan om förrättning. Dessutom föreslås att en sakägare som anlitar ombud inte alltid ska vara tvungen att visa upp ombudets fullmakt i original. Detta ska bara krävas om lantmäterimyndigheten anser att det behövs.
 
-Lagändringarna är ett led i arbetet för att uppnå målet för regeringens it\-politik: att Sverige ska vara bäst i världen på att använda digitaliseringens möjligheter.
+Lagändringarna är ett led i arbetet för att uppnå målet för regeringens it-politik: att Sverige ska vara bäst i världen på att använda digitaliseringens möjligheter.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2015\.
+Lagändringarna föreslås träda i kraft den 1 januari 2015.

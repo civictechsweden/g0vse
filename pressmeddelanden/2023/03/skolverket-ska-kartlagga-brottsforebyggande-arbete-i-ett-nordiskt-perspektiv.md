@@ -10,4 +10,4 @@ Ett effektivt och evidensbaserat brottsförebyggande arbete kan förebygga socia
 
 Vid genomförandet av uppdraget ska Skolverket inhämta kunskaper och erfarenheter från bland annat Brottsförebyggande rådet och Barnombudsmannen. Myndigheten ska också lämna exempel på möjliga framgångsfaktorer.
 
-Uppdraget ska redovisas senast den 15 september 2023\.
+Uppdraget ska redovisas senast den 15 september 2023.

@@ -8,4 +8,4 @@ Regeringen lämnar också förslag om rätten till förskola och annan pedagogis
 
 Regeringen lämnar vidare förslag om rätten till äldreomsorg på minoritetsspråk, bland annat att rätten ska avse en större del av verksamheten och att den ska omfatta den äldres behov av att upprätthålla sin kulturella identitet. Vidare föreslås stärkta möjligheter till äldreomsorg på jiddisch och romani chib.
 
-Propositionen innehåller även en del av revideringen av den minoritetspolitiska strategin. Bland annat görs bedömningar om den fortsatta inriktningen för minoritetspolitiken. Lagändringarna föreslås träda i kraft den 1 januari 2019\.
+Propositionen innehåller även en del av revideringen av den minoritetspolitiska strategin. Bland annat görs bedömningar om den fortsatta inriktningen för minoritetspolitiken. Lagändringarna föreslås träda i kraft den 1 januari 2019.

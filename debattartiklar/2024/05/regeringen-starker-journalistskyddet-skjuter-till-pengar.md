@@ -2,8 +2,7 @@
 
 Att fria medier som vill, kan och orkar granska makten är en del av den demokratiska infrastrukturen missar vi sällan ett tillfälle att påminna om. Just i dag, på Pressfrihetens Dag, är det dock kanske viktigare än någonsin att göra det.
 
-Kulturminister Parisa Liljestrand och justitieminister Gunnar Strömmer, debattartikel, Dagens Media, den 3 maj 2024\.
-
+Kulturminister Parisa Liljestrand och justitieminister Gunnar Strömmer, debattartikel, Dagens Media, den 3 maj 2024.
 
 Runtom i världen ser vi hur fria medier tystas och journalister utsätts för hot, hat och repressalier när de enbart gör sitt arbete och rapporterar, granskar och upplyser.
 

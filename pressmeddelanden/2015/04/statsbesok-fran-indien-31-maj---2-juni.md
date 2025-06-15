@@ -1,7 +1,6 @@
 # Statsbesök från Indien 31 maj - 2 juni
 
-Indiens president Shri Pranab Mukherjee avlägger statsbesök i Sverige 31 maj \- 2 juni 2015 på inbjudan av kung Carl XVI Gustaf.
-
+Indiens president Shri Pranab Mukherjee avlägger statsbesök i Sverige 31 maj - 2 juni 2015 på inbjudan av kung Carl XVI Gustaf.
 
 I president Mukherjees delegation ingår politiska företrädare och representanter för indiskt näringsliv för överläggningar och möten med svenska statsråd, parlamentariker och näringslivsrepresentanter.
 

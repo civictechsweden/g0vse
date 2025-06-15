@@ -10,4 +10,4 @@ Regeringen ger därför Rättsmedicinalverket i uppdrag att kartlägga och samma
 
 – Arbetet mot mäns våld mot kvinnor, pojkars våld mot flickor och annat våld i nära relationer är högt prioriterat av regeringen. Vetskapen om att strypvåld är vanligt förekommande, inte minst bland unga, och att kunskaperna brister gör att vi behöver vidta åtgärder för att vända utvecklingen, säger jämställdhetsminister Paulina Brandberg.
 
-Rättsmedicinalverket ska redovisa sitt uppdrag senast den 3 mars 2025\.
+Rättsmedicinalverket ska redovisa sitt uppdrag senast den 3 mars 2025.

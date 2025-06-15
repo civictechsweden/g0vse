@@ -2,7 +2,7 @@
 
 I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och
 rekommendationer som Riksrevisionen har redovisat i rapporten
-Tillämpningen av det finanspolitiska ramverket (RiR 2017:32\).
+Tillämpningen av det finanspolitiska ramverket (RiR 2017:32).
 
 Regeringen instämmer delvis i det som Riksrevisionen har framhållit om
 behovet av transparens och tydlighet i budgetpropositionen och arbetar

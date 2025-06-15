@@ -1,7 +1,6 @@
 # EU-kommissionen lägger förslag till moderniserat regelverk för elektroniska kommunikationer
 
-I februari 2015 efterfrågade Regeringskansliet synpunkter med anledning av översynen av de direktiv som styr den elektroniska kommunikationssektorn. Det handlar om EU\-gemensamma regler för bland annat konkurrens mellan bredbandsoperatörer, utbyggnad av mobilnät, konsumentskydd, integritetsskydd, användningen av radiospektrum och internetanvändning. Inom ramen för den översynen har nu EU\-kommissionen publicerat sitt förslag till lagändringar i form av ett nytt direktiv och ändringar av en förordning, som kommer att bli föremål för förhandlingar mellan medlemsstaterna och med Europaparlamentet.
-
+I februari 2015 efterfrågade Regeringskansliet synpunkter med anledning av översynen av de direktiv som styr den elektroniska kommunikationssektorn. Det handlar om EU-gemensamma regler för bland annat konkurrens mellan bredbandsoperatörer, utbyggnad av mobilnät, konsumentskydd, integritetsskydd, användningen av radiospektrum och internetanvändning. Inom ramen för den översynen har nu EU-kommissionen publicerat sitt förslag till lagändringar i form av ett nytt direktiv och ändringar av en förordning, som kommer att bli föremål för förhandlingar mellan medlemsstaterna och med Europaparlamentet.
 
 Regeringskansliet efterfrågar nu synpunkter på kommissionens förslag, enligt följande:
 
@@ -9,7 +8,7 @@ Regeringskansliet efterfrågar nu synpunkter på kommissionens förslag, enligt 
 * Varför?
 * Om ni anser att delar bör ändras, på vilket sätt?
 
-Dokument på EU\-kommissionens webbplats som Regeringskansliet efterfrågar synpunkter på:
+Dokument på EU-kommissionens webbplats som Regeringskansliet efterfrågar synpunkter på:
 
 [Proposed Directive establishing the European Electronic Communications Code](https://ec.europa.eu/digital-single-market/en/news/proposed-directive-establishing-european-electronic-communications-code "Proposed Directive establishing the European Electronic Communications Code")
 

@@ -8,4 +8,4 @@ Kontaktpersonen ska vara behörig att ta emot delgivningar för arbetsgivarens r
 
 Om en arbetsgivare inte anmäler utstationeringen eller inte utser och anmäler en kontaktperson ska en sanktionsavgift tas ut. Arbetsmiljöverket föreslås utöva tillsyn över att reglerna följs.
 
-Lagändringarna föreslås träda i kraft den 1 juli 2013\.
+Lagändringarna föreslås träda i kraft den 1 juli 2013.

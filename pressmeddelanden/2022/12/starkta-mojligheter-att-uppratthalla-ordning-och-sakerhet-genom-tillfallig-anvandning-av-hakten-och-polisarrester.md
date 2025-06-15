@@ -7,7 +7,7 @@ Kriminal­vården och Polismyndigheten har i separata hemställningar till Justi
 I promemorian föreslås att
 
 * det i tillfälliga polisarrester ska vara möjligt att, i vissa fall, använda förvaringsrum som avviker från rådande storlekskrav för golvyta, kubikinnehåll och rumshöjd. Avvikelsen får vara högst fem procent;
-* det ska vara möjligt att, när det finns särskilda skäl, även avvika från vissa utformnings\- och utrustningskrav i förvaringsrum i tillfälliga polisarrester. Det gäller bland annat kraven på fönster, ljudisolering och förvaring av tillhörigheter;
+* det ska vara möjligt att, när det finns särskilda skäl, även avvika från vissa utformnings- och utrustningskrav i förvaringsrum i tillfälliga polisarrester. Det gäller bland annat kraven på fönster, ljudisolering och förvaring av tillhörigheter;
 * det i häkten och polisarrester ska vara möjligt att använda väntrum som avviker från rådande krav på storlek, utformning och utrustning när en person anländer till eller ska lämna ett häkte eller en polisarrest. Placering i väntrum ska bara ske under mycket kort tid.
 
 Förordningsändringarna föreslås träda i kraft så snart som möjligt

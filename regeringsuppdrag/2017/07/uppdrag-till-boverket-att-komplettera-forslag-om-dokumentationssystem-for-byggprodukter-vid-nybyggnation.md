@@ -1,7 +1,6 @@
 # Uppdrag till Boverket att komplettera förslag om dokumentationssystem för byggprodukter vid nybyggnation
 
-Regeringen uppdrar åt Boverket att komplettera myndighetens förslag om dokumentationssystem för byggprodukter, en så kallad loggbok, vid nybyggnation av byggnadsverk (rapport 2015:46\).
-
+Regeringen uppdrar åt Boverket att komplettera myndighetens förslag om dokumentationssystem för byggprodukter, en så kallad loggbok, vid nybyggnation av byggnadsverk (rapport 2015:46).
 
 Boverket ska, med beaktande av remisskommentarer:
 • utreda utformningen av tillsyn över den föreslagna loggboken, inklusive eventuella sanktionsmöjligheter och val av tillsynsmyndighet, både för byggnader och anläggningar,

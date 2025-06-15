@@ -8,4 +8,4 @@ Utbildningsdepartementet har tidigare i vår justerat flera för­ordningar så 
 
 Utbildningsdepartementet har tillsatt en utredare som får i uppdrag att identifiera vilka ändringar i lagstiftningen som behövs för att vid en kris trygga behovet av omsorg för vårdnads­havare som arbetar i samhällsviktig verksamhet samt för utbildning och kompetensförsörjning. Utredaren ska även överväga vilket ansvar enskilda huvudmän för bland annat fristående skolor ska ha vid krigsfara och krig.
 
-Utredaren ska redovisa sitt uppdrag senast den 31 maj 2024\.
+Utredaren ska redovisa sitt uppdrag senast den 31 maj 2024.

@@ -1,7 +1,6 @@
 # "Digitaliseringen i skolan har varit ett experiment"
 
-Skolminister Lotta Edholm, debattartikel, Expressen, den 21 december 2022\.
-
+Skolminister Lotta Edholm, debattartikel, Expressen, den 21 december 2022.
 
 Det har funnit en okritisk hållning till digitalisering i skolan. Men en fysisk bok har fördelar som ingen padda kan ersätta. Därför gör regeringen nu en satsning på läromedel, skriver skolminister Lotta Edholm (L).
 
@@ -9,7 +8,7 @@ Barn som växer upp i Sverige i dag lever i en värld full av paddor, datorer oc
 
 Digitaliseringen av samhället är förstås i grunden bra. Det effektiviserar, skapar möten och en tillgänglighet som helt enkelt gör livet och samhället bättre. För Sverige som nation är det också en viktig konkurrensfördel. Men åtskilliga timmar framför en skärm per dag görs på bekostnad av annat. Det gäller inte minst i skolan.
 
-Digitaliseringen i skolan har i mångt och mycket varit ett experiment. Det har funnits en okritisk hållning till digitalisering, där det slentrianmässigt ansetts som bra oavsett innehåll. Nyligen efterlyste EU\-parlamentets kulturutskott fler tv\-spel i skolan. Men den nya regeringen vill i stället se fler skolböcker.
+Digitaliseringen i skolan har i mångt och mycket varit ett experiment. Det har funnits en okritisk hållning till digitalisering, där det slentrianmässigt ansetts som bra oavsett innehåll. Nyligen efterlyste EU-parlamentets kulturutskott fler tv-spel i skolan. Men den nya regeringen vill i stället se fler skolböcker.
 
 ## Finns vissa fördelar
 
@@ -27,11 +26,11 @@ Samtidigt uppger var tredje lärare att de inte kan köpa in de analoga läromed
 
 ## Satsar stort
 
-I många skolor har därför stenciler fått ta böckernas plats. Det är dock skillnad på en bok och ett utskrivet A4\-ark. I samma forskningssammanställning om läsning skriver Skolverket att läsning på utskrivna enstaka papper minskar möjligheterna för läsare att organisera information. Och varje förälder som har plockat upp en blöt stencil ur gympapåsen vet att det är svårt att göra läxan.
+I många skolor har därför stenciler fått ta böckernas plats. Det är dock skillnad på en bok och ett utskrivet A4-ark. I samma forskningssammanställning om läsning skriver Skolverket att läsning på utskrivna enstaka papper minskar möjligheterna för läsare att organisera information. Och varje förälder som har plockat upp en blöt stencil ur gympapåsen vet att det är svårt att göra läxan.
 
 För att det ska bli verklighet gör regeringen nu en satsning på läromedel på 685 miljoner kronor nästa år och en halv miljard kronor årligen därefter. Det kommer ge fler skolor möjlighet att köpa in högkvalitativa läroböcker.
 
-Utöver det satsar regeringen på fler speciallärare, lovskola, akut\- och jourskolor och minskat stök i klassrummet. Tidiga insatser, så att elever får hjälp i tid i stället för i slutet av grundskolan.
+Utöver det satsar regeringen på fler speciallärare, lovskola, akut- och jourskolor och minskat stök i klassrummet. Tidiga insatser, så att elever får hjälp i tid i stället för i slutet av grundskolan.
 
 Sveriges morgondag bestäms av skolelevers vardag. Regeringen vill att den fylls med läsning och kunskap – inte skärmtid.
 

@@ -5,11 +5,11 @@ En särskild utredare ska överväga åtgärder för en stärkt tillsyn av tivol
 Utredaren ska bland annat
 
 * överväga åtgärder för en stärkt tillsyn av tivoliverksamheter,
-innefattande att ta ställning till vilken huvudman som ska ha ansvaret för tillsynen,
+  innefattande att ta ställning till vilken huvudman som ska ha ansvaret för tillsynen,
 * ta ställning till om och i vilken utsträckning Polismyndighetens ansvar
-för hantering av vissa tillstånd enligt ordningslagen, begäran om rättelser och bestridanden enligt lagen om felparkeringsavgift, förordnande av stämningsman enligt delgivningslagen och instängsling och
-skyddsåtgärder vid övergivna gruvhål ska överlämnas till en annan
-huvudman och i så fall till vilken, och
+  för hantering av vissa tillstånd enligt ordningslagen, begäran om rättelser och bestridanden enligt lagen om felparkeringsavgift, förordnande av stämningsman enligt delgivningslagen och instängsling och
+  skyddsåtgärder vid övergivna gruvhål ska överlämnas till en annan
+  huvudman och i så fall till vilken, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget att se över tillsynen av tivoliverksamheter ska redovisas senast den 7 april 2025\. Uppdraget ska slutredovisas senast den 7 oktober 2025\.
+Uppdraget att se över tillsynen av tivoliverksamheter ska redovisas senast den 7 april 2025. Uppdraget ska slutredovisas senast den 7 oktober 2025.

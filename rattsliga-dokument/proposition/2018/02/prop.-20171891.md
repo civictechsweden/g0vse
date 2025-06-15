@@ -8,4 +8,4 @@ Regeringen föreslår bland annat att läkemedelslagen ändras så att bestämme
 
 I propositionen föreslår regeringen en övergångsbestämmelse i läkemedelslagen om att tillstånd till försäljning av antroposofiska medel, som beviljats före ikraftträdandet, gäller men att de inte får förlängas.
 
-Lagförslagen föreslås träda i kraft den 1 juli 2018\.
+Lagförslagen föreslås träda i kraft den 1 juli 2018.

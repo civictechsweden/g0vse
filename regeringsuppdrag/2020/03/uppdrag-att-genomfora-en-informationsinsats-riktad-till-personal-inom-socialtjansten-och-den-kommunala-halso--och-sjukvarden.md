@@ -1,7 +1,6 @@
 # Uppdrag att genomföra en informationsinsats riktad till personal inom socialtjänsten och den kommunala hälso- och sjukvården
 
-Regeringen uppdrar åt Socialstyrelsen att bland annat ta fram information till medarbetare inom socialtjänsten och den kommunala hälso\- och sjukvård om åtgärder för att skydda riskgrupper i samband med covid \-19\.
-
+Regeringen uppdrar åt Socialstyrelsen att bland annat ta fram information till medarbetare inom socialtjänsten och den kommunala hälso- och sjukvård om åtgärder för att skydda riskgrupper i samband med covid -19.
 
 ## Snabb igångsättning
 

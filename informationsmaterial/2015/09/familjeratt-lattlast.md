@@ -2,10 +2,8 @@
 
 ![](/contentassets/d1b52e7c4abb4cbfa1d97b79930cd7ee/omslag-familjeratt-ll.jpg?width=150&quality=85)
 
-
 Lättläst information om lagar
 som gäller för familjer i Sverige
-
 
 Här kan du läsa om de regler som gäller
 när du gifter dig, flyttar ihop,

@@ -18,4 +18,4 @@ för begränsat skattskyldiga personer vid tillfällig anställning eller uppdra
 Förslagen medför ändringar i lagen om särskild inkomstskatt
 för utomlands bosatta, inkomstskattelagen och skatteförfarandelagen.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2022\.
+Lagändringarna föreslås träda i kraft den 1 januari 2022.

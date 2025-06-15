@@ -12,11 +12,11 @@ Som sakkunniga i kommittén förordnas, utöver representanter från Regeringska
 * Daria Finocchiaro, rådgivare vid Riksbankens forskningsenhet,
 * Erika Färnstrand Damsgaard, avdelningschef vid Riksgäldskontoret,
 * Lisa Borgström Åkesson, senior fastighetsekonom vid Boverket,
-* Gabriella Fenger\-Krog, enhetschef vid Konsumentverket,
+* Gabriella Fenger-Krog, enhetschef vid Konsumentverket,
 * Anna Broman, bostadspolitisk expert vid Byggföretagen,
 * Björn Elfstrand, verkställande direktör för Sparbankernas Riksförbund, och
 * Johan Hansing, chefsekonom vid Svenska Bankföreningen.
 
 Som sekreterare i kommittén förordnas Viktor Thell från Finansinspektionen och Magnus Åhl från Riksbanken, båda med doktorsexamen.
 
-Kommittén ska redovisa sitt uppdrag senast den 31 oktober 2024\.
+Kommittén ska redovisa sitt uppdrag senast den 31 oktober 2024.

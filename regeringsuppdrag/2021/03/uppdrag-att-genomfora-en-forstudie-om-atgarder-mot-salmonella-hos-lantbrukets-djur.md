@@ -2,7 +2,6 @@
 
 Regeringen uppdrar åt Statens jordbruksverk (Jordbruksverket) och Statens veterinärmedicinska anstalt (SVA) att genomföra en förstudie om åtgärder för att effektivt förebygga och hantera förekomst av salmonella hos lantbrukets djur.
 
-
 . I uppdraget ingår att
 
 * analysera och bedöma befintligt kunskapsunderlag,
@@ -14,6 +13,6 @@ Regeringen uppdrar åt Statens jordbruksverk (Jordbruksverket) och Statens veter
 
 Samråd ska ske med Livsmedelsverket och Folkhälsomyndigheten och synpunkter ska inhämtas från berörda organisationer inom djurhälsan. Synpunkter ska vid behov även inhämtas från andra berörda myndigheter och intresseorganisationer.
 
-Jordbruksverket får för uppdragets genomförande använda 2,5 miljoner kronor under 2021\. SVA får för uppdragets genomförande använda 1 miljon kronor under år 2021\. Utgifterna för uppdraget ska belasta det under utgiftsområde 23 Areella näringar, landsbygd och livsmedel, upptagna anslaget 1:15 Konkurrenskraftig livsmedelssektor, för Jordbruksverket anslagspost 1 och för SVA anslagspost 9\.
+Jordbruksverket får för uppdragets genomförande använda 2,5 miljoner kronor under 2021. SVA får för uppdragets genomförande använda 1 miljon kronor under år 2021. Utgifterna för uppdraget ska belasta det under utgiftsområde 23 Areella näringar, landsbygd och livsmedel, upptagna anslaget 1:15 Konkurrenskraftig livsmedelssektor, för Jordbruksverket anslagspost 1 och för SVA anslagspost 9.
 
-Uppdraget ska redovisas till regeringen (Näringsdepartementet) senast den 31 januari 2022\.
+Uppdraget ska redovisas till regeringen (Näringsdepartementet) senast den 31 januari 2022.

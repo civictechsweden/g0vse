@@ -11,4 +11,4 @@ Utredaren ska bl.a.
 * föreslå hur det kan införas tydligare krav på kunskaper i svenska språket för personalen i förskolan, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 18 december 2025\.
+Uppdraget ska redovisas senast den 18 december 2025.

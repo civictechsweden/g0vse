@@ -1,5 +1,41 @@
 [
     {
+        "title": "Israel - avrådan",
+        "url": "/ud-avrader/israel---avradan/",
+        "published": "2025-06-14",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av det försämrade säkerhetsläget har Utrikesdepartementet den 14 juni 2025 beslutat om att skärpa avrådan för Israel. Följande avrådan gäller. \n\nUtrikesdepartementet avråder från alla resor till Israel. \n\nAvrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1084"
+        ]
+    },
+    {
+        "title": "Palestina - avrådan",
+        "url": "/ud-avrader/palestina---avradan/",
+        "published": "2025-06-14",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av det försämrade säkerhetsläget har Utrikesdepartementet den 14 juni 2025 beslutat om att skärpa avrådan för Palestina. Följande avrådan gäller: \n\nUtrikesdepartementet avråder från alla resor till Palestina.\n\nAvrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1147"
+        ]
+    },
+    {
         "title": "Demokratiska republiken Kongo - avrådan",
         "url": "/ud-avrader/demokratiska-republiken-kongo/",
         "published": "2025-06-03",
@@ -14,8 +50,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1048",
-            "1295"
+            "1048"
         ]
     },
     {
@@ -33,8 +68,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1198",
-            "1295"
+            "1198"
         ]
     },
     {
@@ -52,8 +86,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1145",
-            "1295"
+            "1145"
         ]
     },
     {
@@ -71,8 +104,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1078",
-            "1295"
+            "1078"
         ]
     },
     {
@@ -90,8 +122,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1133",
-            "1295"
+            "1133"
         ]
     },
     {
@@ -109,8 +140,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1059",
-            "1295"
+            "1059"
         ]
     },
     {
@@ -128,8 +158,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "2195",
-            "1295"
+            "2195"
         ]
     },
     {
@@ -147,27 +176,25 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1182",
-            "1295"
+            "1182"
         ]
     },
     {
-        "title": "Palestina - avrådan",
-        "url": "/ud-avrader/palestina---avradan/",
+        "title": "Libanon – avrådan",
+        "url": "/ud-avrader/libanon--andrad-avradan/",
         "published": "2025-02-07",
         "updated": null,
         "types": [],
         "senders": [
             "1295"
         ],
-        "summary": "Med anledning av det förbättrade säkerhetsläget har Utrikesdepartementet den 7 februari 2025 beslutat att ändra avrådan för Palestina. \n\nUtrikesdepartementet avråder från alla resor till provinserna Jenin, Tulkarm, Tubas och Qalqilia, samt de delar av provinsen Nablus som ligger norr om Nablus stad. \n\nUD avråder från alla resor till Gaza. \n\nUD avråder från icke-nödvändiga resor till övriga Palestina.\n\nAvrådan gäller tills vidare.",
+        "summary": "Med anledning av det förbättrade säkerhetsläget har Utrikesdepartementet den 7 februari 2025 beslutat att ändra avrådan för Libanon. \n \nUtrikesdepartementet avråder från icke nödvändiga resor till distrikten Batroun, Jbail, Kesroun, El Metn och centrala Beirut (norr of Saeb Slam Avenue och Abdallah El Yafi Avenue) samt flygplatsen och motorväg 51mellan flygplatsen och centrala Beirut. \n \nUtrikesdepartementet avråder från alla resor till övriga Libanon. \n \nAvrådan gäller tills vidare.",
         "id": null,
         "shortcuts": [],
         "attachments": [],
         "categories": [
             "2204",
-            "1147",
-            "1295"
+            "1109"
         ]
     },
     {
@@ -185,8 +212,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1156",
-            "1295"
+            "1156"
         ]
     },
     {
@@ -204,27 +230,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1028",
-            "1295"
-        ]
-    },
-    {
-        "title": "Israel - avrådan",
-        "url": "/ud-avrader/israel---avradan/",
-        "published": "2024-08-01",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av det försämrade säkerhetsläget har Utrikesdepartementet den 1 augusti 2024 beslutat om att skärpa avrådan för Israel. Följande avrådan gäller: \n \nUtrikesdepartementet avråder från alla resor till Israel. \n \nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1084",
-            "1295"
+            "1028"
         ]
     },
     {
@@ -242,8 +248,7 @@
         "attachments": [],
         "categories": [
             "1017",
-            "2204",
-            "1295"
+            "2204"
         ]
     },
     {
@@ -261,8 +266,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1044",
-            "1295"
+            "1044"
         ]
     },
     {
@@ -280,27 +284,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1052",
-            "1295"
-        ]
-    },
-    {
-        "title": "Libanon – avrådan",
-        "url": "/ud-avrader/libanon--andrad-avradan/",
-        "published": "2023-10-19",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Till följd av ytterligare försämrat säkerhetsläge uppmanar Utrikesdepartementet från och med den 19 oktober 2023 svenskar som befinner sig i Libanon att lämna landet. Följande avrådan gäller.\n\nUtrikesdepartementet avråder från alla resor till Libanon och uppmanar svenskar som befinner sig i Libanon att lämna landet.\n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1109",
-            "1295"
+            "1052"
         ]
     },
     {
@@ -312,14 +296,13 @@
         "senders": [
             "1295"
         ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet tills vidare från alla resor till nordvästra provinserna Cibitoke och Buranza samt de norra kommunerna i Bujumbura Rural provinsen: Mutimbuzi, Mumbimba och Isale. \n\nVidare avråder UD från alla icke-nödvändiga resor till övriga delar av Burundi.\n\nAvrådan gäller tills vidare.",
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till nordvästra provinserna Cibitoke och Buranza samt de norra kommunerna i Bujumbura Rural provinsen: Mutimbuzi, Mubimbi och Isale.\n\nVidare avråder UD från icke nödvändiga resor till övriga delar av Burundi.\n\nAvrådan gäller tills vidare.\n\nBeslut om avrådan togs den 20 september 2023.",
         "id": null,
         "shortcuts": [],
         "attachments": [],
         "categories": [
             "2204",
-            "1041",
-            "1295"
+            "1041"
         ]
     },
     {
@@ -337,8 +320,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1140",
-            "1295"
+            "1140"
         ]
     },
     {
@@ -356,8 +338,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1134",
-            "1295"
+            "1134"
         ]
     },
     {
@@ -375,8 +356,7 @@
         "attachments": [],
         "categories": [
             "1022",
-            "2204",
-            "1295"
+            "2204"
         ]
     },
     {
@@ -394,8 +374,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1141",
-            "1295"
+            "1141"
         ]
     },
     {
@@ -413,8 +392,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1178",
-            "1295"
+            "1178"
         ]
     },
     {
@@ -432,8 +410,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1192",
-            "1295"
+            "1192"
         ]
     },
     {
@@ -451,8 +428,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1111",
-            "1295"
+            "1111"
         ]
     },
     {
@@ -470,8 +446,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1053",
-            "1295"
+            "1053"
         ]
     },
     {
@@ -489,8 +464,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1032",
-            "1295"
+            "1032"
         ]
     },
     {
@@ -508,8 +482,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1189",
-            "1295"
+            "1189"
         ]
     },
     {
@@ -527,8 +500,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1040",
-            "1295"
+            "1040"
         ]
     },
     {
@@ -542,12 +514,16 @@
         ],
         "summary": "Med anledning av säkerhetsläget avråder UD från icke nödvändiga resor till regionen Transnistrien.\n \nAvrådan gäller tills vidare.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Reseinformation från ambassaden i Moldavien\n             - extern webbplats,\n",
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/moldavien/reseinformation/ambassadens-reseinformation/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2204",
-            "1129",
-            "1295"
+            "1129"
         ]
     },
     {
@@ -565,8 +541,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1081",
-            "1295"
+            "1081"
         ]
     },
     {
@@ -584,8 +559,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1193",
-            "1295"
+            "1193"
         ]
     },
     {
@@ -603,8 +577,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1157",
-            "1295"
+            "1157"
         ]
     },
     {
@@ -622,8 +595,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1206",
-            "1295"
+            "1206"
         ]
     },
     {
@@ -641,8 +613,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1056",
-            "1295"
+            "1056"
         ]
     },
     {
@@ -660,8 +631,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1185",
-            "1295"
+            "1185"
         ]
     },
     {
@@ -679,8 +649,7 @@
         "attachments": [],
         "categories": [
             "1015",
-            "2204",
-            "1295"
+            "2204"
         ]
     },
     {
@@ -698,8 +667,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1075",
-            "1295"
+            "1075"
         ]
     },
     {
@@ -717,8 +685,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1186",
-            "1295"
+            "1186"
         ]
     },
     {
@@ -736,8 +703,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1025",
-            "1295"
+            "1025"
         ]
     },
     {
@@ -755,8 +721,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1165",
-            "1295"
+            "1165"
         ]
     },
     {
@@ -774,8 +739,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1095",
-            "1295"
+            "1095"
         ]
     },
     {
@@ -793,8 +757,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1080",
-            "1295"
+            "1080"
         ]
     },
     {
@@ -812,8 +775,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1089",
-            "1295"
+            "1089"
         ]
     },
     {
@@ -825,14 +787,13 @@
         "senders": [
             "1295"
         ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till Somalia, med undantag från staden Hargeysa i Somaliland, där Utrikesdepartementet avråder från icke nödvändiga resor. UD uppmanar svenskar som befinner sig i områden där UD avråder från alla resor att lämna landet. Avrådan gäller tills vidare.",
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från icke nödvändiga resor till staden Hargeysa i Somaliland. \n\nMed anledning av säkerhetsläget avråder UD även från alla resor till övriga delar av Somalia och uppmanar svenskar som befinner sig i dessa områden att lämna landet.\n\nAvrådan gäller tills vidare.",
         "id": null,
         "shortcuts": [],
         "attachments": [],
         "categories": [
             "2204",
-            "1174",
-            "1295"
+            "1174"
         ]
     },
     {
@@ -849,8 +810,7 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2204",
-            "1295"
+            "2204"
         ]
     },
     {
@@ -868,8 +828,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1061",
-            "1295"
+            "1061"
         ]
     },
     {
@@ -887,8 +846,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1067",
-            "1295"
+            "1067"
         ]
     },
     {
@@ -906,8 +864,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1100",
-            "1295"
+            "1100"
         ]
     },
     {
@@ -925,7 +882,6 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1295",
             "1204"
         ]
     },
@@ -943,8 +899,7 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2204",
-            "1295"
+            "2204"
         ]
     },
     {
@@ -962,8 +917,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1057",
-            "1295"
+            "1057"
         ]
     },
     {
@@ -981,8 +935,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1119",
-            "1295"
+            "1119"
         ]
     },
     {
@@ -1000,8 +953,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1121",
-            "1295"
+            "1121"
         ]
     },
     {
@@ -1019,8 +971,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1187",
-            "1295"
+            "1187"
         ]
     },
     {
@@ -1038,8 +989,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1042",
-            "1295"
+            "1042"
         ]
     },
     {
@@ -1057,8 +1007,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1088",
-            "1295"
+            "1088"
         ]
     },
     {
@@ -1076,8 +1025,7 @@
         "attachments": [],
         "categories": [
             "2204",
-            "1125",
-            "1295"
+            "1125"
         ]
     }
 ]

@@ -6,4 +6,4 @@ Det föreslås tydligare och utökade krav på den pedagogiska omsorgen. Verksam
 
 Det föreslås också att en kommun efter ansökan ska pröva om en enskild ska godkännas som huvudman för en pedagogisk omsorg som ska bedrivas i kommunen. För godkännande ska det krävas att den enskilde har insikt i och förutsättningar att följa de föreskrifter som gäller för verksamheten och i övrigt bedöms som lämplig. I fråga om juridiska personer ska det prövas att ledning och ägare uppfyller kraven. Om verksamheten ska bedrivas där någon är folkbokförd ska han eller hon visa upp ett utdrag ur belastningsregistret. Efter ett godkännande ska det utövas tillsyn över att kraven fortlöpande är uppfyllda. Godkännandet ska kunna återkallas utan föregående föreläggande om kraven inte längre är uppfyllda.
 
-I lagrådsremissen lämnas förslag till de lagändringar som behövs. Lagändringarna föreslås träda i kraft den 1 januari 2023\.
+I lagrådsremissen lämnas förslag till de lagändringar som behövs. Lagändringarna föreslås träda i kraft den 1 januari 2023.
