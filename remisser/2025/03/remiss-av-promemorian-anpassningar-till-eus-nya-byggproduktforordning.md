@@ -1,3 +1,3 @@
-# Remiss av promemorian Anpassningar till EU:s nya byggproduktförordning
+# Remiss av promemorian Anpassningar till EU:s nya byggproduktförordningDiarienummer: LI2025/00387
 
 Här kan du ta del av remissvar som har kommit till Landsbygd- och infrastrukturdepartementet på promemorian anpassningar till EU:s nya byggproduktförordning. Övriga yttranden finns tillgängliga i departementet.

@@ -1,4 +1,4 @@
-# Remiss av promemorian En mer ändamålsenlig prövning av kärntekniska anläggningar
+# Remiss av promemorian En mer ändamålsenlig prövning av kärntekniska anläggningarDiarienummer: KN2024/01912
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian En mer ändamålsenlig prövning av kärntekniska anläggningar.
 
