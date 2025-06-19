@@ -1,4 +1,4 @@
-# Remiss av promemorian En samlad myndighetsfunktion för ökad effektivitet och minskad sårbarhet i statens arbete med statsstöd
+# Remiss av promemorian En samlad myndighetsfunktion för ökad effektivitet och minskad sårbarhet i statens arbete med statsstödDiarienummer: KN2025/00943
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian En samlad myndighetsfunktion för ökad effektivitet och minskad sårbarhet i statens arbete med statsstöd.
 

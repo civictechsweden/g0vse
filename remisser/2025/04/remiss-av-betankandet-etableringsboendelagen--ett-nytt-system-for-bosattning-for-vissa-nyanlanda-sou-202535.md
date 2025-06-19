@@ -1,4 +1,4 @@
-# Remiss av betänkandet Etableringsboendelagen – Ett nytt system för bosättning för vissa nyanlända (SOU 2025:35)
+# Remiss av betänkandet Etableringsboendelagen – Ett nytt system för bosättning för vissa nyanlända (SOU 2025:35)Diarienummer: A2025/00455
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat betänkandet Etableringsboendelagen – Ett nytt system för bosättning för vissa nyanlända (SOU 2025:35).
 

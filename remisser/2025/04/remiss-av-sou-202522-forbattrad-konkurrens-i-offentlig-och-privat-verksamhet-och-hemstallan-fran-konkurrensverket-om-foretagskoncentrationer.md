@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:22 Förbättrad konkurrens i offentlig och privat verksamhet och hemställan från Konkurrensverket om företagskoncentrationer
+# Remiss av SOU 2025:22 Förbättrad konkurrens i offentlig och privat verksamhet och hemställan från Konkurrensverket om företagskoncentrationerDiarienummer: KN2025/00748, KN2025/00567
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat SOU 2025:22 Förbättrad konkurrens i offentlig och privat verksamhet och hemställan från Konkurrensverket om företagskoncentrationer.
 

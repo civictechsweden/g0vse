@@ -1,4 +1,4 @@
-# Remiss av promemorian En ändamålsenlig hantering av tillstånd och tillsyn av explosiva varor – slutredovisning (Ds 2025:10)
+# Remiss av promemorian En ändamålsenlig hantering av tillstånd och tillsyn av explosiva varor – slutredovisning (Ds 2025:10)Diarienummer: Fö2025/00256
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian En ändamålsenlig hantering av tillstånd och tillsyn av explosiva varor – slutredovisning (Ds 2025:10).
 

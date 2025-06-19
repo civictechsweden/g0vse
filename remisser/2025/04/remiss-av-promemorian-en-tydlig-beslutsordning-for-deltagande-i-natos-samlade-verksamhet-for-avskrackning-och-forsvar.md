@@ -1,4 +1,4 @@
-# Remiss Ds 2025:11 En tydlig beslutsordning för deltagande i Natos samlade verksamhet för avskräckning och försvar
+# Remiss Ds 2025:11 En tydlig beslutsordning för deltagande i Natos samlade verksamhet för avskräckning och försvarDiarienummer: Fö2025/00731
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Ds 2025:11 En tydlig beslutsordning för deltagande i Natos samlade verksamhet för avskräckning och försvar.
 

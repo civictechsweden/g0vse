@@ -1,4 +1,4 @@
-# Remiss av slutbetänkandet Arbetslivskriminalitet – upplägg, verktyg och åtgärder, fortsatt arbete (SOU 2025:25)
+# Remiss av slutbetänkandet Arbetslivskriminalitet – upplägg, verktyg och åtgärder, fortsatt arbete (SOU 2025:25)Diarienummer: A2025/00273
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat slutbetänkandet Arbetslivskriminalitet – upplägg, verktyg och åtgärder, fortsatt arbete (SOU 2025:25).
 
