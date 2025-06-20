@@ -1,0 +1,5 @@
+# Uppdrag till Ekonomistyrningsverket och Statskontoret att inrätta en statsbidragsportalDiarienummer: Fi2025/01420
+
+Regeringen ger Ekonomistyrningsverket och Statskontoret i uppdrag att inrätta en statsbidragsportal för information om riktade statsbidrag till kommuner och regioner. Ekonomistyrningsverket ska utveckla den tekniska plattformen för portalen och Statskontoret ska utifrån sin befintliga kunskap om riktade statsbidrag svara för vilken information som ska vara tillgänglig i portalen. Myndigheterna ska när uppdraget utförs, i den utsträckning som behövs, inhämta synpunkter från andra berörda statliga myndigheter och Sveriges Kommuner och Regioner.
+
+Myndigheterna ska senast den 30 december 2025 gemensamt muntligen rapportera till Regeringskansliet (Finansdepartementet) hur arbetet fortskrider och ge en beskrivning av portalens utformning. Statsbidragsportalen ska inrättas senast den 31 mars 2026. Senast den 31 maj 2026 ska en skriftlig redovisning av uppdraget lämnas till Regeringskansliet (Finansdepartementet).

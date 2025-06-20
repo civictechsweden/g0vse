@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:5 Avgift för områdessamverkan – och andra åtgärder för trygghet i byggd miljö
+# Remiss av SOU 2025:5 Avgift för områdessamverkan – och andra åtgärder för trygghet i byggd miljöDiarienummer: LI2025/00306
 
 Här kan du ta del av de remissvar som har kommit till Landsbygds- och infrastrukturdepartementet på Avgift för områdessamverkan – och andra åtgärder för trygghet i byggd miljö. Övriga yttranden finns tillgängliga i departementet.
 
