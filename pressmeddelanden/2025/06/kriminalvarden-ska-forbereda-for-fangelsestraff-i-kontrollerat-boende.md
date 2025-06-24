@@ -1,0 +1,11 @@
+# Kriminalvården ska förbereda för fängelsestraff i kontrollerat boende
+
+Regeringen har nyligen beslutat om en lagrådsremiss med förslag som innebär att fler fängelsestraff ska kunna verkställas med elektronisk övervakning, det vill säga fotboja. Förslagen väntas leda till minskat återfall i brott, lägre kostnader för samhället och att platser i Kriminalvården frigörs och kan användas för de personer som utgör en fara för samhället och för medborgarna.
+
+I lagrådsremissen föreslås bland annat att det ska vara möjligt att verkställa fängelsestraff med elektronisk övervakning där den dömde är placerad i ett kontrollerat boende som drivs av Kriminalvården. Detta som ett komplement till verkställighet i anstalt eller med elektronisk övervakning i hemmet.
+
+– Regeringens omläggning av kriminalpolitiken innebär att fler kommer sitta i fängelse under längre tid. Det är viktigt för att skydda samhället från farliga kriminella. Samtidigt kan personer som inte bedöms farliga för samhället och med låg återfallsrisk ges bättre förutsättningar för en återgång till ett liv utan kriminalitet genom att avtjäna straff med fotboja. På så sätt stärker vi det återfallsförebyggande arbetet, samtidigt som vi frigör anstaltsplatser för de personer som utgör en fara för samhället och medborgarna. Vi har tidigare föreslagit att det ska vara möjligt att verkställa fängelsestraff med fotboja i kontrollerade boenden, och för att inte tappa viktig tid ger vi Kriminalvården i uppdrag att redan nu förbereda sig för denna förändring, säger justitieminister Gunnar Strömmer.
+
+Kriminalvården behöver vidta nödvändiga förberedelser för att anpassa sin verksamhet till den nya verkställighetsformen, bland annat genom att säkerställa tillgång till ändamålsenliga lokaler, rekrytera personal och se till att de dömda kan erbjudas sysselsättning under verkställigheten. För att den nya verkställighetsformen ska fungera effektivt och säkert behöver Kriminalvården ta fram riktlinjer och vidta åtgärder för trygga och välfungerande kontrollerade boenden.
+
+Myndigheten ska löpande informera Justitiedepartementet om arbetets fortskridande och slutredovisa uppdraget senast den 30 april 2026. Den nya verkställighetsformen ska, under förutsättning att riksdagen godkänner regeringens kommande proposition, kunna börja tillämpas den 1 juni 2026.
