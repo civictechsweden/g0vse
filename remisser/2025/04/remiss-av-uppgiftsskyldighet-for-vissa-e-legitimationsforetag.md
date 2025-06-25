@@ -1,4 +1,4 @@
-# Remiss av Uppgiftsskyldighet för vissa e-legitimationsföretag
+# Remiss av Uppgiftsskyldighet för vissa e-legitimationsföretagDiarienummer: Fi2025/00837
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen Uppgiftsskyldighet för vissa e-legitimationsföretag. Övriga yttranden finns tillgängliga i departementet.
 
