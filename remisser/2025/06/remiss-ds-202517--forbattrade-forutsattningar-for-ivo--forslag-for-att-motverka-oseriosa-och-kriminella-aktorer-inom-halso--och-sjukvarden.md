@@ -1,4 +1,4 @@
-# Remiss Ds 2025:17  Förbättrade förutsättningar för IVO – förslag för att motverka oseriösa och kriminella aktörer inom hälso- och sjukvårdenDiarienummer: S2025/01157
+# Remiss av Ds 2025:17 Förbättrade förutsättningar för IVO – förslag för att motverka oseriösa och kriminella aktörer inom hälso- och sjukvårdenDiarienummer: S2025/01157
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Ds 2025:17 Förbättrade förutsättningar för IVO – förslag för att motverka oseriösa och kriminella aktörer inom hälso- och sjukvården.
 
