@@ -4,4 +4,5 @@
 
 Kustbevakningen ska dels skyndsamt öka skyddet på sina fartyg utifrån nuvarande praktiska förutsättningar, dels analysera behovet av ytterligare förstärkningar på medellång och lång sikt för att bemöta hot från till exempel drönare och andra obemannade farkoster. Det kan både handla om teknisk utrustning och olika sorters förstärkningsvapen.
 
-Regeringen fattade beslut om uppdraget den 26 juni. Åtgärderna på kort sikt ska redovisas i april 2026, och hela uppdraget ska redovisas i februari 2026. I genomförandet av uppdraget ska Kustbevakningen inhämta synpunkter från Försvarets materielverk, Försvarsmakten, Polismyndigheten, Post- och telestyrelsen, Säkerhetspolisen och Tullverket.
+Regeringen fattade beslut om uppdraget den 26 juni. Uppdraget ska slutredovisas till Regeringskansliet (Försvarsdepartementet) senast den
+30 april 2026. I genomförandet av uppdraget ska Kustbevakningen inhämta synpunkter från Försvarets materielverk, Försvarsmakten, Polismyndigheten, Post- och telestyrelsen, Säkerhetspolisen och Tullverket.

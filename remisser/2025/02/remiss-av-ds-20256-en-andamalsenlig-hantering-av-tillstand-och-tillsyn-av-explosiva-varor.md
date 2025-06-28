@@ -1,4 +1,4 @@
-# Remiss av Ds 2025:6 En ändamålsenlig hantering av tillstånd och tillsyn av explosiva varor
+# Remiss av Ds 2025:6 En ändamålsenlig hantering av tillstånd och tillsyn av explosiva varorDiarienummer: Fö2025/00256
 
 Här kan du ta del av de remissvar som kommit in till Försvarsdepartement på Ds 2025:6 En ändamålsenlig hantering av tillstånd och tillsyn av explosiva varor.
 

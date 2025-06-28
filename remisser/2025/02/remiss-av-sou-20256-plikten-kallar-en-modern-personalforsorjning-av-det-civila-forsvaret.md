@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:6 Plikten kallar! En modern personalförsörjning av det civila försvaret
+# Remiss av SOU 2025:6 Plikten kallar! En modern personalförsörjning av det civila försvaretDiarienummer: Fö2025/00151
 
 Här kan du ta del av de remissvar som kommit in till Försvarsdepartementet på SOU 2025:6 Plikten kallar! En modern personalförsörjning av det civila försvaret.
 
