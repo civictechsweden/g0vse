@@ -2,13 +2,13 @@
     {
         "title": "Israel - avrådan",
         "url": "/ud-avrader/israel---avradan/",
-        "published": "2025-06-14",
+        "published": "2025-07-02",
         "updated": null,
         "types": [],
         "senders": [
             "1295"
         ],
-        "summary": "Med anledning av det försämrade säkerhetsläget har Utrikesdepartementet den 14 juni 2025 beslutat om att skärpa avrådan för Israel. Följande avrådan gäller. \n\nUtrikesdepartementet avråder från alla resor till Israel. \n\nAvrådan gäller tills vidare.",
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till gränsområdena mot Gazaremsan och Libanon inom ett avstånd av tio kilometer från respektive gräns. Utrikesdepartementet avråder även från alla resor till Golanhöjderna.\n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till övriga Israel.\n\nBeslut om ändrad avrådan togs den 2 juli 2025. Avrådan gäller tills vidare.",
         "id": null,
         "shortcuts": [],
         "attachments": [],
@@ -21,18 +21,36 @@
         "title": "Palestina - avrådan",
         "url": "/ud-avrader/palestina---avradan/",
         "published": "2025-06-14",
-        "updated": null,
+        "updated": "2025-07-02",
         "types": [],
         "senders": [
             "1295"
         ],
-        "summary": "Med anledning av det försämrade säkerhetsläget har Utrikesdepartementet den 14 juni 2025 beslutat om att skärpa avrådan för Palestina. Följande avrådan gäller: \n\nUtrikesdepartementet avråder från alla resor till Palestina.\n\nAvrådan gäller tills vidare.",
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till Gaza och på Västbanken provinserna Jenin, Tulkarm, Tubas och Qalqilia samt till de delar av provinsen Nablus som ligger norr om Nablus stad.\n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till övriga Palestina.\n\nBeslut om ändrad avrådan togs den 2 juli 2025. Avrådan gäller tills vidare.",
         "id": null,
         "shortcuts": [],
         "attachments": [],
         "categories": [
             "2204",
             "1147"
+        ]
+    },
+    {
+        "title": "Irak - avrådan",
+        "url": "/ud-avrader/irak---avradan/",
+        "published": "2025-07-02",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till Irak förutom till provinserna Dahuk, Arbil och Sulaymaniyah i den kurdiska regionen i Irak. För dessa regioner avråder UD från icke nödvändiga resor.\n\nBeslut om ändrad avrådan togs den 2 juli 2025. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1080"
         ]
     },
     {
@@ -740,24 +758,6 @@
         "categories": [
             "2204",
             "1095"
-        ]
-    },
-    {
-        "title": "Irak - avrådan",
-        "url": "/ud-avrader/irak---avradan/",
-        "published": "2020-01-07",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av förändringar i säkerhetsläget har UD den 7 januari 2020 beslutat om att ändra avrådan för Irak. Följande avrådan gäller: \n\nMed anledning av säkerhetsläget avråder UD från alla resor till Irak förutom till provinserna Dahuk, Arbil och Sulaymaniyah i den kurdiska regionen i Irak. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1080"
         ]
     },
     {

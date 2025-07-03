@@ -1,0 +1,11 @@
+# Sverige ger 8,2 miljarder kronor till världens fattigaste länder
+
+IDA:s arbete för att utrota fattigdom sker i en tid av stagnerande social och ekonomisk utveckling i många av världens låginkomstländer. Länderna har under de senaste åren drabbats av växande skuldnivåer, stegrande klimatrisker och begränsad tillgång till finansiering.
+
+– Vi lever just nu i en tid som präglas av ökad ekonomisk och geopolitisk osäkerhet vilket drabbar inte minst världens låginkomstländer. Sverige bidrar därför till en rekordstor påfyllnad av fonden med totalt 8,2 miljarder kronor. Det är en viktig investering i framtiden, för världens låginkomstländer, och för Sverige. Varje svensk biståndskrona till IDA ger tre till fyra kronor i Världsbankens utlåning för att stödja goda ekonomiska reformer och bättre förutsättningar för företag att investera, handla, växa och anställa i världens fattigaste länder, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
+
+Genom IDA:s innovativa finansieringsmodell möjliggör varje investerad biståndskrona tre och en halv till fyra kronor i lån och bidrag till mottagarländerna. Arbetsprogrammet för kommande tre år innebär finansiering om 100 miljarder US-dollar till 1,9 miljarder människor i 78 av världens fattigaste länder. IDA:s fokus är områden som sysselsättning, privata investeringar, stöd till flyktingar och värdsamhällen samt klimat. Detta är områden som också regeringen prioriterar högt. Minst 45 procent av finansieringen ska gå till klimatåtgärder.
+
+Med bidraget om totalt 8,2 miljarder kronor fortsätter Sverige vara en av de mest generösa givarna till IDA och näst störst i förhållande till ekonomins storlek. IDA är i dag mottagare av regeringens enskilt största kärnstöd inom biståndet. Världsbanken är en viktig samarbetspartner för Sverige. Finansminister Elisabeth Svantesson är under 2024–2026 ordförande för Världsbankens och IMF:s utvecklingskommitté, som är institutionernas högsta rådgivande organ i utvecklingsfrågor.
+
+– Den stora påfyllnaden av IDA visar på givarnas förtroende för Världsbanken som effektiv och pålitlig samarbetspartner. Jag är särskilt glad över institutionens fokus på jobbskapande och tillväxtfrämjande reformer i denna tid av global ekonomisk osäkerhet och låg tillväxt, säger finansminister Elisabeth Svantesson.
