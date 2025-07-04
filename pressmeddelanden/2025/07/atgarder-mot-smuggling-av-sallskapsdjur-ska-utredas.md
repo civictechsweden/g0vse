@@ -1,0 +1,5 @@
+# Åtgärder mot smuggling av sällskapsdjur ska utredas
+
+– Smuggling och illegal handel med djur innebär ofta att djur föds upp och transporteras under mycket dåliga förhållanden. Djuren utsätts därmed för allvarligt lidande och det finns även en risk att djuren drabbas av eller bär på smittor. Smuggling av sällskapsdjur är dessutom inte sällan kopplad till annan kriminalitet. Med det här uppdraget vill vi undersöka och hitta åtgärder för att motverka detta, säger landsbygdsminister Peter Kullgren.
+
+Utredaren ska analysera behovet av och förutsättningarna för att införa en skyldighet för veterinärer att anmäla misstanke om illegal införsel av djur. I uppdraget ingår också att analysera behovet av författningsändringar som säkerställer att Tullverket har de befogenheter som krävs för en effektiv kontroll av införsel av djur från andra EU-länder. Slutligen ska utredaren överväga om det finns andra åtgärder som kan förbättra möjligheterna för berörda myndigheter att hindra organiserad smuggling av sällskapsdjur.
