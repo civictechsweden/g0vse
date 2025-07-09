@@ -1,0 +1,5 @@
+# Nytt svenskt stöd stärker Ukrainas IT-kompetens
+
+– För att Ukrainas ekonomi och samhälle ska kunna återhämta sig behövs kvalificerad arbetskraft med digital kompetens. Sverige stödjer Ukrainas IT-utveckling på flera sätt och väljer nu att bidra med 10 miljoner kronor i nytt stöd till Beetroot Academy som ska gå till att utbilda minst 2 000 yrkesverksamma inom IT-kompetens. Genom stödet investerar vi i utbildning inom AI, dataanalys och andra framtidsinriktade områden – en satsning som stärker både arbetsmarknaden och den offentliga förvaltningen. Detta är ett viktigt bidrag till Ukrainas motståndskraft, uppbyggnad och EU-närmande, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
+
+Genom det nya stödet till Beetroot Academy kommer minst 2 000 yrkesverksamma inom Ukrainas statsförvaltning, civilsamhälle och IT-sektor ta del av utbildningar som syftar till att stärka deltagarnas kapacitet inom bland annat dataanalys, maskininlärning och AI-verktygsintegration. Projektet genomförs på plats i Ukraina 2025–2027.
