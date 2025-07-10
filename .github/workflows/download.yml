@@ -19,6 +19,8 @@ jobs:
       - run: pip install .
       - name: Install browser
         run: python -m camoufox fetch
+      - name: Check browser location
+        run: python -m camoufox path
       - name: Fetch the data
         run: python fetch.py
       - name: Commit and Push
