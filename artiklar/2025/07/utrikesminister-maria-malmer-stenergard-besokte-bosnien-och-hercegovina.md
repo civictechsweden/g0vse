@@ -1,0 +1,9 @@
+# Utrikesminister Maria Malmer Stenergard besökte Bosnien och Hercegovina
+
+Utrikesminister Maria Malmer Stenergard reste till Bosnien och Hercegovina den 10–11 juli för att delta i minneshögtiden på den internationella dagen för reflektion och minne av folkmordet i Srebrenica. I år är det 30 år sedan folkmordet inträffade, och även 30 år sedan Daytonavtalet slöts, vilket fick slut på kriget i Bosnien och Hercegovina.
+
+På den internationella årsdagen till minne av folkmordet 1995 i Srebrenica den 11 juli deltog utrikesministern i den minneshögtid som årligen arrangeras i Potočari, nära Srebrenica. I högtiden deltog förutom överlevare och anhöriga till offren i folkmordet även andra inbjudna stats- och regeringschefer, ministrar och ledare. Bland gästerna fanns bland andra Europeiska rådets ordförande António Costa, utvidgningskommissionär Marta Kos, FN:s biträdande generalsekreterare Rosemary DiCarlo, Sophie, hertiginnan av Edinburgh och Tysklands tidigare president Joachim Gauck.
+
+Utrikesministern lyfte särskilt vikten av ansvarsutkrävande, erkännande av offrens och de anhörigas lidande och stöd till de överlevande. Hon framhöll även att Sverige var medförslagsställare till den FN-resolution som förra året etablerade den 11 juli som internationell minnesdag för folkmordet i Srebrenica.
+
+Dagen innan minneshögtiden mötte utrikesministern även den bosniske utrikesministern Elmedin Konaković för att diskutera aktuella bilaterala och utrikespolitiska frågor samt landets EU-närmande. Utrikesministern deltog också bland annat i invigningen av Danmarks nyöppnade ambassad i Sarajevo och besökte museet Srebrenica Gallery 11/07/95 samt Srebrenica Genocide Memorial Exhibition – en fotoutställning om offren och staden med syfte att förmedla en känsla av vad som hände i samband med folkmordet.
