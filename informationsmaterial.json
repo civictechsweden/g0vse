@@ -1,5 +1,36 @@
 [
     {
+        "title": "Utrikeskorrespondenter verksamma i Sverige",
+        "url": "/informationsmaterial/2023/11/utrikeskorrespondenter-verksamma-i-sverige/",
+        "published": "2023-11-14",
+        "updated": "2025-07-16",
+        "types": [
+            "1339"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Utrikesdepartementets förteckning över utländska korrespondenter omfattar journalister, fast anställda och frilansjournalister, verksamma i Sverige och/eller med Sverige som bevakningsområde. Många av dem rapporterar även från de övriga nordiska länderna och i några fall även från de baltiska länderna.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "UD:s presstjänst",
+                "url": "/press/uds-presstjanst/"
+            },
+            {
+                "name": "UD:s internationella presscenter",
+                "url": "https://www.government.se/press-room/international-press-centre/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Utrikeskorrespondenter verksamma i Sverige (pdf 917 kB)",
+                "url": "/contentassets/d5653cbf62014b14a95b274140cb5908/utrikeskorrespondenter-verksamma-i-sverige.pdf"
+            }
+        ],
+        "categories": []
+    },
+    {
         "title": "Viktigare lagar och förordningar inför halvårsskiftet 2025",
         "url": "/informationsmaterial/2025/07/viktigare-lagar-och-forordningar-infor-halvarsskiftet-2025/",
         "published": "2025-07-01",
@@ -181,33 +212,6 @@
         "categories": [
             "2460"
         ]
-    },
-    {
-        "title": "Utrikeskorrespondenter verksamma i Sverige",
-        "url": "/informationsmaterial/2023/11/utrikeskorrespondenter-verksamma-i-sverige/",
-        "published": "2023-11-14",
-        "updated": "2025-04-29",
-        "types": [
-            "1339"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Utrikesdepartementets förteckning över utländska korrespondenter omfattar journalister, fast anställda och frilansjournalister, verksamma i Sverige och/eller med Sverige som bevakningsområde. Många av dem rapporterar även från de övriga nordiska länderna och i några fall även från de baltiska länderna.",
-        "id": null,
-        "shortcuts": [
-            {
-                "name": "UD:s presstjänst\n",
-                "url": "/press/uds-presstjanst/"
-            }
-        ],
-        "attachments": [
-            {
-                "name": "Utrikeskorrespondenter verksamma i Sverige (pdf 914 kB)",
-                "url": "/contentassets/d5653cbf62014b14a95b274140cb5908/utrikeskorrespondenter-verksamma-i-sverige.pdf"
-            }
-        ],
-        "categories": []
     },
     {
         "title": "Fördelningspolitisk redogörelse april 2025",
