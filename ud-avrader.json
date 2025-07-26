@@ -1,5 +1,41 @@
 [
     {
+        "title": "Kambodja - avrådan",
+        "url": "/ud-avrader/kambodja---avradan/",
+        "published": "2025-07-25",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av det försämrade säkerhetsläget i gränsområdet mellan Kambodja och Thailand har Utrikesdepartementet den 25 juli 2025 beslutat om avrådan för Kambodja. Följande avrådan gäller:\n\nMed anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor inom ett avstånd av 20 kilometer från gränsen till Thailand.\n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till övriga delar av provinserna Banteay Meanchey, Oddar Meanchey och Preah Vihear.\n\nAvrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1090"
+        ]
+    },
+    {
+        "title": "Thailand - avrådan",
+        "url": "/ud-avrader/thailand---avradan/",
+        "published": "2025-07-25",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av det försämrade säkerhetsläget i gränsområdet mellan Thailand och Kambodja har Utrikesdepartementet den 25 juli 2025 beslutat om att utöka avrådan för Thailand. Följande avrådan gäller: \n\nMed anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor inom ett avstånd av 20 kilometer från gränsen till Kambodja.\n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till övriga delar av provinserna Buriram, Surin, Sisaket och Ubon Ratchathiani.\n\nSedan tidigare avråder Utrikesdepartementet även från icke nödvändiga resor till provinserna Narathiwat, Yala, Pattani och Songkhla.\n\nAvrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1187"
+        ]
+    },
+    {
         "title": "Nigeria - avrådan",
         "url": "/ud-avrader/nigeria---avradan/",
         "published": "2015-02-10",
@@ -954,24 +990,6 @@
         "categories": [
             "2204",
             "1121"
-        ]
-    },
-    {
-        "title": "Thailand - avrådan",
-        "url": "/ud-avrader/thailand---avradan/",
-        "published": "2015-02-10",
-        "updated": "2015-02-20",
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget i södra Thailand avråder Utrikesdepartementet tills vidare från icke nödvändiga resor till de fyra provinserna Narathiwat, Yala, Pattani och Songkhla.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1187"
         ]
     },
     {
