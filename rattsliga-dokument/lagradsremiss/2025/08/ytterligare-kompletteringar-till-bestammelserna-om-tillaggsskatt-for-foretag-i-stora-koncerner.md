@@ -1,0 +1,7 @@
+# Ytterligare kompletteringar till bestämmelserna om tilläggsskatt för företag i stora koncerner
+
+Regeringen föreslår ytterligare kompletteringar till bestämmelserna om tilläggsskatt för företag i stora koncerner.
+
+Genom lagen (2023:875) om tilläggsskatt genomfördes direktivet om säkerställande av en global minimiskattenivå för multinationella koncerner och storskaliga nationella koncerner i unionen. Syftet med direktivet är att genomföra de modellregler om en global minimibeskattning som arbetats fram inom ramen för OECD/G20:s Inclusive Framework on Base Erosion and Profit Shifting (IF). Modellreglerna kompletteras av förklaringar och exempel i kommentaren till modellreglerna. Vidare har IF antagit administrativa riktlinjer med kompletteringar till kommentaren som syftar till att ytterligare klargöra tolkning och tillämpning av reglerna. Den 24 maj 2024 antogs ytterligare sådana administrativa riktlinjer som publicerades i juni 2024. I den utsträckning det är fråga om förtydliganden och exempel så omfattas riktlinjerna redan av de bestämmelser som finns i lagen om tilläggsskatt. Lagen behöver dock kompletteras med ytterligare eller ändrade bestämmelser.
+
+Lagändringarna föreslås träda i kraft den 1 januari 2026. Det införs dock en möjlighet för den rapporterande enheten att begära att samtliga eller vissa av bestämmelserna ska tillämpas första gången för beskattningsår som börjar närmast efter den 31 december 2023 eller, i fråga om svenska handelsbolag, räkenskapsår som börjar närmast efter den 31 december 2023.
