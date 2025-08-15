@@ -1,5 +1,8 @@
 __pycache__
 /.venv/
+build/
+*.egg-info
+
 data/
 
 /frontend/node_modules

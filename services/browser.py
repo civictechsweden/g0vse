@@ -10,7 +10,7 @@ class Browser:
         self.browser: Camoufox = Camoufox(geoip=True, headless=True).start()
         self.context = self.browser.new_context()
         self.page: Page = self.context.new_page()
-        self.context.set_default_navigation_timeout(10_000)
+        self.context.set_default_navigation_timeout(30_000)
         blocked = {"image", "stylesheet", "font", "media"}
         self.context.route(
             "**/*",
