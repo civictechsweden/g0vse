@@ -1,0 +1,7 @@
+# John Billow ny chef för Nationellt cybersäkerhetscenter
+
+NCSC har till uppgift att bland annat stärka Sveriges samlade förmåga att förebygga, upptäcka och hantera antagonistiska cyberhot och it-incidenter. Centret ska utgöra en nationell plattform för samverkan och informationsutbyte mellan både offentliga och privata aktörer på cybersäkerhetsområdet. Genom att centret styrs av en egen förordning och har en regeringsutsedd chef så skapas ett mått av autonomi för centret, inom ramen för FRA:s huvudmannaskap.
+
+– John Billow har rätt kompetens och bakgrund för att leda det förändringsarbete som svensk cybersäkerhet nu genomgår, i nära samarbete med både det offentliga och det privata. Jag har fullt förtroende för att det nationella cybersäkerhetscentret, under hans ledning, kommer att kunna ta plats som navet i det svenska cybersäkerhetslandskapet, säger minister för civilt försvar Carl-Oskar Bohlin.
+
+John Billow har en bred erfarenhet av att ha arbetat med cyber- och säkerhetsfrågor, både från Regeringskansliet och myndighetsvärlden men också internationellt. Han kommer närmast från en tjänst som chef för avdelningen för cybersäkerhet och certifiering på Försvarets materielverk (FMV). Tidigare har han bland annat arbetat med it-brott och cybersäkerhet på Interpol och varit ämnessakkunnig på Justitiedepartementet samt rättsråd och polisrådgivare vid Sveriges ständiga representation i FN.

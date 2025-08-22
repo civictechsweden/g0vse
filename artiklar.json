@@ -1,5 +1,49 @@
 [
     {
+        "title": "Regeringens stöd till barn som far illa",
+        "url": "/artiklar/2025/08/regeringens-stod-till-barn-som-far-illa/",
+        "published": "2025-08-21",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "2610",
+            "1292"
+        ],
+        "summary": "Sommaren är en tid för avkoppling för många, men det är också den tid då stödlinjen hos Bris (Barnens rätt i samhället) brukar få som flest samtal. Sommaren 2025 tog de emot 11 000 samtal från barn och unga som berättade om psykisk ohälsa, familjekonflikter och våld.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Barnets rättigheter",
+                "url": "/regeringens-politik/barnets-rattigheter/"
+            },
+            {
+                "name": "Barnombudsmannen- extern webbplats,",
+                "url": "https://www.barnombudsmannen.se/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1220",
+            "2684",
+            "2671"
+        ]
+    },
+    {
+        "title": "Åtgärder för att bekämpa arbetslösheten",
+        "url": "/artiklar/2025/03/atgarder-for-att-bekampa-arbetslosheten/",
+        "published": "2025-03-14",
+        "updated": "2025-08-21",
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "1284"
+        ],
+        "summary": "Stora satsningar görs på tillväxt och konkurrenskraft för att fler ska komma i arbete men svensk ekonomi är fortsatt i en utdragen lågkonjunktur. En orolig omvärld håller fortsatt tillbaka den svenska ekonomin och bidrar till en ökad arbetslöshet. För att möta arbetslösheten bedriver regeringen en arbetsmarknadspolitik som bygger på en stärkt arbetslinje och utbildningslinje samt effektivare arbetsmarknadsåtgärder."
+    },
+    {
         "title": "Utrikesminister Maria Malmer Stenergard deltog i nordiskt utrikesministermöte tillsammans med Kanada",
         "url": "/artiklar/2025/08/utrikesminister-maria-malmer-stenergard-deltog-i-nordiskt-utrikesministermote-tillsammans-med-kanada/",
         "published": "2025-08-19",
@@ -845,27 +889,6 @@
             "1219",
             "1242",
             "2539"
-        ]
-    },
-    {
-        "title": "Åtgärder för att bekämpa arbetslösheten",
-        "url": "/artiklar/2025/03/atgarder-for-att-bekampa-arbetslosheten/",
-        "published": "2025-03-14",
-        "updated": "2025-06-09",
-        "types": [
-            "2097"
-        ],
-        "senders": [
-            "2622",
-            "1284"
-        ],
-        "summary": "Stora satsningar görs på tillväxt och konkurrenskraft för att fler ska komma i arbete men svensk ekonomi är fortsatt i en utdragen lågkonjunktur. En orolig omvärld håller fortsatt tillbaka den svenska ekonomin och bidrar till en ökad arbetslöshet. För att möta arbetslösheten bedriver regeringen en arbetsmarknadspolitik som bygger på en stärkt arbetslinje och utbildningslinje samt effektivare arbetsmarknadsåtgärder.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "1213",
-            "2669"
         ]
     },
     {
