@@ -19,7 +19,7 @@ Regeringen tilldelar professorn Ingmar Skoog belöningsmedaljen i guld av åtton
 Regeringen tilldelar professor emeritus och överläkaren Peter Strang belöningsmedaljen i guld av åttonde storleken med inskriften Illis quorum meruere labores för hans framstående insatser och forskning inom palliativ medicin, där han särskilt lyft in de existentiella perspektivens betydelse för en god vård, samt för hans betydande insatser genom att brett tillgängliggöra kunskap om ensamhet och dess stora påverkan på människors hälsa.
 
 **Kerstin Lindberg Göransson**
-Regeringen tilldelar tidigare styrelseordföranden Kerstin Lindberg Göransson belöningsmedaljen i guld av åttonde storleken med inskriften Illis quorum meruere labores för hennes betydande och mångåriga insatser för svenska staten och för svenskt näringsliv.
+Regeringen tilldelar styrelseordföranden Kerstin Lindberg Göransson belöningsmedaljen i guld av åttonde storleken med inskriften Illis quorum meruere labores för hennes betydande och mångåriga insatser för svenska staten och för svenskt näringsliv.
 
 **Josef Fares**
 Regeringen tilldelar regissören och dataspelsutvecklaren Josef Fares belöningsmedaljen i guld av åttonde storleken med inskriften Illis quorum meruere labores för hans framstående insatser som filmregissör och dataspelsutvecklare.
