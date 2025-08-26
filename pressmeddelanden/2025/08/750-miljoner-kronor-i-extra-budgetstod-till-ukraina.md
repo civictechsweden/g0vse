@@ -1,0 +1,13 @@
+# 750 miljoner kronor i extra budgetstöd till Ukraina
+
+– Sverige fortsätter att öka stödet till Ukraina. Genom det nya avtalet blir Sverige första landet i EU som avser tillföra extra medel via Ukrainafaciliteten för att stärka Ukrainas statsbudget. Ekonomisk stabilitet är en förutsättning för att Ukraina ska kunna fortsätta betala ut löner och pensioner, och hålla i gång vård, skola och omsorg. Detta är helt avgörande för Ukrainas motståndskraft, för att fortsatt kunna försvara sig mot Rysslands aggression. Jag är mycket stolt över att Sverige som första land att göra detta nu banar väg för andra länder, både inom och utanför EU, att stödja Ukraina genom extra budgetstöd via EU:s Ukrainafacilitet säger bistånds- och utrikeshandelsminister Benjamin Dousa, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
+
+– Sverigedemokraterna har länge varit pådrivande i stödet för Ukraina och omläggningen av biståndet för ökad andel till Ukraina. Stödet till Ukraina är avgörande för Europas och Sveriges säkerhet. Med detta budgetstöd säkerställer vi att Sverige utstrålar trygghet och stabilitet i detta, säger Aron Emilsson, ordförande i Utrikesutskottet för Sverigedemokraterna.
+
+– Vi måste stödja Ukraina på alla sätt vi kan. En stor del av landets ekonomi slukas idag av krigsutgifter, men även skolor och sjukvård måste fungera. Genom regeringens extra bidrag till Ukrainafaciliteten kan vi hjälpa till att upprätthålla den ukrainska ekonomin, som är avgörande i deras kamp mot Ryssland. Detta bidrag är viktigt och välriktat, säger Gudrun Brunegård, biståndspolitisk talesperson för Kristdemokraterna.
+
+– Vi står orubbligt på Ukrainas sida. De måste vinna kriget och Ryssland förlora. Nu fortsätter vi öka stödet. Budgetstöd är avgörande för att Ukraina ska kunna stå emot den ryska aggressionen, samtidigt som landet tar viktiga steg mot EU-medlemskap. Ukrainas framtid är i Europa, säger Joar Forssell, utrikespolitisk talesperson för Liberalerna.
+
+Makroekonomisk stabilitet är avgörande för Ukrainas motståndskraft, och en av de största utmaningarna för landet inför nästa år. En stabil statsbudget är en förutsättning för att Ukraina ska kunna betala ut löner och pensioner, och att samhällskritiska funktioner som vård, skola och omsorg kan upprätthållas. Finansiering av Ukrainas budget för 2026 kräver kraftfulla stödåtgärder. Om Rysslands aggression fortsätter beräknas Ukraina behöva upp till 40 miljarder USD i externt stöd för att täcka finansieringsgapet.
+
+Det extra stödet finansieras inom biståndsbudgeten och går via Ukrainafacilitetens första pelare som avser budgetstöd. Budgetstödet kompletterar regeringens beslut i juni, aviserat i mars, om stöd till Ukrainafacilitetens tredje pelare på 1 miljard kronor för 2025.
