@@ -1,0 +1,7 @@
+# Förslag för att främja investeringsviljan för ökad tillväxt och naturvård i skogen
+
+– Nu har vi fått skarpa förslag på hur vi kan öka tillväxten i skogen och investeringsviljan i skogsnäringen. Skogsbruket är viktigt för Sverige – både för att säkra jobb och tillväxt i hela landet samt för att stärka klimatarbetet, säger landsbygdsminister Peter Kullgren.
+
+I februari 2024 tillsatte regeringen en skogsutredning. Syftet var att utveckla en ändamålsenlig skogspolitik som främjar ett långsiktigt hållbart konkurrenskraftigt skogsbruk, ökad skoglig tillväxt och en långsiktigt ökad tillgång till hållbar skoglig biomassa.
+
+Utredningen har nu lämnat sitt slutbetänkande. I betänkandet föreslås åtgärder för klimatanpassning och ökad skogstillväxt, bland annat förtydligade regelverk för gödsling och viltförvaltning. Ett produktionsmålssystem för skogsbruket motsvarande miljömålets miljömålssystem föreslås, parallellt med att preciseringar och indikatorer till miljökvalitetsmål kopplade till skogen justeras för att göras mer tydliga. Utredaren anser att Skogsstyrelsens rådgivning till skogsbrukarna är ett kraftfullt verktyg för att nå de skogspolitiska målen och föreslår därför att rådgivningsverksamheten bör förstärkas. Ett utvecklat och förstärkt arbetssätt inom EU-samarbetet i förhandlingar och vid implementering av regelverk föreslås. Utöver detta föreslås bland annat även ett nytt forskningsprogram med fokus på skogsskötsel med målet att genom hög skogstillväxt möta klimatförändringar och framtidens råvarubehov.
