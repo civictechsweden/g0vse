@@ -1,4 +1,4 @@
-# Remiss av Naturvårdsverkets promemoria Förslag till författningsändringar för att inkludera små vätgasanläggningar i EU ETS
+# Remiss av Naturvårdsverkets promemoria Förslag till författningsändringar för att inkludera små vätgasanläggningar i EU ETSDiarienummer: KN2025/00812
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Naturvårdsverkets promemoria Förslag till författningsändringar för att inkludera små vätgasanläggningar i EU ETS.
 
