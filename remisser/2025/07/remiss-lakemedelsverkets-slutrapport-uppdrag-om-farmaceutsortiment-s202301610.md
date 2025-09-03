@@ -1,4 +1,4 @@
-# Remiss Läkemedelsverkets slutrapport Uppdrag om farmaceutsortiment, S2023/01610Diarienummer: S2023/01610
+# Remiss Uppdrag om farmaceutsortiment - slutredovisning från Läkemedelsverket (rapport), S2023/01610Diarienummer: S2023/01610
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Uppdrag om farmaceutsortiment – slutredovisning från Läkemedelsverket (rapport)
 
