@@ -1,5 +1,102 @@
 [
     {
+        "title": "Tillfälligt sänkt mervärdesskatt på livsmedel, Fi2025/01687",
+        "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/09/tillfalligt-sankt-mervardesskatt-pa-livsmedel/",
+        "published": "2025-09-05",
+        "updated": null,
+        "types": [
+            "1325",
+            "1324"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "I denna promemoria föreslås att mervärdesskattesatsen på livsmedel tillfälligt sänks från 12 procent till 6 procent. Förslaget medför ändringar i mervärdesskattelagen (2023:200).",
+        "id": "Fi2025/01687",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Matprispaket för billigare matkassar",
+                "url": "/pressmeddelanden/2025/09/matprispaket-for-billigare-matkassar/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Tillfälligt sänkt mervärdesskatt på livsmedel (pdf 432 kB)",
+                "url": "/contentassets/2d0bba9eb0d04b29a84dbf246fd206f2/tillfalligt-sankt-mervardesskatt-pa-livsmedel.pdf"
+            }
+        ],
+        "categories": [
+            "1240",
+            "1267"
+        ]
+    },
+    {
+        "title": "Ytterligare höjd beloppsgräns vid avdrag för resor till och från arbetet, Fi2025/01685",
+        "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/09/ytterligare-hojd-beloppsgrans-vid-avdrag-for-resor-till-och-fran-arbetet/",
+        "published": "2025-09-05",
+        "updated": null,
+        "types": [
+            "1325",
+            "1324"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "I denna promemoria föreslås att beloppsgränsen över vilken utgifter får dras av för denna typ av resor i stället ska höjas till 15000 kronor. Detta för att höjningen av beloppsgränsen närmare ska motsvara prisutvecklingen de senaste åren och den höjning av schablonbeloppen för avdrag för resor med egen bil som gjordes 2023.",
+        "id": "Fi2025/01685",
+        "shortcuts": [
+            {
+                "name": "Prop. 2024/25:1, Budgetpropositionen 2025",
+                "url": "/rattsliga-dokument/proposition/2024/09/prop.-2024251"
+            },
+            {
+                "name": "Promemoria: Höjd beloppsgräns vid avdrag för resor till och från arbetet",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/05/hojd-beloppsgrans-vid-avdrag-for-resor-till-och-fran-arbetet/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Ytterligare höjd beloppsgräns vid avdrag för resor till och från arbetet (pdf 314 kB)",
+                "url": "/contentassets/bf76462fef784c5d86d438d801c40026/ytterligare-hojd-beloppsgrans-vid-avdrag-for-resor-till-och-fran-arbetet-fi202501685/"
+            }
+        ],
+        "categories": [
+            "1267"
+        ]
+    },
+    {
+        "title": "Stöd till laddnings-och tankningsinfrastruktur för tunga transporter, KN2025/01701",
+        "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/09/stod-till-laddnings-och-tankningsinfrastruktur-for-tunga-transporter/",
+        "published": "2025-09-05",
+        "updated": null,
+        "types": [
+            "1325",
+            "1324"
+        ],
+        "senders": [
+            "1291"
+        ],
+        "summary": "I promemorian, som tagits fram inom Regeringskansliet, finns förslag på ändringar i förordningen (2022:107) om statligt stöd till regionala elektrifieringspiloter för tunga transporter.",
+        "id": "KN2025/01701",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Nya regler remitteras för att främja elektrifiering av tunga transporter",
+                "url": "/pressmeddelanden/2025/09/nya-regler-remitteras-for-att-framja-elektrifiering-av-tunga-transporter/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Promemoria Stöd till laddnings- och tankningsinfrastruktur för tunga transporter (pdf 176 kB)",
+                "url": "/contentassets/acd8feadb23e4adebc843a2e7bf508ef/promemoria-stod-till-laddnings--och-tankningsinfrastruktur-for-tunga-transporter.pdf"
+            }
+        ],
+        "categories": [
+            "1226",
+            "1252",
+            "2691"
+        ]
+    },
+    {
         "title": "Höjda bostadskostnadsgränser för barnfamiljer inom bostadsbidraget, S2025/01526",
         "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/09/hojda-bostadskostnadsgranser-for-barnfamiljer-inom-bostadsbidraget/",
         "published": "2025-09-03",
