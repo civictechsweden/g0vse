@@ -1,0 +1,5 @@
+# Extra ändringsbudget för 2025Försvarsmateriel och ytterligare stöd till UkrainaProp. 2025/26:14
+
+I denna proposition lämnar regeringen förslag till ändringar i statens budget för 2025. Förslagen är en följd av det försämrade säkerhetspolitiska läget i Sveriges närhet med anledning av Rysslands fullskaliga invasion av Ukraina.
+
+I propositionen lämnas förslag om ökade bemyndiganden för att upphandla och utveckla, samt därefter skänka, materiel och utrustning som efterfrågats av Ukraina. Propositionen innehåller även förslag om bemyndiganden för regeringen att skänka försvarsmateriel som kan avvaras av Försvarsmakten under en begränsad tid. I propositionen lämnas också förslag om ökade anslag för att kunna iordningställa den materiel som ska skänkas samt om ökade anslag och bemyndiganden för att kunna ersätta delar av den materiel som föreslås skänkas till Ukraina. Slutligen lämnas förslag om ökade anslag för stöd inom det maritima området samt om ökade anslag och bemyndiganden för stöd inom det civila försvaret.
