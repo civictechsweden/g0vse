@@ -4,7 +4,7 @@ Sverige befinner sig i en utdragen lågkonjunktur. Sveriges alla företagare är
 
 Företagarpaketet innehåller följande förslag:
 
-1. Tillfälligt sänkta arbetsgivaravgifter för unga mellan 18 och 23 år. Förslaget innebär att arbetsgivaravgifterna för en ung person minskar med en tredjedel, eller upp till 2 700 kronor per månad och per ung anställd. Förslaget föreslås träda i kraft 1 april 2026 och gäller till och med 30 september 2027.
+1. Tillfälligt sänkta arbetsgivaravgifter för unga mellan 19 och 23 år. Förslaget innebär att arbetsgivaravgifterna för en ung person minskar med en tredjedel, eller upp till 2 700 kronor per månad och ung anställd. Förslaget föreslås träda i kraft 1 april 2026 och gäller till och med 30 september 2027.
 2. Stora förenklingar och förbättringar av 3:12-regelverket. Förslagen innebär att över 60 000 företagare får sänkt skatt och att den administrativa bördan minskar med en tredjedel. Förslagen föreslås träda i kraft från och med 1 januari 2026.
 3. Satsningar på regelförenklingar, lägre administrativa kostnader och kortare tillståndsprocesser.
 
