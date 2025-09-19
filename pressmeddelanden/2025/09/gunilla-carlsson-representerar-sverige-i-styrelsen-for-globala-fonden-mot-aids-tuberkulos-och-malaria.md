@@ -1,0 +1,7 @@
+# Gunilla Carlsson representerar Sverige i styrelsen för Globala fonden mot aids, tuberkulos och malaria
+
+– Vi är mycket glada för att Gunilla Carlsson kommer att representera Sverige i styrelsen för Globala fonden. Gunilla Carlsson tar med sig erfarenheter från sin tid som biståndsminister 2006–2013, och djup kunskap om det globala hälsosystemet, bland annat genom uppdrag som biträdande verkställande direktör för UNAIDS och styrelseledamot i vaccinalliansen Gavi. Detta kommer i en tid av förändring att ge Sverige en stark röst för ökad effektivitet och nödvändiga reformer, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
+
+Sverige är medgrundare till Globala fonden och har sedan starten bidragit med ett betydande finansiellt och politiskt stöd. I dag är fonden den enskilt största mottagaren av svenskt hälsobistånd. Det svenska stödet speglar en uppskattning av Globala fondens effektiva arbete, men innebär också höga förväntningar på fortsatt effektivitet och leverans av resultat.
+
+Gunilla Carlsson kommer representera valkretsen ”Point Seven” i Globala fondens styrelse fram till juni 2027. Utöver Sverige består valkretsen av Danmark, Irland, Luxemburg, Nederländerna och Norge. Prioriterade frågor för valkretsen inkluderar att värna mänskliga rättigheter och jämlik tillgång till hälsa, samt verka för effektivisering och hållbar övergång till nationell hälsofinansiering.
