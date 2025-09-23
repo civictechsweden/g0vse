@@ -1,5 +1,90 @@
 [
     {
+        "title": "Finansplan – utdrag ur budgetpropositionen för 2026",
+        "url": "/informationsmaterial/2025/09/finansplan--utdrag-ur-budgetpropositionen-for-2026/",
+        "published": "2025-09-22",
+        "updated": null,
+        "types": [
+            "1339"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "Finansplanen är ett utdrag ur budgetpropositionen för 2026.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Budgetpropositionen för 2026",
+                "url": "/rattsliga-dokument/proposition/2025/09/2025261/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1232",
+            "2212"
+        ]
+    },
+    {
+        "title": "Ekonomisk jämställdhet",
+        "url": "/informationsmaterial/2025/09/ekonomisk-jamstalldhet/",
+        "published": "2025-09-22",
+        "updated": null,
+        "types": [
+            "1339"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "I denna publikation presenteras en redogörelse för utvecklingen av den ekonomiska jämställdheten som regeringen lämnar i en bilaga i budgetpropositionen för 2026.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Budgetpropositionen för 2026",
+                "url": "/rattsliga-dokument/proposition/2025/09/2025261/"
+            },
+            {
+                "name": "Teknisk bilaga till Ekonomisk jämställdhet september 2025",
+                "url": "/rapporter/2025/09/teknisk-bilaga-till-ekonomisk-jamstalldhet-september-2025/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1232",
+            "1239",
+            "2212"
+        ]
+    },
+    {
+        "title": "Klimatredovisning",
+        "url": "/informationsmaterial/2025/09/klimatredovisning/",
+        "published": "2025-09-22",
+        "updated": null,
+        "types": [
+            "1339"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "Enligt klimatlagen ska regeringen varje år lämna en klimatredovisning till riksdagen i budgetpropositionen. Syftet med klimatredovisningen är att underlätta för uppföljning och bedömning av de samlade klimateffekterna av alla politikområden.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Budgetpropositionen för 2026",
+                "url": "/rattsliga-dokument/proposition/2025/09/2025261/"
+            },
+            {
+                "name": "Prop. 2016/17:146 Ett klimatpolitiskt ramverk för Sverige",
+                "url": "/rattsliga-dokument/proposition/2017/03/prop.-201617146"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1232",
+            "1252",
+            "2212"
+        ]
+    },
+    {
         "title": "Propositionsförteckning hösten 2025",
         "url": "/informationsmaterial/2025/09/propositionsforteckning-hosten-2025/",
         "published": "2025-09-09",

@@ -1,5 +1,83 @@
 [
     {
+        "title": "Budgetpropositionen för 2026, Prop. 2025/26:1",
+        "url": "/rattsliga-dokument/proposition/2025/09/2025261/",
+        "published": "2025-09-22",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "Den 22 september lämnar regeringen budgetpropositionen för 2026 till riksdagen. Budgetpropositionen innehåller regeringens förslag till statens budget för 2026 samt \nde övriga förslag och bedömningar som följer av riksdagsordningen och budgetlagen.",
+        "id": "Prop. 2025/26:1",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: En budget för hårt arbetande människor",
+                "url": "/pressmeddelanden/2025/09/en-budget-for-hart-arbetande-manniskor/"
+            },
+            {
+                "name": "Artikel: Budgeten för 2026 på fem minuter",
+                "url": "/artiklar/2025/09/budgeten-for-2026-pa-fem-minuter/"
+            },
+            {
+                "name": "Statens budget i siffror",
+                "url": "/sveriges-regering/finansdepartementet/statens-budget/statens-budget-i-siffror/"
+            },
+            {
+                "name": "Prop. 2025/26:2, Höständringsbudget för 2025",
+                "url": "/rattsliga-dokument/proposition/2025/09/prop.-2025262"
+            },
+            {
+                "name": "Mer om statens budget",
+                "url": "/sveriges-regering/finansdepartementet/statens-budget/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1232",
+            "2212"
+        ]
+    },
+    {
+        "title": "Höständringsbudget för 2025, Prop. 2025/26:2",
+        "url": "/rattsliga-dokument/proposition/2025/09/prop.-2025262",
+        "published": "2025-09-22",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "Propositionen innehåller förslag till ändringar som avser statens utgifter för budgetåret \n2025.",
+        "id": "Prop. 2025/26:2",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: En budget för hårt arbetande människor",
+                "url": "/pressmeddelanden/2025/09/en-budget-for-hart-arbetande-manniskor/"
+            },
+            {
+                "name": "Artikel: Budgeten för 2026 på fem minuter",
+                "url": "/artiklar/2025/09/budgeten-for-2026-pa-fem-minuter/"
+            },
+            {
+                "name": "Budgetpropositionen för 2026",
+                "url": "/rattsliga-dokument/proposition/2025/09/2025261/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1232",
+            "2212"
+        ]
+    },
+    {
         "title": "Stärkta förutsättningar för stöd ur Allmänna arvsfonden till förmån för äldre personer,  Prop 2025/26:17",
         "url": "/rattsliga-dokument/proposition/2025/09/prop-20252617/",
         "published": "2025-09-19",
