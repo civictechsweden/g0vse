@@ -1,0 +1,7 @@
+# En ny lag om kommunal hamnverksamhetFi2025/01804
+
+I promemorian föreslås en ny lag om kommunal hamnverksamhet. Förslaget lämnas för att de svenska bestämmelserna om kommunal hamnverksamhet ska anses vara förenliga med det EU-rättsliga statsstödsregelverket.
+
+När en kommun eller en region bedriver hamnverksamhet i ett konkurrensläge på marknaden ska den överlåta driften av verksamheten till ett kommunalt aktiebolag (bolagiseringsskyldighet). Ett sådant bolag ska bedriva verksamheten på affärsmässig grund trots självkostnadsprincipen och förbudet mot att driva företag i vinstsyfte i kommunallagen (2017:725). Trots bolagiseringsskyldigheten får kommunen eller regionen bedriva hamnverksamhet som en del av den kommunala förvaltningen om hamnen främst nyttjas av lokala användare och verksamheten inte kan anses påverka handeln mellan medlemsstaterna inom Europeiska unionen.
+
+Den nya lagen föreslås träda i kraft den 1 augusti 2026. En kommun eller en region som vid ikraftträdandet bedriver hamnverksamhet i egen regi i ett konkurrensläge på marknaden ska, förutsatt att verksamheten inte omfattas av undantaget från bolagiseringsskyldighet, senast före utgången av december 2027 överföra driften av verksamheten till ett kommunalt aktiebolag. Alternativt ska kommunen eller regionen anordna verksamheten så att den inte snedvrider eller hotar att snedvrida konkurrensen, till exempel genom att verksamheten i stället lämnas över till en privat utförare.
