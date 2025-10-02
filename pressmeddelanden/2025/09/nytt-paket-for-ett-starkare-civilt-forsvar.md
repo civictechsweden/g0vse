@@ -25,3 +25,23 @@ Landets kommuner och regioner utgör en grundstomme i Sveriges civila försvar o
 En stark räddningstjänst och ett robust skydd för civilbefolkningen är centrala komponenter i Sveriges civila försvar. Genom omfördelning av tidigare beräknade medel genomförs nu åtgärder på området som uppgår till 146 miljoner kronor under 2026, 399 miljoner kronor under 2027 och 628 miljoner kronor under 2028. Detta motsvarar cirka 1,2 miljarder kronor för hela perioden. Detta utöver de 100 miljoner kronor som regeringen tidigare avsatt för att MSB årligen ska upprusta och modernisera skyddsrum.
 
 För räddningstjänsten handlar det om att stärka grundförmågan inom den kommunala räddningstjänsten vid höjd beredskap genom att införa civilplikt efter mönstring och lång grundutbildning.  För att stärka skyddet av civilbefolkningen kommer satsningarna gå till att öka takten i upprustningen av landets skyddsrum, införande av skyddade utrymmen samt planering för utrymning och tillhörande inkvartering.
+
+| **Ökning av medel 2026-2028** Totalt cirka 12 miljarder kronor | | | |
+| --- | --- | --- | --- |
+|  | **2026** | **2027** | **2028** |
+| **Generella förstärkningar** |  |  |  |
+| Hälsa, vård och omsorg | 683 | 1 667 | 1 917 |
+| Kommuner och regioner | 490 | 1 249 | 1 345 |
+| Livsmedelsförsörjning och dricksvatten | 75 | 100 | 150 |
+| Räddningstjänst och skydd av civilbefolkningen | 146 | 399 | 628 |
+| Övriga områden | 177 | 222 | 248 |
+| **Summa** | 1 571 | 3 637 | 4 288 |
+| Omfördelning av sedan tidigare parkerade medel.\* | -719 | -1 778 | -2 151 |
+| **Nya medel** | 852 | 1 859 | 2 137 |
+| **Särskilda förstärkningar av investeringar inom försörjningsberedskap och fysisk infrastruktur** |  |  |  |
+| Decentraliserad försörjningsberedskap livsmedel, läkemedel och drivmedel | 1 000 | 1 000 | 1 000 |
+| Hälsa, vård och omsorg: Lagerhållning sjukvårdsprodukter | 629 | 0 | 0 |
+| Kommuner och regioner: Måltidsverksamhet | 0 | 750 | 750 |
+| Livsmedelsförsörjning och dricksvatten: Beredskapslagring | 500 | 600 | 700 |
+| **TOTAL ÖKNING** | **2 981** | **4 209** | **4 587** |
+| \*Omfördelning av medel som avsattes för civilt försvar i budgetpropositionen för 2025. | | | |

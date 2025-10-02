@@ -12,4 +12,4 @@ I det planförslag som Trafikverket nu presenterat lämnar myndigheten sitt för
 
 Myndigheten Trafikanalys har också sedan tidigare fått i uppdrag att kvalitetsgranska Trafikverkets underlag. Denna granskning ska levereras till Regeringskansliet senast den 30 december 2025, samtidigt som remisstiden löper ut.
 
-Det samlade underlaget, inklusive remissynpunkter, kommer att beredas inom Regeringskansliet. Regeringen planerar sedan att under våren 2026 ta beslut om hur den slutliga nationella planen för transportinfrastruktur för perioden 2026–2027 ska se ut.
+Det samlade underlaget, inklusive remissynpunkter, kommer att beredas inom Regeringskansliet. Regeringen planerar sedan att under våren 2026 ta beslut om hur den slutliga nationella planen för transportinfrastruktur för perioden 2026–2037 ska se ut.

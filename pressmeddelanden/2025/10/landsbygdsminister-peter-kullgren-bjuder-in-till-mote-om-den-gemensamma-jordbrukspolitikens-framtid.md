@@ -1,0 +1,7 @@
+# Landsbygdsminister Peter Kullgren bjuder in till möte om den gemensamma jordbrukspolitikens framtid
+
+Kommissionen har presenterat ett reformförslag för den gemensamma jordbrukspolitiken, GJP, för perioden efter 2027. Det nya förslaget lägger stort fokus på förenklingar, generationsväxling, forskning och innovation, men många av stödmöjligheterna liknar dagens. Krav införs på att inkomststöden i högre grad jämfört med i dag ska riktas till företag som har en aktiv jordbruksproduktion. När det gäller marknadsordningen gör kommissionen vissa tillägg till den redan existerande samlade marknadsordningen.
+
+Regeringen ser möjligheter till en ökad flexibilitet och förenkling genom förslaget till ny jordbrukspolitik. Regeringen ska verka för att de delar av förslagen som ger medlemsstaterna utrymme för flexibilitet att anpassa till nationella och regionala variationer bibehålls och att möjligheter till ytterligare detaljregleringar i sekundärlagstiftning tillsammans med vägledningar begränsas till det som är nödvändigt för ett effektivt genomförande. Samtidigt vill regeringen värna de delar i förslaget som säkerställer en gemensam jordbrukspolitik och likvärdiga konkurrensvillkor på den inre marknaden för jordbruket.
+
+Under mötet kommer kommissionens förslag att presenteras. Centrala nyheter i förslaget jämfört med nuvarande regelverk kommer sedan att diskuteras i syfte att fördjupa och bredda regeringens perspektiv i de aktuella frågorna. Deltagarna kommer sedan få ge synpunkter som är viktiga bidrag till kommande EU-förhandlingar.

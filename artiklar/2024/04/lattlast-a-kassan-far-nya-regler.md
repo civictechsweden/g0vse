@@ -15,13 +15,13 @@ Ju mer du tjänat när du jobbat desto mer får du i a-kassa.
 Du får mer av din tidigare lön om du har varit medlem i en a-kassa länge
 än om du inte är medlem alls.
 
-Den högsta ersättningen kommer att höjas. Du kan som mest
+Den högsta ersättningen har höjts. Du kan som mest
 få 80 procent av 34 000 kronor i månaden.
 
-Aktivitetsstödet kommer också att ändras.
+Aktivitetsstödet har också ändrats.
 Stödet kommer att trappas ned ju längre tid du är arbetslös. Men
-den lägsta nivån i stödet ska höjas från 223 till 365 kronor per dag.
+den lägsta nivån i stödet har höjts från 223 till 365 kronor per dag.
 
-De nya reglerna kommer att gälla från 1 oktober 2025.
+De nya reglerna gäller från 1 oktober 2025.
 Det är en överenskommelse mellan flera partier.
 Sverigedemokraterna, Moderaterna, Kristdemokraterna och Liberalerna.
