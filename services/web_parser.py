@@ -129,7 +129,12 @@ def extract_shortcuts(soup):
 
 
 def extract_attachments(soup):
-    links = soup.select("div.col-1 ul.list--Block--icons a")
+    # Updated selector: regeringen.se is transitioning from list--Block--icons to list--icons
+    # Use > to select only direct children of col-1, excluding nested islands
+    # Support both old and new class names during transition period
+    links_new = soup.select("div.col-1 > ul.list--icons a")
+    links_old = soup.select("div.col-1 > ul.list--Block--icons a")
+    links = links_new + links_old
     return [{"name": link.get_text(strip=True), "url": link["href"]} for link in links]
 
 
