@@ -1,0 +1,7 @@
+# Parisa Liljestrand deltog i möte om försoning i Karungi med fokus på upprättelse och kunskap
+
+Kulturminister Parisa Liljestrand deltog den 11 oktober vid samlingen Askel sovinthoon – steg för försoning som Svenska kyrkan och Svenska Tornedalingars Riksförbund anordnade i Karungi. Mötet var ett tillfälle att ge tornedalingar, kväner och lantalaiset upprättelse, främja försoning och att höja kunskapen om de oförrätter som skedde i arbetsstugorna i Karungi.
+
+Svenska kyrkan och Svenska Tornedalingars Riksförbund - Tornionlaaksolaiset, STR-T anordnade under hösten fyra temasamlingar inom försoningsarbetet, i samverkan med ungdomsorganisationen Met Nuoret, Region Norrbotten, Länsstyrelsen i Norrbotten och Luleå tekniska universitet. Träffarna syftade bland annat till att synliggöra historien om arbetsstugorna i Norrbotten och att sprida kunskap till yngre generationer. Kulturminister Parisa Liljestrand deltog vid den sista träffen som ägde rum i Karungi kyrka och Karungi arbetsstuga.
+
+− Genom att tala om det som har gått fel och öka kunskapen om det som har skett, kan vi bidra till att något liknande inte händer igen. Som representant för Sveriges regering vill jag bidra till att läka de sår som smärtar än idag. Regeringen erkänner ansvar för att de kränkningar som den svenska statens assimileringspolitik innebar för enskilda tornedalingar, kväner och lantalaiset har fått negativa konsekvenser för minoriteten, och att dessa konsekvenser lever vidare än i dag. I dag blickar vi bakåt för att kunna blicka framåt, sade kulturminister Parisa Liljestrand.
