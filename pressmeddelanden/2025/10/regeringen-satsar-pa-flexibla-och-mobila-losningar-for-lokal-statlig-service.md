@@ -1,0 +1,5 @@
+# Regeringen satsar på flexibla och mobila lösningar för lokal statlig service
+
+Regeringen vill att Statens servicecenter (SSC) ska förstärka arbetet med att på sikt tillhandahålla lokal statlig service på fler platser i landetgenom att även utveckla och tillhandahålla flexibla och mobila lösningar för lokal statlig service. Därför gör regeringen ett tillägg i det uppdrag som SSC har att redovisa en plan för ny organisering av servicekontorsnätet. Fler mobila och flexibla kontorslösningar kan på sikt bidra till en stärkt statlig närvaro och service till enskilda i samtliga FA-regioner. Regeringen har i budgetpropositionen för 2026 föreslagit 10 miljoner kronor årligen till SSC från 2026 i syfte att säkra effektiv lokal statlig service.
+
+SSC:s uppdrag att redovisa en plan för ny organisering av servicekontorsnätet handlar om att myndigheten ska planera för att på sikt tillhandahålla statlig service i samtliga så kallade FA-regioner. Sedan myndigheten fick uppdraget har Tillväxtverket publicerat en ny uppdatering av FA-regionindelningen för perioden 2025–2035, som innebär att det numera finns 71 FA-regioner, jämfört med de 60 som fanns tidigare.

@@ -1,0 +1,9 @@
+# Regeringen utser Mikael Forsgren till ny generaldirektör och chef för Domstolsverket
+
+– Under kommande år ska den stora grundlagsreformen för att stärka domstolarnas oberoende genomföras, allt i syfte att ​värna och utveckla vår demokrati och rättsstat. Den nye generaldirektören kommer att ha en central roll i att förbereda domstolarna och domstolsadministrationen för den här förändringen. En annan viktig del av uppdraget handlar om att stärka och utveckla rekryteringen av domare, så att landets domstolar över tid får den kompetensförsörjning de behöver. Mikael Forsgren är en mycket välmeriterad och erfaren jurist, domare och chef, och han får nu i uppdrag att leda Domstolsverket på denna förändringsresa, säger justitieminister Gunnar Strömmer.
+
+Mikael Forsgren kommer närmast från en tjänst som lagman vid Umeå tingsrätt och som myndighetschef för Hyres-och arrendenämnden i Umeå. Han har tidigare tjänstgjort som kanslichef för Domstolsverkets förstärkningsstyrka, som chefsrådman och som departementsråd och rättschef i Regeringskansliet. Mikael Forsgren är också ledamot i Domarnämnden och har haft flera utredningsuppdrag inom Justitiedepartementets område.
+
+Mikael Forsgren påbörjar sin anställning den 3 november 2025 och kommer att leda myndigheten fram till dess att den planerade reformen för att öka domstolarnas oberoende träder i kraft 2027.
+
+Regeringen har i en proposition föreslagit ändringar i regeringsformens bestämmelser om statsskickets grunder som tydliggör att rättskipande verksamhet utövas av oberoende domstolar. Det föreslås även ändringar i regeringsformen som syftar till att minska risken för politisk styrning av den centrala domstolsadministrationen, bland annat genom att den myndighet som ansvarar för administrationen av domstolarna ska ledas av en styrelse där en majoritet av ledamöterna är domare.
