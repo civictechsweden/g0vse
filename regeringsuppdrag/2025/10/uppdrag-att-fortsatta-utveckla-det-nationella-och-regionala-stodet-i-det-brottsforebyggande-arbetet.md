@@ -1,0 +1,9 @@
+# Uppdrag att fortsätta utveckla det nationella och regionala stödet i det brottsförebyggande arbetetDiarienummer: Ju2025/01724
+
+Regeringen ger Brottsförebyggande rådet (Brå) och länsstyrelserna i uppdrag att fortsätta utveckla det nationella respektive det regionala stödet i det brottsförebyggande arbetet.
+
+Uppdraget innebär att Brå och länsstyrelserna i nära samarbete ska utveckla behovsanpassade och praktiknära stödinsatser till kommuner. Brå ska även utveckla kunskapen om effektiva brottsförebyggande åtgärder samt den nationella samordningen av, stödet till och samarbetet med myndigheter.
+
+Brå och länsstyrelserna ska lämna varsin redovisning till Regeringskansliet (Justitiedepartementet) senast den 31 mars 2026, den 31 mars 2027 och den 31 mars 2028. Redovisningarna ska innehålla en beskrivning av vilka åtgärder som vidtagits enskilt och gemensamt för att utveckla stödet till kommunerna med särskilt fokus på utfall, t.ex. hur många kommuner som sammantaget har erbjudits och fått stöd, vem som har gett stödet, vilken typ av stödinsatser som har genomförts och vilka resultat som stödinsatserna har lett till eller förväntas leda till i kommunernas brottsförebyggande arbete. I Brås redovisning ska det även framgå vilka åtgärder som har vidtagits för att utveckla kunskapen om effektiva brottsförebyggande åtgärder och för att utveckla den nationella samordningen av, stödet till och samarbetet med andra myndigheter. Vidare ska Brå och länsstyrelserna analysera och göra en bedömning av dels vidtagna åtgärder, dels behovet av fortsatt utvecklingsarbete. Det ska också framgå hur Brå och länsstyrelserna i enlighet med uppdraget arbetar för att förtydliga ansvarsfördelningen mellan sig i det brottsförebyggande arbetet.
+
+I arbetet med uppdraget ska myndigheterna beakta ett funktionshinders-, barnrätts- och jämställdhetsperspektiv, inklusive det jämställdhetspolitiska delmålet att mäns våld mot kvinnor ska upphöra.

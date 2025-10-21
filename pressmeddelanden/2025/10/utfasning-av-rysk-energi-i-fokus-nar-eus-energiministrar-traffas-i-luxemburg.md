@@ -1,0 +1,7 @@
+# Utfasning av rysk energi i fokus när EU:s energiministrar träffas i Luxemburg
+
+Under mötet väntas ministrarna anta rådets position om ett lagförslag om utfasning av import av gas och olja från Ryssland, inför kommande förhandlingar med Europaparlamentet. Förslaget innebär bland annat att ett totalförbud införs från och med den 1 januari 2028. Länder som direkt eller indirekt importerar gas eller olja från Ryssland måste ta fram nationella planer för utfasning. Regeringen ser positivt på detta. För att stärka unionens försörjningstrygghet måste beroendet av rysk energi upphöra så snart som möjligt.
+
+Ministrarna ska också diskutera energitryggheten i Ukraina och Moldavien inför den stundande vintern. Särskilt fokus kommer vara på den strategiska betydelsen av att integrera länderna i EU:s energimarknad. Sveriges viktigaste utrikespolitiska uppgift är fortsatt stöd till Ukraina och energisektorn är högt prioriterad inom ramen för det civila stödet.
+
+Ministrarna ska även diskutera elektrifieringens roll i EU:s gröna omställning. Samtalen är en del av förberedelserna inför att EU-kommissionen ska lägga fram en elektrifieringsstrategi i början av 2026. För Sverige är elektrifieringen en prioriterad fråga, både för att nå nationella klimatmål och för stärkt konkurrenskraft. Regeringen anser dock att elsystemets utveckling bör styras av efterfrågan och utgå från industrins och hushållens behov.
