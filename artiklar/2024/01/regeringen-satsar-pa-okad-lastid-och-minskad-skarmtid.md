@@ -2,9 +2,7 @@
 
 Att elever kan läsa och förstå vad de läser är grunden för deras lärande i alla skolämnen. Regeringens skolpolitik syftar till att gå tillbaka till grunderna och återupprätta en stark kunskapsskola där fokus i de tidigare årskurserna ligger på grundläggande färdigheter som att läsa, skriva och räkna. Digitala lärverktyg ska introduceras i undervisningen först i en ålder när de främjar och inte hämmar elevernas lärande.
 
-– De bästa förutsättningarna för att utveckla sina grundläggande färdigheter i att läsa och skriva får man i analoga miljöer och med analoga verktyg. Därför är det viktigt att eleverna får arbeta med papper och penna och inte minst att de har tillgång till läroböcker och bemannade skolbibliotek, säger skolminister Lotta Edholm.
-
-En god läsförmåga ger också eleverna möjlighet att navigera i världen, skaffa sig nödvändig kunskap och information, men också att känna läsningens glädje: en möjlighet att upptäcka nya världar och förstå både andra människor och sig själv.
+En god läsförmåga ger också eleverna möjlighet att navigera i världen, skaffa sig nödvändig kunskap och information, men också att känna läsningens glädje: en möjlighet att upptäcka nya världar och förstå både andra människor och sig själva.
 
 Det finns vetenskapligt stöd för att skärmfria miljöer skapar bättre förutsättningar för barn att utveckla relationer, koncentrera sig och lära sig att läsa och skriva. Det är därför viktigt att digitala lärverktyg introduceras i undervisningen först i en ålder när de främjar och inte hämmar elevernas lärande. Användning av digitala lärverktyg behöver därför ske varsamt och genomtänkt.
 
@@ -12,13 +10,15 @@ Här följer en genomgång av några av regeringens pågående och genomförda s
 
 ## Fler böcker i skolan
 
-Sveriges elever behöver få fler läroböcker och regeringen strävar efter principen om en lärobok per elev och ämne. Fysiska böcker är viktiga för elevernas lärande och lärares arbete men ändå är det många skolor som inte har tillräckligt med ändamålsenliga läroböcker. 2023 införde regeringen ett nytt statsbidrag som riktar sig till förskoleklassen, grundskolan och motsvarande skolformer. Statsbidraget kan användas för inköp av läroböcker och lärarhandledningar. Totalt avsattes 685 miljoner kronor 2023, 658 miljoner kronor 2024 och 755 miljoner kronor 2025. Därefter beräknas 555 miljoner kronor per år.
+Sveriges elever behöver få fler läroböcker och regeringen strävar efter principen om en lärobok per elev och ämne. Fysiska böcker är viktiga för elevernas lärande och lärares arbete men ändå är det många skolor som inte har tillräckligt med ändamålsenliga läroböcker. 2023 införde regeringen ett nytt statsbidrag som riktar sig till förskoleklassen, grundskolan och motsvarande skolformer. Statsbidraget kan användas för inköp av läroböcker och lärarhandledningar. Totalt avsattes 685 miljoner kronor 2023, 658 miljoner kronor 2024 och 755 miljoner kronor 2025. Regeringen har avsatt 555 miljoner kronor för 2026 och kommande år.
+
+Nya läroplaner för grundskolan och motsvarande skolformer är planerade att börja gälla från 2028 och det behöver finnas ändamålsenliga läroböcker och lärarhandledningar som stödjer undervisningen utifrån de nya läroplanerna. Regeringen har därför satsat på en tillfällig förstärkning av statsbidraget för inköp av läroböcker och lärarhandledningar med 500 miljoner kronor för 2028.
 
 Det har tidigare inte funnits någon garanti för att elever får tillgång till läroböcker. Genom riksdagens beslut om regeringens proposition Stärkt tillgång till läromedel trädde förtydliganden i skollagen i kraft den 1 juli 2024 som bland annat innebär att elever ska ha tillgång till läroböcker, andra läromedel och andra lärverktyg.
 
 Skolinspektionen har fått i uppdrag av regeringen att granska elevers tillgång till läroböcker och andra läromedel.
 
-För att väcka läslusten behövs tillgång till bra skönlitteratur och facklitteratur. Regeringen har gjort en satsning för att förskolor och skolor ska få möjlighet att köpa in mer litteratur.
+För att väcka läslusten behövs tillgång till bra skönlitteratur och facklitteratur. Regeringen har gjort en satsning för att förskolor och skolor ska få möjlighet att köpa in mer litteratur. För 2024 avsattes 176 miljoner kronor och för 2025 avsattes 480 miljoner kronor.
 
 [Pressmeddelande: Regeringen gör det möjligt för skolor att söka bidrag för fler läroböcker](/pressmeddelanden/2023/03/regeringen-gor-det-mojligt-for-skolor-att-soka-bidrag-for-fler-larobocker/)
 [Pressmeddelande: Förtydligande i lagen ska leda till att alla elever får tillgång till läroböcker](/pressmeddelanden/2023/10/fortydligande-i-lagen-ska-leda-till-att-alla-elever-far-tillgang-till-larobocker/)
@@ -28,38 +28,36 @@ För att väcka läslusten behövs tillgång till bra skönlitteratur och fackli
 
 ## Elever ska ha tillgång till bemannade skolbibliotek
 
-Skolbibliotekarier och välutrustade skolbibliotek spelar en viktig roll för att främja både läsintresset och läsförmågan. Trots det ser tillgången till bemannade skolbibliotek väldigt olika ut. I november 2024 röstade riksdagen ja till regeringens proposition Stärkta skolbibliotek. Beslutet innebär förtydliganden i skollagen för att elever ska få tillgång till bemannade skolbibliotek på den egna skolenheten från den 1 juli 2025. Regeringen har avsatt 216 miljoner för stärkta skolbibliotek för 2025 och därefter beräknas 433 miljoner kronor årligen.
+Skolbibliotekarier och välutrustade skolbibliotek spelar en viktig roll för att främja både läsintresset och läsförmågan. Trots det ser tillgången till bemannade skolbibliotek väldigt olika ut. I november 2024 röstade riksdagen ja till regeringens proposition Stärkta skolbibliotek. Beslutet innebär förtydliganden i skollagen för att elever ska få tillgång till bemannade skolbibliotek på den egna skolenheten från den 1 juli 2025. Regeringen har avsatt 216 miljoner för stärkta skolbibliotek för 2025, har avsatt 433 miljoner för 2026 och beräknar därefter 433 miljoner kronor årligen.
 
 Det är viktigt att den officiella biblioteksstatistiken ger en samlad bild över hur tillgången till bemannade skolbibliotek ser ut i landet. Därför avsattes 1,2 miljoner kronor 2024 och samma summa 2025 till Kungl. biblioteket för att utveckla statistiken.
 
 [Pressmeddelande: Alla elever ska få rätt till bemannade skolbibliotek](/pressmeddelanden/2024/07/alla-elever-ska-fa-ratt-till-bemannade-skolbibliotek/)
 [Pressmeddelande: Regeringen vill få bättre statistik om skolbibliotek och kostnader för läromedel](/pressmeddelanden/2024/06/regeringen-vill-fa-battre-statistik-om-skolbibliotek-och-kostnader-for-laromedel/)
 
-## Regeringen vill göra skolan mobilfri
+## En mobilfri skola med färre distraktioner
 
-Att samla in mobiltelefoner under skoldagen kan främja elevers trygghet, lärande och kunskapsutveckling. En utredare fick i uppdrag att undersöka hur en reglering för insamling av mobiltelefoner och annan elektronisk kommunikationsutrustning under skoldagen kan utformas. Regleringen ska omfatta förskoleklassen, grundskolan och motsvarande skolformer samt fritidshemmet. Uppdraget redovisades i mars 2025.
+Att samla in mobiltelefoner under skoldagen kan främja elevers trygghet, lärande och kunskapsutveckling. Regeringen avser att göra skolan mobilfri i hela landet. Det innebär att det ska bli obligatoriskt att samla in elevers mobiltelefoner under hela skoldagen i grundskolan, anpassade grundskolan, specialskolan och sameskolan samt i fritidshemmet. De nya reglerna väntas börja gälla inför höstterminen 2026. För att genomföra förändringen föreslår regeringen att 95 miljoner kronor avsätts 2026 och beräknar att 100 miljoner kronor avsätts årligen från 2027.
 
 [Pressmeddelande: Skolministern tog emot förslag om mobilförbud under hela skoldagen](/pressmeddelanden/2025/03/skolministern-tog-emot-forslag-om-mobilforbud-under-hela-skoldagen/)
 
 ## Barnen i förskolan ska mötas av fler böcker och färre skärmar
 
-Regeringen har beslutat om ändringar i förskolans läroplan som bland annat innebär att det inte längre finns några krav på att barn ska använda digitala lärverktyg i förskolan. I beslutet förtydligar regeringen dessutom att endast analoga lärverktyg, exempelvis böcker, bör användas för barn under två år och att eventuell användning av andra lärverktyg än analoga bör ske med stor restriktivitet för barn i övriga åldrar. Ändringarna i läroplanen träder i kraft den 1 juli 2025.
+Regeringen har beslutat om ändringar i förskolans läroplan som bland annat innebär att det inte längre finns några krav på att barn ska använda digitala lärverktyg i förskolan. I beslutet förtydligar regeringen att endast analoga lärverktyg, exempelvis böcker, bör användas för barn under två år och att eventuell användning av andra lärverktyg än analoga bör ske med stor restriktivitet för barn i övriga åldrar. Ändringarna i läroplanen trädde i kraft den 1 juli 2025.
 
 [Pressmeddelande: Barnen i förskolan ska mötas av fler böcker och färre skärmar - Regeringen.se](/pressmeddelanden/2025/02/barnen-i-forskolan-ska-motas-av-fler-bocker-och-farre-skarmar/)
 
-## Uppdrag om lärverktyg ska ge mer lästid och mindre skärmtid
-
-Lärarnas förmåga att välja och använda lärverktyg är avgörande för undervisningens kvalitet och för lärandet. Samlad vetenskaplig empiri och beprövad erfarenhet visar att grundläggande färdigheter som relationella förmågor, uppmärksamhet och koncentration samt förmåga att läsa, skriva och räkna bäst förvärvas genom analoga aktiviteter i analoga miljöer. Fokus i de yngre åldrarna bör ligga på fysiska böcker och att digitala lärverktyg först vid stigande ålder kan användas och ge goda effekter, under förutsättning att det görs selektivt, utifrån tydligt vetenskapligt stöd och dokumenterat pedagogiskt mervärde.
-
-Skolverket har därför fått regeringens uppdrag att ta fram allmänna råd eller rekommendationer och stödmaterial om val och användning av lärverktyg i undervisningen. Rekommendationerna ska redovisas senast den 30 april 2025 och stödmaterialet ska finnas tillgängligt sommaren 2025.
-
-[Pressmeddelande: Nytt uppdrag till Skolverket om lärverktyg ska ge mer lästid och mindre skärmtid](/pressmeddelanden/2023/11/nytt-uppdrag-till-skolverket-om-larverktyg-ska-ge-mer-lastid-och-mindre-skarmtid/)
-
 ## Skolverket ska undersöka användningen av skärmar i skolan
 
-Många elever upplever att de blir distraherade av andra elever som använder digitala verktyg, till exempel mobiltelefoner, under lektionstid. Samtidigt har nätmobbning blivit allt vanligare under det senaste decenniet. Skolverket har därför fått i uppdrag att undersöka hur digitala enheter används i skolan och fritidshemmet och ska föreslå åtgärder som kan minska användningen av digitala enheter som elever själva tar med sig till skolan eller fritidshemmet och som påverkar eleverna, deras kunskapsutveckling eller utbildningen negativt, inklusive eventuella åtgärder för att bidra till att minska könsskillnader i studieresultat. Uppdraget ska delredovisas i maj 2025.
+Många elever upplever att de blir distraherade av andra elever som använder digitala verktyg, till exempel mobiltelefoner, under lektionstid. Samtidigt har nätmobbning blivit allt vanligare under det senaste decenniet. Skolverket har därför fått i uppdrag att undersöka hur digitala enheter används i skolan och fritidshemmet och ska föreslå åtgärder som kan minska användningen av digitala enheter som elever själva tar med sig till skolan eller fritidshemmet och som påverkar eleverna, deras kunskapsutveckling eller utbildningen negativt, inklusive eventuella åtgärder för att bidra till att minska könsskillnader i studieresultat. Uppdraget delredovisades i maj 2025.
 
-[Pressmeddelande: Regeringen vill undersöka användningen av skärmar i skolan](/pressmeddelanden/2024/08/regeringen-vill-undersoka-anvandningen-av-skarmar-i-skolan/)
+[Pressmeddelande: Regeringen vill undersöka användningen av skärmar i skolan](/pressmeddelanden/2024/08/regeringen-vill-undersoka-anvandningen-av-skarmar-i-skolan/ "Pressmeddelande: Regeringen vill undersöka användningen av skärmar i skolan ")
+
+## Stödundervisning för de elever som behöver det
+
+Dagens bestämmelser om extra anpassningar och särskilt stöd fungerar inte som det var tänkt. Många elever har i dag bristfälliga kunskaper och färdigheter inom läsning, skrivande och i matematik. Stödet sätts in för sent och möter inte elevernas behov i tillräcklig utsträckning. Regeringen vill införa stödundervisning som en ny stödinsats från hösten 2028, som ska ge elever möjlighet till tidig färdighetsträning i bland annat läsning.
+
+[Pressmeddelande: Regeringen satsar på bättre förutsättningar för lärares undervisningsuppdrag och förbättrat stöd till elever](/pressmeddelanden/2025/09/reglering-av-larares-undervisningstid-stodundervisning-och-standardiserade-tester/)
 
 ## Nationella proven i årskurs 3 ska inte digitaliseras
 
@@ -79,17 +77,21 @@ Skolverket har ett så kallat sektorsansvar i frågor om digitalisering. Regerin
 
 [Pressmeddelande: Skolverket ska beakta riskerna med digitalisering](/pressmeddelanden/2024/07/skolverket-ska-beakta-riskerna-med-digitalisering/)
 
-## Tydligare skrivningar om läsning och digital teknik i läroplanerna
+## Nya läroplaner med tydligare fokus på läsning
 
-I februari 2025 redovisade Läroplansutredningen sina förslag. Utredningen hade i uppdrag att se över läroplanerna och utredaren har bland annat lämnat förslag på hur området läsning och läsförståelse kan förstärkas i läroplanerna och även hur skrivningarna om digitalisering bättre kan anpassas utifrån barns kognitiva utveckling och lärande och elevernas grundläggande behov av ett kritiskt och ansvarsfullt förhållningssätt till digital teknik. Utredningens förslag bereds nu i Regeringskansliet.
+I februari 2025 redovisade Läroplansutredningen sina förslag. Utredningen hade i uppdrag att se över läroplanerna och utredaren har bland annat lämnat förslag på hur området läsning och läsförståelse kan förstärkas i läroplanerna och även hur skrivningarna om digitalisering bättre kan anpassas utifrån barns kognitiva utveckling och lärande och elevernas grundläggande behov av ett kritiskt och ansvarsfullt förhållningssätt till digital teknik. Regeringen har föreslagit 40 miljoner kronor för 2026 för att Skolverket ska ta vidare arbetet med de nya läroplanerna och ytterligare medel är beräknade för kommande år.
 
 [Pressmeddelande: Fakta och ämneskunskaper ska genomsyra nya läroplaner](/pressmeddelanden/2023/12/fakta-och-amneskunskaper-ska-genomsyra-nya-laroplaner/)
 
 [Pressmeddelande: Skolministern tar emot Läroplansutredningen](/pressmeddelanden/2025/02/skolministern-tar-emot-laroplansutredningen/)
 
+[Pressmeddelande: Regeringen föreslår medel för nya läroplaner, nytt betygssystem och reformerad lärarutbildning](/pressmeddelanden/2025/09/regeringen-foreslar-medel-for-nya-laroplaner-nytt-betygssystem-och-reformerad-lararutbildning/)
+
 ## Lärarutbildningen ska utvecklas
 
-I december 2024 redovisade Utredningen om att utveckla lärar- och förskollärarutbildningarna sina förslag. Utredningen hade bland annat i uppdrag att föreslå hur antagningskraven till lärar- och förskollärarutbildningarna kan höjas, hur ämneslärarutbildningen kan stärkas samt hur utbildningarna kan få ett ökat fokus på ämneskunskap, kognitionsvetenskap och praktisk metodik. Det finns forskning som visar hur viktig handskrift för att lära sig att läsa och stava, och därför är det viktigt att studenterna får med sig kunskap om det i sin utbildning. Det finns också studier som visar att läsförståelsen av längre sakprosatexter är bättre när texterna presenteras i tryckt form än på skärm. Därför är det viktigt att lärarstudenter får utbildning i hur fysiska läroböcker, andra läromedel och praktiska övningar i handskrivning kan användas i undervisningen i sin lärarutbildning. Utredningens förslag bereds nu i Regeringskansliet.
+I december 2024 redovisade Utredningen om att utveckla lärar- och förskollärarutbildningarna sina förslag. Utredningen hade bland annat i uppdrag att föreslå hur antagningskraven till lärar- och förskollärarutbildningarna kan höjas, hur ämneslärarutbildningen kan stärkas samt hur utbildningarna kan få ett ökat fokus på ämneskunskap, kognitionsvetenskap och praktisk metodik. Utredningen tryckte på vikten av att stärka utbildningen i grundläggande läs- och skrivinlärning genom strukturerad ljudningsmetod (phonics) och att det är viktigt att lärarstudenter själva har bra kunskaper i svenska. Det är också viktigt att lärarstudenter får utbildning i hur fysiska läroböcker, andra läromedel och praktiska övningar i handskrivning kan användas i undervisningen i sin lärarutbildning.
+
+Utredningens förslag bereds nu i Regeringskansliet och regeringen avser att arbeta vidare med lärarutbildningsutredningens förslag som syftar till att höja utbildningarnas kvalitet. Det handlar bland annat om ökat fokus på studier i svenska och metoder för läs- och skrivinlärning och fortbildning i kognitionsvetenskap för lärarutbildare.
 
 [Pressmeddelande: Lärar- och förskollärarutbildningarna ska reformeras](/pressmeddelanden/2023/07/larar--och-forskollararutbildningarna-ska-reformeras/)
 
@@ -97,13 +99,21 @@ I december 2024 redovisade Utredningen om att utveckla lärar- och förskollära
 
 ## Nytt examensmål om läromedel i lärarutbildningarna
 
-Läromedel av hög kvalitet är avgörande för elevernas lärande. Därför behöver studenter på lärarutbildningarna utbildas i att använda och värdera läroböcker samt andra läromedel och lärverktyg. Regeringen har därför infört ett nytt examensmål om läromedel i grund-, yrkes-, och ämneslärarutbildningarna. Syftet är att säkerställa att studenterna på ett bättre sätt än i dag förbereds för att i sin yrkesverksamhet välja och använda läroböcker samt andra läromedel och lärverktyg.
+Läromedel av hög kvalitet är avgörande för elevernas lärande. Därför behöver studenter på lärarutbildningarna utbildas i att använda och värdera läroböcker samt andra läromedel och lärverktyg. Regeringen införde därför 2023 ett nytt examensmål om läromedel i grund-, yrkes-, och ämneslärarutbildningarna. Syftet är att säkerställa att studenterna på ett bättre sätt än i dag förbereds för att i sin yrkesverksamhet välja och använda läroböcker samt andra läromedel och lärverktyg.
 
 [Pressmeddelande: Nytt examensmål om läromedel i lärarutbildningarna](/pressmeddelanden/2023/10/nytt-examensmal-om-laromedel-i-lararutbildningarna/)
 
-## Läslistor med svensk och internationell skönlitteratur
+## Uppdrag om lärverktyg ska ge mer lästid och mindre skärmtid
 
-För att alla elever ska ha möjlighet att läsa både svensk och internationell skönlitteratur gav regeringen Skolverket och Kulturrådet i uppdrag att ta fram läslistor med sådan litteratur. Läslistorna kan fungera som ett stöd för lärare när de ska välja litteratur för sin undervisning. Vid behov ska läslistorna uppdateras årligen. Skolverket och Kulturrådet ska också genomföra insatser som ger stöd för hur arbetet med böckerna kan bedrivas i förskolor. Dessutom ska myndigheterna i dialog med förlag och andra aktörer på marknaden verka för att böckerna ska finnas att tillgå.
+Lärarnas förmåga att välja och använda lärverktyg är avgörande för undervisningens kvalitet och för lärandet. Samlad vetenskaplig empiri och beprövad erfarenhet visar att grundläggande färdigheter som relationella förmågor, uppmärksamhet och koncentration samt förmåga att läsa, skriva och räkna bäst förvärvas genom analoga aktiviteter i analoga miljöer. Fokus i de yngre åldrarna bör ligga på fysiska böcker och att digitala lärverktyg först vid stigande ålder kan användas och ge goda effekter, under förutsättning att det görs selektivt, utifrån tydligt vetenskapligt stöd och dokumenterat pedagogiskt mervärde.
+
+Skolverket har därför fått i uppdrag att ta fram stödmaterial som kan tillämpas vid val och användning av lärverktyg i undervisningen. Senast den 7 november 2025 ska myndigheten börja lansera stödmaterial och redovisa en plan till Regeringskansliet över hur och när stödmaterial kommer att finnas tillgängligt för samtliga målgrupper.
+
+[Pressmeddelande: Nytt uppdrag till Skolverket om lärverktyg ska ge mer lästid och mindre skärmtid](/pressmeddelanden/2023/11/nytt-uppdrag-till-skolverket-om-larverktyg-ska-ge-mer-lastid-och-mindre-skarmtid/)
+
+## Läslistor med skönlitteratur för förskolan, grundskolan och gymnasieskolan
+
+För att alla elever ska ha möjlighet att läsa både svensk och internationell skönlitteratur gav regeringen Skolverket och Kulturrådet i uppdrag att ta fram läslistor med sådan litteratur. Läslistorna kan fungera som ett stöd för lärare när de ska välja litteratur för sin undervisning. Vid behov ska läslistorna uppdateras årligen. Skolverket och Kulturrådet ska också genomföra insatser som ger stöd för hur arbetet med böckerna kan bedrivas i förskolor och skolor. Dessutom ska myndigheterna i dialog med förlag och andra aktörer på marknaden verka för att böckerna ska finnas att tillgå.
 
 [Pressmeddelande: Regeringen gör insatser för att stärka barns och elevers färdigheter att läsa, skriva och räkna](/pressmeddelanden/2023/12/regeringen-gor-insatser-for-att-starka-barns-och-elevers-fardigheter-att-lasa-skriva-och-rakna/)
 
@@ -111,4 +121,4 @@ För att alla elever ska ha möjlighet att läsa både svensk och internationell
 
 ## Förstärkt bidrag till Svenska barnboksinstitutet
 
-Regeringen vill stärka kunskapen och forskningen om barns och ungas läsande och förstärkte därför Svenska barnboksinstitutets verksamhet genom en ökning av det årliga bidraget med 6 miljoner kronor 2024 och 4 miljoner kronor från och med 2025. För 2025 uppgår bidraget till totalt 11 miljoner kronor.
+Regeringen vill stärka kunskapen och forskningen om barns och ungas läsande och förstärkte därför Svenska barnboksinstitutets verksamhet genom en ökning av det årliga bidraget med 6 miljoner kronor 2024 och 4 miljoner kronor från och med 2025. För 2025 uppgick bidraget till totalt 11 miljoner kronor.
