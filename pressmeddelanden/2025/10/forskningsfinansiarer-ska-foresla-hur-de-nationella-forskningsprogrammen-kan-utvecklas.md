@@ -1,0 +1,9 @@
+# Forskningsfinansiärer ska föreslå hur de nationella forskningsprogrammen kan utvecklas
+
+I den forskningspolitiska propositionen 2016 presenterades ett nytt finansieringsinstrument kallat nationella forskningsprogram. Syftet med de nationella forskningsprogrammen är att göra strategiska satsningar som kan bidra till att hantera olika samhällsutmaningar, bland annat klimat, migration och integration samt inom välfärden. Förutom de sju nationella forskningsprogram som startade 2017 har det tillkommit ytterligare program i forsknings- och innovationspropositionerna 2020 och 2024. Vissa av programmen har fått ökade budgetar och vissa har förlängts. De nationella forskningsprogrammens betydelse för att hantera viktiga samhällsutmaningar har därför ökat. Samtidigt har programmen blivit en allt viktigare finansieringskälla för lärosäten och andra forskningsaktörer.
+
+– De nationella forskningsprogrammen ska finansiera forskning av hög kvalitet och styras så att de effektivt kan möta olika samhällsutmaningar. Programmen är mer resurskrävande än annan forskningsfinansiering och bör därför skapa värden som inte är möjliga att uppnå på andra sätt. Vi behöver nu se över hur programmen kan utvecklas för att ännu bättre, med hög kvalitet, svara mot identifierade samhällsutmaningar, säger gymnasie-, högskole-, och forskningsminister Lotta Edholm.
+
+Formas, Forte och Vetenskapsrådet har låtit göra externa halvtidsutvärderingar av de nationella forskningsprogram som startade 2017. Utvärderingarna visar att det finns potential att förbättra programmens genomförande. Regeringen har nu beslutat att myndigheterna bland annat ska analysera och lämna förslag om hur programmens planering, implementering, nyttiggörande samt uppföljning och effektutvärdering kan utvecklas och förbättras.
+
+Uppdraget ska redovisas senast den 1 juni 2026 och samordnas av Formas.
