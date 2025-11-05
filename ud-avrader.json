@@ -1,5 +1,23 @@
 [
     {
+        "title": "Mali - avrådan",
+        "url": "/ud-avrader/mali---avradan/",
+        "published": "2025-11-04",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till Mali, inklusive Bamako.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1121"
+        ]
+    },
+    {
         "title": "Tanzania - avrådan",
         "url": "/ud-avrader/tanzania---avradan/",
         "published": "2025-10-31",
@@ -990,24 +1008,6 @@
         "categories": [
             "2204",
             "1119"
-        ]
-    },
-    {
-        "title": "Mali - avrådan",
-        "url": "/ud-avrader/mali---avradan/",
-        "published": "2015-02-10",
-        "updated": "2015-02-20",
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet tills vidare från alla resor till Mali, undantaget Bamako, varifrån Utrikesdepartementet avråder från icke nödvändiga resor.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1121"
         ]
     },
     {

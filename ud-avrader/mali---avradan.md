@@ -1,3 +1,3 @@
 # Mali - avrådan
 
-Ursprungligt beslut om avrådan togs den 30 juni 2008. Avrådan gäller tills vidare.
+Beslut om avrådan togs den 4 november 2025. Avrådan gäller tills vidare.

@@ -1,0 +1,7 @@
+# Legitimation och behörighet i den tioåriga grundskolanU2025/02137
+
+I promemorian föreslås att det införs en upplysningsbestämmelse om att regeringen med stöd av restkompetensen kan meddela föreskrifter om undantag från vissa bestämmelser om behörighet och legitimation för lärare och förskollärare i skollagen (2010:800).
+
+Den nya upplysningsbestämmelsen innebär att regeringen kan meddela föreskrifter om att en lärares eller förskollärares behörighet att undervisa i skolväsendet kan ändras eller utökas utan ansökan till Statens skolverk när sådana ändringar är en nödvändig följd av ändringar i skollagen och i föreskrifter om vad som krävs för att vara behörig att undervisa i skolväsendet. En förutsättning för att regeringen ska kunna meddela sådana föreskrifter är också att ett sådant förfarande underlättar för lärare eller förskollärare. Den nya upplysningsbestämmelsen innebär också att regeringen kan meddela föreskrifter om att en lärares eller förskollärares behörighet att undervisa i skolväsendet som bara gäller under en övergångsperiod inte behöver anges på legitimationen. Syftet är bl.a. att se till att övergången till den tioåriga grundskolan, som införs läsåret 2028/29, blir så enkel som möjligt för alla lärare och förskollärare. Eftersom liknande situationer även kan uppkomma framöver föreslås att upplysningsbestämmelsen ska gälla generellt och inte bara vid införandet av en tioårig grundskola.
+
+Lagändringarna föreslås träda i kraft den 1 augusti 2026.
