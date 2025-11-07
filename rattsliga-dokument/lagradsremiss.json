@@ -1,5 +1,160 @@
 [
     {
+        "title": "Ett ställföreträdarskap att lita på",
+        "url": "/rattsliga-dokument/lagradsremiss/2025/11/ett-stallforetradarskap-att-lita-pa/",
+        "published": "2025-11-06",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "Regeringen föreslår ett flertal åtgärder som syftar till att stärka den enskildes ställning, höja ställföreträdarverksamhetens kvalitet och skapa bättre möjligheter för att rekrytera och behålla kompetenta ställföreträdare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1230"
+        ]
+    },
+    {
+        "title": "Framtidens dataskydd vid Skatteverket, Tullverket och Kronofogdemyndigheten",
+        "url": "/rattsliga-dokument/lagradsremiss/2025/11/framtidens-dataskydd-vid-skatteverket-tullverket-och-kronofogdemyndigheten/",
+        "published": "2025-11-06",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "Regeringen föreslår att de registerlagar som i dag tillämpas av Skatteverket, Tullverket och Kronofogdemyndigheten ska ersättas med varsin ny lag om personuppgiftsbehandling.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Förbättrad reglering av myndigheters hantering av personuppgifter",
+                "url": "/pressmeddelanden/2025/11/forbattrad-reglering-av-myndigheters-hantering-av-personuppgifter/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1224",
+            "1267"
+        ]
+    },
+    {
+        "title": "Kontroller av kontanta medel vid den inre gränsen",
+        "url": "/rattsliga-dokument/lagradsremiss/2025/11/kontroller-av-kontanta-medel-vid-den-inre-gransen/",
+        "published": "2025-11-06",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "I lagrådsremissen föreslås att Tullverket ska få möjlighet att kontrollera in- och utförsel av kontanta medel vid gränsen mot andra EU-länder. Den reglering som föreslås motsvarar huvudsakligen den som i dag gäller för kontanta medel vid gränsen mot länder utanför EU.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Nya åtgärder för att stoppa penningtvätt och strypa den kriminella ekonomin",
+                "url": "/pressmeddelanden/2025/11/nya-atgarder-for-att-stoppa-penningtvatt-och-strypa-den-kriminella-ekonomin/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1267",
+            "2690",
+            "1012"
+        ]
+    },
+    {
+        "title": "Frihetsberövande påföljder för barn och unga",
+        "url": "/rattsliga-dokument/lagradsremiss/2025/11/frihetsberovande-pafoljder-for-barn-och-unga/",
+        "published": "2025-11-06",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "I lagrådsremissen föreslår regeringen att barn och unga, i de fall en frihetsberövande påföljd inte kan undvikas, ska dömas till fängelse i stället för sluten ungdomsvård.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1220",
+            "1263",
+            "1268",
+            "2708",
+            "2710"
+        ]
+    },
+    {
+        "title": "Permanent skattefrihet för förmån av laddel på arbetsplatsen och utvidgad rätt till avdrag för drivmedelsutgifter",
+        "url": "/rattsliga-dokument/lagradsremiss/2025/11/permanent-skattefrihet-for-forman-av-laddel-pa-arbetsplatsen-och-utvidgad-ratt-till-avdrag-for-drivmedelsutgifter/",
+        "published": "2025-11-06",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "I lagrådsremissen föreslås att den tillfälliga skattefriheten för förmån av laddel på arbetsplatsen ska gälla permanent. Förslaget syftar bl.a. till att fortsatt underlätta omställningen till en fossilfri fordonsflotta och att gynna arbetsresor med laddbara fordon framför andra, mindre hållbara, alternativ.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen föreslår permanent skattefrihet för förmån av laddel på arbetsplatsen",
+                "url": "/pressmeddelanden/2025/11/regeringen-foreslar-permanent-skattefrihet-for-forman-av-laddel-pa-arbetsplatsen/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1252",
+            "1267"
+        ]
+    },
+    {
+        "title": "Tillfälligt nedsatta arbetsgivaravgifter för 19–23-åringar",
+        "url": "/rattsliga-dokument/lagradsremiss/2025/11/tillfalligt-nedsatta-arbetsgivaravgifter-for-1923-aringar/",
+        "published": "2025-11-06",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "I lagrådsremissen föreslås att det införs en tillfällig nedsättning av det samlade uttaget av arbetsgivaravgifter och allmän löneavgift på ersättning till personer som vid årets ingång har fyllt 18 men inte 23 år.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Förslag om nedsatta arbetsgivaravgifter för unga",
+                "url": "/pressmeddelanden/2025/11/forslag-om-nedsatta-arbetsgivaravgifter-for-unga/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1213",
+            "1267"
+        ]
+    },
+    {
         "title": "Ett stärkt konsumentskydd vid distansavtal",
         "url": "/rattsliga-dokument/lagradsremiss/2025/11/ett-starkt-konsumentskydd-vid-distansavtal/",
         "published": "2025-11-04",
