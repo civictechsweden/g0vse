@@ -1,5 +1,23 @@
 [
     {
+        "title": "Madagaskar - borttagen avrådan",
+        "url": "/ud-avrader/madagaskar--avradan/",
+        "published": "2025-11-07",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av det förbättrade säkerhetsläget avråder Utrikesdepartementet inte längre från icke nödvändiga resor till Madagaskar.\n\nBeslut om borttagen avrådan togs den 7 november 2025.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1116"
+        ]
+    },
+    {
         "title": "Mali - avrådan",
         "url": "/ud-avrader/mali---avradan/",
         "published": "2025-11-04",
@@ -33,24 +51,6 @@
         "categories": [
             "2204",
             "1185"
-        ]
-    },
-    {
-        "title": "Madagaskar- avrådan",
-        "url": "/ud-avrader/madagaskar--avradan/",
-        "published": "2025-10-03",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från icke nödvändiga resor till Madagaskar.\n\nBeslut om avrådan togs den 3 oktober 2025. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1116"
         ]
     },
     {
