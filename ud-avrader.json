@@ -1,5 +1,59 @@
 [
     {
+        "title": "Israel - avrådan",
+        "url": "/ud-avrader/israel---avradan/",
+        "published": "2025-11-10",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av förändringar i säkerhetsläget avråder Utrikesdepartementet från resor till Israel enligt följande:\n\nUtrikesdepartementet avråder från icke nödvändiga resor till gränsområdena mot Gaza och Libanon inom ett avstånd av tio kilometer från respektive gräns. \n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till Golanhöjderna. \n\nBeslut om ändrad avrådan togs den 10 november 2025. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1084"
+        ]
+    },
+    {
+        "title": "Tanzania - avrådan",
+        "url": "/ud-avrader/tanzania---avradan/",
+        "published": "2025-11-10",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av det förbättrade säkerhetsläget avråder Utrikesdepartementet inte längre från icke nödvändiga resor till hela Tanzania.\n\nUtrikesdepartementet avråder fortfarande från icke nödvändiga resor till Mtwara-regionen i sydöstra Tanzania.\n\nBeslut om ändrad avrådan togs den 10 november 2025. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1185"
+        ]
+    },
+    {
+        "title": "Palestina - avrådan",
+        "url": "/ud-avrader/palestina---avradan/",
+        "published": "2025-11-10",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till Gaza och på Västbanken i provinserna Jenin, Tulkarm, Tubas och Qalqilia samt till de delar av provinsen Nablus som ligger norr om Nablus stad.\n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till övriga områden på Västbanken som ligger norr om Ramallah och Jericho, samt söder om Betlehem. \n\nVäg 90 söder om Jericho, längs med Döda havet, omfattas inte av avrådan.\n\nBeslut om ändrad avrådan togs den 10 november 2025. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1147"
+        ]
+    },
+    {
         "title": "Madagaskar - borttagen avrådan",
         "url": "/ud-avrader/madagaskar--avradan/",
         "published": "2025-11-07",
@@ -33,24 +87,6 @@
         "categories": [
             "2204",
             "1121"
-        ]
-    },
-    {
-        "title": "Tanzania - avrådan",
-        "url": "/ud-avrader/tanzania---avradan/",
-        "published": "2025-10-31",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från icke nödvändiga resor till Tanzania.\n\nBeslut om avrådan togs den 31 oktober 2025. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1185"
         ]
     },
     {
@@ -105,42 +141,6 @@
         "categories": [
             "2204",
             "1141"
-        ]
-    },
-    {
-        "title": "Israel - avrådan",
-        "url": "/ud-avrader/israel---avradan/",
-        "published": "2025-07-02",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till gränsområdena mot Gazaremsan och Libanon inom ett avstånd av tio kilometer från respektive gräns. Utrikesdepartementet avråder även från alla resor till Golanhöjderna.\n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till övriga Israel.\n\nBeslut om ändrad avrådan togs den 2 juli 2025. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1084"
-        ]
-    },
-    {
-        "title": "Palestina - avrådan",
-        "url": "/ud-avrader/palestina---avradan/",
-        "published": "2025-06-14",
-        "updated": "2025-07-02",
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till Gaza och på Västbanken provinserna Jenin, Tulkarm, Tubas och Qalqilia samt till de delar av provinsen Nablus som ligger norr om Nablus stad.\n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till övriga Palestina.\n\nBeslut om ändrad avrådan togs den 2 juli 2025. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1147"
         ]
     },
     {
