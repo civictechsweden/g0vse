@@ -1,0 +1,7 @@
+# Civilminister Erik Slottner deltar i högnivåmöte om den europeiska digitala suveräniteten i Berlin
+
+Högnivåmötet hålls med anledning av den senaste tidens globala politiska utveckling, vilket leder till allt större fokus på europeisk digital suveränitet. Värdarna för mötet planerar för undertecknandet av en deklaration om digital suveränitet som Österrike har tagit initiativ till. Vid mötet kommer Tysklands förbundskansler Friedrich Merz och Frankrikes president Emmanuel Macron att delta.
+
+Fokus under mötet ligger bland annat på att vidareutveckla centrala aspekter av en säker och innovationsvänlig digital framtid för Europa. Fokus kommer även att ligga på artificiell intelligens, moln- och datafrågor samt stöd till innovativa startup-bolag. Genom att samla politiska beslutsfattare, näringsliv, akademi och civilsamhälle skapas en plattform för att utbyta idéer. Det innebär även en möjlighet att identifiera konkreta åtgärder för en säker och konkurrenskraftig digital framtid.
+
+– Sverige välkomnar initiativet för att stärka Europas digitala suveränitet. Den digitala ekonomin är avgörande för vår konkurrenskraft, och vi vill att EU blir en starkare aktör på det digitala området. Samtidigt är det viktigt att stärka motståndskraften utan att stänga dörren för handel och internationellt samarbete – öppenhet är nyckeln till innovation och säkerhet, säger civilminister Erik Slottner.

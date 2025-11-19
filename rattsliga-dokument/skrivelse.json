@@ -1,5 +1,56 @@
 [
     {
+        "title": "Riksrevisionens rapport om antagningen till polisutbildningen, Skr. 2025/26:44",
+        "url": "/rattsliga-dokument/skrivelse/2025/11/skr.-20252644",
+        "published": "2025-11-18",
+        "updated": null,
+        "types": [
+            "1324",
+            "1330"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "I denna skrivelse redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen lämnar i sin granskningsrapport Antagningen till polisutbildningen (RiR 2025:13).",
+        "id": "Skr. 2025/26:44",
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1263"
+        ]
+    },
+    {
+        "title": "Riksrevisionens rapport om socialförsäkringsskyddet vid internationell rörlighet, Skr. 2025/26:58",
+        "url": "/rattsliga-dokument/skrivelse/2025/11/skr.-20252658",
+        "published": "2025-11-18",
+        "updated": null,
+        "types": [
+            "1324",
+            "1330"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Regeringen redovisar sin bedömning av de iakttagelser som Riksrevisionen har gjort i rapporten Socialförsäkringsskyddet vid internationell rörlighet – Försäkringskassans och Pensionsmyndighetens Kontroller, RiR 2025:14.",
+        "id": "Skr. 2025/26:58",
+        "shortcuts": [
+            {
+                "name": "Socialförsäkringsskyddet vid internationell rörlighet – Försäkringskassans och Pensionsmyndighetens Kontroller, RiR 2025:14- extern webbplats,",
+                "url": "https://www.riksrevisionen.se/download/18.3810e7e196eded6000b0f/1747761985329/RiR-2025-14-rapport.pdf"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen välkomnar Riksrevisionens granskning av socialförsäkringsskydd vid internationell rörlighet",
+                "url": "/pressmeddelanden/2025/11/regeringen-valkomnar-riksrevisionens-granskning-av-socialforsakringsskydd-vid-internationell-rorlighet/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1269"
+        ]
+    },
+    {
         "title": "Riksrevisionens rapport om statens arbete med att förbättra förutsättningarna för cykeltrafiken, Skr. 2025/26:56",
         "url": "/rattsliga-dokument/skrivelse/2025/11/skr.-20252656",
         "published": "2025-11-11",
