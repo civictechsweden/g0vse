@@ -1,5 +1,23 @@
 [
     {
+        "title": "Mali - avrådan",
+        "url": "/ud-avrader/mali---avradan/",
+        "published": "2025-11-19",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av förändringar i säkerhetsläget har Utrikesdepartementet den 19 november 2025 beslutat om att ändra avrådan för Mali. Följande avrådan gäller:\n\nMed anledning av säkerhetsläget uppmanar Utrikesdepartementet från och med den 19 november 2025 svenskar i Mali att lämna landet. Vidare avråder UD sedan den 4 november 2025 från alla resor till Mali.\n\nAvrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1121"
+        ]
+    },
+    {
         "title": "Israel - avrådan",
         "url": "/ud-avrader/israel---avradan/",
         "published": "2025-11-10",
@@ -69,24 +87,6 @@
         "categories": [
             "2204",
             "1116"
-        ]
-    },
-    {
-        "title": "Mali - avrådan",
-        "url": "/ud-avrader/mali---avradan/",
-        "published": "2025-11-04",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till Mali, inklusive Bamako.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1121"
         ]
     },
     {
