@@ -1,0 +1,7 @@
+# Förbättrade regler för svensk tonnagebeskattning
+
+I lagrådsremissen föreslås förbättringar av det svenska systemet för tonnagebeskattning i syfte att stärka Sveriges konkurrenskraft inom sjöfartsnäringen. Det föreslås också vissa förtydliganden och anpassningar av regelverket för att det bättre ska överensstämma med Europeiska kommissionens riktlinjer för statligt stöd till sjötransport och den besluts-praxis från kommissionen om andra medlemsstaters tonnagebeskattningssystem som etablerats sedan Sverige införde nuvarande bestämmelser.
+
+Förslagen innebär bl.a. att det svenska tonnagebeskattningssystemet utvidgas till att omfatta vissa verksamheter inom specialsjöfart. Det föreslås också att möjligheterna att inom ramen för tonnagebeskattad verksamhet hyra ut kvalificerade fartyg utan besättning utökas. Vidare föreslås att det införs vissa ändringar i förutsättningarna för att ett fartyg ska vara kvalificerat. Bland annat tas kravet på internationell fart bort och ersätts med ett krav på att fartyget används i trafik som är utsatt för inter-nationell konkurrens på sjöfartsmarknaden. Det föreslås också ett lägre krav på bruttodräktighet för fartyg inom specialsjöfarten. I lagråds-remissen föreslås vidare att det införs generösare villkor för företagen att använda sig av en s.k. överavskrivningsfond. Det föreslås även vissa förtydliganden och anpassningar av nuvarande regler.
+
+Lagändringarna föreslås träda i kraft den 20 juli 2026 och tillämpas första gången för beskattningsår som börjar efter den 31 december 2026.
