@@ -1,0 +1,9 @@
+# Förslag om anpassning av svensk rätt till EU:s migrations- och asylpakt remitteras
+
+EU:s migrations- och asylpakt antogs våren 2024. Det är ett omfattande regelverk bestående av tio rättsakter som syftar till att etablera ett gemensamt och harmoniserat system för asyl och migration inom EU. Regelverket bygger på fyra huvudsakliga områden: säkra yttre gränser, snabba och effektiva förfaranden, solidaritet och ansvarsfördelning mellan medlemsstater samt ett fördjupat samarbete med länder utanför EU. För svensk del är det inte aktuellt med omfördelning av asylsökande.
+
+– EU:s migrations- och asylpakt ser till att EU och därmed även Sverige har starka och säkra yttre gränser. De förslag som lämnas i promemorian säkrar att det nya systemet också fungerar i praktiken samtidigt som en ansvarsfull och restriktiv migrationspolitik fortsatt värnas. Jag ser nu fram emot att ta emot remissinstansernas synpunkter, säger migrationsminister Johan Forssell.
+
+Förslagen innebär bland annat att en helt ny systematik för asylförfarandet införs i svensk rätt. Det medför till exempel att de migranter som inte uppfyller villkoren för att resa in i EU kommer att registreras och bli föremål för identitets-, säkerhets- och hälsokontroller vid den yttre gränsen. Därtill föreslås införandet av ett påskyndat förfarandet för asylsökande från länder med en hög avslagsfrekvens eller som utgör säkerhetshot. Samtidigt säkerställer förslagen starka skyddsåtgärder och att asylsökande har en rimlig levnadsstandard.
+
+I utredningsarbetet har Justitiedepartementet biträtts av före detta kammarrättsrådet Ingela Fridström och en arbetsgrupp. Därtill har en referensgrupp varit knuten till utredningen, bestående av representanter för Advokatsamfundet, Förvaltningsrätten i Malmö, Integritetsskydds­­myndigheten, Kammarrätten i Stockholm, Migrationsverket, Polismyndigheten och Säkerhetspolisen.
