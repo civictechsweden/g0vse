@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React, { useState } from "react";
-import types from '../../types.json';
+import types from '../types.json';
 
 export default function Home() {
   React.useEffect(() => {

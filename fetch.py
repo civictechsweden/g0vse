@@ -115,7 +115,7 @@ Writer.write_json(items, ITEMS_PATH)
 Writer.write_json(codes, CODES_PATH)
 Writer.write_json(latest_updated, "./data/api/latest_updated.json")
 
-types = read_json("./types.json")
+types = read_json("./frontend/types.json")
 
 
 def get(type, items):
