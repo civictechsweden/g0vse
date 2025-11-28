@@ -19,11 +19,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout master branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           path: "g0vse"
       - name: Checkout frontend branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           ref: "frontend"
           path: "frontend"
