@@ -1,4 +1,4 @@
-# Avvikande från tyst godkännande om en myndighet inte har prövat en tillståndsansökan enligt EU:s förordning om gigabitinfrastruktur
+# Avvikande från tyst godkännande om en myndighet inte har prövat en tillståndsansökan enligt EU:s förordning om gigabitinfrastrukturFi2025/00974
 
 I denna promemoria, som har tagits fram av Gigabitutredningen (Fi 2024:03), lämnas förslag om hur Sverige övergångsvis kan avvika från bestämmelsen om s.k. tyst godkännande vid avsaknad av ett beslut om tillståndsansökan i Europaparlamentets och rådets förordning (EU) 2024/1309 av den 29 april 2024 om åtgärder för att minska kostnaderna för utbyggnad av gigabitnät för elektronisk kommunikation, om ändring av förordning (EU) 2015/2120 och om upphävande av direktiv 2014/61/EU (Gigabitinfrastrukturförordningen).
 

@@ -2,7 +2,7 @@
 
 Sverige befinner sig i det allvarligaste säkerhetspolitiska läget sedan andra världskrigets slut. En central uppgift för regeringen är att rusta upp totalförsvaret – det militära försvaret och det civila försvaret.
 
-I december 2024 fattade regeringen beslut om gemensamma förutsättningar för totalförsvaret 2025–2030. I samband med det fick Försvarsmakten och MSB i uppdrag att fortsatt främja och utveckla en samordnad planering inom totalförsvaret 2025–2030. Myndigheterna fick även i uppdrag att ta fram gemensamma utgångspunkter för totalförsvaret som alla aktörer inom totalförsvaret ska kunna använda som ett frivilligt stöd i sinatotalförsvarsförberedelser; från kommuner, regioner och myndigheter till företag och organisationer.
+I december 2024 fattade regeringen beslut om gemensamma förutsättningar för totalförsvaret 2025–2030. I samband med det fick Försvarsmakten och MSB i uppdrag att fortsatt främja och utveckla en samordnad planering inom totalförsvaret 2025–2030. Myndigheterna fick även i uppdrag att ta fram gemensamma utgångspunkter för totalförsvaret som alla aktörer inom totalförsvaret ska kunna använda som ett frivilligt stöd i sina totalförsvarsförberedelser; från kommuner, regioner och myndigheter till företag och organisationer.
 
 ## Redovisning för regeringen
 

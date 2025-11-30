@@ -19,7 +19,12 @@
                 "url": "/pressmeddelanden/2025/11/lotta-edholm-tar-emot-utredning-om-forbattrad-elevhalsa/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "En förbättrad elevhälsa, SOU 2025:113 (pdf 3 MB)",
+                "url": "/contentassets/51139302b5274a6bb84c2c3a4fefe922/en-forbattrad-elevhalsa-sou-2025113.pdf"
+            }
+        ],
         "categories": [
             "1276"
         ]
@@ -38,8 +43,18 @@
         ],
         "summary": "I detta betänkande behandlas vissa frågor om rättsliga biträden och rättegångskostnader. Med rättsliga biträden avses i detta sammanhang sådana juridiska biträden som förordnas åt en enskild av en domstol eller myndighet och som bekostas av allmänna medel, exempelvis offentliga försvarare, målsägandebiträden, offentliga biträden och rättshjälpsbiträden.",
         "id": "SOU 2025:111",
-        "shortcuts": [],
-        "attachments": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Nya regler för rättsliga biträden och stärka rättigheter för enskildaWebb-TV",
+                "url": "/pressmeddelanden/2025/11/nya-regler-for-rattsliga-bitraden-och-starka-rattigheter-for-enskilda/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "SOU 2025:111 Rättssäkerhetens pris (pdf 4 MB)",
+                "url": "/contentassets/b1e6cc2003bc4c98af1b1bc484bb9ada/sou-2025111-rattssakerhetens-pris.pdf"
+            }
+        ],
         "categories": [
             "1263"
         ]
@@ -59,7 +74,12 @@
         "summary": "Rättsliga förutsättningar för svenska myndigheter att använda Arachne och Edes",
         "id": "SOU 2025:112",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Verktyg för skydd av EU-medel, SOU 2025:112 (pdf 2 MB)",
+                "url": "/contentassets/82913253a44546b09edbb4ecd7794752/verktyg-for-skydd-av-eu-medel-sou-2025112.pdf"
+            }
+        ],
         "categories": [
             "1012"
         ]
@@ -80,11 +100,16 @@
         "id": " SOU 2025:108",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Utredning föreslår digitala lösningar för att motverka bidragsbrott",
+                "name": "Pressmeddelande: Utredning föreslår digitala lösningar för att motverka bidragsbrottWebb-TV",
                 "url": "/pressmeddelanden/2025/11/utredning-foreslar-digitala-losningar-for-att-motverka-bidragsbrott/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Ett datalyft mot fel, fusk och frånvaro, SOU 2025:108 (pdf 6 MB)",
+                "url": "/contentassets/6c907534920a4e69a887a6ae550a8003/sou-2025_108_pdf_a_webb.pdf"
+            }
+        ],
         "categories": [
             "1269"
         ]
@@ -109,7 +134,12 @@
                 "url": "/pressmeddelanden/2025/11/utredning-foreslar-atgarder-for-effektivare-utbyggnad-av-fiber-och-5g-i-hela-landet/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Snabbare bredband i hela landet, SOU 2025:110 (pdf 3 MB)",
+                "url": "/contentassets/879e4056734c428b9ba8c288a5e55387/snabbare-bredband-i-hela-landet-sou-2025110.pdf"
+            }
+        ],
         "categories": [
             "1238",
             "1012"
@@ -129,8 +159,18 @@
         ],
         "summary": "Betänkande av Utredningen om stärkt brottsbekämpning genom lagreglering av provokation.",
         "id": "SOU 2025:109",
-        "shortcuts": [],
-        "attachments": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Utredning föreslår ny lag om provokativa åtgärder",
+                "url": "/pressmeddelanden/2025/11/utredning-foreslar-ny-lag-om-provokativa-atgarder/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Särskilda provokativa åtgärder, SOU 2025:109 (pdf 1 MB)",
+                "url": "/contentassets/05b27dccd4c64b31b1ad6dafe9e7bc25/sarskilda-provokativa-atgarder-sou-2025109.pdf"
+            }
+        ],
         "categories": [
             "1224",
             "2690",
@@ -153,7 +193,12 @@
         "summary": "Delbetänkande av Miljömålsberedningen.",
         "id": "SOU 2025:107",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Sveriges nationella klimatmål – uppdaterat etappmål till 2030, SOU 2025:107 (pdf 1 MB)",
+                "url": "/contentassets/7cc2d92522104a968cea1c89d7636e44/sveriges-nationella-klimatmal--uppdaterat-etappmal-till-2030-sou-2025107.pdf"
+            }
+        ],
         "categories": [
             "1252",
             "2691"
@@ -179,7 +224,12 @@
                 "url": "/pressmeddelanden/2025/10/starkt-skydd-for-konsumenter-och-andra-skadelidande-med-ny-lag-om-produktansvar/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "En ny produktansvarslag, SOU 2025:103 (pdf 1 MB)",
+                "url": "/contentassets/13c8edfb0aff428ca9295153ad08855d/en-ny-produktansvarslag-sou-2025103.pdf"
+            }
+        ],
         "categories": [
             "1238",
             "1240",
@@ -206,7 +256,12 @@
                 "url": "/pressmeddelanden/2025/10/utredning-overlamnad--foreslar-att-uppgifter-med-lag-polisiar-relevans-flyttas-fran-polismyndigheten/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Bättre ansvarsfördelning, SOU 2025:102 (pdf 1 MB)",
+                "url": "/contentassets/bfbbc0e1981d4c4a992bfee18661ae9d/battre-ansvarsfordelning-sou-2025102.pdf"
+            }
+        ],
         "categories": [
             "1263"
         ]
@@ -227,11 +282,16 @@
         "id": "SOU 2025:101",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Utredning föreslår svensk anpassning till AI-förordningen",
+                "name": "Pressmeddelande: Utredning föreslår svensk anpassning till AI-förordningenWebb-TV",
                 "url": "/pressmeddelanden/2025/10/utredning-foreslar-forbud-mot-vissa-ai-system-och-sanktioner-for-bristande-dokumentation-av-hogrisk-ai/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Anpassningar till AI-förordningen, SOU 2025:101 (pdf 6 MB)",
+                "url": "/contentassets/759c2d42b55843c587bfbc93540f4daa/anpassningar-till-ai-forordningen-sou-2025101.pdf"
+            }
+        ],
         "categories": [
             "1238",
             "1012"
@@ -251,8 +311,18 @@
         ],
         "summary": "– ett samlat system för omhändertagande av radioaktivt avfall",
         "id": "SOU 2025:104",
-        "shortcuts": [],
-        "attachments": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Utredning föreslår system för kärnavfallshanteringWebb-TV",
+                "url": "/pressmeddelanden/2025/10/utredningen-foreslar-system-for-karnavfallshantering/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Ny kärnkraft i Sverige – ett samlat system för omhändertagande av radioaktivt avfall, SOU 2025:104 (pdf 3 MB)",
+                "url": "/contentassets/9d1234493e5545ddbddabdc3bc029f6f/ny-karnkraft-i-sverige--ett-samlat-system-for-omhandertagande-av-radioaktivt-avfall-sou-2025104.pdf"
+            }
+        ],
         "categories": [
             "1226",
             "1252",
@@ -279,7 +349,12 @@
                 "url": "/pressmeddelanden/2025/10/utredning-om-lantmaterimyndigheternas-organisering-ar-klar/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "En bättre organisering av fastighetsbildningsverksamheten, SOU 2025:98 (pdf 3 MB)",
+                "url": "/contentassets/8ea43d9c6ae54269a0dec21d0787dc5e/en-battre-organisering-av-fastighetsbildningsverksamheten-sou-202598.pdf"
+            }
+        ],
         "categories": [
             "1217"
         ]
@@ -300,11 +375,16 @@
         "id": "SOU 2025:96",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Produktivitetskommissionen överlämnar sitt slutbetänkande",
+                "name": "Pressmeddelande: Produktivitetskommissionen överlämnar sitt slutbetänkandeWebb-TV",
                 "url": "/pressmeddelanden/2025/10/produktivitetskommissionen-overlamnar-sitt-slutbetankande/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Fler möjligheter till ökat välstånd, SOU 2025:96 (pdf 4 MB)",
+                "url": "/contentassets/473a81415a454a85b36b0af5c044a96c/fler-mojligheter-till-okat-valstand-sou-202596.pdf"
+            }
+        ],
         "categories": [
             "1213",
             "1217",
@@ -339,7 +419,12 @@
                 "url": "/rattsliga-dokument/proposition/2025/03/prop.-202425133"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Om överföring av Första AP-fondens verksamhet och tillgångar till Tredje och Fjärde AP-fonderna, SOU 2025:105 (pdf 619 kB)",
+                "url": "/contentassets/f852fd0ffab747079150cb0285354c26/om-overforing-av-forsta-ap-fondens-verksamhet-och-tillgangar-till-tredje-och-fjarde-ap-fonderna-sou-2025105.pdf"
+            }
+        ],
         "categories": [
             "1231"
         ]
@@ -364,7 +449,12 @@
                 "url": "/rattsliga-dokument/proposition/2025/03/prop.-202425133"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Om överföring av Sjätte AP-fondens verksamhet och tillgångar till Andra AP-fonden, SOU 2025:106 (pdf 742 kB)",
+                "url": "/contentassets/db7dd89048c443cfabd87462e7395235/om-overforing-av-sjatte-ap-fondens-verksamhet-och-tillgangar-till-andra-ap-fonden-sou-2025106.pdf"
+            }
+        ],
         "categories": [
             "1231"
         ]
@@ -385,11 +475,16 @@
         "id": "SOU 2025:100",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Parisa Liljestrand tog emot Filmutredningens betänkande om illegal ip-tv",
+                "name": "Pressmeddelande: Parisa Liljestrand tog emot Filmutredningens betänkande om illegal ip-tvWebb-TV",
                 "url": "/pressmeddelanden/2025/09/parisa-liljestrand-tog-emot-filmutredningens-betankande-om-illegal-ip-tv/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Åtgärder mot illegal ip-tv, SOU 2025:100 (pdf 1 MB)",
+                "url": "/contentassets/277e8aae81674c28a18a13ec6c4c22d7/atgarder-mot-illegal-ip-tv-sou-2025100.pdf"
+            }
+        ],
         "categories": [
             "1242",
             "1248"
@@ -410,7 +505,12 @@
         "summary": "Slutbetänkande av Miniminivåutredningen.",
         "id": "SOU 2025:99",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Ändring av permanent uppehållstillstånd för vissa utlänningar, SOU 2025:99 (pdf 1 MB)",
+                "url": "/contentassets/bd54773a6bd948c8a5ffc17fe4ab1846/andring-av-permanent-uppehallstillstand-for-vissa-utlanningar-sou-202599.pdf"
+            }
+        ],
         "categories": [
             "1249"
         ]
@@ -435,7 +535,24 @@
                 "url": "/pressmeddelanden/2025/09/utredning-foreslar-flera-forandringar-for-en-tryggare-forsakringsmarknad/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Krishantering och ändrade rörelseregler för försäkringsföretag, volym 1, SOU 2025:97 (pdf 4 MB)",
+                "url": "/contentassets/44668b0f92f8413099e36012b4e69314/krishantering-och-andrade-rorelseregler-for-forsakringsforetag-volym-1-sou-202597.pdf"
+            },
+            {
+                "name": "Krishantering och ändrade rörelseregler för försäkringsföretag, volym 2, SOU 2025:97 (pdf 4 MB)",
+                "url": "/contentassets/44668b0f92f8413099e36012b4e69314/krishantering-och-andrade-rorelseregler-for-forsakringsforetag-sou-202597-volym-2.pdf"
+            },
+            {
+                "name": "Krishantering och ändrade rörelseregler för försäkringsföretag, volym 3, SOU 2025:97 (pdf 3 MB)",
+                "url": "/contentassets/44668b0f92f8413099e36012b4e69314/krishantering-och-andrade-rorelseregler-for-forsakringsforetag-volym-3-sou-202597.pdf"
+            },
+            {
+                "name": "Krishantering och ändrade rörelseregler för försäkringsföretag, volym 4, SOU 2025:97 (pdf 7 MB)",
+                "url": "/contentassets/44668b0f92f8413099e36012b4e69314/krishantering-och-andrade-rorelseregler-for-forsakringsforetag-volym-4-sou-202597.pdf"
+            }
+        ],
         "categories": [
             "1231",
             "1012"
@@ -457,7 +574,7 @@
         "id": "SOU 2025:95",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Betänkande överlämnat – utredning föreslår skärpta villkor för anhöriginvandring",
+                "name": "Pressmeddelande: Betänkande överlämnat – utredning föreslår skärpta villkor för anhöriginvandringWebb-TV",
                 "url": "/pressmeddelanden/2025/09/betankande-overlamnat--utredning-foreslar-skarpta-villkor-for-anhoriginvandring/"
             }
         ],
@@ -487,7 +604,7 @@
         "id": "SOU 2025:92",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: En kulturkanon för Sverige överlämnad till Parisa Liljestrand",
+                "name": "Pressmeddelande: En kulturkanon för Sverige överlämnad till Parisa LiljestrandWebb-TV",
                 "url": "/pressmeddelanden/2025/09/en-kulturkanon-for-sverige-overlamnad-till-parisa-liljestrand/"
             }
         ],
@@ -578,7 +695,12 @@
         ],
         "summary": "– bland annat ett testamentsregister i offentlig regi och ett stärkt skydd för efterlevande sambor",
         "id": "SOU 2025:91",
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Utredning föreslår ett statligt testamentsregister och stärkt skydd för efterlevande sambor",
+                "url": "/pressmeddelanden/2025/09/utredning-foreslar-ett-statligt-testamentsregister-och-starkt-skydd-for-efterlevande-sambor/"
+            }
+        ],
         "attachments": [
             {
                 "name": "Nya regler om arv och testamente – bland annat ett testamentsregister i offentlig regi och ett stärkt skydd för efterlevande sambor, SOU 2025:91 (pdf 4 MB)",
@@ -748,7 +870,12 @@
         ],
         "summary": "Betänkande av Utredningen om koordinatbestämda fastighetsgränser.",
         "id": "SOU 2025:80",
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Utredningen om koordinatbestämda fastighetsgränser är klar",
+                "url": "/pressmeddelanden/2025/07/utredningen-om-koordinatbestamda-fastighetsgranser-ar-klar/"
+            }
+        ],
         "attachments": [
             {
                 "name": "Koordinatbestämda fastighetsgränser, SOU 2025:80 (pdf 3 MB)",
@@ -774,7 +901,12 @@
         ],
         "summary": "Betänkande av Utredningen om ett stärkt nationellt cybersäkerhetscenter.",
         "id": "SOU 2025:79",
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Kraftsamling för stärkt cybersäkerhet",
+                "url": "/pressmeddelanden/2025/07/kraftsamling-for-starkt-cybersakerhet/"
+            }
+        ],
         "attachments": [
             {
                 "name": "Samlade förmågor för ökad cybersäkerhet, SOU 2025:79 (pdf 1 MB)",
@@ -811,8 +943,8 @@
         ],
         "attachments": [
             {
-                "name": "Ökad tydlighet, stärkt samverkan – förutsättningar för framtidens utvecklingspolitik. SOU 2025:85 (pdf 1 MB)",
-                "url": "/contentassets/4e8ab7fed0954243b9adec7ebe053e5e/okad-tydlighet-starkt-samverkan--forutsattningar-for-framtidens-utvecklingspolitik.-sou-202585"
+                "name": "Ökad tydlighet, stärkt samverkan – förutsättningar för framtidens utvecklingspolitik, SOU 2025:85 (pdf 1 MB)",
+                "url": "/contentassets/4e8ab7fed0954243b9adec7ebe053e5e/okad-tydlighet-starkt-samverkan--forutsattningar-for-framtidens-utvecklingspolitik-sou-202585.pdf"
             }
         ],
         "categories": [
@@ -862,7 +994,7 @@
         "id": "SOU 2025:84",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: HVB-utredningen lämnar förslag på en trygg och säker vård",
+                "name": "Pressmeddelande: HVB-utredningen lämnar förslag på en trygg och säker vårdWebb-TV",
                 "url": "/pressmeddelanden/2025/06/hvb-utredningen-lamnar-forslag-pa-en-trygg-och-saker-vard/"
             }
         ],
@@ -886,7 +1018,6 @@
             "1331"
         ],
         "senders": [
-            "2626",
             "2425"
         ],
         "summary": "Juridiska personers förvärv av jordbruksmark och en effektiv tillämpning av glesbygdsbestämmelserna",
@@ -1004,7 +1135,7 @@
         "id": "SOU 2025:75",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Förslag om att stärka folkbokföringen och Skatteverkets brottsbekämpande roll",
+                "name": "Pressmeddelande: Förslag om att stärka folkbokföringen och Skatteverkets brottsbekämpande rollWebb-TV",
                 "url": "/pressmeddelanden/2025/06/forslag-om-att-starka-folkbokforingen-och-skatteverkets-brottsbekampande-roll/"
             }
         ],
@@ -1101,7 +1232,7 @@
         "id": "SOU 2025:78",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Inbjudan till pressträff då Pål Jonson tar emot Underrättelseutredningen\n",
+                "name": "Pressmeddelande: Inbjudan till pressträff då Pål Jonson tar emot UnderrättelseutredningenWebb-TV",
                 "url": "/pressmeddelanden/2025/06/inbjudan-till-presstraff-da-pal-jonson-tar-emot-underrattelseutredningen/"
             }
         ],
@@ -1135,7 +1266,7 @@
         "id": "SOU 2025:72",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Skolministern tar emot utredning om nationell skolpengsnorm\n",
+                "name": "Pressmeddelande: Skolministern tar emot utredning om nationell skolpengsnormWebb-TV",
                 "url": "/pressmeddelanden/2025/06/skolministern-tar-emot-utredning-om-nationell-skolpengsnorm/"
             }
         ],
@@ -1167,7 +1298,7 @@
         "id": "SOU 2025:74",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ökat informationsutbyte för ett starkare stöd till arbetssökande och färre felaktiga utbetalningar\n",
+                "name": "Pressmeddelande: Ökat informationsutbyte för ett starkare stöd till arbetssökande och färre felaktiga utbetalningar",
                 "url": "/pressmeddelanden/2025/06/okat-informationsutbyte-for-ett-starkare-stod-till-arbetssokande-och-farre-felaktiga-utbetalningar/"
             }
         ],
@@ -1191,14 +1322,13 @@
             "1331"
         ],
         "senders": [
-            "2784",
             "1284"
         ],
         "summary": "Betänkande av Utredningen om en god arbetsmiljö för ett förändrat arbetsliv.",
         "id": "SOU 2025:73",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Nina Larsson har tagit emot förslag till en ny arbetsmiljöstrategi\n",
+                "name": "Pressmeddelande: Nina Larsson har tagit emot förslag till en ny arbetsmiljöstrategi",
                 "url": "/pressmeddelanden/2025/06/nina-larsson-har-tagit-emot-forslag-till-en-ny-arbetsmiljostrategi/"
             }
         ],
@@ -1229,7 +1359,7 @@
         "id": "SOU 2025:68",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Utredning föreslår nya åtgärder för att stärka näringslivets beredskap och motståndskraft\n",
+                "name": "Pressmeddelande: Utredning föreslår nya åtgärder för att stärka näringslivets beredskap och motståndskraftWebb-TV",
                 "url": "/pressmeddelanden/2025/06/utredning-foreslar-nya-atgarder-for-att-starka-naringslivets-beredskap-och-motstandskraft/"
             }
         ],
@@ -1260,7 +1390,7 @@
         "id": "SOU 2025:66",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Utredning lämnar förslag till ett reformerat straffsystem\n",
+                "name": "Pressmeddelande: Utredning lämnar förslag till ett reformerat straffsystemWebb-TV",
                 "url": "/pressmeddelanden/2025/06/utredning-lamnar-forslag-till-ett-reformerat-straffsystem/"
             }
         ],
@@ -1304,7 +1434,7 @@
         "id": "SOU 2025:64",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Förslag på ny kontrollorganisation i livsmedelskedjan\n",
+                "name": "Pressmeddelande: Förslag på ny kontrollorganisation i livsmedelskedjanWebb-TV",
                 "url": "/pressmeddelanden/2025/06/forslag-pa-ny-kontrollorganisation-i-livsmedelskedjan/"
             }
         ],
@@ -1334,7 +1464,7 @@
         "id": "SOU 2025:63",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Utredning föreslår omfattande kompetenslyft i vården\n",
+                "name": "Pressmeddelande: Utredning föreslår omfattande kompetenslyft i vårdenWebb-TV",
                 "url": "/pressmeddelanden/2025/06/utredning-foreslar-omfattande-kompetenslyft-i-varden/"
             }
         ],
@@ -1364,8 +1494,12 @@
         "id": "SOU 2025:69",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen tillsätter en utredning för ett effektivt arbete för djur- och folkhälsa\n",
+                "name": "Pressmeddelande: Regeringen tillsätter en utredning för ett effektivt arbete för djur- och folkhälsa",
                 "url": "/pressmeddelanden/2024/05/regeringen-tillsatter-en-utredning-for-ett-effektivt-arbete-for-djur--och-folkhalsa/"
+            },
+            {
+                "name": "Remiss av SOU 2025:69 Effektivare samverkan för djur-och folkhälsa",
+                "url": "/remisser/2025/09/remiss-av-sou-202569-effektivare-samverkan-for-djur-och-folkhalsa/"
             }
         ],
         "attachments": [
@@ -1394,7 +1528,7 @@
         "id": "SOU 2025:67",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Arlandasamordnaren har lämnat slutbetänkande\n",
+                "name": "Pressmeddelande: Arlandasamordnaren har lämnat slutbetänkandeWebb-TV",
                 "url": "/pressmeddelanden/2025/06/arlandasamordnaren-har-lamnat-slutbetankande/"
             }
         ],
@@ -1424,7 +1558,7 @@
         "id": "SOU 2025:62",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Staten föreslås ta större ansvar för vården\n",
+                "name": "Pressmeddelande: Staten föreslås ta större ansvar för vårdenWebb-TV",
                 "url": "/pressmeddelanden/2025/06/staten-foreslas-ta-storre-ansvar-for-varden/"
             }
         ],
@@ -1460,7 +1594,7 @@
         "id": "SOU 2025:61",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen har tagit emot Adoptionskommissionens betänkande\n",
+                "name": "Pressmeddelande: Regeringen har tagit emot Adoptionskommissionens betänkandeWebb-TV",
                 "url": "/pressmeddelanden/2025/06/regeringen-har-tagit-emot-adoptionskommissionens-betankande/"
             }
         ],
@@ -1494,7 +1628,7 @@
         "id": "SOU 2025:58",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Förslag för att stärka konkurrenskraften i hästnäringen och göra den tillgänglig för fler\n",
+                "name": "Pressmeddelande: Förslag för att stärka konkurrenskraften i hästnäringen och göra den tillgänglig för fler",
                 "url": "/pressmeddelanden/2025/05/forslag-for-att-starka-konkurrenskraften-i-hastnaringen-och-gora-den-tillganglig-for-fler/"
             }
         ],
@@ -1552,7 +1686,7 @@
         "id": "SOU 2025:59",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Utredning föreslår åtgärder för att stärka skyddet mot hedersrelaterat våld och förtryck\n",
+                "name": "Pressmeddelande: Utredning föreslår åtgärder för att stärka skyddet mot hedersrelaterat våld och förtryck",
                 "url": "/pressmeddelanden/2025/05/utredning-foreslar-atgarder-for-att-starka-skyddet-mot-hedersrelaterat-vald-och-fortryck/"
             }
         ],
@@ -1584,7 +1718,7 @@
         "id": "SOU 2025:57",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Polisens beredskap i fred, kris och krig ska stärkas\n",
+                "name": "Pressmeddelande: Polisens beredskap i fred, kris och krig ska stärkas",
                 "url": "/pressmeddelanden/2025/05/polisens-beredskap-i-fred-kris-och-krig-ska-starkas/"
             }
         ],
@@ -1616,7 +1750,7 @@
         "id": "SOU 2025:60",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Finansmarknadsministern tog emot Fondmarknadsutredningens delbetänkande\n",
+                "name": "Pressmeddelande: Finansmarknadsministern tog emot Fondmarknadsutredningens delbetänkande",
                 "url": "/pressmeddelanden/2025/05/finansmarknadsministern-tog-emot-fondmarknadsutredningens-delbetankande/"
             }
         ],
@@ -1646,7 +1780,7 @@
         "id": "SOU 2025:54",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Utredning föreslår skärpta regler om utvisning på grund av brott\n",
+                "name": "Pressmeddelande: Utredning föreslår skärpta regler om utvisning på grund av brott",
                 "url": "/pressmeddelanden/2025/05/utredning-foreslar-skarpta-regler-om-utvisning-pa-grund-av-brott/"
             }
         ],
@@ -1702,7 +1836,12 @@
         ],
         "summary": "Betänkande av Klimatanpassningsutredningen.",
         "id": "SOU 2025:51",
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Bättre förutsättningar för klimatanpassningWebb-TV",
+                "url": "/pressmeddelanden/2025/05/battre-forutsattningar-for-klimatanpassning/"
+            }
+        ],
         "attachments": [
             {
                 "name": "Bättre förutsättningar för klimatanpassning, SOU 2025:51 (pdf 3 MB)",
@@ -1755,7 +1894,7 @@
         "id": "SOU 2025:50",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Förslag på en ny jakt- och viltvårdsmyndighet\n",
+                "name": "Pressmeddelande: Förslag på en ny jakt- och viltvårdsmyndighet",
                 "url": "/pressmeddelanden/2025/05/forslag-pa-en-ny-jakt--och-viltvardsmyndighet/"
             }
         ],
@@ -1785,7 +1924,7 @@
         "id": "SOU 2025:55",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ny samhällsorientering för bättre integration\n",
+                "name": "Pressmeddelande: Ny samhällsorientering för bättre integration",
                 "url": "/pressmeddelanden/2025/05/ny-samhallsorientering-for-battre-integration/"
             }
         ],
@@ -1816,7 +1955,7 @@
         "id": "SOU 2025:53",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Utredning förslår villkor för kvalificering till välfärden\n",
+                "name": "Pressmeddelande: Utredning förslår villkor för kvalificering till välfärden",
                 "url": "/pressmeddelanden/2025/04/utredning-forslar-villkor-for-kvalificering-till-valfarden/"
             }
         ],
@@ -1847,7 +1986,7 @@
         "id": "SOU 2025:46",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Pressträff om åtgärder för att minska våld och störningar vid idrottsarrangemang\n",
+                "name": "Pressmeddelande: Pressträff om åtgärder för att minska våld och störningar vid idrottsarrangemang",
                 "url": "/pressmeddelanden/2025/04/presstraff-om-atgarder-for-att-minska-vald-och-storningar-vid-idrottsarrangemang/"
             }
         ],
@@ -1879,15 +2018,15 @@
         "id": "SOU 2025:45",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Fler förslag för att förbättra informationsutbytet mellan myndigheter\n",
+                "name": "Pressmeddelande: Fler förslag för att förbättra informationsutbytet mellan myndigheter",
                 "url": "/pressmeddelanden/2025/04/fler-forslag-for-att-forbattra-informationsutbytet-mellan-myndigheter/"
             },
             {
-                "name": "Lagrådsremiss: Ökat informationsutbyte mellan myndigheter – en ny sekretessbrytande bestämmelse\n",
+                "name": "Lagrådsremiss: Ökat informationsutbyte mellan myndigheter – en ny sekretessbrytande bestämmelse",
                 "url": "/rattsliga-dokument/lagradsremiss/2025/04/okat-informationsutbyte-mellan-myndigheter--en-ny-sekretessbrytande-bestammelse/"
             },
             {
-                "name": "Pressmeddelande: Rivna sekretesshinder för effektivare informationsutbyte mellan myndigheter\n",
+                "name": "Pressmeddelande: Rivna sekretesshinder för effektivare informationsutbyte mellan myndigheter",
                 "url": "/pressmeddelanden/2025/04/rivna-sekretesshinder-for-effektivare-informationsutbyte-mellan-myndigheter/"
             }
         ],
@@ -1924,7 +2063,8 @@
             }
         ],
         "categories": [
-            "1226"
+            "1226",
+            "2777"
         ]
     },
     {
@@ -1943,7 +2083,7 @@
         "id": "SOU 2025:49",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Nya förslag för att stärka Säkerhetspolisens förmåga att möta säkerhetshot\n",
+                "name": "Pressmeddelande: Nya förslag för att stärka Säkerhetspolisens förmåga att möta säkerhetshot",
                 "url": "/pressmeddelanden/2025/04/nya-forslag-for-att-starka-sakerhetspolisens-formaga-att-mota-sakerhetshot/"
             }
         ],
@@ -1976,7 +2116,7 @@
         "id": "SOU 2025:48",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Socialministern tog emot utredning om stärkt pandemiberedskap\n",
+                "name": "Pressmeddelande: Socialministern tog emot utredning om stärkt pandemiberedskap",
                 "url": "/pressmeddelanden/2025/04/socialministern-tog-emot-utredning-om-starkt-pandemiberedskap/"
             }
         ],

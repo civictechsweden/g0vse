@@ -1,4 +1,4 @@
-# Genomförande av bestämmelser i förnybartdirektivet om tillståndsförfaranden för förnybar energi
+# Genomförande av bestämmelser i förnybartdirektivet om tillståndsförfaranden för förnybar energiKN2025/00895
 
 I promemorian lämnas författningsförslag som genomför bestämmelserna om tillståndsförfaranden i Europaparlamentets och rådets direktiv (EU) 2023/2413 av den 18 oktober 2023 om ändring av direktiv (EU) 2018/2001, förordning (EU) 2018/1999 och direktiv 98/70/EG vad gäller främjande av energi från förnybara energikällor, och om upphävande av rådets direktiv (EU) 2015/652. Promemorian innehåller även författningsförslag som syftar till att förenkla och förtydliga regelverket för miljöbedömning.
 

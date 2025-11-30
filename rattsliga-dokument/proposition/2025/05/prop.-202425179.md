@@ -1,4 +1,4 @@
-# Bättre verktyg för kontroll – uppgiftsinhämtning inom socialförsäkringen och ekonomiskt bistånd
+# Bättre verktyg för kontroll – uppgiftsinhämtning inom socialförsäkringen och ekonomiskt biståndProp. 2024/25:179
 
 I propositionen lämnas förslag om utökade utredningsbefogenheter och uppgiftsskyldigheter som ska stärka Försäkringskassans, Pensions-myndighetens och kommunernas socialnämnders förutsättningar att fatta korrekta beslut och förhindra felaktiga utbetalningar.
 

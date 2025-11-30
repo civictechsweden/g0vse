@@ -1,4 +1,4 @@
-# Ett reformerat strandskydd
+# Ett reformerat strandskyddDir. 2025:59
 
 En särskild utredare ska analysera strandskyddsbestämmelserna och föreslå ändringar för att reformera strandskyddet med inriktningen att öka möjligheterna att bygga nära vatten.
 

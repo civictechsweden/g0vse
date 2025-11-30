@@ -1,4 +1,4 @@
-# Uppdrag till Statistiska centralbyrån att utreda förutsättningar för att tillhandahålla säkra behandlingsmiljöer enligt EHDS
+# Uppdrag till Statistiska centralbyrån att utreda förutsättningar för att tillhandahålla säkra behandlingsmiljöer enligt EHDSDiarienummer:  S2025/00975
 
 Regeringen uppdrar åt Statistiska centralbyrån att utreda förutsättningarna för att tillhandahålla säkra behandlingsmiljöer enligt Europarlamentets och rådets förordning om det europeiska hälsodataområdet.
 

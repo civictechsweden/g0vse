@@ -1,4 +1,4 @@
-# Ytterligare åtgärder mot att företag används för att begå brott och genomförande av EU-direktiv om digitala verktyg och förfaranden inom bolagsrätten
+# Ytterligare åtgärder mot att företag används för att begå brott och genomförande av EU-direktiv om digitala verktyg och förfaranden inom bolagsrättenDir. 2025:43
 
 En särskild utredare ska ta ställning till hur det nya EU-direktivet om att utvidga och uppgradera användningen av digitala verktyg och förfaranden inom bolagsrätten ska genomföras i svensk rätt. Utredaren ska också föreslå ytterligare åtgärder för att motverka att företag används för att begå brott.
 

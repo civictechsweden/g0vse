@@ -1,4 +1,4 @@
-# En långsiktigt hållbar kommersiell radioverksamhet
+# En långsiktigt hållbar kommersiell radioverksamhetProp. 2024/25:164
 
 I propositionen lämnas förslag på ändringar i radio- och tv-lagen (2010:696) som innebär att reglerna om tillstånd och villkor för att sända analog och digital kommersiell radio blir gemensamma. Förslagen syftar till att skapa goda förutsättningar för en långsiktigt hållbar kommersiell radioverksamhet med ett stort utbud för olika intressen och smakriktningar.
 

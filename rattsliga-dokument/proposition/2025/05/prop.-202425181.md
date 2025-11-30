@@ -1,4 +1,4 @@
-# Säkerhet och tillgänglighet vid val
+# Säkerhet och tillgänglighet vid valProp. 2024/25:181
 
 För att skydda de allmänna valen samt stärka möjligheterna att utnyttja rösträtten föreslår regeringen ändringar i vallagen (2005:837).
 

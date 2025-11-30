@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen och E-hälsomyndigheten att utveckla och etablera arbetet med nationell vårdförmedling
+# Uppdrag till Socialstyrelsen och E-hälsomyndigheten att utveckla och etablera arbetet med nationell vårdförmedlingDiarienummer:  S2025/00971
 
 Regeringen uppdrar åt Socialstyrelsen och E-hälsomyndigheten att utveckla och etablera statens arbete med nationell vårdförmedling.
 

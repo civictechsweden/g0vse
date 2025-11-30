@@ -1,6 +1,6 @@
 [
     {
-        "title": "Svensk strategi mot antimikrobiell resistens 2026-2035",
+        "title": "Sveriges strategi mot antimikrobiell resistens 2026-2035",
         "url": "/informationsmaterial/2025/11/svensk-strategi-mot-antimikrobiell-resistens-2026-2035/",
         "published": "2025-11-17",
         "updated": null,
@@ -11,21 +11,24 @@
             "2616",
             "1292"
         ],
-        "summary": "Denna strategi har ett 10-årigt perspektiv för att ge olika aktörer förutsättningar att arbeta långsiktigt med frågor som kan bidra till att genomföra visionen ”Ett samhälle där tillgången till antimikrobiell behandling bevaras genom sektorsövergripande och sektorsspecifika insatser för att förebygga infektioner och begränsa resistenta mikroorganismers uppkomst, spridning och konsekvenser.”.",
+        "summary": "Denna strategi har ett 10-årigt perspektiv för att ge olika aktörer förutsättningar att arbeta långsiktigt med frågor som kan bidra till att genomföra visionen ”Ett samhälle där tillgången till antimikrobiell behandling bevaras genom sektorsövergripande och sektorsspecifika insatser för att förebygga infektioner och begränsa resistenta mikroorganismers uppkomst, spridning och konsekvenser.\"",
         "id": null,
         "shortcuts": [
             {
-                "name": "Artikel: Sveriges arbete mot antibiotikaresistens",
-                "url": "/regeringens-politik/sveriges-arbete-mot-antibiotikaresistens/"
+                "name": "Pressmeddelande: Regeringen har fattat beslut om en ny nationell strategi mot antibiotikaresistensWebb-TV",
+                "url": "/pressmeddelanden/2025/11/regeringen-har-fattat-beslut-om-en-ny-nationell-strategi-mot-antibiotikaresistens/"
             },
             {
-                "name": "Svensk strategi för arbetet mot antibiotikaresistens, 2024-2025",
-                "url": "/informationsmaterial/2024/06/svensk-strategi-for-arbetet-mot-antibiotikaresistens-2024-2025/"
+                "name": "Artikel: Sveriges arbete mot antibiotikaresistens",
+                "url": "/regeringens-politik/sveriges-arbete-mot-antibiotikaresistens/"
             }
         ],
         "attachments": [],
         "categories": [
             "2655",
+            "1277",
+            "1243",
+            "1252",
             "1233",
             "2731"
         ]
@@ -155,12 +158,7 @@
         "summary": "Hur många arbetar i Regeringskansliet? Hur såg statsbudgeten ut förra året? Vilka var 2024 års propositioner, skrivelser och offentliga utredningar? Detta och mycket annat får du svar på i Regeringskansliets årsbok 2024.",
         "id": "Diarienummer: FA2025/00733",
         "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Regeringskansliets årsbok 2024 (pdf 2 MB)",
-                "url": "/contentassets/7550e4f25387496583a632a033dcd496/regeringskansliets-arsbok-2024.pdf"
-            }
-        ],
+        "attachments": [],
         "categories": [
             "2398"
         ]
@@ -188,12 +186,7 @@
                 "url": "https://www.government.se/press-room/international-press-centre/"
             }
         ],
-        "attachments": [
-            {
-                "name": "Utrikeskorrespondenter verksamma i Sverige (pdf 917 kB)",
-                "url": "/contentassets/d5653cbf62014b14a95b274140cb5908/utrikeskorrespondenter-verksamma-i-sverige.pdf"
-            }
-        ],
+        "attachments": [],
         "categories": []
     },
     {
@@ -220,12 +213,7 @@
         "summary": "Skriften innehåller ett urval av de lagar och förordningar som träder i kraft under första halvåret 2025 eller en tid därefter, såväl nya lagar och förordningar som ändringar i befintliga.",
         "id": null,
         "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Viktigare lagar och förordningar inför halvårsskiftet 2025 (pdf 539 kB)",
-                "url": "/contentassets/a227acb7ec224f42b9663d931c89f347/viktigare-lagar-och-forordningar-infor-halvarsskiftet-2025.pdf"
-            }
-        ],
+        "attachments": [],
         "categories": []
     },
     {
@@ -254,12 +242,7 @@
                 "url": "/pressmeddelanden/2025/05/sveriges-forsta-strategi-for-att-starka-judiskt-liv-och-motverka-antisemitism/"
             }
         ],
-        "attachments": [
-            {
-                "name": "Strategi för att stärka judiskt liv och motverka antisemitism. (pdf 2 MB)",
-                "url": "/globalassets/regeringen/dokument/kulturdepartementet/strategi-judiskt-liv-tillganglig.pdf"
-            }
-        ],
+        "attachments": [],
         "categories": [
             "1219",
             "2344",
@@ -283,20 +266,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen lanserar strategi för en teknikledande och konkurrenskraftig industri\n",
+                "name": "Pressmeddelande: Regeringen lanserar strategi för en teknikledande och konkurrenskraftig industri",
                 "url": "/pressmeddelanden/2025/06/regeringen-lanserar-strategi-for-en-teknikledande-och-konkurrenskraftig-industri/"
             },
             {
-                "name": "Debattartikel: Ny industristrategi ska öka Sveriges konkurrenskraft\n",
+                "name": "Debattartikel: Ny industristrategi ska öka Sveriges konkurrenskraft",
                 "url": "/debattartiklar/2025/06/ny-industristrategi-ska-oka-sveriges-konkurrenskraft/"
             }
         ],
-        "attachments": [
-            {
-                "name": "Sveriges industristrategi: för en teknikledande och konkurrenskraftig industri i en ny omvärld (pdf 2 MB)",
-                "url": "/contentassets/76c22d33e9aa45a8aed33f02349c4f94/industristrategi.pdf"
-            }
-        ],
+        "attachments": [],
         "categories": [
             "1213",
             "1232",
@@ -308,7 +286,8 @@
             "2461",
             "1274",
             "2246",
-            "2749"
+            "2749",
+            "2734"
         ]
     },
     {
@@ -327,26 +306,22 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Försvarsindustristrategi för ett starkare Sverige – innovation, produktion och samarbete\n",
+                "name": "Pressmeddelande: Försvarsindustristrategi för ett starkare Sverige – innovation, produktion och samarbete",
                 "url": "/regeringens-politik/militart-forsvar/forsvarsindustristrategi-for-ett-starkare-sverige--innovation-produktion-och-samarbete/"
             },
             {
-                "name": "Skr. 2024/25:193 Försvarsindustristrategi för ett starkare Sverige – innovation, produktion och samarbete\n",
+                "name": "Skr. 2024/25:193 Försvarsindustristrategi för ett starkare Sverige – innovation, produktion och samarbete",
                 "url": "/rattsliga-dokument/skrivelse/2025/06/skr.-202425193"
             },
             {
-                "name": "Försvarsindustristrategi för ett starkare Sverige\n",
+                "name": "Försvarsindustristrategi för ett starkare SverigeWebb-TV",
                 "url": "/pressmeddelanden/2025/06/forsvarsindustristrategi-for-ett-starkare-sverige/"
             }
         ],
-        "attachments": [
-            {
-                "name": "Försvarsindustristrategi för ett starkare Sverige (pdf 2 MB)",
-                "url": "/contentassets/e93dded5adc441059a38bf76a6cda718/forsvarsindustristrategi-for-ett-starkare-sverige.pdf"
-            }
-        ],
+        "attachments": [],
         "categories": [
-            "2247"
+            "2247",
+            "2734"
         ]
     },
     {

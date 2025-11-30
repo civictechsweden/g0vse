@@ -1,4 +1,4 @@
-# Ändring av uppdraget att ta fram ett förslag till en lag om järnvägs- och kollektivtrafikskydd
+# Ändring av uppdraget att ta fram ett förslag till en lag om järnvägs- och kollektivtrafikskyddLI2025/01020
 
 Regeringskansliet gav den 14 januari 2025 en bokstavsutredare i uppdrag att
 ta fram ett förslag till en ny lag om järnvägs- och kollektivtrafikskydd

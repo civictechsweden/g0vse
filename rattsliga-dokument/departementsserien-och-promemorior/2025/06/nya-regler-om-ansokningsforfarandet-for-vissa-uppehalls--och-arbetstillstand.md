@@ -1,4 +1,4 @@
-# Nya regler om ansökningsförfarandet för vissa uppehålls- och arbetstillstånd
+# Ds 2025:18Ds 2025:18
 
 ![](/contentassets/4103636f2db24e0fb49559a48c3aeb8d/ds202518.png?width=150&quality=85)
 

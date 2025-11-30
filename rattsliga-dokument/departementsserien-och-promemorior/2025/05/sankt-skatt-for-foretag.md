@@ -1,4 +1,4 @@
-# Sänkt skatt för företag
+# Sänkt skatt för företagFi2025/01067
 
 I promemorian föreslås att bolagsskatten sänks med 0,6 procentenhet, till 20 procent. Syftet är att stärka förutsättningar för investering och tillväxt i Sverige mot bakgrund av att högre tullnivåer och osäkerhet kring tullar och handelshinder riskerar att påverka investeringsviljan negativt. Även expansionsfondsskatten föreslås sänkas i motsvarande mån. Skattesänkningarna medför en rad följdändringar i bestämmelserna om avsättning till expansionsfond och vad gäller skatteförfarandet.
 

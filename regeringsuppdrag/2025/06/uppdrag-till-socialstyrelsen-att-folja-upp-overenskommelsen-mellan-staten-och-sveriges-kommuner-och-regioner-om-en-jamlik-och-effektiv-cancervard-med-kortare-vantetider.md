@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att följa upp överenskommelsen mellan staten och Sveriges Kommuner och Regioner om en jämlik och effektiv cancervård med kortare väntetider
+# Uppdrag till Socialstyrelsen att följa upp överenskommelsen mellan staten och Sveriges Kommuner och Regioner om en jämlik och effektiv cancervård med kortare väntetiderDiarienummer:  S2025/01089
 
 Regeringen uppdrar åt Socialstyrelsen att följa upp överenskommelsen mellan staten och Sveriges Kommuner och Regioner (SKR) om en jämlik och effektiv cancervård med kortare väntetider 2025.
 

@@ -257,7 +257,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Nationell strategi för life science",
+                "name": "Webbsida för den nationella strategin för life science",
                 "url": "/regeringens-politik/nationell-strategi-for-life-science/"
             }
         ],
@@ -581,7 +581,8 @@
         "published": "2025-11-03",
         "updated": null,
         "types": [
-            "2097"
+            "2097",
+            "1343"
         ],
         "senders": [
             "1291"
@@ -704,6 +705,7 @@
         "attachments": [],
         "categories": [
             "2435",
+            "1279",
             "1012",
             "1047",
             "1062",
@@ -1058,7 +1060,9 @@
             "2097"
         ],
         "senders": [
+            "2608",
             "2621",
+            "2425",
             "1295"
         ],
         "summary": "Den 15-17 oktober reste utrikesminister Maria Malmer Stenergard och infrastruktur- och bostadsminister Andreas Carlson till Seoul som del av Kronprinsessparets officiella besök till Sydkorea.",
@@ -1066,6 +1070,7 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
+            "1274",
             "1279",
             "1013",
             "1101"
@@ -1132,6 +1137,7 @@
             "2282",
             "2247",
             "1257",
+            "2734",
             "1013",
             "1037"
         ]
@@ -1163,19 +1169,30 @@
         ]
     },
     {
-        "title": "Stort engagemang under regerings internationella kärnkraftskonferens",
-        "url": "/artiklar/2025/10/stort-engagemang-vid-regeringens-internationella-karnkraftskonferens/",
+        "title": "Stort engagemang för finansiering av kärnkraftens ekosystem",
+        "url": "/artiklar/2025/10/stort-engagemang-for-finansiering-av-karnkraftens-ekosystem/",
         "published": "2025-10-15",
         "updated": null,
         "types": [
             "2097"
         ],
-        "senders": [],
+        "senders": [
+            "2612",
+            "2613",
+            "2623",
+            "2628",
+            "1285",
+            "1291"
+        ],
         "summary": "Den 7 oktober genomförde regeringen en internationell kärnkraftskonferens, Nordic-Baltic Nuclear Investment Summit. Energi- och näringsminister Ebba Busch var värd för mötet med Finlands klimat- och miljöminister Sari Multala som medarrangör. Mötet samlade sex ministrar och mer än 200 företagsrepresentanter från kärnkrafts- och finanssektorn från fyra kontinenter.",
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": []
+        "categories": [
+            "1226",
+            "1252",
+            "2788"
+        ]
     },
     {
         "title": "Parisa Liljestrand deltog i möte om försoning i Karungi med fokus på upprättelse och kunskap",
@@ -1564,6 +1581,7 @@
         "attachments": [],
         "categories": [
             "1279",
+            "2751",
             "1013"
         ]
     },
@@ -1601,7 +1619,7 @@
         "senders": [
             "1284"
         ],
-        "summary": "Arbetslöshetsförsäkringen har reformerats och sedan den 1 oktober 2025 baseras arbetslöshetsförsäkringen på inkomster.",
+        "summary": "Arbetslöshetsförsäkringen har reformerats och sedan den 1 oktober 2025 baseras arbetslöshetsförsäkringen på inkomster. Med anledning av förändringarna i a-kassan har också delar av aktivitetsstödet anpassats och förändrats. Ta del av frågor och svar om det nya reglerna och hur du kan påverkas.",
         "id": null,
         "shortcuts": [
             {
@@ -1636,132 +1654,6 @@
         ]
     },
     {
-        "title": "Tigerbevarandeprojekt och bevarande av ekosystem i Asien",
-        "url": "/artiklar/2025/09/tigerbevarandeprojekt-och-bevarande-av-ekosystem-i-asien/",
-        "published": "2025-09-30",
-        "updated": null,
-        "types": [
-            "2097"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Genom Globala miljöfonden (GEF) bidrar Sverige till tigerbevarandeprojekt och bevarande av ekosystem i Asien.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "1215",
-            "1252",
-            "1013"
-        ]
-    },
-    {
-        "title": "Tryggad livsmedelsförsörjning och sysselsättning i Malawi",
-        "url": "/artiklar/2025/09/tryggad-livsmedelsforsorjning-och-sysselsattning-i-malawi/",
-        "published": "2025-09-30",
-        "updated": null,
-        "types": [
-            "2097"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Genom Anpassningsfonden bidrar Sverige till ett projekt i Malawi som bidrar till klimatanpassning och tryggad livsmedelsförsörjning. Fonden arbetar även med ökad motståndskraft för klimatutsatta städer i Laos.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "1215",
-            "1252",
-            "1013"
-        ]
-    },
-    {
-        "title": "Stöd till kvinnors företagande och klimatvänliga spisar i Kenya",
-        "url": "/artiklar/2025/09/stod-till-kvinnors-foretagande-och-klimatvanliga-spisar-i-kenya/",
-        "published": "2025-09-30",
-        "updated": null,
-        "types": [
-            "2097"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Genom Gröna klimatfonden (GCF) bidrar Sverige till ett projekt i Kenya med fokus på kvinnors företagande och klimatvänliga spisar.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "1215",
-            "1252",
-            "1013"
-        ]
-    },
-    {
-        "title": "Minskad miljöpåverkan från mode- och textilindustrin",
-        "url": "/artiklar/2025/09/minskad-miljopaverkan-fran-mode--och-textilindustrin/",
-        "published": "2025-09-30",
-        "updated": null,
-        "types": [
-            "2097"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Genom Globala miljöfonden (GEF) bidrar Sverige till ett program som minskar miljöpåverkan från mode- och textilindustrin i bland annat Kambodja, Indien och Pakistan.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "1215",
-            "1252",
-            "1013"
-        ]
-    },
-    {
-        "title": "Affärsutveckling i Bolivia stärker motståndskraften mot klimatförändringar",
-        "url": "/artiklar/2025/09/affarsutveckling-i-bolivia-starker-motstandskraften-mot-klimatforandringar/",
-        "published": "2025-09-30",
-        "updated": null,
-        "types": [
-            "2097"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Genom Nordiska utvecklingsfonden (NDF) bidrar Sverige till ett projekt i Bolivia som bidrar till motståndskraft mot klimatförändringar.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "1215",
-            "1252",
-            "1013"
-        ]
-    },
-    {
-        "title": "Klimatsmart jordbruk stärker skogarna på Madagaskar",
-        "url": "/artiklar/2025/09/klimatsmart-jordbruk-starker-skogarna-pa-madagaskar/",
-        "published": "2025-09-30",
-        "updated": null,
-        "types": [
-            "2097"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Genom Gröna klimatfonden bidrar Sverige till ett projekt på Madagaskar för klimatsmart jordbruk och tryggad livsmedelsförsörjning.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "1215",
-            "1252",
-            "1013"
-        ]
-    },
-    {
         "title": "Sveriges klimatbistånd",
         "url": "/artiklar/2025/09/sveriges-klimatbistand/",
         "published": "2025-09-30",
@@ -1770,6 +1662,7 @@
             "2097"
         ],
         "senders": [
+            "1291",
             "1295"
         ],
         "summary": "Klimatkrisen är global. Vi drabbas alla av klimatförändringar, oavsett var utsläppen sker. Därför ligger det i Sveriges intresse att bidra till den gröna omställningen och fossilfri energi världen över. Sveriges bidrag till finansieringen är en central del av den svenska klimatpolitiken.",
@@ -1786,12 +1679,22 @@
             {
                 "name": "Pressmeddelande: Gröna klimatfondens chef Mafalda Duarte besöker Sverige",
                 "url": "/pressmeddelanden/2025/09/grona-klimatfondens-chef-mafalda-duarte-besoker-sverige/"
+            },
+            {
+                "name": "Samlingssida: FN:s klimatförhandlingar",
+                "url": "/regeringens-politik/fns-klimatforhandlingar/"
+            },
+            {
+                "name": "Sverige deltar i flera internationella initiativ för klimatomställning",
+                "url": "/regeringens-politik/fns-klimatforhandlingar/sverige-deltar-i-flera-internationella-initiativ-for-klimatomstallning/"
             }
         ],
         "attachments": [],
         "categories": [
             "1215",
             "1252",
+            "2706",
+            "2800",
             "1013"
         ]
     },
@@ -1814,6 +1717,7 @@
         "categories": [
             "1239",
             "1279",
+            "2751",
             "1013"
         ]
     },
@@ -1880,7 +1784,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: En budget för hårt arbetande människor",
+                "name": "Pressmeddelande: En budget för hårt arbetande människorWebb-TV",
                 "url": "/pressmeddelanden/2025/09/en-budget-for-hart-arbetande-manniskor/"
             },
             {
@@ -2298,12 +2202,7 @@
         "summary": "Ändrade t.o.m. UF 2025:2 med ikraftträdande den 1 juli 2025.",
         "id": null,
         "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Regeringskansliets föreskrifter om var ansökningar om uppehålls- och arbetstillstånd ges in och utreds i vissa fall UF 2016:3 (pdf 155 kB)",
-                "url": "/contentassets/597a955e7ef044c89acdb70a7ccff23f/regeringskansliets-foreskrifter-om-var-ansokningar-om-uppehalls--och-arbetstillstand-ges-in-och-utreds-i-vissa-fall.pdf"
-            }
-        ],
+        "attachments": [],
         "categories": [
             "1249"
         ]
@@ -2327,6 +2226,7 @@
         "categories": [
             "1235",
             "1279",
+            "2734",
             "1013",
             "1187"
         ]
@@ -2385,26 +2285,6 @@
             "1220",
             "2684",
             "2671"
-        ]
-    },
-    {
-        "title": "Åtgärder för att bekämpa arbetslösheten",
-        "url": "/artiklar/2025/03/atgarder-for-att-bekampa-arbetslosheten/",
-        "published": "2025-03-14",
-        "updated": "2025-08-21",
-        "types": [
-            "2097"
-        ],
-        "senders": [
-            "1284"
-        ],
-        "summary": "Stora satsningar görs på tillväxt och konkurrenskraft för att fler ska komma i arbete men svensk ekonomi är fortsatt i en utdragen lågkonjunktur. En orolig omvärld håller fortsatt tillbaka den svenska ekonomin och bidrar till en ökad arbetslöshet. För att möta arbetslösheten bedriver regeringen en arbetsmarknadspolitik som bygger på en stärkt arbetslinje och utbildningslinje samt effektivare arbetsmarknadsåtgärder.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "1213",
-            "2669"
         ]
     },
     {
@@ -2677,7 +2557,6 @@
             "2097"
         ],
         "senders": [
-            "2607",
             "1292"
         ],
         "summary": "EU:s hälsoministrar möttes i Luxemburg den 20 juni för ett formellt ministerrådsmöte i det så kallade EPSCO-rådet. EPSCO-rådet behandlar bland annat frågor om hälso- och sjukvården. Ministrarna diskuterade ett nytt lagförslag om kritiska läkemedel och det omfattande läkemedelspaketet där rådet nyligen nått en kompromiss. Sjukvårdsminister Acko Ankarberg Johansson deltog vid mötet.",
@@ -2708,7 +2587,6 @@
             "2097"
         ],
         "senders": [
-            "2607",
             "1292"
         ],
         "summary": "Frågan om att införa internationella begränsningar för antalet barn som en enskild könscellsdonator kan ge upphov till diskuteras idag i flera länder. De etiska råden i Danmark, Norge, Sverige och Finland har gemensamt lyft frågan. Sverige arbetar aktivt både nationellt och internationellt för att hantera denna problematik.",
@@ -2797,6 +2675,7 @@
         "categories": [
             "1239",
             "1279",
+            "2751",
             "1013"
         ]
     },
@@ -2830,7 +2709,6 @@
             "2097"
         ],
         "senders": [
-            "2607",
             "1292"
         ],
         "summary": "Patientrådet – regeringens forum för dialog med patient- och anhörigorganisationer – möttes den 11 juni. Sjukvårdsministern Acko Ankarberg Johansson ledde mötet som samlade ett fyrtiotal organisationer.",
@@ -3107,7 +2985,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Åtgärder för unga som varken arbetar eller studerar\n",
+                "name": "Pressmeddelande: Åtgärder för unga som varken arbetar eller studerar",
                 "url": "/pressmeddelanden/2025/04/atgarder-for-unga-som-varken-arbetar-eller-studerar/"
             }
         ],
@@ -3135,7 +3013,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Statsministern tar emot Natos generalsekreterare\n",
+                "name": "Pressmeddelande: Statsministern tar emot Natos generalsekreterareWebb-TV",
                 "url": "/pressmeddelanden/2025/06/statsministern-tar-emot-natos-generalsekreterare/"
             }
         ],
@@ -3198,18 +3076,17 @@
             "2097"
         ],
         "senders": [
-            "2607",
             "1292"
         ],
         "summary": "Sjukvårdsminister Acko Ankarberg Johansson ledde en svensk delegation till Jakarta, Indonesien den 25 – 28 maj. Besöket sammanföll med att Sverige och Indonesien i år markerar 75 år av diplomatiska relationer – en milstolpe som understryker de långvariga och goda banden mellan länderna. Syftet med besöket var att bygga vidare på svenska handels- och investeringsrelationer med Indonesien och att stärka samarbetet kring hälsofrågor.",
         "id": null,
         "shortcuts": [
             {
-                "name": "Sveriges förbindelser i omvärlden: Indonesien\n",
+                "name": "Sveriges förbindelser i omvärlden: Indonesien",
                 "url": "/sveriges-regering/utrikesdepartementet/sveriges-forbindelser-med-omvarlden/asien-och-oceanien/indonesien/"
             },
             {
-                "name": "Sverige kraftsamlar för ökad global konkurrenskraft och utrikeshandel\n",
+                "name": "Sverige kraftsamlar för ökad global konkurrenskraft och utrikeshandel",
                 "url": "/regeringens-politik/sverige-kraftsamlar-for-okad-konkurrenskraft/"
             }
         ],
@@ -3225,7 +3102,7 @@
         ]
     },
     {
-        "title": "Kulturdepartementet och Riksantikvarieämbetet värd för konferens om återlämnandefrågor ",
+        "title": "Kulturdepartementet och Riksantikvarieämbetet värd för konferens om återlämnandefrågor",
         "url": "/artiklar/2025/06/kulturdepartementet-och-riksantikvarieambetet-vard-for-konferens-om-aterlamnandefragor/",
         "published": "2025-06-10",
         "updated": null,
@@ -3240,11 +3117,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Möjlighet att söka bidrag för återlämnandeprocesser\n",
+                "name": "Pressmeddelande: Möjlighet att söka bidrag för återlämnandeprocesser",
                 "url": "/pressmeddelanden/2024/12/mojlighet-att-soka-bidrag-for-aterlamnandeprocesser/"
             },
             {
-                "name": "Pressmeddelande: Uppsala universitet får återlämna kvarlevor till Lycksele Sameförening\n",
+                "name": "Pressmeddelande: Uppsala universitet får återlämna kvarlevor till Lycksele Sameförening",
                 "url": "/pressmeddelanden/2025/04/uppsala-universitet-far-aterlamna-kvarlevor-till-lycksele-sameforening/"
             }
         ],
@@ -3271,7 +3148,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Uppdrag för att underlätta teknikskiftet från gamla till nya mobilnät\n",
+                "name": "Uppdrag för att underlätta teknikskiftet från gamla till nya mobilnät",
                 "url": "/pressmeddelanden/2025/06/uppdrag-for-att-underlatta-teknikskiftet-fran-gamla-till-nya-mobilnat/"
             }
         ],
@@ -3314,7 +3191,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Totalförsvar\n",
+                "name": "Totalförsvar",
                 "url": "/regeringens-politik/totalforsvar/"
             }
         ],
@@ -3343,7 +3220,8 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1243"
+            "1243",
+            "2802"
         ]
     },
     {
@@ -3516,15 +3394,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Kulturminister Parisa Liljestrands inledningsanförande vid uppförandet av verket Den judiska sången\n",
+                "name": "Kulturminister Parisa Liljestrands inledningsanförande vid uppförandet av verket Den judiska sången",
                 "url": "/tal/2025/05/kulturminister-parisa-liljestrands-inledningsanforande-vid-uppforandet-av-verket-den-judiska-sangen/"
             },
             {
-                "name": "250 år av judiskt liv i Sverige firas 2025\n",
+                "name": "250 år av judiskt liv i Sverige firas 2025",
                 "url": "/regeringens-politik/samling-for-judiskt-liv/250-ar-av-judiskt-liv-i-sverige-firas-2025/"
             },
             {
-                "name": "Samling för judiskt liv\n",
+                "name": "Samling för judiskt liv",
                 "url": "/regeringens-politik/samling-for-judiskt-liv/"
             }
         ],
@@ -3589,14 +3467,13 @@
             "2097"
         ],
         "senders": [
-            "2622",
             "1284"
         ],
         "summary": "Den 1 oktober 2025 träder den nya lagen om arbetslöshetsförsäkring i kraft. Regeringen har nu beslutat om en ny proposition som innehåller några tillägg och förtydliganden. Exempelvis föreslås att deltagande i ett arbetsmarknadspolitiskt program som avser särskilda insatser för personer med funktionsnedsättning som medför nedsatt arbetsförmåga inte i sig ska utesluta rätt till arbetslöshetsersättning.",
         "id": null,
         "shortcuts": [
             {
-                "name": "Prop. 2024/25:162, Några tillägg och förtydliganden i den nya lagen om arbetslöshetsförsäkring\n",
+                "name": "Prop. 2024/25:162, Några tillägg och förtydliganden i den nya lagen om arbetslöshetsförsäkring",
                 "url": "/rattsliga-dokument/proposition/2025/05/prop.-202425162"
             }
         ],
@@ -3622,7 +3499,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Landsbygdsminister Peter Kullgren tar emot Ukrainas jordbruks- och livsmedelsminister Vitalii Koval\n",
+                "name": "Pressmeddelande: Landsbygdsminister Peter Kullgren tar emot Ukrainas jordbruks- och livsmedelsminister Vitalii Koval",
                 "url": "/pressmeddelanden/2025/05/landsbygdsminister-peter-kullgren-tar-emot-ukrainas-jordbruks--och-livsmedelsminister-vitalii-koval/"
             }
         ],
@@ -3647,21 +3524,22 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Svenska kraftnät får i uppdrag att göra en förnyad analys av Sveriges elområdesindelning\n",
+                "name": "Pressmeddelande: Svenska kraftnät får i uppdrag att göra en förnyad analys av Sveriges elområdesindelning",
                 "url": "/pressmeddelanden/2025/05/svenska-kraftnat-far-i-uppdrag-att-gora-en-fornyad-analys-av-sveriges-elomradesindelning/"
             },
             {
-                "name": "Pressmeddelande: Svenska kraftnät ska utvidga transmissionsnätet i norra Norrbottens län\n",
+                "name": "Pressmeddelande: Svenska kraftnät ska utvidga transmissionsnätet i norra Norrbottens län",
                 "url": "/pressmeddelanden/2025/05/svenska-kraftnat-ska-utvidga-tranmissionsnatet-i-norra-norrbottens-lan/"
             },
             {
-                "name": "Pressbilder från pressträff 15 maj om nyheter på elområdet.pdf\n",
+                "name": "Pressbilder från pressträff 15 maj om nyheter på elområdet.pdf",
                 "url": "/globalassets/regeringen/dokument/klimat--och-naringslivsdepartementet/ppt/presentationsbilder-fran-presstraff-den-15-maj-om-nyheter-pa-elomradet.pdf"
             }
         ],
         "attachments": [],
         "categories": [
-            "1226"
+            "1226",
+            "2777"
         ]
     },
     {
@@ -3680,15 +3558,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Frågor och svar om nya socialtjänstlagen\n",
+                "name": "Frågor och svar om nya socialtjänstlagen",
                 "url": "/regeringens-politik/socialtjanst/fragor-och-svar-om-nya-socialtjanstlagen/"
             },
             {
-                "name": "En förebyggande, lättillgänglig och kunskapsbaserad socialtjänst\n",
+                "name": "En förebyggande, lättillgänglig och kunskapsbaserad socialtjänst",
                 "url": "/regeringens-politik/socialtjanst/ny-socialtjanstlag/"
             },
             {
-                "name": "Prop. 2024/25:89 En förebyggande socialtjänstlag – för ökade rättigheter, skyldigheter och möjligheter\n",
+                "name": "Prop. 2024/25:89 En förebyggande socialtjänstlag – för ökade rättigheter, skyldigheter och möjligheter",
                 "url": "/rattsliga-dokument/proposition/2025/01/prop.-20242589?mtm_campaign=Proposition&mtm_source=Proposition&mtm_medium=email"
             }
         ],
@@ -3710,7 +3588,6 @@
             "2097"
         ],
         "senders": [
-            "2607",
             "2627",
             "1286",
             "1292"
@@ -3719,19 +3596,19 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Mer om Sjukvårdsövning 25 på Försvarsmaktens webbplats\n             - extern webbplats,\n",
+                "name": "Mer om Sjukvårdsövning 25 på Försvarsmaktens webbplats- extern webbplats,",
                 "url": "https://www.forsvarsmakten.se/sv/aktuellt/2025/05/sveriges-storsta-sjukvardsovning/"
             },
             {
-                "name": "Mer om totalförsvar\n",
+                "name": "Mer om totalförsvar",
                 "url": "/regeringens-politik/totalforsvar/"
             },
             {
-                "name": "Artikel: Vården ska fungera även i kris och krig\n",
+                "name": "Artikel: Vården ska fungera även i kris och krig",
                 "url": "/artiklar/2023/06/varden-ska-fungera-aven-i-kris-och-krig/"
             },
             {
-                "name": "Artikel: Svensk hälso- och sjukvård under ett Natomedlemskap\n",
+                "name": "Artikel: Svensk hälso- och sjukvård under ett Natomedlemskap",
                 "url": "/artiklar/2024/04/svensk-halso--och-sjukvard-under-ett-natomedlemskap/"
             }
         ],
@@ -3783,6 +3660,7 @@
         "attachments": [],
         "categories": [
             "1243",
+            "2802",
             "1012"
         ]
     },
@@ -3795,18 +3673,17 @@
             "2097"
         ],
         "senders": [
-            "2622",
             "1284"
         ],
         "summary": "Att se potentialen hos unga, vikten av det svenska språket och en uppmaning om att gå från ord till handling. Det var några av medskicken vid regeringens nationella konferens mot utanförskap den 14 maj – Kartlyftet.",
         "id": null,
         "shortcuts": [
             {
-                "name": "Arbete mot utanförskap\n",
+                "name": "Arbete mot utanförskap",
                 "url": "/regeringens-politik/arbete-mot-utanforskap/"
             },
             {
-                "name": "Pressmeddelande: Mats Persson värd för nationell konferens mot utanförskap\n",
+                "name": "Pressmeddelande: Mats Persson värd för nationell konferens mot utanförskap",
                 "url": "/pressmeddelanden/2025/05/mats-persson-vard-for-nationell-konferens-mot-utanforskap/"
             }
         ],
@@ -3853,7 +3730,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Tal av kulturministern vid utdelning av Per Anger-priset\n",
+                "name": "Tal av kulturministern vid utdelning av Per Anger-priset",
                 "url": "/tal/2025/05/tal-av-kulturministern-vid-utdelning-av-per-anger-priset/"
             }
         ],
@@ -3872,7 +3749,6 @@
             "2097"
         ],
         "senders": [
-            "2607",
             "1292"
         ],
         "summary": "Sjukvårdsminister Acko Ankarberg Johansson genomförde sitt artonde regionbesök och Region Östergötland och Linköping blev resans mål.",
@@ -3898,15 +3774,11 @@
         ],
         "summary": "Regeringen har nyligen beslutat om nya myndighetsinstruktioner för Styrelsen för internationellt utvecklingssamarbete (Sida) och Folke Bernadotteakademin (FBA). De nya instruktionerna är en del av regeringens arbete för att reformera och effektivisera svensk biståndspolitik.",
         "id": null,
-        "shortcuts": [
-            {
-                "name": "Bistånd för en ny era\n",
-                "url": "/regeringens-politik/internationellt-utvecklingssamarbete/bistand-for-en-ny-era/"
-            }
-        ],
+        "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1215"
+            "1215",
+            "2800"
         ]
     },
     {
@@ -3965,11 +3837,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Om Tekniska i Tensta på Tekniska museets webbplats\n             - extern webbplats,\n",
+                "name": "Om Tekniska i Tensta på Tekniska museets webbplats- extern webbplats,",
                 "url": "https://www.tekniskamuseet.se/tensta/"
             },
             {
-                "name": "Campus Tenstas webbplats\n             - extern webbplats,\n",
+                "name": "Campus Tenstas webbplats- extern webbplats,",
                 "url": "https://campus-tensta.hemso.se/"
             }
         ],
@@ -4017,7 +3889,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Försvarsinnovation\n",
+                "name": "Försvarsinnovation",
                 "url": "/regeringens-politik/forsvarsinnovation/"
             }
         ],
@@ -4036,11 +3908,9 @@
             "2097"
         ],
         "senders": [
-            "2607",
             "2609",
             "2610",
             "2611",
-            "2619",
             "2621",
             "2624",
             "2627",
@@ -4056,15 +3926,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Programmet för statsbesöket från Island 6–8 maj 2025\n",
+                "name": "Programmet för statsbesöket från Island 6–8 maj 2025",
                 "url": "/artiklar/2025/04/program-for-statsbesoket-fran-island/"
             },
             {
-                "name": "Pressmeddelande: Statsministern tar emot Islands president - Regeringen.se\n",
+                "name": "Pressmeddelande: Statsministern tar emot Islands president - Regeringen.se",
                 "url": "/pressmeddelanden/2025/05/statsministern-tar-emot-islands-president/"
             },
             {
-                "name": "Artikel: Statsministern tog emot Islands president\n",
+                "name": "Artikel: Statsministern tog emot Islands president",
                 "url": "/artiklar/2025/05/statsministern-tog-emot-islands-president/"
             }
         ],
@@ -4093,15 +3963,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "FN:s register över nationella klimatplaner (UNFCCC NDC Registry)\n             - extern webbplats,\n",
+                "name": "FN:s register över nationella klimatplaner (UNFCCC NDC Registry)- extern webbplats,",
                 "url": "https://unfccc.int/NDCREG"
             },
             {
-                "name": "Sweden – The Climate Matchmaker\n             - extern webbplats,\n",
+                "name": "Sweden – The Climate Matchmaker- extern webbplats,",
                 "url": "https://sharingsweden.se/materials/climate-matchmaker"
             },
             {
-                "name": "World Bank Country Climate and Development Reports (CCDRs)\n             - extern webbplats,\n",
+                "name": "World Bank Country Climate and Development Reports (CCDRs)- extern webbplats,",
                 "url": "https://openknowledge.worldbank.org/collections/5cd4b6f6-94bb-5996-b00c-58be279093de"
             }
         ],
@@ -4153,11 +4023,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Styrning och stöd för ett starkt totalförsvar\n",
+                "name": "Styrning och stöd för ett starkt totalförsvar",
                 "url": "/regeringens-politik/totalforsvar/styrning-och-stod-for-ett-starkt-totalforsvar/"
             },
             {
-                "name": "Uppdrag till MSB att utveckla metodstöd till kommunernas arbete med att stärka det civila försvaret\n",
+                "name": "Uppdrag till MSB att utveckla metodstöd till kommunernas arbete med att stärka det civila försvaret",
                 "url": "/regeringsuppdrag/2024/10/uppdrag-till-msb-att-utveckla-metodstod-till-kommunernas-arbete-med-att-starka-det-civila-forsvaret/"
             }
         ],
@@ -4184,11 +4054,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Statsministern tar emot Islands president\n",
+                "name": "Pressmeddelande: Statsministern tar emot Islands president",
                 "url": "/pressmeddelanden/2025/05/statsministern-tar-emot-islands-president/"
             },
             {
-                "name": "Programmet för statsbesöket från Island 6–8 maj 2025\n",
+                "name": "Programmet för statsbesöket från Island 6–8 maj 2025",
                 "url": "/artiklar/2025/04/program-for-statsbesoket-fran-island/"
             }
         ],
@@ -4219,7 +4089,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Tal: Statsminister Ulf Kristerssons tal vid högtidlighållande i Stockholms stora synagoga\n",
+                "name": "Tal: Statsminister Ulf Kristerssons tal vid högtidlighållande i Stockholms stora synagoga",
                 "url": "/tal/2025/05/statsminister-ulf-kristerssons-tal-vid-hogtidlighallande-i-stockholms-stora-synagoga/"
             }
         ],
@@ -4237,7 +4107,6 @@
             "2097"
         ],
         "senders": [
-            "2607",
             "1292"
         ],
         "summary": "Sjukvårdsminister Acko Ankarberg Johanssons regionturné besökte Region Uppsala i början av maj. På agendan stod bland annat Akademiska sjukhusets högspecialiserade vård inom brännskador.",
@@ -4251,7 +4120,7 @@
         ]
     },
     {
-        "title": "Utrikesminister Maria Malmer Stenergard besökte London ",
+        "title": "Utrikesminister Maria Malmer Stenergard besökte London",
         "url": "/artiklar/2025/05/utrikesminister-maria-malmer-stenergard-besokte-london/",
         "published": "2025-05-02",
         "updated": null,
@@ -4287,7 +4156,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: EU-ministern besökte studenter i Uppsala\n",
+                "name": "Pressmeddelande: EU-ministern besökte studenter i Uppsala",
                 "url": "/artiklar/2025/03/eu-ministern-besokte-studenter-i-uppsala/"
             }
         ],
@@ -4322,7 +4191,7 @@
         ]
     },
     {
-        "title": "Utrikesminister Maria Malmer Stenergard deltog i nordisk-baltiskt utrikesministermöte tillsammans med Frankrike, Tyskland och Polen ",
+        "title": "Utrikesminister Maria Malmer Stenergard deltog i nordisk-baltiskt utrikesministermöte tillsammans med Frankrike, Tyskland och Polen",
         "url": "/artiklar/2025/04/utrikesminister-maria-malmer-stenergard-deltar-i-nordisk-baltiskt-utrikesministermote-tillsammans-med-frankrike-tyskland-och-polen/",
         "published": "2025-04-29",
         "updated": null,
@@ -4350,12 +4219,10 @@
             "2097"
         ],
         "senders": [
-            "2607",
             "2609",
             "2610",
             "2611",
             "2616",
-            "2619",
             "2621",
             "2624",
             "2626",
@@ -4389,23 +4256,23 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "En förebyggande socialtjänstlag - för ökade rättigheter, skyldigheter och möjligheter\n",
+                "name": "En förebyggande socialtjänstlag - för ökade rättigheter, skyldigheter och möjligheter",
                 "url": "/rattsliga-dokument/lagradsremiss/2024/07/en-forebyggande-socialtjanstlag--for-okade-rattigheter-skyldigheter-och-mojligheter/"
             },
             {
-                "name": "För barn och unga i samhällsvård, SOU 2023:66\n",
+                "name": "För barn och unga i samhällsvård, SOU 2023:66",
                 "url": "/rattsliga-dokument/statens-offentliga-utredningar/2023/11/sou-202366/"
             },
             {
-                "name": "Regeringens åtgärder för den statliga barn- och ungdomsvården\n",
+                "name": "Regeringens åtgärder för den statliga barn- och ungdomsvården",
                 "url": "/regeringens-politik/socialtjanst/regeringens-atgarder-for-den-statliga-barn--och-ungdomsvarden/"
             },
             {
-                "name": "Regeringens åtgärder inom hem för vård eller boende (HVB) för barn och unga\n",
+                "name": "Regeringens åtgärder inom hem för vård eller boende (HVB) för barn och unga",
                 "url": "/regeringens-politik/socialtjanst/regeringens-atgarder-inom-hem-for-vard-eller-boende-hvb-for-barn-och-unga/"
             },
             {
-                "name": "Pressmeddelande: Regeringen tillsätter en nationell samordnare för den sociala barn- och ungdomsvården\n",
+                "name": "Pressmeddelande: Regeringen tillsätter en nationell samordnare för den sociala barn- och ungdomsvården",
                 "url": "/pressmeddelanden/2023/12/regeringen-tillsatter-en-nationell-samordnare-for-den-sociala-barn--och-ungdomsvarden/"
             }
         ],
@@ -4457,11 +4324,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Arbetsmiljön 2024 (av.se)\n             - extern webbplats,\n",
+                "name": "Arbetsmiljön 2024 (av.se)- extern webbplats,",
                 "url": "https://www.av.se/globalassets/filer/statistik/arbetsmiljon-2024/arbetsmiljon-2024-rapport.pdf"
             },
             {
-                "name": "Sverige om arbetsmiljö (mynak.se)\n             - extern webbplats,\n",
+                "name": "Sverige om arbetsmiljö (mynak.se)- extern webbplats,",
                 "url": "https://mynak.se/wp-content/uploads/2025/03/Sverige-om-arbetsmiljo.pdf"
             }
         ],
@@ -4510,11 +4377,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Statsministern tar emot Litauens premiärminister\n",
+                "name": "Pressmeddelande: Statsministern tar emot Litauens premiärminister",
                 "url": "/pressmeddelanden/2025/04/statsministern-tar-emot-litauens-premiarminister/"
             },
             {
-                "name": "Pressmeddelande: Avsiktsförklaring mellan Sverige och Litauen undertecknad\n",
+                "name": "Pressmeddelande: Avsiktsförklaring mellan Sverige och Litauen undertecknad",
                 "url": "/pressmeddelanden/2024/11/avsiktsforklaring-mellan-sverige-och-litauen-undertecknad/"
             }
         ],
@@ -4542,7 +4409,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Artikel: Nytt direktiv ska stärka principen om lika lön\n",
+                "name": "Artikel: Nytt direktiv ska stärka principen om lika lön",
                 "url": "/artiklar/2025/03/nytt-direktiv-ska-starka-principen-om-lika-lon/"
             }
         ],
@@ -4551,8 +4418,170 @@
             "2096",
             "1219",
             "1239",
+            "2804",
             "2212",
             "1012"
+        ]
+    },
+    {
+        "title": "Stort engagemang under regerings internationella kärnkraftskonferens",
+        "url": "/artiklar/2025/10/stort-engagemang-vid-regeringens-internationella-karnkraftskonferens/",
+        "published": "2025-10-15",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [],
+        "summary": "Den 7 oktober genomförde regeringen en internationell kärnkraftskonferens, Nordic-Baltic Nuclear Investment Summit. Energi- och näringsminister Ebba Busch var värd för mötet med Finlands klimat- och miljöminister Sari Multala som medarrangör. Mötet samlade sex ministrar och mer än 200 företagsrepresentanter från kärnkrafts- och finanssektorn från fyra kontinenter.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
+    },
+    {
+        "title": "Tigerbevarandeprojekt och bevarande av ekosystem i Asien",
+        "url": "/artiklar/2025/09/tigerbevarandeprojekt-och-bevarande-av-ekosystem-i-asien/",
+        "published": "2025-09-30",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Genom Globala miljöfonden (GEF) bidrar Sverige till tigerbevarandeprojekt och bevarande av ekosystem i Asien.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1215",
+            "1252",
+            "1013"
+        ]
+    },
+    {
+        "title": "Tryggad livsmedelsförsörjning och sysselsättning i Malawi",
+        "url": "/artiklar/2025/09/tryggad-livsmedelsforsorjning-och-sysselsattning-i-malawi/",
+        "published": "2025-09-30",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Genom Anpassningsfonden bidrar Sverige till ett projekt i Malawi som bidrar till klimatanpassning och tryggad livsmedelsförsörjning. Fonden arbetar även med ökad motståndskraft för klimatutsatta städer i Laos.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1215",
+            "1252",
+            "1013"
+        ]
+    },
+    {
+        "title": "Stöd till kvinnors företagande och klimatvänliga spisar i Kenya",
+        "url": "/artiklar/2025/09/stod-till-kvinnors-foretagande-och-klimatvanliga-spisar-i-kenya/",
+        "published": "2025-09-30",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Genom Gröna klimatfonden (GCF) bidrar Sverige till ett projekt i Kenya med fokus på kvinnors företagande och klimatvänliga spisar.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1215",
+            "1252",
+            "1013"
+        ]
+    },
+    {
+        "title": "Minskad miljöpåverkan från mode- och textilindustrin",
+        "url": "/artiklar/2025/09/minskad-miljopaverkan-fran-mode--och-textilindustrin/",
+        "published": "2025-09-30",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Genom Globala miljöfonden (GEF) bidrar Sverige till ett program som minskar miljöpåverkan från mode- och textilindustrin i bland annat Kambodja, Indien och Pakistan.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1215",
+            "1252",
+            "1013"
+        ]
+    },
+    {
+        "title": "Affärsutveckling i Bolivia stärker motståndskraften mot klimatförändringar",
+        "url": "/artiklar/2025/09/affarsutveckling-i-bolivia-starker-motstandskraften-mot-klimatforandringar/",
+        "published": "2025-09-30",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Genom Nordiska utvecklingsfonden (NDF) bidrar Sverige till ett projekt i Bolivia som bidrar till motståndskraft mot klimatförändringar.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1215",
+            "1252",
+            "1013"
+        ]
+    },
+    {
+        "title": "Klimatsmart jordbruk stärker skogarna på Madagaskar",
+        "url": "/artiklar/2025/09/klimatsmart-jordbruk-starker-skogarna-pa-madagaskar/",
+        "published": "2025-09-30",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Genom Gröna klimatfonden bidrar Sverige till ett projekt på Madagaskar för klimatsmart jordbruk och tryggad livsmedelsförsörjning.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1215",
+            "1252",
+            "1013"
+        ]
+    },
+    {
+        "title": "Åtgärder för att bekämpa arbetslösheten",
+        "url": "/artiklar/2025/03/atgarder-for-att-bekampa-arbetslosheten/",
+        "published": "2025-03-14",
+        "updated": "2025-08-21",
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "1284"
+        ],
+        "summary": "Stora satsningar görs på tillväxt och konkurrenskraft för att fler ska komma i arbete men svensk ekonomi är fortsatt i en utdragen lågkonjunktur. En orolig omvärld håller fortsatt tillbaka den svenska ekonomin och bidrar till en ökad arbetslöshet. För att möta arbetslösheten bedriver regeringen en arbetsmarknadspolitik som bygger på en stärkt arbetslinje och utbildningslinje samt effektivare arbetsmarknadsåtgärder.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1213",
+            "2669"
         ]
     },
     {

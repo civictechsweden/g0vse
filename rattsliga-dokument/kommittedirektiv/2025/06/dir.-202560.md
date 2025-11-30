@@ -1,4 +1,4 @@
-# Anslutning av fler statliga utbetalningar till Utbetalningsmyndighetens verksamhet
+# Anslutning av fler statliga utbetalningar till Utbetalningsmyndighetens verksamhetDir. 2025:60
 
 En särskild utredare ska ta ställning till vilka statliga utbetalningar som skulle kunna anslutas till Utbetalningsmyndighetens verksamhet utöver de som i dag omfattas samt om det bör vidtas andra åtgärder för att säkerställa korrekta statliga utbetalningar. Syftet är att stärka arbetet med att motverka felaktiga utbetalningar.
 

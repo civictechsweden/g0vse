@@ -1,4 +1,4 @@
-# Förtydligat ansvar för stöd till avhoppare och förstärkt kontroll av externa aktörer som bedriver avhopparverksamhet
+# Förtydligat ansvar för stöd till avhoppare och förstärkt kontroll av externa aktörer som bedriver avhopparverksamhetDir. 2025:53
 
 Regeringen uppdrar åt en särskild utredare att se över stödet till avhoppare från organiserad brottslighet. Meningen är att säkerställa att avhoppare får stöd och insatser som är ändamålsenliga och av god kvalitet samt att förhindra att offentliga medel går till oseriösa och kriminella aktörer.
 

@@ -1,4 +1,4 @@
-# En lag om public service och riktlinjer för verksamheten 2026–2033
+# En lag om public service och riktlinjer för verksamheten 2026–2033Prop. 2024/25:166
 
 Regeringen föreslår att bestämmelser om public service ska samlas i en ny lag − lagen om public service. I lagen ska det finnas bestämmelser om public service-uppdraget, finansieringen av uppdraget, granskningen av program samt vissa regler om att utse styrelseledamöter och verkställande direktör i public service-företag.
 

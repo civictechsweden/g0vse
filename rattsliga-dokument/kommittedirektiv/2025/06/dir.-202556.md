@@ -1,4 +1,4 @@
-# Nationell samordnare för arbetet med frivillig återvandring
+# Nationell samordnare för arbetet med frivillig återvandringDir. 2025:56
 
 En särskild utredare, som ska fungera som en nationell samordnare, ska sprida information och föra dialog med kommunerna om frivillig återvandring. Syftet med uppdraget är att stärka förutsättningarna för kommuner att erbjuda information och stöd till individer som önskar återvandra.
 

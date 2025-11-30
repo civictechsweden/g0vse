@@ -1,4 +1,4 @@
-# WHO lanserar omfattanderapport om ensamhet och social inkludering
+# WHO lanserar omfattande rapport om ensamhet och social inkludering
 
 – Varje människa som lider av ensamhet motiverar i sig att man betraktar frågan som ett samhällsproblem. I Sverige besväras nästan var femte person av ensamhet och isolering. Regeringen har lanserat en nationell strategi mot ensamhet och satsat nära en miljard för att öka gemenskapen i samhället. Att WHO genom kommissionens rapport nu uppmärksammar problemet och hur det kan mötas är viktigt för att världens länder, var och en och gemensamt, ska arbeta för att bryta ensamhet utvecklingen, säger socialminister Jakob Forssmed.
 

@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att genomföra en förstudie av Ukrainas behov inom äldreomsorgen och Sveriges förutsättningar att svara upp mot detta
+# Uppdrag till Socialstyrelsen att genomföra en förstudie av Ukrainas behov inom äldreomsorgen och Sveriges förutsättningar att svara upp mot dettaDiarienummer: S2025/01057 (delvis)
 
 I redovisningen av uppdraget ska Socialstyrelsen bedöma hur myndighetens egna förutsättningar att erbjuda Ukraina det stöd som identifierats ser ut. Där det bedöms relevant ska Socialstyrelsen även föreslå andra aktörer som kan erbjuda efterfrågat stöd.
 

@@ -1,4 +1,4 @@
-# Riksrevisionens rapport om tillfälliga anstånd med inbetalning av skatt
+# Riksrevisionens rapport om tillfälliga anstånd med inbetalning av skattSkr. 2024/25:184
 
 Riksrevisionen har granskat om tillfälliga anstånd med inbetalning av skatt har varit en effektiv åtgärd. Tillfälliga anstånd med inbetalning av skatt har använts som krisåtgärd både i samband med finanskrisen och under pandemin och åren som följde därefter. Åtgärden innebär att företag kan skjuta upp inbetalningen av vissa skatter för att senare betala in skatten med påförd ränta och avgift. Syftet har varit att underlätta för i grunden sunda och livskraftiga företag med tillfälliga likviditetsproblem.
 

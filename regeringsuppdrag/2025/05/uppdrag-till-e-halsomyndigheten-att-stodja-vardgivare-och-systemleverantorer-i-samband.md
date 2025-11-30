@@ -1,4 +1,4 @@
-# Uppdrag till E-hälsomyndigheten att stödja vårdgivare och systemleverantörer i samband med anslutningen till den nationella digitala infrastrukturen
+# Uppdrag till E-hälsomyndigheten att stödja vårdgivare och systemleverantörer i samband med anslutningen till den nationella digitala infrastrukturenDiarienummer:  S2025/00973
 
 Regeringen uppdrar åt E-hälsomyndigheten att stödja vårdgivare och systemleverantörer i samband med anslutningen till den nationella digitala infrastrukturen för hälso- och sjukvården.
 

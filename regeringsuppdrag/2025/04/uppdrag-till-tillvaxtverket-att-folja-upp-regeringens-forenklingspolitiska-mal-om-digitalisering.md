@@ -1,4 +1,4 @@
-# Uppdrag till Tillväxtverket att följa upp regeringens förenklingspolitiska mål om digitalisering
+# Uppdrag till Tillväxtverket att följa upp regeringens förenklingspolitiska mål om digitaliseringDiarienummer: KN2025/00951
 
 Regeringen ger Tillväxtverket i uppdrag att följa upp och redovisa hur regeringens förenklingspolitiska mål om digitalisering (skr. 2021/22:3) uppfylls över tid.
 

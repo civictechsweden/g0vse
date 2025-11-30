@@ -1,4 +1,4 @@
-# Höjd beloppsgräns vid avdrag för resor till och från arbetet
+# Höjd beloppsgräns vid avdrag för resor till och från arbetetFi2025/01065
 
 I promemorian föreslås att beloppsgränsen över vilken utgifter får dras av för arbetsresor, resor till och från utbildningsplatsen samt inställelseresor höjs från 11 000 till 13 000 kronor.
 

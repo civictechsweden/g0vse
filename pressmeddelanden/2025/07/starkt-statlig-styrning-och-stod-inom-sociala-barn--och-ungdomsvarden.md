@@ -22,6 +22,7 @@ Den utredning regeringen tillsätter ska lämna förslag på
 2. en stärkt individuell planering för barn och unga inom socialtjänsten.
 
 Utifrån en analys av hela vårdkedjan när det gäller placeringar av barn och unga utanför det egna hemmet ska utredaren föreslå hur en nationell stödfunktion för placeringar kan utformas och organiseras inom ramen för befintlig myndighetsstruktur. En nationell stödfunktion skulle kunna underlätta en långsiktig placering utifrån barn och ungas individuella vårdbehov.
+
 Många barn och unga upplever att det saknas en sammanhållen plan för deras vård, och att förändringar i vården har skett utan deras delaktighet. Regeringen anser även att det brottsförebyggande syftet med socialtjänstens insatser tydligare bör framgå av planeringen. En stärkt individuell planering för barn och unga inom socialtjänsten ska därför utredas som säkerställer att barns och ungas behov inte faller mellan stolarna.
 
-Stödfunktion ska redovisas 16 oktober 2026.
+Utredningen ska redovisas 16 oktober 2026.

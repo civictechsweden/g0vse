@@ -1,4 +1,4 @@
-# Försvarsindustristrategi för ett starkare Sverige – innovation, produktion och samarbete
+# Försvarsindustristrategi för ett starkare Sverige – innovation, produktion och samarbeteSkr. 2024/25:193
 
 Regeringen har tagit fram en försvarsindustristrategi. I strategin redogör regeringen för inriktningen av arbetet för att stärka Sveriges försvarsindustriella bas genom främjandet av en innovativ och konkurrenskraftig försvarsindustri med hög produktionskapacitet.
 

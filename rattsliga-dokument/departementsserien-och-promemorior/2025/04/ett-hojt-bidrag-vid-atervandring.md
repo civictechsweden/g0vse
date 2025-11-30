@@ -1,4 +1,4 @@
-# Ett höjt bidrag vid återvandring
+# Ett höjt bidrag vid återvandringJu2025/00949
 
 Sedan 1984 har den som har uppehållstillstånd i Sverige, bl.a. som flykting eller alternativt skyddsbehövande, kunnat få ett ekonomiskt bidrag om han eller hon vill lämna Sverige och flytta till sitt hemland eller till ett annat land.
 

@@ -1,4 +1,4 @@
-# En ny och tydligare reglering av bedömning av överenstämmelse med krav för verksamheter med joniserande strålning
+# En ny och tydligare reglering av bedömning av överenstämmelse med krav för verksamheter med joniserande strålningKN2025/00916
 
 I denna promemoria lämnas förslag i syfte att skapa en ny och tydligare reglering av provning, kalibrering, kontroll, certifiering, kvalificering, besiktning och verifiering (bedömning av överensstämmelse) för verksamheter med joniserande strålning.
 

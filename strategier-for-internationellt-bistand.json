@@ -18,7 +18,16 @@
                 "url": "/pressmeddelanden/2025/09/sverige-anpassar-bistandet-till-syrien-for-att-stodja-ateruppbyggnad-och-atervandande/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Sveriges regionala strategi för Syrienkrisen 2024-2027 (pdf 187 kB)",
+                "url": "/contentassets/6cf9559d63d84360a8539536c818a729/sveriges-regionala-strategi-for-syrienkrisen-2024-20272.pdf"
+            },
+            {
+                "name": "In English: Sweden's Regional Strategy for the Syria crisis 2024-2027 (pdf 166 kB)",
+                "url": "/contentassets/6cf9559d63d84360a8539536c818a729/in-english-swedens-regional-strategy-for-the-syria-crisis-2024-2027.pdf"
+            }
+        ],
         "categories": [
             "1215",
             "1013",
@@ -67,16 +76,11 @@
         "id": "Diarienummer: UD2025/08224",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ny strategi för humanitärt bistånd\n",
+                "name": "Pressmeddelande: Ny strategi för humanitärt bistånd",
                 "url": "/pressmeddelanden/2025/06/ny-strategi-for-humanitart-bistand/"
             }
         ],
-        "attachments": [
-            {
-                "name": "Ny Strategi för Humanitärt Bistånd 2025-2029 (pdf 144 kB)",
-                "url": "/contentassets/352eb6bd7c654c08af2a63ee91409e65/ny-strategi-for-humanitart-bistand-2025-2029.pdf"
-            }
-        ],
+        "attachments": [],
         "categories": [
             "1215"
         ]
@@ -96,16 +100,11 @@
         "id": "Diarienummer: UD2025/07817",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen beslutar om en ny Jämställdhetsstrategi för biståndet\n",
+                "name": "Pressmeddelande: Regeringen beslutar om en ny Jämställdhetsstrategi för biståndet",
                 "url": "/pressmeddelanden/2025/06/regeringen-beslutar-om-en-ny-jamstalldhetsstrategi-for-bistandet/"
             }
         ],
-        "attachments": [
-            {
-                "name": "Strategi för jämställdhet kvinnors och flickors frihet och egenmakt 2025-2028 (pdf 162 kB)",
-                "url": "/contentassets/d5a38d9cb5534b769f171edad97265d6/strategi-for-jamstalldhet-kvinnors-och-flickors-frihet-och-egenmakt-2025-2028.pdf"
-            }
-        ],
+        "attachments": [],
         "categories": [
             "1215",
             "1239",
@@ -126,15 +125,11 @@
         "summary": "Den 19 december 2024 fattade Regeringen beslut om ett särskilt ”Uppdrag om genomförande och uppföljning av landstrategier och andra strategier inom biståndet”. Detta uppdrag gavs till Styrelsen för internationellt utvecklingssamarbete (Sida), Folke Bernadotteakademin (FBA) och Svenska Institutet (SI) för att öka transparensen, främja kvaliteten och stärka effektiviteten i det svenska strategistyrda biståndet.",
         "id": null,
         "shortcuts": [],
-        "attachments": [
-            {
-                "name": "UD2024-17865 - Uppdrag om genomförande och uppföljning av landstrategier och andra strategier inom biståndet (pdf 4 MB)",
-                "url": "/contentassets/e9f20f643f4c459596b1f8f69bf13c38/ud2024-17865---uppdrag-om-genomforande-och-uppfoljning-av-landstrategier-och-andra-strategier-inom-bistandet.pdf"
-            }
-        ],
+        "attachments": [],
         "categories": [
             "1215",
             "1279",
+            "2800",
             "1013"
         ]
     },

@@ -1,4 +1,4 @@
-# Uppdrag till Affärsverket svenska kraftnät att analysera förutsättningarna för att ändra den svenska elområdesindelningen
+# Uppdrag till Affärsverket svenska kraftnät att analysera förutsättningarna för att ändra den svenska elområdesindelningenDiarienummer: KN2025/01072
 
 Regeringen ger Affärsverket svenska kraftnät (Svenska kraftnät) i uppdrag att analysera förutsättningarna för att ändra den nuvarande svenska elområdesindelningen.
 

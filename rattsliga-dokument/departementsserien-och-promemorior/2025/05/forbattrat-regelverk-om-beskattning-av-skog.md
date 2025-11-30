@@ -1,4 +1,4 @@
-# Förbättrat regelverk om beskattning av skog
+# Förbättrat regelverk om beskattning av skogFi2025/01066
 
 Denna promemoria innehåller ett antal förslag som syftar till att förenkla och förbättra skattereglerna som rör skog med mera, öka incitamenten till formell naturvårdsavsättning, anpassa skatteregler till EU-rätten och underlätta möjligheten till kontroll av vissa skattemässiga justeringar kopplade till skog med mera.
 

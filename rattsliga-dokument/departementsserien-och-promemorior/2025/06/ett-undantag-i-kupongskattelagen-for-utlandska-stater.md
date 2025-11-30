@@ -1,4 +1,4 @@
-# Ett undantag i kupongskattelagen för utländska stater
+# Ett undantag i kupongskattelagen för utländska staterFi2025/01319
 
 I promemorian föreslås att utländska stater och utländska motsvarigheter till en svensk region, kommun eller ett kommunalförbund ska undantas från skyldighet att betala kupongskatt på utdelning som lämnas av svenska aktiebolag, europabolag med säte i Sverige samt värdepappersfonder och specialfonder.
 

@@ -1,4 +1,4 @@
-# Effektivare åtgärder mot välfärdsbrott och ökad förutsebarhet inom personlig assistans
+# Effektivare åtgärder mot välfärdsbrott och ökad förutsebarhet inom personlig assistansDir. 2025:40
 
 En särskild utredare ska lämna förslag på åtgärder som gör den personliga assistansen mer motståndskraftig mot välfärdsbrottslighet och mer förutsägbar för den assistansberättigade, samt ger ökade möjligheter att säkerställa att den assistansberättigade får sina behov tillgodosedda. Syftet är att värna den personliga assistansens långsiktiga hållbarhet och legitimitet.
 

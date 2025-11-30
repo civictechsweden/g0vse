@@ -1,5 +1,5 @@
-# Remiss av Statskontorets rapport Hund under kontroll - förslag för att stärka myndigheternas verksamhet enligt tillsynslagen och viss verksamhet enligt djurskyddslagen (2024:3) och promemorian Komplettering till Statskontorets rapport Hund under kontroll
+# Remiss av Statskontorets rapport Hund under kontroll - förslag för att stärka myndigheternas verksamhet enligt tillsynslagen och viss verksamhet enligt djurskyddslagen (2024:3) och promemorian Komplettering till Statskontorets rapport Hund under kontrollDiarienummer: LI2024/01332
 
-Här kan du ta del av till vilka instanser som regeringen har remitterat Statskontorets rapport Hund under kontroll - förslag för att stärka myndigheternas verksamhet enligt tillsynslagen och viss verksamhet enligt djurskyddslagen (2024:3) och promemorian Komplettering till Statskontorets rapport Hund under kontroll.
+Här kan du ta del av till vilka instanser som regeringen har remitterat Statskontorets rapport Hund under kontroll - förslag för att stärka myndigheternas verksamhet enligt tillsynslagen och viss verksamhet enligt djurskyddslagen (2024:3) och promemorian Komplettering till Statskontorets rapport Hund under kontroll. Övriga yttranden finns tillgängliga i departementet.
 
-Remissvaren ska ha kommit in till Landsbygds- och infrastrukturdepartementet senast den 17 oktober 2024.
+Här kan du ta del av svaren från dem som ombetts att svara på remissen Statskontorets rapport Hund under kontroll - förslag för att stärka myndigheternas verksamhet enligt tillsynslagen och viss verksamhet enligt djurskyddslagen (2024:3) och promemorian Komplettering till Statskontorets rapport Hund under kontroll. Övriga yttranden finns tillgängliga i departementet.

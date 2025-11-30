@@ -10,6 +10,6 @@ Nato enades under toppmötet om ett nytt försvarsutgiftsmål om 5 %. Beslutet i
 
 Vid toppmötet antogs en deklaration som understryker de allierades orubbliga stöd för Natos kollektiva försvar och artikel 5, samt att alliansen står enad inför det långsiktiga hotet som Ryssland utgör. Vidare framhölls beslutet om ett nytt 5-procentsmål för försvarsinvesteringar, målsättningen att öka det försvarsindustriella samarbetet och allierades långsiktiga stöd till Ukraina.
 
-[Länk till toppmötets deklaration (Natos webbplats) - extern webbplats,](https://www.nato.int/cps/en/natohq/official_texts_236705.htm)
+[Länk till toppmötets deklaration](/overenskommelser-och-avtal/2025/07/natodeklaration-fran-toppmotet-i-haag-7.7-2025)
 
 Hör statsminister Ulf Kristersson, utrikesminister Maria Malmer Stenergard och försvarsminister Pål Jonson berätta mer om mötet under en pressträff från Haag.

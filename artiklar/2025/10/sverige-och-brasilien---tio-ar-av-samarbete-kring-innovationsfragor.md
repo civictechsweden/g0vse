@@ -8,7 +8,7 @@ Statssekreterare Sara Modig tog emot en brasiliansk delegation ledd av Daniel Al
 
 - För ett decennium sedan var samarbetet inom flyg och innovation en målsättning mellan länderna. Idag har det utvecklats till konkreta resultat i form av gemensamma projekt som stärker ländernas innovationsekosystem, industriella konkurrenskraft, försvarsförmåga och säkerhet. Samarbetet möjliggör detta genom att skapa ömsesidigt givande FoI-samarbeten som möjliggör excellens, industriell tillämpning och innovativt tänkande, säger Sara Modig, statssekreterare hos energi- och näringsminister Ebba Busch.
 
-Samarbetets hörnstenar är forsknings- och utvecklingsprojekt inom flygteknik och AI. Det fördjupade samarbetet inom flygteknik som sker inom ramen för  högnivågruppen (High Level Group) är en naturlig fortsättning på Brasiliens investering i JAS39 Gripen från 2014.
+Samarbetets hörnstenar är forsknings- och utvecklingsprojekt inom flygteknik och AI. Det fördjupade samarbetet inom flygteknik som sker inom ramen för  högnivågruppen (High-Level Group) är en naturlig fortsättning på Brasiliens investering i JAS39 Gripen från 2014.
 
 - Tillsammans skapar, opererar och vidareutvecklar vi ett gemensamt flygsystem – ett samarbete som bygger på ömsesidigt förtroende och långsiktig ambition. Det är därför logiskt att vi också driver teknikutvecklingen framåt, både inom det civila och militära området. För oss handlar det inte enbart om att utveckla ett avancerat stridsflygplan, utan om att bygga spetskompetens, främja innovation, skapa broar mellan våra länder och bidra till att hålla våra samhällen säkra – nu och i framtiden, säger Peter Sandwall, statssekreterare hos försvarsminister Pål Jonson.
 

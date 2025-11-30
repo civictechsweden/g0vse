@@ -1,4 +1,4 @@
-# Uppdrag att till Europeiska kommissionen överlämna en begäran om ändring av Sveriges strategiska plan för den gemensamma jordbrukspolitiken 2023–2027
+# Uppdrag att till Europeiska kommissionen överlämna en begäran om ändring av Sveriges strategiska plan för den gemensamma jordbrukspolitiken 2023–2027Diarienummer: LI2023/03605, LI2024/01759, LI2024/02274
 
 Regeringen ger Statens jordbruksverk i uppdrag att till Europeiska kommissionen (EU-kommissionen) överlämna begäran om ändring av Sveriges strategiska plan för den gemensamma jordbrukspolitiken 2023–2027 (den strategiska planen), under förutsättning att begäran om ändring i huvudsak stämmer överens med bilaga 2.
 

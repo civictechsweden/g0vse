@@ -1,4 +1,4 @@
-# Uppdrag att fortsätta samordna det nationella arbetet med att genomföra den nya HTA-förordningen
+# Uppdrag att fortsätta samordna det nationella arbetet med att genomföra den nya HTA-förordningenDiarienummer:  S2025/00938
 
 Regeringen uppdrar åt Statens beredning för medicinsk och social utvärdering och Tandvårds- och läkemedelsförmånsverket att fortsätta arbetet med att samordna genomförandet av den så kallade HTA-förordningen.
 

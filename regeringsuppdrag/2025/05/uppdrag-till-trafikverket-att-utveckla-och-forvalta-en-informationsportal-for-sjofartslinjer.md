@@ -1,4 +1,4 @@
-# Uppdrag till Trafikverket att utveckla och förvalta en informationsportal för sjöfartslinjer
+# Uppdrag till Trafikverket att utveckla och förvalta en informationsportal för sjöfartslinjerDiarienummer: LI2025/01096
 
 Regeringen ger Trafikverket i uppdrag att utveckla och förvalta en informationsportal för sjöfartslinjer. Trafikverket ska vid genomförandet av uppdraget utgå från det förslag som redovisats i myndighetens rapport En informationsportal för ökad sjöfart (LI2025/00091).
 

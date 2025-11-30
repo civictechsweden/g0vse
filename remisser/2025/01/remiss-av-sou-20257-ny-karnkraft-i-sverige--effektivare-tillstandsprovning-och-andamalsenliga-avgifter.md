@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:7 Ny kärnkraft i Sverige – effektivare tillståndsprövning och ändamålsenliga avgifter
+# Remiss av SOU 2025:7 Ny kärnkraft i Sverige – effektivare tillståndsprövning och ändamålsenliga avgifterDiarienummer: KN2024/01912
 
 Här kan du ta del av de remissvar som kommit in till Klimat- och näringslivsdepartementet på SOU 2025:7 Ny kärnkraft i Sverige – effektivare tillståndsprövning och ändamålsenliga avgifter.
 

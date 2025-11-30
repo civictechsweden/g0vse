@@ -1,4 +1,4 @@
-# Uppdrag till Havs- och vattenmyndigheten att se över HARO-värdena samt utarbeta vägledning för hur intresset av en nationell effektiv tillgång till vattenkraftsel ska beaktas inom ramen för vattenförvaltningsarbetet
+# Uppdrag till Havs- och vattenmyndigheten att se över HARO-värdena samt utarbeta vägledning för hur intresset av en nationell effektiv tillgång till vattenkraftsel ska beaktas inom ramen för vattenförvaltningsarbetetDiarienummer: KN2023/01638, KN2023/01690, KN2023/01705
 
 Regeringen ger Havs- och vattenmyndigheten i uppdrag att tillsammans med Affärsverket svenska kraftnät och Statens energimyndighet se över de huvudavrinningsområdesvisa riktvärdena för förlust av medelårsproduktion uttryckta i terawattimmar, de så kallade HARO-värdena, som anges i den nationella planen för moderna miljövillkor.
 

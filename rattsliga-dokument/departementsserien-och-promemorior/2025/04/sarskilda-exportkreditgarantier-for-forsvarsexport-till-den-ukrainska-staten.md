@@ -1,4 +1,4 @@
-# Särskilda exportkreditgarantier för försvarsexport till den ukrainska staten
+# Särskilda exportkreditgarantier för försvarsexport till den ukrainska statenFö2025/00707
 
 I denna promemoria föreslås ett nytt svenskt exportstöd genom en ny förordning om särskilda exportkreditgarantier för försvarsexport till den ukrainska staten. Det nya regelverket ska möjliggöra garantigivning för försvarsexportaffärer under nuvarande omständigheter.
 

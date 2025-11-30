@@ -1,4 +1,4 @@
-# Straff för överträdelser av EU:s nya förordningar om f-gaser och ozonnedbrytande ämnen
+# Straff för överträdelser av EU:s nya förordningar om f-gaser och ozonnedbrytande ämnenKN2025/01274
 
 I lagrådsremissen föreslås ändringar i miljöbalkens straffbestämmelser som syftar till att komplettera EU:s nya förordningar om fluorerade växthusgaser och ozonnedbrytande ämnen.
 

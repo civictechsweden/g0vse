@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att stödja implementeringen och uppföljningen av de nya nationella riktlinjerna för palliativ vård
+# Uppdrag till Socialstyrelsen att stödja implementeringen och uppföljningen av de nya nationella riktlinjerna för palliativ vårdDiarienummer:  S2025/00978
 
 Regeringen uppdrar åt Socialstyrelsen att stödja genomförandet och uppföljningen av de nya riktlinjerna för palliativ vård.
 

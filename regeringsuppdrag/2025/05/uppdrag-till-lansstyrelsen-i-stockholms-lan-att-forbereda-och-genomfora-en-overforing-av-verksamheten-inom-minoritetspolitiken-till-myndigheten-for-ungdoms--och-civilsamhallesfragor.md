@@ -1,4 +1,4 @@
-# Uppdrag till Länsstyrelsen i Stockholms län att förbereda och genomföra en överföring av verksamheten inom minoritetspolitiken till Myndigheten för ungdoms- och civilsamhällesfrågor
+# Uppdrag till Länsstyrelsen i Stockholms län att förbereda och genomföra en överföring av verksamheten inom minoritetspolitiken till Myndigheten för ungdoms- och civilsamhällesfrågorDiarienummer: Ku2025/00625
 
 Regeringen ger Länsstyrelsen i Stockholms län (länsstyrelsen) i uppdrag att förbereda och genomföra en överföring till Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF) av den verksamhet som länsstyrelsen ansvarar för inom minoritetspolitiken. Verksamheten ska vara överförd den 1 januari 2026.
 

@@ -1,4 +1,4 @@
-# Remiss av promemorian Uppgiftsskyldighet för vissa stödåtgärder
+# Remiss av promemorian Uppgiftsskyldighet för vissa stödåtgärderDiarienummer: KN2025/00011
 
 Här kan du ta del av de remissvar som kommit in till Klimat- och näringslivsdepartementet av promemorian Uppgiftsskyldighet för vissa stödåtgärder.
 

@@ -1,4 +1,4 @@
-# Uppdrag till Finansinspektionen att kartlägga avgiftsuttag på den svenska fondmarknaden
+# Uppdrag till Finansinspektionen att kartlägga avgiftsuttag på den svenska fondmarknadenDiarienummer: Fi2025/01139
 
 Regeringen ger Finansinspektionen i uppdrag att kartlägga och beskriva distribution och avgiftsuttag på den svenska fondmarknaden, samt föreslå andra åtgärder än konsumentupplysning för att uppmärksamma konsumenter på fondavgifter och synliggöra kostnaderna. Syftet med uppdraget är att skapa förutsättningar för sänkta avgifter för fondsparande, så att spararna över tid kan få en bättre avkastning på sitt sparande.
 

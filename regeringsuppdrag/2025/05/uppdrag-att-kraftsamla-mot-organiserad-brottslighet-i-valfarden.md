@@ -1,4 +1,4 @@
-# Uppdrag att kraftsamla mot organiserad brottslighet i välfärden
+# Uppdrag att kraftsamla mot organiserad brottslighet i välfärdenDiarienummer: S2025/01085
 
 Regeringen ger Arbetsförmedlingen, Bolagsverket, Ekobrottsmyndigheten, Försäkringskassan, Inspektionen för vård och omsorg (IVO), Pensionsmyndigheten, Polismyndigheten och Skatteverket i uppdrag att gemensamt kraftsamla mot organiserad brottslighet och den kriminella ekonomin i välfärden.
 

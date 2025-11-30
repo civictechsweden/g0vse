@@ -1,4 +1,4 @@
-# Kreditgarantier för lån till anordnande av nya bostäder i etablerings- och omställningskommuner
+# Kreditgarantier för lån till anordnande av nya bostäder i etablerings- och omställningskommunerLI2025/01122
 
 I denna promemoria utvecklas förslaget om en ny statlig kreditgaranti. Förslaget har subventionsinslag och kommer att anmälas till Europeiska kommissionen för godkännande i enlighet med statsstödsreglerna.
 

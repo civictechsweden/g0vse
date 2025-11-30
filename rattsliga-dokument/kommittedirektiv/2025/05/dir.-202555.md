@@ -1,4 +1,4 @@
-# Statens framtida roll som ägare och förvaltare av flygplatser samt Bromma flygplats funktion
+# Statens framtida roll som ägare och förvaltare av flygplatser samt Bromma flygplats funktionDir. 2025:55
 
 Det minskade inrikesresandet med flyg har påverkat Swedavia AB:s (Swedavia) ekonomiska förutsättningar. Därutöver har totalförsvarets behov av flygplatser ändrats med anledning av det försämrade omvärldsläget och Natointrädet. En särskild utredare ges därför i uppdrag att utreda och utvärdera såväl statens roll som ägare och förvaltare av flygplatser som det nuvarande nationella basutbudet av flygplatser. Till följd av att Bromma flygplats har tappat en majoritet av sin trafik så har en mängd frågeställningar aktualiserats som är kopplade till flygplatsens funktion. Utredaren ges i uppdrag att analysera frågeställningarna och lämna förslag till åtgärder.
 

@@ -1,6 +1,6 @@
 # Gemensamt uttalande om de ockuperade palestinska områdena
 
-Gemensamt uttalande från 29 internationella partner om de ockuperade palestinska områdena.
+Gemensamt uttalande från 31 internationella partner om de ockuperade palestinska områdena.
 
 Vi som undertecknat detta uttalande har tillsammans ett enkelt och angeläget budskap: kriget i Gaza måste få ett slut nu.
 

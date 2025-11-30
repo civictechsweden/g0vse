@@ -1,4 +1,4 @@
-# Tilläggsdirektiv till Kommittén Accelerationskontor för att underlätta industrins omställning (KN 2024:05)
+# Tilläggsdirektiv till Kommittén Accelerationskontor för att underlätta industrins omställning (KN 2024:05)Dir. 2025:58
 
 Ändring i uppdraget.
 

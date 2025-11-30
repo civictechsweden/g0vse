@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att ta fram ett digitalt nationellt kunskapsstöd för hälso- och sjukvårdens arbete med assisterad befruktning
+# Uppdrag till Socialstyrelsen att ta fram ett digitalt nationellt kunskapsstöd för hälso- och sjukvårdens arbete med assisterad befruktningDiarienummer: S2025/01037
 
 Regeringen uppdrar åt Socialstyrelsen att ta fram ett digitalt nationellt kunskapsstöd för hälso- och sjukvårdens arbete med assisterad befruktning. Kunskapsstödet ska vara lättillgängligt och praktiskt användbart i klinisk verksamhet, i huvudsak vara riktat till professionen men ska också innehålla information till patienter.
 

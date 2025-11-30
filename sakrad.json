@@ -13,7 +13,16 @@
         "summary": "Den 14 oktober bjöd Regeringskansliet in berörda civilsamhällesorganisationer till ett sakråd med anledning av Sveriges kommande rapportering till FN:s kommitté mot tortyr (CAT). Sakrådet syftade till att ge civilsamhället möjlighet att lämna synpunkter inför rapporten.",
         "id": "Diarienummer: Ju2025/02030",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Inbjudan sakråd om rapportering till FNs kommitté mot tortyr (pdf 139 kB)",
+                "url": "/contentassets/44e7e9b66c1c4a40abe1fbfeceeb27bf/inbjudan-sakrad-om-rapportering-till-fns-kommitte-mot-tortyr.pdf"
+            },
+            {
+                "name": "Minnesanteckningar sakråd FN:s kommitté mot tortyr (CAT) den 14 oktober 2025 (pdf 85 kB)",
+                "url": "/contentassets/44e7e9b66c1c4a40abe1fbfeceeb27bf/minnesanteckningar-sakrad-cat-20251014_webb.pdf"
+            }
+        ],
         "categories": [
             "1219"
         ]
@@ -34,8 +43,8 @@
         "shortcuts": [],
         "attachments": [
             {
-                "name": "Inbjudan till sakråd inför dialog med FN:s rasdiskrimineringskommitté (CERD) och om regeringens handlingsplan mot rasism och hatbrott (pdf 132 kB)",
-                "url": "/contentassets/e04a55a46e124ee692388ff4576e2bd9/inbjudan-till-sakrad-22-maj-slutlig.pdf"
+                "name": "Inbjudan till sakråd inför dialog med FN:s rasdiskrimineringskommitté (CERD) och om regeringens handlingsplan mot rasism och hatbrott (pdf 178 kB)",
+                "url": "/contentassets/e04a55a46e124ee692388ff4576e2bd9/inbjudan-sakrad-22-maj.pdf"
             },
             {
                 "name": "Minnesanteckningar från sakråd den 22 maj 2025 inför dialog med FN:s rasdiskrimineringskommitté (CERD) och om regeringens handlingsplan mot rasism och hatbrott (pdf 115 kB)",
@@ -56,7 +65,6 @@
             "2367"
         ],
         "senders": [
-            "2622",
             "1284"
         ],
         "summary": "Den 3 juni 2025 bjöd arbetsmarknads- och integrationsminister Mats Persson in ett 30-tal civilsamhällesorganisationer till samråd med temat Språkstärkande insatser för ökat deltagande i arbets-och samhällslivet.",

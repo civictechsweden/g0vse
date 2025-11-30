@@ -8,4 +8,4 @@ Sveriges Riksidrottsförbund och Svenskt Friluftsliv tilldelas därför 25 respe
 
 Regeringen ger också Statens kulturråd ett uppdrag att bidra till att stärka kapaciteten i kulturskoleverksamhet som tillhandahålls av kommuner. För uppdraget får Statens kulturråd använda 31 miljoner kronor.
 
-Därtill får MUCF ett uppdrag att fördela medel till barn- och ungdomsorganisationer som har beviljats organisationsbidrag för bidragsåret 2024 enligt förordningen (2011:65) om statsbidrag till barn- och ungdomsorganisationer. För uppdraget får MUCF använda 21 miljoner kronor.
+Därtill får MUCF ett uppdrag att fördela medel till barn- och ungdomsorganisationer som har beviljats organisationsbidrag för bidragsåret 2025 enligt förordningen (2011:65) om statsbidrag till barn- och ungdomsorganisationer. För uppdraget får MUCF använda 21 miljoner kronor.

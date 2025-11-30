@@ -1,4 +1,4 @@
-# Uppdrag till Trafikverket att redogöra för behovet av bärighetshöjande åtgärder i det icke-statliga vägnätet för att uppnå sammanhängande godsstråk
+# Uppdrag till Trafikverket att redogöra för behovet av bärighetshöjande åtgärder i det icke-statliga vägnätet för att uppnå sammanhängande godsstråkDiarienummer: LI2025/00936
 
 Regeringen ger Trafikverket i uppdrag att identifiera och redogöra för behov av bärighetshöjande åtgärder i det icke-statliga allmänna vägnätet.
 

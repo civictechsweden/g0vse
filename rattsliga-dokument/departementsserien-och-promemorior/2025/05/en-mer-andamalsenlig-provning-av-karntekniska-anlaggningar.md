@@ -1,4 +1,4 @@
-# En mer ändamålsenlig prövning av kärntekniska anläggningar
+# En mer ändamålsenlig prövning av kärntekniska anläggningarKN2024/01912
 
 Kärnkraftsprövningsutredningens förslag (SOU 2025:7) till ny lag om principbeslut för kärntekniska anläggningar har omarbetats med anledning av inkomna remissynpunkter.
 

@@ -19,7 +19,12 @@
                 "url": "/pressmeddelanden/2025/11/atgarder-for-att-oka-tryggheten-i-och-kring-bostadsratter/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "DS 2025 28 Stärkt trygghet i bostadsrätter (pdf 1 MB)",
+                "url": "/contentassets/99119d134a60411d8a007ee0c039a052/ds-2025-28-starkt-trygghet-i-bostadsratter.pdf"
+            }
+        ],
         "categories": [
             "1217",
             "1263"
@@ -45,7 +50,12 @@
                 "url": "/pressmeddelanden/2025/11/nya-forslag-for-att-forhindra-telefonbedragerier/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Nya regler mot bedrägerier och annat vilseledande genom elektroniska  kommunikationer (pdf 412 kB)",
+                "url": "/contentassets/77b66667cb4a416580275b7ca68ed1c4/nya-regler-mot-bedragerier-och-annat-vilseledande-genom-elektroniska--kommunikationer.pdf"
+            }
+        ],
         "categories": [
             "1238",
             "1240",
@@ -67,7 +77,12 @@
         "summary": "Skatten på cigaretter, cigarrer, cigariller, röktobak, tuggtobak och övrig tobak föreslås höjas med 3,5 procent utöver indexeringen. Skattesatsen för snus i lagtexten föreslås uppdateras så att den motsvarar den indexerade skattesatsen för 2027, men utan ett tillägg om 3,5 procent.",
         "id": "Fi2025/02159",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Höjd skatt på viss tobak (pdf 354 kB)",
+                "url": "/contentassets/115f09014996448a98fd5a8014a378d7/hojd-skatt-pa-viss-tobak.pdf"
+            }
+        ],
         "categories": [
             "2655",
             "1267"
@@ -88,7 +103,12 @@
         "summary": "Promemorian innehåller i huvudsak förslag till ändringar i lagen (2003:1156) om överlämnande från Sverige enligt en europeisk arresteringsorder och lagen (2011:1165) om överlämnande från Sverige enligt en nordisk arresteringsorder som avser att förtydliga det svenska genomförandet av regelverket i vissa delar samt anpassa det till EU-domstolens\npraxis.",
         "id": "Ju2025/02528",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Handläggningen av en arresteringsorder i fråga om hörande eller tillfälligt överförande före ett beslut om överlämnande och om privilegier och immunitet (pdf 849 kB)",
+                "url": "/contentassets/46d89ccd7b0d45f49dc9b11be6230b35/handlaggningen-av-en-arresteringsorder-i-fraga-om-horande-eller-tillfalligt-overforande-fore-ett-beslut-om-overlamnande-och-om-privilegier-och-immunitet.pdf"
+            }
+        ],
         "categories": [
             "1263",
             "2205",
@@ -115,7 +135,12 @@
                 "url": "/pressmeddelanden/2025/10/renodling-av-utbetalningsmyndighetens-verksamhet/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Avveckling av Utbetalningsmyndighetens system med transaktionskonto (pdf 457 kB)",
+                "url": "/contentassets/b4839d3dca7047469b25f10d860dfba7/avveckling-av-utbetalningsmyndighetens-system-med-transaktionskonto.pdf"
+            }
+        ],
         "categories": [
             "1267"
         ]
@@ -140,7 +165,12 @@
                 "url": "/pressmeddelanden/2025/11/utredning-foreslar-andrade-upphandlingsregler-for-att-skydda-sverige-fran-antagonistiska-stater/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Tredjelandsleverantörers tillträde till upphandlingsförfaranden, Ds 2025:29 (pdf 1 MB)",
+                "url": "/contentassets/70c8e4811d0647fbac4eb081cba0834b/ds-2025_29-tillganglighetsanpassad-x.pdf"
+            }
+        ],
         "categories": [
             "2092",
             "2194",
@@ -161,8 +191,18 @@
         ],
         "summary": "I detta utkast till proposition föreslås ändringar i inkomstskattelagen (1999:1229). Det föreslås att barntillägg förs in i paragrafen om skattefrihet för ersättningar till nyanlända invandrare och att etableringstillägg och bostadsersättning tas bort från paragrafen.",
         "id": null,
-        "shortcuts": [],
-        "attachments": [],
+        "shortcuts": [
+            {
+                "name": "Remiss av Utkast till proposition Vissa justeringar i inkomstskattelagen med anledning av förändrade ersättningar för nyanlända",
+                "url": "/remisser/2025/11/remiss-av-proposition-vissa-justeringar-i-inkomstskattelagen-med-anledning-av-forandrade-ersattningar-for-nyanlanda/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Utkast till proposition Vissa justeringar i inkomstskattelagen med anledning av förändrade ersättningar för nyanlända (pdf 180 kB)",
+                "url": "/contentassets/e0356ab0aeda4aad9c1b13aa606c94e2/utkast-till-proposition-vissa-justeringar-i-inkomstskattelagen-med-anledning-av-forandrade-ersattningar-for-nyanlanda.pdf"
+            }
+        ],
         "categories": [
             "1213",
             "1237"
@@ -186,7 +226,16 @@
                 "url": "/pressmeddelanden/2025/11/forslag-om-anpassning-av-svensk-ratt-till-eus-migrations--och-asylpakt-remitteras/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Migrations- och asylpakten, Ds 2025:30 Volym 1 (pdf 4 MB)",
+                "url": "/contentassets/650ea5acc9594f57b4fb7da4ee924d67/migrations--och-asylpakten-ds-2025-30-volym-1.pdf"
+            },
+            {
+                "name": "Migrations- och asylpakten, Ds 2025:30 Volym 2 (pdf 9 MB)",
+                "url": "/contentassets/650ea5acc9594f57b4fb7da4ee924d67/migrations--och-asylpakten-ds-202530-volym-2.pdf"
+            }
+        ],
         "categories": [
             "1249",
             "1012"
@@ -212,7 +261,12 @@
                 "url": "/remisser/2025/11/remiss-av-promemorian-en-ny-lag-med-kompletterande-bestammelser-till-eus-forordningar-om-den-gemensamma-jordbrukspolitiken-och-sammanhallningspolitiken/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Promemoria En ny lag med kompletterande bestämmelser till EU:s förordningar om den gemensamma jordbrukspolitiken och sammanhållningspolitiken (pdf 674 kB)",
+                "url": "/contentassets/91919edcda244d47bc294f10b517ab2d/promemoria-en-ny-lag-med-kompletterande-bestammelser-till-eus-forordningar-om-den-gemensamma-jordbrukspolitiken-och-sammanhallningspolitiken.pdf"
+            }
+        ],
         "categories": [
             "1243",
             "1012"
@@ -233,7 +287,12 @@
         "summary": "Inremarknadstestet avser förslag om ändringar i grundlärarexamen med anledning av beslutade ändringar i skollagen (2010:800) som innebär att en tioårig grundskola ska införas läsåret 2028/29 (se prop. 2024/25:143, bet. 2024/25:UbU17, rskr. 2024/25:289).",
         "id": "U2025/02137",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Inremarknadstest av förslag om ändringar i grundlärarexamen (pdf 211 kB)",
+                "url": "/contentassets/0e1052c280d24940add7b7189342bd37/inremarknadstest-av-forslag-om-andringar-i-grundlararexamen.pdf"
+            }
+        ],
         "categories": [
             "1276"
         ]
@@ -253,7 +312,12 @@
         "summary": "I denna promemoria finns förslag om nedsatt alkoholskatt för andra alkoholvaror från oberoende småproducenter.",
         "id": "Fi2025/02074",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Sänkt alkoholskatt för alkoholvaror från oberoende småproducenter (pdf 664 kB)",
+                "url": "/contentassets/601cc45967fe432998004bf9e9a92baf/promemorian-sankt-alkoholskatt-for-alkoholvaror-fran-oberoende-smaproducenter.pdf"
+            }
+        ],
         "categories": [
             "1267"
         ]
@@ -273,7 +337,12 @@
         "summary": "Inom ramen för uppdraget att möjliggöra en nationell digital infrastruktur för hälsodata (S 2024:A) har utredningen lämnat sin fjärde delredovising med förslag som ska möjliggöra en nationell digital infrastruktur för delning av hälsodata inom vården och genomförandet av Europaparlamentets och rådets förordning om det europeiska hälsodataområdet (EHDS) i delar som avser primäranvändning.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Hälsodata ska vara tillgänglig i hela vårdkedjan, Delrapport 4 (pdf 3 MB)",
+                "url": "/contentassets/59a02991cebb4cdc98b621ae81a57fe8/halsodata-ska-vara-tillganglig-i-hela-vardkedjan-delrapport-4.pdf"
+            }
+        ],
         "categories": [
             "1238",
             "1233",
@@ -295,7 +364,12 @@
         "summary": "Regeringskansliet beslutade den 28 juni 2024 att uppdra åt rådmannen Jenny Wennhall att från och med den 1 september 2024 biträda Landsbygds- och infrastrukturdepartementet med att utreda utformningen av en tillgänglig, hållbar och effektiv veterinär beredskap.",
         "id": "Ds 2025:27",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Åtgärder för att säkerställa veterinär beredskap under jourtid, Ds 2025:27 (pdf 1 MB)",
+                "url": "/contentassets/e8821ff1246b4c5faf0e4c62bd68c4f0/atgarder-for-att-sakerstalla-veterinar-beredskap-under-jourtid-ds-202527.pdf"
+            }
+        ],
         "categories": [
             "1243"
         ]
@@ -315,7 +389,12 @@
         "summary": "Kompletterande promemoria till betänkandet Värdet av vinden (SOU 2023:18)",
         "id": "KN2025/02059",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Intäktsdelning från vindkraftsanläggningar – Kompletterande promemoria till betänkandet Värdet av vinden (SOU 2023:18) (pdf 750 kB)",
+                "url": "/contentassets/ee63dd88fd5c4e45bf66d6be429ffcbd/intaktsdelning-fran-vindkraftsanlaggningar--kompletterande-promemoria-till-betankandet-vardet-av-vinden-sou-202318.pdf"
+            }
+        ],
         "categories": [
             "1226",
             "1252"
@@ -341,7 +420,12 @@
                 "url": "/pressmeddelanden/2025/11/fler-verktyg-mot-felaktiga-utbetalningar-och-bidragsbrott-inom-arbetsmarknadsomradet/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Administrativa sanktioner i den arbetsmarknadspolitiska verksamheten och i arbetslöshetsförsäkringen, Ds 2025:26 (pdf 2 MB)",
+                "url": "/contentassets/737862ffcf984ccc9dba3bb70618924c/ds202526.pdf"
+            }
+        ],
         "categories": [
             "1269"
         ]
@@ -361,7 +445,12 @@
         "summary": "I den energipolitiska inriktningspropositionen (prop. 2023/24:105) framgår att regeringens långsiktiga inriktning för energipolitiken är att upprätthålla god konkurrenskraft och välfärd, möta samhällets behov av el och samtidigt säkerställa en god försörjningstrygghet samt att bidra till att nå klimatmålen genom en betydande elektrifiering.",
         "id": "KN2025/02031",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Förslag om nytt mål för effektiv energianvändning (pdf 123 kB)",
+                "url": "/contentassets/558add0b9f2444d88b08098ab71dff41/forslag-om-nytt-mal-for-effektiv-energianvandning.pdf"
+            }
+        ],
         "categories": [
             "1226"
         ]
@@ -386,7 +475,12 @@
                 "url": "/pressmeddelanden/2025/11/forslag-pa-andringar-i-kostnadsutjamningen-for-kommuner/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Justerad beräkning av administration i kostnadsutjämningen för kommuner (pdf 464 kB)",
+                "url": "/contentassets/b4fa4c8566964360b222f656480ad57d/justerad-berakning-av-administration-i-kostnadsutjamningen-for-kommuner.pdf"
+            }
+        ],
         "categories": [
             "2092"
         ]
@@ -406,7 +500,12 @@
         "summary": "I promemorian föreslås att det införs en upplysningsbestämmelse om att regeringen med stöd av restkompetensen kan meddela föreskrifter om undantag från vissa bestämmelser om behörighet och legitimation för lärare och förskollärare i skollagen (2010:800).",
         "id": "U2025/02137",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Legitimation och behörighet i den tioåriga grundskolan (pdf 308 kB)",
+                "url": "/contentassets/0042a3ac062445f48b55efc86ffd387e/legitimation-och-behorighet-i-den-tioariga-grundskolan.pdf"
+            }
+        ],
         "categories": [
             "1276"
         ]
@@ -447,7 +546,12 @@
                 "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/06/situationen-for-smahusbyggande-i-sverige.-delredovisning-2-i-uppdrag-att-verka-for-okat-smahusbyggande-genom-en-ny-egnahemsrorelse"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Kostnader som begränsar möjligheterna att bygga småhus. Delredovisning 3 i Uppdrag att verka för ökat småhusbyggande genom en ny egnahemsrörelse (pdf 18 MB)",
+                "url": "/contentassets/71e8e91b0f03409abef5a9fa228ed040/kostnader-som-begransar-mojligheterna-att-bygga-smahus.-delredovisning-3-i-uppdrag-att-verka-for-okat-smahusbyggande-genom-en-ny-egnahemsrorelse.pdf"
+            }
+        ],
         "categories": [
             "1217"
         ]
@@ -472,7 +576,12 @@
                 "url": "/pressmeddelanden/2025/09/scb-ska-oka-tillgangen-till-statistik-om-hushallens-skulder/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Stickprovsinsamling av uppgifter om hushållens skulder (pdf 359 kB)",
+                "url": "/contentassets/ef272a38e8ed4d6c99a8ffbeb9ade4ad/stickprovsinsamling-av-uppgifter-om-hushallens-skulder.pdf"
+            }
+        ],
         "categories": [
             "1231"
         ]
@@ -493,11 +602,16 @@
         "id": "Ds 2025:25",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Utredning föreslår former för en betald polisutbildning",
+                "name": "Pressmeddelande: Utredning föreslår former för en betald polisutbildningWebb-TV",
                 "url": "/pressmeddelanden/2025/10/utredning-foreslar-former-for-en-betald-polisutbildning/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Ds 2025:25 En betald polisutbildning (pdf 1 MB)",
+                "url": "/contentassets/e07a7442c0e549d29bff76e0a9b1e8f0/ds-202525-en-betald-polisutbildning.pdf"
+            }
+        ],
         "categories": [
             "1263",
             "1278",
@@ -520,7 +634,12 @@
         "summary": "Regeringskansliet föreslår frivillig fördelning och omfördelning av läkemedel. Det innebär att partihandlare kan ansöka om undantag från leveransskyldigheten enligt lagen om handel med läkemedel för att göra det möjligt att frivilligt fördela läkemedel från partihandelsledet till detaljhandelsledet.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Frivillig fördelning och omfördelning av läkemedel (pdf 425 kB)",
+                "url": "/contentassets/49d83b0da4e647bf8c2ed5253bd7711b/frivillig-fordelning-och-omfordelning-av-lakemedel.pdf"
+            }
+        ],
         "categories": [
             "1233"
         ]
@@ -545,7 +664,12 @@
                 "url": "/pressmeddelanden/2025/10/remittering-av-skarpta-vandelskrav-for-fler-typer-av-uppehallstillstand/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Kompletterande förslag till betänkandet Skärpta och tydligare krav på vandel för uppehållstillstånd (SOU 2025:33) (pdf 242 kB)",
+                "url": "/contentassets/1f82aa2ce48f4eceb013b1bbec52fb72/kompletterande-forslag-till-betankandet-skarpta-och-tydligare-krav-pa-vandel-for-uppehallstillstand-sou-202533.pdf"
+            }
+        ],
         "categories": [
             "1249"
         ]
@@ -570,7 +694,12 @@
                 "url": "/pressmeddelanden/2025/10/nasta-steg-for-en-gas-i-inkomstpensionssystemet/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Utdelningsbart överskott i inkomstpensionssystemet, Ds 2025 24 (pdf 2 MB)",
+                "url": "/contentassets/8fa636e6b0ed437b88b6634e40e947c3/ds-2025-24.pdf"
+            }
+        ],
         "categories": [
             "1269"
         ]
@@ -590,7 +719,12 @@
         "summary": "I denna promemoria lämnas förslag som syftar till att skapa bättre förutsättningar för Sverige att delta i det operativa militära samarbetet inom Nato.",
         "id": "Ds 2025:21",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Förbättrade förutsättningar för operativt militärt samarbete, Ds Ds 2025:21 (pdf 834 kB)",
+                "url": "/contentassets/c075045a245845c1ab747ed408bc97ef/forbattrade-forutsattningar-for-operativt-militart-samarbete-ds-ds-202521.pdf"
+            }
+        ],
         "categories": [
             "2247",
             "2593",
@@ -612,7 +746,12 @@
         "summary": "I Europaparlamentets och rådets förordning (EU) 2024/1309 om åtgärder för att minska kostnaderna för utbyggnad av gigabitnät för elektronisk kommunikation, om ändring av förordning (EU) 2015/2120 och om upphävande av direktiv 2014/61/EU (Gigabitinfrastrukturförordningen) regleras bl.a. inom vilken tid som en behörig myndighet, t.ex. en mark- och miljödomstol, ska bevilja eller avslå en ansökan om tillstånd. Om ett beslut inte har fattats inom den tidsfrist som föreskrivs i förordningen ska tillståndet anses beviljat när tidsfristen löper ut (s.k. tyst godkännande). Medlemsstaterna får under vissa förutsättningar som anges i förordningen avvika från bestämmelserna om tyst godkännande.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Avvikande från tyst godkännande om en domstol inte har prövat en tillståndsansökan enligt EU:s förordning om gigabitinfrastruktur (pdf 239 kB)",
+                "url": "/contentassets/2e5574bf0ab8472391dba210b5bac0e5/avvikande-fran-tyst-godkannande-om-en-domstol-inte-har-provat-en-tillstandsansokan-enligt-eus-forordning-om-gigabitinfrastruktur.pdf"
+            }
+        ],
         "categories": [
             "1238",
             "1012"
@@ -633,7 +772,12 @@
         "summary": "I promemorian föreslås de författningsbestämmelser som krävs för att en ny myndighet för miljöprövning, Miljöprövningsmyndigheten, ska ta över de ärenden som i dag handläggs av länsstyrelsernas miljöprövningsdelegationer.",
         "id": "KN2025/01878",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Ny myndighet för miljöprövning (pdf 531 kB)",
+                "url": "/contentassets/3d8d8ef68b7a4017b2c2bb1330a47e35/ny-myndighet-for-miljoprovning.pdf"
+            }
+        ],
         "categories": [
             "1252"
         ]
@@ -653,7 +797,12 @@
         "summary": "Promemorian innehåller förslag som syftar till att möjliggöra utbyggnaden av kärnkraft inom de s.k. obrutna kustområdena och de s.k. högexploaterade kustområdena, samtidigt som skyddet för natur- och kulturvärden upprätthålls.",
         "id": "KN2025/01872",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Ny kärnkraft i Sverige - fler möjliga platser vid kusten (pdf 257 kB)",
+                "url": "/contentassets/3e1c3edd1cb04c17ae13cbcab679477f/ny-karnkraft-i-sverige---fler-mojliga-platser-vid-kusten.pdf"
+            }
+        ],
         "categories": [
             "1226",
             "1252"
@@ -674,7 +823,12 @@
         "summary": "Promemorian innehåller förslag som syftar till att säkerställa en ändamålsenlig vattenförvaltning som främjar samhällets utveckling och klimatomställning samtidigt som skyddet för Sveriges vatten upprätthålls.",
         "id": "KN2025/01829",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Hantering av kvalitetskrav för uran i ytvatten (pdf 228 kB)",
+                "url": "/contentassets/e8063bf0a48a4f40802b22b139ff444a/hantering-av-kvalitetskrav-for-uran-i-ytvatten.pdf"
+            }
+        ],
         "categories": [
             "1252"
         ]
@@ -694,7 +848,12 @@
         "summary": "Denna promemoria har utarbetats inom Regeringskansliet (Utbildningsdepartementet). I promemorian lämnas förslag på vilka högskoleutbildningar som ska omfattas av krav på belastningsregisterkontroll inför antagning.",
         "id": "U2025/01933",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Registerkontroll inför antagning till vissa högskoleutbildningar (pdf 481 kB)",
+                "url": "/contentassets/b14ab75d30a34d9b8bdde04de9fab930/promemoria-registerkontroll-infor-antagning-till-vissa-hogskoleutbildningar.pdf"
+            }
+        ],
         "categories": [
             "1277"
         ]
@@ -719,7 +878,12 @@
                 "url": "/remisser/2025/10/remiss-av-promemorian-en-veterangard-for-vila-och-aterhamtning/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "En veterangård för vila och återhämtning (pdf 1 MB)",
+                "url": "/contentassets/52c6ba86280d48e0809895d2de71c589/en-veterangard-for-vila-och-aterhamtning.pdf"
+            }
+        ],
         "categories": [
             "2247",
             "2703"
@@ -740,7 +904,12 @@
         "summary": "Detta utkast innehåller förslag till en ny process där regeringen, efter en ansökan, får godkänna en kärnteknisk anläggning.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "En mer ändamålsenlig prövning av kärntekniska anläggningar, utkast till lagrådsremiss (pdf 1 MB)",
+                "url": "/contentassets/e186bdc3e36b46c2b3288c307910892d/en-mer-andamalsenlig-provning-av-karntekniska-anlaggningar-utkast-till-lagradsremiss.pdf"
+            }
+        ],
         "categories": [
             "1226",
             "1252"
@@ -761,7 +930,12 @@
         "summary": "I promemorian föreslås en ny lag om kommunal hamnverksamhet. Förslaget lämnas för att de svenska bestämmelserna om kommunal hamnverksamhet ska anses vara förenliga med det EU-rättsliga statsstödsregelverket.",
         "id": "Fi2025/01804",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "En ny lag om kommunal hamnverksamhet (pdf 365 kB)",
+                "url": "/contentassets/646333168ea6418abc4a3a1b586a6ec1/en-ny-lag-om-kommunal-hamnverksamhet.pdf"
+            }
+        ],
         "categories": [
             "2092",
             "1267"
@@ -787,7 +961,12 @@
                 "url": "/pressmeddelanden/2025/09/fangelsestraff-ska-kunna-avtjanas-utomlands--forslag-skickas-pa-remiss/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Promemoria Tillfällig verkställighet av svenska fängelsestraff utomlands (pdf 1 MB)",
+                "url": "/contentassets/332b803bb4844c359411029a3fbf3028/promemoria-tillfallig-verkstallighet-av-svenska-fangelsestraff-utomlands.pdf"
+            }
+        ],
         "categories": [
             "1263"
         ]
@@ -812,7 +991,12 @@
                 "url": "/pressmeddelanden/2025/09/forslag-pa-kraftfullare-atgarder-mot-manipulation-av-fardskrivare-skickas-pa-remiss/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Promemoria Kraftfullare åtgärder mot manipulation och allvarligt missbruk av färdskrivare (pdf 874 kB)",
+                "url": "/contentassets/274d9e9ef60746a9a443cb6d4b20f0cd/promemoria-kraftfullare-atgarder-mot-manipulation-och-allvarligt-missbruk-av-fardskrivare.pdf"
+            }
+        ],
         "categories": [
             "1274"
         ]
@@ -845,7 +1029,12 @@
                 "url": "/contentassets/100c47e3da6847ada37d9d507319eda9/uppdrag-att-verka-som-samordnare-for-avyttring-av-statlig-mark-for-bostadsbyggande.pdf"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Avyttring av statlig mark - Slutredovisning av Uppdrag att verka som samordnare för avyttring av statlig mark för bostadsbyggande LI2024:A (pdf 2 MB)",
+                "url": "/contentassets/28e277794b1947e5b32d021d45f26151/avyttring-av-statlig-mark---slutredovisning-av-uppdrag-att-verka-som-samordnare-for-avyttring-av-statlig-mark-for-bostadsbyggande-li2024a.pdf"
+            }
+        ],
         "categories": [
             "1217"
         ]
@@ -874,7 +1063,12 @@
                 "url": "/pressmeddelanden/2025/02/statlig-utredare-ska-se-over-spellagen/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Spellagens tillämpningsområde, Ds 2025:23 (pdf 1 MB)",
+                "url": "/contentassets/132bb8fff60f4f9ba4ecb3330f7051f4/spellagens-tillampningsomrade-ds-202523.pdf"
+            }
+        ],
         "categories": [
             "2284"
         ]
@@ -892,7 +1086,12 @@
         "summary": "Sweden’s implementation of the obligations of the Convention",
         "id": "Ds 2025:22",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Sweden’s Tenth National Report under the Convention on Nuclear Safety, Ds 2025:22 t (pdf 4 MB)",
+                "url": "/contentassets/73dcde6edb304058a3d179abfd3c3264/swedens-tenth-national-report-under-the-convention-on-nuclear-safety-ds-202522-t.pdf"
+            }
+        ],
         "categories": [
             "1226",
             "1252",
@@ -900,7 +1099,7 @@
         ]
     },
     {
-        "title": "Promemoria Avgifter i Transportstyrelsens verksamhet som rör typgodkännande inom vägtrafikområdet",
+        "title": "Avgifter i Transportstyrelsens verksamhet som rör typgodkännande inom vägtrafikområdet",
         "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/09/promemoria-avgifter-i-transportstyrelsens-verksamhet-som-ror-typgodkannande-inom-vagtrafikomradet/",
         "published": "2025-09-22",
         "updated": null,
@@ -923,7 +1122,12 @@
                 "url": "/remisser/2025/09/remiss-av-promemoria-avgifter-i-transportstyrelsens-verksamhet-som-ror-typgodkannande-inom-vagtrafikomradet/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Promemoria Avgifter i Transportstyrelsens verksamhet som rör typgodkännande inom vägtrafikområdet (pdf 369 kB)",
+                "url": "/contentassets/3f39554be34748b2946c4ea87d0d10a9/promemoria-avgifter-i-transportstyrelsens-verksamhet-som-ror-typgodkannande-inom-vagtrafikomradet.pdf"
+            }
+        ],
         "categories": [
             "1274"
         ]
@@ -943,7 +1147,12 @@
         "summary": "I promemorian föreslås bestämmelser som kompletterar EU-förordningen om ekodesign.",
         "id": "KN 2025/01772",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Kompletterande bestämmelser till EU-förordningen om ekodesign (pdf 422 kB)",
+                "url": "/contentassets/826a4240aa7747049e995d2374344bdd/kompletterande-bestammelser-till-eu-forordningen-om-ekodesign.pdf"
+            }
+        ],
         "categories": [
             "1252",
             "1012"
@@ -964,7 +1173,12 @@
         "summary": "I denna promemoria föreslås en ny lag om beredskapslagring i livsmedels-kedjan. Förslaget är ett alternativ till det förslag till lag om livsmedels-beredskap som lämnades i betänkandet Livsmedelsberedskap för en ny tid (SOU 2024:8).",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Kompletterande promemoria till betänkandet Livsmedelsberedskap för en ny tid (SOU 2024:8) (pdf 453 kB)",
+                "url": "/contentassets/9a0bd8e77e5a4fa19ace83a3960a35aa/kompletterande-pm-till-betankandet-livsmedelsberedskap-for-en-ny-tid-sou-2024-8.pdf"
+            }
+        ],
         "categories": [
             "1243",
             "2730"
@@ -985,7 +1199,12 @@
         "summary": "Socialdepartementet lämnar bland annat förslag om den årliga avgift som vårdgivare ska betala för anslutning till Försäkringskassans elektroniska system för statligt tandvårdsstöd samt om innehållet i ansökan om tillstånd att bedriva privat tandvårdsverksamhet.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Förordningsförslag med anledning av kommande tandvårdsreformer (pdf 437 kB)",
+                "url": "/contentassets/903ccb220ce04dda803035f96f4d9b7e/forordningsforslag-med-anledning-av-kommande-tandvardsreformer.pdf"
+            }
+        ],
         "categories": [
             "1233"
         ]
@@ -1005,13 +1224,18 @@
         "summary": "Promemorian innehåller förslag som syftar till att förbättra möjligheten att utöva tillsyn över att lagen om energideklarationer följs.",
         "id": "KN2025/01713",
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "En förbättrad möjlighet att utöva tillsyn över att lagen om energideklarationer följs (pdf 103 kB)",
+                "url": "/contentassets/cb6fedeacf4c4fcd838d8e129f135996/en-forbattrad-mojlighet-att-utova-tillsyn-over-att-lagen-om-energideklarationer-foljs.pdf"
+            }
+        ],
         "categories": [
             "1226"
         ]
     },
     {
-        "title": "Promemoria Förbättrat genomförande av UTP-direktivets förbud mot sena annulleringar",
+        "title": "Förbättrat genomförande av UTP-direktivets förbud mot sena annulleringar",
         "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/09/promemoria-forbattrat-genomforande-av-utp-direktivets-forbud-mot-sena-annulleringar/",
         "published": "2025-09-16",
         "updated": null,
@@ -1025,7 +1249,12 @@
         "summary": "I promemorian föreslås en justering av reglerna om förbud mot sena annulleringar i lagen (2021:579) om förbud mot otillbörliga handelsmetoder vid köp av jordbruks- och livsmedelsprodukter.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Promemoria Förbättrat genomförande av UTP-direktivets förbud mot sena annulleringar (pdf 384 kB)",
+                "url": "/contentassets/be4bcbe956464b738223d5c841bc1230/promemoria-forbattrat-genomforande-av-utp-direktivets-forbud-mot-sena-annulleringar.pdf"
+            }
+        ],
         "categories": [
             "1243"
         ]
@@ -1046,11 +1275,16 @@
         "id": "Fi2025/01705",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Fler företag för fler jobb",
+                "name": "Pressmeddelande: Fler företag för fler jobbWebb-TV",
                 "url": "/pressmeddelanden/2025/09/fler-foretag-for-fler-jobb/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Tillfälligt nedsatta arbetsgivaravgifter för 19-23-åringar (pdf 460 kB)",
+                "url": "/contentassets/17117927b12e4148ad96145bb8c6edc5/tillfalligt-nedsatta-arbetsgivaravgifter-for-19-23-aringar.pdf"
+            }
+        ],
         "categories": [
             "1267"
         ]
@@ -1096,7 +1330,7 @@
         "id": "Fi2025/01695",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Mer pengar i plånböckerna",
+                "name": "Pressmeddelande: Mer pengar i plånböckernaWebb-TV",
                 "url": "/pressmeddelanden/2025/09/mer-pengar-i-planbockerna/"
             }
         ],
@@ -1127,7 +1361,7 @@
         "id": "Fi2025/01687",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Matprispaket för billigare matkassar",
+                "name": "Pressmeddelande: Matprispaket för billigare matkassarWebb-TV",
                 "url": "/pressmeddelanden/2025/09/matprispaket-for-billigare-matkassar/"
             }
         ],
@@ -1734,7 +1968,7 @@
         ]
     },
     {
-        "title": "Promemoria Förenklad in- och uthyrning av skepp; nu fråga om förordningsändringar och sekretess",
+        "title": "Förenklad in- och uthyrning av skepp; nu fråga om förordningsändringar och sekretess",
         "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/06/promemoria-forenklad-in--och-uthyrning-av-skepp-nu-fraga-om-forordningsandringar-och-sekretess/",
         "published": "2025-06-30",
         "updated": null,
@@ -1835,7 +2069,7 @@
         ]
     },
     {
-        "title": "Promemoria Anmälningsplikt för skogsbruksåtgärder i urskog och gammal skog samt krav för A-landsstatus i förnybartdirektivet, LI2025/01286",
+        "title": "Anmälningsplikt för skogsbruksåtgärder i urskog och gammal skog samt krav för A-landsstatus i förnybartdirektivet, LI2025/01286",
         "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/06/promemoria-anmalningsplikt-for-skogsbruksatgarder-i-urskog-och-gammal-skog-samt-krav-for-a-landsstatus-i-fornybartdirektivet/",
         "published": "2025-06-26",
         "updated": null,
@@ -2167,7 +2401,7 @@
         ]
     },
     {
-        "title": "Rätt att installera laddpunkt hemma, Ds 2025:13",
+        "title": "Ds 2025:13, Ds 2025:13",
         "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/06/ratt-att-installera-laddpunkt-hemma/",
         "published": "2025-06-12",
         "updated": null,
@@ -2193,7 +2427,7 @@
         ]
     },
     {
-        "title": "Situationen för småhusbyggande i Sverige. Delredovisning 2 i Uppdrag att verka för ökat småhusbyggande genom en ny egnahemsrörelse",
+        "title": "Situationen för småhusbyggande i Sverige",
         "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/06/situationen-for-smahusbyggande-i-sverige.-delredovisning-2-i-uppdrag-att-verka-for-okat-smahusbyggande-genom-en-ny-egnahemsrorelse",
         "published": "2025-06-11",
         "updated": null,
@@ -2204,16 +2438,20 @@
         "senders": [
             "2425"
         ],
-        "summary": "I maj 2024 tillsattes en Egnahemskommissionär vars uppdrag är att verka för ökat småhusbyggande. Till Egnahemskommissionär utsågs Stefan Attefall. Detta är Egnahemskommissionärens andra delredovisning.",
+        "summary": "Delredovisning 2 i Uppdrag att verka för ökat småhusbyggande genom en ny egnahemsrörelse",
         "id": null,
         "shortcuts": [
             {
-                "name": "Delredovisning av Uppdrag att verka för ökat småhusbyggande genom en ny egnahemsrörelse\n",
+                "name": "Regeringsuppdrag: Uppdrag att verka för ökat småhusbyggande genom en ny egnahemsrörelse",
+                "url": "/regeringsuppdrag/2024/05/uppdrag-att-verka-for-okat-smahusbyggande-genom-en-ny-egnahemsrorelse/"
+            },
+            {
+                "name": "Delredovisning 1: Uppdrag att verka för ökat småhusbyggande genom en ny egnahemsrörelse",
                 "url": "/rattsliga-dokument/departementsserien-och-promemorior/2024/11/delredovisning-av-uppdrag-att-verka-for-okat-smahusbyggande-genom-en-ny-egnahemsrorelse/"
             },
             {
-                "name": "Uppdrag att verka för ökat småhusbyggande genom en ny egnahemsrörelse\n",
-                "url": "/regeringsuppdrag/2024/05/uppdrag-att-verka-for-okat-smahusbyggande-genom-en-ny-egnahemsrorelse/"
+                "name": "Delredovisning 3: Kostnader som begränsar möjligheterna att bygga småhus",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/11/kostnader-som-begransar-mojligheterna-att-bygga-smahus/"
             }
         ],
         "attachments": [
@@ -2227,7 +2465,7 @@
         ]
     },
     {
-        "title": "Nya regler om ansökningsförfarandet för vissa uppehålls- och arbetstillstånd, Ds 2025:18",
+        "title": "Ds 2025:18, Ds 2025:18",
         "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/06/nya-regler-om-ansokningsforfarandet-for-vissa-uppehalls--och-arbetstillstand/",
         "published": "2025-06-10",
         "updated": null,
@@ -2277,7 +2515,7 @@
         ]
     },
     {
-        "title": " Förbättrade förutsättningar för IVO – förslag för att motverka oseriösa och kriminella aktörer inom hälso- och sjukvården, Ds 2025:17",
+        "title": "Förbättrade förutsättningar för IVO – förslag för att motverka oseriösa och kriminella aktörer inom hälso- och sjukvården, Ds 2025:17",
         "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/06/ds-202517/",
         "published": "2025-06-09",
         "updated": null,
@@ -2328,7 +2566,7 @@
         ]
     },
     {
-        "title": " Rättsliga förutsättningar för en nationell vårdförmedling",
+        "title": "Rättsliga förutsättningar för en nationell vårdförmedling",
         "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/06/rattsliga-forutsattningar-for-en-nationell-vardformedling/",
         "published": "2025-06-05",
         "updated": null,
@@ -2448,11 +2686,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Möjligheten till kompetensutveckling för yrkesverksamma ska öka\n",
+                "name": "Pressmeddelande: Möjligheten till kompetensutveckling för yrkesverksamma ska öka",
                 "url": "/pressmeddelanden/2025/05/mojligheten-till-kompetensutveckling-for-yrkesverksamma-ska-oka/"
             },
             {
-                "name": "Uppdrag att utreda en särskild ersättningsmodell för utbildning för omställning och vidareutbildning för yrkesverksamma (U 2024:C)\n",
+                "name": "Uppdrag att utreda en särskild ersättningsmodell för utbildning för omställning och vidareutbildning för yrkesverksamma (U 2024:C)",
                 "url": "/rattsliga-dokument/kommittedirektiv/2024/04/uppdrag-att-utreda-en-sarskild-ersattningsmodell-for-utbildning-for-omstallning-och-vidareutbildning-for-yrkesverksamma-u-2024c/"
             }
         ],
@@ -2590,7 +2828,7 @@
         "id": "Fi2025/01068",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ytterligare skatteförslag remitteras inför höstbudgeten\n",
+                "name": "Pressmeddelande: Ytterligare skatteförslag remitteras inför höstbudgeten",
                 "url": "/pressmeddelanden/2025/05/ytterligare-skatteforslag-har-remitterats-infor-hostbudgeten/"
             }
         ],
@@ -2622,7 +2860,7 @@
         "id": "Fi2025/01065",
         "shortcuts": [
             {
-                "name": "Prop. 2024/25:1, Budgetpropositionen för 2025\n",
+                "name": "Prop. 2024/25:1, Budgetpropositionen för 2025",
                 "url": "/rattsliga-dokument/proposition/2024/09/prop.-2024251"
             }
         ],
@@ -2652,7 +2890,7 @@
         "id": "Fi2025/01066",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ytterligare skatteförslag remitteras inför höstbudgeten\n",
+                "name": "Pressmeddelande: Ytterligare skatteförslag remitteras inför höstbudgeten",
                 "url": "/pressmeddelanden/2025/05/ytterligare-skatteforslag-har-remitterats-infor-hostbudgeten/"
             }
         ],
@@ -2684,7 +2922,7 @@
         "id": "Fi2025/01064",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ytterligare skatteförslag remitteras inför höstbudgeten\n",
+                "name": "Pressmeddelande: Ytterligare skatteförslag remitteras inför höstbudgeten",
                 "url": "/pressmeddelanden/2025/05/ytterligare-skatteforslag-har-remitterats-infor-hostbudgeten/"
             }
         ],
@@ -2716,7 +2954,7 @@
         "id": "Fi2025/01067",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ytterligare skatteförslag remitteras inför höstbudgeten\n",
+                "name": "Pressmeddelande: Ytterligare skatteförslag remitteras inför höstbudgeten",
                 "url": "/pressmeddelanden/2025/05/ytterligare-skatteforslag-har-remitterats-infor-hostbudgeten/"
             }
         ],
@@ -2748,7 +2986,7 @@
         "id": "Fi2025/01062",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ytterligare skatteförslag remitteras inför höstbudgeten\n",
+                "name": "Pressmeddelande: Ytterligare skatteförslag remitteras inför höstbudgeten",
                 "url": "/pressmeddelanden/2025/05/ytterligare-skatteforslag-har-remitterats-infor-hostbudgeten/"
             }
         ],
@@ -2779,7 +3017,7 @@
         "id": "Fi2025/01063",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ytterligare skatteförslag remitteras inför höstbudgeten\n",
+                "name": "Pressmeddelande: Ytterligare skatteförslag remitteras inför höstbudgeten",
                 "url": "/pressmeddelanden/2025/05/ytterligare-skatteforslag-har-remitterats-infor-hostbudgeten/"
             }
         ],
@@ -2811,7 +3049,7 @@
         "id": "Fi2025/01061",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ytterligare skatteförslag remitteras inför höstbudgeten\n",
+                "name": "Pressmeddelande: Ytterligare skatteförslag remitteras inför höstbudgeten",
                 "url": "/pressmeddelanden/2025/05/ytterligare-skatteforslag-har-remitterats-infor-hostbudgeten/"
             }
         ],
@@ -2842,7 +3080,7 @@
         "id": "Fi/2025/01060",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ytterligare skatteförslag remitteras inför höstbudgeten\n",
+                "name": "Pressmeddelande: Ytterligare skatteförslag remitteras inför höstbudgeten",
                 "url": "/pressmeddelanden/2025/05/ytterligare-skatteforslag-har-remitterats-infor-hostbudgeten/"
             }
         ],
@@ -2899,7 +3137,7 @@
         "id": "Ku2025/00578",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Sveriges första strategi för att stärka judiskt liv och motverka antisemitism\n",
+                "name": "Pressmeddelande: Sveriges första strategi för att stärka judiskt liv och motverka antisemitism",
                 "url": "/pressmeddelanden/2025/05/sveriges-forsta-strategi-for-att-starka-judiskt-liv-och-motverka-antisemitism/"
             }
         ],
@@ -2958,7 +3196,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: En ny möjlighet för sjukskrivna att komma tillbaka i arbete\n",
+                "name": "Pressmeddelande: En ny möjlighet för sjukskrivna att komma tillbaka i arbete",
                 "url": "/pressmeddelanden/2025/05/en-ny-mojlighet-for-sjukskrivna-att-komma-tillbaka-i-arbete/"
             }
         ],
@@ -3015,7 +3253,7 @@
         "id": "Ds 2025:12",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Förslag på ny lag för ett effektivare straffrättsligt samarbete i Norden\n",
+                "name": "Pressmeddelande: Förslag på ny lag för ett effektivare straffrättsligt samarbete i Norden",
                 "url": "/pressmeddelanden/2025/04/forslag-pa-ny-lag-for-ett-effektivare-straffrattsligt-samarbete-i-norden/"
             }
         ],
@@ -3097,7 +3335,7 @@
         "id": "Ju2025/00949",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ett kraftigt höjt återvandringsbidrag\n",
+                "name": "Pressmeddelande: Ett kraftigt höjt återvandringsbidrag",
                 "url": "/pressmeddelanden/2025/04/ett-kraftigt-hojt-atervandringsbidrag/"
             }
         ],
@@ -3155,7 +3393,7 @@
         "id": "U2025/01126",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Registerkontrollen i skolan ska utökas och skärpas\n",
+                "name": "Pressmeddelande: Registerkontrollen i skolan ska utökas och skärpas",
                 "url": "/pressmeddelanden/2025/04/registerkontrollen-i-skolan-ska-utokas-och-skarpas/"
             }
         ],

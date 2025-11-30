@@ -1,4 +1,4 @@
-# Promemoria Förenklad in- och uthyrning av skepp; nu fråga om förordningsändringar och sekretess
+# Förenklad in- och uthyrning av skepp; nu fråga om förordningsändringar och sekretess
 
 I promemorian föreslås ändringar i bl.a. fartygsregisterförordningen (1975:927).
 

@@ -1,4 +1,4 @@
-# Uppdrag till Post- och telestyrelsen att informera och följa upp teknikskiftet i mobilnäten
+# Uppdrag till Post- och telestyrelsen att informera och följa upp teknikskiftet i mobilnätenDiarienummer: Fi2025/01283
 
 Regeringen ger Post- och telestyrelsen (PTS) i uppdrag att genomföra informationsinsatser som kompletterar de insatser som mobiloperatörerna och andra aktörer genomför avseende teknikskiftet vid avvecklingen av 2G- och 3G-näten samt redovisa resultatet av dessa. Insatserna ska syfta till att användare får en bättre beredskap för att hantera teknikskiftet.
 

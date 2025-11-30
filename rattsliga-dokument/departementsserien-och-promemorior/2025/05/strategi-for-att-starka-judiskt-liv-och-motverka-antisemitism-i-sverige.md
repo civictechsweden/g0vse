@@ -1,4 +1,4 @@
-# Strategi för att stärka judiskt liv och motverka antisemitism i Sverige
+# Strategi för att stärka judiskt liv och motverka antisemitism i SverigeKu2025/00578
 
 ![](/contentassets/ec7a992eb0614cc19033ef04643bd942/framsida-strategi-for-att-starka-judiskt-liv-och-motverka-antisemitism-i-sverige.png?width=150&quality=85)
 

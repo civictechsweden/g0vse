@@ -1,4 +1,4 @@
-# Explosiva varor – en ändamålsenlig hantering av tillstånd och tillsyn
+# Explosiva varor – en ändamålsenlig hantering av tillstånd och tillsynProp. 2024/25:163
 
 De senaste åren har antalet sprängdåd i samhället ökat kraftigt. Personer i kriminella miljöer använder allt oftare sprängmedel på offentliga platser, på andra platser där allmänheten vistas och direkt mot enskilda personers bostäder som en del av kriminella uppgörelser. Sprängdåden utförs ofta av personer inom den organiserade brottsligheten och inte sällan används legala sprängmedel som kommit i orätta händer eller hemgjorda sprängmedel. Det är av största vikt att förhindra denna utveckling.
 

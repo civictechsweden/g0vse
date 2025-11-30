@@ -1,4 +1,4 @@
-# Utrikesminister Maria Malmer Stenergard tar emot Nya Zeelands utrikesminister i Stockholm och deltar i nordiskt utrikesministermöte
+# Påminnelse: Utrikesminister Maria Malmer Stenergard tar emot Nya Zeelands utrikesminister i Stockholm och deltar i nordiskt utrikesministermöte
 
 Mötena äger rum i samband med Nordiska rådets årliga session, som i år hålls i Stockholm.
 

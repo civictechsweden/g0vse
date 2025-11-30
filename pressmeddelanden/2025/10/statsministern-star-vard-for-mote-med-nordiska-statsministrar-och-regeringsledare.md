@@ -1,14 +1,14 @@
 # Statsministern står värd för möte med nordiska statsministrar och regeringsledare
 
-Statsministrarnas möte äger rum i anslutning till Nordiska rådets session, för vilken Sverige står värd. Deltar gör ledarna för Danmark, Finland, Färöarna, Island, Norge, Sverige och Åland.
+Statsministrarnas möte äger rum i anslutning till Nordiska rådets session, för vilken Sverige står värd. Deltar gör ledarna för Danmark, Finland, Färöarna, Island, Norge, Sverige och Åland, samt EU-kommissionens ordförande Ursula von der Leyen.
 
 På agendan för mötet står bland annat nordisk försörjningsberedskap samt nordisk och europeisk konkurrenskraft.
 
 ## Praktisk information för media
 
-Efter mötet håller de nordiska ledarna en gemensam pressträff. Anmälan till pressträffen görs via anmälningsformuläret nedan senast söndag den 26 oktober.
+Efter mötet håller de nordiska ledarna och EU-kommissionens ordförande  en gemensam pressträff. Anmälan till pressträffen görs via anmälningsformuläret nedan senast söndag den 26 oktober.
 
-[Anmälan till pressträff med nordiska ledare den 28 oktober - extern webbplats,](https://www.lyyti.fi/reg/Press_conference_with_the_Nordic_leaders_5221)
+[Anmälan till pressträff med nordiska ledare och EU-kommissionens ordförande den 28 oktober - extern webbplats,](https://www.lyyti.fi/reg/Press_conference_with_the_Nordic_leaders_5221)
 
 **Tid:** 28 oktober 2025 kl. 10.45
 **Plats:** Regeringskansliet, kvarter Lejonet. Inpassering via Drottninggatan 4 mellan kl. 10.00 – 10.30.

@@ -1,4 +1,4 @@
-# Uppdrag till MSB att utvärdera hanteringen av masskjutningen på Campus Risbergska i Örebro
+# Uppdrag till MSB att utvärdera hanteringen av masskjutningen på Campus Risbergska i ÖrebroDiarienummer: Fö2025/01009
 
 Regeringen uppdrar åt Myndigheten för samhällsskydd och beredskap (MSB) att utvärdera hanteringen av masskjutningen på Campus Risbergska i Örebro den 4 februari 2025. I uppdraget ingår att beskriva och analysera de berörda samhällsaktörernas hantering av händelsen.
 

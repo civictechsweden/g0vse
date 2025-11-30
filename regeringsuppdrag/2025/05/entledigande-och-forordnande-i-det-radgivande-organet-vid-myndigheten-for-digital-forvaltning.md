@@ -1,4 +1,4 @@
-# Entledigande och förordnande i det rådgivande organet vid Myndigheten för digital förvaltning
+# Entledigande och förordnande i det rådgivande organet vid Myndigheten för digital förvaltningDiarienummer: Fi2025/01042
 
 Håkan Sandahl entledigas med verkan fr.o.m. den 16 maj 2025 från uppdraget att vara ledamot i det rådgivande organet vid Myndigheten för digital förvaltning.
 

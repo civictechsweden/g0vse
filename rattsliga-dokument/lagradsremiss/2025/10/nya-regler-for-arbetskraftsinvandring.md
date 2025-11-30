@@ -2,7 +2,7 @@
 
 I lagrådsremissen lämnas förslag som syftar till att skärpa villkoren för arbetskraftsinvandring samtidigt som invandring av högkvalificerad arbetskraft främjas.
 
-Det handlar bl.a. om följande:
+Det handlar bland annat om följande:
 
 * Ett krav på heltäckande sjukförsäkring och ett lönekrav införs som villkor för arbetstillstånd. Vissa yrkesgrupper ska dock kunna undantas från lönekravet.
 * Vissa yrkesgrupper ska kunna uteslutas från möjligheten att beviljas arbetstillstånd.

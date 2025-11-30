@@ -1,3 +1,3 @@
-# Kommenterad dagordning inför GAC den 16 sept 2025
+# Kommenterad dagordning inför Allmänna rådet den 16 september 2025
 
 

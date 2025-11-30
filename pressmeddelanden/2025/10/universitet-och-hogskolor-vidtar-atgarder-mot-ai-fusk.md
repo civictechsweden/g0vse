@@ -1,6 +1,6 @@
 # Universitet och högskolor vidtar åtgärder mot AI-fusk
 
-– Man kan inte fuska sig genom livet och man ska heller inte kunna fuska sig genom sin utbildning. Hjälpmedel som AI-verktyg kan framstå som en praktisk lösning på kort sikt men risken är att studenterna får alltför ytliga kunskaper. Vi ser nu hur lärosäten agerar genom att till exempel ha fler saltstentor för att höja tröskeln till att fuska. Jag tror att det är helt rätt väg att gå och det visar att lärosätena tar den här utvecklingen på allvar, säger gymnasie-, högskole-, och forskningsminister Lotta Edholm.
+– Man kan inte fuska sig genom livet och man ska heller inte kunna fuska sig genom sin utbildning. Hjälpmedel som AI-verktyg kan framstå som en praktisk lösning på kort sikt men risken är att studenterna får alltför ytliga kunskaper. Vi ser nu hur lärosäten agerar genom att till exempel ha fler salstentor för att höja tröskeln till att fuska. Jag tror att det är helt rätt väg att gå och det visar att lärosätena tar den här utvecklingen på allvar, säger gymnasie-, högskole-, och forskningsminister Lotta Edholm.
 
 Antalet rapporterade disciplinärenden i Sverige med koppling till AI ökar, men är fortfarande relativt få sett till hur många studenter som säger sig använda AI-verktyg i sina studier. UKÄ:s kartläggning har enbart fokuserat på lärosätenas arbete för att motverka att fusk sker med AI vid examinationer som inte övervakas, till exempel vid hemtentamen, skriftliga inlämningsuppgifter eller examensarbeten. UKÄ har inte kunnat se något utbrett fusk vid examinationer.
 

@@ -1,4 +1,4 @@
-# Uppdrag till Statens konstråd att förbereda överföring av uppgifter till Moderna museet och förbereda avveckling av myndigheten
+# Uppdrag till Statens konstråd att förbereda överföring av uppgifter till Moderna museet och förbereda avveckling av myndighetenDiarienummer: Ku2025/00623
 
 Regeringen ger Statens konstråd i uppdrag att dels förbereda överföring av myndighetens uppgifter till Moderna museet, dels förbereda avveckling av myndigheten så att Statens konstråd kan upphöra som myndighet den 31 december 2025.
 

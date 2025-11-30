@@ -1,4 +1,4 @@
-# Sänkt energiskatt på el
+# Sänkt energiskatt på elFi/2025/01060
 
 I promemorian föreslås att energiskatten på el sänks genom att skattesatsen för 2026 fastställs till 41,1 öre per kilowattimme.
 

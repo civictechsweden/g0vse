@@ -1,4 +1,4 @@
-# Uppdrag att ta fram underlag till en handlingsplan efter utvärdering enligt EU:s hälsohotsförordning
+# Uppdrag att ta fram underlag till en handlingsplan efter utvärdering enligt EU:s hälsohotsförordningDiarienummer: S2025/00906
 
 Regeringen uppdrar åt Folkhälsomyndigheten att ta fram underlag till en handlingsplan för att hantera de rekommendationer som den europeiska smittskyddsmyndigheten, European Centre for Disease Prevention and Control, ECDC, har lämnat till Folkhälsomyndigheten och Regeringskansliet. Detta efter att ha utvärderat Sveriges planering av beredskap, förebyggande arbete och hantering av gränsöverskridande hälsohot.
 

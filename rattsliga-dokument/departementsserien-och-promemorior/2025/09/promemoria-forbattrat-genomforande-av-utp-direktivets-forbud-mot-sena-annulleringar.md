@@ -1,4 +1,4 @@
-# Promemoria Förbättrat genomförande av UTP-direktivets förbud mot sena annulleringar
+# Förbättrat genomförande av UTP-direktivets förbud mot sena annulleringar
 
 I promemorian föreslås en justering av reglerna om förbud mot sena annulleringar i lagen (2021:579) om förbud mot otillbörliga handelsmetoder vid köp av jordbruks- och livsmedelsprodukter.
 

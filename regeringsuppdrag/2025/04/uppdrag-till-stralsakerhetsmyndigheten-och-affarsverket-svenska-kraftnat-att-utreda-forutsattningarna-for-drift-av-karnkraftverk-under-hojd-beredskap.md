@@ -1,4 +1,4 @@
-# Uppdrag till Strålsäkerhetsmyndigheten och Affärsverket svenska kraftnät att utreda förutsättningarna för drift av kärnkraftverk under höjd beredskap
+# Uppdrag till Strålsäkerhetsmyndigheten och Affärsverket svenska kraftnät att utreda förutsättningarna för drift av kärnkraftverk under höjd beredskapDiarienummer: KN2023/03584, KN2025/00969
 
 Regeringen ger Strålsäkerhetsmyndigheten och Affärsverket svenska kraftnät (Svenska kraftnät) i uppdrag att utreda förutsättningarna för drift av kärnkraftverk under höjd beredskap. Statens energimyndighet (Energimyndigheten) och Energimarknadsinspektionen ska bistå i uppdraget.
 

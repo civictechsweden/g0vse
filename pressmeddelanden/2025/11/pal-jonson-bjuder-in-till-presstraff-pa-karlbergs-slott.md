@@ -1,4 +1,4 @@
-# Pål Jonson bjuder in till pressträff på Karlbergs slott
+# Inställd: Pål Jonson bjuder in till pressträff på Karlbergs slott
 
 Dagen inleds med en välkomstceremoni utomhus som äger rum kl. 9.00. Därefter följer ett bilateralt möte inne på slottet. Fotojournalister är välkomna att närvara under de första minuterna av bilateralen.
 

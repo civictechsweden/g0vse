@@ -47,6 +47,10 @@
             {
                 "name": "Godstransporter",
                 "url": "/regeringens-politik/transporter-och-infrastruktur/godstransporter/"
+            },
+            {
+                "name": "Artikel: Infrastruktur- och bostadsminister Andreas Carlson presenterade ny godstransportstrategi för branschföreträdare",
+                "url": "/artiklar/2025/11/infrastruktur--och-bostadsminister-andreas-carlson-presenterade-ny-godstransportstrategi-for-branschforetradare/"
             }
         ],
         "attachments": [],
@@ -204,12 +208,7 @@
                 "url": "/rapporter/2025/02/statens-agarpolicy-2025/"
             }
         ],
-        "attachments": [
-            {
-                "name": "Verksamhetsberättelse för bolag med statligt ägande 2024 (pdf 12 MB)",
-                "url": "/contentassets/a2be3c80b3384f3eadc64530f6a2ff23/verksamhetsberattelse-for-bolag-med-statligt-agande-2024.pdf"
-            }
-        ],
+        "attachments": [],
         "categories": [
             "1234"
         ]
@@ -230,23 +229,19 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ny riktning för Sveriges digitaliseringspolitik\n",
+                "name": "Pressmeddelande: Ny riktning för Sveriges digitaliseringspolitik",
                 "url": "/pressmeddelanden/2025/05/ny-riktning-for-sveriges-digitaliseringspolitik/"
             },
             {
-                "name": "Tema: Digitaliseringsstrategin 2025-2030\n",
+                "name": "Tema: Digitaliseringsstrategin 2025-2030",
                 "url": "/regeringens-politik/digitaliseringsstrategin-2025-2030/"
             }
         ],
-        "attachments": [
-            {
-                "name": "Sveriges digitaliseringsstrategi 2025–2030 (pdf 4 MB)",
-                "url": "/contentassets/fe3e296228fb474f803a986ae3842b4c/sveriges-digitaliseringsstrategi-20252030.pdf"
-            }
-        ],
+        "attachments": [],
         "categories": [
             "1238",
-            "2790"
+            "2790",
+            "2734"
         ]
     },
     {
@@ -263,12 +258,7 @@
         "summary": "EU:s ramverk för ekonomisk styrning är en uppsättning regler och förfaranden för multilateral samordning och övervakning av den ekonomiska politiken, finanspolitiken, sysselsättningspolitiken och socialpolitiken inom EU. Det arbete som utförs enligt ramverket samordnas huvudsakligen genom en årlig process som kallas för den europeiska planeringsterminen.",
         "id": null,
         "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Sveriges lägesrapport  2025 (pdf 1 MB)",
-                "url": "/contentassets/964479b929014705b18dd80507d7e0f4/sveriges-lagesrapport--2025.pdf"
-            }
-        ],
+        "attachments": [],
         "categories": [
             "1232",
             "1012"

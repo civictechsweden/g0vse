@@ -1,4 +1,4 @@
-# Sveriges stöd till Sudan har alltid varit starkt
+# "Sveriges stöd till Sudan har alltid varit starkt"
 
 Debattartikel av utrikesminister Maria Malmer Stenergard och bistånds- och utrikeshandelsminister Benjamin Dousa, publicerad i Aftonbladet 5 november 2025.
 

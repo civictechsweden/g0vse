@@ -1,4 +1,4 @@
-# Skattelättnad för förmån av resor med kollektivtrafik
+# Skattelättnad för förmån av resor med kollektivtrafikFi2025/01063
 
 I syfte att underlätta för arbetspendling med kollektivtrafik föreslås i denna promemoria att det införs en skattelättnad för förmån av periodbiljett för resa med kollektivtrafik.
 

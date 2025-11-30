@@ -1,4 +1,4 @@
-# Remiss av promemorian Kontantutredningen
+# Remiss av promemorian KontantutredningenDiarienummer: Fi2024/02595
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen Kontantutredningen. Övriga yttranden finns tillgängliga i departementet.
 

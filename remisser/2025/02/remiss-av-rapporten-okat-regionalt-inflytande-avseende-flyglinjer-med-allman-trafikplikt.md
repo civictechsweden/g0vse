@@ -1,3 +1,3 @@
-# Remiss av rapporten Ökat regionalt inflytande avseende flyglinjer med allmän trafikplikt
+# Remiss av rapporten Ökat regionalt inflytande avseende flyglinjer med allmän trafikpliktDiarienummer: LI2025/00230
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen Trafikverkets rapport Ökat regionalt inflytande avseende flyglinjer med allmän trafikplikt. Övriga yttranden finns tillgängliga i departementet.

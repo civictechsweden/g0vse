@@ -1,4 +1,4 @@
-# Kommenterad dagordning inför rådet för utbildning, ungdom, kultur och idrott den 12–13 maj 2025
+# Kommenterad dagordning inför rådet för utbildning, ungdom, kultur och idrott den 12–13 maj 2025Diarienummer: S2025/00898
 
 Kommenterad dagordning för UUKI/EYCS-rådets möte den 12-13 maj 2025.
 

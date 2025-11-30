@@ -1,4 +1,4 @@
-# Uppdrag till Boverket att ta fram förslag på hur typgodkännande av småhus kan genomföras
+# Uppdrag till Boverket att ta fram förslag på hur typgodkännande av småhus kan genomförasDiarienummer: LI2025/01072
 
 Regeringen ger Boverket i uppdrag att ta fram förslag på hur typgodkännande av småhus kan genomföras. Boverket ska även undersöka förutsättningarna för att, med de begränsningar som Boverket anser befogade, undanta typgodkända småhus från krav på bygglov och andra krav enligt plan- och bygglagen (2010:900), plan- och byggförordningen (2011:338) samt föreskrifter som har meddelats med stöd av förordningen.
 

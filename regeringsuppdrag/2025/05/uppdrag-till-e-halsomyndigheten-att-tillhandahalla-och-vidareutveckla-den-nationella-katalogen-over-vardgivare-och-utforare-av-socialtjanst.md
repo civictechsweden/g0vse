@@ -1,4 +1,4 @@
-# Uppdrag till E-hälsomyndigheten att tillhandahålla och vidareutveckla den nationella katalogen över vårdgivare och utförare av socialtjänst
+# Uppdrag till E-hälsomyndigheten att tillhandahålla och vidareutveckla den nationella katalogen över vårdgivare och utförare av socialtjänstDiarienummer:  S2025/00972
 
 Regeringen uppdrar åt E-hälsomyndigheten att tillhandahålla och vidareutveckla den nationella katalogen över vårdgivare och utförare av socialtjänst.
 

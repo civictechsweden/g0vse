@@ -1,4 +1,4 @@
-# Uppdrag till Vetenskapsrådet om att utveckla och redovisa kvalitetsindikatorer
+# Uppdrag till Vetenskapsrådet om att utveckla och redovisa kvalitetsindikatorerDiarienummer: U2025/01143
 
 Regeringen ger Vetenskapsrådet i uppdrag att utveckla de två kvalitetsindikatorerna; indikatorn för bibliometri och indikatorn för externa medel, som ligger till grund för fördelning av delar av universitets och högskolors anslag för forskning och utbildning på forskarnivå.
 

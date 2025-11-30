@@ -1,4 +1,4 @@
-# Uppdrag till Boverket att föreslå förändringar i trafikbullerförordningen
+# Uppdrag till Boverket att föreslå förändringar i trafikbullerförordningenDiarienummer: LI2024/00994
 
 Regeringen ger Boverket i uppdrag att utreda och föreslå betydande förändringar i förordningen (2015:216) om trafikbuller vid bostadsbyggnader (trafikbullerförordningen) i syfte att kraftigt förenkla detaljplaneprocessen enligt plan- och bygglagen (2010:900), PBL, och möjliggöra ett ökat och mer differentierat bostadsutbud.
 

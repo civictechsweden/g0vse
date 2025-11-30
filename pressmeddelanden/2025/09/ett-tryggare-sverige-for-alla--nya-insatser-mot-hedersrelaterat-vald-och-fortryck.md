@@ -20,5 +20,5 @@ I budgetpropositionen för 2026 satsar regeringen 166 miljoner kronor i nya sats
 | --- | --- | --- | --- |
 |  | **2026** | **2027** | **2028** |
 | **Kommuner och regioners arbete mot hedersrelaterat våld och förtryck** | 100 | 100 | 100 |
-| **Handligsplan mot hedersrelaterat våld och förtryck** | 17 | 10 | 10 |
+| **Handlingsplan mot hedersrelaterat våld och förtryck** | 17 | 10 | 10 |
 | **Uppskalning av regionala resurscentrum mot hedersrelaterat våld och förtryck** | 15 | 15 | 15 |

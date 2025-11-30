@@ -8,4 +8,6 @@ Inom ramen för uppdraget att föreslå en ny relevant utbildning inom det speci
 
 Till särskild utredare utses Eva Durhan. Hon har en bakgrund som avdelningschef vid Skolverkets analysavdelning och har även lett flera utredningar inom utbildningsområdet.
 
+Uppdraget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
+
 Uppdraget ska redovisas senast den 16 juni 2026.

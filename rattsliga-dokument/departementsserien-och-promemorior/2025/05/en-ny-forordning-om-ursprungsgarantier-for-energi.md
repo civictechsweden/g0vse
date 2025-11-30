@@ -1,4 +1,4 @@
-# En ny förordning om ursprungsgarantier för energi
+# En ny förordning om ursprungsgarantier för energiKN2025/01122
 
 I promemorian föreslås en ny förordning om ursprungsgarantier för energi, som ska ersätta den nuvarande förordningen (2010:853) om ursprungsgarantier för el.
 

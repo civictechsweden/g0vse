@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att förbereda för att bli ansvarigt organ för tillgång till hälsodata enligt EHDS
+# Uppdrag till Socialstyrelsen att förbereda för att bli ansvarigt organ för tillgång till hälsodata enligt EHDSDiarienummer:  S2025/00977
 
 Regeringen uppdrar åt Socialstyrelsen att förbereda för att myndigheten ska tillföras uppgifter som organ för tillgång till hälsodata enligt Europarlamentets och rådets förordning om det europeiska hälsodataområdet (EHDS).
 

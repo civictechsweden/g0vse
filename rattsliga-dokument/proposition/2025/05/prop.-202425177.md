@@ -1,4 +1,4 @@
-# Nya regler om geografiska beteckningar och internationella varumärken
+# Nya regler om geografiska beteckningar och internationella varumärkenProp. 2024/25:177
 
 I propositionen föreslår regeringen en ny lag som ska komplettera EU:s förordning om skydd av geografiska beteckningar för hantverks- och industriprodukter.
 

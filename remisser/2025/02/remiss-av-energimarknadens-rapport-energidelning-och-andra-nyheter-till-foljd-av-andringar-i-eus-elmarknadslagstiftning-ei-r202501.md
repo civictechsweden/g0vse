@@ -1,4 +1,4 @@
-# Remiss av Energimarknadsinspektionens rapport Energidelning och andra nyheter till följd av ändringar i EU:s elmarknadslagstiftning
+# Remiss av Energimarknadsinspektionens rapport Energidelning och andra nyheter till följd av ändringar i EU:s elmarknadslagstiftningDiarienummer: KN2025/00133
 
 Här kan du ta del av svaren från de som ombetts svara på remissen av Energimarknadsinspektionens rapport Energidelning
 och andra nyheter till följd av ändringar i EU:s

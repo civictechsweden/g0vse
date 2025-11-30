@@ -20,7 +20,12 @@
                 "url": "/pressmeddelanden/2025/11/regeringen-vill-ge-polisen-ratt-att-anvanda-ai-for-ansiktsigenkanning-i-realtid/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Polisens användning av AI för ansiktsigenkänning i realtid (pdf 2 MB)",
+                "url": "/contentassets/8809513a5e824f8f82adb57940be3768/polisens-anvandning-av-ai-for-ansiktsigenkanning-i-realtid.pdf"
+            }
+        ],
         "categories": [
             "2690",
             "2688"
@@ -42,7 +47,12 @@
         "summary": "EU:s förordning om hållbarhetsbetyg ska tillämpas från och med den 2 juli 2026. Genom förordningen införs ett gemensamt regelverk inom unionen för leverantörer av betyg som avser miljö, samhällsansvar och bolagsstyrning. Regelverket innebär att den som yrkesmässigt tillhandahåller sådana betyg behöver tillstånd. De leverantörer som omfattas av tillståndsplikten ska också uppfylla vissa krav när det gäller transparens, organisation och uppförande. Syftet är att förbättra betygens kvalitet och förebygga s.k. grönmålning och andra typer av felaktig information.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Kompletterande bestämmelser till EU:s förordning om hållbarhetsbetyg (pdf 1 MB)",
+                "url": "/contentassets/eea99370e3224b69ac0fef2ae676a449/kompletterande-bestammelser-till-eus-forordning-om-hallbarhetsbetyg.pdf"
+            }
+        ],
         "categories": [
             "1231",
             "1012"
@@ -69,7 +79,12 @@
                 "url": "/pressmeddelanden/2025/11/regeringen-foreslar-sankt-dansbandsmoms/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Sänkt mervärdesskatt på tillträde till danstillställningar (pdf 284 kB)",
+                "url": "/contentassets/f48c1c6bc52047baa93a571f78b3a776/sankt-mervardesskatt-pa-tilltrade-till-danstillstallningar.pdf"
+            }
+        ],
         "categories": [
             "1242",
             "1267",
@@ -97,7 +112,12 @@
                 "url": "/pressmeddelanden/2025/11/snabbare-rattsprocesser-nar-fondupphandlingar-provas/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Skyndsamhet och preklusionsfrister vid överprövning av upphandling av fonder till premiepensionens fondtorg (pdf 266 kB)",
+                "url": "/contentassets/3c92311bdcf346bca001d152b702c92b/skyndsamhet-och-preklusionsfrister-vid-overprovning-av-upphandling-av-fonder-till-premiepensionens-fondtorg.pdf"
+            }
+        ],
         "categories": [
             "1269"
         ]
@@ -123,7 +143,12 @@
                 "url": "/pressmeddelanden/2025/11/forslag-for-att-underlatta-foretags-notering-av-vardepapper/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Nya regler för att underlätta noteringar av värdepapper (pdf 1 MB)",
+                "url": "/contentassets/958c7184f64a4312a140976953a26cea/nya-regler-for-att-underlatta-noteringar-av-vardepapper.pdf"
+            }
+        ],
         "categories": [
             "1231",
             "2734",
@@ -151,7 +176,12 @@
                 "url": "/pressmeddelanden/2025/11/forslag-for-att-underlatta-for-foretagen-och-skatteverket-vid-kontroller/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Modernisering av Skatteverkets kontrollverktyg (pdf 915 kB)",
+                "url": "/contentassets/c69146ec830f49f4b075f4dc44df9af7/modernisering-av-skatteverkets-kontrollverktyg.pdf"
+            }
+        ],
         "categories": [
             "1267"
         ]
@@ -172,7 +202,12 @@
         "summary": "I lagrådsremissen föreslås att utländska stater och utländska motsvarigheter till en svensk region, kommun eller ett kommunalförbund ska undantas från skyldighet att betala kupongskatt på utdelning som lämnas av svenska aktiebolag, europabolag med säte i Sverige samt värdepappersfonder och specialfonder.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Ett undantag i kupongskattelagen för utländska stater (pdf 430 kB)",
+                "url": "/contentassets/3261bac7de6d49fc8cdda3b57ca934dd/ett-undantag-i-kupongskattelagen-for-utlandska-stater.pdf"
+            }
+        ],
         "categories": [
             "1267"
         ]
@@ -198,7 +233,12 @@
                 "url": "/pressmeddelanden/2025/11/ett-forbattrat-regelverk-for-svensk-tonnagebeskattning/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Förbättrade regler för svensk tonnagebeskattning (pdf 638 kB)",
+                "url": "/contentassets/74c0e07a28ca41c2a6b510180675135d/lagradsremiss-forbattrade-regler-for-svensk-tonnagebeskattning-web1.pdf"
+            }
+        ],
         "categories": [
             "1267",
             "1274"
@@ -220,7 +260,12 @@
         "summary": "Regeringen föreslår ändringar i offentlighets- och sekretesslagen som innebär ett utökat sekretesskydd för uppgifter om transaktioner med skjutvapen som hänför sig till Polismyndighetens verksamhet som avser sådana förteckningar och anmälningar som vapenhandlare och yrkesmässiga förmedlare av skjutvapen är skyldiga att föra eller lämna in till myndigheten.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Vissa sekretessfrågor som avser vapentransaktioner och Schengens informationssystem (pdf 299 kB)",
+                "url": "/contentassets/dc59bb917dcd4992bbcafec7e3443ce5/vissa-sekretessfragor-som-avser-vapentransaktioner-och-schengens-informationssystem/"
+            }
+        ],
         "categories": [
             "1263",
             "1013"
@@ -242,7 +287,12 @@
         "summary": "Lagrådsremissen innehåller förslag till genomförande av rådets direktiv (EU) 2025/872 av den 14 april 2025 om ändring av direktiv 2011/16/EU om administrativt samarbete i fråga om beskattning (kallat DAC 9).",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Utbyte av uppgifter i tilläggsskatterapport och kompletteringar av förfarandet av tilläggsskatt för företag i stora koncerner (pdf 15 MB)",
+                "url": "/contentassets/8367fba35b414514b4210c2c58255112/utbyte-av-uppgifter-i-tillaggsskatterapport-och-kompletteringar-av-forfarandet-av-tillaggsskatt-for-foretag-i-stora-koncerner.pdf"
+            }
+        ],
         "categories": [
             "1267",
             "1012"
@@ -269,7 +319,12 @@
                 "url": "/pressmeddelanden/2025/11/ett-sprakkrav-inom-aldreomsorgen-infors/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Ett språkkrav inom äldreomsorgen (pdf 390 kB)",
+                "url": "/contentassets/1a9d3b26d16c46c2bfab01bc1c332c2a/ett-sprakkrav-inom-aldreomsorgen.pdf"
+            }
+        ],
         "categories": [
             "1268",
             "2656"
@@ -291,7 +346,12 @@
         "summary": "I Europaparlamentets och rådets förordning (EU) 2024/1309 (EU:s förordning om gigabitinfrastruktur) regleras bl.a. inom vilken tid som en behörig myndighet, t.ex. en mark- och miljödomstol, ska bevilja eller avslå en ansökan om tillstånd. Om ett beslut inte har fattats inom den tidsfrist som föreskrivs i förordningen ska tillståndet anses beviljat när tidsfristen löper ut (s.k. tyst godkännande). Medlemsstaterna får under vissa förutsättningar som anges i förordningen avvika från bestämmelserna om tyst godkännande.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Avvikande från bestämmelserna om tyst godkännande i EUs förordning om gigabitinfrastruktur (pdf 280 kB)",
+                "url": "/contentassets/272388af0ccc4adf947479514d2b501c/avvikande-fran-bestammelserna-om-tyst-godkannande-i-eus-forordning-om-gigabitinfrastruktur.pdf"
+            }
+        ],
         "categories": [
             "1263",
             "1012"
@@ -313,9 +373,15 @@
         "summary": "I lagrådsremissen föreslås de bestämmelser som behövs för att anpassa lagen (2009:1424) om kontroll av skyddade beteckningar på jordbruksprodukter och livsmedel och lagen (2018:1654) om sanktioner vid intrång i rätten till vissa skyddade beteckningar till EU:s nya förordning om skyddade beteckningar.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Anpassning av svensk rätt till EU:s nya förordning om skyddade beteckningar på jordbruksprodukter och livsmedel (pdf 6 MB)",
+                "url": "/contentassets/11b1dfb1cdad4bef8b52d81dbc4feb2b/anpassning-av-svensk-ratt-till-eus-nya-forordning-om-skyddade-beteckningar-pa-jordbruksprodukter-och-livsmedel.pdf"
+            }
+        ],
         "categories": [
-            "1243"
+            "1243",
+            "1012"
         ]
     },
     {
@@ -333,8 +399,18 @@
         ],
         "summary": "Regeringen föreslår ett flertal åtgärder som syftar till att stärka den enskildes ställning, höja ställföreträdarverksamhetens kvalitet och skapa bättre möjligheter för att rekrytera och behålla kompetenta ställföreträdare.",
         "id": null,
-        "shortcuts": [],
-        "attachments": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Ett ställföreträdarskap att lita på – reform för ökad trygghet och självbestämmande",
+                "url": "/pressmeddelanden/2025/11/ett-stallforetradarskap-att-lita-pa--reform-for-okad-trygghet-och-sjalvbestammande/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Ett ställföreträdarskap att lita på (pdf 2 MB)",
+                "url": "/contentassets/206354a69c634f43880080b6be57040d/ett-stallforetradarskap-att-lita-pa.pdf"
+            }
+        ],
         "categories": [
             "1230"
         ]
@@ -360,7 +436,12 @@
                 "url": "/pressmeddelanden/2025/11/forbattrad-reglering-av-myndigheters-hantering-av-personuppgifter/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Framtidens dataskydd vid Skatteverket, Tullverket och Kronofogdemyndigheten (pdf 2 MB)",
+                "url": "/contentassets/37b9a1e5e94e49dd9ea57374761d3e96/framtidens-dataskydd-vid-skatteverket-tullverket-och-kronofogdemyndigheten.pdf"
+            }
+        ],
         "categories": [
             "1224",
             "1267"
@@ -387,7 +468,12 @@
                 "url": "/pressmeddelanden/2025/11/nya-atgarder-for-att-stoppa-penningtvatt-och-strypa-den-kriminella-ekonomin/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Kontroller av kontanta medel vid den inre gränsen (pdf 899 kB)",
+                "url": "/contentassets/8e7a6b7809e34ba28e36afd03abee9c1/kontroller-av-kontanta-medel-vid-den-inre-gransen.pdf"
+            }
+        ],
         "categories": [
             "1267",
             "2690",
@@ -410,7 +496,12 @@
         "summary": "I lagrådsremissen föreslår regeringen att barn och unga, i de fall en frihetsberövande påföljd inte kan undvikas, ska dömas till fängelse i stället för sluten ungdomsvård.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Frihetsberövande påföljder för barn och unga (pdf 2 MB)",
+                "url": "/contentassets/94135e96be9b4dea929d147022816b8e/frihetsberovande-pafoljder-for-barn-och-unga.pdf"
+            }
+        ],
         "categories": [
             "1220",
             "1263",
@@ -440,7 +531,12 @@
                 "url": "/pressmeddelanden/2025/11/regeringen-foreslar-permanent-skattefrihet-for-forman-av-laddel-pa-arbetsplatsen/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Permanent skattefrihet för förmån av laddel på arbetsplatsen och utvidgad rätt till avdrag för drivmedelsutgifter (pdf 477 kB)",
+                "url": "/contentassets/3e4c726e6561414aa924b17db54c8b28/permanent-skattefrihet-for-forman-av-laddel-pa-arbetsplatsen-och-utvidgad-ratt-till-avdrag-for-drivmedelsutgifter-slutlig.pdf"
+            }
+        ],
         "categories": [
             "1252",
             "1267"
@@ -467,7 +563,12 @@
                 "url": "/pressmeddelanden/2025/11/forslag-om-nedsatta-arbetsgivaravgifter-for-unga/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Tillfälligt nedsatta arbetsgivaravgifter för 19-23-åringar (pdf 496 kB)",
+                "url": "/contentassets/768d84050ec64647abf5f28a7d11e5af/tillfalligt-nedsatta-arbetsgivaravgifter-for-19-23-aringar.pdf"
+            }
+        ],
         "categories": [
             "1213",
             "1267"
@@ -494,7 +595,12 @@
                 "url": "/pressmeddelanden/2025/11/konsumentskyddet-starks-for-avtal-online/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Ett stärkt konsumentskydd vid distansavtal (pdf 1 MB)",
+                "url": "/contentassets/9ef8f370e26f49adbda23bdeaf7f0d51/ett-starkt-konsumentskydd-vid-distansavtal.pdf"
+            }
+        ],
         "categories": [
             "1240",
             "1012"
@@ -521,7 +627,12 @@
                 "url": "/pressmeddelanden/2025/10/ett-nationellt-register-for-alla-bostadsratter-ska-inrattas/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Ett register för alla bostadsrätter (pdf 1 MB)",
+                "url": "/contentassets/011619281d1f4e15b33a64659e14bf11/ett-register-for-alla-bostadsratter.pdf"
+            }
+        ],
         "categories": [
             "1217",
             "1263"
@@ -548,7 +659,12 @@
                 "url": "/pressmeddelanden/2025/10/ny-tidsobestamd-frihetsberovande-pafoljd--sakerhetsforvaring/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Säkerhetsförvaring – en ny tidsobestämd frihetsberövande påföljd (pdf 1 MB)",
+                "url": "/contentassets/6e34adf7a213416993cac0aaac286055/sakerhetsforvaring--en-ny-tidsobestamd-frihetsberovande-pafoljd.pdf"
+            }
+        ],
         "categories": [
             "1263",
             "2690",
@@ -571,7 +687,12 @@
         "summary": "I lagrådsremissen föreslås att en upptagning för automatiserad behandling som har kommit in till en myndighet genom att en informationsbärare har tagits i beslag i verksamhet som avser utredning eller internationell rättslig hjälp, eller kopierats vid en husrannsakan i sådan verksamhet, inte ska anses vara en allmän handling. Detsamma gäller en upptagning som har kommit in till en myndighet till följd av att myndigheten har tagit över ansvaret för den beslagtagna informationsbäraren eller kopian från husrannsakan. Om en upptagning tillförs en utredning eller annan verksamhet hos myndigheten ska den dock även fortsättningsvis utgöra en allmän handling. Ändringen föreslås införas genom ett tillägg i 2 kap. 14 § tryckfrihetsförordningen.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Insyn i handlingar som inhämtas genom beslag och kopiering vid husrannsakan (pdf 369 kB)",
+                "url": "/contentassets/9a7cdf28e5154c76a500f5425327d3f8/insyn-i-handlingar-som-inhamtas-genom-beslag-och-kopiering-vid-husrannsakan.pdf"
+            }
+        ],
         "categories": [
             "1263"
         ]
@@ -593,11 +714,16 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Rättvisa villkor genom nya regler för arbetskraftsinvandring",
+                "name": "Pressmeddelande: Rättvisa villkor genom nya regler för arbetskraftsinvandring",
                 "url": "/pressmeddelanden/2025/10/rattvisa-villkor-genom-nya-regler-for-arbetskraftsinvandring/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Nya regler för arbetskraftsinvandring (pdf 997 kB)",
+                "url": "/contentassets/1d4410864f524dfc97f066669de7685b/nya-regler-for-arbetskraftsinvandring.pdf"
+            }
+        ],
         "categories": [
             "1213",
             "2096",
@@ -627,7 +753,12 @@
                 "url": "/pressmeddelanden/2025/10/utvidgat-straffansvar-for-forsok-forberedelse-och-stampling-till-brott-for-att-komma-at-de-som-bidrar-till-den-organiserade-kriminaliteten/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Lagrådsremiss Ett utvidgat straffansvar för försök förberedelse och stämpling till brott (pdf 695 kB)",
+                "url": "/contentassets/b341d49208c2416e9df20fdcde7f5ec3/lagradsremiss-ett-utvidgat-straffansvar-for-forsok-forberedelse-och-stampling-till-brott.pdf"
+            }
+        ],
         "categories": [
             "1263",
             "2690",
@@ -651,7 +782,12 @@
         "summary": "Regeringen föreslår att undantaget för muntliga uppgifter ska tas bort när det gäller skattebrott, vårdslös skatteuppgift och skatteredovisningsbrott. Det innebär att även muntliga uppgifter kan leda till straffansvar enligt skattebrottslagen. Regeringen föreslår även att muntliga uppgifter ska kunna ligga till grund för skattetillägg.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Kompletteringar och förtydliganden i fråga om sanktioner vid skatteundandragande och bedrägerier (pdf 558 kB)",
+                "url": "/contentassets/4db0696a46614ca3add5979014f16cf9/kompletteringar-och-fortydliganden-i-fraga-om-sanktioner-vid-skatteundandragande-och-bedragerier.pdf"
+            }
+        ],
         "categories": [
             "1267"
         ]
@@ -677,7 +813,12 @@
                 "url": "/pressmeddelanden/2025/10/forbattrat-regelverk-om-beskattning-av-skog/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Förbättrat regelverk om beskattning av skog (pdf 1 MB)",
+                "url": "/contentassets/0d5fd810fd5d4e58a0221fa8ceacc8f0/forbattrat-regelverk-om-beskattning-av-skog.pdf"
+            }
+        ],
         "categories": [
             "1267"
         ]
@@ -703,7 +844,12 @@
                 "url": "/pressmeddelanden/2025/10/modernare-reglering-for-kriminalvardens-behandling-av-personuppgifter/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "En modern lagstiftning för Kriminalvårdens personuppgiftsbehandling (pdf 1 MB)",
+                "url": "/contentassets/09bd1a7a429b463abcf265a2081ef8ee/en-modern-lagstiftning-for-kriminalvardens-personuppgiftsbehandling.pdf"
+            }
+        ],
         "categories": [
             "1224",
             "1263"
@@ -730,7 +876,12 @@
                 "url": "/pressmeddelanden/2025/10/storre-mojligheter-for-kommuner-att-gora-registerkontroll-vid-anstallning/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Utökade registerkontroller vid anställning i kommun (pdf 640 kB)",
+                "url": "/contentassets/178b47b2e33d46c2bd3770a7064b3533/utokade-registerkontroller-vid-anstallning-i-kommun.pdf"
+            }
+        ],
         "categories": [
             "2092",
             "1263",
@@ -755,7 +906,12 @@
         "summary": "I lagrådsremissen föreslås en ny lag som anpassar svensk lagstiftning till EU:s gödselproduktförordning. Bestämmelserna i förordningen gäller för sådana produkter som tillhandahålls på den inre marknaden med en CE-märkning, under beteckningen EU-gödselprodukt.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "En ny lag om tillhandahållande på marknaden av EU-gödselprodukter (pdf 6 MB)",
+                "url": "/contentassets/4c260ef0de3e45bfab5a7105cf9f5baf/en-ny-lag-om-tillhandahallande-pa-marknaden-av-eu-godselprodukter.pdf"
+            }
+        ],
         "categories": [
             "1243",
             "1012"
@@ -782,7 +938,12 @@
                 "url": "/pressmeddelanden/2025/10/regeringen-foreslar-kriminalisering-av-otillaten-hawala-verksamhet/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Straffansvar för olovlig finansiell verksamhet (pdf 629 kB)",
+                "url": "/contentassets/82ca99f1f2c1403ba63cb67085d0e538/straffansvar-for-olovlig-finansiell-verksamhet.pdf"
+            }
+        ],
         "categories": [
             "1231"
         ]
@@ -808,7 +969,12 @@
                 "url": "/pressmeddelanden/2025/10/regeringen-kraftsamlar-mot-momsbedragerier/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Åtgärder mot mervärdesskattebedrägerier (pdf 1 MB)",
+                "url": "/contentassets/32ab614a473c42c4a7c225ce009c0812/atgarder-mot-mervardesskattebedragerier.pdf"
+            }
+        ],
         "categories": [
             "1267"
         ]
@@ -829,7 +995,12 @@
         "summary": "I lagrådsremissen föreslås ändringar i syfte att stärka regelverket kring invasiva främmande arter inför införandet av en nationell förteckning över sådana arter.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Skärpningar av regelverket för invasiva främmande arter (pdf 298 kB)",
+                "url": "/contentassets/e505b4968312406ca431c2bb3b51de70/skarpningar-av-regelverket-for-invasiva-frammande-arter.pdf"
+            }
+        ],
         "categories": [
             "1252"
         ]
@@ -849,8 +1020,18 @@
         ],
         "summary": "I lagrådsremissen föreslås ändringar i tryckfrihetsförordningen och yttrandefrihetsgrundlagen som gör att fler krav som avser tillgänglighet ska kunna ställas på produkter och tjänster som omfattas av grundlagsskydd.",
         "id": null,
-        "shortcuts": [],
-        "attachments": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen föreslår grundlagsändringar för att öka tillgängligheten för personer med funktionsnedsättning",
+                "url": "/pressmeddelanden/2025/10/regeringen-foreslar-grundlagsandringar-for-att-oka-tillgangligheten-for-personer-med-funktionsnedsattning/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Tillgänglighetskrav för vissa medier (pdf 679 kB)",
+                "url": "/contentassets/a9b34140dd7f4a218b277b700724b009/tillganglighetskrav-for-vissa-medier.pdf"
+            }
+        ],
         "categories": [
             "1224",
             "1248",
@@ -878,7 +1059,12 @@
                 "url": "/pressmeddelanden/2025/10/regeringen-foreslar-atgarder-for-okad-sakerhet-i-ostersjon/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Kustbevakningens sjöövervakning (pdf 668 kB)",
+                "url": "/contentassets/1045911a3ad042a8b62a9a884a8f28ca/kustbevakningens-sjoovervakning.pdf"
+            }
+        ],
         "categories": [
             "2248"
         ]
@@ -900,11 +1086,40 @@
         "id": null,
         "shortcuts": [
             {
+                "name": "En äldreomsorgslag, dir 2020:142",
+                "url": "/rattsliga-dokument/kommittedirektiv/2020/12/dir.-2020142"
+            },
+            {
+                "name": "Nästa steg – Ökad kvalitet och jämlikhet i vård och omsorg för äldre personer. SOU 2022:41",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2022/06/sou-202241/"
+            },
+            {
+                "name": "Remiss av betänkandet Nästa steg – Ökad kvalitet och jämlikhet i vård och omsorg för äldre personer",
+                "url": "/remisser/2022/07/remisslista-avseende-betankandet-nasta-steg--okad-kvalitet-och-jamlikhet-i-vard-och-omsorg-for-aldre-personer-sou-202241/"
+            },
+            {
+                "name": "Översyn av insatser enligt LSS och assistansersättningen, dir. 2016:40",
+                "url": "/rattsliga-dokument/kommittedirektiv/2016/05/oversyn-av-insatser-enligt-lss-och-assistansersattningen/"
+            },
+            {
+                "name": "Översyn av insatser enligt LSS och assistansersättningen, SOU 2018:88",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2019/01/sou-201888/"
+            },
+            {
+                "name": "Remiss av betänkandet Översyn av insatser enligt LSS och assistansersättningen, SOU 2018:88",
+                "url": "/remisser/2020/06/remissinstanser-sou-201888-lss-utredningen/"
+            },
+            {
                 "name": "Pressmeddelande: Bättre stöd till äldre och dem som stödjer närstående",
                 "url": "/pressmeddelanden/2025/10/battre-stod-till-aldre-och-de-som-stodjer-narstaende/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Stärkta insatser för äldre och för dem som vårdar eller stöder närstående (pdf 644 kB)",
+                "url": "/contentassets/4903bebdde924c1e8117e5035a1386c1/starkta-insatser-for-aldre-och-for-de-som-vardar-eller-stoder-narstaende.pdf"
+            }
+        ],
         "categories": [
             "1268",
             "2656"
@@ -931,7 +1146,12 @@
                 "url": "/pressmeddelanden/2025/10/tillstandskrav-for-testamenterad-lantbruksegendom/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Juridiska personers förvärv av lantbruksegendom genom testamente (pdf 446 kB)",
+                "url": "/contentassets/8c2ca94ba2b74a279d653416af9e45ea/juridiska-personers-forvarv-av-lantbruksegendom-genom-testamente.pdf"
+            }
+        ],
         "categories": [
             "1243"
         ]
@@ -951,8 +1171,18 @@
         ],
         "summary": "I lagrådsremissen föreslås de lagändringar som krävs för att genomföra Europaparlamentets och rådets direktiv (EU) 2024/1069 om skydd för personer som deltar i den offentliga debatten mot uppenbart ogrundade anspråk eller rättegångsmissbruk (strategiska rättsprocesser för att hindra offentlig debatt).",
         "id": null,
-        "shortcuts": [],
-        "attachments": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen föreslår en ny lag som stärker skyddet för yttrande- och informationsfriheten",
+                "url": "/pressmeddelanden/2025/10/regeringen-foreslar-en-ny-lag-som-starker-skyddet-for-yttrande--och-informationsfriheten/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Genomförande av direktivet om skydd för personer som deltar i den offentliga debatten samt införande av en ny tredskodomssanktion (pdf 2 MB)",
+                "url": "/contentassets/0c9e1d7946f2489bbcd04d56a24781f9/genomforande-av-direktivet-om-skydd-for-personer-som-deltar-i-den-offentliga-debatten-samt-inforande-av-en-ny-tredskodomssanktion.pdf"
+            }
+        ],
         "categories": [
             "1263",
             "1012"
@@ -978,12 +1208,17 @@
                 "url": "/pressmeddelanden/2025/09/enklare-och-effektivare-med-digital-inlamning-av-bouppteckningar/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Elektronisk inlämning av bouppteckningar (pdf 456 kB)",
+                "url": "/contentassets/1052ab1ba6bf4e688089bf62a7d81c0c/elektronisk-inlamning-av-bouppteckningar.pdf"
+            }
+        ],
         "categories": []
     },
     {
         "title": "Utkast till lagrådsremiss Sänkt straffbarhetsålder för allvarliga brott",
-        "url": "/rattsliga-dokument/lagradsremiss/2025/09/llr-forbered/",
+        "url": "/rattsliga-dokument/lagradsremiss/2025/09/utkast-till-lagradsremiss-sankt-straffbarhetsalder-for-allvarliga-brott/",
         "published": "2025-09-24",
         "updated": null,
         "types": [
@@ -996,8 +1231,18 @@
         ],
         "summary": "I denna lagrådsremiss föreslås lagändringar gällande sänkt straffbarhetsålder för allvarliga brott.",
         "id": null,
-        "shortcuts": [],
-        "attachments": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Förslag om att tillfälligt sänka straffbarhetsåldern till 13 år för allvarliga brott skickas på remiss",
+                "url": "/pressmeddelanden/2025/09/forslag-om-att-tillfalligt-sanka-straffbarhetsaldern-till-13-ar-for-allvarliga-brott-skickas-pa-remiss/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Utkast till Lrr Sänkt straffbarhetsålder för allvarliga brott (pdf 1 MB)",
+                "url": "/contentassets/72996e4aa26a49599ca87678dd61af08/utkast-till-lrr-sankt-straffbarhetsalder-for-allvarliga-brott.pdf"
+            }
+        ],
         "categories": [
             "1263",
             "2690",
@@ -1021,7 +1266,12 @@
         "summary": "I denna lagrådsremiss föreslås ändringar i plan- och bygglagen (2010:900) som behövs för att anpassa svensk rätt till EU:s nya byggproduktförordning. De föreslagna lagändringarna föreslås träda i kraft den 12 februari 2026.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Anpassningar till EU:s nya byggproduktförordning (pdf 1 MB)",
+                "url": "/contentassets/ce35acd2451a44858cca3b3713600fde/anpassningar-till-eus-nya-byggproduktforordning.pdf"
+            }
+        ],
         "categories": [
             "1217"
         ]
@@ -1047,7 +1297,12 @@
                 "url": "/pressmeddelanden/2025/09/nya-regler-ger-forbattrade-forutsattningar-for-foretagare/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Det skatterättsliga företrädaransvaret – nya regler om befrielse och rådrum (pdf 844 kB)",
+                "url": "/contentassets/37849adc343140aaa9238b9ff845d03b/det-skatterattsliga-foretradaransvaret--nya-regler-om-befrielse-och-radrum.pdf"
+            }
+        ],
         "categories": [
             "1267"
         ]
@@ -1068,7 +1323,12 @@
         "summary": "Regeringen föreslår att regionerna ska få möjlighet att anställa sjukhusfysiker som gör specialiseringstjänstgöring. Detta i en omfattning som motsvarar det planerade framtida behovet av sjukhusfysiker med specialistkompetens.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Specialiseringstjänstgöring för sjukhusfysiker (pdf 309 kB)",
+                "url": "/contentassets/53c5da34654a47ec8a1bc00ff0286ba6/specialiseringstjanstgoring-for-sjukhusfysiker.pdf"
+            }
+        ],
         "categories": [
             "1233"
         ]
@@ -1094,7 +1354,12 @@
                 "url": "/pressmeddelanden/2025/09/regeringen-foreslar-att-kravet-pa-hallbarhetsrapportering-skjuts-upp-for-vissa-foretag/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Uppskjutet krav på att hållbarhetsrapportera för vissa företag (pdf 427 kB)",
+                "url": "/contentassets/687537a34b9a49d2a9609ac49c10b52d/uppskjutet-krav-pa-att-hallbarhetsrapportera-for-vissa-foretag/"
+            }
+        ],
         "categories": [
             "1252",
             "1257",
@@ -1178,7 +1443,12 @@
         ],
         "summary": "Det finns ett behov av att lägga om kriminalpolitiken. Fokus ska flyttas från gärningsman till brottsoffer och samhällsskydd. För att åstadkomma detta ses centrala delar av strafflagstiftningen över i syfte bland annat att skärpa innehållet i de befintliga påföljderna, framför allt fängelsestraffet.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen går vidare med förslag om skärpta regler för villkorlig frigivningWebb-TV",
+                "url": "/pressmeddelanden/2025/08/regeringen-gar-vidare-med-forslag-om-skarpta-regler-for-villkorlig-frigivning/"
+            }
+        ],
         "attachments": [
             {
                 "name": "Skärpta regler för villkorlig frigivning (pdf 1 MB)",
@@ -1208,7 +1478,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Nästa steg i införandet av tandvårdsreform",
+                "name": "Pressmeddelande: Nästa steg i införandet av tandvårdsreformWebb-TV",
                 "url": "/pressmeddelanden/2025/08/nasta-steg-i-inforandet-av-tandvardsreform/"
             }
         ],
@@ -1462,7 +1732,12 @@
         ],
         "summary": "I lagrådsremissen föreslås lagändringar som ökar möjligheterna att verkställa fängelsestraff med elektronisk övervakning.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Kriminalvården ska förbereda för fängelsestraff i kontrollerat boende",
+                "url": "/pressmeddelanden/2025/06/kriminalvarden-ska-forbereda-for-fangelsestraff-i-kontrollerat-boende/"
+            }
+        ],
         "attachments": [
             {
                 "name": "Utökade möjligheter att verkställa fängelsestraff med elektronisk övervakning (pdf 884 kB)",
@@ -1523,7 +1798,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Lagförslag att stärka skyddet för barn\n",
+                "name": "Pressmeddelande: Lagförslag att stärka skyddet för barn",
                 "url": "/pressmeddelanden/2025/06/lagforslag-att-starka-skyddet-for-barn/"
             }
         ],
@@ -1554,7 +1829,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen föreslår en ny cybersäkerhetslag\n",
+                "name": "Pressmeddelande: Regeringen föreslår en ny cybersäkerhetslag",
                 "url": "/pressmeddelanden/2025/06/regeringen-foreslar-en-ny-cybersakerhetslag/"
             }
         ],
@@ -1613,7 +1888,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen stärker skyddet för spelare – föreslår nytt förbud mot spel på kredit\n",
+                "name": "Pressmeddelande: Regeringen stärker skyddet för spelare – föreslår nytt förbud mot spel på kredit",
                 "url": "/pressmeddelanden/2025/06/regeringen-starker-skyddet-for-spelare--foreslar-nytt-forbud-mot-spel-pa-kredit/"
             }
         ],
@@ -1671,7 +1946,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ny möjlighet att stänga av statligt anställda\n",
+                "name": "Pressmeddelande: Ny möjlighet att stänga av statligt anställda",
                 "url": "/pressmeddelanden/2025/06/ny-mojlighet-att-stanga-av-statligt-anstallda/"
             }
         ],
@@ -1703,7 +1978,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Stärkt skydd för företagshemligheter\n",
+                "name": "Pressmeddelande: Stärkt skydd för företagshemligheter",
                 "url": "/pressmeddelanden/2025/06/starkt-skydd-for-foretagshemligheter/"
             }
         ],
@@ -1789,7 +2064,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen tar nästa steg mot en god och nära vård\n",
+                "name": "Pressmeddelande: Regeringen tar nästa steg mot en god och nära vård",
                 "url": "/pressmeddelanden/2025/06/regeringen-tar-nasta-steg-mot-en-god-och-nara-vard/"
             }
         ],
@@ -2009,7 +2284,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen beslutar om lagrådsremissen Kompletterande bestämmelser till EU:s mediefrihetsförordning\n",
+                "name": "Pressmeddelande: Regeringen beslutar om lagrådsremissen Kompletterande bestämmelser till EU:s mediefrihetsförordning",
                 "url": "/pressmeddelanden/2025/05/regeringen-beslutar-om-lagradsremissen-kompletterande-bestammelser-till-eus-mediefrihetsforordning/"
             }
         ],
@@ -2042,7 +2317,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Flera skatteförslag remitteras inför höstbudgeten\n",
+                "name": "Pressmeddelande: Flera skatteförslag remitteras inför höstbudgeten",
                 "url": "/pressmeddelanden/2025/02/flera-skatteforslag-remitteras-infor-hostbudgeten/"
             }
         ],
@@ -2101,7 +2376,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen föreslår enklare skatteregler för delägare i fåmansföretag\n",
+                "name": "Pressmeddelande: Regeringen föreslår enklare skatteregler för delägare i fåmansföretag",
                 "url": "/pressmeddelanden/2025/05/regeringen-foreslar-enklare-skatteregler-for-delagare-i-famansforetag/"
             }
         ],
@@ -2159,7 +2434,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ökade möjligheter att dela personuppgifter inom Polismyndigheten\n",
+                "name": "Pressmeddelande: Ökade möjligheter att dela personuppgifter inom Polismyndigheten",
                 "url": "/pressmeddelanden/2025/05/okade-mojligheter-att-dela-personuppgifter-inom-polismyndigheten/"
             }
         ],
@@ -2193,7 +2468,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Förutsättningarna för nyproduktion av hyresbostäder ska förbättras\n",
+                "name": "Pressmeddelande: Förutsättningarna för nyproduktion av hyresbostäder ska förbättras",
                 "url": "/pressmeddelanden/2025/05/forutsattningarna-for-nyproduktion-av-hyresbostader-ska-forbattras/"
             }
         ],
@@ -2251,7 +2526,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen och Sverigedemokraterna stärker kontrollen över tandvården\n",
+                "name": "Pressmeddelande: Regeringen och Sverigedemokraterna stärker kontrollen över tandvården",
                 "url": "/pressmeddelanden/2025/05/regeringen-och-sverigedemokraterna-starker-kontrollen-over-tandvarden/"
             }
         ],
@@ -2334,7 +2609,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ytterligare kraftsamling mot den kriminella ekonomin\n",
+                "name": "Pressmeddelande: Ytterligare kraftsamling mot den kriminella ekonomin",
                 "url": "/pressmeddelanden/2025/05/ytterligare-kraftsamling-mot-den-kriminella-ekonomin/"
             }
         ],
@@ -2350,7 +2625,7 @@
         ]
     },
     {
-        "title": " Bättre verktyg för kontroll – uppgiftsinhämtning inom socialförsäkringen och ekonomiskt bistånd ",
+        "title": "Bättre verktyg för kontroll – uppgiftsinhämtning inom socialförsäkringen och ekonomiskt bistånd",
         "url": "/rattsliga-dokument/lagradsremiss/2025/05/battre-verktyg-for-kontroll--uppgiftsinhamtning-inom-socialforsakringen-och-ekonomiskt-bistand/",
         "published": "2025-05-08",
         "updated": null,
@@ -2366,7 +2641,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "1.   Pressmeddelande: Regeringen föreslår fler verktyg för att stoppa bidragsbrottslighet inom assistansen och stärkt kontroll av socialförsäkringen\n",
+                "name": "1.   Pressmeddelande: Regeringen föreslår fler verktyg för att stoppa bidragsbrottslighet inom assistansen och stärkt kontroll av socialförsäkringen",
                 "url": "/pressmeddelanden/2025/04/regeringen-foreslar-fler-verktyg-for-att-stoppa-bidragsbrottslighet-inom-assistansen-och-starkt-kontroll-av-socialforsakringen/"
             }
         ],
@@ -2397,7 +2672,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Valen ska bli säkrare och mer tillgängliga\n",
+                "name": "Pressmeddelande: Valen ska bli säkrare och mer tillgängliga",
                 "url": "/pressmeddelanden/2025/05/valen-ska-bli-sakrare-och-mer-tillgangliga/"
             }
         ],
@@ -2429,7 +2704,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Effektivare verktyg för att bekämpa brott som begås av barn under 15 år\n",
+                "name": "Pressmeddelande: Effektivare verktyg för att bekämpa brott som begås av barn under 15 år",
                 "url": "/pressmeddelanden/2025/04/effektivare-verktyg-for-att-bekampa-brott-som-begas-av-barn-under-15-ar/"
             }
         ],
@@ -2489,7 +2764,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Tydligare och modernare regler för polisens användning av skjutvapen\n",
+                "name": "Pressmeddelande: Tydligare och modernare regler för polisens användning av skjutvapen",
                 "url": "/pressmeddelanden/2025/04/tydligare-och-modernare-regler-for-polisens-anvandning-av-skjutvapen/"
             }
         ],
@@ -2522,15 +2797,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Rivna sekretesshinder för effektivare informationsutbyte mellan myndigheter\n",
+                "name": "Pressmeddelande: Rivna sekretesshinder för effektivare informationsutbyte mellan myndigheter",
                 "url": "/pressmeddelanden/2025/04/rivna-sekretesshinder-for-effektivare-informationsutbyte-mellan-myndigheter/"
             },
             {
-                "name": "SOU 2025:45 Ökat informationsutbyte mellan myndigheter – några anslutande frågor\n",
+                "name": "SOU 2025:45 Ökat informationsutbyte mellan myndigheter – några anslutande frågor",
                 "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/04/sou-202545/"
             },
             {
-                "name": "Pressmeddelande: Fler förslag för att förbättra informationsutbytet mellan myndigheter\n",
+                "name": "Pressmeddelande: Fler förslag för att förbättra informationsutbytet mellan myndigheter",
                 "url": "/pressmeddelanden/2025/04/fler-forslag-for-att-forbattra-informationsutbytet-mellan-myndigheter/"
             }
         ],
@@ -2562,7 +2837,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Illegal hantering av explosiva varor försvåras\n",
+                "name": "Pressmeddelande: Illegal hantering av explosiva varor försvåras",
                 "url": "/pressmeddelanden/2025/04/illegal-hantering-av-explosiva-varor-forsvaras/"
             }
         ],
@@ -2595,7 +2870,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Skärpta krav för offentliga biträden och höjda kompetenskrav för tolkar\n",
+                "name": "Pressmeddelande: Skärpta krav för offentliga biträden och höjda kompetenskrav för tolkar",
                 "url": "/pressmeddelanden/2025/04/skarpta-krav-for-offentliga-bitraden-och-hojda-kompetenskrav-for-tolkar/"
             }
         ],
@@ -2654,7 +2929,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen föreslår kriminalisering av oskuldskontroller, oskuldsintyg och oskuldsingrepp\n",
+                "name": "Pressmeddelande: Regeringen föreslår kriminalisering av oskuldskontroller, oskuldsintyg och oskuldsingrepp",
                 "url": "/pressmeddelanden/2025/04/regeringen-foreslar-kriminalisering-av-oskuldskontroller-oskuldsintyg-och-oskuldsingrepp/"
             }
         ],
@@ -2669,6 +2944,30 @@
             "1239",
             "1263",
             "2671"
+        ]
+    },
+    {
+        "title": "Utkast till lagrådsremiss Sänkt straffbarhetsålder för allvarliga brott",
+        "url": "/rattsliga-dokument/lagradsremiss/2025/09/llr-forbered/",
+        "published": "2025-09-24",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "I denna lagrådsremiss föreslås lagändringar gällande sänkt straffbarhetsålder för allvarliga brott.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1263",
+            "2690",
+            "2688",
+            "2710"
         ]
     },
     {

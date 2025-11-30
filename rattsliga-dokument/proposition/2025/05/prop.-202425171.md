@@ -1,4 +1,4 @@
-# Effektiva sanktioner inom luftfarten
+# Effektiva sanktioner inom luftfartenProp. 2024/25:171
 
 I propositionen föreslås ändringar i luftfartslagen (2010:500) och miljöbalken.
 

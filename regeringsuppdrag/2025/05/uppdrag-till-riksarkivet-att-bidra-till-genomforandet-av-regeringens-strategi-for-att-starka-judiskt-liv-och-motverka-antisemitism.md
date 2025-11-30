@@ -1,4 +1,4 @@
-# Uppdrag till Riksarkivet att bidra till genomförandet av regeringens strategi för att stärka judiskt liv och motverka antisemitism
+# Uppdrag till Riksarkivet att bidra till genomförandet av regeringens strategi för att stärka judiskt liv och motverka antisemitismDiarienummer: Ku2025/00575
 
 Regeringen ger Riksarkivet i uppdrag att bidra till genomförandet av regeringens strategi för att stärka judiskt liv och motverka antisemitism.
 

@@ -1,4 +1,4 @@
-# Uppdrag till Statens centrum för arkitektur och design att förbereda överföring av uppgifter till Moderna museet och förbereda avveckling av myndigheten
+# Uppdrag till Statens centrum för arkitektur och design att förbereda överföring av uppgifter till Moderna museet och förbereda avveckling av myndighetenDiarienummer: Ku2025/00626
 
 Regeringen ger Statens centrum för arkitektur och design i uppdrag att dels förbereda överföring av myndighetens uppgifter till Moderna museet, dels förbereda avveckling av myndigheten så att Statens centrum för arkitektur och design kan upphöra som myndighet den 31 december 2025.
 

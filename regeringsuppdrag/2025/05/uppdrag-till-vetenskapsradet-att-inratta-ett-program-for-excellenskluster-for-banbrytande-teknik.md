@@ -1,4 +1,4 @@
-# Uppdrag till Vetenskapsrådet att inrätta ett program för excellenskluster för banbrytande teknik
+# Uppdrag till Vetenskapsrådet att inrätta ett program för excellenskluster för banbrytande teknikDiarienummer: U2025/01359
 
 Regeringen ger Vetenskapsrådet i uppdrag att inrätta ett program för excellenskluster för banbrytande teknik med fokus på framtidens teknikområden. Inriktningen ska vara fri forskarinitierad forskning som söks i öppen konkurrens. Uppdraget är långsiktigt och ska möjliggöra forskning av högsta vetenskapliga kvalitet med högt vetenskapligt risktagande.
 

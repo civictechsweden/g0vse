@@ -1,4 +1,4 @@
-# Uppdrag till Statskontoret att analysera och föreslå regelförenklingar och försöksverksamheter för ökad effektivitet i kommunal verksamhet
+# Uppdrag till Statskontoret att analysera och föreslå regelförenklingar och försöksverksamheter för ökad effektivitet i kommunal verksamhetDiarienummer: Fi2025/00998
 
 Regeringen ger Statskontoret i uppdrag att ta emot, analysera och bedöma förslag till ändringar av lagar, förordningar, myndighetsföreskrifter och allmänna råd samt försöksverksamheter från berörda aktörer. Syftet med arbetet ska vara att lämna vidare utvalda förslag till regeringen som, baserat på myndighetens analys och bedömning, kan undanröja hinder för effektiv kommunal verksamhet.
 

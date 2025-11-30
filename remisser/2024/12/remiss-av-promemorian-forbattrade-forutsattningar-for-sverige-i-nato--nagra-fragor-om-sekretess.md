@@ -1,4 +1,4 @@
-# Remiss av promemorian Förbättrade förutsättningar för Sverige i Nato – några frågor om sekretess
+# Remiss av promemorian Förbättrade förutsättningar för Sverige i Nato – några frågor om sekretessDiarienummer: Fö2024/02052
 
 Här kan du ta del av de remissvar som kommit in till Försvarsdepartementet på promemorian Förbättrade förutsättningar för Sverige i Nato – några frågor om sekretess (Ds 2024:34).
 

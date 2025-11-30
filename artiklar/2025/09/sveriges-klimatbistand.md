@@ -2,7 +2,7 @@
 
 Klimatkrisen är global. Vi drabbas alla av klimatförändringar, oavsett var utsläppen sker. Därför ligger det i Sveriges intresse att bidra till den gröna omställningen och fossilfri energi världen över. Sveriges bidrag till finansieringen är en central del av den svenska klimatpolitiken.
 
-![](/globalassets/regeringen/bilder/utrikesdepartementet/klimatwebben-akutalitetsbilder/klimatsmart-jordbruk-pa-madagaskar/?width=356&rmode=crop&heightratio=0.667&quality=85)
+![](/globalassets/regeringen/bilder/utrikesdepartementet/temasidor/sveriges-klimatbistand/klimatsmart-jordbruk-pa-madagaskar/?width=356&rmode=crop&heightratio=0.667&quality=85)
 
 Foto: Conservation international
 
@@ -10,9 +10,9 @@ Foto: Conservation international
 
 Genom Gröna klimatfonden bidrar svenskt bistånd till klimatsmart jordbruk och tryggad livsmedelsförsörjning på Madagaskar.
 
-* [Artikel: Klimatsmart jordbruk stärker skogarna på Madagaskar](/artiklar/2025/09/klimatsmart-jordbruk-starker-skogarna-pa-madagaskar/)
+* [Klimatsmart jordbruk stärker skogarna på Madagaskar](/regeringens-politik/sveriges-klimatbistand/klimatsmart-jordbruk-starker-skogarna-pa-madagaskar2/)
 
-![](/globalassets/regeringen/bilder/utrikesdepartementet/klimatwebben-akutalitetsbilder/bartolina-marayai/?width=356&rmode=crop&heightratio=0.667&quality=85)
+![](/globalassets/regeringen/bilder/utrikesdepartementet/temasidor/sveriges-klimatbistand/bartolina-marayai/?width=356&rmode=crop&heightratio=0.667&quality=85)
 
 Foto: Solidar Suisse/NDF
 
@@ -20,9 +20,9 @@ Foto: Solidar Suisse/NDF
 
 Genom Nordiska utvecklingsfonden bidrar svenskt bistånd till affärsutveckling för biologisk mångfald.
 
-* [Artikel: Affärsutveckling i Bolivia stärker motståndskraften mot klimatförändringar](/artiklar/2025/09/affarsutveckling-i-bolivia-starker-motstandskraften-mot-klimatforandringar/)
+* [Affärsutveckling i Bolivia stärker motståndskraften mot klimatförändringar](/regeringens-politik/sveriges-klimatbistand/affarsutveckling-i-bolivia-starker-motstandskraften-mot-klimatforandringar/)
 
-![](/globalassets/regeringen/bilder/utrikesdepartementet/klimatwebben-akutalitetsbilder/textilproduktion/?width=356&rmode=crop&heightratio=0.667&quality=85)
+![](/globalassets/regeringen/bilder/utrikesdepartementet/temasidor/sveriges-klimatbistand/textilproduktion/?width=356&rmode=crop&heightratio=0.667&quality=85)
 
 Foto: Adobe Stock
 
@@ -30,9 +30,9 @@ Foto: Adobe Stock
 
 Genom Globala miljöfonden bidrar svenskt klimatbistånd till minskad miljöpåverkan från mode- och textilindustrin.
 
-* [Artikel: Minskad miljöpåverkan från mode- och textilindustrin](/artiklar/2025/09/minskad-miljopaverkan-fran-mode--och-textilindustrin/)
+* [Minskad miljöpåverkan från mode- och textilindustrin](/regeringens-politik/sveriges-klimatbistand/minskad-miljopaverkan-fran-mode--och-textilindustrin/)
 
-![Kvinna som ler och håller i en bit lera.](/globalassets/regeringen/bilder/utrikesdepartementet/klimatwebben-akutalitetsbilder/giz/?width=356&rmode=crop&heightratio=0.667&quality=85)
+![Kvinna som ler och håller i en bit lera.](/globalassets/regeringen/bilder/utrikesdepartementet/temasidor/sveriges-klimatbistand/giz/?width=356&rmode=crop&heightratio=0.667&quality=85)
 
 Charity Njeri Gachanja, spistillverkare i Kenya, förbereder leran som används vid tillverkningen av keramiska innerskikt till energieffektiva spisar.
 Foto: GIZ
@@ -41,9 +41,9 @@ Foto: GIZ
 
 Genom Gröna klimatfonden bidrar svenskt bistånd till att stötta kvinnors företagande och minskade utsläpp i Kenya.
 
-* [Artikel: Stöd till kvinnors företagande och klimatvänliga spisar i Kenya](/artiklar/2025/09/stod-till-kvinnors-foretagande-och-klimatvanliga-spisar-i-kenya/)
+* [Stöd till kvinnors företagande och klimatvänliga spisar i Kenya](/regeringens-politik/sveriges-klimatbistand/stod-till-kvinnors-foretagande-och-klimatvanliga-spisar-i-kenya/)
 
-![](/globalassets/regeringen/bilder/utrikesdepartementet/klimatwebben-akutalitetsbilder/tiger-kvalitet-cropped.jpg?width=356&rmode=crop&heightratio=0.667&quality=85)
+![](/globalassets/regeringen/bilder/utrikesdepartementet/temasidor/sveriges-klimatbistand/tiger-kvalitet-cropped.jpg?width=356&rmode=crop&heightratio=0.667&quality=85)
 
 Foto: Pixaby
 
@@ -51,9 +51,9 @@ Foto: Pixaby
 
 Genom Globala miljöfonden bidrar svenskt bistånd till att motverka tjuvjakt av asiatiska tigern.
 
-* [Artikel: Tigerbevarandeprojekt och bevarande av ekosystem i Asien](/artiklar/2025/09/tigerbevarandeprojekt-och-bevarande-av-ekosystem-i-asien/)
+* [Tigerbevarandeprojekt och bevarande av ekosystem i Asien](/regeringens-politik/sveriges-klimatbistand/tigerbevarandeprojekt-och-bevarande-av-ekosystem-i-asien/)
 
-![](/globalassets/regeringen/bilder/utrikesdepartementet/klimatwebben-akutalitetsbilder/adaptation-fund/?width=356&rmode=crop&heightratio=0.667&quality=85)
+![](/globalassets/regeringen/bilder/utrikesdepartementet/temasidor/sveriges-klimatbistand/adaptation-fund/?width=356&rmode=crop&heightratio=0.667&quality=85)
 
 Foto: Malawi Ministry of Agriculture – Adaptation Fund Project/Annie Malunga
 
@@ -61,4 +61,4 @@ Foto: Malawi Ministry of Agriculture – Adaptation Fund Project/Annie Malunga
 
 Genom Anpassningsfonden bidrar svenskt bistånd till tryggad livsmedelsförsörjning och sysselsättning i områden utsatta för klimatförändringar.
 
-* [Artikel: Tryggad livsmedelsförsörjning och sysselsättning i Malawi](/artiklar/2025/09/tryggad-livsmedelsforsorjning-och-sysselsattning-i-malawi/)
+* [Tryggad livsmedelsförsörjning och sysselsättning i Malawi](/regeringens-politik/sveriges-klimatbistand/tryggad-livsmedelsforsorjning-och-sysselsattning-i-malawi/)

@@ -1,4 +1,4 @@
-# Uppdrag till Vetenskapsrådet att inrätta ett program för strategisk rekrytering
+# Uppdrag till Vetenskapsrådet att inrätta ett program för strategisk rekryteringDiarienummer: U2025/01318
 
 Regeringen ger Vetenskapsrådet i uppdrag att inrätta ett program för strategisk rekrytering med särskild inriktning på den nationella meriteringsanställningen biträdande lektor.
 

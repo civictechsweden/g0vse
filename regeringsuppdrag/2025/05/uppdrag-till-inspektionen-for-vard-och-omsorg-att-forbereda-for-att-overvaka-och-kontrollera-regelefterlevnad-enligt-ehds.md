@@ -1,4 +1,4 @@
-# Uppdrag till Inspektionen för vård och omsorg att förbereda för att övervaka och kontrollera regelefterlevnad enligt EHDS
+# Uppdrag till Inspektionen för vård och omsorg att förbereda för att övervaka och kontrollera regelefterlevnad enligt EHDSDiarienummer:  S2025/00980
 
 Regeringen uppdrar åt Inspektionen för vård och omsorg att förbereda för att bli organ för tillgång till hälsodata. Detta med ansvar för att övervaka och kontrollera regelefterlevnad enligt Europarlamentets och rådets förordning om det europeiska hälsodataområdet.
 

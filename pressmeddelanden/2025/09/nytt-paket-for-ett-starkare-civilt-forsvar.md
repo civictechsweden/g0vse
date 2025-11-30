@@ -28,7 +28,7 @@ För räddningstjänsten handlar det om att stärka grundförmågan inom den kom
 
 | **Ökning av medel 2026-2028** Totalt cirka 12 miljarder kronor | | | |
 | --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
+| Siffror i miljoner kronor | **2026** | **2027** | **2028** |
 | **Generella förstärkningar** |  |  |  |
 | Hälsa, vård och omsorg | 683 | 1 667 | 1 917 |
 | Kommuner och regioner | 490 | 1 249 | 1 345 |

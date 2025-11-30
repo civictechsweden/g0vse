@@ -32,7 +32,7 @@ Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokrate
 
 | **Satsningar på äldreomsorgen (mnkr)** | | | |
 | --- | --- | --- | --- |
-|  | **2026** | **2027** | **2026** |
+|  | **2026** | **2027** | **2028** |
 | **Reglering av språkkrav inom äldreomsorgen i socialtjänstlagen** | 90 | 165 | 150 |
 | **Uppdrag till myndigheter för att stödja arbetet med och följa upp det föreslagna språkkravet** | 23 | 23 | 23 |
 | **Förstärkt och vidgat Äldreomsorgslyft** | 100 | 1 800 |  |

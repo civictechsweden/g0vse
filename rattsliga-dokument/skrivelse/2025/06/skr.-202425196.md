@@ -1,4 +1,4 @@
-# Riksrevisionens rapport om lärosätenas arbete mot avhopp på bristyrkesutbildningar2024/25:196
+# Riksrevisionens rapport om lärosätenas arbete mot avhopp på bristyrkesutbildningarSkr. 2024/25:196
 
 Regeringen redovisar sin bedömning av de iakttagelser och
 slutsatser samt rekommendationer som Riksrevisionen lämnar till

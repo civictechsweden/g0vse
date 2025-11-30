@@ -30,7 +30,7 @@ Sjukvårdsministern ansvarar bland annat för följande frågor:
 * Hälso- och sjukvårdens kompetensförsörjning
 * Hälso- och sjukvårdens krisberedskap
 * Ungdomspolitik
-* Politik avseende alkohol, narkotika, dopning, tobak samt spel om pengar (ANDTS)
+* Politik avseende alkohol, narkotika, dopning samt tobak (ANDT)
 
 ## Camilla Waltersson Grönvall, socialtjänstminister
 

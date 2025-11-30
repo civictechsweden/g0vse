@@ -1,4 +1,4 @@
-# Uppdrag till Affärsverket svenska kraftnät att utvidga transmissionsnätet i norra Norrbottens län
+# Uppdrag till Affärsverket svenska kraftnät att utvidga transmissionsnätet i norra Norrbottens länDiarienummer: KN2025/01074
 
 Regeringen ger Affärsverket svenska kraftnät (Svenska kraftnät) i uppdrag att analysera hur myndigheten inom ramen för sina uppgifter kan utvidga transmissionsnätet till att även omfatta norra Norrbottens län.
 

@@ -1,4 +1,4 @@
-# Tilläggsdirektiv till Utredningen om en förbättrad elevhälsa (U 2024:01)
+# Tilläggsdirektiv till Utredningen om en förbättrad elevhälsa (U 2024:01)Dir. 2025:62
 
 Förlängd tid för delar av uppdraget.
 

@@ -1,4 +1,4 @@
-# Uppdrag till Konsumentverket att redovisa och förstärka sitt arbete när det gäller marknadsföring via influencers
+# Uppdrag till Konsumentverket att redovisa och förstärka sitt arbete när det gäller marknadsföring via influencersDiarienummer: Fi2025/01290
 
 Regeringen ger Konsumentverket i uppdrag att redovisa och förstärka sitt informations- och tillsynsarbete när det gäller marknadsföring som bedrivs av influencers. I uppdraget ingår att bedöma om det finns behov av ytterligare informationsinsatser till företag och influencers som bedriver sådan marknadsföring, och i så fall ta fram eller utveckla detta, i syfte att öka konsumentskyddet med särskilt fokus på barn och unga.
 

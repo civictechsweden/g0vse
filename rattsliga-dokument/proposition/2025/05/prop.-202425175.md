@@ -1,4 +1,4 @@
-# Hemliga och preventiva tvångsmedel när barn under 15 år begår brott
+# Hemliga och preventiva tvångsmedel när barn under 15 år begår brottProp. 2024/25:175
 
 Möjligheterna att använda hemliga och preventiva tvångsmedel är många gånger helt avgörande för att kunna förebygga, förhindra och utreda allvarlig brottslighet. Det gäller oavsett hur gammal gärningspersonen är. Den allvarliga brottsligheten tränger allt lägre ner i åldrarna och barn intar centrala roller i den riskbetonade organiserade brottsligheten. Den utvecklingen måste vändas och barnen skyddas från att involveras i kriminalitet.
 

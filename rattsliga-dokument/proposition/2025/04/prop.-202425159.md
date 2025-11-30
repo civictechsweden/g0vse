@@ -1,4 +1,4 @@
-# Godkännande för F-skatt – nya hinder och återkallelsegrunder
+# Godkännande för F-skatt – nya hinder och återkallelsegrunderProp. 2024/25:159
 
 I propositionen föreslås ett nytt hinder för godkännande och en ny grund för återkallelse av F-skatt som tar sikte på felaktiga utbetalningar i samband med skattereduktion för installation av grön teknik.
 

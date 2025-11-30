@@ -1,4 +1,4 @@
-# Uppdrag till Myndigheten för digital förvaltning och Post- och telestyrelsen att stödja genomförandet av Sveriges digitaliseringsstrategi 2025−2030
+# Uppdrag till Myndigheten för digital förvaltning och Post- och telestyrelsen att stödja genomförandet av Sveriges digitaliseringsstrategi 2025−2030Diarienummer: Fi2025/01188
 
 Regeringen ger Myndigheten för digital förvaltning (Digg) och Post- och telestyrelsen (PTS) i uppdrag att stödja genomförandet av Sveriges digitaliseringsstrategi 2025–2030.
 

@@ -1,4 +1,4 @@
-# Anpassning av svensk rätt till den reviderade VIS-förordningen
+# Anpassning av svensk rätt till den reviderade VIS-förordningenProp. 2024/25:176
 
 Informationssystemet för viseringar (VIS) är ett EU-gemensamt informationssystem för utbyte av information mellan medlemsstaterna om viseringar för kortare vistelse, som också brukar benämnas Schengenviseringar.
 

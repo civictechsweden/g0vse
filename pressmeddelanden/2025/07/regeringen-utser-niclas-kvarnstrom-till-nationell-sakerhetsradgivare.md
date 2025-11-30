@@ -1,6 +1,6 @@
 # Regeringen utser Niclas Kvarnström till nationell säkerhetsrådgivare
 
-- Niclas Kvarnström är en framstående diplomat med lång erfarenhet från Utrikesdepartementet, Europeiska unionen och det privata näringslivet. Han har bred utrikes- och säkerhetspolitisk kompetens som täcker både Europa, Ryssland, Kina och flera multilaterala samarbetsorganisationer. Jag är glad över att han har tackat ja till att återvända till Sverige från Bryssel för att tjänstgöra som nationell säkerhetsrådgivare, säger statsminister Ulf Kristersson.
+– Niclas Kvarnström är en framstående diplomat med lång erfarenhet från Utrikesdepartementet, Europeiska unionen och det privata näringslivet. Han har bred utrikes- och säkerhetspolitisk kompetens som täcker både Europa, Ryssland, Kina och flera multilaterala samarbetsorganisationer. Jag är glad över att han har tackat ja till att återvända till Sverige från Bryssel för att tjänstgöra som nationell säkerhetsrådgivare, säger statsminister Ulf Kristersson.
 
 Den nationella säkerhetsrådgivaren biträder det nationella säkerhetsrådet och statsministern i utrikes- och säkerhetspolitiska frågor och frågor om nationell säkerhet.
 

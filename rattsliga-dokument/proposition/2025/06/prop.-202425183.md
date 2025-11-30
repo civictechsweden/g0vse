@@ -1,4 +1,4 @@
-# Intelligenta transportsystem – genomförande av ändringsdirektiv
+# Intelligenta transportsystem – genomförande av ändringsdirektivProp. 2024/25:183
 
 I propositionen föreslås ändringar i lagen (2013:315) om intelligenta transportsystem vid vägtransporter. Ändringarna är en del av genomförandet av EU:s direktiv (EU) 2023/2661 om intelligenta transportsystem på vägtransportområdet.
 

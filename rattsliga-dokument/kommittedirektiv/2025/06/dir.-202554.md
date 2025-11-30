@@ -1,4 +1,4 @@
-# Stärkta förutsättningar för gränsöverskridande samarbete om kapacitet och redundans för transporter över Öresund från 2050
+# Stärkta förutsättningar för gränsöverskridande samarbete om kapacitet och redundans för transporter över Öresund från 2050Dir. 2025:54
 
 En särskild utredare ska föreslå en uppdragsbeskrivning för en bilateral strategisk svensk-dansk utredning med ambitionen att skapa en samsyn kring behovet av kapacitet och redundans för transporter över Öresund från 2050 samt en gemensam syn på inriktningen för transportsystemets funktion i Öresundsregionen. Syftet med den bilaterala strategiska utredningen ska vara att ge regeringarna i de båda länderna underlag för ställningstaganden om eventuella fortsatta gränsöverskridande samarbeten om framtida kapacitet och redundans för transporter över Öresund.
 

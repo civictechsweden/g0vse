@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att föreslå och genomföra åtgärder för att förbättra förskrivningen av läkemedel till personer som får stöd enligt LSS
+# Uppdrag till Socialstyrelsen att föreslå och genomföra åtgärder för att förbättra förskrivningen av läkemedel till personer som får stöd enligt LSSDiarienummer: S2025/00981
 
 Regeringen uppdrar åt Socialstyrelsen att föreslå och genomföra åtgärder för att förbättra förskrivningen av läkemedel till personer som får stöd enligt lagen om stöd och service till vissa funktionshindrade, LSS.
 

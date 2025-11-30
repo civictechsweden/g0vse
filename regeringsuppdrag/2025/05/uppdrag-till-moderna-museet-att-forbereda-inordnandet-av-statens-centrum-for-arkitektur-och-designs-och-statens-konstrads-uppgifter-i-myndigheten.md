@@ -1,4 +1,4 @@
-# Uppdrag till Moderna museet att förbereda inordnandet av Statens centrum för arkitektur och designs och Statens konstråds uppgifter i myndigheten
+# Uppdrag till Moderna museet att förbereda inordnandet av Statens centrum för arkitektur och designs och Statens konstråds uppgifter i myndighetenDiarienummer: Ku2025/00624
 
 Regeringen ger Moderna museet i uppdrag att förbereda inordnandet av Statens centrum för arkitektur och designs och Statens konstråds uppgifter i Moderna museet den 1 januari 2026.
 

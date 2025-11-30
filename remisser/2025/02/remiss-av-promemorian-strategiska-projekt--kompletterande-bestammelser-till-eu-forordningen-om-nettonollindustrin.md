@@ -1,4 +1,4 @@
-# Remiss av promemorian Strategiska projekt – Kompletterande bestämmelser till EU-förordningen om nettonollindustrin
+# Remiss av promemorian Strategiska projekt – Kompletterande bestämmelser till EU-förordningen om nettonollindustrinDiarienummer: KN2025/00239
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Strategiska projekt – Kompletterande bestämmelser till EU-förordningen om nettonollindustrin.
 

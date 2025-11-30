@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att förbereda arbetet med att genomföra förslagen i lagrådsremissen Hälso- och sjukvårdens beredskap
+# Uppdrag till Socialstyrelsen att förbereda arbetet med att genomföra förslagen i lagrådsremissen Hälso- och sjukvårdens beredskapDiarienummer:  S2025/00866
 
 Regeringen uppdrar åt Socialstyrelsen att förbereda arbetet med att genomföra förslagen i lagrådsremissen Hälso- och sjukvårdens beredskap
 

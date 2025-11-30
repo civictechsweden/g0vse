@@ -1,4 +1,4 @@
-# Uppdrag till Försvarsmakten om samverkan gällande teknikinfrastruktur
+# Uppdrag till Försvarsmakten om samverkan gällande teknikinfrastrukturDiarienummer: Fö2025/00712
 
 Regeringen ger Försvarsmakten i uppdrag att genomföra en kartläggning och analys i syfte att se över möjligheterna till ökad samverkan mellan Försvarsmakten, Försvarets materielverk, Totalförsvarets forskningsinstitut och RISE Research Institutes of Sweden AB gällande teknikinfrastruktur.
 

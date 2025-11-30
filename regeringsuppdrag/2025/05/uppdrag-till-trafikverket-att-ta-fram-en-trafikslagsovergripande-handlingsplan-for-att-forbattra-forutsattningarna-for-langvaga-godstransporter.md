@@ -1,4 +1,4 @@
-# Uppdrag till Trafikverket att ta fram en trafikslagsövergripande handlingsplan för att förbättra förutsättningarna för långväga godstransporter
+# Uppdrag till Trafikverket att ta fram en trafikslagsövergripande handlingsplan för att förbättra förutsättningarna för långväga godstransporterDiarienummer: LI2025/00937
 
 Regeringen ger Trafikverket i uppdrag att ta fram en trafikslagsövergripande handlingsplan för hur förutsättningarna för långväga godstransporter inom hela transportsektorn kan förbättras.
 

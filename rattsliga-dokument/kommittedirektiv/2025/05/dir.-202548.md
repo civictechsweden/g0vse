@@ -1,4 +1,4 @@
-# En analys av hur premiepensionssystemets försäkringsformer fungerar under utbetalningstiden
+# En analys av hur premiepensionssystemets försäkringsformer fungerar under utbetalningstidenDir. 2025:48
 
 Regeringen uppdrar åt en särskild utredare att analysera hur väl premiepensionssystemets nuvarande försäkringsformer fungerar under utbetalningstiden. Utredaren ska ta ställning till om det bör skapas en särskild utbetalningsprodukt. Syftet är att bedöma om nuvarande utformning och förvaltning är den mest ändamålsenliga sett till pensionärernas bästa under utbetalningstiden.
 

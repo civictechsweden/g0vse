@@ -1,4 +1,4 @@
-# Åtgärder för en effektiv och patientsäker anslutning till den nationella läkemedelslistan
+# Åtgärder för en effektiv och patientsäker anslutning till den nationella läkemedelslistanProp.  2024/25:182
 
 Regeringen föreslår att skyldigheten att lämna vissa uppgifter till den nationella läkemedelslistan vid en elektronisk förskrivning senareläggs från den 1 december 2025 till den 1 september 2028.
 

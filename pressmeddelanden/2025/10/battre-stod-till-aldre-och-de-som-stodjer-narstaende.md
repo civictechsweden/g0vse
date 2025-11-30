@@ -1,4 +1,4 @@
-# Bättre stöd till äldre och de som stödjer närstående
+# Bättre stöd till äldre och dem som stödjer närstående
 
 – Nu stärker vi äntligen upp stödet till anhöriga som vårdar och stödjer närstående. Anhöriga gör en enastående insats men riskerar själva att bli sjuka på grund av påfrestningen. Med en stödkontakt, och bättre stöd och vägledning, kan anhörigas situation underlättas, säger äldre- och socialförsäkringsminister Anna Tenje.
 

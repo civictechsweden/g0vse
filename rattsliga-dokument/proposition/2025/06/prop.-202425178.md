@@ -1,4 +1,4 @@
-# Förenklad in- och uthyrning av skepp
+# Förenklad in- och uthyrning av skeppProp. 2024/25:178
 
 I propositionen föreslås att regelverket om inhyrning av utländska och uthyrning av svenska skepp, s.k. skeppslega, på engelska bareboat charter, ska byggas ut och ändras.
 

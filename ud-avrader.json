@@ -72,24 +72,6 @@
         ]
     },
     {
-        "title": "Madagaskar - borttagen avrådan",
-        "url": "/ud-avrader/madagaskar--avradan/",
-        "published": "2025-11-07",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av det förbättrade säkerhetsläget avråder Utrikesdepartementet inte längre från icke nödvändiga resor till Madagaskar.\n\nBeslut om borttagen avrådan togs den 7 november 2025.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1116"
-        ]
-    },
-    {
         "title": "Kambodja - avrådan",
         "url": "/ud-avrader/kambodja---avradan/",
         "published": "2025-07-25",
@@ -152,7 +134,7 @@
         "senders": [
             "1295"
         ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till Irak förutom till provinserna Dahuk, Arbil och Sulaymaniyah i den kurdiska regionen i Irak. För dessa regioner avråder UD från icke nödvändiga resor.\n\nBeslut om ändrad avrådan togs den 2 juli 2025. Avrådan gäller tills vidare.",
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till Irak förutom till provinserna Dohuk, Erbil, Sulaymaniyah och Halabja i regionen Kurdistan i Irak. För dessa provinser avråder UD från icke nödvändiga resor.\n\nBeslut om ändrad avrådan togs den 2 juli 2025. Avrådan gäller tills vidare.",
         "id": null,
         "shortcuts": [],
         "attachments": [],
@@ -249,6 +231,24 @@
         "categories": [
             "2204",
             "1133"
+        ]
+    },
+    {
+        "title": "Madagaskar - borttagen avrådan",
+        "url": "/ud-avrader/madagaskar--avradan/",
+        "published": "2025-11-07",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av det förbättrade säkerhetsläget avråder Utrikesdepartementet inte längre från icke nödvändiga resor till Madagaskar.\n\nBeslut om borttagen avrådan togs den 7 november 2025.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1116"
         ]
     },
     {

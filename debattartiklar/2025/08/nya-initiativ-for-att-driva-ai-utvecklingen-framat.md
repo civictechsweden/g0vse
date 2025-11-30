@@ -1,4 +1,4 @@
-# "Nya initiativ för att driva AI utvecklingen framåt"
+# "Nya initiativ för att driva AI-utvecklingen framåt"
 
 Debattartikel av civilminister Erik Slottner. Publicerad i Dagens Industri den 25 augusti 2025.
 

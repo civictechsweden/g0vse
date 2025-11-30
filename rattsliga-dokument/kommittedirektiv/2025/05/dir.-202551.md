@@ -1,4 +1,4 @@
-# Återkallelse av medborgarskap i vissa fall
+# Återkallelse av medborgarskap i vissa fallDir. 2025:51
 
 En särskild utredare ska analysera den grundlagsändring som 2023 års fri- och rättighetskommitté har föreslagit och lämna förslag som innebär att det svenska medborgarskapet ska kunna fråntas den med dubbla medborgarskap som har förvärvat medborgarskapet på felaktiga grunder eller som har begått vissa mycket allvarliga brott. Syftet med uppdraget är att stärka betydelsen av medborgarskapet som bärare av både rättigheter och skyldigheter.
 

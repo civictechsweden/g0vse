@@ -1,4 +1,4 @@
-# Uppdrag till Försäkringskassan att standardisera läkarintyg
+# Uppdrag till Försäkringskassan att standardisera läkarintygDiarienummer:  S2025/01188
 
 Regeringen uppdrar åt Försäkringskassan att standardisera och göra myndighetens läkarintyg enhetliga. Meningen är att göra det lättare att införa en nationellt sammanhållen hantering av intyg.
 

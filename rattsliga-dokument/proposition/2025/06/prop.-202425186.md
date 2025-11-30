@@ -1,4 +1,4 @@
-# Polisens användning av skjutvapen
+# Polisens användning av skjutvapenProp. 2024/25:186
 
 Regeringen föreslår en ny reglering av polisens användning av skjutvapen. Skjutvapen är det mest ingripande och farliga hjälpmedel som polisen kan använda sig av. Det är viktigt att reglerna om när skjutvapen får användas är restriktiva, ändamålsenligt utformade och enkla att tillämpa. Den nuvarande regleringen är från 1960-talet och behöver moderniseras.
 

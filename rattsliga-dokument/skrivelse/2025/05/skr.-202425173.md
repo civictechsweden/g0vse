@@ -1,4 +1,4 @@
-# Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp
+# Riksrevisionens rapport om tillgången till kommunalt vatten och avloppSkr. 2024/25:173
 
 I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen har redovisat i rapporten Tillgången till kommunalt vatten och avlopp – statens insatser för allmänna vattentjänster (RiR 2025:2).
 

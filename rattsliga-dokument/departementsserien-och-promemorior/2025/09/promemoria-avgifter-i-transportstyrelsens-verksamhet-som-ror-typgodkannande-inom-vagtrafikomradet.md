@@ -1,4 +1,4 @@
-# Promemoria Avgifter i Transportstyrelsens verksamhet som rör typgodkännande inom vägtrafikområdet
+# Avgifter i Transportstyrelsens verksamhet som rör typgodkännande inom vägtrafikområdet
 
 I denna promemoria föreslås en ny förordning om avgifter i Transport-styrelsens verksamhet som rör typgodkännande inom vägtrafikområdet. Vidare föreslås följdändringar i fyra förordningar.
 

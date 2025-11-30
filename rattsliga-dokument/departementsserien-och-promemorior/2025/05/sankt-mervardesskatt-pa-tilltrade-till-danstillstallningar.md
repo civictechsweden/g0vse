@@ -1,4 +1,4 @@
-# Sänkt mervärdesskatt på tillträde till danstillställningar
+# Sänkt mervärdesskatt på tillträde till danstillställningarFi2025/01062
 
 I promemorian föreslås att mervärdesskattesatsen på tillträde till danstillställningar ska sänkas från 25 procent till 6 procent. Syftet med förslaget är att främja dans och kultur i Sverige.
 

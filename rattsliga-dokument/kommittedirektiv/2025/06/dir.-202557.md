@@ -1,4 +1,4 @@
-# Tilläggsdirektiv till Utredningen om straffrättsliga åtgärder mot korruption och tjänstefel (Ju 2024:02)
+# Tilläggsdirektiv till Utredningen om straffrättsliga åtgärder mot korruption och tjänstefel (Ju 2024:02)Dir. 2025:57
 
 Ändring i uppdraget.
 

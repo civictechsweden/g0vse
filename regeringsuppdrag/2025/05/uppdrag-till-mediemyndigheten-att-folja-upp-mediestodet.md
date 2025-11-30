@@ -1,4 +1,4 @@
-# Uppdrag till Mediemyndigheten att följa upp mediestödet
+# Uppdrag till Mediemyndigheten att följa upp mediestödetDiarienummer: Ku2025/00622
 
 Regeringen ger Mediemyndigheten i uppdrag att följa upp det mediestödssystem som infördes 2024. Mediemyndigheten ska inom ramen för uppföljningen analysera mediestödets effekter och bedöma om stödet uppfyllt sitt syfte.
 

@@ -1,4 +1,4 @@
-# En europeisk gemensam åtkomstpunkt för finansiell och hållbarhetsrelaterad information
+# En europeisk gemensam åtkomstpunkt för finansiell och hållbarhetsrelaterad informationFi2025/01311
 
 Genom en ny EU-förordning (Esap-förordningen) ska en europeisk gemensam åtkomstpunkt inrättas som ger centraliserad tillgång till allmänt tillgänglig information som är relevant för finansiella tjänster, kapital-marknader och hållbarhet (European Single Access Point, Esap). Europeiska värdepappers- och marknadsmyndigheten (Esma) har ansvaret för inrättandet och driften av åtkomstpunkten, som ska vara i drift senast den 10 juli 2027.
 

@@ -1,4 +1,4 @@
-# Stärkt skydd för demokratin och domstolarnas oberoende
+# Stärkt skydd för demokratin och domstolarnas oberoendeProp. 2024/25:165
 
 Sverige befinner sig i det allvarligaste säkerhetsläget sedan andra världskriget. Trots det står den svenska demokratiska rättsstaten sig fortsatt stark och är väl förankrad i våra grundlagar. Samtidigt visar utvecklingen i delar av vår omvärld att politiska krafter kan undergräva demokratin och rättsstaten på kort tid. Det kan många gånger ske under förevändning att åtgärderna är demokratiskt legitima, nödvändiga och i överensstämmelse med folkviljan. Regeringen anser att denna utveckling visar att det finns skäl att genomföra ändringar i regeringsformen i syfte att stärka det institutionella skyddet för Sverige som demokratisk rättsstat. Förslagen i propositionen innebär i huvudsak att det enligt bestämmelserna i regeringsformen ska bli svårare att ändra grundlag och att skyddet för domstolarnas och domarnas oberoende långsiktigt stärks.
 

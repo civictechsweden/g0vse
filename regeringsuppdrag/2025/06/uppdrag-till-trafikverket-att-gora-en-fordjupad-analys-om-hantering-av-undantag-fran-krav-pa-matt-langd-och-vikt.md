@@ -1,4 +1,4 @@
-# Uppdrag till Trafikverket att göra en fördjupad analys om hantering av undantag från krav på mått, längd och vikt
+# Uppdrag till Trafikverket att göra en fördjupad analys om hantering av undantag från krav på mått, längd och viktDiarienummer: LI2025/01085
 
 Regeringen ger Trafikverket i uppdrag att göra en fördjupad analys inför ett eventuellt helt eller delvis övertagande från kommunerna av hanteringen av undantag från bestämmelser i trafikförordningens (1998:1276) om krav på motordrivna fordons mått, längd och vikt.
 

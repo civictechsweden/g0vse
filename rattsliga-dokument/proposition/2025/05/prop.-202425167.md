@@ -1,4 +1,4 @@
-# Hälso- och sjukvårdens beredskap
+# Hälso- och sjukvårdens beredskapProp. 2024/25:167
 
 Propositionen innehåller förslag som syftar till att stärka hälso- och sjukvårdens beredskap i händelse av kris och krig.
 

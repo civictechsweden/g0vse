@@ -1,4 +1,4 @@
-# Uppdrag om utvecklat föräldraskapsstöd och kontaktvägar för barn som utsatts för våld och sexuell exploatering
+# Uppdrag om utvecklat föräldraskapsstöd och kontaktvägar för barn som utsatts för våld och sexuell exploateringDiarienummer: A2025/00608
 
 Regeringen ger Barnombudsmannen i uppdrag att identifiera kontaktvägar för barn och unga som har utsatts för våld i partnerrelation, sexuellt våld eller sexuell exploatering. Regeringen ger Myndigheten för familjerätt och föräldraskapsstöd i uppdrag att främja utvecklingen av föräldraskapsstöd till barn och unga som riskerar att utsättas eller har utsatts för våld i partnerrelation, sexuellt våld eller sexuell exploatering.
 

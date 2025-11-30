@@ -1,5 +1,7 @@
 # Strategi för att stärka judiskt liv och motverka antisemitism i Sverige
 
+![](/globalassets/regeringen/bilder/kulturdepartementet/framsida-strategi-for-att-starka-judiskt-liv-och-motverka-antisemitism-i-sverige.png?width=150&quality=85)
+
 Den judiska kulturen är en självklar del av den svenska, och den judiska historien i Sverige är en omistlig tråd i den väv som bildar vårt gemensamma kulturarv. Det borde vara en självklarhet att man som jude i Sverige kan bära sin davidsstjärna eller kippa öppet och med stolthet. Tyvärr är så inte alltid fallet.
 
 Sveriges första strategi för att stärka judiskt liv och motverka antisemitism kommer i en tid av ökande känsla av otrygghet för den judiska minoriteten. Många svenska judar beskriver antisemitismen som det enskilt största hindret för att fullt ut kunna leva ett judiskt liv i Sverige.

@@ -1,4 +1,4 @@
-# Uppdrag till Tandvårds- och läkemedelsförmånsverket att genomföra hälsoekonomiska bedömningar av medicintekniska produkter för diagnosticering och behandling av cancer
+# Uppdrag till Tandvårds- och läkemedelsförmånsverket att genomföra hälsoekonomiska bedömningar av medicintekniska produkter för diagnosticering och behandling av cancerDiarienummer:  S2025/00974
 
 Regeringen uppdrar åt Tandvårds- och läkemedelsförmånsverket att genomföra hälsoekonomiska bedömningar av medicintekniska produkter som är av betydelse vid diagnosticering och behandling av cancer. Detta för att främja ett ändamålsenligt införande och hantering av dessa produkter i vården.
 

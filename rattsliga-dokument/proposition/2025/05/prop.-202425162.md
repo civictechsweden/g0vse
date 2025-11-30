@@ -1,4 +1,4 @@
-# Några tillägg och förtydliganden i den nya lagen om arbetslöshetsförsäkring
+# Några tillägg och förtydliganden i den nya lagen om arbetslöshetsförsäkringProp. 2024/25:162
 
 I propositionen föreslås vissa tillägg och förtydliganden i den nya lagen (2024:506) om arbetslöshetsförsäkring. Det föreslås ett undantag från huvudregeln att deltagare i arbetsmarknadspolitiska program inte har rätt till arbetslöshetsersättning. Undantaget gäller sökande som deltar i arbetsmarknadspolitiska program som avser särskilda insatser för personer med funktionsnedsättning som medför nedsatt arbetsförmåga.
 

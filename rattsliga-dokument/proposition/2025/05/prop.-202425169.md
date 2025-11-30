@@ -1,4 +1,4 @@
-# Ett nytt regelverk för bygglov
+# Ett nytt regelverk för bygglovProp. 2024/25:169
 
 I propositionen föreslås ändringar i plan- och bygglagen som innebär ett nytt, enklare, effektivare och mer ändamålsenligt regelverk för bygglov m.m.
 

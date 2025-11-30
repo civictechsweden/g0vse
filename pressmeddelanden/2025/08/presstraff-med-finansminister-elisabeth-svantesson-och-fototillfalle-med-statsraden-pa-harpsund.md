@@ -5,7 +5,7 @@ I samband med det håller Elisabeth Svantesson en pressträff. Pressträffen web
 Det blir också tillfälle för fotografer att ta en gruppbild av de samlade statsråden. För mer information om det, kontakta Hanna Strömberg.
 
 **Fototillfälle**
-**Tid**: 28 augusti 2025 ca kl. 12.45
+**Tid**: 28 augusti 2025 ca kl. 14.30
 **Plats**: Gårdsplanen, Harpsund
 
 **Pressträff med finansminister Elisabeth Svantesson**

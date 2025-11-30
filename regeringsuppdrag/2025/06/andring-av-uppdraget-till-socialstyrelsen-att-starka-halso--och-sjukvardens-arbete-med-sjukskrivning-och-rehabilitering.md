@@ -1,4 +1,4 @@
-# Ändring av uppdraget till Socialstyrelsen att stärka hälso- och sjukvårdens arbete med sjukskrivning och rehabilitering
+# Ändring av uppdraget till Socialstyrelsen att stärka hälso- och sjukvårdens arbete med sjukskrivning och rehabiliteringDiarienummer: S2025/01084
 
 Regeringen ändrar uppdraget till Socialstyrelsen om att stärka hälso- och sjukvårdens arbete med sjukskrivning och relaterad rehabilitering. Det befintliga uppdraget får utökade medel och uppdragstiden förlängs.
 

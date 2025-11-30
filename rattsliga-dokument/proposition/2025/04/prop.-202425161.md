@@ -1,4 +1,4 @@
-# Förbättrad ordning och säkerhet vid förvar
+# Förbättrad ordning och säkerhet vid förvarProp. 2024/25:161
 
 I propositionen föreslås att Migrationsverket ska få utökade möjligheter att använda sig av tvångs- och kontrollåtgärder vid förvaren, i syfte att förbättra möjligheterna att upprätthålla ordningen och säkerheten.
 

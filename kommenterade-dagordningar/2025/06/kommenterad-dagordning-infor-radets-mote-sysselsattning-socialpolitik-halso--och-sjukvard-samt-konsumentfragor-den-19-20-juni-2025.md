@@ -1,4 +1,4 @@
-# Kommenterad dagordning inför Rådets möte sysselsättning, socialpolitik, hälso- och sjukvård samt konsumentfrågor den 19-20 juni 2025
+# Kommenterad dagordning inför Rådets möte sysselsättning, socialpolitik, hälso- och sjukvård samt konsumentfrågor den 19-20 juni 2025Diarienummer: S2025/01130
 
 Kommenterad dagordning för EPSCO-rådets möte den 19-20 juni 2025.
 

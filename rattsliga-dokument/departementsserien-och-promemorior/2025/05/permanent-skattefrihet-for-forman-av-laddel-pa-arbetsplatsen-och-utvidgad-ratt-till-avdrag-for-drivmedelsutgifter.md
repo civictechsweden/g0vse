@@ -1,4 +1,4 @@
-# Permanent skattefrihet för förmån av laddel på arbetsplatsen och utvidgad rätt till avdrag för drivmedelsutgifter
+# Permanent skattefrihet för förmån av laddel på arbetsplatsen och utvidgad rätt till avdrag för drivmedelsutgifterFi2025/01064
 
 I denna promemoria föreslås att den tillfälliga skattefriheten för förmån av laddel på arbetsplatsen ska gälla permanent. Förslaget syftar bland annat till att fortsatt underlätta omställningen till en fossilfri fordonsflotta och att gynna arbetsresor med laddbara fordon framför andra, mindre hållbara, alternativ. Förslaget innebär att de tillfälliga bestämmelserna i 11 kap. 12 b § inkomstskattelagen (1999:1229) ska gälla tills vidare och att lagen (2023:346) om ändring i inkomstskattelagen (1999:1229) ska utgå.
 

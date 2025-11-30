@@ -1,4 +1,4 @@
-# Oberoende granskning av hållbarhetsrapporter samt en översyn av befintliga företagskategorier i årsredovisningslagen
+# Oberoende granskning av hållbarhetsrapporter samt en översyn av befintliga företagskategorier i årsredovisningslagenDir. 2025:49
 
 En särskild utredare ska ta ställning till vissa redovisningsrättsliga frågor i syfte att skapa större flexibilitet för företagen, minska deras administrativa börda samt förbättra deras möjligheter till konkurrens och tillväxt. I uppdraget ingår möjligheter att föreslå redovisningsrättsliga lättnader för vissa företag, i enlighet med den förenklingsagenda som såväl regeringen som EU bedriver.
 

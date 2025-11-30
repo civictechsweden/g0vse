@@ -146,7 +146,7 @@
     },
     {
         "title": "Tal av statsminister Ulf Kristersson på Fannys Förebilder Gala Version",
-        "url": "/tal/2025/11/tal-av-statsminister-ulf-kristersson-pa-fannys-forebilder-fannys-forebilder-gala-version/",
+        "url": "/tal/2025/11/tal-av-statsminister-ulf-kristersson-pa-fannys-forebilder-gala-version/",
         "published": "2025-11-18",
         "updated": null,
         "types": [
@@ -251,7 +251,8 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1242"
+            "1242",
+            "2734"
         ]
     },
     {
@@ -324,6 +325,7 @@
             "2391",
             "1239",
             "1279",
+            "2751",
             "1013"
         ]
     },
@@ -347,6 +349,7 @@
             "1219",
             "2435",
             "1279",
+            "2751",
             "2584",
             "1013",
             "1198"
@@ -507,7 +510,7 @@
         ]
     },
     {
-        "title": "Nationellt anförande av klimat- och miljöminister Romina Pourmokhtari vid FN:s tredje havskonferens ",
+        "title": "Nationellt anförande av klimat- och miljöminister Romina Pourmokhtari vid FN:s tredje havskonferens",
         "url": "/tal/2025/06/nationellt-anforande-av-klimat--och-miljominister-romina-pourmokhtari-vid-fns-tredje-havskonferens/",
         "published": "2025-06-10",
         "updated": null,
@@ -522,7 +525,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Romina Pourmokhtari deltar i FN:s havskonferens i Nice\n",
+                "name": "Pressmeddelande: Romina Pourmokhtari deltar i FN:s havskonferens i Nice",
                 "url": "/pressmeddelanden/2025/06/romina-pourmokhtari-deltar-i-fns-havskonferens-i-nice/"
             }
         ],
@@ -588,7 +591,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen deltar i högtidlighållande av Veterandagen\n",
+                "name": "Pressmeddelande: Regeringen deltar i högtidlighållande av Veterandagen",
                 "url": "/pressmeddelanden/2025/05/regeringen-deltar-i-hogtidlighallande-av-veterandagen/"
             }
         ],
@@ -613,7 +616,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen deltar i högtidlighållande av Veterandagen\n",
+                "name": "Pressmeddelande: Regeringen deltar i högtidlighållande av Veterandagen",
                 "url": "/pressmeddelanden/2025/05/regeringen-deltar-i-hogtidlighallande-av-veterandagen/"
             }
         ],
@@ -660,19 +663,19 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Artikel: Kulturministern inledningstalade vid uppförande av verket Den judiska sången\n",
+                "name": "Artikel: Kulturministern inledningstalade vid uppförande av verket Den judiska sången",
                 "url": "/artiklar/2025/05/kulturministern-inledningstalade-vid-uppforande-av-verket-den-judiska-sangen/"
             },
             {
-                "name": "Tal: Statsminister Ulf Kristerssons tal i riksdagen 23 januari 2025\n",
+                "name": "Tal: Statsminister Ulf Kristerssons tal i riksdagen 23 januari 2025",
                 "url": "/tal/2025/01/statsminister-ulf-kristerssons-tal-i-riksdagen-23-januari-2025/"
             },
             {
-                "name": "250 år av judiskt liv i Sverige firas 2025\n",
+                "name": "250 år av judiskt liv i Sverige firas 2025",
                 "url": "/regeringens-politik/samling-for-judiskt-liv/250-ar-av-judiskt-liv-i-sverige-firas-2025/"
             },
             {
-                "name": "Samling för judiskt liv\n",
+                "name": "Samling för judiskt liv",
                 "url": "/regeringens-politik/samling-for-judiskt-liv/"
             }
         ],
@@ -759,21 +762,42 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Artikel: Regeringen deltog vid högtidlighållande av 250 år av judiskt liv i Sverige\n",
+                "name": "Artikel: Regeringen deltog vid högtidlighållande av 250 år av judiskt liv i Sverige",
                 "url": "/artiklar/2025/05/regeringen-deltog-vid-hogtidlighallande-av-250-ar-av-judiskt-liv-i-sverige/"
             },
             {
-                "name": "250 år av judiskt liv i Sverige firas 2025\n",
+                "name": "250 år av judiskt liv i Sverige firas 2025",
                 "url": "/regeringens-politik/samling-for-judiskt-liv/250-ar-av-judiskt-liv-i-sverige-firas-2025/"
             },
             {
-                "name": "Samling för judiskt liv\n",
+                "name": "Samling för judiskt liv",
                 "url": "/regeringens-politik/samling-for-judiskt-liv/"
             }
         ],
         "attachments": [],
         "categories": [
             "2666"
+        ]
+    },
+    {
+        "title": "Tal av statsminister Ulf Kristersson på Fannys Förebilder Gala Version",
+        "url": "/tal/2025/11/tal-av-statsminister-ulf-kristersson-pa-fannys-forebilder-fannys-forebilder-gala-version/",
+        "published": "2025-11-18",
+        "updated": null,
+        "types": [
+            "1338"
+        ],
+        "senders": [
+            "2605",
+            "1293"
+        ],
+        "summary": "Stockholm, den 14 november 2025.\n\nDet talade ordet gäller.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1239",
+            "1263"
         ]
     },
     {

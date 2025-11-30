@@ -4,7 +4,7 @@ Socialminister Jakob Forssmed besökte New York för att delta vid FN:s generalf
 
 – Vi måste möta vår tids stora utmaningar – psykisk ohälsa, ensamhet, fysisk inaktivitet och ohälsosamma levnadsvanor – med kraftfulla insatser. Genom att prioritera det förebyggande arbetet stärker vi både den fysiska och psykiska hälsan. Det är tydligt att frågan engagerar globalt, säger socialminister Jakob Forssmed.
 
-Högnivåmötet om icke-smittsamma sjukdomar och främjandet av psykisk hälsa och välbefinnande hölls på FN:s högkvarter i New York. Bland inledningstalarna fanns bland annat Tedros Adhanom Ghebreyesus, generaldirektör för Världshälsoorganisationen (WHO) och Kristy Coventry, ordförande för internationella olympiska kommittén.
+Högnivåmötet om icke-smittsamma sjukdomar och främjandet av psykisk hälsa och välbefinnande hölls på FN:s högkvarter i New York. Bland inledningstalarna fanns bland annat Tedros Adhanom Ghebreyesus, generaldirektör för Världshälsoorganisationen (WHO) och Kirsty Coventry, ordförande för internationella olympiska kommittén.
 
 Socialministern höll det svenska nationella anförandet i församlingen och lyfte där viktiga svenska insatser mot överdriven skärmtid hos särskilt barn och unga, initiativ som fritidskortet som gör hälsosamma vanor tillgängliga för fler och politiska initiativ mot ensamhet.
 

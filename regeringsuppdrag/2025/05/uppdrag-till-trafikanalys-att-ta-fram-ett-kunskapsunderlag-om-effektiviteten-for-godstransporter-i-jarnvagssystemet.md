@@ -1,4 +1,4 @@
-# Uppdrag till Trafikanalys att ta fram ett kunskapsunderlag om effektiviteten för godstransporter i järnvägssystemet
+# Uppdrag till Trafikanalys att ta fram ett kunskapsunderlag om effektiviteten för godstransporter i järnvägssystemetDiarienummer: LI2025/00938
 
 Regeringen ger Trafikanalys i uppdrag att ta fram ett kunskapsunderlag som kan bidra till effektivare godstransporter på järnväg.
 

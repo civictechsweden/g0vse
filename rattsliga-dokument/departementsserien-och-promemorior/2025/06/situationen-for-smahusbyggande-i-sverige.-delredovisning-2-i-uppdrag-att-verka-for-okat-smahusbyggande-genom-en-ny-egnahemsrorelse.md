@@ -1,4 +1,4 @@
-# Situationen för småhusbyggande i Sverige. Delredovisning 2 i Uppdrag att verka för ökat småhusbyggande genom en ny egnahemsrörelse
+# Situationen för småhusbyggande i SverigeDelredovisning 2 i Uppdrag att verka för ökat småhusbyggande genom en ny egnahemsrörelse
 
 I maj 2024 tillsattes en Egnahemskommissionär vars uppdrag är att verka för ökat småhusbyggande. Till Egnahemskommissionär utsågs Stefan Attefall. Detta är Egnahemskommissionärens andra delredovisning.
 

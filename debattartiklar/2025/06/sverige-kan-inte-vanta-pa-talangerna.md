@@ -4,7 +4,7 @@ Migrationsminister Johan Forssell, debattartikel, Dagens industri, 26 juni 2025.
 
 Om Sverige ska vara ett innovationsledande land och ett nav för spetskompetens i flera branscher, behöver vi ta konkreta steg för att aktivt attrahera och behålla internationella topptalanger. Johan Forssell, migrationsminister (M), och näringslivsrådet skriver här om nio åtgärder för att stärka Sverige som destination för talanger.
 
-Debatten har under lång tid haft ett ensidigt fokus på asyl. Vi vill bredda den bilden och skiftar fokus från låg- till högkvalificerad arbetskraft. För invandring handlar också om Sveriges konkurrenskraft. Det handlar om människor som vill arbeta, investera och bygga en framtid i vårt land.
+Debatten har under lång tid haft ett ensidigt fokus på asyl. Vi vill bredda den bilden och skifta fokus från låg- till högkvalificerad arbetskraft. För invandring handlar också om Sveriges konkurrenskraft. Det handlar om människor som vill arbeta, investera och bygga en framtid i vårt land.
 
 Sverige har goda förutsättningar att lyckas. Stockholm är redan ett av världens starkaste tech-kluster, med flest unicorns per capita i Europa. Vi har världsledande företag, där talang från hela världen bidrar. Inflationen är på väg ned och Sverige har det lägsta skattetrycket sedan 1975. Samtidigt är kompetensbristen inom vissa branscher stor.
 
@@ -28,7 +28,7 @@ God service är avgörande. Regeringen kommer att ge Migrationsverket i uppdrag 
 
 ### 5. Digitala passkontroller för arbetstagare och studenter
 
-Tidigare har man behövt ta sig till en ambassad för att uppvisa sitt pass i original. Migrationsverket tillsammans med FrejaID har infört möjligheten att istället göra en digital passkontroll. Det innebär en förenklad handläggning och sparade enligt Migrationsverket resor motsvarande 86 varv runt jorden bara de första fem månaderna av pilotprojektet[3].
+Tidigare har man behövt ta sig till en ambassad för att uppvisa sitt pass i original. Migrationsverket tillsammans med FrejaID har infört möjligheten att istället göra en digital passkontroll. Det innebär en förenklad handläggning och sparade enligt Migrationsverket resor motsvarande 86 varv runt jorden bara de första fem månaderna av pilotprojektet.
 
 ### 6. Underlätta för forskare och doktorander
 

@@ -1,4 +1,4 @@
-# Anpassningar till EU:s regelverk om hantering av finansiella företag i kris
+# Anpassningar till EU:s regelverk om hantering av finansiella företag i krisProp. 2024/25:172
 
 I EU:s krishanteringsdirektiv – som genomförs i lagen om resolution – finns regler om hantering av finansiella företag i kris genom resolution, det vill säga avveckling eller rekonstruktion. Ett av de centrala verktygen är nedskrivning eller konvertering av skulder.
 

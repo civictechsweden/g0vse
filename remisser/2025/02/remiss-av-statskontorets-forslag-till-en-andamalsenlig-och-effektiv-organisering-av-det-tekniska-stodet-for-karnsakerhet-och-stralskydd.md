@@ -1,4 +1,4 @@
-# Remiss av Statskontorets förslag till en ändamålsenlig och effektiv organisering av det tekniska stödet för kärnsäkerhet och strålskydd
+# Remiss av Statskontorets förslag till en ändamålsenlig och effektiv organisering av det tekniska stödet för kärnsäkerhet och strålskyddDiarienummer: KN2025/00089
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Statskontorets förslag till en ändamålsenlig och effektiv organisering av det tekniska stödet för kärnsäkerhet och strålskydd.
 

@@ -25,7 +25,7 @@
         ]
     },
     {
-        "title": "Sveriges stöd till Sudan har alltid varit starkt",
+        "title": "\"Sveriges stöd till Sudan har alltid varit starkt\"",
         "url": "/debattartiklar/2025/11/sveriges-stod-till-sudan-har-alltid-varit-starkt/",
         "published": "2025-11-17",
         "updated": null,
@@ -65,29 +65,6 @@
         "attachments": [],
         "categories": [
             "1274"
-        ]
-    },
-    {
-        "title": "Så ska vi öka återvändandet",
-        "url": "/debattartiklar/2025/10/sa-ska-vi-oka-atervandandet/",
-        "published": "2025-10-08",
-        "updated": null,
-        "types": [
-            "1333"
-        ],
-        "senders": [
-            "2756",
-            "2615",
-            "1287",
-            "1295"
-        ],
-        "summary": "Debattartikel av migrationsminister Johan Forssell och bistånds- och utrikeshandelsminister Benjamin Dousa. Publicerad i Expressen den 8 oktober 2025.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "1215",
-            "1249"
         ]
     },
     {
@@ -300,7 +277,10 @@
         "attachments": [],
         "categories": [
             "1279",
-            "1013"
+            "1012",
+            "1013",
+            "1084",
+            "1147"
         ]
     },
     {
@@ -336,7 +316,7 @@
         ]
     },
     {
-        "title": "\"Nya initiativ för att driva AI utvecklingen framåt\"",
+        "title": "\"Nya initiativ för att driva AI-utvecklingen framåt\"",
         "url": "/debattartiklar/2025/08/nya-initiativ-for-att-driva-ai-utvecklingen-framat/",
         "published": "2025-08-25",
         "updated": null,
@@ -352,7 +332,8 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1238"
+            "1238",
+            "2790"
         ]
     },
     {
@@ -495,8 +476,8 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Pressträff om utmaningen med låga födelsetal",
-                "url": "/pressmeddelanden/2025/06/presstraff-om-utmaningen-med-laga-fodelsetal/"
+                "name": "Pressmeddelande: Ny utredning för att förstå och vända ett minskat barnafödandeWebb-TV",
+                "url": "/pressmeddelanden/2025/07/ny-utredning-for-att-forsta-och-vanda-ett-minskat-barnafodande/"
             }
         ],
         "attachments": [],
@@ -584,7 +565,6 @@
             "2756",
             "2611",
             "2612",
-            "2622",
             "1286"
         ],
         "summary": "Minister för civilt försvar Carl-Oskar Bohlin, energi- och näringsminister Ebba Busch, arbetsmarknadsminister Mats Persson, bistånds- och utrikeshandelsminister Benjamin Dousa och infrastruktur- och bostadsminister Andreas Carlson, debattartikel, Dagens industri, den 23 juni 2025.",
@@ -639,11 +619,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Informationsmaterial: Sveriges industristrategi: för en teknikledande och konkurrenskraftig industri i en ny omvärld\n",
+                "name": "Informationsmaterial: Sveriges industristrategi: för en teknikledande och konkurrenskraftig industri i en ny omvärld",
                 "url": "/informationsmaterial/2025/06/sveriges-industristrategi-for-en-teknikledande-och-konkurrenskraftig-industri-i-en-ny-omvarld/"
             },
             {
-                "name": "Pressmeddelande: Regeringen lanserar strategi för en teknikledande och konkurrenskraftig industri\n",
+                "name": "Pressmeddelande: Regeringen lanserar strategi för en teknikledande och konkurrenskraftig industri",
                 "url": "/pressmeddelanden/2025/06/regeringen-lanserar-strategi-for-en-teknikledande-och-konkurrenskraftig-industri/"
             }
         ],
@@ -675,7 +655,8 @@
         "attachments": [],
         "categories": [
             "1238",
-            "2790"
+            "2790",
+            "2734"
         ]
     },
     {
@@ -687,7 +668,6 @@
             "1333"
         ],
         "senders": [
-            "2619",
             "2627",
             "1286",
             "1294"
@@ -719,15 +699,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Explosiva varor – en ändamålsenlig hantering av tillstånd och tillsyn, Prop. 2024/25:163\n",
+                "name": "Explosiva varor – en ändamålsenlig hantering av tillstånd och tillsyn, Prop. 2024/25:163",
                 "url": "/rattsliga-dokument/proposition/2025/05/prop.-202425163"
             },
             {
-                "name": "Nationell strategi mot organiserad brottslighet\n",
+                "name": "Nationell strategi mot organiserad brottslighet",
                 "url": "/regeringens-politik/nationell-strategi-mot-organiserad-brottslighet/"
             },
             {
-                "name": "Minska tillgången på illegala vapen och explosiva varor\n",
+                "name": "Minska tillgången på illegala vapen och explosiva varor",
                 "url": "/regeringens-politik/nationell-strategi-mot-organiserad-brottslighet/minska-tillgangen-pa-illegala-vapen-och-explosiva-varor/"
             }
         ],
@@ -748,7 +728,6 @@
         ],
         "senders": [
             "2612",
-            "2619",
             "2621",
             "2605",
             "1291",
@@ -784,11 +763,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Nya uppdrag för att stärka den nationella digitala infrastrukturen för hälso- och sjukvården\n",
+                "name": "Pressmeddelande: Nya uppdrag för att stärka den nationella digitala infrastrukturen för hälso- och sjukvården",
                 "url": "/pressmeddelanden/2025/05/nya-uppdrag-for-att-starka-den-nationella-digitala-infrastrukturen-for-halso--och-sjukvarden/"
             },
             {
-                "name": "Europeiska kommissionens webbplats\n             - extern webbplats,\n",
+                "name": "Europeiska kommissionens webbplats- extern webbplats,",
                 "url": "https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space-regulation-ehds_sv"
             }
         ],
@@ -827,6 +806,29 @@
             "1012",
             "1013",
             "1198"
+        ]
+    },
+    {
+        "title": "Så ska vi öka återvändandet",
+        "url": "/debattartiklar/2025/10/sa-ska-vi-oka-atervandandet/",
+        "published": "2025-10-08",
+        "updated": null,
+        "types": [
+            "1333"
+        ],
+        "senders": [
+            "2756",
+            "2615",
+            "1287",
+            "1295"
+        ],
+        "summary": "Debattartikel av migrationsminister Johan Forssell och bistånds- och utrikeshandelsminister Benjamin Dousa. Publicerad i Expressen den 8 oktober 2025.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1215",
+            "1249"
         ]
     },
     {

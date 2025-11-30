@@ -7,7 +7,6 @@ Den 1 juli år 2000 invigdes Öresundsbron. Bron knöt inte bara samman Malmö m
 Idag, 25 år senare, befinner vi oss i ett helt nytt säkerhetspolitiskt landskap. Det är krig i vårt närområde och världen runt oss förändras snabbt. För att säkra vår trygghet, motståndskraft och konkurrenskraft blir starka partnerskap allt viktigare. Det svensk-danska samarbetet i Öresundsregionen är inte bara en regional angelägenhet – det är en strategisk tillgång för hela Europa.
 
 När vi byggde vår bro, byggde vi inte bara en transportsträcka. Öresundsbron gjorde det möjligt att jobba på en sida av Sundet och bo på den andra. Den har knutit samman företag, forskare, studenter, vänner och familjer och bidragit till att stärka Sveriges och Danmarks ekonomier och innovationskraft. Kort sagt: Öresundsbron byggde Öresundsregionen. Nu bygger Sverige och Danmark ett ännu starkare samarbete.
-Annons
 
 De båda ländernas regeringar antar idag en deklaration vars mål är att stärka den gemensamma säkerheten och Öresundsregionens roll som motor för tillväxt, innovation och sammanhållning.
 
@@ -19,7 +18,6 @@ Vi avser att:
 * Bättre tillvarata potentialen i Öresundsbron – idag och på lång sikt. Vi avser därför utreda behovet av ökad kapacitet och transportberedskap i regionen efter 2050 - en gemensam syn på inriktningen för hur transportsystemet i Öresundsregionen ska fungera.
 * Se över möjligheterna att effektivisera gränskontrollerna för att göra det lättare för dagpendlare att korsa gränsen, på kortare tid.
 * Fortsätta utveckla det redan nära samarbetet inom konkurrenskraft, forskning och grön omställning. Att stärka dansk-svensk konkurrenskraft gynnar inte bara våra samhällen, utan hela Europa. Därför ser vi ett behov av att gemensamt lyfta fram och sprida våra lösningar inom EU.
-  Annons
 * Fortsätta stärka samarbetet med att slå ned på gränsöverskridande brottslighet, med särskilt fokus på att skydda barn och unga från att rekryteras till gäng genom digitala plattformar.
 
 Sverige och Danmark står sida vid sida, delar värderingar och arbetar mot gemensamma mål. Vägen framåt är tydlig. Tillsammans tar vi ansvar för vår gemensamma säkerhet, vårt välstånd och vår konkurrenskraft.

@@ -1,4 +1,4 @@
-# Uppdrag till Myndigheten för samhällsskydd och beredskap att inleda förberedelser för en gemensam planering för försörjningsberedskap med Finland
+# Uppdrag till Myndigheten för samhällsskydd och beredskap att inleda förberedelser för en gemensam planering för försörjningsberedskap med FinlandDiarienummer: Fö2025/00717
 
 Regeringen ger Myndigheten för samhällsskydd och beredskap (MSB) i uppdrag att inleda förberedelser för en gemensam planering med Finland inom området försörjningsberedskap.
 

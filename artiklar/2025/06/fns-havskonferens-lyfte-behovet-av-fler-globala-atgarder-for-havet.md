@@ -27,7 +27,7 @@ Klimat- och miljöminister Romina Pourmokhtari ledde Sveriges delegation med del
 
 Chile och Sydkorea står värd för nästa havskonferens 2028.
 
-## Avtal om biologisk mångfald i havsområden utanför nationell jurisdiktion (BBNJ-avtalet)
+## Sverige förbereder ratificering av BBNJ-avtalet
 
 Sverige var pådrivande i de globala förhandlingarna om ett nytt avtal för skydd och hållbar användning av biologisk mångfald i havsområden utanför nationell jurisdiktion, det så kallade BBNJ-avtalet (Biodiversity Beyond National Jurisdiction). Det är ett nödvändigt verktyg för att uppnå det globala målet att skydda 30 % av havet till år 2030. Havskonferensen skapade ett starkt momentum för avtalets ikraftträdande.
 

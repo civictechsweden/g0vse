@@ -6,7 +6,7 @@ Skattebetalarna ska få bättre verksamhet för pengarna. Det är ett av de öve
 
 I maj 2025 presenterade regeringen en digitaliseringsstrategi för 2025–2030, där AI-lösningar för effektivitet och konkurrenskraft är ett genomgående tema. Nästa steg är att ta fram en renodlad AI-strategi för Sverige, som ska presenteras under våren 2026.
 
-– AI har stor potential att effektivisera offentlig sektor och förbättra offentlig service. AI- lösningar kan också möta många av de utmaningar som kommuner och regioner med minskande befolkningsunderlag står inför. Genom att minska mängden arbetstid som går åt till administration avlastas personalen och mer tid frigörs för kärnverksamhet, säger civilminister Erik Slottner.
+– AI har stor potential att effektivisera offentlig sektor och förbättra offentlig service. AI-lösningar kan också möta många av de utmaningar som kommuner och regioner med minskande befolkningsunderlag står inför. Genom att minska mängden arbetstid som går åt till administration avlastas personalen och mer tid frigörs för kärnverksamhet, säger civilminister Erik Slottner.
 
 ## Goda exempel från bekämpningen av svinpest och granbarkborrar
 

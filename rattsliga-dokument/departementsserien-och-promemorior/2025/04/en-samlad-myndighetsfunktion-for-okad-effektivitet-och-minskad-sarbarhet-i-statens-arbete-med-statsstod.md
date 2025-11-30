@@ -1,4 +1,4 @@
-# En samlad myndighetsfunktion för ökad effektivitet och minskad sårbarhet i statens arbete med statsstöd
+# En samlad myndighetsfunktion för ökad effektivitet och minskad sårbarhet i statens arbete med statsstödKN2025/00943
 
 Denna promemoria innehåller förslag om att inrätta en samlad myndighetsfunktion för att minska sårbarheten och öka effektiviteten i statens arbete med statsstöd.
 

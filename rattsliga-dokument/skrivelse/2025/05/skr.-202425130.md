@@ -1,4 +1,4 @@
-# Redovisning av AP-fondernas verksamhet t.o.m. 2024
+# Redovisning av AP-fondernas verksamhet t.o.m. 2024Skr. 2024/25:130
 
 I skrivelsen lämnar regeringen en redovisning av de allmänna pensionsfondernas (AP-fondernas) verksamhet t.o.m. 2024. I redovisningen ingår bland annat en sammanställning av AP-fondernas årsredovisningar för 2024 och en utvärdering av AP-fondernas verksamhet sedan 2001. Skrivelsen överlämnas årligen till riksdagen senast den 1 juni.
 

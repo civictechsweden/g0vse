@@ -1,4 +1,4 @@
-# Ny förordning om invasiva främmande arter
+# Ny förordning om invasiva främmande arterKN2025/01024
 
 Den föreslagna nya förordningen om invasiva främmande arter innehåller dels kompletterande bestämmelser till förordning (EU) nr 1143/2014 om de arter som är upptagna på unionsförteckningen, dels bestämmelser som rör de arter som omfattas av den nationella förteckningen.
 

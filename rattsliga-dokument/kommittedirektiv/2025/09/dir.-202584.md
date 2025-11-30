@@ -1,4 +1,4 @@
-# Tilläggsdirektiv till Sanningskommissionen för det samiska folket (Ku 2021:02)Dir. 2025:84
+# Tilläggsdirektiv till Sanningskommissionen för det samiska folket (Ku 2021:02)
 
 Förlängd tid för uppdraget.
 
