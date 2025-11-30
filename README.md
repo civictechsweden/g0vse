@@ -1,5 +1,9 @@
 # g0vse
 
+> 👋🏼 I'm hearing from various people and organisations using the project and its data to build exciting things but I'm sure there are many more who do without telling me. And that's OK, it's open data and open source so there's little obligation to do it.
+>
+> 💌 But consider writing me a message and please send some feedback so that this project can continue and become even better for everyone else. 😊
+
 ![Logo of the g0vse project](./g0vse.png)
 
 g0vse is a project aiming to make the information available on the Swedish government's website ([regeringen.se](https://www.regeringen.se)) more accessible.
@@ -27,7 +31,7 @@ g0vse uses the regeringen.se search API to fetch the vast majority of the websit
 
 The logic behind the API routes is to follow the structure of the government's website as much as possible. For instance, a list of the bills is available at [regeringen.se/rapporter](https://regeringen.se/rapporter) and the corresponding API route is [g0v.se/rapporter.json](https://g0v.se/rapporter.json). A complete list of routes is available at [g0v.se](https://g0v.se).
 
-The route [/api/latest_updated.json](https://g0v.se/api/latest_updated.json) can be used to know when the data was last updated.
+The route [/api/latest_updated.json](https://g0v.se/api/latest_updated.json) can be used to know when the data was latest updated.
 
 In addition, the text of each page is available as Markdown. For example, [regeringen.se/artiklar/2024/10/sjukvardsminister-[...]-sjukvarden/](https://regeringen.se/artiklar/2024/10/sjukvardsminister-acko-ankarberg-johansson-om-budgetsatsningar-pa-halso--och-sjukvarden/) is available at [g0v.se/artiklar/2024/10/sjukvardsminister-[...]-sjukvarden.md](https://g0v.se/artiklar/2024/10/sjukvardsminister-acko-ankarberg-johansson-om-budgetsatsningar-pa-halso--och-sjukvarden.md).
 
@@ -56,11 +60,11 @@ g0vse is composed of three components:
 - a parser to convert the content in the HTML pages into Markdown and structured JSON objects
 - a website to present the project and make it easier to understand what is available.
 
-g0vse can be run by anyone on a local machine but the webscraper and parser are executed each night at 03:00 CET in order to fetch new content that was published the day before.
+g0vse can be run by anyone on a local machine but the webscraper and parser are executed each night at approximately 03:00 CET in order to fetch new content that was published the day before.
 
 ### The Webscraper
 
-The webscraper's logic can be found mainly in [downloader.py](./services/downloader.py). It uses Selenium and a headless browser.
+The webscraper's logic can be found mainly in [downloader.py](./services/downloader.py). It uses a headless browser called [Camoufox](https://camoufox.com).
 
 ### The parser
 
@@ -79,7 +83,7 @@ To present the project, a lightweight static website has been built using NextJS
 Go ahead! You'll need Python 3 and to install dependencies using:
 
 ```bash
-pip install -r requirements.txt
+pip install .
 ```
 
 After that, you can fetch the latext 20 items and associated codes:
@@ -120,7 +124,7 @@ git clone --branch data --single-branch https://github.com/civictechsweden/g0vse
 python fetch.py
 ```
 
-If you want to push the new data to the branch:
+If you want to push the new data to the branch (you would need write access to the repo):
 
 ```bash
 cd data
