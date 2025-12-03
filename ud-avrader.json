@@ -1,5 +1,23 @@
 [
     {
+        "title": "Venezuela - avrådan",
+        "url": "/ud-avrader/venezuela---avradan/",
+        "published": "2025-12-02",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till Venezuela\n \nBeslut om avrådan togs den 2 december 2025. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1204"
+        ]
+    },
+    {
         "title": "Mali - avrådan",
         "url": "/ud-avrader/mali---avradan/",
         "published": "2025-11-19",
@@ -937,24 +955,6 @@
         "categories": [
             "2204",
             "1100"
-        ]
-    },
-    {
-        "title": "Venezuela - avrådan",
-        "url": "/ud-avrader/venezuela---avradan/",
-        "published": "2017-05-12",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet tills vidare från icke nödvändiga resor till Venezuela.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1204"
         ]
     },
     {
