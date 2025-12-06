@@ -10,7 +10,7 @@ För regeringen har det varit en självklarhet att ändra reglerna, inte minst n
 
 – Regeringen har lett den största omstruktureringen av rättspolitiken i modern historia. Med dagens besked fortsätter vi i den riktningen genom att säkerställa att personer som till exempel utgör ett hot mot landet eller har begått brott, och därigenom dömts till utvisning men där det finns verkställighetshinder, får begränsningar och ställs under kontroll från myndigheterna tills de kan utvisas från landet, säger Ingemar Kihlström, migrationspolitisk talesperson för Kristdemokraterna.
 
-– Sverige behöver en långsiktigt hållbar och ansvarsfull migrationspolitik. Det har skickat fel signaler när personer med utvisningsbeslut kunnat beviljas. Den nuvarande ordningen riskerar att underminera förtroendet för hela systemet. Därför är det viktigt att vi nu bryter den utvecklingen, säger Patrik Karlson, migrationspolitisk talesperson för Liberalerna.
+– Sverige behöver en långsiktigt hållbar och ansvarsfull migrationspolitik. Det har skickat fel signaler när personer med utvisningsbeslut kunnat beviljas uppehållstillstånd. Den nuvarande ordningen riskerar att underminera förtroendet för hela systemet. Därför är det viktigt att vi nu bryter den utvecklingen, säger Patrik Karlson, migrationspolitisk talesperson för Liberalerna.
 
 De nya förslagen innebär bland annat att:
 
