@@ -1,0 +1,13 @@
+# Bristande studiero påverkar elevers kunskapsresultat negativt
+
+Den internationella studien TIMSS undersöker elevers kunskaper och attityder till matematik och naturvetenskap i årskurs 4 och årskurs 8. För första gången har Sverige deltagit i TIMSS Longitudinal Study, en uppföljande studie som har undersökt hur mycket eleverna i studien har lärt sig på ett år, det vill säga från årskurs 4 till 5 och från årskurs 8 till 9. Resultaten i denna TIMSS-studie stärker bland annat bilden av att elever som upplever sämre trygghet och studiero får sämre kunskapsresultat.
+
+– Det här visar hur avgörande lugna och trygga klassrum är för att eleverna ska kunna fokusera på skolarbetet. Därför genomför regeringen nu flera viktiga satsningar för att öka tryggheten och studieron i skolan, säger utbildnings- och integrationsminister Simona Mohamsson.
+
+Även elevers bakgrund och hemförhållanden spelar en allt större roll över tid. Elever med goda hemförhållanden – som har högutbildade föräldrar och tillgång till böcker – presterar betydligt bättre jämfört med de elever som inte har de resurserna i hemmet. Studien visar att elever med låg grad av hemresurser inte har någon kunskapsförändring alls mellan årskurs 8 och 9.
+
+– Det är ett stort misslyckande att elever som växer upp utan fyllda bokhyllor och högutbildade föräldrar inte har lärt sig något på ett helt läsår. Resultatet bekräftar att regeringens reformer verkligen behövs, säger utbildnings- och integrationsminister Simona Mohamsson.
+
+Regeringen genomför flera reformer för att återupprätta en stark kunskapsskola där fokus ligger på grundläggande kunskaper och färdigheter som att läsa, skriva och räkna. Det handlar bland annat om att grundskolan ska bli tioårig, nya läroplaner med tydligt fokus på ämneskunskaper och grundläggande färdigheter och stödundervisning för de elever som behöver mer stöd. Dessutom utreds möjligheten att införa en obligatorisk språkförskola för de barn som behöver det. Detta kommer att gynna alla barn och elever men särskilt barn och elever med svagare socioekonomisk bakgrund.
+
+Regeringen tog tidigare i år emot betänkandet Bättre förutsättningar för trygghet och studiero i skolan (SOU 2025:8) och föreslår i budgetpropositionen för 2026 att medel tillförs för att kunna genomföra förslag från utredningen. Bland förslagen finns flera åtgärder för en bättre studiero, till exempel ska det bli lättare för lärare att visa ut elever som stör undervisningen från klassrummet. Förslagen innebär också möjlighet till förlängda tidsramar vid omplacering av elever och dessutom föreslår regeringen att grundskolan och motsvarande skolformer samt fritidshemmet ska bli mobilfria.
