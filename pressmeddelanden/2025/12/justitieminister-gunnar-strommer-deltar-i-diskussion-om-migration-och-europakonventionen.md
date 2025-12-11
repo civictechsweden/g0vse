@@ -1,0 +1,7 @@
+# Justitieminister Gunnar Strömmer deltar i diskussion om migration och Europakonventionen
+
+Konferensen hålls med anledning av att den migrationsdebatt som under de senaste åren pågått i Europa. Flera länder har till exempel poängterat vikten av att det finns ett tillräckligt handlingsutrymme för att hantera de samhälls­utmaningar som Europa står inför på migrationsområdet. Det handlar bland annat om möjligheten att utvisa utländska medborgare som begått brott och så kallad instrumentalisering, där inte minst Ryssland använder migranter som verktyg för att destabilisera andra länder i Europa.
+
+Syftet med konferensen är att enas kring hur Europarådet kan arbeta vidare med dessa frågor. Diskussionen kommer bland annat att handla om hur medlemsländerna kan hantera frågor kopplat till migration på ett sätt som värnar grundläggande fri- och rättigheter, samtidigt som dagens utmaningar kan hanteras.​
+
+– Sverige och andra länder i Europa möter flera hot mot den inre säkerheten. Vi behöver större möjligheter att utvisa personer som begår grova brott, men också möta andra problem som när fientliga stater använder migranter för att destabilisera andra länder. Det här är utmaningar som inte fanns eller kunde förutses när Europakonventionen förhandlades fram. Sverige välkomnar att den här diskussionen nu lyfts i Europarådet. Det handlar både om att hantera konkreta problem kopplat till migrationen och om att långsiktigt värna Europakonventionens legitimitet och Europadomstolens oberoende, säger justitieminister Gunnar Strömmer.

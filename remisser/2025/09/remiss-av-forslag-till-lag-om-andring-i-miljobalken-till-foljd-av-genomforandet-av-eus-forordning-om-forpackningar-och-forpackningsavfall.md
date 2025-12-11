@@ -1,6 +1,6 @@
 # Remiss av förslag till lag om ändring i miljöbalken till följd av genomförandet av EU:s förordning om förpackningar och förpackningsavfallDiarienummer: KN2025/01739
 
-Här kan du ta del av till vilka instanser som regeringen har remitterat förslag till lag om ändring i miljöbalken till följd av
+Här kan du ta del av svaren från dem som har ombetts att svara på remitterat förslag till lag om ändring i miljöbalken till följd av
 genomförandet av EU:s förordning om förpackningar och
 förpackningsavfall.
 
