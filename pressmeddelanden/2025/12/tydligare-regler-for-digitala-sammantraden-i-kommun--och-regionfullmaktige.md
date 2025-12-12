@@ -1,0 +1,7 @@
+# Tydligare regler för digitala sammanträden i kommun- och regionfullmäktige
+
+Under covid-19-pandemin ökade behovet av digitala sammanträden. Det blev då tydligt att reglerna för deltagande på distans vid sammanträden i kommuner och regioner kan vara svåra att tillämpa i praktiken, vilket resulterade i att kommunala beslut blev överklagade till domstol.
+
+Regeringen föreslår nu förändringar i kommunallagen som innebär att reglerna blir tydligare. Kravet på att samtliga ledamöter kan se och höra varandra och delta på lika villkor vid sammanträden i fullmäktige och nämnder föreslås tas bort. I stället föreslås att ordföranden ges en utpekad roll att säkerställa vem som deltar i sammanträdet och att den som medverkar på distans kan följa sammanträdet och delta i behandlingen av ärendena. Medan nämnderna föreslås få kunna sammanträda helt på distans, ska fullmäktiges presidium enligt förslaget alltid delta på plats för att säkerställa fullmäktiges viktiga funktion som forum för den lokala demokratin.
+
+– Under pandemin såg vi exempel på beslut som revs upp och kommunala möten som behövde göras om för att lagen inte har varit tillräckligt tydlig. För att hänga med i den digitala utvecklingen behöver förutsättningarna bli bättre. Med ett osäkert omvärldsläge blir det allt viktigare att grundläggande samhällsfunktioner kan fungera även om man inte kan träffas fysiskt. Det skulle kunna handla om ett förändrat säkerhetsläge men också en ny pandemi, säger civilminister Erik Slottner.

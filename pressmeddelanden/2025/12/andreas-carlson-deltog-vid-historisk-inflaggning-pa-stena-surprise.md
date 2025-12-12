@@ -1,0 +1,5 @@
+# Andreas Carlson deltog vid historisk inflaggning på Stena Surprise
+
+– Dagens inflaggning är ett kvitto på att regeringens sjöfartspolitik har effekt. Detta stärker Sveriges säkerhet, redundans och beredskap. I ett oroligt omvärldsläge är en stark svensk handelsflotta av avgörande betydelse för vår beredskap då statens rådighet över fartygen ökar. Jag uppskattar det nära samarbetet med branschen för att uppnå en mer konkurrenskraftig svensk sjöfart och välkomnar att flera svenska rederier nu väljer den svenska flaggan igen. Jag vill i dag från regeringens sida uttrycka tacksamhet till Stena - till Dan Sten Olsson, Erik Hånell - för ert beslut att flagga hem till Sverige, säger infrastruktur- och bostadsminister Andreas Carlson.
+
+Sedan regeringen tillträde har flera åtgärder vidtagits för vända trenden med en minskad handelsflotta. Till exempel slopad stämpelskatt inteckning i skepp, förbättrade regler för svensk tonnagebeskattning och ett nytt register som förenklar inhyrning av obemannade skepp. Regeringen har även beslutat om nya regler som förenklar och underlättar nyrekrytering för sjöfarten.
