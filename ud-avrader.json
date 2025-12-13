@@ -1,5 +1,41 @@
 [
     {
+        "title": "Thailand - avrådan",
+        "url": "/ud-avrader/thailand---avradan/",
+        "published": "2025-12-12",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor inom ett avstånd av 50 kilometer från gränsen till Kambodja, inklusive öarna i provinsen Trat, exempelvis Koh Chang, Koh Kood och Koh Mak.\n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till övriga delar av alla provinser längs med gränsen till Kambodja.\n\nSedan tidigare avråder Utrikesdepartementet från icke nödvändiga resor till provinserna Narathiwat, Yala, Pattani och Songkhla.\n\nBeslut om avrådan fattades den 12 december 2025. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1187"
+        ]
+    },
+    {
+        "title": "Kambodja - avrådan",
+        "url": "/ud-avrader/kambodja---avradan/",
+        "published": "2025-12-12",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor inom ett avstånd av 50 kilometer från gränsen till Thailand.\n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till övriga delar av alla provinser längs med gränsen till Thailand.\n\nBeslut om avrådan fattades den 12 december 2025. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1090"
+        ]
+    },
+    {
         "title": "Venezuela - avrådan",
         "url": "/ud-avrader/venezuela---avradan/",
         "published": "2025-12-02",
@@ -87,42 +123,6 @@
         "categories": [
             "2204",
             "1147"
-        ]
-    },
-    {
-        "title": "Kambodja - avrådan",
-        "url": "/ud-avrader/kambodja---avradan/",
-        "published": "2025-07-25",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av det försämrade säkerhetsläget i gränsområdet mellan Kambodja och Thailand har Utrikesdepartementet den 25 juli 2025 beslutat om avrådan för Kambodja. Följande avrådan gäller:\n\nMed anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor inom ett avstånd av 20 kilometer från gränsen till Thailand.\n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till övriga delar av provinserna Banteay Meanchey, Oddar Meanchey och Preah Vihear.\n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1090"
-        ]
-    },
-    {
-        "title": "Thailand - avrådan",
-        "url": "/ud-avrader/thailand---avradan/",
-        "published": "2025-07-25",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av det försämrade säkerhetsläget i gränsområdet mellan Thailand och Kambodja har Utrikesdepartementet den 25 juli 2025 beslutat om att utöka avrådan för Thailand. Följande avrådan gäller: \n\nMed anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor inom ett avstånd av 20 kilometer från gränsen till Kambodja.\n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till övriga delar av provinserna Buriram, Surin, Sisaket och Ubon Ratchathiani.\n\nSedan tidigare avråder Utrikesdepartementet även från icke nödvändiga resor till provinserna Narathiwat, Yala, Pattani och Songkhla.\n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1187"
         ]
     },
     {
