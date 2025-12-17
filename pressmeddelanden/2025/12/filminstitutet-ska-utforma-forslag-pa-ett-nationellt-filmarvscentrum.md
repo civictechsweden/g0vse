@@ -1,0 +1,5 @@
+# Filminstitutet ska utforma förslag på ett nationellt filmarvscentrum
+
+– Filmutredningen framhåller i sitt betänkande att filmarvet i dag är splittrat på för många aktörer och att resurserna på statlig nivå därför bör samlas. Att Filminstitutet nu får i uppgift att lämna ett förslag på ett nationellt filmarvscentrum ger oss en möjlighet att se över om resurser kan samlas och nyttjas mer effektivt, säger kulturminister Parisa Liljestrand.
+
+I riktlinjerna för statens bidrag till Stiftelsen Svenska Filminstitutet för budgetåret 2026 framgår att Filminstitutet ska lämna ett kostnadsberäknat förslag på ett nationellt filmarvscentrum med ändamålsenliga lokaler, teknik och personal för bevarande och digitisering av analog film från relevanta samlingar. I uppgiften ingår att föreslå finansiering av centret med utgångspunkt i ansvaret för de berörda samlingarna. Synpunkter ska inhämtas från Kungl. biblioteket och Sveriges Television AB samt andra relevanta aktörer. En redovisning ska lämnas till Regeringskansliet (Kulturdepartementet) senast den 30 oktober 2026.
