@@ -1,0 +1,13 @@
+# Bistånds- och utrikeshandelsminister Benjamin Dousa besökte Somalia den 15–16 december
+
+Den 15–16 december besökte bistånds- och utrikeshandelsminister Benjamin Dousa Somalia. Syftet med besöket var att få en bättre bild av landet samt att diskutera det breda partnerskapet mellan Sverige och Somalia. Under besöket träffade ministern bland annat Somalias president Hassan Sheikh Mohamud, finansminister Bihi Iman Egeh, företrädare för det somaliska civilsamhället och svenskar som deltar i EU:s militära och civila insatser i landet.
+
+– Vi talade om vårt breda partnerskap – om utvecklingssamarbete, handel, säkerhet och migration samt vad Sverige kan göra för att bidra till landets utveckling. Det var viktigt att få lyssna på olika aktörer om vad som görs för att bland annat främja demokratisk och ekonomisk utveckling. Sveriges långa och breda engagemang är mycket uppskattat, säger Benjamin Dousa, bistånds- och utrikeshandelsminister.
+
+– De somaliska regeringsföreträdarna och jag var också överens om ömsesidigheten i vårt partnerskap, och att vi ska fortsätta samarbetet kring att de ska ta emot sina egna medborgare som saknar rätt att vistas i Sverige, fortsätter Benjamin Dousa.
+
+Under besöket träffade bistånds- och utrikeshandelsministern även representanter från olika FN-organisationer för att diskutera det allvarliga humanitära läget i landet. Klimatförändringarna slår hårt mot Somalia, inte minst i form av återkommande torka. Under 2025 har nära sex miljoner människor i Somalia uppskattats vara i behov av humanitärt stöd. Nästan två miljoner barn under fem år befaras drabbas av undernäring nästa år.
+
+– Somalia står åter igen inför ett allt svårare humanitärt läge. Barn är ofta de som drabbas allra värst. Det är oerhört viktigt att humanitärt bistånd fördelas snabbt, träffsäkert och effektivt. Genom vårt utvecklings- och humanitära bistånd fortsätter vi att möta de mest akuta behoven, stärka landets motståndskraft och bidra till bättre försörjningsmöjligheter för människor i Somalia, säger Benjamin Dousa.
+
+Sveriges bilaterala utvecklingssamarbete med Somalia uppgår till 310 miljoner kronor 2025. Nuvarande biståndsstrategi fokuserar bland annat på hållbar fred, stärkt motståndskraft mot kriser och katastrofer, respekt för mänskliga rättigheter, jämställdhet och miljö- och klimatmässigt hållbar utveckling, samt jämlik hälsa med fokus på sexuell och reproduktiv hälsa och rättigheter. Därutöver har Sverige, genom Sida, bidragit med drygt 140 miljoner kronor i humanitärt bistånd under 2025 för att möta akuta humanitära behov, liksom med omfattande kärnstöd till flera av de humanitära aktörer som verkar i Somalia.
