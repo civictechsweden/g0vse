@@ -1,0 +1,11 @@
+# Informationskampanjer ska ge bättre kunskap om hedersrelaterat våld och förtryck
+
+Jämställdhetsmyndigheten får i uppdrag att, tillsammans med andra myndigheter, genomföra informationssatsningar om hedersrelaterat våld och förtryck som riktar sig till allmänheten. Satsningen ska innehålla information om stöd och skydd för utsatta. I satsningen ska det vara ett särskilt fokus på hedersrelaterade utmaningar som kan vara vanligt förekommande i områden där utanförskapet är stort.
+
+– Alltför många i vårt land lever i dag i relationer där hedersrelaterat våld och förtryck styr deras liv. Regeringen genomför därför stora satsningar för att vända den här utvecklingen. Nu säkerställer vi att samhället kan erbjuda mer stöd för att utsatta ska kunna lämna sammanhang där hedersrelaterat våld och förtryck förekommer. Vi ökar också kunskapen hos yrkesverksamma. Alla ska ha möjlighet att leva fria, självständiga och jämställda liv, säger jämställdhetsminister Nina Larsson.
+
+Regeringen reformerar arbetet mot hedersrelaterat våld och förtryck och skärper lagstiftningen på området. Det är viktigt att yrkesverksamma har uppdaterad kunskap om våldets och förtryckets orsaker, omfattning och konsekvenser. Myndigheterna ska därför också genomföra informationssatsningar riktade till yrkesverksamma. Satsningen ska omfatta information om lagstiftning, stödprocessen för våldsutsatta och ansvarsfördelning i arbetet på nationell, regional och lokal nivå. Jämställdhetsmyndigheten ska även inventera, uppdatera och genomföra utbildningar om hedersrelaterat våld och förtryck, inklusive bortföranden utomlands riktade till yrkesverksamma i skola och socialtjänst.
+
+Regeringen ger också Socialstyrelsen i uppdrag att utveckla kunskap om vilka behov enskilda har av information, stöd och skydd från hälso- och sjukvård och socialtjänst, när de vill lämna relationer där hedersrelaterat våld eller förtryck förekommer. Socialstyrelsen ska särskilt beakta frågor om vårdnad, boende och umgänge och möjlighet till skilsmässa, även i en religiös kontext, och hinder i form av repressalier och annat eftervåld.
+
+Uppsala universitet (Nationellt centrum för kvinnofrid) får också medel för att fortsätta utveckla och sprida befintliga kunskaps- och webbstöd till lärosäten, kommuner och hälso- och sjukvård med fokus på kunskap om hedersrelaterat våld och förtryck.

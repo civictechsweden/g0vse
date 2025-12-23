@@ -1,0 +1,7 @@
+# Regeringen tar emot förslag på hur arbetet mot människohandel kan stärkas
+
+I utredningen föreslås flera åtgärder för att stärka arbetet mot människohandel. Bland annat föreslås att ett nytt brott, olaga tjänsteutnyttjande, ska införas för att kriminalisera beställning eller nyttjande av tjänster som tillhandahålls av en person som vid utförandet av tjänsten är utsatt för människohandel eller människoexploatering. Utredningen föreslår också att straffbestämmelsen om människohandel ska göras tydligare och enklare att tillämpa genom att fler exploateringsformer uttryckligen anges i lagtexten och att det tidigare så kallade nödlägesrekvisitet omformuleras.
+
+Utredningen föreslår att Jämställdhetsmyndigheten ska få rollen som nationell samordnare mot människohandel, få ett formellt ansvar för Sveriges vidareslussningsmekanism och utses till nationell kontaktpunkt för gränsöverskridande vidareslussning av brottsoffer inom EU. Myndigheten skulle därmed få ett helhetsansvar för det strategiska arbetet mot människohandel. Vidare föreslås att Institutet för mänskliga rättigheter får i uppgift att fungera som ett oberoende organ enligt människohandelsdirektivet och Europarådets konvention om bekämpande av människohandel. Slutligen föreslår utredningen att Socialstyrelsen får i uppdrag att bland annat kartlägga tillgången till boendeinsatser.
+
+Betänkandet har remitterats. Remisstiden går ut den 17 mars 2026.
