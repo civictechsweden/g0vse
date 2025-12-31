@@ -1,0 +1,25 @@
+# Slit- och släng kulturen behöver en politisk lösning
+
+Debattartikel av klimat- och miljöminister Romina Pourmokhtari, Dagens Industri, den 30 december 2025.
+
+Svensk avfallshantering har varit historiskt välfungerande, med ett producentansvar för förpackningar som införts tidigt och tjänat Sverige väl. Samtidigt har utvecklingen på avfallsområdet gått fort – produkter som tidigare slängts, kan i dag omvandlas och återanvändas. Nu reformeras den svenska avfallslagstiftningen till att bli mer cirkulär.
+
+Det sägs att det i världen finns så mycket kläder i dag att vi skulle kunna klä sex framtida generationer. Marknadsekonomin lyft mänskligheten ur fattigdom in i en global medelklass, och då har konsumtionen ökat. Allt fler kan ha flera par vinterskor, flera jackor att välja mellan, och strumpor som ersätts när de går sönder. Detta är i grunden en positiv utveckling.
+
+Men dessa nya konsumtionsmönster har också lett till att producenter, ofta från Kina eller andra låglöneländer, börjat fylla sina textilier och behandla sina prylar med ämnen som sedan länge varit förbjudna eller begränsade i Europa. Polyesterblandningar med osäker plast, råmaterial med starka kemikalier, eller färgämnen och mjukgörare vars rester är kvar i produkterna långt efter den första användningen. I Europa är detta strikt reglerat, till exempel genom CE-märkningen, en garanti för att produktens tillverkare eller importör uppfyller EU:s hälso-, miljö- och säkerhetskrav. Importerade varor från lågprissajter har sällan dessa märkningar.
+
+De osäkra produkterna är ett problem av två skäl: För det första så innehåller de hälsoskadliga ämnen som tas upp av kroppen och får konsekvenser långt efter exponering. För det andra innebär detta att varorna kastas eller förverkas efter sin första konsumentkontakt eftersom de inte kan eller får återanvändas. Samtidigt ställer EU:s avfallsdirektiv höga krav på återanvändning och återvinning. I praktiken innebär det att vi behöver ställa oss frågan om vad som egentligen är sopor. Slit-och-släng-kulturen är ett problem som behöver en politisk lösning.
+
+I dag har vissa varor helt försvunnit och ersatts av billigare - men sämre - produkter som förverkas efter en betydligt kortare tid än deras föregångare. Denna trend syns i många produkter, bland annat inom hemelektronik, där planerat åldrande blivit till en affärsstrategi som går ut på att produkternas livslängd ska vara tillräckligt lång för att motivera ett köp, men tillräckligt kort för att tvinga fram ett nytt. Ibland går prylarna sönder skrattretande nära tvåårsgränsen som utgör konsumentskyddet.
+
+En annan olycklig trend, i hållbarhetens namn, är att PET-flaskor produceras enbart för att smältas ner och bli till återvunnen polyester, utan att någonsin ha förvarat en vätska. Allt för att kunna märka produkten med ”återvunnen polyester”. Detta är inte i led med hur vi behöver tillvarata våra resurser.
+
+Jag är övertygad om att dessa företeelser gör dig som konsument besviken och frustrerad. Därför är det viktigt att från politiskt håll ställa högre krav på producenterna om att tillverka varor som är hållbara, både under tiden du använder dem och även efter att de lämnat ditt hem - oavsett om varan säljs vidare, återbrukas, materialåtervinns eller förverkas. Det är nämligen inte konsumtionen i sig som är problemet, det är kraven vi ställer på producenterna å ena sidan, och hur välfungerande återvinningssystemet är å andra sidan.
+
+Regeringen har påbörjat en genomlysning av avfallssystemet i Sverige där vi vänder på varenda sten. De förslag som nu ligger på bordet syftar till att skapa en cirkulär ekonom med en ökad återvinning som åter placerar Sverige i toppen av avfallsligan. Reformerna innehåller bland annat utökat producentansvar - där fler producenter behöver finansiera avfallshanteringen av sina produkter. Men också ökade frihetsgrader i att själva få välja avfallsaktör för branscher som hotell, restaurang och detaljhandel. Det politiska målet är tydligt:
+
+Vi vill skapa en återvinningsindustri där aktörerna kan omvandla avfall till resurs. Men avfallslagstiftningen löser bara den ena delen av det här problemet. Samtidigt som detta pågår på hemmaplan, så har Sverige och EU drivit på för att ställa högre krav på producenterna. Ekodesignförordningen, ett ramverk som trädde i kraft 2024, stipulerar att produkter på EU:s inre marknad kan behöva uppfylla vissa på förhand ställda krav, till exempel informationskrav, krav om återanvändbarhet, reparerbarhet och avsaknad av farliga ämnen som påverkar både kroppar och återvinningen.
+
+Jag vet att jag inte är ensam om att vara frustrerad över hur kort tid nya saker håller - eller det faktum att det oftare är billigare att köpa nytt än att laga. Företeelser som planerat åldrande eller gift i produkterna är oskick som måste regleras bort. Den förändringen kommer sannolikt innebära högre priser - men i utbyte mot det en bättre produkt, ett högre andrahandsvärde, säker återvinningsbarhet och större trygghet för dig som konsument. Det är så vi allra bäst tillvaratar våra resurser.
+
+Romina Pourmokhtari, klimat- och miljöminister
