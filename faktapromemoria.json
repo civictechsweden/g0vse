@@ -1,5 +1,52 @@
 [
     {
+        "title": "EU:s pensionspaket, 2025/26:FPM50",
+        "url": "/faktapromemoria/2026/01/202526fpm50/",
+        "published": "2026-01-02",
+        "updated": null,
+        "types": [
+            "2540"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "Faktapromemoria gällande Europeiska kommissionens paket med lagstiftningsförslag och rekommendationer på pensionsområdet.",
+        "id": "2025/26:FPM50",
+        "shortcuts": [
+            {
+                "name": "Faktapromemoria 2024/25:FPM33, Strategi för en spar- och investeringsunion",
+                "url": "/faktapromemoria/2025/04/202425fpm33/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1231",
+            "1012"
+        ]
+    },
+    {
+        "title": "Ändringar i EU:s förordning om hållbarhetsrelaterade upplysningar, 2025/26:FPM49",
+        "url": "/faktapromemoria/2026/01/202526fpm49/",
+        "published": "2026-01-02",
+        "updated": null,
+        "types": [
+            "2540"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "Faktapromemoria gällande Europeiska kommissionens förslag till ändringar i EU:s förordning om hållbarhetsrelaterade upplysningar (SFDR).",
+        "id": "2025/26:FPM49",
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1231",
+            "1012"
+        ]
+    },
+    {
         "title": "EU:s paket om militär rörlighet, 2025/26:FPM48",
         "url": "/faktapromemoria/2025/12/202526fpm48/",
         "published": "2025-12-23",
