@@ -1,5 +1,23 @@
 [
     {
+        "title": "Iran - avrådan",
+        "url": "/ud-avrader/iran---avradan/",
+        "published": "2026-01-12",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget har UD den 12 januari 2026 beslutat att skärpa avrådan för Iran. Följande avrådan gäller:\n\nUD avråder från alla resor till Iran och uppmanar svenskar i Iran att lämna landet. \n\nAvrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1081"
+        ]
+    },
+    {
         "title": "Thailand - avrådan",
         "url": "/ud-avrader/thailand---avradan/",
         "published": "2025-12-12",
@@ -650,24 +668,6 @@
         "categories": [
             "2204",
             "1129"
-        ]
-    },
-    {
-        "title": "Iran - avrådan",
-        "url": "/ud-avrader/iran---avradan/",
-        "published": "2021-10-01",
-        "updated": "2022-06-23",
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "UD har den 23 juni 2022 beslutat att ändra avrådan för Iran. Följande avrådan gäller:  \n\nMed anledning av säkerhetsläget avråder UD från alla resor till Iran.\n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1081"
         ]
     },
     {
