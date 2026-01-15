@@ -1,0 +1,13 @@
+# Kontaktpunkter, tillstånd och tidsfrister enligt EU-förordningen om kritiska råmaterial och EU-förordningen om nettonollindustriKN2025/02439
+
+I promemorian lämnas förslag till bestämmelser som kompletterar EU-förordningen om kritiska råmaterial och EU-förordningen om nettonollindustri (EU-förordningarna).
+
+Genom EU-förordningarna införs bland annat tidsfrister för tillståndsprocessen för strategiska råmaterialprojekt och för nettonollprojekt. EU-förordningarna innehåller också särskilda bestämmelser om miljöbedömningar för sådana projekt. Vidare införs krav på medlemsstaterna att utse en eller flera kontaktpunkter för att samordna och underlätta tillståndsprocessen. En kontaktpunkts bekräftelse av en fullständig ansökan startar tidsfristerna enligt EU-förordningarna.
+
+EU-förordningarna behöver kompletteras med nationella bestämmelser som tydliggör kontaktpunktens roll i Sverige. I promemorian föreslås att länsstyrelserna i Stockholms län, Skåne län, Västra Götalands län, Örebro län, Dalarnas län och Västerbottens län fortsatt ska vara kontaktpunkter för både projekt för kritiska råmaterial och nettonollprojekt. Det föreslås också kompletterande bestämmelser som tydliggör vilka svenska tillståndsförfaranden som omfattas av tidsfristerna och hur kontaktpunktens bekräftelse av en fullständig ansökan ska inhämtas. I promemorian föreslås att de kompletterande bestämmelserna i huvudsak samlas i en ny lag och tillhörande förordning. I fråga om EU-förordningarnas bestämmelser om miljöbedömningar föreslås att det införs upplysningsbestämmelser och kompletterande bestämmelser i miljöbalken. Vidare föreslås att det införs upplysningsbestämmelser i plan-och bygglagen (2010:900) och sektorslagstiftning som reglerar tillståndsförfaranden om att EU-förordningarna innehåller bestämmelser om planläggning och tidsfrister.
+
+I denna promemoria behandlas bara de delar av EU-förordningarna som avser kontaktpunkter, tidsfrister och miljöbedömningar. Behovet av författningsändringar i förhållande till övriga delar av EU-förordningarna bereds inom Regeringskansliet.
+
+I april 2025 remitterade Klimat-och näringslivsdepartementet en promemoria med förslag som genomför förnybartdirektivet (KN2025/00895). Regeringen har därefter den 11 december 2025 beslutat om lagrådsremissen Tillståndsprövning enligt förnybartdirektivet (KN2025/02315). I denna promemoria lämnas förslag till bestämmelser om tidsfrister för en mark-och miljödomstols handläggning i första instans av ansökningar om tillstånd till miljöfarlig verksamhet eller vattenverksamhet som avser förnybar energi. Bestämmelserna behövs för, och kompletterar, genomförandet av förnybartdirektivet.
+
+Författningsändringarna i promemorian föreslås träda i kraft den 1 oktober 2026.
