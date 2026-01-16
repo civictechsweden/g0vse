@@ -1,0 +1,19 @@
+# Tal av Carl-Oskar Bohlin vid invigningen av Myndigheten för civilt försvar
+
+Tal av minister för civilt försvar Carl-Oskar Bohlin vid invigningen av Myndigheten för civilt försvar den 15 januari 2026. Det talade ordet gäller.
+
+Där varje epok drar sin sista suck föds en ny. I dag är i någon mening en sådan dag.
+
+Det var en gång en myndighet som hade en logga som såg ut som en onlinebank och skapades som en antites till det civila försvar som fullt ut hade lagts ned under 2000-talets första decennium. Civilt försvar var obsolet, krigets krav mönstrades ut som dimensioneringsgrund och begrepp. Lagerhållning och robusthet var omodernt. Ingen skulle peka ut riktningen, staten var platt. Den myndigheten hette MSB och tidsåldern känner vi som den eviga fredens. Varken myndigheten eller paradigmet finns kvar. En ny tid är här, den ställer högre anspråk på oss alla. På privatpersoner, på myndigheter, på företag.
+
+I det nya civila försvar som funnits på pappret i tio år, men i verkligheten betydligt kortare tid, börjar det nu verkligen hända saker med besked. Vi har levt med den nya strukturen för det civila försvaret sedan 2022 och om detta utgjorde ett skelett har vi sedan tre år tillbaka också verkligen börjat bygga muskler på skelettet i form av de stora medelsökningar och investeringar som nu sker i det civila försvaret. Om analogin till människokroppen tillåts fortsätta bara ett steg till kan man med fog säga att detta inte bara är en ansiktslyftning utan en totalrenovering av det centrala nervsystemet i det civila försvaret.
+
+Myndigheten för civilt försvar är inte bara ett nytt utseende, det är ett nytt innehåll, en ny styrning och en ny kultur implementerad rakt in i hela det civila försvaret. Den resan har naturligtvis redan pågått några år i MSB:s regi, men den här dagen markerar detta än tydligare. Inte bara i namn och grafik. De instruktionsändringar som regeringen antagit för myndigheten vid regeringssammanträdet tidigare i dag tydliggör och stärker att Myndigheten för civilt försvar inte bara blir den centrala noden utan också får nya uppgifter som kopplar till arbetet med försörjningsberedskapen i Sverige.
+
+Läget i vår omvärld är dunkelt och utvecklingen framåt, från det allvarliga läge vi nu befinner oss i, innehåller mycket stora osäkerheter. Ingen önskar att det skulle vara som det är, men yttre omständigheter kan också vara en möjlighet för oss att bli ett starkare land.
+
+Myndigheten för civilt försvar är en central del av den berättelsen. En berättelse om ett land som går från ord till handling i osäkra tider. Det vi firar och inviger här i dag är inte i första hand ett nytt heraldiskt vapen, utan kärnan i det nya förmågebyggande som nu pågår. Just nu sker historiska investeringar i det civila försvaret som bidrar till att trovärdiggöra vår avskräckning i kraft av ett samhälle som görs mer stöttåligt och uthålligt.
+
+Jag vågar påstå att detta också bygger ett land som i kraft av dessa gemensamma ansträngningar har anledning att tro lite bättre om sig själv. Under det tidiga 2000-talet präglades tilltron till svensk förmåga eller avsaknaden därav ibland närmast av defaitism, en av många konsekvenser av åderlåtningen och nedläggningen av det gamla totalförsvaret. När vi nu gör resan en gång till finns anledning att känna hoppfullhet över vad vi är och kan bli. Myndigheten för civilt försvar kommer att vara en motor i den resa som ligger framför oss.
+
+Låt mig avslutningsvis säga att en myndighet är summan av sina medarbetare. Jag är övertygad om att ni under de senaste åren märkt hur ert arbete har intensifierats mot bakgrund av det allvarliga säkerhetsläget och den riktningsförändring som nu sker i myndighetens arbete. Jag vill därför också ta tillfället i akt att uttrycka mitt och regeringens djupt kända tack för det viktiga arbete som ni lägger ner varje dag för att bidra till ett mer robust och stöttåligt Sverige i hela hotskalan.

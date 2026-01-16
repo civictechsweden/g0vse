@@ -1,0 +1,19 @@
+# Ny lag stärker cybersäkerheten
+
+Debattartikel publicerad i Di Digital den 10 januari 2026.
+
+Digital teknik berör numera närmast varje aspekt av det svenska samhället och ekonomin. I ett försämrat säkerhetspolitiskt läge ökar cyberhoten i både antal och komplexitet. Därför måste Sverige stå motståndskraftigt även i cyberdomänen. Regeringen har redan vidtagit en rad åtgärder – men nu tar vi nästa steg: en ny cybersäkerhetslag som skärper kraven och höjer vår säkerhetsnivå.
+
+Utgångsläget för cybersäkerhetsarbetet har lämnat mycket att önska. Under den förra vänsterregeringen nedprioriterades frågorna under år som var formativa för svensk cybersäkerhet. Riksrevisionens granskning av cybersäkerhetspolitiken 2017–2022 är tydlig i det avseendet. Den pekar på en frånvaro av samlad strategisk inriktning och passivitet i centrala frågor. Den visar också på fragmenterade och reaktiva insatser utan mätbara resultat, ett försenat och svagt fungerande nationellt cybersäkerhetscenter samt bristande koordinering av internationella frågor. Och informationsutbytet – både mellan myndigheter och med näringslivet – fungerade inte. Sammantaget lämnades Sverige mer sårbart än vad som är acceptabelt för ett av världens mest digitaliserade länder.
+
+Den här regeringen har därför tagit ett kraftfullt omtag. Vi har beslutat om en ny nationell cybersäkerhetsstrategi med högre ambitioner än tidigare och en särskild handlingsplan som konkretiserar åtgärder, ansvar och uppföljning. Vi har inrättat Cybercampus Sverige för att främja forskning och innovation. Vi genomför de största statliga satsningarna på cybersäkerhet någonsin och bygger upp ett kraftsamlat nationellt cybersäkerhetscenter under FRA:s ledning.
+
+Nu höjer vi ambitionen ytterligare. Från och med den 15 januari gäller en ny cybersäkerhetslag i Sverige som kommer höja den nationella grundnivån och skapa ett mer sammanhållet cybersäkerhetsarbete. Lagen skärper kraven och utökar kretsen av aktörer som omfattas av regleringen jämfört med nuvarande lagstiftning. Offentliga och privata verksamhetsutövare, ska arbeta systematiskt och riskbaserat, ta fram strategier för riskanalys för säkerheten i sina nätverks- och informationssystem samt tillämpa grundläggande cyberhygien. Med den nya lagen får även de personer som ingår i ledningen för en verksamhetsutövare ett tydligare ansvar, och vid allvarliga överträdelser kan personliga konsekvenser följa i form av förbud att inneha ledningsfunktion. Cybersäkerhet kommer inte längre kunna delegeras bort.
+
+Vi vet att många kommuner halkat efter i sitt cybersäkerhetsarbete. Med den nya lagen omfattas även dessa – för att eftersläpning inte längre ska vara ett alternativ. Samtidigt tillför vi omfattande resurser och erbjuder, via myndigheterna, stöd så att kraven ska kunna efterlevas.
+
+Målet med den nya lagen är att Sverige uppnår en hög nivå av säkerhet utan att belasta verksamheter med onödig administration. Kraven kommer preciseras genom föreskrifter från Myndigheten för civilt försvar, som remitteras för att inhämta synpunkter från berörda aktörer. För de verksamhetsutövare som i dag inte lever upp till grundläggande cybersäkerhetskrav kommer anpassningen att kräva investeringar. Men i det allvarliga säkerhetsläge vi befinner oss är det ett nödvändigt ansvarstagande. Kostnaderna för förebyggande cybersäkerhetsarbete är avsevärt lägre än de konsekvenser som följer av allvarliga cyberincidenter.
+
+Men lagstiftningen är grunden, inte slutmålet. Ytterst handlar det om att viktiga tjänster i vårt samhälle fungerar, och medborgarna kan lita på att deras uppgifter hanteras säkert. Nu är det upp till varje berörd organisation att ta sitt ansvar. Precis som i totalförsvaret har alla en roll: staten, regionerna, kommunerna, och näringslivet. Grundprinciperna för cybersäkerhet måste bli rutin överallt. Det är så vi bygger ett tryggare Sverige – även i cyberdomänen.
+
+Carl-Oskar Bohlin, minister för civilt försvar
