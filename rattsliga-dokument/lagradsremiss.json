@@ -1,5 +1,108 @@
 [
     {
+        "title": "En europeisk gemensam åtkomstpunkt för finansiell och hållbarhetsrelaterad information",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/01/en-europeisk-gemensam-atkomstpunkt-for-finansiell-och-hallbarhetsrelaterad-information/",
+        "published": "2026-01-16",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "I lagrådsremissen lämnas de lagförslag som krävs för att anpassa svensk rätt till det nya regelverket om en europeisk gemensam åtkomstpunkt som ger centraliserad tillgång till allmänt tillgänglig information som är relevant för finansiella tjänster, kapitalmarknader och hållbarhet (European Single Access Point, Esap). Det innebär i huvudsak att det ställs krav på företag att lämna information för att den ska tillgängliggöras i åtkomstpunkten.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1231",
+            "1012"
+        ]
+    },
+    {
+        "title": "En mer rättssäker och effektiv domstolsprocess",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/01/en-mer-rattssaker-och-effektiv-domstolsprocess/",
+        "published": "2026-01-16",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "I lagrådsremissen lämnas förslag som syftar till att stärka rättssäkerheten, öka effektiviteten i domstolsprocessen och minska påfrestningen för brottsoffer och vittnen.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: En mer rättssäker och effektiv domstolsprocess",
+                "url": "/pressmeddelanden/2026/01/en-mer-rattssaker-och-effektiv-domstolsprocess/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1263"
+        ]
+    },
+    {
+        "title": "Effektivare gränsöverskridande inhämtning av elektroniska bevis",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/01/effektivare-gransoverskridande-inhamtning-av-elektroniska-bevis/",
+        "published": "2026-01-16",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1296"
+        ],
+        "summary": "Elektroniska uppgifter har allt oftare avgörande betydelse som bevis i brottsutredningar. Eftersom sådana uppgifter många gånger finns lagrade hos tjänsteleverantörer utanför Sverige behöver brottsbekämpande myndigheter bättre och mer effektiva gränsöverskridande verktyg för att komma åt sådana uppgifter.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Nya effektiva verktyg för att hämta in elektroniska bevis",
+                "url": "/pressmeddelanden/2026/01/nya-effektiva-verktyg-for-att-hamta-in-elektroniska-bevis/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1263",
+            "2690",
+            "2688",
+            "1012"
+        ]
+    },
+    {
+        "title": "Uppgiftsskyldighet för vissa e-legitimationsföretag",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/01/uppgiftsskyldighet-for-vissa-e-legitimationsforetag/",
+        "published": "2026-01-16",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Ökad informationsdelning för att stärka brottsbekämpningen",
+                "url": "/pressmeddelanden/2026/01/okad-informationsdelning-for-att-starka-brottsbekampningen/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1231",
+            "2690",
+            "2688"
+        ]
+    },
+    {
         "title": "Dubbla straff för brott i kriminella nätverk och skärpta straffskalor",
         "url": "/rattsliga-dokument/lagradsremiss/2026/01/dubbla-straff-for-brott-i-kriminella-natverk-och-skarpta-straffskalor/",
         "published": "2026-01-15",
