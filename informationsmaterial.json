@@ -1,5 +1,32 @@
 [
     {
+        "title": "Instruktion för myndigheters verksamhet i Nato",
+        "url": "/informationsmaterial/2023/11/instruktion-for-myndigheters-verksamhet-i-nato/",
+        "published": "2023-11-30",
+        "updated": "2026-01-21",
+        "types": [
+            "1339"
+        ],
+        "senders": [
+            "1286"
+        ],
+        "summary": "Regeringen reglerar myndigheters verksamhet i Nato genom bland annat denna raminstruktion.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Sverige och Nato",
+                "url": "/regeringens-politik/sverige-i-nato/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2248",
+            "2247",
+            "2593",
+            "2703"
+        ]
+    },
+    {
         "title": "Propositionsförteckning våren 2026",
         "url": "/informationsmaterial/2026/01/propositionsforteckning-varen-2026/",
         "published": "2026-01-13",
@@ -1967,38 +1994,6 @@
             "2688",
             "2694",
             "2671"
-        ]
-    },
-    {
-        "title": "Instruktion för myndigheters verksamhet i Nato",
-        "url": "/informationsmaterial/2023/11/instruktion-for-myndigheters-verksamhet-i-nato/",
-        "published": "2023-11-30",
-        "updated": "2024-03-04",
-        "types": [
-            "1339"
-        ],
-        "senders": [
-            "1286"
-        ],
-        "summary": "Regeringen reglerar myndigheters verksamhet i Nato genom bland annat denna raminstruktion.",
-        "id": null,
-        "shortcuts": [
-            {
-                "name": "Sverige och Nato\n",
-                "url": "/regeringens-politik/sverige-i-nato/"
-            }
-        ],
-        "attachments": [
-            {
-                "name": "Instruktion för myndigheters verksamhet i Nato (pdf 479 kB)",
-                "url": "/contentassets/73f7d652f87b46b9b9b37aa532ce2b23/instruktion-for-myndigheters-verksamhet-i-nato.pdf"
-            }
-        ],
-        "categories": [
-            "2248",
-            "2247",
-            "2593",
-            "2703"
         ]
     },
     {
