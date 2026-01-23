@@ -1,0 +1,5 @@
+# Regeringen går inte vidare med förslag om att införa tillståndsplikt för satellitsändningar av radio och tv
+
+– Regeringen delar remissinstansernas synpunkter att det är tveksamt om förslagen i betänkandet i praktiken skulle bidra till ett ökat skydd för Sveriges säkerhet. Begränsningen av den grundlagsskyddade yttrandefriheten som förslagen innebär bedöms därför inte vara proportionerlig. Av det skälet väljer vi att inte gå vidare med förslagen, säger kulturminister Parisa Liljestrand.
+
+Regeringen bedömer, i likhet med flera remissinstanser, att den tillståndsplikt som föreslås i många fall inte kommer att hindra aktörer från att sända via satellit även om det skulle hota Sveriges säkerhet. Det är inte heller alla satellitsändningar som innebär en fara för Sveriges säkerhet som omfattas av yttrandefrihetsgrundlagen eller dess straffbestämmelser. Den möjlighet att återkalla tillstånd på grund av yttrandefrihetsbrott som föreslås bedöms sammantaget få en mycket begränsad betydelse. Begränsningen av yttrandefriheten som förslagen innebär bedöms därför inte vara proportionerlig.

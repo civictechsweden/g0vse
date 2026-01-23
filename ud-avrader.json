@@ -1,5 +1,22 @@
 [
     {
+        "title": "Colombia - avrådan",
+        "url": "/ud-avrader/colombia---avradan/",
+        "published": "2026-01-22",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1044"
+        ]
+    },
+    {
         "title": "Iran - avrådan",
         "url": "/ud-avrader/iran---avradan/",
         "published": "2026-01-12",
@@ -411,24 +428,6 @@
         "categories": [
             "1017",
             "2204"
-        ]
-    },
-    {
-        "title": "Colombia - avrådan",
-        "url": "/ud-avrader/colombia---avradan/",
-        "published": "2024-01-24",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av förändringar i säkerhetsläget har UD den 24 januari 2024 beslutat om att utöka avrådan för Colombia. I Colombia gäller avrådan för olika departement, regioner och kommuner. \n\nUD avråder från alla resor till regionen Catatumbo i departementet Norte de Santander vid gränsen mot Venezuela.\n\nUD avråder vidare från icke nödvändiga resor till följande departement: \n-\tdepartementet Arauca - med undantag från departementets huvudstad Arauca, \n-\tdepartementet Chocó med - undantag från departementets huvudstad Quibdó och kustorterna Capurganá, Bahía Solano och Nuquí, \n-\tdepartementet Cauca - med undantag från departementets huvudstad Popayán samt landsvägen Panamericana, \n-\tdepartementet Guaviare – med undantag från departementets huvudstad San José del Guaviare, och \n-\tdepartementet Putumayo - med undantag från departementets huvudstad Mocoa samt tätorten Puerto Asís.\n\nDärutöver avråder UD från icke nödvändiga resor till följande regioner:\n-\tregionerna Alto Sinú och San Jorge i departementet Córdoba,\n-\tregionerna Urabá och Bajo Cauca i departementet Antioquia, och \n-\tregionerna Mojana och Magdalena Medio i departementet Bolívar.\n\nUD avråder även från icke nödvändiga resor till följande kommuner:\n-\tkommunerna La Uribe, Vista Hermosa, Puerto Lleras, Puerto Rico, Puerto Concordia, Mariripán och La Macarena i departamentet Meta - med undantag från turistområdet Caño Cristales, \n-\ttill kommunen Tumaco i departementet Nariño, och \n-\tkommunerna Cartagena del Chairá, San Vicente del Caguan, Puerto Rico, El Doncello, Paujil och La Montañita i departementet Caquetá - med undantag från departementets huvudstad Florencia.\n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1044"
         ]
     },
     {

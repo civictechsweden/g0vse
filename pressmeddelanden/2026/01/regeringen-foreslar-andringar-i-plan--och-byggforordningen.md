@@ -1,0 +1,9 @@
+# Regeringen föreslår ändringar i plan- och byggförordningen
+
+I EU:s nya dricksvattendirektiv finns bestämmelser om produkter som kommer i kontakt med dricksvatten och vilka krav som ska vara uppfyllda för att sådana produkter ska få släppas ut på marknaden. Den närmare regleringen finns i genomförandebestämmelser beslutade av EU-kommissionen, som träder i kraft den 31 december 2026.
+
+Som ett led i att genomföra dricksvattendirektivet och för att komplettera kommissionens genomförandebestämmelser föreslår regeringen ändringar i plan- och byggförordningen. Ändringarna innebär att en tillverkare endast får släppa ut en byggprodukt som kommer i kontakt med dricksvatten på marknaden om tillverkaren säkerställt att produkten är tillverkad av slutmaterial som har testats och godkänts i enlighet med den nya EU-rättsliga regleringen. Det anges också vilka övriga krav som en tillverkare eller en importör måste uppfylla för att en byggprodukt som kommer i kontakt med dricksvatten ska få släppas ut på marknaden.
+
+– Regeringen har från första dagen haft ett tydligt mål: att förenkla regler, minska regelbördan och kapa onödiga kostnader för människor och företag. Rent dricksvatten är ett av våra mest grundläggande samhällsbehov. Med de här förordningsändringarna tar vi de nödvändiga steg som krävs för att Sverige ska kunna leva upp till EU:s dricksvattendirektiv, samtidigt som svenska tillverkare och importörer av byggprodukter får tydliga och förutsebara regler att förhålla sig till, säger infrastruktur- och bostadsminister Andreas Carlson.
+
+Förordningsändringarna föreslås träda i kraft den 31 december 2026. Under en övergångsperiod kommer byggprodukter som kommer i kontakt med dricksvatten som vid ikraftträdandet bedöms lämpliga för avsedd användning i ett byggnadsverk enligt nu gällande nationella bestämmelser få säljas till och med den 31 december 2032.
