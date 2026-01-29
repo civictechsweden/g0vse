@@ -17,7 +17,7 @@ Hedersrelaterat våld och förtryck strider mot principen om alla människors li
 
 ### Förslag till stärkt straffrättsligt skydd mot psykiskt våld och tvång att bära slöja
 
-Den 4 december 2025 beslutade regeringen om en lagrådsremiss med förslag till en särskild kriminalisering av psykiskt våld. Psykiskt våld är betydligt vanligare än fysiskt våld och är ofta den form av våld som kommer först. Genom att kriminalisera psykiskt våld ökar möjligheterna att ingripa tidigt och förhindra att våldet fortsätter och blir fysiskt. Förslaget innebär också ett stärkt skydd mot bland annat ekonomiskt våld, kontrollerande beteenden, hedersrelaterat våld och förtryck samt omvändelseförsök genom hot eller tvång. Förslaget innebär också ett stärkt straffrättsligt skydd mot, tvång att bära religiös klädsel som slöja, och tvång att kvarbli i ett äktenskap.
+Den 4 december 2025 beslutade regeringen om en lagrådsremiss med förslag till en särskild kriminalisering av psykiskt våld. Psykiskt våld är betydligt vanligare än fysiskt våld och är ofta den form av våld som kommer först. Genom att kriminalisera psykiskt våld ökar möjligheterna att ingripa tidigt och förhindra att våldet fortsätter och blir fysiskt. Förslaget innebär också ett stärkt skydd mot bland annat ekonomiskt våld, kontrollerande beteenden, hedersrelaterat våld och förtryck samt omvändelseförsök genom hot eller tvång. Förslaget innebär också ett stärkt straffrättsligt skydd mot tvång att bära religiös klädsel, som slöja, och tvång att kvarbli i ett äktenskap.
 
 Förslaget innebär att en ny straffbestämmelse införs i brottsbalken som omfattar upprepade kränkningar i form av förolämpningar, otillbörliga hot, otillbörligt tvång eller otillbörlig övervakning. Det föreslås även att straffbestämmelsen ska omfatta varaktig otillbörlig övervakning, till exempel via GPS eller mobilappar. För straffansvar krävs att kränkningarna, eller den varaktiga övervakningen, ska ha varit ägnade att allvarligt skada den utsattas självkänsla. Straffet föreslås vara fängelse i högst fyra år.
 
@@ -40,6 +40,18 @@ I budgetpropositionen för 2026 föreslog regeringen en permanent förstärkning
 Regeringen har beslutat att ge en utredare i uppdrag att överväga vilka åtgärder som krävs i svensk rätt för att EU-direktivet om bekämpning av våld mot kvinnor och våld i nära relationer ska genomföras i Sverige. Syftet med EU-direktivet är att fastställa en heltäckande ram för att effektivt bekämpa våld mot kvinnor och våld i nära relationer inom EU. Uppdraget ska redovisas senast den 27 maj 2026.
 
 [Pressmeddelande: Genomförande av EU-direktiv om bekämpning av våld mot kvinnor och våld i nära relationer](/pressmeddelanden/2025/02/genomforande-av-eu-direktiv-om-bekampning-av-vald-mot-kvinnor-och-vald-i-nara-relationer/)
+
+### Regeringen föreslår en ny tidsobestämd påföljd för att stärka samhällsskyddet mot allvarlig brottslighet
+
+Regeringen beslutade den 22 januari 2026 om en proposition som innehåller förslag om att ny tidsobestämd frihetsberövande påföljd ska införas och att påföljden ska kallas säkerhetsförvaring. Påföljden ska kunna användas för personer som har begått allvarliga brott som innefattar angrepp mot annans liv, hälsa, frihet eller frid och som har en hög risk för återfall i sådan brottslighet. Lagändringarna föreslås träda i kraft den 15 april 2026 (prop. 2025/26:95).
+
+[Pressmeddelande: Regeringen föreslår en ny tidsobestämd påföljd för att stärka samhällsskyddet mot allvarlig brottslighet](/pressmeddelanden/2026/01/regeringen-foreslar-en-ny-tidsobestamd-pafoljd-for-att-starka-samhallsskyddet-mot-allvarlig-brottslighet/)
+
+### Livstid för upprepade grova våldtäkter
+
+Regeringen har beslutat om en lagrådsremiss som bland annat innehåller förslag om skärpning av ett femtiotal straffskalor, bland annat grov våldtäkt, grov våldtäkt mot barn, kontakt för att träffa ett barn i sexuellt syfte, grovt utnyttjande av barn för sexuell posering och egenmäktighet med barn. Den innehåller också en ny straffskärpningsregel för brott med koppling till kriminella nätverk. Regeringen föreslår också att livstids fängelse ska kunna dömas ut för vissa allvarliga fall av upprepade vålds- och sexualbrott, samt att presumtionen för häktning ska utvidgas. Lagrådsremissen tar omhand delar av Straffreformutredningens betänkande (SOU 2025:66).
+
+[Pressmeddelande: Dubbla straff för gängkriminella, 50-tal skärpta straffskalor och livstid för upprepade grova våldtäkter](/pressmeddelanden/2025/03/myndigheter-ska-folja-upp-regeringens-reform-av-skyddat-boende/)
 
 ### Myndigheter ska följa upp regeringens reform av skyddat boende
 
@@ -89,6 +101,14 @@ I utkastet till lagrådsremiss föreslås att de flesta bestämmelser i LVU beh�
 
 [Pressmeddelande: Ny lagstiftning ska stärka barns rättigheter och trygghet vid omhändertaganden](/pressmeddelanden/2025/12/ny-lagstiftning-ska-starka-barns-rattigheter-och-trygghet-vid-omhandertaganden/)
 
+### Utvidgat utreseförbud för barn och unga
+
+Skyddet för barn och unga som löper risk att utsättas för skadliga utlandsvistelser har stärkts genom att utreseförbudet för barn och unga i LVU har utvidgats. Utreseförbud ska kunna beslutas om ett barn riskerar att föras utomlands eller lämnar Sverige och barnets hälsa eller utveckling skadas under utlandsvistelsen på grund av omständigheter som kan föranleda vård enligt LVU. Lagändringen trädde ikraft den 1 juni 2024.
+
+[Ett utvidgat utreseförbud för barn, betänkande 2023/24:SoU24 (på Riksdagens hemsida) - extern webbplats,](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/ett-utvidgat-utreseforbud-for-barn_hb01sou24/)
+
+[Pressmeddelande: Förslag i proposition att utvidga reseförbudet för barn och unga](/pressmeddelanden/2024/02/forslag-i-proposition-att-utvidga-reseforbudet-for-barn-och-unga/)
+
 ### Nytt delmål för att bekämpa hedersvåldet och ny tioårig nationell strategi
 
 Regeringen har infört ett särskilt jämställdhetspolitiskt delmål mot hedersrelaterat våld:
@@ -100,6 +120,8 @@ Ett särskilt delmål synliggör att hedersrelaterat våld och förtryck tar sig
 Regeringen kommer även att ta fram en ny, samlad tioårig nationell strategi som ska gälla från 2026 och som ska ersätta den nuvarande strategin mot mäns våld mot kvinnor. Den nya strategin ska omfatta de jämställdhetspolitiska delmålen sex och sju mot våld, och ska bidra till ökad effektivitet, tydligare styrning och strukturerad uppföljning.
 
 [Pressmedelande: Ett tryggare Sverige för alla – nya insatser mot hedersrelaterat våld och förtryck](/pressmeddelanden/2025/09/ett-tryggare-sverige-for-alla--nya-insatser-mot-hedersrelaterat-vald-och-fortryck/)
+
+[- extern webbplats,](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/ett-utvidgat-utreseforbud-for-barn_hb01sou24/)
 
 ### Stärkt insats mot hedersrelaterat våld och förtryck
 

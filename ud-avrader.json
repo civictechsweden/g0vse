@@ -1,5 +1,40 @@
 [
     {
+        "title": "Armenien - avrådan",
+        "url": "/ud-avrader/armenien---avradan/",
+        "published": "2026-01-28",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av förändringar i säkerhetsläget har UD beslutat att lätta avrådan för Armenien. Följande avrådan gäller:\n\nUD avråder från alla resor till områden som ligger närmare än fem kilometer från den internationella gränsen mellan Armenien och Azerbajdzjan. \n\nBeslut om ändrad avrådan togs den 28 januari 2026. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1022",
+            "2204"
+        ]
+    },
+    {
+        "title": "Ghana – avrådan",
+        "url": "/ud-avrader/ghana--avradan/",
+        "published": "2026-01-28",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1068"
+        ]
+    },
+    {
         "title": "Colombia - avrådan",
         "url": "/ud-avrader/colombia---avradan/",
         "published": "2026-01-22",
@@ -500,24 +535,6 @@
         "categories": [
             "2204",
             "1134"
-        ]
-    },
-    {
-        "title": "Armenien - avrådan",
-        "url": "/ud-avrader/armenien---avradan/",
-        "published": "2023-07-06",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Utrikesdepartementet avråder från alla resor till regionerna Syunik och Vayots Dzor, samt de delar av regionen Gegharkunik som ligger söder och öster om Sevansjön. För de södra delarna innebär detta öster om väg M10 från och med staden Martuni söderut.\n\nVidare avråder Utrikesdepartementet från alla resor till områden som ligger närmare än fem kilometer från den internationella gränsen mellan Armenien och Azerbajdzjan. Detta inkluderar staden Yeraskh och vägsträckor som passerar genom gränsområdet.\n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "1022",
-            "2204"
         ]
     },
     {
