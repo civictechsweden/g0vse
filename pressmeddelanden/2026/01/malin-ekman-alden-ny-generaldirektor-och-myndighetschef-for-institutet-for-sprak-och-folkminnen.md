@@ -1,0 +1,5 @@
+# Malin Ekman Aldén ny generaldirektör och myndighetschef för Institutet för språk och folkminnen
+
+– Jag har glädjen att berätta om regeringens beslut att anställa Malin Ekman Aldén som generaldirektör och chef för Isof. Med en lång och gedigen erfarenhet från statsförvaltningen och av strategisk styrning, organisationsutveckling och förändringsledning, har Malin mycket goda förutsättningar att leda och utveckla myndigheten. Jag är därför mycket glad att Malin Ekman Aldén har tackat ja till uppdraget. Jag vill också rikta ett varmt tack till Martin Sundin för hans nio år som generaldirektör och myndighetschef för Isof, säger kulturminister Parisa Liljestrand.
+
+Malin Ekman Aldén är sedan 2016 generaldirektör för Myndigheten för delaktighet. Tidigare har hon bland annat arbetat som generalsekreterare för Svenska handikapporganisationers internationella biståndsorganisation (SHIA). Malin har även varit gruppchef på Socialdepartementet. Malin Ekman Aldén tillträder tjänsten den 1 april 2026.

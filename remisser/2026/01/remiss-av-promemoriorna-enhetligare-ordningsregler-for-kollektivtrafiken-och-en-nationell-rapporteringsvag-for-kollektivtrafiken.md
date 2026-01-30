@@ -1,4 +1,4 @@
-# Remiss av promemoriorna Enhetligare ordningsregler för kollektivtrafiken och En nationell rapporteringsväg för kollektivtrafikenDiarienummer: LI2025/02164
+# Remiss av promemoriorna Enhetligare ordningsregler för kollektivtrafiken och En nationell rapporteringsväg för kollektivtrafikenDiarienummer: LI2025/02164 och LI2025/02165
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemoriorna Enhetligare ordningsregler för kollektivtrafiken och En nationell rapporteringsväg för kollektivtrafiken.
 
