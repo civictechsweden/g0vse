@@ -1,0 +1,7 @@
+# Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen
+
+I denna lagrådsremiss föreslår regeringen att kommuners utbetalningar av ekonomiska förmåner till en enskild person och ekonomiska stöd som avser en enskild person ska kunna bli föremål för Utbetalningsmyndighetens dataanalys och granskning.
+
+För att detta ska vara möjligt föreslås bl.a. att kommuner ska vara skyldiga att lämna sådana uppgifter som behövs för myndighetens dataanalyser och urval. Kommuner föreslås även vara skyldiga att vid behov lämna kompletterande uppgifter som behövs vid en fördjupad granskning. Det föreslås vidare att Utbetalningsmyndigheten ska underrätta den kommun som har beslutat om utbetalningen när en sådan granskning inleds och avslutas samt om resultatet av granskningen. Utbetalningsmyndighetens granskning ska utgöra ett komplement till kommuners kontrollverksamhet. Förslagen syftar till att förbättra förutsättningarna för att motverka felaktiga utbetalningar från välfärdssystemen och förhindra ekonomisk brottslighet.
+
+Lagändringarna om att kommuners utbetalningar ska kunna bli föremål för Utbetalningsmyndighetens dataanalys och granskning föreslås träda i kraft den 1 juli 2026. Lagändringarna som innebär att det blir obligatoriskt för kommuner att även utan en begäran från Utbetalningsmyndigheten regelbundet lämna uppgifter som behövs för myndighetens dataanalys och urval föreslås dock träda i kraft den 1 juli 2029.

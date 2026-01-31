@@ -1,5 +1,149 @@
 [
     {
+        "title": "Sysselsättning och boende på landsbygden",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/01/sysselsattning-och-boende-pa-landsbygden/",
+        "published": "2026-01-30",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1296"
+        ],
+        "summary": "I lagrådsremissen föreslås att vissa förvärv av lantbruksegendom ska undantas från jordförvärvslagens tillämpningsområde.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Nu blir det lättare för familjer att förvärva lantbruksegendom",
+                "url": "/pressmeddelanden/2026/01/nu-blir-det-lattare-for-familjer-att-forvarva-lantbruksegendom/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1243",
+            "1262"
+        ]
+    },
+    {
+        "title": "Ökade möjligheter till hemmaladdning av elfordon",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/01/okade-mojligheter-till-hemmaladdning-av-elfordon/",
+        "published": "2026-01-30",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "I lagrådsremissen lämnas förslag som syftar till att fler ska få möjlighet till att ladda sitt elfordon i närheten av hemmet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1217",
+            "1252",
+            "1274"
+        ]
+    },
+    {
+        "title": "Bättre förutsättningar att sända ut statlig personal",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/01/battre-forutsattningar-att-sanda-ut-statlig-personal/",
+        "published": "2026-01-30",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1295"
+        ],
+        "summary": "I lagrådsremissen föreslås förbättringar av förutsättningarna att sända ut personal inom två områden.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1279"
+        ]
+    },
+    {
+        "title": "Utökade möjligheter att ingripa i säkerhetskänslig verksamhet",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/01/utokade-mojligheter-att-ingripa-i-sakerhetskanslig-verksamhet/",
+        "published": "2026-01-30",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "Mot bakgrund av det försämrade säkerhetspolitiska läget är det angeläget att de som bedriver tillsyn över säkerhetskänslig verksamhet har effektiva verktyg för att kunna ingripa mot förfaranden som innebär risker för Sveriges säkerhet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1279",
+            "2675"
+        ]
+    },
+    {
+        "title": "En mer flexibel hyresmarknad",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/01/en-mer-flexibel-hyresmarknad/",
+        "published": "2026-01-30",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "I lagrådsremissen lämnas en rad förslag som syftar till att skapa en mer flexibel hyresmarknad och att öka tillgången till bostäder.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Förslag för en mer flexibel hyresmarknad",
+                "url": "/pressmeddelanden/2026/01/forslag-for-en-mer-flexibel-hyresmarknad/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1217"
+        ]
+    },
+    {
+        "title": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/01/forbattrade-forutsattningar-for-kommuner-att-motverka-felaktiga-utbetalningar-fran-valfardssystemen/",
+        "published": "2026-01-30",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "I denna lagrådsremiss föreslår regeringen att kommuners utbetalningar av ekonomiska förmåner till en enskild person och ekonomiska stöd som avser en enskild person ska kunna bli föremål för Utbetalningsmyndighetens dataanalys och granskning.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Stärkt skydd mot felaktiga utbetalningar i kommunerna",
+                "url": "/pressmeddelanden/2026/01/starkt-skydd-mot-felaktiga-utbetalningar-i-kommunerna/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2092"
+        ]
+    },
+    {
         "title": "Förbättrat stöd i skolan",
         "url": "/rattsliga-dokument/lagradsremiss/2026/01/forbattrat-stod-i-skolan/",
         "published": "2026-01-29",

@@ -1,0 +1,5 @@
+# Regeringen förlänger stödet till ett migrationsprojekt i Uzbekistan
+
+Regeringen har beslutat om ett bidrag på drygt 10 miljoner kronor till ICMPD för att förlänga ett migrationsprojekt i Uzbekistan. Sverige har under flera år varit det land i EU som tar emot flest asylansökningar från uzbekiska medborgare. Sett till antal har uzbekiska asylansökningar i Sverige minskat med 62 procent sedan 2022. Bidraget till ICMPD syftar till att fortsätta minska den irreguljära migrationen från Uzbekistan till Sverige samt minska antalet uzbekiska medborgare som befinner sig olovligen i Sverige. I arbetet ingår att ge dem tillgång till korrekt information om riskerna med irreguljär migration, möjligheter till reguljära migrationskanaler och ge förutsättningar för hållbar återintegrering i Uzbekistan.
+
+I dag har migrationsminister Johan Forssell även tagit emot Susanne Raab som är nytillträdd generaldirektör för ICMPD. Under mötet berättade migrationsministern bland annat om regeringens förlängning av stödet till projektet i Uzbekistan.
