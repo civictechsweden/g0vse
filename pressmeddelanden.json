@@ -1,5 +1,197 @@
 [
     {
+        "title": "Pressträff: Läkemedelsverket överlämnar rapport om olaglig läkemedelsförsäljning",
+        "url": "/pressmeddelanden/2026/02/presstraff-lakemedelsverket-overlamnar-rapport-om-olaglig-lakemedelsforsaljning/",
+        "published": "2026-02-02",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Tisdag den 3 februari klockan 11.15 överlämnar Läkemedelsverket en kartläggning av olaglig läkemedelsförsäljning samt förslag på motåtgärder. I samband med detta håller socialminister Jakob Forssmed en pressträff tillsammans med Läkemedelverkets generaldirektör Ann Lindberg och utredare Tomas Nilsson och Martin Burman.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
+    },
+    {
+        "title": "Sjukvårdsministern reser till Egypten",
+        "url": "/pressmeddelanden/2026/02/sjukvardsministern-reser-till-egypten/",
+        "published": "2026-02-02",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2795",
+            "1292"
+        ],
+        "summary": "Den 2 februari reser sjukvårdsminister Elisabet Lann till Kairo. Syftet med resan är bland annat att få en inblick i hur Sveriges stöd till vård av patienter från Gaza fungerar.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1233",
+            "1013",
+            "1053"
+        ]
+    },
+    {
+        "title": "Inbjudan till pressträff om regeringens planer för enklare regler för bygg- och bostadsmarknaden",
+        "url": "/pressmeddelanden/2026/02/inbjudan-till-presstraff-om-regeringens-planer-for-enklare-regler-for-bygg--och-bostadsmarknaden/",
+        "published": "2026-02-02",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2608",
+            "2623",
+            "2425"
+        ],
+        "summary": "Tisdagen den 3 februari håller infrastruktur- och bostadsminister Andreas Carlson, tillsammans med finansmarknadsminister Niklas Wykman, Patrik Karlson, Liberalerna och Mikael Eskilandersson, Sverigedemokraterna en pressträff. Under pressträffen kommer regeringens planer för enklare och bättre regler för bygg- och bostadsmarknaden att presenteras.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1217"
+        ]
+    },
+    {
+        "title": "En stark kunskapsskola med nya läroplaner, nytt betygssystem och reglerad undervisningstid",
+        "url": "/pressmeddelanden/2026/02/en-stark-kunskapsskola-med-nya-laroplaner-nytt-betygssystem-och-reglerad-undervisningstid/",
+        "published": "2026-02-02",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2624",
+            "2791",
+            "1288",
+            "1294"
+        ],
+        "summary": "Sverige behöver en stark kunskapsskola. Regeringen genomför de största reformerna på skolans område på 30 år och föreslår bland annat nya läroplaner med tydligare kunskapsinriktning, ett nytt betygssystem och reglerad undervisningstid för lärare.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Lagrådsremiss: Nya läroplaner – för en stark kunskapsskola",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/02/nya-laroplaner--for-en-stark-kunskapsskola/"
+            },
+            {
+                "name": "Lagrådsremiss: Ett likvärdigt betygssystem",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/02/ett-likvardigt-betygssystem/"
+            },
+            {
+                "name": "Lagrådsremiss: Tid för undervisningsuppdraget",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/02/tid-for-undervisningsuppdraget/"
+            },
+            {
+                "name": "Artikel: Regeringen genomför de största reformerna för skolan på 30 år",
+                "url": "/artiklar/2026/02/regeringen-genomfor-de-storsta-reformerna-for-skolan-pa-30-ar/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff den 2 februari 2026 om nya läroplaner betygssystem och reglerad undervisningstid (pdf 164 kB)",
+                "url": "/globalassets/regeringen/dokument/utbildningsdepartementet/presentationsbilder-fran-presstraff-den-2-februari-2026-om-nya-laroplaner-betygssystem-och-reglerad-undervisningstid.pdf"
+            }
+        ],
+        "categories": [
+            "1276",
+            "2699",
+            "2688",
+            "2694"
+        ]
+    },
+    {
+        "title": "Våld mot barn i fokus när socialtjänstministern deltar på FN-möte i New York",
+        "url": "/pressmeddelanden/2026/02/vald-mot-barn-i-fokus-nar-socialtjanstministern-deltar-pa-fn-mote-i-new-york/",
+        "published": "2026-02-02",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "1292"
+        ],
+        "summary": "Måndag den 2 februari öppnar den 64:e sessionen av FN:s kommission för social utveckling i New York. Socialtjänstminister Camilla Waltersson Grönvall är på plats i New York för att representera Sverige.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "64th Commission For Social Development – FN:s avdelning för ekonomiska och sociala ärenden (på engelska)- extern webbplats,",
+                "url": "https://social.desa.un.org/csocd/64th-session"
+            },
+            {
+                "name": "Pressmeddelande: Socialtjänstministern deltar i världstoppmöte för social utveckling i Doha",
+                "url": "/pressmeddelanden/2025/11/socialtjanstministern-deltar-i-varldstoppmote-for-social-utveckling-i-doha/"
+            },
+            {
+                "name": "Pressmeddelande: Socialtjänstminister Camilla Waltersson Grönvall talar på UN Womens styrelsemöte",
+                "url": "/pressmeddelanden/2025/02/socialtjanstminister-camilla-waltersson-gronvall-talar-pa-un-womens-styrelsemote/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1220",
+            "1215",
+            "2751",
+            "1013"
+        ]
+    },
+    {
+        "title": "Trygga mötesplatser för unga hbtqi-personer ska finnas i hela landet",
+        "url": "/pressmeddelanden/2026/02/trygga-motesplatser-for-unga-hbtqi-personer-ska-finnas-i-hela-landet/",
+        "published": "2026-02-02",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2784",
+            "1284"
+        ],
+        "summary": "Möjligheten för unga hbtqi-personer att mötas är fortfarande begränsad och många avstår från att delta i fritidsaktiviteter av rädsla för att bli dåligt bemötta. Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF) får därför fortsatt uppdrag att stärka förutsättningarna för fler mötesplatser för unga hbtqi-personer, särskilt på landsbygden och områden med socioekonomiska utmaningar.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2403"
+        ]
+    },
+    {
+        "title": "Pressbriefing om regeringens ekonomiska plan i en osäker omvärld",
+        "url": "/pressmeddelanden/2026/02/pressbriefing/",
+        "published": "2026-02-02",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "Måndag den 2 februari kl. 09.00 bjuder finansminister Elisabeth Svantesson in till en pressbriefing om regeringens ekonomiska plan i en osäker omvärld.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Presentationsbilder vid pressbriefing med finansministern den 2 februari 2026 (pdf 2 MB)",
+                "url": "/globalassets/regeringen/dokument/finansdepartementet/ppt-till-presstraffar/presentationsbilder-vid-pressbriefing-med-finansministern-den-2-februari-2026.pdf"
+            }
+        ],
+        "categories": [
+            "1232"
+        ]
+    },
+    {
         "title": "Åsa Regnér blir Unescos nya biträdande generaldirektör",
         "url": "/pressmeddelanden/2026/01/asa-regner-blir-unescos-nya-bitradande-generaldirektor/",
         "published": "2026-01-31",
