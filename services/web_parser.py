@@ -129,7 +129,7 @@ def extract_shortcuts(soup):
 
 
 def extract_attachments(soup):
-    links_new = soup.select("div.col-1 > ul.list--icons a")
+    links_new = soup.select("div.col-1 > .list--icons a")
     links_old = soup.select("div.col-1 > ul.list--Block--icons a")
     links = links_new + links_old
     return [{"name": link.get_text(strip=True), "url": link["href"]} for link in links]
