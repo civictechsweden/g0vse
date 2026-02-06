@@ -1,5 +1,728 @@
 [
     {
+        "title": "Fler åtgärder för ny kärnkraft",
+        "url": "/pressmeddelanden/2026/02/fler-atgarder-for-ny-karnkraft/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2612",
+            "2623",
+            "2628",
+            "1285",
+            "1291"
+        ],
+        "summary": "I dag lägger regeringen fram flera förslag som ska göra det enklare att etablera ny kärnkraft i Sverige. Det handlar om en ny godkännandelag, fler möjliga platser för kärnkraft vid kust och ökat statligt stöd till kommuners förstudier.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Lagrådsremiss: En mer ändamålsenlig prövning av kärntekniska anläggningar",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/02/en-mer-andamalsenlig-provning-av-karntekniska-anlaggningar/"
+            },
+            {
+                "name": "Lagrådsremiss: Ny kärnkraft i Sverige – fler möjliga platser vid kusten",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/02/ny-karnkraft-i-sverige--fler-mojliga-platser-vid-kusten/"
+            },
+            {
+                "name": "Uppdrag i Naturvårdsverkets regleringsbrev: Fördela bidrag och redovisa kommunala förstudier för effektiv etablering av ny kärnkraft",
+                "url": "/contentassets/fb281ddefaa740a2835330304fa2595b/uppdrag-i-naturvardsverkets-regleringsbrev-fordela-bidrag-och-redovisa-kommunala-forstudier-for-effektiv-etablering-av-ny-karnkraft.pdf"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen föreslår fler platser för ny kärnkraft vid kusten",
+                "url": "/pressmeddelanden/2025/10/regeringen-foreslar-fler-platser-for-ny-karnkraft-vid-kusten/"
+            },
+            {
+                "name": "Pressmeddelande: Satsning på klimatomställning och effektiva tillståndsprocesser",
+                "url": "/pressmeddelanden/2025/12/satsning-pa-klimatomstallning-och-effektiva-tillstandsprocesser-i-naturvardsverkets-regleringsbrev-2026/"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen dubblar resurserna till kommuner som har sökt resurser till pilotprojekt för ny kärnkraft",
+                "url": "/pressmeddelanden/2024/12/regeringen-dubblar-resurserna-till-kommuner-som-har-sokt-resurser-till-pilotprojekt-for-ny-karnkraft/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff den 5 februari om nyheter om kärnkraft (pdf 117 kB)",
+                "url": "/globalassets/regeringen/dokument/klimat--och-naringslivsdepartementet/presentationsbilder-fran-presstraff-den-5-februari-om-nyheter-om-karnkraft.pdf"
+            }
+        ],
+        "categories": [
+            "1226",
+            "1231",
+            "1252",
+            "1257"
+        ]
+    },
+    {
+        "title": "Regeringen tillsätter en utredning i syfte att förenkla och påskynda utbyggnaden av militära fastigheter och anläggningar",
+        "url": "/pressmeddelanden/2026/02/regeringen-tillsatter-en-utredning-i-syfte-att-forenkla-och-paskynda-utbyggnaden-av-militara-fastigheter-och-anlaggningar/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2627",
+            "2425"
+        ],
+        "summary": "Regeringen tillsätter en utredning för att förenkla och påskynda utbyggnad av det militära försvarets fastigheter och anläggningar. I uppdraget ingår att analysera vad i plan- och byggprocesserna som medför fördröjningar för utbyggnaden av den militära delen av totalförsvaret. Utifrån sin analys ska utredaren även lämna förslag på författningsändringar och andra åtgärder som kan främja mer effektiva och ändamålsenliga processer.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1217"
+        ]
+    },
+    {
+        "title": "Ny utredning om modernare momsregler och bättre verktyg mot momsbedrägerier",
+        "url": "/pressmeddelanden/2026/02/ny-utredning-om-modernare-momsregler-och-battre-verktyg-mot-momsbedragerier/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "Regeringen har beslutat att tillsätta en utredning som ska analysera hur nya EU-regler om moms ska genomföras i svensk rätt. De nya EU-reglerna innebär bland annat att rapporteringen vid handel mellan EU-länder ska ske digitalt.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Dir. 2026:9 Moderniserad och brottsförebyggande hantering av mervärdesskatt",
+                "url": "/rattsliga-dokument/kommittedirektiv/2026/02/dir.-20269"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1238",
+            "1267",
+            "1012"
+        ]
+    },
+    {
+        "title": "Förenklingar i jaktlagstiftningen",
+        "url": "/pressmeddelanden/2026/02/forenklingar-i-jaktlagstiftningen/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2626",
+            "2425"
+        ],
+        "summary": "Regeringen har beslutat om ändringar i jaktlagen i lagrådsremissen Förenklingar i jaktlagstiftningen. Ändringarna syftar till att förenkla möjligheterna till jakt.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Kommittédirektiv: En moderniserad jaktlagstiftning",
+                "url": "/rattsliga-dokument/kommittedirektiv/2024/01/dir.-202411"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1243"
+        ]
+    },
+    {
+        "title": "Regeringen bidrar till att stärka Ukrainas migrations- och asylsystem",
+        "url": "/pressmeddelanden/2026/02/regeringen-bidrar-till-att-starka-ukrainas-migrations--och-asylsystem/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2618",
+            "1287"
+        ],
+        "summary": "Regeringen har fattat ett beslut om bidrag till Migrationsverket i syfte att stärka Ukrainas migrations- och asylsystem.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2584",
+            "1198"
+        ]
+    },
+    {
+        "title": "Regeringen går vidare med förslag om nya bolåneregler",
+        "url": "/pressmeddelanden/2026/02/regeringen-gar-vidare-med-forslag-om-nya-bolaneregler/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2623",
+            "1285"
+        ],
+        "summary": "Fler ska kunna ta sig in på bostadsmarknaden och äga sitt boende. Det ska också bli enklare att flytta till ett större boende när familjen växer. Regeringen går vidare med förslag om att höja bolånetaket och ta bort det skärpta amorteringskravet, och har nu beslutat om en proposition.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:119 Utveckling av makrotillsynsområdet",
+                "url": "/rattsliga-dokument/proposition/2026/02/prop.-202526119"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1217",
+            "1231"
+        ]
+    },
+    {
+        "title": "Ny svensk strategi för EU:s gemensamma jordbrukspolitik",
+        "url": "/pressmeddelanden/2026/02/ny-svensk-strategi-for-eus-gemensamma-jordbrukspolitik/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2626",
+            "2425"
+        ],
+        "summary": "Regeringen har beslutat om en ny strategi för EU:s gemensamma jordbrukspolitik 2030 och framåt. Syftet är att ge långsiktiga signaler om regeringens prioriteringar för att skapa stabila förutsättningar för svenska jordbrukare att investera och utveckla sin verksamhet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Temasida: EU:s gemensamma jordbrukspolitik",
+                "url": "/regeringens-politik/eus-gemensamma-jordbrukspolitik/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1243",
+            "2802"
+        ]
+    },
+    {
+        "title": "Stärkt kontroll av fusk i livsmedelskedjan",
+        "url": "/pressmeddelanden/2026/02/starkt-kontroll-av-fusk-i-livsmedelskedjan/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2614",
+            "2626",
+            "2425"
+        ],
+        "summary": "Regeringen föreslår i lagrådsremissen Stärkt kontroll av fusk i livsmedelskedjan att centrala kontrollmyndigheter ska få möjlighet att ta över kontrollansvar för misstänkt fusk från länsstyrelser och kommuner om den misstänkta överträdelsen är särskilt omfattande eller komplicerad, eller om det finns andra särskilda skäl.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Kommittédirektiv: Stärkt offentlig kontroll för att upptäcka och motverka fusk i den jordbruksbaserade livsmedelskedjan",
+                "url": "/rattsliga-dokument/kommittedirektiv/2022/07/dir.-202299"
+            },
+            {
+                "name": "SOU: Stärkt kontroll av fusk i livsmedelskedjan",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2024/06/sou-202444/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2092",
+            "1240",
+            "1243"
+        ]
+    },
+    {
+        "title": "Smittskyddet i boenden för personer med funktionsnedsättning ses över",
+        "url": "/pressmeddelanden/2026/02/smittskyddet-i-boenden-for-personer-med-funktionsnedsattning-ses-over/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "1292"
+        ],
+        "summary": "Regeringen ger Socialstyrelsen i uppdrag att komplettera ett tidigare betänkande om särskilda smittskyddsåtgärder i vissa boenden för personer med funktionsnedsättning. Uppdraget innebär bland annat att analysera behov och konsekvenser av ett förslag om flyttning utan samtycke som en smittskyddsåtgärd.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Slutbetänkandet Några smittskyddsfrågor inom socialtjänsten och socialförsäkringen överlämnades till socialministern",
+                "url": "/pressmeddelanden/2023/09/slutbetankandet-nagra-smittskyddsfragor-inom-socialtjansten-och-socialforsakringen-overlamnades-till-socialministern/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2655",
+            "1223"
+        ]
+    },
+    {
+        "title": "Pressträff om en ny mottagandelag",
+        "url": "/pressmeddelanden/2026/02/presstraff-om-en-ny-mottagandelag/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2618",
+            "1287"
+        ],
+        "summary": "Fredag den 6 februari klockan 10:00 bjuder migrationsminister Johan Forssell in till pressträff tillsammans med Ludvig Aspling (SD), Ingemar Kihlström (KD) och Fredrik Malm (L). På pressträffen kommer nya regler för asylmottagandet i Sverige som regeringen har föreslagit i en lagrådsremiss att presenteras.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1249"
+        ]
+    },
+    {
+        "title": "Kompetenscentrum om intellektuell funktionsnedsättning och autism inrättas",
+        "url": "/pressmeddelanden/2026/02/kompetenscentrum-om-intellektuell-funktionsnedsattning-och-autism-inrattas/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "1292"
+        ],
+        "summary": "Socialstyrelsen har tidigare fått i uppdrag att förbereda ett nationellt kompetenscentrum för intellektuell funktionsnedsättning och autism. Nu beslutar regeringen att Socialstyrelsen ska inhysa kompetenscentrumet i sin organisation, genom att uppdraget skrivs in i Socialstyrelsens instruktion.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Kunskapen om intellektuell funktionsnedsättning och autism ska öka genom nationellt kompetenscentrum",
+                "url": "/pressmeddelanden/2025/02/kunskapen-om-intellektuell-funktionsnedsattning-och-autism-ska-oka-genom-nationellt-kompetenscentrum/"
+            },
+            {
+                "name": "Pressmeddelande: 7 miljoner till nationellt kompetenscentrum om intellektuell funktionsnedsättning och autism",
+                "url": "/pressmeddelanden/2025/04/7-miljoner-till-nationellt-kompetenscentrum-om-intellektuell-funktionsnedsattning-och-autism/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1223"
+        ]
+    },
+    {
+        "title": "Arbetet med förstärkningsteam blir permanent",
+        "url": "/pressmeddelanden/2026/02/arbetet-med-forstarkningsteam-blir-permanent/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "1292"
+        ],
+        "summary": "Arbetet med förstärkningsteam inom socialtjänsten får nu de förutsättningar som krävs för att kunna fortsätta långsiktigt, för att bland annat stärka arbetet med unga i kriminalitet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Stärkt förebyggande arbete och tryggare skyddsnät",
+                "url": "/pressmeddelanden/2025/12/starkt-forebyggande-arbete-och-tryggare-skyddsnat/"
+            },
+            {
+                "name": "Ds 2025:19 Slutredovisning av uppdraget om förstärkningsteam inom socialtjänsten",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/06/ds-202519/"
+            },
+            {
+                "name": "Pressmeddelande: Sex kommuner deltar i pilotprojekt med förstärkningsteam inom socialtjänsten",
+                "url": "/pressmeddelanden/2024/02/sex-kommuner-deltar-i-pilotprojekt-med-forstarkningsteam-inom-socialtjansten/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1268"
+        ]
+    },
+    {
+        "title": "Uppdrag att höja kvaliteten i utstationeringsregistret",
+        "url": "/pressmeddelanden/2026/02/uppdrag-att-hoja-kvaliteten-i-utstationeringsregistret/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2792",
+            "1284"
+        ],
+        "summary": "Regeringen ger Arbetsmiljöverket i uppdrag att förbättra kvaliteten i och tillgängligheten till uppgifter i utstationeringsregistret. Syftet är att stärka arbetet mot arbetslivskriminalitet och minska arbetstagares utsatthet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1213",
+            "2096"
+        ]
+    },
+    {
+        "title": "Satsning på hågkomstresor till Förintelsens minnesplatser och utbildningar om Förintelsen",
+        "url": "/pressmeddelanden/2026/02/satsning-pa-hagkomstresor-till-forintelsens-minnesplatser-och-utbildningar-om-forintelsen/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2624",
+            "1288"
+        ],
+        "summary": "Regeringen har beslutat att tilldela Svenska kommittén mot antisemitism (SKMA) och Voksenåsen AS sammanlagt 6,9 miljoner kronor för att genomföra hågkomstresor till Förintelsens minnesplatser och utbildningsinsatser om Förintelsen, antisemitism och rasism.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Svenska kommittén mot antisemitisms wepplats- extern webbplats,",
+                "url": "https://skma.se/"
+            },
+            {
+                "name": "Voksenåsens webbplats om hågkomstresor - i spåren av den norska Förintelsen- extern webbplats,",
+                "url": "https://hagkomstresor.org/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1219",
+            "2539",
+            "2666"
+        ]
+    },
+    {
+        "title": "Jämställdhetsministern reser till Borlänge",
+        "url": "/pressmeddelanden/2026/02/jamstalldhetsministern-reser-till-borlange/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2784",
+            "1284"
+        ],
+        "summary": "Fredagen den 6 februari reser jämställdhetsminister Nina Larsson till Borlänge för att samtala om jämställdhet inom industribranschen och besöka en kvinnojour.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1213",
+            "1239"
+        ]
+    },
+    {
+        "title": "Regeringen redovisar arbetet i Internationella valutafonden",
+        "url": "/pressmeddelanden/2026/02/regeringen-redovisar-arbetet-i-internationella-valutafonden/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "Regeringen överlämnar en skrivelse till riksdagen om arbetet i Internationella valutafonden (IMF) under 2025 och regeringens prioriteringar för arbetet i fonden.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Skr. 2025/26:96 Redovisning av verksamheten i Internationella valutafonden 2025",
+                "url": "/rattsliga-dokument/skrivelse/2026/02/skr.-20252696"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1013",
+            "1198"
+        ]
+    },
+    {
+        "title": "Stärkt säkerhet vid allmänna sammankomster och offentliga tillställningar",
+        "url": "/pressmeddelanden/2026/02/starkt-sakerhet-vid-allmanna-sammankomster-och-offentliga-tillstallningar/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen har beslutat om en lagrådsremiss med förslag som ska stärka säkerheten vid allmänna sammankomster och offentliga tillställningar. Syftet är att skapa en tryggare miljö både för deltagare och för personer som befinner sig i närheten av dessa evenemang.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Lagrådsremiss: Stärkt säkerhet vid allmänna sammankomster och offentliga tillställningar",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/02/starkt-sakerhet-vid-allmanna-sammankomster-och-offentliga-tillstallningar/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1263"
+        ]
+    },
+    {
+        "title": "Statskontoret får i uppdrag att se över tillsynen av Polismyndigheten och Kriminalvården",
+        "url": "/pressmeddelanden/2026/02/statskontoret-far-i-uppdrag-att-se-over-tillsynen-av-polismyndigheten-och-kriminalvarden/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen har gett Statskontoret i uppdrag att se över den ordinära tillsynen och klagomålssystemet rörande Polismyndigheten och Kriminalvården. Syftet är att säkerställa en rättssäker och effektiv ordning för tillsyn av myndigheterna.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Uppdrag till Statskontoret om en översyn av ordningen för tillsyn av Polismyndigheten och Kriminalvården",
+                "url": "/regeringsuppdrag/2026/02/uppdrag-till-statskontoret-om-en-oversyn-av-ordningen-for-tillsyn-av-polismyndigheten-och-kriminalvarden/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1263"
+        ]
+    },
+    {
+        "title": "Nya regler om privatkopieringsersättning",
+        "url": "/pressmeddelanden/2026/02/nya-regler-om-privatkopieringsersattning/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen föreslår i en lagrådsremiss nya regler om privatkopieringsersättning. Syftet är att säkerställa en EU förenlig och likvärdig rätt till rimlig kompensation för rättighetshavarna samt att anpassa regelverket till dagens tekniska och marknadsmässiga förutsättningar.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Lagrådsremiss: Nya regler om privatkopieringsersättning",
+                "url": "/pressmeddelanden/2026/02/nya-regler-om-privatkopieringsersattning/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1238",
+            "2282",
+            "1257"
+        ]
+    },
+    {
+        "title": "Regeringen presenterar nytt energipaket till Ukraina",
+        "url": "/pressmeddelanden/2026/02/regeringen-presenterar-nytt-energipaket-till-ukraina/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2756",
+            "2612",
+            "1291",
+            "1295"
+        ],
+        "summary": "Regeringen presenterar i dag ett nytt stödpaket till Ukraina på en miljard kronor till stöd för landets energisektor som under vintern utsatts för intensiva ryska attacker. Stödet ska bidra till att möta landets akuta energibehov och till att stärka energiförsörjningen på längre sikt.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1215",
+            "2584",
+            "1013",
+            "1198"
+        ]
+    },
+    {
+        "title": "Regeringen ger stöd till Världsantidopningsbyrån, WADA",
+        "url": "/pressmeddelanden/2026/02/regeringen-ger-stod-till-varldsantidopningsbyran-wada/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Regeringen ger Kammarkollegiet i uppdrag att betala ut cirka 2,5 miljoner kronor till Världsantidopningsbyrån som bidrag till verksamhetens arbete under 2026. Bidraget ska bidra till ett stärkt arbete för en dopningsfri idrott.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringens stöd för antidopningsarbetet 2026",
+                "url": "/pressmeddelanden/2025/12/regeringens-stod-for-antidopningsarbetet-2026/"
+            },
+            {
+                "name": "Pressmeddelande: Sverige förnyar sitt engagemang i kampen mot dopning",
+                "url": "/pressmeddelanden/2025/03/sverige-fornyar-sitt-engagemang-i-kampen-mot-dopning/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1218"
+        ]
+    },
+    {
+        "title": "Ny skrift i utredningen om minskat barnafödande",
+        "url": "/pressmeddelanden/2026/02/ny-skrift-i-utredningen-om-minskat-barnafodande/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Regeringens utredning om minskat barnafödande har publicerat sin andra skrift. Den visar hur födelsetalen har sjunkit sedan 2010 och vad forskningen säger om orsakerna bakom utvecklingen.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Skrift 1: Utredningen för en framtid med barn- extern webbplats,",
+                "url": "https://framtidmedbarn.se/wp-content/uploads/2025/12/Nr-1-Den-tysta-krisen.pdf"
+            },
+            {
+                "name": "Skrift 2: Utredningen för en framtid med barn- extern webbplats,",
+                "url": "https://framtidmedbarn.se/wp-content/uploads/2026/01/Nr-2-Fran-hoga-till-sjunkande-fruktsamhetstal.pdf"
+            },
+            {
+                "name": "Pressmeddelande: Ett minskat barnafödande – första delredovisningen presenteradWebb-TV",
+                "url": "/pressmeddelanden/2025/12/ett-minskat-barnafodande--forsta-delredovisningen-presenterad/"
+            },
+            {
+                "name": "Utredningens webbplats: Framtid med barn- extern webbplats,",
+                "url": "https://framtidmedbarn.se/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2655"
+        ]
+    },
+    {
+        "title": "Pål Jonson i Bryssel för flera högnivåmöten",
+        "url": "/pressmeddelanden/2026/02/pal-jonson-i-bryssel-for-flera-hognivamoten/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2627",
+            "1286"
+        ],
+        "summary": "Den 11 och 12 februari kommer försvarsminister Pål Jonson att delta på försvarsministermötet inom EU samt Nato. I samband med Natos försvarsministermöte kommer även ett möte att hållas inom ramen för Ukraine Defence Contact Group. Ökat stöd till Ukraina är den fråga som kommer prägla alla tre möten.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2247",
+            "2719",
+            "2593",
+            "1012"
+        ]
+    },
+    {
+        "title": "Satsning för att öka simkunnigheten",
+        "url": "/pressmeddelanden/2026/02/satsning-for-att-oka-simkunnigheten/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Regeringen genomför en riktad satsning för att öka simkunnigheten bland barn och vuxna i områden där utanförskapet är stort. Totalt avsätts 90 miljoner kronor per år för 2026–2028, fördelat mellan den organiserade idrotten och andra ideella organisationer.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen satsar för att stärka barns och ungas villkor i utanförskapsområden",
+                "url": "/pressmeddelanden/2025/09/regeringen-satsar-for-att-starka-barns-och-ungas-villkor-i-utanforskapsomraden/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1218",
+            "2655"
+        ]
+    },
+    {
+        "title": "Helena Dyrssen deltar i miljöministermöte på Cypern",
+        "url": "/pressmeddelanden/2026/02/helena-dyrssen-deltar-i-miljoministermote-pa-cypern/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2628",
+            "1291"
+        ],
+        "summary": "Statssekreterare Helena Dyrssen representerar Sverige vid EU:s informella miljöministermöte på Cypern den 5–6 februari. Ministrarna ska bland annat diskutera EU:s arbete med vattenresiliens och klimatanpassning, den kommande rättsakten om cirkulär ekonomi, samt internationella klimatfrågor.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Information om mötet på ordförandeskapets webbplats- extern webbplats,",
+                "url": "https://cyprus-presidency.consilium.europa.eu/en/events/informal-meeting-of-environment-and-climate-ministers-envi/"
+            },
+            {
+                "name": "Information om mötet på Europeiska rådets webbplats- extern webbplats,",
+                "url": "https://www.consilium.europa.eu/sv/meetings/env/2026/02/05-06/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1252",
+            "1012"
+        ]
+    },
+    {
+        "title": "Regeringen presenterar nyheter om kärnkraft",
+        "url": "/pressmeddelanden/2026/02/regeringen-presenterar-nyheter-om-karnkraft/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2612",
+            "2623",
+            "2628",
+            "1285",
+            "1291"
+        ],
+        "summary": "Torsdagen den 5 februari klockan 11:45 bjuder regeringen in till en pressträff för att presentera nyheter på kärnkraftsområdet. Medverkar gör klimat- och miljöminister Romina Pourmokhtari, energi- och näringsminister Ebba Busch, finansmarknadsminister Niklas Wykman samt näringsutskottets ordförande Tobias Andersson, Sverigedemokraterna.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff den 5 februari om nyheter om kärnkraft (pdf 117 kB)",
+                "url": "/globalassets/regeringen/dokument/klimat--och-naringslivsdepartementet/presentationsbilder-fran-presstraff-den-5-februari-om-nyheter-om-karnkraft.pdf"
+            }
+        ],
+        "categories": [
+            "1226",
+            "1231",
+            "1252",
+            "1257"
+        ]
+    },
+    {
         "title": "Utökade möjligheter för kommuner att kontrollera belastningsregistret inför anställningar",
         "url": "/pressmeddelanden/2026/02/utokade-mojligheter-for-kommuner-att-kontrollera-belastningsregistret-infor-anstallningar/",
         "published": "2026-02-04",

@@ -1,5 +1,96 @@
 [
     {
+        "title": "Ansökan om ekonomiskt stöd från Sveriges Riksidrottsförbund för åtgärder för ökad simkunnighet",
+        "url": "/regeringsuppdrag/2026/02/ansokan-om-ekonomiskt-stod-fran-sveriges-riksidrottsforbund-for-atgarder-for-okad-simkunnighet/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1342"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Regeringen beviljar Sveriges Riksidrottsförbund 45 miljoner kronor för att genomföra åtgärder för att öka simkunnigheten. Insatser ska göras för att öka simkunnigheten bland barn och vuxna i områden där utanförskapet är stort.",
+        "id": "Diarienummer: S2026/00005",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Satsning för att öka simkunnigheten",
+                "url": "/pressmeddelanden/2026/02/satsning-for-att-oka-simkunnigheten/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2655"
+        ]
+    },
+    {
+        "title": "Förlängt uppdrag att följa läget inom hälso- och sjukvården avseende covid-19",
+        "url": "/regeringsuppdrag/2026/02/forlangt-uppdrag-att-folja-laget-inom-halso--och-sjukvarden-avseende-covid-19/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1342"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Regeringen förlänger uppdraget till Socialstyrelsen att följa läget inom hälso- och sjukvården avseende covid-19.",
+        "id": "Diarienummer:  S2023/00795",
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
+        "title": "Uppdrag till Verket för innovationssystem om förberedande arbete för deltagande i viktiga projekt av gemensamt europeiskt intresse med inriktning artificiell intelligens respektive avancerade halvledare",
+        "url": "/regeringsuppdrag/2026/02/uppdrag-till-verket-for-innovationssystem-om-forberedande-arbete-for-deltagande-i-viktiga-projekt-av-gemensamt-europeiskt-intresse-med-inriktning-artificiell-intelligens-respektive-avancerade-halvledare/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1342"
+        ],
+        "senders": [
+            "1291",
+            "1296"
+        ],
+        "summary": "Regeringen ger Verket för innovationssystem (Vinnova) i uppdrag att förbereda ett eventuellt svenskt deltagande i de viktiga projekten av gemensamt europeiskt intresse (Important Project of Common European Interest) rörande artificiell intelligens (IPCEI AI) respektive avancerade halvledare (IPCEI AST).",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2282",
+            "1257"
+        ]
+    },
+    {
+        "title": "Uppdrag till Statskontoret om en översyn av ordningen för tillsyn av Polismyndigheten och Kriminalvården",
+        "url": "/regeringsuppdrag/2026/02/uppdrag-till-statskontoret-om-en-oversyn-av-ordningen-for-tillsyn-av-polismyndigheten-och-kriminalvarden/",
+        "published": "2026-02-05",
+        "updated": null,
+        "types": [
+            "1342"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "Regeringen ger Statskontoret i uppdrag att se över den ordinära tillsynen och klagomålssystemet rörande Polismyndigheten och Kriminalvården.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Statskontoret får i uppdrag att se över tillsynen av Polismyndigheten och Kriminalvården",
+                "url": "/pressmeddelanden/2026/02/statskontoret-far-i-uppdrag-att-se-over-tillsynen-av-polismyndigheten-och-kriminalvarden/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1263"
+        ]
+    },
+    {
         "title": "Uppdrag till Socialstyrelsen om undernäring bland äldre",
         "url": "/regeringsuppdrag/2026/02/uppdrag-till-socialstyrelsen-om-undernaring-bland-aldre/",
         "published": "2026-02-03",
