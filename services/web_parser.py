@@ -116,16 +116,19 @@ def extract_metadata(soup):
 
 
 def extract_shortcuts(soup):
-    h2 = soup.find("h2", string=lambda s: s and "Genväg" in s)
+    h2_old = soup.find("h2", string=lambda s: s and "Genväg" in s)
+    shortcuts_old = [
+        shortcut for shortcut in h2_old.find_parent("div").select("a")
+    ] if h2_old else []
 
-    return (
-        [
-            {"name": a.get_text(strip=True), "url": a["href"]}
-            for a in h2.find_parent("div").select("a")
-        ]
-        if h2
-        else []
-    )
+    h2_new = soup.find("h2", string=lambda s: s and "remitteras" in s)
+    shortcuts_new = [
+        shortcut for shortcut in h2_new.find_parent("div").select("a")
+    ] if h2_new else []
+
+    shortcuts = shortcuts_old + shortcuts_new
+
+    return [{"name": shortcut.get_text(strip=True), "url": shortcut["href"]} for shortcut in shortcuts]
 
 
 def extract_attachments(soup):
