@@ -93,13 +93,19 @@ for item in items:
 
     Writer.write_md(md_content, "data/" + item["url"].strip("/") + ".md")
 
-    for category in metadata["categories"]:
-        codes[category[0]] = category[1]
+    # Update global codes mapping
+    labels = metadata.pop("labels", {})
+    for code, name in labels.items():
+        codes[code] = name
 
+    # Update item with title from parsing if available
+    if metadata.get("title"):
+        item["title"] = metadata["title"]
+
+    # Filter categories to avoid duplicates with types/senders
     metadata["categories"] = [
-        category[0]
-        for category in metadata["categories"]
-        if category[0] not in item["types"] + item["senders"]
+        c for c in metadata["categories"]
+        if c not in item["types"] + item["senders"]
     ]
     item.update(metadata)
 

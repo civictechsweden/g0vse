@@ -15,3 +15,8 @@ dependencies = [
 include = ["services*"]
 exclude = ["frontend*", "data*"]
 
+[dependency-groups]
+dev = [
+    "pytest>=9.0.2",
+]
+

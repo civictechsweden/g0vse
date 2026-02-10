@@ -79,9 +79,11 @@ def extract_text(soup):
         return None
 
     col_1 = soup.select_one(".col-1")
-    title = soup.select_one("h1")
-    if not col_1 or not title:
+    title_el = soup.select_one("h1")
+    if not col_1 or not title_el:
         return None
+
+    title_text = title_el.find(string=True, recursive=False).strip()
 
     body = col_1.select("div.has-wordExplanation, div.cl")
     body = BeautifulSoup("".join(str(div) for div in body), "html.parser")
@@ -89,10 +91,13 @@ def extract_text(soup):
     markdown = MD_CONVERTER.convert_soup(body)
     markdown = NEWLINES_RE.sub("\n\n", markdown.strip()).replace("\\.", ".")
 
-    return f"# {title.get_text(strip=True)}\n\n{markdown}\n"
+    return f"# {title_text}\n\n{markdown}\n"
 
 
 def extract_metadata(soup):
+    title_el = soup.select_one("h1")
+    title_text = title_el.find(string=True, recursive=False).strip() if title_el else None
+
     journal_id = soup.select_one("span.h1-vignette")
     journal_id = journal_id.text if journal_id else None
 
@@ -104,14 +109,19 @@ def extract_metadata(soup):
 
     shortcuts = extract_shortcuts(soup)
     attachments = extract_attachments(soup)
-    categories = extract_categories(soup)
+    categories_raw = extract_categories(soup)
+    
+    categories = [c[0] for c in categories_raw]
+    labels = {c[0]: c[1] for c in categories_raw}
 
     return {
+        "title": title_text,
         "id": journal_id,
         # "chains": chains,
         "shortcuts": shortcuts,
         "attachments": attachments,
         "categories": categories,
+        "labels": labels,
     }
 
 
