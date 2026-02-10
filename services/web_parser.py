@@ -4,11 +4,11 @@ import re
 # from .old_chain_parser import extract_old_chains
 from .redirecter import get_final_url
 
-from bs4 import BeautifulSoup
-from markdownify import MarkdownConverter
+from selectolax.parser import HTMLParser
+from html_to_markdown import convert, ConversionOptions
 
 NEWLINES_RE = re.compile(r"\n{3,}")
-MD_CONVERTER = MarkdownConverter(heading_style="ATX")
+CONVERSION_OPTIONS = ConversionOptions(heading_style="atx", bullets="*")
 
 
 def get_document_list(response):
@@ -16,29 +16,38 @@ def get_document_list(response):
     if not message:
         return None, None
 
-    soup = BeautifulSoup(message, "html.parser")
+    tree = HTMLParser(message)
     documents, codes = [], {}
 
-    for block in soup.select("div.sortcompact"):
+    for block in tree.css("div.sortcompact"):
         try:
-            a_tag = block.find("a")
-            url = a_tag["href"]
-            url = get_final_url(url) if url.endswith(".aspx") else url
-            title = a_tag.get_text(strip=True)
+            a_tag = block.css_first("a")
+            if not a_tag:
+                continue
 
-            times = [t["datetime"] for t in block.select("time")]
+            url = a_tag.attributes.get("href")
+            url = get_final_url(url) if url.endswith(".aspx") else url
+            title = a_tag.text(strip=True)
+
+            times = [t.attributes.get("datetime") for t in block.css("time")]
             published, updated = (times + [None, None])[:2]
 
-            ps = block.select("p")
+            ps = block.css("p")
+            if not ps:
+                continue
+
             types = []
             senders = []
             is_sender = False
 
-            for content in ps[-1].contents:
-                if isinstance(content, str) and "från" in content:
-                    is_sender = True
-                elif getattr(content, "name", None) == "a":
-                    code, name = extract_from_link(content)
+            # The last <p> contains types and senders
+            last_p = ps[-1]
+            for node in last_p.iter(include_text=True):
+                if node.tag == "-text":
+                    if "från" in node.text():
+                        is_sender = True
+                elif node.tag == "a":
+                    code, name = extract_from_link(node)
                     codes.setdefault(code, name)
                     (senders if is_sender else types).append(code)
 
@@ -52,72 +61,80 @@ def get_document_list(response):
             }
 
             if len(ps) > 1:
-                document["summary"] = ps[0].get_text(strip=True)
+                document["summary"] = ps[0].text(strip=True)
 
             documents.append(document)
 
         except Exception as e:
-            print(e)
-            print(soup)
+            print(f"Error parsing block: {e}")
             return None, None
 
     return documents, codes
 
 
 def extract_from_link(link):
-    return str(link["href"].split("/")[-1]), link.text
+    href = link.attributes.get("href", "")
+    return str(href.split("/")[-1]), link.text(strip=True)
 
 
 def extract_page(response):
-    soup = BeautifulSoup(response, "html.parser")
+    tree = HTMLParser(response)
+    return extract_text(tree), extract_metadata(tree)
 
-    return extract_text(soup), extract_metadata(soup)
 
-
-def extract_text(soup):
-    if not soup:
+def extract_text(tree):
+    if not tree:
         return None
 
-    col_1 = soup.select_one(".col-1")
-    title_el = soup.select_one("h1")
+    col_1 = tree.css_first(".col-1")
+    title_el = tree.css_first("h1")
     if not col_1 or not title_el:
         return None
 
-    title_text = title_el.find(string=True, recursive=False).strip()
+    # Extract clean title (direct text of h1, ignoring vignette span)
+    title_text = ""
+    for node in title_el.iter(include_text=True):
+        if node.tag == "-text":
+            title_text += node.text()
+    title_text = title_text.strip()
 
-    body = col_1.select("div.has-wordExplanation, div.cl")
-    body = BeautifulSoup("".join(str(div) for div in body), "html.parser")
+    # For markdown conversion, we grab the HTML of the body divs and feed it to html-to-markdown
+    # We select summary first to ensure it appears at the top
+    body_nodes = col_1.css("div.cl, div.has-wordExplanation")
+    body_html = "".join(node.html for node in body_nodes)
 
-    markdown = MD_CONVERTER.convert_soup(body)
+    markdown = convert(body_html, CONVERSION_OPTIONS)
     markdown = NEWLINES_RE.sub("\n\n", markdown.strip()).replace("\\.", ".")
 
     return f"# {title_text}\n\n{markdown}\n"
 
 
-def extract_metadata(soup):
-    title_el = soup.select_one("h1")
-    title_text = title_el.find(string=True, recursive=False).strip() if title_el else None
+def extract_metadata(tree):
+    # Extract ID first before potentially modifying anything (though we won't modify the tree here)
+    journal_id_el = tree.css_first("span.h1-vignette")
+    journal_id = journal_id_el.text(strip=True) if journal_id_el else None
 
-    journal_id = soup.select_one("span.h1-vignette")
-    journal_id = journal_id.text if journal_id else None
+    # Extract Title
+    title_el = tree.css_first("h1")
+    title_text = None
+    if title_el:
+        # Same logic as extract_text to get clean title
+        txt = ""
+        for node in title_el.iter(include_text=True):
+            if node.tag == "-text":
+                txt += node.text()
+        title_text = txt.strip()
 
-    # if accordion_chain:
-    #     accordion_chain = soup.select_one("#accordion--chain")
-    #     chains = extract_old_chains(accordion_chain)
-    # else:
-    #     chains = extract_new_chains(soup)
+    shortcuts = extract_shortcuts(tree)
+    attachments = extract_attachments(tree)
+    categories_raw = extract_categories(tree)
 
-    shortcuts = extract_shortcuts(soup)
-    attachments = extract_attachments(soup)
-    categories_raw = extract_categories(soup)
-    
     categories = [c[0] for c in categories_raw]
     labels = {c[0]: c[1] for c in categories_raw}
 
     return {
         "title": title_text,
         "id": journal_id,
-        # "chains": chains,
         "shortcuts": shortcuts,
         "attachments": attachments,
         "categories": categories,
@@ -125,33 +142,46 @@ def extract_metadata(soup):
     }
 
 
-def extract_shortcuts(soup):
-    h2_old = soup.find("h2", string=lambda s: s and "Genväg" in s)
-    shortcuts_old = [
-        shortcut for shortcut in h2_old.find_parent("div").select("a")
-    ] if h2_old else []
+def extract_shortcuts(tree):
+    # Selectolax doesn't support :contains pseudo-selector. We must iterate.
+    shortcuts = []
 
-    h2_new = soup.find("h2", string=lambda s: s and "remitteras" in s)
-    shortcuts_new = [
-        shortcut for shortcut in h2_new.find_parent("div").select("a")
-    ] if h2_new else []
+    # Strategy: Find all h2, check text, then get parent -> a tags
+    for h2 in tree.css("h2"):
+        text = h2.text(strip=True)
+        if "Genväg" in text or "remitteras" in text:
+            parent = h2.parent
+            if parent:
+                for a in parent.css("a"):
+                    shortcuts.append(
+                        {"name": a.text(strip=True), "url": a.attributes.get("href")}
+                    )
 
-    shortcuts = shortcuts_old + shortcuts_new
-
-    return [{"name": shortcut.get_text(strip=True), "url": shortcut["href"]} for shortcut in shortcuts]
-
-
-def extract_attachments(soup):
-    links_new = soup.select("div.col-1 > .list--icons a")
-    links_old = soup.select("div.col-1 > ul.list--Block--icons a")
-    links = links_new + links_old
-    return [{"name": link.get_text(strip=True), "url": link["href"]} for link in links]
+    return shortcuts
 
 
-def extract_categories(soup):
-    div = soup.select_one(".block--politikomrLinks")
+def extract_attachments(tree):
+    # div.col-1 > .list--icons a  OR  div.col-1 > ul.list--Block--icons a
+    links = []
 
+    # CSS selector can handle multiple comma-separated paths
+    selector = "div.col-1 > .list--icons a, div.col-1 > ul.list--Block--icons a"
+    for a in tree.css(selector):
+        links.append({"name": a.text(strip=True), "url": a.attributes.get("href")})
+
+    return links
+
+
+def extract_categories(tree):
+    div = tree.css_first(".block--politikomrLinks")
     if not div:
         return []
 
-    return [extract_from_link(a) for a in div.select("a")]
+    cats = []
+    for a in div.css("a"):
+        href = a.attributes.get("href", "")
+        code = href.split("/")[-1]
+        name = a.text(strip=True)
+        cats.append((str(code), name))
+
+    return cats
