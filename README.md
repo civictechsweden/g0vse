@@ -68,7 +68,7 @@ The webscraper's logic can be found mainly in [downloader.py](./services/downloa
 
 ### The parser
 
-The parser's logic can be found mainly in [web_parser.py](./services/web_parser.py). It uses the Python framework beautifulsoup4.
+The parser's logic can be found mainly in [web_parser.py](./services/web_parser.py). It uses the Python framework selectolax.
 
 ### The scheduled workflows
 

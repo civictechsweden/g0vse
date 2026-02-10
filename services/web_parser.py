@@ -143,19 +143,16 @@ def extract_metadata(tree):
 
 
 def extract_shortcuts(tree):
-    # Selectolax doesn't support :contains pseudo-selector. We must iterate.
     shortcuts = []
+    seen_urls = set()
 
-    # Strategy: Find all h2, check text, then get parent -> a tags
-    for h2 in tree.css("h2"):
-        text = h2.text(strip=True)
-        if "Genväg" in text or "remitteras" in text:
-            parent = h2.parent
-            if parent:
-                for a in parent.css("a"):
-                    shortcuts.append(
-                        {"name": a.text(strip=True), "url": a.attributes.get("href")}
-                    )
+    col_2 = tree.css_first(".col-2")
+    if col_2:
+        for a in col_2.css("a"):
+            url = a.attributes.get("href")
+            if url and url not in seen_urls:
+                shortcuts.append({"name": a.text(strip=True), "url": url})
+                seen_urls.add(url)
 
     return shortcuts
 
