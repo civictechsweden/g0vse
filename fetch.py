@@ -187,15 +187,18 @@ def export_types(items):
 def main():
     downloader = Downloader()
     timer = Timer()
-    items, codes = prepare_items(downloader, timer)
+    try:
+        items, codes = prepare_items(downloader, timer)
 
-    Writer.write_json(items, ITEMS_PATH)
-    Writer.write_json(codes, CODES_PATH)
+        Writer.write_json(items, ITEMS_PATH)
+        Writer.write_json(codes, CODES_PATH)
 
-    process_all_items(items, downloader, codes)
+        process_all_items(items, downloader, codes)
 
-    finalize_data(items, codes, timer)
-    export_types(items)
+        finalize_data(items, codes, timer)
+        export_types(items)
+    finally:
+        downloader.b.close()
 
 
 if __name__ == "__main__":

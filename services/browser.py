@@ -102,9 +102,14 @@ class Browser:
                 return {}
         return {}
 
-    def __del__(self):
+    def close(self):
         try:
+            if self.browser:
+                self.browser.close()
             if self.cf:
                 self.cf.__exit__(None, None, None)
         except Exception:
             pass
+
+    def __del__(self):
+        self.close()
