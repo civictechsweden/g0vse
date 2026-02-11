@@ -1,4 +1,5 @@
 import os
+import gc
 from tqdm import tqdm
 
 from services.downloader import Downloader
@@ -96,6 +97,7 @@ def process_item(item, downloader, codes, existing_mds=None, pbar=None):
         return False
 
     md_content, metadata = extract_page(page)
+    del page  # Explicitly free memory for the large HTML string
 
     if not md_content:
         print(f"Error: {url}")
@@ -140,6 +142,10 @@ def process_all_items(items, downloader, codes):
                     if processed_count % 1000 == 0:
                         Writer.write_json(items, ITEMS_PATH)
                         Writer.write_json(codes, CODES_PATH)
+
+                # Periodically trigger garbage collection to free fragmented memory
+                if (i + 1) % 500 == 0:
+                    gc.collect()
     except KeyboardInterrupt:
         print("\nInterrupted by user. Saving progress...")
     except Exception as e:

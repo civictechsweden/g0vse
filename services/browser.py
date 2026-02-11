@@ -1,5 +1,6 @@
 import json
 import time
+import gc
 from camoufox.sync_api import Camoufox
 from playwright._impl._errors import TimeoutError, TargetClosedError
 from playwright.sync_api import Page
@@ -9,6 +10,7 @@ class Browser:
     def __init__(self):
         self.cf = None
         self.browser = None
+        self.request_count = 0
         self.restart()
 
     def _setup_context(self):
@@ -38,8 +40,15 @@ class Browser:
         self.cf = Camoufox(geoip=True, headless=True)
         self.browser = self.cf.start()
         self._setup_context()
+        self.request_count = 0
+        gc.collect()
 
     def get(self, url, retries: int = 3):
+        self.request_count += 1
+        if self.request_count > 100:
+            print("Periodic browser restart to free memory...")
+            self.restart()
+
         for i in range(retries):
             try:
                 self.page.goto(url, wait_until="domcontentloaded")
@@ -48,11 +57,11 @@ class Browser:
                 if "You are unable to access" in source:
                     print("Blocked by Cloudflare, waiting 3 seconds...")
                     time.sleep(3)
-                    continue  # ← no recursion
+                    continue
                 elif "The service is unavailable." in source:
                     print("Page unavailable, waiting 60 seconds...")
                     time.sleep(60)
-                    continue  # ← no recursion
+                    continue
                 elif "Sidan kan inte hittas" in source or "Något gick fel" in source:
                     print(f"404: Could not download file from {url}")
                     return None
@@ -73,6 +82,11 @@ class Browser:
             return None
 
     def get_json(self, url, retries: int = 3):
+        self.request_count += 1
+        if self.request_count > 100:
+            print("Periodic browser restart to free memory...")
+            self.restart()
+
         for i in range(retries):
             try:
                 response = self.page.goto(url)
