@@ -1,13 +1,17 @@
 import json
 import time
 from camoufox.sync_api import Camoufox
-from playwright._impl._errors import TimeoutError
+from playwright._impl._errors import TimeoutError, TargetClosedError
 from playwright.sync_api import Page
 
 
 class Browser:
     def __init__(self):
-        self.browser: Camoufox = Camoufox(geoip=True, headless=True).start()
+        self.cf = None
+        self.browser = None
+        self.restart()
+
+    def _setup_context(self):
         self.context = self.browser.new_context()
         self.page: Page = self.context.new_page()
         self.context.set_default_navigation_timeout(30_000)
@@ -19,8 +23,24 @@ class Browser:
             ),
         )
 
+    def restart(self):
+        try:
+            if self.browser:
+                self.browser.close()
+        except Exception:
+            pass
+        try:
+            if self.cf:
+                self.cf.__exit__(None, None, None)
+        except Exception:
+            pass
+
+        self.cf = Camoufox(geoip=True, headless=True)
+        self.browser = self.cf.start()
+        self._setup_context()
+
     def get(self, url, retries: int = 3):
-        for _ in range(retries):
+        for i in range(retries):
             try:
                 self.page.goto(url, wait_until="domcontentloaded")
                 source = self.page.content()
@@ -38,40 +58,39 @@ class Browser:
                     return None
 
                 return source
-            except TimeoutError:
-                print("Timeout, retrying in 3 s…")
+            except (TimeoutError, TargetClosedError) as e:
+                print(f"{type(e).__name__}, retrying ({i+1}/{retries}) in 3 s…")
                 time.sleep(3)
-
-        self.page.close()
-        self.page = self.context.new_page()
+                if isinstance(e, TargetClosedError):
+                    self.restart()
 
         try:
+            self.restart()
             self.page.goto(url, wait_until="domcontentloaded")
             return self.page.content()
-        except TimeoutError:
-            print("Gave up after page rebuild.")
+        except (TimeoutError, TargetClosedError):
+            print("Gave up after browser restart.")
             return None
 
-    def get_json(self, url):
-        response = self.page.goto(url)
-
-        try:
-            return response.json() or {}
-        except json.decoder.JSONDecodeError:
-            print("Invalid JSON payload, maybe Cloudflare?…")
-            print(response.text)
-            return {}
+    def get_json(self, url, retries: int = 3):
+        for i in range(retries):
+            try:
+                response = self.page.goto(url)
+                if response:
+                    return response.json() or {}
+            except (TimeoutError, TargetClosedError) as e:
+                print(f"{type(e).__name__} during JSON fetch, retrying ({i+1}/{retries}) in 3 s…")
+                time.sleep(3)
+                if isinstance(e, TargetClosedError):
+                    self.restart()
+            except json.decoder.JSONDecodeError:
+                print("Invalid JSON payload, maybe Cloudflare?…")
+                return {}
+        return {}
 
     def __del__(self):
         try:
-            if hasattr(self, "page") and not self.page.is_closed():
-                self.page.close()
+            if self.cf:
+                self.cf.__exit__(None, None, None)
         except Exception:
             pass
-        try:
-            if hasattr(self, "request"):
-                self.request.dispose()
-        except Exception:
-            pass
-        if self.browser:
-            self.browser.stop()

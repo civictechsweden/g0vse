@@ -9,6 +9,7 @@ dependencies = [
     "fake-useragent>=2.2.0",
     "html-to-markdown>=2.24.5",
     "selectolax>=0.4.6",
+    "tqdm>=4.67.3"
 ]
 
 [tool.setuptools.packages.find]
