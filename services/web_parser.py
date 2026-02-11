@@ -10,6 +10,19 @@ from html_to_markdown import convert, ConversionOptions
 NEWLINES_RE = re.compile(r"\n{3,}")
 CONVERSION_OPTIONS = ConversionOptions(heading_style="atx", bullets="*")
 
+# Selectors
+SORT_COMPACT_SELECTOR = "div.sortcompact"
+A_TAG_SELECTOR = "a"
+TIME_SELECTOR = "time"
+P_TAG_SELECTOR = "p"
+COL_1_SELECTOR = ".col-1"
+COL_2_SELECTOR = ".col-2"
+H1_SELECTOR = "h1"
+BODY_CONTENT_SELECTOR = "div.cl, div.has-wordExplanation"
+H1_VIGNETTE_SELECTOR = "span.h1-vignette"
+ATTACHMENTS_SELECTOR = "div.col-1 > .list--icons a, div.col-1 > ul.list--Block--icons a"
+POLITIK_LINKS_SELECTOR = ".block--politikomrLinks"
+
 
 def get_document_list(response):
     message = response.get("Message")
@@ -19,9 +32,9 @@ def get_document_list(response):
     tree = HTMLParser(message)
     documents, codes = [], {}
 
-    for block in tree.css("div.sortcompact"):
+    for block in tree.css(SORT_COMPACT_SELECTOR):
         try:
-            a_tag = block.css_first("a")
+            a_tag = block.css_first(A_TAG_SELECTOR)
             if not a_tag:
                 continue
 
@@ -29,10 +42,10 @@ def get_document_list(response):
             url = get_final_url(url) if url.endswith(".aspx") else url
             title = a_tag.text(strip=True)
 
-            times = [t.attributes.get("datetime") for t in block.css("time")]
+            times = [t.attributes.get("datetime") for t in block.css(TIME_SELECTOR)]
             published, updated = (times + [None, None])[:2]
 
-            ps = block.css("p")
+            ps = block.css(P_TAG_SELECTOR)
             if not ps:
                 continue
 
@@ -86,8 +99,8 @@ def extract_text(tree):
     if not tree:
         return None
 
-    col_1 = tree.css_first(".col-1")
-    title_el = tree.css_first("h1")
+    col_1 = tree.css_first(COL_1_SELECTOR)
+    title_el = tree.css_first(H1_SELECTOR)
     if not col_1 or not title_el:
         return None
 
@@ -96,7 +109,7 @@ def extract_text(tree):
 
     # For markdown conversion, we grab the HTML of the body divs and feed it to html-to-markdown
     # We select summary first to ensure it appears at the top
-    body_nodes = col_1.css("div.cl, div.has-wordExplanation")
+    body_nodes = col_1.css(BODY_CONTENT_SELECTOR)
     body_html = "".join(node.html for node in body_nodes)
 
     markdown = convert(body_html, CONVERSION_OPTIONS)
@@ -107,11 +120,11 @@ def extract_text(tree):
 
 def extract_metadata(tree):
     # Extract ID first before potentially modifying anything (though we won't modify the tree here)
-    journal_id_el = tree.css_first("span.h1-vignette")
+    journal_id_el = tree.css_first(H1_VIGNETTE_SELECTOR)
     journal_id = journal_id_el.text(strip=True) if journal_id_el else None
 
     # Extract Title
-    title_el = tree.css_first("h1")
+    title_el = tree.css_first(H1_SELECTOR)
     title_text = None
     if title_el:
         # Same logic as extract_text to get clean title
@@ -138,9 +151,9 @@ def extract_shortcuts(tree):
     shortcuts = []
     seen_urls = set()
 
-    col_2 = tree.css_first(".col-2")
+    col_2 = tree.css_first(COL_2_SELECTOR)
     if col_2:
-        for a in col_2.css("a"):
+        for a in col_2.css(A_TAG_SELECTOR):
             url = a.attributes.get("href")
             if url and url not in seen_urls:
                 shortcuts.append({"name": a.text(strip=True), "url": url})
@@ -154,20 +167,19 @@ def extract_attachments(tree):
     links = []
 
     # CSS selector can handle multiple comma-separated paths
-    selector = "div.col-1 > .list--icons a, div.col-1 > ul.list--Block--icons a"
-    for a in tree.css(selector):
+    for a in tree.css(ATTACHMENTS_SELECTOR):
         links.append({"name": a.text(strip=True), "url": a.attributes.get("href")})
 
     return links
 
 
 def extract_categories(tree):
-    div = tree.css_first(".block--politikomrLinks")
+    div = tree.css_first(POLITIK_LINKS_SELECTOR)
     if not div:
         return []
 
     cats = []
-    for a in div.css("a"):
+    for a in div.css(A_TAG_SELECTOR):
         href = a.attributes.get("href", "")
         code = href.split("/")[-1]
         name = a.text(strip=True)
