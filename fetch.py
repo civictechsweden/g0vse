@@ -131,11 +131,13 @@ def process_all_items(items, downloader, codes):
                     rel_path = os.path.relpath(os.path.join(root, file), "data/")
                     existing_mds.add(rel_path)
 
+    processed_count = 0
     try:
         with tqdm(items, desc="Processing items", unit="item") as pbar:
             for i, item in enumerate(pbar):
                 if process_item(item, downloader, codes, existing_mds=existing_mds, pbar=pbar):
-                    if (i + 1) % 1000 == 0:
+                    processed_count += 1
+                    if processed_count % 1000 == 0:
                         Writer.write_json(items, ITEMS_PATH)
                         Writer.write_json(codes, CODES_PATH)
     except KeyboardInterrupt:

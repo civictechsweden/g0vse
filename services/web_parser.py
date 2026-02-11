@@ -92,11 +92,7 @@ def extract_text(tree):
         return None
 
     # Extract clean title (direct text of h1, ignoring vignette span)
-    title_text = ""
-    for node in title_el.iter(include_text=True):
-        if node.tag == "-text":
-            title_text += node.text()
-    title_text = title_text.strip()
+    title_text = "".join(node.text() for node in title_el.iter(include_text=True) if node.tag == "-text").strip()
 
     # For markdown conversion, we grab the HTML of the body divs and feed it to html-to-markdown
     # We select summary first to ensure it appears at the top
@@ -119,11 +115,7 @@ def extract_metadata(tree):
     title_text = None
     if title_el:
         # Same logic as extract_text to get clean title
-        txt = ""
-        for node in title_el.iter(include_text=True):
-            if node.tag == "-text":
-                txt += node.text()
-        title_text = txt.strip()
+        title_text = "".join(node.text() for node in title_el.iter(include_text=True) if node.tag == "-text").strip()
 
     shortcuts = extract_shortcuts(tree)
     attachments = extract_attachments(tree)

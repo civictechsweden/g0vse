@@ -24,5 +24,5 @@ class Writer(object):
         Path(filename).parent.mkdir(parents=True, exist_ok=True)
         data = "\n".join([line.rstrip() for line in data.splitlines()]) + "\n"
 
-        with open(filename, "w") as file:
+        with open(filename, "w", encoding="utf-8") as file:
             file.write(data)
