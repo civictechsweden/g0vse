@@ -5,12 +5,10 @@ from pathlib import Path
 
 class Writer(object):
     @staticmethod
-    def write_json(data, filename):
+    def write_json(data, filename, indent=4):
         Path(filename).parent.mkdir(parents=True, exist_ok=True)
-        json_string = json.dumps(data, ensure_ascii=False, indent=4).encode("utf-8")
-
-        with open(filename, "w") as file:
-            file.write(json_string.decode())
+        with open(filename, "w", encoding="utf-8") as file:
+            json.dump(data, file, ensure_ascii=False, indent=indent)
 
     @staticmethod
     def write_csv(data, filename):
