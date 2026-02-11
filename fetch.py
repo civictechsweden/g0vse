@@ -67,12 +67,18 @@ def prepare_items(downloader, timer):
     return items, codes
 
 
-def process_item(item, downloader, codes, pbar=None):
+def process_item(item, downloader, codes, existing_mds=None, pbar=None):
     url = item["url"]
-    md_path = "data/" + url.strip("/") + ".md"
+    md_rel_path = url.strip("/") + ".md"
 
-    # Robust skip: check if MD exists AND item already has metadata (e.g., 'id')
-    if not OVERWRITE and os.path.exists(md_path) and item.get("id"):
+    # Optimization: Use pre-scanned set instead of os.path.exists
+    is_existing = (
+        md_rel_path in existing_mds
+        if existing_mds is not None
+        else os.path.exists(f"data/{md_rel_path}")
+    )
+
+    if not OVERWRITE and is_existing and item.get("id"):
         return False
 
     if "attachments" in item or "201314184" in url:
@@ -111,39 +117,34 @@ def process_item(item, downloader, codes, pbar=None):
     item.update(metadata)
 
     # Write MD LAST. If this exists on next run, we know metadata is in memory.
-    Writer.write_md(md_content, md_path)
+    Writer.write_md(md_content, f"data/{md_rel_path}")
     return True
 
 
-def main():
-    downloader = Downloader()
-    timer = Timer()
-    items, codes = prepare_items(downloader, timer)
+def process_all_items(items, downloader, codes):
+    # Pre-scan existing Markdown files to avoid thousands of syscalls
+    existing_mds = set()
+    if os.path.exists("data/"):
+        for root, _, files in os.walk("data/"):
+            for file in files:
+                if file.endswith(".md"):
+                    rel_path = os.path.relpath(os.path.join(root, file), "data/")
+                    existing_mds.add(rel_path)
 
-    Writer.write_json(items, ITEMS_PATH)
-    Writer.write_json(codes, CODES_PATH)
-
-    processed_count = 0
     try:
         with tqdm(items, desc="Processing items", unit="item") as pbar:
             for i, item in enumerate(pbar):
-                if process_item(item, downloader, codes, pbar=pbar):
-                    processed_count += 1
-
-                # Periodically save progress to avoid losing everything
-                if (i + 1) % 1000 == 0:
-                    Writer.write_json(items, ITEMS_PATH)
-                    Writer.write_json(codes, CODES_PATH)
+                if process_item(item, downloader, codes, existing_mds=existing_mds, pbar=pbar):
+                    if (i + 1) % 1000 == 0:
+                        Writer.write_json(items, ITEMS_PATH)
+                        Writer.write_json(codes, CODES_PATH)
     except KeyboardInterrupt:
         print("\nInterrupted by user. Saving progress...")
     except Exception as e:
         print(f"\nCrash detected: {e}")
-        print("Saving current progress and attempting to finalize...")
-    finally:
-        # Final save of the current state
-        Writer.write_json(items, ITEMS_PATH)
-        Writer.write_json(codes, CODES_PATH)
 
+
+def finalize_data(items, codes, timer):
     print("Finalizing data...")
     codes = {str(key): codes[key] for key in sorted(codes)}
 
@@ -157,13 +158,36 @@ def main():
     Writer.write_json(codes, CODES_PATH)
     Writer.write_json(latest_updated, LATEST_UPDATED_PATH)
 
+
+def export_types(items):
     types = read_json("./frontend/types.json")
+    types_set = set(types)
+    type_buckets = {t: [] for t in types}
 
-    def get_by_type(type, items):
-        return [item for item in items if f"/{type}/" in item["url"]]
+    for item in tqdm(items, desc="Binning items by type", unit="item"):
+        url_parts = item["url"].strip("/").split("/")
+        current_prefix = ""
+        for part in url_parts:
+            current_prefix = f"{current_prefix}/{part}" if current_prefix else part
+            if current_prefix in types_set:
+                type_buckets[current_prefix].append(item)
 
-    for type in tqdm(types, desc="Exporting types", unit="type"):
-        Writer.write_json(get_by_type(type, items), f"./data/{type}.json")
+    for t, bucket_items in tqdm(type_buckets.items(), desc="Exporting types", unit="type"):
+        Writer.write_json(bucket_items, f"./data/{t}.json")
+
+
+def main():
+    downloader = Downloader()
+    timer = Timer()
+    items, codes = prepare_items(downloader, timer)
+
+    Writer.write_json(items, ITEMS_PATH)
+    Writer.write_json(codes, CODES_PATH)
+
+    process_all_items(items, downloader, codes)
+
+    finalize_data(items, codes, timer)
+    export_types(items)
 
 
 if __name__ == "__main__":
