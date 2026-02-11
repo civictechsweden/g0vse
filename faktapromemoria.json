@@ -1,5 +1,162 @@
 [
     {
+        "title": "EU:s narkotikastrategi",
+        "url": "/faktapromemoria/2026/02/202526fpm55/",
+        "published": "2026-02-10",
+        "updated": null,
+        "types": [
+            "2540"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Faktapromemoria gällande EU:s narkotikastrategi.",
+        "id": "2025/26:FPM55",
+        "shortcuts": [
+            {
+                "name": "Om lagstiftning i EU",
+                "url": "/sa-styrs-sverige/lagstiftningsprocessen/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "EUs narkotikastrategi, 2025/26: FPM55 (pdf 200 kB)",
+                "url": "/contentassets/5688c175c75c4faca7fb5179585a632d/fakta-pm-55-eus-narkotikastrategi.pdf"
+            }
+        ],
+        "categories": [
+            "2655",
+            "1012"
+        ]
+    },
+    {
+        "title": "En europeisk plan för bostäder till överkomlig kostnad",
+        "url": "/faktapromemoria/2026/02/202526fpm67/",
+        "published": "2026-02-10",
+        "updated": null,
+        "types": [
+            "2540"
+        ],
+        "senders": [
+            "2425",
+            "1296"
+        ],
+        "summary": "Faktapromemoria gällande en EU-plan för bostäder till överkomlig kostnad.",
+        "id": "2025/26:FPM67",
+        "shortcuts": [
+            {
+                "name": "MEDDELANDE FRÅN KOMMISSIONEN TILL EUROPAPARLAMENTET,  RÅDET, EUROPEISKA EKONOMISKA OCH SOCIALA KOMMITTÉN SAMT  REGIONKOMMITTÉN EU-plan för bostäder till överkomlig kostnad- extern webbplats,",
+                "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/PDF/?uri=CELEX:52025DC1025&qid=1770729004354"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "En europeisk plan för bostäder till överkomlig kostnad, 2025_26_FPM67 (pdf 211 kB)",
+                "url": "/contentassets/33d91e5a7a804199b972861952908a57/en-europeisk-plan-for-bostader-till-overkomlig-kostnad-2025_26_fpm67.pdf"
+            }
+        ],
+        "categories": [
+            "1217",
+            "1012"
+        ]
+    },
+    {
+        "title": "Ändring av förordning om ekologisk produktion och märkning av ekologiska produkter",
+        "url": "/faktapromemoria/2026/02/202526fpm69/",
+        "published": "2026-02-10",
+        "updated": null,
+        "types": [
+            "2540"
+        ],
+        "senders": [
+            "2425",
+            "1296"
+        ],
+        "summary": "Europeiska kommissionen har presenterat ett förslag till ändring av EU-förordningen\nom ekologisk produktion inom tre områden.",
+        "id": "2025/26:FPM69",
+        "shortcuts": [
+            {
+                "name": "Om lagstiftning i EU",
+                "url": "/sa-styrs-sverige/lagstiftningsprocessen/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Ändring av förordning om ekologisk produktion och märkning av ekologiska produkter 2025/26:FPM69 (pdf 190 kB)",
+                "url": "/contentassets/d9fe3664c4384b188c142cd1ce1d01e2/fakta-pm-69-ekologisk-produktion.pdf"
+            }
+        ],
+        "categories": [
+            "1243",
+            "1012"
+        ]
+    },
+    {
+        "title": "Batteristrategin",
+        "url": "/faktapromemoria/2026/02/202526fpm68/",
+        "published": "2026-02-10",
+        "updated": null,
+        "types": [
+            "2540"
+        ],
+        "senders": [
+            "1291",
+            "1296"
+        ],
+        "summary": "Faktapromemoria gällande Meddelande från kommissionen - Batteristrategin.",
+        "id": "2025/26:FPM68",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Batteristrategin, 2025/26:FPM68 (pdf 224 kB)",
+                "url": "/contentassets/b78803218adf48acae6da2676e7be66f/batteristrategin-202526fpm68.pdf"
+            }
+        ],
+        "categories": [
+            "1226",
+            "1252",
+            "1257",
+            "1012"
+        ]
+    },
+    {
+        "title": "Förordning om inrättandet av en tillfällig fond för utfasning av fossila bränslen",
+        "url": "/faktapromemoria/2026/02/202526fpm66/",
+        "published": "2026-02-10",
+        "updated": null,
+        "types": [
+            "2540"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "Faktapromemoria gällande Europeiska kommissionens förslag till en förordning om att inrätta en tillfällig fond för utfasning av fossila bränslen inom ramen för CBAM, COM(2025) 990.",
+        "id": "2025/26:FPM66",
+        "shortcuts": [
+            {
+                "name": "Om lagstiftning i EU",
+                "url": "/sa-styrs-sverige/lagstiftningsprocessen/"
+            },
+            {
+                "name": "Faktapromemoria 2021/22:FPM45 Förslag till revidering av systemet för Europeiska unionens egna medel",
+                "url": "/faktapromemoria/2022/02/202122fpm45/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Förordning om inrättandet av en tillfällig fond för utfasning av fossila bränslen, 2025/26:FPM66 (pdf 168 kB)",
+                "url": "/contentassets/b9664ed7342b42c5b5f2592868fab974/forordning-om-inrattandet-av-en-tillfallig-fond-for-utfasning-av-fossila-branslen-202526fpm66.pdf"
+            }
+        ],
+        "categories": [
+            "1252",
+            "1267",
+            "1012"
+        ]
+    },
+    {
         "title": "Förslag om regelförenkling (omnibus) gällande motorfordon, 2025/26:FPM65",
         "url": "/faktapromemoria/2026/02/202526fpm65/",
         "published": "2026-02-09",

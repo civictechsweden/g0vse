@@ -1,4 +1,4 @@
-# Remiss av promemorian En ny lag om kommunal hamnverksamhetDiarienummer: Fi2025/01804
+# Remiss av promemorian En ny lag om kommunal hamnverksamhet
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian En ny lag om kommunal hamnverksamhet.
 

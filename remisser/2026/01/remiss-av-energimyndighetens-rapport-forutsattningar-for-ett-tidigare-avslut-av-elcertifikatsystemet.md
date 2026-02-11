@@ -1,4 +1,4 @@
-# Remiss av Energimyndighetens rapport Förutsättningar för ett tidigare avslut av elcertifikatsystemetDiarienummer: KN2025/02028
+# Remiss av Energimyndighetens rapport Förutsättningar för ett tidigare avslut av elcertifikatsystemet
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Energimyndighetens rapport Förutsättningar för ett tidigare avslut av elcertifikatsystemet.
 

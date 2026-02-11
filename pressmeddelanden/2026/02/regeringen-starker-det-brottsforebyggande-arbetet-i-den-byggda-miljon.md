@@ -1,0 +1,21 @@
+# Regeringen stärker det brottsförebyggande arbetet i den byggda miljön
+
+– Människor i Sverige ska känna sig trygga – i sitt bostadsområde, i matbutiken eller på väg hem en sen kväll. Regeringen arbetar därför på bred front för att förebygga kriminalitet och säkra att farliga människor sitter inne. Med det här uppdraget får vi bättre kunskap och skarpare metoder för att planera våra samhällen på ett sätt som gör det lättare att känna sig trygg och svårare att begå brott, säger justitieminister Gunnar Strömmer.
+
+– I Sverige ska alla kunna leva ett tryggt liv utan oro för att bli utsatt för brott, oavsett vem man är och var i landet man bor. Ett nationellt kunskapscentrum för trygghet och säkerhet i den byggda miljön är ett viktigt verktyg. Det görs idag flera insatser runt om i landet och med ett kunskapscentrum kan arbetet stärkas för att bygga in trygghet och trivsel och bygga bort otrygghet i olika områden i Sverige. Så byggs trygga och levande platser där människor vill bo och leva, säger infrastruktur- och bostadsminister Andreas Carlson.
+
+Uppdraget kompletterar regeringens tidigare stöd till forskningsrådet Formas och arbetet med ökad kunskap om betydelsen av planeringen samt den byggda miljöns utformning för trygghet och brottsförebyggande arbete. Uppdraget föreslogs som del i den forskningspolitiska propositionen Forskning och innovation för framtid, nyfikenhet och nytta. Tillsammans utgör Brås, Boverkets och forskningsrådet Formas arbete ett nationellt kunskapscentrum för trygghet och säkerhet i den byggda miljön.
+
+I uppdraget ingår att ta fram och sprida metodstöd, utbildningar och annat stöd som kan användas av lokala aktörer där tryggheten behöver stärkas. En central del är att samla och sprida kunskap om hur planering och utformning av platser påverkar tryggheten. Uppdraget ska också bidra till att yrkesgrupper som arbetar med trygghetsskapande åtgärder och inom samhällsbyggnadsprocessen får ett behovsanpassat och praktiknära stöd. Därtill ska uppdraget bidra till att lokala aktörer vidtar åtgärder som är effektiva och stärker områdessamverkan.
+
+Myndigheterna ska delredovisa arbetet årligen och lämna en slutredovisning senast den 31 mars 2030.
+
+– Människor i Sverige ska känna sig trygga – i sitt bostadsområde, i matbutiken eller på väg hem en sen kväll. Regeringen arbetar därför på bred front för att förebygga kriminalitet och säkra att farliga människor sitter inne. Med det här uppdraget får vi bättre kunskap och skarpare metoder för att planera våra samhällen på ett sätt som gör det lättare att känna sig trygg och svårare att begå brott, säger justitieminister Gunnar Strömmer.
+
+– I Sverige ska alla kunna leva ett tryggt liv utan oro för att bli utsatt för brott, oavsett vem man är och var i landet man bor. Ett nationellt kunskapscentrum för trygghet och säkerhet i den byggda miljön är ett viktigt verktyg. Det görs idag flera insatser runt om i landet och med ett kunskapscentrum kan arbetet stärkas för att bygga in trygghet och trivsel och bygga bort otrygghet i olika områden i Sverige. Så byggs trygga och levande platser där människor vill bo och leva, säger infrastruktur- och bostadsminister Andreas Carlson.
+
+Uppdraget kompletterar regeringens tidigare stöd till forskningsrådet Formas och arbetet med ökad kunskap om betydelsen av planeringen samt den byggda miljöns utformning för trygghet och brottsförebyggande arbete. Uppdraget föreslogs som del i den forskningspolitiska propositionen Forskning och innovation för framtid, nyfikenhet och nytta. Tillsammans utgör Brås, Boverkets och forskningsrådet Formas arbete ett nationellt kunskapscentrum för trygghet och säkerhet i den byggda miljön.
+
+I uppdraget ingår att ta fram och sprida metodstöd, utbildningar och annat stöd som kan användas av lokala aktörer där tryggheten behöver stärkas. En central del är att samla och sprida kunskap om hur planering och utformning av platser påverkar tryggheten. Uppdraget ska också bidra till att yrkesgrupper som arbetar med trygghetsskapande åtgärder och inom samhällsbyggnadsprocessen får ett behovsanpassat och praktiknära stöd. Därtill ska uppdraget bidra till att lokala aktörer vidtar åtgärder som är effektiva och stärker områdessamverkan.
+
+Myndigheterna ska delredovisa arbetet årligen och lämna en slutredovisning senast den 31 mars 2030.

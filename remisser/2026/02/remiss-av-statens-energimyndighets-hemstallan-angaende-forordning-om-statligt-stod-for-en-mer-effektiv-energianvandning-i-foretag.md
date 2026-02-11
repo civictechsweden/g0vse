@@ -1,4 +1,4 @@
-# Remiss av Statens energimyndighets hemställan angående förordning om statligt stöd för en mer effektiv energianvändning i företagDiarienummer: KN2025/02420
+# Remiss av Statens energimyndighets hemställan angående förordning om statligt stöd för en mer effektiv energianvändning i företag
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Statens energimyndighets hemställan angående
 förordning om statligt stöd för en mer effektiv energianvändning i

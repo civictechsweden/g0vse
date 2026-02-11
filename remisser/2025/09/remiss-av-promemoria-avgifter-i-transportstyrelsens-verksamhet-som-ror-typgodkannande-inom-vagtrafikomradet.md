@@ -1,4 +1,4 @@
-# Remiss av promemoria Avgifter i Transportstyrelsens verksamhet som rör typgodkännande inom vägtrafikområdetDiarienummer: LI2025/01556
+# Remiss av promemoria Avgifter i Transportstyrelsens verksamhet som rör typgodkännande inom vägtrafikområdet
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Avgifter i Transportstyrelsens verksamhet som rör typgodkännande inom vägtrafikområdet.
 

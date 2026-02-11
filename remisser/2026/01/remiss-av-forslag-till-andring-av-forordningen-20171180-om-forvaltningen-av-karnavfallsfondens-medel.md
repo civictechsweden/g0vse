@@ -1,4 +1,4 @@
-# Remiss av förslag till ändring av förordningen (2017:1180) om förvaltningen av kärnavfallsfondens medelDiarienummer: KN2025/01404
+# Remiss av förslag till ändring av förordningen (2017:1180) om förvaltningen av kärnavfallsfondens medel
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat förslag till ändring av förordningen (2017:1180) om förvaltningen av kärnavfallsfondens medel.
 

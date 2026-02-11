@@ -1,4 +1,4 @@
-# Remiss av Ds 2025:31 Utökade möjligheter för Kriminalvården att använda biometri m.m.Diarienummer: Ju2026/00032
+# Remiss av Ds 2025:31 Utökade möjligheter för Kriminalvården att använda biometri m.m.
 
 Här kan du ta del av till vilka remissinstanser som regeringen har remitterat Ds 2025:31, Utökade möjligheter för Kriminalvården att använda biometri m.m.
 

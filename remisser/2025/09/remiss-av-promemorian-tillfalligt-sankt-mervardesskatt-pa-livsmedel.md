@@ -1,4 +1,4 @@
-# Remiss av promemorian Tillfälligt sänkt mervärdesskatt på livsmedelDiarienummer: Fi2025/01687
+# Remiss av promemorian Tillfälligt sänkt mervärdesskatt på livsmedel
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Tillfälligt sänkt mervärdesskatt på livsmedel.
 

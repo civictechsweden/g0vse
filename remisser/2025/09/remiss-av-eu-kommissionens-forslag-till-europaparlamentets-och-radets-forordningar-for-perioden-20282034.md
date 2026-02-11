@@ -1,4 +1,4 @@
-# Remiss av EU-kommissionens förslag till Europaparlamentets och rådets förordningar för perioden 2028–2034Diarienummer: LI2025/01620
+# Remiss av EU-kommissionens förslag till Europaparlamentets och rådets förordningar för perioden 2028–2034
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat EU-kommissionens förslag till Europaparlamentets och rådets förordningar för perioden 2028–2034 om bland annat inrättande av Europeiska fonden för ekonomisk, social och territoriell sammanhållning, jordbruk och landsbygd, fiske och hav, välstånd och säkerhet och om villkor för genomförandet av unionens stöd till den gemensamma jordbrukspolitiken.
 

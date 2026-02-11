@@ -1,4 +1,4 @@
-# Remiss Höjda bostadskostnadsgränser för barnfamiljer inom bostadsbidragetDiarienummer: S2025/01526
+# Remiss Höjda bostadskostnadsgränser för barnfamiljer inom bostadsbidraget
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Höjda bostadskostnadsgränser för barnfamiljer inom bostadsbidraget.
 

@@ -1,4 +1,4 @@
-# Remiss av Ds 2025:28 Stärkt trygghet i bostadsrätterDiarienummer: Ju2025/02569
+# Remiss av Ds 2025:28 Stärkt trygghet i bostadsrätter
 
 Här kan du ta del av till vilka remissinstanser som regeringen har remitterat promemorian Stärkt trygghet i bostadsrätter, Ds 2025:28. Övriga yttranden finns tillgängliga i departementet.
 

@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:80 Koordinatbestämda fastighetsgränserDiarienummer: Ju2025/01509
+# Remiss av SOU 2025:80 Koordinatbestämda fastighetsgränser
 
 Här kan du ta del av till vilka remissinstanser som regeringen har remitterat SOU 2025:80 Koordinatbestämda fastighetsgränser.
 

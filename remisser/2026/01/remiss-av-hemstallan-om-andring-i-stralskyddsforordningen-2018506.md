@@ -1,4 +1,4 @@
-# Remiss av hemställan om ändring i strålskyddsförordningen (2018:506)Diarienummer: KN2025/01752
+# Remiss av hemställan om ändring i strålskyddsförordningen (2018:506)
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Strålsäkerhetsmyndighetens hemställan om ändring i strålskyddsförordningen (2018:506).
 

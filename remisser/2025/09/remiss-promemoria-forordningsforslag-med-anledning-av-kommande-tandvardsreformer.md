@@ -1,4 +1,4 @@
-# Remiss promemoria Förordningsförslag med anledning av kommande tandvårdsreformerDiarienummer: S2025/01575
+# Remiss promemoria Förordningsförslag med anledning av kommande tandvårdsreformer
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Förordningsförslag med anledning av kommande tandvårdsreformer.
 

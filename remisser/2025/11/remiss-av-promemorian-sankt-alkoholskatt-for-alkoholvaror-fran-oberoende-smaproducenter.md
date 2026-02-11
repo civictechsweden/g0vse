@@ -1,4 +1,4 @@
-# Remiss av promemorian Sänkt alkoholskatt för alkoholvaror från oberoende småproducenterDiarienummer: Fi2025/02074
+# Remiss av promemorian Sänkt alkoholskatt för alkoholvaror från oberoende småproducenter
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Sänkt alkoholskatt för alkoholvaror från oberoende småproducenter.
 

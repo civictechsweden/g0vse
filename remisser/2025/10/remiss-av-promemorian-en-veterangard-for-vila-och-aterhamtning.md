@@ -1,4 +1,4 @@
-# Remiss av promemorian En veterangård för vila och återhämtningDiarienummer: Fö2024/01914
+# Remiss av promemorian En veterangård för vila och återhämtning
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian En veterangård för vila och återhämtning.
 

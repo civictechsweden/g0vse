@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:101 Anpassningar till AI-förordningenDiarienummer: Fi2025/01969
+# Remiss av SOU 2025:101 Anpassningar till AI-förordningen
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat SOU 2025:101 Anpassningar till AI-förordningen.
 

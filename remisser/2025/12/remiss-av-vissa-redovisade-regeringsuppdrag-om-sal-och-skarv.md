@@ -1,4 +1,4 @@
-# Remiss av vissa redovisade regeringsuppdrag om säl och skarvDiarienummer: LI2025/02064
+# Remiss av vissa redovisade regeringsuppdrag om säl och skarv
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat vissa redovisade regeringsuppdrag om säl och skarv.
 

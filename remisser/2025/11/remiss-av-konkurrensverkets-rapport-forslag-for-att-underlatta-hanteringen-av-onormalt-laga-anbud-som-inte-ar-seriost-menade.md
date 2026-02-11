@@ -1,4 +1,4 @@
-# Remiss av Konkurrensverkets rapport Förslag för att underlätta hanteringen av onormalt låga anbud som inte är seriöst menadeDiarienummer: Fi2025/01806
+# Remiss av Konkurrensverkets rapport Förslag för att underlätta hanteringen av onormalt låga anbud som inte är seriöst menade
 
 (Ny version) Här kan du ta del av till vilka instanser som regeringen har remitterat Konkurrensverkets rapport Förslag för att underlätta hanteringen av onormalt låga anbud som inte är seriöst menade.
 

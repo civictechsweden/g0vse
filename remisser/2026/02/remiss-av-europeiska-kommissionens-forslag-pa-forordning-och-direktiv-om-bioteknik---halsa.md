@@ -1,4 +1,4 @@
-# Remiss av Europeiska kommissionens förslag på förordning och direktiv om bioteknik - hälsaDiarienummer: S2026/00180
+# Remiss av Europeiska kommissionens förslag på förordning och direktiv om bioteknik - hälsa
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Europeiska kommissionens förslag på förordning och direktiv om bioteknik - hälsa.
 

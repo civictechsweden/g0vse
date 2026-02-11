@@ -1,4 +1,4 @@
-# Remiss av revidering av koldioxidkraven för lätta fordon och av EU:s regler om fordonsmärkningDiarienummer: KN2026/00066
+# Remiss av revidering av koldioxidkraven för lätta fordon och av EU:s regler om fordonsmärkning
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat förslag om revidering av koldioxidkraven för lätta fordon och av EU:s regler om fordonsmärkning.
 

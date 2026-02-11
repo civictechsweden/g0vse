@@ -1,4 +1,4 @@
-# Remiss av utkast till lagrådsremiss Sänkt straffbarhetsålder för allvarliga brottDiarienummer: Ju2025/01945
+# Remiss av utkast till lagrådsremiss Sänkt straffbarhetsålder för allvarliga brott
 
 Här kan du ta del av remissinstansernas yttranden avseende utkastet till lagrådsremiss Sänkt straffbarhetsålder för allvarliga brott.
 

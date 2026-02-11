@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:121 Bodelning och betänketid – en effektivare processDiarienummer: Ju2026/00190
+# Remiss av SOU 2025:121 Bodelning och betänketid – en effektivare process
 
 Här kan du ta del av till vilka remissinstanser som regeringen har remitterat betänkandet Bodelning och betänketid – en effektivare process, SOU 2025:121.
 

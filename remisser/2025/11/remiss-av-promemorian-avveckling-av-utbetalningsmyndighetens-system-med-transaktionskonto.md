@@ -1,4 +1,4 @@
-# Remiss av promemorian Avveckling av Utbetalningsmyndighetens system med transaktionskontoDiarienummer: Fi2025/02152
+# Remiss av promemorian Avveckling av Utbetalningsmyndighetens system med transaktionskonto
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Avveckling av Utbetalningsmyndighetens system med transaktionskonto.
 

@@ -1,4 +1,4 @@
-# Remiss av Privatkopieringsersättning (utkast till lagrådsremiss)Diarienummer: Ju2025/01727 Justitiedepartementet
+# Remiss av Privatkopieringsersättning (utkast till lagrådsremiss)
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen Utkast till lagrådsremiss Privatkopieringsersättning. Övriga yttranden finns tillgängliga i departementet
 

@@ -1,4 +1,4 @@
-# Remiss av promemoria med kompletterande förslag till SOU 2025:95Diarienummer: Ju2025/02715
+# Remiss av promemoria med kompletterande förslag till SOU 2025:95
 
 Här kan du ta del av till vilka remissinstanser som regeringen har remitterat en promemoria med kompletterande förslag till SOU 2025:95 – Ett skärpt försörjningskrav vid anhöriginvandring.
 

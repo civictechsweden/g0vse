@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:92 En kulturkanon för SverigeDiarienummer: Ku2025/00871
+# Remiss av SOU 2025:92 En kulturkanon för Sverige
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat SOU 2025:92 En kulturkanon för Sverige.
 

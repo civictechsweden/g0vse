@@ -1,4 +1,4 @@
-# Remiss av Naturvårdsverkets delredovisning av uppdraget att se över vilka arter som bör vara nationellt fridlystaDiarienummer: KN2026/00195
+# Remiss av Naturvårdsverkets delredovisning av uppdraget att se över vilka arter som bör vara nationellt fridlysta
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Naturvårdsverkets delredovisning av uppdraget att se över vilka arter som bör vara nationellt fridlysta.
 
