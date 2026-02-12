@@ -13,4 +13,8 @@ Socialstyrelsen redovisar uppdraget till Regeringskansliet senast den 1 oktober 
 
 En delredovisning lämnas senast den 15 mars 2022.
 
+
+
+
+
 Prm: Socialstyrelsen får i uppdrag att utveckla insamlingen av väntetidsdata

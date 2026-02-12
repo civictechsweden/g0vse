@@ -11,5 +11,4 @@ Det föreslås att
 
 I utkastet föreslås också vissa övriga ändringar i den tillfälliga lagen. Lagändringarna föreslås träda i kraft den 1 juni 2017.
 
-[Pressmeddelande: Förslag om att studerande
-på gymnasienivå ska kunna få längre uppehållstillstånd](/pressmeddelanden/2016/11/forslag-om-att-studerande-pa-gymnasieniva-ska-kunna-fa-langre-uppehallstillstand/)
+[Pressmeddelande: Förslag om att studerande på gymnasienivå ska kunna få längre uppehållstillstånd](/pressmeddelanden/2016/11/forslag-om-att-studerande-pa-gymnasieniva-ska-kunna-fa-langre-uppehallstillstand/)

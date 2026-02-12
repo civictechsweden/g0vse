@@ -1,4 +1,4 @@
-# Utrikesdeklarationen
+# Utrikesdeklarationen 2025
 
 Regeringens utrikesdeklaration presenterades av utrikesminister Maria Malmer Stenergard vid 2025 års utrikespolitiska debatt i riksdagen onsdagen den 12 februari 2025.
 
@@ -18,7 +18,7 @@ Och vi ska knyta ännu närmare band med våra allierade och partner i Norden oc
 
 Omvärldens solidaritet efter förra veckans fruktansvärda masskjutning i Örebro visar att Sverige aldrig står ensamt.
 
-\*\*\*
+***
 
 Herr/fru talman!
 
@@ -38,7 +38,7 @@ Endast en fred som Ukraina når genom styrka kan bli hållbar. En fred framförh
 
 Sverige fortsätter stödja Ukraina så länge det behövs – politiskt, humanitärt, militärt och ekonomiskt.
 
-\*\*\*
+***
 
 Herr/fru talman!
 
@@ -60,7 +60,7 @@ Den nationella säkerhetsstrategin slår fast att den inre och yttre säkerheten
 
 Mer behöver också göras i partnerskap med tredjeländer för att minska den irreguljära migrationen och öka återvändandet.
 
-\*\*\*
+***
 
 Herr/fru talman!
 
@@ -84,7 +84,7 @@ Tillsammans med Finland har Sverige tagit initiativ till att nyttja Östersjöst
 
 I denna osäkra tid är en sak säker: i vår region står vi tillsammans, och vi står starka.
 
-\*\*\*
+***
 
 Herr/fru talman!
 
@@ -114,7 +114,7 @@ Den georgiska regeringens handlingar strider mot de värden och principer som EU
 
 Sverige har en viktig och nära relation med Storbritannien, inte minst på det säkerhetspolitiska området. Vi är pådrivande för att stärka samarbetet även på EU-nivå, och välkomnar toppmötet mellan Storbritannien och EU som äger rum i maj.
 
-\*\*\*
+***
 
 Herr/fru talman!
 
@@ -132,7 +132,7 @@ För att nyttja potentialen i ny digital teknik krävs säker och betrodd infras
 
 Eftersom cyberfrågor och digitala frågor växer i betydelse har regeringen antagit en särskild strategi för detta inom utrikes- och säkerhetspolitiken. Inom kort kommer också en ny nationell strategi för cybersäkerhet att presenteras.
 
-\*\*\*
+***
 
 Herr/fru talman!
 
@@ -149,7 +149,7 @@ På sikt behövs en framförhandlad tvåstatslösning baserad på folkrätten. D
 Iran bär ett stort ansvar för den negativa utvecklingen i regionen och för säkerhetsrisker i väst. Regeringen kommer inte att tolerera iranska aktioner för att destabilisera Sverige eller bedriva terroristverksamhet här via ombud.
 Assadregimens fall innebär en möjlighet för Syriens befolkning att forma sin framtid och bygga upp ett fritt, demokratiskt land. EU bör bidra till en syriskledd, fredlig och inkluderande process där alla syriers mänskliga rättigheter respekteras. Kvinnors och etniska och religiösa minoriteters deltagande måste säkerställas.
 
-\*\*\*
+***
 
 Herr/fru talman!
 
@@ -167,7 +167,7 @@ Indien är en central aktör för att bemöta globala utmaningar. Sverige är p�
 
 Sverige fördjupar sitt samarbete med Japan, som är ett viktigt partnerland till Nato och en betydande exportmarknad. Sveriges medverkan vid världsutställningen i Osaka kommer att vara ett led i att stärka det svenska näringslivets konkurrenskraft i Japan och regionen.
 
-\*\*\*
+***
 
 Herr/fru talman!
 
@@ -179,7 +179,7 @@ Sverige är en av världens största humanitära givare i ett läge där över 3
 Vidare fortsätter vi möta akuta humanitära behov i Ukraina och på andra krisdrabbade platser såsom Sudan, Demokratiska republiken Kongo, Syrien, Libanon och Jemen. Vi fortsätter också i dessa kriser att verka för humanitärt tillträde, så att hjälpen kan nå de mest utsatta.
 I alla dessa delar är civilsamhällets organisationer omistliga partner.
 
-\*\*\*
+***
 
 Herr/fru talman!
 
@@ -190,7 +190,7 @@ Svenskt bistånd ska bidra till ökad tillgång till vård för gravida och möd
 
 Under 2025 är Sverige ordförande i UN Womens styrelse. Det är en unik plattform för att driva det globala jämställdhetsarbetet framåt, där Sverige särskilt kommer att framhålla vikten av kvinnors ekonomiska egenmakt.
 
-\*\*\*
+***
 
 Herr/fru talman!
 
@@ -202,7 +202,7 @@ Det är oroande när mänskliga fri- och rättigheter undergrävs av auktoritär
 
 Sverige kommer att fortsätta vara engagerat i rustningskontroll, nedrustning och icke-spridning. Hösten 2025 tar Sverige och Filippinerna över ordförandeskapet för den så kallade Artikel XIV-processen, som syftar till att provstoppsavtalet för kärnvapen ska träda i kraft.
 
-\*\*\*
+***
 
 Herr/fru talman!
 
@@ -222,7 +222,7 @@ Dessutom inrättas ett Stockholmsbaserat sändebud för Peru, för att ytterliga
 Sammantaget syftar dessa förstärkningar till att stärka våra partnerskap och förbättra förutsättningarna för handel, investeringar och innovation.
 Förra året kom de två svenska medborgarna Johan Floderus och Saeed Azizi, som suttit oskyldigt fängslade i Iran, hem till Sverige. Regeringen kommer att fortsätta arbetet för att uppnå en frigivning av journalisten Dawit Isaak, förläggaren och poeten Gui Minhai och forskaren Ahmadreza Djalali.
 
-\*\*\*
+***
 
 Herr/fru talman!
 

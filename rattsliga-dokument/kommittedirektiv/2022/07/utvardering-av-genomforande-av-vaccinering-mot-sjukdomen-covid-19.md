@@ -11,4 +11,4 @@ Utredaren ska bland annat:
 * Utvärdera regeringens, berörda myndigheters, regionernas, kommunernas och SKR:s arbete med covidbevisen.
 * Utvärdera regeringens, berörda myndigheters och andra relevanta aktörers arbete med globala tillgång till vaccin mot sjukdomen covid-19, och med utgångspunkt i den gjorda utvärderingen lämna förslag på ändamålsenliga och samhällsekonomiskt effektiva åtgärder.
 
-  Uppdraget ska redovisas senast den 15 november 2023.
+Uppdraget ska redovisas senast den 15 november 2023.

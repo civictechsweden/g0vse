@@ -7,5 +7,5 @@ I denna proposition föreslås ändringar i konkurslagen, lagen om handel med fi
 Lagändringarna syftar i huvudsak till att undanröja eventuella konflikter eller oklarheter mellan förordningen om OTC-derivat, centrala motparter och transaktionsregister och svensk rätt. Ändringarna i lagen om handel med finansiella instrument och avvecklingslagen genomför också ändringen i finality-direktivet.
 
 Lagändringarna föreslås träda i kraft den 1 augusti 2014.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+___________________________________________________________
 Riksdagen fattade den 28 maj 2014 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

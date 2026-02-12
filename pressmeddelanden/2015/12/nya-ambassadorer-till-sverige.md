@@ -10,7 +10,7 @@ Under de senaste åren har han innehaft bland annat följande befattningar:
 
 * 2010-2015: Protokollchef vid utrikesministeriet i Chisinau.
 * 2008-2010: Ambassadör i Estland.
-* 2006-2008: Chef för avdelningen för europeisk integration                vid utrikesministeriet i Chisinau.
+* 2006-2008: Chef för avdelningen för europeisk integration vid utrikesministeriet i Chisinau.
 * 2006: Andreman vid ambassaden i Grekland.
 * 2004-2005: Förste ambassadsekreterare vid ambassaden i Grekland.
 
@@ -20,7 +20,7 @@ Togos nyutnämnde ambassadör Mr. Kwami Christophe Dikenou, med sidoackrediterin
 
 Under de senaste åren har han innehaft bland annat följande befattningar:
 
-* 2014 - 2015: Ambassadör i Tyskland.
+* 2014 - 2015: Ambassadör i Tyskland.
 * 2010 - 2014: Professor vid Universitetet i Lomé.
 * 2010: Rådgivare i vetenskapsetik vid UNESCO i Nairobi.
 

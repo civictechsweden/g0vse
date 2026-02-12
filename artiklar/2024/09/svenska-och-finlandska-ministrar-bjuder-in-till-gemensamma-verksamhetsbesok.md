@@ -4,7 +4,7 @@ Under eftermiddagen den 16 september kommer svenska och finländska ministrar ti
 
 ## Studiebesök vid yrkeshögskola för byggnadsingenjörer
 
-Arbetsmarknads- och integrationsminister **Mats Persson** och Finlands arbetsminister **Arto Satonen** besöker yrkeshögskolan Nackademin för att diskutera utbildning, bland annat med blivande byggnadsingenjörer för ett hållbart byggande.
+Arbetsmarknads- och integrationsminister **Mats Persson** och Finlands arbetsminister **Arto Satonen** besöker yrkeshögskolan Nackademin för att diskutera utbildning, bland annat med blivande byggnadsingenjörer för ett hållbart byggande.
 
 Kontakt:
 Agnes Eklund 076-142 63 78 [e-post till Agnes Eklund](mailto:agnes.eklund@regeringskansliet.se)
@@ -31,7 +31,7 @@ Samuel Dalevi 076-133 51 18 [e-post till Samuel Dalevi](mailto:samuel.dalevi@reg
 
 ## Signering av två avsiktsförklaringar
 
-Minister för civilt försvar **Carl-Oskar Bohlin** och Finlands kommunikations- och inrikesminister **Lulu Ranne** samt näringsminister **Wille Rydman**
+Minister för civilt försvar **Carl-Oskar Bohlin** och Finlands kommunikations- och inrikesminister **Lulu Ranne** samt näringsminister **Wille Rydman**
 signerar avsiktsförklaringar om försörjningsberedskap och skydd av civilbefolkning.
 
 Kontakt:
@@ -41,7 +41,7 @@ Petter Hagman 076-313 63 13 [e-post till Petter Hagman](mailto:petter.hagman@reg
 
 ## Brandstationsbesök med CBRNE-tema
 
-Minister för civilt försvar **Carl-Oskar Bohlin**, försvarsminister **Pål Jonson** och Finlands försvarsminister **Antti Häkkänen** samt **Antti Salminen**, statssekreterare till kommunikations- och inrikesminister Lulu Ranne
+Minister för civilt försvar **Carl-Oskar Bohlin**, försvarsminister **Pål Jonson** och Finlands försvarsminister **Antti Häkkänen** samt **Antti Salminen**, statssekreterare till kommunikations- och inrikesminister Lulu Ranne
 besöker Järfälla brandstation för uppvisningar av svensk förmåga att hantera kemiska, biologiska, radiologiska, nukleära och explosiva varor.
 
 Kontakt:
@@ -71,11 +71,11 @@ Sabina Jansson Bernhardsson 073-029 10 12 [e-post till Sabina Jansson Bernhardss
 
 ## Studiebesök vid Stockholms hamnar
 
-Infrastruktur- och bostadsminister **Andreas Carlson**, justitieminister **Gunnar Strömmer**, migrationsminister **Johan Forssell**, finansminister **Elisabeth Svantesson**, finansmarknadsminister **Niklas Wykman** och Finlands kommunikations- och inrikesminister **Lulu Ranne**, justitieminister **Leena Meri** samt finansminister **Riikka Purra** besöker Stockholms hamnar i Värtahamnen för att diskutera beredskap inom infrastrukturområdet, gränsöverskridande brottslighet och gränssäkerhet.
+Infrastruktur- och bostadsminister **Andreas Carlson**, justitieminister **Gunnar Strömmer**, migrationsminister **Johan Forssell**, finansminister **Elisabeth Svantesson**, finansmarknadsminister **Niklas Wykman** och Finlands kommunikations- och inrikesminister **Lulu Ranne**, justitieminister **Leena Meri** samt finansminister **Riikka Purra** besöker Stockholms hamnar i Värtahamnen för att diskutera beredskap inom infrastrukturområdet, gränsöverskridande brottslighet och gränssäkerhet.
 
 Kontakt:
 Ebba Gustavsson 076-127 04 88 [e-post till Ebba Gustavsson](mailto:ebba.gustavsson@regeringskansliet.se)
-Caroline Opsahl 076-141 15 42 [e-post till Caroline Opsahl](mailto:caroline.opsahl@regeringskansliet.se)
+Caroline Opsahl 076-141 15 42 [e-post till Caroline Opsahl](mailto:caroline.opsahl@regeringskansliet.se)
 Victoria Holmqvist 076-142 29 39 [e-post till Victoria Holmqvist](mailto:victoria.holmqvist@gov.se)
 Klara Söderberg 076-108 90 82 [e-post till Klara Söderberg](mailto:klara.soderberg@regeringskansliet.se)
 Victoria Ericsson 076-137 89 04 [e-post till Victoria Ericsson](mailto:victoria.ericsson@regeringskansliet.se)
@@ -122,7 +122,7 @@ Ellen Kult 076-140 15 28 [e-post till Ellen Kult](mailto:ellen.kult@regeringskan
 
 ## Seminarium vid Kungl. Vetenskapsakademien och besök vid Kungl. Biblioteket
 
-Utbildningsminister **Johan Pehrson** och Finlands forsknings- och kulturminister **Sari Multala** deltar i ett seminarium vid Kungl. Vetenskapsakademien på temat excellens. De besöker även Kungl. Biblioteket i Humlegården för att diskutera KB-labb som är en nationell infrastruktur för forskning och artificiell intelligens.
+Utbildningsminister **Johan Pehrson** och Finlands forsknings- och kulturminister **Sari Multala** deltar i ett seminarium vid Kungl. Vetenskapsakademien på temat excellens. De besöker även Kungl. Biblioteket i Humlegården för att diskutera KB-labb som är en nationell infrastruktur för forskning och artificiell intelligens.
 
 Kontakt:
 Alexandra Örenmark 076-117 29 48 [e-post till Alexandra Örenmark](mailto:alexandra.orenmark@regeringskansliet.se)
@@ -131,16 +131,16 @@ Alexandra Örenmark 076-117 29 48 [e-post till Alexandra Örenmark](mailto:alexa
 
 ## Panelsamtal om stödet till Ukraina
 
-Utrikesminister **Maria Malmer Stenergard** och Finlands utrikesminister **Elina Valtonen** deltar i ett panelsamtal i Arvfurstens palats om stödet till Ukraina och Ukrainas euroatlantiska integration.
+Utrikesminister **Maria Malmer Stenergard** och Finlands utrikesminister **Elina Valtonen** deltar i ett panelsamtal i Arvfurstens palats om stödet till Ukraina och Ukrainas euroatlantiska integration.
 
 Kontakt:
 Richard Wahlström 076-534 25 23
 
 ---
 
-## Ukrainasamtal och besök av Operation Aid
+## Ukrainasamtal och besök av Operation Aid
 
-Utrikesminister **Maria Malmer Stenergard** och Finlands utrikesminister **Elina Valtonen** tar emot hjälporganisationen Operation Aid på Utrikesdepartementet vid Gustaf Adolfs torg för en presentation av organisationens verksamhet, inklusive en ambulans som varit vid fronten i Ukraina, samt ett kort samtal med ukrainska sjukvårdare.
+Utrikesminister **Maria Malmer Stenergard** och Finlands utrikesminister **Elina Valtonen** tar emot hjälporganisationen Operation Aid på Utrikesdepartementet vid Gustaf Adolfs torg för en presentation av organisationens verksamhet, inklusive en ambulans som varit vid fronten i Ukraina, samt ett kort samtal med ukrainska sjukvårdare.
 
 Kontakt:
 Richard Wahlström 076-534 25 23
@@ -149,7 +149,7 @@ Richard Wahlström 076-534 25 23
 
 ## Seminarium om stöd till svenska och finska scale-ups
 
-Bistånds- och utrikeshandelsminister **Benjamin Dousa** och Finlands utrikeshandels- och utvecklingsminister **Ville Tavio** bjuder in till ett seminarium vid Epicenter om hur länderna kan samarbeta för att skapa bättre förutsättningar för finansiering och internationalisering av scaleups med deltagande av företag, investerare och andra intressenter.
+Bistånds- och utrikeshandelsminister **Benjamin Dousa** och Finlands utrikeshandels- och utvecklingsminister **Ville Tavio** bjuder in till ett seminarium vid Epicenter om hur länderna kan samarbeta för att skapa bättre förutsättningar för finansiering och internationalisering av scaleups med deltagande av företag, investerare och andra intressenter.
 
 Kontakt:
 Hanna Strömberg 076-128 61 69 [e-post till Hanna Strömberg](mailto:hanna.stromberg@regeringskansliet.se)

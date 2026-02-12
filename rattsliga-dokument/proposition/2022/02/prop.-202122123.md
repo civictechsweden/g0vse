@@ -1,6 +1,6 @@
 # Validering för kompetensförsörjning och livslångt lärande
 
-![](/contentassets/971dd7fe52ab4c9f8d23354b74a4621c/validering-for-kompetens-forsorjning-och-livslangt-larande.jpg?width=150&quality=85)
+![](/contentassets/971dd7fe52ab4c9f8d23354b74a4621c/validering-for-kompetens-forsorjning-och-livslangt-larande.jpg?width=150&amp;quality=85)
 
 Regeringen lämnar i propositionen förslag som syftar till att validering inom kommunal vuxenutbildning (komvux) i högre grad ska tillgodose de behov som finns på arbetsmarknaden och hos enskilda. Med förbättrad validering ökar möjligheterna att tillvarata det kunnande som individen tidigare har förvärvat. Detta bidrar till en effektivare kompetensförsörjning, en snabbare etablering på arbetsmarknaden och ökade möjligheter till omställning under arbetslivet.
 

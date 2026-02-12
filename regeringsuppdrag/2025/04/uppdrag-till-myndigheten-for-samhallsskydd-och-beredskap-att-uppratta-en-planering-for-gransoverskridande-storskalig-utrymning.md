@@ -2,7 +2,7 @@
 
 Regeringen ger Myndigheten för samhällsskydd och beredskap (MSB) i uppdrag att samverka med sina motparter i Finland för att upprätta en gemensam planering för gränsöverskridande storskalig utrymning. MSB ska när uppdraget utförs samarbeta med och inhämta synpunkter från övriga för uppdraget relevanta myndigheter i beredskapssektorn Räddningstjänst och skydd av civilbefolkningen.
 
-I uppdraget ingår att planera för att kunna genomföra övningar för att stärka operativ beredskap och samordning vid massevakuering i händelse av allvarliga krissituationer eller ett väpnat angrepp eller hot om väpnat angrepp mot Finland eller Sverige.
+I uppdraget ingår att planera för att kunna genomföra övningar för att stärka operativ beredskap och samordning vid massevakuering i händelse av allvarliga krissituationer eller ett väpnat angrepp eller hot om väpnat angrepp mot Finland eller Sverige.
 
 I uppdraget ingår vidare att analysera och redovisa möjligheten till samarbete mellan Sverige och Finland gällande materielförsörjning inom räddningstjänst och befolkningsskydd under höjd beredskap och ytterst krig.
 

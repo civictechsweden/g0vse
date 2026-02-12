@@ -2,7 +2,7 @@
 
 Regeringen föreslår att ett nytt brott, utförselhäleri, införs.
 
-Straffet för utförselhäleri föreslås vara fängelse i högst två år och för grovt utförselhäleri fängelse i lägst sex månader och högst sex år. Även försök, förberedelse och stämpling till utförselhäleri och grovt utförselhäleri föreslås kriminaliseras. Regeringen föreslår att det nya brottet ska ingå i Tullverkets huvuduppdrag.
+Straffet för utförselhäleri föreslås vara fängelse i högst två år och för grovt utförselhäleri fängelse i lägst sex månader och högst sex år. Även försök, förberedelse och stämpling till utförselhäleri och grovt utförselhäleri föreslås kriminaliseras. Regeringen föreslår att det nya brottet ska ingå i Tullverkets huvuduppdrag.
 
 I övrigt föreslår regeringen sammanfattningsvis följande:
 • En särskild straffskala införs för narkotikasmuggling av normalgraden

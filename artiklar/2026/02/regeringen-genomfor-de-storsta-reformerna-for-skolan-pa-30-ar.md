@@ -129,7 +129,7 @@ Sverige behöver ett friskolesystem med betydligt striktare regler. Vi behöver 
 * Alla huvudmän för fristående skolor ska omfattas av offentlighetsprincipen, men mindre huvudmän kommer att få tillämpa lättnadsregler. De ska fortfarande lämna ut allmänna handlingar men det kommer att finnas en viss flexibilitet i relation till kraven, till exempel kan de få lite extra tid på sig.
 * En huvudman ska räknas som mindre om huvudmannen eller koncernen har sammanlagt högst 450 elever (för skola, förskola, fritidshem) eller högst 100 barn (bara förskola).
 
-[Lagrådsremiss: Offentlighetsprincipen med lättnadsregler för mindre enskilda huvudmän i skolväsendet](/rattsliga-dokument/lagradsremiss/2026/01/offentlighetsprincipen-med-lattnadsregler-for-mindre-enskilda-huvudman-i-skolvasendet/ "Lagrådsremiss: Offentlighetsprincipen med lättnadsregler för mindre enskilda huvudmän i skolväsendet ")
+[Lagrådsremiss: Offentlighetsprincipen med lättnadsregler för mindre enskilda huvudmän i skolväsendet](/rattsliga-dokument/lagradsremiss/2026/01/offentlighetsprincipen-med-lattnadsregler-for-mindre-enskilda-huvudman-i-skolvasendet/ "Lagrådsremiss: Offentlighetsprincipen med lättnadsregler för mindre enskilda huvudmän i skolväsendet&nbsp;")
 
 ## Utökade registerkontroller i skolväsendet
 

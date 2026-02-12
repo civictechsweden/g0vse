@@ -24,6 +24,6 @@ Så har det inte varit den senaste tiden. Jag vet det, och jag har tagit emot de
 
 Regeringen har, ända sedan den tillträdde, prioriterat arbetet mot antisemitism. Efter den 7 oktober har vi bland annat snabbt skjutit till extra medel för judisk säkerhet.
 
-Och låt mig försäkra er: vi kommer inte att släppa taget.  Vi står bakom Sveriges judar – och vi kommer att stå kvar.
+Och låt mig försäkra er: vi kommer inte att släppa taget. Vi står bakom Sveriges judar – och vi kommer att stå kvar.
 
 Jag vill återigen tacka för möjligheten att få inleda Chanukka tillsammans med er. Och jag gör det med en innerlig önskan att vi snart går ljusare tider till mötes!

@@ -7,7 +7,7 @@ Regeringen beslutade den 6 februari 2020 kommittédirektiv om åtgärder för at
 Utredaren får nu i uppdrag att bland annat
 
 * lämna författningsförslag som syftar till att utvisningar som sker på
-  grund av försumbara och ursäktliga brister ska upphöra,
+grund av försumbara och ursäktliga brister ska upphöra,
 * lämna författningsförslag om skärpta straff för arbetsgivare och skadestånd till arbetstagare, och
 * lämna förslag på en ordning där ett anställningsavtal ska bifogas en ansökan om arbetstillstånd.
 

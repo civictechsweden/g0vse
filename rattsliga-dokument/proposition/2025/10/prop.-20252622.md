@@ -1,4 +1,4 @@
-# Ytterligare kompletteringar till bestämmelserna om tilläggsskatt för företag i stora koncernerProp. 2025/26:22
+# Ytterligare kompletteringar till bestämmelserna om tilläggsskatt för företag i stora koncerner
 
 Regeringen föreslår ytterligare kompletteringar till bestämmelserna om tilläggsskatt för företag i stora koncerner.
 

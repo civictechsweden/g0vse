@@ -16,7 +16,7 @@ Jordbruksverket får för åtgärdens genomförande använda 7 miljoner kronor u
 
 Jordbruksverket ska stödja arbetet med att vidareutveckla smittskydds-programmet Smittsäkrad besättning gris. Syftet är att stärka tamgris-besättningarnas generella smittskydd med särskilt fokus på skyddet mot afrikansk svinpest.
 
-Jordbruksverket får för åtgärdens genomförande använda 1 miljon kronor under 2020, varav 500 000 kronor ska användas till smittskyddsprogrammet Smittsäkrad besättning gris. Stödet ges enligt de villkor som gäller för anslag 1:6 Bekämpande av smittsamma husdjurssjukdomar, anslagspost 2 Bidrag till bekämpande av djursjukdomar i regleringsbrevet för Jordbruksverket 2020.
+Jordbruksverket får för åtgärdens genomförande använda 1 miljon kronor under 2020, varav 500 000 kronor ska användas till smittskyddsprogrammet Smittsäkrad besättning gris. Stödet ges enligt de villkor som gäller för anslag 1:6 Bekämpande av smittsamma husdjurssjukdomar, anslagspost 2 Bidrag till bekämpande av djursjukdomar i regleringsbrevet för Jordbruksverket 2020.
 
 Åtgärder som ska genomföras 2021–2025
 

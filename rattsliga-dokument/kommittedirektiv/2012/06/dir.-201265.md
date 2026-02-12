@@ -14,7 +14,7 @@ Regeringen har den 14 juni beslutat tilläggsdirektiv till utredningen. Genom ti
 
 Utredaren ska senast den 30 september 2012 redovisa de delar av uppdraget som avser genomförandet av kommissionens beslut samt uttag av avgift för användandet av de nya broarna över Sundsvallsfjärden, Motalafjärden och Skurusundet. Uppdraget i övrigt ska redovisas senast den 15 februari 2013.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+______________________________________________________
 
 Kontakt:
 Särskild utredare: Raymond Grankvist

@@ -14,7 +14,7 @@ Cooperation has never been more important as we live in a world where our democr
 
 One of the top priorities of the Swedish Presidency of the Council is developing EU’s partnerships within the area of security and defence.
 
-One of the central themes in the book Art of War by Sun Tzu in the fifth century BC is that military intelligence is the key to war; without it, you cannot win.
+One of the central themes in the book Art of War by Sun Tzu in the fifth century BC is that military intelligence is the key to war; without it, you cannot win.
 
 Intelligence about adversaries has been key in military strategy since the advent of war. With the use of satellites by the US and the Soviet Union, intelligence gathering reached a new level in the 1950’s. Satellites rendered unprecedented advantages, not only in surveillance and reconnaissance but also in communication and navigation. Thus, the space domain has been shaped by geopolitical competition and has been used as a strategic asset for defence and security since the beginning of the space age.
 
@@ -34,7 +34,7 @@ Third, the war has emphasized the need for European autonomous access to space w
 
 Fourth, the war has shown that future defence capabilities remain technology-rich. The use of emerging and disruptive technologies can contribute to the resilience of space infrastructure and the adaptation to a changing threat environment in space. As innovation in the commercial sector today is outpacing the demand signal from the government sector, it is paramount that commercial industry innovation is leveraged.
 
-The EU space strategy takes into account these lessons by proposing concrete actions to increase the resilience of the space infrastructure and the space sector in the EU.  In addition, the strategy addresses the development of space capabilities for security and defence as well as for autonomous access to space.
+The EU space strategy takes into account these lessons by proposing concrete actions to increase the resilience of the space infrastructure and the space sector in the EU. In addition, the strategy addresses the development of space capabilities for security and defence as well as for autonomous access to space.
 
 As stated in the Compass, the EU and its member states need to strengthen the cooperation with partners to address common threats and challenges. Building strong partnerships in space, security and defence underpins the secure and responsible use of space as well as the use of space for security and defence.
 

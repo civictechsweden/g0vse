@@ -1,4 +1,4 @@
-# Inremarknadstest av förslag om ändringar i grundlärarexamenU2025/02137
+# Inremarknadstest av förslag om ändringar i grundlärarexamen
 
 Inremarknadstestet avser förslag om ändringar i grundlärarexamen med anledning av beslutade ändringar i skollagen (2010:800) som innebär att en tioårig grundskola ska införas läsåret 2028/29 (se prop. 2024/25:143, bet. 2024/25:UbU17, rskr. 2024/25:289).
 

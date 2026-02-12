@@ -16,7 +16,7 @@ Idag säger vi tack till alla de kvinnor och män som för en tid lämnar sina h
 
 Men idag är också en dag att minnas och hedra – för några av dem som åkte i väg, kom inte hem till sina familjer igen.
 
-\*\*\*
+***
 
 De insatser som vi särskilt uppmärksammar i år, visar en stolt svensk tradition av internationellt engagemang. Vi är ett litet land som bättre än de flesta förstår betydelsen av den stora världen utanför. Vi vet att fred, frihet och demokrati måste försvaras – även i andra länder.
 
@@ -32,7 +32,7 @@ Tack!
 
 Vi andra har skyldigheten att ta hand om veteraner även efter deras insats. Därför har regeringen sedan i höstas utrett frågan om ett svenskt veterancentrum. I veckan presenterade Allan Widman det förslag som vi nu jobbar vidare med.
 
-\*\*\*
+***
 
 Den här våren har sammanlagt 750 svenskar tjänstgjort utanför Sveriges gränser. Och som vi alla vet så kräver säkerhetsläget ett allt större fokus på vårt eget närområde.
 
@@ -42,7 +42,7 @@ I februari var jag tillsammans med utrikesministern och försvarsministern på p
 
 I slutet av april genomförde två svenska Gripenflygplan det första skarpa uppdraget från sin bas i Polen, inom ramen för Natos förstärkta incidentberedskap. Vi skyddar det polska luftrummet och logistiken så att viktig utrustning kommer fram till Ukraina.
 
-\*\*\*
+***
 
 Som vår egen ÖB brukar säga: av väldigt tråkiga skäl möter Försvarsmakten större intresse, entusiasm och respekt än på väldigt länge.
 
@@ -54,7 +54,7 @@ Allt det här ställer höga krav på alla oss som på olika sätt jobbar med �
 
 Men vi gör det också långsiktigt, för att våra barn och deras barn i framtiden inte ska behöva uppleva vad Ukraina upplever idag. Hur kriget mot Ukraina slutar kommer att påverka vår säkerhet för generationer framåt. Och ingen uppgift är större – och viktigare – än att försvara friheten.
 
-\*\*\*
+***
 
 Kära vänner, jag brukar ju säga att man inte måste vara disputerad kustjägare för att vara försvarsminister i min regering. Men gudarna ska veta att det faktiskt hjälper. Kunskap och erfarenhet är en lätt ryggsäck att bära.
 

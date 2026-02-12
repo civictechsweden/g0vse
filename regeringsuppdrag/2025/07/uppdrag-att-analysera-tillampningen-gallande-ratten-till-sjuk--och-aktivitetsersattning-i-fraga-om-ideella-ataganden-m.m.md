@@ -1,4 +1,4 @@
-# Uppdrag att analysera tillämpningen gällande rätten till sjuk- och aktivitetsersättning i fråga om ideella åtaganden m.mDiarienummer: S2025/01371
+# Uppdrag att analysera tillämpningen gällande rätten till sjuk- och aktivitetsersättning i fråga om ideella åtaganden m.m
 
 Regeringen uppdrar åt Inspektionen för socialförsäkringen att analysera tillämpningen av rätten till sjuk- och aktivitetsersättning i fråga om ideella åtaganden med mera.
 

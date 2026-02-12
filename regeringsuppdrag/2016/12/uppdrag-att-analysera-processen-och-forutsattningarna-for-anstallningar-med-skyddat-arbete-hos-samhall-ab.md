@@ -5,7 +5,7 @@ Regeringen uppdrar till Statskontoret att kartlägga och analysera bland annat A
 Regeringen uppdrar till Statskontoret att kartlägga och analysera:
 
 * Arbetsförmedlingens process och styrning av anvisningar till skyddat arbete hos Samhall AB (Samhall), bland annat Arbetsförmedlingens arbete med att identifiera, registrera och koda förekomsten av en funktionsnedsättning som medför nedsatt arbetsförmåga inför anvisningar till skyddat arbete hos Samhall,
-* hur sammansättningen av de personer som anställs vid Samhall har ändrats över tid i relation till bolagets uppdrag, vad gäller bland annat dessa personers ställning på arbetsmarknaden i förhållande till övriga inskrivna vid Arbetsförmedlingen som har en funktionsnedsättning som medför nedsatt arbetsförmåga,
+* hur sammansättningen av de personer som anställs vid Samhall har ändrats över tid i relation till bolagets uppdrag, vad gäller bland annat dessa personers ställning på arbetsmarknaden i förhållande till övriga inskrivna vid Arbetsförmedlingen som har en funktionsnedsättning som medför nedsatt arbetsförmåga,
 * hur Samhalls insatser och verksamhet påverkar vilka som kan anvisas till skyddat arbete, och
 * den pågående satsningen på utvecklingsanställningar vid Samhall i förhållande till syftet att skapa goda förutsättningar för att personer ska kunna utveckla sin arbetsförmåga.
 

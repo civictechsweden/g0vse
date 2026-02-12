@@ -16,6 +16,6 @@ Efter mötet hölls en arbetslunch där representanter från de digitala plattfo
 
 Dagen avslutades med ett rundabordssamtal om hur antisemitism och hatbrott mot judar kan förebyggas och bekämpas i Norden. I samtalet deltog ordföranden för World Jewish Congress, Ronald S. Lauder samt ledaren för Judiska Centralrådet i Sverige Aron Verständig. Statssekreterargruppen Samling för judiskt liv deltog också som åhörare.
 
-–  Att bekämpa antisemitism är en högt prioriterad fråga för regeringen och vi vill därför lyfta denna fråga också i det nordiska sammanhanget, säger justitieminister Gunnar Strömmer.
+– Att bekämpa antisemitism är en högt prioriterad fråga för regeringen och vi vill därför lyfta denna fråga också i det nordiska sammanhanget, säger justitieminister Gunnar Strömmer.
 
 Vi mötet deltog ministrar från de nordiska länderna samt Åland, Färöarna och Grönland samt generalsekreteraren för Nordiska ministerrådet.

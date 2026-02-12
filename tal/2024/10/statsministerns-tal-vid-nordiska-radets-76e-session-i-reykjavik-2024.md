@@ -14,7 +14,7 @@ Våra länder är också de mest demokratiska i världen. De mest jämställda. 
 
 Ryssland är nu – igen – det dimensionerande hotet för vårt närområde under överskådlig framtid. Och vi är fast beslutna att möta det ryska hotet, oavsett vilket uttryck det tar sig.
 
-\*\*\*
+***
 
 Att alla nordiska och baltiska länder nu är medlemmar i Nato gör våra länder tryggare och Nato starkare.
 
@@ -36,7 +36,7 @@ I samband med de nordisk-baltiska ländernas resa till Ukraina för två veckor 
 
 Det är bara med ett tillräckligt långsiktigt och kraftfullt militärt stöd som fred kan nås på Ukrainas villkor. Där kommer vi i Norden aldrig att vackla.
 
-\*\*\*
+***
 
 En viktig lärdom från kriget i Ukraina är att hela samhället behövs och att ett lands främsta resurs i krig är den gemensamma försvarsviljan.
 
@@ -46,7 +46,7 @@ Vi behöver också ett gemensamt nordiskt synsätt på resiliens och förbättra
 
 Rysslands invasion av Ukraina har också bäring på de allra nordligaste delarna av vår region. I det nya säkerhetspolitiska läget har Arktis fått en helt annan betydelse, inte minst i Nato:s regionala försvarsplaner. Här är det avgörande att säkra de arktiska staternas suveränitet. Det var viktigt tidigare, men en allt oroligare omvärld gör det behovet ännu mer akut. Det hotet ska vi möta tillsammans.
 
-\*\*\*
+***
 
 Jag vet att vårt samarbete i Norden inspirerar även andra. Över lands- och partigränser möts vi för att tillsammans lösa gemensamma problem. Vi har alla respekt för den nationella partipolitiken. Men vi har ännu större respekt för den internationella gemensamma uppgiften att göra vår del av världen säkrare.
 

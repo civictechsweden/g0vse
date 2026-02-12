@@ -1,4 +1,4 @@
-# Straff för överträdelser av EU:s nya förordningar om f-gaser och ozonnedbrytande ämnenProp. 2025/26:13
+# Straff för överträdelser av EU:s nya förordningar om f-gaser och ozonnedbrytande ämnen
 
 I propositionen föreslås ändringar i miljöbalkens straffbestämmelser som syftar till att komplettera EU:s nya förordningar om fluorerade växthusgaser (f-gaser) och ozonnedbrytande ämnen (ODS, ozone depleting substances).
 

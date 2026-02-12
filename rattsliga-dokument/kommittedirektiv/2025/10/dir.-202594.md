@@ -1,4 +1,4 @@
-# Tilläggsdirektiv till utredningen Behovsstyrd vårdDir. 2025:94
+# Tilläggsdirektiv till utredningen Behovsstyrd vård
 
 Regeringen ändrar uppdraget om en ny och stärkt vårdgaranti för ökad tillgänglighet, kontinuitet och jämlikhet över landet.
 

@@ -6,4 +6,4 @@ Förslaget innebär att den som hanterar en explosiv vara utan att ha rätt till
 
 Regeringen föreslår att bestämmelserna tas in i en ny tillfällig lag.
 
-[Pressmeddelande: En amnesti för explosiva varor](/pressmeddelanden/2018/03/en-amnesti-for-explosiva-varor/)
+[Pressmeddelande: En amnesti för explosiva varor](/pressmeddelanden/2018/03/en-amnesti-for-explosiva-varor/)

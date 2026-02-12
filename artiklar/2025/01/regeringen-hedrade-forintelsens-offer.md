@@ -20,7 +20,7 @@ Justitieminister Gunnar Strömmer höll tal vid Judiska centralrådets högtidli
 
 Gunnar Strömmer och Paulina Brandberg deltog även vid Forum för levande historias minnesceremoni i Eric Ericssonhallen i Stockholm där Gunnar Strömmer också höll tal.
 
-[Tal: Tal av justitieminister Gunnar Strömmer vid minnesceremoni på Förintelsens minnesdag](/tal/2025/01/tal-av-justitieminister-gunnar-strommer-vid-minnesceremoni-pa-forintelsens-minnesdag/ "Tal: Tal av justitieminister Gunnar Strömmer vid minnesceremoni på Förintelsens minnesdag ")
+[Tal: Tal av justitieminister Gunnar Strömmer vid minnesceremoni på Förintelsens minnesdag](/tal/2025/01/tal-av-justitieminister-gunnar-strommer-vid-minnesceremoni-pa-forintelsens-minnesdag/ "Tal: Tal av justitieminister Gunnar Strömmer vid minnesceremoni på Förintelsens minnesdag&nbsp;")
 
 ## Stipendieutdelning till minne av Förintelsen vid Kungliga Dramatiska Teatern
 

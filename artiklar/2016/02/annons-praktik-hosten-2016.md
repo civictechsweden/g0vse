@@ -7,7 +7,7 @@ Sveriges ständiga representation vid Europeiska unionen, EU-representationen, �
 
 ## Att göra praktik
 
-Som praktikant kommer du aktivt att delta i det löpande arbetet som bland annat innefattar att förbereda underlag, ta fram rapporter, biträda vid arbetsgruppsmöten och följa arbetet vid EU-institutionerna. Dessutom har du möjlighet att utföra mer praktiska uppgifter inför planering och genomförande av besök och möten. Uppgifterna kan även innebära mer självständigt arbete inom avgränsade områden.
+Som praktikant kommer du aktivt att delta i det löpande arbetet som bland annat innefattar att förbereda underlag, ta fram rapporter, biträda vid arbetsgruppsmöten och följa arbetet vid EU-institutionerna. Dessutom har du möjlighet att utföra mer praktiska uppgifter inför planering och genomförande av besök och möten. Uppgifterna kan även innebära mer självständigt arbete inom avgränsade områden.
 
 Det är viktigt att ange vilket arbetsområde du primärt är intresserad av:
 
@@ -19,7 +19,7 @@ Det är viktigt att ange vilket arbetsområde du primärt är intresserad av:
 * utbildning och forskning
 * sociala frågor eller annat område
 
-Mer information om olika arbetsområden och praktik inom regeringskansliet och utrikesförvaltningen finns på regeringen.se:
+Mer information om olika arbetsområden och praktik inom regeringskansliet och utrikesförvaltningen finns på regeringen.se:
 
 [Mer om praktik inom Sveriges utrikesförvaltning](http://www.regeringen.se/jobba-hos-oss/student-och-praktik/praktik-inom-utrikesforvaltningen/ "Mer")
 
@@ -27,7 +27,7 @@ Mer information om olika arbetsområden och praktik inom regeringskansliet och u
 
 ## Krav
 
-Ett krav på representationens praktikanter är att de är inskrivna som student vid universitet eller högskola. Om praktik ej ingår som poänggivande kurs ska institutionen intyga att praktiken är relevant för den studerandes utbildningsinriktning.
+Ett krav på representationens praktikanter är att de är inskrivna som student vid universitet eller högskola. Om praktik ej ingår som poänggivande kurs ska institutionen intyga att praktiken är relevant för den studerandes utbildningsinriktning.
 
 För att få ut mesta möjliga av en praktik vid representationen bör du ha en utbildningsbakgrund som motsvarar C- eller D- nivå inom relevant samhällsvetenskapligt ämne, till exempel statsvetenskap, nationalekonomi, freds- och konfliktkunskap, juridik och/eller journalistik men även andra utbildningsinriktningar är av intresse.
 

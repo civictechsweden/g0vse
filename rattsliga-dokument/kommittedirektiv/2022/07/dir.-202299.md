@@ -1,6 +1,6 @@
 # Stärkt offentlig kontroll för att upptäcka och motverka fusk i den jordbruksbaserade livsmedelskedjan
 
-En särskild utredare ska utreda och lämna förslag som syftar till att stärka arbetet med att upptäcka och motverka fusk i den jordbruksbaserade livsmedelskedjan. I uppdraget ingår att lämna förslag som säkerställer en fungerande  organisation och finansiering med effektiva sanktioner som gör det möjligt att identifiera, förhindra och beivra fusk enligt unionsrättens krav om offentlig kontroll och annan offentlig verksamhet i den jordbruksbaserade livsmedelskedjan.
+En särskild utredare ska utreda och lämna förslag som syftar till att stärka arbetet med att upptäcka och motverka fusk i den jordbruksbaserade livsmedelskedjan. I uppdraget ingår att lämna förslag som säkerställer en fungerande organisation och finansiering med effektiva sanktioner som gör det möjligt att identifiera, förhindra och beivra fusk enligt unionsrättens krav om offentlig kontroll och annan offentlig verksamhet i den jordbruksbaserade livsmedelskedjan.
 
 Utredaren ska bland annat:
 

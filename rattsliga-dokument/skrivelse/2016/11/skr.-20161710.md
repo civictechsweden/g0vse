@@ -1,7 +1,5 @@
 # Makt, mål och myndighet - feministisk politik för en jämställd framtid
 
-![](/globalassets/regeringen/bilder/socialdepartementet/tidigare-politikomraden-och-politiker/jamstalldhet/skriv_omslag_150x200.jpg?width=150&quality=85)
-
 Regeringen överlämnade den 21 november skrivelsen ”Makt mål och myndighet – feministisk politik för en jämställd framtid” till riksdagen. I skrivelsen presenterar regeringen inriktningen av jämställdhetspolitiken med en organisation för genomförande, ett system för uppföljning, en tioårig nationell strategi för att förebygga och bekämpa mäns våld mot kvinnor samt en ny delmålsstruktur.
 
 ## En ny myndighet

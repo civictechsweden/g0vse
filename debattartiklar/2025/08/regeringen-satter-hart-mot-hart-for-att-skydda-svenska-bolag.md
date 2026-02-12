@@ -1,6 +1,6 @@
 # Regeringen sätter hårt mot hårt för att skydda svenska bolag
 
-Debattartikel av energi- och näringsminister Ebba Busch (KD), justitieminister Gunnar Strömmer (M), Henrik Vinge (SD), ordförande i justitieutskottet och Martin Melin (L), rättspolitisk talesperson, Dagens Industri, den 26 augusti 2025.
+Energi- och näringsminister Ebba Busch och justitieminister Gunnar Strömmer, debattartikel, Dagens Industri, den 26 augusti 2025.
 
 Det svenska näringslivet bygger på tillit och öppenhet, men denna grund exploateras systematiskt av den organiserade brottsligheten. Företag används som brottsverktyg för att tvätta pengar och återinvestera vinster, och enligt en studie från Stockholms Handelskammare återfinns en tredjedel av dem som ingick i kriminella nätverk också i svenska bolagsstyrelser.
 
@@ -22,7 +22,5 @@ Detta är ett paradigmskifte från reaktiv till proaktiv brottsbekämpning. Det 
 
 Kampen mot kriminella aktörers infiltration av näringslivet handlar om att värna det förtroende som gör Sverige till en magnet för investeringar och innovation. Med vårt helhetsgrepp gör vi det tydligt att kriminella inte är välkomna i näringslivet.
 
-Ebba Busch (KD), energi- och näringsminister
-Gunnar Strömmer (M), justitieminister
 Henrik Vinge (SD), ordförande i justitieutskottet
 Martin Melin (L), rättspolitisk talesperson

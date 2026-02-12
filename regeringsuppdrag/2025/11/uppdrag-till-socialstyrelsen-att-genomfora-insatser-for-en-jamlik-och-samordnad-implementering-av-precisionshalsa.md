@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att genomföra insatser för en jämlik och samordnad implementering av precisionshälsaDiarienummer: S2025/01973
+# Uppdrag till Socialstyrelsen att genomföra insatser för en jämlik och samordnad implementering av precisionshälsa
 
 Regeringen ger Socialstyrelsen i uppdrag att etablera en nationell samordningsstruktur för att stödja en jämlik, jämställd och samordnad implementering av precisionshälsa för barn och vuxna inom svensk hälso- och sjukvård.
 

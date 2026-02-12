@@ -8,7 +8,7 @@ Europa använder ca en fjärdedel av världens råmaterial – men producerar en
 
 ### Röster från gruvklustret om kommande mineralstrategi
 
-Under mötet lyftes vikten av långsiktighet i frågan, då det är långa investeringscykler i branschen och att det är mycket viktigt med politisk förankring i riksdagen. Vidare behövs tydliga mål för vart vi vill – både nationellt och i en EU-kontext.
+Under mötet lyftes vikten av långsiktighet i frågan, då det är långa investeringscykler i branschen och att det är mycket viktigt med politisk förankring i riksdagen. Vidare behövs tydliga mål för vart vi vill – både nationellt och i en EU-kontext.
 
 The European Critical Raw Materials Act som snart träder i kraft, lyftes under mötet. Inom Regeringskansliet bereds nu förordningen, samt hur Sverige ska leva upp till CRMA. Flera lyfte att mineralstrategin bör vara bred och inte bara adressera de råmaterial som är kritiska då detta kan komma att ändras, samt att Sveriges behov inte alltid överensstämmer med EU:s.
 

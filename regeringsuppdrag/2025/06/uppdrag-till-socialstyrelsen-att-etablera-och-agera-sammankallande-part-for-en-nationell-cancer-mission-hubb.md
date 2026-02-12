@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att etablera och agera sammankallande part för en nationell cancer mission hubbDiarienummer: S2022/02861
+# Uppdrag till Socialstyrelsen att etablera och agera sammankallande part för en nationell cancer mission hubb
 
 Regeringen ger Socialstyrelsen i uppdrag att etablera och agera sammankallande part för en nationell cancer mission hubb.
 

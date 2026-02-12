@@ -1,4 +1,4 @@
-# Stärkt kontroll över tandvårdssektornProp.  2025/26:7
+# Stärkt kontroll över tandvårdssektorn
 
 I propositionen föreslår regeringen bland annat tillståndsplikt för privata vårdgivare inom tandvårdssektorn. Tillstånd ska sökas hos Inspektionen för vård och omsorg (IVO).
 
@@ -13,5 +13,5 @@ Om kraven för tillstånd inte längre är uppfyllda, ska IVO få förelägga v�
 Regeringen föreslår:
 
 * att regionen ska anmäla till IVO om det finns anledning att anta att en privat vårdgivare bedriver tandvårdsverksamhet utan nödvändigt tillstånd eller att en tillståndshavares lämplighet kan ifrågasättas,
-* att statligt tandvårdsstöd som huvudregel inte ska få betalas ut om behandlaren saknar legitimation eller särskilt förordnande att utöva yrket,
+* att statligt tandvårdsstöd som huvudregel inte ska få betalas ut om behandlaren saknar legitimation eller särskilt förordnande att utöva yrket,
 * att lagändringarna träder i kraft den 1 januari 2026.

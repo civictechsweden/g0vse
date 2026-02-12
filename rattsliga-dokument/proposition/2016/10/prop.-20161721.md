@@ -1,6 +1,6 @@
 # Infrastruktur för framtiden – innovativa lösningar för stärkt konkurrenskraft och hållbar utveckling
 
-![](/contentassets/569a9026b427483fbfca847f66dd27e5/framsidan-infrastruktupropositionen.jpg?width=150&quality=85)
+![](/contentassets/569a9026b427483fbfca847f66dd27e5/framsidan-infrastruktupropositionen.jpg?width=150&amp;quality=85)
 
 Regeringen redovisar i denna proposition förslag till inriktningen på satsningar i transportinfrastrukturen för perioden 2018–2029. Propositionen innehåller förslag till ekonomiska ramar och vägledning för prioritering av åtgärder i den åtgärdsplanering som följer efter riksdagens beslut.
 

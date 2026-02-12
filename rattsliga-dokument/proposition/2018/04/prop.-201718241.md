@@ -8,4 +8,4 @@ Upphovsmannen ska ha rätt till ersättning i vissa fall. Förslagen har sin bak
 
 Lagändringarna föreslås träda i kraft den 11 oktober 2018.
 
-[Pressmeddelande: Personer med synnedsättning eller dyslexi får bättre tillgång till böcker](/pressmeddelanden/2018/04/personer-med-synnedsattning-eller-dyslexi-far-battre-tillgang-till-bocker/)
+[Pressmeddelande: Personer med synnedsättning eller dyslexi får bättre tillgång till böcker](/pressmeddelanden/2018/04/personer-med-synnedsattning-eller-dyslexi-far-battre-tillgang-till-bocker/)

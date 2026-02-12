@@ -1,4 +1,4 @@
-# Tilläggsdirektiv till utredningen om En reform av den statliga barn- och ungdomsvården för en trygg och kvalitativ vårdDir. 2025:39
+# Tilläggsdirektiv till utredningen om En reform av den statliga barn- och ungdomsvården för en trygg och kvalitativ vård
 
 Regeringen utvidgar uppdraget om en översyn av den statliga barn- och ungdomsvårdens i syftar till en reformering av den vården.
 

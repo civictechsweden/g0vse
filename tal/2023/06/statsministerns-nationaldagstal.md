@@ -26,7 +26,7 @@ Mycket i den svenska framgångsresan är ett föredöme för världen. Den visar
 
 Själv känner jag stolthet över att vara svensk. Och jag är stolt över att ha fått ert förtroende att vara statsminister. Ni ska veta att jag tar det förtroendet på allra största allvar.
 
-\*\*\*
+***
 
 På 500 år har Sverige också gjort en annan resa. Från ett land där de allra flesta liknade varandra, till ett land med människor som har sina rötter i hela världen.
 
@@ -40,11 +40,11 @@ Men vi ser också utanförskap i den stora migrationens och den dåliga integrat
 
 Det här skapar allvarliga spänningar: Många som är födda här – men som inte längre känner igen sig. Som upplever att förändringen har varit för stor och för snabb.
 
-Andra – ofta nya svenskar – som inte känner sig välkomna in i samhällsgemenskapen, eller som rent av diskrimineras. Ytterligare andra som inte lär sig språket, inte förstår våra lagar eller hur samhället funkar – eller som inte vill acceptera grundläggande svenska värderingar.
+Andra – ofta nya svenskar – som inte känner sig välkomna in i samhällsgemenskapen, eller som rent av diskrimineras. Ytterligare andra som inte lär sig språket, inte förstår våra lagar eller hur samhället funkar – eller som inte vill acceptera grundläggande svenska värderingar.
 
 Låt oss ta allt det här på stort allvar, på lika stort allvar.
 
-\*\*\*
+***
 
 Det är hög tid för oss att ta nya steg för att bygga ihop Sverige. Och samlas kring det som i grunden borde göra oss till svenskar: det svenska medborgarskapet.
 
@@ -93,7 +93,7 @@ Det här språkliga och kulturella utanförskapet måste bara brytas. Det är pr
 
 Vi kommer införa obligatorisk språkförskola för de barn som behöver det. Mer svenska på skolschemat och mer lovskola för dem som annars halkar efter. Och det blir riktiga böcker i skolan.
 
-\*\*\*
+***
 
 Ska vi bygga ihop Sverige genom medborgarskapet och genom det svenska språket, så måste vi också kunna tala om gemensamma värderingar.
 
@@ -121,7 +121,7 @@ Ska vi bli det landet måste medborgarskapet uppvärderas, svenska språket stä
 
 Jag tror egentligen att många ställer upp på det här, alldeles oavsett var man står politiskt.
 
-\*\*\*
+***
 
 Ha nu ett riktigt fint nationaldagsfirande, och njut av allt som hör Sverige till. Den ljusa sommarkvällen, den rena naturen och den stora friheten.
 Oavsett om du är född här, eller har dina rötter någon annanstans – eller kanske själv just nu bor utomlands.

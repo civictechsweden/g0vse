@@ -1,6 +1,6 @@
 # Genomförande av energieffektiviseringsdirektivet
 
-I propositionen lämnas förslag på den lagstiftning som behövs för att genomföra det så kallade energieffektiviseringsdirektivet\*.
+I propositionen lämnas förslag på den lagstiftning som behövs för att genomföra det så kallade energieffektiviseringsdirektivet*.
 
 Propositionen innehåller också genomgångar och bedömningar av de artiklar som inte bedöms föranleda någon lagstiftning.
 
@@ -16,4 +16,4 @@ Dessutom föreslås vissa kompletterande ändringar med anledning av ett tidigar
 
 Bestämmelserna föreslås i huvudsak träda i kraft den 1 juni 2014.
 
-\* Europaparlamentets och rådets direktiv 2012/27/EU av den 25 oktober 2012 om energieffektivitet, om ändring av direktiven 2009/125/EG och 2010/30/EU och om upphävande av direktiven 2004/8/EG och 2006/32/EG (EUT L 315, 14.11.2012, s.1, Celex 32012L0027).
+* Europaparlamentets och rådets direktiv 2012/27/EU av den 25 oktober 2012 om energieffektivitet, om ändring av direktiven 2009/125/EG och 2010/30/EU och om upphävande av direktiven 2004/8/EG och 2006/32/EG (EUT L 315, 14.11.2012, s.1, Celex 32012L0027).

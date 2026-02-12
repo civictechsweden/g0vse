@@ -11,5 +11,5 @@ Förändringar som föreslås är:
 * Återkallelse av nämndpresidiernas uppdrag.
 
 Ändringarna föreslås träda i kraft den 1 februari 2014.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________________________________________________
 Riksdagen fattade den 27 november 2013 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

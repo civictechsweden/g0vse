@@ -1,4 +1,4 @@
-# Reformering av avfallslagstiftningen för ökad materialåtervinningKN2025/02319
+# Reformering av avfallslagstiftningen för ökad materialåtervinning
 
 I lagrådsremissen föreslås ändringar i miljöbalken som innebär en reformerad och moderniserad avfallslagstiftning.
 

@@ -2,7 +2,7 @@
 
 Regeringens branschsamtal om klimatomställningen fortsatte med ledande företrädare inom industrin. Energi- och näringsminister Ebba Busch mötte tillsammans med statssekreterare till klimat- och miljöministern, Daniel Westlén, några av dem om deras hinder och möjligheter att ställa om.
 
-–  Vi behöver klara omställningen till ett fossilfritt samhälle där våra höga klimatambitioner och konkurrenskraften går ihop, inledde energi- och näringsminister Ebba Busch. Det finns uppenbara målkonflikter mellan miljö och klimat, det ser vi och vi jobbar hårt för att de ska gå ihop.
+– Vi behöver klara omställningen till ett fossilfritt samhälle där våra höga klimatambitioner och konkurrenskraften går ihop, inledde energi- och näringsminister Ebba Busch. Det finns uppenbara målkonflikter mellan miljö och klimat, det ser vi och vi jobbar hårt för att de ska gå ihop.
 
 Flera av deltagarna runt bordet lyfte att hela värdekedjan är viktig att ta hänsyn till för att kunna genomföra klimatomställningen. Det behövs en samsyn, men också en politisk styrning över vilka intressen som står överst när flera företag konkurrerar om samma behov – till exempel elen. Många lyfte elförsörjningen som avgörande för att kunna ta sin verksamhet framåt, idag använder vissa lösningar som är ännu mer koldioxidtunga för att bristen på el inte skapar något alternativ för dem.
 

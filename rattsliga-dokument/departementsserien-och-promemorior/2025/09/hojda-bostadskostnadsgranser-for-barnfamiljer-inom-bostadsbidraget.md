@@ -1,4 +1,4 @@
-# Höjda bostadskostnadsgränser för barnfamiljer inom bostadsbidragetS2025/01526
+# Höjda bostadskostnadsgränser för barnfamiljer inom bostadsbidraget
 
 För att bostadsbidraget i högre grad ska vara kopplat till de faktiska bostadskostnaderna föreslår Regeringskansliet att de övre bostadskostnadsgränserna för barnfamiljer höjs med 1 500 kronor per månad för familjer med ett barn och med 2 000 kronor för familjer med två eller flera barn.
 

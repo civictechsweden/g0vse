@@ -8,7 +8,7 @@ Regeringen har beslutat om en ändring i strålskyddsförordningen som innebär 
 
 **Referenser:**
 
-– förordning (2020:1223) om ändring i strålskyddsförordningen (2018:506)
+– förordning (2020:1223) om ändring i strålskyddsförordningen (2018:506)
 
 ### Kontaktperson:
 

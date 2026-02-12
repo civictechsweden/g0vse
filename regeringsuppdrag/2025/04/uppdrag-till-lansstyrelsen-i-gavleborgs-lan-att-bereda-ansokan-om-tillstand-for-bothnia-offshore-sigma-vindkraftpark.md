@@ -5,7 +5,7 @@ Regeringen ger Länsstyrelsen i Gävleborgs län i uppdrag att bereda Sigma Offs
 Ansökan ska beredas enligt 6 och 6 a §§ lagen om Sveriges ekonomiska zon
 och i övrigt i enlighet med de förvaltningsrättsliga principer som
 förvaltningslagen (2017:900) ger uttryck för. När beredningen av ärendet är
-avslutad och ärendet klart för avgörande ska länsstyrelsen återlämna ärendet till regeringen med ett förslag till beslut.
+avslutad och ärendet klart för avgörande ska länsstyrelsen återlämna ärendet till regeringen med ett förslag till beslut.
 
 Uppdraget ska redovisas till Regeringskansliet (Klimat- och
 näringslivsdepartementet) senast den 3 april 2026. Om länsstyrelsen

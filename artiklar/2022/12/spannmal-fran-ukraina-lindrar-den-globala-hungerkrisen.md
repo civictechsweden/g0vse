@@ -8,7 +8,7 @@ Utöver det omfattande mänskliga lidandet och den materiella förstörelsen i U
 
 ## Spannmålsexport via Svarta havet
 
-I september beslutade Sverige om stöd till ukrainsk livsmedelsexport genom att bidra med 400 miljoner kronor för upphandling och transport av 50 000 ton ukrainskt vete för humanitära ändamål. Köpet och transporten sker i FN:s livsmedelsprograms (WFP) regi. Det levereras till behövande i Jemen, där risken för svält är mycket stor.
+I september beslutade Sverige om stöd till ukrainsk livsmedelsexport genom att bidra med 400 miljoner kronor för upphandling och transport av 50 000 ton ukrainskt vete för humanitära ändamål. Köpet och transporten sker i FN:s livsmedelsprograms (WFP) regi. Det levereras till behövande i Jemen, där risken för svält är mycket stor.
 
 Detta har möjliggjorts genom avtalet Black Sea Grain Initiative, som FN och Turkiet förhandlade fram i juli 2022. Det innebär att fartyg lastade med ukrainskt spannmål, jordbruksprodukter och gödningsmedel säkert kan passera från Ukraina och över Svarta havet för vidare transport. Totalt har 15 miljoner ton ukrainskt spannmål och livsmedelsprodukter exporterats inom ramen för Black Sea Grain Initiative. Det har bidragit till att stödja Ukrainas jordbrukssektor, motverka svält i världen, och stabilisera globala livsmedelspriser.
 
@@ -16,7 +16,7 @@ Regeringen välkomnade parternas överenskommelse den 17 november om att förlä
 
 ## Ukrainsk donation av spannmål till behövande
 
-Grain from Ukraine är ett initiativ lanserat av Ukrainas regering i syfte att hjälpa de som drabbats hårdast av den ryska invasionens konsekvenser för global livsmedelsförsörjning. Minst 125 000 ton spannmål doneras av Ukraina till utsatta människor i Afrika och Asien.
+Grain from Ukraine är ett initiativ lanserat av Ukrainas regering i syfte att hjälpa de som drabbats hårdast av den ryska invasionens konsekvenser för global livsmedelsförsörjning. Minst 125 000 ton spannmål doneras av Ukraina till utsatta människor i Afrika och Asien.
 
 – Ukrainas ledarskap för att bidra till en del av lösningen på livsmedelskrisen i världen, samtidigt som man försvarar sitt land mot Rysslands förödande krig, är beundransvärt, säger Johan Forssell.
 

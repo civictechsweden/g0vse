@@ -10,9 +10,9 @@ Ers excellenser,
 
 Mina damer och herrar,
 
-Låt mig börja med att säga att det är en stor ära att vara med er här i dag under det formella öppnandet av Judiska världskongressens nordiska kontor.
+Låt mig börja med att säga att det är en stor ära att vara med er här i dag under det formella öppnandet av Judiska världskongressens nordiska kontor.
 
-Men er organisations historia i Sverige – eller för den delen i de nordiska länderna – tar inte sin början i dag. Faktum är att organisationen har spelat en viktig roll för det judiska livet här ända sedan 1940-talet.
+Men er organisations historia i Sverige – eller för den delen i de nordiska länderna – tar inte sin början i dag. Faktum är att organisationen har spelat en viktig roll för det judiska livet här ända sedan 1940-talet.
 
 Då, under Förintelsens onda tid, etablerade sig Judiska världskongressen i Stockholm och tjänade som en fyrbåk i det europeiska mörkret – i en tid när även Sveriges regering gjorde för lite och till och med hindrade judar från att komma till Sverige.
 
@@ -22,7 +22,7 @@ Jag vill verkligen nämna Gilel Storch, Fritz Hollander och Norbert Masur, som a
 
 Tack vare hans ansträngningar kunde Utrikesdepartementet komma i kontakt med Wallenberg genom Marcus Ehrenpreis, överrabbin i Stockholm.
 
-Det var alltså delvis tack vare era kontakter som Raoul Wallenberg kunde skickas ut på sitt livräddande uppdrag, som vi i dag minns som ett framstående exempel på mänskligt mod och på moralinstinkt.
+Det var alltså delvis tack vare era kontakter som Raoul Wallenberg kunde skickas ut på sitt livräddande uppdrag, som vi i dag minns som ett framstående exempel på mänskligt mod och på moralinstinkt.
 
 Norbert Masur visade dessutom själv prov på samma mod när han i slutet av kriget reste till Nazityskland för att förhandla med Himmler om frigivning av judar från koncentrationslägren.
 
@@ -30,13 +30,13 @@ Det var naturligtvis väldigt farligt, men hans ansträngningar kröntes med fra
 
 Det var även tack vare kongressens närvaro i Sverige som många människor kunde räddas undan svälten efter dödsmarscherna i Förintelsens slutskede.
 
-Från den svenska sektionen skickades 80 000 matpaket till lägren, med hjälp av Röda korset och i samarbete med Sveriges regering.
+Från den svenska sektionen skickades 80 000 matpaket till lägren, med hjälp av Röda korset och i samarbete med Sveriges regering.
 
-Och efter att Nazityskland hade kapitulerat skickades ytterligare 200 000 paket för att hjälpa människor att överleva efter att lägren hade befriats.
+Och efter att Nazityskland hade kapitulerat skickades ytterligare 200 000 paket för att hjälpa människor att överleva efter att lägren hade befriats.
 
 Kort sagt har organisationen en lång och mycket stolt historia i Sverige. Och på sätt och vis innebär dagens öppnande en återknytning till historien – för under kriget blev den svenska sektionen även en knutpunkt för danska och norska judar i exil.
 
-\*\*\*
+***
 
 Mina damer och herrar,
 
@@ -58,7 +58,7 @@ I vissa städer har hatet blivit ett vardagsfenomen på offentliga platser. Och 
 
 Men en sak står klar: jag och min regering kommer inte att stillatigande åse hur friheten för svenska judar krymper. Vi kommer inte bara att fortsätta vårt arbete med att bekämpa antisemitismen, utan även aktivt stärka de nödvändiga förutsättningarna för judiskt liv i Sverige.
 
-\*\*\*
+***
 
 För det första: säkerhet. En av uppgifterna i samband med regeringens översyn av brottsbalken handlar om att lägga fram förslag om skärpta straff för hatbrott – till exempel sådana med antisemitiska motiv.
 
@@ -82,7 +82,7 @@ I januari utsåg regeringen en arbetsgrupp för samverkan om förutsättningarna
 
 Arbetsgruppen kommer att arbeta tvärdepartementalt och föreslå åtgärder som stärker förutsättningarna för judiskt liv i vårt land, bland annat när det gäller trygghet och säkerhet, kultur och utbildning.
 
-\*\*\*
+***
 
 Det offentliga kan göra mycket – och det kommer vi att göra – för att bekämpa antisemitismen och värna allas trygghet och säkerhet i Sverige.
 
@@ -94,7 +94,7 @@ Vi måste alla vara redo att göra vår del. För sist och slutligen är demokra
 
 Låt mig därför parafrasera John Stuart Mill och säga: Det enda som krävs för att onda män ska segra är att goda män står och ser på utan att göra någonting.
 
-Den insikten vägledde en gång män och kvinnor som är här i dag i deras ädla gärningar. På samma sätt som den vägledde Raoul Wallenberg i hans.
+Den insikten vägledde en gång män och kvinnor som är här i dag i deras ädla gärningar. På samma sätt som den vägledde Raoul Wallenberg i hans.
 
 Låt de orden också vägleda oss alla i våra gemensamma insatser för att bekämpa antisemitismen och försvara det öppna samhället mot dess fiender.
 

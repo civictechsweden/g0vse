@@ -15,8 +15,8 @@ Utredaren ska bland annat:
 
 * analysera och bedöma om svensk rätt är förenlig med direktivet,
 * om svensk rätt inte är förenlig med direktivet, bedöma vilka
-  författningsändringar och eventuella andra åtgärder som behövs för
-  genomförande av direktivet, och
+författningsändringar och eventuella andra åtgärder som behövs för
+genomförande av direktivet, och
 * utarbeta nödvändiga författningsförslag.
 
 Uppdraget ska redovisas senast den 15 december 2020.

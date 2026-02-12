@@ -1,4 +1,4 @@
-# Signalspaning i försvarsunderrättelseverksamhet – en modern och ändamålsenlig lagstiftning (utkast till lagrådsremiss)Fö2024/01478
+# Signalspaning i försvarsunderrättelseverksamhet – en modern och ändamålsenlig lagstiftning (utkast till lagrådsremiss)
 
 I utkastet till lagrådsremiss föreslås en ny lag om signalspaning i försvarsunderrättelseverksamhet i krig eller krigsfara. Det föreslås även ändringar i lagen om signalspaning i försvarsunderrättelseverksamhet, lagen om Försvarsunderrättelsedomstol och lagen om behandling av personuppgifter vid Försvarets radioanstalt.
 

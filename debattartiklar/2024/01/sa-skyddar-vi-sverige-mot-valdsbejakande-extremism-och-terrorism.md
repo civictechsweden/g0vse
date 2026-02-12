@@ -25,7 +25,9 @@ Arbetet ska utgå från fyra tydliga strategiska områden: Förebygga våldsbeja
 Strategin innehåller flera viktiga nyheter för att stärka Sveriges motståndskraft mot hot mot vår frihet och säkerhet:
 
 1. En samlad strategi mot våldsbejakande extremism och terrorism. Tidigare fanns det två olika nationella strategier, en mot terrorism och en mot våldsbejakande extremism. Genom att slå ihop dessa till en ges aktörer på nationell, regional och lokal nivå bättre förutsättningar att arbeta mot den breda hotbild som idag är vår verklighet.
+
 2. Åtgärder ägnade att förebygga extremism och terrorism ska integreras i det bredare brottsförebyggande arbetet. Idag bedrivs ett omfattande lokalt brottsförebyggande arbete, inte minst i kommunerna som sedan sommaren 2023 har ett lagstadgat ansvar för detta. Genom att integrera förebyggande insatser mot våldsbejakande extremism och terrorism i det bredare, lokala brottsförebyggande arbetet hamnar preventiva åtgärder i ett tydligare fokus.
+
 3. Samhället måste förbereda sig på att hantera ett attentat. När den tidigare strategin togs fram hade Sverige inte varit med om ett terroristattentat med flera döda och skadade. Sedan dess har det skett flera attacker med dödlig utgång. Även om olika insatser framför allt syftar till att förhindra attentat, måste samhället vara förberett på att hantera en situation där ett attentat ändå inträffar. Det handlar bland annat om att kunna ingripa och avbryta ett pågående attentat, men också om att ge brottsoffer rätt stöd och upprättelse.
 
 Varje strategiskt område rymmer flera konkreta åtgärder som behöver vidtas och följas upp. Förebygga handlar till exempel om att skola, socialtjänst och polis ska stärka sin samverkan och utöka de tidiga insatserna för att minska radikalisering och rekrytering av barn till extremistmiljöer. Förhindra om att bland annat stärka arbetet för att stoppa finansiering av terrorism, minska tillgången till vapen och snabbare kunna upptäcka personer som utgör säkerhetshot. Skydda om att exempelvis stärka skyddet av kritisk infrastruktur och öka möjligheten till kamerabevakning på folktäta allmänna platser där det behövs. Och hantera handlar om att genomföra gemensamma taktiska utbildningar med personal från räddningstjänsten, polisen och hälso- och sjukvården.
@@ -37,11 +39,3 @@ För att åstadkomma detta har kommuner, myndigheter, forskare och civilsamhäll
 Strategin ska inte bli en papperstiger – den ska få genomslag hela vägen ut i kapillärerna. Därför har regeringen beslutat att ge fyra myndigheter i uppdrag att vidta åtgärder för att införliva strategin i sin verksamhet och samverka med varandra samt centrala aktörer inom de fyra områdena som anges i strategin, bland annat inom ramen för Samverkansrådet mot terrorism.
 
 Det är bara genom att arbeta tillsammans som vi har möjlighet att besegra de aktörer som vill försvaga vår demokratiska grund, våra goda värderingar och urholka förtroendet för samhället och dess institutioner. Så kan vi värna enskilda människors och familjers trygghet och säkerhet, och försvara vårt fria och öppna samhälle.
-
-Ulf Kristersson, statsminister
-
-Ebba Busch, energi- och näringsminister
-
-Johan Pehrson, arbetsmarknads- och integrationsminister
-
-Gunnar Strömmer, justitieminister

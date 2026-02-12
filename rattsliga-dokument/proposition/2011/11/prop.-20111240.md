@@ -6,6 +6,6 @@ Propositionen lämnas mot bakgrund av Europaparlamentets och rådets s.k. ändri
 
 Ändringarna föreslås träda i kraft den 1 mars 2012.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_______________________________________________________
 
 Riksdagen fattade den 25 januari 2012 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

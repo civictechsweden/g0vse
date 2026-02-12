@@ -6,8 +6,8 @@ I uppdraget ingår att:
 
 * bistå regionerna i arbetet med att förbereda och genomföra vaccination mot covid-19 så att vaccineringen kan starta så snart som möjligt, genom att t.ex. bistå vid logistikhantering,
 * skyndsamt ta initiativ till att andra praktiska frågor för att genomföra
-  vaccination identifieras och föra en dialog med berörda aktörer om
-  möjliga lösningar,
+vaccination identifieras och föra en dialog med berörda aktörer om
+möjliga lösningar,
 * baserat på den information som Folkhälsomyndigheten tar fram, och i samarbete med regionerna, anpassa och sprida information till allmänheten kring vaccinet, vaccinationsprocessen och vart den enskilde kan vända sig för att bli vaccinerad samt vilka riktlinjer som gäller för denna vaccinationsverksamhet, samt
 * där det är relevant samordna kommunikationen om vaccineringen med den kommunikation om pandemin som pågår nationellt och regionalt.
 

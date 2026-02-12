@@ -41,7 +41,7 @@ Avfallshierarkin införs till största del i 15 kap. miljöbalken. För att anpa
 
 Följdändringar görs i arton förordningar. Ändringarna avser hänvisningar till miljöbalkens nya avfallskapitel.
 
-Ändringarna träder i kraft den 2 augusti 2016.
+Ändringarna träder i kraft den 2 augusti 2016.
 
 ### Referenser
 

@@ -9,5 +9,5 @@ I den föreslagna nya lagen om förvaltare av alternativa investeringsfonder reg
 I propositionen föreslås också vissa andra ändringar än de som är direkt motiverade av AIFM-direktivet. Dessa förslag syftar främst till att reglera marknadsföring av alternativa investeringsfonder till ickeprofessionella investerare.
 
 Lagändringarna föreslås träda i kraft den 22 juli 2013.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________________________________________________
 Riksdagen fattade den 18 juni 2013 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

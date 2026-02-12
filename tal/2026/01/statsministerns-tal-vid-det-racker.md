@@ -20,7 +20,7 @@ Vi har kanske olika uppfattning om exakt vad som måste göras. Det har jag stor
 
 Att få stopp på våldet. Att bryta nyrekryteringen. Och att strypa den kriminella ekonomin.
 
-\*\*\*
+***
 
 Ansvaret för det goda och rättvisa Sverige faller på oss alla. Men ett särskilt ansvar vilar alltid på regeringen. Att ytterst fatta besluten, att göra de svåra avvägningarna.
 
@@ -40,7 +40,7 @@ Nu river vi sekretessen, så att myndigheter kan prata klartext med varandra om 
 
 Och nu gör vi den största reformen av svensk socialpolitik på 40 år. Mer förebyggande, med tidigare och tydligare insatser.
 
-\*\*\*
+***
 
 Det händer att jag får kritik för att regeringen går långt och för fort. Men jag håller inte med.
 
@@ -50,7 +50,7 @@ Säg det till alla familjer, där en stol för alltid står tom vid middagsborde
 
 Så vi kommer fortsätta lägga om kursen – från gammalt fokus på gärningsmän till nytt fokus på brottsoffer och samhällsskydd.
 
-\*\*\*
+***
 
 Vi är tusentals människor här idag. Men jag vet att miljontals vill samma sak som vi. Att våldet måste upphöra. Att tryggheten måste upprättas. Så att friheten kan upplevas.
 

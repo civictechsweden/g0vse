@@ -2,7 +2,7 @@
 
 I promemorian föreslås det att reglerna om beskattningsinträde genom fusion och fission ändras. Förslaget rör dels beräkningen av anskaffningsvärde för lager av finansiella instrument, dels det belopp en förpliktelse ska värderas till.
 
-Enligt förslaget ska anskaffningsvärdet respektive beloppet bestämmas efter det värde som tillgången eller förpliktelsen hade vid beskattningen i det överlåtande företaget om beskattning har skett i samband med fusionen eller fissionen. Om beskattning inte har skett vid denna tidpunkt ska i stället det värde som tillgången eller förpliktelsen skulle ha haft om beskattning skett i samband med fusionen eller fissionen ligga till grund för den svenska beskattningen.
+Enligt förslaget ska anskaffningsvärdet respektive beloppet bestämmas efter det värde som tillgången eller förpliktelsen hade vid beskattningen i det överlåtande företaget om beskattning har skett i samband med fusionen eller fissionen. Om beskattning inte har skett vid denna tidpunkt ska i stället det värde som tillgången eller förpliktelsen skulle ha haft om beskattning skett i samband med fusionen eller fissionen ligga till grund för den svenska beskattningen.
 
 I promemorian föreslås även att det återinförs ett krav på att ett värdepapper definitivt ska förlora sitt värde för att det ska anses avyttrat när företaget som gett ut värdepappret upplöses genom fusion eller fission.
 

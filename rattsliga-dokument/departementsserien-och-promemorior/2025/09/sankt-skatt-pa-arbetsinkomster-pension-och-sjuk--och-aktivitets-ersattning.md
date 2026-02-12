@@ -1,4 +1,4 @@
-# Sänkt skatt på arbetsinkomster, pension och sjuk- och aktivitetsersättningFi2025/01695
+# Sänkt skatt på arbetsinkomster, pension och sjuk- och aktivitetsersättning
 
 I promemorian föreslås att det ordinarie jobbskatteavdraget ska förstärkas med totalt 17,36 miljarder kronor. Skattesänkningen riktas främst till heltidsarbetande med låga och medelhöga inkomster. Förslaget innebär att skatten i genomsnitt minskar med ca 3 800 kronor per person och år för dem som berörs.
 

@@ -1,4 +1,4 @@
-# Ny kärnkraft i Sverige – fler möjliga platser vid kustenKN2025/01872
+# Ny kärnkraft i Sverige – fler möjliga platser vid kusten
 
 Promemorian innehåller förslag som syftar till att möjliggöra utbyggnaden av kärnkraft inom de s.k. obrutna kustområdena och de s.k. högexploaterade kustområdena, samtidigt som skyddet för natur- och kulturvärden upprätthålls.
 

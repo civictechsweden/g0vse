@@ -8,6 +8,6 @@ Försvarsminister Austin såg fram emot att välkomna Sverige in i Nato. Sverige
 
 I april 2022 tog försvarsminister Austin initiativ till en kontaktgrupp till stöd för Ukrainas försvar. Hittills har sex möten hållits som Sverige har deltagit i. Försvarsminister Jonson tackade försvarsminister Austin för det amerikanska ledarskapet i stödet till Ukraina.
 
-– En stark transatlantisk länk och ett nära samarbete med USA är avgörande för Europas stabilitet och välstånd. Förutsättningarna för att fördjupa vårt bilaterala samarbete kommer att öka när Sverige blir medlem i Nato, säger försvarsminister Pål Jonson.
+– En stark transatlantisk länk och ett nära samarbete med USA är avgörande för Europas stabilitet och välstånd. Förutsättningarna för att fördjupa vårt bilaterala samarbete kommer att öka när Sverige blir medlem i Nato, säger försvarsminister Pål Jonson.
 
 Sverige har sedan länge ett nära säkerhets- och försvarspolitiskt samarbete med USA och Försvarsmakten genomför regelbundet samövningar med den amerikanska försvarsmakten. Mot bakgrund av det kommande svenska medlemskapet i Nato förs nu samtal om hur samarbetet med USA kan utvecklas ytterligare.

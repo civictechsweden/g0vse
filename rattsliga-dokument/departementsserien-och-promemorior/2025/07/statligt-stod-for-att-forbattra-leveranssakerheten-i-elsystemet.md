@@ -1,4 +1,4 @@
-# Statligt stöd för att förbättra leveranssäkerheten i elsystemetKN2025/01503
+# Statligt stöd för att förbättra leveranssäkerheten i elsystemet
 
 Förslag till förordning om statligt stöd för att förbättra leveranssäkerheten i elsystemet.
 

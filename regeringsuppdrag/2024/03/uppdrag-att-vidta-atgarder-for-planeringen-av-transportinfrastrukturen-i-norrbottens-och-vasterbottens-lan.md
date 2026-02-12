@@ -2,14 +2,14 @@
 
 Regeringen ger Trafikverket i uppdrag att vidta åtgärder för planeringen av transportinfrastrukturen i Norrbottens och Västerbottens län.
 
-Uppdraget innefattar tre deluppdrag.
+Uppdraget innefattar tre deluppdrag.
 
 Trafikverket ska i ett första deluppdrag i sin planering prioritera de
-kapacitetshöjande åtgärder på järnvägen mellan Luleå och Kiruna som verket föreslår för tidigareläggning i rapporten Regeringsuppdrag att analysera åtgärder i transportinfrastrukturen i Norrbottens och Västerbottens län (LI2023/03173).
+kapacitetshöjande åtgärder på järnvägen mellan Luleå och Kiruna som verket föreslår för tidigareläggning i rapporten Regeringsuppdrag att analysera åtgärder i transportinfrastrukturen i Norrbottens och Västerbottens län (LI2023/03173).
 
-Trafikverket ska i arbetet med detta deluppdrag dels verka för att få till stånd ett så tidigt färdigställande som möjligt av de aktuella åtgärderna, dels
+Trafikverket ska i arbetet med detta deluppdrag dels verka för att få till stånd ett så tidigt färdigställande som möjligt av de aktuella åtgärderna, dels
 möjliggöra ett effektivare genomförande av åtgärderna genom samordning
-med andra planerade trimnings- och reinvesteringsåtgärder på sträckan som Trafikverket, enligt den nämnda rapporten, har prioriterat och planerat för ett tidigt genomförande och därmed också ge förutsättningar för lägre
+med andra planerade trimnings- och reinvesteringsåtgärder på sträckan som Trafikverket, enligt den nämnda rapporten, har prioriterat och planerat för ett tidigt genomförande och därmed också ge förutsättningar för lägre
 investeringskostnader.
 
 Vidare ska Trafikverket föra dialog med tågoperatörerna i planeringsprocessen för att öka effektiviteten i banunderhållet och i de kapacitetshöjande åtgärderna. Trafikverket ska också ha en dialog med de myndigheter i Norge som ansvarar för utvecklingen av järnvägen på den norska sidan som kopplar till Malmbanan och järnvägen mot Luleå, för att identifiera möjligheter till en samordnad planering av beslutade åtgärder i de båda länderna.

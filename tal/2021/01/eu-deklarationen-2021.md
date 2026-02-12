@@ -18,7 +18,7 @@ Först, vägen ur pandemin.
 Sedan respekten för EU:s grundläggande värderingar.
 Avslutningsvis, hur vi i EU bättre kan stå upp för våra gemensamma intressen.
 
-\*\*\*
+***
 
 Herr/Fru talman.
 
@@ -43,7 +43,7 @@ Vi får mycket, samtidigt som vi bidrar till andra länders utveckling, precis s
 
 Sveriges beslutade prioriteringar för EU-arbetet ligger fast: skapa flera jobb med bra arbetsvillkor; bekämpa klimatkrisen; öka säkerheten; föra en human, rättssäker och långsiktigt hållbar migrationspolitik.
 
-I EU-samarbetet har Sverige bidragit till att forma starka allianser.  Under sommarens budgetförhandlingar tog vi ett tydligt ansvar tillsammans med tre andra länder, vilket också fick ett stort genomslag.
+I EU-samarbetet har Sverige bidragit till att forma starka allianser. Under sommarens budgetförhandlingar tog vi ett tydligt ansvar tillsammans med tre andra länder, vilket också fick ett stort genomslag.
 
 Tack vare ett tidigt ledarskap har vi kunnat samla en växande skara länder bakom både en europeisk klimatlag och höjda klimatambitioner.
 Tillsammans med flera andra länder har Sverige lagt förslag om hur den inre marknaden kan utvecklas.
@@ -52,9 +52,9 @@ Och allt detta är framgångar som grundats i starka positioner som Sveriges rik
 
 EU är en union där inte bara de största bestämmer. Ett aktivt medlemsland, som Sverige, som vill vara engagerat fullt ut i EU:s kärna, kan få ett inflytande som överträffar dess storlek.
 
-Oavsett vad vi diskuterar, gör vi det med vetskapen om att Europeiska unionen är ett samarbete som Sverige har allt att vinna på.
+Oavsett vad vi diskuterar, gör vi det med vetskapen om att Europeiska unionen är ett samarbete som Sverige har allt att vinna på.
 
-\*\*\*
+***
 
 Herr/Fru talman.
 
@@ -62,7 +62,7 @@ Världen är mitt i en pandemi.
 
 I land efter land är sjuktalen tillbaka på samma nivåer som i våras. Människor avlider, alltfler blir sjuka, många fler tappar sin försörjning.
 
-När coronaviruset började sprida sig i Europa under våren agerade flera länder tvärt emot samarbetets principer.
+När coronaviruset började sprida sig i Europa under våren agerade flera länder tvärt emot samarbetets principer.
 
 Länder stängde gränser utan förvarning, och höll på medicinsk utrustning. Vi kunde inte riktigt lita på den fria rörligheten, när det verkligen gällde.
 
@@ -88,7 +88,7 @@ Samtidigt behöver vi minska klyftorna, inom medlemsländerna och mellan EU:s l�
 Ett starkt Europa, med en fullt utvecklad inre marknad, kombinerat med goda arbetsvillkor och hög levnadsstandard.
 Så bygger vi ett starkt EU som är redo för framtiden.
 
-\*\*\*
+***
 
 Herr/Fru talman.
 
@@ -124,7 +124,7 @@ Utan ömsesidigt förtroende hotas också ekonomin. Investeringar riskerar att s
 Sverige har i flera år varit starkt drivande för att utbetalningar av EU-medel ska villkoras med respekt för rättsstatens principer. Sedan årsskiftet finns nu äntligen en mekanism på plats som för första gången knyter EU:s pengar till våra gemensamma värderingar.
 Det är ett historiskt och helt nödvändigt ställningstagande.
 
-\*\*\*
+***
 
 Herr/Fru talman.
 
@@ -149,7 +149,7 @@ Terrorism, brottslighet och pandemi, migration och klimat.
 
 Ytterligare ett exempel är jobben. Vi ska arbeta för fler jobb i alla medlemsländer. Vår gemensamma marknad bjuder stora möjligheter för företagen och vi ska satsa på utbildning, forskning och innovation för ännu bättre förutsättningar. Men jobben ska vara justa, villkoren rättvisa och arbetare ska inte ställas mot arbetare. Samtidigt ska vi på inga villkor riskera den svenska modellen.
 
-\*\*\*
+***
 
 Herr/Fru talman.
 
@@ -157,7 +157,7 @@ I fjol lämnade Storbritannien EU, och sedan årsskiftet också tullunionen och 
 
 Vårt närområde är oroligt, världen är orolig.
 
-EU har tillgång till flera verktyg för att hantera utmaningarna och hoten.  Men vår union skulle kunna vara en ännu starkare aktör inom världspolitiken.
+EU har tillgång till flera verktyg för att hantera utmaningarna och hoten. Men vår union skulle kunna vara en ännu starkare aktör inom världspolitiken.
 
 Det har en avgörande betydelse när EU samlar sig och agerar enat mot en våldshandling eller inför sanktioner. Därför är det illa varje gång som enskilda länder sätter stopp för att hela unionen kommer till tals i dessa frågor.
 
@@ -169,7 +169,7 @@ Om bara några timmar avlägger Joe Biden sin ed som Förenta staternas fyrtiosj
 
 Kinas framväxt medför både möjligheter och utmaningar. Det behövs ett fördjupat samarbete mellan EU och Kina på områden som klimatomställningen och handel, ett exempel är det investeringsavtal som EU och Kina kommit överens om. Det samarbetet måste ha sin utgångspunkt i EU:s intressen och värderingar, däribland mänskliga rättigheter.
 
-\*\*\*
+***
 
 Herr/Fru talman.
 
@@ -184,4 +184,4 @@ En union som verkar för nedtrappning och dialog i en värld med högt tonläge.
 
 Sverige ska fortsätta att vara med och bygga det samarbetet.
 
-\*\*\*
+***

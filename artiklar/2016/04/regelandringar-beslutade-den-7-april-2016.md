@@ -12,4 +12,5 @@ Regeringen har beslutat om ändringar i förordningen om mätning, beräkning oc
 
 Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 19 april 2016.
 
-**Kontaktperson**Andreas Lindholm 08–405 14 54
+**Kontaktperson**
+Andreas Lindholm 08–405 14 54

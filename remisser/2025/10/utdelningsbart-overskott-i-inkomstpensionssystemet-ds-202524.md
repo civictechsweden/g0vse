@@ -1,4 +1,4 @@
-# Remiss Ds 2025:24, Utdelningsbart överskott i inkomstpensionssystemet,Diarienummer: S2025/01735
+# Remiss Ds 2025:24, Utdelningsbart överskott i inkomstpensionssystemet,
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Ds 2025:24, Utdelningsbart överskott i inkomstpensionssystemet.
 

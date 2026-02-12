@@ -22,6 +22,6 @@ styckena i artikel 10.4,
 5. lämna förslag på vilket ytmått som ska användas för kraven, i enlighet
 med tredje stycket i artikel 10.4,
 
-6. analysera och, vid behov, lämna förslag på inrättande av ett ramverk i enlighet med artikel 10.5, som inkluderar administrativa, tekniska och/eller finansiella åtgärder för att stödja en utbyggnad av solenergi i byggnader i linje med direktivets kravnivåer, och
+6. analysera och, vid behov, lämna förslag på inrättande av ett ramverk i enlighet med artikel 10.5, som inkluderar administrativa, tekniska och/eller finansiella åtgärder för att stödja en utbyggnad av solenergi i byggnader i linje med direktivets kravnivåer, och
 
-7. lämna nödvändiga författningsförslag.
+7. lämna nödvändiga författningsförslag.

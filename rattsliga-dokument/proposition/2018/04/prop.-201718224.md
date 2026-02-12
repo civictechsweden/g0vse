@@ -2,7 +2,7 @@
 
 Regeringen lämnar förslag som ska hålla samman lagstiftningen om försäkringsmedicinska utredningar. Förslagen ska stärka de försäkrades integritet och säkerhet.
 
-Regeringen föreslår att landstingen ska erbjuda Försäkringskassan försäkringsmedicinska utredningar. Utredningarna ska inte innebära någon hälso- och sjukvård i enlighet med hälso- och sjukvårdslagen.
+Regeringen föreslår att landstingen ska erbjuda Försäkringskassan försäkringsmedicinska utredningar. Utredningarna ska inte innebära någon hälso- och sjukvård i enlighet med hälso- och sjukvårdslagen.
 
 ### Läkare och sjukvårdspersonal utreder
 

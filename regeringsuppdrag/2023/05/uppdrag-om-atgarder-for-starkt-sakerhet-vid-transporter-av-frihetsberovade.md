@@ -6,4 +6,4 @@ I uppdraget ingår att titta på frågor kopplade till både planering och säke
 
 Uppdraget ska genomföras i samverkan med Statens institutionsstyrelse, Polismyndigheten och Migrationsverket samt med andra berörda aktörer.
 
-Kriminalvården ska lämna en muntlig delredovisning till Regeringskansliet (Justitiedepartementet) senast den 16 juni 2023. Uppdraget ska slutredovisas skriftligt senast den 20 oktober 2023.
+Kriminalvården ska lämna en muntlig delredovisning till Regeringskansliet (Justitiedepartementet) senast den 16 juni 2023. Uppdraget ska slutredovisas skriftligt senast den 20 oktober 2023.

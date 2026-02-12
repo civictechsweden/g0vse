@@ -1,4 +1,4 @@
-# Uppdrag till Folkhälsomyndigheten och Socialstyrelsen att genomföra nationella utvecklingsinsatser för att minska stigma vid psykisk ohälsa och suicidalitetDiarienummer:  S2025/01686
+# Uppdrag till Folkhälsomyndigheten och Socialstyrelsen att genomföra nationella utvecklingsinsatser för att minska stigma vid psykisk ohälsa och suicidalitet
 
 Regeringen uppdrar åt Folkhälsomyndigheten och Socialstyrelsen att genomföra nationella utvecklingsinsatser för att öka kunskapen om och skapa förutsättningar för att minska stigma vid psykisk ohälsa och suicidalitet.
 

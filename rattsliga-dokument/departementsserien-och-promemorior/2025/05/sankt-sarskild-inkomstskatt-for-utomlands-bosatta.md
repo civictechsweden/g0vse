@@ -1,4 +1,4 @@
-# Sänkt särskild inkomstskatt för utomlands bosattaFi2025/01068
+# Sänkt särskild inkomstskatt för utomlands bosatta
 
 I denna promemoria föreslås att skattesatsen för den särskilda inkomstskatten för utomlands bosatta ska sänkas från 25 procent till 20 procent av skattepliktig inkomst som inte utgör sjöinkomst.
 

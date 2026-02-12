@@ -1,4 +1,4 @@
-# Remiss av promemorian Ny kärnkraft i Sverige – fler möjliga platser vid kustenDiarienummer: KN2025/01872
+# Remiss av promemorian Ny kärnkraft i Sverige – fler möjliga platser vid kusten
 
 Här kan du ta del av svaren från dem som ombetts att svara på remissen av promemorian Ny kärnkraft i Sverige – fler möjliga
 platser vid kusten. Övriga yttranden finns tillgängliga i departementet.

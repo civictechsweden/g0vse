@@ -10,4 +10,4 @@ I uppdraget ingår bl.a. att
 
 Uppdraget ska redovisas senast den 20 januari 2020.
 
-[Pressmeddelande: Nya regler mot utländska månggiften](/pressmeddelanden/2018/07/nya-regler-mot-utlandska-manggiften/)
+[Pressmeddelande: Nya regler mot utländska månggiften](/pressmeddelanden/2018/07/nya-regler-mot-utlandska-manggiften/)

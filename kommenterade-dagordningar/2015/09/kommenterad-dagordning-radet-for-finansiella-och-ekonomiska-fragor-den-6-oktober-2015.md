@@ -1,6 +1,6 @@
 # Kommenterad dagordning, rådet för finansiella och ekonomiska frågor, den 6 oktober 2015
 
-På Ekofinrådets möte den 6 oktober 2015 finns följande punkter på dagordningen:
+På Ekofinrådets möte den 6 oktober 2015 finns följande punkter på dagordningen:
 
 * Obligatoriskt automatiskt utbyte av upplysningar i fråga om beskattning
 * Genomförande av bankunionen

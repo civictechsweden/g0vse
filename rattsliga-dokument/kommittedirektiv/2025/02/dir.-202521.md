@@ -5,9 +5,9 @@ En särskild utredare ska överväga vilka åtgärder som krävs för att i sven
 Utredaren ska bl.a.
 
 * analysera direktivet om bekämpning av våld mot kvinnor och våld i nära
-  relationer,
+relationer,
 * bedöma om, och i så fall vilka åtgärder som krävs för att genomföra
-  direktivet, och
+direktivet, och
 * lämna nödvändiga författningsförslag.
 
- Uppdraget ska redovisas senast den 27 maj 2026.
+Uppdraget ska redovisas senast den 27 maj 2026.

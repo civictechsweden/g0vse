@@ -1,6 +1,6 @@
 # En modern och rättssäker förvaltning – ny förvaltningslag
 
-![](/contentassets/89e1a434e6644e8296f316a138452240/prop-2016-17-180-omslag.jpg?width=150&quality=85)
+![](/contentassets/89e1a434e6644e8296f316a138452240/prop-2016-17-180-omslag.jpg?width=150&amp;quality=85)
 
 Det är viktigt att allmänheten har ett stort förtroende för att offentliga förvaltningsuppgifter sköts på ett ansvarsfullt och korrekt sätt. Förvaltningslagen ger en grundläggande och central struktur för kontakterna mellan myndigheter och enskilda vid ärendehandläggningen. Regleringen har successivt byggts ut och med tiden fått allt större betydelse i det löpande arbetet i myndigheternas verksamhet.
 

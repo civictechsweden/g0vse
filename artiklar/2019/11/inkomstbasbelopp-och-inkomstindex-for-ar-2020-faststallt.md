@@ -2,7 +2,7 @@
 
 Regeringen har fastställt inkomstbasbeloppet för år 2020 till 66 800 kronor och inkomstindex till 182,58.
 
-Den högsta inkomst som ger rätt till allmän ålderspension räknas fram med inkomstbasbeloppet. Denna inkomst motsvarar för 2020 en månadsinkomst på 44 923 kronor.
+Den högsta inkomst som ger rätt till allmän ålderspension räknas fram med inkomstbasbeloppet. Denna inkomst motsvarar för 2020 en månadsinkomst på 44 923 kronor.
 
 Inkomstindex används för att beräkna räntan i pensionssystemet både för pensionsrätter och för den årliga omräkningen av inkomst- och tilläggspension.
 

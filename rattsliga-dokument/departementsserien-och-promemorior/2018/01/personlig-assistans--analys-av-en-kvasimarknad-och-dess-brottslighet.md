@@ -4,7 +4,7 @@ En utredare har haft i uppdrag att analysera marknaden för personlig assistans 
 
 ## Assistansmarknadens utveckling
 
-Fram till år 2011 var assistansmarknaden helt oreglerad vilket förde med sig många oseriösa aktörer och fusk med skattemedel. Sedan 2013 har antalet privata aktörer inom assistansmarknaden minskat och marknaden domineras i dag av fyra stora aktörer. En uppräkning av schablonen har under senare år lett till minskade vinster för områdets aktörer. Utredningen visar att det som främst förklarar vinstnivån är anordnarnas personalkostnader. Oseriösa företag med löner och sociala förmåner som är lägre än gällande kollektivavtal har med den schablonersättning som betalas ut fått en konkurrensfördel mot andra.
+Fram till år 2011 var assistansmarknaden helt oreglerad vilket förde med sig många oseriösa aktörer och fusk med skattemedel. Sedan 2013 har antalet privata aktörer inom assistansmarknaden minskat och marknaden domineras i dag av fyra stora aktörer. En uppräkning av schablonen har under senare år lett till minskade vinster för områdets aktörer. Utredningen visar att det som främst förklarar vinstnivån är anordnarnas personalkostnader. Oseriösa företag med löner och sociala förmåner som är lägre än gällande kollektivavtal har med den schablonersättning som betalas ut fått en konkurrensfördel mot andra.
 
 Utredningen föreslår bland annat att detta skulle kunna rättas till genom att differentiera schablonersättningen. Assistansmarknaden är i dag den i särklass mest privatiserade välfärdstjänsten i Sverige.
 

@@ -288,6 +288,7 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
+            "2391",
             "1279",
             "1012",
             "1013"
@@ -311,6 +312,26 @@
             {
                 "name": "Webb-tv: Minister för civilt försvar Carl-Oskar Bohlins tal på Folk och Försvars youtubekanal- extern webbplats,",
                 "url": "https://www.youtube.com/watch?v=f7muFRKAHWY"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen deltar på Folk och Försvar",
+                "url": "/pressmeddelanden/2026/01/regeringen-deltar-pa-folk-och-forsvar/"
+            },
+            {
+                "name": "Folk och Försvars officiella webbplats- extern webbplats,",
+                "url": "https://folkochforsvar.se/rikskonferensen-2026/"
+            },
+            {
+                "name": "Program för Folk och Försvars rikskonferens 2026- extern webbplats,",
+                "url": "https://folkochforsvar.se/wp-content/uploads/program-till-hemsidan-251205-for-publicering-1.pdf"
+            },
+            {
+                "name": "Följ rikskonferensen live på Folk och Försvars Youtubekanal- extern webbplats,",
+                "url": "https://www.youtube.com/@folkochforsvar"
+            },
+            {
+                "name": "Folk och Försvars pressrum- extern webbplats,",
+                "url": "https://folkochforsvar.se/pressrum/"
             }
         ],
         "attachments": [],
@@ -357,6 +378,10 @@
             {
                 "name": "Folk och Försvars pressrum- extern webbplats,",
                 "url": "https://folkochforsvar.se/pressrum/"
+            },
+            {
+                "name": "Webb-tv: Statsministerns tal på Folk och Försvars Youtubekanal- extern webbplats,",
+                "url": "https://www.youtube.com/watch?v=dHmwJhQKA-M"
             }
         ],
         "attachments": [],
@@ -625,8 +650,18 @@
         ],
         "summary": "Regeringens prioriteringar i EU-arbetet presenterades av statsminister Ulf Kristersson vid den EU-politiska partiledardebatten i riksdagen den 12 november 2025.\n\nDet talade ordet gäller.",
         "id": null,
-        "shortcuts": [],
-        "attachments": [],
+        "shortcuts": [
+            {
+                "name": "Webb-tv: Statsministerns presentation av EU-deklarationen (riksdagens webbplats)- extern webbplats,",
+                "url": "https://www.riksdagen.se/sv/webb-tv/video/partiledardebatt/eu-politisk-partiledardebatt_hdc120251112pd/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "EU-deklarationen 12 november 2025 (pdf 62 kB)",
+                "url": "/contentassets/5ba4abd438d7456097b5ea50228b9a37/eu-deklarationen-12-november-2025.pdf"
+            }
+        ],
         "categories": [
             "1012"
         ]
@@ -701,6 +736,7 @@
         ],
         "attachments": [],
         "categories": [
+            "2391",
             "2435",
             "1279",
             "1013"
@@ -796,6 +832,7 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
+            "2391",
             "1279",
             "1013"
         ]
@@ -837,7 +874,12 @@
         "summary": "Statsminister Ulf Kristersson, riksdagen, den 9 september 2025",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Regeringsförklaringen 2025 (pdf 201 kB)",
+                "url": "/contentassets/33f9f300f0d540949aa6c4ba82f2f1c2/regeringsforklaringen-2025.pdf"
+            }
+        ],
         "categories": []
     },
     {
@@ -1163,7 +1205,16 @@
         ],
         "summary": "Kulturhuset, Stockholm, den 9 maj 2025.\n\nDet talade ordet gäller.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: EU-minister Jessica Rosencrantz uppmärksammar Europadagen",
+                "url": "/pressmeddelanden/2025/05/eu-minister-jessica-rosencrantz-uppmarksammar-europadagen/"
+            },
+            {
+                "name": "Webb-tv: Ta del av sändningen från Europadagen i efterhand",
+                "url": "/regeringens-politik/sverige-i-eu-30-ar/europadagen-2025/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2778",
@@ -1204,34 +1255,12 @@
         ]
     },
     {
-        "title": "Tal av statsminister Ulf Kristersson på Fannys Förebilder Gala Version",
-        "url": "/tal/2025/11/tal-av-statsminister-ulf-kristersson-pa-fannys-forebilder-fannys-forebilder-gala-version/",
-        "published": "2025-11-18",
-        "updated": null,
-        "types": [
-            "1338"
-        ],
-        "senders": [
-            "2605",
-            "1293"
-        ],
-        "summary": "Stockholm, den 14 november 2025.\n\nDet talade ordet gäller.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "1239",
-            "1263"
-        ]
-    },
-    {
         "title": "Statsministerns tal vid i högnivåevent om EU:s kapitalmarknader",
         "url": "/tal/2025/04/statsministerns-tal-vid-i-hognivaevent-om-eus-kapitalmarknader/",
         "published": "2025-04-03",
         "updated": null,
         "types": [
-            "1338",
-            "1343"
+            "1338"
         ],
         "senders": [
             "2605",
@@ -1282,7 +1311,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Statsministerns tal på Join Sweden Summit\n",
+                "name": "Statsministerns tal på Join Sweden Summit",
                 "url": "/tal/2025/02/statsministerns-tal-pa-join-sweden-summit/"
             }
         ],
@@ -1349,7 +1378,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Statsministern står värd för Join Sweden Summit\n",
+                "name": "Pressmeddelande: Statsministern står värd för Join Sweden Summit",
                 "url": "/pressmeddelanden/2025/02/statsministern-star-vard-for-join-sweden-summit/"
             }
         ],
@@ -1362,7 +1391,7 @@
         ]
     },
     {
-        "title": "Utrikesdeklarationen",
+        "title": "Utrikesdeklarationen 2025",
         "url": "/tal/2025/02/utrikesdeklarationen-2025/",
         "published": "2025-02-12",
         "updated": null,
@@ -1377,8 +1406,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Stödet till Ukraina, säkerhetspolitiskt samarbete och närområdet i fokus i årets utrikesdeklaration\n",
+                "name": "Pressmeddelande: Stödet till Ukraina, säkerhetspolitiskt samarbete och närområdet i fokus i årets utrikesdeklaration",
                 "url": "/pressmeddelanden/2025/02/stodet-till-ukraina-sakerhetspolitiskt-samarbete-och-naromradet-i-fokus-i-arets-utrikesdeklaration/"
+            },
+            {
+                "name": "Utrikesdeklarationen på engelska på government.se",
+                "url": "https://www.government.se/speeches/2025/02/statement-of-foreign-policy-2025/"
             }
         ],
         "attachments": [
@@ -1430,8 +1463,7 @@
         "published": "2025-02-09",
         "updated": null,
         "types": [
-            "1338",
-            "1343"
+            "1338"
         ],
         "senders": [
             "2605",
@@ -1441,7 +1473,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Statsministern bjuder in till nationell tyst minut efter våldsdådet i Örebro\n",
+                "name": "Pressmeddelande: Statsministern bjuder in till nationell tyst minut efter våldsdådet i Örebro",
                 "url": "/pressmeddelanden/2025/02/statsministern-bjuder-in-till-nationell-tyst-minut-efter-valdsdadet-i-orebro/"
             }
         ],
@@ -1477,12 +1509,16 @@
             "1338"
         ],
         "senders": [
-            "2607",
             "1292"
         ],
         "summary": "Tal av sjukvårdsminister Acko Ankarberg Johansson på Folk och Försvars rikskonferens i Sälen den 13 januari 2025.\nDet talade ordet gäller.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Se sjukvårdsministerns tal på Youtube (youtube.com)- extern webbplats,",
+                "url": "https://www.youtube.com/watch?v=v9seSprnFP0"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2248",
@@ -1584,7 +1620,12 @@
         ],
         "summary": "Finansminister Elisabeth Svantessons tal på Folk och Försvars rikskonferens i Sälen, den 14 januari 2025.\n\nDet talade ordet gäller.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Se finansministerns tal på Youtube (youtube.com)- extern webbplats,",
+                "url": "https://www.youtube.com/watch?v=xgOQnUHx7F0"
+            }
+        ],
         "attachments": [],
         "categories": []
     },
@@ -1602,7 +1643,12 @@
         ],
         "summary": "Justitieminister Gunnar Strömmers tal på Folk och Försvars rikskonferens i Sälen, den 14 januari 2025.\n\nDet talade ordet gäller.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Webb-tv: Justitieminister Gunnar Strömmers tal på Youtube- extern webbplats,",
+                "url": "https://www.youtube.com/watch?v=126-UnEZQeY"
+            }
+        ],
         "attachments": [],
         "categories": []
     },
@@ -1622,7 +1668,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Se talet på Folk och Försvars Youtubekanal\n             - extern webbplats,\n",
+                "name": "Se talet på Folk och Försvars Youtubekanal- extern webbplats,",
                 "url": "https://www.youtube.com/watch?v=j7f6fcVf43c"
             }
         ],
@@ -1648,7 +1694,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Se talet på Folk och Försvars Youtubekanal\n             - extern webbplats,\n",
+                "name": "Se talet på Folk och Försvars Youtubekanal- extern webbplats,",
                 "url": "https://www.youtube.com/watch?v=5eERpT69_wg&list=PLolutWzr0WOdl5j0pf16Nzl7WnFdGG4wC&index=2"
             }
         ],
@@ -1671,7 +1717,12 @@
         ],
         "summary": "Utrikesminister Maria Malmer Stenergards tal på Folk och försvars rikskonferens i Sälen den 12 januari 2025.\n\nDet talade ordet gäller.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Se talet på Folk och försvars youtubekanal- extern webbplats,",
+                "url": "https://www.youtube.com/watch?v=vG_YR_hQnL0"
+            }
+        ],
         "attachments": [],
         "categories": [
             "1279",
@@ -1712,11 +1763,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Vice statsminister Ebba Busch reser till USA\n",
+                "name": "Pressmeddelande: Vice statsminister Ebba Busch reser till USA",
                 "url": "/pressmeddelanden/2025/01/vice-statsminister-ebba-busch-reser-till-usa/"
             },
             {
-                "name": "Pressmeddelande: Ebba Busch tar emot pris till Sverige som ett av världens mest innovativa länder\n",
+                "name": "Pressmeddelande: Ebba Busch tar emot pris till Sverige som ett av världens mest innovativa länder",
                 "url": "/pressmeddelanden/2025/01/ebba-busch-tar-emot-pris-till-sverige-som-ett-av-varldens-mest-innovativa-lander/"
             }
         ],
@@ -1774,8 +1825,7 @@
         "published": "2024-12-21",
         "updated": null,
         "types": [
-            "1338",
-            "1343"
+            "1338"
         ],
         "senders": [
             "2605",
@@ -1818,6 +1868,7 @@
             "2707",
             "2593",
             "2675",
+            "2751",
             "2584"
         ]
     },
@@ -1962,7 +2013,12 @@
         ],
         "summary": "Regeringens prioriteringar i EU-arbetet presenterades av statsminister Ulf Kristersson vid den EU-politiska partiledardebatten i riksdagen den 13 november 2024.\n\nDet talade ordet gäller.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Webb-tv: Statsministerns presentation av EU-deklarationen på riksdagens webbplats- extern webbplats,",
+                "url": "https://www.riksdagen.se/sv/webb-tv/video/partiledardebatt/eu-politisk-partiledardebatt_hcc120241113pd/"
+            }
+        ],
         "attachments": [
             {
                 "name": "EU-deklarationen 13 november 2024 (pdf 61 kB)",
@@ -2072,7 +2128,6 @@
             "1338"
         ],
         "senders": [
-            "2622",
             "1284"
         ],
         "summary": "Tal av arbetsmarknads- och integrationsminister Mats Persson vid minnesmanifestationen i Malmö om terrordådet mot Israel den 7 oktober 2023.\n\nMalmö, 6 oktober 2024. Det talade ordet gäller.",
@@ -2115,11 +2170,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ulf Kristersson och Carl-Oskar Bohlin hedrade Estonias offer vid en minnesceremoni\n",
+                "name": "Pressmeddelande: Ulf Kristersson och Carl-Oskar Bohlin hedrade Estonias offer vid en minnesceremoni",
                 "url": "/artiklar/2024/09/ulf-kristersson-och-carl-oskar-bohlin-hedrade-estonias-offer-vid-en-minnesceremoni/"
             },
             {
-                "name": "Tal: Statsminister Ulf Kristerssons tal vid Estonias minnesceremoni\n",
+                "name": "Tal: Statsminister Ulf Kristerssons tal vid Estonias minnesceremoni",
                 "url": "/tal/2024/10/statsminister-ulf-kristerssons-tal-pa-minnesceremoni-den-7-oktober-2024/"
             }
         ],
@@ -2145,7 +2200,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Symposium - Samling mot antisemitism\n",
+                "name": "Symposium - Samling mot antisemitism",
                 "url": "/sveriges-regering/kulturdepartementet/symposium---samling-mot-antisemitism/"
             }
         ],
@@ -2190,11 +2245,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Vice statsminister Ebba Busch leder den svenska delegationen till FN:s framtidstoppmöte i New York\n",
+                "name": "Pressmeddelande: Vice statsminister Ebba Busch leder den svenska delegationen till FN:s framtidstoppmöte i New York",
                 "url": "/pressmeddelanden/2024/09/vice-statsminister-ebba-busch-leder-den-svenska-delegationen-till-fns-framtidstoppmote-i-new-york/"
             },
             {
-                "name": "Pressmeddelande: Regeringen deltar vid FN:s generalförsamlings öppnande i New York\n",
+                "name": "Pressmeddelande: Regeringen deltar vid FN:s generalförsamlings öppnande i New York",
                 "url": "/pressmeddelanden/2024/09/regeringen-deltar-vid-fns-generalforsamlings-oppnande-i-new-york/"
             }
         ],
@@ -2220,15 +2275,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Banker och finansiella institut uttrycker sitt stöd för en växande global produktion av fossilfri el från kärnkraft till 2050\n",
+                "name": "Pressmeddelande: Banker och finansiella institut uttrycker sitt stöd för en växande global produktion av fossilfri el från kärnkraft till 2050",
                 "url": "/pressmeddelanden/2024/09/banker-och-finansiella-institut-uttrycker-sitt-stod-for-en-vaxande-global-produktion-av-fossilfri-el-fran-karnkraft-till-2050/"
             },
             {
-                "name": "Pressmeddelande: Internationellt samarbete för att tredubbla den globala produktionen av kärnkraft\n",
+                "name": "Pressmeddelande: Internationellt samarbete för att tredubbla den globala produktionen av kärnkraft",
                 "url": "/artiklar/2023/12/internationellt-samarbete-for-att-tredubbla-den-globala-produktionen-av-karnkraft/"
             },
             {
-                "name": "Pressmeddelande: Vice statsminister Ebba Busch leder den svenska delegationen till FN:s framtidstoppmöte i New York\n",
+                "name": "Pressmeddelande: Vice statsminister Ebba Busch leder den svenska delegationen till FN:s framtidstoppmöte i New York",
                 "url": "/pressmeddelanden/2024/09/vice-statsminister-ebba-busch-leder-den-svenska-delegationen-till-fns-framtidstoppmote-i-new-york/"
             }
         ],
@@ -2317,11 +2372,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Klimatredovisningen\n",
+                "name": "Klimatredovisningen",
                 "url": "/informationsmaterial/2024/09/klimatredovisning/"
             },
             {
-                "name": "Pressmeddelande: Budgeten för 2025 minskar utsläppen och tar oss närmare klimatmålen\n",
+                "name": "Pressmeddelande: Budgeten för 2025 minskar utsläppen och tar oss närmare klimatmålen",
                 "url": "/pressmeddelanden/2024/09/budgeten-for-2025-minskar-utslappen-och-tar-oss-narmare-klimatmalen/"
             }
         ],
@@ -2382,7 +2437,7 @@
         ]
     },
     {
-        "title": "Regeringsförklaringen",
+        "title": "Regeringsförklaringen den 10 september 2024",
         "url": "/tal/2024/09/regeringsforklaringen-den-10-september-2024/",
         "published": "2024-09-10",
         "updated": null,
@@ -2462,7 +2517,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Pål Jonson till Asien och Oceanien\n",
+                "name": "Pressmeddelande: Pål Jonson till Asien och Oceanien",
                 "url": "/pressmeddelanden/2024/05/pal-jonson-till-asien-och-oceanien/"
             }
         ],
@@ -2508,19 +2563,14 @@
         ],
         "summary": "Det talade ordet gäller",
         "id": null,
-        "shortcuts": [
-            {
-                "name": "Veterandagen 29 maj 2024 (youtube.com)\n             - extern webbplats,\n",
-                "url": "https://www.youtube.com/watch?v=NnFYxO_LLRk"
-            }
-        ],
+        "shortcuts": [],
         "attachments": [],
         "categories": [
             "2247"
         ]
     },
     {
-        "title": " Kulturminister Parisa Liljestrands invigningsanförande  vid Järvaveckan 2024",
+        "title": "Kulturminister Parisa Liljestrands invigningsanförande  vid Järvaveckan 2024",
         "url": "/tal/2024/05/240529-tal-av-kulturminister-parisa-liljestrand-vid-invigningen-av-jarvaveckan/",
         "published": "2024-05-29",
         "updated": null,
@@ -2535,7 +2585,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Kulturminister Parisa Liljestrand och EU-minister Jessika Roswall talar vid invigningen av Järvaveckan\n",
+                "name": "Kulturminister Parisa Liljestrand och EU-minister Jessika Roswall talar vid invigningen av Järvaveckan",
                 "url": "/pressmeddelanden/2024/05/kulturminister-parisa-liljestrand-och-eu-minister-jessika-roswall-talar-vid-invigningen-av-jarvaveckan/"
             }
         ],
@@ -2558,7 +2608,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Carl-Oskar Bohlin till Washington D.C. för att stärka samarbetet inom totalförsvar och cybersäkerhet\n",
+                "name": "Pressmeddelande: Carl-Oskar Bohlin till Washington D.C. för att stärka samarbetet inom totalförsvar och cybersäkerhet",
                 "url": "/pressmeddelanden/2024/05/carl-oskar-bohlin-till-washington-d.c.-for-att-starka-samarbetet-inom-totalforsvar-och-cybersakerhet"
             }
         ],
@@ -2602,14 +2652,13 @@
             "1338"
         ],
         "senders": [
-            "2622",
             "1294"
         ],
         "summary": "Tal av utbildningsminister Mats Persson vid signeringen av rymdavtalet Artemis, den 16 april 2024.\n\nTalet hölls på engelska, det talade ordet gäller.",
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen signerar rymdavtalet Artemis\n",
+                "name": "Pressmeddelande: Regeringen signerar rymdavtalet Artemis",
                 "url": "/pressmeddelanden/2024/04/regeringen-signerar-rymdavtalet-artemis/"
             }
         ],
@@ -2655,12 +2704,24 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringens prioriteringar i utrikes- och säkerhetspolitiken med anledning av Sveriges medlemskap i Nato\n",
+                "name": "Statement of Government Policy Following Sweden’s Accession to NATO (på engelska) (government.se)",
+                "url": "https://www.government.se/speeches/2024/03/statement-of-government-policy-following-swedens-accession-to-nato/"
+            },
+            {
+                "name": "Déclaration de politique étrangère du gouvernement suédois au sujet de l’adhésion de la Suède à l’OTAN (på franska) (pdf)",
+                "url": "/contentassets/e76812c4f5fb498d95597b7c75296f5c/declaration-de-politique-etrangere-du-gouvernement-suedois-au-sujet-de-ladhesion-de-la-suede-a-lotan.pdf"
+            },
+            {
+                "name": "Pressmeddelande: Regeringens prioriteringar i utrikes- och säkerhetspolitiken med anledning av Sveriges medlemskap i Nato",
                 "url": "/pressmeddelanden/2024/03/regeringens-prioriteringar-i-utrikes--och-sakerhetspolitiken-med-anledning-av-sveriges-medlemskap-i-nato/"
             },
             {
-                "name": "Sverige i Nato\n",
+                "name": "Sverige i Nato",
                 "url": "/regeringens-politik/sverige-i-nato/"
+            },
+            {
+                "name": "Utrikesdeklarationen 2024",
+                "url": "/tal/2024/02/utrikesdeklarationen-2024/"
             }
         ],
         "attachments": [
@@ -2692,7 +2753,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Carl-Oskar Bohlin till Sydkorea och Singapore\n",
+                "name": "Pressmeddelande: Carl-Oskar Bohlin till Sydkorea och Singapore",
                 "url": "/pressmeddelanden/2024/03/carl-oskar-bohlin-till-sydkorea-och-singapore/"
             }
         ],
@@ -2718,7 +2779,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Paulina Brandberg deltar i FN-möte med fokus på ekonomisk jämställdhet\n",
+                "name": "Pressmeddelande: Paulina Brandberg deltar i FN-möte med fokus på ekonomisk jämställdhet",
                 "url": "/pressmeddelanden/2024/03/paulina-brandberg-deltar-i-fn-mote-med-fokus-pa-ekonomisk-jamstalldhet/"
             }
         ],
@@ -2746,7 +2807,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Paulina Brandberg deltar i FN-möte med fokus på ekonomisk jämställdhet\n",
+                "name": "Pressmeddelande: Paulina Brandberg deltar i FN-möte med fokus på ekonomisk jämställdhet",
                 "url": "/pressmeddelanden/2024/03/paulina-brandberg-deltar-i-fn-mote-med-fokus-pa-ekonomisk-jamstalldhet/"
             }
         ],
@@ -2796,11 +2857,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Statsminister Ulf Kristersson håller tal till nationen\n",
+                "name": "Pressmeddelande: Statsminister Ulf Kristersson håller tal till nationen",
                 "url": "/pressmeddelanden/2024/03/statsminister-ulf-kristersson-haller-tal-till-nationen/"
             },
             {
-                "name": "In English: Prime Minister Ulf Kristersson’s address to the nation\n",
+                "name": "In English: Prime Minister Ulf Kristersson’s address to the nation",
                 "url": "https://www.government.se/speeches/2024/03/prime-minister-ulf-kristerssons-address-to-the-nation/"
             }
         ],
@@ -2825,7 +2886,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen genomför ett omtag kring frågorna om cirkulär ekonomi\n",
+                "name": "Pressmeddelande: Regeringen genomför ett omtag kring frågorna om cirkulär ekonomi",
                 "url": "/pressmeddelanden/2024/03/regeringen-genomfor-ett-omtag-kring-fragorna-om-cirkular-ekonomi/"
             }
         ],
@@ -2850,11 +2911,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Artikel: Sverige fortsätter stödja Ukraina så länge det behövs\n",
+                "name": "Artikel: Sverige fortsätter stödja Ukraina så länge det behövsWebb-TV",
                 "url": "/artiklar/2024/02/sverige-fortsatter-stodja-ukraina-sa-lange-det-behovs/"
             },
             {
-                "name": "Sveriges stöd till Ukraina\n",
+                "name": "Sveriges stöd till Ukraina",
                 "url": "/regeringens-politik/sveriges-stod-till-ukraina/"
             }
         ],
@@ -2878,7 +2939,19 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Sveriges Natomedlemskap, närområdet och stödet till Ukraina fokus i utrikes- och säkerhetspolitiken\n",
+                "name": "Utrikesdeklaration med anledning av Sveriges medlemskap i Nato",
+                "url": "/tal/2024/03/utrikesdeklaration-med-anledning-av-sveriges-medlemskap-i-nato/"
+            },
+            {
+                "name": "Statement of Foreign Policy 2024 (engelska) – på government.se",
+                "url": "https://www.government.se/speeches/2024/02/statement-of-foreign-policy-2024/"
+            },
+            {
+                "name": "Déclaration de politique étrangère 2024 (franska) (pdf)",
+                "url": "/contentassets/4385a4cfea7e485bb4f2cc9e71edd015/declaration-de-politique-etrangere-2024.pdf"
+            },
+            {
+                "name": "Pressmeddelande: Sveriges Natomedlemskap, närområdet och stödet till Ukraina fokus i utrikes- och säkerhetspolitikenWebb-TV",
                 "url": "/pressmeddelanden/2024/02/sveriges-natomedlemskap-naromradet-och-stodet-till-ukraina-fokus-i-utrikes--och-sakerhetspolitiken/"
             }
         ],
@@ -2915,11 +2988,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen tillsätter utredning för att främja ett långsiktigt hållbart och konkurrenskraftigt skogsbruk\n",
+                "name": "Pressmeddelande: Regeringen tillsätter utredning för att främja ett långsiktigt hållbart och konkurrenskraftigt skogsbruk",
                 "url": "/pressmeddelanden/2024/02/regeringen-tillsatter-utredning-for-att-framja-skogsbruk-och-en-vaxande-bioekonomi/"
             },
             {
-                "name": "Debattartikel: Hög tid för en stor skogspolitisk reform\n",
+                "name": "Debattartikel: Hög tid för en stor skogspolitisk reform",
                 "url": "/debattartiklar/2024/02/hog-tid-for-en-stor-skogspolitisk-reform/"
             }
         ],
@@ -3019,7 +3092,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "EU-ministern och försvarsministern besöker Försvarshögskolan\n",
+                "name": "EU-ministern och försvarsministern besöker Försvarshögskolan",
                 "url": "/pressmeddelanden/2024/01/eu-ministern-och-forsvarsministern-besoker-forsvarshogskolan/"
             }
         ],
@@ -3086,15 +3159,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "In English: Speech by Prime Minister Ulf Kristersson at Folk och Försvars annual national conference 2024\n",
+                "name": "In English: Speech by Prime Minister Ulf Kristersson at Folk och Försvars annual national conference 2024",
                 "url": "https://www.government.se/speeches/2024/01/speech-by-prime-minister-ulf-kristersson-at-folk-och-forsvars-annual-national-conference-2024/"
             },
             {
-                "name": "Se talet i efterhand på Folk och Försvars YouTube-kanal\n             - extern webbplats,\n",
+                "name": "Se talet i efterhand på Folk och Försvars YouTube-kanal- extern webbplats,",
                 "url": "https://www.youtube.com/watch?v=gKdBjeddGzE"
             },
             {
-                "name": "Pressmeddelande: Statsministern och flera statsråd deltar på Folk och Försvar i Sälen\n",
+                "name": "Pressmeddelande: Statsministern och flera statsråd deltar på Folk och Försvar i Sälen",
                 "url": "/pressmeddelanden/2023/12/statsministern-och-flera-statsrad-deltar-pa-folk-och-forsvar-i-salen/"
             }
         ],
@@ -3121,7 +3194,20 @@
         ],
         "summary": "Folk och Försvars Rikskonferens i Sälen, den 7 januari 2024.\n\nDet talade ordet gäller.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Folk och Försvars Rikskonferens 2024- extern webbplats,",
+                "url": "https://folkochforsvar.se/themepage/folk-och-forsvars-rikskonferens-2024/"
+            },
+            {
+                "name": "Folk och Försvars YouTube-kanal- extern webbplats,",
+                "url": "https://www.youtube.com/@folkochforsvar"
+            },
+            {
+                "name": "Folk och Försvars pressrum för Rikskonferensen- extern webbplats,",
+                "url": "https://folkochforsvar.se/pressrum/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "1264",
@@ -3146,7 +3232,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "In English: Speech by Minister for Civil Defence Carl-Oskar Bohlin at Folk och Försvars annual national conference in Sälen on the 7th of January 2024\n",
+                "name": "In English: Speech by Minister for Civil Defence Carl-Oskar Bohlin at Folk och Försvars annual national conference in Sälen on the 7th of January 2024",
                 "url": "https://www.government.se/speeches/2024/01/speech-by-minister-for-civil-defence-carl-oskar-bohlin-at-folk-och-forsvars-annual-national-conference-in-salen-on-the-7th-of-january-2024/"
             }
         ],
@@ -3240,7 +3326,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Webb-tv: Statsministerns jultal\n",
+                "name": "Webb-tv: Statsministerns jultal",
                 "url": "/pressmeddelanden/2023/12/statsministerns-jultal/"
             }
         ],
@@ -3301,7 +3387,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Statsministern deltar i kippavandring tillsammans med åtta av regeringens statsråd\n",
+                "name": "Pressmeddelande: Statsministern deltar i kippavandring tillsammans med åtta av regeringens statsråd",
                 "url": "/pressmeddelanden/2023/12/statsministern-deltar-i-kippavandring-tillsammans-med-atta-av-regeringens-statsrad/"
             }
         ],
@@ -3363,15 +3449,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Minister for Foreign Affairs Tobias Billström delivered policy speech on Belarus – på government.se\n",
+                "name": "Minister for Foreign Affairs Tobias Billström delivered policy speech on Belarus – på government.se",
                 "url": "https://www.government.se/speeches/2023/11/minister-for-foreign-affairs-tobias-billstrom-delivered-policy-speech-on-belarus/"
             },
             {
-                "name": "Pressmeddelande: Tobias Billström besöker Vilnius för att diskutera Belarus\n",
+                "name": "Pressmeddelande: Tobias Billström besöker Vilnius för att diskutera Belarus",
                 "url": "/pressmeddelanden/2023/11/tobias-billstrom-besoker-vilnius-for-att-diskutera-belarus/"
             },
             {
-                "name": "Christina Johannesson är ny representant gentemot de belarusiska demokratiska krafterna i exil\n",
+                "name": "Christina Johannesson är ny representant gentemot de belarusiska demokratiska krafterna i exil",
                 "url": "/pressmeddelanden/2023/11/christina-johannesson-ar-ny-representant-gentemot-de-belarusiska-demokratiska-krafterna-i-exil/"
             }
         ],
@@ -3398,7 +3484,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Statsministern håller inledningstal på gala mot mäns våld mot kvinnor\n",
+                "name": "Pressmeddelande: Statsministern håller inledningstal på gala mot mäns våld mot kvinnor",
                 "url": "/pressmeddelanden/2023/11/statsministern-haller-inledningstal-pa-gala-mot-mans-vald-mot-kvinnor/"
             }
         ],
@@ -3419,7 +3505,12 @@
         ],
         "summary": "Regeringens prioriteringar i EU-arbetet presenterades av statsminister Ulf Kristersson vid den EU-politiska partiledardebatten i riksdagen den 15 november 2023.\n\nDet talade ordet gäller.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Webb-tv: Statsministerns presentation av EU-deklarationen på riksdagens webbplats- extern webbplats,",
+                "url": "https://www.riksdagen.se/sv/webb-tv/video/partiledardebatt/eu-politisk-partiledardebatt_hbc120231115pd/"
+            }
+        ],
         "attachments": [
             {
                 "name": "EU-deklarationen 15 november 2023 (pdf 73 kB)",
@@ -3486,12 +3577,16 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Artikel: Ulf Kristersson deltog vid Nordiska rådets session i Oslo\n",
+                "name": "Artikel: Ulf Kristersson deltog vid Nordiska rådets session i Oslo",
                 "url": "/artiklar/2023/11/ulf-kristersson-deltog-vid-nordiska-radets-session-i-oslo/"
             },
             {
-                "name": "Ett säkrare, grönare, friare Norden – Program för Sveriges ordförandeskap i Nordiska ministerrådet 2024 (på Nordiska rådets webbplats)\n             - extern webbplats,\n",
+                "name": "Ett säkrare, grönare, friare Norden – Program för Sveriges ordförandeskap i Nordiska ministerrådet 2024 (på Nordiska rådets webbplats)- extern webbplats,",
                 "url": "https://pub.norden.org/politiknord2023-730/index.html"
+            },
+            {
+                "name": "Mer om Nordiska ministerrådet- extern webbplats,",
+                "url": "https://www.norden.org/sv/nordiska-ministerradet"
             }
         ],
         "attachments": [],
@@ -3556,11 +3651,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Statsminister Ulf Kristersson håller tal till nationen\n",
+                "name": "Pressmeddelande: Statsminister Ulf Kristersson håller tal till nationenWebb-TV",
                 "url": "/pressmeddelanden/2023/09/statsminister-ulf-kristersson-haller-tal-till-nationen/"
             },
             {
-                "name": "In English: Prime Minister Ulf Kristersson’s address to the nation\n",
+                "name": "In English: Prime Minister Ulf Kristersson’s address to the nation",
                 "url": "https://www.government.se/speeches/2023/09/prime-minister-ulf-kristerssons-address-to-the-nation/"
             }
         ],
@@ -3585,11 +3680,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: H.M. Konungens 50 år på tronen högtidlighålls med allmän flaggdag 15 september\n",
+                "name": "Pressmeddelande: H.M. Konungens 50 år på tronen högtidlighålls med allmän flaggdag 15 september",
                 "url": "/pressmeddelanden/2023/09/h.m.-konungens-50-ar-pa-tronen-hogtidlighalls-med-allman-flaggdag-15-september"
             },
             {
-                "name": "Pressmeddelande: Gåva från riksdag och regering med anledning av kungens femtioåriga regeringsjubileum\n",
+                "name": "Pressmeddelande: Gåva från riksdag och regering med anledning av kungens femtioåriga regeringsjubileum",
                 "url": "/pressmeddelanden/2023/09/gava-fran-riksdag-och-regering-med-anledning-av-kungens-femtioariga-regeringsjubileum/"
             }
         ],
@@ -3612,7 +3707,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Gåva från riksdag och regering med anledning av kungens femtioåriga regeringsjubileum\n",
+                "name": "Pressmeddelande: Gåva från riksdag och regering med anledning av kungens femtioåriga regeringsjubileum",
                 "url": "/pressmeddelanden/2023/09/gava-fran-riksdag-och-regering-med-anledning-av-kungens-femtioariga-regeringsjubileum/"
             }
         ],
@@ -3785,7 +3880,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Paulina Brandberg deltar i ILO:s internationella arbetskonferens i Genève\n",
+                "name": "Pressmeddelande: Paulina Brandberg deltar i ILO:s internationella arbetskonferens i Genève",
                 "url": "/pressmeddelanden/2023/06/paulina-brandberg-deltar-i-ilos-internationella-arbetskonferens-i-geneve/"
             }
         ],
@@ -4048,11 +4143,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Om Single Market Forum (SIMFO) 2 maj\n             - extern webbplats,\n",
+                "name": "Om Single Market Forum (SIMFO) 2 maj- extern webbplats,",
                 "url": "https://swedish-presidency.consilium.europa.eu/sv/evenemang/single-market-forum-simfo-25/"
             },
             {
-                "name": "In English: Opening speech by Prime Minister Ulf Kristersson at the Single Market Forum Conference\n",
+                "name": "In English: Opening speech by Prime Minister Ulf Kristersson at the Single Market Forum Conference",
                 "url": "https://www.government.se/speeches/2023/05/opening-speech-by-prime-minister-ulf-kristersson-at-the-single-market-forum-conference/"
             }
         ],
@@ -4098,7 +4193,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "In English: Prime Minister Ulf Kristersson’s speech at the opening of the Nordic Office of the World Jewish Congress\n",
+                "name": "In English: Prime Minister Ulf Kristersson’s speech at the opening of the Nordic Office of the World Jewish Congress",
                 "url": "https://www.government.se/speeches/2023/04/prime-minister-ulf-kristerssons-speech-at-the-opening-of-the-nordic-office-of-the-world-jewish-congress/"
             }
         ],
@@ -4140,11 +4235,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "In English: Prime Minister Ulf Kristersson’s speech at the Donors' Conference - Together for the people in Türkiye and Syria\n",
+                "name": "In English: Prime Minister Ulf Kristersson’s speech at the Donors' Conference - Together for the people in Türkiye and Syria",
                 "url": "https://www.government.se/speeches/2023/03/prime-minister-ulf-kristerssons-speech-at-the-donors-conference---together-for-the-people-in-turkiye-and-syria/"
             },
             {
-                "name": "Pressmeddelande: En halv miljard i svenskt stöd till jordbävningsdrabbade i Turkiet och Syrien\n",
+                "name": "Pressmeddelande: En halv miljard i svenskt stöd till jordbävningsdrabbade i Turkiet och Syrien",
                 "url": "/pressmeddelanden/2023/03/en-halv-miljard-i-svenskt-stod-till-jordbavningsdrabbade-i-turkiet-och-syrien/"
             }
         ],
@@ -4167,7 +4262,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "In English: Prime Minister Ulf Kristersson’s speech at Hertie School\n",
+                "name": "In English: Prime Minister Ulf Kristersson’s speech at Hertie School",
                 "url": "https://www.government.se/speeches/2023/03/prime-minister-ulf-kristerssons-speech-at-hertie-school/"
             }
         ],
@@ -4193,7 +4288,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Socialminister Jakob Forssmed reser till Wien\n",
+                "name": "Pressmeddelande: Socialminister Jakob Forssmed reser till Wien",
                 "url": "/pressmeddelanden/2023/03/socialminister-jakob-forssmed-reser-till-wien/"
             }
         ],
@@ -4219,7 +4314,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Paulina Brandberg deltar i FN-möte om jämställdhet\n",
+                "name": "Pressmeddelande: Paulina Brandberg deltar i FN-möte om jämställdhet",
                 "url": "/pressmeddelanden/2023/03/paulina-brandberg-deltar-i-fn-mote-om-jamstalldhet/"
             }
         ],
@@ -4245,7 +4340,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Rysslands invasion av Ukraina\n",
+                "name": "Rysslands invasion av Ukraina",
                 "url": "/regeringens-politik/sveriges-stod-till-ukraina/"
             }
         ],
@@ -4270,7 +4365,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Rysslands invasion av Ukraina\n",
+                "name": "Rysslands invasion av Ukraina",
                 "url": "/regeringens-politik/sveriges-stod-till-ukraina/"
             }
         ],
@@ -4292,7 +4387,20 @@
         ],
         "summary": "Regeringens utrikesdeklaration presenterades av utrikesminister Tobias Billström vid 2023 års utrikespolitiska debatt i riksdagen onsdagen den 15 februari 2023.\n\nDet talade ordet gäller.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Statement of Foreign Policy 2023 (på engelska)",
+                "url": "https://www.government.se/speeches/2023/02/statement-of-foreign-policy-2023/"
+            },
+            {
+                "name": "Déclaration de politique étrangère 2023 (på franska) (pdf)",
+                "url": "/contentassets/2d54e38614064857b7018ebbe847d982/declaration-de-politique-etrangere-2023.pdf"
+            },
+            {
+                "name": "Заява Уряду про зовнішню політику 2023 року (på ukrainska) (pdf)",
+                "url": "/contentassets/2d54e38614064857b7018ebbe847d982/-----2023-.pdf"
+            }
+        ],
         "attachments": [
             {
                 "name": "Utrikesdeklarationen 2023 (pdf 130 kB)",
@@ -4327,7 +4435,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Samarbete med strategiska partners i fokus på konferens om försvar och säkerhet (sweden2023.eu)\n             - extern webbplats,\n",
+                "name": "Samarbete med strategiska partners i fokus på konferens om försvar och säkerhet (sweden2023.eu)- extern webbplats,",
                 "url": "https://swedish-presidency.consilium.europa.eu/sv/nyheter/samarbete-med-strategiska-partners-i-fokus-paa-eu-ordfoerandeskapskonferens-om-foersvar-och-saekerhet/"
             }
         ],
@@ -4381,7 +4489,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Kulturministern inviger Folk och Kultur 2023\n",
+                "name": "Pressmeddelande: Kulturministern inviger Folk och Kultur 2023",
                 "url": "/pressmeddelanden/2023/02/kulturministern-inviger-folk-och-kultur-2023/"
             }
         ],
@@ -4405,7 +4513,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Artikel: Paulina Brandberg hedrade Förintelsens offer\n",
+                "name": "Artikel: Paulina Brandberg hedrade Förintelsens offer",
                 "url": "/artiklar/2023/01/paulina-brandberg-hedrade-forintelsens-offer/"
             }
         ],
@@ -4724,7 +4832,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Demokrati i fokus när kulturministern talade på konferens\n",
+                "name": "Pressmeddelande: Demokrati i fokus när kulturministern talade på konferens",
                 "url": "/pressmeddelanden/2022/12/demokrati-i-fokus-nar-kulturministern-talade-pa-konferens/"
             }
         ],
@@ -4767,7 +4875,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Hållbart byggande i trä i fokus när vice statsminister Ebba Busch besöker Finland\n",
+                "name": "Pressmeddelande: Hållbart byggande i trä i fokus när vice statsminister Ebba Busch besöker Finland",
                 "url": "/pressmeddelanden/2022/11/hallbart-byggande-i-tra-i-fokus-nar-vice-statsminister-ebba-busch-besoker-finland/"
             }
         ],
@@ -4822,7 +4930,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Rysslands invasion av Ukraina\n",
+                "name": "Rysslands invasion av Ukraina",
                 "url": "/regeringens-politik/sveriges-stod-till-ukraina/"
             }
         ],
@@ -4836,7 +4944,7 @@
         ]
     },
     {
-        "title": "Utrikesminister Billströms anförande vid  Svenska FN-förbundets seminarium på FN-dagen ",
+        "title": "Utrikesminister Billströms anförande vid  Svenska FN-förbundets seminarium på FN-dagen",
         "url": "/tal/2022/10/utrikesminister-billstroms-anforande-vid--svenska-fn-forbundets-seminarium-pa-fn-dagen/",
         "published": "2022-10-24",
         "updated": null,
@@ -4897,7 +5005,7 @@
         "attachments": [
             {
                 "name": "Utrikesdeklarationen juni 2022 (pdf 106 kB)",
-                "url": "/globalassets/regeringen/bilder/utrikesdepartementet/utrikesdeklarationen/utrikesdeklarationen-juni-2022.pdf"
+                "url": "/globalassets/regeringen/bilder/utrikesdepartementet/ovriga-kategorier/utrikesdeklarationen/utrikesdeklarationen-juni-2022.pdf"
             }
         ],
         "categories": [
@@ -4965,28 +5073,6 @@
         "categories": []
     },
     {
-        "title": "Regeringsförklaringen den 14 september 2021",
-        "url": "/tal/2021/09/regeringsforklaring-den-14-september-2021/",
-        "published": "2021-09-14",
-        "updated": null,
-        "types": [
-            "1338"
-        ],
-        "senders": [
-            "1293"
-        ],
-        "summary": "Statsminister Stefan Löfven, riksdagen, den 14 september 2021.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Regeringsförklaringen den 14 september 2021 (pdf 222 kB)",
-                "url": "/contentassets/9a1d297694724f80b8a7663b8b2c3d41/regeringsforklaringen-den-14-september-2021.pdf"
-            }
-        ],
-        "categories": []
-    },
-    {
         "title": "Utrikesdeklarationen 2021",
         "url": "/tal/2021/02/utrikesdeklarationen/",
         "published": "2021-02-24",
@@ -5038,16 +5124,8 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Bilder från EU-politiska debatten i riksdagen den 20 januari 2021\n             - extern webbplats,\n",
+                "name": "Bilder från EU-politiska debatten i riksdagen den 20 januari 2021- extern webbplats,",
                 "url": "https://rkbild.se/fotoweb/archives/5000-Bildbank/?q=210120%20EU-politisk%20debatt"
-            },
-            {
-                "name": "EU-deklarationen 2019\n",
-                "url": "/tal/20192/11/eu-deklarationen-2019/"
-            },
-            {
-                "name": "Sverige i EU\n",
-                "url": "/sverige-i-eu/"
             }
         ],
         "attachments": [
@@ -5059,29 +5137,6 @@
         "categories": [
             "1012"
         ]
-    },
-    {
-        "title": "Regeringsförklaringen den 8 september 2020",
-        "url": "/tal/2020/09/regeringsforklaringen-den-8-september-2020/",
-        "published": "2020-09-08",
-        "updated": null,
-        "types": [
-            "1338"
-        ],
-        "senders": [
-            "1296",
-            "1293"
-        ],
-        "summary": "Statsminister Stefan Löfven, riksdagen, den 8 september 2020.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Regeringsförklaringen den 8 september 2020 (pdf 201 kB)",
-                "url": "/contentassets/ce03609c8330499480cd35a00aad4912/regeringsforklaringen-den-8-september-2020.pdf"
-            }
-        ],
-        "categories": []
     },
     {
         "title": "Utrikesdeklarationen 2020",
@@ -5117,58 +5172,6 @@
         ]
     },
     {
-        "title": "EU-deklarationen 2019 ",
-        "url": "/tal/20192/11/eu-deklarationen-2019/",
-        "published": "2019-11-13",
-        "updated": null,
-        "types": [
-            "1338"
-        ],
-        "senders": [
-            "1293"
-        ],
-        "summary": "Statsminister Stefan Löfven, riksdagen, den 13 november 2019.",
-        "id": null,
-        "shortcuts": [
-            {
-                "name": "Sverige i EU\n",
-                "url": "/sverige-i-eu/"
-            }
-        ],
-        "attachments": [
-            {
-                "name": "EU-deklarationen (pdf 117 kB)",
-                "url": "/contentassets/5af5056ba20d423cbbb1bdfea92d365b/eu-deklarationen.pdf"
-            }
-        ],
-        "categories": [
-            "1012"
-        ]
-    },
-    {
-        "title": "Regeringsförklaringen den 10 september 2019 ",
-        "url": "/tal/20192/09/regeringsforklaringen-den-10-september-2019/",
-        "published": "2019-09-10",
-        "updated": null,
-        "types": [
-            "1338"
-        ],
-        "senders": [
-            "1296",
-            "1293"
-        ],
-        "summary": "Statsminister Stefan Löfven, riksdagen, den 10 september 2019.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Regeringsförklaringen den 10 september 2019 (pdf 260 kB)",
-                "url": "/contentassets/85873e3e6b5b46778d713e5143bdd66f/regeringsforklaringen-den-10-september-2019.pdf"
-            }
-        ],
-        "categories": []
-    },
-    {
         "title": "Utrikesdeklarationen 2019",
         "url": "/tal/20192/02/utrikesdeklarationen-2019/",
         "published": "2019-02-13",
@@ -5181,7 +5184,12 @@
         ],
         "summary": "Regeringens utrikesdeklaration presenterades av utrikesminister Margot Wallström vid 2019 års utrikespolitiska debatt i riksdagen onsdagen den 13 februari.\nDet talade ordet gäller.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Utrikesdeklarationen 2019 (engelska)",
+                "url": "/globalassets/regeringen/dokument/utrikesdepartementet/utrikesdeklarationen2019_engelska2.pdf"
+            }
+        ],
         "attachments": [
             {
                 "name": "Utrikesdeklarationen 2019 (pdf 130 kB)",
@@ -5196,29 +5204,6 @@
             "1012",
             "1013"
         ]
-    },
-    {
-        "title": "Regeringsförklaringen den 21 januari 2019",
-        "url": "/tal/20192/01/regeringsforklaringen-den-21-januari-2019/",
-        "published": "2019-01-21",
-        "updated": null,
-        "types": [
-            "1338"
-        ],
-        "senders": [
-            "1296",
-            "1293"
-        ],
-        "summary": "Statsminister Stefan Löfven, riksdagen, den 21 januari 2019.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Regeringsförklaringen 2019 (pdf 201 kB)",
-                "url": "/contentassets/6e0630547665482eaf982c4777f42f85/regeringsforklaringen-2019.pdf"
-            }
-        ],
-        "categories": []
     },
     {
         "title": "Anförande av Olof Skoog, Sveriges ständige representant till Förenta nationerna, vid FN:s säkerhetsråds debatt om icke-spridning",
@@ -5255,11 +5240,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Utrikesdeklarationen 2018 (svenska)\n",
+                "name": "Utrikesdeklarationen 2018 (svenska)",
                 "url": "/tal/2018/02/utrikesdeklarationen-2018/"
             },
             {
-                "name": "Statement of Foreign Policy 2018 (English)\n",
+                "name": "Statement of Foreign Policy 2018 (English)",
                 "url": "https://www.government.se/speeches/2018/02/the-governments-statement-of-foreign-policy-2018/"
             }
         ],
@@ -5292,11 +5277,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Utrikesdeklarationen 2018 (svenska)\n",
+                "name": "Utrikesdeklarationen 2018 (svenska)",
                 "url": "/tal/2018/02/utrikesdeklarationen-2018/"
             },
             {
-                "name": "Statement of Foreign Policy 2018 (English)\n",
+                "name": "Statement of Foreign Policy 2018 (English)",
                 "url": "https://www.government.se/speeches/2018/02/the-governments-statement-of-foreign-policy-2018/"
             }
         ],
@@ -5329,11 +5314,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Utrikesdeklarationen 2018 (svenska)\n",
+                "name": "Utrikesdeklarationen 2018 (svenska)",
                 "url": "/contentassets/bf6301faf78d475ca01a8f432e0bfb15/utrikesdeklarationen-2018-svenska/"
             },
             {
-                "name": "Utrikesdeklarationen 2018 (engelska)\n",
+                "name": "Utrikesdeklarationen 2018 (engelska)",
                 "url": "/contentassets/bf6301faf78d475ca01a8f432e0bfb15/utrikesdeklarationen-2018-engelska/"
             }
         ],
@@ -5346,29 +5331,6 @@
             "1012",
             "1013"
         ]
-    },
-    {
-        "title": "Regeringsförklaringen den 12 september 2017",
-        "url": "/tal/2017/09/regeringsforklaringen-den-12-september-2017/",
-        "published": "2017-09-12",
-        "updated": null,
-        "types": [
-            "1338"
-        ],
-        "senders": [
-            "1296",
-            "1293"
-        ],
-        "summary": "Statsminister Stefan Löfven, riksdagen, den 12 september 2017.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Regeringsförklaringen 2017 (pdf 194 kB)",
-                "url": "/contentassets/2c1a5ff9c9204c12bb62257ee7775aab/regeringsforklaringen-2017.pdf"
-            }
-        ],
-        "categories": []
     },
     {
         "title": "Utrikesdeklarationen 2017",
@@ -5385,11 +5347,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Utrikesdeklarationen 2017 (svenska)\n",
+                "name": "Utrikesdeklarationen 2017 (svenska)",
                 "url": "/contentassets/b7cf8b05ddad4781883354c1c9bb2481/utrikesdeklarationen-2017-svenska.pdf"
             },
             {
-                "name": "Utrikesdeklarationen 2017 (engelska)\n",
+                "name": "Utrikesdeklarationen 2017 (engelska)",
                 "url": "/contentassets/b7cf8b05ddad4781883354c1c9bb2481/utrikesdeklarationen-2017-engelska.pdf"
             }
         ],
@@ -5462,29 +5424,6 @@
             "1279",
             "1013"
         ]
-    },
-    {
-        "title": "Regeringsförklaringen den 13 september 2016",
-        "url": "/tal/2016/09/regeringsforklaringen-den-15-september-2015/",
-        "published": "2016-09-13",
-        "updated": null,
-        "types": [
-            "1338"
-        ],
-        "senders": [
-            "1296",
-            "1293"
-        ],
-        "summary": "Statsminister Stefan Löfven, riksdagen, den 13 september 2016.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Regeringsförklaringen 2016 (pdf 202 kB)",
-                "url": "/contentassets/330217d4abda464a97cfe3b0f0214317/regeringsforklaringen-sv-2016.pdf"
-            }
-        ],
-        "categories": []
     },
     {
         "title": "Statement of Government Policy in the Parliamentary Debate on Foreign Affairs 2016",
@@ -5583,7 +5522,20 @@
         ],
         "summary": "Regeringens deklaration presenterades vid 2016 års utrikespolitiska debatt i riksdagen onsdagen den 24 februari 2016. \n\nDet talade ordet gäller.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Utrikesdeklarationen 2016 (engelska)",
+                "url": "/tal/2016/02/statement-of-government-policy-in-the-parliamentary-debate-on-foreign-affairs-2016/"
+            },
+            {
+                "name": "Utrikesdeklarationen 2016 (spanska)",
+                "url": "/tal/2016/03/declaracion-de-politica-exterior-20162/"
+            },
+            {
+                "name": "Utrikesdeklarationen 2016 (franska)",
+                "url": "/tal/2016/03/declaration-de-politique-etrangere-2016/"
+            }
+        ],
         "attachments": [
             {
                 "name": "Utrikesdeklarationen 2016 (pdf 162 kB)",
@@ -5599,7 +5551,7 @@
         ]
     },
     {
-        "title": "Anförande vid öppen debatt om resolution 1325 i FN:s säkerhetsråd ",
+        "title": "Anförande vid öppen debatt om resolution 1325 i FN:s säkerhetsråd",
         "url": "/tal/2015/10/resolution-1325/",
         "published": "2015-10-14",
         "updated": null,
@@ -5619,29 +5571,6 @@
         ]
     },
     {
-        "title": "Regeringsförklaringen den 15 september 2015",
-        "url": "/tal/2015/09/regeringsforklaringen-den-15-september-2015/",
-        "published": "2015-09-15",
-        "updated": null,
-        "types": [
-            "1338"
-        ],
-        "senders": [
-            "1296",
-            "1293"
-        ],
-        "summary": "Statsminister Stefan Löfven, riksdagen, 15 september 2015.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Regeringsförklaringen 2015 (pdf 2 MB)",
-                "url": "/contentassets/dd95ef69eafa4f6dadcac0c2b7855652/regeringsforklaringen-2015.pdf"
-            }
-        ],
-        "categories": []
-    },
-    {
         "title": "Svenskt avslutningsanförande - FN:s råd för mänskliga rättigheter 26 juni 2015",
         "url": "/tal/2015/06/sveriges-avslutningsanforande-fns-rad-for-manskliga-rattigheter-26-juni-2015/",
         "published": "2015-06-26",
@@ -5654,7 +5583,12 @@
         ],
         "summary": "Sveriges avslutningsanförande vid utfallet av Sveriges granskning i FN:s råd för mänskliga rättigheter inom ramen för den allmänna ländergranskningen, Universal Periodic Review (UPR), 26 juni 2015.\n\nSveriges anföranden levererade av ambassadör Jan Knutsson. Det talade ordet gäller.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Svenskt öppningsanförande - FN:s råd för mänskliga rättigheter 26 juni 2015",
+                "url": "/tal/2015/06/svenska-oppningsanforandet-un-human-rights-council-26-juni-2015/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "1219",
@@ -5674,7 +5608,12 @@
         ],
         "summary": "Sveriges öppningsanförande vid utfallet av Sveriges granskning i FN:s råd för mänskliga rättigheter inom ramen för den allmänna ländergranskningen, Universal Periodic Review (UPR), 26 juni 2015.\n \nSveriges anföranden levererade av ambassadör Jan Knutsson.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Svenskt avslutningsanförande - FN:s råd för mänskliga rättigheter 26 juni 2015",
+                "url": "/tal/2015/06/sveriges-avslutningsanforande-fns-rad-for-manskliga-rattigheter-26-juni-2015/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "1219",
@@ -5709,26 +5648,28 @@
         ]
     },
     {
-        "title": "Regeringsförklaringen 3 oktober 2014",
-        "url": "/tal/2014/10/regeringsforklaringen-3-oktober-2014/",
-        "published": "2014-10-03",
+        "title": "Utrikesdeklarationen 2014",
+        "url": "/tal/2014/02/utrikesdeklarationen-2014/",
+        "published": "2014-02-19",
         "updated": null,
         "types": [
             "1338"
         ],
         "senders": [
-            "1293"
+            "1295"
         ],
-        "summary": "Stefan Löfven, riksdagen, den 3 oktober 2014.",
         "id": null,
         "shortcuts": [],
         "attachments": [
             {
-                "name": "Regeringsförklaringen 3 oktober 2014 (pdf 116 kB)",
-                "url": "/contentassets/436960c05f524109b8a020b879efd76b/regeringsforklaringen-3-oktober-2014/"
+                "name": "Utrikesdeklarationen 2014 (pdf 149 kB)",
+                "url": "/contentassets/aa831668e1b04b998572d35d0148e8d0/utrikesdeklarationen-2014/"
             }
         ],
-        "categories": []
+        "categories": [
+            "1235",
+            "1215"
+        ]
     },
     {
         "title": "Statement of Government Policy in the Parliamentary Debate on Foreign Affairs 2014",
@@ -5747,30 +5688,6 @@
             {
                 "name": "Statement of Government Policy in the Parliamentary Debate on Foreign Affairs 2014 (pdf 367 kB)",
                 "url": "/contentassets/8c7ad3351369469297582589d8425334/statement-of-government-policy-in-the-parliamentary-debate-on-foreign-affairs-2014/"
-            }
-        ],
-        "categories": [
-            "1235",
-            "1215"
-        ]
-    },
-    {
-        "title": "Utrikesdeklarationen 2014",
-        "url": "/tal/2014/02/utrikesdeklarationen-2014/",
-        "published": "2014-02-19",
-        "updated": null,
-        "types": [
-            "1338"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Utrikesdeklarationen 2014 (pdf 149 kB)",
-                "url": "/contentassets/aa831668e1b04b998572d35d0148e8d0/utrikesdeklarationen-2014/"
             }
         ],
         "categories": [
@@ -5871,30 +5788,6 @@
         "categories": []
     },
     {
-        "title": "Utrikesdeklarationen 2012 ",
-        "url": "/tal/2012/02/utrikesdeklarationen-2012-/",
-        "published": "2012-02-15",
-        "updated": null,
-        "types": [
-            "1338"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Regeringens deklaration vid 2012 års utrikespolitiska debatt i Riksdagen onsdagen den 15 februari 2012 (pdf 421 kB)",
-                "url": "/contentassets/df1c87d529434a57a7bbd3f624740a91/regeringens-deklaration-vid-2012-ars-utrikespolitiska-debatt-i-riksdagen-onsdagen-den-15-februari-2012/"
-            }
-        ],
-        "categories": [
-            "1235",
-            "1215"
-        ]
-    },
-    {
         "title": "Statement of Government Policy in the Parliamentary Debate on Foreign Affairs 2012",
         "url": "/tal/2012/02/statement-of-government-policy-in-the-parliamentary-debate-on-foreign-affairs-2012/",
         "published": "2012-02-15",
@@ -5911,6 +5804,30 @@
             {
                 "name": "Statement of Government Policy in the Parliamentary Debate on Foreign Affairs 2011 (pdf 405 kB)",
                 "url": "/contentassets/90e59d9089a54dcc9e2e4866d625a6b5/statement-of-government-policy-in-the-parliamentary-debate-on-foreign-affairs-2011/"
+            }
+        ],
+        "categories": [
+            "1235",
+            "1215"
+        ]
+    },
+    {
+        "title": "Utrikesdeklarationen 2012",
+        "url": "/tal/2012/02/utrikesdeklarationen-2012-/",
+        "published": "2012-02-15",
+        "updated": null,
+        "types": [
+            "1338"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Regeringens deklaration vid 2012 års utrikespolitiska debatt i Riksdagen onsdagen den 15 februari 2012 (pdf 421 kB)",
+                "url": "/contentassets/df1c87d529434a57a7bbd3f624740a91/regeringens-deklaration-vid-2012-ars-utrikespolitiska-debatt-i-riksdagen-onsdagen-den-15-februari-2012/"
             }
         ],
         "categories": [
@@ -5939,6 +5856,34 @@
             }
         ],
         "categories": []
+    },
+    {
+        "title": "Déclaration du Gouvernement à l'ouverture du débat 2011",
+        "url": "/tal/2011/02/declaration-du-gouvernement-a-louverture-du-debat-2011/",
+        "published": "2011-02-16",
+        "updated": null,
+        "types": [
+            "1338"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Déclaration du Gouvernement à l'ouverture du débat 2011 (pdf 471 kB)",
+                "url": "/contentassets/4b02837b06ec4971ba588e0155e150ce/declaration-du-gouvernement-a-louverture-du-debat-2011/"
+            },
+            {
+                "name": "Printable version (pdf 471 kB)",
+                "url": "/contentassets/4b02837b06ec4971ba588e0155e150ce/printable-version/"
+            }
+        ],
+        "categories": [
+            "1235",
+            "1215"
+        ]
     },
     {
         "title": "Utrikesdeklarationen 2011",
@@ -5989,34 +5934,6 @@
             {
                 "name": "Printable version (pdf 713 kB)",
                 "url": "/contentassets/a704aeebcf5c49db81ba3712367d74ca/printable-version/"
-            }
-        ],
-        "categories": [
-            "1235",
-            "1215"
-        ]
-    },
-    {
-        "title": "Déclaration du Gouvernement à l'ouverture du débat 2011",
-        "url": "/tal/2011/02/declaration-du-gouvernement-a-louverture-du-debat-2011/",
-        "published": "2011-02-16",
-        "updated": null,
-        "types": [
-            "1338"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Déclaration du Gouvernement à l'ouverture du débat 2011 (pdf 471 kB)",
-                "url": "/contentassets/4b02837b06ec4971ba588e0155e150ce/declaration-du-gouvernement-a-louverture-du-debat-2011/"
-            },
-            {
-                "name": "Printable version (pdf 471 kB)",
-                "url": "/contentassets/4b02837b06ec4971ba588e0155e150ce/printable-version/"
             }
         ],
         "categories": [
@@ -6203,27 +6120,6 @@
         "categories": []
     },
     {
-        "title": "Utrikesdeklarationen 2007",
-        "url": "/tal/2007/02/utrikesdeklarationen-2007/",
-        "published": "2007-02-14",
-        "updated": null,
-        "types": [
-            "1338"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Utrikesdeklarationen 2007 (pdf 227 kB)",
-                "url": "/contentassets/b9d83d4c07584d6fafacb50d86ca0fe1/utrikesdeklarationen-2007/"
-            }
-        ],
-        "categories": []
-    },
-    {
         "title": "Statement of Government Policy in the Parliamentary Debate on Foreign Affairs 2007",
         "url": "/tal/2007/02/statement-of-government-policy-in-the-parliamentary-debate-on-foreign-affairs-2007/",
         "published": "2007-02-14",
@@ -6240,6 +6136,27 @@
             {
                 "name": "Statement of Government Policy in the Parliamentary Debate on Foreign Affairs (pdf 106 kB)",
                 "url": "/contentassets/edc55c6d1def4f4cbfdf6af8a97e7b3f/statement-of-government-policy-in-the-parliamentary-debate-on-foreign-affairs/"
+            }
+        ],
+        "categories": []
+    },
+    {
+        "title": "Utrikesdeklarationen 2007",
+        "url": "/tal/2007/02/utrikesdeklarationen-2007/",
+        "published": "2007-02-14",
+        "updated": null,
+        "types": [
+            "1338"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Utrikesdeklarationen 2007 (pdf 227 kB)",
+                "url": "/contentassets/b9d83d4c07584d6fafacb50d86ca0fe1/utrikesdeklarationen-2007/"
             }
         ],
         "categories": []

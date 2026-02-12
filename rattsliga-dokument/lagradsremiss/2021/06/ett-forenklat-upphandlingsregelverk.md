@@ -8,4 +8,4 @@ I lagrådsremissen finns vidare ett förslag om att upphandlande myndigheter och
 
 Det föreslås slutligen vissa följdändringar och andra ändringar i upphandlingslagarnas övriga kapitel, lagen om medbestämmande i arbetslivet och lagen om vissa kommunala befogenheter.
 
-Lagändringarna föreslås träda i kraft den 1 februari 2022.
+Lagändringarna föreslås träda i kraft den 1 februari 2022.

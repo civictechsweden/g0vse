@@ -8,7 +8,7 @@ Efter förslag från regeringen har regioner och kommuner möjlighet att ansöka
 
 Det kan till exempel handla om högre kostnader för extra personal, övertidsersättning, skyddsutrustning, informationsinsatser, anpassning av lokaler och skyndsamma transporter och övriga anpassningar som har behövts göras i verksamheterna.
 
-Totalt har regeringen föreslagit 20 miljarder kronor 2020 för kommunernas och regionernas merkostnader till följd av covid-19. 5 miljarder kronor föreslogs i ändringsbudgetar under våren (prop. 2019/20:132, prop. 2019/20:167 och prop. 2019/20:99). Dessa har beslutats av riksdagen. Därefter har regeringen föreslagit 5 miljarder kronor i höständringsbudgeten för 2020 (prop. 2020/21:2). Den 3 november lämnades förslag om ytterligare 10 miljarder kronor 2020 (prop. 2020/21:45).
+Totalt har regeringen föreslagit 20 miljarder kronor 2020 för kommunernas och regionernas merkostnader till följd av covid-19. 5 miljarder kronor föreslogs i ändringsbudgetar under våren (prop. 2019/20:132, prop. 2019/20:167 och prop. 2019/20:99). Dessa har beslutats av riksdagen. Därefter har regeringen föreslagit 5 miljarder kronor i höständringsbudgeten för 2020 (prop. 2020/21:2). Den 3 november lämnades förslag om ytterligare 10 miljarder kronor 2020 (prop. 2020/21:45).
 
 ### Ökade generella statsbidrag i år och kommande år
 

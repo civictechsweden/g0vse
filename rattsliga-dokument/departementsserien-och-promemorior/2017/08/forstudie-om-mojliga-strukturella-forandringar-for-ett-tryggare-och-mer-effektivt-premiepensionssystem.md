@@ -5,8 +5,8 @@ Det är några av förslagen i den förstudie som analyserat det framtida premie
 
 Utredaren Stefan Lundbergh har på Pensionsgruppens uppdrag analyserat vilka områden som kan förbättras när de reformer som nu genomförs är klara.
 
-I uppdraget har  ingått att beskriva dels hur olika alternativ bidrar till trygga pensioner, del hur premiepensionen fyller sin funktion i förhållandet till pensionssystemet som helhet.
+I uppdraget har ingått att beskriva dels hur olika alternativ bidrar till trygga pensioner, del hur premiepensionen fyller sin funktion i förhållandet till pensionssystemet som helhet.
 
-De åtgärder som utredaren föreslår  ska leda till  ökad effektivitet, ökad trygghet och en mer hanterbar fondmarknad för både tillsynsmyndigheter och sparare.
+De åtgärder som utredaren föreslår ska leda till ökad effektivitet, ökad trygghet och en mer hanterbar fondmarknad för både tillsynsmyndigheter och sparare.
 
 Förstudien ska ligga till grund för Pensionsgruppens ställningstagande om premiepensionens framtida utformning.

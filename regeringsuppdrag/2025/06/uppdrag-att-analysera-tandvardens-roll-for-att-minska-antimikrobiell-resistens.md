@@ -1,4 +1,4 @@
-# Uppdrag att analysera tandvårdens roll för att minska antimikrobiell resistensDiarienummer: S2025/01237
+# Uppdrag att analysera tandvårdens roll för att minska antimikrobiell resistens
 
 Socialstyrelsen och Folkhälsomyndigheten får i uppdrag att tillsammans analysera hur tandvården ytterligare kan bidra i arbetet mot antimikrobiell resistens.
 

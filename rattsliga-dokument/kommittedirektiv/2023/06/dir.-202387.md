@@ -5,7 +5,7 @@ En särskild utredare ska lämna ett förslag på skatteincitament för gåvor f
 Utredaren ska bl.a.
 
 * ta fram förslag på hur ett skatteincitament för gåvor från juridiska
-  personer bör utformas, och
+personer bör utformas, och
 * lämna nödvändiga författningsförslag.
 
 Ett skatteincitament för gåvor från juridiska personer ska i den utsträckning

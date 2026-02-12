@@ -6,7 +6,7 @@ Ett barns rätt att inte utsättas för våld eller annan kränkande behandling 
 
 Regeringen föreslår vidare att det ska slås fast att barnets bästa går före rätten till umgänge med en förälder som barnet inte bor tillsammans med. Därigenom klargörs att det finns situationer där barnet som utgångspunkt inte ska ha något umgänge, t.ex. när en förälder har utsatt barnet för allvarligt våld. Umgänge med en förälder får inte riskera att skada barnet, varken fysiskt eller på något annat sätt.
 
-För att stärka tryggheten och stabiliteten för barn som är placerade i familjehem ska det klargöras under vilka förutsättningar vårdnaden ska flyttas över till familjehemsföräldrarna, och det ska inte längre krävas att det är uppenbart att en vårdnadsöverflyttning är bäst för barnet.
+För att stärka tryggheten och stabiliteten för barn som är placerade i familjehem ska det klargöras under vilka förutsättningar vårdnaden ska flyttas över till familjehemsföräldrarna, och det ska inte längre krävas att det är uppenbart att en vårdnadsöverflyttning är bäst för barnet.
 
 För att stärka barnrättsperspektivet och rättssäkerheten vid vårdnadsöverflyttning föreslår regeringen också att barnet och dess vårdnadshavare ska ha rätt till ett offentligt biträde.
 

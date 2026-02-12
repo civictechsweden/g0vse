@@ -5,3 +5,9 @@ Mötena äger rum i samband med Nordiska rådets årliga session, som i år hål
 Under 2025 är Finland samordnare för det informella nordiska utrikes- och säkerhetspolitiska samarbetet N5.
 
 Efter mötet hålls en gemensam pressträff.
+
+Mötena äger rum i samband med Nordiska rådets årliga session, som i år hålls i Stockholm.
+
+Under 2025 är Finland samordnare för det informella nordiska utrikes- och säkerhetspolitiska samarbetet N5.
+
+Efter mötet hålls en gemensam pressträff.

@@ -1,4 +1,4 @@
-# Uppdrag till Myndigheten för vård- och omsorgsanalys att genomföra en kartläggning av patienters kunskap och kompetensbehov gällande läkemedel med fokus på cancerDiarienummer: S2025/01186
+# Uppdrag till Myndigheten för vård- och omsorgsanalys att genomföra en kartläggning av patienters kunskap och kompetensbehov gällande läkemedel med fokus på cancer
 
 Regeringen uppdrar åt Myndigheten för vård och omsorgsanalys att genomföra kartläggningar rörande läkemedel, med fokus på behandling av cancer men för lärande även av andra sjukdomar.
 

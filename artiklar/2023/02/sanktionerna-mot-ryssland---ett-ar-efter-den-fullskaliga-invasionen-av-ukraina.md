@@ -14,7 +14,7 @@ Både ryska och belarusiska banker har utestängts från betalnätverket Swift. 
 
 ## Personer och organisationers tillgångar har frysts
 
-Innan den fullskaliga invasionen av Ukraina i februari 2022 var 185 personer och 48 enheter föremål för frysning av tillgångar och inreseförbud. I dag har över 1 400 personer och 200 organisationer och företag fått sina tillgångar frysta och/eller belagts med inreseförbud.
+Innan den fullskaliga invasionen av Ukraina i februari 2022 var 185 personer och 48 enheter föremål för frysning av tillgångar och inreseförbud. I dag har över 1 400 personer och 200 organisationer och företag fått sina tillgångar frysta och/eller belagts med inreseförbud.
 
 ## Samarbetet med partners har intensifierats
 

@@ -1,6 +1,6 @@
 # Bistånd ska gå till färre länder
 
-Debattartikel av bistånds- och utrikeshandelsminister Johan Forssell, Svenska Dagbladet, 3 augusti 2024.
+Bistånds- och utrikeshandelsminister Johan Forssell, debattartikel, Svenska Dagbladet, den 3 augusti 2024.
 
 Svensk biståndspolitik genomgår just nu de viktigaste förändringarna på flera decennier. En av de främsta är att bistånd, främjande och handel knyts närmare varandra än någonsin tidigare. Genom att hitta nya samarbeten med näringslivet finns också möjligheter att mobilisera långt större ekonomiska resurser i arbetet för en bättre värld.
 
@@ -27,5 +27,3 @@ De nya landsstrategierna ska även innehålla en möjlighet till utfasning av bi
 Svensk biståndspolitik läggs nu om med fokus på effektivitet och kvalitet. Vi tar tag i de väldokumenterade problemen med bristande redovisning, gör biståndet mindre spretigt och tydliggör att med svenskt utvecklingsbistånd kommer tydliga förväntningar på mottagarländerna att genomföra politiska reformer.
 
 Med denna nya inriktning vill vi skapa förutsättningar för fler människor att ta sig från fattigdom till välstånd och att främja bredare relationer med Sveriges partnerländer bortom biståndet.
-
-Johan Forssell, bistånds- och utrikeshandelsminister

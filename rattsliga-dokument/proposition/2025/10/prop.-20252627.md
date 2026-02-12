@@ -1,4 +1,4 @@
-# Ett förstärkt högkostnadsskydd för tandvårdProp. 2025/26:27
+# Ett förstärkt högkostnadsskydd för tandvård
 
 Regeringen föreslår att det nuvarande skyddet mot höga kostnader inom statligt tandvårdsstöd ska kompletteras med ett nytt stöd benämnt särskild tandvårdsersättning. Särskild tandvårdsersättning ska lämnas för ersättningsberättigande tandvårdsåtgärder som har slutförts under de förutsättningar som regeringen, eller den myndighet som regeringen bestämmer, har fastställt. För att särskild tandvårdsersättning ska lämnas får vårdgivarens pris för tandvårdsåtgärden inte överstiga referenspriset. Förslaget innebär att satsade medel ska komma patienterna till godo och att patienten inte ska betala en mellanskillnad mellan vårdgivarens pris och referenspriset.
 

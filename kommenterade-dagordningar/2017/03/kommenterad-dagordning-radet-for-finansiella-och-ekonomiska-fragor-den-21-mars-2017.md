@@ -1,6 +1,6 @@
 # Kommenterad dagordning, rådet för finansiella och ekonomiska frågor, den 21 mars 2017
 
-På Ekofinrådets möte den 21 mars 2017 finns följande punkter på dagordningen:
+På Ekofinrådets möte den 21 mars 2017 finns följande punkter på dagordningen:
 
 * (ev.) Reducerad mervärdesskattesats för e-publikationer
 * (ev.) Omvänd skattskyldighet för mervärdesskatt

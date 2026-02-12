@@ -3,3 +3,7 @@
 Mötet består av två sessioner där den ena handlar om militär rörlighet. Ministrarna ska då diskutera politik för säkra, resilienta och pålitliga transporter.
 
 Vid mötets andra session ska ministrarna diskutera nationella erfarenheter relaterade till cybersäkerhet i transportsektorn.
+
+Mötet består av två sessioner där den ena handlar om militär rörlighet. Ministrarna ska då diskutera politik för säkra, resilienta och pålitliga transporter.
+
+Vid mötets andra session ska ministrarna diskutera nationella erfarenheter relaterade till cybersäkerhet i transportsektorn.

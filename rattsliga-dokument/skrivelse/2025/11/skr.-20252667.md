@@ -1,4 +1,4 @@
-# Riksrevisionens rapport om likvärdighet i förskolan – statens stöd, uppföljning och tillsynSkr. 2025/26:67
+# Riksrevisionens rapport om likvärdighet i förskolan – statens stöd, uppföljning och tillsyn
 
 I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och slutsatser samt rekommendationer som Riksrevisionen lämnar till regeringen i sin granskningsrapport Likvärdighet i förskolan – statens stöd, uppföljning och tillsyn (RiR 2025:15).
 

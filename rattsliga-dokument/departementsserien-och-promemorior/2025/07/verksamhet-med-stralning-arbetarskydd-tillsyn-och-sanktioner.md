@@ -1,4 +1,4 @@
-# Verksamhet med strålning: arbetarskydd, tillsyn och sanktionerKN2025/01305
+# Verksamhet med strålning: arbetarskydd, tillsyn och sanktioner
 
 I promemorian föreslås ändringar i strålskyddslagen (2018:396), strålskyddsförordningen (2018:506), lagen (2006:647) om finansiering av kärntekniska restprodukter och lagen (2010:950) om ansvar och ersättning vid radiologiska olyckor.
 

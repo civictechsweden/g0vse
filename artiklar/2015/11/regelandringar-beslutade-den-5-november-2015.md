@@ -2,7 +2,7 @@
 
 ## Lagändring gällande elcertifikat
 
-Riksdagen har antagit regeringens förslag till ändring i lagen om elcertifikat. Regeringen har utfärdat lagändringen som innebär att kvotkurvan i lagen om elcertifikat anpassas till det nya nationella finansieringsmålet som innebär att produktionen av ny förnybar el ska öka med 30 TWh mellan åren 2002 och 2020. Lagändringen träder i kraft den 1 januari 2016.
+Riksdagen har antagit regeringens förslag till ändring i lagen om elcertifikat. Regeringen har utfärdat lagändringen som innebär att kvotkurvan i lagen om elcertifikat anpassas till det nya nationella finansieringsmålet som innebär att produktionen av ny förnybar el ska öka med 30 TWh mellan åren 2002 och 2020. Lagändringen träder i kraft den 1 januari 2016.
 
 ### Referenser
 

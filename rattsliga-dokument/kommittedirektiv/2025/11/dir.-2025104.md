@@ -1,4 +1,4 @@
-# Tilläggsdirektiv till delegationen för migrationsstudier (Ju 2013:17)Dir. 2025:104
+# Tilläggsdirektiv till delegationen för migrationsstudier (Ju 2013:17)
 
 Regeringen beslutade vid regeringssammanträdet den 27 november 2025 om förlängd tid för delegationen för migrationsstudier (Ju 2013:17).
 

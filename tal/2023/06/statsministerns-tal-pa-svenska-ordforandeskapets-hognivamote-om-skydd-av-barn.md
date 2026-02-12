@@ -27,7 +27,7 @@ On a Swedish initiative, individuals involved in these illegal transfers were li
 
 The war has also exposed Ukrainian children – and girls in particular – to risks of trafficking and sexual exploitation. This, too, has to be stopped.
 
-\*\*\*
+***
 
 Ukrainian friends: it remains our common resolve to stand with you. We admire your determination and strength, fighting back and struggling to secure your freedom.
 

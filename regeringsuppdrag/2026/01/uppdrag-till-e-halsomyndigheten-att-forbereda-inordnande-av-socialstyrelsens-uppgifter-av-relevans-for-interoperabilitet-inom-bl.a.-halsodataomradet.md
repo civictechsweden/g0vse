@@ -1,4 +1,4 @@
-# Uppdrag till E-hälsomyndigheten att förbereda inordnande av Socialstyrelsens uppgifter av relevans för interoperabilitet inom bl.a. hälsodataområdetDiarienummer:  S2026/00015
+# Uppdrag till E-hälsomyndigheten att förbereda inordnande av Socialstyrelsens uppgifter av relevans för interoperabilitet inom bl.a. hälsodataområdet
 
 Regeringen uppdrar åt E-hälsomyndigheten att förbereda sig för att till 1 juni 2026 ta över vissa uppgifter som Socialstyrelsen idag hanterar. Sådana uppgifter är att bland annat att skapa och tillhandahålla terminologier, klassifikationer och en ändamålsenlig informationsstruktur inom hälso- och sjukvård, tandvård, socialtjänst och verksamhet enligt lagen om stöd och service till vissa funktionshindrade.
 

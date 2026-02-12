@@ -1,4 +1,4 @@
-# Remiss av promemorian EU:s bankpaketDiarienummer: Fi2025/01199
+# Remiss av promemorian EU:s bankpaket
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen EU:s bankpaket. Övriga yttranden finns tillgängliga i departementet.
 

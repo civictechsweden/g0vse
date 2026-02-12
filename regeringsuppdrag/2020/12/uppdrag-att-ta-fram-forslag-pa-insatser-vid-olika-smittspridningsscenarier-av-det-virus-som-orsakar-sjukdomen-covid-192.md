@@ -14,4 +14,6 @@ Länsstyrelsen i Hallands län samordnar uppdraget. Det genomförs tillsammans m
 
 Uppdraget redovisas löpande Socialdepartementet när Folkhälsomyndigheten uppdaterat sina scenarier.
 
+
+
 Första redovisningen lämnas senast den 31 januari 2021. Uppdraget slutredovisas den 31 december 2021, men kan förlängas.

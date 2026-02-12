@@ -16,19 +16,19 @@ MFD ska bland annat:
 * analysera och föreslå de författningsändringar som behövs för att den nationella funktionen ska kunna ta del av och hantera uppgifter från olika huvudmän,
 * föreslå en fördelningsnyckel för att fördela statsbidraget för tolktjänst till regionerna samt förslag på uppföljningskriterier. Uppföljningssystem bör bland annat inkludera följande kriterier:
 
-                   – antalet tolkanvändare uppdelade på kön och ålder,
+– antalet tolkanvändare uppdelade på kön och ålder,
 
-                   – omfattning av efterfrågat tolkbehov och tolkbeställning,                                    kategoriserat på kön, ålder och användningsområde,
+– omfattning av efterfrågat tolkbehov och tolkbeställning, kategoriserat på kön, ålder och användningsområde,
 
-                   – antalet aviserade beställningar, kategoriserade på kön, ålder                           och användningsområde,
+– antalet aviserade beställningar, kategoriserade på kön, ålder och användningsområde,
 
-                   – efterfrågade tolkformer och tolkmetoder,
+– efterfrågade tolkformer och tolkmetoder,
 
-                   –  andelen tolktjänst som utförs som fysisk tolkning respektive                            tolkning på distans,
+– andelen tolktjänst som utförs som fysisk tolkning respektive tolkning på distans,
 
-                   – antal inkomna klagomål, samt
+– antal inkomna klagomål, samt
 
-                   – hur regionerna samordnar tolktjänsten.
+– hur regionerna samordnar tolktjänsten.
 
 * samtala med Socialstyrelsen, Arbetsförmedlingen, Sveriges Kommuner och Regioner, tolkcentralerna, organisationer av tolkanvändare samt andra berörda aktörer. Förslag på fördelningsnyckel och uppföljningskriterier ska tas frams i nära samråd med regionerna.
 * senast den 1 september 2025 redovisa den del av uppdraget som avser inrättandet av en nationell funktion för samordning av tolktjänsten och senast den 1 mars 2026 redovisa den del av uppdraget som avser att ta fram förslag på en fördelningsnyckel och uppföljningskriterier till Regeringskansliet.

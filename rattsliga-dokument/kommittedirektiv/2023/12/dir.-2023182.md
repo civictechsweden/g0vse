@@ -7,11 +7,11 @@ Regeringen beslutade den 23 mars 2023 kommittédirektiv om lättnader för kamer
 Uppdraget utvidgas. Utredaren ska nu även
 
 * utifrån en kartläggning av Polismyndighetens behov lämna förslag för
-  att underlätta Polismyndighetens hantering inför påbörjandet av en
-  kamerabevakning,
+att underlätta Polismyndighetens hantering inför påbörjandet av en
+kamerabevakning,
 * utifrån en kartläggning av Polismyndighetens behov lämna förslag som
-  innebär att myndigheten i fler fall undantas från kravet på upplysning
-  och rätten till information vid kamerabevakning, och
+innebär att myndigheten i fler fall undantas från kravet på upplysning
+och rätten till information vid kamerabevakning, och
 * lämna nödvändiga författningsförslag.
 
 Utredningstiden ligger fast. Uppdraget ska alltså redovisas senast den 15 april 2024.

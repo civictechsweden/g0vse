@@ -1,4 +1,4 @@
-# Anpassning av svensk rätt till EU:s nya förordning om skyddade beteckningar på jordbruksprodukter och livsmedelProp. 2025/26:77
+# Anpassning av svensk rätt till EU:s nya förordning om skyddade beteckningar på jordbruksprodukter och livsmedel
 
 I propositionen föreslås ändringar i lagen (2009:1424) om kontroll av skyddade beteckningar på jordbruksprodukter och livsmedel samt lagen (2018:1654) om sanktioner vid intrång i rätten till vissa skyddade beteckningar. Syftet är att anpassa lagarna till EU:s nya förordning om skyddade beteckningar.
 

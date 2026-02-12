@@ -1,7 +1,7 @@
 # Alternativ tvistlösning i konsumentförhållanden
 
 Regeringen föreslår en lag som dels genomför Europaparlamentets och
-rådets direktiv om alternativ tvistlösning vid konsumenttvister, dels innehåller kompletterande bestämmelser till Europaparlamentets och rådets förordning om tvistlösning online vid konsumenttvister.
+rådets direktiv om alternativ tvistlösning vid konsumenttvister, dels innehåller kompletterande bestämmelser till Europaparlamentets och rådets förordning om tvistlösning online vid konsumenttvister.
 
 De båda rättsakterna är sammankopplade och kompletterar varandra.
 Syftet med direktivet är att göra alternativa tvistlösningsorgan av hög

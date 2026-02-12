@@ -20,4 +20,6 @@ Ministrarna väntas diskutera det handelsrelaterade stöd till Ukraina som EU in
 
 Regeringen anser att det är angeläget att EU fortsätter att stödja Ukraina politiskt, ekonomiskt, humanitärt och militärt. Sverige har även varit pådrivande för beslutet om att tillfälligt ta bort alla import- och antidumpningstullar från Ukraina. Regeringen kommer under mötet att verka för att EU gör vad man kan för att stödja Ukraina genom handelspolitik och handelsförenkling, såväl vad gäller tillfälliga lättnader som fortsatt arbete inom ramen för existerande avtal.
 
+
+
 **Producerat av EU-representationen.**

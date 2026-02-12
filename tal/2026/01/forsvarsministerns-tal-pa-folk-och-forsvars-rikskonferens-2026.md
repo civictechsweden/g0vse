@@ -27,13 +27,13 @@ Detta är några skäl till att Sverige nu är en hörnsten i det gemensamma fö
 
 Jag vill rikta ett varmt tack för era insatser att hålla Sverige säkert i dessa orostider.
 
-Uppbyggnaden av totalförsvaret är den största och snabbaste samhällsomvandlingen som Sverige genomgått på flera decennier. Men upprustningen sker inte i ett vacuum. Starka statsfinanser och politisk stabilitet lägger grunden för all framgångsrik försvarspolitik. Det gör att Sverige, till skillnad från många andra länder, både har råd att investera i sitt försvar och ge ett starkt stöd till Ukraina.
+Uppbyggnaden av totalförsvaret är den största och snabbaste samhällsomvandlingen som Sverige genomgått på flera decennier. Men upprustningen sker inte i ett vacuum. Starka statsfinanser och politisk stabilitet lägger grunden för all framgångsrik försvarspolitik. Det gör att Sverige, till skillnad från många andra länder, både har råd att investera i sitt försvar och ge ett starkt stöd till Ukraina.
 
-Även efter valet i september måste Sverige ha en regering som prioriterar försvaret och som är enig i dessa frågor. För omläggningen av försvarspolitiken är långt ifrån klar. Jag ser två områden som helt avgörande för förstärkningarna av försvaret.
+Även efter valet i september måste Sverige ha en regering som prioriterar försvaret och som är enig i dessa frågor. För omläggningen av försvarspolitiken är långt ifrån klar. Jag ser två områden som helt avgörande för förstärkningarna av försvaret.
 
 För det första: krigsförbanden utgör kärnan i vår försvarsförmåga. De måste bli starkare och de måste bli fler. Det kräver att de är bemannade, utrustade och samövade.
 
-I alla personalkategorier ligger Försvarsmakten redan nu över nivåerna i det senast försvarsbeslutet. Det är bra. Personalen är kärnan i försvaret. Den behöver både erkännande och ersättning. Därför har regeringen höjt dagersättningen till värnpliktiga, hemvärnssoldater och officersaspiranter.
+I alla personalkategorier ligger Försvarsmakten redan nu över nivåerna i det senast försvarsbeslutet. Det är bra. Personalen är kärnan i försvaret. Den behöver både erkännande och ersättning. Därför har regeringen höjt dagersättningen till värnpliktiga, hemvärnssoldater och officersaspiranter.
 
 De frivilliga försvarsorganisationerna spelar en viktig roll för uppbyggnaden av försvaret. Det är till exempel inspirerande att Frivilliga flygkåren utvecklat en ny drönarkår. Försvarsmakten borde använda frivilligorganisationerna ännu mer. Vi stärker förutsättningarna för det. Idag kan vi berätta att regeringen höjer uppdragsersättningen till dessa organisationer med ca 20 procent för 2026.
 
@@ -51,17 +51,17 @@ Kriget i Ukraina har visat att förmågan att snabbt utveckla, massproducera och
 
 På förra årets Rikskonferens presenterade jag GNADD-projektet, som på kort tid utvecklat autonoma drönarsvärmar för det svenska försvaret. Jag kan idag berätta att regeringen precis beslutat om en drönarsatsning om 4 miljarder kr för att snabbt anskaffa olika sorters obemannade system till samtliga försvarsgrenar.
 
-Drönarsatsningen innefattar långräckviddiga patrullrobotar för bekämpning, spaningsdrönare och luftburen telekrigsförmåga. Men även sjödrönare för minröjning och havsövervakning. Allt ska vara levererat inom två år.
+Drönarsatsningen innefattar långräckviddiga patrullrobotar för bekämpning, spaningsdrönare och luftburen telekrigsförmåga. Men även sjödrönare för minröjning och havsövervakning. Allt ska vara levererat inom två år.
 
 Det görs även en satsning på 1,3 miljarder på Sveriges rymdförmåga med ett tiotal militära satelliter som bland annat kommer att öka effektiviteten i våra obemannade system och kryssningsrobotar.
 
 Avslutningsvis,
 
-Till det växande hotet från Ryssland lägger vi nu också en ökad amerikansk oförutsägbarhet. En uppenbar slutsats är att Europa måste ta större ansvar för vår egen och Ukrainas säkerhet. Därför har regeringen avsatt 80 miljarder kr under de kommande två åren för Ukrainastödet.
+Till det växande hotet från Ryssland lägger vi nu också en ökad amerikansk oförutsägbarhet. En uppenbar slutsats är att Europa måste ta större ansvar för vår egen och Ukrainas säkerhet. Därför har regeringen avsatt 80 miljarder kr under de kommande två åren för Ukrainastödet.
 
-Stödet stärker också svensk förmåga. Genom stödet bygger vi upp en starkare produktionsförmåga för t.ex. ammunition, skyddsmasker och drönartillverkning. Och samtidigt lär vi oss mycket, inte minst när det kommer till snabb utbildning och förbandssättning. Allt det vi gör i det militära stödet för Ukraina - det gör vi på veckor och månader, i stället för på år och årtionden som ofta varit fallet här hemma.
+Stödet stärker också svensk förmåga. Genom stödet bygger vi upp en starkare produktionsförmåga för t.ex. ammunition, skyddsmasker och drönartillverkning. Och samtidigt lär vi oss mycket, inte minst när det kommer till snabb utbildning och förbandssättning. Allt det vi gör i det militära stödet för Ukraina - det gör vi på veckor och månader, i stället för på år och årtionden som ofta varit fallet här hemma.
 
-Så låt oss alla inspireras av det enormt uppskattade och effektiva stöd som Försvarsmakten, FMV och FOI lämnat till Ukraina. Och låt oss även ta med oss lärdomarna av hur en snabbare försvarsuppbyggnad kan gå till.
+Så låt oss alla inspireras av det enormt uppskattade och effektiva stöd som Försvarsmakten, FMV och FOI lämnat till Ukraina. Och låt oss även ta med oss lärdomarna av hur en snabbare försvarsuppbyggnad kan gå till.
 
 För vi måste helt enkelt snabbare och effektivare omsätta pengar och beslut i reell och handfast försvarsförmåga också här hemma.
 

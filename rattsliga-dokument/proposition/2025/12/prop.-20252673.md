@@ -1,4 +1,4 @@
-# Uppsägning av sparandeavtalProp. 2025/26:73
+# Uppsägning av sparandeavtal
 
 I propositionen föreslås att Sverige säger upp avtalen om beskattning av inkomster från sparande med Anguilla, Caymanöarna, Jungfruöarna, Montserrat och Turks- och Caicosöarna.
 

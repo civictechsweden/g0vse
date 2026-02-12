@@ -1,6 +1,6 @@
 # Strategi för Sveriges utvecklingssamarbete med Mali 2016-2020
 
-![](/contentassets/58a72e4ecc574848a56c646ae334c5e9/strategi-for-sveriges-utvecklingssamarbete-med-mali.jpg?width=150&quality=85)
+![](/contentassets/58a72e4ecc574848a56c646ae334c5e9/strategi-for-sveriges-utvecklingssamarbete-med-mali.jpg?width=150&amp;quality=85)
 
 Svenskt utvecklingssamarbete med Mali inom ramen för denna strategi ska bidra till ett stärkt samhällskontrakt och minskad sårbarhet för återfall i konflikt. Sverige ska vidare bidra till ett mer hållbart nyttjande av naturresurser och stärkt motståndskraft mot klimatförändringar.
 Strategin ska gälla under perioden 2016–2020.

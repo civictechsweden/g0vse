@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:23 Ersättningsregler med brottsoffret i fokusDiarienummer: Ju2025/00641
+# Remiss av SOU 2025:23 Ersättningsregler med brottsoffret i fokus
 
 Här kan du ta del av till vilka remissinstanser som regeringen har remitterat SOU 2025:23 Ersättningsregler med brottsoffret i fokus.
 

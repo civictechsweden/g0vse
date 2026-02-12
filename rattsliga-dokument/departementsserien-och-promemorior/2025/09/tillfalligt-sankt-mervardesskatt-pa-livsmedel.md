@@ -1,4 +1,4 @@
-# Tillfälligt sänkt mervärdesskatt på livsmedelFi2025/01687
+# Tillfälligt sänkt mervärdesskatt på livsmedel
 
 I denna promemoria föreslås att mervärdesskattesatsen på livsmedel tillfälligt sänks från 12 procent till 6 procent. Förslaget medför ändringar i mervärdesskattelagen (2023:200).
 

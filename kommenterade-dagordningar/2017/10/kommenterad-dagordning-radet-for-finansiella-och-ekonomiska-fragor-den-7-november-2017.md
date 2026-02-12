@@ -1,6 +1,6 @@
 # Kommenterad dagordning, rådet för finansiella och ekonomiska frågor, den 7 november 2017
 
-På Ekofinrådets möte den 7 november 2017 finns följande punkter på dagordningen:
+På Ekofinrådets möte den 7 november 2017 finns följande punkter på dagordningen:
 
 * Paketet om moms på e-handel
 * Översyn av Europeiska systemet för finansiell tillsyn

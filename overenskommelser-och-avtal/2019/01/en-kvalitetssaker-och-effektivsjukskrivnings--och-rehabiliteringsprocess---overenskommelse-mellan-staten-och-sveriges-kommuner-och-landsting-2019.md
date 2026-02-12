@@ -7,6 +7,6 @@ Följande insatsområden, som har ingått i tidigare överenskommelser, ingår i
 * Kompetenssatsning i försäkringsmedicin
 * Funktion för koordinering
 * Insatser för lindrig och medelsvår psykisk ohälsa och långvarig
-  smärta
+smärta
 * Utökat elektroniskt informationsutbyte
 * Utvecklingsmedel för stöd till rätt sjukskrivning

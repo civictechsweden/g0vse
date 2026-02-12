@@ -8,7 +8,7 @@ Den enskilde har i första hand ett eget ansvar för sitt liv. I det ingår att 
 
 Vilka krav som kan ställas på den som ansöker om bistånd har utvecklats genom rättspraxis och förarbeten, vilket kommit till uttryck i Socialstyrelsens allmänna råd. Kraven har dessutom historiskt en nära koppling till de krav som kan ställas på den som får sin ersättning från arbetslöshetsförsäkringen.
 
-Socialtjänstlagen ger emellertid inte uttryckligen uttryck för vilka krav som kan ställas på den som ansöker om ekonomiskt bistånd. Med anledning av att en betydande andel av dem som tar emot ekonomiskt bistånd gör det på grund av arbetslöshet menar regeringen att det ur rättssäkerhetssynpunkt behövs någon form av tydliggörande i lagstiftningen. Det blir tydligare för den biståndssökande, det skapar legitimitet och tillit till systemet, det understryker att kraven är viktiga och bidrar till en enhetlig rättstillämpning.
+Socialtjänstlagen ger emellertid inte uttryckligen uttryck för vilka krav som kan ställas på den som ansöker om ekonomiskt bistånd. Med anledning av att en betydande andel av dem som tar emot ekonomiskt bistånd gör det på grund av arbetslöshet menar regeringen att det ur rättssäkerhetssynpunkt behövs någon form av tydliggörande i lagstiftningen. Det blir tydligare för den biståndssökande, det skapar legitimitet och tillit till systemet, det understryker att kraven är viktiga och bidrar till en enhetlig rättstillämpning.
 
 Genom införandet av bestämmelsen tydliggörs också att det ska råda samstämmighet mellan villkoren i lagen (1997:238) om arbetslöshetsförsäkring och förutsättningarna för rätt till bistånd enligt socialtjänstlagen.
 

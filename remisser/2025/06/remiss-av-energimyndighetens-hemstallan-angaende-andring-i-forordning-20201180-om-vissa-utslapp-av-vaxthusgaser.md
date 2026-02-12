@@ -1,4 +1,4 @@
-# Remiss av Energimyndighetens Hemställan angående ändring i förordning (2020:1180) om vissa utsläpp av växthusgaserDiarienummer: KN2025/01352
+# Remiss av Energimyndighetens Hemställan angående ändring i förordning (2020:1180) om vissa utsläpp av växthusgaser
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Energimyndighetens Hemställan angående ändring i förordning (2020:1180) om vissa utsläpp av växthusgaser.
 

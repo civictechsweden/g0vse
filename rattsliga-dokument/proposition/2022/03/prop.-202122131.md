@@ -5,7 +5,7 @@ Arbetet mot terrorism är en högt prioriterad fråga för regeringen. Regeringe
 I den nya lagen föreslår regeringen därför bland annat
 
 * utvidgade möjligheter att utvisa utlänningar som utgör kvalificerade
-  hot mot Sveriges säkerhet,
+hot mot Sveriges säkerhet,
 * att det ställs utökade krav på muntlig handläggning i utvisningsärenden och att det införs en möjlighet för utlänningar att få verkställda utvisningsbeslut upphävda,
 * att förutsättningarna för att få ta en utlänning i förvar enligt den nya lagen förtydligas,
 * att fler tvångsmedel ska få användas och att kraven för att få ett tillstånd till hemliga tvångsmedel sänks,

@@ -8,7 +8,7 @@ I propositionen Tydligare redovisningsregler och nya rapporteringskrav för utvi
 
 ### Referenser:
 
-* Europaparlamentets och rådets direktiv 2013/34/EU av den 26 juni 2013 om årsbokslut, koncernredovisning och rapporter i vissa typer av företag, om ändring av Europaparlamentets och rådets direktiv 2006/43/EG och om upphävande av rådets direktiv 78/660/EEG och 83/349/EEG
+* Europaparlamentets och rådets direktiv 2013/34/EU av den 26 juni 2013 om årsbokslut, koncernredovisning och rapporter i vissa typer av företag, om ändring av Europaparlamentets och rådets direktiv 2006/43/EG och om upphävande av rådets direktiv 78/660/EEG och 83/349/EEG
 * regeringens proposition Tydligare redovisningsregler och nya rapporteringskrav för utvinningsindustrin (prop. 2015/16:3)
 * civilutskottets betänkande 2015/16:CU6
 * riksdagsskrivelse 2015/16:36

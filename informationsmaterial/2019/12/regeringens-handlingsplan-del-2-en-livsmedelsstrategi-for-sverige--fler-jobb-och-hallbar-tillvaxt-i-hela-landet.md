@@ -1,6 +1,6 @@
 # Regeringens handlingsplan del 2: En livsmedelsstrategi för Sverige – fler jobb och hållbar tillväxt i hela landet
 
-![](/contentassets/155c6e51b4c94db7bb8768e7a0849491/191219-hp-del-2-1.jpg?width=150&quality=85)
+![](/contentassets/155c6e51b4c94db7bb8768e7a0849491/191219-hp-del-2-1.jpg?width=150&amp;quality=85)
 
 Livsmedelsstrategins handlingsplan del 2 innehåller satsningar på 122 miljoner kronor årligen fram till och med 2025, dessutom görs ytterligare satsningar på totalt 114 miljoner kronor under 2020.
 

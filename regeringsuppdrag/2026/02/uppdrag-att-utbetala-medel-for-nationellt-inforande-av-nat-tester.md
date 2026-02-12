@@ -1,4 +1,4 @@
-# Uppdrag att utbetala medel för nationellt införande av NAT-testerDiarienummer: S2025/00313
+# Uppdrag att utbetala medel för nationellt införande av NAT-tester
 
 Regeringen uppdrar åt Socialstyrelsen att betala ut medel för nationellt införande av så kallade NAT-tester (Nucleid Acid Testing).
 

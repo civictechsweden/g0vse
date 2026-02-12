@@ -4,7 +4,7 @@
 
 Medan svensk pressfrihet vilar på en stark tradition och utgör en av grundpelarna för demokratin är denna frihet långt ifrån en självklarhet på många platser i världen.
 
-Att svensk tryck- och yttrandefrihet i år fyller 250 år uppmärksammar därför Sveriges EU-representation tillsammans med organisationen Utgivarna med ett evenemang i Bryssel på det svenska residenset eftermiddagen 31 maj.
+Att svensk tryck- och yttrandefrihet i år fyller 250 år uppmärksammar därför Sveriges EU-representation tillsammans med organisationen Utgivarna med ett evenemang i Bryssel på det svenska residenset eftermiddagen 31 maj.
 
 Talare:
 Per Olsson Fridh, statssekreterare på kulturdepartementet,

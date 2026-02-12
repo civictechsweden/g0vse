@@ -4,7 +4,7 @@ Regeringen föreslår i propositionen att socialtjänstlagen (2001:453) och den 
 
 ## Socialnämndens ansvar utvidgas
 
-Ändringarna som regeringen föreslår medför att socialnämndens ansvar för att förebygga och motverka missbruk av alkohol och andra substanser utvidgas till att även omfatta spel om pengar.
+Ändringarna som regeringen föreslår medför att socialnämndens ansvar för att förebygga och motverka missbruk av alkohol och andra substanser utvidgas till att även omfatta spel om pengar.
 
 ## Motverka spel om pengar bland barn och unga
 

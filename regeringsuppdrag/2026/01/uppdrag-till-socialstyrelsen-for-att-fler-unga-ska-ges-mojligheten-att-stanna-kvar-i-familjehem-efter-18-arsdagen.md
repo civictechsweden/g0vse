@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen för att fler unga ska ges möjligheten att stanna kvar i familjehem efter 18-årsdagenDiarienummer: S2026/00099
+# Uppdrag till Socialstyrelsen för att fler unga ska ges möjligheten att stanna kvar i familjehem efter 18-årsdagen
 
 Regeringen uppdrar åt Socialstyrelsen att redovisa hur vanligt förekommande det är att familjehemsplaceringar avslutas i anslutning till att ett barn fyller 18 år.
 

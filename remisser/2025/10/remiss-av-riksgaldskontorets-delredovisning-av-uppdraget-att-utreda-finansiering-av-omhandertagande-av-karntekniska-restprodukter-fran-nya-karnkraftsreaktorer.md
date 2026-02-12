@@ -1,4 +1,4 @@
-# Remiss av Riksgäldskontorets delredovisning av uppdraget att utreda finansiering av omhändertagande av kärntekniska restprodukter från nya kärnkraftsreaktorerDiarienummer: KN2025/00513
+# Remiss av Riksgäldskontorets delredovisning av uppdraget att utreda finansiering av omhändertagande av kärntekniska restprodukter från nya kärnkraftsreaktorer
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen Riksgäldskontorets delredovisning av uppdraget att utreda finansiering av omhändertagande av kärntekniska restprodukter från nya kärnkraftsreaktorer.
 

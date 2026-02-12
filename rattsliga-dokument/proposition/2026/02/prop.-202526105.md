@@ -1,4 +1,4 @@
-# Stärkt säkerhetsskydd vid överlåtelse av fast egendomProp. 2025/26:105
+# Stärkt säkerhetsskydd vid överlåtelse av fast egendom
 
 För att stärka Sveriges säkerhet föreslår regeringen att överlåtelser av fast
 egendom ska omfattas av säkerhetsskyddslagens regler om överlåtelse. Det

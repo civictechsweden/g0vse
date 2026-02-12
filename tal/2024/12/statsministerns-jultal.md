@@ -18,7 +18,7 @@ Det här är stora prövningar för ett litet land i norra Europa.
 
 Men när världen omkring oss är osäker och känns hotfull är ingenting viktigare än att vi kan samlas här hemma. Att vi ser bortom det som skiljer oss åt, till allt det som förenar. Att vi gemensamt står upp för vårt lands frihet och säkerhet. I ord, men också i handling. Vi har alla ett personligt ansvar för Sverige. Vi kan ta det på lite olika vis.
 
-\*\*\*
+***
 
 Även i allvarstider finns det skäl att känna hopp. Det är till och med extra viktigt just då. För hopp är inte främst en känsla, det är en förpliktelse. Att lösa problem och att bygga något bättre. Vårt land har genom historien visat sig vara robust, med en pålitlig förmåga att klara de mest skiftande kriser – och sedan komma ut starkare på andra sidan.
 
@@ -28,7 +28,7 @@ Den regering som jag leder jobbar hårt varje dag för att få ordning på Sveri
 
 Men vi gör det inte själva, utan tillsammans – både i Sverige och internationellt. Ansvaret för vår säkerhet och trygghet bärs varje dag av svenska soldater och sjömän. Av poliser och brandmän. Av alla som jobbar i vården och omsorgen. Alla ni som gör att andra snart kan fira jul bland nära och kära.
 
-\*\*\*
+***
 
 I början av det här året blev Sverige medlem i Nato, den fria världens försvarsallians. Vi gick med i bred enighet för att ännu bättre försvara det vi är och det vi tror på: vår frihet, vårt oberoende och vår demokrati.
 
@@ -36,7 +36,7 @@ Just nu pågår förberedelserna nere på P7 i Skåne för de soldater och offic
 
 Vi gick in i Nato för att få skydd, för att ensam inte är stark. Speciellt inte i en orolig tid. Men vi gick också in för att ge skydd. En för alla, alla för en.
 
-\*\*\*
+***
 
 Det har varit ett intensivt år för riksdag och regering. Steg för steg har vi infört helt nya verktyg för att komma åt den grova kriminaliteten. Målet är entydigt. De kriminella gängen ska bort och Sverige ska bli ett tryggt land igen.
 
@@ -48,7 +48,7 @@ Vi uppvärderar det svenska medborgarskapet. Att få ett svenskt pass är inte a
 
 Integration handlar om att ställa krav, men också om att ge möjligheter. Därför inför vi obligatorisk språkförskola, så att de barn som inte automatiskt lär sig svenska språket hemma, ändå ska kunna svenska när de börjar skolan. Sverige ska bli ett land av klassresor, inte vara ett land av utanförskap.
 
-\*\*\*
+***
 
 Vi lever inte bara i allvarstider, utan också i dyrtider. Det börjar ljusna vid horisonten, men många vanliga familjer har det fortfarande tufft ekonomiskt.
 Inflationen är äntligen besegrad. Det stärker den svenska välfärden och ger mer pengar till vård, skola och omsorg. Lägre inflation ger också lägre räntor och gör livet lite lättare för många svenskar.
@@ -61,7 +61,7 @@ Ingenjörslandet Sverige har en stolt historia av att leda den tekniska utveckli
 
 Vi sänker också skatten för alla som jobbar – och för alla som har jobbat. En familj med en polis och en sjuksköterska får nästa år behålla 9 000 kronor mer efter skatt. Det handlar om att ge tillbaka till alla hårt arbetande svenskar som tar i och gör rätt för sig. Det ska alltid löna sig att jobba i Sverige.
 
-\*\*\*
+***
 
 Men Sverige ska också vara ett land där hårt arbetande mammor och pappor har tid att vara med sina barn. Och jag vet att många föräldrar har svårt att få tiden att räcka till.
 
@@ -77,7 +77,7 @@ I år har vi t ex gjort det lite lättare för nyblivna föräldrar att vara led
 
 För tid och kärlek är det finaste vi kan ge våra barn. Inte minst när de behöver oss vuxna som allra mest.
 
-\*\*\*
+***
 
 Det är allvarstider, men regeringens arbete ger resultat. Vi har kommit långt de här två åren, men väldigt mycket återstår att göra. Kursen är utstakad: vi ska få ordning på Sverige. Och nästa år kommer vi fortsätta – med samma kraft, samma hastighet och samma beslutsamhet.
 
@@ -95,7 +95,7 @@ Men för andra i vårt land är det tvärt om och julen blir en mörk och ensam 
 
 För ingen kan alltid finnas där för alla – men alla kan göra något för någon. Hälsa på och önska god jul. Och ställ frågan: ”hur är det?” För ensam är inte stark, inte heller i vardagen. Allra minst i allvarstider.
 
-\*\*\*
+***
 
 När omvärlden är otrygg så håller vi ihop här hemma. Vi har bara ett Sverige. Låt oss vårda det landet. Bygga på det som är bra, reparera det som har gått sönder. Låt oss ta ansvar, både för oss själva och för varandra. Vi lever alla våra egna liv, men vi gör det i just vårt land.
 

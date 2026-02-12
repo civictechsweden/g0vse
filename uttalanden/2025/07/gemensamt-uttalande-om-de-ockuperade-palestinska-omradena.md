@@ -14,6 +14,6 @@ Vi uppmanar samtliga parter att skydda civila och leva upp till den internatione
 
 Vi motsätter oss kraftfullt alla eventuella steg i riktning mot territoriella eller demografiska förändringar i de ockuperade palestinska områdena. Den E1-bosättningsplan som aviserats av Israels civila administration skulle, om den omsattes i praktiken, dela en palestinsk stat i två delar, vilket skulle vara ett flagrant folkrättsbrott och på ett avgörande sätt undergräva tvåstatslösningen. Samtidigt sker bosättningsbyggandet i snabbare takt över hela Västbanken, inklusive östra Jerusalem, medan bosättares våld mot palestinier har ökat dramatiskt. Detta måste få ett slut.
 
-Vi uppmanar enträget parterna och världssamfundet att samlas i en gemensam ansträngning att avsluta denna fruktansvärda konflikt genom en omedelbar, villkorslös och permanent vapenvila. Ytterligare blodspillan tjänar inget syfte.  Vi bekräftar vårt fullständiga stöd för Förenta staternas, Qatars och Egyptens arbete för att åstadkomma detta.
+Vi uppmanar enträget parterna och världssamfundet att samlas i en gemensam ansträngning att avsluta denna fruktansvärda konflikt genom en omedelbar, villkorslös och permanent vapenvila. Ytterligare blodspillan tjänar inget syfte. Vi bekräftar vårt fullständiga stöd för Förenta staternas, Qatars och Egyptens arbete för att åstadkomma detta.
 
 Vi står beredda att vidta ytterligare åtgärder till stöd för en omedelbar vapenvila och en politisk väg framåt som leder till säkerhet och fred för israeler, palestinier och regionen i sin helhet.

@@ -1,4 +1,4 @@
-# Ett stärkt konsumentskydd vid distansavtalProp. 2025/26:84
+# Ett stärkt konsumentskydd vid distansavtal
 
 Regeringen föreslår lagändringar som syftar till att stärka konsumentskyddet
 vid distansavtal om finansiella tjänster och instrument. Många konsumenter ingår avtal digitalt på webbplatser eller i applikationer på en mobiltelefon. Produkterna kan ofta vara komplicerade och svåra att förstå. Det är därför viktigt med tydliga regler och ett grundläggande konsumentskydd på området.

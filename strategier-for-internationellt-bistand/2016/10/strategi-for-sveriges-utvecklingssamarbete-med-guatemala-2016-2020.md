@@ -1,6 +1,6 @@
 # Strategi för Sveriges utvecklingssamarbete med Guatemala 2016-2020
 
-![](/contentassets/71bb621681f74e62b4cdcb3ff62fb88f/strategi-for-sveriges-utvecklingssamarbete-med-guatemala.png?width=150&quality=85)
+![](/contentassets/71bb621681f74e62b4cdcb3ff62fb88f/strategi-for-sveriges-utvecklingssamarbete-med-guatemala.png?width=150&amp;quality=85)
 
 Svenskt utvecklingssamarbete med Guatemala inom ramen för denna strategi ska stödja landet i genomförandet av fredsavtalen, och därmed bidra till stärkt demokrati, respekt för mänskliga rättigheter, konsolidering av freden, lägre våldsnivå och minskad fattigdom. Verksamheten ska också bidra till jämställdhet och förbättrade möjligheter för urfolk. Strategin ska gälla under perioden 2016–2020 och omfattar sammantaget 1 125 miljoner svenska kronor.
 

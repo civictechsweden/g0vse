@@ -15,13 +15,13 @@ Today, I’d like to say thank you to all of our Allies. We have chosen you, and
 
 We are humble but we are also proud. We know that the expectations for Sweden are high. And we have high expectations for ourselves.
 
-\*\*\*
+***
 
 The Swedish flag will now be raised here at NATO HQ with a very strong support in our parliament and among our people. A symbol of this is the fact that the Swedish delegation today consists not only by cabinet ministers and the Commander-in-chief, but also by Her Royal Highness the Swedish Crown Princess Victoria, and all together six national party leaders.
 
 In a vibrant democracy we argue and debate – but we unite in the long-term protection of our freedom and democracy.
 
-\*\*\*
+***
 
 Sweden is not a stranger to NATO. We joined the Partnership for Peace in 1994 and have participated in all major NATO operations and in countless exercises since then.
 
@@ -29,7 +29,7 @@ The Russian brutal full-scale invasion against Ukraine united Sweden behind the 
 
 As a strong democracy, Sweden will stand up for the values in the Washington Treaty: freedom, democracy, individual liberty, and the rule of law - values that bind us together.
 
-\*\*\*
+***
 
 Sweden joins NATO because we believe in the importance of collective defence. But we also join NATO to be a security provider, from the Baltic Sea to the Black Sea.
 
@@ -45,7 +45,7 @@ This is one important element in contributing to NATO’s security and burden-sh
 
 In addition, we will also take part of the intensified work on innovation and emerging technologies. Sweden's defence industrial base is an asset with unique technological edge. The interface between civilian technology innovation and military applications has never been more important.
 
-\*\*\*
+***
 
 Sweden will be a safer country in NATO, and NATO will be a stronger alliance with Sweden in it.
 

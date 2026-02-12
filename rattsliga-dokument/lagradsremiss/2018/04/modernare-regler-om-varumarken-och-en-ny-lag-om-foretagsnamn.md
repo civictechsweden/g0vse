@@ -14,4 +14,4 @@ Vidare innehåller lagrådsremissen förslag om en ny lag om skydd för beteckni
 
 De nya lagarna och lagändringarna föreslås träda i kraft den 1 januari 2019.
 
-[Pressmeddelande: Modernare regler för varumärken och företagsnamn](/pressmeddelanden/2018/04/modernare-regler-for-varumarken-och-foretagsnamn/)
+[Pressmeddelande: Modernare regler för varumärken och företagsnamn](/pressmeddelanden/2018/04/modernare-regler-for-varumarken-och-foretagsnamn/)

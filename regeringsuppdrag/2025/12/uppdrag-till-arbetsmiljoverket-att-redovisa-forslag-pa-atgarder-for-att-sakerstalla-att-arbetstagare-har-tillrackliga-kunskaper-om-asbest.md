@@ -1,4 +1,4 @@
-# Uppdrag till Arbetsmiljöverket att redovisa förslag på åtgärder för att säkerställa att arbetstagare har tillräckliga kunskaper om asbestDiarienummer: A2023/00160, A2025/01272
+# Uppdrag till Arbetsmiljöverket att redovisa förslag på åtgärder för att säkerställa att arbetstagare har tillräckliga kunskaper om asbest
 
 Regeringen ger Arbetsmiljöverket i uppdrag att redovisa förslag på åtgärder för att säkerställa att arbetstagare som leder och deltar i arbete med asbest har tillräckliga kunskaper för att hantera asbest säkert.
 

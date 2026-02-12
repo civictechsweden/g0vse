@@ -105,7 +105,7 @@ I utkastet till lagrådsremiss föreslås att de flesta bestämmelser i LVU beh�
 
 Skyddet för barn och unga som löper risk att utsättas för skadliga utlandsvistelser har stärkts genom att utreseförbudet för barn och unga i LVU har utvidgats. Utreseförbud ska kunna beslutas om ett barn riskerar att föras utomlands eller lämnar Sverige och barnets hälsa eller utveckling skadas under utlandsvistelsen på grund av omständigheter som kan föranleda vård enligt LVU. Lagändringen trädde ikraft den 1 juni 2024.
 
-[Ett utvidgat utreseförbud för barn, betänkande 2023/24:SoU24 (på Riksdagens hemsida) - extern webbplats,](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/ett-utvidgat-utreseforbud-for-barn_hb01sou24/)
+[Ett utvidgat utreseförbud för barn, betänkande 2023/24:SoU24 (på Riksdagens hemsida) - extern webbplats,](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/ett-utvidgat-utreseforbud-for-barn_hb01sou24/)
 
 [Pressmeddelande: Förslag i proposition att utvidga reseförbudet för barn och unga](/pressmeddelanden/2024/02/forslag-i-proposition-att-utvidga-reseforbudet-for-barn-och-unga/)
 
@@ -169,7 +169,7 @@ Myndigheten för delaktighet har fått i uppdrag att sprida kunskap om våld mot
 
 Skolverket har i uppdrag att kartlägga och analysera förskolors, skolors och huvudmäns arbete med att förebygga, upptäcka och åtgärda mäns våld mot kvinnor, inklusive våld i ungas relationer och hedersrelaterat våld och förtryck. I uppdraget ingår att föreslå en struktur för samordning av arbetet. Uppdraget ska redovisas senast den 1 december 2026.
 
-[Mer information i Regleringsbrev för budgetåret 2024 avseende Statens skolverk - extern webbplats,](https://www.statskontoret.se/statsliggaren/regleringsbrev/?RBID=25176)
+[Mer information i Regleringsbrev för budgetåret 2024 avseende Statens skolverk - extern webbplats,](https://www.statskontoret.se/statsliggaren/regleringsbrev/?RBID=25176)
 
 ### Skolverket ska analysera elevers utsatthet för digitala dimensioner av bland annat hedersrelaterat våld och förtryck
 

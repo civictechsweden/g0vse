@@ -1,4 +1,4 @@
-# Remiss av förordning om statligt stöd för att förbättra leveranssäkerheten i elsystemetDiarienummer: KN2025/01503
+# Remiss av förordning om statligt stöd för att förbättra leveranssäkerheten i elsystemet
 
 Här kan du ta del av svaren från de som ombetts svara på remissen av förordning om statligt stöd för att förbättra leveranssäkerheten i elsystemet. Övriga yttranden finns tillgängliga i departementet.
 

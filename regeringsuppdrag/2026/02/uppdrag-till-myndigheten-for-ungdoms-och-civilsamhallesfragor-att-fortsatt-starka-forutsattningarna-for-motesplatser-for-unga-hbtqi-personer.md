@@ -1,4 +1,4 @@
-# Uppdrag till Myndigheten för ungdoms-och civilsamhällesfrågor att fortsatt stärka förutsättningarna för mötesplatser för unga hbtqi-personerDiarienummer: A2025/00220, A2026/00116
+# Uppdrag till Myndigheten för ungdoms-och civilsamhällesfrågor att fortsatt stärka förutsättningarna för mötesplatser för unga hbtqi-personer
 
 Regeringen ger Myndigheten för ungdoms-och civilsamhällesfrågor (MUCF) i fortsatt uppdrag att stärka förutsättningarna att skapa och bibehålla fysiska och digitala mötesplatser för unga hbtqi-personer. Detta ska ske genom kompetensutveckling i form av kunskapshöjande insatser om hbtqi-personers lika rättigheter och möjligheter.
 

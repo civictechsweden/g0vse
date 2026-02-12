@@ -1,4 +1,4 @@
-# Uppdrag till Statens Institutionsstyrelse att utreda de praktiska förutsättningarna för att elektroniskt övervaka barn och unga i vissa givna situationerDiarienummer:  S2025/01372
+# Uppdrag till Statens Institutionsstyrelse att utreda de praktiska förutsättningarna för att elektroniskt övervaka barn och unga i vissa givna situationer
 
 Regeringen uppdrar åt Statens Institutionsstyrelse (SiS) att utreda de praktiska förutsättningarna för att elektroniskt kunna övervaka vissa barn och unga som är placerade på de särskilda ungdomshemmen, dels vid vistelser utanför det särskilda ungdomshemmet, dels inom hemmets eget område.
 

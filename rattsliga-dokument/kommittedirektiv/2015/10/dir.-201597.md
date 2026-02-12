@@ -4,7 +4,7 @@ En särskild utredare ska se över konsumentskyddet på bostadsrättsmarknaden. 
 
 I uppdraget ingår bl.a.
 
-* att ta ställning till om innehållet i den ekonomiska planen bör ändras,
+* att ta ställning till om innehållet i den ekonomiska planen bör ändras,
 * om det finns anledning att skärpa regelverket kring intygsgivare,
 * om det rättsliga skyddet för förhandstecknare och andra blivande föreningsmedlemmar behöver förbättras,
 * om skyddet mot rättsförluster i samband med överlåtelse och pantsättning av en bostadsrätt bör stärkas,

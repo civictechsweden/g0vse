@@ -14,4 +14,4 @@ Regeringen föreslår följande:
 
 Lagändringarna föreslås träda i kraft den 1 mars 2019.
 
-[Pressmeddelande: Stärkt ordning och säkerhet i domstol](/pressmeddelanden/2018/06/starkt-ordning-och-sakerhet-i-domstol/)
+[Pressmeddelande: Stärkt ordning och säkerhet i domstol](/pressmeddelanden/2018/06/starkt-ordning-och-sakerhet-i-domstol/)

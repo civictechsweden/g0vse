@@ -1,4 +1,4 @@
-# Uppdrag om stärkt förmåga att återta brottsvinsterDiarienummer: Ju2025/01525
+# Uppdrag om stärkt förmåga att återta brottsvinster
 
 Regeringen ger Ekobrottsmyndigheten, Kronofogdemyndigheten, Polismyndigheten, Skatteverket, Tullverket och Åklagarmyndigheten i uppdrag att stärka förmågan att återta brottsvinster. Myndigheterna ska vidareutveckla arbetsmetoder och accelerera det arbete som påbörjats på området.
 

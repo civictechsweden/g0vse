@@ -1,6 +1,6 @@
-# Nordisk verkställighet i brottmålDs 2025:12
+# Nordisk verkställighet i brottmål
 
-![](/contentassets/495d7d3476be4570a59804208d379392/ds202512_webb.png?width=150&quality=85)
+![](/contentassets/495d7d3476be4570a59804208d379392/ds202512_webb.png?width=150&amp;quality=85)
 
 I promemorian lämnas förslag till en ny lagstiftning om nordisk verkställighet i brottmål som ska ersätta lagen (1963:193) om samarbete med Danmark, Finland, Island och Norge angående verkställighet av straff m.m.
 

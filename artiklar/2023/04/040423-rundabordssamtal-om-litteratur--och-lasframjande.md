@@ -2,7 +2,7 @@
 
 Den 29 mars bjöd kulturminister Parisa Liljestrand och skolminister Lotta Edholm in till rundabordssamtal om litteratur-och läsfrämjande. Syftet med mötet var att tillsammans med centrala aktörer inom litteratur-och läsfrämjande diskutera utmaningar och lösningar.
 
-– Läsning och läsförmåga är ytterst en fråga om demokrati och likvärdighet. Runt bordet har vi den samlade kompetensen för hur vi gemensamt ska främja läsförmågan och läslusten hos barn och unga, säger Parisa Liljestrand.
+– Läsning och läsförmåga är ytterst en fråga om demokrati och likvärdighet. Runt bordet har vi den samlade kompetensen för hur vi gemensamt ska främja läsförmågan och läslusten hos barn och unga, säger Parisa Liljestrand.
 
 Kulturrådet och Skolverket, som båda har uppdrag inom läsfrämjande, delade med sig av sina riktade insatser. Övriga deltagare berättade om sina verksamheter, tankar om läsfrämjande och vilka åtgärder de önskar från statens håll.
 

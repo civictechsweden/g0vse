@@ -1,6 +1,6 @@
 # Nationell strategi för samhällets informations- och cybersäkerhet
 
-![](/contentassets/3f89e3c77ad74163909c092b1beae15e/omslag-skrivelse-2016-17-213_150px.jpg?width=150&quality=85)
+![](/contentassets/3f89e3c77ad74163909c092b1beae15e/omslag-skrivelse-2016-17-213_150px.jpg?width=150&amp;quality=85)
 
 Det finns ett stort behov av att utveckla samhällets informations- och cybersäkerhet. Denna nationella strategi för samhällets informations- och cybersäkerhet är ett uttryck för regeringens övergripande prioriteringar och syftar till att utgöra en plattform för Sveriges fortsatta utvecklingsarbete inom området.
 

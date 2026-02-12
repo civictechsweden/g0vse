@@ -1,6 +1,6 @@
 # Bistånd för en ny era  – Frihet, egenmakt och hållbar tillväxt
 
-![](/globalassets/regeringen/bilder/utrikesdepartementet/reformagendan/reformagendan-omslag-150px.png?width=150&quality=85)
+![](/globalassets/regeringen/bilder/utrikesdepartementet/ovriga-kategorier/reformagendan/reformagendan-omslag-150px.png?width=150&amp;quality=85)
 
 Reformagendan för biståndet presenterades den 14 december 2023 och anger den nya inriktningen för svenskt bistånd.
 

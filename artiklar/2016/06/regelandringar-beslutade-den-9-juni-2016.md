@@ -38,7 +38,8 @@ Regeringen har beslutat om ändring i förordningen om miljöledning i statliga 
 
 Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 21 juni 2016.
 
-**Kontaktpersoner**Vattenverksamhet och kvaliteten på vattenmiljön:
+**Kontaktpersoner**
+Vattenverksamhet och kvaliteten på vattenmiljön:
 Ulrika Gunnesby 08-405 22 46
 
 Sanering av mark: Pia-Maria Lindroos 08-405 21 51

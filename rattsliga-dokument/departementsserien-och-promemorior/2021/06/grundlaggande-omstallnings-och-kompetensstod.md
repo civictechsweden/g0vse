@@ -1,6 +1,6 @@
 # Grundläggande omställnings- och kompetensstöd – för flexibilitet, omställningsförmåga och trygghet på arbetsmarknaden
 
-![](/contentassets/311af8999fdb4d2ebb9aa178d14286a3/ds-16-2021-fram.jpg?width=150&quality=85)
+![](/contentassets/311af8999fdb4d2ebb9aa178d14286a3/ds-16-2021-fram.jpg?width=150&amp;quality=85)
 
 Denna promemoria har utarbetats inom Arbetsmarknadsdepartementet. I promemorian föreslås en ny offentlig omställningsorganisation som ska erbjuda och finansiera grundläggande omställnings- och kompetensstöd.
 

@@ -1,4 +1,4 @@
-# Remiss av promemorian En ny miljöprövningsmyndighetDiarienummer: KN2025/01878
+# Remiss av promemorian En ny miljöprövningsmyndighet
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen Ny myndighet för miljöprövning. Övriga yttranden finns tillgängliga i departementet.
 

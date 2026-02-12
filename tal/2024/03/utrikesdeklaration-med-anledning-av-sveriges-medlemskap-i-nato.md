@@ -10,7 +10,7 @@ Sverige är sedan den 7 mars medlem i Nordatlantiska fördragsorganisationen, Na
 
 Det är en epokgörande händelse för vårt land och innebär en djupgående och omedelbar förändring av Sveriges utrikes- och säkerhetspolitik. Därför är det angeläget för regeringen att i dag presentera en extra utrikesdeklaration till riksdagen.
 
-Den 4 april är det 75 år sedan Nato grundades i Washington DC.  Allt sedan dess har alliansen varit ett oundgängligt fundament för fred och frihet i vår del av världen, och för att möta de auktoritära krafter som hotat den.
+Den 4 april är det 75 år sedan Nato grundades i Washington DC. Allt sedan dess har alliansen varit ett oundgängligt fundament för fred och frihet i vår del av världen, och för att möta de auktoritära krafter som hotat den.
 
 Sverige ansluter sig nu med stolthet som den trettioandra allierade till denna gemenskap vars betydelse för internationell säkerhet aldrig varit viktigare.
 
@@ -28,7 +28,7 @@ Ryssland har använt militärt våld för att nå sina politiska mål. Redan i G
 
 Ryssland har ytterligare sänkt sin tröskel för användning även av massivt militärt våld. Landet är berett att ta mycket stora risker - större än vi tidigare sett – och acceptera mycket stora förluster, inte minst i människoliv – både sina egna medborgare och andras.
 
-Ryssland har steg för steg undandragit sig rustningskontrollens begränsningar. I närtid har man suspenderat sitt deltagande i nya Start-avtalet, dragit tillbaka sin ratificering av provstoppsavtalet och slutgiltigt lämnat avtalet om konventionella styrkor i Europa.  De ryska hoten om kärnvapenanvändning är djupt oansvariga.
+Ryssland har steg för steg undandragit sig rustningskontrollens begränsningar. I närtid har man suspenderat sitt deltagande i nya Start-avtalet, dragit tillbaka sin ratificering av provstoppsavtalet och slutgiltigt lämnat avtalet om konventionella styrkor i Europa. De ryska hoten om kärnvapenanvändning är djupt oansvariga.
 
 Den yttre aggressionen går hand i hand med en hårdnande inre repression i Ryssland. Det begränsade utrymme som tidigare fanns för oppositionella krafter, fristående medier och civilsamhälle har så gott som utraderats. Den ryska statsledningen bär ansvaret för den ryska oppositionsledaren, Aleksej Navalnyjs, död.
 
@@ -104,7 +104,7 @@ Sverige ska fortsätta att främja grundvärden i vår utrikes- och säkerhetspo
 
 Herr/fru talman!
 
-Sveriges och Finlands medlemskap i Nato är en av de största geopolitiska förändringarna i Europa sedan Berlinmurens fall.  Vårt vägval stärker den europeiska säkerhetsarkitekturen.
+Sveriges och Finlands medlemskap i Nato är en av de största geopolitiska förändringarna i Europa sedan Berlinmurens fall. Vårt vägval stärker den europeiska säkerhetsarkitekturen.
 
 Med Sverige blir Nato starkare, utvecklingen i vårt närområde mer förutsägbar och våra grannländer tryggare.
 

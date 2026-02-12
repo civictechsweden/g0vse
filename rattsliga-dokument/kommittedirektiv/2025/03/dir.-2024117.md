@@ -7,4 +7,4 @@ Regeringen beslutade den 14 december 2023 kommittédirektiv om En
 livsmedelskedjan för att förenkla för företag (dir. 2023:170).
 
 Uppdraget skulle enligt direktiven redovisas senast den 31 mars 2025.
-Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 31 maj 2025.
+Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 31 maj 2025.

@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:78 En reformerad underrättelseverksamhetDiarienummer: Fö2025/01020
+# Remiss av SOU 2025:78 En reformerad underrättelseverksamhet
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat SOU 2025:78 En reformerad underrättelseverksamhet.
 

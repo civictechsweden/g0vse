@@ -62,7 +62,7 @@ Vid denna avgörande tidpunkt för vår union vilar ansvaret tungt på ordföran
 
 **Först och främst har stödet till Ukraina högsta prioritet**. Sveriges nya regering har höga ambitioner och har gett omfattande bilateralt stöd till Ukraina, inklusive försvarsmateriel.
 
-Under de senaste tre månaderna har vi presenterat två stödpaket till ett nettovärde av ca 750 miljoner euro:
+Under de senaste tre månaderna har vi presenterat två stödpaket till ett nettovärde av ca 750 miljoner euro:
 
 * ett vinter- och luftförsvarspaket i november och
 * ett markstridspaket som presenterades förra veckan.

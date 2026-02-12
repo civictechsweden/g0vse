@@ -2,7 +2,7 @@
 
 I promemorian föreslås att taket för rotavdraget tillfälligt ska höjas och att det tillfälligt ska införas separata tak för rot- respektive rutavdraget.
 
-Under beskattningsåret 2024 bör taket vara 75 000 kronor per person för rotavdraget och 75 000 kronor per person för rutavdraget. Fram till den 30 juni 2024 bör dock högst 50 000 kronor få användas för rotavdrag och högst 75 000 kronor sammanlagt för rot- och rutavdrag. Förslaget syftar till att temporärt främja sysselsättningen i byggsektorn under lågkonjunkturen i svensk ekonomi.
+Under beskattningsåret 2024 bör taket vara 75 000 kronor per person för rotavdraget och 75 000 kronor per person för rutavdraget. Fram till den 30 juni 2024 bör dock högst 50 000 kronor få användas för rotavdrag och högst 75 000 kronor sammanlagt för rot- och rutavdrag. Förslaget syftar till att temporärt främja sysselsättningen i byggsektorn under lågkonjunkturen i svensk ekonomi.
 
 De tillfälliga bestämmelserna medför ändringar i inkomstskattelagen, lagen om förfarandet vid skattereduktion för hushållsarbete och skatteförfarandelagen.
 

@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:81 En ny organisation av ekobrottsbekämpningenDiarienummer: Ju2025/01396
+# Remiss av SOU 2025:81 En ny organisation av ekobrottsbekämpningen
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen SOU 2025:81 En ny organisation av ekobrottsbekämpningen.
 

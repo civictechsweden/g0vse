@@ -2,7 +2,7 @@
 
 I skrivelsen lämnar regeringen en redogörelse för de mål som regering och riksdag satt upp för arkitektur, formgivning och design, vilka åtgärder regeringen vidtagit för att uppnå dessa mål samt insatser som gjorts på området sedan mitten av 1990-talet. Dessutom redovisas en bedömning av insatserna och inriktningen på det fortsatta arbetet.
 
-En positiv utveckling har ägt rum inom området efter införandet av de nationella arkitektur- och formpolitiska målen samt riksdagsbeslutet om propositionen "Framtidsformer. Handlingsprogram för arkitektur, form- givning och design".
+En positiv utveckling har ägt rum inom området efter införandet av de nationella arkitektur- och formpolitiska målen samt riksdagsbeslutet om propositionen "Framtidsformer. Handlingsprogram för arkitektur, form- givning och design".
 
 Tydliga markeringar har gjorts genom ändringar i plan- och bygglagen, väglagen och lagen om byggande av järnväg i syfte att stärka kraven på estetisk hänsyn, liksom genom uppdragen till vissa fastighetsförvaltande myndigheter att ta fram egna arkitektur- och formprogram för sina verksamheter.
 

@@ -1,4 +1,4 @@
-# Remiss av slutbetänkande En moderniserad fiskelagstiftning (SOU 2025:89)Diarienummer: LI2025/01477
+# Remiss av slutbetänkande En moderniserad fiskelagstiftning (SOU 2025:89)
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen En moderniserad fiskelagstiftning (SOU 2025:89). Övriga yttranden finns tillgängliga i departementet.
 

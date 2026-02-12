@@ -6,4 +6,4 @@ Regeringen föreslår därför att ett nytt gradindelat brott införs i brottsba
 
 För att lagstiftningen bättre ska återspegla brottslighetens allvar föreslår regeringen dessutom att minimistraffet för grovt tjänstefel ska skärpas till fängelse i ett år och sex månader.
 
-Lagändringarna föreslås träda i kraft den 3 juli 2026
+Lagändringarna föreslås träda i kraft den 3 juli 2026.

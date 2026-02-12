@@ -2,7 +2,7 @@
 
 ## Förordningsändringar i industriutsläppsförordningen för att genomföra tre olika BAT-slutsatser
 
-Regeringen har beslutat om ändringar i industriutsläppsförordningen. Kommissionen har med stöd av industriutsläppsdirektivet antagit slutsatser om bästa tillgängliga teknik, s.k. BAT-slutsatser, för stora förbränningsanläggningar, uppfödning av fjäderfän eller grisar samt produktion av organiska högvolymkemikalier. Dessa BAT-slutsatser förs in i 2 kap. industriutsläppsförordningen.
+Regeringen har beslutat om ändringar i industriutsläppsförordningen. Kommissionen har med stöd av industriutsläppsdirektivet antagit slutsatser om bästa tillgängliga teknik, s.k. BAT-slutsatser, för stora förbränningsanläggningar, uppfödning av fjäderfän eller grisar samt produktion av organiska högvolymkemikalier. Dessa BAT-slutsatser förs in i 2 kap. industriutsläppsförordningen.
 
 Ändringarna träder i kraft den 1 november 2019.
 

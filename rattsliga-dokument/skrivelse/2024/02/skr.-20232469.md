@@ -2,7 +2,7 @@
 
 Regeringen redovisar hur den bedömer Riksrevisionens iakttagelser i rapporten Lätt att göra fel – systemet för ersättning för höga sjuklönekostnader. Riksrevisionen har granskat om systemet för ersättning för höga sjuklönekostnader är utformat så att risken för felaktiga utbetalningar minimeras på ett effektivt sätt.
 
-Riksrevisionens övergripande slutsats är att det finns flera tydliga effektivitetsbrister.  Tillsammans innebär dessa en ökad risk för felaktiga utbetalningar.
+Riksrevisionens övergripande slutsats är att det finns flera tydliga effektivitetsbrister. Tillsammans innebär dessa en ökad risk för felaktiga utbetalningar.
 
 Myndigheten:
 

@@ -2,7 +2,7 @@
 
 Regeringen föreslår att ytterligare 30 dagar för vilka det kan betalas ut föräldrapenning på sjukpenningnivå ska reserveras för vardera föräldern.
 
-Det innebär att 180 av de totalt 390 dagar som kan ge ersättning på sjukpenningnivå inte kommer att vara möjliga för föräldrarna att avstå till varandra. En följändring föreslås i lagen om jämställdhetsbonus på så sätt att antalet bonusdagar sänks.
+Det innebär att 180 av de totalt 390 dagar som kan ge ersättning på sjukpenningnivå inte kommer att vara möjliga för föräldrarna att avstå till varandra. En följändring föreslås i lagen om jämställdhetsbonus på så sätt att antalet bonusdagar sänks.
 
 Uttaget av föräldrapenning är inte jämställt. Kvinnor tar i allmänhet ut en betydligt högre andel av föräldrapenningen än vad män gör. Det kan medföra att det tidigt etableras en uppdelning av hem- och omsorgsarbetet som innebär att kvinnor får en ökad börda för det arbetet och samtidigt en längre frånvaro från arbetsmarknaden till följd av långa föräldraledigheter, deltidsarbete och högre uttag av tillfällig föräldrapenning (vård av sjukt barn).
 

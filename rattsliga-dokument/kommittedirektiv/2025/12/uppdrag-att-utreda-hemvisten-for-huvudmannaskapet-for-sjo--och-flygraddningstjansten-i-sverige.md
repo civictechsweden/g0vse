@@ -1,4 +1,4 @@
-# Uppdrag att utreda hemvisten för huvudmannaskapet för sjö- och flygräddningstjänsten i SverigeLI2025/01322, LI2023/01769, LI2023/02811
+# Uppdrag att utreda hemvisten för huvudmannaskapet för sjö- och flygräddningstjänsten i Sverige
 
 En bokstavsutredare ska analysera de verksamhetsmässiga och ekonomiska förutsättningarna för att överföra ansvaret och uppgifterna för sjö- och flygräddningstjänst från Sjöfartsverket till någon annan nationell statlig myndighet med räddningstjänstuppgifter, exempelvis Kustbevakningen eller Myndigheten för samhällsskydd och beredskap (MSB).
 

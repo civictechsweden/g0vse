@@ -1,4 +1,4 @@
-# Nya utbildningsvägar och fler möjligheter till behörighet att undervisa inom det specialpedagogiska områdetDir. 2025:93
+# Nya utbildningsvägar och fler möjligheter till behörighet att undervisa inom det specialpedagogiska området
 
 En särskild utredare ska föreslå åtgärder för att elever och barn inom skolväsendet som är i behov av stöd i undervisningen ska kunna få det av lärare respektive förskollärare med relevant specialpedagogisk kompetens. Syftet är att specialpedagogisk kompetens inom skolväsendet ska tas tillvara på ett ändamålsenligt sätt för att fler elever ska nå utbildningens mål.
 

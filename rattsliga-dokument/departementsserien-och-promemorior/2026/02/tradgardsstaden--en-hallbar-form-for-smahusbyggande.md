@@ -1,4 +1,4 @@
-# Trädgårdsstaden – en hållbar form för småhusbyggandeDelredovisning 4 i Uppdrag att verka för ökat småhusbyggande genom en ny egnahemsrörelse
+# Trädgårdsstaden – en hållbar form för småhusbyggande
 
 I maj 2024 utsåg regeringen Stefan Attefall till Egnahemskommissionär, med uppdraget att verka för ökat småhusbyggande. I uppdraget ingick dels att analysera och klarlägga orsakerna till småhusens låga andel av nyproduktionen av bostäder, dels aktivt arbeta för ett ökat småhusbyggande, samt att verka för anläggandet av nya trädgårdsstäder. Detta är Egnahemskommissionärens fjärde delredovisning.
 

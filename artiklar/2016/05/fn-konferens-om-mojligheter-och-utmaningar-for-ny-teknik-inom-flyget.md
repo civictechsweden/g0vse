@@ -4,7 +4,7 @@ Den 9 maj inledde Anna Johansson seminariet om ny teknologi inom luftfart som sa
 
 – Behovet av ekonomisk tillväxt, ökad sysselsättning och insatser för att minska klimatförändringarna kommer att underlättas med hjälp av ny teknik. Både drönare och fjärrstyrd flygtrafikledning är utmärkta exempel på ny teknik som bidrar till ekonomisk tillväxt, ökad tillgänglighet och nya arbetstillfällen, sa infrastrukturminister Anna Johansson i sitt inledningsanförande.
 
-Under konferensen diskuterade experter från hela världen likheter mellan teknologierna men också vilka möjligheter och utmaningar som teknikutvecklingen med drönare eller fjärrstyrd flygtrafikledning står inför. Inom båda områdena har också svenska företag stora möjligheter att leverera både produkter och tjänster, vilket skapar nya arbetstillfällen.
+Under konferensen diskuterade experter från hela världen likheter mellan teknologierna men också vilka möjligheter och utmaningar som teknikutvecklingen med drönare eller fjärrstyrd flygtrafikledning står inför. Inom båda områdena har också svenska företag stora möjligheter att leverera både produkter och tjänster, vilket skapar nya arbetstillfällen.
 
 Sedan Sverige 2009 fick en reglering av drönare under 150 kg började marknaden växa och Sverige har idag flera världsledande drönartillverkare och över 1000 beviljade tillstånd för kommersiell drönaranvändning. Samtidigt pågår under 2016 förhandlingar om en ny EU-gemensam drönarreglering och många utmaningar, inte minst vad gäller säkerhet, måste hanteras.
 

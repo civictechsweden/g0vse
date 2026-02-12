@@ -7,5 +7,5 @@ För att underlätta tolkningen och tillämpningen av momsreglerna föreslår re
 Förslaget påverkar inte behandlingen av ideella föreningar.
 
 Ändringarna föreslås träda i kraft den 1 juli 2013.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+___________________________________________________________
 Riksdagen fattade den 23 maj 2013 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

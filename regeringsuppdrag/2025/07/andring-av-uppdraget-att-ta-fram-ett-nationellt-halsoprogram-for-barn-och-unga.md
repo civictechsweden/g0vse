@@ -1,4 +1,4 @@
-# Ändring av uppdraget att ta fram ett nationellt hälsoprogram för barn och ungaDiarienummer: S2023/02379
+# Ändring av uppdraget att ta fram ett nationellt hälsoprogram för barn och unga
 
 Uppdraget till Socialstyrelsen, Folkhälsomyndigheten, Myndigheten för familjerätt och föräldraskapsstöd, Specialpedagogiska skolmyndigheten, Statens beredning för medicinsk och social utvärdering och Statens skolverk att ta fram ett nationellt hälsoprogram för barn och unga till och med 20 års ålder tidigareläggs.
 

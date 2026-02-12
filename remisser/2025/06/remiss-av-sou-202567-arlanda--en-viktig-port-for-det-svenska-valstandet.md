@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:67 Arlanda – en viktig port för det svenska välståndetDiarienummer: LI2025/01130
+# Remiss av SOU 2025:67 Arlanda – en viktig port för det svenska välståndet
 
 Här kan du ta del av remissvaren som inkommit på remissen SOU 2025:67 Arlanda – en viktig port för det svenska välståndet.
 

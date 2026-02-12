@@ -1,4 +1,4 @@
-# Hantering av kvalitetskrav för uran i ytvattenKN2025/01829
+# Hantering av kvalitetskrav för uran i ytvatten
 
 Promemorian innehåller förslag som syftar till att säkerställa en ändamålsenlig vattenförvaltning som främjar samhällets utveckling och klimatomställning samtidigt som skyddet för Sveriges vatten upprätthålls.
 

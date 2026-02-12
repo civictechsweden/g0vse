@@ -4,10 +4,10 @@ Regeringen ger Vetenskapsrådet i uppdrag att planera för, genomföra och följ
 
 Uppdraget syftar till
 
-* att långsiktigt bidra till att stärka Sveriges position som en ledande nation för forskning och innovation inom trådlösa kommunikationssystem samt öka svenska företags konkurrenskraft på området, och
+* att långsiktigt bidra till att stärka Sveriges position som en ledande nation för forskning och innovation inom trådlösa kommunikationssystem samt öka svenska företags konkurrenskraft på området, och
 * att stärka svenska forskningsmiljöers förutsättningar att delta i internationell forskningssamverkan och få tillgång till forskningsinfrastruktur, bl.a. genom bilaterala forskningssamarbeten, med särskilt beaktande av länder där Sverige har eller kan komma att ingå relevanta bilaterala partnerskap.
 
-Vetenskapsrådet ska genomföra satsningen så att insatserna bidrar till att växla upp och skapa synergier mellan redan pågående satsningar inom 6G och de teknikområden som krävs för ett starkt 6G-system. Satsningen bör därför ta tillvara synergier och beakta mervärde i förhållande till redan existerande forskningssatsningar, inklusive sådana som genomförs i EUprogram. Satsningar som rör forskning som påverkar standarder ska särskilt beaktas.
+Vetenskapsrådet ska genomföra satsningen så att insatserna bidrar till att växla upp och skapa synergier mellan redan pågående satsningar inom 6G och de teknikområden som krävs för ett starkt 6G-system. Satsningen bör därför ta tillvara synergier och beakta mervärde i förhållande till redan existerande forskningssatsningar, inklusive sådana som genomförs i EUprogram. Satsningar som rör forskning som påverkar standarder ska särskilt beaktas.
 
 Vetenskapsrådet ska löpande utbyta information, underlag och synpunkter med Vinnova. I det inledande arbetet ska även förberedelser göras för att kunna följa upp resultatet av satsningen.
 

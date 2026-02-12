@@ -10,8 +10,8 @@ I propositionen föreslås ändringar i lagen om värdepappersmarknaden som avse
 * regler om minsta tillåtna prisändring
 * Finansinspektionens ingripandemöjligheter.
 
-I propositionen föreslås även en ändring i lagen om värdepappersmarknaden som rör Finansinspektionens beslut att förbjuda handel i vissa fall. Ändringen föreslås med anledning av att Europeiska kommissionen har ifrågasatt om EU:s öppenhetsdirektiv har genomförts i svensk rätt på ett tillräckligt klart och precist sätt.
+I propositionen föreslås även en ändring i lagen om värdepappersmarknaden som rör Finansinspektionens beslut att förbjuda handel i vissa fall. Ändringen föreslås med anledning av att Europeiska kommissionen har ifrågasatt om EU:s öppenhetsdirektiv har genomförts i svensk rätt på ett tillräckligt klart och precist sätt.
 
 I propositionen föreslås också vissa ändringar i kompletterande bestämmelser och hänvisningar till EU:s förordning om värdepapperscentraler.
 
-Lagändringen som rör Finansinspektionens beslut att förbjuda handel i vissa fall föreslås träda i kraft den 1 juni 2025. Detsamma gäller lagändringarna i kompletterande bestämmelser och hänvisningar till EU:s förordning om värdepapperscentraler. Lagändringarna i övrigt föreslås träda i kraft den 29 september 2025.
+Lagändringen som rör Finansinspektionens beslut att förbjuda handel i vissa fall föreslås träda i kraft den 1 juni 2025. Detsamma gäller lagändringarna i kompletterande bestämmelser och hänvisningar till EU:s förordning om värdepapperscentraler. Lagändringarna i övrigt föreslås träda i kraft den 29 september 2025.

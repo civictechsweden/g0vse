@@ -56,7 +56,7 @@ I’m convinced that these two issues are entirely interlinked. You can’t have
 
 We must make sure that Europe is fit for the new age. That we are attractive in the eyes of global companies seeking to invest.
 
-We need to stick to our goals on climate and create predictability for our businesses. At the same time, we need to make sure we have a real single market, functioning and effective capital markets in Europe and a reduced  regulatory burden.
+We need to stick to our goals on climate and create predictability for our businesses. At the same time, we need to make sure we have a real single market, functioning and effective capital markets in Europe and a reduced regulatory burden.
 
 Some people are very gloomy about Europe, when it comes to competition with US and China. But we know what we need to do. This is our chance to either do what’s necessary and be rewarded for it – or sit on our hands and become the world’s biggest museum of yesterday’s innovations.
 

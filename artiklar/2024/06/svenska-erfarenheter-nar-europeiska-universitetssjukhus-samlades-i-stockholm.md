@@ -10,4 +10,4 @@ Acko Ankarberg Johansson lyfte i sitt tal bland annat vikten av samarbete över 
 
 – Vi behöver vara bättre förberedda på och agera på framtida kriser tillsammans. Detta gjordes tydligt av coronapandemin, så väl som Rysslands fullskaliga invasion av Ukraina, sa sjukvårdsminister Acko Ankarberg Johansson i sitt tal.
 
- Ministern lyfte också de erfarenheter och utmaningar som svensk hälso- och sjukvård möter och hur regeringen arbetar med att hantera dessa, bland annat utmaningarna med vårdkapaciteten, kompetensförsörjningen och de nyare erfarenheterna som ett svenskt Nato-medlemskap medfört.
+Ministern lyfte också de erfarenheter och utmaningar som svensk hälso- och sjukvård möter och hur regeringen arbetar med att hantera dessa, bland annat utmaningarna med vårdkapaciteten, kompetensförsörjningen och de nyare erfarenheterna som ett svenskt Nato-medlemskap medfört.

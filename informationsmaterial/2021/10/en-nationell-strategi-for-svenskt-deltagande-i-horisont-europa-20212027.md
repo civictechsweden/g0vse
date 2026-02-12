@@ -1,6 +1,6 @@
 # En nationell strategi för svenskt deltagande i Horisont Europa 2021–2027
 
-![](/contentassets/78b3b1ba662d49518b29a0156d220111/omslagsbild_strategi-horisont-europa-20212027.jpg?width=150&quality=85)
+![](/contentassets/78b3b1ba662d49518b29a0156d220111/omslagsbild_strategi-horisont-europa-20212027.jpg?width=150&amp;quality=85)
 
 Regeringen fattade den 7 oktober 2021 beslut om En nationell strategi för svenskt deltagande i Horisont Europa 2021–2027.
 

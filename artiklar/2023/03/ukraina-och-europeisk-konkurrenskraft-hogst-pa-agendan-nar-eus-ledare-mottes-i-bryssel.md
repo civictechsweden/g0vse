@@ -2,11 +2,11 @@
 
 När statsminister Ulf Kristersson träffade sina EU-kollegor i Europeiska rådet 23–24 mars antogs slutsatser om Ukraina, konkurrenskraft, ekonomi, energi och migration. FN:s generalsekreterare António Guterres deltog vid mötet med EU:s stats- och regeringschefer och tog särskilt upp de globala konsekvenserna av Rysslands krig i Ukraina.
 
-- En avgörande fråga för Sverige har varit att få fokus på europeisk konkurrenskraft. Vi måste få på plats rätt villkor här för att kunna konkurrera med resten av världen, sade statsminister Ulf Kristersson efter mötet.
+- En avgörande fråga för Sverige har varit att få fokus på europeisk konkurrenskraft. Vi måste få på plats rätt villkor här för att kunna konkurrera med resten av världen, sade statsminister Ulf Kristersson efter mötet.
 
 Statsministern tillade även att:
 
--  Beslutet som nu tagits att skicka mer ammunition till Ukraina är ett viktigt beslut.
+- Beslutet som nu tagits att skicka mer ammunition till Ukraina är ett viktigt beslut.
 
 ## Rysslands anfallskrig i Ukraina
 

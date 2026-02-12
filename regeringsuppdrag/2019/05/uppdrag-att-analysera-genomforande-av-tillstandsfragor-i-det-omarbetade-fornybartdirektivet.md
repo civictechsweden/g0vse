@@ -10,7 +10,7 @@ Inom ramen för uppdraget ska Naturvårdsverket
 * utreda om kravet på möjligheten att lämna in tillståndsansökan digitalt medför ett behov av regel- eller systemförändring,
 * utreda om tidsgränserna uppfylls eller om dessa medför behov av nya krav eller regler,
 * utreda om ett förenklat anmälningsförfarande bör införas för vissa
-  uppgraderingsprojekt,
+uppgraderingsprojekt,
 * utreda om det finns andra behov av system- eller regelförändringar för att genomföra artikel 16 i det omarbetade förnybartdirektivet, samt
 * utreda vilka konsekvenser de förslag som verket lämnar medför.
 

@@ -6,5 +6,5 @@ Syftet med förslaget är att förhindra möjligheten till skatteplanering genom
 
 Det finns enligt regeringens mening särskilda skäl för att med stöd av undantagsbestämmelsen i 2 kap. 10 § andra stycket regeringsformen tillämpa det kommande förslaget från och med dagen efter det att denna skrivelse överlämnats till riksdagen, dvs. från och med den 15 juni 2012.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+__________________________________________________________
 Riksdagen fattade den 5 december 2012 beslut om skrivelsen. Läs mer om beslutet via länken i högerspalten.

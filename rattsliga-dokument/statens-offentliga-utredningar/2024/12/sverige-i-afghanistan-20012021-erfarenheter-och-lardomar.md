@@ -1,6 +1,6 @@
 # Sverige i Afghanistan 2001–2021
 
-![Bokomslag med en kartbild över Afghanistan. ](/contentassets/452d6ed376a6428a858722022326d7b8/sou202492.jpg?width=150&quality=85)
+![Bokomslag med en kartbild över Afghanistan. ](/contentassets/452d6ed376a6428a858722022326d7b8/sou202492.jpg?width=150&amp;quality=85)
 
 Betänkande av den parlamentariska kommittén för utvärdering av Sveriges engagemang
 i Afghanistan under åren 2001–2021.
@@ -13,4 +13,4 @@ Sverige har tillsammans med många andra länder bidragit till att stödja Afgha
 
 Kommitténs uppdrag sträcker sig från 2001 till 2021; från året då terrorattackerna mot USA den 11 september 2001 skakade världen till några månader efter Kabuls fall den 15 augusti 2021 och talibanernas maktövertagande i Afghanistan.
 
-Dagens situation i Afghanistan uppvisar få hoppfulla tecken. För kvinnorna och flickorna i landet är situationen särskilt svår. Afghanistan är inte heller längre föremål för lika omfattande internationellt intresse. Andra internationella kriser och konflikter har kommit i förgrunden. Kommittén har i sitt gemensamma arbete lyssnat, läst, diskuterat och dragit lärdomar vilka redovisas i betänkandet.
+Dagens situation i Afghanistan uppvisar få hoppfulla tecken. För kvinnorna och flickorna i landet är situationen särskilt svår. Afghanistan är inte heller längre föremål för lika omfattande internationellt intresse. Andra internationella kriser och konflikter har kommit i förgrunden. Kommittén har i sitt gemensamma arbete lyssnat, läst, diskuterat och dragit lärdomar vilka redovisas i betänkandet.

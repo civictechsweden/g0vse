@@ -1,4 +1,4 @@
-# Stärkt skydd för barn som riskerar att fara illaProp. 2025/26:12
+# Stärkt skydd för barn som riskerar att fara illa
 
 Propositionen innehåller flera förslag som syftar till att stärka barns
 möjligheter till skydd och stöd från socialnämnden.

@@ -5,7 +5,7 @@ I propositionen anger regeringen en långsiktig strategi för att värna och fö
 Utgångspunkten är att det medborgerliga deltagandet skall öka och ett demokratiskt samhälle främjas.
 
 Dessutom föreslås ändringar i kommunallagen (1991:900),
-skollagen (1985:1100) och lagen (1994:692) om kommunala folkomröstningar. Ändringarna innebär bland annat att fullmäktige får besluta att
+skollagen (1985:1100) och lagen (1994:692) om kommunala folkomröstningar. Ändringarna innebär bland annat att fullmäktige får besluta att
 medborgarna får väcka förslag i fullmäktige (medborgarförslag), att
 arbetsvillkoren för förtroendevalda i kommuner och landsting förbättras
 och att möjligheterna till brukarinflytande stärks, samt att allmänheten

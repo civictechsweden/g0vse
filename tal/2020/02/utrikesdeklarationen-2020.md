@@ -19,6 +19,8 @@ Ett välfungerande internationellt samarbete och folkrätten är grunden för en
 
 Vi står upp för diplomati, dialog och samarbete. Så försvarar vi våra intressen, värderingar och trygghet. Så gör vi världen säkrare.
 
+
+
 Herr/fru talman,
 
 EU är vår viktigaste utrikes- och säkerhetspolitiska arena. Ingen annan aktör är i så stor utsträckning en garant för svensk ekonomi, säkerhet och fred. Sverige ska fullt ut delta i EU-samarbetet och i dess utformning på ett sätt som värnar svenska intressen.
@@ -36,6 +38,8 @@ Det finns idag en oro hos många för att EU-utvidgningen går för fort fram. D
 Kommissionen har tidigare föreslagit förhandlingsstart för Albanien och Nordmakedonien. Det har Sverige varit berett att ställa sig bakom.
 
 Sverige stödjer förslaget om en översyn av utvidgningsprocessen, och det är viktigt att alla nödvändiga krav är uppfyllda innan ett land kan bli medlem.
+
+
 
 Herr/fru talman,
 
@@ -85,6 +89,8 @@ Regeringen kommer att fortsätta det framgångsrika arbetet mot organiserad brot
 
 Sverige kommer att stärka arbetet för att stoppa flödet av vapen och droger och ta nya steg mot gränsöverskridande brottslighet och terrorism. Europol och Eurojust är centrala i detta arbete.
 
+
+
 Herr/fru talman,
 
 Den globala uppvärmningen drabbar oss här och nu.
@@ -96,6 +102,8 @@ Klimatförändringarna spär på motsättningar och konflikter. Sverige kommer f
 EU är en nödvändig kraft i det globala klimatarbetet. Sverige ska inom och utanför EU fortsätta att visa ledarskap och bli världens första fossilfria välfärdsland. Vårt klimatarbete är rankat högst i världen. Vi har fördubblat vårt bidrag till den gröna klimatfonden. Vi arbetar både hemma och internationellt för en rättvis omställning.
 
 Fungerande ekosystem är en förutsättning för allt liv. Skogar, våtmarker och hav är hem för en rik biologisk mångfald. Havsmiljön är under starkt tryck från klimatförändringar, överutnyttjande, föroreningar och övergödning. Regeringen vill se ett globalt mål om att 30 procent av havet ska omfattas av marint områdesskydd.
+
+
 
 Herr/fru talman,
 
@@ -115,6 +123,8 @@ Vi utvecklar handelns betydelse som plattform för dialog om mänskliga rättigh
 
 Tilltagande antisemitism är ett växande orosmoln i hela världen och ett demokratihot. Statsministern har därför tagit initiativ till ett internationellt forum i Malmö i oktober 2020 för hågkomst av Förintelsen och bekämpande av antisemitism.
 
+
+
 Herr/fru talman,
 
 Kvinnors och flickors rättigheter är under attack. Konservativa krafter försöker begränsa rätten för kvinnor och flickor att bestämma över sina kroppar och liv.
@@ -126,6 +136,8 @@ För att vända utvecklingen krävs modiga insatser på alla nivåer. Därför d
 Det är glädjande att vi fått sällskap av länder som Frankrike, Kanada, Luxemburg och Mexiko.
 
 Inom EU har Sverige och Frankrike tagit initiativ för att effektivisera EU:s jämställdhetsarbete och vi etablerar en feministisk handelspolitik.
+
+
 
 Herr/fru talman,
 
@@ -141,6 +153,8 @@ Ojämlikhet är inte bara orättvist och ett hinder för ekonomisk utveckling �
 
 Initiativet Global Deal främjar social dialog och hållbar tillväxt globalt. I vissa länder är det förenat med livsfara att stå upp för fackligt engagemang och drägliga arbetsvillkor. Fackliga rättigheter är en del av vår demokratisatsning och kommer att tas upp i alla UD:s landrapporter om mänskliga rättigheter.
 
+
+
 Herr/fru talman,
 
 Världshandeln bidrar till att lyfta hela länder ur fattigdom och till genomförandet av Agenda 2030.
@@ -150,6 +164,8 @@ Sverige driver som EU-medlem en politik för fri och rättvis handel, som bidrar
 Vi kraftsamlar genom en uppdaterad export- och investeringsstrategi för hela Sverige.
 
 Världsutställningen Expo 2020 i Dubai visar upp svenska företags konkurrenskraft inom hållbarhet och innovation.
+
+
 
 Herr/fru talman,
 
@@ -164,6 +180,8 @@ Regeringen bidrar genom Stockholmsinitiativet för kärnvapennedrustning till ko
 Som ordförande i IAEA tar Sverige ansvar för icke-spridning. Efterlevnaden av kärnenergiavtalet JCPOA är central.
 
 Sverige driver på inom ramen för konventionen om vissa konventionella vapen för ett effektivt internationellt förbud mot dödliga autonoma vapensystem som är oförenliga med folkrättens krav.
+
+
 
 Herr/fru talman,
 
@@ -219,6 +237,8 @@ Den afrikanska kontinenten har en ung befolkning. Om de många unga får tillgå
 Mänskliga rättigheter, demokrati och jämställdhet är prioriterade frågor i Sveriges afrikapolitik, men också migration och handel. Det är viktigt att stödja en hållbar utveckling i Afrika. Det kan handla om flickors skolgång och ökad tillgång till el.
 
 Säkerhetsläget i Sahel är fortsatt mycket oroande, inte minst i Mali. Regionen präglas av svaga stater. Situationen är en grogrund för radikalisering.
+
+
 
 Herr/fru talman,
 

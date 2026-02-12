@@ -1,4 +1,4 @@
-# Uppdrag till Diskrimineringsombudsmannen att motverka åldersdiskriminering i arbetslivetDiarienummer: A2025/01199
+# Uppdrag till Diskrimineringsombudsmannen att motverka åldersdiskriminering i arbetslivet
 
 Regeringen ger Diskrimineringsombudsmannen (DO) i uppdrag att, i konsultation med arbetsmarknadens parter, identifiera behov av stödinsatser och andra åtgärder för att stärka arbetsgivares arbete mot åldersdiskriminering i arbetslivet.
 

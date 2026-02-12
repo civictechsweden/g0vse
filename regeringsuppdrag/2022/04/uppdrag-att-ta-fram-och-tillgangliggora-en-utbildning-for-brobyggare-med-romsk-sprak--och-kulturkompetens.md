@@ -5,11 +5,11 @@ Regeringen ger Statens skolverk och Socialstyrelsen i uppdrag att säkerställa 
 Socialstyrelsen och Statens skolverk ska:
 
 * Undersöka förutsättningarna för lämplig förberedande utbildning
-  som avser förberedelse till eftergymnasiala studier samt föreslå hur en sådan utbildning bör organiseras och genomföras. När det gäller
-  denna del av uppdraget ska myndigheterna föra en dialog med
-  Folkbildningsrådet.
+som avser förberedelse till eftergymnasiala studier samt föreslå hur en sådan utbildning bör organiseras och genomföras. När det gäller
+denna del av uppdraget ska myndigheterna föra en dialog med
+Folkbildningsrådet.
 * Inhämta och sammanställa redogörelser för brobyggarverksamheten från de kommuner och regioner som deltar med brobyggare i utbildningen.
 * Bedöma behovet av brobyggare i kommunala och regionala
-  verksamheter såsom skola och socialtjänst.
+verksamheter såsom skola och socialtjänst.
 * Analysera den samlade brobyggarverksamhetens betydelse och utfallet av genomförda utbildningar.
 * Sprida information om utbildningen i lämpliga kanaler.

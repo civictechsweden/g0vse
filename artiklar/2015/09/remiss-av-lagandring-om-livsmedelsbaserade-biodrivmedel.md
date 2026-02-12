@@ -2,7 +2,7 @@
 
 Måndagen den 14 september skickades ett förslag om lagändringar om livsmedelsbaserade biodrivmedel ut på remiss.
 
-Lagändringen innebär att skattebefrielse inte kommer att ges till livsmedelsbaserade biodrivmedel för transporter (exempelvis etanol från vete eller majs) som producerats i anläggningar som tagits i drift efter 2013 eller som är fullständigt avskrivna. Detta gäller både för biodrivmedel som är producerade i Sverige och för importerade biodrivmedel.
+Lagändringen innebär att skattebefrielse inte kommer att ges till livsmedelsbaserade biodrivmedel för transporter (exempelvis etanol från vete eller majs) som producerats i anläggningar som tagits i drift efter 2013 eller som är fullständigt avskrivna. Detta gäller både för biodrivmedel som är producerade i Sverige och för importerade biodrivmedel.
 
 Lagändringarna avser endast livsmedelsbaserade biodrivmedel. Andra biodrivmedel (såsom biogas från restprodukter och avfall, eller t.ex. biodiesel från tallolja) berörs inte.
 

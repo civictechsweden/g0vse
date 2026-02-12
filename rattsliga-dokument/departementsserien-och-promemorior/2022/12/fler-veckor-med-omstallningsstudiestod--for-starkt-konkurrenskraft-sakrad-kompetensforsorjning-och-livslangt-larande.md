@@ -1,6 +1,6 @@
 # Fler veckor med omställningsstudiestöd
 
-![](/contentassets/832389858c3e4c14b4435609467ad36e/ds-2022_29-omslag-framsida.jpg?width=150&quality=85)
+![](/contentassets/832389858c3e4c14b4435609467ad36e/ds-2022_29-omslag-framsida.jpg?width=150&amp;quality=85)
 
 Denna promemoria innehåller förslag till de ändringar som behövs i lagen (2022:856) om omställningsstudiestöd och förordningen (2022:857) om omställningsstudiestöd.
 

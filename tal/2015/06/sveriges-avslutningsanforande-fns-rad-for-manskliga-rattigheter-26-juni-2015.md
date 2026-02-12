@@ -14,6 +14,8 @@ Our discussions today have confirmed the importance of the UPR process. As we no
 
 Several other important inquiries and initiatives regarding the future systematic work for human rights in Sweden are ongoing. For example, the Minster for Foreign Affairs announced in February that Sweden will develop a new strategy for human rights, democracy and the rule of law in Swedish Foreign Policy. The work has started and will be conducted in close cooperation with the civil society.
 
+
+
 Mr President,
 
 As we did in preparing for the review, we will closely consult civil society and other stakeholders in the follow up. A dialogue with interested parties is essential to ensuring that all relevant issues are covered in an adequate manner.

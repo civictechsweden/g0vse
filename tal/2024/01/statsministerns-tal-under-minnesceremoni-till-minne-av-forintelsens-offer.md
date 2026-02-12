@@ -14,7 +14,7 @@ Många har i decennier frågat sig: Hur kunde det ske? Varför protesterade så 
 
 Det är inte ett löfte som finns nedtecknat, men inpräntat i vårt gemensamma medvetande. Och vår förmåga att hålla det löftet prövas just nu. I Sverige, i Europa och globalt.
 
-\*\*\*
+***
 
 Den 7 oktober begicks det värsta massmordet på judar sedan Förintelsen.
 
@@ -32,9 +32,9 @@ Några som intervjuas - och andra som jag själv har pratat med - återkommer ti
 
 Vi har som land – som stat, som medborgare och som medmänniskor – ett gemensamt ansvar. Att inte relativisera. Att bidra, inte bara med högtidliga ord, utan med handling.
 
-För antisemitismen kan inte tigas ihjäl. Den ska bemötas och bekämpas.  Hatet frodas i den tystnad där de hotade kuvas.
+För antisemitismen kan inte tigas ihjäl. Den ska bemötas och bekämpas. Hatet frodas i den tystnad där de hotade kuvas.
 
-\*\*\*
+***
 
 Förintelsen ska ha en särställning i vårt kollektiva minne. Rätt vårdat är det minnet ett vaccin mot framtida folkmord och övergrepp.
 

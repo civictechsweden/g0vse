@@ -13,7 +13,7 @@ Fru ordförande, de nordiska länderna fördömer Rysslands allvarliga kränknin
 De nordiska länderna är fullt ut solidariska med Estland. Liksom våra baltiska vänner delar Norden en lång gräns med Ryssland.
 Vi är djupt oroade över Rysslands bristande respekt för grannländernas territoriella integritet.
 
-Genom att kränka Estlands luftrum har Ryssland återigen visat prov på vårdslöst och lagstridigt beteende.  Inte ens fjorton dagar har gått sedan säkerhetsrådet höll ytterligare ett extrainkallat möte efter Rysslands kränkning av Polens luftrum.
+Genom att kränka Estlands luftrum har Ryssland återigen visat prov på vårdslöst och lagstridigt beteende. Inte ens fjorton dagar har gått sedan säkerhetsrådet höll ytterligare ett extrainkallat möte efter Rysslands kränkning av Polens luftrum.
 
 Sedan dess har Ryssland kränkt även Rumäniens luftrum. Vi uppmanar enträget Ryssland att omedelbart upphöra med detta och att ta sitt ansvar som permanent rådsmedlem.
 

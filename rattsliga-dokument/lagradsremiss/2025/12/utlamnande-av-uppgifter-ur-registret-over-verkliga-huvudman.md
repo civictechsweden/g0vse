@@ -4,9 +4,9 @@ EU:s sjätte penningtvättsdirektiv ska genomföras i svensk rätt senast i juli
 
 I lagrådsremissen behandlas dessa artiklar. Det föreslås att det införs
 
-* striktare regler om på vilket sätt olika kategorier av mottagare kan få del av uppgifter ur registret över verkliga huvudmän, och
+* striktare regler om på vilket sätt olika kategorier av mottagare kan få del av uppgifter ur registret över verkliga huvudmän, och
 * en ny sekretessbrytande bestämmelse.
 
-Eftersom de nya unionsrättsliga bestämmelserna innebär krav på att personer med ett berättigat intresse av uppgifterna i registret över verkliga huvudmän ska kunna få del av dessa elektroniskt och även anger ett förfarande för att fastställa om ett berättigat intresse finns, föreslås även att sådana bestämmelser tas in i nationell rätt.
+Eftersom de nya unionsrättsliga bestämmelserna innebär krav på att personer med ett berättigat intresse av uppgifterna i registret över verkliga huvudmän ska kunna få del av dessa elektroniskt och även anger ett förfarande för att fastställa om ett berättigat intresse finns, föreslås även att sådana bestämmelser tas in i nationell rätt.
 
 Lagändringarna föreslås träda i kraft den 1 juli 2026.

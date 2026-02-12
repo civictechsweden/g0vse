@@ -6,4 +6,4 @@ I propositionen föreslås att Sverige ska tillträda protokollet och konvention
 
 Lagändringarna föreslås träda i kraft den 1 maj 2018.
 
-[Pressmeddelande: Regeringen moderniserar och utvidgar kapningsbrottet](/pressmeddelanden/2017/12/regeringen-moderniserar-och-utvidgar-kapningsbrottet/)
+[Pressmeddelande: Regeringen moderniserar och utvidgar kapningsbrottet](/pressmeddelanden/2017/12/regeringen-moderniserar-och-utvidgar-kapningsbrottet/)

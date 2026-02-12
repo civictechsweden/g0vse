@@ -1,3 +1,5 @@
 # Utrikesministern och försvarsministern bjuder in till pressbriefing om svenskt bidrag  till Natos avskräckning och försvar
 
 Anmälningstiden har gått ut.
+
+Anmälningstiden har gått ut.

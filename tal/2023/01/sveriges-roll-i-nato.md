@@ -22,9 +22,9 @@ Jag talade i förrgår än en gång med president Zelenskyj. Som svensk statsmin
 
 Nu till Sveriges roll i Nato.
 
-Hela Natos ansvar är också Sveriges ansvar. Vi ska vara en långsiktig, lojal och engagerad medlem. I likhet med Norge och Danmark på sin tid, går Sverige med i Nato utan formella förbehåll. Men vi ser – lika lite som övriga nordiska länder – att det är aktuellt att i fredstid ha kärnvapen på vårt eget territorium.
+Hela Natos ansvar är också Sveriges ansvar. Vi ska vara en långsiktig, lojal och engagerad medlem. I likhet med Norge och Danmark på sin tid, går Sverige med i Nato utan formella förbehåll. Men vi ser – lika lite som övriga nordiska länder – att det är aktuellt att i fredstid ha kärnvapen på vårt eget territorium.
 
-Därutöver tar vi med oss sex styrkor in i Nato, som kommer bli viktiga byggstenar i vårt medlemskap.
+Därutöver tar vi med oss sex styrkor in i Nato, som kommer bli viktiga byggstenar i vårt medlemskap.
 
 Den första styrkan är geografisk. Med svenskt medlemskap följer ett 1600 kilometer långt lufthav som sträcker sig från Arktis till södra Östersjön. Sverige har Östersjöns längsta strandlinje och viktiga hamnar i Västerhavet. Sverige är länken som förbinder de östliga Natoländerna med Atlanten. Norden blir för första gången på 500 år en och samma försvarsgeografi, en del av samma försvarsförbund och får ett strategiskt djup för gemensamma stridskrafter.
 
@@ -46,7 +46,7 @@ Den femte styrkan är våra värderingar. Sverige och Norden präglas av starka 
 
 En annan stark värdering är internationalism och engagemang för fred, rättvisa och global säkerhet. Det har vi under lång tid visat genom internationella militära insatser, men också med vårt engagemang för universella fri- och rättigheter, bistånd och frihandel. Svenska värderingar är i hög grad Natos värderingar.
 
-Den långa traditionen av försvarsvilja är också en stark värdering. Vår har haft en egen flotta i ett halvt årtusende. Det svenska flygvapnet var decennierna efter andra världskriget bland de starkaste i hela världen. För inte så länge sedan kunde vi mobilisera 800 000 man. Nu tar  Sverige återigen försvaret på stort allvar.
+Den långa traditionen av försvarsvilja är också en stark värdering. Vår har haft en egen flotta i ett halvt årtusende. Det svenska flygvapnet var decennierna efter andra världskriget bland de starkaste i hela världen. För inte så länge sedan kunde vi mobilisera 800 000 man. Nu tar Sverige återigen försvaret på stort allvar.
 
 Det sjätte styrkan är vår nationella enighet. Sveriges Nato-medlemskap har ett mycket brett stöd i riksdagen. Den förra regeringen byggde allianser med likasinnade länder, särskilt med Finland, USA, Storbritannien och Frankrike. Efter Rysslands anfall på Ukraina tog även Socialdemokraterna i våras ställning för Nato, under ledning av min företrädare Magdalena Andersson. Jag värdesätter den enigheten. Det är stort att kunna ändra sig, och i ett nytt läge sätta landet främst.
 

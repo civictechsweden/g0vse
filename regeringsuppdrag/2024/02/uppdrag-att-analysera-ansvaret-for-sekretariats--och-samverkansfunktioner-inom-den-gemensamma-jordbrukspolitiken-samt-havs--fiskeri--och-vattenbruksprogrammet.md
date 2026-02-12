@@ -3,7 +3,7 @@
 Regeringen ger Statskontoret i uppdrag att analysera ansvaret för organisering och administrativ hantering av sekretariats- och samverkansfunktioner inom den gemensamma jordbrukspolitiken, havs-, fiskeri- och vattenbruksprogrammet.
 
 Nuvarande ansvarsfördelning, organisering och administrativ modell, liksom
-förslag till ändringar, ska analyseras utifrån effektivitet, ändamålsenlighet och rättssäkerhet.
+förslag till ändringar, ska analyseras utifrån effektivitet, ändamålsenlighet och rättssäkerhet.
 
 Uppdraget består av två delar. I den första delen ska Statskontoret särskilt
 analysera följande funktioner vid Jordbruksverket. Statskontoret ska också genomföra en analys av hur motsvarande funktioner hanteras av andra aktörer än den förvaltande eller utbetalande myndigheten i jämförbara EU-länder.

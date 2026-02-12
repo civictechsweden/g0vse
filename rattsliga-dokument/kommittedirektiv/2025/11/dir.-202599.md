@@ -1,4 +1,4 @@
-# Tilläggsdirektiv till Utredningen om stärkta förutsättningar för gränsöverskridande samarbete om kapacitet och redundans för transporter över Öresund från 2050 (LI 2025:02)Dir. 2025:99
+# Tilläggsdirektiv till Utredningen om stärkta förutsättningar för gränsöverskridande samarbete om kapacitet och redundans för transporter över Öresund från 2050 (LI 2025:02)
 
 Förlängd tid för uppdraget.
 

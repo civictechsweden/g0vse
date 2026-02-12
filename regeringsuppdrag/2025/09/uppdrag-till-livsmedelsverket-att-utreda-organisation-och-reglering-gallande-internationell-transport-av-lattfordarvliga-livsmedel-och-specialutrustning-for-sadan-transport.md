@@ -1,4 +1,4 @@
-# Uppdrag till Livsmedelsverket att utreda organisation och reglering gällande internationell transport av lättfördärvliga livsmedel och specialutrustning för sådan transportDiarienummer: LI2025/01563
+# Uppdrag till Livsmedelsverket att utreda organisation och reglering gällande internationell transport av lättfördärvliga livsmedel och specialutrustning för sådan transport
 
 Regeringen ger Livsmedelsverket i uppdrag att utreda och lämna förslag till en ny organisation och reglering för testning och godkännande av utrustning som omfattas av överenskommelsen om internationell transport av lättfördärvliga livsmedel och specialutrustning för sådan transport (ATP).
 

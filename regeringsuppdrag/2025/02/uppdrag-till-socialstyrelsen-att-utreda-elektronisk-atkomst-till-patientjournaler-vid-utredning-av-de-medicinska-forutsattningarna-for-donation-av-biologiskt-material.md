@@ -7,7 +7,7 @@ Socialstyrelsen ska bland annat:
 * analysera och redogöra vilka handlingsalternativ som finns för att möjliggöra elektronisk åtkomst till patientuppgifter för medicinsk utredning inför donation, samt argument för och emot de olika alternativen,
 * analysera och redogöra för vilka personalkategorier som är i störst behov av att ha tillgång till möjliga donatorers patientjournaler,
 * lämna nödvändiga författningsförslag,
-* redovisa konsekvenserna av förslagen, i enlighet med förordningen  om konsekvensutredningar,
+* redovisa konsekvenserna av förslagen, i enlighet med förordningen om konsekvensutredningar,
 * samtala med berörda aktörer för att utreda vårdpersonalens behov av elektronisk åtkomst till uppgifter hos andra vårdgivare,
 * samråda med Rättsmedicinalverket, Integritetsskyddsmyndigheten och Inspektionen för vård och omsorg,
 * samtala med den utredning som har uppdraget att möjliggöra en nationell digital infrastruktur för hälsodata. Detta för att försäkra sig om att Socialstyrelsens förslag är förenliga med de förslag bokstavsutredningen tar fram.

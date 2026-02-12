@@ -6,7 +6,7 @@ Myndigheten ska säkerställa att nationella strukturer för testning och dess f
 
 ## Undanträngningseffekter i hälso- och sjukvård eller omsorg
 
-Myndigheten ska  stödja regionerna med att se till att det inte uppstår några undanträngningseffekter i hälso- och sjukvård eller omsorg. Den ska också se till att testningen är ändamålsenlig och resurseffektiv.
+Myndigheten ska stödja regionerna med att se till att det inte uppstår några undanträngningseffekter i hälso- och sjukvård eller omsorg. Den ska också se till att testningen är ändamålsenlig och resurseffektiv.
 
 ## Storskalig testning, beredskap och materiel
 

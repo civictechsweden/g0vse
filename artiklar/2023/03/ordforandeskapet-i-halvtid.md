@@ -6,7 +6,7 @@ Stödet till Ukraina och fortsatt press på Ryssland, klimat- och energifrågorn
 
 ### Ukraina
 
-Att ge stöd till Ukraina och sätta press på Ryssland är den enskilt viktigaste frågan under det svenska ordförandeskapet. Det har från dag ett varit högsta prioritet att bevara den styrka och enighet som EU visat under det senaste året. Ordförandeskapet har därför ägnat mycket kraft till att upprätthålla ett hårt tryck mot Ryssland, bland annat genom sanktioner.
+Att ge stöd till Ukraina och sätta press på Ryssland är den enskilt viktigaste frågan under det svenska ordförandeskapet. Det har från dag ett varit högsta prioritet att bevara den styrka och enighet som EU visat under det senaste året. Ordförandeskapet har därför ägnat mycket kraft till att upprätthålla ett hårt tryck mot Ryssland, bland annat genom sanktioner.
 
 I februari antog EU sitt tionde sanktionspaket och inom unionen finns beredskap att skärpa sanktionerna ytterligare. Ordförandeskapet har även arbetat för att skapa enighet mellan EU-länderna om hur Ryssland ska ställas till svars för sina krigsbrott. Det har bland annat handlat om att stötta etableringen av en särskild internationell tribunal med uppdrag att utreda och lagföra aggressionsbrott mot Ukraina.
 

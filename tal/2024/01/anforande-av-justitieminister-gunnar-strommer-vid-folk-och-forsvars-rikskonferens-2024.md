@@ -18,7 +18,7 @@ Jag tänker på personalen när den svenska ambassaden i Bagdad stormades och sa
 
 Och jag tänker på de judiska föräldrar i Sverige som inte vågade skicka sina barn till skolan efter Hamas terrorattack mot Israel den 7 oktober.
 
-\*\*\*
+***
 
 Det här är brutala uttryck för problem som har djupa och breda förgreningar inom och utom landets gränser. Under året har säkerhetsläget allvarligt försämrats i vår omvärld och det påverkar Sverige – de yttre hoten har betydelse för den inre säkerheten.
 
@@ -28,7 +28,7 @@ Vi ser en växande extremism, ett ökat attentatshot och ett bredare författnin
 
 Vi behöver bygga motståndskraft – att skydda Sveriges säkerhet och svenska intressen utomlands är helt avgörande. Sverige ska inte vara en plattform för säkerhetshotande verksamhet.
 
-\*\*\*
+***
 
 Det dödliga skjutvapenvåldet har tredubblats över tio år. 2022 var rekordmörkt med 62 dödliga skjutningar. 2023 landade siffran enligt polisen på 53 – en minskning från året innan, men samtidigt den näst högsta siffran hittills. Och det är ungefär nio gånger fler än i Norge, Danmark och Finland – tillsammans.
 
@@ -42,7 +42,7 @@ Men den organiserade brottslighetens destruktiva kraft underskattades alltför l
 
 Vi kan dessutom se att enskilda personer rör sig i både gängmiljön och extremistmiljön. Det ökar extremisternas tillgång till vapen. Och ekonomisk brottslighet är en viktig del av finansieringen av terrorism.
 
-\*\*\*
+***
 
 Mot den här bakgrunden sker nu en omprövning och en anpassning av strategier, regelverk och åtgärder till det säkerhetsläge som vi står inför.
 
@@ -58,7 +58,7 @@ Samtidigt kommer nya regler och verktyg som stärker de socialpreventiva insatse
 
 Regeringen avser också i närtid att besluta om Sveriges första nationella strategi mot organiserad brottslighet.
 
-\*\*\*
+***
 
 I augusti beslutade chefen för Säkerhetspolisen att höja terrorhotnivån från en trea till en fyra på den femgradiga skalan, från förhöjt till högt hot. Bakgrunden var bland annat koranbränningar och desinformation om svensk socialtjänst och att det försämrade säkerhetsläget bedömdes bestå över tid. Hotet kommer idag främst från islamister och högerextremister.
 
@@ -68,7 +68,7 @@ En stor mängd åtgärder har vidtagits under det senaste året: resursförstär
 
 Vi har också gett regeringsuppdrag till flera myndigheter, bland annat för att intensifiera insatserna mot otillbörlig informationspåverkan och radikalisering.
 
-\*\*\*
+***
 
 Den viktigaste basen i arbetet mot terrorism är de långsiktiga och strategiska åtgärderna.
 
@@ -76,7 +76,7 @@ Idag kan jag berätta att regeringen i torsdags fattade beslut om en ny samlad n
 
 Den nya strategin har fyra ledord: förebygga, förhindra, skydda och hantera. Innehållet i strategin kommer att presenteras närmare imorgon vid en pressträff här i Sälen med statsministern och mig.
 
-\*\*\*
+***
 
 I sammanhanget vill jag också lyfta att en utredning fått i uppdrag att se över hur Försvarsmakten kan stärka sitt stöd till polisen och om en modern form av den tidigare beredskapspolisen bör återinföras.
 
@@ -84,7 +84,7 @@ Vikten av detta har bekräftats av Försvarsberedningen, som bland annat konstat
 
 Vi får återkomma till hur det här samspelet ska tas vidare på bästa sätt.
 
-\*\*\*
+***
 
 Till sist vill jag avsluta med en allmän reflektion om kampen mot de hot mot Sveriges inre säkerhet som vi står inför.
 

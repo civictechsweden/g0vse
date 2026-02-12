@@ -16,7 +16,7 @@ Bestämmelserna träder i kraft den 1 januari 2019.
 
 Referenser
 
-Europaparlamentets och rådets förordning (EU) nr 1143/2014 av den 22 oktober 2014 om förebyggande och hantering av introduktion och spridning av invasiva främmande arter.
+Europaparlamentets och rådets förordning (EU) nr 1143/2014 av den 22 oktober 2014 om förebyggande och hantering av introduktion och spridning av invasiva främmande arter.
 
 * regeringens proposition Invasiva främmande arter (prop. 2017/18:211)
 * miljö- och jordbruksutskottets betänkande 2017/18:MJU23 Invasiva främmande arter
@@ -38,7 +38,7 @@ Referenser
 
 ## Ändring i strålskyddsförordningen med anledning av inrättandet av Etikprövningsmyndigheten
 
-Regeringen har beslutat om ändring i strålskyddsförordningen med anledning av att de sex regionala etikprövningsnämnderna ska avvecklas och upphöra som myndigheter den 31 december 2018 och att etikprövning av forskning som avser människor istället ska hanteras av en ny myndighet, Etikprövningsmyndigheten som ska delas in i verksamhetsregioner.
+Regeringen har beslutat om ändring i strålskyddsförordningen med anledning av att de sex regionala etikprövningsnämnderna ska avvecklas och upphöra som myndigheter den 31 december 2018 och att etikprövning av forskning som avser människor istället ska hanteras av en ny myndighet, Etikprövningsmyndigheten som ska delas in i verksamhetsregioner.
 
 Referenser:
 

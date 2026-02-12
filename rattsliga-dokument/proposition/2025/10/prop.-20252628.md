@@ -1,4 +1,4 @@
-# Ett starkt skydd för nätverks- och informationssystem – en ny cybersäkerhetslagProp. 2025/26:28
+# Ett starkt skydd för nätverks- och informationssystem – en ny cybersäkerhetslag
 
 EU antog 2022 ett direktiv om åtgärder för en hög gemensam cybersäkerhetsnivå inom EU, det så kallade NIS 2-direktivet. I syfte att genomföra direktivet i svensk rätt föreslår regeringen att det ska införas en ny cybersäkerhetslag.
 

@@ -5,8 +5,8 @@ Statistiska centralbyrån (SCB) får i uppdrag att ta fram förslag till indikat
 Indikatorerna ska utgå från det mål som riksdagen har fastställt för arbetet, nämligen att säkerställa full respekt för Sveriges internationella åtaganden om mänskliga rättigheter, samt från den struktur som fastställs i regeringens strategi för det nationella arbetet med mänskliga rättigheter (skr. 2016/17:29) om
 
 * ett starkt rättsligt och institutionellt skydd av de mänskliga
-  rättigheterna,
+rättigheterna,
 * ett samordnat och systematiskt arbete med mänskliga rättigheter
-  inom offentlig verksamhet, och
+inom offentlig verksamhet, och
 * ett starkt stöd för arbete med mänskliga rättigheter inom det civila
-  samhället och inom näringslivet.
+samhället och inom näringslivet.

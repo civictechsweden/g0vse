@@ -21,4 +21,4 @@ Strategin ska främja ett bättre utnyttjande av befintliga resurser samt en bä
 
 Strategin ska tas fram i dialog med berörda aktörer. Regeringens avsikt är att fatta beslut om strategin under hösten 2016.
 
-Strategin behöver utgå ifrån en aktuell fakta- och nulägesbeskrivning innehållande grundläggande information och statistik om till exempel flygbranschen och de svenska flygplatserna, inklusive information om aktuella trender med relevans för flyget. Trafikanalys bör därför ges i uppdrag att ta fram underlag till flygstrategin.
+Strategin behöver utgå ifrån en aktuell fakta- och nulägesbeskrivning innehållande grundläggande information och statistik om till exempel flygbranschen och de svenska flygplatserna, inklusive information om aktuella trender med relevans för flyget. Trafikanalys bör därför ges i uppdrag att ta fram underlag till flygstrategin.

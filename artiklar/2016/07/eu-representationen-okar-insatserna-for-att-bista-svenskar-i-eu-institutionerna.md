@@ -2,9 +2,11 @@
 
 EU-representationens huvudsakliga uppgift är att få största möjliga genomslag för svenska intressen i EU. Ett led i detta uppdrag är att verka för goda kontakter med svenskar anställda i EU-institutionerna.
 
-Sedan flera år tillbaka erbjuder EU-representationen de cirka 1000 svenskar som är anställda vid EU-institutionerna att ingå i olika nätverk. Särskilda nätverksträffar ordnas bland annat för de 70-talet svenska chefer som finns inom institutionerna, för praktikanter och för nationella experter som har sin anställning vid en svensk myndighet men tjänstgör vid EU-kommissionen. Den senaste tiden har arbetet intensifierats.
 
-- Vi arbetar proaktivt och erbjuder stöttning hela vägen från praktiktjänstgöring och förberedelser för antagningsprov till de lägen då de blivit antagna och är angelägna om en god karriärutveckling inom EU-institutionerna, säger EU-representationens kanslichef Mikael Lesko.
+
+Sedan flera år tillbaka erbjuder EU-representationen de cirka 1000 svenskar som är anställda vid EU-institutionerna att ingå i olika nätverk. Särskilda nätverksträffar ordnas bland annat för de 70-talet svenska chefer som finns inom institutionerna, för praktikanter och för nationella experter som har sin anställning vid en svensk myndighet men tjänstgör vid EU-kommissionen. Den senaste tiden har arbetet intensifierats.
+
+- Vi arbetar proaktivt och erbjuder stöttning hela vägen från praktiktjänstgöring och förberedelser för antagningsprov till de lägen då de blivit antagna och är angelägna om en god karriärutveckling inom EU-institutionerna, säger EU-representationens kanslichef Mikael Lesko.
 
 Det är i Sveriges intresse att så många svenskar som möjligt vill arbeta i EU-institutionerna och kvalificerar sig för detta. Samtidigt är inte antalet ett mål i sig. Det handlar om att se till att svensk kompetens tas tillvara när EU:s strategiska uppdrag genomförs. Sverige är naturligtvis inte ensamt om att tänka på det här sättet. Övriga medlemsstater erbjuder motsvarande stöd.
 

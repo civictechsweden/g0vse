@@ -5,7 +5,7 @@ I lagrådsremissen görs bedömningen att regelverket för vissa nyanländas eta
 Harmoniseringen innebär bland annat att
 
 * materiella bestämmelser om etableringsinsatser och individersättningar för nyanlända i större uträckning förläggs på förordningsnivå i stället för i lag
-* den så kallade rättigheten till etableringsplan tas bort och ersätts med anvisning till ett arbetsmarknadspolitiskt program
+* den så kallade rättigheten till etableringsplan tas bort och ersätts med anvisning till ett arbetsmarknadspolitiskt program
 * ett proportionerligt åtgärdssystem införs för nyanlända motsvarande det som i dag gäller för övriga arbetssökande samt
 * handläggningen av etableringsersättningen flyttas från Arbetsförmedlingen till Försäkringskassan.
 

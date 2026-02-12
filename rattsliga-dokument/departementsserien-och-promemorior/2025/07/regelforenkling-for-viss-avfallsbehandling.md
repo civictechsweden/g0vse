@@ -1,4 +1,4 @@
-# Regelförenkling för viss avfallsbehandlingKN2024/02491
+# Regelförenkling för viss avfallsbehandling
 
 Promemorian innehåller förslag som innebär att en verksamhet som återvinner avfall som har uppkommit i den egna verksamheten ska vara anmälningspliktig, i stället för tillståndspliktig.
 

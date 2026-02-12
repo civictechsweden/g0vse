@@ -6,7 +6,7 @@ Regeringen uppdrar åt Socialstyrelsen att under 2016 fördela medel för kompet
 
 ## Kompetenssatsning för medarbetare inom äldre- och funktionshindersområdet
 
-Under 2016 fördelar Socialstyrelsen 178 000 000 kronor för kompetenssatsning för personal inom äldreomsorg och personal inom funktionshindersområdet.
+Under 2016 fördelar Socialstyrelsen 178 000 000 kronor för kompetenssatsning för personal inom äldreomsorg och personal inom funktionshindersområdet.
 
 ## Utveckla och sprida relevanta kunskapsstöd
 

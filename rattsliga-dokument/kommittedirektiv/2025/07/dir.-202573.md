@@ -1,4 +1,4 @@
-# Tilläggsdirektiv till Utredningen om genomförande av EU:s direktiv om tillbörlig aktsamhet för företag i fråga om hållbarhet (KN 2024:09)Dir. 2025:73
+# Tilläggsdirektiv till Utredningen om genomförande av EU:s direktiv om tillbörlig aktsamhet för företag i fråga om hållbarhet (KN 2024:09)
 
 Förlängd tid för uppdraget.
 

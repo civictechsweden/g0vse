@@ -18,4 +18,4 @@ Riktlinjerna för arbetet med webbplatser inom offentlig sektor i Sverige har vi
 
 E-delegationen (N Fi 2009:01), vars mandat löpte ut den 30 juni 2015, har bland annat haft i uppdrag att ansvara för vägledningen för riktlinjerna för webbutveckling. Vägledningen utgör riktlinjer för hur tillgängliga och användbara webbplatser skapas inom offentlig sektor. Det är av vikt att riktlinjerna anpassas till de digitala kanaler som myndigheterna använder för att kommunicera med invånare och företag.
 
-Många myndigheter och offentliga aktörer använder riktlinjerna när de tillgängliggör sina verksamheter digitalt. Målet är att webben ska vara enkel att använda för alla. Vägledningen och riktlinjerna finns på webbplatsen  [www.webbriktlinjer.se](http://webbriktlinjer.se/ "webbriktlinjer.se").
+Många myndigheter och offentliga aktörer använder riktlinjerna när de tillgängliggör sina verksamheter digitalt. Målet är att webben ska vara enkel att använda för alla. Vägledningen och riktlinjerna finns på webbplatsen [www.webbriktlinjer.se](http://webbriktlinjer.se/ "webbriktlinjer.se").

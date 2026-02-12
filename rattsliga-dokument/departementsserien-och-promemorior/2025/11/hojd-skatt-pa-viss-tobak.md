@@ -1,4 +1,4 @@
-# Höjd skatt på viss tobakFi2025/02159
+# Höjd skatt på viss tobak
 
 Skatten på cigaretter, cigarrer, cigariller, röktobak, tuggtobak och övrig tobak föreslås höjas med 3,5 procent utöver indexeringen. Skattesatsen för snus i lagtexten föreslås uppdateras så att den motsvarar den indexerade skattesatsen för 2027, men utan ett tillägg om 3,5 procent.
 

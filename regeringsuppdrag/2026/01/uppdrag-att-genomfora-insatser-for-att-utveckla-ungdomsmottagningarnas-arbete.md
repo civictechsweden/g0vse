@@ -1,4 +1,4 @@
-# Uppdrag att genomföra insatser för att utveckla ungdomsmottagningarnas arbeteDiarienummer: S2025/01846
+# Uppdrag att genomföra insatser för att utveckla ungdomsmottagningarnas arbete
 
 Regeringen uppdrar åt Socialstyrelsen att, tillsammans med Folkhälsomyndigheten, genomföra insatser för att utveckla ungdomsmottagningarnas arbete med ungas fysiska, psykiska, sexuella och reproduktiva hälsa.
 

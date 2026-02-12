@@ -1,4 +1,4 @@
-# Uppdrag till Kammarkollegiet att betala ut medel i enlighet med tilläggsöverenskommelsen mellan staten och Sveriges Kommuner och Regioner om strategiska insatser inom området psykisk hälsa och suicidprevention 2026Diarienummer:  S2025/02163
+# Uppdrag till Kammarkollegiet att betala ut medel i enlighet med tilläggsöverenskommelsen mellan staten och Sveriges Kommuner och Regioner om strategiska insatser inom området psykisk hälsa och suicidprevention 2026
 
 Regeringen uppdrar åt Kammarkollegiet att betala ut 1,291 miljarder kronor till regionerna och kommunerna samt till regioner och kommuner gemensamt.
 

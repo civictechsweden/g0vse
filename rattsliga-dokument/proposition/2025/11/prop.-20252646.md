@@ -1,4 +1,4 @@
-# Elektronisk inlämning av bouppteckningarProp. 2025/26:46
+# Elektronisk inlämning av bouppteckningar
 
 Ett av målen i regeringens digitaliseringsstrategi är att Sverige ska ha en offentlig förvaltning som förenklar och bidrar till minskad administration genom användarvänliga, säkra och trygga digitala tjänster som effektiviseras med hjälp av AI- och datadriven utveckling.
 

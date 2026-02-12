@@ -3,3 +3,7 @@
 Ministern kommer tillsammans med Trafikverket att hålla en pressträff kl.17.00 på adressen Nattviksgatan 8 i Härnösand. För mer information kontakta pressekreteraren.
 
 Efter pressträffen besöker Andreas Carlson drabbade områden i Kramfors.
+
+Ministern kommer tillsammans med Trafikverket att hålla en pressträff kl.17.00 på adressen Nattviksgatan 8 i Härnösand. För mer information kontakta pressekreteraren.
+
+Efter pressträffen besöker Andreas Carlson drabbade områden i Kramfors.

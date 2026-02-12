@@ -12,7 +12,7 @@ Jämställdhetsmyndigheten ska bland annat bistå Socialstyrelsen med att sprida
 
 ## Regionalt kompetensstöd till kommunerna
 
-Länsstyrelserna ska bland annat tillsammans med Socialstyrelsen lämna regionalt kompetensstöd till kommuner. Detta för att förenkla genomförandet av nationell kunskap och stimulera till ett långsiktigt utvecklingsarbete.
+Länsstyrelserna ska bland annat tillsammans med Socialstyrelsen lämna regionalt kompetensstöd till kommuner. Detta för att förenkla genomförandet av nationell kunskap och stimulera till ett långsiktigt utvecklingsarbete.
 
 ## Webbaserat stöd till yrkesverksamma
 

@@ -1,4 +1,4 @@
-# Uppdrag till Försäkringskassan och Skatteverket att etablera en AI-verkstad för den offentliga förvaltningenDiarienummer: Fi2026/00018
+# Uppdrag till Försäkringskassan och Skatteverket att etablera en AI-verkstad för den offentliga förvaltningen
 
 Regeringen ger Försäkringskassan och Skatteverket i uppdrag att etablera en AI-verkstad för den offentliga förvaltningen. En AI-verkstad i begränsad skala ska tas i bruk senast den 1 juli 2026. Verkstaden ska omfatta funktioner och tjänster som Försäkringskassan och Skatteverket bedömer är möjliga att erbjuda inom ramen för gällande rätt samt tekniska och organisatoriska förutsättningar.
 

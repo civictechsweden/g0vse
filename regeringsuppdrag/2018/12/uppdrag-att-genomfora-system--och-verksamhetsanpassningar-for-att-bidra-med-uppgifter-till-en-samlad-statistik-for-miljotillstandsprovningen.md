@@ -12,7 +12,7 @@ Domstolsverket redovisade uppdraget den 1 mars 2018 (M2018/00679/ME). Redovisnin
 
 ## Närmare om uppdraget
 
-Domstolsverket ska genomföra de system- och verksamhetsanpassningar som myndigheten har lämnat förslag om för att bidra med uppgifter till en samlad statistik för miljötillståndsprövningen. System- och verksamhetsanpassningarna innefattar att
+Domstolsverket ska genomföra de system- och verksamhetsanpassningar som myndigheten har lämnat förslag om för att bidra med uppgifter till en samlad statistik för miljötillståndsprövningen. System- och verksamhetsanpassningarna innefattar att
 
 * införa nya måltypskoder,
 * möjliggöra registrering av uppgift om vilken typ av vattenverksamhet ett mål om tillstånd avser,

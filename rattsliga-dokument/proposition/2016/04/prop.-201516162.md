@@ -13,5 +13,4 @@ Förslagen bygger på ett EU-direktiv och en EU-förordning, det så kallade rev
 
 Den nya lagregleringen föreslås träda i kraft den 17 juni 2016.
 
-[Pressmeddelande: Revisionspaketet stärker förtroendet för
-företagens redovisning](/pressmeddelanden/2016/04/revisionspaketet-starker-fortroendet-for-foretagens-redovisning/)
+[Pressmeddelande: Revisionspaketet stärker förtroendet för företagens redovisning](/pressmeddelanden/2016/04/revisionspaketet-starker-fortroendet-for-foretagens-redovisning/)

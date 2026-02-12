@@ -4,6 +4,6 @@ I propositionen föreslås en möjlighet till förlängning av anstånd enligt l
 
 Lagändringen föreslås träda i kraft den 1 mars 2010.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_____________________________________________________
 
 Riksdagen fattade den 18 februari 2010 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

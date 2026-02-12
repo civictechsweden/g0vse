@@ -6,6 +6,8 @@ Vid dialogmötet i Genève den 9–10 november ställde kommittén en mängd kom
 
 Kommitténs granskningar är ett viktigt instrument för att förbättra situationen för frihetsberövade och minska tortyr och illa-behandling i de stater som tillträtt tortyrkonventionen. Det är också ett värdefullt verktyg när det gäller att identifiera förbättrings­områden i Sverige.
 
+
+
 ### FN:s kommitté mot tortyr (CAT)
 
 FN:s konvention mot tortyr och annan grym, omänsklig eller förnedrande behandling eller bestraffning (CAT) trädde i kraft i Sverige 1987. En kommitté, bestående av oberoende experter, har inrättats för att övervaka att konventionsstaterna skyddar och respekterar rättigheterna i konventionen.

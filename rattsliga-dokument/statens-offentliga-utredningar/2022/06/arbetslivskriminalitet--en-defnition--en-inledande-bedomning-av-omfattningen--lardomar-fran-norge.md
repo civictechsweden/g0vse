@@ -1,6 +1,6 @@
 # Arbetslivskriminalitet
 
-![](/contentassets/0dab899a02f6448e87de1738468ff8b8/sou-2022-36-framsida.jpg?width=150&quality=85)
+![](/contentassets/0dab899a02f6448e87de1738468ff8b8/sou-2022-36-framsida.jpg?width=150&amp;quality=85)
 
 Delegationen mot arbetslivskriminalitet har i uppdrag att, ur ett samhällsövergripande perspektiv, verka samlande och stödjande i förhållande till aktörer som motverkar arbetslivskriminalitet och främja samverkan och erfarenhetsutbyte dem emellan.
 

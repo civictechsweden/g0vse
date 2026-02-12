@@ -48,7 +48,6 @@ Näringslivet och politiken behöver ha en nära dialog. Regeringen kommer därf
 
 Högkvalificerade internationella medarbetare är en strategisk tillgång som bidrar med kunskap, innovation och skatteintäkter. Det är en möjlighet både för vår tillväxt och konkurrenskraft.
 
-Johan Forssell, migrationsminister
 Maj-Britt Arfert, tidigare Ericsson
 Katarina Berg, hr-chef On
 Ellinor Johansson, hr-manager Embracer

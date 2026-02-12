@@ -1,6 +1,6 @@
 # Kommenterad dagordning, rådet för finansiella och ekonomiska frågor, den 15 januari 2016
 
-På Ekofinrådets möte den 15 januari 2016 finns följande punkter på dagordningen:
+På Ekofinrådets möte den 15 januari 2016 finns följande punkter på dagordningen:
 
 * Presentation av ordförandeskapets arbetsprogram
 * Genomförande av bankunionen

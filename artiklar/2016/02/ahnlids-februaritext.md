@@ -34,4 +34,6 @@ Den 17 och 18 februari kommer EU:s stats- och regeringschefer att värdera läge
 
 Vid februarimötet har EU-ledarna också att ta ställning till, och helst komma överens om, nya villkor för Storbritanniens medlemskap i EU vid Europeiska rådets februarimöte. EU-året har rivstartat, och det råder som synes inte brist på utmanande arbetsuppgifter.
 
-Anders Ahnlid är Sveriges ständiga representant till EU och chef för EU-representationen i Bryssel.
+
+
+Anders Ahnlid är Sveriges ständiga representant till EU och chef för EU-representationen i Bryssel.

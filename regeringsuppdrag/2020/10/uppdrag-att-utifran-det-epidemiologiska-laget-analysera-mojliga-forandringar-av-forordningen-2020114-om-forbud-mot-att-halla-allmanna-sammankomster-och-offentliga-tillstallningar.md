@@ -16,4 +16,4 @@ Folkhälsomyndigheten ska redovisa sin konsekvensanalys och – om det behövs �
 
 ## Redovisning av uppdraget
 
-Uppdraget ska  redovisas den 1 november respektive den 1 december 2020 till Socialdepartementet. Därefter ska uppdraget redovisas senast den 15:e varannan månad med start i januari 2021. Eller oftare om det behövs till följd av det epidemiologiska läget. Detta så länge förordningen om förbud mot att hålla allmänna sammankomster och offentliga tillställningar gäller.
+Uppdraget ska redovisas den 1 november respektive den 1 december 2020 till Socialdepartementet. Därefter ska uppdraget redovisas senast den 15:e varannan månad med start i januari 2021. Eller oftare om det behövs till följd av det epidemiologiska läget. Detta så länge förordningen om förbud mot att hålla allmänna sammankomster och offentliga tillställningar gäller.

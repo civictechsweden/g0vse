@@ -19,7 +19,7 @@ I en föränderlig omvärld är vår uppgift att föra en utrikespolitik som ska
 
 För att göra detta kommer utrikespolitiken under mandatperioden att ha tre prioriteringar: främjandet av demokrati, ett delat ansvar för fred och säkerhet och en aktiv diplomati.
 
-\*\*\*
+***
 
 Herr/fru talman,
 
@@ -75,7 +75,7 @@ Vi främjar kvinnors politiska engagemang och ekonomiska egenmakt.
 
 Regeringens internationella jämställdhetskonferens följs upp i Tunisien i vår och Sverige bidrar till genomförandet.
 
-\*\*\*
+***
 
 Herr/fru talman,
 
@@ -153,7 +153,7 @@ FN:s och andra internationella fredsinsatser fyller en viktig funktion i krigsh�
 
 Herr/fru talman,
 
-I snart 80 år har människan levt under hotet från kärnvapen.  De senaste decennierna har det begränsats genom olika avtal. Det har bidragit till en säkrare värld.
+I snart 80 år har människan levt under hotet från kärnvapen. De senaste decennierna har det begränsats genom olika avtal. Det har bidragit till en säkrare värld.
 
 Förutom att ett mänskligt misstag kan orsaka en mänsklig katastrof står vi inför ett antal problem:
 
@@ -169,7 +169,7 @@ Utredningen om konventionen om kärnvapenförbud har lämnats på remiss.
 
 Regeringens mål är fortsatt en kärnvapenfri värld. Vi kommer därför att ta ett nytt initiativ och samla en bred krets länder i arbetet för ett delat ansvar för kärnvapennedrustning.
 
-\*\*\*
+***
 
 Herr/fru talman,
 
@@ -199,7 +199,7 @@ Herr/fru talman,
 
 Vi förstärker vårt partnerskap med afrikanska länder och med Afrikanska unionen.
 
-Vårt arbete i säkerhetsrådet följs upp på Afrikas horn. Den långvariga konflikten mellan Etiopien och Eritrea har förbytts i en historisk fred.  Regeringen har beslutat att dubbla biståndet till Somalia, där situationen är sårbar. Vi ska fortsätta verka för en positiv utveckling i regionen kring Röda havet. Våra breda relationer ger oss goda förutsättningar att bidra till försoning och utveckling.
+Vårt arbete i säkerhetsrådet följs upp på Afrikas horn. Den långvariga konflikten mellan Etiopien och Eritrea har förbytts i en historisk fred. Regeringen har beslutat att dubbla biståndet till Somalia, där situationen är sårbar. Vi ska fortsätta verka för en positiv utveckling i regionen kring Röda havet. Våra breda relationer ger oss goda förutsättningar att bidra till försoning och utveckling.
 
 DR Kongo har genomgått ett historiskt maktskifte men landets utmaningar består. Sverige verkar för kvinnors politiska deltagande och ett starkt civilsamhälle.
 
@@ -211,13 +211,13 @@ Kinas stärkta internationella ställning innebär både möjligheter och utmani
 
 Men protektionistiska vindar blåser allt starkare. Handelskonflikten mellan USA och Kina är ett hot mot den multilaterala handelsordningen.
 
-Diplomati är också främjande av vår handel. Under den förra mandatperioden ökade exporten. Regeringen lanserade en exportstrategi med en rad initiativ för att stärka näringslivets internationalisering och våra ekonomiska relationer med omvärlden.  Strategin ska nu utvecklas med fokus på ekonomisk, social och ekologisk hållbarhet.
+Diplomati är också främjande av vår handel. Under den förra mandatperioden ökade exporten. Regeringen lanserade en exportstrategi med en rad initiativ för att stärka näringslivets internationalisering och våra ekonomiska relationer med omvärlden. Strategin ska nu utvecklas med fokus på ekonomisk, social och ekologisk hållbarhet.
 
 Sverige står upp för fri och rättvis handel. Vi värnar det multilaterala handelssystemet där WTO är en central del.
 
 Utrikesförvaltningen hanterar flera konsulära ärenden. Vissa av dem är politiskt svåra. De flesta hjälps i tysthet. Vi agerar alltid med deras bästa för ögonen. Arbetet med att hjälpa svenskar i nöd utomlands pågår dygnet runt, årets alla dagar.
 
-\*\*\*
+***
 
 Herr/fru talman,
 

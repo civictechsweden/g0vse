@@ -12,7 +12,7 @@ I utbildningen ingår en resa till Bryssel med besök på EU:s institutioner och
 
 - Att på plats få insupa stämningen i EU-kvarteren men även i möten med tjänstemän som jobbar med frågor som i slutändan påverkar vår vardag är betydelsefull för att få en bättre förståelse för EU-maskineriet säger Karin Kaikonnen.
 
-Martin Martinez Riqué, lektor i historia på gymnasieskolan Vipan i Lund, är en av deltagarna i årets utbildning som besöker EU-representationen som en del av programmet. Martin Martinez har varit med sedan starten av en internationalisering av skolan 1994.
+Martin Martinez Riqué, lektor i historia på gymnasieskolan Vipan i Lund, är en av deltagarna i årets utbildning som besöker EU-representationen som en del av programmet. Martin Martinez har varit med sedan starten av en internationalisering av skolan 1994.
 
 - Gymnasieskolan Vipan har enbart yrkesförberedande utbildningar inom områden som handel, barn- och fritid, hotell och el. Vår skola satsar på internationalisering sedan 1994 och tycker att det är viktigt med ett EU-perspektiv för att hjälpa eleverna att förstå Sveriges roll i EU och minska EU skepsisen, säger Martin Martinez.
 

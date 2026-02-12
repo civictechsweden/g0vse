@@ -14,7 +14,7 @@ Regeringen har beslutat om de ändringar i artskyddsförordningen och i Havs- oc
 
 **Referenser:**
 
-* Europaparlamentets och rådets förordning (EU) nr 1143/2014 av den 22 oktober 2014 om förebyggande och hantering av introduktion och spridning av invasiva främmande arter
+* Europaparlamentets och rådets förordning (EU) nr 1143/2014 av den 22 oktober 2014 om förebyggande och hantering av introduktion och spridning av invasiva främmande arter
 * artskyddsförordningen (2007:845)
 * förordningen (2011:619) med instruktion för Havs- och vattenmyndigheten
 * förordningen (2012:989) med instruktion för Naturvårdsverket

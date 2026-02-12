@@ -1,4 +1,4 @@
-# En ämnesutformad gymnasieskolaDir. 2025:98
+# En ämnesutformad gymnasieskola
 
 En särskild utredare ska lämna förslag på en ämnesutformad gymnasieskola respektive anpassad gymnasieskola. Syftet är att Sverige fortsatt ska vara en konkurrenskraftig kunskapsnation samt att utbildningarna ska bli enhetliga över landet och ge eleverna fördjupade kunskaper som tydligt leder till högskoleutbildning, andra vidare studier eller arbete.
 

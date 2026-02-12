@@ -4,10 +4,10 @@ I lagrådsremissen föreslås lagändringar som ökar möjligheterna att verkst�
 
 Förslagen innebär bland annat att
 
-* tillämpningsområdet för verkställighet med elektronisk övervakning i den dömdes bostad utvidgas till att omfatta fängelse i högst ett år och sex månader,
-* det vid strafftider som överstiger fängelse i sex månader ska göras en fördjupad lämplighetsprövning innan ett beslut om verkställighet i den dömdes bostad fattas,
-* det införs en ny verkställighetsform för fängelsestraff, elektronisk övervakning i kontrollerat boende, som ska kunna tillämpas på fängelsestraff på högst ett år och sex månader, och
-* Kriminalvården ska ansvara för verkställigheten av fängelsestraff med elektronisk övervakning i kontrollerat boende och för driften av de kontrollerade boendena.
+* tillämpningsområdet för verkställighet med elektronisk övervakning i den dömdes bostad utvidgas till att omfatta fängelse i högst ett år och sex månader,
+* det vid strafftider som överstiger fängelse i sex månader ska göras en fördjupad lämplighetsprövning innan ett beslut om verkställighet i den dömdes bostad fattas,
+* det införs en ny verkställighetsform för fängelsestraff, elektronisk övervakning i kontrollerat boende, som ska kunna tillämpas på fängelsestraff på högst ett år och sex månader, och
+* Kriminalvården ska ansvara för verkställigheten av fängelsestraff med elektronisk övervakning i kontrollerat boende och för driften av de kontrollerade boendena.
 
 Lagändringarna föreslås träda i kraft den 1 januari 2026. I fråga om
 verkställighet i kontrollerat boende ska den nya lagen om verkställighet av

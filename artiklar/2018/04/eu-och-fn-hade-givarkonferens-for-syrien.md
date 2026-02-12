@@ -4,7 +4,7 @@ När EU och FN tillsammans arrangerade den andra givarkonferensen för Syrien i 
 
 ## Fredsprocess och humanitärt stöd
 
-På givarkonferensen för Syriens och dess grannländers framtid diskuterade deltagarna hur man tillsammans ska kunna stötta det FN-ledda arbetet med att skapa fred i Syrien. I slutdeklarationen betonar alla deltagande länder att de stöttar FN:s arbete med fredsprocessen. De fördömer också att kemvapen används i kriget och understryker vikten av humanitär tillgång till landet. I slutdeklarationen konstaterar de deltagande länderna att det är civilbefolkningen som drabbats hårdast i kriget med ständiga brott mot internationell humanitär rätt och mänskliga rättigheter.
+På givarkonferensen för Syriens och dess grannländers framtid diskuterade deltagarna hur man tillsammans ska kunna stötta det FN-ledda arbetet med att skapa fred i Syrien. I slutdeklarationen betonar alla deltagande länder att de stöttar FN:s arbete med fredsprocessen. De fördömer också att kemvapen används i kriget och understryker vikten av humanitär tillgång till landet. I slutdeklarationen konstaterar de deltagande länderna att det är civilbefolkningen som drabbats hårdast i kriget med ständiga brott mot internationell humanitär rätt och mänskliga rättigheter.
 
 ## Krig i åtta år
 

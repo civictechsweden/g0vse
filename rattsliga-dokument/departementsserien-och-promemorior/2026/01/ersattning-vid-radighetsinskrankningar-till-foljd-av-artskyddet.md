@@ -1,4 +1,4 @@
-# Ersättning vid rådighetsinskränkningar till följd av artskyddetKN2026/00002
+# Ersättning vid rådighetsinskränkningar till följd av artskyddet
 
 I promemorian lämnas förslag som syftar till att säkerställa att fastighetsägare får en fullgod kompensation vid begränsningar i pågående markanvändning till följd av bestämmelser om skydd för djur och växter.
 

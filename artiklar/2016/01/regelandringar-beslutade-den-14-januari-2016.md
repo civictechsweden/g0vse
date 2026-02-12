@@ -3,8 +3,8 @@
 ## Förordningsändringar om vissa avgifter till Strålsäkerhetsmyndigheten
 
 Regeringen har beslutat om ändringar i förordningen om vissa avgifter till Strålsäkerhetsmyndigheten som innebär följande:
-- Avgifterna höjs generellt med 1–3 procent för att motsvara den del av pris- och löneomräkningen som beräknas belasta avgiftsbelagd verksamhet.
-- Samtliga tillsynsavgifter avseende kärnteknisk verksamhet sänks med ca 3,5 procent på grund av ett överskott av myndighetens intäkter från dessa avgifter.
+- Avgifterna höjs generellt med 1–3 procent för att motsvara den del av pris- och löneomräkningen som beräknas belasta avgiftsbelagd verksamhet.
+- Samtliga tillsynsavgifter avseende kärnteknisk verksamhet sänks med ca 3,5 procent på grund av ett överskott av myndighetens intäkter från dessa avgifter.
 - Forskningsavgifterna höjs med ca 15 procent på grund av en återställning av myndighetens forskningsanslag.
 - Avgift för tillståndsprövning av starka lasrar höjs med 40 procent.
 - Tre nya avgifter för tillståndsprövning införs för starka laserpekare med maximal uteeffekt på 30 milliwatt, starka laserpekare med maximal uteeffekt över 30 milliwatt och torkning med mikrovågor.

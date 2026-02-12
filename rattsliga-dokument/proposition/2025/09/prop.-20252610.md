@@ -1,4 +1,4 @@
-# Skärpta krav i kommunal vuxenutbildning i svenska för invandrare (sfi)Prop. 2025/26:10
+# Skärpta krav i kommunal vuxenutbildning i svenska för invandrare (sfi)
 
 Propositionen innehåller förslag till ändringar i skollagen (2010:800) som innebär att kraven i kommunal vuxenutbildning i svenska för invandrare (sfi) skärps.
 

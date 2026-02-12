@@ -1,4 +1,4 @@
-# Uppdrag till Myndigheten för vård- och omsorgsanalys att följa upp uppfyllelsen av målen i den nationella cancerstrateginDiarienummer:  S2026/00063
+# Uppdrag till Myndigheten för vård- och omsorgsanalys att följa upp uppfyllelsen av målen i den nationella cancerstrategin
 
 Regeringen uppdrar åt Myndigheten för vård- och omsorgsanalys att ta fram en struktur för uppföljning av den nationella cancerstrategin samt att årligen följa uppfyllelsen av strategins delmål och mål utifrån etablerad uppföljningsstruktur.
 

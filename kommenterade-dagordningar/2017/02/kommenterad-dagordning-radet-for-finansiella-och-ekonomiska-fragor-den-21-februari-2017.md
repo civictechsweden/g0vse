@@ -1,6 +1,6 @@
 # Kommenterad dagordning, rådet för finansiella och ekonomiska frågor, den 21 februari 2017
 
-På Ekofinrådets möte den 21 februari 2017 finns följande punkter på dagordningen:
+På Ekofinrådets möte den 21 februari 2017 finns följande punkter på dagordningen:
 
 * (ev.) Direktivet mot skatteundandraganden
 * Aktuella lagstiftningsförslag som rör finansiella tjänster

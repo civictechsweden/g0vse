@@ -1,4 +1,4 @@
-# Uppdrag till Forum för levande historia att genomföra kunskapshöjande insatser mot antisemitismDiarienummer: A2025/00530
+# Uppdrag till Forum för levande historia att genomföra kunskapshöjande insatser mot antisemitism
 
 Regeringen ger Forum för levande historia i uppdrag att genomföra kunskapshöjande insatser mot antisemitism riktade till lärare och annan personal inom utbildningsväsendet.
 
@@ -18,4 +18,4 @@ Mediemyndigheten, Statens skolverk, Totalförsvarets forskningsinstitut
 (FOI) och andra berörda myndigheter. Myndigheten ska även ha dialog med
 judiska organisationer och organisationer som verkar mot antisemitism.
 
-Forum för levande historia ska under åren 2026–2028 senast den 15 februari delredovisa och senast den 15 februari 2029 slutredovisa uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Kulturdepartementet). I delredovisningen ska ingå en redogörelse för genomförda insatser och i vilken utsträckning de har nått utpekade målgrupper. I slutredovisningen ska ingå en analys av hur arbetet har bidragit till att lärare och annan personal inom skolan har fått bättre kunskap och verktyg för att kunna förebygga och motverka antisemitism.
+Forum för levande historia ska under åren 2026–2028 senast den 15 februari delredovisa och senast den 15 februari 2029 slutredovisa uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Kulturdepartementet). I delredovisningen ska ingå en redogörelse för genomförda insatser och i vilken utsträckning de har nått utpekade målgrupper. I slutredovisningen ska ingå en analys av hur arbetet har bidragit till att lärare och annan personal inom skolan har fått bättre kunskap och verktyg för att kunna förebygga och motverka antisemitism.

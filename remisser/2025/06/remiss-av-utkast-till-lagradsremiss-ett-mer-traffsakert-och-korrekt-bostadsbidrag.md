@@ -1,4 +1,4 @@
-# Remiss av utkast till lagrådsremiss Ett mer träffsäkert och korrekt bostadsbidragDiarienummer: S2025/01299
+# Remiss av utkast till lagrådsremiss Ett mer träffsäkert och korrekt bostadsbidrag
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Utkast till lagrådsremiss Ett mer träffsäkert och korrekt bostadsbidrag.
 

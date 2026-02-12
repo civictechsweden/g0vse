@@ -5,16 +5,16 @@ De senaste åren har antalet sprängdåd i samhället ökat kraftigt. Personer i
 I lagrådsremissen föreslår regeringen därför bland annat att
 
 * Myndigheten för samhällsskydd och beredskap (MSB) får en
-  samordnande roll för kommunernas tillståndsverksamhet,
+samordnande roll för kommunernas tillståndsverksamhet,
 * MSB ges ansvar för tillsyn över den kommunala tillstånds- och
-  tillsynsverksamheten,
+tillsynsverksamheten,
 * det brottsförebyggande perspektivet i tillståndsprövningen stärks och
-  möjligheten att återkalla och ändra tillstånd utökas,
+möjligheten att återkalla och ändra tillstånd utökas,
 * det införs en skyldighet för tillståndshavare att anmäla användning och
-  tillfällig förvaring av explosiva varor till kommunen,
+tillfällig förvaring av explosiva varor till kommunen,
 * tillstånd till viss hantering av explosiva varor som ska ske i mer än en
-  kommun ska prövas av endast en kommun, och
+kommun ska prövas av endast en kommun, och
 * det införs sekretess i tillsynsärenden för att förhindra att explosiva
-  varor kommer till brottslig användning.
+varor kommer till brottslig användning.
 
 Lagändringarna föreslås träda i kraft den 15 juli 2025.

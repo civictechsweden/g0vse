@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att genomföra insatser i linje med den nationella cancerstrateginDiarienummer:  S2026/00062
+# Uppdrag till Socialstyrelsen att genomföra insatser i linje med den nationella cancerstrategin
 
 Regeringen uppdrar åt Socialstyrelsen att genomföra insatser i linje med den nationella cancerstrategin.
 

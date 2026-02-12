@@ -19,7 +19,7 @@ Det vet vi inte. Om det som inte blev, kan vi inget veta.
 
 Men en sak vet jag: så länge vi minns dem vi miste, så är de med oss. I går, i dag och i morgon. Bevarade i ljust minne.
 
-\*\*\*
+***
 
 Det är så mycket vi vet nu, som vi inte visste för tjugo år sedan.
 
@@ -29,7 +29,7 @@ Vi vet att den 26 december 2004 så miste över 220 000 människor livet i en fl
 
 Vi vet att 543 av dem var svenskar.
 
-\*\*\*
+***
 
 Jag vill tacka Kungaparet för allt som ni genom åren har gjort för just den här dagen. Det är viktigt att vi som land får dela en stund av gemenskap och eftertanke.
 

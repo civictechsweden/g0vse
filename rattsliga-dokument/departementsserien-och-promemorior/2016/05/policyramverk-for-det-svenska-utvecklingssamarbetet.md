@@ -12,6 +12,6 @@ Skrivelsen beskriver viktiga omvärldsförhållanden och förändringar och pres
 
 Skrivelsen blir vägledande för allt svenskt bistånd – bilateralt, regionalt, tematiskt, i multilaterala organisationer såväl som via Europeiska unionens utvecklingssamarbete.
 
-Även den som inte finns med i listan över remissinstanser har möjlighet att lämna synpunkter. Om ni har några frågor kontakta: [ud.policyramverket@gov.se](mailto:ud.policyramverket@gov.se "ud.policyramverket@gov.se")
+Även den som inte finns med i listan över remissinstanser har möjlighet att lämna synpunkter. Om ni har några frågor kontakta: <ud.policyramverket@gov.se>
 
 Remissrundan avslutas den 1 juli 2016.

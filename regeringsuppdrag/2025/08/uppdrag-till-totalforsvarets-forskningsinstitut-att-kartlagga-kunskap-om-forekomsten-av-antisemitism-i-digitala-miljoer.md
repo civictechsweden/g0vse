@@ -1,4 +1,4 @@
-# Uppdrag till Totalförsvarets forskningsinstitut att kartlägga kunskap om förekomsten av antisemitism i digitala miljöerDiarienummer: A2025/00528
+# Uppdrag till Totalförsvarets forskningsinstitut att kartlägga kunskap om förekomsten av antisemitism i digitala miljöer
 
 Regeringen ger Totalförsvarets forskningsinstitut (FOI) i uppdrag att kontinuerligt ta fram och redovisa ny kunskap om förekomsten av antisemitism i digitala miljöer, särskilt om hur den förekommer i en svensk kontext.
 

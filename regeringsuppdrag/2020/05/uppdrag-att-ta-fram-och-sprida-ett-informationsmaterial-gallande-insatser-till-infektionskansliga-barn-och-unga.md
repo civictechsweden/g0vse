@@ -4,7 +4,7 @@ Regeringen uppdrar åt Folkhälsomyndigheten att ta fram ett informationsmateria
 
 ## Informationsmaterialet stödjer olika yrken
 
-Informationsmaterialet ska stödja olika yrkesgrupper när de bedömer och ger råd om individuellt anpassade förebyggande åtgärder. Detta för att minska risken för att infektionskänsliga barn och unga smittas. Med sin kunskap och erfarenhet ska Socialstyrelsen hjälpa  och sprida informationsmaterialet till yrkesgrupper inom berörda verksamheter.
+Informationsmaterialet ska stödja olika yrkesgrupper när de bedömer och ger råd om individuellt anpassade förebyggande åtgärder. Detta för att minska risken för att infektionskänsliga barn och unga smittas. Med sin kunskap och erfarenhet ska Socialstyrelsen hjälpa och sprida informationsmaterialet till yrkesgrupper inom berörda verksamheter.
 
 ## Uppdatera innehållet kontinuerligt
 

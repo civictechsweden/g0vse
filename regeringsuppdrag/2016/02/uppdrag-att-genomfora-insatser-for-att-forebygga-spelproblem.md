@@ -2,7 +2,7 @@
 
 Spelproblem orsakar sociala, ekonomiska och hälsomässiga skadeverkningar både för den enskilde och för anhöriga. Regeringen ger därför Folkhälsomyndigheten i uppdrag att genomföra insatser för att förebygga spelproblem.
 
-Uppdraget syftar till att stödja ett effektivt och kunskapsbaserat förebyggande arbete på nationell, regional och lokal nivå. I det ingår att
+Uppdraget syftar till att stödja ett effektivt och kunskapsbaserat förebyggande arbete på nationell, regional och lokal nivå. I det ingår att
 
 * ta fram och sprida ett nationellt kunskapsstöd om spelproblem och hur de kan förebyggas
 * verka för samordning på nationell nivå

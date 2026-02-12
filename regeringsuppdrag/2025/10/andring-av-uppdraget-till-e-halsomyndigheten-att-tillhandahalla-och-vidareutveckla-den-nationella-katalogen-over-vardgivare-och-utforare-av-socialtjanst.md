@@ -1,4 +1,4 @@
-# Ändring av uppdraget till E-hälsomyndigheten att tillhandahålla och vidareutveckla den nationella katalogen över vårdgivare och utförare av socialtjänstDiarienummer:  S2025/00972
+# Ändring av uppdraget till E-hälsomyndigheten att tillhandahålla och vidareutveckla den nationella katalogen över vårdgivare och utförare av socialtjänst
 
 Regeringen ändrar uppdraget till E-hälsomyndigheten att tillhandahålla och vidareutveckla den nationella katalogen över vårdgivare och utförare av socialtjänst. E-hälsomyndigheten ska också följa upp vårdgivares anslutning och lämnande av uppgifter till den nationella katalogen och vårdsökssystemet.
 

@@ -1,4 +1,4 @@
-# Remiss Pm Arbetsprövning med bibehållen sjukpenningDiarienummer: S2025/00933
+# Remiss Pm Arbetsprövning med bibehållen sjukpenning
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Arbetsprövning med bibehållen sjukpenning.
 

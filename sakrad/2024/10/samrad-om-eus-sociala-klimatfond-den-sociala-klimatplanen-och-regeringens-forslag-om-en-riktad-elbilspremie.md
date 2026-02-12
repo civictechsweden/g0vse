@@ -8,6 +8,6 @@ Samrådet genomförs i Regeringskansliets lokaler i Stockholm. Det finns även m
 
 ## Anmälan
 
-Anmälan om deltagande och frågor om detta görs via e-post senast den 18 oktober till Michael Broberg. Ange namn, funktion/titel och organisation, samt om du deltar på plats eller digitalt.
+Anmälan om deltagande och frågor om detta görs via e-post senast den 18 oktober till Michael Broberg. Ange namn, funktion/titel och organisation, samt om du deltar på plats eller digitalt.
 
 Frågor om den sociala klimatfonden och mötets innehåll kan ställas till Ola Göransson eller Sebastian Axelsson.

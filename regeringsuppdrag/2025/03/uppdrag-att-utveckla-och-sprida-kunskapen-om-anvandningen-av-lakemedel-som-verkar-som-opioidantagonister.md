@@ -7,4 +7,5 @@ Varje år inträffar flera hundra läkemedels- och narkotikarelaterade dödsfall
 I Läkemedelsverkets uppdrag ingår att:
 
 * utveckla kunskapen om användning av läkemedel som verkar som opioidantagonister inbegripet behandling, effekt och korrekt dosering för att undvika förhöjd dödlighet bland brukare
+
 * sprida kunskapen till berörda aktörer på ett lättillgängligt och målgruppsanpassat sätt.

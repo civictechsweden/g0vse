@@ -1,6 +1,6 @@
 # Ny strategi för levande och trygga städer
 
-![Ny strategi för levande och trygga städer](/contentassets/7b8cfa42805d4858957f31d44b4f9849/tumnagel.jpg?width=150&quality=85)
+![Ny strategi för levande och trygga städer](/contentassets/7b8cfa42805d4858957f31d44b4f9849/tumnagel.jpg?width=150&amp;quality=85)
 
 I skrivelsen presenterar regeringen en ny inriktning för stadsutvecklingspolitiken.
 

@@ -4,7 +4,7 @@ Regeringen uppdrar åt Folkhälsomyndigheten att föreslå en funktion som bland
 
 ## Organisation och verksamhet
 
-Folkhälsomyndigheten ska beskriva hur funktionen skulle kunna organiseras och definiera dess verksamhet. Myndigheten ska också analysera vilka kunskaper allmänheten behöver och ta hänsyn till att olika grupper kan ha olika kunskapsbehov.
+Folkhälsomyndigheten ska beskriva hur funktionen skulle kunna organiseras och definiera dess verksamhet. Myndigheten ska också analysera vilka kunskaper allmänheten behöver och ta hänsyn till att olika grupper kan ha olika kunskapsbehov.
 
 ## Kunskapsspridning och plattform för dialog
 

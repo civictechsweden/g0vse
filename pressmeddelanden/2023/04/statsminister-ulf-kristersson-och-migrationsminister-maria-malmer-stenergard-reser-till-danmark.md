@@ -3,3 +3,7 @@
 Tillsammans med Danmarks statsminister Mette Frederiksen och Danmarks invandrings- och integrationsminister Kaare Dybvad Bek, görs besök på Hjemrejsestyrelsen och Nationalt ID Center.
 
 För mer information, kontakta ansvariga pressekreterare.
+
+Tillsammans med Danmarks statsminister Mette Frederiksen och Danmarks invandrings- och integrationsminister Kaare Dybvad Bek, görs besök på Hjemrejsestyrelsen och Nationalt ID Center.
+
+För mer information, kontakta ansvariga pressekreterare.

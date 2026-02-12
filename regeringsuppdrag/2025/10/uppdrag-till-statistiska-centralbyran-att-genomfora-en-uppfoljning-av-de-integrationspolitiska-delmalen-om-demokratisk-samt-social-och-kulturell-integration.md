@@ -1,4 +1,4 @@
-# Uppdrag till Statistiska centralbyrån att genomföra en uppföljning av de integrationspolitiska delmålen om demokratisk samt social och kulturell integrationDiarienummer: A2025/00883
+# Uppdrag till Statistiska centralbyrån att genomföra en uppföljning av de integrationspolitiska delmålen om demokratisk samt social och kulturell integration
 
 Regeringen ger Statistiska centralbyrån (SCB) i uppdrag att genomföra en uppföljning av de integrationspolitiska delmålen om demokratisk samt social och kulturell integration. Uppföljningen ska genomföras i enlighet med det förslag som SCB lämnade till regeringen i sin slutredovisning av uppdraget att genomföra en förstudie om uppföljning av integration (A2024/01441).
 

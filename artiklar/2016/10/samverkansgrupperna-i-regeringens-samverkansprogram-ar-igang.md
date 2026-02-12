@@ -39,7 +39,7 @@ Samverkansprogrammet life science kom igång redan under 2015 och den referensgr
 * Ersättning av förmån, upptag av innovation och skapandet av evidens
 * Antimikrobiell resistens (AMR)
 
-[Lägesrapport från referensgruppen för Life Science](/contentassets/176bcc16ab8d4169a39a7122683eaa7a/20161025_faktablad_liggande_svp_life-science2.pdf "Lägesrapport från samverkansprogrammet Life Science")
+[Lägesrapport från referensgruppen för Life Science](/contentassets/176bcc16ab8d4169a39a7122683eaa7a/20161025_faktablad_liggande_svp_life-science2.pdf "Lägesrapport från samverkansprogrammet Life Science")
 
 ### Nästa steg
 

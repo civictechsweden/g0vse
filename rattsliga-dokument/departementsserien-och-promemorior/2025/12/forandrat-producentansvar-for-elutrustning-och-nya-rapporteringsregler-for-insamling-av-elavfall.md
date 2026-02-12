@@ -1,4 +1,4 @@
-# Förändrat producentansvar för elutrustning och nya rapporteringsregler för insamling av elavfallKN2025/02346
+# Förändrat producentansvar för elutrustning och nya rapporteringsregler för insamling av elavfall
 
 I promemorian lämnas förslag som begränsar producentansvaret för el-avfall med hänsyn till när olika typer av elutrustning släpptes ut på marknaden.
 

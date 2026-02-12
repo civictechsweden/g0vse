@@ -8,6 +8,6 @@ Den huvudsakliga innebörden av ändringarna är dels att konventionens bestämm
 
 Ändringen föreslås träda i kraft den dag regeringen bestämmer.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+______________________________________________________
 
 Riksdagen fattade den 11 maj 2011 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

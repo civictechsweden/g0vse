@@ -10,7 +10,7 @@ Kommittén ska bland annat:
 * uppdra åt varje expertgrupp att självständigt, enligt de kriterier som kommittén fastställt, avgöra vilka verk som ska ingå i en svensk kulturkanon inom det område som gruppen svarar för
 * sammanställa en svensk kulturkanon av de verk som väljs ut av expertgrupperna
 * skapa en öppen och inkluderande process vid framtagandet av en svensk
-  kulturkanon där allmänheten ges möjlighet att komma med förslag
+kulturkanon där allmänheten ges möjlighet att komma med förslag
 * föreslå hur en svensk kulturkanon ska kunna hållas relevant över tid.
 
 Uppdraget ska redovisas senast den 31 augusti 2025.

@@ -1,4 +1,4 @@
-# Registerkontroll inför antagning till vissa högskoleutbildningarU2025/01933
+# Registerkontroll inför antagning till vissa högskoleutbildningar
 
 Denna promemoria har utarbetats inom Regeringskansliet (Utbildningsdepartementet). I promemorian lämnas förslag på vilka högskoleutbildningar som ska omfattas av krav på belastningsregisterkontroll inför antagning.
 

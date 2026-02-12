@@ -6,4 +6,5 @@ Mot bakgrund av de senaste årens utveckling av EG-rätten och rättsutvecklinge
 - Kapitalvinst eller förlust vid sammanläggning eller delning av utländska investeringsfonder
 - Beskattning av kapitalvinst i samband med avnoteringsförfarande
 - Kapitalvinst respektive kapitalförlust vid avyttring av kapitalförsäkring
+
 Reglerna föreslås träda i kraft den 1 januari 2008.

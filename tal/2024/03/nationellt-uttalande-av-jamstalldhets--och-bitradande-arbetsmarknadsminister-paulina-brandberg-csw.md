@@ -12,7 +12,7 @@ Our thoughts today are with all women and girls living in conflict situations, u
 
 In my own region – and I am now speaking about Ukraine – Russia’s full-scale invasion continues to have appalling consequences for women and girls. They have been forced to flee their homes in huge numbers, many bringing with them horrendous accounts of systematic sexual violence. International law, including the UN Charter, humanitarian law and human rights law, must be respected by all States. Sweden stands united in strong solidarity with the Ukrainian people. My government will continue to support Ukraine and contribute to hold Russia accountable for its crimes in and against Ukraine.
 
-Let me be crystal clear. International law applies to everyone and always, regardless of geographical context. International humanitarian law must be respected and civilians – women and men, girls and boys – must be protected in all conflict situations no matter where in the world they take place.  And those who stay silent when faced with violence against women and children in any conflict, cannot claim to stand up for women’s rights.
+Let me be crystal clear. International law applies to everyone and always, regardless of geographical context. International humanitarian law must be respected and civilians – women and men, girls and boys – must be protected in all conflict situations no matter where in the world they take place. And those who stay silent when faced with violence against women and children in any conflict, cannot claim to stand up for women’s rights.
 
 Madame Chair
 
@@ -22,7 +22,7 @@ Because human rights are universal, indivisible, interrelated, interdependent an
 
 Madam Chair
 
-Discriminatory laws, negative social norms and practices create – and perpetuate – fundamental and systemic barriers to the empowerment and full realization of women’s enjoyment of human rights across the world. Gender equality is  an essential component when we look at the theme of this year’s CSW. For example, the latest estimate by the World Bank, shows that the GDP per capita would be almost 20 percent higher if all gender employment gaps were to be closed globally.
+Discriminatory laws, negative social norms and practices create – and perpetuate – fundamental and systemic barriers to the empowerment and full realization of women’s enjoyment of human rights across the world. Gender equality is an essential component when we look at the theme of this year’s CSW. For example, the latest estimate by the World Bank, shows that the GDP per capita would be almost 20 percent higher if all gender employment gaps were to be closed globally.
 
 Financial freedom is key. It empowers women to take control of their lives, take charge of their finances, and being able to leave a destructive relationship.
 

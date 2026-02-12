@@ -4,7 +4,7 @@ Ambassadörerna från Tunisien, Grekland, Rumänien och Laos överlämnade torsd
 
 ## H.E. Ms Fatma Omrani Chargui, Tunisien
 
-Tunisiens nyutnämnde ambassadör Ms Fatma Omrani Chargui är född 1970 och har tjänstgjort i utrikesministeriet sedan 1996. Ms. Chargui har sedan 2012 varit chargé d’affaires vid Tunisiens ambassad i Stockholm.  Hon har under de senaste åren innehaft följande befattningar:
+Tunisiens nyutnämnde ambassadör Ms Fatma Omrani Chargui är född 1970 och har tjänstgjort i utrikesministeriet sedan 1996. Ms. Chargui har sedan 2012 varit chargé d’affaires vid Tunisiens ambassad i Stockholm. Hon har under de senaste åren innehaft följande befattningar:
 
 2012–2015: Chargé d’affaires en pied vid Tunisiens ambassad i Sverige.
 

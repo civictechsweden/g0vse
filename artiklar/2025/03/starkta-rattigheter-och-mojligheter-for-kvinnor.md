@@ -4,7 +4,7 @@ Jämställdhet mellan kvinnor och män är en självklar del i vår demokrati oc
 
 ### Nytt åtgärdsprogram mot mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck samt prostitution och människohandel
 
-Regeringen har presenterat ett åtgärdsprogram för att förebygga och bekämpa mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck samt prostitution och människohandel som kommer att gälla 2024–2026. Åtgärdsprogrammet innehåller en stor mängd satsningar och åtgärder som görs på bred front på nationell, regional och lokal nivå.
+Regeringen har presenterat ett åtgärdsprogram för att förebygga och bekämpa mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck samt prostitution och människohandel som kommer att gälla 2024–2026. Åtgärdsprogrammet innehåller en stor mängd satsningar och åtgärder som görs på bred front på nationell, regional och lokal nivå.
 
 [Pressmeddelande: Åtgärdsprogram mot mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck](/pressmeddelanden/2024/06/atgardsprogram-mot-mans-vald-mot-kvinnor-vald-i-nara-relationer-och-hedersrelaterat-vald-och-fortryck/ "Åtgärdsprogram mot mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck")
 
@@ -77,8 +77,8 @@ För att fler personer ska utbildas inom naturvetenskap, teknik, ingenjörsveten
 
 ### Internationellt arbete
 
-* Under 2025 är Sverige ordförande i UN Womens styrelse. Det är en unik plattform för att driva det globala jämställdhetsarbetet framåt, där Sverige särskilt kommer att framhålla vikten av kvinnors ekonomiska egenmakt.
+* Under 2025 är Sverige ordförande i UN Womens styrelse. Det är en unik plattform för att driva det globala jämställdhetsarbetet framåt, där Sverige särskilt kommer att framhålla vikten av kvinnors ekonomiska egenmakt.
 
-[Debattartikel: "Så ska Sverige leda jämställdhetsarbetet i FN"](/debattartiklar/2025/01/sa-ska-sverige-leda-jamstalldhetsarbetet-i-fn/ "Debattartikel: \"Så ska Sverige leda jämställdhetsarbetet i FN\"")
+[Debattartikel: "Så ska Sverige leda jämställdhetsarbetet i FN"](/debattartiklar/2025/01/sa-ska-sverige-leda-jamstalldhetsarbetet-i-fn/ "Debattartikel: &quot;Så ska Sverige leda jämställdhetsarbetet i FN&quot;")
 
 * Den 10-21 mars deltar jämställdhets- och arbetslivsminister Paulina Brandberg i 69:e sessionen av högnivåmötet Commission on the Status of Women (CSW69), även kallat FN:s kvinnokommission. Paulina Brandberg kommer att leda en delegation med 30 personer, bestående av såväl riksdagsledamöter som myndighetsrepresentanter liksom civilsamhällesorganisationer. Dessa kommer kraftfullt verka för jämställdhet globalt.

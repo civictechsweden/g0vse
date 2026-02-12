@@ -1,4 +1,4 @@
-# Uppdrag till Folkhälsomyndigheten och Socialstyrelsen att ta fram underlag för uppföljning av målet för tobaks- och nikotinpolitikenDiarienummer:  S2025/01796
+# Uppdrag till Folkhälsomyndigheten och Socialstyrelsen att ta fram underlag för uppföljning av målet för tobaks- och nikotinpolitiken
 
 Regeringen uppdrar åt Folkhälsomyndigheten och Socialstyrelsen att ta fram och leverera underlag i form av statistiska mått för uppföljning av målet för tobaks- och nikotinpolitiken.
 

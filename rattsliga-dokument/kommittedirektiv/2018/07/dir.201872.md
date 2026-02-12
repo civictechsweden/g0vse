@@ -7,7 +7,9 @@ Dessutom ska utredaren belysa de personliga assistenternas möjligheter till int
 Utredaren ska bland annat:
 
 * undersöka arbetsförhållandena, inklusive arbetslednings–ansvaret, för personliga assistenter samt redovisa om det finns skillnader mellan privata anordnare, kommuner, brukarkooperativ och assistansberättigade som själva anställer sina assistenter,
+
 * undersöka vilka arbetsuppgifter som kan ingå i yrket personlig assistent och hur behoven av kompetens tillgodoses i dag, om det finns skäl för det,
+
 * lämna förslag på åtgärder som syftar till att goda arbetsförhållanden för personliga assistenter säkras samtidigt som den assistansberättigades självbestämmanderätt och integritet respekteras.
 
 Uppdraget ska redovisas senast den 15 januari 2020.

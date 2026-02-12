@@ -6,7 +6,7 @@ Svenska kraftnät ska vid förberedelsen av upphandlingsdokumentationen
 
 * beakta andra pågående upphandlingar av stödtjänster och avhjälpande åtgärder som Svenska kraftnät genomför eller planerar att genomföra,
 * beakta befintlig potential för elförbrukare att på kort sikt minska eller
-  agera flexibelt med sin elanvändning och för planerbar elproduktion att på kort sikt öka elproduktionen i elområde SE3 och SE4,
+agera flexibelt med sin elanvändning och för planerbar elproduktion att på kort sikt öka elproduktionen i elområde SE3 och SE4,
 * tillämpa en planeringshorisont om maximalt tre år,
 * säkerställa att upphandlad förbrukningsflexibilitet och planerad elproduktion tillgängliggörs elmarknaden genom etablerade processer för budgivning på grossistmarknaden för el under planeringshorisontens längd till de i avtalet reglerade priserna,
 * tillämpa icke-diskriminerande upphandlingsvillkor och beakta kostnadseffektivitet utifrån anbudens förväntade nytta för elanvändare i Sverige och vid likvärdiga anbud ingå avtal utifrån prisordning, samt

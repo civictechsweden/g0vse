@@ -20,7 +20,7 @@ Nils Öberg var även inne på att kontrollmöjligheterna behöver utökas för 
 
 – Vi behöver utmönstra principen om heder och samvete och ersätta den med nya instrument där vi får mycket bättre möjligheter att kontrollera uppgifter, sa Nils Öberg.
 
-Frågan om kontroller lyftes även fram av företrädare från myndigheten Udbetaling Danmark som berättade hur de framgångsrikt jobbar brett och systematiskt med kontroller på utlandsområdet. Under konferensen diskuterades även hoten men också möjligheterna med AI inom offentlig sektor, samt crime proofing som är en analysmetod som kan används i syfte att skapa mer robusta regelverk som minskar riskerna för brott.  Dagen avslutades med en framåtblickande paneldebatt om hur myndigheter i de nordiska länderna arbetar för att motverka framtidens hot mot välfärdssystemen.
+Frågan om kontroller lyftes även fram av företrädare från myndigheten Udbetaling Danmark som berättade hur de framgångsrikt jobbar brett och systematiskt med kontroller på utlandsområdet. Under konferensen diskuterades även hoten men också möjligheterna med AI inom offentlig sektor, samt crime proofing som är en analysmetod som kan används i syfte att skapa mer robusta regelverk som minskar riskerna för brott. Dagen avslutades med en framåtblickande paneldebatt om hur myndigheter i de nordiska länderna arbetar för att motverka framtidens hot mot välfärdssystemen.
 
 ### Betonade vikten av samarbete
 

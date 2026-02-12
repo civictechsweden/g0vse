@@ -1,4 +1,4 @@
-# Remiss av betänkandet Stärkt insyn i politiska processer (SOU 2025:52)Diarienummer: Ju2025/01117
+# Remiss av betänkandet Stärkt insyn i politiska processer (SOU 2025:52)
 
 Här kan du ta del av svaren från dem som ombetts svara på remissen SOU 2025:52 Stärkt insyn i politiska processer. Övriga yttranden finns tillgängliga i departementet
 

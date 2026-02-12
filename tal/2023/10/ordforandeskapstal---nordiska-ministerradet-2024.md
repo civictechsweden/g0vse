@@ -12,7 +12,7 @@ Och Rysslands fullskaliga invasion av Ukraina har än en gång tagit krigets fas
 
 Sverige går in i vårt kommande ordförandeskap i Nordiska ministerrådet med den dova samtidens ödmjukhet, men också med en fast övertygelse om att ett närmare samarbete mellan våra länder är avgörande för gemensam säkerhet och större välstånd. Sverige går också snart in i uppgiften som en allierad granne.
 
-\*\*\*
+***
 
 Vår devis är ett säkrare, grönare och friare Norden.
 
@@ -24,7 +24,7 @@ Friare - genom en politik för ökad tillväxt, ett konkurrenskraftigt näringsl
 
 Visionen om att bli världens mest hållbara och integrerade region till 2030 är vägledande. Men låt oss vara ärliga – vi har en bit kvar. Det är hög tid att accelerera vårt arbete.
 
-\*\*\*
+***
 
 Under det svenska ordförandeskapet kommer vi särskilt att arbeta för ett integrerat Norden.
 
@@ -34,11 +34,11 @@ På många områden behöver vi göra mer. Gränspendling är ett sådant exempe
 
 Det svenska ordförandeskapet kommer att ta vidare vårt politiska arbete med att undanröja gränshinder, både för personer och företag.
 
-\*\*\*
+***
 
 Våra nordiska länder delar en gemensam historia. Och vi går nu mot en ny tid av fördjupat samarbete. Sverige är på väg att följa Finland in i Nato och därmed står vi för första gången samlade i en gemensam försvarsallians.
 
-Vi må vara små länder, men en rätt stor  och stark region. I tider av dramatiska förändringar i samhället, storskaliga investeringar i ny teknologi och grön innovation – och samtidigt ökad global konkurrens från nästan hela världen – ska vårt svar vara mer samarbete.
+Vi må vara små länder, men en rätt stor och stark region. I tider av dramatiska förändringar i samhället, storskaliga investeringar i ny teknologi och grön innovation – och samtidigt ökad global konkurrens från nästan hela världen – ska vårt svar vara mer samarbete.
 
 Det är min regerings övertygelse. Och det är med den ambitionen som vi nästa år och med entusiasm tar oss an ordförandeskapet i nordiska ministerrådet.
 

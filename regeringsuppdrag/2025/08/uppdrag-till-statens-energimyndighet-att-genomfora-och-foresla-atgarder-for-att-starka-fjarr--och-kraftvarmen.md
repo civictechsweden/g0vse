@@ -1,4 +1,4 @@
-# Uppdrag till Statens energimyndighet att genomföra och föreslå åtgärder för att stärka fjärr- och kraftvärmenDiarienummer: KN2025/01566
+# Uppdrag till Statens energimyndighet att genomföra och föreslå åtgärder för att stärka fjärr- och kraftvärmen
 
 Regeringen ger Statens energimyndighet (Energimyndigheten) i uppdrag att genomföra och ta fram förslag på åtgärder för att stärka och värna fjärrvärmen och kraftvärmen i Sverige.
 

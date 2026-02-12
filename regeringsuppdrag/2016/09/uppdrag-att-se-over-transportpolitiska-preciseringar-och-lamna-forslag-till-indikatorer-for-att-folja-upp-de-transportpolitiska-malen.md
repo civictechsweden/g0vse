@@ -6,4 +6,4 @@ Trafikanalys ska beskriva hur styrning och uppföljning, kopplat till de transpo
 
 I arbetet ska Trafikanalys beakta berörda myndigheters redovisning av uppdrag till statliga myndigheter att bidra med underlag för Sveriges genomförande av Agenda 2030 (Fi2016/01355/SFÖ [delvis]).
 
-Vid genomförandet av uppdraget ska Trafikanalys föra en dialog med berörda aktörer, detta innefattar bland annat att inför framtagandet av förslag fånga en bred bild av hur aktörerna ser på frågan. Uppdraget ska redovisas senast den 10 mars 2017 till Regeringskansliet (Näringsdepartementet).
+Vid genomförandet av uppdraget ska Trafikanalys föra en dialog med berörda aktörer, detta innefattar bland annat att inför framtagandet av förslag fånga en bred bild av hur aktörerna ser på frågan. Uppdraget ska redovisas senast den 10 mars 2017 till Regeringskansliet (Näringsdepartementet).

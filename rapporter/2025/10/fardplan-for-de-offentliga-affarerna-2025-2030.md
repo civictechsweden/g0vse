@@ -1,6 +1,6 @@
 # Färdplan för de offentliga affärerna 2025–2030
 
-![](/contentassets/7ef58f17c4a14a6eb2ccd9b0ea5e4e84/tumnagel.png?width=150&quality=85)
+![](/contentassets/7ef58f17c4a14a6eb2ccd9b0ea5e4e84/tumnagel.png?width=150&amp;quality=85)
 
 För att genomföra den nationella upphandlingsstrategin och möta vår tids komplexa samhällsutmaningar krävs ett paradigmskifte i synen på de offentliga inköpen. Fokuset behöver breddas från att enbart se inköp som den administrativa och juridiska processen för offentlig upphandling. Inköp måste ses som en strategisk fråga inom ramen för de offentliga affärerna.
 

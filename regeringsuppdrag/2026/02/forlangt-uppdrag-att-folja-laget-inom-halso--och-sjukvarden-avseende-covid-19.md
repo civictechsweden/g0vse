@@ -1,4 +1,4 @@
-# Förlängt uppdrag att följa läget inom hälso- och sjukvården avseende covid-19Diarienummer:  S2023/00795
+# Förlängt uppdrag att följa läget inom hälso- och sjukvården avseende covid-19
 
 Regeringen förlänger uppdraget till Socialstyrelsen att följa läget inom hälso- och sjukvården avseende covid-19.
 

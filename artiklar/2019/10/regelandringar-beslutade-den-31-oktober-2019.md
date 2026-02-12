@@ -25,4 +25,4 @@ Regeringen har beslutat om en ändring i förordningen om handel med utsläppsr�
 
 Stöd till forskning: Alexander Häggkvist 08-405 39 09
 
-Corsia: Johan Pettersson 08-405 582 41
+Corsia: Johan Pettersson 08-405 582 41

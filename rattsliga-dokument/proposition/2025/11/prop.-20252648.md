@@ -1,4 +1,4 @@
-# En modern lagstiftning för Kriminalvårdens personuppgiftsbehandlingProp. 2025/26:48
+# En modern lagstiftning för Kriminalvårdens personuppgiftsbehandling
 
 Regeringen föreslår ändringar i lagen om kriminalvårdens behandling av personuppgifter inom brottsdatalagens område och i tre andra lagar.
 

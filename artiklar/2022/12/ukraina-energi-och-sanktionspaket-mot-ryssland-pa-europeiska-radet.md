@@ -2,11 +2,11 @@
 
 När statsminister Ulf Kristersson träffade sina EU-kollegor i Europeiska rådet den 15 december antog de slutsatser om Ukraina/Ryssland, energi och konkurrenskraft, säkerhet och försvar, EU:s samarbete med södra grannskapet samt relationerna med USA. Stats- och regeringscheferna välkomnade också det nionde sanktionspaketet mot Ryssland sedan den fullskaliga invasionen av Ukraina inleddes i februari.
 
--  Ett kraftfullt stöd för Ukraina och ett tydligt fokus på Europas långsiktiga konkurrenskraft var de viktigaste frågorna för Sverige på Europeiska rådet, sade statsminister Ulf Kristersson efter mötet.
+- Ett kraftfullt stöd för Ukraina och ett tydligt fokus på Europas långsiktiga konkurrenskraft var de viktigaste frågorna för Sverige på Europeiska rådet, sade statsminister Ulf Kristersson efter mötet.
 
 Statsministern konstaterade också att:
 
--  Europa står på kort sikt inför svåra utmaningar, med krig i vårt närområde och i dess spår en energikris och ekonomisk nedgång. Samtidigt är det avgörande att vi förmår hålla blicken mot den långa sikten, och stärker Europas konkurrenskraft.
+- Europa står på kort sikt inför svåra utmaningar, med krig i vårt närområde och i dess spår en energikris och ekonomisk nedgång. Samtidigt är det avgörande att vi förmår hålla blicken mot den långa sikten, och stärker Europas konkurrenskraft.
 
 ## Rysslands anfallskrig i Ukraina
 

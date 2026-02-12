@@ -8,7 +8,7 @@ Regeringen har beslutat om ändringar i förordningen om producentansvar för el
 
 **Referenser**
 
-* Europaparlamentets och rådets direktiv 2012/19/EU av den 4 juli 2012 om avfall som utgörs av eller innehåller elektrisk och elektronisk utrustning (WEEE)
+* Europaparlamentets och rådets direktiv 2012/19/EU av den 4 juli 2012 om avfall som utgörs av eller innehåller elektrisk och elektronisk utrustning (WEEE)
 * Förordningen (2014:1075) om producentansvar för elutrustning
 
 ### Kontaktperson

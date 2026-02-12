@@ -15,6 +15,6 @@ Om det behövs ska Socialstyrelsen ta initiativ till att för hela landet säkra
 
 **Samarbete med myndigheter, regioner och kommuner**
 
-Socialstyrelsen ska genomföra uppdraget tillsammans med Folkhälsomyndigheten, Försvarets materielverk, Myndigheten för samhällsskydd och beredskap och Upphandlingsmyndigheten. Uppdraget ska också genomföras nära berörda regioner och kommuner.
+Socialstyrelsen ska genomföra uppdraget tillsammans med Folkhälsomyndigheten, Försvarets materielverk, Myndigheten för samhällsskydd och beredskap och Upphandlingsmyndigheten. Uppdraget ska också genomföras nära berörda regioner och kommuner.
 
-Uppdraget  gäller så länge det krävs och redovisas löpande till Socialdepartementet. Rapport lämnas senast den 31 januari 2021.
+Uppdraget gäller så länge det krävs och redovisas löpande till Socialdepartementet. Rapport lämnas senast den 31 januari 2021.

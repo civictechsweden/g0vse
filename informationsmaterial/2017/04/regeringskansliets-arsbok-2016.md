@@ -11,4 +11,4 @@ Hur många arbetar i Regeringskansliet? Hur såg statsbudgeten ut förra året? 
 * Departementens verksamhet
 * Särskilda projekt och program
 * Regeringskansliets interna utvecklingsarbete
-* Regeringskansliet i siffror – appendix
+* Regeringskansliet i siffror – appendix

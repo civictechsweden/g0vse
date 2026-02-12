@@ -1,4 +1,4 @@
-# Ett mer ändamålsenligt genomförande av de EU-rättsliga kraven på vattenmiljö inom Natura 2000-områdenDir. 2026:7
+# Ett mer ändamålsenligt genomförande av de EU-rättsliga kraven på vattenmiljö inom Natura 2000-områden
 
 En särskild utredare ska se över hur de EU-rättsliga kraven på kvaliteten på ytvatten som utgör en del av eller påverkar vattenmiljön i ett Natura 2000område kan genomföras på ett mer ändamålsenligt sätt än i dag.
 

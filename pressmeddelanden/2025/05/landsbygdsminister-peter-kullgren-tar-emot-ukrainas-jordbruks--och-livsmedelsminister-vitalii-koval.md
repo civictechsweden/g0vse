@@ -3,3 +3,7 @@
 Under verksamhetsbesöket kommer ministrarna att få en rundtur och information om mjölkproduktion, djurvälfärd och hållbarhet.
 
 För ytterligare information eller mediaförfrågningar, vänligen kontakta presskontakten.
+
+Under verksamhetsbesöket kommer ministrarna att få en rundtur och information om mjölkproduktion, djurvälfärd och hållbarhet.
+
+För ytterligare information eller mediaförfrågningar, vänligen kontakta presskontakten.

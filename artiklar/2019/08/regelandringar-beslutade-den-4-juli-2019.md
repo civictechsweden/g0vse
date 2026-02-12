@@ -4,7 +4,7 @@
 
 Regeringen har beslutat om en ny förordning om statligt stöd till bättre vattenhushållning. Förordningen möjliggör för länsstyrelsen att ge stöd till åtgärder som syftar till bättre vattenhushållning och bättre tillgång till dricksvatten. Åtgärderna kan avse bl.a. vattenskyddsområden, vattenbesparing eller ny teknik. Stödet är öppet för alla att söka. Främsta tänkta mottagare är bl.a. kommuner och kommunala va-bolag.
 
-Förordningen innehåller inte någon begränsning angående vem som kan söka stöd. Stöd ska kunna betalas ut med högst 1 000 000 kr. Förordningen upphör vid årsskiftet.
+Förordningen innehåller inte någon begränsning angående vem som kan söka stöd. Stöd ska kunna betalas ut med högst 1 000 000 kr. Förordningen upphör vid årsskiftet.
 
 **Referenser:**
 
@@ -21,7 +21,7 @@ RoHs-direktivet innehåller förbud mot användning av tio särskilt farliga äm
 
 Ändringsdirektivet innebär vidare att orgelpipor helt undantas från direktivets tillämpningsområde eftersom det saknas alternativ till blylegeringar i dessa. Vidare undantas vissa mobila maskiner som för sin kraftgenerering använder traktionsdrift med extern strömkälla (dvs. maskinerna har en sladd) från direktivets tillämpningsområde (i praktiken handlar det om gruvmaskiner och städmaskiner). Skälet är att sådana maskiner tillverkas i två versioner, antingen med sladd eller inbyggt batteri och batteriversionen är sedan tidigare undantagen från direktivet.
 
-Ändringsdirektivet syftar till att underlätta transaktioner på sekundärmarknaden för elektrisk och elektronisk utrustning för att främja en cirkulär ekonomi. Ändringen innebär att kablar och reservdelar som innehåller något eller några av de ämnen som är förbjudna i förordningen får fortsätta att släppas ut på marknaden så länge de behövs för att reparera sådan utrustning som omfattas av förbuden i direktivet först från den 22 juli i år eller har återvunnits från sådan utrustning. Dessutom gäller att utrustningen som ska repareras eller som reservdelarna har hämtats från ska ha släppts ut på marknaden före den 22 juli i år. Trots att utfasningen av de farliga ämnen som berörs försenas bedöms direktivet innebära miljömässiga fördelar eftersom det bidrar till att maskiner repareras istället för att för att tas ur bruk och ersätts av nytillverkade maskiner. Kommissionen har bedömt att de aktuella undantagen sammantaget kan minska uppkomsten av farligt avfall med 3 000 ton per år inom EU.
+Ändringsdirektivet syftar till att underlätta transaktioner på sekundärmarknaden för elektrisk och elektronisk utrustning för att främja en cirkulär ekonomi. Ändringen innebär att kablar och reservdelar som innehåller något eller några av de ämnen som är förbjudna i förordningen får fortsätta att släppas ut på marknaden så länge de behövs för att reparera sådan utrustning som omfattas av förbuden i direktivet först från den 22 juli i år eller har återvunnits från sådan utrustning. Dessutom gäller att utrustningen som ska repareras eller som reservdelarna har hämtats från ska ha släppts ut på marknaden före den 22 juli i år. Trots att utfasningen av de farliga ämnen som berörs försenas bedöms direktivet innebära miljömässiga fördelar eftersom det bidrar till att maskiner repareras istället för att för att tas ur bruk och ersätts av nytillverkade maskiner. Kommissionen har bedömt att de aktuella undantagen sammantaget kan minska uppkomsten av farligt avfall med 3 000 ton per år inom EU.
 
 **Referenser:**
 

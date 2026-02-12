@@ -5,3 +5,9 @@ Under besöket kommer OX2 att berätta om deras arbete med lösningar för förn
 Under dagen kommer energi- och näringsminister Ebba Busch även att besöka Tillväxtverket.
 
 För mer information kontakta pressekreterare Andia Gemsjö.
+
+Under besöket kommer OX2 att berätta om deras arbete med lösningar för förnybar energi.
+
+Under dagen kommer energi- och näringsminister Ebba Busch även att besöka Tillväxtverket.
+
+För mer information kontakta pressekreterare Andia Gemsjö.

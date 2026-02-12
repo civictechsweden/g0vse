@@ -1,6 +1,6 @@
 # Tilläggsdirektiv till Begravningsmetodsutredningen
 
-Uppdraget till utredningen utvidgas bland annat genom att utredaren också ska utreda frågan om hur avgifterna även för begravningsverksamheten i Stockholms och Tranås kommuner kan inlemmas i systemet med en enhetlig begravningsavgiftssats.
+Uppdraget till utredningen utvidgas bland annat genom att utredaren också ska utreda frågan om hur avgifterna även för begravningsverksamheten i Stockholms och Tranås kommuner kan inlemmas i systemet med en enhetlig begravningsavgiftssats.
 
 Regeringen beslutade den 29 november 2012 att ge en särskild utredare i uppdrag att se över vissa frågor på begravningsområdet (dir. 2012:118) i syfte att utveckla en flexibel och modern begravningslagstiftning.
 

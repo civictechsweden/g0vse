@@ -1,6 +1,6 @@
 # Varje dag räknas: Nationell demensstrategi 2025–2028
 
-![](/contentassets/1a060d48bb854289b0a7e980b1402670/demensstrategi_omslag3.jpg?width=150&quality=85)
+![](/contentassets/1a060d48bb854289b0a7e980b1402670/demensstrategi_omslag3.jpg?width=150&amp;quality=85)
 
 Demenssjukdomar är en av vår tids stora folkhälsoutmaningar. Antalet som lever med en demensdiagnos ökar. Samtidigt går forskningen inom området snabbt framåt. Regeringen har därför beslutat om en utvecklad nationell demensstrategi för att stärka vården och omsorgen för personer som har en demenssjukdom.
 

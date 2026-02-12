@@ -1,4 +1,4 @@
-# Nya uppgifter för Utbetalningsmyndigheten och avveckling av Rådet för korrekta utbetalningar från välfärdssystemenFi2025/01473
+# Nya uppgifter för Utbetalningsmyndigheten och avveckling av Rådet för korrekta utbetalningar från välfärdssystemen
 
 I promemorian föreslås tre övergripande ändringar i förordningen (2021:663) om arbetet med att säkerställa korrekta utbetalningar från välfärdssystemen.
 

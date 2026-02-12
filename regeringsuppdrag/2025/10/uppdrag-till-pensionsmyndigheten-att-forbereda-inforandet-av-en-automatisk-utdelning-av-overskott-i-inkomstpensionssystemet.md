@@ -1,4 +1,4 @@
-# Uppdrag till Pensionsmyndigheten att förbereda införandet av en automatisk utdelning av överskott i inkomstpensionssystemetDiarienummer: S2025/01791
+# Uppdrag till Pensionsmyndigheten att förbereda införandet av en automatisk utdelning av överskott i inkomstpensionssystemet
 
 Regeringen uppdrar åt Pensionsmyndigheten att förbereda införandet av en automatisk utdelning av överskott i inkomstpensionssystemet och vidta åtgärder för att se till att överskott kan börja delas ut från den 1 januari 2027. Detta under förutsättning att riksdagen har fattat beslut i ärendet.
 

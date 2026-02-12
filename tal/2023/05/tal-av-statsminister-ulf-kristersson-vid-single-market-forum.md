@@ -18,7 +18,7 @@ Fri konkurrens och fri rörlighet för personer och idéer är ju europeiska upp
 
 I det avseendet belyser dagens konferens flera viktiga aspekter, t.ex. hur man kan främja den dubbla omställningen genom att utveckla strukturer på den inre marknaden inom viktiga områden som digitalisering, standardisering och omskolning.
 
-\*\*\*
+***
 
 Målet om en europeisk inre marknad fanns redan i Romfördraget, men visionen om att få till stånd en verklig inre marknad slogs fast i mitten av 1980-talet i och med kommissionens vitbok om en inre marknad som grundas på ömsesidigt erkännande. Men det stora genombrottet kom i och med Maastrichtfördraget 1993.
 
@@ -30,7 +30,7 @@ Under tre årtionden har den inre marknaden stärkt den europeiska konkurrenskra
 
 För Sveriges del är handeln sedan länge motorn i vår ekonomi som stöder privat och offentlig konsumtion och vår välfärdsstat i sig. Våra företag har tillträde till världens största inre marknad, och våra konsumenter gynnas av säkra produkter och tjänster av hög kvalitet.
 
-\*\*\*
+***
 
 Men låt oss återkomma till covid-19 och dess effekter på leveranskedjorna. Vi har sedan dess även ställts inför en energikris, hög inflation och minskad köpkraft i spåren av Rysslands storskaliga invasion av Ukraina.
 
@@ -46,7 +46,7 @@ Så här ser läget ut, och det är därför min regering har prioriterat att s�
 
 I mars hörsammade kommissionen Europeiska rådets begäran om en strategi för långsiktig konkurrenskraft. Samma månad enades vi i rådet om viktiga slutsatser som syftar till att ta itu med EU:s långsiktiga konkurrenskraft. En robust plattform för att möta långsiktiga utmaningar genom att
 
-–  för det första skapa ett förutsebart och innovationsvänligt regelverk för tillväxt och produktivitet,
+– för det första skapa ett förutsebart och innovationsvänligt regelverk för tillväxt och produktivitet,
 
 – för det andra öka investeringarna i forskning och utveckling, och
 
@@ -66,7 +66,7 @@ I rådet har vi även nått en överenskommelse om förslaget om korttidsuthyrni
 
 Vi kommer att fortsätta att driva på förhandlingarna innan vi lämnar över ordförandeskapet till våra spanska vänner i slutet av juni.
 
-\*\*\*
+***
 
 Vi är ungefär 200 personer här i dag, från alla medlemsstater och många organisationer. Det är en utmärkt utgångspunkt för att utforska den inre marknadens framtid utan och innan, granska den från olika perspektiv och tillsammans hitta inspiration, idéer och lösningar på gemensamma utmaningar.
 

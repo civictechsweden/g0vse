@@ -1,8 +1,8 @@
 # Remiss SOU 2017:104 Etikprövning – en översyn av reglerna om forskning och hälso- och sjukvård
 
-Här kan du ta del av till vilka instanser som regeringen har remitterat SOU 2017:104 Etikprövning – en översyn av reglerna om forskning och hälso- och sjukvård.
+Här kan du ta del av svaren från dem som har ombetts att svara på remissen Etikprövning – en översyn av reglerna om forskning och hälso- och sjukvård SOU 2017:104.
 
-Sista dag att svara på remissen är den 30 april 2018.
+
 
 ## Remissinstanser
 

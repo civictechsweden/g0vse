@@ -14,30 +14,30 @@ På mötena framöver kommer statsråd på andra departement ha möjlighet att r
 
 ## Deltagande organisationer på funktionshinderdelegationens möte
 
--       Afasiförbundet
+- Afasiförbundet
 
--       Funktionsrätt Sverige
+- Funktionsrätt Sverige
 
--       Föreningen Sveriges Dövblinda
+- Föreningen Sveriges Dövblinda
 
--       Neuroförbundet
+- Neuroförbundet
 
--       Nätverket unga för tillgänglighet (NUFT)
+- Nätverket unga för tillgänglighet (NUFT)
 
--       Parkinsonförbundet
+- Parkinsonförbundet
 
--       Reumatikerförbundet
+- Reumatikerförbundet
 
--       Riksförbundet Attention
+- Riksförbundet Attention
 
--       Riksförbundet FUB
+- Riksförbundet FUB
 
--       Riksförbundet Sällsynta diagnoser
+- Riksförbundet Sällsynta diagnoser
 
--       Rörelsehindrade barn och ungdomar, RBU
+- Rörelsehindrade barn och ungdomar, RBU
 
--       Sveriges dövas riksförbund
+- Sveriges dövas riksförbund
 
--       Unga med synnedsättning
+- Unga med synnedsättning
 
--       Unga rörelsehindrade
+- Unga rörelsehindrade

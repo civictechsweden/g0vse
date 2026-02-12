@@ -4,4 +4,4 @@ Post- och telestyrelsen (PTS) och Myndigheten för digital förvaltning (Digg) g
 
 Utgångspunkten för organisationsförändringen ska vara att de uppgifter som myndigheterna för närvarande har ska vara oförändrade, och att genomförandet ska ske så att uppgifterna kan utföras med bibehållen effektivitet och kvalitet. Organisationsförändringen ska även genomföras på ett kostnadseffektivt sätt.
 
-En annan utgångspunkt ska vara att organisationsförändringen ska träda i kraft senast den 1 januari 2027.
+En annan utgångspunkt ska vara att organisationsförändringen ska träda i kraft senast den 1 januari 2027.

@@ -2,7 +2,7 @@
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat betänkandet Forska tillsammans – samverkan för lärande och förbättring, SOU 2018:19.
 
-Sista dag att svara på remissen är den 15 augusti 2018.
+Sista dag att svara på remissen är den 15 augusti 2018.
 
 ## Remissinstanser
 

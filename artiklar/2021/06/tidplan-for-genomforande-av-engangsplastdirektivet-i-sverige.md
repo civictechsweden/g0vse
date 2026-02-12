@@ -6,6 +6,8 @@ Europaparlamentets och rådets direktiv (EU) 2019/904 om minskning av vissa plas
 
 Beredning av förordningsändringar pågår inom Regeringskansliet. Planen är att alla förslag som innefattar genomförandet av engångsplastdirektivet ska beslutas samlat. Det är möjligt först efter att de lagändringar som innehåller de bemyndiganden som krävs beslutats av riksdagen (prop. 2020/21:198) och Sverige anmält vissa av förslagen till EU-kommissionen. Bemyndigandena föreslås träda i kraft den 1 november 2021. Regeringen kan således fatta beslut om samtliga förordningar först efter det datumet.
 
+
+
 ### Frågor och svar
 
 **Betyder det att det fram till den 1 november är möjligt att släppa ut produkter på den svenska marknaden som omfattas av artikel 5 i engångsplastdirektivet? Vad gäller för produkter som inte är märkta enligt artikel 7 i direktivet?**

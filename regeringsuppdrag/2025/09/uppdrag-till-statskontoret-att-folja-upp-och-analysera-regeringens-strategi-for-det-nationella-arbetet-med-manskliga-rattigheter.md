@@ -1,4 +1,4 @@
-# Uppdrag till Statskontoret att följa upp och analysera regeringens strategi för det nationella arbetet med mänskliga rättigheterDiarienummer: A2025/00856
+# Uppdrag till Statskontoret att följa upp och analysera regeringens strategi för det nationella arbetet med mänskliga rättigheter
 
 Regeringen ger Statskontoret i uppdrag att följa upp och analysera regeringens strategi för det nationella arbetet med mänskliga rättigheter.
 

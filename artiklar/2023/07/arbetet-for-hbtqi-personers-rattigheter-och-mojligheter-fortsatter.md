@@ -8,7 +8,7 @@ Regeringen genomför en rad olika åtgärder med fokus på hbtqi-personers lika 
 
 Arbetet för hbtqi-personers lika rättigheter och möjligheter utgår från regeringens hbtqi-strategi som beslutades 2014 och som sedan kompletterades med en handlingsplan 2021. För att fullfölja pågående insatser inom ramen för planen och för att möjliggöra nya insatser tillförde regeringen 10 miljoner kronor i budgetpropositionen för 2023.
 
-Handlingsplanen innehåller konkreta åtgärder och strategiska insatser för att stärka hbtqi-personers lika rättigheter och möjligheter och gäller för åren 2020–2023.  Det handlar om åtgärder inom ett flertal fokusområden som bland annat avser; att motverka diskriminering, våld och andra kränkningar, att öka kunskap inom arbetslivet och om unga hbtqi-personers situation, och att främja psykisk hälsa, inklusive en särskild satsning på arbetet med suicidprevention.
+Handlingsplanen innehåller konkreta åtgärder och strategiska insatser för att stärka hbtqi-personers lika rättigheter och möjligheter och gäller för åren 2020–2023. Det handlar om åtgärder inom ett flertal fokusområden som bland annat avser; att motverka diskriminering, våld och andra kränkningar, att öka kunskap inom arbetslivet och om unga hbtqi-personers situation, och att främja psykisk hälsa, inklusive en särskild satsning på arbetet med suicidprevention.
 
 [Handlingsplan för hbtqi-personers lika rättigheter och möjligheter](/informationsmaterial/2021/01/handlingsplan-for-hbtqi-personers-lika-rattigheter-och-mojligheter/)
 

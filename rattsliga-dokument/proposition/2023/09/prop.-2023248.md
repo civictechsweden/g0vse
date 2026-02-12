@@ -11,7 +11,7 @@ att det ska införas en ny lag om clearing och avveckling av betalningar.
 I propositionen föreslås bl.a. att
 
 * definitionen av clearingverksamhet ska utvidgas till att omfatta hela
-  clearing- och avvecklingsprocessen,
+clearing- och avvecklingsprocessen,
 * det ska ställas krav på bl.a. riskhantering, beredskap, cybersäkerhet, kapital samt styrning, och
 * det ska ställas krav vid utkontraktering av clearingverksamhet.
 

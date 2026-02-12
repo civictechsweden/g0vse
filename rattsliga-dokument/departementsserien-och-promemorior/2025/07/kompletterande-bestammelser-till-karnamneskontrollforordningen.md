@@ -1,4 +1,4 @@
-# Kompletterande bestämmelser till kärnämneskontrollförordningenKN2025/01499
+# Kompletterande bestämmelser till kärnämneskontrollförordningen
 
 Promemorian innehåller förslag som behövs för att komplettera en ny förordning under Euratom om kärnämneskontroll.
 

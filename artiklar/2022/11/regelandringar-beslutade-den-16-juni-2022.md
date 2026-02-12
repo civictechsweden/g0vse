@@ -50,7 +50,7 @@ Regeringen har beslutat om ändringar i artskyddsförordningen och motiv till f�
 * Europaparlamentets och rådets direktiv 2009/147/EG av den 30 november 2009 om bevarande av vilda fåglar [, i lydelsen enligt Europaparlamentets och rådets förordning (EU) 2019/1010 av den 5 juni 2019] (fågeldirektivet)
 * förordning (2022:928) om ändring i artskyddsförordningen (2007:845)
 * förordningsmotiv om förordning om ändring i artskyddsförordningen (2007:845)
-  (Fm 2022:5)
+(Fm 2022:5)
 
 ### Kontaktpersoner:
 

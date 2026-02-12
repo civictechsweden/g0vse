@@ -2,7 +2,7 @@
 
 Regeringen uppdrar åt Läkemedelsverket att för hela landet samordna arbetet med att stärka tillgången till viktiga läkemedel för hälso- och sjukvården vid eventuella störningar i samband med spridningen av coronavirus.
 
-Meningen är att göra det enklare för ansvariga inom läkemedelsförsörjningen att överblicka situationen och bedöma om särskilda åtgärder behövs  för att under en period minska risken för läkemedelsbrist.
+Meningen är att göra det enklare för ansvariga inom läkemedelsförsörjningen att överblicka situationen och bedöma om särskilda åtgärder behövs för att under en period minska risken för läkemedelsbrist.
 
 ## Nationellt samarbete på olika nivåer
 

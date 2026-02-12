@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att komplettera betänkandet Några smittskyddsfrågor inom socialtjänsten och socialförsäkringenDiarienummer:  S2026/00199
+# Uppdrag till Socialstyrelsen att komplettera betänkandet Några smittskyddsfrågor inom socialtjänsten och socialförsäkringen
 
 Regeringen uppdrar åt Socialstyrelsen att komplettera betänkandet Några smittskyddsfrågor inom socialtjänsten och socialförsäkringen, SOU 2023:56.
 

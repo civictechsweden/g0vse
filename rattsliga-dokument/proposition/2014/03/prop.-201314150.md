@@ -5,5 +5,5 @@ I propositionen föreslås att riksdagen godkänner ett protokoll undertecknat d
 Protokollet undertecknat den 5 december 2013 om ändring i skatteavtalet innebär bl.a. att villkoren för undantag från källskatt på utdelning från dotterbolag till moderbolag lättas upp. Vidare undantas ränta, utom i vissa särskilt angivna fall, och royalty från beskattning i källstaten. Genom protokollet införs också bl.a. bestämmelser om skiljeförfarande i fall av dubbelbeskattning och en ny artikel om informationsutbyte i skatteärenden. I övrigt moderniseras vissa artiklar i avtalet.
 
 De nya bestämmelserna föreslås träda i kraft den dag regeringen bestämmer.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+__________________________________________________________________
 Riksdagen fattade den 8 maj 2014 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

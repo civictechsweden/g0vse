@@ -7,4 +7,4 @@ Myndigheten ska i ett första steg utreda och redovisa en plan för hur en såda
 Vidare får Folkhälsomyndigheten i uppdrag att fördela medel till ideella
 organisationer som arbetar med suicidprevention och som tidigare beviljats verksamhetsbidrag. Medlen ska fördelas som verksamhetsbidrag till de verksamheter som bedriver insatser riktade direkt till personer i behov av stöd alternativt till anhöriga och andra personer i deras omgivning.
 
-Pressmeddelande: [Uppdrag att minska stigma kring psykisk ohälsa och suicid](/pressmeddelanden/2018/06/uppdrag-att-minska-stigma-kring-psykisk-ohalsa-och-suicid/)
+Pressmeddelande: [Uppdrag att minska stigma kring psykisk ohälsa och suicid](/pressmeddelanden/2018/06/uppdrag-att-minska-stigma-kring-psykisk-ohalsa-och-suicid/)

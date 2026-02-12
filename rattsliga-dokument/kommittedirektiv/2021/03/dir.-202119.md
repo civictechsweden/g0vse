@@ -9,6 +9,6 @@ Utredaren ska bl.a.
 * analysera om granskning av public service-innehåll på internet utifrån de nya innehållsvillkoren kräver ändringar i granskningsnämnden för radio och tv:s uppdrag,
 * föreslå hur innehållsvillkor för verksamheten på internet ska följas upp vid den årliga uppföljningen av public service-uppdraget, och
 * analysera möjligheterna att ändra befintlig ordning för det slutliga
-  beslutet vid en förhandsprövning.
+beslutet vid en förhandsprövning.
 
 Uppdraget ska redovisas senast den 15 februari 2022.

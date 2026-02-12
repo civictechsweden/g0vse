@@ -2,9 +2,9 @@
 
 En utredare ges i uppdrag att föreslå en utvecklad och säker kommunikationslösning för aktörer inom allmän ordning, säkerhet, hälsa och försvar.
 
-För att kommunicera och samverka, såväl i vardag som i kris, använder aktörer inom allmän ordning, säkerhet, hälsa och försvar primärt radiokommunikationssystemet Rakel. Eftersom kapaciteten för att kunna leverera data i Rakel är begränsad, räcker den inte till för att tillgodose användarnas ökande behov på detta område. Rakel behöver därför ersättas alternativt kompletteras med ett modernare system.
+För att kommunicera och samverka, såväl i vardag som i kris, använder aktörer inom allmän ordning, säkerhet, hälsa och försvar primärt radiokommunikationssystemet Rakel. Eftersom kapaciteten för att kunna leverera data i Rakel är begränsad, räcker den inte till för att tillgodose användarnas ökande behov på detta område. Rakel behöver därför ersättas alternativt kompletteras med ett modernare system.
 
-Regeringen ger en utredare i uppdrag att föreslå en utvecklad och säker kommunikationslösning för aktörer inom allmän ordning, säkerhet, hälsa och försvar. Utredaren ska:
+Regeringen ger en utredare i uppdrag att föreslå en utvecklad och säker kommunikationslösning för aktörer inom allmän ordning, säkerhet, hälsa och försvar. Utredaren ska:
 
 * Identifiera och analysera vilka behov aktörerna har av en utvecklad och säker mobil ip-baserad kommunikationslösning
 * Identifiera och analysera om det handlar om en eller flera kommunikationslösningar och vilka krav som bör ställas på lösningen

@@ -1,6 +1,6 @@
 # Tillsammans mot brott - ett nationellt brottsförebyggande program
 
-![](/contentassets/d0b212f61d0d49828e5e257f47e892ad/liten-bild-webb-skr-126.jpg?width=150&quality=85)
+![](/contentassets/d0b212f61d0d49828e5e257f47e892ad/liten-bild-webb-skr-126.jpg?width=150&amp;quality=85)
 
 Det finns ett stort behov av att utveckla samhällets insatser för att förebygga brott, inte bara i rättsväsendet utan också hos andra berörda aktörer. I denna skrivelse presenterar regeringen ett nationellt brottsförebyggande program som syftar till att skapa förutsättningar för ett strukturerat och långsiktigt brottsförebyggande arbete i hela samhället.
 

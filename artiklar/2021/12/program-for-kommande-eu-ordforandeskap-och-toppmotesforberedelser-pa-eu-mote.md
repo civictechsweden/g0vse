@@ -1,6 +1,6 @@
 # EU:s utvidgning och 18-månadersprogrammet för EU:s ordförandeskap
 
-När medlemsländernas ministrar för EU-frågor träffas den 14 december står förberedelser inför Europeiska rådet i fokus. Det gemensamma 18-månadersprogrammet, för bland annat Sveriges ordförandeskap i EU 2023, ska också tas upp.  EU:s utvidgning och situationen i Ungern och Polen är ytterligare punkter på dagordningen.
+När medlemsländernas ministrar för EU-frågor träffas den 14 december står förberedelser inför Europeiska rådet i fokus. Det gemensamma 18-månadersprogrammet, för bland annat Sveriges ordförandeskap i EU 2023, ska också tas upp. EU:s utvidgning och situationen i Ungern och Polen är ytterligare punkter på dagordningen.
 
 ## Förberedelser inför Europeiska rådet
 
@@ -14,7 +14,7 @@ Frankrike, Tjeckien och Sverige har som inkommande ordförandeländer tagit fram
 
 Rådet förväntas anta slutsatser om EU-utvidgningen samt stabiliserings- och associeringsprocessen.
 
-Regeringen stödjer att rådsslutsatser antas. Det är viktigt att EU-närmandet sker utifrån kandidatländernas egna meriter och framsteg. Därför måste länderna fortsätta sina reformansträngningar, inte minst för att stärka rättsstaten och för att bekämpa korruption och organiserad brottslighet.
+Regeringen stödjer att rådsslutsatser antas. Det är viktigt att EU-närmandet sker utifrån kandidatländernas egna meriter och framsteg. Därför måste länderna fortsätta sina reformansträngningar, inte minst för att stärka rättsstaten och för att bekämpa korruption och organiserad brottslighet.
 
 ## Situationen i Ungern och Polen
 

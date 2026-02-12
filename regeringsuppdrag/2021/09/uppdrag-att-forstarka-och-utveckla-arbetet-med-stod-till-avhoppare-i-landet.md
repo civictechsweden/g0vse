@@ -4,7 +4,7 @@ Regeringen ger Polismyndigheten, Kriminalvården, Statens institutionsstyrelse o
 
 Myndigheterna ska i arbetet med uppdraget samråda med Sveriges Kommuner och Regioner (SKR), kommunerna och regionerna, länsstyrelserna samt med andra relevanta aktörer.
 
-Regeringen beslutar denna dag även att ge en utredare i uppdrag att bistå och stödja myndigheterna i deras arbete med detta uppdrag (Ju2021/03348). Myndigheterna ska i arbetet med sitt uppdrag samverka med utredaren.
+Regeringen beslutar denna dag även att ge en utredare i uppdrag att bistå och stödja myndigheterna i deras arbete med detta uppdrag (Ju2021/03348). Myndigheterna ska i arbetet med sitt uppdrag samverka med utredaren.
 
 Regeringen beräknar att Statens institutionsstyrelse för uppdragets genomförande får använda 1 miljon kronor fr.o.m. 2022 (utgiftsområde 9, anslag 4:6).
 

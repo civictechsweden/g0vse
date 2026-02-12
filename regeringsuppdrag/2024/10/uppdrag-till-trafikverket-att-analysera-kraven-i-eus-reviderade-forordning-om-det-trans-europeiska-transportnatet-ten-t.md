@@ -4,8 +4,8 @@ Regeringen ger Trafikverket i uppdrag att analysera de krav som ställs i Europa
 
 Trafikverket ska lämna förslag på hur kraven om urbana knutpunkter kan
 uppfyllas i Sverige. Trafikverket ska därvidlag tidigt i arbetsprocessen initiera
-samråd med de kommuner som har utpekats som urbana knutpunkter i den reviderade förordningen. I uppdraget ingår vidare att översiktligt analysera den reviderade förordningens nya krav i övrigt, och i den mån det är påkallat, lämna förslag på kompletterande åtgärder för att Sverige ska kunna leva upp till de nya kraven.
+samråd med de kommuner som har utpekats som urbana knutpunkter i den reviderade förordningen. I uppdraget ingår vidare att översiktligt analysera den reviderade förordningens nya krav i övrigt, och i den mån det är påkallat, lämna förslag på kompletterande åtgärder för att Sverige ska kunna leva upp till de nya kraven.
 
-Trafikverket ska i den utsträckning som krävs samråda med berörda kommuner, regioner och myndigheter.
+Trafikverket ska i den utsträckning som krävs samråda med berörda kommuner, regioner och myndigheter.
 
-Trafikverket ska senast den 28 februari 2025 lämna en skriftlig redovisning av uppdraget till Regeringskansliet (Landsbygd- och infrastrukturdepartementet).
+Trafikverket ska senast den 28 februari 2025 lämna en skriftlig redovisning av uppdraget till Regeringskansliet (Landsbygd- och infrastrukturdepartementet).

@@ -16,7 +16,7 @@ Finansmarknadsministern noterade att problemen som drabbade både SVB och Signat
 
 Händelseförloppet hanterades skyndsamt av myndigheter i USA. Även i Storbritannien vidtogs åtgärder, eftersom SVB hade verksamhet även där. Åtgärderna från myndigheterna syftade till att begränsa spridningseffekten.
 
-– Vår bedömning är att kopplingarna till svenska banker hittills är små och vi ser än så länge inga tecken på att bankproblemen i USA sprids till det svenska banksystemet. Samtidigt är den rådande ekonomiska miljön utmanande. Vi följer utvecklingen noga och har en löpande kontakt med myndigheterna, säger finansmarknadsminister Niklas Wykman.
+– Vår bedömning är att kopplingarna till svenska banker hittills är små och vi ser än så länge inga tecken på att bankproblemen i USA sprids till det svenska banksystemet. Samtidigt är den rådande ekonomiska miljön utmanande. Vi följer utvecklingen noga och har en löpande kontakt med myndigheterna, säger finansmarknadsminister Niklas Wykman.
 
 – Det som har hänt är en viktig påminnelse om varför vi behöver ha finansiella regleringar och effektiv tillsyn. Man kan konstatera att reglerna i EU och Sverige ser olika ut jämfört med USA, menar finansmarknadsminister Niklas Wykman.
 
@@ -24,9 +24,9 @@ Händelseförloppet hanterades skyndsamt av myndigheter i USA. Även i Storbrita
 
 Finansmarknadsministern talade också om möjligheterna som finansiell innovation för med sig. EU har de senaste åren arbetat strategiskt för att driva på den digitala omställningen av finansiella tjänster i Europa. För att även hantera vissa risker som en ökad digitalisering medför har flera initiativ till reglering tagits. Ett område där EU ligger långt framme är reglering för kryptotillgångar.
 
-– Teknisk innovation för att öka effektiviteten och konkurrensen inom den finansiella sektorn är till nytta för konsumenter och företag. Det är en positiv utveckling. Det är samtidigt viktigt att beakta nya risker som kan uppstå med ökad digitalisering. Det kan vara risker kopplade till finansiell stabilitet och risker för konsumenter, vilket understryker behovet av lämplig reglering, menar finansmarknadsminister Niklas Wykman.
+– Teknisk innovation för att öka effektiviteten och konkurrensen inom den finansiella sektorn är till nytta för konsumenter och företag. Det är en positiv utveckling. Det är samtidigt viktigt att beakta nya risker som kan uppstå med ökad digitalisering. Det kan vara risker kopplade till finansiell stabilitet och risker för konsumenter, vilket understryker behovet av lämplig reglering, menar finansmarknadsminister Niklas Wykman.
 
-– En annan viktig fråga för konkurrensen är amorteringsunderlaget. Branschföreträdare och organisationer har uppgett att det kan ta upp till en vecka att få ut ett amorteringsunderlag när man som konsument vill byta bank. Där är mitt tålamod slut. Banker måste kunna tillhandahålla amorteringsunderlagen digitalt och skyndsamt. I annat fall kan vi behöva vidta åtgärder, säger finansmarknadsminister Niklas Wykman.
+– En annan viktig fråga för konkurrensen är amorteringsunderlaget. Branschföreträdare och organisationer har uppgett att det kan ta upp till en vecka att få ut ett amorteringsunderlag när man som konsument vill byta bank. Där är mitt tålamod slut. Banker måste kunna tillhandahålla amorteringsunderlagen digitalt och skyndsamt. I annat fall kan vi behöva vidta åtgärder, säger finansmarknadsminister Niklas Wykman.
 
 ## Bättre förutsättningar för entreprenörskap och växande företag
 

@@ -1,4 +1,4 @@
-# Förbättrade regler för svensk tonnagebeskattningFi2025/01444
+# Förbättrade regler för svensk tonnagebeskattning
 
 I promemorian föreslås förbättringar av det svenska systemet för tonnagebeskattning i syfte att stärka Sveriges konkurrenskraft inom sjöfartsnäringen. Det föreslås också vissa förtydliganden och anpassningar av regelverket för att det bättre ska överensstämma med Europeiska kommissionens riktlinjer för statligt stöd till sjötransport och den beslutspraxis från kommissionen rörande andra medlemsstaters tonnagesbeskattningssystem som etablerats sedan Sverige införde nuvarande bestämmelser.
 

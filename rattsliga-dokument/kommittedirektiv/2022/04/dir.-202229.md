@@ -7,8 +7,8 @@ Utredaren får nu, utöver vad som framgår av de ursprungliga direktiven, bl.a.
 
 * göra en översyn av det tullrättsliga sanktionssystemet,
 * överväga om Tullverket ska ges möjlighet att i större utsträckning
-  behålla förverkad egendom, som t.ex. vapen eller fordon, för att
-  använda i utbildningssyfte,
+behålla förverkad egendom, som t.ex. vapen eller fordon, för att
+använda i utbildningssyfte,
 * överväga om Tullverket ska ges möjlighet att kunna biträda åklagare vid utredningar om självständigt förverkande, och
 * lämna nödvändiga författningsförslag.
 

@@ -1,4 +1,4 @@
-# En åldersgräns till skydd för barns hälsa och trygghet i digitala miljöerdir. 2025:91
+# En åldersgräns till skydd för barns hälsa och trygghet i digitala miljöer
 
 Regeringen uppdrar åt en särskild utredare att bland annat analysera förutsättningarna för att införa en åldersgräns för barns användning av sociala medier. Meningen är att stärka skyddet för barns hälsa och trygghet i digitala miljöer.
 

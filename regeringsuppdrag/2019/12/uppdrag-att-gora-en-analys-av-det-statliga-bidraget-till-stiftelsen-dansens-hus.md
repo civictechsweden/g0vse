@@ -6,6 +6,6 @@ Analysen ska
 
 * belysa om regeringens styrning av det statliga bidraget är ändamålsenlig,
 * beskriva hur Stiftelsen Dansens Hus fullgör sitt uppdrag enligt
-  regeringens riktlinjer för det statliga bidraget, och
+regeringens riktlinjer för det statliga bidraget, och
 * belysa faktorer som är särskilt viktiga att uppmärksamma för att
-  Stiftelsen Dansens Hus ska ha förutsättningar att fullgöra sitt uppdrag framöver.
+Stiftelsen Dansens Hus ska ha förutsättningar att fullgöra sitt uppdrag framöver.

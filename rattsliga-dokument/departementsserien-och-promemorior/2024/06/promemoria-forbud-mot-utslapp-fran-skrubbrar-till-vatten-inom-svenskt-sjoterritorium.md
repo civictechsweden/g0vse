@@ -1,4 +1,4 @@
-# Promemoria Förbud mot utsläpp från skrubbrar till vatten inom svenskt sjöterritorium
+# Förbud mot utsläpp från skrubbrar till vatten inom svenskt sjöterritorium
 
 I denna promemoria föreslås ändringar i förordningen (1980:789) om åtgärder mot förorening från fartyg. Med anledning av det föreslås även en ändring i svavelförordningen (2014:509). Förslagen innebär att utsläpp i svenskt sjöterritorium från avgasreningssystem som tvättar rökgas, s.k. fartygsskrubbrar förbjuds.
 

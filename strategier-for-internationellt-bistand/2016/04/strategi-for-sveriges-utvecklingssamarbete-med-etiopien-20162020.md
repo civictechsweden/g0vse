@@ -1,6 +1,6 @@
 # Strategi för Sveriges utvecklingssamarbete med Etiopien 2016–2020
 
-![](/contentassets/01c5ed3638b247368e2fe9eb685d4275/omslagsbild-strategi-for-sveriges-utvecklingssamarbete-med-etiopien-2016--2020/?width=150&quality=85)
+![](/contentassets/01c5ed3638b247368e2fe9eb685d4275/omslagsbild-strategi-for-sveriges-utvecklingssamarbete-med-etiopien-2016--2020/?width=150&amp;quality=85)
 
 Svenskt utvecklingssamarbete med Etiopien inom ramen för denna strategi ska bidra till förbättrad miljö, begränsad klimatpåverkan och stärkt motståndskraft mot klimatförändringar samt förbättrade möjligheter för människor som lever i fattigdom att tillvarata sina rättigheter.
 

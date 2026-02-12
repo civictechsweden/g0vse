@@ -2,7 +2,7 @@
 
 Regeringen förlänger uppdraget till Myndigheten för digital förvaltning (Digg) att tillhandahålla infrastruktur för säker digital kommunikation i offentlig sektor (I2021/03317).
 
-Uppdraget ska i stället slutredovisas till Regeringskansliet (Finansdepartementet) den 1 april 2024.
+Uppdraget ska i stället slutredovisas till Regeringskansliet (Finansdepartementet) den 1 april 2024.
 
 För genomförande av uppdraget får Digg under 2023 använda högst
 40 000 000 kronor som ska redovisas mot det inom utgiftsområde 22

@@ -1,4 +1,4 @@
-# Kompletterande bestämmelser till EU-förordningen om batterierProp. 2024/25:194
+# Kompletterande bestämmelser till EU-förordningen om batterier
 
 I propositionen föreslås lagändringar som kompletterar EU-förordningen om batterier.
 
@@ -7,17 +7,17 @@ får
 
 * kräva att ekonomiska aktörer ska tillhandahålla handlingar, specifikationer, data eller uppgifter,
 * utföra oanmälda inspektioner på plats och fysiska kontroller av
-  produkter,
+produkter,
 * kräva tillträde till lokaler, mark eller transportmedel,
 * inleda undersökningar på eget initiativ,
 * kräva att ekonomiska aktörer ska vidta lämpliga åtgärder för att få en
-  bristande överensstämmelse med kraven i EU-förordningen om
-  batterier att upphöra eller för att eliminera en risk,
+bristande överensstämmelse med kraven i EU-förordningen om
+batterier att upphöra eller för att eliminera en risk,
 * själv vidta lämpliga åtgärder för att få en bristande överensstämmelse
-  med kraven i EU-förordningen om batterier och EU-förordningen om
-  marknadskontroll att upphöra eller för att eliminera en risk,
+med kraven i EU-förordningen om batterier och EU-förordningen om
+marknadskontroll att upphöra eller för att eliminera en risk,
 * införskaffa, inspektera och demontera varuprover, och
-* kräva att innehåll ska avlägsnas från ett onlinegränssnitt, t.ex. en webbplats, att en varning ska visas på onlinegränssnittet eller att åtkomsten till gränssnittet ska begränsas.
+* kräva att innehåll ska avlägsnas från ett onlinegränssnitt, t.ex. en webbplats, att en varning ska visas på onlinegränssnittet eller att åtkomsten till gränssnittet ska begränsas.
 
 Det föreslås även att tystnadsplikt ska gälla för den som har tagit befattning
 med ett ärende som gäller marknadskontroll.

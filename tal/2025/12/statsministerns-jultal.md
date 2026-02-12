@@ -44,7 +44,7 @@ Och nu kommer återbäringen:
 
 Inflationen är besegrad, reallönerna ökar och bolåneräntorna har sänkts rejält.
 
-Vi halverar matmomsen. Och från årsskiftet får alla Sveriges löntagare och pensionärer mer pengar kvar i plånboken.  Det kommer göra skillnad i vardagen – allra mest för Sveriges barnfamiljer.
+Vi halverar matmomsen. Och från årsskiftet får alla Sveriges löntagare och pensionärer mer pengar kvar i plånboken. Det kommer göra skillnad i vardagen – allra mest för Sveriges barnfamiljer.
 
 Även välfärdens viktiga verksamheter går mot bättre tider. Bara i år har kommuner och regioner stärkts med 50 miljarder kronor, just för att inflationen är besegrad.
 

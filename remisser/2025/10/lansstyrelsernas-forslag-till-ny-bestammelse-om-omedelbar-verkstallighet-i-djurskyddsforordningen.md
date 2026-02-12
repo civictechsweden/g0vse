@@ -1,4 +1,4 @@
-# Remiss av Länsstyrelsernas förslag till ny bestämmelse om omedelbar verkställighet i djurskyddsförordningenDiarienummer: LI2023/00473
+# Remiss av Länsstyrelsernas förslag till ny bestämmelse om omedelbar verkställighet i djurskyddsförordningen
 
 Här kan du ta del av remissinstansernas svar på Länsstyrelsernas förslag till ny bestämmelse om omedelbar verkställighet i djurskyddsförordningen.
 

@@ -8,6 +8,10 @@ Meningen är att göra det tydligt hur viktigt det är att vara med i språkutbi
 
 Om det är rimligt kan man få försörjningsstöd även om man inte är med i vuxenutbildning i svenska för invandrare.
 
+
+
 Lagändringen föreslås träda i kraft den 1 april 2021.
+
+
 
 Propositionen bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.

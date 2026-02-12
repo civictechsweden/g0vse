@@ -5,5 +5,5 @@ Regeringen beslutade den 16 juni 2022 kommittédirektiv om en skärpt miljöstra
 Utredaren ska nu även bl.a.
 
 * bedöma om, och oavsett ställningstagande i sak, lämna förslag som
-  möjliggör att sanktionsavgifter kan påföras för mindre allvarliga överträdelser av miljölagstiftningen samtidigt som allvarligare överträdelser av samma regler är kriminaliserade, och
+möjliggör att sanktionsavgifter kan påföras för mindre allvarliga överträdelser av miljölagstiftningen samtidigt som allvarligare överträdelser av samma regler är kriminaliserade, och
 * lämna nödvändiga författningsförslag.

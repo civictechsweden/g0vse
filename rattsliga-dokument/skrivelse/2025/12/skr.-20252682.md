@@ -1,4 +1,4 @@
-# Redovisning av användningen av hemliga tvångsmedel under 2024Skr. 2025/26:82
+# Redovisning av användningen av hemliga tvångsmedel under 2024
 
 I skrivelsen redogör regeringen för hur bestämmelserna i rättegångsbalken om hemlig avlyssning av elektronisk kommunikation, hemlig övervakning av elektronisk kommunikation, hemlig kameraövervakning och hemlig rumsavlyssning vid förundersökning i brottmål har tillämpats under 2024.
 

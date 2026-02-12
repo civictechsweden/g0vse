@@ -1,6 +1,6 @@
 # De regionala skyddsombudens roll i arbetsmiljöarbetet
 
-![](/contentassets/a175650c2d3b42d9ab566d3dd87196e6/sou202247.jpg?width=150&quality=85)
+![](/contentassets/a175650c2d3b42d9ab566d3dd87196e6/sou202247.jpg?width=150&amp;quality=85)
 
 Utredningen om de regionala skyddsombudens roll i arbetsmiljöarbetet har överlämnat sitt betänkande till regeringen.
 

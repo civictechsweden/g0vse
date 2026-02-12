@@ -26,4 +26,4 @@ Menesjärventie 2
 
 FI-99870 Inari
 
-[anne-kirste.aikio@samediggi.fi](mailto:anne-kirste.aikio@samediggi.fi "anne-kirste.aikio@samediggi.fi")
+<anne-kirste.aikio@samediggi.fi>

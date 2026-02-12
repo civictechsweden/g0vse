@@ -1,4 +1,4 @@
-# Anpassningar till EU:s nya byggproduktförordningProp. 2025/26:35
+# Anpassningar till EU:s nya byggproduktförordning
 
 I denna proposition föreslås ändringar i plan- och bygglagen (2010:900) som behövs för att anpassa svensk rätt till EU:s nya byggproduktförordning.
 

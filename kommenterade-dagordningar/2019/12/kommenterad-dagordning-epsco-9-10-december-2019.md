@@ -1,9 +1,9 @@
 # Kommenterad dagordning inför Rådets möte (sysselsättning, socialpolitik, hälso- och sjukvård) den 9 -10 decemberi 2019
 
-På EPSCO-rådets möte  den 9-10 december 2019 finns följande punkter på dagordningen:
+På EPSCO-rådets möte den 9-10 december 2019 finns följande punkter på dagordningen:
 
 * Välfärdsekonomin - nästa steg för att investera i hälsa som dess nyckelkomponent
-* Europeisk läkemedelspolitik – stärkt samarbete och samordning i syfte att förbättra tillgången till läkemedel
+* Europeisk läkemedelspolitik – stärkt samarbete och samordning i syfte att förbättra tillgången till läkemedel
 * Aktuella lagstiftningsförslag (Offentlig överläggning i enlighet med artikel 16.8 i fördraget om Europeiska unionen), Förordning om utvärdering av medicinsk teknik och om ändring av direktiv 2011/24/EU
 * EU:s framtida jämställdhetsstrategier och jämställdhetsintegrering
 * Slutsatser om jämställda ekonomier i EU: Vägen framåt. En utvärdering av Pekingplattformens genomförande under 25 år

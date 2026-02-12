@@ -1,6 +1,6 @@
 # Barn som olovligen förs bort eller kvarhålls i ett annat land
 
-![](/contentassets/f124b06336414532ae3e2d8e9556bd91/omslag-till-skriften-barn-som-olovligen-fors-bort-eller-kvarhalls-i-ett-annat-land/?width=150&quality=85)
+![](/contentassets/f124b06336414532ae3e2d8e9556bd91/omslag-till-skriften-barn-som-olovligen-fors-bort-eller-kvarhalls-i-ett-annat-land/?width=150&amp;quality=85)
 
 Antalet barn som olovligen förs bort eller hålls kvar i ett annat land än det där barnet är bosatt har ökat under senare år.
 

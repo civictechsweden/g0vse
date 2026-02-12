@@ -37,11 +37,11 @@ Med förordningsändringen genomförs ett ändringsdirektiv till ramdirektivet f
 
 Regeringen har beslutat om ändringar i luftkvalitetsförordningen som bl.a. innebär att:
 
-– det införs en författningsreglering av formerna för att utse ett nationellt referenslaboratorium,
+– det införs en författningsreglering av formerna för att utse ett nationellt referenslaboratorium,
 
-– reglerna om åtgärdsprogram för luft kompletteras så att ett sådant program ska innehålla information om hur valda åtgärder bidrar till att hålla perioder av överskridande av miljökvalitetsnormerna så korta som möjligt, och
+– reglerna om åtgärdsprogram för luft kompletteras så att ett sådant program ska innehålla information om hur valda åtgärder bidrar till att hålla perioder av överskridande av miljökvalitetsnormerna så korta som möjligt, och
 
-– det införs regler för förfarandet vid gränsöverskridande luftföroreningar.
+– det införs regler för förfarandet vid gränsöverskridande luftföroreningar.
 
 Ändringarna träder i kraft den 1 januari 2020.
 
@@ -53,9 +53,9 @@ Regeringen har beslutat om ändringar i luftkvalitetsförordningen som bl.a. inn
 
 Regeringen har utfärdat en ändring i miljöbalken i enlighet med riksdagens beslut med anledning av propositionen Förbättrat genomförande av avfallsdirektivet.
 
-En ny bestämmelse införs som innebär att en sådan verksamhet för behandling av avfall som är tillstånds- eller anmälningspliktig endast får tillåtas om det finns skäl att anta att den planerade behandlingen kommer att uppfylla vissa krav i 15 kap. miljöbalken. Vad som är en biprodukt förtydligas så att lydelsen bättre överensstämmer med lydelsen i avfallsdirektivet. Innebörden av uttrycket bortskaffa avfall ändras så att det blir tydligt att det omfattar även förberedande åtgärder inför bortskaffandet. Bestämmelsen om hur avfall ska hanteras preciseras så att den som hanterar avfall ska se till att hanteringen inte skadar eller orsakar risk för skada på människors hälsa eller miljön. I bestämmelsen anges även exempel på omständigheter som särskilt ska beaktas vid bedömningen. Alla som hanterar avfall omfattas av bestämmelsen. Det innebär att även aktörer som inte fysiskt befattar sig med avfallet, t.ex. handlare och mäklare, omfattas. Slutligen införs ett krav på att en dom som omfattar tillstånd att behandla avfall ska innehålla de villkor som behövs när det gäller åtgärder för avslutande av verksamheten och efterbehandling.
+En ny bestämmelse införs som innebär att en sådan verksamhet för behandling av avfall som är tillstånds- eller anmälningspliktig endast får tillåtas om det finns skäl att anta att den planerade behandlingen kommer att uppfylla vissa krav i 15 kap. miljöbalken. Vad som är en biprodukt förtydligas så att lydelsen bättre överensstämmer med lydelsen i avfallsdirektivet. Innebörden av uttrycket bortskaffa avfall ändras så att det blir tydligt att det omfattar även förberedande åtgärder inför bortskaffandet. Bestämmelsen om hur avfall ska hanteras preciseras så att den som hanterar avfall ska se till att hanteringen inte skadar eller orsakar risk för skada på människors hälsa eller miljön. I bestämmelsen anges även exempel på omständigheter som särskilt ska beaktas vid bedömningen. Alla som hanterar avfall omfattas av bestämmelsen. Det innebär att även aktörer som inte fysiskt befattar sig med avfallet, t.ex. handlare och mäklare, omfattas. Slutligen införs ett krav på att en dom som omfattar tillstånd att behandla avfall ska innehålla de villkor som behövs när det gäller åtgärder för avslutande av verksamheten och efterbehandling.
 
-Lagändringarna träder i kraft den 1 januari 2020.
+Lagändringarna träder i kraft den 1 januari 2020.
 
 **Referenser:**
 
@@ -69,9 +69,9 @@ Lagändringarna träder i kraft den 1 januari 2020.
 
 Regeringen har beslutat om ändringar i avfallsförordningen och förordningen om kemiska produkter och biotekniska organismer, med följande innebörd:
 
-– Naturvårdsverket ges ansvaret för att fullgöra Sveriges rapporteringsskyldighet enligt Minamatakonventionen om kvicksilver, och
+– Naturvårdsverket ges ansvaret för att fullgöra Sveriges rapporteringsskyldighet enligt Minamatakonventionen om kvicksilver, och
 
-– Kemikalieinspektionen ges ansvaret för att ta emot och hantera ansökningar om undantag från förbudet att importera kvicksilver i EU:s kvicksilverförordning.
+– Kemikalieinspektionen ges ansvaret för att ta emot och hantera ansökningar om undantag från förbudet att importera kvicksilver i EU:s kvicksilverförordning.
 
 Förordningarna träder i kraft den 31 december 2019.
 

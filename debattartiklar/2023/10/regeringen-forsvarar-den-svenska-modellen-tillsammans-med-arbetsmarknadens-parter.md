@@ -26,4 +26,4 @@ Genom alla dessa insatser vill vi värna den svenska modellen i vår tid och se 
 
 Ulf Kristersson, statsminister
 
- Johan Pehrson, arbetsmarknads- och integrationsminister
+Johan Pehrson, arbetsmarknads- och integrationsminister

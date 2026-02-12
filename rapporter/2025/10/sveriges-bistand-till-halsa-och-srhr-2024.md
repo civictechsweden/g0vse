@@ -1,6 +1,6 @@
 # Sveriges bistånd till hälsa och SRHR 2024
 
-![](/contentassets/927a8f163ec1499ab319ef3e0b8e4912/omslag-sveriges-bistand-till-halsa-och-srhr-2024.jpg?width=150&quality=85)
+![](/contentassets/927a8f163ec1499ab319ef3e0b8e4912/omslag-sveriges-bistand-till-halsa-och-srhr-2024.jpg?width=150&amp;quality=85)
 
 Under 2024 uppgick Sveriges bistånd till global hälsa till dryga 5,1 miljarder kronor och biståndet till sexuell och reproduktiv hälsa och rättigheter (SRHR) uppgick till nära 2,7 miljarder kronor. Regeringen prioriterar förbättrad hälsa för de allra mest utsatta, inklusive alla individers fulla åtnjutande av SRHR.
 

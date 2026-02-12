@@ -4,7 +4,7 @@ Regeringen uppdrar åt Inspektionen för vård och omsorg (IVO) att ta fram risk
 
 ## Säkerhet och kvalitet i vård och omsorg
 
-Uppdraget ska lära och stärka säkerhet och kvalitet i svensk vård och omsorg. Genom att återföra kunskap om risker för bristande kvalitet och säkerhet under utbrottet av covid-19 ska uppdraget bidra till att främja organisations- och verksamhetsutveckling för hantering av  sjukdomsutbrott.
+Uppdraget ska lära och stärka säkerhet och kvalitet i svensk vård och omsorg. Genom att återföra kunskap om risker för bristande kvalitet och säkerhet under utbrottet av covid-19 ska uppdraget bidra till att främja organisations- och verksamhetsutveckling för hantering av sjukdomsutbrott.
 
 ## Ansvarsfördelning, prioritering och samordning
 

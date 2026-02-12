@@ -8,7 +8,7 @@ Regeringskansliet efterfrågar nu synpunkter på kommissionens förslag, enligt 
 * Varför?
 * Om ni anser att delar bör ändras, på vilket sätt?
 
-Dokument på EU-kommissionens webbplats som Regeringskansliet efterfrågar synpunkter på:
+Dokument på EU-kommissionens webbplats som Regeringskansliet efterfrågar synpunkter på:
 
 [Proposed Directive establishing the European Electronic Communications Code](https://ec.europa.eu/digital-single-market/en/news/proposed-directive-establishing-european-electronic-communications-code "Proposed Directive establishing the European Electronic Communications Code")
 

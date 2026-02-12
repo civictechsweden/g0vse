@@ -7,5 +7,5 @@ Syftet med förslaget är att förhindra möjligheten att skatteplanera inom ett
 Regeringen har i en skrivelse som lämnades till riksdagen den 14 juni 2012, och som aviserar det förslag som nu lämnas i propositionen, förklarat att det finns särskilda skäl för att med stöd av regeringsformen tillämpa förslaget i propositionen från och med den 15 juni 2012.
 
 De nya bestämmelserna föreslås därför tillämpas från och med den 15 juni 2012.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_____________________________________________________________
 Riksdagen fattade den 5 december 2012 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

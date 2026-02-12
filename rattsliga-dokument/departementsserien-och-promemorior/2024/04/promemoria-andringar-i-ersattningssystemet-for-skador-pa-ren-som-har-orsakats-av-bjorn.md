@@ -1,4 +1,4 @@
-# Promemoria Ändringar i ersättningssystemet för skador på ren som har orsakats av björn
+# Ändringar i ersättningssystemet för skador på ren som har orsakats av björn
 
 I promemorian föreslås att det införs en möjlighet för Sametinget att kunna lämna ersättning till samebyar baserat på uppskattat antal björnar, eller på uppskattad täthet av
 björn, inom betesområdena.

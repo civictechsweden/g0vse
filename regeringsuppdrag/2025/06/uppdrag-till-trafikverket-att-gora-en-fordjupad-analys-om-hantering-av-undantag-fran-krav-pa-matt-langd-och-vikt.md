@@ -1,4 +1,4 @@
-# Uppdrag till Trafikverket att göra en fördjupad analys om hantering av undantag från krav på mått, längd och viktDiarienummer: LI2025/01085
+# Uppdrag till Trafikverket att göra en fördjupad analys om hantering av undantag från krav på mått, längd och vikt
 
 Regeringen ger Trafikverket i uppdrag att göra en fördjupad analys inför ett eventuellt helt eller delvis övertagande från kommunerna av hanteringen av undantag från bestämmelser i trafikförordningens (1998:1276) om krav på motordrivna fordons mått, längd och vikt.
 
@@ -6,7 +6,7 @@ Utgångspunkten för den fördjupade analysen ska vara förslagen i
 Trafikverkets rapport Hantering av transportdispenser (LI2024/01327).
 
 Den fördjupade analysen ska omfatta en detaljerad kostnads- och
-konsekvensanalys som motsvarar bestämmelserna i förordningen (2024:183) om konsekvensutredningar för ett helt eller delvis övertagande av hantering av undantag från kommunerna på kort och lång sikt. Analysen ska också innehålla relevanta riskbedömningar, förslag till processer och arbetssätt samt en tidplan för ett eventuellt övertagande.
+konsekvensanalys som motsvarar bestämmelserna i förordningen (2024:183) om konsekvensutredningar för ett helt eller delvis övertagande av hantering av undantag från kommunerna på kort och lång sikt. Analysen ska också innehålla relevanta riskbedömningar, förslag till processer och arbetssätt samt en tidplan för ett eventuellt övertagande.
 
 Vid genomförandet av uppdraget ska Trafikverket föra dialog med berörda
 för att inhämta relevanta kunskaper och synpunkter.

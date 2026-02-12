@@ -6,7 +6,7 @@ Regeringen har beslutat om ändringar i förordningen (2014:425) om bekämpnings
 
 **Referenser:**
 
-– förordning (2022:1393) om ändring i förordningen (2014:425) om bekämpningsmedel
+– förordning (2022:1393) om ändring i förordningen (2014:425) om bekämpningsmedel
 
 ### Kontaktperson:
 

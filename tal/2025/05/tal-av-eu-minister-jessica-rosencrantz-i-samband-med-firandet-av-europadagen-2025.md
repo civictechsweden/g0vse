@@ -18,7 +18,7 @@ Jag är övertygad om att så också blir fallet denna gång.
 
 Europas tid är nu.
 
-\*\*\*
+***
 
 I tre år, två månader och femton dagar har Ukraina kämpat för sin frihet och rätt att själva bestämma över sitt eget öde. Hela EU:s säkerhet är direkt sammankopplad med Ukrainas.
 
@@ -26,7 +26,7 @@ Där är därför den här regeringens främsta utrikespolitiska uppgift är att
 
 Vi sätter handling bakom de orden. Sedan Rysslands fullskaliga invasion mot Ukraina i februari 2022 har Sverige bidragit med 92, 8 miljarder kronor för att stödja Ukraina. I slutet av mars presenterade regeringen Sveriges hittills största militära stödpaket. Tillsammans är de nordisk-baltiska länderna, trots vår storlek, världens näst största givare av militärt stöd till Ukraina.
 
-\*\*\*
+***
 
 I tider som dessa är det värt att påminna sig om att EU började som ett fredsprojekt. Den grundläggande principen att varje land äger sin egen framtid, och att samarbete gör den framtiden ljusare, fortsätter att vara grunden för vårt Europa än i dag.
 
@@ -42,7 +42,7 @@ Under ett extrainsatt EU-toppmöte i början av mars kunde man ta på allvaret i
 
 Denna handlingskraft bekräftar min tes: Europas tid är nu.
 
-\*\*\*
+***
 
 Parallellt med den allvarliga säkerhetspolitiska utveckling vi sett de senaste åren, ser vi också hur rättsstatens principer utmanas och ifrågasätts. Demokratin är i delar av världen på tillbakagång. Sveriges och EU:s försvar för individens rättigheter, yttrandefrihet och rätt att älska vem man vill är däremot bergfast.
 
@@ -54,7 +54,7 @@ Därför är arbetet med att välkomna fler länder in i vår europeiska gemensk
 
 Sverige och den här regeringen kommer att vara en trogen sparringpartner på kandidatländernas väg mot medlemskap. Med fler medlemmar bygger vi Europas demokrati starkare.
 
-\*\*\*
+***
 
 Låt mig nu säga ett par ord om något som den här regeringen arbetat med mycket intensivt, nämligen Europas konkurrenskraft. Europa har under 2000-talet sett sig omsprungna av både USA och Asien vad gäller ekonomisk tillväxt och konkurrenskraft. En av många konsekvenser är att nya innovativa företag, inte minst inom tech-sektorn, i dag växer fram utanför Europa.
 
@@ -66,9 +66,9 @@ Det är nämligen så, att om vi räknar vi bort USA återstår hela 87 procent 
 
 Potentialen för Europa i denna nya, rörligare omvärld är betydande. Och det är upp till oss att tillvarata den chansen.
 
-\*\*\*
+***
 
-Att EU har haft ett stort konkurrenskraftsproblem under 2000-talet är sant. Men vad som också är sant är att vi har alla förutsättningar att återigen bli en ledande global tillväxtmotor. Om vi gör rätt saker. Här vill jag påstå att Sverige kan visa vägen. Vi har hög trovärdighet när vi talar om frågor som kapitalmarknad, innovation, energi och klimat. Låt mig ge er några korta exempel. Antalet börsintroduktioner i Sverige var under det senaste decenniet över 500.  Det är fler än Tyskland, Frankrike, Spanien och Nederländerna tillsammans. Svensk el är till 99 procent fossilfri och dessutom billigast i EU. Vi har lägst klimatutsläpp per capita i hela unionen. Och svenska investeringar i forskning och utveckling, som andel av BNP, är de högsta i hela EU.
+Att EU har haft ett stort konkurrenskraftsproblem under 2000-talet är sant. Men vad som också är sant är att vi har alla förutsättningar att återigen bli en ledande global tillväxtmotor. Om vi gör rätt saker. Här vill jag påstå att Sverige kan visa vägen. Vi har hög trovärdighet när vi talar om frågor som kapitalmarknad, innovation, energi och klimat. Låt mig ge er några korta exempel. Antalet börsintroduktioner i Sverige var under det senaste decenniet över 500. Det är fler än Tyskland, Frankrike, Spanien och Nederländerna tillsammans. Svensk el är till 99 procent fossilfri och dessutom billigast i EU. Vi har lägst klimatutsläpp per capita i hela unionen. Och svenska investeringar i forskning och utveckling, som andel av BNP, är de högsta i hela EU.
 
 I Sverige växer alltså både företag och idéer. Här investerar företag i ny grön teknik och omställning, eftersom vi vet att det att det går hand i hand med stärkt konkurrenskraft. Detta är formeln som hela Europa bör ta efter.
 
@@ -82,7 +82,7 @@ Ytterligare en viktig del i att få företag att trivas i Europa handlar om att 
 
 Regeringen tar Europas konkurrenskraft på allvar. Därför att tillväxt föder välstånd. Och för att ekonomi och säkerhet hör ihop. Utan stark tillväxt har vi varken råd att rusta upp våra egna försvar eller råd att fortsätta stötta Ukraina.
 
-\*\*\*
+***
 
 Världen förändras och Europa med den. Ansvaret för europeisk säkerhet, särskilt genom stöd till Ukraina, kommer på ett betydande sätt att prägla de kommande åren. Likaså arbetet med att slå vakt om vår konkurrenskraft och vårt välstånd. Detta är våra stora uppgifter.
 

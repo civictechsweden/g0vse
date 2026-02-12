@@ -1,6 +1,6 @@
 # Språk för alla - förslag till språklag
 
-I propositionen föreslås att en språklag (Lag om nationella minoritetsspråk) införs. I lagen anges att svenska är huvudspråk i Sverige. I lagen anges också att finska, jiddisch, meänkieli, romani chib och samiska är nationella minoritetsspråk och att det allmänna ska ha ett särskilt ansvar för att skydda och främja dessa språk liksom det svenska teckenspråket.
+I propositionen föreslås att en språklag (Lag om nationella minoritetsspråk) införs. I lagen anges att svenska är huvudspråk i Sverige. I lagen anges också att finska, jiddisch, meänkieli, romani chib och samiska är nationella minoritetsspråk och att det allmänna ska ha ett särskilt ansvar för att skydda och främja dessa språk liksom det svenska teckenspråket.
 
 I lagen anges att svenska är huvudspråk i Sverige. Det innebär att svenska är samhällets gemensamma språk, som alla som är bosatta i Sverige ska ha tillgång till och som ska kunna användas inom alla samhällsområden. Det allmänna föreslås ha ett särskilt ansvar för att svenskan används och utvecklas.
 

@@ -6,7 +6,7 @@ För att stärka skyddet för Sveriges säkerhet föreslår regeringen ändringa
 
 * Säkerhetsskyddschefer ska ha en mer framträdande roll i säkerhetsskyddsarbetet.
 * Verksamhetsutövare ska ingå säkerhetsskyddsavtal i fler situationer
-  som innebär att en annan aktör kan få tillgång till den säkerhetskänsliga verksamheten.
+som innebär att en annan aktör kan få tillgång till den säkerhetskänsliga verksamheten.
 * Verksamhetsutövare ska göra en särskild säkerhetsskyddsbedömning och pröva lämpligheten av utkontrakteringar och liknande förfaranden som kräver säkerhetsskyddsavtal, samt i vissa fall samråda med tillsynsmyndigheten. Om ett förfarande är olämpligt ur säkerhetsskyddssynpunkt ska tillsynsmyndigheten få besluta att det inte får genomföras och även ingripa i ett pågående förfarande.
 * Tillsynsmyndigheterna får undersökningsbefogenheter och möjlighet att besluta vitesföreläggande och sanktionsavgift mot den som inte följer säkerhetsskyddslagstiftningens krav.
 

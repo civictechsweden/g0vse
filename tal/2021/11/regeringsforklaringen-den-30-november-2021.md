@@ -24,7 +24,7 @@ Så står det skrivet i vårt lands grundlag.
 
 På samma bergfasta demokratiska grund ska Sverige stå under de 100 år som ska följa.
 
-\* \* \*
+* * *
 
 Herr talman,
 
@@ -40,7 +40,7 @@ Sverige ska framåt, steg för steg, reform för reform.
 
 För Sverige kan bättre.
 
-\* \* \*
+* * *
 
 Herr talman,
 
@@ -86,7 +86,7 @@ Hon avslutade med en uppmaning till oss alla att se alla de tjejer som förnekas
 
 Uppslutningen i Sveriges riksdag är bred och regeringens inriktning är tydlig: Hedersförtrycket hör inte hemma i vårt land. Jämlikhet och jämställdhet gäller alla lika. Hedersförtrycket ska bort.
 
-\* \* \*
+* * *
 
 Herr talman,
 
@@ -104,7 +104,7 @@ Låt mig rikta en uppmaning till Sveriges arbetsgivare: Innan du tar hit lågkva
 
 När hela samhället mobiliserar – då kan vi tillsammans bygga Sverige tryggt igen.
 
-\* \* \*
+* * *
 
 Herr talman,
 
@@ -138,7 +138,7 @@ Nu byggs yrkeshögskolan, regionalt yrkesvux och folkhögskolan ut med fler utbi
 
 Sverige har ett av världens mest omfattande studiestödssystem. En arbetsmarknad i snabb förändring ställer högre krav på vidareutbildning. Nu ska Sverige också få ett av världens bästa omställningsstudiestöd. I och med genomförandet av partsöverenskommelsen stärks nu vår konkurrenskraft och arbetstagarna ges trygghet i omställningen.
 
-\* \* \*
+* * *
 
 Herr talman,
 
@@ -150,7 +150,7 @@ Klarar världen inte klimatkrisen så blir konsekvenserna oöverskådliga. Ambit
 
 Med det gröna folkhemmet valde Sverige att gå före. Vårt förtroende i omvärlden stärks när svenska innovationer och lösningar exporteras över världen. Nu pågår en global klimatkapplöpning där Sverige springer i ledarklungan.
 
-Industriklivet och Klimatklivet angav riktningen och ska utvecklas. Över 300 000 nya bostäder har byggts sedan 2014 och det hållbara byggandet främjas. Och när Sverige nu investerar sig ur lågkonjunkturen efter pandemin så sker det genom en kraftfull grön återstart av svensk ekonomi.
+Industriklivet och Klimatklivet angav riktningen och ska utvecklas. Över 300 000 nya bostäder har byggts sedan 2014 och det hållbara byggandet främjas. Och när Sverige nu investerar sig ur lågkonjunkturen efter pandemin så sker det genom en kraftfull grön återstart av svensk ekonomi.
 
 Runt om i hela landet pågår just nu en grön industriell revolution. Fossilfri stålproduktion. Batterifabriker. Eldrivna tunga lastbilar. Det minskar utsläppen och ger tusentals nya arbetstillfällen – i hela landet.
 
@@ -170,7 +170,7 @@ Nästa år står Sverige värd för FN-mötet Stockholm+50 för att öka takten 
 
 ”Framtiden är gemensam. I gemenskap måste vi dela den. Tillsammans ska vi skapa den.”
 
-\* \* \*
+* * *
 
 Herr talman,
 
@@ -180,13 +180,13 @@ Den svenska välfärden bärs upp av medarbetarna. De behöver fler kollegor, r�
 
 Betinget är stort, men inte omöjligt.
 
-Viktiga steg har tagits. Regeringen har de senaste åren successivt skjutit till mer pengar till kommuner och regioner. Jämfört med 2014 arbetar idag 100 000 fler i välfärden. Nu ska också de stora 90-talistkullarnas barn utbildas. De många 40-talisterna går in i 80-årsåldern och ska ha den trygga äldreomsorg de förtjänar.
+Viktiga steg har tagits. Regeringen har de senaste åren successivt skjutit till mer pengar till kommuner och regioner. Jämfört med 2014 arbetar idag 100 000 fler i välfärden. Nu ska också de stora 90-talistkullarnas barn utbildas. De många 40-talisterna går in i 80-årsåldern och ska ha den trygga äldreomsorg de förtjänar.
 
 Därför höjs de generella statsbidragen ytterligare. Cancervården, psykiatrin och förlossningsvården ska prioriteras när sjukvården byggs ut. Köerna ska kortas, vårdcentralerna stärkas och fler få en fast läkarkontakt.
 
 Arbetet med att ta fram en ny äldreomsorgslag för stärkt kvalitet och likvärdighet i omsorgen fortsätter. Alla hemtjänsttagares rätt till en fast omsorgskontakt fastställs i lag. Den som jobbar i äldreomsorgen ges möjlighet att studera till undersköterska på betald arbetstid och en återhämtningsbonus har införts för möjligheter till bättre arbetsvillkor.
 
-Arbetet för trygga pensioner handlar om respekt för de som varit med och byggt vårt land. Pensionen har höjts för den som har arbetat ett långt arbetsliv med låg lön. Bostadstillägget höjs ytterligare. En strukturreform för att långsiktigt stärka inkomsterna för de pensionärer som har det sämst ställt ska läggas fram. Det innebär upp till 1 000 kronor mer i plånboken varje månad. En trygghetspension införs, så att den som är över 60 år och utsliten inte ska behöva ta ut sin ålderspension i förtid. Pensionerna behöver höjas ytterligare. Därför måste inbetalningarna till pensionssystemet öka. Initiativ till det kommer tas i Pensionsgruppen.
+Arbetet för trygga pensioner handlar om respekt för de som varit med och byggt vårt land. Pensionen har höjts för den som har arbetat ett långt arbetsliv med låg lön. Bostadstillägget höjs ytterligare. En strukturreform för att långsiktigt stärka inkomsterna för de pensionärer som har det sämst ställt ska läggas fram. Det innebär upp till 1 000 kronor mer i plånboken varje månad. En trygghetspension införs, så att den som är över 60 år och utsliten inte ska behöva ta ut sin ålderspension i förtid. Pensionerna behöver höjas ytterligare. Därför måste inbetalningarna till pensionssystemet öka. Initiativ till det kommer tas i Pensionsgruppen.
 
 När du behöver samhället som mest, då ska det starka samhället finnas där för dig. Regeringen har tidigare tagit bort den permanenta skatteklyftan mellan pensionärer och löntagare. Nu sänks skatten rejält också för människor med sjuk- och aktivitetsersättning. Inriktningen är tydlig. Skatteklyftan mellan funktionsnedsatta och löntagare är orättfärdig. Garantiersättningen i sjuk- och aktivitetsersättningen höjs. Regeringen fortsätter att stärka rätten till personlig assistans.
 
@@ -200,7 +200,7 @@ Politisk vilja avgör.
 
 Det går att ta tillbaka den demokratiska kontrollen över välfärden. Låt oss göra det.
 
-\* \* \*
+* * *
 
 Herr talman,
 
@@ -230,7 +230,7 @@ Våra nationella minoriteters kultur och rätt till språk stärks och lagskydde
 
 I mars tar Sverige över ordförandeklubban i den internationella alliansen för hågkomst av Förintelsen. I sommar slår Sveriges museum om Förintelsen upp portarna.
 
-\* \* \*
+* * *
 
 Herr talman,
 
@@ -268,7 +268,7 @@ Kinas växande roll utgör ytterligare en av vår tids största globala föränd
 
 En ny migrationslagstiftning har trätt ikraft i Sverige. Den är väl avvägd för att svensk asylpolitik ska vara långsiktigt hållbar, med ett humant, rättssäkert och effektivt regelverk som inte väsentligen avviker från övriga EU-länders.
 
-\* \* \*
+* * *
 
 Herr talman, Ärade ledamöter av Sveriges riksdag,
 

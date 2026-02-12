@@ -9,7 +9,7 @@ I lagrådsremissen föreslår regeringen att uppgifter ska kunna lämnas om det 
 * Utreda brott.
 * Förebygga, förhindra, upptäcka eller utreda felaktiga utbetalningar.
 * Förebygga, förhindra, upptäcka eller utreda fusk och olika typer av
-  överträdelser.
+överträdelser.
 
 Innan en uppgift lämnas ska det göras en intresseavvägning. En uppgift får
 inte lämnas om övervägande skäl talar för att det intresse som sekretessen

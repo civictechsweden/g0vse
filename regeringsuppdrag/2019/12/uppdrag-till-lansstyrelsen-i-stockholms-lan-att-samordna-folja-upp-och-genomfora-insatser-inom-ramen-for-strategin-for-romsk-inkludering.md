@@ -5,11 +5,11 @@ Regeringen beslutar att ge Länsstyrelsen i Stockholms län i uppdrag att samord
 Länsstyrelsen ska:
 
 * stödja kommuner, som bedriver eller avser att bedriva ett arbete
-  inom området, att utveckla arbetssätt och metoder för romsk
-  inkludering. Insatserna ska utgå från dessa kommuners behov av stöd i arbetet liksom kunskap och erfarenheter som arbetet för romsk inkludering hittills har gett. De kommuner som 2012–2019 har fått bidrag för att medverka i pilot- respektive utvecklingsverksamhet för romsk inkludering ska härvid särskilt involveras (A2012/1566/DISK, Ku2016/00159/DISK).
+inom området, att utveckla arbetssätt och metoder för romsk
+inkludering. Insatserna ska utgå från dessa kommuners behov av stöd i arbetet liksom kunskap och erfarenheter som arbetet för romsk inkludering hittills har gett. De kommuner som 2012–2019 har fått bidrag för att medverka i pilot- respektive utvecklingsverksamhet för romsk inkludering ska härvid särskilt involveras (A2012/1566/DISK, Ku2016/00159/DISK).
 * följa upp genomförda insatser inom ramen för strategin för romsk
-  inkludering. Kommuners och myndigheters samråd med romska
-  företrädare om arbetssätt och metoder ska härvid särskilt beaktas. I
-  uppdraget ingår att utveckla ett uppföljningssystem utifrån tidigare
-  erfarenheter med så kallade nulägesbeskrivningar.
+inkludering. Kommuners och myndigheters samråd med romska
+företrädare om arbetssätt och metoder ska härvid särskilt beaktas. I
+uppdraget ingår att utveckla ett uppföljningssystem utifrån tidigare
+erfarenheter med så kallade nulägesbeskrivningar.
 * genomföra insatser för att öka kunskapen om romsk historia, romers nuvarande livsvillkor respektive ställning som nationell minoritet. Utbildningsmaterialet Antiziganismen i Sverige ska spridas.

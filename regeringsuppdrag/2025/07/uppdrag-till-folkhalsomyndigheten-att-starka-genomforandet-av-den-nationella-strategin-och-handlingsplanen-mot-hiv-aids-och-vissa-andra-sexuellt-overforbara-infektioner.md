@@ -1,4 +1,4 @@
-# Uppdrag till Folkhälsomyndigheten att stärka genomförandet av den nationella strategin och handlingsplanen mot hiv, aids och vissa andra sexuellt överförbara infektionerDiarienummer: S2025/01399 (delvis)
+# Uppdrag till Folkhälsomyndigheten att stärka genomförandet av den nationella strategin och handlingsplanen mot hiv, aids och vissa andra sexuellt överförbara infektioner
 
 Regeringen ger Folkhälsomyndigheten i uppdrag att, inom ramen för genomförandet av den nationella strategin och handlingsplanen mot hiv, aids och vissa andra sexuellt överförbara infektioner (STI), genomföra riktade insatser med fokus på informations- och kunskapsspridning.
 

@@ -6,9 +6,9 @@ Utredaren ska bl.a.
 
 * översiktligt kartlägga vilka möjligheter som finns i andra EES-stater att ingripa mot satellitsändningar av radio och tv med hänsyn till allmän ordning och säkerhet,
 * föreslå när och på vilket sätt ingripanden med hänsyn till Sveriges
-  säkerhet ska kunna göras mot satellitsändningar av radio, tv och sökbar text-tv inom svensk jurisdiktion,
+säkerhet ska kunna göras mot satellitsändningar av radio, tv och sökbar text-tv inom svensk jurisdiktion,
 * föreslå när och på vilket sätt ingripanden med hänsyn till Sveriges
-  säkerhet ska kunna göras mot satellitsändningar av radio, tv och sökbar text-tv inom en annan EES-stats jurisdiktion eller som kommer från tredjeland,
+säkerhet ska kunna göras mot satellitsändningar av radio, tv och sökbar text-tv inom en annan EES-stats jurisdiktion eller som kommer från tredjeland,
 * föreslå regler för förfarandet vid sådana ingripanden, och
 * lämna nödvändiga författningsförslag.
 

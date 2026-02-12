@@ -1,4 +1,4 @@
-# Förenklad hantering av skattefritt bränsle och vissa andra punktskattefrågorProp. 2025/26:3
+# Förenklad hantering av skattefritt bränsle och vissa andra punktskattefrågor
 
 I propositionen samlas flera mindre förslag inom punktskatteområdet.
 
@@ -16,8 +16,8 @@ fartygsbränsle till bland annat andra offentliga myndigheter som är
 skattebefriade förbrukare inom ramen för räddningsinsatser och
 krissituationer.
 
-För det andra föreslås vissa kompletterande bestämmelser om återbetalning av skatt för väpnade styrkor som tillhör andra stater som är parter i Nato i lagen om skatt på energi, lagen (2016:1067) om skatt på kemikalier i viss elektronik, lagen (2018:696) om skatt på vissa nikotinhaltiga produkter, lagen (2022:155) om tobaksskatt och lagen (2022:156) om alkoholskatt.
+För det andra föreslås vissa kompletterande bestämmelser om återbetalning av skatt för väpnade styrkor som tillhör andra stater som är parter i Nato i lagen om skatt på energi, lagen (2016:1067) om skatt på kemikalier i viss elektronik, lagen (2018:696) om skatt på vissa nikotinhaltiga produkter, lagen (2022:155) om tobaksskatt och lagen (2022:156) om alkoholskatt.
 
-Slutligen föreslås vissa förtydliganden i förfarandereglerna i lagen om skatt på energi, lagen om skatt på kemikalier i viss elektronik, lagen om skatt på vissa nikotinhaltiga produkter, lagen om tobaksskatt, lagen om alkoholskatt och tullbefogenhetslagen (2024:710).
+Slutligen föreslås vissa förtydliganden i förfarandereglerna i lagen om skatt på energi, lagen om skatt på kemikalier i viss elektronik, lagen om skatt på vissa nikotinhaltiga produkter, lagen om tobaksskatt, lagen om alkoholskatt och tullbefogenhetslagen (2024:710).
 
 Ändringarna föreslås träda i kraft den 1 april 2026.

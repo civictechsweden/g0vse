@@ -12,4 +12,4 @@ Kenneth Neijnes och Erik Froste åker snart tillbaka till Ukraina för att slutf
 
 – Jag ser fram emot att fortsätta ta del av deras slutsatser och deras bedömningar av Ukrainas behov av stöd för att kunna behålla ett starkt civilt försvar även i den maritima miljön, säger statssekreterare Johan Berggren på Försvarsdepartementet.
 
-På informationsmötet deltog förutom  representanter för Försvarsdepartementet även representanter för andra departement som har beröringspunkter med uppdraget inom Regeringskansliet som till exempel Landsbygds- och infrastrukturdepartementet och Statsrådsberedningen.
+På informationsmötet deltog förutom representanter för Försvarsdepartementet även representanter för andra departement som har beröringspunkter med uppdraget inom Regeringskansliet som till exempel Landsbygds- och infrastrukturdepartementet och Statsrådsberedningen.

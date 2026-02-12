@@ -10,13 +10,13 @@ För att minska de globala växthusgasutsläppen i den utsträckning som vi i Sv
 
 Miljömålsberedningen ska därför utifrån en bred analys bereda frågan om mål för konsumtionsbaserade klimatpåverkande utsläpp och föreslå i vilken mån det är lämpligt att inom ramen för miljömålssystemet precisera mål och åtaganden genom kvantitativa eller kvalitativa etappmål för konsumtionsbaserade utsläpp.
 
-Miljömålsberedningen ska, utifrån en bred analys av flygets och sjöfartens klimatpåverkan och möjligheter till utsläppsminskningar, också föreslå etappmål för flygets klimatpåverkan samt bereda möjligheten till etappmål för sjöfartens klimatpåverkan.
+Miljömålsberedningen ska, utifrån en bred analys av flygets och sjöfartens klimatpåverkan och möjligheter till utsläppsminskningar, också föreslå etappmål för flygets klimatpåverkan samt bereda möjligheten till etappmål för sjöfartens klimatpåverkan.
 
 Beredningen ska även se över hur det klimatpolitiska ramverket kan få genomslag i offentlig upphandling, med fokus på upphandlingar med stor klimatpåverkan samt på kostnadseffektivitet och samhällsekonomisk effektivitet.
 
 Analyserna ska beakta hur åtgärder för att minska de konsumtionsbaserade utsläppen samt klimatpåverkan från flyget, sjöfarten och offentlig upphandling kan bidra till att på ett kostnadseffektivt och samhällsekonomiskt effektivt sätt nå relevanta mål i miljömålssystemet samt till att uppfylla internationella åtaganden.
 
-Miljömålsberedningen ska med analyserna som grund formulera en strategi som ska bidra till minskad klimatpåverkan från konsumtion och till att nå Generationsmålet och miljökvalitetsmålet Begränsad klimatpåverkan. Strategin ska bidra till att uppfylla Parisavtalets mål och till genomförande av relevanta delar i Agenda 2030.
+Miljömålsberedningen ska med analyserna som grund formulera en strategi som ska bidra till minskad klimatpåverkan från konsumtion och till att nå Generationsmålet och miljökvalitetsmålet Begränsad klimatpåverkan. Strategin ska bidra till att uppfylla Parisavtalets mål och till genomförande av relevanta delar i Agenda 2030.
 
 Miljömålsberedningen ska särskilt analysera strategins fördelningspolitiska konsekvenser och konsekvenser för svensk konkurrenskraft, utrikeshandeln och jämställdhet.
 

@@ -1,4 +1,4 @@
-# Skyddet genom nationell fridlysning anpassas till arternas skyddsbehov och andra angelägna intressenKN2025/01529
+# Skyddet genom nationell fridlysning anpassas till arternas skyddsbehov och andra angelägna intressen
 
 I promemorian föreslås ändringar av de nationella fridlysnings-bestämmelserna så att förbuden inte i onödan försvårar för verksamheter och åtgärder samtidigt som den nationella fridlysningen anpassas utifrån arternas skyddsbehov.
 

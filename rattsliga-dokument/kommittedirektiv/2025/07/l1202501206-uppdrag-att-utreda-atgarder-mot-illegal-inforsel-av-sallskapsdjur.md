@@ -1,4 +1,4 @@
-# Uppdrag att utreda åtgärder mot illegal införsel av sällskapsdjurL12025/01206
+# Uppdrag att utreda åtgärder mot illegal införsel av sällskapsdjur
 
 Regeringskansliet uppdrar åt avdelningschefen Kristina Ohlsson att biträda Landsbygds- och infrastrukturdepartementet med att utreda åtgärder mot illegal införsel av sällskapsdjur.
 

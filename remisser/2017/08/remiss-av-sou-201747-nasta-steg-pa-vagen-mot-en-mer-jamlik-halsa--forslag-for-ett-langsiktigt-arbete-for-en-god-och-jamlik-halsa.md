@@ -5,7 +5,7 @@ Här kan du ta del av vilka instanser regeringen remitterat "Nästa steg på vä
 I remissen ligger att regeringen vill ha synpunkter på inriktningen av de
 åtgärder som kommissionen föreslår bör vidtas inom det fortsatta folkhälsoarbetet.
 
-Regeringen önskar inte synpunkter på förslag per målområde
+Regeringen önskar inte synpunkter på förslag per målområde
 som tidigare har presenterats i SOU-serien eller som för närvarande
 utreds inom kommittéväsendet, genom uppdrag till myndigheter eller
 liknande. Dessa förslag har antingen omhändertagits eller kommer

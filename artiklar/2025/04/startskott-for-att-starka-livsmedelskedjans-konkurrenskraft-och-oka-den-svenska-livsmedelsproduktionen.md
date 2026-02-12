@@ -8,7 +8,7 @@ Den 20 mars beslutade regeringen Livsmedelsstrategin 2.0. Strategin innebär sta
 
 Landsbygdsministern inledde med att berätta om omvärldsläget, arbetet med att ta fram strategin och åtgärder som gjorts. För att fånga upp hur strategin på bästa sätt kan utvecklas och genomföras har arbetet med att utveckla strategin skett i dialoger och diskussioner med representanter inom livsmedelskedjan.
 
-– Den goda dialog som vi har haft med företag, organisationer och myndigheter hittills vill jag upprätthålla även framåt. Den kommer vara avgörande för hur väl vi lyckas nå målet om en ökad svensk livsmedelsproduktion, säger landsbygdsminister Peter Kullgren.
+– Den goda dialog som vi har haft med företag, organisationer och myndigheter hittills vill jag upprätthålla även framåt. Den kommer vara avgörande för hur väl vi lyckas nå målet om en ökad svensk livsmedelsproduktion, säger landsbygdsminister Peter Kullgren.
 
 ## Tre fokusområden
 

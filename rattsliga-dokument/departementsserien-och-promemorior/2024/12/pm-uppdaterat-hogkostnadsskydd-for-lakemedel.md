@@ -1,4 +1,4 @@
-# Pm Uppdaterat högkostnadsskydd för läkemedel
+# Uppdaterat högkostnadsskydd för läkemedel
 
 Socialdepartementet lämnar förslag för att uppdatera högkostnadsskyddet på läkemedelsområdet.
 

@@ -30,7 +30,7 @@ Och kanske viktigast av allt: Ett Sverige som har ett delansvar att göra gott i
 
 Det är ett ansvar som jag och den regering jag leder tar på största allvar. Vi vet att det är viktigt och att det är bråttom. Det är därför vi har inrättat ett nationellt säkerhetsråd, en minister för civilt försvar och en nationell säkerhetsrådgivare. Viktiga steg, både vart och ett och tillsammans, för ett tryggare land i en orolig tid.
 
-\*\*\*
+***
 
 Samma år som Sverige gick med i Nato var det också 30 år sedan vi fattade beslutet att gå med i EU. Nato och EU är två olika organisationer. Men för svensk del finns det slående likheter och viktiga erfarenheter att hämta.
 
@@ -70,7 +70,7 @@ Jag känner Mark sedan tidigare som en dynamisk premiärministerkollega. Medskic
 
 Sen sa han någonting som fastnade hos mig – att vi har viktiga kunskaper och erfarenheter som vi inte ska vara rädda för att använda. Att vi inte bara ska vara bäst i klassen när det gäller att följa regler, utan också vara med och sätta regler och föreslå förändringar när vi inte håller med.
 
-\*\*\*
+***
 
 Efter 8 månader förblir vi ödmjuka inför uppgiften, men vi har också hunnit åstadkomma en hel del.
 
@@ -86,7 +86,7 @@ För det tredje har vi börjat titta på nödvändiga förberedelser för att m�
 
 Och för det fjärde gör vi oss redo att bidra med personal i gemensamma insatser. Om bara några månader åker en mekaniserad bataljon till Natos framskjutna närvaro i Lettland. Under 2025 påbörjar vi även i praktiken ramnationsansvaret för Natos framskjutna närvaro i Finland. Vi bidrar med flyg till Natos luftrumsövervakning och vi planerar för att bidra till de stående marina styrkorna.
 
-\*\*\*
+***
 
 Ärade ledamöter,
 
@@ -102,7 +102,7 @@ Att vi är med i JEF, stärker vår förmåga och är ett viktigt komplement til
 
 Vi borde dessutom fundera på gemensam anskaffning av försvarsmateriel och inte bara acceptera, utan harmonisera varandras standarder. Alla hjul måste inte uppfinnas varje gång. Det finns utrymme för ökat samarbete inom försvarsinnovation och analysfunktioner. Att skapa ett kreativt nordiskt kluster inte bara för försvar och säkerhet, utan också för gemensam konkurrenskraft, borde ligga i allas intresse.
 
-\*\*\*
+***
 
 Om vi vidgar perspektivet bortom vårt omedelbara närområde, är ytterligare en slutsats viktig: att Sverige som allierad stärker den transatlantiska länken.
 
@@ -118,7 +118,7 @@ För det första, att vi måste bry oss om Asien om vi vill att USA ska bry sig 
 
 För det andra, att de europeiska Nato-länderna måste ta ett större ansvar för sin egen säkerhet, sina egna nationella försvar och sina försvarskostnader.
 
-\*\*\*
+***
 
 Den kanske allra största mentala förändringen ligger trots detta här hemma i Sverige. Och handlar om det faktum att Sverige nu är allierad med 31 andra stater. Det svåra är inte att förstå att andra länder är skyldiga att bistå Sverige vid ett väpnat angrepp. Just det har nog alla fattat. Utan att vi också är skyldiga att både kunna försvara oss själva och att bistå andra.
 
@@ -130,7 +130,7 @@ Nästa pedagogiska uppgift handlar om avskräckning och kärnvapen. Natos avskr�
 
 Kärnvapenavskräckningen i Nato är avsedd för att motverka konflikter, aggressioner och eskalering. Det står tydligt i Natos strategiska koncept som nu också är vårt: ”Natos avskräckning ska syfta till att avskräcka från varje möjlighet till aggression.” Och Sverige står fullt ut bakom detta.
 
-\*\*\*
+***
 
 Ytterst handlar vårt medlemskap i Nato om att värna svensk säkerhet. Att skydda Sveriges demokrati, frihet, självständighet och handlingsfrihet.
 

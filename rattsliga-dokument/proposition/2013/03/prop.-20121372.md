@@ -7,5 +7,5 @@ I propositionen föreslås även att de bestämmelser i lagen (2007:528) om vär
 I propositionen föreslås vidare en ändring i offentlighets- och sekretesslagen (2009:400) för att sekretesskydda uppgifter om enskilds ekonomiska eller personliga förhållanden som Finansinspektionen får i sin övervakning och kontroll enligt den nya lagen.
 
 Den nya lagen och ändringarna i lagen om värdepappersmarknaden och offentlighets- och sekretesslagen föreslås träda i kraft den 1 juni 2013.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________________________________________________
 Riksdagen fattade den 15 maj 2013 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

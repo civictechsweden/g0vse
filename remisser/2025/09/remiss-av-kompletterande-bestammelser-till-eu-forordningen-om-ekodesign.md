@@ -1,4 +1,4 @@
-# Remiss av kompletterande bestämmelser till EU-förordningen om ekodesignDiarienummer: KN2025/01772
+# Remiss av kompletterande bestämmelser till EU-förordningen om ekodesign
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen Kompletterande bestämmelser till EU-förordningen om ekodesign.
 

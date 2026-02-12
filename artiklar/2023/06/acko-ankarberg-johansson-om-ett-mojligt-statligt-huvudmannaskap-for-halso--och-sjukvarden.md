@@ -4,13 +4,13 @@ Torsdagen den 1 juni 2023 beslutade regeringen om ett direktiv till en parlament
 
 Transkribering:
 
-Idag har vi presenterat ett regeringsbeslut som handlar om direktiv till en parlamentarisk utredning. Vi ska utreda organisationen för hälso- och sjukvården, och mer specifikt: ska vi flytta ansvaret helt eller delvis från regionerna till staten. Så det är en fråga om hur vi ska få en mer jämlik hälso- och sjukvård.
+Idag har vi presenterat ett regeringsbeslut som handlar om direktiv till en parlamentarisk utredning. Vi ska utreda organisationen för hälso- och sjukvården, och mer specifikt: ska vi flytta ansvaret helt eller delvis från regionerna till staten. Så det är en fråga om hur vi ska få en mer jämlik hälso- och sjukvård.
 
 Varför vill regeringen utreda detta?
 
-Vi har brister i jämlikhet idag och en del brister beror på många olika saker. Socioekonomiska faktorer och mycket annat, men en del beror också på var jag bor och i praktiken vilka beslut har den egna regionen fattat. Våra regioner gör sitt bästa varje dag för att ge en god vård, men de geografiska gränserna sätter ju hinder och begränsningar.
+Vi har brister i jämlikhet idag och en del brister beror på många olika saker. Socioekonomiska faktorer och mycket annat, men en del beror också på var jag bor och i praktiken vilka beslut har den egna regionen fattat. Våra regioner gör sitt bästa varje dag för att ge en god vård, men de geografiska gränserna sätter ju hinder och begränsningar.
 
-Vårt uppdrag utifrån lagen är att ge en god vård till hela befolkningen. Då måste vi möjliggöra att det sker genom en organisation som stödjer det. Så det är uppdraget till den parlamentariska kommittén, att hitta en organisation som stödjer en jämlik vård och som har patienten i fokus.
+Vårt uppdrag utifrån lagen är att ge en god vård till hela befolkningen. Då måste vi möjliggöra att det sker genom en organisation som stödjer det. Så det är uppdraget till den parlamentariska kommittén, att hitta en organisation som stödjer en jämlik vård och som har patienten i fokus.
 
 När blir detta klart?
 

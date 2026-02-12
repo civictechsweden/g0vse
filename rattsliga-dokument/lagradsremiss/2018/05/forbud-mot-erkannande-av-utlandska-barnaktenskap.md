@@ -8,4 +8,4 @@ Barnäktenskap är ett globalt problem som måste motverkas. Den som är under 1
 
 Lagändringen föreslås träda i kraft den 1 januari 2019.
 
-[Pressmeddelande: Regeringen vill se totalförbud mot barnäktenskap](/pressmeddelanden/2018/05/regeringen-vill-se-totalforbud-mot-barnaktenskap/)
+[Pressmeddelande: Regeringen vill se totalförbud mot barnäktenskap](/pressmeddelanden/2018/05/regeringen-vill-se-totalforbud-mot-barnaktenskap/)

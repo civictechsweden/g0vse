@@ -5,5 +5,5 @@ Genom förslagen i propositionen klargörs att energiprodukter som säljs, förb
 De aktuella tillsatserna, ofta kallade additiv, tillsätts exempelvis för att hålla bränslesystemen renare eller motverka knackningar i motorn. De beskattas redan i dag när de ingår som en del av ett färdigt drivmedel och förslagen påverkar därmed inte beskattningen av drivmedel. För att underlätta hanteringen av tillsatserna föreslås att de ska följa de förfaranderegler som gäller för drivmedel.
 
 De nya bestämmelserna föreslås träda i kraft den 1 januari 2013.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________________________________________________
 Riksdagen fattade den 5 december 2012 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

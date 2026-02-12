@@ -31,7 +31,7 @@ Vi gör det gemensamt med andra, genom en aktiv utrikespolitik där diplomati, d
 
 Vårt engagemang för frihandel, jämlikhet och jämställdhet och vårt omfattande bistånd är viktiga delar i denna politik.
 
-\* \* \*
+* * *
 
 Herr/fru talman,
 
@@ -42,7 +42,7 @@ Sverige kommer inte att förhålla sig passivt om en katastrof eller ett angrepp
 
 Vår säkerhet är beroende av att den europeiska säkerhetsordningen respekteras, och vi ska verka genom EU samt i OSSE och Europarådet för att upprätthålla den.
 
-\* \* \*
+* * *
 
 Herr/fru talman,
 
@@ -55,7 +55,7 @@ Ryssland deltar i flera av dessa format. Sverige och EU söker dialog och samarb
 
 Ryssland bär ansvaret för konflikten i östra Ukraina som resulterat i över 10 000 dödsoffer. Vi fördömer den ryska aggressionen, inklusive den illegala annekteringen av Krim. Dessa flagranta brott mot folkrätten är det mest allvarliga hotet mot den europeiska säkerhetsordningen sedan kalla krigets slut. EU:s sanktioner ska bibehållas så länge skälen till att de infördes består. Även den inrikespolitiska utvecklingen i Ryssland är negativ.
 
-\* \* \*
+* * *
 
 Herr/fru talman,
 
@@ -73,7 +73,7 @@ EU-perspektivet ska vara tydligt för länderna på västra Balkan, men det stä
 
 Utvecklingen i Turkiet, inklusive återkommande konflikter med kurdiska grupper, är djupt oroande. Det gäller också attackerna i Afrin i norra Syrien. EU ska samarbeta med, men också ställa krav på Turkiet. EU bör inte stänga dörren till medlemskap.
 
-\* \* \*
+* * *
 
 Herr/fru talman,
 
@@ -87,7 +87,7 @@ På svenskt initiativ har ett enat råd fördömt våldet mot rohingyer i Myanma
 
 En brännande fråga på rådets dagordning är Nordkoreas kärnvapenambitioner. Landets kärnvapen- och missilprogram är ett allvarligt hot mot global fred och säkerhet. Vi driver på för en fredlig lösning och för att sanktionerna mot landet ska genomföras.
 
-\* \* \*
+* * *
 
 Herr/fru talman,
 
@@ -101,7 +101,7 @@ Kärnvapenmakterna, i synnerhet USA och Ryssland, har ett särskilt ansvar. Det 
 
 Ett nytt initiativ i nedrustningsarbetet är FN-konventionen om ett kärnvapenförbud. En utredning kommer att se på konsekvenserna av ett eventuellt svenskt tillträde.
 
-\* \* \*
+* * *
 
 Herr/fru talman,
 
@@ -123,7 +123,7 @@ Det finns fyra gånger fler artiklar om män än kvinnor på Wikipedia. På inte
 
 I april anordnar regeringen, i samarbete med Svenska institutet och i dialog med riksdagen, Stockholm Forum on Gender Equality: en stor internationell jämställdhetskonferens, dit gräsrötter och högnivådeltagare från hela världen är bjudna. Målet är att sprida resultat, lära av varandra, och inspirera politiska ledare.
 
-\* \* \*
+* * *
 
 Herr/fru talman,
 
@@ -135,7 +135,7 @@ Sverige står upp mot alla former av rasism och hat. I vårt arbete världen öv
 
 Fackliga rättigheter är en demokratifråga. Statsministern har lanserat Global Deal för att främja goda relationer på arbetsmarknaden. Idag är över 75 aktörer anslutna, inklusive 18 länder. Under året etablerar vi en långsiktig struktur för arbetet.
 
-\* \* \*
+* * *
 
 Herr/fru talman,
 
@@ -177,7 +177,7 @@ I DR Kongo råder akut politisk och humanitär kris. Vi verkar för ett fredligt
 
 Förra året mördades FN-experterna Zaida Catalán och Michael Sharp på uppdrag i DR Kongo. Vi arbetar outtröttligt för att morden utreds och de ansvariga ställs inför rätta.
 
-\* \* \*
+* * *
 
 Herr/fru talman,
 
@@ -191,7 +191,7 @@ Klimatet har blivit en av våra största säkerhetsutmaningar. Extrema väderfö
 
 Sverige tar ansvar. Vi har världens mest ambitiösa klimatlag och vi ger stora bidrag till utvecklingsländernas klimat-, miljö- och havsinsatser.
 
-\* \* \*
+* * *
 
 Herr/fru talman,
 
@@ -203,7 +203,7 @@ Genom exportstrategin stödjer regeringen svenska företags möjligheter att exp
 
 Regeringens avsikt är att Sverige ska delta vid världsutställningen i Dubai 2020.
 
-\* \* \*
+* * *
 
 Herr/fru talman,
 
@@ -215,7 +215,7 @@ Under året kommer vi att inleda en konsulär satsning inom området familjekonf
 
 En modern utrikesförvaltning bör avspegla det moderna Sverige. Vi ska ta ytterligare initiativ för att personer med olika bakgrund rekryteras till UD.
 
-\* \* \*
+* * *
 
 Herr/fru talman,
 

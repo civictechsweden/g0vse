@@ -4,6 +4,8 @@
 
 Riksdagen beslutade den 20 maj 2015 om en ny läkemedelslag och om ändring av vissa lagar, bl.a. strålskyddslagen som faller under Miljö- och energidepartementets ansvarsområde, och regeringen har utfärdat lagen. Ändringarna i strålskyddslagen avser endast hänvisningarna till den nya läkemedelslagen.
 
+
+
 ### Referenser
 
 * regeringens proposition En ny läkemedelslag (prop. 2014/15:91)

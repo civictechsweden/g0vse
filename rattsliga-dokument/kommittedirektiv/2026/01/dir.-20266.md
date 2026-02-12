@@ -1,4 +1,4 @@
-# En modern lagstiftning om källskatt på utdelningDir. 2026:6
+# En modern lagstiftning om källskatt på utdelning
 
 En särskild utredare ska lämna förslag som säkerställer att rådets direktiv (EU) 2025/50 av den 10 december 2024 om snabbare och säkrare skattelättnad för överskjutande källskatt (här källskattedirektivet) genomförs i svensk rätt.
 

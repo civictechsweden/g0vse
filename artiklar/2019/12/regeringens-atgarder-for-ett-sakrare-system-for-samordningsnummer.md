@@ -8,7 +8,7 @@ Det är nödvändigt att agera snabbare än så. Inom Regeringskansliet pågår 
 
 [Utredningsdirektiv: Åtgärder för att minska fel i folkbokföringen](/rattsliga-dokument/kommittedirektiv/2019/09/dir.-201954)
 
-Kontaktuppgifter till Utredningen om åtgärder för att minska fel i folkbokföringen (Fi 2019:05) finns tillgängliga på [www.sou.gov.se](http://www.sou.gov.se/?s=Fi+2019%3A05&limiter=allt)
+Kontaktuppgifter till Utredningen om åtgärder för att minska fel i folkbokföringen (Fi 2019:05) finns tillgängliga på[www.sou.gov.se](http://www.sou.gov.se/?s=Fi+2019%3A05&limiter=allt)
 
 Mer information om samordningsnummer:
 

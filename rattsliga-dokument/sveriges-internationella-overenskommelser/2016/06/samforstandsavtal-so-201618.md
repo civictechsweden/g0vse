@@ -9,7 +9,7 @@ operationer, övningar och annan liknande militär verksamhet
 Newport, Wales den 4 september 2014
 
 Regeringen beslutade den 28 augusti 2014 att underteckna avtalet. Den
-9 juni 2016 beslutade regeringen att underrätta Supreme Headquarters Allied Powers Europe om att avtalet godkänts.
+9 juni 2016 beslutade regeringen att underrätta Supreme Headquarters Allied Powers Europe om att avtalet godkänts.
 
 Avtalet trädde i kraft den 1 juli 2016 efter att Supreme Headquarters Allied Powers Europe mottagit Sveriges underrättelse.
 

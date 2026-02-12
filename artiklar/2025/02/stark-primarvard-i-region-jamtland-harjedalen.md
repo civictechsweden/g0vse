@@ -6,7 +6,7 @@ Primärvård i tätort och glesbygd var bland annat på agendan när sjukvårdsm
 
 Under besöket i Östersund fick ministern en presentation av det Mobila Närvårdsteamet (MiNT). Det är ett hembesöksteam som framför allt riktas till sköra äldre, men även personer med sällsynta diagnoser, vars diagnos ofta inte har en tydlig hemvist. Uppdraget är att skapa trygghet och ha en samordnande funktion i samarbete med hemsjukvården, hemtjänsten, hälsocentralen och den specialiserade sjukhusvården. De mobila sjukvårdsteamen spelar en viktig roll för att fånga upp de patienter som inte behöver sjukhusvård, och särskilt de som bor i glesbygden.
 
-Ministern besökte också Zätagränds hälsocentral i centrala Östersund. Hälsocentralen erbjuder bland annat arbetsterapi, barnhälsovård, fysioterapi och har en psykosocial mottagning. Hälsocentralen har 1 250 patienter per läkare. De är noga med att hålla det måttet för att erbjuda kontinuitet för patienterna.
+Ministern besökte också Zätagränds hälsocentral i centrala Östersund. Hälsocentralen erbjuder bland annat arbetsterapi, barnhälsovård, fysioterapi och har en psykosocial mottagning. Hälsocentralen har 1 250 patienter per läkare. De är noga med att hålla det måttet för att erbjuda kontinuitet för patienterna.
 
 ## Dialogmöte om satsningar och pågående arbete
 

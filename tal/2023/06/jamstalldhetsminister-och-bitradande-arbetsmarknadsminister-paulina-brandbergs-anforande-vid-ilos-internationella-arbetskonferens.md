@@ -6,7 +6,7 @@ Det talade ordet gäller.
 
 Your excellencies, ladies and gentlemen, constituents of the International Labour Organization. It is an honour for me to address this 111th session of the International Labour Conference.
 
-\*\*\*
+***
 
 In the first line of the preamble of the ILO constitution social justice is underlined as the foundation of universal and lasting peace.
 
@@ -16,7 +16,7 @@ Today, I need to very clear.
 
 Everyone must be able to fully enjoy all human rights. Regardless of sex, sexual orientation, gender identity or expression. Regardless of ethnicity, religion, or other belief. Regardless of disability, age, or any other status. The Swedish government is committed to ensure equal rights and the full and equal enjoyment of human rights of all LGBTIQ+-persons. We expect the ILO to be at the forefront of combatting discrimination including on the basis of sexual orientation, gender identity and gender expression. The ILO cannot fail to protect persons who are among the most exposed to harassment and even threats to their lives.
 
-\*\*\*
+***
 
 Today, I also want to underline gender equality as a matter of social justice, allowing equal access to rights, resources and opportunities.
 
@@ -36,13 +36,13 @@ These aspects promote gender equality and increase women’s prospects to have t
 
 The Swedish policy agenda strives to combat inhibitive gender roles and structures so that all women and men, boys and girls in all their diversity can live their lives to their full potential.
 
-\*\*\*
+***
 
 Excellencies, ladies and gentlemen,
 
 Everyone has the right to live in freedom and security. There is no peace without social justice. But there is also no social justice without peace. Sweden stands united in strong solidarity with the Ukrainian people in the face of Russia’s war of aggression. We will continue to support Ukraine and hold Russia accountable. International humanitarian law must be respected. We welcome the ongoing efforts of the ILO and the Director General to support the Ukrainian constituents.
 
-\*\*\*
+***
 
 Sweden will never accept any pushbacks when it comes to everyone’s full enjoyment of human rights.
 

@@ -1,10 +1,10 @@
 # Budgetpropositionen för 2013
 
 Den 20 september 2012 lämnade regeringen budgetpropositionen för år 2013 (prop. 2012/13:1) till riksdagen. Budgetpropositionen innehåller regeringens förslag till statsbudget för 2013, finansplan och skattefrågor m.m.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_____________________________________________________
 
 Riksdagen fattade den 19 december 2012 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_______________________________________________________
 
 För beställning av budgetpropositionen för 2013 kontakta:
 Riksdagens tryckeriexpedition,

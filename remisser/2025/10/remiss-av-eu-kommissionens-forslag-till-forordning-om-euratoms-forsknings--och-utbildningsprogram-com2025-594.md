@@ -1,4 +1,4 @@
-# Remiss av EU-kommissionens förslag till förordning om Euratoms forsknings- och utbildningsprogram COM(2025) 594Diarienummer: U2025/02003
+# Remiss av EU-kommissionens förslag till förordning om Euratoms forsknings- och utbildningsprogram COM(2025) 594
 
 Här kan du ta del av svaren från instanserna som regeringen har remitterat EU-kommissionens förslag till förordning om Euratoms forsknings- och utbildningsprogram COM(2025) 594.
 

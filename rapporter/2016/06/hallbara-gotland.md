@@ -1,6 +1,6 @@
 # Rapport om åtgärder för hållbar näringslivsutveckling i Gotlands län
 
-![](/contentassets/73b8c7234ed14d3884308f579a22b3c3/hallbara-gotland-1.jpg?width=150&quality=85)
+![](/contentassets/73b8c7234ed14d3884308f579a22b3c3/hallbara-gotland-1.jpg?width=150&amp;quality=85)
 
 Peter Larsson, kontaktperson för näringslivsutveckling i Gotlands län, har på regeringens uppdrag tagit fram förslag på åtgärder för hållbar näringslivsutveckling på Gotland som presenteras i rapporten Hållbara Gotland. Regeringen har avsatt 100 miljoner för åtgärder som ska stärka Gotlands industri och näringsliv.
 

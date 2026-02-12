@@ -1,6 +1,6 @@
 # Verksamhetsberättelse för bolag med statligt ägande 2024
 
-![](/contentassets/a2be3c80b3384f3eadc64530f6a2ff23/verksamhetberattelse-2024.png?width=150&quality=85)
+![](/contentassets/a2be3c80b3384f3eadc64530f6a2ff23/verksamhetberattelse-2024.png?width=150&amp;quality=85)
 
 Statens bolagsportfölj består av 38 bolag och har sin tyngdpunkt inom basindustri/energi. De flesta bolag är vinstdrivande. 22 bolag har av riksdagen beslutade samhällsuppdrag. Cirka 121 800 personer är anställda i bolagen med statligt ägande inklusive intressebolag.
 

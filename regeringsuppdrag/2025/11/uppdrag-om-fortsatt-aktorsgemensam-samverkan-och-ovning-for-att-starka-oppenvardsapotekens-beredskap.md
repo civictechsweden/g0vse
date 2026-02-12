@@ -1,4 +1,4 @@
-# Uppdrag om fortsatt aktörsgemensam samverkan och övning för att stärka öppenvårdsapotekens beredskapDiarienummer: S2024/00544
+# Uppdrag om fortsatt aktörsgemensam samverkan och övning för att stärka öppenvårdsapotekens beredskap
 
 Regeringen uppdrar åt Läkemedelsverket att fortsatt ansvara för en strukturerad aktörsgemensam samverkan och övningsverksamhet för att stärka öppenvårdsapotekens beredskap.
 

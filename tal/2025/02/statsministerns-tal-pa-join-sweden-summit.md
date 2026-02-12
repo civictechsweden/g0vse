@@ -22,7 +22,7 @@ Obviously, unions and employers sometimes disagree – that’s natural. But in 
 
 As a result – we happen to have substantially fewer strike days compared to many other countries. Basically we have jointly built this country not as rivals but as partners.
 
-\*\*\*
+***
 
 For more than 150 years we’ve been proud of Swedish inventions, inventors and entrepreneurs. From SKF’s ball bearings and Ericsson’s switchboards at the turn of the last century, to Klarna and Spotify in the beginning of this millennium.
 
@@ -38,7 +38,7 @@ And last but not least: understanding that to build great and growing companies 
 
 That’s why innovation and constant progression became a national virtue. And I do believe we’ve kept that spirit. We rank as one of the most innovative countries in the world, whatever ranking you might prefer. It always stems out of people – but one important reason is that our collective R&D spending amounts to more than 3,5 percent of GDP.
 
-\*\*\*
+***
 
 Sweden being quite small makes domestic ties even stronger. People here don’t move between politics and business to the same degree as in other countries, but government and the corporate sector have a century old tradition of close cooperation.
 
@@ -46,13 +46,13 @@ Since 1980, many Swedes know the phrase “staten och kapitalet” – state and
 
 But don’t get me wrong – we don’t subsidise, and we don’t pick winners. Instead we create good preconditions. In terms of primary and secondary education. In terms of research and higher education. In terms of trust, in our robust institutions – and in each other.
 
-\*\*\*
+***
 
 And more than that: We know that taxes affect incentives for employers and employees. That’s why we cut the top margin taxation. That’s why we expand the expert tax relief. And that’s why we improve the conditions for individual investment savings accounts.
 
 Right now, our tax ratio to GDP is the lowest since 1975.
 
-\*\*\*
+***
 
 There might be a few Financial Times readers here today. Perhaps some of you remember the article – and I quote – “How Sweden’s stock market became the envy of Europe”.
 
@@ -60,7 +60,7 @@ Over the past 10 years, more companies made an IPO in Sweden, than in France, Ge
 
 Swedes normally don’t brag – but it is worth mentioning that we’ve managed to do this while keeping our country financially sound. Fiscal discipline and economic stability are also good preconditions for our investment climate.
 
-\*\*\*
+***
 
 On climate, for us the ongoing green transition is not a burden. Quite the opposite, it’s an opportunity. And we intend to use that momentum.
 
@@ -70,7 +70,7 @@ In Sweden there is a complete unity in Parliament on our national climate commit
 
 We also agree we need more clean electricity. And now this Government is paving the way for that, short-term as well as long-term. We are taking big steps for scaling up our nuclear energy capacity, while also enabling more wind and solar power. Basically, more of everything that’s fossil free.
 
-\*\*\*
+***
 
 Clean and reliable energy is key, but so is fast and predictable permitting processes. As Swedes we have a habit to do things by the book. It is a virtue, but we shouldn’t overdo it.
 
@@ -78,7 +78,7 @@ We shouldn’t make the book as thick and complicated as possible. That’s also
 
 But we also want feedback: when you encounter hurdles, tell us. We have the dialogue with businesses because at the end of the day we have the same goal.
 
-\*\*\*
+***
 
 To make Sweden more prosperous is at the core of our ambitions. But in these geopolitical times of war, hostilities and tensions abroad, and organised crime at home, we also make Sweden safer.
 
@@ -86,7 +86,7 @@ Sweden has as you know joined Nato after 200 years of non-alignment, and no secu
 
 Domestically, we are rolling out a carpet of legislation, combatting violent and organised crime. So that law-abiding citizens and companies can feel safe again.
 
-\*\*\*
+***
 
 Ladies and gentlemen: In this age of uncertainty, we want to provide hope and stability. You need to take all the problems seriously. But you also need to see the potential to build something better!
 

@@ -6,4 +6,4 @@ Syftet är att så långt som möjligt motverka att personer som utgör en säke
 
 Migrationsverket ska i utförandet av uppdraget samråda med Säkerhetspolisen och Polismyndigheten.
 
-Uppdraget ska redovisas genom att Migrationsverket löpande informerar Regeringskansliet (Justitiedepartementet) om hur arbetet med uppdraget fortskrider.
+Uppdraget ska redovisas genom att Migrationsverket löpande informerar Regeringskansliet (Justitiedepartementet) om hur arbetet med uppdraget fortskrider.

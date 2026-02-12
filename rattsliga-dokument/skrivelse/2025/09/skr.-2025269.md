@@ -1,4 +1,4 @@
-# Riksrevisionens rapport om Migrationsverkets hantering av medborgarskapsärendenSkr. 2025/26:9
+# Riksrevisionens rapport om Migrationsverkets hantering av medborgarskapsärenden
 
 I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen har gjort i rapporten Migrationsverkets hantering av medborgarskapsärenden (RiR 2025:5).
 
@@ -7,7 +7,7 @@ hantering av medborgarskapsärenden inte är effektiv. Riksrevisionen
 bedömer att Migrationsverkets styrning och organisering lett till bristande
 möjlighet att fatta korrekta beslut utan onödiga dröjsmål. Brister i rutiner,
 beslutsunderlag och handläggningssystem påverkar bedömningen av
-identitet, hemvist och andra hinder för medborgarskap. Handläggningstiden bedöms vara oskäligt lång för utredningskrävande medborgarskapsärenden. Riksrevisionen framhåller även att regeringen inte vidtagit tillräckliga åtgärder för att bemöta de negativa konsekvenserna av införandet av begäran om avgörande i förvaltningslagen (2017:900).
+identitet, hemvist och andra hinder för medborgarskap. Handläggningstiden bedöms vara oskäligt lång för utredningskrävande medborgarskapsärenden. Riksrevisionen framhåller även att regeringen inte vidtagit tillräckliga åtgärder för att bemöta de negativa konsekvenserna av införandet av begäran om avgörande i förvaltningslagen (2017:900).
 
 Regeringen välkomnar Riksrevisionens granskning som ett värdefullt
 underlag för det fortsatta arbetet med en effektiv och rättssäker hantering

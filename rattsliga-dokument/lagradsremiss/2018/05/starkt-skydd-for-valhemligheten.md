@@ -8,4 +8,4 @@ Det är viktigt att väljare fullt ut kan utnyttja sin rösträtt, oberoende av 
 
 Lagändringarna föreslås träda i kraft den 1 januari 2019.
 
-[Pressmeddelande: Stärkt skydd för valhemligheten och ökade möjligheter att personrösta](/pressmeddelanden/2018/05/starkt-skydd-for-valhemligheten-och-okade-mojligheter-att-personrosta/)
+[Pressmeddelande: Stärkt skydd för valhemligheten och ökade möjligheter att personrösta](/pressmeddelanden/2018/05/starkt-skydd-for-valhemligheten-och-okade-mojligheter-att-personrosta/)

@@ -3,7 +3,7 @@
 En särskild utredare ser över socialtjänstlagen och vissa av socialtjänstens uppgifter.
 Uppdraget omfattar att föreslå åtgärder som kan bidra till en bland annat rättssäker tillgång till socialtjänsten. Översynen ska leda till en lagstiftning som bland annat underlättar effektiva insatser baserade på kunskap och ha god kvalitet. Lagstiftningen ska ta tillvara medarbetarnas kompetens och fokusera på kärnverksamheten. Utredarens förslag ska höja kvaliteten utan att leda till ökade kostnader.
 
-Meningen med uppdraget är att skapa en socialtjänst som bland annat sätter individen i i centrum och ger människor likadana möjligheter och rättigheter.
+Meningen med uppdraget är att skapa en socialtjänst som bland annat sätter individen i i centrum och ger människor likadana möjligheter och rättigheter.
 
 Utredaren ska bland annat se över och lämna förslag på:
 

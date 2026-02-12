@@ -8,6 +8,6 @@ Vetenskapsrådet ska när uppdraget utförs inhämta synpunkter och förslag fr�
 
 Vetenskapsrådet ska löpande informera Regeringskansliet (Utbildningsdepartementet) om hur arbetet med uppdraget fortskrider.
 
-Vetenskapsrådet ska senast den 7 oktober 2024 skriftligen redovisa uppdraget till Regeringskansliet (Utbildningsdepartementet).
+Vetenskapsrådet ska senast den 7 oktober 2024 skriftligen redovisa uppdraget till Regeringskansliet (Utbildningsdepartementet).
 
 Redovisningen av uppdraget ska hänvisa till diarienumret för detta beslut.

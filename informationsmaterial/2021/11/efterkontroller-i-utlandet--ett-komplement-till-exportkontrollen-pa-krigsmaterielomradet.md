@@ -1,6 +1,6 @@
 # Efterkontroller i utlandet – ett komplement till exportkontrollen på krigsmaterielområdet
 
-![Efterkontroller i utlandet försättsblad](/contentassets/42ee97497ce34f9db52981a8f6c4cb8f/efterkontroller-i-utlandet-forsattsblad.jpg?width=150&quality=85)
+![Efterkontroller i utlandet försättsblad](/contentassets/42ee97497ce34f9db52981a8f6c4cb8f/efterkontroller-i-utlandet-forsattsblad.jpg?width=150&amp;quality=85)
 
 Faktablad
 

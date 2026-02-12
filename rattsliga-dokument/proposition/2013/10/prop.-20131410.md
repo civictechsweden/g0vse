@@ -5,6 +5,6 @@ I propositionen föreslås att alkoholvaror och tobaksvaror som flyttas under up
 Dessutom föreslås i propositionen att skatt inte ska betalas för vissa alkohol- och tobaksvaror som omhändertagits av Tullverket och inte lämnas ut. Det föreslås samtidigt att möjligheten att återutföra sådana varor från Sverige tas bort.
 
 De nya bestämmelserna föreslås träda i kraft den 1 januari 2014 vad avser bl.a. beskattningen av varor som omhändertagits av Tullverket. Huvuddelen av förslagen föreslås däremot träda i kraft först den 1 april 2014 för att myndigheter och aktörer ska hinna förbereda sig för förändringarna.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+___________________________________________________________
 
 Riksdagen fattade den 5 december 2013 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

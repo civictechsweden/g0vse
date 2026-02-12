@@ -12,7 +12,7 @@ Ett övergripande fokus för arbetet inom Östersjöstrategin, är samarbetet me
 
 ## Stark bioekonomi – nyckel till grön omställning
 
-I enlighet med Karlstadsdeklarationen, som godkändes av de nordiska ministrarna för fiske, jordbruk, livsmedel och skogsbruk i juni 2024, är gränsöverskridande samarbete och erfarenhetsutbyte i regionen på områden som beredskap, robusthet och resiliens idag viktigare än någonsin. Med ökade geopolitiska spänningar står länderna i Östersjöregionen inför gemensamma utmaningar där en hållbar och robust  matförsörjning i hela produktionskedjan utgör ett av många exempel.
+I enlighet med Karlstadsdeklarationen, som godkändes av de nordiska ministrarna för fiske, jordbruk, livsmedel och skogsbruk i juni 2024, är gränsöverskridande samarbete och erfarenhetsutbyte i regionen på områden som beredskap, robusthet och resiliens idag viktigare än någonsin. Med ökade geopolitiska spänningar står länderna i Östersjöregionen inför gemensamma utmaningar där en hållbar och robust matförsörjning i hela produktionskedjan utgör ett av många exempel.
 
 Utmaningarna länderna emellan skiftar. Några är mer eller mindre självförsörjande, vissa har solida strategier för krisberedskap, medan andra står inför större utmaningar. Kunskaps- och erfarenhetsutbytet inom regionen blir härmed grundläggande, i syfte att stärka samarbetet och motståndskraften.
 

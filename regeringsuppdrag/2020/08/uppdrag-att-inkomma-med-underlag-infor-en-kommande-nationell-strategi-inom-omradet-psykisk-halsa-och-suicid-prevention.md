@@ -34,7 +34,7 @@ Myndigheterna ska individuellt analysera nuläget och de långsiktiga behov som 
 
 ## Gemensam analys
 
-Under samordning av Folkhälsomyndigheten och Socialstyrelsen ska myndigheterna dessutom  göra en gemensam analys. I den gemensamma delen ingår att föreslå en samlad strategi med mål och prioriteringar samt uppföljning.
+Under samordning av Folkhälsomyndigheten och Socialstyrelsen ska myndigheterna dessutom göra en gemensam analys. I den gemensamma delen ingår att föreslå en samlad strategi med mål och prioriteringar samt uppföljning.
 
 Myndigheterna ska också föreslå hur de kan stödja arbetet med att genomföra och följa upp den föreslagna strategin.
 

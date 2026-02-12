@@ -15,6 +15,6 @@ Dessa ska bestå till dess att ett förskott för sanktionsavgiften har betalats
 eller när det annars saknas skäl att upprätthålla förbudet. Besluten kan bli
 föremål för omprövning och överklagande.
 
-Det föreslås även att regeringen ska bemyndigas att meddela sanktionsavgifter vid överträdelser av vissa regler på yrkestrafik- och taxitrafikområdet.
+Det föreslås även att regeringen ska bemyndigas att meddela sanktionsavgifter vid överträdelser av vissa regler på yrkestrafik- och taxitrafikområdet.
 
 Lagändringarna föreslås träda i kraft den 1 januari 2025.

@@ -7,9 +7,9 @@ Vidare är syftet att på ett tydligt sätt ta till vara kundernas intressen och
 Utredaren ska bl.a.
 
 * se över hur det svenska regelverket förhåller sig till EU-domstolens
-  dom i mål C-718/18, Europeiska kommissionen mot Förbundsrepubliken Tyskland,
+dom i mål C-718/18, Europeiska kommissionen mot Förbundsrepubliken Tyskland,
 * se över bestämmelserna om överklagande av den nationella energitillsynsmyndighetens beslut i ärenden om förhandsreglering av avgifter och övriga villkor när det gäller anslutning och tillträde till
-  elnät och naturgasinfrastruktur,
+elnät och naturgasinfrastruktur,
 * lämna nödvändiga författningsförslag, och
 * särskilt redogöra för ändringarnas konsekvenser för elmarknadens funktionssätt samt kostnader eller vinster för elmarknadens aktörer.
 

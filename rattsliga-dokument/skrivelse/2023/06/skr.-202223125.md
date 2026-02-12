@@ -8,7 +8,7 @@ avsikter. Granskningen omfattar 46 myndigheter som regeringen helt eller
 delvis har lokaliserat utanför Stockholm mellan 2004 och 2020.
 Riksrevisionens övergripande slutsats är att regeringens lokalisering av
 myndigheter på orter utanför Stockholm under perioden 2004–2020 delvis
-har levt upp till riksdagens avsikter. Enligt Riksrevisionen har lokaliseringsbesluten medfört ett litet men positivt bidrag till regional
+har levt upp till riksdagens avsikter. Enligt Riksrevisionen har lokaliseringsbesluten medfört ett litet men positivt bidrag till regional
 utveckling samtidigt som besluten inte har äventyrat myndigheternas
 möjligheter att bedriva sin verksamhet effektivt på lång sikt.
 

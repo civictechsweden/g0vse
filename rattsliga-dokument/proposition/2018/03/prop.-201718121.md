@@ -13,4 +13,4 @@ Regeringen föreslår även utökade möjligheter till automatiskt erkännande a
 
 Den nya lagen och lagändringarna föreslås träda i kraft den 1 september 2018.
 
-[Pressmeddelande: Adoptionsreglerna moderniseras](/pressmeddelanden/2018/03/adoptionsreglerna-moderniseras/)
+[Pressmeddelande: Adoptionsreglerna moderniseras](/pressmeddelanden/2018/03/adoptionsreglerna-moderniseras/)

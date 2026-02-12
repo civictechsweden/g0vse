@@ -12,4 +12,4 @@ Regeringen tillsätter en delegation som ska arbeta för ökad tillgänglighet i
 * vidareutveckla överenskommelsen om kömiljarden, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska delredovisas senast den 30 juni 2021 och slutredovisas senast den 15 maj 2022.
+Uppdraget ska delredovisas senast den 30 juni 2021 och slutredovisas senast den 15 maj 2022.

@@ -14,4 +14,4 @@ Förslaget innebär bland annat följande.
 
 Vidare föreslås vissa ändringar i offentlighets- och sekretesslagen. Lagändringarna föreslås träda i kraft den 1 augusti 2018.
 
-[Pressmeddelande: Ny lag ökar möjligheterna till kamerabevakning](/pressmeddelanden/2018/03/ny-lag-okar-mojligheterna-till-kamerabevakning/)
+[Pressmeddelande: Ny lag ökar möjligheterna till kamerabevakning](/pressmeddelanden/2018/03/ny-lag-okar-mojligheterna-till-kamerabevakning/)

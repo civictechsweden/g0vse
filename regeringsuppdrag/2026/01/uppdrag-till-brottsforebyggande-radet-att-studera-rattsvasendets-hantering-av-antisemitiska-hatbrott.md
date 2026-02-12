@@ -1,4 +1,4 @@
-# Uppdrag till Brottsförebyggande rådet att studera rättsväsendets hantering av antisemitiska hatbrottDiarienummer: Ju2025/02074
+# Uppdrag till Brottsförebyggande rådet att studera rättsväsendets hantering av antisemitiska hatbrott
 
 Regeringen ger Brottsförebyggande rådet (Brå) i uppdrag att studera rättsväsendets hantering av antisemitiska hatbrott från anmälan till dom.
 
@@ -6,4 +6,4 @@ Brå ska analysera vad som utmärker de ärenden som går vidare till åtal och 
 
 Brå ska inom ramen för uppdraget samråda med Polismyndigheten och Åklagarmyndigheten, vilka vid behov ska bistå Brå i datainsamlingen. Brå ska även vid behov inhämta statistik från Domstolsverket. Brå ska vidare ha dialog med judiska organisationer och organisationer som verkar mot antisemitism. Brå ska i sitt uppdrag ta hänsyn till domstolarnas oberoende.
 
-Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 8 april 2027.
+Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 8 april 2027.

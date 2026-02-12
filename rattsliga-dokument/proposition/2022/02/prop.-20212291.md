@@ -8,8 +8,8 @@ blir koldioxidbeloppet under de tre första åren från det att fordonet blir
 skattepliktigt för första gången summan av
 
 * 107 kronor per gram koldioxid som fordonet vid blandad körning
-  släpper ut per kilometer utöver 75 gram och upp t.o.m. 125 gram, och
+släpper ut per kilometer utöver 75 gram och upp t.o.m. 125 gram, och
 * 132 kronor per gram koldioxid som fordonet vid blandad körning
-  släpper ut per kilometer utöver 125 gram.
+släpper ut per kilometer utöver 125 gram.
 
 Ändringarna föreslås träda i kraft den 1 juni 2022.

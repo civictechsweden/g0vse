@@ -18,7 +18,7 @@ Det Europa som en gång svor att judar aldrig mer ska behöva frukta för sin s�
 
 Eller för att citera president Emmanuel Macron: Vi ska föra tillbaka antisemitismen dit den hör hemma: inför rätta och bakom galler. Ingen tolerans för de intoleranta.
 
-\*\*\*
+***
 
 Rysslands fullskaliga invasion av Ukraina är vår tids europeiska tragedi. Ändå finns det röster som ifrågasätter att friheten är värd att försvara. Som om eftergiftspolitik mot diktaturen skulle ligga i demokratins intresse. Förlorar Ukraina, så förlorar Europa, och då förlorar Sverige.
 
@@ -30,7 +30,7 @@ EU-kommissionen rekommenderade också i torsdags Europeiska rådet att inleda me
 
 Att hjälpa Ukraina att överleva som fritt land och att göra Ukraina till en fullvärdig medlem i EU, kommer vara två av vår generations mest formativa europeiska uppgifter.
 
-\*\*\*
+***
 
 Herr talman,
 
@@ -40,7 +40,7 @@ Men EU-medlemskap delas inte ut lättvindigt, utan bygger på meriter och framst
 
 Samtidigt måste EU vara redo att ta emot nya medlemmar, när de är redo. Och EU behöver reformeras för att fungera effektivt även med fler medlemsstater. Det gäller inte minst jordbruks- och sammanhållningspolitiken. Även EU:s budget och formerna för beslutsfattande kommer att behöva ses över.
 
-\*\*\*
+***
 
 Sjuttio procent av de kriminella nätverken i EU är verksamma i minst tre länder. Regeringen genomför nu en historisk offensiv mot de svenska kriminella gängen. Vi stärker rättsväsendet och ger polisen nödvändiga verktyg och befogenheter. Vi river sekretessen så att myndigheter kan bekämpa den organiserade ekonomiska brottslighet som göder gängen.
 
@@ -50,7 +50,7 @@ Regeringen arbetar intensivt med förslag på hur det EU-samarbetet kan vässas.
 
 Europol måste stärkas för att kunna slå hårdare mot den organiserade brottsligheten och mer samarbete behövs för att stoppa införsel av narkotika via Europas hamnar.
 
-\*\*\*
+***
 
 Herr talman,
 
@@ -66,7 +66,7 @@ Men återvändandet måste öka. Vi behöver mer samarbete och informationsutbyt
 
 Det behövs ett kraftigt utökat samarbetet med ursprungs- och transitländer. Bara så kan vi förebygga migrationens grundorsaker och förhindra att många söker sig till Europa längs livsfarliga vägar över land och till havs.
 
-\*\*\*
+***
 
 Herr talman,
 
@@ -80,7 +80,7 @@ Det hållbara svenska skogsbruket är viktigt inte bara för Sveriges, utan för
 
 Även kärnkraften spelar en avgörande roll för fossilfri elproduktion i EU. Regeringen arbetar hårt för att både konventionell kärnkraft och små modulära reaktorer ska kunna användas på samma villkor i EU som förnybar energi. Vi samarbetar tätt med andra EU-länder i det som kallas kärnkraftsalliansen.
 
-\* \* \*
+* * *
 
 Herr talman!
 
@@ -104,7 +104,7 @@ Det är fri konkurrens på den inre marknaden och frihandel med länder utanför
 
 Om inte EU är närvarande i världens tillväxtregioner, så kommer andra vara det. EU:s styrka har länge varit dess öppenhet mot världen. Men den öppenheten måste vara förenlig med våra intressen, värderingar och säkerhetshänsyn.
 
-\*\*\*
+***
 
 Herr talman,
 
@@ -116,7 +116,7 @@ Men Sverige är ofta sämre än andra på att identifiera och formulera våra na
 
 Det ändrar vi på nu. Regeringen kommer att inrätta nya former för samråd och samarbete med näringslivet, arbetsmarknadens parter och andra viktiga aktörer som representerar strategiska svenska intressen. Det är bra både för Sverige och för EU.
 
-\* \* \*
+* * *
 
 Herr talman!
 

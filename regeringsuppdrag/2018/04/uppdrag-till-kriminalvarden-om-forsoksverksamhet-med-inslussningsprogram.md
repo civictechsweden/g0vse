@@ -6,7 +6,7 @@ Kriminalvården ska vid planeringen av försöksverksamheten, inklusive dess omf
 
 I uppdraget ingår att identifiera och involvera relevanta aktörer för uppdragets genomförande som kommuner, landsting, Arbetsförmedlingen, Kronofogdemyndigheten, organisationer i det civila samhället, m.fl. I uppdraget ingår också att tillsammans med dessa aktörer sätta upp former och ramar för arbetet. Utgångspunkten ska vara att så långt möjligt utgå från de inblandade aktörernas kärnverksamhet, befintliga arbetssätt och samverkansformer.
 
-Under arbetet ska Kriminalvården dra nytta av de erfarenheter som myndigheten har gjort inom ramen för regeringsuppdragen om unga dömda och våldsamma klienter Ju2013/04393/KRIM, Ju2013/04394 och Ju2013/07450/KRIM samt uppdraget om förstärkta insatser i arbetet med utslussning (Ju2015/09899/KRIM).
+Under arbetet ska Kriminalvården dra nytta av de erfarenheter som myndigheten har gjort inom ramen för regeringsuppdragen om unga dömda och våldsamma klienter Ju2013/04393/KRIM, Ju2013/04394 och Ju2013/07450/KRIM samt uppdraget om förstärkta insatser i arbetet med utslussning (Ju2015/09899/KRIM).
 
 Under uppdragets genomförande ska ett jämställdhetsperspektiv beaktas.
 
@@ -14,4 +14,4 @@ Kriminalvården ska vid de tidpunkter och i den form som beslutas i dialog med R
 
 Regeringen avser att ge Brottsförebyggande rådet i uppdrag att följa och utvärdera försöksverksamheten.
 
-[Pressmeddelande: Kriminalvårdens försöksverksamhet ska förebygga återfall i brottslighet](/pressmeddelanden/2018/04/kriminalvardens-forsoksverksamhet-ska-forebygga-aterfall-i-brottslighet/)
+[Pressmeddelande: Kriminalvårdens försöksverksamhet ska förebygga återfall i brottslighet](/pressmeddelanden/2018/04/kriminalvardens-forsoksverksamhet-ska-forebygga-aterfall-i-brottslighet/)

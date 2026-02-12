@@ -10,4 +10,4 @@ För att den föräldraskapsrättsliga regleringen ska bli tydligare och mer rä
 
 Lagändringarna föreslås träda i kraft den 1 januari 2019.
 
-[Pressmeddelande: Modernare regler om assisterad befruktning och föräldraskap](/pressmeddelanden/2018/02/modernare-regler-om-assisterad-befruktning-och-foraldraskap/ "Pressmeddelande: Modernare regler om assisterad befruktning och föräldraskap")
+[Pressmeddelande: Modernare regler om assisterad befruktning och föräldraskap](/pressmeddelanden/2018/02/modernare-regler-om-assisterad-befruktning-och-foraldraskap/ "Pressmeddelande: Modernare regler om assisterad befruktning och föräldraskap")

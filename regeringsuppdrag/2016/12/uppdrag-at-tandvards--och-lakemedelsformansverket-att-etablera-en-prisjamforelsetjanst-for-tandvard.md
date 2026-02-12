@@ -6,4 +6,4 @@ Tandvårds- och läkemedelsförmånsverket (TLV) har fått i uppdrag att, i samr
 
 Prisjämförelsetjänsten ska vara objektiv, konkurrensneutral, icke-diskriminerande och fri från kommersiella intressen. Den ska öka möjligheten för allmänheten att få en bild av prisnivåerna inom tandvården och möjliggöra jämförelser mellan olika vårdgivare.
 
-Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 15 juni 2018. En delredovisning av uppdraget ska lämnas senast den 15 september 2017.
+Uppdraget ska redovisas till Regeringskansliet (Socialdepartementet) senast den 15 juni 2018. En delredovisning av uppdraget ska lämnas senast den 15 september 2017.

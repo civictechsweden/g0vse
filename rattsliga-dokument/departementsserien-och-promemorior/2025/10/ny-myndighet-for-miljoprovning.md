@@ -1,4 +1,4 @@
-# Ny myndighet för miljöprövningKN2025/01878
+# Ny myndighet för miljöprövning
 
 I promemorian föreslås de författningsbestämmelser som krävs för att en ny myndighet för miljöprövning, Miljöprövningsmyndigheten, ska ta över de ärenden som i dag handläggs av länsstyrelsernas miljöprövningsdelegationer.
 

@@ -10,7 +10,7 @@ Men Sverige är betydligt säkrare i Nato än utanför alliansen. Som medlem del
 
 Utanför Nato hade Sverige haft ett mycket mer utsatt läge som hade öppnat för ryska påtryckningar och utpressning med kärnvapen.
 
-Nato har under de år sedan alliansen bildades 1949 visat att den kan anpassas till olika säkerhetsutmaningar och förbli relevant. Nu står alliansen inför ett skifte där Europa kommer behöva ta ett mycket större ansvar för sin egen säkerhet. Sverige är beredda att ta vårt ansvar i den utvecklingen.  Det har vi redan visat under vårt första år som Natomedlem. Sverige har gjort omfattande bidrag – på marken, till sjöss och i luften.
+Nato har under de år sedan alliansen bildades 1949 visat att den kan anpassas till olika säkerhetsutmaningar och förbli relevant. Nu står alliansen inför ett skifte där Europa kommer behöva ta ett mycket större ansvar för sin egen säkerhet. Sverige är beredda att ta vårt ansvar i den utvecklingen. Det har vi redan visat under vårt första år som Natomedlem. Sverige har gjort omfattande bidrag – på marken, till sjöss och i luften.
 
 Det är mycket viktigt att stärka den östra flanken mot Ryssland. I januari 2025 skickade därför Sverige en mekaniserad bataljon till Lettland för att vara en del i den Natostyrka som finns där under kanadensisk ledning. Där försvarar de oss och vår frihet på allierad mark.
 

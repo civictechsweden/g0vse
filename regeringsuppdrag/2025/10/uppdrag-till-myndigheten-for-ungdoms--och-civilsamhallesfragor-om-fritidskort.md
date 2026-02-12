@@ -1,4 +1,4 @@
-# Uppdrag till Myndigheten för ungdoms- och civilsamhällesfrågor om fritidskortDiarienummer:  S2025/01755
+# Uppdrag till Myndigheten för ungdoms- och civilsamhällesfrågor om fritidskort
 
 Regeringen uppdrar åt Myndigheten för ungdoms- och civilsamhällesfrågor, MUCF, att fördela pengar för att stärka kapaciteten hos barn- och ungdomsorganisationer när fritidskortet för barn och unga har införts.
 

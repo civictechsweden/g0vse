@@ -38,7 +38,7 @@ Nu är vår uppgift att själva göra allt rätt i Sverige.
 
 Och det vill jag tala om här idag.
 
-\*\*\*
+***
 
 Dagen före den ryska invasionen av Ukraina 2022, var jag i Helsingfors och träffade Finlands dåvarande president Sauli Niinistö och nuvarande statsminister Petteri Orpo.
 
@@ -58,7 +58,7 @@ Ett annat dåligt tecken är att så många länder har så dålig ekonomi att d
 
 Än svårare att förena de utgifterna med att också långsiktigt hjälpa Ukraina.
 
-\*\*\*
+***
 
 I den här dramatiskt förändrade omvärld drar jag och regeringen några viktiga slutsatser. Planen för ett säkrare Sverige i en farligare tid kan sammanfattas i fem punkter:
 
@@ -96,7 +96,7 @@ Senast genom att göra Östersjön säkrare med svenska ubåtar också i Polen.
 
 Men även Global Eye, Archer och CV90 sätter Sverige på kartan. Det ska vi vara stolta över.
 
-\*\*\*
+***
 
 Som statsminister gläds jag nu över det breda stödet för den nya svenska säkerhetspolitiken.
 

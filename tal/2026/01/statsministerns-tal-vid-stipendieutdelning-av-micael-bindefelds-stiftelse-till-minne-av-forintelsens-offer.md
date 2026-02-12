@@ -28,7 +28,7 @@ Men vi kan ändå bli mycket bättre. Därför är jag så glad över att årets
 
 Att förmedla kunskap om Förintelsen gör naturligtvis inte alls hela jobbet, men det är en nödvändig del av jobbet för att dagens svenska judar ska få fokusera på att öppet och tryggt leva sina liv, inte dölja sina liv eller frukta för sina liv.
 
-\*\*\*
+***
 
 Den här uppgiften faller på hela Sverige. Men ett stort ansvar vilar på regeringen. Och vi tar det.
 
@@ -36,13 +36,13 @@ För det första vet vi att egna upplevelser gör skillnad. De som får se Föri
 
 I Sverige har vi både ökat resurserna till hågkomstresor – och gjort dem permanenta.
 
-För det andra borde det vara självklart att svenska judar kan känna sig säkra i sitt eget land.  Och att medlemmarnas bidrag ska gå till verksamheten, inte till säkerhet för att skydda verksamheten. Därför har vi fortsatt finansiera just säkerhetshöjande åtgärder.
+För det andra borde det vara självklart att svenska judar kan känna sig säkra i sitt eget land. Och att medlemmarnas bidrag ska gå till verksamheten, inte till säkerhet för att skydda verksamheten. Därför har vi fortsatt finansiera just säkerhetshöjande åtgärder.
 
 För det tredje kräver allt detta långsiktighet och uthållighet. Och därför antog vi i somras en samlad strategi för att både motverka antisemitism och stärka judiskt liv i Sverige. Den spänner över tio år och inkluderar uppdrag till myndigheter – allt från Riksarkivet och Forum för levande historia, till Polismyndigheten och Totalförsvarets forskningsinstitut.
 
 En strategi gör inte heller hela jobbet, men bidrar med struktur och systematik. Inte minst eldsjälar vet vikten av långsiktighet.
 
-\*\*\*
+***
 
 Till sist: idag minns vi inte bara hatet och döden utan också alla de som gjorde personliga insatser för ljuset i den mörkaste stunden. Det är också värt att uppmärksamma. De som när det skedde vägrade acceptera, att det skedde.
 

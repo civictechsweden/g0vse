@@ -1,4 +1,4 @@
-# Pm Specialiseringstjänstgöring för sjukhusfysiker
+# Specialiseringstjänstgöring för sjukhusfysiker
 
 Socialdepartementet föreslår att regionerna ska ha möjlighet att anställa sjukhusfysiker som gör specialiseringstjänstgöring i den omfattning som motsvarar framtidens planerade behov.
 

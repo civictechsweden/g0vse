@@ -6,7 +6,7 @@ Flera frågor på migrations- och asylområdet står på dagordningen när EU:s 
 
 ### Utvidgning
 
-Ministrarna väntas ta upp frågan om  Bulgariens, Rumäniens och Kroatiens Schengenanslutning för diskussion och antagande.
+Ministrarna väntas ta upp frågan om Bulgariens, Rumäniens och Kroatiens Schengenanslutning för diskussion och antagande.
 
 ### Tillståndet i Schengenområdet
 
@@ -39,6 +39,8 @@ Ministrarna ska få en lägesrapport om arbetet med en förordning som syftar ti
 Förordningen har två delar. Den ena delen handlar främst om riskbedömningar, rapportering av övergrepp och myndigheters befogenheter. Den andra delen handlar om att upprätta ett EU-center med uppgift att samordna och stötta genomförandet av förordningen.
 
 Sverige kommer att driva förslaget vidare under ordförandeskapet i EU:s ministerråd i vår.
+
+
 
 Dessa frågor tas upp på tvådagarsmötets första dag den 8 december.
 Andra punkter står på dagordningen för mötes andra dag den 9 december.

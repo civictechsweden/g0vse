@@ -1,6 +1,6 @@
 # Den fria rörligheten ska inte skydda kriminella
 
-EU-minister Jessika Roswall och justitieminister Gunnar Strömmer, debattartikel Expressen, den 9 maj 2023.
+EU-minister Jessika Roswall och justitieminister Gunnar Strömmer, debattartikel, Expressen, den 9 maj 2023.
 
 I dag är det Europadagen, och Sverige är nu två tredjedelar in i ordförandeskapet i EU. Fram till och med sista juni har svenska ministrar uppgiften att driva arbetet framåt i viktiga förhandlingar som gör Europa säkrare, grönare och friare.
 
@@ -33,7 +33,3 @@ Det vore ett stort steg framåt eftersom svensk polis i dag endast kan söka den
 Regeringens arbete handlar om att öka tryggheten och säkerheten för medborgarna i Sverige och hela EU. Och ordförandeskapet innebär en unik möjlighet för oss som land att driva på för konkreta och effektiva verktyg och samarbeten på EU-nivå.
 
 Vi har hunnit en bra bit på vägen, men mycket arbete kvarstår fram till sista juni och även efter ordförandeskapet. Den fria rörligheten var aldrig tänkt att skydda den grova organiserade brottsligheten – nu gör vi allt för att trycka tillbaka de kriminella och därmed försvara det fria och öppna samhället.
-
-Jessika Roswall (M), EU-minister
-
-Gunnar Strömmer (M), justitieminister

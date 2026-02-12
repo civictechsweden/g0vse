@@ -28,7 +28,7 @@ Regeringen har lämnat in Sveriges första rapport om klimatanpassning till FN:s
 
 ## National statement to COP27
 
-[National statement to COP27](http://National statement to COP27)
+[National statement to COP27](<http://National statement to COP27>)
 
 ## Klimat- och miljöminister Romina Pourmokhtari håller en första presskonferens på COP27
 

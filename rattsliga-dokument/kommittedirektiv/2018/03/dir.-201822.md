@@ -10,7 +10,7 @@ I uppdraget ingår att utreda, analysera och föreslå:
 * vad som ska gälla i fråga om en enskilds inställning till medicinska insatser som görs medan denne är i livet och som syftar till att möjliggöra donation efter att denne har avlidit,
 * vad som ska gälla i fråga om närståendes inställning till medicinska insatser på en enskild som är i livet och som syftar till att möjliggöra donation efter att denne avlidit.
 
-Utredaren ska i förekommande fall överväga och redovisa olika alternativa förslag, väga för- och nackdelarna med alternativa lösningar och föreslå åtgärder och författningsändringar som utredaren bedömer vara mest ändamålsenliga.
+Utredaren ska i förekommande fall överväga och redovisa olika alternativa förslag, väga för- och nackdelarna med alternativa lösningar och föreslå åtgärder och författningsändringar som utredaren bedömer vara mest ändamålsenliga.
 
 Utredaren ska analysera hur förslagen förhåller sig till bland annat regeringsformens skydd mot påtvingat kroppsligt ingrepp. För varje förslag ska utredaren redovisa en rättslig och etisk analys.
 

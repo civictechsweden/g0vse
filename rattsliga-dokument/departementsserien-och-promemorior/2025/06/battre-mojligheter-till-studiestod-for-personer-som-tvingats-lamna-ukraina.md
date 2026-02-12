@@ -1,4 +1,4 @@
-# Bättre möjligheter till studiestöd för personer som tvingats lämna UkrainaU2025/01519
+# Bättre möjligheter till studiestöd för personer som tvingats lämna Ukraina
 
 I promemorian föreslås ändringar i studiestödslagen. Promemoria har utarbetats inom Utbildningsdepartementet.
 

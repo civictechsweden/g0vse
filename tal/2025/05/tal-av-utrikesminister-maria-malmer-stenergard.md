@@ -14,7 +14,7 @@ Att vara veteran innebär att man har gjort någonting som är bestående. En in
 
 Jag är tacksam över att vi har veterandagen. Det är en dag för att minnas, och för att påminnas. Vi minns, hedrar och tackar alla er som deltar, eller har deltagit, i militära eller civila insatser runt om i världen. Vi hedrar också de som betalat det yttersta priset för sina insatser.
 
-När jag tänker på er veteraner finns det några särskilda ord som kommer till mig. Det är ansvar. Vi påminns, inte minst så som världen ser ut nu, om att fred och frihet inte är gratis. Det är värden som måste vinnas om och om igen. Sverige har en lång och stolt tradition av att delta i internationella insatser. De utgör en integrerad och viktig del av vår samlade utrikes- och säkerhetspolitik. Mångfalden i de förmågor som vårt land kan bidra med, både militärt och civilt, är känd och respekterad i stora delar av världen.
+När jag tänker på er veteraner finns det några särskilda ord som kommer till mig. Det är ansvar. Vi påminns, inte minst så som världen ser ut nu, om att fred och frihet inte är gratis. Det är värden som måste vinnas om och om igen. Sverige har en lång och stolt tradition av att delta i internationella insatser. De utgör en integrerad och viktig del av vår samlade utrikes- och säkerhetspolitik. Mångfalden i de förmågor som vårt land kan bidra med, både militärt och civilt, är känd och respekterad i stora delar av världen.
 
 Som ett litet land har vi tagit ansvar på platser där freden och friheten har behövt vår hjälp. Genom era insatser har vi visat vår övertygelse om att rätten att leva i fred och frihet gäller alla människor i världen.
 
@@ -24,7 +24,7 @@ Det är många av er som bär på de såren. Lika verkliga som de som finns utan
 
 Ett sista ord är uppoffring. Att göra en insats är att göra något bortanför sig själv. Det påverkar inte bara den som gör insatsen, utan också de som blir kvar hemma. I dag hedrar vi därför också er anhöriga. Ni som får vardagen att gå ihop när en älskad närstående är på insats. Ni som har varit oroliga och saknat. Som stöttat både under och efter en viktig insats. Veteranernas insatser hade i många fall inte varit möjliga utan er. Tack.
 
-\*\*\*
+***
 
 I dag uppmärksammas särskilt insatser från 1948 till 2000. 1948 deltog vi i vår första FN-insats. Den tillkom tack vare Folke Bernadottes arbete, för att övervaka vapenvilan​ mellan Israel och dess grannländer. Mer än 75 år senare ser vi hur ännu ett krig rasar i regionen, som det gjort så många gånger förr. Det kan kännas hopplöst och nattsvart. Men det betyder inte att vi ska ge upp. Varje insats för fred är viktig.
 

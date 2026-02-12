@@ -1,4 +1,4 @@
-# Åtgärder för att öka antalet kliniska prövningar och vissa forskningsinitiativ i SverigeDir. 2025:76
+# Åtgärder för att öka antalet kliniska prövningar och vissa forskningsinitiativ i Sverige
 
 Regeringen uppdrar åt en särskild utredare att analysera vilka författningsändringar som behövs för att öka antalet kliniska prövningar och vissa forskningsinsatser i Sverige.
 

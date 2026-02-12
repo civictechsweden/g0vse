@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:98 En bättre organisering av fastighetsbildningsverksamhetenDiarienummer: LI2025/01713
+# Remiss av SOU 2025:98 En bättre organisering av fastighetsbildningsverksamheten
 
 Här kan du ta del av de remissvar som har kommit till Landsbygd- och infrastrukturdepartementet på SOU 2025:98 En bättre organisering av fastighetsbildningsverksamheten. Övriga yttranden finns tillgängliga i departementet.
 

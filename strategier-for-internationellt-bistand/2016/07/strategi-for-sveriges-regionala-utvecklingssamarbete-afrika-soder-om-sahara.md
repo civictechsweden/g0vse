@@ -1,6 +1,6 @@
 # Strategi för Sveriges regionala utvecklingssamarbete med Afrika söder om Sahara 2016-2021
 
-![Omslagsbild strategi](/contentassets/8b5c1b284a03474287288dea5677786d/sahara_150.jpg?width=150&quality=85)
+![Omslagsbild strategi](/contentassets/8b5c1b284a03474287288dea5677786d/sahara_150.jpg?width=150&amp;quality=85)
 
 Svenskt utvecklingssamarbete med Afrika söder om Sahara inom ramen för denna strategi ska bidra till en ökad regional integration och stärkt kapacitet att möta gränsöverskridande utmaningar och möjligheter på regional nivå. Strategin ska gälla under perioden 2016–2021.
 
@@ -10,7 +10,7 @@ Strategin omfattar sammantaget 2700 miljoner svenska kronor varav 2670 miljoner 
 
 Förbättrad miljö, hållbart nyttjande av naturresurser, minskad klimatpåverkan och stärkt motståndskraft mot miljöpåverkan, klimatförändringar och naturkatastrofer
 
-• Stärkt kapacitet hos regionala aktörer att verka för hållbar förvaltning och nyttjande av gemensamma ekosystemtjänster och naturresurser
+• Stärkt kapacitet hos regionala aktörer att verka för hållbar förvaltning och nyttjande av gemensamma ekosystemtjänster och naturresurser
 
 • Stärkt kapacitet hos regionala aktörer att verka för ökad motståndskraft mot klimatförändringar och naturkatastrofer, inklusive förmåga för en tryggad livsmedelsförsörjning
 

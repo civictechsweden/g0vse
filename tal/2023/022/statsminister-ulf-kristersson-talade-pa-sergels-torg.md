@@ -18,9 +18,9 @@ Och om det var oklart då, så råder nu inget tvivel om vad Zelenskyjs ord om �
 
 Putin och världens näst största armé har försökt kuva Ukraina i ett år, men dom har misslyckats. Ryssland får inte segra. Och därför är demokratiernas eniga besked så viktigt: Vi stöttar Ukraina!
 
-\*\*\*
+***
 
-Först såg det mörkt ut. När ryska trupper stod i Kievs förorter så fanns det de i Väst – och i Sverige – som trodde att Ukrainas dagar i frihet kunde räknas på ena handens fingrar.  Var realistiska! sa de. Men Ukraina har visat att det är vad vi gör, som skapar verkligheten!
+Först såg det mörkt ut. När ryska trupper stod i Kievs förorter så fanns det de i Väst – och i Sverige – som trodde att Ukrainas dagar i frihet kunde räknas på ena handens fingrar. Var realistiska! sa de. Men Ukraina har visat att det är vad vi gör, som skapar verkligheten!
 
 En del ville inte ens skicka vapen för att hjälpa Ukraina. För att det ansågs ”olagligt”, eller i vart fall olämpligt. För att vapnen kunde hamna i fel händer. För att de inte stod ut med tanken på att vapnen också skulle användas.
 
@@ -30,7 +30,7 @@ De senaste veckorna har Sverige varit i intensiv dialog med våra partners i EU 
 
 För att Vi stöttar Ukraina!
 
-\*\*\*
+***
 
 Under året som gått har Ukraina fått betala ett högt pris för sin frihet. Och som om de mänskliga förlusterna i soldater och civila inte vore nog, så har Ryssland påmint oss om att barbariet finns också nu: Butja. Izium.
 
@@ -58,7 +58,7 @@ I dag står det valet mellan ukrainsk demokrati och rysk tyranni – 170 mil fr�
 
 Vi stöttar Ukraina!
 
-\*\*\*
+***
 
 I förra veckan var jag i Ukrainas huvudstad Kiev. Jag träffade naturligtvis president Zelenskyj igen – och imponerades av hans ledarskap och uthållighet. Men det starkaste intrycket var inte att han klarar det – för det visste jag.
 

@@ -1,4 +1,4 @@
-# Utbetalning av medel till regionerna för att stärka den specialiserade psykiatriska vården för barn och unga respektive vuxnaDiarienummer: S2025/01235
+# Utbetalning av medel till regionerna för att stärka den specialiserade psykiatriska vården för barn och unga respektive vuxna
 
 Regeringen ger Kammarkollegiet i uppdrag att betala ut 500 000 000 kronor till regionerna under 2025 för att stärka den specialiserade psykiatriska vården för barn och unga respektive vuxna.
 

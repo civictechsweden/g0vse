@@ -37,6 +37,6 @@ Författningarna blir offentliga när de kommer ut från trycket i Svensk förfa
 
 ### Kontaktpersoner
 
-Anna Josefsson, 08-405 48 86 (Vattenvårdsprojekt)
+Anna Josefsson, 08-405 48 86 (Vattenvårdsprojekt)
 Pia-Maria Lindroos, 08-405 21 51 (Drivmedel)
 Christina Nordenbladh, 08-405 22 65 (Solceller)

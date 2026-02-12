@@ -1,4 +1,4 @@
-# Uppdrag att förbättra förutsättningarna att använda effektiva insatser som förebygger kriminalitet hos barn och ungaDiarienummer:  S2025/01364
+# Uppdrag att förbättra förutsättningarna att använda effektiva insatser som förebygger kriminalitet hos barn och unga
 
 Regeringen uppdrar åt Socialstyrelsen och Myndigheten för familjerätt och föräldra-skapsstöd att analysera orsakerna till att socialtjänsten inte i högre utsträckning använder kunskapsbaserade metoder, program och arbetssätt för att motverka normbrytande beteende och återfall i brott hos barn och unga. Uppdraget samordnas av Socialstyrelsen.
 

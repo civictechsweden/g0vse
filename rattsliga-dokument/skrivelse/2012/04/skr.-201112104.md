@@ -8,6 +8,6 @@ När den femåriga utvärderingsperioden inleddes var konjunkturen relativt star
 
 Huvudintrycket är att statens upplåning och skuldförvaltning fungerat väl under hela utvärderingsperioden. De kvantitativa målen har uppnåtts. Den externa granskare som Finansdepartementet anlitat som stöd för utvärderingen, bedömer att Riksgäldskontoret uppfyller målsättningen om en kostnadseffektiv statsskuldsförvaltning. I den externa granskarens rapport lämnas några rekommendationer om styrningen av statsskuldsförvaltningen till regeringen. I skrivelsen redovisar regeringen sin syn på granskarens förslag. Regeringen har för avsikt att ge Riksgäldskontoret i uppdrag att utreda och lämna förslag kring en av frågeställningarna.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+________________________________________________________________________
 
 Riksdagen fattade den 19 juni 2012 beslut om skrivelsen. Läs mer om beslutet via länken i högerspalten.

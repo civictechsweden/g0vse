@@ -6,7 +6,7 @@ Trafikverket ska i samverkan med Sjöfartsverket, Försvarsmakten och
 Fortifikationsverket
 
 * göra relevanta geotekniska undersökningar, sjömätningar och design
-  avseende farled och i hamnområdet
+avseende farled och i hamnområdet
 * bedöma åtgärder som krävs i farled och i hamnområde, kvantifiera
-  omfattningen av arbetet, och beräkna kostnaderna för det fortsatta
-  arbetet med att anlägga en reservhamn vid Kappelshamn på Gotland.
+omfattningen av arbetet, och beräkna kostnaderna för det fortsatta
+arbetet med att anlägga en reservhamn vid Kappelshamn på Gotland.

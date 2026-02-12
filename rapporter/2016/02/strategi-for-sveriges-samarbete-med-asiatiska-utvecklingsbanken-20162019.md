@@ -1,6 +1,6 @@
 # Strategi för Sveriges samarbete med Asiatiska utvecklingsbanken 2016–2019
 
-![](/contentassets/023fc415acc74098ac55a673ad35f1a5/asiatiska-utvecklingsbanken-med-omslag_150.jpg?width=150&quality=85)
+![](/contentassets/023fc415acc74098ac55a673ad35f1a5/asiatiska-utvecklingsbanken-med-omslag_150.jpg?width=150&amp;quality=85)
 
 Denna strategi ligger till grund för Sveriges samarbete med Asiatiska utvecklingsbanken (AsDB) under åren 2016-2019. Strategin ska också vägleda svenska positioner i förhandlingarna om den tolfte påfyllnaden av Asiatiska utvecklingsfonden (AsDF12) som kommer att avslutas under 2016.
 

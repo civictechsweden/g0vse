@@ -24,7 +24,7 @@ Rapporter från både OSSE:s internationella valobservation och Civil Rights Def
 
 Valiantsin Stefanovitj och Volha Siachovitj påpekade särskilt att väljare uppmanades av offentliga institutioner att förtidsrösta på icke-oppositionella kandidater och att räkningen av de många förtidsrösterna (36 procent) inte var transparent och därför omöjlig att övervaka. På valdagen var valobservatörerna därtill anvisade plats för långt bort för att kunna övervaka rösträkningen ordentligt.
 
-Valiantsin Stefanovitj och Volha Siachovitj påpekade också att oppositionskandidater missgynnades i registreringsprocessen och berättade om fall där kandidater förlorat sin kandidatstatus på grund av att deras politiska program inte var i linje med hur media censureras.
+Valiantsin Stefanovitj och Volha Siachovitj påpekade också att oppositionskandidater missgynnades i registreringsprocessen och berättade om fall där kandidater förlorat sin kandidatstatus på grund av att deras politiska program inte var i linje med hur media censureras.
 
 - Presidentvalet nästa år kommer att bli oerhört viktigt och regeringen behöver nu verkligen visa att den är redo för en systematisk reform av vallagstiftningen och för fri media, påpekade Valiantsin Stefanovitj.
 

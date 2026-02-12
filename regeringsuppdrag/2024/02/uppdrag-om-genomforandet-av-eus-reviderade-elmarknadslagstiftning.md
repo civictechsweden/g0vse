@@ -7,7 +7,7 @@ med anledning av nya krav enligt revideringen av Europaparlamentets och
 rådets förordning (EU) 2019/943 av den 5 juni 2019 om den inre
 marknaden för el (EU:s elmarknadsförordning) samt nya krav enligt
 revideringen av Europaparlamentets och rådets förordning (EU) 1227/2011
-av den 25 oktober 2011 om integritet och öppenhet på grossistmarknaderna för energi (Remit-förordningen).
+av den 25 oktober 2011 om integritet och öppenhet på grossistmarknaderna för energi (Remit-förordningen).
 
 Energimarknadsinspektionen ska lämna nödvändiga författningsförslag i de
 delar där genomförandet kräver föreskrifter i lag eller förordning.

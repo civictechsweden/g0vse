@@ -1,6 +1,6 @@
 # Lycka, ensamhet och gemenskap i en uppkopplad värld
 
-![](/globalassets/regeringen/bilder/socialdepartementet/folkhalsa-och-sjukvard/ofrivillig-ensamhet/foretagsnatverk-ensamhet/logotyp_natverket.png?width=150&quality=85)
+![](/globalassets/regeringen/bilder/socialdepartementet/folkhalsa-och-sjukvard/ofrivillig-ensamhet/foretagsnatverk-ensamhet/logotyp_natverket.png?width=150&amp;quality=85)
 
 Vad gör oss lyckliga och varför känner vi oss allt mer ensamma i en uppkopplad värld? Det var huvudtemat när professorn Micael Dahlen föreläste inför företagsnätverket för ökad gemenskap och mot ofrivillig ensamhet den 16 september.
 

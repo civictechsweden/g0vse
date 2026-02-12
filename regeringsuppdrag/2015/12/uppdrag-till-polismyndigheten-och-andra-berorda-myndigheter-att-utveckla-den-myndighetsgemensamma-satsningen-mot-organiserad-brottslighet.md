@@ -11,4 +11,4 @@ I uppdraget ingår att:
 
 Uppdraget ska delredovisas senast den 1 oktober 2016 och slutredovisas den 1 oktober 2017.
 
-[Pressmeddelande: Uppdrag att utveckla den myndighetsgemensamma satsningen mot organiserad brottslighet](/pressmeddelanden/2015/12/uppdrag-att-utveckla-den-myndighetsgemensamma-satsningen-mot-organiserad-brottslighet/)
+[Pressmeddelande: Uppdrag att utveckla den myndighetsgemensamma satsningen mot organiserad brottslighet](/pressmeddelanden/2015/12/uppdrag-att-utveckla-den-myndighetsgemensamma-satsningen-mot-organiserad-brottslighet/)

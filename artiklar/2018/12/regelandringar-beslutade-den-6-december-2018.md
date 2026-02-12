@@ -4,7 +4,7 @@ Den 6 december beslutade regeringen om följande regeländringar inom Miljö- oc
 
 ## Förlängning av Laponiaförordningen
 
-Regeringen har beslutat att Laponiaförordningen förlängs med fyra år t.o.m. den 31 december 2022.
+Regeringen har beslutat att Laponiaförordningen förlängs med fyra år t.o.m. den 31 december 2022.
 
 Referenser:
 

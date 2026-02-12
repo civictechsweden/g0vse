@@ -6,7 +6,7 @@ Ambitionen i projektet har varit att utveckla arbetet med att lära och använda
 
 – Jag ville se hur vi lär oss från data, om vi kan ändra vårt system. Därför tog jag kontakt med Council of the Baltic Sea States (Östersjösekretariatet CBSS) för att se vad som kunde göras för att skapa ett nätverk inom Östersjöregionen, säger Rainar All, projektledare från MSB.
 
-Genom CBSS kontaktades Svenska Institutet (SI) som beviljade en såddfinansiering på 400 000 kronor. Pengarna användes för att samla ett nätverk av nationella räddningstjänster i Östersjöregionen för tre seminarier under 2012 och 2013. Utifrån detta nätverk sattes projektet ”BaltPrevResiliance” igång.
+Genom CBSS kontaktades Svenska Institutet (SI) som beviljade en såddfinansiering på 400 000 kronor. Pengarna användes för att samla ett nätverk av nationella räddningstjänster i Östersjöregionen för tre seminarier under 2012 och 2013. Utifrån detta nätverk sattes projektet ”BaltPrevResiliance” igång.
 
 ## **Ett projekt i tre faser**
 

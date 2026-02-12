@@ -1,4 +1,4 @@
-# Uppdrag till Verket för innovationssystem att genomföra insatser för samverkansbaserad forskning och innovation inom excellenskluster för banbrytande och strategisk teknikDiarienummer: KN2025/01161
+# Uppdrag till Verket för innovationssystem att genomföra insatser för samverkansbaserad forskning och innovation inom excellenskluster för banbrytande och strategisk teknik
 
 Regeringen ger Verket för innovationssystem (Vinnova) i uppdrag att inom sitt verksamhetsområde utveckla och genomföra insatser för samverkansbaserad forskning och innovation inom banbrytande teknik på för Sverige strategiskt viktiga teknikområden, med tillhörande finansiering, analyser och arbetsformer. Uppdraget är en del i genomförandet av
 satsningen på excellenskluster för banbrytande teknik som aviserades i regeringens forsknings- och innovationspolitiska proposition.
@@ -6,7 +6,7 @@ satsningen på excellenskluster för banbrytande teknik som aviserades i regerin
 Syftet med uppdraget är att stärka och utveckla Sveriges befintliga styrkor
 inom viktiga teknikområden samt att utveckla nya förmågor inom
 framväxande teknik genom bransch- och sektorsöverskridande samarbeten.
-Uppdraget ska bidra till att säkerställa Sveriges relevans i globala värdekedjor för strategiskt viktiga teknikområden, främja Sveriges position som ett ledande innovationsland, stärka Sveriges nationella säkerhet, samt bidra till Sveriges långsiktiga konkurrenskraft.
+Uppdraget ska bidra till att säkerställa Sveriges relevans i globala värdekedjor för strategiskt viktiga teknikområden, främja Sveriges position som ett ledande innovationsland, stärka Sveriges nationella säkerhet, samt bidra till Sveriges långsiktiga konkurrenskraft.
 
 Uppdraget ska omfatta följande för Sverige strategiskt viktiga
 teknikområden:

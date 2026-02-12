@@ -14,6 +14,6 @@ I Sveriges linjetal lyfte jämställdhets- och arbetslivsminister Paulina Brandb
 
 Den svenska delegationen, som bestod av 30 personer, deltog i en bredd av aktiviteter. Tillsammans med Somalia arrangerade Sverige ett fullsatt sidoevent på temat sexuell och reproduktiv hälsa och rättigheter (SRHR) med särskilt fokus på de allra mest utsatta. Ministern deltog också på aktiviteter med fokus på att dela erfarenheter av den svenska sexköpslagen. Dessa arrangerades i samarbete med konsulatet i New York och ambassaden i Washington.
 
-Vidare hade den svenska delegationen och ministern en rad bilaterala möten med kolleger från Ghana, Sydafrika, Moldavien, Montenegro, Kanada, Ukraina och Bangladesh med flera.  Ministern hade också en rad andra enskilda samtal med kolleger från flera länder och träffade företrädare från organisationer som arbetar med bland annat hbtqi-frågor och sexuell och reproduktiv hälsa och rättigheter.
+Vidare hade den svenska delegationen och ministern en rad bilaterala möten med kolleger från Ghana, Sydafrika, Moldavien, Montenegro, Kanada, Ukraina och Bangladesh med flera. Ministern hade också en rad andra enskilda samtal med kolleger från flera länder och träffade företrädare från organisationer som arbetar med bland annat hbtqi-frågor och sexuell och reproduktiv hälsa och rättigheter.
 
 I delegationen ingick, utöver jämställdhets- och arbetslivsminister Paulina Brandberg bland annat representanter från myndigheter och civilsamhället samt regeringen och riksdagsledamöter.

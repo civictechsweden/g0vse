@@ -1,4 +1,4 @@
-# Promemoria Kompletterande bestämmelser till EU-förordningen om utbyggnad av infrastruktur för alternativa drivmedel
+# Kompletterande bestämmelser till EU-förordningen om utbyggnad av infrastruktur för alternativa drivmedel
 
 I promemorian föreslås lag- och förordningsändringar som är nödvändiga för att komplettera Europaparlamentets och rådets förordning 2023/1804 om utbyggnad av infrastruktur för alternativa drivmedel.
 

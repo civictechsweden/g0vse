@@ -9,7 +9,7 @@ Utredaren ska kontinuerligt föra en dialog med, och inhämta synpunkter från, 
 Utredaren ska bl.a.
 
 * vid behov föreslå hur uppgiftsfördelningen inom det allmänna kan
-  tydliggöras för att säkra att ändamålsenliga åtgärder vidtas,
+tydliggöras för att säkra att ändamålsenliga åtgärder vidtas,
 * analysera systemet med hyresgarantier och bedöma om det är ett ändamålsenligt och effektivt stöd för enskilda hushåll som söker bostad och vid behov föreslå en mer kostnadseffektiv utformning,
 * analysera hur de kommunala bostadsförmedlingarna och förturssystemen fungerar som verktyg för en socialt hållbar bostadsförsörjning och vid behov föreslå hur det allmännas roll i förmedlingsfrågor kan utvecklas,
 * analysera skillnader i arbetet med bostadsförsörjningsfrågor mellan de kommuner där det finns ett allmännyttigt bostadsaktiebolag eller en bostadsstiftelse och de kommuner där sådana saknas och vid behov föreslå åtgärder som utvecklar bolagens arbete för en socialt hållbar bostadsförsörjning och åtgärder som leder till att förutsättningarna för en socialt hållbar bostadsförsörjning även finns i kommuner som i dag saknar allmännyttiga bostadsföretag,

@@ -6,4 +6,4 @@ Analysen ska utgå från det grundläggande målet om kvinnors och mäns lika f�
 
 Analysen ska även omfatta fördelningen av resurser mellan kvinnor och mäns idrottande och motionerande. Fördelningen inom barn- och ungdomsidrotten ska särskilt belysas. Analysen ska beakta såväl det offentligas som individens egna bidrag samt omfatta idrott och motion i förening, i kommunal verksamhet, i privat näringsverksamhet och i egen regi.
 
-CIF ska lämna en samlad rapport om genomförd verksamhet under 2017 till Regeringskansliet (Socialdepartementet) senast den 15 maj 2018.
+CIF ska lämna en samlad rapport om genomförd verksamhet under 2017 till Regeringskansliet (Socialdepartementet) senast den 15 maj 2018.

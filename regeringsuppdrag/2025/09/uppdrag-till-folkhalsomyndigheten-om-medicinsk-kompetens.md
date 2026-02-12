@@ -1,4 +1,4 @@
-# Uppdrag till Folkhälsomyndigheten om medicinsk kompetensDiarienummer:  S2025/01479
+# Uppdrag till Folkhälsomyndigheten om medicinsk kompetens
 
 Regeringen uppdrar åt Folkhälsomyndigheten att redogöra för hur myndigheten säkerställer att relevant medicinsk kompetens tillvaratas i myndighetens beslutsprocesser. I de fall brister identifieras ska myndigheten redogöra för vilka åtgärder som planeras.
 

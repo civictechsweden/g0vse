@@ -16,10 +16,10 @@ De nya reglerna innebär att den högsta ersättningsbara inkomsten i aktivitets
 
 För dig som söker arbete finns mer information hos Arbetsförmedlingen.
 
-[Ny arbetslöshetsförsäkring från 1 oktober 2025 (arbetsformedlingen.se) - extern webbplats,](https://arbetsformedlingen.se/for-arbetssokande/tips-inspiration-och-nyheter/artiklar/2025-09-15-ny-arbetsloshetsforsakring-fran-1-oktober-2025 "Ny arbetslöshetsförsäkring från 1 oktober 2025")
+[Ny arbetslöshetsförsäkring från 1 oktober 2025 (arbetsformedlingen.se) - extern webbplats,](https://arbetsformedlingen.se/for-arbetssokande/tips-inspiration-och-nyheter/artiklar/2025-09-15-ny-arbetsloshetsforsakring-fran-1-oktober-2025 "Ny arbetslöshetsförsäkring från 1 oktober 2025")
 
 Är du deltagare i ett av Arbetsförmedlingens program och har frågor om din ersättning ska du vända dig till Försäkringskassan.
 
-[Ändrade regler om ersättning till deltagare i Arbetsförmedlingens program 1 oktober (forsakringskassan.se) - extern webbplats,](https://www.forsakringskassan.se/privatperson/arbetssokande/aktivitetsstod-eller-utvecklingsersattning-nar-du-deltar-i-arbetsformedlingens-program/andrade-regler-om-ersattning-till-deltagare-i-arbetsformedlingens-program-1-oktober "Ändrade regler om ersättning till deltagare i Arbetsförmedlingens program 1 oktober")
+[Ändrade regler om ersättning till deltagare i Arbetsförmedlingens program 1 oktober (forsakringskassan.se) - extern webbplats,](https://www.forsakringskassan.se/privatperson/arbetssokande/aktivitetsstod-eller-utvecklingsersattning-nar-du-deltar-i-arbetsformedlingens-program/andrade-regler-om-ersattning-till-deltagare-i-arbetsformedlingens-program-1-oktober "Ändrade regler om ersättning till deltagare i Arbetsförmedlingens program 1 oktober")
 
 Du kan också vända dig till din a-kassa vid frågor.

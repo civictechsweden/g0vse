@@ -4,7 +4,7 @@ Måndagen den 19 februari besökte statsminister Ulf Kristersson Warszawa för a
 
 – Vi alla lever idag i en ny och farlig verklighet, och vi står inför den största säkerhets- och försvarsutmaningen sedan det kalla kriget, sa statsminister Ulf Kristersson vid en pressträff där han också betonade vikten av att Europa tar ett större ansvar för sin egen säkerhet.
 
-På lördag den 24 februari är det två år sedan ryska styrkor inledde den fullskaliga invasionen av Ukraina.  Sverige och Polen är eniga om behovet av att mobilisera ett starkare stöd till Ukraina.
+På lördag den 24 februari är det två år sedan ryska styrkor inledde den fullskaliga invasionen av Ukraina. Sverige och Polen är eniga om behovet av att mobilisera ett starkare stöd till Ukraina.
 
 – Hur vi gemensamt agerar nu kommer att påverka krigets utgång och vår egen framtid och säkerhet, sa statsministern.
 

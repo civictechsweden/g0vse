@@ -8,7 +8,7 @@ På mötet diskuterade ministrarna det så kallade Fit for 55-paketets påverkan
 
 Regeringen har välkomnat Fit for 55-paketet.
 
--          Jag tryckte särskilt på vilken möjlighet det är för europeisk konkurrens och industri att göra den gröna omställningen, liksom vikten av att satsa på forskning och innovation, att sätta ett högt pris på koldioxidutsläpp och att hindra koldioxid läckage, det vill säga hindra att utsläppen förläggs till andra länder utanför EU, sa statssekreterare Emil Högberg efter mötet.
+- Jag tryckte särskilt på vilken möjlighet det är för europeisk konkurrens och industri att göra den gröna omställningen, liksom vikten av att satsa på forskning och innovation, att sätta ett högt pris på koldioxidutsläpp och att hindra koldioxid läckage, det vill säga hindra att utsläppen förläggs till andra länder utanför EU, sa statssekreterare Emil Högberg efter mötet.
 
 ## Konkurrenskraft, bättre lagstiftning och främjande av den inre marknaden
 

@@ -6,7 +6,7 @@ Konsekvensutredningen ska genomföras i enlighet med förordningen (2007:1244) o
 
 Regeringen uppdrar också åt Jordbruksverket att lämna förslag till hur en ny bestämmelse om anmälningsskyldighet bör utformas i växtskydds­lagen (1972:318) samt att se över och vid behov föreslå ändringar i den straffbestämmelse som är kopplad till anmälningsplikten. Författnings­förslag ska lämnas.
 
-Översynen av straffbestämmelsen ska innehålla en analys av om det finns behov av att sanktionera underlåtelse att fullgöra anmälningsplikten, vilka alternativ som finns till straffsanktion, om straffsanktion bedöms vara lämplig, hur straffskalan bör vara utformad samt om det är lämpligt att differentiera eventuella sanktionsbestämmelser för olika kategorier av aktörer, till exempel genom att undanta privatpersoner från det straffrättsliga området. Analysen vad gäller straffbestämmelsen ska belysa eventuella konsekvenser för domstolar, åklagare, polis och andra berörda myndigheter.
+Översynen av straffbestämmelsen ska innehålla en analys av om det finns behov av att sanktionera underlåtelse att fullgöra anmälningsplikten, vilka alternativ som finns till straffsanktion, om straffsanktion bedöms vara lämplig, hur straffskalan bör vara utformad samt om det är lämpligt att differentiera eventuella sanktionsbestämmelser för olika kategorier av aktörer, till exempel genom att undanta privatpersoner från det straffrättsliga området. Analysen vad gäller straffbestämmelsen ska belysa eventuella konsekvenser för domstolar, åklagare, polis och andra berörda myndigheter.
 
 Jordbruksverket ska beakta eventuella ändringar av anmälningsplikten i EU-rättsakter som påverkar det regelverk som ska börja tillämpas den 1 januari 2017.
 

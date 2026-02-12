@@ -9,11 +9,11 @@ det är absolut nödvändigt för att lokalisera eller identifiera en viss perso
 
 * som kan vara offer för människorov, människohandel eller människoexploatering eller som är försvunnen och som misstänks ha utsatts för brott,
 * om det finns en överhängande fara för att personen kommer att begå
-  ett allvarligt brott mot människors liv eller säkerhet,
+ett allvarligt brott mot människors liv eller säkerhet,
 * som skäligen kan misstänkas ha begått visst allvarligt brott för vilket
-  det i straffskalan ingår fängelse i fyra år eller mer eller straffbart försök,
-  straffbar förberedelse eller stämpling till sådana brott, i syfte att utreda
-  eller lagföra brottet, eller
+det i straffskalan ingår fängelse i fyra år eller mer eller straffbart försök,
+straffbar förberedelse eller stämpling till sådana brott, i syfte att utreda
+eller lagföra brottet, eller
 * som dömts för ett sådant allvarligt brott, i syfte att verkställa den straffrättsliga påföljden.
 
 Användningen av tekniken ska vara proportionerlig och det ska krävas

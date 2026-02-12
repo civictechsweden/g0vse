@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att följa upp överenskommelsen mellan staten och Sveriges Kommuner och Regioner om ökad tillgänglighet till barn- och ungdomspsykiatrin 2025–2026Diarienummer: S2025/01282
+# Uppdrag till Socialstyrelsen att följa upp överenskommelsen mellan staten och Sveriges Kommuner och Regioner om ökad tillgänglighet till barn- och ungdomspsykiatrin 2025–2026
 
 Regeringen ger Socialstyrelsen i uppdrag att följa upp överenskommelsen mellan staten och Sveriges Kommuner och Regioner (SKR) om ökad tillgänglighet till barn- och ungdomspsykiatrin 2025–2026 (S2025/00394).
 

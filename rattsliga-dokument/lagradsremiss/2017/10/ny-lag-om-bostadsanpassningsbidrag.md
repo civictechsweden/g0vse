@@ -19,8 +19,8 @@ I lagrådsremissen föreslår regeringen en möjlighet för ägare av ett flerbo
 Kostnadsgränsen för återställningsbidrag tas bort.
 
 Det införs två nya frivilliga bidragsformer:
-• bidrag i form av åtagande från kommunen att låta utföra åtgärderna och
-• bidrag i form av överlämnande av begagnad anordning.
+• bidrag i form av åtagande från kommunen att låta utföra åtgärderna och
+• bidrag i form av överlämnande av begagnad anordning.
 
 Bostadsanpassningsbidrag ska inte kunna lämnas för åtgärder i vissa särskilda boenden eller om behovet kan tillgodoses med hjälpmedel som erbjuds av landstinget eller kommunen.
 

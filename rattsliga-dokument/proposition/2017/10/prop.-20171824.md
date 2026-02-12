@@ -6,6 +6,7 @@ för att praktisk arbetslivsorientering (prao) anordnas under sammanlagt
 minst tio dagar för alla elever i grundskolan från och med årskurs
 8 och i specialskolan från och med årskurs 9 för de elever som läser
 enligt specialskolans kursplaner.
+
 Det föreslås också ändringar i skollagen som innebär att omfattningen i tid av det arbetsplatsförlagda lärandet för en elev som går gymnasial lärlingsutbildning tydligare ska framgå av det utbildningskontrakt som ska
 tecknas för eleven. Det föreslås även att bestämmelser om utbildningskontrakt,
 som motsvarar de som gäller för lärlingsutbildning i gymnasieskolan,

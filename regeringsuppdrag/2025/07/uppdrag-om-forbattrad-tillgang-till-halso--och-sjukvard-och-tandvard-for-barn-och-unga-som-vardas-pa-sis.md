@@ -1,4 +1,4 @@
-# Uppdrag om förbättrad tillgång till hälso- och sjukvård och tandvård för barn och unga som vårdas på SiSDiarienummer: S2025/00887
+# Uppdrag om förbättrad tillgång till hälso- och sjukvård och tandvård för barn och unga som vårdas på SiS
 
 Statens institutionsstyrelse (SiS) och Socialstyrelsen får i uppdrag att genomföra insatser för att förbättra tillgången till hälso- och sjukvård och tandvård för de barn och unga som vårdas på de särskilda ungdomshemmen.
 

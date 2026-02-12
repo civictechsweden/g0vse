@@ -10,7 +10,7 @@ Kunskapsunderlaget om hur intaget av energitäta näringsfattiga livsmedel kan m
 
 I arbetet ska Livsmedelsverket vid behov samråda med Socialstyrelsen, Folkhälsomyndigheten och Sveriges Kommuner och Regioner, universitet och högskolor samt andra organisationer som myndigheten finner lämpliga, såsom Research Institutes of Sweden AB (RISE) och dess projekt ReduSalt där representanter från livsmedelsbranschen, berörda myndigheter, intresse- och konsumentorganisationer ingår.
 
-För uppdragets genomförande får myndigheten under 2020 använda högst 500 000 kronor. Under perioden 2021–2023 beräknar regeringen att avsätta  2 miljoner kronor per år.
+För uppdragets genomförande får myndigheten under 2020 använda högst 500 000 kronor. Under perioden 2021–2023 beräknar regeringen att avsätta 2 miljoner kronor per år.
 
 Kostnaden ska belasta utgiftsområde 9 Hälsovård, sjukvård och social om-sorg, anslaget 1:6 Bidrag till folkhälsa och sjukvård, anslagsposten 18 God vård och folkhälsa. Medlen utbetalas engångsvis efter rekvisition ställd till Kammarkollegiet. Rekvisitionen ska ske årligen senast den 1 december. En årlig ekonomisk redovisning av uppdraget ska ske senast den 31 mars. Medel som inte utnyttjats ska återbetalas till Kammarkollegiet, bankgiro 5052-5781, senast den 31 mars året efter rekvisition. Redovisning, rekvisition och even-tuell återbetalning ska ske med angivande av diarienummer för detta beslut.
 

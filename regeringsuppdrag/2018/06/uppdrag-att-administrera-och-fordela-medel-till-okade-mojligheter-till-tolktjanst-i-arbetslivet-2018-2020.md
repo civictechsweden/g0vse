@@ -2,7 +2,7 @@
 
 Regeringen uppdrar till Socialstyrelsen att under 2018 till 2020 administrera och fördela pengar för ökade möjligheter till tolktjänst i arbetslivet. I uppdraget ingår att löpande följa upp hur pengarna används.
 
-I uppdraget ingår att för perioden 1 juli–31 december 2018 fördela 15 000 000 kronor till ökade möjligheter till tolktjänst i arbetslivet.
+I uppdraget ingår att för perioden 1 juli–31 december 2018 fördela 15 000 000 kronor till ökade möjligheter till tolktjänst i arbetslivet.
 
 Socialstyrelsen ska vid genomförandet av uppdraget löpande informera
 Regeringskansliet.

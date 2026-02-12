@@ -7,7 +7,7 @@ Regeringen beslutade den 17 december 2019 kommittédirektiv om att se över rele
 Utredaren får nu även i uppdrag att
 
 * utreda möjligheten att väga klimatnytta mot negativ påverkan på människors hälsa och miljön, genom en särskild avvägningsregel i
-  miljöbalken eller på annat sätt, och
+miljöbalken eller på annat sätt, och
 * lämna nödvändiga författningsförslag.
 
 Utredningstiden ligger fast. Uppdraget ska alltså redovisas senast den 15 maj 2022.

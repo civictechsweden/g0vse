@@ -1,4 +1,4 @@
-# PM Allmänt tandvårdsbidrag för unga personer
+# Allmänt tandvårdsbidrag för unga personer
 
 Socialdepartementet föreslår förordningsändringar utifrån regeringens aviserade förändringar om allmänt tandvårdsbidrag.
 

@@ -22,6 +22,6 @@ Men, samhället är också större än staten. Det är inte vi som gör filmerna
 
 Det är det NI som gör. Och här är filmfestivalerna viktiga för filmens utveckling. Det är ju tack vare festivaler som denna vi får chansen att diskutera, recensera och inspireras av film. Det är bara så vi kan utvecklas.
 
-Ikväll, och under hela festivalen, kommer vi att få uppleva det fantastiska med film. Författare, regissörer och skådespelare som delar sina berättelser och sina upplevelser med oss i publiken. Som får oss att känna glädje och ilska, som får oss att skratta och gråta.  Ta vara på det, ta in det och njut av det.
+Ikväll, och under hela festivalen, kommer vi att få uppleva det fantastiska med film. Författare, regissörer och skådespelare som delar sina berättelser och sina upplevelser med oss i publiken. Som får oss att känna glädje och ilska, som får oss att skratta och gråta. Ta vara på det, ta in det och njut av det.
 
 Med de orden vill jag härmed förklara Stockholms filmfestival officiellt öppen!

@@ -12,6 +12,8 @@ I steg 3 föreslår Regeringskansliet att nuvarande deltagartak höjs till det t
 
 I steg 4 föreslår Regeringskansliet att eventuella deltagarbegränsningar, som ändå kan behövas för allmänna sammankomster och offentliga tillställningar, inte ska gälla om vaccinationsbevis används.
 
+
+
 Barn under 16 år och personer som på grund av medicinska skäl inte bör vaccinera sig omfattas inte av förslaget.
 
 ## Beredskap för vaccinationsbevis som smittskyddsåtgärd

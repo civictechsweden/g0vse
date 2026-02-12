@@ -8,7 +8,7 @@ Först och främst vill jag tacka för möjligheten att tala här vid Utrikespol
 
 Analyserna från till exempel UI:s Centrum för Östeuropastudier och Nationellt kunskapscentrum om Kina är mycket betydelsefulla för att öka förståelsen för de snabba förändringar som nu sker i vår omvärld. Precis hur snabbt läget på marken kan förändras har vi sett de senaste veckorna i Syrien, där Assadregimen i Damaskus har fallit efter nästan 14 år av inbördeskrig och ofattbar brutalitet mot den egna befolkningen. Det behövs därför såväl snabba som skarpa analyser av hur sådana förändringar formar förutsättningarna för svensk utrikespolitik.
 
-\*\*\*
+***
 
 Svensk utrikespolitik har många ansikten.
 
@@ -63,7 +63,7 @@ I vårt grannland Finland talar man därför om en utrikes- och säkerhetspoliti
 
 Vilka är då de intressen som vår utrikespolitik grundar sig på?
 
-\*\*\*
+***
 
 Till kärnan av Sveriges utrikespolitik hör att stå upp för internationell rätt.
 
@@ -97,7 +97,7 @@ På sikt behövs en förhandlad tvåstatslösning baserad på folkrätten. En po
 
 Utifrån dessa utgångspunkter behöver vi inte värdera eller recensera enskilda beslut från internationella domstolar. Däremot behöver vi värna internationella domstolars integritet och självständighet när så många andra aktörer inte gör det.
 
-\*\*\*
+***
 
 I det här osäkra omvärldsläget försöker auktoritära och illiberala krafter flytta fram sina positioner.
 
@@ -121,7 +121,7 @@ Nästa år kommer vi i Sverige dessutom att ta på oss rollen som ordförande f�
 
 Jämställdhet är ett kärnvärde i svensk utrikespolitik. Det genomsyrar alltid vår politik, men det kommer att märkas på fler sätt nästa år.
 
-\*\*\*
+***
 
 Samtidigt som vi slår vakt om våra kärnvärden måste vi ta hänsyn till förändrade globala maktförhållanden, som att den geopolitiska tyngdpunkten har förskjutits österut.
 
@@ -133,7 +133,7 @@ Vi bejakar dialog och samarbete med Kina där det är möjligt och i linje med v
 
 Vi förväntar oss att Kina och resten av den indopacifiska regionen kommer att inta en central plats i amerikansk och europeisk utrikespolitik de kommande åren, vilket också är något vi väger in.
 
-\*\*\*
+***
 
 En entydig slutsats av det är att vi i Europa behöver ta ett större ansvar för vårt eget försvar och vår egen säkerhet.
 
@@ -183,7 +183,7 @@ Den insikten förenar oss och har förstärkt vårt samarbete, så att det i dag
 
 Målsättningen under Sveriges ordförandeskap i N5 och NB8 har varit att stärka det nordiska och nordisk-baltiska samarbetet även bland andra aktörer än de politiska och byråkratiska. Politiska institut och tankesmedjor är en viktig plattform för samarbete. Att UI nyligen stod värd för ett möte med era nordisk-baltiska systerorganisationer är betydelsefullt i det sammanhanget.
 
-\*\*\*
+***
 
 Det nordisk-baltiska samarbetet kommer också att växa sig allt starkare mellan våra försvarsmakter, inte minst när Sverige nu tagit steget in i Nato. Som Natomedlem för Sverige en solidarisk allianspolitik, som syftar till att stärka säkerheten och stabiliteten i vårt närområde, och i det euroatlantiska området som helhet.
 
@@ -225,7 +225,7 @@ Ett viktigt exempel är begränsningar av Rysslands så kallade skuggflotta: olj
 
 Vid sidan av att utgöra allvarliga risker för Östersjöns miljö är den också ett viktigt verktyg för Ryssland att göda sin krigsekonomi. Här är Sverige pådrivande i EU för skärpta åtgärder mot fartyg i skuggflottan.
 
-\*\*\*
+***
 
 I en värld av konflikt, konfrontation och konkurrens blir också handel, forskning och innovationer föremål för stormaktspolitik.
 
@@ -259,7 +259,7 @@ Under den tid som förhandlingarna har pågått har EU tappat mark i regionen. S
 
 Det har varit ett ekonomiskt och geopolitiskt misstag. EU måste visa frihandelsvänner utanför EU att de behöver prioritera oss som partner.
 
-\*\*\*
+***
 
 Den tid och den tillvaro då vi kunde delegera de stora och svåra utrikes- och säkerhetspolitiska uppgifterna till andra är förbi.
 

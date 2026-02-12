@@ -1,4 +1,4 @@
-# Uppdrag till Inspektionen för vård och omsorg att stärka tillsynen inom äldreomsorgen för ökad trygghet för äldreDiarienummer: S2026/00115
+# Uppdrag till Inspektionen för vård och omsorg att stärka tillsynen inom äldreomsorgen för ökad trygghet för äldre
 
 Regeringen uppdrar åt Inspektionen för vård och omsorg, IVO, att stärka tillsynen inom äldreomsorgen för ökad trygghet för äldre.
 

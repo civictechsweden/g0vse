@@ -4,7 +4,7 @@ Regeringen uppdrar åt Sveriges geologiska undersökning (SGU) att i dialog med 
 
 I uppdraget ingår att möjliggöra för fastighetsägare och kommuner att
 digitalt rapportera uppgifter om brunnar som saknas i Brunnsarkivet och att komplettera databasen med uppgifter som beskriver brunnens
-användningsområde, kapacitet och uttagsmängd. Vidare ingår  att komplettera Vattentäktsarkivet med uppgifter som medför att dessa kan
+användningsområde, kapacitet och uttagsmängd. Vidare ingår att komplettera Vattentäktsarkivet med uppgifter som medför att dessa kan
 användas i vattenplaneringen, samt att utveckla Grundvattennätets databas genom att främja frivillig insamling av uppgifter om grundvattnets kvalitet i dialog med brunnsägare och kommuner. På så sätt kan en bättre bild över grundvattnets användning som dricksvatten, för bevattning, djurhållning eller annan användning erhållas.
 
 Vid behov ska förslag lämnas på ändringar i lagen (1975:424) om uppgiftsskyldighet vid grundvattentäktundersökning och brunnsborrning respektive förordningen (1975:425) om uppgiftsskyldighet vid grundvattentäktundersökning och brunnsborrning.

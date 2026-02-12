@@ -1,6 +1,7 @@
 # Stärkt ställning och bättre levnadsvillkor för transpersoner
 
 En särskild utredare ska utifrån befintlig kunskap göra en bred kartläggning av transpersoners villkor och situation i samhället och föreslå konkreta insatser som bidrar till förbättrade levnadsvillkor och ett tryggare livsutrymme för transpersoner. Utredaren ska även belysa hur personer som genomgår könskorrigering uppfattar utredning, vård och behandling. Syftet med utredningen är att stärka efterlevnaden av transpersoners rättigheter och förbättra levnadsvillkoren för transpersoner.
+
 Uppdraget ska redovisas senast den 31 oktober 2017.
 
 Utredaren ska bl.a.

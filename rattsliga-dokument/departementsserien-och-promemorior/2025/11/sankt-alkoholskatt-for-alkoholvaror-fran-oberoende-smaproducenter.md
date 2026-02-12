@@ -1,4 +1,4 @@
-# Sänkt alkoholskatt för alkoholvaror från oberoende småproducenterFi2025/02074
+# Sänkt alkoholskatt för alkoholvaror från oberoende småproducenter
 
 I denna promemoria finns förslag om nedsatt alkoholskatt för andra alkoholvaror från oberoende småproducenter.
 

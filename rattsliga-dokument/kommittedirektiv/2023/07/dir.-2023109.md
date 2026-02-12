@@ -6,13 +6,13 @@ Uppdraget ändras så att utredaren, till skillnad från vad som anges i de ursp
 
 Utredaren ska bland annat
 
-* utreda och föreslå förbud mot vinstutdelning eller annan vinstutdelningsbegränsning under de första åren efter en nyetablering, vid ägarbyten och vid kvalitetsbrister
+* utreda och föreslå förbud mot vinstutdelning eller annan vinstutdelningsbegränsning under de första åren efter en nyetablering, vid ägarbyten och vid kvalitetsbrister
 * utreda och föreslå hur det kan säkerställas att enskilda huvudmän inom
-  skolväsendet har en stabil ekonomi
+skolväsendet har en stabil ekonomi
 * utreda och föreslå en möjlighet till återkrav av så kallad skolpeng samt
-  skärpta sanktioner vid tillsyn enligt skollagen
+skärpta sanktioner vid tillsyn enligt skollagen
 * utreda regleringen om bedömning av negativa konsekvenser vid prövning
-  av en ansökan om godkännande som huvudman
+av en ansökan om godkännande som huvudman
 * lämna nödvändiga författningsförslag.
 
 Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 28 februari 2025.

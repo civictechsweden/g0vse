@@ -1,4 +1,4 @@
-# Uppdrag till Trafikverket att vidareutveckla trafikledning och infrastrukturobjekt i ÖresundsregionenDiarienummer: LI2025/01305
+# Uppdrag till Trafikverket att vidareutveckla trafikledning och infrastrukturobjekt i Öresundsregionen
 
 Regeringen ger Trafikverket i uppdrag att redovisa hur myndigheten avser att arbeta med att utveckla och säkerställa effektiva trafikflöden i Öresundsregionen, samt om det finns förutsättningar för ett tidigare färdigställande av kapacitetshöjande åtgärder i järnvägssystemet i Skåne inom den nationella planen.
 

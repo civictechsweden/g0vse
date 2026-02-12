@@ -1,4 +1,4 @@
-# Remiss SOU 2025:10, En förändrad abortlagDiarienummer: S2025/00219
+# Remiss SOU 2025:10, En förändrad abortlag
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat SOU 2025:10, En förändrad abortlag.
 

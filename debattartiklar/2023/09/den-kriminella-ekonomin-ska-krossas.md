@@ -23,7 +23,7 @@ I budgeten tar vi nu ytterligare steg för att krossa gängens ekonomi och för 
 
 Kriminaliteten finns där pengarna finns. Genom att knäcka gängens ekonomi försvårar vi för den organiserade brottsligheten och slår samtidigt vakt om skatte­betalarnas pengar. Inte en skattekrona som kan gå till fler sjuksköterskor, lärare eller poliser ska hamna i fickan på kriminella. Den kriminella ekonomin ska krossas.
 
-Elisabeth Svantesson (M), finansminister
-Johan Pehrson (L), arbetsmarknads- och integrations­minister
-Oscar Sjöstedt (SD), ekonomisk-politisk talesperson
+Elisabeth Svantesson (M), finansminister
+Johan Pehrson (L), arbetsmarknads- och integrations­minister
+Oscar Sjöstedt (SD), ekonomisk-politisk talesperson
 Erik Slottner (KD), civilminister

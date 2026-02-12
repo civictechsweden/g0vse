@@ -1,4 +1,4 @@
-# Remiss av promemorian Förenklad in- och uthyrning av skepp; nu fråga om förordningsändringar och sekretessDiarienummer: LI2025/01326
+# Remiss av promemorian Förenklad in- och uthyrning av skepp; nu fråga om förordningsändringar och sekretess
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Förenklad in- och uthyrning av skepp; nu fråga om förordningsändringar och sekretess.
 

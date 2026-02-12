@@ -1,6 +1,6 @@
 # Handlingsplan för Sveriges nationella skogsprogram 2018
 
-![](/contentassets/96a3c0c104094493a3e2b21c4877d701/handlingsplan-for-sveriges-nationella-skogsprogram-2018_tumnagel.jpg?width=150&quality=85)
+![](/contentassets/96a3c0c104094493a3e2b21c4877d701/handlingsplan-for-sveriges-nationella-skogsprogram-2018_tumnagel.jpg?width=150&amp;quality=85)
 
 Strategin för Sveriges nationella skogsprogram beslutades av regeringen den 17 maj 2018 (dnr N2018/03142/SK). Arbetet inom det nationella skogsprogrammets strategi vägleds av programmets vision: Skogen, det gröna guldet, ska bidra med jobb och hållbar tillväxt i hela landet samt till utvecklingen av en växande bioekonomi.
 

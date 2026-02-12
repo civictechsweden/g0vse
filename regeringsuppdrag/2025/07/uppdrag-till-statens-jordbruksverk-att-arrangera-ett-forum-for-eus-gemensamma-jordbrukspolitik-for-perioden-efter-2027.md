@@ -1,4 +1,4 @@
-# Uppdrag till Statens jordbruksverk att arrangera ett forum för EU:s gemensamma jordbrukspolitik för perioden efter 2027Diarienummer: LI2025/01367
+# Uppdrag till Statens jordbruksverk att arrangera ett forum för EU:s gemensamma jordbrukspolitik för perioden efter 2027
 
 Regeringen ger Statens jordbruksverk (Jordbruksverket) i uppdrag att arrangera ett forum för att ur ett stödmottagarperspektiv föra regelbunden dialog, analys och förankring, gällande förslag till utveckling av det svenska genomförandet av den gemensamma jordbrukspolitiken.
 

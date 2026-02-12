@@ -3,3 +3,7 @@
 Ministrarna kommer bland annat diskutera hur nya innovativa lösningar och ny teknik kan bidra till att göra jordbruket mer hållbart och motståndskraftigt.
 
 Media som är intresserade kan kontakta pressekreteraren för mer information.
+
+Ministrarna kommer bland annat diskutera hur nya innovativa lösningar och ny teknik kan bidra till att göra jordbruket mer hållbart och motståndskraftigt.
+
+Media som är intresserade kan kontakta pressekreteraren för mer information.

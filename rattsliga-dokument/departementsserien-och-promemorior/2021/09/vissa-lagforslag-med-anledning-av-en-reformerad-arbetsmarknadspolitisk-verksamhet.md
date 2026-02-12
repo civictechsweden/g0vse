@@ -1,6 +1,6 @@
 # Vissa lagförslag med anledning av en reformerad arbetsmarknadspolitisk verksamhet
 
-![](/contentassets/9a41c4fed47c4a8bb478ad7f11e6ff76/ds-27-2021-fram.jpg?width=150&quality=85)
+![](/contentassets/9a41c4fed47c4a8bb478ad7f11e6ff76/ds-27-2021-fram.jpg?width=150&amp;quality=85)
 
 Målet för arbetsmarknadspolitiken är att insatserna ska bidra till en väl fungerande arbetsmarknad. En del i att uppnå det är att den arbetsmarknadspolitiska verksamheten, med Arbetsförmedlingen som ansvarig myndighet, på ett mer effektivt sätt än i dag behöver kunna ge stöd till arbetssökande att komma i arbete och möjliggöra för fler arbetsgivare att hitta rätt kompetens. Arbetsförmedlingen och den arbetsmarknadspolitiska verksamheten ska därför reformeras.
 

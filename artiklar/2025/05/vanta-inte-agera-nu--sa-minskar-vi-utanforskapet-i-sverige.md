@@ -36,4 +36,4 @@ Förskolans roll mot utanförskap stod i fokus vid Gulan Avci, regeringens natio
 
 ## Stort engagemang på konferensen
 
-– Vi har ett gemensamt mål om att minska utanförskapet i Sverige, och öka människors  trygghet och livschanser. För att detta ska ske så måste vi alla hjälpas åt. Jag vill tacka alla kommuner som deltog i konferensen för deras engagemang och för att de så generöst delat med sig av exempel. Det är viktigt för att vi ska lyckas i det arbetet framöver, säger arbetsmarknads- och integrationsminister Mats Persson.
+– Vi har ett gemensamt mål om att minska utanförskapet i Sverige, och öka människors trygghet och livschanser. För att detta ska ske så måste vi alla hjälpas åt. Jag vill tacka alla kommuner som deltog i konferensen för deras engagemang och för att de så generöst delat med sig av exempel. Det är viktigt för att vi ska lyckas i det arbetet framöver, säger arbetsmarknads- och integrationsminister Mats Persson.

@@ -1,4 +1,4 @@
-# Remiss av promemorian Stickprovsinsamling av uppgifter om hushållens skulderDiarienummer: Fi2025/01929
+# Remiss av promemorian Stickprovsinsamling av uppgifter om hushållens skulder
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen Stickprovsinsamling av uppgifter om hushållens skulder. Övriga yttranden finns tillgängliga i departementet.
 

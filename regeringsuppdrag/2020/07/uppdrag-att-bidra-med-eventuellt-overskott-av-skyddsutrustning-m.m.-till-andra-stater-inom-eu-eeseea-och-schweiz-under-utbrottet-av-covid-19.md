@@ -11,6 +11,6 @@ Regeringen överlåter åt Socialstyrelsen att till den 31 december 2021 förhan
 Under motsvarande förutsättningar överlåter regeringen åt Socialstyrelsen att ingå överenskommelse med Norge om försäljning av eventuellt nationellt överskott av ansiktsmasker.
 
 Uppdragen ska:
-• genomföras i nära dialog Socialdepartementet och redovisas löpande.
-• genomföras så länge det krävs med hänsyn till spridningen av covid-19.
-• redovisas som en del av den rapport som myndigheten senast den 31 december 2020 ska lämna med anledning av uppdraget om att på nationell nivå säkra tillgången på skyddsutrustning och fördela skyddsutrustning och annat material till följd av spridningen av covid-19.
+• genomföras i nära dialog Socialdepartementet och redovisas löpande.
+• genomföras så länge det krävs med hänsyn till spridningen av covid-19.
+• redovisas som en del av den rapport som myndigheten senast den 31 december 2020 ska lämna med anledning av uppdraget om att på nationell nivå säkra tillgången på skyddsutrustning och fördela skyddsutrustning och annat material till följd av spridningen av covid-19.

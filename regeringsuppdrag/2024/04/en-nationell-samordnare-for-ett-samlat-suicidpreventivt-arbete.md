@@ -2,7 +2,7 @@
 
 Regeringen beslutar inrätta en nationell samordnare som ska bistå regeringen och berörda myndigheter med att samordna det suicidpreventiva området.
 
-En arbetsgrupp, som ska vara en del av Regeringskansliet, ska bedriva uppdraget. I arbetsgruppen ska två sekreterare ingå.
+En arbetsgrupp, som ska vara en del av Regeringskansliet, ska bedriva uppdraget. I arbetsgruppen ska två sekreterare ingå.
 
 I uppdraget ingår även att biträda Regeringskansliet med uppgifter av utredande karaktär inom området psykisk hälsa och suicidprevention.
 

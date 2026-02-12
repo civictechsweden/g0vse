@@ -10,4 +10,4 @@ På mötet i telekområdet antog ministrarna rådslutsatser om EU:s framtida dig
 
 Vid Internationella teleunionens världsradiokonferens i höst ska ändringar göras i unionens radioreglemente. På telekomministrarnas möte den 7 juni tog ministrarna beslut om EU:s ståndpunkt inför konferensen.
 
-Åsa Webber, ambassadör, representerade Sverige på mötet i Luxemburg.
+Åsa Webber, ambassadör, representerade Sverige på mötet i Luxemburg.

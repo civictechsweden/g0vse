@@ -9,7 +9,7 @@ Utredaren ska bland annat:
 * föreslå hur en samlad uppföljning av barns och ungas fysiska och psykiska hälsa kan utformas som stödjer utvecklingen dels av det hälso¬främjande arbetet för barn och unga både på individuell och nationell nivå, dels av vårdens utformning och innehåll,
 * i dialog med företrädare för regioner, kommuner och enskilda skol¬huvudmän främja utvecklingen av en sammanhållen god och nära vård för barn och unga på regional och lokal nivå,
 * ta fram underlag som regeringen kan använda i utformningen av en
-  överenskommelse som syftar till att uppnå målet om en köfri barn-och ungdomspsykiatri, med Sveriges Kommuner och Landsting (SKL), och
+överenskommelse som syftar till att uppnå målet om en köfri barn-och ungdomspsykiatri, med Sveriges Kommuner och Landsting (SKL), och
 * lämna nödvändiga författningsförslag och säkerställa att de förslag som lämnas särskilt beaktar lagstiftning som behandlar integritetsaspekter.
 
 ## Redovisning och delredovisning

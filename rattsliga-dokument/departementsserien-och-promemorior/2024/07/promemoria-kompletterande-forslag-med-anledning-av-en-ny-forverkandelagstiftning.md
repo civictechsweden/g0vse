@@ -1,4 +1,4 @@
-# Promemoria Kompletterande förslag med anledning av en ny förverkandelagstiftning
+# Kompletterande förslag med anledning av en ny förverkandelagstiftning
 
 Promemorian innehåller förslag på bestämmelser som kompletterar regeringens förslag i propositionen En ny förverkandelagstiftning (prop. 2023/24:144).
 

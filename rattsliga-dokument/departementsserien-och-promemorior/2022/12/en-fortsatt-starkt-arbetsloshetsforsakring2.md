@@ -1,6 +1,6 @@
 # En fortsatt stärkt arbetslöshetsförsäkring
 
-![](/contentassets/59c94a68afee4c088e47bce787cf23d8/framsida-ds-2022-28.jpg?width=150&quality=85)
+![](/contentassets/59c94a68afee4c088e47bce787cf23d8/framsida-ds-2022-28.jpg?width=150&amp;quality=85)
 
 I denna promemoria föreslås ändringar i lagen (1997:238) om arbetslöshetsförsäkring.
 

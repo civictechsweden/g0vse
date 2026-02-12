@@ -10,6 +10,8 @@ Sharon A.M. Dijksma, Minister for the Environment (the Netherlands),
 Åsa Romson, Minister for Climate and the Environment and Deputy Prime Minister (Sweden),
 Amber Rudd, Secretary of State for Energy and Climate Change (UK).
 
+
+
 * Denmark has cancelled a surplus of 3.4 million Kyoto Protocol units (AAU, ERU and CER) from the first commitment period.
 * Germany: 228 million assigned amount units (AAU) will be cancelled at the beginning of 2016 due to the decision not to transfer the surplus of the first commitment period to the second commitment period of the Kyoto Protocol. Germany also decided not to transfer the surplus of Clean Development Mechanism and Joint Implementation certificates of the first commitment period to the second commitment period. Germany reaffirms its intention to cancel successively the surpluses of units in the course of the second commitment to the extent it has overachieved its target under European legislation in the non-emission-trading sector.
 * The Netherlands has decided to cancel any surplus of AAU in the sectors not covered by the EU ETS during its second commitment period under the Kyoto Protocol. The surplus at present is estimated to amount to up to 100 million AAU cumulatively, which represents 11% of its annual emission allocations for these sectors over the period 2013-2020.

@@ -16,13 +16,13 @@ tillställningar föreslår regeringen ändringar i ordningslagen och polislagen
 Ändringarna innebär bl.a. följande:
 
 * Polismyndigheten ges tydligare befogenheter att ändra tid eller plats
-  för en allmän sammankomst.
+för en allmän sammankomst.
 * Polismyndigheten får en möjlighet att i vissa fall förbjuda att en allmän
-  sammankomst hålls på en viss tid eller plats i stället för att förbjuda
-  den helt.
+sammankomst hålls på en viss tid eller plats i stället för att förbjuda
+den helt.
 * En allmän sammankomst och offentlig tillställning ska kunna ställas in
-  med hänsyn till säkerheten för människors liv eller hälsa.
+med hänsyn till säkerheten för människors liv eller hälsa.
 * Polismyndigheten får utökade befogenheter att ingripa mot enskilda
-  som stör ordningen och inte rättar sig efter beslut.
+som stör ordningen och inte rättar sig efter beslut.
 
 Lagändringarna föreslås träda i kraft den 1 juli 2026.

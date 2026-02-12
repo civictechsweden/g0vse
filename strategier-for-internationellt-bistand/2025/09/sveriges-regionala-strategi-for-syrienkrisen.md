@@ -1,4 +1,4 @@
-# Sveriges regionala strategi för SyrienkrisenDiarienummer: UD2025/13467
+# Sveriges regionala strategi för Syrienkrisen
 
 Den regionala strategin för Syrienkrisen beslutades initialt för perioden 2016–2020 och har sedan förlängts två gånger för 2021–2023 och 2024–2026. Strategin förlängs nu en tredje gång för att gälla till och med 2027, med en totalvolym för perioden 2016–2027 om 4,385 miljarder kronor.
 

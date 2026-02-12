@@ -14,7 +14,7 @@ Rapporten konstaterar också:
 
 Regeringen har fortsatt höga ambitioner på klimatområdet, och ser att målen om att minska utsläppen både på kort och på lång sikt kommer att nås. I fokus står att driva på hela samhällets omställning till den fossilfria ekonomin. År 2045 ska vi ha nettonollutsläpp av växthusgaser och negativa utsläpp därefter.
 
-– Vi ska nå våra åtaganden i EU och leva upp till vår del av Parisavtalet. För att göra det krävs fossilfria industriella tillverkningsmetoder, koldioxidinfångning och en omfattande elektrifiering av fordonsflottan, menar klimat- och miljöminister Romina Pourmokhtari, som nyligen besökte flera företag i Göteborg och Stenungsund för att diskutera deras förutsättningar att ställa om.
+– Vi ska nå våra åtaganden i EU och leva upp till vår del av Parisavtalet. För att göra det krävs fossilfria industriella tillverkningsmetoder, koldioxidinfångning och en omfattande elektrifiering av fordonsflottan, menar klimat- och miljöminister Romina Pourmokhtari, som nyligen besökte flera företag i Göteborg och Stenungsund för att diskutera deras förutsättningar att ställa om.
 
 Hon fortsätter:
 

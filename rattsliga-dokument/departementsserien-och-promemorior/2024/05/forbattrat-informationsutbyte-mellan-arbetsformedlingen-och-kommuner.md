@@ -1,6 +1,6 @@
 # Förbättrat informationsutbyte mellan Arbetsförmedlingen och kommuner
 
-![](/contentassets/6e5e8dc494d640878f465c5e813481ae/ds20248-2.jpg?width=150&quality=85)
+![](/contentassets/6e5e8dc494d640878f465c5e813481ae/ds20248-2.jpg?width=150&amp;quality=85)
 
 Denna promemoria innehåller förslag som syftar till att få till stånd ett förbättrat informationsutbyte mellan Arbetsförmedlingen och kommunerna i fråga om arbetssökande i behov av utbildning inom komvux.
 

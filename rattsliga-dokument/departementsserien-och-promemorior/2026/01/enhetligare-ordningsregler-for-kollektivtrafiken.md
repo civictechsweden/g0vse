@@ -1,4 +1,4 @@
-# Enhetligare ordningsregler för kollektivtrafikenLI2025/00197
+# Enhetligare ordningsregler för kollektivtrafiken
 
 Regeringskansliet beslutade den 14 januari 2025 att uppdra åt en utredare att biträda Landsbygds- och infrastrukturdepartementet med att genomföra en bokstavsutredning om en lag om järnvägs- och kollektivtrafikskydd (LI2025/00066) med slutredovisning senast den 16 juni 2025. I uppdraget ingår även att överväga mer enhetliga ordningsregler för de olika trafikslagen och hur rapportering av iakttagelser och tips kan ske inom kollektivtrafiken.
 

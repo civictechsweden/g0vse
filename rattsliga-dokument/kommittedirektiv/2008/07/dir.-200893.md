@@ -1,9 +1,13 @@
 # S 2008:09 Översyn av den psykiatriska tvångsvårdslagstiftningen
 
 En särskild utredare ska göra en översyn av lagen (1991:1128) om psykiatrisk tvångsvård och lagen (1991:1129) om rättspsykiatrisk vård samt lämna förslag till ny lagstiftning på området.
+
 En utgångspunkt för utredarens arbete ska vara att göra lagstiftningen så pedagogisk och lättillgänglig som möjligt och dessutom anpassad till de etiska, medicinska och juridiska krav som bör ställas i samband med tvångsomhändertagande av personer med psykisk sjukdom.
+
 Utredaren ska även utgå ifrån att en större reform med utgångspunkt i Psykansvarskommitténs förslag (SOU 2002:3) när det gäller psykiskt störda lagöverträdare kommer att genomföras.
+
 En ytterligare utgångspunkt för utredarens arbete ska vara att staten ska ta över ansvaret för de kostnader inom den psykiatriska tvångsvården av psykiskt störda lagöverträdare som orsakas av kraven på samhällsskydd.
+
 Utredaren ska särskilt behandla följande frågor.
 - Hur kan lagstiftningens innehåll och struktur förenklas och förtydligas med bibehållna krav på rättssäkerhet?
 - Vilka förutsättningar ska gälla för intagning till psykiatrisk tvångsvård?

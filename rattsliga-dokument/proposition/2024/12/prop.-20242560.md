@@ -3,13 +3,13 @@
 I propositionen presenterar regeringen forskningspolitiken för åren 2025–2028. Den omfattar såväl forskning som innovation. Politiken utgår från målet att Sverige ska vara ett av världens främsta forsknings- och innovationsländer och en ledande kunskapsnation. Regeringen har i
 budgetpropositionen för 2025 (prop. 2024/25:1) lämnat förslag och redovisat bedömningar om ökade medel till forskning och innovation.
 
-Anslagen för forskning och utveckling föreslås och beräknas öka successivt från 2025 till 2028 med totalt 6,5 miljarder kronor. I denna proposition beskrivs satsningarna närmare.
+Anslagen för forskning och utveckling föreslås och beräknas öka successivt från 2025 till 2028 med totalt 6,5 miljarder kronor. I denna proposition beskrivs satsningarna närmare.
 
-Utgångspunkten för satsningarna är excellens, internationalisering och innovation. Sverige ska vara ett internationellt attraktivt land för investeringar i forskning och utveckling. Regeringen anser att Sverige ska vara bland de främsta länderna vad gäller utgifter för forskning och utveckling (FoU) som andel av BNP. För att lyckas med detta behövs inte bara en kraftfull satsning när det gäller medel utan också en ambitionshöjning i form av en tydligare inriktning mot excellens.
+Utgångspunkten för satsningarna är excellens, internationalisering och innovation. Sverige ska vara ett internationellt attraktivt land för investeringar i forskning och utveckling. Regeringen anser att Sverige ska vara bland de främsta länderna vad gäller utgifter för forskning och utveckling (FoU) som andel av BNP. För att lyckas med detta behövs inte bara en kraftfull satsning när det gäller medel utan också en ambitionshöjning i form av en tydligare inriktning mot excellens.
 
-Regeringen redovisar i denna proposition omfattande satsningar på fri forskning av högsta kvalitet. I dessa ingår konkurrensutsatta medel till universitet och högskolor, satsningar på strategisk rekrytering inriktade på meriteringsanställningen biträdande lektor, en förstärkt satsning på excellenscenter och en större satsning på banbrytande forskning på högsta internationella nivå.
+Regeringen redovisar i denna proposition omfattande satsningar på fri forskning av högsta kvalitet. I dessa ingår konkurrensutsatta medel till universitet och högskolor, satsningar på strategisk rekrytering inriktade på meriteringsanställningen biträdande lektor, en förstärkt satsning på excellenscenter och en större satsning på banbrytande forskning på högsta internationella nivå.
 
-Internationella samarbeten, utbyten och sampubliceringar är ofta utgångspunkten för excellent forskning. Regeringen presenterar insatser för att främja ett starkare svenskt deltagande i EU:s ramprogram för forskning och innovation samt framtagande av en handlingsplan inför nästa ramprogram.
+Internationella samarbeten, utbyten och sampubliceringar är ofta utgångspunkten för excellent forskning. Regeringen presenterar insatser för att främja ett starkare svenskt deltagande i EU:s ramprogram för forskning och innovation samt framtagande av en handlingsplan inför nästa ramprogram.
 
 Avancerad forskningsinfrastruktur är många gånger en förutsättning för forskning av högsta kvalitet. Långsiktiga satsningar på forsknings infrastrukturer som SciLifeLab, MAX IV och ESS ger unika möjligheter till forskning. Likaså kan olika typer av digital forskningsinfrastruktur och annan forskningsinfrastruktur bidra till att flytta fram forskningsfronten. Regeringen aviserar därför förstärkningar till forskningsinfrastruktur.
 

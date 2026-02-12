@@ -6,5 +6,5 @@ Regeringen föreslår att viss praxis för hur riksdagen fattar beslut om staten
 
 Propositionen tar sin utgångspunkt i betänkandet En utvecklad budgetprocess – ökad tydlighet och struktur (SOU 2013:73) från den parlamentariskt sammansatta Budgetprocesskommittén. Kommittén hade till uppdrag att utifrån erfarenheterna av nuvarande lagar och praxis stärka och förtydliga budgetramverket. Utredningen överlämnades till regeringen den 3 oktober 2013 och har därefter remissbehandlats. I propositionen ingår de förslag och bedömningar där det rådde parlamentarisk samsyn i Budgetprocesskommittén.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+______________________________________________________________________
 Riksdagen fattade den 17 juni 2014 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

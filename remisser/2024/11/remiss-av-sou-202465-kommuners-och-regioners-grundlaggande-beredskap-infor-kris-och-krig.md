@@ -1,4 +1,4 @@
-# Remiss av SOU 2024:65 Kommuners och regioners grundläggande beredskap inför kris och krigDiarienummer: Fö2024/01668
+# Remiss av SOU 2024:65 Kommuners och regioners grundläggande beredskap inför kris och krig
 
 Här kan du ta del av de remissvar som kommit in till Försvarsdepartementet på remiss av SOU 2024:65 Kommuners och regioners grundläggande beredskap inför kris och krig.
 

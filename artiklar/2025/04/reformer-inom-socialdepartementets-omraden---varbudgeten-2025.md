@@ -8,11 +8,15 @@ I vårändringsbudgeten för 2025 föreslår regeringen en förstärkt satsning 
 
 [Pressmeddelande: En halv miljard kronor i förstärkt satsning på den specialiserade psykiatriska vården under 2025](/pressmeddelanden/2025/04/en-halv-miljard-kronor-i-forstarkt-satsning-pa-den-specialiserade-psykiatriska-varden-under-2025/)
 
+
+
 ## Nya satsningar på psykiatrin
 
 Regeringen och Sverigedemokraterna har gjort historiska satsningar på psykisk hälsa och psykiatri. Men behoven är stora och det behövs ytterligare satsningar. Därför satsar vi i vårändringsbudgeten totalt 550 miljoner kronor på psykiatrin, skriver företrädare från regeringen och Sverigesdemokraterna.
 
 [Debattartikel: Nya satsningar på psykiatrin](/debattartiklar/2025/04/nya-satsningar-pa-psykiatrin/)
+
+
 
 ## Satsningar för att motverka ungdomars brott
 

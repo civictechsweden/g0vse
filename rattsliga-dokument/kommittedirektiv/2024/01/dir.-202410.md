@@ -8,7 +8,7 @@ Utredaren ska bland annat
 * Lämna förslag på hur de nationella målen för filmpolitiken ska formuleras.
 * Analysera och vid behov föreslå nya former för parts- och branschsamverkan.
 * Lämna förslag på hur de statliga filmpolitiska stödformerna inklusive
-  produktionsincitament bör utformas med beaktande av EU:s regler om statligt stöd.
+produktionsincitament bör utformas med beaktande av EU:s regler om statligt stöd.
 * Analysera förutsättningarna för att främja ett levande filmarv som bevaras, används och utvecklas bland annat genom en fortsatt digitisering.
 * Lämna nödvändiga författningsförslag.
 

@@ -1,6 +1,6 @@
 # Kommenterad dagordning, rådet för finansiella och ekonomiska frågor, den 6 december 2016
 
-På Ekofinrådets möte den 6 december 2016 finns följande punkter på dagordningen:
+På Ekofinrådets möte den 6 december 2016 finns följande punkter på dagordningen:
 
 * Investeringsplan för Europa
 * (ev.) Avlägsnande av de hinder för investeringar som identifierats inom tredje pelaren i investeringsplanen

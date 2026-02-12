@@ -8,7 +8,7 @@ Mr President,
 
 At the outset, let me thank the Secretary-General and the Executive Director of UN Women for their briefings this morning. I would also like to, in particular, thank Ms Lusenge, Ms Mohammed, and Ms Murabit for their participation here today. The bravery and commitment of women’s organisations in preventing conflict, building peace and promoting human rights, often in dangerous conditions, is admirable and deserves no less than our full support.
 
-We are here today not only to celebrate the 15th Anniversary of the ground-breaking UN Security Council Resolution 1325 on Women, Peace and Security, but also to support and promote women as actors for peace. It is high time we accelerate our common efforts and move from normative commitments to full implementation.
+We are here today not only to celebrate the 15 Anniversary of the ground-breaking UN Security Council Resolution 1325 on Women, Peace and Security, but also to support and promote women as actors for peace. It is high time we accelerate our common efforts and move from normative commitments to full implementation.
 
 Mr President,
 

@@ -6,4 +6,4 @@ I uppdraget ingår att identifiera kunskapsluckor samt eventuella behov av insat
 
 Vetenskapsrådet ska inhämta synpunkter från berörda myndigheter och organisationer och beakta pågående arbete hos dessa aktörer.
 
-Vetenskapsrådet ska löpande informera Regeringskansliet (Utbildningsdepartementet) om hur arbetet med uppdraget fortskrider och  senast den 1 december 2024 lämna en slutredovisning av uppdraget.
+Vetenskapsrådet ska löpande informera Regeringskansliet (Utbildningsdepartementet) om hur arbetet med uppdraget fortskrider och senast den 1 december 2024 lämna en slutredovisning av uppdraget.

@@ -20,4 +20,5 @@ Nu ligger fokus på att så snabbt som möjligt ta fram ett förslag som håller
 
 Nu är det dags för gårdsförsäljning även i Sverige.
 
-Av Jakob Forssmed (KD), socialminister, Johan Hultberg (M), gruppledare i socialutskottet, Jakob Olofsgård (L), folkhälsopolitisk talesperson
+
+Av Jakob Forssmed (KD), socialminister, Johan Hultberg (M), gruppledare i socialutskottet, Jakob Olofsgård (L), folkhälsopolitisk talesperson

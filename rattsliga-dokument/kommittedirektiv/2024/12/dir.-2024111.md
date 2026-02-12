@@ -5,12 +5,12 @@ I Försvarsberedningens rapport Kraftsamling – Inriktningen av totalförsvaret
 Utredaren ska bl.a.
 
 * utreda och redovisa förutsättningarna för och konsekvenserna av en
-  överföring av arbetsuppgifterna,
+överföring av arbetsuppgifterna,
 * analysera och bedöma hur överföring av uppgifter och ansvar för dessa
-  påverkar samhällets motståndskraft på informations- och
-  cybersäkerhetsområdet,
+påverkar samhällets motståndskraft på informations- och
+cybersäkerhetsområdet,
 * analysera och föreslå vilka av MSB:s uppgifter inom informations- och
-  cybersäkerhet som bör föras över till FRA, och
+cybersäkerhet som bör föras över till FRA, och
 * lämna nödvändiga författningsförslag.
 
 Uppdraget ska redovisas senast den 1 juli 2025.

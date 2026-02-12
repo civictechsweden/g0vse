@@ -29,4 +29,5 @@ Författningsändringarna träder i kraft den 1 januari 2017.
 
 Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 22 november 2016.
 
-**Kontaktperson:**Christoffer Sheats 08-405 25 27
+**Kontaktperson:**
+Christoffer Sheats 08-405 25 27

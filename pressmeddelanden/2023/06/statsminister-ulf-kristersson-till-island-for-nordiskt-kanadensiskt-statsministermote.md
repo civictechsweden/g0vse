@@ -3,3 +3,7 @@
 På agendan för mötet står säkerhetspolitik, krisberedskapsfrågor och den gröna omställningen.
 
 För mer information om mötet kontakta pressekreterare Hanna Strömberg.
+
+På agendan för mötet står säkerhetspolitik, krisberedskapsfrågor och den gröna omställningen.
+
+För mer information om mötet kontakta pressekreterare Hanna Strömberg.

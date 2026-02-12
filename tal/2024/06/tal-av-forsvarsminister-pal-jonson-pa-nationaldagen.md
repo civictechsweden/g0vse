@@ -21,7 +21,7 @@ Our two nations have enjoyed diplomatic relations for 77 years.
 
 Our partnership has always been characterised by close people-to-people relations, flows of trade and investments, and engagement for peace, stability and security. We share both interests and values in a number of areas.
 
-\*\*\*
+***
 
 The Euro-Atlantic and the Indo-Pacific regions are more inter-linked than ever before.
 
@@ -37,7 +37,7 @@ From infrastructural development and green transition to defence, security, aero
 
 The IKEA store here in Manila is the largest in the world. This is a case in point, as much as it can be, about our close relations.
 
-\*\*\*
+***
 
 Excellencies,
 
@@ -75,7 +75,7 @@ Sweden stands firmly behind the call of the European Union and others for restra
 
 The UN Charter, UNCLOS, and the Arbitration Award of 2016, as well as other relevant international rules and regulations relating to the safety of life at sea, should be respected at all times.
 
-\*\*\*
+***
 
 Excellencies,
 

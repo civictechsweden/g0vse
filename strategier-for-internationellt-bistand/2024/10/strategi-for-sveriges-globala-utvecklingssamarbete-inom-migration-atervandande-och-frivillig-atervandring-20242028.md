@@ -3,7 +3,7 @@
 Strategin för Sveriges globala utvecklingssamarbete inom migration, återvändande och frivillig återvandring är en viktig del i genomförandet av regeringens nya reformagenda för biståndet. Strategin omfattar totalt 3 miljarder kronor och ska gälla under perioden 2024-2028.
 
 Denna strategi ska bidra till att motverka irreguljär migration och verka för
-ett fungerande återvändande som kan bidra till hållbar tillväxt och utveckling i mottagarlandet, samt ett effektivt arbete för frivillig återvandring. Biståndet ska även bidra till effektiva åtgärder för att stärka migranters och flyktingars åtnjutande av rättigheter i partnerländer, stötta värdsamhällen samt stärka asyl- och migrationshantering i partnerländer.
+ett fungerande återvändande som kan bidra till hållbar tillväxt och utveckling i mottagarlandet, samt ett effektivt arbete för frivillig återvandring. Biståndet ska även bidra till effektiva åtgärder för att stärka migranters och flyktingars åtnjutande av rättigheter i partnerländer, stötta värdsamhällen samt stärka asyl- och migrationshantering i partnerländer.
 
 Svenskt utvecklingsbistånd kan villkoras, i syfte att mottagarlandet ska följa folkrättsliga principer och samarbeta med Sverige i frågor om återtagande av sina medborgare, inklusive undanröjande av verkställighetshinder såsom att inte utfärda resehandlingar.
 

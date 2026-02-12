@@ -3,3 +3,7 @@
 Teman för mötet är bland annat hur skärmanvändning och digitala medier påverkar barn och ungas psykiska hälsa, samt förebyggande och främjande folkhälsoåtgärder.
 
 För mer information och intervjuförfrågningar, vänligen kontakta pressekreterare Simon Hoff.
+
+Teman för mötet är bland annat hur skärmanvändning och digitala medier påverkar barn och ungas psykiska hälsa, samt förebyggande och främjande folkhälsoåtgärder.
+
+För mer information och intervjuförfrågningar, vänligen kontakta pressekreterare Simon Hoff.

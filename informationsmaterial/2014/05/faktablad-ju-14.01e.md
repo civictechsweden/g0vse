@@ -1,6 +1,6 @@
 # International judicial co-operation – the role of the Central Authority
 
-![](/contentassets/d5f28c93990844a98305714d08c00b10/int-judicial.jpg?width=150&quality=85)
+![](/contentassets/d5f28c93990844a98305714d08c00b10/int-judicial.jpg?width=150&amp;quality=85)
 
 En översättning till engelska av faktabladet Internationellt rättsligt samarbete – Centralmyndighetens roll.
 Faktabladet ger en övergripande bild av Centralmyndighetens roll i det internationella rättsliga samarbetet.

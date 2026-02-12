@@ -49,7 +49,12 @@
         "summary": "Regeringen beslutade den 28 augusti 2025 om förlängning av strategin för Sveriges stöd till demokrati, mänskliga rättigheter och miljö i Ryssland. Strategin ska bland annat bidra till stärkta förutsättningar för en demokratisk utveckling i Ryssland, stärkt yttrandefrihet och ökad respekt för mänskliga rättigheter och rättsstatens principer.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "strategi-for-sveriges-stod-till-demokrati-manskliga-rattigheter-och-miljo-i-ryssland-2025-2027 (pdf 206 kB)",
+                "url": "/contentassets/89ff32f3a5f8469d8be87ee1a946f361/strategi-for-sveriges-stod-till-demokrati-manskliga-rattigheter-och-miljo-i-ryssland-2025-2027.pdf"
+            }
+        ],
         "categories": [
             "1219",
             "1215",
@@ -80,7 +85,12 @@
                 "url": "/pressmeddelanden/2025/06/ny-strategi-for-humanitart-bistand/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Ny Strategi för Humanitärt Bistånd 2025-2029 (pdf 144 kB)",
+                "url": "/contentassets/352eb6bd7c654c08af2a63ee91409e65/ny-strategi-for-humanitart-bistand-2025-2029.pdf"
+            }
+        ],
         "categories": [
             "1215"
         ]
@@ -104,7 +114,12 @@
                 "url": "/pressmeddelanden/2025/06/regeringen-beslutar-om-en-ny-jamstalldhetsstrategi-for-bistandet/"
             }
         ],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "Strategi för jämställdhet kvinnors och flickors frihet och egenmakt 2025-2028 (pdf 162 kB)",
+                "url": "/contentassets/d5a38d9cb5534b769f171edad97265d6/strategi-for-jamstalldhet-kvinnors-och-flickors-frihet-och-egenmakt-2025-2028.pdf"
+            }
+        ],
         "categories": [
             "1215",
             "1239",
@@ -125,7 +140,12 @@
         "summary": "Den 19 december 2024 fattade Regeringen beslut om ett särskilt ”Uppdrag om genomförande och uppföljning av landstrategier och andra strategier inom biståndet”. Detta uppdrag gavs till Styrelsen för internationellt utvecklingssamarbete (Sida), Folke Bernadotteakademin (FBA) och Svenska Institutet (SI) för att öka transparensen, främja kvaliteten och stärka effektiviteten i det svenska strategistyrda biståndet.",
         "id": null,
         "shortcuts": [],
-        "attachments": [],
+        "attachments": [
+            {
+                "name": "UD2024-17865 - Uppdrag om genomförande och uppföljning av landstrategier och andra strategier inom biståndet (pdf 4 MB)",
+                "url": "/contentassets/e9f20f643f4c459596b1f8f69bf13c38/ud2024-17865---uppdrag-om-genomforande-och-uppfoljning-av-landstrategier-och-andra-strategier-inom-bistandet.pdf"
+            }
+        ],
         "categories": [
             "1215",
             "1279",
@@ -148,7 +168,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen antar ny biståndsstrategi för Ukraina\n",
+                "name": "Pressmeddelande: Regeringen antar ny biståndsstrategi för Ukraina",
                 "url": "/pressmeddelanden/2023/07/regeringen-antar-ny-bistandsstrategi-for-ukraina/"
             }
         ],
@@ -184,7 +204,7 @@
         "id": "Diarienummer: UD2024/17873",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen investerar 4,3 miljarder kronor i förbättrad global hälsa och stärkta sexuella och reproduktiva rättigheter\n",
+                "name": "Pressmeddelande: Regeringen investerar 4,3 miljarder kronor i förbättrad global hälsa och stärkta sexuella och reproduktiva rättigheter",
                 "url": "/pressmeddelanden/2025/01/regeringen-investerar-43-miljarder-kronor-i-forbattrad-global-halsa-och-starkta-sexuella-och-reproduktiva-rattigheter/"
             }
         ],
@@ -248,6 +268,7 @@
         ],
         "categories": [
             "1215",
+            "2800",
             "1013"
         ]
     },
@@ -266,11 +287,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Webb-tv: Pressträff om ny strategi för Sveriges globala utvecklingssamarbete inom migration, återvändande och frivillig återvandring\n",
+                "name": "Webb-tv: Pressträff om ny strategi för Sveriges globala utvecklingssamarbete inom migration, återvändande och frivillig återvandring",
                 "url": "/pressmeddelanden/2024/10/ny-strategi-for-sveriges-globala-utvecklingssamarbete-inom-migration-atervandande-och-frivillig-atervandring/"
             },
             {
-                "name": "Reformagendan: Bistånd för en ny era – Frihet, egenmakt och hållbar tillväxt\n",
+                "name": "Reformagendan: Bistånd för en ny era – Frihet, egenmakt och hållbar tillväxt",
                 "url": "/rapporter/2023/12/bistand-for-en-ny-era---frihet-egenmakt-och-hallbar-tillvaxt/"
             }
         ],
@@ -287,29 +308,31 @@
         ]
     },
     {
-        "title": "Strategi för Sveriges globala utvecklingssamarbete inom miljö, klimat och biologisk mångfald, 2022–2026",
-        "url": "/strategier-for-internationellt-bistand/2023/05/strategi-for-sveriges-globala-utvecklingssamarbete-inom-miljo-klimat-och-biologisk-mangfald-20222026/",
-        "published": "2023-05-17",
+        "title": "Strategi för Sveriges utvecklingssamarbete med Kenya 2021– 2025",
+        "url": "/strategier-for-internationellt-bistand/2021/01/strategi-for-sveriges-utvecklingssamarbete-med-kenya-2021-2025/",
+        "published": "2021-01-11",
         "updated": "2024-10-24",
         "types": [
             "1336"
         ],
         "senders": [
+            "1296",
             "1295"
         ],
-        "summary": "(Ny version) Strategin ska gälla under perioden 2022–2026 och omfattar för Sida sammantaget 8 miljarder kronor.\n\nMålet för svenskt internationellt bistånd är att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Utvecklingssamarbetet ska ta sin utgångspunkt i principerna om bistånds- och utvecklingseffektivitet liksom i Agenda 2030, Addis Abeba Action Agenda och Parisavtalet.",
-        "id": null,
+        "summary": "(Ny version) Strategin ska gälla under perioden 2021–2025 och omfattar sammantaget 1,75 miljarder kronor.",
+        "id": "Diarienummer: UD2020/19046",
         "shortcuts": [],
         "attachments": [
             {
-                "name": "Strategi för Sveriges globala utvecklingssamarbete inom miljö klimat och biologisk mångfald 2022-2026 (pdf 147 kB)",
-                "url": "/contentassets/dfbd424f89684d749801396d71f636eb/strategi-for-sveriges-globala-utvecklingssamarbete-inom-miljo-klimat-och-biologisk-mangfald-2022-2026_uppdaterad.pdf"
+                "name": "Strategi för Sveriges utvecklingssamarbete med Kenya 2021–2025 (pdf 143 kB)",
+                "url": "/contentassets/19c9fb9296404db89a05df2748c6fc33/strategi-for-sveriges-utvecklingssamarbete-med-kenya-20212025_uppdaterad.pdf"
             }
         ],
         "categories": [
             "1215",
-            "1252",
-            "1013"
+            "1279",
+            "1013",
+            "1095"
         ]
     },
     {
@@ -364,31 +387,29 @@
         ]
     },
     {
-        "title": "Strategi för Sveriges utvecklingssamarbete med Kenya 2021– 2025",
-        "url": "/strategier-for-internationellt-bistand/2021/01/strategi-for-sveriges-utvecklingssamarbete-med-kenya-2021-2025/",
-        "published": "2021-01-11",
+        "title": "Strategi för Sveriges globala utvecklingssamarbete inom miljö, klimat och biologisk mångfald, 2022–2026",
+        "url": "/strategier-for-internationellt-bistand/2023/05/strategi-for-sveriges-globala-utvecklingssamarbete-inom-miljo-klimat-och-biologisk-mangfald-20222026/",
+        "published": "2023-05-17",
         "updated": "2024-10-24",
         "types": [
             "1336"
         ],
         "senders": [
-            "1296",
             "1295"
         ],
-        "summary": "(Ny version) Strategin ska gälla under perioden 2021–2025 och omfattar sammantaget 1,75 miljarder kronor.",
-        "id": "Diarienummer: UD2020/19046",
+        "summary": "(Ny version) Strategin ska gälla under perioden 2022–2026 och omfattar för Sida sammantaget 8 miljarder kronor.\n\nMålet för svenskt internationellt bistånd är att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Utvecklingssamarbetet ska ta sin utgångspunkt i principerna om bistånds- och utvecklingseffektivitet liksom i Agenda 2030, Addis Abeba Action Agenda och Parisavtalet.",
+        "id": null,
         "shortcuts": [],
         "attachments": [
             {
-                "name": "Strategi för Sveriges utvecklingssamarbete med Kenya 2021–2025 (pdf 143 kB)",
-                "url": "/contentassets/19c9fb9296404db89a05df2748c6fc33/strategi-for-sveriges-utvecklingssamarbete-med-kenya-20212025_uppdaterad.pdf"
+                "name": "Strategi för Sveriges globala utvecklingssamarbete inom miljö klimat och biologisk mångfald 2022-2026 (pdf 147 kB)",
+                "url": "/contentassets/dfbd424f89684d749801396d71f636eb/strategi-for-sveriges-globala-utvecklingssamarbete-inom-miljo-klimat-och-biologisk-mangfald-2022-2026_uppdaterad.pdf"
             }
         ],
         "categories": [
             "1215",
-            "1279",
-            "1013",
-            "1095"
+            "1252",
+            "1013"
         ]
     },
     {
@@ -404,7 +425,7 @@
             "1295"
         ],
         "summary": "(Ny version) Strategin ska gälla under perioden 2022-2026 och omfattar sammantaget en volym på 2750 miljoner kronor, där maximalt 600 miljoner kronor avser bilaterala insatser i Kambodja.",
-        "id": "Diarienummer: UD2021/18464 ",
+        "id": "Diarienummer: UD2021/18464",
         "shortcuts": [],
         "attachments": [
             {
@@ -455,7 +476,12 @@
         ],
         "summary": "Strategin för fred, säkerhet och stabilisering är en del av styrningen av Sveriges samlade bistånds-, utrikes- och säkerhetspolitik. Strategin ska bidra till konflikthantering och konfliktförebyggande i syfte att stärka förutsättningarna för utveckling och minska humanitära behov.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Strategy for peace, security and stabilisation 2024–2028 (governmnet.se)",
+                "url": "https://www.government.se/international-development-cooperation-strategies/2024/10/strategy-for-peace-security-and-stabilisation-20242028/"
+            }
+        ],
         "attachments": [
             {
                 "name": "Strategi för fred, säkerhet och stabilisering 2024-2028 (pdf 60 kB)",
@@ -483,8 +509,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen antar ny biståndsstrategi för Mellanöstern och Nordafrika – fokus på ekonomisk utveckling och att motverka irreguljär migration\n",
+                "name": "Pressmeddelande: Regeringen antar ny biståndsstrategi för Mellanöstern och Nordafrika – fokus på ekonomisk utveckling och att motverka irreguljär migration",
                 "url": "/pressmeddelanden/2024/03/regeringen-antar-ny-bistandsstrategi-for-mellanostern-och-nordafrika--fokus-pa-ekonomisk-utveckling-och-att-motverka-irreguljar-migration/"
+            },
+            {
+                "name": "Strategy for Sweden’s regional development cooperation with the Middle East and North Africa 2024–2027 (government.se)",
+                "url": "https://www.government.se/international-development-cooperation-strategies/2024/04/strategy-for-swedens-regional-development-cooperation-with-the-middle-east-and-north-africa-20242027/"
             }
         ],
         "attachments": [
@@ -520,11 +550,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ny strategi för Sveriges utvecklingssamarbete med det civila samhället 2025–2029\n",
+                "name": "Grafisk illustration av genomförandemodellens tre delar (pdf)",
+                "url": "/globalassets/regeringen/dokument/utrikesdepartementet/genomforandemodell-cso-strategi.pdf"
+            },
+            {
+                "name": "Pressmeddelande: Ny strategi för Sveriges utvecklingssamarbete med det civila samhället 2025–2029",
                 "url": "/pressmeddelanden/2024/09/ny-strategi-for-sveriges-utvecklingssamarbete-med-civilsamhallet/"
             },
             {
-                "name": "Frågor och svar om regeringens nya strategi för utvecklingssamarbete med det civila samhället för 2025–2029\n",
+                "name": "Frågor och svar om regeringens nya strategi för utvecklingssamarbete med det civila samhället för 2025–2029",
                 "url": "/regeringens-politik/internationellt-utvecklingssamarbete/fragor-och-svar-om-strategin-for-sveriges-utvecklingssamarbete-med-det-civila-samhallet-20252029/"
             }
         ],
@@ -555,7 +589,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen fasar ut det bilaterala utvecklingsbiståndet med Irak\n",
+                "name": "Pressmeddelande: Regeringen fasar ut det bilaterala utvecklingsbiståndet med Irak",
                 "url": "/pressmeddelanden/2024/07/regeringen-fasar-ut-det-bilaterala-utvecklingsbistandet-med-irak/"
             }
         ],
@@ -613,12 +647,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen antar ny regional strategi för Syrienkrisen\n",
+                "name": "Pressmeddelande: Regeringen antar ny regional strategi för Syrienkrisen",
                 "url": "/pressmeddelanden/2024/06/regeringen-antar-ny-regional-strategi-for-syrienkrisen/"
             },
             {
-                "name": "Sveriges regionala strategi för Syrienkrisen 2024–2026 (regeringen.se)\n",
-                "url": "/strategier-for-internationellt-bistand/2024/06/sveriges-regionala-strategi-for-syrienkrisen-20242026/"
+                "name": "Sweden’s regional strategy for the Syria crisis 2024–2026 (government.se)",
+                "url": "https://www.government.se/international-development-cooperation-strategies/2024/06/swedens-regional-strategy-for-the-syria-crisis-20242026/"
             }
         ],
         "attachments": [
@@ -656,7 +690,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ny biståndsstrategi för innovation, partnerskap och kapacitetsutveckling\n",
+                "name": "Pressmeddelande: Ny biståndsstrategi för innovation, partnerskap och kapacitetsutveckling",
                 "url": "/pressmeddelanden/2024/06/ny-bistandsstrategi-for-innovation-partnerskap-och-kapacitetsutveckling/"
             }
         ],
@@ -767,7 +801,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ny biståndsstrategi för Sveriges utvecklingssamarbete med Zambia\n",
+                "name": "Pressmeddelande: Ny biståndsstrategi för Sveriges utvecklingssamarbete med Zambia",
                 "url": "/pressmeddelanden/2024/03/ny-bistandsstrategi-for-sveriges-utvecklingssamarbete-med-zambia/"
             }
         ],
@@ -798,7 +832,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ny biståndsstrategi ökar fokus på demokratiförsvarare och oberoende journalister\n",
+                "name": "Pressmeddelande: Ny biståndsstrategi ökar fokus på demokratiförsvarare och oberoende journalister",
                 "url": "/pressmeddelanden/2024/02/ny-bistandsstrategi-okar-fokus-pa-demokratiforsvarare-och-oberoende-journalister2/"
             }
         ],
@@ -829,7 +863,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ny strategi för utvecklingssamarbetet med det civila samhället\n",
+                "name": "Pressmeddelande: Ny strategi för utvecklingssamarbetet med det civila samhället",
                 "url": "/pressmeddelanden/2024/02/ny-strategi-for-utvecklingssamarbetet-med-det-civila-samhallet/"
             }
         ],
@@ -859,7 +893,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Nu gör vi demokratistödet till partianknutna organisationer mer demokratiskt\n",
+                "name": "Pressmeddelande: Nu gör vi demokratistödet till partianknutna organisationer mer demokratiskt",
                 "url": "/pressmeddelanden/2023/12/nu-gor-vi-demokratistodet-till-partianknutna-organisationer-mer-demokratiskt/"
             }
         ],
@@ -1067,7 +1101,7 @@
         "id": "Diarienummer: UD2022/03566",
         "shortcuts": [
             {
-                "name": "Engelsk version: Strategy for sexual and reproductive health and rights (SRHR) in Africa 2022–2026\n",
+                "name": "Engelsk version: Strategy for sexual and reproductive health and rights (SRHR) in Africa 2022–2026",
                 "url": "https://www.government.se/international-development-cooperation-strategies/2022/06/strategy-for-sexual-and-reproductive-health-and-rights-srhr-in-africa-20222026/"
             }
         ],
@@ -1271,7 +1305,7 @@
             "1295"
         ],
         "summary": "Strategin ska gälla under perioden 2021-2025 och omfattar för Styrelsen för internationellt utvecklingssamarbete (Sida) sammantaget 1 110 miljoner kronor och för Folke Bernadotteakademin (FBA) 45 miljoner kronor.",
-        "id": "Diarienummer: UD2021/06832 ",
+        "id": "Diarienummer: UD2021/06832",
         "shortcuts": [],
         "attachments": [
             {
@@ -1485,7 +1519,7 @@
         "id": "Diarienummer: UD2020/19053",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Sveriges regionala strategi för Syrienkrisen ändras och förlängs till 2023\n",
+                "name": "Pressmeddelande: Sveriges regionala strategi för Syrienkrisen ändras och förlängs till 2023",
                 "url": "/pressmeddelanden/2020/12/sveriges-regionala-strategi-for-syrienkrisen-andras-och-forlangs-till-2023/"
             }
         ],
@@ -1830,36 +1864,26 @@
         ]
     },
     {
-        "title": "Strategi för Sveriges stöd till demokrati, mänskliga rättigheter och miljö i Ryssland 2020–2024",
-        "url": "/strategier-for-internationellt-bistand/2020/02/strategi-for-sveriges-stod-till-demokrati-manskliga-rattigheter-och-miljo-i-ryssland-20202024/",
-        "published": "2020-02-17",
+        "title": "Organisationsstrategi för Sveriges samarbete med Världsbanksgruppen 2020-2023",
+        "url": "/strategier-for-internationellt-bistand/2020/01/organisationsstrategi-for-sveriges-samarbete-med-varldsbanksgruppen-2020-2023/",
+        "published": "2020-01-01",
         "updated": null,
         "types": [
             "1336"
         ],
         "senders": [
-            "1296",
             "1295"
         ],
-        "summary": "Regeringen beslutade den 30 januari 2020 om en ny femårig strategi för Sveriges stöd till demokrati, mänskliga rättigheter och miljö i Ryssland. Strategin ska bidra till stärkta förutsättningar för en demokratisk utveckling i Ryssland, stärkt yttrandefrihet och ökad respekt för mänskliga rättigheter och rättsstatens principer. Verksamheten inom ramen för strategin ska även bidra till en förbättrad miljö och ett fördjupat klimatarbete i bland annat Östersjöområdet. En viktig målsättning är bredare relationer mellan Sverige och Ryssland, med särskild betoning på mellanfolkligt samarbete.",
+        "summary": "Denna strategi ska ligga till grund för svenskt samarbete med Världsbanksgruppen (VBG) under åren 2020-2023.",
         "id": null,
         "shortcuts": [],
         "attachments": [
             {
-                "name": "Strategi för Sveriges stöd till demokrati, mänskliga rättigheter och miljö i Ryssland 2020-2024 (pdf 133 kB)",
-                "url": "/contentassets/89ff32f3a5f8469d8be87ee1a946f361/strategi-for-sveriges-stod-till-demokrati-manskliga-rattigheter-och-miljo-i-ryssland-2020-2024.pdf"
+                "name": "Organisationsstrategi för Sveriges samarbete med Världsbanksgruppen 2020-2023 (pdf 286 kB)",
+                "url": "/contentassets/1ebcd64f87624bd6a007bcef937006c2/organisationsstrategi-for-sveriges-samarbete-med-varldsbanksgruppen-2020-2023.pdf"
             }
         ],
-        "categories": [
-            "1219",
-            "1215",
-            "1252",
-            "1279",
-            "2293",
-            "1012",
-            "1013",
-            "1157"
-        ]
+        "categories": []
     },
     {
         "title": "Strategi för Sveriges samarbete med FN:s migrationsorganisation (IOM) 2020–2022",
@@ -1879,28 +1903,6 @@
             {
                 "name": "Strategi för Sveriges samarbete med FNs migrationsorganisation IOM 2020-2022 (pdf 269 kB)",
                 "url": "/contentassets/ef81aec8639745b68686b937d53f79b5/strategi-for-sveriges-samarbete-med-fns-migrationsorganisation-iom-2020-2022.pdf"
-            }
-        ],
-        "categories": []
-    },
-    {
-        "title": "Organisationsstrategi för Sveriges samarbete med Världsbanksgruppen 2020-2023",
-        "url": "/strategier-for-internationellt-bistand/2020/01/organisationsstrategi-for-sveriges-samarbete-med-varldsbanksgruppen-2020-2023/",
-        "published": "2020-01-01",
-        "updated": null,
-        "types": [
-            "1336"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Denna strategi ska ligga till grund för svenskt samarbete med Världsbanksgruppen (VBG) under åren 2020-2023.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Organisationsstrategi för Sveriges samarbete med Världsbanksgruppen 2020-2023 (pdf 286 kB)",
-                "url": "/contentassets/1ebcd64f87624bd6a007bcef937006c2/organisationsstrategi-for-sveriges-samarbete-med-varldsbanksgruppen-2020-2023.pdf"
             }
         ],
         "categories": []
@@ -2034,7 +2036,7 @@
             "1295"
         ],
         "summary": "Denna resultatstrategi styr användningen av medel som anslås under anslagsposten 6 Asien i regleringsbrev avseende Styrelsen för internationellt utvecklingssamarbete (Sida) för respektive budgetår. Strategin ska gälla under perioden 2014-2020 och omfattar sammantaget 1,9 miljarder svenska kronor.",
-        "id": "Diarienummer: UF2014/51155/UD/ASO och UD2018/06988 ",
+        "id": "Diarienummer: UF2014/51155/UD/ASO och UD2018/06988",
         "shortcuts": [],
         "attachments": [
             {
@@ -2088,12 +2090,7 @@
         ],
         "summary": "Målet för svenskt internationellt bistånd är att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Utvecklingssamarbetet ska ta sin utgångspunkt i principerna om bistånds- och utvecklingseffektivitet liksom i de nya internationella överenskommelser som det internationella samfundet enades om under 2015, Agenda 2030, Addis Ababa Action\nAgenda och klimatavtalet från Paris.",
         "id": null,
-        "shortcuts": [
-            {
-                "name": "Strategi för Sveriges utvecklingssamarbete med Sydsudan 2018–2022\n",
-                "url": "/strategier-for-internationellt-bistand/2018/07/strategi-for-sveriges-utvecklingssamarbete-med-sydsudan-20182022/"
-            }
-        ],
+        "shortcuts": [],
         "attachments": [
             {
                 "name": "Strategi för Sveriges utvecklingssamarbete med Sydsudan 2018-2022 (pdf 1 MB)",
@@ -2200,7 +2197,7 @@
         "id": "Diarienummer: UD2018/06250",
         "shortcuts": [
             {
-                "name": "Resultatstrategi för Sveriges internationella bistånd i Afghanistan 2014 – 2019\n",
+                "name": "Resultatstrategi för Sveriges internationella bistånd i Afghanistan 2014 – 2019",
                 "url": "/strategier-for-internationellt-bistand/2014/06/ud-14.030"
             }
         ],
@@ -2360,7 +2357,7 @@
         "id": "Diarienummer: UD2017/21055/FN",
         "shortcuts": [
             {
-                "name": "Strategy for multilateral development policy\n",
+                "name": "Strategy for multilateral development policy",
                 "url": "https://www.government.se/international-development-cooperation-strategies/2018/05/strategy-for-multilateral-development-policy/"
             }
         ],
@@ -2493,7 +2490,12 @@
         ],
         "summary": "Svenskt utvecklingssamarbete med Irak inom ramen för strategin ska bidra till freds- och statsbyggande i landet. Syftet är att bidra till ett fredligt samhälle, respekt för mänskliga rättigheter och jämställdhet. Strategin ska gälla under perioden 2017-2021 och omfatta 1 miljard kronor för Sidas verksamhet och 30 miljoner kronor för FBA:s verksamhet för hela perioden.",
         "id": "Diarienummer: UD2017/12565/MENA",
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Strategi för Sveriges utvecklingssamarbete med Irak 2017 – 2021 (arabisk språkversion)",
+                "url": "/contentassets/5c114104a3e84762bc385356b74d79ff/irakstrategi-arabiska-170829-for-webb.pdf"
+            }
+        ],
         "attachments": [
             {
                 "name": "Strategi för Sveriges utvecklingssamarbete med Irak 2017-2021 (pdf 157 kB)",
@@ -2574,7 +2576,7 @@
         "id": "Diarienummer: UD2016/17218/AME",
         "shortcuts": [
             {
-                "name": "Estrategia para la cooperación al desarrollo de Suecia con Guatemala 2016-2020\n",
+                "name": "Estrategia para la cooperación al desarrollo de Suecia con Guatemala 2016-2020",
                 "url": "/contentassets/3a4ba603356b4888b42783e2898d7a6a/resultatstrategi-guatemala-spa.pdf"
             }
         ],
@@ -2710,7 +2712,7 @@
         "id": "Diarienummer: UD2016/15835/AME",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ny biståndsstrategi inför fredsavtalet i Colombia\n",
+                "name": "Pressmeddelande: Ny biståndsstrategi inför fredsavtalet i Colombia",
                 "url": "/pressmeddelanden/"
             }
         ],
@@ -4195,7 +4197,7 @@
         "shortcuts": [],
         "attachments": [
             {
-                "name": " Strategy for selective cooperation with Namibia 2009-2013 (pdf 355 kB)",
+                "name": "Strategy for selective cooperation with Namibia 2009-2013 (pdf 355 kB)",
                 "url": "/contentassets/515becf2c11c4831b9701ed20ce53f97/-strategy-for-selective-cooperation-with-namibia-2009-2013/"
             }
         ],
@@ -4302,7 +4304,7 @@
         "senders": [
             "1295"
         ],
-        "id": "Diarienummer: UD 10.091 ",
+        "id": "Diarienummer: UD 10.091",
         "shortcuts": [],
         "attachments": [
             {
@@ -5187,7 +5189,7 @@
         "categories": []
     },
     {
-        "title": "Results strategy for global action on socially sustainable development 2014 – 2017 ",
+        "title": "Results strategy for global action on socially sustainable development 2014 – 2017",
         "url": "/strategier-for-internationellt-bistand/2014/05/uf201432091udmu1/",
         "published": "2014-05-15",
         "updated": "2015-04-02",
@@ -5292,7 +5294,7 @@
         "categories": []
     },
     {
-        "title": "Landstrategi: Östtimor 2002 - 2005 ",
+        "title": "Landstrategi: Östtimor 2002 - 2005",
         "url": "/strategier-for-internationellt-bistand/2003/10/ud-02.1427",
         "published": "2003-10-10",
         "updated": "2015-04-02",

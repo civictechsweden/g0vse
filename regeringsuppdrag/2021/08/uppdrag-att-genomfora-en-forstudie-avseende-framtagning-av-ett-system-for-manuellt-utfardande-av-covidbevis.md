@@ -20,4 +20,4 @@ E-hälsomyndigheten ska:
 * om förslagen påverkar den kommunala självstyrelsen, särskilt redovisa de konsekvenser och de särskilda avvägningar som föranlett förslagen (se 14 kap. 3 § RF),
 * uppskatta kostnaderna för stat och regioner för den lösning eller de lösningar som myndigheten föreslår och hur kostnaderna ska finansi-eras. Redovisningen ska särskilja de kostnader som är nödvändiga för att klara EU-förordningens krav och de kostnader som föranleds av att Sverige eventuellt tar på sig ett större åtagande än vad som är obligatoriskt enligt EU-förordningen.
 
-En slutredovisning av uppdraget  lämnas till Regeringskansliet senast den 1 oktober 2021.
+En slutredovisning av uppdraget lämnas till Regeringskansliet senast den 1 oktober 2021.

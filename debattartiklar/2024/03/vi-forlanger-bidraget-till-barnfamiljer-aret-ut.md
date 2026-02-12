@@ -10,7 +10,7 @@ Samarbetspartierna har fört en återhållsam finanspolitik för att dämpa infl
 
 Utöver detta har sänkningen av reduktionsplikten gjort det billigare att tanka, vilket inte minst gynnar boende på landsbygden som är beroende av bilen i sin vardag.
 
-För de med små ekonomiska marginaler kommer det ekonomiska läget dock fortsatt innebära en tuff period. Tilläggsbidraget i bostadsbidraget är ett tillfälligt stöd som lämnas för att kompensera för ökade levnadsomkostnader till följd av den ekonomiska utvecklingen.
+För de med små ekonomiska marginaler kommer det ekonomiska läget dock fortsatt innebära en tuff period. Tilläggsbidraget i bostadsbidraget är ett tillfälligt stöd som lämnas för att kompensera för ökade levnadsomkostnader till följd av den ekonomiska utvecklingen.
 
 De kommande åren förutses en lägre inflation och en ökad tillväxt i ekonomin. Många priser ligger dock kvar på en hög nivå, vilket gör att barnfamiljer med låga inkomster fortsatt har en ansträngd ekonomisk situation.
 

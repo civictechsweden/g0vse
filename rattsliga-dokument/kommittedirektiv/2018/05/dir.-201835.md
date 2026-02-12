@@ -6,7 +6,7 @@ Regeringen beslutar att utredaren inte behöver föreslå besparingar inom assis
 
 Sedan direktivet om LSS och assistansersättningen beslutades har antalet mottagare av statlig assistans minskat. Timutvecklingen har bromsats in. Samtidigt har antalet mottagare av kommunal personlig assistans ökat.
 
-### Domar påverkade Försäkringskassans tillämpning
+### Domar påverkade Försäkringskassans tillämpning
 
 Förändringen förklaras framförallt av Högsta förvaltningsdomstolens domar som påverkat Försäkringskassans tillämpning. Försäkringskassan har utvecklat sin rättstillämpning, utredningsmetodik och kontrollarbete när det gäller handläggning av assistansersättningen. Förändringarna har i stor utsträckning påverkat enskilda assistansmottagare och kommuner. Något som inte har föregåtts av politiska bedömningar och vägval.
 

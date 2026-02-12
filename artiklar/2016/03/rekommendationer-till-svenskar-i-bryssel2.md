@@ -2,7 +2,7 @@
 
 Den 22 mars drabbades Bryssel av explosioner på flygplatsen Zaventem och i tunnelbanestationen Maalbeek. Utrikesdepartementet har öppnat ett särskilt nummer ditt drabbade eller oroliga anhöriga kan ringa: +46 8 4059200. Svenska kyrkan i Bryssel erbjuder stöd.
 
-Svenska kyrkan kan erbjuda samtalsstöd och kan vid brådskande ärenden nås via ett journummer dygnet runt. Kontaktinformation finns på kyrkans hemsida.
+Svenska kyrkan kan erbjuda samtalsstöd och kan vid brådskande ärenden nås via ett journummer dygnet runt. Kontaktinformation finns på kyrkans hemsida.
 
 [Svenska kyrkan i Bryssel](https://www.svenskakyrkan.se/bryssel "Svenska kyrkan i Bryssel")
 

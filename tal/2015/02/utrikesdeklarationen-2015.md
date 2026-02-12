@@ -76,7 +76,7 @@ I FN:s regi kan vi ta en rad viktiga steg och 2015 är ett nyckelår för det gl
 
 Vid årets klimatmöte i Paris är Sveriges mål att nå ett globalt, rättvist och rättsligt bindande klimatavtal som håller jordens genomsnittliga temperaturökning under två grader.
 
-Med en förstärkt klimatambition i Sverige och EU bidrar vi till minskade utsläpp och effekter av klimatförändringar i hela världen. Under 2015 ska Sverige bidra till att fördjupa analysen av klimatförändringarnas effekter på fred och säkerhet.
+Med en förstärkt klimatambition i Sverige och EU bidrar vi till minskade utsläpp och effekter av klimatförändringar i hela världen. Under 2015 ska Sverige bidra till att fördjupa analysen av klimatförändringarnas effekter på fred och säkerhet.
 
 Vid sidan av ett nytt starkt klimatavtal prioriteras framtagandet av nya globala hållbara utvecklingsmål som ska gälla alla länder. Finanseringen av en hållbar utveckling är avgörande och kräver en samstämmig politik för utveckling. Sverige ska vara en brobyggare och ha en stark röst i den internationella utvecklingspolitiken. Regeringen står fast vid att en procent av bruttonationalinkomsten ska gå till bistånd.
 

@@ -13,4 +13,4 @@ att säkerställa försörjningstryggheten för gas.
 Energimarknadsinspektionen ska lämna nödvändiga författningsförslag i de
 delar där genomförandet kräver bestämmelser i lag eller förordning.
 
-Uppdraget ska redovisas till regeringen (Klimat- och näringslivsdepartementet) senast den 27 juni 2025.
+Uppdraget ska redovisas till regeringen (Klimat- och näringslivsdepartementet) senast den 27 juni 2025.

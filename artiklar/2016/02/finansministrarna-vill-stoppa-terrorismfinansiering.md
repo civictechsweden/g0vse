@@ -16,7 +16,7 @@ Regeringen kommer att återkomma till riksdagen när förslagen har blivit ännu
 
 ### Beviljandet av ansvarsfrihet för kommissionen för hanteringen av 2014 års EU-budget
 
-Rådet ska lämna in en rekommendation till Europaparlamentet ifall kommissionen ska beviljas ansvarsfrihet för hur de hanterade budgeten 2014.
+Rådet ska lämna in en rekommendation till Europaparlamentet ifall kommissionen ska beviljas ansvarsfrihet för hur de hanterade budgeten 2014.
 
 För 21:a året i rad kritiserar Europeiska revisionsrätten kommissionens hantering av EU-budgeten. Revisionsrättens granskning av hur kommissionen skötte budgeten visar ingen större skillnad i jämförelse med året innan, då de uppskattade att det fanns brister i nästan var tjugonde transaktion.
 

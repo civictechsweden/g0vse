@@ -32,7 +32,7 @@ Sådana innovationer gör det intressant för företag att i en allt mer globali
 
 Vad skogsråvaran används till – det har genom historien förändrats. Men skogen förblir en strategisk resurs för Sverige.
 
-\*\*\*
+***
 
 Detta här är en av de ting som funnits i mina tankar medan vi arbetat fram direktiven till regeringens nya skogsutredning. Hur vi ifrån politiken bäst kan värna och förvalta skogen som en resurs för Sverige.
 
@@ -63,11 +63,11 @@ Men utredning ska också förbereda och författa utkast till lagtext för ett a
 * analysera och föreslå att en avverkningsanmälan inte längre ska anses som en anmälan för samråd
 * att se över Skogsstyrelsens roll i mark- och miljödomstol när ideella föreningar överklagar
 * analysera mätbarheten och uppföljningsbarheten för de miljökvalitetsmål som är relevanta för skogssektorn, och utifrån analysen föreslå uppdaterade preciseringar och indikatorer
-* samt ge förslag på hur man - när preciseringar och indikatorer formuleras - i högre grad kan väga in andra samhällsekonomiska mål och andra hållbarhetsmål som skogsbruket bidrar till.
+* samt ge förslag på hur man - när preciseringar och indikatorer formuleras - i högre grad kan väga in andra samhällsekonomiska mål och andra hållbarhetsmål som skogsbruket bidrar till.
 
 För ett sådant här uppdrag krävs det en person med bred förankring både i vetenskaplig teori och i vardaglig praktik. Både erfarenhet av myndighetsarbete och näringsliv. Därför är jag mycket glad över att professor emeritus Göran Örlander har tackat ja till att vara särskild utredare.
 
-\*\*\*
+***
 
 Skogen är en källa till nationell stolthet - och något som varit avgörande för vårt lands välstånd och ledande roll inom innovation och forskning.
 

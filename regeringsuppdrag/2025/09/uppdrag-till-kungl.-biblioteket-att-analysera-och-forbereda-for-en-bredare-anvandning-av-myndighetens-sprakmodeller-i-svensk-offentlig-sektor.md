@@ -1,4 +1,4 @@
-# Uppdrag till Kungl. biblioteket att analysera och förbereda för en bredare användning av myndighetens språkmodeller i svensk offentlig sektorDiarienummer: U2025/01837
+# Uppdrag till Kungl. biblioteket att analysera och förbereda för en bredare användning av myndighetens språkmodeller i svensk offentlig sektor
 
 Regeringen uppdrar åt Kungl. biblioteket att analysera och förbereda för en bredare användning av myndighetens språkmodeller i svensk offentlig sektor.
 

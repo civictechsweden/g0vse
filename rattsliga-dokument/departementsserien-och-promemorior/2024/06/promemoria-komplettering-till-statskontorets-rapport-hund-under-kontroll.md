@@ -1,4 +1,4 @@
-# Promemoria Komplettering till Statskontorets rapport Hund under kontroll
+# Komplettering till Statskontorets rapport Hund under kontroll
 
 I rapporten Hund under kontroll – Förslag för att stärka myndigheternas verksamhet enligt tillsynslagen och viss verksamhet enligt djurskydds-lagen (2024:3) föreslår Statskontoret ändringar i lagen (2007:1150) om tillsyn över hundar och katter (tillsynslagen) och i djurskyddslagen (2018:1192).
 

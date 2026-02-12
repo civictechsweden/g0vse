@@ -8,11 +8,12 @@ I uppdraget ingår att inleda nya insatser inom främst det strategiska området
 
 **Utreda system för subventioner**
 
-Livsmedelsverket ska utreda och lämna förslag på ett system för hantering av subventioner avseende vildsvin för trikinanalyser, cesiumanalyser och hantering av riskavfall. Hantering av riskavfall omfattar destruktion av slaktkroppar med tillhörande organ som innehåller trikiner eller har en cesiumhalt som överstiger 1 500 Bq per kilo kött. Förslaget ska inkludera vem som ska administrera subventionerna och kostnader förknippade med detta. Vidare ska förslaget inkludera en statsstödsanalys för samtliga subventioner. Slutligen ska förslaget utformas med hänsyn till att uppnå en låg administrativ börda för alla inblandade aktörer.
+Livsmedelsverket ska utreda och lämna förslag på ett system för hantering av subventioner avseende vildsvin för trikinanalyser, cesiumanalyser och hantering av riskavfall. Hantering av riskavfall omfattar destruktion av slaktkroppar med tillhörande organ som innehåller trikiner eller har en cesiumhalt som överstiger 1 500 Bq per kilo kött. Förslaget ska inkludera vem som ska administrera subventionerna och kostnader förknippade med detta. Vidare ska förslaget inkludera en statsstödsanalys för samtliga subventioner. Slutligen ska förslaget utformas med hänsyn till att uppnå en låg administrativ börda för alla inblandade aktörer.
 
 Uppdraget ska genomföras i samarbete med Statens jordbruksverk (Jordbruksverket). Uppdraget ska redovisas till regeringen (Näringsdepartementet) senast den 1 december 2020.
 
 **Framtagande av förslag till ny lagstiftning**
+
 Livsmedelsverket ska ta fram underlag för en svensk anmälan till Europeiska kommissionen om nationella bestämmelser som möjliggör för jägare att överlämna små mängder vildsvinskött direkt till konsument och små mängder vildsvin med päls till lokala detaljhandelsanläggningar. I uppdraget ingår att lämna förslag på såväl förordningsändringar som nya föreskrifter.
 
 Uppdraget ska redovisas till regeringen (Näringsdepartementet) senast den 15 mars 2021.

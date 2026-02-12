@@ -4,9 +4,9 @@ Regeringen beslutade den 4 maj 2023 kommittédirektiv om en ordnad prövning av 
 
 Den särskilda utredaren får nu även i uppdrag att
 
-* bedöma och ta ställning till om Sverige, på sikt, bör övergå till att tillståndsgivning till havsbaserad vindkraft enbart sker genom ett
-  anvisningssystem,
-* om en sådan övergång föreslås, analysera och ta ställning till om och i så fall vilka författningsändringar som behövs,
+* bedöma och ta ställning till om Sverige, på sikt, bör övergå till att tillståndsgivning till havsbaserad vindkraft enbart sker genom ett
+anvisningssystem,
+* om en sådan övergång föreslås, analysera och ta ställning till om och i så fall vilka författningsändringar som behövs,
 * analysera, ta ställning till och utveckla de förslag som lämnats av Regeringsprövningsutredningen (SOU 2024:11) som avser havsbaserad vindkraft, och
 * lämna nödvändiga författningsförslag.
 

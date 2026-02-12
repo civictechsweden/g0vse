@@ -1,4 +1,4 @@
-# Uppdrag att ta fram en nationell handlingsplan för att förebygga och behandla hjärt- och kärlsjukdomDiarienummer: S2025/01981
+# Uppdrag att ta fram en nationell handlingsplan för att förebygga och behandla hjärt- och kärlsjukdom
 
 Regeringen ger Socialstyrelsen i uppdrag att ta fram en nationell handlingsplan för att förstärka det nationella arbetet för att förebygga och behandla hjärt- och kärlsjukdom. Socialstyrelsen och Läkemedelsverket ska årligen redovisa hur arbetet fortlöper och senast den 15 oktober 2028 lämna en gemensam slutredovisning av uppdraget till Regeringskansliet (Socialdepartementet).
 

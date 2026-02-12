@@ -1,4 +1,4 @@
-# Genomförande av det omarbetade direktivet om byggnaders energiprestandaKN2025/02382
+# Genomförande av det omarbetade direktivet om byggnaders energiprestanda
 
 I lagrådsremissen föreslås ändringar i lagen (2006:985) om energideklaration för byggnader och i plan- och bygglagen (2010:900) för att genomföra det omarbetade direktivet om byggnaders energiprestanda.
 

@@ -19,7 +19,7 @@ Regeringen har efter riksdagens beslut om propositionen Vägar till hållbara va
 
 Det har även gjorts några redaktionella ändringar.
 
-Lagändringarna träder i kraft den 1 januari 2023. Bestämmelsen om krav på att varje kommun ska ha en vattentjänstplan ska tillämpas första gången för tid efter den 31 december 2023.
+Lagändringarna träder i kraft den 1 januari 2023. Bestämmelsen om krav på att varje kommun ska ha en vattentjänstplan ska tillämpas första gången för tid efter den 31 december 2023.
 
 **Referenser:**
 
@@ -56,7 +56,7 @@ Regeringen har beslutat om en ny förordning om producentansvar för förpacknin
 
 Den största förändringen i förhållande till dagens insamling av förpackningar är att kommunerna tar över det operativa ansvaret för insamlingen av förpackningsavfall från hushåll. Insamlingen ska ske fastighetsnära. Ansvarsövergången från producenterna, som i dag sköter insamlingen, till kommunerna, ska ske den 1 januari 2024. Kommunerna ska få ersättning för insamlingsverksamheten från producenterna genom godkända producentansvarsorganisationer. Ersättningen kommer att bestämmas utifrån föreskrifter som Naturvårdsverket kommer att meddela. Fastighetsnära insamling ska vara införd i hela landet senast den 1 januari 2027. Särskilda bestämmelser införs för insamling av förpackningsavfall på allmän plats och från verksamheter.
 
-De nya bestämmelserna träder i kraft den 1 januari 2023. Flera bestämmelser i förordningen ska dock börja tillämpas vid senare tillfälle. Ändringsförordningen beslutas med anledning av att vissa bestämmelser i den hittillsvarande förordningen som genomför EU:s engångsplastdirektiv ska träda i kraft senare.
+De nya bestämmelserna träder i kraft den 1 januari 2023. Flera bestämmelser i förordningen ska dock börja tillämpas vid senare tillfälle. Ändringsförordningen beslutas med anledning av att vissa bestämmelser i den hittillsvarande förordningen som genomför EU:s engångsplastdirektiv ska träda i kraft senare.
 
 Kompletteringar och följdändringar görs i flera andra förordningar. I avfallsförordningen införs tydligare utsorteringskrav för den som har förpackningsavfall. Det förtydligas också att en förpackning ska skiljas från sitt innehåll om det inte är fråga om en förpackning som innehåller farligt avfall eller läkemedelsavfall. Det införs vidare ett utsorteringskrav för farligt avfall. Skyldigheter för den som driver ett serveringsställe och den som anordnar en offentlig tillställning att ge besökare möjlighet att sortera ut införs. Det införs möjligheter för Naturvårdsverket att meddela föreskrifter och dispenser i anledning av vissa av de nya kraven.
 
@@ -108,7 +108,7 @@ I förordningen om miljöfarlig verksamhet och hälsoskydd införs bestämmelser
 
 I miljöprövningsförordningen görs ändringar som innebär att vissa verksamheter som behandlar avfall och som i dag varken är anmälnings- eller tillståndspliktiga (s.k. U-verksamheter) blir anmälningspliktiga. Ändringarna görs för att uppfylla kraven i EU:s direktiv om bedömning av inverkan på miljön av vissa offentliga och privata projekt (MKB-direktivet) och EU:s avfallsdirektiv. Det görs även vissa ändringar för att alla avfallsverksamheter som omfattas av bilaga 1 till MKB-direktivet ska vara tillståndspliktiga. Koderna för Återvinning eller bortskaffande av avfall som uppkommit i egen verksamhet tas bort. Dessa verksamheter ska i stället prövas enligt andra bestämmelser i samma kapitel i förordningen. I deponiförordningen görs en följdändring till en av ändringarna i miljöprövningsförordningen. Ändringen innebär att även viss deponering av icke-farliga rensningsmassor på land i anslutning till det vatten som har rensats undantas från förordningens tillämpningsområde.
 
-I förordningen om avgifter för prövning och tillsyn enligt miljöbalken införs en avgift för den nya kod som tillkommer i 29 kap. miljöprövningsförordningen för att behandla icke-farligt avfall genom kemisk behandling om den tillförda mängden avfall är mer än 100 ton per dygn.
+I förordningen om avgifter för prövning och tillsyn enligt miljöbalken införs en avgift för den nya kod som tillkommer i 29 kap. miljöprövningsförordningen för att behandla icke-farligt avfall genom kemisk behandling om den tillförda mängden avfall är mer än 100 ton per dygn.
 
 I avfallsförordningen införs en bestämmelse som innebär att den som ansvarar för avfall som lagras som en del av att samla in det (mellanlagring) ska se till att avfallet blir behandlat om det inte är motiverat att fortsätta lagra det. Det görs även förtydliganden av bestämmelsen om vilket ansvar den som i yrkesmässig verksamhet hanterar avfall har för att se till att avfallet lämnas till någon som har de tillstånd eller har gjort de anmälningar som krävs för hanteringen.
 

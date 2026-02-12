@@ -4,7 +4,7 @@
 
 Regeringen har beslutat om ändringar i förordningen om statligt stöd till vissa miljöfordon. Ändringarna innebär att det blir möjligt att ge stöd till eldrivna arbetsmaskiner och miljöarbetsmaskiner som inte kan registreras i vägtrafikregistret.
 
-Ändringarna träder i kraft den 11 oktober.
+Ändringarna träder i kraft den 11 oktober.
 
 **Referenser:**
 

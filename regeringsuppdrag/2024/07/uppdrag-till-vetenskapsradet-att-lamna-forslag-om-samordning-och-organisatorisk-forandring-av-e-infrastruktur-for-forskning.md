@@ -4,17 +4,17 @@ Regeringen ger Vetenskapsrådet i uppdrag att lämna förslag om hur svensk e-in
 
 Vetenskapsrådet ska
 
-* kartlägga och redovisa behoven av samordning och organisatorisk förändring av den svenska e-infrastrukturen för forskning,
-* lämna förslag om hur Vetenskapsrådet genom samordning kan stärka och främja nyttan av den svenska e-infrastrukturen för forskning,
-* lämna förslag om hur organisatorisk förändring kan stärka och främja nyttan av den svenska e-infrastrukturen för forskning,
+* kartlägga och redovisa behoven av samordning och organisatorisk förändring av den svenska e-infrastrukturen för forskning,
+* lämna förslag om hur Vetenskapsrådet genom samordning kan stärka och främja nyttan av den svenska e-infrastrukturen för forskning,
+* lämna förslag om hur organisatorisk förändring kan stärka och främja nyttan av den svenska e-infrastrukturen för forskning,
 * lämna förslag om hur Vetenskapsrådet kan bidra till ett ökat
-  nyttjande av forskningsdata som följer de s.k. FAIR-principerna, dvs.
-  att forskningsdata ska vara sökbara, tillgängliga, interoperabla och
-  återanvändningsbara,
+nyttjande av forskningsdata som följer de s.k. FAIR-principerna, dvs.
+att forskningsdata ska vara sökbara, tillgängliga, interoperabla och
+återanvändningsbara,
 * lämna förslag om vilka ytterligare uppgifter inom området e-infrastruktur för forskning som Vetenskapsrådet bör ansvara för, och
 * analysera förslagens ekonomiska, verksamhetsmässiga och personella
-  konsekvenser och identifiera eventuella behov av
-  författningsändringar.
+konsekvenser och identifiera eventuella behov av
+författningsändringar.
 
 Inom ramen för uppdraget ska Vetenskapsrådet beakta andra relevanta initiativ och omvärldsfaktorer såsom implementeringen av den förvaltningsgemensamma digitala infrastrukturen samt det europeiska hälsodataområdet (EHDS).
 

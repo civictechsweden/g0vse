@@ -6,13 +6,13 @@ Stockholm, 7 oktober 2024. Det talade ordet gäller.
 
 För exakt ett år sedan begicks det värsta massmordet på judar sedan Förintelsen. 1 200 människor mördades av Hamas-terrorister. 251 kidnappades. 101 av dem saknas fortfarande av sina familjer och vi vet inte hur många som faktiskt är vid liv.
 
-\*\*\*
+***
 
 Det är svårt att ta in vidden av det som hände idag för ett år sedan. Ett hav av dansande ungdomar blev ett dödens fält. Fredliga kibbutzer längs gränsen mot Gaza blev måltavlor för besinningslöst våld. Kvinnor blev våldtagna, sedan skjutna. Gisslan fördes bort på flak och motorcyklar.
 
 Den 7 oktober 2023 är för alltid inristat i vårt kollektiva minne. Idag hedrar vi dem som dödades. Vi kräver omedelbar och villkorslös frigivning av gisslan. Och vi tänker på alla dem som överlevde men som har sår för livet.
 
-\*\*\*
+***
 
 Terrordådet den 7 oktober är ett trauma för många fler än de närmast drabbade och sörjande. För den 7 oktober var inte bara en attack mot Israel och israeler, utan en attack mot själva idén om en säker tillflyktsort för världens judar.
 
@@ -24,7 +24,7 @@ Det sker inte bara här, men det sker också här. Och det är en skam för vår
 
 Men jag står också upp för att oenighet om konflikter där inte får bli antisemitism här. I ett demokratiskt samhälle diskuterar vi med varandra, även om svåra frågor. Vi hotar inte, vi hatar inte, vi skränar inte och förstör inte varandras möten. Vi visar respekt för vår demokratiska tradition. Och den kommer jag fortsätta försvara.
 
-\*\*\*
+***
 
 Många judar i vårt land vittnar nu om ökad otrygghet. Upplever oro och rädsla och känner sig övergivna av omgivningen, inte minst av civilsamhället.
 
@@ -48,7 +48,7 @@ För ett år sedan sa jag just här i Stora synagogan att ”vi ska bekämpa hat
 
 Vi accepterar inte antisemitismen, inga ursäkter och ingen relativisering. Regeringen står bakom Sveriges judar och där kommer vi stå kvar.
 
-\*\*\*
+***
 
 Nästa år firar Sverige 250 år av etablerat judiskt liv. Och svenska judars bidrag till vårt samhälle är många och stora.
 

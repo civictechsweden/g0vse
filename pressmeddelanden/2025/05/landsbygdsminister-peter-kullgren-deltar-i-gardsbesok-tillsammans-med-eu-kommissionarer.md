@@ -5,3 +5,9 @@ Lantbrukarnas Riksförbund (LRF) har bjudit in till gårdsbesöket för att ge e
 Därefter kommer landsbygdsministern och kommissionärerna att delta i LRF:s riksförbundsstämma.
 
 För ytterligare information eller mediaförfrågningar, vänligen kontakta presskontakten.
+
+Lantbrukarnas Riksförbund (LRF) har bjudit in till gårdsbesöket för att ge en inblick i svensk livsmedelsproduktion, skogsbruk samt dess utmaningar och möjligheter.
+
+Därefter kommer landsbygdsministern och kommissionärerna att delta i LRF:s riksförbundsstämma.
+
+För ytterligare information eller mediaförfrågningar, vänligen kontakta presskontakten.

@@ -2,7 +2,7 @@
 
 Statsminister Ulf Kristersson och äldre- och socialförsäkringsminister Anna Tenje, debattartikel, Expressen, den 25 november 2024.
 
-Över en miljon människor i arbetsför ålder i Sverige är inte självförsörjande. För att bygga ett Sverige som håller ihop måste fler människor få ett arbete. Därför tar regeringen i dag nästa steg för att införa ett aktivitetskrav för personer som får försörjningsstöd, skriver Ulf Kristersson (M) och Anna Tenje (M).
+Över en miljon människor i arbetsför ålder i Sverige är inte självförsörjande. För att bygga ett Sverige som håller ihop måste fler människor få ett arbete. Därför tar regeringen i dag nästa steg för att införa ett aktivitetskrav för personer som får försörjningsstöd, skriver Ulf Kristersson (M) och Anna Tenje (M).
 
 En under många år ansvarslös migrationspolitik i kombination med kravlös integrationspolitik har lett till stora problem. Arbetslösheten är nästan tre gånger högre bland utrikes födda än inrikes födda. Förra året var också ungefär 60 procent av alla som fick ekonomiskt bistånd utrikes födda.
 

@@ -15,7 +15,7 @@ Inför budgetpropositionen för 2025 är det angeläget att skatteförslagen
 kan förberedas genom remittering och granskning av Lagrådet. För att
 möjliggöra en samlad behandling av skatteförslag med budgeteffekter
 remitteras därför denna promemoria från Finansdepartementet. Om de
-skatteåtgärder som nu remitteras kommer att presenteras i budgetpropositionen för 2025, och i vilken omfattning och med vilken
+skatteåtgärder som nu remitteras kommer att presenteras i budgetpropositionen för 2025, och i vilken omfattning och med vilken
 dimensionering, blir beroende av det ekonomiska läget, reformutrymmet
 och finansieringsbehovet samt de överläggningar som förs i det slutliga
 arbetet med budgetpropositionen.

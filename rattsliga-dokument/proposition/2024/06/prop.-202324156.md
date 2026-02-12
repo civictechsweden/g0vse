@@ -2,7 +2,7 @@
 
 I propositionen föreslår regeringen en inriktning för havsmiljöpolitiken.
 
-Regeringen föreslår två övergripande principer som ska gälla för havsmiljöarbetet framöver: att ekosystemansatsens tillämpning ska stärkas
+Regeringen föreslår två övergripande principer som ska gälla för havsmiljöarbetet framöver: att ekosystemansatsens tillämpning ska stärkas
 samt att övergödningen ska minska. Därutöver föreslår regeringen hur
 Sverige ska fortsätta arbeta internationellt för regleringar och kontroll av
 farliga ämnen så att tillförseln av farliga ämnen till havsmiljön minskar.

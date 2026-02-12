@@ -20,4 +20,6 @@ Uppdraget genomföras med Folkhälsomyndigheten, Myndigheten för samhällsskydd
 
 Uppdraget redovisas löpande till Socialdepartementet när Folkhälsomyndigheten uppdaterar sina scenarier.
 
+
+
 Den första redovisningen lämnas senast den 31 januari 2021. Uppdraget slutredovisas senast den 31 december 2021, men kan förlängas.

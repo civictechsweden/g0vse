@@ -8,4 +8,4 @@ Tilläggsöverenskommelsen reglerar hur pengar som riksdagen beslutat om enligt 
 
 Tilläggsöverenskommelsen kompletterr också den överenskommelse som redan gäller om ökad tillgänglighet och jämlikhet i förlossningsvården och förstärkta insatser för kvinnors hälsa för 2017–2019.
 
-Pengar inom ramen för tilläggsöverenskommelsen uppgår för 2018 till 1,8 miljarder kronor .
+Pengar inom ramen för tilläggsöverenskommelsen uppgår för 2018 till 1,8 miljarder kronor .

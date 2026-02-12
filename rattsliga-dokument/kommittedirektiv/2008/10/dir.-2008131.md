@@ -13,4 +13,5 @@ En särskild utredare får i uppdrag att göra en översyn av regleringen av de 
 - pröva vilka behov av uppföljning och utvärdering som finns av de nationella vaccinationsprogrammen,
 - redovisa hur förslagen påverkar kostnader för staten, landstingen, kommunerna samt lämna förslag till finansiering av eventuella kostnadsökningar, samt
 - lämna de författningsförslag som är nödvändiga med anledning av uppdraget.
+
 Uppdraget ska redovisas till regeringen senast den 31 maj 2010.

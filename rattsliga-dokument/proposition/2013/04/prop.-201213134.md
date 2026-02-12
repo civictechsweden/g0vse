@@ -6,5 +6,5 @@ För att få investeraravdrag ska bl.a. följande villkor vara uppfyllda. Föret
 
 Investeraravdraget utgör ett statligt stöd som måste notifieras och godkännas av Europeiska kommissionen innan det kan genomföras. De nya bestämmelserna föreslås träda i kraft den 1 september 2013. En förutsättning är att kommissionen i den kommande notifieringen godkänner de föreslagna bestämmelserna.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________________________________________________
 Riksdagen fattade den 2 oktober 2013 beslut om propositionen. Läs mer om beslutet via länken i högerspalten

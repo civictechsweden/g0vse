@@ -8,7 +8,7 @@ Därutöver förväntas även EU-ledarna diskutera migrationsfrågan som Frankri
 
 ## Rättsstatsprincipen i digitaliseringens tid
 
-Även rättsstatsprincipen diskuterades med anledning av att rådet hade sin årliga rättsstatsdialog. Rättstatsdialogen etablerades i slutet av 2014 för att förbättra den gemensamma förståelsen för rättsstatens principer i EU.  I år fokuserade ordförandeskapet på rättsstatsprincipen i digitaliseringens tid. Regeringen uppmärksammade precis som flera länder näthat som en särskild utmaning.
+Även rättsstatsprincipen diskuterades med anledning av att rådet hade sin årliga rättsstatsdialog. Rättstatsdialogen etablerades i slutet av 2014 för att förbättra den gemensamma förståelsen för rättsstatens principer i EU. I år fokuserade ordförandeskapet på rättsstatsprincipen i digitaliseringens tid. Regeringen uppmärksammade precis som flera länder näthat som en särskild utmaning.
 
 ## Övriga punkter
 

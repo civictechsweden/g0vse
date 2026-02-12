@@ -2,7 +2,7 @@
 
 Jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg, debattartikel, Västerbottens-Kuriren den 6 november 2023.
 
-I Sverige ska företag sköta sig och följa de lagar och regler som gäller. Vi vet att arbetslivskriminaliteten har en stor omfattning och leder till många negativa konsekvenser. Arbetslivskriminaliteten leder till att konkurrensen snedvrids så att seriösa företagare konkurreras ut av oseriösa företag. Den är också en inkomstkälla för den grova organiserade brottsligheten. Dessutom utnyttjas arbetskraft på olika utstuderade sätt så att otryggheten i arbetslivet ökar.
+I Sverige ska företag sköta sig och följa de lagar och regler som gäller. Vi vet att arbetslivskriminaliteten har en stor omfattning och leder till många negativa konsekvenser. Arbetslivskriminaliteten leder till att konkurrensen snedvrids så att seriösa företagare konkurreras ut av oseriösa företag. Den är också en inkomstkälla för den grova organiserade brottsligheten. Dessutom utnyttjas arbetskraft på olika utstuderade sätt så att otryggheten i arbetslivet ökar.
 
 Det är viktigt, inte bara för oss politiker utan för alla som bor och vistas i Sverige, att påminna oss om vad arbetslivskriminalitet är och vilka negativa effekter den har på vårt samhälle. Det kommer vi aldrig acceptera.
 

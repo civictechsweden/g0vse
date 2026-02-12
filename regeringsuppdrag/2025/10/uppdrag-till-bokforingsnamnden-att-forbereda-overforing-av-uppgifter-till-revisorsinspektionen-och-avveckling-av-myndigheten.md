@@ -1,4 +1,4 @@
-# Uppdrag till Bokföringsnämnden att förbereda överföring av uppgifter till Revisorsinspektionen och avveckling av myndighetenDiarienummer: Fi2025/01946
+# Uppdrag till Bokföringsnämnden att förbereda överföring av uppgifter till Revisorsinspektionen och avveckling av myndigheten
 
 Regeringen ger Bokföringsnämnden i uppdrag att dels förbereda överföring av myndighetens uppgifter så att de kan inordnas i Revisorsinspektionen den 1 januari 2027, dels förbereda avveckling av myndigheten så att Bokföringsnämnden kan upphöra som myndighet den 31 december 2026.
 

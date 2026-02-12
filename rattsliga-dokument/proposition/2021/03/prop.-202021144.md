@@ -1,6 +1,6 @@
 # Klimatdeklaration för byggnader
 
-I propositionen föreslås  en ny lag om klimatdeklaration för byggnader och en ändring i plan- och bygglagen. Införandet av klimatdeklaration är en del i januariavtalet och en åtgärd i regeringens klimathandlingsplan.
+I propositionen föreslås en ny lag om klimatdeklaration för byggnader och en ändring i plan- och bygglagen. Införandet av klimatdeklaration är en del i januariavtalet och en åtgärd i regeringens klimathandlingsplan.
 
 Förslaget innebär att byggherrar ska beräkna och redovisa den klimatpåverkan som uppstår vid uppförande av en ny byggnad. Deklarationen omfattar de växthusgasutsläpp som uppstår under byggskedet (uttag av råvaror, tillverkning av byggprodukter, arbete på byggarbetsplatsen och transporter). Att upprätta och lämna in en klimatdeklaration blir ett villkor för att byggherren ska få slutbesked.
 

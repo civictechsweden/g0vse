@@ -9,7 +9,7 @@ nämnda myndigheterna.
 Regeringen ger dessutom Tillväxtverket i uppdrag att bjuda in till, leda och
 samordna ett myndighetsnätverk för dialog, metodutveckling och lärande
 avseende statliga myndigheters uppgifter inom regional utvecklingspolitik
-och sammanhållen landsbygdspolitik. Syftet med myndighetsnätverket är att det ska bidra till utbyte av erfarenheter och kunskaper mellan statliga
+och sammanhållen landsbygdspolitik. Syftet med myndighetsnätverket är att det ska bidra till utbyte av erfarenheter och kunskaper mellan statliga
 myndigheter och regionerna. Representanter för regionerna och Gotlands
 kommun (regionerna) ska ges möjlighet att delta i nätverket.
 

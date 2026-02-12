@@ -20,11 +20,11 @@ Sverige stödjer helhjärtat de ansträngningar som har gjorts av FN, kvartetten
 
 Slutligen vill jag tacka den avgående amerikanska regeringen för dess ansträngningar, inklusive utrikesminister Kerrys uttalanden den 28 december. Vi ser fram emot ett fortsatt amerikanskt stöd för en tvåstatslösning.
 
-\*\*\*
+***
 
 Den 31 oktober förra året valdes Michel Aoun till president i Libanon. Sverige välkomnar detta och den nationella samlingsregering, ledd av premiärminister Saad Hariri, som bildades i december. Vi hoppas att denna positiva utveckling kan bana väg för parlamentsval. Vi vill berömma Libanon som tagit emot över 1,1 miljoner syriska flyktingar och vi uppmanar till ett genomförande av överenskommelserna om gemensamma flyktingåtaganden från konferensen i London den 4 februari 2016. Vi stödjer FN-ledda insatser i området.
 
-\*\*\*
+***
 
 Situationen i Syrien är vår tids allvarligaste kris och det mänskliga lidandet har varit oerhört. Sverige välkomnar enigheten i rådet i december, som ledde till antagandet av resolution nr 2336.
 

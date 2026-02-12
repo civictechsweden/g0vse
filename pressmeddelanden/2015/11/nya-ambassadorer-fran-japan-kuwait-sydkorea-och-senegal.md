@@ -22,7 +22,7 @@ Kuwaits nyutnämnde ambassadör Mr. Nabeel Al Dakheelär född 1965 och har tjä
 Sydkoreas nyutnämnde ambassadör Mr. Nam Gwan-pyo är född 1957 och har tjänstgjort i utrikesministeriet sedan 1981. Under de senaste åren har han innehaft bland annat följande befattningar:
 
 * 2014–2015: Internationell rådgivare till Seouls borgmästare
-* 2011–2014: Ambassadör i Ungern
+* 2011–2014: Ambassadör i Ungern
 * 2010–2011: Professor vid Hankuk University of Foreign Studies i Seoul
 
 ## H.E. Ms. Maymouna Diop Sy, Senegal

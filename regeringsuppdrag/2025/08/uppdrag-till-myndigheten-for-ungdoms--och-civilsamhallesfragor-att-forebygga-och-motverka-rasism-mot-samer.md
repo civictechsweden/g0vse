@@ -1,4 +1,4 @@
-# Uppdrag till Myndigheten för ungdoms- och civilsamhällesfrågor att förebygga och motverka rasism mot samerDiarienummer: A2025/00141, A2025/00674
+# Uppdrag till Myndigheten för ungdoms- och civilsamhällesfrågor att förebygga och motverka rasism mot samer
 
 Regeringen ger Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF) i uppdrag att genomföra insatser som ska bidra till att förebygga och motverka rasism mot samer.
 

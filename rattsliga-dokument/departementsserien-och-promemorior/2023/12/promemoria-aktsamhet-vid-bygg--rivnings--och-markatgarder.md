@@ -1,4 +1,4 @@
-# Promemoria Aktsamhet vid bygg-, rivnings- och markåtgärder
+# Aktsamhet vid bygg-, rivnings- och markåtgärder
 
 I promemorian föreslås att kravet på aktsamhet vid bygg-, rivnings- och markåtgärder – dvs. det allmänna kravet att planera och utföra åtgärderna med aktsamhet så att personer och egendom inte skadas och minsta möjliga obehag uppstår – ska komma till tydligt uttryck i plan- och bygg-lagen (2010:900).
 

@@ -12,7 +12,7 @@ Lantmäteriet och de kommunala lantmäterimyndigheterna,
 
 • föreslå vilka krav som ska gälla för att bilda en kommunal lantmäterimyndighet,
 
-• överväga om kommuner ska tillåtas inrätta kommunala lantmäterimyndigheter i samverkan, och
+• överväga om kommuner ska tillåtas inrätta kommunala lantmäterimyndigheter i samverkan, och
 
 • lämna nödvändiga författningsförslag.
 

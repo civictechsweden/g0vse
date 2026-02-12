@@ -1,6 +1,7 @@
 # Översyn av systemet för kommunalekonomisk utjämning
 
 En parlamentarisk kommitté ska utvärdera och utreda systemet för kommunalekonomisk utjämning.
+
 Kommittén ska sammanfattningsvis:
 - Utreda alternativa metoder för inkomstutjämning. Syftet är att identifiera om det finns tillväxthämmande faktorer i den nuvarande inkomstutjämningen. I så fall ska kommittén föreslå hur dessa kan undanröjas samt hur incitamenten kan stärkas för ekonomisk tillväxt och ökad sysselsättning.
 - Ta ställning till om och i så fall hur skatteväxlingar ska beaktas inom ramen för utjämningen.
@@ -13,4 +14,5 @@ Kommittén ska sammanfattningsvis:
 - Beakta konsekvenserna för utjämningssystemet av införandet av en kommunal fastighetsavgift.
 - Beakta konsekvenserna för utjämningssystemet av reformer i övrigt som påverkar den kommunala sektorn.
 - Vid behov lämna förslag till hur bidrags- och avgiftsförändringar för enskilda kommuner och landsting till följd av kommitténs förslag ska hanteras.
+
 Uppdraget ska redovisas senast den 30 april 2011.

@@ -1,9 +1,9 @@
-# Uppdrag till Statens maritima och transporthistoriska museer att förbereda inordnandet av Statens försvarshistoriska museers uppgifter i myndighetenDiarienummer: Ku2025/00762
+# Uppdrag till Statens maritima och transporthistoriska museer att förbereda inordnandet av Statens försvarshistoriska museers uppgifter i myndigheten
 
 Regeringen ger Statens maritima och transporthistoriska museer i uppdrag att förbereda inordnandet av Statens försvarshistoriska museers uppgifter i Statens maritima och transporthistoriska museer den 1 januari 2026.
 
 Utgångspunkten för genomförandet av uppdraget ska vara att
-myndigheternas befintliga uppgifter ska vara oförändrade och att uppgifterna ska utföras med bibehållen effektivitet och kvalitet.
+myndigheternas befintliga uppgifter ska vara oförändrade och att uppgifterna ska utföras med bibehållen effektivitet och kvalitet.
 
 Organisationsförändringen ska genomföras på ett kostnadseffektivt sätt.
 Statens maritima och transporthistoriska museer ska samråda med Statens

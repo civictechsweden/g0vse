@@ -1,4 +1,4 @@
-# Tillfälligt nedsatta arbetsgivaravgifter för 19–23-åringarFi2025/01705
+# Tillfälligt nedsatta arbetsgivaravgifter för 19–23-åringar
 
 I promemorian föreslås att det införs en tillfällig nedsättning av det samlade uttaget av arbetsgivaravgifter och allmän löneavgift på ersättning till personer som vid årets ingång har fyllt 18 men inte 23 år. Nedsättningen innebär att endast ålderspensionsavgiften och hälften av de övriga avgifterna ska betalas på ersättning upp till 25 000 kronor per kalendermånad.
 

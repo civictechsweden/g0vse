@@ -1,4 +1,4 @@
-# Riksrevisionens rapport om statens insatser mot ekonomiskt våld i nära relationer, Skr. 2025/26:23Skr. 2025/26:23
+# Riksrevisionens rapport om statens insatser mot ekonomiskt våld i nära relationer, Skr. 2025/26:23
 
 Skrivelsen innehåller regeringens bedömning och åtgärder med anledning av Riksrevisionens rapport Statens insatser mot ekonomiskt våld i nära relationer (RiR 2025:6). Riksrevisionen har granskat om staten arbetar effektivt för att motverka ekonomiskt våld i nära relationer.
 

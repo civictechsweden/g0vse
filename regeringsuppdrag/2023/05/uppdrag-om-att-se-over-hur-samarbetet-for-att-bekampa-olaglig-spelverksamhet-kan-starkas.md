@@ -8,4 +8,4 @@ samarbete för att öka möjligheterna att blockera betalningsförmedling till
 och från olovliga spelverksamheter.
 
 Spelinspektionen och Finansinspektionen ska senast den 31 oktober 2023
-lämna en gemensam delredovisning av uppdraget till Regeringskansliet (Finansdepartementet). Myndigheterna ska senast den 30 april 2024 lämna en gemensam slutredovisning av uppdraget till Regeringskansliet (Finansdepartementet).
+lämna en gemensam delredovisning av uppdraget till Regeringskansliet (Finansdepartementet). Myndigheterna ska senast den 30 april 2024 lämna en gemensam slutredovisning av uppdraget till Regeringskansliet (Finansdepartementet).

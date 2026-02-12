@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att stärka äldre personers trygghetDiarienummer:  S2025/02119
+# Uppdrag till Socialstyrelsen att stärka äldre personers trygghet
 
 Regeringen uppdrar åt Socialstyrelsen att stärka äldre personers trygghet.
 

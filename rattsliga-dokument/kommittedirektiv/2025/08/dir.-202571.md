@@ -1,4 +1,4 @@
-# Tilläggsdirektiv till Utredningen om rättsliga biträden och rättegångskostnader (Ju 2024:06)Dir. 2025:71
+# Tilläggsdirektiv till Utredningen om rättsliga biträden och rättegångskostnader (Ju 2024:06)
 
 Förlängd tid för uppdraget.
 

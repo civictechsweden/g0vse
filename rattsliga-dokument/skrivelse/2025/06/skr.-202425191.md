@@ -1,4 +1,4 @@
-# Redovisning av fördelning av medel från Allmänna arvsfonden under budgetåret 2024Skr. 2024/25:191
+# Redovisning av fördelning av medel från Allmänna arvsfonden under budgetåret 2024
 
 Regeringen redogör för förvaltningen av Allmänna arvsfonden och redovisar hur Arvsfondsdelegationen har fördelat stöd ur fonden under 2024.
 

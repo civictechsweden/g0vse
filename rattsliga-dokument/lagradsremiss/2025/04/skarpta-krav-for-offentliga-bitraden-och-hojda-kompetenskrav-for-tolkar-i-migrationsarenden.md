@@ -11,10 +11,10 @@ I lagrådsremissen lämnar regeringen därför lagförslag om bland annat följa
 
 * Behörighetskraven för offentliga biträden skärps.
 * Det ska krävas särskilt tillstånd för att ett offentligt biträde ska få sätta
-  någon annan i sitt ställe (substitution).
+någon annan i sitt ställe (substitution).
 * Olämpliga ombud och biträden ska kunna förklaras obehöriga att
-  medverka i migrationsärenden hos Migrationsverket, Polismyndigheten
-  och Säkerhetspolisen.
+medverka i migrationsärenden hos Migrationsverket, Polismyndigheten
+och Säkerhetspolisen.
 * Det införs kompetenskrav för tolkar och översättare i migrationsärenden.
 
 Lagändringarna föreslås träda i kraft den 1 januari 2026.

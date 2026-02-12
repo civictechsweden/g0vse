@@ -14,7 +14,7 @@ Sofia Johansson är sektionschef på Statsrådsberedningen och arbetade tidigare
 
 Hon berättade att påverkansarbetet inför nuvarande programperiod kom igång i tid och att aktiviteten var stor men att arbetet försinkades av finanskrisen 2009. Sverige samverkade med Frankrike, Finland, Danmark, Nederländerna, Österrike, Tyskland och Storbritannien som alla har det gemensamt att de är nettobetalare till EU.
 
-Nu däremot, är det betydligt tystare, förklarar Sofia Johansson. Storbritanniens folkomröstning 23 juni om utträde eller fortsatt EU-medlemskap gör att framtidsfrågor som exempelvis sammanhållningspolitiken inte diskuteras särskilt mycket. Personalförändringar på EU-kommissionen har också bromsat arbetet liksom ointresse från både det föregående (Luxemburg) och det nu pågående EU:ordförandskapet (Nederländerna).
+Nu däremot, är det betydligt tystare, förklarar Sofia Johansson. Storbritanniens folkomröstning 23 juni om utträde eller fortsatt EU-medlemskap gör att framtidsfrågor som exempelvis sammanhållningspolitiken inte diskuteras särskilt mycket. Personalförändringar på EU-kommissionen har också bromsat arbetet liksom ointresse från både det föregående (Luxemburg) och det nu pågående EU:ordförandskapet (Nederländerna).
 
 - Däremot signalerar det inkommande slovakiska EU-ordförandeskapet som tar över första juli från Nederländerna att sammanhållningspolitiken är prioriterad, uppmuntrade Sofia Johansson.
 

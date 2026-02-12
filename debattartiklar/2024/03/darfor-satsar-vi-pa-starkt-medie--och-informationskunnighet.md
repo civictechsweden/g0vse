@@ -24,6 +24,8 @@ Internationellt framhålls Sverige och de andra nordiska länderna ofta som goda
 
 Att vi som medborgare kan förstå och värdera den information vi möter är viktigt för oss som individer – men det är också en förutsättning för att vi ska fortsätta vara en motståndskraftig demokrati.
 
+
+
 Parisa Liljestrand, kulturminister
 
 Erik Slottner, civilminister

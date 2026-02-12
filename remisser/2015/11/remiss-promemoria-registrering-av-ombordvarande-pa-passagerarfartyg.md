@@ -22,7 +22,7 @@ Inhämtande av synpunkter på promemorian Registrering av ombordvarande på pass
 
 Synpunkterna ska ha kommit in till Näringsdepartementet (dnr 2015/07839/RS) senast fredagen den 13 november 2015 kl 13:00.
 
-Svaren bör lämnas per e-post till Näringsdepartementets registrator med adress [n.registrator@regeringskansliet.se](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator") med kopia till [Peter Kalliopuro](mailto:peter.kalliopuro@regeringskansliet.se "epost till Peter Kalliopuro").
+Svaren bör lämnas per e-post till Näringsdepartementets registrator med adress <n.registrator@regeringskansliet.se> med kopia till [Peter Kalliopuro](mailto:peter.kalliopuro@regeringskansliet.se "epost till Peter Kalliopuro").
 
 I detta inhämtande av synpunkter ligger att regeringen vill ha synpunkter på promemorian.
 

@@ -1,6 +1,6 @@
 # Barns och ungas läsning
 
-![En omslagsbild med två barn som läser i en bok. Foto: Maskot/TT](/contentassets/83baa2be54344a508317cbd4738c1058/omslagets-framsida-150x200.jpg?width=150&quality=85)
+![En omslagsbild med två barn som läser i en bok. Foto: Maskot/TT](/contentassets/83baa2be54344a508317cbd4738c1058/omslagets-framsida-150x200.jpg?width=150&amp;quality=85)
 
 I skrivelsen redogör regeringen för sina bedömningar utifrån Läsdelegationens
 betänkande Barns och ungas läsning – ett ansvar för hela samhället

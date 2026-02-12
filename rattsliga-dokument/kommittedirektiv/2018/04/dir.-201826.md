@@ -9,6 +9,6 @@ Utredaren ska:
 * utreda behovet av anpassningar av försäkringsskyddet för personer med timanställningar och andra tidsbegränsade anställningar, och
 * kartlägga om det nuvarande regelverket ger ett tillräckligt utrymme för att försäkrades arbetsförmåga ska kunna tas till vara fullt ut.
 
-Om utredaren bedömer att det är nödvändigt med författningsförslag kan utredaren föreslå sådana.
+Om utredaren bedömer att det är nödvändigt med författningsförslag kan utredaren föreslå sådana.
 
 Uppdraget ska delredovisas den 30 januari 2019, och slutredovisas senast den 15 oktober 2019.

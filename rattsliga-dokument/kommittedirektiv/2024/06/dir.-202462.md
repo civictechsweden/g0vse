@@ -1,6 +1,6 @@
 # Tilläggsdirektiv till Kommittén om översyn av nivån på målet för den offentliga sektorns finansiella sparande (Fi 2023:10)
 
-Kommittén får nu även i uppdrag att bland annat analysera och ta ställning till hur det svenska finanspolitiska ramverket behöver anpassas för att uppfylla kraven i EU:s ändringsdirektiv, och lämna förslag på åtgärder som behövs för att genomföra ändringsdirektivet.
+Kommittén får nu även i uppdrag att bland annat analysera och ta ställning till hur det svenska finanspolitiska ramverket behöver anpassas för att uppfylla kraven i EU:s ändringsdirektiv, och lämna förslag på åtgärder som behövs för att genomföra ändringsdirektivet.
 
 Regeringen beslutade den 30 november 2023 kommittédirektiv om översyn av nivån på målet för den offentliga sektorns finansiella sparande (dir. 2023:162). En parlamentariskt sammansatt kommitté ska bl.a. analysera hur en eventuell ändrad nivå på målet förhåller sig till EU:s stabilitets- och tillväxtpakt, inklusive de ändringar som föreslagits i bl.a. regelverkets förebyggande och korrigerande del.
 
@@ -8,7 +8,7 @@ Sedan kommittédirektiven beslutades har Europeiska unionens råd, utöver de f�
 
 Kommittén får nu även i uppdrag att bl.a.
 
-* analysera och ta ställning till hur det svenska finanspolitiska ramverket behöver anpassas för att uppfylla kraven i ändringsdirektivet, och
-* lämna förslag på åtgärder som behövs för att genomföra ändringsdirektivet.
+* analysera och ta ställning till hur det svenska finanspolitiska ramverket behöver anpassas för att uppfylla kraven i ändringsdirektivet, och
+* lämna förslag på åtgärder som behövs för att genomföra ändringsdirektivet.
 
-Utredningstiden ligger fast. Uppdraget ska alltså redovisas senast den 15 november 2024.
+Utredningstiden ligger fast. Uppdraget ska alltså redovisas senast den 15 november 2024.

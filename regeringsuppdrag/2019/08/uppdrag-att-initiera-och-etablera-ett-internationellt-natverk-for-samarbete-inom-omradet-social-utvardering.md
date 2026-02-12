@@ -4,7 +4,7 @@ Regeringen uppdrar åt Statens beredning för medicinsk och social utvärdering,
 
 ## Etablering av globalt nätverk
 
-SBU ska ta initiativ till att etablera ett globalt nätverk, som kan bidra till metodutveckling av rapporter inom området Social Technology Assessment (STA) och därmed även bidra till att öka möjligheterna att ge grupper som exempelvis äldre kvinnor och män, kvinnor och män och flickor och pojkar med funktionsnedsättning, utsatta barn och vuxna bästa möjliga vård och omsorg.
+SBU ska ta initiativ till att etablera ett globalt nätverk, som kan bidra till metodutveckling av rapporter inom området Social Technology Assessment (STA) och därmed även bidra till att öka möjligheterna att ge grupper som exempelvis äldre kvinnor och män, kvinnor och män och flickor och pojkar med funktionsnedsättning, utsatta barn och vuxna bästa möjliga vård och omsorg.
 
 ## Standard för systematiskt översiktsarbete
 

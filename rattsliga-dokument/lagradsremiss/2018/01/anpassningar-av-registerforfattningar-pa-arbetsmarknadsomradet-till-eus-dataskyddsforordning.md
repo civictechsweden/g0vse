@@ -2,6 +2,7 @@
 
 Lagrådsremissen innehåller förslag till anpassningar av registerförfattningar
 på arbetsmarknadsområdet till EU:s dataskyddsförordning.
+
 Förordningen ska börja tillämpas den 25 maj 2018.
 
 En ny lag om behandling av personuppgifter i Arbetsmiljöverkets informationssystem om arbetsskador föreslås. Den nya lagen bidrar till öppenhet och förutsebarhet i verksamheten.

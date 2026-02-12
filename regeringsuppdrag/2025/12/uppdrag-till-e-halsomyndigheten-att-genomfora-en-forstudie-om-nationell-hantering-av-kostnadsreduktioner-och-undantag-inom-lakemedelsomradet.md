@@ -1,4 +1,4 @@
-# Uppdrag till E-hälsomyndigheten att genomföra en förstudie om nationell hantering av kostnadsreduktioner och undantag inom läkemedelsområdetDiarienummer:  S2025/02173
+# Uppdrag till E-hälsomyndigheten att genomföra en förstudie om nationell hantering av kostnadsreduktioner och undantag inom läkemedelsområdet
 
 Regeringen uppdrar åt E-hälsomyndigheten, EHM, att göra en förstudie över hur myndigheten i framtiden kan ta över hanteringen och uppföljningen av effekterna av vissa kostnadsreduktioner inom läkemedelsförmånerna.
 

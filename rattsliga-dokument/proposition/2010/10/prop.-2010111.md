@@ -4,7 +4,7 @@ Den 12 oktober 2010 lämnade regeringen Budgetpropositionen för år 2011 (prop.
 
 Riksdagen fattade den 8 december 2010 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+______________________________________________________
 
 För beställning av Budgetpropositionen för 2011 kontakta:
 Riksdagens tryckeriexpedition,

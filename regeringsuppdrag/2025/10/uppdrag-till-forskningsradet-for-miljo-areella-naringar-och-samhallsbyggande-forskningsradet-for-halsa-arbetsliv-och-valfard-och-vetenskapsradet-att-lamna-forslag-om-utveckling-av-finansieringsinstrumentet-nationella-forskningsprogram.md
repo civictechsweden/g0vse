@@ -1,4 +1,4 @@
-# Uppdrag till Forskningsrådet för miljö, areella näringar och samhällsbyggande, Forskningsrådet för hälsa, arbetsliv och välfärd och Vetenskapsrådet att lämna förslag om utveckling av finansieringsinstrumentet nationella forskningsprogramDiarienummer: U2025/02083
+# Uppdrag till Forskningsrådet för miljö, areella näringar och samhällsbyggande, Forskningsrådet för hälsa, arbetsliv och välfärd och Vetenskapsrådet att lämna förslag om utveckling av finansieringsinstrumentet nationella forskningsprogram
 
 Regeringen ger Forskningsrådet för miljö, areella näringar och
 samhällsbyggande (Formas), Forskningsrådet för hälsa, arbetsliv och välfärd

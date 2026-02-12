@@ -6,7 +6,7 @@ I propositionen föreslås bland annat följande:
 
 * Huvudmän för förskoleklass och grundskola ska så långt det är möjligt aktivt verka för en allsidig social sammansättning av elever på sina skolenheter, och, om en sådan är uppnådd, vidta sådana åtgärder som behövs och är möjliga att vidta för att upprätthålla en sådan sammansättning.
 * Regeringen eller den myndighet som regeringen bestämmer ska få
-  meddela ytterligare föreskrifter om huvudmännens arbete för en allsidig social sammansättning av elever på sina skolenheter.
+meddela ytterligare föreskrifter om huvudmännens arbete för en allsidig social sammansättning av elever på sina skolenheter.
 * De urvalsgrunder som ska få användas vid urval till skolenheter med kommunal och enskild huvudman för förskoleklass, grundskola och grundsärskola ska regleras i skollagen.
 * Skolinspektionen ska vid prövning av ansökningar från enskilda om att bli godkända som huvudmän vid nyetableringar av fristående skolor särskilt beakta elevers rätt till en likvärdig utbildning. Kommuner ska vara skyldiga att yttra sig över ansökningar om godkännande. Närliggande berörda kommuner ska ges tillfälle att yttra sig över en ansökan som avser en gymnasieskola med enskild huvudman.
 

@@ -6,7 +6,7 @@ Enligt Riksrevisionen finns vissa brister i detta system när det gäller huvudm
 
 Riksrevisionen rekommenderar regeringen att överväga att ersätta det breda utbudet av riktade statsbidrag med en fördelning av medel som utgår från huvudmännens behov. Med ett sådant system skulle huvudmännen söka medel inom bidragsramen för lokalt utformade insatser och varje ansökan skulle ges en individuell bedömning. Riksrevisionen rekommenderar också regeringen att säkerställa att ett nationellt analysstöd finns tillgängligt för huvudmännen.
 
-Regeringen delar inte Riksrevisionens övergripande bedömning att systemet inte är ändamålsenligt, men instämmer i att det finns brister i systemet och delar iakttagelsen att det även finns potentiella utvecklingsområden.
+Regeringen delar inte Riksrevisionens övergripande bedömning att systemet inte är ändamålsenligt, men instämmer i att det finns brister i systemet och delar iakttagelsen att det även finns potentiella utvecklingsområden.
 
 Regeringen instämmer inte i Riksrevisionens rekommendation att de statliga medlen för skolutveckling ska fördelas i form av en bidragsram till varje huvudman i stället för genom olika statsbidrag. Syftet med riktade statsbidrag till skolväsendet är att ge regeringen möjlighet att nationellt uppmärksamma särskilt viktiga insatsområden och att rikta medel dit det finns stora behov. På så vis stärker systemet med riktade statsbidrag regeringens möjligheter att bidra till att de nationella målen för utbildningspolitiken uppfylls.
 

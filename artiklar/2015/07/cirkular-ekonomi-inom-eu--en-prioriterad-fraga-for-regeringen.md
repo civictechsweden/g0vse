@@ -8,6 +8,6 @@ En cirkulär ekonomi kan ge förutsättningar för att stimulera innovation i al
 
 ## EU-kommissionen vill få in synpunkter
 
-Innan årets slut har EU-kommissionen utlovat ett nytt förslag om cirkulär ekonomi. Det pågår därför ett intensivt arbete hos kommissionen. Sverige har genom Regeringskansliet lämnat synpunkter på områden och åtgärder som bör finnas med i det nya förslaget.
+Innan årets slut har EU-kommissionen utlovat ett nytt förslag om cirkulär ekonomi. Det pågår därför ett intensivt arbete hos kommissionen. Sverige har genom Regeringskansliet lämnat synpunkter på områden och åtgärder som bör finnas med i det nya förslaget.
 
 Mot bakgrund av detta är kommissionen intresserade av att få information om hur olika aktörer i hela EU ställer sig till dessa frågor. De har därför nyligen initierat en öppen konsultation om cirkulär ekonomi för alla att besvara senast den 20 augusti. Vidare har de även initierat en konsultation om avfallsmarknaderna i EU att besvara senast den 4 september.

@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att genomföra insatser som stödjer en effektiv personalplanering i hälso- och sjukvården med fokus på semesterperioderDiarienummer: S2025/01478
+# Uppdrag till Socialstyrelsen att genomföra insatser som stödjer en effektiv personalplanering i hälso- och sjukvården med fokus på semesterperioder
 
 Regeringen uppdrar åt Socialstyrelsen att genomföra ett pilotarbete som ska stödja ett effektivt nyttjande av hälso- och sjukvårdens personalresurser ur ett regionalt och nationellt perspektiv. Fokus ska vara på semestertider.
 

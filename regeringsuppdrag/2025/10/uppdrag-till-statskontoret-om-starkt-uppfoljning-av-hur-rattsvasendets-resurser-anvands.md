@@ -1,19 +1,19 @@
-# Uppdrag till Statskontoret om stärkt uppföljning av hur rättsväsendets resurser användsDiarienummer: Ju2025/01835
+# Uppdrag till Statskontoret om stärkt uppföljning av hur rättsväsendets resurser används
 
 Regeringen ger Statskontoret i uppdrag att se över hur uppföljningen av hur rättsväsendets resurser används kan stärkas och hur effektiviteten i rättsväsendets verksamheter kan öka. Syftet med uppdraget är att ge regeringen ett fördjupat underlag för att kunna utveckla styrningen av rättsväsendet och uppnå bättre effekt av anslagna medel. Uppdraget omfattar verksamheterna inom och samspelet mellan Polismyndigheten, Åklagarmyndigheten, Ekobrottsmyndigheten, Sveriges Domstolar och Kriminalvården.
 
 Statskontoret ska inom ramen för uppdraget analysera och bedöma:
 
 * hur de berörda myndigheternas förvaltningsanslag används, fördelat
-  på väsentliga kostnadsslag och verksamhetsgrenar,
+på väsentliga kostnadsslag och verksamhetsgrenar,
 * hur myndigheterna mäter och följer upp effektiviteten i
-  verksamheterna, det vill säga relationen mellan genomförda
-  aktiviteter, uppnådda resultat och använda resurser,
+verksamheterna, det vill säga relationen mellan genomförda
+aktiviteter, uppnådda resultat och använda resurser,
 * vilka hinder och möjligheter som finns när det gäller att öka
-  effektiviteten inom respektive myndighet och dem emellan som
-  helhet, och
+effektiviteten inom respektive myndighet och dem emellan som
+helhet, och
 * hur samspelet mellan de berörda myndigheterna fungerar och hur det
-  påverkar effektiviteten.
+påverkar effektiviteten.
 
 Statskontoret ska med dessa analyser och bedömningar som grund lämna förslag på:
 

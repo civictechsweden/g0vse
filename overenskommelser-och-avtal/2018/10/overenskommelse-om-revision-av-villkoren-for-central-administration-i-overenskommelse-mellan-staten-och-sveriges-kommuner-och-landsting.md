@@ -2,4 +2,4 @@
 
 Regeringen har gett Annika Strandhäll befogenhet att revidera delar i överenskommelsen mellan staten och Sveriges Kommuner och Landsting om försäkringsmedicinska utredningar 2018.
 
-Annika Strandhäll har uppdragit statssekreterare Agneta Karlsson att underteckna överenskommelsen.
+Annika Strandhäll har uppdragit statssekreterare Agneta Karlsson att underteckna överenskommelsen.

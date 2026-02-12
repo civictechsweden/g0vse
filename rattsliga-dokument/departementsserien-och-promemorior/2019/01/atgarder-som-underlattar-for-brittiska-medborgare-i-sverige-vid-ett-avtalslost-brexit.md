@@ -18,4 +18,4 @@ The proposals in the memorandum mean that UK nationals and their family members 
 
 Proposed legislative amendments are also presented that aim to make it easier for UK nationals and their family members to apply for residence and work permits in Sweden. It is proposed that the Government issues regulations that make it possible for the group in question to be granted residence and work permits, even if they are already in Sweden. Also proposed is an adjustment of the provisions on the status of third-country nationals who are long-term residents, making it clear that UK nationals may include the time they have been legally residing in Sweden with a right of residence in an application for long-term residence status.
 
-It is proposed that the time-limited ordinance enter into force on 30 March 2019 and the legislative amendments on 1 July 2019.
+It is proposed that the time-limited ordinance enter into force on 30 March 2019 and the legislative amendments on 1 July 2019.

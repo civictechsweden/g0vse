@@ -2,7 +2,7 @@
 
 Myndigheten för vård- och omsorgsanalys har fått i uppdrag att följa upp och analysera de samlade insatserna som genomförs under 2015–2019 inom förlossningsvården, övrig hälso- och sjukvård, primärvården samt mammografin. Uppdraget omfattar även införandet av kostnadsfria preventivmedel för unga under 21 år, under förutsättning att riksdagen beslutar om det. Myndigheten ska särskilt granska insatserna utifrån ett patient- och medborgarperspektiv.
 
-Regeringen har beslutat ge Myndigheten för vård- och omsorgsanalys i uppdrag att följa upp och analysera:
+Regeringen har beslutat ge Myndigheten för vård- och omsorgsanalys i uppdrag att följa upp och analysera:
 
 * insatser som syftar till att stärka förlossningsvården och kvinnors hälsa,
 * insatser för att stärka primärvården med särskild inriktning på socioekonomiskt utsatta områden,

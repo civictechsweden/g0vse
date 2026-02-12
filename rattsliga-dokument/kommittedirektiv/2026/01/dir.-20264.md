@@ -1,4 +1,4 @@
-# Tilläggsdirektiv till Utredningen om inrättande av EU-intyg om funktionsnedsättning och EU-parkeringstillstånd för personer med funktionsnedsättningDir. 2026:4
+# Tilläggsdirektiv till Utredningen om inrättande av EU-intyg om funktionsnedsättning och EU-parkeringstillstånd för personer med funktionsnedsättning
 
 Regeringen förlänger utredningen om inrättande EU-intyg om funktionsnedsättning och EU-parkeringstillstånd för personer med funktionsnedsättning.
 

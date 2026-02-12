@@ -1,4 +1,4 @@
-# Avvikande från bestämmelserna om tyst godkännande i EU:s förordning om gigabitinfrastrukturProp. 2025/26:68
+# Avvikande från bestämmelserna om tyst godkännande i EU:s förordning om gigabitinfrastruktur
 
 I Europaparlamentets och rådets förordning (EU) 2024/1309 (EU:s förordning om gigabitinfrastruktur) regleras bl.a. inom vilken tid som en behörig myndighet, t.ex. en mark-och miljödomstol, ska bevilja eller avslå en ansökan om tillstånd. Om ett beslut inte har fattats inom den tidsfrist som föreskrivs i förordningen ska tillståndet anses beviljat när tidsfristen löper ut (s.k. tyst godkännande). Medlemsstaterna får under vissa förutsättningar som anges i förordningen avvika från bestämmelserna om tyst godkännande.
 

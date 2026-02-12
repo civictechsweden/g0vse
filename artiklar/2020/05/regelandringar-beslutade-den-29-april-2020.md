@@ -6,7 +6,7 @@ Regeringen har efter riksdagens beslut utfärdat ändringar i drivmedelslagen. B
 
 En konsekvens av smittspridningen är att övergången till sommarbensin den 1 maj, eller den 16 maj i norra Sverige, försvåras eftersom stora volymer vinterbensin inte har sålts. I propositionen Tillfällig åtgärd för att underlätta övergången till sommarbensin föreslår regeringen därför en ändring i drivmedelslagen som innebär att sommarperiodens början senareläggs till den 1 juni. Det föreslås vidare en ändring i drivmedelslagen som innebär att sommarperioden återgår till den nuvarande. Riksdagen har godkänt förslaget och regeringen har utfärdat lagändringarna.
 
-Lagändringarna träder i kraft den 1 maj 2020 respektive den 1 januari 2021.
+Lagändringarna träder i kraft den 1 maj 2020 respektive den 1 januari 2021.
 
 **Referenser:**
 

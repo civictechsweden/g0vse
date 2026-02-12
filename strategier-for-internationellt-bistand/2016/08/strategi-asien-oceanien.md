@@ -1,6 +1,6 @@
 # Strategi för Sveriges regionala utvecklingssamarbete i Asien och Oceanien 2016-2021
 
-![](/contentassets/d025572b97fd4d00ad86a4d5b2200487/bild.jpg?width=150&quality=85)
+![](/contentassets/d025572b97fd4d00ad86a4d5b2200487/bild.jpg?width=150&amp;quality=85)
 
 Det regionala utvecklingssamarbetet i Asien och Oceanien ska inom ramen för denna strategi bidra till ökad regional integration och samverkan för en hållbar utveckling i regionen. Strategin ska gälla under perioden 2016–2021 och omfattar sammantaget 1800 miljoner svenska kronor.
 

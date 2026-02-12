@@ -12,7 +12,7 @@ Sammanfattning av innehållet i förordningen:
 * Stödet sätts till 20 procent av inköpspriset, men högst 40 procent av merkostnaden i förhållande till en jämförbar konventionell lastbil eller arbetsmaskin.
 * Stöd betalas ut till företag inklusive fysiska personer som bedriver näringsverksamhet samt till kommuner och regioner.
 * Stödet riktas till nya lastbilar (över 3,5 ton) som helt drivs på el, bioetanol och/eller gas.
-* Stödet riktas också till nya eldrivna arbetsmaskiner med en nedre effektgräns på 75 kW, med krav på att arbetsmaskinen registreras i vägtrafikregistret.
+* Stödet riktas också till nya eldrivna arbetsmaskiner med en nedre effektgräns på 75 kW, med krav på att arbetsmaskinen registreras i vägtrafikregistret.
 
 Den nya förordningen träder i kraft den 1 september 2020.
 

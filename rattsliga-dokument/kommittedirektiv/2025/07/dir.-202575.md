@@ -1,4 +1,4 @@
-# Tilläggsdirektiv till Kärnkraftsprövningsutredningen (KN 2023:04)Dir. 2025:75
+# Tilläggsdirektiv till Kärnkraftsprövningsutredningen (KN 2023:04)
 
 Ändring och förlängd tid för uppdraget.
 

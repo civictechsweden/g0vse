@@ -5,7 +5,7 @@ Regeringen föreslår ett särskilt straffansvar för den som har vissa former a
 De former av samröre som avses är att
 
 * ta befattning med vapen, ammunition, brandfarliga eller explosiva
-  varor, kommunikationsutrustning, transportmedel eller annan liknande utrustning för en terroristorganisation,
+varor, kommunikationsutrustning, transportmedel eller annan liknande utrustning för en terroristorganisation,
 * upplåta lokal eller mark till en terroristorganisation, eller
 * lämna annat liknande stöd till en terroristorganisation.
 

@@ -1,4 +1,4 @@
-# Remiss av Transportstyrelsens förslag om ändring i trafikförordningen (1998:1276) för underlättande av användning av bärgningsboggiDiarienummer: LI2025/01348
+# Remiss av Transportstyrelsens förslag om ändring i trafikförordningen (1998:1276) för underlättande av användning av bärgningsboggi
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Transportstyrelsens förslag om ändring i trafikförordningen (1998:1276) för underlättande av användning
 av bärgningsboggi.

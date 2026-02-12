@@ -7,11 +7,11 @@ och från NIS 2-direktivet och dess allriskperspektiv för att hantera en
 bredd av utmaningar. I strategin redogörs för ett antal hot och sårbarheter
 som påverkar Sveriges cybersäkerhet.
 
-Strategin utgår från tre pelare som anger inriktning för Sveriges cybersäkerhetsarbete:
+Strategin utgår från tre pelare som anger inriktning för Sveriges cybersäkerhetsarbete:
 
 * pelare A: Systematiskt och effektivt cybersäkerhetsarbete,
 * pelare B: Utvecklad kunskap och kompetensutveckling inom
-  cybersäkerhet, och
+cybersäkerhet, och
 * pelare C: Förmåga att förhindra och hantera cybersäkerhetsincidenter.
 
 Strategin innehåller därtill mål som tar sikte på ett antal områden för att

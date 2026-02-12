@@ -10,7 +10,7 @@ First, thanks to TEPSA for inviting me to this discussion, and for your valuable
 
 There is less than a month left until the third Swedish Presidency.
 
-From past experience, we know that this is an opportunity to play a leading role and set the Union’s agenda.  We also know that is an opportunity to boost this Government’s expertise and capability.
+From past experience, we know that this is an opportunity to play a leading role and set the Union’s agenda. We also know that is an opportunity to boost this Government’s expertise and capability.
 
 Our Government took office just three months before Sweden takes over the Presidency. That poses quite a challenge.
 

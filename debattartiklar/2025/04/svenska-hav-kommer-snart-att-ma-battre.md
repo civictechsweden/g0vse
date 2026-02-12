@@ -6,7 +6,7 @@ Sveriges hav mår inte bra. Flera fiskbestånd är alltför svaga. Vissa, som ti
 
 Alldeles för länge har Sverige gjort alldeles för lite för att vända den här utvecklingen – men det ändrar regeringen på nu. Vi presenterade i somras en översyn av havsmiljöpolitiken – den första som gjorts på 15 år. Nu lägger vi om kursen!
 
-Regeringen arbetar intensivt med att genomföra havsmiljöpolitiken. Vi fokuserar på tre delar – arbetet mot övergödningen, ett ökat skydd för marina områden och ett hållbart fiske.
+Regeringen arbetar intensivt med att genomföra havsmiljöpolitiken. Vi fokuserar på tre delar – arbetet mot övergödningen, ett ökat skydd för marina områden och ett hållbart fiske.
 
 **1. Regeringen växlar upp arbetet mot övergödning**
 

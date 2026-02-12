@@ -1,4 +1,4 @@
-# Promemoria En flexiblare väg till behörigheten fartygsbefäl klass VII
+# En flexiblare väg till behörigheten fartygsbefäl klass VII
 
 I promemorian föreslås att det införs en alternativ grund för att få behörighet som fartygsbefäl klass VII.
 

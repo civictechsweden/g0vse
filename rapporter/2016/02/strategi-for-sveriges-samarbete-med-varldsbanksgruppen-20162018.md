@@ -1,6 +1,6 @@
 # Strategi för Sveriges samarbete med Världsbanksgruppen 2016–2018
 
-![](/contentassets/f3c0086df671485db8b5ec3eece1a8ca/varldsbanksgruppens-omslag_150.jpg?width=150&quality=85)
+![](/contentassets/f3c0086df671485db8b5ec3eece1a8ca/varldsbanksgruppens-omslag_150.jpg?width=150&amp;quality=85)
 
 Denna strategi ska ligga till grund för Sveriges samarbete med Världsbanksgruppen (VBG). Strategin ska också vägleda svenska positioner i förhandlingarna om påfyllnaden av IDA18 som pågår under hela året 2016.
 

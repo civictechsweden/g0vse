@@ -1,4 +1,4 @@
-# Promemoria Nya regler för vinterdäck och snökedjor
+# Nya regler för vinterdäck och snökedjor
 
 I promemorian lämnas förslag till skärpta regler för användning av vinterdäck och krav på att tunga fordon ska medföra snökedjor under perioden 1 november-15 april. Vad avser kraven på vinterdäck lämnas två olika alternativa förslag med syftet att inhämta remissinstansernas synpunkter.
 

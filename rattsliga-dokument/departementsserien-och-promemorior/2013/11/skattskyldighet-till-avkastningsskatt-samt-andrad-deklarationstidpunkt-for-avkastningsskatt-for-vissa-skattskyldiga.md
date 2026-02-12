@@ -1,6 +1,6 @@
 # Skattskyldighet till avkastningsskatt samt ändrad deklarationstidpunkt för avkastningsskatt för vissa skattskyldiga
 
-I promemorian lämnar Finansdepartementet förslag till ändrade regler om när avkastningsskatt ska redovisas av  vissa skattskyldiga. Förändringen gäller vilket beskattningsår de som innehar bl.a. en utländsk pensions- eller kapitalförsäkring ska ta upp skatteunderlag för avkastningsskatt och vad som i dessa situationer ska avses med beskattningsår i skatteförfarandelagen. Bland annat ändras tidpunkten för när en inkomstdeklaration ska lämnas.
+I promemorian lämnar Finansdepartementet förslag till ändrade regler om när avkastningsskatt ska redovisas av vissa skattskyldiga. Förändringen gäller vilket beskattningsår de som innehar bl.a. en utländsk pensions- eller kapitalförsäkring ska ta upp skatteunderlag för avkastningsskatt och vad som i dessa situationer ska avses med beskattningsår i skatteförfarandelagen. Bland annat ändras tidpunkten för när en inkomstdeklaration ska lämnas.
 
 Finansdepartementet föreslår dessutom att beskattningsår ska vara detsamma som räkenskapsår för svenska handelsbolag och europeiska ekonomiska intressegrupperingar i vissa lagar. Detta eftersom det i dag saknas reglering för vad som ska avses med beskattningsår för dessa.
 

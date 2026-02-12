@@ -6,7 +6,7 @@ Stort tack för att jag får vara här och träffa er idag. Och tack till alla e
 
 Jag är otroligt stolt över att vara den minister som har det samordnande ansvaret för hbtqi-frågor på nationell nivå. Vi vet alla att det finns stora och viktiga utmaningar. Målet är självklart – lika rättigheter och möjligheter. Inte ibland, inte lite grann, utan fullt ut.
 
-\*\*\*
+***
 
 För mig som ansvarig hbtqi-minister är det självklart att delta i prideparader. Jag kommer ihåg första gången jag firade pride. Då arbetade jag som åklagare och gick tillsammans med Åklagarmyndigheten.
 
@@ -24,7 +24,7 @@ Det här är tyvärr bara några exempel på extrema uttryck av vad hat och hot 
 
 Och vi får aldrig bli tysta. Vi kommer fortsätta att stå upp för dem som inte vågar, får eller kan. I vårt land och i världen.
 
-\*\*\*
+***
 
 I dag firar vi pride. Vi firar vår rätt att fredligt prata om det som borde vara en självklarhet, hbtqi-personers rättigheter. I Sverige tar vi det ibland för självklart. Men i många delar av världen är det fortfarande något som bara är en dröm.
 
@@ -40,19 +40,19 @@ Regeringen fortsätter att genom vår ambassad och EU-delegationen i Kampala fö
 
 Sverige har en mycket tydlig hållning. Vi är tydliga i vårt stöd av mänskliga rättigheter, oavsett sexuell läggning, könsuttryck och könsidentitet. Det kommer vi fortsätta med. Hbtqi-personer i Uganda står inte ensamma. Vi är med er.
 
-\*\*\*
+***
 
 Som hbtqi-minister vet jag om att vi behöver göra mer även i Sverige, inte minst när det gäller unga hbtqi-personer. Tyvärr är det alldeles för vanligt med kränkningar, otrygghet och psykisk ohälsa.
 
 Därför tillför regeringen i den senaste budgeten 10 miljoner nya kronor till arbetet för hbtqi-personers lika rättigheter och möjligheter. I dag vill jag också berätta att vi har gett ett nytt uppdrag att förstärka och bibehålla de viktiga mötesplatserna just för unga hbtqi-personer – i hela landet.
 
-\*\*\*
+***
 
 Att motverka våld och hedersförtryck i alla dess former är mycket prioriterat från regeringens sida. Vi vet att unga i Sverige utsätts för tvång och påtryckningar i syfte att förändras deras sexuella läggning, könsidentitet eller könsuttryck.
 
 Omvändelseförsök och omvändelseterapi är fullständigt oacceptabelt. Här behöver vi agera. Från regeringens sida ser därför över det straffrättsliga skyddet.
 
-\*\*\*
+***
 
 Något annat vi heller inte kan acceptera är våldet som sker i nära relationer. Det drabbar alla. För de som drabbas ska det finnas stöd. Sedan länge finns Kvinnofridslinjen, dit man kan ringa årets alla dagar. Nu har regeringen även inrättat en stödlinje för män, och en stödtelefon för transpersoner och icke-binära personer som utsätts för våld.
 

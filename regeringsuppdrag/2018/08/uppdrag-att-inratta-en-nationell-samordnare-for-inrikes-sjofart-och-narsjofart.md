@@ -8,7 +8,7 @@ Inom ramen för uppdraget ska samordnaren:
 * Initiera och främja samverkan mellan berörda aktörer, inklusive europeiska aktörer, och tillhandahålla ett forum för dialog och samarbete, såväl mellan aktörerna och regeringen som mellan aktörerna.
 * I dialog med berörda aktörer, utarbeta och bidra till att verkställa en handlingsplan som främjar inrikes sjöfart och närsjöfart, som också främjar energieffektiva lösningar med låga utsläpp av växthusgaser och föroreningar till såväl luft som vatten.
 * Ha en kunskapsspridande funktion och föra dialog med transportköpare, speditörer, hamnar, kommuner, rederier, transportföretag och andra relevanta aktörer om möjligheterna att på olika sätt stimulera en överflyttning av godstransporter från land- till
-  sjötransporter och därmed bidra till minskade utsläpp av luftföroreningar.
+sjötransporter och därmed bidra till minskade utsläpp av luftföroreningar.
 * Göra berörda aktörers arbete för att främja inrikes sjöfart och närsjöfart synligt, utmanande och inspirerande för andra och stimulera fler aktörer till att bidra till arbetet. I detta ingår att översiktligt sammanställa och beskriva aktörernas arbete och utifrån det identifiera goda exempel.
 * Analysera hur torrhamnar och omlastningskajer för sjöfart på inre vattenvägar, inklusive kajer i stadsmiljö, kan utvecklas för att bidra till ökad sjöfart, ökad hamnkapacitet och produktivitet, minskad trängsel, minskad klimat- och miljöpåverkan och regional utveckling, samt vilka aktörer som har ansvar för eventuella åtgärder som föreslås. Analysen ska även omfatta kopplingen till infrastrukturin-vesteringar. Eventuella åtgärder får inte vara förlag på nya större investeringar.
 

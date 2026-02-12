@@ -6,4 +6,4 @@ Det föreslås att utvidgade kontaktförbud ska kunna övervakas elektroniskt. D
 
 Lagändringarna föreslås träda i kraft den 1 juli 2018.
 
-[Pressmeddelande: Fler som bryter mot kontaktförbud ska beläggas med fotboja](/pressmeddelanden/2018/01/fler-som-bryter-mot-kontaktforbud-ska-belaggas-med-fotboja/)
+[Pressmeddelande: Fler som bryter mot kontaktförbud ska beläggas med fotboja](/pressmeddelanden/2018/01/fler-som-bryter-mot-kontaktforbud-ska-belaggas-med-fotboja/)

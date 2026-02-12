@@ -8,7 +8,7 @@ Kommissionen ska bland annat:
 
 * utvärdera regeringens, berörda förvaltningsmyndigheters, regionernas och kommunernas åtgärder för att hantera virusutbrottet och utbrottets effekter,
 * utvärdera hur krisorganisationen inom Regeringskansliet, berörda förvaltningsmyndigheter, regioner och kommuner har fungerat under
-  pandemin,
+pandemin,
 * utvärdera hur ansvarsprincipen och det geografiska områdesansvaret har fungerat under krisen, och
 * lämna de förslag på åtgärder som kommissionens iakttagelser ger anledning till.
 

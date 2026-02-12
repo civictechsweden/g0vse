@@ -1,4 +1,4 @@
-# Kompletterande förslag till betänkandet Skärpta och tydligare krav på vandel för uppehållstillstånd (SOU 2025:33)Ju2025/02026
+# Kompletterande förslag till betänkandet Skärpta och tydligare krav på vandel för uppehållstillstånd (SOU 2025:33)
 
 I promemorian lämnas kompletterande förslag i förhållande till Vandelsutredningens betänkande Skärpta och tydligare krav på vandel för uppehållstillstånd (SOU 2025:33).
 

@@ -313,7 +313,7 @@ Arbetsmarknadsdepartementet ansvarar för frågor och ärenden som rör arbetsma
 
 Pressekreterare Jennie Zetterström
 
-Tfn 073-053 92 70
+Tfn 073-053 92 70
 
 **Presskontakt hos jämställdhets- och bostadsminister samt minister med ansvar för stadsutveckling och arbetet mot segregation och diskriminering Märta Stenevi:**
 
@@ -531,7 +531,7 @@ Vid en kris kan ett finansiellt företag försättas i resolution i stället fö
 
 ### Vissa utpekade myndigheter ska ansluta sig till Statens servicecenters tjänster för elektronisk beställnings- och fakturahantering
 
-**Ändring:** Förordningen (2015:665) om statliga myndigheters användning av Statens servicecenters tjänster
+**Ändring:** Förordningen (2015:665) om statliga myndigheters användning av Statens servicecenters tjänster
 
 **Beslutsunderlag:** Promemorian Anslutning till Statens servicecenters tjänster för elektronisk beställnings- och fakturahan­tering (Fi2019/02671/SFÖ)
 
@@ -583,7 +583,7 @@ Tullverkets befogenhet att besluta om kvarhållande av postförsändelser som ka
 
 Tulltjänstemän ges en utökad möjlighet att ingripa vid misstanke om brott som Tullverket inte har befogenhet att utreda. I samband med ingripandet får en tulltjänsteman hålla inledande förhör och även i övrigt vidta primära utredningsåtgärder.
 
-Ingripandet får enligt huvudregeln ske efter förfrågan till och godkännande av Polismyndigheten. Ett ingripande kan dock göras utan godkännande om det är fara i dröjsmål,  till exempel om det finns risk att en person avviker innan Polismyndigheten hinner kontaktas och komma till platsen.  Vidare får en undersökningsledare i vissa fall begära biträde av Tullverket sedan Polismyndigheten inlett en förundersökning eller om en sådan redan är inledd när en förfrågan om samtycke eller en rapportering sker.
+Ingripandet får enligt huvudregeln ske efter förfrågan till och godkännande av Polismyndigheten. Ett ingripande kan dock göras utan godkännande om det är fara i dröjsmål, till exempel om det finns risk att en person avviker innan Polismyndigheten hinner kontaktas och komma till platsen. Vidare får en undersökningsledare i vissa fall begära biträde av Tullverket sedan Polismyndigheten inlett en förundersökning eller om en sådan redan är inledd när en förfrågan om samtycke eller en rapportering sker.
 
 Dessutom ändras bland annat bestämmelserna om när en tulltjänsteman får använda sig av fängsel och utföra kroppsvisitation så att det kan användas i fler situationer jämfört med tidigare.
 
@@ -599,7 +599,7 @@ Dessutom ändras bland annat bestämmelserna om när en tulltjänsteman får anv
 
 **Ikraftträdande:** 1 maj 2021 (gäller retroaktivt från och med den 1 januari 2021)
 
-Under 2020 slopades tillfälligt förmånsbeskattningen för fri parkering till anställda i anslutning till arbetsplatsen. Det infördes även en tillfällig skatte- och avgiftsfrihet för gåvor som arbetsgivare ger till anställda upp till ett värde på 1 000 kronor per år och anställd. Båda skattelättnaderna förlängs nu så att de gäller även 2021. Dessutom höjs beloppsgränsen för gåvorna till 2 000 kronor per anställd.
+Under 2020 slopades tillfälligt förmånsbeskattningen för fri parkering till anställda i anslutning till arbetsplatsen. Det infördes även en tillfällig skatte- och avgiftsfrihet för gåvor som arbetsgivare ger till anställda upp till ett värde på 1 000 kronor per år och anställd. Båda skattelättnaderna förlängs nu så att de gäller även 2021. Dessutom höjs beloppsgränsen för gåvorna till 2 000 kronor per anställd.
 
 ### Beslut om stöd vid korttidsarbete blir offentliga
 
@@ -623,7 +623,7 @@ Det införs ett undantag i sekretessreglerna så att allmänheten och journalist
 
 **Ikraftträdande:** Den 19 juni 2021
 
-Under perioden januari 2021 till och med mars 2023 betalar arbetsgivare en lägre arbetsgivaravgift för personer som är 19–23 år. Nedsättningen förstärks nu ytterligare så att endast ålderspensionsavgiften på 10,21 procent betalas under juni-augusti 2021. Nedsättningen gäller ersättningar upp till 25 000 kronor per månad.
+Under perioden januari 2021 till och med mars 2023 betalar arbetsgivare en lägre arbetsgivaravgift för personer som är 19–23 år. Nedsättningen förstärks nu ytterligare så att endast ålderspensionsavgiften på 10,21 procent betalas under juni-augusti 2021. Nedsättningen gäller ersättningar upp till 25 000 kronor per månad.
 
 ### Tillfällig nedsättning av arbetsgivaravgifter för upp till två anställda
 
@@ -673,7 +673,7 @@ Infrastrukturdepartementet har ansvar för frågor som rör transporter och infr
 
 Pressekreterare Lovisa Alm
 
-Tfn  073-073 97 53
+Tfn 073-073 97 53
 
 **Presskontakt hos energi- och digitaliseringsminister Anders Ygeman:**
 
@@ -697,7 +697,7 @@ Lagen syftar till att skapa särskilda drivkrafter för elnätsföretag att gör
 
 **Ändring:** Luftfartsförordningen (2010:770)
 
-Beslutsunderlag:  Promemoria som utarbetats i Infrastrukturdepartementet hösten 2020
+Beslutsunderlag: Promemoria som utarbetats i Infrastrukturdepartementet hösten 2020
 
 **SFS:** 2021:361
 
@@ -745,11 +745,11 @@ Utbildningen ska innehålla både praktiska och teoretiska moment och lägga sä
 
 **SFS:** 2021:412-413
 
-**Ikraftträdande:** 1 juli 2021
+**Ikraftträdande:** 1 juli 2021
 
 En reduktionsplikt för flygfotogen införs. Syftet är att minska växthusgasutsläppen från flyget. Reduktionsplikten innebär att leverantörer av flygfotogen blir skyldiga att blanda in biodrivmedel i fossil flygfotogen. Nivåer för hur mycket utsläppen ska minska föreslås för 2021–2030.
 
-Kravet på inblandning börjar på 0,8 procent 2021 för att successivt öka till 27 procent 2030. Den som inte har uppfyllt plikten för ett kalenderår ska betala en reduktionspliktsavgift. En förseningsavgift ska tas ut av den som för sent redovisar hur plikten har uppfyllts.
+Kravet på inblandning börjar på 0,8 procent 2021 för att successivt öka till 27 procent 2030. Den som inte har uppfyllt plikten för ett kalenderår ska betala en reduktionspliktsavgift. En förseningsavgift ska tas ut av den som för sent redovisar hur plikten har uppfyllts.
 
 Ändringen har sin grund i januariavtalet, den sakpolitiska överenskommelsen mellan Socialdemokraterna, Centerpartiet, Liberalerna och Miljöpartiet.
 
@@ -761,11 +761,11 @@ Kravet på inblandning börjar på 0,8 procent 2021 för att successivt öka ti
 
 **SFS:** 2021:668-671
 
-**Ikraftträdande:** 1 juli 2021– lagen om hållbarhetskriterier för biodrivmedel och flytan­de biobränslen; 1 januari 2022 – lagen om elcertifikat och i lagen om skatt på energi
+**Ikraftträdande:** 1 juli 2021– lagen om hållbarhetskriterier för biodrivmedel och flytan­de biobränslen; 1 januari 2022 – lagen om elcertifikat och i lagen om skatt på energi
 
 Hållbarhetskriterier införs för fasta och gasformiga bio­bränslen som används för produktion av el, värme, kyla eller bränslen i anläggningar av en viss storlek. För att sådana biobränslen ska kunna få ett hållbarhetsbesked, vilket exempelvis krävs för skattenedsättning eller tilldelning av elcertifikat, får de inte komma från mark med stor biologisk mångfald eller stora kollager. Det finns också begränsningar för hur höga utsläppen av växthusgaser får vara.
 
-Särskilda hållbarhetskriterier införs för skogsbiomassa som an­vänds för produktion av biodrivmedel och biobränslen. Om avfall och restprodukter som kommer från jordbruksmark används för framställning av biodrivmedel eller biobränslen, ska det finnas övervaknings- eller förvaltningsplaner för att hantera påverkan på jordbeskaffenheten och markens kollager. Lagändringarna genomför artiklarna 28–31 i Europaparlamentets och rådets direktiv (EU) 2018/2001 av den 11 december 2018 om främjande av användningen av energi från förnybara energikällor.
+Särskilda hållbarhetskriterier införs för skogsbiomassa som an­vänds för produktion av biodrivmedel och biobränslen. Om avfall och restprodukter som kommer från jordbruksmark används för framställning av biodrivmedel eller biobränslen, ska det finnas övervaknings- eller förvaltningsplaner för att hantera påverkan på jordbeskaffenheten och markens kollager. Lagändringarna genomför artiklarna 28–31 i Europaparlamentets och rådets direktiv (EU) 2018/2001 av den 11 december 2018 om främjande av användningen av energi från förnybara energikällor.
 
 ## Lagar och förordningar med anledning av coronapandemin
 
@@ -1174,7 +1174,7 @@ I samband med att redaktionsstödet infördes 2020 gjordes vissa lättnader i kr
 
 **Ikraftträdande:** 4 mars 2021
 
-Genom ändringen införs en möjlighet att ansöka om stöd för kulturevenemang som skulle ha hållits mellan 1 oktober och 31 december 2020 och som ställts in eller skjutits upp på grund av ett förbud meddelat av regeringen eller länsstyrelserna.
+Genom ändringen införs en möjlighet att ansöka om stöd för kulturevenemang som skulle ha hållits mellan 1 oktober och 31 december 2020 och som ställts in eller skjutits upp på grund av ett förbud meddelat av regeringen eller länsstyrelserna.
 
 Ändringen bygger på en överenskommelse mellan regeringen, Centerpartiet och Liberalerna.
 
@@ -1221,7 +1221,7 @@ Tfn 073-078 24 75
 
 **Ikraftträdande:** 1 april 2021
 
-Utsläppsgränsen skärps till 60 gram CO2/km och högsta bonusbeloppet höjs till 70 000 kronor för klimatbonusbilar. Det högsta bonusbeloppet ges endast till nollutsläppsfordon medan övriga bilar får högst cirka 45 000 kronor i bonus beroende på utsläppsnivå, utifrån en justerad beräkningsmodell.
+Utsläppsgränsen skärps till 60 gram CO2/km och högsta bonusbeloppet höjs till 70 000 kronor för klimatbonusbilar. Det högsta bonusbeloppet ges endast till nollutsläppsfordon medan övriga bilar får högst cirka 45 000 kronor i bonus beroende på utsläppsnivå, utifrån en justerad beräkningsmodell.
 
 ### Möjligheten att ge dispens från EU:s kemikalielagstiftning utökas
 
@@ -1415,6 +1415,8 @@ Pressekreterare Sofia Brändström
 
 Tfn 073-065 16 12
 
+
+
 Presskontakt hos socialförsäkringsminister Ardalan Shekarabi:
 
 Pressekreterare Hanna Kretz
@@ -1427,7 +1429,7 @@ Ny lag: Lagen (2018:1212) om nationell läkemedelslista
 
 Ny förordning: Förordningen (2021:67) om nationell läkemedelslista
 
-Ändringar:  Lagen (2018:1213) om ändring i lagen (1996:1157) om läkemedelskommittéer, lagen (2018:1214) om ändring i patientdatalagen (2008:355), lagen (2018:1215) om ändring i lagen (2009:366) om handel med läkemedel mfl.
+Ändringar: Lagen (2018:1213) om ändring i lagen (1996:1157) om läkemedelskommittéer, lagen (2018:1214) om ändring i patientdatalagen (2008:355), lagen (2018:1215) om ändring i lagen (2009:366) om handel med läkemedel mfl.
 
 Beslutsunderlag: Prop. 2017/18:223 Nationell läkemedelslista, prop. 2017/18:233 Utökade möjligheter till utbyte av läkemedel, prop. 2019/20:158 Senarelagt införande av nationell läkemedelslista och bastjänstgöring för läkare
 
@@ -1585,7 +1587,7 @@ Tfn 073-842 50 59
 
 Ändringarna innebär att en rektor för sin skolenhet får möjlighet att besluta att betyg ska sättas från och med årskurs 4 i grundskolan, grundsärskolan och sameskolan och från och med årskurs 5 i specialskolan. Lärarna ska ges tillfälle att yttra sig inför beslutet. Rektorn ska snarast underrätta huvudmannen skriftligen om beslutet och huvudmannen ska anmäla det till Statens skolverk.
 
-Ett beslut om att tidigare betygssättning ska upphöra att gälla ska fattas i samma ordning som ett beslut om att införa tidigare betyg. Bestämmelser om betyg i skollagen och andra författningar ska gälla vid tidigare betygssättning men med vissa anpassningar till dessa årskurser.  Beslutet ska fattas senast den 30 april före det läsår då beslutet ska börja gälla.
+Ett beslut om att tidigare betygssättning ska upphöra att gälla ska fattas i samma ordning som ett beslut om att införa tidigare betyg. Bestämmelser om betyg i skollagen och andra författningar ska gälla vid tidigare betygssättning men med vissa anpassningar till dessa årskurser. Beslutet ska fattas senast den 30 april före det läsår då beslutet ska börja gälla.
 
 Ändringarna har sin grund i januariavtalet, den sakpolitiska överenskommelsen mellan Socialdemokraterna, Centerpartiet, Liberalerna och Miljöpartiet de gröna.
 
@@ -1697,7 +1699,7 @@ Bestämmelsen om högskolornas samverkansuppgift ändras så att det i högskolo
 
 **SKOLFS:** 2021:5–11
 
-**Ikraftträdande:** 1 juli 2021
+**Ikraftträdande:** 1 juli 2021
 
 I läroplanerna förstärks skrivningar om sexualitet, samtycke och relationer. Ändringarna innebär bland annat att undervisningen i detta kunskapsområde ska ske återkommande och i högre grad bidra till att främja elevernas hälsa och välbefinnande samt stärka deras förmåga att göra medvetna och självständiga val.
 
@@ -1743,7 +1745,7 @@ Kursplanerna i grundskolan och vissa ämnesplaner på gymnasial nivå har revide
 
 **SFS: 2021:**142 och 2021:000
 
-**Ikraftträdande:** 1 mars 2021 för första halvåret 2021 och 1 augusti 2021 för andra halvåret 2021
+**Ikraftträdande:** 1 mars 2021 för första halvåret 2021 och 1 augusti 2021 för andra halvåret 2021
 
 Ändringarna innebär att det så kallade fribeloppet för studiemedel slopas även under 2021. Fribeloppet reglerar hur hög inkomst en studerande kan ha utan att studiemedlen minskas. Fribeloppet slopades tillfälligt under 2020 för att bland annat säkerställa att studerande skulle kunna arbeta inom samhällsbärande funktioner utan att deras studiestöd påverkades. Ett annat syfte var att öka incitamenten för varslade eller uppsagda personer att börja studera. Till följd av den fortsatta spridningen av covid-19 förlängs det slopade fribeloppet.
 
@@ -1787,7 +1789,7 @@ Utrikesdepartementet ansvarar för Sveriges utrikes-, bistånds- och utrikeshand
 
 Pressekreterare Klara Watmani
 
-Tfn  073-072 59 27
+Tfn 073-072 59 27
 
 Pressekreterare Andreas Enbuske
 
@@ -1797,7 +1799,7 @@ Tfn 076-130 58 86
 
 Pressekreterare Vidar Jakobínuson Lindgren
 
-Tfn  073-840 33 12
+Tfn 073-840 33 12
 
 Presskontakt hos biståndminister Per Olsson Fridh:
 Pressekreterare Robert Englund

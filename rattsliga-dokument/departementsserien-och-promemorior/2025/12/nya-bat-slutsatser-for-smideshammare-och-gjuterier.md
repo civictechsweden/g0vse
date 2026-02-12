@@ -1,4 +1,4 @@
-# Nya BAT-slutsatser för smideshammare och gjuterierDnr KN2025/01016
+# Nya BAT-slutsatser för smideshammare och gjuterier
 
 Promemorian innehåller förslag på nya bestämmelser i industriutsläppsförordningen. Ändringarna behövs för att genomföra Europeiska kommissionens genomförandebeslut (EU) 2024/2974 av den 29 november 2024 om fastställande av BAT slutsatser för smideshammare och gjuterier, i enlighet med Europaparlamentets och rådets direktiv 2010/75/EU om industriutsläpp.
 

@@ -1,4 +1,4 @@
-# Ett språkkrav inom äldreomsorgenProp. 2025:26:93
+# Ett språkkrav inom äldreomsorgen
 
 Regeringen föreslår att socialtjänstlagen ändras. De som bedriver verksamhet om äldre ska arbeta för att personal, som genomför omsorgsinsatserna, har de kunskaper i svenska språket som är relevanta för att kunna genomföra insatserna.
 

@@ -16,7 +16,7 @@ Genom att ta hand om ungdomsgenerationen och den ökande andelen i arbetsför å
 
 - SRHR är grundläggande för att nå utveckling, säger Anna Johansson Dahl från RFSU.
 
-Sverige spelar en stor roll när det gäller att stå upp för SRHR-frågor, men i en internationell kontext är SRHR ett känsligt ämne som ofta möter sociala och politiska hinder. Under lanseringen diskuterade en ungdomspanel med representanter från FN-förbundet, LSU och FRSU, kring hur man bör bemöta dessa hinder och varför det är viktigt med engagerade ungdomar.  Fortsatt och ökat engagemang från civilsamhället och utvecklad kunskap om teknik och sociala medier för att sprida information är två viktiga komponenter.
+Sverige spelar en stor roll när det gäller att stå upp för SRHR-frågor, men i en internationell kontext är SRHR ett känsligt ämne som ofta möter sociala och politiska hinder. Under lanseringen diskuterade en ungdomspanel med representanter från FN-förbundet, LSU och FRSU, kring hur man bör bemöta dessa hinder och varför det är viktigt med engagerade ungdomar. Fortsatt och ökat engagemang från civilsamhället och utvecklad kunskap om teknik och sociala medier för att sprida information är två viktiga komponenter.
 
 - Vi måste fortsätta arbeta med kunskaps- och informationsspridning och uppmuntra ungdomar att engagera sig, säger Sophia Tuwesdotter från FN-förbundet.
 

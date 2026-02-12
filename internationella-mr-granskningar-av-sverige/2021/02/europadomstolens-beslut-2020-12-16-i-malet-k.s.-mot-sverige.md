@@ -5,4 +5,5 @@ Fråga om det skulle strida mot artikel 3 eller artikel 8 i Europakonventionen a
 Länk till beslutet i fulltext:
 [K.S. mot Sverige i Europadomstolens databas HUDOC (engelska)](https://hudoc.echr.coe.int/eng#{"itemid":["001-207699"]} "K.S. mot Sverige i Europadomstolens databas HUDOC (engelska)")
 
-**Sammanfattning av beslutet**Europadomstolen beslutade den 16 december 2020 att klagomålet skulle avvisas såsom uppenbart ogrundat.
+**Sammanfattning av beslutet**
+Europadomstolen beslutade den 16 december 2020 att klagomålet skulle avvisas såsom uppenbart ogrundat.

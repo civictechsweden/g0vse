@@ -1,4 +1,4 @@
-# Uppdrag till E-hälsomyndigheten och Socialstyrelsen om sammanhållen intygshanteringDiarienummer: S2025/01192
+# Uppdrag till E-hälsomyndigheten och Socialstyrelsen om sammanhållen intygshantering
 
 Regeringen uppdrar åt E-hälsomyndigheten och Socialstyrelsen att fortsätta arbetet med att utveckla och tillhandahålla en sammanhållen intygshantering för intyg från hälso- och sjukvården, socialtjänsten och tandvården.
 

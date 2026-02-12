@@ -1,4 +1,4 @@
-# Uppdrag till Myndigheten för ungdoms- och civilsamhällesfrågor att förbereda och genomföra ett inordnande av den verksamhet inom minoritetspolitiken som Länsstyrelsen i Stockholms län ansvarar förDiarienummer: Ku2024/01003
+# Uppdrag till Myndigheten för ungdoms- och civilsamhällesfrågor att förbereda och genomföra ett inordnande av den verksamhet inom minoritetspolitiken som Länsstyrelsen i Stockholms län ansvarar för
 
 Regeringen ger Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF) i uppdrag att förbereda och genomföra inordnandet av den verksamhet inom minoritetspolitiken som Länsstyrelsen i Stockholms län (länsstyrelsen) ansvarar för. Verksamheten ska vara inordnad den 1 januari 2026.
 
@@ -14,6 +14,6 @@ MUCF ska vid genomförandet av uppdraget beakta 6 b § lagen (1982:80) om anstä
 
 MUCF ska löpande informera Regeringskansliet (Kulturdepartementet) om hur arbetet med uppdraget fortskrider.
 
-MUCF ska redovisa en samlad slutrapport av uppdraget till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2026. Redovisningen av uppdraget ska hänvisa till diarienumret för detta beslut.
+MUCF ska redovisa en samlad slutrapport av uppdraget till Regeringskansliet (Kulturdepartementet) senast den 31 mars 2026. Redovisningen av uppdraget ska hänvisa till diarienumret för detta beslut.
 
 Uppdraget ges med förbehåll för riksdagens godkännande i nödvändiga delar.

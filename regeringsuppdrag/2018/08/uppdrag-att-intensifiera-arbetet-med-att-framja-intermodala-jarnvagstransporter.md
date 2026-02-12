@@ -5,7 +5,9 @@ Regeringen uppdrar åt Trafikverket att intensifiera arbetet med att främja int
 Inom ramen för uppdraget ska Trafikverket:
 
 1. Initiera och främja samverkan mellan berörda aktörer. Föra dialog med transportköpare, speditörer, företag som driver kombiterminaler, transportföretag, hamnbolag, kommuner, företag som utvecklar och tillhandahåller teknik för omlastning och andra relevanta aktörer om möjligheterna att på olika sätt få till stånd en överflyttning av godstransporter från väg till järnväg.
+
 2. Identifiera och sprida information och kunskap om innovativa lösningar och ny teknik som kan bidra till fler intermodala godstransporter som inkluderar järnväg, inklusive automatiserad omlastning.
+
 3. Identifiera eventuella hinder för ökad omlastning till järnväg, samt analysera och föreslå hur ökad intermodalitet kan stimuleras, exempelvis med nya tekniska lösningar.
 
 Trafikverket ska utgå från egna och andra relevanta aktörers erfarenheter från arbete med att introducera ny teknik inom andra trafikslag.

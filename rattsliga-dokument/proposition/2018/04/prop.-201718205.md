@@ -10,4 +10,4 @@ I syfte att genomföra NIS-direktivet i svensk rätt föreslår regeringen en ny
 
 Den nya lagen föreslås träda i kraft den 1 augusti 2018.
 
-[Pressmeddelande: Stärkt skydd av informationssystem](/pressmeddelanden/2018/04/starkt-skydd-av-informationssystem/)
+[Pressmeddelande: Stärkt skydd av informationssystem](/pressmeddelanden/2018/04/starkt-skydd-av-informationssystem/)

@@ -31,7 +31,9 @@ Samtidigt är klimathotet ett faktum och det är bråttom att få rätt åtgärd
 Vi lovade att höja tempot dramatiskt på avgörande punkter. Det levererar vi nu, beslut efter beslut:
 
 * Förenkla och korta tillståndsprövningarna. I måndags presenterade samarbetspartierna en ny utredning för att ta ett helhetsgrepp kring tillståndsprocesser. Men redan i höst kommer skarpa förslag för att skynda på besluten.
+
 * Mer sol- och vindkraft. Nyligen gav regeringen grönt ljus till att bygga två vindkraftsparker ca 25 km ut till havs utanför Varberg och Falkenberg. Vi har också tagit steg för att stimulera solkraftsproduktionen genom att öka avdraget för hushållen att installera solceller.
+
 * Mer kärnkraft och elektrifiering. Regeringen gör en historisk satsning på över 4 miljarder kronor för laddinfrastruktur. Samtidigt har vi gett Svenska kraftnät och Energimyndigheten i uppdrag att stärka elsystemets motståndskraft. Regeringen har lagt förslag för att ta bort förbudet mot fler reaktorer än tio rektorer, och möjliggjort för nya reaktorer på nya platser. I nästa vecka röstar riksdagen om att ändra det energipolitiska målet till 100 procent fossilfri elproduktion 2040. Vattenfall ska under sommaren inleda formella dialoger med boende runt Ringhals för att kunna bygga ny kärnkraft.
 
 Vi är övertygade om att framgångsrikt klimatarbete utformas i samspelet mellan EU:s klimatregler och näringslivets unika anpassningsförmåga. Vi vet att det går att kombinera högt ställda klimatmål med stärkt konkurrenskraft, fler jobb och en god välfärd. Politikens främsta uppgift blir att skapa de rätta förutsättningarna för den gröna omställningen bland annat genom tillgången till stora mängder fossilfri energi och effektiva tillståndsprocesser. Så når vi nettonollutsläpp år 2045.

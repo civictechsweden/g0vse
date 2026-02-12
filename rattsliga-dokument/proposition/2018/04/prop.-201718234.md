@@ -6,4 +6,4 @@ För att genomföra PNR-direktivet i svensk rätt föreslår regeringen en lag o
 
 Den nya lagen föreslås träda i kraft den 1 augusti 2018.
 
-[Pressmeddelande: Flygpassageraruppgifter ska användas för att bekämpa terrorism och annan allvarlig brottslighet](/pressmeddelanden/2018/04/flygpassageraruppgifter-ska-anvandas-for-att-bekampa-terrorism-och-annan-allvarlig-brottslighet/)
+[Pressmeddelande: Flygpassageraruppgifter ska användas för att bekämpa terrorism och annan allvarlig brottslighet](/pressmeddelanden/2018/04/flygpassageraruppgifter-ska-anvandas-for-att-bekampa-terrorism-och-annan-allvarlig-brottslighet/)

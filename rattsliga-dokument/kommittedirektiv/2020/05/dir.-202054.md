@@ -19,6 +19,8 @@ Det ingår inte i uppdraget att föreslå ändringar i grundlag.
 
 Uppdraget ska redovisas senast den 12 november 2021.
 
+
+
 -------
 
 Regeringen beslutade den 17 juni om förlängd tid för uppdrget. Uppdraget ska i stället redovisas senast den 17 januari 2022.

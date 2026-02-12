@@ -1,4 +1,4 @@
-# Remiss av Åtgärder för att säkerställa veterinär beredskap under jourtid (Ds 2025:27)Diarienummer: LI2025/01648
+# Remiss av Åtgärder för att säkerställa veterinär beredskap under jourtid (Ds 2025:27)
 
 Här kan du ta del av remissinstansernas svar på regeringens remiss Åtgärder för att säkerställa veterinär beredskap under jourtid (Ds 2025:27).
 

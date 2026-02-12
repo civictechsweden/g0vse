@@ -42,6 +42,6 @@ Schweiz nyutnämnde ambassadör Mr. Christian Schoenenberger är född 1957 och 
 Amerikas förenta staters nyutnämnde ambassadör Ms. Azita Raji är född 1961 och har bland annat en omfattande erfarenhet av internationell affärsverksamhet. Hon har även många heders- och styrelseuppdrag. Ambassadör Raji var under 2012 vice ordförande i finanskommittén för president Obamas återvalskampanj. De senaste åren har hon bland annat haft följande befattningar:
 
 * 2013–2016 Medlem i Vita husets kommission för dess mentorprogram
-  Rådgivare vid Center for American Progress
-  Komissionär vid Smithsonian National Portrait Gallery
+Rådgivare vid Center for American Progress
+Komissionär vid Smithsonian National Portrait Gallery
 * 2011–2013 Styrelsemedlem Columbia Business School

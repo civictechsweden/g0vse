@@ -7,7 +7,7 @@ Registret ska samla uppgifter om bland annat patienters förskrivna läkemedel. 
 ### Ökad patientsäkerhet och effektivare arbete
 
 Den nationella läkemedelslistan ska öka patientsäkerheten och effektivisera arbetet vid ordination och förskrivning av läkemedel.
-Regeringen föreslår att en ny lag – lag om nationell läkemedelslista – ersätter lagen om receptregister och lagen om läkemedelsförteckning.
+Regeringen föreslår att en ny lag – lag om nationell läkemedelslista – ersätter lagen om receptregister och lagen om läkemedelsförteckning.
 
 ### Integritetshöjande åtgärder
 

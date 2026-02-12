@@ -8,7 +8,7 @@ Utgångspunkten ska vara att systemet ska främja en snabb etablering i arbets- 
 
 Utredaren ges också i uppdrag att förbättra systemet för statlig ersättning till kommuner och landsting.
 
-Utredaren ska utreda och lämna förslag inom bland annat följande områden:
+Utredaren ska utreda och lämna förslag inom bland annat följande områden:
 
 * bosättning av asylsökande och nyanlända samt anvisning av ensamkommande barn
 * överenskommelser med kommuner

@@ -1,4 +1,4 @@
-# Promemoria Lättnader för företag vid tillämpningen av reglerna om kör- och vilotider och färdskrivare
+# Lättnader för företag vid tillämpningen av reglerna om kör- och vilotider och färdskrivare
 
 I promemorian föreslås att vid överträdelse av reglerna om kör- och vilotider och färdskrivare ska transportföretaget meddelas en varning i stället för att påföras en sanktionsavgift, om en varning är tillräcklig med hänsyn till överträdelsens allvar och omständigheterna i övrigt.
 

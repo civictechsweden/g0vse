@@ -18,4 +18,4 @@ Skyddet för företagshemligheter får inte leda till att arbetstagare känner s
 
 Den nya lagen och lagändringarna föreslås träda i kraft den 9 juni 2018.
 
-[Pressmeddelande: Regeringen presenterar en ny lag om företagshemligheter](/pressmeddelanden/2018/02/regeringen-presenterar-en-ny-lag-om-foretagshemligheter/ "Pressmeddelande: Regeringen presenterar en ny lag om företagshemligheter")
+[Pressmeddelande: Regeringen presenterar en ny lag om företagshemligheter](/pressmeddelanden/2018/02/regeringen-presenterar-en-ny-lag-om-foretagshemligheter/ "Pressmeddelande:&nbsp;Regeringen presenterar en ny lag om företagshemligheter")

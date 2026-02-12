@@ -15,4 +15,4 @@ I analysen av olika modeller ska myndigheterna ta hänsyn till om det är möjli
 
 Myndigheterna ska därefter bedöma om man kan öka incitamenten för att behålla äldre antibiotika på marknaden eller få tillbaka värdefull antibiotika som fursvunnit.
 
-Myndigheterna samverkar med varandra och med andra aktörer som har betydelse. TLV ansvarar i huvudsak för att rapportera och delredovisar  uppdraget i april 2022. Uppdraget slutredovisas senast den 1 november 2022.
+Myndigheterna samverkar med varandra och med andra aktörer som har betydelse. TLV ansvarar i huvudsak för att rapportera och delredovisar uppdraget i april 2022. Uppdraget slutredovisas senast den 1 november 2022.

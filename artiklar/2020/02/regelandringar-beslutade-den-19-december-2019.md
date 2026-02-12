@@ -4,7 +4,7 @@
 
 Regeringen har beslutat om en ändring i förordningen med instruktion för Klimatpolitiska rådet så att ledamöterna i rådet kan få sina förordnanden förlängda om det finns särskilda skäl.
 
-Ändringen träder i kraft den 1 februari 2020.
+Ändringen träder i kraft den 1 februari 2020.
 
 **Referenser**
 

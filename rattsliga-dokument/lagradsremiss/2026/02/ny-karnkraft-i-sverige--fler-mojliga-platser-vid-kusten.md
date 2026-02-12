@@ -1,4 +1,4 @@
-# Ny kärnkraft i Sverige – fler möjliga platser vid kustenKN2026/00246
+# Ny kärnkraft i Sverige – fler möjliga platser vid kusten
 
 Lagrådsremissen innehåller förslag som syftar till att möjliggöra utbyggnaden av kärnkraft på fler platser vid kusten, samtidigt som skyddet för natur- och kulturvärden upprätthålls.
 

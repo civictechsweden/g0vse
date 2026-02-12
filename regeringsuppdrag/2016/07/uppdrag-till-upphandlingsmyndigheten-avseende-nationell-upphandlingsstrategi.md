@@ -4,4 +4,4 @@ Upphandlingsmyndigheten ges i uppdrag att verka för att den nationella upphandl
 
 Upphandlingsmyndigheten får även i uppdrag att följa upp hur upphandlingsstrategin har påverkat upphandlande myndigheters och enheters inköpsarbete samt vilka övriga effekter som kan påvisas med anledning av strategin.
 
-Upphandlingsmyndigheten ska senast den 30 september 2017 till regeringen (Finansdepartementet) lämna en redogörelse för uppföljningen av den nationella upphandlingsstrategin.
+Upphandlingsmyndigheten ska senast den 30 september 2017 till regeringen (Finansdepartementet) lämna en redogörelse för uppföljningen av den nationella upphandlingsstrategin.

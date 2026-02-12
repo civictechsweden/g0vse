@@ -5,10 +5,10 @@ Regeringen ger i uppdrag åt de tolv myndigheter som ingår i samverkan mot grov
 I uppdraget ingår att:
 
 * Kartlägga personer inom organiserad brottslighet med koppling till
-  näringsverksamhet.
+näringsverksamhet.
 * Kartlägga påtryckningar, trakasserier eller brott mot näringsidkare som ett led i organiserad brottslighet.
 * Genomföra systematiska kontroller avseende efterlevnaden av regler och lagar som berör den som bedriver eller kan antas bedriva
-  näringsverksamhet eller ekonomisk verksamhet.
+näringsverksamhet eller ekonomisk verksamhet.
 
 Myndigheterna ska i så stor utsträckning som möjligt använda sig av de erfarenheter som har inhämtats inom ramen för uppdraget om metodutveckling för myndighetsgemensam kontroll för att motverka fusk, regelöverträdelser och brottslighet i arbetslivet (A2017/02422/ARM).
 
@@ -16,6 +16,8 @@ Till pilotprojektet ska myndigheterna identifiera ytterligare samarbetspartners,
 
 Uppdraget ska samordnas av Polismyndigheten och redovisas till regeringen (Justitiedepartementet) senast den 1 oktober 2021. Myndigheterna ska löpande informera Regeringskansliet om arbetet.
 
-\_\_\_\_
+
+
+____
 
 ¹ Arbetsmiljöverket, Bolagsverket, Centrala studiestödsnämnden, Finansinspektionen, Inspektionen för vård och omsorg, Pensionsmyndigheten, Statens institutionsstyrelse, Transportstyrelsen samt Länsstyrelsen i Stockholms län.

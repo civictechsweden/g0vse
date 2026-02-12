@@ -1,6 +1,6 @@
 # Kommenterad dagordning, rådet för utrikesfrågor (handel), den 11 november 2016
 
-På mötet den 11 november 2016 finns följande punkter på dagordningen:
+På mötet den 11 november 2016 finns följande punkter på dagordningen:
 
 * Förslaget om att modernisera de handelspolitiska skyddsåtgärderna, samt ny antidumpnings-metod
 * WTO: Post Nairobi

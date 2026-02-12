@@ -10,7 +10,7 @@ Regeringen genomför en historiskt stor satsning på återbyggnaden av det civil
 
 I ljuset av Rysslands brutala krigföring – där civil infrastruktur och civilbefolkning snarare än att fredas har blivit strategiska mål för Ryssland – är det uppenbart att det väpnade angreppet ska vara dimensionerande för det civila försvaret. Klarar vi av att hantera ett väpnat angrepp kommer vi också klara av att hantera en kris, som en naturkatastrof eller strömavbrott. Det civila försvaret måste kunna skydda civilbefolkningen och civil infrastruktur såväl som stödja det militära försvaret i dess uppgifter.
 
-Vi har en gedigen uppgift i att förbättra vår beredskap. Staten, kommuner, regioner, näringslivet och civilsamhället har viktiga funktioner i det civila försvaret. Men den mest grundläggande beståndsdelen i vår beredskap och motståndskraft är varje enskild svensk. Samhällets förmåga att motstå kriser och krig hänger på vår personliga beredskap, försvarsvilja och kristålighet.
+Vi har en gedigen uppgift i att förbättra vår beredskap. Staten, kommuner, regioner, näringslivet och civilsamhället har viktiga funktioner i det civila försvaret. Men den mest grundläggande beståndsdelen i vår beredskap och motståndskraft är varje enskild svensk. Samhällets förmåga att motstå kriser och krig hänger på vår personliga beredskap, försvarsvilja och kristålighet.
 
 Jag vill därför uppmana alla stärka sin personliga beredskap, eller sin hemberedskap som det kallas. Förhoppningsvis slipper den att komma till användning. Men det är inte ursäkt för att inte vara förberedd. Rent konkret innebär det:
 

@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att betala ut medel för ett förstärkt och vidgat ÄldreomsorgslyftDiarienummer:  S2026/00072
+# Uppdrag till Socialstyrelsen att betala ut medel för ett förstärkt och vidgat Äldreomsorgslyft
 
 Regeringen uppdrar åt Socialstyrelsen att betala ut statsbidrag till kommuner inom ramen för det så kallade Äldreomsorgslyftet.
 

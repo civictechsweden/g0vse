@@ -4,7 +4,7 @@ Open Day i slutet av maj är en flerårig Brysseltradition då EU-institutionern
 
 ## Barn och jämställdhet
 
-Tidigare har EU Open Day varit EU-institutionernas dag men i år är första gången som medlemsstaterna bjuds in att medverka. Sverige satsar på hälso- barn- och jämställdhetstema.
+Tidigare har EU Open Day varit EU-institutionernas dag men i år är första gången som medlemsstaterna bjuds in att medverka. Sverige satsar på hälso- barn- och jämställdhetstema.
 
 - Mycket av informationen på vårt bord är riktad till barn. Här kan man följa svenska Sanna 9 år, och så finns det vackra Sverigekartor för barn med en snabbkurs i svenska, berättar Inger Wahlstedt som är ansvarig för Sveriges monter och handläggare vid den svenska EU-representationen.
 
@@ -20,6 +20,6 @@ Friskis & Svettis är med sina över 500 000 medlemmar och engagemang en folkrö
 
 Friskis & Svettis har många föreningar runtom i världen. Just Friskis & Svettis-föreningen i Bryssel firar 25 år i år.
 
-Rådsbyggnaden Justus Lipsus atrium är öppet för allmänheten klockan 10 till 18 lördagen den 28 maj. I både Europaparlamentet och EU-kommissionens lokaler pågår samtidigt evenemang och aktiviteter med fokus på bland annat EU-kunskap.
+Rådsbyggnaden Justus Lipsus atrium är öppet för allmänheten klockan 10 till 18 lördagen den 28 maj. I både Europaparlamentet och EU-kommissionens lokaler pågår samtidigt evenemang och aktiviteter med fokus på bland annat EU-kunskap.
 
 För Sveriges information under EU Open Day ansvarar Sveriges EU-representation.

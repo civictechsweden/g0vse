@@ -1,4 +1,4 @@
-# Ett förbättrat resegarantisystemProp. 2025/26:45
+# Ett förbättrat resegarantisystem
 
 Regeringen föreslår ändringar i resegarantilagen som syftar till att stärka konsumentskyddet och minska kostnader och administration för resebranschens aktörer.
 

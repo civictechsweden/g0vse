@@ -10,7 +10,7 @@ Allt mer forskning tyder på att hormonstörande ämnen kan skada människans fo
 
 Regeringen anser att det är angeläget att vidta åtgärder för att skydda känsliga grupper som barn och kvinnor i barnafödande ålder. Den svenska regeringen anser vidare att det är viktigt att öka och sprida kunskap om orsakssamband mellan exponering för hormonstörande ämnen och risker för påverkan på människors hälsa och miljön.
 
-Sedan juli 2013 är det i Sverige förbjudet att använda bisfenol A i lack och ytskikt i förpackningar för livsmedel som är särskilt avsedda för barn mellan 0 och 3 år, till exempel lock till barnmatsburkar.
+Sedan juli 2013 är det i Sverige förbjudet att använda bisfenol A i lack och ytskikt i förpackningar för livsmedel som är särskilt avsedda för barn mellan 0 och 3 år, till exempel lock till barnmatsburkar.
 
 I januari 2015 tog regeringen emot en utredning som bland annat kartlagt bisfenol A i varor. Utredning fokuserade särskilt på hur exponeringen för bisfenol A från material i kontakt med livsmedel kan minskas.
 

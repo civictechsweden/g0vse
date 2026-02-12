@@ -17,4 +17,4 @@ Vidare föreslås vissa ändringar i offentlighets- och sekretesslagen.
 
 Lagändringarna föreslås träda i kraft den 1 augusti 2018.
 
-[Pressmeddelande: Den nya kamerabevakningslagen ökar möjligheterna till kamerabevakning](/pressmeddelanden/2018/04/den-nya-kamerabevakningslagen-okar-mojligheterna-till-kamerabevakning/)
+[Pressmeddelande: Den nya kamerabevakningslagen ökar möjligheterna till kamerabevakning](/pressmeddelanden/2018/04/den-nya-kamerabevakningslagen-okar-mojligheterna-till-kamerabevakning/)

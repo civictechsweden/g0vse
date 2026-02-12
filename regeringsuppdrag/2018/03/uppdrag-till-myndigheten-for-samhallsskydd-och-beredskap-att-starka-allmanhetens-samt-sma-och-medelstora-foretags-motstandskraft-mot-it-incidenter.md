@@ -8,4 +8,4 @@ I den del av uppdraget som rör id-stölder ska MSB samverka med Polismyndighete
 
 Uppdraget ska redovisas senast den 31 januari 2019.
 
-[Pressmeddelande: Motståndskraften mot it-incidenter ska öka](/pressmeddelanden/2018/03/motstandskraften-mot-it-incidenter-ska-oka/)
+[Pressmeddelande: Motståndskraften mot it-incidenter ska öka](/pressmeddelanden/2018/03/motstandskraften-mot-it-incidenter-ska-oka/)

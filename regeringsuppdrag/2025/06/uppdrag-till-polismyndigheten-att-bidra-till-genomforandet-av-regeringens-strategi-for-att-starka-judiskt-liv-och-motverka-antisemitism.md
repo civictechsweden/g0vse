@@ -1,4 +1,4 @@
-# Uppdrag till Polismyndigheten att bidra till genomförandet av regeringens strategi för att stärka judiskt liv och motverka antisemitismDiarienummer: Ju2025/01104
+# Uppdrag till Polismyndigheten att bidra till genomförandet av regeringens strategi för att stärka judiskt liv och motverka antisemitism
 
 Regeringen ger Polismyndigheten i uppdrag att bidra till genomförandet av regeringens strategi för att stärka judiskt liv och motverka antisemitism (Ku2025/00578) genom att samordna genomförandet av insatser och de inriktningar som rör säkerhet inom strategins fokusområde Trygghet och öppenhet – arbetet mot antisemitism. Målsättningen för detta fokusområde är att judar i Sverige ska kunna leva öppet, tryggt och säkert.
 

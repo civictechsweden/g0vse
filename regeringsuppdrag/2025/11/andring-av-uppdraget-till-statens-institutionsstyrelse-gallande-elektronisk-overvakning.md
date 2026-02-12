@@ -1,4 +1,4 @@
-# Ändring av uppdraget till Statens institutionsstyrelse gällande elektronisk övervakningDiarienummer:  S2025/01926
+# Ändring av uppdraget till Statens institutionsstyrelse gällande elektronisk övervakning
 
 Regeringen ändrar sluttid för när Statens institutionsstyrelses, SiS, ska redovisa uppdragen att utreda de praktiska förutsättningarna för att elektroniskt kunna övervaka vissa barn och unga som är placerade på de särskilda ungdomshemmen, dels vid vistelser utanför det särskilda ungdomshemmet, dels inom hemmets eget område.
 

@@ -1,4 +1,4 @@
-# Remiss av förslag till avgift för Strålsäkerhetsmyndigheten för hantering av transporttillstånd enligt direktiv 2006/117/EuratomDiarienummer: KN2025/00645
+# Remiss av förslag till avgift för Strålsäkerhetsmyndigheten för hantering av transporttillstånd enligt direktiv 2006/117/Euratom
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat förslag till avgift för Strålsäkerhetsmyndigheten för hantering av transporttillstånd enligt direktiv 2006/117/Euratom.
 

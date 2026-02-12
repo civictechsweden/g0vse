@@ -8,5 +8,4 @@ Av integritetsskäl föreslår regeringen att uppgiftsskyldigheten ska begränsa
 
 Lagändringarna föreslås träda i kraft den 15 augusti 2016.
 
-[Pressmeddelande: Regeringen vill öka samverkan mot organiserad
-brottslighet](/pressmeddelanden/2016/03/regeringen-vill-oka-samverkan-mot-organiserad-brottslighet/)
+[Pressmeddelande: Regeringen vill öka samverkan mot organiserad brottslighet](/pressmeddelanden/2016/03/regeringen-vill-oka-samverkan-mot-organiserad-brottslighet/)

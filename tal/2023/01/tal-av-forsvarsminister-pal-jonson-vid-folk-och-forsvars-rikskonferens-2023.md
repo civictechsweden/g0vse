@@ -28,7 +28,7 @@ För det andra ska vi göra den största omläggningen av Sveriges säkerhets- o
 
 Och för det tredje ska vi genomföra den största upprustningen av vårt totalförsvar sedan 1950-talet.
 
-\*\*\*
+***
 
 För några veckor sedan besökte jag Odessa och Mykolajiv. Syftet var att visa solidaritet och ge stöd till Ukraina. Men även att lyssna och lära av ukrainarnas erfarenheter från kriget.
 
@@ -68,7 +68,7 @@ Den ryska militära framfarten måste stoppas. Och just nu är det Ukraina som �
 
 Försvaret av Ukraina är vår tids största säkerhetspolitiska utmaning.
 
-\*\*\*
+***
 
 Regeringen kommer att utöka det sammanhållna stödet till Ukraina – Ett nytt militärt stödpaket kommer presenteras innan januari månads slut.
 
@@ -80,13 +80,13 @@ Det finns också ett starkt och djupt engagemang hos vår befolkning för stöde
 
 Jag vill rikta ett varmt tack för alla de insatser som görs i det svenska samhället för att stödja Ukraina.
 
-\*\*\*
+***
 
 Inom en snar framtid kommer Sverige tillsammans med Finland att bli medlemmar i den försvarsallians som i över 70 år varit den yttersta garanten för Europas säkerhet.
 
 Den säkerhet som Nato levererar har aldrig varit så efterfrågad som den är idag.
 
-De allierade har vidtagit en rad åtgärder för att öka säkerheten i samband med att kriget bröt ut och idag finns det över 100 000 amerikanska soldater i Europa. Det är vi tacksamma för.
+De allierade har vidtagit en rad åtgärder för att öka säkerheten i samband med att kriget bröt ut och idag finns det över 100 000 amerikanska soldater i Europa. Det är vi tacksamma för.
 
 Nato är en defensiv försvarsallians och dess kollektiva försvar bygger ytterst på en kombination av konventionella militära förmågor och kärnvapen. Sverige ställer sig också bakom Natos kärnvapendoktrin och strategiska avskräckning.
 
@@ -114,7 +114,7 @@ Men även samarbetet kring nya teknologier inom ramen för Nato:s försvarsinnov
 
 Kriget i Ukraina visar tydligt på betydelsen av innovationskraft, försörjningstrygghet och uthållighet. Den försvarsindustri som finns i Sverige är också är en del av vår samlade försvarsförmåga.
 
-\*\*\*
+***
 
 Totalförsvaret måste stärkas. Det saknas inte utmaningar. Personalförsörjningen behöver stärkas genom bra anställningsvillkor, fler värnpliktiga och anställda soldater. Den långräckviddiga förmågan ska utvecklas och det behövs investeringar i autonoma system och drönare. Förmågan inom cyber- och rymddomänen måste stärkas. Försvarsunderrättelseförmågan ska vidareutvecklas ytterligare. Det civila försvarets förmåga att stödja Försvarsmakten måste förbättras.
 
@@ -130,7 +130,7 @@ Det handlar t.ex. om rambeslut som ger myndigheterna större flexibilitet i geno
 
 I gengäld förväntar jag mig myndigheter som är villiga att agera snabbt och innovativt för att säkra en ökad försvarsförmåga. När det pågår ett krig i Europa kan det inte vara ”business as usual” – Exceptionella tider kräver exceptionella åtgärder.
 
-\*\*\*
+***
 
 Jag inledde detta anförande med en mörk beskrivning av det aktuella säkerhetsläget. Men allt är inte nattsvart.
 

@@ -1,6 +1,6 @@
 # "Nu tar vi maffialedarnas pengar och lyxprylar"
 
-Debattartikel av justitieminister Gunnar Strömmer. Expressen den 2 oktober 2024
+Justitieminister Gunnar Strömmer, debattartikel, Expressen, den 2 oktober 2024.
 
 Den organiserade brottsligheten är en av vår tids största samhällsproblem. Den innebär enorma trygghets- och integritetsförluster för de som drabbas. Samtidigt riskerar viktiga samhällsvärden att gå förlorade. Regeringens plan ligger därför fast: Vi ska slå hårt mot gängens grova våld, strypa den kriminella ekonomin och bryta rekryteringen av barn och unga in i gängen.
 
@@ -29,6 +29,3 @@ Det ska också vara möjligt att kunna förverka egendom från barn och unga. Vi
 Regeringens förslag är att reformen ska vara på plats den 8 november i år. Och när riksdagen i dag går till omröstning hoppas vi på bred uppslutning från riksdagens partier. Något annat har vi som samhälle inte råd med – brottsbekämpningen behöver fler kraftfulla verktyg för att strypa den kriminella ekonomin, och det så snart som möjligt.
 
 Tillsammans måste vi – steg för steg – fortsätta att göra det svårare att vara kriminell i Sverige, och värna medborgarnas trygghet och säkerhet.
-
-**Gunnar Strömmer**
-Justitieminister

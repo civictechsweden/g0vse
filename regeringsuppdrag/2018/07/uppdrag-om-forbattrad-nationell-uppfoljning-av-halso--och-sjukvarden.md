@@ -7,4 +7,4 @@ I uppdraget till Myndigheten för vård- och omsorgsanalys ingår att föreslå 
 Myndigheten ska även redovisa vad som är extra viktigt att
 följa utifrån ett patientperspektiv. Det ingår också att göra en bedömning och välja ut fem till tio indikatorer som är av särskild vikt för jämlik vård ur ett patientperspektiv. Dessa ska vara indikatorer där datakvaliteten och tillgången redan idag tillåter jämförelser av god kvalitet och att utfallet kan presenteras på landstingsnivå. För dessa ska resultat presenteras tillsammans med djupare analyser av och förklaringsfaktorer till utfallet.
 
-Pressmeddelande: [Den nationella uppföljningen av hälso- och sjukvården ska stärkas](/pressmeddelanden/2018/06/den-nationella-uppfoljningen-av-halso--och-sjukvarden-ska-starkas/)
+Pressmeddelande: [Den nationella uppföljningen av hälso- och sjukvården ska stärkas](/pressmeddelanden/2018/06/den-nationella-uppfoljningen-av-halso--och-sjukvarden-ska-starkas/)

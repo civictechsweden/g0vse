@@ -6,6 +6,6 @@ Energi- och klimatplanerna ska bland annat säkerställa att de EU-gemensamma m�
 
 Nästa plan ska enligt förordningen lämnas in 2029 och därefter vart tionde år. Medlemsstaterna har möjlighet att uppdatera sin nationella energi- och klimatplan 2024.
 
-Medlemsstaterna (inklusive Sverige) har tidigare rapporterat [ett utkast](/rapporter/2019/01/sveriges-utkast-pa-integrerad-nationell-energi--och-klimatplan/ "ett utkast")  till den nationella energi- och klimatplanen till EU-kommissionen. EU-kommissionen har sedan utfärdat rekommendationer på utkasten till respektive medlemsstat.
+Medlemsstaterna (inklusive Sverige) har tidigare rapporterat [ett utkast](/rapporter/2019/01/sveriges-utkast-pa-integrerad-nationell-energi--och-klimatplan/ "ett utkast") till den nationella energi- och klimatplanen till EU-kommissionen. EU-kommissionen har sedan utfärdat rekommendationer på utkasten till respektive medlemsstat.
 
 Som underlag för den svenska rapportering fick Energimyndigheten i uppdrag att tillsammans med relevanta myndigheter ta fram ett förslag till utkast på integrerad energi- och klimatplan samt förslag på slutlig plan som redovisades under 2019.

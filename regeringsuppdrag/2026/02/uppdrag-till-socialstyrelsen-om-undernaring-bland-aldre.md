@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen om undernäring bland äldreDiarienummer:  S2026/00145
+# Uppdrag till Socialstyrelsen om undernäring bland äldre
 
 Regeringen uppdrar åt Socialstyrelsen att kartlägga prevalensen av undernäring bland äldre samt kartlägga de hälsoekonomiska kostnaderna för undernäring bland äldre personer.
 

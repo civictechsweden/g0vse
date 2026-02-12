@@ -2,6 +2,7 @@
 
 Propositionen innehåller förslag till ändringar i lagen (1997:238) om
 arbetslöshetsförsäkring och lagen (1997:239) om arbetslöshetskassor.
+
 Lagändringarna föreslås träda i kraft den 2 juli 2018.
 
 I lagen om arbetslöshetsförsäkring föreslås en tydlig reglering av förtroendeuppdrag i arbetslöshetsförsäkringen.

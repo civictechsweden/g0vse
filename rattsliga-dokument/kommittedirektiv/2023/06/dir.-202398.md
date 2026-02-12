@@ -13,12 +13,12 @@ Kristdemokraterna och Liberalerna.
 Utredaren ska bl.a.
 
 * analysera och redogöra för kommunernas nuvarande förutsättningar att
-  anlita läkare på regionernas bekostnad och effektiviteten i nuvarande
-  system,
+anlita läkare på regionernas bekostnad och effektiviteten i nuvarande
+system,
 * föreslå en ordning där kommuner kan anställa läkare,
 * analysera och föreslå åtgärder för hur det ska bli mer attraktivt för läkare
-  och andra relevanta legitimerade yrkesutövare att arbeta i den
-  kommunala hälso- och sjukvården, och
+och andra relevanta legitimerade yrkesutövare att arbeta i den
+kommunala hälso- och sjukvården, och
 * lämna nödvändiga författningsförslag.
 
 Uppdraget ska redovisas senast den 1 november 2024.

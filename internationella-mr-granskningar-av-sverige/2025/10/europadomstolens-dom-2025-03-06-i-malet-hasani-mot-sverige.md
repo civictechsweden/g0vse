@@ -6,4 +6,6 @@ Fråga om statens positiva förpliktelser enligt artikel 2 (rätten till liv) i 
 
 Europadomstolen konstaterade i sin dom den 6 mars 2025 att det inte hade skett någon kränkning av rätten till liv. Som skäl anfördes att det inte hade visats att myndigheterna känt till eller borde ha känt till att det förelåg en verklig och omedelbar risk för att brodern skulle ta sitt liv vid den aktuella tidpunkten. Tre domare var skiljaktiga.
 
+
+
 Domen vann laga kraft den 15 september 2025.

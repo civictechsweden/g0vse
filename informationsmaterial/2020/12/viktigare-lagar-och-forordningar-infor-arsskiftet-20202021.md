@@ -245,6 +245,8 @@ Pressekreterare Mikael Lindström:
 
 Tfn 073-078 52 60
 
+
+
 **Presskontakt hos EU-minister Hans Dahlgren:**
 
 T.f. pressekreterare Vidar Jakobínuson Lindgren
@@ -263,7 +265,9 @@ Arbetsmarknadsdepartementet ansvarar för frågor och ärenden som rör arbetsma
 
 Pressekreterare Jennie Zetterström
 
-Tfn 073-053 92 70
+Tfn 073-053 92 70
+
+
 
 **Presskontakt hos jämställdhetsminister samt minister med ansvar för arbetet mot diskriminering och segregation Åsa Lindhagen:**
 
@@ -335,6 +339,8 @@ Pressekreterare Johan Ekström
 
 Mobiltelefon 073-086 32 01
 
+
+
 **Presskontakt hos finansmarknads- och konsumentminister Per Bolund:**
 
 Pressekreterare Hanna Björnfors
@@ -344,6 +350,8 @@ Mobiltelefon 073-509 26 05
 Pressekreterare Elina Jansson
 
 Mobiltelefon 073-051 58 40
+
+
 
 **Presskontakt hos civilminister Lena Micko:**
 
@@ -415,7 +423,7 @@ Det införs ett avdragsförbud i inkomstskattelagen för interna och externa rä
 
 **Ändring:** Socialavgiftslagen (2000:980), lagen (2001:1170) om särskilda avdrag i vissa fall vid avgiftsberäkningen enligt lagen (1994:1920) om allmän löneavgift och socialavgiftslagen (2000:980) och skatteförfarandelagen (2011:1244).
 
-**Beslutsunderlag:** Prop. 2020/21:14  Bestämmelserna om nedsättning av arbetsgivaravgifterna för den först anställda görs permanenta
+**Beslutsunderlag:** Prop. 2020/21:14 Bestämmelserna om nedsättning av arbetsgivaravgifterna för den först anställda görs permanenta
 
 **SFS:** 2020:1058-1062
 
@@ -493,7 +501,7 @@ Ett syfte med ändringen är att åtgärder som genomförs i ett företag i reso
 
 **Ikraftträdande:** 1 december 2020, men tillämpas från och med det beskattningsår som infaller efter 31 december 2019.
 
-Införandet av en regional skattereduktion innebär att skatten sänks med 1 675 kronor per år och person för boende i vissa glest befolkade kommuner, främst i Norrland och nordvästra Svealand. För att ta del av skatte­reduktionen ska en person vara folkbokförd i någon av de aktuella kommunerna senast 1 november året före beskattningsåret. Åtgärden utgör både en kompensation och en regional stimulans som kan underlätta och i viss mån attrahera fler personer att bo och arbeta i de här delarna av landet.
+Införandet av en regional skattereduktion innebär att skatten sänks med 1 675 kronor per år och person för boende i vissa glest befolkade kommuner, främst i Norrland och nordvästra Svealand. För att ta del av skatte­reduktionen ska en person vara folkbokförd i någon av de aktuella kommunerna senast 1 november året före beskattningsåret. Åtgärden utgör både en kompensation och en regional stimulans som kan underlätta och i viss mån attrahera fler personer att bo och arbeta i de här delarna av landet.
 
 För fysiska personer som har företag vars resultat de själva beskattas för, till exempel enskilda näringsidkare och delägare i handelsbolag, införs genom förslaget en skyldighet att i inkomstdeklarationen ange om andra stöd av mindre betydelse har tagits emot under beskattningsåret och de två föregående beskattningsåren. Skyldigheten gäller dock endast om det stöd som har tagits emot överstiger 150 000 kronor.
 
@@ -563,7 +571,7 @@ Den tillfälliga skatteklyftan försvinner från 2023. Samtidigt som skatten sä
 
 **Ikraftträdande:** 15 januari 2021
 
-Förordningen innebär att Boverket får ge stöd för att genomföra åtgärder för att öka eller utveckla stadsgrönska eller ekosystemtjänster i områden med socioekonomiska utmaningar. Stödet kan sökas av bland annat kommuner och andra fastighetsägare. Stöd får ges för åtgärder som är till nytta för allmänheten utan krav på någon särskild motprestation. Den minsta totala kostnaden för åtgärderna ska uppgå till 200 000 kronor och stöd får ges med högst 50 procent av kostnaderna.
+Förordningen innebär att Boverket får ge stöd för att genomföra åtgärder för att öka eller utveckla stadsgrönska eller ekosystemtjänster i områden med socioekonomiska utmaningar. Stödet kan sökas av bland annat kommuner och andra fastighetsägare. Stöd får ges för åtgärder som är till nytta för allmänheten utan krav på någon särskild motprestation. Den minsta totala kostnaden för åtgärderna ska uppgå till 200 000 kronor och stöd får ges med högst 50 procent av kostnaderna.
 
 Syftet med stödet är att utveckla dessa områden i en grön och hälsofrämjande riktning, samtidigt som det skapas trygga, trivsamma och inkluderande utemiljöer med särskild omsorg om åtgärdernas gestaltning.
 
@@ -667,7 +675,9 @@ Infrastrukturdepartementet har ansvar för frågor som rör transporter och infr
 
 Pressekreterare Lovisa Alm
 
-Tfn  073-073 97 53
+Tfn 073-073 97 53
+
+
 
 **Presskontakt hos energi- och digitaliseringsminister Anders Ygeman:**
 
@@ -753,7 +763,7 @@ Med tjänsteleverantör jämställs en underleverantör som medverkar till att f
 **SFS:** 2020:1225
 **Ikraftträdande:** 1 januari 2021
 
-Restriktionerna under coronapandemin har medfört att sjömän och rederier har haft mycket svårt att ta sig till  läkare eller tillsynsmyndigheter för att förnya de olika intyg och certifikat som krävs för att fartyg ska få användas och för att sjömännen ska få tjänstgöra på fartyg.
+Restriktionerna under coronapandemin har medfört att sjömän och rederier har haft mycket svårt att ta sig till läkare eller tillsynsmyndigheter för att förnya de olika intyg och certifikat som krävs för att fartyg ska få användas och för att sjömännen ska få tjänstgöra på fartyg.
 
 För att undvika risken att fartygen inte får användas eller att tjänstgöring omöjliggörs när giltighetstiden för intygen och certifikaten löper ut, beslutade regeringen därför vid flera tillfällen under 2020 att generellt förlänga giltighetstiden för alla dessa intyg.
 
@@ -788,6 +798,8 @@ Tfn 072-545 74 21
 Pressekreterare Adriana Haxhimustafa
 
 Tfn 070-266 31 05
+
+
 
 Presskontakter hos inrikesminister Mikael Damberg:
 
@@ -1203,6 +1215,8 @@ Näringsdepartementet ansvarar för frågor som rör företag med statligt ägan
 Pressekreterare Sara Khatemi
 Tfn 076-129 67 08
 
+
+
 **Presskontakt hos landsbygdsminister Jennie Nilsson:**
 Pressekreterare Simon Sätherberg
 Tfn 073-086 23 07
@@ -1249,6 +1263,8 @@ Socialdepartementet ansvarar för frågor om social omsorg, hälso- och sjukvår
 
 Pressekreterare Elin Aarflot 073-274 23 53
 Pressekreterare Sofia Brändström 072-219 50 29
+
+
 
 **Presskontakt hos socialförsäkringsminister Ardalan Shekarabi:**
 
@@ -1348,6 +1364,8 @@ Pressekreterare Anja Lindberg Sundberg
 
 Tfn 076-116 77 45
 
+
+
 **Presskontakt hos minister för högre utbildning och forskning Matilda Ernkrans:**
 
 Pressekreterare Tove Kullenberg
@@ -1436,7 +1454,7 @@ För att bli antagen till en högre utbildning krävs att sökanden har grundlä
 
 **SFS:** 2020:766
 
-**Ikraftträdande:** 1 januari 2021
+**Ikraftträdande:** 1 januari 2021
 
 En rad rapporter har visat på behovet av ökad kompetens om neuropsykiatriska svårigheter och det råder en bred enighet om att blivande förskollärare och lärare bör få mer kompetens om detta. Därför införs nya krav i förskollärar- och lärarutbildningarna för att säkerställa detta.
 
@@ -1512,7 +1530,7 @@ SFS: 2020:1237–1238
 
 **Ikraftträdande:** 1 januari 2021
 
-Mot bakgrund av coronapandemin och dess effekter på arbetsmarknaden kan fler personer behöva utbilda sig för att inte hamna i längre arbetslöshet. Vuxna studerande med tidigare inkomster kan utöver de vanliga studiemedlen få ett tilläggslån från och med det år de fyller 25. Ändringarna innebär att tilläggslånet tillfälligt höjs med cirka 1 000 kronor per studiemånad under 2021 och 2022 (till cirka 5 100 kronor 2021). Det stärker möjligheterna för denna grupp att påbörja studier och underlättar ekonomiskt i en situation där det kan vara svårare att hitta ett arbete vid sidan om studierna.
+Mot bakgrund av coronapandemin och dess effekter på arbetsmarknaden kan fler personer behöva utbilda sig för att inte hamna i längre arbetslöshet. Vuxna studerande med tidigare inkomster kan utöver de vanliga studiemedlen få ett tilläggslån från och med det år de fyller 25. Ändringarna innebär att tilläggslånet tillfälligt höjs med cirka 1 000 kronor per studiemånad under 2021 och 2022 (till cirka 5 100 kronor 2021). Det stärker möjligheterna för denna grupp att påbörja studier och underlättar ekonomiskt i en situation där det kan vara svårare att hitta ett arbete vid sidan om studierna.
 
 ### Statliga universitet och högskolor får tillfälligt hyra ut bostäder avsedda för utbytesstudenter och gästforskare till andra studenter
 
@@ -1574,16 +1592,18 @@ Utrikesdepartementet ansvarar för Sveriges utrikes-, bistånds- och utrikeshand
 
 Pressekreterare Klara Watmani
 
-Tfn  073-072 59 27
+Tfn 073-072 59 27
 
 Pressekreterare Andreas Enbuske
 
 Tfn 076-130 58 86
 
+
+
 **Presskontakt hos utrikeshandelsminister och minister med ansvar för nordiska frågor Anna Hallberg:**
 
 Pressekreterare Vidar Jakobínuson Lindgren
 
-Tfn  073-840 33 12
+Tfn 073-840 33 12
 
 Till årsskiftet 2020/2021 träder inga lagar i kraft inom Utrikesdepartementets ansvarsområden.

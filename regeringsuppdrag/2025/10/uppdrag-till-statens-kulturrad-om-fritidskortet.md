@@ -1,4 +1,4 @@
-# Uppdrag till Statens kulturråd om fritidskortetDiarienummer:  S2025/01753
+# Uppdrag till Statens kulturråd om fritidskortet
 
 Regeringen uppdrar åt Statens kulturråd att bidra till att, när fritidskortet för barn och unga har införts, stärka kapaciteten i den kulturskoleverksamhet som kommunerna tillhandahåller.
 

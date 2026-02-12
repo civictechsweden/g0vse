@@ -1,6 +1,6 @@
 # En politik för det civila samhället
 
-Regeringen ger förslag i propositionen till mål och inriktning för politiken för det civila samhället, som ersätter den nuvarande folkrörelsepolitiken och dess mål.
+Regeringen ger förslag i propositionen till mål och inriktning för politiken för det civila samhället, som ersätter den nuvarande folkrörelsepolitiken och dess mål.
 
 Genom den nya politiken vill regeringen lyfta fram det civila samhällets stora betydelse, utveckla och tydliggöra relationen mellan staten och det civila samhället och ta ett helhetsgrepp om generella frågor om det civila samhället och dess villkor.
 

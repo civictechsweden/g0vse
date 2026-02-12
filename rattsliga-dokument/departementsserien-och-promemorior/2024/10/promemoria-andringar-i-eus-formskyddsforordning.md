@@ -1,4 +1,4 @@
-# Promemoria Ändringar i EU:s formskyddsförordning
+# Ändringar i EU:s formskyddsförordning
 
 I oktober 2024 antogs en EU-förordning som ändrar den befintliga EU-förordningen om gemenskapsformgivning. Ändringarna syftar till att effektivisera förfarandet för registrering. Vidare anpassas terminologin till Lissabonfördraget så att termen gemenskapsformgivning ändras till EU-formgivning. Vissa förändringar av skyddet görs också, bland annat en utvidgning av formskyddsinnehavarens rättigheter i fråga om produkter som bara passerar EU, utan att sättas på marknaden här, samt i fråga om mjukvara som möjliggör 3D-utskrifter av en formgivning.
 

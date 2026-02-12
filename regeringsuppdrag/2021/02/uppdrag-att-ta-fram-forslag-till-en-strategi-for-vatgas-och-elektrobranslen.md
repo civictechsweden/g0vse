@@ -5,8 +5,8 @@ Regeringen uppdrar åt Statens energimyndighet (Energimyndigheten) att ta fram f
 I uppdraget ingår att:
 
 * analysera och kvantifiera potentialen för ökad produktion, lagring,
-  transport och användning av vätgas, elektrobränslen och ammoniak i olika sektorer på kort, medellång och lång sikt med beaktande av
-  ekonomiska perspektiv,
+transport och användning av vätgas, elektrobränslen och ammoniak i olika sektorer på kort, medellång och lång sikt med beaktande av
+ekonomiska perspektiv,
 * analysera tekniska och ekonomiska förutsättningar för vätgas som energilager för flexibilitet i energisystemet,
 * identifiera hinder mot en introduktion av vätgas som en del av det svenska energisystemet,
 * belysa relevanta samhällsekonomiska konsekvenser av de policyförslag som ingår i Fossilfritt Sveriges vätgasstrategi och analysera hur lämpliga förslag bör tas vidare i strategin, samt

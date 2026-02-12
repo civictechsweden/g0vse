@@ -18,8 +18,8 @@ Med projektrapporten hoppas de tre organisationerna öka medvetenheten om den ut
 
 I panelen fanns också representanter från EU-kommissionen, Europarådet och organisationen UNHCR. De menade att problemen som projektet belyser är kända men att engagemanget ofta brister.
 
-- Vi behöver göra mycket mer för att skydda kvinnor och flickor. Vi måste göra verlighet av våra strategier. Det är oacceptabelt att kvinnor och flickor är inhysta där de inte kan vara säkra på att inte utnyttjas eller trakasseras, underströk Sophie Magennis, UNHCR, som också hänvisade till en UNHCR-rapport från januari i år som tar upp flyktingkvinnors utsatta läge.
+- Vi behöver göra mycket mer för att skydda kvinnor och flickor. Vi måste göra verlighet av våra strategier. Det är oacceptabelt att kvinnor och flickor är inhysta där de inte kan vara säkra på att inte utnyttjas eller trakasseras, underströk Sophie Magennis, UNHCR, som också hänvisade till en UNHCR-rapport från januari i år som tar upp flyktingkvinnors utsatta läge.
 
 Jean-Louise De Brouwer från EU-kommissionens direktorat för humanitärt bistånd och civilskydd liksom Torbjörn Frösnes från Europarådet påpekade båda att det är viktigt att fokusera lobbyarbetet i de aktuella frågorna på de länder som inte skrivit på konventioner och som inte lever upp till beslut som redan fattats.
 
-Seminariet öppnades av ordförande för den Europeiska kvinnolobbyn Viviane Teitelbaum som presenterade de tre organisationernas projekt,  och av Sveriges EU-ambassadör Anders Ahnlid.
+Seminariet öppnades av ordförande för den Europeiska kvinnolobbyn Viviane Teitelbaum som presenterade de tre organisationernas projekt, och av Sveriges EU-ambassadör Anders Ahnlid.

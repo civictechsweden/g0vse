@@ -1,4 +1,4 @@
-# Remiss SOU 2025:15, Stärkta drivkrafter och möjligheter för biståndsmottagareDiarienummer: S2025/00416
+# Remiss SOU 2025:15, Stärkta drivkrafter och möjligheter för biståndsmottagare
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen av SOU 2025:15, Stärkta drivkrafter och möjligheter för biståndsmottagare.
 

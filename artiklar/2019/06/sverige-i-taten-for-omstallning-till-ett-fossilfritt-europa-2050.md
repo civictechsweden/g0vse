@@ -21,6 +21,8 @@ Seminariet avslutades med en paneldiskussion med deltagare från andra EU-lände
 
 Arrangör var Mistra, Stiftelsen för miljöstrategisk forskning, i samarbete med Sveriges EU-representation.
 
+
+
 Kort om nettonollutsläpp:
 
 Nettonollutsläpp innebär att summan av alla utsläpp ska vara noll. Det kräver en bred omställning av transport, produktion och energiförsörjning paralellt med tekniska lösningar, exempelvis möjligheten att fånga in koldioxid och lagra den i berggrunden. Nettonollutsläpp tar med i beräkningen att alla utsläpp inte går att stoppa, till exempel vissa utsläpp inom jordbruket.

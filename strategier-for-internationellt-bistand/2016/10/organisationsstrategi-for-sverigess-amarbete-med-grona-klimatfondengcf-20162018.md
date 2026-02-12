@@ -6,4 +6,4 @@ En organisationsbedömning av fonden kommer att kunna genomföras inför utarbet
 
 Strategin vägleds av att GCF är en del av den finansiella mekanism under klimatkonventionen med dess övergripande mål att bidra till att koncentrationen av växthusgaser i atmosfären ska stabiliseras på en nivå som förhindrar en farlig mänsklig störning av klimatsystemet.
 
-Strategin utgår från regeringens mål för det internationella biståndet, det vill säga att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Den vägleds även av politiken för global utveckling (prop. 2002/03:122) med dess övergripande mål att bidra till en rättvis och hållbar global utveckling, samt svensk strategi för multilateralt utvecklingssamarbete.
+Strategin utgår från regeringens mål för det internationella biståndet, det vill säga att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Den vägleds även av politiken för global utveckling (prop. 2002/03:122) med dess övergripande mål att bidra till en rättvis och hållbar global utveckling, samt svensk strategi för multilateralt utvecklingssamarbete.

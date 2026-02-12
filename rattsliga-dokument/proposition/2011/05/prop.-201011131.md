@@ -5,6 +5,6 @@ När det s.k. UCITS IV-direktivet genomförs i svensk rätt den 1 augusti 2011 k
 Förvaltningsbolag ska vara skyldiga att lämna in en särskild självdeklaration för varje av bolaget förvaltad investeringsfond i Sverige. Kontrolluppgiftsskyldigheten när det gäller avyttring genom inlösen av fondandelar kompletteras så att skyldigheten även omfattar situationen när det förvaltande bolaget och investeringsfonden alternativt fondföretaget finns i olika länder. Förvaringsinstituten föreslås ansvara för innehållande, betalning och redovisning av kupongskatt när en investeringsfond förvaltas av ett förvaltningsbolag.
 
 Förslagen föreslås träda i kraft den 1 augusti 2011.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+________________________________________________________
 
 Riksdagen fattade den 22 juni 2011 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

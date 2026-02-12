@@ -1,4 +1,4 @@
-# Förlängd tid för uppdraget till Tandvårds- och läkemedelsförmånsverket att påbörja utvecklings-, förberedelse- och informationsarbete med anledning av en ny tandvårdsreformDiarienummer:  S2025/01239
+# Förlängd tid för uppdraget till Tandvårds- och läkemedelsförmånsverket att påbörja utvecklings-, förberedelse- och informationsarbete med anledning av en ny tandvårdsreform
 
 Regeringen förlänger tiden för uppdraget till Tandvårds- och läkemedelsförmånsverket att påbörja utvecklings-, förberedelse- och informationsarbete med anledning av en ny tandvårdsreform.
 

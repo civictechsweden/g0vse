@@ -9,4 +9,4 @@ och organisationer.
 
 Socialstyrelsen ska lämna en delredovisning den 16 september 2022 innehållande en översiktlig plan över genomförandet av uppdraget och
 eventuella preliminära resultat. Socialstyrelsen ska lämna en samlad
-slutrapport av uppdraget senast den 29 september 2023 till Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Socialdepartementet).
+slutrapport av uppdraget senast den 29 september 2023 till Regeringskansliet (Arbetsmarknadsdepartementet med kopia till Socialdepartementet).

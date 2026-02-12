@@ -4,4 +4,4 @@ Regeringen uppdrar åt Naturvårdsverket att analysera och förtydliga sin vägl
 
 Uppdraget ska redovisas till Regeringskansliet (Miljö- och energidepartementet) senast den 28 februari 2017.
 
-[Pressmeddelande: Miljömässigt hållbar gruvnäring och avfallshantering](/pressmeddelanden/2016/04/miljomassigt-hallbar-gruvnaring-och-avfallshantering/ "Pressmeddelande: Miljömässigt hållbar gruvnäring och avfallshantering")
+[Pressmeddelande: Miljömässigt hållbar gruvnäring och avfallshantering](/pressmeddelanden/2016/04/miljomassigt-hallbar-gruvnaring-och-avfallshantering/ "Pressmeddelande: Miljömässigt hållbar gruvnäring och avfallshantering")

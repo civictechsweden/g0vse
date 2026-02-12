@@ -52,7 +52,7 @@ Kraven gäller snabbmat som serveras i en matlåda. Med snabbmat avses mat som:
 
 2. är avsedd att ätas ur förpackningen, och
 
-3. är färdig att ätas utan ytterligare tillagning, uppvärmning eller annan beredning som utförs av konsumenten.
+3. är färdig att ätas utan ytterligare tillagning, uppvärmning eller annan beredning som utförs av konsumenten.
 
 Till viss del omfattas därför även mat som säljs i livsmedelsbutiker, men mat som är fryst eller ska tillagas på annat sätt, eller säljs i stora förpackningar, omfattas inte.
 

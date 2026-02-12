@@ -7,5 +7,4 @@ svensk rätt står i överensstämmelse med ett EU-direktiv på området.
 
 Lagändringen föreslås träda i kraft den 1 maj 2016.
 
-[Pressmeddelande: Regeringen föreslår stärkt konsumentskydd för vissa
-avtal som rör semesterboenden](/pressmeddelanden/2016/01/regeringen-foreslar-starkt-konsumentskydd-for-vissa-avtal-som-ror-semesterboenden/)
+[Pressmeddelande: Regeringen föreslår stärkt konsumentskydd för vissa avtal som rör semesterboenden](/pressmeddelanden/2016/01/regeringen-foreslar-starkt-konsumentskydd-for-vissa-avtal-som-ror-semesterboenden/)

@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att utarbeta nationella riktlinjer för migränvårdenDiarienummer: S2025/01276
+# Uppdrag till Socialstyrelsen att utarbeta nationella riktlinjer för migränvården
 
 Regeringen ger Socialstyrelsen i uppdrag att utarbeta nationella riktlinjer för migränvården. Syftet med riktlinjerna är att främja tillgänglighet till vården, ökad kunskap om behandling av migrän och en jämlik vård över landet.
 

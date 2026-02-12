@@ -6,4 +6,5 @@ Utredaren får ett tilläggsuppdrag att lämna förslag på hur
 - examensbeskrivningen för utbildningen till lärare i modersmål bör utformas inom lärarutbildningens ram för att täcka behovet av lärare i minoritetsspråk i grundskolan och i gymnasieskolan,
 - utbildningen till lärare i minoritetsspråk kan göras attraktiv så att behovet av lärare i i grundskolan och i gymnasieskolan täcks, och
 - lärares kunskaper i informations- och kommunikationsteknik samt lärande i digitala miljöer kan utvecklas.
+
 Tiden förlängs till den 15 november 2008 för utredarens uppdrag.

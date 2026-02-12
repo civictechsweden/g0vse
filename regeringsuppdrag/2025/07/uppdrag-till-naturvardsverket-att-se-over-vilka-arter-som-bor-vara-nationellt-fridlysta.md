@@ -1,4 +1,4 @@
-# Uppdrag till Naturvårdsverket att se över vilka arter som bör vara nationellt fridlystaDiarienummer: KN2023/01619 (delvis); KN2023/01753; KN2023/01760 m.fl.
+# Uppdrag till Naturvårdsverket att se över vilka arter som bör vara nationellt fridlysta
 
 Regeringen ger Naturvårdsverket i uppdrag att se över vilka arter som bör vara nationellt fridlysta.
 

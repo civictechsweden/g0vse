@@ -2,7 +2,7 @@
 
 Vart tredje år genomförs en översyn och uppdatering av FN:s register för rapportering av export och import av konventionella vapen. En så kallad Group of Governmental Experts (GGE) bestående av nationella experter från ett 20-tal länder kallas samman för detta uppdrag.
 
-FN:s vapenregister inrättades år 1992 som ett förtroendeskapande och konfliktförebyggande rapporteringssystem, där FNs medlemsstater årligen rapporterar export och import av sju olika katergorier tunga vapensystem: stridsvagnar, stridsfordon, artilleripjäser, stridsflygplan, attackhelikoptrar, krigsfartyg samt missiler och deras avskjutningsanordningar.
+FN:s vapenregister inrättades år 1992 som ett förtroendeskapande och konfliktförebyggande rapporteringssystem, där FNs medlemsstater årligen rapporterar export och import av sju olika katergorier tunga vapensystem: stridsvagnar, stridsfordon, artilleripjäser, stridsflygplan, attackhelikoptrar, krigsfartyg samt missiler och deras avskjutningsanordningar.
 
 Därtill kan rapporteringen också omfatta små- och lätta vapen, anskaffning från inhemsk produktion och det totala nationella innehavet av de sju kategorierna, samt relevant nationell lagstiftning.
 

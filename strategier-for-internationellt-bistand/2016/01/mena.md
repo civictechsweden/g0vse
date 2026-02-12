@@ -1,6 +1,6 @@
 # Regional strategi för Sveriges utvecklingssamarbete med Mellanöstern och Nordafrika (MENA)
 
-![](/contentassets/4c43e7f8909d45d8971816f9f532bf4d/mena_strategi_svenska-komplett-for-webb-150.jpg?width=150&quality=85)
+![](/contentassets/4c43e7f8909d45d8971816f9f532bf4d/mena_strategi_svenska-komplett-for-webb-150.jpg?width=150&amp;quality=85)
 
 Det svenska utvecklingssamarbetet med Mellanöstern och Nordafrika ska bidra till stärkt demokrati och ökad respekt för de mänskliga rättigheterna samt en hållbar utveckling som förbättrar förutsättningarna för fred, stabilitet och frihet i regionen.
 

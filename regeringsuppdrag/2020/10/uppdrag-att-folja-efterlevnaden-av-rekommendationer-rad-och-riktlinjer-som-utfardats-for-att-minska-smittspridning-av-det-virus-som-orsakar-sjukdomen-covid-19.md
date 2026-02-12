@@ -15,6 +15,8 @@ I arbetet ska länsstyrelserna samverka med Folkhälsomyndigheten,
 regionerna, företrädare för kommunerna samt andra berörda
 aktörer inom sina respektive geografiska områden.
 
+
+
 Uppdraget samordnas av länsstyrelsen i Skåne län.
 
 Uppdraget redovisas löpnade till Regeringskansliet. Förslaget med enhetliga kriterier redovisas senast den 1 december 2020 till Socialdepartementet och tillämpas därefter i den löpande redovisningen.

@@ -4,7 +4,7 @@ Regeringen ger Statens jordbruksverk (Jordbruksverket) i uppdrag att utforma och
 
 Programmet ska innehålla en modell för hur rådgivning och annan kompetensutveckling bör designas för att säkerställa löpande och ändamålsenlig kunskapsuppbyggnad om skötsel av ängs- och betesmarker hos målgrupperna. Programmet ska övergripande beskriva innehållet samt innehålla en redogörelse för hur prioriteringar mellan olika målgrupper kan göras. Stödmottagare som har särskilda motiv för deltagande i programmet ska beaktas vid prioriteringarna, såsom helt nya stödmottagare med betesmark eller slåtterängar samt stödmottagare som upplever att kompetensutveckling av andra skäl kan göra stor skillnad i fråga om främjande av sådana natur- och kulturvärden som påverkas av brukandet.
 
-Programmet ska vidare bygga på en analys av hur kunskap som  framtagits genom tidigare upprättade åtagandeplaner, andra inventeringar och planer samt iakttagelser från ajourhållning av blockdatabasen kan nyttjas som underlag vid rådgivningen där så är lämpligt.
+Programmet ska vidare bygga på en analys av hur kunskap som framtagits genom tidigare upprättade åtagandeplaner, andra inventeringar och planer samt iakttagelser från ajourhållning av blockdatabasen kan nyttjas som underlag vid rådgivningen där så är lämpligt.
 
 Programmet kan bidra i arbetet med att sprida kunskap om hotade arter och naturvärden i skyddade områden, men inte ersätta sådana delar i bevarandearbetet som åvilar nationell myndighet.
 

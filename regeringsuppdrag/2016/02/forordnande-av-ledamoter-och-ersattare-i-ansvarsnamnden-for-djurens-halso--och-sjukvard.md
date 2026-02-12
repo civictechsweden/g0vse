@@ -12,6 +12,8 @@ Leg. veterinären Lars-Peter Lannek
 
 Leg. veterinären Nils Roneús
 
+
+
 ## Fr.o.m. den 1 januari 2016 t.o.m. den 31 december 2018
 
 ### Ledamot:
@@ -33,6 +35,8 @@ Veterinärmedicine doktorn Karin Holm
 Förbundsjuristen Göran Wahlman
 
 Leg. veterinären Lars Petersson
+
+
 
 ## Fr.o.m. den 1 januari 2016 t.o.m. den 31 december 2019
 

@@ -84,7 +84,7 @@ I promemorian föreslås förändringar av malus, det vill säga den förhöjda 
 
 I promemorian föreslås begränsningar i rätten till avdrag för ränteutgifter i inkomstslaget kapital. Enligt förslaget ska ränta bara dras av på lån som uppfyller särskilda förutsättningar gällande värdering av ställda säkerheter och maximal belåningsgrad. Ränta ska dras av om lånet lämnas mot säkerhet i bostad, fordon eller båt. Ränta ska också dras av om lånet avser finansiering av ny-, till- eller ombyggnad av en byggnad och avsikten är att lånet när byggprojektet är färdigt ska omvandlas till ett lån med säkerhet i bostad.
 
-Rätten till avdrag för ränteutgifter ska trappas av på två år. Det innebär att avdrag för beskattningsåret 2025 får göras med 50 procent av ränteutgifter på lån som inte är förenade med säkerhet i bostad, fordon eller båt. De nya bestämmelserna föreslås träda i kraft den 1 januari 2025.
+Rätten till avdrag för ränteutgifter ska trappas av på två år. Det innebär att avdrag för beskattningsåret 2025 får göras med 50 procent av ränteutgifter på lån som inte är förenade med säkerhet i bostad, fordon eller båt. De nya bestämmelserna föreslås träda i kraft den 1 januari 2025.
 
 [Promemoria: Avtrappat ränteavdrag för vissa lån](/rattsliga-dokument/departementsserien-och-promemorior/2024/01/avtrappat-ranteavdrag-for-vissa-lan/)
 

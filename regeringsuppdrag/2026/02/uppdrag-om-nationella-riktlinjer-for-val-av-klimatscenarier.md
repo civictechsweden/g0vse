@@ -1,4 +1,4 @@
-# Uppdrag om nationella riktlinjer för val av klimatscenarierDiarienummer: KN2026/00181
+# Uppdrag om nationella riktlinjer för val av klimatscenarier
 
 Regeringen ger Sveriges meteorologiska och hydrologiska institut (SMHI), Boverket och Trafikverket i uppdrag att ta fram förslag på nationella riktlinjer om val av klimatscenarier och vägledning om hur olika klimatrelaterade risker kan bedömas av statliga myndigheter, kommuner och andra aktörer.
 

@@ -7,6 +7,6 @@ Förslagen innebär bl.a. att det införs en ny alternativ ordning för ersättn
 Det föreslås också några mindre redaktionella ändringar med anledning av att Lissabonfördraget trätt i kraft.
 
 Lagändringarna föreslås träda i kraft den 1 juli 2011.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_________________________________________________________
 
 Riksdagen fattade den 15 juni 2011 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

@@ -28,7 +28,7 @@ Personlig beredskap är en solidaritetshandling med sitt land. Att göra sin pli
 
 ---
 
-Det finns en länk mellan det civila försvar som avvecklades och det som nu ska återuppbyggas. De som aldrig slutade, de osjungna hjältarna som inte tog strategisk time out när politikerna och det offentliga Sverige gjorde det. Jag talar om de 350 000 svenskar som är engagerade i våra frivilliga försvarsorganisationer.
+Det finns en länk mellan det civila försvar som avvecklades och det som nu ska återuppbyggas. De som aldrig slutade, de osjungna hjältarna som inte tog strategisk time out när politikerna och det offentliga Sverige gjorde det. Jag talar om de 350 000 svenskar som är engagerade i våra frivilliga försvarsorganisationer.
 
 Att säkerställa att dessa organisationer ges goda förutsättningar till utbildning och övning är centralt men också att man har en tydlig och definierad roll gentemot det offentliga vid höjd beredskap. Här finns mer att göra. Att säkerställa detta är en av de saker som faktiskt snabbt bygger ökad förmåga.
 
@@ -66,7 +66,7 @@ Vi har sedan en tid tillbaka ett nationellt cybersäkerhetscenter, men det är d
 
 Avslutning
 
-Upprustningen av det civila försvaret måste ske med två perspektiv samtidigt.  Till att börja med det omedelbara. Slutsatser av det som just nu pågår i Ukraina måste dras, förmågehöjande åtgärder måste identifieras och prioriteras här och nu och det gäller systemets samtliga aktörer.
+Upprustningen av det civila försvaret måste ske med två perspektiv samtidigt. Till att börja med det omedelbara. Slutsatser av det som just nu pågår i Ukraina måste dras, förmågehöjande åtgärder måste identifieras och prioriteras här och nu och det gäller systemets samtliga aktörer.
 
 Rysslands brutala krigföring, där civil infrastruktur och civilbefolkning har gjorts till taktiska måltavlor i ett försök att knäcka det ukrainska samhället, visar realiteterna vi har att förhålla oss till med en regelbaserad världsordning satt på undantag.
 

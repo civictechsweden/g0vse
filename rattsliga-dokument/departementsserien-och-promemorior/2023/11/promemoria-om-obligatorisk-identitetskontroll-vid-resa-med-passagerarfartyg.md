@@ -1,4 +1,4 @@
-# Promemoria om obligatorisk identitetskontroll vid resa med passagerarfartyg
+# Obligatorisk identitetskontroll vid resa med passagerarfartyg
 
 Under våren 2022 infördes en skärpning av kravet på skyldigheten att registrera uppgifter om ombordvarande på passagerarfartyg efter kontroll av giltig identitetshandling. Skärpningen innebar att man tog bort begränsningen om att detta bara skulle gälla om det fanns skäl att anta att uppgifter som lämnats utan att styrkas med identitetshandling kunde vara oriktiga.
 

@@ -1,4 +1,4 @@
-# Remiss av promemorian Genomförande av bestämmelser i förnybartdirektivet om tillståndsförfaranden för förnybar energiDiarienummer: KN2025/00895
+# Remiss av promemorian Genomförande av bestämmelser i förnybartdirektivet om tillståndsförfaranden för förnybar energi
 
 Här kan du ta del av svaren från de som ombetts svara på remissen av promemorian Genomförande av bestämmelser i förnybartdirektivet om tillståndsförfaranden för förnybar energi. Övriga yttranden finns tillgängliga i departementet.
 

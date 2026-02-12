@@ -7,3 +7,11 @@ På eftermiddagen den 27 november hålls en pressträff med regeringscheferna.
 Den 28 november har statsminister Ulf Kristersson och Polens premiärminister Donald Tusk bilaterala överläggningar. Vid mötet undertecknas ett nytt strategiskt partnerskap mellan Sverige och Polen. Statsministern och premiärministern kommer därefter hålla en gemensam pressträff.
 
 Toppmötet sker mot slutet av Sveriges ordförandeskap i det informella utrikes- och säkerhetspolitiska samarbetet NB8.
+
+Under mötets första dag kommer diskussionerna bland annat handla om de transatlantiska relationerna och regional säkerhet i Östersjöregionen. Ledarna kommer även diskutera det fortsatta långsiktiga stödet till Ukraina.
+
+På eftermiddagen den 27 november hålls en pressträff med regeringscheferna.
+
+Den 28 november har statsminister Ulf Kristersson och Polens premiärminister Donald Tusk bilaterala överläggningar. Vid mötet undertecknas ett nytt strategiskt partnerskap mellan Sverige och Polen. Statsministern och premiärministern kommer därefter hålla en gemensam pressträff.
+
+Toppmötet sker mot slutet av Sveriges ordförandeskap i det informella utrikes- och säkerhetspolitiska samarbetet NB8.

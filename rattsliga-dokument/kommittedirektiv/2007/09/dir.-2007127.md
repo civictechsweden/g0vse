@@ -10,10 +10,10 @@ Utredaren ska
 * särskilt utreda och analysera behovet av förändringar i alkohollagen i fråga om
 
 - detaljhandel med öl,
- - förbud mot att bjuda underåriga på alkohol,
- - sanktionssystemets utformning,
- - tillstånd till servering av spritdrycker, vin och starköl,
- - brandskydd på serveringsställe;
+- förbud mot att bjuda underåriga på alkohol,
+- sanktionssystemets utformning,
+- tillstånd till servering av spritdrycker, vin och starköl,
+- brandskydd på serveringsställe;
 
 * utreda och analysera behovet av reglering när det gäller vissa frågor och företeelser som är knutna till alkoholhantering och som i dag är oreglerade i alkohollagen, som vinmässor och rumsservice;
 * utreda vilka konsekvenserna blir av en lagändring som innebär att tillverkare av spritdrycker, vin och starköl tillåts att på den egna gården sälja egenproducerade drycker till konsumenter samt om inga negativa konsekvenser vad gäller restriktiv alkoholpolitik bedöms föreligga och det bedöms vara förenligt med EG-rätten föreslå förslag till reglering;

@@ -6,10 +6,10 @@ I promemorian behandlas dessa artiklar. Det föreslås att det i lagen om
 registrering av verkliga huvudmän införs
 
 * striktare regler om på vilket sätt olika kategorier av mottagare kan få
-  del av uppgifter i registret, och
+del av uppgifter i registret, och
 * en ny sekretessbestämmelse till skydd för enskild vars uppgifter finns
-  i registret.
+i registret.
 
-Eftersom de nya unionsrättsliga bestämmelserna innebär krav på att personer med ett berättigat intresse av uppgifterna i registret över verkliga huvudmän ska kunna få del av dessa elektroniskt och även anger ett förfarande för att fastställa om ett berättigat intresse finns, föreslås även att sådana bestämmelser tas in i nationell rätt.
+Eftersom de nya unionsrättsliga bestämmelserna innebär krav på att personer med ett berättigat intresse av uppgifterna i registret över verkliga huvudmän ska kunna få del av dessa elektroniskt och även anger ett förfarande för att fastställa om ett berättigat intresse finns, föreslås även att sådana bestämmelser tas in i nationell rätt.
 
-Lagändringarna föreslås träda i kraft den 1 november 2025 respektive den 1 juli 2026.
+Lagändringarna föreslås träda i kraft den 1 november 2025 respektive den 1 juli 2026.

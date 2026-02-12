@@ -1,6 +1,6 @@
 # Internationellt rättsligt samarbete - Centralmyndighetens roll
 
-![](/contentassets/27a6423e021a464283d9ac7dd090f9d9/fakta-ju-1401-.jpg?width=150&quality=85)
+![](/contentassets/27a6423e021a464283d9ac7dd090f9d9/fakta-ju-1401-.jpg?width=150&amp;quality=85)
 
 Faktabladet ger en övergripande bild av Centralmyndighetens roll i det internationella rättsliga samarbetet.
 

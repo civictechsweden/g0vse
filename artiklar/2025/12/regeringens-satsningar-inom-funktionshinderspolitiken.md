@@ -10,7 +10,7 @@ Socialtjänsten är samhällets yttersta skyddsnät för de mest utsatta. Den 1 
 
 ## 7 miljoner till nationellt kompetenscentrum om intellektuell funktionsnedsättning och autism
 
-Regeringen har tidigare gett Socialstyrelsen i uppdrag att förbereda inrättandet av ett nationellt kompetenscentrum om intellektuell funktionsnedsättning och autism. Nu har medel betalats ut till myndigheten och 2026 ska kompetenscentret börja sitt arbete att bland annat höja kompetensen hos personal som arbetar i LSS-boenden, och öka förståelsen och  kunskapen om funktionsnedsättningar så att barn, unga och vuxna med intellektuell funktionsnedsättning eller autism får möjlighet till självbestämmande och inflytande och bemöts på ett bra sätt.
+Regeringen har tidigare gett Socialstyrelsen i uppdrag att förbereda inrättandet av ett nationellt kompetenscentrum om intellektuell funktionsnedsättning och autism. Nu har medel betalats ut till myndigheten och 2026 ska kompetenscentret börja sitt arbete att bland annat höja kompetensen hos personal som arbetar i LSS-boenden, och öka förståelsen och kunskapen om funktionsnedsättningar så att barn, unga och vuxna med intellektuell funktionsnedsättning eller autism får möjlighet till självbestämmande och inflytande och bemöts på ett bra sätt.
 
 ## Krafttag mot brottslighet inom personlig assistans och LSS
 
@@ -20,11 +20,11 @@ Regeringen har också beslutat om skarpare verktyg till Inspektionen för vård 
 
 ## Satsning att stoppa kriminellas rekrytering av barn med funktionsnedsättning
 
-Regeringen har gett Myndigheten för delaktighet i uppdrag att ta fram stödmaterial om hur behov och förutsättningar bland barn och unga med funktionsnedsättning kan integreras i arbetet med att förebygga och motverka kriminellt beteende bland barn och unga.  Materialet ska rikta sig till relevanta aktörer såsom socialtjänsten, polisen och skolan.
+Regeringen har gett Myndigheten för delaktighet i uppdrag att ta fram stödmaterial om hur behov och förutsättningar bland barn och unga med funktionsnedsättning kan integreras i arbetet med att förebygga och motverka kriminellt beteende bland barn och unga. Materialet ska rikta sig till relevanta aktörer såsom socialtjänsten, polisen och skolan.
 
 ## Våld mot barn och unga med funktionsnedsättning
 
-Barn och unga med funktionsnedsättning löper särskild risk att utsättas  för våld. Det är avgörande att verksamheter som möter dessa personer har tillgång till  anpassade metoder och verktyg. Myndigheten för delaktighet har därför fått i uppdrag av regeringen att sprida kunskap för att förebygga och motverka våld mot barn och unga med funktionsnedsättning, inklusive hedersrelaterat våld och förtryck.
+Barn och unga med funktionsnedsättning löper särskild risk att utsättas för våld. Det är avgörande att verksamheter som möter dessa personer har tillgång till anpassade metoder och verktyg. Myndigheten för delaktighet har därför fått i uppdrag av regeringen att sprida kunskap för att förebygga och motverka våld mot barn och unga med funktionsnedsättning, inklusive hedersrelaterat våld och förtryck.
 
 ## Större rörlighet inom EU
 

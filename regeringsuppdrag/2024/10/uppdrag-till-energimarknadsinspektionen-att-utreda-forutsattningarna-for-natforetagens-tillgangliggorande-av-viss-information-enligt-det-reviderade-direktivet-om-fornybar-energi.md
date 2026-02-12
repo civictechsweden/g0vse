@@ -5,9 +5,9 @@ Regeringen ger Energimarknadsinspektionen i uppdrag att ta fram underlag för oc
 Energimarknadsinspektionen ska:
 
 1. utreda hur distributionsnätsföretagen ska få tillgång till nödvändiga
-   uppgifter enligt artikel 20a.1.
+uppgifter enligt artikel 20a.1.
 2. utreda om det bör krävas av nätföretagen att de tillgängliggör sådana
-   prognoser som avses i artikel 20a.1.
+prognoser som avses i artikel 20a.1.
 3. utreda hur Sverige ska ge incitament till uppdateringar av smarta nät så att nätbalansen kan övervakas bättre och realtidsuppgifter tillgängliggöras.
 4. utreda om det är tekniskt möjligt för distributionsnätsföretagen att tillgängliggöra anonymiserade och aggregerade uppgifter om potentialen för efterfrågeflexibilitet och om den förnybara el som produceras och matas in i nätet av egenanvändare och gemenskaper för förnybar energi, inklusive frågan om hur anonymitet säkerställs om antalet egenanvändare på ett nät är lågt.
 5. utreda hur kraven på nätföretagen i artikel 20a bör utformas, inklusivehur det bör säkerställas att de uppgifter som avses i artikel 20a.1 tillgängliggörs på ett sätt som överensstämmer med artikel 20a.2.

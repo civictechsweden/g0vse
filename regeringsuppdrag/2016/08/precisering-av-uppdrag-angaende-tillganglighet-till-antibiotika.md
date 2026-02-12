@@ -5,4 +5,4 @@ Folkhälsomyndigheten får i uppdrag att genomföra en förstudie av förutsätt
 Detta uppdrag är en precisering av delar av uppdraget angående
 tillgänglighet till antibiotika, från den 21 april 2016.
 
-[(Uppdrag angående tillgänglighet till antibiotika)](/regeringsuppdrag/2016/04/uppdrag-till-folhalsomyndigheten-angaende-tillganglighet-till-antibiotika/)
+[(Uppdrag angående tillgänglighet till antibiotika)](/regeringsuppdrag/2016/04/uppdrag-till-folhalsomyndigheten-angaende-tillganglighet-till-antibiotika/)

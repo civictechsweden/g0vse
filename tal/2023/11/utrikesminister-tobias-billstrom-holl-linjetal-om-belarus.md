@@ -16,7 +16,7 @@ Sammankomsterna upphörde av naturliga skäl 1991, men efter Rysslands storskali
 
 Det här stödet visas också genom konkret regeringspolitik. Sverige har länge varit en av de största givarna av reformbistånd till regionen, och en av mina företrädare, Carl Bildt, hjälpte till att inrätta EU:s östliga partnerskap. Det östliga partnerskapet har varit en stor framgångshistoria. Det har till exempel lett till associeringsavtalen och de djupgående och omfattande frihandelsavtalen med Ukraina, Moldavien och Georgien. De är de mest vittomfattande avtal som EU har undertecknat med något tredjeland. Genom partnerskapet har man infört system för liberalisering av viseringsbestämmelserna för att föra våra folk närmare varandra. Tre av de östliga partnerländerna har getts utsikter till EU-medlemskap, och två av dem är erkända som kandidatländer.
 
-\* \* \*
+* * *
 
 Detta mångåriga svenska stöd till regionen inkluderar även Belarus.
 
@@ -38,7 +38,7 @@ I dag är läget i Belarus sämre än någonsin tidigare för de som dristar sig
 
 Låt oss för en stund minnas de närmare 1 500 personer som människorättsgruppen Vjasna har listat som politiska fångar i Belarus i dag – däribland Nobelpristagaren Ales Bjaljatski. De hålls i förvar under bedrövliga förhållanden och utsätts för misshandel och rentav för tortyr. De behöver vårt stöd nu och de kommer att behöva vårt stöd när de har frigetts. Vi står redo att ge dem stöd.
 
-\* \* \*
+* * *
 
 Den 24 februari 2022 inledde Ryssland sitt anfallskrig mot Ukraina. Det som låg bakom det var Rysslands strävan efter att återskapa sitt forna kolonialrike och undergräva både den europeiska säkerhetsordningen och FN-stadgan. Genom att tillåta att landets territorium användes som ett språngbräde för anfall mot Ukraina är även Belarus ansvarigt för en aggressionshandling.
 
@@ -54,11 +54,11 @@ Kort sagt har det belarusiska folket inte blivit bortglömt. Frihet och rättsst
 
 Folkrätten och en regelbaserad världsordning är centrala och långsiktiga svenska utrikes- och säkerhetspolitiska intressen. Den europeiska säkerhetsordningen som normsystem är fortfarande giltig och måste utgöra grunden för förbindelser mellan alla europeiska stater, även Ryssland och Belarus.
 
-\* \* \*
+* * *
 
 Framöver kommer vi att fokusera på tre pelare i vår Belaruspolitik.
 
-För det första: Vi kommer att fortsätta att sätta press på regimen.  Vi kommer att fortsätta att arbeta tillsammans med våra EU-partner för att anta och genomföra ytterligare sanktioner som ett svar på såväl den inhemska repressionen som regimens stöd till Rysslands aggression mot Ukraina.
+För det första: Vi kommer att fortsätta att sätta press på regimen. Vi kommer att fortsätta att arbeta tillsammans med våra EU-partner för att anta och genomföra ytterligare sanktioner som ett svar på såväl den inhemska repressionen som regimens stöd till Rysslands aggression mot Ukraina.
 
 Vi kommer också att fortsätta att stödja initiativ som främjar ansvarsutkrävande. I det sammanhanget gläder det mig att kunna tillkännage nytt svenskt stöd till civilsamhällesinitiativet International Accountability Platform for Belarus, en organisation som arbetar för att samla in, sammanställa, kontrollera och bevara bevis på grova människorättskränkningar som begicks under perioden runt presidentvalet 2020 och som utgör brott enligt internationell rätt.
 
@@ -72,9 +72,9 @@ Vi vill också arbeta närmare tillsammans med våra nordiska och baltiska grann
 
 Genom dessa tre pelare kommer vi att verka för att Belarus ska stå högt upp på den utrikespolitiska dagordningen.
 
-\* \* \*
+* * *
 
-Avslutningsvis vill jag understryka att Belarus är något som är större än bara Lukasjenkaregimen. Beslutsamheten hos det belarusiska folket, som med stor risk på det personliga planet fortsätter att försvara mänskliga rättigheter och demokrati, är en källa till hopp.  Det är min uppriktiga önskan att alla belarusier i exil ska kunna återvända hem utan risk för förföljelse, och att den känsla av framtidstro som genomsyrade början av 1990-talet ska återvända.
+Avslutningsvis vill jag understryka att Belarus är något som är större än bara Lukasjenkaregimen. Beslutsamheten hos det belarusiska folket, som med stor risk på det personliga planet fortsätter att försvara mänskliga rättigheter och demokrati, är en källa till hopp. Det är min uppriktiga önskan att alla belarusier i exil ska kunna återvända hem utan risk för förföljelse, och att den känsla av framtidstro som genomsyrade början av 1990-talet ska återvända.
 
 För Belarus är ett land med stor och outnyttjad potential. Landet skulle kunna uppnå så mycket mer om det gjorde andra politiska val. Jag hoppas på ett framtida Belarus där frihet inte ifrågasätts och där mänskliga rättigheter respekteras. Där det hålls fria och rättvisa val. Ett land som människor känner en stark längtan att återvända till snarare än ett som de tvingas lämna.
 

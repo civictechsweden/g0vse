@@ -6,6 +6,6 @@ Vidare föreslås att nuvarande kommunala riktlinjer för bostadsförsörjningen
 
 Ändringen innebär bland annat att kommunerna ska redogöra för behovet av tillskott av bostäder och ta hänsyn till behovet av samordning med andra kommuner både i planeringen och när åtgärder för bostadsförsörjningen vidtas.
 
-I propositionen föreslås också att lagen (2014:899) om riktlinjer för kommunala markanvisningar ges ett uttryckligt bostadsförsörjningssyfte.
+I propositionen föreslås också att lagen (2014:899) om riktlinjer för kommunala markanvisningar ges ett uttryckligt bostadsförsörjningssyfte.
 
 De nya reglerna föreslås träda i kraft den 1 mars 2025.

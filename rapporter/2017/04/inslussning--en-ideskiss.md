@@ -1,6 +1,6 @@
 # Inslussning – en idéskiss
 
-![](/contentassets/17b61b3d7b9b4451b3b1bdbba4ba9bc0/inslussning---en-ideskiss---omslag.jpg?width=150&quality=85)
+![](/contentassets/17b61b3d7b9b4451b3b1bdbba4ba9bc0/inslussning---en-ideskiss---omslag.jpg?width=150&amp;quality=85)
 
 Chefen för Justitiedepartementet, statsrådet Morgan Johansson, beslutade den 6 september 2016 att ge generaldirektören Anne Holm Gulati i uppdrag att lämna förslag på en modell för samverkan kring återfallsförebyggande insatser. Uppdraget redovisas med denna rapport.
 

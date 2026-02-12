@@ -1,4 +1,4 @@
-# Tilläggsdirektiv till Utredningen om genomförande av EU:s direktiv om tillbörlig aktsamhet för företag i fråga om hållbarhetDir. 2025:109
+# Tilläggsdirektiv till Utredningen om genomförande av EU:s direktiv om tillbörlig aktsamhet för företag i fråga om hållbarhet
 
 Ändring i uppdraget
 

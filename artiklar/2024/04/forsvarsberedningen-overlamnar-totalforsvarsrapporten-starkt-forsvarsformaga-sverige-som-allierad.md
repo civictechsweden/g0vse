@@ -29,6 +29,6 @@ Försvarsberedningen föreslår därutöver en långsiktig planering för Sverig
 
 Försvarsberedningen vill framhålla att de förslag som beredningen lämnat kan behöva justeras beroende på utvecklingen Rysslands fullskaliga invasion av Ukraina och det osäkra säkerhetspolitiska läget. Därtill kommer riksdag och regering att behöva beakta det svenska Natomedlemskapet och de därmed sammanhängande kraven på krigsorganisationen för både det civila och det militära försvaret, inklusive kommande mål för det svenska militära försvarets förmåga.
 
-Försvarsberedningens förslag innebär att tillskottet för det militära försvaret kommer stegvis från år 2025, för att 2030 uppgå till totalt 52,8 miljarder kronor, varav 20 miljarder kronor utgörs av Försvarsberedningens förslag.  För det civila försvaret kommer tillskottet bli minst 15 miljarder kronor per år från 2028.
+Försvarsberedningens förslag innebär att tillskottet för det militära försvaret kommer stegvis från år 2025, för att 2030 uppgå till totalt 52,8 miljarder kronor, varav 20 miljarder kronor utgörs av Försvarsberedningens förslag. För det civila försvaret kommer tillskottet bli minst 15 miljarder kronor per år från 2028.
 
 Försvarsberedningen anser att chefen för Försvarsdepartementet bör överväga att ge Försvarsberedningen anvisningar om att fortsätta följa den försvars- och säkerhetspolitiska utvecklingen.

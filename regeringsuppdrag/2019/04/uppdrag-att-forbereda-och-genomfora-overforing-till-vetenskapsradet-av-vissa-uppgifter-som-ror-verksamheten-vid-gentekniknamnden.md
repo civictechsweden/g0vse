@@ -8,4 +8,4 @@ Av promemorian framgår att nuvarande organisation av Gentekniknämnden medför 
 
 I promemorian föreslås att Gentekniknämnden ges en värdmyndighet som ansvarar för administrativa och handläggande uppgifter åt nämnden. Som värdmyndighet föreslås Vetenskapsrådet, som därmed blir arbetsgivare för den personal som ska utföra administrativa och handläggande uppgifter åt Gentekniknämnden. Promemorian har remitterats.
 
-Uppdraget ska redovisas till regeringen (Justitiedepartementet) senast den 1 oktober 2019. Redovisningen ska innehålla en beskrivning av konsekvenser för personalen och kostnaderna för genomförandet.
+Uppdraget ska redovisas till regeringen (Justitiedepartementet) senast den 1 oktober 2019. Redovisningen ska innehålla en beskrivning av konsekvenser för personalen och kostnaderna för genomförandet.

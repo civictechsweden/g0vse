@@ -1,6 +1,6 @@
-# En svensk strategi för biologisk mångfald och ekosystemtjänsterDiarienummer: KN2026/00242
+# En svensk strategi för biologisk mångfald och ekosystemtjänster
 
-![](/contentassets/0bb2d455cbb8406781c8487ad9d4c2d9/omslag-strategi-biologisk-mangfald-ekosystemtjanster_miniatyr.png?width=150&quality=85)
+![](/contentassets/0bb2d455cbb8406781c8487ad9d4c2d9/omslag-strategi-biologisk-mangfald-ekosystemtjanster_miniatyr.png?width=150&amp;quality=85)
 
 En ny strategi och handlingsplan för biologisk mångfald och ekosystemtjänster har till syfte att hejda och vända förlusten av biologisk mångfald i Sverige.
 

@@ -94,9 +94,9 @@ Myndigheter under regeringen är skyldiga att svara på remissen. En myndighet a
 
 För andra remissinstanser innebär remissen en in­bju­dan att lämna synpunkter.
 
-Frågor under remisstiden kan ställas till K A [Stefan Svensson](mailto:stefan.svensson@regeringskansliet.se "Stefan Svensson"), telefonnummer 08-405 16 74.
+Frågor under remisstiden kan ställas till K A [Stefan Svensson](mailto:stefan.svensson@regeringskansliet.se "Stefan Svensson"), telefonnummer 08-405 16 74.
 
 Remissinstanserna kan utan kostnad få ytterligare högst ett exemplar av betänkandet. Exemplaren beställs hos Fritzes kundservice, 106 47 Stockholm. Telefon 08-598 191 90, telefax 08-598 191 91,
-e-post, [order.fritzes@nj.se](mailto:order.fritzes@nj.se). Ange vid beställning att exemplaren är avsedda för remissändamål.
+e-post, <order.fritzes@nj.se>. Ange vid beställning att exemplaren är avsedda för remissändamål.
 
-Råd om hur remissyttranden utformas finns i Statsrådsberedningens promemoria Svara på remiss – hur och varför (SB PM 2003:2).
+Råd om hur remissyttranden utformas finns i Statsrådsberedningens promemoria Svara på remiss – hur och varför (SB PM 2003:2).

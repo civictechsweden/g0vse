@@ -1,8 +1,8 @@
-# Nya regler om geografiska beteckningar och internationella varumärkenProp. 2024/25:177
+# Nya regler om geografiska beteckningar och internationella varumärken
 
 I propositionen föreslår regeringen en ny lag som ska komplettera EU:s förordning om skydd av geografiska beteckningar för hantverks- och industriprodukter.
 
-Propositionen innehåller förslag som innebär att en ansökan om registrering av en geografisk beteckning med ursprung i Sverige ska lämnas direkt till EU:s immaterialrättsmyndighet och att Patent- och registreringsverket ska kontrollera efterlevnaden av skyddet för denna typ av geografiska beteckningar. Varumärkeslagens regler om skadestånd och andra sanktioner ska kunna tillämpas i samband med intrång.
+Propositionen innehåller förslag som innebär att en ansökan om registrering av en geografisk beteckning med ursprung i Sverige ska lämnas direkt till EU:s immaterialrättsmyndighet och att Patent- och registreringsverket ska kontrollera efterlevnaden av skyddet för denna typ av geografiska beteckningar. Varumärkeslagens regler om skadestånd och andra sanktioner ska kunna tillämpas i samband med intrång.
 
 I propositionen föreslås också att varumärkeslagens regler om sanktioner ska vara tillämpliga i samband med intrång i geografiska beteckningar som skyddas av EU:s handelsavtal med Nya Zeeland och Chile.
 

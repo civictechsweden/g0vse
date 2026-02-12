@@ -15,4 +15,4 @@ Förslagen syftar i huvudsak till att genomföra EU:s direktiv om bekämpande av
 
 Lagändringarna föreslås träda i kraft den 1 september 2018.
 
-[Pressmeddelande: Regeringen utvidgar lagstiftningen mot terrorism](/pressmeddelanden/2018/03/regeringen-utvidgar-lagstiftningen-mot-terrorism/)
+[Pressmeddelande: Regeringen utvidgar lagstiftningen mot terrorism](/pressmeddelanden/2018/03/regeringen-utvidgar-lagstiftningen-mot-terrorism/)

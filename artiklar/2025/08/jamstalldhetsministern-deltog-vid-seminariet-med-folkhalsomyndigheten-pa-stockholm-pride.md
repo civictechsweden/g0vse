@@ -10,7 +10,9 @@ Myndighetscheferna för Jämställdhetsmyndigheten, Kulturrådet och Arbetsmilj�
 
 Nina Larsson berättade bland annat om att regeringen i dag fattat beslut om att stärka stödet till våldsutsatta hbtqi-personer.
 
- - Sverige ska vara det bästa landet i världen - även för hbtqi-personer, avslutade jämställdhetsministern.
+- Sverige ska vara det bästa landet i världen - även för hbtqi-personer, avslutade jämställdhetsministern.
+
+
 
 **Regeringens arbete för hbtqi-personers rättigheter**
 

@@ -11,7 +11,9 @@ Det övergripande målet för samhällets insatser är att begränsa spridning a
 Strategin innehåller tre delmål:
 
 1. Att behovs- och kunskapsbaserade hälsofrämjande och förebyggande insatser når relevanta målgrupper, såväl som hela befolkningen.
+
 2. Att tidigt identifiera och behandla hivinfektion.
+
 3. Att stigma och diskriminering relaterad till hivinfektion minimeras, och att personer som lever med hivinfektion kan berätta om sin infektion utan oro för att särbehandlas.
 
 ### Långsiktigt förebyggande arbete

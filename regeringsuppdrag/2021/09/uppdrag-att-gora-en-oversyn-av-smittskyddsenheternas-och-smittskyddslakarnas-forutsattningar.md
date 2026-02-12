@@ -4,6 +4,8 @@ Socialstyrelsen ska se över de regionala smittskyddsenheternas och smittskyddsl
 
 I uppdraget ingår att:
 
+
+
 * Kartlägga de regionala smittskyddsenheternas och smittskyddsläkarnas dimensionering och organisering samt bedöma förutsättningarna för att genomföra uppdraget, såsom det framgår av smittskyddslagen och om dessa förutsättningar är likvärdiga över hela landet,
 * analysera, eller sammanställa eventuella tidigare bedömningar, om en mer lokal placering av smittskyddsenheter, exempelvis på kommunnivå, skulle stärka smittskyddet på ett ändamålsenligt sätt,
 * identifiera utvecklingsområden för samordning och samarbete med kommunal vård och omsorg samt på nationell nivå mellan de regionala smittskyddsenheterna,
@@ -11,5 +13,7 @@ I uppdraget ingår att:
 * vid behov lämna förslag på en utvecklad organisering, struktur och dimensionering med syfte att möjliggöra en ökad effektivitet, samordning och likformighet i verksamheterna.
 
 Socialstyrelsen samverkar i uppdraget med Folkhälsomyndigheten och andra betydelsefulla myndigheter. Myndigheten bör samtala med Sveriges Kommuner och Regioner och andra aktörer som exempelvis utredningen Författningsberedskap inför framtida pandemier.
+
+
 
 Socialstyrelsen redovisar uppdraget senast den 30 november 2022.

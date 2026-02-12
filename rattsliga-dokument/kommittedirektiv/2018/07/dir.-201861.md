@@ -11,4 +11,4 @@ En särskild utredare ska därför
 
 Uppdraget ska redovisas senast den 31 maj 2019.
 
-[Pressmeddelande: Straffansvaret för rasistiska symboler ses över](/pressmeddelanden/2018/07/straffansvaret-for-rasistiska-symboler-ses-over/)
+[Pressmeddelande: Straffansvaret för rasistiska symboler ses över](/pressmeddelanden/2018/07/straffansvaret-for-rasistiska-symboler-ses-over/)

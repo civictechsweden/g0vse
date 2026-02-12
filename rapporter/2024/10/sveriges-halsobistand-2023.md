@@ -1,6 +1,6 @@
 # Sveriges hälsobistånd 2023
 
-![](/contentassets/30aad4d336704b8cadde952d0b91fd7f/sveriges-halsobistand-2023-omslag.png?width=150&quality=85)
+![](/contentassets/30aad4d336704b8cadde952d0b91fd7f/sveriges-halsobistand-2023-omslag.png?width=150&amp;quality=85)
 
 Det svenska hälsobiståndet för 2023 uppgick till 5,7 miljarder kronor. Viktiga fokusområden är stöd till hälsovård i Ukraina, samarbete med civilsamhället samt tillgång till SRHR och grundläggande hälso- och vaccinationsinsatser.
 

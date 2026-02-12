@@ -1,4 +1,4 @@
-# Riksrevisionens rapport om Skatteverkets åtgärder mot svartarbeteSkr. 2025/26:79
+# Riksrevisionens rapport om Skatteverkets åtgärder mot svartarbete
 
 I skrivelsen redovisar regeringen sin bedömning av Riksrevisionens iakttagelser och rekommendationer i granskningsrapporten Skatteverkets åtgärder mot svartarbete (RiR 2025:18).
 

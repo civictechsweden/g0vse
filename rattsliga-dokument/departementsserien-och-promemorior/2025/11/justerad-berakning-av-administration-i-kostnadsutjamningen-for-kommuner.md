@@ -1,4 +1,4 @@
-# Justerad beräkning av administration i kostnadsutjämningen för kommunerFi2025/02010
+# Justerad beräkning av administration i kostnadsutjämningen för kommuner
 
 I denna promemoria föreslås ändringar i tillägget för administration i kostnadsutjämningen för kommuner inom det kommunalekonomiska utjämningssystemet.
 

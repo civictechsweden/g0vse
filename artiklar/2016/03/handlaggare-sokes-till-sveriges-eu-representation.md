@@ -1,10 +1,10 @@
 # Handläggare sökes till Sveriges EU-representation
 
-![Permanent Representation of Sweden](/globalassets/government/bilder/eu-representationen/specialbeskuren-2.jpg?width=150&quality=85)
+![Permanent Representation of Sweden](/globalassets/government/bilder/eu-representationen/specialbeskuren-2.jpg?width=150&amp;quality=85)
 
 Lokalanställd handläggare sökes till Sveriges ständiga representation vid EU. Tjänsten är placerad vid sektionerna som ansvarar för Näringsdepartementets frågor. Tjänsten är tidsbegränsad med möjlighet till förlängning. Ansök senast 10 mars.
 
-Näringsdepartementets sektioner vid representationen inkluderar bland annat den gemensamma jordbruks- och fiskeripolitiken, skog, livsmedel samt veterinära- och fytosanitära frågor liksom transport-, industri- och telekomfrågor.
+Näringsdepartementets sektioner vid representationen inkluderar bland annat den gemensamma jordbruks- och fiskeripolitiken, skog, livsmedel samt veterinära- och fytosanitära frågor liksom transport-, industri- och telekomfrågor.
 
 EU-representationen är Sveriges största utlandsmyndighet. Verksamheten syftar till att utifrån regeringens prioriteringar och målsättningar förbereda, driva och vinna gehör för svenska ståndpunkter i EU-arbetet.
 
@@ -51,7 +51,7 @@ Upplysningar om anställningsvillkoren lämnas av personalhandläggare Simon Mor
 
 Facklig kontaktperson (ST-TCO) är Jeanette Lund
 
-Samtliga kontaktuppgifter nedan.
+Samtliga kontaktuppgifter nedan.
 
 ## Ansökan
 

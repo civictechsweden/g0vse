@@ -12,7 +12,7 @@ av betalningar.
 I lagrådsremissen föreslås bl.a. att
 
 * definitionen av clearingverksamhet ska utvidgas till att omfatta hela
-  betalningsprocessen,
+betalningsprocessen,
 * det ska ställas krav på bl.a. riskhantering, beredskap och cybersäkerhet, kapital samt styrning, och
 * det ska ställas krav vid utkontraktering av clearingverksamhet.
 

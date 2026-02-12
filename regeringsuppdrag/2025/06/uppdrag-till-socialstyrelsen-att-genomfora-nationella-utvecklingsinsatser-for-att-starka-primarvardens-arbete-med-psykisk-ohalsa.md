@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att genomföra nationella utvecklingsinsatser för att stärka primärvårdens arbete med psykisk ohälsaDiarienummer: S2025/01229
+# Uppdrag till Socialstyrelsen att genomföra nationella utvecklingsinsatser för att stärka primärvårdens arbete med psykisk ohälsa
 
 Regeringen ger Socialstyrelsen i uppdrag att genomföra nationella utvecklingsinsatser för att stärka primärvårdens arbete med psykisk ohälsa
 

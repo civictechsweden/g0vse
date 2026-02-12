@@ -1,4 +1,4 @@
-# Remiss av promemorian Utveckling av makrotillsynsområdetDiarienummer: Fi2025/01375
+# Remiss av promemorian Utveckling av makrotillsynsområdet
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Utveckling av makrotillsynsområdet. Övriga yttranden finns tillgängliga i departementet.
 

@@ -6,9 +6,11 @@ Vid FN-toppmötet som hölls den 19 september 2016 om storskaliga flykting- och 
 
 Det globala migrationsramverket är resultatet av en omfattande förhandlingsprocess mellan företrädarna för alla FN-medlemsstater. Den stora majoriteten av FN:s medlemsstater – mer än 160 länder – har gett sitt godkännande till migrationsramverket i samband med en högnivåkonferens i Marrakech, Marocko den 10–11 december 2018. Formellt antogs migrationsramverket i form av en resolution i FN:s generalförsamling den 19 december 2018. Migrationsramverket är inte ett internationellt avtal och är inte rättsligt bindande.
 
-**1. Vad är det globala migrationsramverket?**Migration är internationell till sin natur och innebär både utmaningar och möjligheter. Att hantera migrationens utmaningar och tillvarata dess möjligheter kräver internationellt samarbete. Migrationsramverket syftar till att tillhandahålla den internationella ramen för detta.
+**1. Vad är det globala migrationsramverket?**
+Migration är internationell till sin natur och innebär både utmaningar och möjligheter. Att hantera migrationens utmaningar och tillvarata dess möjligheter kräver internationellt samarbete. Migrationsramverket syftar till att tillhandahålla den internationella ramen för detta.
 
-**2. Hur är migrationsramverket upplagt och vad innehåller det?**Migrationsramverket inleds med tio vägledande principer som bland annat redogör för nationell suveränitet på migrationsområdet, att ramverket inte är juridiskt bindande och engagemanget för mänskliga rättigheter. Därefter beskrivs 23 mål för säker, ordnad och reguljär migration. Bland annat ingår följande:
+**2. Hur är migrationsramverket upplagt och vad innehåller det?**
+Migrationsramverket inleds med tio vägledande principer som bland annat redogör för nationell suveränitet på migrationsområdet, att ramverket inte är juridiskt bindande och engagemanget för mänskliga rättigheter. Därefter beskrivs 23 mål för säker, ordnad och reguljär migration. Bland annat ingår följande:
 
 * Minska grundorsaker som ger upphov till irreguljär migration
 * Förbättra säkra, ordnade och reguljära migrationsvägar
@@ -45,4 +47,5 @@ Migrationsramverket antogs vid en högnivåkonferens i Marrakech, Marocko den 10
 **10. Stöder den svenska regeringen antagandet av migrationsramverket?**
 Ja. Syftet med migrationsramverket är att på internationell nivå lägga grunden för bättre tillvaratagande av möjligheter samt stärkt hantering av utmaningar kopplade till internationell migration. Det utgör också en grund för förstärkt samarbete kring migration inom FN. Sverige har genom EU i förhandlingarna aktivt verkat för att förstärka det globala samarbetet mellan ursprungs-, transit- och destinationsländer. Sverige välkomnar den balanserade sluttexten och gav stöd till migrationsramverket vid högnivåkonferensen i Marrakech i december.
 
-**11. Hur var riksdagen involverad?**Regeringen informerade riksdagen (utrikes- och socialförsäkringsutskotten) om migrationsramverket i mars och november 2018. Därtill har ett flertal möten med aktörer från civilsamhället, privata sektorn och myndigheter ägt rum i syfte att informera om förhandlingarna samt inhämta synpunkter på prioriteringar för migrationsramverket från deltagande aktörer.
+**11. Hur var riksdagen involverad?**
+Regeringen informerade riksdagen (utrikes- och socialförsäkringsutskotten) om migrationsramverket i mars och november 2018. Därtill har ett flertal möten med aktörer från civilsamhället, privata sektorn och myndigheter ägt rum i syfte att informera om förhandlingarna samt inhämta synpunkter på prioriteringar för migrationsramverket från deltagande aktörer.

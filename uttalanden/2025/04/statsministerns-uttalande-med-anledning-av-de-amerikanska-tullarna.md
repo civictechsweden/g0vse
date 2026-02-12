@@ -6,7 +6,7 @@ Det var våra vänner i USA som en gång visade vägen för oss i Europa. Den fr
 
 Det var när samma frihet också utsträcktes till ekonomin som våra samhällen blev rikare. Människor såg sin tillvaro förbättras. Föräldrar såg sina barn få en framtid som de själva knappt våga drömma om.
 
-Det ömsesidiga samarbetet genom fri handel har bidragit till fred, teknologiska framsteg och minskad fattigdom globalt. Ja, hela mänskligheten har fått det bättre. Det är fritt företagande och fri konkurrens som har lagt grunden för västerlandets välstånd. Det är därför amerikaner kan lyssna på musik i svenska Spotify och vi svenskar kan lyssna på samma musik i  amerikanska iPhones.
+Det ömsesidiga samarbetet genom fri handel har bidragit till fred, teknologiska framsteg och minskad fattigdom globalt. Ja, hela mänskligheten har fått det bättre. Det är fritt företagande och fri konkurrens som har lagt grunden för västerlandets välstånd. Det är därför amerikaner kan lyssna på musik i svenska Spotify och vi svenskar kan lyssna på samma musik i amerikanska iPhones.
 
 Därför beklagar jag djupt att USA nu har slagit in på en väg där man vill begränsa handeln genom höjda tullar. Vi vill inte ha växande handelshinder. Vi vill inte ha något handelskrig. Det skulle göra våra befolkningar fattigare och världen på sikt farligare.
 

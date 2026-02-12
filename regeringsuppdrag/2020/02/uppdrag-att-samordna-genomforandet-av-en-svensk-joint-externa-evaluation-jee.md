@@ -13,6 +13,6 @@ Folkhälsomyndigheten ska senast den 31 mars 2021 redovisa uppdraget till Social
 
 Arbetet genomförs i samråd med berörda myndigheter. Regeringen uppdrar även till Livsmedelsverket, Myndigheten för samhällsskydd och beredskap, Socialstyrelsen, Statens jordbruksverk och Strålsäkerhetsmyndigheten att inom respektive tematiskt område koordinera förarbetet.
 
-Förarbetet består i att i enlighet med JEE verktyget själva utvärdera och sammanställa Sveriges beredskap mot gränsöverskridande hälsohot.
+Förarbetet består i att i enlighet med JEE verktyget själva utvärdera och sammanställa Sveriges beredskap mot gränsöverskridande hälsohot.
 
 Myndigheterna ska också delta vid utvärderingen tillsammans med experter och i samråd med WHO och Regeringskansliet.

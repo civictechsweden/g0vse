@@ -12,6 +12,6 @@ Ansvaret för att vara förvaltande myndighet för socialfondsprogrammet 2021–
 
 Svenska ESF-rådet är förvaltande myndighet och attesterande myndighet för det nationella socialfondsprogrammet, och programmet inom Fonden för europeiskt bistånd till dem som har det sämst ställt (FEAD), avseende programperioden 2014–2020.
 
-Regeringen uppdrog den 4 april 2019 åt Svenska ESF-rådet att senast den 1 april 2020 lämna ett förslag till nationellt socialfondsprogram för perioden 2021–2027. Myndighetens förslag har inkommit. Det är vidare regeringens avsikt att det inom programmet ska finnas åtta regionala handlingsplaner, enligt samma geografiska indelning som inom socialfondsprogrammet för innevarande programperiod.
+Regeringen uppdrog den 4 april 2019 åt Svenska ESF-rådet att senast den 1 april 2020 lämna ett förslag till nationellt socialfondsprogram för perioden 2021–2027. Myndighetens förslag har inkommit. Det är vidare regeringens avsikt att det inom programmet ska finnas åtta regionala handlingsplaner, enligt samma geografiska indelning som inom socialfondsprogrammet för innevarande programperiod.
 
 Regeringen anser mot denna bakgrund att Svenska ESF-rådet ska uppdras att förbereda och vidta åtgärder för att vara förvaltande myndighet inklusive redovisningstjänst för socialfondsprogrammet för perioden 2021–2027.

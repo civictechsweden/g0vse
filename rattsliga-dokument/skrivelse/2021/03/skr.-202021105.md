@@ -1,6 +1,6 @@
 # Ungdomspolitisk skrivelse
 
-![](/contentassets/6865beb448ed4554975a41e56e1f47a0/omslag-ungdomspolitisk-skrivelse.jpg?width=150&quality=85)
+![](/contentassets/6865beb448ed4554975a41e56e1f47a0/omslag-ungdomspolitisk-skrivelse.jpg?width=150&amp;quality=85)
 
 Regeringen lämnar i skrivelsen en redovisning av utvecklingen mot det
 ungdomspolitiska målet att alla ungdomar ska ha goda levnadsvillkor,

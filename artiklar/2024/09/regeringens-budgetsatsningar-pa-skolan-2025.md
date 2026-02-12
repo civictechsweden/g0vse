@@ -82,7 +82,7 @@ Regeringen föreslår att statsbidraget för personalkostnader för skolsociala 
 
 ### Ökad satsning på akutskolor
 
-Att skolmiljön är trygg och lugn är avgörande för att eleverna ska må bra och lyckas i skolan. Akutskolorna innebär en möjlighet för huvudmän att hantera ordningsproblem, värna tryggheten och studieron i skolan och säkra kontinuiteten i utbildningen för alla elever.  Genom att tillfälligt omplacera en elev, till exempel vid en akutskola, kan den akuta situationen hanteras samtidigt som det utreds vilka långsiktiga lösningar som behöver genomföras. Statsbidraget kan användas till att anställa personal som kan arbeta i akutskolor i grundskolan. En förstärkning av statsbidraget innebär därför att fler huvudmän ges förutsättningar att inrätta akutskolor.
+Att skolmiljön är trygg och lugn är avgörande för att eleverna ska må bra och lyckas i skolan. Akutskolorna innebär en möjlighet för huvudmän att hantera ordningsproblem, värna tryggheten och studieron i skolan och säkra kontinuiteten i utbildningen för alla elever. Genom att tillfälligt omplacera en elev, till exempel vid en akutskola, kan den akuta situationen hanteras samtidigt som det utreds vilka långsiktiga lösningar som behöver genomföras. Statsbidraget kan användas till att anställa personal som kan arbeta i akutskolor i grundskolan. En förstärkning av statsbidraget innebär därför att fler huvudmän ges förutsättningar att inrätta akutskolor.
 
 Regeringen föreslår att statsbidraget för personalkostnader i akutskola i grundskolan ska förstärkas med 100 miljoner kronor från och med 2025. Detta innebär en dubblering av satsningen som därmed kommer att omfatta 200 miljoner kronor årligen. Förstärkningen kan leda till ytterligare cirka 115 akutskolor.
 

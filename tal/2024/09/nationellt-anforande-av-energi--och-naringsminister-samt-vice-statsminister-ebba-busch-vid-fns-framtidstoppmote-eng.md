@@ -26,7 +26,7 @@ A childhood in freedom requires safety online.
 
 At the heart of this vision is the belief that technology, and particularly AI, must serve humanity.
 
-Through the Global Digital Compact, we are advocating for key AI initiatives, including a Scientific Panel, a Global Dialogue on Governance,  and Capacity Building Fund.
+Through the Global Digital Compact, we are advocating for key AI initiatives, including a Scientific Panel, a Global Dialogue on Governance, and Capacity Building Fund.
 
 These initiatives aim to ensure that AI serves humanity and upholds our shared values. This is the foundation we urgently need to secure a future where AI benefits everyone.
 

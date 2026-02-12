@@ -1,6 +1,6 @@
 # Ett tvärsektoriellt näringslivsråd ska tillsättas för att stärka försörjningsberedskapen
 
-För att stärka försörjningsberedskapen i landet har  regeringen för avsikt att fatta beslut om att inrätta ett tvärsektoriellt näringslivsråd för totalförsvar och krisberedskap. Rådet kommer att vara ett forum på strategisk nivå för informationsutbyte och rådgivning i frågor som är av gemensam vikt för näringslivet, arbetstagarorganisationer och staten om totalförsvar och krisberedskap.
+För att stärka försörjningsberedskapen i landet har regeringen för avsikt att fatta beslut om att inrätta ett tvärsektoriellt näringslivsråd för totalförsvar och krisberedskap. Rådet kommer att vara ett forum på strategisk nivå för informationsutbyte och rådgivning i frågor som är av gemensam vikt för näringslivet, arbetstagarorganisationer och staten om totalförsvar och krisberedskap.
 
 – En väl fungerande försörjning av varor och tjänster till befolkningen är centralt för samhällets motståndskraft. Ett näringslivsråd för samverkan och informationsutbyte mellan offentliga och privata aktörer har efterfrågats och kommer att underlätta beredskapen både för fredstida kriser och vid krig, säger minister för civilt försvar Carl-Oskar Bohlin.
 

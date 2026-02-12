@@ -6,10 +6,10 @@ Det nya direktivet skiljer sig från det tidigare direktivet, bland annat genom 
 
 I miljöbalken införs ett bemyndigande att meddela föreskrifter om skyldighet för en kommun att lämna de uppgifter som behövs för att bedöma risker i tillrinningsområden för dricksvattenuttag. Bestämmelserna om åtgärdsprogram för att följa miljökvalitetsnormer ska gälla även åtgärder som behövs för att skydda kvaliteten på dricksvatten.
 
-Bestämmelserna om hälsoskydd i miljöbalken kompletteras med ett bemyndigande att meddela föreskrifter om skyldighet för kommuner, fastighetsägare och nyttjanderättshavare att lämna de uppgifter som behövs för att bedöma risker som uppkommer i ledningar, installationer och anordningar på fastigheter eller i byggnader som används för att distribuera dricksvatten.
+Bestämmelserna om hälsoskydd i miljöbalken kompletteras med ett bemyndigande att meddela föreskrifter om skyldighet för kommuner, fastighetsägare och nyttjanderättshavare att lämna de uppgifter som behövs för att bedöma risker som uppkommer i ledningar, installationer och anordningar på fastigheter eller i byggnader som används för att distribuera dricksvatten.
 
 I livsmedelslagen föreslås ett bemyndigande att meddela föreskrifter om skyldighet för den som producerar eller tillhandahåller dricksvatten att lämna uppgifter om dricksvattenkvaliteten.
 
-I plan- och bygglagen föreslås en bestämmelse om marknadskontroll och ett bemyndigande att meddela föreskrifter om villkor för att släppa ut och tillhandahålla byggprodukter avsedda att komma i kontakt med dricksvatten på marknaden.
+I plan- och bygglagen föreslås en bestämmelse om marknadskontroll och ett bemyndigande att meddela föreskrifter om villkor för att släppa ut och tillhandahålla byggprodukter avsedda att komma i kontakt med dricksvatten på marknaden.
 
 Lagändringarna föreslås träda i kraft den 1 mars 2024.

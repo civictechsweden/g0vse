@@ -14,7 +14,7 @@ Vi har arrangerat Norrbottens största eidfest för alla i samband med den musli
 
 **Vilka hinder och eller möjligheter ser du?**
 
-Ett hinder är den allt mer ökade islamofobin och ifrågasättandet av organiserade muslimer som driver sina frågor. Möjligheter som vi ser är främst att muslimer är en samarbetspartner i arbetet för att förebygga islamofobi och rasism och att verka för fler plattformar för kunskapsspridning och dialog.  Genom att arbeta med kultur som metod vill vi medverka till att bilden av muslimer blir mer nyanserad och bred vilket i sin tur motverkar islamofobi. I kombination med att också erbjuda en kunskapsbank och en kunskapsöverföring tror vi att vi har hittat nycklarna till hur man effektivt motverkar och förebygger rasism och islamofobi i Norrbotten.
+Ett hinder är den allt mer ökade islamofobin och ifrågasättandet av organiserade muslimer som driver sina frågor. Möjligheter som vi ser är främst att muslimer är en samarbetspartner i arbetet för att förebygga islamofobi och rasism och att verka för fler plattformar för kunskapsspridning och dialog. Genom att arbeta med kultur som metod vill vi medverka till att bilden av muslimer blir mer nyanserad och bred vilket i sin tur motverkar islamofobi. I kombination med att också erbjuda en kunskapsbank och en kunskapsöverföring tror vi att vi har hittat nycklarna till hur man effektivt motverkar och förebygger rasism och islamofobi i Norrbotten.
 
 **Kan du ge exempel på resultat från MIO-projektet?**
 

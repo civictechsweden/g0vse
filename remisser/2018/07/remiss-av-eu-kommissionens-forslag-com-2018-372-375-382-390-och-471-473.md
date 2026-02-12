@@ -16,7 +16,7 @@ Här kan du ta del av EU-kommissionens förslag COM (2018) 372-375, 382, 390 och
 
 [Förslag om Europeiska Socialfonden +](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52018PC0382&from=EN)
 
-* Dokument [COM(2018) 382](/49eeb9/contentassets/499d1c7713b9402c8a5b96187358d9bc/forslag-till-europaparlamentets-och-radets-forordning-om-europeiska-socialfonden.pdf) som bifogades remissen, och dokumentets [bilagor](/49f23f/contentassets/499d1c7713b9402c8a5b96187358d9bc/dokument-som-skickades-pa-remiss/com2018-382-esf-bilaga-1-3.pdf).
+* Dokument [COM(2018) 382](/49eeb9/contentassets/499d1c7713b9402c8a5b96187358d9bc/forslag-till-europaparlamentets-och-radets-forordning-om-europeiska-socialfonden.pdf)som bifogades remissen, och dokumentets [bilagor](/49f23f/contentassets/499d1c7713b9402c8a5b96187358d9bc/dokument-som-skickades-pa-remiss/com2018-382-esf-bilaga-1-3.pdf).
 
 [Förslag om inrättande av Asyl- och migrationsfonden](https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:52018PC0471&from=EN)
 
@@ -28,13 +28,13 @@ Här kan du ta del av EU-kommissionens förslag COM (2018) 372-375, 382, 390 och
 
 [Förslag om inrättande av Fonden för inre säkerhet](https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:52018PC0472&from=EN)
 
-* Dokument [COM(2018) 472](/49f23f/contentassets/499d1c7713b9402c8a5b96187358d9bc/dokument-som-skickades-pa-remiss/com2018-472-isf.pdf) som bifogades remissen, och dokumentets [bilagor](/49f23f/contentassets/499d1c7713b9402c8a5b96187358d9bc/dokument-som-skickades-pa-remiss/com2018-472-isf-bilaga-1-8.pdf).
+* Dokument [COM(2018) 472](/49f23f/contentassets/499d1c7713b9402c8a5b96187358d9bc/dokument-som-skickades-pa-remiss/com2018-472-isf.pdf) som bifogades remissen, och dokumentets [bilagor](/49f23f/contentassets/499d1c7713b9402c8a5b96187358d9bc/dokument-som-skickades-pa-remiss/com2018-472-isf-bilaga-1-8.pdf).
 
 [Förslag om Europeiska regionala utvecklingsfonden och Sammanhållningsfonden](https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:52018PC0372&from=EN)
 
 * Dokument [COM(2018) 372](/49f23f/contentassets/499d1c7713b9402c8a5b96187358d9bc/dokument-som-skickades-pa-remiss/com2018-372-eruf-cf.pdf) som bifogades remissen, och dokumentets [bilaga 1](/49f23f/contentassets/499d1c7713b9402c8a5b96187358d9bc/dokument-som-skickades-pa-remiss/com2018-372-eruf-cf-bilaga-1.pdf) och [bilaga 2](/49f23f/contentassets/499d1c7713b9402c8a5b96187358d9bc/dokument-som-skickades-pa-remiss/com2018-372-eruf-cf-bilaga-2.pdf).
 
-[Förslag om särskilda bestämmelser för målet Europeiskt territoriellt samarbete (Interreg) med stöd av Europeiska regionala utvecklingsfonden och finansieringsinstrument för externa åtgärder](https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:52018PC0374&from=EN)
+[Förslag om särskilda bestämmelser för målet Europeiskt territoriellt samarbete (Interreg) med stöd av Europeiska regionala utvecklingsfonden och finansieringsinstrument för externa åtgärder](https://eur-lex.europa.eu/legal-content/SV/TXT/HTML/?uri=CELEX:52018PC0374&from=EN)
 
 * Dokument [COM(2018) 374](/49f23f/contentassets/499d1c7713b9402c8a5b96187358d9bc/dokument-som-skickades-pa-remiss/com2018-374-etc.pdf) som bifogades remissen, och dokumentets [bilagor](/49f23f/contentassets/499d1c7713b9402c8a5b96187358d9bc/dokument-som-skickades-pa-remiss/com2018-374-etc-bilaga.pdf).
 

@@ -1,4 +1,4 @@
-# Utbetalning av medel till regionerna för anslutningskostnader för den nationella katalogenDiarienummer: S2025/01283
+# Utbetalning av medel till regionerna för anslutningskostnader för den nationella katalogen
 
 Regeringen ger Kammarkollegiet i uppdrag att betala ut 87 000 000 kronor till regionerna.
 

@@ -8,7 +8,7 @@ Jan R. Andersson, Annicka Engblom, Stig Henriksson, Mikael Jansson, Lars Johanss
 
 Förordnandena gäller i samtliga fall till den 31 december 2018.
 
-\*\*\*
+***
 
 Sedan 1996 har Inspektionen för strategiska produkter (ISP) ett råd för insyn och samråd i frågor som rör frågor om export av krigsmateriel och av produkter med dubbla användningsområden (Exportkontrollrådet). Rådet består av ledamöter utsedda av regeringen och utgörs i huvudsak av riksdagsledamöter.
 

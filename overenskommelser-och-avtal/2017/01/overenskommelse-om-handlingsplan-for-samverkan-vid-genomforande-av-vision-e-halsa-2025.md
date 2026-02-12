@@ -8,7 +8,7 @@ För att fortsatt tillvarata de möjligheter som digitaliseringen erbjuder och f
 
 ## En gemensam handlingsplan
 
-I visionen beskrivs att en eller flera handlingsplaner ska tas fram och denna handlingsplan har som ett led i detta utarbetats av staten och SKL tillsammans och redogör för hur det gemensamma arbetet inom e-hälsoområdet ska utformas, styras samt drivas framåt.
+I visionen beskrivs att en eller flera handlingsplaner ska tas fram och denna handlingsplan har som ett led i detta utarbetats av staten och SKL tillsammans och redogör för hur det gemensamma arbetet inom e-hälsoområdet ska utformas, styras samt drivas framåt.
 
 ### Handlingsplanens tidsperiod och förutsättningar
 

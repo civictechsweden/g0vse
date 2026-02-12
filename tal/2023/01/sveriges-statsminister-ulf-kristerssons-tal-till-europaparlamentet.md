@@ -2,9 +2,9 @@
 
 Tisdagen den 17 januari höll den svenske statsministern Ulf Kristersson ett tal till Europaparlamentet i Strasbourg. I talet redogjorde Ulf Kristersson för det svenska ordförandeskapets prioriteringar. Det talade ordet gäller.
 
-## Grönare, säkrare, friare  – Sveriges ordförandeskap i Europeiska unionens råd
+## Grönare, säkrare, friare  – Sveriges ordförandeskap i Europeiska unionens råd
 
-Fru talman, kära Roberta, ledamöter av Europaparlamentet, vice ordförande för kommissionen (Maroš Šefčovič), mina damer och herrar.
+Fru talman, kära Roberta, ledamöter av Europaparlamentet, vice ordförande för kommissionen (Maroš Šefčovič), mina damer och herrar.
 
 Det är ett privilegium och ett nöje att vara här i dag för att presentera prioriteringarna för Sveriges tredje ordförandeskap i Europeiska unionens råd.
 
@@ -14,7 +14,7 @@ Det är mycket vi behöver göra tillsammans. Det är en svår tid. Europa härj
 
 Allt detta innebär att de kommande månaderna kommer att bli mycket utmanande − främst förstås för våra ukrainska vänner. Samtidigt som vi på ett kraftfullt sätt hanterar dessa kriser behöver vi även driva EU:s politiska och lagstiftningsmässiga arbete framåt.
 
-Hittills har Europa gett ett kraftfullt, enat och beslutsamt svar på Rysslands olagliga invasion av Ukraina. Utöver de nio sanktionspaketen utökade vi nyligen vårt gemensamma stöd till Ukraina med ytterligare 18 miljarder euro i makroekonomiskt stöd.
+Hittills har Europa gett ett kraftfullt, enat och beslutsamt svar på Rysslands olagliga invasion av Ukraina. Utöver de nio sanktionspaketen utökade vi nyligen vårt gemensamma stöd till Ukraina med ytterligare 18 miljarder euro i makroekonomiskt stöd.
 
 Många enskilda länder ger Ukraina viktig försvarsmateriel. Och Ukraina och Moldavien är nu kandidatländer.
 
@@ -22,7 +22,7 @@ Dessutom är vår union på väg att minska sitt beroende av fossila bränslen f
 
 Under de senaste åren har vi visat att EU, i tider av kris, kan samla sig och påverka omvärlden, utan att förlora sin långsiktiga agenda ur sikte. Vladimir Putins regim underskattade inte bara Ukraina utan även Europeiska unionen.
 
-\*\*\*
+***
 
 Som ny ordförande i rådet avser vi bygga vidare på det utmärkta arbete som utförts under de franska och tjeckiska ordförandeskapen. Vi avser arbeta vidare i samma anda när vi söker lösningar i rådet, och tillsammans med Europaparlamentet och kommissionen.
 
@@ -48,9 +48,9 @@ Och i arbetet med att bygga upp säkerheten behöver vi även titta på andra as
 
 I tider som dessa spelar EU en avgörande roll för att skapa säkerhet och stabilitet när det gäller alla dessa aspekter.
 
-\*\*\*
+***
 
-Ett annat område där EU har en avgörande roll att spela är den gröna omställningen, som kommit att bli en alltmer brådskande uppgift i ljuset av kriget i Ukraina. Planen att minska utsläppen med 55 % till 2030 är av avgörande betydelse för att nå koldioxidneutralitet till 2050 och uppfylla de mål som fastställs i Parisavtalet.
+Ett annat område där EU har en avgörande roll att spela är den gröna omställningen, som kommit att bli en alltmer brådskande uppgift i ljuset av kriget i Ukraina. Planen att minska utsläppen med 55 % till 2030 är av avgörande betydelse för att nå koldioxidneutralitet till 2050 och uppfylla de mål som fastställs i Parisavtalet.
 
 I Sverige är vi stolta över våra egna bidrag till omställningen från ett fossilberoende till ett fossilfritt Europa.
 
@@ -60,11 +60,11 @@ De här företagen vill få saker gjorda. De vill använda sig av de stora möjl
 
 Och det är precis det som EU har gjort − till exempel genom att besluta att fr.o.m. 2035 förbjuda försäljning av nya bilar som går på fossila bränslen. Vi måste fortsätta på den inslagna vägen i arbetet framåt.
 
-Det svenska ordförandeskapet avser göra vad det kan för att stärka EU som föregångare i den gröna omställningen. Vi kommer att fortsätta det viktiga arbete som institutionerna utför och göra slutförhandlingen av 55 %-paketet till en prioriterad fråga. Vi räknar med Europaparlamentet och ser fram emot att arbeta tillsammans med detta.
+Det svenska ordförandeskapet avser göra vad det kan för att stärka EU som föregångare i den gröna omställningen. Vi kommer att fortsätta det viktiga arbete som institutionerna utför och göra slutförhandlingen av 55 %-paketet till en prioriterad fråga. Vi räknar med Europaparlamentet och ser fram emot att arbeta tillsammans med detta.
 
 Vi ser även fram emot att påbörja arbetet med reformer på den europeiska elmarknaden eftersom energi från rätt källor och till rätt pris är grunden för den gröna omställningen.
 
-\*\*\*
+***
 
 För det tredje berör den gröna omställningen vår långsiktiga konkurrenskraft. Om de europeiska företagen ska kunna producera energi och tillverka framtidens batterier, elbilar och fossilfria stål behöver de goda konkurrensvillkor.
 
@@ -74,7 +74,7 @@ Under de senaste tre årtiondena har den inre marknaden främjat sund konkurrens
 
 Våra ekonomiers storlek och styrka är även en viktig anledning till att EU är en så mäktig aktör på den internationella arenan. Tack vare den inre marknaden och en framgångsrik handelspolitik som bygger på öppenhet, med avtal och partnerskap runt om i världen, är EU en ekonomisk jätte.
 
-Trots allt detta har vi som union inte förverkligat vår fulla ekonomiska potential. Vår produktivitet släpar efter samtidigt som allt färre av världens största företag är baserade i EU. I dag lägger vi betydligt mindre pengar på forskning och utveckling än USA och Kina, och höga energipriser kan skrämma bort investeringar från Europa.
+Trots allt detta har vi som union inte förverkligat vår fulla ekonomiska potential. Vår produktivitet släpar efter samtidigt som allt färre av världens största företag är baserade i EU. I dag lägger vi betydligt mindre pengar på forskning och utveckling än USA och Kina, och höga energipriser kan skrämma bort investeringar från Europa.
 
 Vi kämpar med andra ord med flera utmaningar som är kopplade till de kriser vi går igenom, och samtidigt ställs vi inför att partner och konkurrenter runt om i världen vidtar åtgärder – till exempel USA:s lag om inflationsminskning. EU:s svar på den här utvecklingen måste skyndsamt analyseras och diskuteras.
 
@@ -82,7 +82,7 @@ Men vi får inte glömma att långsiktig konkurrenskraft måste byggas på stark
 
 Om vi vill bevara våra ledande, kunskapsbaserade ekonomier med innovativa branscher måste vi bli bättre. Därför behöver vi en ny långsiktig strategi på EU-nivå som främjar konkurrenskraften och produktiviteten. Den inre marknadens 30-årsjubileum är en bra utgångspunkt.
 
-\*\*\*
+***
 
 Sist men inte minst kommer det svenska ordförandeskapets fjärde prioritering att handla om att upprätthålla unionens gemensamma, grundläggande värden. Jag vill lovorda Europaparlamentets orubbliga stöd när det gäller den allra viktigaste principen som binder oss samman – respekten för rättsstatsprincipen.
 
@@ -92,13 +92,13 @@ Liberal demokrati – kombinationen av folkets självbestämmande och individens
 
 Det finns strukturer och forum för dialog med auktoritära stater, men dit hör inte EU. Det här är och måste förbli en klubb för demokratier.
 
-Under de senaste åren har vi gjort betydande framsteg med att skydda rättsstaten i EU. Villkorlighetsmekanismen har varit ett viktigt nytt instrument när det gäller att säkerställa att EU:s medel inte missbrukas. Artikel 7-förfaranden har inletts. Och dialogerna om rättsstatsprincipen har visat att det finns utrymme för förbättringar hos alla medlemsstater, inte bara hos ett fåtal, när det gäller rättsstatsprincipen.
+Under de senaste åren har vi gjort betydande framsteg med att skydda rättsstaten i EU. Villkorlighetsmekanismen har varit ett viktigt nytt instrument när det gäller att säkerställa att EU:s medel inte missbrukas. Artikel 7-förfaranden har inletts. Och dialogerna om rättsstatsprincipen har visat att det finns utrymme för förbättringar hos alla medlemsstater, inte bara hos ett fåtal, när det gäller rättsstatsprincipen.
 
 Det arbetet kommer att fortsätta under det svenska ordförandeskapet. Och vi kommer även att anordna ett symposium om den frågan i Stockholm i maj för att lyfta fram rättsstatsprincipens betydelse.
 
 När min tjeckiska kollega Petr Fiala talade inför det här parlamentet i juli förra året parafraserade han Ronald Reagan och sa att demokratin aldrig är mer än en generation bort från att avskaffas. Jag håller med. Om det är något vi har lärt oss de senaste åren så är det att ingen politisk institution kan nöja sig med tidigare landvinningar. Demokratin måste försvaras och återuppfinnas, både i ord och handling.
 
-\*\*\*
+***
 
 Kära ledamöter av Europaparlamentet: sex månader är en kort tid. Ändå finns det så mycket att göra med tanke på att dessa månader sammanfaller med en verkligt unik tidpunkt i Europas nutidshistoria.
 
@@ -106,6 +106,6 @@ Av förklarliga skäl kan jag inte lova mer än att vi ska göra vårt yttersta 
 
 Men jag kan försäkra er om att Sverige på ett konstruktivt och engagerat sätt kommer att leda arbetet i rådet och vara en samarbetsinriktad partner som söker kompromisser där hänsyn tas till samtliga medlemsstater och EU-institutioner.
 
-Tillsammans kommer vi att försöka hitta lösningar för att möta de utmaningar som jag i korta drag har beskrivit i dag – för säkerheten, klimatet, konkurrenskraften, rättsstatsprincipen och mer därtill. Och vi kommer att räkna med er, inte bara som en motpart utan även som en allierad.
+Tillsammans kommer vi att försöka hitta lösningar för att möta de utmaningar som jag i korta drag har beskrivit i dag – för säkerheten, klimatet, konkurrenskraften, rättsstatsprincipen och mer därtill. Och vi kommer att räkna med er, inte bara som en motpart utan även som en allierad.
 
 Tack för att ni har lyssnat. Jag ser fram emot debatten.

@@ -7,7 +7,7 @@ Det föreslås i huvudsak att
 * Riksgäldskontoret ska utses till resolutionsmyndighet,
 * regeringen ska utöva vissa av det behöriga ministeriets funktioner enligt EU-förordningen,
 * det ska införas möjlighet till två temporära statliga stöd till centrala
-  motparter,
+motparter,
 * de nya stöden liksom de stöd som följer direkt av EU-förordningen ska finansieras av stabilitetsfonden, och
 * det ska införas bestämmelser om ingripande mot personer som ingår i ledningen för en central motpart när den centrala motparten har åsidosatt vissa skyldigheter enligt EU-förordningen
 

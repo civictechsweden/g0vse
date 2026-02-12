@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att fördela, betala ut och följa upp medel för utveckling av mödrahälsovården, förlossningsvården och vården för flickors och kvinnors hälsaDiarienummer:  S2026/00047
+# Uppdrag till Socialstyrelsen att fördela, betala ut och följa upp medel för utveckling av mödrahälsovården, förlossningsvården och vården för flickors och kvinnors hälsa
 
 Regeringen uppdrar åt Socialstyrelsen att fördela, betala ut och följa upp medel till regionerna för utveckling av mödrahälsovården, förlossningsvården och vården för flickors och kvinnors hälsa.
 

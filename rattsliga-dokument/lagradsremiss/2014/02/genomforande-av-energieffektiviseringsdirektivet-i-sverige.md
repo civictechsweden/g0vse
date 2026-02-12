@@ -1,6 +1,6 @@
 # Genomförande av energieffektiviseringsdirektivet i Sverige
 
-I lagrådsremissen lämnas förslag på genomförande av det så kallade energieffektiviseringsdirektivet\*. Lagrådsremissen innehåller enbart en redogörelse för de delar av direktivet som bedömts föranleda lagstiftning.
+I lagrådsremissen lämnas förslag på genomförande av det så kallade energieffektiviseringsdirektivet*. Lagrådsremissen innehåller enbart en redogörelse för de delar av direktivet som bedömts föranleda lagstiftning.
 
 En lag om att stora företag ska göra en oberoende och kostnadseffektiv energikartläggning föreslås. Det finns också ett förslag om att frivilliga kvalificeringssystem för energitjänster ska införas.
 
@@ -14,4 +14,4 @@ Dessutom föreslås vissa kompletterande ändringar med anledning av ett tidigar
 
 Bestämmelserna föreslås i huvudsak träda i kraft den 1 juni 2014.
 
-\* Europaparlamentets och rådets direktiv 2012/27/EU av den 25 oktober 2012 om energieffektivitet, om ändring av direktiven 2009/125/EG och 2010/30/EU och om upphävande av direktiven 2004/8/EG och 2006/32/EG (EUT L 315, 14.11.2012, s.1, Celex 32012L0027).
+* Europaparlamentets och rådets direktiv 2012/27/EU av den 25 oktober 2012 om energieffektivitet, om ändring av direktiven 2009/125/EG och 2010/30/EU och om upphävande av direktiven 2004/8/EG och 2006/32/EG (EUT L 315, 14.11.2012, s.1, Celex 32012L0027).

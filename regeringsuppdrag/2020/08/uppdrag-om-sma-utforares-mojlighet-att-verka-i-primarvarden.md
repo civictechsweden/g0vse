@@ -17,4 +17,6 @@ upp vårdvalsystem inom primärvården och den specialiserade öppenvården ur e
 Socialstyrelsen ska samråda med Upphandlingsmyndigheten samt samtala med Sveriges Kommuner och Regioner (SKR), organisationer som företräder privata utförare och andra berörda
 aktörer.
 
+
+
 Socialstyrelsen redovisar uppdraget till Socialdepartementet senast den 1 juni 2021. I redovisningen ska det framgå om Socialstyrelsen avser presentera ett författningsförslag. Om ett sådant behövs ska Socialstyrelsen senast den 1 november 2021 redovisa detta till Socialdepartementet.

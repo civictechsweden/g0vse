@@ -1,7 +1,7 @@
 # Kompletterande bestämmelser till EU:s förordning om personlig skyddsutrustning
 
 I lagrådsremissen lämnas förslag till en ny lag som syftar till att anpassa
-svensk rätt till EU-förordning om personlig skyddsutrustning. Vidare
+svensk rätt till EU-förordning om personlig skyddsutrustning. Vidare
 föreslås i anledning av EU-förordningen vissa ändringar i
 arbetsmiljölagen.
 

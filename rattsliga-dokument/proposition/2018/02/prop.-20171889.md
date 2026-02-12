@@ -10,4 +10,4 @@ Den nya lagen tydliggör skyldigheterna för den som bedriver säkerhetskänslig
 
 Till följd av den nya lagen föreslås även ett antal ändringar i andra lagar. Lagen och följdändringarna i övriga lagar föreslås träda i kraft den 1 april 2019.
 
-[Pressmeddelande: Ny säkerhetsskyddslag](/pressmeddelanden/2018/02/ny-sakerhetsskyddslag/)
+[Pressmeddelande: Ny säkerhetsskyddslag](/pressmeddelanden/2018/02/ny-sakerhetsskyddslag/)

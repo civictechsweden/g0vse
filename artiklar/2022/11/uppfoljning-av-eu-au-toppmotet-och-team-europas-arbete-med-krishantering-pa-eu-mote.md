@@ -18,4 +18,6 @@ Ett fortsatt EU-engagemang för Afghanistans befolkning och att EU bistår med f
 
 Därtill välkomnar regeringen EU:s ansträngningar för att skyndsamt och uthålligt stödja Ukraina. Utöver fortsatt politiskt, ekonomiskt, humanitärt och militärt stöd bör EU fortsätta arbetet för återuppbyggnaden av ett fritt och demokratiskt Ukraina samt verka för ett strukturerat och förutsägbart makrofinansiellt stöd.
 
+
+
 **Producerat av EU-representationen.**

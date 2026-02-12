@@ -2,7 +2,7 @@
 
 Gollegiella – Nordiskt samiskt språkpris ska delas ut för nionde gången hösten 2020 under det årliga mötet för ministrarna ansvariga för samefrågor och sametingspresidenterna. Mötet arrangeras i Helsingfors i november. Språkpriset delas ut till enskilda personer eller organisationer i Norge, Sverige, Finland och Ryssland som har gjort en insats för att främja de samiska språken.
 
-Gollegiella – Nordiskt samiskt språkpris har instiftats av ministrarna för samefrågor i Norge, Sverige och Finland samt sametingspresidenterna i Norge, Sverige och Finland. Priset delas ut vartannat år, första gången år 2004. Språkpriset är 15 000 euro.
+Gollegiella – Nordiskt samiskt språkpris har instiftats av ministrarna för samefrågor i Norge, Sverige och Finland samt sametingspresidenterna i Norge, Sverige och Finland. Priset delas ut vartannat år, första gången år 2004. Språkpriset är 15 000 euro.
 
 ## Språkprisets målsättning
 
@@ -20,4 +20,4 @@ Gollegiella – sekreterare för bedömningskommittén
 
 Anne Kirste Aikio, Sametinget, Finland
 
-[anne-kirste.aikio@samediggi.fi](mailto:anne-kirste.aikio@samediggi.fi "anne-kirste.aikio@samediggi.fi")
+<anne-kirste.aikio@samediggi.fi>

@@ -6,7 +6,7 @@ Statsminister Ulf Kristersson och socialminister Jakob Forssmed mötte den 15 fe
 
 Torsdagens hearing var en viktig del i processen att ta fram en ny nationell strategi för psykisk hälsa och suicidprevention. Diskussionerna på mötet utgick från det underlag som tagits fram av 26 myndigheter och som redovisades för regeringen den 1 september förra året. Sammanlagt deltog ett trettiotal organisationer från bland annat det civila samhället, trossamfunden och fackförbund. De har alla viktiga erfarenheter och medskick till regeringen inför det fortsatta arbetet med strategin.
 
-–  Vården måste bli bättre och mer tillgänglig, men en viktig insikt är samtidigt att vi aldrig kommer att kunna behandla oss ur alla de utmaningar som vi har med psykisk ohälsa idag. Därför behövs gemensamma och långsiktiga ansträngningar från många. Vi behöver mobilisera hela samhället i arbetet för en bättre psykisk hälsa, säger socialminister Jakob Forssmed.
+– Vården måste bli bättre och mer tillgänglig, men en viktig insikt är samtidigt att vi aldrig kommer att kunna behandla oss ur alla de utmaningar som vi har med psykisk ohälsa idag. Därför behövs gemensamma och långsiktiga ansträngningar från många. Vi behöver mobilisera hela samhället i arbetet för en bättre psykisk hälsa, säger socialminister Jakob Forssmed.
 
 Psykisk ohälsa och suicid är stora folkhälsoutmaningar som har konsekvenser för både den enskilde, anhöriga och närstående och för samhället. Till exempel har andelen i befolkningen som upplever olika psykiska besvär ökat under en längre tid och hälften av alla som är sjukskrivna i Sverige är sjukskrivna för psykiska sjukdomar och syndrom. Årligen är det minst 1200 personer som dör i suicid – en allt för hög siffra.
 

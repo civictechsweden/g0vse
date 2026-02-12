@@ -1,4 +1,4 @@
-# Promemoria med kompletterande förslag till SOU 2025:95Ett skärpt försörjningskrav vid anhöriginvandring
+# Promemoria med kompletterande förslag till SOU 2025:95
 
 I promemorian lämnas ett alternativt förslag till förslagen i betänkandet Skärpta villkor för anhöriginvandring (SOU 2025:95). Förslaget innebär dels att det nuvarande försörjningskravet vid anhöriginvandring höjs, dels att det införs vissa begränsningar av vilka inkomster som ska få beaktas.
 

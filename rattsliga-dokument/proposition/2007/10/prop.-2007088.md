@@ -6,4 +6,4 @@ I samband med att verket beslutar om sändningstillstånd ska programföretagen 
 
 Alla betal-TV-kanaler ska kunna tas emot med ett programkort och programföretagen ska ha rätt att låta vem eller vilka de vill sälja abonnemang på deras TV-kanaler. De sändningar som Radio- och TV-verket ger tillstånd för ska innehålla TV-kanaler av olika slag så att sändningarna kommer att tilltala olika intressen och smakriktningar. Det ska finnas utrymme för såväl nationella som lokala och regionala TV-kanaler och för flera av varandra oberoende programföretag.
 
-Sändningstillstånden ska gälla i sex år. Sändningstillstånd enligt den nya modellen ska gälla från och med den 1 april 2008.
+Sändningstillstånden ska gälla i sex år. Sändningstillstånd enligt den nya modellen ska gälla från och med den 1 april 2008.

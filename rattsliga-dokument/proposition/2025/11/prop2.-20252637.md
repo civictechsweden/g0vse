@@ -1,4 +1,4 @@
-# Åtgärder mot körkortsturismProp. 2025/26:37
+# Åtgärder mot körkortsturism
 
 I propositionen föreslås ändringar i körkortslagen (1998:488) för att hindra så kallad körkortsturism. Det handlar om när ett körkort från ett land utanför EES (tredjeland) först byts ut till ett körkort från en annan EES-stat (utländskt EES-körkort) som i sin tur byts ut mot ett svenskt körkort.
 
@@ -8,9 +8,9 @@ de svenska reglerna genom sådan körkortsturism. Ett utländskt EES-körkort
 som är utfärdat efter utbyte av ett tredjelandskörkort ska endast
 kunna bytas ut till ett svenskt körkort i följande fall:
 
-* Körkortshavaren har haft ett körkort med motsvarande körkortsbehörighet i en eller flera EES-stater i minst fem år innan den permanenta bosättningen i Sverige.
-* Tredjelandskörkortet var utfärdat i Färöarna, Förenade kungariket, Japan eller Schweiz.
-* EES-körkortet gäller för behörigheter som det finns ett godkänt förarprov i en EES-stat för.
+* Körkortshavaren har haft ett körkort med motsvarande körkortsbehörighet i en eller flera EES-stater i minst fem år innan den permanenta bosättningen i Sverige.
+* Tredjelandskörkortet var utfärdat i Färöarna, Förenade kungariket, Japan eller Schweiz.
+* EES-körkortet gäller för behörigheter som det finns ett godkänt förarprov i en EES-stat för.
 
 De personliga och medicinska kraven ska vara uppfyllda så att körkorten
 likställs med de körkort som byts ut från tredjeländer som Sverige erkänner

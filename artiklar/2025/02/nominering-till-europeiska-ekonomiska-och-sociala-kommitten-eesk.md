@@ -22,7 +22,7 @@ Regeringen avser att återkomma brevledes till de organisationer som erbjuds att
 
 ## Intresseanmälan senast den 14 februari 2025
 
-De organisationer som är intresserade av att nominera ledamöter till EESK är välkomna med en intresseanmälan via e-post till [a.registrator@regeringskansliet.se](mailto:a.registrator@regeringskansliet.se) senast fredag den 14 februari. Uppge diarienummer A2024/01205.
+De organisationer som är intresserade av att nominera ledamöter till EESK är välkomna med en intresseanmälan via e-post till <a.registrator@regeringskansliet.se> senast fredag den 14 februari. Uppge diarienummer A2024/01205.
 
 ## Sverige har tolv ledamöter i EESK
 

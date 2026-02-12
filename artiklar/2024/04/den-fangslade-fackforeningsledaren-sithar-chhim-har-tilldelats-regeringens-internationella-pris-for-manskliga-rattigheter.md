@@ -10,9 +10,9 @@ Många av de personer som stöds av LRSU är kvinnor från fattiga hushåll. Sit
 
 Sithar Chhim arresterades i november 2022 och har nu suttit fängslad i två år.
 
-Årets pristagare har nominerats av biståndsorganisationen Diakonia och juryns motivering lyder: ”Sithar Chhim tilldelas årets Per Anger-pris för sitt uthålliga arbete för demokrati och respekt för de mänskliga rättigheterna i Kambodja. Som fackföreningsledare, i ett auktoritärt styrt land där människorättsförsvarare ständigt attackeras, kräver hon att arbetsgivarna ska följa lagarna och att staten upprätthåller dem. För detta sitter hon nu fängslad.
+Årets pristagare har nominerats av biståndsorganisationen Diakonia och juryns motivering lyder: ”Sithar Chhim tilldelas årets Per Anger-pris för sitt uthålliga arbete för demokrati och respekt för de mänskliga rättigheterna i Kambodja. Som fackföreningsledare, i ett auktoritärt styrt land där människorättsförsvarare ständigt attackeras, kräver hon att arbetsgivarna ska följa lagarna och att staten upprätthåller dem. För detta sitter hon nu fängslad.
 
-Hon är ett viktigt stöd för kambodjanska kvinnor som tvingas arbeta under hemska förhållanden. De kräver att få sina röster hörda och sina rättigheter respekterade på sina arbetsplatser. Trots att Sithar Chhim blivit utsatt för trakasserier, hot och våld under flera år fortsätter hon sin kamp för rättvisa. I dag är hon fängslad, men vägrar ge upp. Även i fängelset motiverar och stödjer hon sina medfångar. Hennes stora mod och engagemang inspirerar. Som ung kvinnlig ledare är hon en förebild för oss alla.”
+Hon är ett viktigt stöd för kambodjanska kvinnor som tvingas arbeta under hemska förhållanden. De kräver att få sina röster hörda och sina rättigheter respekterade på sina arbetsplatser. Trots att Sithar Chhim blivit utsatt för trakasserier, hot och våld under flera år fortsätter hon sin kamp för rättvisa. I dag är hon fängslad, men vägrar ge upp. Även i fängelset motiverar och stödjer hon sina medfångar. Hennes stora mod och engagemang inspirerar. Som ung kvinnlig ledare är hon en förebild för oss alla.”
 
 ## Per Anger-priset
 

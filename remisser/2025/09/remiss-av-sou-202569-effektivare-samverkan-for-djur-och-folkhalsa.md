@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:69 Effektivare samverkan för djur-och folkhälsaDiarienummer: LI2025/01499
+# Remiss av SOU 2025:69 Effektivare samverkan för djur-och folkhälsa
 
 Här kan du ta del av remissinstansernas svar på SOU 2025:69 Effektivare samverkan för djur-och folkhälsa.
 

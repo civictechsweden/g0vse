@@ -13,4 +13,4 @@ Utredaren ska analysera och överväga behov av åtgärder men ska oavsett sluts
 
 Uppdraget ska redovisas senast den 18 januari 2019.
 
-[Pressmeddelande: Regeringen presenterar åtgärder mot internationella stöldligor](/pressmeddelanden/2018/02/regeringen-presenterar-atgarder-mot-internationella-stoldligor/ "Regeringen presenterar åtgärder mot internationella stöldligor")
+[Pressmeddelande: Regeringen presenterar åtgärder mot internationella stöldligor](/pressmeddelanden/2018/02/regeringen-presenterar-atgarder-mot-internationella-stoldligor/ "Regeringen presenterar åtgärder mot internationella stöldligor")

@@ -5,10 +5,10 @@ En särskild utredare ska, med anledning av covid-19-pandemin, sammanfatta de ko
 Utredaren ska bl.a.
 
 * analysera kultursektorns förutsättningar för att återhämta sig och vid
-  behov lämna förslag på åtgärder som kan bidra till att kultursektorn
-  lättare kan återstarta, återhämta sig och utvecklas under och efter
-  pandemin så att kulturen har förutsättningar att vara en stark och
-  oberoende kraft i samhällsutvecklingen,
+behov lämna förslag på åtgärder som kan bidra till att kultursektorn
+lättare kan återstarta, återhämta sig och utvecklas under och efter
+pandemin så att kulturen har förutsättningar att vara en stark och
+oberoende kraft i samhällsutvecklingen,
 * synliggöra nya initiativ för att tillgängliggöra kultur som har etablerats eller utvecklats under pandemin och som har potential att positivt bidra till att nå de nationella kulturpolitiska målen och vid behov föreslå åtgärder för att stärka sådana initiativ, och
 * identifiera strukturella problem inom landets kultursektor och kulturella infrastruktur som har synliggjorts till följd av pandemin och vid behov föreslå åtgärder för att stärka kultursektorns hållbarhet.
 

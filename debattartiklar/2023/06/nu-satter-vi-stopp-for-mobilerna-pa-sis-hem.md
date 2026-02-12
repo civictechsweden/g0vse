@@ -8,7 +8,7 @@ Detta är naturligtvis helt oacceptabelt och något samarbetspartierna nu tar kr
 
 Barn som placeras på Sis har mycket skilda behov. Alltifrån unga flickor som före placering utsatts för våld och övergrepp till unga killar som begått allvarliga brott.
 
-Inspektionen för vård och omsorg (Ivo) har påvisat återkommande hot, våld och kränkningar mot flickor från såväl personal som andra placerade barn. Samtidigt har unga gängkriminella kunnat ägna sig åt brottsplanering, hot, missbruk och att förbereda sin egen rymning.
+Inspektionen för vård och omsorg (Ivo) har påvisat återkommande hot, våld och kränkningar mot flickor från såväl personal som andra placerade barn. Samtidigt har unga gängkriminella kunnat ägna sig åt brottsplanering, hot, missbruk och att förbereda sin egen rymning.
 
 Sis har ett spretigt och svårt, men samtidigt mycket viktigt, uppdrag. För att säkerställa trygga och säkra miljöer både för de barn och unga som är placerade på Sis, personal och samhället i stort behövs betydande förbättringar.
 
@@ -18,7 +18,7 @@ Samarbetspartierna prioriterar därför åtgärder för att öka tryggheten och 
 
 En viktig åtgärd för att sätta stopp för att placerade ungdomar kan rymma genom kommunikation med omvärlden är kraftfullt begränsad tillgång till elektronisk kommunikation, såsom mobiltelefoner, särskilt vid institutioner med högre säkerhetsklass.
 
-Regeringens utredare föreslår ökade befogenheter att begränsa kommunikationen för Sis-placerade barn och unga. Detta är nödvändigt för att minska möjligheten till brottsplanering, missbruk eller att planera sin egen rymning. Begränsningen av elektronisk kommunikation ska ske på ett sätt som är proportionerligt och tar hänsyn till individens integritet.
+Regeringens utredare föreslår ökade befogenheter att begränsa kommunikationen för Sis-placerade barn och unga. Detta är nödvändigt för att minska möjligheten till brottsplanering, missbruk eller att planera sin egen rymning. Begränsningen av elektronisk kommunikation ska ske på ett sätt som är proportionerligt och tar hänsyn till individens integritet.
 
 ## Ökad säkerhet genom visitationer och kontroller
 

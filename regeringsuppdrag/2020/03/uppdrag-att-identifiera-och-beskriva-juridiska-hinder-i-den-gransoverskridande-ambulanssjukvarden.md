@@ -14,6 +14,6 @@ Transportstyrelsen och Läkemedelsverket ska hjälpa Socialstyrelsen med kunskap
 
 Eventuella övriga frågeställningar, som är nödvändiga för att möjliggöra en gränsöverskridande ambulanssjukvård, ska belysas och analyseras.
 
-Om det behövs ska myndigheterna föreslå författningsändringar för respektive ansvarsområde. Socialstyrelsen ska – om det behövs – samverka med andra myndigheter och aktörer.
+Om det behövs ska myndigheterna föreslå författningsändringar för respektive ansvarsområde. Socialstyrelsen ska – om det behövs – samverka med andra myndigheter och aktörer.
 
 Uppdraget redovisas till Socialdepartementet senast den 1 april 2021.

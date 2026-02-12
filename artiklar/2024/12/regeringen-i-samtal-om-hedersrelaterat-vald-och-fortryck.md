@@ -16,6 +16,6 @@ Här fanns också en gemensam bild av det är komplexa frågor, inte minst då m
 
 ### Bekämpa brott
 
-Flera av deltagarna gav även en bild av att lagstöd för att bekämpa brott finns, och nämner bland annat omskärelse eller tvångsäktenskap som exempel, men att det behöver implementeras.  En generell diskussion kring att misstankar om lagbrott i större utsträckning behöver komma rättsväsendet till del togs upp.
+Flera av deltagarna gav även en bild av att lagstöd för att bekämpa brott finns, och nämner bland annat omskärelse eller tvångsäktenskap som exempel, men att det behöver implementeras. En generell diskussion kring att misstankar om lagbrott i större utsträckning behöver komma rättsväsendet till del togs upp.
 
 Samarbete mellan myndigheter och bättre kunskap för yrkesverksamma samt möjligheter till att erbjuda långsiktigt stöd nämndes som viktiga delar för att stärka arbetet med att bättre kunna hjälpa personer som utsätts för hedersförtryck.

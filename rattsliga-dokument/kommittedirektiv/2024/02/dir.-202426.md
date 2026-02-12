@@ -4,7 +4,7 @@ Delegationens uppdrag utvidgas.
 
 Delegationen ska nu även bl.a.
 
-* analysera specifika arbetslivskriminella upplägg i näringsgrenarna bygg, restaurang, transport, kroppsvård, städ och vissa delar av de gröna näringarna (säsongsanställda) samt, om delegationen ser sådana behov, även i andra näringsgrenar,
+* analysera specifika arbetslivskriminella upplägg i näringsgrenarna bygg, restaurang, transport, kroppsvård, städ och vissa delar av de gröna näringarna (säsongsanställda) samt, om delegationen ser sådana behov, även i andra näringsgrenar,
 * utifrån ett urval av reglerade yrken där arbetslivskriminalitet bedöms medföra särskilt stora risker beskriva kriminalitetens konsekvenser för samhället,
 * föreslå effektiva åtgärder för att motverka arbetslivskriminalitet inom näringsgrenarna och de reglerade yrkena,
 * kartlägga vilka kopplingar som finns mellan arbetslivskriminalitet och organiserad brottslighet i Sverige, med särskilt fokus på hur arbetslivskriminaliteten används för att finansiera den kriminella ekonomin, och

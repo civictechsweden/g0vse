@@ -4,9 +4,9 @@ En särskild utredare ska överväga och föreslå förbättrade möjligheter at
 
 Utredaren ska bland annat
 
-* kartlägga behovet av att myndigheter får förbättrade möjligheter att utbyta information med varandra i syfte att särskilt förhindra, förebygga, upptäcka, utreda och ingripa mot fusk, felaktiga utbetalningar, regelöverträdelser och brottslighet,
-* analysera och ta ställning till hur behovet av att utbyta sekretessbelagd information kan tillgodoses,
-* särskilt överväga och lämna förslag på en generell bestämmelse som gör det möjligt att på ett effektivt sätt lämna uppgifter som omfattas av sekretess till skydd för enskilda till en annan myndighet, såväl på begäran som på eget initiativ,
+* kartlägga behovet av att myndigheter får förbättrade möjligheter att utbyta information med varandra i syfte att särskilt förhindra, förebygga, upptäcka, utreda och ingripa mot fusk, felaktiga utbetalningar, regelöverträdelser och brottslighet,
+* analysera och ta ställning till hur behovet av att utbyta sekretessbelagd information kan tillgodoses,
+* särskilt överväga och lämna förslag på en generell bestämmelse som gör det möjligt att på ett effektivt sätt lämna uppgifter som omfattas av sekretess till skydd för enskilda till en annan myndighet, såväl på begäran som på eget initiativ,
 * analysera och ta ställning till hur behovet av att utbyta offentlig information kan tillgodoses,
 * särskilt överväga och lämna förslag på en bestämmelse som i större utsträckning gör det möjligt att på eget initiativ lämna ut offentliga uppgifter till en annan myndighet,
 * göra en översyn, i den utsträckning det behövs, av myndigheternas registerförfattningar, för att möjliggöra att de förslag som lämnas tjänar sitt syfte och kan tillämpas på ett ändamålsenligt sätt, och

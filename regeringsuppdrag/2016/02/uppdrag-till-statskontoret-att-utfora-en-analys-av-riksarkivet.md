@@ -4,4 +4,4 @@ Regeringen uppdrar åt Statskontoret att utföra en analys av Riksarkivet med ut
 
 Statskontoret ska genomföra analysen i dialog med Riksarkivet, som samtidigt ska bistå Statskontoret i behövliga delar.
 
-Uppdraget ska redovisas senast den 15 mars 2017.
+Uppdraget ska redovisas senast den 15 mars 2017.

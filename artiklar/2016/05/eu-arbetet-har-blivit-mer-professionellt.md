@@ -14,6 +14,6 @@ Mikael Andersson ingår i programrådet för de sju myndigheterna vars chefer in
 
 - Som chef i den statliga familjen Sverige måste man ha goda kunskaper om EU-arbetet. Det blir uppenbart vid besök som detta Sveriges arbete i EU måste drivas på varje statlig myndighet. Och detta ska ske i samarbete med er på representationen, säger han.
 
-Gruppen är en av 150-talet besökgrupper som EU-representationen tar emot varje år. Hit kommer såväl skolklasser och kommunala tjänstemän som riksdagsutskott eller som i dag, statliga chefer på toppositioner för att bättra på sina EU-kunskaper. Alla är lika välkomna.
+Gruppen är en av 150-talet besökgrupper som EU-representationen tar emot varje år. Hit kommer såväl skolklasser och kommunala tjänstemän som riksdagsutskott eller som i dag, statliga chefer på toppositioner för att bättra på sina EU-kunskaper. Alla är lika välkomna.
 
 [Läs om Blackebergs gymnasium som satsar på Brysselbesök varje år.](/artiklar/2016/04/blackebergs-gymnasium-besoker-representationen-for-8e-gangen/)

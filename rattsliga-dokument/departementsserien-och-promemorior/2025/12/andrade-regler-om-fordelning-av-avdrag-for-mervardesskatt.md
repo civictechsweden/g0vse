@@ -1,4 +1,4 @@
-# Ändrade regler om fördelning av avdrag för mervärdesskattFi2025/02219
+# Ändrade regler om fördelning av avdrag för mervärdesskatt
 
 I promemorian föreslås ändringar av reglerna i mervärdesskattelagen (2023:200) om fördelning av avdrag för mervärdesskatt i blandad verksamhet, det vill säga verksamhet med både skattepliktiga och undantagna transaktioner. Förslagen innebär att omsättning blir uttrycklig huvudregel för fördelningen.
 

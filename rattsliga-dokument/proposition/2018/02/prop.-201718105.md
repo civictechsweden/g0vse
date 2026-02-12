@@ -10,4 +10,4 @@ Slutligen anges att dataskyddsförordningen och den nya lagen inte ska tillämpa
 
 Lagändringarna föreslås träda i kraft den 25 maj 2018.
 
-[Pressmeddelande: En ny dataskyddslag ska komplettera EU:s dataskyddsförordning](/pressmeddelanden/2018/02/en-ny-dataskyddslag-ska-komplettera-eus-dataskyddsforordning/)
+[Pressmeddelande: En ny dataskyddslag ska komplettera EU:s dataskyddsförordning](/pressmeddelanden/2018/02/en-ny-dataskyddslag-ska-komplettera-eus-dataskyddsforordning/)

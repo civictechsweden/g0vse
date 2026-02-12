@@ -1,4 +1,4 @@
-# Uppdrag till Arbetsförmedlingen att betala ut bidrag till Sveriges a-kassorDiarienummer: A2025/01201
+# Uppdrag till Arbetsförmedlingen att betala ut bidrag till Sveriges a-kassor
 
 Regeringen ger Arbetsförmedlingen i uppdrag att betala ut ett bidrag om 25 000 000 kronor till Sveriges a-kassor.
 

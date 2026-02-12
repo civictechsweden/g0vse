@@ -8,7 +8,7 @@ I lagrådsremissen föreslås ändringar i sametingslagen (1992:1433) som avser 
 Det handlar bl.a. om följande:
 
 • Reglerna om anmälan och registrering inför val förtydligas.
-• Det införs ett skydd för beteckningar som liknar skyddet för partibeteckningar i allmänna val.
+• Det införs ett skydd för beteckningar som liknar skyddet för partibeteckningar i allmänna val.
 • Bestämmelserna om röstning och röstmottagning, vallokaler, rösträkning och mandatfördelning vid sametingsval förtydligas.
 
 Dessutom föreslås ändringar i lagen (2001:183) om behandling av

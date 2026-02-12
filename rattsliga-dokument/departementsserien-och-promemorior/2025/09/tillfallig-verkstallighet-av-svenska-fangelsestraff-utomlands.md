@@ -1,4 +1,4 @@
-# Tillfällig verkställighet av svenska fängelsestraff utomlandsJu2025/01973
+# Tillfällig verkställighet av svenska fängelsestraff utomlands
 
 I promemorian lämnas förslag till en ny lag om tillfällig verkställighet av svenska fängelsestraff utomlands. Den nya lagen möjliggör att svenska fängelsestraff under viss tid kan verkställas i en kriminalvårdsanstalt utomlands.
 

@@ -12,7 +12,7 @@ Enligt uppgifter fanns det sedan tidigare allvarlig oro om hedersrelaterat våld
 
 Vi påminns gång på gång om att arbetet mot hedersvåld, hedersförtryck och hederskultur i Sverige måste fortsätta. Och vi ska hedra de drabbades minne genom att göra allt som står i vår makt för att det som har hänt i så många år, inte ska hända i framtiden.
 
-\*\*\*
+***
 
 Fadime sa i sitt berömda tal i riksdagen, och jag citerar:
 
@@ -20,7 +20,7 @@ Fadime sa i sitt berömda tal i riksdagen, och jag citerar:
 
 Exakt så. Det borde vara en självklarhet. För alla kvinnor i Sverige. Ja, egentligen i hela världen. Men så är det inte. Inte ens i Sverige.
 
-\*\*\*
+***
 
 Jag vågar säga att vi i regeringen gör vår del.
 
@@ -50,7 +50,7 @@ Och så sent som i torsdags fattade regeringen beslutet, att utgångspunkten all
 
 Detta gör redan regeringen. Personligen tror jag att vi behöver gå ännu längre. För att hindra försök att kringgå förbudet mot kusinäktenskap, borde vi också förbjuda anhöriginvandring för kusiner som vill ingå samboförhållande. Jag tror att det snart kommer finnas politiskt stöd för det också.
 
-\*\*\*
+***
 
 Vi här inne gör allt det här för att kvinnor i ett av världens mest jämställda länder ska få leva det liv som de själva har valt. Och för att vi som land själva ska leva upp till de ideal som vi både hyllar och predikar för andra.
 

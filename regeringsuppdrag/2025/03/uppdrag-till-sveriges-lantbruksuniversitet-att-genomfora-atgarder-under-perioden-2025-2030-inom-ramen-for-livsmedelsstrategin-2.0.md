@@ -7,18 +7,17 @@ De åtgärder som SLU ska genomföra inom ramen för uppdraget syftar till att b
 Inom ramen för uppdraget ska följande åtgärder genomföras under perioden 2025-2030.
 
 1. Effektivare kompetensutveckling
+    SLU ska under 2025 analysera möjliga utvecklingsvägar för den kompetensutveckling som sker inom ramen för Sveriges strategiska plan för den gemensamma jordbrukspolitiken 2023-2027 (den strategiska planen). Syftet är dels att öka effektiviteten och attraktiviteten i kompetensutvecklingsinsatser, dels att insatserna i högre grad ska bidra till livsmedelsstrategins målsättningar om en hållbar och ökad jordbruksproduktion. Analysen ska innehålla en särskild fördjupning för ämnesområden där ekonomiska motiv för att efterfråga kompetensutveckling eller delta i samarbetsprojekt är mindre, men där det finns ett samhällsekonomiskt värde i fördjupad kunskap eller ändrade beteenden. Även om stöd till kompetensutveckling och samarbete är i fokus ska synergier med andra åtgärder inom den strategiska planen beaktas, särskilt åtgärden för stöd till innovation.
 
-   SLU ska under 2025 analysera möjliga utvecklingsvägar för den kompetensutveckling som sker inom ramen för Sveriges strategiska plan för den gemensamma jordbrukspolitiken 2023-2027 (den strategiska planen). Syftet är dels att öka effektiviteten och attraktiviteten i kompetensutvecklingsinsatser, dels att insatserna i högre grad ska bidra till livsmedelsstrategins målsättningar om en hållbar och ökad jordbruksproduktion. Analysen ska innehålla en särskild fördjupning för ämnesområden där ekonomiska motiv för att efterfråga kompetensutveckling eller delta i samarbetsprojekt är mindre, men där det finns ett samhällsekonomiskt värde i fördjupad kunskap eller ändrade beteenden. Även om stöd till kompetensutveckling och samarbete är i fokus ska synergier med andra åtgärder inom den strategiska planen beaktas, särskilt åtgärden för stöd till innovation.
+    Analysen ska utgå från jordbruksföretagens, rådgivningsföretagens samt andra viktiga aktörers utgångspunkter och drivkrafter för att utveckla, inhämta och tillgodogöra sig ny kunskap. För rådgivningsföretagen ska även drivkrafter för att delta i insatser riktade mot jordbruksföretagen på uppdrag av staten beaktas. En internationell utblick och studie av framgångsfaktorer för effektiv kompetensutveckling för att stärka jordbruksföretagens kunskap i andra länder ska ingå som underlag för analysen.
 
-   Analysen ska utgå från jordbruksföretagens, rådgivningsföretagens samt andra viktiga aktörers utgångspunkter och drivkrafter för att utveckla, inhämta och tillgodogöra sig ny kunskap. För rådgivningsföretagen ska även drivkrafter för att delta i insatser riktade mot jordbruksföretagen på uppdrag av staten beaktas. En internationell utblick och studie av framgångsfaktorer för effektiv kompetensutveckling för att stärka jordbruksföretagens kunskap i andra länder ska ingå som underlag för analysen.
+    För åtgärden får SLU under 2025 använda högst 1,5 miljoner kronor.
 
-   För åtgärden får SLU under 2025 använda högst 1,5 miljoner kronor.
 2. Särskild satsning rörande växtförädling av växtproteingrödor inom SLU Grogrund
+    SLU ska under 2026-2030 genomföra en särskild satsning på växtförädling och sortprovning av grödor för en ökad produktion av växtproteiner inom kompetenscentrum för växtförädling, SLU Grogrund. SLU Grogrund har som syfte att i enlighet med livsmedelsstrategin säkra tillgången till växtsorter anpassade för svenska odlingsförhållanden, vilket är av stor vikt för en stärkt konkurrenskraft i jordbruket i ett förändrat klimat.
 
-   SLU ska under 2026-2030 genomföra en särskild satsning på växtförädling och sortprovning av grödor för en ökad produktion av växtproteiner inom kompetenscentrum för växtförädling, SLU Grogrund. SLU Grogrund har som syfte att i enlighet med livsmedelsstrategin säkra tillgången till växtsorter anpassade för svenska odlingsförhållanden, vilket är av stor vikt för en stärkt konkurrenskraft i jordbruket i ett förändrat klimat.
 3. Avelsarbete på regnbåge
-
-   SLU ska under perioden 2026-2030 fortsätta att vidareutveckla avelsarbetet på regnbåge för att förbättra den odlade fiskens egenskaper i enlighet med vad som anges i regeringens beslut den 23 mars 2017 med uppdrag till SLU att genomföra åtgärder inom ramen för livsmedelsstrategin (N2017/02366).
+    SLU ska under perioden 2026-2030 fortsätta att vidareutveckla avelsarbetet på regnbåge för att förbättra den odlade fiskens egenskaper i enlighet med vad som anges i regeringens beslut den 23 mars 2017 med uppdrag till SLU att genomföra åtgärder inom ramen för livsmedelsstrategin (N2017/02366).
 
 ## Redovisning av uppdraget
 

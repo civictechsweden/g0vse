@@ -22,11 +22,11 @@ Förordningen träder i kraft den 13 december 2016.
 
 Med anledning av en ny EU-förordning om fluorerade växthusgaser (f-gaser) har regeringen beslutat att den svenska förordningen om fluorerade växthusgaser och ozonnedbrytande ämnen ersätts med två nya förordningar – en om f-gaser och en om ozonnedbrytande ämnen. De svenska bestämmelserna har sedan lång tid tillbaka inneburit mer långtgående restriktioner. De överförs i huvudsak oförändrade till de nya förordningarna. Följdändringar beslutas i förordningen om miljösanktionsavgifter, miljötillsynsförordningen och förordningen om verksamhetsutövares egenkontroll.
 
-Förordningarna träder i kraft den 1 juli 2017 i fråga om bestämmelser om certifieringskrav och överträdelser av sådana krav och i övrigt den 1 januari 2017.
+Förordningarna träder i kraft den 1 juli 2017 i fråga om bestämmelser om certifieringskrav och överträdelser av sådana krav och i övrigt den 1 januari 2017.
 
 ### Referenser
 
-* Europaparlamentets och rådets förordning (EU) nr 517/2014 av den 16 april 2014 om fluorerade växthusgaser och om upphävande av förordning (EG) nr 842/2006
+* Europaparlamentets och rådets förordning (EU) nr 517/2014 av den 16 april 2014 om fluorerade växthusgaser och om upphävande av förordning (EG) nr 842/2006
 * förordning om fluorerade växthusgaser
 * förordning om ozonnedbrytande ämnen
 * förordningen (2012:259) om miljösanktionsavgifter
@@ -55,6 +55,7 @@ Laponiatjuottjudus är en förening som bl.a. innebär att samebyarna är med i 
 
 Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 29 november respektive den 6 december 2016.
 
-**Kontaktpersoner:**Plastbärkassar: Anna Cedrum 08-405 12 09
+**Kontaktpersoner:**
+Plastbärkassar: Anna Cedrum 08-405 12 09
 Fluorerade växthusgaser och SMHI: Magnus Moreau 08-405 41 27
 Laponiaförordningen: Susanne Gerland 08-405 15 72

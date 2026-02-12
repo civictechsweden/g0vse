@@ -4,7 +4,7 @@ Regeringen ändrar uppdraget till Socialstyrelsen att ta fram, utveckla och spri
 
 Uppdragstiden förlängs. Socialstyrelsen ska istället senast den 1 mars 2024
 delredovisa uppdraget och senast den 1 mars 2025 slutredovisa till
-Regeringskansliet (Arbetsmarknadsdepartementet och Socialdepartementet) med kopia till Forum för levande historia. I slutredovisningen ska ingå en redogörelse av i vilken utsträckning kunskapsstödet har spridits till målgruppen och, i den mån det är möjligt, hur det har kunnat omsättas och förankras i hälso- och sjukvårdspersonalens vardagliga arbete.
+Regeringskansliet (Arbetsmarknadsdepartementet och Socialdepartementet) med kopia till Forum för levande historia. I slutredovisningen ska ingå en redogörelse av i vilken utsträckning kunskapsstödet har spridits till målgruppen och, i den mån det är möjligt, hur det har kunnat omsättas och förankras i hälso- och sjukvårdspersonalens vardagliga arbete.
 
 För uppdragets genomförande får myndigheten under 2024 använda högst
 2 000 000 kronor som ska redovisas mot det under utgiftsområde 13 Integration och jämställdhet för budgetåret 2024 uppförda anslaget 2:2

@@ -1,6 +1,6 @@
 # Parents and children - brief information about current legislation
 
-![](/contentassets/8d1eded381754ebca85a52d707fe54a8/foraldrar_en150px.jpg?width=150&quality=85)
+![](/contentassets/8d1eded381754ebca85a52d707fe54a8/foraldrar_en150px.jpg?width=150&amp;quality=85)
 
 Engelsk översättning av broschyren Föräldrar och barn - kortfattat om lagstiftningen.
 

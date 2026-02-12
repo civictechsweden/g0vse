@@ -4,7 +4,7 @@ I denna proposition föreslår regeringen vissa ändringar i tobakslagen (1993:5
 
 Direktivet ska också uppfylla EU:s skyldig­heter enligt Världshälsoorganisationen WHO:s ramkonvention om tobakskontroll.
 
-Propositionen innehåller ett antal detaljerade förslag som bland annat rör smak, tillsatser, förpackningar, märkning, hälsovarningar, rapporteringsskyldighet för tillverkare och importörer, avgifter, tillsynsansvar med mera. Lagändringarna föreslås träda i kraft den 20 maj 2016.
+Propositionen innehåller ett antal detaljerade förslag som bland annat rör smak, tillsatser, förpackningar, märkning, hälsovarningar, rapporteringsskyldighet för tillverkare och importörer, avgifter, tillsynsansvar med mera. Lagändringarna föreslås träda i kraft den 20 maj 2016.
 
 ## Minska skillnader i regler mellan medlemsstaterna och värna människors hälsa
 

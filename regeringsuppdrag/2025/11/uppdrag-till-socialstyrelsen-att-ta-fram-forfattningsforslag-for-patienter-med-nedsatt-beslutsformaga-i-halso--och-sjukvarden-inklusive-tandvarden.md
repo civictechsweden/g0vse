@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att ta fram författningsförslag för patienter med nedsatt beslutsförmåga i hälso- och sjukvården inklusive tandvårdenDiarienummer:  S2024/01972
+# Uppdrag till Socialstyrelsen att ta fram författningsförslag för patienter med nedsatt beslutsförmåga i hälso- och sjukvården inklusive tandvården
 
 Regeringen uppdrar åt Socialstyrelsen att ta fram författningsförslag så att patienter med nedsatt beslutsförmåga ska få tillgång till vård på lika villkor som den övriga befolkningen. Detta samtidigt som rättssäkerheten säkerställs för både patienter och de som arbetar inom i hälso- och sjukvården och tandvården.
 

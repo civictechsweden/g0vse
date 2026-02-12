@@ -1,4 +1,4 @@
-# Promemoria Nya krav på bunkerspecifikationen och nytt svavelkontrollområde
+# Nya krav på bunkerspecifikationen och nytt svavelkontrollområde
 
 I promemorian föreslås ändringar i svavelförordningen (2014:509).
 

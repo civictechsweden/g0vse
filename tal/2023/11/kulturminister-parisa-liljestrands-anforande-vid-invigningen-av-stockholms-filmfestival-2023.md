@@ -22,13 +22,13 @@ Och nej, jag kommer inte att just i dag presentera vem som ska leda utredningen.
 
 Men ATT vi ska göra en filmutredning, det är bestämt. Det känns roligt, spännande – och helt nödvändigt.
 
-Det finns många och ofta väldigt skilda åsikter kring hur svensk filmpolitik ska bedrivas. Det märker jag när jag träffar företrädare för branschen, oavsett om man jobbar med det konstnärliga och kreativa eller med det rent affärsmässiga. En sak är dock alla överens om: Vi behöver ta ett rejält omtag när det gäller den svenska filmpolitiken.
+Det finns många och ofta väldigt skilda åsikter kring hur svensk filmpolitik ska bedrivas. Det märker jag när jag träffar företrädare för branschen, oavsett om man jobbar med det konstnärliga och kreativa eller med det rent affärsmässiga. En sak är dock alla överens om: Vi behöver ta ett rejält omtag när det gäller den svenska filmpolitiken.
 
 Vi behöver definiera vilka typer av filmer som förtjänar skattebetalarnas stöd, och på vilket sätt. Vi behöver titta på hur svensk film ska fortsätta att vara konkurrenskraftig internationellt, men också hur vi kan få fler att upptäcka svensk film här på hemmaplan.
 
 Vi behöver fundera över hur det offentliga ska kunna stötta och underlätta för filmskapare och producenter, så att svensk film kan vinna priser världen över och samtidigt locka publik till svenska biografer och få familjer att samlas i TV-sofforna.
 
-Svensk film kan nämligen göra allt det. Men då behöver den också rustas för att möta förändring.
+Svensk film kan nämligen göra allt det. Men då behöver den också rustas för att möta förändring.
 
 Den tekniska utvecklingen stöper om filmbranschen, ja kanske även filmkonsten, i grunden. AI – i alla dess former – kommer i allt högre grad att påverka samhällsutvecklingen. Och precis som vid som många andra tekniksprång är kulturen och filmen en arena där förändringarna märks först. På gott och ont. Vi kan inte stoppa eller bromsa utvecklingen. Men både bransch och politiker behöver hitta sätt att möta utvecklingen och dra fördelar av den. Rätt använd kan AI öppna dörrar, sänka trösklar, tillgängliggöra kulturella upplevelser för fler – och få fler att skapa kulturella upplevelser för andra.
 

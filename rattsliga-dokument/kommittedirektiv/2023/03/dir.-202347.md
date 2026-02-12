@@ -13,9 +13,9 @@ hantera utmaningarna.
 Utredaren får nu även i uppdrag att bl.a.
 
 * sträva efter att få till stånd försöksverksamhet som syftar till att
-  motverka välfärdsbrottslighet,
+motverka välfärdsbrottslighet,
 * analysera hur försöksverksamheten förhåller sig till regelverken om
-  offentlighet och sekretess, och
+offentlighet och sekretess, och
 * lämna nödvändiga författningsförslag.
 
 Utredningstiden ligger fast. Uppdraget ska alltså redovisas senast den

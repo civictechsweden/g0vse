@@ -4,7 +4,7 @@ Regeringen uppdrar åt Socialstyrelsen att ta fram underlag för de sjukvårdspr
 
 Socialstyrelsen ska bland annat
 
-* ta fram underlag för de sjukvårdsprodukter myndigheten bedömer behöver lagerhållas för vård som inte kan anstå vid fredstida kriser, höjd beredskap eller  krig.
+* ta fram underlag för de sjukvårdsprodukter myndigheten bedömer behöver lagerhållas för vård som inte kan anstå vid fredstida kriser, höjd beredskap eller krig.
 * föreslå sådana sjukvårdsprodukter som inte lämpar sig för omsättningslagring eller som av andra skäl bör lagerhållas i statliga lager på ett ändamålsenligt och kostnadseffektivt sätt.
 * identifiera sjukvårdsprodukter eller produktområden där det anses vara särskilt viktigt att säkerställa produktion för allvarliga händelser i fredstida kris, höjd beredskap och krig.
 

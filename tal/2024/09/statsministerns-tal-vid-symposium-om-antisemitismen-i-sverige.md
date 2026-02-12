@@ -24,7 +24,7 @@ Men sedan övergick diskussionen sakta till något helt annat: Premiärminister 
 
 För mig blev det väldigt tydligt: vi har som fredligt land ett delansvar att göra vad vi kan för fred också i Mellanöstern. Men – vi har själva hela ansvaret för vad som händer här hemma. Och det ansvaret kan vi aldrig överlåta till någon annan.
 
-\*\*\*
+***
 
 Ansatsen här idag är bred, just för att problemet är så utbrett och komplext.
 
@@ -42,7 +42,7 @@ Eller för att citera professor Yehuda Bauer:
 
 “Jag kommer från ett folk som gav världen de tio budorden. Nu har tiden kommit att förstärka dem med ytterligare tre, som vi borde anamma och åta oss att följa: Du skall inte vara en förövare, du skall inte vara ett offer, och du skall aldrig, aldrig vara en passiv åskådare.”
 
-\*\*\*\*\*
+*****
 
 Varför ska man engagera sig för judiskt liv i Sverige.
 
@@ -62,7 +62,7 @@ Hat, hot och våld mot svenska judar kan inte rättfärdigas och får aldrig acc
 
 Och där har vi alla ett ansvar. Staten, kommunerna, företag, civilsamhället och inte minst våra skolor. Vi har många lärare här idag och er roll är avgörande för att judiska barn och deras föräldrar ska känna sig trygga i vårt land.
 
-\*\*\*\*\*
+*****
 
 I stuprörens förlovade land, så tror jag mer på att jobba i hängrännor. Det gäller även i kampen mot antisemitism. Många behöver jobba gemensamt för att arbetet ska ge effekt. Ett exempel är regeringens statssekreterargrupp, som spänner över sex departement så att vi kan ta ett samlat grepp kring frågan. Ett annat exempel är att vi har fem statsråd på plats här idag.
 
@@ -78,7 +78,7 @@ Arbetet mot antisemitism måste gå hand i hand med arbetet för att stärka jud
 
 Vi ger ytterligare resurser till institutet Paideia för att de ska fortsätta sitt arbete med utbildning och forskning om judiskt liv. Det stärker inte bara kunskaper – det underlättar också för yngre generationer att ta del av judiskt liv.
 
-\*\*\*\*\*
+*****
 
 EU-kommissionens ordförande Ursula von der Leyen sa för fem år sen att det inte skulle finnas någon europeisk kultur utan judisk kultur. Att det inte skulle finnas något Europa utan det judiska folket.
 
@@ -88,7 +88,7 @@ Nästa år firar vi 250 år av etablerat judiskt liv i Sverige. Vi står som lan
 
 Vi ska gemensamt se till att alla judar i Sverige ska kunna uttrycka sin tro och sin judiska identitet. När man besöker synagogan, lämnar barnen på skolan eller bär Davidsstjärnan runt halsen ska man göra det med stolthet. Inte med rädsla och en klump i magen.
 
-\*\*\*\*\*
+*****
 
 Rätten att uttrycka sin tro, sin identitet och sin kultur är fundamental i ett land som vårt. Hotas den hotas inte bara den enskilde, utan något större och djupare i vårt fria och öppna samhälle.
 

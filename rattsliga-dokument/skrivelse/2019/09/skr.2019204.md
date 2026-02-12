@@ -10,8 +10,8 @@ Regeringen välkomnar Riksrevisionens granskning av bostadsbidraget och trångbo
 
 Regeringen delar Riksrevisionens bedömning att man behöver se över hur trångboddhetsnormen ska utformas och användas.
 
-Regeringen har uppdragit åt en särskild utredare att se över reglerna för bostadsbidrag och underhållsstöd. I uppdraget ingår bland annat att analysera om – och i så fall hur – bostadsytan ska påverka bostadsbidraget.
+Regeringen har uppdragit åt en särskild utredare att se över reglerna för bostadsbidrag och underhållsstöd. I uppdraget ingår bland annat att analysera om – och i så fall hur – bostadsytan ska påverka bostadsbidraget.
 
 ## Utformningen av återkommande bedömningar
 
-Regeringen har också gett Boverket i uppdrag att föreslå hur man ska utforma återkommande bedömningar av bostadsbristen.
+Regeringen har också gett Boverket i uppdrag att föreslå hur man ska utforma återkommande bedömningar av bostadsbristen.

@@ -6,5 +6,6 @@ för samordning, utveckling och uppföljning av minoritetspolitiken
 ska organiseras (dir. 2018:86). Enligt utredningens
 direktiv skulle utredaren redovisa uppdraget senast den 30 juni
 2019.
+
 Utredningstiden förlängs. Uppdraget ska i stället redovisas
 senast den 29 april 2020.

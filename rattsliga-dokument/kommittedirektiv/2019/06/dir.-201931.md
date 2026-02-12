@@ -1,6 +1,6 @@
 # Bättre konkurrens i bostadsbyggandet
 
-En särskild utredare får i uppdrag att dels ta fram underlag för sådana offentliga  upphandlingar av bostadshus där hyresnivån i de färdiga bostäderna är bestämd  på förhand, dels analysera på vilket sätt kommuners agerande påverkar möjligheten att utveckla verksamheten över hela landet för företag som har byggande till låg kostnad eller upplåtelse av bostäder till låg hyra som affärsidé.
+En särskild utredare får i uppdrag att dels ta fram underlag för sådana offentliga upphandlingar av bostadshus där hyresnivån i de färdiga bostäderna är bestämd på förhand, dels analysera på vilket sätt kommuners agerande påverkar möjligheten att utveckla verksamheten över hela landet för företag som har byggande till låg kostnad eller upplåtelse av bostäder till låg hyra som affärsidé.
 
 Utredaren ska bl.a.
 

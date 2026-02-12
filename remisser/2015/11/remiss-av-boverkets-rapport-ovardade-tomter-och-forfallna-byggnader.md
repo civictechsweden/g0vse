@@ -202,7 +202,7 @@ Sista dag att svara på promemorian är den 2 februari 2016.
 
 Boverkets rapport Ovårdade tomter och förfallna byggnader (rapport 2015:32) remitteras härmed till ovanstående remissinstanser.
 
-Remissvaren ska ha kommit in till Näringsdepartementet senast den 2 februari 2016. Uppskov kan tyvärr inte medges. Remissvaren önskas i elektronisk form via e-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se)samt till [Maria Edlund](mailto:maria.edlund@regeringskansliet.se) i både Word- och pdf-format.
+Remissvaren ska ha kommit in till Näringsdepartementet senast den 2 februari 2016. Uppskov kan tyvärr inte medges. Remissvaren önskas i elektronisk form via e-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se)samt till [Maria Edlund](mailto:maria.edlund@regeringskansliet.se) i både Word- och pdf-format.
 
 Vi uppskattar om filnamnet är Regeringskansliets diarienummer utan snedstreck följt av remissinstansens namn (t.ex. "N2015-06680-PUB X-stads kommun.doc"). Remissvarets disposition bör om möjligt ansluta till dispositionen i rapporten. I remissvaret anges Regeringskansliets diarienummer N2015/06680/PUB.
 

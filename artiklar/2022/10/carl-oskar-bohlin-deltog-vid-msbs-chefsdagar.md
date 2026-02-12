@@ -6,4 +6,4 @@ Bohlin deltog vid Myndigheten för samhällsskydd och beredskaps (MSB) chefsdaga
 
 Ministern för civilt försvar höll ett kort anförande till MSB:s chefer tillsammans med generaldirektör Charlotte Petri Gornitzka, och svarade på frågor.
 
-− Att stärka samhällets robusthet mot kriser och antagonistiska hot är en prioriterad fråga för den nya regeringen. MSB har en viktig och central roll i detta arbete. Jag ser fram emot en fortsatt dialog och ett nära samarbete med myndigheter med uppgift att stärka Sveriges civila försvar och krisberedskap, sade Bohlin i samband med mötet.
+− Att stärka samhällets robusthet mot kriser och antagonistiska hot är en prioriterad fråga för den nya regeringen. MSB har en viktig och central roll i detta arbete. Jag ser fram emot en fortsatt dialog och ett nära samarbete med myndigheter med uppgift att stärka Sveriges civila försvar och krisberedskap, sade Bohlin i samband med mötet.

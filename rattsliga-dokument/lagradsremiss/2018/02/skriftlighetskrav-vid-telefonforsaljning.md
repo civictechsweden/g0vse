@@ -8,4 +8,4 @@ Förslaget innebär att det inte längre ska vara möjligt att ingå ett avtal m
 
 Lagändringarna föreslås träda i kraft den 1 september 2018.
 
-[Pressmeddelande: Skriftlighetskrav vid telefonförsäljning](/pressmeddelanden/2018/02/skriftlighetskrav-vid-telefonforsaljning/ "Pressmeddelande: Skriftlighetskrav vid telefonförsäljning")
+[Pressmeddelande: Skriftlighetskrav vid telefonförsäljning](/pressmeddelanden/2018/02/skriftlighetskrav-vid-telefonforsaljning/ "Pressmeddelande:&nbsp;Skriftlighetskrav vid telefonförsäljning")

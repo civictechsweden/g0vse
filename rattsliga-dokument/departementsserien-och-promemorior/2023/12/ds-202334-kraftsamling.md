@@ -1,6 +1,6 @@
 # Kraftsamling
 
-![](/contentassets/0decd61162c24c73a9ca443328ccd9dd/ds202334_150_200.jpg?width=150&quality=85)
+![](/contentassets/0decd61162c24c73a9ca443328ccd9dd/ds202334_150_200.jpg?width=150&amp;quality=85)
 
 Det säkerhetspolitiska läget är det allvarligaste sedan andra världskrigets slut. Förberedelserna, beredskapen och förmågan inom hela totalförsvaret, både det militära och det civila försvaret, måste öka skyndsamt. Insikten om detta behöver genomsyra alla delar av samhället och vara den främsta drivkraften för utvecklingen av
 totalförsvarets samlade förmåga de kommande åren.

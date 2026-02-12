@@ -24,6 +24,8 @@ Det innebär både ett stort ansvar och nya möjligheter att stärka vår frihet
 
 Låt mig lyfta fram några orienteringspunkter i detta arbete.
 
+
+
 **För det första:** Vår centrala utgångspunkt är att Ryssland under överskådlig tid kommer att utgöra ett allvarligt hot mot Sveriges och Europas säkerhet.
 
 Vi måste vara realister och utgå från – och förbereda oss på – en långvarig konfrontation, som varar så länge som Ryssland flagrant bryter mot FN-stadgan och den europeiska säkerhetsordningen.
@@ -82,8 +84,10 @@ Behovet är uppenbart i ljuset av det försämrade säkerhetsläget. Och Finland
 
 Sverige är i år ordförande i och koordinerar det informella samarbetet mellan de nordiska länderna och mellan de nordisk-baltiska länderna, N5 respektive NB8. Fördjupat säkerhetspolitiskt samarbete i närområdet är en av våra prioriteringar. Fortsatt stöd till Ukraina och ökat tryck på Ryssland likaså.
 
+
+
 Allt det jag beskriver hänger ihop – medlemskapen och vår roll i EU och Nato, försvarssamarbetsavtalet med USA, stödet till Ukraina, Rysslandspolitiken och det fördjupade samarbetet mellan de nordisk-baltiska länderna. Dessa byggstenar för vår framtida säkerhetspolitik är viktiga var för sig, men utgör tillsammans en ännu viktigare helhet.
 
 Som jag inledde med att säga har förutsättningarna för den svenska säkerhetspolitiken förändrats i grunden. Det är inte längre valbart att prioritera dessa frågor. Det är en absolut nödvändighet.
 
-I detta förändrade landskap och med den solidariska allianspolitiken som ledstjärna formar vi – inom ramen för våra medel och tillsammans med våra partner – Sveriges säkerhetspolitiska framtid.  Det är en framtid där vi är en del av en stark region, fast förankrad inom EU och Nato. Så gör vi Sverige säkrare.
+I detta förändrade landskap och med den solidariska allianspolitiken som ledstjärna formar vi – inom ramen för våra medel och tillsammans med våra partner – Sveriges säkerhetspolitiska framtid. Det är en framtid där vi är en del av en stark region, fast förankrad inom EU och Nato. Så gör vi Sverige säkrare.

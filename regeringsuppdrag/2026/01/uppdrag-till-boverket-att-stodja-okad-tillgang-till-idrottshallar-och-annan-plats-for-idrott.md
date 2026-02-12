@@ -1,4 +1,4 @@
-# Uppdrag till Boverket att stödja ökad tillgång till idrottshallar och annan plats för idrottDiarienummer:  S2026/00097
+# Uppdrag till Boverket att stödja ökad tillgång till idrottshallar och annan plats för idrott
 
 Regeringen uppdrar åt Boverket att stödja ökad tillgång till idrottshallar och annan plats för idrott.
 

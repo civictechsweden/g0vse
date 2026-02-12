@@ -1,4 +1,4 @@
-# Promemoria En effektivare och mer rättssäker klampning
+# En effektivare och mer rättssäker klampning
 
 I promemorian föreslås en ny klampningslag, som ersätter lagen (2014:1437) om åtgärder vid hindrande av fortsatt färd.
 

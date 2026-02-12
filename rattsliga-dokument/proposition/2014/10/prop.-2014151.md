@@ -1,7 +1,7 @@
 # Budgetpropositionen för 2015
 
 Den 23 oktober 2014 lämnade regeringen budgetpropositionen för år 2015 till riksdagen. Budgetpropositionen innehåller regeringens förslag till statens budget för 2015 samt de övriga förslag och bedömningar som följer av riksdagsordningen och budgetlagen.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+___________________________________________________________
 För beställning av Budgetpropositionen för 2015 kontakta:
 Riksdagens tryckeriexpedition,
 100 12 Stockholm

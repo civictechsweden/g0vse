@@ -2,7 +2,7 @@
 
 Den försöksverksamhet med ett snabbförfarande i brottmål som pågår sedan januari 2018 har visat positiva resultat och har lett till både snabbare lagföring och bättre kvalitet i brottsutredningarna. Arbetet med att utveckla rättsväsendets förmåga att snabbt utreda och lagföra brott bör fortsätta.
 
-Att brott möts av en snabb reaktion från samhället är viktigt både för människors trygghet och för deras förtroende för rättsväsendet. Regeringen lämnar därför förslag som möjliggör ett permanent snabbförfarande i brottmål och andra åtgärder för snabbare lagföring av brott.
+Att brott möts av en snabb reaktion från samhället är viktigt både för människors trygghet och för deras förtroende för rättsväsendet. Regeringen lämnar därför förslag som möjliggör ett permanent snabbförfarande i brottmål och andra åtgärder för snabbare lagföring av brott.
 
 Förslagen handlar bland annat om
 

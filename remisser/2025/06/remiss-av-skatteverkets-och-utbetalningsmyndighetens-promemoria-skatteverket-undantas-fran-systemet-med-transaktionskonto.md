@@ -1,4 +1,4 @@
-# Remiss av Skatteverkets och Utbetalningsmyndighetens promemoria Skatteverket undantas från systemet med transaktionskontoDiarienummer: Fi2025/00773
+# Remiss av Skatteverkets och Utbetalningsmyndighetens promemoria Skatteverket undantas från systemet med transaktionskonto
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Skatteverkets och Utbetalningsmyndighetens promemoria Skatteverket undantas från systemet med
 transaktionskonto

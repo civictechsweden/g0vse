@@ -7,6 +7,6 @@ Kunskapsmaterialet ska göras tillgängligt och spridas nationellt. Det ska frä
 Socialstyrelsen ska:
 
 * hämta in kunskap och synpunkter från Barnafrid – Nationellt centrum för kunskap om våld mot barn vid Linköpings universitet samt samtala med Jämställdhetsmyndigheten, Barnombudsmannen och Myndigheten för familjerätt och föräldraskapsstöd.
-* senast den 31 maj 2025 muntligt delredovisa uppdraget och senast den 31 mars 2027 skriftlig slutredovisa uppdraget till Regeringskansliet.  Slutredovisningen ska redovisa hur Socialstyrelsen bedömer resultat och effekter av uppdraget.
+* senast den 31 maj 2025 muntligt delredovisa uppdraget och senast den 31 mars 2027 skriftlig slutredovisa uppdraget till Regeringskansliet. Slutredovisningen ska redovisa hur Socialstyrelsen bedömer resultat och effekter av uppdraget.
 * redovisa hur kunskapsmaterialet används och sprids,
 * hämta in synpunkter från Barnafrid – Nationellt centrum för kunskap om våld mot barn, Linköpings universitet, när delredovisning och slutredovisning tas fram.

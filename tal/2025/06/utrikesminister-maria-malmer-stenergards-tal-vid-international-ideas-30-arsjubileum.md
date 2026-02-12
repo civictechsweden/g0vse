@@ -20,7 +20,7 @@ We must remember not to neglect our own democracies. In Sweden, we address democ
 
 And beyond our borders our commitment to democracy remains firm. Support to democracy, human rights and the rule of law amounts to around 25 % of all Swedish development assistance. And as Foreign Minister, defending democratic principles and values is part of my daily work.
 
-In light of recent developments in the world, we underline the importance for the EU to continue to defend and promote democracy.  European countries continue to face up to the many democratic challenges, not least foreign information manipulation and interference. In this context, we welcome the work done within the so-called EU Democracy Shield, which has as its ambition to protect democracy within the EU.
+In light of recent developments in the world, we underline the importance for the EU to continue to defend and promote democracy. European countries continue to face up to the many democratic challenges, not least foreign information manipulation and interference. In this context, we welcome the work done within the so-called EU Democracy Shield, which has as its ambition to protect democracy within the EU.
 
 To summarise: Democracy is not something that you have – it’s something that you do, every day.
 

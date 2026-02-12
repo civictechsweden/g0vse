@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen om åtgärder med anledning av propositionen Nästa steg för en god och nära vårdDiarienummer:  S2025/01642
+# Uppdrag till Socialstyrelsen om åtgärder med anledning av propositionen Nästa steg för en god och nära vård
 
 För att förbereda och underlätta genomförandet av föreslagen i propositionen Nästa steg för en god och nära vård, prop. 2025/26:19, ger regeringen Socialdepartementet ett antal uppdrag.
 

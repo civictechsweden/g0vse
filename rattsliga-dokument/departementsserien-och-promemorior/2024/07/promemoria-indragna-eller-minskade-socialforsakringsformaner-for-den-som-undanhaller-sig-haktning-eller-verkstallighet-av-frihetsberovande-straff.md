@@ -1,4 +1,4 @@
-# Promemoria Indragna eller minskade socialförsäkringsförmåner för den som undanhåller sig häktning eller verkställighet av frihetsberövande straff
+# Indragna eller minskade socialförsäkringsförmåner för den som undanhåller sig häktning eller verkställighet av frihetsberövande straff
 
 I promemorian lämnas förslag till ändringar i socialförsäkringsbalken. Ändringarna syftar till att åstadkomma en likvärdig tillgång till ersättning från socialförsäkringen mellan å ena sidan häktade och dömda som har frihetsberövats och å andra sidan häktade och dömda vars beslut om frihetsberövande inte har gått att verkställa.
 

@@ -21,7 +21,7 @@ Regeringen har beslutat om ändring i förordningen om myndigheters inköp av en
 
 ### Referenser
 
-* Europaparlamentets och rådets direktiv 2014/24/EU av den 26 februari 2014 om offentlig upphandling och om upphävande av direktiv 2004/18/EG
+* Europaparlamentets och rådets direktiv 2014/24/EU av den 26 februari 2014 om offentlig upphandling och om upphävande av direktiv 2004/18/EG
 * Europaparlamentets och rådets förordning (EU) 2017/1369 av den 4 juli 2017 om fastställande av en ram för energimärkning och om upphävande av direktiv 2010/30/EU
 * Förordningen (2014:480) om myndigheters inköp av energieffektiva varor, tjänster och byggnader
 

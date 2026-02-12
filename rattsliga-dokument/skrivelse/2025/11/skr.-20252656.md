@@ -1,4 +1,4 @@
-# Riksrevisionens rapport om statens arbete med att förbättra förutsättningarna för cykeltrafikenSkr. 2025/26:56
+# Riksrevisionens rapport om statens arbete med att förbättra förutsättningarna för cykeltrafiken
 
 I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen lämnar i sin granskningsrapport Statens arbete med att förbättra förutsättningarna för cykeltrafiken (RiR
 2025:11).

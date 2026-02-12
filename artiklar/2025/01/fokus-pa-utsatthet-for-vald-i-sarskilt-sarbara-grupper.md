@@ -8,7 +8,7 @@ Socialstyrelsen får inom jämställdhetsområdet två nya uppdrag i regleringsb
 
 Socialstyrelsen får i uppdrag att ta fram och sprida kunskap om vård, stöd och andra insatser för att förebygga våldsutsatthet och våldsutövande bland vuxna och barn vid skadligt bruk och beroende i nära relationer. I arbetet ska myndigheten särskilt uppmärksamma både kvinnors och barns utsatthet och mäns våldsutövande.
 
-Socialstyrelsen får också i uppdrag att utveckla och stödja implementering av kunskapsstöd för att motverka äldres våldsutsatthet och i synnerhet mäns våld mot kvinnor. I uppdraget ska myndigheten beakta vilket stöd och hjälp vid våldsutsatthet äldre personer själva efterfrågar. Myndigheten ska stödja kommuner och regioner i arbetet att inom den sociala omsorgen motverka äldres våldsutsatthet.
+Socialstyrelsen får också i uppdrag att utveckla och stödja implementering av kunskapsstöd för att motverka äldres våldsutsatthet och i synnerhet mäns våld mot kvinnor. I uppdraget ska myndigheten beakta vilket stöd och hjälp vid våldsutsatthet äldre personer själva efterfrågar. Myndigheten ska stödja kommuner och regioner i arbetet att inom den sociala omsorgen motverka äldres våldsutsatthet.
 
 Polismyndigheten, Åklagarmyndigheten, Kriminalvården och Socialstyrelsen ska stärka samverkan för att förebygga och bekämpa mäns våld mot kvinnor, våld i nära relationer samt hedersrelaterat våld och förtryck, inklusive ärenden där barn är involverade.
 
@@ -20,7 +20,7 @@ Myndigheten för ungdoms- och civilsamhällesfrågor får i uppdrag att fortsatt
 
 [Pressmeddelande: Arbetet mot hedersrelaterat våld och förtryck intensifieras - Regeringen.se](/pressmeddelanden/2024/01/arbetet-mot-hedersrelaterat-vald-och-fortryck-intensifieras/)
 
-Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF) får även fortsatt uppdrag om att genomföra en fördjupad analys och vid behov utveckla stödinsatser rörande hedersrelaterat våld och förtryck, inklusive utsatthet för så kallade  omvändelseförsök mot unga hbtqi-personer.
+Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF) får även fortsatt uppdrag om att genomföra en fördjupad analys och vid behov utveckla stödinsatser rörande hedersrelaterat våld och förtryck, inklusive utsatthet för så kallade omvändelseförsök mot unga hbtqi-personer.
 
 ### Kartlägga barns erfarenheter av våld
 
@@ -30,7 +30,7 @@ Linköpings universitet (Barnafrid - nationellt centrum för kunskap om våld mo
 
 ### Insatser för personer med funktionsnedsättning i skyddade boenden
 
-Myndigheten för delaktighet får ett fortsatt uppdrag att bistå Socialstyrelsen i arbetet med kvalitetsindikatorer för skyddade boenden utifrån ett funktionshinderperspektiv.  Myndigheten ska även bidra med kunskap och erfarenheter i Jämställdhetsmyndighetens samordnande uppdrag om könsstympning. Även Linköpings universitet (Barnafrid - nationellt centrum för kunskap om våld mot barn) får fortsatt uppdrag att bistå Socialstyrelsen i arbetet.
+Myndigheten för delaktighet får ett fortsatt uppdrag att bistå Socialstyrelsen i arbetet med kvalitetsindikatorer för skyddade boenden utifrån ett funktionshinderperspektiv. Myndigheten ska även bidra med kunskap och erfarenheter i Jämställdhetsmyndighetens samordnande uppdrag om könsstympning. Även Linköpings universitet (Barnafrid - nationellt centrum för kunskap om våld mot barn) får fortsatt uppdrag att bistå Socialstyrelsen i arbetet.
 
 ### Insatser för att förebygga och bekämpa mäns våld mot samiska kvinnor och flickor
 

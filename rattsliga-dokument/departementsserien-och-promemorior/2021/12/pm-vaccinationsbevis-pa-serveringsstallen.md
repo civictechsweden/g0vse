@@ -1,4 +1,4 @@
-# PM: Vaccinationsbevis på serveringsställen och i andra verksamheter, smittskyddsåtgärder i långväga kollektivtrafik och förlängning av begränsnings- och serverings-förordningarna
+# Vaccinationsbevis på serveringsställen och i andra verksamheter, smittskyddsåtgärder i långväga kollektivtrafik och förlängning av begränsnings- och serverings-förordningarna
 
 I en promemoria föreslår Regeringskansliet bland annat vaccinationsbevis på serveringsställen, smittskyddsåtgärder i långväga kollektivtrafik och förlängning av begränsnings- och serveringsförordningarna
 

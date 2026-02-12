@@ -1,4 +1,4 @@
-# Uppdrag till Diskrimineringsombudsmannen att genomföra kunskapshöjande insatser för att motverka diskrimineringDiarienummer: A2025/00605
+# Uppdrag till Diskrimineringsombudsmannen att genomföra kunskapshöjande insatser för att motverka diskriminering
 
 Regeringen uppdrar åt Diskrimineringsombudsmannen (DO) att genomföra särskilda kunskapshöjande insatser för att motverka diskriminering inom området tillgång till varor och tjänster, med fokus på restaurang- och krogbranschen. Insatserna syftar till att öka kunskapen hos målgrupperna och ska avse diskriminering som har samband med etnisk tillhörighet.
 

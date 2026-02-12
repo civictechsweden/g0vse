@@ -1,4 +1,4 @@
-# Säkrare tillgång till läkemedelDir. 2025:67
+# Säkrare tillgång till läkemedel
 
 En särskild utredare ska se över vilka insatser som behövs för att skapa en säkrare tillgång till läkemedel, både i vardagen och under fredstida krissituationer och vid höjd beredskap.
 

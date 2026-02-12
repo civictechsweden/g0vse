@@ -8,7 +8,7 @@ Regeringen föreslår bestämmelser om bland annat följande:
 * Tjänstemännens rätt att bära och använda vapen, ammunition och annan särskild utrustning.
 * Tjänstemännens straffrättsliga skydd och ansvar.
 
-I propositionen föreslår regeringen också att reglerna om under­rättelse­skyldighet när barn som misstänks för brott frihets­berövas ska förtydligas. Det förslaget är framtaget mot bakgrund av att Europeiska kom­missionen har ifrågasatt Sveriges genom­förande av EU:s försvarar­direktiv.
+I propositionen föreslår regeringen också att reglerna om under­rättelse­skyldighet när barn som misstänks för brott frihets­berövas ska förtydligas. Det förslaget är framtaget mot bakgrund av att Europeiska kom­missionen har ifrågasatt Sveriges genom­förande av EU:s försvarar­direktiv.
 
 Den nya lagen och övriga lag­ändringar föreslås träda i kraft den
 1 augusti 2022.

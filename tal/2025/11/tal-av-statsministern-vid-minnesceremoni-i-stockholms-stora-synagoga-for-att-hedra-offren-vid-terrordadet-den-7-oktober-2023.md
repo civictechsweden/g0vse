@@ -40,7 +40,7 @@ Och vi accepterar varken ursäkter eller relativisering. Vi står helt enkelt ba
 
 Just nu sätts föreställningen Stulen musik upp på Folkoperan här i Stockholm. Skriven av Anders Rydell och nu musikaliskt skapad av Sofia Winiarski, efter ett stipendium från Micael Bindefelds fina stiftelse. Jag ska själv snart se den.
 
-Stulen musik påminner om att historien är kantad av försök att utrota det judiska. Både judiskt liv och judisk kultur.  Men det är också en påminnelse om att alla försök har misslyckats. Att den judiska kulturen inte bara lever utan växer.
+Stulen musik påminner om att historien är kantad av försök att utrota det judiska. Både judiskt liv och judisk kultur. Men det är också en påminnelse om att alla försök har misslyckats. Att den judiska kulturen inte bara lever utan växer.
 
 Som ni vet firar vi 250 år av etablerat judiskt liv i Sverige. Det är en glädje att se hur detta uppmärksammas runt om i landet. Och jag vill passa på att tacka många här idag, som har bidragit till just det.
 

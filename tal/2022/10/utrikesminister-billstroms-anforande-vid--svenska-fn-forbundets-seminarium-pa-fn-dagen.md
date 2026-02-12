@@ -14,7 +14,7 @@ För även om utrikes- och säkerhetspolitiken är en av statens kärnuppgifter,
 
 I värnandet av intressen och värderingar som gör Sverige till ett tryggare, säkrare och mer välmående land behövs vi alla. Nu kanske mer än någonsin.
 
-\* \* \*
+* * *
 
 Statsministern konstaterade i regeringsförklaringen i tisdags att vi står inför de största utrikes-, säkerhets- och försvarspolitiska prövningarna i modern tid.
 
@@ -40,7 +40,7 @@ Det finns länder, regimer och krafter som ifrågasätter detta. Som vill så sp
 
 Generalförsamlingen har nu, upprepade gånger, synat den bluffen. Och även om stödet kunde – borde – ha varit än mer kompakt, så var signalen omöjlig att misstolka. Rätten, framtiden och världen står på Ukrainas sida.
 
-\* \* \*
+* * *
 
 Sverige är och ska fortsätta att vara en stark och pålitlig partner till Ukraina.
 
@@ -54,7 +54,7 @@ Det leder mig tillbaka till FN:s roll, som handlar om spelreglerna och värderin
 
 Generalsekretaren har varit tydlig – och det är mycket välkommet. Vi arbetade nära tillsammans under min tid som migrationsminister, då han var chef för FN:s flyktingorganisation UNHCR, och jag känner honom som en engagerad och strategisk person. Det behövs.
 
-Guterres var instrumentell i att, tillsammans med Turkiet, nå Svartahavsöverenskommelserna för att möjliggöra spannmålsexport från ukrainska hamnar. De bidrar till den ukrainska ekonomin – och till att avhjälpa en galopperande hungerkris i världen. I dagarna kommer ett FN-fartyg – finansierat av Sverige och lastat med 40 000 ton ukrainskt vete – att lämna hamnen i Tjornomorsk. Slutdestination är Jemen, där 7 miljoner människor riskerar svält.
+Guterres var instrumentell i att, tillsammans med Turkiet, nå Svartahavsöverenskommelserna för att möjliggöra spannmålsexport från ukrainska hamnar. De bidrar till den ukrainska ekonomin – och till att avhjälpa en galopperande hungerkris i världen. I dagarna kommer ett FN-fartyg – finansierat av Sverige och lastat med 40 000 ton ukrainskt vete – att lämna hamnen i Tjornomorsk. Slutdestination är Jemen, där 7 miljoner människor riskerar svält.
 
 Dessa globala konsekvenser av den ryska aggressionen kommer att behöva stå på dagordningen länge – hos FN och hos EU.
 
@@ -64,7 +64,7 @@ Det skissas på modeller för ökad säkerhet kring ukrainska kärnkraftverk och
 
 Annorlunda uttryckt: FN är en del av det samlade internationella stödet till Ukraina. Så vill vi att det ska fortsätta att vara. Och det ser vi fram emot att på olika sätt bidra till.
 
-\* \* \*
+* * *
 
 Min punkt i programmet har rubriken Sveriges röst i FN.
 
@@ -108,7 +108,7 @@ Låt oss också konstatera att vi har gott om utrikespolitiska instrument att an
 
 Sverige kommer fortsatt att ha en generös biståndspolitik och en ambitiös klimat- och miljöpolitik.
 
-\* \* \*
+* * *
 
 Jag vill avrunda där jag började – med ett varmt tack.
 

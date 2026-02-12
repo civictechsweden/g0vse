@@ -22,7 +22,7 @@ Skattefrågorna tog avstamp i finanskrisen som kulminerade 2009. Sverige klarade
 
 - EU:s medlemsstater har varit tvungna att se över sina intäkter, dra ner på utgifter, löner, pensioner och anställningar och samtidigt höjt skatten för privatpersoner. Då har det blivit ännu tydligare att alla måste bidra - även de stora företagen. Därför finns en stark politisk press på att stoppa skatteundandragande, skattefusk och bedrägerier, förklarar Eva Posjnov.
 
-Att veta exakt hur mycket som går förlorat i uteblivna skatteintäkter är omöjligt men EU-kommissionen bedömer att miljarder euro årligen står på spel.
+Att veta exakt hur mycket som går förlorat i uteblivna skatteintäkter är omöjligt men EU-kommissionen bedömer att miljarder euro årligen står på spel.
 
 Trots meningsskiljaktigheter i enskilda frågor har allt detta gjort att uppslutningen varit stark ända från början att förbättra lagstiftningen.
 
@@ -44,7 +44,7 @@ Under hösten kommer EU-kommissionen presentera ytterligare förslag på företa
 
 På EU-representationen efterträds Eva Posjnov av Fredrik Löfstedt, tidigare chef för Finansdepartements enhet för skatteadministration, skatteavtal och tullfrågor.
 
-[Videoklipp med finansminister Magdalena Andersson om direktivet mot skatteundandragande](/contentassets/ae4b780bd813414b98feab31282e692d/ekofin-antog-direktiv-mot-skatteflykt/ "Video")
+[Videoklipp med finansminister Magdalena Andersson om direktivet mot skatteundandragande](/contentassets/ae4b780bd813414b98feab31282e692d/ekofin-antog-direktiv-mot-skatteflykt/ "Video")
 
 ## Fakta om EU:s direktiv mot skatteundandragande
 

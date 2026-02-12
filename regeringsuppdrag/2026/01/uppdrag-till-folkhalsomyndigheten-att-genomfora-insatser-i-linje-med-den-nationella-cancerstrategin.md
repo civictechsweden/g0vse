@@ -1,4 +1,4 @@
-# Uppdrag till Folkhälsomyndigheten att genomföra insatser i linje med den nationella cancerstrateginDiarienummer:  S2026/00064
+# Uppdrag till Folkhälsomyndigheten att genomföra insatser i linje med den nationella cancerstrategin
 
 Regeringen uppdrar åt Folkhälsomyndigheten att bidra till genomförandet av den nationella cancerstrategin.
 

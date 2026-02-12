@@ -1,4 +1,4 @@
-# Kontaktpunkter, tillstånd och tidsfrister enligt EU-förordningen om kritiska råmaterial och EU-förordningen om nettonollindustriKN2025/02439
+# Kontaktpunkter, tillstånd och tidsfrister enligt EU-förordningen om kritiska råmaterial och EU-förordningen om nettonollindustri
 
 I promemorian lämnas förslag till bestämmelser som kompletterar EU-förordningen om kritiska råmaterial och EU-förordningen om nettonollindustri (EU-förordningarna).
 

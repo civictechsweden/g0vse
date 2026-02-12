@@ -1,4 +1,4 @@
-# Genomförande av direktivet om skydd för personer som deltar i den offentliga debatten samt införande av en ny tredskodomssanktionProp. 2025/26:64
+# Genomförande av direktivet om skydd för personer som deltar i den offentliga debatten samt införande av en ny tredskodomssanktion
 
 I propositionen föreslås de lagändringar som krävs för att genomföra Europaparlamentets och rådets direktiv (EU) 2024/1069 om skydd för personer som deltar i den offentliga debatten mot uppenbart ogrundade anspråk eller rättegångsmissbruk (strategiska rättsprocesser för att hindra offentlig debatt).
 

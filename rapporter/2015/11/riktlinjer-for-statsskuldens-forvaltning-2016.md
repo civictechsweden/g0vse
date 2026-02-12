@@ -11,8 +11,8 @@ Styrningen av statsskuldens sammansättning mellan de tre olika skuldslagen beh�
 * Valutaskuld: duration 0‒1 år
 * Real kronskuld: duration 6–9 år
 * Nominell kronskuld:
-  – Instrument med upp till 12 år till förfall: duration 2,6‒3,6 år
-  – Instrument med mer än 12 år till förfall: långsiktigt riktvärde för utestående volym 70 miljarder kronor
+– Instrument med upp till 12 år till förfall: duration 2,6‒3,6 år
+– Instrument med mer än 12 år till förfall: långsiktigt riktvärde för utestående volym 70 miljarder kronor
 
 **Statsskuldens sammansättning ska styras mot**
 

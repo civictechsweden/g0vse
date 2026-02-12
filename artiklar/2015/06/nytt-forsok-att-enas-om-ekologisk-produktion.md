@@ -8,4 +8,4 @@ Regeringen har höga ambitioner för att öka den ekologiska produktionen och ko
 
 ### Information om 2016 års fiskemöjligheter
 
-Fiskeministrarna ska få en presentation av kommissionen om nästa års fiskemöjligheter. Något som sker årligen. I ett så kallat meddelande redogör kommissionen för arbetet och tidplanen för framtagande av höstens förslag om fiskemöjligheter och kvoter för bland annat fisket i  Västerhavet och  Östersjön.
+Fiskeministrarna ska få en presentation av kommissionen om nästa års fiskemöjligheter. Något som sker årligen. I ett så kallat meddelande redogör kommissionen för arbetet och tidplanen för framtagande av höstens förslag om fiskemöjligheter och kvoter för bland annat fisket i Västerhavet och Östersjön.

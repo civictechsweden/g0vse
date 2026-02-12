@@ -40,7 +40,7 @@ konventionen om rättigheter för
 personer med funktionsnedsättning.
 Sverige är en av konventionsstaterna.
 
-### FN:s kommitté om rättigheter för personer med funktionsnedsättning
+### FN:s kommitté om rättigheter  för personer med funktionsnedsättning
 
 Konventionsstaterna ska följa konventionen.
 De ska göra förbättringar.
@@ -175,7 +175,7 @@ Det är regeringen som bestämmer
 om de ska följa rekommendationerna
 eller inte.
 
-### Sveriges rapportering till kommittén och hur civilsamhället är med i arbetet
+### Sveriges rapportering till kommittén  och hur civilsamhället är med i arbetet
 
 Civilsamhället är organisationer, föreningar och andra
 som inte är statliga eller kommunala.
@@ -257,7 +257,7 @@ Och det finns fler exempel
 där det visserligen går bättre
 men inte tillräckligt bra.
 
-### Sveriges civilsamhälle planerar just nu en parallellrapport till kommittén
+### Sveriges civilsamhälle planerar just nu  en parallellrapport till kommittén
 
 Sverige ska ha en ny dialog med kommittén.
 Innan dess vill den svenska funktions-hinders-rörelsen
@@ -292,7 +292,7 @@ I rapporten ger organisationerna rekommendationer.
 De ger förslag på vad Sverige kan göra
 för att bättre leva upp till konventionen.
 
-### Sveriges dialog med kommittén och vad kommittén rekommenderade Sverige
+### Sveriges dialog med kommittén och  vad kommittén rekommenderade Sverige
 
 Sverige hade sin dialog med kommittén år 2014, i Genève.
 Då var tjänste-personer med på mötet.

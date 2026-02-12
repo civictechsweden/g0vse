@@ -1,4 +1,4 @@
-# Genomförande av direktiv om inrättande av EU-intyg om funktionsnedsättning och EU-parkeringstillstånd för personer med funktionsnedsättningDir. 2025:88
+# Genomförande av direktiv om inrättande av EU-intyg om funktionsnedsättning och EU-parkeringstillstånd för personer med funktionsnedsättning
 
 Regeringen uppdrar åt en särskild utredare att analysera och ta ställning till hur två EU-direktiv ska genomföras i Sverige.
 

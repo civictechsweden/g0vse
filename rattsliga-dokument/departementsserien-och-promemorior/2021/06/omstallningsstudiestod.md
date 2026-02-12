@@ -1,6 +1,6 @@
 # Omställningsstudiestöd – för flexibilitet, omställningsförmåga och trygghet på arbetsmarknaden
 
-![](/contentassets/83075815b75d49f696e5c31af0bbb6b5/ds-18-2021-fram.jpg?width=150&quality=85)
+![](/contentassets/83075815b75d49f696e5c31af0bbb6b5/ds-18-2021-fram.jpg?width=150&amp;quality=85)
 
 Denna promemoria har utarbetats inom Utbildningsdepartementet. I promemorian föreslås ett nytt parallellt offentligt studiestödssystem.
 

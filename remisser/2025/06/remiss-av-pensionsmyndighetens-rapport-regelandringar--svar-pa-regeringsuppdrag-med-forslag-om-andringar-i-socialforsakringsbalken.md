@@ -1,4 +1,4 @@
-# Remiss Pensionsmyndighetens rapport Regeländringar – Svar på regeringsuppdrag, med förslag om ändringar i socialförsäkringsbalkenDiarienummer: S2025/00422
+# Remiss Pensionsmyndighetens rapport Regeländringar – Svar på regeringsuppdrag, med förslag om ändringar i socialförsäkringsbalken
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Pensionsmyndighetens rapport Regeländringar – Svar på regeringsuppdrag, med förslag om ändringar i socialförsäkringsbalken.
 

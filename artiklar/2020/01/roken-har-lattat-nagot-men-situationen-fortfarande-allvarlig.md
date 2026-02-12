@@ -8,6 +8,6 @@ Mest omfattande har bränderna varit i delstaten New South Wales, där Sydney ä
 
 Brandröken har skapat betydande problem på många håll, med tidvis mycket dålig luftkvalitet i bland annat Sydney, Canberra och Melbourne.
 
-Det finns omkring 10 000 fast bosatta svenska medborgare i Australien men endast ett fåtal har hört av sig till ambassaden. Frågor kommer till största del från svenskar som bokat resa till Australien och som undrar ifall de bör åka.
+Det finns omkring 10 000 fast bosatta svenska medborgare i Australien men endast ett fåtal har hört av sig till ambassaden. Frågor kommer till största del från svenskar som bokat resa till Australien och som undrar ifall de bör åka.
 
 – I dessa fall hänvisar vi till ambassadens reseinformation på Sweden Abroad och i appen UD Resklar. Här finns även många värdefulla och informativa länkar med den senaste informationen.

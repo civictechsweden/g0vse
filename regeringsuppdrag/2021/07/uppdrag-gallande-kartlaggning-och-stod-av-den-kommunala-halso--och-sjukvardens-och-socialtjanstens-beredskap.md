@@ -8,7 +8,11 @@ Länsstyrelserna ska hjälpa Socialstyrelsen med att hämta in och sammanställa
 
 Tillsammans med länsstyrelserna ska Socialstyrelsen därefter ta fram stödjande underlag som kommunerna behöver för att utveckla och stärka den kommunala hälso- och sjukvårdens och socialtjänstens arbete med krisberedskap och civilt försvar. Meningen är att utveckla och stärka den kommunala hälso- och sjukvårdens och socialtjänstens arbete med krisberedskap och civilt försvar.
 
+
+
 Socialstyrelsen och länsstyrelserna genomför uppdraget tillsammans med Myndigheten för samhällsskydd och beredskap (MSB) och i samtal med Sveriges Kommuner och Regioner (SKR).
+
+
 
 Socialstyrelsen redovisar uppdraget till Regeringskansliet genom att:
 

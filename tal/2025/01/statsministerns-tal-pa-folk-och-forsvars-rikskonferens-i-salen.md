@@ -65,7 +65,7 @@ Allt handlar om prioriteringar. Vi har råd att försvara vår frihet – men vi
 
 För bara ett par månader sedan samlade jag mina statsminister-kollegor i Norden, de baltiska länderna och Polens premiärminister Donald Tusk för samtal på Harpsund. Vi pratade om vårt fortsatta stöd till Ukraina, om att vi står kvar vid deras sida så länge det krävs.
 
-Vi talade om det viktiga transatlantiska samarbetet och om vårt gemensamma försvar av vår gemensamma Östersjö. Samarbetet mellan våra länder har nog aldrig varit tätare än idag. Inte heller viktigare.
+Vi talade om det viktiga transatlantiska samarbetet och om vårt gemensamma försvar av vår gemensamma Östersjö. Samarbetet mellan våra länder har nog aldrig varit tätare än idag. Inte heller viktigare.
 
 Försvaret av Sverige är statens främsta kärnuppgift. Men uppgiften att försvara Sverige är inte bara statens. Samhället är större än staten. Och allvarstider kräver allvarets insikt – att i Sverige har vi både rättigheter och skyldigheter. Det ena finns inte utan det andra.
 

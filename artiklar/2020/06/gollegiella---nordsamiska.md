@@ -2,7 +2,7 @@
 
 Gollegiella - davviriikkalaš sámi giellabálkkašupmi geigejuvvo ovccát geardde čakčat 2020 sámeministariid ja sámediggepresideanttaid deaivvadeamis, man lea ulbmil doallat Helssegis skábmamánus. Giellabálkkašupmi addojuvvo ovttaskas olbmui dehe organisašuvdnii Norggas, Ruoŧas, Suomas dahje Ruoššas sámegielaid ovddideamis.
 
-Giellabálkkašumi leat ásahan sámeáššiin vástideaddji ministarat Norggas, Ruoŧas ja Suomas ovttas dáid riikkaid sámediggepresideanttaiguin. Bálkkašupmi geigejuvvui vuosttaš geardde jagi 2004, ja dat juhkkojuvvo juohke nuppi jagi. Bálkkašumi sturrodat lea 15 000 euro.
+Giellabálkkašumi leat ásahan sámeáššiin vástideaddji ministarat Norggas, Ruoŧas ja Suomas ovttas dáid riikkaid sámediggepresideanttaiguin. Bálkkašupmi geigejuvvui vuosttaš geardde jagi 2004, ja dat juhkkojuvvo juohke nuppi jagi. Bálkkašumi sturrodat lea 15 000 euro.
 
 ## Giellabálkkašumi ulbmil
 
@@ -28,4 +28,4 @@ Menesjärventie 2
 
 FI-99870 Anár
 
-[anne-kirste.aikio@samediggi.fi](mailto:anne-kirste.aikio@samediggi.fi "anne-kirste.aikio@samediggi.fi")
+<anne-kirste.aikio@samediggi.fi>

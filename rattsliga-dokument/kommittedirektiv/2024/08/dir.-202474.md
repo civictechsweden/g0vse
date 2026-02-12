@@ -8,11 +8,11 @@ Syftet är att skapa bättre möjligheter för medieföretag att upprätthålla 
 Utredaren ska bland annat:
 
 * beskriva hur distribution av radio- och tv-program sker över internet
-  och i marknät
+och i marknät
 * vid behov lämna förslag på åtgärder med syfte att öka förutsättningarna
-  för radio- och tv-företagen, särskilt public service-företagen, att
-  upprätthålla redaktionell kontroll, kvalitet, hög säkerhet, robusthet och
-  tillgänglighet oberoende av distributionsform
+för radio- och tv-företagen, särskilt public service-företagen, att
+upprätthålla redaktionell kontroll, kvalitet, hög säkerhet, robusthet och
+tillgänglighet oberoende av distributionsform
 * lämna nödvändiga författningsförslag.
 
 Uppdraget ska redovisas senast den 30 september 2025.

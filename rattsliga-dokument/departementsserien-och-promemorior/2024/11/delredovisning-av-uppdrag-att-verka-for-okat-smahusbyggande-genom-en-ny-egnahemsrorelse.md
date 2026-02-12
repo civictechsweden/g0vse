@@ -5,7 +5,7 @@ titeln Egnahemskommissionär med placering i Regeringskansliet och med
 uppdrag att verka för ökat småhusbyggande genom en ny egnahemsrörelse.
 Till Egnahemskommissionär utsågs Stefan Attefall.
 
-Egnahemskommissionären ska dels analysera och klarlägga orsakerna till småhusens låga andel av nyproduktionen av bostäder, dels aktivt arbeta för att de parter som bedöms ha möjlighet att bidra till ett ökat småhusbyggande gör det. Utredaren ska också verka för att nya trädgårdsstäder anläggs. Syftet är också att verka för en ny egnahemsrörelse och att långsiktigt öka småhusens andel av nyproduktion av bostäder.
+Egnahemskommissionären ska dels analysera och klarlägga orsakerna till småhusens låga andel av nyproduktionen av bostäder, dels aktivt arbeta för att de parter som bedöms ha möjlighet att bidra till ett ökat småhusbyggande gör det. Utredaren ska också verka för att nya trädgårdsstäder anläggs. Syftet är också att verka för en ny egnahemsrörelse och att långsiktigt öka småhusens andel av nyproduktion av bostäder.
 
 I denna delrapport redovisar Egnahemskommisionären tänkbara faktorer
 som begränsar småhusbyggandet. I delrapporten redovisas också tills nu

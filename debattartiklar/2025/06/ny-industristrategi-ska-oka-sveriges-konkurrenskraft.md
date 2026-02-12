@@ -27,7 +27,7 @@ Regeringen tar i industristrategin ytterligare ett steg för att utveckla svensk
 
 Sverige ska vara ett av världens främsta forsknings- och innovationsländer. Därför presenterade regeringen i december den största satsningen på forskning och innovation någonsin om 6,5 miljarder kronor. Satsningarna innefattar bland annat kommersialisering av forskning genom medel till verifiering, test- och demonstrationsmiljöer, ökat EU-samarbete och avancerad digitalisering och satsningar på banbrytande teknik för ett Sverige i framkant.
 
-Genom propositionen har regeringen gett Vinnova flera nya uppdrag inom innovation och ny teknik. Ett centralt uppdrag rör insatser för excellenskluster och strategiska teknikområden, i syfte att bidra till ett tydligt svenskt teknikledarskap genom att kraftsamla kring ett antal utvalda teknikområden som är strategiskt viktiga för Sverige:  AI och autonoma system, avancerad digital teknik, inklusive halvledare, kvantteknik, energiteknik, material- och produktionsteknik och bioteknik.
+Genom propositionen har regeringen gett Vinnova flera nya uppdrag inom innovation och ny teknik. Ett centralt uppdrag rör insatser för excellenskluster och strategiska teknikområden, i syfte att bidra till ett tydligt svenskt teknikledarskap genom att kraftsamla kring ett antal utvalda teknikområden som är strategiskt viktiga för Sverige: AI och autonoma system, avancerad digital teknik, inklusive halvledare, kvantteknik, energiteknik, material- och produktionsteknik och bioteknik.
 
 Vinnova får även i uppdrag att göra en löpande analys av svenska styrkor och behov inom ny teknik, och att i processen engagera teknikintensiva företag, myndigheter och andra viktiga aktörer.
 

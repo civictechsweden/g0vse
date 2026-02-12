@@ -5,11 +5,11 @@ Möjligheterna att använda hemliga och preventiva tvångsmedel är många gång
 För att stärka de brottsbekämpande myndigheternas förutsättningar att bekämpa allvarlig brottslighet som begås av barn föreslår regeringen bland annat följande:
 
 * Hemliga tvångsmedel ska få användas för att utreda vissa allvarliga
-  brott där den skäligen misstänkte är under 15 år.
+brott där den skäligen misstänkte är under 15 år.
 * Preventiva tvångsmedel ska få användas mot barn under 15 år för att
-  förebygga, förhindra och upptäcka viss särskilt allvarlig brottslighet.
+förebygga, förhindra och upptäcka viss särskilt allvarlig brottslighet.
 * Barn ska kunna hållas kvar i fler fall och under något längre tid än i
-  dag för förhör eller i syfte att överlämnas till exempelvis föräldrar eller
-  socialtjänst.
+dag för förhör eller i syfte att överlämnas till exempelvis föräldrar eller
+socialtjänst.
 
 Lagändringarna föreslås träda i kraft den 1 oktober 2025.

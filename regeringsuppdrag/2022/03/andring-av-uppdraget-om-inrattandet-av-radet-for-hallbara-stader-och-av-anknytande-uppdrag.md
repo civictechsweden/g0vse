@@ -9,8 +9,8 @@ Rådet ska utöver vad som framgår av det ursprungliga beslutet:
 * skapa förutsättningar för myndighetssamarbete som bidrar till att mål 11 Hållbara städer och samhällen i Agenda 2030 kan uppnås,
 * med stöd av sitt kansli, utveckla webbplatsen www.hallbarstad.se till en plattform för aktuell samlad information om kunskapsstöd och möjligheter till finansiering för utveckling av hållbara städer och samhällen, samt därefter förvalta denna, och
 * stödja de kommuner som berörs av större industrietableringar och
-  industriexpansioner i Norrbottens och Västerbottens län avseende
-  hållbart samhällsbyggande och gestaltad livsmiljö.
+industriexpansioner i Norrbottens och Västerbottens län avseende
+hållbart samhällsbyggande och gestaltad livsmiljö.
 
 Regeringen utökar även antalet ledamöter i rådet från 13 till 14 ledamöter totalt. Myndighetschefen för Folkhälsomyndigheten ska vara ledamot i rådet.
 

@@ -1,4 +1,4 @@
-# Juridiska personers förvärv av lantbruksegendom genom testamenteProp. 2025/26:38
+# Juridiska personers förvärv av lantbruksegendom genom testamente
 
 I propositionen föreslår regeringen att kravet på förvärvstillstånd enligt jordförvärvslagen utvidgas till att omfatta juridiska personers förvärv av lantbruksegendom, dels till följd av testamentariska förordnanden, dels från Allmänna arvsfonden.
 

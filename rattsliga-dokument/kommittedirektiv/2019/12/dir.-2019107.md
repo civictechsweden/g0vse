@@ -5,6 +5,6 @@ Utredaren ska bl.a. lämna förslag till lagändringar som krävs för att
 
 * i svensk rätt genomföra det nya EU-direktivet, och
 * komplettera och anpassa svensk rätt till ändringarna av
-  EU-förordningen.
+EU-förordningen.
 
 Uppdraget ska redovisas senast den 31 oktober 2020

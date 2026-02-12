@@ -1,4 +1,4 @@
-# Åtgärder för en sund omsorgsmarknadDir. 2025:90
+# Åtgärder för en sund omsorgsmarknad
 
 Regeringen uppdrar åt en särskild utredare att föreslå åtgärder som stärker Inspektionen för vård och omsorgs, IVO, och kommunernas möjligheter att motverka oseriösa och kriminella utförare inom omsorgsmarknaden.
 

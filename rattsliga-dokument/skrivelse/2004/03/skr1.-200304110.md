@@ -1,6 +1,6 @@
 # Demokratipolitik
 
-Skrivelsen innehåller en redovisning och analys av den svenska demokratins utveckling efter 2002 i förhållande till målen för att värna och fördjupa den svenska folkstyrelsen. I skrivelsen presenteras också demokratipolitikens fortsatta inriktning.
+Skrivelsen innehåller en redovisning och analys av den svenska demokratins utveckling efter 2002 i förhållande till målen för att värna och fördjupa den svenska folkstyrelsen. I skrivelsen presenteras också demokratipolitikens fortsatta inriktning.
 
 Skrivelsen är uppdelad i två delar.
 

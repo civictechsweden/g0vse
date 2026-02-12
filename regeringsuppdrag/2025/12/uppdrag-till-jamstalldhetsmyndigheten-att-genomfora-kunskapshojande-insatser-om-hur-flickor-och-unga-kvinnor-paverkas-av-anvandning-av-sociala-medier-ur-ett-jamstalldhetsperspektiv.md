@@ -1,4 +1,4 @@
-# Uppdrag till Jämställdhetsmyndigheten att genomföra kunskapshöjande insatser om hur flickor och unga kvinnor påverkas av användning av sociala medier ur ett jämställdhetsperspektivDiarienummer: A2025/01204
+# Uppdrag till Jämställdhetsmyndigheten att genomföra kunskapshöjande insatser om hur flickor och unga kvinnor påverkas av användning av sociala medier ur ett jämställdhetsperspektiv
 
 Regeringen ger Jämställdhetsmyndigheten i uppdrag att undersöka på vilket sätt, och i vilken utsträckning, flickors och unga kvinnors livsval och livskvalitet påverkas av det innehåll som de exponeras för i sociala medier. Myndigheten ska också undersöka vilken förväntan unga män får på kvinnor baserat på det innehåll de exponeras för i sociala medier.
 

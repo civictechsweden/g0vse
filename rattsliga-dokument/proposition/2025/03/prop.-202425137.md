@@ -4,4 +4,4 @@ Regeringen föreslår nya regler på upphovsrättsområdet som innebär att radi
 
 Lagändringarna föreslås träda i kraft den 1 januari 2026.
 
-I propositionen föreslås även att det tydliggörs när regeringen får meddela föreskrifter om upphovsrättslagens tillämpning med avseende på andra länder. Lagändringen föreslås träda i kraft den 1 juli 2025.
+I propositionen föreslås även att det tydliggörs när regeringen får meddela föreskrifter om upphovsrättslagens tillämpning med avseende på andra länder. Lagändringen föreslås träda i kraft den 1 juli 2025.

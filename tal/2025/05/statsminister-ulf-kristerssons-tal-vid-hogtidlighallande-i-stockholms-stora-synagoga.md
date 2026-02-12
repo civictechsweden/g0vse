@@ -14,7 +14,7 @@ Så började vår 250 år långa historia av etablerat judiskt liv i Sverige. Vi
 
 Jag vet att vi är många som gör det med dubbla känslor. Stoltheten över den rika historien förenas med rädslan över nutiden och med osäkerheten om framtiden.
 
-\*\*\*
+***
 
 När vi pratar om vår europeiska historia så måste den alldeles självklart handla om judiskt lidande och död. För att inte glömma dem som inte längre finns med oss, och för att lära av de fasansfulla skälen till att det är precis så. Rätt vårdat kan det kollektiva minnet bli ett vaccin som gör att det som hände då inte kan hända igen.
 
@@ -40,7 +40,7 @@ Det är också därför regeringen har gett flera myndigheter uppdraget att på 
 
 Regeringen har givit Forum för Levande historia i uppgift att ta fram en webbplats för hela jubileumsåret. Där är det fullt med aktiviteter runt om i Sverige.
 
-\*\*\*
+***
 
 Judiskt liv handlar också om det vardagliga.
 
@@ -54,7 +54,7 @@ Låt mig här ikväll rikta ett särskilt tack till alla som har delat med sig a
 
 Ett särskilt tack också till er på Judiska ungdomsförbundet, som har startat podden ”Jidder”.
 
-\*\*\*
+***
 
 Låt mig till sist säga att själva namnet – Stolt jude – är talande för hur det borde vara i Sverige. Hur det ska vara.
 

@@ -5,7 +5,7 @@ Regeringen föreslå att vissa undantagsbestämmelser för att tillgodoräkna f�
 Förslagen innebär att:
 
 * bosättningstid i ett tidigare hemland inte ska få tillgodoräknas som försäkringstid för garantipension och garantipension till omställningspension.
-* det  inte ska vara möjligt att som försäkringstid för garantipension räkna den försäkringstid som legat till grund för sjukersättning i form av garantiersättning.
+* det inte ska vara möjligt att som försäkringstid för garantipension räkna den försäkringstid som legat till grund för sjukersättning i form av garantiersättning.
 
 ## Bosättning i hemlandet räknas vid sjuk- och aktivietetsersättning
 

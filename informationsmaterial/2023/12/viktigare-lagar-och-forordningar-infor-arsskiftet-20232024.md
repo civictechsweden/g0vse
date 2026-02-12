@@ -7,7 +7,8 @@ Informationsmaterialet innehåller en sammanfattning av de viktigare lagar och f
 Rubrikerna är länkade till respektive avsnitt
 **[Statsrådsberedningen](#R1)**
 
-**[Arbetsmarknadsdepartementet](#R2)**[Arbetsförmedlingen får en utökad möjlighet att behandla personuppgifter och en skyldighet att samverka för att motverka felaktiga utbetalningar](#A1)
+**[Arbetsmarknadsdepartementet](#R2)**
+[Arbetsförmedlingen får en utökad möjlighet att behandla personuppgifter och en skyldighet att samverka för att motverka felaktiga utbetalningar](#A1)
 [Utökade möjligheter att studera med aktivitetsstöd](#A2)
 [De tillfälliga lättnaderna i arbetslöshetsförsäkringen permanentas](#A3)
 [Lön och ersättning för etableringsjobb ska följa löneutvecklingen](#A4)

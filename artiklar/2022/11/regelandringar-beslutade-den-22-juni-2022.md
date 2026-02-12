@@ -10,7 +10,7 @@ Det införs en bestämmelse om att böter ska kunna dömas ut när någon överl
 
 Nya bestämmelser om producentansvar införs. Det införs ett bemyndigande som gör det möjligt att under vissa förutsättningar meddela föreskrifter om att en producentansvarsorganisation ska hantera mer avfall än vad som motsvarar producentansvarsorganisationens marknadsandel. Om det har skett när det gäller producentansvaret för förpackningar ska övriga producentansvarsorganisationer betala skälig ersättning till den ansvariga organisationen. Det införs ett bemyndigande som gör det möjligt att föreskriva att de intäkter som en producentansvarsorganisation för förpackningar har endast får användas för verksamhet som har samband med organisationens skyldigheter eller för att göra en utbetalning till de producenter som har anlitat organisationen. Det införs även ett bemyndigande som gör det möjligt att meddela föreskrifter om att kommunen ska ansvara för avfall som omfattas av producentansvar och som av samordningsskäl bör hanteras tillsammans med sådant avfall som kommunen annars ansvarar för.
 
-Författningsändringarna om säkerheter för utvinningsavfallsverksamheter träder i kraft den 1 juli 2023 och övriga ändringar den 1 januari 2023.
+Författningsändringarna om säkerheter för utvinningsavfallsverksamheter träder i kraft den 1 juli 2023 och övriga ändringar den 1 januari 2023.
 
 **Referenser:**
 

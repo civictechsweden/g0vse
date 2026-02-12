@@ -18,7 +18,7 @@ Det Putin aldrig förstod var att han sparkade in denna dörr hos varje ukrainar
 
 Samhällelig motståndskraft kräver just det, medvetenhet om läget. Medvetenhet hos den enskilde medborgaren, arbetstagaren, företagaren och befattningshavaren i offentlig förvaltning. Men det räcker inte bara att umgås med frågan. Civilt försvar är inte primärt en seminarieövning. Medvetenheten måste omsättas i praktisk handling. Åtgärder som faktiskt höjer tröskeln.
 
- Alla måste förstå att tid, i det läge vi befinner oss kan vara vår dyrbaraste icke förnybara resurs. Om något håller mig vaken om nätterna är det just att det går för långsamt.
+Alla måste förstå att tid, i det läge vi befinner oss kan vara vår dyrbaraste icke förnybara resurs. Om något håller mig vaken om nätterna är det just att det går för långsamt.
 
 Nej, allt är inte färdigutrett, all ny lagstiftning är inte på plats, och all finansiering i förhållande till definierad målbild är heller inte fastlagd, men uppbyggnaden av totalförsvaret är inte ett projekt som väntar på slutbesiktning innan driftsättning.
 

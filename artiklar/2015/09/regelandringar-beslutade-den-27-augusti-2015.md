@@ -4,23 +4,23 @@
 
 Regeringen har beslutat om ändringar i förordningen om handel med utsläppsrätter. Ändringarna innebär i allt väsentligt
 
-– att uttrycket ”samförbränningsanläggning” ersätts med ”avfallsenergianläggning” och att industriutsläppsdirektivets definition används,
+– att uttrycket ”samförbränningsanläggning” ersätts med ”avfallsenergianläggning” och att industriutsläppsdirektivets definition används,
 
-– att det förtydligas att utsläppsrätter för flygverksamhet är kostnadsfria och att en ansökan om ordinarie tilldelning görs hos Naturvårdsverket,
+– att det förtydligas att utsläppsrätter för flygverksamhet är kostnadsfria och att en ansökan om ordinarie tilldelning görs hos Naturvårdsverket,
 
-– att de avgifter (ansökningsavgift och årsavgift) som Statens energimyndighet får ta ut för verksamheten med kontoföring höjs,
+– att de avgifter (ansökningsavgift och årsavgift) som Statens energimyndighet får ta ut för verksamheten med kontoföring höjs,
 
-– att projektmyndigheten nu får överföra utsläppsminskningsenheter även till svenska projektdeltagares konton,
+– att projektmyndigheten nu får överföra utsläppsminskningsenheter även till svenska projektdeltagares konton,
 
-– att en verksamhetsutövare som inte i rätt tid har lämnat information om genomförda minskningar av en anläggnings kapacitet, aktivitetsnivå eller drift ska ges tillfälle att yttra sig innan beslut om förseningsavgift fattas,
+– att en verksamhetsutövare som inte i rätt tid har lämnat information om genomförda minskningar av en anläggnings kapacitet, aktivitetsnivå eller drift ska ges tillfälle att yttra sig innan beslut om förseningsavgift fattas,
 
-– att Naturvårdsverket ska underrätta Transportstyrelsen om en begäran om verksamhetsförbud har lämnats till regeringen eller om Europeiska kommissionen har beslutat om sådant förbud, och
+– att Naturvårdsverket ska underrätta Transportstyrelsen om en begäran om verksamhetsförbud har lämnats till regeringen eller om Europeiska kommissionen har beslutat om sådant förbud, och
 
-– att de bestämmelser som rör handelsperioden 2008–2012 tas bort.
+– att de bestämmelser som rör handelsperioden 2008–2012 tas bort.
 
 ### Referenser
 
-* Europaparlamentets och rådets direktiv 2010/75/EU av den 24 november 2010 om industriutsläpp (samordnade åtgärder för att förebygga och begränsa föroreningar)
+* Europaparlamentets och rådets direktiv 2010/75/EU av den 24 november 2010 om industriutsläpp (samordnade åtgärder för att förebygga och begränsa föroreningar)
 * förordningen (2004:1205) om handel med utsläppsrätter (SFS 2015:544)
 
 ## Ändring i förordningen om vissa avgifter för registrering och tillsyn över handeln på grossistenergimarknaden

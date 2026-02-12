@@ -1,4 +1,4 @@
-# Remiss av promemorian Ändring av kravet på befordringstid i den samhällsomfattande posttjänstenDiarienummer: Fi2025/01485
+# Remiss av promemorian Ändring av kravet på befordringstid i den samhällsomfattande posttjänsten
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Ändring av kravet på befordringstid i den samhällsomfattande posttjänsten.
 

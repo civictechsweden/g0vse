@@ -18,9 +18,9 @@ Att det är just Nederländerna som har EU-ordförandeskapet från januari till 
 
 - Därmed öppnades ett fönster för oss att driva frågorna tillsammans med Nederländerna och andra likasinnade. Det vi har gjort är att formulera om frågorna så att det passar in i ett utvecklingsperspektiv och på så vis kunna få in dem i de rådsslutsatser som antogs 12 maj.
 
-Slutsatserna syftar till att öka medvetenheten om ansvarsfulla och hållbara leverenskedjor, särskilt vid handel med utvecklingsländerna. Att EU uppmanar till hållbart företagande är med andra ord en viktig del i EU:s utvecklingspolitik mot omvärlden. Slutsatserna visar också att ansvarsfrågorna har bäring på Agenda 2030 - de globala utvecklingssmålen som syftar till att utrota fattigdom och förverkliga de mänskliga rättigheterna för alla.
+Slutsatserna syftar till att öka medvetenheten om ansvarsfulla och hållbara leverenskedjor, särskilt vid handel med utvecklingsländerna. Att EU uppmanar till hållbart företagande är med andra ord en viktig del i EU:s utvecklingspolitik mot omvärlden. Slutsatserna visar också att ansvarsfrågorna har bäring på Agenda 2030 - de globala utvecklingssmålen som syftar till att utrota fattigdom och förverkliga de mänskliga rättigheterna för alla.
 
-Ansvarsfrågornas koppling till Agenda 2030 kommer också att prägla Ulrika Lyckmans arbete med företagens sociala ansvar den närmaste tiden.
+Ansvarsfrågornas koppling till Agenda 2030 kommer också att prägla Ulrika Lyckmans arbete med företagens sociala ansvar den närmaste tiden.
 
 - Hållbarhetsfrågorna är viktiga för mig. Där tror jag att vi alla kan göra skillnad genom att engagera oss, säger Ulrika Lyckman som tidigare bland annat varit utrikeschef och enhetschef för ansvarsfullt företagande på branchorganisationen Svensk Handel .
 

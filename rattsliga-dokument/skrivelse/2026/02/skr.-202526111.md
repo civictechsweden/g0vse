@@ -1,4 +1,4 @@
-# Riksrevisionens rapport om statens insatser vid hantering av dödsbon – utredning, förvaltning och skifteSkr. 2025/26:111
+# Riksrevisionens rapport om statens insatser vid hantering av dödsbon – utredning, förvaltning och skifte
 
 I skrivelsen redovisar regeringen sin bedömning av iakttagelser och rekommendationer
 som Riksrevisionen har gjort i rapporten Statens insatser vid hantering av dödsbon – utredning, förvaltning och skifte (RiR 2025:23).

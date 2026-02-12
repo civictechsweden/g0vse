@@ -1,6 +1,6 @@
 # Strategi för Sveriges globala utvecklingssamarbete inom hållbar social utveckling 2018–2022
 
-![](/contentassets/d53e143eb3e7442087a08a302f2ca8e0/hsu-slutversion-sve-framsida-1.jpg?width=150&quality=85)
+![](/contentassets/d53e143eb3e7442087a08a302f2ca8e0/hsu-slutversion-sve-framsida-1.jpg?width=150&amp;quality=85)
 
 Målet för svenskt internationellt bistånd är att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck.
 

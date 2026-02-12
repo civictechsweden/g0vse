@@ -1,4 +1,4 @@
-# Kriminalvårdens skolverksamhet för barn och ungaU2025/02404
+# Kriminalvårdens skolverksamhet för barn och unga
 
 I lagrådsremissen Frihetsberövande påföljder för barn och unga föreslås att barn och unga, i de fall en frihetsberövande påföljd inte kan undvikas, ska dömas till fängelse i stället för sluten ungdomsvård. Utredaren har haft i uppdrag att ta fram förslag på nödvändiga författningsändringar för att barn och unga som döms till fängelse ska kunna tillgodoses sin rätt till utbildning samtidigt som Kriminalvården får förutsättningar att bedriva en ändamålsenlig skolverksamhet (Ju 2025:B).
 

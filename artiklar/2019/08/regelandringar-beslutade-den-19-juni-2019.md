@@ -14,7 +14,7 @@ Genom EU:s avfallstransportförordning begränsas och regleras gränsöverskrida
 
 **Referenser:**
 
-* Europaparlamentets och rådets förordning (EG) nr 1013/2006 av den 14 juni 2006 om transport av avfall
+* Europaparlamentets och rådets förordning (EG) nr 1013/2006 av den 14 juni 2006 om transport av avfall
 * regeringens proposition Ändamålsenliga sanktioner mot otillåtna avfallstransporter (prop. 2018/19:79)
 * miljö- och jordbruksutskottets betänkande 2018/19:MJU16 Ändamålsenliga sanktioner mot otillåtna avfallstransporter
 * riksdagsskrivelse 2018/19:254

@@ -5,12 +5,12 @@ Regeringen ger Statens energimyndighet (Energimyndigheten) i uppdrag att ta fram
 I uppdraget ingår att Energimyndigheten ska genomföra följande:
 
 1. Beräkna de nya årliga ackumulerade energibesparingar i
-   slutanvändningsledet som följer av energi- och koldioxidskatten och hur de bidrar till besparingskraven i artikel 8.1b). Beräkningarna ska utgå från relevanta delar i bilaga V och ta hänsyn till artikel 8.5 och 8.14.
-2. Föreslå en eller flera metoder för att beräkna de nya årliga ackumulerade energibesparingarna i slutanvändningsledet som minst motsvarar besparingskraven i artikel 8.1b). Energibesparingarna ska omfatta alla energibärare och följa av befintliga styrmedel. Metoden/metoderna ska utformas så att det inte ges utrymme för dubbelräkning av energibesparingarna.
+slutanvändningsledet som följer av energi- och koldioxidskatten och hur de bidrar till besparingskraven i artikel 8.1b). Beräkningarna ska utgå från relevanta delar i bilaga V och ta hänsyn till artikel 8.5 och 8.14.
+2. Föreslå en eller flera metoder för att beräkna de nya årliga ackumulerade energibesparingarna i slutanvändningsledet som minst motsvarar besparingskraven i artikel 8.1b). Energibesparingarna ska omfatta alla energibärare och följa av befintliga styrmedel. Metoden/metoderna ska utformas så att det inte ges utrymme för dubbelräkning av energibesparingarna.
 3. Utifrån de metoder som föreslås enligt punkt 2, beräkna de nya årliga
-   ackumulerade energibesparingarna i slutanvändningsledet som minst
-   motsvarar besparingskraven i artikel 8.1b). Energibesparingarna ska
-   omfatta alla energislag och följa av befintliga styrmedel. Beräkningarna ska utgå från relevanta delar i bilaga V och ta hänsyn till artikel 8.5 och 8.14.
+ackumulerade energibesparingarna i slutanvändningsledet som minst
+motsvarar besparingskraven i artikel 8.1b). Energibesparingarna ska
+omfatta alla energislag och följa av befintliga styrmedel. Beräkningarna ska utgå från relevanta delar i bilaga V och ta hänsyn till artikel 8.5 och 8.14.
 4. Om befintliga styrmedel inte uppfyller det årliga nationella energisparkravet, ska förslag lämnas på eventuella kompletterande samhällsekonomiskt kostnadseffektiva åtgärder som kan behövas för att det årliga nationella energibesparingskravet ska uppnås. Sådana kompletterande åtgärder ska inte omfatta förslag på skatteområdet. Förslagen bör i första hand utgå från de analyser som gjorts inom ramen för uppdraget att analysera en effektivare användning av energi, effekt och resurser för att underlägga elektrifieringen (I2022/01393). Redovisningen ska innehålla de ekonomiska och övriga konsekvenserna, exempelvis samhällsekonomiska konsekvenser, som förslagen kan medföra.
 5. Analysera huruvida Sverige bör tillämpa hela eller delar av artiklarna 8.6 och 8.8.
 6. Analysera och lämna förslag på hur begreppet energifattigdom enligt artikel 2.52 kan mätas och följas upp. Förslaget ska beakta indikatorerna i artikel 8.3a-d och EU-kommissionens rekommendationer (EU) 2020/1563 av den 20 oktober 2023 och (EU) 2023/2407 av den 14 oktober 2020 om energifattigdom. I analysen ingår att sätta begreppet energifattigdom i relation till begreppet utsatta kunder som finns i artikel 28 i Europaparlamentets och rådets direktiv (EU) 2019/944 av den 5 juni 2019 om gemensamma regler för den inre marknaden för el och om ändring av direktiv 2012/27/EU.

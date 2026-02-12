@@ -23,5 +23,3 @@ Ytterligare en förändring rör situationen för utländska forskare och doktor
 Mycket av migrationsdebatten har under de senaste åren präglats av ett fokus på asylrelaterade frågor. Men att Sverige lyckas attrahera och behålla expertis och topptalanger, är framför allt en tillväxtfråga.
 
 Jag har höga ambitioner för den högkvalificerade arbetskraftsinvandringen. Sverige ska vara det självklara valet för internationell spetskompetens.
-
-Johan Forssell, migrationsminister

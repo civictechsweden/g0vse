@@ -5,11 +5,11 @@ En särskild utredare ska analysera EU-direktiven om gemensamma regler för att 
 Utredaren ska bland annat
 
 * analysera de nya EU-direktiven och ta ställning till hur de bör
-  genomföras i svensk rätt,
+genomföras i svensk rätt,
 * föreslå vilken eller vilka myndigheter som bör ansvara för att upprätta
-  ett nationellt avsnitt i den europeiska onlineplattformen, alternativt en
-  nationell plattform, enligt direktivet om gemensamma regler för att
-  främja reparation av varor, och
+ett nationellt avsnitt i den europeiska onlineplattformen, alternativt en
+nationell plattform, enligt direktivet om gemensamma regler för att
+främja reparation av varor, och
 * lämna nödvändiga författningsförslag.
 
 Uppdraget ska redovisas senast den 15 december 2025.

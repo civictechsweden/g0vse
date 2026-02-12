@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att lämna förslag på ytterligare åtgärder för att korta vårdköernaDiarienummer:  S2025/01757
+# Uppdrag till Socialstyrelsen att lämna förslag på ytterligare åtgärder för att korta vårdköerna
 
 Regeringen uppdrar åt Socialstyrelsen att föreslå ytterligare vårdområden eller åtgärder som ska ingå i regeringens satsning för att korta vårdköerna genom att öka produktionen inom utvalda områden under 2026.
 

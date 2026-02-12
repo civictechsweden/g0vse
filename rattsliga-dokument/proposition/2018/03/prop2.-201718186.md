@@ -8,7 +8,7 @@ Genom att barnkonventionen ges ställning som svensk lag, i kombination med stö
 
 En inkorporering innebär att barnets roll som rättssubjekt med egna specifika rättigheter tydliggörs och kan därmed förväntas medverka till att barnet i högre grad hamnar i fokus i de situationer som gäller barnet.
 
-### Åtgärder ska främja genomslaget för barnets rättigheter
+### Åtgärder ska främja genomslaget för barnets rättigheter
 
 Förutom inkorporeringen krävs fortsatt transformering av barnkonventionens bestämmelser i nationell rätt. Dessutom krävs en kombination av åtgärder: vägledning, utbildning och samordning mellan olika aktörer på olika nivåer i samhället.
 
@@ -20,6 +20,6 @@ En vägledning som kan stödja hur man metodmässigt kan tolka och tillämpa bar
 
 Regeringen redogör för behovet av fortsatt och systematiskt transformeringsarbete. Detta för att barnkonventionen ska ge fortsatt avtryck i lagstiftningen och synliggöras i förarbeten till lagstiftning där konventionen kan vara relevant.
 
-Regeringen har beslutat ge en särskild utredare i uppdrag att  kartlägga och belysa hur svensk lagstiftning och praxis överensstämmer med barnkonventionen. Målet med kartläggningen är att stödja det fortsatta arbetet med transformeringen av barnkonventionens bestämmelser i olika rättsområden.
+Regeringen har beslutat ge en särskild utredare i uppdrag att kartlägga och belysa hur svensk lagstiftning och praxis överensstämmer med barnkonventionen. Målet med kartläggningen är att stödja det fortsatta arbetet med transformeringen av barnkonventionens bestämmelser i olika rättsområden.
 
 Lagen föreslås träda i kraft den 1 januari 2020.

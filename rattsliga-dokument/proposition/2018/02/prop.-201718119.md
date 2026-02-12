@@ -8,4 +8,4 @@ Regeringen föreslår ändringar i lagen (1994:137) om mottagande av asylsökand
 
 Lagändringarna föreslås träda i kraft den 1 juni 2018.
 
-[Pressmeddelande: Jämnare fördelning av ensamkommande barn mellan kommunerna](/pressmeddelanden/2018/02/jamnare-fordelning-av-ensamkommande-barn-mellan-kommunerna/)
+[Pressmeddelande: Jämnare fördelning av ensamkommande barn mellan kommunerna](/pressmeddelanden/2018/02/jamnare-fordelning-av-ensamkommande-barn-mellan-kommunerna/)

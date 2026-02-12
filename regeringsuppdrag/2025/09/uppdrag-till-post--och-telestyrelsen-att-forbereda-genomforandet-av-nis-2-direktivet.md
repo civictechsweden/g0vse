@@ -1,4 +1,4 @@
-# Uppdrag till Post- och telestyrelsen att förbereda genomförandet av NIS 2-direktivetDiarienummer: Fi2025/01676
+# Uppdrag till Post- och telestyrelsen att förbereda genomförandet av NIS 2-direktivet
 
 Regeringen ger Post- och telestyrelsen (PTS) i uppdrag att förbereda genomförandet av Europaparlamentets och rådets direktiv (EU) 2022/2555 av den 14 december 2022 om åtgärder för en hög gemensam cybersäkerhetsnivå i hela unionen, om ändring av förordning (EU) nr 910/2014 och direktiv (EU) 2018/1972 och om upphävande av direktiv (EU) 2016/1148 (NIS 2-direktivet).
 

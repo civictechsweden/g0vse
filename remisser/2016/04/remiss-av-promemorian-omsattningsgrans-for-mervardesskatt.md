@@ -6,4 +6,6 @@ I denna promemoria föreslås att en omsättningsgräns för mervärdesskatt inf
 
 Förslaget föranleder ändringar i mervärdesskattelagen (1994:200), förkortad ML. Lagändringarna föreslås träda i kraft den 1 januari 2017.
 
+
+
 Remissvaren ska ha kommit in till Finansdepartementet senast fredagen den 13 maj 2016 kl. 12.00.

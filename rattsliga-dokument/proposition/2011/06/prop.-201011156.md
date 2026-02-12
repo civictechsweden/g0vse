@@ -4,6 +4,6 @@ I propositionen föreslås en ändring i lagen om kommunalekonomisk utjämning o
 
 Lagförslagen föreslås träda i kraft den 1 januari 2012.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_________________________________________________________
 
 Riksdagen fattade den 12 oktober 2011 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

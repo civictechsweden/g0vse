@@ -1,8 +1,8 @@
 # Förebygg asylinvandring med bistånd
 
-Debattartikel av bistånds- och utrikeshandelsminister Benjamin Dousa och migrationsminister Johan Forssell, Dagens industri, 25 oktober 2024.
+Bistånds- och utrikeshandelsminister Benjamin Dousa och migrationsminister Johan Forssell, debattartikel, Dagens industri, 25 oktober 2024.
 
-Miljontals människor är på flykt. Den moderatledda regeringens reformagenda för biståndet kommer öka hjälpen i närområdet vilket också på lång sikt kan minska den irreguljära migrationen till Sverige och EU. Nu presenterar regeringen en ny strategi på tre miljarder kronor. Det är en överenskommelse mellan regeringen och SD. Det är den hittills största satsningen för att koppla ihop migration och utvecklingspolitik. Det skriver migrationsminister Johan Forssell (M) och bistånds- och utrikeshandelsminister Benjamin Dousa (M).
+Miljontals människor är på flykt. Den moderatledda regeringens reformagenda för biståndet kommer öka hjälpen i närområdet vilket också på lång sikt kan minska den irreguljära migrationen till Sverige och EU. Nu presenterar regeringen en ny strategi på tre miljarder kronor. Det är en överenskommelse mellan regeringen och SD. Det är den hittills största satsningen för att koppla ihop migration och utvecklingspolitik. Det skriver migrationsminister Johan Forssell och bistånds- och utrikeshandelsminister Benjamin Dousa.
 
 Närmare 120 miljoner människor är på flykt enligt FN:s flyktingorgan UNHCR. Majoriteten är så kallade internflyktingar, vilket betyder att de fortfarande befinner sig i sina hemländer. Av de som har lämnat sina hemländer befinner sig sju av tio i det direkta närområdet. De globala behoven är således enorma och flera länder, inte minst i Afrika, tar ett stort ansvar för mottagandet av miljontals fördrivna människor.
 
@@ -21,7 +21,3 @@ Den moderatledda regeringen har varit ambitiös och reformerat den svenska bist�
 En annan viktig roll som det svenska biståndet numera har är att skapa tillväxt och framtidstro i ursprungsländerna. Många som söker sig till Sverige och EU gör så av rent ekonomiska skäl. Genom ett större fokus på tillväxt för att bekämpa fattigdom kan vi också på längre sikt minska den irreguljära migrationen. Som ledande inom den gröna omställningen har Sverige en unik möjlighet att investera i afrikanska länder vilket både skapar arbetstillfällen och addresserar klimatförändringarnas effekter såväl lokalt som globalt. Den moderatledda regeringen har därför också stärkt synerigerna mellan migration, bistånd och utrikeshandel.
 
 Ett mer målinriktat utvecklingsbistånd och ökad hjälp i närområdena kommer både minska invandringen till Sverige och Europa samtidigt som fler av världens mest utsatta människor får hjälp och en bättre vardag. Så minskar vi invandringen samtidigt som vi tar ett globalt ansvar för världens fördrivna människor.
-
-Benjamin Dousa, bistånds- och utrikeshandelsminister
-
-Johan Forssell, migrationsminister

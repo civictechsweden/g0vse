@@ -1,4 +1,4 @@
-# Utvidgade möjligheter att meddela näringsförbud på grund av brottProp. 2024/25:201
+# Utvidgade möjligheter att meddela näringsförbud på grund av brott
 
 I propositionen föreslås att bestämmelserna om näringsförbud på grund av brott utvidgas till att omfatta den som har gjort sig skyldig till organiserad eller systematisk brottslighet, oavsett om personen bedrev eller hade anknytning till näringsverksamhet vid brottstillfället, om näringsförbud är påkallat från allmän synpunkt.
 

@@ -33,7 +33,7 @@ Svenskt medborgarskap är ett krav för befattningen och en registerkontroll kom
 
 ## Ansökan
 
-Ansökan med styrkt meritförteckning och övriga handlingar som den sökande önskar åberopa ska senast 24 juni 2018 ha inkommit till Sveriges EU-representation i Bryssel, Square de Meeûs 30, 1000 Bryssel, Belgien eller via e-post till [representationen.bryssel-ansokan@gov.se](mailto:representationen.bryssel-ansokan@gov.se).
+Ansökan med styrkt meritförteckning och övriga handlingar som den sökande önskar åberopa ska senast 24 juni 2018 ha inkommit till Sveriges EU-representation i Bryssel, Square de Meeûs 30, 1000 Bryssel, Belgien eller via e-post till <representationen.bryssel-ansokan@gov.se>.
 
 Märk ansökan med diarienummer **UM2018/21636/BRYR**.
 

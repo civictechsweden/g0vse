@@ -10,11 +10,11 @@ Patienter som vårdas med tvång befinner sig i en särskilt utsatt ställning. 
 
 I lagrådsremissen lämnar regeringen förslag som bland annat ska skapa bättre förutsättningar för patienter att vara delaktiga i sådan vård som ges med stöd av lagen om psykiatrisk tvångsvård och lagen om rättspsykiatrisk vård. Förslagen innebär ändringar av dessa lagar.
 
-För den öppna tvångsvården föreslår regeringen att det i lagen om psykiatrisk tvångsvård ska införas en bestämmelse om att en samordnad vårdplan så långt möjligt ska utformas i samråd med patienten och, om det inte är olämpligt, med dennes närstående. Bestämmelsen om samråd ska även gälla vid vård enligt lagen om rättspsykiatrisk vård.
+För den öppna tvångsvården föreslår regeringen att det i lagen om psykiatrisk tvångsvård ska införas en bestämmelse om att en samordnad vårdplan så långt möjligt ska utformas i samråd med patienten och, om det inte är olämpligt, med dennes närstående. Bestämmelsen om samråd ska även gälla vid vård enligt lagen om rättspsykiatrisk vård.
 
 ## Redovisning av patientens inställning
 
-I den öppna tvångsvården föreslår regeringen att det i lagen om psykiatrisk tvångsvård och i lagen om rättspsykiatrisk vård införs bestämmelser som innebär att patientens inställning till insatser så långt möjligt ska redovisas i samband med ansökningar om öppen psykiatrisk tvångsvård och ansökningar eller anmälningar om öppen rättspsykiatrisk vård. Uppgifterna anges i en samordnad vårdplan och i de särskilda villkor som patienten behöver iaktta för att kunna ges nödvändig öppen psykiatrisk tvångsvård.
+I den öppna tvångsvården föreslår regeringen att det i lagen om psykiatrisk tvångsvård och i lagen om rättspsykiatrisk vård införs bestämmelser som innebär att patientens inställning till insatser så långt möjligt ska redovisas i samband med ansökningar om öppen psykiatrisk tvångsvård och ansökningar eller anmälningar om öppen rättspsykiatrisk vård. Uppgifterna anges i en samordnad vårdplan och i de särskilda villkor som patienten behöver iaktta för att kunna ges nödvändig öppen psykiatrisk tvångsvård.
 
 ## Uppföljningssamtal efter tvångsåtgärd
 

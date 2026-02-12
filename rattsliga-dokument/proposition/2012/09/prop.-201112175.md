@@ -6,6 +6,6 @@ I lagförslaget anges att Finansinspektionen är behörig myndighet enligt föro
 av förordningen.
 
 I propositionen föreslås vidare en ändring i offentlighets- och sekretesslagen (2009:400) för att sekretesskydda uppgifter om enskilds ekonomiska eller personliga förhållanden som Finansinspektionen får i sin övervakning och kontroll enligt den nya lagen. Den nya lagen och ändringen i offentlighets- och sekretesslagen föreslås träda i kraft den 1 januari 2013.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+___________________________________________________________
 
 Riksdagen fattade den 7 november 2012 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

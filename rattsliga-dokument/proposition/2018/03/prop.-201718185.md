@@ -15,4 +15,4 @@ Flera av förslagen omfattar även bostadsrättsföreningar, kooperativa hyresr�
 
 De nya reglerna föreslås träda i kraft den 1 juli 2018.
 
-[Pressmeddelande: Bättre förutsättningar för kooperativt företagande](/pressmeddelanden/2018/03/battre-forutsattningar-for-kooperativt-foretagande/ "Pressmeddelande: Bättre förutsättningar för kooperativt företagande")
+[Pressmeddelande: Bättre förutsättningar för kooperativt företagande](/pressmeddelanden/2018/03/battre-forutsattningar-for-kooperativt-foretagande/ "Pressmeddelande:&nbsp;Bättre förutsättningar för kooperativt företagande")

@@ -17,4 +17,4 @@ Skyddet för företagshemligheter får inte leda till att arbetstagare känner s
 
 Den nya lagen och lagändringarna föreslås träda i kraft den 1 juli 2018.
 
-[Pressmeddelande: Stärkt skydd för företagshemligheter](/pressmeddelanden/2018/03/starkt-skydd-for-foretagshemligheter/)
+[Pressmeddelande: Stärkt skydd för företagshemligheter](/pressmeddelanden/2018/03/starkt-skydd-for-foretagshemligheter/)

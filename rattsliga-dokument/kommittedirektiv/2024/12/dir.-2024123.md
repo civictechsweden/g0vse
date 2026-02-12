@@ -11,11 +11,11 @@ Utredaren ska bland annat:
 
 * analysera direktivet,
 * bedöma i vilken uträckning svensk rätt uppfyller de krav som direktivet
-  ställer,
+ställer,
 * ta ställning till vilken eller vilka myndigheter som bör få i uppgift att vara
-  tillsynsmyndighet,
+tillsynsmyndighet,
 * bedöma vilka författningsändringar och andra åtgärder som behövs för
-  att genomföra direktivet i svensk rätt, och
+att genomföra direktivet i svensk rätt, och
 * lämna nödvändiga författningsförslag.
 
 Uppdraget ska redovisas senast den 16 december 2025.

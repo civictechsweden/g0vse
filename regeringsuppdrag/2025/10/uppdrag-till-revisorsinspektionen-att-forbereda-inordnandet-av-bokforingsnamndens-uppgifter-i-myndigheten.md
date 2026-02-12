@@ -1,4 +1,4 @@
-# Uppdrag till Revisorsinspektionen att förbereda inordnandet av Bokföringsnämndens uppgifter i myndighetenDiarienummer: Fi2025/01941
+# Uppdrag till Revisorsinspektionen att förbereda inordnandet av Bokföringsnämndens uppgifter i myndigheten
 
 Regeringen ger Revisorsinspektionen i uppdrag att förbereda inordnandet av Bokföringsnämndens uppgifter i myndigheten den 1 januari 2027.
 

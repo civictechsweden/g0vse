@@ -10,7 +10,7 @@ Som kulturminister har jag ansvar för samiska språk och kultur. Med min bakgru
 
 Samiskan vinner mark i de unga generationerna, och samisk kultur och identitet, den samiska levda erfarenheten, får en allt större plats i det svenska kultur- och samhällslivet. Fler får upp ögonen för att den samiska kulturen är en del av den svenska kulturen.
 
-I förra veckan nåddes jag av nyheten att Mittuniversitetet startar en helt ny språkutbildning i sydsamiska, och nästa års bokmässa i Göteborg kommer att ha Sápmi som tema.  Arrangörerna utlovar många spännande frågor om samisk kultur och mångfalden inom samisk litteratur, inklusive muntlig och skriftlig tradition.
+I förra veckan nåddes jag av nyheten att Mittuniversitetet startar en helt ny språkutbildning i sydsamiska, och nästa års bokmässa i Göteborg kommer att ha Sápmi som tema. Arrangörerna utlovar många spännande frågor om samisk kultur och mångfalden inom samisk litteratur, inklusive muntlig och skriftlig tradition.
 
 En av höjdpunkterna under mitt första år som minister var förstås Jokkmokks marknad, med många starka möten som jag kommer att bära med mig länge. En annan, när jag tidigare i år fick dela ut det nordiska samiska språkpriset Gollegiella till professor emeritus Ole Henrik Magga. Genom sin livsgärning har han visat samerna och omvärlden att samiskan är ett betydelsefullt och levande språk.
 

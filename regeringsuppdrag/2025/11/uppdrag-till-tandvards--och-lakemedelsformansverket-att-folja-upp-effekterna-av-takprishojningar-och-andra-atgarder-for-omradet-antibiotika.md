@@ -1,4 +1,4 @@
-# Uppdrag till Tandvårds- och läkemedelsförmånsverket att följa upp effekterna av takprishöjningar och andra åtgärder för området antibiotikaDiarienummer:  S2025/01939
+# Uppdrag till Tandvårds- och läkemedelsförmånsverket att följa upp effekterna av takprishöjningar och andra åtgärder för området antibiotika
 
 Regeringen uppdrar åt Tandvårds- och läkemedelsförmånsverket, TLV, att följa upp effekterna inom antibiotikaområdet av de takprisändringar som genomfördes 2023, med utgångspunkt i de analyser som gjordes i regeringsuppdrag S2023/02105 samt S2021/06172.
 

@@ -8,7 +8,7 @@ Det talade ordet gäller.
 
 Välkomna!
 
-\*\*\*
+***
 
 Roligt att se så många här. Folkrättsdagen är mer angelägen än någonsin.
 
@@ -22,7 +22,7 @@ Det är tre grundsatser av avgörande betydelse, särskilt i tider när det finn
 
 Att konsekvent stå upp för folkrätten är därför långsiktig säkerhetspolitik. En investering både för ett säkert närområde och för en säker värld.
 
-\*\*\*
+***
 
 Stödet till Ukraina är vår främsta utrikespolitiska uppgift.
 
@@ -33,10 +33,12 @@ Det handlar inte bara om att vi investerar i vår egen säkerhet när vi stödje
 Arbetet med att säkerställa ansvarsutkrävande för Rysslands agerande mot och i Ukraina är omfattande. Jag vill ge tre exempel på hur Sverige bidrar.
 
 1. Vi har intervenerat i målet Ukraina mot Ryssland i Internationella domstolen (ICJ) om folkmordskonventionen. Sverige har en restriktiv linje när det gäller interventioner och detta är första gången som vi väljer att intervenera i ett mål i ICJ.
+
 2. Vi är en av initiativtagarna till upprättandet av skaderegistret för Ukraina, som syftar till att registrera skadeståndsanspråk och bevis kopplade till skador som orsakats till följd av Rysslands aggression. Nu fortsätter arbetet med att upprätta en kommission som ska pröva anspråken.
+
 3. Vi har varit med och drivit på för upprättandet av en tribunal för att utkräva ansvar för aggressionsbrottet mot Ukraina. Den 9 maj kunde vi, på plats i Ukraina, nå en politisk överenskommelse om tribunalens utformning. Detta är historiskt. Internationellt ansvarsutkrävande för aggressionsbrott har inte skett sedan Nürnberg- och Tokyo-rättegångarna efter andra världskriget.
 
-\*\*\*
+***
 
 Temat för den här dagen är folkrätten i närområdet, men jag vill ändå säga några ord om hur vi också står upp för folkrätten globalt.
 
@@ -56,13 +58,13 @@ Vi är också fortsatt mycket tydliga med kravet att Hamas omedelbart och villko
 
 Vad som behövs är en vapenvila och slut på stridigheterna.
 
-\*\*\*
+***
 
 Att överenskommelser följs ger förutsebarhet – vilket är en förutsättning för en stabil, rättvis och ekonomiskt välmående värld. Folkrätten handlar förstås inte enbart om krig och fred. Vi är beroende av internationellt samarbete och regler på en lång rad områden. Internationell handel, klimatavtal och havsrätt för att nämna några exempel.
 
 Sveriges stöd till de internationella domstolarna är orubbligt. Vi respekterar fullt ut deras oberoende. Den internationella brottmålsdomstolen ICC står för närvarande inför hot och attacker. Arresteringsorder har utfärdats mot flera av domstolens medarbetare av ryska myndigheter, vilket är oacceptabelt. Vi är även djupt oroade över de amerikanska sanktionerna mot domstolen och diskuterar inom EU vad vi kan göra för att hantera dessa.
 
-\*\*\*
+***
 
 Folkrätten omfattar även staters skyldigheter att garantera alla människors åtnjutande av de mänskliga rättigheterna. Det är en förutsättning för fred och säkerhet, och för hållbar utveckling. Rysslands fullskaliga invasion av Ukraina visar på ett alltför tydligt sätt kopplingen mellan intern repression och extern aggression.
 
@@ -74,7 +76,7 @@ Och vi ser det i de ökande attackerna mot oberoende medier, oberoende rättsvä
 
 I en tid då de mänskliga rättigheterna utmanas på många fronter är det viktigare än någonsin att samarbeta för att försvara dem. Ett exempel är FN:s allmänna ländergranskning, Universal Periodic Review, i vilken alla FN:s medlemsländer deltar. I början av maj var det åter dags för situationen för mänskliga rättigheter i Sverige att granskas genom detta viktiga verktyg.
 
-\*\*\*
+***
 
 Folkrätten kan inte ensamt förebygga konflikter. Men den ger ett ramverk för fredlig konfliktlösning, ansvarsutkrävande och gottgörelse.
 

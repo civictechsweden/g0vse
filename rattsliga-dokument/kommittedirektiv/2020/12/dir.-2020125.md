@@ -8,7 +8,7 @@ Utredaren ska bl.a.
 * föreslå vilka hushåll som ska definieras som förstagångsköpare,
 * föreslå hur ett statligt startlån för förstagångsköpare bör utformas,
 * redogöra för hur de föreslagna åtgärderna ska främja en långsiktigt
-  hållbar skuldsättning för de berörda hushållen,
+hållbar skuldsättning för de berörda hushållen,
 * ta hänsyn till de effekter som de föreslagna åtgärderna kan innebära för bostadsmarknadens funktionssätt,
 * analysera internationella erfarenheter av liknande åtgärder,
 * kartlägga bankernas och andra kreditgivares villkor för förstagångsköpare av olika hushållstyper i olika delar av landet, och

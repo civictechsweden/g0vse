@@ -6,8 +6,8 @@ En utgångspunkt för förslaget ska vara regeringens nuvarande arbetsmiljöstra
 
 Utredaren ska bl.a.
 
-* analysera genomslaget för den nu gällande arbetsmiljöstrategin med dess fyra delmål och bedöma om delmålen är ändamålsenligt utformade,
-* med utgångspunkt i analysen och bedömningen, lämna förslag om en arbetsmiljöstrategi för 2026–2030 och om vilka delmål som bör gälla för strategin, och
-* lämna förslag om fortsatta åtgärder 2026–2030 som långsiktigt kan bidra till delmålens genomslag.
+* analysera genomslaget för den nu gällande arbetsmiljöstrategin med dess fyra delmål och bedöma om delmålen är ändamålsenligt utformade,
+* med utgångspunkt i analysen och bedömningen, lämna förslag om en arbetsmiljöstrategi för 2026–2030 och om vilka delmål som bör gälla för strategin, och
+* lämna förslag om fortsatta åtgärder 2026–2030 som långsiktigt kan bidra till delmålens genomslag.
 
 Uppdraget ska redovisas senast den 11 juni 2025.

@@ -1,4 +1,4 @@
-# Ändamålsenliga säkerhets- och strålskyddskrav för utvinning och anrikning av kärnämnenKN2025/01478
+# Ändamålsenliga säkerhets- och strålskyddskrav för utvinning och anrikning av kärnämnen
 
 I denna promemoria föreslås vissa ändringar av vad som avses med en kärnteknisk anläggning och kärnteknisk verksamhet i lagen (1984:3) om kärnteknisk verksamhet, lagen om (2006:647) om finansiering av kärntekniska restprodukter och lagen (2010:950) om ansvar och ersättning vid radiologiska olyckor.
 

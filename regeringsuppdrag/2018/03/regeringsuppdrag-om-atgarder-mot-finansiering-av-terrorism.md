@@ -1,6 +1,6 @@
 # Regeringsuppdrag om åtgärder mot finansiering av terrorism
 
-Regeringen uppdrar åt Säkerhetspolisen, Polismyndigheten, Åklagarmyndigheten, Ekobrottsmyndigheten, Tullverket, Skatteverket, Försäkringskassan, Centrala studiestödsnämnden och Arbetsförmedlingen att redogöra för tillämpningen av den nuvarande lagstiftningen kring finansiering av terrorism, i den del det rör myndigheternas arbete för att säkerställa att undandragna skattemedel inte används för finansiering av terrorism, samt analysera behovet av ytterligare åtgärder för att säkerställa hög effektivitet. Redovisningen ska särskilt inkludera följande.
+Regeringen uppdrar åt Säkerhetspolisen, Polismyndigheten, Åklagarmyndigheten, Ekobrottsmyndigheten, Tullverket, Skatteverket, Försäkringskassan, Centrala studiestödsnämnden och Arbetsförmedlingen att redogöra för tillämpningen av den nuvarande lagstiftningen kring finansiering av terrorism, i den del det rör myndigheternas arbete för att säkerställa att undandragna skattemedel inte används för finansiering av terrorism, samt analysera behovet av ytterligare åtgärder för att säkerställa hög effektivitet. Redovisningen ska särskilt inkludera följande.
 
 1. En beskrivning av hur myndigheterna var för sig och i samverkan arbetar inom det aktuella området.
 2. En redogörelse för eventuella förslag till åtgärder som kan bidra till en ökad effektivitet i arbetet.

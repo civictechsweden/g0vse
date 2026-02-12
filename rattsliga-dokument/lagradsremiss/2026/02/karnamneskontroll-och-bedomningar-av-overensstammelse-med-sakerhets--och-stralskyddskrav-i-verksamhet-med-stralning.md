@@ -1,4 +1,4 @@
-# Kärnämneskontroll och bedömningar av överensstämmelse med säkerhets- och strålskyddskrav i verksamhet med strålningKN2026/00247
+# Kärnämneskontroll och bedömningar av överensstämmelse med säkerhets- och strålskyddskrav i verksamhet med strålning
 
 I lagrådsremissen föreslås ändringar i lagen (1984:3) om kärnteknisk verksamhet och strålskyddslagen (2018:396) som innebär att den befintliga skyldigheten att utföra bedömningar av överensstämmelse med säkerhets- och strålskyddskrav i kärnteknisk verksamhet eller annan verksamhet med joniserande eller icke-joniserande strålning regleras i lag.
 

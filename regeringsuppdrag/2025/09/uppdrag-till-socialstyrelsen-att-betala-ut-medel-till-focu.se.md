@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att betala ut medel till FOCU.SEDiarienummer:  S2025/01589
+# Uppdrag till Socialstyrelsen att betala ut medel till FOCU.SE
 
 Regeringen uppdrar åt Socialstyrelsen att under 2025 betala ut 44 miljoner kronor till Sahlgrenska sjukhuset i Västra götalandsregionen för FOCU.SE – en nationell studie för jämlik implementering av precisionsmedicin i cancervården. Sahlgrenska sjukhuset ansvarar för att fördela pengarna till övriga parter inom projektet FOCU.SE.
 

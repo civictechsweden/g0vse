@@ -11,13 +11,13 @@ kan minskas,
 
 − ta fram verktyg som motverkar fel, brister och skador vid byggprojekt,
 
-− stödja relevanta offentliga aktörer med närliggande uppdrag i syfte att förebygga fel, brister och skador vid byggprojekt,
+− stödja relevanta offentliga aktörer med närliggande uppdrag i syfte att förebygga fel, brister och skador vid byggprojekt,
 
-− bistå Upphandlingsmyndighetens arbete med att stödja upphandlande organisationer i syfte att förebygga fel, brister och skador vid byggprojekt,
+− bistå Upphandlingsmyndighetens arbete med att stödja upphandlande organisationer i syfte att förebygga fel, brister och skador vid byggprojekt,
 
-− föreslå samhällsekonomiskt effektiva åtgärder i syfte att förebygga fel, brister och skador vid byggprojekt för upphandlande organisationer, och
+− föreslå samhällsekonomiskt effektiva åtgärder i syfte att förebygga fel, brister och skador vid byggprojekt för upphandlande organisationer, och
 
-− kontinuerligt utvärdera åtgärdernas effekt och vid behov föreslå andra åtgärder som kan förebygga fel, brister och skador vid byggprojekt.
+− kontinuerligt utvärdera åtgärdernas effekt och vid behov föreslå andra åtgärder som kan förebygga fel, brister och skador vid byggprojekt.
 
 Uppdraget ska utföras i dialog med berörda branschaktörer, till exempel byggföretag, fackliga organisationer och utbildare.
 

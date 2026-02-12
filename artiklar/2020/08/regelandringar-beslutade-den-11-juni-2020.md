@@ -12,7 +12,7 @@ Förordningen träder i kraft den 1 augusti 2020.
 
 **Referenser:**
 
-– förordning (2020:520) om ändring i förordningen (2003:208) om förbud mot vissa metaller i bilar
+– förordning (2020:520) om ändring i förordningen (2003:208) om förbud mot vissa metaller i bilar
 
 ### Kontaktperson:
 

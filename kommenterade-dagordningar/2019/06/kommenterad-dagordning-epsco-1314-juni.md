@@ -1,6 +1,6 @@
 # Kommenterad dagordning inför Rådets möte (sysselsättning, socialpolitik, hälso- och sjukvård) den 13–14 juni
 
-På EPSCO-rådets möte  den 13-14 juni 2019 finns följande punkter på dagordningen:
+På EPSCO-rådets möte den 13-14 juni 2019 finns följande punkter på dagordningen:
 
 * Likabehandlingsdirektivet
 * Den Europeiska planeringsterminen 2019 – Bidrag till Europeiska rådet (Bryssel 20-21 juni 2019)

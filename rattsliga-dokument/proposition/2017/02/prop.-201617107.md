@@ -3,7 +3,7 @@
 I propositionen föreslås ändringar i lagen (1999:678) om utstationering
 av arbetstagare.
 
-De förslagna ändringarna innebär i huvudsak följande:
+De förslagna ändringarna innebär i huvudsak följande:
 
 * Möjligheterna att uppnå kollektivavtal som reglerar villkoren för utstationerade arbetstagare, ytterst med stöd av stridsåtgärder, ska utvidgas genom att det införs ett system med kollektivavtal med begränsade villkor och verkningar för utstationerade arbetstagare.
 * Bestämmelser som syftar till att öka transparensen och förutsebarheten vid utstationering.

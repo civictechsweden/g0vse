@@ -1,4 +1,4 @@
-# En översyn av straffprocessenDir. 2026:1
+# En översyn av straffprocessen
 
 En särskild utredare ska göra en översyn av straffprocessen, med särskilt fokus på de processuella konsekvenserna av genomförda och pågående straffrättsliga reformer.
 

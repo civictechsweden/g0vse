@@ -9,9 +9,9 @@ Bland nyheterna kan följande nämnas.
 * Antalet obligatoriska uppgifter i stadgarna för en ekonomisk förening minskar.
 * Det blir förbjudet att utse en styrelseledamot som inte avser att delta i verksamheten eller en verkställande direktör som inte avser att utföra sina uppgifter (en så kallad målvakt).
 * Nya likvidationsgrunder införs. Till exempel ska styrelsen låta föreningsstämman pröva likvidationsfrågan, om det råder betydande
-  osäkerhet om föreningens ekonomiska möjligheter att fortsätta sin verksamhet.
+osäkerhet om föreningens ekonomiska möjligheter att fortsätta sin verksamhet.
 * Ett förenklat avvecklingsförfarande införs för ekonomiska föreningar
-  som bland annat saknar skulder.
+som bland annat saknar skulder.
 
 Flera av förslagen omfattar även bostadsrättsföreningar, kooperativa hyresrättsföreningar, ömsesidiga försäkringsbolag och andra kooperativa företagsformer.
 

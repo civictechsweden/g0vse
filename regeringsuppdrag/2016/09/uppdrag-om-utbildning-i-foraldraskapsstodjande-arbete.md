@@ -6,9 +6,9 @@ Regeringen har som mål att alla föräldrar ska erbjudas universellt och riktat
 
 Utbildningen ska erbjudas praktiker, tjänstemän och beslutsfattare i kommuner och landsting, studenter, personer i ideella organisationer och studieförbund som är i behov av fördjupad kunskap och konkreta verktyg för hur ett framgångsrikt föräldraskapsstödjande arbete på lokal och regional nivå kan bedrivas.
 
-Utbildningen ska utgå från aktuell forskning och bästa tillgängliga kunskap.
+Utbildningen ska utgå från aktuell forskning och bästa tillgängliga kunskap.
 
-Den ska fokusera på hur föräldraskapsstöd kan utvecklas och erbjudas föräldrar genom barnets hela uppväxt.
+Den ska fokusera på hur föräldraskapsstöd kan utvecklas och erbjudas föräldrar genom barnets hela uppväxt.
 
 Utbildningen ska genomsyras av ett barnrättsperspektiv och det jämställda föräldraskapet.
 

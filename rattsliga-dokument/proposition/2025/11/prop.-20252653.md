@@ -1,4 +1,4 @@
-# Arbetsprövning med bibehållen sjukpenningProp. 2025/26:53
+# Arbetsprövning med bibehållen sjukpenning
 
 Regeringen föreslår ändringar i socialförsäkringsbalken som ska sänka trösklarna för återgång i arbete.
 

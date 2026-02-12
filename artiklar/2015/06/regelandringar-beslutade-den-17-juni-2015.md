@@ -10,7 +10,7 @@ Havsplaneringsförordningen ska skapa förutsättningar för en samlad havsförv
 
 ### Referenser
 
-* Europaparlamentets och rådets direktiv 2014/89/EU av den 23 juli 2014 om upprättandet av en ram för havsplanering
+* Europaparlamentets och rådets direktiv 2014/89/EU av den 23 juli 2014 om upprättandet av en ram för havsplanering
 * havsplaneringsförordningen
 * förordningen (1998:896) om hushållning med mark- och vattenområden m.m.
 

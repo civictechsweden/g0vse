@@ -1,4 +1,4 @@
-# Promemoria Utökad kontroll av uppgifter i belastningsregistret
+# Utökad kontroll av uppgifter i belastningsregistret
 
 En utredare har fått i uppdrag att biträda Utbildningsdepartementet med att bland annat göra en översyn av vilka brott som bör ingå dels i det utdrag ur belastningsregistret som enligt skollagen ska uppvisas av den som erbjuds en anställning eller på annat sätt ska anlitas eller tas emot inom skolväsendet eller annan pedagogisk verksamhet, dels i den registerkontroll som kan göras av en person som är över 15 år och som är folkbokförd där pedagogisk omsorg ska bedrivas.
 

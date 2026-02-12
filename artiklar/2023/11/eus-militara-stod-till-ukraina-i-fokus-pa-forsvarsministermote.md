@@ -2,7 +2,7 @@
 
 När EU:s försvarsministrar möttes i Bryssel den 14 november var huvudämnet olika aspekter av EU:s militära stöd till Ukraina och hur det kan stärkas. I anslutning till mötet träffades också försvarsministrarna Natos generalsekreterare Jens Stoltenberg. Försvarsminister Pål Jonson företrädde Sverige vid mötet.
 
-– Långsiktiga och konkreta insatser är centralt när det gäller EU:s militära stöd till Ukraina. Sverige arbetar intensivt för att bidra till EU:s ambitiösa mål och vi har nyligen satt igång gemensam upphandling av artilleriammunition värd ca 50 miljoner euro tillsammans med Norge och Danmark. Det är viktigt att fortsätta stärka europeisk försvarsindustris kapacitet, sa försvarsminister Pål Jonson.
+– Långsiktiga och konkreta insatser är centralt när det gäller EU:s militära stöd till Ukraina. Sverige arbetar intensivt för att bidra till EU:s ambitiösa mål och vi har nyligen satt igång gemensam upphandling av artilleriammunition värd ca 50 miljoner euro tillsammans med Norge och Danmark. Det är viktigt att fortsätta stärka europeisk försvarsindustris kapacitet, sa försvarsminister Pål Jonson.
 
 Vid mötet diskuterade ministrarna den senaste utvecklingen i Ukraina och olika insatser från EU:s sida. Detta inbegriper främst det stöd som lämnas genom den europeiska fredsfaciliteten (EPF), EU:s militära stödinsats för Ukraina (EUMAM Ukraina) samt arbetet med att stödja Ukraina med artilleriammunition. Utöver detta diskuterades långsiktiga säkerhetsåtagaden från EU till Ukraina i linje med slutsatserna från Europeiska rådet den 26–27 oktober i år.
 

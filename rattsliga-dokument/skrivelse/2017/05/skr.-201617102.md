@@ -1,6 +1,6 @@
 # Utvecklingen inom den kommunala sektorn
 
-I skrivelsen lämnar regeringen en översiktlig redovisning av utvecklingen av ekonomin i kommunerna och landstingen de senaste åren. Vidare beskrivs utvecklingen av de statliga bidragen till kommunsektorn. En översiktig redovisning görs även av den demografiska utvecklingen 2000–2016 i riket, landstingen och kommunerna.
+I skrivelsen lämnar regeringen en översiktlig redovisning av utvecklingen av ekonomin i kommunerna och landstingen de senaste åren. Vidare beskrivs utvecklingen av de statliga bidragen till kommunsektorn. En översiktig redovisning görs även av den demografiska utvecklingen 2000–2016 i riket, landstingen och kommunerna.
 
 Redovisning av den kommunala ekonomin omfattar i huvudsak
 resultatutvecklingen för kommunerna och landstingen. Vidare redovisas

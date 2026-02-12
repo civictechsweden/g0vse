@@ -4,7 +4,7 @@ Regeringen uppdrar åt E-hälsomyndigheten att analysera den informationshanteri
 
 Journalerna och översikterna innehåller den mest nödvändiga information som – inom ramen för det så kallade patientrörlighetsdirektivet – kan delas i vårdsammanhang.
 
-Analysen ska omfatta den behandling av uppgifter som det är nödvändigt att aktörer vidtar i Sverige samt vilken behandling av uppgifter som är nödvändig när information delas med aktörer i andra europeiska länder.
+Analysen ska omfatta den behandling av uppgifter som det är nödvändigt att aktörer vidtar i Sverige samt vilken behandling av uppgifter som är nödvändig när information delas med aktörer i andra europeiska länder.
 
 ## Underlättat informationsutbyte
 
@@ -12,7 +12,7 @@ E-hälsomyndigheten ska bland annat utgå från insatser som görs på europeisk
 
 Om det är nödvändigt eller lämpligt ska myndigheten lämna författningsförslag eller förslag på andra åtgärder som behövs för att behandla uppgifter som kommer att genomföras inom ramen för patientrörlighetsdirektivet.
 
-Uppdraget genomförs i samverkan med relevanta myndigheter och organisationer på området.
+Uppdraget genomförs i samverkan med relevanta myndigheter och organisationer på området.
 
 Uppdraget redovisas till Regeringskansliet (Socialdepartementet) senast den 30 juni 2020.
 

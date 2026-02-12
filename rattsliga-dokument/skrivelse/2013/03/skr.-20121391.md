@@ -7,6 +7,6 @@ Riksrevisionen anser att Finansinspektionen och Konsumentverket inte har verkat 
 Regeringen delar Riksrevisionens iakttagelse att konsumenten varken får tillräcklig eller rätt anpassad information om sin kollektivavtalade tjänstepension. Regeringen delar dock endast delvis kritiken mot att regeringens prioriteringar inte får genomslag. Regeringen stödjer de övergripande prioriteringar som Finansinspektionen och Konsumentverket har gjort.
 
 Regeringen har höjt Finansinspektionens och Konsumentverkets anslag för 2013, bl.a. för att tillsynen ska kunna stärkas. Regeringen har också i Finansinspektionens, Konsumentverkets och Pensionsmyndighetens respektive regleringsbrev för 2013 infört likalydande återrapporteringskrav som innebär att myndigheterna ska samverka med varandra för ett ökat konsumentskydd på finansmarknaden. Syftet är att uppnå samverkansvinster när det gäller att bevaka att konsumenternas intressen tas till vara på pensionsområdet.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+___________________________________________________________
 
 Riksdagen fattade den 12 juni 2013 beslut om skrivelsen. Läs mer om beslutet via länken i högerspalten.

@@ -6,7 +6,7 @@ Rättelse: I en tidigare version av artikeln stod det att Sveriges landsbygdsmin
 
 ## Situationen på jordbruksmarknaden
 
-Hur coronapandemin har påverkat jordbruksmarknaderna kommer att vara i fokus när EU-kommissionen informerar om utvecklingen. EU:s livsmedelssektor har i stort klarat sig bra under året, med vissa undantag –  vin, fläsk, pommes frites och produkter som främst äts på restaurang.  Ur svenskt perspektiv är läget stabilt på de flesta områden.
+Hur coronapandemin har påverkat jordbruksmarknaderna kommer att vara i fokus när EU-kommissionen informerar om utvecklingen. EU:s livsmedelssektor har i stort klarat sig bra under året, med vissa undantag – vin, fläsk, pommes frites och produkter som främst äts på restaurang. Ur svenskt perspektiv är läget stabilt på de flesta områden.
 
 Regeringens uppfattning är att en god försörjningsförmåga genom marknadsorientering och fungerande handel är avgörande och att åtgärder som riskerar att ingripa i marknadens funktion och prissättning bör undvikas.
 

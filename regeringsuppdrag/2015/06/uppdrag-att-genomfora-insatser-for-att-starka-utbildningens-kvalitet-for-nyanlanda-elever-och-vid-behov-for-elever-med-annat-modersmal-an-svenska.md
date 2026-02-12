@@ -4,7 +4,7 @@ Regeringen ger Statens skolverk i uppdrag att genomföra systematiska insatser i
 
 Vid behov ska insatserna även omfatta elever som inte är nyanlända om de har ett annat modersmål än svenska.
 
-Målgrupper för olika insatser ska vara huvudmän, rektorer, lärare i alla ämnen, modersmålslärare, studiehandledare på modersmål samt annan personal inom grundskolan  och motsvarande skolformer  samt gymnasieskolans introduktionsprogram. Insatserna ska anpassas till målgruppernas olika förutsättningar och behov. Alla insatser behöver inte genomföras samtidigt utan insatserna kan införas successivt.
+Målgrupper för olika insatser ska vara huvudmän, rektorer, lärare i alla ämnen, modersmålslärare, studiehandledare på modersmål samt annan personal inom grundskolan och motsvarande skolformer samt gymnasieskolans introduktionsprogram. Insatserna ska anpassas till målgruppernas olika förutsättningar och behov. Alla insatser behöver inte genomföras samtidigt utan insatserna kan införas successivt.
 
 I uppdraget ingår att senast den 15 oktober 2015 till Regeringskansliet (Utbildningsdepartementet) inkomma med en plan för genomförandet av uppdraget för perioden 2016–2019. Planen ska innefatta en behovs- analys, omfattning, inriktning och genomförande av insatserna. I planen ska det även ingå en sammanställning av kostnaderna för de olika delarna av uppdraget samt Skolverkets administrativa kostnader för genomförandet av uppdraget. I planen ska anges hur satsningen kan göras uppföljnings- och utvärderingsbar, bl.a. vad avser effekterna för elevernas måluppfyllelse på sikt.
 

@@ -12,23 +12,23 @@ Enligt Världsbankens senaste siffror utsätts mer än 700 miljoner kvinnor per 
 
 Enligt samma rapport förekommer lagliga åtskillnader mellan kvinnor och män i 128 länder. I 28 av dessa länder återfinns minst 10 eller fler könsbaserade begränsningar till kvinnans nackdel. Det gäller allt från rätten att erhålla ID-handlingar, äga mark eller fastigheter, ansöka om lån till möjligheter att arbeta utanför hemmet.
 
-I vissa delar av världen utgör kränkningar av kvinnans mänskliga rättigheter ett växande hot mot fred och säkerhet.  Vi saknar dock ofta detta perspektiv i våra säkerhetspolitiska analyser. Om vi vill vara relevanta och uppnå resultat måste genusaspekten inkluderas i det gängse säkerhetspolitiska arbetet.
+I vissa delar av världen utgör kränkningar av kvinnans mänskliga rättigheter ett växande hot mot fred och säkerhet. Vi saknar dock ofta detta perspektiv i våra säkerhetspolitiska analyser. Om vi vill vara relevanta och uppnå resultat måste genusaspekten inkluderas i det gängse säkerhetspolitiska arbetet.
 
 Det är egentligen mycket enkelt: förmår vi inte att säkra respekten för kvinnors mänskliga rättigheter på ett betydligt mer effektivt sätt än vad som är fallet idag, kommer vi inte heller att uppnå våra övergripande utrikepolitiska mål vad avser hållbar utveckling, fred och säkerhet.
 
 ## Vad kännetecknar då, i din mening, en sådan utrikespolitik?
 
-- Den feministiska utrikespolitiken handlar om att säkra kvinnors rättigheter och representation.  Detta utgör såväl mål som medel i den feministiska utrikespolitiken.  Det krävs ett fortsatt politiskt arbete, men även resurser.  Vi måste bl.a. se till att resurser kanaliseras på ett sådant sätt att jämställdhetsmålen uppnås och att kvinnors och flickors behov tillgodoses i samma utsträckning som mäns och pojkars behov.  Politiken ska genomsyras och genomföras utifrån dessa tre begrepp:
+- Den feministiska utrikespolitiken handlar om att säkra kvinnors rättigheter och representation. Detta utgör såväl mål som medel i den feministiska utrikespolitiken. Det krävs ett fortsatt politiskt arbete, men även resurser. Vi måste bl.a. se till att resurser kanaliseras på ett sådant sätt att jämställdhetsmålen uppnås och att kvinnors och flickors behov tillgodoses i samma utsträckning som mäns och pojkars behov. Politiken ska genomsyras och genomföras utifrån dessa tre begrepp:
 
 ### Rättigheter, representation och resurser.
 
 Dessa tre begrepp utgör ett enkelt, men effektivt, sätt att angripa de alltjämt stora genderobalanser som råder.
 
-Kvinnor ska inte bara ses som offer, utan även som aktörer i utformandet av politiken. I dagsläget är kvinnors deltagande, i synnerhet i fredsförhandlingar och återuppbyggnadsprocesser, marginell.  Detta trots att betydande åtagande om motsatsen gjorts på global nivå och trots att forskning pekar på tydliga kopplingar mellan kvinnors deltagande och framsteg i dessa fredsprocesser.
+Kvinnor ska inte bara ses som offer, utan även som aktörer i utformandet av politiken. I dagsläget är kvinnors deltagande, i synnerhet i fredsförhandlingar och återuppbyggnadsprocesser, marginell. Detta trots att betydande åtagande om motsatsen gjorts på global nivå och trots att forskning pekar på tydliga kopplingar mellan kvinnors deltagande och framsteg i dessa fredsprocesser.
 
 ## Vad innebär uppdraget och vilka frågor kommer du att prioritera?
 
-- Mitt jobb är primärt att se till så att vi nu skrider till verket inom UD:s olika verksamhetsområden. Det gäller såväl säkerhetspolitiken, som MR-politiken, utvecklingssamarbetet, främjande och handel.  Mycket bra arbete görs redan idag, men vi behöver se över såväl prioriteringar som policy och arbetsmetoder för driva jämställdhetsarbetet framåt.
+- Mitt jobb är primärt att se till så att vi nu skrider till verket inom UD:s olika verksamhetsområden. Det gäller såväl säkerhetspolitiken, som MR-politiken, utvecklingssamarbetet, främjande och handel. Mycket bra arbete görs redan idag, men vi behöver se över såväl prioriteringar som policy och arbetsmetoder för driva jämställdhetsarbetet framåt.
 
 I förlängningen ser jag genusanalyser och ansvarsutkrävandet som avgörande för ett effektivt och relevant främjande av jämställdhet. Utan analys kan vi inte formulera relevanta svar och utan ansvarsutkrävande är risken stor att implementeringen blir för svag.
 

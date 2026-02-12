@@ -3,11 +3,11 @@
 Regeringen ger Boverket i uppdrag att
 
 * ta fram en vägledning till stöd för byggnadsnämnder vid samordnad
-  tillsyn,
+tillsyn,
 * samla in och tillgängliggöra exempel på beslutsmallar för
-  byggnadsnämndernas tillsynsarbete, och
+byggnadsnämndernas tillsynsarbete, och
 * genomföra en utbildningsinsats om samordnad tillsyn för landets
-  byggnadsnämnder.
+byggnadsnämnder.
 
 Boverket ska vid genomförandet av uppdraget samverka med
 länsstyrelserna, Polismyndigheten, Arbetsmiljöverket, Skatteverket,

@@ -26,7 +26,7 @@ Han ville inte tala om armen, som han förlorat i kriget, utan om sin bäste vä
 
 Det skakade om mig.
 
-\*\*\*
+***
 
 Vi vet vad Ukraina behöver – oavsett utfallet i de förhandlingar som nu pågår: mer pengar och fler vapen.
 
@@ -100,11 +100,11 @@ Med den inre marknaden som hjärta är EU på riktigt en ekonomisk stormakt.
 
 Av världens tio mest innovativa länder är sex europeiska, och fyra – Sverige, Finland, Nederländerna och Danmark – är EU-länder.
 
-\*\*\*
+***
 
 Ibland tror jag att vi underskattar vår egen betydelse.
 
-\*\*\*
+***
 
 Att man från Latinamerika till Indien vill fördjupa sin handel och sitt samarbete med EU visar att vi är en relevant, strategisk och pålitlig partner. Just pålitligheten har visat sig vara en stark valuta i dessa stormiga tider.
 
@@ -124,7 +124,7 @@ Att Polen valde Sverige som partner för att bygga upp sin ubåtsförmåga öppn
 
 Vi vänner i norr och runt Östersjön utgör nu – tillsammans med strategiska partners som Storbritannien och Frankrike – en säkerhetspolitisk motor för hela Europa.
 
-\*\*\*
+***
 
 Att öka stödet till Ukraina. Att öka pressen på Ryssland. Att stärka Europas roll i Nato. Att verka för ett starkare EU. Och att bygga ännu starkare band med våra närmaste vänner och grannar.
 

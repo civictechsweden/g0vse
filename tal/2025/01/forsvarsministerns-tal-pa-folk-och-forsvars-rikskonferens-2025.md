@@ -40,7 +40,7 @@ Det som tidigare mest uppfattades som teoretiska problem om procentsatser och b�
 
 Sverige måste nu göra sin del i detta arbete - med ett ökat europeiskt ansvarstagande - genom att fortsätta stärka Nato, stödja Ukraina och kraftfullt upprusta försvaret.
 
-\*\*\*
+***
 
 Sverige har levererat säkerhet inom Nato sedan dag ett.
 
@@ -54,7 +54,7 @@ Det är ett stort och viktigt ansvar utmed Natos längsta gräns mot Ryssland.
 
 Finland är Sveriges närmaste samarbetspartner – och vi är nu också allierade. Det var därför självklart att axla detta ansvar när Finland frågade oss.
 
-\*\*\*
+***
 
 Att stödja Ukraina är inte ett val. Det är en plikt.
 
@@ -84,7 +84,7 @@ Vi bör alla också inspireras av hur snabbt och effektivt Sverige har lämnat d
 
 Det vi gör för att bygga upp det ukrainska försvaret det gör vi inom veckor och månader. Men det som vi gör här hemma för att bygga upp försvaret har allt för ofta tagit år eller årtionden.
 
-\*\*\*
+***
 
 Men i allvarstider är det fara i dröjsmål.
 

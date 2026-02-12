@@ -8,11 +8,15 @@ Samarbetspartierna ger ytterligare ekonomiskt stöd till sjukvården för att ge
 
 [Pressmeddelande: Stora satsningar på sjukvården](/pressmeddelanden/2024/03/stora-satsningar-pa-sjukvarden/)
 
+
+
 ## Förslag om ytterligare förlängning av det tillfälliga tilläggsbidraget till barnfamiljer med bostadsbidrag
 
 Hög inflation och lågkonjunktur slår hårt mot många hushåll, inte minst barnfamiljer. För att skydda barnfamiljer med små marginaler föreslår regeringen och Sverigedemokraterna i vårändringsbudgeten att det tillfälliga tilläggsbidraget till barnfamiljer med bostadsbidrag förlängs till och med den 31 december 2024.
 
 [Pressmeddelande: Förslag om ytterligare förlängning av det tillfälliga tilläggsbidraget till barnfamiljer med bostadsbidrag](/pressmeddelanden/2024/03/forslag-om-ytterligare-forlangning-av-det-tillfalliga-tillaggsbidraget-till-barnfamiljer-med-bostadsbidrag/)
+
+
 
 ## Regeringen förstärker arbetet med Bris nationella stödlinje
 
@@ -20,17 +24,23 @@ Regeringen anser att arbetet med Bris nationella stödlinje behöver stärkas oc
 
 [Pressmeddelande: Regeringen förstärker arbetet med Bris nationella stödlinje](/pressmeddelanden/2024/04/regeringen-forstarker-arbetetmed-bris-nationella-stodlinje/)
 
+
+
 ## Ökade medel till Statens institutionsstyrelse (SiS)
 
 I vårändringsbudgeten föreslår regeringen och Sverigedemokraterna att anslaget till SiS under 2024 höjs till drygt 300 miljoner kronor. Medlen ska bland annat nyttjas till fler platser för de som döms till sluten ungdomsvård och åtgärder kopplat till en ny lagstiftning som rör SiS särskilda befogenheter.
 
 [Pressmeddelande: Ökade medel till Statens institutionsstyrelse (SiS)](/pressmeddelanden/2024/04/okade-medel-till-statens-institutionsstyrelse-sis/)
 
+
+
 ## Regeringen satsar på unga som varken arbetar eller studerar
 
 Regeringen och dess samarbetsparti föreslår i vårändringsbudgeten att ytterligare medel tillförs till arbetet med unga som varken arbetar eller studerar under 2024. Personer med psykisk ohälsa är ofta överrepresenterade inom gruppen och de har ofta behov av långsiktiga insatser.
 
 [Pressmeddelande: Regeringen satsar på unga som varken arbetar eller studerar](/pressmeddelanden/2024/04/regeringen-satsar-pa-unga-som-varken-arbetar-eller-studerar/)
+
+
 
 ## Lättare för föreningar att anordna arrangemang på statliga vägar
 

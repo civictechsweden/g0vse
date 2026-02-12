@@ -8,7 +8,7 @@ Thank you (Fredrik) for the introduction!
 
 Dear friends of the EU Strategy for the Baltic Sea Region, dear friends of the Danube Strategy, dear friends of the European Union, honoured Ambassadors and last, but not least, dear Ukrainian friends.
 
-I am honoured to be here today under the Swedish presidency of the EU Strategy for the Baltic Sea Region (EUSBSR).  Whether you are attending this conference remotely or on site, I want to welcome you all to this event.
+I am honoured to be here today under the Swedish presidency of the EU Strategy for the Baltic Sea Region (EUSBSR). Whether you are attending this conference remotely or on site, I want to welcome you all to this event.
 
 I am especially happy to welcome my dear colleague, Mr Ihor Korkhovyi. I am also very pleased to see Mr Ambassador, Andrij Plachotnjuk, in the audience.
 
@@ -34,6 +34,6 @@ We hope several of the initiatives emerging from today’s discussions, will be 
 
 It goes without saying that one of the top priorities for the SE EU Presidency in 2023 is about security in the European Union, in light of the war in Ukraine. The Russian invasion in Ukraine is an attack on Ukraine, but also an attack on European security and all the values that Europe stands for.
 
-The Russian aggression has had major consequences in our region and in Europe as a whole.  We must take a united responsibility in all possible manners and on all levels to strengthen the cooperation in our region and in Europe.  It has never been more important.
+The Russian aggression has had major consequences in our region and in Europe as a whole. We must take a united responsibility in all possible manners and on all levels to strengthen the cooperation in our region and in Europe. It has never been more important.
 
 Thank you!

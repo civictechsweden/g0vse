@@ -19,6 +19,6 @@ bedömning av olika områdens förutsättningar, behov och problem, dels
 identifiera områden som har specifika behov utifrån enskilda faktorer.
 
 Myndigheterna ska vidare lämna förslag på hur resultatet av den fördjupade
-analysen, även efter uppdragets slutförande, kan hållas aktuell och integreras i nuvarande ordning för förvaltning och uppdatering av statistik, med beaktande av respektive myndighets uppdrag.
+analysen, även efter uppdragets slutförande, kan hållas aktuell och integreras i nuvarande ordning för förvaltning och uppdatering av statistik, med beaktande av respektive myndighets uppdrag.
 
 SCB och Boverket ska löpande informera Regeringskansliet (Arbetsmarknadsdepartementet) om hur arbetet med uppdraget fortskrider. Myndigheterna ska senast den 31 maj 2024 lämna en gemensam delredovisning av uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet). Myndigheterna ska senast den 15 oktober 2024 lämna en gemensam skriftlig slutredovisning av uppdraget till Regeringskansliet (Arbetsmarknadsdepartementet).

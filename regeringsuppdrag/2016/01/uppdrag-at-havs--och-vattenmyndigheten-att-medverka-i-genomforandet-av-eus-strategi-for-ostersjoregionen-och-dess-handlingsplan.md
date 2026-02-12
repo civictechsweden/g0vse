@@ -4,4 +4,4 @@ Regeringen uppdrar åt Havs- och vattenmyndigheten att aktivt bidra till att gen
 
 Uppdraget ska i första delen redovisa till Regeringskansliet (Miljö- och energidepartementet) senast den 31 mars 2016.
 
-Myndigheten ska årligen senast den 31 januari 2017, 2018, 2019 och 2020 lämna en redovisning till Regeringskansliet (Miljö- och energidepartementet) med kopia till Tillväxtverket över genomförandet av uppdraget från föregående kalenderår. Av redovisningen ska framgå hur myndigheten har genomfört sitt uppdrag, vilka delmål i strategin som myndigheten förhåller sig till, vilka samarbeten myndigheten har ingått, projekt som myndigheten deltar i och hur arbetet kan utvecklas.
+Myndigheten ska årligen senast den 31 januari 2017, 2018, 2019 och 2020 lämna en redovisning till Regeringskansliet (Miljö- och energidepartementet) med kopia till Tillväxtverket över genomförandet av uppdraget från föregående kalenderår. Av redovisningen ska framgå hur myndigheten har genomfört sitt uppdrag, vilka delmål i strategin som myndigheten förhåller sig till, vilka samarbeten myndigheten har ingått, projekt som myndigheten deltar i och hur arbetet kan utvecklas.

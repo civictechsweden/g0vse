@@ -4,4 +4,4 @@ Regeringen ger Statskontoret i uppdrag att definiera och kartlägga myndigheters
 
 Statskontoret ska löpande informera Regeringskansliet (Finansdepartementet) om hur arbetet med uppdraget fortskrider.
 
-Statskontoret ska senast den 4 december 2026 redovisa uppdraget till Regeringskansliet (Finansdepartementet).
+Statskontoret ska senast den 4 december 2026 redovisa uppdraget till Regeringskansliet (Finansdepartementet).

@@ -1,4 +1,4 @@
-# Remiss av SOU 2025:73 En arbetsmiljöstrategi för ett förändrat arbetslivDiarienummer: A2025/00628
+# Remiss av SOU 2025:73 En arbetsmiljöstrategi för ett förändrat arbetsliv
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remisseen SOU 2025:73 En arbetsmiljöstrategi för ett förändrat arbetsliv. Övriga yttranden finns tillgängliga i departementet.
 

@@ -6,7 +6,7 @@ Regeringen har efter riksdagens beslut om propositionen Mer ändamålsenliga sam
 
 På Justitiedepartementets område utfärdades ändring i lagen om mark- och miljödomstolar och ändring i lagen med vissa föreskrifter angående tillämpningen här i riket av svensk-norska vattenrättskonventionen av den 11 maj 1929. På Miljödepartementets område utfärdades en följdändring i lagen med särskilda bestämmelser om vattenverksamhet.
 
-Ändringarna träder i kraft den 1 juli 2021.
+Ändringarna träder i kraft den 1 juli 2021.
 
 **Referenser:**
 

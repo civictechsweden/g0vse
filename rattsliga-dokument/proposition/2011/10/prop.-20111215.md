@@ -5,6 +5,6 @@ I denna proposition lämnas förslag till den lagstiftning som krävs för att g
 I propositionen lämnas vidare förslag till ändringar i lagen (1997:484) om dröjsmålsavgift. Innebörden av dessa ändringar är att dröjsmålsavgift inte ska beräknas på en fordran efter det att den överlämnats till Kronofogdemyndigheten för indrivning. I stället ska ränta beräknas på samma sätt som i fråga om fordringar avseende underhållsstöd.
 
 Förslagen föreslås träda i kraft den 1 januari 2012.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+__________________________________________________________
 
 Riksdagen fattade den 8 december 2011 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

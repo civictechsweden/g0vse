@@ -2,7 +2,7 @@
 
 EU:s och den Afrikanska unionens ledare möttes i Bryssel den 17–18 februari. Ledarna antog en gemensam deklaration och lade mycket av mötestiden på att diskutera kommande samarbeten i grupper med utvalda teman. Statsminister Magdalena Andersson företrädde Sverige.
 
-Ledarna diskuterade hur de två unionerna kan arbeta tillsammans för att hantera gemensamma utmaningar och skapa större välstånd. I fokus stod bland annat ett ambitiöst investeringspaket med avstamp i möjligheter och utmaningar inom ett antal områden, inte minst klimatförändringar och den pågående hälsokrisen. Mötet handlade också om verktyg och lösningar i syfte att främja fred och säkerhet.
+Ledarna diskuterade hur de två unionerna kan arbeta tillsammans för att hantera gemensamma utmaningar och skapa större välstånd. I fokus stod bland annat ett ambitiöst investeringspaket med avstamp i möjligheter och utmaningar inom ett antal områden, inte minst klimatförändringar och den pågående hälsokrisen. Mötet handlade också om verktyg och lösningar i syfte att främja fred och säkerhet.
 
 Tillsammans med ledande experter deltog stats- och regeringscheferna i två tematiska rundabordssamtal.
 

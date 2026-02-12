@@ -8,6 +8,8 @@ Styrelseordföranden har huvudansvaret för att leda processen kring beslutet av
 
 Styrelsens ordförande bör även ha beredskap för det fall att ett avtal sluts mellan USA och Nordkorea. Ett beslut om eventuellt återupptagen IAEA-verksamhet i Nordkorea faller inom ramen för styrelsearbetet.
 
+
+
 **Bakgrund**
 
 Med sitt uppdrag att säkerställa att kärnämnen inte missbrukas för militära ändamål har IAEA en central roll för global icke-spridning. IAEA:s verksamhet omfattar både icke-spridning av kärnvapen men också att bevaka staters rätt att använda kärnteknik för fredliga ändamål. IAEA:s arbete går under devisen ”Atoms for Peace and Development” och bidrar med sin tekniska kompetens till de globala utvecklingsmålen i Agenda 2030.

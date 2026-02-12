@@ -1,4 +1,4 @@
-# Regeringskansliets årsbok 2024Diarienummer: FA2025/00733
+# Regeringskansliets årsbok 2024
 
 Hur många arbetar i Regeringskansliet? Hur såg statsbudgeten ut förra året? Vilka var 2024 års propositioner, skrivelser och offentliga utredningar? Detta och mycket annat får du svar på i Regeringskansliets årsbok 2024.
 

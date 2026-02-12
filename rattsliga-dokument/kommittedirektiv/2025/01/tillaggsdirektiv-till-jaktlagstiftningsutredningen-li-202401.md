@@ -7,7 +7,7 @@ moderniserad jaktlagstiftning (dir. 2024:11). Uppdraget skulle enligt
 direktiven redovisas senast den 31 augusti 2025.
 
 Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den
-31 december 2025. Ett delbetänkande som avser vissa delar i de ursprungliga direktiven ska dock lämnas senast den 7 april. 2025. Delbetänkandet avser uppdragen om att utredaren ska:
+31 december 2025. Ett delbetänkande som avser vissa delar i de ursprungliga direktiven ska dock lämnas senast den 7 april. 2025. Delbetänkandet avser uppdragen om att utredaren ska:
 
 * förbättra genomförandet av EU-rättsliga regler på jaktområdet och säkerställa att genomförandet inte avser andra arter än dem som omfattas av EU-reglerna,
 * göra en juridisk analys av hur en flerartsförvaltning av klövvilt, med full kostnadstäckning, kan finansieras och lämna förslag till utformning,

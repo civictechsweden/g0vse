@@ -1,4 +1,4 @@
-# Promemoria Verkställbara tvångsmedel mot fartyg inom EU:s utsläppshandelssystem
+# Verkställbara tvångsmedel mot fartyg inom EU:s utsläppshandelssystem
 
 I promemorian föreslås ändringar i lagen (2020:1173) om vissa utsläpp av växthusgaser.
 

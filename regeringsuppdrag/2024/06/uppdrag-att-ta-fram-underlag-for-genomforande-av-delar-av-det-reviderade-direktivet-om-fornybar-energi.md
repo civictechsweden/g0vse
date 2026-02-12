@@ -6,9 +6,9 @@ Energimyndigheten ska:
 
 1. utreda om det i Sverige finns några stödsystem som i strid med kaskadprincipen i artikel 3.3 dels främjar energiproduktion från träbiomassa, dels snedvrider konkurrensen i sektorn.
 2. identifiera vilka befintliga och aviserade styrmedel, inklusive regelverk (direkta såväl som indirekta), som skulle kunna ingå i en sådan ram som avses i artikel 3.4a för att undanröja hinder för en hög andel av försörjning med förnybar el, och vid behov ge förslag på ytterligare åtgärder.
-3. lämna förslag på hur tillståndsgivningen för gemensamma projekt för havsbaserad förnybar energi enligt artikel 9.7a ska underlättas genom att minska komplexiteten och öka effektiviteten och insynen i tillståndsprocessen.
-4. analysera om Sverige uppfyller kraven i artikel 18 i dess nya lydelse, och om inte, översiktligt beskriva hur ett uppfyllande av kraven skulle kunna påskyndas.
-5. påbörja arbetet med att anpassa myndighetens befintliga föreskrifter om ursprungsgarantier för el så att de överensstämmer med artikel 19.
+3. lämna förslag på hur tillståndsgivningen för gemensamma projekt för havsbaserad förnybar energi enligt artikel 9.7a ska underlättas genom att minska komplexiteten och öka effektiviteten och insynen i tillståndsprocessen.
+4. analysera om Sverige uppfyller kraven i artikel 18 i dess nya lydelse, och om inte, översiktligt beskriva hur ett uppfyllande av kraven skulle kunna påskyndas.
+5. påbörja arbetet med att anpassa myndighetens befintliga föreskrifter om ursprungsgarantier för el så att de överensstämmer med artikel 19.
 
 Vid behov ska Energimyndigheten lämna författningsförslag, dock inte i fråga om föreskrifterna som avses i punkt 5. Bedömningar och förslag på skatteområdet ska inte lämnas.
 

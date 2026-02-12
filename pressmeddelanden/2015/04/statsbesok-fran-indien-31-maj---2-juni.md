@@ -12,4 +12,4 @@ Detta är det första statsbesök en indisk statschef avlägger i Sverige. Kunga
 
 Medierepresentanter behöver särskild ackreditering via UD för att kunna bevaka statsbesöket. Sista dag för ansökan om ackreditering är torsdagen den 21 maj.
 
-- [Ansökan om ackreditering](http://ackreditering.ud.se/registration/statsbesok-fran-indien-state-visit-from-india/)
+* [Ansökan om ackreditering](http://ackreditering.ud.se/registration/statsbesok-fran-indien-state-visit-from-india/)

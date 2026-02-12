@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att följa upp användningen av läkemedel mot obesitasDiarienummer:  S2026/00100
+# Uppdrag till Socialstyrelsen att följa upp användningen av läkemedel mot obesitas
 
 Regeringen uppdrar åt Socialstyrelsen att analysera användningen av läkemedel mot obesitas.
 

@@ -1,4 +1,4 @@
-# Uppdrag till Inspektionen för vård och omsorg att stärka och utveckla tillsynen inom området psykisk hälsa och suicidpreventionDiarienummer: S2025/01452
+# Uppdrag till Inspektionen för vård och omsorg att stärka och utveckla tillsynen inom området psykisk hälsa och suicidprevention
 
 Regeringen uppdrar åt Inspektionen för vård och omsorg (IVO) att stärka och utveckla tillsynen inom området psykisk hälsa och suicidprevention.
 

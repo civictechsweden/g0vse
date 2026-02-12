@@ -51,7 +51,7 @@ Regeringen har beslutat om ändringar i förskolans läroplan som bland annat in
 
 Många elever upplever att de blir distraherade av andra elever som använder digitala verktyg, till exempel mobiltelefoner, under lektionstid. Samtidigt har nätmobbning blivit allt vanligare under det senaste decenniet. Skolverket har därför fått i uppdrag att undersöka hur digitala enheter används i skolan och fritidshemmet och ska föreslå åtgärder som kan minska användningen av digitala enheter som elever själva tar med sig till skolan eller fritidshemmet och som påverkar eleverna, deras kunskapsutveckling eller utbildningen negativt, inklusive eventuella åtgärder för att bidra till att minska könsskillnader i studieresultat. Uppdraget delredovisades i maj 2025.
 
-[Pressmeddelande: Regeringen vill undersöka användningen av skärmar i skolan](/pressmeddelanden/2024/08/regeringen-vill-undersoka-anvandningen-av-skarmar-i-skolan/ "Pressmeddelande: Regeringen vill undersöka användningen av skärmar i skolan ")
+[Pressmeddelande: Regeringen vill undersöka användningen av skärmar i skolan](/pressmeddelanden/2024/08/regeringen-vill-undersoka-anvandningen-av-skarmar-i-skolan/ "Pressmeddelande: Regeringen vill undersöka användningen av skärmar i skolan&nbsp;")
 
 ## Stödundervisning för de elever som behöver det
 
@@ -121,4 +121,4 @@ För att alla elever ska ha möjlighet att läsa både svensk och internationell
 
 ## Förstärkt bidrag till Svenska barnboksinstitutet
 
-Regeringen vill stärka kunskapen och forskningen om barns och ungas läsande och förstärkte därför Svenska barnboksinstitutets verksamhet genom en ökning av det årliga bidraget med 6 miljoner kronor 2024 och 4 miljoner kronor från och med 2025. För 2025 uppgick bidraget till totalt 11 miljoner kronor.
+Regeringen vill stärka kunskapen och forskningen om barns och ungas läsande och har därför förstärkt Svenska barnboksinstitutets verksamhet från 2024 genom en ökning av det årliga bidraget. För 2026 uppgår bidraget till totalt 11 miljoner kronor.

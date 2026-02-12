@@ -8,7 +8,7 @@ Ska Sverige även i framtiden vara ett internationellt konkurrenskraftigt land, 
 
 Och då behövs de bästa idéerna – politiskt, teknologiskt, industriellt och kommersiellt för att gå från fossilt till fossilfritt. Jag är säker på att många av de idéerna finns här idag.
 
-\*\*\*
+***
 
 Vägen till noll 2045 är lång och tuff. Den goda nyheten är att en tredjedel av sträckan redan är avklarad. Den jobbigare är att två tredjedelar ligger framför oss.
 
@@ -56,4 +56,4 @@ Aldrig förr har vi vetat så mycket om de problem som måste lösas. Aldrig fö
 
 Sverige har klarat av stora omställningar förut. Med teknikens hjälp och den lite ingenjörsmässiga problemlösningsförmåga som är vårt signum. Det är ingen dålig grund att stå på. Låt oss visa den en gång till!
 
-Låt mig introducera dagens moderator, Johan Kuylenstierna, Generaldirektör på forskningsrådet Formas.  Tack!
+Låt mig introducera dagens moderator, Johan Kuylenstierna, Generaldirektör på forskningsrådet Formas. Tack!

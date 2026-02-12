@@ -9,7 +9,7 @@ Sedan år 2010 har sjukpenningtalet ökat med nästan 70 procent samtidigt som u
 * Ökad jämställdhet
 * Bättre arbetsmiljö
 * Bättre ta tillvara människors arbetsförmåga
-* Åtgärder för rehabilitering, anpassning och omställning
-* Anpassning av primärvårdens verksamhet för personer med psykisk ohälsa och långvarig smärta
-* Ökade kunskaper om sjukskrivningspraxis och      sjukskrivningsprocessen
-* Bättre förutsättningar för unga med funktionsnedsättning eller sjukdom att komma i arbete
+* Åtgärder för rehabilitering, anpassning och omställning
+* Anpassning av primärvårdens verksamhet för personer med psykisk ohälsa och långvarig smärta
+* Ökade kunskaper om sjukskrivningspraxis och sjukskrivningsprocessen
+* Bättre förutsättningar för unga med funktionsnedsättning eller sjukdom att komma i arbete

@@ -12,7 +12,7 @@ För att de alkoholdrycksliknande preparaten ska regleras på liknande sätt som
 
 ## Flera berörda lagar påverkas
 
-Regeringen föreslår att straffbestämmelserna i alkohollagen om olovlig försäljning, olovligt innehav, olovligt anskaffande och olovlig hantering också ska avse alkoholdrycksliknande preparat.
+Regeringen föreslår att straffbestämmelserna i alkohollagen om olovlig försäljning, olovligt innehav, olovligt anskaffande och olovlig hantering också ska avse alkoholdrycksliknande preparat.
 
 Även straffbestämmelserna i övriga berörda lagar – exempelvis lagen om straff för vissa trafikbrott, lagen om säkerhet vid tunnelbana och spårväg, sjölagen, järnvägslagen, luftfartslagen och ordningslagen – ändras på motsvarande sätt.
 

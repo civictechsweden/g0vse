@@ -18,7 +18,7 @@ Det illdådet fördömdes brett – men attacken firades samtidigt både i Sveri
 
 Det högtidliga ”aldrig igen”, blev i praktiken ”nu igen”.
 
-\*\*\*
+***
 
 Nyligen återgav Göteborgs-Posten vad svenska judar utsätts för i sin vardag. Krossade rutor, hatiska budskap och fruktan för sin säkerhet. Det smärtar att läsa och höra deras berättelser om vad som sker i Sverige just nu.
 
@@ -32,7 +32,7 @@ För det är fullt legitimt att i en demokrati som vår tycka helt olika om konf
 
 Den här utvecklingen kommer jag och den regering jag leder aldrig acceptera. Sverige är ett av världens mest toleranta länder. Men vi ska aldrig vara toleranta mot intoleransen.
 
-\*\*\*
+***
 
 För det första: tryggheten måste garanteras. Vi har stärkt stödet till Judiska Centralrådet för trygghetshöjande åtgärder. Vi tillför medel för att skydda det civila samhället. Vi skärper straffen mot brott med antisemitiska motiv. För vi menar allvar: antisemitism ska bort från Sverige.
 
@@ -42,7 +42,7 @@ Varje ny generation måste ta del av berättelserna från Förintelsen. Vi säkr
 
 För det tredje: Den judiska minoritetens historia i Sverige. I snart 250 år har vi haft etablerat judiskt liv i Sverige. Det måste lyftas och synliggöras.
 
-\*\*\*
+***
 
 Förintelsen har en särställning i vårt kollektiva minne. Rätt vårdat är DET minnet ett vaccin mot framtida folkmord och övergrepp.
 

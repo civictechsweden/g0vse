@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att genomföra riktade insatser med fokus på informations- och kunskapsspridning om sällsynta hälsotillståndDiarienummer: S2025/01639
+# Uppdrag till Socialstyrelsen att genomföra riktade insatser med fokus på informations- och kunskapsspridning om sällsynta hälsotillstånd
 
 Regeringen uppdrar åt Socialstyrelsen att genomföra riktade insatser med fokus på informations- och kunskapsspridning om sällsynta hälsotillstånd. Insatserna ska i första hand riktas mot hälso- och sjukvården och bidra till att uppmärksamma komplexiteten som följer av sällsyntheten, synliggöra var medicinsk expertis finns att tillgå inom hälso- och sjukvården samt ge ökad kännedom om genetisk diagnostik vid sällsynta hälsotillstånd.
 

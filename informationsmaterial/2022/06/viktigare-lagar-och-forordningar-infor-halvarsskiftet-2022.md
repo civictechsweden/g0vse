@@ -394,7 +394,7 @@ Tfn 073-086 23 07
 
 Pressekreterare Jonas Lannering
 
-Tfn  073-057 23 36
+Tfn 073-057 23 36
 
 ### Nedsättning av förmånsvärdet för miljöanpassade bilar ändras
 
@@ -406,7 +406,7 @@ Tfn  073-057 23 36
 
 **Ikraftträdande:** 1 juli 2022
 
-Lagändringen innebär att nedsättningen av förmånsvärdet för miljöanpassade bilar ändras. Nybilspriset vid beräkningen av förmånsvärdet sätts ned med ett fast schabloniserat belopp som utgår från bilens miljöteknik, istället för att utgå från nybilspriset för närmast jämförbara konventionella bil. Nedsättningens storlek baseras huvudsakligen på den genomsnittliga nedsättning som görs i dag för respektive fordonstyp och uppgår till 350 000 kronor för elbilar och vätgasbilar, 140 000 kronor för laddhybrider och 100 000 kronor för gasbilar.
+Lagändringen innebär att nedsättningen av förmånsvärdet för miljöanpassade bilar ändras. Nybilspriset vid beräkningen av förmånsvärdet sätts ned med ett fast schabloniserat belopp som utgår från bilens miljöteknik, istället för att utgå från nybilspriset för närmast jämförbara konventionella bil. Nedsättningens storlek baseras huvudsakligen på den genomsnittliga nedsättning som görs i dag för respektive fordonstyp och uppgår till 350 000 kronor för elbilar och vätgasbilar, 140 000 kronor för laddhybrider och 100 000 kronor för gasbilar.
 
 Nedsättnings­beloppets storlek får dock inte överstiga 50 procent av bilens nybilspris. Ändringen gäller för bilar som blir skattepliktiga enligt vägtrafikskattelagen (2006:227) för första gången från och med 1 juli 2022.
 
@@ -420,7 +420,7 @@ Nedsättnings­beloppets storlek får dock inte överstiga 50 procent av bilens 
 
 **Ikraftträdande:** 1 juni 2022
 
-Regeringen har i budgetpropositionen för 2022 bedömt att miljöstyrningen i det så kallade bonus–malus-systemet bör skärpas. Den nedre gränsen för när det förhöjda koldioxidbeloppet tas ut sänks därför från 90 till 75 gram koldioxid per kilometer och gränsen för när den högre nivån på det förhöjda koldioxidbeloppet tas ut sänks från 130 till 125 gram per kilometer.
+Regeringen har i budgetpropositionen för 2022 bedömt att miljöstyrningen i det så kallade bonus–malus-systemet bör skärpas. Den nedre gränsen för när det förhöjda koldioxidbeloppet tas ut sänks därför från 90 till 75 gram koldioxid per kilometer och gränsen för när den högre nivån på det förhöjda koldioxidbeloppet tas ut sänks från 130 till 125 gram per kilometer.
 
 ### Förstärkt nedsättning av arbetsgivaravgifter för 19–23 åringar under sommaren 2022
 
@@ -444,7 +444,7 @@ Lagändringen utgör en tillfällig förstärkning av nedsättningen av arbetsgi
 
 **Ikraftträdande:** 1 juli 2022
 
-Mervärdesskatten för reparationer av cyklar, skor, lädervaror, kläder och hushållslinne sänks från tolv procent till sex procent. Syftet är att förstärka de befintliga incitamenten i mervärdesskattesystemet för att få fler att laga och ändra redan tillverkade varor i stället för att köpa nytt.
+Mervärdesskatten för reparationer av cyklar, skor, lädervaror, kläder och hushållslinne sänks från tolv procent till sex procent. Syftet är att förstärka de befintliga incitamenten i mervärdesskattesystemet för att få fler att laga och ändra redan tillverkade varor i stället för att köpa nytt.
 
 ### Höjd omsättningsgräns för befrielse från mervärdesskatt
 
@@ -627,7 +627,7 @@ Infrastrukturdepartementet ansvarar för frågor som rör transporter och infras
 
 Pressekreterare Jennie Zetterström
 
-Tfn  073-053 92 70
+Tfn 073-053 92 70
 
 **Presskontakt hos energi- och digitaliseringsminister Khashayar Farmanbar:**
 
@@ -681,7 +681,7 @@ Av lagen framgår när det är tillåtet för en myndighet eller ett offentligt 
 
 ### Nya krav när det gäller elnätsverksamhet införs
 
-**Ändringar:** Ellagen (1997:857) med flera lagar och förordningar
+**Ändringar:** Ellagen (1997:857) med flera lagar och förordningar
 
 **Ny förordning:** Förordning (2022:585) om elnätsverksamhet
 
@@ -1279,7 +1279,7 @@ Tfn 073-842 50 59
 
 **Ikraftträdande:** 1 juni respektive 1 oktober 2022
 
-Ändringarna innebär att det införs miljösanktionsavgifter för överträdelser av förbud mot användning av växtskyddsmedel. Vid överträdelse av förbudet mot användning av växtskyddsmedel ska en miljösanktionsavgift betalas på 20 000 kronor om överträdelsen sker i yrkesmässig verksamhet och i annat fall på 5 000 kronor.
+Ändringarna innebär att det införs miljösanktionsavgifter för överträdelser av förbud mot användning av växtskyddsmedel. Vid överträdelse av förbudet mot användning av växtskyddsmedel ska en miljösanktionsavgift betalas på 20 000 kronor om överträdelsen sker i yrkesmässig verksamhet och i annat fall på 5 000 kronor.
 
 Dessutom återinförs tillståndsplikten för användning av växtskyddsmedel i bland annat handelsträdgårdar.
 
@@ -1499,7 +1499,7 @@ Upphandlingen av fonder och övrig förvaltning av fondtorget sköts av Fondtorg
 
 **Ikraftträdande:** 15 juli 2022 men gäller garantipension fr.o.m. augusti 2022.
 
-Grundnivån för garantipension höjs med 1 000 kronor per månad. Höjningen av grundnivån innebär att även gränsen för den nivå på inkomstgrundad pension som ger rätt till garantipension höjs. För att höjningen inte ska medföra ett sänkt bostadstillägg så höjs det s.k. fribeloppet i bostadstillägget med samma belopp. Den höjda pensionen betalas ut till berörda pensionärer första gången i augusti 2022.
+Grundnivån för garantipension höjs med 1 000 kronor per månad. Höjningen av grundnivån innebär att även gränsen för den nivå på inkomstgrundad pension som ger rätt till garantipension höjs. För att höjningen inte ska medföra ett sänkt bostadstillägg så höjs det s.k. fribeloppet i bostadstillägget med samma belopp. Den höjda pensionen betalas ut till berörda pensionärer första gången i augusti 2022.
 
 ### Bostadstillägget höjs för pensionärer
 
@@ -1619,7 +1619,7 @@ Syftet med ändringarna är att stärka skolans kompensatoriska uppdrag och att 
 
 **Ikraftträdande:** 30 juni respektive 2 juli 2022
 
-Ett  nytt omställningsstudiestöd införs genom en ny lag om omställningsstudiestöd. Stödet kan lämnas till studerande som uppfyller villkor om förvärvsarbete. Studerande ska kunna få stödet för studier vid utbildningar i Sverige som ger rätt till studiemedel och utbildningar som finansieras av en omställningsorganisation. Stödet, som ska bestå av bidrag och lån, kommer innebära att de allra flesta kan studera med minst 80 procent av lönen i upp till ett år.
+Ett nytt omställningsstudiestöd införs genom en ny lag om omställningsstudiestöd. Stödet kan lämnas till studerande som uppfyller villkor om förvärvsarbete. Studerande ska kunna få stödet för studier vid utbildningar i Sverige som ger rätt till studiemedel och utbildningar som finansieras av en omställningsorganisation. Stödet, som ska bestå av bidrag och lån, kommer innebära att de allra flesta kan studera med minst 80 procent av lönen i upp till ett år.
 
 Omställningsstudiestödet är ett komplement till det reguljära studiestödet och syftar till att förbättra förutsättningarna för vuxna att finansiera studier som kan stärka deras framtida ställning på arbetsmarknaden med beaktande av arbetsmarknadens behov.
 
@@ -1695,7 +1695,7 @@ Samtliga kriterier för det lägsta godkända betyget ska dock vara uppfyllda f�
 
 Förutsättningarna för så kallade resursskolor, det vill säga skolor som begränsar sitt mottagande till elever i behov av särskilt stöd, utvecklas och förtydligas. Det tydliggörs att kommuner får driva egna resursskolor på grundskolenivå. Benämningen resursskola införs även för fristående skolor som begränsar utbildningen på det sättet.
 
-Vidare tydliggörs att resursskolor är en form av särskilt stöd. Dessutom  införs ett bemyndigande som möjliggör förtydligande föreskrifter om när så kallade tilläggsbelopp för barn och elever i behov av omfattande särskilt stöd ska lämnas. Syftet är att systemet ska bli mer likvärdigt och rättvist så att barn och elever får det stöd de behöver. De nya bestämmelserna om resursskolor ska tillämpas från och med höstterminen 2023.
+Vidare tydliggörs att resursskolor är en form av särskilt stöd. Dessutom införs ett bemyndigande som möjliggör förtydligande föreskrifter om när så kallade tilläggsbelopp för barn och elever i behov av omfattande särskilt stöd ska lämnas. Syftet är att systemet ska bli mer likvärdigt och rättvist så att barn och elever får det stöd de behöver. De nya bestämmelserna om resursskolor ska tillämpas från och med höstterminen 2023.
 
 ### Åtgärder för att förbättra skolans arbete med trygghet och studiero
 

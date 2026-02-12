@@ -7,5 +7,5 @@ Avtalet om utbyte av upplysningar i skatteärenden utgör ett viktigt steg i reg
 Avtalet ger möjlighet att utbyta upplysningar i skatteärenden och möjlighet för representanter för myndigheter i det ena landet att närvara vid skatteutredning i det andra landet. Avtalet utgör därmed ett viktigt medel för en effektiv skattekontroll.
 
 Lagen föreslås träda i kraft den dag regeringen bestämmer.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+___________________________________________________________________________
 Riksdagen fattade den 6 mars 2014 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

@@ -14,7 +14,7 @@ Utredaren ska bland annat
 * föreslå en eller flera finansieringsformer för nationell forskningsinfrastruktur,
 * föreslå en eller flera modeller för organisation och styrning av nationella forskningsinfrastrukturer vid universitet och högskolor,
 * föreslå ett samordnat system på nationell nivå för prioritering av
-  infrastruktursatsningar, och
+infrastruktursatsningar, och
 * föreslå en nationell organisation av e-infrastruktur för forskning.
 
 Uppdraget ska redovisas senast den 31 maj 2021.

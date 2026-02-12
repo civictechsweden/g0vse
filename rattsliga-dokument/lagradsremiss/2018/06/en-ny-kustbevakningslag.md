@@ -8,4 +8,4 @@ Regeringen föreslår även att en polisman ska få rätt att genomsöka båtar 
 
 Den nya lagen och övriga lagändringar föreslås träda i kraft den 1 januari 2019.
 
-[Pressmeddelande: Ny kustbevakningslag skapar möjlighet till fler och bättre ingripanden till sjöss](/pressmeddelanden/2018/06/ny-kustbevakningslag-skapar-mojlighet-till-fler-och-battre-ingripanden-till-sjoss/)
+[Pressmeddelande: Ny kustbevakningslag skapar möjlighet till fler och bättre ingripanden till sjöss](/pressmeddelanden/2018/06/ny-kustbevakningslag-skapar-mojlighet-till-fler-och-battre-ingripanden-till-sjoss/)

@@ -30,4 +30,4 @@ Länsstyrelsen på Gotlands skrivelse till Naturvårdsverket:
 
 * [Skrivelse från Naturskyddsföreningen](~/link/3fee5431048046e38f0b06f50514d5e4.aspx "skr från Naturskyddsföreningen")
 * [Skrivelse från EU-kommissionen](~/link/77f4bda933be410fa439f40b34806c42.aspx "skr från EU-kommissionen")
-* [Svar på EU-kommissionens skrivelse](~/link/181706694b3341ed9a053b34a5942b24.aspx "Regeringens svar till EU-kommissionen om kalkstensbrott på Gotland")
+* [Svar på EU-kommissionens skrivelse](~/link/181706694b3341ed9a053b34a5942b24.aspx "Regeringens svar till EU-kommissionen om kalkstensbrott på Gotland")

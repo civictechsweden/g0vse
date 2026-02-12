@@ -15,6 +15,7 @@ Utredaren ska bl.a.
 * fortsätta arbetet med uppdraget om bostadsbyggande på statens fastigheter,
 * analysera för- och nackdelar med att införa möjlighet till krav på transportplaner i detaljplanering för nyetablering av bostäder.
 
+
 Uppdraget ska delredovisas senast den 15 december 2018 och den 15 december 2019. Frågan om krav på transportplaner ska redovisas i den delredovisning som lämnas senast den 15 december 2018.
 
 Uppdraget ska slutredovisas senast den 31 december 2020.

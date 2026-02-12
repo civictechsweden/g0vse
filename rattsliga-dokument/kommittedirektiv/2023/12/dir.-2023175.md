@@ -4,8 +4,8 @@ En särskild utredare ska se över ämnet svenska som andraspråk i syfte att ä
 
 Utredaren ska bl.a.
 
-* analysera och föreslå hur behoven hos de elever som saknar grundläggande kunskaper i svenska språket kan tillgodoses, antingen genom införande av ytterligare en kursplan för ämnet svenska som andraspråk eller genom en ny del i den befintliga kursplanen för ämnet,
-* analysera om och i så fall hur deltagande i modersmålsundervisning påverkar elevers integration, studieresultat och kunskapsutveckling i svenska språket i olika stadier och skolformer, och
+* analysera och föreslå hur behoven hos de elever som saknar grundläggande kunskaper i svenska språket kan tillgodoses, antingen genom införande av ytterligare en kursplan för ämnet svenska som andraspråk eller genom en ny del i den befintliga kursplanen för ämnet,
+* analysera om och i så fall hur deltagande i modersmålsundervisning påverkar elevers integration, studieresultat och kunskapsutveckling i svenska språket i olika stadier och skolformer, och
 * vid behov föreslå åtgärder för att säkerställa att modersmålsundervisningen inte inverkar negativt på elevers integration eller kunskapsutveckling i svenska språket.
 
 Uppdraget ska redovisas senast den 6 december 2024.

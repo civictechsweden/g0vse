@@ -1,4 +1,4 @@
-# Promemoria Särskilt tjänstekort för viss personal hos länsstyrelserna
+# Särskilt tjänstekort för viss personal hos länsstyrelserna
 
 I denna promemoria föreslås att länsstyrelserna ska få möjlighet att utfärda ett särskilt tjänstekort för fältpersonal som arbetar med tillsyn över gränsöverskridande avfallstransporter. Förslaget möjliggör ett förstärkt medarbetarskydd.
 

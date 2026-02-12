@@ -12,6 +12,8 @@ This is an event of great significance to my government’s human rights work. I
 
 Promoting and respecting universal human rights is a core value and a central priority for my Government. It is also a cornerstone of our foreign policy. We have therefore greatly welcomed the opportunity of this UPR to engage in our human rights work with interested parties. Ensuring respect for our international human rights obligations is a continuous process. Dialogue, as well as regular and constructive scrutiny, contributes to furthering the values which our society is based on.
 
+
+
 Mr President,
 
 In preparing for the review, my government consulted civil society organisations, including organisations representing indigenous peoples and national minorities, already at an early stage. Consultation meetings were held with stakeholders, both in Sweden and in Geneva. Our draft national report was posted on the Government’s human rights website, to allow the broadest possible transparency. Since the review in January, we have held a follow-up meeting with civil society. This dialogue with stakeholders will continue in the follow-up to the review.
@@ -19,6 +21,8 @@ In preparing for the review, my government consulted civil society organisations
 Throughout the process, a wide range of issues have been brought to our attention, increasing our own understanding of the human rights situation in Sweden and of our human rights work at large. In total, we received 208 recommendations and we now have accepted 154 of these.
 
 Some of the issues raised in the review in January were such that we wanted further time to allow more careful consideration after the review. We have addressed these issues in our addendum. Please allow me to mention some of them.
+
+
 
 Mr President,
 
@@ -36,11 +40,15 @@ Let me also recall that Sweden acceptsthe recommendation to adopt a national pla
 
 Some recommendations concerned the rights of the child. Concerning the ratification of the Third Optional Protocol to the Convention of the rights of the child, the issue raises several questions which need to be further analysed before it is possible for the government to take a final position. Concerning the recommendations on children in detention, my Government is currently considering appointing an Inquiry to examine some aspects of the legal framework on pre-trial detention, such as alternative measures to pre-trial detention, measures to counteract the isolation of detainees. Special attention should be given to the treatment of minors in pre-trial detention.
 
+
+
 Mr President,
 
 Some states recommended Sweden to incorporate the crime of torture as a specific criminal offense. In June 2014, the Government commissioned an independent inquiry to consider whether a specific provision on torture should be introduced in Swedish penal law. The report is due on 1 September 2015 and the Government does not want to anticipate the outcome of the inquiry. We have therefore chosen not to accept the recommendations at his point.
 
 More explanations to all the 44 recommendation that were postponed in January, are provided in the addendum.
+
+
 
 Mr President,
 

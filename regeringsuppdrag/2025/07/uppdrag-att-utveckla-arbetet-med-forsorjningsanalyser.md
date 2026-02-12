@@ -1,4 +1,4 @@
-# Uppdrag att utveckla arbetet med försörjningsanalyserDiarienummer: Fö2025/01148
+# Uppdrag att utveckla arbetet med försörjningsanalyser
 
 Regeringen ger Myndigheten för samhällsskydd och beredskap (MSB) i uppdrag dels att förbereda ett genomförande av försörjningsanalyser, dels att identifiera varor och tjänster som inte kan förväntas ingå i någon annan beredskapsmyndighets ansvarsområde. MSB och Upphandlingsmyndigheten ska också undersöka hur data från inköpssystem kan användas i
 försörjningsanalyser.

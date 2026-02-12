@@ -2,7 +2,7 @@
 
 Regeringen beviljar sedan 1993 tillstånd att sälja vissa antroposofiska medel. Regeringen föreslår nu att läkemedelslagen ändras så att bestämmelsen tas bort.
 
-Regeringen lämnar förslag om följdändringar i läkemedelslagen, lagen om receptregister, lagen  om läkemedelsförmåner m.m., lagen  om handel med läkemedel och lagen om behandling av personuppgifter i ärenden om licens för läkemedel.
+Regeringen lämnar förslag om följdändringar i läkemedelslagen, lagen om receptregister, lagen om läkemedelsförmåner m.m., lagen om handel med läkemedel och lagen om behandling av personuppgifter i ärenden om licens för läkemedel.
 
 Regeringen föreslår bland annat att läkemedelslagen ändras så att bestämmelserna om beslut om utbytbarhet ska gälla för läkemedel som har godkänts centralt inom Europeiska unionen.
 

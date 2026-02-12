@@ -5,6 +5,6 @@ I propositionen föreslås förändringar av tillämpningsområdet för trängse
 I propositionen görs vidare bedömningen att gränsen för tillämpningsområdet vid den nya stadsdelen Hagastaden bör förläggas genom den planerade Norra Stationsparken. Ett lagförslag i denna del bör dock behandlas senare, eftersom det är aktuellt att öppna gator över kommungränsen först kring 2019–2020.
 
 Lagändringarna föreslås träda i kraft den dag regeringen bestämmer.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________________________________________________
 
 Riksdagen fattade den 5 december 2013 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

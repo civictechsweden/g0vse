@@ -10,4 +10,4 @@ Jordbruksverket ska se till att Ekonomistyrningsverket får ta del av relevanta 
 
 Uppdraget ska redovisas till regeringen (Näringsdepartementet) genom en delrapport senast den 30 november 2020 och en slutrapport senast den 28 februari 2021.
 
-Ekonomistyrningsverket får för uppdraget rekvirera högst 1 000 000 kronor för 2020 och högst 300 000 kronor för 2021. Kostnaderna ska belasta anslaget 1:8 Statens jordbruksverk under utgiftsområde 23 Areella näringar, landsbygd och livsmedel.
+Ekonomistyrningsverket får för uppdraget rekvirera högst 1 000 000 kronor för 2020 och högst 300 000 kronor för 2021. Kostnaderna ska belasta anslaget 1:8 Statens jordbruksverk under utgiftsområde 23 Areella näringar, landsbygd och livsmedel.

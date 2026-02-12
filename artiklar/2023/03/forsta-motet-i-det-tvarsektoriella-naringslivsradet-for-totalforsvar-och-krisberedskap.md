@@ -10,7 +10,7 @@ Den 29 mars hölls ett möte för det näringslivsråd som ska bidra till att f�
 
 – Vi ser att det säkerhetspolitiska läget i vår omvärld har försämrats i en snabbare takt än vad förmågan i det svenska civila försvaret har vuxit under de senaste åren. Vi behöver öka vår sense of urgency, öka takten och uppmuntra lokala och regionala initiativ till samverkan mellan privata och offentliga aktörer, säger Carl-Oskar Bohlin.
 
-–  Det viktiga är att få i gång engagemanget hos näringslivet och att de får ställa sina frågor, att vi påbörjar dialogen, oavsett om det handlar om att öka robustheten, säkra drivmedel eller diskutera arbetsrättsliga frågor, säger han.
+– Det viktiga är att få i gång engagemanget hos näringslivet och att de får ställa sina frågor, att vi påbörjar dialogen, oavsett om det handlar om att öka robustheten, säkra drivmedel eller diskutera arbetsrättsliga frågor, säger han.
 
 ## Vägledning för krigsorganisation
 

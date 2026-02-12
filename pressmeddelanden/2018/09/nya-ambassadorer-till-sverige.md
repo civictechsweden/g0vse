@@ -18,11 +18,11 @@ Fyra ambassadörer överlämnade torsdagen 13 september 2018 sina kreditivbrev t
 
 är född 1969 och har en magisterexamen i bulgariska språket och litteraturen samt en doktorsexamen i teoretisk lingvistik. Han har tjänstgjort i utrikesdepartementet sedan 2000 och har de senaste åren innehaft bl.a. följande befattningar:
 
-2016 -  Enhetschef, EU:s politiska och institutionella frågor, EU-enheten, Utrikesministeriet.
+2016 - Enhetschef, EU:s politiska och institutionella frågor, EU-enheten, Utrikesministeriet.
 
-2012 – 2016  Andreman, förste ambassadsekreterare, ambassadråd, Bulgariens ambassad i London.
+2012 – 2016 Andreman, förste ambassadsekreterare, ambassadråd, Bulgariens ambassad i London.
 
-2011 – 2012  Handläggare för de nordiska länder, EU-enheten, Utrikesministeriet.
+2011 – 2012 Handläggare för de nordiska länder, EU-enheten, Utrikesministeriet.
 
 2007 – 2010 Chef för politiska avdelningen, andre ambassadsekreterare, Bulgariens ambassad i Stockholm.
 
@@ -36,7 +36,7 @@ Fyra ambassadörer överlämnade torsdagen 13 september 2018 sina kreditivbrev t
 
 är född 1959 och har en högskoleutbildning inom diplomati och internationella relationer. Han har tjänstgjort i utrikesdepartementet sedan 1979 och har de senaste åren innehaft bl.a. följande befattningar:
 
-2015 -  Ambassadör, biträdande protokollchef, Utrikesdepartementet.
+2015 - Ambassadör, biträdande protokollchef, Utrikesdepartementet.
 
 2012 – 2015 Ambassadör, enhetschef, utbildnings- planerings- och informationsavdelningen, Utrikesdepartementet.
 

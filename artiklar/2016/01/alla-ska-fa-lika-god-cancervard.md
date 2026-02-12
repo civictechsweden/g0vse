@@ -2,7 +2,7 @@
 
 "Alla ska få lika god cancervård" är budskapet i den debattartikel som sjukvårdsminister Gabriel Wikström undertecknat.
 
-I samband med överenskommelsen med Sveriges Kommuner och Landsting, SKL, om en fortsatt satsning på kortare väntetider inom cancervården för 2016 skriver Gabriel Wikström i en debarttikel:
+I samband med överenskommelsen med Sveriges Kommuner och Landsting, SKL, om en fortsatt satsning på kortare väntetider inom cancervården för 2016 skriver Gabriel Wikström i en debarttikel:
 
 - Vi vet att väntetiderna för cancervård kan variera stort, och de är på många håll allt för långa.
 

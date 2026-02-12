@@ -1,6 +1,6 @@
-# Uppdrag till Post- och telestyrelsen att motverka tillvägagångssätt där elektroniska kommunikationstjänster används för att genomföra bedrägerier.
+# Uppdrag till Post- och telestyrelsen att motverka tillvägagångssätt där elektroniska kommunikationstjänster används för att genomföra bedrägerier
 
-Regeringen ger Post- och telestyrelsen (PTS) i uppdrag att lämna förslag till åtgärder för att förhindra manipulering av telefonnummer, s.k. spoofing, och andra tillvägagångssätt där elektroniska kommunikationstjänster används för att genomföra bedrägerier.
+Regeringen ger Post- och telestyrelsen (PTS) i uppdrag att lämna förslag till åtgärder för att förhindra manipulering av telefonnummer, s.k. spoofing, och andra tillvägagångssätt där elektroniska kommunikationstjänster används för att genomföra bedrägerier.
 
 PTS ska, utifrån myndighetens kunskap och ansvar inom området för
 elektronisk kommunikation,

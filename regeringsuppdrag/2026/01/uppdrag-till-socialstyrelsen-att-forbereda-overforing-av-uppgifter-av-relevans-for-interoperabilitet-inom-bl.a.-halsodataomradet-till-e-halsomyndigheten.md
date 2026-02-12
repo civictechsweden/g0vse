@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att förbereda överföring av uppgifter av relevans för interoperabilitet inom bl.a. hälsodataområdet till E-hälsomyndighetenDiarienummer:  S2026/00013
+# Uppdrag till Socialstyrelsen att förbereda överföring av uppgifter av relevans för interoperabilitet inom bl.a. hälsodataområdet till E-hälsomyndigheten
 
 Regeringen uppdrar åt Socialstyrelsen att förbereda för att till den 1 juni 2026 föra över vissa uppgifter till E-hälsomyndigheten. De uppgifter som omfattas är bland annat att skapa och tillhandahålla terminologier och klassifikationer samt en ändamålsenlig informationsstruktur inom hälso- och sjukvård, tandvård, socialtjänst och verksamhet enligt lagen om stöd och service till vissa funktionshindrade, LSS.
 

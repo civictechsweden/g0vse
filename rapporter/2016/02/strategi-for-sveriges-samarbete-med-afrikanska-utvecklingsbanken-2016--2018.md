@@ -1,6 +1,6 @@
 # Strategi för Sveriges samarbete med Afrikanska utvecklingsbanken 2016–2018
 
-![](/contentassets/aa9e07191cbd4005b060ff22b496b705/strategi-for-sveriges-samarbete-med-afrikanska-utvecklingsbanken-20162018-omslag_150/?width=150&quality=85)
+![](/contentassets/aa9e07191cbd4005b060ff22b496b705/strategi-for-sveriges-samarbete-med-afrikanska-utvecklingsbanken-20162018-omslag_150/?width=150&amp;quality=85)
 
 Denna strategi ligger till grund för Sveriges samarbete med Afrikanska utvecklingsbanken (AfDB) under åren 2016-2018. Strategin ska också vägleda svenska positioner i förhandlingarna om den fjortonde påfyllnaden av Afrikanska utvecklingsfonden (AfDF14) som pågår under en stor del av 2016.
 

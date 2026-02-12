@@ -4,7 +4,7 @@ EU-ländernas jordbruksministrar har under en längre period förhandlat om en r
 
 ## EU:s gemensamma jordbrukspolitik
 
-Efter att ha stått alltför långt ifrån varandra på det senaste mötet i maj, kunde ministerrådet och Europaparlamentet  nu nå en överenskommelse om EU:s gemensamma jordbrukspolitik, CAP, för åren 2023 – 2027.
+Efter att ha stått alltför långt ifrån varandra på det senaste mötet i maj, kunde ministerrådet och Europaparlamentet nu nå en överenskommelse om EU:s gemensamma jordbrukspolitik, CAP, för åren 2023 – 2027.
 
 Överenskommelsen betyder att ministerrådet och parlamentet nu står bakom CAP-reformens tre förordningar:
 
@@ -26,7 +26,7 @@ EU-kommissionen presenterade sin årliga lägesbeskrivning av genomförandet av 
 
 ## Fiskerikontroll
 
-Ministrarna fattade beslut om revision av regler för EU:s fiskerikontroll. Det handlar bland annat om teknisk modernisering av kontrollen och att förbättra att regler efterlevs och att målen för EU:s gemensamma fiskeripolitik nås. Beslutet handlar bland annat om spårbarhet vid försäljning och lagring av data, rapportering av fritidsfiske i havet och harmonisering av kriterier för överträdelser.
+Ministrarna fattade beslut om revision av regler för EU:s fiskerikontroll. Det handlar bland annat om teknisk modernisering av kontrollen och att förbättra att regler efterlevs och att målen för EU:s gemensamma fiskeripolitik nås. Beslutet handlar bland annat om spårbarhet vid försäljning och lagring av data, rapportering av fritidsfiske i havet och harmonisering av kriterier för överträdelser.
 
 ## Informationspunkter om fiske
 

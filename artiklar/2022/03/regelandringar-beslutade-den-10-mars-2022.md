@@ -23,11 +23,11 @@ De nya bestämmelserna träder i kraft den 1 maj 2022.
 
 ## Upphävande av Kemikalieinspektionens föreskrifter
 
-Regeringen har beslutat om upphävande av Kemikalieinspektionens föreskrifter (KIFS 2005:7) om klassificering och märkning av kemiska produkter och föreskrifter (KIFS 2008:3) om bekämpningsmedel. Kemikalieinspektionen kan inte upphäva föreskrifterna eftersom myndigheten saknar bemyndigande för vissa frågor som regleras i föreskrifterna.
+Regeringen har beslutat om upphävande av Kemikalieinspektionens föreskrifter (KIFS 2005:7) om klassificering och märkning av kemiska produkter och föreskrifter (KIFS 2008:3) om bekämpningsmedel. Kemikalieinspektionen kan inte upphäva föreskrifterna eftersom myndigheten saknar bemyndigande för vissa frågor som regleras i föreskrifterna.
 
 KIFS 2005:7 genomför två EU-direktiv som har upphävts. Regler om klassificering och märkning av kemiska produkter finns nu i förordning (EG) nr 1272/2008 om klassificering, märkning och förpackning av ämnen och blandningar, den så kallade CLP-förordningen. KIFS 2005:7 upphävs därför.
 
-Kemikalieinspektionen arbetar med att ta fram nya föreskrifter som ska ersätta KIFS 2008:3, varför även KIFS 2008:3 upphävs så att de upphör att gälla när de nya föreskrifterna träder i kraft.
+Kemikalieinspektionen arbetar med att ta fram nya föreskrifter som ska ersätta KIFS 2008:3, varför även KIFS 2008:3 upphävs så att de upphör att gälla när de nya föreskrifterna träder i kraft.
 
 Föreskrifterna upphör att gälla den 1 maj 2022.
 
@@ -40,7 +40,7 @@ Förordningarna kommer att publiceras i Kemikalieinspektionens författningssaml
 
 ## Ändring av övergångsbestämmelse till förordningen om ansvar och ersättning vid radiologiska olyckor
 
-Regeringen har beslutat om ändring i en övergångsbestämmelse till förordningen om ansvar och ersättning vid radiologiska olyckor. Strålsäkerhetsmyndigheten ska enligt övergångsbestämmelsen första gången lämna över en ansökan om lägre ansvarsbelopp tillsammans med ett eget yttrande till regeringen senast den 1 april 2022. Datumet ändras i och med regeringsbeslutet till den 1 maj 2023.
+Regeringen har beslutat om ändring i en övergångsbestämmelse till förordningen om ansvar och ersättning vid radiologiska olyckor. Strålsäkerhetsmyndigheten ska enligt övergångsbestämmelsen första gången lämna över en ansökan om lägre ansvarsbelopp tillsammans med ett eget yttrande till regeringen senast den 1 april 2022. Datumet ändras i och med regeringsbeslutet till den 1 maj 2023.
 
 **Referenser:**
 
@@ -48,7 +48,7 @@ Regeringen har beslutat om ändring i en övergångsbestämmelse till förordnin
 
 ### Mer information
 
-Författningarna blir offentliga när de publicerats på webbplatsen [www.svenskforfattningssamling.se](https://www.svenskforfattningssamling.se/) eller vad gäller upphävande av Kemikalieinspektionens föreskrifter när de publicerats på Kemikalieinspektionens webbplats [Kemikalieinspektionens föreskrifter (KIFS) – Kemikalieinspektionen](http://Kemikalieinspektionens föreskrifter (KIFS) – Kemikalieinspektionen).
+Författningarna blir offentliga när de publicerats på webbplatsen [www.svenskforfattningssamling.se](https://www.svenskforfattningssamling.se/) eller vad gäller upphävande av Kemikalieinspektionens föreskrifter när de publicerats på Kemikalieinspektionens webbplats [Kemikalieinspektionens föreskrifter (KIFS) – Kemikalieinspektionen](<http://Kemikalieinspektionens föreskrifter (KIFS) – Kemikalieinspektionen>).
 
 ### Kontaktpersoner
 

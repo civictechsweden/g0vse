@@ -1,4 +1,4 @@
-# Uppdrag om ett nationellt sammanhållet stöd till arbetet med avhoppareDiarienummer: Ju2025/01696
+# Uppdrag om ett nationellt sammanhållet stöd till arbetet med avhoppare
 
 Regeringen ger Polismyndigheten, Kriminalvården, Socialstyrelsen och Statens institutionsstyrelse i uppdrag att tillhandahålla ett nationellt sammanhållet stöd till arbetet med avhoppare från organiserad brottslighet.
 
@@ -8,11 +8,11 @@ brottslighet.
 Därutöver ska:
 
 * Polismyndigheten inrätta en nationell kontaktpunkt för
-  avhopparverksamhet.
+avhopparverksamhet.
 * Socialstyrelsen verka för att stödet till avhoppare utvecklas utifrån
-  avhoppares vårdbehov. I arbetet ska myndigheten beakta
-  länsstyrelsernas roll i avhoppararbetet.
+avhoppares vårdbehov. I arbetet ska myndigheten beakta
+länsstyrelsernas roll i avhoppararbetet.
 * Socialstyrelsen stödja kommuners arbete med boendeinsatser till
-  avhoppare.
+avhoppare.
 
 Myndigheterna ska gemensamt delredovisa uppdraget till Regeringskansliet (Justitiedepartementet med kopia till Socialdepartementet) senast den 1 mars 2026 och den 1 mars 2027.

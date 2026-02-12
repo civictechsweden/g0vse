@@ -6,5 +6,5 @@ den terminologi som införs genom förslaget till den nya skatteförfarandelagen
 De förslag som lämnas i propositionen är i sig inte avsedda att medföra några ändringar i sak.
 
 Lagändringarna föreslås träda i kraft den 1 januari 2012.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_________________________________________________________
 Riksdagen fattade den 17 november 2011 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

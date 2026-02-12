@@ -2,10 +2,24 @@
 
 Med stöd av detta bemyndigande förordnandes den 19 juli 2021 följande personer att ingå i kommittén:
 
-Helena Jäderblom, justitieråd                                       ordförande
+Helena Jäderblom, justitieråd ordförande
 
-Pål Wrange, professor                                                    ledamot
+Pål Wrange, professor ledamot
 
-Ulrika Cronenberg Mossberg, civilekonom                 ledamot
+Ulrika Cronenberg Mossberg, civilekonom ledamot
+
+
+
+Som sekreterare i kommittén anställs justitiesekreterare Esin Tubluk samt som biträdande sekreterare ambassadör Barbro Elm.
+
+Med stöd av detta bemyndigande förordnandes den 19 juli 2021 följande personer att ingå i kommittén:
+
+Helena Jäderblom, justitieråd ordförande
+
+Pål Wrange, professor ledamot
+
+Ulrika Cronenberg Mossberg, civilekonom ledamot
+
+
 
 Som sekreterare i kommittén anställs justitiesekreterare Esin Tubluk samt som biträdande sekreterare ambassadör Barbro Elm.

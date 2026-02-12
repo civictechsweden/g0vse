@@ -1,4 +1,4 @@
-# Tillståndsprövning enligt förnybartdirektivetKN2025/02315
+# Tillståndsprövning enligt förnybartdirektivet
 
 I lagrådsremissen föreslås lagändringar som krävs för att genomföra bestämmelserna om tillståndsförfaranden i EU:s direktiv om förnybar energi. Ändringarna görs i miljöbalken, plan- och bygglagen och ett antal sektorslagar, bl.a. ellagen.
 

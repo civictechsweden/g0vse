@@ -5,15 +5,15 @@ En särskild utredare ska föreslå hur arbetsrätten kan moderniseras och anpas
 Utredaren ska
 
 * utarbeta författningsförslag för tydligt utökade undantag
-  från turordningsreglerna,
+från turordningsreglerna,
 * utarbeta författningsförslag för att inom ramen för
-  anställningen stärka arbetsgivarens ansvar för kompetensutveckling och anställdas omställningsförmåga,
+anställningen stärka arbetsgivarens ansvar för kompetensutveckling och anställdas omställningsförmåga,
 * utarbeta författningsförslag som särskilt för mindre företag
-  innebär lägre kostnader vid uppsägningar, samtidigt som
-  rättssäkerhet och skydd mot godtycke upprätthålls, och
+innebär lägre kostnader vid uppsägningar, samtidigt som
+rättssäkerhet och skydd mot godtycke upprätthålls, och
 * överväga författningsförslag i syfte att skapa en bättre
-  balans i anställningsskyddet för personal med olika
-  anställningsvillkor.
+balans i anställningsskyddet för personal med olika
+anställningsvillkor.
 
 Utredaren ska i dessa frågor och generellt särskilt beakta mindre
 företags behov av flexibilitet. Utredaren ska ha den svenska

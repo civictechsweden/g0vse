@@ -4,6 +4,6 @@ I propositionen föreslås att regeringen bemyndigas att öka den svenska kapita
 
 Det föreslås också att regeringen bemyndigas att för Sveriges del godkänna en föreslagen ändring av IMF:s stadga som innebär att alla representanter i institutionens exekutivstyrelse ska tillsättas genom val.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+________________________________________________________
 
 Riksdagen fattade den 24 november 2011 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

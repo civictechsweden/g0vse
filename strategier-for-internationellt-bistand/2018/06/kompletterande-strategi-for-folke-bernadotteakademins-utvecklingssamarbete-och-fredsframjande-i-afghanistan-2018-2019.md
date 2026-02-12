@@ -1,6 +1,6 @@
 # Kompletterande strategi för Folke Bernadotteakademins Utvecklingssamarbete och fredsfrämjande i Afghanistan 2018-2019
 
-![](/contentassets/8d6ccc3306614c6da5b92d40826a1c09/strategi-150.jpg?width=150&quality=85)
+![](/contentassets/8d6ccc3306614c6da5b92d40826a1c09/strategi-150.jpg?width=150&amp;quality=85)
 
 Folke Bernadotteakademins (FBA) uppdrag inom ramen för denna strategi ska
 komplettera resultatstratregin för Sveriges utvecklingssamarbete med Afghanistan
@@ -10,7 +10,7 @@ samhällsutveckling i Afghanistan.
 Afghanistan är ett av världens fattigaste länder, nästan 40 procent av befolkningen lever i extrem fattigdom. Landet har de senaste 40 åren präglats av väpnade konflikter. Det allvarliga säkerhetsläget påverkar alla aspekter av afghanernas liv och utgör hinder för en hållbar utveckling i enlighet med Agenda 2030.
 
 Många av grundorsakerna till konflikterna finns på lokal nivå, relaterade
-till fördelning av makt och resurser, i kombination med ett svagt rättsväsende och polis. Afghanistans regering verkar för  fredsansträngningar som är afghanskledda och ägda, vilket stöds av
+till fördelning av makt och resurser, i kombination med ett svagt rättsväsende och polis. Afghanistans regering verkar för fredsansträngningar som är afghanskledda och ägda, vilket stöds av
 det internationella samfundet. Regionala motsättningar, korruption, organiserad brottslighet och stöd till väpnade grupperingar underminerar fredsansträngningar. Det finns en rad afghanska, internationella och regionala initiativ som på olika sätt skulle kunna bidra till en framtida fredsprocess i Afghanistan.
 
 Afghanistan saknar en enad civilsamhällesrörelse för fred, liksom en

@@ -1,4 +1,4 @@
-# Det skatterättsliga företrädaransvaret – nya regler om befrielse och rådrumProp. 2025/26:52
+# Det skatterättsliga företrädaransvaret – nya regler om befrielse och rådrum
 
 I propositionen föreslås ändringar i reglerna om företrädaransvar i skatteförfarandelagen (2011:1244).
 

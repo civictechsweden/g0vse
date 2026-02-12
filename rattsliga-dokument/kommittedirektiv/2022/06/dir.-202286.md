@@ -5,11 +5,11 @@ Regeringen ger en särskild utredare i uppdrag att utreda och lämna förslag ti
 Utredaren ska bland annat:
 
 * lämna förslag på hur det förebyggande arbetet mot våldsdåd i
-  skolväsendet kan stärkas genom såväl nationella som lokala åtgärder,
+skolväsendet kan stärkas genom såväl nationella som lokala åtgärder,
 * föreslå en lämplig organisering av lokala eller regionala operativa
-  samverkansorgan,
+samverkansorgan,
 * analysera och ta ställning till om det behöver finnas en möjlighet för
-  personalen vid en skola, förskola eller fritidshem att i vissa situationer få genomföra kroppsvisitation av barn, elever och andra personer,
+personalen vid en skola, förskola eller fritidshem att i vissa situationer få genomföra kroppsvisitation av barn, elever och andra personer,
 * lämna förslag på åtgärder för att stärka beredskap och kompetens att hantera våldssituationer, och
 * lämna nödvändiga författningsförslag.
 

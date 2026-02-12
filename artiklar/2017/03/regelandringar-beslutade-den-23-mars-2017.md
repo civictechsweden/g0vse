@@ -23,5 +23,6 @@ Regeringen har beslutat att ge Kemikalieinspektionen ett tydligt uppdrag att bed
 
 Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 4 april 2017.
 
-**Kontaktpersoner**Solarier: Johan Pettersson 08-405 82 41
+**Kontaktpersoner**
+Solarier: Johan Pettersson 08-405 82 41
 Kemikalieinspektionen: Kristina Börjevik Kovaniemi 08-405 56 74

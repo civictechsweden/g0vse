@@ -20,7 +20,7 @@ Presidenten tar sedan emot kungen för ett bilateralt samtal, i vilket utrikesmi
 
 ### Namngivningsceremoni Botaniska trädgården
 
-Kungaparet deltar vid en namngivningsceremoni i Botaniska trädgården. Enligt singaporiansk tradition tas en särskild hybridorkidé fram som ges namn efter högnivåbesökarna.  Utrikesministern, infrastrukturministern och statssekreterarna närvarar vid ceremonin. Singapore Botanic Gardens är en 165 år gammal tropisk trädgård som ligger i utkanten av shoppingdistriktet Orchard Road. Det är en av tre trädgårdar, och den enda tropiska trädgården, som är upptagen på Unescos världsarvslista.
+Kungaparet deltar vid en namngivningsceremoni i Botaniska trädgården. Enligt singaporiansk tradition tas en särskild hybridorkidé fram som ges namn efter högnivåbesökarna. Utrikesministern, infrastrukturministern och statssekreterarna närvarar vid ceremonin. Singapore Botanic Gardens är en 165 år gammal tropisk trädgård som ligger i utkanten av shoppingdistriktet Orchard Road. Det är en av tre trädgårdar, och den enda tropiska trädgården, som är upptagen på Unescos världsarvslista.
 [Singapore Botanic Gardens](https://www.nparks.gov.sg/SBG "Singapore Botanic Gardens")
 
 ### Lunch

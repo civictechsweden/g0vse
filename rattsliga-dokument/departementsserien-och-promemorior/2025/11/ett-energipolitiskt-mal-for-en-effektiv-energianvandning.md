@@ -1,4 +1,4 @@
-# Ett energipolitiskt mål för en effektiv energianvändningKN2025/02031
+# Ett energipolitiskt mål för en effektiv energianvändning
 
 I den energipolitiska inriktningspropositionen (prop. 2023/24:105) framgår att regeringens långsiktiga inriktning för energipolitiken är att upprätthålla god konkurrenskraft och välfärd, möta samhällets behov av el och samtidigt säkerställa en god försörjningstrygghet samt att bidra till att nå klimatmålen genom en betydande elektrifiering.
 

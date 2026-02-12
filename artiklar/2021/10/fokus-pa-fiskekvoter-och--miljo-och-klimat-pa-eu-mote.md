@@ -52,7 +52,7 @@ Förslagen i Fit for 55 syftar till att genomföra EU:s skärpta klimatmål för
 
 Flera av de 13 förslagen i Fit for 55 kommer att påverka EU:s jord- och skogsbruk.
 
-Regeringen välkomnar den ökade ambitionsnivån för att minska utsläppen av växthusgaser och framhåller att 2030-målet huvudsakligen ska uppnås genom utfasning av fossila bränslen.
+Regeringen välkomnar den ökade ambitionsnivån för att minska utsläppen av växthusgaser och framhåller att 2030-målet huvudsakligen ska uppnås genom utfasning av fossila bränslen.
 
 Regeringen delar EU-kommissionens bedömning att minskad så kallad kolsänka inom EU behöver motverkas för att nå det långsiktiga klimatneutralitetsmålet. Samtliga EU-medlemmar bör därför bidra till en bibehållen eller ökad kolsänka utifrån sin potential och på ett samhällsekonomiskt effektivt sätt.
 

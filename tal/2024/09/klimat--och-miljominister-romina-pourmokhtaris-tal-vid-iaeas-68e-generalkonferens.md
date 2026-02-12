@@ -26,7 +26,7 @@ Rapidly expanding nuclear power globally is a key tool to avert the climate cris
 
 Mr. President,
 
-The Russian Federation’s war of aggression against Ukraine continues to cause immense suffering. Russia is waging war against one nation, Ukraine, but it violates the rules of international law that underpins the security of all of us.  These violations are further aggravated by the fact that Russia is a nuclear-weapon state, a permanent member of the UN Security Council and a designated member of the IAEA Board.
+The Russian Federation’s war of aggression against Ukraine continues to cause immense suffering. Russia is waging war against one nation, Ukraine, but it violates the rules of international law that underpins the security of all of us. These violations are further aggravated by the fact that Russia is a nuclear-weapon state, a permanent member of the UN Security Council and a designated member of the IAEA Board.
 
 Since Russia launched its full-scale invasion, there have been countless breaches of the Agency’s seven indispensable pillars of nuclear safety and security in armed conflict. The only sustainable way to end this situation is for Russia to implement the resolutions of the General Conference and the Board, return control of Ukraine’s nuclear facilities to the rightful owner and end its brutal war of aggression.
 
@@ -42,7 +42,7 @@ Mr President,
 
 Iran’s escalating nuclear trajectory has led to a rapid deterioration of the situation and questions regarding Iran’s intentions. Meanwhile, since early 2021, Iran has limited the Agency’s verification authority to the bare minimum under its NPT safeguards agreement. Moreover, Iran has failed to provide technically credible explanations regarding the outstanding safeguards issues.
 
-Sweden reiterates its call on Iran to reverse this dangerous course, to reengage diplomatically  in a meaningful way and to provide the Agency with the verification authority it needs to verify the correctness and completeness of Iran’s declarations and draw soundly based safeguards conclusions. An indispensable step towards restoring confidence is the resumption of the Additional Protocol.
+Sweden reiterates its call on Iran to reverse this dangerous course, to reengage diplomatically in a meaningful way and to provide the Agency with the verification authority it needs to verify the correctness and completeness of Iran’s declarations and draw soundly based safeguards conclusions. An indispensable step towards restoring confidence is the resumption of the Additional Protocol.
 
 Sweden appreciates the Agency’s professional, impartial and objective verification in Iran, and has made a further extrabudgetary contribution of 2 million Swedish Kronor to support that work.
 
@@ -66,6 +66,6 @@ Sweden fully supports the Agency’s work to enlarge the contribution of nuclear
 
 Sweden is looking forward to an even more active collaboration with the Agency in the coming years. In Sweden’s view, nuclear power is of special importance as it offers humanity a glimpse of hope in a dire situation of escalating climate change. We must now pace up the expansion of nuclear power globally in order to achieve the climate goals.
 
-In this transformation, the Agency has a fundamental role to play in keeping safety standards up to date, and in assisting  interested Member States build the competence and necessary nuclear safety, security and safeguards infrastructures they need to adapt and utilize nuclear power for a fossil-free future.
+In this transformation, the Agency has a fundamental role to play in keeping safety standards up to date, and in assisting interested Member States build the competence and necessary nuclear safety, security and safeguards infrastructures they need to adapt and utilize nuclear power for a fossil-free future.
 
 Thank you Mr President!

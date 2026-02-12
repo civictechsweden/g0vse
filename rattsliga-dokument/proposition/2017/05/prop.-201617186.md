@@ -1,4 +1,4 @@
-# Fortsatt giltighet av en tidsbegränsad bestämmelse i inhämtningslagenProp. 2016/17:186
+# Fortsatt giltighet av en tidsbegränsad bestämmelse i inhämtningslagen
 
 Inhämtningslagen reglerar förutsättningarna för de brottsbekämpande
 myndigheterna att hämta in övervakningsuppgifter om elektronisk

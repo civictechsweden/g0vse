@@ -1,4 +1,4 @@
-# Uppdrag till Folkhälsomyndigheten att ta fram en vägledning för genomförande av hälsokontroll och uppföljande smittskyddsåtgärder vid inresa till SverigeDiarienummer:  S2025/01481
+# Uppdrag till Folkhälsomyndigheten att ta fram en vägledning för genomförande av hälsokontroll och uppföljande smittskyddsåtgärder vid inresa till Sverige
 
 Regeringen uppdrar åt Folkhälsomyndigheten att ta fram en vägledning för att genomföra hälsokontroller och följa upp smittskyddsåtgärder. Detta när man misstänker att det förekommer samhällsfarlig sjukdom enligt smittskyddslagen vid inresa till Sverige. Vägledningen ska främst rikta sig till regionernas smittskyddsläkare, utförare av hälsokontroller, samt regioner.
 

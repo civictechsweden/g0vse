@@ -16,7 +16,7 @@ Dessa dryga tre miljarder kronor är förstås inte allt. Utöver de nya satsnin
 
 Häng med så ska jag berätta mer!
 
-Ja, vår hälso- och sjukvård håller en god kvalitet och har högt förtroende, men det finns flera utmaningar. Regionerna som enligt lag har ansvar för sjukvård, har haft tuffa år till följd av inflationen. Detta eftersom regionernas pensionsavtal räknas upp med inflationen och att den varit hög, det vet varje hushåll och företag om. Regionerna har alltså också påverkats av inflationen. I år har deras kostnader för pensionerna ökat med mer än 9 % pga inflationen. Regeringen har därför gett ett särskilt stöd till regionerna i år om sammanlagt nio miljarder kronor i syfte att minska risken för uppsägning av vårdpersonal. Även om inflationen nu gått ner till normala nivåer så förlänger regeringen det tillfälliga sektorsbidraget    och föreslår avsätta 2 miljarder kronor även nästa år.
+Ja, vår hälso- och sjukvård håller en god kvalitet och har högt förtroende, men det finns flera utmaningar. Regionerna som enligt lag har ansvar för sjukvård, har haft tuffa år till följd av inflationen. Detta eftersom regionernas pensionsavtal räknas upp med inflationen och att den varit hög, det vet varje hushåll och företag om. Regionerna har alltså också påverkats av inflationen. I år har deras kostnader för pensionerna ökat med mer än 9 % pga inflationen. Regeringen har därför gett ett särskilt stöd till regionerna i år om sammanlagt nio miljarder kronor i syfte att minska risken för uppsägning av vårdpersonal. Även om inflationen nu gått ner till normala nivåer så förlänger regeringen det tillfälliga sektorsbidraget och föreslår avsätta 2 miljarder kronor även nästa år.
 
 Anslaget för ett fortsatt arbete med att öka tillgängligheten genom att korta vårdköer och väntetider samt öka vårdens kapacitet och antalet vårdplatser – det ökas med 2,5 miljarder kronor under 2025. För nästa år innebär det att satsningen uppgår till totalt 7,5 miljarder. Pengar som regionerna behöver för att kunna öka vårdkapaciteten och korta köerna. Förbättrad arbetsmiljö och förbättrad kompetensförsörjning är avgörande för att lyckas med det.
 
@@ -39,7 +39,7 @@ Så där har vi det, nio korta punkter om de viktiga medel som regeringen föres
 Jag vill säga också några ord om läkemedelsförmånerna som skyddar patienten mot höga kostnader vid inköp av läkemedel. God och jämlik läkemedelstillgång är en central del av en välfungerande hälso- och sjukvård. Samtidigt har kostnaderna för läkemedel inom läkemedelsförmånen ökat kraftigt de senaste åren, och prognoser visar på ytterligare snabbt ökande kostnader. Därför föreslår regeringen flera åtgärder för att säkerställa långsiktigt hållbara kostnader inom läkemedelsförmånen, och för att kostnader och risker delas mellan staten, regioner, företag och patienter. Därigenom säkerställs en långsiktigt hållbar läkemedelsförsörjning. För 2025 föreslås anslaget för läkemedelsförmånerna uppgå till 41 miljarder kronor.
 
 För 2025 uppgår de anslag jag ansvarar för till drygt 64 miljarder kronor.
- Förslagen i budgetpropositionen för 2025 bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
+Förslagen i budgetpropositionen för 2025 bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 Om ni är intresserade av fler detaljer hittar ni hela budgetpropositionen på regeringens webbplats.
 

@@ -24,7 +24,7 @@ Precis som Ukraina vill vi se en rättvis och hållbar fred som bygger på folkr
 
 Sverige står upp för FN-stadgan och dess principer oavsett geografi. Det var ett genomgående tema i mina samtal i New York i september. Det handlar om respekt för folkrättens regler i konflikter, men också om stöd för grundläggande normer i FN:s och medlemsländers vardag – i sjöfarten, handelssystemen, i vardagens arbete för demokrati, mänskliga rättigheter och jämställdhet.
 
-\*\*\*
+***
 
 Världen befinner sig i ett läge idag där flera negativa trender ömsesidigt förstärker varandra.
 
@@ -46,7 +46,7 @@ Enkelt uttryckt måste vårt fria samhälle stå upp mot dem som vill utnyttja v
 
 Men detta arbete behöver också ske på global nivå. Sverige stödjer FN:s befolkningsfond UNFPA, som är FN:s främsta organ för att främja sexuell och reproduktiv hälsa och rättigheter. Vi stödjer också UN Women, som levererar starka resultat i rollen som samordnare i FN-systemet på jämställdhetsområdet. Glädjande nog väntas Sverige bli ordförande för UN Womens styrelse nästa år. Vi tar oss an den rollen under ett viktigt år, då Pekingplattformen, den globala handlingsplanen för jämställdhet, fyller 30 år.
 
-\*\*\*
+***
 
 FN gör ett oräkneligt antal livsviktiga insatser – ibland synliga, men ofta under radarn. Genom sina institutioner, fonder och program bidrar FN till stabilitet, utveckling och respekt för mänskliga rättigheter runt om i världen.
 
@@ -68,7 +68,7 @@ Halva befolkningen – cirka 25 miljoner människor – är i behov av humanitä
 
 Sudan fick stor uppmärksamhet vid generalförsamlingens möten under högnivåveckan i september, och Sudans befolkning är Sveriges största mottagare av humanitärt stöd i år. En stor del av det här stödet kanaliseras via FN:s olika program för att hjälpa det sudanesiska folket och stödja de mest utsatta.
 
-\*\*\*
+***
 
 Sverige tillhör, trots vårt lands storlek, gruppen av större givare till FN-systemet. Svenskt stöd till FN är inte okritiskt inför dess brister. Just för att vi är en vän av FN-systemet ställer vi också krav och riktar kritik när det behövs.
 
@@ -92,7 +92,7 @@ Regeringen ser framför allt goda möjligheter att stärka genomförandet av Age
 
 Framtidspakten tar också upp klimatfrågan, som snart ska behandlas vid klimattoppmötet i Baku. Hur kan vi motverka, begränsa och hantera klimatförändringarna, och hur kan vi bistå de mest sårbara länderna i det här arbetet? De frågorna kommer även i fortsättningen att vara på tapeten. FN-avtal som Parisavtalet är hörnstenar i det globala klimatarbetet, och Sverige vill se ett ambitiöst genomförande och en ökad takt.
 
-\*\*\*
+***
 
 Den globala arkitekturen för rustningskontroll, nedrustning och icke-spridning är också under stark press i den här oroliga tiden. Utifrån detta dystra läge får det ändå ses som positivt att medlemsländerna i Framtidspakten återigen bekräftar sina nedrustningsåtaganden och målsättningen om en kärnvapenfri värld.
 

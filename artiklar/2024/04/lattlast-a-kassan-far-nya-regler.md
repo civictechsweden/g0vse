@@ -7,7 +7,7 @@ Det kommer bli mindre administration när man söker a-kassa.
 Fler kommer att kunna få ersättning med de nya reglerna.
 
 A-kassan ska kunna få sådana uppgifter om din lön som har
-lämnats till Skatteverket.
+lämnats till Skatteverket.
 Då minskar risken för felaktiga utbetalningar.
 
 Ersättningen beräknas sedan månadsvis.

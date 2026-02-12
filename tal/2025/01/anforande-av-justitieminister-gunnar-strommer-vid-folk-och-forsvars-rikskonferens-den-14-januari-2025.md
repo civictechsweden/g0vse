@@ -10,7 +10,7 @@ Ers majestät.
 
 Mina damer och herrar.
 
-\*\*\*
+***
 
 I höstas stod jag i självscanningen på Ikea i Kungens kurva i Stockholm. Jag skulle precis blippa in mina varor när jag mötte en blick på andra sidan disken. Ett par ögon som jag hade sett förut, och som jag visste hade sett alldeles för mycket av vad våldet i vårt samhälle har för pris.
 
@@ -26,7 +26,7 @@ Men vi tappade alltså en poäng. Och det motiverades med – och nu citerar jag
 
 Statens förmåga att skydda sina medborgare mot våld är alltså en kritisk demokratifråga. Det handlar om att värna enskilda människors rättigheter och därmed vårt fria och öppna samhälle.
 
-\*\*\*
+***
 
 När vi nu blickar in i ett nytt år, hanterar vi fortsatt tre parallella hot mot Sveriges inre säkerhet: terrorism och våldsbejakande extremism, statliga aktörer och den organiserade brottsligheten.
 
@@ -38,7 +38,7 @@ Iran rekryterar utförare i de svenska gängen, och skickar SMS till tusentals s
 
 Alla de här hoten representerar en ny verklighet – och vi måste möta dem innovativt, kraftfullt och tillsammans.
 
-\*\*\*
+***
 
 I förra veckan presenterade polisen sin statistik över skjutvapenvåldet från förra året. Och den visar att förändring trots allt är möjlig.
 
@@ -58,7 +58,7 @@ Till bilden hör också att ungefär 600 svenska kriminella gömmer sig i utland
 
 I New York och Danmark tog det ungefär tio år att ta tillbaka kontrollen från gängen. Sverige är nu lite mer än två år in på sin tioårsresa, och vi kommer inte slå av på takten.
 
-\*\*\*
+***
 
 Vi befinner oss alltså i en verklighet där de inre och yttre hoten flätas samman och förstärker varandra. Där konflikter i utlandet utspelar sig på svensk mark.
 
@@ -100,7 +100,7 @@ Vi har därför satt i gång en utredning för att ge Säkerhetspolisen utrymme 
 
 AI innebär utan tvivel möjligheter för de kriminella. Men det ger också oss på den goda sidan nya möjligheter att möta olika hot. Ett konkret exempel är att vi nu ska se till att polisen får möjlighet att använda ansiktsigenkänning i vissa fall.
 
-\*\*\*
+***
 
 Jag vill gärna avsluta där jag började, i kön till självscanningen på Ikea. Och tankarna på alla offer för våld och extremism i vårt samhälle.
 

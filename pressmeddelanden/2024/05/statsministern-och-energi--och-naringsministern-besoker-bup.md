@@ -3,3 +3,7 @@
 Media är välkomna att närvara under besöket i mån av plats. Obligatorisk föranmälan till Hanna Strömberg.
 
 För mer information och ackreditering, kontakta Hanna Strömberg.
+
+Media är välkomna att närvara under besöket i mån av plats. Obligatorisk föranmälan till Hanna Strömberg.
+
+För mer information och ackreditering, kontakta Hanna Strömberg.

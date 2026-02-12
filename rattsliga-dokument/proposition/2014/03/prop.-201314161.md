@@ -9,5 +9,5 @@ De bestämmelser som reglerar skyldigheten att lämna uppgifter till Riksbanken 
 Uppgifter som behövs för Riksbankens och Finansinspektionens övervakning av och tillsyn över finansmarknaderna ska få behandlas i en gemensam databas hos Statistiska centralbyrån. Riksbanken och Finansinspektionen ska ha direktåtkomst till uppgifterna i databasen. Uppgifterna i databasen ska omfattas av sekretess motsvarande den som gäller när uppgifterna förekommer i Riksbankens eller Finansinspektionens verksamhet (tillsynssekretess).
 
 Lagförslagen föreslås träda i kraft den 1 augusti 2014.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+___________________________________________________________________
 Riksdagen fattade den 28 maj 2014 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

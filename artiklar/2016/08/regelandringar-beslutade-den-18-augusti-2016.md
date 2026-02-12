@@ -24,7 +24,7 @@ Förordningarna träder i kraft den 1 oktober 2016.
 
 ### Referenser
 
-* Europaparlamentets och rådets förordning (EU) nr 511/2014 av den 16 april 2014 om åtgärder för användarnas efterlevnad i Nagoyaprotokollet om tillträde till och rimlig och rättvis fördelning av vinster från utnyttjande av genetiska resurser i unionen
+* Europaparlamentets och rådets förordning (EU) nr 511/2014 av den 16 april 2014 om åtgärder för användarnas efterlevnad i Nagoyaprotokollet om tillträde till och rimlig och rättvis fördelning av vinster från utnyttjande av genetiska resurser i unionen
 * regeringens proposition Nagoyaprotokollet om användning av genetiska resurser (prop. 2015/16:161)
 * miljö- och jordbruksutskottets betänkande 2015/16:MJU21 Nagoyaprotokollet om användning av genetiska resurser
 * riksdagsskrivelse 2015/16:307

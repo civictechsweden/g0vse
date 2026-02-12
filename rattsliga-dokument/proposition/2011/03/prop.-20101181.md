@@ -6,6 +6,6 @@ Avtalet om utbyte av upplysningar i skatteärenden utgör ett viktigt steg i reg
 
 Lagen föreslås träda i kraft den dag regeringen bestämmer.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_________________________________________________________
 
 Riksdagen fattade den 11 maj 2011 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

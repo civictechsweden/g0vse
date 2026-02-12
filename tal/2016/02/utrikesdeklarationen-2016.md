@@ -1,6 +1,6 @@
 # Utrikesdeklarationen 2016
 
-![](/contentassets/5fe74c3cbdd34cab970d741362cdb133/omslag-for-utrikesdeklarationen-2016/?width=150&quality=85)
+![](/contentassets/5fe74c3cbdd34cab970d741362cdb133/omslag-for-utrikesdeklarationen-2016/?width=150&amp;quality=85)
 
 Regeringens deklaration presenterades vid 2016 års utrikespolitiska debatt i riksdagen onsdagen den 24 februari 2016.
 

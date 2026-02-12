@@ -9,4 +9,6 @@ I uppdraget ingår:
 * utökat stöd till tobaksorganisationer och
 * insatser för att skapa kännedom hos allmänheten.
 
+
+
 Uppdraget slutredovisas till Regeringskansliet (Socialdepartementet) senast den 31 december 2020.

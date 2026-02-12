@@ -1,4 +1,4 @@
-# Sakråd om rapportering till FN:s kommitté mot tortyr (CAT)Diarienummer: Ju2025/02030
+# Sakråd om rapportering till FN:s kommitté mot tortyr (CAT)
 
 Den 14 oktober bjöd Regeringskansliet in berörda civilsamhällesorganisationer till ett sakråd med anledning av Sveriges kommande rapportering till FN:s kommitté mot tortyr (CAT). Sakrådet syftade till att ge civilsamhället möjlighet att lämna synpunkter inför rapporten.
 

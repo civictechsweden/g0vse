@@ -8,9 +8,9 @@ Utredaren ska överväga om det kan vara lämpligt med ett förfarande där för
 Utredaren ska bl.a.
 
 * föreslå lämpliga åtgärder för att förhindra bedrägerier och
-  skatteundandragande på mervärdesskatteområdet,
+skatteundandragande på mervärdesskatteområdet,
 * särskilt analysera och överväga vilka ytterligare verktyg Skatteverket behöver för att upptäcka och förhindra bedrägerier och
-  skatteundandragande på mervärdesskatteområdet,
+skatteundandragande på mervärdesskatteområdet,
 * föreslå åtgärder med anledning av kommissionens formella underrättelse om Sveriges genomförande av SEFI-direktivet, och
 * lämna nödvändiga författningsförslag.
 

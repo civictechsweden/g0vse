@@ -4,7 +4,7 @@ Socialstyrelsen ska kartlägga förekomsten av samsjuklighet som består av psyk
 
 ## Samverkan med Folkhälsomyndigheten och intresseorganisationer
 
-Uppdraget ska genomföras i samråd med Folkhälsomyndigheten och andra berörda myndigheter. Socialstyrelsen ska även samtala med intresseorganisationer som är av betydelse.
+Uppdraget ska genomföras i samråd med Folkhälsomyndigheten och andra berörda myndigheter. Socialstyrelsen ska även samtala med intresseorganisationer som är av betydelse.
 
 ## Konsekvenser för kommunal självstyrelse och ekonomi
 

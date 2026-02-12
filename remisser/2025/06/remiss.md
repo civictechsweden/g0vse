@@ -1,4 +1,4 @@
-# Remiss av pm Rättsliga förutsättningar för en nationell vårdförmedlingDiarienummer: S2025/01022
+# Remiss av pm Rättsliga förutsättningar för en nationell vårdförmedling
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Rättsliga förutsättningar för en nationell vårdförmedling.
 

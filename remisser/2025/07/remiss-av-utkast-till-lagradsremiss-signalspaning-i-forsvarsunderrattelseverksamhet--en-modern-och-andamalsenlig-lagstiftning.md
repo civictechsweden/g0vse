@@ -1,4 +1,4 @@
-# Remiss av utkast till lagrådsremiss Signalspaning i försvarsunderrättelseverksamhet – en modern och ändamålsenlig lagstiftningDiarienummer: Fö2024/01478
+# Remiss av utkast till lagrådsremiss Signalspaning i försvarsunderrättelseverksamhet – en modern och ändamålsenlig lagstiftning
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat utkastet till lagrådsremissen Signalspaning i försvarsunderrättelseverksamhet – en modern och
 ändamålsenlig lagstiftning.

@@ -24,7 +24,7 @@ We believe that proactive strategic communication is one of the most effective w
 
 The Swedish Psychological Defence Agency was established in 2022 and has since then been dedicated to counter disinformation and strengthen the population’s ability to detect and resist foreign malign information influence and disinformation.
 
-In December 2023, the Swedish government appointed an AI Commission, with the purpose to enhance Sweden’s capabilities in AI. The AI Commission will put forward proposals on how to promote a competitive, secure, and ethical AI development and use of AI in Sweden.  How to reap the benefits of emerging technologies is a top priority for our government.
+In December 2023, the Swedish government appointed an AI Commission, with the purpose to enhance Sweden’s capabilities in AI. The AI Commission will put forward proposals on how to promote a competitive, secure, and ethical AI development and use of AI in Sweden. How to reap the benefits of emerging technologies is a top priority for our government.
 
 At the EU level, new legislation has been implemented and more is coming to address issues related to the malicious use of new technologies.
 

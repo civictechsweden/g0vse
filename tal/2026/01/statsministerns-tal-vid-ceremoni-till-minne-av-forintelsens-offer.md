@@ -16,13 +16,13 @@ Och vi minns dem som med fara för eget liv försökte rädda andras liv. Förfa
 
 Utan ursäkter och relativisering. Det gäller idag och alla kommande dagar.
 
-\*\*\*
+***
 
 I år har Förintelsens minnesdag varit en nationell minnesdag i 25 år. Och vi blir som land gång på gång påminda om varför den behövs. Efter den 7 oktober 2023 har hatet och hoten ökat – igen. Och jag vet att många av er påverkades personligen av Hamas fruktansvärda terrorattack – och av allt det som kom därefter. Så mycket hat och antisemitism. Så mycket rädsla och otrygghet – även i Europa, även här i Sverige.
 
 De berättelserna har återkommit i många av alla mina möten med svenska judar, som när jag besökte synagogan i Göteborg förra året. Och bilden bekräftas också av våra myndigheter. Antisemitism som sprids på skolor i Sverige. Det vittnas om hakkors, kränkande ord om judar på skolan eller som hotfulla skämt. Många judiska elever berättar om att man döljer sin judiska identitet, rädd för antisemitismen eller för att personligen behöva stå till svars för internationella konflikter, eller bli föremål för konspirationsteorier. I vårt land i vår tid. Det är rent skamligt.
 
-\*\*\*
+***
 
 Det vilar ett ansvar på oss alla att se och bekämpa antisemitismen. Och den regering som jag leder tar det ansvaret på stort allvar. Vi gör vårt yttersta för att svenska judar öppet och tryggt ska kunna leva sina liv, inte dölja sina liv eller frukta för sina liv. Det arbetet står på tre ben: ökad trygghet, mer utbildning och främjande av judiskt liv.
 
@@ -34,7 +34,7 @@ Därför beslutade regeringen idag om ett nytt uppdrag till Forum för levande h
 
 För det tredje ska vi fortsätta öka kunskapen om judiskt liv i Sverige och hur det berikar vårt land. För den judiska minoriteten och kulturen utgör en omistlig del av Sverige. Under förra årets jubileum uppmärksammades det svenskjudiska kulturarvet runt om i hela landet. Allt från Judiska spår i Dalarna till @Stoltjude i Luleå. Och glöm inte Marstrands synagoga, ett av de hundra verk som nu ingår i Sveriges kulturkanon.
 
-\*\*\*
+***
 
 Avslutningsvis vill jag tala för oss alla och säga att vi är tacksamma, för att ni som är överlevande orkar berätta er historia. Och att vi är tacksamma över att ni som är barn och barnbarn, nu vill berätta vidare. Tack för att ni bär vidare minnet av det som drabbade er familj, när allt färre som var med då finns med oss nu.
 

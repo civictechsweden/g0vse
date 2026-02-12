@@ -6,7 +6,7 @@ En ny och samlad klimatpolitik är nödvändig för att Sverige ska nå hela vä
 
 Politiken måste ge näringslivet rätt förutsättningar att ställa om. Inom initiativet Fossilfritt Sverige har till exempel 22 olika branscher tagit fram färdplaner för att göra Sverige till världens första fossilfria välfärdsland.
 
-Klimatmötet var indelat i fyra panelsamtal kring olika ämnen under det övergripande temat Hela vägen till noll. Paneldeltagarna talade om vikten av ökad mellan sektorer för att driva på utvecklingen inom exempelvis elektrifiering, att politiken redan nu börjar titta framåt 2040 och 2050, samt behovet av satsningar på innovation, cirkularitet i alla sektorer, snabbare tillståndsprövning och långsiktig planering bland annat.
+Klimatmötet var indelat i fyra panelsamtal kring olika ämnen under det övergripande temat Hela vägen till noll. Paneldeltagarna talade om vikten av ökad mellan sektorer för att driva på utvecklingen inom exempelvis elektrifiering, att politiken redan nu börjar titta framåt 2040 och 2050, samt behovet av satsningar på innovation, cirkularitet i alla sektorer, snabbare tillståndsprövning och långsiktig planering bland annat.
 
 Energi- och näringsminister Ebba Busch inledde panelen Fördubblad elproduktion.
 

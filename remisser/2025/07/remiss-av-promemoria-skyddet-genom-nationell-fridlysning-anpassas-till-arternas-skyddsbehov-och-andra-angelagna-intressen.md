@@ -1,4 +1,4 @@
-# Remiss av promemorian Skyddet genom nationell fridlysning anpassas till arternas skyddsbehov och andra angelägna intressenDiarienummer: KN2025/01529
+# Remiss av promemorian Skyddet genom nationell fridlysning anpassas till arternas skyddsbehov och andra angelägna intressen
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen av promemorian Skyddet genom nationell fridlysning anpassas till arternas skyddsbehov och andra angelägna intressen.
 

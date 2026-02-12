@@ -8,7 +8,7 @@ Sverige menar att det brådskar att höja ambitionerna i det internationella kli
 
 Parternas arbete med sina nya nationella klimatplaner (NDC, Nationally Determined Contribution) för perioden fram till 2035 pågår nu. Planerna ska levereras i början av nästa år. De ska omfatta hela ekonomin, alla sektorer och alla växthusgaser.
 
-På förra klimatmötet, COP28, gjordes en global översyn av parternas klimatarbete, den sk Global Stocktake, GST. COP28 antog också en inriktning om att fasa ut fossila bränslen och riktade en uppmaning till världens länder att synliggöra denna utfasning i sina nationella planer.  EU:s miljöministrar vill att COP29 leder till ett ambitiöst och balanserat resultat där 1,5-gradersmålet fortfarande är inom räckhåll, enligt rådslutsatser från ministerrådet den 14 oktober.
+På förra klimatmötet, COP28, gjordes en global översyn av parternas klimatarbete, den sk Global Stocktake, GST. COP28 antog också en inriktning om att fasa ut fossila bränslen och riktade en uppmaning till världens länder att synliggöra denna utfasning i sina nationella planer. EU:s miljöministrar vill att COP29 leder till ett ambitiöst och balanserat resultat där 1,5-gradersmålet fortfarande är inom räckhåll, enligt rådslutsatser från ministerrådet den 14 oktober.
 
 ## Ett nytt globalt finansieringsmål
 

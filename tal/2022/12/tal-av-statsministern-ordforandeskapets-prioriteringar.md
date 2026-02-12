@@ -32,7 +32,7 @@ Bilen föddes i Europa, i en tid när europeisk innovationskraft var världsekon
 
 Bilen gav miljoner européer rörelsefrihet och chansen att besöka andra länder. Bilen blev ett verb på svenska – att bila. Till exempel i Europa. I tiden mellan helt elektrifierade bilar och innan elektrifierat flyg kommer vi nog bila igen.
 
-Men bilen är också ett av många exempel på hur fri konkurrens på världens största marknad skapar produkter som gör livet bättre. Sverige är ett litet land med stora företag som arbetar på en tuff exportmarknad.  EU:s inre marknad är basen för vårt välstånd och vår välfärd. Men den förutsätter just EU:s fyra friheter – fri rörlighet för varor, kapital, tjänster och människor. Liksom rättvisa och lika spelregler för europeiska företag.
+Men bilen är också ett av många exempel på hur fri konkurrens på världens största marknad skapar produkter som gör livet bättre. Sverige är ett litet land med stora företag som arbetar på en tuff exportmarknad. EU:s inre marknad är basen för vårt välstånd och vår välfärd. Men den förutsätter just EU:s fyra friheter – fri rörlighet för varor, kapital, tjänster och människor. Liksom rättvisa och lika spelregler för europeiska företag.
 
 Europeiska biltillverkare blir vassare och bättre när de på lika villkor får konkurrera med amerikanska och asiatiska kollegor. EU ska tillvarata de dynamiska drivkrafter som bor i framgångsrika i företag, inte stjälpa dem med överregleringar. Då kan europeiska företag fortsatt hävda sig i den globala konkurrensen.
 
@@ -50,7 +50,7 @@ Den inre marknaden är ett medel både för välstånd och för den gröna omst�
 
 EU är världsledande i klimatarbetet och den positionen vill Sverige förstärka under ordförandeskapet. Att EU:s institutioner enats om att fasa ut alla nya fossildrivna bilar till 2035 är ett stort kliv i rätt riktning.
 
-Klimatomställningen börjar och slutar med energin. Det gäller transporter och det gäller industrin. Dessutom har Rysslands invasion av Ukraina gjort utfasning av fossila bränslen ännu mer angelägen. Att bli av med det fossila började på 70-talet som en prisfråga.  Det blev på 80- och 90-talen även en miljö- och klimatfråga. Och nu har det dessutom blivit en säkerhetspolitisk fråga. Under en kall vinter måste EU stå enat för att klara av både energiomställningen och uppgiften att värma upp europeiska hem.
+Klimatomställningen börjar och slutar med energin. Det gäller transporter och det gäller industrin. Dessutom har Rysslands invasion av Ukraina gjort utfasning av fossila bränslen ännu mer angelägen. Att bli av med det fossila började på 70-talet som en prisfråga. Det blev på 80- och 90-talen även en miljö- och klimatfråga. Och nu har det dessutom blivit en säkerhetspolitisk fråga. Under en kall vinter måste EU stå enat för att klara av både energiomställningen och uppgiften att värma upp europeiska hem.
 
 Därför kommer Sverige prioritera arbetet med att påskynda EU:s elektrifiering. Till exempel genom arbetet med en ny batteriförordning och fortsatta förhandlingar om att öka den fossilfria energiproduktionen. Vi kommer att ta vidare arbetet med förslagen i gasmarknadspaketet, för att ersätta rysk fossilenergi med andra koldioxidsnåla energikällor. Samtidigt som de EU-länder som själva vill, fortsätter ta ansvar genom att bygga ny kärnkraft.
 

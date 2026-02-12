@@ -1,4 +1,4 @@
-# Stickprovsinsamling av uppgifter om hushållens skulderFi2025/01929
+# Stickprovsinsamling av uppgifter om hushållens skulder
 
 I promemorian föreslås att Statistiska centralbyråns (SCB) mikrosimuleringsmodell fördelningsanalytiskt statistiksystem för inkomster och transfereringar (Fasit) ska utökas med uppgifter om hushållssektorns skulder och skuldbetalningar.
 

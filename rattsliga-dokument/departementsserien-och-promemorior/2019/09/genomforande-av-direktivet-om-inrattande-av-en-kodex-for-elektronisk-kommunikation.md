@@ -2,7 +2,7 @@
 
 I promemorian föreslås en ny lag som ersätter den nuvarande lagen om elektronisk kommunikation. Den nya lagen genomför EU:s direktiv om inrättande av en kodex för elektronisk kommunikation.
 
-Lagen syftar till att enskilda och myndigheter ska få tillgång till säkra och effektiva elektroniska kommunikationer för alla när det gäller urvalet av elektroniska kommunikationstjänster samt deras pris, kvalitet och kapacitet. Vissa bestämmelser i lagen föreslås vara tillämpliga på nummeroberoende interpersonella kommunikationstjänster, dvs. tjänster som t.ex. meddelandetjänster  i internetbaserade appar eller knutna till sociala medier.
+Lagen syftar till att enskilda och myndigheter ska få tillgång till säkra och effektiva elektroniska kommunikationer för alla när det gäller urvalet av elektroniska kommunikationstjänster samt deras pris, kvalitet och kapacitet. Vissa bestämmelser i lagen föreslås vara tillämpliga på nummeroberoende interpersonella kommunikationstjänster, dvs. tjänster som t.ex. meddelandetjänster i internetbaserade appar eller knutna till sociala medier.
 
 Anmälningsplikten behålls. Nummeroberoende interpersonella kommunikationstjänster omfattas inte av anmälningsplikten.
 

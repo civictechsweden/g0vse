@@ -2,7 +2,7 @@
 
 Det avslutande samtalet med branscherna om klimatomställningen hölls med finansmarknaden. Klimat- och miljöminister Romina Pourmokhtari och finansmarknadsminister Niklas Wykman ledde samtalet.
 
-–  Jag uppskattar rak dialog med er som är med i omställningsarbetet, inledde klimat- och miljöminister Romina Pourmokhtari till deltagarna runt bordet. Klimatomställningen handlar om att säkra vårt välstånd, och finansmarknaden har en viktig roll i att lyckas förmedla resurser till omställningen. Till exempel diskuterar vi alltmer internationellt hur vi ska allokera medel och streamlinea flöden i de stora COP-mötena för att klara klimatomställningen.
+– Jag uppskattar rak dialog med er som är med i omställningsarbetet, inledde klimat- och miljöminister Romina Pourmokhtari till deltagarna runt bordet. Klimatomställningen handlar om att säkra vårt välstånd, och finansmarknaden har en viktig roll i att lyckas förmedla resurser till omställningen. Till exempel diskuterar vi alltmer internationellt hur vi ska allokera medel och streamlinea flöden i de stora COP-mötena för att klara klimatomställningen.
 
 ## Att investera i hållbarhet är en lönsamhetsfråga
 
@@ -20,4 +20,4 @@ Någon lyfte också vikten av företagsrapportering och menade att det måste g�
 
 Klimat- och miljöminister Romina Pourmokhtari avslutade:
 
- – Min prioritering för Sverige är enkel: som jag ser det handlar klimatomställningen främst om eltillförsel, men också om infrastruktur och kompetensförsörjning.
+– Min prioritering för Sverige är enkel: som jag ser det handlar klimatomställningen främst om eltillförsel, men också om infrastruktur och kompetensförsörjning.

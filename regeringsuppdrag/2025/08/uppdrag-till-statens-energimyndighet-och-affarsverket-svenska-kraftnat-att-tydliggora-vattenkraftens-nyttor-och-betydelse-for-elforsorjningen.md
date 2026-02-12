@@ -1,4 +1,4 @@
-# Uppdrag till Statens energimyndighet och Affärsverket svenska kraftnät att tydliggöra vattenkraftens nyttor och betydelse för elförsörjningenDiarienummer: KN2025/01564
+# Uppdrag till Statens energimyndighet och Affärsverket svenska kraftnät att tydliggöra vattenkraftens nyttor och betydelse för elförsörjningen
 
 Regeringen ger Statens energimyndighet (Energimyndigheten) och Affärsverket svenska kraftnät (Svenska kraftnät) i uppdrag att beskriva och förtydliga på vilket sätt vattenkraften skapar nyttor för elsystemet och för elförsörjningen på lokal, regional och nationell nivå. Även mindre vatten-kraftsanläggningar, med vilket avses verk med en samlad effekt på högst 10 megawatt, ska omfattas av beskrivningen.
 

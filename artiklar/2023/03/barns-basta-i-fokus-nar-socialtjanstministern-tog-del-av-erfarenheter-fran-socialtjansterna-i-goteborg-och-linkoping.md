@@ -8,6 +8,6 @@ Representanterna från Göteborg och Linköping berättade om hur socialtjänste
 
 - Vi ser tillit, relationsbyggande och delaktighet som en förutsättning för att bryta en destruktiv samhällsutveckling. Vi ser fram emot en ny socialtjänstlag som kan ge oss en del av de verktyg vi behöver för att bättre möta behov tidigt och i samverkan med andra viktiga samhällsaktörer, säger Sofia Lindholm Åström, avdelningschef i Linköpings kommun.
 
--  Det som behövs för att motverka desinformationskampanjen är att informationen och kunskapen om socialtjänstens arbete med barn, unga och familjer kommer ut till våra medborgare på gräsrotsnivå, säger Anders Pero, socialsekreterare i socialförvaltningen Nordost i Göteborgs stad.
+- Det som behövs för att motverka desinformationskampanjen är att informationen och kunskapen om socialtjänstens arbete med barn, unga och familjer kommer ut till våra medborgare på gräsrotsnivå, säger Anders Pero, socialsekreterare i socialförvaltningen Nordost i Göteborgs stad.
 
 På mötet togs aktuella frågor från Regeringskansliet upp. Myndigheterna fick också ge en lägesbild utifrån sina respektive ansvarsområden. Dagens träff är en del av återkommande möten som ministern har med anledning av desinformationskampanjen om socialtjänsten.

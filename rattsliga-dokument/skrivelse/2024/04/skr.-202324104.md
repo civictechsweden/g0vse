@@ -3,10 +3,10 @@
 I skrivelsen utvärderar regeringen statens upplåning och skuldförvaltning
 under perioden 2019–2023.
 
-Utgångspunkten för utvärderingen är det av riksdagen beslutade målet för statsskuldspolitiken:
+Utgångspunkten för utvärderingen är det av riksdagen beslutade målet för statsskuldspolitiken:
 
 * Statens skuld ska förvaltas så att kostnaden för skulden långsiktigt
-  minimeras samtidigt som risken i förvaltningen beaktas.
+minimeras samtidigt som risken i förvaltningen beaktas.
 * Förvaltningen ska ske inom ramen för de krav penningpolitiken ställer.
 
 Utvärderingen avser såväl regeringens styrning som Riksgäldskontorets

@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att fördela, betala ut och följa upp medel för att korta vårdköernaDiarienummer:  S2026/00052
+# Uppdrag till Socialstyrelsen att fördela, betala ut och följa upp medel för att korta vårdköerna
 
 Regeringen uppdrar åt Socialstyrelsen att fördela, betala ut och följa upp prestationsbaserade medel till regionerna i syfte att öka produktionen inom vissa områden.
 

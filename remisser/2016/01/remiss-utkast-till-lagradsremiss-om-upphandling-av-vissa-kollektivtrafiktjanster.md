@@ -126,7 +126,7 @@ Remissvaren ska ha kommit in till Näringsdepartementet senast den 18 mars 2016.
 
 I utkastet till lagrådsremiss föreslås kompletterande regler till EU:s kollektivtrafikförordning i fråga om hur vissa kollektivtrafiktjänster ska upphandlas. Lagrådsremissen innehåller bearbetningar av de tidigare remitterade förslagen i kapitlet "Tilldelning av tjänstekontrakt som avser kollektivtrafik på järnväg, med tunnelbana och på vatten" som ingick i departementspromemorian Ds 2014:25 Nya regler om upphandling, och i promemorian "Tilldelning av koncessioner för kollektivtrafik".
 
-Remissvaren ska ha kommit in till Näringsdepartementet senast den 18 mars 2016. Vi ser gärna att remissvaren även skickas i elektronisk form via e-post till [n.registrator@regeringskansliet.se](mailto:n.registrator@regeringskansliet.se "e-post till registrator") i både word- och pdf-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck), N2016-00487-RS, följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i promemorian. I remissvaret anges Regeringskansliets diarienummer N2016/00487/RS.
+Remissvaren ska ha kommit in till Näringsdepartementet senast den 18 mars 2016. Vi ser gärna att remissvaren även skickas i elektronisk form via e-post till <n.registrator@regeringskansliet.se> i både word- och pdf-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck), N2016-00487-RS, följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i promemorian. I remissvaret anges Regeringskansliets diarienummer N2016/00487/RS.
 
 I remissen ligger att regeringen vill ha synpunkter på förslagen eller materialet i promemorian. Om remissen är begränsad till en viss del av promemorian, anges detta inom parentes efter remissinstansens namn i remisslistan. En sådan begränsning hindrar givetvis inte att remissinstansen lämnar synpunkter också på övriga delar.
 
@@ -134,4 +134,4 @@ Myndigheter under regeringen är skyldiga att svara på remissen. En myndighet a
 
 För andra remissinstanser innebär remissen en inbjudan att lämna synpunkter.
 
-Frågor under remisstiden kan ställas till [Linnéa Lundström](mailto:linnea.lundstrom@regeringskansliet.se "e-post till Linnéa Lundstrom") , tel. 08-405 47 62 eller till [Louise Merz](mailto:louise.merz@regeringskansliet.se "e-post till Louise Merz") , tel. 08-504 28 67
+Frågor under remisstiden kan ställas till [Linnéa Lundström](mailto:linnea.lundstrom@regeringskansliet.se "e-post till Linnéa Lundstrom"), tel. 08-405 47 62 eller till [Louise Merz](mailto:louise.merz@regeringskansliet.se "e-post till Louise Merz"), tel. 08-504 28 67

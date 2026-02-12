@@ -1,6 +1,6 @@
 # Näringslivet samlas mot ofrivillig ensamhet
 
-![](/globalassets/regeringen/bilder/socialdepartementet/folkhalsa-och-sjukvard/ofrivillig-ensamhet/foretagsnatverk-ensamhet/logotyp_natverket.png?width=150&quality=85)
+![](/globalassets/regeringen/bilder/socialdepartementet/folkhalsa-och-sjukvard/ofrivillig-ensamhet/foretagsnatverk-ensamhet/logotyp_natverket.png?width=150&amp;quality=85)
 
 Socialminister Jakob Forssmed initierade i december 2023 ett företagsnätverk för ökad gemenskap och mot ofrivillig ensamhet. Nätverket omfattar numera ett tjugotal företag som på olika sätt arbetar för att minska ensamheten i samhället. Nyligen stod socialministern värd för en VD-träff inom nätverket.
 

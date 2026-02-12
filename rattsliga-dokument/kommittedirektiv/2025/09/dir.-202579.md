@@ -1,4 +1,4 @@
-# Incitament för lägre skattesatser i kommunsektornDir. 2025:79
+# Incitament för lägre skattesatser i kommunsektorn
 
 En särskild utredare ska analysera hur statliga åtgärder som motverkar
 ökande skattesatser och statliga åtgärder som stimulerar skattesänkningar i
@@ -14,15 +14,15 @@ effekterna av höga kommunala skattesatser motverkas.
 Utredaren ska bl.a.
 
 * analysera hur statliga åtgärder som motverkar höjning av befintliga
-  skattesatser i kommuner och regioner (skattebroms) kan utformas
-  samt för vilka syften och i vilka situationer sådana åtgärder kan
-  användas,
+skattesatser i kommuner och regioner (skattebroms) kan utformas
+samt för vilka syften och i vilka situationer sådana åtgärder kan
+användas,
 * analysera hur statliga åtgärder som stimulerar sänkningar av befintliga
-  skattesatser i kommuner och regioner (skattesänkningspremie) kan
-  utformas samt för vilka syften och i vilka situationer sådana åtgärder
-  kan användas,
+skattesatser i kommuner och regioner (skattesänkningspremie) kan
+utformas samt för vilka syften och i vilka situationer sådana åtgärder
+kan användas,
 * oavsett bedömning i sak, lämna förslag på en eller flera skattebromsar
-  och skattesänkningspremier, och
+och skattesänkningspremier, och
 * lämna nödvändiga författningsförslag.
 
 Uppdraget ska redovisas senast den 27 februari 2026.

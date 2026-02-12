@@ -6,11 +6,11 @@ Länsstyrelserna ska arbeta med hela området mäns våld mot kvinnor enligt den
 
 ### Uppdraget består av följande delar:
 
-1. Regionala strategier och handlingsplaner
+1. Regionala strategier och handlingsplaner
 
 2. Främjande av samverkan
 
-3. Regionala resurscentra för våldsutsatta
+3. Regionala resurscentra för våldsutsatta
 
 4. Utveckling av förebyggande arbete
 

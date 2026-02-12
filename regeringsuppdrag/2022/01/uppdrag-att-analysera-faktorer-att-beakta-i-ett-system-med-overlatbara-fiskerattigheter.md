@@ -8,7 +8,7 @@ Regeringen ger Havs- och vattenmyndigheten i uppdrag att närmare utveckla analy
 * fiskets möjligheter att bidra till en konkurrenskraftig och hållbar livsmedelskedja i linje med livsmedelsstrategin;
 * möjligheter att underlätta föryngring och nyetablering inom fisket;
 * möjliga effekter på infrastrukturutveckling samt landningsmöjligheter i
-  Sverige;
+Sverige;
 * möjligheter att bidra till att uppnå målet om god miljöstatus i havsområdena enligt Europaparlamentets och rådets direktiv 2008/56/EG av den 17 juli 2008 om upprättande av en ram för gemenskapens åtgärder på havsmiljöpolitikens område (Ramdirektiv om en marin strategi);
 * möjliga effekter på fisk- och skaldjursbestånden;
 * behov att främja en ökande användning av skonsamma, selektiva och klimatsmarta fiskeredskap och -metoder; samt

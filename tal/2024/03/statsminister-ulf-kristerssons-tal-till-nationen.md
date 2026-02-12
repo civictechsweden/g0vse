@@ -18,7 +18,7 @@ Sverige är ett enastående land - och vi går in i Nato för att ännu bättre 
 
 Vi är nu medlemmar i en försvarsallians tillsammans med våra närmsta vänner. Norge, Danmark och Island har varit med från början. Även USA och Storbritannien. Tyskland gick med några år senare, Polen under sent 90-tal och våra baltiska grannar Estland, Lettland och Litauen i början av 2000-talet. Finland gick som bekant med förra året.
 
-\*\*\*
+***
 
 Det har nu gått två år sedan Ryssland inledde sin fullskaliga invasion av Ukraina, men president Putin har inte uppnått sina mål, tvärtom.
 
@@ -26,7 +26,7 @@ Med omvärldens stöd bevisar Ukraina varje dag sin imponerande starka försvars
 
 I stället för att acceptera Rysslands krav på vetorätt över andra länders självbestämmande, har Nato förstärkts med både Sverige och Finland.
 
-\*\*\*
+***
 
 Som svensk statsminister gläds jag idag över den breda samsynen kring vårt Natomedlemskap. Det folkliga stödet är starkt och en stor majoritet i riksdagen står bakom beslutet. Det är en styrka för oss som Nato-land. Och det visar att i tider av krig och kris i vår omvärld så har vi förmågan att enas och samarbeta.
 
@@ -54,7 +54,7 @@ Sverige har deltagit i alla Natos större fredsinsatser. Tusentals svenska solda
 
 Då var det militära samarbetet känsligt och ofta hemligt. Nu kan vi samarbeta öppet och ärligt – som allierade. Nato-medlemskapet är den logiska fortsättningen på den säkerhetspolitik som Sverige i praktiken har fört under många decennier.
 
-\*\*\*
+***
 
 Ensam är inte stark. Och Sveriges säkerhet är intimt kopplad till utvecklingen i vår omvärld. Nu går vi in i ett försvarssamarbete som i 75 år har varit väldigt framgångsrikt.
 
@@ -72,7 +72,7 @@ Nu rustar vi upp och dubblar de svenska försvarsanslagen till över två procen
 
 Jag har samtalat mycket med vår överbefälhavare Micael Bydén, och jag vet att Sverige kommer ha kompetenta och skickliga, kvinnor och män på plats i Natos alla staber och arbetsgrupper.
 
-\*\*\*
+***
 
 Många har spelat en viktig roll för Sveriges Nato-medlemskap. Jag vill rikta ett alldeles särskilt tack till USA och till president Joe Biden för hans starka personliga engagemang för vår sak. Varmt tack också till Natos outtröttlige generalsekreterare Jens Stoltenberg och till Finlands nyligen avgångne president Sauli Niinistö.
 

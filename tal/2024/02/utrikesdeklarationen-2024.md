@@ -196,7 +196,7 @@ Herr/fru talman!
 
 Svenskt bistånd ska skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Länder som utvecklas i frihet ger sina befolkningar framtidstro.
 
-Genom den nya reformagendan görs en modernisering av svensk biståndspolitik.  Utvecklingssamarbetet är ett av de viktigaste utrikespolitiska verktygen för att möta de utmaningar som vi och världen står inför. Så värnar vi om svenska intressen.
+Genom den nya reformagendan görs en modernisering av svensk biståndspolitik. Utvecklingssamarbetet är ett av de viktigaste utrikespolitiska verktygen för att möta de utmaningar som vi och världen står inför. Så värnar vi om svenska intressen.
 
 Marknadsekonomi, investeringar handel och utbildning är avgörande för att människor ska kunna lyftas ur fattigdom genom att utvecklingsländer deltar i den globala ekonomin.
 

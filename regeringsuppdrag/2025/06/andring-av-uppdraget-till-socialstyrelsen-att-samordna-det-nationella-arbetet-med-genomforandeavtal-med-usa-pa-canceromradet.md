@@ -1,4 +1,4 @@
-# Ändring av uppdraget till Socialstyrelsen att samordna det nationella arbetet med genomförandeavtal med USA på cancerområdetDiarienummer: S2024/02034
+# Ändring av uppdraget till Socialstyrelsen att samordna det nationella arbetet med genomförandeavtal med USA på cancerområdet
 
 Regeringen ändrar i uppdraget till Socialstyrelsen att samordna det nationella arbetet med genomförandeavtal med USA på cancerområdet.
 

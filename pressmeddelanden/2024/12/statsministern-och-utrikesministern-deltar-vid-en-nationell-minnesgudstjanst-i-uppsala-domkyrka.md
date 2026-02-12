@@ -5,3 +5,9 @@ Gudstjänsten hålls på initiativ av Kungaparet med anledning av att det i dag 
 På gudstjänsten närvarar också H.M. Konungen och H.M. Drottningen samt talman Andreas Norlén.
 
 Gudstjänsten hålls i Uppsala domkyrka och direktsänds i SVT 2 med start kl. 16.00.
+
+Gudstjänsten hålls på initiativ av Kungaparet med anledning av att det i dag är 20 år sedan tsunamin i Sydostasien.
+
+På gudstjänsten närvarar också H.M. Konungen och H.M. Drottningen samt talman Andreas Norlén.
+
+Gudstjänsten hålls i Uppsala domkyrka och direktsänds i SVT 2 med start kl. 16.00.

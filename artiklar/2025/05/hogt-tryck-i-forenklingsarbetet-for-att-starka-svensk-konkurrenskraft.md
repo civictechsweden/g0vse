@@ -14,11 +14,11 @@ Ebba Busch inledde med att summera regeringens åtgärder:
 
 Under mötet betonade ministern vikten av att myndigheterna prioriterar förenklingsarbetet genom att avsätta nödvändig tid och resurser. För att lyckas med förenklingsarbetet behöver alla aktörer arbeta tillsammans och här spelar myndigheternas arbete en stor roll. I början kan det innebära ett omfattande arbete men det kommer att ge positiva effekter både för företagen och för myndigheternas egen effektivitet.
 
-Presentationerna visade att myndigheternas arbete redan har lett till flera konkreta åtgärder. Flera berättade att de arbetar med kartläggningar och tidiga dialoger för att förstå vilka lösningar och nya arbetssätt som svarar mot företagens behov.
+Presentationerna visade att myndigheternas arbete redan har lett till flera konkreta åtgärder. Flera berättade att de arbetar med kartläggningar och tidiga dialoger för att förstå vilka lösningar och nya arbetssätt som svarar mot företagens behov.
 
-Det pågår också översyn av föreskrifter och insatser för att det ska bli enklare att förstå regelverket.
+Det pågår också översyn av föreskrifter och insatser för att det ska bli enklare att förstå regelverket.
 
-Flera myndigheter arbetar också med att utveckla olika AI-lösningar, digitala plattformar och e-tjänster för ökad tillgänglighet och effektivare handläggning.
+Flera myndigheter arbetar också med att utveckla olika AI-lösningar, digitala plattformar och e-tjänster för ökad tillgänglighet och effektivare handläggning.
 
 ## Håll i och håll ut över lång tid
 

@@ -152,7 +152,12 @@
         ],
         "summary": "Fråga om klagandens rätt till skydd för familjeliv (artikel 8) och rätt till rättvis rättegång (artikel 6) i Europakonventionen hade kränkts i den nationella vårdnadsprocessen.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "KOULIZAKIS v. SWEDEN (coe.int)- extern webbplats,",
+                "url": "https://hudoc.echr.coe.int/eng#%7B%22fulltext%22:[%22%5C%22KOULIZAKIS%20v.%20SWEDEN%5C%22%22],%22itemid%22:[%22001-238314%22]%7D"
+            }
+        ],
         "attachments": [],
         "categories": [
             "1013"
@@ -280,7 +285,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Internationella MR-granskningar av Sverige\n",
+                "name": "Internationella MR-granskningar av Sverige",
                 "url": "/internationella-mr-granskningar-av-sverige/"
             }
         ],
@@ -424,7 +429,7 @@
         ]
     },
     {
-        "title": "Utlåtande (26/2022) från FN:s arbetsgrupp mot godtyckliga frihetsberövanden (UNWGAD) ",
+        "title": "Utlåtande (26/2022) från FN:s arbetsgrupp mot godtyckliga frihetsberövanden (UNWGAD)",
         "url": "/internationella-mr-granskningar-av-sverige/2022/07/utlatande-262022-fran-fns-arbetsgrupp-mot-godtyckliga-frihetsberovanden-unwgad/",
         "published": "2022-07-12",
         "updated": null,
@@ -499,15 +504,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Artikel: Europarådets kommitté mot tortyr har lämnat sin rapport om Sverige\n",
+                "name": "Artikel: Europarådets kommitté mot tortyr har lämnat sin rapport om Sverige",
                 "url": "/artiklar/2021/09/europaradets-kommitte-mot-tortyr-har-lamnat-sin-rapport-om-sverige/"
             },
             {
-                "name": "Artikel: Sverige har svarat på rapporten från Europarådets kommitté mot tortyr\n",
+                "name": "Artikel: Sverige har svarat på rapporten från Europarådets kommitté mot tortyr",
                 "url": "/artiklar/2022/02/sverige-har-svarat-pa-rapporten-fran-europaradets-kommitte-mot-tortyr/"
             },
             {
-                "name": "The CPT and Sweden, på Europarådets webbplats\n             - extern webbplats,\n",
+                "name": "The CPT and Sweden, på Europarådets webbplats- extern webbplats,",
                 "url": "https://www.coe.int/en/web/cpt/sweden"
             }
         ],
@@ -551,7 +556,7 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens beslut (2022-01-20) i målet H.J. mot Sverige ",
+        "title": "Europadomstolens beslut (2022-01-20) i målet H.J. mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/2022/02/europadomstolens-beslut-2022-01-20-i-malet-h.j.-mot-sverige",
         "published": "2022-02-18",
         "updated": null,
@@ -667,37 +672,53 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Artikel: FN:s kommitté mot tortyr har lämnat sin rapport om Sverige\n",
+                "name": "Artikel: FN:s kommitté mot tortyr har lämnat sin rapport om Sverige",
                 "url": "/artiklar/2021/12/fns-kommitte-mot-tortyr-har-lamnat-sin-rapport-om-sverige/"
             },
             {
-                "name": "Webbplatsen för The Committee Against Torture (CAT)\n             - extern webbplats,\n",
+                "name": "Webbplatsen för The Committee Against Torture (CAT)- extern webbplats,",
                 "url": "https://www.ohchr.org/EN/HRBodies/CAT/pages/catindex.aspx"
             }
         ],
         "attachments": [
             {
+                "name": "Sveriges rapport till FN:s kommitté mot tortyr december 2025 (svensk version) (pdf 469 kB)",
+                "url": "/contentassets/ed31a252dd4f480297841bcc69d56048/sveriges-rapport-till-tortyrkommitten-december-2025-svensk-version/"
+            },
+            {
+                "name": "Bilaga 1-12 till Sveriges nionde periodiska rapport till FN:s kommitté mot tortyr (pdf 1 MB)",
+                "url": "/contentassets/ed31a252dd4f480297841bcc69d56048/bilaga-1-12-till-sveriges-nionde-periodiska-rapport-till-fns-kommitte-mot-tortyr.pdf"
+            },
+            {
+                "name": "Swedens ninth periodic report to the UN Committee against Torture (pdf 488 kB)",
+                "url": "/contentassets/ed31a252dd4f480297841bcc69d56048/swedens-ninth-periodic-report-to-the-un-committee-against-torture.pdf"
+            },
+            {
+                "name": "List of issues prior to submission of the ninth periodic report of Sweden (pdf 166 kB)",
+                "url": "/contentassets/ed31a252dd4f480297841bcc69d56048/list-of-issues-prior-to-submission-of-the-ninth-periodic-report-of-sweden.pdf"
+            },
+            {
                 "name": "Concluding observations on the eighth periodic report of Sweden November 2021 (pdf 247 kB)",
                 "url": "/contentassets/ed31a252dd4f480297841bcc69d56048/concluding-observations-on-the-eighth-periodic-report-of-sweden-november-2021.pdf"
             },
             {
-                "name": "Sveriges rapport till tortyrkommittén November 2018 (svensk version) (pdf 1 MB)",
+                "name": "Sveriges rapport till FN:s kommitté mot tortyr november 2018 (svensk version) (pdf 1 MB)",
                 "url": "/contentassets/ed31a252dd4f480297841bcc69d56048/sveriges-rapport-till-tortyrkommitten-2018-11-svensk-version/"
             },
             {
-                "name": "Sveriges rapport till tortyrkommittén November 2018 (engelsk version) (pdf 815 kB)",
+                "name": "Sveriges rapport till FN:s kommitté mot tortyr november 2018 (engelsk version) (pdf 815 kB)",
                 "url": "/contentassets/ed31a252dd4f480297841bcc69d56048/sveriges-rapport-till-tortyrkommitten-2018-11-engelsk-version.pdf"
             },
             {
-                "name": "Sveriges uppföljningsrapport November 2015 (pdf 281 kB)",
+                "name": "Sveriges uppföljningsrapport november 2015 (pdf 281 kB)",
                 "url": "/contentassets/ed31a252dd4f480297841bcc69d56048/sveriges-uppfoljningsrapport-november-2015.pdf"
             },
             {
-                "name": "CATs uppföljande synpunkter och rekommendationer December 2014 (pdf 149 kB)",
+                "name": "CATs uppföljande synpunkter och rekommendationer december 2014 (pdf 149 kB)",
                 "url": "/contentassets/ed31a252dd4f480297841bcc69d56048/cats-uppfoljande-synpunkter-och-rekommendationer-december-2014.pdf"
             },
             {
-                "name": "Sveriges rapport Oktober 2013 (pdf 779 kB)",
+                "name": "Sveriges rapport till FN:s kommitté mot tortyr oktober 2013 (pdf 779 kB)",
                 "url": "/contentassets/ed31a252dd4f480297841bcc69d56048/sveriges-rapport-oktober-2013.pdf"
             }
         ],
@@ -822,7 +843,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "FN:s barnrättskommitté granskar Sverige\n",
+                "name": "FN:s barnrättskommitté granskar Sverige",
                 "url": "/regeringens-politik/barnets-rattigheter/fns-barnrattskommitte-granskar-sverige/"
             }
         ],
@@ -1005,7 +1026,12 @@
         ],
         "summary": "Fråga om utvisning av klaganden till Irak skulle strida mot artiklarna 10 och 15 i FN:s konvention om rättigheter för personer med funktionsnedsättning.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "CRPD:s granskning (2020-09-24) av ärendet N.L. mot Sverige- extern webbplats,",
+                "url": "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=CRPD%2fC%2f23%2fD%2f60%2f2019&Lang=en"
+            }
+        ],
         "attachments": [],
         "categories": [
             "1013"
@@ -1144,7 +1170,7 @@
         ]
     },
     {
-        "title": "Europadomstolens beslut (2020-02-11) i målen E.G. mot Sverige och L.S. mot Sverige. ",
+        "title": "Europadomstolens beslut (2020-02-11) i målen E.G. mot Sverige och L.S. mot Sverige.",
         "url": "/internationella-mr-granskningar-av-sverige/2020/05/europadomstolens-beslut-2020-02-11-i-malen-e.g.-mot-sverige-och-l.s.-mot-sverige",
         "published": "2020-05-18",
         "updated": null,
@@ -1323,7 +1349,12 @@
         ],
         "summary": "Fråga om det skulle strida mot artikel 8 i Europakonventionen (rätten till skydd för privat- och familjeliv) att neka klaganden uppehållstillstånd på grund av anknytning till sin fru och gemensamma barn i Sverige med hänvisning till att han inte klarlagt sin identitet.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Internationell granskning av mänskliga rättigheter i Sverige",
+                "url": "/regeringens-politik/demokrati-och-manskliga-rattigheter/internationell-granskning-av-manskliga-rattigheter-i-sverige/"
+            }
+        ],
         "attachments": [],
         "categories": []
     },
@@ -1343,6 +1374,10 @@
         "shortcuts": [],
         "attachments": [
             {
+                "name": "Expertkommitténs yttrande om brådskande rekommendationer 2024 (pdf 421 kB)",
+                "url": "/globalassets/regeringen/dokument/kulturdepartementet/sweden-eval-iria-8_en.docx.pdf"
+            },
+            {
                 "name": "Ministerkommitténs rekommendationer april 2023 (pdf 138 kB)",
                 "url": "/contentassets/c81a7afe0f944c9c940f363b9009c51c/ministerkommittens-rekommendationer-april-2023.pdf"
             },
@@ -1355,48 +1390,8 @@
                 "url": "/contentassets/c81a7afe0f944c9c940f363b9009c51c/eight-evaluation-report-on-sweden.pdf"
             },
             {
-                "name": "Ministerkommitténs resolution (pdf 180 kB)",
-                "url": "/contentassets/c81a7afe0f944c9c940f363b9009c51c/ministerkommittens-resolution.pdf"
-            },
-            {
-                "name": "Expertkommitténs yttrande (pdf 1 MB)",
-                "url": "/contentassets/c81a7afe0f944c9c940f363b9009c51c/expertkommittens-yttrande.pdf"
-            },
-            {
                 "name": "Sveriges åttonde rapport till Europarådet under den europeiska stadgan om landsdels- eller minoritetsspråk (pdf 620 kB)",
                 "url": "/contentassets/c81a7afe0f944c9c940f363b9009c51c/sveriges-attonde-rapport-till-europaradet-under-den-europeiska-stadgan-om-landsdels--eller-minoritetssprak.pdf"
-            }
-        ],
-        "categories": [
-            "1219"
-        ]
-    },
-    {
-        "title": "Sveriges återkommande rapportering till ECRI",
-        "url": "/internationella-mr-granskningar-av-sverige/2012/06/sveriges-aterkommande-rapportering-till-ecri/",
-        "published": "2012-06-19",
-        "updated": "2019-05-27",
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1284"
-        ],
-        "summary": "Regeringen rapporterar återkommande till Europarådets kommission mot rasism och intolerans (ECRI).",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Information on Sweden’s interim follow-up of recommendations in ECRI’s Report on Sweden (fifth monitoring cycle) 2020 (pdf 109 kB)",
-                "url": "/contentassets/68a47116dce24a62ad5d666795e482ff/sveriges-uppfoljning-till-ecri-mars-2020.pdf"
-            },
-            {
-                "name": "ECRI Report on Sweden (fith monitoring cycle) 2018 (pdf 752 kB)",
-                "url": "/contentassets/68a47116dce24a62ad5d666795e482ff/ecri-report-on-sweden-fith-monitoring-cycle-2018.pdf"
-            },
-            {
-                "name": "ECRI:s rapport om Sverige (femte granskningscykeln) 2018 (pdf 664 kB)",
-                "url": "/contentassets/68a47116dce24a62ad5d666795e482ff/ecris-synpunkter-och-rekommendationer-2018-02-27.pdf"
             }
         ],
         "categories": [
@@ -1416,7 +1411,12 @@
         ],
         "summary": "Europarådets konvention om förebyggande och bekämpning av våld mot kvinnor och av våld i hemmet (Istanbulkonventionen) trädde i kraft för Sverige 2014. Granskningsorgan för konventionen är Europarådets expertgrupp GREVIO.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Internationell granskning av mänskliga rättigheter i Sverige",
+                "url": "/regeringens-politik/demokrati-och-manskliga-rattigheter/internationell-granskning-av-manskliga-rattigheter-i-sverige/"
+            }
+        ],
         "attachments": [
             {
                 "name": "Sveriges rapport om Europarådets konvention om förebyggande och bekämpning av våld mot kvinnor 2017 (pdf 1018 kB)",
@@ -1426,6 +1426,30 @@
         "categories": [
             "1219",
             "1239"
+        ]
+    },
+    {
+        "title": "ECRI:s återkommande granskning av Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2012/06/sveriges-aterkommande-rapportering-till-ecri/",
+        "published": "2012-06-19",
+        "updated": "2019-05-27",
+        "types": [
+            "2380"
+        ],
+        "senders": [
+            "1284"
+        ],
+        "summary": "Regeringen rapporterar återkommande till Europarådets kommission mot rasism och intolerans (ECRI).",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "ECRI Report on Sweden (sixth monitoring cycle) 2025 (pdf 1 MB)",
+                "url": "/contentassets/68a47116dce24a62ad5d666795e482ff/ecri-report-on-sweden-sixth-monitoring-cycle-2025.pdf"
+            }
+        ],
+        "categories": [
+            "1219"
         ]
     },
     {
@@ -1903,12 +1927,12 @@
                 "url": "/globalassets/regeringen/dokument/kulturdepartementet/5th-op-sweden-en.docx.pdf"
             },
             {
-                "name": "Sammanfattning av den rådgivande kommitténs femte yttrande (på svenska) (pdf 424 kB)",
-                "url": "/globalassets/regeringen/dokument/kulturdepartementet/5th-op-sweden-summary-se.docx.pdf"
-            },
-            {
                 "name": "Sveriges femte rapport till Europarådet under ramkonventionen om skydd för nationella minoriteter (pdf 545 kB)",
                 "url": "/contentassets/659ef59b9bbc4657862d7256e231c1ec/sveriges-femte-rapport-till-europaradet-under-ramkonventionen-om-skydd-for-nationella-minoriteter.pdf"
+            },
+            {
+                "name": "Den rådgivande kommitténs femte yttrande - svensk översättning (pdf 755 kB)",
+                "url": "/globalassets/regeringen/bilder/kulturdepartementet/den-radgivande-kommittens-femte-yttrande---svensk-oversattning.pdf"
             }
         ],
         "categories": [
@@ -2086,8 +2110,8 @@
         "categories": []
     },
     {
-        "title": "CAT-kommitténs granskning (2015-11-25) i målet R.G. m.fl. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2015/11/cat-kommittens-granskning-2015-11-25-av-malet-r.g.-m.fl.-mot-sverige",
+        "title": "CAT-kommitténs granskning (2015-11-25) i målet B.M.S. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2015/11/cat-kommittens-granskning-2015-11-25-i-malet-b.m.s.-mot-sverige",
         "published": "2015-11-25",
         "updated": null,
         "types": [
@@ -2104,8 +2128,8 @@
         "categories": []
     },
     {
-        "title": "CAT-kommitténs granskning (2015-11-25) i målet B.M.S. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2015/11/cat-kommittens-granskning-2015-11-25-i-malet-b.m.s.-mot-sverige",
+        "title": "CAT-kommitténs granskning (2015-11-25) i målet R.G. m.fl. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2015/11/cat-kommittens-granskning-2015-11-25-av-malet-r.g.-m.fl.-mot-sverige",
         "published": "2015-11-25",
         "updated": null,
         "types": [
@@ -2307,23 +2331,6 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2015-04-08) i målet W.H. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2015/04/europadomstolens-dom-2015-04-08-i-malet-w.h.-mot-sverige",
-        "published": "2015-04-08",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": []
-    },
-    {
         "title": "Europadomstolens dom (2015-04-08) i målet M.E. mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/2015/04/europadomstolens-dom-2015-04-08-i-malet-m.e.-mot-sverige",
         "published": "2015-04-08",
@@ -2341,26 +2348,9 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2015-01-13) i målet Abdulrazagh mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2015/01/europadomstolens-dom-2015-01-13-i-malet-abdulrazagh-mot-sverige/",
-        "published": "2015-01-13",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": []
-    },
-    {
-        "title": "Europadomstolens dom (2015-01-13) i målet Ask mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2015/01/europadomstolens-dom-2015-01-13-i-malet-ask-mot-sverige/",
-        "published": "2015-01-13",
+        "title": "Europadomstolens dom (2015-04-08) i målet W.H. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2015/04/europadomstolens-dom-2015-04-08-i-malet-w.h.-mot-sverige",
+        "published": "2015-04-08",
         "updated": null,
         "types": [
             "2380"
@@ -2377,6 +2367,23 @@
     {
         "title": "Europadomstolens dom (2015-01-13) i målet Hellborg mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/2015/01/europadomstolens-dom-2015-01-13-i-malet-hellborg-mot-sverige/",
+        "published": "2015-01-13",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
+    },
+    {
+        "title": "Europadomstolens dom (2015-01-13) i målet Svensson mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2015/01/europadomstolens-dom-2015-01-13-i-malet-svensson-mot-sverige/",
         "published": "2015-01-13",
         "updated": null,
         "types": [
@@ -2426,8 +2433,25 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2015-01-13) i målet Svensson mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2015/01/europadomstolens-dom-2015-01-13-i-malet-svensson-mot-sverige/",
+        "title": "Europadomstolens dom (2015-01-13) i målet Ask mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2015/01/europadomstolens-dom-2015-01-13-i-malet-ask-mot-sverige/",
+        "published": "2015-01-13",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
+    },
+    {
+        "title": "Europadomstolens dom (2015-01-13) i målet Abdulrazagh mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2015/01/europadomstolens-dom-2015-01-13-i-malet-abdulrazagh-mot-sverige/",
         "published": "2015-01-13",
         "updated": null,
         "types": [
@@ -2494,23 +2518,6 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2014-10-21) i målet Henriksson mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2014/10/europadomstolens-dom-2014-10-21-i-malet-henriksson-mot-sverige/",
-        "published": "2014-10-21",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": []
-    },
-    {
         "title": "Europadomstolens dom (2014-10-21) i målet Shibendra Dev mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/2014/10/europadomstolens-dom-2014-10-21-i-malet-shibendra-dev-mot-sverige/",
         "published": "2014-10-21",
@@ -2530,6 +2537,23 @@
     {
         "title": "Europadomstolens dom (2014-10-21) i målet Åberg mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/2014/10/europadomstolens-dom-2014-10-21-i-malet-aberg-mot-sverige/",
+        "published": "2014-10-21",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
+    },
+    {
+        "title": "Europadomstolens dom (2014-10-21) i målet Henriksson mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2014/10/europadomstolens-dom-2014-10-21-i-malet-henriksson-mot-sverige/",
         "published": "2014-10-21",
         "updated": null,
         "types": [
@@ -2640,7 +2664,7 @@
         "senders": [
             "1292"
         ],
-        "summary": "Regeringen rapporterar återkommande till FN:s CRDP-kommitté om Sveriges efterlevnad av FN:s konvention om rättigheter för personer med funktionshinder (CRPD).",
+        "summary": "Regeringen rapporterar återkommande till FN:s CRDP-kommitté om Sveriges efterlevnad av FN:s konvention om rättigheter för personer med funktionsnedsättning (CRPD).",
         "id": null,
         "shortcuts": [],
         "attachments": [
@@ -2747,23 +2771,6 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2013-12-19) i målet B.K.A. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2013/12/europadomstolens-dom-2013-12-19-i-malet-b.k.a.-mot-sverige",
-        "published": "2013-12-19",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": []
-    },
-    {
         "title": "Europadomstolens dom (2013-12-19) i målet T.K.H. mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/2013/12/europadomstolens-dom-2013-12-19-i-malet-t.k.h.-mot-sverige",
         "published": "2013-12-19",
@@ -2783,6 +2790,23 @@
     {
         "title": "Europadomstolens dom (2013-12-19) i målet T.A. mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/2013/12/europadomstolens-dom-2013-12-19-i-malet-t.a.-mot-sverige",
+        "published": "2013-12-19",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
+    },
+    {
+        "title": "Europadomstolens dom (2013-12-19) i målet B.K.A. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2013/12/europadomstolens-dom-2013-12-19-i-malet-b.k.a.-mot-sverige",
         "published": "2013-12-19",
         "updated": null,
         "types": [
@@ -2866,23 +2890,6 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2013-09-05) i målet I. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2013/09/europadomstolens-dom-2013-09-05-i-malet-i.-mot-sverige",
-        "published": "2013-09-05",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": []
-    },
-    {
         "title": "Europadomstolens dom (2013-09-05) i målet K.A.B. mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/2013/09/europadomstolens-dom-2013-09-05-i-malet-k.a.b.-mot-sverige",
         "published": "2013-09-05",
@@ -2900,9 +2907,9 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2013-07-25) i målet Rousk mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2013/07/europadomstolens-dom-2013-07-25-i-malet-rousk-mot-sverige/",
-        "published": "2013-07-25",
+        "title": "Europadomstolens dom (2013-09-05) i målet I. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2013/09/europadomstolens-dom-2013-09-05-i-malet-i.-mot-sverige",
+        "published": "2013-09-05",
         "updated": null,
         "types": [
             "2380"
@@ -2929,6 +2936,28 @@
         ],
         "summary": "FN:s ICCPR-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention om medborgerliga och politiska rättigheter (ICCPR). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.",
         "id": null,
+        "shortcuts": [
+            {
+                "name": "MR-kommitténs webbplats (engelska)- extern webbplats,",
+                "url": "http://www.ohchr.org/EN/HRBodies/CCPR/Pages/CCPRIndex.aspx"
+            }
+        ],
+        "attachments": [],
+        "categories": []
+    },
+    {
+        "title": "Europadomstolens dom (2013-07-25) i målet Rousk mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2013/07/europadomstolens-dom-2013-07-25-i-malet-rousk-mot-sverige/",
+        "published": "2013-07-25",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
+        "id": null,
         "shortcuts": [],
         "attachments": [],
         "categories": []
@@ -2951,8 +2980,59 @@
         "categories": []
     },
     {
+        "title": "Europadomstolens dom (2013-06-27) i målet A.G.A.M. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2013/06/europadomstolens-dom-2013-06-27-i-malet-a.g.a.m.-mot-sverige",
+        "published": "2013-06-27",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
+    },
+    {
+        "title": "Europadomstolens dom (2013-06-27) i målet N.A.N.S. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2013/06/europadomstolens-dom-2013-06-27-i-malet-n.a.n.s.-mot-sverige",
+        "published": "2013-06-27",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
+    },
+    {
         "title": "Europadomstolens dom (2013-06-27) i målet D.N.M. mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/2013/06/europadomstolens-dom-2013-06-27-i-malet-d.n.m.-mot-sverige",
+        "published": "2013-06-27",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
+    },
+    {
+        "title": "Europadomstolens dom (2013-06-27) i målet M.Y.H. m.fl. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2013/06/europadomstolens-dom-2013-06-27-i-malet-m.y.h.-m.fl.-mot-sverige",
         "published": "2013-06-27",
         "updated": null,
         "types": [
@@ -3019,57 +3099,6 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2013-06-27) i målet A.G.A.M. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2013/06/europadomstolens-dom-2013-06-27-i-malet-a.g.a.m.-mot-sverige",
-        "published": "2013-06-27",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": []
-    },
-    {
-        "title": "Europadomstolens dom (2013-06-27) i målet N.A.N.S. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2013/06/europadomstolens-dom-2013-06-27-i-malet-n.a.n.s.-mot-sverige",
-        "published": "2013-06-27",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": []
-    },
-    {
-        "title": "Europadomstolens dom (2013-06-27) i målet M.Y.H. m.fl. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2013/06/europadomstolens-dom-2013-06-27-i-malet-m.y.h.-m.fl.-mot-sverige",
-        "published": "2013-06-27",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": []
-    },
-    {
         "title": "Europadomstolens dom (2013-06-27) i målet M.K.N. mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/2013/06/europadomstolens-dom-2013-06-27-i-malet-m.k.n.-mot-sverige",
         "published": "2013-06-27",
@@ -3104,8 +3133,8 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens beslut (2013-06-11) i målet K.A. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2013/06/europadomstolens-beslut-2013-06-11-i-malet-k.a.-mot-sverige",
+        "title": "Europadomstolens beslut (2013-06-11) i målet J.H.K. m.fl. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2013/06/europadomstolens-beslut-2013-06-11-i-malet-j.h.k.-m.fl.-mot-sverige",
         "published": "2013-06-11",
         "updated": null,
         "types": [
@@ -3121,8 +3150,8 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens beslut (2013-06-11) i målet J.H.K. m.fl. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2013/06/europadomstolens-beslut-2013-06-11-i-malet-j.h.k.-m.fl.-mot-sverige",
+        "title": "Europadomstolens beslut (2013-06-11) i målet K.A. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2013/06/europadomstolens-beslut-2013-06-11-i-malet-k.a.-mot-sverige",
         "published": "2013-06-11",
         "updated": null,
         "types": [
@@ -3155,8 +3184,42 @@
         "categories": []
     },
     {
+        "title": "Europadomstolens beslut (2013-05-21) i målet Tu och Co mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2013/05/europadomstolens-beslut-2013-05-21-i-malet-tu-och-co-mot-sverige/",
+        "published": "2013-05-21",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Europadomstolen har fattat ett beslut avseende ett klagomål om Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till beslutet i fulltext samt en sammanfattning av beslutet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
+    },
+    {
         "title": "Europadomstolens beslut (2013-05-21) i målet Ruminski mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/2013/05/europadomstolens-beslut-2013-05-21-i-malet-ruminski-mot-sverige/",
+        "published": "2013-05-21",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Europadomstolen har fattat ett beslut avseende ett klagomål om Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till beslutet i fulltext samt en sammanfattning av beslutet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
+    },
+    {
+        "title": "Europadomstolens beslut (2013-05-21) i målet Ghali m.fl. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2013/05/europadomstolens-beslut-2013-05-21-i-malet-ghali-m.fl.-mot-sverige",
         "published": "2013-05-21",
         "updated": null,
         "types": [
@@ -3184,40 +3247,6 @@
             "1295"
         ],
         "summary": "FN:s CAT-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": []
-    },
-    {
-        "title": "Europadomstolens beslut (2013-05-21) i målet Tu och Co mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2013/05/europadomstolens-beslut-2013-05-21-i-malet-tu-och-co-mot-sverige/",
-        "published": "2013-05-21",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Europadomstolen har fattat ett beslut avseende ett klagomål om Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till beslutet i fulltext samt en sammanfattning av beslutet.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": []
-    },
-    {
-        "title": "Europadomstolens beslut (2013-05-21) i målet Ghali m.fl. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2013/05/europadomstolens-beslut-2013-05-21-i-malet-ghali-m.fl.-mot-sverige",
-        "published": "2013-05-21",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Europadomstolen har fattat ett beslut avseende ett klagomål om Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till beslutet i fulltext samt en sammanfattning av beslutet.",
         "id": null,
         "shortcuts": [],
         "attachments": [],
@@ -3275,8 +3304,8 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2012-12-18) i målet F.N. m.fl. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2012/12/europadomstolens-dom-2012-12-18-i-malet-f.n.-m.fl.-mot-sverige",
+        "title": "Europadomstolens dom (2012-12-18) i målet P.Z. m.fl. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2012/12/europadomstolens-dom-2012-12-18-i-malet-p.z.-m.fl.-mot-sverige",
         "published": "2012-12-18",
         "updated": null,
         "types": [
@@ -3309,8 +3338,8 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2012-12-18) i målet P.Z. m.fl. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2012/12/europadomstolens-dom-2012-12-18-i-malet-p.z.-m.fl.-mot-sverige",
+        "title": "Europadomstolens dom (2012-12-18) i målet F.N. m.fl. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2012/12/europadomstolens-dom-2012-12-18-i-malet-f.n.-m.fl.-mot-sverige",
         "published": "2012-12-18",
         "updated": null,
         "types": [
@@ -3424,13 +3453,18 @@
         ],
         "summary": "FN:s ICCPR-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention om medborgerliga och politiska rättigheter (ICCPR). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "MR-kommitténs webbplats (engelska)- extern webbplats,",
+                "url": "http://www.ohchr.org/EN/HRBodies/CCPR/Pages/CCPRIndex.aspx"
+            }
+        ],
         "attachments": [],
         "categories": []
     },
     {
-        "title": "Europadomstolens beslut (2012-10-09) i målet I.F.W. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2012/10/europadomstolens-beslut-2012-10-09-i-malet-i.f.w.-mot-sverige",
+        "title": "Europadomstolens beslut (2012-10-09) i målet A.I. m.fl. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2012/10/europadomstolens-beslut-2012-10-09-i-malet-a.i.-m.fl.-mot-sverige",
         "published": "2012-10-09",
         "updated": null,
         "types": [
@@ -3446,8 +3480,8 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens beslut (2012-10-09) i målet A.I. m.fl. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2012/10/europadomstolens-beslut-2012-10-09-i-malet-a.i.-m.fl.-mot-sverige",
+        "title": "Europadomstolens beslut (2012-10-09) i målet I.F.W. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2012/10/europadomstolens-beslut-2012-10-09-i-malet-i.f.w.-mot-sverige",
         "published": "2012-10-09",
         "updated": null,
         "types": [
@@ -3670,23 +3704,6 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2012-05-15) i målet H.N. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2012/05/europadomstolens-dom-2012-05-15-i-malet-h.n.-mot-sverige",
-        "published": "2012-05-15",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": []
-    },
-    {
         "title": "Europadomstolens dom (2012-05-15) i målet S.F. m.fl. mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/2012/05/europadomstolens-dom-2012-05-15-i-malet-s.f.-m.fl.-mot-sverige",
         "published": "2012-05-15",
@@ -3706,6 +3723,23 @@
     {
         "title": "Europadomstolens dom (2012-05-15) i målet Nacic m.fl. mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/2012/05/europadomstolens-dom-2012-05-15-i-malet-nacic-m.fl.-mot-sverige",
+        "published": "2012-05-15",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
+    },
+    {
+        "title": "Europadomstolens dom (2012-05-15) i målet H.N. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2012/05/europadomstolens-dom-2012-05-15-i-malet-h.n.-mot-sverige",
         "published": "2012-05-15",
         "updated": null,
         "types": [
@@ -3934,8 +3968,8 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens beslut (2012-02-07) i målet F.H. och P.G. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2012/02/europadomstolens-beslut-2012-02-07-i-malet-f.h.-och-p.g.-mot-sverige",
+        "title": "Europadomstolens beslut (2012-02-07) i målet V.G. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2012/02/europadomstolens-beslut-2012-02-07-i-malet-v.g.-mot-sverige",
         "published": "2012-02-07",
         "updated": null,
         "types": [
@@ -3951,8 +3985,8 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens beslut (2012-02-07) i målet V.G. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2012/02/europadomstolens-beslut-2012-02-07-i-malet-v.g.-mot-sverige",
+        "title": "Europadomstolens beslut (2012-02-07) i målet F.H. och P.G. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2012/02/europadomstolens-beslut-2012-02-07-i-malet-f.h.-och-p.g.-mot-sverige",
         "published": "2012-02-07",
         "updated": null,
         "types": [
@@ -4121,8 +4155,8 @@
         "categories": []
     },
     {
-        "title": "CAT-kommitténs granskning (2011-11-21) i målet S.K. och R.K. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2011/11/cat-kommittens-granskning-2011-11-21-i-malet-s.k.-och-r.k.-mot-sverige",
+        "title": "CAT-kommitténs granskning (2011-11-21) i målet S.M. och H.M. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2011/11/cat-kommittens-granskning-2011-11-21-i-malet-s.m.-och-h.m.-mot-sverige",
         "published": "2011-11-21",
         "updated": null,
         "types": [
@@ -4139,8 +4173,8 @@
         "categories": []
     },
     {
-        "title": "CAT-kommitténs granskning (2011-11-21) i målet S.M. och H.M. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2011/11/cat-kommittens-granskning-2011-11-21-i-malet-s.m.-och-h.m.-mot-sverige",
+        "title": "CAT-kommitténs granskning (2011-11-21) i målet S.K. och R.K. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2011/11/cat-kommittens-granskning-2011-11-21-i-malet-s.k.-och-r.k.-mot-sverige",
         "published": "2011-11-21",
         "updated": null,
         "types": [
@@ -4191,8 +4225,8 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2011-10-13) i målet Husseini mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2011/10/europadomstolens-dom-2011-10-13-i-malet-husseini-mot-sverige/",
+        "title": "Europadomstolens dom (2011-10-13) i målet Fexler mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2011/10/europadomstolens-dom-2011-10-13-i-malet-fexler-mot-sverige/",
         "published": "2011-10-13",
         "updated": null,
         "types": [
@@ -4208,8 +4242,8 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2011-10-13) i målet Fexler mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2011/10/europadomstolens-dom-2011-10-13-i-malet-fexler-mot-sverige/",
+        "title": "Europadomstolens dom (2011-10-13) i målet Husseini mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2011/10/europadomstolens-dom-2011-10-13-i-malet-husseini-mot-sverige/",
         "published": "2011-10-13",
         "updated": null,
         "types": [
@@ -4621,7 +4655,12 @@
         ],
         "summary": "FN:s ICCPR-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention om medborgerliga och politiska rättigheter (ICCPR). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "MR-kommitténs webbplats (engelska)- extern webbplats,",
+                "url": "http://www.ohchr.org/EN/HRBodies/CCPR/Pages/CCPRIndex.aspx"
+            }
+        ],
         "attachments": [],
         "categories": []
     },
@@ -4750,24 +4789,6 @@
         "categories": []
     },
     {
-        "title": "CAT-kommitténs granskning (2007-04-30) i målet E.R.K. och Y.K. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2007/04/cat-kommittens-granskning-2007-04-30-i-malet-e.r.k.-och-y.k.-mot-sverige",
-        "published": "2007-04-30",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1287",
-            "1295"
-        ],
-        "summary": "FN:s CAT-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": []
-    },
-    {
         "title": "CAT-kommitténs granskning (2007-04-30) i målet A.R.A. mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/2007/04/cat-kommittens-granskning-2015-11-23-i-malet-u.-mot-sverige",
         "published": "2007-04-30",
@@ -4786,8 +4807,26 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2007-02-22) i målet Valin mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2007/02/europadomstolens-dom-2007-02-22-i-malet-valin-mot-sverige/",
+        "title": "CAT-kommitténs granskning (2007-04-30) i målet E.R.K. och Y.K. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2007/04/cat-kommittens-granskning-2007-04-30-i-malet-e.r.k.-och-y.k.-mot-sverige",
+        "published": "2007-04-30",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
+            "1287",
+            "1295"
+        ],
+        "summary": "FN:s CAT-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
+    },
+    {
+        "title": "Europadomstolens dom (2007-02-22) i målet Ahmed mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2007/02/europadomstolens-dom-2007-02-22-i-malet-ahmed-mot-sverige/",
         "published": "2007-02-22",
         "updated": null,
         "types": [
@@ -4803,8 +4842,8 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2007-02-22) i målet Ahmed mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2007/02/europadomstolens-dom-2007-02-22-i-malet-ahmed-mot-sverige/",
+        "title": "Europadomstolens dom (2007-02-22) i målet Valin mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2007/02/europadomstolens-dom-2007-02-22-i-malet-valin-mot-sverige/",
         "published": "2007-02-22",
         "updated": null,
         "types": [
@@ -4908,8 +4947,8 @@
         "categories": []
     },
     {
-        "title": "CAT-kommitténs granskning (2006-11-16) i målet A.A.C. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2006/11/cat-kommittens-granskning-2006-11-16-i-malet-a.a.c.-mot-sverige",
+        "title": "CAT-kommitténs granskning (2006-11-16) i målet A.H. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2006/11/cat-kommittens-granskning-2006-11-16-i-malet-a.h.-mot-sverige",
         "published": "2006-11-16",
         "updated": null,
         "types": [
@@ -4926,8 +4965,8 @@
         "categories": []
     },
     {
-        "title": "CAT-kommitténs granskning (2006-11-16) i målet A.H. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2006/11/cat-kommittens-granskning-2006-11-16-i-malet-a.h.-mot-sverige",
+        "title": "CAT-kommitténs granskning (2006-11-16) i målet A.A.C. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2006/11/cat-kommittens-granskning-2006-11-16-i-malet-a.a.c.-mot-sverige",
         "published": "2006-11-16",
         "updated": null,
         "types": [
@@ -4956,7 +4995,12 @@
         ],
         "summary": "FN:s ICCPR-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention om medborgerliga och politiska rättigheter (ICCPR). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "MR-kommitténs webbplats (engelska)- extern webbplats,",
+                "url": "http://www.ohchr.org/EN/HRBodies/CCPR/Pages/CCPRIndex.aspx"
+            }
+        ],
         "attachments": [],
         "categories": []
     },
@@ -5287,23 +5331,6 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2005-01-25) i målet Razaghi mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2005/01/europadomstolens-dom-2005-01-25-i-malet-razaghi-mot-sverige/",
-        "published": "2005-01-25",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": []
-    },
-    {
         "title": "Europadomstolens dom (2005-01-25) i målet Enhorn mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/2005/01/europadomstolens-dom-2005-01-25-i-malet-enhorn-mot-sverige/",
         "published": "2005-01-25",
@@ -5321,8 +5348,25 @@
         "categories": []
     },
     {
-        "title": "CAT-kommitténs granskning (2004-11-22) i målet L.J.R.C. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2004/11/cat-kommittens-granskning-2004-11-22-i-malet-l.j.r.c.-mot-sverige",
+        "title": "Europadomstolens dom (2005-01-25) i målet Razaghi mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2005/01/europadomstolens-dom-2005-01-25-i-malet-razaghi-mot-sverige/",
+        "published": "2005-01-25",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Europadomstolen har i en dom prövat Sveriges efterlevnad av Europakonventionen. Regeringen publicerar en länk till domen i fulltext samt en sammanfattning av domen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
+    },
+    {
+        "title": "CAT-kommitténs granskning (2004-11-22) i målet S.U.A. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2004/11/cat-kommittens-granskning-2004-11-22-i-malet-s.u.a.-mot-sverige",
         "published": "2004-11-22",
         "updated": null,
         "types": [
@@ -5339,8 +5383,8 @@
         "categories": []
     },
     {
-        "title": "CAT-kommitténs granskning (2004-11-22) i målet S.U.A. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2004/11/cat-kommittens-granskning-2004-11-22-i-malet-s.u.a.-mot-sverige",
+        "title": "CAT-kommitténs granskning (2004-11-22) i målet L.J.R.C. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2004/11/cat-kommittens-granskning-2004-11-22-i-malet-l.j.r.c.-mot-sverige",
         "published": "2004-11-22",
         "updated": null,
         "types": [
@@ -5672,8 +5716,8 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2002-11-12) i målet Döry mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2002/11/europadomstolens-dom-2002-11-12-i-malet-dory-mot-sverige/",
+        "title": "Europadomstolens dom (2002-11-12) i målet Lundevall mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2002/11/europadomstolens-dom-2002-11-12-i-malet-lundevall-mot-sverige/",
         "published": "2002-11-12",
         "updated": null,
         "types": [
@@ -5689,8 +5733,8 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (2002-11-12) i målet Lundevall mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/2002/11/europadomstolens-dom-2002-11-12-i-malet-lundevall-mot-sverige/",
+        "title": "Europadomstolens dom (2002-11-12) i målet Döry mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/2002/11/europadomstolens-dom-2002-11-12-i-malet-dory-mot-sverige/",
         "published": "2002-11-12",
         "updated": null,
         "types": [
@@ -5769,7 +5813,12 @@
         ],
         "summary": "FN:s ICCPR-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention om medborgerliga och politiska rättigheter (ICCPR). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "MR-kommitténs webbplats (engelska)- extern webbplats,",
+                "url": "http://www.ohchr.org/EN/HRBodies/CCPR/Pages/CCPRIndex.aspx"
+            }
+        ],
         "attachments": [],
         "categories": []
     },
@@ -6038,7 +6087,12 @@
         ],
         "summary": "FN:s ICCPR-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention om medborgerliga och politiska rättigheter (ICCPR). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "MR-kommitténs webbplats (engelska)- extern webbplats,",
+                "url": "http://www.ohchr.org/EN/HRBodies/CCPR/Pages/CCPRIndex.aspx"
+            }
+        ],
         "attachments": [],
         "categories": []
     },
@@ -6169,7 +6223,12 @@
         "senders": [],
         "summary": "FN:s CERD-kommitté har prövat ett enskilt klagomål mot Sverige, enligt vilket Sverige inte har efterlevt FN:s Konvention om avskaffande av rasdiskriminering (CERD). På denna sida publicerar regeringen kommitténs yttrande för nedladdning samt en svensk sammanfattning av yttrandet.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "CERD-kommitténs webbplats (engelska)- extern webbplats,",
+                "url": "http://www.ohchr.org/EN/HRBodies/CERD/Pages/CERDIndex.aspx"
+            }
+        ],
         "attachments": [
             {
                 "name": "CERD-kommitténs granskning (1998-08-17) i målet D.S. mot Sverige (1) (pdf 93 kB)",
@@ -6265,29 +6324,6 @@
         "categories": []
     },
     {
-        "title": "CAT-kommitténs granskning (1998-05-06) i målet I.A.O. mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/1998/05/cat-kommittens-granskning-1998-05-06-i-malet-i.a.o.-mot-sverige",
-        "published": "1998-05-06",
-        "updated": null,
-        "types": [
-            "2380"
-        ],
-        "senders": [
-            "1287",
-            "1295"
-        ],
-        "summary": "FN:s CAT-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "CAT-kommitténs yttrande (1998-05-06) i målet I.A.O. (engelska) (pdf 113 kB)",
-                "url": "/contentassets/5b43e158b4ce4e05a1738f8cfc6ac6e5/cat-kommittens-yttrande-1998-05-06-i-malet-i.a.o.-engelska.pdf"
-            }
-        ],
-        "categories": []
-    },
-    {
         "title": "CAT-kommitténs granskning (1998-05-06) i målet X, Y och Z mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/1998/05/cat-kommittens-granskning-1998-05-06-i-malet-x-y-och-z-mot-sverige/",
         "published": "1998-05-06",
@@ -6311,8 +6347,31 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (1998-02-19) i målet Allan Jacobsson mot Sverige (nr 2)",
-        "url": "/internationella-mr-granskningar-av-sverige/1998/02/europadomstolens-dom-1998-02-19-i-malet-allan-jacobsson-mot-sverige-nr-2/",
+        "title": "CAT-kommitténs granskning (1998-05-06) i målet I.A.O. mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/1998/05/cat-kommittens-granskning-1998-05-06-i-malet-i.a.o.-mot-sverige",
+        "published": "1998-05-06",
+        "updated": null,
+        "types": [
+            "2380"
+        ],
+        "senders": [
+            "1287",
+            "1295"
+        ],
+        "summary": "FN:s CAT-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention mot tortyr (CAT). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "CAT-kommitténs yttrande (1998-05-06) i målet I.A.O. (engelska) (pdf 113 kB)",
+                "url": "/contentassets/5b43e158b4ce4e05a1738f8cfc6ac6e5/cat-kommittens-yttrande-1998-05-06-i-malet-i.a.o.-engelska.pdf"
+            }
+        ],
+        "categories": []
+    },
+    {
+        "title": "Europadomstolens dom (1998-02-19) i målet Paulsen-Medalen och Svensson mot Sverige",
+        "url": "/internationella-mr-granskningar-av-sverige/1998/02/europadomstolens-dom-1998-02-19-i-malet-paulsen-medalen-och-svensson-mot-sverige/",
         "published": "1998-02-19",
         "updated": null,
         "types": [
@@ -6328,8 +6387,8 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (1998-02-19) i målet Paulsen-Medalen och Svensson mot Sverige",
-        "url": "/internationella-mr-granskningar-av-sverige/1998/02/europadomstolens-dom-1998-02-19-i-malet-paulsen-medalen-och-svensson-mot-sverige/",
+        "title": "Europadomstolens dom (1998-02-19) i målet Allan Jacobsson mot Sverige (nr 2)",
+        "url": "/internationella-mr-granskningar-av-sverige/1998/02/europadomstolens-dom-1998-02-19-i-malet-allan-jacobsson-mot-sverige-nr-2/",
         "published": "1998-02-19",
         "updated": null,
         "types": [
@@ -6399,7 +6458,7 @@
         "categories": []
     },
     {
-        "title": "Europadomstolens dom (1997-08-27) i målet M.S. mot Sverige ",
+        "title": "Europadomstolens dom (1997-08-27) i målet M.S. mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/1997/08/europadomstolens-dom-1997-08-27-i-malet-m.s.-mot-sverige",
         "published": "1997-08-27",
         "updated": null,
@@ -6545,7 +6604,12 @@
         ],
         "summary": "FN:s ICCPR-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention om medborgerliga och politiska rättigheter (ICCPR). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "MR-kommitténs webbplats (engelska)- extern webbplats,",
+                "url": "http://www.ohchr.org/EN/HRBodies/CCPR/Pages/CCPRIndex.aspx"
+            }
+        ],
         "attachments": [
             {
                 "name": "CCPR-kommitténs yttrande (1994-07-18) i målet Celepli mot Sverige (engelska) (pdf 390 kB)",
@@ -6565,7 +6629,12 @@
         "senders": [],
         "summary": "FN:s ICCPR-kommitté har prövat ett enskilt klagomål mot Sverige, enligt vilket Sverige inte har efterlevt FN:s konvention om medborgerliga och politiska rättigheter (ICCPR). På denna sida publicerar regeringen kommitténs yttrande för nedladdning.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "MR-kommitténs webbplats (engelska)- extern webbplats,",
+                "url": "http://www.ohchr.org/EN/HRBodies/CCPR/Pages/CCPRIndex.aspx"
+            }
+        ],
         "attachments": [
             {
                 "name": "CCPR-kommitténs yttrande (1988-11-09) i målet Lindgren m.fl. och Lundqvist m.fl. mot Sverige (engelska) (pdf 111 kB)",
@@ -6575,7 +6644,7 @@
         "categories": []
     },
     {
-        "title": "ICCPR-kommitténs granskning (1988-07-27) i målet Kitok mot Sverige  ",
+        "title": "ICCPR-kommitténs granskning (1988-07-27) i målet Kitok mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/1988/07/iccpr-kommittens-granskning-1988-07-27-i-malet-kitok-mot-sverige/",
         "published": "1988-07-27",
         "updated": null,
@@ -6587,7 +6656,12 @@
         ],
         "summary": "FN:s ICCPR-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention om medborgerliga och politiska rättigheter (ICCPR). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "MR-kommitténs webbplats (engelska)- extern webbplats,",
+                "url": "http://www.ohchr.org/EN/HRBodies/CCPR/Pages/CCPRIndex.aspx"
+            }
+        ],
         "attachments": [
             {
                 "name": "CCPR-kommitténs yttrande (1988-07-27) i målet Kitok mot Sverige (engelska) (pdf 108 kB)",
@@ -6609,7 +6683,12 @@
         ],
         "summary": "FN:s ICCPR-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention om medborgerliga och politiska rättigheter (ICCPR). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "MR-kommitténs webbplats (engelska)- extern webbplats,",
+                "url": "http://www.ohchr.org/EN/HRBodies/CCPR/Pages/CCPRIndex.aspx"
+            }
+        ],
         "attachments": [
             {
                 "name": "CCPR-kommitténs yttrande (1988-04-04) i målet Blom mot Sverige (engelska) (pdf 98 kB)",
@@ -6631,7 +6710,12 @@
         ],
         "summary": "FN:s ICCPR-kommitté har i ett yttrande prövat Sveriges efterlevnad av FN:s konvention om medborgerliga och politiska rättigheter (ICCPR). Regeringen publicerar en länk till yttrandet i fulltext samt en sammanfattning av yttrandet.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "MR-kommitténs webbplats (engelska)- extern webbplats,",
+                "url": "http://www.ohchr.org/EN/HRBodies/CCPR/Pages/CCPRIndex.aspx"
+            }
+        ],
         "attachments": [
             {
                 "name": "CCPR-kommitténs yttrande (1985-07-11) i målet N.B. mot Sverige (engelska) (pdf 88 kB)",
@@ -6663,7 +6747,7 @@
         "categories": []
     },
     {
-        "title": "MR-kommitténs granskning (1981-04-09) i målet Maroufidou mot Sverige ",
+        "title": "MR-kommitténs granskning (1981-04-09) i målet Maroufidou mot Sverige",
         "url": "/internationella-mr-granskningar-av-sverige/1981/04/iccpr-kommittens-granskning-1981-04-09-i-malet-maroufidou-mot-sverige/",
         "published": "1981-04-09",
         "updated": null,

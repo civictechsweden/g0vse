@@ -1,4 +1,4 @@
-# Förbättrad integration och minskat utanförskapDir. 2025:68
+# Förbättrad integration och minskat utanförskap
 
 En särskild utredare ska sammanställa kunskap om parallella samhällsstrukturer och analysera deras konsekvenser för integrationen och utanförskapet i det svenska samhället. Syftet är att tillhandahålla ett fördjupat kunskapsunderlag som kan bidra till regeringens arbete för att bekämpa parallella samhällsstrukturer, förbättra integrationen och minska utanförskapet i Sverige.
 

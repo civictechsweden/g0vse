@@ -5,8 +5,8 @@ Regeringen ger Boverket i uppdrag att i dialog med Statens energimyndighet (Ener
 Boverket ska därför i dialog med Energimyndigheten särskilt:
 
 * uppdatera och redovisa de data som behövs för att beräkna
-  kostnadsoptimala nivåer för energiprestandakraven i Boverkets
-  byggregler (BFS 2011:6) – föreskrifter och allmänna råd samt genomföra nya beräkningar av de kostnadsoptimala nivåerna.
+kostnadsoptimala nivåer för energiprestandakraven i Boverkets
+byggregler (BFS 2011:6) – föreskrifter och allmänna råd samt genomföra nya beräkningar av de kostnadsoptimala nivåerna.
 * utreda och vid behov ändra viktningsfaktorerna för olika energibärare i Boverkets byggregler för att uppnå teknikneutralitet och kostnadsoptimala nivåer.
 
 Boverket kan även inom ramen för kontrollstationen redogöra för behov av andra lämpliga åtgärder, styrmedel eller utvecklingsområden för att minska byggnaders effektbehov och därmed minska effektutmaningen i

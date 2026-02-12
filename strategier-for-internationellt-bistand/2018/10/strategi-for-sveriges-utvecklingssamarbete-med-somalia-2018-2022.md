@@ -1,6 +1,6 @@
 # Strategi för Sveriges utvecklingssamarbete med Somalia 2018-2022
 
-![](/contentassets/fa6e95381a3c45669c23838618c8fe2e/somalia---sv---re.jpg?width=150&quality=85)
+![](/contentassets/fa6e95381a3c45669c23838618c8fe2e/somalia---sv---re.jpg?width=150&amp;quality=85)
 
 Målet för svenskt internationellt bistånd är att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Utvecklingssamarbetet ska ta sin utgångspunkt i principerna om bistånds- och utvecklingseffektivitet liksom i de nya internationella överenskommelser som det internationella samfundet enades om under 2015, Agenda 2030, Addis Abeba Action Agenda och klimatavtalet från Paris.
 

@@ -28,7 +28,7 @@ Ett år med föräldrars outsägliga sorg efter att ha tvingats begrava en son e
 
 Och ett år när vi som land har försökt läka ett sår, som ändå alltid kommer finnas kvar.
 
-\*\*\*
+***
 
 Jag sa då, att vi bär sorgen tillsammans. Jag förstår att ingen av oss andra fullt ut kan ta in den personliga smärtan och saknaden – men ändå: Vi bar den tillsammans och vi bär den tillsammans.
 
@@ -44,7 +44,7 @@ Marwa – och jag vet inte om du är med oss här ikväll – du blev symbolen f
 
 Och jag vet att det har varit ett svårt år – men Marwa fortsätter inspirera med sin beslutsamhet att komma tillbaka till skolan. Och kom ihåg det vi sa då: ”det är svårt, men låt oss göra det ändå.”
 
-\*\*\*
+***
 
 En vecka efter dådet träffade jag några av dem på SOS Alarm som tog emot de första samtalen inifrån Risbergska.
 

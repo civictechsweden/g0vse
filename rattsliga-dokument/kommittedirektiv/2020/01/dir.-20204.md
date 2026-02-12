@@ -5,7 +5,7 @@ En särskild utredare ska göra en systematisk översyn av regelverket för bl.a
 Utredaren ska bl.a.
 
 * föreslå när lovplikt respektive anmälningsplikt bör inträda för olika
-  typer av åtgärder,
+typer av åtgärder,
 * föreslå vilka förutsättningar som bör vara uppfyllda för att lov ska ges, och
 * lämna de förslag till ändringar och följdändringar i plan- och byggregelverket och i annan reglering som bedöms motiverade utifrån utredarens analyser och ställningstaganden.
 

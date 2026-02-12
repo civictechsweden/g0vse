@@ -6,7 +6,7 @@ En särskild utredare ges därför i uppdrag att
 
 * se över bestämmelsen om sexuellt ofredande och överväga om ett grovt brott bör införas,
 * analysera och se över principerna för och bestämmelserna som rör straffansvaret för sexualbrott på distans samt för utnyttjande av barn för sexuell posering, analysera om samlagsbegreppet i 6 kap. brottsbalken behöver förändras,
-* se över straffskalorna för sexualbrotten i 6 kap. brottsbalken och lämna förslag på de förändringar som kan behövas för att dessa i tillräcklig mån ska spegla brottens allvar, och
+* se över straffskalorna för sexualbrotten i 6 kap. brottsbalken och lämna förslag på de förändringar som kan behövas för att dessa i tillräcklig mån ska spegla brottens allvar, och
 * utreda vissa frågor om spårsäkring efter sexualbrott.
 
 Uppdraget ska redovisas senast den 31 mars 2021.

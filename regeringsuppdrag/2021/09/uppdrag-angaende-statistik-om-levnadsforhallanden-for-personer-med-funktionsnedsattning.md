@@ -8,7 +8,11 @@ SCB ska utvärdera den definition av funktionsnedsättning som har tagits fram i
 
 SCB ska skapa ett mått över personer med funktionsnedsättning, som är baserat på registeruppgifter.
 
+
+
 Målet är att skapa en registerbaserad population som kan användas som bakgrundsvariabel för att redovisa annan statistik. Redovisningen ska ske i en rapport med förslag på registervariabel samt hur det registerbaserade arbetet bör bedrivas i fortsättningen. Den delen av uppdraget redovisas senast den 31 januari 2024. Till redovisningen av uppdraget ska SCB också rapportera skillnader mellan olika mått som syftar till att mäta aktivitets- eller funktionsnedsättning. Om det går ska även det registerbaserade måttet ingå i jämförelsen.
+
+
 
 Utöver skriftliga redovisningar ska SCB löpande informera Regeringskansliet om arbetets fortskridande.
 

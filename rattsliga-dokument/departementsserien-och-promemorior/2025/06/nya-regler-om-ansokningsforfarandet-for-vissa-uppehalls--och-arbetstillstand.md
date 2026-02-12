@@ -1,6 +1,6 @@
-# Ds 2025:18Ds 2025:18
+# Nya regler om  ansökningsförfarandet  för vissa uppehålls- och arbetstillstånd
 
-![](/contentassets/4103636f2db24e0fb49559a48c3aeb8d/ds202518.png?width=150&quality=85)
+![](/contentassets/4103636f2db24e0fb49559a48c3aeb8d/ds202518.png?width=150&amp;quality=85)
 
 I promemorian lämnas förslag till genomförande av det nya direktivet om ett enda ansökningsförfarande för ett kombinerat tillstånd för tredjelandsmedborgare att vistas och arbeta på en medlemsstats territorium och om en gemensam uppsättning rättigheter för arbetstagare från tredjeland som vistas lagligen i en medlemsstat. Det nya direktivet ersätter 2011 års direktiv.
 

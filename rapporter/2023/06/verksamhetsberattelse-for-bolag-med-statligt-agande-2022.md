@@ -1,6 +1,6 @@
 # Verksamhetsberättelse för bolag med statligt ägande 2022
 
-![](/contentassets/148fb165aea149b4a946c936eaf5e4e1/vb2022omslag.png?width=150&quality=85)
+![](/contentassets/148fb165aea149b4a946c936eaf5e4e1/vb2022omslag.png?width=150&amp;quality=85)
 
 Under 2022 ökade värdet på den statliga bolagsportföljen med ca 30 miljarder kronor, eller knappt 4 procent. Utdelningar till staten under 2022, för verksamhetsåret 2021, uppgick till 50 miljarder kronor. Sammantaget genererade den statliga bolagsportföljen därmed en totalavkastning om ca 9 procent under året.
 

@@ -4,5 +4,5 @@ För att ytterligare underlätta inträdet på arbetsmarknaden för unga föresl
 
 De nya bestämmelserna föreslås träda i kraft den 1 juli 2014.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________________________________________________________
 Riksdagen fattade den 28 maj 2014 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

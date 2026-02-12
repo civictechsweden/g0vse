@@ -5,12 +5,12 @@ Förlängd tid för en del av uppdraget. Överlämning av slutbetänkandet komme
 Delbetänkandet kommer att överlämnas den 5 mars 2024. Enligt de ursprungliga direktiven ska uppdraget redovisas senast den 23 februari 2024. Utredningstiden ligger fast för de delar av uppdraget som avser att föreslå hur NIS2-direktivet ska genomföras och frågor som är gemensamma för NIS2- och CER-direktiven i de ursprungliga kommittédirektiven i den mån dessa är hänförliga till genomförandet av NIS2-direktivet. Utredningstiden ska dock förlängas för de delar av de ursprungliga direktiven som avser att
 
 * föreslå hur CER-direktivet ska genomföras och frågor gemensamma för
-  NIS2- och CER-direktiven i de ursprungliga kommittédirektiven i den
-  mån dessa är hänförliga till genomförandet av CER-direktivet eller i
-  övrigt syftar till att uppnå en sammanhängande reglering,
+NIS2- och CER-direktiven i de ursprungliga kommittédirektiven i den
+mån dessa är hänförliga till genomförandet av CER-direktivet eller i
+övrigt syftar till att uppnå en sammanhängande reglering,
 * analysera hur den nya regleringen ska fungera vid sidan av
-  säkerhetsskyddsregleringen och föreslå ändringar som behövs för att
-  uppnå en mer sammanhållen systematik mellan regelverken, särskilt vad gäller tillsynsmyndigheternas befogenheter och sanktionsavgifternas storlek,
+säkerhetsskyddsregleringen och föreslå ändringar som behövs för att
+uppnå en mer sammanhållen systematik mellan regelverken, särskilt vad gäller tillsynsmyndigheternas befogenheter och sanktionsavgifternas storlek,
 * ta ställning till om bestämmelserna i offentlighets- och sekretesslagen (2009:400) innebär ett tillräckligt skydd för sådana uppgifter som kan komma att behandlas enligt direktiven, och
 * i anslutning till dessa frågor lämna nödvändiga författningsförslag.
 

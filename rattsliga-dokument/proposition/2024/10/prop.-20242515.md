@@ -6,6 +6,6 @@ Avtalet ska ersätta det nu gällande avtalet från 2003 och innebär vissa nya 
 
 Ett antal bestämmelser överförs i oförändrad utformning till det nya avtalet, bland annat bestämmelser om avdrag för inbetalningar till pensionsordningar och avdrag för utgifter för resor över Öresundsbron.
 
-Vidare föreslås att lagen (1991:586) om särskild inkomstskatt för utomlands bosatta ändras så att de till viss del ändrade förutsättningarna för svensk beskattningsrätt för löneinkomster som följer av det nya avtalet, motsvaras av en skattskyldighet i Sverige.
+Vidare föreslås att lagen (1991:586) om särskild inkomstskatt för utomlands bosatta ändras så att de till viss del ändrade förutsättningarna för svensk beskattningsrätt för löneinkomster som följer av det nya avtalet, motsvaras av en skattskyldighet i Sverige.
 
-Ändringarna i lagen om dubbelbeskattningsavtal mellan de nordiska länderna föreslås träda i kraft den dag regeringen bestämmer. Ändringarna i lagen om särskild inkomstskatt föreslås träda i kraft den 1 januari 2025.
+Ändringarna i lagen om dubbelbeskattningsavtal mellan de nordiska länderna föreslås träda i kraft den dag regeringen bestämmer. Ändringarna i lagen om särskild inkomstskatt föreslås träda i kraft den 1 januari 2025.

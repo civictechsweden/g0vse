@@ -1,6 +1,6 @@
 # Digital distribution av ljudradio
 
-Regeringen anser att det inte finns skäl att välja en enskild teknik för den framtida radiodistributionen. Mot denna bakgrund är ett beslut om att påbörja en utbyggnad av DAB-sändningarna inte aktuellt. Sveriges Radio bör följa teknikutvecklingen förutsättningslöst och pröva olika distributionsvägar för att nå publiken.
+Regeringen anser att det inte finns skäl att välja en enskild teknik för den framtida radiodistributionen. Mot denna bakgrund är ett beslut om att påbörja en utbyggnad av DAB-sändningarna inte aktuellt. Sveriges Radio bör följa teknikutvecklingen förutsättningslöst och pröva olika distributionsvägar för att nå publiken.
 
 Sveriges Radio AB och Sveriges Utbildningsradio AB har sedan våren 1995 haft tillstånd att bedriva provsändningar med så kallad DAB-teknik. Den privata lokalradion har valt att inte delta, med hänvisning till att de ekonomiska villkoren inte varit tillräckligt gynnsamma.
 

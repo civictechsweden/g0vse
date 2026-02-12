@@ -16,7 +16,7 @@ If this fails, the EU stands ready with countermeasures. And we are big trading 
 
 But our goal is not retaliation, but to lower tariffs and increase trade – with the US and with other countries. That is what made our populations more prosperous and the world safer.
 
-\*\*\*
+***
 
 On prosperity, I would like to point to a building not far from here in Gamla Stan. The Stockholm stock exchange opened in 1863. At the time it was one of the first of its kind in the whole world. It was also a time when Sweden started its 100-year journey from being one of the poorest countries in Europe, to becoming one of the richest.
 
@@ -30,13 +30,13 @@ But also realizing, that new ideas require access to capital and investments.
 
 Because of this Sweden today has a mix of big companies founded more than 100 years ago and much younger companies at the forefront of technologies now shaping the world.
 
-We’ve certainly had – and we still have – a lot of pure inventors. But even more we’ve had – and we still have – entrepreneurs, turning ideas into business. Transforming general purpose technologies to groundbreaking new applications.  To keep, and develop this tradition is a major policy ambition for my government.
+We’ve certainly had – and we still have – a lot of pure inventors. But even more we’ve had – and we still have – entrepreneurs, turning ideas into business. Transforming general purpose technologies to groundbreaking new applications. To keep, and develop this tradition is a major policy ambition for my government.
 
 Doing so, in Sweden we don’t take success for granted.
 
 As a country you’re never better than your latest achievement. That’s why we will continue working to improve competitiveness in both Sweden and Europe. It’s the only way forward in an increasingly tough global competition – and an increasingly uncertain global order – be it in geopolitics or in trade.
 
-\*\*\*
+***
 
 As we all know, we live in a complicated world. There is an ongoing war on the European continent. How this war ends will be formative for European security for generations to come.
 
@@ -50,13 +50,17 @@ Europe is certainly not perfect, but we do have agency over our own future.
 
 Going forward, I’d like to build on three important pillars:
 
-1.     Increase our immediate pan-European support for Ukraine. They are literally not only fighting for their own freedom, but also for ours. Real peace is only available through strength. A bad peace would be a recipe for another assault.
+1. Increase our immediate pan-European support for Ukraine. They are literally not only fighting for their own freedom, but also for ours. Real peace is only available through strength. A bad peace would be a recipe for another assault.
 
-2.     Boosting our own military defence. In Sweden as well as in all European NATO. We need to take a bigger responsibility for our own security. Although a new realisation, the needs have been there for long.
+
+
+2. Boosting our own military defence. In Sweden as well as in all European NATO. We need to take a bigger responsibility for our own security. Although a new realisation, the needs have been there for long.
 
 That would also be an investment in continued transatlantic security cooperation. Last week the government announced our plan to in just a few years reach a new potential NATO goal at approximately 3.5 per cent of GDP. Strength is the only language Putin understands.
 
-3.     Increasing European competitiveness. Also, a long overdue effort. Only a faster growing dynamic economy can safeguard resources for security, safety, the green transition and social welfare. Growth is not a nice-to-have, but a must-have.
+
+
+3. Increasing European competitiveness. Also, a long overdue effort. Only a faster growing dynamic economy can safeguard resources for security, safety, the green transition and social welfare. Growth is not a nice-to-have, but a must-have.
 
 At the last European Council, two weeks ago, we agreed on some policy changes: A growing economy requires capital and investments, and public funds alone will not be enough.
 
@@ -64,7 +68,7 @@ We need private money. And private money can and should be funnelled through wel
 
 There is a great potential. More than 11 000 billion Euros are today either in saving accounts in banks or in pure cash. I’m not saying having a financial buffer is wrong, but I am saying that a bigger share of European financial assets could be put to work.
 
-\*\*\*
+***
 
 Luckily, I believe there are examples that could serve as inspiration for how to do this. I might be biased, but Sweden offers some of the answers.
 
@@ -82,7 +86,7 @@ I like telling Swedes about this article because it surprises them. Not the fact
 
 The big surprise is that the rest of Europe is not.
 
-\*\*\*
+***
 
 Of course, the Swedish capital markets and our culture of investing didn’t happen overnight. It was built, brick by brick, with the groundwork being laid decades ago.
 
@@ -114,7 +118,7 @@ Honestly it is difficult so see how the vibrant Swedish capital market could hav
 
 And this is the most important conclusion from the Swedish example. If there is to be a capital market, there must be a critical mass of investable capital. And the source for this capital is either people’s direct savings or their savings through the pension system. Both need to be put to work.
 
-\*\*\*
+***
 
 Moving forward that’s precisely what we will keep doing. Hopefully together with the rest of Europe.
 
@@ -130,7 +134,7 @@ But at the same time and even more important: we must all commit to necessary na
 
 There is always a risk in hoping for the EU to take decisions, instead of taking them ourselves. Taxes and pension schemes are national competences. Governments must not be afraid to act on that fact.
 
-\*\*\*
+***
 
 Reform is complicated and quite often politically risky. But also desperately needed. And in hindsight, many tough choices actually turn out to be the right ones. Modern European history is full of failure – but also full of successful national reforms.
 
@@ -148,13 +152,13 @@ On the other hand, if we do what others have already successfully tried, we migh
 
 European nations have gone through periods of change and reforms before. And have come out stronger and more prosperous on the other side. We could and we should do it again.
 
-\*\*\*
+***
 
 The European Commission’s Communication from two weeks ago is an important step towards reforming the capital markets.
 
 I am happy we are joined today by the Commissioner, outlining the suggestions for the Savings and Investment Union – formerly perhaps more well known as the Capital Markets Union.
 
-Sweden welcomes the stronger integration of this effort into the European Semester.  And we are open to discuss also common European initiatives. Securitisation, supervision and pan-European labels for products or accounts should be considered on their own merits.
+Sweden welcomes the stronger integration of this effort into the European Semester. And we are open to discuss also common European initiatives. Securitisation, supervision and pan-European labels for products or accounts should be considered on their own merits.
 
 But - let’s not fool ourselves. Reform at the EU level only, will not be the silver bullet ensuring that European start-ups decide to stay and raise capital in Europe. Common supervision will not make that much of a difference as long as you lack sufficient capital and a well-designed ecosystem.
 
@@ -166,7 +170,7 @@ Also, don’t allow reforms to disrupt already properly functioning markets and 
 
 And if we want to increase financial literacy, it is important to let people make their own investment choices and learn by doing.
 
-\*\*\*
+***
 
 Lastly, let’s remember that our capital markets are only one part of a much bigger ecosystem that attracts investment.
 

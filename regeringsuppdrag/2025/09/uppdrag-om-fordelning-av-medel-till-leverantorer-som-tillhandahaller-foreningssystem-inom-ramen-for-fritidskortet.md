@@ -1,4 +1,4 @@
-# Uppdrag om fördelning av medel till leverantörer som tillhandahåller föreningssystem inom ramen för fritidskortetDiarienummer:  S2025/01638
+# Uppdrag om fördelning av medel till leverantörer som tillhandahåller föreningssystem inom ramen för fritidskortet
 
 Regeringen uppdrar åt E-hälsomyndigheten och Tillväxtverket att analysera och föreslå hur medel kan fördelas till leverantörer av föreningssystem till utförare av fritidsaktiviteter som omfattas av fritidskortet. Medlen ska tilldelas leverantörer av föreningssystem till utförare av fritidsaktiviteter som omfattas av fritidskortet och som utvecklar, eller har utvecklat, de tekniska förutsättningar som krävs för att integrera sitt system mot E-hälso-myndighetens digitala tjänst för fritidskort.
 

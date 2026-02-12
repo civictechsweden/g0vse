@@ -1,6 +1,6 @@
 # Kortversion av Livsmedelsstrategin 2.0
 
-![](/contentassets/dc5bf50d0654475dabfcb1b255b03dfe/ls_pop_tumnagel.jpg?width=150&quality=85)
+![](/contentassets/dc5bf50d0654475dabfcb1b255b03dfe/ls_pop_tumnagel.jpg?width=150&amp;quality=85)
 
 En kortversion av regeringens arbete för att stärka alla delar i livsmedelskedjan och öka den svenska livsmedelsproduktionen.
 

@@ -18,7 +18,7 @@ Producenterna har via producentansvarsorganisationerna kvar det operationella an
 
 De nya bestämmelserna innebär att alla producenter av förpackningar ska anlita eller tillhandahålla en producentansvarsorganisation. En producentansvarsorganisation är en aktör som en producent har anlitat för att fullgöra producentansvaret. Producentansvarsorganisationernas verksamhet ska prövas av Naturvårdsverket och de får ett godkännande om de uppfyller kraven i förordningen. Kraven utgår från minimikraven i EU:s avfallsdirektiv, men innefattar även ett krav som innebär att intäkterna bara får användas för verksamhet som har samband med organisationens skyldigheter enligt förordningen eller annan författning eller för att betala tillbaka ett eventuellt överskott till producenterna.
 
-Ansökan om godkännande av en producentansvarsorganisation ska lämnas in senast den 31 mars året innan verksamheten ska påbörjas, första gången senast den 31 mars 2023. Naturvårdsverket ska besluta om godkännande senast den 31 oktober för att gälla för en producentansvarsorganisation nästkommande kalenderår.
+Ansökan om godkännande av en producentansvarsorganisation ska lämnas in senast den 31 mars året innan verksamheten ska påbörjas, första gången senast den 31 mars 2023. Naturvårdsverket ska besluta om godkännande senast den 31 oktober för att gälla för en producentansvarsorganisation nästkommande kalenderår.
 
 ## Insamling av förpackningsavfall från hushållen
 
@@ -40,7 +40,7 @@ Verksamheterna kan också lämna sina förpackningar eller sitt förpackningsavf
 
 ## Insamling på torg, i parker och på andra populära platser utomhus
 
-Från den 1 januari 2026 ska kommunerna samla in vanligt förpackningsavfall separat på torg eller i parker som är över 2 000 kvadratmeter och där det förekommer betydande mängder förpackningsavfall.
+Från den 1 januari 2026 ska kommunerna samla in vanligt förpackningsavfall separat på torg eller i parker som är över 2 000 kvadratmeter och där det förekommer betydande mängder förpackningsavfall.
 
 Kommunerna ska dessutom samla in förpackningsavfall av plast separat på andra platser utomhus där det förekommer betydande mängder sådant förpackningsavfall, t.ex. på gågator.
 

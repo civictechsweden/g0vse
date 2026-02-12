@@ -4,9 +4,9 @@ En särskild utredare ska föreslå åtgärder för att utveckla lärar- och fö
 
 Utredaren ska bland annat
 
-* föreslå hur antagningskraven till lärar- och förskollärarutbildningarna kan höjas,
-* föreslå åtgärder för hur ämneslärarutbildningen kan stärkas, exempelvis genom ökade samarbeten, och hur vissa ämnen kan koncentreras till färre lärosäten i syfte att höja kvaliteten,
-* föreslå hur utbildningsinnehållet kan reformeras med ökat fokus på ämneskunskap, kognitionsvetenskap och praktisk metodik, och
+* föreslå hur antagningskraven till lärar- och förskollärarutbildningarna kan höjas,
+* föreslå åtgärder för hur ämneslärarutbildningen kan stärkas, exempelvis genom ökade samarbeten, och hur vissa ämnen kan koncentreras till färre lärosäten i syfte att höja kvaliteten,
+* föreslå hur utbildningsinnehållet kan reformeras med ökat fokus på ämneskunskap, kognitionsvetenskap och praktisk metodik, och
 * lämna nödvändiga författningsförslag.
 
 Uppdraget ska redovisas senast den 29 november 2024.

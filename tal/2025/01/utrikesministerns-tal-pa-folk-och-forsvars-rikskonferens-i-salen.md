@@ -14,7 +14,7 @@ Kärnuppgiften för svensk utrikes- och säkerhetspolitik är inte valbar. Den b
 
 Därför vill jag ägna de här minuterna åt att tala om hur Sverige, tillsammans med våra allierade, aktivt motverkar Rysslands möjligheter att skada oss.
 
-\*\*\*
+***
 
 Vi – Nato, EU och Sverige – befinner oss i en djupgående konflikt och konfrontation med Ryssland. Det är inte vi som har velat, valt eller orsakat detta – det är den ryska statsledningen.
 
@@ -34,7 +34,7 @@ Det beror i hög grad på oss hur långt Ryssland kan gå. På hur stadigt och s
 
 I stormen måste lasten surras.
 
-\*\*\*
+***
 
 Sverige ska möta hotet från Ryssland med en robust och aktiv motverkanspolitik, som måste kunna bestå i en generation eller mer.
 
@@ -66,7 +66,7 @@ Den aktiva motverkanspolitiken äger rum här och nu, på stor bredd. Den är sa
 
 Vår utgångspunkt är att de aggressiva ryska intentionerna inte kommer att förändras.
 
-\*\*\*
+***
 
 Jag vill särskilt kommentera två aspekter av motverkanspolitiken som är aktuella just nu: så kallade hybridoperationer, och den ryska skuggflottan.
 
@@ -94,7 +94,7 @@ Vi utvecklar hela tiden vår lägesuppfattning och våra svarsåtgärder. Natos 
 
 Vi vet att så länge vi håller ihop och står starka i vårt stöd till Ukraina, och bakom Natos avskräckning och försvar, så kommer Ryssland att fortsätta misslyckas i sitt uppsåt.
 
-\*\*\*
+***
 
 Rysslands svaga punkt är krigsekonomin. Med omfattande vilseledning försöker Kreml ge bilden av stabilitet. Men det är en illusion – en Potemkinkuliss. Sanktionerna fungerar.
 
@@ -116,7 +116,7 @@ För det andra intensifierar vi nu vårt systematiska arbete för att hindra sku
 
 Inget EU-land gör idag mer än Sverige för att identifiera fartyg och nyckelaktörer inom skuggflottan, så att de kan sanktionslistas. Och vi ser att sanktionerna får effekt. Ett sänkt oljepristak och stärkta åtgärder för att kringskära skuggflottan går hand i hand. Tillsammans minskar de Rysslands möjligheter att göra oss skada. Så bedriver Sverige, på stor bredd, en aktiv motverkanspolitik.
 
-\*\*\*
+***
 
 Jag inledde med att konstatera att tyngdpunkten i svensk utrikespolitik inte är valfri: det handlar om att motverka Ryssland, först och främst genom att stödja Ukraina. Det är en investering i vår egen säkerhet.
 

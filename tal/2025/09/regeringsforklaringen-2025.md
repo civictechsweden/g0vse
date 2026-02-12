@@ -34,7 +34,7 @@ Under riksdagsåret som ligger framför oss kommer regeringen att lägga fram en
 
 Det här är en regering som får saker gjorda. Så, herr talman och riksdagsledamöter – kavla upp ärmarna, välkomna till höstterminen!
 
-\* \* \*
+* * *
 Herr talman
 
 Ingen uppgift är mer central för regeringen än att bekämpa gängbrottsligheten. När vi tog över hade det dödliga skjutvapenvåldet tredubblats på ett decennium. Den kriminella ekonomin hade vuxit till 100–150 miljarder kronor om året.
@@ -61,7 +61,7 @@ För att rensa bort oseriösa aktörer införs tillståndsprövning för fler ve
 
 Men all allvarlig brottslighet är inte organiserad brottslighet. Mäns våld mot kvinnor måste bekämpas med kraft. Kontaktförbudet har redan utvidgats kraftigt, och den som har dömts för ett allvarligt brott i nära relation, eller för hedersförtryck, ska för att skydda brottsoffret som regel meddelas kontaktförbud efter avtjänat straff. Regeringen går nu vidare för att bekämpa även psykiskt och ekonomiskt våld. Kvinnofrid ska vara en självklarhet i ett av världens mest jämställda länder.
 
-\* \* \*
+* * *
 Herr talman
 
 I decennier bedrev Sverige en ogenomtänkt och ohållbar migrationspolitik i kombination med en misslyckad integrationspolitik. Följden är ett stort utanförskap, som har skapat grogrund för gängkriminalitet, extremism, hederskultur och bidragsberoende.
@@ -78,7 +78,7 @@ Men Sverige måste bli ännu bättre på att attrahera internationell talang fö
 
 Signalen från Sverige ska vara tydlig: Om du är en högkvalificerad talang inom ditt yrkesområde och vill bygga din framtid här tillsammans med oss – välkommen till Sverige!
 
-\* \* \*
+* * *
 Herr talman
 
 Det är uppenbart att många som har kommit till Sverige också har kommit in bra i det svenska samhället och varje dag gör viktiga insatser. Vi ser er, vi uppskattar er och vi vill att ni och era barn ska lyckas i Sverige.
@@ -104,7 +104,7 @@ Förbud införs mot kusinäktenskap, som är en bärande del av klan- och heders
 
 Den frivilliga återvandringen bör kraftigt stimuleras och öka. För den som upplever att den inte blivit en del av det svenska samhället – eller som av andra skäl vill tillbaka till sitt hemland – finns från årsskiftet möjligheten att söka ett kraftigt höjt återvandringsbidrag.
 
-\* \* \*
+* * *
 Herr talman
 
 Den nordiska välfärdsmodellen är unik. Den gläds med alla som lyckas, och erbjuder en andra chans till dem som inte lyckas. Men den förutsätter att vi alla anstränger oss efter bästa förmåga. Så ser det goda samhällskontraktet ut mellan medborgarna och det offentliga. Rättigheter och skyldigheter.
@@ -133,7 +133,7 @@ Därför genomför regeringen det största reformpaketet på skolans område på
 
 Efter årsskiftet läggs därför ett stort antal propositioner på riksdagens bord. Lärare ska få vara lärare och skolans kunskapsuppdrag ska stå i fokus. Friskolesystemet helrenoveras med ökad insyn och skärpta regler för att hålla oseriösa aktörer borta från skolans värld. Trygghet och studiero återupprättas. Det är hög tid att vi behandlar skolan som den bärande samhällsinstitution den är. Det är dags att vi behandlar läraryrket med den respekt det förtjänar. För Sverige ska ha en skola i världsklass.
 
-\* \* \*
+* * *
 Herr talman
 
 Regeringen ärvde en inflation på över tio procent. De skenande kostnadsökningarna slog hårt mot familjer, företag och välfärd. Regeringen fokuserade därför på att bekämpa inflationen.
@@ -172,7 +172,7 @@ För att Sverige, EU och världen ska klara den gröna omställningen är energi
 
 Ny, fossilfri baskraft är nyckeln till ett stabilt elsystem när elproduktionen ska byggas ut. Men regeringen välkomnar alla fossilfria energislag. Ett vindkraftspaket kommer att läggas fram med stärkta incitament för kommuner och kompensation för närboende.
 
-\* \* \*
+* * *
 Herr talman
 
 Det är bråttom att minska klimatutsläppen i världen. Sverige är ett föregångsland, som tidigt började fasa ut oljeberoendet genom vattenkraft och kärnkraft och byte av oljepannor mot värmepumpar. Sedan 1990 har Sverige minskat de territoriella utsläppen med en tredjedel samtidigt som vår BNP nästan har fördubblats.
@@ -185,7 +185,7 @@ Våra hav måste bli friskare. Vi arbetar för att stoppa övergödningen, åter
 
 Fiskebestånden i Östersjön måste få en chans att återhämta sig. Sverige fortsätter att driva på för så låga fiskekvoter som möjligt inom EU. Samtidigt har vi på egen hand fattat beslut om ett förbud mot bottentrålning i marina skyddade områden innanför trålgränsen. På prov har vi även flyttat ut trålgränsen för att skydda strömmingen när den leker. Framöver kommer en permanent reglering.
 
-\* \* \*
+* * *
 Herr talman
 
 Vi lever i allvarstider. Den regelbaserade världsordningen, som skapades efter andra världskriget, är i gungning. Den fria världen pressas från auktoritära krafter samtidigt som de ideal som har förenat demokratierna i decennier inte längre är självklara.
@@ -213,7 +213,7 @@ Sverige genomför den kraftfullaste förstärkningen av försvaret sedan kalla k
 
 Denna breda upprustning av det svenska totalförsvaret kommer att märkas långt bortom kaserngårdarna i form av tusentals nya jobb – inte minst inom den framgångsrika svenska försvarsindustrin. Men också inom forskningsmiljöer och innovation, rymdsatsningar och upprustad fysisk infrastruktur. Ytterst är vi alla en del av försvaret av Sverige. Det är när var och en gör sitt, som det verkligen blir vårt. Tillsammans är vi starka.
 
-\* \* \*
+* * *
 Herr talman
 
 Sverige är ett öppet och tolerant samhälle. Vi vill vara ett land där vi bryr oss mindre om var du kommer ifrån, vilken hudfärg du har, vem du älskar och vilken gud du kanske tillber – och bryr oss mer om vem du är och vart du är på väg.
@@ -228,7 +228,7 @@ Civilsamhället har en stark och unik roll i Sverige. Jag vill rikta ett varmt t
 
 Nyligen presenterades en kulturkanon, som har vaskat fram guldet ur den gemensamma, svenska kulturskatten. Regeringens ambition är att det ska bli en levande kanon, som vi kan samlas kring i vårt land. I tider av splittring och polarisering är det viktigare än någonsin att se till allt det som förenar oss. Att förundras över allt det som har gjort Sverige till ett så fantastiskt land att leva i.
 
-\* \* \*
+* * *
 Herr talman
 
 Jag förstår om många misströstar när världsläget är skakigare än på mycket länge. När barn fullproppade med tramadol utför morduppdrag mot betalning och när matkassen har blivit så ekonomiskt tung att bära att det lilla extra inte längre ryms.

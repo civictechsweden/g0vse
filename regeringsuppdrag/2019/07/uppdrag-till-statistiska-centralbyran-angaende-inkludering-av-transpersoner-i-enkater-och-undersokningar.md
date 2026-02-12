@@ -5,14 +5,14 @@ Regeringen ger Statistiska centralbyrån (SCB) i uppdrag att ta fram ett stödma
 I uppdraget ingår bl.a. att:
 
 * Inhämta information från myndigheter, kommuner och landsting om
-  behovet av stöd på området
+behovet av stöd på området
 * Genomföra en studie, inklusive tester av frågor, av designaspekter
-  vid utformning av enkäter och undersökningar som inkluderar såväl
-  binära som ickebinära transpersoner
+vid utformning av enkäter och undersökningar som inkluderar såväl
+binära som ickebinära transpersoner
 * Ta fram exempel på när det kan vara relevant att inkludera en
-  frågeställning om transerfarenhet samt hur den kan formuleras
+frågeställning om transerfarenhet samt hur den kan formuleras
 * Lämna förslag på hur stödet kan spridas, förvaltas och vid behov
-  uppdateras
+uppdateras
 
 Uppdraget ska utföras i dialog med Sveriges Kommuner och Landsting
 (SKL), RFSL, Jämställdhetsmyndigheten, Diskrimineringsombudsmannen, Folkhälsomyndigheten, Socialstyrelsen och andra berörda aktörer.

@@ -2,7 +2,7 @@
 
 För att stärka skyddet mot allvarliga sexuella kränkningar som begås på distans, till exempel över internet, föreslår regeringen att bestämmelserna om våldtäkt och sexuellt övergrepp och motsvarande brott mot barn ska utvidgas.
 
-Det föreslås även att bestämmelserna om våldtäkt och våldtäkt mot barn ska göras mer neutrala med avseende på kön och sexuell läggning. Vidare föreslås att bestämmelsen om utnyttjande av barn för sexuell posering ska utvidgas så att även ageranden där barnet varit helt passivt omfattas. Det föreslås också att det ska införas nya straffbestämmelser om sexuellt ofredande mot barn, grovt sexuellt ofredande mot barn och grovt sexuellt ofredande. För att bättre återspegla brottslighetens allvar föreslår regeringen slutligen bland annat följande straffskärpningar:
+Det föreslås även att bestämmelserna om våldtäkt och våldtäkt mot barn ska göras mer neutrala med avseende på kön och sexuell läggning. Vidare föreslås att bestämmelsen om utnyttjande av barn för sexuell posering ska utvidgas så att även ageranden där barnet varit helt passivt omfattas. Det föreslås också att det ska införas nya straffbestämmelser om sexuellt ofredande mot barn, grovt sexuellt ofredande mot barn och grovt sexuellt ofredande. För att bättre återspegla brottslighetens allvar föreslår regeringen slutligen bland annat följande straffskärpningar:
 
 * Minimistraffet för våldtäkt och våldtäkt mot barn ska höjas från fängelse i två år till fängelse i tre år.
 * Minimistraffet för sexuellt övergrepp och sexuellt övergrepp mot barn ska höjas från fängelseminimum till fängelse i sex månader.

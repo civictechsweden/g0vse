@@ -4,7 +4,7 @@ Regeringen föreslår en reform av regleringen om ny påföljdsbestämning efter
 
 Domstolen ska i en sådan situation som huvudregel bestämma en ny påföljd för den tillkommande brottsligheten. Möjligheten att bestämma att en tidigare dom ska omfatta också tillkommande brottslighet, så kallad konsumtionsdom, eller att undanröja en utdömd påföljd och bestämma ny gemensam påföljd för den samlade brottsligheten ska bara användas i undantagsfall.
 
-Regleringen görs också mer konsekvent när det gäller hur brott som utgör återfall ska behandlas. Det ska göras en principiell skillnad mellan brott begångna före en tidigare dom (nyupptäckt brottslighet), och brott begångna efter en tidigare dom men innan påföljden helt har verkställts eller annars upphört (ny brottslighet). Förslagen innebär bland annat att gemensam straffmätning fortsättningsvis endast ska tillämpas vid nyupptäckt brottslighet.
+Regleringen görs också mer konsekvent när det gäller hur brott som utgör återfall ska behandlas. Det ska göras en principiell skillnad mellan brott begångna före en tidigare dom (nyupptäckt brottslighet), och brott begångna efter en tidigare dom men innan påföljden helt har verkställts eller annars upphört (ny brottslighet). Förslagen innebär bland annat att gemensam straffmätning fortsättningsvis endast ska tillämpas vid nyupptäckt brottslighet.
 
 Slutligen föreslår regeringen att ungdomstjänst och ungdomsvård ska omfattas av regleringen om ny påföljdsbestämning efter tidigare dom.
 

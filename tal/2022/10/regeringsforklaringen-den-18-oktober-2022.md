@@ -14,7 +14,7 @@ Därför måste nu statens kärnuppgifter vara regeringens och riksdagens fokus.
 
 Låt mig därför idag tala klarspråk: Den regering som nu tillträder tar över ansvaret för ett land som befinner sig mitt i flera parallella kriser.
 
-\*\*\*
+***
 
 Fyra mycket krävande uppgifter står framför oss.
 
@@ -38,7 +38,7 @@ Men låt oss samtidigt se möjligheterna att samarbeta. Jag kommer nu bilda en r
 
 Jag känner idag tillförsikt inför de uppgifter vi står inför. Som ni står inför, och som jag och Sveriges regering står inför. Det beror inte alls på att jag underskattar Sveriges problem. Inte heller på att jag överskattar vår eller min förmåga. För det här kommer bli svårt. Det kommer ta tid. Men det kommer att gå. Det finns ingenting som är så dåligt i Sverige att det inte kan lagas med allt det, som är riktigt bra.
 
-\*\*\*
+***
 
 Herr talman
 
@@ -64,7 +64,9 @@ Den som har jobbat ett helt arbetsliv har rätt till tillräckliga pensioner som
 
 Drivkrafterna för att äldre som vill stanna kvar i arbetslivet kommer att förbättras. Äldres erfarenhet och kompetens är ofta förbisedd i Sverige. Åldersdiskrimineringen kan vara oavsiktlig, men är ändå kännbar. Det underskattar många äldres förmåga att bidra. Regeringen kommer att ha en tydligt ansvarig minister för de samlade äldrefrågorna.
 
-\*\*\*
+***
+
+
 
 Herr talman
 
@@ -118,7 +120,7 @@ En utredning tar fram ett förslag på nationellt tiggeriförbud. En folkräknin
 
 Herr talman
 
-Det här är en regering för alla som anstränger sig och vill göra rätt för sig – oavsett om man har invandrat till Sverige eller är född här.  Människor har under årens lopp kommit hit och bidragit med kunskap, entreprenörskap och skattepengar. När integrationen till det svenska samhället fungerar skapas ett rikare, mer tolerant och framgångsrikt samhälle. Men vi får aldrig vara toleranta, mot intoleransen.
+Det här är en regering för alla som anstränger sig och vill göra rätt för sig – oavsett om man har invandrat till Sverige eller är född här. Människor har under årens lopp kommit hit och bidragit med kunskap, entreprenörskap och skattepengar. När integrationen till det svenska samhället fungerar skapas ett rikare, mer tolerant och framgångsrikt samhälle. Men vi får aldrig vara toleranta, mot intoleransen.
 
 Alla som kommer till Sverige, ska naturligtvis också bli en del av det svenska samhället. En utredning tillsätts med uppdrag att förändra reglerna om samhällsorientering för nyanlända, och samhällsintroduktion för asylsökande. Krav på att lära sig svenska och försörjning införs för att få svenskt medborgarskap.
 
@@ -126,7 +128,7 @@ Samhällets kontaktyta till barn och deras familjer ska bli större. Programmen 
 
 Regeringen intensifierar arbetet mot hedersförtryck. Oskuldskontroller, oskuldsoperationer och oskuldsintyg kriminaliseras. Insatserna för plötsligt försvunna barn ska förstärkas och vite kunna utdömas för vårdnadshavare som inte medverkar till att barnen återförs. Äktenskap mellan kusiner ska inte vara tillåtet. Fler som döms för hedersrelaterade brott kommer att utvisas ur landet.
 
-\*\*\*
+***
 
 Herr talman
 
@@ -156,7 +158,7 @@ Miljöproblemen är en av vår tids stora gränsöverskridande frågor. Sveriges
 
 Särskilda insatser görs också för att motverka övergödning av Östersjön och för att flytta ut gränsen för storskaligt trålfiske.
 
-\*\*\*
+***
 
 Herr talman
 
@@ -200,7 +202,7 @@ Fokusera också biståndspolitiken för att utgöra ett verktyg för att motverk
 
 På längre sikt är det handel och ekonomisk utveckling som är vägen från fattigdom till välstånd. I regeringen sammanförs därför ansvaret för utvecklingsbistånd och utrikeshandel till ett statsråd. Den tillträdande bistånds- och utrikeshandelsministern ges ett särskilt ansvar för det svenska stödet till återuppbyggnaden av Ukraina.
 
-\*\*\*
+***
 
 Herr talman,
 
@@ -222,7 +224,7 @@ Behovet av kvalificerad arbetskraft är idag akut i många branscher. För att s
 
 Universitet och högskolor bidrar starkt till samhällets utveckling och näringslivets konkurrenskraft. Bildningsbegreppet är viktigt, och ska inte ställas i motsats till yrkesskicklighet och anställningsbarhet. Universitet och högskolor ska styras mer utifrån principer av utbildningskvalitet och vetenskaplig excellens, än av rena volymmål. Vetenskap och forskning ska stå fri från politisk styrning.
 
-\*\*\*
+***
 
 Herr talman
 
@@ -254,7 +256,7 @@ Psykisk ohälsa handlar om lagar och regler, men också om medmänsklighet. Fler
 
 Den svenska idrottsrörelsens betydelse för folkhälsa och sammanhållning kan inte överskattas. Regeringen avser göra flera satsningar under mandatperioden.
 
-\*\*\*
+***
 
 Herr talman
 
@@ -272,7 +274,7 @@ Den pågående grundlagsutredningen som bland annat syftar till att stärka doms
 
 I Sverige har alla rätt att vara den man är, och älska vem man vill. Regeringen står upp för HBTQ-personers rättigheter, oavsett vem som hittar sätt att inskränka eller kränka dem. Ett förslag om att förbjuda omvändelseterapi som sker under hot eller tvång ska utredas.
 
-\*\*\*
+***
 
 Herr talman
 
@@ -286,6 +288,6 @@ Fyra samarbetspartier gick till val på att tala ärligt om situationens allvar 
 
 Sveriges ska vara ett land där lagen och jämställdheten gäller alla. Ett land där alla barn får se sina föräldrar gå till jobbet, och där det alltid lönar sig att arbeta och göra sitt bästa. Ett land där klimatsmart vind, vatten och kärnkraft ger ren, stabil och billig el. Ett land där gröna innovationer, världsledande utbildning och forskning och nya jobb – inte kravaller och dödsskjutningar – ger Sverige stora rubriker utomlands.
 
-Det Sverige som vi älskar har präglats av dynamiken mellan frihet och ansvar. Friheten att   bestämma över sitt eget liv. Att gå sin egen väg. Och att ta ansvar för varandra, eftersom ensam inte alls alltid är stark.
+Det Sverige som vi älskar har präglats av dynamiken mellan frihet och ansvar. Friheten att bestämma över sitt eget liv. Att gå sin egen väg. Och att ta ansvar för varandra, eftersom ensam inte alls alltid är stark.
 
 Frihet och ansvar är svenska ledstjärnor, och min regering kommer att navigera efter dem.

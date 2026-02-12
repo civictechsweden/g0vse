@@ -1,4 +1,4 @@
-# Strategi för den gemensamma jordbrukspolitiken 2030 och därefterDiarienummer: LI2026/00221
+# Strategi för den gemensamma jordbrukspolitiken 2030 och därefter
 
 Genom Livsmedelsstrategin 2.0 har regeringen stakat ut vägen för en ökad och mer hållbar svensk livsmedelsproduktion. Budskapet i strategin är tydligt – lönsamheten och konkurrenskraften i livsmedelsproduktionen måste öka. För att bygga Sverige starkare och säkrare i ett nytt geopolitiskt läge måste också robustheten i livsmedelskedjan stärkas.
 

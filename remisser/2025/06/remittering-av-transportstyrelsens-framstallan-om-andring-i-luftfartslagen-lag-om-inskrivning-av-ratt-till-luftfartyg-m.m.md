@@ -1,4 +1,4 @@
-# Remittering av Transportstyrelsens framställan om ändring i luftfartslagen, lag om inskrivning av rätt till luftfartyg, m.m.Diarienummer: Ju2023/02583
+# Remittering av Transportstyrelsens framställan om ändring i luftfartslagen, lag om inskrivning av rätt till luftfartyg, m.m.
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen Transportstyrelsens framställan om ändring i luftfartslagen, lag om inskrivning av rätt till luftfartyg, m.m.. Övriga yttranden finns tillgängliga i departementet.
 

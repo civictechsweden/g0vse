@@ -34,7 +34,7 @@ Mer information på ESV:s webbplats: [Regleringsbrev 2024 Myndighet Läkemedelsv
 
 ## Internationell samverkan viktig för ett globalt problem
 
-Rest- och bristsituationer uppstår ofta i flera länder då många läkemedelsföretag verkar i en global kontext.  De problem som uppstår i samband med rest- och bristsituationer märks därför även i många andra länder, såväl i Norden som i övriga EU. Läkemedel köps och säljs via globala värdekedjor. För att möta de restsituationer som uppkommer krävs flera olika åtgärder, bland annat internationellt samarbete. Regeringen för därför dialoger om detta i både EU-sammanhang och inom Nordiska ministerrådet.
+Rest- och bristsituationer uppstår ofta i flera länder då många läkemedelsföretag verkar i en global kontext. De problem som uppstår i samband med rest- och bristsituationer märks därför även i många andra länder, såväl i Norden som i övriga EU. Läkemedel köps och säljs via globala värdekedjor. För att möta de restsituationer som uppkommer krävs flera olika åtgärder, bland annat internationellt samarbete. Regeringen för därför dialoger om detta i både EU-sammanhang och inom Nordiska ministerrådet.
 
 Läkemedelsverket har haft i uppdrag att göra en kartläggning av den svenska läkemedelsproduktionen. Uppdraget, som var del av samarbetet inom Nordiska ministerrådet, genomfördes i samarbete med de nordiska länderna. Syftet med uppdraget var att ta fram en översiktsbild över tillverkningsanläggningar i Sverige och Norden, en kunskap som är viktig i ledet att minska globala beroenden inom läkemedelsförsörjningen.
 

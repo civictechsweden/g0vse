@@ -10,7 +10,7 @@ Det är viktigt att Sverige är ett land där människor med olika tro kan leva 
 
 Mötet var det första mellan statsminister Ulf Kristersson och företrädare för muslimska trossamfund efter regeringsskiftet. Liknande möten har anordnats av tidigare statsministrar.
 
-Det ska självklart vara möjligt att leva som muslim i Sverige och finnas förutsättningar för att trossamfund ska kunna bedriva en aktiv och långsiktig religiös verksamhet. Det är viktigt att vi har en dialog och jag ser fram emot fler möten som det idag, säger socialminister Jakob Forssmed.
+Det ska självklart vara möjligt att leva som muslim i Sverige och finnas förutsättningar för att trossamfund ska kunna bedriva en aktiv och långsiktig religiös verksamhet. Det är viktigt att vi har en dialog och jag ser fram emot fler möten som det idag, säger socialminister Jakob Forssmed.
 
 Det muslimska civilsamhället i Sverige är heterogent och det finns flera statsbidragsberättigade trossamfund. Regeringen har dialog med företrädare för muslimska organisationer i olika processer, bland annat genom regeringens Trossamfundsråd som leds av socialministern. Därtill hålls årliga sakråd kring frågan om islamofobi inom ramen för regeringens arbete mot rasism.
 

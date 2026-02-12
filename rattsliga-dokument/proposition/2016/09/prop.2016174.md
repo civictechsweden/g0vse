@@ -4,7 +4,7 @@ I propositionen lämnas förslag som innebär ökade incitament för den försä
 
 En omfördelning av stödet föreslås till förmån för höjda inkomstnivåer i anskaffningsbidraget och införandet av ett tilläggsbidrag för inköp av bil.
 
-En bestämmelse om vilka krav som kan ställas på en bil  för att anpassningsbidrag ska kunna lämnas föreslås och anpassningsbidrag ska kunna lämnas för körträning.
+En bestämmelse om vilka krav som kan ställas på en bil för att anpassningsbidrag ska kunna lämnas föreslås och anpassningsbidrag ska kunna lämnas för körträning.
 
 En funktionskontroll av anpassningar ska göras om det inte är uppenbart obehövligt.
 

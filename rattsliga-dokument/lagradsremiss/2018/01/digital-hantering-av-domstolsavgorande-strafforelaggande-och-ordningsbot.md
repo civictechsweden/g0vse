@@ -6,4 +6,4 @@ Förslag lämnas även för att tillåta elektroniskt undertecknande av domstols
 
 Ändringarna föreslås träda i kraft den 1 juli 2018.
 
-[Pressmeddelande: Rättsväsendet ska kunna hantera böter digitalt](/pressmeddelanden/2018/01/rattsvasendet-ska-kunna-hantera-boter-digitalt/)
+[Pressmeddelande: Rättsväsendet ska kunna hantera böter digitalt](/pressmeddelanden/2018/01/rattsvasendet-ska-kunna-hantera-boter-digitalt/)

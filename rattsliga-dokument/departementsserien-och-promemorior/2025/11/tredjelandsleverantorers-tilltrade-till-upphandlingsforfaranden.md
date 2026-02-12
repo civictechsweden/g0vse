@@ -1,4 +1,4 @@
-# Tredjelandsleverantörers tillträde till upphandlingsförfarandenDs 2025:29
+# Tredjelandsleverantörers tillträde till upphandlingsförfaranden
 
 I bokstavsutredningen lämnas förslag på hur upphandlingslagarna bör ändras för att lagarna ska vara förenliga med de krav som följer av EU-rätten, med avseende på två avgöranden från EU-domstolen som meddelades under 2024 och 2025 (Fi 2025:B).
 

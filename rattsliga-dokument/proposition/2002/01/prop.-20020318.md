@@ -1,3 +1,0 @@
-# Ersättning vid flygolyckor
-
-

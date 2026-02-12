@@ -18,6 +18,6 @@ Myndigheten ska vidta sådana åtgärder den bedömer kunna genomföra inom rame
 
 ## Nära dialog med andra aktörer
 
-E-hälsomyndigheten ska genomföra uppdraget i nära dialog med regioner, dosaktörer och berörda systemleverantörer.  Myndigheten ska hämta in synpunkter från kommuner och andra berörda aktörer.
+E-hälsomyndigheten ska genomföra uppdraget i nära dialog med regioner, dosaktörer och berörda systemleverantörer. Myndigheten ska hämta in synpunkter från kommuner och andra berörda aktörer.
 
 Myndigheten ska redovisa uppdraget i en rapport till Regeringskansliet senast den 31 oktober 2020.

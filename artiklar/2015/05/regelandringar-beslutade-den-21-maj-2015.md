@@ -8,8 +8,8 @@ Två EU-direktiv som innehåller tekniska krav på avgaser från förbränningsm
 
 ### Referenser
 
-* kommissionens direktiv 2014/43/EU av den 18 mars 2014 om ändring av bilagorna I, II och III till Europaparlamentets och rådets direktiv 2000/25/EG om åtgärder mot utsläpp av gas- och partikelformiga föroreningar från motorer avsedda för jordbruks- eller skogsbrukstraktorer
-* kommissionens direktiv 2014/44/EU av den 18 mars 2014 om ändring av bilagorna I, II och III till Europaparlamentets och rådets direktiv 2003/37/EG om typgodkännande av jordbruks- eller skogsbrukstraktorer, av släpvagnar och utbytbara dragna maskiner till sådana traktorer samt av system, komponenter och separata tekniska enheter till dessa fordon
+* kommissionens direktiv 2014/43/EU av den 18 mars 2014 om ändring av bilagorna I, II och III till Europaparlamentets och rådets direktiv 2000/25/EG om åtgärder mot utsläpp av gas- och partikelformiga föroreningar från motorer avsedda för jordbruks- eller skogsbrukstraktorer
+* kommissionens direktiv 2014/44/EU av den 18 mars 2014 om ändring av bilagorna I, II och III till Europaparlamentets och rådets direktiv 2003/37/EG om typgodkännande av jordbruks- eller skogsbrukstraktorer, av släpvagnar och utbytbara dragna maskiner till sådana traktorer samt av system, komponenter och separata tekniska enheter till dessa fordon
 * förordningen (1998:1709) om avgaskrav för vissa förbränningsmotordrivna maskiner
 
 ## Ändring i förordningen om geografisk miljöinformation

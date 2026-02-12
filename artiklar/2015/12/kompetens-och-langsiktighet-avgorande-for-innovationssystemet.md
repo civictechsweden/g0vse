@@ -8,7 +8,7 @@ En proposition om forskning, innovation och högre utbildning kommer att present
 
 ## Kompetens och kunskap som gör nytta
 
-- När det gäller universitetens och högskolornas uppgift att samverka är det viktigt att regeringen tydliggör att en bred och långsiktig syn kring detta. Det får inte bara handla om sådant som kan mätas i patent och produkter. Det är viktigt att vi som myndighet får uppdrag som speglar det som faktiskt är vår roll, nämligen att förse samhället med kompetens och kunskap som kan göra nytta i samhället, fortsätter Pam Fredman.
+- När det gäller universitetens och högskolornas uppgift att samverka är det viktigt att regeringen tydliggör att en bred och långsiktig syn kring detta. Det får inte bara handla om sådant som kan mätas i patent och produkter. Det är viktigt att vi som myndighet får uppdrag som speglar det som faktiskt är vår roll, nämligen att förse samhället med kompetens och kunskap som kan göra nytta i samhället, fortsätter Pam Fredman.
 
 Hon betonar vikten av långsiktiga förutsättningar för alla aktörer i det svenska innovationssystemet. Det kan handla om samverkan på olika områden, till exempel utbildningssektorn och industrin. Viktigast är att det finns förutsättningar att arbeta tillsammans, enligt Pam Fredman.
 

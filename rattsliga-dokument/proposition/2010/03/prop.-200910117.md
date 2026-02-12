@@ -12,7 +12,7 @@ Som en följd av den nya lagen föreslås vissa ändringar i lagen (1980:578) om
 
 Lagförslagen föreslås träda i kraft den 1 juli 2010.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_________________________________________________
 Riksdagen beslutade den 21 april 2010 att förslagen i propositionen ska genomföras.
 
 Länk till riksdagsbeslutet finns i högerspalten.

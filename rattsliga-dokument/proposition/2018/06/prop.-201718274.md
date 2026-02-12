@@ -4,7 +4,7 @@ Regeringen lämnar förslag som ska leda till ett sammanhållet utbildningssyste
 
 ## Krav på praktisk tjänstgöring tas bort
 
-Regeringen föreslår att kravet på praktisk tjänstgöring för att få läkarlegitimation tas bort. Kravet på praktisk tjänstgöring – allmäntjänstgöringen – är i dag en förutsättning för läkarlegitimation. Förslaget bygger på ett förslag om en sexårig utbildning till läkarexamen där en läkarexamen kommer att kunna vara underlag för läkarlegitimation utan krav på ytterligare praktisk tjänstgöring. Förslaget om en förändrad läkarutbildning behandlas i ett annat sammanhang.
+Regeringen föreslår att kravet på praktisk tjänstgöring för att få läkarlegitimation tas bort. Kravet på praktisk tjänstgöring – allmäntjänstgöringen – är i dag en förutsättning för läkarlegitimation. Förslaget bygger på ett förslag om en sexårig utbildning till läkarexamen där en läkarexamen kommer att kunna vara underlag för läkarlegitimation utan krav på ytterligare praktisk tjänstgöring. Förslaget om en förändrad läkarutbildning behandlas i ett annat sammanhang.
 
 ## Behov av strukturerad introduktion
 

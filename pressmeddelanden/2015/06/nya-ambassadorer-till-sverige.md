@@ -6,11 +6,11 @@ Tre ambassadörer överlämnade torsdagen den 4 juni 2015 sina kreditivbrev till
 
 Ukrainas nyutnämnde ambassadörär född 1956 och har tjänstgjort i utrikesministeriet sedan 1978. De senaste åren har han innehaft följande befattningar:
 
-2010 - 2015: Ambassadör vid utrikesministeriet i Kiev
+2010 - 2015: Ambassadör vid utrikesministeriet i Kiev
 
 2008 - 2010: Ambassadör vid Ukrainas NATO-delegation i Bryssel
 
-2004 - 2007: Ambassadör i Norge
+2004 - 2007: Ambassadör i Norge
 
 2001 - 2004: Chef för avdelningen för FN och internationella organisationer vid utrikesministeriet i Kiev
 
@@ -20,13 +20,13 @@ Ghanas nyutnämnde ambassadör, med säte i Köpenhamn, är född 1955. Hon bör
 
 2013 - 2015: Ambassadör i Danmark
 
-2009 - 2013: Minister och andreman vid Ghanas ambassad i USA
+2009 - 2013: Minister och andreman vid Ghanas ambassad i USA
 
-2001 - 2005: Parlamentsledamot, verksam i utskotten för kommunikation, vägar och transporter samt jämställdhet och barn
+2001 - 2005: Parlamentsledamot, verksam i utskotten för kommunikation, vägar och transporter samt jämställdhet och barn
 
 ## H.E. Mr. David Taylor, Nya Zeeland
 
-Nya Zeelands nyutnämnde ambassadör, med säte i Bryssel, inledde sin karriär vid utrikesministeriet 1983.  De senaste åren har han innehaft följande poster:
+Nya Zeelands nyutnämnde ambassadör, med säte i Bryssel, inledde sin karriär vid utrikesministeriet 1983. De senaste åren har han innehaft följande poster:
 
 2015: Ambassadör till EU, Nato samt Sverige
 
@@ -34,6 +34,6 @@ Nya Zeelands nyutnämnde ambassadör, med säte i Bryssel, inledde sin karriär 
 
 2008 - 2010: Chef för Amerikaenheten vid utrikesministeriet
 
-2006 - 2008: Chef för Asienenheten vid utrikesministeriet
+2006 - 2008: Chef för Asienenheten vid utrikesministeriet
 
-2002 - 2008: Ambassadör i Sydkorea med ackreditering även till Nordkorea
+2002 - 2008: Ambassadör i Sydkorea med ackreditering även till Nordkorea

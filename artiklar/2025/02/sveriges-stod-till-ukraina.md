@@ -58,7 +58,7 @@ Socialstyrelsen gavs våren 2024 i uppdrag att samordna offentliga aktörers bid
 
 ### Energiförsörjning
 
-Ryska missil- och drönarattacker riktar särskilt in sig på kritisk energiinfrastruktur och orsakar storskaliga strömavbrott. Insatser för återuppbyggandet av ukrainsk el- och värmeförsörjning är därför viktiga för att hålla i gång det ukrainska samhället.  Energistödet till Ukraina utgör nästan en tredjedel av det svenska civila stödet.
+Ryska missil- och drönarattacker riktar särskilt in sig på kritisk energiinfrastruktur och orsakar storskaliga strömavbrott. Insatser för återuppbyggandet av ukrainsk el- och värmeförsörjning är därför viktiga för att hålla i gång det ukrainska samhället. Energistödet till Ukraina utgör nästan en tredjedel av det svenska civila stödet.
 
 Under hösten 2024 bidrog Sverige med närmre 1 miljard kronor för att möta omedelbara humanitära behov och stärka energiförsörjningen i Ukraina. Av det totala stödet under hösten 2024 användes 500 miljoner kronor för gasturbiner som beräknas generera el till 185 000 människor.
 

@@ -37,7 +37,7 @@ Möten med civilsamhället är alltid en prioritet och var det även under OSSE-
 
 I Belarus har vi sett hur regimen på ett cyniskt sätt utnyttjat migranter i politiska syften. Belarus måste släppa alla politiska fångar och hålla demokratiska val.
 
-Sverige har som ordförande också verkat för att den ryska aggressionen mot Ukraina och den ryska illegala annekteringen av Krim hållits högt på OSSE:s agenda. Det har snart gått åtta år sedan dess och över 14 000 personer har mist livet. Bara för att tiden går blir inte detta folkrättsstridiga agerande mer acceptabelt. Vi fortsätter nu vårt arbete som medlem i OSSE:s ordförandetrojka.
+Sverige har som ordförande också verkat för att den ryska aggressionen mot Ukraina och den ryska illegala annekteringen av Krim hållits högt på OSSE:s agenda. Det har snart gått åtta år sedan dess och över 14 000 personer har mist livet. Bara för att tiden går blir inte detta folkrättsstridiga agerande mer acceptabelt. Vi fortsätter nu vårt arbete som medlem i OSSE:s ordförandetrojka.
 
 Herr talman!
 
@@ -141,7 +141,7 @@ Kinas internationella betydelse berör också Sverige och svenska intressen, int
 
 Herr talman!
 
-Förra året evakuerade Sverige ungefär 2 000 personer från Afghanistan. Under augusti månad var situationen vid flygplatsen i Kabul tidvis kaotisk och mycket svår. När en bomb exploderade intill flygplatsen fanns svensk försvarsmaktspersonal bara sekunder därifrån.
+Förra året evakuerade Sverige ungefär 2 000 personer från Afghanistan. Under augusti månad var situationen vid flygplatsen i Kabul tidvis kaotisk och mycket svår. När en bomb exploderade intill flygplatsen fanns svensk försvarsmaktspersonal bara sekunder därifrån.
 
 Jag vill på regeringens vägnar återigen säga tack till alla i utrikesförvaltningen, myndigheter och kommuner som arbetade dag och natt med evakueringsinsatsen. Jag är stolt över den samlade insats som Sverige gjorde.
 

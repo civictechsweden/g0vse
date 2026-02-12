@@ -6,6 +6,6 @@ Utredaren ska analysera vilka eventuella författningsändringar som krävs vid 
 
 Utredaren ska även se över vilka författningsändringar som ett medlemskap i Nato bör medföra för att Sverige ska kunna delta effektivt i alliansen och få ändamålsenligt stöd från Nato och dess medlemsstater.
 
-Uppdraget ska slutredovisas senast den 15 augusti 2023.
+Uppdraget ska slutredovisas senast den 15 augusti 2023.
 
 Utredningen ska ske internt inom Försvarsdepartementet, en så kallad bokstavsutredning. Christer Lundh, hovrättsråd tillika vice ordförande i Svea hovrätt, är utsedd bokstavsutredare.

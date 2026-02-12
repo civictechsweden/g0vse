@@ -4,7 +4,7 @@ På onsdagen den 29 mars bjöd regeringen in representanter från olika delar av
 
 – Sveriges nationella cancerstrategi fyller 14 år i år, och nu är det dags att uppdatera den så att Sverige kan fortsätta att vara i framkant vad gäller cancervården. Hearingen var därför av stor betydelse, både genom starka vittnesmål av att ha cancer och genom konstruktiva och värdefulla diskussioner, säger sjukvårdsminister Acko Ankarberg Johansson.
 
-Regeringen vill utveckla och förbättra den nationella cancerstrategin, som antogs 2009, för att säkerställa att Sverige förblir ett föregångsland inom cancervården. Hearingen med de inbjudna deltagarna var ett första steg i detta arbete, där deltagarna diskuterade de viktigaste frågorna för framtidens cancervård och framtidens barncancervård. Under mötet talade även Tarek Arnaout från organisationen Ung Cancer och som själv haft cancer som ung.
+Regeringen vill utveckla och förbättra den nationella cancerstrategin, som antogs 2009, för att säkerställa att Sverige förblir ett föregångsland inom cancervården. Hearingen med de inbjudna deltagarna var ett första steg i detta arbete, där deltagarna diskuterade de viktigaste frågorna för framtidens cancervård och framtidens barncancervård. Under mötet talade även Tarek Arnaout från organisationen Ung Cancer och som själv haft cancer som ung.
 
 Sedan den nationella cancerstrategin antogs har en betydande utveckling skett inom cancerområdet, och stora framsteg har gjorts inom hela sjukdomsförloppet. Den senaste landsprofilen för Sverige, framtagen av OECD inom ramen för Europas plan mot cancer, konstaterar att förekomsten av cancer i Sverige är lägre än det europeiska genomsnittet. Sverige har också en av de lägsta andelarna av befolkningen som dör till följd av cancer i EU.
 

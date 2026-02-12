@@ -1,4 +1,4 @@
-# Uppdrag till Kustbevakningen om stärkt självskyddDiarienummer: Fö2025/01110
+# Uppdrag till Kustbevakningen om stärkt självskydd
 
 Regeringen ger Kustbevakningen i uppdrag att stärka självskyddet på sina sjögående plattformar.
 

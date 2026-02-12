@@ -1,6 +1,6 @@
 # Ökad överlevnad och bättre livskvalitet – nationell cancerstrategi 2.0
 
-![](/contentassets/fede1154bed84fdbb182daeb5a2051c4/cancerstrategi-thumb.png?width=150&quality=85)
+![](/contentassets/fede1154bed84fdbb182daeb5a2051c4/cancerstrategi-thumb.png?width=150&amp;quality=85)
 
 Den nationella cancerstrategin ska minska risken för cancer, öka överlevnaden och ge bättre stöd till patienter och närstående. Strategin visar vägen för svensk cancervård de kommande 10–15 åren.
 

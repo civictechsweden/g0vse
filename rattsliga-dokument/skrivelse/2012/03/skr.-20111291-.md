@@ -8,6 +8,6 @@ I skrivelsen redovisar regeringen åtgärder som vidtagits de senaste åren för
 * Regeringskansliet har gett en sakkunnig person i uppdrag att se över frågor och regelverk kring identifikation av behöriga företrädare för myndigheter. Uppdraget ska redovisas senast den 31 mars 2012.
 
 Ansvarsförhållandena när det gäller säkerheten i betalningsmodellen är i grunden oförändrade. Det är således även fortsättningsvis myndighetens eget ansvar att kontrollera att samtliga utbetalningar görs till rätt mottagare, med rätt belopp och vid rätt tidpunkt.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+______________________________________________________________________
 
 Riksdagen fattade den 7 juni 2012 beslut om skrivelsen. Läs mer om beslutet via länken i högerspalten.

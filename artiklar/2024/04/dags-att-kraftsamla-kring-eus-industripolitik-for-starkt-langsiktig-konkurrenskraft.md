@@ -7,15 +7,19 @@ Fullsatt när energi- och näringsminister Busch bjöd in näringslivet, industr
 Busch lyfte fem områden som viktiga delar för en framgångsrik industripolitik:
 
 * **Långsiktig konkurrenskraft**
-  Efter flera år av kortsiktiga nödvändiga åtgärder så behövs långsiktighet och förutsebarhet. Att sätta långsiktig konkurrenskraft högst upp på EU-agendan var en av de viktigaste prioriteringarna för regeringen under det svenska EU-ordförandeskapet 2023. Viktigt att inte tappa momentum och fart.
+Efter flera år av kortsiktiga nödvändiga åtgärder så behövs långsiktighet och förutsebarhet. Att sätta långsiktig konkurrenskraft högst upp på EU-agendan var en av de viktigaste prioriteringarna för regeringen under det svenska EU-ordförandeskapet 2023. Viktigt att inte tappa momentum och fart.
+
 * **Förenkla för företag**
-  Regeringen arbetar aktivt med att förenkla reglerna och minska rapporteringskraven för företag, särskilt små- och medelstora företag. Företagen ska lägga sin tid på att driva verksamhet, inte fastna i byråkrati och regelkrångel. Därför lanserade regeringen förra veckan Förenklingsrådet som ska se över regelverk och ge förslag på förenklingar.
+Regeringen arbetar aktivt med att förenkla reglerna och minska rapporteringskraven för företag, särskilt små- och medelstora företag. Företagen ska lägga sin tid på att driva verksamhet, inte fastna i byråkrati och regelkrångel. Därför lanserade regeringen förra veckan Förenklingsrådet som ska se över regelverk och ge förslag på förenklingar.
+
 * **Säkerställa tillgången till energi**
-  Utan tillgång till fossilfri och billig energi kan vi inte genomföra den gröna omställningen. Kan vi inte ställa om så når vi inte våra högt satta ambitioner på klimat- och miljöområdet om nettonoll år 2050. Därför måste energifrågan få en långsiktig och stabil lösning.
+Utan tillgång till fossilfri och billig energi kan vi inte genomföra den gröna omställningen. Kan vi inte ställa om så når vi inte våra högt satta ambitioner på klimat- och miljöområdet om nettonoll år 2050. Därför måste energifrågan få en långsiktig och stabil lösning.
+
 * **Konkurrenskraftspolitiken**
-  Företag ska konkurrera om excellens, inte om stöd. Regeringen har som ambition att verka som en accelerator som säkerställer att alla pusselbitar finns på plats för att underlätta för företagen i omställningsarbetet. Det handlar bland annat om  enklare tillståndsprocesser, färre krångliga regelverk, tillgång till säker och fossilfri energi och goda ramvillkor.
+Företag ska konkurrera om excellens, inte om stöd. Regeringen har som ambition att verka som en accelerator som säkerställer att alla pusselbitar finns på plats för att underlätta för företagen i omställningsarbetet. Det handlar bland annat om enklare tillståndsprocesser, färre krångliga regelverk, tillgång till säker och fossilfri energi och goda ramvillkor.
+
 * **Ny strategisk teknik**
-  Teknikutvecklingen går fort fram och Sverige ska som ledande innovations- och industrination fortsätta ligga i framkant. Detta blir särskilt viktigt då ny teknik och teknologi även i vissa fall kan ha säkerhetspolitiska dimensioner. Forsknings- och innovationspropositionen blir därför ett viktigt instrument för att öka samarbetet mellan forskning och industri.
+Teknikutvecklingen går fort fram och Sverige ska som ledande innovations- och industrination fortsätta ligga i framkant. Detta blir särskilt viktigt då ny teknik och teknologi även i vissa fall kan ha säkerhetspolitiska dimensioner. Forsknings- och innovationspropositionen blir därför ett viktigt instrument för att öka samarbetet mellan forskning och industri.
 
 ### Komplexa regelverk hämmar konkurrenskraften
 

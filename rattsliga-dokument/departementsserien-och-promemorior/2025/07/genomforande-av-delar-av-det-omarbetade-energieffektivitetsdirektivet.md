@@ -1,4 +1,4 @@
-# Genomförande av delar av det omarbetade energieffektivitetsdirektivetKN 2025/01465
+# Genomförande av delar av det omarbetade energieffektivitetsdirektivet
 
 I promemorian lämnas förslag som huvudsakligen syftar till att genomföra delar av EU:s omarbetade energieffektivitetsdirektiv.
 

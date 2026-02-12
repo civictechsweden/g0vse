@@ -15,4 +15,4 @@ Förslagen syftar i huvudsak till att genomföra EU:s direktiv om bekämpande av
 
 Lagändringarna föreslås träda i kraft den 1 september 2018.
 
-[Pressmeddelande: En mer heltäckande terrorismlagstiftning](/pressmeddelanden/2018/02/en-mer-heltackande-terrorismlagstiftning/)
+[Pressmeddelande: En mer heltäckande terrorismlagstiftning](/pressmeddelanden/2018/02/en-mer-heltackande-terrorismlagstiftning/)

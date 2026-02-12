@@ -1,6 +1,6 @@
 # Uppdrag till Kungl. biblioteket att ta fram bedömningskriterier för att kunna följa utvecklingen mot ett öppet vetenskapssystem
 
-Regeringen ger Kungl. biblioteket i uppdrag att ta fram kriterier för att kunna bedöma i vilken utsträckning vetenskapliga publikationer som helt eller delvis tagits fram med offentlig finansiering uppfyller FAIR-principerna.
+Regeringen ger Kungl. biblioteket i uppdrag att ta fram kriterier för att kunna bedöma i vilken utsträckning vetenskapliga publikationer som helt eller delvis tagits fram med offentlig finansiering uppfyller FAIR-principerna.
 
 Kriterierna ska möjliggöra en bedömning av om vetenskapliga publikationer uppfyller det nationella målet om att bli öppet tillgängliga direkt då de publiceras.
 

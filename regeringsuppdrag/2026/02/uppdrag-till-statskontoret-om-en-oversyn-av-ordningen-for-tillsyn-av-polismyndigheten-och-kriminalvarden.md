@@ -7,7 +7,7 @@ föreslå hur den kan förändras. I det sammanhanget ska Statskontoret
 överväga om det finns skäl att inrätta ett särskilt tillsynsorgan, i första hand
 inom befintlig myndighetsstruktur.
 
-Syftet med översynen är att säkerställa en rättssäker och effektiv ordning för tillsyn av myndigheterna. Polismyndigheten och Kriminalvården ska bistå med det underlag som krävs för att Statskontoret ska kunna genomföra sitt uppdrag.
+Syftet med översynen är att säkerställa en rättssäker och effektiv ordning för tillsyn av myndigheterna. Polismyndigheten och Kriminalvården ska bistå med det underlag som krävs för att Statskontoret ska kunna genomföra sitt uppdrag.
 
 Statskontoret ska löpande hålla Regeringskansliet (Justitiedepartementet)
 informerat under uppdragets genomförande. Uppdraget ska redovisas till

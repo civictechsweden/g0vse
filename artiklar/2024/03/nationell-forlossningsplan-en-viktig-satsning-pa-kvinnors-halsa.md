@@ -2,7 +2,7 @@
 
 En nationell plan för förlossningsvården är en viktig del av regeringens ambition att skapa en mer jämlik, nära och patientsäker vård i hela landet. Planen kommer att skapa en tydlig inriktning för utvecklingen av förlossningsvården i hela landet och täcka hela vårdkedjan.
 
-–  Löftet att ta fram en nationell förlossningsplan lämnade regeringen redan i första budgeten, och det arbetet är på god väg att bli verklighet. Vi ser att den är ett måste för att bland annat minska regionala skillnader i förlossningsvården. Vilken vård och omhändertagande kvinnor får under graviditet och förlossning ska inte avgöras av var i landet man bor, säger sjukvårdsminister Acko Ankarberg Johansson.
+– Löftet att ta fram en nationell förlossningsplan lämnade regeringen redan i första budgeten, och det arbetet är på god väg att bli verklighet. Vi ser att den är ett måste för att bland annat minska regionala skillnader i förlossningsvården. Vilken vård och omhändertagande kvinnor får under graviditet och förlossning ska inte avgöras av var i landet man bor, säger sjukvårdsminister Acko Ankarberg Johansson.
 
 Den nationella förlossningsplanen ska ange en tydlig inriktning för utvecklingen av förlossningsvården och täcka hela vårdkedjan, det vill säga vård och förebyggande insatser vid graviditet, förlossning och tiden efter. Den ska också vara stöd för ett mer strategiskt och systematiskt förbättringsarbete i regionerna med syftet att bland annat öka tillgängligheten och minska de regionala skillnaderna.
 

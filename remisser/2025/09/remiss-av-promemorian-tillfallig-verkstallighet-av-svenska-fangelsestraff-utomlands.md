@@ -1,4 +1,4 @@
-# Remiss av promemorian Tillfällig verkställighet av svenska fängelsestraff utomlandsDiarienummer: Ju2025/01973
+# Remiss av promemorian Tillfällig verkställighet av svenska fängelsestraff utomlands
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Tillfällig verkställighet av svenska fängelsestraff utomlands.
 

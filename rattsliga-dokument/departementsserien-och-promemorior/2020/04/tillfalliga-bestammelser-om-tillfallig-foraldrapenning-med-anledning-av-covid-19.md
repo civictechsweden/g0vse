@@ -4,7 +4,7 @@ I promemorian redovisar Socialdepartementet förslag till bestämmelser om tillf
 
 ## Möjligheterna utvidgas
 
-Socialdepartementet föreslår att möjligheterna för föräldrar att få tillfällig föräldrapenning utvidgas. En förälder ska – dock med en annan beräkningsgrund – kunna få tillfällig föräldrapenning, för att vårda barn. Detta om föräldern behöver avstå från arbete när den skola som barnet går i stänger eller är delvis stängd på grund av covid-19.
+Socialdepartementet föreslår att möjligheterna för föräldrar att få tillfällig föräldrapenning utvidgas. En förälder ska – dock med en annan beräkningsgrund – kunna få tillfällig föräldrapenning, för att vårda barn. Detta om föräldern behöver avstå från arbete när den skola som barnet går i stänger eller är delvis stängd på grund av covid-19.
 
 ## Behov kan styrkas på annat sätt
 

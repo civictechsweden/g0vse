@@ -2,7 +2,7 @@
 
 Regeringen har fastställt det index – inkomstindex – som räknar upp inkomstpensionen varje år. Inkomstindex ökar från 194,19 under 2022 till 203,13 år 2023, en ökning med 4,6 procent. Inkomstindex används för den årliga uppräkningen av inkomst- och tilläggspensioner.
 
-Inkomstbasbeloppet för år 2023 har fastställts till 74 300 kronor. Inkomstbasbeloppet styr hur stor inkomst som försäkras i det allmänna ålderspensionssystemet. För 2023 uppgår den inkomsten till 49 993 kronor per månad.
+Inkomstbasbeloppet för år 2023 har fastställts till 74 300 kronor. Inkomstbasbeloppet styr hur stor inkomst som försäkras i det allmänna ålderspensionssystemet. För 2023 uppgår den inkomsten till 49 993 kronor per månad.
 
 ### Balanstal i ålderspensionssystemet
 

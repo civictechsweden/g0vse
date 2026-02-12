@@ -6,9 +6,9 @@ I nuläget är det inte längre ändamålsenligt att stödja utformningen av ett
 
 Utredaren ska nu:
 
-• analysera och lämna förslag på en funktion för en samlad uppföljning av hälso- och sjukvården inom ramen för den befintliga myndighetsstrukturen, med syfte att följa regeringens reformer och satsningar på området samt analysera var behoven av statliga insatser är som störst för att säkerställa god vård
-• analysera hur en sådan funktion kan samverka med hälso- och sjuk-vårdens huvudmän, till exempel inom ramen för landstingens gemen-samma kunskapsstyrningsstruktur
-• lämna förslag på hur en sådan funktion kan regleras.
+• analysera och lämna förslag på en funktion för en samlad uppföljning av hälso- och sjukvården inom ramen för den befintliga myndighetsstrukturen, med syfte att följa regeringens reformer och satsningar på området samt analysera var behoven av statliga insatser är som störst för att säkerställa god vård
+• analysera hur en sådan funktion kan samverka med hälso- och sjuk-vårdens huvudmän, till exempel inom ramen för landstingens gemen-samma kunskapsstyrningsstruktur
+• lämna förslag på hur en sådan funktion kan regleras.
 
 ## Tidigare uppdrag alltför omfattande
 

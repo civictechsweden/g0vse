@@ -7,10 +7,10 @@ Underlaget ska omfatta följande punkter:
 * Avverkningars laglighet.
 * Återbeskogning av avverkade områden.
 * Utpekande och skydd av områden för naturvårdsändamål,
-  inklusive sådana områden inom våtmarker och torvmarker.
+inklusive sådana områden inom våtmarker och torvmarker.
 * Hänsyn till markkvalitet och biodiversitet vid avverkning.
 * Upprätthållande eller förbättring av skogens långsiktiga
-  produktionskapacitet.
+produktionskapacitet.
 
 Underlaget ska också innehålla en redogörelse avseende direktivets artikel 29.7 om Sveriges
 

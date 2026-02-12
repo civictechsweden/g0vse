@@ -15,7 +15,7 @@ Regeringen ger Socialstyrelsen i uppdrag att
 
 Samråd ska ske med regeringens nationella samordnare för den sociala barn- och ungdomsvården, Arbetsförmedlingen, Migrationsverket, Länsstyrelsen i Jönköpings län, Sveriges Kommuner och Landsting och andra relevanta aktörer. Samtliga aspekter som rör asylprocessen ska kvalitetssäkras av Migrationsverket.
 
-## Socialstyrelsen får fem miljoner kronor i år
+## Socialstyrelsen får fem miljoner kronor i år
 
 Socialstyrelsen får använda högst 5 000 000 kronor för uppdragets genomförande under 2016. Kostnaderna ska belasta utgiftsområde 9 Hälsovård, sjukvård och social omsorg, anslaget 4.7 Bidrag till utveckling av socialt arbete m.m. anslagsposten 4 Utvecklingsmedel.
 

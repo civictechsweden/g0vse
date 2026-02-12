@@ -6,6 +6,6 @@ Regeringen föreslår i propositionen att lagen om ersättning för viss mervär
 
 Ändringen föreslås träda i kraft den 1 juli 2012, men tillämpas för ersättning från och med den 1 januari 2010.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+_______________________________________________________________________
 
 Riksdagen fattade den 30 maj 2012 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

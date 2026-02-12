@@ -2,7 +2,7 @@
 
 Skolminister Lotta Edholm, debattartikel, Expressen, den 21 december 2022.
 
-Det har funnit en okritisk hållning till digitalisering i skolan. Men en fysisk bok har fördelar som ingen padda kan ersätta. Därför gör regeringen nu en satsning på läromedel, skriver skolminister Lotta Edholm (L).
+Det har funnit en okritisk hållning till digitalisering i skolan. Men en fysisk bok har fördelar som ingen padda kan ersätta. Därför gör regeringen nu en satsning på läromedel, skriver skolminister Lotta Edholm (L).
 
 Barn som växer upp i Sverige i dag lever i en värld full av paddor, datorer och mobiler. Timmarna framför skärmar är för många barn en ansenligdel av den vakna tiden. Både hemma och i skolan finns en tillgång som aldrig förr. Det är inte oproblematiskt.
 

@@ -2,7 +2,7 @@
 
 Socialtjänstminister Camilla Waltersson Grönvall, debattartikel, Aftonbladet, den 13 december 2022.
 
-I januari 2020 skakades Sverige av Esmeraldas död. Esmeralda var den treåriga flicka som kom att kallas Lilla hjärtat.
+I januari 2020 skakades Sverige av Esmeraldas död. Esmeralda var den treåriga flicka som kom att kallas Lilla hjärtat.
 
 Bara nio dagar gammal placerades hon i ett tryggt och kärleksfullt familjehem då hennes biologiska föräldrar inte klarade av att ta hand om henne. Där bodde Esmeralda tills hon vid knappt tre års ålder – trots varningssignaler – flyttades tillbaka till sina biologiska föräldrar.
 

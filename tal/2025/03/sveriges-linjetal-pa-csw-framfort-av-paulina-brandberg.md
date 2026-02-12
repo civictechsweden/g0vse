@@ -16,7 +16,7 @@ Change has not happened by itself. It has been through the determined efforts of
 
 I am happy to read about the progress made in the last five years highlighted in the report of the UN Secretary-General, António Guterres. It is important not to lose sight of this, in a world that is so beset by challenges: in spite of it all, the world is a better place for most women and girls today compared to 1995.
 
-I say “most women and girls” because our thoughts today are with all those that are  left behind. Women and girls living in extreme poverty, in conflict situations, humanitarian crisis or under violence and oppression. No conflict or war is gender neutral.
+I say “most women and girls” because our thoughts today are with all those that are left behind. Women and girls living in extreme poverty, in conflict situations, humanitarian crisis or under violence and oppression. No conflict or war is gender neutral.
 
 Human rights must always be defended. International law applies to everyone, regardless of context. Those who stay silent, when faced with violence against women and children, cannot claim to stand up for human rights.
 
@@ -36,7 +36,7 @@ In Sweden, we are also committed to stop the exploitation of individuals in pros
 
 The Swedish Government is committed to ensure equal rights and opportunities, and the full enjoyment of human rights of LGBTIQ-persons. Human rights are universal and apply to all, regardless of sex, gender identity or expression, ethnicity, religion or other belief, disability, sexual orientation, age, or other status.
 
-Gender equality and sexual and reproductive health and rights are priorities for Sweden’s development assistance. Sweden contributes to increased access to maternal health services, legal and  safe abortion, comprehensive sexuality education and prevention of all forms of sexual and gender-based violence.
+Gender equality and sexual and reproductive health and rights are priorities for Sweden’s development assistance. Sweden contributes to increased access to maternal health services, legal and safe abortion, comprehensive sexuality education and prevention of all forms of sexual and gender-based violence.
 
 I am proud to say that 2025, Sweden holds the Presidency of the UN Women Executive Board. We will work with the board to advance global gender equality efforts. Sweden will particularly highlight the importance of women’s economic empowerment.
 

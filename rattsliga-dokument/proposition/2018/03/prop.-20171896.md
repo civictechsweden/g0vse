@@ -2,7 +2,7 @@
 
 Regeringen föreslår att ett lagstadgat karensavdrag förs in i sjukförsäkringen. Avdraget ersätter den nuvarande karensdagen. Ett karensavdrag föreslås även i lagen om sjuklön. Avdraget ska uppgå till 20 procent av en genomsnittlig veckoersättning av sjuklön.
 
-I socialförsäkringsbalken föreslås karensavdraget vara en hel kalenderdags beräknad sjukpenningdag. Om sjukpenningen ska arbetstidsberäknas föreslår regeringen ett karensavdrag som motsvarar 20 procent av en genomsnittlig veckoersättning av sjukpenning.
+I socialförsäkringsbalken föreslås karensavdraget vara en hel kalenderdags beräknad sjukpenningdag. Om sjukpenningen ska arbetstidsberäknas föreslår regeringen ett karensavdrag som motsvarar 20 procent av en genomsnittlig veckoersättning av sjukpenning.
 
 Egenföretagare som endast har inkomst av annat förvärvsarbete berörs inte av de föreslagna regeländringarna i egenskap av egenföretagare.
 

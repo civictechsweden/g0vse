@@ -1,6 +1,6 @@
 # Lagstiftningsåtgärder med anledning av EU:s gröna taxonomiförordning
 
-I promemorian lämnas förslag till lagstiftningsåtgärder med anledning av EU:s gröna
+I promemorian lämnas förslag till lagstiftningsåtgärder med anledning av EU:s gröna
 taxonomi­förordning.
 
 Förslagen innebär i huvudsak följande:
@@ -14,4 +14,4 @@ Förslagen innebär i huvudsak följande:
 
 Förslagen i promemorian behandlar inte frågan om vad som ska anses miljömässigt hållbart. Den frågan behandlas i EU:s gröna taxonomi­förordning och i delegerade akter som antas av kommissionen.
 
-Lagändringarna föreslås träda i kraft den 1 januari 2022, vilket är den tid­punkt då EU:s gröna taxonomiförordning ska börja tillämpas i de delar som gäller för­ord­ningens klimat­relaterade miljömål.
+Lagändringarna föreslås träda i kraft den 1 januari 2022, vilket är den tid­punkt då EU:s gröna taxonomiförordning ska börja tillämpas i de delar som gäller för­ord­ningens klimat­relaterade miljömål.

@@ -12,7 +12,7 @@ Vi behöver dock agera för att även framgent vara världsledande på försvars
 
 För att bereda väg och möjliggöra detta lanserar regeringen i dag försvarsinnovationsinitiativet. Med initiativet hoppas vi identifiera vilka förutsättningar och verktyg som behöver utvecklas för att ytterligare stärka försvarsindustrin i Sverige genom att höja innovationsförmågan - och på sikt säkerställa en världsledande roll inom försvarsinnovation.
 
-Internationellt pågår flera olika initiativ inom försvarsinnovation. Nato har sitt innovationsprogram DIANA, till vilket Sverige kan ansluta när vi blir medlemmar, och sin Nato Innovation Fund (NIF).  Och inom EU har vi nyligen beslutat om att öka engagemanget inom det permanenta strukturerade partnerskapet (PESCO) med fokus på bland annat innovation och forskning.
+Internationellt pågår flera olika initiativ inom försvarsinnovation. Nato har sitt innovationsprogram DIANA, till vilket Sverige kan ansluta när vi blir medlemmar, och sin Nato Innovation Fund (NIF). Och inom EU har vi nyligen beslutat om att öka engagemanget inom det permanenta strukturerade partnerskapet (PESCO) med fokus på bland annat innovation och forskning.
 
 Men vi behöver också öka vår nationella förmåga att nyttiggöra framväxande och omvälvande teknik i form av innovationer på det militära området. I en alltmer polariserad värld, blir det viktigt att vi tillsammans med våra likasinnade, även på längre sikt, behåller vårt tekniska övertag. I försvarssyfte behöver vi ta fram plattformar och system som är mer effektiva och avancerade än våra motståndares. Här behöver även FMV, FOI och Försvarsmaktens förmåga att fånga upp och arbeta med framväxande teknologier ur både ett tekniskt- och systemperspektiv öka.
 

@@ -1,4 +1,4 @@
-# Beslut om byggstarterDiarienummer: LI2025/00450
+# Beslut om byggstarter
 
 Regeringen beslutar att Trafikverket får byggstarta följande objekt år 2025– 2027 (år 1–3):
 

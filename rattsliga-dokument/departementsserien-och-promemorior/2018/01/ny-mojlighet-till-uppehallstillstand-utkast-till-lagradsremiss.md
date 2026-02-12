@@ -17,4 +17,4 @@ Utkastet till lagrådsremiss innehåller också förslag om att anpassa bestämm
 
 Lagändringarna föreslås träda i kraft den 1 juni 2018.
 
-[Pressmeddelande: Ny möjlighet till uppehållstillstånd](/pressmeddelanden/2018/01/ny-mojlighet-till-uppehallstillstand/)
+[Pressmeddelande: Ny möjlighet till uppehållstillstånd](/pressmeddelanden/2018/01/ny-mojlighet-till-uppehallstillstand/)

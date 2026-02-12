@@ -5,3 +5,9 @@ Energi-och näringsministern kommer även att träffa landshövding Helene Hellm
 På eftermiddagen träffar ministern företagare i Umeå.
 
 Kontakta pressekreterare Andia Gemsjö för intervjuförfrågningar.
+
+Energi-och näringsministern kommer även att träffa landshövding Helene Hellmark Knutsson och representanter från Skellefteå kommun.
+
+På eftermiddagen träffar ministern företagare i Umeå.
+
+Kontakta pressekreterare Andia Gemsjö för intervjuförfrågningar.

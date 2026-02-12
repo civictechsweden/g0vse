@@ -1,4 +1,4 @@
-# Ändamålsenliga säkerhets- och strålskyddskrav för utvinning och bearbetning av kärnämnenKN2026/00247
+# Ändamålsenliga säkerhets- och strålskyddskrav för utvinning och bearbetning av kärnämnen
 
 I lagrådsremissen föreslås ändringar i lagen (1984:3) om kärnteknisk verksamhet som innebär att en anläggning för utvinning av kärnämnen eller för bearbetning för koncentration av utvunna kärnämnen inte längre ska anses vara en kärnteknisk anläggning.
 

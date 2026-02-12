@@ -4,7 +4,7 @@ I lagrådsremissen föreslår regeringen att kommunerna får ett tydligare ansva
 
 Socialnämnden föreslås även få ett utvidgat ansvar för att aktivt arbeta för att motverka missbruk av spel om pengar bland barn och unga.
 
-I lagrådsremissen föreslår regeringen även att kravet på överenskommelse om ett samarbete mellan kommun och landsting om personer som missbrukar substanser även ska omfatta personer som missbrukar spel om pengar.
+I lagrådsremissen föreslår regeringen även att kravet på överenskommelse om ett samarbete mellan kommun och landsting om personer som missbrukar substanser även ska omfatta personer som missbrukar spel om pengar.
 
 Ytterligare ett förslag är att förtydliga hälso- och sjukvårdens ansvar för att beakta ett barns behov av information, råd och stöd om barnets förälder eller någon annan vuxen som barnet varaktigt bor med är missbrukare, så att det även gäller vid spelmissbruk.
 

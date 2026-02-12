@@ -10,6 +10,6 @@ Regeringen uppdrar vidare åt PTS att förbereda överföring av delar av ovan n
 * bistå regeringen med underlag för att regeringen ska nå det övergripande målet för digitaliseringspolitiken, dvs. att Sverige ska vara bäst i världen på att använda digitaliseringens möjligheter (prop. 2011/12:1, utg. omr.22, bet. 2011/12:TU1, rskr. 2011/12:87),
 * följa upp, analysera och utvärdera hur Sverige presterar i förhållande till det övergripande målet för digitaliseringspolitiken, samt
 * identifiera, analysera och samla in data (i de delar som inte omfattas av annan myndighets uppdrag eller instruktionsenlig uppgift) kring hur Sverige presterar i förhållande till det övergripande målet för
-  digitaliseringspolitiken.
+digitaliseringspolitiken.
 
 PTS ska samverka med Digg vid uppdragets genomförande och löpande hålla Regeringskansliet (Infrastrukturdepartementet) informerat om hur uppdraget fortlöper. PTS ska senast den 30 juni 2021 till Regeringskansliet (Infrastrukturdepartementet) redogöra för de personella konsekvenserna av förändringen.

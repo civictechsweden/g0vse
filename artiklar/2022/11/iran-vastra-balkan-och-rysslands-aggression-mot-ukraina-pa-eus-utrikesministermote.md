@@ -8,7 +8,7 @@ EU:s höga representant Josep Borrell inledde på sedvanligt sätt med att ta up
 
 Ukrainas utrikesminister Dmytro Kuleba rapporterade via länk om den senaste tidens utveckling.
 
-EU-ländernas ministrar hade sedan en diskussion om fortsatt militärt stöd till Ukraina. Det välkomnade också den nya missionen EUMAM som stöttar den ukrainska militären med utbildning för minst 15 000 soldater.
+EU-ländernas ministrar hade sedan en diskussion om fortsatt militärt stöd till Ukraina. Det välkomnade också den nya missionen EUMAM som stöttar den ukrainska militären med utbildning för minst 15 000 soldater.
 
 ## Stora sjöregionen
 
@@ -20,4 +20,4 @@ Ministrarna diskuterade utrikes- och säkerhetspolitiska aspekter av EU:s förbi
 
 ## Iran
 
-Ministrarna tog upp situationen i Iran med anledning av det intensiva våldet mot demonstranter. Ministrarna antog slutsatser om sanktioner mot 29 personer och tre entiteter som gjort sig skyldiga till våldet.
+Ministrarna tog upp situationen i Iran med anledning av det intensiva våldet mot demonstranter. Ministrarna antog slutsatser om sanktioner mot 29 personer och tre entiteter som gjort sig skyldiga till våldet.

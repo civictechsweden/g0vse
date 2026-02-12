@@ -7,7 +7,7 @@ Kommissionen ska bl.a.
 
 * kartlägga och granska assimileringspolitiken och dess konsekvenser för minoriteten, grupper inom minoriteten och enskilda,
 * sprida information för att öka kunskapen om minoriteten och dess
-  historiska erfarenheter, och
+historiska erfarenheter, och
 * lämna förslag till fortsatta insatser för att bidra till upprättelse och främja försoning.
 
 Uppdraget ska redovisas senast den 16 maj 2022.

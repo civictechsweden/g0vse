@@ -34,7 +34,7 @@ Så när jag sedan satte segel och gled ut i världen
 
 Var seglen alltid märkta med tre kronors tecken
 
-\*\*\*
+***
 
 Slutligen, vad vill man ge en monark efter 50 år på tronen? Det är ingen alldeles lätt fråga.
 

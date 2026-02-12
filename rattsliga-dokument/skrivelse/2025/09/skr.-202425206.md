@@ -1,4 +1,4 @@
-# Riksrevisionens rapport om den statliga styrningen av det civila försvarets uppbyggnadSkr. 2024/25:206
+# Riksrevisionens rapport om den statliga styrningen av det civila försvarets uppbyggnad
 
 I skrivelsen redogör regeringen för sin bedömning av de slutsatser och rekommendationer som Riksrevisionen lämnar i rapporten Den statliga styrningen av det civila försvarets uppbyggnad (RiR 2025:4). I och med denna skrivelse anser regeringen att Riksrevisionens rapport är slutbehandlad.
 

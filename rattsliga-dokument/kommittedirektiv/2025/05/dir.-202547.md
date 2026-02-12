@@ -1,4 +1,4 @@
-# Tilläggsdirektiv till GigabitutredningenDir. 2025:47
+# Tilläggsdirektiv till Gigabitutredningen
 
 Uppdraget skulle enligt direktiven redovisas senast den 19 september 2025.
 Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den

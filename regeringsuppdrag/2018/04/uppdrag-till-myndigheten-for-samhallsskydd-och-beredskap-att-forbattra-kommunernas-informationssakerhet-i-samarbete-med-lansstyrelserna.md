@@ -6,4 +6,4 @@ Uppdraget ska genomföras i samverkan med Sveriges kommuner och landsting (SKL).
 
 Uppdraget ska redovisas senast den 1 april 2019.
 
-[Pressmeddelande: Kommuner, landsting och länsstyrelser stärker sin informationssäkerhet](/pressmeddelanden/2018/04/kommuner-landsting-och-lansstyrelser-starker-sin-informationssakerhet/)
+[Pressmeddelande: Kommuner, landsting och länsstyrelser stärker sin informationssäkerhet](/pressmeddelanden/2018/04/kommuner-landsting-och-lansstyrelser-starker-sin-informationssakerhet/)

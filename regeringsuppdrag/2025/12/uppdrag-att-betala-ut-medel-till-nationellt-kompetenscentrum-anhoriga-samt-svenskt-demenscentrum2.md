@@ -1,4 +1,4 @@
-# Uppdrag att betala ut medel till Nationellt kompetenscentrum anhöriga samt Svenskt DemenscentrumDiarienummer: S2025/02175
+# Uppdrag att betala ut medel till Nationellt kompetenscentrum anhöriga samt Svenskt Demenscentrum
 
 Regeringen ger Socialstyrelsen i uppdrag att betala ut statsbidrag till Nationellt kompetenscentrum anhöriga och Svenskt Demenscentrum. Socialstyrelsen ska även under perioden 2026–2029 följa upp att verksamheterna bedrivs i enlighet med deras tidigare angivna uppdrag. Uppdrag för respektive kompetenscentrum framgår av bilaga 1 till detta
 beslut.
@@ -15,5 +15,5 @@ I respektive centrums uppdrag ska ingå att:
 * Vara en länk mellan forskning, praktik och beslutsfattare.
 * Fungera som ett nav i ett nationellt nätverk av FoU-verksamheter.
 * Fungera som en samordnande nationell kontaktpunkt för frågor inom området när det gäller nordiskt samarbete, med andra länder och
-  internationella organisationer, till exempel i fråga om utbyte av kunskap,
-  erfarenheter och information.
+internationella organisationer, till exempel i fråga om utbyte av kunskap,
+erfarenheter och information.

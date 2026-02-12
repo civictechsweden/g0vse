@@ -4,7 +4,7 @@ EU:s råd för transport väntas 7 juni komma överens om inriktningar för nya 
 
 ## Luftfart, sjöfart och landtransporter
 
-På transportrådets möte 7 juni kommer ministerrådet sannolikt att komma överens om fyra olika förslag till förordningar och direktiv från EU-kommissionen. Förslagen handlar om att skydda konkurrensen inom luftfarten, mottagningsanordningar för fartygsavfall i hamnar, elektroniska vägtullar och utbyte av information samt om hur man ska få använda hyrfordon i andra medlemsstater.
+På transportrådets möte 7 juni kommer ministerrådet sannolikt att komma överens om fyra olika förslag till förordningar och direktiv från EU-kommissionen. Förslagen handlar om att skydda konkurrensen inom luftfarten, mottagningsanordningar för fartygsavfall i hamnar, elektroniska vägtullar och utbyte av information samt om hur man ska få använda hyrfordon i andra medlemsstater.
 
 Regeringen stödjer ordförandeskapets förslag till allmänna inriktningar, det vill säga ministerrådets positioner inför fortsatta förhandlingar med Europaparlamentet.
 

@@ -1,6 +1,6 @@
 # En reformerad arbetsrätt – för flexibilitet, omställningsförmåga och trygghet på arbetsmarknaden
 
-![](/contentassets/4796c0ed93d3476a9e8a4270768edeb8/ds-17-2021-fram.jpg?width=150&quality=85)
+![](/contentassets/4796c0ed93d3476a9e8a4270768edeb8/ds-17-2021-fram.jpg?width=150&amp;quality=85)
 
 Denna promemoria har utarbetats inom Arbetsmarknadsdepartementet. I promemorian föreslås de lagändringar som behöver göras för att reformera arbetsrätten i enlighet med parternas principöverenskommelse när det gäller anställningsskyddet.
 

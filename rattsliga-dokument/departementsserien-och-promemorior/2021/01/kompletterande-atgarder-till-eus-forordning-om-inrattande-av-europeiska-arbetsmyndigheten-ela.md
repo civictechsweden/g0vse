@@ -1,6 +1,6 @@
 # Kompletterande åtgärder till EU:s förordning om inrättande av Europeiska arbetsmyndigheten (ELA)
 
-![](/contentassets/604facc4d4d24bc1a3af0aef29cb18b3/omslag-ds20214.jpg?width=150&quality=85)
+![](/contentassets/604facc4d4d24bc1a3af0aef29cb18b3/omslag-ds20214.jpg?width=150&amp;quality=85)
 
 EU:s förordning om inrättande av Europeiska arbetsmyndigheten (ELA-förordningen) antogs den 20 juni 2019 och trädde i kraft den 31 juli samma år. Europeiska arbetsmyndigheten (ELA) ska enligt förordningen vara i drift med egen budget senast den 1 augusti 2021.
 

@@ -8,7 +8,7 @@ Sveriges ständiga representation vid Europeiska unionen, EU-representationen, �
 
 Som praktikant kommer du aktivt att delta i det löpande arbetet som bland annat innefattar att förbereda underlag, ta fram rapporter, biträda vid arbetsgruppsmöten och följa arbetet vid EU-institutionerna. Dessutom har du möjlighet att utföra mer praktiska uppgifter inför planering och genomförande av besök och möten. Uppgifterna kan även innebära mer självständigt arbete inom avgränsade områden.
 
-För att öka dina möjligheter att erbjudas praktik på EU-representationen är det av yttersta vikt att du anger inom vilket område du primärt är intresserad av. Det är viktigt att vara så specifik som möjligt – till exempel är utrikespolitik och miljöpolitik breda begrepp, men om det avgränsas till exempelvis Södra Afrika eller klimatpolitik så säger det mycket mer om just dina specifika intresseområden.
+För att öka dina möjligheter att erbjudas praktik på EU-representationen är det av yttersta vikt att du anger inom vilket område du primärt är intresserad av. Det är viktigt att vara så specifik som möjligt – till exempel är utrikespolitik och miljöpolitik breda begrepp, men om det avgränsas till exempelvis Södra Afrika eller klimatpolitik så säger det mycket mer om just dina specifika intresseområden.
 
 Exempel på huvudarbetsområden som täcks av EU-representationen:
 
@@ -31,7 +31,7 @@ Detta är inte en uttömande lista – mer information om olika arbetsområden f
 
 ## Sökande
 
-Som praktikant ska du vara inskriven som student vid svenskt eller utländskt universitet eller högskola. Om praktiken inte ingår som poänggivande kurs ska institutionen intyga att den är relevant för din utbildningsinriktning.
+Som praktikant ska du vara inskriven som student vid svenskt eller utländskt universitet eller högskola. Om praktiken inte ingår som poänggivande kurs ska institutionen intyga att den är relevant för din utbildningsinriktning.
 
 För att få så mycket som möjligt av praktiken vid EU-representationen bör du ha en utbildningsbakgrund som motsvarar C- eller D-nivå inom relevant samhällsvetenskapligt ämne, till exempel statsvetenskap, nationalekonomi, freds- och konfliktkunskap, juridik eller journalistik, men även andra utbildningsinriktningar är av intresse.
 
@@ -49,7 +49,7 @@ Ingen ekonomisk ersättning utgår från UD eller Sveriges ständiga representat
 
 Om du är intresserad av att praktisera vid Sveriges ständiga representation vid EU i Bryssel hösten 2017 ska du skicka in ett personligt brev och meritförteckning till e-postadressen:
 
-[representationen.bryssel-ansokan@gov.se](mailto:representationen.bryssel-ansokan@gov.se)
+<representationen.bryssel-ansokan@gov.se>
 
 Vänligen skriv "Praktikplats hösten 2017" i ämnesraden.
 

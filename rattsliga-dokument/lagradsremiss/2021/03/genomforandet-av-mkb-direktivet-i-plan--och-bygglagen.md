@@ -9,8 +9,8 @@ I lagrådsremissen föreslås bl.a. följande:
 * Regeringen ska få meddela föreskrifter om att MKB-projekt i vissa fall inte kan antas medföra en betydande miljöpåverkan.
 * Beslut om lov eller förhandsbesked som avser ett MKB-projekt ska i vissa fall innehålla en motivering om åtgärdens miljöpåverkan.
 * Den information som kommunen ska tillhandahålla när en detaljplan
-  tas fram ska finnas tillgänglig i elektronisk form på kommunens webbplats.
+tas fram ska finnas tillgänglig i elektronisk form på kommunens webbplats.
 * Miljöorganisationers rätt att överklaga bygglov och förhandsbesked
-  som avser ett MKB-projekt ska framgå av plan- och bygglagen.
+som avser ett MKB-projekt ska framgå av plan- och bygglagen.
 
 Författningsändringarna föreslås träda i kraft den 2 augusti 2021.

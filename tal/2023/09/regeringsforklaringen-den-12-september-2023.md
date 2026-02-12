@@ -4,6 +4,8 @@ Statsminister Ulf Kristersson, riksdagen, den 12 september 2023
 
 Regeringsförklaring avgiven av statsminister Ulf Kristersson
 
+
+
 Eders Majestäter, Eders Kungliga Högheter,
 Herr talman, Ärade ledamöter av Sveriges riksdag, mina damer och herrar!
 
@@ -47,7 +49,7 @@ Vi lägger om utrikespolitiken och fokuserar på Europa, Norden och Baltikum och
 
 Och vi har lagt om den ekonomiska politiken för att få ner inflationen och få upp tillväxten. Vi satsar på Sverige som företagarland, med vetskapen att välstånd måste skapas innan det kan fördelas.
 
-\* \* \*
+* * *
 
 Herr talman,
 
@@ -59,6 +61,8 @@ Regeringskansliet är inte en vanlig statlig förvaltningsmyndighet, utan själv
 
 Bland annat kommer det under samordningskansliet i Statsrådsberedningen inrättas en funktion med erfarna och meriterade utredare som ska ta sig an målinriktade utredningsuppdrag. Målet är att korta utredningstiden, till och med halvera den, med bibehållna krav på hög juridisk precision. När problemen är stora måste man vara noggrann – men man måste också vara snabb.
 
+
+
 Herr talman,
 
 Det finns ute i världen – och här i Sverige – tendenser till en farlig polarisering av samhällsdebatten. En slags oförsonlighet och ett misstänkliggörande av meningsmotståndares karaktär och bevekelsegrunder. Det riskerar förstöra något fint i vårt samhälle.
@@ -67,7 +71,9 @@ Alla vill vi lämna efter oss ett bättre samhälle till våra barn och barnbarn
 
 I dessa oroliga tider vill jag leda en regering för hela Sverige och för alla svenskar – oavsett om man är född här eller har sina rötter någon annanstans. Oavsett var i landet man bor och oavsett vilket parti man har röstat på. Jag vill samla, inte splittra. Jag vill ena, inte dela.
 
-\* \* \*
+
+
+* * *
 
 Herr talman,
 
@@ -95,7 +101,9 @@ En fundamental del av arbetslinjen är det svenska språket. Alla som varaktigt 
 
 Arbetsmarknadens parter har tagit stort ansvar i en tuff ekonomisk tid. Snart är de första etableringsjobben på plats – för att fler långtidsarbetslösa ska få ett arbete att gå till. Regeringen förstärker också CSN med anledning av överenskommelsen om omställningspaketet.
 
-\* \* \*
+
+
+* * *
 
 Herr talman,
 
@@ -131,7 +139,9 @@ Samtidigt ska möjligheterna för personer med funktionsnedsättning stärkas f�
 
 En utredning tillsätts för att stärka tandvårdens högkostnadsskydd för att mer efterlikna det som finns i övrig vård. Äldre personer med sämst munhälsa ska prioriteras.
 
-\* \* \*
+
+
+* * *
 
 Herr talman,
 
@@ -153,7 +163,9 @@ Sverige behöver en socialpolitik som är anpassad till den tid vi nu lever i. I
 
 Mäns våld mot kvinnor ska bekämpas med samhällets fulla kraft. Regeringen utreder möjligheterna att kraftigt utvidga det geografiska området för kontaktförbud vid en särskilt allvarlig hotbild liksom att oftare kunna frihetsberöva våldsamma män. Vi har även stärkt civilsamhällets möjligheter att stödja kvinnor som har utsatts eller riskerar att utsättas för våld och hedersförtryck. Här gör landets kvinno- och tjejjourer viktiga insatser som måste uppmärksammas.
 
-\* \* \*
+
+
+* * *
 
 Herr talman,
 
@@ -175,7 +187,9 @@ En ny och bättre samhällsorientering kommer att införas, med prov på deltaga
 
 Arbetet för att införa ett språkkrav för att bli svensk medborgare fortsätter. Regeringen ser också över bosättningsregelverket för att förbättra kommunernas förutsättningar för god integration.
 
-\* \* \*
+
+
+* * *
 
 Herr talman,
 
@@ -203,7 +217,9 @@ Den senaste tidens händelser i samband med aktioner och demonstrationer visar t
 
 Sverige ska fortsätta att vara ett globalt engagerat land som står upp för mänskliga fri- och rättigheter, demokrati och rättsstatens principer. I det arbetet är bistånds-, klimat- och handelspolitiken central. Reformeringen av biståndet ska fortsätta, med fokus på långsiktighet, effektivitet och transparens. Att Sverige är en av världens mest generösa biståndsgivare innebär också ett stort ansvar. Bistånd räddar liv och lindrar nöd. Den demokratiska utvecklingen i världen är hotad: det svenska stödet till demokratisering, människorättsförsvarare och demokratikämpar ska fortsatt vara starkt.
 
-\* \* \*
+
+
+* * *
 
 Herr talman,
 
@@ -221,6 +237,8 @@ När efterfrågan på el fördubblas krävs mer fossilfri energi. Regeringen tar
 
 Dessutom stärks anslagen till återställande av våtmarker och det omfattande statliga stödet för infångning och lagring av biogen koldioxid ligger fast. Regeringen storsatsar på elektrifiering och möjliggör fortsatt utbyggnad av laddinfrastruktur i hela landet.
 
+
+
 Herr talman,
 
 Villkoren för att kunna bo, leva och verka i hela landet måste förbättras. Därför har regeringen inrättat ett särskilt landsbygds- och infrastrukturdepartement.
@@ -233,7 +251,9 @@ Man behöver inte färdas långt i vårt land för att inse att det krävs stora
 
 Fler människor ska få möjlighet till ett bra boende. I dag finns en alltför stor regelbörda och alltför höga trösklar in på bostadsmarknaden, inte minst för unga. Regeringen kommer därför att fokusera på att öka tillgången på byggbar mark, förenkla byggreglerna och sänka trösklarna in på bostadsmarknaden. Det behövs fler hyresrätter, fler bostadsrätter och fler villor.
 
-\* \* \*
+
+
+* * *
 
 Herr talman,
 
@@ -253,7 +273,9 @@ Regeringen höjer i en särskild satsning ambitionen i arbetet mot antisemitism.
 
 I Sverige ska man kunna leva tryggt, oavsett religion, etnicitet eller sexuell läggning. Vi fortsätter den frihetsresa som har inneburit ökad acceptans och lika rättigheter för hbtqi-personer genom att se över diskriminerande regelverk. Homosexuella män ska få samma möjlighet att ge blod som alla andra.
 
-\* \* \*
+
+
+* * *
 
 Herr talman,
 

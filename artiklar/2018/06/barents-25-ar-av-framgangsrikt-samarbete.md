@@ -47,7 +47,7 @@ Sveriges ordförandeskap i det mellanstatliga samarbetet 2017-2019 sammanfaller 
 
 ### Presentationer
 
-[Barents\_Regional\_Chair\_Finnmark Ragnhild Vassvik](/49d187/contentassets/34d8802a86ae4efdb8bc15ca9f1c5993/ragnhild_vassvik_barents_regional_chair_finnmark_5_juni_2018-.pdf "Ragnhild_Vassvik_Barents_Regional_Chair_Finnmark_5_juni_2018 .pdf")
-[Arctic Skills Robert\_Flatli](/49d187/contentassets/34d8802a86ae4efdb8bc15ca9f1c5993/robert_flatli_arctic-skills_barents_5_june_2018--.pdf "Robert_Flatli_ARCTIC SKILLS_Barents_5_june_2018  .pdf")
-[Kolarctic\_CBC Programme Päivi Ekdahl](/49d187/contentassets/34d8802a86ae4efdb8bc15ca9f1c5993/paivi_ekdal_kolarctic_barents_june_5_2018.pdf "Päivi_Ekdal_Kolarctic_Barents_june_5_2018.pdf")[Joint Barents Transport Plan Krister Palo](/49d187/contentassets/34d8802a86ae4efdb8bc15ca9f1c5993/krister_palo_trafikverket_beata_jbtp_june_5_2018.pdf "Krister_Palo_Trafikverket_BEATA_JBTP_june_5_2018.pdf")
+[Barents_Regional_Chair_Finnmark Ragnhild Vassvik](/49d187/contentassets/34d8802a86ae4efdb8bc15ca9f1c5993/ragnhild_vassvik_barents_regional_chair_finnmark_5_juni_2018-.pdf "Ragnhild_Vassvik_Barents_Regional_Chair_Finnmark_5_juni_2018 .pdf")
+[Arctic Skills Robert_Flatli](/49d187/contentassets/34d8802a86ae4efdb8bc15ca9f1c5993/robert_flatli_arctic-skills_barents_5_june_2018--.pdf "Robert_Flatli_ARCTIC SKILLS_Barents_5_june_2018  .pdf")
+[Kolarctic_CBC Programme Päivi Ekdahl](/49d187/contentassets/34d8802a86ae4efdb8bc15ca9f1c5993/paivi_ekdal_kolarctic_barents_june_5_2018.pdf "Päivi_Ekdal_Kolarctic_Barents_june_5_2018.pdf")[Joint Barents Transport Plan Krister Palo](/49d187/contentassets/34d8802a86ae4efdb8bc15ca9f1c5993/krister_palo_trafikverket_beata_jbtp_june_5_2018.pdf "Krister_Palo_Trafikverket_BEATA_JBTP_june_5_2018.pdf")
 [The Indigenous Barents Tatiana Egorova](/49d188/contentassets/34d8802a86ae4efdb8bc15ca9f1c5993/tatiana_egorova_bipo_5_june_2018.pdf "Tatiana_Egorova_BIPO_5_june_2018.pdf")

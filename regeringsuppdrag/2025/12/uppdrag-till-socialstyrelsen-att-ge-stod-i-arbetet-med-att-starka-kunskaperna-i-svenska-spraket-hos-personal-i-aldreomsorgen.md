@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att ge stöd i arbetet med att stärka kunskaperna i svenska språket hos personal i äldreomsorgenDiarienummer: S2025/02097
+# Uppdrag till Socialstyrelsen att ge stöd i arbetet med att stärka kunskaperna i svenska språket hos personal i äldreomsorgen
 
 Regeringen uppdrar åt Socialstyrelsen att ta fram ett kvalitativt stöd till kommuner och verksamheter som bedriver äldreomsorg så att de kan arbeta för att personalen ska ha den kunskapsnivå i svenska språket som behövs för att utföra insatser med god kvalitet. Myndigheten ska kontinuerligt stödja utförare av äldreomsorg, såväl kommunala som privata, i genomförandet av språkutvecklande insatser samt möjliggöra kunskapsutbyte mellan berörda aktörer.
 

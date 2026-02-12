@@ -20,6 +20,8 @@ Nya tider kräver nya åtgärder.
 
 Vi behöver förhålla oss till utvecklingen i rymddomänen, genom att möta utmaningarna också ta vara på möjligheterna.
 
+
+
 Jag vill börja med att beröra några av utmaningarna genom att beskriva hot, risker och sårbarheter kopplat till rymden samt hur vi bör bemöta dem.
 
 För det första.
@@ -68,6 +70,8 @@ Regeringens initiativ för försvarsinnovation syftar till att nyttja innovation
 
 Initiativet omfattar utformningen av försvarsinnovationsstrategi, ett civil-militärt innovationsprogram utformat av Vinnova och Försvarsmakten samt och etablering av ett försvarsinnovationsråd som både ska kunna titta i glaskulan och se till att de nya instrumenten tillämpas.
 
+
+
 Mina damer och herrar,
 
 Om vi då lämnar utmaningarna och istället tittar på möjligheterna med rymden så är det lätt att konstatera att de är många.
@@ -82,6 +86,8 @@ Regeringen har beslutat att tilldela en miljard kronor till Försvarsmakten för
 
 Paketet omfattar uppbyggnad av uppskjutningsförmåga från Esrange, utveckling av egna satelliter för spaning och övervakning och fortsatt utveckling av förmåga till militär rymdlägesbild.
 
+
+
 Kommersialiseringen av rymden ger nya möjligheter.
 
 Den globala rymdbranschen har genomgått betydande förändringar. Med den nya rymdekonomin är tillgången till rymden och rymdtjänster billigare och enklare än någonsin.
@@ -93,6 +99,8 @@ Sverige behöver en konkurrenskraftig försvars- och rymdindustri för att kunna
 Konkurrenskraften bygger på att produkterna och tjänsterna som produceras är kommersiellt gångbara och relevanta på den globala marknaden.
 
 Tillgång till flera finansieringskällor är avgörande för att möjliggöra innovation, volym och skala.
+
+
 
 Vi behöver också anamma ett nytt förhållningssätt till innovation för att kunna möta framväxande utmaningar.
 
@@ -112,6 +120,8 @@ Det andra exemplet är demonstration av nästa generations teknik för maritim k
 
 Med stöd från Trafikverkets forsknings- och innovationsbudget har svensk försvars- och rymdindustri byggt en satellit som även kommer att användas för att leverera kommersiella tjänster.
 
+
+
 Mina damer och herrar,
 
 Med vårt geostrategiska läge och nationella rymdkapacitet kan och ska vi positionera oss som en aktiv och trovärdig aktör på den internationella arean.
@@ -125,6 +135,8 @@ Inträdet i Nato innebär ökade möjligheter för svenska aktörer, bland annat
 SSC, Institutet för rymdfysik och Luleå tekniska universitet utgör tillsammans en av fyra kandidater som föreslås som testcentra för DIANA.
 
 Behovet av stärkta relationer mellan militära användare i Nato och den kommersiella rymdsektorn manifesteras i Natos första kommersiella rymdstrategi som publiceras nästa år.
+
+
 
 Uppskjutningskapaciteten på Esrange kan bidra till såväl allierades tillträde till rymden som EU:s oberoende tillträde till rymden.
 
@@ -140,6 +152,8 @@ Vi delar flera utmaningar och geografiska förutsättningar med våra grannar i 
 
 Med alla nordiska länder i Nato har vi goda möjligheter för att stärka och utveckla det nordiska samarbetet inom rymd och försvar.
 
+
+
 Ärade gäster,
 
 Vi behöver en rymdpolitik för det nya säkerhetspolitiska läget.
@@ -149,6 +163,8 @@ Rymden hjälper oss att flytta fram gränsen för vad som är möjligt.
 Rymdverksamhet är samtidigt en komplex verksamhet som spänner över flera politikområden. Forsknings- och teknikpolitik vävs samman med utrikes-, försvars- och säkerhetspolitik.
 
 Det ställer krav på en sammanhållen och kunskapsbaserad rymdpolitik.
+
+
 
 Sist men inte minst behöver vi ett starkt humankapital inom rymd, försvar och säkerhet.
 

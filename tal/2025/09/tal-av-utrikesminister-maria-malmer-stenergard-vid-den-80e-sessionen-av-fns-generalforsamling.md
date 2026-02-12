@@ -84,7 +84,7 @@ Israel har rätt att försvara sig. Men den rätten måste utövas i enlighet me
 
 Det humanitära utrymmet måste skyddas och bistånd får aldrig politiseras. Det finns ett akut behov av att öka pressen på den israeliska regeringen att ändra kurs och fullgöra sina skyldigheter enligt internationell rätt.
 
-Sverige välkomnar internationella ansträngningar för en fredlig lösning på Israel–Palestina-konflikten. Det ligger i alla staters intresse att inte bara få ett slut på kriget, utan också att säkerställa en hållbar tvåstatslösning.  För en bättre framtid för alla, både israeler och palestinier.
+Sverige välkomnar internationella ansträngningar för en fredlig lösning på Israel–Palestina-konflikten. Det ligger i alla staters intresse att inte bara få ett slut på kriget, utan också att säkerställa en hållbar tvåstatslösning. För en bättre framtid för alla, både israeler och palestinier.
 
 Herr ordförande,
 

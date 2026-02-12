@@ -1,4 +1,4 @@
-# Uppdrag att ta fram och sprida information med anledning av propositionen Stärkt skydd för barn som riskerar att fara illaDiarienummer:  S2026/00045
+# Uppdrag att ta fram och sprida information med anledning av propositionen Stärkt skydd för barn som riskerar att fara illa
 
 Regeringen uppdrar åt Socialstyrelsen, Polismyndigheten och Myndigheten för familjerätt och föräldraskapsstöd att ta fram och sprida information till professionen om innebörden av de nya reglerna med anledning av propositionen Stärkt skydd för barn som riskerar att fara illa.
 

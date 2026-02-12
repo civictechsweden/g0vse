@@ -6,7 +6,7 @@ Det talade ordet gäller.
 
 Thank you all for being here today.
 
-\*\*\*
+***
 
 As part of the Monday Movement, we gather here every week to show our support for Ukraine.
 
@@ -22,7 +22,7 @@ I am also honoured to announce a new leadership programme for Belarusian women w
 
 Some of the women taking part in this programme might become the political leaders of a future democratic Belarus.
 
-\*\*\*
+***
 
 Men kampen för demokrati och frihet i Belarus sker inte i ett vakuum. Den hör samman med det ukrainska folkets kamp – för frihet, självbestämmande och en framtid i fred.
 

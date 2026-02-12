@@ -1,4 +1,4 @@
-# Nya regler för att underlätta noteringar av värdepapperFi2025/01023
+# Nya regler för att underlätta noteringar av värdepapper
 
 Europeiska kommissionen presenterade den så kallade noteringsakten 2022 i syfte att främja möjligheterna till kapitalmarknadsfinansiering för främst små och medelstora företag och att göra kapitalmarknaderna i EU mer konkurrenskraftiga.
 

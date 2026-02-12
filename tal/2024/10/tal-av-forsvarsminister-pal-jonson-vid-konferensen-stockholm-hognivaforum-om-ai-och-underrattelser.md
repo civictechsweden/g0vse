@@ -42,7 +42,7 @@ And the private sector in its turn needs to support the Intelligence Community t
 
 History has shown us that an authoritative government with strong control over society neither creates substantial economic nor technical development.
 
- I am convinced that voluntary and respectful cooperation between intelligence agencies and the private sector will make us stronger.
+I am convinced that voluntary and respectful cooperation between intelligence agencies and the private sector will make us stronger.
 
 As shown today, both the intelligence community and the information tech sector has identified this need. Our adversaries do not have this advantage.
 
@@ -76,4 +76,4 @@ The protection against the backside of the AI development is in Cyber Security. 
 
 Last week Ali Baba announced their ambition to increase their AI effort. As mentioned earlier the democratic world has proven a better soil for information technology, but we are not far ahead. Authoritarian governments allow their intelligence and security services to explore the AI development without considerations of human rights and respect for individuals. I will quote former Finish President Niinistö – If you are on the side of good, then you need to be able to meet evil with force. This is our mutual challenge.
 
- I would once again express my gratitude to the persons making the effort to connect this impressive collection of competence that sits in this room. I am certain that in this room, there are people that already have solutions to all these challenges. This very conference is the evidence we are many democratic societies supporting each other and that we will stay strong.
+I would once again express my gratitude to the persons making the effort to connect this impressive collection of competence that sits in this room. I am certain that in this room, there are people that already have solutions to all these challenges. This very conference is the evidence we are many democratic societies supporting each other and that we will stay strong.

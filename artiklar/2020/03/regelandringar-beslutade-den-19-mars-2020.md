@@ -2,7 +2,7 @@
 
 ## Upphävande av Naturvårdsverkets föreskrift – ämnen som bryter ner ozonskiktet
 
-Regeringen har beslutat om upphävande av Naturvårdsverkets föreskrifter om avsteg från 12 § förordningen om ämnen som bryter ner ozonskiktet eftersom föreskriften inte längre har någon praktisk betydelse. Föreskriften upphävs på Naturvårdsverkets begäran. Numera regleras frågan om eventuella undantag i förordningen (2016:1129) om ozonnedbrytande ämnen och förordningen (EG) 1005/2009 om ämnen som bryter ned ozonskiktet. I den nuvarande förordningen saknar Naturvårdsverket bemyndigande som gör att verket kan upphäva föreskriften.
+Regeringen har beslutat om upphävande av Naturvårdsverkets föreskrifter om avsteg från 12 § förordningen om ämnen som bryter ner ozonskiktet eftersom föreskriften inte längre har någon praktisk betydelse. Föreskriften upphävs på Naturvårdsverkets begäran. Numera regleras frågan om eventuella undantag i förordningen (2016:1129) om ozonnedbrytande ämnen och förordningen (EG) 1005/2009 om ämnen som bryter ned ozonskiktet. I den nuvarande förordningen saknar Naturvårdsverket bemyndigande som gör att verket kan upphäva föreskriften.
 
 Föreskriften upphävs från den 1 maj 2020.
 

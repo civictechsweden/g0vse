@@ -25,4 +25,4 @@ Av detta utgör 19,4 miljarder kronor civilt stöd, inklusive humanitärt stöd.
 * Socialstyrelsens uppdrag att koordinera svenska myndigheter, andra offentliga aktörer och sjukhus stöd till Ukraina och finansiera dessas deltagande i olika projekt och samarbeten.
 * Stiftelsen Swecare koordinerar och stödjer svenska privata aktörers stöd och samarbete med Ukraina .
 
-  Konferensen den 15 december blev ett viktigt steg för att fördjupa samarbetet och skapa förutsättningar för ett starkt och hållbart sjukvårdssystem i Ukraina.
+Konferensen den 15 december blev ett viktigt steg för att fördjupa samarbetet och skapa förutsättningar för ett starkt och hållbart sjukvårdssystem i Ukraina.

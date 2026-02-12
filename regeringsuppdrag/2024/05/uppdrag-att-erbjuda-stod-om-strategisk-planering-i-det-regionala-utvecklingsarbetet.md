@@ -4,4 +4,4 @@ Regeringen ger Tillväxtverket, Boverket, Trafikverket och länsstyrelserna i up
 
 Tillväxtverket ska senast den 21 februari årligen under perioden 2025–2027
 lämna en delredovisning av uppdraget och senast den 21 februari 2028
-lämna en slutredovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).
+lämna en slutredovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).

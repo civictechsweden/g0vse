@@ -4,6 +4,6 @@ Regeringen avser att avsätta 500 000 000 per år 2015-2018 för att skapa en me
 
 Överenskommelsen för 2017 omfattar totalt 447 000 000 kronor avsett för olika insatser som syftar till att korta väntetiderna i cancervården och göra den mer jämlik.
 
-Arbetet med att förbättra tillgängligheten inom cancervården utgår från ett gemensamt nationellt definierat system med standardiserade vårdförlopp. Dessa vårdförlopp beskriver vilka utredningar och första behandlingar som ska göras inom respektive cancerdiagnos, samt vilka maximala tidsgränser som gäller för de olika åtgärderna.
+Arbetet med att förbättra tillgängligheten inom cancervården utgår från ett gemensamt nationellt definierat system med standardiserade vårdförlopp. Dessa vårdförlopp beskriver vilka utredningar och första behandlingar som ska göras inom respektive cancerdiagnos, samt vilka maximala tidsgränser som gäller för de olika åtgärderna.
 
-Målet för de årliga överenskommelserna är att de insatser som ingår ska bli en integrerad del av landstingens ordinarie verksamhet och att resultaten av arbetet ska bli tydliga, för både landstingen och för invånare och patienter genom att standardiserade vårdförlopp som ingår i överenskommelsen är implementerade.
+Målet för de årliga överenskommelserna är att de insatser som ingår ska bli en integrerad del av landstingens ordinarie verksamhet och att resultaten av arbetet ska bli tydliga, för både landstingen och för invånare och patienter genom att standardiserade vårdförlopp som ingår i överenskommelsen är implementerade.

@@ -4,7 +4,7 @@ Regeringen ger Socialstyrelsen i uppdrag att inom myndigheten utveckla ett arbet
 
 Uppdraget innebär en långsiktigt kunskapsstödjande roll kring samordning, kartläggning och eftersträvan av robusthet i försörjningskedjor av läkemedel och medicintekniska produkter.
 
- I uppdraget ingår att:
+I uppdraget ingår att:
 
 − Lämna förslag på hur ett arbete kopplat till statligt ansvar för försörjningsberedskapen inom hälso- och sjukvården vid allvarliga händelser i fredstid och höjd beredskap samt ytterst krig kan utvecklas inom myndigheten.
 

@@ -18,7 +18,7 @@ Utöver detta har regeringen i flera omgångar skjutit till medel till Konkurren
 
 Det är så här politiken behöver arbeta för att fler människor ska välja att starta och utveckla företag. Människor måste ges förutsättningarna att förvalta sitt pund och förverkliga sina idéer. Med en förstärkt KOS-lagstiftning främjas företagsamheten i vårt land. Det bidrar till fler jobb – det rustar Sverige starkt.
 
-Ebba Busch,  energi- och näringsminister
+Ebba Busch, energi- och näringsminister
 
 Elisabeth Svantesson, finansminister
 

@@ -8,5 +8,4 @@ Lagen ska gälla i stället för personuppgiftslagen (1998:204), men innehåller
 
 Den nya lagen föreslås träda i kraft den 1 januari 2016.
 
-[Pressmeddelande: Lagrådsremiss om domstolars behandling av
-personuppgifter](/pressmeddelanden/2015/06/lagradsremiss-om-domstolars-behandling-av-personuppgifter/)
+[Pressmeddelande: Lagrådsremiss om domstolars behandling av personuppgifter](/pressmeddelanden/2015/06/lagradsremiss-om-domstolars-behandling-av-personuppgifter/)

@@ -9,4 +9,4 @@ Följande instanser har meddelat att de ej har några synpunkter:
 * Linköpings kommun
 * Region Skåne
 
-Sista dag att svara på remissen var den 31 augusti 2015.
+Sista dag att svara på remissen var den 31 augusti 2015.

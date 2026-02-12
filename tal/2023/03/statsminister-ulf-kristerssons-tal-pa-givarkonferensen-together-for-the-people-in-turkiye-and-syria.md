@@ -12,7 +12,7 @@ På några få minuter miste hundratusentals sina hem, sina vardagsrutiner, sin 
 
 Under dagarna som följde blev det smärtsamt tydligt att hundratusentals hade mist någon närstående.
 
-Över 50 000 människor miste livet.
+Över 50 000 människor miste livet.
 
 Vi kan inte, som EU eller som medlemmar av världssamfundet, få sorgen eller smärtan att försvinna.
 
@@ -36,7 +36,7 @@ De samlade ekonomiska följderna kommer att vara förödande och göra sig gäll
 
 Men en sak till vet vi: när EU och världssamfundet anstränger sig tillsammans och med kraft, då kan vi göra en enorm skillnad.
 
-Det visade sig tydligt när många länder i EU – och andra länder – snabbt skickade sök- och räddningsteam, tält, fältsjukhus, elverk och annat stöd till de drabbade.
+Det visade sig tydligt när många länder i EU – och andra länder – snabbt skickade sök- och räddningsteam, tält, fältsjukhus, elverk och annat stöd till de drabbade.
 
 Från Sverige skickade vi snabbt experter och nödhjälp.
 
@@ -44,7 +44,7 @@ Enskilda personers, frivilligorganisationers och näringslivets starka vilja att
 
 De inledande snabba åtgärderna efter jordbävningarna måste nu följas av solitt stöd till fortsatt humanitär nödhjälp, återhämtning och återuppbyggnad.
 
-Mitt eget land, Sverige, kommer i dag att göra en utfästelse om 500 miljoner kronor, motsvarande 45 miljoner euro, som bidrag till insatser för humanitärt stöd och återuppbyggnad i Turkiet, och humanitärt stöd och återuppbyggnad för människorna i Syrien.
+Mitt eget land, Sverige, kommer i dag att göra en utfästelse om 500 miljoner kronor, motsvarande 45 miljoner euro, som bidrag till insatser för humanitärt stöd och återuppbyggnad i Turkiet, och humanitärt stöd och återuppbyggnad för människorna i Syrien.
 
 Våra medel kommer att tillhandahållas genom Unicef, UNHCR, FN:s utvecklingsprogram UNDP och FN:s livsmedelsprogram WFP, våra partner sedan länge.
 

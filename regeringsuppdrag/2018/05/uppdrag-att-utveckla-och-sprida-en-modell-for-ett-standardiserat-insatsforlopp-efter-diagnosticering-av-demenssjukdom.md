@@ -6,10 +6,10 @@ I uppdraget ingår att:
 
 * ge exempel på hur samverkan mellan relevanta verksamheter inom landsting och kommuner kan utformas.
 * inom ramen för modellen närmare belysa hur samverkan inom verksamheter kan ske på olika nivåer, både mellan olika yrkesgrupper men också på organisatorisk nivå. I detta ska arbetet med patientkontrakt beaktas.
-* Socialstyrelsen i uppdragets genomförande och inom ramen för modellen ska beakta möjligheten att inkludera insatser för att minska risken för att våldsamma situationer uppstår kring personer med demenssjukdom.
-* Socialstyrelsen i uppdragets genomförande och inom ramen för modellen ska beakta möjligheten att informera om framtidsfullmakter.
+* Socialstyrelsen i uppdragets genomförande och inom ramen för modellen ska beakta möjligheten att inkludera insatser för att minska risken för att våldsamma situationer uppstår kring personer med demenssjukdom.
+* Socialstyrelsen i uppdragets genomförande och inom ramen för modellen ska beakta möjligheten att informera om framtidsfullmakter.
 * modellen ska bidra till en jämställd och jämlik vård och omsorg om personer med demenssjukdom.
 
-När Socialstyrelsen genomför uppdraget ska myndigheten föra dialog med Sveriges Kommuner och Landsting, utredningen om Samordnad utveckling för god och nära vård  samt andra relevanta aktörer som exempelvis företrädare för professions- och patientorganisationer.
+När Socialstyrelsen genomför uppdraget ska myndigheten föra dialog med Sveriges Kommuner och Landsting, utredningen om Samordnad utveckling för god och nära vård samt andra relevanta aktörer som exempelvis företrädare för professions- och patientorganisationer.
 
 Socialstyrelsen ska senast den 1 mars 2019 redovisa uppdraget till Regeringskansliet.

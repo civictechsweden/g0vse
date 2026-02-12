@@ -1,4 +1,4 @@
-# Riksrevisionens rapport om systemet för lärarlegitimationSkr. 2025/26:47
+# Riksrevisionens rapport om systemet för lärarlegitimation
 
 I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och slutsatser samt rekommendationer som Riksrevisionen lämnar till regeringen i sin granskningsrapport Systemet för lärarlegitimation – utformning, styrning och uppföljning (RiR 2025:12).
 

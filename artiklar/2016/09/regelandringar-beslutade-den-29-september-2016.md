@@ -10,7 +10,7 @@ Kraven som ställs på systemet som bidraget ska kunna gå till är att det ska 
 
 Det ska inte vara möjligt att både få det nu aktuella bidraget och annat offentligt stöd, exempelvis skattereduktion för arbetskostnad.
 
-Bidrag får ges med högst 60 procent av kostnaderna för lagringssystemet, dock högst 50 000 kronor.
+Bidrag får ges med högst 60 procent av kostnaderna för lagringssystemet, dock högst 50 000 kronor.
 
 Länsstyrelserna ska pröva frågor om bidrag.
 
@@ -34,4 +34,5 @@ Förordningsändringen träder i kraft den 13 oktober 2016.
 
 Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 11 oktober 2016.
 
-**Kontaktperson**Christina Nordenbladh 08-405 22 65
+**Kontaktperson**
+Christina Nordenbladh 08-405 22 65

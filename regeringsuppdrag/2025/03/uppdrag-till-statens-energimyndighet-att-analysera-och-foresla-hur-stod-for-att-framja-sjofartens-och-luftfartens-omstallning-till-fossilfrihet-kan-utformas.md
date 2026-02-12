@@ -5,14 +5,14 @@ Regeringen ger Statens energimyndighet (Energimyndigheten) i uppdrag att analyse
 I uppdraget ingår att
 
 * analysera behovet av stöd för att främja sjöfartens och luftfartens
-  omställning till fossilfrihet,
+omställning till fossilfrihet,
 * föreslå utformning av stöd för att främja sjöfartens användning
-  av fossilfria energibärare, inklusive konvertering av fartyg till
-  alternativa drivlinor,
+av fossilfria energibärare, inklusive konvertering av fartyg till
+alternativa drivlinor,
 * analysera förutsättningar för och föreslå utformning av stöd för
-  en marknadsintroduktion av flyg som helt eller delvis drivs med
-  el,
+en marknadsintroduktion av flyg som helt eller delvis drivs med
+el,
 
 och lämna nödvändiga författningsförslag.
 
-Uppdraget ska slutredovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 1 februari 2026.
+Uppdraget ska slutredovisas till Regeringskansliet (Klimat- och näringslivsdepartementet) senast den 1 februari 2026.

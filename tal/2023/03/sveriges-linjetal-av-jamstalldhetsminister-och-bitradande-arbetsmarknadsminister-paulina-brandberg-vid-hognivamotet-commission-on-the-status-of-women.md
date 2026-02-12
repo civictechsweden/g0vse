@@ -16,13 +16,13 @@ The impact on the civilian population within my region – I am now speaking abo
 
 Let me be clear. We stand united in strong solidarity with the Ukrainian people. My government will continue to support Ukraine and hold Russia fully responsible. International humanitarian law must be respected.
 
-\*\*\*
+***
 
 I am a proud member of the Swedish government which includes a gender equality perspective into all areas of policy-making. The objective of Swedish gender equality policy is that women and men, boys and girls, shall have equal power to shape society and their own lives.
 
 Because human rights are universal and apply to all, everyone must be able to fully enjoy their human rights, regardless of sex, gender identity or expression, ethnicity, religion or other belief, disability, sexual orientation, age, or other status. The Swedish Government is committed to ensure equal rights and the full and equal enjoyment of human rights of LGBTQI-persons.
 
-\*\*\*
+***
 
 Internet and technology is still thought of as a man’s world. Stereotypical norms are common in online communities, in which the rhetoric attributed to women’s rights movement is often aggressive.
 

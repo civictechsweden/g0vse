@@ -1,4 +1,4 @@
-# Uppdrag till Arbetsmiljöverket om förbättring av utstationeringsregistrets kvalitet och tillgänglighetDiarienummer: A2026/00148
+# Uppdrag till Arbetsmiljöverket om förbättring av utstationeringsregistrets kvalitet och tillgänglighet
 
 Arbetsmiljöverket ska, inom ramen för gällande rätt, kartlägga förutsättningarna och vidta åtgärder för att förbättra kvaliteten i och tillgängligheten till uppgifter i utstationeringsregistret för relevanta myndigheter och arbetsmarknadens parter i syfte att förebygga regelöverträdelser och brottslighet samt för att minska arbetstagares utsatthet.
 

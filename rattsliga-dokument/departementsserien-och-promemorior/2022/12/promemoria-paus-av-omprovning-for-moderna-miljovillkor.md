@@ -5,4 +5,5 @@ I promemorian lämnas förslag till en ändring i bilagan till förordningen
 om prövning för moderna miljövillkor senast ska ha getts in senareläggs
 med ett år för samtliga prövningsgrupper där tiden för att ge in en ansökan
 ännu inte har passerats.
+
 Förordningsändringen föreslås träda i kraft den 30 januari 2023.

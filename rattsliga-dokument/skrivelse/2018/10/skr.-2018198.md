@@ -4,13 +4,13 @@ Regeringen bedömer innehållet i Riksrevisionens rapport Nekad sjuk- och aktivi
 
 ## Regellättnader motiverade
 
-Regeringen instämmer i Riksrevisionens iakttagelser. Rätt till sjukersättning och aktivitetsersättning ska under pågående sjukfall prövas utan onödigt dröjsmål. Riksrevisionen menar att lättnader i reglerna kan vara väl motiverade. Myndigheten rekommenderar därför att en tidsgräns regleras i sjukförsäkringen. Inom den gränsen ska rätten till sjukersättning och aktivitetsersättning vara prövad.
+Regeringen instämmer i Riksrevisionens iakttagelser. Rätt till sjukersättning och aktivitetsersättning ska under pågående sjukfall prövas utan onödigt dröjsmål. Riksrevisionen menar att lättnader i reglerna kan vara väl motiverade. Myndigheten rekommenderar därför att en tidsgräns regleras i sjukförsäkringen. Inom den gränsen ska rätten till sjukersättning och aktivitetsersättning vara prövad.
 
 Regeringen konstaterar att reglerna behöver ses över. Beviljade sjukersättningar och aktivitetsersättningar ligger på låga nivåer. En översyn av regelverket för sjukersättningen har därför påbörjats.
 
 ## Hinder för en meningsfull sysselsättning
 
-Myndigheten har också analyserat eventuella hinder för den som har sjukersättning till en meningsfull sysselsättning. Utifrån Försäkringskassans rapport Uppföljning av sjukfrånvarons utveckling 2018 bedömer regeringen dock att Försäkringskassan i högre utsträckning än vad Riksrevisionens visar, genomför särskild utredning vid den fastställda tidpunkten.
+Myndigheten har också analyserat eventuella hinder för den som har sjukersättning till en meningsfull sysselsättning. Utifrån Försäkringskassans rapport Uppföljning av sjukfrånvarons utveckling 2018 bedömer regeringen dock att Försäkringskassan i högre utsträckning än vad Riksrevisionens visar, genomför särskild utredning vid den fastställda tidpunkten.
 
 ## Ny process blir fråga för Försäkringskassans interna styrning
 

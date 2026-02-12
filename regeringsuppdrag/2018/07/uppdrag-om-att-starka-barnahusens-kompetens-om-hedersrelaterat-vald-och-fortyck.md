@@ -9,4 +9,4 @@ barnahusverksamheternas utredningsarbete av hedersrelaterad brottslighet.
 Uppdraget ska slutredovisas till Regeringskansliet (Socialdepartementet)
 senast den 17 maj 2020. En delredovisning ska lämnas senast den 30 april 2019.
 
-Pressmeddelande: [Regeringen har beslutat om en plan mot könsstympning](/pressmeddelanden/2018/06/regeringen-har-beslutat-om-en-plan-mot-konsstympning/)
+Pressmeddelande: [Regeringen har beslutat om en plan mot könsstympning](/pressmeddelanden/2018/06/regeringen-har-beslutat-om-en-plan-mot-konsstympning/)

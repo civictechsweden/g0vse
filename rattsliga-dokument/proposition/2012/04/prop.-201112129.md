@@ -16,6 +16,6 @@ Förslagen innebär bl.a. följande:
 På flera områden förutsätts att kommissionen antar rättsakter med detaljerade regler.
 
 Lagändringarna föreslås träda i kraft den 1 juli 2012.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________________________________________________________
 
 Riksdagen fattade den 30 maj 2012 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

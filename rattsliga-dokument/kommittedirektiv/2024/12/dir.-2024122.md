@@ -4,8 +4,8 @@ En särskild utredare ska ta ställning till hur det nya förverkandedirektivet 
 
 Utredaren ska därutöver bland annat
 
-* följa tillämpningen av den nya förverkandelagstiftningen, redovisa sina iakttagelser och vid behov lämna förslag om författningsändringar som kan komplettera lagstiftningen,
-* ta ställning till om en omvänd bevisbörda eller en s.k. förverkandepresumtion bör införas vid utvidgat förverkande i linje med vad som följer av artikel 3.4 i förverkandekonventionen och, oavsett ställningstagande, lämna förslag om en omvänd bevisbörda vid utvidgat förverkande, och
-* ta ställning till om tillämpningsområdet för befintliga tvångsmedel bör utvidgas, och oavsett ställningstagande, lämna förslag som innebär att egendom generellt kan säkras i förverkandesyfte och därmed sammanhängande frågor.
+* följa tillämpningen av den nya förverkandelagstiftningen, redovisa sina iakttagelser och vid behov lämna förslag om författningsändringar som kan komplettera lagstiftningen,
+* ta ställning till om en omvänd bevisbörda eller en s.k. förverkandepresumtion bör införas vid utvidgat förverkande i linje med vad som följer av artikel 3.4 i förverkandekonventionen och, oavsett ställningstagande, lämna förslag om en omvänd bevisbörda vid utvidgat förverkande, och
+* ta ställning till om tillämpningsområdet för befintliga tvångsmedel bör utvidgas, och oavsett ställningstagande, lämna förslag som innebär att egendom generellt kan säkras i förverkandesyfte och därmed sammanhängande frågor.
 
 Uppdraget ska redovisas senast den 19 december 2025.

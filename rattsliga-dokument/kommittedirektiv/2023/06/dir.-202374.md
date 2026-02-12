@@ -6,7 +6,7 @@ Regeringen beslutade den 30 juni 2022 kommittédirektiv om ett förstärkt samh�
 
 Utredaren ska nu även
 
-* överväga om det bör införas en ny tidsobestämd frihetsberövande påföljd och, oavsett ställningstagande i sak, lämna förslag på hur en sådan påföljd kan utformas,
+* överväga om det bör införas en ny tidsobestämd frihetsberövande påföljd och, oavsett ställningstagande i sak, lämna förslag på hur en sådan påföljd kan utformas,
 * oavsett ställningstagande i sak lämna förslag på reglering av överträdelse av anvisning om var en dömd person ska vistas eller inte får vistas,
 * överväga och, oavsett ställningstagande i sak, föreslå ändringar som innebär att återfall i brott ska beaktas i skärpande riktning vid straffmätningen i fler fall samt utifrån detta även föreslå de ändringar i 34 kap. brottsbalken som bedöms vara nödvändiga och föreslå ändringar som innebär att tillämpningsområdet utvidgas för regeln som möjliggör överstigande av straffskalan för brottet i vissa återfallssituationer (26 kap. 3 § brottsbalken),
 * överväga och, oavsett ställningstagande i sak, föreslå kriminalisering av rymning och avvikelser från verkställigheten av ett fängelsestraff eller sluten ungdomsvård samt från verkställigheten av ett beslut om häktning på grund av misstanke om brott och beslut om förvar avseende utlänningar,

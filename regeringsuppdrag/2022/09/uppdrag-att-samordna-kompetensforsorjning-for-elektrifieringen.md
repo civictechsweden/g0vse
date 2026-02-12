@@ -6,12 +6,12 @@ historisk klimatomställning (I2022/00299) (elektrifieringsstrategin) och främj
 Energimyndigheten ska särskilt
 
 * genom kartläggning och analys tydliggöra kompetensbehovet inom
-  relevanta yrkeskategorier utifrån ett helhetsperspektiv på elektrifieringen och omställningen till ett fossilfritt energisystem,
+relevanta yrkeskategorier utifrån ett helhetsperspektiv på elektrifieringen och omställningen till ett fossilfritt energisystem,
 * identifiera möjliga hinder och utmaningar för energisektorns och
-  näraliggande sektorers kompetensförsörjning samt föreslå åtgärder för att möta kort- och långsiktiga kompetensbehov, som inbegriper ett fortsatt främjande av jämställdhet och integration, samt
+näraliggande sektorers kompetensförsörjning samt föreslå åtgärder för att möta kort- och långsiktiga kompetensbehov, som inbegriper ett fortsatt främjande av jämställdhet och integration, samt
 * verka för en närmare och mer koordinerad samverkan mellan
-  myndigheter och branschaktörer i fråga om kompetensförsörjning
-  kopplat till elektrifieringen, bl.a. för att stärka möjligheterna att rekrytera fler till relevanta utbildningar.
+myndigheter och branschaktörer i fråga om kompetensförsörjning
+kopplat till elektrifieringen, bl.a. för att stärka möjligheterna att rekrytera fler till relevanta utbildningar.
 
 Energimyndigheten ska genomföra uppdraget i dialog med Affärsverket
 svenska kraftnät, Elsäkerhetsverket, Energimarknadsinspektionen och

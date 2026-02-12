@@ -1,4 +1,4 @@
-# Uppdrag till Trafikverket att utreda civilplikt inom beredskapssektorn TransporterDiarienummer: LI2025/01930
+# Uppdrag till Trafikverket att utreda civilplikt inom beredskapssektorn Transporter
 
 Regeringen ger Trafikverket i uppdrag att, i enlighet med vad som anges
 nedan och under Närmare om uppdraget, utreda och bedöma behovet av

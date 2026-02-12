@@ -16,7 +16,7 @@ Under mötet diskuterades en rad olika ämnen, bland annat Rysslands aggressions
 
 – Det råder stor samsyn och enighet inom Natokretsen kring dessa frågor. Det måste vi värna i dagens läge, säger utrikesministern.
 
-Utrikesministern fick tillfälle att bekräfta Sveriges starka stöd för Ukraina, något som han även förmedlade till Ukrainas president Volodymyr Zelenskyj och utrikesminister Dmytro Kuleba vid sitt besök i Kiev dagen före utrikesministermötet.
+Utrikesministern fick tillfälle att bekräfta Sveriges starka stöd för Ukraina, något som han även förmedlade till Ukrainas president Volodymyr Zelenskyj och utrikesminister Dmytro Kuleba vid sitt besök i Kiev dagen före utrikesministermötet.
 
 ## Säkerhetspolitik i fokus
 

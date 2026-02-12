@@ -1,4 +1,4 @@
-# Uppdrag till E-hälsomyndigheten och Integritetsskyddsmyndigheten att utveckla former för och ge juridisk vägledning för användningen av hälsodataDiarienummer: S2025/01277 (delvis)
+# Uppdrag till E-hälsomyndigheten och Integritetsskyddsmyndigheten att utveckla former för och ge juridisk vägledning för användningen av hälsodata
 
 Regeringen ger E‑hälsomyndigheten och Integritetsskyddsmyndigheten (IMY) i uppdrag att utveckla former för och ta fram juridisk vägledning för användningen av hälsodata, med fokus på den nationella digitala infrastrukturen för hälso- och sjukvård.
 

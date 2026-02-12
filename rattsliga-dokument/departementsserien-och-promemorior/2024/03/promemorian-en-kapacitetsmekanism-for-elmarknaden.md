@@ -1,3 +1,3 @@
-# Promemorian En kapacitetsmekanism för elmarknaden
+# En kapacitetsmekanism för elmarknaden
 
 

@@ -1,4 +1,4 @@
-# Förlängd tid för uppdraget till Myndigheten för familjerätt och föräldraskapsstöd om förstärkta familjerätter och våldsförebyggande familjerådgivningDiarienummer:  S2025/00210
+# Förlängd tid för uppdraget till Myndigheten för familjerätt och föräldraskapsstöd om förstärkta familjerätter och våldsförebyggande familjerådgivning
 
 Regeringen förlänger tiden för uppdraget till Myndigheten för familjerätt och föräldraskapsstöd (MFoF) att under 2025 betala ut och följa upp statsbidrag till 20 kommuner.
 

@@ -1,6 +1,6 @@
 # Viktigare än någonsin! Radio och TV i allmänhetens tjänst 2007-2012
 
-Propositionen innehåller förslag till villkor och riktlinjer som ska gälla under kommande tillståndsperiod för radio- och TV-verksamheten i allmänhetens tjänst som bedrivs av Sveriges Radio AB, Sveriges Television AB och Sveriges Utbildningsradio AB. I propositionen föreslås i huvudsak oförändrade riktlinjer för företagen.
+Propositionen innehåller förslag till villkor och riktlinjer som ska gälla under kommande tillståndsperiod för radio- och TV-verksamheten i allmänhetens tjänst som bedrivs av Sveriges Radio AB, Sveriges Television AB och Sveriges Utbildningsradio AB. I propositionen föreslås i huvudsak oförändrade riktlinjer för företagen.
 
 Detta innebär att programverksamheten ska präglas av oberoende och stark integritet och bedrivas självständigt och att programföretagen ska erbjuda ett varierat utbud av hög kvalitet som speglar hela landet. Programföretagen ska liksom i dag ha en decentraliserad organisation.
 

@@ -1,4 +1,4 @@
-# Promemoria Strandskyddet vid små sjöar och smala vattendrag
+# Strandskyddet vid små sjöar och smala vattendrag
 
 I promemorian lämnas förslag om att strandskydd som huvudregel inte ska gälla vid insjöar som är en hektar eller mindre och inte heller vid sådana sträckor av ett vattendrag som är två meter eller smalare.
 

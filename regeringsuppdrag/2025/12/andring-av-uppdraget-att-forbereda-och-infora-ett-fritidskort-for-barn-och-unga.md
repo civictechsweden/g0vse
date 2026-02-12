@@ -1,4 +1,4 @@
-# Ändring av uppdraget att förbereda och införa ett fritidskort för barn och ungaDiarienummer:  S2023/01303
+# Ändring av uppdraget att förbereda och införa ett fritidskort för barn och unga
 
 Regeringen ändrar i uppdraget till E-hälsomyndigheten, Folkhälsomyndigheten, Försäkringskassan, Myndigheten för ungdoms- och civilsamhällesfrågor och Statens kulturråd att förbereda och ta fram ett förslag för en digital tjänst och för införandet av ett fritidskort för barn och unga.
 

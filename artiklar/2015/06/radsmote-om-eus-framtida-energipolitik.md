@@ -4,7 +4,7 @@ Energiunionen är i fokus när EU:s energiministrar möts i Luxemburg den 8 juni
 
 Energiministrarna ska diskutera kommissionens förslag om att skapa en energiunion i EU med en framåtblickande klimatpolitik. Två frågor ska diskuteras. Den första är hur konsumenternas roll kan stärkas, den andra hur EU ska kunna attrahera investeringar till energisektorn.
 
-För regeringen är det viktigt att energiunionen är i linje med långsiktiga klimat- och energimål. Väl fungerande energimarknader  liksom ett stabilt och transparent EU-regelverk är avgörande för att få till stånd investeringar på EU-nivå.
+För regeringen är det viktigt att energiunionen är i linje med långsiktiga klimat- och energimål. Väl fungerande energimarknader liksom ett stabilt och transparent EU-regelverk är avgörande för att få till stånd investeringar på EU-nivå.
 
 Förslaget om energiunionen omfattar fem områden: försörjningstrygghet, en helt integrerad energimarknad, energieffektivisering, minskade klimatutsläpp samt forskning och innovation.
 

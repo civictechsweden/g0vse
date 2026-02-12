@@ -14,7 +14,7 @@ Slutligen ska förslaget förhålla sig till de tjänster för mobil data kommun
 
 Inom ramen för uppdraget ska MSB:
 
-* inhämta information från användarorganisationerna om vilka behov de har av ett utvecklat och säkert kommunikationssystem samt  analysera och bedöma det samlade behovet utifrån bland annat funktionalitet, tillgänglighet, robusthet och långsiktig kostnadskontroll,
+* inhämta information från användarorganisationerna om vilka behov de har av ett utvecklat och säkert kommunikationssystem samt analysera och bedöma det samlade behovet utifrån bland annat funktionalitet, tillgänglighet, robusthet och långsiktig kostnadskontroll,
 * analysera för- och nackdelar med att helt eller delvis införa ett system liknande den lösning som har valts i Finland och tillvarata de finska erfarenheterna för att, om lämpligt och möjligt, tillämpa i en svensk kontext,
 * föreslå hur det samlade behovet bäst kan tillgodoses och vilken eller vilka aktörer som bör få ansvar för att genomföra förslaget,
 * analysera och bedöma vilket behov av frekvensutrymme som det föreslagna systemet har och lämna förslag på hur det behovet kan tillgodoses,
@@ -28,6 +28,6 @@ MSB ska löpande hålla Regeringskansliet (Justitiedepartementet) informerat om 
 
 Uppdraget ska redovisas senast den 12 februari 2021.
 
-\_\_\_
+___
 
 Dokumentets fullständiga titel lyder: Uppdrag till Myndigheten för samhällsskydd och beredskap att analysera och lämna förslag på hur det samlade behovet av ett utvecklat och säkert kommunikationssystem för aktörer inom allmän ordning, säkerhet, hälsa och försvar bäst kan tillgodoses

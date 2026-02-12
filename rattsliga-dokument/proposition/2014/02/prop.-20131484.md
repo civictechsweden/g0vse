@@ -11,6 +11,6 @@ Lagändringen föreslås träda i kraft den 1 juni 2014.
 I propositionen föreslås även en förlängd övergångsperiod för understödsföreningar. Lagen om understödsföreningar upphävdes i samband med införandet av den nya försäkringsrörelselagen. Enligt lagen om införande av försäkringsrörelselagen får befintliga understödsföreningar fortsätta att driva sin verksamhet enligt 1972 års lag till utgången av 2014. Innan övergångsperiodens slut måste föreningarna ansöka om tillstånd enligt försäkringsrörelselagen eller träda i likvidation. Förslaget innebär att övergångsperioden för understödsföreningar förlängs till utgången av 2017.
 
 Lagändringen föreslås träda i kraft den 1 januari 2015.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________________________________________________
 
 Riksdagen fattade den 2 april 2014 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

@@ -1,4 +1,4 @@
-# Ansökan om ekonomiskt stöd från Sveriges Riksidrottsförbund för åtgärder för ökad simkunnighetDiarienummer: S2026/00005
+# Ansökan om ekonomiskt stöd från Sveriges Riksidrottsförbund för åtgärder för ökad simkunnighet
 
 Regeringen beviljar Sveriges Riksidrottsförbund 45 miljoner kronor för att genomföra åtgärder för att öka simkunnigheten. Insatser ska göras för att öka simkunnigheten bland barn och vuxna i områden där utanförskapet är stort.
 

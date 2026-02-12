@@ -4,11 +4,11 @@ Regeringen uppdrar åt Socialstyrelsen att bland annat analysera om 15 år är l
 
 ## När vårdnadshavare inte samtycker
 
-När en av vårdnadshavarna inte samtycker föreslås det i  lagrådsremissen att socialnämnden ska kunna besluta om att ansöka om ändring av kön. Regeringen uppdrar nu åt Socialstyrelsen att kartlägga om det behövs en sådan bestämmelse och analysera om socialtjänsten har den kompetens som krävs för detta.
+När en av vårdnadshavarna inte samtycker föreslås det i lagrådsremissen att socialnämnden ska kunna besluta om att ansöka om ändring av kön. Regeringen uppdrar nu åt Socialstyrelsen att kartlägga om det behövs en sådan bestämmelse och analysera om socialtjänsten har den kompetens som krävs för detta.
 
 ## Genomlysning av intresseavvägning
 
-Socialstyrelsen ska bistå de utredare som biträder Socialdepartementet med att genomlysa den intresseavvägning som ligger bakom förslaget att låta barn som fyllt 15 år själv få bestämma om att ändra det kön som framgår av folkbokföringen.
+Socialstyrelsen ska bistå de utredare som biträder Socialdepartementet med att genomlysa den intresseavvägning som ligger bakom förslaget att låta barn som fyllt 15 år själv få bestämma om att ändra det kön som framgår av folkbokföringen.
 
 ## Uppdateringar
 

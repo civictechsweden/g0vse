@@ -1,4 +1,4 @@
-# Legitimation och behörighet i den tioåriga grundskolanU2025/02137
+# Legitimation och behörighet i den tioåriga grundskolan
 
 I promemorian föreslås att det införs en upplysningsbestämmelse om att regeringen med stöd av restkompetensen kan meddela föreskrifter om undantag från vissa bestämmelser om behörighet och legitimation för lärare och förskollärare i skollagen (2010:800).
 

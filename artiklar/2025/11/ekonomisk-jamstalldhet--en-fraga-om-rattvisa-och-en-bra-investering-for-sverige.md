@@ -40,15 +40,15 @@ Jämställdhetsmyndigheten, Arbetsförmedlingen Försäkringskassan, Migrationsv
 
 [Regeringsuppdrag: Uppdrag att i samverkan ta fram en myndighetsgemensam plan för att öka utrikes födda kvinnors inträde på arbetsmarknaden](/regeringsuppdrag/2022/05/uppdrag-att-i-samverkan-ta-fram-en-myndighetsgemensam-plan/)
 
-[Myndighetsgemensam plan för att öka utrikes födda kvinnors inträde på arbetsmarknaden (Jämställdhetsmyndighetens hemsida)   - extern webbplats,](https://jamstalldhetsmyndigheten.se/media/ubyovfkv/myndighetsgemensam-plan-underskriven-48-sidor.pdf)
+[Myndighetsgemensam plan för att öka utrikes födda kvinnors inträde på arbetsmarknaden (Jämställdhetsmyndighetens hemsida) - extern webbplats,](https://jamstalldhetsmyndigheten.se/media/ubyovfkv/myndighetsgemensam-plan-underskriven-48-sidor.pdf)
 
 ### Medlingsinstitutet analyserar livsinkomster
 
 Medlingsinstitutet har haft i uppdrag att analysera inte bara löneinkomster, utan också alla andra inkomster som påverkar individers disponibla inkomster över livet utifrån ett jämställdhetsperspektiv. Uppdraget slutredovisades den 1 oktober 2025.
 
-[Medlingsinstitutet Regleringsbrev 2025 (Ekonomistyrningsverket hemsida)  - extern webbplats,](https://www.esv.se/Statsliggaren/Regleringsbrev?rbid=25188)
+[Medlingsinstitutet Regleringsbrev 2025 (Ekonomistyrningsverket hemsida) - extern webbplats,](https://www.esv.se/Statsliggaren/Regleringsbrev?rbid=25188)
 
-[Inkomstskillnaden mellan kvinnor och män 22 procent (Medlingsinstitutets hemsida) - extern webbplats,](https://www.mi.se/nyheter/2025/inkomstskillnaden-mellan-kvinnor-och-man-22-procent/ "Inkomstskillnaden mellan kvinnor och män 22 procent (Medlingsinstitutets hemsida)")
+[Inkomstskillnaden mellan kvinnor och män 22 procent (Medlingsinstitutets hemsida) - extern webbplats,](https://www.mi.se/nyheter/2025/inkomstskillnaden-mellan-kvinnor-och-man-22-procent/ "Inkomstskillnaden mellan kvinnor och män 22 procent (Medlingsinstitutets hemsida)")
 
 ### Nästa steg i översynen av grundskyddet inom ålderspensionssystemet – arbetsgrupp utsedd för att påbörja arbetet
 

@@ -8,7 +8,7 @@ Huvudsakligen genomför lagarna Europaparlamentets och rådets direktiv om:
 * upphandling av enheter som är verksamma på områdena vatten, energi, transporter och posttjänster
 * tilldelning av koncessioner.
 
- I den nya lagen om offentlig upphandling föreslås bland annat:
+I den nya lagen om offentlig upphandling föreslås bland annat:
 
 * att det införs bestämmelser om möjligheten att beakta livscykelkostnader.
 * ökade möjligheter att använda förhandlat förfarande med föregående annonsering och konkurrenspräglad dialog.

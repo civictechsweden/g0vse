@@ -1,4 +1,4 @@
-# Anpassning av vissa skatte- och avgiftsnedsättningar till EU:s regler om statsstödProp. 2025/26:24
+# Anpassning av vissa skatte- och avgiftsnedsättningar till EU:s regler om statsstöd
 
 I propositionen föreslår regeringen anpassningar av svensk skattelagstiftning så att lättnader som lämnas som stöd av mindre betydelse ska lämnas på ett sätt som är förenligt med det EU-rättsliga regelverket.
 

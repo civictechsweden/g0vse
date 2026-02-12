@@ -1,4 +1,4 @@
-# Uppdrag till Läkemedelsverket att ta fram ett samverkansforum för frågor om läkemedelsförskrivningDiarienummer:  S2026/00087
+# Uppdrag till Läkemedelsverket att ta fram ett samverkansforum för frågor om läkemedelsförskrivning
 
 Regeringen uppdrar åt Läkemedelsverket att stärka samverkan och utveckla arbetssätt i frågor om ordination, förskrivning och expedition av läkemedel.
 

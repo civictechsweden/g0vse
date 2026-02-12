@@ -6,17 +6,17 @@ Regeringen föreslår bestämmelser i smittskyddslagen om att den, inom grundlag
 
 Regeringen ska enligt förslaget få meddela särskilda föreskrifter om
 förhållandet mellan enskilda och det allmänna som gäller skyldigheter för enskilda eller i övrigt avser ingrepp i enskildas personliga eller
-ekonomiska förhållanden. Detta dock bara om det av smittskyddsskäl behövs för att hantera spridning av det virus som orsakar covid-19.
+ekonomiska förhållanden. Detta dock bara om det av smittskyddsskäl behövs för att hantera spridning av det virus som orsakar covid-19.
 
 Föreskrifterna ska få avse:
 
 * tillfälliga begränsningar för folksamlingar,
 * tillfällig nedstängning av köpcentrum och andra handelsplatser,
 * tillfällig nedstängning av sociala och kulturella mötesplatser, såsom
-  barer, nattklubbar, restauranger, kafeterior, gym- och sportanläggningar, bibliotek, museer och allmänna samlingslokaler,
+barer, nattklubbar, restauranger, kafeterior, gym- och sportanläggningar, bibliotek, museer och allmänna samlingslokaler,
 * tillfällig nedstängning eller andra begränsningar i fråga om transporter eller att använda infrastruktur, såsom hamnar, flygplatser eller buss eller järnvägsstationer,
 * tillfälligt möjliggörande av inbördes handel eller omfördelning av
-  läkemedel eller skyddsmaterial och annan medicinsk utrustning när det gäller privata vårdgivare och andra privata aktörer, eller
+läkemedel eller skyddsmaterial och annan medicinsk utrustning när det gäller privata vårdgivare och andra privata aktörer, eller
 * tillfälliga åtgärder av annat liknande slag.
 
 ## Samverkan och inbördes handel eller omfördelning av läkemedel och utrustning

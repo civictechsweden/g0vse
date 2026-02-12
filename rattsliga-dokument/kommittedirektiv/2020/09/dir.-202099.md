@@ -2,7 +2,7 @@
 
 Utredningens uppdrag förtydligas. Den nya myndigheten ska vara en nämndmyndighet – Nämnden för premiepensionens fondtorg – med ansvar för fondtorget för premiepension.
 
-Myndigheten ska  upphandla fonder till det nya fondtorget och förvalta fondtorget. Myndigheten ska också ansvara för avvecklingen av det nuvarande fondtorget och hur premiepensionsmedel på dagens fondtorg ska föras över till det upphandlade fondtorget.
+Myndigheten ska upphandla fonder till det nya fondtorget och förvalta fondtorget. Myndigheten ska också ansvara för avvecklingen av det nuvarande fondtorget och hur premiepensionsmedel på dagens fondtorg ska föras över till det upphandlade fondtorget.
 
 ## Pensionsmyndigheten ska vara värdmyndighet
 

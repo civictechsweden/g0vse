@@ -14,7 +14,7 @@ Till dess måste det också avgöras vad som ska hända med de interna gränskon
 
 Stats- och regeringscheferna diskuterade också handelsfrågor vid sitt oktobermöte. Förhoppningen att Europeiska rådet skulle kunna välkomna EU:s omfattande handelsavtal med Kanada (Comprehensive Economic and Trade Agreement, CETA) grusades av Belgien, som inte kunde leverera ett ja till avtalet på grund av motstånd från det regionala parlamentet i Vallonien.
 
-Att ansträngningarna efter toppmötets slut att få till stånd en lösning till slut bar frukt är mycket glädjande och inte minst betydelsefullt för utvecklingen av handelspolitiken i stort.
+Att ansträngningarna efter toppmötets slut att få till stånd en lösning till slut bar frukt är mycket glädjande och inte minst betydelsefullt för utvecklingen av handelspolitiken i stort.
 
 Trots CETA-motgången uttalade Euroepiska rådet att man ville se framsteg i handelsförhandlingarna med Japan och USA. Dessutom diskuterades den reform av EU:s handelspolitiska skyddsinstrument som pågår. Här är medlemskretsen oenig huruvida man ska få lägga på tullar på utländska dumpade eller subventionerade varor som är högre än vad som behövs för att uppväga den "skada" som EU-producenter kan lida.
 

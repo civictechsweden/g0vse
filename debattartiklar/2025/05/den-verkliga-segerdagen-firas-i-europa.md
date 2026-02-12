@@ -4,6 +4,7 @@ Debattartikel av statsminister Ulf Kristersson, utrikesminister Maria Malmer Ste
 
 I morgon fredag uppmärksammas segerdagen i Moskva, den propagandatillställning som säger sig fira Sovjetunionens seger över Nazityskland i andra världskriget. Det storslagna namnet står dock i stark kontrast till dagens Ryssland. Ekonomin står på randen till kollaps. Utanför de största städerna är rinnande vatten en lyx och födelsetalen faller.
 
+
 Rysslands brutala anfallskrig mot Ukraina är inne på sitt fjärde år och spektaklet på Röda torget döljer inte det faktum att Ryssland hittills har misslyckats med att uppnå sina strategiska mål.
 
 I Europa finns det däremot anledning att glädjas samma dag. Europadagen firas varje år den 9 maj till minne av den deklaration som blev startskottet för den europeiska kol- och stålgemenskapen – en gemensam förvaltning av industrin som lade grunden för efterkrigstidens mest framgångsrika fredsprojekt och en av världens största hemmamarknader. Idag, 75 år senare, är den Europeiska unionen världens kanske viktigaste symbol för fred, frihet och öppenhet.
@@ -15,6 +16,7 @@ Tvärtemot Rysslands förhoppningar föll inte Europa som ett korthus när Ryssl
 Regeringen har en nära dialog med Ukraina och ser ständigt över hur vi kan möta deras behov och samtidigt värna vårt eget försvar. Sverige är också ett av de länder som tydligast stöttar Ukrainas väg mot EU-medlemskap. Med Ukraina i EU blir vår union säkrare, starkare och rikare. Sverige arbetar för att EU ska öppna alla så kallade förhandlingskapitel med Ukraina under 2025.
 
 Europas länder måste nu ta ett större samlat ansvar för stödet till Ukraina, och för säkerheten på vår egen kontinent. Alldeles för länge har europeiska länder investerat alldeles för lite i sin försvarsförmåga. Nu ser vi hur EU växlar upp och tar sitt ansvar för att bidra till de historiska försvarssatsningar som sker i Europa. Den breda uppslutningen visar att EU kan bidra även här, samtidigt som det kollektiva försvaret i Nato stärks.
+
 
 EU:s svar på den amerikanska administrationens tullar visar också Europas styrka när vi talar med en röst. EU-länderna samlades bakom kommissionens tydliga svar – proportionerliga och välavvägda svarstullar med målet att europeiska företag och konsumenter ska komma så väl ut som möjligt.
 

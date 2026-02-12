@@ -8,7 +8,7 @@ Förordningarna träder i kraft den 1 januari 2017.
 
 ### Referenser
 
-* Europaparlamentets och rådets direktiv 2010/75/EU av den 24 november 2010 om industriutsläpp (samordnade åtgärder för att förebygga och begränsa föroreningar)
+* Europaparlamentets och rådets direktiv 2010/75/EU av den 24 november 2010 om industriutsläpp (samordnade åtgärder för att förebygga och begränsa föroreningar)
 * förordningen (1998:899) om miljöfarlig verksamhet och hälsoskydd
 * förordningen (1998:905) om miljökonsekvensbeskrivningar
 * förordningen (1998:940) om avgifter för prövning och tillsyn enligt miljöbalken
@@ -36,5 +36,6 @@ Efter riksdagens beslut om regeringens proposition Nytt regelverk om upphandling
 
 Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 13 december 2016.
 
-**Kontaktpersoner:**Industriutsläppsdirektivet: Pia-Maria Lindroos 08-405 21 51
+**Kontaktpersoner:**
+Industriutsläppsdirektivet: Pia-Maria Lindroos 08-405 21 51
 Energirelaterade produkter: Andreas Lindholm 08-405 14 54

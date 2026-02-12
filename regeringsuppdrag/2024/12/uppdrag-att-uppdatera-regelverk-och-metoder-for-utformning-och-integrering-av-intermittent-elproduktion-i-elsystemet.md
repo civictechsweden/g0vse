@@ -5,12 +5,12 @@ Regeringen ger Affärsverket svenska kraftnät (Svenska kraftnät), Energimarkna
 Myndigheterna ska härutöver
 
 * beskriva hur anläggningar för intermittent elproduktion kan utformas
-  eller kombineras med annan typ av kraftproduktion, flexibel
-  elanvändning eller lagringsteknik för att i större utsträckning bidra till
-  effekttillräckligheten, och
+eller kombineras med annan typ av kraftproduktion, flexibel
+elanvändning eller lagringsteknik för att i större utsträckning bidra till
+effekttillräckligheten, och
 * identifiera och beskriva lämpliga pilotprojekt för utvärdering av den
-  kraftelektronikanslutna elproduktionens möjlighet att bidra till
-  driftsäkerhet och effekttillräcklighet.
+kraftelektronikanslutna elproduktionens möjlighet att bidra till
+driftsäkerhet och effekttillräcklighet.
 
 Svenska kraftnät ska samordna arbetet med genomförande av uppdraget.
 Myndigheterna ska senast den 18 december 2025 lämna en gemensam

@@ -7,7 +7,7 @@ Sveriges säkerhet, bland annat
 
 * ta ställning till om förutsättningarna för att ta en utlänning i förvar bör utökas och föreslå längre förvarstider,
 * föreslå utökade möjligheter att använda tvångsmedel,
-* analysera de rättsliga förutsättningarna för att besluta om utvisning med hänsyn till Sveriges säkerhet och lämna förslag som innebär ökade möjligheter att tillämpa lagen om särskild kontroll av vissa utlänningar även i de fall en utlänning indirekt utgör ett kvalificerat hot mot Sveriges säkerhet, och
+* analysera de rättsliga förutsättningarna för att besluta om utvisning med hänsyn till Sveriges säkerhet och lämna förslag som innebär ökade möjligheter att tillämpa lagen om särskild kontroll av vissa utlänningar även i de fall en utlänning indirekt utgör ett kvalificerat hot mot Sveriges säkerhet, och
 * lämna nödvändiga författningsförslag.
 
 Utredaren ska vidare, när det gäller de utlänningar som deltar i eller på annat sätt har samröre med kriminella nätverk, bland annat

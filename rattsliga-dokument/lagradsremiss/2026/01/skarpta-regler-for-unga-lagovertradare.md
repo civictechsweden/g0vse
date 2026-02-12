@@ -4,9 +4,9 @@ Den systematiska och organiserade brottsligheten har de senaste åren kommit att
 
 I lagrådsremissen föreslår regeringen därför bl.a. följande.
 
-* Straffbarhetsåldern sänks till 13 år för allvarliga brott under en period om fem år.
+* Straffbarhetsåldern sänks till 13 år för allvarliga brott under en period om fem år.
 * Ungdomsreduktionen avskaffas helt för unga myndiga.
-* Ungdomsreduktionen minskas och straffmaximum höjs till fängelse i 18 år för lagöverträdare under 18 år.
+* Ungdomsreduktionen minskas och straffmaximum höjs till fängelse i 18 år för lagöverträdare under 18 år.
 * Påföljden ungdomsövervakning skärps.
 * Regleringen vid misskötsamhet av påföljderna ungdomsvård och ungdomstjänst skärps.
 

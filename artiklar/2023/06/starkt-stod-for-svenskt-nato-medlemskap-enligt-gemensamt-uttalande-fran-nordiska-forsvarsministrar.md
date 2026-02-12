@@ -10,4 +10,4 @@ Under 2023 då Sverige är ordförandeland ska det tas fram en ny vision för No
 
 Den nya visionen kommer, när den är klar, att öppna för fördjupat samarbete på försvarsområdet, till exempel genom att stärka förmågan att genomföra gemensamma operationer, värdlandsstöd, logistiskt stöd samt stöd från det civila försvaret.
 
-–  I de nordiska länderna har vi tillsammans skapat ett förtroende och tillit till varandra genom ett mångårigt samarbete som grundar sig i gemensamma värderingar och säkerhetsintressen. Vi förbereder nu för att kunna fördjupa det försvarspolitiska samarbetet med en ny vision. Nordefco är ett komplement som stärker Nato, säger försvarsminister Pål Jonson.
+– I de nordiska länderna har vi tillsammans skapat ett förtroende och tillit till varandra genom ett mångårigt samarbete som grundar sig i gemensamma värderingar och säkerhetsintressen. Vi förbereder nu för att kunna fördjupa det försvarspolitiska samarbetet med en ny vision. Nordefco är ett komplement som stärker Nato, säger försvarsminister Pål Jonson.

@@ -1,4 +1,4 @@
-# Uppdrag att utreda hur spetsutbildningar i musik kan utformas och införas i grundskolanU2025/02147
+# Uppdrag att utreda hur spetsutbildningar i musik kan utformas och införas i grundskolan
 
 För att barn ska få stimulans och förutsättningar att utveckla sina talanger så långt som möjligt inom musikområdet från de yngre åren behöver det finnas spetsutbildning inom musik i grundskolan. Det är viktigt för det svenska musiklivets återväxt och konkurrenskraft att barn och unga får möjligheter att både inom skolans ram och på fritiden tidigt utveckla sina särskilda musikintressen.
 

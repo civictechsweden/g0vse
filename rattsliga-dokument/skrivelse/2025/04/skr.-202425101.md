@@ -4,4 +4,4 @@ I skrivelsen lämnar regeringen en redogörelse för det ekonomiska utfallet i s
 
 Vidare lämnas en sammanställning av Riksrevisionens granskningsrapporter från effektivitetsrevisionen under året och regeringens åtgärder med anledning av dessa.
 
-Slutligen redovisas vilka myndigheter som fått en modifierad revisionsberättelse från Riksrevisionen och skälen för detta.
+Slutligen redovisas vilka myndigheter som fått en modifierad revisionsberättelse från Riksrevisionen och skälen för detta.

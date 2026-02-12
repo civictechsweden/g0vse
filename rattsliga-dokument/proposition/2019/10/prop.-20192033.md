@@ -9,8 +9,8 @@ Anstånd föreslås kunna beviljas efter ansökan till Skatteverket. Möjlighete
 * inom EU,
 * i en stat inom EES som har ingått en särskild överenskommelse med Sverige eller EU om ömsesidigt bistånd för indrivning av skattefordringar, eller
 * en stat som har ingått ett skatteavtal med Sverige som innehåller
-  artiklar om informationsutbyte och bistånd med indrivning av
-  skattefordringar.
+artiklar om informationsutbyte och bistånd med indrivning av
+skattefordringar.
 
 Den skattskyldige ska kunna styrka att kupongskatt har innehållits eller
 betalats för en viss utdelning och att det finns ett anståndsutrymme. Vid beräkningen av om det finns ett anståndsutrymme ska den utländska juridiska personens resultat, utdelningar som den skattskyldige tagit emot under det aktuella beskattningsåret och tidigare beviljade anstånd beaktas. Den utländska juridiska personens resultat ska beräknas enligt svenska regler.

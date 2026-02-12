@@ -1,4 +1,4 @@
-# Uppdrag om ersättning till familjehemDiarienummer: S2025/01353
+# Uppdrag om ersättning till familjehem
 
 Regeringen uppdrar åt Socialstyrelsen att kartlägga ersättningen till familjehem samt föreslå hur ersättning till familjehem ska beräknas framöver.
 

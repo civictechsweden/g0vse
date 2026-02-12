@@ -6,13 +6,13 @@ Regeringen ger Statens skolverk uppdrag enligt nedan.
 
 Skolverket ska ta fram förslag till kurser i kommunal vuxenutbildning (komvux) i svenska för invandrare (sfi) och en kursplan för var och en av kurserna. Kurserna ska ersätta dagens kurser i sfi. Kurserna ska vara anpassade till att elever har olika studiebakgrund och ska kunna ha olika inriktningar utifrån elevernas behov och mål med studierna. Av varje kursplan ska kursens studieomfattning i form av verksamhetspoäng framgå.
 
-En eller flera nationella kurser för grundläggande läs- och skrivinlärning ska tas fram. Kursen eller kurserna ska kunna läsas innan eller kombineras med övriga kurser inom sfi.
+En eller flera nationella kurser för grundläggande läs- och skrivinlärning ska tas fram. Kursen eller kurserna ska kunna läsas innan eller kombineras med övriga kurser inom sfi.
 
 Skolverket ska även analysera om kurserna i sfi bör få delas upp i delkurser.
 
 ## Yrkeskurser på grundläggande nivå
 
-Skolverket ska ta fram förslag till yrkeskurser i komvux på grundläggande nivå. Kurserna ska
+Skolverket ska ta fram förslag till yrkeskurser i komvux på grundläggande nivå. Kurserna ska
 
 * ge grundläggande yrkeskunskaper och innehålla praktiska inslag,
 * kunna kombineras till hela yrkesutbildningar, dvs. yrkespaket, på grundläggande nivå,

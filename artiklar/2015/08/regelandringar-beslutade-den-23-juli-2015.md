@@ -9,8 +9,8 @@ Förordningen ändras även på så vis att bestämmelserna om frivilliga certif
 ### Referenser
 
 * Europaparlamentets och rådets direktiv 2009/28/EG av den 23 april 2009 om främjande av användningen av energi från förnybara energikällor och om ändring och ett senare upphävande av direktiven 2001/77/EG och 2003/30/EG
-* Europaparlamentets och rådets direktiv 2012/27/EU av den 25 oktober 2012 om energieffektivitet, om ändring av direktiven 2009/125/EG och 2010/30/EU och om upphävande av direktiven 2004/8/EG och 2006/32/EG
-* förordningen (2012:970) om certifiering av vissa tjänster på energiområdet (SFS 2015:529)
+* Europaparlamentets och rådets direktiv 2012/27/EU av den 25 oktober 2012 om energieffektivitet, om ändring av direktiven 2009/125/EG och 2010/30/EU och om upphävande av direktiven 2004/8/EG och 2006/32/EG
+* förordningen (2012:970) om certifiering av vissa tjänster på energiområdet (SFS 2015:529)
 
 ## Mer information
 

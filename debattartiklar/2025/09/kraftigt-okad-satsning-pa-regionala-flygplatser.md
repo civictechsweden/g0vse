@@ -6,7 +6,7 @@ En tillförlitlig infrastruktur behövs för att människor ska få ihop livspus
 
 Regeringen och Sverigedemokraterna har presenterat en rekordstor infrastrukturram. I nästa nationella plan för transportinfrastrukturen 2026 2037 ökar vi satsningarna med över 20 procent. Det är tillräckligt mycket för att ta igen hela underhållsskulden på vägnätet samt bryta järnvägens negativa utveckling.
 
-Vi är även överens om ytterligare satsningar på infrastrukturen. Förslagen vi nu presenterar är åtgärder som stärker infrastrukturen och tillväxten i svensk ekonomi. I Sverige ska alla ha möjlighet att skapa sig ett gott liv, driva företag och i trygghet bilda familj, oavsett var i landet man bor eller driver sin verksamhet.
+Vi är även överens om ytterligare satsningar på infrastrukturen. Förslagen vi nu presenterar är åtgärder som stärker infrastrukturen och tillväxten i svensk ekonomi. I Sverige ska alla ha möjlighet att skapa sig ett gott liv, driva företag och i trygghet bilda familj, oavsett var i landet man bor eller driver sin verksamhet.
 
 Flyget behandlades styvmoderligt av den rödgröna regeringen som införde flygskatt och bromsade Arlandas utveckling. Vi anser tvärtom att flyget behövs för att hela Sverige ska fungera. Inrikesflygets nedgång har dock drabbat många regionala flygplatser som hotas av nedläggning. För att säkra flygplatser i hela Sverige föreslår vi därför kraftigt höjda statliga bidrag till kommuner för driften av regionala flygplatser. Driftbidragen föreslås höjas med 318 miljoner årligen, från dagens 210 till 528 miljoner kronor. Satsningen gör det möjligt att täcka upp till 75 procent av flygplatsernas driftunderskott.
 
@@ -20,7 +20,7 @@ För att stärka järnvägens konkurrenskraft och för att bidra till transports
 
 Cirka 90 procent av Sveriges export sker sjövägen och en större svensk handelsflotta är även viktigt för totalförsvaret. Sverige har idag ett system med tonnagebeskattning av rederier. För att stärka sjöfartens konkurrenskraft och underlätta för fler svenskflaggade fartyg avser vi att föreslå förbättringar av systemet så fler företag och fartyg ska kunna omfattas.
 
-Vi föreslår att Sjöfartsverkets anslag räknas upp med totalt 182,5 miljoner kronor per år. Satsningen minskar behoven av att genomföra besparingar inom främst den samhällsviktiga verksamheten och bidrar till en långsiktig förvaltning av Sjöfartsverkets kanaler.
+Vi föreslår att Sjöfartsverkets anslag räknas upp med totalt 182,5 miljoner kronor per år. Satsningen minskar behoven av att genomföra besparingar inom främst den samhällsviktiga verksamheten och bidrar till en långsiktig förvaltning av Sjöfartsverkets kanaler.
 
 Omvärldsutvecklingen och tillväxten inom det militära och civila försvaret påverkar behoven av infrastruktur. Den blocköverskridande försvarsöverenskommelsen från i juni i år innebär 50 miljarder kronor i investeringar i civilt försvar, varav en betydande del går till infrastruktur av vikt för totalförsvaret. Trafikverket har fått i uppdrag att vidta åtgärder som syftar till att upprätthålla fortsatt tågfärjetrafik mellan Sverige och Tyskland. Regeringen avsätter 55 miljoner kronor per år för detta ändamål.
 
@@ -32,6 +32,6 @@ Andreas Carlson, infrastruktur- och bostadsminister
 
 Carl-Oskar Bohlin, minister för civilt försvar
 
-Helena Gellerman,  riksdagsledamot och trafikpolitisk talesperson för Liberalerna
+Helena Gellerman, riksdagsledamot och trafikpolitisk talesperson för Liberalerna
 
-Thomas Morell,  riksdagsledamot för Sverigedemokraterna och vice ordförande i trafikutskottet
+Thomas Morell, riksdagsledamot för Sverigedemokraterna och vice ordförande i trafikutskottet

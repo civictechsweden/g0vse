@@ -26,4 +26,4 @@ Förutom myndigheterna inom rättsväsendet finns även flera andra aktörer som
 
 Alldeles för många människor, främst kvinnor, får sina liv förstörda av detta våld. Regeringen utför nu det arbete som borde ha skett för länge sedan, och så länge människor skadas och dödas av närstående i Sverige kommer arbetet att fortsätta.
 
-Paulina Brandberg, jämställdhets­minister
+Paulina Brandberg, jämställdhets­minister

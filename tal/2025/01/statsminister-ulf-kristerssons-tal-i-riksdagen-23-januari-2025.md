@@ -16,13 +16,13 @@ Det finns en tyst smärta i hennes och andra svenska judars vittnesmål – som 
 
 Bortom det antisemitiska våldet, alla hot och allt hat som just nu faktiskt får berättigad uppmärksamhet, så är det här vårt kollektiva misslyckande - att Maj-Britt – och många andra judar med henne – känner just så i dagens Sverige.
 
-\*\*\*
+***
 
 I år är det 80 år sedan Auschwitz-Birkenau befriades – och nu på måndag den 27 januari är jag för första gången på länge inte i Stora synagogan, utan på plats i Auschwitz, tillsammans med kronprinsessan, talmannen, kulturministern och många av mina kollegor runt om i Europa.
 
 Men framför allt deltar två av Auschwitz överlevande från Sverige i den minnesceremonin – Elisabeth Masur och Leon Weintraub, som dessutom kommer att vara en av vittnestalarna.
 
-\*\*\*
+***
 
 I 80 år har vi både som land och som medmänniskor haft ett gemensamt ansvar – att lyssna.
 
@@ -36,7 +36,7 @@ Och av samma skäl skjuter vi till mer pengar till Forum för levande historia, 
 
 Vi gör det för att historien lär oss, att varje generation måste vinnas – och varje generation måste vaccineras.
 
-\*\*\*
+***
 
 Men låt oss här idag inte bara se historiens mörker. Låt oss också se de ljus som tänds.
 
@@ -58,7 +58,7 @@ Allt detta – och så mycket mer – finns också representerat i den nya symbo
 
 Judiskt liv är alltså en omistlig del av vår svenska nutid, för att det var en viktig del av vår svenska dåtid – och ska förbli en självklar del av vår svenska framtid.
 
-\*\*\*
+***
 
 Tillbaka till Joanna Rubin Drangers bok. Hon avslutar med den retoriska frågan (och jag citerar): ”Hur vill vi att det ska vara? Ska människor behöva vara rädda för att vara dem de är?”
 

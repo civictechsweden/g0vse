@@ -6,4 +6,4 @@ De som begår kränkningar av folkrättens bestämmelser, inklusive måste håll
 
 FN:s bevisinsamlingsmekanism International, Impartial and Independent Mecha­nism (IIIM) arbetar för att samla in, kart­lägga och analysera bevisning avseende brott mot folkrätten som har begåtts i samband med den väpnade konflikten i Syrien sedan 2011. Bevisningen kan sedan användas i nationella, regionala eller internationella domstolar som har möjlighet att ställa misstänkta förövare inför rätta.
 
-Regeringen har idag beslutat om ett bidrag om 500 000 euro för att stötta mekanismens viktiga arbete för att främja rättvisa och hållbar fred för det syriska folket.
+Regeringen har idag beslutat om ett bidrag om 500 000 euro för att stötta mekanismens viktiga arbete för att främja rättvisa och hållbar fred för det syriska folket.

@@ -1,4 +1,4 @@
-# Remittering av Transportstyrelsens framställan om ändring i sjölag m.m.Diarienummer: Ju2023/02582
+# Remittering av Transportstyrelsens framställan om ändring i sjölag m.m.
 
 Här kan du ta del av svaren från dem som ombetts att svara på remissen av Transportstyrelsen framställan om ändring i sjölag m.m. Övriga yttranden finns tillgängliga i departementet.
 

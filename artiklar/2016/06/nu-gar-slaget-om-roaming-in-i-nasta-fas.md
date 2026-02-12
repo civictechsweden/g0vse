@@ -4,7 +4,7 @@ Vem vill inte kunna mobilsurfa under utlandssemestern utan att oroa sig för kos
 
 ## Slut på roamingavgifter sommaren 2017
 
-I den överenskommelse som nåtts mellan Europaparlamentet och EU:s medlemsstater så ska det från och med juni 2017 i normalfallet inte tas ut några roamingavgifter av konsumenterna när de använder sina mobiler på semestrar i andra medlemsstater. Förutsättningen är att priserna som operatörerna får ta ut av varandra sänks. Det är det som EU-kommissionen lägger förslag om nu.
+I den överenskommelse som nåtts mellan Europaparlamentet och EU:s medlemsstater så ska det från och med juni 2017 i normalfallet inte tas ut några roamingavgifter av konsumenterna när de använder sina mobiler på semestrar i andra medlemsstater. Förutsättningen är att priserna som operatörerna får ta ut av varandra sänks. Det är det som EU-kommissionen lägger förslag om nu.
 
 - Det är den allmänna uppfattningen är att det från och med sommaren 2017 inte kommer att vara dyrare att surfa utomlands än hemma. Och efter den turbulens vi har haft på det här området är nog alla måna om att leverera och undvika en svekdebatt, säger My Bergdahl vid Sveriges EU-representation.
 
@@ -40,10 +40,12 @@ Det är än så länge oklart hur länder som har ett neutralt in- och utflöde 
 
 - Men man kan fundera på om EU kommer att ta ställning för Sydeuropa kanske som en gest till länder som har en svår ekonomisk situation, resonerar My Bergdahl.
 
+
+
 ### My Bergdahl
 
 My Bergdahl är jurist och utsänd av Näringsdepartementet. Efter fyra och ett halvt år som telekområd på Sveriges EU-representation återvänder hon i höst till Stockholm för att arbeta med internationella förhandlingar vid Post- och telestyrelsen.
 
 ### Roaming
 
-Då mobiloperatörer sluter avtal med varandra som innebär att deras abonnenter kan använda resektive operatörers nät. Vanligtvis avses med begreppet att avtal träffas mellan internationella operatörer. När en svensk abonnent kommer till ett annat land, kopplas telefonen över till en operatör som hemmaoperatöreren har slutit avtal med. Hemmaoperatören betalar en avgift till operatören i det besökta landet för de tjänster abonnenten använder och fakturerar sedan i sin tur abonnenten.
+Då mobiloperatörer sluter avtal med varandra som innebär att deras abonnenter kan använda resektive operatörers nät. Vanligtvis avses med begreppet att avtal träffas mellan internationella operatörer. När en svensk abonnent kommer till ett annat land, kopplas telefonen över till en operatör som hemmaoperatöreren har slutit avtal med. Hemmaoperatören betalar en avgift till operatören i det besökta landet för de tjänster abonnenten använder och fakturerar sedan i sin tur abonnenten.

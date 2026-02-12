@@ -5,3 +5,9 @@
 [Presentationsbilder från pressträffen den 1 december (pdf)](/contentassets/1ccbaea808284d578ed8cf59cfce2138/presentationsbilder-fran-presstraffen-om-utrikeshandelsstrategin-pdf/)
 
 Anmälningstiden har gått ut.
+
+**Ladda ner:**
+
+[Presentationsbilder från pressträffen den 1 december (pdf)](/contentassets/1ccbaea808284d578ed8cf59cfce2138/presentationsbilder-fran-presstraffen-om-utrikeshandelsstrategin-pdf/)
+
+Anmälningstiden har gått ut.

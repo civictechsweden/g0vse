@@ -1,4 +1,4 @@
-# Uppdrag om stärkt samverkan när det finns misstanke om att barn har utsatts för våldsbrottDiarienummer: S2025/01365
+# Uppdrag om stärkt samverkan när det finns misstanke om att barn har utsatts för våldsbrott
 
 Regeringen uppdrar åt Polismyndigheten, Åklagarmyndigheten, Socialstyrelsen och Rättsmedicinalverket att revidera dels de nationella riktlinjerna för samverkan vid misstanke om att barn har utsatts för våldsbrott och dels kriterierna för barnahusverksamhet. Polismyndigheten samordnar arbetet.
 

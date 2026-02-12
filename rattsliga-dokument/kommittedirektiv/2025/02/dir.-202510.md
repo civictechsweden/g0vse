@@ -4,7 +4,7 @@ Av Tidöavtalet framgår att Kriminalvården ska expandera kraftigt. Den omlägg
 
 Samordnaren ska bl.a.
 
-* bedriva ett utåtriktat arbete mot aktörer inom såväl den kommunala sektorn som fastighetsmarknaden samt statliga myndigheter och samverka med dessa i syfte att underlätta tillskapandet av häktes- och anstaltsplatser samt
-* kartlägga och analysera hinder för en skyndsam och kostnadseffektiv expansion av Kriminalvården.
+* bedriva ett utåtriktat arbete mot aktörer inom såväl den kommunala sektorn som fastighetsmarknaden samt statliga myndigheter och samverka med dessa i syfte att underlätta tillskapandet av häktes- och anstaltsplatser samt
+* kartlägga och analysera hinder för en skyndsam och kostnadseffektiv expansion av Kriminalvården.
 
-  Uppdraget ska slutredovisas senast den 1 juni 2026.
+Uppdraget ska slutredovisas senast den 1 juni 2026.

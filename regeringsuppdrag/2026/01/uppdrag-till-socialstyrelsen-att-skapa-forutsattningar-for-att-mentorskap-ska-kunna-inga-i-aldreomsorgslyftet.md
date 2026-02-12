@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att skapa förutsättningar för att mentorskap ska kunna ingå i ÄldreomsorgslyftetDiarienummer: S2026/00074
+# Uppdrag till Socialstyrelsen att skapa förutsättningar för att mentorskap ska kunna ingå i Äldreomsorgslyftet
 
 Regeringen uppdrar åt Socialstyrelsen att ta fram ett underlag för hur utförare av äldreomsorg, såväl kommunala som privata, kan tillvarata seniora medarbetares kompetens i verksamheten genom att få uppgiften att vara mentor för att stödja kollegor på arbetsplatsen.
 

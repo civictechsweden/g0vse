@@ -144,7 +144,7 @@ Herr/fru talman!
 
 Vi behöver göra en noggrann analys av vilka Sveriges strategiska partner är i dag och vilka de bör vara i framtiden.
 
-Många av länderna runt Indiska oceanen och Stilla havet och i Latinamerika är sedan länge viktiga partner i utrikes- och handelspolitiken. Potentialen för gemensam utveckling är stor, inte minst genom de möjligheter som finns för svenska företag att skala upp sina verksamheter och när det gäller den gröna omställningen.
+Många av länderna runt Indiska oceanen och Stilla havet och i Latinamerika är sedan länge viktiga partner i utrikes- och handelspolitiken. Potentialen för gemensam utveckling är stor, inte minst genom de möjligheter som finns för svenska företag att skala upp sina verksamheter och när det gäller den gröna omställningen.
 
 Regeringen hoppas att frihandelsavtalet mellan EU och Nya Zeeland kan undertecknas under våren, och under året bör förhandlingarna med Australien kunna ros i hamn.
 
@@ -178,7 +178,7 @@ När det gäller Iran ska vi från EU:s sida utöva hårt politiskt tryck för a
 
 Det finns också anledning till oro över Irans agerande på det kärntekniska området och dess destabiliserande roll i regionen, liksom över landets militära samarbete med Ryssland.
 
-Regeringen agerar såväl bilateralt som inom EU och i FN. Inom EU ser vi  kontinuerligt över vilka åtgärder som bör vidtas, som är juridiskt genomförbara och mest effektiva. Och ytterligare sanktioner är att vänta.
+Regeringen agerar såväl bilateralt som inom EU och i FN. Inom EU ser vi kontinuerligt över vilka åtgärder som bör vidtas, som är juridiskt genomförbara och mest effektiva. Och ytterligare sanktioner är att vänta.
 
 FN har stora utmaningar, och meningsskiljaktigheter mellan länder gör det svårt för världssamfundet att agera med kraft. Sverige kommer att verka i FN genom alliansbyggande, långsiktighet och målmedvetenhet. Regeringen kommer fortsatt att driva på för effektiva lösningar som tillgodoser behoven av globala klimatåtgärder, humanitära insatser och hållbar utveckling, och som värnar om fred, säkerhet och fri- och rättigheter.
 

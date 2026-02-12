@@ -16,16 +16,16 @@ Förslaget är en revidering av 2014 års lagstiftning om elektronisk identifier
 
 ## Dataakten
 
-Ministrarna uppdaterades om arbetet med förslaget till förordning om harmoniserade regler för skälig åtkomst till och användning av data – den så kallade dataakten.
+Ministrarna uppdaterades om arbetet med förslaget till förordning om harmoniserade regler för skälig åtkomst till och användning av data – den så kallade dataakten.
 
 Huvudsyftet med förslaget är att säkerställa en rättvis fördelning av datauppgifternas värde bland aktörer i dataekonomin och att främja åtkomst till och användning av data.
 
 ## Den digitala och den gröna omställningen
 
-Ministrarna diskuterade den digitala och den gröna omställningen på initiativ av det franska ordförandeskapet.
+Ministrarna diskuterade den digitala och den gröna omställningen på initiativ av det franska ordförandeskapet.
 
-Diskussionen handlade om mätning och bedömning av den digitala teknikens miljöpåverkan och metoder för att mäta det digitala miljöavtrycket.
+Diskussionen handlade om mätning och bedömning av den digitala teknikens miljöpåverkan och metoder för att mäta det digitala miljöavtrycket.
 
-De diskuterade också vilka konkreta mål som EU bör fastställa fram till 2030 och vilka åtgärder som ska prioriteras på EU-nivå för att komma till rätta med den digitala teknikens största miljökostnader.
+De diskuterade också vilka konkreta mål som EU bör fastställa fram till 2030 och vilka åtgärder som ska prioriteras på EU-nivå för att komma till rätta med den digitala teknikens största miljökostnader.
 
 EU-ambassadör Torbjörn Haak företrädde Sverige på mötet.

@@ -1,4 +1,4 @@
-# Skarpare verktyg till Inspektionen för vård och omsorgProp. 2025/26:15
+# Skarpare verktyg till Inspektionen för vård och omsorg
 
 Regeringen föreslår att Inspektionen för vård och omsorg, IVO, får utökade möjligheter att ingripa mot verksamheter som inte uppfyller lagstiftningens krav. Detta bland annat genom att sanktionsavgift införs i två fall och att olovliga verksamheter omedelbart ska kunna förbjudas.
 

@@ -4,7 +4,7 @@ Dag Sundelin har många års erfarenhet av att arbeta med sexuell och reprodukti
 
 **Du har lång erfarenhet av frågorna – vad betyder She Decides-initiativet?**
 
-- Initiativet har stor betydelse, både politiskt och finansiellt, för att ge stöd åt SRHR inom ramen för rättighets- och jämställdhetsarbetet. 181 miljoner euro ytterligare spelar stor roll och blir en viktig resurs för att fortsätta arbetet med universella rättigheter för kvinnor och flickor.
+- Initiativet har stor betydelse, både politiskt och finansiellt, för att ge stöd åt SRHR inom ramen för rättighets- och jämställdhetsarbetet. 181 miljoner euro ytterligare spelar stor roll och blir en viktig resurs för att fortsätta arbetet med universella rättigheter för kvinnor och flickor.
 
 **Vilka är de främsta framgångarna under de senare åren i arbetet med SRHR i Afrika?**
 
@@ -12,11 +12,11 @@ Dag Sundelin har många års erfarenhet av att arbeta med sexuell och reprodukti
 
 **Vilka är de största utmaningarna?**
 
-- Det är långsiktiga förändringar av beteenden och socio-kulturella tabun. I vissa områden har klimatet hårdnat för SRHR. Det gäller inte minst synen på HBTQ-frågor, abort- och rättighetsfrågor generellt. På en del platser ser vi att konservativa trossamfund motverkar en positiv utveckling. Även politiker som är negativa till rättighetsfrågorna och omsätter detta i en hårdare lagstiftning, gör det svårare att arbeta progressivt.
+- Det är långsiktiga förändringar av beteenden och socio-kulturella tabun. I vissa områden har klimatet hårdnat för SRHR. Det gäller inte minst synen på HBTQ-frågor, abort- och rättighetsfrågor generellt. På en del platser ser vi att konservativa trossamfund motverkar en positiv utveckling. Även politiker som är negativa till rättighetsfrågorna och omsätter detta i en hårdare lagstiftning, gör det svårare att arbeta progressivt.
 
 **Regionen söder om Sahara är stor och omfattar många länder. Vad betyder det i det svenska teamets arbete?**
 
-- Det är oerhört viktigt att inte generalisera utan att man förstår att variationerna i Afrika är stora. SRHR ser precis som inom många utvecklingsområden väldigt olika ut inom regionen. Men att vi arbetar regionalt betyder att länder som går framåt i SRHR kan inspirera och öka grupptrycket mot sina grannar.
+- Det är oerhört viktigt att inte generalisera utan att man förstår att variationerna i Afrika är stora. SRHR ser precis som inom många utvecklingsområden väldigt olika ut inom regionen. Men att vi arbetar regionalt betyder att länder som går framåt i SRHR kan inspirera och öka grupptrycket mot sina grannar.
 
 **Den varierande inställningen världen över till abort hänger bitvis som ett mörkt moln över SRHR-arbetet. Hur hanterar ni det?**
 
@@ -24,7 +24,7 @@ Dag Sundelin har många års erfarenhet av att arbeta med sexuell och reprodukti
 
 **Kan du berätta lite mer om hur SRHR-teamet arbetar?**
 
-- Vi finansierar verksamhet för ett 25-tal samarbetspartners som bland annat arbetar med förändring av attityder, lagstiftning, hälsosystemsutveckling och medvetenhet. Vi samarbetar med mellanstatliga organ, med FN-organisationer och andra internationella och regionala organisationer inom civilsamhället.
+- Vi finansierar verksamhet för ett 25-tal samarbetspartners som bland annat arbetar med förändring av attityder, lagstiftning, hälsosystemsutveckling och medvetenhet. Vi samarbetar med mellanstatliga organ, med FN-organisationer och andra internationella och regionala organisationer inom civilsamhället.
 
 Vägledande för arbetet är regeringens strategi för sexuell och reproduktiv hälsa och rättigheter i Afrika söder om Sahara 2015-2019. Regeringen antog strategin i ett regeringsbeslut i juni 2015.
 

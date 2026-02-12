@@ -12,4 +12,4 @@ Uppdraget ska genomföras i samverkan med Jämställdhetsmyndigheten, Uppsala un
 
 En samlad redovisning av hur uppdraget har genomförts ska lämnas till Regeringskansliet senast den 31 maj 2019.
 
-Pressmeddelande: [Bättre stöd till utsatta kvinnor](/pressmeddelanden/2018/06/battre-stod-till-utsatta-kvinnor/)
+Pressmeddelande: [Bättre stöd till utsatta kvinnor](/pressmeddelanden/2018/06/battre-stod-till-utsatta-kvinnor/)

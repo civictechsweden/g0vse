@@ -5,12 +5,12 @@ arbetsmarknadsetablering för utrikes födda kvinnor (dir. 2022:42). Nu förlän
 
 Utredaren får nu även i uppdrag att
 
-* föreslå ett nytt mål för integrationspolitiken där samhällets insatser utgår ifrån att den som långvarigt befinner sig i Sverige ska ta ansvar för att bli en del av det svenska samhället,
-* analysera om regelverket för etableringsersättningen, etableringstillägget och bostadsersättningen innehåller tillräckligt starka incitament för att den nyanlände ska börja arbeta eller utöka sin arbetstid,
+* föreslå ett nytt mål för integrationspolitiken där samhällets insatser utgår ifrån att den som långvarigt befinner sig i Sverige ska ta ansvar för att bli en del av det svenska samhället,
+* analysera om regelverket för etableringsersättningen, etableringstillägget och bostadsersättningen innehåller tillräckligt starka incitament för att den nyanlände ska börja arbeta eller utöka sin arbetstid,
 * utifrån analysen lämna förslag på hur regelverket för ersättningarna bör
-  förändras,
+förändras,
 * oavsett resultatet av analysen lämna förslag på hur etableringstillägget
-  och bostadsersättningen kan avskaffas, och
+och bostadsersättningen kan avskaffas, och
 * lämna nödvändiga författningsförslag.
 
 Utredningstiden förlängs. Uppdraget ska i stället slutredovisas senast den 31

@@ -1,4 +1,4 @@
-# Promemoria Rätt till uppgifter om en EETS-betalnings¬förmedlares kunder och deras fordon
+# Rätt till uppgifter om en EETS-betalnings¬förmedlares kunder och deras fordon
 
 I denna promemoria föreslås ändringar i lagen (2013:1164) om elektroniska vägtullssystem för att genomföra artikel 5.9 i Europaparlamentets och rådets direktiv 2019/520/EU av den 19 mars 2019 om driftskompatibilitet mellan elektroniska vägtullsystem och underlättande av gränsöverskridande informationsutbyte om underlåtenhet att betala vägavgifter i unionen, det s.k. EETS-direktivet.
 

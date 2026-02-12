@@ -24,19 +24,29 @@ Er kamp för frihet är också vår kamp för ett fritt och demokratiskt Europa 
 
 Jag kan försäkra er om att Sverige kommer att stå vid Ukrainas sida så länge det krävs.
 
-\*\*\*
+
+
+***
+
+
 
 Ukraina-vänner,
 
 Hur kriget slutar kommer att forma Europa för lång tid framöver. Att uthålligt stödja Ukraina är och förblir den här regeringens viktigaste utrikespolitiska uppgift. Vårt stöd vilar på tre ben:
 
 1. För det första: det politiska stödet. Det är orubbligt. Ukraina hör hemma i den europeiska familjen. Därför stödjer vi reformprocessen mot ett EU-medlemskap. Ukraina i EU är en viktig framtida investering i fred och säkerhet i hela Europa.
+
 2. För det andra: det militära stödet. Vi har ökat militära stödet för varje år som den fullskaliga invasionen pågått. Nyligen tillkännagav vi att vi tillsammans med Danmark och Norge ska köpa in amerikanskt försvarsmateriel, bland annat ammunition till luftvärn, genom Nato, för 5 miljarder kronor. De nordiska länderna är sammantaget de största givarna av militärt stöd till Ukraina i år.
+
 3. Slutligen så är Ukraina den enskilt största mottagaren av svenskt bistånd. Med vårt stöd kan fler barn gå i skolan, och med vårt stöd hålls fler hem varma på vintern.
 
 Och vänner, när kriget är över, då ska vi hjälpas åt att bygga upp ert land igen.
 
-\*\*\*
+
+
+***
+
+
 
 Om man, som jag, har växt upp i Kristianstad i Skåne, får man redan som barn en glimt av de starka historiska banden mellan Ukraina och Sverige.
 

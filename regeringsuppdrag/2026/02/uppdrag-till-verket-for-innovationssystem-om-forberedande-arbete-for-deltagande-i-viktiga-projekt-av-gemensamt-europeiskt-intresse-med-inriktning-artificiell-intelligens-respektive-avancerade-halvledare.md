@@ -5,10 +5,10 @@ Regeringen ger Verket för innovationssystem (Vinnova) i uppdrag att förbereda 
 Vinnova ska:
 
 * delta för Sveriges räkning i medlemsstaternas gemensamma arbete
-  med att förbereda för och genomföra IPCEI AI respektive IPCEI
-  AST,
+med att förbereda för och genomföra IPCEI AI respektive IPCEI
+AST,
 * genomföra ett nationellt intresseförfarande riktat till företag för
-  deltagande i IPCEI AI respektive IPCEI AST, och
+deltagande i IPCEI AI respektive IPCEI AST, och
 * vägleda eventuella svenska projekt i processen.
 
 Uppdraget löper under förberedelsefasen för IPCEI AI och IPCEI AST.

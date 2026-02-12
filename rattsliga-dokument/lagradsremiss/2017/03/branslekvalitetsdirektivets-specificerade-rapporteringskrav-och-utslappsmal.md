@@ -6,6 +6,6 @@ Tillsynsmyndigheten föreslås dessutom få ta ut en sanktionsavgift, en s.k. ut
 
 Drivmedelsleverantörer kan välja att vidta åtgärder för att minska utsläppen tillsammans och rapportera tillsammans. Regeringen eller den myndighet som regeringen bestämmer föreslås få ett utvidgat bemyndigande att meddela föreskrifter om rapporteringsskyldigheten och om hur åtgärder får tillgodoräknas och minskningar beräknas. Det föreslås också att en förseningsavgift ska tas ut av en drivmedelsleverantör som inte lämnat uppgifter i rätt tid.
 
-Ändringarna föreslås för att det svenska regelverket ska överensstämma med ny EU-lagstiftning som fastställer beräkningsmetoder och rapporteringskrav enligt bränslekvalitetsdirektivet.
+Ändringarna föreslås för att det svenska regelverket ska överensstämma med ny EU-lagstiftning som fastställer beräkningsmetoder och rapporteringskrav enligt bränslekvalitetsdirektivet.
 
 Ändringarna föreslås träda i kraft den 1 augusti 2017.

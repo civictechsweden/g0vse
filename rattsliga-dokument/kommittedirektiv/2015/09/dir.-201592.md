@@ -3,7 +3,7 @@
 Regeringen har uppdragit åt utredaren Sigurd Heuman att titta närmare på hur offentlighetsprincipen kan komma att omfatta vissa delar av privat verksamhet.
 Utredningen omfattar privat utförd men offentligt finansierade tjänster inom: vård och omsorg, fristående förskolor och fritidshem samt vuxenutbildning, vissa i skollagen särskilt reglerade utbildningsformer och viss pedagogisk verksamhet.
 
-## Administrationen får inte öka
+## Administrationen får inte öka
 
 Genomförandet får inte i onödan öka utförarnas administration. Regeringen uppmärksammar också på att patienters, barns, elevers och andra brukares integritet ska skyddas.
 

@@ -22,7 +22,7 @@ Och ärligt talat: Vad gör det med din vilja att integreras, om du flyr från b
 
 Vår vän i Hjulsta är tyvärr inte ensam. Var femte företagare har övervägt att lägga ned sin verksamhet. Allt på grund av brottsligheten.
 
-\*\*\*
+***
 
 Idag möts vi här på Spånga IP. 20 minuter härifrån ligger Vällingby centrum. Där sköts en ung man i 20-årsåldern ihjäl utanför McDonalds vid halvsjutiden på nyårsafton.
 
@@ -46,7 +46,7 @@ Jag vet att det finns enormt mycket kraft och stolthet hos alla som bor i landet
 
 Men det är samtidigt ett faktum att andelen som känner sig otrygga i sitt eget bostadsområde är dubbelt så stor i utsatta områden som i landet som helhet. Hälften av de som bor i utsatta områden uppger att de vill flytta därifrån – och den vanligaste orsaken till det är brottsligheten.
 
-\*\*\*
+***
 
 Att läget är väldigt allvarligt – det visste jag såklart när jag tillträdde som justitieminister. Men efter ett drygt halvår på posten så måste jag tyvärr konstatera att det är värre än jag trodde. Mycket värre. Brottsligheten är grövre. Den påverkar fler. Den tränger längre ner i åldrarna. Och den har mer genomgripande konsekvenser för samhället i stort än vad de flesta nog känner till.
 
@@ -54,7 +54,7 @@ Att läget är så här illa, det grundar jag på information som man får tillg
 
 Varje gång jag har lämnat ett sådant möte så har jag ställt mig samma fråga: Om nu Socialdemokraterna hade den här informationen under sina åtta år vid makten, hur är det över huvud taget möjligt att de gjorde så lite åt problemen? Hur kunde min företrädare Morgan Johansson för flera år sedan påstå att den dåvarande S-regeringen var på väg att knäcka den organiserade brottsligheten, när man i själva verket hade tappat kontrollen?
 
-Sett i det ljuset blir Socialdemokraternas ansvar för dagens situation ännu mycket större. För vi talar här om en kriminalitet som är systemhotande.
+Sett i det ljuset blir Socialdemokraternas ansvar för dagens situation ännu mycket större. För vi talar här om en kriminalitet som är systemhotande.
 
 Med systemhotande menar jag att den inte bara förstör livet för brottsoffer och deras familjer. Utan att den undergräver själva grunden för vårt fria och öppna samhälle.
 
@@ -66,7 +66,7 @@ För det är så här: Om du riskerar att träffas av förlupna kulor utanför M
 
 Därför är kampen mot brottsligheten en kamp för varje människas frihet. Den kampen måste vi helt enkelt vinna.
 
-\*\*\*
+***
 
 De allra flesta förstår att det kommer att ta tid att vända den här utvecklingen. Jag är övertygad om att det går. Men för att lyckas måste hela samhället ta in problemens djup och vidd. Och vi måste vara beredda att lägga om politiken på bredden.
 
@@ -78,7 +78,7 @@ För det andra måste vi erkänna att det finns en konflikt mellan personlig int
 
 För det tredje måste vi göra upp med den felaktiga uppfattningen att det är två helt olika saker att förebygga brott och att bekämpa brott. De är inte varandras motsatser. Det är inte så att det ena är mjukt och det andra hårt. De är delar av samma helhet. Båda behövs. Både rättsstaten och socialstaten måste mobiliseras.
 
-Det här skiftena kommer att få stora praktiska konsekvenser. Och det gäller inte minst barn och unga, och snittet mellan sociala och rättsliga insatser. Till exempel kan vi se hur den 15-årsgräns som genomsyrar viktiga delar av lagstiftningen i praktiken är överspelad av dagens verklighet:
+Det här skiftena kommer att få stora praktiska konsekvenser. Och det gäller inte minst barn och unga, och snittet mellan sociala och rättsliga insatser. Till exempel kan vi se hur den 15-årsgräns som genomsyrar viktiga delar av lagstiftningen i praktiken är överspelad av dagens verklighet:
 
 När 13- och 14-åringar stoppas med vapen och sprängmedel har polisen begränsande möjligheter att beslagta deras mobiltelefoner och tömma dem på innehåll. Innan de har fyllt 15 kan de inte straffas för sina brott – då står bara olika sociala insatser till buds. Och flera av de här insatserna kan dessutom föräldrarna säga nej till så länge de är under 15.
 
@@ -100,7 +100,7 @@ Två mord är två för mycket. Men det kan ändå jämföras med totalt nio gä
 
 Vad beror det på? Ja, enligt polisen har ett antal personer med stort våldskapital helt enkelt plockats bort från gatan, och det har gjort stor skillnad i området. Det bekräftar en viktig insikt: Att klara upp brott och låsa in ledarna är också en helt avgörande förebyggande åtgärd.
 
-\*\*\*
+***
 
 Men lika viktigt som det är att låsa in gängkriminella, lika viktigt är det att se till att nya ungdomar inte rekryteras till gängen.
 
@@ -120,11 +120,11 @@ En av skolorna här på Järva – Hjulsta grundskola – rankades länge som en
 
 Men idag ligger gymnasiebehörigheten på Hjulstaskolan på hela 82 procent, och även övriga skolor i Järva har fortsatt att klättra uppåt och rejält förbättrat meritpoängen. Man pekar särskilt på några tydliga framgångsfaktorer: Satsning på rektorer och lärare. Och så fullt fokus på kärnuppdraget, det vill säga undervisningen. Inte minst i svenska språket. Höga förväntningar och krav – och hjälp och stöd för att klara betygen. Allt annat får stå tillbaka.
 
-\*\*\*
+***
 
 När vi nu satsar särskilda pengar på skolsociala team, för att öka tryggheten i skolan, så handlar det alltså inte minst om att lärare ska få fokusera på att vara just lärare, och ägna sig åt undervisning, inget annat.
 
-Om Hjulstaskolan är ett hoppfullt exempel, finns förstås också nedslående exempel på motsatsen. Tidigare i veckan skadades fyra elever allvarligt i ett knivbråk på en grundskola i Eskilstuna. Enligt uppgifter från vittnen ska uppemot fyrtio personer ha deltagit i bråket. Och jag var tidigare i våras i Eskilstuna och besökte den gymnasieskola där en elev sköts ihjäl på skärtorsdagen.
+Om Hjulstaskolan är ett hoppfullt exempel, finns förstås också nedslående exempel på motsatsen. Tidigare i veckan skadades fyra elever allvarligt i ett knivbråk på en grundskola i Eskilstuna. Enligt uppgifter från vittnen ska uppemot fyrtio personer ha deltagit i bråket. Och jag var tidigare i våras i Eskilstuna och besökte den gymnasieskola där en elev sköts ihjäl på skärtorsdagen.
 
 Vi har alltså, på vissa skolor i Sverige, en situation där man slåss med kniv. Där folk är lättade över att det åtminstone inte var en skjutning den här gången. Såhär kan vi inte ha det.
 
@@ -132,7 +132,7 @@ Det säger sig självt att skolan måste vara trygg och säker för att det ska 
 
 Därför tar regeringen nu också flera initiativ för att höja säkerheten på landets skolor. Det handlar till exempel om att skolor alltid ska polisanmäla, om man misstänker att en elev har begått ett brott. Vi skjuter också till pengar för särskilda akutskolor där elever som stör undervisningen eller hotar andra elever och lärare kan placeras tillfälligt. Det handlar om att värna tryggheten och studieron för andra elever, men också om att ge den som är på glid en ärlig chans att bryta mönster och starta om.
 
-\*\*\*
+***
 
 Till vänster i politiken tycker man om att prata om ”det starka samhället”. Man talar gärna om klyftor och om rättvisa.
 

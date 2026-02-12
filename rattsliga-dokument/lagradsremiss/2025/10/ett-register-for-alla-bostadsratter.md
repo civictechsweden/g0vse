@@ -2,9 +2,9 @@
 
 Regeringen föreslår att det inrättas ett bostadsrättsregister där alla bostadsrätter ska registreras. Registret ska föras av Lantmäteriet.
 
-I det nya bostadsrättsregistret ska det bland annat finnas uppgifter om bostadsrättshavaren, bostadsrättsföreningen och pantsättningar.
+I det nya bostadsrättsregistret ska det bland annat finnas uppgifter om bostadsrättshavaren, bostadsrättsföreningen och pantsättningar.
 
- Syftet med ett register är att
+Syftet med ett register är att
 
 * göra hanteringen av pantsättningar mer modern och rättssäker,
 * förenkla för bostadsrättsföreningarna,

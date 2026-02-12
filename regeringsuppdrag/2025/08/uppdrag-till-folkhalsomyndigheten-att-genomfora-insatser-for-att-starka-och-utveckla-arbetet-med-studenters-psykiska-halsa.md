@@ -1,4 +1,4 @@
-# Uppdrag till Folkhälsomyndigheten att genomföra insatser för att stärka och utveckla arbetet med studenters psykiska hälsaDiarienummer: S2025/01450
+# Uppdrag till Folkhälsomyndigheten att genomföra insatser för att stärka och utveckla arbetet med studenters psykiska hälsa
 
 Regeringen uppdrar åt Folkhälsomyndigheten att stärka och utveckla arbetet med studenters psykiska hälsa. Myndigheten ska bland annat bedöma fortsatta utvecklingsbehov inom området och föreslå hur myndigheten kan stödja fortsatt utvecklingsarbete.
 

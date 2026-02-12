@@ -8,4 +8,4 @@ I propositionen föreslår regeringen även en särskild bestämmelse om att all
 
 Lagändringarna föreslås träda i kraft den 1 september 2018.
 
-[Pressmeddelande: Rimligare villkor för snabblån](/pressmeddelanden/2018/01/rimligare-villkor-for-snabblan/)
+[Pressmeddelande: Rimligare villkor för snabblån](/pressmeddelanden/2018/01/rimligare-villkor-for-snabblan/)

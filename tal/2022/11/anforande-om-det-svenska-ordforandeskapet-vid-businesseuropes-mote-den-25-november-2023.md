@@ -12,7 +12,7 @@ Right now we are in the final month of preparations. We know that there will be 
 
 First, European security.
 
-Russia’s war in Ukraine has reminded us that our liberties should never be taken for granted. The European Union has been united in its robust support for Ukraine. That support will continue in every form:  politically and economically as well as with military and humanitarian aid. The Russian aggression has had major consequences for the security situation in Europe. It is clear that we must take greater responsibility for both European and transatlantic security.
+Russia’s war in Ukraine has reminded us that our liberties should never be taken for granted. The European Union has been united in its robust support for Ukraine. That support will continue in every form: politically and economically as well as with military and humanitarian aid. The Russian aggression has had major consequences for the security situation in Europe. It is clear that we must take greater responsibility for both European and transatlantic security.
 
 The invasion has led to an energy crisis, to levels of inflation that we haven’t seen in many years, and to economic decline when the Union is already lagging behind US and China in key economic areas. It is more apparent than ever that the EU’s strength and global clout depends on our collective economic performance.
 
@@ -40,7 +40,7 @@ It is high time for EU member states to reach our own goal of three percent of G
 
 The Swedish Presidency will promote measures for an open exchange of knowledge and data within the European Research Area to increase the use of knowledge in society, to accelerate the transition to open science, and to increase access to research infrastructures.
 
-Our ambition is to do everything we can to help promote the need for our Union to build strong and sustainable trade relations with the rest of the world. Trade policy aspects are key to the reconstruction of Ukraine,  and we will obviously focus on trade relations with the United States, including within the Trade and Technology Council.
+Our ambition is to do everything we can to help promote the need for our Union to build strong and sustainable trade relations with the rest of the world. Trade policy aspects are key to the reconstruction of Ukraine, and we will obviously focus on trade relations with the United States, including within the Trade and Technology Council.
 
 In this respect, the U.S. Inflation Reduction Act is of course a cause for concern. We must avoid a subsidy race, both with the U.S. and between EU member states. Therefore, we appreciate the Commission’s efforts to set up a task force and to have a frank dialogue with our U.S. friends, with which we should seek a WTO compatible solution. In any case, part of the EU’s response should be to put further focus on sharpening our companies’ competitiveness.
 

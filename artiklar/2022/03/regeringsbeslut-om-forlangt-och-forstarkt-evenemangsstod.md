@@ -6,7 +6,7 @@ Regeringen har tidigare aviserat förlängningen av evenemangsstödet till och m
 
 Evenemangsstödet infördes förra året för att arrangörer skulle våga planera för att genomföra evenemang såsom konserter, scenkonstföreställningar, utställningar, festivaler, mässor, marknader samt sport- och idrotts­evenemang. Stöd kunde fås för kostnader för evenemang som skulle genomförts men som inte kunnat genomföras eller hade begränsats i väsentlig utsträckning till följd av restriktioner med anledning av pandemin. Stödet var ett komplement till andra krisstöd.
 
-Stödet kommer kunna sökas från den 8 mars för evenemang som planerats till perioden 1 juni 2021 till och med juni 2022. Om stöd söks efter den 16 maj behöver båda arrangörer och underleverantörer ansöka om så kallat förhandsbesked senast den 16 maj. Om stöd söks före 16 maj behövs inget förhandsbesked utan det räcker med stödansökan. Om Skatteverket beviljat ett positivt förhandsbesked är sista ansökningsdag den 31 augusti i år.
+Stödet kommer kunna sökas från den 8 mars för evenemang som planerats till perioden 1 juni 2021 till och med juni 2022. Om stöd söks efter den 16 maj behöver båda arrangörer och underleverantörer ansöka om så kallat förhandsbesked senast den 16 maj. Om stöd söks före 16 maj behövs inget förhandsbesked utan det räcker med stödansökan. Om Skatteverket beviljat ett positivt förhandsbesked är sista ansökningsdag den 31 augusti i år.
 
 Utöver den höjda stödandelen och höjning av takbeloppet ändras regelverket så att evenemang med flera föreställningar där samtliga föreställningar inte ryms inom stödperioden kan vara stödberättigade i den del som faller inom stödperioden.
 

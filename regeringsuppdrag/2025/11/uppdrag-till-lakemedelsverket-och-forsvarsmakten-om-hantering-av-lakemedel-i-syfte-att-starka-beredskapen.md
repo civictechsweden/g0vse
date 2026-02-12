@@ -1,4 +1,4 @@
-# Uppdrag till Läkemedelsverket och Försvarsmakten om hantering av läkemedel i syfte att stärka beredskapenDiarienummer:  S2025/01872
+# Uppdrag till Läkemedelsverket och Försvarsmakten om hantering av läkemedel i syfte att stärka beredskapen
 
 Regeringen uppdrar åt Läkemedelsverket och Försvarsmakten att analysera den läkemedelshantering och läkemedelsdistribution som sker inom Försvarsmakten och mellan Försvarsmakten och andra aktörer.
 

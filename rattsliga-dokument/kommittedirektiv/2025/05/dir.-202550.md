@@ -1,4 +1,4 @@
-# Dir. 2025:50Dir. 2025:50
+# Tilläggsdirektiv till Utredningen om bättre förutsättningar för rektorerna  inom skolväsendet (U 2024:03)
 
 Förlängd tid för uppdraget.
 

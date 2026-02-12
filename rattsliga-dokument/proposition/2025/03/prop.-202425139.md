@@ -10,4 +10,4 @@ immunitet och privilegier i vissa fall så att immunitet och privilegier
 upphör att gälla för GWPO och för personer med tjänst hos eller uppdrag
 av organisationen samt deras familjemedlemmar.
 
-Lagändringen föreslås träda i kraft den dag som regeringen bestämmer.
+Lagändringen föreslås träda i kraft den dag som regeringen bestämmer.

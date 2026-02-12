@@ -11,4 +11,4 @@ För att skapa en modernare och mer ändamålsenlig prövning av hyres- och arre
 
 Lagändringarna föreslås träda i kraft den 1 april 2019.
 
-[Pressmeddelande: Modernare regler för prövning av hyres- och arrendetvister](/pressmeddelanden/2018/07/modernare-regler-for-provning-av-hyres--och-arrendetvister/)
+[Pressmeddelande: Modernare regler för prövning av hyres- och arrendetvister](/pressmeddelanden/2018/07/modernare-regler-for-provning-av-hyres--och-arrendetvister/)

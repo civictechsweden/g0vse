@@ -5,7 +5,7 @@ frågor på socialförsäkringsområdet. Meningen har varit att stärka rättss�
 och skapa en mer effektiv handläggning i ärenden och mål
 om socialförsäkring.
 
-Uppdraget har bestått av tre delar:
+Uppdraget har bestått av tre delar:
 
 * att utreda hur det allmänna ombudet för socialförsäkringen kan stärkas processuellt och lämna förslag på hur detta kan åstadkommas
 * att utreda förutsättningarna för att förkorta tidsfristerna för begäran omomprövning respektive överklagande av myndighets beslut inomsocialförsäkringsområdet och lämna förslag om en sådan förkortningbedöms lämplig

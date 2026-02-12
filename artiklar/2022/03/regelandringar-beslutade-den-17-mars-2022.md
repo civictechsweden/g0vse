@@ -8,7 +8,7 @@ Regeringen har på Finansdepartementets område beslutat om en ny förordning me
 
 **Referenser:**
 
-– förordning (2022:210) om ändring i förordningen (1998:896) om hushållning med mark- och vattenområden
+– förordning (2022:210) om ändring i förordningen (1998:896) om hushållning med mark- och vattenområden
 
 ### Kontaktpersoner:
 

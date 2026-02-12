@@ -34,11 +34,11 @@ Därför är jag stolt över att ingå i en regering som sätter handling bakom 
 
 Regeringens arbete mot antisemitism fokuserar på tre områden:
 
--       Att stärka judars trygghet och säkerhet i Sverige. Trygghet har blivit vår tids stora frihetsfråga, och vi skjuter till medel för att judiska församlingar och organisationer ska kunna stärka sin säkerhet. Samtidigt skärper vi straffen för hatbrott.
+- Att stärka judars trygghet och säkerhet i Sverige. Trygghet har blivit vår tids stora frihetsfråga, och vi skjuter till medel för att judiska församlingar och organisationer ska kunna stärka sin säkerhet. Samtidigt skärper vi straffen för hatbrott.
 
--       Att uppmärksamma den judiska kulturen. Många unga judar som jag har mött det senaste året uttrycker en önskan att kunna forma sin judiska identitet utifrån sin kultur och sin religion - inte bara utifrån Förintelsen eller i relation till antisemitiska hot.
+- Att uppmärksamma den judiska kulturen. Många unga judar som jag har mött det senaste året uttrycker en önskan att kunna forma sin judiska identitet utifrån sin kultur och sin religion - inte bara utifrån Förintelsen eller i relation till antisemitiska hot.
 
--       Och slutligen: skola och utbildning. Om vi ska lyckas trycka tillbaka antisemitismen. om barn och unga inte ska ärva sina föräldrars fördomar. Då är skolan nyckeln. Lärare behöver verktyg för att möta antisemitismen i sina klassrum. Svenska elever måste fortsätta få möjlighet att besöka Förintelsens minnesplatser. Vi behöver undersöka antisemitiska attityder på djupet, så att vi kan fortsätta arbetet med upplysningskampanjer.
+- Och slutligen: skola och utbildning. Om vi ska lyckas trycka tillbaka antisemitismen. om barn och unga inte ska ärva sina föräldrars fördomar. Då är skolan nyckeln. Lärare behöver verktyg för att möta antisemitismen i sina klassrum. Svenska elever måste fortsätta få möjlighet att besöka Förintelsens minnesplatser. Vi behöver undersöka antisemitiska attityder på djupet, så att vi kan fortsätta arbetet med upplysningskampanjer.
 
 De förfärliga händelser som började för 85 år sedan skedde inte i att vacuum. När vi säger ”aldrig igen”, då tar vi på oss ett ansvar att markera och agera.
 

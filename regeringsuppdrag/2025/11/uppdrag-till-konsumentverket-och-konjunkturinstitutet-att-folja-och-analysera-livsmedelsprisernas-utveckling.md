@@ -1,4 +1,4 @@
-# Uppdrag till Konsumentverket och Konjunkturinstitutet att följa och analysera livsmedelsprisernas utvecklingDiarienummer: Fi2025/02135
+# Uppdrag till Konsumentverket och Konjunkturinstitutet att följa och analysera livsmedelsprisernas utveckling
 
 Regeringen ger Konsumentverket i uppdrag att, tillsammans med Konjunkturinstitutet, följa och analysera livsmedelsprisernas utveckling samt analysera om den tillfälliga sänkningen av mervärdesskatten på livsmedel fr.o.m. den 1 april 2026 får fullt genomslag på livsmedelspriserna.
 

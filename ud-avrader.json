@@ -10,16 +10,7 @@
         ],
         "summary": "Med anledning av förändringar i säkerhetsläget har Utrikesdepartementet beslutat att lätta avrådan för Azerbajdzjan. Följande avrådan gäller:\n\nUtrikesdepartementet avråder från alla resor till områden som ligger närmare än 5 kilometer från den internationella gränsen mellan Armenien och Azerbajdzjan. \n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till distrikten Ağdam, Cäbrayıl, Füzuli, Kelbäcär, Laçın, Qubadlı, Şuşa, Xankändi, Xocalı, Xocavänd, Zängilan; Ağdärä och Tärtär.\n\nBeslut om ändrad avrådan togs den 11 februari 2026. Avrådan gäller tills vidare.",
         "id": null,
-        "shortcuts": [
-            {
-                "name": "Länder som UD avråder från resor till",
-                "url": "/ud-avrader/"
-            },
-            {
-                "name": "Vad innebär avrådan – frågor och svar",
-                "url": "/uds-reseinformation/avradan---nar-ud-avrader-fran-resor/vad-innebar-avradan--fragor-och-svar/"
-            }
-        ],
+        "shortcuts": [],
         "attachments": [],
         "categories": [
             "2204",
@@ -195,7 +186,7 @@
         "senders": [
             "1295"
         ],
-        "summary": "Med anledning av det förbättrade säkerhetsläget avråder Utrikesdepartementet inte längre från icke nödvändiga resor till hela Tanzania.\n\nUtrikesdepartementet avråder fortfarande från icke nödvändiga resor till Mtwara-regionen i sydöstra Tanzania.\n\nBeslut om ändrad avrådan togs den 10 november 2025. Avrådan gäller tills vidare.",
+        "summary": "Utrikesdepartementet avråder från icke nödvändiga resor till Mtwara-regionen i sydöstra Tanzania.\n\nBeslut om ändrad avrådan togs den 10 november 2025. Avrådan gäller tills vidare.",
         "id": null,
         "shortcuts": [],
         "attachments": [],
@@ -341,29 +332,16 @@
         ],
         "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från icke nödvändiga resor till provinsen Cabo Delgado, distrikten Erati och Memba i provinsen Nampula och distriktet Mecula i provinsen Niassa i Moçambique.\n\nBeslut om avrådan togs den 5 maj 2025. Avrådan gäller tills vidare.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Reseinformation från svenska ambassaden i Moҫambique- extern webbplats,",
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/mo%C3%A7ambique/reseinformation/ambassadens-reseinformation-mo%C3%A7ambique/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2204",
             "1133"
-        ]
-    },
-    {
-        "title": "Madagaskar - borttagen avrådan",
-        "url": "/ud-avrader/madagaskar--avradan/",
-        "published": "2025-11-07",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av det förbättrade säkerhetsläget avråder Utrikesdepartementet inte längre från icke nödvändiga resor till Madagaskar.\n\nBeslut om borttagen avrådan togs den 7 november 2025.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1116"
         ]
     },
     {
@@ -449,7 +427,12 @@
         ],
         "summary": "Med anledning av säkerhetsläget avråder UD från icke nödvändiga resor till distrikten Rubavu och Rusizi i Rwanda. \n\nBeslut om avrådan togs den 30 januari 2025. Avrådan gäller tills vidare.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Ambassadens reseinformation - Kigali, Rwanda- extern webbplats,",
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/rwanda/reseinformation/ambassadens-reseinformation/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2204",
@@ -467,7 +450,12 @@
         ],
         "summary": "UD lättar avrådan för Bangladesh. Följande avrådan gäller: UD avråder ifrån icke-nödvändiga resor till regionen Chittagong Hill Tracts. \n\nMed anledning av ett förbättrat säkerhetsläge beslutade Utrikesdepartementet den 29 oktober 2024 att häva avrådan från resor till Bangladesh, förutom gällande regionen Chittagong Hill Tracts, där avrådan från icke-nödvändiga resor kvarstår. \n\nAvrådan gäller tillsvidare.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Reseinformation för Bangladesh - på Sweden Abroad- extern webbplats,",
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/bangladesh/reseinformation/ambassadens-reseinformation/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2204",
@@ -557,7 +545,12 @@
         ],
         "summary": "Utrikesdepartementet avråder från alla resor till Myanmar. Senaste beslut om avrådan fattades den 14 december 2022. \n\nAvrådan gäller tills vidare.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Reseinformation på Sweden Abroad- extern webbplats,",
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/myanmar/reseinformation/ambassadens-reseinformation/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2204",
@@ -703,7 +696,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Reseinformation från ambassaden i Moldavien\n             - extern webbplats,\n",
+                "name": "Reseinformation från ambassaden i Moldavien- extern webbplats,",
                 "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/moldavien/reseinformation/ambassadens-reseinformation/"
             }
         ],
@@ -724,7 +717,12 @@
         ],
         "summary": "Med anledning av säkerhetsläget avråder UD från alla resor till Turkiets närområde mot Syrien och Irak, upp till ett avstånd om 10 kilometer från den syriska respektive den irakiska gränsen. \n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till gränsprovinserna Hatay, Kilis, Sirnak och Hakkari i sin helhet.\n\nBeslutet om avrådan fattades den 28 mars 2022.  Avrådan gäller tills vidare.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Reseinformation om Turkiet- extern webbplats,",
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/turkiet/reseinformation/reseinformation-om-turkiet/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2204",
@@ -742,7 +740,12 @@
         ],
         "summary": "UD avråder från alla resor till Ryska Federationen (Ryssland). \n\nAvrådan gäller tills vidare.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Reseinformation om Ryssland- extern webbplats,",
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/ryssland/reseinformation/ambassadens-reseinformation/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2204",
@@ -760,7 +763,12 @@
         ],
         "summary": "Med anledning av säkerhetsläget i regionen har Utrikesdepartementet den 28 februari 2022 beslutat om att avråda från alla resor till Belarus. \n\nAvrådan gäller tills vidare.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Reseinformation om Belarus- extern webbplats,",
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/belarus/reseinformation/ambassadens-reseinformation/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2204",

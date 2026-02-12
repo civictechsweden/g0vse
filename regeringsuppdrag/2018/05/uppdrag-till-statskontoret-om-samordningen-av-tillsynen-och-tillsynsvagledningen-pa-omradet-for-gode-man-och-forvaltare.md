@@ -9,4 +9,4 @@ Länsstyrelserna i Stockholms, Östergötlands, Skåne, Västra Götalands, Dala
 
 Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 30 april 2019.
 
-[Pressmeddelande: Åtgärder för en bättre tillsyn på området för gode män och förvaltare](/pressmeddelanden/2018/05/atgarder-for-en-battre-tillsyn-pa-omradet-for-gode-man-och-forvaltare/)
+[Pressmeddelande: Åtgärder för en bättre tillsyn på området för gode män och förvaltare](/pressmeddelanden/2018/05/atgarder-for-en-battre-tillsyn-pa-omradet-for-gode-man-och-forvaltare/)

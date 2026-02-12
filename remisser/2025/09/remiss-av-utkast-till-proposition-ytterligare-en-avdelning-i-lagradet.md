@@ -1,4 +1,4 @@
-# Remiss av utkast till propositionen Ytterligare en avdelning i LagrådetDiarienummer: Ju2025/01815
+# Remiss av utkast till propositionen Ytterligare en avdelning i Lagrådet
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat utkastet till propositionen Ytterligare en avdelning i Lagrådet.
 

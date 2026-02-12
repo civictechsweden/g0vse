@@ -8,8 +8,8 @@ Regeringen föreslår att den som av grov oaktsamhet hanterar varor som omfattas
 
 ### Inga generiska definitioner i regleringen
 
-Regeringen bedömer att regleringen av bland annat narkotika inte bör göras med generiska definitioner så att substanser klassificeras utifrån kemisk grundstruktur. Exempelvis narkotika bör inte regleras genom verkansbaserade eller analoga definitioner.
+Regeringen bedömer att regleringen av bland annat narkotika inte bör göras med generiska definitioner så att substanser klassificeras utifrån kemisk grundstruktur. Exempelvis narkotika bör inte regleras genom verkansbaserade eller analoga definitioner.
 
-Regeringen påbörjar en ny bred analys av hur man effektivare ska kunna möta problemet med nya psykoaktiva substanser som inte är exempelvis narkotika.
+Regeringen påbörjar en ny bred analys av hur man effektivare ska kunna möta problemet med nya psykoaktiva substanser som inte är exempelvis narkotika.
 
 Lagförslagen föreslås träda i kraft 1 januari 2019.

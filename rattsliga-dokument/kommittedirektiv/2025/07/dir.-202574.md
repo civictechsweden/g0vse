@@ -1,4 +1,4 @@
-# Förstärkt statlig styrning och stöd inom den sociala barn- och ungdomsvårdenDir. 2025:74
+# Förstärkt statlig styrning och stöd inom den sociala barn- och ungdomsvården
 
 Regeringen uppdrar åt en särskild utredare att se över vårdkedjan för den sociala barn- och ungdomsvården och föreslå hur en nationell stödfunktion för placeringar kan utformas och organiseras. Utredaren ska också föreslå åtgärder för en stärkt individuell planering för barn och unga inom socialtjänsten.
 

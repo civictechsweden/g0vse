@@ -2,7 +2,7 @@
 
 Den 9–11 juli deltog statsminister Ulf Kristersson på Natos toppmöte i Washington tillsammans med utrikesminister Tobias Billström och försvarsminister Pål Jonson. Medlemsländerna enades bland annat om nytt stöd till Ukraina och åtgärder för att stärka alliansens förmåga till avskräckning och försvar. Under toppmötet uppmärksammades också försvarsalliansens 75-årsjubileum.
 
-– Efter 200 år av militär alliansfrihet har nu Sverige kommit hem till våra likasinnade i Nato. Skiftet innebär att vi försvarar oss tillsammans med andra. Mötet i Washington sände ett viktigt budskap om enighet och beslutsamhet. Den transatlantiska länken har bevarat freden i Natoländerna i 75 år, och ska så fortsätta, säger statsminister Ulf Kristersson.
+– Efter 200 år av militär alliansfrihet har nu Sverige kommit hem till våra likasinnade i Nato. Skiftet innebär att vi försvarar oss tillsammans med andra. Mötet i Washington sände ett viktigt budskap om enighet och beslutsamhet. Den transatlantiska länken har bevarat freden i Natoländerna i 75 år, och ska så fortsätta, säger statsminister Ulf Kristersson.
 
 Toppmötet i Washington D.C. samlade stats- och regeringschefer från Natos samtliga 32 medlemsländer samt särskilt inbjudna ledare: Ukrainas president Volodymyr Zelenskyj, ledarna för Australien, Japan, Nya Zeeland och Sydkorea samt ordföranden för Europeiska rådet och EU:s höga representant för utrikes frågor.
 

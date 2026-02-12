@@ -9,7 +9,7 @@ Förslaget behöver analyseras med beaktande av såväl remissutfallet som den u
 Utredaren ska bland annat
 
 * ta ställning till om statlig kontroll bör införas vid överlåtelser och
-  upplåtelser av viss fast egendom av väsentlig betydelse för totalförsvaret,
+upplåtelser av viss fast egendom av väsentlig betydelse för totalförsvaret,
 * ta ställning till om en sådan kontroll kan åstadkommas genom ändringar i befintlig eller i närtid planerad lagstiftning, och
 * om det inte är möjligt eller ändamålsenligt att åstadkomma en sådan kontroll inom ramen för befintlig eller i närtid planerad lagstiftning, med beaktande av den utveckling som har skett och de remissynpunkter som lämnats bedöma om ett sådant kontrollsystem som Totalförsvarskommittén föreslagit bör införas och vilka ändringar som då behöver göras.
 

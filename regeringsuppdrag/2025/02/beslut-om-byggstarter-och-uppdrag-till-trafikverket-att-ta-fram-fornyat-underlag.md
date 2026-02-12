@@ -18,7 +18,7 @@ Södra Grundfors
 − Luleå C flytt av personvagnsuppställning (etapp 1)
 − Sundsvall resecentrum, tillgänglighet och plattformar m.m.
 
-Utöver de namngivna objekt som regeringen hittills har beslutat får förberedas för byggstart får Trafikverket även förbereda följande objekt för byggstart år 2028–2030 (år 4–6):
+Utöver de namngivna objekt som regeringen hittills har beslutat får förberedas för byggstart får Trafikverket även förbereda följande objekt för byggstart år 2028–2030 (år 4–6):
 
 − Markarydsbanan Knäred, mötesspår
 − Malmbanan Murjek, förlängning av mötesstation

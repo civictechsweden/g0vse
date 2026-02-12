@@ -8,4 +8,4 @@ Att utrota våld mot barn är ett av delmålen inom agenda 2030. Det är nu sex 
 
 Ämnen som kommer att diskuteras på konferensen är bland annat: kroppslig bestraffning, näthat och våld online, hälsa, utbildning, föräldrastöd, rekrytering till kriminella gäng och sexuellt våld.
 
-Se hela programmet och läs mer om konferensen: [”Global Ministerial Conference on ending violence against children”.](https://endviolenceagainstchildrenconference.org/)
+Se hela programmet och läs mer om konferensen:[”Global Ministerial Conference on ending violence against children”.](https://endviolenceagainstchildrenconference.org/)

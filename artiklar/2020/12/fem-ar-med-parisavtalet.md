@@ -20,7 +20,7 @@ Inför förhandlingarna i Paris blev länderna ombedda att ta fram klimatplaner.
 
 2018 publicerade FN:s vetenskapliga klimatpanel IPCCC sin specialrapport om Parisavtalets 1,5-gradersmål. Den visade att det fanns ett mycket stort gap mellan åtgärderna i ländernas klimatplaner och vad som krävs för att nå målet. Därför har länderna uppmanats att under 2020 lämna in nya eller uppdaterade klimatplaner. Men trots att ambitionsfrågan dominerat mycket av förhandlingarna de senaste åren, och trots att många länder har klimatplaner som är nästan fem år gamla, så var det i december endast ett fåtal länder som gjort detta.
 
- Det finns dock inget som hindrar länderna för att när som helst uppdatera sina klimatplaner Ett stort antal länder har också aviserat att man inom kort kommer att lämna in nya eller uppdaterade klimatplaner med höjd ambition, däribland EU och Kina. En förklaring till varför så många länder inte gjort det än är den rådande pandemin, vilken har tvingat länder att göra stora nationella omprioriteringar. Samtidigt finns ett starkt momentum för att återhämtningen från pandemin ska bli en grön återhämtning.
+Det finns dock inget som hindrar länderna för att när som helst uppdatera sina klimatplaner Ett stort antal länder har också aviserat att man inom kort kommer att lämna in nya eller uppdaterade klimatplaner med höjd ambition, däribland EU och Kina. En förklaring till varför så många länder inte gjort det än är den rådande pandemin, vilken har tvingat länder att göra stora nationella omprioriteringar. Samtidigt finns ett starkt momentum för att återhämtningen från pandemin ska bli en grön återhämtning.
 
 ### Långsiktiga mål mot klimatneutralitet
 

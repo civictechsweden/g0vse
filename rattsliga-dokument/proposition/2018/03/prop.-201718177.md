@@ -15,4 +15,4 @@ Det föreslås bland annat följande:
 
 Lagändringarna föreslås träda i kraft den 1 juli 2018.
 
-[Pressmeddelande: En ny sexualbrottslagstiftning byggd på frivillighet](/pressmeddelanden/2018/03/en-ny-sexualbrottslagstiftning-byggd-pa-frivillighet/)
+[Pressmeddelande: En ny sexualbrottslagstiftning byggd på frivillighet](/pressmeddelanden/2018/03/en-ny-sexualbrottslagstiftning-byggd-pa-frivillighet/)

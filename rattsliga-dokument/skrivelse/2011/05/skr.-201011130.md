@@ -5,6 +5,6 @@ I skrivelsen lämnar regeringen en redovisning av de allmänna pensionsfondernas
 ### Bilaga 2-7
 
 Skrivelsens bilagor 2-7 innehåller utdrag ur AP-fondernas årsredovisningar som visar förvaltningsberättelserna och resultat- och balansräkningar med noter.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+______________________________________________________
 
 Riksdagen behandlade den 30 november skrivelsen. Läs mer via länken i högerspalten.

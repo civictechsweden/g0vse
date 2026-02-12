@@ -2,7 +2,7 @@
 
 Information och diskussion om arbetet med att utforma Livsmedelsstrategin 2.0 var temat när landsbygdsminister Peter Kullgren höll det första mötet med Livsmedelspolitiska rådet den 13 mars.
 
-Livsmedelsstrategin 2.0 ska bli  en vidareförädling av Den nationella livsmedelsstrategin, som riksdagen fattade beslut om 2017. Målet med Livsmedelspolitiska rådet, som består av verkställande direktörer för några av de största livsmedelsindustriföretagen och branschorganisationerna, är att fånga upp tankar och idéer om hur Livsmedelsstrategin 2.0 bör utformas.
+Livsmedelsstrategin 2.0 ska bli en vidareförädling av Den nationella livsmedelsstrategin, som riksdagen fattade beslut om 2017. Målet med Livsmedelspolitiska rådet, som består av verkställande direktörer för några av de största livsmedelsindustriföretagen och branschorganisationerna, är att fånga upp tankar och idéer om hur Livsmedelsstrategin 2.0 bör utformas.
 
 [En livsmedelsstrategi för jobb och hållbar tillväxt i hela landet](/regeringens-politik/en-livsmedelsstrategi-for-jobb-och-hallbar-tillvaxt-i-hela-landet/ "En livsmedelsstrategi för jobb och hållbar tillväxt i hela landet")
 

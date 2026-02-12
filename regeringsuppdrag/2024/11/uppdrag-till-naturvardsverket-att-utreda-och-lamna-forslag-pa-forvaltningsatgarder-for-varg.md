@@ -13,4 +13,4 @@ Naturvårdsverket ska lämna nödvändiga författningsförslag.
 Naturvårdsverket ska löpande informera Regeringskansliet om hur arbetet
 med uppdraget fortskrider.
 
-Naturvårdsverket ska senast den 15 mars 2025 lämna en skriftlig redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet med kopia till Klimat- och näringslivsdepartementet).
+Naturvårdsverket ska senast den 15 mars 2025 lämna en skriftlig redovisning av uppdraget till Regeringskansliet (Landsbygds- och infrastrukturdepartementet med kopia till Klimat- och näringslivsdepartementet).

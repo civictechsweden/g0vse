@@ -4,7 +4,7 @@ Regeringen uppdrar åt Havs- och vattenmyndigheten och Naturvårdsverket att bla
 
 Det övergripande målet för förvaltningen är att gråsälen ska bibehålla gynnsam bevarandestatus i enlighet med art- och habitatdirektivet (92/43/EEG).
 Förvaltningen ska även syfta till att minska skadorna på fiskbestånd, särskilt skydda torskbestånden samt ta hänsyn till kostnader och nyttor med sälförekomst, t.ex. skador med konsekvenser för olika näringar, sälens påverkan på natur- och kulturvärden såsom fiske, jakt och besöksnäring samt hur förekomsten påverkar landsbygdens attraktivitet. Mål ska formuleras så att det blir möjligt att vetenskapligt utvärdera en sådan beståndsreglerande jakts effekter ur ett ekosystemperspektiv
-\* om beslut fattas om licensjakt på gråsäl, genomföra en vetenskaplig
+* om beslut fattas om licensjakt på gråsäl, genomföra en vetenskaplig
 utvärdering av effekterna av jakten ur ett ekosystemperspektiv,
-\* föreslå åtgärder, utöver sådana som är fiskerelaterade, för att skydda
+* föreslå åtgärder, utöver sådana som är fiskerelaterade, för att skydda
 bestånden av torsk.

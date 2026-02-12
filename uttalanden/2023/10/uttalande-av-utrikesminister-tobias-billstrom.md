@@ -4,7 +4,7 @@ Uttalande av utrikesminister Tobias Billström angående säkerhetsläget i Isra
 
 Morgonens utveckling i Israel och Gaza är djupt oroande.
 
-Jag har å den svenska regeringens vägnar tydligt fördömt terroristgruppen Hamas  attacker mot Israel.
+Jag har å den svenska regeringens vägnar tydligt fördömt terroristgruppen Hamas attacker mot Israel.
 
 Israel har en självklar rätt att försvara sig mot terrorism och urskillningslös raketbeskjutning. Sådana operationer har redan inletts. Det är förstås viktigt att Israels legitima respons sker i enlighet med folkrättens principer.
 

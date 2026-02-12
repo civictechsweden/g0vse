@@ -28,7 +28,7 @@ Sweden believes that employment is one of the most effective pathways out of pov
 
 Beyond national efforts, Sweden remains a strong advocate for social development globally. Through our international development cooperation, we support initiatives that strengthen social protection systems, promote decent work, advance gender equality and increase access to sexual and reproductive health and rights services for all in partner countries.
 
-We actively engage in multilateral forums to promote inclusive policies and to promote and protect the full and equal enjoyment of human rights for all persons, not least those in  the most vulnerable situations.
+We actively engage in multilateral forums to promote inclusive policies and to promote and protect the full and equal enjoyment of human rights for all persons, not least those in the most vulnerable situations.
 
 I would also like to express our deep appreciation for the work of civil society organizations, whose tireless efforts are essential in promoting social inclusion and development.
 

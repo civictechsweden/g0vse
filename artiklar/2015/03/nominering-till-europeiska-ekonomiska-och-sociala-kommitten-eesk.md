@@ -53,5 +53,5 @@ Beslut om vilka ledamöter Sverige ska nominera fattas av regeringen. Inför var
 
 * Ingrid Kössler, Handikappförbundens samarbetsorgan
 * Staffan Nilsson, LRF, ordförande för EESK 2010-2013
-* Inger Persson, före detta ordförande Sveriges Konsumentråd
+* Inger Persson, före detta ordförande Sveriges Konsumentråd
 * Ariane Rodert, Forum för frivilligt socialt arbete

@@ -89,7 +89,7 @@
             "1287",
             "1296"
         ],
-        "summary": "Hårt arbetande människor betalar inte skatt för att offentliga tjänstemän ska missbruka sin position för egen vinning eller för att gynna kriminella. Samarbetspartierna går därför fram med förslag om utökat tjänstemannaansvar. Det handlar ytterst om medborgarnas förtroende för det allmänna, \n\nDebattartikel av justitieminister Gunnar Strömmer, Henrik Vinge (SD), Gudrun Brunegård (KD) och Martin Melin (L), Aftonbladet, den 2 februari 2026.",
+        "summary": "Justitieminister Gunnar Strömmer, debattartikel, Aftonbladet, den 2 februari 2026.",
         "id": null,
         "shortcuts": [
             {
@@ -119,7 +119,12 @@
         ],
         "summary": "Arbetsmarknads- och integrationsminister Mats Persson, debattartikel, Svenska Dagbladet, den 13 november 2024.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Korrigering av Fördjupad analys av utanförskap 2024 (scb.se)- extern webbplats,",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/ovrigt/ovrigt/ovriga-publikationer-statistik/produktrelaterat/aktuellt/korrigering-av-fordjupad-analys-av-utanforskap-2024/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2460",
@@ -548,6 +553,7 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
+            "2391",
             "1279",
             "1012",
             "1013",
@@ -569,7 +575,7 @@
             "1287",
             "1291"
         ],
-        "summary": "Debattartikel av energi- och näringsminister Ebba Busch (KD), justitieminister Gunnar Strömmer (M), Henrik Vinge (SD), ordförande i justitieutskottet och Martin Melin (L), rättspolitisk talesperson, Dagens Industri, den 26 augusti 2025.",
+        "summary": "Energi- och näringsminister Ebba Busch och justitieminister Gunnar Strömmer, debattartikel, Dagens Industri, den 26 augusti 2025.",
         "id": null,
         "shortcuts": [
             {
@@ -748,7 +754,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Ny utredning för att förstå och vända ett minskat barnafödandeWebb-TV",
+                "name": "Pressmeddelande: Ny utredning för att förstå och vända ett minskat barnafödande",
                 "url": "/pressmeddelanden/2025/07/ny-utredning-for-att-forsta-och-vanda-ett-minskat-barnafodande/"
             }
         ],
@@ -1081,29 +1087,6 @@
         ]
     },
     {
-        "title": "Så ska vi öka återvändandet",
-        "url": "/debattartiklar/2025/10/sa-ska-vi-oka-atervandandet/",
-        "published": "2025-10-08",
-        "updated": null,
-        "types": [
-            "1333"
-        ],
-        "senders": [
-            "2756",
-            "2615",
-            "1287",
-            "1295"
-        ],
-        "summary": "Debattartikel av migrationsminister Johan Forssell och bistånds- och utrikeshandelsminister Benjamin Dousa. Publicerad i Expressen den 8 oktober 2025.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "1215",
-            "1249"
-        ]
-    },
-    {
         "title": "Vi prioriterar en minskad vargstam",
         "url": "/debattartiklar/2025/04/vi-prioriterar-en-minskad-vargstam/",
         "published": "2025-04-11",
@@ -1119,7 +1102,16 @@
         ],
         "summary": "Debattartikel av landsbygdsminister Peter Kullgren, klimat- och miljöminister Romina Pourmokhtari samt John Widegren, gruppledare för Moderaterna i miljö- och jordbruksutskottet, och Martin Kinnunen, gruppledare för Sverigedemokraterna i miljö- och jordbruksutskottet. Dagens Industri, den 11 april 2025.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Prop. 2024/25:100 2025 års ekonomiska vårproposition",
+                "url": "/rattsliga-dokument/proposition/2025/04/prop.-202425100"
+            },
+            {
+                "name": "Prop. 2024/25:99 Vårändringsbudget för 2025",
+                "url": "/rattsliga-dokument/proposition/2025/04/prop.-20242599"
+            }
+        ],
         "attachments": [],
         "categories": [
             "1243",
@@ -1144,7 +1136,16 @@
         ],
         "summary": "Debattartikel av minister för civilt försvar Carl-Oskar Bohlin, klimat- och miljöminister Romina Pourmokhtari, civilminister Erik Slottner och vice ordförande i försvarsutskottet Matheus Enholm (SD), Aftonbladet, den 11 april 2025.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Prop. 2024/25:100 2025 års ekonomiska vårproposition",
+                "url": "/rattsliga-dokument/proposition/2025/04/prop.-202425100"
+            },
+            {
+                "name": "Prop. 2024/25:99 Vårändringsbudget för 2025",
+                "url": "/rattsliga-dokument/proposition/2025/04/prop.-20242599"
+            }
+        ],
         "attachments": [],
         "categories": [
             "1218",
@@ -1177,7 +1178,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Snabbare beslutsprocesser och uppdaterade miljötillstånd ökar Sveriges försvarsförmåga\n",
+                "name": "Pressmeddelande: Snabbare beslutsprocesser och uppdaterade miljötillstånd ökar Sveriges försvarsförmåga",
                 "url": "/pressmeddelanden/2025/04/snabbare-beslutsprocesser-och-uppdaterade-miljotillstand-okar-sveriges-forsvarsformaga/"
             }
         ],
@@ -1200,14 +1201,22 @@
         "senders": [
             "2613",
             "2616",
-            "2619",
             "1285",
             "1292",
             "1294"
         ],
         "summary": "Debattartikel av socialminister Jakob Forssmed, finansminister Elisabeth Svantesson, utbildningsminister Johan Pehrson och Jessica Stegrud, socialpolitisk talesperson Sverigedemokraterna. Dagens Industri, den 4 april 2025.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Prop. 2024/25:100 2025 års ekonomiska vårproposition",
+                "url": "/rattsliga-dokument/proposition/2025/04/prop.-202425100"
+            },
+            {
+                "name": "Prop. 2024/25:99 Vårändringsbudget för 2025",
+                "url": "/rattsliga-dokument/proposition/2025/04/prop.-20242599"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2655",
@@ -1235,27 +1244,27 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen föreslår omfattande åtgärder för att minska övergödningen, skydda marina områden och rädda fiskbestånden\n",
+                "name": "Pressmeddelande: Regeringen föreslår omfattande åtgärder för att minska övergödningen, skydda marina områden och rädda fiskbestånden",
                 "url": "/pressmeddelanden/2024/06/regeringen-foreslar-omfattande-atgarder-for-att-minska-overgodningen-skydda-marina-omraden-och-radda-fiskbestanden/"
             },
             {
-                "name": "Proposition: Ett levande hav – ökat skydd, minskad övergödning och ett hållbart fiske Prop. 2023/24:156\n",
+                "name": "Proposition: Ett levande hav – ökat skydd, minskad övergödning och ett hållbart fiske Prop. 2023/24:156",
                 "url": "/rattsliga-dokument/proposition/2024/06/prop.-202324156"
             },
             {
-                "name": "Pressmeddelande: Nämdöskärgårdens nationalpark föreslås bli Sveriges första marina nationalpark i Östersjön\n",
+                "name": "Pressmeddelande: Nämdöskärgårdens nationalpark föreslås bli Sveriges första marina nationalpark i Östersjön",
                 "url": "/pressmeddelanden/2025/03/namdoskargardens-nationalpark-foreslas-bli-sveriges-forsta-marina-nationalpark-i-ostersjon/"
             },
             {
-                "name": "Pressmeddelande: Regeringen ger uppdrag om åtgärder för hav och vatten\n",
+                "name": "Pressmeddelande: Regeringen ger uppdrag om åtgärder för hav och vatten",
                 "url": "/pressmeddelanden/2024/12/regeringen-ger-uppdrag-om-atgarder-for-hav-och-vatten/"
             },
             {
-                "name": "Pressmeddelande: Satsning på 260 miljoner kronor för miljöåtgärder som ska stärka biologiska mångfalden på land och i hav och vattendrag\n",
+                "name": "Pressmeddelande: Satsning på 260 miljoner kronor för miljöåtgärder som ska stärka biologiska mångfalden på land och i hav och vattendrag",
                 "url": "/pressmeddelanden/2024/09/satsning-pa-260-miljoner-kronor-for-miljoatgarder-som-ska-starka-biologiska-mangfalden-pa-land-och-i-hav-och-vattendrag/"
             },
             {
-                "name": "Pressmeddelande: Utredning presenteras om Sveriges tillträde till det nya globala avtalet till skydd för miljön i världshavet\n",
+                "name": "Pressmeddelande: Utredning presenteras om Sveriges tillträde till det nya globala avtalet till skydd för miljön i världshavet",
                 "url": "/pressmeddelanden/2025/03/utredning-presenteras-om-sveriges-tilltrade-till-det-nya-globala-avtalet-till-skydd-for-miljon-i-varldshavet/"
             }
         ],
@@ -1282,7 +1291,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Största stödpaketet till Ukraina hittills höjer det svenska stödet för 2025 till 29,5 miljarder kronor\n",
+                "name": "Pressmeddelande: Största stödpaketet till Ukraina hittills höjer det svenska stödet för 2025 till 29,5 miljarder kronor",
                 "url": "/pressmeddelanden/2025/03/storsta-stodpaketet-till-ukraina-hittills-hojer-det-svenska-stodet-for-2025-till-295-miljarder-kronor/"
             }
         ],
@@ -1303,7 +1312,6 @@
             "1333"
         ],
         "senders": [
-            "2619",
             "1294"
         ],
         "summary": "Utbildningsminister Johan Pehrson, replik, Dagens industri, den 24 mars 2025.",
@@ -1331,11 +1339,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Försäkringskassan ska utveckla arbetet med socialfondsprojekt för att få fler att närma sig arbetsmarknaden\n",
+                "name": "Pressmeddelande: Försäkringskassan ska utveckla arbetet med socialfondsprojekt för att få fler att närma sig arbetsmarknaden",
                 "url": "/pressmeddelanden/2025/03/forsakringskassan-ska-utveckla-arbetet-med-socialfondsprojekt-for-att-fa-fler-att-narma-sig-arbetsmarknaden/"
             },
             {
-                "name": "Regeringsuppdrag: Uppdrag till Försäkringskassan att säkerställa genomförande av socialfondsprojekt som identifieras inom ramen för samordningsförbundens beredningsstruktur\n",
+                "name": "Regeringsuppdrag: Uppdrag till Försäkringskassan att säkerställa genomförande av socialfondsprojekt som identifieras inom ramen för samordningsförbundens beredningsstruktur",
                 "url": "/regeringsuppdrag/2025/03/uppdrag-till-forsakringskassan-att-sakerstalla-genomforande-av-socialfondsprojekt-som-identifieras-inom-ramen-for-samordningsforbundens-beredningsstruktur/"
             }
         ],
@@ -1358,7 +1366,20 @@
         ],
         "summary": "Debattartikel av socialminister Jakob Forssmed med representanter ur Företagsnätverket för ökad gemenskap och mot ofrivillig ensamhet, Dagens Industri, den 14 mars 2025.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Artikel: Näringslivet samlas mot ofrivillig ensamhet",
+                "url": "/artiklar/2025/03/naringslivet-samlas-mot-ofrivillig-ensamhet/"
+            },
+            {
+                "name": "Tillsammans mot ofrivillig ensamhet - företagsnätverk för ökad gemenskap",
+                "url": "/regeringens-politik/ofrivillig-ensamhet--ett-folkhalsoproblem/tillsammans-mot-ofrivillig-ensamhet---foretagsnatverk-for-okad-gemenskap/"
+            },
+            {
+                "name": "Ofrivillig ensamhet – ett folkhälsoproblem",
+                "url": "/regeringens-politik/ofrivillig-ensamhet--ett-folkhalsoproblem/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2655",
@@ -1375,7 +1396,6 @@
             "1333"
         ],
         "senders": [
-            "2622",
             "1284"
         ],
         "summary": "Arbetsmarknads- och integrations­minister Mats Persson, debattartikel, Dagens industri, den 13 mars 2025.",
@@ -1406,15 +1426,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Artikel: Sverige i Nato – året som gått\n",
+                "name": "Artikel: Sverige i Nato – året som gått",
                 "url": "/artiklar/2025/03/sverige-i-nato--aret-som-gatt/"
             },
             {
-                "name": "Pressmeddelande: Svenska Natoinsatser i Polen för stöd till Ukraina\n",
+                "name": "Pressmeddelande: Svenska Natoinsatser i Polen för stöd till Ukraina",
                 "url": "/pressmeddelanden/2025/03/svenska-natoinsatser-i-polen-for-stod-till-ukraina/"
             },
             {
-                "name": "Sverige i Nato\n",
+                "name": "Sverige i Nato",
                 "url": "/regeringens-politik/sverige-i-nato/"
             }
         ],
@@ -1435,7 +1455,6 @@
             "1333"
         ],
         "senders": [
-            "2607",
             "2610",
             "1284",
             "1292"
@@ -1444,7 +1463,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Sjukvårdsministern tog emot förslag om förändringar i abortlagstiftningen\n",
+                "name": "Pressmeddelande: Sjukvårdsministern tog emot förslag om förändringar i abortlagstiftningen",
                 "url": "/pressmeddelanden/2025/02/sjukvardsministern-tog-emot-forslag-om-forandringar-i-abortlagstiftningen/"
             }
         ],
@@ -1550,6 +1569,7 @@
             "1239",
             "1279",
             "2665",
+            "2751",
             "1013"
         ]
     },
@@ -1596,11 +1616,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Tydligare mål och ny inriktning för energiforskningen – fokusera, accelerera, leverera\n",
+                "name": "Pressmeddelande: Tydligare mål och ny inriktning för energiforskningen – fokusera, accelerera, leverera",
                 "url": "/pressmeddelanden/2024/12/tydligare-mal-och-ny-inriktning-for-energiforskningen--fokusera-accelerera-leverera/"
             },
             {
-                "name": "Prop. 2024/25:72 Forskning och innovation på energiområdet för försörjningstrygghet, konkurrenskraft och klimatomställning\n",
+                "name": "Prop. 2024/25:72 Forskning och innovation på energiområdet för försörjningstrygghet, konkurrenskraft och klimatomställning",
                 "url": "/rattsliga-dokument/proposition/2024/12/prop.-20242572"
             }
         ],
@@ -1648,11 +1668,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Aktivitetskrav för att få försörjningsstöd – en viktig åtgärd för att få fler i arbete\n",
+                "name": "Pressmeddelande: Aktivitetskrav för att få försörjningsstöd – en viktig åtgärd för att få fler i arbete",
                 "url": "/pressmeddelanden/2024/11/aktivitetskrav-for-att-fa-forsorjningsstod--en-viktig-atgard-for-att-fa-fler-i-arbete/"
             },
             {
-                "name": "Ds 2024:29: Aktivitetskrav inom försörjningsstödet – för arbete, egenförsörjning och nationell likformighet\n",
+                "name": "Ds 2024:29: Aktivitetskrav inom försörjningsstödet – för arbete, egenförsörjning och nationell likformighet",
                 "url": "/rattsliga-dokument/departementsserien-och-promemorior/2024/11/ds-202429/"
             }
         ],
@@ -1723,7 +1743,12 @@
         ],
         "summary": "Debattartikel av socialminister Jakob Forssmed (KD), riksdagsledamoten Robert Hannah (L) och riksdagsledamoten Kristina Axén Olin (M), Altinget, den 15 november 2024.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen satsar ytterligare på ökad tillgång till idrottsanläggningar",
+                "url": "/pressmeddelanden/2024/11/regeringen-satsar-ytterligare-pa-okad-tillgang-till-idrottsanlaggningar/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "1218",
@@ -1792,8 +1817,6 @@
         "senders": [
             "2756",
             "2612",
-            "2619",
-            "2622",
             "2626",
             "1284",
             "1291",
@@ -1820,7 +1843,6 @@
             "1333"
         ],
         "senders": [
-            "2619",
             "2620",
             "1294"
         ],
@@ -1870,15 +1892,15 @@
             "1287",
             "1295"
         ],
-        "summary": "Debattartikel av bistånds- och utrikeshandelsminister Benjamin Dousa och migrationsminister Johan Forssell, Dagens industri, 25 oktober 2024.",
+        "summary": "Bistånds- och utrikeshandelsminister Benjamin Dousa och migrationsminister Johan Forssell, debattartikel, Dagens industri, 25 oktober 2024.",
         "id": null,
         "shortcuts": [
             {
-                "name": "Rapport: Bistånd för en ny era – Frihet, egenmakt och hållbar tillväxt\n",
+                "name": "Rapport: Bistånd för en ny era – Frihet, egenmakt och hållbar tillväxt",
                 "url": "/rapporter/2023/12/bistand-for-en-ny-era---frihet-egenmakt-och-hallbar-tillvaxt/"
             },
             {
-                "name": "Debattartikel (extern länk): Förebygg asylinvandring med bistånd\n             - extern webbplats,\n",
+                "name": "Debattartikel (extern länk): Förebygg asylinvandring med bistånd- extern webbplats,",
                 "url": "https://www.di.se/debatt/forebygg-asylinvandring-med-bistand/"
             }
         ],
@@ -1920,7 +1942,7 @@
             "2615",
             "1287"
         ],
-        "summary": "Debattartikel av justitieminister Gunnar Strömmer. Expressen den 2 oktober 2024",
+        "summary": "Justitieminister Gunnar Strömmer, debattartikel, Expressen, den 2 oktober 2024.",
         "id": null,
         "shortcuts": [],
         "attachments": [],
@@ -2023,7 +2045,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Regeringens satsning Samling för judiskt liv\n",
+                "name": "Regeringens satsning Samling för judiskt liv",
                 "url": "/regeringens-politik/samling-for-judiskt-liv/"
             }
         ],
@@ -2045,7 +2067,6 @@
         ],
         "senders": [
             "2609",
-            "2619",
             "1284",
             "1285",
             "1291",
@@ -2056,7 +2077,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Förstärkningar av bland annat yrkesutbildning för att bekämpa arbetslösheten\n",
+                "name": "Pressmeddelande: Förstärkningar av bland annat yrkesutbildning för att bekämpa arbetslösheten",
                 "url": "/pressmeddelanden/2024/09/forstarkningar-av-bland-annat-yrkesutbildning-for-att-bekampa-arbetslosheten/"
             }
         ],
@@ -2088,11 +2109,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Migration och asyl\n",
+                "name": "Migration och asyl",
                 "url": "/regeringens-politik/migration-och-asyl/"
             },
             {
-                "name": "Migration och integration\n",
+                "name": "Migration och integration",
                 "url": "/regeringens-politik/regeringens-prioriteringar/migration-och-integration/"
             }
         ],
@@ -2119,15 +2140,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen föreslår omfattande åtgärder för att minska övergödningen, skydda marina områden och rädda fiskbestånden\n",
+                "name": "Pressmeddelande: Regeringen föreslår omfattande åtgärder för att minska övergödningen, skydda marina områden och rädda fiskbestånden",
                 "url": "/pressmeddelanden/2024/06/regeringen-foreslar-omfattande-atgarder-for-att-minska-overgodningen-skydda-marina-omraden-och-radda-fiskbestanden/"
             },
             {
-                "name": "Prop. 2023/24:156 Ett levande hav – ökat skydd, minskad övergödning och ett hållbart fiske\n",
+                "name": "Prop. 2023/24:156 Ett levande hav – ökat skydd, minskad övergödning och ett hållbart fiske",
                 "url": "/rattsliga-dokument/proposition/2024/06/prop.-202324156"
             },
             {
-                "name": "Pressmeddelande: Skyddet för Natura 2000 ändras för att rädda tumlaren i Östersjön\n",
+                "name": "Pressmeddelande: Skyddet för Natura 2000 ändras för att rädda tumlaren i Östersjön",
                 "url": "/pressmeddelanden/2024/03/skyddet-for-natura-2000-andras-for-att-radda-tumlaren-i-ostersjon/"
             }
         ],
@@ -2148,19 +2169,19 @@
             "2618",
             "1295"
         ],
-        "summary": "Debattartikel av bistånds- och utrikeshandelsminister Johan Forssell, Svenska Dagbladet, 3 augusti 2024.",
+        "summary": "Bistånds- och utrikeshandelsminister Johan Forssell, debattartikel, Svenska Dagbladet, den 3 augusti 2024.",
         "id": null,
         "shortcuts": [
             {
-                "name": "Rapport: Bistånd för en ny era  – Frihet, egenmakt och hållbar tillväxt\n",
+                "name": "Rapport: Bistånd för en ny era  – Frihet, egenmakt och hållbar tillväxt",
                 "url": "/rapporter/2023/12/bistand-for-en-ny-era---frihet-egenmakt-och-hallbar-tillvaxt/"
             },
             {
-                "name": "Artikel: Bistånds- och utrikeshandelsministern om regeringens inriktning för det svenska biståndet\n",
+                "name": "Artikel: Bistånds- och utrikeshandelsministern om regeringens inriktning för det svenska biståndet",
                 "url": "/artiklar/2024/01/bistands--och-utrikeshandelsministern-om-regeringens-inriktning-for-det-svenska-bistandet/"
             },
             {
-                "name": "Regeringen fasar ut det bilaterala utvecklingsbiståndet med Irak\n",
+                "name": "Regeringen fasar ut det bilaterala utvecklingsbiståndet med Irak",
                 "url": "/pressmeddelanden/2024/07/regeringen-fasar-ut-det-bilaterala-utvecklingsbistandet-med-irak/"
             }
         ],
@@ -2186,11 +2207,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Libanon – avrådan\n",
+                "name": "Libanon – avrådan",
                 "url": "/ud-avrader/libanon--andrad-avradan/"
             },
             {
-                "name": "Uttalande av Utrikes­departementet med anledning av reseavrådan för Libanon\n",
+                "name": "Uttalande av Utrikes­departementet med anledning av reseavrådan för Libanon",
                 "url": "/uttalanden/2024/06/uttalande-av-utrikesdepartementet-med-anledning-av-reseavradan-for-libanon/"
             }
         ],
@@ -2218,15 +2239,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Ny socialtjänstlag\n",
+                "name": "Ny socialtjänstlag",
                 "url": "/regeringens-politik/socialtjanst/ny-socialtjanstlag/"
             },
             {
-                "name": "Frågor och svar om nya socialtjänstlagen\n",
+                "name": "Frågor och svar om nya socialtjänstlagen",
                 "url": "/regeringens-politik/socialtjanst/fragor-och-svar-om-nya-socialtjanstlagen/"
             },
             {
-                "name": "Pressmeddelande: En förebyggande socialtjänstlag – för ökade rättigheter, skyldigheter och möjligheter\n",
+                "name": "Pressmeddelande: En förebyggande socialtjänstlag – för ökade rättigheter, skyldigheter och möjligheter",
                 "url": "/pressmeddelanden/2024/07/en-forebyggande-socialtjanstlag--for-okade-rattigheter-skyldigheter-och-mojligheter/"
             }
         ],
@@ -2244,10 +2265,8 @@
             "1333"
         ],
         "senders": [
-            "2607",
             "2612",
             "2616",
-            "2622",
             "1291",
             "1292",
             "1294"
@@ -2256,7 +2275,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Bättre förutsättningar för kliniska prövningar i Sverige\n",
+                "name": "Pressmeddelande: Bättre förutsättningar för kliniska prövningar i Sverige",
                 "url": "/pressmeddelanden/2024/06/battre-forutsattningar-for-kliniska-provningar-i-sverige/"
             }
         ],
@@ -2276,7 +2295,6 @@
             "1333"
         ],
         "senders": [
-            "2619",
             "1284"
         ],
         "summary": "Arbetsmarknads- och integrationsminister Johan Pehrson, debattartikel, Dagens Industri, den 20 juni 2024.",
@@ -2298,7 +2316,6 @@
         "senders": [
             "2612",
             "2618",
-            "2622",
             "1291",
             "1294",
             "1295"
@@ -2356,11 +2373,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: 11 nya steg för att effektivisera tillståndsprocesserna och skynda på klimatomställningen\n",
+                "name": "Pressmeddelande: 11 nya steg för att effektivisera tillståndsprocesserna och skynda på klimatomställningen",
                 "url": "/pressmeddelanden/2024/05/11-nya-steg-for-att-effektivisera-tillstandsprocesserna-och-skynda-pa-klimatomstallningen/"
             },
             {
-                "name": "Lagrådsremiss: Steg på vägen mot en mer effektiv miljöprövning\n",
+                "name": "Lagrådsremiss: Steg på vägen mot en mer effektiv miljöprövning",
                 "url": "/rattsliga-dokument/lagradsremiss/2024/05/steg-pa-vagen-mot-en-mer-effektiv-miljoprovning/"
             }
         ],
@@ -2371,6 +2388,7 @@
             "1257",
             "2749",
             "2691",
+            "2797",
             "2688"
         ]
     },
@@ -2388,7 +2406,7 @@
             "1287",
             "1288"
         ],
-        "summary": "Att fria medier som vill, kan och orkar granska makten är en del av den demokratiska infrastrukturen missar vi sällan ett tillfälle att påminna om. Just i dag, på Pressfrihetens Dag, är det dock kanske viktigare än någonsin att göra det. \n\nKulturminister Parisa Liljestrand och justitieminister Gunnar Strömmer, debattartikel, Dagens Media, den 3 maj 2024.",
+        "summary": "Kulturminister Parisa Liljestrand och justitieminister Gunnar Strömmer, debattartikel, Dagens Media, den 3 maj 2024.",
         "id": null,
         "shortcuts": [],
         "attachments": [],
@@ -2483,7 +2501,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Artikel: Medel till Försäkringskassan för att stärka handläggningen, kontrollerna samt informations- och cybersäkerheten\n",
+                "name": "Artikel: Medel till Försäkringskassan för att stärka handläggningen, kontrollerna samt informations- och cybersäkerheten",
                 "url": "/artiklar/2024/04/medel-till-forsakringskassan-for-att-starka-handlaggningen-kontrollerna-samt-informations--och-cybersakerheten/"
             }
         ],
@@ -2594,7 +2612,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Sju miljoner kronor föreslås i stöd till kommuner som drabbats av afrikansk svinpest\n",
+                "name": "Pressmeddelande: Sju miljoner kronor föreslås i stöd till kommuner som drabbats av afrikansk svinpest",
                 "url": "/pressmeddelanden/2024/04/sju-miljoner-kronor-foreslas-i-stod-till-kommuner-som-drabbats-av-afrikansk-svinpest/"
             }
         ],
@@ -2612,7 +2630,6 @@
             "1333"
         ],
         "senders": [
-            "2619",
             "2621",
             "1284",
             "1287"
@@ -2644,7 +2661,12 @@
         ],
         "summary": "Tidöpartierna: Sveriges militära förmåga i närtid behöver stärkas. Debattartikel av Pål Jonson, försvarsminister, Oscar Sjöstedt, ekonomisk-politisk talesperson (SD), Mikael Oscarsson, försvarspolitisk talesperson (KD) och Anna Starbrink, försvarspolitisk talesperson (L). Aftonbladet, 8 april 2024.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Riksdagens webbplats- extern webbplats,",
+                "url": "https://www.riksdagen.se/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2247",
@@ -2668,7 +2690,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Regeringens prioriteringar inom klimat och energi\n",
+                "name": "Regeringens prioriteringar inom klimat och energi",
                 "url": "/regeringens-politik/regeringens-prioriteringar/klimat-och-energi/om-regeringens-prioritering-klimat-och-energi/"
             }
         ],
@@ -2698,8 +2720,12 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Förslag om ytterligare förlängning av det tillfälliga tilläggsbidraget till barnfamiljer med bostadsbidrag\n",
+                "name": "Pressmeddelande: Förslag om ytterligare förlängning av det tillfälliga tilläggsbidraget till barnfamiljer med bostadsbidrag",
                 "url": "/pressmeddelanden/2024/03/forslag-om-ytterligare-forlangning-av-det-tillfalliga-tillaggsbidraget-till-barnfamiljer-med-bostadsbidrag/"
+            },
+            {
+                "name": "Riksdagens webbplats- extern webbplats,",
+                "url": "https://www.riksdagen.se/"
             }
         ],
         "attachments": [],
@@ -2750,7 +2776,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Temasida: Kvinnors företagande\n",
+                "name": "Temasida: Kvinnors företagande",
                 "url": "/regeringens-politik/kvinnors-foretagande/"
             }
         ],
@@ -2771,7 +2797,6 @@
             "1333"
         ],
         "senders": [
-            "2619",
             "2621",
             "1284",
             "1287"
@@ -2825,11 +2850,11 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Lagrådsremiss: Vissa förslag om kompensation m.m. till personer födda 1957 och 1959 på grund av höjd åldersgräns för förhöjt grundavdrag\n",
+                "name": "Lagrådsremiss: Vissa förslag om kompensation m.m. till personer födda 1957 och 1959 på grund av höjd åldersgräns för förhöjt grundavdrag",
                 "url": "/rattsliga-dokument/lagradsremiss/2024/02/vissa-forslag-om-kompensation-m.m.-till-personer-fodda-1957-och-1959-pa-grund-av-hojd-aldersgrans-for-forhojt-grundavdrag"
             },
             {
-                "name": "Lagrådsremiss: Tillfälligt höjt tak för rotavdraget\n",
+                "name": "Lagrådsremiss: Tillfälligt höjt tak för rotavdraget",
                 "url": "/rattsliga-dokument/lagradsremiss/2024/02/tillfalligt-hojt-tak-for-rotavdraget/"
             }
         ],
@@ -2848,7 +2873,6 @@
             "1333"
         ],
         "senders": [
-            "2619",
             "1284"
         ],
         "summary": "Debattartikel av arbetsmarknads- och integrationsminister Johan Pehrson och jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg, Dagens industri, den 14 februari 2024.",
@@ -2891,7 +2915,6 @@
             "1333"
         ],
         "senders": [
-            "2619",
             "1284"
         ],
         "summary": "Arbetsmarknads- och integrationsminister Johan Pehrson, debattartikel, Expressen, den 12 februari 2024.",
@@ -2919,15 +2942,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Regeringen tillsätter utredning för att främja ett långsiktigt hållbart och konkurrenskraftigt skogsbruk\n",
+                "name": "Pressmeddelande: Regeringen tillsätter utredning för att främja ett långsiktigt hållbart och konkurrenskraftigt skogsbruk",
                 "url": "/pressmeddelanden/2024/02/regeringen-tillsatter-utredning-for-att-framja-skogsbruk-och-en-vaxande-bioekonomi/"
             },
             {
-                "name": "Kommittédirektiv: En robust skogspolitik som ser skogen som en resurs\n",
+                "name": "Kommittédirektiv: En robust skogspolitik som ser skogen som en resurs",
                 "url": "/rattsliga-dokument/kommittedirektiv/2024/02/dir.-202416"
             },
             {
-                "name": "Tal av landsbygdsminister Peter Kullgren på Skogens dag 2024\n",
+                "name": "Tal av landsbygdsminister Peter Kullgren på Skogens dag 2024",
                 "url": "/tal/2024/02/tal-av-landsbygdsminister-peter-kullgren-pa-skogens-dag-2024/"
             }
         ],
@@ -2952,7 +2975,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Hbtqi-personers lika rättigheter och möjligheter\n",
+                "name": "Hbtqi-personers lika rättigheter och möjligheter",
                 "url": "/regeringens-politik/hbtq-personers-lika-rattigheter-och-mojligheter/"
             }
         ],
@@ -2973,7 +2996,6 @@
         "senders": [
             "2612",
             "2615",
-            "2619",
             "2605",
             "1284",
             "1287",
@@ -2984,7 +3006,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Ny strategi mot våldsbejakande extremism och terrorism\n",
+                "name": "Ny strategi mot våldsbejakande extremism och terrorism",
                 "url": "/regeringens-politik/ny-strategi-mot-valdsbejakande-extremism-och-terrorism/"
             }
         ],
@@ -3002,7 +3024,6 @@
             "1333"
         ],
         "senders": [
-            "2607",
             "2611",
             "1286",
             "1292"
@@ -3057,15 +3078,15 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Tillsammans mot ofrivillig ensamhet - företagsnätverk för ökad gemenskap\n",
+                "name": "Tillsammans mot ofrivillig ensamhet - företagsnätverk för ökad gemenskap",
                 "url": "/regeringens-politik/ofrivillig-ensamhet--ett-folkhalsoproblem/tillsammans-mot-ofrivillig-ensamhet---foretagsnatverk-for-okad-gemenskap/"
             },
             {
-                "name": "Ofrivillig ensamhet – ett folkhälsoproblem\n",
+                "name": "Ofrivillig ensamhet – ett folkhälsoproblem",
                 "url": "/regeringens-politik/ofrivillig-ensamhet--ett-folkhalsoproblem/"
             },
             {
-                "name": "Artikel: Initiativ samlar näringslivets engagemang mot den ofrivilliga ensamheten\n",
+                "name": "Artikel: Initiativ samlar näringslivets engagemang mot den ofrivilliga ensamheten",
                 "url": "/artiklar/2023/12/initiativ-samlar-naringslivets-engagemang-mot-den-ofrivilliga-ensamheten/"
             }
         ],
@@ -3127,7 +3148,6 @@
         ],
         "senders": [
             "2612",
-            "2619",
             "2605",
             "1284",
             "1291",
@@ -3138,7 +3158,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "In English: “Two-state solution only path to sustainable peace”\n",
+                "name": "In English: “Two-state solution only path to sustainable peace”",
                 "url": "https://www.government.se/opinion-pieces/2023/12/two-state-solution-only-path-to-sustainable-peace/"
             }
         ],
@@ -3232,7 +3252,6 @@
             "1333"
         ],
         "senders": [
-            "2619",
             "1284"
         ],
         "summary": "Arbetsmarknads- och integrationsminister Johan Pehrson, debattartikel, Expressen, den 11 november 2023.",
@@ -3317,7 +3336,6 @@
             "1333"
         ],
         "senders": [
-            "2619",
             "2605",
             "1284",
             "1293"
@@ -3366,7 +3384,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Satsning på vägunderhåll för att bidra till en väl fungerande infrastruktur i hela landet\n",
+                "name": "Pressmeddelande: Satsning på vägunderhåll för att bidra till en väl fungerande infrastruktur i hela landet",
                 "url": "/pressmeddelanden/2023/09/satsning-pa-vagunderhall-for-att-bidra-till-en-val-fungerande-infrastruktur-i-hela-landet/"
             }
         ],
@@ -3393,7 +3411,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Viktigt för klimatomställningen att miljöprocesserna kortas\n",
+                "name": "Pressmeddelande: Viktigt för klimatomställningen att miljöprocesserna kortas",
                 "url": "/pressmeddelanden/2023/09/viktigt-for-klimatomstallningen-att-miljoprocesserna-kortas/"
             }
         ],
@@ -3435,7 +3453,6 @@
         "senders": [
             "2613",
             "2614",
-            "2619",
             "1284",
             "1285"
         ],
@@ -3490,7 +3507,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Beräkningar - effekten längs inkomstskalan av sänkt skatt för pensionärer\n",
+                "name": "Beräkningar - effekten längs inkomstskalan av sänkt skatt för pensionärer",
                 "url": "/informationsmaterial/2023/09/berakningar---effekten-langs-inkomstskalan-av-sankt-skatt-for-pensionarer/"
             }
         ],
@@ -3531,7 +3548,6 @@
         ],
         "senders": [
             "2612",
-            "2619",
             "2605",
             "1296"
         ],
@@ -3539,7 +3555,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Debattartikel i Aftonbladet 26 augusti 2023\n             - extern webbplats,\n",
+                "name": "Debattartikel i Aftonbladet 26 augusti 2023- extern webbplats,",
                 "url": "https://www.aftonbladet.se/debatt/a/LlG7wx/tidopartierna-57-orna-kompenseras-for-skattemissen"
             }
         ],
@@ -3558,9 +3574,7 @@
             "1333"
         ],
         "senders": [
-            "2607",
             "2612",
-            "2619",
             "2605"
         ],
         "summary": "Debattartikel av statsminister Ulf Kristersson, energi- och näringsminister Ebba Busch och arbetsmarknadsminister Johan Pehrson, tidigare publicerad i Svenska Dagbladet.",
@@ -3579,9 +3593,7 @@
         "types": [
             "1333"
         ],
-        "senders": [
-            "2607"
-        ],
+        "senders": [],
         "summary": "Debattartikel av sjukvårdsminister Acko Ankarberg Johansson, den 2 augusti 2023.",
         "id": null,
         "shortcuts": [],
@@ -3672,7 +3684,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Försvarsinnovation\n",
+                "name": "Försvarsinnovation",
                 "url": "/regeringens-politik/forsvarsinnovation/"
             }
         ],
@@ -3761,7 +3773,7 @@
             "1287",
             "1291"
         ],
-        "summary": "Debattartikel av energi- och närings­minister samt vice stats­minister Ebba Busch och justitie­minister Gunnar Strömmer i Dagens Industri den 1 juni 2023\n\nI dag träder ett enhetligt patent­system i kraft i 17 av EU:s 27 medlems­stater. Det är ett glädjande resultat av många års förhand­lingar där Sverige haft en drivande roll. Nu blir det enklare, billigare och säkrare för innova­törer att ta tillvara sina idéer. Detta samtidigt som vi stärker unionens konkurrens­kraft.",
+        "summary": "Energi- och närings­minister samt vice stats­minister Ebba Busch och justitie­minister Gunnar Strömmer, debattartikel, Dagens Industri, den 1 juni 2023.",
         "id": null,
         "shortcuts": [],
         "attachments": [],
@@ -3780,18 +3792,17 @@
             "1333"
         ],
         "senders": [
-            "2622",
             "1294"
         ],
         "summary": "Utbildningsminister Mats Persson, debattartikel, Svenska Dagbladet, den 17 maj 2023.",
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Etikprövningslagen ska ses över\n",
+                "name": "Pressmeddelande: Etikprövningslagen ska ses över",
                 "url": "/pressmeddelanden/2023/05/etikprovningslagen-ska-ses-over/"
             },
             {
-                "name": "Pressmeddelande: Etikprövningsmyndigheten får i uppdrag att kartlägga ansökningar som berör vissa personuppgifter\n",
+                "name": "Pressmeddelande: Etikprövningsmyndigheten får i uppdrag att kartlägga ansökningar som berör vissa personuppgifter",
                 "url": "/pressmeddelanden/2023/05/etikprovningsmyndigheten-far-i-uppdrag-att-kartlagga-ansokningar-som-beror-vissa-personuppgifter/"
             }
         ],
@@ -3813,7 +3824,7 @@
             "1287",
             "1293"
         ],
-        "summary": "EU-minister Jessika Roswall och justitieminister Gunnar Strömmer, debattartikel Expressen, den 9 maj 2023.",
+        "summary": "EU-minister Jessika Roswall och justitieminister Gunnar Strömmer, debattartikel, Expressen, den 9 maj 2023.",
         "id": null,
         "shortcuts": [],
         "attachments": [],
@@ -3890,7 +3901,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Uppdrag till Folkhälsomyndigheten att ta fram en nationell strategi mot ofrivillig ensamhet\n",
+                "name": "Pressmeddelande: Uppdrag till Folkhälsomyndigheten att ta fram en nationell strategi mot ofrivillig ensamhet",
                 "url": "/pressmeddelanden/2023/03/uppdrag-till-folkhalsomyndigheten-att-ta-fram-en-nationell-strategi-mot-ofrivillig-ensamhet/"
             }
         ],
@@ -3917,7 +3928,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Det ska bli straffbart att delta i en terrorist­organisation\n",
+                "name": "Pressmeddelande: Det ska bli straffbart att delta i en terrorist­organisation",
                 "url": "/pressmeddelanden/2023/03/det-ska-bli-straffbart-att-delta-i-en-terroristorganisation/"
             }
         ],
@@ -3944,7 +3955,12 @@
         ],
         "summary": "Socialminister Jakob Forssmed och äldre- och socialförsäkrings­minister Anna Tenje, debattartikel, Upsala Nya Tidning, 16 februari 2023",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Regeringen satsar på att förebygga och bryta ofrivillig ensamhet",
+                "url": "/artiklar/2022/11/regeringen-satsar-pa-att-forebygga-och-bryta-ofrivillig-ensamhet/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2655",
@@ -4007,7 +4023,6 @@
         "senders": [
             "2608",
             "2612",
-            "2619",
             "1284",
             "1291",
             "2425"
@@ -4050,7 +4065,7 @@
         ]
     },
     {
-        "title": "Allas nyårslöfte bör vara bättre hemberedskap  ",
+        "title": "Allas nyårslöfte bör vara bättre hemberedskap",
         "url": "/debattartiklar/2023/01/allas-nyarslofte-bor-vara-battre-hemberedskap/",
         "published": "2023-01-02",
         "updated": null,
@@ -4065,7 +4080,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Om hemberedskap på Myndigheten för samhällsskydd och beredskaps webbplats\n             - extern webbplats,\n",
+                "name": "Om hemberedskap på Myndigheten för samhällsskydd och beredskaps webbplats- extern webbplats,",
                 "url": "https://www.msb.se/sv/rad-till-privatpersoner/forbered-dig-for-kris/hemberedskap---preppa-for-en-vecka/"
             }
         ],

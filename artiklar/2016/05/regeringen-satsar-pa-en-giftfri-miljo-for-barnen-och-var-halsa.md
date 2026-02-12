@@ -104,4 +104,4 @@ Sverige har under flera år aktivt försökt påverka EU-lagstiftningen för att
 
 Även på global nivå har Sverige drivit på för att minska mängden gifter i vardagen. Som exempel har fler bromerade flamskyddsmedel och fluorerade miljögifter har förbjudits eller är på väg att förbjudas globalt. Regeringen kommer också att agera för ett stärkt och sammanhållet ramverk på global nivå, som på ett effektivare sätt kan ta sig an nya ämnen eller grupper av ämnen.
 
-[Artikel på webbplatsen: Framgångsrikt möte om det globala kemikaliesamarbetet](/artiklar/2015/10/framgangar-for-det-globala-kemikaliesamarbetet/)
+[Artikel på webbplatsen: Framgångsrikt möte om det globala kemikaliesamarbetet](/artiklar/2015/10/framgangar-for-det-globala-kemikaliesamarbetet/)

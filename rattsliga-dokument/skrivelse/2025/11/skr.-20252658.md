@@ -1,4 +1,4 @@
-# Riksrevisionens rapport om socialförsäkringsskyddet vid internationell rörlighetSkr. 2025/26:58
+# Riksrevisionens rapport om socialförsäkringsskyddet vid internationell rörlighet
 
 Regeringen redovisar sin bedömning av de iakttagelser som Riksrevisionen har gjort i rapporten Socialförsäkringsskyddet vid internationell rörlighet – Försäkringskassans och Pensionsmyndighetens Kontroller, RiR 2025:14.
 

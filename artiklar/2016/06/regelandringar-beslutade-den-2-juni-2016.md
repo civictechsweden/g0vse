@@ -2,11 +2,11 @@
 
 ## Följdändringar i författningar med anledning av EU:s nya förordning om elektronisk identifiering
 
-I EU:s nya förordning om elektronisk identifiering och elektroniska transaktioner används uttrycket elektronisk underskrift i stället för elektronisk signatur. Regeringen har utfärdat en ny lag med kompletterande bestämmelser till den EU-förordningen och lagen om kvalificerade elektroniska signaturer har upphävts. Dessa beslut föranleder även följdändringar i lagen om handel med utsläppsrätter, i förordningen om fluorerade växthusgaser och ozonnedbrytande ämnen och i avfallsförordningen. Ändringarna innebär endast att uttrycket elektronisk signatur ersätts med elektronisk underskrift. Författningarna träder i kraft den 1 juli 2016.
+I EU:s nya förordning om elektronisk identifiering och elektroniska transaktioner används uttrycket elektronisk underskrift i stället för elektronisk signatur. Regeringen har utfärdat en ny lag med kompletterande bestämmelser till den EU-förordningen och lagen om kvalificerade elektroniska signaturer har upphävts. Dessa beslut föranleder även följdändringar i lagen om handel med utsläppsrätter, i förordningen om fluorerade växthusgaser och ozonnedbrytande ämnen och i avfallsförordningen. Ändringarna innebär endast att uttrycket elektronisk signatur ersätts med elektronisk underskrift. Författningarna träder i kraft den 1 juli 2016.
 
 ### Referenser
 
-* Europaparlamentets och rådets förordning (EU) nr 910/2014 av den 23 juli 2014 om elektronisk identifiering och betrodda tjänster för elektroniska transaktioner på den inre marknaden och om upphävande av direktiv 1999/93/EG
+* Europaparlamentets och rådets förordning (EU) nr 910/2014 av den 23 juli 2014 om elektronisk identifiering och betrodda tjänster för elektroniska transaktioner på den inre marknaden och om upphävande av direktiv 1999/93/EG
 * regeringens proposition Kompletterande bestämmelser till EU:s förordning om elektronisk identifiering (prop. 2015/16:72)
 * trafikutskottets betänkande 2015/16:TU18 Kompletterande bestämmelser till EU:s förordning om elektronisk identifiering
 * riksdagsskrivelse 2015/16:253
@@ -47,7 +47,8 @@ Regeringen har beslutat att i förordningen om stora förbränningsanläggningar
 
 Författningarna blir offentliga när de kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 14 juni 2016.
 
-**Kontaktpersoner:**Elektronisk identifiering och förbränningsanläggningar:
+**Kontaktpersoner:**
+Elektronisk identifiering och förbränningsanläggningar:
 Henrik J Jonsson 08-405 53 08
 
 Strålskyddsförordningen: Johan Pettersson 08-405 82 41

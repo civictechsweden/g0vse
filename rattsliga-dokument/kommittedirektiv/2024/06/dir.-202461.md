@@ -7,6 +7,6 @@ Utredaren ska bl.a.
 * analysera och redogöra för värdet för tillverkare, importörer, konsumenter och allmänheten av att även fortsättningsvis erbjuda kontrollstämpling i Sverige med kattfoten och CCM-stämpeln,
 * utreda och bedöma behovet av fortsatt medlemskap i ädelmetallkonventionen och konsekvenserna av ett eventuellt utträde,
 * föreslå hur regleringen av handel med ädelmetallarbeten kan moderniseras för att vara effektiv och ändamålsenlig,
-* och lämna nödvändiga författningsförslag.
+* och lämna nödvändiga författningsförslag.
 
 Uppdraget ska redovisas senast den 19 juni 2025.

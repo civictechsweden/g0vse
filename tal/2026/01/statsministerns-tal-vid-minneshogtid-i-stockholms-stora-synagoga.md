@@ -22,7 +22,7 @@ Men ansvaret för att bevara minnet av Förintelsen vilar inte bara på er, utan
 
 Rätt vårdat kan minnet och berättelserna om Förintelsen hjälpa oss att känna igen de mekanismer som gör det otänkbara möjligt och som leder mot avgrunden. Så att det kan bekämpas i tid. Så att inte historien upprepar sig. Så att vi kan hålla löftet om ”aldrig igen”.
 
-\*\*\*
+***
 
 I de allvarstider som vi nu lever, är det löftet viktigare än på länge.
 
@@ -38,7 +38,7 @@ Och jag förstår också att många svenska judar berörs på djupet av terrorat
 
 Jag förstår att den rädslan hängde i luften även i Sverige. Men vi firade chanukka ändå! Nästan som en motståndshandling. Vi låter inte mörkrets krafter vinna.
 
-\*\*\*
+***
 
 Det vilar ett ansvar på oss alla att se och bekämpa antisemitismen. Och den regering som jag leder tar det ansvaret på stort allvar. Vi gör vårt yttersta för att svenska judar öppet och tryggt ska kunna leva sina liv, inte dölja sina liv eller frukta för sina liv.
 

@@ -1,4 +1,4 @@
-# Ett mer heltäckande straffansvar vid angrepp på företagshemligheterProp. 2024/25:208
+# Ett mer heltäckande straffansvar vid angrepp på företagshemligheter
 
 I propositionen föreslår regeringen ett mer heltäckande straffansvar vid angrepp på företagshemligheter.
 

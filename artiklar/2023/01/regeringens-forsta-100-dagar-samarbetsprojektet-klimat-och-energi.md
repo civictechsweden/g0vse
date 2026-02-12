@@ -33,5 +33,5 @@ Sverige ska inte längre ha som mål att ha 100 procent förnybar energi. I stä
 * Det energipolitiska målet ändras från 100 procent ”förnybart” till 100 procent ”fossilfritt”
 * Förslaget kommer att lämnas till riksdagen under våren.
 * Ett mål om fossilfritt är nödvändigt för att möjliggöra nödvändig teknisk utveckling för klimat- och energiomställningen.
-  Ett arbete kommer ta vid med att ändra samtliga relevanta regelverk och myndighetsinstruktioner där nuvarande mål återges.
+Ett arbete kommer ta vid med att ändra samtliga relevanta regelverk och myndighetsinstruktioner där nuvarande mål återges.
 * Teknikneutraliteten återställs – inget hållbart kraftslag diskrimineras i målformuleringen

@@ -1,6 +1,6 @@
 # En arbetsmiljöstrategi för det moderna arbetslivet 2016–2020
 
-![](/contentassets/414e55ccaf03458fb6716bc7fedc24c9/omslag-till-regeringens-nya-arbetsmiljostrategi-for-det-moderna-arbetslivet-2016-2020/?width=150&quality=85)
+![](/contentassets/414e55ccaf03458fb6716bc7fedc24c9/omslag-till-regeringens-nya-arbetsmiljostrategi-for-det-moderna-arbetslivet-2016-2020/?width=150&amp;quality=85)
 
 Regeringens arbetsmiljöpolitik ska bidra till en arbetsmiljö som förebygger ohälsa, olycksfall och motverkar att människor utestängs från arbetslivet. Arbetsmiljöarbetet ska ta hänsyn till människors olika förutsättningar och bidra till utvecklingen av både individer och verksamhet.
 

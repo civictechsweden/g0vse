@@ -8,7 +8,7 @@ Utifrån utredningens analyser och bedömningar ska Försäkringskassan och Pens
 * samt kostnader för utveckling, driftsättning och förvaltning,
 * behovet av övriga verksamhetsanpassningar,
 * konsekvenser för myndigheten, och
-* hur administrationen av ett system med administrativa sanktioner kan utformas för att så långt som möjligt rymmas inom befintliga ekonomiska ramar.
+* hur administrationen av ett system med administrativa sanktioner kan utformas för att så långt som möjligt rymmas inom befintliga ekonomiska ramar.
 
 Myndigheterna ska:
 

@@ -1,4 +1,4 @@
-# En ny lag om kommunal hamnverksamhetFi2025/01804
+# En ny lag om kommunal hamnverksamhet
 
 I promemorian föreslås en ny lag om kommunal hamnverksamhet. Förslaget lämnas för att de svenska bestämmelserna om kommunal hamnverksamhet ska anses vara förenliga med det EU-rättsliga statsstödsregelverket.
 

@@ -5,3 +5,9 @@ Pressbriefingen hålls klockan 17.00 lokal tid (16.00 svensk tid), men kommer in
 Anmälan är endast möjlig för journalister som är ackrediterade till FN:s klimatkonferens COP27.
 
 Vid frågor, kontakta Niki Westerberg.
+
+Pressbriefingen hålls klockan 17.00 lokal tid (16.00 svensk tid), men kommer inte att livesändas.
+
+Anmälan är endast möjlig för journalister som är ackrediterade till FN:s klimatkonferens COP27.
+
+Vid frågor, kontakta Niki Westerberg.

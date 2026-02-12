@@ -4,11 +4,11 @@ Regeringen uppdrar åt Läkemedelsverket att strukturera samordningen mellan sju
 
 ## Lägesbilder vid brist
 
-Syftet är att göra det lättare att ta fram och kommunicera lägesbilder när brister uppstår vid olika störningar i försörjningskedjan.
+Syftet är att göra det lättare att ta fram och kommunicera lägesbilder när brister uppstår vid olika störningar i försörjningskedjan.
 
 ## Dialog med berörda
 
-Läkemedelsverket ska utreda och föreslå lämpliga former för dialog med företrädare för landstingen, hälso- och sjukvårdsprofessioner, apotek, distributörer, läkemedelsföretag, partihandlare,  myndigheter och andra som har en roll inom försörjningskedjan för läkemedel.
+Läkemedelsverket ska utreda och föreslå lämpliga former för dialog med företrädare för landstingen, hälso- och sjukvårdsprofessioner, apotek, distributörer, läkemedelsföretag, partihandlare, myndigheter och andra som har en roll inom försörjningskedjan för läkemedel.
 
 Läkemedelsverket ska:
 

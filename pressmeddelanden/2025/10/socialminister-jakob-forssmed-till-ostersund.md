@@ -3,3 +3,7 @@
 Ministern besöker också en idrottsförening och träffar representanter från civilsamhället.
 
 För mer information och intervjuförfrågningar, kontakta pressekreterare Simon Hoff.
+
+Ministern besöker också en idrottsförening och träffar representanter från civilsamhället.
+
+För mer information och intervjuförfrågningar, kontakta pressekreterare Simon Hoff.

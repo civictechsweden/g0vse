@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att ta fram kunskapsstöd för genomförande av den nationella planen för graviditet, förlossning och tiden efterDiarienummer:  S2026/00053
+# Uppdrag till Socialstyrelsen att ta fram kunskapsstöd för genomförande av den nationella planen för graviditet, förlossning och tiden efter
 
 Regeringen uppdrar åt Socialstyrelsen att ta fram kunskapsstöd eller annan vägledning för att genomföra den nationella planen för graviditet, förlossning och tiden efter.
 

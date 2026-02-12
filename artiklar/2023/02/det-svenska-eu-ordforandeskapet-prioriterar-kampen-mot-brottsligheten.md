@@ -12,7 +12,7 @@ Men att endast fokusera på våra egna strukturer i Sverige kommer inte att räc
 
 Säkerhet är en av det svenska EU-ordförande­skapets fyra priori­teringar, och i detta ingår kampen mot gräns­över­skridande organi­serad brotts­lighet som en helt central del. Det handlar främst om tre saker:
 
-## 1.   Bättre och vassare verktyg mot de kriminella
+## 1. Bättre och vassare verktyg mot de kriminella
 
 Alla brotts­bekämpande myndigheter i Europa måste få bättre verktyg för att komma åt den organi­serade brotts­ligheten. Det handlar bland annat om bättre möjlig­heter till åter­vinning av till­gångar och förverkande av brotts­vinster, det vill säga att ta de krimi­nellas tillgångar. På så sätt kan de brotts­bekämpande myndig­heterna slå direkt mot den organise­rade brottslig­hetens ekonomiska kärna. Syftet är att göra det betydligt svårare för kriminella aktörer att bedriva och tjäna pengar på organise­rad brotts­lighet.
 
@@ -20,7 +20,7 @@ Det handlar också om att på EU-nivå samman­koppla ländernas bank­konto­re
 
 Ett viktigt verktyg för gräns­kontroll och brotts­bekämp­ning är de passagerar­uppgifter (API) som flyg­trans­portörer skickar till medlems­staternas polis­myndig­heter. Det är angeläget med en utökad insamling av passagerar­uppgifter och att kvaliteten på upp­gifterna förbättras samtidigt som EU:s regler för data­skydd upp­rätthålls.
 
-## 2.   Effektivare samarbete kring brottsbekämpning
+## 2. Effektivare samarbete kring brottsbekämpning
 
 Det finns fortfarande mycket att göra för att förbättra och fördjupa EU-ländernas sam­arbete på olika områden som gäller brotts­bekämp­ning.
 

@@ -8,4 +8,4 @@ Regeringen föreslår dessutom att Transportstyrelsen ska ta över vissa uppgift
 
 Den nya lagen och lagändringarna med anledning av Sveriges tillträde till konventionen föreslås i huvudsak träda i kraft den dag som regeringen bestämmer. Bestämmelserna om uppgiftsskyldighet rörande mottagande av farliga och skadliga ämnen och lagändringarna till följd av att Transportstyrelsen övertar vissa uppgifter från Sjöfartsverket föreslås träda i kraft den 1 januari 2019.
 
-[Pressmeddelande: Skadeståndsansvar vid transport av kemikalier](/pressmeddelanden/2018/05/skadestandsansvar-vid-transport-av-kemikalier/)
+[Pressmeddelande: Skadeståndsansvar vid transport av kemikalier](/pressmeddelanden/2018/05/skadestandsansvar-vid-transport-av-kemikalier/)

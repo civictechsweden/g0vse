@@ -10,6 +10,6 @@ I propositionen lämnas också några förslag på ändringar i reglerna om skal
 
 Lagändringarna föreslås träda i kraft den 2 januari 2012. En ändring i skattebetalningslagen (1997:483) som rör skalbolagsbeskattning föreslås dock träda i kraft redan den 31 december 2011.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+__________________________________________________________
 
 Riksdagen fattade den 8 december 2011 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

@@ -4,7 +4,7 @@ Den 7 oktober genomförde regeringen en internationell kärnkraftskonferens, Nor
 
 Diskussionerna kretsade kring förutsättningarna för en effektiv utbyggnad av ny kärnkraft och hur länderna kan återupprätta och etablera konkurrenskraftiga leveranskedjor, med ett särskilt fokus på finanssektorns roll.
 
-På mötet deltog utöver Sverige och Finland också ett flertal ministrar och högnivårepresentanter från Estland, Lettland och Polen. Det var också stor uppslutning med företrädare från industrin, leverantörer och potentiella investerare inom ny kärnkraft.
+På mötet deltog utöver Sverige och Finland också ett flertal ministrar och högnivårepresentanter från Estland, Lettland och Polen. Det var också stor uppslutning med företrädare från industrin, leverantörer och potentiella investerare inom ny kärnkraft.
 
 Det här var sannolikt första gången sedan 1958 som Sverige stod värd för en kärnkraftskonferens där representanter från finansbranschen, hela värdekedjan kopplat till kärnkraft och politiker samlades samtidigt.
 

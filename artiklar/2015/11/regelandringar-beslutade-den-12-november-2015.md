@@ -21,7 +21,7 @@ Tillsynsansvaret i fråga om transporter av avfall som regleras i Europaparlamen
 
 ### Referenser
 
-* Europaparlamentets och rådets förordning (EG) nr 1013/2006 av den 14 juni 2006 om transport av avfall
+* Europaparlamentets och rådets förordning (EG) nr 1013/2006 av den 14 juni 2006 om transport av avfall
 * miljötillsynsförordningen (2011:13)
 
 ## Justering av elsäkerhetsavgiften

@@ -11,5 +11,5 @@ I propositionen lämnas även förslag om att kostnadsersättning till elever i 
 I propositionen föreslås också ett slopande av möjligheten för regeringen, att i särskilda fall medge befrielse från energiskatt och koldioxidskatt på bränsle som förbrukas inom pilotprojekt för teknisk utveckling av mer miljövänliga produkter. Förslaget föranleder ändringar i lagen (1994:1776) om skatt på energi.
 
 Lagändringarna föreslås träda i kraft den 1 juni 2014 med undantag för ändringarna i fråga om lärlingsersättning och skatt på energi som föreslås träda i kraft den 1 juli 2014.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________________________________________________________
 Riksdagen fattade den 7 maj 2014 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

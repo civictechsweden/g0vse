@@ -10,5 +10,5 @@ ISF och Vård- och omsorgsanalys ska:
 * analysera om samarbetet och dialogen mellan å ena sidan regionerna och å andra sidan Försäkringskassan, Arbetsförmedlingen, arbetsgivare och kommuner fungerar väl och därmed bidrar till patienternas återgång till eller inträde i arbetslivet.
 * analysera om lagen om koordineringsinsatser har fått en ändamålsenlig utformning så att stödet för sjukskrivna patienter är behovsanpassat och underlättar och påskyndar rehabiliteringsprocessen för enskilda patienter, och
 * vid behov föreslå hur funktionen för koordinering kan stärkas ytterligare för att främja patienters återgång eller inträde i arbete.
-* hämta in synpunkter från Socialstyrelsen, Försäkringskassan, Sveriges Kommuner och Regioner (SKR), de centrala arbetsgivarorganisationerna och andra berörda myndigheter och organisationer.
+* hämta in synpunkter från Socialstyrelsen, Försäkringskassan, Sveriges Kommuner och Regioner (SKR), de centrala arbetsgivarorganisationerna och andra berörda myndigheter och organisationer.
 * redovisa uppdraget senast den 15 juni 2026 till Regeringskansliet.

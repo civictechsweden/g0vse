@@ -14,4 +14,4 @@ Propositionen innehåller också förslag om bemyndiganden för regeringen eller
 Den nya lagen och lagändringarna föreslås träda i kraft den 1 augusti
 2018.
 
-[Pressmeddelande: Regeringen stärker konsumentskyddet i samband med paketresor](/pressmeddelanden/2018/04/regeringen-starker-konsumentskyddet-i-samband-med-paketresor/)
+[Pressmeddelande: Regeringen stärker konsumentskyddet i samband med paketresor](/pressmeddelanden/2018/04/regeringen-starker-konsumentskyddet-i-samband-med-paketresor/)

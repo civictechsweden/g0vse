@@ -1,4 +1,4 @@
-# Utökade registerkontroller vid anställning i kommunProp. 2025/26:61
+# Utökade registerkontroller vid anställning i kommun
 
 För att förhindra infiltration och otillåten påverkan, öka tryggheten och minska risken för att personer utsätts för brott inom kommunala verksamheter, vill regeringen ge kommuner bättre möjligheter till kontroll av personer som ska anställas.
 

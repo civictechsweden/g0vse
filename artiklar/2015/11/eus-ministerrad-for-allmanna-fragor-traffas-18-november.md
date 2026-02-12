@@ -12,6 +12,6 @@ För att utveckla samarbetet över nationsgränserna har Interreg-programmen ska
 
 ### Förenkling av insatserna som görs via ESI-fonderna
 
-I dagsläget är insatserna som görs via ESI-fonderna en delad förvaltning  mellan EU-kommissionen och medlemsstaterna. Det gör att det för närvarande finns ett omfattande och komplext regelverk på EU-nivå som tillämpas av nationella genomförandeorganisationer.
+I dagsläget är insatserna som görs via ESI-fonderna en delad förvaltning mellan EU-kommissionen och medlemsstaterna. Det gör att det för närvarande finns ett omfattande och komplext regelverk på EU-nivå som tillämpas av nationella genomförandeorganisationer.
 
 Ordförandeskapet vill diskutera möjliga förenklingar av administrationen av fonderna. Regeringen är positiv till förenklingsambitionen men anser att det likväl är viktigt att säkerställa att medlen används på korrekt sätt.

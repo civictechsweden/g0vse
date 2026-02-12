@@ -1,6 +1,6 @@
 # Förskolan i Politiken – om intentioner och beslut bakom den svenska förskolans framväxt
 
-![](/contentassets/0d8ff8342dcd4a6585cf1bf2faac89ad/forskolan-i-politiken.jpg?width=150&quality=85)
+![](/contentassets/0d8ff8342dcd4a6585cf1bf2faac89ad/forskolan-i-politiken.jpg?width=150&amp;quality=85)
 
 Fjärde upplagan. Avsikten med denna skrift är att ge en lättillgänglig och översiktlig bild av de politiska överväganden och beslut som legat bakom det stora och genomgripande samhällsbygge som den svenska barnomsorgen utgör. Fokus ligger på förskolans framväxt, det vill säga den verksamhet som i sig förenar omsorg och pedagogik och riktar sig till barn i åldern 1-6 år.
 

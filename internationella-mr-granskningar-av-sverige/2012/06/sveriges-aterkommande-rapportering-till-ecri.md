@@ -1,4 +1,4 @@
-# Sveriges återkommande rapportering till ECRI
+# ECRI:s återkommande granskning av Sverige
 
 Regeringen rapporterar återkommande till Europarådets kommission mot rasism och intolerans (ECRI).
 

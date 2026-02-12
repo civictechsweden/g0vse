@@ -9,31 +9,31 @@ Folk och Försvars årliga rikskonferens äger i år rum den 11–13 januari. St
 Statsminister **Ulf Kristersson** – Bygga trygghet och handlingskraft för Sverige
 
 [Tal: Statsministerns tal vid Folk och Försvar 2026](/tal/2026/01/statsministerns-tal-pa-folk-och-forsvars-rikskonferens-i-salen/)
-[Webb-tv: Statsministerns tal på Folk  och Försvars Youtube-kanal (youtube.com). - extern webbplats,](https://www.youtube.com/watch?v=dHmwJhQKA-M)
+[Webb-tv: Statsministerns tal på Folk och Försvars Youtube-kanal (youtube.com). - extern webbplats,](https://www.youtube.com/watch?v=dHmwJhQKA-M)
 
 Minister för civilt försvar **Carl-Oskar Bohlin** – Fredens pris
 
 [Tal: Ministern för civilt försvars tal på Folk och Försvars rikskonferens 2026](/tal/2026/01/ministern-for-civilt-forsvars-tal-pa-folk-och-forsvars-rikskonferens-2026/)
-[Webb-tv: Ministern för civilt försvars tal på Folk och Försvars Youtube-kanal (youtube.com). - extern webbplats,](https://www.youtube.com/watch?v=f7muFRKAHWY)
+[Webb-tv: Ministern för civilt försvars tal på Folk och Försvars Youtube-kanal (youtube.com). - extern webbplats,](https://www.youtube.com/watch?v=f7muFRKAHWY)
 
 ### Måndag 12 januari
 
 Utrikesminister **Maria Malmer Stenergard** – Nordiskt ledarskap för samarbete i oroliga tider
 
 [Tal: Utrikesministerns tal på Folk och Försvars rikskonferens 2026](/tal/2026/01/utrikesministerns-tal-vid-folk-och-forsvar-2026/)
-[Webb-tv: Utrikesministerns tal på Folk och Försvars Youtube-kanal (youtube.com) - extern webbplats,](https://www.youtube.com/watch?v=FbvTsvGj3zY)
+[Webb-tv: Utrikesministerns tal på Folk och Försvars Youtube-kanal (youtube.com) - extern webbplats,](https://www.youtube.com/watch?v=FbvTsvGj3zY)
 
 Försvarsminister **Pål Jonson** – Skapa förutsättningar för ökad militär förmåga
 
 [Tal: Försvarsministerns tal på Folk och Försvars rikskonferens 2026](/tal/2026/01/forsvarsministerns-tal-pa-folk-och-forsvars-rikskonferens-2026/)
-[Webb-tv: Försvarsministerns tal på Folk och Försvars Youtube-kanal (youtube.com) - extern webbplats,](https://www.youtube.com/watch?v=Gr_HTU9vhDI)
+[Webb-tv: Försvarsministerns tal på Folk och Försvars Youtube-kanal (youtube.com) - extern webbplats,](https://www.youtube.com/watch?v=Gr_HTU9vhDI)
 
 ### Tisdag 13 januari
 
 Justitieminister **Gunnar Strömmer** – Ett gemensamt ansvar att vända trenden
 
 Tal:
-Webb-tv:
+[Webb-tv: Justitieministerns tal på Folk och Försvars Youtube-kanal (youtube.com) - extern webbplats,](https://www.youtube.com/watch?v=F6fVxnee4eM)
 
 ---
 

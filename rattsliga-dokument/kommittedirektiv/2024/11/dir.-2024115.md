@@ -5,10 +5,10 @@ Regeringen beslutade den 2 oktober 2023 kommittédirektiv om anpassning av det s
 Utredaren ska nu bland annat
 
 * analysera och ta ställning till behovet av anpassningar av svensk rätt i
-  förhållande till bestämmelser i migrations- och asylpakten som avser
-  rättslig rådgivning, rättsligt bistånd och biträde,
+förhållande till bestämmelser i migrations- och asylpakten som avser
+rättslig rådgivning, rättsligt bistånd och biträde,
 * analysera och ta ställning till om det enligt svensk rätt ska vara möjligt
-  att neka prövning av en asylansökan i fler situationer, och
+att neka prövning av en asylansökan i fler situationer, och
 * lämna nödvändiga författningsförslag.
 
 Utredningstiden för delbetänkandet där de nya uppdragen ingår förlängs. Delbetänkandet ska redovisas senast den 31 mars 2025. Tidpunkten då slutbetänkandet senast ska lämnas är fortfarande den 2 oktober 2025.

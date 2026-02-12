@@ -1,4 +1,4 @@
-# Uppdrag till Inspektionen för vård och omsorg att kartlägga och kontrollera verksamheter med vilande tillståndDiarienummer:  S2026/00051
+# Uppdrag till Inspektionen för vård och omsorg att kartlägga och kontrollera verksamheter med vilande tillstånd
 
 Regeringen uppdrar åt Inspektionen för vård och omsorg, IVO, att kartlägga och kontrollera verksamheter med vilande tillstånd.
 

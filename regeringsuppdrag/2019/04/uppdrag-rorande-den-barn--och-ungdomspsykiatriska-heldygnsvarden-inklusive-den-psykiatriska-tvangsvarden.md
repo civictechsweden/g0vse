@@ -10,6 +10,6 @@ Arbetet ska bidra till att yrkesverksamma som möter och arbetar med barn i den 
 
 De frågor som ska aktualiseras i arbetet bör kunna variera över tid, beroende på behoven hos barn och hos vårdens professioner. Vissa frågor ska dock särskilt belysas i arbetet, bland annat bemötandefrågor och systematiskt kvalitetsarbete för att undvika tvångsåtgärder.
 
-I uppdraget bör Socialstyrelsen – där det är relevant – samverka med Barnombudsmannen (BO), professionsföreningar, barn med egen erfarenhet av psykiatrisk tvångsvård och tvångsåtgärder, patient-, brukar-, och anhörigorganisationer samt de övriga aktörer som Socialstyrelsen finner relevanta för uppdragets genomförande.
+I uppdraget bör Socialstyrelsen – där det är relevant – samverka med Barnombudsmannen (BO), professionsföreningar, barn med egen erfarenhet av psykiatrisk tvångsvård och tvångsåtgärder, patient-, brukar-, och anhörigorganisationer samt de övriga aktörer som Socialstyrelsen finner relevanta för uppdragets genomförande.
 
 Uppdraget ska slutredovisas till Regeringskansliet (Socialdepartementet) senast den 30 november 2022. En delrapportering av uppdraget ska ske årligen i årsredovisningen med start i årsredovisningen för 2019.

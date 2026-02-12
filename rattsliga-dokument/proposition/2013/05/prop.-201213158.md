@@ -10,5 +10,5 @@ Följande ändringar föreslås i lagen:
 * Skatteverket ska fatta beslut om upphävande av dödförklaring om det visar sig att den dödförklarade lever.
 
 De nya reglerna föreslås träda i kraft den 1 januari 2014.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________________________________________________
 Riksdagen fattade den 2 oktober 2013 beslut om propositionen. Läs mer om beslutet via länken i högerspalten

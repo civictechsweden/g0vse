@@ -2,7 +2,7 @@
 
 Regeringen uppdrar åt Statens energimyndighet (Energimyndigheten) att i fråga om det system för reduktionsplikt som tagits fram genom lagen (2017:1201) om reduktion av växthusgasutsläpp genom inblandning av biodrivmedel i bensin och dieselbränslen (reduktionspliktslagen) utreda och lämna förslag på bland annat reduktionsnivåer.
 
-Energimyndigheten får i uppdrag att  utreda och lämna förslag på
+Energimyndigheten får i uppdrag att utreda och lämna förslag på
 
 * reduktionsnivåer för åren 2021 till 2030 som ska bidra till att nå målet om 70 procent minskade utsläpp från inrikes transporter, utom luftfart, till 2030 jämfört med 2010
 * om en gemensam reduktionsnivå för bensin och dieselbränsle bör införas

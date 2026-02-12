@@ -1,4 +1,4 @@
-# Uppdrag att ta fram en myndighetsgemensam nationell plan för en bättre beroendevård och ett stärkt förebyggande arbeteDiarienummer: S2025/01284
+# Uppdrag att ta fram en myndighetsgemensam nationell plan för en bättre beroendevård och ett stärkt förebyggande arbete
 
 Regeringen ger nio myndigheter i uppdrag att ta fram en myndighetsgemensam nationell plan för en bättre beroendevård i hela landet.
 

@@ -13,7 +13,7 @@ EU föddes i ruinerna av andra världskrigets fasor, kriserna har format EU, och
 
 Den 1 januari tar Sverige över ordförandeskapet i EU:s ministerråd. Jag och den nya regeringen kommer då leda arbetet med att fördjupa EU:s många styrkor – men också för att stärka Europa där EU idag är för svagt. I december återkommer jag här inne med de svenska prioriteringarna. Men låt mig redan idag ta upp fyra samtida europeiska ödesfrågor.
 
-\*\*\*
+***
 
 Europas säkerhet är den första - den inre säkerheten och den yttre.
 
@@ -31,7 +31,7 @@ Kriget leder till större geopolitisk realism. Regeringen vill öka Sveriges rol
 
 Även för att öka Europas inre säkerhet måste samarbetet förbättras och fördjupas. Utan en hållfast yttre gräns så hotas den inre rörligheten. Därför behövs bättre gränsbevakning, liksom ökat polissamarbete. Den fria rörligheten inom EU förutsätter att den yttre gränsen respekteras.
 
-\*\*\*
+***
 
 Det andra ödesfrågan är klimatomställningen. Den nya regeringen ser EU som Sveriges viktigaste klimatpolitiska plattform – och EU som en av världens viktigaste klimataktörer.
 
@@ -47,7 +47,7 @@ Ska omställningen bli möjlig krävs en ny europeisk energipolitik. För klimat
 
 Kraftigt utbyggd energiproduktion med kärnkraft, vind, sol och vätgas kan tillsammans med vattenkraften göra oss helt fossilfria. Sverige har respekt för att varje land väljer sin egen energipolitik, men Sverige kommer nu bli en stark röst för att utveckla europeisk kärnkraft. Tillsammans med bland annat Frankrike och Finland kan vi bidra med mer fossilfri el till en robust energiunion.
 
-\*\*\*
+***
 
 Herr talman,
 
@@ -58,7 +58,7 @@ Därför måste den inre marknaden fördjupas, den digitala inre marknaden förv
 
 Innovation och forskning är ekonomins långsiktiga motor. Några av världens viktigaste uppfinningar är europeiska, och förbluffande många är svenska. Men i dag spenderar EU betydligt mindre på forskning och utveckling än USA, Japan eller Sydkorea. Att öka de investeringarna är avgörande för att europeiska företag ska hävda sig i den globala konkurrensen. Europa ska importera talanger till framtidsnäringar, inte exportera dem. Ett första steg är att EU:s medlemsländer når EU:s eget mål att investeringar i forskning och utveckling ska motsvara 3 procent av BNP.
 
-\*\*\*
+***
 
 EU är inte bara en politisk union. Det är en värderingsgemenskap, som vilar på rättsstaten och på respekten för individens fri- och rättigheter. EU förvaltar därmed en del av vårt europeiska idéarv, från upplysningstiden till våra dagar. Att vårda det arvet är den fjärde stora uppgiften.
 
@@ -74,7 +74,7 @@ En gemensam europeisk röst är nödvändig i relationen till Kina. Varje enskil
 
 Samtidigt behövs dialog med Kina – inte minst för klimatet. Klimatfrågan börjar och slutar med energifrågan, men klimatet börjar och slutar också i Kina.
 
-\*\*\*
+***
 
 EU bevisar gång på gång sin förmåga att hantera kriser. Men uppgiften är större än permanent krishantering. Det är politiska värderingar och politisk vilja som långsiktigt definierar våra framgångar.
 

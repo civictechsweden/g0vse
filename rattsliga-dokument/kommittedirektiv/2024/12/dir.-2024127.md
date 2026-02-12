@@ -6,9 +6,9 @@ Utredaren ska
 
 * analysera det nya direktivet om produktansvar,
 * analysera, jämföra och ta ställning till de valmöjligheter som direktivet
-  erbjuder,
+erbjuder,
 * bedöma vilka författningsändringar som behövs för att genomföra
-  direktivet, och
+direktivet, och
 * lämna nödvändiga författningsförslag.
 
 Uppdraget ska redovisas senast den 10 oktober 2025.

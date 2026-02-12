@@ -1,12 +1,12 @@
-# Uppdrag till en förhandlingsperson att omförhandla 2013 års Stockholmsförhandling och Sverigeförhandlingens Stockholmsdel samt klargöra förutsättningarna för genomförande och finansiering av Östlig förbindelse i Stockholms länDiarienummer: LI2025/01573
+# Uppdrag till en förhandlingsperson att omförhandla 2013 års Stockholmsförhandling och Sverigeförhandlingens Stockholmsdel samt klargöra förutsättningarna för genomförande och finansiering av Östlig förbindelse i Stockholms län
 
 Regeringen uppdrar åt den person som är utsedd till ordförande i Styrelsen för uppföljning m.m. av avtal om finansiering och medfinansiering av utbyggnad av tunnelbanan samt ökad bostadsbebyggelse i Stockholms län enligt 2013 års Stockholmsförhandling liksom i Styrelsen för uppföljning m.m. av ramavtal 6 – Storstad Stockholm om finansiering och medfinansiering avseende ökad tillgänglighet i storstäderna samt ökat bostadsbyggande enligt Sverigeförhandlingen, att som förhandlingsperson omförhandla de avtal som 2013 års Stockholmsförhandling förhandlade fram och den del av det avtal som Sverigeförhandlingen förhandlade fram som innefattar investeringar i Stockholms län (Avtalen).
 
-Förhandlingspersonen ska genomföra förhandlingar med Region Stockholm och berörda kommuner med målsättningen att kunna ingå överenskommelser om en hantering av kostnaderna, inklusive villkor för hur ytterligare eventuella kostnadsfördyringar ska hanteras.
+Förhandlingspersonen ska genomföra förhandlingar med Region Stockholm och berörda kommuner med målsättningen att kunna ingå överenskommelser om en hantering av kostnaderna, inklusive villkor för hur ytterligare eventuella kostnadsfördyringar ska hanteras.
 
-Förhandlingspersonen ska verka för att begränsa statens kostnadsökningar och i hanteringen av dessa pröva följande.
+Förhandlingspersonen ska verka för att begränsa statens kostnadsökningar och i hanteringen av dessa pröva följande.
 
-− Kostnadsminskningar avseende investeringar inom ramen för överenskommelsernas sammantagna beslutade budget.
+− Kostnadsminskningar avseende investeringar inom ramen för överenskommelsernas sammantagna beslutade budget.
 
 − Omprövning av funktioner eller objekt inom ramen för Avtalen
 
@@ -20,4 +20,4 @@ Förhandlingspersonen får beakta det som förhandlades fram av den av regeringe
 
 Förhandlingspersonen ska genomföra sitt arbete i nära dialog med Regeringskansliet (Landsbygds- och infrastrukturdepartementet) och Trafikverket.
 
-Förhandlingsresultatet ska redovisas senast 18 november 2025 till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).
+Förhandlingsresultatet ska redovisas senast 18 november 2025 till Regeringskansliet (Landsbygds- och infrastrukturdepartementet).

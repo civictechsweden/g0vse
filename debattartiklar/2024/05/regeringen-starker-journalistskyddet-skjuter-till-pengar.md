@@ -1,8 +1,8 @@
 # Regeringen stärker journalistskyddet: ”Skjuter till pengar”
 
-Att fria medier som vill, kan och orkar granska makten är en del av den demokratiska infrastrukturen missar vi sällan ett tillfälle att påminna om. Just i dag, på Pressfrihetens Dag, är det dock kanske viktigare än någonsin att göra det.
-
 Kulturminister Parisa Liljestrand och justitieminister Gunnar Strömmer, debattartikel, Dagens Media, den 3 maj 2024.
+
+Att fria medier som vill, kan och orkar granska makten är en del av den demokratiska infrastrukturen missar vi sällan ett tillfälle att påminna om. Just i dag, på Pressfrihetens Dag, är det dock kanske viktigare än någonsin att göra det.
 
 Runtom i världen ser vi hur fria medier tystas och journalister utsätts för hot, hat och repressalier när de enbart gör sitt arbete och rapporterar, granskar och upplyser.
 
@@ -27,7 +27,3 @@ Syftet är främst för att stötta frilansande journalister, som kanske inte ha
 Vi kommer också att skicka ut en inbjudan till ett rundabordssamtal i juni, där vi vill träffa mediebranschens aktörer för att kunna föra en dialog om hur vi på bästa sätt stärker skyddet för journalister i Sverige.
 
 Det är viktigt att prata om journalisters säkerhet på Pressfrihetens Dag. Men samtalet måste fortsätta året runt.
-
-Parisa Liljestrand, kulturminister
-
-Gunnar Strömmer, justitieminister

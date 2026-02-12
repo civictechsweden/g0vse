@@ -6,6 +6,8 @@ De tre protokollen som berörs är Göteborgsprotokollet, Protokollet om tungmet
 
 Sverige har varit drivande för att de tre protokollen ska antas och regeringen vill genom sitt godkännande sända en signal till fler länder att godkänna revideringarna. Ett snabbt godkännande av protokollen innebär att länderna öster om EU kan ansluta sig till konventionen, något som var prioriterat för Sverige och EU under förhandlingarna.
 
+
+
 ### Göteborgsprotokollet
 
 Protokollet som undertecknades 1999 och trädde i kraft 2005 syftar till att minska försurning, övergödning och marknära ozon. I protokollet fastställs nationella utsläppstak för svavel, kväveoxider, ammoniak och flyktiga organiska ämnen

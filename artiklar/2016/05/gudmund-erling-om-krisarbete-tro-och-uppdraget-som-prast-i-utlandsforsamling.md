@@ -18,7 +18,7 @@ Det är onsdagseftermiddag och snart dags för en av de mest välbesökta aktivi
 "Ung i Bryssel" vänder sig åldergruppen 20-25 år.
 - Antalet som kommer är inte så stort men de som kommer är väldigt regelbundna och det är en grupp vi värnar mycket om, säger Gudmund Erling.
 
-Just nu ökar antalet äldre svenskar i Brysselområdet. Många som kom hit under 1990-talets EU-invandring närmar sig nu pensionen och står inför valet att bo kvar eller försöka hitta tillbaka till en tillvaro i Sverige.
+Just nu ökar antalet äldre svenskar i Brysselområdet. Många som kom hit under 1990-talets EU-invandring närmar sig nu pensionen och står inför valet att bo kvar eller försöka hitta tillbaka till en tillvaro i Sverige.
 
 - Det är frågor som ofta kommer upp när man levt här med socialt nätverk, arbete och barn som har blivit stora. När detta blir frågor för folk i församlingen så blir de också kyrkans frågor. I främst Waterloo finns svenskar som kom hit redan på 1960- och 70-talen och börjar bli till åren. Dem försöker vi komma ut och besöka.
 
@@ -68,4 +68,4 @@ Kyrkan drevs till en början som sjömanskyrka i Antwerpen men flyttade till Wat
 
 Utöver Gudmund Erling, är kyrkomusiker Gunnar Gillfors och församlingspedagog Maria Ås utsända från Sverige. En husmor och en ekonom är lokalanställda på heltid respektive halvtid. Frivilliga krafter är en förutsättning för att kyrkan ska fungera. Serveringen och frivilliga medlemsavgifter är viktiga inkomster för att hålla verksamheten rullande.
 
-Församlingen är inte i närheten av de riktigt stora utlandsförsamlingarna i exempelvis London och Oslo. Men som Europas huvudstad är Bryssel prioriterat av Svenska kyrkan.
+Församlingen är inte i närheten av de riktigt stora utlandsförsamlingarna i exempelvis London och Oslo. Men som Europas huvudstad är Bryssel prioriterat av Svenska kyrkan.

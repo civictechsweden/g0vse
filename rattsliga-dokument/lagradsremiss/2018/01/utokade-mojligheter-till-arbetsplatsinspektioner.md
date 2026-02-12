@@ -6,4 +6,4 @@ Arbetsplatsinspektionerna ska begränsas till branscher där det har bedömts at
 
 Lagändringarna föreslås träda i kraft den 1 juli 2018.
 
-[Pressmeddelande: Polisen får utökade möjligheter att genomföra arbetsplatsinspektioner](/pressmeddelanden/2018/01/polisen-far-utokade-mojligheter-att-genomfora-arbetsplatsinspektioner/)
+[Pressmeddelande: Polisen får utökade möjligheter att genomföra arbetsplatsinspektioner](/pressmeddelanden/2018/01/polisen-far-utokade-mojligheter-att-genomfora-arbetsplatsinspektioner/)

@@ -28,7 +28,11 @@ Och när jag tog våra barn till Berlin för att se både Checkpoint Charlie och
 
 Desto viktigare att inte ge sig. Desto viktigare att se platserna, bevisen och höra berättelserna. Och ingenstans gör man det nog mer levande än på det enastående museet Yad Vashem strax utanför Jerusalem. Våra barn visste förstås, men var ändå helt tagna av den upplevelsen.
 
-\*\*\*
+
+
+***
+
+
 
 Om berättandet levandegör vår historia, så skapar det dessutom en annan tillgång för ett samhälle: det kollektiva minnet, samhällets roder i kursen mot framtiden. Som gör det möjligt för en hel nation eller ett helt folk att bära med sig tidigare generationers lärdomar. Och som skapar minnesplatser inom var och en av oss, trots att vi kanske själva inte var där.
 
@@ -44,7 +48,11 @@ Förintelsen har en särställning i vårt kollektiva minne – för skyddet av 
 
 Just därför är Förintelseöverlevarnas berättelser så viktiga. För att bevara det mänskliga minnet bortom den direkta mänskliga erfarenheten. Och för att långsiktigt motverka antisemitism och hat i vårt samhälle.
 
-\*\*\*
+
+
+***
+
+
 
 I dag syns allt fler tecken på att antisemitismen ökar – och några miljöer är särskilt riskabla. Vi har sedan länge nynazismen och den högerextrema subkulturen. Vi har sedan lika länge de vänsterextrema miljöernas konspirationsteorier – och nu har vi även i vårt land den intoleranta islamismen. De står för olika obehagliga idéer – men de förenas i hatet mot judar. Och därför ska vi andra förenas i att bekämpa antisemitismen – oavsett varifrån den kommer.
 

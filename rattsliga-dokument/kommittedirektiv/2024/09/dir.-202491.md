@@ -13,8 +13,8 @@ Sverige.
 Utredaren ska bland annat
 
 * analysera om möjligheterna att begränsa tiggeri bör utökas,
-* analysera hur väl den nuvarande ordningen med möjlighet till lokala ordningsföreskrifter fungerar,
-* analysera vilka för- och nackdelar den nuvarande regleringen har jämfört med ett nationellt förbud, och
-* oavsett ställningstagande i sak lämna författningsförslag som innebär att tiggeri förbjuds på nationell nivå.
+* analysera hur väl den nuvarande ordningen med möjlighet till lokala ordningsföreskrifter fungerar,
+* analysera vilka för- och nackdelar den nuvarande regleringen har jämfört med ett nationellt förbud, och
+* oavsett ställningstagande i sak lämna författningsförslag som innebär att tiggeri förbjuds på nationell nivå.
 
 Uppdraget ska redovisas senast den 26 juni 2025.

@@ -4,11 +4,11 @@
 
 Regeringen har efter riksdagens beslut utfärdat lag om ändring i miljöbalken. Lagen innehåller i huvudsak följande.
 
-– Undantaget för ringa brott avseende nedskräpningsförseelse tas bort från den 1 januari 2022. Det innebär att det blir straffbart (800 kr i penningböter) att kasta bort en cigarettfimp, ett kolapapper, ett tuggummi eller liknande.
+– Undantaget för ringa brott avseende nedskräpningsförseelse tas bort från den 1 januari 2022. Det innebär att det blir straffbart (800 kr i penningböter) att kasta bort en cigarettfimp, ett kolapapper, ett tuggummi eller liknande.
 
-– Nya uttryck införs på avfallsområdet. Det införs förklaringar av vad som avses med uttrycken system för utökat producentansvar för avfallshantering och producentansvarsorganisation. Dessutom görs ändringar i förklaringen av vad som avses med producent. Ändringarna görs för att lagstiftningen bättre ska stämma överens med EU:s avfallsdirektiv.
+– Nya uttryck införs på avfallsområdet. Det införs förklaringar av vad som avses med uttrycken system för utökat producentansvar för avfallshantering och producentansvarsorganisation. Dessutom görs ändringar i förklaringen av vad som avses med producent. Ändringarna görs för att lagstiftningen bättre ska stämma överens med EU:s avfallsdirektiv.
 
-– Bemyndiganden i 15 kap. miljöbalken ändras för att EU:s engångsplastdirektiv och de s.k. minimikraven i EU:s avfallsdirektiv ska kunna genomföras på förordningsnivå. Det införs bl.a. ett bemyndigande som gör det möjligt att föreskriva att producenter ska betala avgifter för att täcka det allmännas kostnader för hantering av avfall som skräpats ned. Det inför även ett bemyndigande i 14 kap. miljöbalken för att tydliggöra att föreskrifter får meddelas om hantering av bränslen.
+– Bemyndiganden i 15 kap. miljöbalken ändras för att EU:s engångsplastdirektiv och de s.k. minimikraven i EU:s avfallsdirektiv ska kunna genomföras på förordningsnivå. Det införs bl.a. ett bemyndigande som gör det möjligt att föreskriva att producenter ska betala avgifter för att täcka det allmännas kostnader för hantering av avfall som skräpats ned. Det inför även ett bemyndigande i 14 kap. miljöbalken för att tydliggöra att föreskrifter får meddelas om hantering av bränslen.
 
 Lagändringarna träder i kraft den 1 november 2021, utom ändringarna avseende straffansvaret som träder i kraft den 1 januari 2022.
 

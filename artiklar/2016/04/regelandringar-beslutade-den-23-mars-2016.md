@@ -23,4 +23,5 @@ För att genomföra de omarbetade direktiven kompletteras förordningen med best
 
 Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det skedde tisdagen den 5 april 2016.
 
-**Kontaktperson**Johan Lundberg 08–405 26 63
+**Kontaktperson**
+Johan Lundberg 08–405 26 63

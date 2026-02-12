@@ -1,4 +1,4 @@
-# Tilläggsdirektiv till FondmarknadsutredningenDir. 2025:45
+# Tilläggsdirektiv till Fondmarknadsutredningen
 
 Förlängd tid för uppdraget, och delbetänkande för delar av uppdraget.
 

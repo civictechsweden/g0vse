@@ -24,7 +24,7 @@ Och jag vet att människor runt om i vårt land känner med er. Vi delar sorg oc
 
 Det grova våldet måste få ett slut. De som utför brotten måste stoppas innan de sker. Och samhället måste skyddas från dem som är på väg i den riktningen.
 
-\*\*\*
+***
 
 Sorg och ilska. Fullt rimliga reaktioner. Men jag förstår också att många känner rädsla. Det är också rimligt. Varför hände det? Vad hade hänt innan det hände? Vem eller vilka hade motiv att brutalt döda tre unga killar? Allt detta är polisens uppgift att undersöka, reda ut och se till att de som ligger bakom brotten ställs inför rätta. Och jag vet att polisen har gripit flera misstänkta.
 
@@ -40,7 +40,7 @@ Vi går långt och vi går snabbt fram. För oss är ingenting viktigare än att
 
 Nu skyndar vi på den nya lagstiftningen. Och det som hände här i Uppsala är en smärtsam påminnelse om att vi inte får ge oss, att vi måste fortsätta. Låt oss ta tillbaka Sverige.
 
-\*\*\*
+***
 
 Förra året såg vi att det går att bryta utvecklingen. Vi såg att förändring är möjlig. Men också att det kommer bakslag. Vi vet att det här är svårt och att det kommer ta tid.
 
@@ -56,7 +56,7 @@ Men vi måste också bidra var och en. Inte bara fråga efter mina rättigheter,
 
 Tillsammans är vi som tror på det hederliga och skötsamma Sverige så många fler än de som vill kuva andra med sin makt och förstöra livet med sin hänsynslöshet.
 
-\*\*\*
+***
 
 Låt mig till sist tacka polisen. För det de gör och det de fortsätter göra. Men polisen måste få jobba ifred. Så jag ber er alla att respektera deras svåra jobb. Spekulera inte. Sprid inte rykten. Men dela med dig av det du vet.
 

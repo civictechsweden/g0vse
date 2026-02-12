@@ -4,7 +4,7 @@ Regeringen föreslår ändringar i föräldraförsäkringen, barnbidraget och bo
 
 ## Föräldrapenning när barnet skolas in
 
-Regeringen föreslår att en förälder –  även om föräldern inte har barnet i sin vård – kan få rätt till föräldrapenning för att vara med när barnets skolas in.
+Regeringen föreslår att en förälder – även om föräldern inte har barnet i sin vård – kan få rätt till föräldrapenning för att vara med när barnets skolas in.
 
 Regeringen föreslår att föräldraledighet med föräldrapenning vid besök hos mödravården och inskolning undantas från regeln att föräldraledighet får delas upp i högst tre perioder om året.
 
@@ -24,6 +24,6 @@ Regeringen föreslår också att lagen om särskild bestämmelse om bostadsbidra
 
 ## Försäkringskassan får direkt åtkomst till delar i Skatteverkets beskattningsdatabas
 
-Regeringen föreslår att Försäkringskassan får direktåtkomst till vissa uppgifter i Skatteverkets beskattningsdatabas. Detta om myndigheten behöver uppgifterna i ärenden om föräldrars betalningsskyldighet för underhållsstöd.
+Regeringen föreslår att Försäkringskassan får direktåtkomst till vissa uppgifter i Skatteverkets beskattningsdatabas. Detta om myndigheten behöver uppgifterna i ärenden om föräldrars betalningsskyldighet för underhållsstöd.
 
 Lagändringarna föreslås träda i kraft den 1 januari 2019.

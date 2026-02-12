@@ -27,5 +27,5 @@ Följande personer ingår i gruppen:
 * Regiondirektören Håkan Sandahl
 * Regiondirektören Rickard Simonsson
 * Programdirektören Britta Stenson
-* Generalsekreteraren  Ulrika Årehed Kågström
+* Generalsekreteraren Ulrika Årehed Kågström
 * Rektorn Annika Östman Wernerson

@@ -1,4 +1,4 @@
-# Skärpta krav i kommunal vuxenutbildning i svenska för invandrareDnr U2025/01590
+# Skärpta krav i kommunal vuxenutbildning i svenska för invandrare
 
 Lagrådsremissen innehåller förslag till ändringar i skollagen (2010:800) som innebär att kraven i kommunal vuxenutbildning i svenska för invandrare (sfi) skärps.
 

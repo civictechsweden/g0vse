@@ -8,5 +8,5 @@ Av såväl kulturella och historiska skäl som för statistik- och forskningsän
 Vidare föreslås bland annat att för begravningsavgifterna ska en enhetlig avgiftssats gälla för den begravningsverksamhet som bedrivs av huvudmännen inom Svenska kyrkan.
 
 Förslagen att utmönstra församling ur folkbokföringen och att införa en enhetlig begravningsavgift föreslås träda i kraft den 1 januari 2016. Övriga ändringar föreslås i huvudsak träda i kraft den 1 januari 2014.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________________________________________________
 Riksdagen fattade den 29 maj 2013 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

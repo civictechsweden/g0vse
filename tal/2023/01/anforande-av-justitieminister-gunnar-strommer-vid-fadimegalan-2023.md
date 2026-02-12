@@ -12,13 +12,13 @@ Det var den uppmaning som Fadime riktade till oss alla i sitt berömda tal i rik
 
 Fadime talade om alla de unga invandrarkvinnor som begränsas i sina livsval för att familjen vill ha kontroll. Det handlar om ett hedersförtryck med förfärliga konsekvenser. I Fadimes eget fall till och med dödliga. Det kan vi aldrig acceptera eller tolerera.
 
-\*\*\*
+***
 
 Vi har alla tagit del av protesterna i Iran. Kvinna, liv, frihet har blivit ett stridsrop som har engagerat en hel värld.
 
 Samtidigt sätter det ljuset på vårt eget samhälle.
 
-När förtrycket utövas av en teokratisk diktatur och med statens våldskapital – ja då blir konfliktlinjerna klara, och det blir enkelt att ta tydlig ställning.
+När förtrycket utövas av en teokratisk diktatur och med statens våldskapital – ja då blir konfliktlinjerna klara, och det blir enkelt att ta tydlig ställning.
 
 Men det är slående hur svårt det ofta blir när förtrycket uppträder mitt ibland oss, i ett fritt och öppet land som Sverige.
 
@@ -34,9 +34,9 @@ Signalerna från det politiska ledarskapet måste vara entydiga. Samma sak gäll
 
 Och samhället är större än staten. Det arbete som GAPF och andra aktörer i civilsamhället gör är helt ovärderligt. Både för att hjälpa de som utsätts för förtrycket, och för att informera och höja kunskapen om problemen.
 
-Regeringen prioriterar stödet till det förebyggande arbetet, och vi riktar särskilt stöd till kvinnors och flickors organisering i utsatta områden.
+Regeringen prioriterar stödet till det förebyggande arbetet, och vi riktar särskilt stöd till kvinnors och flickors organisering i utsatta områden.
 
-\*\*\*
+***
 
 Sverige ska vara ett land där kön, klass eller klan inte sätter gränser för individens frihet. Där rättigheter, skyldigheter och möjligheter gäller lika för alla.
 

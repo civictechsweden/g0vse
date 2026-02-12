@@ -5,10 +5,10 @@ Propositionen innehåller regeringens förslag till riktlinjer för den ekonomis
 Riktlinjerna för den ekonomiska politiken baseras på propositionens övriga innehåll, dvs. en beskrivning av finanspolitikens övergripande inriktning och en uppföljning av sysselsättningspolitiken, en bedömning av den makroekonomiska utvecklingen och den offentliga sektorns finanser, en uppföljning och bedömning av de budgetpolitiska målen och budgetutrymme, en uppföljning av statens budget samt en bedömning av finanspolitikens långsiktiga hållbarhet.
 
 I propositionen lämnas även förslag till vissa ändringar av utgiftsområdenas indelning.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+__________________________________________________________________
 Riksdagen fattade den 26 juni 2014 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+__________________________________________________________________
 För beställning av 2014 års ekonomiska vårproposition kontakta:
 Riksdagens tryckeriexpedition,
 100 12 Stockholm

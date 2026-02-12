@@ -3,3 +3,7 @@
 Guds hus är en gemensam mötesplats för muslimer och kristna i stadsdelen Fisksätra i Stockholm.
 
 Vid intresse från media för att följa med under besöket, kontakta pressekreterare Alexandra Örenmark. Se presskontakt nedan.
+
+Guds hus är en gemensam mötesplats för muslimer och kristna i stadsdelen Fisksätra i Stockholm.
+
+Vid intresse från media för att följa med under besöket, kontakta pressekreterare Alexandra Örenmark. Se presskontakt nedan.

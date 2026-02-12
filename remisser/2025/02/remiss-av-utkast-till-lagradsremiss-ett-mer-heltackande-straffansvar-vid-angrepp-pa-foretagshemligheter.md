@@ -1,4 +1,4 @@
-# Remiss av Ett mer heltäckande straffansvar vid angrepp på företagshemligheter (utkast till lagrådsremiss)Diarienummer: Ju2020/04525
+# Remiss av Ett mer heltäckande straffansvar vid angrepp på företagshemligheter (utkast till lagrådsremiss)
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat Ett mer heltäckande straffansvar vid angrepp på företagshemligheter (utkast till lagrådsremiss).
 

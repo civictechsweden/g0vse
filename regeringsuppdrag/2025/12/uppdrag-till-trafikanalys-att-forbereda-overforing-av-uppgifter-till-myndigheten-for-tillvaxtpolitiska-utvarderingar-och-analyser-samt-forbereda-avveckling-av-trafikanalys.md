@@ -1,4 +1,4 @@
-# Uppdrag till Trafikanalys att förbereda överföring av uppgifter till Myndigheten för tillväxtpolitiska utvärderingar och analyser samt förbereda avveckling av TrafikanalysDiarienummer: LI2025/02012
+# Uppdrag till Trafikanalys att förbereda överföring av uppgifter till Myndigheten för tillväxtpolitiska utvärderingar och analyser samt förbereda avveckling av Trafikanalys
 
 Regeringen ger Trafikanalys i uppdrag att dels förbereda överföring av myndighetens samtliga uppgifter så att dessa kan inordnas i Myndigheten för tillväxtpolitiska utvärderingar och analyser (Tillväxtanalys) den 1 januari 2027, dels förbereda avveckling av Trafikanalys så att myndigheten kan upp-höra den 31 december 2026.
 

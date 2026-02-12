@@ -4,7 +4,7 @@ Regeringen ger Myndig­heten för sam­hälls­skydd och beredskap (MSB) i uppdr
 
 Informa­tions­kampanjen ska spridas via ända­måls­enliga kanaler i syfte att nå ut till så många som möjligt. Den ska även genom­föras på flera språk, finnas till­gänglig på lätt svenska och vara tillgänglig­hets­anpassad.
 
-MSB ska vid genom­förandet av upp­draget ta tillvara erfaren­heter från informa­tions­kampanjen Tänk säkert samt förhålla sig till arbetet kopplat till EU:s  informa­tions­säkerhets­månad. MSB ska vidare beakta och vidare­utveckla de väg­ledningar och metod­stöd som tidigare tagits fram till mål­grupperna.
+MSB ska vid genom­förandet av upp­draget ta tillvara erfaren­heter från informa­tions­kampanjen Tänk säkert samt förhålla sig till arbetet kopplat till EU:s informa­tions­säkerhets­månad. MSB ska vidare beakta och vidare­utveckla de väg­ledningar och metod­stöd som tidigare tagits fram till mål­grupperna.
 
 Uppdraget ska genom­föras i dialog med de övriga myndig­heter som arbetar inom ramen för det nationella cyber­säkerhets­centret samt med andra relevanta myndig­heter och organisa­tioner.
 

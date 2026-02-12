@@ -1,4 +1,4 @@
-# Extra ändringsbudget för 2025Försvarsmateriel och ytterligare stöd till UkrainaProp. 2025/26:14
+# Extra ändringsbudget för 2025
 
 I denna proposition lämnar regeringen förslag till ändringar i statens budget för 2025. Förslagen är en följd av det försämrade säkerhetspolitiska läget i Sveriges närhet med anledning av Rysslands fullskaliga invasion av Ukraina.
 

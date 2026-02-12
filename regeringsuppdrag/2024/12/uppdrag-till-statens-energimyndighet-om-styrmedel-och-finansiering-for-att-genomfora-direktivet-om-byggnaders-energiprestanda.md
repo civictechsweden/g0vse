@@ -5,14 +5,14 @@ Regeringen ger Statens energimyndighet (Energimyndigheten) i uppdrag att ta fram
 Energimyndigheten ska
 
 1. analysera och kvantifiera vad som behövs i termer av
-   energieffektivisering för att Sverige ska nå de mål och gränsvärden
-   som finns i EPBD,
+energieffektivisering för att Sverige ska nå de mål och gränsvärden
+som finns i EPBD,
 2. föreslå åtgärder och styrmedel för att fylla det eventuella
-   effektiviseringsbehov som identifierats i punkt 1,
+effektiviseringsbehov som identifierats i punkt 1,
 3. analysera och lämna förslag på genomförande av artikel 17 om
-   ekonomiska incitament, kompetens och marknadshinder, samt för att
-   stödja efterlevnaden av minimistandarder för energiprestanda enligt
-   artikel 9.4,
+ekonomiska incitament, kompetens och marknadshinder, samt för att
+stödja efterlevnaden av minimistandarder för energiprestanda enligt
+artikel 9.4,
 4. ta fram underlag till de avsnitt som framgår av artikel 3.2 första
-   stycket c, d och h till utkastet till nationell byggnadsrenoveringsplan
-   och den slutliga nationella byggnadsrenoveringsplanen.
+stycket c, d och h till utkastet till nationell byggnadsrenoveringsplan
+och den slutliga nationella byggnadsrenoveringsplanen.

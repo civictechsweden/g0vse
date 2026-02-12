@@ -14,7 +14,7 @@ Hoten mot det fria och öppna samhället är som bekant inte bara militära. Det
 
 Men flera allvarliga hot kommer idag inifrån, och då tänker jag inte minst på den grova organiserade brottsligheten.
 
-\*\*\*
+***
 
 För en vecka sedan besökte jag Vällingby Centrum i nordvästra Stockholm. Det var där en man i 20-årsåldern sköts ihjäl utanför McDonalds vid halvsjutiden på nyårsafton.
 
@@ -36,7 +36,7 @@ Jag tvekar inte att kalla de grövsta brottslingarna för inhemska terrorister. 
 
 Den här förståelsen av dessa brottslingar som inhemska terrorister är, som jag ser det, central. Jag kommer strax tillbaka till det.
 
-\*\*\*
+***
 
 Låt mig bara först bredda perspektivet något, och kort beröra några andra aktuella hot mot vårt demokratiska samhälle.
 
@@ -58,7 +58,7 @@ Vår demokrati fungerar inte om människor låser in sig i sina lägenheter och 
 
 Demokratin fungerar inte heller om människor inte vill prata med polisen, om människor tror att socialtjänsten hjärntvättar barn, eller att domstolarna går i politikernas ledband.
 
-\*\*\*
+***
 
 Att möta alla de problem som jag nu talat om är en helt central uppgift för hela vårt samhälle.
 
@@ -92,7 +92,7 @@ Nu görs också historiska ekonomiska resursförstärkningar av hela rättsväse
 
 I dag kan jag också berätta att regeringen inom kort kommer att besluta om ett särskilt regeringsuppdrag till Polismyndigheten som handlar om att öka polisens operativa förmåga. Och då med särskilt fokus på effektivisering av den nationella operativa avdelningen, NOA, och av polisens nationella forensiska centrum, NFC.
 
-\*\*\*
+***
 
 Jag började det här anförandet med att konstatera att arbetet mot den grova organiserade brottligheten i grunden handlar om att försvara det fria och öppna samhället.
 

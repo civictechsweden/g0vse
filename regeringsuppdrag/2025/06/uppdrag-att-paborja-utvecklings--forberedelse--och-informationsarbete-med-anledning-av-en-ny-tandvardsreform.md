@@ -1,4 +1,4 @@
-# Uppdrag att påbörja utvecklings-, förberedelse- och informationsarbete med anledning av en ny tandvårdsreformDiarienummer: S2025/01239
+# Uppdrag att påbörja utvecklings-, förberedelse- och informationsarbete med anledning av en ny tandvårdsreform
 
 Regeringen ger Tandvårds- och läkemedelsförmånsverket i uppdrag att påbörja utvecklings-, förberedelse- och informationsarbete med anledning av införandet av en ny tandvårdsreform som baseras på förslagen i betänkandet Tiotandvård – ett förstärkt högkostnadsskydd för tandvård (SOU 2024:70).
 

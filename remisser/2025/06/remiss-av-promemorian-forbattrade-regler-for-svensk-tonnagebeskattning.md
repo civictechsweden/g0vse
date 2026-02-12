@@ -1,4 +1,4 @@
-# Remiss av promemorian Förbättrade regler för svensk tonnagebeskattningDiarienummer: Fi2025/01444
+# Remiss av promemorian Förbättrade regler för svensk tonnagebeskattning
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Förbättrade regler för svensk tonnagebeskattning.
 

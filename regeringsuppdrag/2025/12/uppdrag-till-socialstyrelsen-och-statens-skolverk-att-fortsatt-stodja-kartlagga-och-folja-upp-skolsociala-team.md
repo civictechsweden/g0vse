@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen och Statens skolverk att fortsatt stödja, kartlägga och följa upp skolsociala teamDiarienummer:  S2025/02169
+# Uppdrag till Socialstyrelsen och Statens skolverk att fortsatt stödja, kartlägga och följa upp skolsociala team
 
 Regeringen uppdrar åt Socialstyrelsen och Statens skolverk att fortsatt stödja skolhuvudmän och socialtjänst med att inrätta och organisera skolsociala team.
 

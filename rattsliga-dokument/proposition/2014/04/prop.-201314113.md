@@ -7,6 +7,6 @@ Vidare föreslås att en hänvisning i bestämmelserna om ingripande mot icke EE
 I propositionen föreslås slutligen ändringar i lagen om åtgärder mot penningtvätt och finansiering av terrorism som innebär att förvaltning av alternativa investeringsfonder ska omfattas av samma bestämmelser i den lagen som fondverksamhet enligt lagen om värdepappersfonder.
 
 Lagändringarna som avser bestämmelserna om Finansinspektionens möjligheter att ingripa mot icke EES-baserade AIF-förvaltare och om åtgärder mot penningtvätt och finansiering av terrorism föreslås träda i kraft den 1 augusti 2014. Övriga lagändringar föreslås träda i kraft den dag regeringen bestämmer.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+___________________________________________________________________
 
 Riksdagen fattade den 12 juni 2014 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

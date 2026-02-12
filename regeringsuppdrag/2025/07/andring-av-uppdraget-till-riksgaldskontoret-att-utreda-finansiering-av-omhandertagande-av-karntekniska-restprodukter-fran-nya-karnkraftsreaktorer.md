@@ -1,4 +1,4 @@
-# Ändring av uppdraget till Riksgäldskontoret att utreda finansiering av omhändertagande av kärntekniska restprodukter från nya kärnkraftsreaktorerDiarienummer: KN2025/00513 (delvis); KN2025/01506
+# Ändring av uppdraget till Riksgäldskontoret att utreda finansiering av omhändertagande av kärntekniska restprodukter från nya kärnkraftsreaktorer
 
 Regeringen ändrar uppdraget till Riksgäldskontoret (Riksgälden) att utreda finansiering av omhändertagande av kärntekniska restprodukter från nya kärnkraftsreaktorer, se regeringens beslut den 23 maj 2024 (KN2024/01133), den 5 juni 2024 (KN2024/01243) och den 17 oktober 2024 (KN2024/01812) på följande sätt.
 

@@ -1,4 +1,4 @@
-# En effektivare och mer ändamålsenlig anskaffning och användning av lokalerFi2025/02168
+# En effektivare och mer ändamålsenlig anskaffning och användning av lokaler
 
 I promemorian föreslås ändringar i förordningen (1993:528) om statliga myndigheters lokalförsörjning som innebär att en myndighet i sin lokalförsörjningsplanering ska verka för en effektiv och ändamålsenlig anskaffning och användning av lokaler.
 

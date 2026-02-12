@@ -6,7 +6,7 @@ Riksdagen har antagit regeringens förslag i propositionen Nordisk balansavräkn
 
 Lagändringarna innebär att Affärsverket svenska kraftnät (Svenska kraftnät) ska få uppdra åt någon annan att utföra balansavräkningen och att ett åtagande om balansansvar ska göras genom avtal dels med Svenska kraftnät, dels med den som utför avräkningen.
 
-Besluten om förordningarna innebär följdändringar i anslutning till de aktuella ändringarna i ellagen. Normgivningsbemyndigandet i 23 § förordningen om mätning, beräkning och rapportering av överförd el utgår, eftersom grundbemyndigandet i 8 kap. 11 § ellagen upphävs. Orden ”i balansavtal” utgår i 24 § 1 elförordningen med hänsyn till ändringar i 8 kap. 4 a och 4 b §§ ellagen, där ”balansavtalen” byts ut mot ”avtalen enligt 4 § andra stycket”.
+Besluten om förordningarna innebär följdändringar i anslutning till de aktuella ändringarna i ellagen. Normgivningsbemyndigandet i 23 § förordningen om mätning, beräkning och rapportering av överförd el utgår, eftersom grundbemyndigandet i 8 kap. 11 § ellagen upphävs. Orden ”i balansavtal” utgår i 24 § 1 elförordningen med hänsyn till ändringar i 8 kap. 4 a och 4 b §§ ellagen, där ”balansavtalen” byts ut mot ”avtalen enligt 4 § andra stycket”.
 
 ### Referenser
 

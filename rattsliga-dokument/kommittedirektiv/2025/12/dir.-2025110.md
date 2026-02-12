@@ -1,4 +1,4 @@
-# Tilläggsdirektiv till Utredningen om oberoende granskning av hållbarhetsrapporter samt en översyn av befintliga företagskategorier i årsredovisningslagen (Ju 2025:11)Dir. 2025:110
+# Tilläggsdirektiv till Utredningen om oberoende granskning av hållbarhetsrapporter samt en översyn av befintliga företagskategorier i årsredovisningslagen (Ju 2025:11)
 
 Uppdraget utvidgas och utredningstiden förlängs.
 

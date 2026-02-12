@@ -16,11 +16,11 @@ Varje ledarskapsdialog har två ordföranden. Dialog 1 leds av Kanada and Ecuado
 
 Målet är att de informella arbetsgrupperna ska:
 
-−         Ge input på utkasten till bakgrundsdokument för respektive dialog
+− Ge input på utkasten till bakgrundsdokument för respektive dialog
 
-−         Mobilisera engagemang och dela erfarenheter utifrån dialogens tema
+− Mobilisera engagemang och dela erfarenheter utifrån dialogens tema
 
-−         Identifiera åtgärder, rekommendationer och resultat som kan presenteras i ledarskapsdialogerna på Stockholm+50.
+− Identifiera åtgärder, rekommendationer och resultat som kan presenteras i ledarskapsdialogerna på Stockholm+50.
 
 De informella arbetsgrupperna består av representanter från relevanta medlemsstater och FN-organ, liksom representanter för intressentgrupper, ungdomar, näringsliv och industri, ursprungsbefolkningar, lokala myndigheter, icke-statliga organisationer, det vetenskapliga och tekniska samfundet, kvinnor och trosbaserade grupper.
 

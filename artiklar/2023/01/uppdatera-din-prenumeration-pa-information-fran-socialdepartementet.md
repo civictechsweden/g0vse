@@ -16,4 +16,5 @@ Dessa ansvarsområden samlas under politikområdena [Civila samhället och idrot
 Sedan årsskiftet har också två av Socialdepartementets politikområden på regeringen.se förändrats, vilket påverkar den som prenumererar.
 
 * Politikområdet ”Folkhälsa och sjukvård” är numer uppdelat i [Folkhälsa](/regeringens-politik/folkhalsa/) och [Sjukvård](/regeringens-politik/sjukvard/). Du väljer om du vill prenumerera på ett av dessa områden, eller båda två, i din prenumeration.
+
 * Politikområdet ”Socialtjänst inklusive äldreomsorg” är uppdelat i [Socialtjänst](/regeringens-politik/sjukvard/) och [Äldreomsorg](/regeringens-politik/aldreomsorg/). Du väljer om du vill prenumerera på ett av dessa områden, eller båda två, i din prenumeration.

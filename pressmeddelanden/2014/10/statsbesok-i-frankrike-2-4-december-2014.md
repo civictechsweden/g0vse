@@ -38,6 +38,6 @@ Statsbesöket avslutas sent torsdag eftermiddag.
 
 Svenska medierepresentanter behöver särskild ackreditering via UD för att kunna bevaka besöket på plats. Sista dag för ansökan är måndagen den 24 november 2014.
 
-- [Ansökan om ackreditering](http://ackreditering.ud.se/registration/statsbesok-i-frankrike-2-4-december-2014/)
+* [Ansökan om ackreditering](http://ackreditering.ud.se/registration/statsbesok-i-frankrike-2-4-december-2014/)
 
 För franska och internationella medier sker ackreditering via franska utrikesministeriet.

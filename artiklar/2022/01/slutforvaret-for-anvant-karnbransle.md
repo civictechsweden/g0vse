@@ -28,7 +28,7 @@ Regeringen ställer sig bakom Strålsäkerhetsmyndighetens bedömning att teknik
 
 ## Sverige och Finland först – använder unik svensk teknik
 
-Slutförvaret i Forsmark omfattar 500 tunnlar på 500 meters djup i urberget. Slutförvaret ska rymma 12 000 ton använt kärnbränsle förpackat i 6 000 kopparkapslar. KBS-3-metoden är utvecklad i Sverige och är en världsledande teknik för att ta hand om kärnavfallet. Samma teknik kommer användas i Finland. Vid tidpunkten för publicering av denna text har inga andra länder kommit så här långt för att ta om hand sitt kärnavfall.
+Slutförvaret i Forsmark omfattar 500 tunnlar på 500 meters djup i urberget. Slutförvaret ska rymma 12 000 ton använt kärnbränsle förpackat i 6 000 kopparkapslar. KBS-3-metoden är utvecklad i Sverige och är en världsledande teknik för att ta hand om kärnavfallet. Samma teknik kommer användas i Finland. Vid tidpunkten för publicering av denna text har inga andra länder kommit så här långt för att ta om hand sitt kärnavfall.
 
 ## Besluten innebär villkor och krav på skyddsåtgärder
 

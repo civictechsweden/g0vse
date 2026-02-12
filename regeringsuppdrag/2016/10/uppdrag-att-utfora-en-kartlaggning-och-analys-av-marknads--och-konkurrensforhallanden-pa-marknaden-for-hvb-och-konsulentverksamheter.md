@@ -14,4 +14,4 @@ Konkurrensverket ska samråda med Socialstyrelsen, Inspektionen för vård och o
 
 Konkurrensverket ska också tillvarata relevant kunskap och erfarenhet från andra myndigheter, företag och organisationer inom området samt uppmärksamma övriga iakttagelser och förhållanden som myndigheten finner lämpliga.
 
-Uppdraget ska slutredovisas till Socialdepartementet senast den 15 juni 2017.
+Uppdraget ska slutredovisas till Socialdepartementet senast den 15 juni 2017.

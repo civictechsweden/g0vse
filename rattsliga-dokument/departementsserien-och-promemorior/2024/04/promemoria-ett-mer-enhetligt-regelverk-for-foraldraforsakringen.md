@@ -1,4 +1,4 @@
-# Promemoria Ett mer enhetligt regelverk för föräldraförsäkringen
+# Ett mer enhetligt regelverk för föräldraförsäkringen
 
 Regeringskansliet föreslår en begränsning av möjligheten att använda lägstanivådagar. Även möjligheten att använda grundnivådagar på arbetsfri tid föreslås begränsas.
 

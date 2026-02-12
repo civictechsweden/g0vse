@@ -1,4 +1,4 @@
-# Promemoria En utvidgad insamling och utlämning av djurhälsodata
+# En utvidgad insamling och utlämning av djurhälsodata
 
 I denna promemoria föreslås en utvidgad skyldighet för veterinärer att lämna uppgifter om användning av läkemedel för behandling av djur och om andra åtgärder för behandling av djur, s.k. djurhälsodata, till Statens jordbruksverk (Jordbruksverket).
 

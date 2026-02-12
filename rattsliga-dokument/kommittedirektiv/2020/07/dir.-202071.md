@@ -6,9 +6,9 @@ En särskild utredare ska lämna förslag på hur företagares trygghetssystem k
 * Utredaren ska bland annat utreda hur sjukpenninggrundande inkomst ska fastställas för företagare med inkomst av näringsverksamhet från enskild firma, från ett handelsbolag eller från en europeisk ekonomisk intressegruppering,
 * utreda om åldersgränsen 55 år är ändamålsenlig som bortre gräns för möjligheten att kunna välja karenstid i sjukförsäkringen,
 * kartlägga bakgrunden till och analysera skälen för de nuvarande
-  skillnader i de olika regelverken beroende på val av företagsform i fråga om karensregler och sjuklöneansvar,
+skillnader i de olika regelverken beroende på val av företagsform i fråga om karensregler och sjuklöneansvar,
 * göra en helhetsöversyn av regler och processer kring företagares
-  trygghetssystem, och
+trygghetssystem, och
 * lämna nödvändiga författningsförslag.
 
 Deluppdraget att utreda om åldersgränsen 55 år är ändamålsenlig som

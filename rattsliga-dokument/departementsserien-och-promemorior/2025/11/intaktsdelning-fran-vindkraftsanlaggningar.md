@@ -1,4 +1,4 @@
-# Intäktsdelning från vindkraftsanläggningarKompletterande promemoria till betänkandet Värdet av vinden (SOU 2023:18)KN2025/02059
+# Intäktsdelning från vindkraftsanläggningar
 
 I promemorian föreslås en ny lag om intäktsdelning från vindkraftsanläggningar.
 

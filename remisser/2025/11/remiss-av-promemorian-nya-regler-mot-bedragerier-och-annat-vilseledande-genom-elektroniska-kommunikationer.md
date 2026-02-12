@@ -1,4 +1,4 @@
-# Remiss av promemorian Nya regler mot bedrägerier och annat vilseledande genom elektroniska kommunikationerDiarienummer: Fi2025/02192
+# Remiss av promemorian Nya regler mot bedrägerier och annat vilseledande genom elektroniska kommunikationer
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Nya regler mot bedrägerier och annat vilseledande genom elektroniska kommunikationer.
 

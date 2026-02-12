@@ -3,3 +3,7 @@
 Talet sänds på regeringens webbplats kl. 09.10.
 
 För högupplöst material kontakta Johanna Aschan, se presskontakt.
+
+Talet sänds på regeringens webbplats kl. 09.10.
+
+För högupplöst material kontakta Johanna Aschan, se presskontakt.

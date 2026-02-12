@@ -21,7 +21,9 @@ I Sverige har vi förmånen att få leva i en i grunden stark demokrati. Även o
 Och just därför får vi heller inte vara naiva. Även vår egen demokrati står inför utmaningar som vi inte får blunda för. Låt mig ta tre exempel:
 
 * Vi har alldeles för många människor som befinner sig i ett demokratiskt, kulturellt och socialt utanförskap där de grundläggande kunskaperna om demokratin och dess principer behöver öka. Här ser regeringen ett stort behov av stöttande insatser, framöver.
+
 * I vissa grupper i befolkningen är förtroendet lågt för myndigheter och andra offentliga institutioner. Vi ser också tendenser till att tilliten till den här demokratiska infrastrukturen har börjat politiseras på ett olyckligt sätt. Klyftorna mellan medborgare och våra demokratiska institutioner behöver minska.
+
 * Det demokratiska samtalet är också hotat från flera håll. Personer som uttrycker sin åsikt offentligt utsätts allt oftare för hot och hat samtidigt som det öppna samtalsklimatet allt för ofta begränsas av självcensur och åsiktskorridorer. Journalister och akademiker vittnar om en allt hårdare arbetsmiljö och vi ser också i mätningar att toleransen för oliktänkande minskar.
 
 Bilden är alltså splittrad: å ena sidan känner jag en enorm stolthet över den robusta, fria demokrati jag som kulturminister har ett särskilt ansvar för att främja. Å andra sidan är det också uppenbart att det inte går att slå sig till ro, att leva på sekelgamla lagrar.

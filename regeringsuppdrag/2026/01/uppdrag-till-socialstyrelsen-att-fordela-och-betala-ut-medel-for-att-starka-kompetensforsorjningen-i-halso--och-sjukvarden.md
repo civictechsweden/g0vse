@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att fördela och betala ut medel för att stärka kompetensförsörjningen i hälso- och sjukvårdenDiarienummer:  S2026/00092
+# Uppdrag till Socialstyrelsen att fördela och betala ut medel för att stärka kompetensförsörjningen i hälso- och sjukvården
 
 Regeringen uppdrar åt Socialstyrelsen att fördela, betala ut och följa upp medel till kommunerna och regionerna för att stärka kompetensförsörjningen inom hälso- och sjukvården.
 

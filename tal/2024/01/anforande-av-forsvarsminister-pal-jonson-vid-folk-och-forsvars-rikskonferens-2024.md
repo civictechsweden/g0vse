@@ -26,7 +26,7 @@ Jag delar försvarsberedningens bedömning att Sverige befinner sig i allvarstid
 
 Ett väpnat angrepp mot Sverige kan inte uteslutas. Kriget kan komma – också till oss.
 
-\*\*\*
+***
 
 I dessa allvarstider krävs det klarsynthet, handlingskraft och uthållighet.
 
@@ -62,11 +62,11 @@ De förmågekoalitioner som nu skapas inom Ukraine Defence Contact Group blir ce
 
 Fokus kommer att ligga på utbildning och nyproducerad försvarsmateriel för stärkt ukrainsk förmåga här och nu. Men också på att bygga upp landets framtida försvarsstyrkor och göra dom Nato-interoperabla.
 
-Jag vill särskilt tacka alla inom Försvarsmakten och FMV som arbetat med Ukrainastödet. Det är tack vare er professionalism  och hängivelse som Sverige kan ge ett så värdefullt bidrag till Ukrainas kamp.
+Jag vill särskilt tacka alla inom Försvarsmakten och FMV som arbetat med Ukrainastödet. Det är tack vare er professionalism och hängivelse som Sverige kan ge ett så värdefullt bidrag till Ukrainas kamp.
 
 Ert arbete gör det lätt att vara stolt som svensk försvarsminister i internationella sammanhang.
 
-\*\*\*
+***
 
 I dessa allvarstider ska Sverige i höst fatta ett historiskt totalförsvarsbeslut.
 
@@ -80,7 +80,7 @@ Kärnan i vår försvarsförmåga kommer alltid att bestå av att snabbt kunna m
 
 Fokus måste nu ligga på att stärka denna kärna genom en bättre balans mellan verkansförband och stödförband för att skapa en högre uthållighet i Försvarsmakten.
 
-Helt avgörande för om vi ska lyckas öka vår försvarsförmåga är Försvarsmaktens personal. Utan den kan vi inte växa.  Syftet med personalutredningen som presenterades igår är att öka tillgängligheten av både värnpliktiga och anställda soldater för krigsorganisationens behov.
+Helt avgörande för om vi ska lyckas öka vår försvarsförmåga är Försvarsmaktens personal. Utan den kan vi inte växa. Syftet med personalutredningen som presenterades igår är att öka tillgängligheten av både värnpliktiga och anställda soldater för krigsorganisationens behov.
 
 För det andra, kriget visar att en stark försvarsindustri är en viktig del av ett lands samlade försvarsförmåga.
 
@@ -94,7 +94,7 @@ Och staten medfinansierar investeringar när försvarsföretag söker EU-medel f
 
 Med målet att kunna skapa förutsättningar för att tredubbla produktionen av artillerigranater i Sverige inom ett par år.
 
-\*\*\*
+***
 
 För det tredje, kriget i Ukraina visar att innovationskraft och användningen av civil teknik är avgörande på slagfältet.
 
@@ -120,7 +120,7 @@ Därför arbetar regeringen med försvarsmyndigheterna att skapa bättre möjlig
 
 Det är tid för kraftsamling, även på dessa områden.
 
-\*\*\*
+***
 
 Ers majestät,
 

@@ -10,7 +10,7 @@ I går var en förtvivlad dag i Sverige.
 
 Elva personer dog, och flera skadades allvarligt, när den värsta masskjutningen i Sveriges historia ägde rum på en skola i Örebro.
 
-De personerna kom inte hem i går. Deras familjer behövde vakna utan dem i  morse. Och det kommer de behöva göra igen, och igen. Vi kan inte minska deras sorg. Men vi ska hjälpa dem att bära den.
+De personerna kom inte hem i går. Deras familjer behövde vakna utan dem i morse. Och det kommer de behöva göra igen, och igen. Vi kan inte minska deras sorg. Men vi ska hjälpa dem att bära den.
 
 Det är svårt att ta in det som har hänt. Och vi har fortfarande inte alla svar. Långtifrån. Jag vet, och jag ser på er, att vi alla är omskakade.
 

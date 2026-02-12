@@ -7,5 +7,5 @@ Regeringen instämmer delvis i Riksrevisionens iakttagelser. Regeringen anser at
 Regeringen fortsätter arbetet med att samordna de ekonomiska styrmedlen på klimat- och energiområdet så att styrningen blir mer samhällsekonomiskt effektiv och leder till att de klimat- och energipolitiska målen uppnås. Det fortsatta analysarbetet har hög prioritet inom Regeringskansliet.
 
 Regeringen arbetar kontinuerligt med att förtydliga utsläppsrapporteringen och göra uppskattningar av utsläppen utanför handelssystemet enklare att följa. Det Riksrevisionen anför om ansvar för samordning av analyser och samlad rapportering samt samspelet mellan styrmedel i förhållande till utsläppen är angeläget.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+__________________________________________________________
 Riksdagen fattade den 5 december 2012 beslut om skrivelsen. Läs mer om beslutet via länken i högerspalten.

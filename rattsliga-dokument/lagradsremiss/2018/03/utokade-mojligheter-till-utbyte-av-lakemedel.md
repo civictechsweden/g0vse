@@ -4,7 +4,7 @@ Förslaget i lagrådsremissen handlar om att läkemedel som har förskrivits uta
 
 Utbytet ska i huvudsak ske enligt samma principer som utbyte av läkemedel som har förskrivits inom förmånerna. Det föreslås vidare en bestämmelse om utbyte av läkemedel som har förskrivits kostnadsfritt enligt smittskyddslagen.
 
-Det föreslås en bestämmelse om att inköps- och försäljningspris som  fastställs av Tandvårds- och läkemedlesverket (TLV) ska gälla även när lökemedlet är kostnadsfritt enligt smittskyddslagen. Vissa följdändringar föreslås också.
+Det föreslås en bestämmelse om att inköps- och försäljningspris som fastställs av Tandvårds- och läkemedlesverket (TLV) ska gälla även när lökemedlet är kostnadsfritt enligt smittskyddslagen. Vissa följdändringar föreslås också.
 
 Ändringarna föreslås träda i kraft den 2 juni 2020.
 

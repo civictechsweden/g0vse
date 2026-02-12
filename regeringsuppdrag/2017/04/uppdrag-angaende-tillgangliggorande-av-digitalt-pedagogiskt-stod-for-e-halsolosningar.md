@@ -6,7 +6,7 @@ Stödet ska utgå ifrån analysen som gjordes i Utredningen om rätt information
 
 I uppdraget ingår att:
 
-* utifrån målgruppens perspektiv analysera hur stödet bör utformas för att säkerställa användbarhet och nytta,
+* utifrån målgruppens perspektiv analysera hur stödet bör utformas för att säkerställa användbarhet och nytta,
 * analysera hur uppdraget kopplar till andra pågående, eller tidigare projekt, som handlar om informationshantering och e-hälsa inom och mellan vård och omsorg,
 * utifrån analyserna ta fram ett digitalt pedagogiskt stöd som tillgängliggörs för målgrupperna, samt
 * föreslå en plan för framtida förvaltning av det digitala pedagogiska stödet.

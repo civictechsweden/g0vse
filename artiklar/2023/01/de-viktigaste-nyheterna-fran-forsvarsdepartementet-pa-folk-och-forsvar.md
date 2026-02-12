@@ -47,4 +47,4 @@ Ett prioriterat område för totalförsvaret är även cybersäkerheten. Carl-Os
 
 Försvarsminister Pål Jonson avslutade sitt tal med ett hoppfullt budskap.
 
-–  Det görs nu, i bred politisk enighet, historiska satsningar på totalförsvaret. Vi är på väg in i Nato och Nato blir starkare. Ukraina med stöd av väst står upp mot det auktoritära Ryssland och sammanhållningen inom EU och Nato är starkare än någonsin. Det finns skäl för hopp även i dessa mörka och farliga tider.
+– Det görs nu, i bred politisk enighet, historiska satsningar på totalförsvaret. Vi är på väg in i Nato och Nato blir starkare. Ukraina med stöd av väst står upp mot det auktoritära Ryssland och sammanhållningen inom EU och Nato är starkare än någonsin. Det finns skäl för hopp även i dessa mörka och farliga tider.

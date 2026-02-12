@@ -20,7 +20,7 @@ Sista dag att svara på remissen är fredagen den 22 januari 2016.
 12. Nationalföreningen för trafiksäkerhetens främjande (NTF)
 13. Svensk Försäkring
 
-Remissvaren ska ha inkommit till Näringsdepartementet senast fredagen 22 januari 2016 till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator") samt [Peter Kalliopuro](mailto:peter.kalliopuro@regeringskansliet.se "Peter Kalliopuro") . Svaren bör lämnas per e-post. Uppge Näringsdepartementets diarienummer N2015/07991/MRT.
+Remissvaren ska ha inkommit till Näringsdepartementet senast fredagen 22 januari 2016 till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator") samt [Peter Kalliopuro](mailto:peter.kalliopuro@regeringskansliet.se "Peter Kalliopuro"). Svaren bör lämnas per e-post. Uppge Näringsdepartementets diarienummer N2015/07991/MRT.
 
 I remissen ligger att regeringen vill ha synpunkter på förslaget i promemorian om bärgning av långa fordon.
 

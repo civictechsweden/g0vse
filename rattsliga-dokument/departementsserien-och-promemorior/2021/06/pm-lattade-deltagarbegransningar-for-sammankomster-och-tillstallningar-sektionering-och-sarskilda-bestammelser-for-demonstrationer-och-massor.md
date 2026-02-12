@@ -1,4 +1,4 @@
-# PM Lättade deltagarbegränsningar för sammankomster och tillställningar, sektionering och särskilda bestämmelser för demonstrationer och mässor
+# Lättade deltagarbegränsningar för sammankomster och tillställningar, sektionering och särskilda bestämmelser för demonstrationer och mässor
 
 Regeringskansliet föreslår att deltagartaken för allmänna sammankomster och offentliga tillställningar i begränsningsförordningen höjs. Man föreslår också att det genom att dela in lokaler, områden och utrymmen i sektioner ska vara möjligt med fler deltagare än vad deltagartaken annars medger för en och samma sammankomst eller tillställning, det vill säga att deltagartaken gäller för varje sektion.
 

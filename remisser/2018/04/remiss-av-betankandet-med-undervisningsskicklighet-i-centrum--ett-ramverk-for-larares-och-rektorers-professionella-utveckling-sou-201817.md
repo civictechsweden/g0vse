@@ -2,7 +2,7 @@
 
 Här kan du ta del av till vilka instanser som regeringen har remitterat betänkandet Med undervisningsskicklighet i centrum – ett ramverk för lärares och rektorers professionella utveckling (SOU 2018:17).
 
-Sista dag att svara på remissen är den 29 juni 2018.
+Sista dag att svara på remissen är den 29 juni 2018.
 
 ## Remissinstanser
 

@@ -9,6 +9,6 @@ I rapporten konstateras att den svenska bostadsmarknaden kännetecknas av inlås
 * Sänk reavinst- och stämpelskatt och finansiera sänkningarna med en liten höjning av fastighetsskatten.
 * Stärk den finansiella stabiliteten genom små successiva förändringar, t.ex. ett stegvis införande av amorteringskrav och ränteavdrag.
 
-För frågor om rapporten, kontakta Monika Hjeds Löfmark,  tel. 0703-32 22 18.
+För frågor om rapporten, kontakta Monika Hjeds Löfmark, tel. 0703-32 22 18.
 
 För ytterligare information om Långtidsutredningens arbete, kontakta departementsråd Peter Frykblom, tel. 08-405 24 29, eller besök utredningens hemsida www.regeringen.se/lu

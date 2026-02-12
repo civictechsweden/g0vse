@@ -8,4 +8,4 @@ Johan Berggren representerade Sverige på mötet då han är utsedd Senior Natio
 
 Programmet för mötet var uppbyggt runt ett scenario med flera parallella kriser, som deltagarna fick diskutera kring. Fokus för diskussionerna var behoven av planering och förberedelser inom områdena resiliens, civil beredskap och värdlandsstöd.
 
- Tyskland och Polen stod värd för mötet.
+Tyskland och Polen stod värd för mötet.

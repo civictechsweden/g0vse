@@ -6,7 +6,7 @@ Utvidgningen av Schengensamarbetet, migrationsfrågor och en lång rad åtgärde
 
 ### Arbetet mot straffrihet
 
-Ministrarna antog slutsatser i syfte att bekämpa strafflöshet för brott begångna i samband med Rysslands anfallskrig mot Ukraina. Slutsatserna handlar[DB1]  bland annat om internationella brottmålsdomstolens betydelse och samarbetet mellan brottsbekämpande aktörer i EU liksom om specialiserade krigsbrottsenheter i medlemsländerna.
+Ministrarna antog slutsatser i syfte att bekämpa strafflöshet för brott begångna i samband med Rysslands anfallskrig mot Ukraina. Slutsatserna handlar[DB1] bland annat om internationella brottmålsdomstolens betydelse och samarbetet mellan brottsbekämpande aktörer i EU liksom om specialiserade krigsbrottsenheter i medlemsländerna.
 
 ### Flyktingar från Ukraina
 

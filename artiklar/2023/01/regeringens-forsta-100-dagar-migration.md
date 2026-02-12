@@ -34,9 +34,9 @@ Regeringen har genomfört flera åtgärder på migrationsområdet sedan regering
 * Utredning för att anpassa asyllagstiftningen till den rättsliga miniminivån enligt EU-rätten.
 * Utredning för att se över regelverket om förvar av utlänningar – bl.a. ökad säkerhet och elektronisk övervakning som alternativ.
 * Tilläggsdirektiv till utredningar om:
-  - En behovsprövad arbetskraftsinvandring
-  - Åtgärder för att stärka återvändandeverksamheten
-  - Ett ordnat initialt mottagande av asylsökande
+- En behovsprövad arbetskraftsinvandring
+- Åtgärder för att stärka återvändandeverksamheten
+- Ett ordnat initialt mottagande av asylsökande
 
 ## Mål för samarbetsprojektet migration och integration
 

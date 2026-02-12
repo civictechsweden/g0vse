@@ -22,4 +22,6 @@ Ministrarna väntas diskutera utrikes- och säkerhetspolitiska aspekter av EU:s 
 
 EU och länderna på Västra Balkan bör tydligt bekräfta sitt ömsesidiga och strategiska intresse för Europas säkerhet och den regelbaserade europeiska säkerhetsordningen. Ett utökat samarbete är av strategisk betydelse också i ett läge då andra aktörer strävar efter att stärka sitt inflytande i regionen. EU-närmandet är även ett instrument för att stärka genomgripande samhällsreformer och institutioner i länderna på Västra Balkan.
 
+
+
 **Producerat av EU-representationen.**

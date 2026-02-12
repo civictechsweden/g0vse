@@ -9,8 +9,8 @@ swing pricing bara om
 * den metod som fondbolaget tillämpar innebär att ett justerat fondandelsvärde beräknas och används,
 * fondbolaget har den organisation, de system och den kompetens som krävs för att tillämpa metoden, och
 * det förfarande som fondbolaget tillämpar när det använder metoden
-  – är förenligt med fondandelsägarnas gemensamma intresse, och
-  – ger betryggande möjligheter till insyn och kontroll.
+– är förenligt med fondandelsägarnas gemensamma intresse, och
+– ger betryggande möjligheter till insyn och kontroll.
 
 I fondbestämmelserna ska det anges om justerat fondandelsvärde tillämpas och, i så fall, vilken metod som används för beräkningen.
 

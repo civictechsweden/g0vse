@@ -2,7 +2,7 @@
 
 ## Ändringar gällande tatueringsfärger och miljötillsynsförordningen
 
-Regeringen har beslutat om ändringar i förordningen om tatueringsfärger och i miljötillsynsförordningen, dels för att anpassa dessa till att tatueringsfärger från och med den 5 januari 2022 omfattas av begränsningar enligt bilaga XVII till EU:s kemikalieförordning (Reach-förordningen), dels för att tillsynsansvaret ska kvarstå hos Läkemedelsverket.
+Regeringen har beslutat om ändringar i förordningen om tatueringsfärger och i miljötillsynsförordningen, dels för att anpassa dessa till att tatueringsfärger från och med den 5 januari 2022 omfattas av begränsningar enligt bilaga XVII till EU:s kemikalieförordning (Reach-förordningen), dels för att tillsynsansvaret ska kvarstå hos Läkemedelsverket.
 
 Europeiska kommissionen har med stöd av Reach-förordningen (1907/2006/EG) beslutat en genomförandeförordning om att ämnen som används i blandningar som är avsedda att användas vid permanent makeup, kosmetisk tatuering, mikrobladsteknik eller mikropigmentering (tatueringsfärger) ska läggas till i en ny post 75 i bilaga XVII till Reach-förordningen. Regleringen innebär begränsningar av tillverkningen, utsläppande på marknaden och användningen av farliga ämnen i tatueringsfärger, och ska tillämpas från och med den 5 januari 2022.
 

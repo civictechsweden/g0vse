@@ -8,12 +8,12 @@ anpassa svensk rätt till EU:s reviderade regelverk om VIS-systemet.
 Förslagen handlar om
 
 * att det ska tydliggöras i vilka situationer en utlänning är skyldig att
-  lämna fingeravtryck och låta sig fotograferas för att en kontroll mot
-  systemet ska kunna genomföras
+lämna fingeravtryck och låta sig fotograferas för att en kontroll mot
+systemet ska kunna genomföras
 * att en skyldighet att lämna fingeravtryck och låta sig fotograferas ska
-  införas i ärenden om nationell visering
+införas i ärenden om nationell visering
 * hur personuppgifterna ska behandlas
 * hur regelverket ska förhålla sig till annan reglering om behandling av
-  personuppgifter.
+personuppgifter.
 
 Lagändringarna föreslås träda i kraft den dag regeringen bestämmer.

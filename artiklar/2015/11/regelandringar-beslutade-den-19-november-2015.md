@@ -4,9 +4,9 @@
 
 Regeringen har beslutat att i förordningen om avgifter för prövning och tillsyn enligt miljöbalken införa nya bestämmelser om
 
-* en årlig prövnings- och tillsynsavgift med 275 000 kr för tillståndspliktiga insamlingssystem för konsumentelavfall,
-* en årlig tillsynsavgift med 1 000 kr för en producent som har skyldigheter enligt förordningen (2014:1075) om producentansvar för elutrustning,
-* en årlig tillsynsavgift med 1 000 kr för en producent som har skyldigheter enligt förordningen (2008:834) om producentansvar för batterier.
+* en årlig prövnings- och tillsynsavgift med 275 000 kr för tillståndspliktiga insamlingssystem för konsumentelavfall,
+* en årlig tillsynsavgift med 1 000 kr för en producent som har skyldigheter enligt förordningen (2014:1075) om producentansvar för elutrustning,
+* en årlig tillsynsavgift med 1 000 kr för en producent som har skyldigheter enligt förordningen (2008:834) om producentansvar för batterier.
 
 Enligt förordningen om producentansvar för elutrustning krävs tillstånd för yrkesmässig insamling av konsumentelavfall. Naturvårdsverket prövar ansökningar om tillstånd och utövar tillsyn över insamlingssystemen. Naturvårdsverket utövar också tillsyn över att producenter fullgör sina skyldigheter enligt förordningen om producentansvar för elutrustning och förordningen om producentansvar för batterier. Exempel på producentansvar är märkning av elutrustning och batterier och utformning av sådana produkter på visst sätt samt att se till att produkter som görs tillgängliga på marknaden samlas in och tas om hand.
 
@@ -25,7 +25,7 @@ På grund av ändrade EU-regler om en avfallsförteckning och om hur man ska gö
 ### Referenser:
 
 * Europaparlamentets och rådets direktiv 2008/98/EG av den 19 november 2008 om avfall och om upphävande av vissa direktiv
-* kommissionens förordning (EU) nr 1357/2014 av den 18 december 2014 om ersättning av bilaga III till Europaparlamentets och rådets direktiv 2008/98/EG om avfall och om upphävande av vissa direktiv
+* kommissionens förordning (EU) nr 1357/2014 av den 18 december 2014 om ersättning av bilaga III till Europaparlamentets och rådets direktiv 2008/98/EG om avfall och om upphävande av vissa direktiv
 * kommissionens beslut (2014/955/EU) av den 18 december 2014 om ändring av beslut 2000/532/EG om en förteckning över avfall enligt Europaparlamentets och rådets direktiv 2008/98/EG
 * avfallsförordningen (2011:927)
 
@@ -33,14 +33,14 @@ På grund av ändrade EU-regler om en avfallsförteckning och om hur man ska gö
 
 Riksdagen har behandlat regeringens proposition Ny instansordning för va-målen och regeringen har utfärdat lagändringarna enligt riksdagens beslut. Innebörden av lagändringarna är att Statens va-nämnd upphör och att va-tvister fortsättningsvis prövas i mark- och miljödomstol som första instans.
 
-I samband med utfärdandet av lagändringarna har regeringen även beslutat om de förordningsändringar som behövs för att genomföra instansordningsreformen. Främst handlar det om att ta bort hänvisningar till va-nämnden. Ändringar görs också i förordningen om avgifter vid de allmänna domstolarna. Ansökningsavgiften i va-mål som avser värden som inte uppenbart överstiger hälften av prisbasbeloppet (ca 22 000 kronor) ska vara 900 kronor. För övriga va-mål kommer ansökningsavgiften att uppgå till 2 800 kronor.
+I samband med utfärdandet av lagändringarna har regeringen även beslutat om de förordningsändringar som behövs för att genomföra instansordningsreformen. Främst handlar det om att ta bort hänvisningar till va-nämnden. Ändringar görs också i förordningen om avgifter vid de allmänna domstolarna. Ansökningsavgiften i va-mål som avser värden som inte uppenbart överstiger hälften av prisbasbeloppet (ca 22 000 kronor) ska vara 900 kronor. För övriga va-mål kommer ansökningsavgiften att uppgå till 2 800 kronor.
 
 Författningsändringarna träder i kraft den 1 januari 2016.
 
 ### Referenser:
 
 * Va-nämndsutredningens betänkande Ny instansordning för va-målen (SOU 2011:53)
-* Socialdepartementets promemoria Förändrad instansordning för va-målen (dnr S2013/7406/PBB)
+* Socialdepartementets promemoria Förändrad instansordning för va-målen (dnr S2013/7406/PBB)
 * regeringens proposition Ny instansordning för va-målen (prop. 2015/16:11)
 * civilutskottets betänkande 2015/16:CU8 Ny instansordning för va-målen
 * riksdagsskrivelse 2015/16:37

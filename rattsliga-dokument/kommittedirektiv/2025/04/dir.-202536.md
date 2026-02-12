@@ -7,13 +7,13 @@ En särskild utredare ska se över reglerna om passageraruppgifter i brottsbekä
 Utredaren ska bl.a.
 
 * analysera och ta ställning till vilka förändringar av den svenska
-  regleringen i fråga om flygpassageraruppgifter i brottsbekämpningen
-  som behöver göras med anledning av EU-domstolens praxis,
+regleringen i fråga om flygpassageraruppgifter i brottsbekämpningen
+som behöver göras med anledning av EU-domstolens praxis,
 * analysera och ta ställning till om den svenska regleringen i fråga om
-  flygpassageraruppgifter i brottsbekämpningen bör göras neutral vad
-  gäller trafikslag och samtidigt se över nuvarande möjligheter att inhämta
-  tillgängliga passageraruppgifter från andra transportföretag, och
+flygpassageraruppgifter i brottsbekämpningen bör göras neutral vad
+gäller trafikslag och samtidigt se över nuvarande möjligheter att inhämta
+tillgängliga passageraruppgifter från andra transportföretag, och
 * lämna förslag på de författningsändringar och andra åtgärder som
-  bedöms nödvändiga.
+bedöms nödvändiga.
 
 Uppdraget ska redovisas senast den 14 april 2026.

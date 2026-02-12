@@ -10,13 +10,13 @@ I uppdraget ingår att inleda nya insatser inom främst det strategiska området
 
 Länsstyrelsen i Kronobergs län ska anpassa det befintliga it-systemet för primärproducenter (Primör) för att även inkludera jägare som får leverera små mängder vildsvinskött direkt till konsumenter. Arbetet ska koordineras med Livsmedelsverkets föreskriftsarbete (N2020/01010/DL).
 
-Länsstyrelsen i Kronobergs län får för åtgärdens genomförande använda 1 miljon kronor under 2020.
+Länsstyrelsen i Kronobergs län får för åtgärdens genomförande använda 1 miljon kronor under 2020.
 
 **Kartläggning av befintliga uppsamlingscentraler**
 
 Länsstyrelserna ska genomföra en nationell kartläggning av befintliga uppsamlingscentraler som kan användas för tillfällig förvaring av fällda vilt i väntan på vidare transport till en vilthanteringsanläggning.
 
-Länsstyrelsen i Kronobergs län ska samordna arbetet och redovisa kartläggningen till regeringen (Näringsdepartementet) senast den 1 mars 2021. Länsstyrelserna får för åtgärdens genomförande använda 1,5 miljoner kronor under 2020.
+Länsstyrelsen i Kronobergs län ska samordna arbetet och redovisa kartläggningen till regeringen (Näringsdepartementet) senast den 1 mars 2021. Länsstyrelserna får för åtgärdens genomförande använda 1,5 miljoner kronor under 2020.
 
 Åtgärder som ska genomföras 2021
 

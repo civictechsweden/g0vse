@@ -1,6 +1,6 @@
 # UD uppmärksammar att EU:s inre marknad fyller 25 år
 
-![](/contentassets/ce45f9433c1c41c489249cea96b8f7dc/omslag.jpg?width=150&quality=85)
+![](/contentassets/ce45f9433c1c41c489249cea96b8f7dc/omslag.jpg?width=150&amp;quality=85)
 
 När Maastrichtfördraget trädde i kraft 1993 fördjupades EU:s inre marknad. Det har öppnat upp stora möjligheter för människor och företag runt om i Europa, möjligheter som vi ibland ser som självklara. För Sverige och svensk handel har den inre marknaden och de fyra friheterna haft stor betydelse.
 

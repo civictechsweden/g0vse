@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att stötta arbetet med att stärka kompetensen och kvaliteten på HVB och stödboendeDiarienummer: S2025/01231
+# Uppdrag till Socialstyrelsen att stötta arbetet med att stärka kompetensen och kvaliteten på HVB och stödboende
 
 Regeringen ger Socialstyrelsen i uppdrag att stötta verksamheterna i arbetet med att höja kompetensen hos den personal som arbetar vid HVB eller stödboende.
 

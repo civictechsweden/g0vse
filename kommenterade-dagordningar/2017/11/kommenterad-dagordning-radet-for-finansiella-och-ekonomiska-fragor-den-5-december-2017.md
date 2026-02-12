@@ -1,6 +1,6 @@
 # Kommenterad dagordning, rådet för finansiella och ekonomiska frågor, den 5 december 2017
 
-På Ekofinrådets möte den 5 december 2017 finns följande punkter på dagordningen:
+På Ekofinrådets möte den 5 december 2017 finns följande punkter på dagordningen:
 
 * Förstärkning av bankunionen
 * Paketet om moms på e-handel

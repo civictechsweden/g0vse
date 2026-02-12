@@ -1,6 +1,6 @@
 # Strategi för företag  i kulturella och kreativa  branscher - kortversion
 
-![](/contentassets/bfd30486541f4bc6bdc0c044b2138fe8/strategi-for-foretag-i-kulturella-och-kreativa-branscher---kortversion.jpg?width=150&quality=85)
+![](/contentassets/bfd30486541f4bc6bdc0c044b2138fe8/strategi-for-foretag-i-kulturella-och-kreativa-branscher---kortversion.jpg?width=150&amp;quality=85)
 
 Regeringen överlämnade i april 2024 skrivelsen Strategi för företag i kulturella och kreativa branscher (skr. 2023/24:111) till riksdagen. I denna publikation återges en kortversion av innehållet.
 

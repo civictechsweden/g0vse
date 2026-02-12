@@ -4,7 +4,7 @@
 
 Regeringen har beslutat om ändringar i förordningen om producentansvar för batterier respektive förordningen om producentansvar för elutrustning för att tydliggöra att uppgifter som samlas in med stöd av förordningarna också får användas av Naturvårdsverket för att framställa statistik.
 
-De nya bestämmelserna träder i kraft den 1 april 2022.
+De nya bestämmelserna träder i kraft den 1 april 2022.
 
 **Referenser:**
 

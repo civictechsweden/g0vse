@@ -1,6 +1,6 @@
 # Förebygga, förhindra och försvåra – den svenska strategin mot terrorism
 
-![](/contentassets/d4fdc4bc1c314fdfb9aa6c7a3da9bc93/omslag.jpg?width=150&quality=85)
+![](/contentassets/d4fdc4bc1c314fdfb9aa6c7a3da9bc93/omslag.jpg?width=150&amp;quality=85)
 
 Terrorism hotar internationell fred och säkerhet, nationell säkerhet och våra grundläggande fri- och rättigheter. Varje år begås åtskilliga terroristattentat i världen. De senaste åren har problematiken med utländska terroriststridande accelererat kraftigt och det finns i nuläget inga tecken på att den utvecklingen kommer att avta.
 

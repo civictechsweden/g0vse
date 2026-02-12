@@ -6,4 +6,4 @@ Riksrevisionen har granskat Säkerhetspolisens säkerhetsunderrättelseverksamhe
 
 Riksrevisionens rekommendation till regeringen är att utöva en mer aktiv styrning av Säkerhetspolisen genom att efterfråga mer information om hur verksamheten fortlöper. Regeringen instämmer inte i Riksrevisionens bedömning kring regeringens styrning av Säkerhetspolisen, utan anser att verksamheten följs noga. Regeringen instämmer däremot i Riksrevisionens bedömning att Säkerhetspolisens underrättelseprodukter är värdefulla för Regeringskansliet och att dessa bör delges Regeringskansliet i större utsträckning.
 
-I och med denna skrivelse anser regeringen att Riksrevisionens rapport är slutbehandlad.
+I och med denna skrivelse anser regeringen att Riksrevisionens rapport är slutbehandlad.

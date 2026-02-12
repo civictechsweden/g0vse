@@ -6,12 +6,12 @@ Regeringen ger Statskontoret i uppdrag att utreda förutsättningarna för Sjöf
 Sjöfartsverket inklusive:
 
 * för- respektive nackdelar ur verksamhets-, finansierings- och
-  styrningsperspektiv,
+styrningsperspektiv,
 * samhällsekonomiska effekter och konsekvenser för statens
-  budget, samt
+budget, samt
 * möjligheten att styra mot överflyttning av transporter till
-  sjöfart och ökad transporteffektivitet i linje med
-  transportpolitiska och klimatpolitiska mål.
+sjöfart och ökad transporteffektivitet i linje med
+transportpolitiska och klimatpolitiska mål.
 
 – Utvärdera Sjöfartsverkets avgiftsfinansiering utifrån det övergripande
 målet om att säkerställa samhällsekonomiskt effektiv och långsiktigt

@@ -10,4 +10,4 @@ I promemorian föreslås också en ändring av lagen (2006:24) om nationella top
 
 Dessa lagändringar föreslås träda i kraft den 15 maj 2019.
 
-Vidare föreslås att Post- och telestyrelsens föreskrifter om förval och prefixval ska upphöra att gälla vid utgången av 2020.
+Vidare föreslås att Post- och telestyrelsens föreskrifter om förval och prefixval ska upphöra att gälla vid utgången av 2020.

@@ -20,7 +20,7 @@ Remissvaren ska ha inkommit till Näringsdepartementet senast den 14 september 2
 12. Business Sweden
 13. Almi Företagspartner AB
 14. Fouriertransform AB
-15. Inlandsinnovation  AB
+15. Inlandsinnovation AB
 16. Stiftelsen Industrifonden
 17. Stiftelsen Nordandsfonden
 18. Sjätte AP-fonden
@@ -31,10 +31,10 @@ Remissvaren ska ha inkommit till Näringsdepartementet senast den 14 september 2
 23. Kronobergs läns landsting
 24. Samverkansorganet i Blekinge län
 25. Samverkansorganet i Kalmar län
-26. Jönköpings  läns landsting
+26. Jönköpings läns landsting
 27. Östergötlands läns landsting
 28. Samverkansorganet i Södermanlands län
-29. Örebro  läns landsting
+29. Örebro läns landsting
 30. Länsstyrelsen i Stockholms län
 31. Gotlands kommun
 32. Länsstyrelsen i Västmanlands län
@@ -50,8 +50,8 @@ Remissvaren ska ha inkommit till Näringsdepartementet senast den 14 september 2
 42. Länsstyrelsen i Norrbottens län
 43. Uppsala universitet
 44. Lunds universitet
-45. Göteborgs  universitet
-46. Stockholms  universitet
+45. Göteborgs universitet
+46. Stockholms universitet
 47. Umeå universitet
 48. Linköpings universitet
 49. Karolinska institutet
@@ -64,10 +64,10 @@ Remissvaren ska ha inkommit till Näringsdepartementet senast den 14 september 2
 56. Sveriges lantbruksuniversitet
 57. Stiftelsen Chalmers tekniska högskola
 58. Handelshögskolan i Stockholm
-59. Sveriges kommuner  och landsting, SKL
-60. Stockholms  Handelskammare
+59. Sveriges kommuner och landsting, SKL
+60. Stockholms Handelskammare
 61. Föreningen Svenskt Näringsliv
-62. Företagamas  riksorganisation
+62. Företagamas riksorganisation
 63. Företagarförbundet
 64. Svenska Bankföreningen
 65. Landsorganisationen i Sverige, LO
@@ -80,13 +80,13 @@ Remissvaren ska ha inkommit till Näringsdepartementet senast den 14 september 2
 72. Svenska uppfinnareföreningen, SUP
 73. Svenska Riskkapitalföreningen, SVCA
 74. Sveriges Verkstadsindustrier
-75. Swedish Incubators  & Science Parks, SISP
-76. Swedish Network for Innovation  and Technology Transfer Support, SNITTS
+75. Swedish Incubators & Science Parks, SISP
+76. Swedish Network for Innovation and Technology Transfer Support, SNITTS
 
-Vi ser gärna att remissvaren även skickas i elektronisk form via e-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator") i både word- och pdf-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer  (utan snedstreck), N2015-4705-KF, följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen  i betänkandet. I remissvaret anges Regeringskansliets diarienummer N2015/4705/KF.
+Vi ser gärna att remissvaren även skickas i elektronisk form via e-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator")i både word- och pdf-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck), N2015-4705-KF, följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i betänkandet. I remissvaret anges Regeringskansliets diarienummer N2015/4705/KF.
 
-I remissen ligger att regeringen vill ha synpunkter på förslagen eller materialet i betänkandet. Om remissen är begränsad till en viss del av betänkandet, anges detta inom parentes efter remissinstansens namn i remisslistan. En sådan begränsning hindrar givetvis inte att remissinstansen lämnar synpunkter också på övriga delar.
+I remissen ligger att regeringen vill ha synpunkter på förslagen eller materialet i betänkandet. Om remissen är begränsad till en viss del av betänkandet, anges detta inom parentes efter remissinstansens namn i remisslistan. En sådan begränsning hindrar givetvis inte att remissinstansen lämnar synpunkter också på övriga delar.
 
-Myndigheter under regeringen är skyldiga att svara på remissen. En myndighet avgör dock på eget ansvar om den har några synpunkter  att redovisa i ett svar. Om myndigheten inte har några synpunkter, räcker det att svaret ger besked om detta.
+Myndigheter under regeringen är skyldiga att svara på remissen. En myndighet avgör dock på eget ansvar om den har några synpunkter att redovisa i ett svar. Om myndigheten inte har några synpunkter, räcker det att svaret ger besked om detta.
 
-För andra remissinstanser innebär remissen en inbjudan att lämna synpunkter.
+För andra remissinstanser innebär remissen en inbjudan att lämna synpunkter.

@@ -8,7 +8,7 @@ Ordförandeskapets logotyp står för samhörighet och gemenskap. Sweden, 2023 o
 
 * **sweden eu** understryker Sveriges roll som ordförande och vårt bidrag till unionen.
 * **we 2023** speglar att Sverige som ordförandeland agerar i unionens gemensamma intresse.
-* **we eu** illustrerar EU:s medlemsländers gemenskap och unionens betydelse för dess medborgare.
+* **we eu** illustrerar EU:s medlemsländers gemenskap och unionens betydelse för dess medborgare.
 
 Länken mellan n och u i logotypens text symboliserar medlemsländernas samhörighet med varandra. Logotypens gula punkt står för beslutsamhet och är ett riktmärke för medlemsstaternas gemensamma väg framåt. Tillsammans bildar de olika elementen en helhet som symboliserar logotypens grundläggande värden – samhörighet och gemenskap.
 

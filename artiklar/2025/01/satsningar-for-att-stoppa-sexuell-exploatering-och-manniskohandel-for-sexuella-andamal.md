@@ -48,4 +48,4 @@ I syfte att ge stöd och skydd till utsatta ska Jämställdhetsmyndigheten inom 
 
 Östersjöstaternas råd, CBSS, får 880 000 kronor för att i enlighet med organisationens ansökan i regeringsbeslut (A2023/01504) stärka arbetet mot människohandel för sexuella ändamål och mot efterfrågan på sexuella tjänster. Kvinnor och flickor utgör den stora majoriteten av offer för människohandel för sexuella ändamål, men utsatta grupper som arbetet ska rikta in sig på inkluderar även ett särskilt fokus på unga och hbtq-personer – en grupp som det saknas mycket kunskap om när det gäller utsatthet och sexuell exploatering i Östersjöregionen. Syftet är både att stärka långsiktiga och strategiska insatser samt att stärka yrkesverksamma som möter utsatta. Östersjöstaternas råd är en mellanstatlig organisation som verkar för samarbete och politisk dialog i Östersjöregionen.
 
-Information om CBSS arbete: [Anti-trafficking – CBSS](https://cbss.org/safe-secure-region/anti-trafficking/)
+Information om CBSS arbete:[Anti-trafficking – CBSS](https://cbss.org/safe-secure-region/anti-trafficking/)

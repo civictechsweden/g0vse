@@ -6,4 +6,4 @@ Lars Danielsson är för närvarande ambassadör i Berlin och har tidigare varit
 
 Lars Danielsson tillträder sin nya befattning den 7 november i år.
 
-EU-representationens nuvarande ambassadör Anders Anhlid är utsedd till ambassadör i Helsingfors. Han tillträder posteringen 7 november.
+EU-representationens nuvarande ambassadör Anders Anhlid är utsedd till ambassadör i Helsingfors. Han tillträder posteringen 7 november.

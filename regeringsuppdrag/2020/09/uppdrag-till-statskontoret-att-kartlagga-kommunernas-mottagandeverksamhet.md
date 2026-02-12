@@ -7,11 +7,11 @@ I uppdraget ingår att kartlägga
 * hur kommunernas mottagandeverksamhet är organiserad och om den sker i samverkan med andra kommuner eller aktörer
 * hur ansvaret för mottagandet är fördelat inom kommunerna
 * vilka särskilda insatser kommunerna finansierar med
-  schablonersättningen för mottagandet av nyanlända
+schablonersättningen för mottagandet av nyanlända
 * hur verksamheter och insatser på området följs upp
 * hur den statliga ersättningen generellt hanteras och hur
-  schablonersättningen fördelas på olika verksamheter inom
-  kommunerna.
+schablonersättningen fördelas på olika verksamheter inom
+kommunerna.
 
 I kartläggningen ska eventuella skillnader i verksamhet och åtgärder avseende nyanlända som anvisats till kommunen inklusive vidarebosatta, nyanlända som bosatt sig på egen hand i kommunen, ensamkommande barn och unga respektive anhöriga beaktas. Vidare ska skillnader avseende ålder och kön belysas. Kartläggningen ska även belysa skillnader i verksamhet och organisation mellan olika typer av kommuner.
 

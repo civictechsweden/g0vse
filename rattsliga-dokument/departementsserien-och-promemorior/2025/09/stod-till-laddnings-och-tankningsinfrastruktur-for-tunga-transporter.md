@@ -1,4 +1,4 @@
-# Stöd till laddnings-och tankningsinfrastruktur för tunga transporterKN2025/01701
+# Stöd till laddnings-och tankningsinfrastruktur för tunga transporter
 
 I promemorian, som tagits fram inom Regeringskansliet, finns förslag på ändringar i förordningen (2022:107) om statligt stöd till regionala elektrifieringspiloter för tunga transporter.
 

@@ -5,11 +5,11 @@ Regeringen beslutar att ge Arbetsförmedlingen i uppdrag att under 2020–2023 v
 Arbetsförmedlingen ska:
 
 * Sprida information och kunskap bland romer om det stöd som
-  myndigheten kan erbjuda, samt se till att enskilda arbetssökande hos
-  förmedlingen får den hjälp de behöver.
+myndigheten kan erbjuda, samt se till att enskilda arbetssökande hos
+förmedlingen får den hjälp de behöver.
 * Stärka arbetet för att förbättra kvinnors möjligheter att ta del av
-  myndighetens insatser.
+myndighetens insatser.
 * Säkerställa att det i myndigheten finns för verksamheten nödvändiga
-  kunskaper om romer som nationell minoritet.
+kunskaper om romer som nationell minoritet.
 * Utveckla ett uppföljningssystem utifrån tidigare erfarenheter med så
-  kallade nulägesbeskrivningar.
+kallade nulägesbeskrivningar.

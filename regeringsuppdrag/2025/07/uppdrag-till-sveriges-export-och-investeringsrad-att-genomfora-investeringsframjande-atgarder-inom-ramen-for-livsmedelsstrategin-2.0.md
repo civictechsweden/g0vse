@@ -1,4 +1,4 @@
-# Uppdrag till Sveriges export-och investeringsråd att genomföra investeringsfrämjande åtgärder inom ramen för Livsmedelsstrategin 2.0Diarienummer: LI2025/01365
+# Uppdrag till Sveriges export-och investeringsråd att genomföra investeringsfrämjande åtgärder inom ramen för Livsmedelsstrategin 2.0
 
 Regeringen ger Sveriges export-och investeringsråd (Business Sweden) i uppdrag att genomföra investeringsfrämjande åtgärder inom livsmedelssektorn.
 

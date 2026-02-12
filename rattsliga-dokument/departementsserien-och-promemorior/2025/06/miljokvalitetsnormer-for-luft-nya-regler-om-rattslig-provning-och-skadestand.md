@@ -1,4 +1,4 @@
-# Miljökvalitetsnormer för luft: Nya regler om rättslig prövning och skadeståndKN2025/01294
+# Miljökvalitetsnormer för luft: Nya regler om rättslig prövning och skadestånd
 
 I promemorian föreslås ändringar i miljöbalken och luftkvalitetsförordningen (2010:477) i syfte att genomföra bestämmelserna om tillgång till rättslig prövning.
 

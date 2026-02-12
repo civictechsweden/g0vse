@@ -1,4 +1,4 @@
-# Remiss av slutbetänkande 2025:28 Frihet från våld, förtryck och utnyttjandeDiarienummer: A2025/00432
+# Remiss av slutbetänkande 2025:28 Frihet från våld, förtryck och utnyttjande
 
 Här kan du ta del av svaren från dem som regeringen har remitterat slutbetänkande 2025:28 Frihet från våld, förtryck och utnyttjande.
 

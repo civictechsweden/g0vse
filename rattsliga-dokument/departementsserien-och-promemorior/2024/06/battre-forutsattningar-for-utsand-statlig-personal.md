@@ -1,6 +1,6 @@
 # Bättre förutsättningar för utsänd statlig personal
 
-![](/contentassets/364c0b3324d44aa2873beee84475d434/omslagsbild-ds20249-webb.jpg?width=150&quality=85)
+![](/contentassets/364c0b3324d44aa2873beee84475d434/omslagsbild-ds20249-webb.jpg?width=150&amp;quality=85)
 
 Utredningen har kartlagt och analyserat fyra frågeställningar som berör förutsättningarna för utsänd statlig personal och deras familjemedlemmar.
 

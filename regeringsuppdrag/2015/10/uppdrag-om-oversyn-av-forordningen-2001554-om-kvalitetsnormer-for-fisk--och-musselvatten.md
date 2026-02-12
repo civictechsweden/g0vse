@@ -4,4 +4,4 @@ Havs- och vattenmyndigheten får i uppdrag att göra en översyn av miljökvalit
 
 Bedömningen ska utgå ifrån de krav som följer av Europaparlamentets och rådets direktiv 2000/60/EG av den 23 oktober 2000 om upprättande av en ram för gemenskapens åtgärder på vattenpolitikens område och vad som behövs för att skydda människors hälsa och miljön.
 
-Uppdraget ska redovisas till Regeringskansliet (Miljö- och energi­departementet) senast den 29 april 2016.
+Uppdraget ska redovisas till Regeringskansliet (Miljö- och energi­departementet) senast den 29 april 2016.

@@ -1,8 +1,8 @@
 # Inför ett helt nytt brott – ska även gälla folkvalda
 
-Hårt arbetande människor betalar inte skatt för att offentliga tjänstemän ska missbruka sin position för egen vinning eller för att gynna kriminella. Samarbetspartierna går därför fram med förslag om utökat tjänstemannaansvar. Det handlar ytterst om medborgarnas förtroende för det allmänna,
+Justitieminister Gunnar Strömmer, debattartikel, Aftonbladet, den 2 februari 2026.
 
-Debattartikel av justitieminister Gunnar Strömmer, Henrik Vinge (SD), Gudrun Brunegård (KD) och Martin Melin (L), Aftonbladet, den 2 februari 2026.
+Hårt arbetande människor betalar inte skatt för att offentliga tjänstemän ska missbruka sin position för egen vinning eller för att gynna kriminella. Samarbetspartierna går därför fram med förslag om utökat tjänstemannaansvar. Det handlar ytterst om medborgarnas förtroende för det allmänna.
 
 Kampen mot korruption och maktmissbruk är en central del i att stärka rättsstaten och att värna vårt fria och öppna samhälle.
 
@@ -28,7 +28,6 @@ Samtidigt är det viktigt att värna integriteten i det offentliga beslutsfattan
 
 Hårt arbetande människor betalar inte skatt för att offentliga tjänstemän ska missbruka sin position för egen vinning.
 
-Gunnar Strömmer, justitieminister
-Henrik Vinge, ordförande i justitieutskottet (SD)
-Gudrun Brunegård, ledamot i konstitutionsutskottet (KD)
-Martin Melin, rättspolitisk talesperson (L)
+Henrik Vinge (SD)
+Gudrun Brunegård (KD)
+Martin Melin (L)

@@ -1,4 +1,4 @@
-# En grundlagsskyddad aborträtt samt utökade möjligheter att begränsa föreningsfriheten och rätten till medborgarskapProp. 2025/26:78
+# En grundlagsskyddad aborträtt samt utökade möjligheter att begränsa föreningsfriheten och rätten till medborgarskap
 
 I propositionen föreslår regeringen ändringar i regeringsformens bestämmelser om grundläggande fri- och rättigheter.
 

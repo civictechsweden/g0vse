@@ -6,7 +6,7 @@ Enligt barnkonventionen har staterna en skyldighet att genom lämpliga och aktiv
 
 De kunskapshöjande insatserna ska omfatta förskolan, förskoleklassen, grundskolan och motsvarande skolformer, fritidshemmet, gymnasieskolan samt gymnasiesärskolan.
 
-Alla barn ska i enlighet med artikel 2 i barnkonventionen, kunna ta del av sina rättigheter på jämlika villkor utan åtskillnad av något slag, oavsett till exempel kön, etnicitet, språk, religion, funktionsnedsättning eller bakgrund. Kunskapshöjande insatser kring barnets rättigheter ska därför genomföras utifrån ett tydligt mångfalds- och jämställdhetsperspektiv. I det ingår att utforma och genomföra insatser så att de blir tillgängliga för alla barn, inklusive barn med funktionsnedsättning och barn som ännu inte fullt ut har kunskap i det svenska språket.
+Alla barn ska i enlighet med artikel 2 i barnkonventionen, kunna ta del av sina rättigheter på jämlika villkor utan åtskillnad av något slag, oavsett till exempel kön, etnicitet, språk, religion, funktionsnedsättning eller bakgrund. Kunskapshöjande insatser kring barnets rättigheter ska därför genomföras utifrån ett tydligt mångfalds- och jämställdhetsperspektiv. I det ingår att utforma och genomföra insatser så att de blir tillgängliga för alla barn, inklusive barn med funktionsnedsättning och barn som ännu inte fullt ut har kunskap i det svenska språket.
 
 Barnombudsmannen ska för detta ändamål skapa en portal med information, färdiga lektionsupplägg och lärarhandledning för att underlätta skolans undervisning om barnets rättigheter.
 

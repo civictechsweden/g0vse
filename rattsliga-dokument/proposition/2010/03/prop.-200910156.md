@@ -6,6 +6,6 @@ Vidare föreslås ändringar i lagen (2002:34) om samverkansorgan i länen och l
 
 Lagförslagen föreslås träda i kraft den 1 januari 2011.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+__________________________________________________
 
 Riksdagen fattade den 3 juni 2010 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

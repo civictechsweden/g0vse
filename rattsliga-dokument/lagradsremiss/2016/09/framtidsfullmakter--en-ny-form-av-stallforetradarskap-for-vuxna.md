@@ -1,6 +1,7 @@
 # Framtidsfullmakter – en ny form av ställföreträdarskap för vuxna
 
 Många människor drabbas förr eller senare av sjukdom eller nedsatt hälsotillstånd som medför svårigheter att ha hand om sig själv och sin ekonomi. Med allt fler äldre i befolkningen ökar behovet av hjälp.
+
 Regeringen föreslår därför en lag om framtidsfullmakter som ger enskilda möjlighet att utse någon som kan ha hand om deras personliga och ekonomiska angelägenheter om de senare i livet inte själva kan det. Framtidsfullmakter utgör ett alternativ till ordningen med god man och förvaltare och ett komplement till vanliga fullmakter. Framtidsfullmakter stärker enskildas självbestämmande genom att förbättra möjligheterna att planera framtiden och behålla kontrollen över frågor som är av stor betydelse för dem.
 
 Framtidsfullmakten är giltig när den enskilde blir beslutsoförmögen. Det är fullmaktshavaren som avgör när detta inträffar. Det ska därutöver finnas en möjlighet att få frågan prövad av domstol.

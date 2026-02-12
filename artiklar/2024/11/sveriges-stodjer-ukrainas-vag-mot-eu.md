@@ -6,13 +6,13 @@ Kort efter Rysslands fullskaliga invasion 2022 ansökte Ukraina om medlemskap oc
 
 ## Bistånd och reformstöd
 
-Sverige har genom bistånd stöttat Ukrainas EU-närmande i över ett decennium.  Som del av detta stödjer Sverige aktivt Ukrainas reformarbete och anpassning till EU:s regelverk på områden som demokrati, rättsstaten och efterlevnaden av de mänskliga rättigheterna i Ukraina. Till exempel har Sverige bidragit till specifika reformer inom antikorruption och rättssäkerhet.
+Sverige har genom bistånd stöttat Ukrainas EU-närmande i över ett decennium. Som del av detta stödjer Sverige aktivt Ukrainas reformarbete och anpassning till EU:s regelverk på områden som demokrati, rättsstaten och efterlevnaden av de mänskliga rättigheterna i Ukraina. Till exempel har Sverige bidragit till specifika reformer inom antikorruption och rättssäkerhet.
 
 ## Expertstöd i förhandlingskapitel
 
 För att bli medlem måste Ukraina anpassa sig till EU:s regelverk inom olika områden som omfattas av EU:s så kallade förhandlingskapitel. Totalt finns det 35 kapitel, och varje kapitel behandlar ett specifikt område, till exempel miljö, handel och mänskliga rättigheter. EU utvärderar regelbundet Ukrainas framsteg inom varje område och EU-kommissionen fastslog i sin senaste rapport att Ukraina fortsätter att genomföra betydande reformframsteg.
 
-Sverige stödjer idag Ukrainas reformarbete  inom 28 av de 35 förhandlingskapitlen. Bland annat leder Sverige EU:s arbetsgrupper för miljö och jämställdhet i Kiev och har många myndigheter och organisationer som genom egen erfarenhet och kunskap kan bidra till Ukrainas EU-anslutning. Inom ramen för det nordisk-baltiska samarbetet NB8 inrättade Sverige under sitt ordförandeskap 2024 en högnivågrupp som fungerar som ett expertstöd åt Ukraina under EU-anslutningsprocessen. Gruppen består av rådgivare från de nordisk-baltiska länderna med hög grad av expertis och erfarenhet. Gruppen, som finansieras av Sverige, ger stöd och rådgivning till Ukraina under de pågående förhandlingarna med EU.
+Sverige stödjer idag Ukrainas reformarbete inom 28 av de 35 förhandlingskapitlen. Bland annat leder Sverige EU:s arbetsgrupper för miljö och jämställdhet i Kiev och har många myndigheter och organisationer som genom egen erfarenhet och kunskap kan bidra till Ukrainas EU-anslutning. Inom ramen för det nordisk-baltiska samarbetet NB8 inrättade Sverige under sitt ordförandeskap 2024 en högnivågrupp som fungerar som ett expertstöd åt Ukraina under EU-anslutningsprocessen. Gruppen består av rådgivare från de nordisk-baltiska länderna med hög grad av expertis och erfarenhet. Gruppen, som finansieras av Sverige, ger stöd och rådgivning till Ukraina under de pågående förhandlingarna med EU.
 
 Genom att stödja förhandlingskapitlen har Sverige etablerat sig som en central partner i Ukrainas EU-integration och säkerställt att biståndet ligger i linje med Ukrainas egna reformbehov och europeiska ambitioner​.
 

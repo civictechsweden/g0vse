@@ -4,7 +4,7 @@ Sverige är ett av de länder som ratificerat FN:s konvention om rättigheter f�
 
 FN:s högkommissarie för mänskliga rättigheter har bjudit in Sverige till dialog med FN-kommittén för rättigheter för personer med funktionsnedsättning den 11–12 mars 2024. Syftet med dialogen är att granska den kombinerade andra och tredje rapporten från Sverige till kommittén som lämnades i november 2019.
 
-Som en del i förberedelserna har regeringen beslutat att ge Myndigheten för delaktighet (MFD) uppdraget att ta fram ett uppdaterat underlag till den rapport som Sverige lämnade 2019.  Underlaget ska innehålla åtgärder vidtagna av regeringen under perioden 2019 till 2023 som bedöms relevanta att redovisa.
+Som en del i förberedelserna har regeringen beslutat att ge Myndigheten för delaktighet (MFD) uppdraget att ta fram ett uppdaterat underlag till den rapport som Sverige lämnade 2019. Underlaget ska innehålla åtgärder vidtagna av regeringen under perioden 2019 till 2023 som bedöms relevanta att redovisa.
 
 Regeringen har även fattat beslut om att bevilja organisationen Funktionsrätt Sveriges ansökan om bidrag på 60 000 kronor för en uppföljning av rapporten ”Respekt för rättigheter?”. I samband med att olika länder lämnar in sina rapporter har civilsamhällesorganisationer möjlighet att lämna in så kallade alternativrapporter, där de ger sin bild av hur medlemsstaten efterlever konventionen. Även denna rapport togs fram 2019. Rapporten redovisar organisationernas synpunkter på hur Sverige lever upp till FN:s konvention.
 

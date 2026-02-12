@@ -1,4 +1,4 @@
-# Uppdrag till Brottsförebyggande rådet att kartlägga brott mot äldre inom äldreomsorgenDiarienummer:  S2026/00116
+# Uppdrag till Brottsförebyggande rådet att kartlägga brott mot äldre inom äldreomsorgen
 
 Regeringen uppdrar åt Brottsförebyggande rådet, Brå, att kartlägga brott mot äldre inom äldreomsorgen. Kartläggningen ska innefatta vilka typer av brott som begås mot äldre personer inom äldreomsorgen. Kartläggningen ska belysa könsskillnader i utsattheten.
 

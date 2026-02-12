@@ -1,6 +1,6 @@
 # Verksamhetsberättelse för bolag med statligt ägande 2021
 
-![Verksamhetsberättelse](/globalassets/regeringen/dokument/finansdepartementet/pdf/2022/statliga-bolag/vb2021omslag.jpg?width=150&quality=85)
+![Verksamhetsberättelse](/globalassets/regeringen/dokument/finansdepartementet/pdf/2022/statliga-bolag/vb2021omslag.jpg?width=150&amp;quality=85)
 
 Under 2021 ökade värdet på den statliga bolagsportföljen med drygt 120 miljarder kronor, eller drygt 17 procent. Utdelningar till staten under 2021, för verksamhetsåret 2020, uppgick till 21,5 miljarder kronor. Sammantaget genererade den statliga bolagsportföljen därmed en totalavkastning om drygt 20 procent under året.
 

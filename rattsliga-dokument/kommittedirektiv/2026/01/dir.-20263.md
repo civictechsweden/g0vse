@@ -1,4 +1,4 @@
-# Samordnare för att korta vårdköerna i hälso- och sjukvårdenDir. 2026:3
+# Samordnare för att korta vårdköerna i hälso- och sjukvården
 
 Regeringen uppdrar åt en särskild utredare att, som nationell samordnare, bidra till att den statliga styrningen, kontrollen och uppföljningen stärks och får ett större genomslag när det gäller regeringens arbete med att korta vårdköerna och öka tillgängligheten i hälso- och sjukvården.
 

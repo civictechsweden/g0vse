@@ -1,6 +1,6 @@
 # Handlingsplan för förbindelserna med Latinamerika och Karibien
 
-Den 31 augusti 2018 lanserade Utrikesdepartementet en handlingsplan för förbindelserna med Latinamerika och Karibien.
+Den 31 augusti 2018 lanserade Utrikesdepartementet en handlingsplan för förbindelserna med Latinamerika och Karibien.
 
 Sverige har utmärkta relationer med länderna i Latinamerika och Karibien. Banden mellan våra folk och regeringar är starka, och vårt förtroendekapital i regionen är stort.
 

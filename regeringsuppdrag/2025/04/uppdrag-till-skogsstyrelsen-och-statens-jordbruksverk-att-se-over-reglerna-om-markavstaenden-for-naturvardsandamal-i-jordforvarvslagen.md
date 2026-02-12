@@ -8,7 +8,7 @@ Skogsstyrelsen ska vidare undersöka vilken betydelse möjligheten att förvärv
 
 Jordbruksverket ska med utgångspunkt i Skogsstyrelsens genomförda åtgärder enligt uppdraget föreslå ändringar av reglerna om avståenden av lantbruksegendom för naturvårdsändamål i jordförvärvslagen.
 
-Jordbruksverket ska i nära dialog med länsstyrelserna analysera om det finns behov av författningsändringar eller andra åtgärder som stärker förutsättningarna för en effektiv och rättssäker handläggning av ärenden om markavståenden enligt jordförvärvslagen utan omotiverade regionala skillnader, samt vid behov lämna förslag på sådana författningsförslag eller åtgärder.
+Jordbruksverket ska i nära dialog med länsstyrelserna analysera om det finns behov av författningsändringar eller andra åtgärder som stärker förutsättningarna för en effektiv och rättssäker handläggning av ärenden om markavståenden enligt jordförvärvslagen utan omotiverade regionala skillnader, samt vid behov lämna förslag på sådana författningsförslag eller åtgärder.
 
 Skogsstyrelsen och Jordbruksverket ska, när de utför sina respektive åtgärder, inhämta synpunkter och upplysningar från länsstyrelserna, Naturvårdsverket och, i den utsträckning myndigheterna anser att det behövs, från andra berörda myndigheter, organisationer och relevanta aktörer inom skogsnäringen. Skogsstyrelsen och Jordbruksverket ska även, när de utför sina respektive åtgärder, beakta andra regelverksförändringar som påverkar skogsmarknaden och naturvårdsavsättningar.
 

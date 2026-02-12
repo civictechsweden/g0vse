@@ -6,4 +6,4 @@ I fokus under besöket stod de båda ländernas arbete med frågor som rör civi
 
 Carl-Oskar Bohlins resa inleddes med att han på tisdagsmorgonen inledningstalade på Hanaholmen Initiative Summit, ett finlandssvenskt samarbetsprogram inom krisberedskap och civilt försvar. Ministern besökte även den finländska myndigheten Försörjningsberedskapscentralen, som samordnar landets försörjningsberedskap och fungerar som en länk mellan näringsliv och ansvariga myndigheter.
 
-Under besöket mötte ministern även representanter från Säkerhetskommittén som är Finlands nationella samarbetsorgan med uppgift att följa utvecklingen av Finlands säkerhetsmiljö och samhälle. Ministern fick därtill en presentation om Nationella Försvarskursen, som är Finlands främsta beredskapsutbildning för högre befattningshavare.
+Under besöket mötte ministern även representanter från Säkerhetskommittén som är Finlands nationella samarbetsorgan med uppgift att följa utvecklingen av Finlands säkerhetsmiljö och samhälle. Ministern fick därtill en presentation om Nationella Försvarskursen, som är Finlands främsta beredskapsutbildning för högre befattningshavare.

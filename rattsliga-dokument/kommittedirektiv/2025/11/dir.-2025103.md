@@ -1,4 +1,4 @@
-# Tydligare ansvar och högre kvalitet i komvuxDir. 2025:103
+# Tydligare ansvar och högre kvalitet i komvux
 
 En särskild utredare ska föreslå åtgärder för att avhjälpa brister i kommunal vuxenutbildning i svenska för invandrare (sfi) och kommunal vuxenutbildning (komvux) i övrigt.
 
@@ -8,7 +8,7 @@ Utredaren ska bl.a.
 
 * föreslå hur fler elever i sfi kan erbjudas att kombinera sfi med annan utbildning,
 * föreslå skärpta krav för att få bedriva komvux på entreprenad,
-* analysera varför arbetslösa som har anvisats utbildning i komvux i så liten utsträckning påbörjar och genomför utbildningen och föreslå åtgärder för att fler arbetslösa ska genomgå en reguljär utbildning, och
+* analysera varför arbetslösa som har anvisats utbildning i komvux i så liten utsträckning påbörjar och genomför utbildningen och föreslå åtgärder för att fler arbetslösa ska genomgå en reguljär utbildning, och
 * lämna nödvändiga författningsförslag.
 
 Uppdraget ska redovisas senast den 15 juni 2027.

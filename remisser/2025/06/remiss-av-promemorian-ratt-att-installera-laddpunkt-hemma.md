@@ -1,4 +1,4 @@
-# Remiss av promemorian Rätt att installera laddpunkt hemmaDiarienummer: Ju2025/01361
+# Remiss av promemorian Rätt att installera laddpunkt hemma
 
 Här kan du ta del av till vilka remissinstanser som regeringen remitterat Ds 2025:13 Rätt att installera laddpunkt hemma.
 

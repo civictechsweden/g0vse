@@ -20,11 +20,11 @@ Sweden fully supports the efforts of the UN, the Quartet and the Arab League. Th
 
 Finally, I would like to recognise the outgoing U.S. administration for its efforts, including Secretary Kerry's remarks on 28 December. We look forward to continued U.S. engagement in support of the two-state solution.
 
-\*\*\*
+***
 
 On Lebanon, Sweden welcomes the election of Michel Aoun as President on 31 October last year and the formation of a government of national accord, led by Prime Minister Saad Hariri, in December. We hope that these positive developments will now pave the way for parliamentary elections. We commend Lebanon for hosting over 1.1 million Syrian refugees and call for implementation of the shared commitments on refugees made at the London Conference on 4 February 2016. We support UN-led efforts on the ground.
 
-\*\*\*
+***
 
 Finally, the situation in Syria is the crisis of our time, with a devastating toll in human suffering. Sweden welcomes the unity in the Council in December that led to the adoption of resolution 2336.
 

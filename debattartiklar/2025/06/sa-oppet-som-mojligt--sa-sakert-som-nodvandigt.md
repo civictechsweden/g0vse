@@ -8,7 +8,7 @@ I en tid av krig i Europa, tilltagande teknikkapplöpning och auktoritära regim
 
 Antagonistiska aktörer använder allt oftare akademiska samarbeten som verktyg i sitt säkerhetspolitiska spel. Det sker genom otillbörlig påverkan, tekniköverföring och spionage – och det riktas mot svenska universitet, högskolor, forskningsinstitut och forskningsparker.
 
-Samtidigt är internationellt samarbete en förutsättning för världsledande forskning. Utan öppna utbyten stagnerar kunskap, innovation och utveckling. Spetskompetens – rekryterad såväl inom som utanför Sveriges gränser – är en förutsättning för att vi ska fortsätta vara en forskningsnation i världsklass.  Regeringens slutsats är att vi måste hantera riskerna, inte stänga ute omvärlden.
+Samtidigt är internationellt samarbete en förutsättning för världsledande forskning. Utan öppna utbyten stagnerar kunskap, innovation och utveckling. Spetskompetens – rekryterad såväl inom som utanför Sveriges gränser – är en förutsättning för att vi ska fortsätta vara en forskningsnation i världsklass. Regeringens slutsats är att vi måste hantera riskerna, inte stänga ute omvärlden.
 
 För att uppnå detta ger regeringen nu Vetenskapsrådet i uppdrag att ansvara för vägledande nationella riktlinjer för ansvarsfull internationalisering. Arbetet ska ske i samarbete med Vinnova.
 

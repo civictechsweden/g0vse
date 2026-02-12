@@ -1,4 +1,4 @@
-# Regeringsförklaringen
+# Regeringsförklaringen den 10 september 2024
 
 Statsminister Ulf Kristersson, riksdagen, den 10 september 2024
 
@@ -42,7 +42,7 @@ Ett rikare och tryggare Sverige står inte färdigt efter en mandatperiod.
 Men i dag lägger vi grunden för att vi i Sverige i morgon ska bli mer
 omskrivna för fantastiska innovationer än för farliga barnsoldater.
 
-\* \* \*
+* * *
 Herr talman,
 
 Nu inleds andra halvlek i mandatperioden. Och politiken går in i en
@@ -69,7 +69,7 @@ fortsätta regera. Med uthållighet och otålighet. Med Sveriges bästa för
 ögonen. Och besjälade av uppgiften att bygga en bättre framtid för
 våra barn och barnbarn.
 
-\* \* \*
+* * *
 
 Herr talman,
 Regeringen har inlett den största offensiven någonsin mot den
@@ -150,7 +150,7 @@ ett nytt ”lämna-program”. Hedersförtryckets tyranni – det som
 isolerar många flickor och kvinnor i ofrihet – måste brytas. Så kallade
 oskuldskontroller kommer att förbjudas.
 
-\* \* \*
+* * *
 
 Herr talman,
 
@@ -198,7 +198,7 @@ och utländska forskare och doktorander. Det nya snabbspåret har
 blivit en stor framgång. Så gott som alla högkvalificerade arbetstagare
 får numera svar inom 30 dagar.
 
-\* \* \*
+* * *
 Herr talman,
 
 När migrationen minskar får Sverige bättre förutsättningar att klara
@@ -231,7 +231,7 @@ I höst presenteras en ny lista över utanförskapsområden, som har ett
 bredare fokus än polisens lägesbild av utsatta områden. Den blir ett
 viktigt verktyg för att utforma träffsäkra insatser.
 
-\* \* \*
+* * *
 Herr talman,
 
 Vi är stolta över den nordiska välfärdsmodellen: generella förmåner,
@@ -314,7 +314,7 @@ betygsinflationen och oseriösa skolhuvudmän.
 Regeringen planerar en proposition för att öka insynen i fristående
 skolor i syfte att motverka osunda drivkrafter i skolans värld.
 
-\* \* \*
+* * *
 Herr talman,
 
 Kampen mot inflationen har dominerat den ekonomiska politiken
@@ -457,7 +457,7 @@ första halvåret 2025. Regeringen planerar även att lägga fram förslag
 om liberalisering av strandskyddet, så att fler kan bo nära våra vackra
 vatten.
 
-\* \* \*
+* * *
 Herr talman,
 
 Sverige ska föra en ambitiös klimatpolitik med målet att nå
@@ -508,7 +508,7 @@ områden från bland annat PFAS. Sverige arbetar aktivt för en
 ambitiös kemikalielagstiftning i EU och ett globalt avtal om att
 begränsa plastföroreningar.
 
-\* \* \*
+* * *
 Herr talman,
 
 Den 7 mars 2024 inleddes en ny epok för svensk säkerhetspolitik.
@@ -598,7 +598,7 @@ handeln och sluta fler frihandelsavtal. Samtidigt ser regeringen de
 risker som finns med ensidiga beroenden och behovet att markera
 mot ojämlika spelregler länder emellan.
 
-\* \* \*
+* * *
 Herr talman,
 
 Sverige ska vara ett öppet och tolerant samhälle. Det fria samhället
@@ -643,7 +643,7 @@ Samtalsklimatet blir allt råare. Sverige behöver inte gå den vägen. Det
 är upp till oss, inte minst alla vi som samlas härinne, att föregå med
 gott exempel. Låt oss tillsammans axla det ansvaret.
 
-\* \* \*
+* * *
 Herr talman,
 Vårt samhälle har fortsatt stora problem att lösa. Men Sverige reser sig
 igen.

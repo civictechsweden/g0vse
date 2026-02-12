@@ -1,6 +1,6 @@
 # Säkerhetszoner – ökade möjligheter för polisen att visitera för att förebygga brott
 
-![](/contentassets/e0680db5ed744268bae0284566cea886/ds202331-kopiera.jpg?width=150&quality=85)
+![](/contentassets/e0680db5ed744268bae0284566cea886/ds202331-kopiera.jpg?width=150&amp;quality=85)
 
 I vissa situationer kopplade till konflikter i och mellan kriminella nätverk är polisens nuvarande befogenheter att kroppsvisitera personer och genomsöka transportmedel för att söka efter vapen och andra farliga föremål inte tillräckliga. Polisen behöver bättre förutsättningar att använda tvångsmedlen för att effektivare kunna förhindra skjutningar och sprängningar och trygga allmänheten. Behovet av effektivare verktyg kan mötas med utökade förebyggande befogenheter inom tidsbegränsade zoner. I promemorian föreslås därför att det införs regler om ett nytt system med zoner, som kallas säkerhetszoner, i polislagen som i stort innebär följande.
 

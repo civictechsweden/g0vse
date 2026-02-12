@@ -335,7 +335,7 @@ Avdrag för karensdag vid sjukdom och krav på läkarintyg efter den sjunde dage
 
 **Ikraftträdande:** 1 januari 2022, gäller till och med 1 januari 2023
 
-Det ordinarie karensvillkoret i arbetslöshetsförsäkringen innebär att arbetslöshetsersättning inte lämnas under de sex inledande dagarna av arbetslösheten. Antalet karensdagar i arbetslöshetsförsäkringen minskas nu tillfälligt från sex till två.  Detta innebär att enskilda kan få arbetslöshetsersättning redan efter två arbetslösa dagar.
+Det ordinarie karensvillkoret i arbetslöshetsförsäkringen innebär att arbetslöshetsersättning inte lämnas under de sex inledande dagarna av arbetslösheten. Antalet karensdagar i arbetslöshetsförsäkringen minskas nu tillfälligt från sex till två. Detta innebär att enskilda kan få arbetslöshetsersättning redan efter två arbetslösa dagar.
 
 ### Tillfälliga lättnader för företagare i arbetslöshetsförsäkringen förlängs
 
@@ -373,7 +373,7 @@ Tfn 073-086 23 07
 
 Pressekreterare Jonas Lannering
 
-Tfn  073-057 23 36
+Tfn 073-057 23 36
 
 ### Ny skattelättnad för cykelförmån införs
 
@@ -469,9 +469,9 @@ Tfn 073-072 83 16
 
 **SFS:** 2021:665
 
-**Ikraftträdande:** 1 september 2021
+**Ikraftträdande:** 1 september 2021
 
-Dalregementet (I 13) i Falun, Västernorrlands regemente (I 21) i Sollefteå, Norrlands dragonregemente (K 4) i Arvidsjaur, Älvsborgs amfibieregemente (Amf 4) i Göteborg och Upplands flygflottilj (F 16) i Uppsala inrättas som nya organisationsenheter i Försvarsmakten. Vidare byter Artilleriregementet (A 9) namn till Bodens artilleriregemente (A 8), Trängregementet (TrängR) blir Göta trängregemente (T 2) och Amfibieregementet (Amf 1) blir Stockholms amfibieregemente (Amf 1).
+Dalregementet (I 13) i Falun, Västernorrlands regemente (I 21) i Sollefteå, Norrlands dragonregemente (K 4) i Arvidsjaur, Älvsborgs amfibieregemente (Amf 4) i Göteborg och Upplands flygflottilj (F 16) i Uppsala inrättas som nya organisationsenheter i Försvarsmakten. Vidare byter Artilleriregementet (A 9) namn till Bodens artilleriregemente (A 8), Trängregementet (TrängR) blir Göta trängregemente (T 2) och Amfibieregementet (Amf 1) blir Stockholms amfibieregemente (Amf 1).
 
 ### Ny reglering om behandlingen av personuppgifter vid Försvarsmakten och Försvarets radioanstalt
 
@@ -515,7 +515,7 @@ Infrastrukturdepartementet ansvarar för frågor som rör transporter och infras
 
 Pressekreterare Jennie Zetterström
 
-Tfn  073-053 92 70
+Tfn 073-053 92 70
 
 **Presskontakt hos energi- och digitaliseringsminister Khashayar Farmanbar:**
 
@@ -809,7 +809,7 @@ Tfn 073-093 50 83
 
 Alla som har fyllt 18 år och har en beskattningsbar förvärvsinkomst betalar public service-avgift. Avgiften används för att finansiera verksamheten vid Sveriges Radio, Sveriges Television och Utbildningsradion. Avgiftens storlek avgörs av den beskattningsbara förvärvsinkomsten och har ett tak.
 
-Eftersom avgiftsintäkterna de senaste två åren varit högre än beräknat sänks avgiften 2022 och blir som högst 1 328 kr per person och år.
+Eftersom avgiftsintäkterna de senaste två åren varit högre än beräknat sänks avgiften 2022 och blir som högst 1 328 kr per person och år.
 
 ### Ett läsråd inrättas vid Statens kulturråd
 
@@ -877,7 +877,7 @@ Det införs dessutom bland annat ett bemyndigande som gör det möjligt att avgi
 
 Ikraftträdande: Vid olika tillfällen med början den 1 januari 2022
 
-Ett förbud införs för bestick, sugrör, ballongpinnar, tops, omrörare för drycker, muggar som består av mer än 15 procent plast, tallrikar samt muggar och matlådor av expanderad polystyren. Förordningarna förbjuder också användning av konfetti utomhus och innebär att den som serverar mat eller dryck i en engångsmugg eller matlåda ska erbjuda en möjlighet att få maten eller drycken serverad i ett flergångsalternativ.
+Ett förbud införs för bestick, sugrör, ballongpinnar, tops, omrörare för drycker, muggar som består av mer än 15 procent plast, tallrikar samt muggar och matlådor av expanderad polystyren. Förordningarna förbjuder också användning av konfetti utomhus och innebär att den som serverar mat eller dryck i en engångsmugg eller matlåda ska erbjuda en möjlighet att få maten eller drycken serverad i ett flergångsalternativ.
 
 Utöver det ska producenter betala nedskräpningsavgifter, vissa engångsplastprodukter ska vara märkta, plastflaskor för dryck ska innehålla återvunnen plast och dryckesbehållare ska utformas så att korken är fäst vid behållaren. Dessutom införs producentansvar för fiskeredskap och cigaretter och retursystemet för plastflaskor och metallburkar utökas.
 
@@ -917,7 +917,7 @@ I lagen förbjuds köpare av jordbruks- och livsmedelsprodukter att använda vis
 
 **Ikraftträdande:** 1 januari 2021
 
-Ändringarna innebär bland annat att Livsmedelsverkets och Jordbruksverkets möjligheter att delegera uppgifter till kontrollorgan utvidgas. Den allmänna bestämmelsen i förvaltningslagen om när ett beslut får verkställas ska gälla såväl när kontrollorgan  som kontrollmyndigheterna fattar beslut. Ändringarna syftar till att göra det svenska kontrollsystemet mer ändamålsenligt och att anpassa nationella bestämmelser till EU:s nya förordning om ekologisk produktion och märkning av ekologiska produkter.
+Ändringarna innebär bland annat att Livsmedelsverkets och Jordbruksverkets möjligheter att delegera uppgifter till kontrollorgan utvidgas. Den allmänna bestämmelsen i förvaltningslagen om när ett beslut får verkställas ska gälla såväl när kontrollorgan som kontrollmyndigheterna fattar beslut. Ändringarna syftar till att göra det svenska kontrollsystemet mer ändamålsenligt och att anpassa nationella bestämmelser till EU:s nya förordning om ekologisk produktion och märkning av ekologiska produkter.
 
 ## Socialdepartementet
 
@@ -1125,7 +1125,7 @@ Det införs en bestämmelse som klargör vad som gäller för arbetstidens förl
 
 **Ikraftträdande:** 1 juli 2022
 
-Underhållsstöd lämnas av Försäkringskassan med olika belopp beroende på barnets ålder. Underhållsstödet till barn som är sju till och med tio år höjs för tid från och med augusti 2022 med 150 kronor till 1 823 kronor per månad. Det är samma belopp som lämnas i underhållsstöd till barn som är elva till och med 14 år.
+Underhållsstöd lämnas av Försäkringskassan med olika belopp beroende på barnets ålder. Underhållsstödet till barn som är sju till och med tio år höjs för tid från och med augusti 2022 med 150 kronor till 1 823 kronor per månad. Det är samma belopp som lämnas i underhållsstöd till barn som är elva till och med 14 år.
 
 ## Lagar och förordningar med anledning av coronapandemin
 
@@ -1223,11 +1223,11 @@ Tfn 073-840 33 12
 
 **SFS:** 2021:475–478
 
-**Ikraftträdande:** 1 oktober 2021 och 1 januari 2022
+**Ikraftträdande:** 1 oktober 2021 och 1 januari 2022
 
-Ändringarna ger möjlighet att vidareutbilda sig eller omskola sig högre upp i åldrarna. Den övre åldersgränsen för rätt till studiemedel höjs från 56 till 60 år. Nedtrappningen i rätten att låna inom studiemedelssystemet, den så kallade lånetrappan, flyttas fram och ska börja vid 51 år och sluta vid 60 år. Rätten att låna minskas då med 20 veckor per år från och med 51 års ålder.
+Ändringarna ger möjlighet att vidareutbilda sig eller omskola sig högre upp i åldrarna. Den övre åldersgränsen för rätt till studiemedel höjs från 56 till 60 år. Nedtrappningen i rätten att låna inom studiemedelssystemet, den så kallade lånetrappan, flyttas fram och ska börja vid 51 år och sluta vid 60 år. Rätten att låna minskas då med 20 veckor per år från och med 51 års ålder.
 
-Även den övre åldersgränsen för rätt till studiestartsstöd höjs från 56 till 60 år. Stödet består av bidrag utan inslag av lån och utgör ett komplement till studiemedelssystemet. Ändringarna innebär också att vissa åldersgränser som rör återbetalning och avskrivning av studielån höjs på motsvarande sätt, det vill säga med fyra år.
+Även den övre åldersgränsen för rätt till studiestartsstöd höjs från 56 till 60 år. Stödet består av bidrag utan inslag av lån och utgör ett komplement till studiemedelssystemet. Ändringarna innebär också att vissa åldersgränser som rör återbetalning och avskrivning av studielån höjs på motsvarande sätt, det vill säga med fyra år.
 
 ### Möjligheterna att få statsbidrag för utbildning för lärare i yrkesämnen utökas
 
@@ -1237,11 +1237,11 @@ Tfn 073-840 33 12
 
 **Ikraftträdande:** 1 december 2021
 
-Ändringen innebär att huvudmän inom gymnasieskolan, gymnasiesärskolan och den kommunala vuxenutbildningen kan få statsbidrag enligt förordningen om statsbidrag för behörighetsgivande utbildning för lärare i yrkesämnen även för kostnader för studier som påbörjas efter den 1 oktober 2021. Syftet med statsbidraget är att ge lärare i yrkesämnen i skolformerna möjlighet att avlägga yrkeslärarexamen.
+Ändringen innebär att huvudmän inom gymnasieskolan, gymnasiesärskolan och den kommunala vuxenutbildningen kan få statsbidrag enligt förordningen om statsbidrag för behörighetsgivande utbildning för lärare i yrkesämnen även för kostnader för studier som påbörjas efter den 1 oktober 2021. Syftet med statsbidraget är att ge lärare i yrkesämnen i skolformerna möjlighet att avlägga yrkeslärarexamen.
 
 ### Mälardalens högskola blir Mälardalens universitet
 
-**Ändring:** Förordning om ändring i högskoleförordningen (1993:100), bilaga 1.
+**Ändring:** Förordning om ändring i högskoleförordningen (1993:100), bilaga 1.
 
 **Beslutsunderlag:** Prop. 2020/21:60 Forskning, frihet, framtid – kunskap och innovation för Sverige
 

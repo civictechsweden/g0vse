@@ -1,4 +1,4 @@
-# 2026 års fördjupade analysuppdrag till Centrum för idrottsforskningDiarienummer:  S2026/00098
+# 2026 års fördjupade analysuppdrag till Centrum för idrottsforskning
 
 Regeringen uppdrar åt Gymnastik- och idrottshögskolan, Centrum för idrottsforskning, CIF, att under 2026 fördjupat analysera förutsättningarna för bredd- och elitidrottande för personer med funktionsnedsättningar.
 

@@ -12,4 +12,4 @@ Panelen tog upp konsumentskydd, vikten av samordnade regler för alla medlemssta
 
 EU-kommissionen har nyligen inlett en konsultation om nätplattformar för att undersöka behovet av framtida reglering.
 
-Moderator för seminariet var redaktör Peter O'Donnell från tidningen Politicos Brysselredaktion.
+Moderator för seminariet var redaktör Peter O'Donnell från tidningen Politicos Brysselredaktion.

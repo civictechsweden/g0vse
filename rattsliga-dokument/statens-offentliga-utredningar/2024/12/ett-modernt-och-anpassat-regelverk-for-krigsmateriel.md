@@ -1,6 +1,6 @@
-# Ett modernt och anpassat regelverk för krigsmateriel
+# SOU 2024:77
 
-![Omslagsbild av utredningen Ett modernt och anpassat regelverk för krigsmateriel, Sou 2024:77. ](/contentassets/d76247944967495cbdd9541f7f8aadbb/tumnagel_sou2024_77.jpg?width=150&quality=85)
+![Omslagsbild av utredningen Ett modernt och anpassat regelverk för krigsmateriel, Sou 2024:77. ](/contentassets/d76247944967495cbdd9541f7f8aadbb/tumnagel_sou2024_77.jpg?width=150&amp;quality=85)
 
 2023 års krigsmaterielutredning har haft i uppdrag att se över regel-verket för tillverkning, tillhandahållande och utförsel av krigsmateriel, inklusive riktlinjerna för utförsel och annan utlandssamverkan, i ljuset av ett svenskt medlemskap i Nordatlantiska fördragsorganisationen (Nato), samt i ett förändrat säkerhetspolitiskt läge. Uppdraget har även innefattat att se över vissa andra frågor i syfte att åstadkomma ett modernt, effektivt och ändamålsenligt regelverk för exportkontroll av krigsmateriel.
 

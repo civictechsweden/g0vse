@@ -6,7 +6,7 @@ Projektet ska genomföras i samarbete mellan Myndigheten för tillgäng­liga me
 
 Regeringen beviljar Myndigheten för tillgängliga medier 1,6 miljoner kronor för genomförande av projektet. Kostnaderna ska belasta anslag 2:2 Ersättning för särskilda tjänster till personer med funktionsnedsätt­ning, anslagsposten 1 Ersättning för särskilda tjänster till personer med funktionsnedsättning inom utgiftsområde 22 Kommunikationer, vilket disponeras av Post- och telestyrelsen. Medlen ska utbetalas av Post- och telestyrelsen efter rekvisitioner från Myndigheten för tillgängliga medier. I rekvisitionerna ska hänvisning göras till detta besluts diarienummer.
 
-Uppdraget ska slutredovisas till Regeringskansliet (Näringsdepartemen­tet) senast den 31 december 2016. Myndigheten för tillgängliga medier ska då även redovisa de kostnader myndigheten haft för uppdraget. Oförbrukade medel ska återbetalas till Post- och telestyrelsens bankgiro 5052-1897 med angivande av detta besluts diarie­nummer senast den 31 mars 2017.
+Uppdraget ska slutredovisas till Regeringskansliet (Näringsdepartemen­tet) senast den 31 december 2016. Myndigheten för tillgängliga medier ska då även redovisa de kostnader myndigheten haft för uppdraget. Oförbrukade medel ska återbetalas till Post- och telestyrelsens bankgiro 5052-1897 med angivande av detta besluts diarie­nummer senast den 31 mars 2017.
 
 ## Bakgrund
 
@@ -28,7 +28,7 @@ Projektets mål är vidare att den nya samordnade verksamheten ska vara etablera
 
 ## Skälen för regeringens beslut
 
-En samdistribution av dagstaltidningar och läns- och kommuntaltid­ningar och talböcker via internet innebär förbättringar för användaren eftersom den nya tekniken gör att även läns- och kommunaltaltidning­arna kan komma snabbare till användarna och endast en apparat behövs för att tillgodogöra sig de olika tjänsterna. Dessutom kan innehållet i läns- och kommuntaltidningarna utökas då det inte finns någon tids­begränsning om 80 minuter som är fallet med CD-skivor. Den nya tek­niken innebär också att det går att publicera oftare.  Dessa förbättringar medför dessutom sammantaget en potential att nå fler läsare.
+En samdistribution av dagstaltidningar och läns- och kommuntaltid­ningar och talböcker via internet innebär förbättringar för användaren eftersom den nya tekniken gör att även läns- och kommunaltaltidning­arna kan komma snabbare till användarna och endast en apparat behövs för att tillgodogöra sig de olika tjänsterna. Dessutom kan innehållet i läns- och kommuntaltidningarna utökas då det inte finns någon tids­begränsning om 80 minuter som är fallet med CD-skivor. Den nya tek­niken innebär också att det går att publicera oftare. Dessa förbättringar medför dessutom sammantaget en potential att nå fler läsare.
 
 En annan förbättring är att endast en myndighet, dvs. MTM, blir ansvarig för samordning av infrastruktur och användarstöd oavsett produkt, vilket underlättar för användaren.
 

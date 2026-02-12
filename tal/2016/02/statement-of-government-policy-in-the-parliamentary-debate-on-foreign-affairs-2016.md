@@ -1,6 +1,6 @@
 # Statement of Government Policy in the Parliamentary Debate on Foreign Affairs 2016
 
-![](/contentassets/7250211cf851431a98e3343cb175d7ab/utrikesdeklarationen-2016-eng_150.jpg?width=150&quality=85)
+![](/contentassets/7250211cf851431a98e3343cb175d7ab/utrikesdeklarationen-2016-eng_150.jpg?width=150&amp;quality=85)
 
 Presented by Mrs Margot Wallström, Minister for Foreign Affairs in the Parliamentary Debate on Foreign Affairs, Wednesday, 24 February 2016.
 (Utrikesdeklarationen 2016 i översättning till engelska)

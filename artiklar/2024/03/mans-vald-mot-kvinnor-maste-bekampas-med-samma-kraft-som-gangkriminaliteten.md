@@ -4,7 +4,7 @@ På kort tid har sex flickor och kvinnor i Sverige dödats och i samtliga fall m
 
 – Mäns våld mot kvinnor måste bekämpas med samma kraft som vi bekämpar gängkriminaliteten. Regeringen genomför just nu ett paradigmskifte i rättspolitiken – från fokus på gärningsman till brottsoffrets behov av upprättelse och skydd, säger statsminister Ulf Kristersson.
 
-–  Den senaste tidens allvarliga händelser där flera kvinnor på kort tid har dödats av en man som de har haft en relation med visar på behovet av att ta ytterligare krafttag mot mäns våld mot kvinnor. Vi kan inte bara stillasittande se på och se sådana här saker hända, säger jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg.
+– Den senaste tidens allvarliga händelser där flera kvinnor på kort tid har dödats av en man som de har haft en relation med visar på behovet av att ta ytterligare krafttag mot mäns våld mot kvinnor. Vi kan inte bara stillasittande se på och se sådana här saker hända, säger jämställdhets- och biträdande arbetsmarknadsminister Paulina Brandberg.
 
 ## Regeringen vidtar åtgärder på bred front
 

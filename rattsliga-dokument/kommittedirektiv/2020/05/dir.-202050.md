@@ -10,4 +10,4 @@ Utredaren får nu följande i uppdrag:
 * Utredaren ska öka engagemanget i internationella processer där initiativet kan ge ett värdefullt bidrag. Uppdraget ska i denna del utföras i nära dialog med Regeringskansliet.
 * Utredaren ska öka samverkan med och stöd till kommuner och regioner.
 * Utredaren ska fortsätta med och utveckla initiativets kommunikativa
-  insatser.
+insatser.

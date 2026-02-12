@@ -7,15 +7,15 @@ Tack för inbjudan och för möjligheten att få prata om regeringens life scien
 
 Vi lever i en tid av snabb teknologisk och vetenskaplig utveckling där möjligheterna att förbättra hälsan aldrig varit större. Samtidigt står vi inför stora hälsoutmaningar. Jag tänker bland annat på antimikrobiell resistens, vilket är ett område där den här regeringen har gjort stora insatser men där vi behöver göra mycket mer. Jag tänker även på klimatförändringar, ökningen av kroniska sjukdomar och inte minst psykisk ohälsa.
 
-Som ni känner till presenterade regeringen en uppdaterad version av den nationella life science-strategin i november förra året. Strategin innehåller ett stort antal målsättningar inom åtta prioriterade områden som bedöms vara särskilt angelägna att fokusera på för att uppnå det övergripande målet att vara en ledande life science-nation.
+Som ni känner till presenterade regeringen en uppdaterad version av den nationella life science-strategin i november förra året. Strategin innehåller ett stort antal målsättningar inom åtta prioriterade områden som bedöms vara särskilt angelägna att fokusera på för att uppnå det övergripande målet att vara en ledande life science-nation.
 
-Som en stark forskningsnation och tillika högt rankad innovationsnation har Sverige goda förutsättningar att fortsatt vara internationellt ledande inom life science men som framgår av strategin måste vi göra mycket mer. Med strategin vill regeringen uppmuntra till kraftsamling både lokalt, regionalt och på nationell nivå. Genom att vara en aktiv partner i både Sverige och EU vill regeringen bidra till en hållbar och gynnsam utveckling av svensk life science.
+Som en stark forskningsnation och tillika högt rankad innovationsnation har Sverige goda förutsättningar att fortsatt vara internationellt ledande inom life science men som framgår av strategin måste vi göra mycket mer. Med strategin vill regeringen uppmuntra till kraftsamling både lokalt, regionalt och på nationell nivå. Genom att vara en aktiv partner i både Sverige och EU vill regeringen bidra till en hållbar och gynnsam utveckling av svensk life science.
 
 Denna kraftsamling bygger givetvis på att vi alla har en gemensamma strävan: att bidra till bättre hälsa med hjälp av medicinska genombrott och banbrytande innovationer.
 
 Life science-området bidrar inte bara till bättre hälsa utan är även en av Sveriges största exportnäringar och inkluderar små och stora företag inom läkemedel, bioteknik, diagnostik, laboratorieteknik och givetvis medicinteknik.
 
-Exempelvis visar Vinnovas senaste mätning att  svenska life science-företag exporterade varor för drygt 186 miljarder kronor under 2022. Med få undantag har exporten ökat årligen i ett decennium.
+Exempelvis visar Vinnovas senaste mätning att svenska life science-företag exporterade varor för drygt 186 miljarder kronor under 2022. Med få undantag har exporten ökat årligen i ett decennium.
 
 Samma mätning visar också att inom den svenska life science-sektorn finns drygt 52 000 anställda och de flesta återfinns inom just branschen medicinteknik, tätt följt av läkemedelsbranschen.
 
@@ -38,7 +38,7 @@ En god tillgång till hälsodata är grunden för att vi ska kunna följa upp an
 
 Hälsodata utgöra också grunden för nya tjänster. dnom det medicintekniska området, och i synnerhet inom AI. För att utveckla säkra och effektiva AI-tjänster krävs tillgång till högkvalitativa data att träna systemen på. Här är det extra viktigt att grunddata är korrekt så att inte några felaktigheter byggs in i systemen.
 
-En annan fråga rör ändamålsenliga regleringar, vilket ju är grunden för denna konferens. I strategin konstateras att den ständiga och snabba utvecklingen inom life science-området ställer krav på förmåga till löpande översyn av de regulatoriska regelverken. Detta i syfte att främja dynamisk och säker utveckling av bl.a. medicintekniska produkter.
+En annan fråga rör ändamålsenliga regleringar, vilket ju är grunden för denna konferens. I strategin konstateras att den ständiga och snabba utvecklingen inom life science-området ställer krav på förmåga till löpande översyn av de regulatoriska regelverken. Detta i syfte att främja dynamisk och säker utveckling av bl.a. medicintekniska produkter.
 
 Vi har till största delen EU-gemensam lagstiftning inom life science-området. Jag tänker bl.a. på de medicintekniska regelverk som diskuteras på denna konferens, regleringen av hälsodata via EHDS och även kliniska prövningar. Det gör det lite svårare att löpande göra översyner eftersom Sverige själva inte kan ändra en lagstiftning beslutad på EU-nivå.
 

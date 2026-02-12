@@ -2,9 +2,9 @@
 
 Fredag den 13 oktober står statsminister Ulf Kristersson värd för ett toppmöte inom ramen för det regionala försvarssamarbetet Joint Expeditionary Force (JEF), ett regionalt försvarssamarbete mellan tio nordeuropeiska länder. Mötet hålls på Gotland som har central militärstrategisk roll i försvaret av Östersjön.
 
-Givet det försämrade säkerhetsläget i Sveriges närområde är JEF-samarbetet viktigt för Sverige, och kommer att fortsätta vara det även efter att Sverige blivit Natomedlemmar.
+Givet det försämrade säkerhetsläget i Sveriges närområde är JEF-samarbetet viktigt för Sverige, och kommer att fortsätta vara det även efter att Sverige blivit Natomedlemmar.
 
-Vid mötet kommer ledarna att diskutera Rysslands fullskaliga invasion av Ukraina, samt hur länderna tillsammans kan fortsätta stärka sitt samarbete med Nato och utveckla sin förmåga att hantera hybridhot.
+Vid mötet kommer ledarna att diskutera Rysslands fullskaliga invasion av Ukraina, samt hur länderna tillsammans kan fortsätta stärka sitt samarbete med Nato och utveckla sin förmåga att hantera hybridhot.
 
 Joint Expeditionary Force (JEF) är ett regionalt försvarssamarbete mellan tio nordeuropeiska länder: Sverige, Danmark, Estland, Finland, Island, Lettland, Litauen, Nederländerna, Norge och som leds av Storbritannien. Samarbetet syftar till att stärka förmågan att agera gemensamt och är ett ramverk för en snabbinsatsstyrka som ska kunna ingripa vid kriser i norra Europa.
 

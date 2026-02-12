@@ -16,4 +16,4 @@ Regeringen har remitterat den senaste rapporten till berörda instanser som ska 
 
 ## Lämna dina synpunkter
 
-Du kan också bidra till innehållet i rapporten genom att lämna synpunkter via formulärfältet nedan.
+Du kan också bidra till innehållet i rapporten genom att lämna synpunkter via formulärfältet nedan.

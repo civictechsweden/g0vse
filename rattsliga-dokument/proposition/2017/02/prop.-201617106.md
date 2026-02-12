@@ -2,11 +2,11 @@
 
 I propositionen föreslår regeringen att en ny lag, lagen om samverkan vid utskrivning från sluten hälso- och sjukvård, införs. Samtidigt upphävs lagen om kommunernas betalningsansvar för viss hälso- och sjukvård.
 
-Den nya lagen ska främja en god  vård och en socialtjänst med god kvalitet för enskilda som efter utskrivning från sluten vård bhöver insatser från socialtjänsten, den kommunalt finansierade hälso- och sjukvården eller den landstingsfinansierade öppna vården
+Den nya lagen ska främja en god vård och en socialtjänst med god kvalitet för enskilda som efter utskrivning från sluten vård bhöver insatser från socialtjänsten, den kommunalt finansierade hälso- och sjukvården eller den landstingsfinansierade öppna vården
 
 ## Samverkan mellan landsting och kommun
 
-Lagen innehåller bland annat bestämmelser om samverkan mellan landsting och kommun. Huvudmännen ska fastställa gemensamma riktlinjer avseende samverkan enligt den nya lagen och förväntas ingå överenskommelser med varandra om tidpunkt för kommunens betalningsansvar samt vilka belopp som ska betalas.
+Lagen innehåller bland annat bestämmelser om samverkan mellan landsting och kommun. Huvudmännen ska fastställa gemensamma riktlinjer avseende samverkan enligt den nya lagen och förväntas ingå överenskommelser med varandra om tidpunkt för kommunens betalningsansvar samt vilka belopp som ska betalas.
 
 ## Kommuners betalningsansvar i vissa fall
 

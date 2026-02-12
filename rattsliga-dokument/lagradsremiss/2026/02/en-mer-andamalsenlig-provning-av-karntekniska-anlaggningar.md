@@ -1,4 +1,4 @@
-# En mer ändamålsenlig prövning av kärntekniska anläggningarKN2026/00227
+# En mer ändamålsenlig prövning av kärntekniska anläggningar
 
 I lagrådsremissen föreslås en ny process där regeringen, efter en ansökan, får godkänna en kärnteknisk anläggning.
 

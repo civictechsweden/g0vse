@@ -16,10 +16,10 @@ Verksamheten ska bidra till följande mål:
 
 1. Stärkt kapacitet hos centrala organisationer för civil krishantering och fredsfrämjande att bidra till mänsklig säkerhet, rättsstatlighet och demokratiska principer, jämställdhet och respekt för mänskliga rättigheter.
 2. Stärkt förmåga hos centrala organisationer för civil krishantering och fredsfrämjande att förebygga, hantera och lösa kriser och konflikter
-   och i förlängningen att bygga hållbar fred och säkerhet.
+och i förlängningen att bygga hållbar fred och säkerhet.
 3. Stödja och bidra till internationella insatser för civil krishantering och fredsfrämjande, inom ramarna för insatsernas mandat och uppdrag.
 4. Stärkt kunskap om civila krishanterings- och fredsfrämjande insatsers roll och synergier i konflikt- och krissituationer.
 5. Ta tillvara erfarenheter från och bidra i den mån möjligt till att stärka samarbeten mellan relevanta internationella organisationer – särskilt EU-FN.
 6. Stärkt svensk förmåga inom civil krishantering och fredsfrämjande verksamhet inkl. effektiv beredskap, samverkan och kvalificerad
-   personalförsörjning.
+personalförsörjning.
 7. Stärkt jämställdhetsintegrering och ökad jämställdhet inom verksamhet som avser internationell civil krishantering och fredsfrämjande.

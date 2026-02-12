@@ -10,8 +10,8 @@ därmed bidra till att värna den finansiella stabiliteten. Förslagen innebär 
 huvudsak följande.
 
 * Ett fondbolag ska efter tillstånd av Finansinspektionen få tillämpa
-  swing pricing genom att ett justerat fondandelsvärde beräknas och
-  används.
+swing pricing genom att ett justerat fondandelsvärde beräknas och
+används.
 * För att få tillstånd ska fondbolaget ha den organisation, de system och den kompetens som behövs.
 * En tillämpning av swing pricing ska vara förenlig med fondandelsägarnas gemensamma intresse och ge möjlighet till betryggande insyn och kontroll.
 * I fondbestämmelserna ska det anges om justerat fondandelsvärde tillämpas och, i så fall, vilken metod som används för beräkningen.

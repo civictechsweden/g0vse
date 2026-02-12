@@ -1,4 +1,4 @@
-# Erbjudande till samtliga regioner och Gotlands kommun att upprätthålla en funktion som regional bredbandskoordinatorDiarienummer: Fi2025/01463
+# Erbjudande till samtliga regioner och Gotlands kommun att upprätthålla en funktion som regional bredbandskoordinator
 
 Regeringen erbjuder nedan angivna regioner och Gotlands kommun att upprätthålla en funktion som regional bredbandskoordinator under 2026 och 2027 med de uppgifter som beskrivs nedan under rubriken De regionala bredbandskoordinatorernas uppgifter.
 

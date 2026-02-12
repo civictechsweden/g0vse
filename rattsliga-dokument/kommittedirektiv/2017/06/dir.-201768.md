@@ -4,12 +4,12 @@ En särskild utredare ska se över och analysera vissa frågor som har med Allm�
 
 Utredaren ska bland annat:
 
-* föreslå hur ett villkor kan utformas som ser till att bara organisationer som i sin verksamhet respekterar värderingar som präglar ett demokratiskt samhälle kan få stöd,
+* föreslå hur ett villkor kan utformas som ser till att bara organisationer som i sin verksamhet respekterar värderingar som präglar ett demokratiskt samhälle kan få stöd,
 * analysera kriterierna för stöd,
 * överväga frågor om arvsavstående,
 * se över vissa administrativa frågor samt
 * föreslå de författningsändringar som föranleds av analys och bedöm-ningar.
 
-Utredaren ska inte föreslå några förändringar av organisationen.
+Utredaren ska inte föreslå några förändringar av organisationen.
 
 Uppdraget ska redovisas senast den 1 september 2018.

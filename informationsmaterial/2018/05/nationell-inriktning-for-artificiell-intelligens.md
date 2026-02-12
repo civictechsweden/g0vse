@@ -5,7 +5,7 @@ Sverige ska vara bäst i världen på att använda digitaliseringens möjlighete
 Regeringens bedömning är att:
 
 * Sverige behöver utveckla regler, standarder, normer och etiska
-  principer i syfte att vägleda etisk och hållbar AI och användning av AI.
+principer i syfte att vägleda etisk och hållbar AI och användning av AI.
 * Sverige behöver verka för svenska och internationella standarder och regelverk som främjar användning av AI och förebygger risker.
 * Sverige behöver kontinuerligt se över behovet av digital infrastruktur för att tillvarata möjligheterna som AI kan ge.
 * Sverige behöver fortsätta arbetet med att tillgängliggöra data som kan utgöra en samlad infrastruktur för att använda AI på områden där det tillför nytta.

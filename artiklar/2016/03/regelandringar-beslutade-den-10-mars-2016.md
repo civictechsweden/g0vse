@@ -19,4 +19,5 @@ Förordningen ersätter förordningen (2009:927) om tillsyn över energirelatera
 
 Författningen blir offentlig när den kommer ut från trycket i Svensk författningssamling. Det beräknas ske tisdagen den 22 mars 2016.
 
-**Kontaktperson**Andreas Lindholm 08–405 14 54
+**Kontaktperson**
+Andreas Lindholm 08–405 14 54

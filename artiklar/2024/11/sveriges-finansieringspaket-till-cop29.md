@@ -4,10 +4,9 @@ Sverige är och kommer fortsätta vara en av världens mest generösa givare av 
 
 Till COP29 i Baku levererar Sverige flera nya finansiella stöd:
 
-|  |  |  |
-| --- | --- | --- |
 | Namn på fond | Fondsyfte | Miljoner SEK |
-| Gröna Klimatfonden – GCF | Stöd till storskaliga projekt för grön omställning, utsläppsminskning och klimatanpassning. Mobiliserar privat kapital till klimatinvesteringar. Flerårigt stöd. Avser strategiperioden 2024–2027. | 8 000 |
+| --- | --- | --- |
+| Gröna Klimatfonden – GCF | Stöd till storskaliga projekt för grön omställning, utsläppsminskning och klimatanpassning. Mobiliserar privat kapital till klimatinvesteringar.   Flerårigt stöd. Avser strategiperioden 2024–2027. | 8 000 |
 | Fonden för att hantera skador och förluster | Syftar till att stödja särskilt sårbara länder med att hantera klimatrelaterade skador och förluster. Flerårigt stöd till nystartad fond. | 200 |
 | Anpassningsfonden | Finansierar projekt i utvecklingsländer för att stärka motståndskraften mot, och anpassningen till, klimatförändringarna. Utbetalas 2024. | 130 |
 | Fonden för de minst utvecklade länderna | Klimatfond som stödjer de minst utvecklade länderna i framtagandet av nationella handlingsplaner för klimatanpassning och genomförande med fokus på jordbruk, livsmedelssäkerhet och hälsa, samt tillgång till vatten. | 130 |

@@ -5,11 +5,11 @@ Samhället har ett ansvar för att kunskap om Förintelsen och andra folkmord f�
 Regeringen föreslår därför att bestämmelserna om hets mot folkgrupp i tryckfrihetsförordningen och brottsbalken förtydligas och att tillämpningsområdet utvidgas i viss mån på så sätt att
 
 * förnekelse av Förintelsen och vissa andra internationella brott uttryckligen
-  kriminaliseras,
+kriminaliseras,
 * det av lagtexten tydligt framgår att regleringen omfattar uppmaning till
-  våld, och
+våld, och
 * enskilda personer i de skyddade grupperna ges skydd och därigenom
-  målsägandestatus och rätt till skadestånd.
+målsägandestatus och rätt till skadestånd.
 
 Lagändringarna föreslås träda i kraft den 1 juli 2024 i brottsbalken och
 den 1 januari 2027 i tryckfrihetsförordningen.

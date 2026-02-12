@@ -6,12 +6,12 @@ De förslag som utredaren lämnar ska
 
 * säkerställa analysernas och utvärderingarnas användbarhet och relevans,
 * säkerställa att organisationen och styrningen av analys och
-  utvärderingsresurserna är ändamålsenlig och
-  effektiv utifrån regeringens samlade behov, t.ex. vid
-  utvärderingar av politiska reformer liksom mål för
-  enskilda politikområden, samt
+utvärderingsresurserna är ändamålsenlig och
+effektiv utifrån regeringens samlade behov, t.ex. vid
+utvärderingar av politiska reformer liksom mål för
+enskilda politikområden, samt
 * medge en flexibilitet som möter regeringens behov av
-  analyser och utvärderingar inom samtliga politikområden
-  och regeringens ökade krav på analyser med helhetsperspektiv.
+analyser och utvärderingar inom samtliga politikområden
+och regeringens ökade krav på analyser med helhetsperspektiv.
 
 Uppdraget ska redovisas senast den 31 augusti 2018.

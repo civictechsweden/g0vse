@@ -1,4 +1,4 @@
-# Promemoria Kravet på anmälan för komplementbostadshus och inredning av ytterligare en bostad i ett enbostadshus ska tas bort
+# Kravet på anmälan för komplementbostadshus och inredning av ytterligare en bostad i ett enbostadshus ska tas bort
 
 I promemorian föreslås ändringar i plan- och byggförordningen (2011:338) som innebär att uppförande och tillbyggnad av ett komplementbostadshus, ändring av en komplementbyggnad till ett komplementbostadshus och inredning av ytterligare en bostad i ett enbostadshus inte ska kräva en särskild anmälan till byggnadsnämnden innan åtgärderna får vidtas.
 

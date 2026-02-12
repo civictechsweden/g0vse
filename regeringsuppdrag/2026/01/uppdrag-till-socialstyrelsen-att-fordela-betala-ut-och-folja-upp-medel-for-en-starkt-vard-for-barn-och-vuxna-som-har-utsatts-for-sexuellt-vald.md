@@ -1,4 +1,4 @@
-# Uppdrag till Socialstyrelsen att fördela, betala ut och följa upp medel för en stärkt vård för barn och vuxna som har utsatts för sexuellt våldDiarienummer:  S2026/00050
+# Uppdrag till Socialstyrelsen att fördela, betala ut och följa upp medel för en stärkt vård för barn och vuxna som har utsatts för sexuellt våld
 
 Regeringen uppdrar åt Socialstyrelsen att fördela, betala ut och följa upp medel till regionerna för en stärkt vård för barn och vuxna som har utsatts för sexuellt våld.
 

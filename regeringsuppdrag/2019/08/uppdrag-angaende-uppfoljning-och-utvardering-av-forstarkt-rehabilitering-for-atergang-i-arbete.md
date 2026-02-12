@@ -13,7 +13,7 @@ I uppdraget ingår att följa upp och utvärdera:
 
 ISF ska följa upp hur reformen efterlevs av arbetsgivare, Försäkringskassan och Arbetsmiljöverket.
 
-Myndigheten ska också utvärdera om reformen bidrar till att stärka dels individens möjligheter till rehabilitering och dels arbetsgivarens rehabiliteringsansvar och på så sätt ökar förutsättningarna för en tidigare återgång i arbete. Det bidrar till minskad sjukfrånvaro och kortare sjukperioder.
+Myndigheten ska också utvärdera om reformen bidrar till att stärka dels individens möjligheter till rehabilitering och dels arbetsgivarens rehabiliteringsansvar och på så sätt ökar förutsättningarna för en tidigare återgång i arbete. Det bidrar till minskad sjukfrånvaro och kortare sjukperioder.
 
 Ett jämställdhetsperspektiv ska beaktas i uppföljningen och utvärderingen.
 

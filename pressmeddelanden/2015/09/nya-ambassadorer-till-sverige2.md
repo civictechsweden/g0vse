@@ -6,7 +6,7 @@ Ambassadörerna från Storbritannien, Island, Sydafrika och Bosnien och Hercegov
 
 Storbritanniens nyutnämnde ambassadör David Cairns har tjänstgjort i utrikesministeriet sedan 1993. Ambassadör Cairns har arbetat med handelsfrågor under stora delar av sin karriär. Under de senaste åren har han innehaft bland annat följande befattningar:
 
-2010–2014: Chef för enheten Corporate Services, Estates & Security, utrikesministeriet.
+2010–2014: Chef för enheten Corporate Services, Estates & Security, utrikesministeriet.
 
 2006–2010: Chef för enheten för handel och investeringar vid ambassaden i Tokyo.
 

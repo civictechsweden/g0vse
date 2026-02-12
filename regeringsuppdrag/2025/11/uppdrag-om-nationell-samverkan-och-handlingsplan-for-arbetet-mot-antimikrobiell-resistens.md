@@ -1,4 +1,4 @@
-# Uppdrag om nationell samverkan och handlingsplan för arbetet mot antimikrobiell resistensDiarienummer:  S2025/01938
+# Uppdrag om nationell samverkan och handlingsplan för arbetet mot antimikrobiell resistens
 
 Regeringen uppdrar åt Folkhälsomyndigheten och Jordbruksverket att ansvara för en fortsatt nationell samverkan av arbetet mot antimikrobiell resistens. Detta exempelvis genom etablerade samverkansformer med andra relevanta myndigheter och aktörer med uppgifter och uppdrag av betydelse för genomförandet av AMR-strategin. Uppdraget börjar gälla den 1 januari 2026
 
@@ -34,6 +34,6 @@ I arbetet med att ta fram handlingsplanen ska även slutsatser gjorda inom uppdr
 
 Folkhälsomyndigheten och Jordbruksverket ska:
 
-* löpande informera Regeringskansliet  om arbetet.
+* löpande informera Regeringskansliet om arbetet.
 * senast den 15 december 2026 delredovisa uppdraget till Regeringskansliet. Delredovisningen ska innehålla en nationell handlingsplan för arbetet mot antimikrobiell resistens. Därefter ska delredovisning av arbetet i uppdraget ske årligen senast den 1 mars med start 2028. De årliga delredovisningarna ska innehålla en kortare analys och redovisning av resultaten för att följa utvecklingen av målen och i Sveriges strategi samt tillhörande handlingsplan. Delredovisningen den 1 mars 2030 ska även innehålla förslag på eventuella förändringar i AMR-strategin som bör genomföras.
 * senast den 31 december 2030 slutredovisa uppdraget till Regeringskansliet.

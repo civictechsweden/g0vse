@@ -1,4 +1,4 @@
-# Prövningen av avfallshanteringsplaner för utvinningsavfall och vissa kompletterande bestämmelser till EU-förordningen om kritiska råmaterialKN2025/02361
+# Prövningen av avfallshanteringsplaner för utvinningsavfall och vissa kompletterande bestämmelser till EU-förordningen om kritiska råmaterial
 
 I promemorian lämnas förslag som syftar till att skapa en tydligare ordning för prövningen av avfallshanteringsplaner för utvinningsavfall enligt förordningen (2013:319) om utvinningsavfall.
 

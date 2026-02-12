@@ -5,11 +5,11 @@ Regeringen ger Forum för levande historia i uppdrag att genomföra insatser fö
 Myndigheten ska:
 
 * utveckla och genomföra verksamhetsanpassade utbildningar för att
-  motverka rasism utifrån olika yrkesgruppers specifika behov,
+motverka rasism utifrån olika yrkesgruppers specifika behov,
 * utveckla och genomföra utbildningar med fokus på att kvalitetssäkra
-  offentliga verksamheters bemötande av allmänheten genom arbete mot rasism,
+offentliga verksamheters bemötande av allmänheten genom arbete mot rasism,
 * följa upp de långsiktiga effekterna av myndighetens utbildningar om
-  rasism i historien och i dag.
+rasism i historien och i dag.
 
 Målgruppen för insatserna är relevanta yrkesgrupper som i sin offentliga verksamhet antingen arbetar med frågor som rör rasism eller liknande former av fientlighet, eller som i sin offentliga verksamhet möter enskilda.
 

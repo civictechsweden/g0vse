@@ -6,6 +6,6 @@ Myndigheten ska redogöra för hur man kan utforma förslag eller utveckla befin
 
 ## Samverkande aktörer
 
-E-hälsomyndigheten samverkar med Socialstyrelsen och samtalar med Myndigheten för digital förvaltning, Sveriges Kommuner och Regioner, företrädare för regioner och kommuner, Inera AB, företrädare för fristående vårdgivare och andra aktörer.
+E-hälsomyndigheten samverkar med Socialstyrelsen och samtalar med Myndigheten för digital förvaltning, Sveriges Kommuner och Regioner, företrädare för regioner och kommuner, Inera AB, företrädare för fristående vårdgivare och andra aktörer.
 
 Myndigheten lämnar senast den 1 oktober 2021 en delredovisning till Socialdepartementet. Uppdraget slutredovisas till Socialdepartementet senast den 15 februari 2022.

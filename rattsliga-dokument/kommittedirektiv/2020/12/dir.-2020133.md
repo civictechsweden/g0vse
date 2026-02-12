@@ -11,8 +11,8 @@ Utredaren ska bl.a.
 
 * kartlägga hur betalningsmarknaden ser ut och hur den regleras samt bedöma hur den framtida betalningsmarknaden kommer att se ut med utgångspunkt i utvecklingen i Sverige och i andra länder,
 * kartlägga rollfördelningen mellan staten och näringslivet på
-  betalningsmarknaden och ta ställning till statens framtida roll på
-  betalningsmarknaden,
+betalningsmarknaden och ta ställning till statens framtida roll på
+betalningsmarknaden,
 * ta ställning till innebörden och behovet av att vissa betalningsmedel har ställning som lagliga betalningsmedel,
 * ta ställning till behovet av att Riksbanken ger ut digitala centralbankspengar, s.k. e-kronor, och
 * ta ställning till om författningsförslag eller andra åtgärder är nödvändiga och i förekommande fall föreslå sådana.

@@ -19,28 +19,28 @@ Men den lyfter också fram särskilda former av rasism.
 
 ## Planen fokuserar extra på:
 
-●      Rasism mot muslimer
+● Rasism mot muslimer
 
-●      Rasism mot judar
+● Rasism mot judar
 
-●      Rasism mot svarta (afrikaner och personer med afrikansk härkomst)
+● Rasism mot svarta (afrikaner och personer med afrikansk härkomst)
 
-●      Rasism mot romer
+● Rasism mot romer
 
-●      Rasism mot samer
+● Rasism mot samer
 
 Regeringen vill att arbetet mot rasism ska ge resultat.
 Därför fokuserar planen på fyra särskilda områden där rasism finns.
 
 ## Områden i fokus:
 
-●      Skolan
+● Skolan
 
-●      Rättsväsendet (polisen och domstolarna)
+● Rättsväsendet (polisen och domstolarna)
 
-●      Välfärd och offentliga verksamheter (sjukhus, socialtjänst med mera)
+● Välfärd och offentliga verksamheter (sjukhus, socialtjänst med mera)
 
-●      Arbetslivet (jobbet)
+● Arbetslivet (jobbet)
 
 För varje område finns det mål som regeringen ska följa upp.
 
@@ -52,42 +52,42 @@ Till exempel genom att ta fram ny kunskap eller stoppa rasism med olika insatser
 
 ### Dom viktigaste myndigheterna är:
 
-●      Arbetsmiljöverket
+● Arbetsmiljöverket
 
-●      Brottsförebyggande rådet
+● Brottsförebyggande rådet
 
-●      Diskrimineringsombudsmannen
+● Diskrimineringsombudsmannen
 
-●      Forum för levande historia
+● Forum för levande historia
 
-●      Polismyndigheten
+● Polismyndigheten
 
-●      Skolverket
+● Skolverket
 
-●      Socialstyrelsen
+● Socialstyrelsen
 
 ### Andra myndigheter som också är med i arbetet är:
 
-●      Brottsoffermyndigheten
+● Brottsoffermyndigheten
 
-●      Länsstyrelserna
+● Länsstyrelserna
 
-●      Mediemyndigheten
+● Mediemyndigheten
 
-●      Myndigheten för arbetsmiljökunskap
+● Myndigheten för arbetsmiljökunskap
 
-●      Myndigheten för stöd till trossamfund
+● Myndigheten för stöd till trossamfund
 
-●      Myndigheten för ungdoms- och civilsamhällesfrågor
+● Myndigheten för ungdoms- och civilsamhällesfrågor
 
-●      Segerstedtinstitutet vid Göteborgs universitet
+● Segerstedtinstitutet vid Göteborgs universitet
 
-●      Skolinspektionen
+● Skolinspektionen
 
-●      Totalförsvarets forskningsinstitut
+● Totalförsvarets forskningsinstitut
 
-●      Vetenskapsrådet
+● Vetenskapsrådet
 
-●      Åklagarmyndigheten
+● Åklagarmyndigheten
 
 Myndigheterna ska arbeta tillsammans för att stoppa rasism och hatbrott i samhället.

@@ -5,5 +5,5 @@ I propositionen föreslås att riksdagen godkänner ett protokoll undertecknat d
 Protokollet undertecknat den 4 december 2012 om ändring i skatteavtalet innebär i huvudsak ändringar i artikel 26 (Utbyte av upplysningar) och artikel 28 (Begränsningar av förmåner). Bestämmelsen om informationsutbyte uppdateras till nu gällande OECD-standard, vilket bl.a. innebär att Skatteverket får möjlighet att begära upplysningar som innehas av banker m.fl. i Jamaica. Detta utgör ett viktigt medel för en effektiv skattekontroll. Bestämmelsen om begränsningar av förmåner moderniseras till att motsvara den nuvarande svenska modellen.
 
 De nya bestämmelserna föreslås träda i kraft den dag regeringen bestämmer.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________________________________________________
 Riksdagen fattade den 23 maj 2013 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

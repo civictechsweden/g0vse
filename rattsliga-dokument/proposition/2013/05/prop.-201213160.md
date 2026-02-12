@@ -7,5 +7,5 @@ Ett finansiellt konglomerat är en företagsgrupp som innehåller företag som d
 Ändringsdirektivet innehåller ett flertal mindre ändringar som syftar till att åtgärda brister som har identifierats vid tillsynen av finansiella konglomerat. Det är ett första steg i en större översyn.
 
 I avvaktan på den större översynen har de ändringar som nu föreslås i princip begränsats till vad som är nödvändigt för att genomföra ändringsdirektivet. Lagändringarna föreslås träda i kraft den 1 augusti 2013.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+____________________________________________________________
 Riksdagen fattade den 19 juni 2013 beslut om propositionen. Läs mer om beslutet via länken i högerspalten.

@@ -9,8 +9,8 @@ Boverket ska
 * komplettera den nationella specifikationen för detaljplan med de krav som behövs för att dessa planer ska kunna långtidsbevaras med bibehållen funktionalitet,
 * göra en förstudie om en nationell lösning för en digital enhetlig lov- och byggprocess samt för digitala kontrollplaner,
 * ta fram en teknisk lösning för att tillhandahålla den information som
-  krävs enligt Europaparlamentet och rådets direktiv 2007/2/EG av den 14 mars 2007 om upprättande av en infrastruktur för rumslig
-  information i Europeiska gemenskapen (Inspire),
+krävs enligt Europaparlamentet och rådets direktiv 2007/2/EG av den 14 mars 2007 om upprättande av en infrastruktur för rumslig
+information i Europeiska gemenskapen (Inspire),
 * påbörja framtagandet av en teknisk lösning för digitala översiktsplaner,
 * göra en förstudie om hur geografiskt relaterade planeringsunderlag med utgångspunkt i riksintressen bör utformas i en digital miljö,
 * göra en förstudie om ett nationellt system för rapportering och lagring av obligatorisk ventilationskontroll (OVK), och

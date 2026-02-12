@@ -6,7 +6,7 @@ Uppdraget utvidgas när det gäller tidiga insatser för asylsökande kvinnor oc
 
 Utredaren ska även inom ramen för det befintliga uppdraget föreslå utformningen av ett system för tidiga insatser för asylsökande, där dagersättning kopplas till deltagande. Utgångspunkten bör vara att dagersättningen ska sättas ned vid frånvaro, såvida det inte finns giltiga skäl för frånvaron, till exempel omständigheter utanför den enskildes kontroll.
 
-Utredaren ska vidare undersöka förutsättningarna för att införa en möjlighet att sätta ned dagersättningen även vid till exempel misskötsamhet från den asylsökandes sida eller vid annat agerande som försvårar mottagandet.
+Utredaren ska vidare undersöka förutsättningarna för att införa en möjlighet att sätta ned dagersättningen även vid till exempel misskötsamhet från den asylsökandes sida eller vid annat agerande som försvårar mottagandet.
 
 Vidare utvidgas uppdraget så att utredaren ska föreslå hur regelverket för dagersättning kan utformas så att begränsad inkomst av arbete inte påverkar dagersättningen.
 

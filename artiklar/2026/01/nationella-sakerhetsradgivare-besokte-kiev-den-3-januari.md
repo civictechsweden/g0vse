@@ -1,6 +1,6 @@
 # Nationella säkerhetsrådgivare besökte Kiev den 3 januari
 
-Sveriges nationella säkerhetsrådgivare Niclas Kvarnström besökte under helgen Kiev tillsammans med en grupp europeiska nationella säkerhetsrådgivare från femton länder samt NATO och EU.
+Sveriges nationella säkerhetsrådgivare Niclas Kvarnström besökte under helgen Kiev tillsammans med en grupp europeiska nationella säkerhetsrådgivare från femton länder samt NATO och EU.
 
 Besöket genomfördes under lördagen den 3 januari på inbjudan av Ukraina, i syfte att diskutera fredsprocessen.
 

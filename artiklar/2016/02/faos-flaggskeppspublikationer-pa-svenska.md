@@ -10,7 +10,7 @@ Svenska FAO-kommittén har i uppdrag att sprida information om FAO och dess verk
 
 ### The State of World Fisheries and Aquaculture (SOFIA)
 
-The State of World Fisheries and Aquaculture, (SOFIA) är FAO:s flaggskeppsrapport om tillståndet för globalt fiske och vattenbruk. I SOFIA 2016 rapporteras att situationen totalt sett över världen inte har förbättrats, även om det i vissa regioner har skett en ljusning de senaste åren. Av de globala fiskebestånden är 31 procent överfiskade det vill säga utom biologiskt hållbara nivåer. I rapporten redogörs bland annat för FAO:s arbete för att motverka olagligt, orapporterat och oreglerat fiske (IUU), där avtalet om hamnstatsåtgärder för att bekämpa IUU utgör ett viktigt instrument. Det trädde i kraft den 5 juni 2016 och är den första bindande globala överenskommelsen på fiskeområdet.
+The State of World Fisheries and Aquaculture, (SOFIA) är FAO:s flaggskeppsrapport om tillståndet för globalt fiske och vattenbruk. I SOFIA 2016 rapporteras att situationen totalt sett över världen inte har förbättrats, även om det i vissa regioner har skett en ljusning de senaste åren. Av de globala fiskebestånden är 31 procent överfiskade det vill säga utom biologiskt hållbara nivåer. I rapporten redogörs bland annat för FAO:s arbete för att motverka olagligt, orapporterat och oreglerat fiske (IUU), där avtalet om hamnstatsåtgärder för att bekämpa IUU utgör ett viktigt instrument. Det trädde i kraft den 5 juni 2016 och är den första bindande globala överenskommelsen på fiskeområdet.
 
 [Bilaga: Sammanfattning av The State of World Fisheries and Aquaculture 2016](/contentassets/379755947583437792aecb18ad51d1dc/sofia-2016-flyer-sve_.pdf.pdf)
 

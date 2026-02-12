@@ -1,4 +1,4 @@
-# Remiss av Kärnkraftsprövningsutredningens delbetänkande Ny kärnkraft – ett samlat system för omhändertagande av radioaktivt avfallDiarienummer: KN2025/01854
+# Remiss av Kärnkraftsprövningsutredningens delbetänkande Ny kärnkraft – ett samlat system för omhändertagande av radioaktivt avfall
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen Kärnkraftsprövningsutredningens delbetänkande
 Ny kärnkraft – ett samlat system för omhändertagande av

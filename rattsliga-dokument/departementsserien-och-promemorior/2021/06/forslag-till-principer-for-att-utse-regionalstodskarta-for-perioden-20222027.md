@@ -9,10 +9,11 @@ Enligt riktlinjerna går Sverige från ett regionalstödsområde på 12,26 proce
 I Sverige har riktlinjerna och regionalstödskartan 2022–2027 betydelse för följande stöd:
 
 * Regionalt investeringsstöd kan beviljas till företag i dessa områden.
+
 * Transportbidraget ska kompensera företag i Norrbotten, Västerbotten, Jämtland och Västernorrland för kostnadsnackdelar till följd av långa transportavstånd samt stimulera till höjd förädlingsgrad i områdets näringsliv.
 
 Även stödnivåer och stödbelopp för vissa andra stöd inom den allmänna gruppundantagsförordningen (GBER) påverkas av regionalstödskartan. Inom de regionala företagsstöden finns det också flera stödformer som inte berörs av regionalstödskartan och som på olika sätt täcker hela landet.
 
-Förslaget utgör ett underlag inför anmälan av regionalstödskartan. I  förslaget har inte möjligt befolkningsutrymme utnyttjats fullt ut. Det är slutligen kommissionen som beslutar om Sveriges regionalstödskarta.
+Förslaget utgör ett underlag inför anmälan av regionalstödskartan. I förslaget har inte möjligt befolkningsutrymme utnyttjats fullt ut. Det är slutligen kommissionen som beslutar om Sveriges regionalstödskarta.
 
 Regeringen kommer att hantera synpunkterna på remissen innan förslag till regionalstödskarta anmäls till EU-kommissionen. Det är sedan EU-kommissionen som slutligen beslutar om Sveriges regionalstödskarta. Efter kommissionens beslut kommer förordningen (1999:1382) om stödområden för vissa regionala företagsstöd att ändras.

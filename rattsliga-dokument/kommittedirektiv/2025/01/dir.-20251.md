@@ -7,4 +7,4 @@ Ekobrottsmyndighetens förutsättningar att bekämpa den ekonomiska
 brottsligheten (dir. 2023:90). Uppdraget skulle redovisas senast den
 22 februari 2025.
 
-Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 22 juni 2025.
+Utredningstiden förlängs. Uppdraget ska i stället redovisas senast den 22 juni 2025.

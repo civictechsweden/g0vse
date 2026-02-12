@@ -3,7 +3,7 @@
 Regeringen uppdrar åt Boverket att
 
 * analysera hur en reglering om vem som är ansvarig för att åtgärda ett enkelt avhjälpt hinder mot tillgänglighet kan utformas,
-  – lämna förslag till en sådan reglering i plan- och bygglagen (2010:900),
+– lämna förslag till en sådan reglering i plan- och bygglagen (2010:900),
 * utreda om det är möjligt att undanta vissa enkla åtgärder, som inte är kostsamma, från den ekonomiska bedömningen som ska göras för det enkelt avhjälpta hindret, och om så bedöms vara fallet lämna förslag till nödvändiga författningsändringar.
 
 I Boverkets uppdrag ingår att överväga om det är möjligt att införa en

@@ -1,4 +1,4 @@
-# Förlängd tid för uppdraget att utreda förutsättningarna för att upprätta en hyresdatabasDiarienummer: LI2025/00729
+# Förlängd tid för uppdraget att utreda förutsättningarna för att upprätta en hyresdatabas
 
 Regeringen förlänger tiden för uppdraget till Statistiska centralbyrån (SCB) att utreda förutsättningarna för att upprätta en hyresdatabas.
 

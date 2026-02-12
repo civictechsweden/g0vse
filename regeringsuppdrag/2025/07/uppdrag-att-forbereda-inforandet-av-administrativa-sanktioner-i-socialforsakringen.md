@@ -1,4 +1,4 @@
-# Uppdrag att förbereda införandet av administrativa sanktioner i socialförsäkringenDiarienummer:  S2025/01368
+# Uppdrag att förbereda införandet av administrativa sanktioner i socialförsäkringen
 
 Regeringen uppdrar åt Försäkringskassan och Pensionsmyndigheten att förbereda införandet av administrativa sanktioner i socialförsäkringen.
 

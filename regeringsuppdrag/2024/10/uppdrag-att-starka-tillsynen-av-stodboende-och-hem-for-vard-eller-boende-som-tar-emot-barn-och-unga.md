@@ -5,7 +5,7 @@ Regeringen uppdrar åt Inspektionen för vård och omsorg (IVO) att stärka till
 IVO ska:
 
 * redovisa hur myndighetens ägar- och ledningsprövning kan utökas och regelbundet genomföras i tillsynen. Myndigheten ska även genomföra tillsyn under 2025.
-* tillsammans med Polismyndigheten och Ekobrottsmyndigheten vidta åtgärder för att effektivisera befintligt samarbete för en stärkt tillsyn av stödboenden och HVB för barn och unga. Myndigheten ska även föreslå hur det myndighetsgemensamma arbetet ytterligare kan förstärkas.
+* tillsammans med Polismyndigheten och Ekobrottsmyndigheten vidta åtgärder för att effektivisera befintligt samarbete för en stärkt tillsyn av stödboenden och HVB för barn och unga. Myndigheten ska även föreslå hur det myndighetsgemensamma arbetet ytterligare kan förstärkas.
 * tillsammans med Polismyndigheten och Ekobrottsmyndigheten föreslå hur och i vilken omfattning återkommande rapportering ska göras när det gäller:
 
 1. lägesbilden över välfärdsbrottsligheten,

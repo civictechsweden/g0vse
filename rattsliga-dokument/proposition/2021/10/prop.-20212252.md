@@ -9,7 +9,7 @@ Förslagen innebär bland annat följande.
 * Det klargörs att den som inte följer röstmottagarnas anvisningar får uppmanas att tillfälligt lämna val- eller röstningslokalen, om det är av väsentlig betydelse för genomförandet av röstmottagningen.
 * Det förtydligas att väljaren ska välja sina valsedlar och göra i ordning sina röster i enskildhet.
 * Väljare som på grund av funktionsnedsättning eller liknande inte själva kan ta sina valsedlar på den avskärmade plats där valsedlarna finns utlagda ska på begäran få hjälp med detta av röstmottagarna. En sådan
-  väljare får också anlita någon annan person som hjälper honom eller henne med detta.
+väljare får också anlita någon annan person som hjälper honom eller henne med detta.
 
 Regeringen bedömer även att en utvärdering av tillämpningen av reformen med avskärmningar av valsedelställ bör göras efter valen 2022.
 
