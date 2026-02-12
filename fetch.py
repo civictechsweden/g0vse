@@ -96,7 +96,7 @@ def process_item(item, downloader, codes, existing_mds=None, pbar=None):
         print(f"Error: {url}")
         return False
 
-    md_content, metadata = extract_page(page)
+    md_content, metadata = extract_page(page, url)
     del page  # Explicitly free memory for the large HTML string
 
     if not md_content:

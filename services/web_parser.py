@@ -23,6 +23,34 @@ H1_VIGNETTE_SELECTOR = "span.h1-vignette"
 ATTACHMENTS_SELECTOR = "div.col-1 > .list--icons a, div.col-1 > ul.list--Block--icons a"
 POLITIK_LINKS_SELECTOR = ".block--politikomrLinks"
 
+# Common links to exclude from shortcuts and attachments
+EXCLUDED_URLS = {
+    "/",
+    "/prenumerera-via-e-post/",
+    "/rapporter/2021/09/svara-pa-remiss/",
+    "/sa-styrs-sverige/lagstiftningsprocessen/",
+    "https://twitter.com/socialdep",
+    "https://www.youtube.com/channel/UCTCf9DNzLC78u2o_4Iu2frw",
+    "https://twitter.com/ForsvarsdepSv",
+    "https://www.linkedin.com/company/forsvarsdepartementet-se",
+    "/press/information-om-regeringens-presstraffar/",
+    "/sveriges-regering/finansdepartementet/statens-budget/",
+    "/sverige-i-eu/",
+    "http://www.ohchr.org/en/hrbodies/cat/pages/catindex.aspx",
+    "/regeringsarenden/",
+    "https://newsroom.consilium.europa.eu/",
+    "https://www.consilium.europa.eu/sv/",
+    "/uds-reseinformation/avradan---nar-ud-avrader-fran-resor/vad-innebar-avradan--fragor-och-svar/",
+    "/ud-avrader/",
+    "http://eur-lex.europa.eu/legal-content/SV/TXT/?uri=celex:32016R0679",
+    "https://twitter.com/arbetsmarkdep",
+    "/sa-styrs-sverige/regeringens-arbete-pa-eu-niva/",
+    "http://eu.riksdagen.se/",
+    "/sverige-i-eu/sveriges-arbete-i-ministerradet/",
+    "/rattsliga-dokument/lagradsremiss/",
+    "https://www.statskontoret.se/statsliggaren/",
+}
+
 
 def get_document_list(response):
     message = response.get("Message")
@@ -90,9 +118,9 @@ def extract_from_link(link):
     return str(href.split("/")[-1]), link.text(strip=True)
 
 
-def extract_page(response):
+def extract_page(response, item_url=None):
     tree = HTMLParser(response)
-    return extract_text(tree), extract_metadata(tree)
+    return extract_text(tree), extract_metadata(tree, item_url)
 
 
 def extract_text(tree):
@@ -105,7 +133,9 @@ def extract_text(tree):
         return None
 
     # Extract clean title (direct text of h1, ignoring vignette span)
-    title_text = "".join(node.text() for node in title_el.iter(include_text=True) if node.tag == "-text").strip()
+    title_text = "".join(
+        node.text() for node in title_el.iter(include_text=True) if node.tag == "-text"
+    ).strip()
 
     # For markdown conversion, we grab the HTML of the body divs and feed it to html-to-markdown
     # We select summary first to ensure it appears at the top
@@ -118,7 +148,7 @@ def extract_text(tree):
     return f"# {title_text}\n\n{markdown}\n"
 
 
-def extract_metadata(tree):
+def extract_metadata(tree, item_url=None):
     # Extract ID first before potentially modifying anything (though we won't modify the tree here)
     journal_id_el = tree.css_first(H1_VIGNETTE_SELECTOR)
     journal_id = journal_id_el.text(strip=True) if journal_id_el else None
@@ -128,10 +158,14 @@ def extract_metadata(tree):
     title_text = None
     if title_el:
         # Same logic as extract_text to get clean title
-        title_text = "".join(node.text() for node in title_el.iter(include_text=True) if node.tag == "-text").strip()
+        title_text = "".join(
+            node.text()
+            for node in title_el.iter(include_text=True)
+            if node.tag == "-text"
+        ).strip()
 
-    shortcuts = extract_shortcuts(tree)
-    attachments = extract_attachments(tree)
+    shortcuts = extract_shortcuts(tree, item_url)
+    attachments = extract_attachments(tree, item_url)
     categories_raw = extract_categories(tree)
 
     categories = [c[0] for c in categories_raw]
@@ -147,28 +181,32 @@ def extract_metadata(tree):
     }
 
 
-def extract_shortcuts(tree):
+def extract_shortcuts(tree, item_url=None):
     shortcuts = []
     seen_urls = set()
+    if item_url:
+        seen_urls.add(item_url)
 
     col_2 = tree.css_first(COL_2_SELECTOR)
     if col_2:
         for a in col_2.css(A_TAG_SELECTOR):
             url = a.attributes.get("href")
-            if url and url not in seen_urls:
+            if url and url not in EXCLUDED_URLS and url not in seen_urls:
                 shortcuts.append({"name": a.text(strip=True), "url": url})
                 seen_urls.add(url)
 
     return shortcuts
 
 
-def extract_attachments(tree):
+def extract_attachments(tree, item_url=None):
     # div.col-1 > .list--icons a  OR  div.col-1 > ul.list--Block--icons a
     links = []
 
     # CSS selector can handle multiple comma-separated paths
     for a in tree.css(ATTACHMENTS_SELECTOR):
-        links.append({"name": a.text(strip=True), "url": a.attributes.get("href")})
+        url = a.attributes.get("href")
+        if url:
+            links.append({"name": a.text(strip=True), "url": url})
 
     return links
 
