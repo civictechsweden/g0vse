@@ -1,5 +1,32 @@
 [
     {
+        "title": "Azerbajdzjan - avrådan",
+        "url": "/ud-avrader/avradan-till-azerbajdzjan/",
+        "published": "2026-02-11",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av förändringar i säkerhetsläget har Utrikesdepartementet beslutat att lätta avrådan för Azerbajdzjan. Följande avrådan gäller:\n\nUtrikesdepartementet avråder från alla resor till områden som ligger närmare än 5 kilometer från den internationella gränsen mellan Armenien och Azerbajdzjan. \n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till distrikten Ağdam, Cäbrayıl, Füzuli, Kelbäcär, Laçın, Qubadlı, Şuşa, Xankändi, Xocalı, Xocavänd, Zängilan; Ağdärä och Tärtär.\n\nBeslut om ändrad avrådan togs den 11 februari 2026. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Länder som UD avråder från resor till",
+                "url": "/ud-avrader/"
+            },
+            {
+                "name": "Vad innebär avrådan – frågor och svar",
+                "url": "/uds-reseinformation/avradan---nar-ud-avrader-fran-resor/vad-innebar-avradan--fragor-och-svar/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1025"
+        ]
+    },
+    {
         "title": "Armenien - avrådan",
         "url": "/ud-avrader/armenien---avradan/",
         "published": "2026-01-28",
@@ -810,24 +837,6 @@
         "categories": [
             "2204",
             "1186"
-        ]
-    },
-    {
-        "title": "Azerbajdzjan - avrådan",
-        "url": "/ud-avrader/avradan-till-azerbajdzjan/",
-        "published": "2020-10-09",
-        "updated": "2020-12-14",
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av förändringar i säkerhetsläget har Utrikesdepartementet den 14 december 2020 beslutat om att ändra avrådan för resor till Azerbajdzjan. \n\nFöljande avrådan gäller: Utrikesdepartementet avråder från alla resor till Nagorno-Karabach samt distrikten Agdam, Kelbadzjar, Latjin, Fizuli, Jabrayil, Zengilan och Gubadli. Utrikesdepartementet avråder från alla resor till områden som ligger närmare än 5 kilometer från den internationella gränsen mellan Armenien och Azerbajdzjan. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1025"
         ]
     },
     {

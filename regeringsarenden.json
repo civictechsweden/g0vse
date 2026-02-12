@@ -1,5 +1,34 @@
 [
     {
+        "title": "Regeringsärenden vecka 7, 2026",
+        "url": "/regeringsarenden/regeringsarenden-vecka-7-2026/",
+        "published": "2026-02-11",
+        "updated": null,
+        "types": [
+            "1337"
+        ],
+        "senders": [
+            "1284",
+            "1285",
+            "1286",
+            "1287",
+            "1291",
+            "2425",
+            "1292",
+            "1294",
+            "1295"
+        ],
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringsärenden",
+                "url": "/regeringsarenden/"
+            }
+        ],
+        "attachments": [],
+        "categories": []
+    },
+    {
         "title": "Regeringsärenden vecka 6, 2026",
         "url": "/regeringsarenden/regeringsarenden-vecka-6-2026/",
         "published": "2026-02-04",
