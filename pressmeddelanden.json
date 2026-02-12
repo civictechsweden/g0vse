@@ -231,31 +231,6 @@
         ]
     },
     {
-        "title": "Rundabordssamtal om den internationella adoptionsverksamheten i Sverige",
-        "url": "/pressmeddelanden/2026/02/rundabordssamtal-om-den-internationella-adoptionsverksamheten-i-sverige/",
-        "published": "2026-02-11",
-        "updated": null,
-        "types": [
-            "1334"
-        ],
-        "senders": [
-            "2610",
-            "1292"
-        ],
-        "summary": "Onsdagen den 11 februari håller socialtjänstminister Camilla Waltersson Grönvall i ett rundabordssamtal gällande den internationella adoptionsverksamheten i Sverige.",
-        "id": null,
-        "shortcuts": [
-            {
-                "name": "Regeringen har tagit emot Adoptionskommissionens betänkande",
-                "url": "/pressmeddelanden/2025/06/regeringen-har-tagit-emot-adoptionskommissionens-betankande/"
-            }
-        ],
-        "attachments": [],
-        "categories": [
-            "1220"
-        ]
-    },
-    {
         "title": "Pressträff efter möte i Rådet för kvinnofrid",
         "url": "/pressmeddelanden/2026/02/presstraff-efter-mote-i-radet-for-kvinnofrid/",
         "published": "2026-02-11",
@@ -290,6 +265,31 @@
         "categories": [
             "1239",
             "2671"
+        ]
+    },
+    {
+        "title": "Rundabordssamtal om den internationella adoptionsverksamheten i Sverige",
+        "url": "/pressmeddelanden/2026/02/rundabordssamtal-om-den-internationella-adoptionsverksamheten-i-sverige/",
+        "published": "2026-02-11",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "1292"
+        ],
+        "summary": "Onsdagen den 11 februari håller socialtjänstminister Camilla Waltersson Grönvall i ett rundabordssamtal gällande den internationella adoptionsverksamheten i Sverige.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringen har tagit emot Adoptionskommissionens betänkande",
+                "url": "/pressmeddelanden/2025/06/regeringen-har-tagit-emot-adoptionskommissionens-betankande/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1220"
         ]
     },
     {
