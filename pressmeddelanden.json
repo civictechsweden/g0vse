@@ -1,5 +1,548 @@
 [
     {
+        "title": "Parisa Liljestrand delar ut pris vid Swedish Game Awards",
+        "url": "/pressmeddelanden/2026/02/parisa-liljestrand-delar-ut-pris-vid-swedish-game-awards/",
+        "published": "2026-02-18",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2624",
+            "1288"
+        ],
+        "summary": "Onsdagen den 18 februari delar kulturminister Parisa Liljestrand ut priset för bästa speldesign vid den svenska spelbranschens årliga gala Swedish Game Awards i Stockholm. Dataspel är en av Sveriges största exportnäringar och ett viktigt kulturuttryck.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Strategi för företag i kulturella och kreativa  branscher",
+                "url": "/contentassets/7b807f91ed234d5b97b973a83fe470b1/202411100webb.pdf"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1235",
+            "1242"
+        ]
+    },
+    {
+        "title": "Rådet mot organiserad brottslighet samlades med fokus på barn och unga som begått grova brott",
+        "url": "/pressmeddelanden/2026/02/radet-mot-organiserad-brottslighet-samlades-med-fokus-pa-barn-och-unga-som-begatt-grova-brott/",
+        "published": "2026-02-18",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "2615",
+            "1287",
+            "1292"
+        ],
+        "summary": "Onsdagen den 18 februari samlades rådet mot organiserad brottslighet. Fokus för mötet var aktuella och kommande lagändringar som ska förbättra hantering av barn och unga som begått, eller riskerar att begå, grova brott.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1263",
+            "2690",
+            "2688",
+            "2710"
+        ]
+    },
+    {
+        "title": "Inbjudan till pressträff om stöd till Ukraina",
+        "url": "/pressmeddelanden/2026/02/inbjudan-till-presstraff-om-stod-till-ukraina/",
+        "published": "2026-02-18",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2627",
+            "1286"
+        ],
+        "summary": "Torsdag den 19 februari håller regeringen och Sverigedemokraterna en pressträff för att presentera ett nytt militärt stöd till Ukraina. På pressträffen medverkar försvarsminister Pål Jonson tillsammans med Aron Emilsson från Sverigedemokraterna, Mikael Oscarsson från Kristdemokraterna och Gulan Avci från Liberalerna.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2247",
+            "2584"
+        ]
+    },
+    {
+        "title": "Pressinbjudan: Regeringen presenterar nyhet",
+        "url": "/pressmeddelanden/2026/02/pressinbjudan-regeringen-presenterar-nyhet/",
+        "published": "2026-02-18",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2792",
+            "2628",
+            "2791",
+            "1284",
+            "1291",
+            "1294"
+        ],
+        "summary": "Onsdag den 18 februari klockan 16.00 håller utbildnings- och integrationsminister Simona Mohamsson, arbetsmarknadsminister Johan Britz och klimat- och miljöminister Romina Pourmokhtari en pressträff för att presentera en nyhet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
+    },
+    {
+        "title": "Vindkraftspengarna ska betalas ut till berörda kommuner",
+        "url": "/pressmeddelanden/2026/02/vindkraftspengarna-ska-betalas-ut-till-berorda-kommuner/",
+        "published": "2026-02-18",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "2623",
+            "2628",
+            "1291"
+        ],
+        "summary": "Nu ser regeringen till att alla kommuner med vindkraftverk får del av den ersättning som beslutades i budgetpropositionerna för 2025 och 2026. Energimyndigheten får i uppdrag att betala ut ersättningen under våren. Det handlar om 340 miljoner kronor för 2025 och 370 miljoner kronor för 2026.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Energimyndighetens regleringsbrev på Statskontorets hemsida- extern webbplats,",
+                "url": "https://www.statskontoret.se/Statsliggaren/Regleringsbrev?rbid=26215"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1226",
+            "2777"
+        ]
+    },
+    {
+        "title": "Skärpta sanktioner för deltagare i arbetsmarknadspolitiska program",
+        "url": "/pressmeddelanden/2026/02/skarpta-sanktioner-for-deltagare-i-arbetsmarknadspolitiska-program/",
+        "published": "2026-02-18",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2613",
+            "2792",
+            "1284",
+            "1285"
+        ],
+        "summary": "Regeringen avser att besluta om skärpta sanktioner för deltagare i arbetsmarknadspolitiska program. Syftet är att stärka drivkrafterna för arbetslösa att söka eller anmäla sig till utbildningar och att delta i de insatser som bedöms vara nödvändiga för att få ett jobb.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Artikel: Åtgärder för att bekämpa arbetslösheten",
+                "url": "/artiklar/2025/10/atgarder-for-att-bekampa-arbetslosheten/"
+            },
+            {
+                "name": "Arbetslösheten i Sverige – så ser den ut",
+                "url": "/regeringens-politik/arbetsmarknad/arbetslosheten-i-sverige--sa-ser-den-ut/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Presentationsbilder: Arbetsmarknadsläget 18 februari 2026 (pdf 1 MB)",
+                "url": "/contentassets/83e3bc7478004f50930ef2c5cb666506/arbetsmarknadslaget-18-februari-2026/"
+            }
+        ],
+        "categories": [
+            "1213",
+            "1278"
+        ]
+    },
+    {
+        "title": "Landsbygdsminister Peter Kullgren deltar vid Hästföretagarforum",
+        "url": "/pressmeddelanden/2026/02/landsbygdsminister-peter-kullgren-deltar-vid-hastforetagarforum/",
+        "published": "2026-02-18",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2626",
+            "2425"
+        ],
+        "summary": "Torsdagen den 19 februari besöker landsbygdsminister Peter Kullgren Göteborg för att närvara vid Hästföretagarforum, vilket är en del av Gothenburg Horse show.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1243"
+        ]
+    },
+    {
+        "title": "Stödet till Ukraina, säkerhetspolitiskt samarbete och jämställdhet i fokus i årets utrikesdeklaration",
+        "url": "/pressmeddelanden/2026/02/stodet-till-ukraina-sakerhetspolitiskt-samarbete-och-jamstalldhet-i-fokus-i-arets-utrikesdeklaration/",
+        "published": "2026-02-18",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2621",
+            "1295"
+        ],
+        "summary": "I dag, den 18 februari, har utrikesminister Maria Malmer Stenergard presenterat regeringens utrikespolitiska deklaration för 2026 i riksdagen. Regeringens viktigaste utrikespolitiska prioriteringar är stödet till Ukraina och ökad press på Ryssland, stärkta samarbeten inom säkerhet och handel, samt jämställdhet och kvinnors egenmakt.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Tal: Utrikesdeklarationen 2026",
+                "url": "/tal/2026/02/utrikesdeklarationen-2026/"
+            },
+            {
+                "name": "Se presentationen och den utrikespolitiska debatten på riksdagens webbplats- extern webbplats,",
+                "url": "https://www.riksdagen.se/sv/webb-tv/video/utrikespolitisk-debatt/utrikespolitisk-debatt_hdc120260218ud/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1215",
+            "1279",
+            "2707",
+            "2593",
+            "2688",
+            "2695",
+            "1012",
+            "1013"
+        ]
+    },
+    {
+        "title": "Jämställdhetsministern reser till Södertälje",
+        "url": "/pressmeddelanden/2026/02/jamstalldhetsministern-reser-till-sodertalje/",
+        "published": "2026-02-18",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2784",
+            "1284"
+        ],
+        "summary": "Onsdagen den 18 februari reser jämställdhetsminister Nina Larsson till Södertälje för att besöka jourmottagningar för vålds- och brottsutsatta.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1239",
+            "2403",
+            "2671"
+        ]
+    },
+    {
+        "title": "Regeringen ger 90 miljoner kronor till FN:s migrationsorganisation",
+        "url": "/pressmeddelanden/2026/02/regeringen-ger-90-miljoner-kronor-till-fns-migrationsorganisation/",
+        "published": "2026-02-18",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2618",
+            "1287"
+        ],
+        "summary": "Torsdagen den 5 februari fattade regeringen beslut om att ge ett bidrag på 90 miljoner kronor till FN:s migrationsorganisation (IOM). 70 miljoner av stödet ska användas för att öka återvändandet från Sverige och EU och för att motverka irreguljär migration från bland annat Irak, Somalia, Uzbekistan och Afghanistan. Det ska också användas för att stärka förutsättningarna för återvändande till Syrien.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1249",
+            "2751",
+            "1013"
+        ]
+    },
+    {
+        "title": "Jessica Rosencrantz deltar vid nordiskt samarbetsministermöte i Köpenhamn",
+        "url": "/pressmeddelanden/2026/02/jessica-rosencrantz-deltar-vid-nordiskt-samarbetsministermote-i-kopenhamn/",
+        "published": "2026-02-18",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2754",
+            "1293"
+        ],
+        "summary": "Jessica Rosencrantz, EU-minister med ansvar för nordiska frågor, reser den 18 februari till Köpenhamn för att delta i årets första möte med de nordiska samarbetsministrarna. På agendan står bland annat frågan om ökat deltagande från Färöarna, Grönland och Åland i det nordiska samarbetet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Nordiska ministerrådets webbplats (norden.org)- extern webbplats,",
+                "url": "https://www.norden.org/sv/nordiska-ministerradet"
+            },
+            {
+                "name": "Om samarbetsministrarna (norden.org)- extern webbplats,",
+                "url": "https://www.norden.org/sv/samarbetsministrarna"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2435",
+            "1047"
+        ]
+    },
+    {
+        "title": "Stora lättnader för legala vapenägare och samverkan om aktivitetskrav mellan Polismyndigheten och sportskyttarna",
+        "url": "/pressmeddelanden/2026/02/stora-lattnader-for-legala-vapenagare-och-samverkan-om-aktivitetskrav-mellan-polismyndigheten-och-sportskyttarna/",
+        "published": "2026-02-17",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen har beslutat om propositionen En ny vapenlag. Förslagen innebär stora lättnader och förenklingar för legala vapenägare, samtidigt som förekomsten av illegala vapen och risken för att vapen kommer till brottslig användning motverkas.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:141 En ny vapenlag",
+                "url": "/rattsliga-dokument/proposition/2026/02/prop.-202526141"
+            },
+            {
+                "name": "Propositioner",
+                "url": "/rattsliga-dokument/proposition/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1263"
+        ]
+    },
+    {
+        "title": "Pressträff med Johan Britz om arbetsmarknadsläget",
+        "url": "/pressmeddelanden/2026/02/presstraff-med-johan-britz-om-arbetsmarknadslaget/",
+        "published": "2026-02-17",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2792",
+            "1284"
+        ],
+        "summary": "Onsdag den 18 februari kl. 10.00 bjuder arbetsmarknadsminister Johan Britz in till en pressträff för att presentera regeringens bild av läget på arbetsmarknaden.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1213"
+        ]
+    },
+    {
+        "title": "Förslag för att stärka kundskyddet på fjärrvärmemarknaden remitteras",
+        "url": "/pressmeddelanden/2026/02/forslag-for-att-starka-kundskyddet-pa-fjarrvarmemarknaden-remitteras/",
+        "published": "2026-02-17",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "1291"
+        ],
+        "summary": "Regeringen remitterar nu flera rapporter med förslag som syftar till att stärka kundskyddet på fjärrvärmemarknaden. Det handlar bland annat om tydligare information till kunder, ökad transparens och en förbättrad hantering av ärenden i Fjärrvärmenämnden.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Remiss av delrapport (Ei R2025:05) och slutrapport (Ei R2025:16) samt (ER 2024:19) om kundskydd på fjärrvärmemarknaden samt utvärdering av Fjärrvärmenämndens funktion",
+                "url": "/remisser/2026/02/remiss-av-delrapport-ei-r2025-05-och-slutrapport-ei-r2025-16-samt-er-2024-19-om-kundskydd-pa-fjarrvarmemarknaden-samt-utvardering-av-fjarrvarmenamndens-funktion/"
+            },
+            {
+                "name": "Remisser",
+                "url": "/remisser/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1226"
+        ]
+    },
+    {
+        "title": "Implementeringsrådet rekommenderar en översyn av svensk lagstiftning för utländska direktinvesteringar",
+        "url": "/pressmeddelanden/2026/02/implementeringsradet-rekommenderar-en-oversyn-av-svensk-lagstiftning-for-utlandska-direktinvesteringar/",
+        "published": "2026-02-17",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "1291"
+        ],
+        "summary": "Implementeringsrådet har överlämnat rekommendationer till regeringen om genomförandet av en ny EU-förordning om utländska direktinvesteringar. I syfte att förenkla reglerna och stärka svenska företags konkurrenskraft rekommenderar Implementeringsrådet att det görs en helhetsöversyn och anpassning av den nuvarande svenska lagstiftningen.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Implementeringsrådets webbplats- extern webbplats,",
+                "url": "https://implementeringsradet.se/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1257",
+            "2704"
+        ]
+    },
+    {
+        "title": "Ny krishanteringsfunktion vid allvarliga störningar i det finansiella systemet",
+        "url": "/pressmeddelanden/2026/02/ny-krishanteringsfunktion-vid-allvarliga-storningar-i-det-finansiella-systemet/",
+        "published": "2026-02-17",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2623",
+            "1285"
+        ],
+        "summary": "Sverige stärker sin beredskap för att hantera situationer när samhällsviktiga finansiella tjänster riskerar att slås ut. I en proposition föreslår regeringen en ny funktion för operativ krishantering med beredskap att agera snabbt.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:116 En ny funktion för operativ krishantering i den finansiella sektorn",
+                "url": "/rattsliga-dokument/proposition/2026/02/prop.-202526116"
+            },
+            {
+                "name": "Proposition",
+                "url": "/rattsliga-dokument/proposition/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1231",
+            "1241"
+        ]
+    },
+    {
+        "title": "Regeringen går vidare med förslag för att stoppa momsbedrägerier",
+        "url": "/pressmeddelanden/2026/02/regeringen-gar-vidare-med-forslag-for-att-stoppa-momsbedragerier/",
+        "published": "2026-02-17",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "Varje år går stora skattebelopp förlorade på grund av momsbedrägerier. Regeringen har därför överlämnat en proposition till riksdagen med förslag som ger Skatteverket fler och skarpare verktyg för att stoppa momsbedrägerier.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:128 Åtgärder mot mervärdesskattebedrägerier",
+                "url": "/rattsliga-dokument/proposition/2026/02/prop.-202526128"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1267"
+        ]
+    },
+    {
+        "title": "EU-minister Jessica Rosencrantz besöker Nasdaq Stockholm",
+        "url": "/pressmeddelanden/2026/02/eu-minister-jessica-rosencrantz-besoker-nasdaq-stockholm/",
+        "published": "2026-02-17",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2754",
+            "1293"
+        ],
+        "summary": "Tisdag den 17 februari besöker EU-minister Jessica Rosencrantz Nasdaq Stockholm, ofta kallad Stockholmsbörsen. I fokus för besöket står diskussion om hur EU:s kapitalmarknader kan stärkas.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1231",
+            "1012"
+        ]
+    },
+    {
+        "title": "Vice statsminister Ebba Busch deltar i högnivåmöte om AI i Indien",
+        "url": "/pressmeddelanden/2026/02/vice-statsminister-ebba-busch-deltar-i-hognivamote-om-ai-i-indien/",
+        "published": "2026-02-17",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "1291"
+        ],
+        "summary": "Den 18–20 februari reser vice statsminister Ebba Busch till New Delhi för att delta vid högnivåmötet AI Impact Summit. Mötet samlar ledare från över 30 länder och syftar till att främja internationella samarbeten inom AI.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1238",
+            "2282",
+            "1013",
+            "1078"
+        ]
+    },
+    {
+        "title": "Maria Malmer Stenergard presenterar utrikesdeklarationen för 2026",
+        "url": "/pressmeddelanden/2026/02/maria-malmer-stenergard-presenterar-utrikesdeklarationen-for-2026/",
+        "published": "2026-02-17",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2621",
+            "1295"
+        ],
+        "summary": "Onsdag den 18 februari presenterar utrikesminister Maria Malmer Stenergard regeringens utrikesdeklaration i riksdagen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1279",
+            "1013"
+        ]
+    },
+    {
+        "title": "Justitieminister Gunnar Strömmer tar emot utredning med förslag för att strypa den kriminella ekonomin och ta kriminellas tillgångar",
+        "url": "/pressmeddelanden/2026/02/justitieminister-gunnar-strommer-tar-emot-utredning-med-forslag-for-att-strypa-den-kriminella-ekonomin-och-ta-kriminellas-tillgangar/",
+        "published": "2026-02-17",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Tisdag den 17 februari tar justitieminister Gunnar Strömmer emot betänkandet Ökade möjligheter till tillgångsinriktad brottsbekämpning, det vill säga möjligheten att ta kriminellas tillgångar direkt och utan lagföring. Utredningen har haft i uppdrag att ta ställning ett antal frågor kopplat till förverkande, bland annat hur EU:s nya förverkandedirektiv ska genomföras i Sverige. I samband med överlämningen håller justitieministern en pressträff med den särskilda utredaren Johan Danelius.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff den 17 februari 2026 om utredning med förslag för att strypa den kriminella ekonomin och ta kriminellas tillgångar (pdf 181 kB)",
+                "url": "/contentassets/4f0822fd5d3346fda43791ee3c6b527c/presentationsbilder-fran-presstraff-den-17-februari-2026-om-utredning-med-forslag-for-att-strypa-den-kriminella-ekonomin-och-ta-kriminellas-tillgangar.pdf"
+            }
+        ],
+        "categories": [
+            "1263",
+            "2690",
+            "2688"
+        ]
+    },
+    {
         "title": "Regeringen förlänger stödet till migrationsprojekt i Afghanistan",
         "url": "/pressmeddelanden/2026/02/regeringen-forlanger-stodet-till-migrationsprojekt-i-afghanistan/",
         "published": "2026-02-16",
