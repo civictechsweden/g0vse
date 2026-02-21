@@ -1,0 +1,5 @@
+# Undantag från krav enligt art- och habitatdirektivet vid vattenkraftens omprövning
+
+Inom Regeringskansliet (Klimat- och näringslivsdepartementet) har det tagits fram en promemoria med författningsförslag som syftar till att säkerställa att vattenkraftverk och dammar prövas mot rätt kravnivå och att det utrymme EU-rätten ger att vid miljöanpassning av verksamheterna säkra en fortsatt nationell effektiv tillgång till vattenkraftsel utnyttjas fullt ut.
+
+I lagrådsremissen föreslås ändrade bestämmelser av betydelse för avväg-ningen mellan, å ena sidan, behovet av åtgärder som förbättrar vatten-miljön och, å andra sidan, behovet av en nationell effektiv tillgång till vattenkraftsel vid fastställande av moderna miljövillkor för vattenkraft-verk och dammar. Ändringarna syftar till att säkerställa att det utrymme som art- och habitatdirektivet ger att ta särskild hänsyn till verksamheter som har ett väsentligt allmänintresse används fullt ut. Ändringarna innebär att det vid omprövning för moderna miljövillkor blir möjligt att sänka kraven på miljöanpassning för dessa verksamheter.
