@@ -1,0 +1,13 @@
+# Utrikesminister Maria Malmer Stenergard deltar i EU:s utrikesministermöte
+
+- Vi närmar oss den fjärde årsdagen av Rysslands fullskaliga aggression mot Ukraina. De fortsatta intensiva, hänsynslösa och brutala ryska attackerna är ett klart tecken på att Ryssland inte är intresserat av fred. Därför behöver vi från EU:s sida öka pressen genom ytterligare sanktioner. Samtidigt måste Europa göra mer för att stödja Ukraina. Den senaste veckan har regeringen aviserat nya omfattande stöd, och vi uppmanar EU och andra medlemsstater att följa efter, säger utrikesminister Maria Malmer Stenergard.
+
+Den andra diskussionspunkten på mötet rör situationen i Mellanöstern.
+
+- EU behöver fortsatt ställa tydliga krav på obehindrat humanitärt tillträde till Gaza och att Israel lever upp till sina folkrättsliga skyldigheter, inklusive på Västbanken. Nästa steg i fredsplanens genomförande behöver tas i nära samverkan med den Palestinska myndigheten. EU:s tryck på Iran behöver upprätthållas och regimen hållas till svars för dess våldsamma repression mot fredliga demonstranter. Vi följer också utvecklingen i nordöstra Syrien nära. Tillsammans med övriga EU-medlemsstater verkar vi för ett mer stabilt och demokratiskt Syrien där olika delar av det syriska samhället deltar på ett meningsfullt sätt, säger utrikesminister Maria Malmer Stenergard.
+
+- Vi närmar oss den fjärde årsdagen av Rysslands fullskaliga aggression mot Ukraina. De fortsatta intensiva, hänsynslösa och brutala ryska attackerna är ett klart tecken på att Ryssland inte är intresserat av fred. Därför behöver vi från EU:s sida öka pressen genom ytterligare sanktioner. Samtidigt måste Europa göra mer för att stödja Ukraina. Den senaste veckan har regeringen aviserat nya omfattande stöd, och vi uppmanar EU och andra medlemsstater att följa efter, säger utrikesminister Maria Malmer Stenergard.
+
+Den andra diskussionspunkten på mötet rör situationen i Mellanöstern.
+
+- EU behöver fortsatt ställa tydliga krav på obehindrat humanitärt tillträde till Gaza och att Israel lever upp till sina folkrättsliga skyldigheter, inklusive på Västbanken. Nästa steg i fredsplanens genomförande behöver tas i nära samverkan med den Palestinska myndigheten. EU:s tryck på Iran behöver upprätthållas och regimen hållas till svars för dess våldsamma repression mot fredliga demonstranter. Vi följer också utvecklingen i nordöstra Syrien nära. Tillsammans med övriga EU-medlemsstater verkar vi för ett mer stabilt och demokratiskt Syrien där olika delar av det syriska samhället deltar på ett meningsfullt sätt, säger utrikesminister Maria Malmer Stenergard.
