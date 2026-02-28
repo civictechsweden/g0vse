@@ -1,5 +1,214 @@
 [
     {
+        "title": "Slopat matkrav för serveringstillstånd",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/02/slopat-matkrav-for-serveringstillstand/",
+        "published": "2026-02-27",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Regeringen föreslår bland annat enklare regler för serveringstillstånd och servering av folköl.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Slopat matkrav för serveringstillstånd (pdf 546 kB)",
+                "url": "/contentassets/653776abdb7c4e95ac7a4e2a4fdcb0b9/slopat-matkrav-for-serveringstillstand.pdf"
+            }
+        ],
+        "categories": [
+            "2655"
+        ]
+    },
+    {
+        "title": "Lagändringar för ett stärkt nationellt cybersäkerhetscenter",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/02/lagandringar-for-ett-starkt-nationellt-cybersakerhetscenter/",
+        "published": "2026-02-27",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1286",
+            "1296"
+        ],
+        "summary": "Regeringen föreslår en ny lag om uppgiftsskyldighet som ska gälla för myndigheterna som samverkar inom det nationella cybersäkerhetscentret. Regeringen föreslår också en ny lag om  Försvarets radioanstalts behandling av personuppgifter inom ramen för centrets verksamhet och en sekretessbestämmelse till skydd för enskilda för uppgifter som förekommer hos centret.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Nya lagar ska stärka Sveriges cybersäkerhet",
+                "url": "/pressmeddelanden/2026/02/nya-lagar-ska-starka-sveriges-cybersakerhet/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Lagändringar för ett stärkt nationellt cybersäkerhetscenter (pdf 870 kB)",
+                "url": "/contentassets/c27342886ed04f40815ff81a8dc9db47/lagandringar-for-ett-starkt-nationellt-cybersakerhetscenter.pdf"
+            }
+        ],
+        "categories": [
+            "2248",
+            "2781",
+            "2703"
+        ]
+    },
+    {
+        "title": "Ett modernt och anpassat regelverk för krigsmateriel",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/02/ett-modernt-och-anpassat-regelverk-for-krigsmateriel/",
+        "published": "2026-02-27",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1295"
+        ],
+        "summary": "Förslagen i lagrådsremissen syftar i huvudsak till att omhänderta\nförändrade förutsättningar till följd av Sveriges Natomedlemskap och att\nåstadkomma ett mer ändamålsenligt regelverk för export av krigsmateriel.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Ett modernt och anpassat regelverk för krigsmateriel (pdf 923 kB)",
+                "url": "/contentassets/074eead2fbac439e8b63533a607f0a5a/ett-modernt-och-anpassat-regelverk-for-krigsmateriel.pdf"
+            }
+        ],
+        "categories": [
+            "1279",
+            "2593",
+            "2688",
+            "2695",
+            "1013"
+        ]
+    },
+    {
+        "title": "EU:s bankpaket",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/02/eus-bankpaket/",
+        "published": "2026-02-27",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "I EU:s kapitaltäckningsdirektiv ställs krav på den verksamhet som bedrivs av banker och kreditmarknadsföretag (kreditinstitut), mycket stora värdepappersbolag och vissa holdingföretag.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Förslag om ändrade tillsynsregler för banker",
+                "url": "/pressmeddelanden/2026/02/forslag-om-andrade-tillsynsregler-for-banker/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "EUs bankpaket (pdf 4 MB)",
+                "url": "/contentassets/955ecfa5a5c3449d935f931b236e997a/eus-bankpaket.pdf"
+            }
+        ],
+        "categories": [
+            "1231"
+        ]
+    },
+    {
+        "title": "En mer sammanhållen vård för personer med skadligt bruk och beroende och andra psykiatriska tillstånd",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/02/en-mer-sammanhallen-vard-for-personer-med-skadligt-bruk-och-beroende-och-andra-psykiatriska-tillstand/",
+        "published": "2026-02-27",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Regeringens förslag i lagrådsremissen ska göra en mer enhetlig och sammanhållen vård möjlig för personer med skadligt bruk och beroende och andra psykiatriska tillstånd.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Tilläggsdirektiv till Samsjuklighetsutredningen",
+                "url": "/rattsliga-dokument/kommittedirektiv/2021/11/dir.-202196"
+            },
+            {
+                "name": "Samordnade insatser vid samsjuklighet i form av missbruk och beroende och annan psykiatrisk diagnos eller närliggande tillstånd",
+                "url": "/rattsliga-dokument/kommittedirektiv/2020/06/dir.-202068"
+            },
+            {
+                "name": "Från delar till helhet",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2023/01/sou-20235/"
+            },
+            {
+                "name": "Från delar till helhet – En reform för samordnade, behovsanpassade och personcentrerade insatser till personer med samsjuklighet",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2021/11/sou-202193/"
+            },
+            {
+                "name": "Remiss SOU 2021:93, Från delar till helhet - En reform för samordnade, behovsanpassade och personcentrerade insatser till personer med samsjuklighet",
+                "url": "/remisser/2021/12/remiss-av-sou-202193/"
+            },
+            {
+                "name": "Remiss SOU 2023:5 Från delar till helhet - Tvångsvården som en del av en sammanhållen och personcentrerad vårdkedja",
+                "url": "/remisser/2023/02/fran-delar-till-helhet---tvangsvarden-som-en-del-av-en-sammanhallen-och-personcentrerad-vardkedja-sou-20235/"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen stärker vården för personer med skadligt bruk och beroende och andra psykiatriska tillståndWebb-TV",
+                "url": "/pressmeddelanden/2026/02/regeringen-starker-varden-for-personer-med-skadligt-bruk-och-beroende-och-andra-psykiatriska-tillstand/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "En mer sammanhållen vård för personer med skadligt bruk och beroende och andra psykiatriska tillstånd (pdf 1 MB)",
+                "url": "/contentassets/15ddb2e563ca4087aa6b1c0a35c28748/en-mer-sammanhallen-vard-for-personer-med-skadligt-bruk-och-beroende-och-andra-psykiatriska-tillstand.pdf"
+            }
+        ],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
+        "title": "Skärpta regler om utvisning på grund av brott",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/02/skarpta-regler-om-utvisning-pa-grund-av-brott/",
+        "published": "2026-02-27",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "I lagrådsremissen lämnas förslag som möjliggör fler beslut om utvisning av utlänningar som begår brott.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Skärpta regler om utvisning på grund av brottWebb-TV",
+                "url": "/pressmeddelanden/2026/02/skarpta-regler-om-utvisning-pa-grund-av-brott/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Skärpta regler om utvisning på grund av brott (pdf 1 MB)",
+                "url": "/contentassets/10fae7336e55489db4b32a272e423c27/skarpta-regler-om-utvisning-pa-grund-av-brott.pdf"
+            }
+        ],
+        "categories": [
+            "1249",
+            "2690",
+            "2661",
+            "2688"
+        ]
+    },
+    {
         "title": "Undantag från krav enligt art- och habitatdirektivet vid vattenkraftens omprövning",
         "url": "/rattsliga-dokument/lagradsremiss/2026/02/undantag-fran-krav-enligt-art--och-habitatdirektivet-vid-vattenkraftens-omprovning/",
         "published": "2026-02-20",
