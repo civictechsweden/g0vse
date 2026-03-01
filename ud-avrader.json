@@ -1,5 +1,113 @@
 [
     {
+        "title": "Bahrain - avrådan",
+        "url": "/ud-avrader/bahrain---avradan/",
+        "published": "2026-02-28",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av ett försämrat säkerhetsläge avråder Utrikesdepartementet från icke nödvändiga resor till Bahrain. \n\nBeslut om avrådan togs 28 februari 2026. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1027"
+        ]
+    },
+    {
+        "title": "Kuwait - avrådan",
+        "url": "/ud-avrader/kuwait---avradan/",
+        "published": "2026-02-28",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av ett försämrat säkerhetsläge avråder Utrikesdepartementet från icke nödvändiga resor Kuwait.\n \nBeslut om avrådan togs 28 februari 2026. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1105"
+        ]
+    },
+    {
+        "title": "Qatar - avrådan",
+        "url": "/ud-avrader/qatar---avradan/",
+        "published": "2026-02-28",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av ett försämrat säkerhetsläge avråder Utrikesdepartementet från icke nödvändiga resor till Qatar.\n \nAvrådan omfattar inte transit på flygplatsen Hamad International Airport. \n \nBeslut om avrådan togs 28 februari 2026. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1154"
+        ]
+    },
+    {
+        "title": "Förenade arabemiraten - avrådan",
+        "url": "/ud-avrader/forenade-arabemiraten---avradan/",
+        "published": "2026-02-28",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av ett försämrat säkerhetsläge avråder Utrikesdepartementet från icke nödvändiga resor till Förenade arabemiraten.\n \nAvrådan omfattar inte transit på flygplatserna Dubai International Airport, Zayed International Airport, Al Maktoum International Airport samt Sharjah International Airport.\n \nBeslut om avrådan togs 28 februari 2026. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1064"
+        ]
+    },
+    {
+        "title": "Palestina - avrådan",
+        "url": "/ud-avrader/palestina---avradan/",
+        "published": "2026-02-28",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av ett försämrat säkerhetsläge har Utrikesdepartementet den 28 februari 2026 beslutat att utöka avrådan för Palestina. Följande avrådan gäller:\nUtrikesdepartementet avråder från alla resor till Gaza och på Västbanken i provinserna Jenin, Tulkarm, Tubas och Qalqilia samt till de delar av provinsen Nablus som ligger norr om Nablus stad.\n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till övriga områden och städer på Västbanken.\n\nBeslut om avrådan togs 28 februari 2026. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1147"
+        ]
+    },
+    {
+        "title": "Israel - avrådan",
+        "url": "/ud-avrader/israel---avradan/",
+        "published": "2026-02-28",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av ett försämrat säkerhetsläge har Utrikesdepartementet den 28 februari 2026 beslutat att utöka avrådan för Israel. Följande avrådan gäller:\n\nUtrikesdepartementet avråder från icke nödvändiga resor till Israel. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1084"
+        ]
+    },
+    {
         "title": "Kuba - avrådan",
         "url": "/ud-avrader/kuba---avradan/",
         "published": "2026-02-12",
@@ -183,24 +291,6 @@
         ]
     },
     {
-        "title": "Israel - avrådan",
-        "url": "/ud-avrader/israel---avradan/",
-        "published": "2025-11-10",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av förändringar i säkerhetsläget avråder Utrikesdepartementet från resor till Israel enligt följande:\n\nUtrikesdepartementet avråder från icke nödvändiga resor till gränsområdena mot Gaza och Libanon inom ett avstånd av tio kilometer från respektive gräns. \n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till Golanhöjderna. \n\nBeslut om ändrad avrådan togs den 10 november 2025. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1084"
-        ]
-    },
-    {
         "title": "Tanzania - avrådan",
         "url": "/ud-avrader/tanzania---avradan/",
         "published": "2025-11-10",
@@ -216,24 +306,6 @@
         "categories": [
             "2204",
             "1185"
-        ]
-    },
-    {
-        "title": "Palestina - avrådan",
-        "url": "/ud-avrader/palestina---avradan/",
-        "published": "2025-11-10",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till Gaza och på Västbanken i provinserna Jenin, Tulkarm, Tubas och Qalqilia samt till de delar av provinsen Nablus som ligger norr om Nablus stad.\n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till övriga områden på Västbanken som ligger norr om Ramallah och Jericho, samt söder om Betlehem. \n\nVäg 90 söder om Jericho, längs med Döda havet, omfattas inte av avrådan.\n\nBeslut om ändrad avrådan togs den 10 november 2025. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1147"
         ]
     },
     {
