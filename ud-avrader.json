@@ -1,5 +1,41 @@
 [
     {
+        "title": "Israel - avrådan",
+        "url": "/ud-avrader/israel---avradan/",
+        "published": "2026-03-01",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av ett försämrat säkerhetsläge har Utrikesdepartementet den 1 mars 2026 beslutat att utöka avrådan för Israel. Följande avrådan gäller:\n\nUtrikesdepartementet avråder från alla resor till Israel. \n\nAvrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1084"
+        ]
+    },
+    {
+        "title": "Palestina - avrådan",
+        "url": "/ud-avrader/palestina---avradan/",
+        "published": "2026-03-01",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av det försämrade säkerhetsläget har Utrikesdepartementet den 1 mars 2026 beslutat om att utöka avrådan för Palestina. Följande avrådan gäller: \n \nUtrikesdepartementet avråder från alla resor till Palestina. \n\nAvrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1147"
+        ]
+    },
+    {
         "title": "Bahrain - avrådan",
         "url": "/ud-avrader/bahrain---avradan/",
         "published": "2026-02-28",
@@ -69,42 +105,6 @@
         "categories": [
             "2204",
             "1064"
-        ]
-    },
-    {
-        "title": "Palestina - avrådan",
-        "url": "/ud-avrader/palestina---avradan/",
-        "published": "2026-02-28",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av ett försämrat säkerhetsläge har Utrikesdepartementet den 28 februari 2026 beslutat att utöka avrådan för Palestina. Följande avrådan gäller:\nUtrikesdepartementet avråder från alla resor till Gaza och på Västbanken i provinserna Jenin, Tulkarm, Tubas och Qalqilia samt till de delar av provinsen Nablus som ligger norr om Nablus stad.\n\nVidare avråder Utrikesdepartementet från icke nödvändiga resor till övriga områden och städer på Västbanken.\n\nBeslut om avrådan togs 28 februari 2026. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1147"
-        ]
-    },
-    {
-        "title": "Israel - avrådan",
-        "url": "/ud-avrader/israel---avradan/",
-        "published": "2026-02-28",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av ett försämrat säkerhetsläge har Utrikesdepartementet den 28 februari 2026 beslutat att utöka avrådan för Israel. Följande avrådan gäller:\n\nUtrikesdepartementet avråder från icke nödvändiga resor till Israel. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1084"
         ]
     },
     {
