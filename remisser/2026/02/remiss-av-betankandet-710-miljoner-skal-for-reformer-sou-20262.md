@@ -1,4 +1,4 @@
-# Remiss av betänkandet 710 miljoner skäl till reformer (SOU 2026:2)
+# Remiss av SOU 2026:2 710 miljoner skäl till reformer
 
 Här kan du ta del av till vilka remissinstanser som regeringen har remitterat betänkandet 710 miljoner skäl till reformer (SOU 2026:2).
 

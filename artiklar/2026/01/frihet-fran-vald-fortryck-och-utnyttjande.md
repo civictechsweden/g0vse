@@ -15,13 +15,11 @@ Hedersrelaterat våld och förtryck strider mot principen om alla människors li
 
 ## Exempel på åtgärder från regeringen för att bekämpa våld, förtryck och utnyttjande
 
-### Förslag till stärkt straffrättsligt skydd mot psykiskt våld och tvång att bära slöja
+### Regeringen föreslår stärkt straffrättsligt skydd mot psykiskt våld
 
-Den 4 december 2025 beslutade regeringen om en lagrådsremiss med förslag till en särskild kriminalisering av psykiskt våld. Psykiskt våld är betydligt vanligare än fysiskt våld och är ofta den form av våld som kommer först. Genom att kriminalisera psykiskt våld ökar möjligheterna att ingripa tidigt och förhindra att våldet fortsätter och blir fysiskt. Förslaget innebär också ett stärkt skydd mot bland annat ekonomiskt våld, kontrollerande beteenden, hedersrelaterat våld och förtryck samt omvändelseförsök genom hot eller tvång. Förslaget innebär också ett stärkt straffrättsligt skydd mot tvång att bära religiös klädsel, som slöja, och tvång att kvarbli i ett äktenskap.
+Regeringen har lämnat över en proposition till riksdagen med förslag på en ny straffbestämmelse för psykiskt våld. Psykiskt våld är betydligt vanligare än fysiskt våld och är ofta den form av våld som kommer först. Genom att kriminalisera psykiskt våld ökar möjligheterna att ingripa tidigt och förhindra att våldet fortsätter och blir fysiskt. Förslaget innebär att det blir brottsligt att upprepat utsätta någon annan för vissa typer av kränkningar, som förolämpningar och otillbörliga hot. Den nya bestämmelsen innebär bland annat ett stärkt skydd mot tvång att bära religiös klädsel, som slöja, omvändelseförsök genom hot eller tvång, tvång att kvarbli i ett äktenskap och ekonomiskt våld.
 
-Förslaget innebär att en ny straffbestämmelse införs i brottsbalken som omfattar upprepade kränkningar i form av förolämpningar, otillbörliga hot, otillbörligt tvång eller otillbörlig övervakning. Det föreslås även att straffbestämmelsen ska omfatta varaktig otillbörlig övervakning, till exempel via GPS eller mobilappar. För straffansvar krävs att kränkningarna, eller den varaktiga övervakningen, ska ha varit ägnade att allvarligt skada den utsattas självkänsla. Straffet föreslås vara fängelse i högst fyra år.
-
-[Pressmeddelande: Regeringen föreslår stärkt skydd mot psykiskt våld](/pressmeddelanden/2025/12/regeringen-foreslar-starkt-skydd-mot-psykiskt-vald/)
+[Pressmeddelande: Regeringen föreslår stärkt straffrättsligt skydd mot psykiskt våld](/pressmeddelanden/2026/02/regeringen-foreslar-starkt-straffrattsligt-skydd-mot-psykiskt-vald/)
 
 ### Åtgärdsprogram mot mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck
 
@@ -59,21 +57,25 @@ Den 1 april 2024 trädde ett nytt regelverk om skyddat boende i kraft. Regeringe
 
 [Pressmeddelande: Myndigheter ska följa upp regeringens reform av skyddat boende](/pressmeddelanden/2025/03/myndigheter-ska-folja-upp-regeringens-reform-av-skyddat-boende/)
 
+### Regeringen stärker det förebyggande arbetet mot våld i nära relationer
+
+Regeringen ger den nationella stödlinjen ”Välj att sluta" en miljon kronor i förstärkta medel under 2026. Stödlinjen har funnits sedan 2019 och syftar till att våldsutövare ska ändra sitt beteende.
+
+[Pressmeddelande: Regeringen stärker det förebyggande arbetet mot våld i nära relationer](/pressmeddelanden/2026/02/regeringen-starker-det-forebyggande-arbetet-mot-vald-i-nara-relationer/)
+
+### Regeringen stärker stödet till vården för att förebygga våldsdåd
+
+Regeringen har beslutat om nya uppdrag till Socialstyrelsen och Inspektionen för vård och omsorg (IVO) för att stärka hälso- och sjukvårdens arbete med att förebygga, bedöma och hantera patienters risk för att skada andra. Syftet är att förbättra förmågan att upptäcka och hantera våldsrisker samt att utveckla kunskap, samverkan och tillsyn inom området.
+
+[Pressmeddelande: Regeringen stärker stödet till vården för att förebygga våldsdåd](/pressmeddelanden/2026/02/regeringen-starker-stodet-till-varden-for-att-forebygga-valdsdad/)
+
 ## Exempel på åtgärder för att bekämpa hedersrelaterat våld och förtryck
 
-### Skärpta straff för hedersrelaterade brott
+### Stärkt lagstiftning mot hedersrelaterat våld och förtryck
 
-Utredningen om förstärkta åtgärder mot hedersrelaterat våld och förtryck har överlämnat sitt betänkande till regeringen. De har bland annat haft i uppdrag att ta ställning till om straffen för vissa hedersrelaterade brott bör skärpas och att se över reglerna för utländska månggiften och fullmaktsäktenskap. Utredningen föreslår bland annat att:
+Regeringen har beslutat om lagrådsremissen Stärkt lagstiftning mot hedersrelaterat våld och förtryck. Lagstiftningen föreslås bli mer heltäckande och ge de brottsbekämpande myndigheterna bättre verktyg att utreda och lagföra brotten. I lagrådsremissen föreslås bland annat: utvidgat straffansvar för äktenskapstvång, att brottet vilseledande till äktenskapsresa byter namn till äktenskapsresebrott och att brottet äktenskapsresebrott mot barn införs. Remissen innehåller även flera förslag för att motverka hedersrelaterat våld och förtryck.
 
-* fler situationer ska omfattas av straffbestämmelserna om äktenskapstvång och vilseledande till äktenskapsresa,
-* brottsbeteckningen ”vilseledande till äktenskapsresa” ändras till ”äktenskapsresebrott” respektive ”äktenskapsresebrott mot barn” och försök till dessa brott kriminaliseras,
-* straffskalorna för äktenskapstvång, barnäktenskapsbrott och äktenskapsresebrott skärps,
-* möjligheterna att använda hemliga tvångsmedel i utredningar om äktenskapstvång och barnäktenskapsbrott utökas, och
-* undantag från förbudet att erkänna utländska månggiften, tvångsäktenskap, barnäktenskap och fullmaktsäktenskap tas bort.
-
-Betänkandet har remitterats och förslagen bereds inom Regeringskansliet.
-
-[Pressmeddelande: Utredning föreslår åtgärder för att stärka skyddet mot hedersrelaterat våld och förtryck](/pressmeddelanden/2025/05/utredning-foreslar-atgarder-for-att-starka-skyddet-mot-hedersrelaterat-vald-och-fortryck/)
+[Pressmeddelande: Stärkt lagstiftning mot hedersrelaterat våld och förtryck](/pressmeddelanden/2026/02/starkt-lagstiftning-mot-hedersrelaterat-vald-och-fortryck/)
 
 ### Förbud mot kusinäktenskap
 
@@ -121,8 +123,6 @@ Regeringen kommer även att ta fram en ny, samlad tioårig nationell strategi so
 
 [Pressmedelande: Ett tryggare Sverige för alla – nya insatser mot hedersrelaterat våld och förtryck](/pressmeddelanden/2025/09/ett-tryggare-sverige-for-alla--nya-insatser-mot-hedersrelaterat-vald-och-fortryck/)
 
-[- extern webbplats,](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/ett-utvidgat-utreseforbud-for-barn_hb01sou24/)
-
 ### Stärkt insats mot hedersrelaterat våld och förtryck
 
 Regeringen satsar 100 miljoner kronor i permanenta medel för ett nytt statsbidrag. Syftet är att stärka det regionala och lokala arbetet mot våld. Genom medlen, som fördelas av länsstyrelserna, ska kommuner och regioner kunna utveckla stödet för våldsutsatta, bland annat genom att utveckla regionala resurscentrum mot hedersrelaterat våld och förtryck. Regeringen genomför även en satsning på länsstyrelsernas arbete med att utveckla regionala resurscentrum. Satsningen innebär en permanent förstärkning på 15 miljoner kronor från och med 2026.
@@ -134,6 +134,12 @@ Regeringen satsar 100 miljoner kronor i permanenta medel för ett nytt statsbidr
 Regeringen fortsätter arbetet med att bekämpa den hedersrelaterade brottsligheten med kraft. Rätten till ett liv fritt från förtryck ska gälla alla och nya satsningar görs nu i flera myndigheters regleringsbrev för 2026. Bland annat ska Uppsala universitet, Jämställdhetsmyndigheten och Brottsoffermyndigheten utveckla digitala utbildningar för yrkesverksamma i rättsväsendet. Åklagarmyndigheten ska kartlägga varför så få åtal väcks i hedersrelaterade ärenden och sällan leder till fällande domar.
 
 [Pressmeddelande: Rättsväsendet ska rustas för att öka förmågan att bekämpa hedersrelaterade brott](/pressmeddelanden/2025/12/rattsvasendet-ska-rustas-for-att-oka-formagan-att-bekampa-hedersrelaterade-brott/)
+
+### Kopplingar mellan våldsutsatthet i barndomen och att utnyttjas i kriminalitet ska undersökas
+
+Regeringen har gett Jämställdhetsmyndigheten och Brottsförebyggande rådet (Brå) i uppdrag att undersöka kopplingar mellan att bli utsatt för våld som barn, bland annat för hedersrelaterat våld och förtryck, och att senare utnyttjas i kriminalitet. Linköpings universitet och Socialstyrelsen har också fått i uppdrag att öka kompetensen om hedersrelaterat våld och förtryck vid familjecentraler respektive skyddade boenden.
+
+[Pressmeddelande: Kopplingar mellan våldsutsatthet i barndomen och att utnyttjas i kriminalitet ska undersökas](/pressmeddelanden/2026/02/kopplingar-mellan-valdsutsatthet-i-barndomen-och-att-utnyttjas-i-kriminalitet-ska-undersokas/)
 
 ### Utsattheten för hedersrelaterat våld och förtryck ska kartläggas
 
@@ -215,6 +221,12 @@ Regeringen har beslutat att ge Polismyndigheten och Åklagarmyndigheten i uppdra
 
 [Pressmeddelande: Uppdrag till Polismyndigheten och Åklagarmyndigheten att stärka arbetet mot människohandel och människoexploatering](/pressmeddelanden/2025/06/uppdrag-till-polismyndigheten-och-aklagarmyndigheten-att-starka-arbetet-mot-manniskohandel-och-manniskoexploatering/)
 
+### Nya insatser för att förebygga och bekämpa människohandel, människoexploatering, prostitution och sexuell exploatering
+
+Alla våldsutsatta ska få det stöd och skydd de behöver. Det gäller inte minst barn och vuxna som har utsatts för människohandel för sexuella ändamål, prostitution eller någon annan form av sexuell exploatering. I regleringsbreven för 2026 har regeringen gett flera myndigheter nya uppdrag för att förebygga och bekämpa utnyttjandet och stärka stödet för utsatta.
+
+[Pressmeddelande: Nya insatser för att förebygga och bekämpa människohandel, människoexploatering, prostitution och sexuell exploatering](/pressmeddelanden/2026/02/nya-insatser-for-att-forebygga-och-bekampa-manniskohandel-manniskoexploatering-prostitution-och-sexuell-exploatering/)
+
 ## Exempel på åtgärder med fokus på stöd till våldsutsatta barn
 
 ### Stärkt samverkan, skydd, stöd och upprättelse när barn har utsatts för våldsbrott
@@ -240,3 +252,9 @@ Barn och unga som har utsatts för våld i partnerrelation, sexuellt våld eller
 Samhället måste bli bättre på att upptäcka barn som är utsatta för våld. Därför har Socialstyrelsen fått i uppdrag att bedöma behovet av att se över rekommendationerna kring att ställa rutinmässiga frågor om våld.
 
 [Pressmeddelande: Bättre rutiner för att fånga upp våldsutsatta barn](/pressmeddelanden/2025/06/battre-rutiner-for-att-fanga-upp-valdsutsatta-barn/)
+
+### Ökad kunskap för att motverka och upptäcka våld mot barn
+
+Regeringen beviljar Stiftelsen Allmänna Barnhuset medel för två nationella studier som ska ge fördjupad kunskap om våld mot barn och ungas utsatthet för sexuella övergrepp, inklusive via digitala medier.
+
+[Pressmeddelande: Ökad kunskap för att motverka och upptäcka våld mot barn](/pressmeddelanden/2025/12/okad-kunskap-for-att-motverka-och-upptacka-vald-mot-barn/)
