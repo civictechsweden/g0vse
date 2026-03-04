@@ -1,5 +1,41 @@
 [
     {
+        "title": "Saudiarabien – avrådan",
+        "url": "/ud-avrader/saudiarabien--avradan/",
+        "published": "2026-03-03",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av ett försämrat säkerhetsläge avråder Utrikesdepartementet från icke nödvändiga resor till Saudiarabien.\n\nBeslut om avrådan togs 3 mars 2026. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1165"
+        ]
+    },
+    {
+        "title": "Jordanien - avrådan",
+        "url": "/ud-avrader/jordanien---avradan/",
+        "published": "2026-03-03",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av ett försämrat säkerhetsläge avråder Utrikesdepartementet från icke nödvändiga resor till Jordanien.\n\nBeslut om avrådan togs 3 mars 2026. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1089"
+        ]
+    },
+    {
         "title": "Israel - avrådan",
         "url": "/ud-avrader/israel---avradan/",
         "published": "2026-03-01",
@@ -943,24 +979,6 @@
         ]
     },
     {
-        "title": "Saudiarabien – avrådan",
-        "url": "/ud-avrader/saudiarabien--avradan/",
-        "published": "2020-10-15",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av förändringar i säkerhetsläget har UD den 15 oktober 2020 beslutat om att ändra avrådan för resor till Saudiarabien. Följande avrådan gäller: \n\nUD avråder från alla resor till Saudiarabiens gränsområde mot Jemen, upp till ett avstånd om 50 kilometer från den jemenitiska gränsen. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1165"
-        ]
-    },
-    {
         "title": "Kenya - avrådan",
         "url": "/ud-avrader/kenya---avradan/",
         "published": "2020-01-14",
@@ -976,24 +994,6 @@
         "categories": [
             "2204",
             "1095"
-        ]
-    },
-    {
-        "title": "Jordanien - avrådan",
-        "url": "/ud-avrader/jordanien---avradan/",
-        "published": "2015-02-10",
-        "updated": "2019-06-27",
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet tills vidare från icke nödvändiga resor till Jordaniens gränsområde mot Syrien och Irak, upp till ett avstånd om tre kilometer från gränsen (tidigare avrådan avsåg tio kilometer). \n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1089"
         ]
     },
     {
