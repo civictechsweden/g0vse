@@ -1,5 +1,35 @@
 [
     {
+        "title": "En brottsbekämpande verksamhet hos Försäkringskassan",
+        "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/03/ds-20264/",
+        "published": "2026-03-04",
+        "updated": null,
+        "types": [
+            "1325",
+            "1324"
+        ],
+        "senders": [
+            "1292"
+        ],
+        "summary": "I promemorian föreslås bland annat hur en särskild avgränsad verksamhet för utredning av bidragsbrott vid Försäkringskassan ska utformas. Verksamheten består av två delar: en brottsutredande del och en underrättelseverksamhet för att förebygga, förhindra och upptäcka brott.",
+        "id": "Ds 2026:4",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Utredning föreslår att Försäkringskassan ska få brottsbekämpande befogenheterWebb-TV",
+                "url": "/pressmeddelanden/2026/03/utredning-foreslar-att-forsakringskassan-ska-fa-brottsbekampande-befogenheter/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "En brottsbekämpande verksamhet hos Försäkringskassan, Ds 2026:4 (pdf 3 MB)",
+                "url": "/contentassets/cdfb9c94571d46ea9009508ee2ed0fd3/ds-2026-4.pdf"
+            }
+        ],
+        "categories": [
+            "1269"
+        ]
+    },
+    {
         "title": "Elektronisk övervakning – ett verktyg för socialtjänsten till skydd för barn och unga",
         "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/02/elektronisk-overvakning--ett-verktyg-for-socialtjansten-till-skydd-for-barn-och-unga/",
         "published": "2026-02-24",
@@ -4947,7 +4977,7 @@
         ]
     },
     {
-        "title": "Ett nationellt mobilförbud i de obligatoriska skolformerna och fritidshemmet, Ds 2025:9",
+        "title": "Ett nationellt mobilförbud i de obligatoriska skolformerna och fritidshemmet",
         "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/03/ds-20259/",
         "published": "2025-03-13",
         "updated": null,
@@ -4958,7 +4988,23 @@
         "senders": [
             "1294"
         ],
-        "summary": "Utredarens huvuduppdrag har varit att ta fram ett förslag till en reglering som innebär att mobiltelefoner och annan elektronisk kommunikationsutrustning ska samlas in vid varje skoldags början när det gäller de obligatoriska skolformerna och fritidshemmet."
+        "summary": "Utredarens huvuduppdrag har varit att ta fram ett förslag till en reglering som innebär att mobiltelefoner och annan elektronisk kommunikationsutrustning ska samlas in vid varje skoldags början när det gäller de obligatoriska skolformerna och fritidshemmet.",
+        "id": "Ds 2025:9",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Skolministern tog emot förslag om mobilförbud under hela skoldagen",
+                "url": "/pressmeddelanden/2025/03/skolministern-tog-emot-forslag-om-mobilforbud-under-hela-skoldagen/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Ett nationellt mobilförbud i de obligatoriska skolformerna och fritidshemmet, Ds 2025:9 (pdf 1 MB)",
+                "url": "/contentassets/d30fa3a631ab45628b3cc540108f006b/ett-nationellt-mobilforbud-i-de-obligatoriska-skolformerna-och-fritidshemmet-ds-20259.pdf"
+            }
+        ],
+        "categories": [
+            "1276"
+        ]
     },
     {
         "title": "Avgift för transporttillstånd vid gränsöverskridande transport av använt kärnbränsle eller radioaktivt avfall",
