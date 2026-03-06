@@ -1,5 +1,33 @@
 [
     {
+        "title": "En lag om socialdataregister",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526165",
+        "published": "2026-03-05",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1296"
+        ],
+        "summary": "Regeringen föreslår en socialdataregisterlag som kompletterar en av Europaparlamentets och rådets förordningar. Meningen är att ge Socialstyrelsen möjlighet att behandla personuppgifter på ett ändamålsenligt sätt och att skydda människors personliga integritet.",
+        "id": "Prop. 2025/26:165",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Nu skapas förutsättningar för en kunskapsbaserad socialtjänst",
+                "url": "/pressmeddelanden/2026/03/nu-skapas-forutsattningar-for-en-kunskapsbaserad-socialtjanst/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "En lag om socialdataregister, Prop. 2025 26 165 (pdf 1 MB)",
+                "url": "/contentassets/1b5dcceb75f144149712b6e13543038e/prop.-2025-26-165.pdf"
+            }
+        ],
+        "categories": []
+    },
+    {
         "title": "Polisens användning av AI för ansiktsigenkänning i realtid",
         "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526150",
         "published": "2026-03-04",

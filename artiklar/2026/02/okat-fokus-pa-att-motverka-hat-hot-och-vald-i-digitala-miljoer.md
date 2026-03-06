@@ -50,13 +50,29 @@ Studier visar att svenska elever blir distraherade av digitala verktyg i klassru
 
 Jämställdhetspolitiken behöver utvecklas för att tydligare inkludera pojkar och unga män, särskilt kring frågor om könsstereotypa normer och maskulinitet. Det kan behövas fler insatser för att möta de specifika jämställdhetsutmaningar som pojkar och unga män möter. Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF) har därför fått i uppdrag att ta fram en kunskapssammanställning som ska belysa områden där pojkar och unga män upplever svårigheter kopplade till könsstereotypa normer, maskulinitet och jämställdhet.
 
-[Pressmeddelande: Regeringen vill öka kunskapen om pojkars och unga mäns jämställdhetsutmaningar](/pressmeddelanden/2025/10/regeringen-tillsatter-utredning-om-aldersgrans-for-sociala-medier/)
+[Pressmeddelande: Regeringen vill öka kunskapen om pojkars och unga mäns jämställdhetsutmaningar](/pressmeddelanden/2025/06/regeringen-vill-oka-kunskapen-om-pojkars-och-unga-mans-jamstalldhetsutmaningar/)
 
 ### Att förebygga våld i ungas nära relationer och minska utsattheten för sexuell exploatering i digitala miljöer
 
 Brottsoffermyndigheten har i uppdrag att följa upp tidigare informationsinsatser för personer som har utsatts för brott på nätet. Myndigheten ska utveckla informationsinsatser och kunskap om internet som brottsplats, om näthatets omfattning och mekanismer. Uppdraget ska även bidra till att förebygga våld i ungas nära relationer samt minska utsattheten för sexuell exploatering i digitala miljöer.
 
 [Åtgärdsprogram mot mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck](/pressmeddelanden/2024/06/atgardsprogram-mot-mans-vald-mot-kvinnor-vald-i-nara-relationer-och-hedersrelaterat-vald-och-fortryck/)
+
+### Ytterligare åtgärder för att stärka barns skydd mot sexualbrott
+
+Regeringen ger Polismyndigheten i uppdrag att intensifiera arbetet mot sexualbrott i digitala miljöer. Uppdraget innebär särskilt att Polismyndigheten ska utveckla samarbetet med internetleverantörer för att hindra tillgången till barnpornografiska bilder och annat material som i den digitala miljön främjar, möjliggör eller på annat sätt utgör ett led i straffbar sexualbrottslighet.
+
+Sexualbrott mot barn sker i allt högre grad på nätet. Den tekniska utvecklingen gör att brotten kan begås anonymt och spridas snabbt, vilket ställer nya krav på samhällets arbete. Regeringens åtgärder syftar till att stärka skyddet för barn och förbättra möjligheterna att stoppa brott tidigt, samtidigt som fler misstänkta ska kunna identifieras och lagföras.
+
+[Pressmeddelande: Ytterligare åtgärder för att stärka barns skydd mot sexualbrott](/pressmeddelanden/2026/02/ytterligare-atgarder-for-att-starka-barns-skydd-mot-sexualbrott/)
+
+### Nya lagförslag för att stärka skyddet mot våldtäkt mot barn och bedrägerier mot äldre
+
+Regeringen har lämnat över en proposition till riksdagen med förslag på lagändringar som ska stärka skyddet mot bland annat våldtäkt mot barn, bedrägerier mot äldre och brott med kön som hatbrottsmotiv. Förslagen innebär exempelvis att straffansvaret för våldtäkt mot barn utvidgas och att köp av sexuella handlingar som utförs via internet kriminaliseras.
+
+I propositionen föreslog regeringen att brottsbeteckningen köp av sexuell tjänst ändras till köp av sexuell handling och det straffbara området för det och koppleri utvidgas till att omfatta handlingar som utförs via exempelvis internet. En kriminalisering av köp av sexuell handling som utförs på distans är en naturlig utveckling eftersom gränsen mellan våra verkliga och digitala liv alltmer suddas ut och sexindustrin har förändrats.
+
+[Pressmeddelande: Nya lagförslag för att stärka skyddet mot våldtäkt mot barn och bedrägerier mot äldre](/pressmeddelanden/2025/04/nya-lagforslag-for-att-starka-skyddet-mot-valdtakt-mot-barn-och-bedragerier-mot-aldre/)
 
 ### Samband mellan barns och ungas digitala medieanvändning och hälsa ska klargöras
 
