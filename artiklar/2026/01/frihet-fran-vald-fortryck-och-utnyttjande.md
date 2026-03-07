@@ -2,7 +2,7 @@
 
 Mäns våld mot kvinnor, våld i nära relationer, hedersrelaterat våld och förtryck och prostitution och människohandel är allvarliga samhällsproblem som måste bekämpas. Allt för många i vårt land lever i dag i en vardag som redan från ung ålder präglas av våld, förtryck och kontroll. För regeringen är detta ett prioriterat område – våldet, förtrycket och utnyttjandet ska bekämpas med samma kraft som gängkriminaliteten.
 
-Kvinnors rätt till frid och frihet kränks dagligen. Mellan år 2017–2024 dödades enligt Brottsförebyggande rådet i genomsnitt 14 kvinnor per år i Sverige genom dödligt våld av en nuvarande eller tidigare partner. Även sexualbrott kränker på ett allvarligt sätt kvinnors rätt till en trygg och säker tillvaro. Kvinnor mellan 20 och 24 år är den åldersgrupp där störst andel uppger att de har utsatts för sexualbrott.
+Kvinnors rätt till frid och frihet kränks dagligen. Mellan år 2017–2024 dödades enligt Brottsförebyggande rådet i genomsnitt 13 kvinnor per år i Sverige genom dödligt våld av en nuvarande eller tidigare partner. Även sexualbrott kränker på ett allvarligt sätt kvinnors rätt till en trygg och säker tillvaro. Kvinnor mellan 20 och 24 år är den åldersgrupp där störst andel uppger att de har utsatts för sexualbrott.
 
 Den sexuella exploateringen i dag är djupt sammankopplad med den digitala utvecklingen. Rekrytering och exploatering inom prostitution och människohandel har till stor del flyttat ut på nätet i form av eskortsidor eller annonser för sexuella tjänster och drivs i hög grad av män som utnyttjar flickor och kvinnor mot betalning.
 

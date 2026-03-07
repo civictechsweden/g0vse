@@ -1,5 +1,23 @@
 [
     {
+        "title": "Irak - avrådan",
+        "url": "/ud-avrader/irak---avradan/",
+        "published": "2026-03-06",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av det försämrade säkerhetsläget avråder Utrikesdepartementet från alla resor till Irak.\n\nBeslut om avrådan togs den 6 mars 2026. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1080"
+        ]
+    },
+    {
         "title": "Saudiarabien – avrådan",
         "url": "/ud-avrader/saudiarabien--avradan/",
         "published": "2026-03-03",
@@ -360,24 +378,6 @@
         "categories": [
             "2204",
             "1141"
-        ]
-    },
-    {
-        "title": "Irak - avrådan",
-        "url": "/ud-avrader/irak---avradan/",
-        "published": "2025-07-02",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till Irak förutom till provinserna Dohuk, Erbil, Sulaymaniyah och Halabja i regionen Kurdistan i Irak. För dessa provinser avråder UD från icke nödvändiga resor.\n\nBeslut om ändrad avrådan togs den 2 juli 2025. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1080"
         ]
     },
     {
