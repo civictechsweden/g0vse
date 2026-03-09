@@ -1,0 +1,17 @@
+# Regeringen stödjer kvinnors och flickors motståndskraft i Ukraina
+
+- Ukrainska kvinnor har varit ryggraden för landets motstånd sedan dag ett av Rysslands fullskaliga invasion. I dag på internationella kvinnodagen vill jag att ukrainska kvinnor och flickor ska känna Sveriges stöd. Därför presenterar vi i dag ett humanitärt stödpaket på drygt 71 miljoner kronor under 2026 för att stödja ukrainska kvinnors motståndskraft, säger bistånds- och handelsminister Benjamin Dousa.
+
+- Jämställdhet är också en fråga om försvar och säkerhet. Ukrainska kvinnor försvarar varje dag Europa mot Putins terror. ​Att stödja Ukrainas kvinnor är inte bara vår plikt, utan en moralisk självklarhet, säger jämställdhetsminister Nina Larsson
+
+Det är i krig och humanitära kriser som kvinnors och flickors utsatthet ofta ökar. Stödet som regeringen allokerar bidrar bland annat till psykosocialt stöd till kvinnor och flickor, stärkt mödrahälsovård och skydd för kvinnors sexuella och reproduktiva hälsa och rättigheter. Till exempel når stödet till UNFPA över 8,9 miljoner människor genom organisationens 153 gynekologiska kliniker, 27 mobila enheter för reproduktiv hälsa, tre mobila förlossningsenheter och 104 vårdinrättningar.
+
+Jämställdhet, kvinnors och flickors frihet, egenmakt samt sexuell och reproduktiv hälsa och rättigheter är tydliga prioriteringar för Sverige. Genom nära samarbete med UNFPA och UN Women bidrar Sverige till att stärka kvinnors och flickors åtnjutande av mänskliga rättigheter. I en tid då motståndet mot kvinnors och flickors mänskliga rättigheter ökar är detta arbete viktigare än någonsin. Det svenska stödet bidrar till tillgång till säker abortvård och preventivmedel, samt främjar utvecklingen mot ökad jämställdhet globalt.
+
+- Ukrainska kvinnor har varit ryggraden för landets motstånd sedan dag ett av Rysslands fullskaliga invasion. I dag på internationella kvinnodagen vill jag att ukrainska kvinnor och flickor ska känna Sveriges stöd. Därför presenterar vi i dag ett humanitärt stödpaket på drygt 71 miljoner kronor under 2026 för att stödja ukrainska kvinnors motståndskraft, säger bistånds- och handelsminister Benjamin Dousa.
+
+- Jämställdhet är också en fråga om försvar och säkerhet. Ukrainska kvinnor försvarar varje dag Europa mot Putins terror. ​Att stödja Ukrainas kvinnor är inte bara vår plikt, utan en moralisk självklarhet, säger jämställdhetsminister Nina Larsson
+
+Det är i krig och humanitära kriser som kvinnors och flickors utsatthet ofta ökar. Stödet som regeringen allokerar bidrar bland annat till psykosocialt stöd till kvinnor och flickor, stärkt mödrahälsovård och skydd för kvinnors sexuella och reproduktiva hälsa och rättigheter. Till exempel når stödet till UNFPA över 8,9 miljoner människor genom organisationens 153 gynekologiska kliniker, 27 mobila enheter för reproduktiv hälsa, tre mobila förlossningsenheter och 104 vårdinrättningar.
+
+Jämställdhet, kvinnors och flickors frihet, egenmakt samt sexuell och reproduktiv hälsa och rättigheter är tydliga prioriteringar för Sverige. Genom nära samarbete med UNFPA och UN Women bidrar Sverige till att stärka kvinnors och flickors åtnjutande av mänskliga rättigheter. I en tid då motståndet mot kvinnors och flickors mänskliga rättigheter ökar är detta arbete viktigare än någonsin. Det svenska stödet bidrar till tillgång till säker abortvård och preventivmedel, samt främjar utvecklingen mot ökad jämställdhet globalt.
