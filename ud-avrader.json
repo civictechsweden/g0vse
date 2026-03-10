@@ -1,5 +1,23 @@
 [
     {
+        "title": "Libanon – avrådan",
+        "url": "/ud-avrader/libanon--andrad-avradan/",
+        "published": "2026-03-09",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av det försämrade säkerhetsläget avråder Utrikesdepartementet från alla resor till Libanon och uppmanar svenskar som befinner sig där att lämna landet.\n\nBeslut om avrådan togs den 9 mars 2026. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1109"
+        ]
+    },
+    {
         "title": "Irak - avrådan",
         "url": "/ud-avrader/irak---avradan/",
         "published": "2026-03-06",
@@ -527,24 +545,6 @@
         "categories": [
             "2204",
             "1182"
-        ]
-    },
-    {
-        "title": "Libanon – avrådan",
-        "url": "/ud-avrader/libanon--andrad-avradan/",
-        "published": "2025-02-07",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av det förbättrade säkerhetsläget har Utrikesdepartementet den 7 februari 2025 beslutat att ändra avrådan för Libanon. \n \nUtrikesdepartementet avråder från icke nödvändiga resor till distrikten Batroun, Jbail, Kesroun, El Metn och centrala Beirut (norr of Saeb Slam Avenue och Abdallah El Yafi Avenue) samt flygplatsen och motorväg 51mellan flygplatsen och centrala Beirut. \n \nUtrikesdepartementet avråder från alla resor till övriga Libanon. \n \nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1109"
         ]
     },
     {

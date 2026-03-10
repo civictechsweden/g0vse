@@ -1,0 +1,21 @@
+# Nya lagar för att underlätta notering av aktier och andra värdepapper
+
+För att göra EU:s kapitalmarknader mer attraktiva som handelsplats för företags värdepapper, som alternativ till bankfinansiering, har EU genomfört ändringar i flera direktiv och förordningar. Ändringarna ska göra det administrativt enklare för i synnerhet små och medelstora företag som vill erbjuda till exempel aktier eller obligationer på en handelsplats i EU.
+
+I propositionen Nya regler för att underlätta noteringar av värdepapper föreslog regeringen i december 2025 anpassningar i svensk lagstiftning till de förändringar som gjorts på EU-nivå. Riksdagen beslutade i enlighet med regeringens förslag den 25 februari, och nu har regeringen beslutat att utfärda de nya ändringslagarna:
+
+* Multilaterala handelsplattformar får nu möjlighet att registrera ett segment som en tillväxtmarknad för små och medelstora företag. Företag får också en utökad rätt att invända mot att redan noterade värdepapper noteras på en annan handelsplats. Lagändringarna sker i lagen om värdepappersmarknaden.
+* Reglerna för hur administrativa sanktionsavgifter beräknas vid överträdelser av marknadsmissbruksförordningen ändras i syfte att bli mer proportionerliga. Lagändringarna sker i lagen med kompletterande bestämmelser till EU:s marknadsmissbruksförordning.
+* Flera ändringar görs kring prospekten, det vill säga den information företag är skyldiga att lämna om värdepapper. Detta för att minska den administrativa bördan för företag genom mer ändamålsenligt innehåll i prospekt, men också för att göra informationen mer lättillgänglig för investerare. Bland annat höjs tröskelvärdet för när ett företag blir skyldigt att ta fram ett prospekt från 2,5 miljoner euro till 12 miljoner euro, vilket avser värdet av erbjudanden i EU under ett år. Svenska företag som tar upp värdepapper till handel på en reglerad marknad i Sverige, eller lämnar erbjudanden till allmänheten i Sverige, ska också få välja om de vill upprätta prospekt på svenska eller engelska. Dessa ändringar sker i lagen med kompletterande bestämmelser till EU:s prospektförordning.
+
+Lagändringarna föreslås i huvudsak träda i kraft i juni 2026.
+
+För att göra EU:s kapitalmarknader mer attraktiva som handelsplats för företags värdepapper, som alternativ till bankfinansiering, har EU genomfört ändringar i flera direktiv och förordningar. Ändringarna ska göra det administrativt enklare för i synnerhet små och medelstora företag som vill erbjuda till exempel aktier eller obligationer på en handelsplats i EU.
+
+I propositionen Nya regler för att underlätta noteringar av värdepapper föreslog regeringen i december 2025 anpassningar i svensk lagstiftning till de förändringar som gjorts på EU-nivå. Riksdagen beslutade i enlighet med regeringens förslag den 25 februari, och nu har regeringen beslutat att utfärda de nya ändringslagarna:
+
+* Multilaterala handelsplattformar får nu möjlighet att registrera ett segment som en tillväxtmarknad för små och medelstora företag. Företag får också en utökad rätt att invända mot att redan noterade värdepapper noteras på en annan handelsplats. Lagändringarna sker i lagen om värdepappersmarknaden.
+* Reglerna för hur administrativa sanktionsavgifter beräknas vid överträdelser av marknadsmissbruksförordningen ändras i syfte att bli mer proportionerliga. Lagändringarna sker i lagen med kompletterande bestämmelser till EU:s marknadsmissbruksförordning.
+* Flera ändringar görs kring prospekten, det vill säga den information företag är skyldiga att lämna om värdepapper. Detta för att minska den administrativa bördan för företag genom mer ändamålsenligt innehåll i prospekt, men också för att göra informationen mer lättillgänglig för investerare. Bland annat höjs tröskelvärdet för när ett företag blir skyldigt att ta fram ett prospekt från 2,5 miljoner euro till 12 miljoner euro, vilket avser värdet av erbjudanden i EU under ett år. Svenska företag som tar upp värdepapper till handel på en reglerad marknad i Sverige, eller lämnar erbjudanden till allmänheten i Sverige, ska också få välja om de vill upprätta prospekt på svenska eller engelska. Dessa ändringar sker i lagen med kompletterande bestämmelser till EU:s prospektförordning.
+
+Lagändringarna föreslås i huvudsak träda i kraft i juni 2026.
