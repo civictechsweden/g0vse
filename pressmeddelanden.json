@@ -1,5 +1,392 @@
 [
     {
+        "title": "Regeringen presenterar kärnkraftsnyheter",
+        "url": "/pressmeddelanden/2026/03/regeringen-presenterar-karnkraftsnyheter/",
+        "published": "2026-03-10",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2612",
+            "2792",
+            "2623",
+            "1291"
+        ],
+        "summary": "Onsdag den 11 mars klockan 09.15 bjuder energi- och näringsminister Ebba Busch, finansmarknadsminister Niklas Wykman, vikarierande klimat- och miljöminister Johan Britz och näringsutskottets ordförande Tobias Andersson in till en pressträff för att presentera nyheter på kärnkraftsområdet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1226",
+            "2691",
+            "2777"
+        ]
+    },
+    {
+        "title": "Uppdrag att utreda OMOP-anpassning av hälsodataregister för internationell samverkan",
+        "url": "/pressmeddelanden/2026/03/uppdrag-att-utreda-omop-anpassning-av-halsodataregister-for-internationell-samverkan2/",
+        "published": "2026-03-10",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Regeringen tar initiativ till att stärka användningen av hälsodata i Sverige och ger Socialstyrelsen i uppdrag att utreda OMOP-modellen för att möjliggöra enklare analyser och bättre internationell jämförbarhet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1238",
+            "1233",
+            "2693",
+            "2688"
+        ]
+    },
+    {
+        "title": "Finansminister Elisabeth Svantesson presenterar en ny ekonomisk prognos",
+        "url": "/pressmeddelanden/2026/03/finansminister-elisabeth-svantesson-presenterar-en-ny-ekonomisk-prognos/",
+        "published": "2026-03-10",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "Onsdag den 11 mars kl. 13.00 presenterar finansminister Elisabeth Svantesson en ny prognos för den ekonomiska utvecklingen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1232"
+        ]
+    },
+    {
+        "title": "Utredning ska stärka informationsdelningen i ambulanssjukvården",
+        "url": "/pressmeddelanden/2026/03/utredning-ska-starka-informationsdelningen-i-ambulanssjukvarden/",
+        "published": "2026-03-10",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "2795",
+            "1292"
+        ],
+        "summary": "Socialdepartementet tillsätter en utredning vars syfte är analysera och stärka möjligheterna till en bättre informationsdelning för ökad trygghet och säkerhet för ambulanspersonal.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
+        "title": "Socialministern tog emot utredning om att motverka felaktiga läkemedelsförskrivningar",
+        "url": "/pressmeddelanden/2026/03/260310-socialministern-tog-emot-utredning-om-att-motverka-felaktiga-lakemedelsforskrivningar/",
+        "published": "2026-03-10",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Socialminister Jakob Forssmed har tagit emot slutbetänkandet från Utredningen om läkemedelsförskrivning. Utredningen föreslår flera åtgärder för att motverka felaktiga läkemedelsförskrivningar och att offentliga medel går till kriminella och oseriösa aktörer.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Stärkt tillsyn och uppföljning – förslag för att motverka oegentlig läkemedelsförskrivning, SOU 2026:19",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/03/sou-202619/"
+            },
+            {
+                "name": "Dir. 2024:82 En översyn av vissa frågor om dokumentation, begränsningar och tillsyn avseende läkemedelsförskrivningar",
+                "url": "/rattsliga-dokument/kommittedirektiv/2024/09/dir.-202482"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen tillsätter utredning för att motverka felaktiga läkemedelsförskrivningar",
+                "url": "/pressmeddelanden/2024/09/regeringen-tillsatter-utredning-for-att-motverka-felaktiga-lakemedelsforskrivningar/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträffen den 10 mars (pdf 111 kB)",
+                "url": "/contentassets/bfbf510013a14de99c0238c201b62437/presentationsbilder-fran-presstraff-260310-om-slutbetankandet-fran-utredningen-om-lakemedelsforskrivning.pdf"
+            }
+        ],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
+        "title": "Andreas Carlson besöker försvarsövningen Cold Response",
+        "url": "/pressmeddelanden/2026/03/andreas-carlson-besoker-forsvarsovningen-cold-response/",
+        "published": "2026-03-10",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2425"
+        ],
+        "summary": "Onsdag 11 mars och torsdag 12 mars reser infrastruktur- och bostadsminister Andreas Carlson till Rovaniemi, Finland, i samband med försvarsövningen Cold Response 2026.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Om Cold Response 2026 på Försvarsmaktens webbplats- extern webbplats,",
+                "url": "https://www.forsvarsmakten.se/aktuellt/ovningar/cold-response-2026/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1274",
+            "2593",
+            "1013",
+            "1062"
+        ]
+    },
+    {
+        "title": "Regeringen överlämnar skrivelse om Riksrevisionens rapport om förvar i migrationsprocessen",
+        "url": "/pressmeddelanden/2026/03/regeringen-overlamnar-skrivelse-om-riksrevisionens-rapport-om-forvar-i-migrationsprocessen/",
+        "published": "2026-03-10",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2618",
+            "1287"
+        ],
+        "summary": "Regeringen har överlämnat en skrivelse till riksdagen med anledning av Riksrevisionens granskning av förvar i migrationsprocessen. I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen lämnat.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Skr. 2025/26:137 Riksrevisionens rapport om förvar i migrationsprocessen",
+                "url": "/rattsliga-dokument/skrivelse/2026/03/skr.-202526137"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1249",
+            "2661",
+            "2688"
+        ]
+    },
+    {
+        "title": "Nu blir det möjligt att betala ut överskott till dagens och morgondagens pensionärer",
+        "url": "/pressmeddelanden/2026/03/nu-blir-det-mojligt-att-betala-ut-overskott-till-dagens-och-morgondagens-pensionarer/",
+        "published": "2026-03-10",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2609",
+            "1292"
+        ],
+        "summary": "Pensionsgruppen kom i augusti 2025 överens om att införa en gas i inkomstpensionssystemet så att överskott som byggs upp ska kunna betalas ut. Nu lägger regeringen fram lagförslaget till riksdagen i en proposition.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Proposition",
+                "url": "/rattsliga-dokument/proposition/"
+            },
+            {
+                "name": "Proposition 2025/26:169 Utdelning av överskott i inkomstpensionssystemet",
+                "url": "/rattsliga-dokument/proposition/2026/03/prop-202526169/"
+            },
+            {
+                "name": "Pressmeddelande: Pensionsgruppen överens: en gas i pensionssystemet ska införas",
+                "url": "/pressmeddelanden/2025/08/pensionsgruppen-overens-en-gas-i-pensionssystemet-ska-inforas/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1269"
+        ]
+    },
+    {
+        "title": "Regeringen föreslår moderniserat bostadsbidrag",
+        "url": "/pressmeddelanden/2026/03/regeringen-foreslar-moderniserat-bostadsbidrag/",
+        "published": "2026-03-10",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2609",
+            "1292"
+        ],
+        "summary": "För att minska risken för felaktiga utbetalningar, återkrav och skuldsättning på grund av bostadsbidraget, föreslår regeringen ett mer träffsäkert och korrekt bostadsbidrag.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Proposition",
+                "url": "/rattsliga-dokument/proposition/"
+            },
+            {
+                "name": "Prop. 2025/26:170 Ett mer träffsäkert och korrekt bostadsbidrag",
+                "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526170"
+            },
+            {
+                "name": "Pressmeddelande: Månatlig beräkning av bostadsbidrag ska minska felaktiga utbetalningar",
+                "url": "/pressmeddelanden/2025/06/manatlig-berakning-av-bostadsbidrag-ska-minska-felaktiga-utbetalningar/"
+            },
+            {
+                "name": "Pressmeddelande: Moderniserat bostadsbidrag ska minska felaktiga utbetalningar och återkrav",
+                "url": "/pressmeddelanden/2025/12/moderniserat-bostadsbidrag-ska-minska-felaktiga-utbetalningar-och-aterkrav/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1269"
+        ]
+    },
+    {
+        "title": "Statsministern deltar i nordisk-kanadensiskt toppmöte i Oslo",
+        "url": "/pressmeddelanden/2026/03/statsministern-deltar-i-nordisk-kanadensiskt-toppmote-i-oslo/",
+        "published": "2026-03-10",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2605",
+            "1293"
+        ],
+        "summary": "Statsminister Ulf Kristersson reser på söndag den 15 mars till Oslo för att delta i ett toppmöte om säkerhet med nordiska statsministrar och Kanadas premiärminister Mark Carney.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Ackreditering via anmälningsformulär- extern webbplats,",
+                "url": "https://www.regjeringen.no/id3151651"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2247",
+            "2435",
+            "1279",
+            "1013",
+            "1047",
+            "1062",
+            "1083",
+            "1092",
+            "1142"
+        ]
+    },
+    {
+        "title": "Regeringen redovisar resultat av svenska biståndsinsatser i Ukraina",
+        "url": "/pressmeddelanden/2026/03/regeringen-redovisar-resultat-av-svenska-bistandsinsatser-i-ukraina/",
+        "published": "2026-03-10",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2756",
+            "1295"
+        ],
+        "summary": "Regeringen lämnar en skrivelse till riksdagen om resultatet av det svenska biståndet till Ukraina och dess närområde. Skrivelsen är ett led i regeringens arbete med att stärka transparensen och tydliggöra effekterna av svenska biståndsinsatser. Det omfattande svenska stödet mellan 2022–2025 har på ett konkret sätt bidragit till att krigsdrabbade människor fått akut humanitär hjälp samtidigt som Ukrainas motståndskraft har stärkts genom stöd till landets långsiktiga uppbyggnad.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Skrivelse: Fördjupad resultatredovisning av internationellt bistånd – Ukraina",
+                "url": "/rattsliga-dokument/skrivelse/2026/03/skr.-20252697"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1215",
+            "1279",
+            "2584",
+            "1013"
+        ]
+    },
+    {
+        "title": "Regeringen gör det enklare att läsa på en högre nivå i yrkeshögskolan",
+        "url": "/pressmeddelanden/2026/03/regeringen-gor-det-enklare-att-lasa-pa-en-hogre-niva-i-yrkeshogskolan/",
+        "published": "2026-03-10",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2620",
+            "1294"
+        ],
+        "summary": "Yrkeshögskolan har en viktig roll när det gäller att möta de stora kompetensbehoven i hela Sverige, möjliggöra omställning och förbättra matchningen på arbetsmarknaden. Regeringen lägger nu fram en proposition som syftar till att stärka yrkeshögskolan och skapa förutsättningar att tillhandahålla kvalificerad yrkesutbildning som bygger på eftergymnasial utbildning.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:173 Framtidens yrkeshögskola",
+                "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526173"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1213",
+            "1278"
+        ]
+    },
+    {
+        "title": "Regeringen beviljar medel för åtgärder mot prostitution och människohandel",
+        "url": "/pressmeddelanden/2026/03/regeringen-beviljar-medel-for-atgarder-mot-prostitution-och-manniskohandel/",
+        "published": "2026-03-10",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2784",
+            "1284"
+        ],
+        "summary": "Östersjöstaternas råd (CBSS) får 1,5 miljoner kronor för att under 2026 genomföra aktiviteter som stärker arbetet mot prostitution och människohandel. Pengarna ska bland annat användas till att implementera riktlinjer för hur utredningar av människohandel ska genomföras i Östersjöregionen och Ukraina.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "CBSS - Council of the Baltic Sea States- extern webbplats,",
+                "url": "https://cbss.org/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1219",
+            "1239"
+        ]
+    },
+    {
+        "title": "Bistånds- och utrikeshandelsminister Benjamin Dousa besöker Östergötland",
+        "url": "/pressmeddelanden/2026/03/bistands--och-utrikeshandelsminister-benjamin-dousa-besoker-ostergotland/",
+        "published": "2026-03-10",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2756",
+            "1295"
+        ],
+        "summary": "Bistånds- och utrikeshandelsminister Benjamin Dousa reser i dag till Linköping, Mjölby och Motala. Dousa kommer bland annat att träffa företag i Linköping och besöka Toyota i Mjölby.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1235"
+        ]
+    },
+    {
         "title": "Pressträff om slutbetänkandet från Utredningen om läkemedelsförskrivning",
         "url": "/pressmeddelanden/2026/03/presstraff-om-slutbetankandet-fran-utredningen-om-lakemedelsforskrivning/",
         "published": "2026-03-09",

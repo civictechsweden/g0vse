@@ -1,0 +1,3 @@
+# Fördjupad resultatredovisning av internationellt bistånd – Ukraina
+
+I skrivelsen ges en fördjupad redovisning av det internationella biståndets verksamhet och resultat. Skrivelsen har ett fokus på Ukraina och behandlar i viss utsträckning även biståndet till Moldavien och Armenien. Med utgångspunkt från mål och prioriteringar redovisas verksamhet och resultat inom fem områden: uppbyggnad av det ukrainska samhället, samhällsreformer, säkerhet och stabilisering, budgetstöd och humanitärt bistånd. Därtill redovisas slutsatser och lärdomar. Redovisningen omfattar utgiftsområde 7 internationellt bistånd och tidsperioden 2022–2025.
