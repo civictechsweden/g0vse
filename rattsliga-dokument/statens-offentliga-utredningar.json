@@ -1,5 +1,63 @@
 [
     {
+        "title": "Odlingstorv och klimatet",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/03/sou-202618/",
+        "published": "2026-03-11",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "Betänkande av Odlingstorvsutredningen.",
+        "id": "SOU 2026:18",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen har tagit emot Odlingstorvutredningens betänkande",
+                "url": "/pressmeddelanden/2026/03/regeringen-har-tagit-emot-odlingstorvutredningens-betankande/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Odlingstorv och klimatet, SOU 2026:18 (pdf 2 MB)",
+                "url": "/contentassets/31ce67bd509749b1befd8e3b6812b7a5/sou_2026_18_pdf-a_webb.pdf"
+            }
+        ],
+        "categories": [
+            "1232",
+            "1252",
+            "1267",
+            "1012"
+        ]
+    },
+    {
+        "title": "Försvarsexportinitiativ - För gemensam säkerhet",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/03/sou-202616/",
+        "published": "2026-03-11",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1286"
+        ],
+        "summary": "Betänkande av 2024 års försvarsexportutredning.",
+        "id": "SOU 2026:16",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Försvarsexportinitiativ För en gemensam säkerhet, SOU 2026:16 (pdf 2 MB)",
+                "url": "/contentassets/4442a2927f5b400aa4e88d1626df806f/forsvarsexportinitiativ-for-en-gemensam-sakerhet-sou-202616/"
+            }
+        ],
+        "categories": [
+            "2247"
+        ]
+    },
+    {
         "title": "Stärkt tillsyn och uppföljning – förslag för att motverka oegentlig läkemedelsförskrivning",
         "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/03/sou-202619/",
         "published": "2026-03-10",

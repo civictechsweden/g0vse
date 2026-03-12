@@ -1,0 +1,17 @@
+# Mer tid för förberedelser inför genomförandet av lönetransparensdirektivet
+
+I lagrådsremissen Genomförande av lönetransparensdirektivet, som regeringen beslutade den 15 januari, föreslogs att lagändringarna ska träda i kraft den 1 juli 2026. Det föreslogs också att de så kallade lönerapporterna ska lämnas till tillsynsmyndigheten Diskriminerings­ombudsmannen första gången senast den 20 maj 2027. Arbetsgivarorganisationerna har framfört att de föreslagna tidpunkterna kommer att medföra betydande utmaningar.
+
+– Lönediskriminering måste bekämpas. Det långsiktiga samarbetet mellan staten och arbetsmarknadens parter har över tid också bidragit till att minska de osakliga löneskillnaderna på svensk arbetsmarknad. Det är därför viktigt att vara lyhörd när arbetsgivarna tydligt har framfört att det behövs mer tid. På så sätt håller vi nere den administrativa bördan och får bästa möjliga effekt för jämställdheten, säger jämställdhetsminister Nina Larsson.
+
+Som en följd av dessa överväganden avser regeringen föreslå att de lagändringar som behövs för att genomföra direktivet ska träda i kraft den 1 januari 2027. Som en följd av detta avser regeringen även föreslå att lönerapporterna ska lämnas till Diskrimineringsombudsmannen första gången senast den 20 maj 2028. Dessa tidpunkter är i linje med de som föreslagits av arbetsgivarorganisationerna. Regeringen bedömer att den förlängda tiden för förberedelser innebär att arbetsgivarna och arbetsmarknadens parter får bättre förutsättningar att anpassa sig till det ändrade regelverket.
+
+Det är även viktigt att arbetsgivare får stöd i arbetet med att efterleva de nya kraven, och regeringen har därför förstärkt Diskrimineringsombudsmannens förvaltningsanslag med 25 miljoner för 2026 och 34 miljoner för 2027 och framåt.
+
+I lagrådsremissen Genomförande av lönetransparensdirektivet, som regeringen beslutade den 15 januari, föreslogs att lagändringarna ska träda i kraft den 1 juli 2026. Det föreslogs också att de så kallade lönerapporterna ska lämnas till tillsynsmyndigheten Diskriminerings­ombudsmannen första gången senast den 20 maj 2027. Arbetsgivarorganisationerna har framfört att de föreslagna tidpunkterna kommer att medföra betydande utmaningar.
+
+– Lönediskriminering måste bekämpas. Det långsiktiga samarbetet mellan staten och arbetsmarknadens parter har över tid också bidragit till att minska de osakliga löneskillnaderna på svensk arbetsmarknad. Det är därför viktigt att vara lyhörd när arbetsgivarna tydligt har framfört att det behövs mer tid. På så sätt håller vi nere den administrativa bördan och får bästa möjliga effekt för jämställdheten, säger jämställdhetsminister Nina Larsson.
+
+Som en följd av dessa överväganden avser regeringen föreslå att de lagändringar som behövs för att genomföra direktivet ska träda i kraft den 1 januari 2027. Som en följd av detta avser regeringen även föreslå att lönerapporterna ska lämnas till Diskrimineringsombudsmannen första gången senast den 20 maj 2028. Dessa tidpunkter är i linje med de som föreslagits av arbetsgivarorganisationerna. Regeringen bedömer att den förlängda tiden för förberedelser innebär att arbetsgivarna och arbetsmarknadens parter får bättre förutsättningar att anpassa sig till det ändrade regelverket.
+
+Det är även viktigt att arbetsgivare får stöd i arbetet med att efterleva de nya kraven, och regeringen har därför förstärkt Diskrimineringsombudsmannens förvaltningsanslag med 25 miljoner för 2026 och 34 miljoner för 2027 och framåt.
