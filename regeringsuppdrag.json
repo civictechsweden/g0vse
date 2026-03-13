@@ -1,5 +1,121 @@
 [
     {
+        "title": "Uppdrag till Strålsäkerhetsmyndigheten att etablera ett program för klinisk revision vid användning av joniserande strålning",
+        "url": "/regeringsuppdrag/2026/03/uppdrag-till-stralsakerhetsmyndigheten-att-etablera-ett-program-for-klinisk-revision-vid-anvandning-av-joniserande-stralning/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1342"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Regeringen uppdrar åt Strålsäkerhetsmyndigheten att etablera ett program för klinisk revision vid användning av joniserande strålning. Myndigheten ska utreda och föreslå fortsatt förvaltning och ansvarsfördelning.",
+        "id": "Diarienummer:  S2026/00454",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Program för klinisk revision av strålning",
+                "url": "/pressmeddelanden/2026/03/program-for-klinisk-revision-av-stralning/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Uppdrag till Strålsäkerhetsmyndigheten att etablera ett program för klinisk revision vid användning av joniserande strålning (pdf 142 kB)",
+                "url": "/contentassets/0f9473dbe463444f80d610ae61a2d151/uppdrag-till-stralsakerhetsmyndigheten-att-etablera-ett-program-for-klinisk-revision-vid-anvandning-av-joniserande-stralning.pdf"
+            }
+        ],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
+        "title": "Uppdrag till Vinnova om näringslivssamarbete för grön industriproduktion",
+        "url": "/regeringsuppdrag/2026/03/uppdrag-till-vinnova-om-naringslivssamarbete-for-gron-industriproduktion/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1342"
+        ],
+        "senders": [
+            "1291",
+            "1296"
+        ],
+        "summary": "Regeringen ger Verket för innovationssystem (Vinnova) i uppdrag att etablera ett offentligt-privat partnerskap för effektivare grön industriproduktion. Vidare ska Vinnova finansiera näringslivssamarbeten där stora industriföretag tillsammans med små och medelstora företag utvecklar lösningar för industrins gröna omställning inom områden där det finns en tydlig efterfrågan på lösningar av relevans för industriparterna i projektet.",
+        "id": "Diarienummer: KN2026/00525",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Nytt samarbete ska stärka industriomställningen",
+                "url": "/pressmeddelanden/2025/11/nytt-samarbete-ska-starka-industriomstallningen/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Uppdrag om näringslivssamarbete för grön industriproduktion (pdf 127 kB)",
+                "url": "/contentassets/a3688478c92e4138a81842ec5a97e3c4/uppdrag-om-naringslivssamarbete-for-gron-industriproduktion.pdf"
+            }
+        ],
+        "categories": [
+            "2282",
+            "1257"
+        ]
+    },
+    {
+        "title": "Uppdrag till Socialstyrelsen att se över myndighetens modell för screeningprogram samt nationella riktlinjer om screening för tjock- och ändtarmscancer",
+        "url": "/regeringsuppdrag/2026/03/uppdrag-till-socialstyrelsen-att-se-over-myndighetens-modell-for-screeningprogram-samt-nationella-riktlinjer-om-screening-for-tjock--och-andtarmscancer/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1342"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Regeringen uppdrar åt Socialstyrelsen att se över myndighetens modell för bedömning, införande och uppföljning av nationella screeningprogram, med fokus på de delar av modellen som berör revidering av befintliga screeningprogram.",
+        "id": "Diarienummer:  S2026/00455",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Modell och riktlinjer för cancerscreening ska ses överWebb-TV",
+                "url": "/pressmeddelanden/2026/03/modell-och-riktlinjer-for-cancerscreening-ska-ses-over/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Uppdrag till Socialstyrelsen att se över myndighetens modell för screeningprogram samt nationella riktlinjer om screening (pdf 139 kB)",
+                "url": "/contentassets/edcf41c870204da1b041e7a9b661b8bd/uppdrag-till-socialstyrelsen-att-se-over-myndighetens-modell-for-screeningprogram-samt-nationella-riktlinjer-om-screening.pdf"
+            }
+        ],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
+        "title": "Uppdrag till Socialstyrelsen att utreda OMOP-anpassning av hälsodataregister för att underlätta internationell samverkan och forskning",
+        "url": "/regeringsuppdrag/2026/03/uppdrag-till-socialstyrelsen-att-utreda-omop-anpassning-av-halsodataregister-for-att-underlatta-internationell-samverkan-och-forskning/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1342"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Regeringen uppdrar åt Socialstyrelsen att utreda och beskriva förutsättningarna, kostnaderna och nyttorna med att göra det möjligt att lämna ut data från hälsodataregistren enligt datamodellen Observational Medical Outcomes Partnership Common Data Model (OMOP).",
+        "id": "Diarienummer:  S2026/00463",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Uppdrag att utreda OMOP-anpassning av hälsodataregister för internationell samverkan",
+                "url": "/pressmeddelanden/2026/03/uppdrag-att-utreda-omop-anpassning-av-halsodataregister-for-internationell-samverkan2/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
         "title": "Uppdrag till Tandvårds- och läkemedelsförmånsverket och E-hälsomyndigheten att införa möjligheten för öppenvårdsapotek att erbjuda farmaceutiska tjänster",
         "url": "/regeringsuppdrag/2026/03/uppdrag-till-tandvards--och-lakemedelsformansverket-och-e-halsomyndigheten-att-infora-mojligheten-for-oppenvardsapotek-att-erbjuda-farmaceutiska-tjanster/",
         "published": "2026-03-11",

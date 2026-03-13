@@ -1,5 +1,90 @@
 [
     {
+        "title": "Nya krav på interoperabilitet vid datadelning inom den offentliga förvaltningen",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/03/nya-krav-pa-interoperabilitet-vid-datadelning-inom-den-offentliga-forvaltningen/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "I denna lagrådsremiss föreslås en ny lag om interoperabilitetskrav för datadelning. Lagen ska tillämpas av statliga myndigheter under regeringen, kommuner, regioner och kommunala bolag vid sådan datadelning som sker återkommande eller i större omfattning.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Utvecklad reglering och styrning av interoperabilitet vid datadelning inom den offentliga förvaltningen och från den offentliga förvaltningen till externa aktörer",
+                "url": "/rattsliga-dokument/kommittedirektiv/2022/07/dir.-2022118"
+            },
+            {
+                "name": "En reform för datadelning",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2023/12/sou-202396/"
+            },
+            {
+                "name": "Remissinstanser för SOU 2023:96 En reform för datadelning",
+                "url": "/remisser/2024/02/remiss-av-sou-202396-en-reform-for-datadelning/"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen går vidare med förslag om stärkt datadelning i offentlig förvaltning",
+                "url": "/pressmeddelanden/2026/03/regeringen-gar-vidare-med-forslag-om-starkt-datadelning-i-offentlig-forvaltning/"
+            },
+            {
+                "name": "Sveriges AI-strategi",
+                "url": "/regeringens-politik/sveriges-ai-strategi/"
+            },
+            {
+                "name": "Digitaliseringsstrategin 2025-2030",
+                "url": "/regeringens-politik/digitaliseringsstrategin-2025-2030/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Nya krav på interoperabilitet vid datadelning inom den offentliga förvaltningen (pdf 460 kB)",
+                "url": "/contentassets/e52c96b2478c421a96a3b17e6883676a/nya-krav-pa-interoperabilitet-vid-datadelning-inom-den-offentliga-forvaltningen/"
+            }
+        ],
+        "categories": [
+            "1238",
+            "2807"
+        ]
+    },
+    {
+        "title": "En betald polisutbildning",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/03/en-betald-polisutbildning/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "I syfte att öka polistillväxten och polistätheten bör polisutbildningen bli betald.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen föreslår betald polisutbildning",
+                "url": "/pressmeddelanden/2026/03/regeringen-foreslar-betald-polisutbildning/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "En betald polisutbildning (pdf 626 kB)",
+                "url": "/contentassets/d919abe6c98f476c9d523d9d8ea5252d/en-betald-polisutbildning.pdf"
+            }
+        ],
+        "categories": [
+            "1263",
+            "2690",
+            "2688"
+        ]
+    },
+    {
         "title": "Receptfria läkemedel med krav på särskild rådgivning",
         "url": "/rattsliga-dokument/lagradsremiss/2026/03/receptfria-lakemedel-med-krav-pa-sarskild-radgivning/",
         "published": "2026-03-11",

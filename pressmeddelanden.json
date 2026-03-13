@@ -1,5 +1,513 @@
 [
     {
+        "title": "Regeringen ger möjlighet för kommuner att anställa läkare",
+        "url": "/pressmeddelanden/2026/03/regeringen-ger-mojlighet-for-kommuner-att-anlita-lakare/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2609",
+            "2795",
+            "1292"
+        ],
+        "summary": "Regeringen har beslutat om en lagrådsremiss som gör det möjligt för kommuner att anlita läkare i den kommunala hälso- och sjukvården. Syftet är att stärka tillgången till medicinsk kompetens och höja kvaliteten för patienter samt skapa en tryggare och mer tillgänglig vård, inte minst för äldre.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Förslag för stärkt medicinsk kompetens i kommunal hälso- och sjukvård överlämnade",
+                "url": "/pressmeddelanden/2024/11/forslag-for-starkt-medicinsk-kompetens-i-kommunal-halso--och-sjukvard-overlamnade-till-aldre--och-socialforsakringsminister-anna-tenje/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1233",
+            "2656",
+            "2693",
+            "2688"
+        ]
+    },
+    {
+        "title": "Regeringen föreslår förbud mot kusinäktenskap",
+        "url": "/pressmeddelanden/2026/03/regeringen-foreslar-forbud-mot-kusinaktenskap/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "2784",
+            "1284",
+            "1287"
+        ],
+        "summary": "Regeringen har lämnat över en proposition till riksdagen med förslag som syftar till att motverka hedersrelaterat förtryck och andra påtryckningar vid ingående av äktenskap. Förslagen innebär ett förbud mot kusinäktenskap och äktenskap mellan andra nära släktningar. Det föreslås också att sådana äktenskap som ingåtts utomlands som huvudregel inte ska erkännas i Sverige.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:154 Förbud mot kusinäktenskap och äktenskap mellan andra nära släktingar",
+                "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526154"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1263",
+            "2671"
+        ]
+    },
+    {
+        "title": "Regeringen föreslår modernare regler för att öka tillgången på hyresbostäder",
+        "url": "/pressmeddelanden/2026/03/regeringen-foreslar-modernare-regler-for-att-oka-tillgangen-pa-hyresbostader/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2615",
+            "1287",
+            "2425"
+        ],
+        "summary": "Regeringen lämnar nu en proposition med förslag som ska göra det enklare att hyra ut bostäder och öka tillgången på hyresbostäder. Propositionen innehåller bland annat en ny privatuthyrningslag, utökade möjligheter till andrahandsuthyrning av bostadsrätter och moderniserade regler för blockhyra av företags- och delningsbostäder. Syftet är att skapa en mer flexibel hyresmarknad och göra fler bostäder tillgängliga.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringens propositioner",
+                "url": "/rattsliga-dokument/proposition/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1217"
+        ]
+    },
+    {
+        "title": "Regeringen går vidare med förslag om stärkt datadelning i offentlig förvaltning",
+        "url": "/pressmeddelanden/2026/03/regeringen-gar-vidare-med-forslag-om-starkt-datadelning-i-offentlig-forvaltning/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2614",
+            "1285"
+        ],
+        "summary": "Regeringen går nu vidare med ett lagförslag som ska effektivisera datadelningen hos bland annat statliga myndigheter, kommuner och regioner. Lagen ska gälla vid datadelning som sker återkommande eller i större omfattning.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Lagrådsremiss: Nya krav på interoperabilitet vid datadelning inom den offentliga förvaltningen",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/03/nya-krav-pa-interoperabilitet-vid-datadelning-inom-den-offentliga-forvaltningen/"
+            },
+            {
+                "name": "Sveriges AI-strategi",
+                "url": "/regeringens-politik/sveriges-ai-strategi/"
+            },
+            {
+                "name": "SOU 2023:96 En reform för datadelning",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2023/12/sou-202396/"
+            },
+            {
+                "name": "Digitaliseringsstrategin 2025-2030",
+                "url": "/regeringens-politik/digitaliseringsstrategin-2025-2030/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1238",
+            "2092",
+            "1260",
+            "2807"
+        ]
+    },
+    {
+        "title": "Praktiskt stöd till föräldrar och vårdnadshavare ses över",
+        "url": "/pressmeddelanden/2026/03/praktiskt-stod-till-foraldrar-och-vardnadshavare-ses-over/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "2616",
+            "1292"
+        ],
+        "summary": "Regeringen ger Socialstyrelsen och Myndigheten för familjerätt och föräldraskapsstöd i uppdrag att utreda och vid behov utveckla praktiska stödinsatser till föräldrar och vårdnadshavare. Syftet är att stärka barns trygghet, utveckling och hälsa.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Fokus på utsatta barn och unga",
+                "url": "/artiklar/2025/11/fokus-pa-utsatta-barn-och-unga/"
+            },
+            {
+                "name": "Pressmeddelande: Camilla Waltersson Grönvall tog emot förslag för att stärka socialtjänstens förebyggande arbete",
+                "url": "/pressmeddelanden/2024/11/camilla-waltersson-gronvall-tog-emot-forslag-for-att-starka-socialtjanstens-forebyggande-arbete/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1220",
+            "1268"
+        ]
+    },
+    {
+        "title": "Sverige stärker försvarsindustrisamarbetet med Ukraina",
+        "url": "/pressmeddelanden/2026/03/sverige-starker-forsvarsindustrisamarbetet-med-ukraina/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2627",
+            "1286"
+        ],
+        "summary": "Regeringen ger Försvarets materielverk (FMV) i uppdrag att utreda och förbereda etableringen av ett försvarsindustrikontor i Ukraina. Regeringen ger även FMV i uppdrag att utfärda referensbrev till svenska företag. Uppdragen syftar till att stärka samarbetet inom industrisamverkan, gemensam produktion och innovation.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2247"
+        ]
+    },
+    {
+        "title": "Medel för fortsatta insatser för att främja försoningsprocessen med tornedalingar, kväner och lantalaiset",
+        "url": "/pressmeddelanden/2026/03/medel-for-fortsatta-insatser-for-att-framja-forsoningsprocessen-med-tornedalingar-kvaner-och-lantalaiset/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2624",
+            "1288"
+        ],
+        "summary": "Regeringen beviljar Svenska Tornedalingars Riksförbund – Tornionlaaksolaiset (STR-T) 2 miljoner kronor för fortsatta insatser för att främja försoningsprocessen med tornedalingar, kväner och lantalaiset. Samtidigt beviljas Riksförbundet Meänmaa Tornionlaakso/Tornedalen 500 000 kronor för samma ändamål.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringens arbete med försoningsprocessen med tornedalingar, kväner och lantalaiset",
+                "url": "/regeringens-politik/nationella-minoriteter/regeringens-arbete-med-forsoningsprocessen-med-tornedalingar-kvaner-och-lantalaiset/"
+            },
+            {
+                "name": "Populärversion av Som om vi aldrig funnits – exkludering och assimilering av tornedalingar, kväner och lantalaiset (SOU 2023:68) på Forum för levande historias hemsida- extern webbplats,",
+                "url": "https://www.levandehistoria.se/publikationer/varken-finne-eller-svensk"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1219",
+            "2539"
+        ]
+    },
+    {
+        "title": "Arbetsförmedlingen ska förstärka arbetet med romsk inkludering",
+        "url": "/pressmeddelanden/2026/03/arbetsformedlingen-ska-forstarka-arbetet-med-romsk-inkludering/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2624",
+            "1288"
+        ],
+        "summary": "Regeringen har beslutat om ett uppdrag till Arbetsförmedlingen att stärka arbetet med romsk inkludering. Uppdraget utgör en del av strategin för romsk inkludering och planeras löpa mellan 2026–2028. För 2026 avsätts 1 miljon kronor för uppdraget.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1213",
+            "1219",
+            "2539"
+        ]
+    },
+    {
+        "title": "LSU får 6,55 miljoner kronor för ungdomsverksamhet",
+        "url": "/pressmeddelanden/2026/03/lsu-far-655-miljoner-kronor-for-ungdomsverksamhet/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2795",
+            "1292"
+        ],
+        "summary": "Regeringen beviljar Landsrådet för Sveriges barn- och ungdomsorganisationer, LSU, 6,55 miljoner kronor för nationell och internationell ungdomsverksamhet under 2026.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2246"
+        ]
+    },
+    {
+        "title": "Regeringen föreslår ändringar i plan- och bygglagen för en säkrare och mer effektiv byggprocess",
+        "url": "/pressmeddelanden/2026/03/regeringen-foreslar-andringar-i-plan--och-bygglagen-for-en-sakrare-och-mer-effektiv-byggprocess/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2425"
+        ],
+        "summary": "Regeringen föreslår att certifierade byggprojekteringsföretag i framtiden ska kallas byggbedömare. Sådana företag ska kunna bedöma byggnaders krav genom hela byggprojektet, vilket bedöms kunna göra byggprocesser mer förutsägbara och effektiva.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Proposition: Effektiv och säker byggprocess",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/02/effektiv-och-saker-byggprocess/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1217"
+        ]
+    },
+    {
+        "title": "Ny ambassadör i Cypern",
+        "url": "/pressmeddelanden/2026/03/ny-ambassador-i-cypern/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [],
+        "summary": "Regeringen har i dag utsett Henrik Cederin till ambassadör i Nicosia.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1046"
+        ]
+    },
+    {
+        "title": "Ny ambassadör i Mexiko",
+        "url": "/pressmeddelanden/2026/03/ny-ambassador-i-mexiko/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [],
+        "summary": "Regeringen har i dag utsett Pernilla Josefsson-Lazo till ambassadör i Mexico City.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1127"
+        ]
+    },
+    {
+        "title": "Ny ambassadör i Uganda",
+        "url": "/pressmeddelanden/2026/03/ny-ambassador-i-uganda/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [],
+        "summary": "Regeringen har i dag utsett Anna-Maria Olsson till ambassadör i Kampala.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1197"
+        ]
+    },
+    {
+        "title": "Generaldirektören för Myndigheten för familjerätt och föräldraskapsstöd får förlängt förordnande",
+        "url": "/pressmeddelanden/2026/03/generaldirektoren-for-myndigheten-for-familjeratt-och-foraldraskapsstod-far-forlangt-forordnande/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "1292"
+        ],
+        "summary": "Regeringen har beslutat om en treårig förlängning av Per Berglings förordnande som generaldirektör och chef för Myndigheten för familjerätt och föräldraskapsstöd (MFoF).",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1220",
+            "1230",
+            "1268"
+        ]
+    },
+    {
+        "title": "Regeringen föreslår lättnader i byggkraven vid ändring av en byggnad",
+        "url": "/pressmeddelanden/2026/03/regeringen-foreslar-lattnader-i-byggkraven-vid-andring-av-en-byggnad/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2425"
+        ],
+        "summary": "I propositionen föreslås ändringar i plan- och bygglagen i syfte att förtydliga och förenkla bestämmelserna om ombyggnad och andra ändringar av en byggnad. I lagen föreslås även att begreppet ombyggnad byts ut till ”större byggnadsändringar”, just för att tydliggöra att det handlar om omfattande ändringsåtgärder.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1217"
+        ]
+    },
+    {
+        "title": "Regeringen föreslår betald polisutbildning",
+        "url": "/pressmeddelanden/2026/03/regeringen-foreslar-betald-polisutbildning/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen har beslutat om en lagrådsremiss med förslag som ska möjliggöra en betald polisutbildning. Reformen ska göra polisutbildningen mer attraktiv och öka antalet som fullföljer polisutbildningen och stannar kvar i polisyrket.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Lagrådsremiss: En betald polisutbildning",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/03/en-betald-polisutbildning/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1263",
+            "2690",
+            "2688"
+        ]
+    },
+    {
+        "title": "Finansmarknadsminister Niklas Wykman besöker Täby",
+        "url": "/pressmeddelanden/2026/03/finansmarknadsminister-niklas-wykman-besoker-taby/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2623",
+            "1285"
+        ],
+        "summary": "Fredag den 13 mars besöker finansmarknadsminister Niklas Wykman Täby för att hålla föredrag för skolelever och göra ett verksamhetsbesök.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1231"
+        ]
+    },
+    {
+        "title": "Elbilspremien startar den 18 mars",
+        "url": "/pressmeddelanden/2026/03/elbilspremien-startar-den-18-mars/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2792",
+            "1291"
+        ],
+        "summary": "Den 18 mars öppnar den nya elbilspremien för ansökningar. Premien riktar sig till hushåll med lägre inkomster i landsbygdskommuner och andra områden med dålig tillgång till kollektivtrafik. Stödberättigade hushåll kan få upp till 46 800 kronor under en treårsperiod för att köpa eller leasa en ny eller begagnad elbil.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Naturvårdsverkets pressmeddelande om ansökan till den nya elbilspremien- extern webbplats,",
+                "url": "https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/2026/mars/ansokan-till-nya-elbilspremien-oppnar-18-mars/"
+            },
+            {
+                "name": "Information om elbilspremien på Naturvårdsverkets webbplats- extern webbplats,",
+                "url": "https://www.naturvardsverket.se/bidrag/elbilspremien/"
+            },
+            {
+                "name": "Information om utsläppshandelssystemet ETS 2 på Naturvårdsverkets webbplats- extern webbplats,",
+                "url": "https://www.naturvardsverket.se/vagledning-och-stod/ets2-utslappshandelssystem-for-vagtransporter-byggnader-och-ytterligare-sektorer/"
+            },
+            {
+                "name": "Pressmeddelande: Ny riktad elbilspremie med start i mars",
+                "url": "/pressmeddelanden/2025/12/ny-riktad-elbilspremie-med-start-i-mars/"
+            },
+            {
+                "name": "Pressmeddelande: EU godkänner Sveriges sociala klimatplan",
+                "url": "/pressmeddelanden/2025/12/eu-godkanner-sveriges-sociala-klimatplan/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1252",
+            "1012"
+        ]
+    },
+    {
+        "title": "Äldre- och socialförsäkringsministern besöker Strängnäs",
+        "url": "/pressmeddelanden/2026/03/aldre--och-socialforsakringsministern-besoker-strangnas/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2609",
+            "1292"
+        ],
+        "summary": "Onsdag den 18 mars besöker äldre- och socialförsäkringsminister Anna Tenje Strängnäs.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Trygghet för äldre",
+                "url": "/regeringens-politik/trygghet-for-aldre/"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen lämnar proposition om ett språkkrav inom äldreomsorgen",
+                "url": "/pressmeddelanden/2026/01/regeringen-lamnar-proposition-om-ett-sprakkrav-inom-aldreomsorgen/"
+            },
+            {
+                "name": "Pressmeddelande: Tydligt lagstöd för registerkontroller i äldreomsorgen inför anställning",
+                "url": "/pressmeddelanden/2026/03/tydligt-lagstod-for-registerkontroller-i-aldreomsorgen-infor-anstallning/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2656"
+        ]
+    },
+    {
+        "title": "Socialtjänstministern på evenemang i Stockholm om barns och ungas trygghet",
+        "url": "/pressmeddelanden/2026/03/socialtjanstministern-pa-evenemang-i-stockholm-om-barns-och-ungas-trygghet/",
+        "published": "2026-03-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "1292"
+        ],
+        "summary": "Torsdag den 12 mars deltar socialtjänstminister Camilla Waltersson Grönvall i tre evenemang som på olika sätt lyfter arbetet för att stärka trygghet, förebygga brott och förbättra villkoren för barn och unga.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1220",
+            "1268"
+        ]
+    },
+    {
         "title": "Ny utredning ska stärka statens roll i kärnkraftsutbyggnaden",
         "url": "/pressmeddelanden/2026/03/ny-utredning-ska-starka-statens-roll-i-karnkraftsutbyggnaden/",
         "published": "2026-03-11",
