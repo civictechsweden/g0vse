@@ -1,0 +1,5 @@
+# Åtgärder för att öka transportkapaciteten efter stormen Johannes
+
+I promemorian föreslås att det införs ett tillfälligt undantag från kravet i yrkestrafiklagen (2012:210) på yrkestrafiktillstånd. Undantaget ska gälla för yrkesmässig trafik i Dalarnas, Gävleborgs, Uppsala, Värmlands, Västerbottens, Västernorrlands, Västmanlands och Örebro län med fordon som endast transporterar rundvirke som härrör från skogar som skadats till följd av stormen Johannes i december 2025 i Dalarnas, Gävleborgs, Västerbottens och Västernorrlands län.
+
+Undantaget gäller under förutsätt-ning att den som utför trafiken har ett gemenskapstillstånd från ett annat land inom EES och att de fordon som ska användas för transporterna anmäls till Transportstyrelsen. Förslaget syftar till att tillfälligt underlätta tillgången till transportkapacitet i de aktuella områdena för att möjliggöra att stormfällt virke snabbt kan transporteras ut från skogarna. Undantaget föreslås gälla mellan den 15 april och den 30 september 2026.
