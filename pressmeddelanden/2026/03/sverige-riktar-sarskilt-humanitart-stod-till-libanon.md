@@ -1,0 +1,17 @@
+# Sverige riktar särskilt humanitärt stöd till Libanon
+
+–Den humanitära situationen i Libanon är allvarlig och försämras snabbt i takt med den fortsatta upptrappningen mellan Israel och Hizbollah. Hundratusentals människor befinner sig på flykt från sina hem och är nu i akut behov av tillfälliga nödbostäder, filtar, sjukvård, mat och psykosocialt stöd. Sverige stödjer därför organisationer som kan möta människors grundläggande behov mitt i krisen, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
+
+–Som alltid i krig och vid kriser är det barnen som drabbas hårdast. Sverige skickar nu 65 miljoner kronor till bland annat Röda Korset och FN, till mat, värme, trygga miljöer och sjukvård för familjer på flykt från förödelsen, säger Gudrun Brunegård (KD), biståndspolitisk talesperson.
+
+Den senaste tidens eskalering i Libanon sker i en redan mycket fragil kontext, där humanitära behov sedan länge varit omfattande, människor befunnit sig på flykt från sina hem och den ekonomiska situationen varit extremt skör. Över 800 000 människor har fördrivits inom landet, och civila fortsätter att drabbas hårt. Särskilt utsatta är barn, som påverkas allra hårdast av konfliktens konsekvenser.
+
+Sveriges humanitära stöd till Libanon under 2026 består av 45 miljoner kronor i öronmärkt stöd från Utrikesdepartementet och 20 miljoner kronor från Sida. Stödet fördelas mellan organisationer med väletablerad närvaro i landet och förmåga att nå de mest utsatta, även i svårtillgängliga områden. Stödet innebär att människor som tvingats lämna sina hem kan få tillgång till nödbostäder, filtar, varma måltider och psykosocialt stöd. Det bidrar också till att upprätthålla akut sjukvård och att skapa trygga miljöer där barn kan få fortsätta vara barn, trots att krisen pågår runt dem.
+
+–Den humanitära situationen i Libanon är allvarlig och försämras snabbt i takt med den fortsatta upptrappningen mellan Israel och Hizbollah. Hundratusentals människor befinner sig på flykt från sina hem och är nu i akut behov av tillfälliga nödbostäder, filtar, sjukvård, mat och psykosocialt stöd. Sverige stödjer därför organisationer som kan möta människors grundläggande behov mitt i krisen, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
+
+–Som alltid i krig och vid kriser är det barnen som drabbas hårdast. Sverige skickar nu 65 miljoner kronor till bland annat Röda Korset och FN, till mat, värme, trygga miljöer och sjukvård för familjer på flykt från förödelsen, säger Gudrun Brunegård (KD), biståndspolitisk talesperson.
+
+Den senaste tidens eskalering i Libanon sker i en redan mycket fragil kontext, där humanitära behov sedan länge varit omfattande, människor befunnit sig på flykt från sina hem och den ekonomiska situationen varit extremt skör. Över 800 000 människor har fördrivits inom landet, och civila fortsätter att drabbas hårt. Särskilt utsatta är barn, som påverkas allra hårdast av konfliktens konsekvenser.
+
+Sveriges humanitära stöd till Libanon under 2026 består av 45 miljoner kronor i öronmärkt stöd från Utrikesdepartementet och 20 miljoner kronor från Sida. Stödet fördelas mellan organisationer med väletablerad närvaro i landet och förmåga att nå de mest utsatta, även i svårtillgängliga områden. Stödet innebär att människor som tvingats lämna sina hem kan få tillgång till nödbostäder, filtar, varma måltider och psykosocialt stöd. Det bidrar också till att upprätthålla akut sjukvård och att skapa trygga miljöer där barn kan få fortsätta vara barn, trots att krisen pågår runt dem.
