@@ -1,0 +1,21 @@
+# Anförande av energi- och näringsminister Ebba Busch vid energirådets möte i Bryssel
+
+Anförande av energi- och näringsminister Ebba Busch vid energirådets möte i Bryssel den 16 mars 2026. Talet hölls på engelska, det talade ordet gäller.
+
+Thank you chairman, Damianos, the commission. If you give me three more minutes, I’ll tell you all the things I find great about the great package, but I hope the coffee is strong because I am here on a mission.
+
+I have five points to make today. And the first one is, we have done our homework. Like really. In Swedish you have a saying that is called “duktig flicka”, the good girl. Well, good girl is about to go bad I can tell you today. Because, we have created internal bidding zones. We are the largest per capita net exporter of clean energy and electricity in the EU. And our electricity is almost 100 percent fossil free. And despite these achievements we are now on the losing end. I mean. What signal does that send? That is simply unacceptable.
+
+Secondly, we have always been the EU:s and I would say, the commission's best friend, if I may say so. For decades and across all different government majorities we have been the EU:s main both cheerleader and fan club. All at once. But now I am asking for a favor. I need you to be our friend.
+
+And thirdly, and I have said it before, I am deeply concerned with the current direction of the EU Energy Policy, specifically when it comes to the great package. And I want to emphasize this because I think our situations differ from many others. And this is the reason why although we are alone with our situations, don't leave us alone in this. Thank you for part of that support, Czechia.
+
+Since we are best in class we also collect massive amounts of congestion revenues. This is my assignment today. These revenues arise for three principal reasons. One, we export the most per capita in the EU. This creates enormous flows of electricity. Two, when we export fossil free electricity it increases the power prices in southern Sweden primarily. Three, we are one of only three member states that have introduced national bidding zones. We are still waiting for our dear German friends but I know that is Germany's decision and it is not going to be our decision. This also of course also amplifies the congestion revenues that we have in Sweden.
+
+To put it in numbers. Last year the Swedish TSO collected 3 billion euros in congestional revenues. The vast majority of this, 75 percent, is all collected on internal bottlenecks, not through interconnectors. So I mean, come on! It is simply unacceptable that countries which lead the way are ultimately now heavy penalised for it. I also want to underline that we fear that the central scenario risks being yet another administrative obstacle for TSO:s to overcome. And these are hard red lines for us.
+
+Four. This is why, if the direction does not change, we are going to have to consider and reconsider Sweden's role in the Energy Union. I don't say this lightly. I am a warm, dedicated friend of the EU. But we will then have to investigate all viable national measures to protect Swedish citizens and companies. And this includes a moratorium for new connections to continental Europe and for renewal of existing interconnections. And we are prepared with harsher and further actions apart from that.
+
+Fifthly, we propose a different solution. The scope of how these revenues may be used must be broadened and that decision must be rest solely with the member states and their competent authorities. It is not a matter for EU legislation to determine. Looking forward I propose a new focus. Energy system planning must be as close to the energy consumption as possible and focus on where demand is. A bottom-up approach must be the guiding principle. Equally important is protection and resilience and to address the need for repairs. We have heard many of my colleagues ask for this as well. All member states must take their responsibility to phase out and replace fossil-based electricity production with fossil free. The chaos in the Middle East is once again a reminder of this before our electricity markets can be further integrated.
+
+Thank you.

@@ -2,9 +2,9 @@
 
 Skolan måste tillbaka till grunderna. Det behövs mer ordning i både klassrummet och skolsystemet. Vi behöver återupprätta en trygg och stark kunskapsskola med tydliga förväntningar och fokus på grundläggande kunskaper och färdigheter som att läsa, skriva och räkna. Därför genomför nu regeringen de största reformerna för skolan på 30 år.
 
-I januari 2026 beslutade regeringen om åtta lagrådsremisser med ändringar i skollagen som tillsammans skapar förutsättningar för att höja kunskapsresultaten, förbättra säkerheten, skapa trygghet och studiero i skolan och bidra till att alla barn och elever får en likvärdig utbildning av hög kvalitet – oavsett vilken skola man går i och vilken lärare man har. Regeringen avser att lämna förslagen till riksdagen så att de kan beslutas under våren 2026.
+I januari 2026 beslutade regeringen om åtta lagrådsremisser med ändringar i skollagen som tillsammans skapar förutsättningar för att höja kunskapsresultaten, förbättra säkerheten, skapa trygghet och studiero i skolan och bidra till att alla barn och elever får en likvärdig utbildning av hög kvalitet – oavsett vilken skola man går i och vilken lärare man har. I mars beslutade regeringen om de efterföljande propositionerna och överlämnade förslagen till riksdagen.
 
-Nedan följer en kort sammanfattning av de aktuella lagrådsremisserna. För information om när lagändringarna föreslås träda i kraft samt övergångsbestämmelser, se länk till respektive lagrådsremiss.
+Nedan följer en kort sammanfattning av förslagen. För information om när lagändringarna föreslås träda i kraft samt övergångsbestämmelser, se länk till respektive proposition.
 
 [Nya läroplaner – för en stark kunskapsskola](#laroplaner)
 
@@ -18,7 +18,7 @@ Nedan följer en kort sammanfattning av de aktuella lagrådsremisserna. För inf
 
 [Överlämnande av uppgifter mellan skolor i brottsförebyggande syfte](#uppgifter)
 
-[Offentlighetsprincipen med lättnadsregler för mindre enskilda huvudmän i skolväsendet](#offentlighetsprincipen)
+[Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet](#offentlighetsprincipen)
 
 [Utökade registerkontroller i skolväsendet](#registerkontroller)
 
@@ -36,7 +36,7 @@ Nya läroplaner är ett viktigt steg för att skapa en stark kunskapsskola. Unde
 * Bestämmelser om elevens kunskapsutveckling ändras så att fokus ska vara på tillgodogörande av kunskap och inte uppfyllande av betygskriterier.
 * Sammantagen bedömning ska användas för alla betygssteg, så att läraren kan sätta det betyg som bäst motsvarar elevens kunskaper.
 
-[Lagrådsremiss: Nya läroplaner – för en stark kunskapsskola](/rattsliga-dokument/lagradsremiss/2026/02/nya-laroplaner--for-en-stark-kunskapsskola/ "Lagrådsremiss: Nya läroplaner – för en stark kunskapsskola")
+[Prop. 2025/26:194 Nya läroplaner – för en stark kunskapsskola](/rattsliga-dokument/proposition/2026/03/prop.-202526194)
 
 ## Ett likvärdigt betygssystem
 
@@ -55,7 +55,7 @@ För att öka likvärdigheten och motverka glädjebetyg och betygsinflation ska 
 * Meritvärde ska ersätta betyg som urvalsgrund vid ansökan till högskolan.
 * Den första elevkullen som kommer att ha meritvärde beräknat enligt den nya modellen går ut gymnasieskolan 2031.
 
-[Lagrådsremiss: Ett likvärdigt betygssystem](/rattsliga-dokument/lagradsremiss/2026/02/ett-likvardigt-betygssystem/ "Lagrådsremiss: Ett likvärdigt betygssystem")
+[Prop. 2025/26:197 Ett likvärdigt betygssystem](/rattsliga-dokument/proposition/2026/03/prop.-202526197)
 
 ## Tid för undervisningsuppdraget
 
@@ -71,7 +71,7 @@ Reglerad tid för undervisningsuppdraget kommer att ge lärare bättre förutsä
 * De skriftliga planerna ska fokusera på elevernas kunskapsutveckling. De ska till exempel inte innehålla omdömen om elevers sociala utveckling.
 * Det blir ett tydligare ansvar för skolpersonalen att aktivt uppmärksamma och motverka alla former av kränkande behandling, trakasserier och sexuella trakasserier. Samtidigt görs ändringar av anmälningskravet som innebär minskad administration vid kränkande behandling.
 
-[Lagrådsremiss: Tid för undervisningsuppdraget](/rattsliga-dokument/lagradsremiss/2026/02/tid-for-undervisningsuppdraget/ "Lagrådsremiss: Tid för undervisningsuppdraget")
+[Prop. 2025/26:196 Tid för undervisningsuppdraget](/rattsliga-dokument/proposition/2026/03/prop.-202526196)
 
 ## Förbättrat stöd i skolan
 
@@ -85,7 +85,7 @@ Det är viktigt att tidigt identifiera de elever som behöver stödinsatser. Dag
 * Utredning av en elevs behov av särskilt stöd ska inledas tidigare än i dag.
 * Det ska bli enklare att ge särskilt stöd i en mindre undervisningsgrupp eller som enskild undervisning.
 
-[Lagrådsremiss: Förbättrat stöd i skolan](/rattsliga-dokument/lagradsremiss/2026/01/forbattrat-stod-i-skolan/ "Lagrådsremiss: Förbättrat stöd i skolan")
+[Prop. 2025/26:195 Förbättrat stöd i skolan](/rattsliga-dokument/proposition/2026/03/prop.-202526195)
 
 ## Bättre förutsättningar för trygghet och studiero i skolan
 
@@ -102,7 +102,7 @@ Det behövs en kulturförflyttning i skolan. Skolan måste kunna agera kraftfull
 * Undervisning i akutskola ska kunna överlämnas på entreprenad.
 * Om det behövs av säkerhetsskäl ska en elev i högstadiet och gymnasieskolan kunna nekas tillträde till skolan och i stället ges fjärr- eller distansundervisning.
 
-[Lagrådsremiss: Bättre förutsättningar för trygghet och studiero i skolan](/rattsliga-dokument/lagradsremiss/2026/01/battre-forutsattningar-for-trygghet-och-studiero-i-skolan/ "Lagrådsremiss: Bättre förutsättningar för trygghet och studiero i skolan")
+[Prop. 2025/26:193 Bättre förutsättningar för trygghet och studiero i skolan](/rattsliga-dokument/proposition/2026/03/prop.-202526193)
 
 ## Överlämnande av uppgifter mellan skolor i brottsförebyggande syfte
 
@@ -114,9 +114,9 @@ För att säkra tryggheten och kunna arbeta brottsförebyggande är det viktigt 
 * Om en elev byter skola och det på grund av konkreta omständigheter finns risk för att eleven kommer begå eller utsättas för brott, ska den överlämnande skolenheten lämna uppgifter som den mottagande skolenheten behöver för att förebygga eller förhindra detta.
 * Skolenheter inom fler skolformer än i dag blir skyldiga att informera om att de har tagit emot en elev vid ett skolbyte.
 
-[Lagrådsremiss: Överlämnande av uppgifter mellan skolor i brottsförebyggande syfte](/rattsliga-dokument/lagradsremiss/2026/01/overlamnande-av-uppgifter-mellan-skolor-i-brottsforebyggande-syfte/ "Överlämnande av uppgifter mellan skolor i brottsförebyggande syfte")
+[Prop. 2025/26:192 Överlämnande av uppgifter mellan skolor i brottsförebyggande syfte](/rattsliga-dokument/proposition/2026/03/prop.-202526192)
 
-## Offentlighetsprincipen med lättnadsregler för mindre enskilda huvudmän i skolväsendet
+## Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet
 
 Att bedriva utbildning inom skolväsendet i Sverige är en offentlig förvaltningsuppgift och den som gör det måste förvalta samhällets förtroende för det uppdraget. I dag finns det flera inbyggda problem i friskolesystemet. Det handlar bland annat om skolor som satt i system att anställa obehöriga lärare och som har stora problem med glädjebetyg. Det finns även exempel där skolpengen använts till verksamhet som inte har med utbildning att göra.
 
@@ -129,7 +129,7 @@ Sverige behöver ett friskolesystem med betydligt striktare regler. Vi behöver 
 * Alla huvudmän för fristående skolor ska omfattas av offentlighetsprincipen, men mindre huvudmän kommer att få tillämpa lättnadsregler. De ska fortfarande lämna ut allmänna handlingar men det kommer att finnas en viss flexibilitet i relation till kraven, till exempel kan de få lite extra tid på sig.
 * En huvudman ska räknas som mindre om huvudmannen eller koncernen har sammanlagt högst 450 elever (för skola, förskola, fritidshem) eller högst 100 barn (bara förskola).
 
-[Lagrådsremiss: Offentlighetsprincipen med lättnadsregler för mindre enskilda huvudmän i skolväsendet](/rattsliga-dokument/lagradsremiss/2026/01/offentlighetsprincipen-med-lattnadsregler-for-mindre-enskilda-huvudman-i-skolvasendet/ "Lagrådsremiss: Offentlighetsprincipen med lättnadsregler för mindre enskilda huvudmän i skolväsendet&nbsp;")
+[Prop. 2025/26:191 Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet](/rattsliga-dokument/proposition/2026/03/prop.-202526191)
 
 ## Utökade registerkontroller i skolväsendet
 
@@ -144,4 +144,4 @@ Förskolan och skolan ska vara trygga platser. Barn och elever ska skyddas mot v
 * Regeringen bedömer att fler brott än i dag bör omfattas av registerkontrollen.
 * En kontroll i misstankeregistret bör få ske vid ägar- och ledningsprövningar.
 
-[Lagrådsremiss: Utökade registerkontroller i skolväsendet](/rattsliga-dokument/lagradsremiss/2026/01/utokade-registerkontroller-i-skolvasendet/ "Lagrådsremiss: Utökade registerkontroller i skolväsendet")
+[Prop. 2025/26:174 Utökade registerkontroller i skolväsendet](/rattsliga-dokument/proposition/2026/03/prop.-202526174)

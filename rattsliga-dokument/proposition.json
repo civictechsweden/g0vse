@@ -1,5 +1,826 @@
 [
     {
+        "title": "Aktivitetskrav för mottagare av försörjningsstöd",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526207",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Det behövs en bidragsreform för att bryta bidragsberoendet och minska utanförskapet. I denna proposition lämnas lagförslag om ett aktivitetskrav som villkor för rätt till försörjningsstöd. Syftet är att motverka utanförskap, införa ett enhetligt reglerat aktivitetskrav och bidra till att ta tillvara arbetskraft. Aktivitetskravet föreslås komplettera andra insatser som deltagande i statlig arbetsmarknadspolitisk verksamhet och utbildningsinsatser.",
+        "id": "Prop. 2025/26:207",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringens stora bidragsreform – förslag om bidragstak och aktivitetskrav",
+                "url": "/pressmeddelanden/2026/03/regeringens-stora-bidragsreform--forslag-om-bidragstak-och-aktivitetskrav/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Aktivitetskrav för mottagare av försörjningsstöd, Prop. 2025/26:207 (pdf 969 kB)",
+                "url": "/contentassets/46146dbc7beb452584f2415589f5f03f/aktivitetskrav-for-mottagare-av-forsorjningsstod-prop.-202526207.pdf"
+            }
+        ],
+        "categories": [
+            "1213",
+            "1269",
+            "1268"
+        ]
+    },
+    {
+        "title": "Reformerat försörjningsstöd – bidragstak och ökade möjligheter till arbete",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526201",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Det behövs en bidragsreform för att bryta bidragsberoendet och minska utanförskapet. I  denna proposition lämnas lagförslag om ett bidragstak som syftar till att öka det ekonomiska utbytet av att gå från försörjningsstöd till arbete.",
+        "id": "Prop. 2025/26:201",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringens stora bidragsreform – förslag om bidragstak och aktivitetskrav",
+                "url": "/pressmeddelanden/2026/03/regeringens-stora-bidragsreform--forslag-om-bidragstak-och-aktivitetskrav/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Reformerat försörjningsstöd – bidragstak och ökade möjligheter till arbete, Prop. 2025/26:201 (pdf 1 MB)",
+                "url": "/contentassets/b23f4648612c4d29b2b19ba0e777f81d/reformerat-forsorjningsstod--bidragstak-och-okade-mojligheter-till-arbete-prop.-202526201.pdf"
+            }
+        ],
+        "categories": [
+            "1213",
+            "1269",
+            "1268"
+        ]
+    },
+    {
+        "title": "Lag om hyrköp av bostad",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526188",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "Regeringen föreslår en lag om hyrköp av bostad.",
+        "id": "Prop. 2025/26:188",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Hyrköp kan ge fler personer möjlighet att äga sitt boende",
+                "url": "/pressmeddelanden/2026/03/hyrkop-kan-ge-fler-personer-mojlighet-att-aga-sitt-boende/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Lag om hyrköp av bostad, Prop. 2025/26:188 (pdf 1 MB)",
+                "url": "/contentassets/8c4c1143e44d4c73ad0ad739295b8f52/lag-om-hyrkop-av-bostad-prop.-202526188.pdf"
+            }
+        ],
+        "categories": [
+            "1217"
+        ]
+    },
+    {
+        "title": "Utökade möjligheter att ingripa i säkerhetskänslig verksamhet",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526182",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "Mot bakgrund av det försämrade säkerhetspolitiska läget är det angeläget att de som bedriver tillsyn över säkerhetskänslig verksamhet har effektiva verktyg för att kunna ingripa mot förfaranden som innebär risker för Sveriges säkerhet.",
+        "id": "Prop. 2025/26:182",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Stärkta möjligheter att agera när avtal och samarbeten hotar Sveriges säkerhet",
+                "url": "/pressmeddelanden/2026/03/starkta-mojligheter-att-agera-nar-avtal-och-samarbeten-hotar-sveriges-sakerhet/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Utökade möjligheter att ingripa i säkerhetskänslig verksamhet, Prop. 2025/26:182 (pdf 754 kB)",
+                "url": "/contentassets/47b40ceb72ef4a03b6eb7ddfb6608ae7/utokade-mojligheter-att-ingripa-i-sakerhetskanslig-verksamhet-prop.-202526182.pdf"
+            }
+        ],
+        "categories": [
+            "1279",
+            "2675"
+        ]
+    },
+    {
+        "title": "Bättre förutsättningar att sända ut statlig personal",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526204",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1295"
+        ],
+        "summary": "I propositionen föreslås förbättringar av förutsättningarna att sända ut\npersonal inom två områden.",
+        "id": "Prop. 2025/26:204",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Bättre förutsättningar att sända ut statlig personal, Prop. 2025/26:204 (pdf 438 kB)",
+                "url": "/contentassets/edf8cef75e0a4c72a2526932460cebe5/battre-forutsattningar-att-sanda-ut-statlig-personal-prop.-202526204.pdf"
+            }
+        ],
+        "categories": []
+    },
+    {
+        "title": "Hela Sverige ska fungera",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526158",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "2425",
+            "1296"
+        ],
+        "summary": "Politik för starkare landsbygder",
+        "id": "Prop. 2025/26:158",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Proposition med politik för starkare landsbygder",
+                "url": "/pressmeddelanden/2026/03/proposition-med-politik-for-starkare-landsbygder/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Hela Sverige ska fungera, Prop. 2025/26:158 (pdf 2 MB)",
+                "url": "/contentassets/66f0c3c8591547e4ab3d20e15931003f/hela-sverige-ska-fungera-prop.-2025_26_158.pdf"
+            }
+        ],
+        "categories": [
+            "1217",
+            "2092",
+            "1243",
+            "1262"
+        ]
+    },
+    {
+        "title": "Privatkopieringsersättning",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526184",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "Upphovsmän och andra rättighetshavare har rätt till rimlig kompensation för privatkopiering av deras skyddade verk och prestationer. I Sverige, och de flesta andra EU-länder, betalas ersättningen av de företag som tillverkar eller för in elektronikprodukter som kan användas för privatkopiering.",
+        "id": "Prop. 2025/26:184",
+        "shortcuts": [
+            {
+                "name": "Tilläggsdirektiv till Utredningen om privatkopieringsersättning (Ju 2020:18)",
+                "url": "/rattsliga-dokument/kommittedirektiv/2021/12/dir.-2021117"
+            },
+            {
+                "name": "Ersättning till rättighetshavare vid privatkopiering",
+                "url": "/rattsliga-dokument/kommittedirektiv/2020/08/dir.-202082"
+            },
+            {
+                "name": "Privatkopieringsersättning (utkast till lagrådsremiss)",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/08/privatkopieringsersattning-utkast-till-lagradsremiss/"
+            },
+            {
+                "name": "Privatkopieringsersättningen i framtiden",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2022/04/sou-202220/"
+            },
+            {
+                "name": "Remiss av SOU 2022:20 Privat­kopierings­ersätt­ningen i framtiden",
+                "url": "/remisser/2022/05/remiss-av-sou-202220-privatkopieringsersattningen-i-framtiden/"
+            },
+            {
+                "name": "Remiss av Ändrade ersättningsregler för privatkopiering",
+                "url": "/remisser/2025/02/remiss-av-andrade-ersattningsregler-for-privatkopiering/"
+            },
+            {
+                "name": "Remiss av Privatkopieringsersättning (utkast till lagrådsremiss)",
+                "url": "/remisser/2025/08/remiss-av-privatkopieringsersattning-utkast-till-lagradsremiss-/"
+            },
+            {
+                "name": "Privatkopieringsersättning",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/02/privatkopieringsersattning/"
+            },
+            {
+                "name": "Ersättning till radio- och tv-företag vid privatkopiering",
+                "url": "/rattsliga-dokument/lagradsremiss/2025/02/ersattning-till-radio--och-tv-foretag-vid-privatkopiering/"
+            },
+            {
+                "name": "Ersättning till radio- och tv-företag vid privatkopiering",
+                "url": "/rattsliga-dokument/proposition/2025/03/prop.-202425137"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Privatkopieringsersättning, Prop. 2025/26:184 (pdf 1 MB)",
+                "url": "/contentassets/a44a713978764d7ea0ceecb5d15a13b6/privatkopieringsersattning-prop.-202526184.pdf"
+            }
+        ],
+        "categories": [
+            "1238",
+            "2282",
+            "1257"
+        ]
+    },
+    {
+        "title": "Nya verktyg för stärkt konkurrens i privat och offentlig verksamhet",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop-202526203/",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1291",
+            "1296"
+        ],
+        "summary": "I propositionen föreslår regeringen ändringar som syftar till att förbättra\nkonkurrensen i offentlig och privat verksamhet. En välfungerande\nkonkurrens är en viktig förutsättning för att skapa produktivitet, ökad\ntillväxt, ekonomiskt välstånd och konkurrenskraft.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Nya verktyg för stärkt konkurrens i privat och offentlig verksamhet, Prop. 2025/26:203 (pdf 1 MB)",
+                "url": "/contentassets/bdac8e06b82c4be38b3492ba60b7e21d/20250620300webb.pdf"
+            }
+        ],
+        "categories": [
+            "1257"
+        ]
+    },
+    {
+        "title": "Tid för undervisningsuppdraget",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526196",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1294"
+        ],
+        "summary": "Propositionen innehåller förslag till ändringar i skollagen (2010:800) som syftar till att skapa bättre förutsättningar för lärare och förskollärare att utföra sitt undervisningsuppdrag och öka lärar- och förskolläraryrkets attraktivitet.",
+        "id": "Prop. 2025/26:196",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Tid för undervisningsuppdraget, Prop. 2025/26:196 (pdf 3 MB)",
+                "url": "/contentassets/7bfa7c951ef54678981bfdb82f028b93/tid-for-undervisningsuppdraget-prop.-202526196.pdf"
+            }
+        ],
+        "categories": [
+            "1276"
+        ]
+    },
+    {
+        "title": "Förbättrat stöd i skolan",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526195",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1294"
+        ],
+        "summary": "Propositionen innehåller förslag till ändringar i skollagen (2010:800) som syftar till att förbättra stödet i skolan.",
+        "id": "Prop. 2025/26:195",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Förbättrat stöd i skolan, Prop. 2025/26:195 (pdf 1 MB)",
+                "url": "/contentassets/90deb85eeb924ac4a4b5ef087529f68a/forbattrat-stod-i-skolan-prop.-202526195.pdf"
+            }
+        ],
+        "categories": [
+            "1276",
+            "1278"
+        ]
+    },
+    {
+        "title": "Nya läroplaner – för en stark kunskapsskola",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526194",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1294"
+        ],
+        "summary": "Propositionen innehåller förslag om ändringar i skollagen (2010:800) som syftar till en stark kunskapsskola med kunskapsuppdraget i fokus. Det lämnas också förslag om hur läroplanerna för de olika skolformerna ska göras om i samma syfte.",
+        "id": "Prop. 2025/26:194",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Nya läroplaner – för en stark kunskapsskola, Prop. 2025/26:194 (pdf 8 MB)",
+                "url": "/contentassets/42c1e2e4596b4f8682e3d8283b91a138/nya-laroplaner--for-en-stark-kunskapsskola-prop.-202526194.pdf"
+            }
+        ],
+        "categories": [
+            "1276",
+            "1278"
+        ]
+    },
+    {
+        "title": "Bättre förutsättningar för yrkesutbildning",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526198",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1294"
+        ],
+        "summary": "Propositionen innehåller förslag till ändringar i skollagen (2010:800) som bland annat syftar till att stärka samarbetet mellan skola och arbetsliv och förbättra kompetensförsörjningen.",
+        "id": "Prop. 2025/26:198",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Förslag om yrkesprov i gymnasial utbildning överlämnas till riksdagen",
+                "url": "/pressmeddelanden/2026/03/forslag-om-yrkesprov-i-gymnasial-utbildning-overlamnas-till-riksdagen/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Bättre förutsättningar för yrkesutbildning, Prop. 2025/26:198 (pdf 1 MB)",
+                "url": "/contentassets/b8374cc61a2f44ef8d65696d69715f20/battre-forutsattningar-for-yrkesutbildning-prop.-202526198.pdf"
+            }
+        ],
+        "categories": [
+            "1276",
+            "1278"
+        ]
+    },
+    {
+        "title": "Ett likvärdigt betygssystem",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526197",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1294"
+        ],
+        "summary": "Propositionen innehåller förslag till ändringar i skollagen (2010:800) som innebär att ett nytt mer likvärdigt betygssystem och en ny modell för att beräkna meritvärde införs. Syftet är att mer rättvisande spegla elevers ämneskunskaper och motverka betygsinflation.",
+        "id": "Prop. 2025/26:197",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Ett likvärdigt betygssystem, Prop. 2025/26:197 (pdf 2 MB)",
+                "url": "/contentassets/a37af6932a5f4cf794499eb68a798d63/ett-likvardigt-betygssystem-prop.-202526197.pdf"
+            }
+        ],
+        "categories": [
+            "1276"
+        ]
+    },
+    {
+        "title": "Bättre förutsättningar för trygghet och studiero i skolan",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526193",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1294"
+        ],
+        "summary": "Propositionen innehåller förslag till ändringar i skollagen (2010:800) som syftar till att åstadkomma bättre förutsättningar för trygghet och studiero i skolan genom flera samverkande åtgärder.",
+        "id": "Prop. 2025/26:193",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Bättre förutsättningar för trygghet och studiero i skolan, Prop. 2025/26:193 (pdf 4 MB)",
+                "url": "/contentassets/7edd1011af6944eda73e62aea7897f04/battre-forutsattningar-for-trygghet-och-studiero-i-skolan-prop.-202526193.pdf"
+            }
+        ],
+        "categories": [
+            "1276"
+        ]
+    },
+    {
+        "title": "Bättre förutsättningar för digitala kommunala sammanträden och förbättrad kontroll och uppföljning av privata utförare i kommuner och regioner",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526164",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "I denna proposition föreslår regeringen att kommunallagens (2017:725) bestämmelser om deltagande på distans i fullmäktige- och nämndsammanträden ska ändras.",
+        "id": "Prop. 2025/26:164",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Modernare arbetssätt och bättre uppföljning i kommuner och regioner",
+                "url": "/pressmeddelanden/2026/03/modernare-arbetssatt-och-battre-uppfoljning-i-kommuner-och-regioner/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Bättre förutsättningar för digitala kommunala sammanträden och förbättrad kontroll och uppföljning av privata utförare i kommuner och regioner, prop. 2025/26:164 (pdf 468 kB)",
+                "url": "/contentassets/d5b6a027cb924066ac54e46f04e2c153/battre-forutsattningar-for-digitala-kommunala-sammantraden-och-forbattrad-kontroll-och-uppfoljning-av-privata-utforare-i-kommuner-och-regioner-prop.-202526164.pdf"
+            }
+        ],
+        "categories": [
+            "1238",
+            "2092"
+        ]
+    },
+    {
+        "title": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526191",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1294"
+        ],
+        "summary": "Propositionen innehåller förslag till ändringar i offentlighets- och sekretesslagen (2009:400), arkivlagen (1990:782) och skollagen (2010:800), som innebär att offentlighetsprincipen införs hos enskilda huvudmän i skolväsendet.",
+        "id": "Prop. 2025/26:191",
+        "shortcuts": [
+            {
+                "name": "Tilläggsdirektiv till Skolinformationsutredningen (U 2021:04)",
+                "url": "/rattsliga-dokument/kommittedirektiv/2023/03/dir.-202334"
+            },
+            {
+                "name": "Tilläggsdirektiv till Skolinformationsutredningen (U 2021:04)",
+                "url": "/rattsliga-dokument/kommittedirektiv/2023/02/dir.-202323"
+            },
+            {
+                "name": "Tilläggsdirektiv till Skolinformationsutredningen (U 2021:04)",
+                "url": "/rattsliga-dokument/kommittedirektiv/2022/03/dir.-202210"
+            },
+            {
+                "name": "En långsiktig lösning för informationsförsörjningen på skolområdet",
+                "url": "/rattsliga-dokument/kommittedirektiv/2021/10/dir.-202189"
+            },
+            {
+                "name": "Offentlighetsprincipen med lättnadsregler för mindre enskilda huvudmän i skolväsendet",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2024/08/promemoria-offentlighetsprincipen-med-lattnadsregler-for-mindre-enskilda-huvudman-i-skolvasendet/"
+            },
+            {
+                "name": "Offentlighetsprincipen eller insynslag",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2024/04/sou-202428/"
+            },
+            {
+                "name": "Informationsförsörjning på skolområdet",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2023/05/sou-202321/"
+            },
+            {
+                "name": "Remiss av SOU 2023:21 Informationsförsörjning på skolområdet Skolverkets ansvar",
+                "url": "/remisser/2023/06/remiss-sou-202321/"
+            },
+            {
+                "name": "Offentlighetsprincipen med lättnadsregler för mindre enskilda huvudmän i skolväsendet",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/01/offentlighetsprincipen-med-lattnadsregler-for-mindre-enskilda-huvudman-i-skolvasendet/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet, Prop. 2025/26:191 (pdf 2 MB)",
+                "url": "/contentassets/e8d51aa775fe420da09588b07c8eaae6/offentlighetsprincipen-med-lattnadsregler-for-enskilda-mindre-huvudman-i-skolvasendet-prop.-202526191.pdf"
+            }
+        ],
+        "categories": [
+            "1276"
+        ]
+    },
+    {
+        "title": "Överlämnande av uppgifter mellan skolor i brottsförebyggande syfte",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526192",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1294"
+        ],
+        "summary": "Propositionen innehåller förslag till ändringar i skollagen (2010:800) som syftar till att elever, lärare, rektorer och annan skolpersonal ska ha en säker och trygg utbildnings- och arbetsmiljö. Förslaget syftar också till att elever ska få adekvata stödinsatser.",
+        "id": "Prop. 2025/26:192",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Överlämnande av uppgifter mellan skolor i brottsförebyggande syfte, Prop. 2025/26:192 (pdf 1 MB)",
+                "url": "/contentassets/eed5b96121a04d698db16c6102b20380/overlamnande-av-uppgifter-mellan-skolor-i-brottsforebyggande-syfte-prop.-202526192.pdf"
+            }
+        ],
+        "categories": [
+            "1276",
+            "1278"
+        ]
+    },
+    {
+        "title": "En nationell utredningsfunktion för att förebygga suicid",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526190",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Regeringen föreslår en ny lag om utredningar för att förebygga suicid. En nationell utredningsfunktion behövs för att förbättra samhällets lärande om suicid.",
+        "id": "Prop. 2025/26:190",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen stärker det förebyggande arbetet mot suicid genom utredningar",
+                "url": "/pressmeddelanden/2026/03/regeringen-starker-det-forebyggande-arbetet-mot-suicid-genom-utredningar/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "En nationell utredningsfunktion för att förebygga suicid, Prop. 2025/26:190 (pdf 861 kB)",
+                "url": "/contentassets/79554dccd1674bfaa3fe47af0abef7ae/prop-2025-26-190.pdf"
+            }
+        ],
+        "categories": [
+            "2747"
+        ]
+    },
+    {
+        "title": "Förenklade regler vid ändring av en byggnad",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526180",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "2425",
+            "1296"
+        ],
+        "summary": "I propositionen föreslås ändringar i plan- och bygglagen (2010:900) i syfte att förtydliga och förenkla bestämmelserna om ombyggnad och andra ändringar av en byggnad.",
+        "id": "Prop. 2025/26:180",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen föreslår lättnader i byggkraven vid ändring av en byggnad",
+                "url": "/pressmeddelanden/2026/03/regeringen-foreslar-lattnader-i-byggkraven-vid-andring-av-en-byggnad/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Förenklade regler vid ändring av en byggnad, prop.2025/26:180 (pdf 913 kB)",
+                "url": "/contentassets/31a7f4d355c045809a6e018d52f8cbdc/proposition202526180.pdf"
+            }
+        ],
+        "categories": [
+            "1217"
+        ]
+    },
+    {
+        "title": "Verksamheten inom Nato under helåret 2025",
+        "url": "/rattsliga-dokument/proposition/2026/03/skr.-202526151",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1324",
+            "1330"
+        ],
+        "senders": [
+            "1296",
+            "1295"
+        ],
+        "summary": "I skrivelsen redogör regeringen för verksamheten inom Nordatlantiska\nfördragsorganisationen (Nato) under 2025.",
+        "id": "Skr. 2025/26:151",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Verksamheten inom Nato under helåret 2025, Skr. 2025/26:151 (pdf 356 kB)",
+                "url": "/contentassets/fe9c02523c5644bf981ab9cbe9110c26/verksamheten-inom-nato-under-helaret-2025-skr.-202526151"
+            }
+        ],
+        "categories": [
+            "1279",
+            "2593",
+            "1013"
+        ]
+    },
+    {
+        "title": "Förenklad leverantörskontroll vid upphandling",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526177",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "I propositionen föreslås att det inrättas ett system för samordnad registerkontroll som ska tillämpas vid upphandling och användning av valfrihetssystem.",
+        "id": "Prop. 2025/26:177",
+        "shortcuts": [
+            {
+                "name": "Effektiv och tillförlitlig kontroll av leverantörer vid tilldelning av offentliga kontrakt",
+                "url": "/rattsliga-dokument/kommittedirektiv/2022/06/dir.-202250"
+            },
+            {
+                "name": "En samordnad registerkontroll för upphandlande myndigheter och enheter",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2023/08/sou-202343/"
+            },
+            {
+                "name": "Remissinstanser för SOU 2023:43 En samordnad registerkontroll för upphandlande myndigheter och enheter",
+                "url": "/remisser/2023/09/remiss-av-sou-202343-en-samordnad-registerkontroll-for-upphandlande-myndigheter-och-enheter/"
+            },
+            {
+                "name": "Förenklad leverantörskontroll vid upphandling",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/02/forenklad-leverantorskontroll-vid-upphandling2/"
+            },
+            {
+                "name": "Pressmeddelande: Modernare arbetssätt och bättre uppföljning i kommuner och regioner",
+                "url": "/pressmeddelanden/2026/03/modernare-arbetssatt-och-battre-uppfoljning-i-kommuner-och-regioner/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Förenklad leverantörskontroll vid upphandling, Prop. 2025/26:177 (pdf 1 MB)",
+                "url": "/contentassets/a5f8b8a6e5bd4d74b107bb65a0c1dfde/forenklad-leverantorskontroll-vid-upphandling-prop.-202526177.pdf"
+            }
+        ],
+        "categories": [
+            "2092",
+            "2194",
+            "1260"
+        ]
+    },
+    {
+        "title": "Sänkt alkoholskatt för alkoholvaror från oberoende småproducenter",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526183",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "Den 1 juli 2025 infördes svenska regler om nedsatt skatt för öl från oberoende småbryggerier. I propositionen föreslås nedsatt alkoholskatt för andra alkoholvaror från oberoende småproducenter, under vissa förutsättningar.",
+        "id": "Prop. 2025/26:183",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Förslag om sänkt skatt på alkoholdrycker från oberoende småproducenter till riksdagen",
+                "url": "/pressmeddelanden/2026/03/forslag-om-sankt-skatt-pa-alkoholdrycker-fran-oberoende-smaproducenter-till-riksdagen/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Sänkt alkoholskatt för alkoholvaror från oberoende småproducenter, prop. 2025/26:183 (pdf 827 kB)",
+                "url": "/contentassets/daa6d465c2dd494c89be6def049e05bd/sankt-alkoholskatt-for-alkoholvaror-fran-oberoende-smaproducenter-prop.-202526183.pdf"
+            }
+        ],
+        "categories": [
+            "1257",
+            "1267",
+            "2688",
+            "2689"
+        ]
+    },
+    {
+        "title": "Ändrade regler om tillstånd och tillsyn för Totalförsvarets forskningsinstitut",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526178",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1286",
+            "1296"
+        ],
+        "summary": "I propositionen föreslås att Totalförsvarets forskningsinstitut ska omfattas av samma reglering som Försvarsmakten, Fortifikationsverket, Försvarets materielverk och Försvarets radioanstalt dels i fråga om tillstånd och tillsyn inom miljö- och hälsoskyddsområdet, dels i fråga om tillsyn på strålskyddsområdet och livsmedelsområdet.",
+        "id": "Prop. 2025/26:178",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Ändrade regler om tillstånd och tillsyn för Totalförsvarets forskningsinstitut (pdf 576 kB)",
+                "url": "/contentassets/22b77d724383418183534ea9f6a27654/252617800webb.pdf"
+            }
+        ],
+        "categories": [
+            "2248",
+            "2247"
+        ]
+    },
+    {
+        "title": "Signalspaning i försvarsunderrättelseverksamhet – en modern och ändamålsenlig lagstiftning",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526179",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1286",
+            "1296"
+        ],
+        "summary": "I propositionen föreslås en ny lag om signalspaning i försvarsunderrättelseverksamhet i krig eller krigsfara.",
+        "id": "Prop. 2025/26:179",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Signalspaning i försvarsunderrättelseverksamhet – en modern och ändamålsenlig lagstiftning (pdf 1 MB)",
+                "url": "/contentassets/fc176e89072742c4a0f7117863087b46/252617900webb.pdf"
+            }
+        ],
+        "categories": [
+            "2247"
+        ]
+    },
+    {
+        "title": "Nya regler för att främja central clearing av OTC-derivat i EU",
+        "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526200",
+        "published": "2026-03-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "I propositionen föreslås de lagstiftningsåtgärder som behöver göras på grund av ändringar i EU:s förordning om OTC-derivat, centrala motparter och transaktionsregister och EU:s direktiv om värdepappersfonder. OTC-derivat är derivatkontrakt som handlas bilateralt mellan köpare och säljare vid sidan av reglerade marknader (Over-The-Counter). En central motpart är en aktör i den finansiella infrastrukturen som träder emellan parterna i en finansiell transaktion.",
+        "id": "Prop. 2025/26:200",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Nya regler för att främja central clearing av OTC-derivat i EU, prop. 2025/26:200 (pdf 2 MB)",
+                "url": "/contentassets/90237185054f4e81b7b917d4937bff29/nya-regler-for-att-framja-central-clearing-av-otc-derivat-i-eu-prop.-202526200.pdf"
+            }
+        ],
+        "categories": [
+            "1231",
+            "1012"
+        ]
+    },
+    {
         "title": "Skärpta krav för svenskt medborgarskap",
         "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526175",
         "published": "2026-03-13",
