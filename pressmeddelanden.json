@@ -1,5 +1,491 @@
 [
     {
+        "title": "Statsministern deltar i JEF-toppmöte i Helsingfors",
+        "url": "/pressmeddelanden/2026/03/statsministern-deltar-i-jef-toppmote-i-helsingfors/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2605",
+            "1293"
+        ],
+        "summary": "Torsdag den 26 mars deltar statsminister Ulf Kristersson i ett toppmöte i Helsingfors inom ramen för det regionala försvarssamarbetet Joint Expeditionary Force (JEF).",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Mer om toppmötet i Helsingfors- extern webbplats,",
+                "url": "https://www.presidentti.fi/sv/republikens-president-star-vard-for-jef-landernas-toppmote-pa-presidentens-slott/"
+            },
+            {
+                "name": "Mer om JEF- extern webbplats,",
+                "url": "https://jefnations.org/about-the-jef/"
+            },
+            {
+                "name": "Ackrediteringslänk för media (senast 20 mars kl. 12.00 finsk tid)- extern webbplats,",
+                "url": "https://www.lyyti.fi/reg/JEF_Helsinki_26March"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2247",
+            "1279",
+            "2584",
+            "2695",
+            "1062"
+        ]
+    },
+    {
+        "title": "Utökat deltagande i förmågekoalition till stöd för Ukraina",
+        "url": "/pressmeddelanden/2026/03/utokat-deltagande-i-formagekoalition-till-stod-for-ukraina/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2627",
+            "1286"
+        ],
+        "summary": "Regeringen ger Försvarsmakten, Försvarets materielverk (FMV) och Totalförsvarets forskningsinstitut (FOI) i uppdrag att utöka sitt deltagande i förmågekoalitionen för telekrigföring till stöd för Ukraina. Myndigheterna ska bland annat driva och utveckla arbete inom förmågekoalitionen.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Information: Förmågekoalitioner till stöd för Ukraina",
+                "url": "/regeringens-politik/sveriges-stod-till-ukraina/militart-stod-till-ukraina/formagekoalitioner/"
+            },
+            {
+                "name": "Information: Militärt stöd till Ukraina",
+                "url": "/regeringens-politik/sveriges-stod-till-ukraina/militart-stod-till-ukraina/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2247",
+            "2584"
+        ]
+    },
+    {
+        "title": "Företag ska kunna få stöd för energiberedskapsåtgärder",
+        "url": "/pressmeddelanden/2026/03/foretag-ska-kunna-fa-stod-for-energiberedskapsatgarder/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "1291"
+        ],
+        "summary": "Regeringen har beslutat om en ny stödförordning som gör det möjligt att betala ut statligt stöd för energiberedskapsåtgärder till företag. Syftet är att stärka att verksamheter som är kritiska för Sveriges energiförsörjning ska kunna upprätthålla sina funktioner även vid fredstida kriser eller vid höjd beredskap.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1226",
+            "1257"
+        ]
+    },
+    {
+        "title": "Regeringen tillsätter utredning om moms på parkeringsplatser",
+        "url": "/pressmeddelanden/2026/03/regeringen-tillsatter-utredning-om-moms-pa-parkeringsplatser/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2613",
+            "1285"
+        ],
+        "summary": "De flesta som hyr parkeringsplats av sin hyresvärd eller bostadsrättsförening behöver i nuläget inte betala moms på hyran. Men Skatteverket har gjort en ny tolkning av EU-domstolens praxis i frågan som innebär att fler parkeringsuthyrningar blir momspliktiga om inget görs. Regeringen tillsätter nu en bokstavsutredning för att se över möjligheterna att ändra lagstiftningen eller på annat sätt neutralisera de ekonomiska konsekvenserna av Skatteverkets nya tolkning.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Departementsserien och promemorior",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Utredning om mervärdesskatt på parkeringsplatser (pdf 151 kB)",
+                "url": "/contentassets/daaf8f12331a46bfb26a9cc8de79b49c/utredning-om-mervardesskatt-pa-parkeringsplatser.pdf"
+            }
+        ],
+        "categories": [
+            "1217",
+            "1267",
+            "1274",
+            "1012"
+        ]
+    },
+    {
+        "title": "Regeringen föreslår stärkt lagstiftning mot hedersrelaterat våld och förtryck",
+        "url": "/pressmeddelanden/2026/03/regeringen-foreslar-starkt-lagstiftning-mot-hedersrelaterat-vald-och-fortryck/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen har nu lämnat över propositionen Stärkt lagstiftning mot hedersrelaterat våld och förtryck till riksdagen. Propositionen innehåller flera förslag som syftar till att motverka tvångsäktenskap, barnäktenskap och andra former av hedersrelaterat våld och förtryck.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:213 Stärkt lagstiftning mot hedersrelaterat våld och förtryck",
+                "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526213"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff den 19 mars om stärkt lagstiftning mot hedersrelaterat våld och förtryck (pdf 97 kB)",
+                "url": "/globalassets/regeringen/dokument/justitiedepartementet/presentationer/2026-03/presentationsbilder-fran-presstraff-den-19-mars-om-starkt-lagstiftning-mot-hedersrelaterat-vald-och-fortryck.pdf"
+            }
+        ],
+        "categories": [
+            "1220",
+            "1239",
+            "1263",
+            "2671"
+        ]
+    },
+    {
+        "title": "Barnrättsperspektivet stärks i ny lag om omhändertaganden för vård",
+        "url": "/pressmeddelanden/2026/03/barnrattsperspektivet-starks-i-ny-lag-om-omhandertaganden-for-vard/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "2784",
+            "1284",
+            "1292"
+        ],
+        "summary": "Det behövs en modernare och tydligare lagstiftning för barn och unga som behöver samhällets skydd. I en lagrådsremiss föreslår regeringen att ny lagstiftning ska ersätta den nuvarande lagen med särskilda bestämmelser om vård av unga, LVU.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Ny lagstiftning ska stärka barns rättigheter och trygghet vid omhändertagandenWebb-TV",
+                "url": "/pressmeddelanden/2025/12/ny-lagstiftning-ska-starka-barns-rattigheter-och-trygghet-vid-omhandertaganden/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1220",
+            "1268"
+        ]
+    },
+    {
+        "title": "Förslag om sanktionsavgift och bidragsspärr för att motverka felaktiga utbetalningar och bidragsbrott",
+        "url": "/pressmeddelanden/2026/03/forslag-om-sanktionsavgift-och-bidragssparr-for-att-motverka-felaktiga-utbetalningar-och-bidragsbrott/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2609",
+            "2792",
+            "1284",
+            "1292"
+        ],
+        "summary": "I en proposition föreslår regeringen en administrativ sanktionsavgift och en bidragsspärr i socialförsäkringen. Syftet är att minska felaktiga utbetalningar och stärka skyddet för välfärdssystemen.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:210 Bidragsspärr och sanktionsavgift i socialförsäkringe",
+                "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526210"
+            },
+            {
+                "name": "Regeringens åtgärder mot välfärdsbrott",
+                "url": "/regeringens-politik/socialforsakringar/regeringens-atgarder-mot-valfardsbrott/"
+            },
+            {
+                "name": "Pressmeddelande: Bidragsspärr och sanktionsavgift i socialförsäkringen ska motverka felaktiga utbetalningar och bidragsbrott",
+                "url": "/pressmeddelanden/2025/12/bidragssparr-och-sanktionsavgift-i-socialforsakringen-ska-motverka-felaktiga-utbetalningar-och-bidragsbrott/"
+            },
+            {
+                "name": "Pressmeddelande: Nytt åtgärdspaket för att strypa den kriminella ekonomin",
+                "url": "/pressmeddelanden/2025/09/nytt-atgardspaket-for-att-strypa-den-kriminella-ekonomin/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1213",
+            "1269",
+            "1268",
+            "2690",
+            "2688"
+        ]
+    },
+    {
+        "title": "Ny ambassadör i Irland",
+        "url": "/pressmeddelanden/2026/03/ny-ambassador-i-irland/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Regeringen har i dag utsett Inger Buxton till ambassadör i Dublin.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1013",
+            "1082"
+        ]
+    },
+    {
+        "title": "Ny ambassadör i Rwanda",
+        "url": "/pressmeddelanden/2026/03/ny-ambassador-i-rwanda/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Regeringen har i dag utsett Henrik Nilsson till ambassadör i Kigali.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1013",
+            "1156"
+        ]
+    },
+    {
+        "title": "Ny ambassadör i Turkiet",
+        "url": "/pressmeddelanden/2026/03/ny-ambassador-i-turkiet/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Regeringen har i dag utsett Ulrika Funered till ambassadör i Ankara.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1013",
+            "1193"
+        ]
+    },
+    {
+        "title": "Ny ambassadör i Azerbajdzjan",
+        "url": "/pressmeddelanden/2026/03/ny-ambassador-i-azerbajdzjan/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Regeringen har i dag utsett Louise Morsing till ambassadör i Baku.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1013",
+            "1025"
+        ]
+    },
+    {
+        "title": "Nya förslag om en reformerad miljöprövning",
+        "url": "/pressmeddelanden/2026/03/nya-forslag-om-en-reformerad-miljoprovning/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "2792",
+            "1291"
+        ],
+        "summary": "Regeringen tar nu nästa steg i arbetet med att reformera miljöprövningen. Tillståndsprocesserna måste bli både enklare och mer effektiva och regeringen har nu beslutat om en lagrådsremiss för en ny miljöprövningsmyndighet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Lagrådsremiss: Ny myndighet för miljöprövning",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/03/ny-myndighet-for-miljoprovning/"
+            },
+            {
+                "name": "Samlingssida: En reformerad miljöprövning",
+                "url": "/regeringens-politik/en-reformerad-miljoprovning/"
+            },
+            {
+                "name": "Pressmeddelande: Nästa steg för en ny miljöprövningsmyndighet",
+                "url": "/pressmeddelanden/2026/03/nasta-steg-for-en-ny-miljoprovningsmyndighet/"
+            },
+            {
+                "name": "Delbetänkande 1: SOU 2024:98 En ny samordnad miljöbedömnings- och tillståndsprövningsprocess",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/01/sou-202498/"
+            },
+            {
+                "name": "Delbetänkande 2: SOU 2025:88 Tidigt besked om lämplig användning av mark och vatten",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/07/sou-202588/"
+            },
+            {
+                "name": "Delbetänkande 3: SOU 2025:122 En kortare instanskedja för mark- och miljöärenden",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/01/sou-2025122/"
+            },
+            {
+                "name": "Promemoria: Ny myndighet för miljöprövning KN2025/01878",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/10/ny-myndighet-for-miljoprovning/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1226",
+            "1252",
+            "1257",
+            "2797"
+        ]
+    },
+    {
+        "title": "Nya lagförslag för en starkare svensk fondmarknad",
+        "url": "/pressmeddelanden/2026/03/nya-lagforslag-for-en-starkare-svensk-fondmarknad/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2623",
+            "1285"
+        ],
+        "summary": "Den svenska fondmarknadens konkurrenskraft och motståndskraft behöver stärkas. Regeringen har nu beslutat om en proposition med förslag på lagändringar.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:186 En starkare fondmarknad",
+                "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526186"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1231",
+            "1012"
+        ]
+    },
+    {
+        "title": "Parisa Liljestrand medverkar i panelsamtal om Ukraina",
+        "url": "/pressmeddelanden/2026/03/parisa-liljestrand-medverkar-i-panelsamtal-om-ukraina/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2624",
+            "1288"
+        ],
+        "summary": "Torsdagen den 19 mars deltar kulturminister Parisa Liljestrand vid festivalen Ukraine Vision 2026 på Kulturhuset i Stockholm. Ministern kommer att delta i ett panelsamtal om kulturell diplomati och kulturellt utbyte som säkerhetspolitik, tillsammans med bland andra Volodymyr Sheiko, generaldirektör för Ukrainian Institute i Ukraina.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Ukraine Vision 2026- extern webbplats,",
+                "url": "https://ukrainevision.se/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1242",
+            "2584",
+            "1198"
+        ]
+    },
+    {
+        "title": "Regeringen vill se en snabbare utbyggnad av kriminalvårdsanstalter och häkten",
+        "url": "/pressmeddelanden/2026/03/regeringen-vill-se-en-snabbare-utbyggnad-av-kriminalvardsanstalter-och-hakten/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2615",
+            "2425"
+        ],
+        "summary": "Regeringen föreslår ändringar i plan- och bygglagen för att kunna ge bättre förutsättningar för en snabbare, flexiblare och mer effektiv utbyggnad av Sveriges kriminalvårdsanstalter och häkten.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Proposition: En snabbare utbyggnad av kriminalvårdsanstalter och häkten",
+                "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526209"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1217",
+            "1263"
+        ]
+    },
+    {
+        "title": "Lotta Edholm och Nina Larsson besöker Scania i Södertälje",
+        "url": "/pressmeddelanden/2026/03/lotta-edholm-och-nina-larsson-besoker-scania-i-sodertalje/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2620",
+            "2784",
+            "1284",
+            "1294"
+        ],
+        "summary": "Den 20 mars besöker gymnasie-, högskole- och forskningsminister Lotta Edholm och jämställdhetsminister Nina Larsson Scania i Södertälje för att uppmärksamma IGEday – ett initiativ som ska inspirera unga tjejer att upptäcka ingenjörsyrket.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1213",
+            "1276",
+            "1239",
+            "2727"
+        ]
+    },
+    {
+        "title": "Finansministern besöker Örebro",
+        "url": "/pressmeddelanden/2026/03/finansministern-besoker-orebro/",
+        "published": "2026-03-19",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "Fredagen den 20 mars reser finansminister Elisabeth Svantesson till Örebro för besök hos matvarukedjan Lidls centrallager och Kopparbergs Bryggeri.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1232",
+            "1267"
+        ]
+    },
+    {
         "title": "Statsministern till Bryssel för toppmöte med EU:s stats- och regeringschefer",
         "url": "/pressmeddelanden/2026/03/statsministern-till-bryssel-for-toppmote-med-eus-stats--och-regeringschefer/",
         "published": "2026-03-18",
