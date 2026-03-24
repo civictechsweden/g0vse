@@ -1,5 +1,31 @@
 [
     {
+        "title": "Svara på remiss – om remisser av betänkanden och andra förslag från Regeringskansliet",
+        "url": "/rapporter/2021/09/svara-pa-remiss/",
+        "published": "2021-09-24",
+        "updated": "2026-03-23",
+        "types": [
+            "1341"
+        ],
+        "senders": [
+            "1293"
+        ],
+        "id": "Diarienummer: PM 2021:1",
+        "shortcuts": [
+            {
+                "name": "Remisser",
+                "url": "/remisser/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Svara på remiss (PM2021_1) rev 2026 (pdf 295 kB)",
+                "url": "/contentassets/ee59c69b63014c19a08b0e8ca47334b2/svara-pa-remiss-pm2021_1-rev-2026.pdf"
+            }
+        ],
+        "categories": []
+    },
+    {
         "title": "En svensk strategi för biologisk mångfald och ekosystemtjänster",
         "url": "/rapporter/2026/02/en-svensk-strategi-for-biologisk-mangfald-och-ekosystemtjanster/",
         "published": "2026-02-09",
@@ -2638,32 +2664,6 @@
         ]
     },
     {
-        "title": "Svara på remiss – om remisser av betänkanden och andra förslag från Regeringskansliet",
-        "url": "/rapporter/2021/09/svara-pa-remiss/",
-        "published": "2021-09-24",
-        "updated": null,
-        "types": [
-            "1341"
-        ],
-        "senders": [
-            "1293"
-        ],
-        "id": "Diarienummer: PM 2021:1",
-        "shortcuts": [
-            {
-                "name": "Remisser",
-                "url": "/remisser/"
-            }
-        ],
-        "attachments": [
-            {
-                "name": "Svara på remiss (Pm2021_1) (pdf 243 kB)",
-                "url": "/contentassets/ee59c69b63014c19a08b0e8ca47334b2/svara-pa-remiss-pm2021_1.pdf"
-            }
-        ],
-        "categories": []
-    },
-    {
         "title": "Rapport för bolag med statligt ägande januari–juni 2021",
         "url": "/rapporter/2021/09/rapport-for-bolag-med-statligt-agande-januarijuni-2021/",
         "published": "2021-09-21",
@@ -5032,32 +5032,6 @@
         "categories": [
             "2293"
         ]
-    },
-    {
-        "title": "Svara på remiss – om remisser av betänkanden och andra förslag från Regeringskansliet",
-        "url": "/rapporter/2021/09/svara-pa-remiss/",
-        "published": "2009-05-01",
-        "updated": "2017-05-17",
-        "types": [
-            "1341"
-        ],
-        "senders": [
-            "1293"
-        ],
-        "id": "Diarienummer: PM 2021:1",
-        "shortcuts": [
-            {
-                "name": "Remisser",
-                "url": "/remisser/"
-            }
-        ],
-        "attachments": [
-            {
-                "name": "Svara på remiss (Pm2021_1) (pdf 243 kB)",
-                "url": "/contentassets/ee59c69b63014c19a08b0e8ca47334b2/svara-pa-remiss-pm2021_1.pdf"
-            }
-        ],
-        "categories": []
     },
     {
         "title": "Sveriges konvergensprogram 2017",
