@@ -71,17 +71,23 @@ Regeringen har beslutat om nya uppdrag till Socialstyrelsen och Inspektionen fö
 
 ## Exempel på åtgärder för att bekämpa hedersrelaterat våld och förtryck
 
-### Stärkt lagstiftning mot hedersrelaterat våld och förtryck
+### Regeringen föreslår stärkt lagstiftning mot hedersrelaterat våld och förtryck
 
-Regeringen har beslutat om lagrådsremissen Stärkt lagstiftning mot hedersrelaterat våld och förtryck. Lagstiftningen föreslås bli mer heltäckande och ge de brottsbekämpande myndigheterna bättre verktyg att utreda och lagföra brotten. I lagrådsremissen föreslås bland annat: utvidgat straffansvar för äktenskapstvång, att brottet vilseledande till äktenskapsresa byter namn till äktenskapsresebrott och att brottet äktenskapsresebrott mot barn införs. Remissen innehåller även flera förslag för att motverka hedersrelaterat våld och förtryck.
+Regeringen har nu lämnat över propositionen Stärkt lagstiftning mot hedersrelaterat våld och förtryck till riksdagen. I propositionen föreslås bland annat: att det straffbara området för äktenskapstvång utvidgas, brottet vilseledande till äktenskapsresa byter namn till äktenskapsresebrott och får utvidgat tillämpningsområde och äktenskapsresebrott mot barn införs. Det föreslås också att straffen för vissa hedersrelaterade brott skärps.
 
-[Pressmeddelande: Stärkt lagstiftning mot hedersrelaterat våld och förtryck](/pressmeddelanden/2026/02/starkt-lagstiftning-mot-hedersrelaterat-vald-och-fortryck/)
+[Pressmeddelande: Regeringen föreslår stärkt lagstiftning mot hedersrelaterat våld och förtryck](/pressmeddelanden/2026/02/starkt-lagstiftning-mot-hedersrelaterat-vald-och-fortryck/)
 
-### Förbud mot kusinäktenskap
+### Regeringen föreslår förbud mot kusinäktenskap
 
-Regeringen har i december 2025 beslutat om en lagrådsremiss med förslag om att införa ett förbud mot kusinäktenskap och äktenskap mellan andra nära släktingar. Syftet är att motverka hedersrelaterat förtryck, tvång och andra påtryckningar vid ingående av äktenskap. Kusinäktenskap för med sig en särskild risk för hedersrelaterat förtryck och annan ofrihet. Det gäller i synnerhet för flickor och kvinnor. Sedvänjor som är förknippade med kusinäktenskap riskerar också att bidra till social isolering samt till att upprätthålla hedersstrukturer och släktbaserade kriminella nätverk. Regeringen föreslår därför att det ska införas ett undantagslöst förbud mot äktenskap mellan kusiner i Sverige och att utländska kusinäktenskap som huvudregel inte ska erkännas här. Regeringen föreslår också motsvarande förbud mot äktenskap där den ena är släkt i rätt nedstigande led med den andras syskon. Slutligen föreslår regeringen att det inte längre ska vara möjligt för halv-syskon och syskon till följd av adoption att få tillstånd att ingå äktenskap. Lagändringarna föreslås träda i kraft den 1 juli 2026.
+Regeringen har lämnat över en proposition till riksdagen med förslag som syftar till att motverka hedersrelaterat förtryck och andra påtryckningar vid ingående av äktenskap.
 
-[Lagrådsremiss: Förbud mot kusinäktenskap och äktenskap mellan andra nära släktingar](/rattsliga-dokument/lagradsremiss/2025/12/forbud-mot-kusinaktenskap-och-aktenskap-mellan-andra-nara-slaktingar/)
+Kusinäktenskap kan medföra flera risker, särskilt för flickor och kvinnor. I många fall är dessa äktenskap kopplade till hedersrelaterat förtryck och kan därför begränsa individers rätt att leva ett fritt och självständigt liv. Sedvänjor som är förknippade med kusinäktenskap riskerar också leda till social isolering och bidra till att hedersstrukturer och släktbaserade kriminella nätverk upprätthålls. I propositionen lämnas förslag som bland annat innebär följande:
+
+* Kusinäktenskap och äktenskap mellan andra nära släktningar förbjuds i Sverige.
+* Det ska inte längre vara möjligt för halvsyskon och syskon till följd av adoption att få tillstånd att gifta sig med varandra.
+* Kusinäktenskap och äktenskap mellan andra nära släktningar som ingåtts utomlands ska som huvudregel inte erkännas i Sverige.
+
+[Pressmeddelande: Regeringen föreslår förbud mot kusinäktenskap](/pressmeddelanden/2026/03/regeringen-foreslar-forbud-mot-kusinaktenskap/)
 
 ### Ny lagstiftning kriminaliserar oskuldskontroller, oskuldsintyg och oskuldsingrepp
 
