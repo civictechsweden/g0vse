@@ -1,5 +1,85 @@
 [
     {
+        "title": "Regeringen har tagit emot ansökan om etablering av ny kärnkraft",
+        "url": "/artiklar/2026/03/regeringen-har-tagit-emot-ansokan-om-etablering-av-ny-karnkraft/",
+        "published": "2026-03-25",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "2792",
+            "1291"
+        ],
+        "summary": "Regeringen mottog den 23 mars den första ansökan för etablering av ny kärnkraft på 50 år. Ansökan om regeringens godkännande av en kärnteknisk anläggning på en ny plats har lämnats in enligt den nya tillståndsprocess som regeringen har föreslagit i propositionen \"En mer ändamålsenlig prövning av kärntekniska anläggningar\".",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen gör det enklare att etablera ny kärnkraft",
+                "url": "/pressmeddelanden/2026/03/regeringen-gor-det-enklare-att-etablera-ny-karnkraft/"
+            },
+            {
+                "name": "En mer ändamålsenlig prövning av kärntekniska anläggningar, prop. 2025/26:171",
+                "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526171"
+            },
+            {
+                "name": "Ny kärnkraft i Sverige – fler möjliga platser vid kusten, prop. 2025/26:160",
+                "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526160"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1226",
+            "1252"
+        ]
+    },
+    {
+        "title": "Möte i Rådet för kvinnofrid – fokus på våld i nära relation",
+        "url": "/artiklar/2026/03/mote-i-radet-for-kvinnofrid--fokus-pa-vald-i-nara-relation/",
+        "published": "2026-03-25",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "2610",
+            "2615",
+            "2616",
+            "2784",
+            "2605",
+            "1284",
+            "1287",
+            "1292",
+            "1293"
+        ],
+        "summary": "Onsdag den 25 mars sammanträdde Rådet för kvinnofrid för andra gången. Regeringen har inrättat rådet under statsministerns ledning för att förebygga och bekämpa mäns våld mot kvinnor. Temat för dagens möte var våld i nära relation.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Debattartikel: \"Vi vill kunna avlyssna män som slår kvinnor\"",
+                "url": "/debattartiklar/2026/03/vi-vill-kunna-avlyssna-man-som-slar-kvinnor/"
+            },
+            {
+                "name": "Artikel: Första mötet i Rådet för kvinnofridWebb-TV",
+                "url": "/artiklar/2026/02/forsta-motet-i-radet-for-kvinnofrid/"
+            },
+            {
+                "name": "Pressmeddelande: Statsministern presenterar Rådet för kvinnofridWebb-TV",
+                "url": "/pressmeddelanden/2026/01/statsministern-inrattar-ett-rad-for-kvinnofrid/"
+            },
+            {
+                "name": "Arbetet mot våld i nära relationer och hedersrelaterat våld och förtryck",
+                "url": "/regeringens-politik/arbetet-mot-vald-i-nara-relationer-och-hedersrelaterat-vald-och-fortryck/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1239",
+            "2212",
+            "2671"
+        ]
+    },
+    {
         "title": "Frihet från våld, förtryck och utnyttjande",
         "url": "/artiklar/2026/01/frihet-fran-vald-fortryck-och-utnyttjande/",
         "published": "2026-01-21",
