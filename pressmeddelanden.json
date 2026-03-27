@@ -1,5 +1,485 @@
 [
     {
+        "title": "Pål Jonson tar emot Greklands försvarsminister på Berga örlogsbas",
+        "url": "/pressmeddelanden/2026/03/pal-jonson-tar-emot-greklands-forsvarsminister-pa-berga-orlogsbas/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2627",
+            "1286"
+        ],
+        "summary": "Tisdag den 31 mars tar försvarsminister Pål Jonson emot Greklands försvarsminister Nikolaos Dendias på Berga örlogsbas för ett bilateralt möte där man bland annat kommer diskutera bilaterala relationen mellan Sverige och Grekland och försvarsmaterielsamarbeten. Möjligheter till intervjuer kommer erbjudas.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2247",
+            "1069"
+        ]
+    },
+    {
+        "title": "Socialstyrelsen ska samla kunskap om spelrisker för unga",
+        "url": "/pressmeddelanden/2026/03/socialstyrelsen-ska-samla-kunskap-om-spelrisker-for-unga/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2795",
+            "2623",
+            "1285",
+            "1292"
+        ],
+        "summary": "Regeringen ger Socialstyrelsen i uppdrag att sammanställa kunskap som ska hjälpa till att tidigt upptäcka och förebygga spelproblem hos barn och unga.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2655",
+            "2284",
+            "2246"
+        ]
+    },
+    {
+        "title": "Kunskapsstöd ska förbättra vården vid sköldkörtelsjukdomar",
+        "url": "/pressmeddelanden/2026/03/kunskapsstod-ska-forbattra-varden-vid-skoldkortelsjukdomar/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2795",
+            "1292"
+        ],
+        "summary": "Socialstyrelsen ska ta fram kunskapsstöd för vården vid sköldkörtelproblematik, med fokus på hypotyreos och hypertyreos. Det är en del i regeringens bredare satsning på kvinnors hälsa.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1233",
+            "2693",
+            "2688"
+        ]
+    },
+    {
+        "title": "Regeringen gör det möjligt för slaktkycklingproducenter att få statlig ersättning",
+        "url": "/pressmeddelanden/2026/03/regeringen-gor-det-mojligt-for-slaktkycklingproducenter-att-fa-statlig-ersattning/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2626",
+            "2425"
+        ],
+        "summary": "Regeringen har beslutat om en ändring i zoonosförordningen (1999:660) som temporärt gör det möjligt för slaktkycklingproducenter att erhålla statlig ersättning vid utbrott av salmonella.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1243"
+        ]
+    },
+    {
+        "title": "Uppdrag gällande djurskyddskontroller",
+        "url": "/pressmeddelanden/2026/03/uppdrag-gallande-djurskyddskontroller/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2626",
+            "2791",
+            "2425",
+            "1294"
+        ],
+        "summary": "Regeringen ger Statskontoret i uppdrag att utvärdera hur länsstyrelsernas verksamhet enligt djurskyddslagen (2018:1192) fungerar vad gäller att djurskyddskontrollen ska vara ändamålsenlig, rättssäker, likvärdig och proportionerlig. Utvärderingen ska belysa kontrollens funktion ur såväl länsstyrelsens som djurhållarens perspektiv.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1243"
+        ]
+    },
+    {
+        "title": "Nytt mått för att följa personalkontinuiteten i äldreomsorgen ska utvecklas",
+        "url": "/pressmeddelanden/2026/03/nytt-matt-for-att-folja-personalkontinuiteten-i-aldreomsorgen-ska-utvecklas/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2609",
+            "2614",
+            "1285",
+            "1292"
+        ],
+        "summary": "Genom att mäta personalkontinuitet på nationell nivå kan ett visst mått av kvalitet och trygghet för den äldre personen följas och användas som underlag i utvecklingsarbete. Regeringen ger Socialstyrelsen i uppdrag att utveckla mått för att följa personalkontinuiteten i både hemtjänst och särskilt boende.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Trygghet för äldre",
+                "url": "/regeringens-politik/trygghet-for-aldre/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2656",
+            "2810"
+        ]
+    },
+    {
+        "title": "Regeringen förordnar vikarierande generaldirektör för Kriminalvården",
+        "url": "/pressmeddelanden/2026/03/regeringen-forordnar-vikarierande-generaldirektor-for-kriminalvarden/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen har i dag förordnat Peter Yngve till vikarierande generaldirektör och chef för Kriminalvården.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1263"
+        ]
+    },
+    {
+        "title": "Regeringen tillsätter en utredning för ett utökat och stärkt statligt ansvar för läkemedel och vaccin",
+        "url": "/pressmeddelanden/2026/03/regeringen-tillsatter-en-utredning-for-ett-utokat-och-starkt-statligt-ansvar-for-lakemedel-och-vaccin/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Regeringen ger en särskild utredare i uppdrag att analysera och föreslå hur statens ansvar för läkemedel och vaccin ska utökas, stärkas och organiseras.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "260326 Presentationsbilder från pressträff den 26 mars 2026 om ett utökat och stärkt statligt ansvar för läkemedel och vaccin (pdf 93 kB)",
+                "url": "/globalassets/government/dokument/socialdepartementet/260326-presentationsbilder-fran-presstraff-den-26-mars-2026-om-ett-utokat-och-starkt-statligt-ansvar-for-lakemedel-och-vaccin.pdf"
+            }
+        ],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
+        "title": "Ny ordförande i Säkerhets- och integritetsskyddsnämnden",
+        "url": "/pressmeddelanden/2026/03/ny-ordforande-i-sakerhets--och-integritetsskyddsnamnden/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen har idag beslutat att utse före detta lagmannen Cecilia Klerbro till ny ordförande i Säkerhets- och integritetsskyddsnämnden vid Myndigheten för säkerhet och integritetsskydd. Förordnandet gäller från och med den 1 april 2026.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1263"
+        ]
+    },
+    {
+        "title": "Regeringen stärker arbetet mot människohandel",
+        "url": "/pressmeddelanden/2026/03/regeringen-starker-arbetet-mot-manniskohandel/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "2784",
+            "1284"
+        ],
+        "summary": "Regeringen tillför 500 000 kronor till länsstyrelserna för att inventera behovet av utbildning om människohandel för personal i berörda yrkesgrupper. Syftet är att stärka arbetet med att förebygga och motverka människohandel i hela landet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1239"
+        ]
+    },
+    {
+        "title": "Trafikverket får uppdrag att redovisa sitt arbete med att stärka förmågan till en motståndskraftig tågtrafikledning",
+        "url": "/pressmeddelanden/2026/03/trafikverket-far-uppdrag-att-redovisa-sitt-arbete-med-att-starka-formagan-till-en-motstandskraftig-tagtrafikledning/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2425"
+        ],
+        "summary": "Regeringen ger Trafikverket i uppdrag att redogöra för hur arbetet med att stärka myndighetens motståndskraft i tågtrafikledningen genomförs. Uppdraget omfattar också att beskriva vilka åtgärder som behövs för att snabba på arbetet och för att stärka verksamhetens förmåga att fungera utan avbrott – både i fred, kris och ytterst krig.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1274"
+        ]
+    },
+    {
+        "title": "Regeringen stärker utlandssvenskars röstningsmöjligheter",
+        "url": "/pressmeddelanden/2026/03/regeringen-starker-utlandssvenskars-rostningsmojligheter/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2621",
+            "1295"
+        ],
+        "summary": "Regeringen ger Valmyndigheten ett uppdrag att bredda och fördjupa informationen om utlandssvenskars rösträtt och röstningsmöjligheter inför de allmänna valen 2026. Informationssatsningen inkluderar brevutskick till samtliga utlandssvenskar som fallit ur röstlängden de senaste femton åren. Regeringsbeslutet är en del av arbetet för att öka röstandet bland svenskar bosatta utomlands.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1219",
+            "2803",
+            "1013"
+        ]
+    },
+    {
+        "title": "Socialstyrelsen ska följa upp tillämpningen av det utvidgade utreseförbudet för barn",
+        "url": "/pressmeddelanden/2026/03/socialstyrelsen-ska-folja-upp-tillampningen-av-det-utvidgade-utreseforbudet-for-barn/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "2784",
+            "1284",
+            "1292"
+        ],
+        "summary": "Socialstyrelsen får i uppdrag att följa upp tillämpningen av det utvidgade utreseförbudet för barn. Myndigheten ska bland annat kartlägga i vilken utsträckning lagändringarna har bidragit till att förebygga och öka skyddet mot att barn förs ut ur landet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen föreslår utvidgat reseförbud för barn och unga",
+                "url": "/pressmeddelanden/2024/01/regeringen-foreslar-utvidgat-reseforbud-for-barn-och-unga/"
+            },
+            {
+                "name": "Proposition: Ett utvidgat utreseförbud för barn",
+                "url": "/rattsliga-dokument/lagradsremiss/2024/01/ett-utvidgat-utreseforbud-for-barn/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1220",
+            "1268",
+            "2671"
+        ]
+    },
+    {
+        "title": "Ny statssekreterare på Socialdepartementet",
+        "url": "/pressmeddelanden/2026/03/ny-statssekreterare-pa-socialdepartementet/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "1292"
+        ],
+        "summary": "Regeringen har i dag fattat beslut om att utse Josefin Dahlerus till ny statssekreterare hos socialtjänstminister Camilla Waltersson Grönvall. Josefin Dahlerus ersätter Minna Ljunggren, som på egen begäran i dag entledigats från uppdraget som statssekreterare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1220",
+            "1223",
+            "1268"
+        ]
+    },
+    {
+        "title": "Nya justitieråd i Högsta förvaltningsdomstolen",
+        "url": "/pressmeddelanden/2026/03/nya-justitierad-i-hogsta-forvaltningsdomstolen/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen har i dag utnämnt Magnus Bengtson och Johan Lundmark till justitieråd i Högsta förvaltningsdomstolen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1263"
+        ]
+    },
+    {
+        "title": "Regeringen föreslår att Judiska Centralrådet får medel för säkerhetshöjande åtgärder",
+        "url": "/pressmeddelanden/2026/03/regeringen-foreslar-att-judiska-centralradet-far-medel-for-sakerhetshojande-atgarder/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Regeringen avsätter 9 miljoner kronor till Judiska Centralrådet för säkerhetsåtgärder för den judiska minoriteten under 2026. Satsningen görs mot bakgrund av en förhöjd hotbild mot judar och judiska institutioner i Sverige, och syftar till att stärka tryggheten för den judiska minoriteten.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Debattartikel: \"Antisemitismen är ett växande hot i vårt samhälle.”",
+                "url": "/debattartiklar/2026/03/antisemitismen-ar-ett-vaxande-hot-i-vart-samhalle/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1218",
+            "1219",
+            "2666",
+            "2212"
+        ]
+    },
+    {
+        "title": "Peter Knutsson ny generaldirektör för Spelinspektionen",
+        "url": "/pressmeddelanden/2026/03/peter-knutsson-ny-generaldirektor-for-spelinspektionen/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2623",
+            "1285"
+        ],
+        "summary": "Regeringen har beslutat att utse Peter Knutsson till generaldirektör och chef för Spelinspektionen. Peter Knutsson kommer närmast från rollen som reklamombudsman, och tillträder sin tjänst på Spelinspektionen den 17 augusti 2026.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1231",
+            "2284"
+        ]
+    },
+    {
+        "title": "Ny generaldirektör och chef för Skatteverket utsedd",
+        "url": "/pressmeddelanden/2026/03/ny-generaldirektor-och-chef-for-skatteverket-utsedd/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "Regeringen har i dag utsett Fredrik Rosengren till ny generaldirektör och chef för Skatteverket. Fredrik Rosengren är i dag rikskronofogde och chef för Kronofogdemyndigheten.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1267"
+        ]
+    },
+    {
+        "title": "Justitieminister Gunnar Strömmer besöker Västerås och Örebro",
+        "url": "/pressmeddelanden/2026/03/justitieminister-gunnar-strommer-besoker-vasteras-och-orebro/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "I dag, torsdag den 26 mars, besöker justitieminister Gunnar Strömmer Västerås och Örebro.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1263",
+            "2690",
+            "2688"
+        ]
+    },
+    {
+        "title": "Regeringen vill omförhandla lönetransparensdirektivet",
+        "url": "/pressmeddelanden/2026/03/regeringen-vill-omforhandla-lonetransparensdirektivet/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2784",
+            "1284"
+        ],
+        "summary": "Regeringen bedömer att utformningen av EU:s lönetransparensdirektiv är allt för administrativt betungande och därför riskerar att minska jämställdhetsvinsterna. Därför avser regeringen att verka för att direktivets genomförandetidpunkt skjuts upp och att en omförhandling av direktivet i regelförenklande riktning inleds.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Insyn och transparens – ökad jämställdhet i arbetslivet",
+                "url": "/regeringens-politik/lonetransparensdirektivet/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1213",
+            "2096",
+            "1239",
+            "2804",
+            "1012"
+        ]
+    },
+    {
+        "title": "Ebba Busch talar vid konferensen Energi 2026",
+        "url": "/pressmeddelanden/2026/03/ebba-busch-talar-vid-konferensen-energi-2026/",
+        "published": "2026-03-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "1291"
+        ],
+        "summary": "Torsdag den 26 mars håller energi-och näringsminister Ebba Busch ett anförande vid Energiföretagens konferens Energi 2026.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1226"
+        ]
+    },
+    {
         "title": "Regeringen välkomnar Riksrevisionens granskning av Sidas arbete med det humanitära biståndet",
         "url": "/pressmeddelanden/2026/03/regeringen-valkomnar-riksrevisionens-granskning-av-sidas-arbete-med-det-humanitara-bistandet/",
         "published": "2026-03-25",

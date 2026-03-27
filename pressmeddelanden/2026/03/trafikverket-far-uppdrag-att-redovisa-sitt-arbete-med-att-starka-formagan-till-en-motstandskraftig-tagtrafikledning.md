@@ -1,0 +1,17 @@
+# Trafikverket får uppdrag att redovisa sitt arbete med att stärka förmågan till en motståndskraftig tågtrafikledning
+
+– Trafikverkets arbete med att vidta åtgärder för en mer motståndskraftig tågtrafikledning är viktigt för att stärka transportinfrastrukturens funktionalitet och öka den svenska beredskapen i transportsektorn. Det arbetet behöver genomföras i högt tempo. Satsningarna på underhåll av vägar och järnvägar och på minskad sårbarhet i transportsystemen är betydelsefullt för Sveriges beredskap i fredstid såväl som i situationer av höjd beredskap och ytterst krig, säger infrastruktur- och bostadsminister Andreas Carlson.
+
+Regeringens satsningar på underhåll av vägar och järnvägar och på minskad sårbarhet i transportsystemen fyller en viktig roll för Sveriges beredskap och för totalförsvaret. En fungerande trafikledning på järnväg är en av flera viktiga förutsättningar för att upprätthålla transportsystemets funktionalitet och viktiga samhällsfunktioner. En ökad motståndskraft i tågtrafikledningen är viktig för att funktioner ska kunna upprätthållas. I detta sammanhang betyder motståndskraft förmågan till redundans, kontinuitetsplanering, och skydd av anläggningen i syfte att fortsatt kunna utföra tågtrafikledning under olika omvärldssituationer och störningar, inklusive vid höjd beredskap och ytterst krig.
+
+I sin redovisning av arbetet ska Trafikverkets redogörelse omfatta en samlad analys och förslag till åtgärder på strategisk, taktisk och operativ nivå. Redovisningen ska beskriva hur föreslagna åtgärder bidrar till och kan påskynda en ökad robusthet och uthållighet i tågtrafikledningen, samt hur de påverkar systemets funktionalitet under störningar, kris, höjd beredskap och ytterst krig.
+
+Uppdraget ska redovisas senast den 19 februari 2027.
+
+– Trafikverkets arbete med att vidta åtgärder för en mer motståndskraftig tågtrafikledning är viktigt för att stärka transportinfrastrukturens funktionalitet och öka den svenska beredskapen i transportsektorn. Det arbetet behöver genomföras i högt tempo. Satsningarna på underhåll av vägar och järnvägar och på minskad sårbarhet i transportsystemen är betydelsefullt för Sveriges beredskap i fredstid såväl som i situationer av höjd beredskap och ytterst krig, säger infrastruktur- och bostadsminister Andreas Carlson.
+
+Regeringens satsningar på underhåll av vägar och järnvägar och på minskad sårbarhet i transportsystemen fyller en viktig roll för Sveriges beredskap och för totalförsvaret. En fungerande trafikledning på järnväg är en av flera viktiga förutsättningar för att upprätthålla transportsystemets funktionalitet och viktiga samhällsfunktioner. En ökad motståndskraft i tågtrafikledningen är viktig för att funktioner ska kunna upprätthållas. I detta sammanhang betyder motståndskraft förmågan till redundans, kontinuitetsplanering, och skydd av anläggningen i syfte att fortsatt kunna utföra tågtrafikledning under olika omvärldssituationer och störningar, inklusive vid höjd beredskap och ytterst krig.
+
+I sin redovisning av arbetet ska Trafikverkets redogörelse omfatta en samlad analys och förslag till åtgärder på strategisk, taktisk och operativ nivå. Redovisningen ska beskriva hur föreslagna åtgärder bidrar till och kan påskynda en ökad robusthet och uthållighet i tågtrafikledningen, samt hur de påverkar systemets funktionalitet under störningar, kris, höjd beredskap och ytterst krig.
+
+Uppdraget ska redovisas senast den 19 februari 2027.
