@@ -1,5 +1,340 @@
 [
     {
+        "title": "Nytt förslag ska ge kommunerna större inflytande över mottagandet av nyanlända",
+        "url": "/pressmeddelanden/2026/03/nytt-forslag-ska-ge-kommunerna-storre-inflytande-over-mottagandet-av-nyanlanda/",
+        "published": "2026-03-31",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2791",
+            "1284"
+        ],
+        "summary": "För att integrationen ska fungera bättre behöver kommunerna få större inflytande över mottagandet av nyanlända. Det behöver också bli tydligare att nyanlända har ett eget ansvar att försörja sig och hitta ett långsiktigt boende. Regeringen har därför beslutat om propositionen Tidsbegränsat boende för vissa nyanlända invandrare – en ny lag om bosättning.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:215 Tidsbegränsat boende för vissa nyanlända invandrare – en ny lag om bosättning",
+                "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526215"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2460",
+            "1237",
+            "2092",
+            "1249",
+            "2661",
+            "2688"
+        ]
+    },
+    {
+        "title": "Nya förslag för att stärka Sveriges beredskap vid läkemedelsbrist",
+        "url": "/pressmeddelanden/2026/03/nya-forslag-for-att-starka-sveriges-beredskap-vid-lakemedelsbrist/",
+        "published": "2026-03-31",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2795",
+            "2616",
+            "1292"
+        ],
+        "summary": "Socialminister Jakob Forssmed har tagit emot delbetänkandet från Utredningen om säkrare tillgång till läkemedel. Utredningen föreslår att Läkemedelsverket vid bristsituationer ska kunna besluta om tvingande fördelning och omfördelning av läkemedel, samt att en nationell inköpsfunktion inrättas på Socialstyrelsen för att säkra tillgången till läkemedel när ordinarie åtgärder inte räcker.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Stärkt läkemedelsförsörjning i samverkan, SOU 2026:22",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/03/sou-202622/"
+            },
+            {
+                "name": "Pressmeddelande: Bristsituationer av läkemedel ska utredas",
+                "url": "/pressmeddelanden/2025/06/bristsituationer-av-lakemedel-ska-utredas/"
+            },
+            {
+                "name": "Kommittédirektiv: Säkrare tillgång till läkemedel, Dir. 2025:67",
+                "url": "/rattsliga-dokument/kommittedirektiv/2025/06/dir.-202567"
+            },
+            {
+                "name": "Informationsmaterial: Nationell läkemedelsstrategi 2024-2026",
+                "url": "/informationsmaterial/2024/02/nationell-lakemedelsstrategi-2024-2026/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff den 30 mars 2026 om insatser för säkrare tillgång till läkemedel (pdf 361 kB)",
+                "url": "/globalassets/regeringen/dokument/socialdepartementet/fokhalsa-och-sjukvard/presentationsbilder-fran-presstraff-den-30-mars-2026-om-insatser-for-sakrare-tillgang-till-lakemedel.pdf"
+            }
+        ],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
+        "title": "Satsningar för stärkt kompetensförsörjning och fler i jobb",
+        "url": "/pressmeddelanden/2026/03/satsningar-for-starkt-kompetensforsorjning-och-fler-i-jobb/",
+        "published": "2026-03-31",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2792",
+            "1284"
+        ],
+        "summary": "För att stärka vägarna till arbete och möta arbetsmarknadens kompetensbehov avser regeringen att föreslå flera åtgärder i vårändringsbudgeten för 2026. Arbetsförmedlingen föreslås få 25 miljoner kronor för att kartlägga arbetssökandes utbildningsbehov och aktivt anvisa att söka utbildning. Jobbsprånget förstärks och SCB får i uppdrag att analysera hur AI påverkar arbetslösheten bland akademiker. Därutöver satsas 250 miljoner kronor på sommar- och ungdomsjobb i kommunerna.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff 31 mars 2026 om arbetsmarknadssatsningar i vårändringsbudgeten (pdf 221 kB)",
+                "url": "/contentassets/a5cceab1b135457ba31318d550bac455/presentationsbilder-fran-presstraff-31-mars-2026-om-arbetsmarknadssatsningar-i-varandringsbudgeten.pdf"
+            }
+        ],
+        "categories": [
+            "1213",
+            "2212"
+        ]
+    },
+    {
+        "title": "Regeringen tillsätter utredning för stärkt ledarskap i äldreomsorgen",
+        "url": "/pressmeddelanden/2026/03/regeringen-tillsatter-utredning-for-starkt-ledarskap-i-aldreomsorgen/",
+        "published": "2026-03-31",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2609",
+            "2614",
+            "1285",
+            "1292"
+        ],
+        "summary": "Regeringen tillsätter nu en utredning för att stärka ledarskapet i äldreomsorgen, bland annat genom att ge utredaren i uppdrag att lämna förslag på en obligatorisk ledarskapsutbildning för chefer i äldreomsorgen. Syftet är att säkerställa en trygg och säker vård och omsorg för äldre.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Trygghet för äldre",
+                "url": "/regeringens-politik/trygghet-for-aldre/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff den 31 mars 2026 om nyhet inom äldreomsorgen (pdf 335 kB)",
+                "url": "/globalassets/regeringen/dokument/socialdepartementet/aldreomsorg/presentationsbilder-fran-presstraff-den-31-mars-2026-om-nyhet-inom-aldreomsorgen.pdf"
+            }
+        ],
+        "categories": [
+            "2656",
+            "2810"
+        ]
+    },
+    {
+        "title": "Pressbriefing om satsningar som träder i kraft den 1 april",
+        "url": "/pressmeddelanden/2026/03/presstraff-om-satsningar-som-trader-i-kraft-den-1-april/",
+        "published": "2026-03-31",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2613",
+            "2623",
+            "1285"
+        ],
+        "summary": "Onsdag den 1 april kl. 08.30 bjuder finansminister Elisabeth Svantesson och finansmarknadsminister Niklas Wykman in till en pressbriefing för att presentera de satsningar som träder i kraft den 1 april. Det gäller bland annat sänkt matmoms och nya bolåneregler.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1232",
+            "1231"
+        ]
+    },
+    {
+        "title": "Maria Malmer Stenergard deltar i EU:s informella utrikesministermöte",
+        "url": "/pressmeddelanden/2026/03/maria-malmer-stenergard-deltar-i-eus-informella-utrikesministermote/",
+        "published": "2026-03-31",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2621",
+            "1295"
+        ],
+        "summary": "Utrikesminister Maria Malmer Stenergard deltar i EU:s informella utrikesministermöte i Kiev den 31 mars 2026.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1279",
+            "2696",
+            "2584",
+            "1012",
+            "1198"
+        ]
+    },
+    {
+        "title": "Pål Jonson presenterar försvarsmaterielnyheter och bjuder in till pressträff i Kristinehamn",
+        "url": "/pressmeddelanden/2026/03/pal-jonson-presenterar-forsvarsmaterielnyheter-och-bjuder-in-till-presstraff-i-kristinehamn/",
+        "published": "2026-03-31",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2627",
+            "1286"
+        ],
+        "summary": "Torsdag den 2 april bjuder försvarsminister Pål Jonson in till pressträff vid Bergslagens artilleriregemente (A9) i Kristinehamn. Vid pressträffen deltar även arméchef Jonny Lindfors, och företrädare från Försvarets materielverk (FMV), BAE Systems Bofors och Saab. På pressträffen presenteras en försvarsmaterielnyhet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2247"
+        ]
+    },
+    {
+        "title": "Ytterligare steg för Sverige som rymdnation",
+        "url": "/pressmeddelanden/2026/03/ytterligare-steg-for-sverige-som-rymdnation/",
+        "published": "2026-03-31",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2614",
+            "2620",
+            "2627",
+            "1285",
+            "1286",
+            "1294"
+        ],
+        "summary": "Regeringen genomför satsningar i vårändringsbudgeten för att utveckla Sverige som rymdnation. Det handlar om totalt 400 miljoner kronor i ökade anslag till Rymdstyrelsen och SSC Space AB.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff den 31 mars om rymdsatsning (pdf 1 MB)",
+                "url": "/contentassets/5a29ebaa24e548eb9f5057c30dccab3c/presentationsbilder-fran-presstraff-den-31-mars-om-rymdsatsning.pdf"
+            }
+        ],
+        "categories": [
+            "1234",
+            "1277",
+            "2247",
+            "2750",
+            "2212",
+            "2703"
+        ]
+    },
+    {
+        "title": "Statsministern besöker Dalarna",
+        "url": "/pressmeddelanden/2026/03/statsministern-besoker-dalarna/",
+        "published": "2026-03-31",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2605",
+            "1293"
+        ],
+        "summary": "Tisdag den 31 mars reser statsminister Ulf Kristersson till Borlänge och Falun för att besöka ett bryggeri och en gymnasieskola.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1243",
+            "1257",
+            "2704"
+        ]
+    },
+    {
+        "title": "Bättre kunskap om hedersrelaterat våld och förtryck i skolan",
+        "url": "/pressmeddelanden/2026/03/battre-kunskap-om-hedersrelaterat-vald-och-fortryck-i-skolan/",
+        "published": "2026-03-31",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2614",
+            "2784",
+            "2624",
+            "1284",
+            "1285",
+            "1288"
+        ],
+        "summary": "Hedersrelaterat våld och förtryck drabbar allt för många i vårt land. Skolpersonal behöver därför ha kunskap om den här typen av våld och hur det yttrar sig. Skolverket och länsstyrelserna får därför i uppdrag att öka kunskapen om hedersrelaterat våld och förtryck hos personal som arbetar i skolan.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringsuppdrag: Uppdrag om stärkt systematiskt arbete och stöd för implementering av kunskap om hedersrelaterat våld och förtryck i skolväsendet",
+                "url": "/regeringsuppdrag/2026/03/uppdrag-om-starkt-systematiskt-arbete-och-stod-for-implementering-av-kunskap-om-hedersrelaterat-vald-och-fortryck-i-skolvasendet/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1276",
+            "1220",
+            "1219",
+            "1239"
+        ]
+    },
+    {
+        "title": "Pressträff om satsningar på arbetsmarknadsområdet",
+        "url": "/pressmeddelanden/2026/03/presstraff-om-satsningar-pa-arbetsmarknadsomradet/",
+        "published": "2026-03-31",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2792",
+            "1284"
+        ],
+        "summary": "Tisdag den 31 mars kl. 13.00 bjuder arbetsmarknadsminister Johan Britz in till en pressträff. På pressträffen presenteras nyheter från vårändringsbudgeten.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1213",
+            "2212"
+        ]
+    },
+    {
+        "title": "Riskerna vid estetiska laserbehandlingar ska minska",
+        "url": "/pressmeddelanden/2026/03/riskerna-vid-estetiska-laserbehandlingar-ska-minska/",
+        "published": "2026-03-31",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "2795",
+            "1292"
+        ],
+        "summary": "Regeringen ger Socialstyrelsen i uppdrag att ta fram åtgärder som minskar riskerna vid estetiska laserbehandlingar och att genomföra en informationskampanj till allmänheten.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1233",
+            "2693",
+            "2688"
+        ]
+    },
+    {
         "title": "Utredning ska stärka transparensen i kommuner, regioner och SKR",
         "url": "/pressmeddelanden/2026/03/utredning-ska-starka-transparensen-i-kommuner-regioner-och-skr/",
         "published": "2026-03-30",
