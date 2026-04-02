@@ -1,0 +1,5 @@
+# Uppdrag till Myndigheten för civilt försvar avseende tillgänglighet inom krisberedskapen och det civila försvaret för personer med funktionsnedsättning
+
+Regeringen ger Myndigheten för civilt försvar i uppdrag att skapa förutsättningar för att personer med funktionsnedsättning inkluderas i arbetet med krisberedskap och civilt försvar genom att analysera vad tillgänglighet innebär i befolkningsskyddets kontext, ta fram underlag som ska kunna användas för att kartlägga skyddsrums status vad gäller tillgänglighetsanpassning samt skapa metodstöd för kommunerna som bland annat syftar till att stärka kunskapen hos personer med funktionsnedsättning om krisberedskap och civilt försvar.
+
+Myndigheten för civilt försvar ska senast den 19 mars 2027 lämna en slutredovisning av uppdraget till Regeringskansliet. Den del av uppdraget som avser underlag som ska kunna användas när skyddsrum kontrolleras avseende tillgänglighetsanpassning ska senast den 20 november 2026 delredovisas muntligt till Regeringskansliet (Försvarsdepartementet).
