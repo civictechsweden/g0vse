@@ -1,5 +1,219 @@
 [
     {
+        "title": "En ny mottagandelag",
+        "url": "/rattsliga-dokument/proposition/2026/04/prop.-202526229",
+        "published": "2026-04-02",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "I propositionen föreslås en ny mottagandelag som ska ersätta lagen (1994:137) om mottagande av asylsökande m.fl. Syftet med den nya lagen är att förbättra förutsättningarna för ett ordnat mottagande och en effektivare återvändandeprocess samt att minska utanförskapet. Lagen ska gälla för asylsökande och utlänningar som omfattas av massflyktsdirektivet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Tilläggsdirektiv till Utredningen om ett ordnat initialt mottagande av asylsökande (Ju 2021:12)",
+                "url": "/rattsliga-dokument/kommittedirektiv/2024/05/dir.-202447"
+            },
+            {
+                "name": "Tilläggsdirektiv till Utredningen om ett ordnat initialt mottagande av asylsökande (Ju 2021:12)",
+                "url": "/rattsliga-dokument/kommittedirektiv/2023/06/dir.-202393"
+            },
+            {
+                "name": "Tilläggsdirektiv till Ett ordnat initialt mottagande av asylsökande (Ju 2021:12)",
+                "url": "/rattsliga-dokument/kommittedirektiv/2022/03/dir.-202216"
+            },
+            {
+                "name": "Ett ordnat initialt mottagande av asylsökande",
+                "url": "/rattsliga-dokument/kommittedirektiv/2021/09/dir.-202171"
+            },
+            {
+                "name": "Mottagandelagen",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2024/10/sou-202468/"
+            },
+            {
+                "name": "En ny ordning för asylsökandes boende",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2022/11/sou-202264/"
+            },
+            {
+                "name": "Remiss av SOU 2024:68 Mottagandelagen – En ny lag för ordnat asylmottagande och effektivt återvändande",
+                "url": "/remisser/2024/10/remiss-av-sou-202468-mottagandelagen---en-ny-lag-for-ordnat-asylmottagande-och-effektivt-atervandande/"
+            },
+            {
+                "name": "Remiss av SOU 2022:64 En ny ordning för asyl­sökandes boende",
+                "url": "/remisser/2023/04/remiss-av-sou-202264-en-ny-ordning-for-asylsokandes-boende/"
+            },
+            {
+                "name": "En ny mottagandelag",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/02/en-ny-mottagandelag/"
+            },
+            {
+                "name": "En ny ordning för asylsökandes boende",
+                "url": "/rattsliga-dokument/lagradsremiss/2024/10/en-ny-ordning-for-asylsokandes-boende/"
+            },
+            {
+                "name": "En ny ordning för asylsökandes boende",
+                "url": "/rattsliga-dokument/proposition/2024/11/20242549/"
+            },
+            {
+                "name": "En ny ordning för asylsökandes boende",
+                "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/en-ny-ordning-for-asylsokandes-boende_hc01sfu11/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "En ny mottagandelag, Prop. 2025/26:229 (pdf 2 MB)",
+                "url": "/contentassets/eab0697d5fc8402891948e0ea2e5bdad/en-ny-mottagandelag-prop.-202526229.pdf"
+            }
+        ],
+        "categories": [
+            "1249"
+        ]
+    },
+    {
+        "title": "Ändamålsenliga utmätningsregler och utvidgad distansutmätning",
+        "url": "/rattsliga-dokument/proposition/2026/04/prop.-202526224",
+        "published": "2026-04-02",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "Regeringen föreslår flera åtgärder för att effektivisera och modernisera utsökningsförfarandet. Genom förslagen uppnås ett högre försäljningspris för utmätt egendom, fler skulder blir betalda snabbare och förtroendet för utsökningssystemet ökar.",
+        "id": "Prop. 2025/26:224",
+        "shortcuts": [
+            {
+                "name": "Ett modernt utsökningsförfarande",
+                "url": "/rattsliga-dokument/kommittedirektiv/2014/09/dir.-2014127"
+            },
+            {
+                "name": "Ett modernare utsökningsförfarande",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2016/11/sou-201681/"
+            },
+            {
+                "name": "Remiss av SOU 2016:81 Ett modernare utsökningsförfarande",
+                "url": "/remisser/2016/12/remiss-av-sou-201681-ett-modernare-utsokningsforfarande/"
+            },
+            {
+                "name": "Ändamålsenliga utmätningsregler och utvidgad distansutmätning",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/03/andamalsenliga-utmatningsregler-och-utvidgad-distansutmatning/"
+            },
+            {
+                "name": "Effektivare verktyg i utsökningsförfarandet",
+                "url": "/rattsliga-dokument/lagradsremiss/2022/03/effektivare-verktyg-i-utsokningsforfarandet/"
+            },
+            {
+                "name": "Snabbare och enklare verkställighet av myndighetsbeslut",
+                "url": "/rattsliga-dokument/lagradsremiss/2022/03/snabbare-och-enklare-verkstallighet-av-myndighetsbeslut/"
+            },
+            {
+                "name": "Löneutmätning och digitala ansökningar i utsökningsförfarandet",
+                "url": "/rattsliga-dokument/lagradsremiss/2021/03/loneutmatning-och-digitala-ansokningar-i-utsokningsforfarandet/"
+            },
+            {
+                "name": "Snabbare och enklare verkställighet av myndighetsbeslut",
+                "url": "/rattsliga-dokument/proposition/2022/04/prop.-202122206"
+            },
+            {
+                "name": "Effektivare verktyg i utsökningsförfarandet",
+                "url": "/rattsliga-dokument/proposition/2022/03/prop.-202122197"
+            },
+            {
+                "name": "Löneutmätning och digitala ansök­ningar i utsök­nings­förfarandet",
+                "url": "/rattsliga-dokument/proposition/2021/03/prop.-202021161"
+            },
+            {
+                "name": "Snabbare och enklare verk­ställig­het av myndig­hets­beslut, 2021/22:CU30",
+                "url": "https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/snabbare-och-enklare-verkstallighet-av_H901CU30"
+            },
+            {
+                "name": "Effektivare verktyg i utsök­nings­förfarandet, 2021/22:CU23",
+                "url": "https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/effektivare-verktyg-i-utsokningsforfarandet_H901CU23"
+            },
+            {
+                "name": "Löneutmätning och digitala ansök­ningar i utsök­nings­förfarandet, 2020/21:CU21",
+                "url": "https://www.riksdagen.se/sv/dokument-lagar/arende/betankande/loneutmatning-och-digitala-ansokningar-i_H801CU21"
+            },
+            {
+                "name": "Lag (2022:1320) om ändring i utsöknings­balken",
+                "url": "https://svenskforfattningssamling.se/doc/20221320.html"
+            },
+            {
+                "name": "Lag (2022:1321) om ändring i lagen (1997:238) om arbets­löshets­försäkring",
+                "url": "https://svenskforfattningssamling.se/doc/20221321.html"
+            },
+            {
+                "name": "Lag (2022:799) om ändring i utsök­nings­balken",
+                "url": "https://svenskforfattningssamling.se/doc/2022799.html"
+            },
+            {
+                "name": "Förord­ning (2022:800) om ändring i utsök­nings­förord­ningen (1981:981)",
+                "url": "https://svenskforfattningssamling.se/doc/2022800.html"
+            },
+            {
+                "name": "Lag (2021:790) om ändring i utsök­nings­balken",
+                "url": "https://svenskforfattningssamling.se/doc/2021790.html"
+            },
+            {
+                "name": "Lag (2021:791) om ändring i konkurs­lagen (1987:672)",
+                "url": "https://svenskforfattningssamling.se/doc/2021791.html"
+            },
+            {
+                "name": "Förordning (2021:792) om ändring i utsök­nings­­förord­ningen (1981:981)",
+                "url": "https://svenskforfattningssamling.se/doc/2021792.html"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Ändamålsenliga utmätningsregler och utvidgad distansutmätning, Prop. 2025/26:224 (pdf 2 MB)",
+                "url": "/contentassets/5ec05c7ef3b2483da12a00f1bf1b3b49/andamalsenliga-utmatningsregler-och-utvidgad-distansutmatning-prop.-202526224.pdf"
+            }
+        ],
+        "categories": [
+            "1240",
+            "1263"
+        ]
+    },
+    {
+        "title": "Stärkt medicinsk kompetens i kommunal hälso-och sjukvård",
+        "url": "/rattsliga-dokument/proposition/2026/04/prop.-202526216",
+        "published": "2026-04-02",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Regeringen föreslår att hälso- och sjukvårdslagen ändras så att kommunerna ska få anlita läkare i de verksamheter som avser den kommunala hälso- och sjukvården.",
+        "id": "Prop. 2025/26:216",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen föreslår att kommuner ska få möjlighet att anställa läkare",
+                "url": "/pressmeddelanden/2026/04/regeringen-foreslar-att-kommuner-ska-fa-mojlighet-att-anstalla-lakare/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Stärkt medicinsk kompetens i kommunal hälso- och sjukvård, Prop 2025 26 216 (pdf 483 kB)",
+                "url": "/contentassets/2dc714d5e61e41919a144212aae8b21a/prop-2025-26-216.pdf"
+            }
+        ],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
         "title": "Slopat matkrav för serveringstillstånd",
         "url": "/rattsliga-dokument/proposition/2026/04/prop.-202526221",
         "published": "2026-04-01",
