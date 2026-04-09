@@ -1,7 +1,3 @@
 # Remiss av Statens energimyndighets hemställan angående förordning om statligt stöd för en mer effektiv energianvändning i företag
 
-Här kan du ta del av till vilka instanser som regeringen har remitterat Statens energimyndighets hemställan angående
-förordning om statligt stöd för en mer effektiv energianvändning i
-företag.
-
-Sista dag att svara på remissen är den 7 april 2026.
+Här kan du ta del av svaren från de som ombetts svara på remissen av Statens energimyndighets hemställan angående förordning om statligt stöd för en mer effektiv energianvändning i företag. Övriga yttranden finns tillgängliga i departementet.
