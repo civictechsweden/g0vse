@@ -1,4 +1,4 @@
-# Ekonomisk jämställdhet – en fråga om rättvisa och en bra investering för Sverige
+# Ekonomisk jämställdhet – en bra investering för Sverige
 
 Kvinnor har i genomsnitt lägre sysselsättningsgrad, kortare arbetstid, högre frånvaro från arbetet samt lägre lön och kapitalinkomster än män. Det påverkar inte bara kvinnors möjlighet att forma sitt eget liv idag, det ger också konsekvenser senare i livet. För regeringen är det tydligt - kvinnors ekonomiska egenmakt behöver stärkas. Det gynnar både kvinnorna själva och hela samhället. Ta del av ett urval av regeringens åtgärder för att öka den ekonomiska jämställdheten här.
 
@@ -10,17 +10,13 @@ Att kvinnor har lägre livsinkomster än män får genomslag längre fram i live
 
 ## Regeringens åtgärder för att öka den ekonomiska jämställdheten
 
-### Nytt direktiv ska stärka principen om lika lön
+### Utredning föreslår effektivare bodelning och enklare skilsmässa
 
-Det nya så kallade lönetransparensdirektivet ska stärka principen om lika lön för kvinnor och män för lika eller likvärdigt arbete. Det ska ske genom att öka arbetssökandes och arbetstagares insyn i lönesättningen bland annat genom information om ingångslön, lönekriterier, lönenivåer och löneutveckling. EU-direktivet ska vara genomfört senast i juni 2026 och innehåller en rad bestämmelser som rör både arbetstagare och arbetsgivare.
+Regeringen har tagit emot betänkandet Bodelning och betänketid – en effektivare process. Utredningen föreslår åtgärder som ska göra bodelningsprocessen snabbare och mer välfungerande, och som motverkar ekonomiskt våld. Förslagen omfattar bland annat nya verktyg för bodelningsförrättare samt ändrade regler om betänketid för att förenkla skilsmässoprocessen.
 
-[Artikel: Nytt direktiv ska stärka principen om lika lön](/artiklar/2025/03/nytt-direktiv-ska-starka-principen-om-lika-lon/)
+Förslagen är en del av regeringens arbete mot mäns våld mot kvinnor och våld i nära relationer, där även ekonomiskt våld ingår. Målet är att den som vill lämna en relation inte ska hållas kvar av långa processer eller ekonomisk maktutövning.
 
-### Stärkt skydd för den som vill separera – nya regler om bodelning och betänketid
-
-Regeringen har gett en utredare i uppdrag att se över äktenskapsbalkens regler om bodelningsprocessen och betänketid. Syftet är att säkerställa en välfungerande, effektiv och rättssäker ordning för personer som vill separera, och att därigenom motverka ekonomiskt våld.
-
-[Pressmeddelande: Stärkt skydd för den som vill separera – nya regler om bodelning och betänketid](/pressmeddelanden/2024/11/starkt-skydd-for-den-som-vill-separera--nya-regler-om-bodelning-och-betanketid/)
+[Pressmeddelande: Utredning föreslår effektivare bodelning och enklare skilsmässa](/pressmeddelanden/2026/01/utredning-foreslar-effektivare-bodelning-och-enklare-skilsmassa/)
 
 ### Uppdrag ska stärka kvinnors företagande
 
@@ -28,30 +24,22 @@ För att stärka Sveriges ekonomi och konkurrenskraft har regeringen som uttalat
 
 [Pressmeddelande: Nytt uppdrag ska stärka kvinnors företagande](/pressmeddelanden/2024/03/nytt-uppdrag-ska-starka-kvinnors-foretagande/)
 
-### Regeringen och SKR i gemensam satsning för att få fler utrikes födda kvinnor i arbete
+### Förnyade uppdrag stärker arbetet för ekonomisk jämställdhet
 
-Att öka utrikes födda kvinnors sysselsättningsgrad är en prioriterad fråga för regeringen. Frågan är också central för landets kommuner och regioner. Regeringen och Sveriges Kommuner och Regioner (SKR) har därför kommit överens om en gemensam satsning för att nå ut till utrikes födda kvinnor som besöker den öppna förskolan. Projektet riktar sig till kvinnor med barn i åldern 0–6 år. Förhoppningen är att fler utrikes födda kvinnor ska få bättre förutsättningar att komma ut på arbetsmarknaden. Överenskommelsen omfattar knappt 20 miljoner kronor och ska pågå åren 2023-2025.
+Regeringen har gett Arbetsmiljöverket i fortsatt uppdrag att redovisa hur ett ökat distansarbete påverkar jämställdheten. Syftet är att belysa hur distansarbete påverkar jämställdheten i arbetslivet, inklusive arbetsmiljö och karriärmöjligheter.
 
-[Pressmeddelande: Regeringen och SKR i gemensam satsning för att få fler utrikes födda kvinnor i arbete](/pressmeddelanden/2023/03/regeringen-och-skr-i-gemensam-satsning-for-att-fa-fler-utrikes-fodda-kvinnor-i-arbete/)
+Även Medlingsinstitutet får ett förnyat uppdrag att göra jämställdhetsanalyser av löneinkomster. Syfte är att stärka kunskapsunderlaget om ekonomiska skillnader mellan kvinnor och män, inte bara i löner utan även i andra inkomster som påverkar individers disponibla inkomster över livet utifrån ett jämställdhetsperspektiv.
 
-### Uppdrag att i samverkan ta fram en myndighetsgemensam plan för att öka utrikes födda kvinnors inträde på arbetsmarknaden
-
-Jämställdhetsmyndigheten, Arbetsförmedlingen Försäkringskassan, Migrationsverket, Socialstyrelsen och Länsstyrelsen Västernorrland har fått i uppdrag att ta fram en myndighetsgemensam plan för att öka utrikes födda kvinnors inträde på arbetsmarknaden.
-
-[Regeringsuppdrag: Uppdrag att i samverkan ta fram en myndighetsgemensam plan för att öka utrikes födda kvinnors inträde på arbetsmarknaden](/regeringsuppdrag/2022/05/uppdrag-att-i-samverkan-ta-fram-en-myndighetsgemensam-plan/)
-
-[Myndighetsgemensam plan för att öka utrikes födda kvinnors inträde på arbetsmarknaden (Jämställdhetsmyndighetens hemsida) - extern webbplats,](https://jamstalldhetsmyndigheten.se/media/ubyovfkv/myndighetsgemensam-plan-underskriven-48-sidor.pdf)
-
-### Medlingsinstitutet analyserar livsinkomster
-
-Medlingsinstitutet har haft i uppdrag att analysera inte bara löneinkomster, utan också alla andra inkomster som påverkar individers disponibla inkomster över livet utifrån ett jämställdhetsperspektiv. Uppdraget slutredovisades den 1 oktober 2025.
-
-[Medlingsinstitutet Regleringsbrev 2025 (Ekonomistyrningsverket hemsida) - extern webbplats,](https://www.esv.se/Statsliggaren/Regleringsbrev?rbid=25188)
-
-[Inkomstskillnaden mellan kvinnor och män 22 procent (Medlingsinstitutets hemsida) - extern webbplats,](https://www.mi.se/nyheter/2025/inkomstskillnaden-mellan-kvinnor-och-man-22-procent/ "Inkomstskillnaden mellan kvinnor och män 22 procent (Medlingsinstitutets hemsida)")
+[Pressmeddelande: Förnyade uppdrag stärker arbetet för ekonomisk jämställdhet](/pressmeddelanden/2025/12/fornyade-uppdrag-starker-arbetet-for-ekonomisk-jamstalldhet/)
 
 ### Nästa steg i översynen av grundskyddet inom ålderspensionssystemet – arbetsgrupp utsedd för att påbörja arbetet
 
 Pensionsgruppen har ställt sig bakom att grundskyddet inom det allmänna pensionssystemet ska ses över. Arbetsgruppen ska slutredovisa sitt arbete senast den 15 juni 2026. Regeringen har ett särskilt fokus på att följa och analysera hur skillnaden i kvinnors och mäns pension utvecklas och kommer långsiktigt att arbeta vidare för mer jämställda pensioner.
 
 [Pressmeddelande: Nästa steg i översynen av grundskyddet inom ålderspensionssystemet – arbetsgrupp utsedd för att påbörja arbetet](/pressmeddelanden/2025/07/nasta-steg-i-oversynen-av-grundskyddet-inom-alderspensionssystemet--arbetsgrupp-utsedd-for-att-paborja-arbetet/)
+
+### Insyn och transparens – ökad jämställdhet i arbetslivet
+
+EU:s lönetransparensdirektiv handlar om nya regler om insyn och transparens i lönesättningen. Regeringen bedömer att utformningen av direktivet är allt för administrativt betungande och därför riskerar att minska jämställdhetsvinsterna. Därför avser regeringen att verka för att direktivets genomförandetidpunkt skjuts upp och att en omförhandling av direktivet i regelförenklande riktning inleds.
+
+[Insyn och transparens – ökad jämställdhet i arbetslivet](/regeringens-politik/lonetransparensdirektivet/)
