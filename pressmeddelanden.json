@@ -1,5 +1,246 @@
 [
     {
+        "title": "Regeringen går vidare med nya lagar om elsystemet",
+        "url": "/pressmeddelanden/2026/04/regeringen-gar-vidare-med-nya-lagar-om-elsystemet/",
+        "published": "2026-04-13",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "1291"
+        ],
+        "summary": "Regeringen har beslutat om en proposition som innehåller förslag som tydliggör systemansvaret i elsystemet, avvecklar anvisade elavtal och underlättar energidelning. Förslagen ska öka leveranssäkerheten och främja konkurrenskraftiga priser för både el och elnät.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen föreslår nya lagar om elsystemet",
+                "url": "/pressmeddelanden/2026/02/regeringen-foreslar-nya-lagar-om-elsystemet/"
+            },
+            {
+                "name": "Proposition",
+                "url": "/rattsliga-dokument/proposition/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1226",
+            "2777"
+        ]
+    },
+    {
+        "title": "Regeringen går vidare med förslag om utökat straffrättsligt tjänstemannaansvar",
+        "url": "/pressmeddelanden/2026/04/regeringen-gar-vidare-med-forslag-om-utokat-straffrattsligt-tjanstemannaansvar/",
+        "published": "2026-04-13",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2614",
+            "2615",
+            "1285",
+            "1287"
+        ],
+        "summary": "Regeringen har lämnat över propositionen Ett utökat straffrättsligt tjänstemannaansvar till riksdagen. Propositionen innehåller förslag om ett nytt brott, missbruk av offentlig ställning, och en skärpning av minimistraffet för grovt tjänstefel. Syftet är att stärka skyddet mot maktmissbruk, korruption och otillåten påverkan inom offentlig verksamhet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:217 Ett utökat straffrättsligt tjänstemannaansvar",
+                "url": "/rattsliga-dokument/proposition/2026/04/prop.-202526217"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1263"
+        ]
+    },
+    {
+        "title": "Regeringen tar nästa steg i avvecklingen av kostnadshyran i vårändringsbudgeten",
+        "url": "/pressmeddelanden/2026/04/regeringen-tar-nasta-steg-i-avvecklingen-av-kostnadshyran-i-varandringsbudgeten/",
+        "published": "2026-04-13",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2624",
+            "1288"
+        ],
+        "summary": "I vårändringsbudgeten 2026 bedömer regeringen att en intäktsjusterad hyra bör införas för Operan, Dramaten, Historiska museet, Nationalmuseum och Naturhistoriska riksmuseet. Regeringen tar därmed nästa steg i avvecklingen av kostnadshyresmodellen för de berörda fastigheterna. Regeringen för också upp ett nytt anslag på statens budget för att möjliggöra en renovering av operabyggnaden i Stockholm.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Kostnadshyresmodellen för vissa kulturinstitutioner ska avvecklas",
+                "url": "/pressmeddelanden/2025/09/kostnadshyresmodellen-for-vissa-kulturinstitutioner-ska-avvecklas/"
+            },
+            {
+                "name": "Pressmeddelande: Statens fastighetsverk ber regeringen om godkännande för investering för att genomföra renoveringen av operabyggnaden",
+                "url": "/pressmeddelanden/2025/10/statens-fastighetsverk-ber-regeringen-om-godkannande-for-investering-for-att-genomfora-renoveringen-av-operabyggnaden/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1234",
+            "1242",
+            "1260",
+            "2212"
+        ]
+    },
+    {
+        "title": "Riksantikvarieämbetet ska utveckla en digital plattform för Sveriges kulturkanon",
+        "url": "/pressmeddelanden/2026/04/riksantikvarieambetet-ska-utveckla-en-digital-plattform-for-sveriges-kulturkanon/",
+        "published": "2026-04-13",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2624",
+            "1288"
+        ],
+        "summary": "Regeringen avser att på torsdag den 16 april ge Riksantikvarieämbetet i uppdrag att utveckla och tillhandahålla en digital plattform för att förmedla kunskap om Sveriges kulturkanon till allmänheten. Regeringen föreslår i vårändringsbudgeten för 2026 att myndighetens anslag ökas med 1 miljon kronor under 2026.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Betänkande: En kulturkanon för Sverige, SOU 2025:92",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/09/sou-202592/"
+            },
+            {
+                "name": "Pressmeddelande: En kulturkanon för Sverige överlämnad till Parisa Liljestrand",
+                "url": "/pressmeddelanden/2025/09/en-kulturkanon-for-sverige-overlamnad-till-parisa-liljestrand/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1242"
+        ]
+    },
+    {
+        "title": "EU-ministern besöker Uppsala",
+        "url": "/pressmeddelanden/2026/04/eu-ministern-besoker-uppsala/",
+        "published": "2026-04-13",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2754",
+            "1293"
+        ],
+        "summary": "Måndag den 13 april besöker Jessica Rosencrantz Uppsala. På plats gör ministern ett verksamhetsbesök på Ragn-sells och EasyMinings forskningscenter. I fokus står den storskaliga återvinningen av fosfor inom EU. Under dagen gästar EU-ministern även Uppsala universitet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1252",
+            "1012"
+        ]
+    },
+    {
+        "title": "Pressträff om ny nationell strategi mot våld, förtryck och utnyttjande",
+        "url": "/pressmeddelanden/2026/04/presstraff-om-ny-nationell-strategi-mot-vald-fortryck-och-utnyttjande/",
+        "published": "2026-04-13",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2784",
+            "1284"
+        ],
+        "summary": "På tisdag den 14 april klockan 10 presenterar jämställdhetsminister Nina Larsson en ny tioårig nationell strategi mot mäns våld mot kvinnor, våld i nära relationer, utnyttjande i prostitution och människohandel samt hedersrelaterat våld och förtryck. Samtidigt presenteras också två myndighetsuppdrag. På pressträffen deltar även Lise Tamm, generaldirektör på Jämställdhetsmyndigheten.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1239",
+            "2671"
+        ]
+    },
+    {
+        "title": "Socionomer ska få verktyg att möta samhällsutmaningar och förebygga kriminalitet",
+        "url": "/pressmeddelanden/2026/04/socionomer-ska-fa-verktyg-att-mota-samhallsutmaningar-och-forebygga-kriminalitet/",
+        "published": "2026-04-13",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "2616",
+            "2620",
+            "1292",
+            "1294"
+        ],
+        "summary": "För att skapa bättre förutsättningar för socionomer att möta dagens samhällsutmaningar har regeringen beslutat att reformera socionomutbildningen. Utbildningen får nya och ändrade examensmål och syftet är att nyexaminerade socionomer ska vara väl förberedda för arbetslivet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1277",
+            "1268",
+            "2708"
+        ]
+    },
+    {
+        "title": "En vårbudget för att stärka och skydda svensk ekonomi",
+        "url": "/pressmeddelanden/2026/04/en-varbudget-for-att-starka-och-skydda-svensk-ekonomi/",
+        "published": "2026-04-13",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "I dag överlämnas vårbudgeten för 2026 till riksdagen. I ett prövande och oförutsägbart omvärldsläge står Sverige starkt, och återhämtningen i svensk ekonomi har påbörjats. Regeringen fortsätter nu bygga ett starkare och tryggare Sverige. Vårbudgeten innehåller åtgärder för 7,7 miljarder kronor för 2026.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:100 2026 års ekonomiska vårproposition",
+                "url": "/rattsliga-dokument/proposition/2026/04/prop.-202526100"
+            },
+            {
+                "name": "Prop. 2025/26:99 Vårändringsbudget för 2026",
+                "url": "/rattsliga-dokument/proposition/2026/04/prop.-20252699"
+            },
+            {
+                "name": "Prop. 2025/26:236 Extra ändringsbudget för 2026 – Sänkt skatt på drivmedel samt el- och gasprisstöd",
+                "url": "/rattsliga-dokument/proposition/2026/04/prop.-202526236"
+            },
+            {
+                "name": "Artikel: Vårbudgeten 2026 på fem minuterWebb-TV",
+                "url": "/artiklar/2026/04/varbudgeten-2026-pa-fem-minuter/"
+            },
+            {
+                "name": "Nyckeltal prognos 13 april 2026 (pdf)",
+                "url": "/contentassets/eec8c8299cc04993af903d9c54aee5a7/nyckeltal-prognos-13-april-2026.pdf"
+            },
+            {
+                "name": "Regeringskansliets mediabank- extern webbplats,",
+                "url": "https://rkbild.se/"
+            },
+            {
+                "name": "Press release: A Spring Budget to strengthen and protect Sweden’s economy- extern webbplats,",
+                "url": "https://www.government.se/press-releases/2024/04/a-spring-budget-to-strengthen-and-protect-swedens-economy"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff om vårbudgeten den 13 april 2026 (pdf 1 MB)",
+                "url": "/globalassets/regeringen/dokument/finansdepartementet/ppt-till-presstraffar/presentationsbilder-fran-presstraff-om-varbudgeten-den-13-april-2026.pdf"
+            }
+        ],
+        "categories": [
+            "1232",
+            "2212"
+        ]
+    },
+    {
         "title": "Pressinbjudan: Infrastruktur- och bostadsminister Andreas Carlson besöker Värmland",
         "url": "/pressmeddelanden/2026/04/infrastruktur--och-bostadsminister-andreas-carlson-besoker-varmland/",
         "published": "2026-04-13",
@@ -18,6 +259,27 @@
         "categories": [
             "1274",
             "2212"
+        ]
+    },
+    {
+        "title": "Regeringen tillsätter utredning om svensk anpassning till nya EU-regler om informationsutbyte mellan brottsbekämpande myndigheter",
+        "url": "/pressmeddelanden/2026/04/regeringen-tillsatter-utredning-om-svensk-anpassning-till-nya-eu-regler-om-informationsutbyte-mellan-brottsbekampande-myndigheter/",
+        "published": "2026-04-10",
+        "updated": "2026-04-13",
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "(Ny version) Regeringen har beslutat att ge en utredare i uppdrag att lämna förslag om anpassningar av svensk rätt med anledning av Prüm II-förordningen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1263",
+            "2675"
         ]
     },
     {
@@ -283,27 +545,6 @@
             "2746",
             "2688",
             "2212"
-        ]
-    },
-    {
-        "title": "Regeringen tillsätter utredning om svensk anpassning till nya EU-regler om informationsutbyte mellan brottsbekämpande myndigheter",
-        "url": "/pressmeddelanden/2026/04/regeringen-tillsatter-utredning-om-svensk-anpassning-till-nya-eu-regler-om-informationsutbyte-mellan-brottsbekampande-myndigheter/",
-        "published": "2026-04-10",
-        "updated": null,
-        "types": [
-            "1334"
-        ],
-        "senders": [
-            "2615",
-            "1287"
-        ],
-        "summary": "(Ny version) Regeringen avser att ge en utredare i uppdrag att lämna förslag om anpassningar av svensk rätt med anledning av Prüm II-förordningen.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "1263",
-            "2675"
         ]
     },
     {
