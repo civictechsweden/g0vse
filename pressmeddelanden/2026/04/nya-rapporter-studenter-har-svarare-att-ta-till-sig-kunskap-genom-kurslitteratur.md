@@ -1,0 +1,21 @@
+# Nya rapporter: studenter har svårare att ta till sig kunskap genom kurslitteratur
+
+– Även bland högskolestudenter blir läskrisen allt tydligare, vilket många lärare vittnar om. Det är en oroväckande utveckling eftersom det riskerar påverka studenternas kunskapsutveckling och förmåga att använda kurslitteratur, säger gymnasie-, högskole- och forskningsminister Lotta Edholm.
+
+Universitetskanslersämbetet (UKÄ) och Statistiska centralbyrån (SCB) fick förra året i uppdrag att dels kartlägga hur högskolestudenters läsförståelse utvecklats och hur den påverkar exempelvis genomströmningen, dels att undersöka hur studenter använder och får tillgång till kurslitteratur.
+
+I SCB:s rapport framkommer att fyra av tio, nästan varannan, av den undervisande personalen på högskolan upplever att det har skett en försämring av läs- och skrivkompetensen i svenska under de senaste fem åren. Dock syns ingen betydande försämring i läsförståelse när det gäller betyg, högskoleprovsresultat eller prestationsgrad över tid. I internationella undersökningar (PIAAC och PISA) syns heller ingen försämring över tid, men däremot en signifikant ökad spridning i elevresultat och en försämrad likvärdighet. En betydande andel lärare uppger att de har anpassat sin undervisning utifrån studenternas svårigheter att tillgodogöra sig information.
+
+UKÄ:s rapport visar att kurslitteraturens ställning i högskolan genomgår en större förändring. Studenterna använder fler alternativa kunskapskällor där bland annat AI-verktyg ersätter traditionell läsning. Samtidigt visar rapporten att kurslitteraturen fortfarande är viktig för att få en djup förståelse av ämnet, men att det kommer krävas anpassningar av kurslitteraturen i framtiden.
+
+– UKÄ:s kartläggning pekar på att studenternas vana att läsa längre texter verkar ha minskat och den obligatoriska kurslitteraturen verkar också läsas i mindre utsträckning. Sammantaget kan jag konstatera att vi behöver möta denna utveckling tidigt, redan i förskolan och grundskolan, för att säkerställa att framtidens studenter kan tillgodogöra sig sin utbildning på ett bra sätt. Skolan måste tillbaka till grunderna, säger gymnasie-, högskole- och forskningsminister Lotta Edholm.
+
+– Även bland högskolestudenter blir läskrisen allt tydligare, vilket många lärare vittnar om. Det är en oroväckande utveckling eftersom det riskerar påverka studenternas kunskapsutveckling och förmåga att använda kurslitteratur, säger gymnasie-, högskole- och forskningsminister Lotta Edholm.
+
+Universitetskanslersämbetet (UKÄ) och Statistiska centralbyrån (SCB) fick förra året i uppdrag att dels kartlägga hur högskolestudenters läsförståelse utvecklats och hur den påverkar exempelvis genomströmningen, dels att undersöka hur studenter använder och får tillgång till kurslitteratur.
+
+I SCB:s rapport framkommer att fyra av tio, nästan varannan, av den undervisande personalen på högskolan upplever att det har skett en försämring av läs- och skrivkompetensen i svenska under de senaste fem åren. Dock syns ingen betydande försämring i läsförståelse när det gäller betyg, högskoleprovsresultat eller prestationsgrad över tid. I internationella undersökningar (PIAAC och PISA) syns heller ingen försämring över tid, men däremot en signifikant ökad spridning i elevresultat och en försämrad likvärdighet. En betydande andel lärare uppger att de har anpassat sin undervisning utifrån studenternas svårigheter att tillgodogöra sig information.
+
+UKÄ:s rapport visar att kurslitteraturens ställning i högskolan genomgår en större förändring. Studenterna använder fler alternativa kunskapskällor där bland annat AI-verktyg ersätter traditionell läsning. Samtidigt visar rapporten att kurslitteraturen fortfarande är viktig för att få en djup förståelse av ämnet, men att det kommer krävas anpassningar av kurslitteraturen i framtiden.
+
+– UKÄ:s kartläggning pekar på att studenternas vana att läsa längre texter verkar ha minskat och den obligatoriska kurslitteraturen verkar också läsas i mindre utsträckning. Sammantaget kan jag konstatera att vi behöver möta denna utveckling tidigt, redan i förskolan och grundskolan, för att säkerställa att framtidens studenter kan tillgodogöra sig sin utbildning på ett bra sätt. Skolan måste tillbaka till grunderna, säger gymnasie-, högskole- och forskningsminister Lotta Edholm.

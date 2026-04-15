@@ -1,5 +1,522 @@
 [
     {
+        "title": "Socialstyrelsen ska se över stöd till vårdgivare för att säkra kunskapsnivån hos vårdpersonal",
+        "url": "/pressmeddelanden/2026/04/socialstyrelsen-ska-se-over-stod-till-vardgivare-for-att-sakra-kunskapsnivan-hos-vardpersonal2/",
+        "published": "2026-04-14",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2795",
+            "1292"
+        ],
+        "summary": "Regeringen har gett Socialstyrelsen i uppdrag att se över hur kunskapsnivån hos hälso- och sjukvårdens personal kan stärkas. Målet är att öka patientsäkerheten.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1233",
+            "2693",
+            "2688"
+        ]
+    },
+    {
+        "title": "Proposition om betald polisutbildning överlämnad till riksdagen",
+        "url": "/pressmeddelanden/2026/04/proposition-om-betald-polisutbildning-overlamnad-till-riksdagen/",
+        "published": "2026-04-14",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen har överlämnat en proposition till riksdagen med förslag som möjliggör en betald polisutbildning. Syftet med förslaget är att polisutbildningen ska bli mer attraktiv och att antalet personer som fullföljer utbildningen och stannar kvar i polisyrket ska öka.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:237 En betald polisutbildning",
+                "url": "/rattsliga-dokument/proposition/2026/04/prop.-202526237"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1263",
+            "2690",
+            "2688"
+        ]
+    },
+    {
+        "title": "Utredning ska förenkla för skydd av tamdjur mot rovdjursangrepp",
+        "url": "/pressmeddelanden/2026/04/utredning-ska-forenkla-for-skydd-av-tamdjur-mot-rovdjursangrepp/",
+        "published": "2026-04-14",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2626",
+            "2425"
+        ],
+        "summary": "Regeringen ger en utredare i uppdrag att se över jaktförordningen och föreslå regler som innebär utökade möjligheter att döda varg för att skydda hundar som används vid jakt samt analysera hur förutsättningarna för att skydda tamdjur mot angrepp av björn, varg, järv eller lo i övrigt kan förbättras.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringsuppdrag: Uppdrag att uppdatera riktlinjer för skyddsjakt efter varg",
+                "url": "/regeringsuppdrag/2023/07/uppdrag-att-uppdatera-riktlinjer-for-skyddsjakt-efter-varg/"
+            },
+            {
+                "name": "Pressmeddelande: Naturvårdsverket har redovisat uppdaterade riktlinjer för skyddsjakt efter varg",
+                "url": "/pressmeddelanden/2024/03/naturvardsverket-har-redovisat-uppdaterade-riktlinjer-for-skyddsjakt-efter-varg/"
+            },
+            {
+                "name": "SOU, Delbetänkande av Jaktlagstiftningsutredningen: Vissa förändringar av jaktlagstiftningen",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/04/sou-202532/"
+            },
+            {
+                "name": "Artikel, Slutbetänkande av Jaktlagstiftningsutredningen: En ny viltförvaltningslagstiftning",
+                "url": "/artiklar/2026/01/en-ny-viltforvaltningslagstiftning/"
+            },
+            {
+                "name": "Departementsserien och promemorior",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1243"
+        ]
+    },
+    {
+        "title": "IVO ska förbereda arbetet med tillstånd för familjehem",
+        "url": "/pressmeddelanden/2026/04/ivo-ska-forbereda-arbetet-med-tillstand-for-familjehem/",
+        "published": "2026-04-14",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "1292"
+        ],
+        "summary": "(Ny version) Regeringen avser gå vidare med förslag om krav på tillstånd för familjehem och jourhem. I vårändringsbudgeten för 2026 föreslår regeringen att IVO får fem miljoner kronor för att kunna förbereda det nya systemet med tillståndsprövning.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "SOU 2023:66 För barn och unga i samhällsvård",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2023/11/sou-202366/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1220",
+            "1268",
+            "2212"
+        ]
+    },
+    {
+        "title": "Pressbriefing om cyberhotbilden mot kritisk infrastruktur",
+        "url": "/pressmeddelanden/2026/04/pressbriefing-om-cyberhotbilden-mot-kritisk-infrastruktur/",
+        "published": "2026-04-14",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2611",
+            "1286"
+        ],
+        "summary": "Onsdag den 15 april kl. 10.00 bjuder ministern för civilt försvar Carl-Oskar Bohlin in till en pressbriefing tillsammans med John Billow, chef för Nationellt cybersäkerhetscenter.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2248",
+            "2781"
+        ]
+    },
+    {
+        "title": "Finansminister Elisabeth Svantesson deltar i IMF:s och Världsbankens vårmöten i Washington",
+        "url": "/pressmeddelanden/2026/04/finansminister-elisabeth-svantesson-deltar-i-imfs-och-varldsbankens-varmoten-i-washington/",
+        "published": "2026-04-14",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "Den 14–17 april reser finansminister Elisabeth Svantesson till Washington D.C. för att delta i IMF:s och Världsbankens vårmöten, där hon leder den svenska delegationen. Fokus för diskussionerna är det världsekonomiska läget, särskilt kriget i Mellanöstern, dess ekonomiska effekter och lämpliga åtgärder.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1232",
+            "1013",
+            "1196"
+        ]
+    },
+    {
+        "title": "Regeringen föreslår förändrad tonnagebeskattning för stärkt konkurrens",
+        "url": "/pressmeddelanden/2026/04/regeringen-foreslar-forandrad-tonnagebeskattning-for-starkt-konkurrens/",
+        "published": "2026-04-14",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "För att stärka svensk sjöfarts konkurrenskraft föreslår regeringen i en proposition förbättringar av det svenska systemet för tonnagebeskattning. Förslaget aviserades i budgetpropositionen för 2026.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:243 Förbättrade regler för svensk tonnagebeskattning",
+                "url": "/rattsliga-dokument/proposition/2026/04/prop.-202526243"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1267",
+            "1274"
+        ]
+    },
+    {
+        "title": "Ny nationell strategi ska bidra till ett samhälle fritt från våld, förtryck och utnyttjande",
+        "url": "/pressmeddelanden/2026/04/ny-nationell-strategi-ska-bidra-till-ett-samhalle-fritt-fran-vald-fortryck-och-utnyttjande/",
+        "published": "2026-04-14",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2610",
+            "2616",
+            "2784",
+            "1284",
+            "1292"
+        ],
+        "summary": "Regeringen presenterar nu en ny tioårig nationell strategi mot mäns våld mot kvinnor, våld i nära relationer, utnyttjande i prostitution och människohandel samt hedersrelaterat våld och förtryck. Samtidigt beslutar regeringen om två uppdrag till flera myndigheter, ett om en nationell samverkansstruktur och ett om uppföljning av de jämställdhetspolitiska delmålen mot våld, förtryck och utnyttjande.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Utdrag ur Skrivelse 2025/26:245 Frihet från våld, förtryck och utnyttjande – En nationell strategi mot mäns våld mot kvinnor, våld i nära relationer, utnyttjande i prostitution och människohandel samt hedersrelaterat våld och förtryck",
+                "url": "/informationsmaterial/2026/04/frihet-fran-vald-fortryck-och-utnyttjande/"
+            },
+            {
+                "name": "Regeringsuppdrag: Uppdrag att delta i en nationell samverkansstruktur och utveckla arbetet mot våld, förtryck och utnyttjande",
+                "url": "/regeringsuppdrag/2026/04/uppdrag-att-delta-i-en-nationell-samverkansstruktur-och-utveckla-arbetet-mot-vald-fortryck-och-utnyttjande/"
+            },
+            {
+                "name": "Regeringsuppdrag: Uppdrag om uppföljning av delmålen mot våld, förtryck och utnyttjande och nollvisionen för dödligt våld mot kvinnor",
+                "url": "/regeringsuppdrag/2026/04/uppdrag-om-uppfoljning-av-delmalen-mot-vald-fortryck-och-utnyttjande-och-nollvisionen-for-dodligt-vald-mot-kvinnor/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff om en ny nationell strategi mot våld, förtryck och utnyttjande den 14 april 2026 (pdf 465 kB)",
+                "url": "/contentassets/0b3dc740f73e4d29bef3121c7232a478/presentationsbilder-fran-presstraff-om-en-ny-nationell-strategi-mot-vald-fortryck-och-utnyttjande-den-14-april-2026.pdf"
+            }
+        ],
+        "categories": [
+            "1220",
+            "1239",
+            "2403",
+            "2671"
+        ]
+    },
+    {
+        "title": "Lokal fördelning av satsningar i vårbudgeten för 2026",
+        "url": "/pressmeddelanden/2026/04/lokal-fordelning-av-satsningar-i-varbudgeten-for-2026/",
+        "published": "2026-04-14",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "Den 13 april överlämnade regeringen vårbudgeten för 2026 till riksdagen. Här presenteras en lokal fördelning av satsningarna i budgeten. Fördelningen redovisas per län.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:99 Vårändringsbudget för 2026",
+                "url": "/rattsliga-dokument/proposition/2026/04/prop.-20252699"
+            },
+            {
+                "name": "Pressmeddelande: En vårbudget för att stärka och skydda svensk ekonomiWebb-TV",
+                "url": "/pressmeddelanden/2026/04/en-varbudget-for-att-starka-och-skydda-svensk-ekonomi/"
+            },
+            {
+                "name": "Artikel: Vårbudgeten 2026 på fem minuterWebb-TV",
+                "url": "/artiklar/2026/04/varbudgeten-2026-pa-fem-minuter/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Blekinge län (pdf 130 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/blekinge-lan.pdf"
+            },
+            {
+                "name": "Blekinge län 2023–2026 (pdf 228 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/blekinge-lan-20232026.pdf"
+            },
+            {
+                "name": "Dalarnas län (pdf 128 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/dalarnas-lan.pdf"
+            },
+            {
+                "name": "Dalarnas län 2023–2026 (pdf 256 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/dalarnas-lan-20232026.pdf"
+            },
+            {
+                "name": "Gotlands län (pdf 128 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/gotlands-lan.pdf"
+            },
+            {
+                "name": "Gotlands län 2023–2026 (pdf 219 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/gotlands-lan-20232026.pdf"
+            },
+            {
+                "name": "Gävleborgs län (pdf 129 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/gavleborgs-lan.pdf"
+            },
+            {
+                "name": "Gävleborgs län 2023–2026 (pdf 243 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/gavleborgs-lan-20232026.pdf"
+            },
+            {
+                "name": "Hallands län (pdf 130 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/hallands-lan.pdf"
+            },
+            {
+                "name": "Hallands län 2023–2026 (pdf 233 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/hallands-lan-20232026.pdf"
+            },
+            {
+                "name": "Jämtlands län (pdf 127 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/jamtlands-lan.pdf"
+            },
+            {
+                "name": "Jämtlands län 2023–2026 (pdf 263 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/jamtlands-lan-20232026.pdf"
+            },
+            {
+                "name": "Jönköpings län (pdf 130 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/jonkopings-lan.pdf"
+            },
+            {
+                "name": "Jönköpings län 2023–2026 (pdf 252 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/jonkopings-lan-20232026.pdf"
+            },
+            {
+                "name": "Kalmar län (pdf 130 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/kalmar-lan.pdf"
+            },
+            {
+                "name": "Kalmar län 2023–2026 (pdf 244 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/kalmar-lan-20232026.pdf"
+            },
+            {
+                "name": "Kronobergs län (pdf 130 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/kronobergs-lan.pdf"
+            },
+            {
+                "name": "Kronobergs län 2023–2026 (pdf 235 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/kronobergs-lan-20232026.pdf"
+            },
+            {
+                "name": "Norrbottens län (pdf 132 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/norrbottens-lan.pdf"
+            },
+            {
+                "name": "Norrbottens län 2023–2026 (pdf 252 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/norrbottens-lan-20232026.pdf"
+            },
+            {
+                "name": "Skåne län (pdf 132 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/skane-lan.pdf"
+            },
+            {
+                "name": "Skåne län 2023–2026 (pdf 300 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/skane-lan-20232026.pdf"
+            },
+            {
+                "name": "Stockholms län (pdf 134 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/stockholms-lan.pdf"
+            },
+            {
+                "name": "Stockholms län 2023–2026 (pdf 284 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/stockholms-lan-20232026.pdf"
+            },
+            {
+                "name": "Södermanlands län (pdf 130 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/sodermanlands-lan.pdf"
+            },
+            {
+                "name": "Södermanlands län 2023–2026 (pdf 239 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/sodermanlands-lan-20232026.pdf"
+            },
+            {
+                "name": "Uppsala län (pdf 130 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/uppsala-lan.pdf"
+            },
+            {
+                "name": "Uppsala län 2023–2026 (pdf 233 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/uppsala-lan-20232026.pdf"
+            },
+            {
+                "name": "Värmlands län (pdf 131 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/varmlands-lan.pdf"
+            },
+            {
+                "name": "Värmlands län 2023–2026 (pdf 253 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/varmlands-lan-20232026.pdf"
+            },
+            {
+                "name": "Västerbottens län (pdf 130 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/vasterbottens-lan.pdf"
+            },
+            {
+                "name": "Västerbottens län 2023–2026 (pdf 251 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/vasterbottens-lan-20232026.pdf"
+            },
+            {
+                "name": "Västernorrlands län (pdf 128 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/vasternorrlands-lan.pdf"
+            },
+            {
+                "name": "Västernorrlands län 2023–2026 (pdf 231 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/vasternorrlands-lan-20232026.pdf"
+            },
+            {
+                "name": "Västmanlands län (pdf 128 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/vastmanlands-lan.pdf"
+            },
+            {
+                "name": "Västmanlands län 2023–2026 (pdf 239 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/vastmanlands-lan-20232026.pdf"
+            },
+            {
+                "name": "Västra Götalands län (pdf 135 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/vastra-gotalands-lan.pdf"
+            },
+            {
+                "name": "Västra Götalands län 2023–2026 (pdf 346 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/vastra-gotalands-lan-20232026.pdf"
+            },
+            {
+                "name": "Örebro län (pdf 129 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/orebro-lan.pdf"
+            },
+            {
+                "name": "Örebro län 2023–2026 (pdf 246 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/orebro-lan-20232026.pdf"
+            },
+            {
+                "name": "Östergötlands län (pdf 132 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/ostergotlands-lan.pdf"
+            },
+            {
+                "name": "Östergötlands län 2023–2026 (pdf 249 kB)",
+                "url": "/contentassets/627515767fa14191b0b7d56498efbd24/ostergotlands-lan-20232026.pdf"
+            }
+        ],
+        "categories": [
+            "1232",
+            "2092",
+            "2212"
+        ]
+    },
+    {
+        "title": "Nytt uppdrag om flyttstöd för att göra det enklare att flytta till arbete",
+        "url": "/pressmeddelanden/2026/04/nytt-uppdrag-om-flyttstod-for-att-gora-det-enklare-att-flytta-till-arbete/",
+        "published": "2026-04-14",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2792",
+            "1284"
+        ],
+        "summary": "Regeringen ger Arbetsförmedlingen i uppdrag att ta fram förslag på ett nytt flyttstöd som kan göra det lättare för arbetslösa att ta jobb i andra delar av landet. Syftet är att fler arbetslösa ska kunna ta ett arbete i regioner där efterfrågan på arbetskraft är hög.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Personer som reser till arbetsintervjuer eller arbetsmarknadsutbildningar ska få högre ersättning",
+                "url": "/pressmeddelanden/2024/11/personer-som-reser-till-arbetsintervjuer-eller-arbetsmarknadsutbildningar-ska-fa-hogre-ersattning/"
+            },
+            {
+                "name": "Pressmeddelande: Ökad geografisk och yrkesmässig rörlighet i fokus för nytt regeringsuppdrag",
+                "url": "/pressmeddelanden/2025/03/okad-geografisk-och-yrkesmassig-rorlighet-i-fokus-for-nytt-regeringsuppdrag/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1213"
+        ]
+    },
+    {
+        "title": "Pressträff om åtgärder mot välfärdsbrottslighet",
+        "url": "/pressmeddelanden/2026/04/presstraff-om-atgarder-mot-valfardsbrottslighet/",
+        "published": "2026-04-14",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2609",
+            "2792",
+            "1284",
+            "1292"
+        ],
+        "summary": "Onsdag den 15 april bjuder äldre- och socialförsäkringsminister Anna Tenje, arbetsmarknadsminister Johan Britz och Hans Eklind, ekonomiskpolitisk talesperson för Kristdemokraterna, in till en pressträff. På pressträffen presenteras en nyhet om åtgärder för att stoppa bidragsbrottslighet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1269",
+            "2690",
+            "2688"
+        ]
+    },
+    {
+        "title": "Nya rapporter: studenter har svårare att ta till sig kunskap genom kurslitteratur",
+        "url": "/pressmeddelanden/2026/04/nya-rapporter-studenter-har-svarare-att-ta-till-sig-kunskap-genom-kurslitteratur/",
+        "published": "2026-04-14",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2620",
+            "1294"
+        ],
+        "summary": "Många lärare i högskolan upplever att studenternas läs- och skrivkompetens i svenska har försämrats. Dessutom är det allt fler studenter som använder alternativa kunskapskällor där AI-verktyg ersätter traditionell läsning av kurslitteratur. Det är några av slutsatserna i rapporter som SCB och UKÄ nyligen presenterat.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Rapport från SCB: Läsförståelse bland studenter i högskolan- extern webbplats,",
+                "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/utbildning-samt-forskning-inom-hogskolan/befolkningens-utbildning-och-studiedeltagande/analyser-och-statistik-om-befolkningens-utbildning/pong/publikationer/lasforstaelse-bland-studenter-i-hogskolan/"
+            },
+            {
+                "name": "Rapport från UKÄ: Ny kartläggning om hur studenterna använder kurslitteratur- extern webbplats,",
+                "url": "https://www.uka.se/om-oss/nyheter/nyhetsartiklar/2026-04-01-ny-kartlaggning-om-hur-studenterna-anvander-kurslitteratur?link_id=cc477cf6-a65a-4a19-b4b6-80946cc5006d&ln_id=ln_6cjLNBNxkkJQGCg2ujxr0"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1277"
+        ]
+    },
+    {
         "title": "Regeringen går vidare med nya lagar om elsystemet",
         "url": "/pressmeddelanden/2026/04/regeringen-gar-vidare-med-nya-lagar-om-elsystemet/",
         "published": "2026-04-13",
