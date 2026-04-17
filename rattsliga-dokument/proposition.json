@@ -1,5 +1,112 @@
 [
     {
+        "title": "Nya krav på interoperabilitet vid datadelning inom den offentliga förvaltningen",
+        "url": "/rattsliga-dokument/proposition/2026/04/prop.-202526244",
+        "published": "2026-04-16",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "I regeringens digitaliseringsstrategi för 2025–2030 finns målet att Sverige ska ha en offentlig förvaltning som förenklar och bidrar till bl.a. minskad administration genom användarvänliga, säkra och trygga digitala tjänster som effektiviseras med hjälp av AI- och datadriven utveckling. Där anges också att den offentliga förvaltningen ska använda data för att driva innovation och förbättra samhällsnytta. I regeringens AI-strategi finns bl.a. målet att AI ska användas och utvecklas för att driva samhällsnytta. Det anges även att förvaltningen behöver öka sin förmåga att arbeta datadrivet och att dela data. För att uppnå de politiska målen på området digital förvaltning behöver datadelningen inom den offentliga förvaltningen effektiviseras.",
+        "id": "Prop. 2025/26:244",
+        "shortcuts": [
+            {
+                "name": "Utvecklad reglering och styrning av interoperabilitet vid datadelning inom den offentliga förvaltningen och från den offentliga förvaltningen till externa aktörer",
+                "url": "/rattsliga-dokument/kommittedirektiv/2022/07/dir.-2022118"
+            },
+            {
+                "name": "En reform för datadelning",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2023/12/sou-202396/"
+            },
+            {
+                "name": "Remissinstanser för SOU 2023:96 En reform för datadelning",
+                "url": "/remisser/2024/02/remiss-av-sou-202396-en-reform-for-datadelning/"
+            },
+            {
+                "name": "Nya krav på interoperabilitet vid datadelning inom den offentliga förvaltningen",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/03/nya-krav-pa-interoperabilitet-vid-datadelning-inom-den-offentliga-forvaltningen/"
+            },
+            {
+                "name": "Pressmeddelande: Bättre datakvalitet och förenklad datadelning i offentlig förvaltning",
+                "url": "/pressmeddelanden/2026/04/battre-datakvalitet-och-forenklad-datadelning-i-offentlig-forvaltning/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Nya krav på interoperabilitet vid datadelning inom den offentliga förvaltningen, Prop 2025/26:244 (pdf 480 kB)",
+                "url": "/contentassets/481265c30a7c489cbf2004fa5183dd71/nya-krav-pa-interoperabilitet-vid-datadelning-inom-den-offentliga-forvaltningen-prop-202526244/"
+            }
+        ],
+        "categories": [
+            "1238",
+            "2790",
+            "2807"
+        ]
+    },
+    {
+        "title": "Skärpta regler för unga lagöverträdare",
+        "url": "/rattsliga-dokument/proposition/2026/04/prop.-202526246",
+        "published": "2026-04-16",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "Den systematiska och organiserade brottsligheten har de senaste åren kommit\natt påverka allt fler delar av samhället. Den allvarliga brottsligheten bland unga utmärker sig särskilt och tränger allt längre ner i åldrarna. För att säkerställa att lagstiftningen möter det behov som föranleds av denna brottsutveckling samt för att upprätthålla det straffrättsliga systemets trovärdighet och legitimitet behöver reglerna för unga lagöverträdare skärpas.",
+        "id": "Prop. 2025/26:246",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Skärpta regler för unga lagöverträdare, Prop. 2025/26:246 (pdf 2 MB)",
+                "url": "/contentassets/c776976adafb4f6890297223ae109e4e/skarpta-regler-for-unga-lagovertradare-prop.-202526246.pdf"
+            }
+        ],
+        "categories": [
+            "1263",
+            "2710"
+        ]
+    },
+    {
+        "title": "Ett tydligt regelverk för aktivt skogsbruk",
+        "url": "/rattsliga-dokument/proposition/2026/04/prop.-202526242",
+        "published": "2026-04-16",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "2425",
+            "1296"
+        ],
+        "summary": "I propositionen gör regeringen bedömningen att kopplingen i förordningen\nom anmälan för samråd mellan en avverkningsanmälan enligt skogsvårdslagen och en anmälan för samråd enligt miljöbalken bör tas bort. Samrådsskyldigheten enligt miljöbalken ska gälla för skogsbruksåtgärder enligt skogsvårdslagen endast i de fall regeringen bestämmer det i föreskrifter.",
+        "id": "Prop. 2025/26:242",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen går vidare med ett tydligt regelverk för ett aktivt skogsbruk",
+                "url": "/pressmeddelanden/2026/04/regeringen-gar-vidare-med-ett-tydligt-regelverk-for-ett-aktivt-skogsbruk/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Ett tydligt regelverk för aktivt skogsbruk, Prop. 2025/26:242 (pdf 906 kB)",
+                "url": "/contentassets/21632c8e2dab4000af79490c6ab1278c/prop.-202526-242-ett-tydligt-regelverk-for-aktivt-skogsbruk.pdf"
+            }
+        ],
+        "categories": [
+            "1243"
+        ]
+    },
+    {
         "title": "Lagändringar för ett stärkt nationellt cybersäkerhetscenter",
         "url": "/rattsliga-dokument/proposition/2026/04/prop.-202526214",
         "published": "2026-04-15",

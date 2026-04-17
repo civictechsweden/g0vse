@@ -1,0 +1,7 @@
+# Utökade befogenheter för Skatteverket inom folkbokföringsverksamheten
+
+Regeringen föreslår att ett nytt brott ska införas: främjande av oriktig folkbokföring. Straffansvar ska inträda när någon genom en uppsåtlig handling i väsentlig mån främjar att en oriktig uppgift kan läggas till grund för beslut om folkbokföring. Det ska också krävas att personen har vidtagit gärningen i syfte att bereda sig själv eller någon annan vinning, eller i syfte att möjliggöra annan brottslighet än folkbokföringsbrott. Även det straffria området för ringa folkbokföringsbrott ska utvidgas.
+
+Regeringen föreslår även utvidgade möjligheter för Skatteverket att behandla biometriska uppgifter i folkbokföringsverksamheten. Skatteverket ska registrera fingeravtryck och ansiktsbild samt de biometriska uppgifter som tas fram ur dessa för en person i folkbokföringen respektive en person som tilldelas ett samordningsnummer. Skatteverket och Migrationsverket ska få jämföra fingeravtryck och ansiktsbild med motsvarande uppgifter som finns i den andra myndighetens register. Polismyndigheten ska i den brottsbekämpande verksamheten få jämföra ansiktsbilder och fingeravtryck med uppgifter som har registrerats hos Skatteverket. Regeringen föreslår också att passmyndigheterna, i ärenden om samordningsnummer, ska få jämföra fingeravtryck och ansiktsbild med de uppgifter som finns hos Skatteverket.
+
+Lagändringarna föreslås träda i kraft den 1 december 2026.
