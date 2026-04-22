@@ -1,0 +1,13 @@
+# Utrikesminister Maria Malmer Stenergard deltar i EU:s utrikesministermöte
+
+– Rysslands ekonomi är pressad och EU:s sanktioner har tydlig effekt. Dessutom är de ryska militära förlusterna i Ukraina enorma. Tiden är inte på Rysslands sida. Fler måste nu göra mer för att stötta Ukraina och sätta press på Ryssland. Det är angeläget att EU så snabbt som möjligt kan betala ut 90-miljarderslånet till stöd för Ukraina och fatta beslut om ytterligare sanktioner genom det 20:e sanktionspaketet. Ryssland är svagt och ökad press är enda vägen framåt för att få Ryssland ta fredsförhandlingarna på allvar, säger utrikesminister Maria Malmer Stenergard.
+
+Den andra diskussionspunkten på mötet rör situationen i Mellanöstern.
+
+- Utvecklingen i Mellanöstern är allvarlig och påverkar även Sverige och Europa. Alla aktörer måste respektera folkrätten, inklusive fri sjöfart, och bidra till minskade spänningar. Den bräckliga vapenvilan i Iran går snart ut, och nu behövs långsiktiga lösningar för att värna säkerheten i regionen, säkra livsviktiga globala leveranskedjor och skydda oskyldiga civila. Situationen i Libanon, med förödande konsekvenser för befolkningen är mycket oroande och Israel och Hizbollah behöver acceptera ett omedelbart eldupphör. Samtidigt är situationen i Gaza fortsatt akut och bosättarvåldet på Västbanken måste upphöra, säger utrikesminister Maria Malmer Stenergard.
+
+– Rysslands ekonomi är pressad och EU:s sanktioner har tydlig effekt. Dessutom är de ryska militära förlusterna i Ukraina enorma. Tiden är inte på Rysslands sida. Fler måste nu göra mer för att stötta Ukraina och sätta press på Ryssland. Det är angeläget att EU så snabbt som möjligt kan betala ut 90-miljarderslånet till stöd för Ukraina och fatta beslut om ytterligare sanktioner genom det 20:e sanktionspaketet. Ryssland är svagt och ökad press är enda vägen framåt för att få Ryssland ta fredsförhandlingarna på allvar, säger utrikesminister Maria Malmer Stenergard.
+
+Den andra diskussionspunkten på mötet rör situationen i Mellanöstern.
+
+- Utvecklingen i Mellanöstern är allvarlig och påverkar även Sverige och Europa. Alla aktörer måste respektera folkrätten, inklusive fri sjöfart, och bidra till minskade spänningar. Den bräckliga vapenvilan i Iran går snart ut, och nu behövs långsiktiga lösningar för att värna säkerheten i regionen, säkra livsviktiga globala leveranskedjor och skydda oskyldiga civila. Situationen i Libanon, med förödande konsekvenser för befolkningen är mycket oroande och Israel och Hizbollah behöver acceptera ett omedelbart eldupphör. Samtidigt är situationen i Gaza fortsatt akut och bosättarvåldet på Västbanken måste upphöra, säger utrikesminister Maria Malmer Stenergard.
