@@ -1,0 +1,13 @@
+# Parisa Liljestrand deltar vid Stockholm Music Week
+
+– Jag är glad att få delta vid den första upplagan av Stockholm Music Week. Sverige är en av världens största nettoexportörer av musik, samtidigt som Stockholm är hem för ett världsledande nav för låtskrivande, musikproduktion och musikteknik. Jag tror och hoppas att Stockholm Music Week blir en självklar internationell mötesplats för musikens framtid, säger kulturminister Parisa Liljestrand.
+
+Regeringen stödjer musiklivet och svenska musiker på flera sätt. Genom våra statliga myndigheter Statens kulturråd och Konstnärsnämnden fördelas bland annat bidrag till musiker, musikskapande och musikverksamheter i hela landet. Regeringen stödjer även kulturskolorna, som spelar en central roll för barns och ungas möjlighet att utvecklas inom musik och andra konstformer. Under 2024 presenterade regeringen en strategi för företag inom de kulturella och kreativa branscherna, där musikbranschen är en central del. Ett av huvudmålen är att stärka Sveriges internationella genomslag och öka exporten från sektorn.
+
+Genom musikexportpriset uppmärksammar regeringen varje år insatser inom musikbranschen som under det gångna året riktat strålkastarljuset mot Sverige och därmed bidragit till både svensk export och den moderna Sverigebilden i utlandet. Regeringens musikexportpris för 2025 delas ut den 23 april.
+
+– Jag är glad att få delta vid den första upplagan av Stockholm Music Week. Sverige är en av världens största nettoexportörer av musik, samtidigt som Stockholm är hem för ett världsledande nav för låtskrivande, musikproduktion och musikteknik. Jag tror och hoppas att Stockholm Music Week blir en självklar internationell mötesplats för musikens framtid, säger kulturminister Parisa Liljestrand.
+
+Regeringen stödjer musiklivet och svenska musiker på flera sätt. Genom våra statliga myndigheter Statens kulturråd och Konstnärsnämnden fördelas bland annat bidrag till musiker, musikskapande och musikverksamheter i hela landet. Regeringen stödjer även kulturskolorna, som spelar en central roll för barns och ungas möjlighet att utvecklas inom musik och andra konstformer. Under 2024 presenterade regeringen en strategi för företag inom de kulturella och kreativa branscherna, där musikbranschen är en central del. Ett av huvudmålen är att stärka Sveriges internationella genomslag och öka exporten från sektorn.
+
+Genom musikexportpriset uppmärksammar regeringen varje år insatser inom musikbranschen som under det gångna året riktat strålkastarljuset mot Sverige och därmed bidragit till både svensk export och den moderna Sverigebilden i utlandet. Regeringens musikexportpris för 2025 delas ut den 23 april.
