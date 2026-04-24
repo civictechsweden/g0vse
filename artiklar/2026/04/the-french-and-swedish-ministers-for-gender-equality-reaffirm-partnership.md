@@ -1,0 +1,17 @@
+# Jämställdhetsministrar återbekräftar partnerskap för att bekämpa människohandel för sexuell exploatering
+
+Den 13 april träffades Frankrikes och Sveriges jämställdhetsministrar Aurore Bergé och Nina Larsson i Paris. De diskuterade sina nationella erfarenheter av att förebygga och bekämpa sexuell exploatering och återbekräftade den fransk-svenska gemensamma strategin för att bekämpa människohandel för sexuell exploatering i Europa och globalt.
+
+Genom lagstiftning i båda länderna har Frankrike och Sverige tydligt tagit ställning mot att normalisera prostitution som arbete. Den gemensamma uppfattningen är att prostitution alltid ska uppfattas som ett utnyttjande av någons sårbarhet och därför aldrig kan betraktas som ett arbete. Av denna anledning har köp av sexuella handlingar, men inte försäljning, förbjudits i båda länderna. I samband med att Frankrike uppmärksammade tioårsdagen av sin lagstiftning, som inspirerades av den svenska modellen, träffades ministrarna från båda länderna för att utbyta erfarenheter och återbekräfta den gemensamma strategin.
+
+Partnerskapet infördes 2019 och syftar till att minska efterfrågan på flickor och kvinnor inom prostitution, i Europa och globalt. Anledningen till detta är det tydliga sambandet mellan människohandel för sexuell exploatering och prostitution.
+
+Både Frankrike och Sverige är fast beslutna att främja strategier och handlingsplaner som rör myndigheter i de egna länderna för att hantera utmaningen med människohandel samt att utveckla internationellt samarbete på detta område.
+
+– Sverige har en möjlighet att lära av Frankrikes erfarenheter av att implementera exitprogram för personer som utnyttjas i prostitution, vilket de införde redan för tio år sedan kopplat till antagandet av sin lagstiftning. Våra lagar måste hålla jämna steg när gränsen mellan våra fysiska och digitala liv suddas ut. Därför har köp av sexuella handlingar som utförs på distans nyligen kriminaliserats i Sverige. Bestämmelsen har ändrats för att omfatta sexuella handlingar som utförs i den digitala världen, säger Sveriges jämställdhetsminister Nina Larsson.
+
+– Prostitution är inte det äldsta yrket i världen; det är ett av de äldsta systemen för dominans och exploatering av kvinnor. Bakom till synes vanliga fasader, digitala plattformar och berättelser om frihet eller autonomi förblir verkligheten densamma: kvinnor och flickor – ofta allt yngre – vars kroppar behandlas som resurser som ska exploateras, kontrolleras och monetiseras, säger den franska ministern Aurore Bergé.
+
+– Inför transnationella kriminella nätverk och föränderliga former av rekrytering och sexuell exploatering online är det absolut nödvändigt att bygga en stark koalition av stater, i Europa och internationellt, förenade av en gemensam vision: att prostitution utgör exploatering av mänsklig sårbarhet. Frankrike och Sverige bekräftar ett gemensamt åtagande att främja den abolitionistiska modellen, som skyddar personer i prostitution genom att avkriminalisera deras handlingar, samtidigt som de som skapar efterfrågan genom att köpa sexuella handlingar hålls ansvariga, fortsätter den franska ministern Aurore Bergé.
+
+Under besöket i Paris höll Sveriges jämställdhetsminister också ett tal i franska nationalförsamlingen och träffade Frankrikes FN-ambassadör för mänskliga rättigheter Isabelle Lonvis-Rome samt företrädare för franska och svenska civilsamhällesorganisationer.

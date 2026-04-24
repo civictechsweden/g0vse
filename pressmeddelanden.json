@@ -1,5 +1,622 @@
 [
     {
+        "title": "Pressinbjudan: Regeringen presenterar byggstartsbeslut för infrastruktursatsningar",
+        "url": "/pressmeddelanden/2026/04/pressinbjudan-regeringen-presenterar-byggstartsbeslut-for-infrastruktursatsningar/",
+        "published": "2026-04-24",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2611",
+            "1286",
+            "2425"
+        ],
+        "summary": "Fredag 24 april bjuder infrastruktur- och bostadsminister Andreas Carlson, minister för civilt försvar Carl-Oskar Bohlin, Martin Kinnunen (SD) och Helena Gellerman (L) in till en pressträff för att presentera byggstartbeslut för infrastruktur.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2248",
+            "1274"
+        ]
+    },
+    {
+        "title": "EU-minister Jessica Rosencrantz besöker Göteborg",
+        "url": "/pressmeddelanden/2026/04/eu-minister-jessica-rosencrantz-besoker-goteborg/",
+        "published": "2026-04-24",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2754",
+            "1293"
+        ],
+        "summary": "Sveriges och Europas konkurrenskraft står i fokus när EU-minister Jessica Rosencrantz fredag 24 april besöker Göteborg och deltar i seminariet ”Industrin – vårt bästa försvar”.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1257",
+            "1012"
+        ]
+    },
+    {
+        "title": "EU antar ett 20:e sanktionspaket mot Ryssland",
+        "url": "/pressmeddelanden/2026/04/eu-antar-ett-20e-sanktionspaket-mot-ryssland/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2621",
+            "1295"
+        ],
+        "summary": "Det 20:e sanktionspaketet innehåller omfattande åtgärder som slår mot den ryska ekonomin, inklusive mot Rysslands energiintäkter och skuggflottan. Paketet innehåller även åtgärder mot sanktionskringgående, kryptotjänster och tillgången till känslig teknologi som används på slagfältet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Sanktioner mot Ryssland",
+                "url": "/regeringens-politik/sveriges-stod-till-ukraina/sanktioner-mot-ryssland/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1279",
+            "2584",
+            "1012",
+            "1157"
+        ]
+    },
+    {
+        "title": "Naturvårdsverket ska kartlägga möjligheter till snabb utfasning av fossila bränslen vid statliga myndigheter",
+        "url": "/pressmeddelanden/2026/04/naturvardsverket-ska-kartlagga-mojligheter-till-snabb-utfasning-av-fossila-branslen-vid-statliga-myndigheter/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2792",
+            "1291"
+        ],
+        "summary": "I vårändringsbudgeten föreslår regeringen en ersättning till statliga myndigheter för att snabba på omställningen till fossilfria fordon, arbetsmaskiner och fartyg. Nu får Naturvårdsverket i uppdrag att kartlägga vilka myndigheter som med kort varsel kan ställa om till HVO100 eller elektriska alternativ.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen påskyndar elektrifiering och utfasning av fossila bränslen",
+                "url": "/pressmeddelanden/2026/03/regeringen-paskyndar-elektrifieringen-och-utfasning-av-fossila-branslen/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1252"
+        ]
+    },
+    {
+        "title": "Nytt uppdrag för att stärka skolans brottsförebyggande arbete",
+        "url": "/pressmeddelanden/2026/04/nytt-uppdrag-for-att-starka-skolans-brottsforebyggande-arbete/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "2615",
+            "2791",
+            "1287",
+            "1292",
+            "1294"
+        ],
+        "summary": "Skolan har en viktig roll i arbetet för att förebygga brott. Därför ger regeringen nu Skolverket, Brottsförebyggande rådet (Brå) och Socialstyrelsen i uppdrag att gemensamt ta fram kunskaps- och metodstöd för brottsförebyggande arbete i skolan.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1276",
+            "1263",
+            "1268",
+            "2688"
+        ]
+    },
+    {
+        "title": "Regeringen inrättar ett nationellt center för återtagande av brottsvinster",
+        "url": "/pressmeddelanden/2026/04/regeringen-inrattar-ett-nationellt-center-for-atertagande-av-brottsvinster/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen ger Ekobrottsmyndigheten, Kronofogdemyndigheten, Polismyndigheten, Skatteverket, Tullverket och Åklagarmyndigheten i uppdrag att fördjupa sin samverkan för att växla upp arbetet mot den kriminella ekonomin. Som en del av uppdraget ska Polismyndigheten inrätta ett nationellt center för samverkan.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Nationell strategi mot organiserad brottslighet",
+                "url": "/regeringens-politik/nationell-strategi-mot-organiserad-brottslighet/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1263",
+            "2690",
+            "2688",
+            "2710"
+        ]
+    },
+    {
+        "title": "Christina Nilsson får regeringens musikexportpris 2025",
+        "url": "/pressmeddelanden/2026/04/christina-nilsson-far-regeringens-musikexportpris-2025/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2756",
+            "1295"
+        ],
+        "summary": "Bistånds- och utrikeshandelsminister Benjamin Dousa har delat ut regeringens musikexportpris till Christina Nilsson. Regeringens hederspris tilldelades The Hives och regeringens hedersomnämnande tilldelades produktionsbolaget MXM för Projektet Taylor Swift.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Musikexportpriset",
+                "url": "/regeringens-politik/musikexportpriset/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1235",
+            "1242",
+            "1257",
+            "2303",
+            "1013"
+        ]
+    },
+    {
+        "title": "Civilminister Erik Slottner besöker Södertälje",
+        "url": "/pressmeddelanden/2026/04/civilminister-erik-slottner-besoker-sodertalje/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2614",
+            "1285"
+        ],
+        "summary": "Fredag den 24 april besöker civilminister Erik Slottner Södertälje för att ta del av kommunens vård- och omsorgsarbete samt diskutera samhällsutmaningar med lokala representanter.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2092"
+        ]
+    },
+    {
+        "title": "Sjukvårdsministern besöker Västra Götalandsregionen",
+        "url": "/pressmeddelanden/2026/04/sjukvardsministern-besoker-vastra-gotalandsregionen/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2795",
+            "1292"
+        ],
+        "summary": "Fredag den 24 april besöker sjukvårdsminister Elisabet Lann Alingsås lasarett. Ministern kommer bland annat att ta del av hur sjukhuset arbetar för effektiva operationsflöden.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1233",
+            "2693",
+            "2688"
+        ]
+    },
+    {
+        "title": "Migrationsminister Johan Forssells resa till Etiopien",
+        "url": "/pressmeddelanden/2026/04/migrationsminister-johan-forssells-resa-till-etiopien/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2618",
+            "1287"
+        ],
+        "summary": "Den 21–22 april reste Johan Forssell till Addis Abeba för att fördjupa samarbetet med etiopiska myndigheter för ett ökat återvändande och talangfrämjande. Under hans vistelse träffade statsrådet Etiopiens utrikesminister, statssekreterare för Etiopiens justitiedepartement samt statssekreteraren med ansvar för arbetsmarknadsfrågor. Migrationsministern träffade också ansvariga myndigheter inom, återvändande, mottagande och flyktingfrågor.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1249"
+        ]
+    },
+    {
+        "title": "Regeringens utvärdering av statens upplåning och skuldförvaltning överlämnad till riksdagen",
+        "url": "/pressmeddelanden/2026/04/regeringens-utvardering-av-statens-upplaning-och-skuldforvaltning-overlamnad-till-riksdagen/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2623",
+            "1285"
+        ],
+        "summary": "Regeringen har överlämnat en skrivelse till riksdagen med utvärdering av statens upplåning och skuldförvaltning under perioden 2021–2025. Sammantaget bedömer regeringen att både regeringens riktlinjer och Riksgäldskontorets operativa förvaltning och tillämpning av riktlinjerna i allt väsentligt har legat i linje med målet för statsskuldspolitiken.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Skr. 2025/26:104 Utvärdering av statens upplåning och skuldförvaltning 2021–2025",
+                "url": "/rattsliga-dokument/skrivelse/2026/04/skr.-202526104"
+            },
+            {
+                "name": "Pressmeddelande: Riktlinjer för statsskuldens förvaltning 2026",
+                "url": "/pressmeddelanden/2025/11/riktlinjer-for-statsskuldens-forvaltning-2026/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1231"
+        ]
+    },
+    {
+        "title": "Analys ska göras av Statens museer för världskulturs lokalsituation och verksamhet",
+        "url": "/pressmeddelanden/2026/04/analys-ska-goras-av-statens-museer-for-varldskulturs-lokalsituation-och-verksamhet/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2624",
+            "1288"
+        ],
+        "summary": "Regeringen har i dag beslutat om två uppdrag som rör Statens museer för världskultur (SMVK). SMVK får i uppdrag att, i samråd med Statens fastighetsverk, beskriva och analysera sin lokalsituation och framtida behov av lokaler. Statskontoret ges samtidigt i uppdrag att utföra en myndighetsanalys av SMVK.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1242"
+        ]
+    },
+    {
+        "title": "Uppdrag ska tydliggöra veterinärpriser",
+        "url": "/pressmeddelanden/2026/04/uppdrag-ska-tydliggora-veterinarpriser/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2626",
+            "2425"
+        ],
+        "summary": "Regeringen ger Konsumentverket i uppdrag att utreda förutsättningarna för att träffa en branschöverenskommelse med vårdgivare inom djursjukvården om publicering av prisinformation för vanligt förekommande åtgärder och behandlingar. Myndigheten får också i uppdrag att genomföra insatser för bättre prisinformation. Syftet är att förbättra tillgänglig prisinformation för vanligt förekommande åtgärder och behandlingar på vårdgivares webbplatser och på plats på klinker och djursjukhus.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringsuppdrag: Uppdrag till Konkurrensverket att kartlägga pristransparensen inom marknaden för djurens hälso-och sjukvård samt att utreda hur denna påverkar prisbildningen och kostnadsutvecklingen inom djurens hälso-och sjukvård",
+                "url": "/regeringsuppdrag/2025/03/uppdrag-till-konkurrensverket-att-kartlagga-pristransparensen-inom-marknaden-for-djurens-halso-och-sjukvard-samt-att-utreda-hur-denna-paverkar-prisbildningen-och-kostnadsutvecklingen-inom-djurens-halso-och-sjukvard/?_t_id=4iSUj0GxFM3xmJ0VJbAGgA%3d%3d&_t_uuid=DstzEDPUTWGWN-NM8rJwkg&_t_q=veterin%c3%a4r+priser&_t_tags=siteid:c5a774ab-a6e3-4456-8f59-3bde614ae911,language:sv,andquerymatch&_t_hit.id=RKWeb_Features_StandardPage_StandardPage/_ef1964d6-427c-4caf-89a4-70aab7097736_sv&_t_hit.pos=1"
+            },
+            {
+                "name": "Konkurrensverkets rapport: Åtgärder för att förbättra pristransparensen inom djursjukvården- extern webbplats,",
+                "url": "https://www.konkurrensverket.se/informationsmaterial/rapportlista/atgarder-for-att-forbattra-pristransparensen-inom-djursjukvarden/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1243"
+        ]
+    },
+    {
+        "title": "Tornedalsteatern ska öka synligheten och kunskapen kring tornedalingar, kväner och lantalaiset",
+        "url": "/pressmeddelanden/2026/04/tornedalsteatern-ska-oka-synligheten-och-kunskapen-kring-tornedalingar-kvaner-och-lantalaiset/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2624",
+            "1288"
+        ],
+        "summary": "Regeringen har beslutat att bevilja Tornedalsteatern 500 000 kronor i syfte att öka synligheten och kunskapen kring tornedalingar, kväner och lantalaiset. Medlen ska användas till projektet Näkyvyys – Synlighet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Om Tornedalsteatern på tornedalsteatern.se- extern webbplats,",
+                "url": "https://www.tornedalsteatern.se/om-oss/"
+            },
+            {
+                "name": "Regeringens arbete med försoningsprocessen med tornedalingar, kväner och lantalaiset",
+                "url": "/regeringens-politik/nationella-minoriteter/regeringens-arbete-med-forsoningsprocessen-med-tornedalingar-kvaner-och-lantalaiset/"
+            },
+            {
+                "name": "Pressmeddelande: Tornedalsteatern får medel för kunskapshöjande insatser om tornedalingar, kväner och lantalaiset",
+                "url": "/pressmeddelanden/2025/02/tornedalsteatern-far-medel-for-kunskapshojande-insatser-om-tornedalingar-kvaner-och-lantalaiset/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1219",
+            "1242",
+            "2539"
+        ]
+    },
+    {
+        "title": "Regeringen föreslår hårdare tag mot fusk med färdskrivare",
+        "url": "/pressmeddelanden/2026/04/regeringen-foreslar-hardare-tag-mot-fusk-med-fardskrivare/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2425"
+        ],
+        "summary": "Regeringen har lämnat över en proposition till riksdagen med förslag om att införa en ny lag med åtgärder mot fusk och manipulation av färdskrivare.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Proposition: Kraftfullare åtgärder mot manipulation och allvarligt missbruk av färdskrivare",
+                "url": "/rattsliga-dokument/proposition/2026/04/prop.202526256"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1274"
+        ]
+    },
+    {
+        "title": "30 miljoner kronor i tilläggsbidrag till regionala flygplatser",
+        "url": "/pressmeddelanden/2026/04/30-miljoner-kronor-i-tillaggsbidrag-till-regionala-flygplatser/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2425"
+        ],
+        "summary": "Regeringen har beslutat att ge Trafikverket i uppdrag att fördela och betala ut ett tilläggsbidrag om totalt 30 miljoner kronor till kommuner med icke-statliga flygplatser. Syftet är att stärka förutsättningarna för driften av de regionala flygplatserna, bland annat till följd av ökade kostnader för flygtrafikledningen. Regeringen bedömer att åtgärden kommer att bidra till god tillgänglighet, ett fungerande transportsystem och ökad beredskaps- och totalförsvarsförmåga i hela landet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1274"
+        ]
+    },
+    {
+        "title": "Nya lagförslag kring tillsyn av banker",
+        "url": "/pressmeddelanden/2026/04/nya-lagforslag-kring-tillsyn-av-banker/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2623",
+            "1285"
+        ],
+        "summary": "Regeringen har i en proposition lämnat förslag på anpassningar i svensk lagstiftning med anledning av ändringar i EU:s kapitaltäckningsdirektiv. Ändringarna innebär nya tillsynsregler för banker, kreditmarknadsföretag, mycket stora värdepappersbolag och vissa holdingföretag.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:253 EU:s bankpaket",
+                "url": "/rattsliga-dokument/proposition/2026/04/prop.-202526253"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1231",
+            "1012"
+        ]
+    },
+    {
+        "title": "Ny ambassadör i Indien",
+        "url": "/pressmeddelanden/2026/04/ny-ambassador-i-indien/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Regeringen har i dag utsett Petra Menander till ambassadör i New Delhi.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1013",
+            "1078"
+        ]
+    },
+    {
+        "title": "Ny ambassadör i Zambia",
+        "url": "/pressmeddelanden/2026/04/ny-ambassador-i-zambia/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Regeringen har i dag utsett Per-Ola Mattsson till ambassadör i Lusaka.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1013",
+            "1208"
+        ]
+    },
+    {
+        "title": "Ny ambassadör i Tanzania",
+        "url": "/pressmeddelanden/2026/04/ny-ambassador-i-tanzania/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Regeringen har i dag utsett Ingrid Johansson till ambassadör i Dar es Salaam.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1013",
+            "1185"
+        ]
+    },
+    {
+        "title": "Ny ambassadör i Uzbekistan",
+        "url": "/pressmeddelanden/2026/04/ny-ambassador-i-uzbekistan/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Regeringen har i dag utsett Martin Rosén till ambassadör i Tasjkent, med stationering i Stockholm.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1013",
+            "1201"
+        ]
+    },
+    {
+        "title": "Pressträff med bistånds- och utrikeshandelsminister Benjamin Dousa och Sidas vikarierande generaldirektör Hanna Hellquist",
+        "url": "/pressmeddelanden/2026/04/presstraff-med-bistands--och-utrikeshandelsminister-benjamin-dousa-och-sidas-vikarierande-generaldirektor-hanna-hellquist/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2756",
+            "1295"
+        ],
+        "summary": "Måndagen 27 april håller bistånds- och utrikeshandelsminister Benjamin Dousa och Sidas vikarierande generaldirektör Hanna Hellquist en pressträff om Sveriges nya humanitära stöd för 2026.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1215",
+            "1013"
+        ]
+    },
+    {
+        "title": "Regeringen presenterar en lässtrategi för Sverige",
+        "url": "/pressmeddelanden/2026/04/regeringen-presenterar-en-lasstrategi-for-sverige2/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2624",
+            "2791",
+            "1288",
+            "1294"
+        ],
+        "summary": "Regeringen presenterar i dag den 23 april en femårig lässtrategi för Sverige. Syftet med strategin är att peka ut en riktning framåt för regeringens fortsatta arbete med att stärka läsförmågan i Sverige. I strategin redogör regeringen för sina insatser på området och för de samhällsförändringar och utmaningar Sverige står inför.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Promemoria: Sverige – Ett läsande land",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/04/sverige--ett-lasande-land/"
+            },
+            {
+                "name": "Regeringsuppdrag: Uppdrag till Mediemyndigheten att genomföra en informationsinsats om betydelsen av, och sambandet mellan, läsförmåga och medie- och informationskunnighet för att stärka samhällets motståndskraft",
+                "url": "/regeringsuppdrag/2026/04/uppdrag-till-mediemyndigheten-att-genomfora-en-informationsinsats-om-betydelsen-av-och-sambandet-mellan-lasformaga-och-medie--och-informationskunnighet-for-att-starka-samhallets-motstandskraft/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff den 23 april 2026 om lässtrategi (pdf 108 kB)",
+                "url": "/globalassets/regeringen/dokument/kulturdepartementet/presentationsbilder-fran-presstraffar/presentationsbilder-fran-presstraff-den-23-april-2026-om-lasstrategi.pdf"
+            }
+        ],
+        "categories": [
+            "1276",
+            "1242"
+        ]
+    },
+    {
+        "title": "Pressbriefing med statsminister Ulf Kristersson och finansminister Elisabeth Svantesson",
+        "url": "/pressmeddelanden/2026/04/pressbriefing-med-statsminister-ulf-kristersson-och-finansminister-elisabeth-svantesson/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2613",
+            "2605",
+            "1285",
+            "1293"
+        ],
+        "summary": "Torsdag den 23 april klockan 11.30 håller statsminister Ulf Kristersson och finansminister Elisabeth Svantesson en pressbriefing om de ekonomiska konsekvenserna av kriget i Iran och möjliga åtgärder framåt.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff den 23 april 2026 om ekonomiska konsekvenser av kriget i Iran (pdf 688 kB)",
+                "url": "/globalassets/regeringen/dokument/finansdepartementet/ppt-till-presstraffar/presentationsbilder-fran-presstraff-den-23-april-2026-om-ekonomiska-konsekvenser-av-kriget-i-iran.pdf"
+            }
+        ],
+        "categories": [
+            "1232",
+            "1279"
+        ]
+    },
+    {
+        "title": "Utrikesminister Maria Malmer Stenergard besöker Helsingborg",
+        "url": "/pressmeddelanden/2026/04/utrikesminister-maria-malmer-stenergard-besoker-helsingborg/",
+        "published": "2026-04-23",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2621",
+            "1295"
+        ],
+        "summary": "Måndag den 27 april besöker utrikesminister Maria Malmer Stenergard Helsingborg.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1279",
+            "2814"
+        ]
+    },
+    {
         "title": "Parisa Liljestrand deltar vid Stockholm Music Week",
         "url": "/pressmeddelanden/2026/04/parisa-liljestrand-deltar-vid-stockholm-music-week/",
         "published": "2026-04-22",

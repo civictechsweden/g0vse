@@ -1,0 +1,13 @@
+# Analys ska göras av Statens museer för världskulturs lokalsituation och verksamhet
+
+Statens museer för världskultur består av fyra museer; Etnografiska museet, Medelhavsmuseet och Östasiatiska museet i Stockholm samt Världskulturmuseet i Göteborg. Tidigare i år har Statens fastighetsverk aviserat en hyreshöjning på 57 procent för Etnografiska museet från och med 2027. Med anledning av detta har SMVK meddelat att hyresavtalen för Medelhavsmuseets och Östasiatiska museets lokaler, som inte från början är museibyggnader, måste sägas upp.
+
+– SMVK har under en längre tid haft utmaningar kopplade till sin lokalförsörjning, vilket påverkar myndighetens förutsättningar att bedriva verksamhet. Vår inställning har därför varit att se över alla möjligheter för att kunna hitta lösningar som är hållbara över tid och som skapar stabila och förutsägbara ramar för muséernas verksamhet. Ett gediget, utförligt och uppdaterat beslutsunderlag är en förutsättning för att ett beslut ska kunna fattas. Ytterst handlar detta om att se över att myndigheten är organiserad på ett ändamålsenligt sätt och om effekterna blev de avsedda när man bildade SMVK, säger kulturminister Parisa Liljestrand.
+
+Statens museer för världskultur och Statskontoret kommer att lämna sina redovisningar den 1 oktober 2026 respektive den 1 februari 2027. Redovisningarna kommer att utgöra viktiga beslutsunderlag för såväl regeringen som myndigheten.
+
+Statens museer för världskultur består av fyra museer; Etnografiska museet, Medelhavsmuseet och Östasiatiska museet i Stockholm samt Världskulturmuseet i Göteborg. Tidigare i år har Statens fastighetsverk aviserat en hyreshöjning på 57 procent för Etnografiska museet från och med 2027. Med anledning av detta har SMVK meddelat att hyresavtalen för Medelhavsmuseets och Östasiatiska museets lokaler, som inte från början är museibyggnader, måste sägas upp.
+
+– SMVK har under en längre tid haft utmaningar kopplade till sin lokalförsörjning, vilket påverkar myndighetens förutsättningar att bedriva verksamhet. Vår inställning har därför varit att se över alla möjligheter för att kunna hitta lösningar som är hållbara över tid och som skapar stabila och förutsägbara ramar för muséernas verksamhet. Ett gediget, utförligt och uppdaterat beslutsunderlag är en förutsättning för att ett beslut ska kunna fattas. Ytterst handlar detta om att se över att myndigheten är organiserad på ett ändamålsenligt sätt och om effekterna blev de avsedda när man bildade SMVK, säger kulturminister Parisa Liljestrand.
+
+Statens museer för världskultur och Statskontoret kommer att lämna sina redovisningar den 1 oktober 2026 respektive den 1 februari 2027. Redovisningarna kommer att utgöra viktiga beslutsunderlag för såväl regeringen som myndigheten.

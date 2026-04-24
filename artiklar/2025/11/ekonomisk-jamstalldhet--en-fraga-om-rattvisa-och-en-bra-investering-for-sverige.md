@@ -10,6 +10,12 @@ Att kvinnor har lägre livsinkomster än män får genomslag längre fram i live
 
 ## Regeringens åtgärder för att öka den ekonomiska jämställdheten
 
+### Räknesnurra för att synliggöra ekonomiska effekter av olika livsval
+
+Regeringen har gett Statistiska centralbyrån (SCB) i uppdrag att göra en förstudie kring möjligheten att ta fram en räknesnurra för jämställda livsinkomster. Ett räknesnurra kan bidra till att öka kunskapen om hur olika familjesituationer och val av arbetstider påverkar den långsiktiga ekonomiska situationen för kvinnor och män i Sverige.
+
+[Pressmeddelande: Beräkningsverktyg för att synliggöra ekonomiska effekter av olika livsval](/pressmeddelanden/2026/04/berakningsverktyg-for-att-synliggora-ekonomiska-effekter-av-olika-livsval/ "Pressmeddelande: Beräkningsverktyg för att synliggöra ekonomiska effekter av olika livsval")
+
 ### Utredning föreslår effektivare bodelning och enklare skilsmässa
 
 Regeringen har tagit emot betänkandet Bodelning och betänketid – en effektivare process. Utredningen föreslår åtgärder som ska göra bodelningsprocessen snabbare och mer välfungerande, och som motverkar ekonomiskt våld. Förslagen omfattar bland annat nya verktyg för bodelningsförrättare samt ändrade regler om betänketid för att förenkla skilsmässoprocessen.
@@ -28,7 +34,7 @@ För att stärka Sveriges ekonomi och konkurrenskraft har regeringen som uttalat
 
 Regeringen har gett Arbetsmiljöverket i fortsatt uppdrag att redovisa hur ett ökat distansarbete påverkar jämställdheten. Syftet är att belysa hur distansarbete påverkar jämställdheten i arbetslivet, inklusive arbetsmiljö och karriärmöjligheter.
 
-Även Medlingsinstitutet får ett förnyat uppdrag att göra jämställdhetsanalyser av löneinkomster. Syfte är att stärka kunskapsunderlaget om ekonomiska skillnader mellan kvinnor och män, inte bara i löner utan även i andra inkomster som påverkar individers disponibla inkomster över livet utifrån ett jämställdhetsperspektiv.
+Även Medlingsinstitutet har fått ett förnyat uppdrag att göra jämställdhetsanalyser av löneinkomster. Syfte är att stärka kunskapsunderlaget om ekonomiska skillnader mellan kvinnor och män, inte bara i löner utan även i andra inkomster som påverkar individers disponibla inkomster över livet utifrån ett jämställdhetsperspektiv.
 
 [Pressmeddelande: Förnyade uppdrag stärker arbetet för ekonomisk jämställdhet](/pressmeddelanden/2025/12/fornyade-uppdrag-starker-arbetet-for-ekonomisk-jamstalldhet/)
 
@@ -37,6 +43,12 @@ Regeringen har gett Arbetsmiljöverket i fortsatt uppdrag att redovisa hur ett �
 Pensionsgruppen har ställt sig bakom att grundskyddet inom det allmänna pensionssystemet ska ses över. Arbetsgruppen ska slutredovisa sitt arbete senast den 15 juni 2026. Regeringen har ett särskilt fokus på att följa och analysera hur skillnaden i kvinnors och mäns pension utvecklas och kommer långsiktigt att arbeta vidare för mer jämställda pensioner.
 
 [Pressmeddelande: Nästa steg i översynen av grundskyddet inom ålderspensionssystemet – arbetsgrupp utsedd för att påbörja arbetet](/pressmeddelanden/2025/07/nasta-steg-i-oversynen-av-grundskyddet-inom-alderspensionssystemet--arbetsgrupp-utsedd-for-att-paborja-arbetet/)
+
+### Flera förbättringar i föräldraförsäkringen
+
+Regeringens förslag till förändringar av föräldrapenningen i budgetpropositionen för 2024 har godkänts i riksdagen. Lagändringen innebär bland annat att antalet så kallade dubbeldagar fördubblas, att dubbeldagarna kan användas fram till att barnet är 15 månader och att föräldrar ges möjligheter att överlåta föräldrapenning, exempelvis till nära anhöriga. De nya bestämmelserna gäller sedan den 1 juli 2024.
+
+[Pressmeddelande: Flera förbättringar i föräldraförsäkringen](/pressmeddelanden/2023/12/flera-forbattringar-i-foraldraforsakringen/ "Pressmeddelande: Flera förbättringar i föräldraförsäkringen")
 
 ### Insyn och transparens – ökad jämställdhet i arbetslivet
 
