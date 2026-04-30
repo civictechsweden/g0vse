@@ -1,5 +1,119 @@
 [
     {
+        "title": "Elisabeth Svantesson till Island för nordisk-baltiskt guvernörsmöte",
+        "url": "/pressmeddelanden/2026/04/elisabeth-svantesson-till-island-for-nordisk-baltiskt-guvernorsmote/",
+        "published": "2026-04-29",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "Finansminister Elisabeth Svantesson reser till Reykjavik för nordisk-baltiskt guvernörsmöte i Världsbanken 29–30 april. Under dagarna kommer bland annat omvärldsläget, stöd till Ukraina samt jobbskapande och tillväxt i ett osäkert ekonomiskt läge att stå i fokus.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1232",
+            "1083"
+        ]
+    },
+    {
+        "title": "Parisa Liljestrand besöker Västra Götaland",
+        "url": "/pressmeddelanden/2026/04/parisa-liljestrand-besoker-vastra-gotaland/",
+        "published": "2026-04-29",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2624",
+            "1288"
+        ],
+        "summary": "Den 29 april reser kulturminister Parisa Liljestrand till Västra Götaland. Där kommer hon bland annat att besöka Film i Väst i Trollhättan, gymnasieskolan Academy X i Vara och träffa gymnasieelever samt prata om demokrati och valdeltagande på en gymnasieskola i Uddevalla.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1219",
+            "1242"
+        ]
+    },
+    {
+        "title": "Migrationsministern besöker Jönköping",
+        "url": "/pressmeddelanden/2026/04/migrationsministern-besoker-jonkoping/",
+        "published": "2026-04-29",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2618",
+            "1287"
+        ],
+        "summary": "Onsdag den 29 april reser migrationsminister Johan Forssell till Jönköping och Gnosjö. Under dagen kommer statsrådet bland annat besöka Åklagarkammaren i Jönköping och genomföra två företagsbesök.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1249",
+            "1263"
+        ]
+    },
+    {
+        "title": "Statsministern besöker Västerbotten",
+        "url": "/pressmeddelanden/2026/04/statsministern-besoker-vasterbotten/",
+        "published": "2026-04-29",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2605",
+            "1293"
+        ],
+        "summary": "Onsdag den 29 april reser statsminister Ulf Kristersson till Umeå och Skellefteå för att träffa polisstudenter och besöka ett mejeri.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1243",
+            "1257",
+            "1263",
+            "2704"
+        ]
+    },
+    {
+        "title": "Pressträff om nya verktyg för att bekämpa onlinerekryteringen av barn och unga till grov brottslighet",
+        "url": "/pressmeddelanden/2026/04/presstraff-om-nya-verktyg-for-att-bekampa-onlinerekryteringen-av-barn-och-unga-till-grov-brottslighet/",
+        "published": "2026-04-29",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "I dag bjuder justitieminister Gunnar Strömmer in till pressträff tillsammans med Pontus Andersson Garpvall (SD), ledamot i justitieutskottet, Torsten Elofsson (KD), rättspolitisk talesperson och Martin Melin (L), rättspolitisk talesperson. På pressträffen presenteras nya verktyg för att bekämpa onlinerekryteringen av barn och unga till grov brottslighet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff den 29 april 2026 om nya verktyg för att bekämpa onlinerekryteringen av barn och unga till grov brottslighet (pdf 188 kB)",
+                "url": "/globalassets/regeringen/dokument/justitiedepartementet/presentationer/2026-04/presentationsbilder-fran-presstraff-den-29-april-2026-om-nya-verktyg-for-att-bekampa-onlinerekryteringen-av-barn-och-unga-till-grov-brottslighet.pdf"
+            }
+        ],
+        "categories": [
+            "2690",
+            "2688",
+            "2710"
+        ]
+    },
+    {
         "title": "Ukraina, Nato och Mellanöstern i fokus när Maria Malmer Stenergard deltar i NB8-möte i Estland",
         "url": "/pressmeddelanden/2026/04/ukraina-nato-och-mellanostern-i-fokus-nar-maria-malmer-stenergard-deltar-i-nb8-mote-i-estland/",
         "published": "2026-04-29",
@@ -16,9 +130,11 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
+            "2435",
             "1279",
             "2707",
-            "1013"
+            "1013",
+            "1058"
         ]
     },
     {
