@@ -1,0 +1,13 @@
+# Stöd till organisationer som arbetar med att stärka undersökande journalistik och att ge stöd till utsatta journalister
+
+– Pressfriheten och det fria ordet är en fundamental del av demokratin. Regeringen ser mycket allvarligt på att journalister utsätts för våld, hot och trakasserier och det är viktigt att det finns stöd för den som utsätts. Centralt för demokratin är också att det finns oberoende och undersökande journalistik som granskar samhällets makthavare, avslöjar missförhållanden och stärker medborgarnas möjligheter att fatta välgrundade och informerade beslut, säger kulturminister Parisa Liljestrand.
+
+Stödet till Brottsofferjouren ska gå till insatser som bidrar till att fler journalister får kännedom om att Brottsofferjourens kontaktpunkt för utsatta journalister finns. Målgruppen är främst journalister, redaktioner och personer som arbetar nära journalister, men även nära anhöriga och andra som i sitt yrke möter journalister. Stödet avser verksamhet under 2026.
+
+Centrum för undersökande journalistik tilldelas samtidigt medel för att genomföra projektet Metodverktygslådan som syftar till att höja den redaktionella kapaciteten att utföra undersökande journalistik i hela landet. Projektet ska bidra till kunskapsöverföring om metoder och teknik för undersökande journalistik, samverkan med svenska lärosäten och ett närmare nordiskt samarbete på området.
+
+– Pressfriheten och det fria ordet är en fundamental del av demokratin. Regeringen ser mycket allvarligt på att journalister utsätts för våld, hot och trakasserier och det är viktigt att det finns stöd för den som utsätts. Centralt för demokratin är också att det finns oberoende och undersökande journalistik som granskar samhällets makthavare, avslöjar missförhållanden och stärker medborgarnas möjligheter att fatta välgrundade och informerade beslut, säger kulturminister Parisa Liljestrand.
+
+Stödet till Brottsofferjouren ska gå till insatser som bidrar till att fler journalister får kännedom om att Brottsofferjourens kontaktpunkt för utsatta journalister finns. Målgruppen är främst journalister, redaktioner och personer som arbetar nära journalister, men även nära anhöriga och andra som i sitt yrke möter journalister. Stödet avser verksamhet under 2026.
+
+Centrum för undersökande journalistik tilldelas samtidigt medel för att genomföra projektet Metodverktygslådan som syftar till att höja den redaktionella kapaciteten att utföra undersökande journalistik i hela landet. Projektet ska bidra till kunskapsöverföring om metoder och teknik för undersökande journalistik, samverkan med svenska lärosäten och ett närmare nordiskt samarbete på området.

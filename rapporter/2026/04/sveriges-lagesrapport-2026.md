@@ -1,0 +1,13 @@
+# Sveriges lägesrapport 2026
+
+EU:s ramverk för ekonomisk styrning (EU-ramverket) är en uppsättning regler och förfaranden för multilateral samordning och övervakning av den ekonomiska politiken, finanspolitiken, sysselsättningspolitiken och socialpolitiken inom EU. Det arbete som utförs enligt EU-ramverket samordnas huvudsakligen genom en årlig process som kallas för den europeiska planeringsterminen.
+
+De delar av EU-ramverket som reglerar styrningen av medlemsstaternas finanspolitik kallas stabilitets- och tillväxtpakten. Stabilitets- och tillväxtpakten består av två delar, dels en förebyggande del, som ska främja budgetdisciplin och en hållbar skuldutveckling i medlemsstaterna på medellång sikt, dels en korrigerande del, som ska säkra att medlemsstaterna vidtar lämpliga åtgärder vid alltför höga offentliga underskott eller statsskulder.
+
+Enligt den nya förordningen (EU) 2024/12631 ska samtliga medlemsstater ta fram en nationell medelfristig finans- och strukturpolitisk plan (medelfristig plan) som löper över fyra eller fem år, beroende på hur lång mandatperioden är i den berörda medlemsstaten. Sveriges medelfristiga plan för 2025–2028 överlämnades till kommissionen den 11 oktober 2024. Den medelfristiga planen ska följas upp av en lägesrapport i vilken medlemsstaterna ska redogöra för hur den medelfristiga planen har genomförts. Senast den 30 april 2026 ska medlemsstaterna lämna in lägesrapporten för 2026.
+
+När det gäller finanspolitiken innehåller Sveriges medelfristiga plan ett finanspolitiskt åtagande i form av en s.k. nettoutgiftsbana som är knuten till målet att främja skuldhållbarhet. Den medelfristiga planen innehåller även information om makroeko-nomiska och offentligfinansiella variabler som ligger till grund för nettoutgiftsbanan. I lägesrapporten ska Sverige rapportera om utfall och om eventuella uppdateringar av nettoutgiftsbanan inklusive underliggande variabler för 2025 och 2026 (se avsnitt 2).
+
+När det gäller reformer och investeringar innehåller den medelfristiga planen en redogörelse för hur Sverige adresserat de huvudsakliga utmaningarna som identifierats inom ramen för den europeiska planeringsterminen, särskilt de landsspecifika rekommendationerna och EU-gemensamma prioriteringar. I lägesrapporten ska Sverige ange hur genomförandet av dessa åtgärder fortskrider (se avsnitt 3). I avsnitt 4–6 redogörs även för åtgärder med anledning av andra rapporteringskrav inom ramen för den europeiska planeringsterminen.
+
+Riksdagen fick information om Sveriges lägesrapport 2026 den 21 april 2026. Den 30 april 2026 beslutade regeringen om Sveriges lägesrapport 2026.

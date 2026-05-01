@@ -1,5 +1,139 @@
 [
     {
+        "title": "Statsministern tog emot Finlands president",
+        "url": "/artiklar/2026/04/statsministern-tog-emot-finlands-president/",
+        "published": "2026-04-30",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "2605",
+            "1293"
+        ],
+        "summary": "Torsdag den 30 april besökte Finlands president Alexander Stubb Stockholm med anledning av firandet av H.M. Konungens födelsedag. I samband med besöket bjöd statsminister Ulf Kristersson in presidenten till ett möte för att diskutera aktuella frågor.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1279",
+            "2593",
+            "1062"
+        ]
+    },
+    {
+        "title": "Kortare vårdköer i fokus på Alingsås lasarett",
+        "url": "/artiklar/2026/04/kortare-vardkoer-i-fokus-pa-alingsas-lasarett/",
+        "published": "2026-04-30",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "2795",
+            "1292"
+        ],
+        "summary": "I april besökte sjukvårdsminister Elisabet Lann Alingsås lasarett i Västra Götalandsregionen. Besöket var det sista i mandatperiodens regionturné och fokuserade på hur ett förändrat arbetssätt kan ge effektivare operationsflöden och bidra till kortare vårdköer.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Västernorrland, 4 oktober 2023: Lyckad start på sjukvårdsministerns regionturné",
+                "url": "/artiklar/2023/10/lyckad-start-pa-ministerns-regionturne/"
+            },
+            {
+                "name": "Halland, 15 november 2023: Hjärthälsa i fokus när ministern besökte Halland",
+                "url": "/artiklar/2023/11/hjarthalsa-i-fokus-nar-ministern-besokte-halland/"
+            },
+            {
+                "name": "Norrbotten, 6 december 2023: Hälso- och sjukvård för en fjärdedel av Sverige",
+                "url": "/artiklar/2023/12/halso--och-sjukvard-for-en-fjardedel-av-sverige/"
+            },
+            {
+                "name": "Kronoberg, 31 januari 2024: Årets första turnéstopp i Växjö",
+                "url": "/artiklar/2024/02/arets-forsta-turnestopp-i-vaxjo/"
+            },
+            {
+                "name": "Sörmland, 21 februari 2024: Besök i Nyköping med fokus på akut- och primärvård",
+                "url": "/artiklar/2024/02/besok-i-nykoping-med-fokus-pa-akut--och-primarvard/"
+            },
+            {
+                "name": "Västerbotten, 10 april 2024: Barn- och ungdomsvård och precisionsmedicin i Umeå",
+                "url": "/artiklar/2024/04/barn--och-ungdomsvard-och-precisionsmedicin-i-umea/"
+            },
+            {
+                "name": "Örebro, 15 maj 2024: Neurokirurgi och vård vid dysmeli på programmet i Örebro",
+                "url": "/artiklar/2024/05/neurokirurgi-och-vard-vid-dysmeli-pa-programmet-i-orebro/"
+            },
+            {
+                "name": "Gotland, 29 maj 2024: Intensivvård och förlossning i Visby",
+                "url": "/artiklar/2024/05/intensivvard-och-forlossning-i-visby/"
+            },
+            {
+                "name": "Kalmar, 4 september 2024: Samverkan för nära vård i Region Kalmar län",
+                "url": "/artiklar/2024/09/samverkan-for-nara-vard-i-region-kalmar-lan/"
+            },
+            {
+                "name": "Dalarna, 23 oktober 2024: Palliativ vård och forskning om simning i Vansbro",
+                "url": "/artiklar/2024/10/palliativ-vard-och-forskning-om-simning-i-vansbro/"
+            },
+            {
+                "name": "Gävleborg, 30 oktober 2024: Halvtid i regionturnén – sjukvårdsministern på besök i Gävleborg",
+                "url": "/artiklar/2024/11/halvtid-i-regionturnen--sjukvardsministern-pa-besok-i-gavleborg/"
+            },
+            {
+                "name": "Värmland, 13 november 2024: Omtag för sjukvården i Värmland",
+                "url": "/artiklar/2024/11/omtag-for-sjukvarden-i-varmland/"
+            },
+            {
+                "name": "Blekinge, 20 november 2024: Vårdens arbetsmiljö och kompetensutveckling på programmet i Blekinge",
+                "url": "/artiklar/2024/11/vardens-arbetsmiljo-och-kompetensutveckling-pa-programmet-i-blekinge/"
+            },
+            {
+                "name": "Jämtland Härjedalen, 26 februari 2025: Stark primärvård i Region Jämtland Härjedalen",
+                "url": "/artiklar/2025/02/stark-primarvard-i-region-jamtland-harjedalen/"
+            },
+            {
+                "name": "Jönköping, 20 mars 2025: Nya vårdprocesser i Jönköpings län",
+                "url": "/artiklar/2025/03/nya-vardprocesser-i-jonkopings-lan/"
+            },
+            {
+                "name": "Västmanland, 2 april 2025: Nära Vård i Västmanland",
+                "url": "/artiklar/2025/04/nara-vard-i-vastmanland/"
+            },
+            {
+                "name": "Uppsala, 2 maj 2025: Brännskadevård och teamarbete i Uppsala",
+                "url": "/artiklar/2025/05/brannskadevard-och-teamarbete-i-uppsala/"
+            },
+            {
+                "name": "Östergötland, 13 maj 2025: Regionbesök i Östergötland",
+                "url": "/artiklar/2025/05/regionbesok-i-ostergotland/"
+            },
+            {
+                "name": "Skåne, 5 november 2025: Regionbesök i Skåne",
+                "url": "/pressmeddelanden/2025/11/sjukvardsministern-besoker-skane/"
+            },
+            {
+                "name": "Stockholm, 12 december 2025: Regionbesök i Stockholm",
+                "url": "/pressmeddelanden/2025/12/sjukvardsminister-elisabet-lann-besoker-danderyds-sjukhus/"
+            },
+            {
+                "name": "Västra Götaland, 24 april 2026: Regionbesök i Västra Götaland",
+                "url": "/pressmeddelanden/2026/04/sjukvardsministern-besoker-vastra-gotalandsregionen/"
+            },
+            {
+                "name": "Regeringens arbete för att korta vårdköerna",
+                "url": "/regeringens-politik/regeringens-arbete-for-att-korta-vardkoerna/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1233",
+            "2693",
+            "2688",
+            "2812"
+        ]
+    },
+    {
         "title": "Johan Britz samlade Arbetsmarknadspolitiska rådet om utbildningssystemets roll för arbetsmarknaden",
         "url": "/artiklar/2026/04/johan-britz-samlade-arbetsmarknadspolitiska-radet-om-utbildningssystemets-roll-for-arbetsmarknaden/",
         "published": "2026-04-29",
