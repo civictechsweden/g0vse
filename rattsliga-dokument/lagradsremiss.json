@@ -1,5 +1,96 @@
 [
     {
+        "title": "Hörande och tillfälligt överförande vid handläggning av en arresteringsorder",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/05/horande-och-tillfalligt-overforande-vid-handlaggning-av-en-arresteringsorder/",
+        "published": "2026-05-04",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "Lagrådsremissen innehåller i huvudsak förslag till ändringar i lagen (2003:1156) om överlämnande från Sverige enligt en europeisk arresteringsorder och lagen (2011:1165) om överlämnande från Sverige enligt en nordisk arresteringsorder.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Hörande och tillfälligt överförande vid handläggning av en arresteringsorder (pdf 864 kB)",
+                "url": "/contentassets/18d7da09a6d34b7dbf60b8dd1e3de121/horande-och-tillfalligt-overforande-vid-handlaggning-av-en-arresteringsorder/"
+            }
+        ],
+        "categories": [
+            "1263",
+            "2205",
+            "1012"
+        ]
+    },
+    {
+        "title": "Nya möjligheter att bekämpa onlinerekrytering",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/05/nya-mojligheter-att-bekampa-onlinerekrytering/",
+        "published": "2026-05-04",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "Att kriminella nätverk rekryterar barn och unga för att begå allvarliga brott utgör ett stort samhällsproblem. Rekryteringen sker i allt högre utsträckning online och med hjälp av digitala tjänster. Regeringen föreslår därför en ny lag som gör det möjligt för en behörig myndighet att besluta förelägganden om att rekryteringsinnehåll, dvs. innehåll online som syftar till att rekrytera personer för att begå brott, ska avlägsnas eller göras oåtkomligt.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen föreslår en lag som ger polisen nya verktyg mot onlinerekrytering av barn och unga till grov brottslighet",
+                "url": "/pressmeddelanden/2026/05/regeringen-foreslar-en-lag-som-ger-polisen-nya-verktyg-mot-onlinerekrytering-av-barn-och-unga-till-grov-brottslighet/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Nya möjligheter att bekämpa onlinerekrytering (pdf 858 kB)",
+                "url": "/contentassets/3a1c72cbdf62421fa34481c31e5ab642/nya-mojligheter-att-bekampa-onlinerekrytering.pdf"
+            }
+        ],
+        "categories": [
+            "1238",
+            "1263"
+        ]
+    },
+    {
+        "title": "Skyldighet att betala för tandvård",
+        "url": "/rattsliga-dokument/lagradsremiss/2026/05/skyldighet-att-betala-for-tandvard--nya-regler-for-vissa-utlanningar/",
+        "published": "2026-05-04",
+        "updated": null,
+        "types": [
+            "2085",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "– nya regler för vissa utlänningar",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen föreslår nya regler för tandvårdsavgifter för vissa utlänningar",
+                "url": "/pressmeddelanden/2026/04/regeringen-foreslar-nya-regler-for-tandvardsavgifter-for-vissa-utlanningar/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Skyldighet att betala för tandvård – nya regler för vissa utlänningar (pdf 558 kB)",
+                "url": "/contentassets/2fba598a779b4cd2bab9d93346cb41fc/skyldighet-att-betala-for-tandvard--nya-regler-for-vissa-utlanningar.pdf"
+            }
+        ],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
         "title": "Avveckling av Utbetalningsmyndighetens system med transaktionskonto",
         "url": "/rattsliga-dokument/lagradsremiss/2026/04/avveckling-av-utbetalningsmyndighetens-system-med-transaktionskonto/",
         "published": "2026-04-30",
