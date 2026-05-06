@@ -1,5 +1,389 @@
 [
     {
+        "title": "Finansminister Elisabeth Svantesson presenterar uppdaterad ekonomisk prognos",
+        "url": "/pressmeddelanden/2026/05/finansminister-elisabeth-svantesson-presenterar-uppdaterad-ekonomisk-prognos/",
+        "published": "2026-05-06",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "I dag, onsdag den 6 maj kl. 14.00, presenterar finansminister Elisabeth Svantesson en extrainsatt, uppdaterad ekonomisk prognos med anledning av Irankrigets ekonomiska konsekvenser.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1232"
+        ]
+    },
+    {
+        "title": "Andreas Carlson besöker Öckerö och Göteborg",
+        "url": "/pressmeddelanden/2026/05/andreas-carlson-besoker-ockero-och-goteborg/",
+        "published": "2026-05-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2425"
+        ],
+        "summary": "Onsdag den 6 maj besöker infrastruktur- och bostadsminister Andreas Carlson Öckerö och Göteborg för möten fokuserade på svensk sjöfart och sjöfartspolitik.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1274"
+        ]
+    },
+    {
+        "title": "Myndigheter delredovisar uppdrag att förebygga psykisk ohälsa och suicid för personer i ekonomisk utsatthet",
+        "url": "/pressmeddelanden/2026/05/myndigheter-delredovisar-uppdrag-att-forebygga-psykisk-ohalsa-och-suicid-for-personer-i-ekonomisk-utsatthet/",
+        "published": "2026-05-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2614",
+            "2616",
+            "1285",
+            "1292"
+        ],
+        "summary": "Regeringen har tagit emot Socialstyrelsens och Konsumentverkets första delredovisning av uppdraget att stärka stödet till den kommunala budget- och skuldrådgivningen för att förebygga psykisk ohälsa och suicid. De två myndigheterna konstaterar att det finns ett tydligt samband mellan ekonomiska problem och psykisk ohälsa samt risk för suicid.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Rapport: Delredovisning av regeringsuppdrag Fi 2025/02305 (PDF)",
+                "url": "/contentassets/e843593d84ad47eea6dd1b3886f0f425/delredovisning-av-ru-budget--och-skuldradgivning_fi-2025-02305.pdf"
+            },
+            {
+                "name": "Regeringsuppdrag: Uppdrag till Socialstyrelsen och Konsumentverket att stärka stödet till den kommunala budget- och skuldrådgivningen för att förebygga psykisk ohälsa och suicid",
+                "url": "/regeringsuppdrag/2025/12/uppdrag-till-socialstyrelsen-och-konsumentverket-att-starka-stodet-till-den-kommunala-budget--och-skuldradgivningen-for-att-forebygga-psykisk-ohalsa-och-suicid/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2655",
+            "2092",
+            "1240",
+            "2747",
+            "2688"
+        ]
+    },
+    {
+        "title": "Jämställdhetsministern besöker gymnasieskolor i Stockholm",
+        "url": "/pressmeddelanden/2026/05/jamstalldhetsministern-besoker-gymnasieskolor-i-stockholm/",
+        "published": "2026-05-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2784",
+            "1284"
+        ],
+        "summary": "På onsdag den 6 maj träffar jämställdhetsminister Nina Larsson elever och lärare på gymnasieskolor i Nacka utanför Stockholm. Syftet är att diskutera olika jämställdhetsutmaningar och värderingar som unga möter inte minst på nätet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1239"
+        ]
+    },
+    {
+        "title": "Regeringen och Sverigedemokraterna presenterar bokslut över Tidöavtalet",
+        "url": "/pressmeddelanden/2026/05/regeringen-och-sverigedemokraterna-presenterar-bokslut-over-tidoavtalet/",
+        "published": "2026-05-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "2791",
+            "2605",
+            "1293"
+        ],
+        "summary": "Reform för reform har regeringen och Sverigedemokraterna lagt om kursen för att få ordning på Sverige. Nu presenteras ett bokslut över Tidöavtalet, som har lagt grunden för den mest omfattande reformagendan i modern tid.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Genomfört – bokslut för Tidöavtalet",
+                "url": "/regeringens-politik/regeringens-prioriteringar/genomfort-bokslut-over-tidoavtalet/"
+            },
+            {
+                "name": "Pressträff om bokslut över TidöavtaletWebb-TV",
+                "url": "/pressmeddelanden/2026/05/presstraff-om-bokslut-over-tidoavtalet/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2688"
+        ]
+    },
+    {
+        "title": "SCB ska samla in statistik om hushållens skulder",
+        "url": "/pressmeddelanden/2026/05/scb-ska-samla-in-statistik-om-hushallens-skulder/",
+        "published": "2026-05-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2623",
+            "1285"
+        ],
+        "summary": "Det ekonomisk-politiska beslutsfattandet kan stärkas av mer kunskap om hushållens ekonomiska motståndskraft. Därför ska Statistiska centralbyråns (SCB) mikrosimuleringsmodell Fasit utökas med uppgifter om hushållssektorns skulder och skuldbetalningar. Detta föreslår regeringen i en proposition som nu överlämnats till riksdagen.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:255 Stickprovsinsamling av uppgifter om hushållens skulder",
+                "url": "/rattsliga-dokument/proposition/2026/05/prop.-202526255"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1232",
+            "1231"
+        ]
+    },
+    {
+        "title": "Regeringen föreslår stärkt öppenhet kring politiska beslut och partifinansiering",
+        "url": "/pressmeddelanden/2026/05/regeringen-foreslar-starkt-oppenhet-kring-politiska-beslut-och-partifinansiering/",
+        "published": "2026-05-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen har beslutat en proposition med förslag till ny och ändrad lagstiftning för att öka insynen i hur politiska partier finansierar sin verksamhet och hur kontakter tas i syfte att påverka politiska beslut. Förslagen syftar till att stärka öppenheten i det demokratiska systemet och värna allmänhetens förtroende.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop 2025/26:258: Ökad insyn i politiska processer",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/03/okad-insyn-i-politiska-processer/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1219",
+            "1224",
+            "1263"
+        ]
+    },
+    {
+        "title": "Regeringen tar nästa steg i reformeringen av det svenska underrättelsesystemet",
+        "url": "/pressmeddelanden/2026/05/regeringen-tar-nasta-steg-i-reformeringen-av-det-svenska-underrattelsesystemet/",
+        "published": "2026-05-05",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2621",
+            "1295"
+        ],
+        "summary": "Arbetet med att förbereda inrättandet av den nya underrättelsemyndigheten Sveriges utrikes underrättelsetjänst (UND) fortsätter. Regeringen lägger nu fram lagförslag som behövs för att den nya myndigheten ska komma på plats den 1 januari 2027. En lagrådsremiss lämnas över till Lagrådet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Lagrådsremiss: Sveriges utrikes underrättelsetjänst",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/05/sveriges-utrikes-underrattelsetjanst/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1279"
+        ]
+    },
+    {
+        "title": "Utredning lämnar förslag för stärkt sjö- och flygräddning",
+        "url": "/pressmeddelanden/2026/05/utredning-lamnar-forslag-for-starkt-sjo--och-flygraddning/",
+        "published": "2026-05-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2611",
+            "1286",
+            "2425"
+        ],
+        "summary": "Regeringen har tagit emot en utredning om förutsättningarna för att flytta sjö- och flygräddningstjänsten från Sjöfartsverket till en annan myndighet. Utredningen föreslår att det operativa ansvaret för sjö- och flygräddningen samlas hos Kustbevakningen, medan ansvaret för övergripande utveckling och utbildning samt samordning och tillsyn samlas hos Myndigheten för civilt försvar. Syftet är att skapa ökad tydlighet, effektivitet och långsiktig stabilitet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Departementspromemoria: En ny hemvist stärker sjö- och flygräddningstjänsten i Sverige",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/05/ds-20269/"
+            },
+            {
+                "name": "Kommittédirektiv: Uppdrag att utreda hemvisten för huvudmannaskapet för sjö- och flygräddningstjänsten i Sverige",
+                "url": "/rattsliga-dokument/kommittedirektiv/2025/12/uppdrag-att-utreda-hemvisten-for-huvudmannaskapet-for-sjo--och-flygraddningstjansten-i-sverige/"
+            },
+            {
+                "name": "Pressmeddelande: Sjö- och flygräddningens hemvist utreds",
+                "url": "/pressmeddelanden/2025/06/sjo--och-flygraddningens-hemvist-utreds/"
+            },
+            {
+                "name": "Pressmeddelande: Tillskott säkrar sjö- och flygräddningsverksamhet",
+                "url": "/pressmeddelanden/2025/03/tillskott-sakrar-sjo--och-flygraddningsverksamhet/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2248",
+            "1241",
+            "1274"
+        ]
+    },
+    {
+        "title": "Sjukvårdsministern besöker Göteborg",
+        "url": "/pressmeddelanden/2026/05/sjukvardsministern-besoker-goteborg/",
+        "published": "2026-05-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2795",
+            "1292"
+        ],
+        "summary": "Onsdag den 6 maj besöker sjukvårdsminister Elisabet Lann Göteborg.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1233",
+            "2693",
+            "2688"
+        ]
+    },
+    {
+        "title": "Fyra myndigheter förbereder Sverige för EU:s hälsodataförordning EHDS",
+        "url": "/pressmeddelanden/2026/05/fyra-myndigheter-forbereder-sverige-for-eus-nya-halsodataforordning-ehds/",
+        "published": "2026-05-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Regeringen uppdrar åt Läkemedelsverket, Inspektionen för vård och omsorg (IVO) och E-hälsomyndigheten att förbereda för rollen som myndighet för digital hälsa enligt EU:s hälsodataförordning, EHDS. Socialstyrelsen ska utreda om myndigheten bör tilldelas sådana uppgifter, och E-hälsomyndigheten ska även utreda förutsättningar för att vara samordnande myndighet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen ger E-hälsomyndigheten nytt uppdrag om vårdinformationssystem",
+                "url": "/pressmeddelanden/2026/05/regeringen-ger-e-halsomyndigheten-nytt-uppdrag-om-vardinformationssystem/"
+            },
+            {
+                "name": "Artikel: \"Forssmed: Nu minskar vi IT-krånglet i svensk vård\"",
+                "url": "/debattartiklar/2025/09/nu-minskar-vi-it-kranglet-i-svensk-vard/"
+            },
+            {
+                "name": "Artikel: Nytt råd ska underlätta införandet av en nationell digital infrastruktur i hälso- och sjukvården",
+                "url": "/artiklar/2024/04/nytt-rad-ska-underlatta-inforandet-av-en-nationell-digital-infrastruktur-i-halso--och-sjukvarden/"
+            },
+            {
+                "name": "Pressmeddelande: Flera satsningar för hälso- och sjukvårdens digitalisering",
+                "url": "/pressmeddelanden/2024/06/flera-satsningar-for-halso--och-sjukvardens-digitalisering/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
+        "title": "Statsministern besöker Yrkes-SM",
+        "url": "/pressmeddelanden/2026/05/statsministern-besoker-yrkes-sm/",
+        "published": "2026-05-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2605",
+            "1293"
+        ],
+        "summary": "Tisdag den 5 maj besöker statsminister Ulf Kristersson Yrkes-SM, ett nationellt mästerskap där yrkesutbildade ungdomar tävlar i yrkesskicklighet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1276",
+            "1278"
+        ]
+    },
+    {
+        "title": "Pressträff om bokslut över Tidöavtalet",
+        "url": "/pressmeddelanden/2026/05/presstraff-om-bokslut-over-tidoavtalet/",
+        "published": "2026-05-05",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2612",
+            "2791",
+            "2605",
+            "1293"
+        ],
+        "summary": "Tisdag den 5 maj bjuder statsminister Ulf Kristersson, energi- och näringsminister Ebba Busch, utbildnings- och integrationsminister Simona Mohamsson och Sverigedemokraternas partiledare Jimmie Åkesson in till pressträff. På pressträffen presenteras ett bokslut över Tidöavtalet, som har lagt grunden för det högsta reformtempot i modern tid.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringen och Sverigedemokraterna presenterar bokslut över Tidöavtalet",
+                "url": "/pressmeddelanden/2026/05/regeringen-och-sverigedemokraterna-presenterar-bokslut-over-tidoavtalet/"
+            },
+            {
+                "name": "Genomfört – bokslut över Tidöavtalet",
+                "url": "/regeringens-politik/regeringens-prioriteringar/genomfort-bokslut-over-tidoavtalet/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff om bokslut över Tidöavtalet den 5 maj 2026 (pdf 682 kB)",
+                "url": "/contentassets/0e806fab3aef414f8d367db4dd1050f9/presentationsbilder-fran-presstraff-om-bokslut-over-tidoavtalet-den-5-maj-2026.pdf"
+            }
+        ],
+        "categories": [
+            "2688"
+        ]
+    },
+    {
+        "title": "Bistånds- och utrikeshandelsminister Benjamin Dousa besöker Umeå och Örnsköldsvik",
+        "url": "/pressmeddelanden/2026/05/bistands--och-utrikeshandelsminister-benjamin-dousa-besoker-umea-och-ornskoldsvik/",
+        "published": "2026-05-05",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2756",
+            "1295"
+        ],
+        "summary": "Den 5 maj besöker bistånds- och utrikeshandelsminister Benjamin Dousa Umeå och Örnsköldsvik för att träffa företag.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1235"
+        ]
+    },
+    {
         "title": "Ökad krisberedskap för socialförsäkringen i en orolig tid",
         "url": "/pressmeddelanden/2026/05/okad-krisberedskap-for-socialforsakringen-i-en-orolig-tid/",
         "published": "2026-05-04",
