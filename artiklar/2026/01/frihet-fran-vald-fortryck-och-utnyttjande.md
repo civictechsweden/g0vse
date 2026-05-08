@@ -1,12 +1,14 @@
 # Frihet från våld, förtryck och utnyttjande
 
-Mäns våld mot kvinnor, våld i nära relationer, hedersrelaterat våld och förtryck och prostitution och människohandel är allvarliga samhällsproblem som måste bekämpas. Allt för många i vårt land lever i dag i en vardag som redan från ung ålder präglas av våld, förtryck och kontroll. För regeringen är detta ett prioriterat område – våldet, förtrycket och utnyttjandet ska bekämpas med samma kraft som gängkriminaliteten.
+Mäns våld mot kvinnor, våld i nära relationer, hedersrelaterat våld och förtryck och prostitution och människohandel är allvarliga samhällsproblem som måste bekämpas. Allt för många i vårt land lever i dag i en vardag som redan från ung ålder präglas av våld, förtryck och kontroll. För regeringen är detta ett prioriterat område – våldet, förtrycket och utnyttjandet ska bekämpas med samma kraft som gängkriminaliteten. Regeringen genomför ett perspektivskifte, från gärningsmannen till brottsoffrets rätt till skydd.
 
 Kvinnors rätt till frid och frihet kränks dagligen. Mellan år 2017–2024 dödades enligt Brottsförebyggande rådet i genomsnitt 13 kvinnor per år i Sverige genom dödligt våld av en nuvarande eller tidigare partner. Även sexualbrott kränker på ett allvarligt sätt kvinnors rätt till en trygg och säker tillvaro. Kvinnor mellan 20 och 24 år är den åldersgrupp där störst andel uppger att de har utsatts för sexualbrott.
 
 Den sexuella exploateringen i dag är djupt sammankopplad med den digitala utvecklingen. Rekrytering och exploatering inom prostitution och människohandel har till stor del flyttat ut på nätet i form av eskortsidor eller annonser för sexuella tjänster och drivs i hög grad av män som utnyttjar flickor och kvinnor mot betalning.
 
 Hedersrelaterat våld och förtryck strider mot principen om alla människors lika värde och innebär stora begränsningar i de utsattas liv. Det är alltför många som får sina liv och fri- och rättigheter begränsade av hedersnormer i Sverige. Studier visar att uppemot 240 000 unga i dag lever under hedersförtryck. Det kan bland annat handla om oskuldskrav, risk för tvångsäktenskap, kontroll av relationer och könsstympning. Personer som utsätts för denna form av våld och förtryck är en mycket utsatt grupp. Regeringen anser därför att området behöver ökad uppmärksamhet och synlighet och att kunskapen behöver förbättras för att detta våld ska upphöra.
+
+De jämställdhetspolitiska delmålen om att mäns våld mot kvinnor, våld i nära relationer, utnyttjande i prostitution och människohandel och hedersrelaterat våld och förtryck ska upphöra är högt prioriterade av regeringen. Regeringen har inlett ett systemskifte. Det är brottsoffrets perspektiv som går före.
 
 [Exempel på åtgärder från regeringen för att bekämpa våld, förtryck och utnyttjande](#bekampavald)
 [Exempel på åtgärder för att bekämpa hedersrelaterat våld och förtryck](#Hedersrelaterat)
@@ -20,6 +22,26 @@ Hedersrelaterat våld och förtryck strider mot principen om alla människors li
 Regeringen har lämnat över en proposition till riksdagen med förslag på en ny straffbestämmelse för psykiskt våld. Psykiskt våld är betydligt vanligare än fysiskt våld och är ofta den form av våld som kommer först. Genom att kriminalisera psykiskt våld ökar möjligheterna att ingripa tidigt och förhindra att våldet fortsätter och blir fysiskt. Förslaget innebär att det blir brottsligt att upprepat utsätta någon annan för vissa typer av kränkningar, som förolämpningar och otillbörliga hot. Den nya bestämmelsen innebär bland annat ett stärkt skydd mot tvång att bära religiös klädsel, som slöja, omvändelseförsök genom hot eller tvång, tvång att kvarbli i ett äktenskap och ekonomiskt våld.
 
 [Pressmeddelande: Regeringen föreslår stärkt straffrättsligt skydd mot psykiskt våld](/pressmeddelanden/2026/02/regeringen-foreslar-starkt-straffrattsligt-skydd-mot-psykiskt-vald/)
+
+### Ny nationell strategi ska bidra till ett samhälle fritt från våld, förtryck och utnyttjande
+
+Regeringen har presenterat en ny tioårig nationell strategi mot mäns våld mot kvinnor, våld i nära relationer, utnyttjande i prostitution och människohandel samt hedersrelaterat våld och förtryck. Syftet med strategin är att bidra till ett effektivt, hållbart och samordnat arbete mot mäns våld mot kvinnor, våld i nära relationer, utnyttjande i prostitution och människohandel samt hedersrelaterat våld och förtryck.
+
+Insatser för att nå de båda jämställdhetspolitiska delmålen mot våld, förtryck och utnyttjande ska framöver riktas mot de fem strategiska områden som pekas ut i strategin. Det handlar om våldsförebyggande arbete, upptäckt av våld, stöd och skydd till våldsutsatta, brottsbekämpning och återfallsförebyggande arbete.
+
+[Pressmeddelande: Ny nationell strategi ska bidra till ett samhälle fritt från våld, förtryck och utnyttjande](/pressmeddelanden/2026/04/ny-nationell-strategi-ska-bidra-till-ett-samhalle-fritt-fran-vald-fortryck-och-utnyttjande/)
+
+### Flera myndigheter får i uppdrag att delta i en nationell samverkansstruktur och utveckla arbetet mot våld, förtryck och utnyttjande
+
+Det behövs en tydlig struktur för att stärka samverkan och utveckla arbetet i enlighet med strategin och regeringen har därför gett Jämställdhetsmyndigheten i uppdrag att samordna arbetet i en nationell samverkanstruktur. I samarbetet ska 17 nationella myndigheter och länsstyrelserna utveckla arbetet inom sina verksamhetsområden och därmed bidra till att förebygga och motverka våld utifrån strategins utgångspunkter och dess utpekade strategiska områden.
+
+[Regeringsuppdrag: Uppdrag att delta i en nationell samverkansstruktur och utveckla arbetet mot våld, förtryck och utnyttjande](/regeringsuppdrag/2026/04/uppdrag-att-delta-i-en-nationell-samverkansstruktur-och-utveckla-arbetet-mot-vald-fortryck-och-utnyttjande/)
+
+### Uppdrag att följa upp delmålen mot våld, förtryck och utnyttjande och nollvisionen för dödligt våld mot kvinnor
+
+Regeringen ger också Brottsförebyggande rådet (Brå), Jämställdhetsmyndigheten, Socialstyrelsen och Statistiska centralbyrån (SCB) i uppdrag att ta fram indikatorer för att följa upp nollvisionen för dödligt våld mot kvinnor och de jämställdhetspolitiska delmålen mot våld, förtryck och utnyttjande, med beaktande av den nationella strategin och dess strategiska områden och utgångspunkter.
+
+[Regeringsuppdrag: Uppdrag om uppföljning av delmålen mot våld, förtryck och utnyttjande och nollvisionen för dödligt våld mot kvinnor](/regeringsuppdrag/2026/04/uppdrag-om-uppfoljning-av-delmalen-mot-vald-fortryck-och-utnyttjande-och-nollvisionen-for-dodligt-vald-mot-kvinnor/)
 
 ### Åtgärdsprogram mot mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck
 
@@ -50,6 +72,24 @@ Regeringen beslutade den 22 januari 2026 om en proposition som innehåller förs
 Regeringen har beslutat om en lagrådsremiss som bland annat innehåller förslag om skärpning av ett femtiotal straffskalor, bland annat grov våldtäkt, grov våldtäkt mot barn, kontakt för att träffa ett barn i sexuellt syfte, grovt utnyttjande av barn för sexuell posering och egenmäktighet med barn. Den innehåller också en ny straffskärpningsregel för brott med koppling till kriminella nätverk. Regeringen föreslår också att livstids fängelse ska kunna dömas ut för vissa allvarliga fall av upprepade vålds- och sexualbrott, samt att presumtionen för häktning ska utvidgas. Lagrådsremissen tar omhand delar av Straffreformutredningens betänkande (SOU 2025:66).
 
 [Pressmeddelande: Dubbla straff för gängkriminella, 50-tal skärpta straffskalor och livstid för upprepade grova våldtäkter](/pressmeddelanden/2025/03/myndigheter-ska-folja-upp-regeringens-reform-av-skyddat-boende/)
+
+### Sekretessen har rivits mellan alla myndigheter i Sverige
+
+Från och med den 1 december 2025 så rivs sekretessen mellan alla myndigheter. Det handlar om en sekretessbrytande bestämmelse som förenklar möjligheten för myndigheter att dela information med varandra. Det innebär alltså att samtliga myndigheter, kommuner och regioner får dela information för att förebygga, förhindra, upptäcka eller utreda brott, felaktiga utbetalningar, fusk och andra typer av regelöverträdelser.
+
+[Pressmeddelande: Nu rivs sekretessen mellan alla myndigheter i Sverige](/pressmeddelanden/2025/12/nu-rivs-sekretessen-mellan-alla-myndigheter-i-sverige/)
+
+### Skärpta regler vid villkorlig frigivning
+
+Från och med den 1 januari 2026 gäller skärpta regler för villkorlig frigivning. Detta är en del av regeringens omläggning av kriminalpolitiken där fokus flyttas från gärningsman till brottsoffer och samhällets behov av skydd. De skärpta reglerna innebär bland annat att tröskeln för att skjuta upp den villkorliga frigivningen om den dömde missköter sig under anstaltsvistelsen sänks och att det ska vara möjligt att skjuta upp den villkorliga frigivningen om det finns en risk för att den dömde återfaller i allvarlig brottslighet.
+
+[Pressmeddelande: Skärpta regler vid villkorlig frigivning](/pressmeddelanden/2025/10/skarpta-regler-vid-villkorlig-frigivning/)
+
+### Utökade möjligheter till kontaktförbud ska stärka skyddet för utsatta kvinnor och barn
+
+Regeringen har beslutat om en lagrådsremiss med förslag som innebär att kontaktförbud ska kunna meddelas i fler fall, att de ska kunna omfatta större geografiska områden och att kontaktförbud i fler fall ska kunna förenas med elektronisk övervakning, så kallad fotboja. Syftet med förslagen är att förbättra skyddet för kvinnor och barn som riskerar att utsättas för våld och andra kränkningar i nära relationer.
+
+[Pressmeddelande: Utökade möjligheter till kontaktförbud ska stärka skyddet för utsatta kvinnor och barn](/pressmeddelanden/2025/01/utokade-mojligheter-till-kontaktforbud-ska-starka-skyddet-for-utsatta-kvinnor-och-barn/)
 
 ### Myndigheter ska följa upp regeringens reform av skyddat boende
 

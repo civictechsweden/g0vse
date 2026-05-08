@@ -1,5 +1,391 @@
 [
     {
+        "title": "Ebba Busch håller pressträff på energiområdet",
+        "url": "/pressmeddelanden/2026/05/ebba-busch-haller-presstraff-pa-energiomradet/",
+        "published": "2026-05-08",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2612",
+            "1291"
+        ],
+        "summary": "Fredag den 8 maj klockan 11.00 bjuder energi- och näringsminister Ebba Busch in till pressträff. På pressträffen presenteras en nyhet på energiområdet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1226"
+        ]
+    },
+    {
+        "title": "Regeringen inför en statlig e-legitimation",
+        "url": "/pressmeddelanden/2026/05/regeringen-infor-en-statlig-e-legitimation/",
+        "published": "2026-05-07",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2614",
+            "1285"
+        ],
+        "summary": "Regeringen går nu vidare med ett lagförslag för att införa en statlig e-legitimation. Den nya e-legitimationen ska stärka samhällets tillgång till elektronisk identifiering och försvåra identitetsmissbruk. Den statliga e-legitimationen kommer att börja utfärdas i december i år.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Polismyndighetens uppdrag att utfärda en statlig e-legitimation (Regeringskansliets webbplats)",
+                "url": "/regeringsuppdrag/2025/04/uppdrag-att-utfarda-en-statlig-e-legitimation-pa-hogsta-tillitsniva/"
+            },
+            {
+                "name": "Digital identitetsplånbok (Diggs webbplats)- extern webbplats,",
+                "url": "https://www.digg.se/digitala-tjanster/digital-identitetsplanbok"
+            },
+            {
+                "name": "Prop 2025/26:250 En statlig e-legitimation",
+                "url": "/rattsliga-dokument/proposition/2026/05/prop.-202526250"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1238",
+            "1012"
+        ]
+    },
+    {
+        "title": "Socialministern reser till Blekinge",
+        "url": "/pressmeddelanden/2026/05/socialministern-reser-till-blekinge/",
+        "published": "2026-05-07",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Fredagen den 8 maj reser socialminister Jakob Forssmed till Ronneby och Karlskrona i Blekinge. Under dagen tar han del av idrottsföreningars arbete med simkunnighet, integration och ungas delaktighet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Boverket får i uppdrag att driva kunskapsplattform för idrottsanläggningar",
+                "url": "/pressmeddelanden/2026/04/boverket-far-i-uppdrag-att-driva-kunskapsplattform-for-idrottsanlaggningar/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1218"
+        ]
+    },
+    {
+        "title": "Påminnelse: Infrastruktur- och bostadsminister Andreas Carlson tar emot utredning om hållbara drivmedel inom luft- och sjöfarten",
+        "url": "/pressmeddelanden/2026/05/pressinbjudan-andreas-carlson-tar-emot-utredning-om-hallbara-drivmedel-inom-luft--och-sjofarten/",
+        "published": "2026-05-07",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2608",
+            "2425"
+        ],
+        "summary": "Fredagen den 8 maj bjuder infrastruktur- och bostadsminister Andreas Carlson in till en pressträff där en utredning om hur tillgången till hållbara drivmedel inom svensk luft- och sjöfart kan främjas ska presenteras. Medverkar på pressträffen gör även Mattias Viklund, generaldirektör på Trafikanalys, som ansvarat för utredningen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1274"
+        ]
+    },
+    {
+        "title": "Tillväxtanalys generaldirektör får förlängt förordnande",
+        "url": "/pressmeddelanden/2026/05/tillvaxtanalys-generaldirektor-far-forlangt-forordnande/",
+        "published": "2026-05-07",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2612",
+            "1291"
+        ],
+        "summary": "Regeringen har i dag beslutat att förlänga Sverker Härds förordnande som generaldirektör och chef för Myndigheten för tillväxtpolitiska utvärderingar och analyser (Tillväxtanalys) med tre år.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1257",
+            "1274"
+        ]
+    },
+    {
+        "title": "Elektronisk övervakning ska stärka barn och ungas skydd mot kriminalitet",
+        "url": "/pressmeddelanden/2026/05/elektronisk-overvakning-ska-starka-barn-och-ungas-skydd-mot-kriminalitet/",
+        "published": "2026-05-07",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2610",
+            "2616",
+            "1292"
+        ],
+        "summary": "För att skydda barn och unga från att dras in i kriminalitet, behöver socialtjänsten fler verktyg. Regeringen föreslår att elektronisk övervakning ska kunna användas i situationer när barns trygghet behöver säkerställas.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Tidiga insatser för att stödja barn, unga och vårdnadshavare även när medverkan bristerWebb-TV",
+                "url": "/pressmeddelanden/2026/04/tidiga-insatser-for-att-stodja-barn-unga-och-vardnadshavare----aven-nar-medverkan-brister/"
+            },
+            {
+                "name": "Pressmeddelande: SiS ska förbereda ansvar för elektronisk övervakning",
+                "url": "/pressmeddelanden/2026/02/sis-ska-forbereda-ansvar-for-elektronisk-overvakning/"
+            },
+            {
+                "name": "Regeringens åtgärder för SiS",
+                "url": "/regeringens-politik/socialtjanst/regeringens-atgarder-for-den-statliga-barn--och-ungdomsvarden/"
+            },
+            {
+                "name": "Regeringens åtgärder för HVB",
+                "url": "/regeringens-politik/socialtjanst/regeringens-atgarder-inom-hem-for-vard-eller-boende-hvb-for-barn-och-unga/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Presentationsbilder på pressträff den 7 maj 2026 om elektronisk övervakning för att stärka skyddet för barn och unga (pdf 99 kB)",
+                "url": "/globalassets/regeringen/dokument/socialdepartementet/presentationsbilder-pa-presstraff-den-7-maj-2026-om-elektronisk-overvakning-for-att-starka-skyddet-for-barn-och-unga.pdf"
+            }
+        ],
+        "categories": [
+            "1268"
+        ]
+    },
+    {
+        "title": "Nytt lagförslag ska minska risken för identitetsmissbruk",
+        "url": "/pressmeddelanden/2026/05/nytt-lagforslag-ska-minska-risken-for-identitetsmissbruk/",
+        "published": "2026-05-07",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "Regeringen vill förbättra folkbokföringen och minska risken för identitetsmissbruk. En ny proposition innehåller lagförslag som ger Skatteverket och Migrationsverket större möjligheter att använda biometriska uppgifter vid identitetskontroller. Dessutom införs det nya brottet främjande av oriktig folkbokföring.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:261 Utökade befogenheter för Skatteverket inom folkbokföringsverksamheten",
+                "url": "/rattsliga-dokument/proposition/2026/05/prop.-202526261"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1267",
+            "2690",
+            "2688"
+        ]
+    },
+    {
+        "title": "TLV ska mäta tillgängligheten till läkemedel på apotek",
+        "url": "/pressmeddelanden/2026/05/tlv-ska-mata-tillgangligheten-till-lakemedel-pa-apotek/",
+        "published": "2026-05-07",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Regeringen ger Tandvårds- och läkemedelsförmånsverket (TLV) i uppdrag att mäta hur ofta patienter kan få sina läkemedel direkt på apotek. Uppdraget omfattar både direktexpedieringsgraden på fysiska apotek och hur apotekens e-handel bidrar till tillgängligheten till läkemedel.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Metod ska utvecklas för att regelbundet mäta öppenvårdsapotekens tillhandahållande av läkemedel",
+                "url": "/pressmeddelanden/2023/06/metod-ska-utvecklas-for-att-regelbundet-mata-oppenvardsapotekens-tillhandahallande-av-lakemedel/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2248",
+            "1241",
+            "1233"
+        ]
+    },
+    {
+        "title": "Unga judars psykiska hälsa och ohälsa ska kartläggas",
+        "url": "/pressmeddelanden/2026/05/unga-judars-psykiska-halsa-och-ohalsa-ska-kartlaggas/",
+        "published": "2026-05-07",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "2624",
+            "1292"
+        ],
+        "summary": "Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF) får i uppdrag att genomföra en kartläggning av unga judars psykiska hälsa och ohälsa. I kartläggningen ska omgivande faktorer, såsom otrygghet och utsatthet för antisemitism, samt främjande och förebyggande faktorer som har påverkan på den psykiska hälsan hos unga judar särskilt uppmärksammas.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen föreslår att Judiska Centralrådet får medel för säkerhetshöjande åtgärder",
+                "url": "/pressmeddelanden/2026/03/regeringen-foreslar-att-judiska-centralradet-far-medel-for-sakerhetshojande-atgarder/"
+            },
+            {
+                "name": "Debattartikel: \"Antisemitismen är ett växande hot i vårt samhälle.”",
+                "url": "/debattartiklar/2026/03/antisemitismen-ar-ett-vaxande-hot-i-vart-samhalle/"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen stärker arbetet mot antisemitism riktat till unga",
+                "url": "/pressmeddelanden/2026/04/regeringen-starker-arbetet-mot-antisemitism-riktat-till-unga/"
+            },
+            {
+                "name": "Strategi för att stärka judiskt liv och motverka antisemitism i Sverige",
+                "url": "/regeringens-politik/samling-for-judiskt-liv/strategi-for-att-starka-judiskt-liv-och-motverka-antisemitism-i-sverige/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1219",
+            "2655",
+            "2666"
+        ]
+    },
+    {
+        "title": "Trafikverket får i uppdrag att hantera det ekonomiska stödet för resor till och från Gotland",
+        "url": "/pressmeddelanden/2026/05/trafikverket-far-i-uppdrag-att-hantera-det-ekonomiska-stodet-for-resor-till-och-fran-gotland/",
+        "published": "2026-05-07",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2425"
+        ],
+        "summary": "Regeringen ger Trafikverket i uppdrag att förbereda för och administrera utbetalningen av det stöd för resor till och från Gotland för folkbokförda på Gotland som regeringen beslutat om i Vårändringsbudgeten för 2026. Uppdragets genomförande förutsätter riksdagens godkännande av regeringens förslag",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringsuppdrag: Uppdrag till Trafikverket att förbereda för och administrera utbetalning av stöd för resor till och från Gotland",
+                "url": "/regeringsuppdrag/2026/05/uppdrag-till-trafikverket-att-forbereda-for-och-administrera-utbetalning-av-stod-for-resor-till-och-fran-gotland/"
+            },
+            {
+                "name": "Artikel: Frågor och svar beträffande stöd för resor till och från Gotland för folkbokförda på Gotland",
+                "url": "/artiklar/2026/04/fragor-och-svar-betraffande-stod-for-resor-till-och-fran-gotland-for-folkbokforda-pa-gotland/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1274"
+        ]
+    },
+    {
+        "title": "Ny överdirektör för Skatteverket utsedd",
+        "url": "/pressmeddelanden/2026/05/ny-overdirektor-for-skatteverket-utsedd/",
+        "published": "2026-05-07",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "Regeringen har i dag utsett Gunilla Åsenius till överdirektör vid Skatteverket. Gunilla Åsenius är i dag rättschef på Polismyndigheten. Hon tillträder som överdirektör den 15 juni.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1267"
+        ]
+    },
+    {
+        "title": "Ny ambassadör i Portugal",
+        "url": "/pressmeddelanden/2026/05/ny-ambassador-i-portugal/",
+        "published": "2026-05-07",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Regeringen har i dag utsett Johan Pehrson till ambassadör i Lissabon.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1279",
+            "1013",
+            "1153"
+        ]
+    },
+    {
+        "title": "Statssekreterare Westlén deltar i det nordiska miljö- och klimatministermötet",
+        "url": "/pressmeddelanden/2026/05/statssekreterare-westlen-deltar-i-det-nordiska-miljo--och-klimatministermotet/",
+        "published": "2026-05-07",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2792",
+            "1291"
+        ],
+        "summary": "Den 7 maj samlas de nordiska miljö- och klimatministrarna i Köpenhamn. På agendan står flera punkter om att stärka de gemensamma insatserna i klimatarbetet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Om mötet på nordiska ministerrådets webbplats- extern webbplats,",
+                "url": "https://opengov.360online.com/Meetings/nmr/Meetings/Details/833244"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1252",
+            "2435",
+            "1013"
+        ]
+    },
+    {
+        "title": "Civilminister Erik Slottner besöker Göteborg, Uddevalla och Trollhättan",
+        "url": "/pressmeddelanden/2026/05/civilminister-erik-slottner-besoker-goteborg-uddevalla-och-trollhattan/",
+        "published": "2026-05-07",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2614",
+            "1285"
+        ],
+        "summary": "Den 7–8 maj reser civilministern till Västra Götaland med stopp i Göteborg, Uddevalla och Trollhättan. Under resan står frågor om trygghet för äldre, digitalisering och samverkan mellan olika samhällsaktörer i fokus.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Digitaliseringsstrategin 2025-2030",
+                "url": "/regeringens-politik/digitaliseringsstrategin-2025-2030/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1238",
+            "2092",
+            "1262",
+            "2807"
+        ]
+    },
+    {
         "title": "Skärpta kontroller i tandvårdsstödet – kompletterande ändringar införs",
         "url": "/pressmeddelanden/2026/05/skarpta-kontroller-i-tandvardsstodet--kompletterande-andringar-infors/",
         "published": "2026-05-06",
