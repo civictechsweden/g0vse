@@ -1,0 +1,9 @@
+# Migrationsminister Johan Forssell deltog i International Migration Review Forum, New York
+
+Under konferensen, som följer upp och utvärderar det globala ramverket för säker, ordnad och reguljär migration, höll migrationsministern Sveriges anförande i FN:s generalförsamling. I sitt anförande lyfte ministern fram regeringens arbete med att attrahera högkvalificerad arbetskraft till Sverige och behovet av internationell samverkan mot irreguljär migration, särskilt i kampen mot människosmuggling och trafficking. Han lyfte också fram vikten av ett effektivt återvändande, särskilt av personer utvisade på grund av brott, som nödvändigt för ett välfungerande migrationssystem.
+
+Migrationsministern hade även flera bilaterala möten med bland annat Kanada, Somalia, Ukraina och Ecuador. Johan Forssell inledningstalade ​på ett sidoevent om migration och utvecklingsbistånd som anordnades av Sida samt deltog vid en lunch om återvändande och återuppbyggnad av Syrien, som anordnades av Nederländerna.
+
+Under konferensen, som följer upp och utvärderar det globala ramverket för säker, ordnad och reguljär migration, höll migrationsministern Sveriges anförande i FN:s generalförsamling. I sitt anförande lyfte ministern fram regeringens arbete med att attrahera högkvalificerad arbetskraft till Sverige och behovet av internationell samverkan mot irreguljär migration, särskilt i kampen mot människosmuggling och trafficking. Han lyfte också fram vikten av ett effektivt återvändande, särskilt av personer utvisade på grund av brott, som nödvändigt för ett välfungerande migrationssystem.
+
+Migrationsministern hade även flera bilaterala möten med bland annat Kanada, Somalia, Ukraina och Ecuador. Johan Forssell inledningstalade ​på ett sidoevent om migration och utvecklingsbistånd som anordnades av Sida samt deltog vid en lunch om återvändande och återuppbyggnad av Syrien, som anordnades av Nederländerna.
