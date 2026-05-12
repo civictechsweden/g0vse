@@ -1,5 +1,391 @@
 [
     {
+        "title": "Bistånds- och utrikeshandelsminister Benjamin Dousa besöker Örebro och Västerås",
+        "url": "/pressmeddelanden/2026/05/bistands--och-utrikeshandelsminister-benjamin-dousa-besoker-orebro-och-vasteras/",
+        "published": "2026-05-12",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2756",
+            "1295"
+        ],
+        "summary": "Den 12 maj besöker bistånds- och utrikeshandelsminister Benjamin Dousa Örebro och Västerås för att träffa företag.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1235"
+        ]
+    },
+    {
+        "title": "Pressbriefing gällande läget med hantaviruset",
+        "url": "/pressmeddelanden/2026/05/pressbriefing-med-folkhalsomyndigheten-med-anledning-av-hantavirus/",
+        "published": "2026-05-11",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Tisdag den 12 maj kl. 08.15 bjuder socialminister Jakob Forssmed in till en pressbriefing för att ge en aktuell bild om hantaviruset tillsammans med Folkhälsomyndighetens generaldirektör Olivia Wigzell och tf statsepidemiolog Erik Sturegård.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2655"
+        ]
+    },
+    {
+        "title": "Regeringen välkomnar överenskommelse i EU om samordning av sociala trygghetssystem",
+        "url": "/pressmeddelanden/2026/05/regeringen-valkomnar-overenskommelse-i-eu-om-samordning-av-sociala-trygghetssystem/",
+        "published": "2026-05-11",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2609",
+            "1284",
+            "1292"
+        ],
+        "summary": "Regeringen välkomnar att EU:s medlemsländer efter nästan tio år av förhandlingar nu har nått en överenskommelse om nya regler för samordningen av EU:s sociala trygghetssystem.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande om överenskommelsen på Europeiska unionens råds webbplats- extern webbplats,",
+                "url": "https://www.consilium.europa.eu/sv/press/press-releases/2026/04/29/social-security-coordination-eu-member-states-representatives-confirm-provisional-agreement/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1213",
+            "1269",
+            "1012"
+        ]
+    },
+    {
+        "title": "Parisa Liljestrand håller anförande vid konsert för att uppmärksamma Polens konstitutionsdag",
+        "url": "/pressmeddelanden/2026/05/parisa-liljestrand-haller-anforande-vid-konsert-for-att-uppmarksamma-polens-konstitutionsdag/",
+        "published": "2026-05-11",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2624",
+            "1288"
+        ],
+        "summary": "Måndagen den 11 maj deltar kulturminister Parisa Liljestrand vid en klassisk konsert på Konserthuset i Stockholm, som hålls för att högtidlighålla Polens konstitutionsdag som infaller den 3 maj.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1242",
+            "1152"
+        ]
+    },
+    {
+        "title": "Statsministern deltar vid nordiskt-indiskt toppmöte i Oslo",
+        "url": "/pressmeddelanden/2026/05/statsministern-deltar-vid-nordiskt-indiskt-toppmote-i-oslo/",
+        "published": "2026-05-11",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2605",
+            "1293"
+        ],
+        "summary": "Tisdag den 19 maj deltar statsminister Ulf Kristersson vid ett nordiskt-indiskt toppmöte i Oslo. Mötet samlar regeringschefer från Norden och Indiens premiärminister Narendra Modi för att stärka samarbetet mellan länderna inom områden som grön teknik, innovation och digitalisering.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1238",
+            "1235",
+            "2282",
+            "1013",
+            "1078",
+            "1142"
+        ]
+    },
+    {
+        "title": "Infrastruktur- och bostadsminister Andreas Carlson deltar vid informellt möte med EU:s bostadsministrar",
+        "url": "/pressmeddelanden/2026/05/infrastruktur--och-bostadsminister-andreas-carlson-deltar-vid-informellt-mote-med-eus-bostadsministrar/",
+        "published": "2026-05-11",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2425"
+        ],
+        "summary": "Tisdagen den 12 maj deltar infrastruktur- och bostadsminister vid ett informellt möte för EU:s bostadsministrar i Nicosia, Cypern.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1217",
+            "1012"
+        ]
+    },
+    {
+        "title": "EU-kommissionen har godkänt regeringens förslag på förändrad tonnagebeskattning",
+        "url": "/pressmeddelanden/2026/05/eu-kommissionen-har-godkant-regeringens-forslag-pa-forandrad-tonnagebeskattning/",
+        "published": "2026-05-11",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "För att stärka svensk sjöfarts konkurrenskraft har regeringen föreslagit en rad förbättringar av det svenska systemet för tonnagebeskattning. EU-kommissionen har nu beslutat att ge Sverige ett nytt statsstödsgodkännande, inklusive de föreslagna ändringarna, för perioden 2027–2036. Före sommaren väntas också riksdagen fatta beslut om ändringarna, som regeringen lämnat i en proposition.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:243 Förbättrade regler för svensk tonnagebeskattning",
+                "url": "/rattsliga-dokument/proposition/2026/04/prop.-202526243"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1267",
+            "1274",
+            "1012"
+        ]
+    },
+    {
+        "title": "Utredning lämnar förslag för stärkt sjö- och flygräddning",
+        "url": "/pressmeddelanden/2026/05/utredning-lamnar-forslag-for-starkt-sjo--och-flygraddning/",
+        "published": "2026-05-05",
+        "updated": "2026-05-11",
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2611",
+            "1286",
+            "2425"
+        ],
+        "summary": "(Ny version) Regeringen har tagit emot en utredning om förutsättningarna för att flytta sjö- och flygräddningstjänsten från Sjöfartsverket till en annan myndighet. Utredningen föreslår att det operativa ansvaret för sjö- och flygräddningen samlas hos Kustbevakningen, medan ansvaret för övergripande utveckling och utbildning samt samordning och tillsyn samlas hos Myndigheten för civilt försvar. Syftet är att skapa ökad tydlighet, effektivitet och långsiktig stabilitet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Departementspromemoria: En ny hemvist stärker sjö- och flygräddningstjänsten i Sverige",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/05/ds-20269/"
+            },
+            {
+                "name": "Kommittédirektiv: Uppdrag att utreda hemvisten för huvudmannaskapet för sjö- och flygräddningstjänsten i Sverige",
+                "url": "/rattsliga-dokument/kommittedirektiv/2025/12/uppdrag-att-utreda-hemvisten-for-huvudmannaskapet-for-sjo--och-flygraddningstjansten-i-sverige/"
+            },
+            {
+                "name": "Pressmeddelande: Sjö- och flygräddningens hemvist utreds",
+                "url": "/pressmeddelanden/2025/06/sjo--och-flygraddningens-hemvist-utreds/"
+            },
+            {
+                "name": "Pressmeddelande: Tillskott säkrar sjö- och flygräddningsverksamhet",
+                "url": "/pressmeddelanden/2025/03/tillskott-sakrar-sjo--och-flygraddningsverksamhet/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2248",
+            "1241",
+            "1274"
+        ]
+    },
+    {
+        "title": "Pål Jonson deltar i EU:s försvarsministermöte",
+        "url": "/pressmeddelanden/2026/05/pal-jonson-deltar-i-eus-forsvarsministermote/",
+        "published": "2026-05-11",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2627",
+            "1286"
+        ],
+        "summary": "Den 12 maj möts EU:s försvarsministrar inom ramen för EU:s råd för utrikes frågor (försvarsministrarna) i Bryssel. På agendan står bland annat EU:s fortsatta stöd till Ukraina, situationen i Mellanöstern och dess implikationer på europeiskt försvar och säkerhet samt stärkandet av europeisk försvarsberedskap. Försvarsminister Pål Jonson representerar Sverige vid mötet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Kommenterad dagordning inför rådet för utrikes frågor (försvarsministrarna) den 12 maj 2026",
+                "url": "/kommenterade-dagordningar/2026/05/kommenterad-dagordning-infor-radet-for-utrikes-fragor-forsvarsministrarna-den-12-maj-2026/"
+            },
+            {
+                "name": "Mer information om mötet på ministerrådets webbplats- extern webbplats,",
+                "url": "https://www.consilium.europa.eu/sv/meetings/fac/2026/05/12/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2247",
+            "2211",
+            "2696",
+            "2719",
+            "1012"
+        ]
+    },
+    {
+        "title": "Finansmarknadsminister Niklas Wykman till Gotland",
+        "url": "/pressmeddelanden/2026/05/finansmarknadsminister-niklas-wykman-till-gotland/",
+        "published": "2026-05-11",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2623",
+            "1285"
+        ],
+        "summary": "12 maj besöker finansmarknadsministern Gotland för möten med lokalt näringsliv och centrala aktörer inom spel- och banksektorn.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1231",
+            "2284"
+        ]
+    },
+    {
+        "title": "Sverige anordnar internationellt ungdomsforum med fokus på jämställdhet och demokrati i Belarus",
+        "url": "/pressmeddelanden/2026/05/sverige-anordnar-internationellt-ungdomsforum-med-fokus-pa-jamstalldhet-och-demokrati-i-belarus/",
+        "published": "2026-05-11",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2756",
+            "2754",
+            "1295"
+        ],
+        "summary": "Den 11 maj arrangerar Utrikesdepartementet, i samarbete med Centrum för Östeuropastudier (SCEEUS) vid Utrikespolitiska institutet (UI), en konferens i Stockholm på temat ungdoms- och jämställdhetsfrågor för ett framtida demokratiskt Belarus. Forumet samlar unga representanter från den belarusiska demokratirörelsen samt civilsamhällesföreträdare, beslutsfattare och experter från EU och Sverige. Konferensen syftar till att uppmärksamma vikten av ungdomars politiska deltagande för Belarus demokratiska utveckling.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1219",
+            "1215",
+            "1279",
+            "1012",
+            "1013",
+            "1206"
+        ]
+    },
+    {
+        "title": "Civilminister Erik Slottner besöker Falun, Särna och Idre",
+        "url": "/pressmeddelanden/2026/05/civilminister-erik-slottner-besoker-falun-sarna-och-idre/",
+        "published": "2026-05-11",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2614",
+            "1285"
+        ],
+        "summary": "Den 11–12 maj reser civilminister Erik Slottner till Dalarna med stopp i Falun, Särna och Idre. Under resan står frågor om regional utveckling, digitalisering och samverkan i fokus.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Digitaliseringsstrategin 2025-2030",
+                "url": "/regeringens-politik/digitaliseringsstrategin-2025-2030/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1238",
+            "2092",
+            "1262",
+            "1260"
+        ]
+    },
+    {
+        "title": "Regeringen ger tre universitet medel för att starta nya masterprogram – vill stärka svenskt inflytande i EU",
+        "url": "/pressmeddelanden/2026/05/regeringen-ger-tre-universitet-medel-for-att-starta-nya-masterprogram--vill-starka-svenskt-inflytande-i-eu/",
+        "published": "2026-05-11",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2754",
+            "2620",
+            "1293",
+            "1294"
+        ],
+        "summary": "För att stärka Sveriges genomslag i EU presenterade regeringen i höstas en satsning på nya högkvalitativa masterprogram i offentlig förvaltning med ett tydligt EU-perspektiv. Nu har regeringen beslutat att Handelshögskolan i Stockholm, Stockholms universitet och Göteborgs universitet får medel för att starta utbildningarna.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Miljonsatsning på utbildning stärker Sveriges genomslag i EU",
+                "url": "/pressmeddelanden/2025/09/miljonsatsning-pa-utbildning-starker-sveriges-genomslag-i-eu/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1277",
+            "1012"
+        ]
+    },
+    {
+        "title": "Äldre- och socialförsäkringsministern besöker Karlshamn, Sölvesborg och Kalmar",
+        "url": "/pressmeddelanden/2026/05/aldre--och-socialforsakringsministern-besoker-karlshamn-solvesborg-och-kalmar/",
+        "published": "2026-05-11",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2609",
+            "1292"
+        ],
+        "summary": "Den 12 maj reser äldre- och socialförsäkringsminister Anna Tenje till Karlshamn och Sölvesborg, och onsdagen den 13 maj till Kalmar.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringens bidragsreform",
+                "url": "/regeringens-politik/socialforsakringar/regeringens-bidragsreform/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1269",
+            "2656"
+        ]
+    },
+    {
+        "title": "Bistånds- och utrikeshandelsminister Benjamin Dousa besöker Uppsala",
+        "url": "/pressmeddelanden/2026/05/bistands--och-utrikeshandelsminister-benjamin-dousa-besoker-uppsala/",
+        "published": "2026-05-11",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2756",
+            "1295"
+        ],
+        "summary": "Den 11 maj besöker bistånds- och utrikeshandelsminister Benjamin Dousa Uppsala för att träffa företag, gymnasieelever och universitetsstudenter.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1235"
+        ]
+    },
+    {
         "title": "Utrikesminister Maria Malmer Stenergard deltar i EU:s utrikesministermöte i Bryssel",
         "url": "/pressmeddelanden/2026/05/utrikesminister-maria-malmer-stenergard-deltar-i-eus-utrikesministermote-i-bryssel/",
         "published": "2026-05-11",
@@ -1242,47 +1628,6 @@
         "attachments": [],
         "categories": [
             "1279"
-        ]
-    },
-    {
-        "title": "Utredning lämnar förslag för stärkt sjö- och flygräddning",
-        "url": "/pressmeddelanden/2026/05/utredning-lamnar-forslag-for-starkt-sjo--och-flygraddning/",
-        "published": "2026-05-05",
-        "updated": null,
-        "types": [
-            "1334"
-        ],
-        "senders": [
-            "2608",
-            "2611",
-            "1286",
-            "2425"
-        ],
-        "summary": "Regeringen har tagit emot en utredning om förutsättningarna för att flytta sjö- och flygräddningstjänsten från Sjöfartsverket till en annan myndighet. Utredningen föreslår att det operativa ansvaret för sjö- och flygräddningen samlas hos Kustbevakningen, medan ansvaret för övergripande utveckling och utbildning samt samordning och tillsyn samlas hos Myndigheten för civilt försvar. Syftet är att skapa ökad tydlighet, effektivitet och långsiktig stabilitet.",
-        "id": null,
-        "shortcuts": [
-            {
-                "name": "Departementspromemoria: En ny hemvist stärker sjö- och flygräddningstjänsten i Sverige",
-                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/05/ds-20269/"
-            },
-            {
-                "name": "Kommittédirektiv: Uppdrag att utreda hemvisten för huvudmannaskapet för sjö- och flygräddningstjänsten i Sverige",
-                "url": "/rattsliga-dokument/kommittedirektiv/2025/12/uppdrag-att-utreda-hemvisten-for-huvudmannaskapet-for-sjo--och-flygraddningstjansten-i-sverige/"
-            },
-            {
-                "name": "Pressmeddelande: Sjö- och flygräddningens hemvist utreds",
-                "url": "/pressmeddelanden/2025/06/sjo--och-flygraddningens-hemvist-utreds/"
-            },
-            {
-                "name": "Pressmeddelande: Tillskott säkrar sjö- och flygräddningsverksamhet",
-                "url": "/pressmeddelanden/2025/03/tillskott-sakrar-sjo--och-flygraddningsverksamhet/"
-            }
-        ],
-        "attachments": [],
-        "categories": [
-            "2248",
-            "1241",
-            "1274"
         ]
     },
     {
