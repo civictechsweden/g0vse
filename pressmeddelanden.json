@@ -1,5 +1,374 @@
 [
     {
+        "title": "Svensk polis ger fordon till Ukraina",
+        "url": "/pressmeddelanden/2026/05/svensk-polis-ger-fordon-till-ukraina/",
+        "published": "2026-05-13",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen har beslutat att låta Polismyndigheten överlåta nio fordon till Ukraina. Beslutet är ett direkt svar på en förfrågan från Ukrainas nationella polis. Fordonen används inte längre av svensk polis och kan nu komma till användning där det finns behov.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2248",
+            "1279",
+            "2584",
+            "1198"
+        ]
+    },
+    {
+        "title": "Utredning för effektiv informationshantering i arbetet mot organiserad brottslighet",
+        "url": "/pressmeddelanden/2026/05/utredning-for-effektiv-informationshantering-i-arbetet-mot-organiserad-brottslighet/",
+        "published": "2026-05-13",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "Regeringen tillsätter en utredning för att se över Skatteverkets och Tullverkets behandling av personuppgifter i sina brottsbekämpande verksamheter. I uppdraget ingår också att analysera behovet av ett stärkt skydd för anställda vid Skatteverket, Tullverket och Kronofogdemyndigheten.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Dir. 2026:28 En modern och ändamålsenlig dataskyddsreglering för Skatteverkets och Tullverkets brottsbekämpande verksamheter samt ett stärkt skydd för personal vid Skatteverket, Tullverket och Kronofogdemyndigheten",
+                "url": "/rattsliga-dokument/kommittedirektiv/2026/05/dir.-202628"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1224",
+            "1267",
+            "2690",
+            "2688"
+        ]
+    },
+    {
+        "title": "Regeringen effektiviserar tillståndsprocesserna för kärnkraft",
+        "url": "/pressmeddelanden/2026/05/regeringen-effektiviserar-tillstandsprocesserna-for-karnkraft/",
+        "published": "2026-05-13",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2792",
+            "1291"
+        ],
+        "summary": "Regeringen har i dag beslutat förordningsändringar som kompletterar propositionen om en mer ändamålsenlig prövning av kärntekniska anläggningar. Ändringarna förtydligar och effektiviserar tillståndsprocessen ytterligare. Avgifterna för tillståndsprövningarna har setts över och anpassats så att de blir mer rättvisa och ändamålsenliga.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:171 En mer ändamålsenlig prövning av kärntekniska anläggningar",
+                "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526171"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen gör det enklare att etablera ny kärnkraft",
+                "url": "/pressmeddelanden/2026/03/regeringen-gor-det-enklare-att-etablera-ny-karnkraft/"
+            },
+            {
+                "name": "Pressmeddelande: Fler åtgärder för ny kärnkraftWebb-TV",
+                "url": "/pressmeddelanden/2026/02/fler-atgarder-for-ny-karnkraft/"
+            },
+            {
+                "name": "Samlingssida: Kärnkraft i Sverige",
+                "url": "/regeringens-politik/karnkraft-i-sverige/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1252",
+            "2811"
+        ]
+    },
+    {
+        "title": "Ny fondtyp ska stärka konkurrenskraften på den svenska fondmarknaden",
+        "url": "/pressmeddelanden/2026/05/ny-fondtyp-ska-starka-konkurrenskraften-pa-den-svenska-fondmarknaden/",
+        "published": "2026-05-13",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2623",
+            "1285"
+        ],
+        "summary": "Regeringen föreslår i en lagrådsremiss att det ska vara möjligt att bilda skattetransparenta värdepappersfonder i Sverige. En sådan fond är inget eget skattesubjekt och andelsägarna beskattas löpande för avkastningen. Fondtypen ska bara vara öppen för vissa kategorier av institutionella investerare, till exempel pensionsförvaltare. Syftet är att stärka den svenska fondmarknaden.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Lagrådsremiss: Skattetransparenta värdepappersfonder för institutionella investerare",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/05/skattetransparenta-vardepappersfonder-for-institutionella-investerare/"
+            },
+            {
+                "name": "SOU 2025:60 En starkare fondmarknad",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/05/sou-202560/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1231",
+            "2734"
+        ]
+    },
+    {
+        "title": "Ny förordning och nytt uppdrag om obligatoriska kommunala hyresgarantier",
+        "url": "/pressmeddelanden/2026/05/ny-forordning-och-nytt-uppdrag-om-obligatoriska-kommunala-hyresgarantier/",
+        "published": "2026-05-13",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2610",
+            "2425"
+        ],
+        "summary": "Regeringen har beslutat en ny förordning om att kommuner i vissa fall har en skyldighet att ställa hyresgarantier till barnfamiljer. Regeringen har i samband med detta också beslutat ett nytt uppdrag till Boverket och Socialstyrelsen att stödja kommunerna i fråga om skyldigheten.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Proposition: Kommunala hyresgarantier för en socialt hållbar bostadsförsörjning",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/02/kommunala-hyresgarantier-for-en-socialt-hallbar-bostadsforsorjning/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1217"
+        ]
+    },
+    {
+        "title": "Redovisning av användning av hemliga tvångsmedel mot barn under 15 år",
+        "url": "/pressmeddelanden/2026/05/redovisning-av-anvandning-av-hemliga-tvangsmedel-mot-barn-under-15-ar/",
+        "published": "2026-05-13",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen ger Åklagarmyndigheten i uppdrag att, tillsammans med Ekobrottsmyndigheten, Polismyndigheten, Säkerhetspolisen och Tullverket, årligen redovisa hur hemliga och preventiva tvångsmedel används mot barn under 15 år. Uppdraget kompletterar tidigare redovisningskrav. Syftet är att bredda regeringens och riksdagens underlag vid uppföljning av regeländringarna.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1263",
+            "2690",
+            "2710"
+        ]
+    },
+    {
+        "title": "Regeringen föreslår värdeöverföringsförbud och ytterligare skärpta regler för friskolesektorn",
+        "url": "/pressmeddelanden/2026/05/regeringen-foreslar-vardeoverforingsforbud-och-ytterligare-skarpta-regler-for-friskolesektorn/",
+        "published": "2026-05-13",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2791",
+            "1294"
+        ],
+        "summary": "Sverige behöver ett friskolesystem med betydligt striktare regler. I en lagrådsremiss föreslår regeringen därför bland annat ett värdeöverföringsförbud och skarpare sanktionsmöjligheter för tillsynsmyndigheterna.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Lagrådsremiss: Skärpta villkor för friskolesektorn",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/05/skarpta-villkor-for-friskolesektorn/"
+            },
+            {
+                "name": "Presentationsbilder från pressträff den 13 maj 2026 om skärpta villkor för friskolesektorn.pdf",
+                "url": "/globalassets/regeringen/dokument/utbildningsdepartementet/presentationsbilder-fran-presstraff-den-13-maj-2026-om-skarpta-villkor-for-friskolesektorn.pdf"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1276",
+            "2697",
+            "2688",
+            "2694"
+        ]
+    },
+    {
+        "title": "Förordnande i Läsrådet vid Statens kulturråd",
+        "url": "/pressmeddelanden/2026/05/forordnande-i-lasradet-vid-statens-kulturrad/",
+        "published": "2026-05-13",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2624",
+            "1288"
+        ],
+        "summary": "Regeringen har beslutat att tillförordna rektorn Peter Westergård som ledamot i Läsrådet vid Statens kulturråd.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1242"
+        ]
+    },
+    {
+        "title": "Statsministern tar emot Natos generalsekreterare Mark Rutte",
+        "url": "/pressmeddelanden/2026/05/statsministern-tar-emot-natos-generalsekreterare-mark-rutte/",
+        "published": "2026-05-13",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2611",
+            "2627",
+            "2605",
+            "1293"
+        ],
+        "summary": "Torsdag den 21 maj tar statsminister Ulf Kristersson emot Natos generalsekreterare Mark Rutte för ett bilateralt möte och gemensamt besök med fokus på Sveriges totalförsvar, civilt försvar och resiliens. I samband med besöket hålls en gemensam pressbriefing i Revinge, Skåne.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "North Atlantic Treaty Organization (Natos webbplats)- extern webbplats,",
+                "url": "https://www.nato.int/en"
+            },
+            {
+                "name": "Natos utrikesministermöte i Helsingborg",
+                "url": "/regeringens-politik/natos-utrikesministermote-i-helsingborg/"
+            },
+            {
+                "name": "Sverige i Nato",
+                "url": "/regeringens-politik/sverige-i-nato/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2248",
+            "2247",
+            "1279",
+            "2593",
+            "2814",
+            "2703"
+        ]
+    },
+    {
+        "title": "Ytterligare skattesänkningar på drivmedel",
+        "url": "/pressmeddelanden/2026/05/ytterligare-skattesankningar-pa-drivmedel/",
+        "published": "2026-05-13",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "För att motverka ökade drivmedelspriser på grund av kriget i Iran föreslås ytterligare tillfälliga skattesänkningar på bensin och diesel. Skattesänkningen föreslås vara 2 kronor och 40 öre per liter, vilket motsvarar 3 kronor inklusive moms vid full prisövervältring, under perioden 1 juli–30 november 2026. Förslaget remitteras nu av Finansdepartementet och planeras ingå i en kommande extra ändringsbudget.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Promemoria: Ytterligare tillfälligt sänkt skatt på bensin och diesel",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/05/ytterligare-tillfalligt-sankt-skatt-pa-bensin-och-diesel/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff den 13 maj 2026 om åtgärder mot bakgrund av den globala energikrisen (pdf 982 kB)",
+                "url": "/globalassets/regeringen/dokument/klimat--och-naringslivsdepartementet/ppt/presentationsbilder-fran-presstraff-den-13-maj-2026-om-atgarder-mot-bakgrund-av-den-globala-energikrisen.pdf"
+            }
+        ],
+        "categories": [
+            "1226",
+            "1267",
+            "2212",
+            "1012"
+        ]
+    },
+    {
+        "title": "Parisa Liljestrand tar emot betänkande från Utredningen om breddad kulturfinansiering",
+        "url": "/pressmeddelanden/2026/05/parisa-liljestrand-tar-emot-betankande-fran-utredningen-om-breddad-kulturfinansiering/",
+        "published": "2026-05-13",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2624",
+            "1288"
+        ],
+        "summary": "Måndag den 18 maj tar kulturminister Parisa Liljestrand emot betänkandet från Utredningen om breddad kulturfinansiering. I samband med överlämningen bjuder ministern in till pressträff tillsammans med den särskilda utredaren Karin Forseke. Utredningen har haft i uppdrag att lämna förslag på hur den icke-offentliga finansieringen av kultur kan öka genom ekonomiska incitament.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1242"
+        ]
+    },
+    {
+        "title": "Pressträff om skärpta villkor för friskolesektorn",
+        "url": "/pressmeddelanden/2026/05/presstraff-om-skarpta-villkor-for-friskolesektorn/",
+        "published": "2026-05-12",
+        "updated": "2026-05-13",
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2791",
+            "1294"
+        ],
+        "summary": "(Ny version) Onsdag den 13 maj bjuder utbildnings- och integrationsminister Simona Mohamsson in till en pressträff. På pressträffen presenteras flera förslag för att skärpa villkoren för friskolesektorn. På pressträffen deltar även Josefin Malmqvist, utbildningspolitisk talesperson för Moderaterna, Liza-Maria Norlin, partisekreterare för Kristdemokraterna, och Patrick Reslow, skolpolitisk talesperson för Sverigedemokraterna.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1276",
+            "2697",
+            "2688",
+            "2694"
+        ]
+    },
+    {
+        "title": "Pressträff om ytterligare åtgärder mot bakgrund av den globala energikrisen",
+        "url": "/pressmeddelanden/2026/05/presstraff-om-ytterligare-atgarder-mot-bakgrund-av-den-globala-energikrisen/",
+        "published": "2026-05-13",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2612",
+            "2613",
+            "2792",
+            "1285"
+        ],
+        "summary": "Onsdag den 13 maj kl 11.30 bjuder finansminister Elisabeth Svantesson, energi- och näringsminister Ebba Busch, vikarierande klimat- och miljöminister Johan Britz och Martin Kinnunen (SD) in till pressträff för att presentera ytterligare åtgärder mot bakgrund av den globala energikrisen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff den 13 maj 2026 om åtgärder mot bakgrund av den globala energikrisen (pdf 982 kB)",
+                "url": "/globalassets/regeringen/dokument/klimat--och-naringslivsdepartementet/ppt/presentationsbilder-fran-presstraff-den-13-maj-2026-om-atgarder-mot-bakgrund-av-den-globala-energikrisen.pdf"
+            }
+        ],
+        "categories": [
+            "1232",
+            "1226",
+            "2777"
+        ]
+    },
+    {
         "title": "Nordiskt möte om EU:s elnätspaket",
         "url": "/pressmeddelanden/2026/05/nordiskt-mote-om-eus-elnatspaket/",
         "published": "2026-05-12",
@@ -52,30 +421,6 @@
         "categories": [
             "2247",
             "2593"
-        ]
-    },
-    {
-        "title": "Pressträff om skärpta villkor för friskolesektorn",
-        "url": "/pressmeddelanden/2026/05/presstraff-om-skarpta-villkor-for-friskolesektorn/",
-        "published": "2026-05-12",
-        "updated": null,
-        "types": [
-            "1334",
-            "1343"
-        ],
-        "senders": [
-            "2791",
-            "1294"
-        ],
-        "summary": "Onsdag den 13 maj bjuder utbildnings- och integrationsminister Simona Mohamsson in till en pressträff. På pressträffen presenteras flera förslag för att skärpa villkoren för friskolesektorn. På pressträffen deltar även Josefin Malmqvist, utbildningspolitisk talesperson för Moderaterna, Mathias Bengtsson, utbildningspolitisk talesperson för Kristdemokraterna och Patrick Reslow, skolpolitisk talesperson för Sverigedemokraterna.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "1276",
-            "2697",
-            "2688",
-            "2694"
         ]
     },
     {
