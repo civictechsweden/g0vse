@@ -1,0 +1,11 @@
+# Ett år med digitaliseringsstrategin – från strategi till resultat
+
+För omkring ett år sedan beslutade regeringen om Sveriges digitaliseringsstrategi 2025–2030. Strategin pekar ut riktningen för regeringens digitaliseringspolitik och har sedan lanseringen legat till grund för en rad konkreta åtgärder.
+
+Digitaliseringsstrategin är ett verktyg för att skapa långsiktiga och samordnade förbättringar i offentlig sektor och näringsliv. Fokus ligger på att förenkla vardagen för människor och företag. Det handlar exempelvis om effektivare processer, ökad tillgänglighet och högre kvalitet i offentliga tjänster.
+
+– Den här regeringen har haft en mycket ambitiös digitaliseringspolitik. En av destörsta satsningarna på forskning och utveckling någonsin, ett omfattande reformpaket på AI och data i budgeten för 2026 och miljarder i bredbandsstöd är några exempel som vittnar om regeringens reformtempo. Sveriges första heltäckande digitaliseringsstrategi innehåller konkreta mål och åtgärder, snarare än en hyllvärmare som samlar damm. Strategin i sig är inte målet. Det är de praktiska förändringarna som bidrar till ökad effektivitet, stärkt konkurrenskraft och bättre service till medborgare och företag som är avgörande, säger civilminister Erik Slottner.
+
+Sedan strategin antogs har ett stort antal myndighetsuppdrag, lagförslag, budgetsatsningar, utredningar och andra insatser initierats eller genomförts inom ramen för strategin. Bland annat ska Försäkringskassan och Skatteverket etablera en AI-verkstad för den offentliga förvaltningen. Regeringen har föreslagit lagändringar för bättre datakvalitet och förenklad datadelning i offentlig förvaltning. Myndigheten för digital förvaltning (Digg) och Post- och telestyrelsen (PTS) har fått flertalet uppdrag, bland annat att ta fram ett förslag på en gemensam digital ingång och att utveckla arbetet med att förebygga och stärka förmågan att hantera incidenter som kan följa av aktörsdrivna hot i sektorn för elektronisk kommunikation, samt att intensifiera arbetet med att minska det digitala utanförskapet.
+
+Nedan redovisas beslut, uppdrag och satsningar som har genomförts sedan strategin lanserades. Listan visar status för genomförandet i maj 2026.

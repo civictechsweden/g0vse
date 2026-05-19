@@ -1,0 +1,3 @@
+# Uppdrag till Inspektionen för vård och omsorg att förbereda för rollen som myndighet för digital hälsa enligt EHDS-förordningen
+
+Regeringen ger Inspektionen för vård och omsorg (IVO) i uppdrag att förbereda för rollen som myndighet för digital hälsa (MDH) enligt Europaparlamentets och rådets förordning (EU) 2025/327 av den 11 februari 2025 om det europeiska hälsodataområdet och om ändring av direktiv 2011/24/EU och förordning (EU) 2024/2847 (EHDS-förordningen) med ansvar för regelefterlevnad av bestämmelserna i kapitel II. IVO ska särskilt analysera vad ansvar för efterlevnad enligt artikel 19.1 innebär.
