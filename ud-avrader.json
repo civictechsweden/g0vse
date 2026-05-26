@@ -1,5 +1,23 @@
 [
     {
+        "title": "Venezuela - avrådan",
+        "url": "/ud-avrader/venezuela---avradan/",
+        "published": "2026-05-25",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Utrikesdepartementet avråder från alla resor i Venezuela inom 20 km från gränsen till Colombia.\n\nVidare avråder Utrikesdepartementet från icke-nödvändiga resor till övriga Venezuela.\n\nBeslut om lättad avrådan togs den 25 maj 2026. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1204"
+        ]
+    },
+    {
         "title": "Malaysia - avrådan",
         "url": "/ud-avrader/malaysia---avradan/",
         "published": "2026-03-19",
@@ -342,24 +360,6 @@
         "categories": [
             "2204",
             "1090"
-        ]
-    },
-    {
-        "title": "Venezuela - avrådan",
-        "url": "/ud-avrader/venezuela---avradan/",
-        "published": "2025-12-02",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till Venezuela\n \nBeslut om avrådan togs den 2 december 2025. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1204"
         ]
     },
     {

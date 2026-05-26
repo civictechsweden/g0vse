@@ -1,5 +1,217 @@
 [
     {
+        "title": "EU-minister Jessica Rosencrantz deltar i Allmänna rådet i Bryssel",
+        "url": "/pressmeddelanden/2026/05/eu-minister-jessica-rosencrantz-deltar-i-allmanna-radet-i-bryssel/",
+        "published": "2026-05-26",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2754",
+            "1293"
+        ],
+        "summary": "Den 26 maj träffar EU-minister Jessica Rosencrantz sina europeiska ministerkollegor i Allmänna rådet (GAC) i Bryssel. På agendan står bland annat EU:s långtidsbudget, förbindelserna mellan EU och Storbritannien samt förberedelser inför att EU:s stats- och regeringschefer möts i Europeiska rådet i juni.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Kommenterad dagordning inför Allmänna rådets möte den 26 maj 2026",
+                "url": "/kommenterade-dagordningar/2026/01/kommenterad-dagordning-infor-allmanna-radets-mote-den-26-januari-2026/"
+            },
+            {
+                "name": "Om mötet och de viktigaste resultaten på ministerrådets webbplats- extern webbplats,",
+                "url": "https://www.consilium.europa.eu/sv/meetings/gac/2026/05/26/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2211",
+            "1012"
+        ]
+    },
+    {
+        "title": "Sverige ger ytterligare 235 miljoner kronor i humanitärt stöd för att stödja hälso- och sjukvård i Gaza",
+        "url": "/pressmeddelanden/2026/05/sverige-ger-ytterligare-235-miljoner-kronor-i-humanitart-stod-for-att-stodja-halso--och-sjukvard-i-gaza/",
+        "published": "2026-05-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2756",
+            "1295"
+        ],
+        "summary": "Regeringen beslutar om ytterligare ett humanitärt stödpaket till Gaza om 235 miljoner kronor. Syftet är att möta de alltjämt enorma humanitära behoven och samtidigt bidra till förbättrad hälsa och vård för Gazas civilbefolkning, som i över två och ett halvt år har levt under extrema humanitära påfrestningar.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1215",
+            "1013",
+            "1147"
+        ]
+    },
+    {
+        "title": "Ännu en ansökan om etablering av ny kärnkraft",
+        "url": "/pressmeddelanden/2026/05/annu-en-ansokan-om-etablering-av-ny-karnkraft/",
+        "published": "2026-05-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2792",
+            "1291"
+        ],
+        "summary": "Regeringen har nu tagit emot ännu en ansökan om regeringens godkännande av en kärnteknisk anläggning. Det handlar om en kärnkraftspark vid Studsvik i Nyköpings kommun. Det är den tredje ansökan enligt den nya lagen där regeringen och berörd kommun tidigt i tillståndsprocessen kan ta ställning till en ny kärnteknisk anläggning.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Ytterligare ansökan om etablering av ny kärnkraft",
+                "url": "/pressmeddelanden/2026/05/ytterligare-ansokan-om-etablering-av-ny-karnkraft/"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen har tagit emot ansökan om etablering av ny kärnkraft",
+                "url": "/artiklar/2026/03/regeringen-har-tagit-emot-ansokan-om-etablering-av-ny-karnkraft/"
+            },
+            {
+                "name": "Kärnkraft i Sverige",
+                "url": "/regeringens-politik/karnkraft-i-sverige/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1226",
+            "1252",
+            "2691",
+            "2811",
+            "2746",
+            "2688"
+        ]
+    },
+    {
+        "title": "Pressinbjudan: Andreas Carlson tar emot delredovisning från Egnahemskommissionären",
+        "url": "/pressmeddelanden/2026/05/pressinbjudan-andreas-carlson-tar-emot-delredovisning-fran-egnahemskommissionaren/",
+        "published": "2026-05-25",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2608",
+            "2425"
+        ],
+        "summary": "Tisdag den 26 maj bjuder infrastruktur- och bostadsminister Andreas Carlson in till en pressträff där Egnahemskommissionären Stefan Attefall presenterar rekommendationer inom ramen för sitt uppdrag att verka för ökat småhusbyggande.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1217"
+        ]
+    },
+    {
+        "title": "Ebba Busch inledningstalar vid Nordic Nuclear Forum",
+        "url": "/pressmeddelanden/2026/05/ebba-busch-inledningstalar-vid-nordic-nuclear-forum/",
+        "published": "2026-05-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "1291"
+        ],
+        "summary": "Tisdag den 26 maj deltar energi-och näringsminister Ebba Busch vid Nordic Nuclear Forum.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Kärnkraft i Sverige",
+                "url": "/regeringens-politik/karnkraft-i-sverige/"
+            },
+            {
+                "name": "Medieackreditering på Nordic Nuclear Forums hemsida- extern webbplats,",
+                "url": "https://nordicnuclearforum.fi/2026/05/22/nordic-nuclear-forum-2026-brings-nordic-and-international-nuclear-leaders-to-stockholm/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1226",
+            "2811"
+        ]
+    },
+    {
+        "title": "Fler innovativa digitala lösningar i offentlig sektor",
+        "url": "/pressmeddelanden/2026/05/fler-innovativa-digitala-losningar-i-offentlig-sektor-2/",
+        "published": "2026-05-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2614",
+            "1285"
+        ],
+        "summary": "Regeringen har gett Upphandlingsmyndigheten i uppdrag att genomföra informationsinsatser och möjliggöra kunskapsutbyte mellan näringslivet och upphandlande organisationer. Syftet är att underlätta för små och medelstora företag som erbjuder innovativa digitala tjänster att i större utsträckning delta i offentliga affärer.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1238",
+            "2194"
+        ]
+    },
+    {
+        "title": "Infrastruktur- och bostadsminister Andreas Carlson håller pressbriefing på Uppsala Centralstation",
+        "url": "/pressmeddelanden/2026/05/infrastruktur--och-bostadsminister-andreas-carlson-haller-pressbriefing-pa-uppsala-centralstation/",
+        "published": "2026-05-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2425"
+        ],
+        "summary": "Måndagen den 25 maj kl. 11:45 håller infrastruktur- och bostadsminister Andreas Carlson pressbriefing på Uppsala Centralstation tillsammans med landshövding Stefan Attefall.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1217",
+            "1274"
+        ]
+    },
+    {
+        "title": "Ny nationell stödfunktion ska stärka ansvarsfull internationalisering",
+        "url": "/pressmeddelanden/2026/05/ny-nationell-stodfunktion-ska-starka-ansvarsfull-internationalisering/",
+        "published": "2026-05-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2620",
+            "1294"
+        ],
+        "summary": "I takt med att den säkerhetspolitiska osäkerheten i världen ökar, ökar behoven av att svenska aktörer inom högre utbildning, forskning och innovation samarbetar internationellt på ett säkert och ansvarsfullt sätt. Regeringen ger därför Vetenskapsrådet i uppdrag att ansvara för en nationell stödfunktion för ansvarsfull internationalisering vid utbildnings-, forsknings- och innovationssamarbeten.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringsuppdrag: Uppdrag till Vetenskapsrådet om nationell stödfunktion för ansvarsfull internationalisering vid utbildnings-, forsknings- och innovationssamarbeten",
+                "url": "/regeringsuppdrag/2026/05/uppdrag-till-vetenskapsradet-om-nationell-stodfunktion-for-ansvarsfull-internationalisering-vid-utbildnings--forsknings--och-innovationssamarbeten/"
+            },
+            {
+                "name": "Pressmeddelande: Stärkt stöd för säker forskning i en orolig omvärld",
+                "url": "/pressmeddelanden/2025/05/starkt-stod-for-saker-forskning-i-en-orolig-omvarld/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1277"
+        ]
+    },
+    {
         "title": "Civilminister Erik Slottner besöker Västra Götalands län, Värmlands län och Örebro län",
         "url": "/pressmeddelanden/2026/05/civilminister-erik-slottner-besoker-vastra-gotalands-lan-varmlands-lan-och-orebro-lan/",
         "published": "2026-05-25",
