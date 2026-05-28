@@ -1,5 +1,35 @@
 [
     {
+        "title": "Vägen mot utfasning",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/05/sou-202633/",
+        "published": "2026-05-27",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1291"
+        ],
+        "summary": "Styrmedel för ett fossilfritt samhälle",
+        "id": "SOU 2026:33",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Utredning föreslår styrmedel för att fasa ut fossila bränslen",
+                "url": "/pressmeddelanden/2026/05/utredning-foreslar-styrmedel-for-att-fasa-ut-fossila-branslen/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Vägen mot utfasning – Styrmedel för ett fossilfritt samhälle, SOU 2026:33 (pdf 5 MB)",
+                "url": "/contentassets/779961287e264bcaa873040f8da66c2d/vagen-mot-utfasning--styrmedel-for-ett-fossilfritt-samhalle-sou-202633.pdf"
+            }
+        ],
+        "categories": [
+            "1252"
+        ]
+    },
+    {
         "title": "Mer flexibla regler om verkställighet av häktning och fängelsestraff",
         "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/05/sou-202630/",
         "published": "2026-05-18",
