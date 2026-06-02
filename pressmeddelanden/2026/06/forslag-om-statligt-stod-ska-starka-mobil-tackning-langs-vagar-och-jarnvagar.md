@@ -1,0 +1,13 @@
+# Förslag om statligt stöd ska stärka mobil täckning längs vägar och järnvägar
+
+– Arbetspendlare och företag behöver pålitliga mobiltjänster för att det ska vara möjligt att bo, leva och verka i hela landet. Sverige har kommit långt i digital infrastruktur, men vi behöver nu ta nästa steg för att möta ett allt mer uppkopplat samhälle, säger civilminister Erik Slottner.
+
+För många människor är pendling med tåg eller bil en del av vardagen. Möjligheten att arbeta under resan och ha bra mobiltäckning är ofta en viktig förutsättning för att vardagen ska fungera. För att stärka lokala arbetsmarknader, förbättra tillgängligheten till samhällsviktiga tjänster och skapa förutsättningar för innovation, till exempel självkörande fordon, föreslår PTS att ett riktat stöd införs för utbyggnad av mobil infrastruktur längs prioriterade transportstråk. PTS föreslår bland annat att stödet ska kunna riktas till områden som ger stor samhällsnytta och att det ska utformas så att det främjar effektiv utbyggnad och konkurrens.
+
+– Nu kommer ytterligare ett glädjebesked till landets pendlare och resenärer. Efter att vi gett besked om den rekordstora nationella planen som kommer rusta transportinfrastrukturen i hela landet, innebär det nya förslaget ett viktigt steg mot en bättre uppkoppling längs landets vägar och järnvägar, säger infrastruktur- och bostadsminister Andreas Carlson.
+
+– Arbetspendlare och företag behöver pålitliga mobiltjänster för att det ska vara möjligt att bo, leva och verka i hela landet. Sverige har kommit långt i digital infrastruktur, men vi behöver nu ta nästa steg för att möta ett allt mer uppkopplat samhälle, säger civilminister Erik Slottner.
+
+För många människor är pendling med tåg eller bil en del av vardagen. Möjligheten att arbeta under resan och ha bra mobiltäckning är ofta en viktig förutsättning för att vardagen ska fungera. För att stärka lokala arbetsmarknader, förbättra tillgängligheten till samhällsviktiga tjänster och skapa förutsättningar för innovation, till exempel självkörande fordon, föreslår PTS att ett riktat stöd införs för utbyggnad av mobil infrastruktur längs prioriterade transportstråk. PTS föreslår bland annat att stödet ska kunna riktas till områden som ger stor samhällsnytta och att det ska utformas så att det främjar effektiv utbyggnad och konkurrens.
+
+– Nu kommer ytterligare ett glädjebesked till landets pendlare och resenärer. Efter att vi gett besked om den rekordstora nationella planen som kommer rusta transportinfrastrukturen i hela landet, innebär det nya förslaget ett viktigt steg mot en bättre uppkoppling längs landets vägar och järnvägar, säger infrastruktur- och bostadsminister Andreas Carlson.
