@@ -1,5 +1,426 @@
 [
     {
+        "title": "Socialminister Jakob Forssmed besöker Helsingfors",
+        "url": "/pressmeddelanden/2026/06/socialminister-jakob-forssmed-besoker-helsingfors/",
+        "published": "2026-06-03",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Onsdag den 3 juni reser socialminister Jakob Forssmed till Helsingfors för möten med finländska ministrar och organisationer med fokus på barns och ungas hälsa.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2655"
+        ]
+    },
+    {
+        "title": "Påminnelse: Andreas Carlson besöker Västergötland",
+        "url": "/pressmeddelanden/2026/06/andreas-carlson-besoker-vastergotland/",
+        "published": "2026-06-02",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2425"
+        ],
+        "summary": "Onsdag den 3 juni besöker infrastruktur- och bostadsminister Andreas Carlson Västergötland, där han bland annat inviger ett nytt innovationscenter och gör verksamhetsbesök.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1217",
+            "1274"
+        ]
+    },
+    {
+        "title": "Försörjningsanalyser och privat-offentlig samverkan ska stärka Sveriges beredskap",
+        "url": "/pressmeddelanden/2026/06/forsorjningsanalyser-och-privat-offentlig-samverkan-ska-starka-sveriges-beredskap/",
+        "published": "2026-06-02",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2611",
+            "1286"
+        ],
+        "summary": "För att samhället ska fortsätta fungera i kris och krig behöver Sverige ha en stark försörjningsberedskap. Nu stärks beredskapen genom ett förbättrat arbete med försörjningsanalyser samt en tydlig kontaktpunkt för företag när det gäller försörjningsberedskap.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Myndigheten för civilt försvar får ett tydligare ansvar",
+                "url": "/pressmeddelanden/2026/01/myndigheten-for-civilt-forsvar-far-ett-tydligare-ansvar/"
+            },
+            {
+                "name": "Regeringsuppdrag: Uppdrag att utveckla arbetet med försörjningsanalyser",
+                "url": "/regeringsuppdrag/2025/07/uppdrag-att-utveckla-arbetet-med-forsorjningsanalyser/"
+            },
+            {
+                "name": "Regeringsuppdrag: Uppdrag att etablera en kontaktpunkt för företag",
+                "url": "/regeringsuppdrag/2025/07/uppdrag-att-etablera-en-kontaktpunkt-for-foretag/"
+            },
+            {
+                "name": "Om försörjningsberedskap på MCF:s webbplats- extern webbplats,",
+                "url": "https://www.mcf.se/sv/amnesomraden/beredskap-for-kris-och-krig/beredskap-for-aktorer/forsorjningsberedskap/om-forsorjningsberedskap/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2248",
+            "2688",
+            "2695",
+            "2703"
+        ]
+    },
+    {
+        "title": "Utredning föreslår åldersgräns för sociala medier",
+        "url": "/pressmeddelanden/2026/06/utredning-foreslar-aldersgrans-for-sociala-medier/",
+        "published": "2026-06-02",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2610",
+            "2616",
+            "2784",
+            "1292"
+        ],
+        "summary": "I oktober 2025 gav regeringen en särskild utredare i uppdrag att analysera möjligheterna att införa en åldersgräns för barns användning av sociala medier. Utredningen föreslår att åldersgränsen för tillgång till sociala medier sätts till det år barnet fyller 15 år.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "En åldersgräns för barns tillgång till sociala medier, SOU 2026:35",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/06/sou-202635/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff den 2 juni 2026 om åldersgräns på sociala medier (pdf 1 MB)",
+                "url": "/contentassets/60e3efa51fae46da9515ec41cf5c74fe/presentationsbilder-fran-presstraff-den-2-juni-2026-om-aldersgrans-pa-sociala-medier.pdf"
+            }
+        ],
+        "categories": [
+            "2655"
+        ]
+    },
+    {
+        "title": "Ny arbetsmiljöstrategi för att möta utmaningar och möjligheter",
+        "url": "/pressmeddelanden/2026/06/ny-arbetsmiljostrategi-for-att-mota-utmaningar-och-mojligheter/",
+        "published": "2026-06-02",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2792",
+            "1284"
+        ],
+        "summary": "Regeringen har beslutat om en ny arbetsmiljöstrategi för 2026–2031. Med strategin ”En god arbetsmiljö i ett föränderligt arbetsliv” ska ohälsa, olyckor och dödsfall i arbetslivet minska. Arbetsmiljöverket får samtidigt i uppdrag att samordna arbetet nationellt och att intensifiera insatserna för att förebygga dödsolyckor.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Skr. 2025/26:266, En god arbetsmiljö i ett föränderligt arbetsliv – regeringens arbetsmiljöstrategi för 2026–2031",
+                "url": "/rattsliga-dokument/skrivelse/2026/06/skr.-202526266"
+            },
+            {
+                "name": "Regeringsuppdrag: Uppdrag till Arbetsmiljöverket att ansvara för en nationell samordningsfunktion för att genomföra regeringens arbetsmiljöstrategi för 2026–2031",
+                "url": "/regeringsuppdrag/2026/06/uppdrag-till-arbetsmiljoverket-att-ansvara-for-en-nationell-samordningsfunktion-for-att-genomfora-regeringens-arbetsmiljostrategi-for-20262031/"
+            },
+            {
+                "name": "Regeringsuppdrag: Uppdrag till Arbetsmiljöverket att vidta ytterligare åtgärder för att förebygga arbetsolyckor med dödlig utgång och andra allvarliga arbetsolyckor",
+                "url": "/regeringsuppdrag/2026/06/uppdrag-till-arbetsmiljoverket-att-vidta-ytterligare-atgarder-for-att-forebygga-arbetsolyckor-med-dodlig-utgang-och-andra-allvarliga-arbetsolyckor/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1213",
+            "2096",
+            "2529"
+        ]
+    },
+    {
+        "title": "Accelerationskontoret föreslår åtgärder för att stärka kommuners förutsättningar att ta emot stora företagsetableringar",
+        "url": "/pressmeddelanden/2026/06/accelerationskontoret-foreslar-atgarder-for-att-starka-kommuners-forutsattningar-att-ta-emot-stora-foretagsetableringar/",
+        "published": "2026-06-02",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2612",
+            "1291"
+        ],
+        "summary": "Regeringen har i dag tagit emot ett betänkande med förslag som ska stärka kommunernas incitament att ta emot stora företagsetableringar och företagsexpansioner som är viktiga för Sverige. Det handlar bland annat om en statlig incitamentspeng och åtgärder för att underlätta bostadsbyggande.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "SOU 2026:32 Att säga ja! Kommunernas förutsättningar att ta emot stora företagsetableringar och företagsexpansioner",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/06/sou-202632/"
+            },
+            {
+                "name": "Pressmeddelande: Kommuners incitament att attrahera och ta emot stora företagsetableringar utreds",
+                "url": "/pressmeddelanden/2025/06/kommuners-incitament-att-attrahera-och-ta-emot-stora-foretagsetableringar-utreds/"
+            },
+            {
+                "name": "Dir. 2025:58 Tilläggsdirektiv till Kommittén Accelerationskontor för att underlätta industrins omställning",
+                "url": "/rattsliga-dokument/kommittedirektiv/2025/06/dir.-202558"
+            },
+            {
+                "name": "Statens offentliga utredningar",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff den 2 juni 2026 vid Accelerationskontorets överlämning av betänkande (pdf 2 MB)",
+                "url": "/globalassets/regeringen/dokument/klimat--och-naringslivsdepartementet/ppt/presentationsbilder-fran-presstraff-den-2-juni-2026-vid-accelerationskontorets-overlamning-av-betankande.pdf"
+            }
+        ],
+        "categories": [
+            "1257",
+            "1262",
+            "2749"
+        ]
+    },
+    {
+        "title": "Infrastruktur- och bostadsministern besöker Stadsmissionens delningsboende",
+        "url": "/pressmeddelanden/2026/06/infrastruktur--och-bostadsministern-besoker-stadsmissionens-delningsboende/",
+        "published": "2026-06-02",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2425"
+        ],
+        "summary": "Tisdagen den 2 juni besöker infrastruktur-och bostadsminister Andreas Carlson Stockholms Stadsmissions delningsboende på Södermalm för ett samtal om hemlöshet och hur stadsmissionen som civilsamhällesorganisation kan bidra till att fler kan få tillgång till en bostad.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1217"
+        ]
+    },
+    {
+        "title": "Regeringen stärker hälso- och sjukvårdens beredskap",
+        "url": "/pressmeddelanden/2026/06/regeringen-starker-halso--och-sjukvardens-beredskap/",
+        "published": "2026-06-02",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2611",
+            "2795",
+            "1292"
+        ],
+        "summary": "Regeringen vidtar flera åtgärder för att stärka hälso- och sjukvårdens beredskap. Satsningar görs på blodförsörjning, civilplikt och allmänhetens kunskap i första hjälpen och akut omhändertagande.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Dir. 2026:37 En blod- och plasmaorganisation med ett utökat statligt ansvar för stärkt försörjning av blod och plasma",
+                "url": "/rattsliga-dokument/kommittedirektiv/2026/06/dir.-202637"
+            },
+            {
+                "name": "Regeringsuppdrag S2026/00949 Uppdrag att utbetala medel för att stärka försörjningen av blod och plasma",
+                "url": "/regeringsuppdrag/2026/05/uppdrag-att-utbetala-medel-for-att-starka-forsorjningen-av-blod-och-blodplasma/"
+            },
+            {
+                "name": "Regeringsuppdrag S2026/00952 Uppdrag till Socialstyrelsen att stärka allmänhetens beredskap kopplat till första hjälpen och akut omhändertagande",
+                "url": "/regeringsuppdrag/2026/05/uppdrag-till-socialstyrelsen-att-starka-allmanhetens-beredskap-kopplat-till-forsta-hjalpen-och-akut-omhandertagande/"
+            },
+            {
+                "name": "Regeringsuppdrag S2026/00699 Uppdrag till Socialstyrelsen att fortsätta arbetet med de förberedande åtgärder som behövs för att införa civilplikt inom hälso- och sjukvården samt tandvården",
+                "url": "/regeringsuppdrag/2026/04/uppdrag-till-socialstyrelsen-att-fortsatta-arbetet-med-de-forberedande-atgarder-som-behovs-for-att-infora-civilplikt-inom-halso--och-sjukvarden-samt-tandvarden/"
+            },
+            {
+                "name": "Regeringsuppdrag S2026/00103 Uppdrag att stärka nationell förmåga att koordinera sjuktransporter och medicinsk evakuering",
+                "url": "/regeringsuppdrag/2026/05/uppdrag-att-starka-nationell-formaga-att-koordinera-sjuktransporter-och-medicinsk-evakuering/"
+            },
+            {
+                "name": "Prop. 2024/25:167 Hälso- och sjukvårdens beredskap",
+                "url": "/rattsliga-dokument/proposition/2025/05/prop.-202425167"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Presentationsbilder till pressträff om sjukvårdens beredskap, 2 juni 2026 (pdf 1 MB)",
+                "url": "/contentassets/266d7415e6284646b84079877a7bbd7a/presentationsbilder-till-presstraff-om-sjukvardens-beredskap-2-juni-2026.pdf"
+            }
+        ],
+        "categories": [
+            "2248",
+            "1233",
+            "2593",
+            "2703"
+        ]
+    },
+    {
+        "title": "Nya förslag för en långsiktig lösning för unga vuxna",
+        "url": "/pressmeddelanden/2026/06/nya-forslag-for-en-langsiktig-losning-for-unga-vuxna/",
+        "published": "2026-06-02",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2618",
+            "1287"
+        ],
+        "summary": "Regeringen har presenterat nya förslag för att underlätta för unga vuxna som kommit till Sverige på grund av anknytning till sina föräldrar men, som en följd av lagändringar från 2016 och 2021 hamnat i kläm. De nya förslagen innebär bland annat att en ny ventil införs för de som är mellan 18 och 21. Regeringen och samarbetspartiet har också kommit överens om att föreslå att personer som tidigare haft ett uppehållstillstånd på anknytning till sina föräldrar men som har fått ett lagakraftvunnet beslut under 2025 eller 2026 får möjlighet att ansöka om ett uppehållstillstånd inifrån Sverige.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1237",
+            "1249",
+            "2661"
+        ]
+    },
+    {
+        "title": "Kriminalvården får i uppdrag att redovisa arbetet med att skapa goda förutsättningar för utbildning för barn i häkte",
+        "url": "/pressmeddelanden/2026/06/kriminalvarden-far-i-uppdrag-att-redovisa-arbetet-med-att-skapa-goda-forutsattningar-for-utbildning-for-barn-i-hakte/",
+        "published": "2026-06-02",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen har nyligen föreslagit att straffbarhetsåldern ska sänkas till 13 år för allvarliga brott under en period om fem år. Förslaget innebär att det kommer finnas fler barn som omfattas av skolplikt i häkte. Regeringen ger därför Kriminalvården i uppdrag att redovisa hur myndigheten arbetar för att skapa goda förutsättningar för utbildning för barn i häkte.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1263",
+            "2690",
+            "2688"
+        ]
+    },
+    {
+        "title": "Utrikesministern besöker Borås",
+        "url": "/pressmeddelanden/2026/06/utrikesministern-besoker-boras/",
+        "published": "2026-06-02",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2621",
+            "1295"
+        ],
+        "summary": "Utrikesminister Maria Malmer Stenergard besöker Borås onsdagen den 3 juni. Där kommer hon bland annat att invigningstala på en textil- och modekonferens.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2734"
+        ]
+    },
+    {
+        "title": "Utredningen om åldersgräns på sociala medier överlämnar delbetänkande",
+        "url": "/pressmeddelanden/2026/06/utredningen-om-aldersgrans-pa-sociala-medier-overlamnar-delbetankande/",
+        "published": "2026-06-02",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Tisdag den 2 juni kl. 14.45 tar socialminister Jakob Forssmed emot delbetänkandet från utredningen En åldersgräns till skydd för barns hälsa och trygghet i digitala miljöer, av den särskilda utredaren Lisa Englund Krafft.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen tillsätter utredning om åldersgräns för sociala medier",
+                "url": "/pressmeddelanden/2025/10/regeringen-tillsatter-utredning-om-aldersgrans-for-sociala-medier/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2655"
+        ]
+    },
+    {
+        "title": "Regeringen antar nationell allergistrategi",
+        "url": "/pressmeddelanden/2026/06/regeringen-antar-nationell-allergistrategi/",
+        "published": "2026-06-02",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2795",
+            "1292"
+        ],
+        "summary": "Regeringen har beslutat om en nationell allergistrategi för åren 2026–2030. Strategin ska bidra till en mer förebyggande, effektiv och jämlik allergivård i hela landet och ger tydliga uppdrag till berörda myndigheter.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Informationsmaterial: Nationell allergistrategi 2026–2030",
+                "url": "/informationsmaterial/2026/06/nationell-allergistrategi-20262030/"
+            },
+            {
+                "name": "Regeringsuppdrag: Uppdrag till Livsmedelsverket att genomföra regeringens allergistrategi 2026–2030",
+                "url": "/regeringsuppdrag/2026/06/uppdrag-till-livsmedelsverket-att-genomfora-regeringens-allergistrategi-2026---2030/"
+            },
+            {
+                "name": "Regeringsuppdrag: Uppdrag till Socialstyrelsen att genomföra regeringens allergistrategi 2026–2030",
+                "url": "/regeringsuppdrag/2026/06/uppdrag-till-socialstyrelsen-att-genomfora-regeringens-allergistrategi-2026-2030/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2655",
+            "1233"
+        ]
+    },
+    {
+        "title": "Pressträff för att presentera lagförslag för anhöriginvandring",
+        "url": "/pressmeddelanden/2026/06/presstraff-for-att-presentera-lagforslag-for-anhoriginvandring/",
+        "published": "2026-06-02",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2618",
+            "1287"
+        ],
+        "summary": "I dag tisdag den 2 juni kl. 12:45 bjuder migrationsminister Johan Forssell, Ludvig Aspling (SD), Ingemar Kihlström (KD) och Patrik Karlson (L) in till pressträff för att presentera nya lagförslag för anhöriginvandring.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Presentationsbilder från pressträff den 2 juni 2026 om ett nytt regelverk för anhöriginvandring (pdf 183 kB)",
+                "url": "/globalassets/regeringen/dokument/justitiedepartementet/presentationer/2026-06/presentationsbilder-fran-presstraff-den-2-juni-2026-om-ett-nytt-regelverk-for-anhoriginvandring.pdf"
+            }
+        ],
+        "categories": [
+            "1249",
+            "2661"
+        ]
+    },
+    {
         "title": "Bistånds- och utrikeshandelsminister Benjamin Dousa besöker Dalarna",
         "url": "/pressmeddelanden/2026/06/bistands--och-utrikeshandelsminister-benjamin-dousa-besoker-dalarna/",
         "published": "2026-06-02",
