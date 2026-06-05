@@ -1,0 +1,9 @@
+# Utrikesminister Maria Malmer Stenergard besöker Ungern
+
+— Efter det historiska parlamentsvalet i april har det ungerska folket valt en ny Europavänlig regering. Jag ser fram emot ett nytt kapitel i relationen mellan Sverige och Ungern och att möta min nya kollega, Anita Orbán, för samtal om hur vi stärker relationen framåt. Sverige och Ungern står inför flera gemensamma utmaningar, inte minst på säkerhetsområdet. Jag hade nyligen glädjen att välkomna Anita Orbán till Helsingborg på en av hennes första utlandsresor. Nu ser jag fram emot att fördjupa vårt samtal för att utveckla samarbetet, såväl bilateralt som inom EU och Nato, säger utrikesminister Maria Malmer Stenergard.
+
+Besöket innefattar även ett möte med representanter från Budapest Pride och från media, som under många år verkat i ett svårt klimat. Utrikesministern kommer även att träffa Katalin Sommer, en av de tiotusentals människor som räddades undan Förintelsen av Raoul Wallenberg.
+
+— Efter det historiska parlamentsvalet i april har det ungerska folket valt en ny Europavänlig regering. Jag ser fram emot ett nytt kapitel i relationen mellan Sverige och Ungern och att möta min nya kollega, Anita Orbán, för samtal om hur vi stärker relationen framåt. Sverige och Ungern står inför flera gemensamma utmaningar, inte minst på säkerhetsområdet. Jag hade nyligen glädjen att välkomna Anita Orbán till Helsingborg på en av hennes första utlandsresor. Nu ser jag fram emot att fördjupa vårt samtal för att utveckla samarbetet, såväl bilateralt som inom EU och Nato, säger utrikesminister Maria Malmer Stenergard.
+
+Besöket innefattar även ett möte med representanter från Budapest Pride och från media, som under många år verkat i ett svårt klimat. Utrikesministern kommer även att träffa Katalin Sommer, en av de tiotusentals människor som räddades undan Förintelsen av Raoul Wallenberg.
