@@ -1,5 +1,451 @@
 [
     {
+        "title": "Pressträff om stärkt skydd för barn mot våld i digitala miljöer",
+        "url": "/pressmeddelanden/2026/06/presstraff-om-starkt-skydd-for-barn-mot-vald-i-digitala-miljoer/",
+        "published": "2026-06-10",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "2616",
+            "1292"
+        ],
+        "summary": "Torsdag den 11 juni bjuder socialtjänstminister Camilla Waltersson Grönvall in till pressträff tillsammans med socialminister Jakob Forssmed och Liberalernas rättspolitiska talesperson Martin Melin. Under pressträffen presenteras en nyhet kopplat till arbetet med att skydda barn mot våld i digitala miljöer.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1220"
+        ]
+    },
+    {
+        "title": "Låg risk för brist på flygbränsle i Sverige under semesterperioden",
+        "url": "/pressmeddelanden/2026/06/lag-risk-for-brist-pa-flygbransle-i-sverige-under-semesterperioden/",
+        "published": "2026-06-09",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "1291"
+        ],
+        "summary": "Kriget i Mellanöstern fortsätter och ett stängt Hormuzsund pressar de globala energimarknaderna. För Sveriges del är bedömningen att det är låg risk för brist på flygbränsle under den svenska semesterperioden, om inte läget på de globala energimarknaderna förvärras. Samtidigt är tillgången på bensin och diesel fortsatt god i Sverige även på lång sikt.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Läs mer om Sveriges energiläge på Energimyndighetens webbplats- extern webbplats,",
+                "url": "https://www.energimyndigheten.se/energisystem-och-analys/nulaget-i-energisystemet/sveriges-energilage-just-nu/"
+            },
+            {
+                "name": "Läs mer om olika länders krisåtgärder på IEA:s webbplats- extern webbplats,",
+                "url": "https://www.iea.org/data-and-statistics/data-tools/2026-energy-crisis-policy-response-tracker"
+            },
+            {
+                "name": "Läs mer om olika EU-medlemsländers krisåtgärder på EU-kommissionens hemsida- extern webbplats,",
+                "url": "https://webgate.ec.europa.eu/circabc-ewpp/d/d/workspace/SpacesStore/cb1fa0cd-a1cc-432d-9c7d-0369f9c2d07f/download"
+            },
+            {
+                "name": "Energiläget i tider av geopolitisk oro",
+                "url": "/regeringens-politik/energi/energilaget-i-tider-av-geopolitisk-oro/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1226",
+            "2777"
+        ]
+    },
+    {
+        "title": "Regeringen ger Folkhälsomyndigheten i uppdrag för att fortsätta säkra tillgången till antibiotika i Sverige",
+        "url": "/pressmeddelanden/2026/06/regeringen-ger-folkhalsomyndigheten-i-uppdrag-for-att-fortsatta-sakra-tillgangen-till-antibiotika-i-sverige/",
+        "published": "2026-06-09",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Regeringen ger Folkhälsomyndigheten i uppdrag att säkerställa god tillgång till vissa antibiotika. Uppdraget omfattar både svenska lösningar och fördjupat samarbete inom Norden, EU och internationellt.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Sveriges strategi mot antimikrobiell resistens 2026-2035",
+                "url": "/informationsmaterial/2025/11/svensk-strategi-mot-antimikrobiell-resistens-2026-2035/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2655",
+            "2731"
+        ]
+    },
+    {
+        "title": "Uppdrag om anläggningsplan för ny kärnkraft vid Studsvik",
+        "url": "/pressmeddelanden/2026/06/uppdrag-om-anlaggningsplan-for-ny-karnkraft-vid-studsvik/",
+        "published": "2026-06-09",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "2792",
+            "2623",
+            "1285",
+            "1291"
+        ],
+        "summary": "Regeringen har tagit emot en ansökan om att etablera ny kärnkraft vid Studsvik i Nyköpings kommun. Nu får Länsstyrelsen i Södermanlands län i uppdrag att upprätta ett förslag till en anläggningsplan. Planen ska vägleda hur mark- och vattenområden ska användas vid etablering av en kärnteknisk anläggning.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Kärnkraft i Sverige",
+                "url": "/regeringens-politik/karnkraft-i-sverige/"
+            },
+            {
+                "name": "Kärnkraftsfinansiering",
+                "url": "/regeringens-politik/karnkraftsfinansiering/"
+            },
+            {
+                "name": "Pressmeddelande: Ännu en ansökan om etablering av ny kärnkraft",
+                "url": "/pressmeddelanden/2026/05/annu-en-ansokan-om-etablering-av-ny-karnkraft/"
+            },
+            {
+                "name": "Pressmeddelande: Uppdrag om anläggningsplan för ny kärnkraft",
+                "url": "/pressmeddelanden/2026/05/uppdrag-om-anlaggningsplan-for-ny-karnkraft/"
+            },
+            {
+                "name": "Pressmeddelande: Ytterligare ansökan om etablering av ny kärnkraft",
+                "url": "/pressmeddelanden/2026/05/ytterligare-ansokan-om-etablering-av-ny-karnkraft/"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen ger kärnkraftsuppdrag till länsstyrelser",
+                "url": "/pressmeddelanden/2026/05/regeringen-ger-karnkraftsuppdrag-till-lansstyrelser/"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen har tagit emot ansökan om etablering av ny kärnkraft",
+                "url": "/artiklar/2026/03/regeringen-har-tagit-emot-ansokan-om-etablering-av-ny-karnkraft/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1226",
+            "1231",
+            "1252",
+            "2811",
+            "2788"
+        ]
+    },
+    {
+        "title": "Migrationsministern lyfte svenskt initiativ för att stoppa ryska turister vid EU:s ministerrådsmöte",
+        "url": "/pressmeddelanden/2026/06/migrationsministern-lyfte-svenskt-initiativ-for-att-stoppa-ryska-turister-vid-eus-ministerradsmote/",
+        "published": "2026-06-09",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2618",
+            "1287"
+        ],
+        "summary": "Den 4 juni deltog migrationsminister Johan Forssell i EU:s ministerråd för rättsliga och inrikes frågor (RIF) i Luxemburg. På mötet lyfte migrationsministern bland annat ett svenskt initiativ i form av ett brev till kommissionen om att stoppa turistvisum för ryska medborgare. Brevet undertecknades av de ministrar som ansvarar för migrationsfrågor och utrikesministrar från nio EU-länder samt Island och Norge.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Joint Ministerial Statement on Proposing new measures to limit EU tourist visas for Russian citizens",
+                "url": "/uttalanden/2026/06/joint-ministerial-statement-on-proposing-new-measures-to-limit-eu-tourist-visas-for-russian-citizens/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2211",
+            "2584",
+            "1012"
+        ]
+    },
+    {
+        "title": "Myndigheter ska få stöd i arbetet med att undersöka och hantera risker för etnisk diskriminering",
+        "url": "/pressmeddelanden/2026/06/myndigheter-ska-fa-stod-i-arbetet-med-att-undersoka-och-hantera-risker-for-etnisk-diskriminering/",
+        "published": "2026-06-09",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2784",
+            "1284"
+        ],
+        "summary": "Det finns risk att etnisk diskriminering förekommer i enskildas kontakt med myndigheter. Nu ger regeringen Diskrimineringsombudsmannen (DO) i uppdrag att genomföra främjande insatser till myndigheter som stöd i deras arbete med att undersöka och hantera risker för etnisk diskriminering i den egna verksamheten. DO ska bland annat uppmärksamma de risker som användande av AI och automatiskt beslutsfattande medför.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringsuppdrag: Uppdrag om stöd i myndigheters arbete med att undersöka och hantera risker för etnisk diskriminering",
+                "url": "/regeringsuppdrag/2026/06/uppdrag-om-stod-i-myndigheters-arbete-med-att-undersoka-och-hantera-risker-for-etnisk-diskriminering/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1219"
+        ]
+    },
+    {
+        "title": "Regeringen satsar på forskning om åldrande och hjärnhälsa",
+        "url": "/pressmeddelanden/2026/06/regeringen-satsar-pa-forskning-om-aldrande-och-hjarnhalsa/",
+        "published": "2026-06-09",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2609",
+            "2620",
+            "1292"
+        ],
+        "summary": "Regeringen ger Forskningsrådet för hälsa, arbetsliv och välfärd (Forte) i uppdrag att göra en behovsanalys av forskningsområdet åldrande och hjärnhälsa. Syftet är att identifiera eventuella behov av strategiska satsningar för att stärka förutsättningarna för svensk forskning och påskynda framsteg inom prevention, diagnostik, behandling och omsorg.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Informationsmaterial : Varje dag räknas - Nationell demensstrategi 2025–2028",
+                "url": "/informationsmaterial/2025/01/varje-dag-raknas-nationell-demensstrategi-20252028/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1277",
+            "2656"
+        ]
+    },
+    {
+        "title": "Socialstyrelsen ska utreda läkemedelsgenomgångar för placerade och frihetsberövade barn och unga",
+        "url": "/pressmeddelanden/2026/06/socialstyrelsen-ska-utreda-lakemedelsgenomgangar-for-placerade-och-frihetsberovade-barn-och-unga/",
+        "published": "2026-06-09",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "1292"
+        ],
+        "summary": "Regeringen ger Socialstyrelsen i uppdrag att ta fram förslag på hur läkemedelsgenomgångar kan göras mer systematiskt för barn och unga som är placerade utanför det egna hemmet eller dömda till sluten ungdomsvård eller fängelse. Syftet är säkerställa att läkemedelsanvändningen är ändamålsenlig och säker.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1268"
+        ]
+    },
+    {
+        "title": "Stärkt personalförsörjning för ökad militär uthållighet",
+        "url": "/pressmeddelanden/2026/06/starkt-personalforsorjning-for-okad-militar-uthallighet/",
+        "published": "2026-06-09",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2627",
+            "1286"
+        ],
+        "summary": "Regeringen tar nu viktiga steg för att stärka krigsorganisationen och bidra till stärkt försvarsförmåga. I en proposition föreslår regeringen ändringar i lagen om totalförsvarsplikt och lagen om skydd för anställning för viss tjänstgöring inom totalförsvaret m.m.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:279 Personalförsörjning av det militära försvaret",
+                "url": "/rattsliga-dokument/proposition/2026/06/prop.-202526279"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2247",
+            "2675",
+            "2703"
+        ]
+    },
+    {
+        "title": "Regeringen föreslår skärpta regler för att öka tryggheten i bostadsrätter",
+        "url": "/pressmeddelanden/2026/06/regeringen-foreslar-skarpta-regler-for-att-oka-tryggheten-i-bostadsratter/",
+        "published": "2026-06-09",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen föreslår lagändringar som ska stärka tryggheten i och kring bostadsrätter. Förslagen innebär att det i fler fall ska vara möjligt att förverka en bostadsrätt – så att nyttjanderätten till bostaden upphör – och att neka medlemskap i en bostadsrättsförening vid brottslighet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Lagrådsremiss: Stärkt trygghet i bostadsrätter",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/06/starkt-trygghet-i-bostadsratter/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1217",
+            "1263"
+        ]
+    },
+    {
+        "title": "Skärpta regler mot fusk och svartarbete",
+        "url": "/pressmeddelanden/2026/06/skarpta-regler-mot-fusk-och-svartarbete/",
+        "published": "2026-06-09",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "Fusk och svartarbete inom verksamheter som arbetar med rut, rot och grön teknik undergräver skattesystemet och slår mot seriösa företag. Regeringen har nu lämnat en proposition till riksdagen med flera förslag som ska stärka kontrollen och ge Skatteverket bättre möjligheter att upptäcka felaktigheter och oseriösa aktörer.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:282 Effektivare kontrollmöjligheter i systemen för rot, rut, grön teknik och personalliggare",
+                "url": "/rattsliga-dokument/proposition/2026/06/prop.-202526282"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1267",
+            "2690"
+        ]
+    },
+    {
+        "title": "De nomineras till regeringens exportpris för de kulturella och kreativa branscherna",
+        "url": "/pressmeddelanden/2026/06/de-nomineras-till-regeringens-exportpris-for-de-kulturella-och-kreativa-branscherna/",
+        "published": "2026-06-09",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2756",
+            "1295"
+        ],
+        "summary": "Bistånds- och utrikeshandelsminister Benjamin Dousa delar den 16 juni 2026 ut regeringens exportpris för de kulturella och kreativa branscherna för 2025. Bland de nominerade finns internationellt framgångsrika företagare inom kulturella och kreativa branscher.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringens exportpris för de kulturella och kreativa branscherna",
+                "url": "/regeringens-politik/regeringens-exportpris-for-de-kulturella-och-kreativa-branscherna/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1235",
+            "2282",
+            "1242",
+            "2654",
+            "2734"
+        ]
+    },
+    {
+        "title": "Socialstyrelsen ska följa upp canceröverenskommelse",
+        "url": "/pressmeddelanden/2026/06/socialstyrelsen-ska-folja-upp-canceroverenskommelsen/",
+        "published": "2026-06-09",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "2795",
+            "1292"
+        ],
+        "summary": "Regeringen ger Socialstyrelsen i uppdrag att följa upp överenskommelsen mellan staten och Sveriges Kommuner och Regioner (SKR) om en mer jämlik och effektiv cancervård.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelane: Regeringen och SKR utökar canceröverenskommelse",
+                "url": "/pressmeddelanden/2026/02/regeringen-och-skr-utokar-canceroverenskommelse/"
+            },
+            {
+                "name": "Pressmeddelande: Ny nationell cancerstrategi ska rädda liv och höja livskvaliteten",
+                "url": "/pressmeddelanden/2026/01/ny-nationell-cancerstrategi-ska-radda-liv-och-hoja-livskvaliteten/"
+            },
+            {
+                "name": "Informationsmaterial: Ökad överlevnad och bättre livskvalitet – nationell cancerstrategi 2.0",
+                "url": "/informationsmaterial/2026/01/okad-overlevnad-och-battre-livskvalitet--nationell-cancerstrategi-2.0"
+            },
+            {
+                "name": "Regeringsuppdrag S2026/01024 Uppdrag till Socialstyrelsen att följa upp överenskommelsen mellan staten och Sveriges Kommuner och Regioner om en jämlik och effektiv cancervård med kortare väntetider",
+                "url": "/regeringsuppdrag/2026/06/uppdrag-till-socialstyrelsen-att-folja-upp-overenskommelsen-mellan-staten-och-sveriges-kommuner-och-regioner-om-en-jamlik-och-effektiv-cancervard-med-kortare-vantetider/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1233",
+            "2693",
+            "2688"
+        ]
+    },
+    {
+        "title": "Kartläggning av kommuners kontroller av personal inom äldreomsorgen",
+        "url": "/pressmeddelanden/2026/06/kartlaggning-av-kommuners-kontroller-av-personal-inom-aldreomsorgen/",
+        "published": "2026-06-09",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2609",
+            "1292"
+        ],
+        "summary": "Enligt den delrapport som Socialstyrelsen överlämnade till regeringen måndagen den 1 juni finns det fortfarande ett fåtal kommuner som inte har som rutin att alltid ta del av utdrag ur misstanke- eller belastningsregistret inför anställning på särskilt boende eller i hemtjänsten. Äldre- och socialförsäkringsminister Anna Tenje avser att föra dialog med de dessa kommuner för att höra hur de resonerar.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Trygghet för äldre",
+                "url": "/regeringens-politik/trygghet-for-aldre/"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen kräver att kommunerna stärker tryggheten för äldre",
+                "url": "/pressmeddelanden/2025/12/regeringen-kraver-att-kommunerna-starker-tryggheten-for-aldre2/"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen vill stärka äldres trygghet i äldreomsorgen",
+                "url": "/pressmeddelanden/2025/12/regeringen-vill-starka-aldres-trygghet-i-aldreomsorgen/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2656",
+            "2810"
+        ]
+    },
+    {
+        "title": "Statsministern deltar i nordiskt-baltiskt toppmöte i Tallinn",
+        "url": "/pressmeddelanden/2026/05/statsministern-deltar-i-nordiskt-baltiskt-toppmote-i-tallinn/",
+        "published": "2026-05-21",
+        "updated": "2026-06-09",
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2605",
+            "1293"
+        ],
+        "summary": "(Ny version) Tisdag den 9 juni reser statsminister Ulf Kristersson till Tallinn, Estland, för möte med de nordiska och baltiska ledarna. Mötet sker inom ramen för NB8, ett informellt nordiskt baltiskt utrikes- och säkerhetspolitiskt samarbete.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2435",
+            "1279",
+            "2707",
+            "1013",
+            "1058"
+        ]
+    },
+    {
         "title": "Försvarsministern besöker Härnösand",
         "url": "/pressmeddelanden/2026/06/forsvarsministern-besoker-harnosand/",
         "published": "2026-06-08",
@@ -5524,30 +5970,6 @@
         "categories": [
             "1274",
             "2212"
-        ]
-    },
-    {
-        "title": "Statsministern deltar i nordiskt-baltiskt toppmöte i Tallinn",
-        "url": "/pressmeddelanden/2026/05/statsministern-deltar-i-nordiskt-baltiskt-toppmote-i-tallinn/",
-        "published": "2026-05-21",
-        "updated": null,
-        "types": [
-            "1334"
-        ],
-        "senders": [
-            "2605",
-            "1293"
-        ],
-        "summary": "Tisdag den 9 juni reser statsminister Ulf Kristersson till Tallinn, Estland, för möte med de nordiska och baltiska ledarna. Mötet sker inom ramen för NB8, ett informellt nordiskt baltiskt utrikes- och säkerhetspolitiskt samarbete.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2435",
-            "1279",
-            "2707",
-            "1013",
-            "1058"
         ]
     },
     {
