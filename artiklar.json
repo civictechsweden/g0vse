@@ -1,5 +1,42 @@
 [
     {
+        "title": "Åtgärder för att bekämpa arbetslösheten",
+        "url": "/artiklar/2025/10/atgarder-for-att-bekampa-arbetslosheten/",
+        "published": "2025-10-22",
+        "updated": "2026-06-10",
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "1284",
+            "1285",
+            "1291",
+            "1292",
+            "1294"
+        ],
+        "summary": "Läget på svensk arbetsmarknad präglas av den utdragna lågkonjunkturen och flera strukturella utmaningar. För att möta den höga arbetslösheten genomför regeringen kraftfulla åtgärder för att fler ska komma i arbete. Det handlar om att bryta lågkonjunkturen genom att stärka hushållens ekonomi, öka drivkrafterna att arbeta, skapa fler möjligheter till utbildning och satsa på företagen.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Arbetslösheten i Sverige – så ser den ut",
+                "url": "/regeringens-politik/arbetsmarknad/arbetslosheten-i-sverige--sa-ser-den-ut/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2460",
+            "1213",
+            "1232",
+            "2283",
+            "1237",
+            "1257",
+            "1269",
+            "1278",
+            "2704",
+            "2734"
+        ]
+    },
+    {
         "title": "Rådgivande grupp för life science följer upp den nationella strategin",
         "url": "/artiklar/2026/06/radgivande-grupp-for-life-science-foljer-upp-den-nationella-strategin/",
         "published": "2026-06-09",
@@ -5326,47 +5363,6 @@
             "1252",
             "2211",
             "1012"
-        ]
-    },
-    {
-        "title": "Åtgärder för att bekämpa arbetslösheten",
-        "url": "/artiklar/2025/10/atgarder-for-att-bekampa-arbetslosheten/",
-        "published": "2025-10-22",
-        "updated": null,
-        "types": [
-            "2097"
-        ],
-        "senders": [
-            "1284",
-            "1285",
-            "1291",
-            "1292",
-            "1294"
-        ],
-        "summary": "Läget på svensk arbetsmarknad präglas av den utdragna lågkonjunkturen och flera strukturella utmaningar. För att möta den höga arbetslösheten genomför regeringen kraftfulla åtgärder för att fler ska komma i arbete. Det handlar om att bryta lågkonjunkturen genom att stärka hushållens ekonomi, öka drivkrafterna att arbeta, skapa fler möjligheter till utbildning och satsa på företagen.",
-        "id": null,
-        "shortcuts": [
-            {
-                "name": "Arbetslösheten i Sverige – så ser den ut",
-                "url": "/regeringens-politik/arbetsmarknad/arbetslosheten-i-sverige--sa-ser-den-ut/"
-            },
-            {
-                "name": "Pressmeddelande: 77 700 arbetslösa utrikes födda saknar utbildningWebb-TV",
-                "url": "/pressmeddelanden/2025/10/77-700-arbetslosa-utrikes-fodda-saknar-utbildning/"
-            }
-        ],
-        "attachments": [],
-        "categories": [
-            "2460",
-            "1213",
-            "1232",
-            "2283",
-            "1237",
-            "1257",
-            "1269",
-            "1278",
-            "2704",
-            "2734"
         ]
     },
     {
