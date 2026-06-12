@@ -1,5 +1,103 @@
 [
     {
+        "title": "Riksrevisionens rapport om handläggning av ärenden där den enskilde inte behärskar svenska",
+        "url": "/rattsliga-dokument/skrivelse/2026/06/skr.-202526280",
+        "published": "2026-06-11",
+        "updated": null,
+        "types": [
+            "1324",
+            "1330"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Regeringen redovisar sin bedömning av slutsatser och rekommendationer som Riksrevisionen har gjort i rapporten Att överbrygga språkhinder – handläggning av ärenden där den enskilde inte behärskar svenska, RiR 2026:2.",
+        "id": "Skr. 2025/26:280",
+        "shortcuts": [
+            {
+                "name": "Att överbrygga språkhinder – handläggning av ärenden där den enskilde inte behärskar svenska, RiR 2026:2 på Riksrevisionens webbplats- extern webbplats,",
+                "url": "https://www.riksrevisionen.se/download/18.761fab8f19c2c46db0b4366/1770372793007/RiR-2026-2-rapport.pdf"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Riksrevisionens rapport om handläggning av ärenden där den enskilde inte behärskar svenska, Skr 280 (pdf 2 MB)",
+                "url": "/contentassets/c441601371b04bd6b994898a21f48281/skr-280.pdf"
+            }
+        ],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
+        "title": "Riksrevisionens rapport om Försäkringskassans och Pensionsmyndighetens hantering av ändrade förhållanden",
+        "url": "/rattsliga-dokument/skrivelse/2026/06/skr.-202526281",
+        "published": "2026-06-11",
+        "updated": null,
+        "types": [
+            "1324",
+            "1330"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Regeringen redovisar sin bedömning av de iakttagelser och den rekommendation som Riksrevisionen lämnar i rapporten Ändrade förhållanden – ineffektiv hantering i socialförsäkringen, RiR 2026:4.",
+        "id": "Skr. 2025/26:281",
+        "shortcuts": [
+            {
+                "name": "Ändrade förhållanden – ineffektiv hantering i socialförsäkringen, RiR 2026:4 på Riksrevisionens webbplats- extern webbplats,",
+                "url": "https://www.riksrevisionen.se/download/18.3183a4c019c47d273ac1dc18/1771403839821/RiR-2026-4-rapport.pdf"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Riksrevisionens rapport om Försäkringskassans och Pensionsmyndighetens hantering av ändrade förhållanden Skr 2025 26 281 (pdf 1 MB)",
+                "url": "/contentassets/4992c49cb3564dde93985f37687d5b16/riksrevisionens-rapport-om-forsakringskassans-och-pensionsmyndighetens-hantering-av-andrade-forhallanden-skr-2025-26-281.pdf"
+            }
+        ],
+        "categories": [
+            "1269"
+        ]
+    },
+    {
+        "title": "Återkallelse av regeringens proposition 2025/26:246 Skärpta regler för unga lagöverträdare",
+        "url": "/rattsliga-dokument/skrivelse/2026/06/skr.-202526289",
+        "published": "2026-06-11",
+        "updated": null,
+        "types": [
+            "1324",
+            "1330"
+        ],
+        "senders": [
+            "1287",
+            "1296"
+        ],
+        "summary": "Regeringen återkallar propositionen 2025/26:246 Skärpta regler för unga lagöverträdare.",
+        "id": "Skr. 2025/26:289",
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:246 Skärpta regler för unga lagöverträdare",
+                "url": "/rattsliga-dokument/proposition/2026/04/prop.-202526246"
+            },
+            {
+                "name": "Pressmeddelande: Gunnar Strömmer bjuder in till pressträff på straffrättsområdetWebb-TV",
+                "url": "/pressmeddelanden/2026/06/gunnar-strommer-bjuder-in-till-presstraff-pa-straffrattsomradet/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Återkallelse av regeringens proposition 2025/26:246 Skärpta regler för unga lagöverträdare, Skr. 2025/26:289 (pdf 95 kB)",
+                "url": "/contentassets/e2e1896aa0524064808558c739f6e5ea/aterkallelse-av-regeringens-proposition-202526246-skarpta-regler-for-unga-lagovertradare-skr.-202526289"
+            }
+        ],
+        "categories": [
+            "1263",
+            "2710"
+        ]
+    },
+    {
         "title": "Riksrevisionens rapport statens arbete mot problem med spel om pengar",
         "url": "/rattsliga-dokument/skrivelse/2026/06/skr.-202526269",
         "published": "2026-06-04",
