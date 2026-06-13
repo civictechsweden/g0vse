@@ -1,0 +1,13 @@
+# Ny utredare i Utredningen om kraftfulla verktyg för kontroll av utbetalning av socialförsäkringsförmåner till personer som lämnat Sverige
+
+Stefan Strömberg har med sin gedigna erfarenhet och djupa kunskap på området lett utredningens arbete hittills. Det fortsatta arbetet i utredningen kommer att ledas av Anders Perklev, justitieråd i Högsta domstolen med en bakgrund som hovrättspresident vid Svea hovrätt och riksåklagare. Han har även varit särskild utredare vid flera tillfällen, senast i Utredningen om skärpt syn på flerfaldig brottslighet.
+
+I mars 2025 tillsatte regeringen en utredning att se över hur arbetet med att upptäcka felaktiga utbetalningar vid vistelse eller bosättning utomlands kan stärkas. Utredningen fick i uppdrag att bland annat se om flygplatskontroller och passignalering bör införas i syfte att upptäcka och motverka att personer får felaktiga utbetalningar från socialförsäkringen. I maj 2026 förlängdes och utökades uppdraget. Det utökade uppdraget handlar om att kartlägga och analysera vilka bosättningsbegrepp, inom andra rättsområden än socialförsäkringen, som kan påverka bosättnings­bedömningen enligt socialförsäkringsbalken. Tydligare och mer enhetliga definitioner av vad det innebär att vara bosatt i Sverige skulle exempelvis kunna göra det enklare för personer att göra rätt.
+
+Utredningen ska redovisa uppdraget senast den 31 januari 2027.
+
+Stefan Strömberg har med sin gedigna erfarenhet och djupa kunskap på området lett utredningens arbete hittills. Det fortsatta arbetet i utredningen kommer att ledas av Anders Perklev, justitieråd i Högsta domstolen med en bakgrund som hovrättspresident vid Svea hovrätt och riksåklagare. Han har även varit särskild utredare vid flera tillfällen, senast i Utredningen om skärpt syn på flerfaldig brottslighet.
+
+I mars 2025 tillsatte regeringen en utredning att se över hur arbetet med att upptäcka felaktiga utbetalningar vid vistelse eller bosättning utomlands kan stärkas. Utredningen fick i uppdrag att bland annat se om flygplatskontroller och passignalering bör införas i syfte att upptäcka och motverka att personer får felaktiga utbetalningar från socialförsäkringen. I maj 2026 förlängdes och utökades uppdraget. Det utökade uppdraget handlar om att kartlägga och analysera vilka bosättningsbegrepp, inom andra rättsområden än socialförsäkringen, som kan påverka bosättnings­bedömningen enligt socialförsäkringsbalken. Tydligare och mer enhetliga definitioner av vad det innebär att vara bosatt i Sverige skulle exempelvis kunna göra det enklare för personer att göra rätt.
+
+Utredningen ska redovisa uppdraget senast den 31 januari 2027.
