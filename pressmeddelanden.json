@@ -1,5 +1,443 @@
 [
     {
+        "title": "Välgörenhetsarbete i fokus när civilminister Erik Slottner besöker Gävle",
+        "url": "/pressmeddelanden/2026/06/valgorenhetsarbete-i-fokus-nar-civilminister-erik-slottner-besoker-gavle/",
+        "published": "2026-06-17",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2614",
+            "1285"
+        ],
+        "summary": "Den 17 juni reser civilminister Erik Slottner till Gävle för möten med flera regionala och lokala aktörer. Under besöket står frågor om samverkan, socialt stöd och regional utveckling i fokus.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2655",
+            "2092",
+            "2688"
+        ]
+    },
+    {
+        "title": "Utrikesministern besöker Nyköping",
+        "url": "/pressmeddelanden/2026/06/utrikesministern-besoker-nykoping/",
+        "published": "2026-06-17",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2621",
+            "1295"
+        ],
+        "summary": "Utrikesminister Maria Malmer Stenergard besöker Nyköping onsdagen den 17 juni. Där kommer hon bland annat att göra ett verksamhetsbesök vid CTT Systems.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2282",
+            "1252",
+            "1257",
+            "1013"
+        ]
+    },
+    {
+        "title": "Finansminister Elisabeth Svantesson presenterar ny ekonomisk prognos",
+        "url": "/pressmeddelanden/2026/06/finansminister-elisabeth-svantesson-presenterar-ny-ekonomisk-prognos/",
+        "published": "2026-06-17",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "I dag, onsdag den 17 juni kl. 13.00, presenterar finansminister Elisabeth Svantesson en ny prognos för den ekonomiska utvecklingen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1232"
+        ]
+    },
+    {
+        "title": "Socialminister Jakob Forssmed deltog i globalt högnivåmöte om ebola",
+        "url": "/pressmeddelanden/2026/06/socialminister-jakob-forssmed-deltog-i-globalt-hognivamote-om-ebola/",
+        "published": "2026-06-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "2425"
+        ],
+        "summary": "Tisdagen den 16 juni deltog socialminister Jakob Forssmed i ett globalt toppmöte om ebolaresponsen. Mötet samlade i första hand stats- och regeringschefer för att stärka insatserna mot smittspridningen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2655"
+        ]
+    },
+    {
+        "title": "Fler åtgärder för tryggare tandvård – ny övergångsbestämmelse för att söka tillstånd och tydligare regler",
+        "url": "/pressmeddelanden/2026/06/fler-atgarder-for-tryggare-tandvard--ny-overgangsbestammelse-for-att-soka-tillstand-och-tydligare-regler/",
+        "published": "2026-06-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2609",
+            "2616",
+            "1292"
+        ],
+        "summary": "De nya bestämmelserna om tillståndsplikt inom tandvården ställer stora krav, särskilt på mindre tandvårdgivare som i vissa fall haft svårt att anpassa sig till regelverket. För att stödja vårdgivarna i omställningen föreslår regeringen därför bland annat en ny övergångsbestämmelse.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Lagrådsremiss: Ny övergångsbestämmelse med anledning av tillståndsplikt för privata tandvårdgivare",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/06/ny-overgangsbestammelse-med-anledning-av-tillstandsplikt-for-privata-tandvardgivare/"
+            },
+            {
+                "name": "Artikel: Största tandvårdsreformen på över 20 år",
+                "url": "/regeringens-politik/sjukvard/storsta-tandvardsreformen-pa-over-20-ar/"
+            },
+            {
+                "name": "Pressmeddelande: Proposition om ett förstärkt högkostnadsskydd för tandvård",
+                "url": "/pressmeddelanden/2025/10/proposition-om-ett-forstarkt-hogkostnadsskydd-for-tandvard/"
+            },
+            {
+                "name": "Prop. 2025/26:27 Ett förstärkt högkostnadsskydd för tandvård",
+                "url": "/rattsliga-dokument/proposition/2025/10/prop.-20252627"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen föreslår tillståndsplikt för privata tandvårdsgivare",
+                "url": "/pressmeddelanden/2025/09/regeringen-foreslar-tillstandsplikt-for-privata-tandvardsgivare/"
+            },
+            {
+                "name": "Prop. 2025/26:7 Stärkt kontroll över tandvårdssektorn",
+                "url": "/rattsliga-dokument/proposition/2025/09/prop.--2025267"
+            },
+            {
+                "name": "Frågor och svar om Ett förstärkt högkostnadsskydd för tandvårdWebb-TV",
+                "url": "/regeringens-politik/sjukvard/fragor-och-svar-om-ett-forstarkt-hogkostnadsskydd-for-tandvard/"
+            },
+            {
+                "name": "Frågor och svar om det nya kommuntypsstödet för dig som vårdgivare",
+                "url": "/regeringens-politik/sjukvard/fragor-och-svar-om-kommuntypsstodet-som-starker-tillgangen-till-tandvard-for-boende-i-landsbygd/"
+            },
+            {
+                "name": "Förordning om statligt stöd för ökad tillgänglighet till tandvård 2026:75- extern webbplats,",
+                "url": "https://svenskforfattningssamling.se/doc/202675.html"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1233",
+            "2693",
+            "2688"
+        ]
+    },
+    {
+        "title": "Hazelight Studios vinner regeringens exportpris för de kulturella och kreativa branscherna 2025",
+        "url": "/pressmeddelanden/2026/06/hazelight-studios-vinner-regeringens-exportpris-for-de-kulturella-och-kreativa-branscherna-2025/",
+        "published": "2026-06-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2756",
+            "1295"
+        ],
+        "summary": "Bistånds- och utrikeshandelsminister Benjamin Dousa har delat ut regeringens exportpris för de kulturella och kreativa branscherna till Hazelight Studios, det internationellt framgångsrika dataspelsföretaget grundat av Josef Fares. Årets uppstickare blev Hodakova, ett av Sveriges mest innovativa modehus. Vinnarna utses av en jury bestående av representanter verksamma inom de kulturella och kreativa branscherna.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringskansliets mediabank- extern webbplats,",
+                "url": "https://rkbild.se/folder/1130023/"
+            },
+            {
+                "name": "Regeringens exportpris för de kulturella och kreativa branscherna",
+                "url": "/regeringens-politik/regeringens-exportpris-for-de-kulturella-och-kreativa-branscherna/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1235",
+            "2282",
+            "1242",
+            "2654",
+            "2734"
+        ]
+    },
+    {
+        "title": "Ansökan om statligt stöd till kärnkraftsprojekt utanför Malmö",
+        "url": "/pressmeddelanden/2026/06/ansokan-om-statligt-stod-till-karnkraftsprojekt-utanfor-malmo/",
+        "published": "2026-06-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2623",
+            "1285"
+        ],
+        "summary": "Regeringen har tagit emot ytterligare en ansökan om statligt stöd för att bygga ny kärnkraft i Sverige. Bakom ansökan står företaget Nordic Baseload Power, som ansöker för ett projekt vid Barsebäck i Kävlinge utanför Malmö. Detta är den fjärde ansökan om statligt stöd som regeringen tar emot.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1226",
+            "1231",
+            "1252",
+            "2691",
+            "2811",
+            "2788",
+            "2688",
+            "1012"
+        ]
+    },
+    {
+        "title": "Medel omfördelas för att stärka arbetet med digital hälsodata",
+        "url": "/pressmeddelanden/2026/06/medel-omfordelas-for-att-starka-arbetet-med-digital-halsodata/",
+        "published": "2026-06-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Regeringen omfördelar medel för att stärka genomförandet av den nationella digitala infrastrukturen och införandet av EU:s regler om hälsodata. Syftet är att fler myndigheter ska kunna bidra i arbetet utifrån sina respektive ansvarsområden.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Fyra myndigheter förbereder Sverige för EU:s hälsodataförordning EHDS",
+                "url": "/pressmeddelanden/2026/05/fyra-myndigheter-forbereder-sverige-for-eus-nya-halsodataforordning-ehds/"
+            },
+            {
+                "name": "Artikel: \"Forssmed: Nu minskar vi IT-krånglet i svensk vård\"",
+                "url": "/debattartiklar/2025/09/nu-minskar-vi-it-kranglet-i-svensk-vard/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
+        "title": "Arbetet för att stärka vården vid skadligt bruk och beroende och samsjuklighet fortsätter",
+        "url": "/pressmeddelanden/2026/06/arbetet-for-att-starka-varden-vid-skadligt-bruk-och-beroende-och-samsjuklighet-fortsatter/",
+        "published": "2026-06-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "2616",
+            "1292"
+        ],
+        "summary": "Regeringen ger Statens beredning för medicinsk och social utvärdering (SBU) i uppdrag att ta fram kunskapsunderlag inom området skadligt bruk, beroende och samsjuklighet vid beroendesjukdom och psykisk ohälsa.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Kammarrättsråd Hanna Kristiansson utses till utredare i Samsjuklighetsdelegationen",
+                "url": "/pressmeddelanden/2026/05/kammarrattsrad-hanna-kristiansson-utses-till-utredare-i-samsjuklighetsdelegationen/"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen stärker vården och stödet för personer med skadligt bruk eller beroende och psykiatriska tillstånd",
+                "url": "/pressmeddelanden/2026/05/regeringen-starker-varden-och-stodet-for-personer-med-skadligt-bruk-eller-beroende-och-psykiatriska-tillstand/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2655",
+            "2747",
+            "1233",
+            "2693",
+            "2688"
+        ]
+    },
+    {
+        "title": "Bygdegårdarnas roll i krisberedskapen stärks",
+        "url": "/pressmeddelanden/2026/06/bygdegardar-roll-i-krisberedskapen-starks/",
+        "published": "2026-06-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Bygdegårdar runt om i landet har en viktig roll i samhällets krisberedskap. Regeringen beslutar därför att ge Bygdegårdarnas Riksförbund ett engångsbidrag på 6 miljoner kronor.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Artikel: Kulturens roll i kris, krig och brottsförebyggande arbete i fokus när ministrar bjöd in till rundabordssamtal",
+                "url": "/artiklar/2026/06/kulturens-roll-i-kris-krig-och-brottsforebyggande-arbete-i-fokus-nar-ministrar-bjod-in-till-rundabordssamtal/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1218",
+            "2248",
+            "1241"
+        ]
+    },
+    {
+        "title": "Regeringen har beviljat ersättning ex gratia i uppmärksammat fall",
+        "url": "/pressmeddelanden/2026/06/regeringen-har-beviljat-ersattning-ex-gratia-i-uppmarksammat-fall/",
+        "published": "2026-06-16",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen har beslutat om att bevilja ersättning ex gratia till de båda män som ansökt om sådan ersättning i anledning av ett uppmärksammat fall från 1988. Männen tillerkänns ersättning om två miljoner kronor vardera.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1263"
+        ]
+    },
+    {
+        "title": "Nytt lagförslag ska ge bättre tillgång till hälsodata",
+        "url": "/pressmeddelanden/2026/06/nytt-lagforslag-ska-ge-battre-tillgang-till-halsodata/",
+        "published": "2026-06-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2616",
+            "1292"
+        ],
+        "summary": "Regeringen har beslutat om en lagrådsremiss med förslag till en ny lag om hälsodataregister. Lagen ska ge bättre underlag för att utveckla vården, stärka folkhälsan och samtidigt skydda den personliga integriteten.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Lagrådsremiss: Nytt regelverk för hälsodataregister",
+                "url": "/rattsliga-dokument/lagradsremiss/2026/06/nytt-regelverk-for-halsodataregister/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2655",
+            "1233"
+        ]
+    },
+    {
+        "title": "En tvärsektoriell ungdomspolitik med utvecklade prioriteringar",
+        "url": "/pressmeddelanden/2026/06/en-tvarsektoriell-ungdomspolitik-med-utvecklade-prioriteringar/",
+        "published": "2026-06-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2795",
+            "1292"
+        ],
+        "summary": "Regeringen har överlämnat den ungdomspolitiska skrivelsen till riksdagen. I skrivelsen redovisar regeringen bland annat utvecklingen mot det ungdomspolitiska målet att alla ungdomar ska ha goda levnadsvillkor, makt att forma sina liv och inflytande över samhällsutvecklingen. I skrivelsen finns också regeringens prioriterade områden för ungdomspolitiken.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Ungdomspolitisk skrivelse, Skr. 2025/26:283",
+                "url": "/rattsliga-dokument/skrivelse/2026/06/skr.-202526283"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2246"
+        ]
+    },
+    {
+        "title": "Regeringen genomför reformer för att förbättra elevers läsförmåga och läsning i skolan",
+        "url": "/pressmeddelanden/2026/06/regeringen-genomfor-reformer-for-att-forbattra-elevers-lasformaga-och-lasning-i-skolan/",
+        "published": "2026-06-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2791",
+            "1294"
+        ],
+        "summary": "En ny rapport från Skolverket visar att elever 2021 läste betydligt mindre i skolan jämfört med 2011. Regeringen anser att regelbunden läsning i förskola och skola är av central betydelse. Under mandatperioden har därför reformer genomförts för att förbättra elevers läsförmåga och för att stärka förutsättningarna för daglig läsning.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Rapport: Läsning på ojämlika villkor – en fördjupning av Pirls och inblick i skolors vardag (på Skolverkets webbplats)- extern webbplats,",
+                "url": "https://www.skolverket.se/sok-publikationer/publikationsserier/rapporter/2026/lasning-pa-ojamlika-villkor---en-fordjupning-av-pirls-och-inblick-i-skolors-vardag"
+            },
+            {
+                "name": "Artikel: Regeringen satsar på ökad lästid och minskad skärmtid",
+                "url": "/artiklar/2024/01/regeringen-satsar-pa-okad-lastid-och-minskad-skarmtid/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1276"
+        ]
+    },
+    {
+        "title": "Pressträff med Gunnar Strömmer",
+        "url": "/pressmeddelanden/2026/06/presstraff-med-gunnar-strommer/",
+        "published": "2026-06-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "I dag, tisdag den 16 juni 2026, håller justitieminister Gunnar Strömmer pressträff där ett besked rörande ersättning ex gratia kommer ges.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1263"
+        ]
+    },
+    {
+        "title": "Utredningen Behovsstyrd vård lämnar sitt betänkande",
+        "url": "/pressmeddelanden/2026/06/utredningen-behovsstyrd-vard-lamnar-sitt-betankande/",
+        "published": "2026-06-16",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2795",
+            "1292"
+        ],
+        "summary": "Onsdag den 17 juni håller sjukvårdsminister Elisabet Lann pressträff tillsammans med regeringens särskilda utredare Anna Nergårdh. Under pressträffen presenterar utredningen sina förslag och överlämnar slutbetänkandet till regeringen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
         "title": "EU-minister Jessica Rosencrantz deltar i ministerrådsmöte i Luxemburg",
         "url": "/pressmeddelanden/2026/06/eu-minister-jessica-rosencrantz-deltar-i-ministerradsmote-i-luxemburg/",
         "published": "2026-06-16",

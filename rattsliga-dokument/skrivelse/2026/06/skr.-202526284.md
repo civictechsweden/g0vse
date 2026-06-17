@@ -1,0 +1,9 @@
+# Riksrevisionens rapport om Migrationsverkets kontroller av arbetstillstånd - stor risk för fel och missbruk
+
+I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och rekommendationer som Riksrevisionen har gjort i rapporten Migrationsverkets kontroller av arbetstillstånd – stor risk för fel och missbruk (RiR 2026:5).
+
+Riksrevisionen har granskat om Migrationsverkets kontroller i arbetstillståndsärenden är effektiva för att upptäcka och motverka fel och missbruk. Riksrevisionens övergripande slutsats är att kontrollerna inte är effektiva. Det gäller både kontroller vid ansökan om arbetstillstånd och efterkontroller av pågående arbetstillstånd. Bristerna riskerar enligt Riksrevisionen att bidra till ökad arbetskraftsexploatering, osund konkurrens och arbetslivskriminalitet. Riksrevisionen framhåller bland annat att Migrationsverket beviljar arbetstillstånd hos arbetsgivare som myndigheten tidigare har bedömt som oseriösa utan att någon fördjupad utredning har gjorts i de nya ansökningarna. Otillräckliga efterkontroller gör vidare att fel och missbruk inte upptäcks.
+
+Regeringen välkomnar Riksrevisionens granskning som ett värdefullt underlag för det pågående arbetet med att motverka missbruk av reglerna för arbetskraftsinvandring. Regeringen instämmer i Riksrevisionens rekommendationer. Migrationsverket har fått mål- och rapporteringskrav av regeringen som handlar om förstärkt kontrollverksamhet för att motverka fusk och missbruk. Migrationsverket har också fått i uppdrag att vidta åtgärder för att stärka arbetet med att upptäcka och motverka missbruk av reglerna för arbetskraftsinvandring, med ett särskilt fokus på effektiva och ändamålsenliga kontroller i sådana ärenden.
+
+I och med denna skrivelse anser regeringen att granskningsrapporten är slutbehandlad.
