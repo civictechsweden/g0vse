@@ -1,5 +1,39 @@
 [
     {
+        "title": "Colombia - avrådan",
+        "url": "/ud-avrader/colombia---avradan/",
+        "published": "2026-06-17",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1044"
+        ]
+    },
+    {
+        "title": "Ecuador - avrådan",
+        "url": "/ud-avrader/ecuador---avradan2/",
+        "published": "2026-06-17",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1052"
+        ]
+    },
+    {
         "title": "Bolivia - avrådan",
         "url": "/ud-avrader/bolivia---avradan/",
         "published": "2026-06-01",
@@ -351,23 +385,6 @@
         ]
     },
     {
-        "title": "Colombia - avrådan",
-        "url": "/ud-avrader/colombia---avradan/",
-        "published": "2026-01-22",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1044"
-        ]
-    },
-    {
         "title": "Iran - avrådan",
         "url": "/ud-avrader/iran---avradan/",
         "published": "2026-01-12",
@@ -650,24 +667,6 @@
         "categories": [
             "1017",
             "2204"
-        ]
-    },
-    {
-        "title": "Ecuador - avrådan",
-        "url": "/ud-avrader/ecuador---avradan2/",
-        "published": "2024-01-24",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av förändringar i säkerhetsläget har UD den 24 januari 2024 beslutat om att utöka avrådan för Ecuador. Följande avrådan gäller:\n\nUD avråder från icke nödvändiga resor till provinserna: Esmeraldas, Manabí, Santa Elna, Guayas, El Oro, Santo Domingo de los Tsáchilas samt Los Rios - med undantag från Guayaquils internationella flygplats. \n\nVidare avråder UD från icke nödvändiga resor till den 20 km breda militärbevakade säkerhetszonen utmed gränsen mot Colombia – med undantag från gränsövergången Rumichaca, panamerikanska motorvägen och staden Tulcán i provinsen Carchi.\n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1052"
         ]
     },
     {

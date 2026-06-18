@@ -1,5 +1,99 @@
 [
     {
+        "title": "Jämställdhet i en föränderlig tid",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/06/sou-202641/",
+        "published": "2026-06-17",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1284"
+        ],
+        "summary": "– nuläge och vägar framåt",
+        "id": "SOU 2026:41",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Utredning presenterar förslag för att stärka jämställdhetspolitiken",
+                "url": "/pressmeddelanden/2026/06/utredning-presenterar-forslag-for-att-starka-jamstalldhetspolitiken/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Jämställdhet i en föränderlig tid, volym 1, SOU 2026:41 (pdf 7 MB)",
+                "url": "/contentassets/47f264b04f8e4aca858ca523cd8b2fb7/jamstalldhet-i-en-foranderlig-tid-volym-1-sou-202641.pdf"
+            },
+            {
+                "name": "Jämställdhet i en föränderlig tid, volym 2, SOU 2026:41 (pdf 7 MB)",
+                "url": "/contentassets/47f264b04f8e4aca858ca523cd8b2fb7/jamstalldhet-i-en-foranderlig-tid-volym-2-sou-202641.pdf"
+            }
+        ],
+        "categories": [
+            "1239"
+        ]
+    },
+    {
+        "title": "Ett nytt system för återkrav inom socialförsäkringen",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/06/sou-202639/",
+        "published": "2026-06-17",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1292"
+        ],
+        "summary": "Utredningen om ändamålsenliga återkravsregler inom socialförsäkringen har i betänkandet Ett nytt system för återkrav inom socialförsäkringen sett över regelverket för återkrav inom socialförsäkringsbalken.",
+        "id": "SOU 2026:39",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Återkrav vid felaktiga utbetalningar",
+                "url": "/pressmeddelanden/2026/06/aterkrav-vid-felaktiga-utbetalningar/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Ett nytt system för återkrav inom socialförsäkringen , SOU 2026:39 (pdf 3 MB)",
+                "url": "/contentassets/dee9236f1f85401aa31de10db859fa86/sou-2026_39_pdf-a_webb.pdf"
+            }
+        ],
+        "categories": [
+            "1269"
+        ]
+    },
+    {
+        "title": "Behovsstyrd vård",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/06/sou-202638/",
+        "published": "2026-06-17",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1292"
+        ],
+        "summary": "Utredningen Behovsstyrd vård har tagit fram en ny och stärkt vårdgaranti för den specialiserade vården, lämnat förslag som underlättar för rörlighet och valfrihet, föreslagit uppföljning och tillsyn av den nya vårdgarantin samt föreslagit ett system med nationella principer för ersättningar och avgifter inom hälso- och sjukvården.",
+        "id": "SOU 2026:38",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Sjukvårdsministern tar emot förslag på skärpt vårdgarantiWebb-TV",
+                "url": "/pressmeddelanden/2026/06/sjukvardsministern-tar-emot-forslag-pa-skarpt-vardgaranti/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Behovsstyrd vård, SOU 2026:38 (pdf 4 MB)",
+                "url": "/contentassets/951aa18d38684347b2e832bb38aa0fe1/sou_2026_38_pdf-a_webb.pdf"
+            }
+        ],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
         "title": "Förutsättningar för en likvärdig och språkutvecklande förskola",
         "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/06/sou-202637/",
         "published": "2026-06-16",
