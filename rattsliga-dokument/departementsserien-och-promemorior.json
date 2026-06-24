@@ -1,5 +1,30 @@
 [
     {
+        "title": "Ett statligt identitetskort",
+        "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/06/ett-statligt-identitetskort/",
+        "published": "2026-06-23",
+        "updated": null,
+        "types": [
+            "1325",
+            "1324"
+        ],
+        "senders": [
+            "1287"
+        ],
+        "summary": "Promemorian Ett statligt identitetskort innehåller förslag om att införa ett nytt statligt identitetskort.",
+        "id": "Ju2026/01595",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Ett statligt identitetskort (pdf 1 MB)",
+                "url": "/contentassets/beb086f880f548b98cc4d295257eb7a2/ett-statligt-identitetskort.pdf"
+            }
+        ],
+        "categories": [
+            "1263"
+        ]
+    },
+    {
         "title": "Utökade möjligheter för Transportstyrelsen att fatta och rätta beslut",
         "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/06/utokade-mojligheter-for-transportstyrelsen-att-fatta-och-ratta-beslut/",
         "published": "2026-06-22",
@@ -37,10 +62,46 @@
         "senders": [
             "2425"
         ],
-        "summary": "Delredovisning 6 i Uppdrag att verka för ökat småhusbyggande genom en ny egnahemsrörelse"
+        "summary": "Delredovisning 6 i Uppdrag att verka för ökat småhusbyggande genom en ny egnahemsrörelse",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringsuppdrag: Uppdrag att verka för ökat småhusbyggande genom en ny egnahemsrörelse",
+                "url": "/regeringsuppdrag/2024/05/uppdrag-att-verka-for-okat-smahusbyggande-genom-en-ny-egnahemsrorelse/"
+            },
+            {
+                "name": "Delredovisning 1 av Uppdrag att verka för ökat småhusbyggande genom en ny egnahemsrörelse",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2024/11/delredovisning-av-uppdrag-att-verka-for-okat-smahusbyggande-genom-en-ny-egnahemsrorelse/"
+            },
+            {
+                "name": "Delredovisning 2: Situationen för småhusbyggande i Sverige",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/06/situationen-for-smahusbyggande-i-sverige.-delredovisning-2-i-uppdrag-att-verka-for-okat-smahusbyggande-genom-en-ny-egnahemsrorelse"
+            },
+            {
+                "name": "Delredovisning 3: Kostnader som begränsar möjligheterna att bygga småhus",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2025/11/kostnader-som-begransar-mojligheterna-att-bygga-smahus/"
+            },
+            {
+                "name": "Delredovisning 4: Trädgårdsstaden – en hållbar form för småhusbyggande",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/02/tradgardsstaden--en-hallbar-form-for-smahusbyggande/"
+            },
+            {
+                "name": "Delredovisning 5: En egnahemsrörelse för 2020-talet",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/05/en-egnahemsrorelse-for-2020-talet/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Hinder för småhusbyggande även när förutsättningarna är goda. Delredovisning 6 i Uppdrag att verka för ökat småhusbyggande genom en ny egnahemsrörelse (pdf 3 MB)",
+                "url": "/contentassets/98a20c86084f4ad7964e3c88fd4aad7d/hinder-for-smahusbyggande-aven-nar-forutsattningarna-ar-goda.-delredovisning-6-i-uppdrag-att-verka-for-okat-smahusbyggande-genom-en-ny-egnahemsrorelse.pdf"
+            }
+        ],
+        "categories": [
+            "1217"
+        ]
     },
     {
-        "title": "Spetsutbildning i musik i grundskolan, Ds 2026:13",
+        "title": "Spetsutbildning i musik i grundskolan",
         "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/06/spetsutbildning-i-musik-i-grundskolan--en-forsoksverksamhet/",
         "published": "2026-06-22",
         "updated": null,
@@ -51,7 +112,19 @@
         "senders": [
             "1294"
         ],
-        "summary": "– en försöksverksamhet"
+        "summary": "– en försöksverksamhet",
+        "id": "Ds 2026:13",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Spetsutbildning i musik i grundskolan - en försöksverksamhet, Ds 2026:13 (pdf 2 MB)",
+                "url": "/contentassets/187a5a239fd04f0bb46d38ab7c7a3781/spetsutbildning-i-musik-i-grundskolan---en-forsoksverksamhet-ds-2026-13.pdf"
+            }
+        ],
+        "categories": [
+            "1276",
+            "1242"
+        ]
     },
     {
         "title": "Ett första steg i genomförandet av en nationell digital infrastruktur på hälsodataområdet",

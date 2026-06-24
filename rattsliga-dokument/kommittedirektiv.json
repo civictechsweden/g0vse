@@ -1,6 +1,36 @@
 [
     {
-        "title": "En finansieringsstruktur för att stärka filmbranschen, 2026:54",
+        "title": "Fastighetsägares rätt till inlösen av fastigheter med bostad intill en vindkraftsanläggning",
+        "url": "/rattsliga-dokument/kommittedirektiv/2026/06/dir.-202658",
+        "published": "2026-06-23",
+        "updated": null,
+        "types": [
+            "1327",
+            "1324"
+        ],
+        "senders": [
+            "1296"
+        ],
+        "summary": "En särskild utredare ska lämna förslag som ger den som äger en fastighet med en bostad intill en nyuppförd vindkraftsanläggning rätt att få fastigheten inlöst av verksamhetsutövaren till ett pris som motsvarar vad den hade varit värd om anläggningen inte hade uppförts.",
+        "id": "Dir. 2026:58",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen vill utreda inlösen av fastighet vid vindkraftverk",
+                "url": "/pressmeddelanden/2026/06/regeringen-vill-utreda-inlosen-av-fastighet-vid-vindkraftverk/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Fastighetsägares rätt till inlösen av fastigheter med bostad intill en vindkraftsanläggning, Dir. 2026:58 (pdf 125 kB)",
+                "url": "/contentassets/93d37130b8664e1ab4c2afd383a3f225/fastighetsagares-ratt-till-inlosen-av-fastigheter-med-bostad-intill-en-vindkraftsanlaggning-dir.-202658.pdf"
+            }
+        ],
+        "categories": [
+            "1252"
+        ]
+    },
+    {
+        "title": "En finansieringsstruktur för att stärka filmbranschen",
         "url": "/rattsliga-dokument/kommittedirektiv/2026/06/dir.-202654",
         "published": "2026-06-22",
         "updated": null,
@@ -12,7 +42,27 @@
             "1288",
             "1296"
         ],
-        "summary": "En särskild utredare ska undersöka och föreslå hur en lämplig struktur för finansiering kan skapas i syfte att stödja viktiga insatser i den svenska filmbranschen och främja breddad finansiering av svensk film."
+        "summary": "En särskild utredare ska undersöka och föreslå hur en lämplig struktur för finansiering kan skapas i syfte att stödja viktiga insatser i den svenska filmbranschen och främja breddad finansiering av svensk film.",
+        "id": "2026:54",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen beslutar om en ny filmpolitikWebb-TV",
+                "url": "/pressmeddelanden/2026/06/regeringen-beslutar-om-en-ny-filmpolitik/"
+            },
+            {
+                "name": "Proposition: Ny politisk inriktning för ett starkare filmland, 2025/26:287",
+                "url": "/rattsliga-dokument/proposition/2026/06/prop.-202526287"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "En finansieringsstruktur för att stärka filmbranschen, Dir 2026:54 (pdf 148 kB)",
+                "url": "/globalassets/regeringen/dokument/kulturdepartementet/en-finansieringsstruktur-for-att-starka-filmbranschen-dir-202654/"
+            }
+        ],
+        "categories": [
+            "1242"
+        ]
     },
     {
         "title": "Tilläggsdirektiv till Utredningen om en nationell samordnare för utbyggnad av kärnkraft (KN 2024:01)",

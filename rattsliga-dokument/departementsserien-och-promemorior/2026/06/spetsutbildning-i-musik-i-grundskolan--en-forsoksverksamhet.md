@@ -1,0 +1,13 @@
+# Spetsutbildning i musik i grundskolan
+
+![](/contentassets/187a5a239fd04f0bb46d38ab7c7a3781/ds202613.jpg?width=150&amp;quality=85)
+
+Utredaren har haft i uppdrag att se över hur en försöksverksamhet med spetsutbildning i musik kan utformas och införas i grundskolan. Förslagen syftar till att ge barn och unga goda förutsättningar att utveckla sin begåvning inom musikområdet. Genom en spetsutbildning i musik kan elever redan i grundskolan få en musikalisk utbildning av hög kvalitet som lägger grunden för framtida studie- och yrkesval inom musikområdet.
+
+För att uppnå syftet med spetsutbildningen bedöms kvalificerad individuell instrumentalundervisning utgöra en nyckelfaktor. Elever som går en spetsutbildning i musik ska därför tillförsäkras ett bestämt antal timmar individuell instrumentalundervisning. Vidare behövs ett särskilt ämne för spetsutbildningen. Genom ett särskilt ämne som utformas utifrån spetsutbildningens behov skapas förutsättningar för det fördjupade kunnande som utbildningen syftar till att ge. Det nya ämnet, musik spets, föreslås ersätta grundskoleämnet musik för elever som deltar i spetsutbildningen. För att ytterligare stärka förutsättningarna för elevernas kunskaps-och färdighetsutveckling föreslås det nya ämnet ges mer undervisningstid än grundskoleämnet musik.
+
+Till spetsutbildningen i musik ska bara de elever få antas som vid en samlad bedömning har uppvisat godtagbara förutsättningar att tillgodogöra sig utbildningen. Färdighetsprov ska utgöra villkor för antagning och grund för urval mellan sökande till spetsutbildningen i musik. Spetsutbildningarna i musik föreslås få starta i årskurs 1 eller årskurs 5.
+
+Det kan vara svårt att förutsäga vad en ny utbildning kommer att innebära. För att hantera detta ska spetsutbildningar i musik i grundskolan genomföras inom ramen för en försöksverksamhet som följs upp och utvärderas. Det är nödvändigt att ta reda på hur försöksverksamheten har fungerat i olika avseenden innan eventuella beslut om permanentning av verksamheten fattas. En försöksverksamhet behöver begränsas avseende såväl varaktighet som omfattning. Högst 15 utbildningar föreslås därför få ingå i försöksverksamheten. Det totala antalet platser på dessa utbildningar föreslås vara maximalt 450 i varje årskurs. Försöksverksamheten föreslås sammanlagt pågå under 12 år.
+
+För att säkerställa kvalitet och likvärdighet i spetsutbildningarna över hela landet bör försöksverksamheten finansieras med statliga medel. Därför föreslås ett riktat statsbidrag som de huvudmän för grundskolan som deltar i försöksverksamheten med spetsutbildning i musik kan ansöka om hos Skolverket.
