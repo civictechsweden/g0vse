@@ -1,0 +1,7 @@
+# Uppföljning av den nationella strategin mot organiserad brottslighet
+
+![](/contentassets/7aa968340e8447bc88edb974b93d0979/omslag-skrivelse-organiserad-brottslighet-2026-webb---kopia.png?width=150&amp;quality=85)
+
+I skrivelsen lämnar regeringen en uppföljande redovisning av hur arbetet mot organiserad brottslighet har fortskridit sedan skrivelsen Motståndskraft och handlingskraft – en nationell strategi mot organiserad brottslighet (skr. 2023/24:67) överlämnades till riksdagen i februari 2024.
+
+Ett aktivt och systematiskt arbete har bedrivits från regeringens sida för att förstärka skyddet mot kriminalitet i enlighet med strategins målsättningar att stoppa kriminella karriärer, minska tillgången på illegala vapen och explosiva varor, slå sönder den kriminella ekonomin, bygga robusthet mot otillåten och otillbörlig påverkan samt säkerställa tillförlitliga identiteter och en effektiv informationsförsörjning. Arbetet har bedrivits såväl nationellt som inom EU och i andra internationella forum. Sammantaget bedömer regeringen att Sveriges förutsättningar att aktivt bekämpa den organiserade brottsligheten avsevärt har förbättrats och kommer att ytterligare förbättras genom det arbete som bedrivs inom ramen för strategin. Samtidigt kvarstår det samhällshot som den organiserade brottslighetens utbredning i samhället medför. Det är därför viktigt att långsiktigt och uthålligt fortsätta arbeta på den inslagna vägen.

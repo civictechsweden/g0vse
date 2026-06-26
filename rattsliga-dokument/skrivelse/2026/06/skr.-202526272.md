@@ -1,0 +1,7 @@
+# Uppföljning av den brottsförebyggande strategin Barriärer mot brott
+
+![](/contentassets/09cb109d58be48998c11ceb3865cc30e/omslag-skrivelse-barriarer-mot-brott-2026-webb---kopia.png?width=150&amp;quality=85)
+
+En av regeringens främsta prioriteringar är att bekämpa och förebygga brottsligheten och öka tryggheten i vårt land. Att utveckla samhällets brottsförebyggande åtgärder och anpassa dessa till dagens utmaningar är en central del i detta arbete.
+
+I mars 2024 presenterade regeringen skrivelsen Barriärer mot brott – en socialpreventiv strategi mot kriminella nätverk och annan brottslighet (skr. 2023/24:68). Ett syfte med strategin är att fördjupa och utveckla det sociala brottsförebyggande arbetet och främja att fler aktörer genomför kunskapsbaserade insatser för att förebygga brott. Strategin har ett särskilt fokus på att bryta rekryteringen och socialiseringen in i kriminella nätverk, att förebygga att barn och unga involveras i kriminalitet samt att få individer som begår brott att lämna kriminaliteten bakom sig. I denna uppföljande skrivelse redovisas åtgärder som regeringen har vidtagit i enlighet med strategin. Regeringens övergripande bedömning är att det stora antal åtgärder som har genomförts och påbörjats har bidragit till att utveckla och effektivisera det sociala brottsförebyggande arbetet. Inte minst har förutsättningarna för arbetet med att bryta rekryteringen till de kriminella nätverken förbättrats.

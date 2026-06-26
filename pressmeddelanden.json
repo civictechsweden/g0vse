@@ -1,5 +1,579 @@
 [
     {
+        "title": "Utredning tillsatt om vägval för framtida stridsflyg",
+        "url": "/pressmeddelanden/2026/06/utredning-tillsatt-om-vagval-for-framtida-stridsflyg/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2627",
+            "1286"
+        ],
+        "summary": "En särskild utredare ska analysera samhällsekonomiska samt försvars- säkerhets- och utrikespolitiska effekter av de principiella vägval för framtida stridsflyg som regeringen har beslutat om. De principiella vägvalen är ett nationellt utvecklat stridsflygssystem, ett stridsflygssystem utvecklat i internationellt samarbete och anskaffning av utländskt stridsflygssystem. Analysen ska skapa förutsättningar för en bred politisk förankring och utgöra underlag för regeringens framtida beslut om ett principiellt vägval avseende ersättare till JAS 39 Gripen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2247",
+            "2670"
+        ]
+    },
+    {
+        "title": "Infrastruktur- och bostadsminister Andreas Carlson deltar vid internationell givarkonferens till stöd för Ukraina",
+        "url": "/pressmeddelanden/2026/06/infrastruktur--och-bostadsminister-andreas-carlson-deltar-vid-internationell-givarkonferens-till-stod-for-ukraina/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2425"
+        ],
+        "summary": "Torsdagen den 25 juni deltar infrastruktur- och bostadsminister Andreas Carlson vid en givarkonferens till stöd för Ukraina i Gdansk. Ministern deltog bland annat under en session som fokuserade på fortsatt stöd till Ukraine Transport Support Fund.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1226",
+            "1274",
+            "2584",
+            "1198"
+        ]
+    },
+    {
+        "title": "Stärkt beredskap i kommunal vård och omsorg",
+        "url": "/pressmeddelanden/2026/06/starkt-beredskap-i-kommunal-vard-och-omsorg/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2609",
+            "1292"
+        ],
+        "summary": "Regeringen ger Socialstyrelsen i uppdrag att följa upp kommunernas arbete med kontinuitets- och evakueringsplanering inom kommunal vård och omsorg.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1268",
+            "2656"
+        ]
+    },
+    {
+        "title": "Regeringen har utsett IVO:s överdirektör",
+        "url": "/pressmeddelanden/2026/06/regeringen-har-utsett-ivos-overdirektor/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2795",
+            "1292"
+        ],
+        "summary": "Regeringen anställer departementsrådet Therese Karlberg som överdirektör för Inspektionen för vård och omsorg.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen beslutar att IVO ska ledas av en styrelse",
+                "url": "/pressmeddelanden/2026/03/regeringen-beslutar-att-ivo-ska-ledas-av-en-styrelse/"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen beslutar om vilka som ska ingå i IVO:s styrelse",
+                "url": "/pressmeddelanden/2026/06/regeringen-beslutar-om-vilka-som-ska-inga-i-ivos-styrelse/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
+        "title": "Slutförhandlingar om nätpaketet i energirådet",
+        "url": "/pressmeddelanden/2026/06/slutforhandlingar-om-natpaketet-i-energiradet/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "1291"
+        ],
+        "summary": "Fredag den 26 juni reser energi- och näringsminister Ebba Busch till Luxemburg för möte i energirådet. Under mötet ska ministrarna diskutera det europeiska nätpaketet med målet att anta allmän riktlinje. För att Sverige ska kunna ställa sig bakom förslagen kräver regeringen bland annat en ökad flexibilitet för hur så kallade flaskhalsinkomster får användas.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Kommenterad dagordning inför energirådet den 26 juni 2026",
+                "url": "/kommenterade-dagordningar/2026/06/kommenterad-dagordning-infor-energiradet-den-26-juni-2026/"
+            },
+            {
+                "name": "Om mötet och de viktigaste resultaten på ministerrådets webbplats- extern webbplats,",
+                "url": "https://www.consilium.europa.eu/sv/meetings/tte/2026/06/26/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1226",
+            "2211",
+            "1012"
+        ]
+    },
+    {
+        "title": "Möjligheten att använda olja från beredskapslager förlängs",
+        "url": "/pressmeddelanden/2026/06/mojligheten-att-anvanda-olja-fran-beredskapslager-forlangs/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "1291"
+        ],
+        "summary": "Regeringen har i dag beslutat att förlänga den tidsperiod då Energimyndigheten kan genomföra en avtappning av beredskapslagren för olja. Detta gäller om det uppstår risk för oljebrist.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringen beslutar om användning av beredskapslager av olja",
+                "url": "/pressmeddelanden/2026/04/regeringen-beslutar-om-anvandning-av-beredskapslager-av-olja/"
+            },
+            {
+                "name": "Pressmeddelande: Sverige stödjer IEA:s initiativ att släppa olja från beredskapslager",
+                "url": "/pressmeddelanden/2026/03/sverige-stodjer-ieas-initiativ-att-slappa-olja-fran-beredskapslager/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1226"
+        ]
+    },
+    {
+        "title": "Ny ambassadör i Syrien",
+        "url": "/pressmeddelanden/2026/06/ny-ambassador-i-syrien/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Regeringen har i dag utsett Jessica Svärdström till ambassadör i Damaskus.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1279",
+            "1013",
+            "1182"
+        ]
+    },
+    {
+        "title": "Ändringar i myndighetsinstruktioner för vissa myndigheter under Kulturdepartementet",
+        "url": "/pressmeddelanden/2026/06/andringar-i-myndighetsinstruktioner-for-vissa-myndigheter-under-kulturdepartementet/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2624",
+            "1288"
+        ],
+        "summary": "Regeringen har den 25 juni beslutat om ändringar i instruktionerna för ett antal myndigheter under Kulturdepartementet. Syftet med ändringarna är att säkerställa en mer ändamålsenlig styrning som är tydlig, resultatinriktad och verksamhetsanpassad.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1242"
+        ]
+    },
+    {
+        "title": "Nytt uppdrag ska förbättra möjligheten till prissäkring och främja investeringar i elsystemet",
+        "url": "/pressmeddelanden/2026/06/nytt-uppdrag-ska-forbattra-mojligheten-till-prissakring-och-framja-investeringar-i-elsystemet/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "1291"
+        ],
+        "summary": "Energimarknadsinspektionen och Svenska kraftnät får i uppdrag att föreslå åtgärder för att förbättra prissäkringsmöjligheterna på elmarknaden. Syftet är att främja investeringar i både elproduktion och elanvändning, påskynda anslutningen till elnätet och bidra till att utbyggnaden av produktion och efterfrågan kan utvecklas i bättre takt med varandra.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringsuppdrag",
+                "url": "/regeringsuppdrag/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1226"
+        ]
+    },
+    {
+        "title": "Starkare beslutsunderlag för kommuner och regioner",
+        "url": "/pressmeddelanden/2026/06/starkare-beslutsunderlag-for-kommuner-och-regioner/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2614",
+            "1285"
+        ],
+        "summary": "Regeringen ger Statskontoret i uppdrag att analysera kommuners och regioners konsekvensanalyser vid större investeringar och verksamhetsförändringar. Robusta beslutsunderlag är avgörande för att minska risken för kostsamma felbeslut och för att skattepengar ska kunna användas på bästa sätt.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2092"
+        ]
+    },
+    {
+        "title": "Regeringen beslutar om ny myndighetsinstruktion för Statens kulturråd",
+        "url": "/pressmeddelanden/2026/06/regeringen-beslutar-om-ny-myndighetsinstruktion-for-statens-kulturrad/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2624",
+            "1288"
+        ],
+        "summary": "Regeringens arbete med att säkerställa att myndigheterna har en ändamålsenlig styrning som är tydlig, resultatinriktad och verksamhetsanpassad pågår löpande. Som ett led i detta arbete har regeringen nu beslutat om en ny myndighetsinstruktion för Statens kulturråd.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1242"
+        ]
+    },
+    {
+        "title": "Efter krav på bemannade skolbibliotek – UKÄ analyserar kompetensbehovet",
+        "url": "/pressmeddelanden/2026/06/efter-krav-pa-bemannade-skolbibliotek--uka-analyserar-kompetensbehovet/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2620",
+            "2624",
+            "1288",
+            "1294"
+        ],
+        "summary": "För ett år sedan infördes krav på att alla elever ska ha tillgång till bemannade skolbibliotek. Regeringen ger nu Universitetskanslersämbetet (UKÄ) i uppdrag att ta fram en samlad analys av hur kompetensförsörjningen påverkas av lagändringen och hur utbildningsutbudet kan svara mot behoven.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Alla elever ska få rätt till bemannade skolbibliotek",
+                "url": "/pressmeddelanden/2024/07/alla-elever-ska-fa-ratt-till-bemannade-skolbibliotek/"
+            },
+            {
+                "name": "Pressmeddelande: Regeringen presenterar en lässtrategi för SverigeWebb-TV",
+                "url": "/pressmeddelanden/2026/04/regeringen-presenterar-en-lasstrategi-for-sverige2/"
+            },
+            {
+                "name": "SOU 2021:3 Skolbibliotek för bildning och utbildning",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2021/01/sou-20213/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1276",
+            "1277"
+        ]
+    },
+    {
+        "title": "Nya deltagare i nationella rådet mot ålderism",
+        "url": "/pressmeddelanden/2026/06/nya-deltagare-i-nationella-radet-mot-alderism/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2609",
+            "1292"
+        ],
+        "summary": "Regeringen har beslutat att utöka det nationella rådet mot ålderism med ytterligare deltagare. Syftet är att ytterligare stärka arbetet med att motverka ålderism och ta tillvara äldres kompetens och erfarenhet i arbetslivet och samhället.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringen inrättar nationellt råd mot ålderism",
+                "url": "/pressmeddelanden/2026/05/regeringen-inrattar-nationellt-rad-mot-alderism/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1269"
+        ]
+    },
+    {
+        "title": "Ny generaldirektör utsedd för Inspektionen för socialförsäkringen, ISF",
+        "url": "/pressmeddelanden/2026/06/ny-generaldirektor-utsedd-for-inspektionen-for-socialforsakringen-isf/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2609",
+            "1292"
+        ],
+        "summary": "Regeringen har i dag beslutat att utse Erik Janzon till ny generaldirektör för Inspektionen för socialförsäkringen, ISF.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1269"
+        ]
+    },
+    {
+        "title": "Regeringen utreder hur finansieringen av banbrytande innovation och deeptech-företag kan stärkas",
+        "url": "/pressmeddelanden/2026/06/regeringen-utreder-hur-finansieringen-av-banbrytande-innovation-och-deeptech-foretag-kan-starkas/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "1291"
+        ],
+        "summary": "Regeringen tar nu nästa steg för att stärka Sveriges position som ledande innovationsnation. Regeringen ger Tillväxtverket och Vinnova i uppdrag att analysera hur tillgången till kapital för banbrytande innovation och så kallade deeptech-företag kan förbättras.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Regeringsuppdrag",
+                "url": "/regeringsuppdrag/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2282",
+            "1257"
+        ]
+    },
+    {
+        "title": "Strategi för att stärka luftfartens konkurrenskraft",
+        "url": "/pressmeddelanden/2026/06/strategi-for-att-starka-luftfartens-konkurrenskraft/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2425"
+        ],
+        "summary": "Regeringen har beslutat om en ny luftfartsstrategi – Strategi för att stärka luftfartens konkurrenskraft. Den nya strategin fokuserar särskilt på konkurrenskraft, tillgänglighet och hållbarhet. Strategin ska också bidra till att bibehålla en hög flygsäkerhet och värna Sveriges ställning som stark flygindustrination.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Rapport: Strategi för att stärka luftfartens konkurrenskraft",
+                "url": "/rapporter/2026/06/strategi-for-att-starka-luftfartens-konkurrenskraft/"
+            },
+            {
+                "name": "Debattartikel: Det är slut på flygfientlig politik",
+                "url": "/debattartiklar/2026/06/det-ar-slut-pa-flygfientlig-politik/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1274"
+        ]
+    },
+    {
+        "title": "Pressträff om en rättssäker och kunskapsbaserad socialtjänst",
+        "url": "/pressmeddelanden/2026/06/presstraff-om-en-rattssaker-och-kunskapsbaserad-socialtjanst/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "1292"
+        ],
+        "summary": "Måndag den 29 juni bjuder socialtjänstminister Camilla Waltersson Grönvall in till pressträff tillsammans med Linda Lindberg (SD), Lina Nordquist (L) och Camilla Brodin (KD). Under pressträffen presenteras en nyhet om regeringens nästa steg för att stärka rättssäkerheten inom socialtjänsten, mot bakgrund av den senaste tidens uppmärksammade fall.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1268"
+        ]
+    },
+    {
+        "title": "Sverige stärker Ukrainas energiförsörjning inför vintern",
+        "url": "/pressmeddelanden/2026/06/sverige-starker-ukrainas-energiforsorjning-infor-vintern/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2756",
+            "1295"
+        ],
+        "summary": "Ukrainas elnät och kraftverk utsattes under den senaste vintern för intensiva ryska attacker, och landet står nu inför ett omfattande arbete med att säkra energiförsörjningen för kommande vinter. Regeringen har därför beslutat om ett nytt stödpaket till Ukraina på närmare 1,5 miljarder kronor för 2026, till stöd för landets energisektor. Det nya stödpaketet väntas bidra till förberedelserna genom reparationer, installation av ny energiproduktion, materielstöd och stärkt kärnsäkerhet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1215",
+            "1279",
+            "2584",
+            "1013",
+            "1198"
+        ]
+    },
+    {
+        "title": "Utrikesminister Maria Malmer Stenergard deltar i Ukraine Recovery Conference i Gdansk",
+        "url": "/pressmeddelanden/2026/06/utrikesminister-maria-malmer-stenergard-deltar-i-ukraine-recovery-conference-i-gdansk/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2621",
+            "2425",
+            "1295"
+        ],
+        "summary": "Den 25 juni deltar utrikesminister Maria Malmer Stenergard i Ukraine Recovery Conference (URC) i Gdansk. Konferensen samlar regeringschefer, ministrar och representanter från internationella organisationer, finansinstitutioner, näringsliv och civilsamhälle för att stärka stödet till Ukrainas återhämtning och uppbyggnad. I delegationen ingår också infrastruktur- och bostadsminister Andreas Carlson.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1215",
+            "1279",
+            "2584",
+            "1013",
+            "1198"
+        ]
+    },
+    {
+        "title": "Nästa stora steg för ny kärnkraft i Sverige",
+        "url": "/pressmeddelanden/2026/06/nasta-stora-steg-for-ny-karnkraft-i-sverige/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2612",
+            "2792",
+            "2623",
+            "2605",
+            "1285"
+        ],
+        "summary": "Regeringen har i dag beslutat om att staten blir delägare i Videberg Kraft som planerar att bygga kärnkraftsreaktorer vid Ringhals. Aktieägaravtal ingås mellan staten, Vattenfall och Industrikraft gällande förvaltningen av bolaget. Statens ägarandel blir 60 procent, medan Vattenfall och Industrikraft kommer att äga 20 procent vardera. Staten har även förhandlat huvudsakliga villkor för det statliga stödet till bolaget.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Kärnkraftsfinansiering",
+                "url": "/regeringens-politik/karnkraftsfinansiering/"
+            },
+            {
+                "name": "Kärnkraft i Sverige",
+                "url": "/regeringens-politik/karnkraft-i-sverige/"
+            },
+            {
+                "name": "Pressmeddelande: Ny kärnkraft är en samhällsinvestering som förutsätter en ny roll för staten",
+                "url": "/pressmeddelanden/2026/04/ny-karnkraft-ar-en-samhallsinvestering-som-forutsatter-en-ny-roll-for-staten/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1226",
+            "1231",
+            "2691",
+            "2811",
+            "2788",
+            "2688",
+            "2212",
+            "1012"
+        ]
+    },
+    {
+        "title": "Nu har det nya regelverket för bosättning för nyanlända beslutats",
+        "url": "/pressmeddelanden/2026/06/nu-har-det-nya-regelverket-for-bosattning-for-nyanlanda-beslutats/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2791",
+            "1284"
+        ],
+        "summary": "Den 18 juni utfärdade regeringen en ny lag om bosättning för vissa nyanlända invandrare. Samtidigt beslutade regeringen om en ny förordning om bosättning för vissa nyanlända invandrare. Syftet med det nya regelverket är bland annat att öka kommunernas inflytande över mottagandet och att nyanlända ska få ett mer likvärdigt stöd när det gäller boende.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2025/26:215: Tidsbegränsat boende för vissa nyanlända invandrare – en ny lag om bosättning",
+                "url": "/rattsliga-dokument/proposition/2026/03/prop.-202526215"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2460",
+            "1237",
+            "2092",
+            "1249",
+            "2661",
+            "2688"
+        ]
+    },
+    {
+        "title": "Sverige stödjer Ukraina med mobilt flygledartorn",
+        "url": "/pressmeddelanden/2026/06/sverige-stodjer-ukraina-med-mobilt-flygledartorn/",
+        "published": "2026-06-25",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2608",
+            "2611",
+            "1286",
+            "2425"
+        ],
+        "summary": "Sverige stödjer Ukraina med system och utbildning för fjärrstyrd flygtrafikledning. Tekniken kan användas för militär flygtrafikledning, men är också en viktig resurs när civil luftfart åter kan bedrivas i landet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Sveriges stöd till Ukraina",
+                "url": "/regeringens-politik/sveriges-stod-till-ukraina/"
+            },
+            {
+                "name": "Civilt stöd till Ukraina",
+                "url": "/regeringens-politik/sveriges-stod-till-ukraina/civilt-stod-till-ukraina/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2248",
+            "1274",
+            "2584",
+            "1198"
+        ]
+    },
+    {
         "title": "Romina Pourmokhtari deltar i miljörådet i Luxemburg",
         "url": "/pressmeddelanden/2026/06/romina-pourmokhtari-deltar-i-miljoradet-i-luxemburg/",
         "published": "2026-06-25",
