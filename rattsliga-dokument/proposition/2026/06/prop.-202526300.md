@@ -1,0 +1,9 @@
+# Skyldighet att betala för tandvård – nya regler för vissa utlänningar
+
+Regeringen föreslår nya regler om tandvårdsavgifter för vissa utlänningar. Förslagen innebär att sökande av internationellt skydd, utlänningar som hålls i förvar i Migrationsverkets lokaler och utlänningar som har fått ett beslut om avvisning eller utvisning, men där verkställigheten har inhiberats, ska betala skälig ersättning till Migrationsverket för tandvård som inte kan anstå om de har fyllt 18 år och har inkomst eller egna tillgångar.
+
+För utlänningar som har fyllt 18 år och vistas i Sverige utan stöd av myndighetsbeslut eller författning och vars vistelse i Sverige inte är avsedd att vara tillfällig, inklusive personer som håller sig undan verkställighet av beslut om avvisning eller utvisning, bör tandvård som inte kan anstå inte vara subventionerad. Det innebär att dessa utlänningar ska betala för tandvård enligt de grunder som vårdgivaren bestämmer. Betalningsskyldigheten bör därmed inte längre vara begränsad till 50 kronor. Sådana utlänningar föreslås ha rätt till ekonomiskt bistånd av socialnämnden för tandvård som inte kan anstå.
+
+I propositionen föreslås även att en privat tandvårdgivare, som före den 1 januari 2026 hade påbörjat verksamhet men inte anmält denna till Inspektionen för vård och omsorg, ska få bedriva verksamheten utan tillstånd trots att en ansökan om tillstånd inte har getts in senast den 2 mars 2026 i enlighet med gällande övergångsbestämmelser. Under förutsättning att ansökan ges in före den 1 januari 2027 ska verksamheten få bedrivas utan tillstånd till dess att ansökan har prövats slutligt. Detta gäller dock inte om en tidigare ansökan om tillstånd har avslagits genom ett beslut som har fått laga kraft.
+
+Lagändringen i fråga om möjligheten att bedriva tandvårdsverksamhet utan tillstånd föreslås träda i kraft den 23 augusti 2026. Övriga lagändringar föreslås träda i kraft den 2 januari 2027.
