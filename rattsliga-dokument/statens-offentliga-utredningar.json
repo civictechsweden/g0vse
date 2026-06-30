@@ -1,5 +1,65 @@
 [
     {
+        "title": "Ett sammanhållet, robust och konkurrenskraftigt Sverige",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/06/sou-202646/",
+        "published": "2026-06-29",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "2425"
+        ],
+        "summary": "– framtidens politik för utveckling i landsbygder och regioner",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Utredning om Sveriges sammanhållna utveckling överlämnad",
+                "url": "/pressmeddelanden/2026/06/utredning-om-sveriges-sammanhallna-utveckling-overlamnad/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Ett sammanhållet, robust och konkurrenskraftigt Sverige, SOU 2026:46 (pdf 3 MB)",
+                "url": "/contentassets/cacf31c39b134144b76992c0fdfd480b/sou-2026-462.pdf"
+            }
+        ],
+        "categories": [
+            "1243"
+        ]
+    },
+    {
+        "title": "En stärkt förmåga till modern datadelning",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/06/sou-202644/",
+        "published": "2026-06-29",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [],
+        "summary": "– integritetsfrämjande teknik i offentlig förvaltning",
+        "id": "SOU 2026:44",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Regeringens utredning föreslår en satsning för att modernisera datadelningen i offentlig förvaltning",
+                "url": "/pressmeddelanden/2026/06/regeringens-utredning-foreslar-en-satsning-for-att-modernisera-datadelningen-i-offentlig-forvaltning/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "En stärkt förmåga till modern datadelning – integritetsfrämjande teknik i offentlig förvaltning, SOU 2026:44 (pdf 3 MB)",
+                "url": "/contentassets/682e9d78bf674c80bc57cdb4a8c776cc/sou-202644.pdf"
+            }
+        ],
+        "categories": [
+            "1238",
+            "2790",
+            "2807"
+        ]
+    },
+    {
         "title": "Ett nytt regelverk för granskning av utländsk finansiering av trossamfund och andra verksamheter",
         "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/06/sou-202642/",
         "published": "2026-06-23",
