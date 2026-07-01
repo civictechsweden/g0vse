@@ -1,0 +1,37 @@
+# Nu regleras lärarnas undervisningsuppdrag
+
+– Det är viktigt att lärare får tid att planera, genomföra och följa upp sin undervisning. Nu kliver vi från statens håll in och reglerar undervisningsuppdraget så att lärarna får bättre förutsättningar och en hållbar arbetssituation. Det här är en viktig reform för läraryrkets framtid, säger utbildnings- och integrationsminister Simona Mohamsson.
+
+– En avgörande faktor för att barn ska få den utbildning de har rätt till är att de har skickliga och väl förberedda lärare. Därför säkerställer vi nu att lärare får rätt förutsättningar att möta eleverna i klassrummet genom att säkra tiden för planering och uppföljning, säger kulturminister Parisa Liljestrand.
+
+– Ska vi stärka skolan långsiktigt behöver läraryrket erbjuda rimliga villkor där förberedelse och uppföljning får ta plats. När vi avlastar lärarna från onödig administration och ger mer tid till planering och uppföljning stärker vi både yrkets attraktivitet och elevernas kunskapsresultat, säger Mathias Bengtsson, utbildningspolitisk talesperson för Kristdemokraterna.
+
+Arbetssituationen för lärare kännetecknas av hög arbetsbelastning och många lärare känner sig stressade. Fram till 1995 reglerades det antal undervisningstimmar en lärare var skyldig att genomföra i kollektivavtalen. I dag finns det ingen natio­nell reglering av hur mycket tid lärare ska lägga på att undervisa. Det har lett till att mängden undervisning som lärare förväntas genomföra har ökat.
+
+Regeringen tillför 2,6 miljarder kronor årligen för reformen vilket är en av de största enskilda satsningarna på skolan som har gjorts på många år. Syftet med ändringen är att skapa bättre förutsättningar för lärare och förskollärare att utföra sitt undervisningsuppdrag och göra lärar- och förskolläraryrkena mer attraktiva. Undervisningstiden och tiden för planering och uppföljning beskrivs i faktarutan nedan.
+
+Föreskrifterna träder i kraft 1 juli 2027.
+
+**Faktaruta**
+
+| Intervall för undervisningstiden och tid för planering och uppföljningUndervisningstidenUndervisningstiden<br>Vid heltidstjänstgöring ska en lärares undervisningstid under ett läsår som mest vara inom intervallet<br>1. 550–650 timmar (motsvarar ca 16-18 timmar/vecka) för lärare i, årskurserna 1–6 i grundskolan, anpassade grundskolan, sameskolan och årskurserna 1–7 i specialskolan,<br>2. 500–600 timmar (motsvarar ca 14-17 timmar/vecka) för lärare i årskurserna 7–9 i grundskolan, anpassade grundskolan och årskurserna 8–10 i specialskolan,<br>3. 450–650 timmar (motsvarar ca 13-18 timmar/vecka) för lärare i gymnasieskolan och anpassade gymnasieskolan som undervisar i karaktärsämnen som har en yrkesinriktad profil, och<br>4. 450–550 timmar (motsvarar ca 13-16 timmar/vecka) för övriga lärare i gymnasieskolan och anpassade gymnasieskolan.Tiden för planering och uppföljning<br>För lärare i grundskolan årskurs 1–6, anpassade grundskolan, specialskolan årskurs 1–7 och sameskolan ska det avsättas tid för planering och uppföljning av undervisningen som minst motsvarar den undervisningstiden läraren har.<br>För lärare i årskurs 7–9 i grundskolan, årskurs 8–10 i specialskolan, och anpassade gymnasieskolan ska det avsättas tid för planering och uppföljning av undervisningen som minst motsvarar 110 % av den undervisningstiden läraren har.<br>För lärare i gymnasieskolan ska det avsättas tid för planering och uppföljning av undervisningen som minst motsvarar 120 % av den undervisningstiden läraren har.<br>För lärare i kommunal vuxenutbildning ska det avsättas tid för planering och uppföljning av undervisningen som minst motsvarar 50–120 % av undervisningstiden.<br>För förskollärare i förskolan och lärare i fritidshemmet ska det avsättas minst 5 timmar per vecka för planering och uppföljning av undervisningen. |
+| --- |
+
+
+
+– Det är viktigt att lärare får tid att planera, genomföra och följa upp sin undervisning. Nu kliver vi från statens håll in och reglerar undervisningsuppdraget så att lärarna får bättre förutsättningar och en hållbar arbetssituation. Det här är en viktig reform för läraryrkets framtid, säger utbildnings- och integrationsminister Simona Mohamsson.
+
+– En avgörande faktor för att barn ska få den utbildning de har rätt till är att de har skickliga och väl förberedda lärare. Därför säkerställer vi nu att lärare får rätt förutsättningar att möta eleverna i klassrummet genom att säkra tiden för planering och uppföljning, säger kulturminister Parisa Liljestrand.
+
+– Ska vi stärka skolan långsiktigt behöver läraryrket erbjuda rimliga villkor där förberedelse och uppföljning får ta plats. När vi avlastar lärarna från onödig administration och ger mer tid till planering och uppföljning stärker vi både yrkets attraktivitet och elevernas kunskapsresultat, säger Mathias Bengtsson, utbildningspolitisk talesperson för Kristdemokraterna.
+
+Arbetssituationen för lärare kännetecknas av hög arbetsbelastning och många lärare känner sig stressade. Fram till 1995 reglerades det antal undervisningstimmar en lärare var skyldig att genomföra i kollektivavtalen. I dag finns det ingen natio­nell reglering av hur mycket tid lärare ska lägga på att undervisa. Det har lett till att mängden undervisning som lärare förväntas genomföra har ökat.
+
+Regeringen tillför 2,6 miljarder kronor årligen för reformen vilket är en av de största enskilda satsningarna på skolan som har gjorts på många år. Syftet med ändringen är att skapa bättre förutsättningar för lärare och förskollärare att utföra sitt undervisningsuppdrag och göra lärar- och förskolläraryrkena mer attraktiva. Undervisningstiden och tiden för planering och uppföljning beskrivs i faktarutan nedan.
+
+Föreskrifterna träder i kraft 1 juli 2027.
+
+**Faktaruta**
+
+| Intervall för undervisningstiden och tid för planering och uppföljningUndervisningstidenUndervisningstiden<br>Vid heltidstjänstgöring ska en lärares undervisningstid under ett läsår som mest vara inom intervallet<br>1. 550–650 timmar (motsvarar ca 16-18 timmar/vecka) för lärare i, årskurserna 1–6 i grundskolan, anpassade grundskolan, sameskolan och årskurserna 1–7 i specialskolan,<br>2. 500–600 timmar (motsvarar ca 14-17 timmar/vecka) för lärare i årskurserna 7–9 i grundskolan, anpassade grundskolan och årskurserna 8–10 i specialskolan,<br>3. 450–650 timmar (motsvarar ca 13-18 timmar/vecka) för lärare i gymnasieskolan och anpassade gymnasieskolan som undervisar i karaktärsämnen som har en yrkesinriktad profil, och<br>4. 450–550 timmar (motsvarar ca 13-16 timmar/vecka) för övriga lärare i gymnasieskolan och anpassade gymnasieskolan.Tiden för planering och uppföljning<br>För lärare i grundskolan årskurs 1–6, anpassade grundskolan, specialskolan årskurs 1–7 och sameskolan ska det avsättas tid för planering och uppföljning av undervisningen som minst motsvarar den undervisningstiden läraren har.<br>För lärare i årskurs 7–9 i grundskolan, årskurs 8–10 i specialskolan, och anpassade gymnasieskolan ska det avsättas tid för planering och uppföljning av undervisningen som minst motsvarar 110 % av den undervisningstiden läraren har.<br>För lärare i gymnasieskolan ska det avsättas tid för planering och uppföljning av undervisningen som minst motsvarar 120 % av den undervisningstiden läraren har.<br>För lärare i kommunal vuxenutbildning ska det avsättas tid för planering och uppföljning av undervisningen som minst motsvarar 50–120 % av undervisningstiden.<br>För förskollärare i förskolan och lärare i fritidshemmet ska det avsättas minst 5 timmar per vecka för planering och uppföljning av undervisningen. |
+| --- |

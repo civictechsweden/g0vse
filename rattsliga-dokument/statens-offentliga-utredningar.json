@@ -1,5 +1,64 @@
 [
     {
+        "title": "Effektiva ingripanden mot brott i cybermiljö",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/06/sou-202645/",
+        "published": "2026-06-30",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1287"
+        ],
+        "summary": "Delbetänkande av Utredningen om hemliga och preventiva tvångsmedel.",
+        "id": "SOU 2026:45",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Effektiva ingripanden mot brott i cybermiljö, SOU 2026:45 (pdf 3 MB)",
+                "url": "/contentassets/7dc99ec7f2bc4f30a5534c25be8433f5/effektiva-ingripanden-mot-brott-i-cybermiljo-sou-202645.pdf"
+            }
+        ],
+        "categories": [
+            "2708",
+            "2690",
+            "2688"
+        ]
+    },
+    {
+        "title": "Rätt till ersättning vid avveckling av kärnkraft på grund av politiska beslut",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/06/sou-202647/",
+        "published": "2026-06-30",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1291"
+        ],
+        "summary": "Reaktorer som inte tagits i drift",
+        "id": "SOU 2026:47",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Utredning föreslår ny ersättning för kärnkraft som avvecklas till följd av politiska beslut",
+                "url": "/pressmeddelanden/2026/06/utredning-foreslar-ny-ersattning-for-karnkraft-som-avvecklas-till-foljd-av-politiska-beslut/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Rätt till ersättning vid avveckling av kärnkraft på grund av politiska beslut – Reaktorer som inte tagits i drift, SOU 2026:47 (pdf 1 MB)",
+                "url": "/contentassets/f978ffc9551447749dcbd514dabb0786/ratt-till-ersattning-vid-avveckling-av-karnkraft-pa-grund-av-politiska-beslut--reaktorer-som-inte-tagits-i-drift-sou-202647.pdf"
+            }
+        ],
+        "categories": [
+            "1226",
+            "2811",
+            "2777"
+        ]
+    },
+    {
         "title": "Ett sammanhållet, robust och konkurrenskraftigt Sverige",
         "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/06/sou-202646/",
         "published": "2026-06-29",
