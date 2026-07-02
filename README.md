@@ -80,13 +80,16 @@ To present the project, a lightweight static website has been built using NextJS
 
 ## What if I want to reuse the code?
 
-Go ahead! You'll need Python 3 and to install dependencies using:
+Go ahead! You'll need `uv` and to install dependencies using:
 
 ```bash
-pip install .
+uv sync
+uv run camoufox sync
+uv run camoufox set official/prerelease
+uv run camoufox fetch
 ```
 
-After that, you can fetch the latext 20 items and associated codes:
+After that, you can fetch the latest 20 items and associated codes:
 
 ```python
 from services.downloader import Downloader
@@ -121,7 +124,7 @@ git clone --branch data --single-branch https://github.com/civictechsweden/g0vse
 - Run the script (it will read the data and only download the new pages):
 
 ```bash
-python fetch.py
+uv run fetch.py
 ```
 
 If you want to push the new data to the branch (you would need write access to the repo):
