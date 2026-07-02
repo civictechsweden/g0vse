@@ -1,0 +1,21 @@
+# Sverige bidrar med 25 miljoner kronor till jordbävningsdrabbade Venezuela
+
+– Situationen i Venezuela är otroligt allvarlig. Människor som redan lever i stor utsatthet har drabbats hårt av jordbävningarnas förödelse. Antalet döda och skadade ökar dagligen. Tusentals människor står utan hem och saknar tillgång till mat och rent vatten. Vi ser också med särskilt stor oro på barnens situation, där många har separerats från sina familjer, står helt utan skydd och är i stort behov av stöd, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
+
+– Många människor i Venezuela har drabbats av ett stort lidande till följd av jordbävningarna. Det är därför mycket angeläget att Sverige snabbt kan bidra med humanitärt stöd för att hjälpa till med det mest grundläggande. Inte minst behöver skyddet runt barnen som drabbats stärkas, säger socialminister Jakob Forssmed.
+
+– Venezuela har drabbats av förödande jordbävningar och många människor befinner sig i stor nöd. Som en av de största biståndsgivarna ger Sverige humanitärt stöd till de mest utsatta. Det venezuelanska folket, som redan lider under regimen, drabbas nu även av naturkatastrofer – en dubbel tragedi där de förtjänar vårt stöd, säger Fredrik Malm, utrikespolitisk talesperson för Liberalerna.
+
+Det svenska humanitära stödet riktas till de allra mest utsatta och syftar till att människor ska kunna tillgodose sina mest grundläggande behov. Det omfattar bland annat utdelning av matpaket, tillgång till rent vatten, tillfälliga nödbostäder och skyddsinsatser, samt insatser för att stärka barns trygghet och återförening av familjer som separerats.
+
+Sverige har sedan tidigare i år bidragit med 78,3 miljoner kronor i riktat humanitärt stöd till Venezuela genom Sida. Med det stöd som nu presenteras uppgår det totala svenska stödet för 2026 till 103,3 miljoner kronor, vilket gör Sverige till en av de största bilaterala humanitära givarna i Venezuela just nu. Sverige bidrar även med omfattande kärnstöd till flera av de största humanitära aktörerna som är verksamma i Venezuela, inklusive FN och Röda korsrörelsen, vilket möjliggör för organisationerna att snabbt kunna agera och möta de mest akuta behoven.
+
+– Situationen i Venezuela är otroligt allvarlig. Människor som redan lever i stor utsatthet har drabbats hårt av jordbävningarnas förödelse. Antalet döda och skadade ökar dagligen. Tusentals människor står utan hem och saknar tillgång till mat och rent vatten. Vi ser också med särskilt stor oro på barnens situation, där många har separerats från sina familjer, står helt utan skydd och är i stort behov av stöd, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
+
+– Många människor i Venezuela har drabbats av ett stort lidande till följd av jordbävningarna. Det är därför mycket angeläget att Sverige snabbt kan bidra med humanitärt stöd för att hjälpa till med det mest grundläggande. Inte minst behöver skyddet runt barnen som drabbats stärkas, säger socialminister Jakob Forssmed.
+
+– Venezuela har drabbats av förödande jordbävningar och många människor befinner sig i stor nöd. Som en av de största biståndsgivarna ger Sverige humanitärt stöd till de mest utsatta. Det venezuelanska folket, som redan lider under regimen, drabbas nu även av naturkatastrofer – en dubbel tragedi där de förtjänar vårt stöd, säger Fredrik Malm, utrikespolitisk talesperson för Liberalerna.
+
+Det svenska humanitära stödet riktas till de allra mest utsatta och syftar till att människor ska kunna tillgodose sina mest grundläggande behov. Det omfattar bland annat utdelning av matpaket, tillgång till rent vatten, tillfälliga nödbostäder och skyddsinsatser, samt insatser för att stärka barns trygghet och återförening av familjer som separerats.
+
+Sverige har sedan tidigare i år bidragit med 78,3 miljoner kronor i riktat humanitärt stöd till Venezuela genom Sida. Med det stöd som nu presenteras uppgår det totala svenska stödet för 2026 till 103,3 miljoner kronor, vilket gör Sverige till en av de största bilaterala humanitära givarna i Venezuela just nu. Sverige bidrar även med omfattande kärnstöd till flera av de största humanitära aktörerna som är verksamma i Venezuela, inklusive FN och Röda korsrörelsen, vilket möjliggör för organisationerna att snabbt kunna agera och möta de mest akuta behoven.
