@@ -1,5 +1,38 @@
 [
     {
+        "title": "Förenade arabemiraten – borttagen avrådan",
+        "url": "/ud-avrader/forenade-arabemiraten---avradan/",
+        "published": "2026-07-03",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Beslut om borttagen avrådan togs den 3 juli 2026.\n\nUtrikesdepartementet avråder inte längre från icke nödvändiga resor till Förenade arabemiraten."
+    },
+    {
+        "title": "Saudiarabien – lättad avrådan",
+        "url": "/ud-avrader/saudiarabien--avradan/",
+        "published": "2026-07-03",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Utrikesdepartementet avråder inte längre från icke nödvändiga resor till Saudiarabien.\n\nUtrikesdepartementet avråder fortsatt från alla resor till Saudiarabiens gränsområde mot Jemen, upp till ett avstånd om 50 kilometer från den jemenitiska gränsen.\n\nBeslutet togs den 3 juli 2026."
+    },
+    {
+        "title": "Qatar – borttagen avrådan",
+        "url": "/ud-avrader/qatar---avradan/",
+        "published": "2026-07-03",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Beslut om borttagen avrådan togs den 3 juli 2026.\n\nUtrikesdepartementet avråder inte längre från icke nödvändiga resor till Qatar."
+    },
+    {
         "title": "Panama - avrådan",
         "url": "/ud-avrader/panama---avradan/",
         "published": "2026-06-25",
@@ -187,24 +220,6 @@
         ]
     },
     {
-        "title": "Saudiarabien – avrådan",
-        "url": "/ud-avrader/saudiarabien--avradan/",
-        "published": "2026-03-03",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av ett försämrat säkerhetsläge avråder Utrikesdepartementet från icke nödvändiga resor till Saudiarabien.\n\nBeslut om avrådan togs 3 mars 2026. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1165"
-        ]
-    },
-    {
         "title": "Jordanien - avrådan",
         "url": "/ud-avrader/jordanien---avradan/",
         "published": "2026-03-03",
@@ -292,42 +307,6 @@
         "categories": [
             "2204",
             "1105"
-        ]
-    },
-    {
-        "title": "Qatar - avrådan",
-        "url": "/ud-avrader/qatar---avradan/",
-        "published": "2026-02-28",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av ett försämrat säkerhetsläge avråder Utrikesdepartementet från icke nödvändiga resor till Qatar.\n \nAvrådan omfattar inte transit på flygplatsen Hamad International Airport. \n \nBeslut om avrådan togs 28 februari 2026. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1154"
-        ]
-    },
-    {
-        "title": "Förenade arabemiraten - avrådan",
-        "url": "/ud-avrader/forenade-arabemiraten---avradan/",
-        "published": "2026-02-28",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av ett försämrat säkerhetsläge avråder Utrikesdepartementet från icke nödvändiga resor till Förenade arabemiraten.\n \nAvrådan omfattar inte transit på flygplatserna Dubai International Airport, Zayed International Airport, Al Maktoum International Airport samt Sharjah International Airport.\n \nBeslut om avrådan togs 28 februari 2026. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1064"
         ]
     },
     {
