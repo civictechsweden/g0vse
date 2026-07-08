@@ -1,5 +1,16 @@
 [
     {
+        "title": "Jordanien – lättad avrådan",
+        "url": "/ud-avrader/jordanien---avradan/",
+        "published": "2026-07-07",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Utrikesdepartementet avråder inte längre från icke nödvändiga resor till hela Jordanien. \n\nUtrikesdepartementet avråder fortsatt från icke nödvändiga resor till Jordaniens gränsområde mot Syrien och Irak, upp till ett avstånd om 3 kilometer från gränsen. Avrådan gäller inte staden Um Qais och huvudvägarna till och från Um Qais.\n\nBeslut om avrådan togs den 7 juli 2026 och gäller tills vidare."
+    },
+    {
         "title": "Förenade arabemiraten – borttagen avrådan",
         "url": "/ud-avrader/forenade-arabemiraten---avradan/",
         "published": "2026-07-03",
@@ -217,24 +228,6 @@
         "categories": [
             "2204",
             "1080"
-        ]
-    },
-    {
-        "title": "Jordanien - avrådan",
-        "url": "/ud-avrader/jordanien---avradan/",
-        "published": "2026-03-03",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av ett försämrat säkerhetsläge avråder Utrikesdepartementet från icke nödvändiga resor till Jordanien.\n\nBeslut om avrådan togs 3 mars 2026. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1089"
         ]
     },
     {
