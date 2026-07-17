@@ -1,5 +1,16 @@
 [
     {
+        "title": "Bolivia - avrådan",
+        "url": "/ud-avrader/bolivia---avradan/",
+        "published": "2026-07-16",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Utrikesdepartementet avråder från alla resor till provinsen Chapare. \n\nBeslut om avrådan togs den 16 juli 2026 och gäller tills vidare."
+    },
+    {
         "title": "Etiopien – avrådan",
         "url": "/ud-avrader/etiopien---avradan/",
         "published": "2026-07-13",
@@ -108,29 +119,6 @@
         "categories": [
             "2204",
             "1052"
-        ]
-    },
-    {
-        "title": "Bolivia - avrådan",
-        "url": "/ud-avrader/bolivia---avradan/",
-        "published": "2026-06-01",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Utrikesdepartementet avråder från icke nödvändiga resor till La Paz-regionen i Bolivia. \n\nBeslut om avrådan togs den 1 juni 2026 och gäller tills vidare.",
-        "id": null,
-        "shortcuts": [
-            {
-                "name": "Reseinformation för Bolivia - på Sweden Abroad- extern webbplats,",
-                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/bolivia/reseinformation/ambassadens-reseinformation/"
-            }
-        ],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1034"
         ]
     },
     {

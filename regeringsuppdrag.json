@@ -1,5 +1,103 @@
 [
     {
+        "title": "Uppdrag att utreda totalförsvarets behov av posttjänster vid höjd beredskap",
+        "url": "/regeringsuppdrag/2026/07/uppdrag-att-utreda-totalforsvarets-behov-av-posttjanster-vid-hojd-beredskap/",
+        "published": "2026-07-16",
+        "updated": null,
+        "types": [
+            "1342"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "Regeringen ger Post- och telestyrelsen (PTS) tillsammans med övriga sektorsansvariga myndigheter, civilområdesansvariga länsstyrelser, Försvarsmakten och Totalförsvarets plikt- och prövningsverk i uppdrag att utreda hur totalförsvarets behov av posttjänster (brev och paket) ser ut vid höjd beredskap och ytterst krig."
+    },
+    {
+        "title": "Uppdrag till Försäkringskassan att vidareutveckla dialogen med arbetsgivare i sjukpenningärenden som rör psykisk ohälsa",
+        "url": "/regeringsuppdrag/2026/07/uppdrag-till-forsakringskassan-att-vidareutveckla-dialogen-med-arbetsgivare-i-sjukpenningarenden-som-ror-psykisk-ohalsa/",
+        "published": "2026-07-16",
+        "updated": null,
+        "types": [
+            "1342"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Psykisk ohälsa är i dag den vanligaste anledningen till sjukskrivning i Sverige. För att minska sjukskrivningarna, och stötta människor tillbaka till arbete, ger regeringen Försäkringskassan i uppdrag att stärka dialogen med arbetsgivare."
+    },
+    {
+        "title": "Uppdrag till Försäkringskassan om tillfällig föräldrapenning och allvarligt sjuka barn",
+        "url": "/regeringsuppdrag/2026/07/uppdrag-till-forsakringskassan-om-tillfallig-foraldrapenning-och-allvarligt-sjuka-barn/",
+        "published": "2026-07-16",
+        "updated": null,
+        "types": [
+            "1342"
+        ],
+        "senders": [
+            "1296",
+            "1292"
+        ],
+        "summary": "Regeringen ger Försäkringskassan i uppdrag att identifiera och genomföra åtgärder för att stärka och utveckla handläggningen av tillfällig föräldrapenning för vård av allvarligt sjukt barn (13 kap. 30 § socialförsäkringsbalken)."
+    },
+    {
+        "title": "Uppdrag till Post- och telestyrelsen att förbereda inrättandet av en nationell postsamverkansgrupp",
+        "url": "/regeringsuppdrag/2026/07/uppdrag-till-post--och-telestyrelsen-att-forbereda-inrattandet-av-en-nationell-postsamverkansgrupp/",
+        "published": "2026-07-16",
+        "updated": null,
+        "types": [
+            "1342"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "Regeringen ger Post- och telestyrelsen (PTS) i uppdrag att förbereda inrättandet av en nationell postsamverkansgrupp i syfte att stärka och utveckla arbetet inom området post (brev och paket) i beredskapssektorn elektroniska kommunikationer och post."
+    },
+    {
+        "title": "Uppdrag till Livsmedelsverket att undersöka missvisande märkning av livsmedel",
+        "url": "/regeringsuppdrag/2026/07/uppdrag-till-livsmedelsverket-att-undersoka-missvisande-markning-av-livsmedel/",
+        "published": "2026-07-16",
+        "updated": null,
+        "types": [
+            "1342"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "Regeringen ger Livsmedelsverket i uppdrag att undersöka omfattningen av upplevd missvisande märkning och annan livsmedelsinformation, avseende färdigförpackade livsmedel, utifrån ett konsumentperspektiv. I uppdraget ingår att redovisa vilka livsmedelsprodukter och vilken typ av livsmedelsinformation som upplevs vara särskilt missvisande."
+    },
+    {
+        "title": "Uppdrag till Trafikverket att identifiera och vidta kostnadsreducerande åtgärder i genomförandet av objektet Norrbotniabanan Skellefteå–Luleå ny järnväg",
+        "url": "/regeringsuppdrag/2026/07/uppdrag-till-trafikverket-att-identifiera-och-vidta-kostnadsreducerande-atgarder-i-genomforandet-av-objektet-norrbotniabanan-skelleftealulea-ny-jarnvag/",
+        "published": "2026-07-16",
+        "updated": null,
+        "types": [
+            "1342"
+        ],
+        "senders": [
+            "2425",
+            "1296"
+        ],
+        "summary": "Regeringen ger Trafikverket i uppdrag att under det fortsatta genomförandet av objektet Norrbotniabanan Skellefteå–Luleå ny järnväg identifiera och vidta kostnadsreducerande åtgärder i objektet."
+    },
+    {
+        "title": "Uppdrag till Jämställdhetsmyndigheten att genomföra kunskapshöjande insatser om hur pojkar och unga män påverkas av användning av sociala medier ur ett jämställdhetsperspektiv",
+        "url": "/regeringsuppdrag/2026/07/uppdrag-till-jamstalldhetsmyndigheten-att-genomfora-kunskapshojande-insatser-om-hur-pojkar-och-unga-man-paverkas-av-anvandning-av-sociala-medier-ur-ett-jamstalldhetsperspektiv/",
+        "published": "2026-07-16",
+        "updated": null,
+        "types": [
+            "1342"
+        ],
+        "senders": [
+            "1284",
+            "1296"
+        ],
+        "summary": "Regeringen ger Jämställdhetsmyndigheten i uppdrag att undersöka på vilket sätt och i vilken utsträckning pojkars och unga mäns livsval och livskvalitet påverkas av det innehåll som de exponeras för i sociala medier ur ett jämställdhetsperspektiv."
+    },
+    {
         "title": "Uppdrag till Folkhälsomyndigheten om risker med generativ AI för barns och ungas psykiska hälsa och välmående",
         "url": "/regeringsuppdrag/2026/07/uppdrag-till-folkhalsomyndigheten-om-risker-med-generativ-ai-for-barns-och-ungas-psykiska-halsa-och-valmaende/",
         "published": "2026-07-10",
