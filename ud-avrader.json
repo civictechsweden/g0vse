@@ -1,5 +1,27 @@
 [
     {
+        "title": "Israel - avrådan",
+        "url": "/ud-avrader/israel---avradan/",
+        "published": "2026-08-20",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Utrikesdepartementet avråder från alla resor till gränsområdena mot Gaza och Libanon inom ett avstånd av fem kilometer från respektive gräns. UD avråder även från alla resor till Golanhöjderna.\n\nVidare avråder UD från icke nödvändiga resor till övriga Israel.\n\nBeslut om avrådan togs den 20 augusti 2026 och gäller tills vidare."
+    },
+    {
+        "title": "Palestina - avrådan",
+        "url": "/ud-avrader/palestina---avradan/",
+        "published": "2026-08-20",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Utrikesdepartementet avråder från alla resor till Gaza samt till Västbanken, med undantag för städerna Ramallah, Jeriko och Betlehem, från vilka UD avråder från icke nödvändiga resor. \n\nBeslut om avrådan togs den 20 augusti 2026 och gäller tills vidare."
+    },
+    {
         "title": "Jordanien – avrådan",
         "url": "/ud-avrader/jordanien---avradan/",
         "published": "2026-07-24",
@@ -227,42 +249,6 @@
         "categories": [
             "2204",
             "1080"
-        ]
-    },
-    {
-        "title": "Israel - avrådan",
-        "url": "/ud-avrader/israel---avradan/",
-        "published": "2026-03-01",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av ett försämrat säkerhetsläge har Utrikesdepartementet den 1 mars 2026 beslutat att utöka avrådan för Israel. Följande avrådan gäller:\n\nUtrikesdepartementet avråder från alla resor till Israel. \n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1084"
-        ]
-    },
-    {
-        "title": "Palestina - avrådan",
-        "url": "/ud-avrader/palestina---avradan/",
-        "published": "2026-03-01",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av det försämrade säkerhetsläget har Utrikesdepartementet den 1 mars 2026 beslutat om att utöka avrådan för Palestina. Följande avrådan gäller: \n \nUtrikesdepartementet avråder från alla resor till Palestina. \n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1147"
         ]
     },
     {
