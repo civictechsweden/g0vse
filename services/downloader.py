@@ -1,5 +1,5 @@
-import urllib
 import time
+import urllib.parse
 
 from services.browser import Browser
 from services.web_parser import get_document_list

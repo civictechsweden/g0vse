@@ -3,6 +3,8 @@ import pytest
 from services.downloader import Downloader
 from services.web_parser import extract_page
 
+pytestmark = pytest.mark.live
+
 
 # These are old, immutable publications whose metadata and files should not
 # disappear. Keep this list short: it runs before every scheduled data fetch.

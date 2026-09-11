@@ -1,13 +1,14 @@
 import errno
 import gc
 import os
+
 from tqdm import tqdm
 
 from services.downloader import Downloader
 from services.reader import read_json
 from services.timer import Timer
-from services.writer import Writer
 from services.web_parser import extract_page
+from services.writer import Writer
 
 OVERWRITE = False
 ITEMS_PATH = "./data/api/items.json"
@@ -148,7 +149,9 @@ def process_all_items(items, downloader, codes):
     try:
         with tqdm(items, desc="Processing items", unit="item") as pbar:
             for i, item in enumerate(pbar):
-                if process_item(item, downloader, codes, existing_mds=existing_mds, pbar=pbar):
+                if process_item(
+                    item, downloader, codes, existing_mds=existing_mds, pbar=pbar
+                ):
                     processed_count += 1
                     if processed_count % 1000 == 0:
                         Writer.write_json(items, ITEMS_PATH)
@@ -194,7 +197,9 @@ def export_types(items):
             if current_prefix in types_set:
                 type_buckets[current_prefix].append(item)
 
-    for t, bucket_items in tqdm(type_buckets.items(), desc="Exporting types", unit="type"):
+    for t, bucket_items in tqdm(
+        type_buckets.items(), desc="Exporting types", unit="type"
+    ):
         Writer.write_json(bucket_items, f"./data/{t}.json")
 
 

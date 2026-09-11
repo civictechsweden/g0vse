@@ -1,11 +1,11 @@
 import re
 
+from html_to_markdown import ConversionOptions, convert
+from selectolax.parser import HTMLParser
+
 # from .new_chain_parser import extract_new_chains
 # from .old_chain_parser import extract_old_chains
 from .redirecter import get_final_url
-
-from selectolax.parser import HTMLParser
-from html_to_markdown import convert, ConversionOptions
 
 NEWLINES_RE = re.compile(r"\n{3,}")
 CONVERSION_OPTIONS = ConversionOptions(heading_style="atx", bullets="*")
@@ -67,6 +67,8 @@ def get_document_list(response):
                 continue
 
             url = a_tag.attributes.get("href")
+            if not url:
+                continue
             url = get_final_url(url) if url.endswith(".aspx") else url
             title = a_tag.text(strip=True)
 
@@ -149,7 +151,7 @@ def extract_text(tree):
     markdown = (
         conversion_result
         if isinstance(conversion_result, str)
-        else conversion_result.content
+        else conversion_result.content or ""
     )
     markdown = NEWLINES_RE.sub("\n\n", markdown.strip()).replace("\\.", ".")
 
