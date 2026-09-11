@@ -1,0 +1,28 @@
+name: Python quality
+
+on:
+  push:
+    branches: ["master"]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+          version: "latest"
+      - run: uv sync --frozen
+      - name: Lint with Ruff
+        run: uv run ruff check .
+      - name: Check formatting with Ruff
+        run: uv run ruff format --check .
+      - name: Type-check with ty
+        run: uv run ty check --output-format github
+      - name: Test with pytest
+        run: uv run python -m pytest -m "not live" -q

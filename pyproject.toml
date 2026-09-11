@@ -20,4 +20,17 @@ exclude = ["frontend*", "data*"]
 [dependency-groups]
 dev = [
     "pytest>=9.0.2",
+    "ruff>=0.16.7",
+    "ty>=0.0.80",
+]
+
+[tool.ruff]
+target-version = "py314"
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
+
+[tool.pytest.ini_options]
+markers = [
+    "live: requires a browser and access to external websites",
 ]

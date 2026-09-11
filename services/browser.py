@@ -1,9 +1,12 @@
-import json
-import time
 import gc
+import json
 import platform
+import time
+from typing import cast
+
 from camoufox.sync_api import Camoufox
-from playwright._impl._errors import TimeoutError, TargetClosedError
+from playwright._impl._errors import TargetClosedError, TimeoutError
+from playwright.sync_api import Browser as PlaywrightBrowser
 from playwright.sync_api import Page
 
 
@@ -17,11 +20,14 @@ class Browser:
 
     def __init__(self):
         self.cf = None
-        self.browser = None
+        self.browser: PlaywrightBrowser | None = None
         self.request_count = 0
         self.restart()
 
     def _setup_context(self):
+        if self.browser is None:
+            raise RuntimeError("Cannot create a context without a browser")
+
         self.context = self.browser.new_context()
         self.page: Page = self.context.new_page()
         self.context.set_default_navigation_timeout(30_000)
@@ -53,7 +59,9 @@ class Browser:
                 os=self.CAMOUFOX_OS.get(platform.system()),
             )
             try:
-                self.browser = self.cf.start()
+                # Camoufox.start() is typed as its Playwright base class even
+                # though it returns the launched browser at runtime.
+                self.browser = cast(PlaywrightBrowser, self.cf.start())
                 break
             except ValueError as e:
                 try:
