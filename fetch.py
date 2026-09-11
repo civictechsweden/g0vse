@@ -1,10 +1,17 @@
 import errno
 import gc
 import os
+from enum import Enum
+from pathlib import Path
 
 from tqdm import tqdm
 
 from services.downloader import Downloader
+from services.item_refresh import (
+    RefreshPlan,
+    plan_incremental_refresh,
+    promote_changed_items,
+)
 from services.reader import read_json
 from services.timer import Timer
 from services.web_parser import extract_page
@@ -16,6 +23,23 @@ CODES_PATH = "./data/api/codes.json"
 LATEST_UPDATED_PATH = "./data/api/latest_updated.json"
 
 
+class ProcessingOutcome(Enum):
+    SKIPPED = "skipped"
+    FAILED = "failed"
+    UNCHANGED = "unchanged"
+    CHANGED = "changed"
+
+
+def should_refresh_item(item, timer):
+    """Select recent pages plus remiss pages that need defensive refreshing."""
+    last_updated = Downloader.last_updated(item)
+    return last_updated > timer.day_before() or (
+        "/remisser/" in item["url"]
+        and not item["updated"]
+        and last_updated > timer.six_months_before()
+    )
+
+
 def prepare_items(downloader, timer):
     amount_online = downloader.get_amount()
     print(f"Found {amount_online} documents on regeringen.se")
@@ -25,7 +49,6 @@ def prepare_items(downloader, timer):
     if just_fetch_new:
         codes = read_json(CODES_PATH)
         items = read_json(ITEMS_PATH)
-        items.reverse()
 
         stats = read_json(LATEST_UPDATED_PATH)
         timer.set_latest_update(stats["latest_updated"])
@@ -45,32 +68,30 @@ def prepare_items(downloader, timer):
     new_items, new_codes = downloader.get_latest_items(to_fetch)
 
     if just_fetch_new:
-        new_items = [
-            i
-            for i in new_items
-            if Downloader.last_updated(i) > timer.day_before()
-            or (
-                "/remisser/" in i["url"]
-                and not i["updated"]
-                and Downloader.last_updated(i) > timer.six_months_before()
-            )
+        refresh_candidates = [
+            item for item in new_items if should_refresh_item(item, timer)
         ]
-        new_items.reverse()
-        new_urls = {item["url"] for item in new_items}
 
-        print(f"Updating the content of {len(new_items)} pages...")
+        print(f"Updating the content of {len(refresh_candidates)} pages...")
 
-        items = [item for item in items if item["url"] not in new_urls]
-        items.extend(new_items)
-        items.reverse()
+        items, refresh_plan = plan_incremental_refresh(items, refresh_candidates)
         codes.update(new_codes)
     else:
         items, codes = new_items, new_codes
+        refresh_plan = RefreshPlan()
 
-    return items, codes
+    return items, codes, refresh_plan
 
 
-def process_item(item, downloader, codes, existing_mds=None, pbar=None):
+def process_item(
+    item,
+    downloader,
+    codes,
+    existing_mds=None,
+    pbar=None,
+    force_refresh=False,
+    previous_item=None,
+):
     url = item["url"]
     md_rel_path = url.strip("/") + ".md"
 
@@ -81,11 +102,13 @@ def process_item(item, downloader, codes, existing_mds=None, pbar=None):
         else os.path.exists(f"data/{md_rel_path}")
     )
 
-    if not OVERWRITE and is_existing and item.get("id"):
-        return False
+    if "201314184" in url:
+        return ProcessingOutcome.SKIPPED
 
-    if "attachments" in item or "201314184" in url:
-        return False
+    if not force_refresh and (
+        (not OVERWRITE and is_existing and item.get("id")) or "attachments" in item
+    ):
+        return ProcessingOutcome.SKIPPED
 
     if pbar:
         pbar.set_description(f"Processing {url[:40]}...")
@@ -96,14 +119,16 @@ def process_item(item, downloader, codes, existing_mds=None, pbar=None):
 
     if not page:
         print(f"Error: {url}")
-        return False
+        return ProcessingOutcome.FAILED
 
     md_content, metadata = extract_page(page, url)
     del page  # Explicitly free memory for the large HTML string
 
     if not md_content:
         print(f"Error: {url}")
-        return False
+        return ProcessingOutcome.FAILED
+
+    comparison_item = previous_item if previous_item is not None else item.copy()
 
     # Update global codes mapping
     labels = metadata.pop("labels", {})
@@ -120,22 +145,37 @@ def process_item(item, downloader, codes, existing_mds=None, pbar=None):
     ]
     item.update(metadata)
 
-    # Write MD LAST. If this exists on next run, we know metadata is in memory.
-    try:
-        Writer.write_md(md_content, f"data/{md_rel_path}")
-    except OSError as e:
-        if e.errno != errno.ENAMETOOLONG:
-            raise
+    normalized_markdown = Writer.normalize_md(md_content)
+    item_changed = item != comparison_item
+    markdown_changed = True
+    if not item_changed and is_existing:
+        markdown_path = Path(f"data/{md_rel_path}")
+        markdown_changed = (
+            Writer.normalize_md(markdown_path.read_text(encoding="utf-8"))
+            != normalized_markdown
+        )
 
-        # A few regeringen.se slugs exceed the filesystem's per-component
-        # limit. Keep their parsed metadata and attachments in the JSON export
-        # even though the matching Markdown path cannot be represented.
-        print(f"Skipping Markdown with overlong filename: {url}")
+    if item_changed or markdown_changed:
+        # Write Markdown last. Its presence tells later runs that parsing succeeded.
+        try:
+            Writer.write_md(normalized_markdown, f"data/{md_rel_path}")
+        except OSError as e:
+            if e.errno != errno.ENAMETOOLONG:
+                raise
 
-    return True
+            # A few slugs exceed the filesystem's per-component limit. Keep
+            # their parsed metadata even though Markdown cannot be represented.
+            print(f"Skipping Markdown with overlong filename: {url}")
+
+    return (
+        ProcessingOutcome.CHANGED
+        if item_changed or markdown_changed
+        else ProcessingOutcome.UNCHANGED
+    )
 
 
-def process_all_items(items, downloader, codes):
+def process_all_items(items, downloader, codes, refresh_plan=None):
+    refresh_plan = refresh_plan or RefreshPlan()
     # Pre-scan existing Markdown files to avoid thousands of syscalls
     existing_mds = set()
     if os.path.exists("data/"):
@@ -146,12 +186,42 @@ def process_all_items(items, downloader, codes):
                     existing_mds.add(rel_path)
 
     processed_count = 0
+    changed_refresh_urls = set(refresh_plan.new_urls)
     try:
         with tqdm(items, desc="Processing items", unit="item") as pbar:
             for i, item in enumerate(pbar):
-                if process_item(
-                    item, downloader, codes, existing_mds=existing_mds, pbar=pbar
+                url = item["url"]
+                force_refresh = url in refresh_plan.force_refresh_urls
+                previous_item = refresh_plan.previous_items.get(url)
+                outcome = process_item(
+                    item,
+                    downloader,
+                    codes,
+                    existing_mds=existing_mds,
+                    pbar=pbar,
+                    force_refresh=force_refresh,
+                    previous_item=previous_item,
+                )
+
+                if (
+                    force_refresh
+                    and outcome
+                    in {
+                        ProcessingOutcome.FAILED,
+                        ProcessingOutcome.SKIPPED,
+                    }
+                    and previous_item is not None
                 ):
+                    # A failed refresh must never replace a complete stored object.
+                    items[i] = previous_item
+
+                if force_refresh and outcome is ProcessingOutcome.CHANGED:
+                    changed_refresh_urls.add(url)
+
+                if outcome in {
+                    ProcessingOutcome.CHANGED,
+                    ProcessingOutcome.UNCHANGED,
+                }:
                     processed_count += 1
                     if processed_count % 1000 == 0:
                         Writer.write_json(items, ITEMS_PATH)
@@ -167,6 +237,10 @@ def process_all_items(items, downloader, codes):
         # Do not finalize and publish partially parsed search results. A later
         # run can retry them, while the last complete data export stays live.
         raise
+
+    return promote_changed_items(
+        items, refresh_plan.candidate_order, changed_refresh_urls
+    )
 
 
 def finalize_data(items, codes, timer):
@@ -207,12 +281,12 @@ def main():
     downloader = Downloader()
     timer = Timer()
     try:
-        items, codes = prepare_items(downloader, timer)
+        items, codes, refresh_plan = prepare_items(downloader, timer)
 
         Writer.write_json(items, ITEMS_PATH)
         Writer.write_json(codes, CODES_PATH)
 
-        process_all_items(items, downloader, codes)
+        items = process_all_items(items, downloader, codes, refresh_plan)
 
         finalize_data(items, codes, timer)
         export_types(items)
