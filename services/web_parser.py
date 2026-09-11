@@ -142,7 +142,15 @@ def extract_text(tree):
     body_nodes = col_1.css(BODY_CONTENT_SELECTOR)
     body_html = "".join(node.html for node in body_nodes)
 
-    markdown = convert(body_html, CONVERSION_OPTIONS)
+    conversion_result = convert(body_html, CONVERSION_OPTIONS)
+    # html-to-markdown 3.x returns a ConversionResult, while 2.x returned the
+    # Markdown string directly. Support both so dependency updates do not stop
+    # page metadata (including attachments) from being saved.
+    markdown = (
+        conversion_result
+        if isinstance(conversion_result, str)
+        else conversion_result.content
+    )
     markdown = NEWLINES_RE.sub("\n\n", markdown.strip()).replace("\\.", ".")
 
     return f"# {title_text}\n\n{markdown}\n"

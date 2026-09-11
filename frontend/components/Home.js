@@ -3,6 +3,8 @@ import React, { useState } from "react";
 import types from '../types.json';
 
 export default function Home() {
+  const [latestData, setLatestData] = useState(null);
+
   React.useEffect(() => {
     const fetchLatestData = async () => {
       try {
@@ -24,7 +26,6 @@ export default function Home() {
   const [removedSuffix, setRemovedSuffix] = useState("");
   const [addedSuffix, setAddedSuffix] = useState("");
   const [errorMessage, setErrorMessage] = useState("");
-  const [latestData, setLatestData] = useState(null);
   const regexPrefix = /^(https?:\/\/)?(www\.)?(regeringen\.se|gov\.se)/i;
   const regexSuffix = /\/$/;
 

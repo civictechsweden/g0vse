@@ -1,5 +1,6 @@
-import os
+import errno
 import gc
+import os
 from tqdm import tqdm
 
 from services.downloader import Downloader
@@ -119,7 +120,17 @@ def process_item(item, downloader, codes, existing_mds=None, pbar=None):
     item.update(metadata)
 
     # Write MD LAST. If this exists on next run, we know metadata is in memory.
-    Writer.write_md(md_content, f"data/{md_rel_path}")
+    try:
+        Writer.write_md(md_content, f"data/{md_rel_path}")
+    except OSError as e:
+        if e.errno != errno.ENAMETOOLONG:
+            raise
+
+        # A few regeringen.se slugs exceed the filesystem's per-component
+        # limit. Keep their parsed metadata and attachments in the JSON export
+        # even though the matching Markdown path cannot be represented.
+        print(f"Skipping Markdown with overlong filename: {url}")
+
     return True
 
 
@@ -150,6 +161,9 @@ def process_all_items(items, downloader, codes):
         print("\nInterrupted by user. Saving progress...")
     except Exception as e:
         print(f"\nCrash detected: {e}")
+        # Do not finalize and publish partially parsed search results. A later
+        # run can retry them, while the last complete data export stays live.
+        raise
 
 
 def finalize_data(items, codes, timer):

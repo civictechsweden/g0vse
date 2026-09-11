@@ -1,12 +1,20 @@
 import json
 import time
 import gc
+import platform
 from camoufox.sync_api import Camoufox
 from playwright._impl._errors import TimeoutError, TargetClosedError
 from playwright.sync_api import Page
 
 
 class Browser:
+    START_RETRIES = 5
+    CAMOUFOX_OS = {
+        "Darwin": "macos",
+        "Linux": "linux",
+        "Windows": "windows",
+    }
+
     def __init__(self):
         self.cf = None
         self.browser = None
@@ -37,8 +45,30 @@ class Browser:
         except Exception:
             pass
 
-        self.cf = Camoufox(geoip=True, headless=True)
-        self.browser = self.cf.start()
+        for attempt in range(1, self.START_RETRIES + 1):
+            self.cf = Camoufox(
+                geoip=True,
+                headless=True,
+                fingerprint_preset=True,
+                os=self.CAMOUFOX_OS.get(platform.system()),
+            )
+            try:
+                self.browser = self.cf.start()
+                break
+            except ValueError as e:
+                try:
+                    self.cf.__exit__(None, None, None)
+                except Exception:
+                    pass
+
+                if "No WebGL data found" not in str(e) or attempt == self.START_RETRIES:
+                    raise
+
+                print(
+                    "Invalid Camoufox WebGL preset, "
+                    f"retrying browser start ({attempt}/{self.START_RETRIES})..."
+                )
+
         self._setup_context()
         self.request_count = 0
         gc.collect()
@@ -46,7 +76,7 @@ class Browser:
     def get(self, url, retries: int = 3):
         self.request_count += 1
         if self.request_count > 100:
-            print("Periodic browser restart to free memory...")
+            print("\nPeriodic browser restart to free memory...")
             self.restart()
 
         for i in range(retries):
@@ -68,7 +98,7 @@ class Browser:
 
                 return source
             except (TimeoutError, TargetClosedError) as e:
-                print(f"{type(e).__name__}, retrying ({i+1}/{retries}) in 3 s…")
+                print(f"{type(e).__name__}, retrying ({i + 1}/{retries}) in 3 s…")
                 time.sleep(3)
                 if isinstance(e, TargetClosedError):
                     self.restart()
@@ -77,14 +107,14 @@ class Browser:
             self.restart()
             self.page.goto(url, wait_until="domcontentloaded")
             return self.page.content()
-        except (TimeoutError, TargetClosedError):
+        except TimeoutError, TargetClosedError:
             print("Gave up after browser restart.")
             return None
 
     def get_json(self, url, retries: int = 3):
         self.request_count += 1
         if self.request_count > 100:
-            print("Periodic browser restart to free memory...")
+            print("\nPeriodic browser restart to free memory...")
             self.restart()
 
         for i in range(retries):
@@ -93,7 +123,9 @@ class Browser:
                 if response:
                     return response.json() or {}
             except (TimeoutError, TargetClosedError) as e:
-                print(f"{type(e).__name__} during JSON fetch, retrying ({i+1}/{retries}) in 3 s…")
+                print(
+                    f"{type(e).__name__} during JSON fetch, retrying ({i + 1}/{retries}) in 3 s…"
+                )
                 time.sleep(3)
                 if isinstance(e, TargetClosedError):
                     self.restart()
