@@ -21,9 +21,11 @@ class Writer(object):
             dict_writer.writerows(data)
 
     @staticmethod
+    def normalize_md(data):
+        return "\n".join(line.rstrip() for line in data.splitlines()).rstrip() + "\n"
+
+    @staticmethod
     def write_md(data, filename):
         Path(filename).parent.mkdir(parents=True, exist_ok=True)
-        data = "\n".join(line.rstrip() for line in data.splitlines()).rstrip() + "\n"
-
         with open(filename, "w", encoding="utf-8") as file:
-            file.write(data)
+            file.write(Writer.normalize_md(data))
