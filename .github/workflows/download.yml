@@ -32,6 +32,13 @@ jobs:
         run: uv run python -m pytest tests/test_web_parser.py tests/test_parser_smoke_live.py -q
       - name: Fetch the data
         run: uv run fetch.py
+      - name: Format changed Markdown
+        working-directory: data
+        run: |
+          {
+            git diff --name-only --diff-filter=ACMR -z -- '*.md'
+            git ls-files --others --exclude-standard -z -- '*.md'
+          } | xargs -0 -r -n 500 ../.venv/bin/rumdl fmt
       - name: Commit and Push
         run: |
           cd ./data
