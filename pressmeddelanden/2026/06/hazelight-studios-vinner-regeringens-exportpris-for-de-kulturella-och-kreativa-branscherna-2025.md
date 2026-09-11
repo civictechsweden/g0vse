@@ -14,9 +14,15 @@ Nominerade till priset var också Green Furniture Concept, Gustaf Westman och Jo
 
 – Ellen Hodakova Larssons kreationer har uppmärksammats både i Sverige och internationellt och har burits av världsstjärnor. Hennes förmåga att skapa mode av oväntade material har gjort Hodakova till ett internationellt namn med stor exportpotential. Hodakova stärker bilden av Sverige som modenation, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
 
+– Jag är tacksam över att den här typen av verksamhet som arbetar med hög kvalité och hållbara perspektiv, uppmärksammas och hyllas. Vi behöver tillsammans driva utvecklingen i den andan, säger Ellen Hodakova Larsson.
+
 ## Juryns motiveringar
 
+### Regeringens exportpris för de kulturella och kreativa branscherna 2025: Hazelight Studios
+
 ”Med stor passion, mod att pröva nytt och en stark kreativ vision intar Hazelight en unik plats i dataspelsutvecklarvärlden. Bolagets förmåga att förena konstnärlig höjd med global genomslagskraft har lagt grunden för en imponerande ekonomisk tillväxt.”
+
+### Årets uppstickare: Hodakova
 
 ”Kreativiteten har inga gränser för designstjärnan som kan skapa mode av i stort sett vad som helst. Genom att använda gamla material och föremål och kombinera med ett särpräglat formspråk ger Hodakova nya perspektiv på vad mode kan vara.”
 
@@ -34,8 +40,14 @@ Nominerade till priset var också Green Furniture Concept, Gustaf Westman och Jo
 
 – Ellen Hodakova Larssons kreationer har uppmärksammats både i Sverige och internationellt och har burits av världsstjärnor. Hennes förmåga att skapa mode av oväntade material har gjort Hodakova till ett internationellt namn med stor exportpotential. Hodakova stärker bilden av Sverige som modenation, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
 
+– Jag är tacksam över att den här typen av verksamhet som arbetar med hög kvalité och hållbara perspektiv, uppmärksammas och hyllas. Vi behöver tillsammans driva utvecklingen i den andan, säger Ellen Hodakova Larsson.
+
 ## Juryns motiveringar
 
+### Regeringens exportpris för de kulturella och kreativa branscherna 2025: Hazelight Studios
+
 ”Med stor passion, mod att pröva nytt och en stark kreativ vision intar Hazelight en unik plats i dataspelsutvecklarvärlden. Bolagets förmåga att förena konstnärlig höjd med global genomslagskraft har lagt grunden för en imponerande ekonomisk tillväxt.”
+
+### Årets uppstickare: Hodakova
 
 ”Kreativiteten har inga gränser för designstjärnan som kan skapa mode av i stort sett vad som helst. Genom att använda gamla material och föremål och kombinera med ett särpräglat formspråk ger Hodakova nya perspektiv på vad mode kan vara.”

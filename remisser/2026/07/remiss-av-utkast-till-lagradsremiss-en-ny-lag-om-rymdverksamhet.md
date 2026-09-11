@@ -1,0 +1,5 @@
+# Remiss av utkast till lagrådsremiss En ny lag om rymdverksamhet
+
+Här kan du ta del av svaren från dem som har ombetts att svara på remissen utkast till lagrådsremiss En ny lag om rymdverksamhet. Övriga yttranden finns tillgängliga i departementet.
+
+Sista dag att svara på remissen är den 6 november 2026.

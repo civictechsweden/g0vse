@@ -4,7 +4,7 @@ Undantaget är till för att producenterna ska kunna ta in kycklingar eller klä
 
 De privata försäkringar som producenterna i dag tecknar för kostnader vid salmonellautbrott gäller inte för utomnordiska kycklingar eller kläckägg. För att producenterna ska våga köpa in utländska kläckägg ger regeringen därför dem nu möjlighet till en tidsbegränsad statlig ersättning i de fall de skulle drabbas av ett salmonellautbrott.
 
-– Det vore fel att lämna branschen ensamma i den tuffa situation som uppstått. Vi går nu in och stöttar upp för att minska risken för brist på svenskuppfödd kyckling i butikerna, säger Peter Kullgren.
+– Det vore fel att lämna branschen ensamma i den tuffa situation som uppstått. Vi går nu in och stöttar upp för att minska risken för brist på svenskuppfödd kyckling i butikerna, säger landsbygdsminister Peter Kullgren.
 
 Temporärt blir det alltså möjligt, för den som producerar mer än 5 000 slaktkycklingar om året, att få ersättning från staten för kostnader och förluster vid utbrott av salmonella. Det gäller från och med den 26 mars 2026 till och med den 31 mars 2027.
 
@@ -16,7 +16,7 @@ Undantaget är till för att producenterna ska kunna ta in kycklingar eller klä
 
 De privata försäkringar som producenterna i dag tecknar för kostnader vid salmonellautbrott gäller inte för utomnordiska kycklingar eller kläckägg. För att producenterna ska våga köpa in utländska kläckägg ger regeringen därför dem nu möjlighet till en tidsbegränsad statlig ersättning i de fall de skulle drabbas av ett salmonellautbrott.
 
-– Det vore fel att lämna branschen ensamma i den tuffa situation som uppstått. Vi går nu in och stöttar upp för att minska risken för brist på svenskuppfödd kyckling i butikerna, säger Peter Kullgren.
+– Det vore fel att lämna branschen ensamma i den tuffa situation som uppstått. Vi går nu in och stöttar upp för att minska risken för brist på svenskuppfödd kyckling i butikerna, säger landsbygdsminister Peter Kullgren.
 
 Temporärt blir det alltså möjligt, för den som producerar mer än 5 000 slaktkycklingar om året, att få ersättning från staten för kostnader och förluster vid utbrott av salmonella. Det gäller från och med den 26 mars 2026 till och med den 31 mars 2027.
 

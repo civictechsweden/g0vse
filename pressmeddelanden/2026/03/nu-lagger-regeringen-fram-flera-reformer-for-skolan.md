@@ -15,21 +15,14 @@ I början av mandatperioden lät Utbildningsdepartementet göra en undersökning
 
 Läs mer om de förslag regeringen nu lämnar till riksdagen:
 
-[Nya läroplaner – för en stark kunskapsskola](/rattsliga-dokument/proposition/2026/03/prop.-202526194)
-
-[Ett likvärdigt betygssystem](/rattsliga-dokument/proposition/2026/03/prop.-202526197)
-
-[Tid för undervisningsuppdraget](/rattsliga-dokument/proposition/2026/03/prop.-202526196)
-
-[Förbättrat stöd i skolan](/rattsliga-dokument/proposition/2026/03/prop.-202526195)
-
-[Bättre förutsättningar för trygghet och studiero i skolan](/rattsliga-dokument/proposition/2026/03/prop.-202526193)
-
-[Överlämnande av uppgifter mellan skolor brottsförebyggande syfte](/rattsliga-dokument/proposition/2026/03/prop.-202526192)
-
-[Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet](/rattsliga-dokument/proposition/2026/03/prop.-202526191)
-
-[Utökade registerkontroller i skolväsendet](/rattsliga-dokument/proposition/2026/03/prop.-202526174)
+* [Nya läroplaner – för en stark kunskapsskola](/rattsliga-dokument/proposition/2026/03/prop.-202526194)
+* [Ett likvärdigt betygssystem](/rattsliga-dokument/proposition/2026/03/prop.-202526197)
+* [Tid för undervisningsuppdraget](/rattsliga-dokument/proposition/2026/03/prop.-202526196)
+* [Förbättrat stöd i skolan](/rattsliga-dokument/proposition/2026/03/prop.-202526195)
+* [Bättre förutsättningar för trygghet och studiero i skolan](/rattsliga-dokument/proposition/2026/03/prop.-202526193)
+* [Överlämnande av uppgifter mellan skolor brottsförebyggande syfte](/rattsliga-dokument/proposition/2026/03/prop.-202526192)
+* [Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet](/rattsliga-dokument/proposition/2026/03/prop.-202526191)
+* [Utökade registerkontroller i skolväsendet](/rattsliga-dokument/proposition/2026/03/prop.-202526174)
 
 
 
@@ -48,18 +41,11 @@ I början av mandatperioden lät Utbildningsdepartementet göra en undersökning
 
 Läs mer om de förslag regeringen nu lämnar till riksdagen:
 
-[Nya läroplaner – för en stark kunskapsskola](/rattsliga-dokument/proposition/2026/03/prop.-202526194)
-
-[Ett likvärdigt betygssystem](/rattsliga-dokument/proposition/2026/03/prop.-202526197)
-
-[Tid för undervisningsuppdraget](/rattsliga-dokument/proposition/2026/03/prop.-202526196)
-
-[Förbättrat stöd i skolan](/rattsliga-dokument/proposition/2026/03/prop.-202526195)
-
-[Bättre förutsättningar för trygghet och studiero i skolan](/rattsliga-dokument/proposition/2026/03/prop.-202526193)
-
-[Överlämnande av uppgifter mellan skolor brottsförebyggande syfte](/rattsliga-dokument/proposition/2026/03/prop.-202526192)
-
-[Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet](/rattsliga-dokument/proposition/2026/03/prop.-202526191)
-
-[Utökade registerkontroller i skolväsendet](/rattsliga-dokument/proposition/2026/03/prop.-202526174)
+* [Nya läroplaner – för en stark kunskapsskola](/rattsliga-dokument/proposition/2026/03/prop.-202526194)
+* [Ett likvärdigt betygssystem](/rattsliga-dokument/proposition/2026/03/prop.-202526197)
+* [Tid för undervisningsuppdraget](/rattsliga-dokument/proposition/2026/03/prop.-202526196)
+* [Förbättrat stöd i skolan](/rattsliga-dokument/proposition/2026/03/prop.-202526195)
+* [Bättre förutsättningar för trygghet och studiero i skolan](/rattsliga-dokument/proposition/2026/03/prop.-202526193)
+* [Överlämnande av uppgifter mellan skolor brottsförebyggande syfte](/rattsliga-dokument/proposition/2026/03/prop.-202526192)
+* [Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet](/rattsliga-dokument/proposition/2026/03/prop.-202526191)
+* [Utökade registerkontroller i skolväsendet](/rattsliga-dokument/proposition/2026/03/prop.-202526174)

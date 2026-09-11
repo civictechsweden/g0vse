@@ -17,11 +17,11 @@ Regeringen bedömer därför att ett nytt anslag bör föras upp på statens bud
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Satsningar på kulturfastigheter (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Ökade medel till Dramaten** | 19,695 | 39,39 | 39,39 |
-| **Ökade medel till tre museer** | 29,69 | 59,38 | 59,38 |
-| **Renovering av Operan** |  | 1 | 1 |
+| ------------------------------------------ | -------- | -------- | -------- |
+|                                            | **2026** | **2027** | **2028** |
+| **Ökade medel till Dramaten**              | 19,695   | 39,39    | 39,39    |
+| **Ökade medel till tre museer**            | 29,69    | 59,38    | 59,38    |
+| **Renovering av Operan**                   |          | 1        | 1        |
 
 
 
@@ -42,8 +42,8 @@ Regeringen bedömer därför att ett nytt anslag bör föras upp på statens bud
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Satsningar på kulturfastigheter (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Ökade medel till Dramaten** | 19,695 | 39,39 | 39,39 |
-| **Ökade medel till tre museer** | 29,69 | 59,38 | 59,38 |
-| **Renovering av Operan** |  | 1 | 1 |
+| ------------------------------------------ | -------- | -------- | -------- |
+|                                            | **2026** | **2027** | **2028** |
+| **Ökade medel till Dramaten**              | 19,695   | 39,39    | 39,39    |
+| **Ökade medel till tre museer**            | 29,69    | 59,38    | 59,38    |
+| **Renovering av Operan**                   |          | 1        | 1        |

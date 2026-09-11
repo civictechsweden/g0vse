@@ -1,6 +1,6 @@
 # En rättssäker och kunskapsbaserad socialtjänst
 
-Regeringen uppdrar åt en särskild utredare att se över hur rättssäkerheten kan stärkas i särskilt ingripande och komplexa ärenden inom socialtjänsten. Utredaren ska även analysera professionens roll i beslutsfattandet och analysera om besluts-ordningen inom socialtjänsten bör ändras. Meningen är att stärka rättssäkerheten inom socialtjänsten och skapa förutsättningar för en kunskapsbaserad socialtjänst.
+Regeringen uppdrar åt en särskild utredare att se över hur rättssäkerheten kan stärkas i särskilt ingripande och komplexa ärenden inom socialtjänsten. Utredaren ska även analysera professionens roll i beslutsfattandet och analysera om beslutsordningen inom socialtjänsten bör ändras. Meningen är att stärka rättssäkerheten inom socialtjänsten och skapa förutsättningar för en kunskapsbaserad socialtjänst.
 
 Utredaren ska bland annat:
 

@@ -11,9 +11,9 @@ Regeringen föreslår att 5 miljoner kronor tillförs Göteborgs universitet und
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Segerstedtinstitutet vid Göteborgs universitet ska förstärka arbetet mot antisemitism (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Segerstedtinstitutet: medel för att fortsätta arbete för att motverka antisemitism** | 5 | 5 | 5 |
+| ----------------------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                                             | **2026** | **2027** | **2028** |
+| **Segerstedtinstitutet: medel för att fortsätta arbete för att motverka antisemitism**                      | 5        | 5        | 5        |
 
 
 
@@ -28,6 +28,6 @@ Regeringen föreslår att 5 miljoner kronor tillförs Göteborgs universitet und
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Segerstedtinstitutet vid Göteborgs universitet ska förstärka arbetet mot antisemitism (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Segerstedtinstitutet: medel för att fortsätta arbete för att motverka antisemitism** | 5 | 5 | 5 |
+| ----------------------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                                             | **2026** | **2027** | **2028** |
+| **Segerstedtinstitutet: medel för att fortsätta arbete för att motverka antisemitism**                      | 5        | 5        | 5        |

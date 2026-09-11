@@ -38,7 +38,7 @@ Jämställdhetsmyndigheten har tillsammans med en rad andra myndigheter i uppdra
 
 Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF) har fått i uppdrag att ta fram kunskapsstöd till yrkesverksamma för att förebygga digital och fysisk sexuell exploatering och våld mot unga.
 
-[Artikel: Ökad kunskap om digitala dimensioner av mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck](/regeringens-politik/arbetet-mot-vald-i-nara-relationer-och-hedersrelaterat-vald-och-fortryck/okad-kunskap-om-digitala-dimensioner-av-vald/)
+[Artikel: Ökad kunskap om digitala dimensioner av mäns våld mot kvinnor, våld i nära relationer och hedersrelaterat våld och förtryck](/regeringens-politik/arbetet-mot-mans-vald-mot-kvinnor-och-hedersrelaterat-vald-och-fortryck/okad-kunskap-om-digitala-dimensioner-av-vald/)
 
 ### Mobilförbud under hela skoldagen
 

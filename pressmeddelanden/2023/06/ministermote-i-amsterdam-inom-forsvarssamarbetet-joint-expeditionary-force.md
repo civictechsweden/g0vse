@@ -4,7 +4,7 @@ Vid mötet hålls även scenariobaserade diskussioner där ministrarna ställs i
 
 Samarbetet inom JEF gör det möjligt att snabbt och flexibelt agera vid militära hot i Norra atlanten, nordområdena och Östersjöområdet. JEF-ländernas försvarsmakter övar tillsammans flera gånger om året.
 
-Johan Hjelmstrand  Pressekreterare hos försvarsminister Pål Jonson  Telefon (växel)[08-405 10 00](<tel:08-405 10 00>)  Mobil[076-126 69 22](tel:)
+Johan Hjelmstrand  Pressekreterare hos försvarsminister Pål Jonson   Telefon (växel) [08-405 10 00](<tel:08-405 10 00>)   Mobil [076-126 69 22](tel:)
 [e-post till Johan Hjelmstrand](<mailto:johan.hjelmstrand@regeringskansliet.se?body=%0D%0A_________________________________________________________________________________________________________________________________________________________________________________________%0D%0A%0a• I princip all post och e-post till regeringen och Regeringskansliet blir allmän handling. Det innebär bland annat att allmänheten och massmedia har rätt att begära att få ta del av innehållet. Hur Regeringskansliet behandlar personuppgifter och vilka rättigheter du har som registrerad kan du läsa om i Regeringskansliets integritetspolicy.>)
 
 
@@ -21,7 +21,7 @@ Vid mötet hålls även scenariobaserade diskussioner där ministrarna ställs i
 
 Samarbetet inom JEF gör det möjligt att snabbt och flexibelt agera vid militära hot i Norra atlanten, nordområdena och Östersjöområdet. JEF-ländernas försvarsmakter övar tillsammans flera gånger om året.
 
-Johan Hjelmstrand  Pressekreterare hos försvarsminister Pål Jonson  Telefon (växel)[08-405 10 00](<tel:08-405 10 00>)  Mobil[076-126 69 22](tel:)
+Johan Hjelmstrand  Pressekreterare hos försvarsminister Pål Jonson   Telefon (växel) [08-405 10 00](<tel:08-405 10 00>)   Mobil [076-126 69 22](tel:)
 [e-post till Johan Hjelmstrand](<mailto:johan.hjelmstrand@regeringskansliet.se?body=%0D%0A_________________________________________________________________________________________________________________________________________________________________________________________%0D%0A%0a• I princip all post och e-post till regeringen och Regeringskansliet blir allmän handling. Det innebär bland annat att allmänheten och massmedia har rätt att begära att få ta del av innehållet. Hur Regeringskansliet behandlar personuppgifter och vilka rättigheter du har som registrerad kan du läsa om i Regeringskansliets integritetspolicy.>)
 
 

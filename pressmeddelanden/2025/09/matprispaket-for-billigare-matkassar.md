@@ -10,12 +10,12 @@ Många familjer har det dock fortfarande tufft. I budgeten föreslår därför r
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Matprispaket för billigare matkassar (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Tillfälligt sänkt moms på livsmedel** | 15 940 | 21 250 | 0 |
-| **Inrättande av matpriskommission** | 5 | 5 | 0 |
-| **Uppdrag Tillväxtverket – regelförenkling dagligvaruhandeln** | 2 | 0 | 0 |
+| **Matprispaket för billigare matkassar (mnkr)**                | | | |
+| -------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                | **2026** | **2027** | **2028** |
+| **Tillfälligt sänkt moms på livsmedel**                        | 15 940   | 21 250   | 0        |
+| **Inrättande av matpriskommission**                            | 5        | 5        | 0        |
+| **Uppdrag Tillväxtverket – regelförenkling dagligvaruhandeln** | 2        | 0        | 0        |
 
 
 
@@ -31,9 +31,9 @@ Många familjer har det dock fortfarande tufft. I budgeten föreslår därför r
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Matprispaket för billigare matkassar (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Tillfälligt sänkt moms på livsmedel** | 15 940 | 21 250 | 0 |
-| **Inrättande av matpriskommission** | 5 | 5 | 0 |
-| **Uppdrag Tillväxtverket – regelförenkling dagligvaruhandeln** | 2 | 0 | 0 |
+| **Matprispaket för billigare matkassar (mnkr)**                | | | |
+| -------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                | **2026** | **2027** | **2028** |
+| **Tillfälligt sänkt moms på livsmedel**                        | 15 940   | 21 250   | 0        |
+| **Inrättande av matpriskommission**                            | 5        | 5        | 0        |
+| **Uppdrag Tillväxtverket – regelförenkling dagligvaruhandeln** | 2        | 0        | 0        |

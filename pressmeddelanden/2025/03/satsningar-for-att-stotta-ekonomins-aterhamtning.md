@@ -20,17 +20,17 @@ För att stötta ekonomin läggs även en halv miljard på vägunderhåll för a
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Åtgärd** | **Miljoner kronor 2025** |
-| --- | --- |
-| Förstärkt ROT-avdrag | 4 350 |
-| Satsningar yrkeshögskolan (inklusive studiemedel) | 406,8 |
-| Satsningar regionalt yrkesvux (inklusive studiemedel) | 302 |
-| Sommarjobb för unga/jobb för unga | Finansieras inom ram på anslag 1:3 |
-| Tillskott Arbetsförmedlingen | 60 |
-| Tidigareläggning höjning a-kassan | 56 |
-| Vägunderhåll | 500 |
-| Kapitaltillskott Norrlandsfonden | 160 (Totalt tillförs 300 mnkr till Norrlandsfonden varav 160 i VÄB och ytterligare 140 som avsattes för ändamålet i BP25). |
-| **Summa** | **5 834,8** |
+| **Åtgärd**                                            | **Miljoner kronor 2025**                                                                                                   |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Förstärkt ROT-avdrag                                  | 4 350                                                                                                                      |
+| Satsningar yrkeshögskolan (inklusive studiemedel)     | 406,8                                                                                                                      |
+| Satsningar regionalt yrkesvux (inklusive studiemedel) | 302                                                                                                                        |
+| Sommarjobb för unga/jobb för unga                     | Finansieras inom ram på anslag 1:3                                                                                         |
+| Tillskott Arbetsförmedlingen                          | 60                                                                                                                         |
+| Tidigareläggning höjning a-kassan                     | 56                                                                                                                         |
+| Vägunderhåll                                          | 500                                                                                                                        |
+| Kapitaltillskott Norrlandsfonden                      | 160 (Totalt tillförs 300 mnkr till Norrlandsfonden varav 160 i VÄB och ytterligare 140 som avsattes för ändamålet i BP25). |
+| **Summa**                                             | **5 834,8**                                                                                                                |
 
 Svensk ekonomi befinner sig fortfarande i en lågkonjunktur men återhämtningen har påbörjats. Samtidigt är den ekonomiska återhämtningen utdragen, bland annat till följd av den stora osäkerhet som världsekonomin befinner sig i.
 
@@ -52,14 +52,14 @@ För att stötta ekonomin läggs även en halv miljard på vägunderhåll för a
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Åtgärd** | **Miljoner kronor 2025** |
-| --- | --- |
-| Förstärkt ROT-avdrag | 4 350 |
-| Satsningar yrkeshögskolan (inklusive studiemedel) | 406,8 |
-| Satsningar regionalt yrkesvux (inklusive studiemedel) | 302 |
-| Sommarjobb för unga/jobb för unga | Finansieras inom ram på anslag 1:3 |
-| Tillskott Arbetsförmedlingen | 60 |
-| Tidigareläggning höjning a-kassan | 56 |
-| Vägunderhåll | 500 |
-| Kapitaltillskott Norrlandsfonden | 160 (Totalt tillförs 300 mnkr till Norrlandsfonden varav 160 i VÄB och ytterligare 140 som avsattes för ändamålet i BP25). |
-| **Summa** | **5 834,8** |
+| **Åtgärd**                                            | **Miljoner kronor 2025**                                                                                                   |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Förstärkt ROT-avdrag                                  | 4 350                                                                                                                      |
+| Satsningar yrkeshögskolan (inklusive studiemedel)     | 406,8                                                                                                                      |
+| Satsningar regionalt yrkesvux (inklusive studiemedel) | 302                                                                                                                        |
+| Sommarjobb för unga/jobb för unga                     | Finansieras inom ram på anslag 1:3                                                                                         |
+| Tillskott Arbetsförmedlingen                          | 60                                                                                                                         |
+| Tidigareläggning höjning a-kassan                     | 56                                                                                                                         |
+| Vägunderhåll                                          | 500                                                                                                                        |
+| Kapitaltillskott Norrlandsfonden                      | 160 (Totalt tillförs 300 mnkr till Norrlandsfonden varav 160 i VÄB och ytterligare 140 som avsattes för ändamålet i BP25). |
+| **Summa**                                             | **5 834,8**                                                                                                                |

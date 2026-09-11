@@ -15,13 +15,13 @@ Fördelningen av medel baseras på regionernas planering för AT som ingick i ö
 160 miljoner kronor fördelas i en prestationstrappa till de regioner som redovisar en ytterligare utökning av antalet AT under 2024 utöver regionernas planeringsunderlag för AT som ingick i överenskommelsen God och nära vård 2021:
 
 | Regionens utökning av antal AT 2024 | Tilldelning av medel |
-| --- | --- |
-| 2 tjänster | 3 miljoner kronor |
-| 3 tjänster | 4,5 miljoner kronor |
-| 5 tjänster | 7,5 miljoner kronor |
-| 7 tjänster | 10,5 miljoner kronor |
-| 10 tjänster | 20 miljoner kronor |
-| 15 tjänster | 30 miljoner kronor |
+| ----------------------------------- | -------------------- |
+| 2 tjänster                          | 3 miljoner kronor    |
+| 3 tjänster                          | 4,5 miljoner kronor  |
+| 5 tjänster                          | 7,5 miljoner kronor  |
+| 7 tjänster                          | 10,5 miljoner kronor |
+| 10 tjänster                         | 20 miljoner kronor   |
+| 15 tjänster                         | 30 miljoner kronor   |
 
 
 
@@ -40,10 +40,10 @@ Fördelningen av medel baseras på regionernas planering för AT som ingick i ö
 160 miljoner kronor fördelas i en prestationstrappa till de regioner som redovisar en ytterligare utökning av antalet AT under 2024 utöver regionernas planeringsunderlag för AT som ingick i överenskommelsen God och nära vård 2021:
 
 | Regionens utökning av antal AT 2024 | Tilldelning av medel |
-| --- | --- |
-| 2 tjänster | 3 miljoner kronor |
-| 3 tjänster | 4,5 miljoner kronor |
-| 5 tjänster | 7,5 miljoner kronor |
-| 7 tjänster | 10,5 miljoner kronor |
-| 10 tjänster | 20 miljoner kronor |
-| 15 tjänster | 30 miljoner kronor |
+| ----------------------------------- | -------------------- |
+| 2 tjänster                          | 3 miljoner kronor    |
+| 3 tjänster                          | 4,5 miljoner kronor  |
+| 5 tjänster                          | 7,5 miljoner kronor  |
+| 7 tjänster                          | 10,5 miljoner kronor |
+| 10 tjänster                         | 20 miljoner kronor   |
+| 15 tjänster                         | 30 miljoner kronor   |

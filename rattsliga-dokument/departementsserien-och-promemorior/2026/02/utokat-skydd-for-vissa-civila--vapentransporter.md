@@ -1,4 +1,4 @@
-# Utökat skydd för vissa civila  vapentransporter
+# Utökat skydd för vissa civila vapentransporter
 
 Det försämrade säkerhetspolitiska läget har medfört en ökad hotbild mot bland annat försvarsindustrins transporter. I promemorian föreslås därför att det genom ändringar i skyddslagen (2010:305) och skyddsförordningen (2010:523) införs bestämmelser som gör att även särskilt skyddsvärda civila rörliga objekt och vapentransporter kan beslutas vara skyddsobjekt.
 

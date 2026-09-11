@@ -10,7 +10,7 @@ Satsningen på International Vaccine Institute innebär att Sverige bidrar till 
 
 – Med det omvärldsläge vi har ser regeringen ett behov av ett större utrymme att donera utrustning och material till katastrof- och krigsdrabbade områden utomlands. Sverige ska kunna bistå med utrustning för människor i omedelbar nöd samtidigt som vi fortsätter att stärka vår egen beredskap, säger sjukvårdsminister Elisabet Lann.
 
-Modern sjukvårdsutrustning och vaccin till fler kommer bokstavligen att rädda liv och minska barnadödligheten. Sveriges satsningar gör skillnad där behoven är som störst, säger Lina Nordquist, sjukvårdspolitisk talesperson för Liberalerna.
+– Modern sjukvårdsutrustning och vaccin till fler kommer bokstavligen att rädda liv och minska barnadödligheten. Sveriges satsningar gör skillnad där behoven är som störst, säger Lina Nordquist, sjukvårdspolitisk talesperson för Liberalerna.
 
 Sverige får förfrågningar om stöd till katastrof- eller krigsdrabbade områden utomlands, såsom Ukraina och Egypten (med anledning av den humanitära situationen i Gaza), som förmedlas via EU:s civilskyddsmekanism eller via Nato Euro-Atlantic Disaster Response Coordination Centre (EADRCC). Både Socialstyrelsen och regionerna förfogar över vissa lager av utrustning som kan användas för vård och särskilda ändamål vid krig eller kris som en del av Sveriges beredskap. Regeringen stärker nu uppdraget genom att öka beloppet för 2026 med 10 miljoner kronor till totalt 20 miljoner kronor.
 
@@ -24,6 +24,6 @@ Satsningen på International Vaccine Institute innebär att Sverige bidrar till 
 
 – Med det omvärldsläge vi har ser regeringen ett behov av ett större utrymme att donera utrustning och material till katastrof- och krigsdrabbade områden utomlands. Sverige ska kunna bistå med utrustning för människor i omedelbar nöd samtidigt som vi fortsätter att stärka vår egen beredskap, säger sjukvårdsminister Elisabet Lann.
 
-Modern sjukvårdsutrustning och vaccin till fler kommer bokstavligen att rädda liv och minska barnadödligheten. Sveriges satsningar gör skillnad där behoven är som störst, säger Lina Nordquist, sjukvårdspolitisk talesperson för Liberalerna.
+– Modern sjukvårdsutrustning och vaccin till fler kommer bokstavligen att rädda liv och minska barnadödligheten. Sveriges satsningar gör skillnad där behoven är som störst, säger Lina Nordquist, sjukvårdspolitisk talesperson för Liberalerna.
 
 Sverige får förfrågningar om stöd till katastrof- eller krigsdrabbade områden utomlands, såsom Ukraina och Egypten (med anledning av den humanitära situationen i Gaza), som förmedlas via EU:s civilskyddsmekanism eller via Nato Euro-Atlantic Disaster Response Coordination Centre (EADRCC). Både Socialstyrelsen och regionerna förfogar över vissa lager av utrustning som kan användas för vård och särskilda ändamål vid krig eller kris som en del av Sveriges beredskap. Regeringen stärker nu uppdraget genom att öka beloppet för 2026 med 10 miljoner kronor till totalt 20 miljoner kronor.

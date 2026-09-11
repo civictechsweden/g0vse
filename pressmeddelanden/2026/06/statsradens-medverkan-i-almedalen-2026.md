@@ -149,7 +149,7 @@ Kontakta respektive pressekreterare för mer information och intervjuförfrågni
 ### Onsdag 24 juni
 
 * Invigning av Civilsamhällesarenan arrangerat av Fremia (kl. 08.15)
-* Intervju med AstraZenica (kl. 09.00)
+* Intervju med AstraZeneca (kl. 09.00)
 * Samtal arrangerat av Equmeniakyrkan (kl. 10.00)
 * Panelsamtal arrangerat av Forum för innanförskap (kl. 11.00)
 * Seminarium arrangerat av Bräcke Diakoni (kl. 13.30)
@@ -165,7 +165,7 @@ Kontakta respektive pressekreterare för mer information och intervjuförfrågni
 
 ### Fredag 26 juni
 
-* Samtal arrangerat av Svenska Barnborskeförbundet (kl. 09.15)
+* Samtal arrangerat av Svenska Barnmorskeförbundet (kl. 09.15)
 
 ## Äldre- och socialförsäkringsminister Anna Tenje
 
@@ -511,7 +511,7 @@ Kontakta respektive pressekreterare för mer information och intervjuförfrågni
 ### Onsdag 24 juni
 
 * Invigning av Civilsamhällesarenan arrangerat av Fremia (kl. 08.15)
-* Intervju med AstraZenica (kl. 09.00)
+* Intervju med AstraZeneca (kl. 09.00)
 * Samtal arrangerat av Equmeniakyrkan (kl. 10.00)
 * Panelsamtal arrangerat av Forum för innanförskap (kl. 11.00)
 * Seminarium arrangerat av Bräcke Diakoni (kl. 13.30)
@@ -527,7 +527,7 @@ Kontakta respektive pressekreterare för mer information och intervjuförfrågni
 
 ### Fredag 26 juni
 
-* Samtal arrangerat av Svenska Barnborskeförbundet (kl. 09.15)
+* Samtal arrangerat av Svenska Barnmorskeförbundet (kl. 09.15)
 
 ## Äldre- och socialförsäkringsminister Anna Tenje
 

@@ -20,9 +20,9 @@ Förvaltningsåtgärderna som behövs avser:
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Utökade förvaltningsåtgärder för varg (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **UO20 1:3 Åtgärder för värdefull natur** | 81,3 | 124,9 | 132,1 |
+| ----------------------------------------------------------- | -------- | -------- | -------- |
+|                                                             | **2026** | **2027** | **2028** |
+| **UO20 1:3 Åtgärder för värdefull natur**                   | 81,3     | 124,9    | 132,1    |
 
 
 
@@ -46,6 +46,6 @@ Förvaltningsåtgärderna som behövs avser:
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Utökade förvaltningsåtgärder för varg (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **UO20 1:3 Åtgärder för värdefull natur** | 81,3 | 124,9 | 132,1 |
+| ----------------------------------------------------------- | -------- | -------- | -------- |
+|                                                             | **2026** | **2027** | **2028** |
+| **UO20 1:3 Åtgärder för värdefull natur**                   | 81,3     | 124,9    | 132,1    |

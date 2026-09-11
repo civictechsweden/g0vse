@@ -1,4 +1,4 @@
-# Pål Jonson tar emot Greklands försvarsminister på Berga örlogsbas
+# Inställt: Pål Jonson tar emot Greklands försvarsminister på Berga örlogsbas
 
 **Plats**: Berga/Haninge söder om Stockholm. Med fordon kör väg 73 mot Nynäshamn/Årsta Havsbad.
 

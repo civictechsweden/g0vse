@@ -11,9 +11,9 @@ Förslaget föreslås träda i kraft den 1 juli 2026.
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Sänkt dansbandsmoms (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Offentligfinansiell effekt** | 220 | 440 | 440 |
+| ------------------------------ | -------- | -------- | -------- |
+|                                | **2026** | **2027** | **2028** |
+| **Offentligfinansiell effekt** | 220      | 440      | 440      |
 
 
 
@@ -28,6 +28,6 @@ Förslaget föreslås träda i kraft den 1 juli 2026.
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Sänkt dansbandsmoms (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Offentligfinansiell effekt** | 220 | 440 | 440 |
+| ------------------------------ | -------- | -------- | -------- |
+|                                | **2026** | **2027** | **2028** |
+| **Offentligfinansiell effekt** | 220      | 440      | 440      |

@@ -28,7 +28,7 @@ Sveriges resultat inom området mäns våld mot kvinnor är 37,4 poäng vilket �
 
 Arbetet mot mäns våld mot kvinnor och våld i nära relation är en prioriterad fråga för regeringen. Regeringen genomför en rad åtgärder för att bekämpa våld, förtryck och utnyttjande.
 
-[Arbetet mot våld i nära relationer och hedersrelaterat våld och förtryck](/regeringens-politik/arbetet-mot-vald-i-nara-relationer-och-hedersrelaterat-vald-och-fortryck/)
+[Arbetet mot våld i nära relationer och hedersrelaterat våld och förtryck](/regeringens-politik/arbetet-mot-mans-vald-mot-kvinnor-och-hedersrelaterat-vald-och-fortryck/)
 
 Det europeiska jämställdhetsinstitutet (EIGE) tar varje år fram en kartläggning av hur jämställda EU-medlemsstaterna är enligt en skala mellan 1 och 100 poäng, där 100 poäng innebär total jämställdhet. Sverige får bäst resultat i årets kartläggning med ett samlat indexvärde på 73,7 poäng. Genomsnittet för EU-länderna är 63,4 poäng vilket innebär en ökning för hela unionen med 10,5 poäng sedan 2010. Trots denna ökning bedömer EIGE att det kommer ta ytterligare minst 50 år för EU att bli helt jämställt.
 
@@ -58,4 +58,4 @@ Sveriges resultat inom området mäns våld mot kvinnor är 37,4 poäng vilket �
 
 Arbetet mot mäns våld mot kvinnor och våld i nära relation är en prioriterad fråga för regeringen. Regeringen genomför en rad åtgärder för att bekämpa våld, förtryck och utnyttjande.
 
-[Arbetet mot våld i nära relationer och hedersrelaterat våld och förtryck](/regeringens-politik/arbetet-mot-vald-i-nara-relationer-och-hedersrelaterat-vald-och-fortryck/)
+[Arbetet mot våld i nära relationer och hedersrelaterat våld och förtryck](/regeringens-politik/arbetet-mot-mans-vald-mot-kvinnor-och-hedersrelaterat-vald-och-fortryck/)

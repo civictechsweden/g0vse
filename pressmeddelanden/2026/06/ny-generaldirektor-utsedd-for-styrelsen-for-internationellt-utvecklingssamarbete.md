@@ -1,4 +1,4 @@
-# Ny generaldirektör utsedd för Styrelsen för internationellt utvecklingssamarbete
+# Ny generaldirektör utsedd för Sida
 
 – Hanna Hellquist har varit vikarierande generaldirektör för Sida under våren och jag är mycket glad över att hon har tackat ja till detta viktiga uppdrag. Det här innebär en viktig kontinuitet för verksamheten. Hanna Hellquist har en lång och gedigen erfarenhet av internationellt utvecklingssamarbete vilket kommer väl till nytta för att leda myndigheten, säger bistånds- och utrikeshandelsminister Benjamin Dousa.
 

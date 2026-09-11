@@ -12,29 +12,29 @@ I beslutet ingick också utbetalning av den så kallade bonuspotten. Enligt öve
 
 Fördelning av 1 874 253 165 kronor till regionerna
 
-| Region | Totalt (kronor) |
-| --- | --- |
-| Region Blekinge | 16 588 454 |
-| Region Dalarna | 56 137 919 |
-| Region Gotland | 9 416 241 |
-| Region Gävleborg | 64 341 140 |
-| Region Halland | 55 172 103 |
-| Region Jämtland Härjedalen | 24 648 954 |
-| Region Jönköping | 98 282 816 |
-| Region Kalmar | 34 984 723 |
-| Region Kronoberg | 23 958 720 |
-| Region Norrbotten | 58 167 040 |
-| Region Skåne | 231 170 585 |
-| Region Stockholm | 617 098 208 |
-| Region Sörmland | 31 119 758 |
-| Region Uppsala | 544 99 160 |
-| Region Värmland | 55 824 911 |
-| Region Västerbotten | 21 153 716 |
-| Region Västernorrland | 36 314 358 |
-| Region Västmanland | 45 995 021 |
-| Region Örebro | 45 188 093 |
-| Region Östergötland | 16 423 051 |
-| Västra Götalandsregionen | 277 768 194 |
+| Region                     | Totalt (kronor) |
+| -------------------------- | --------------- |
+| Region Blekinge            | 16 588 454      |
+| Region Dalarna             | 56 137 919      |
+| Region Gotland             | 9 416 241       |
+| Region Gävleborg           | 64 341 140      |
+| Region Halland             | 55 172 103      |
+| Region Jämtland Härjedalen | 24 648 954      |
+| Region Jönköping           | 98 282 816      |
+| Region Kalmar              | 34 984 723      |
+| Region Kronoberg           | 23 958 720      |
+| Region Norrbotten          | 58 167 040      |
+| Region Skåne               | 231 170 585     |
+| Region Stockholm           | 617 098 208     |
+| Region Sörmland            | 31 119 758      |
+| Region Uppsala             | 544 99 160      |
+| Region Värmland            | 55 824 911      |
+| Region Västerbotten        | 21 153 716      |
+| Region Västernorrland      | 36 314 358      |
+| Region Västmanland         | 45 995 021      |
+| Region Örebro              | 45 188 093      |
+| Region Östergötland        | 16 423 051      |
+| Västra Götalandsregionen   | 277 768 194     |
 
 
 
@@ -50,26 +50,26 @@ I beslutet ingick också utbetalning av den så kallade bonuspotten. Enligt öve
 
 Fördelning av 1 874 253 165 kronor till regionerna
 
-| Region | Totalt (kronor) |
-| --- | --- |
-| Region Blekinge | 16 588 454 |
-| Region Dalarna | 56 137 919 |
-| Region Gotland | 9 416 241 |
-| Region Gävleborg | 64 341 140 |
-| Region Halland | 55 172 103 |
-| Region Jämtland Härjedalen | 24 648 954 |
-| Region Jönköping | 98 282 816 |
-| Region Kalmar | 34 984 723 |
-| Region Kronoberg | 23 958 720 |
-| Region Norrbotten | 58 167 040 |
-| Region Skåne | 231 170 585 |
-| Region Stockholm | 617 098 208 |
-| Region Sörmland | 31 119 758 |
-| Region Uppsala | 544 99 160 |
-| Region Värmland | 55 824 911 |
-| Region Västerbotten | 21 153 716 |
-| Region Västernorrland | 36 314 358 |
-| Region Västmanland | 45 995 021 |
-| Region Örebro | 45 188 093 |
-| Region Östergötland | 16 423 051 |
-| Västra Götalandsregionen | 277 768 194 |
+| Region                     | Totalt (kronor) |
+| -------------------------- | --------------- |
+| Region Blekinge            | 16 588 454      |
+| Region Dalarna             | 56 137 919      |
+| Region Gotland             | 9 416 241       |
+| Region Gävleborg           | 64 341 140      |
+| Region Halland             | 55 172 103      |
+| Region Jämtland Härjedalen | 24 648 954      |
+| Region Jönköping           | 98 282 816      |
+| Region Kalmar              | 34 984 723      |
+| Region Kronoberg           | 23 958 720      |
+| Region Norrbotten          | 58 167 040      |
+| Region Skåne               | 231 170 585     |
+| Region Stockholm           | 617 098 208     |
+| Region Sörmland            | 31 119 758      |
+| Region Uppsala             | 544 99 160      |
+| Region Värmland            | 55 824 911      |
+| Region Västerbotten        | 21 153 716      |
+| Region Västernorrland      | 36 314 358      |
+| Region Västmanland         | 45 995 021      |
+| Region Örebro              | 45 188 093      |
+| Region Östergötland        | 16 423 051      |
+| Västra Götalandsregionen   | 277 768 194     |

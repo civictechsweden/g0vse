@@ -12,12 +12,12 @@ Mot bakgrund av utmaningarna föreslår regeringen även att kommuner och region
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Cybersatsningar i budgetpropositionen för 2026*** | | | |
-| --- | --- | --- | --- |
-| **(* i miljoner kronor)** | **2026** | **2027** | **2028** |
-| **Förstärkning av nationellt cybersäkerhetscenter (NCSC) vid Försvarets radioanstalt** | 50 | 100 | 150 |
-| **Satsning på kommuner för ökad cybersäkerhet och för genomförande NIS 2-direktivet** | 200 | 200 | 200 |
-| **Satsning på regioner för ökad cybersäkerhet och för genomförande NIS 2-direktivet** | 50 | 50 | 50 |
+| **Cybersatsningar i budgetpropositionen för 2026\***                                   | | | |
+| -------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+| **(\* i miljoner kronor)**                                                             | **2026** | **2027** | **2028** |
+| **Förstärkning av nationellt cybersäkerhetscenter (NCSC) vid Försvarets radioanstalt** | 50       | 100      | 150      |
+| **Satsning på kommuner för ökad cybersäkerhet och för genomförande NIS 2-direktivet**  | 200      | 200      | 200      |
+| **Satsning på regioner för ökad cybersäkerhet och för genomförande NIS 2-direktivet**  | 50       | 50       | 50       |
 
 
 
@@ -33,9 +33,9 @@ Mot bakgrund av utmaningarna föreslår regeringen även att kommuner och region
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Cybersatsningar i budgetpropositionen för 2026*** | | | |
-| --- | --- | --- | --- |
-| **(* i miljoner kronor)** | **2026** | **2027** | **2028** |
-| **Förstärkning av nationellt cybersäkerhetscenter (NCSC) vid Försvarets radioanstalt** | 50 | 100 | 150 |
-| **Satsning på kommuner för ökad cybersäkerhet och för genomförande NIS 2-direktivet** | 200 | 200 | 200 |
-| **Satsning på regioner för ökad cybersäkerhet och för genomförande NIS 2-direktivet** | 50 | 50 | 50 |
+| **Cybersatsningar i budgetpropositionen för 2026\***                                   | | | |
+| -------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+| **(\* i miljoner kronor)**                                                             | **2026** | **2027** | **2028** |
+| **Förstärkning av nationellt cybersäkerhetscenter (NCSC) vid Försvarets radioanstalt** | 50       | 100      | 150      |
+| **Satsning på kommuner för ökad cybersäkerhet och för genomförande NIS 2-direktivet**  | 200      | 200      | 200      |
+| **Satsning på regioner för ökad cybersäkerhet och för genomförande NIS 2-direktivet**  | 50       | 50       | 50       |

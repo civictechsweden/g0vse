@@ -28,13 +28,13 @@ EU-förordningarna ändrar inte de relevanta materiella krav som gäller för ti
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Regelförenkling och snabbare tillståndsprocesser för stärkt konkurrenskraft** | | | |
-| --- | --- | --- | --- |
-|  | 2026 | 2027 | 2028 |
-| Regelförenkling och snabbare tillståndsprocesser relaterat till EU-rättsakter, Tillväxtverket | 18,5 | 18,5 | 24,5 |
-| Regelförenkling och snabbare tillståndsprocesser relaterat till EU-rättsakter, Vinnova | 7 | 7 | 7 |
-| Regelförenkling och snabbare tillståndsprocesser relaterat till EU-rättsakter, SGU |  |  | 19 |
-| Regelförenkling och snabbare tillståndsprocesser relaterat till EU-rättsakter, Länsstyrelserna |  |  | 19 |
+| **Regelförenkling och snabbare tillståndsprocesser för stärkt konkurrenskraft**                | | | |
+| ---------------------------------------------------------------------------------------------- | ---- | ---- | ---- |
+|                                                                                                | 2026 | 2027 | 2028 |
+| Regelförenkling och snabbare tillståndsprocesser relaterat till EU-rättsakter, Tillväxtverket  | 18,5 | 18,5 | 24,5 |
+| Regelförenkling och snabbare tillståndsprocesser relaterat till EU-rättsakter, Vinnova         | 7    | 7    | 7    |
+| Regelförenkling och snabbare tillståndsprocesser relaterat till EU-rättsakter, SGU             |      |      | 19   |
+| Regelförenkling och snabbare tillståndsprocesser relaterat till EU-rättsakter, Länsstyrelserna |      |      | 19   |
 
 
 
@@ -68,10 +68,10 @@ EU-förordningarna ändrar inte de relevanta materiella krav som gäller för ti
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Regelförenkling och snabbare tillståndsprocesser för stärkt konkurrenskraft** | | | |
-| --- | --- | --- | --- |
-|  | 2026 | 2027 | 2028 |
-| Regelförenkling och snabbare tillståndsprocesser relaterat till EU-rättsakter, Tillväxtverket | 18,5 | 18,5 | 24,5 |
-| Regelförenkling och snabbare tillståndsprocesser relaterat till EU-rättsakter, Vinnova | 7 | 7 | 7 |
-| Regelförenkling och snabbare tillståndsprocesser relaterat till EU-rättsakter, SGU |  |  | 19 |
-| Regelförenkling och snabbare tillståndsprocesser relaterat till EU-rättsakter, Länsstyrelserna |  |  | 19 |
+| **Regelförenkling och snabbare tillståndsprocesser för stärkt konkurrenskraft**                | | | |
+| ---------------------------------------------------------------------------------------------- | ---- | ---- | ---- |
+|                                                                                                | 2026 | 2027 | 2028 |
+| Regelförenkling och snabbare tillståndsprocesser relaterat till EU-rättsakter, Tillväxtverket  | 18,5 | 18,5 | 24,5 |
+| Regelförenkling och snabbare tillståndsprocesser relaterat till EU-rättsakter, Vinnova         | 7    | 7    | 7    |
+| Regelförenkling och snabbare tillståndsprocesser relaterat till EU-rättsakter, SGU             |      |      | 19   |
+| Regelförenkling och snabbare tillståndsprocesser relaterat till EU-rättsakter, Länsstyrelserna |      |      | 19   |

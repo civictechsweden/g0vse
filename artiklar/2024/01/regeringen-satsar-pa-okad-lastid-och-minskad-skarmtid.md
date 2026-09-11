@@ -37,7 +37,7 @@ Det är viktigt att den officiella biblioteksstatistiken ger en samlad bild öve
 
 ## En mobilfri skola med färre distraktioner
 
-Att samla in mobiltelefoner under skoldagen kan främja elevers trygghet, lärande och kunskapsutveckling. Regeringen avser att göra skolan mobilfri i hela landet. Det innebär att det ska bli obligatoriskt att samla in elevers mobiltelefoner under hela skoldagen i grundskolan, anpassade grundskolan, specialskolan och sameskolan samt i fritidshemmet. De nya reglerna väntas börja gälla inför höstterminen 2026. För att genomföra förändringen föreslår regeringen att 95 miljoner kronor avsätts 2026 och beräknar att 100 miljoner kronor avsätts årligen från 2027.
+Att samla in mobiltelefoner under skoldagen kan främja elevers trygghet, lärande och kunskapsutveckling. Regeringen har därför gjort skolan mobilfri i hela landet från höstterminen 2026. Det innebär att det är obligatoriskt att samla in elevers mobiltelefoner under hela skoldagen i grundskolan, anpassade grundskolan, specialskolan och sameskolan samt i fritidshemmet. För att genomföra förändringen har regeringen avsatt 95 miljoner kronor för 2026 och beräknar att 100 miljoner kronor avsätts årligen från 2027.
 
 [Pressmeddelande: Skolministern tog emot förslag om mobilförbud under hela skoldagen](/pressmeddelanden/2025/03/skolministern-tog-emot-forslag-om-mobilforbud-under-hela-skoldagen/)
 
@@ -107,7 +107,7 @@ Läromedel av hög kvalitet är avgörande för elevernas lärande. Därför beh
 
 Lärarnas förmåga att välja och använda lärverktyg är avgörande för undervisningens kvalitet och för lärandet. Samlad vetenskaplig empiri och beprövad erfarenhet visar att grundläggande färdigheter som relationella förmågor, uppmärksamhet och koncentration samt förmåga att läsa, skriva och räkna bäst förvärvas genom analoga aktiviteter i analoga miljöer. Fokus i de yngre åldrarna bör ligga på fysiska böcker och att digitala lärverktyg först vid stigande ålder kan användas och ge goda effekter, under förutsättning att det görs selektivt, utifrån tydligt vetenskapligt stöd och dokumenterat pedagogiskt mervärde.
 
-Skolverket har därför fått i uppdrag att ta fram stödmaterial som kan tillämpas vid val och användning av lärverktyg i undervisningen. Senast den 7 november 2025 ska myndigheten börja lansera stödmaterial och redovisa en plan till Regeringskansliet över hur och när stödmaterial kommer att finnas tillgängligt för samtliga målgrupper.
+Skolverket har därför fått i uppdrag att ta fram stödmaterial som kan tillämpas vid val och användning av lärverktyg i undervisningen.
 
 [Pressmeddelande: Nytt uppdrag till Skolverket om lärverktyg ska ge mer lästid och mindre skärmtid](/pressmeddelanden/2023/11/nytt-uppdrag-till-skolverket-om-larverktyg-ska-ge-mer-lastid-och-mindre-skarmtid/)
 

@@ -10,7 +10,25 @@
         "senders": [
             "1295"
         ],
-        "summary": "(Ny version) Strategin för Sveriges globala utvecklingssamarbete för mänskliga fri- och rättigheter, demokrati och rättsstatens principer är en viktig del i genomförandet av regeringens nya reformagenda för biståndet och att bidra till fria och inkluderande demokratiska samhällen som bygger på respekt för de mänskliga fri- och rättigheterna."
+        "summary": "(Ny version) Strategin för Sveriges globala utvecklingssamarbete för mänskliga fri- och rättigheter, demokrati och rättsstatens principer är en viktig del i genomförandet av regeringens nya reformagenda för biståndet och att bidra till fria och inkluderande demokratiska samhällen som bygger på respekt för de mänskliga fri- och rättigheterna.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Ny biståndsstrategi ökar fokus på demokratiförsvarare och oberoende journalister",
+                "url": "/pressmeddelanden/2024/02/ny-bistandsstrategi-okar-fokus-pa-demokratiforsvarare-och-oberoende-journalister2/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Strategi för Sveriges globala utvecklingssamarbete för arbetet med de mänskliga fri- och rättigheterna, demokrati och rättsstatens principer 2024–2028 (pdf 153 kB)",
+                "url": "/contentassets/2f400424e8a647a380fa1aaa5e6bbd10/strategi-for-sveriges-globala-utvecklingssamarbete-for-arbetet-med-de-manskliga-fri--och-rattigheterna-demokrati-och-rattsstatens-principer-20242028.pdf"
+            }
+        ],
+        "categories": [
+            "1219",
+            "1215",
+            "1013"
+        ]
     },
     {
         "title": "Strategi för Sveriges regionala utvecklingssamarbete med Afrika 2022–2026",
@@ -24,7 +42,18 @@
             "1296",
             "1295"
         ],
-        "summary": "(Ny version) Målet för svenskt internationellt bistånd är att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Utvecklingssamarbetet utgör samtidigt ett viktigt verktyg för utrikespolitiken och kan bidra till att främja och värna svenska intressen och prioriteringar."
+        "summary": "(Ny version) Målet för svenskt internationellt bistånd är att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Utvecklingssamarbetet utgör samtidigt ett viktigt verktyg för utrikespolitiken och kan bidra till att främja och värna svenska intressen och prioriteringar.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Strategi för Sveriges regionala utvecklingssamarbete med Afrika 2022–2026 (pdf 168 kB)",
+                "url": "/contentassets/6cea9fda98ec492580baff07aee6b859/strategi-for-sveriges-regionala-utvecklingssamarbete-med-afrika-20222026.pdf"
+            }
+        ],
+        "categories": [
+            "1215"
+        ]
     },
     {
         "title": "Strategi för Sveriges utvecklingssamarbete med Kuba 2026-2031",
@@ -311,6 +340,46 @@
         ]
     },
     {
+        "title": "Strategi för Sveriges reformsamarbete med Östeuropa, västra Balkan och Turkiet 2026–2030",
+        "url": "/strategier-for-internationellt-bistand/2026/02/strategi-for-sveriges-reformsamarbete-med-osteuropa-vastra-balkan-och-turkiet-20262030/",
+        "published": "2026-02-18",
+        "updated": "2026-05-28",
+        "types": [
+            "1336"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Målet för svenskt internationellt bistånd är att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Utvecklingssamarbetet inom denna strategi ska stärka ländernas reformarbete och fördjupa deras EU-närmande. Strategin fokuserar tydligt på länder som visar reformambitioner och en vilja att närma sig EU. Genomförandet av strategin ska ske i nära samverkan mellan bistånd, handel och främjande och ta hänsyn till svenska intressen, med utgångspunkt i regeringens reformagenda för svenskt bistånd.",
+        "id": "Diarienummer: UD2026/02649",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Ny strategi för reformsamarbetet med Österuropa, västra Balkan och Turkiet",
+                "url": "/pressmeddelanden/2026/02/ny-strategi-for-reformsamarbetet-med-osteuropa-vastra-balkan-och-turkiet/"
+            },
+            {
+                "name": "Strategy for Sweden’s reform cooperation with Eastern Europe, the Western Balkans and Türkiye 2026–2030 (Government.se)- extern webbplats,",
+                "url": "https://www.government.se/international-development-cooperation-strategies/2026/03/strategy-for-swedens-reform-cooperation-with-eastern-europe-the-western-balkans-and-turkiye-20262030/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Strategi för Sveriges reformsamarbete med Östeuropa västra Balkan och Turkiet 2026-2030 (pdf 202 kB)",
+                "url": "/globalassets/regeringen/dokument/utrikesdepartementet/strategi-for-sveriges-reformsamarbete-med-osteuropa-vastra-balkan-och-turkiet-2026-2030.pdf"
+            }
+        ],
+        "categories": [
+            "1215",
+            "1013",
+            "1022",
+            "1206",
+            "1067",
+            "1129",
+            "1193",
+            "1198"
+        ]
+    },
+    {
         "title": "Strategi för Sveriges utvecklingssamarbete med Somalia 2026–2028",
         "url": "/strategier-for-internationellt-bistand/2026/04/strategi-for-sveriges-utvecklingssamarbete-med-somalia-20262028/",
         "published": "2026-04-13",
@@ -331,8 +400,8 @@
         ],
         "attachments": [
             {
-                "name": "Strategi för Sveriges utvecklingssamarbete med Somalia 2026–2028 (pdf 148 kB)",
-                "url": "/contentassets/c1ed2ca2cd9d42d993103ead6860ea7b/strategi-for-sveriges-utvecklingssamarbete-med-somalia-20262028.pdf"
+                "name": "Strategi för Sveriges utvecklingssamarbete med Somalia 2026-2028 (pdf 171 kB)",
+                "url": "/contentassets/c1ed2ca2cd9d42d993103ead6860ea7b/strategi-for-sveriges-utvecklingssamarbete-med-somalia-2026-2028.pdf"
             }
         ],
         "categories": [
@@ -340,43 +409,6 @@
             "1279",
             "1013",
             "1174"
-        ]
-    },
-    {
-        "title": "Strategi för Sveriges reformsamarbete med Östeuropa, västra Balkan och Turkiet 2026–2030",
-        "url": "/strategier-for-internationellt-bistand/2026/02/strategi-for-sveriges-reformsamarbete-med-osteuropa-vastra-balkan-och-turkiet-20262030/",
-        "published": "2026-02-18",
-        "updated": null,
-        "types": [
-            "1336"
-        ],
-        "senders": [
-            "2756",
-            "1295"
-        ],
-        "summary": "Målet för svenskt internationellt bistånd är att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Utvecklingssamarbetet inom denna strategi ska stärka ländernas reformarbete och fördjupa deras EU-närmande. Strategin fokuserar tydligt på länder som visar reformambitioner och en vilja att närma sig EU. Genomförandet av strategin ska ske i nära samverkan mellan bistånd, handel och främjande och ta hänsyn till svenska intressen, med utgångspunkt i regeringens reformagenda för svenskt bistånd.",
-        "id": "Diarienummer: UD2026/02649",
-        "shortcuts": [
-            {
-                "name": "Pressmeddelande: Ny strategi för reformsamarbetet med Österuropa, västra Balkan och Turkiet",
-                "url": "/pressmeddelanden/2026/02/ny-strategi-for-reformsamarbetet-med-osteuropa-vastra-balkan-och-turkiet/"
-            }
-        ],
-        "attachments": [
-            {
-                "name": "Strategi för reformsamarbete med Östeuropa västra Balkan och Turkiet (pdf 211 kB)",
-                "url": "/contentassets/c7a2a505c8a14e9fa770d823fd2b0d45/strategi-for-reformsamarbete-med-osteuropa-vastra-balkan-och-turkiet.pdf"
-            }
-        ],
-        "categories": [
-            "1215",
-            "1013",
-            "1022",
-            "1206",
-            "1067",
-            "1129",
-            "1193",
-            "1198"
         ]
     },
     {
@@ -404,8 +436,12 @@
                 "url": "/contentassets/6cf9559d63d84360a8539536c818a729/sveriges-regionala-strategi-for-syrienkrisen-2024-20272.pdf"
             },
             {
-                "name": "In English: Sweden's Regional Strategy for the Syria crisis 2024-2027 (pdf 166 kB)",
+                "name": "Sweden's Regional Strategy for the Syria crisis 2024-2027 (pdf 166 kB)",
                 "url": "/contentassets/6cf9559d63d84360a8539536c818a729/in-english-swedens-regional-strategy-for-the-syria-crisis-2024-2027.pdf"
+            },
+            {
+                "name": "2027 – استراتيجية السويد الإقليمية للأزمة في سوريا 2024 (pdf 194 kB)",
+                "url": "/contentassets/6cf9559d63d84360a8539536c818a729/2027--------2024.pdf"
             }
         ],
         "categories": [
@@ -688,6 +724,32 @@
         ]
     },
     {
+        "title": "Strategi för Sveriges regionala utvecklingssamarbete med Latinamerika 2021-2025",
+        "url": "/strategier-for-internationellt-bistand/2021/05/strategi-for-sveriges-regionala-utvecklingssamarbete-med-latinamerika-2021-2025/",
+        "published": "2021-05-17",
+        "updated": "2024-10-24",
+        "types": [
+            "1336"
+        ],
+        "senders": [
+            "1296",
+            "1295"
+        ],
+        "summary": "(Ny version) Strategin ska gälla under perioden 2021-2025 och omfattar för Sida sammantaget 1 miljard kronor.",
+        "id": "Diarienummer: UD2021/06835",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Strategi för Sveriges regionala utvecklingssamarbete med Latinamerika 2021-2025 (pdf 147 kB)",
+                "url": "/contentassets/4694f53b37374ed7b894a927176bbcb5/strategi-for-sveriges-regionala-utvecklingssamarbete-med-latinamerika-2021-2025_uppdaterad.pdf"
+            }
+        ],
+        "categories": [
+            "1215",
+            "1013"
+        ]
+    },
+    {
         "title": "Strategi för Sveriges utvecklingssamarbete med Kenya 2021– 2025",
         "url": "/strategier-for-internationellt-bistand/2021/01/strategi-for-sveriges-utvecklingssamarbete-med-kenya-2021-2025/",
         "published": "2021-01-11",
@@ -713,32 +775,6 @@
             "1279",
             "1013",
             "1095"
-        ]
-    },
-    {
-        "title": "Strategi för Sveriges regionala utvecklingssamarbete med Latinamerika 2021-2025",
-        "url": "/strategier-for-internationellt-bistand/2021/05/strategi-for-sveriges-regionala-utvecklingssamarbete-med-latinamerika-2021-2025/",
-        "published": "2021-05-17",
-        "updated": "2024-10-24",
-        "types": [
-            "1336"
-        ],
-        "senders": [
-            "1296",
-            "1295"
-        ],
-        "summary": "(Ny version) Strategin ska gälla under perioden 2021-2025 och omfattar för Sida sammantaget 1 miljard kronor.",
-        "id": "Diarienummer: UD2021/06835",
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Strategi för Sveriges regionala utvecklingssamarbete med Latinamerika 2021-2025 (pdf 147 kB)",
-                "url": "/contentassets/4694f53b37374ed7b894a927176bbcb5/strategi-for-sveriges-regionala-utvecklingssamarbete-med-latinamerika-2021-2025_uppdaterad.pdf"
-            }
-        ],
-        "categories": [
-            "1215",
-            "1013"
         ]
     },
     {
@@ -833,14 +869,14 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Strategy for peace, security and stabilisation 2024–2028 (governmnet.se)",
+                "name": "Strategy for peace, security and stabilisation 2024–2028 (governmnet.se)- extern webbplats,",
                 "url": "https://www.government.se/international-development-cooperation-strategies/2024/10/strategy-for-peace-security-and-stabilisation-20242028/"
             }
         ],
         "attachments": [
             {
-                "name": "Strategi för fred, säkerhet och stabilisering 2024-2028 (pdf 60 kB)",
-                "url": "/contentassets/594e1cda9da8412189e711c04deafef2/strategi-for-fred-sakerhet-och-stabilisering-2024-2028.pdf"
+                "name": "Strategi för fred, säkerhet och stabilisering 2024-2028 (pdf 148 kB)",
+                "url": "/globalassets/regeringen/dokument/utrikesdepartementet/strategi-for-fred-sakerhet-och-stabilisering-2024-2028.pdf"
             }
         ],
         "categories": [
@@ -965,7 +1001,7 @@
                 "url": "/pressmeddelanden/2024/06/regeringen-antar-ny-regional-strategi-for-syrienkrisen/"
             },
             {
-                "name": "Sweden’s regional strategy for the Syria crisis 2024–2026 (government.se)",
+                "name": "Sweden’s regional strategy for the Syria crisis 2024–2026 (government.se)- extern webbplats,",
                 "url": "https://www.government.se/international-development-cooperation-strategies/2024/06/swedens-regional-strategy-for-the-syria-crisis-20242026/"
             }
         ],
@@ -1384,7 +1420,7 @@
         "id": "Diarienummer: UD2022/03566",
         "shortcuts": [
             {
-                "name": "Engelsk version: Strategy for sexual and reproductive health and rights (SRHR) in Africa 2022–2026",
+                "name": "Engelsk version: Strategy for sexual and reproductive health and rights (SRHR) in Africa 2022–2026- extern webbplats,",
                 "url": "https://www.government.se/international-development-cooperation-strategies/2022/06/strategy-for-sexual-and-reproductive-health-and-rights-srhr-in-africa-20222026/"
             }
         ],
@@ -1461,7 +1497,7 @@
         "attachments": [
             {
                 "name": "Strategi för Sveriges utvecklingssamarbete med Zimbabwe (pdf 229 kB)",
-                "url": "/globalassets/regeringen/dokument/utrikesdepartementet/land--och-regionsstrategier/strategi-for-sveriges-utvecklingssamarbete-med-zimbabwe.pdf"
+                "url": "/contentassets/69b9bfcf730046d79966c7bca8bcbdf1/strategi-for-sveriges-utvecklingssamarbete-med-zimbabwe.pdf"
             }
         ],
         "categories": [
@@ -1961,6 +1997,28 @@
         ]
     },
     {
+        "title": "Strategi för Sveriges samarbete med Världshälsoorganisationen (WHO) 2021–2025",
+        "url": "/strategier-for-internationellt-bistand/2021/01/strategi-for-sveriges-samarbete-med-varldshalsoorganisationen-who-20212025/",
+        "published": "2021-01-01",
+        "updated": null,
+        "types": [
+            "1336"
+        ],
+        "senders": [
+            "1292"
+        ],
+        "summary": "Denna strategi ska ligga till grund för Sveriges samarbete med Världshälsoorganisationen (WHO) för perioden 2021–2025. Den fastställer mål, prioriteringar och arbetsformer. Strategin är styrande för Regeringskansliet och berörda utlandsmyndigheter.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Strategi för Sveriges samarbete med Världshälsoorganisationen (WHO) 2021–2025 (pdf 1 MB)",
+                "url": "/contentassets/47338f3842cb4b919d021da90603eaad/strategi-for-sveriges-samarbete-med-varldshalsoorganisationen-who-20212025.pdf"
+            }
+        ],
+        "categories": []
+    },
+    {
         "title": "Organisationsstrategi för Sveriges samarbete med Globala miljöfonden (GEF) 2021–2024",
         "url": "/strategier-for-internationellt-bistand/2021/01/organisationsstrategi-for-sveriges-samarbete-med-globala-miljofonden-gef-20212024/",
         "published": "2021-01-01",
@@ -2000,28 +2058,6 @@
             {
                 "name": "Organisationsstrategi för Sveriges samarbete med Gröna klimatfonden (GCF) 2021−2022 (pdf 334 kB)",
                 "url": "/contentassets/87b2558207e64552ad12438d489e0ceb/organisationsstrategi-for-sveriges-samarbete-med-grona-klimatfonden-gcf-20212022.pdf"
-            }
-        ],
-        "categories": []
-    },
-    {
-        "title": "Strategi för Sveriges samarbete med Världshälsoorganisationen (WHO) 2021–2025",
-        "url": "/strategier-for-internationellt-bistand/2021/01/strategi-for-sveriges-samarbete-med-varldshalsoorganisationen-who-20212025/",
-        "published": "2021-01-01",
-        "updated": null,
-        "types": [
-            "1336"
-        ],
-        "senders": [
-            "1292"
-        ],
-        "summary": "Denna strategi ska ligga till grund för Sveriges samarbete med Världshälsoorganisationen (WHO) för perioden 2021–2025. Den fastställer mål, prioriteringar och arbetsformer. Strategin är styrande för Regeringskansliet och berörda utlandsmyndigheter.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Strategi för Sveriges samarbete med Världshälsoorganisationen (WHO) 2021–2025 (pdf 1 MB)",
-                "url": "/contentassets/47338f3842cb4b919d021da90603eaad/strategi-for-sveriges-samarbete-med-varldshalsoorganisationen-who-20212025.pdf"
             }
         ],
         "categories": []
@@ -2640,7 +2676,7 @@
         "id": "Diarienummer: UD2017/21055/FN",
         "shortcuts": [
             {
-                "name": "Strategy for multilateral development policy",
+                "name": "Strategy for multilateral development policy- extern webbplats,",
                 "url": "https://www.government.se/international-development-cooperation-strategies/2018/05/strategy-for-multilateral-development-policy/"
             }
         ],
@@ -3365,7 +3401,7 @@
         "attachments": [
             {
                 "name": "Strategi för Sveriges utvecklingssamarbete med Moçambique 2015-2020 (pdf 242 kB)",
-                "url": "/globalassets/regeringen/dokument/utrikesdepartementet/land--och-regionsstrategier/resultatstrategi-mocambique--klar-2.pdf"
+                "url": "/contentassets/f98b5b05affe4322b10f99327820cb96/resultatstrategi-mocambique--klar-2.pdf"
             },
             {
                 "name": "In English: Strategy for Sweden’s development cooperation for Mozambique 2015-2020 (pdf 209 kB)",

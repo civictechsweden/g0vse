@@ -69,17 +69,17 @@ Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokrate
 
 
 
-| **Regeringens bidragsreform (förändring av anslag, miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Bidragstak med mera: Bidragstak** | 0 | -170 | -242 |
-| **Bidragstak med mera: Kostnader för IT-utveckling och administration för offentlig verksamhet** | 60 | 83 | 80 |
-| **Jobbpremie** | 203 | 356 | 72 |
-| **Aktivitetskrav: Kostnader för kommunernas aktiviteter** | 1001 | 2002 | 2002 |
-| **Aktivitetskrav: Kostnader för IT-utveckling och administration för offentlig verksamhet** | 62 | 101 | 90 |
-| **Aktivitetskrav: Kostnader för utökad barnomsorg** | 130 | 260 | 260 |
-| **Kvalificering till välfärden: Myndigheter och ersättning till kommuner** | 3 | 225 | 265 |
-| **Kvalificering till välfärden: Transfereringar** | 0 | -114 | -347 |
+| **Regeringens bidragsreform (förändring av anslag, miljoner kronor)**                            | | | |
+| ------------------------------------------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                                                                  | **2026** | **2027** | **2028** |
+| **Bidragstak med mera: Bidragstak**                                                              | 0        | -170     | -242     |
+| **Bidragstak med mera: Kostnader för IT-utveckling och administration för offentlig verksamhet** | 60       | 83       | 80       |
+| **Jobbpremie**                                                                                   | 203      | 356      | 72       |
+| **Aktivitetskrav: Kostnader för kommunernas aktiviteter**                                        | 1001     | 2002     | 2002     |
+| **Aktivitetskrav: Kostnader för IT-utveckling och administration för offentlig verksamhet**      | 62       | 101      | 90       |
+| **Aktivitetskrav: Kostnader för utökad barnomsorg**                                              | 130      | 260      | 260      |
+| **Kvalificering till välfärden: Myndigheter och ersättning till kommuner**                       | 3        | 225      | 265      |
+| **Kvalificering till välfärden: Transfereringar**                                                | 0        | -114     | -347     |
 
 
 
@@ -152,14 +152,14 @@ Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokrate
 
 
 
-| **Regeringens bidragsreform (förändring av anslag, miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Bidragstak med mera: Bidragstak** | 0 | -170 | -242 |
-| **Bidragstak med mera: Kostnader för IT-utveckling och administration för offentlig verksamhet** | 60 | 83 | 80 |
-| **Jobbpremie** | 203 | 356 | 72 |
-| **Aktivitetskrav: Kostnader för kommunernas aktiviteter** | 1001 | 2002 | 2002 |
-| **Aktivitetskrav: Kostnader för IT-utveckling och administration för offentlig verksamhet** | 62 | 101 | 90 |
-| **Aktivitetskrav: Kostnader för utökad barnomsorg** | 130 | 260 | 260 |
-| **Kvalificering till välfärden: Myndigheter och ersättning till kommuner** | 3 | 225 | 265 |
-| **Kvalificering till välfärden: Transfereringar** | 0 | -114 | -347 |
+| **Regeringens bidragsreform (förändring av anslag, miljoner kronor)**                            | | | |
+| ------------------------------------------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                                                                  | **2026** | **2027** | **2028** |
+| **Bidragstak med mera: Bidragstak**                                                              | 0        | -170     | -242     |
+| **Bidragstak med mera: Kostnader för IT-utveckling och administration för offentlig verksamhet** | 60       | 83       | 80       |
+| **Jobbpremie**                                                                                   | 203      | 356      | 72       |
+| **Aktivitetskrav: Kostnader för kommunernas aktiviteter**                                        | 1001     | 2002     | 2002     |
+| **Aktivitetskrav: Kostnader för IT-utveckling och administration för offentlig verksamhet**      | 62       | 101      | 90       |
+| **Aktivitetskrav: Kostnader för utökad barnomsorg**                                              | 130      | 260      | 260      |
+| **Kvalificering till välfärden: Myndigheter och ersättning till kommuner**                       | 3        | 225      | 265      |
+| **Kvalificering till välfärden: Transfereringar**                                                | 0        | -114     | -347     |

@@ -1,6 +1,58 @@
 [
     {
-        "title": "Översyn av EU:s system för handel med utsläppsrätter, 2025/26:FPM111",
+        "title": "Handlingsplan för elektrifiering",
+        "url": "/faktapromemoria/2026/09/202526fpm114/",
+        "published": "2026-09-10",
+        "updated": null,
+        "types": [
+            "2540"
+        ],
+        "senders": [
+            "1291",
+            "1296"
+        ],
+        "summary": "Meddelande från kommissionen till Europaparlamentet, rådet, Europeiska ekonomiska och sociala kommittén samt Regionkommittén.",
+        "id": "2025/26:FPM114",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Handlingsplan för elektrifiering, 2025/26:FPM114 (pdf 137 kB)",
+                "url": "/contentassets/f542e9803c804b699b7dad431392b127/handlingsplan-for-elektrifiering-202526fpm114.pdf"
+            }
+        ],
+        "categories": [
+            "1226",
+            "1012"
+        ]
+    },
+    {
+        "title": "Förordning om framtidssäkring av elräkningar i unionen",
+        "url": "/faktapromemoria/2026/09/202526fpm113/",
+        "published": "2026-09-10",
+        "updated": null,
+        "types": [
+            "2540"
+        ],
+        "senders": [
+            "1291",
+            "1296"
+        ],
+        "summary": "Förslag till ändring av förordning (EU) 2019/943 av den 5 juni 2019 om den inre marknaden för el när det gäller framtidssäkring av elräkningar i unionen genom att sänka elnätskostnader och stötta elektrifiering och digitalisering.",
+        "id": "2025/26:FPM113",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Förordning om framtidssäkring av elräkningar i unionen, 2025/26:FPM113 (pdf 149 kB)",
+                "url": "/contentassets/7617381478a840e9acc1ef95ca32ee89/forordning-om-framtidssakring-av-elrakningar-i-unionen-202526fpm113.pdf"
+            }
+        ],
+        "categories": [
+            "1226",
+            "1012"
+        ]
+    },
+    {
+        "title": "Översyn av EU:s system för handel med utsläppsrätter",
         "url": "/faktapromemoria/2026/09/202526fpm111/",
         "published": "2026-09-08",
         "updated": null,
@@ -11,10 +63,22 @@
             "1291",
             "1296"
         ],
-        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och rådets förordning om ändring av direktiv 2003/87/EC och beslut (EU) 2015/1814 vad gäller stärkt konkurrenskraft och kostnadseffektiv minskning av växthusgasutsläpp, förslag till Europaparlamentets och rådets förordning om ändring av direktiv 2003/87/EC vad gäller reviderade riktmärkesvärden för värme- och bränsleriktmärken för perioden 2026–2030, och förslag till Europaparlamentets och rådets förordning om ändring av förordningarna (EU) 2015/757 och (EU) 2023/1805 för att förenkla och effektivisera övervakning, rapportering och verifiering samt anpassa regelverken till revideringen av EU:s utsläppshandelssystem."
+        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och rådets förordning om ändring av direktiv 2003/87/EC och beslut (EU) 2015/1814 vad gäller stärkt konkurrenskraft och kostnadseffektiv minskning av växthusgasutsläpp, förslag till Europaparlamentets och rådets förordning om ändring av direktiv 2003/87/EC vad gäller reviderade riktmärkesvärden för värme- och bränsleriktmärken för perioden 2026–2030, och förslag till Europaparlamentets och rådets förordning om ändring av förordningarna (EU) 2015/757 och (EU) 2023/1805 för att förenkla och effektivisera övervakning, rapportering och verifiering samt anpassa regelverken till revideringen av EU:s utsläppshandelssystem.",
+        "id": "2025/26:FPM111",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Översyn av EU:s system för handel med utsläppsrätter, 2025/26:FPM111 (pdf 218 kB)",
+                "url": "/contentassets/76a9c0ed671a4b97bc0cfba4036fb31b/oversyn-av-eus-system-for-handel-med-utslappsratter-202526fpm111.pdf"
+            }
+        ],
+        "categories": [
+            "1252",
+            "1012"
+        ]
     },
     {
-        "title": "EU:s strategi för djurhållning och handlingsplan för protein, 2025/26:FPM109",
+        "title": "EU:s strategi för djurhållning och handlingsplan för protein",
         "url": "/faktapromemoria/2026/09/202526fpm109/",
         "published": "2026-09-04",
         "updated": null,
@@ -25,10 +89,31 @@
             "2425",
             "1296"
         ],
-        "summary": "Faktapromemoria gällande handlingsplan för motståndskraft, strategiskt oberoende och hållbarhet för proteinsystemet i EU."
+        "summary": "Faktapromemoria gällande handlingsplan för motståndskraft, strategiskt oberoende och hållbarhet för proteinsystemet i EU.",
+        "id": "2025/26:FPM109",
+        "shortcuts": [
+            {
+                "name": "Europeiska kommissionen: Handlingsplan för motståndskraft, strategiskt oberoende och hållbarhet för proteinsystemet i EU- extern webbplats,",
+                "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/PDF/?uri=CELEX:52026DC0355"
+            },
+            {
+                "name": "Europeiska kommissionen: Meddelande från kommissionen till Europaparlamentet, rådet, Europeiska ekonomiska och sociala kommittén samt Regionkommittén- extern webbplats,",
+                "url": "https://eur-lex.europa.eu/resource.html?uri=cellar:c62fe23e-7a13-11f1-bf5e-01aa75ed71a1.0023.02/DOC_1&format=PDF"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "EU:s strategi för djurhållning och handlingsplan för protein, 2025/26:FPM109 (pdf 146 kB)",
+                "url": "/contentassets/5121731967fb49f2864c261a23b755ab/eus-strategi-for-djurhallning-och-handlingsplan-for-protein-202526fpm109.pdf"
+            }
+        ],
+        "categories": [
+            "1243",
+            "1012"
+        ]
     },
     {
-        "title": "Meddelande om handlingsplan för cybersäkerhet och artificiell intelligens, 2025/26:FPM110",
+        "title": "Meddelande om handlingsplan för cybersäkerhet och artificiell intelligens",
         "url": "/faktapromemoria/2026/09/202526fpm110/",
         "published": "2026-09-02",
         "updated": null,
@@ -39,10 +124,29 @@
             "1286",
             "1296"
         ],
-        "summary": "Faktapromemoria gällande meddelande från kommissionen till Europaparlamentet, rådet, Europeiska och sociala kommittén samt Regionkommittén om handlingsplan för cybersäkerhet och artificiell intelligens."
+        "summary": "Faktapromemoria gällande meddelande från kommissionen till Europaparlamentet, rådet, Europeiska och sociala kommittén samt Regionkommittén om handlingsplan för cybersäkerhet och artificiell intelligens.",
+        "id": "2025/26:FPM110",
+        "shortcuts": [
+            {
+                "name": "Meddelande från kommissionen till Europaparlamentet, rådet, Europeiska och sociala kommittén samt Regionkommittén om handlingsplan för cybersäkerhet och artificiell intelligens- extern webbplats,",
+                "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/PDF/?uri=CELEX:52026DC0577"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Meddelande om handlingsplan för cybersäkerhet och artificiell intelligens, 2025/26:FPM110 (pdf 146 kB)",
+                "url": "/contentassets/17c1fcea9f274c50bd7108ffffc0348f/meddelande-om-handlingsplan-for-cybersakerhet-och-artificiell-intelligens-202526fpm110.pdf"
+            }
+        ],
+        "categories": [
+            "2248",
+            "2247",
+            "2781",
+            "1012"
+        ]
     },
     {
-        "title": "Rådsbeslut om ett övergripande avtal om ett ekonomiskt partnerskap och ett investeringsskyddsavtal med Indonesien, 2025/26:FPM105",
+        "title": "Rådsbeslut om ett övergripande avtal om ett ekonomiskt partnerskap och ett investeringsskyddsavtal med Indonesien",
         "url": "/faktapromemoria/2026/08/202526fpm105/",
         "published": "2026-08-31",
         "updated": null,
@@ -53,10 +157,22 @@
             "1296",
             "1295"
         ],
-        "summary": "Faktapromemoria gällande förslag till rådets beslut om ingående av det övergripande avtalet om ekonomiskt partnerskap mellan Europeiska unionen och Indonesien."
+        "summary": "Faktapromemoria gällande förslag till rådets beslut om ingående av det övergripande avtalet om ekonomiskt partnerskap mellan Europeiska unionen och Indonesien.",
+        "id": "2025/26:FPM105",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Rådsbeslut om ett övergripande avtal om ett ekonomiskt partnerskap och ett investeringsskyddsavtal med Indonesien, 2025/26:FPM105 (pdf 150 kB)",
+                "url": "/contentassets/8957754a103e4615880dd7e869f8dfcb/radsbeslut-om-ett-overgripande-avtal-om-ett-ekonomiskt-partnerskap-och-ett-investeringsskyddsavtal-med-indonesien202526fpm105.pdf"
+            }
+        ],
+        "categories": [
+            "1012",
+            "1079"
+        ]
     },
     {
-        "title": "Omnibus XI; regelförenklingar på skatteområdet, 2025/26:FPM106",
+        "title": "Omnibus XI; regelförenklingar på skatteområdet",
         "url": "/faktapromemoria/2026/08/202526fpm106/",
         "published": "2026-08-20",
         "updated": null,
@@ -67,10 +183,22 @@
             "1285",
             "1296"
         ],
-        "summary": "Faktapromemoria gällande förslag till rådets direktiv om ändring av direktiven 2003/49/EG, 2009/133/EG, 2011/96/EU, (EU) 2016/1164, (EU) 2017/1852, (EU) 2025/50 gällande förenkling av unionens ramverk för direkt skatt och stödjande av EU:s tillväxt och konkurrenskraft, COM(2026) 560."
+        "summary": "Faktapromemoria gällande förslag till rådets direktiv om ändring av direktiven 2003/49/EG, 2009/133/EG, 2011/96/EU, (EU) 2016/1164, (EU) 2017/1852, (EU) 2025/50 gällande förenkling av unionens ramverk för direkt skatt och stödjande av EU:s tillväxt och konkurrenskraft, COM(2026) 560.",
+        "id": "2025/26:FPM106",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Omnibus XI; regelförenklingar på skatteområdet, 2025/26:FPM106 (pdf 202 kB)",
+                "url": "/contentassets/5404a2cfffc04726abc2dd9bd7b33d6d/omnibus-xi-regelforenklingar-pa-skatteomradet-202526fpm106.pdf"
+            }
+        ],
+        "categories": [
+            "1267",
+            "1012"
+        ]
     },
     {
-        "title": "Direktiv om administrativt samarbete i fråga om beskattning (omarbetning), 2025/26: FPM101",
+        "title": "Direktiv om administrativt samarbete i fråga om beskattning (omarbetning)",
         "url": "/faktapromemoria/2026/08/202526-fpm101/",
         "published": "2026-08-20",
         "updated": null,
@@ -81,10 +209,22 @@
             "1285",
             "1296"
         ],
-        "summary": "Faktapromemoria gällande kommissionens förslag till direktiv om administrativt samarbete i fråga om beskattning (omarbetning), COM(2026) 308."
+        "summary": "Faktapromemoria gällande kommissionens förslag till direktiv om administrativt samarbete i fråga om beskattning (omarbetning), COM(2026) 308.",
+        "id": "2025/26:FPM101",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Direktiv om administrativt samarbete i fråga om beskattning (omarbetning), 2025/26:FPM101 (pdf 169 kB)",
+                "url": "/contentassets/f0b42d9fa3c0475ea0d0c2e3d97d2ad9/direktiv-om-administrativt-samarbete-i-fraga-om-beskattning-omarbetning-202526fpm101.pdf"
+            }
+        ],
+        "categories": [
+            "1267",
+            "1012"
+        ]
     },
     {
-        "title": "Omnibus XII: Förenkling och bättre användning av digitala alternativ för energi- och däckmärkning, 2025/26:FPM102",
+        "title": "Omnibus XII: Förenkling och bättre användning av digitala alternativ för energi- och däckmärkning",
         "url": "/faktapromemoria/2026/08/202526fpm102/",
         "published": "2026-08-20",
         "updated": null,
@@ -95,10 +235,24 @@
             "1291",
             "1296"
         ],
-        "summary": "Faktapromemoria gällande förslag till förordning om ändring av förordning (EU) 2017/1369 och förordning (EU) 2020/740 om förenkling och bättre användning av digitala alternativ för energi- och däckmärkning."
+        "summary": "Faktapromemoria gällande förslag till förordning om ändring av förordning (EU) 2017/1369 och förordning (EU) 2020/740 om förenkling och bättre användning av digitala alternativ för energi- och däckmärkning.",
+        "id": "2025/26:FPM102",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Omnibus XII Energi- och däckmärkning, 2025/26:102 (pdf 143 kB)",
+                "url": "/contentassets/6d32c3be8fe24b59aec2a8b3b18727ce/omnibus-xii-energi--och-dackmarkning-202526102.pdf"
+            }
+        ],
+        "categories": [
+            "1226",
+            "1257",
+            "2704",
+            "1012"
+        ]
     },
     {
-        "title": "Förslag till ny förordning om Eurojust, 2025/26:FPM108",
+        "title": "Förslag till ny förordning om Eurojust",
         "url": "/faktapromemoria/2026/08/202526fpm108/",
         "published": "2026-08-19",
         "updated": null,
@@ -109,10 +263,26 @@
             "1287",
             "1296"
         ],
-        "summary": "Faktapromemoria gällande förslag till ny Eurojust­förordning som en del av ett paket på brottsbekämpningens område (EU) 2018/1727."
+        "summary": "Faktapromemoria gällande förslag till ny Eurojust­förordning som en del av ett paket på brottsbekämpningens område (EU) 2018/1727.",
+        "id": "2025/26:FPM108",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Förslag till ny förordning om Eurojust, 2025/26:FPM108 (pdf 164 kB)",
+                "url": "/contentassets/40766faaf97b465baf251282ca0ce840/forslag-till-ny-forordning-om-eurojust-202526fpm108.pdf"
+            }
+        ],
+        "categories": [
+            "1263",
+            "2690",
+            "2688",
+            "2710",
+            "2709",
+            "1012"
+        ]
     },
     {
-        "title": "Ny förordning för Europol, 2025/26:FPM107",
+        "title": "Ny förordning för Europol",
         "url": "/faktapromemoria/2026/08/202526fpm107/",
         "published": "2026-08-19",
         "updated": null,
@@ -123,10 +293,26 @@
             "1287",
             "1296"
         ],
-        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och rådets förordning om Europeiska unionens byrå för samarbete inom brottsbekämpning (Europol), om ändring av förordning (EU) 2018/1726 och förordning (EU) 2024/982 samt om upphävande av förordning (EU) 2016/794."
+        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och rådets förordning om Europeiska unionens byrå för samarbete inom brottsbekämpning (Europol), om ändring av förordning (EU) 2018/1726 och förordning (EU) 2024/982 samt om upphävande av förordning (EU) 2016/794.",
+        "id": "2025/26:FPM107",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Ny förordning för Europol, 2025/26:FPM107 (pdf 171 kB)",
+                "url": "/contentassets/61086ede07814719965e46990857d4fd/ny-forordning-for-europol-202526fpm107.pdf"
+            }
+        ],
+        "categories": [
+            "1263",
+            "2690",
+            "2688",
+            "2710",
+            "2709",
+            "1012"
+        ]
     },
     {
-        "title": "Ändringar i dataskyddsförordningen för EU:s institutioner, organ och byråer, 2025/26:FPM104",
+        "title": "Ändringar i dataskyddsförordningen för EU:s institutioner, organ och byråer",
         "url": "/faktapromemoria/2026/08/202526fpm104/",
         "published": "2026-08-19",
         "updated": null,
@@ -137,10 +323,23 @@
             "1287",
             "1296"
         ],
-        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och Rådets förordning om ändring av Europaparlamentets och rådets förordning (EU) 2018/1725 om skydd för fysiska personer med avseende på behandling av personuppgifter som utförs av unionens institutioner, organ och byråer och om det fria flödet av sådana uppgifter."
+        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och Rådets förordning om ändring av Europaparlamentets och rådets förordning (EU) 2018/1725 om skydd för fysiska personer med avseende på behandling av personuppgifter som utförs av unionens institutioner, organ och byråer och om det fria flödet av sådana uppgifter.",
+        "id": "2025/26:FPM104",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Ändringar i dataskyddsförordningen för EU:s institutioner, 2025/26:FPM104 (pdf 133 kB)",
+                "url": "/contentassets/f58a8446fa034635b6c7ab7f6019f834/andringar-i-dataskyddsforordningen-for-eus-institutioner-202526fpm104.pdf"
+            }
+        ],
+        "categories": [
+            "1219",
+            "1224",
+            "1012"
+        ]
     },
     {
-        "title": "Direktiv om att ersätta direktivet om en europeisk utredningsorder, 2025/26:FPM103",
+        "title": "Direktiv om att ersätta direktivet om en europeisk utredningsorder",
         "url": "/faktapromemoria/2026/08/202526fpm103/",
         "published": "2026-08-19",
         "updated": null,
@@ -151,10 +350,23 @@
             "1287",
             "1296"
         ],
-        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och Europeiska rådets direktiv om en europeisk utredningsorder på det straffrättsliga området och en europeisk order\nom deltagande på distans."
+        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och Europeiska rådets direktiv om en europeisk utredningsorder på det straffrättsliga området och en europeisk order\nom deltagande på distans.",
+        "id": "2025/26:FPM103",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Direktiv om att ersätta direktivet om en europeisk utredningsorder, 2025/26:FPM103 (pdf 149 kB)",
+                "url": "/contentassets/2bf80ab173f14d6a979d68726af9a5b0/direktiv-om-att-ersatta-direktivet-om-en-europeisk-utredningsorder-202526fpm103.pdf"
+            }
+        ],
+        "categories": [
+            "1263",
+            "2205",
+            "1012"
+        ]
     },
     {
-        "title": "EU:s årsbudget 2027 och teknisk justering av fleråriga budgetramen för 2027, 2025/26:FPM100",
+        "title": "EU:s årsbudget 2027 och teknisk justering av fleråriga budgetramen för 2027",
         "url": "/faktapromemoria/2026/07/202526fpm100/",
         "published": "2026-07-10",
         "updated": null,
@@ -165,10 +377,22 @@
             "1285",
             "1296"
         ],
-        "summary": "Faktapromemoria gällande Statement of Estimates of the European Commission for the financial year 2027 och MEDDELANDE FRÅN KOMMISSIONEN TILL EUROPAPARLAMENTET OCH RÅDET om teknisk justering av den fleråriga budgetramen för 2027 i enlighet med artikel 4 i rådets förordning (EU, Euratom) 2020/2093 om den fleråriga budgetramen för 2021–2027."
+        "summary": "Faktapromemoria gällande Statement of Estimates of the European Commission for the financial year 2027 och MEDDELANDE FRÅN KOMMISSIONEN TILL EUROPAPARLAMENTET OCH RÅDET om teknisk justering av den fleråriga budgetramen för 2027 i enlighet med artikel 4 i rådets förordning (EU, Euratom) 2020/2093 om den fleråriga budgetramen för 2021–2027.",
+        "id": "2025/26:FPM100",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "EU:s årsbudget 2027 och teknisk justering av fleråriga budgetramen för 2027, 2025/26:FPM100 (pdf 370 kB)",
+                "url": "/contentassets/08c0222748154e6195277c52397e9e86/eus-arsbudget-2027-och-teknisk-justering-av-flerariga-budgetramen-for-2027-202526fpm100/"
+            }
+        ],
+        "categories": [
+            "1232",
+            "1012"
+        ]
     },
     {
-        "title": "Förordning om utveckling av moln och AI, 2025/26:FPM99",
+        "title": "Förordning om utveckling av moln och AI",
         "url": "/faktapromemoria/2026/07/202526fpm99/",
         "published": "2026-07-09",
         "updated": "2026-07-10",
@@ -179,10 +403,23 @@
             "1285",
             "1296"
         ],
-        "summary": "Faktapromemoria gällande Proposal for a regulation of the European Parliament and of the Council establishing a framework of measures for strengthening Europe’s cloud and AI ecosystem (Cloud and AI Development Act)."
+        "summary": "Faktapromemoria gällande Proposal for a regulation of the European Parliament and of the Council establishing a framework of measures for strengthening Europe’s cloud and AI ecosystem (Cloud and AI Development Act).",
+        "id": "2025/26:FPM99",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Förordning om utveckling av moln och AI, 2025/26:FPM99 (pdf 239 kB)",
+                "url": "/contentassets/33c29cbc651d40abb7b873433a6007a6/forordning-om-utveckling-av-moln-och-ai-202526fpm99/"
+            }
+        ],
+        "categories": [
+            "1238",
+            "2282",
+            "1012"
+        ]
     },
     {
-        "title": "Halvledarakten 2.0, 2025/26:FPM98",
+        "title": "Halvledarakten 2.0",
         "url": "/faktapromemoria/2026/07/202526fpm98/",
         "published": "2026-07-03",
         "updated": null,
@@ -193,10 +430,22 @@
             "1291",
             "1296"
         ],
-        "summary": "Faktapromemoria gällande Halvledarakten 2.0."
+        "summary": "Faktapromemoria gällande Halvledarakten 2.0.",
+        "id": "2025/26:FPM98",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Halvledarakten 2.0, 2025/26:FPM98 (pdf 230 kB)",
+                "url": "/contentassets/d81ced383291430e808b444a145db000/halvledarakten-2.0-202526fpm98.pdf"
+            }
+        ],
+        "categories": [
+            "1257",
+            "1012"
+        ]
     },
     {
-        "title": "EU:s humanitära insatser i en föränderlig omvärld, 2025/26:FPM97",
+        "title": "EU:s humanitära insatser i en föränderlig omvärld",
         "url": "/faktapromemoria/2026/07/202526fpm97/",
         "published": "2026-07-02",
         "updated": null,
@@ -207,7 +456,25 @@
             "1296",
             "1295"
         ],
-        "summary": "Faktapromemoria gällande gemensamt meddelande till europaparlamentet och rådet: Värna värderingar, driva reformer, leverera resultat – EU:s humanitära insatser i en föränderlig omvärld."
+        "summary": "Faktapromemoria gällande gemensamt meddelande till europaparlamentet och rådet: Värna värderingar, driva reformer, leverera resultat – EU:s humanitära insatser i en föränderlig omvärld.",
+        "id": "2025/26:FPM97",
+        "shortcuts": [
+            {
+                "name": "GEMENSAMT MEDDELANDE TILL EUROPAPARLAMENTET OCH RÅDET Försvara värden, driva på reformer, nå resultat: EU:s humanitära insatser i en föränderlig världsordning.- extern webbplats,",
+                "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX%3A52026JC0025&qid=1782980007388"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "EUs humanitära insatser i en föränderlig värld, 2025/26:FPM97 (pdf 154 kB)",
+                "url": "/contentassets/203f629d994741b4a4326948489700c3/eus-humanitara-insatser-i-en-foranderlig-varld-202526fpm97.pdf"
+            }
+        ],
+        "categories": [
+            "1215",
+            "1279",
+            "1012"
+        ]
     },
     {
         "title": "Handlingsplan för gödselmedel",
@@ -1259,7 +1526,12 @@
         ],
         "summary": "Faktapromemoria gällande RESourceEU Handlingsplan.",
         "id": "2025/26:FPM58",
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Ny handlingsplan ska bidra till att trygga EU:s försörjning av kritiska råmaterial",
+                "url": "/pressmeddelanden/2026/02/ny-handlingsplan-ska-bidra-till-att-trygga-eus-forsorjning-av-kritiska-ramaterial/"
+            }
+        ],
         "attachments": [
             {
                 "name": "RESourceEU Handlingsplan, 2025/26:FPM58 (pdf 249 kB)",
@@ -2498,7 +2770,7 @@
             "1285",
             "1296"
         ],
-        "summary": "Faktapromemoria gällande förslag till beslut om system för EU:s egna medel för\nperioden 2028 och framåt.",
+        "summary": "Faktapromemoria gällande förslag till beslut om system för EU:s egna medel för perioden 2028 och framåt.",
         "id": "2025/26:FPM4",
         "shortcuts": [],
         "attachments": [
@@ -3854,6 +4126,7 @@
             "2540"
         ],
         "senders": [
+            "1292",
             "1293"
         ],
         "summary": "Förslag till Europaparlamentets och rådets förordning om fastställande av ett ramverk för att stärka tillgängligheten till och försörjningstryggheten för kritiska läkemedel samt tillgång och tillgängligheten till läkemedel av gemensamt intresse, och om ändring av förordning (EU) 2024/795 Tidigare faktapromemorior i ärendet: 2022/23:FPM90.",
@@ -4518,7 +4791,7 @@
         "senders": [
             "2425"
         ],
-        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och rådets förordning om ändring av förordning (EU) nr 1026/2012 om vissa åtgärder i syfte att\nbevara fiskbestånd i fråga om länder som tillåter ohållbart fiske.",
+        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och rådets förordning om ändring av förordning (EU) nr 1026/2012 om vissa åtgärder i syfte att bevara fiskbestånd i fråga om länder som tillåter ohållbart fiske.",
         "id": "2024/25:FPM3",
         "shortcuts": [
             {
@@ -6021,7 +6294,7 @@
         "senders": [
             "1285"
         ],
-        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och rådets förordning om EU:s\narbetsmarknadsstatistik om företag och om upphävande av rådets förordning\n(EG) nr 530/1999 och Europaparlamentets och rådets förordningar (EG) nr\n450/2003 och (EG) nr 453/2008, COM(2023) 459",
+        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och rådets förordning om EU:s arbetsmarknadsstatistik om företag och om upphävande av rådets förordning (EG) nr 530/1999 och Europaparlamentets och rådets förordningar (EG) nr 450/2003 och (EG) nr 453/2008, COM(2023) 459.",
         "id": "2023/24:FPM1",
         "shortcuts": [],
         "attachments": [
@@ -7370,12 +7643,7 @@
         ],
         "summary": "Faktapromemoria gällande gemensamt meddelande till Europaparlamentet och Rådet. EU:s rymdstrategi för säkerhet och försvar, JOIN (2023) 9 final.",
         "id": "2022/23:FPM67",
-        "shortcuts": [
-            {
-                "name": "På EUR-Lex webbplats: GEMENSAMT MEDDELANDE TILL EUROPAPARLAMENTET OCH RÅDET EU:s rymdstrategi för säkerhet och försvar- extern webbplats,",
-                "url": "https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=CELEX:52023JC0009"
-            }
-        ],
+        "shortcuts": [],
         "attachments": [
             {
                 "name": "Gemensamt meddelande om EU:s rymdstrategi för säkerhet och försvar, 2022/23:FPM67 (pdf 285 kB)",
@@ -11688,7 +11956,12 @@
         ],
         "summary": "Faktapromemoria gällande direktiven om förvaltare av alternativa investeringsfonder och värdepappersfonder (AIFMD), COM(2021) 721.",
         "id": "2021/22:FPM29",
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Dir. 2023:163 Ett moderniserat regelverk för att stärka konkurrenskraften och motståndskraften på svensk fondmarknad",
+                "url": "/rattsliga-dokument/kommittedirektiv/2023/12/dir.-2023163"
+            }
+        ],
         "attachments": [
             {
                 "name": "Ändring i direktiven om förvaltare av alternativa investeringsfonder och värdepappersfonder 2021/22:FPM29 (pdf 120 kB)",
@@ -12762,57 +13035,6 @@
         ]
     },
     {
-        "title": "Revidering av EU:s direktiv för förnybar energi",
-        "url": "/faktapromemoria/2021/09/202021fpm-144/",
-        "published": "2021-09-01",
-        "updated": null,
-        "types": [
-            "2540"
-        ],
-        "senders": [
-            "2425"
-        ],
-        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och rådets direktiv om ändring av Europaparlamentets och rådets direktiv (EU) 2018/2001, Europaparlamentets och rådets förordning (EU) 2018/1999 och Europaparlamentets och rådets direktiv 98/70/EG om främjande av användningen av energi från förnybara energikällor, COM (2021) 557.",
-        "id": "2020/21:FPM144",
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Revidering av EU:s direktiv för förnybar energi, 2020/21:FPM 144 (pdf 184 kB)",
-                "url": "/contentassets/2f384503a2474534a2954bd4aee0d076/revidering-av-eus-direktiv-for-fornybar-energi-202021fpm-144.pdf"
-            }
-        ],
-        "categories": [
-            "1226",
-            "1012"
-        ]
-    },
-    {
-        "title": "Revidering av EU:s krav för koldioxidutsläpp från nya lätta fordon",
-        "url": "/faktapromemoria/2021/09/202021fpm-143/",
-        "published": "2021-09-01",
-        "updated": null,
-        "types": [
-            "2540"
-        ],
-        "senders": [
-            "1291"
-        ],
-        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och rådets förordning om ändring av förordning (EU) 2019/631 när det gäller att stärka normerna för koldioxidutsläpp för nya\npersonbilar och för nya lätta nyttofordon i linje med unionens ökade miljöambitioner, COM (2021) 556.",
-        "id": "2020/21:FPM143",
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Revidering av EU:s krav för koldioxidutsläpp från nya lätta fordon, 2020/21:FPM 143 (pdf 135 kB)",
-                "url": "/contentassets/aea67502a61645b0b8c51327f8f8e34a/revidering-av-eus-krav-for-koldioxidutslapp-fran-nya-latta-fordon-202021fpm-143.pdf"
-            }
-        ],
-        "categories": [
-            "1252",
-            "1274",
-            "1012"
-        ]
-    },
-    {
         "title": "Översyn av direktivet om utbyggnad av infrastrukturen för alternativa bränslen",
         "url": "/faktapromemoria/2021/09/202021fpm-141/",
         "published": "2021-09-01",
@@ -12866,6 +13088,83 @@
         ]
     },
     {
+        "title": "Revidering av EU:s krav för koldioxidutsläpp från nya lätta fordon",
+        "url": "/faktapromemoria/2021/09/202021fpm-143/",
+        "published": "2021-09-01",
+        "updated": null,
+        "types": [
+            "2540"
+        ],
+        "senders": [
+            "1291"
+        ],
+        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och rådets förordning om ändring av förordning (EU) 2019/631 när det gäller att stärka normerna för koldioxidutsläpp för nya\npersonbilar och för nya lätta nyttofordon i linje med unionens ökade miljöambitioner, COM (2021) 556.",
+        "id": "2020/21:FPM143",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Revidering av EU:s krav för koldioxidutsläpp från nya lätta fordon, 2020/21:FPM 143 (pdf 135 kB)",
+                "url": "/contentassets/aea67502a61645b0b8c51327f8f8e34a/revidering-av-eus-krav-for-koldioxidutslapp-fran-nya-latta-fordon-202021fpm-143.pdf"
+            }
+        ],
+        "categories": [
+            "1252",
+            "1274",
+            "1012"
+        ]
+    },
+    {
+        "title": "Revidering av EU:s direktiv för förnybar energi",
+        "url": "/faktapromemoria/2021/09/202021fpm-144/",
+        "published": "2021-09-01",
+        "updated": null,
+        "types": [
+            "2540"
+        ],
+        "senders": [
+            "2425"
+        ],
+        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och rådets direktiv om ändring av Europaparlamentets och rådets direktiv (EU) 2018/2001, Europaparlamentets och rådets förordning (EU) 2018/1999 och Europaparlamentets och rådets direktiv 98/70/EG om främjande av användningen av energi från förnybara energikällor, COM (2021) 557.",
+        "id": "2020/21:FPM144",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Revidering av EU:s direktiv för förnybar energi, 2020/21:FPM 144 (pdf 184 kB)",
+                "url": "/contentassets/2f384503a2474534a2954bd4aee0d076/revidering-av-eus-direktiv-for-fornybar-energi-202021fpm-144.pdf"
+            }
+        ],
+        "categories": [
+            "1226",
+            "1012"
+        ]
+    },
+    {
+        "title": "Förordning om hållbara bränslen inom luftfarten",
+        "url": "/faktapromemoria/2021/09/202021fpm-139/",
+        "published": "2021-09-01",
+        "updated": null,
+        "types": [
+            "2540"
+        ],
+        "senders": [
+            "2425"
+        ],
+        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och rådets förordning för att säkerställa lika konkurrensvillkor för hållbara lufttransporter, COM (2021) 561 slutlig.",
+        "id": "2020/21:FPM139",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Förordning om hållbara bränslen inom luftfarten, 2020/21:FPM 139 (pdf 109 kB)",
+                "url": "/contentassets/651afaa009b44d54ab92d8160d067481/forordning-om-hallbara-branslen-inom-luftfarten-202021fpm-139.pdf"
+            }
+        ],
+        "categories": [
+            "1252",
+            "1274",
+            "1012"
+        ]
+    },
+    {
         "title": "Direktiv om brottsbekämpningens åtkomst till bankkontoregister",
         "url": "/faktapromemoria/2021/09/202021fpm-142/",
         "published": "2021-09-01",
@@ -12897,28 +13196,27 @@
         ]
     },
     {
-        "title": "Förordning om hållbara bränslen inom luftfarten",
-        "url": "/faktapromemoria/2021/09/202021fpm-139/",
-        "published": "2021-09-01",
+        "title": "Förordning om att inrätta en social klimatfond",
+        "url": "/faktapromemoria/2021/08/202021fpm-135/",
+        "published": "2021-08-31",
         "updated": null,
         "types": [
             "2540"
         ],
         "senders": [
-            "2425"
+            "1285"
         ],
-        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och rådets förordning för att säkerställa lika konkurrensvillkor för hållbara lufttransporter, COM (2021) 561 slutlig.",
-        "id": "2020/21:FPM139",
+        "summary": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a Social Climate Fund, COM (2021) 568.",
+        "id": "2020/21:FPM135",
         "shortcuts": [],
         "attachments": [
             {
-                "name": "Förordning om hållbara bränslen inom luftfarten, 2020/21:FPM 139 (pdf 109 kB)",
-                "url": "/contentassets/651afaa009b44d54ab92d8160d067481/forordning-om-hallbara-branslen-inom-luftfarten-202021fpm-139.pdf"
+                "name": "Förordning om att inrätta en social klimatfond, 2020/21:FPM 135 (pdf 131 kB)",
+                "url": "/contentassets/4feaca043173451b96b98989140eff82/forordning-om-att-inratta-en-social-klimatfond-202021fpm-135.pdf"
             }
         ],
         "categories": [
-            "1252",
-            "1274",
+            "1232",
             "1012"
         ]
     },
@@ -12944,31 +13242,6 @@
         ],
         "categories": [
             "1252",
-            "1012"
-        ]
-    },
-    {
-        "title": "Förordning om att inrätta en social klimatfond",
-        "url": "/faktapromemoria/2021/08/202021fpm-135/",
-        "published": "2021-08-31",
-        "updated": null,
-        "types": [
-            "2540"
-        ],
-        "senders": [
-            "1285"
-        ],
-        "summary": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a Social Climate Fund, COM (2021) 568.",
-        "id": "2020/21:FPM135",
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Förordning om att inrätta en social klimatfond, 2020/21:FPM 135 (pdf 131 kB)",
-                "url": "/contentassets/4feaca043173451b96b98989140eff82/forordning-om-att-inratta-en-social-klimatfond-202021fpm-135.pdf"
-            }
-        ],
-        "categories": [
-            "1232",
             "1012"
         ]
     },
@@ -13439,32 +13712,6 @@
         ]
     },
     {
-        "title": "Meddelande om ett modernt regelverk för företagsbeskattning i EU",
-        "url": "/faktapromemoria/2021/06/202021fpm-116/",
-        "published": "2021-06-21",
-        "updated": null,
-        "types": [
-            "2540"
-        ],
-        "senders": [
-            "1285"
-        ],
-        "summary": "Faktapromemoria gällande MEDDELANDE FRÅN KOMMISSIONEN TILL EUROPAPARLAMENTET OCH RÅDET Företagsbeskattning för 2000-talet, COM (2021) 251 . Kommissionens rekommendation (EU) 2021/801 av den 18 maj 2021 om den skattemässiga behandlingen av förluster under covid-19-krisen, C (2021) 3484.",
-        "id": "2020/21:FPM116",
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Meddelande om ett modernt regelverk för företagsbeskattning i EU, 2020/21:FPM116 (pdf 168 kB)",
-                "url": "/contentassets/8ea6aa500beb44b2b30659076c8251ea/meddelande-om-ett-modernt-regelverk-for-foretagsbeskattning-i-eu-202021fpm116.pdf"
-            }
-        ],
-        "categories": [
-            "1232",
-            "1267",
-            "1012"
-        ]
-    },
-    {
         "title": "Kommissionens meddelande om strategi för en hållbar blå ekonomi i EU - Omställningen av EU:s blå ekonomi för en hållbar framtid",
         "url": "/faktapromemoria/2021/06/202021fpm-115/",
         "published": "2021-06-21",
@@ -13488,6 +13735,32 @@
             "1252",
             "1257",
             "1274",
+            "1012"
+        ]
+    },
+    {
+        "title": "Meddelande om ett modernt regelverk för företagsbeskattning i EU",
+        "url": "/faktapromemoria/2021/06/202021fpm-116/",
+        "published": "2021-06-21",
+        "updated": null,
+        "types": [
+            "2540"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "Faktapromemoria gällande MEDDELANDE FRÅN KOMMISSIONEN TILL EUROPAPARLAMENTET OCH RÅDET Företagsbeskattning för 2000-talet, COM (2021) 251 . Kommissionens rekommendation (EU) 2021/801 av den 18 maj 2021 om den skattemässiga behandlingen av förluster under covid-19-krisen, C (2021) 3484.",
+        "id": "2020/21:FPM116",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Meddelande om ett modernt regelverk för företagsbeskattning i EU, 2020/21:FPM116 (pdf 168 kB)",
+                "url": "/contentassets/8ea6aa500beb44b2b30659076c8251ea/meddelande-om-ett-modernt-regelverk-for-foretagsbeskattning-i-eu-202021fpm116.pdf"
+            }
+        ],
+        "categories": [
+            "1232",
+            "1267",
             "1012"
         ]
     },
@@ -14468,6 +14741,31 @@
         ]
     },
     {
+        "title": "Förordning om en kontaktpunkt för tullen i EU",
+        "url": "/faktapromemoria/2020/12/202021fpm40/",
+        "published": "2020-12-02",
+        "updated": null,
+        "types": [
+            "2540"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och rådets förordning om inrättande av en miljö med en enda kontaktpunkt för tullen i EU och om ändring av förordning (EU) nr 952/2013.  COM(2020) 673",
+        "id": "2020/21:FPM40",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Förordning om en kontaktpunkt för tullen i EU 2020/21:FPM40 (pdf 142 kB)",
+                "url": "/contentassets/4e5a10a06a8a40629373b9eb91f3e0d5/forordning-om-en-kontaktpunkt-for-tullen-i-eu-2020_21_fpm40.pdf"
+            }
+        ],
+        "categories": [
+            "1267",
+            "1012"
+        ]
+    },
+    {
         "title": "Direktiv om tillräckliga minimilöner i Europeiska unionen",
         "url": "/faktapromemoria/2020/12/202021fpm41/",
         "published": "2020-12-02",
@@ -14490,31 +14788,6 @@
         "categories": [
             "1213",
             "2096",
-            "1012"
-        ]
-    },
-    {
-        "title": "Förordning om en kontaktpunkt för tullen i EU",
-        "url": "/faktapromemoria/2020/12/202021fpm40/",
-        "published": "2020-12-02",
-        "updated": null,
-        "types": [
-            "2540"
-        ],
-        "senders": [
-            "1285"
-        ],
-        "summary": "Faktapromemoria gällande förslag till Europaparlamentets och rådets förordning om inrättande av en miljö med en enda kontaktpunkt för tullen i EU och om ändring av förordning (EU) nr 952/2013.  COM(2020) 673",
-        "id": "2020/21:FPM40",
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Förordning om en kontaktpunkt för tullen i EU 2020/21:FPM40 (pdf 142 kB)",
-                "url": "/contentassets/4e5a10a06a8a40629373b9eb91f3e0d5/forordning-om-en-kontaktpunkt-for-tullen-i-eu-2020_21_fpm40.pdf"
-            }
-        ],
-        "categories": [
-            "1267",
             "1012"
         ]
     },
@@ -14801,6 +15074,56 @@
         ]
     },
     {
+        "title": "Förordning om digital operativ motståndskraft i den finansiella sektorn",
+        "url": "/faktapromemoria/2020/10/202021fpm16/",
+        "published": "2020-10-26",
+        "updated": null,
+        "types": [
+            "2540"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "Förslag till EU-parlamentets och rådets förordning om digital operativ motståndskraft i den finansiella sektorn och ändring av förordning (EU) 1060/2012, (EU) 600/2014 och (EU) 909/2014. COM(2020) 595",
+        "id": "2020/21:FPM16",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Förordning om digital operativ motståndskraft i den finansiella sektorn 2020/21:FPM16 (pdf 230 kB)",
+                "url": "/contentassets/600db25420ed4762914849b07137e837/forordning-om-digital-operativ-motstandskraft-i-den-finansiella-sektorn-2020_21_fpm16.pdf"
+            }
+        ],
+        "categories": [
+            "1231",
+            "1012"
+        ]
+    },
+    {
+        "title": "EU-strategi för massbetalningar",
+        "url": "/faktapromemoria/2020/10/202021fpm14/",
+        "published": "2020-10-26",
+        "updated": null,
+        "types": [
+            "2540"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "Meddelande från kommissionen till Europaparlamentet, rådet, Europeiska ekonomiska och sociala kommittén samt Regionkommittén om en EU-strategi för massbetalningar. COM(2020) 592",
+        "id": "2020/21:FPM14",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "EU-strategi för massbetalningar 2020/21:FPM14 (pdf 236 kB)",
+                "url": "/contentassets/7048aa23ce54431e8bd2af5dfc5a03a7/eu-strategi-for-massbetalningar-2020_21_fpm14.pdf"
+            }
+        ],
+        "categories": [
+            "1240",
+            "1012"
+        ]
+    },
+    {
         "title": "En kapitalmarknadsunion för människor och företag - en ny handlingsplan",
         "url": "/faktapromemoria/2020/10/202021fpm12/",
         "published": "2020-10-26",
@@ -14843,56 +15166,6 @@
             {
                 "name": "Marknader för kryptotillgångar och en pilotregim för distribuerad databasteknik 2020/21:FPM15 (pdf 242 kB)",
                 "url": "/contentassets/dc989b32e59e4217a67cab9db16c6945/marknader-for-kryptotillgangar-och-en-pilotregim-for-distribuerad-databasteknik-2020_21_fpm15.pdf"
-            }
-        ],
-        "categories": [
-            "1231",
-            "1012"
-        ]
-    },
-    {
-        "title": "EU-strategi för massbetalningar",
-        "url": "/faktapromemoria/2020/10/202021fpm14/",
-        "published": "2020-10-26",
-        "updated": null,
-        "types": [
-            "2540"
-        ],
-        "senders": [
-            "1285"
-        ],
-        "summary": "Meddelande från kommissionen till Europaparlamentet, rådet, Europeiska ekonomiska och sociala kommittén samt Regionkommittén om en EU-strategi för massbetalningar. COM(2020) 592",
-        "id": "2020/21:FPM14",
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "EU-strategi för massbetalningar 2020/21:FPM14 (pdf 236 kB)",
-                "url": "/contentassets/7048aa23ce54431e8bd2af5dfc5a03a7/eu-strategi-for-massbetalningar-2020_21_fpm14.pdf"
-            }
-        ],
-        "categories": [
-            "1240",
-            "1012"
-        ]
-    },
-    {
-        "title": "Förordning om digital operativ motståndskraft i den finansiella sektorn",
-        "url": "/faktapromemoria/2020/10/202021fpm16/",
-        "published": "2020-10-26",
-        "updated": null,
-        "types": [
-            "2540"
-        ],
-        "senders": [
-            "1285"
-        ],
-        "summary": "Förslag till EU-parlamentets och rådets förordning om digital operativ motståndskraft i den finansiella sektorn och ändring av förordning (EU) 1060/2012, (EU) 600/2014 och (EU) 909/2014. COM(2020) 595",
-        "id": "2020/21:FPM16",
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Förordning om digital operativ motståndskraft i den finansiella sektorn 2020/21:FPM16 (pdf 230 kB)",
-                "url": "/contentassets/600db25420ed4762914849b07137e837/forordning-om-digital-operativ-motstandskraft-i-den-finansiella-sektorn-2020_21_fpm16.pdf"
             }
         ],
         "categories": [

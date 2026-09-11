@@ -8,7 +8,14 @@
         "senders": [
             "1295"
         ],
-        "summary": "Utrikesdepartementet avråder från icke nödvändiga resor till Jordaniens gränsområde mot Syrien och Irak, upp till ett avstånd om 3 kilometer från gränsen. Avrådan gäller inte staden Um Qais och huvudvägarna till och från Um Qais."
+        "summary": "Utrikesdepartementet avråder från icke nödvändiga resor till Jordaniens gränsområde mot Syrien och Irak, upp till ett avstånd om 3 kilometer från gränsen. Avrådan gäller inte staden Um Qais och huvudvägarna till och från Um Qais.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1089"
+        ]
     },
     {
         "title": "Israel - avrådan",
@@ -19,7 +26,14 @@
         "senders": [
             "1295"
         ],
-        "summary": "Utrikesdepartementet avråder från alla resor till gränsområdena mot Gaza och Libanon inom ett avstånd av fem kilometer från respektive gräns. UD avråder även från alla resor till Golanhöjderna.\n\nVidare avråder UD från icke nödvändiga resor till övriga Israel.\n\nBeslut om avrådan togs den 20 augusti 2026 och gäller tills vidare."
+        "summary": "Utrikesdepartementet avråder från alla resor till gränsområdena mot Gaza och Libanon inom ett avstånd av fem kilometer från respektive gräns. UD avråder även från alla resor till Golanhöjderna.\n\nVidare avråder UD från icke nödvändiga resor till övriga Israel.\n\nBeslut om avrådan togs den 20 augusti 2026 och gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1084"
+        ]
     },
     {
         "title": "Palestina - avrådan",
@@ -30,7 +44,14 @@
         "senders": [
             "1295"
         ],
-        "summary": "Utrikesdepartementet avråder från alla resor till Gaza samt till Västbanken, med undantag för städerna Ramallah, Jeriko och Betlehem, från vilka UD avråder från icke nödvändiga resor. \n\nBeslut om avrådan togs den 20 augusti 2026 och gäller tills vidare."
+        "summary": "Utrikesdepartementet avråder från alla resor till Gaza samt till Västbanken, med undantag för städerna Ramallah, Jeriko och Betlehem, från vilka UD avråder från icke nödvändiga resor. \n\nBeslut om avrådan togs den 20 augusti 2026 och gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1147"
+        ]
     },
     {
         "title": "Bolivia - avrådan",
@@ -41,7 +62,19 @@
         "senders": [
             "1295"
         ],
-        "summary": "Utrikesdepartementet avråder från alla resor till provinsen Chapare. \n\nBeslut om avrådan togs den 16 juli 2026 och gäller tills vidare."
+        "summary": "Utrikesdepartementet avråder från alla resor till provinsen Chapare. \n\nBeslut om avrådan togs den 16 juli 2026 och gäller tills vidare.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Reseinformation för Bolivia - på Sweden Abroad- extern webbplats,",
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/bolivia/reseinformation/ambassadens-reseinformation/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1034"
+        ]
     },
     {
         "title": "Etiopien – avrådan",
@@ -52,7 +85,14 @@
         "senders": [
             "1295"
         ],
-        "summary": "Beslut om ändrad avrådan togs den 13 juli 2026. Avrådan gäller tills vidare."
+        "summary": "Beslut om ändrad avrådan togs den 13 juli 2026. Avrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1059"
+        ]
     },
     {
         "title": "Förenade arabemiraten – borttagen avrådan",
@@ -63,7 +103,19 @@
         "senders": [
             "1295"
         ],
-        "summary": "Beslut om borttagen avrådan togs den 3 juli 2026.\n\nUtrikesdepartementet avråder inte längre från icke nödvändiga resor till Förenade arabemiraten."
+        "summary": "Beslut om borttagen avrådan togs den 3 juli 2026.\n\nUtrikesdepartementet avråder inte längre från icke nödvändiga resor till Förenade arabemiraten.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Reseinformation för Förenade arabemiraten - på Sweden Abroad- extern webbplats,",
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/förenade-arabemiraten/reseinformation/ambassadens-reseinformation/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1064"
+        ]
     },
     {
         "title": "Saudiarabien – lättad avrådan",
@@ -74,7 +126,14 @@
         "senders": [
             "1295"
         ],
-        "summary": "Utrikesdepartementet avråder inte längre från icke nödvändiga resor till Saudiarabien.\n\nUtrikesdepartementet avråder fortsatt från alla resor till Saudiarabiens gränsområde mot Jemen, upp till ett avstånd om 50 kilometer från den jemenitiska gränsen.\n\nBeslutet togs den 3 juli 2026."
+        "summary": "Utrikesdepartementet avråder från alla resor till Saudiarabiens gränsområde mot Jemen, upp till ett avstånd om 50 kilometer från den jemenitiska gränsen.\n\nBeslutet togs den 3 juli 2026.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1165"
+        ]
     },
     {
         "title": "Qatar – borttagen avrådan",
@@ -85,7 +144,19 @@
         "senders": [
             "1295"
         ],
-        "summary": "Beslut om borttagen avrådan togs den 3 juli 2026.\n\nUtrikesdepartementet avråder inte längre från icke nödvändiga resor till Qatar."
+        "summary": "Beslut om borttagen avrådan togs den 3 juli 2026.\n\nUtrikesdepartementet avråder inte längre från icke nödvändiga resor till Qatar.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Reseinformation för Qatar - på Sweden Abroad- extern webbplats,",
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/qatar/reseinformation/ambassadens-reseinformation/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1154"
+        ]
     },
     {
         "title": "Panama - avrådan",
@@ -262,7 +333,12 @@
         ],
         "summary": "Med anledning av ett försämrat säkerhetsläge avråder Utrikesdepartementet från icke nödvändiga resor till Bahrain. \n\nBeslut om avrådan togs 28 februari 2026. Avrådan gäller tills vidare.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Reseinformation för Bahrain - på Sweden Abroad- extern webbplats,",
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/bahrain/reseinformation/ambassadens-reseinformation/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2204",
@@ -280,7 +356,12 @@
         ],
         "summary": "Med anledning av ett försämrat säkerhetsläge avråder Utrikesdepartementet från icke nödvändiga resor Kuwait.\n \nBeslut om avrådan togs 28 februari 2026. Avrådan gäller tills vidare.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Reseinformation för Kuwait - på Sweden Abroad- extern webbplats,",
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/kuwait/reseinformation/ambassadens-reseinformation/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "2204",
@@ -301,7 +382,7 @@
         "shortcuts": [
             {
                 "name": "Reseinformation för Kuba – på Sweden Abroad- extern webbplats,",
-                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/kuba/reseinformation/ambassadens-reseinformation/"
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/kuba/reseinformation/ambassadens-reseinformation/"
             }
         ],
         "attachments": [],
@@ -330,7 +411,7 @@
     },
     {
         "title": "Armenien - avrådan",
-        "url": "/ud-avrader/armenien---avradan/",
+        "url": "/ud-avrader/armenien-avradan/",
         "published": "2026-01-28",
         "updated": null,
         "types": [],
@@ -472,24 +553,6 @@
         ]
     },
     {
-        "title": "Pakistan - avrådan",
-        "url": "/ud-avrader/pakistan---avradan/",
-        "published": "2025-05-07",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till provinserna Khyber-Pakhtunkhwa och Baluchistan i Pakistan (beslutat den 24 januari 2005), från alla resor till den Pakistan-kontrollerade delen av Kashmir, samt från alla resor inom 10 km från gränsen mellan Pakistan och Indien (beslutat den 7 maj 2025).\n\nAvrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1145"
-        ]
-    },
-    {
         "title": "Indien - avrådan",
         "url": "/ud-avrader/indien---avradan/",
         "published": "2025-05-07",
@@ -508,6 +571,24 @@
         ]
     },
     {
+        "title": "Pakistan - avrådan",
+        "url": "/ud-avrader/pakistan---avradan/",
+        "published": "2025-05-07",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från alla resor till provinserna Khyber-Pakhtunkhwa och Baluchistan i Pakistan (beslutat den 24 januari 2005), från alla resor till den Pakistan-kontrollerade delen av Kashmir, samt från alla resor inom 10 km från gränsen mellan Pakistan och Indien (beslutat den 7 maj 2025).\n\nAvrådan gäller tills vidare.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1145"
+        ]
+    },
+    {
         "title": "Moçambique - avrådan",
         "url": "/ud-avrader/mocambique---avradan/",
         "published": "2025-05-05",
@@ -521,7 +602,7 @@
         "shortcuts": [
             {
                 "name": "Reseinformation från svenska ambassaden i Moҫambique- extern webbplats,",
-                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/mo%C3%A7ambique/reseinformation/ambassadens-reseinformation-mo%C3%A7ambique/"
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/moçambique/reseinformation/ambassadens-reseinformation-moçambique/"
             }
         ],
         "attachments": [],
@@ -580,7 +661,7 @@
         "shortcuts": [
             {
                 "name": "Ambassadens reseinformation - Kigali, Rwanda- extern webbplats,",
-                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/rwanda/reseinformation/ambassadens-reseinformation/"
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/rwanda/reseinformation/ambassadens-reseinformation/"
             }
         ],
         "attachments": [],
@@ -603,7 +684,7 @@
         "shortcuts": [
             {
                 "name": "Reseinformation för Bangladesh - på Sweden Abroad- extern webbplats,",
-                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/bangladesh/reseinformation/ambassadens-reseinformation/"
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/bangladesh/reseinformation/ambassadens-reseinformation/"
             }
         ],
         "attachments": [],
@@ -614,14 +695,13 @@
     },
     {
         "title": "Algeriet - avrådan",
-        "url": "/ud-avrader/avradan-till-algeriet/",
+        "url": "/ud-avrader/algeriet-avradan/",
         "published": "2024-07-12",
         "updated": null,
         "types": [],
         "senders": [
             "1295"
         ],
-        "summary": "Med anledning av förändringar i säkerhetsläget har UD den 12 juli 2024 beslutat om att ändra avrådan för Algeriet. Följande avrådan gäller:\n\nMed anledning av säkerhetsläget avråder UD från alla resor till:\n-\tOmrådet inom 30 km från gränsen till Tunisien söder om staden Tébessa\n-\tOmrådet inom 30 km från gränsen till Libyen\n-\tOmrådet inom 30 km från gränsen till Marocko och Västsahara\n-\tOmrådet inom 150 km från gränsen till Niger, Mali och Mauretanien\n\nVidare avråder UD från icke-nödvändiga resor till:\n-\tStaden Tindouf och flyktinglägren intill Tindouf\n\nTuristområdena Djanet och Tamanrasset omfattas inte, genom detta beslut, längre av någon avrådan. \n\nAvrådan gäller tills vidare.",
         "id": null,
         "shortcuts": [],
         "attachments": [],
@@ -662,8 +742,7 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "2204",
-            "1140"
+            "2204"
         ]
     },
     {
@@ -680,7 +759,7 @@
         "shortcuts": [
             {
                 "name": "Reseinformation på Sweden Abroad- extern webbplats,",
-                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/myanmar/reseinformation/ambassadens-reseinformation/"
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/myanmar/reseinformation/ambassadens-reseinformation/"
             }
         ],
         "attachments": [],
@@ -829,7 +908,7 @@
         "shortcuts": [
             {
                 "name": "Reseinformation från ambassaden i Moldavien- extern webbplats,",
-                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/moldavien/reseinformation/ambassadens-reseinformation/"
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/moldavien/reseinformation/ambassadens-reseinformation/"
             }
         ],
         "attachments": [],
@@ -852,7 +931,7 @@
         "shortcuts": [
             {
                 "name": "Reseinformation om Turkiet- extern webbplats,",
-                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/turkiet/reseinformation/reseinformation-om-turkiet/"
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/turkiet/reseinformation/reseinformation-om-turkiet/"
             }
         ],
         "attachments": [],
@@ -875,7 +954,7 @@
         "shortcuts": [
             {
                 "name": "Reseinformation om Ryssland- extern webbplats,",
-                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/ryssland/reseinformation/ambassadens-reseinformation/"
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/ryssland/reseinformation/ambassadens-reseinformation/"
             }
         ],
         "attachments": [],
@@ -898,7 +977,7 @@
         "shortcuts": [
             {
                 "name": "Reseinformation om Belarus- extern webbplats,",
-                "url": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/belarus/reseinformation/ambassadens-reseinformation/"
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/belarus/reseinformation/ambassadens-reseinformation/"
             }
         ],
         "attachments": [],
@@ -927,7 +1006,7 @@
     },
     {
         "title": "Afghanistan - avrådan",
-        "url": "/ud-avrader/avradan-till-afghanistan/",
+        "url": "/ud-avrader/afghanistan-avradan/",
         "published": "2014-12-17",
         "updated": "2021-08-05",
         "types": [],
@@ -1041,7 +1120,7 @@
         "senders": [
             "1295"
         ],
-        "summary": "Med anledning av säkerhetsläget avråder UD från resor till stora delar av ögruppen Mindanao i Filippinerna. Avrådan omfattar alla resor till de centrala, södra och västra delarna av Mindanao (provinserna Cotabato, South Cotabato, Lanao del Sur, Lanao del Norte, Zamboanga del Sur, Zamboanga del Norte, Zamboanga Sibugay, Maguindanao, Misamis Occidental, Sarangani, Sultan Kudarat, Basilan, Sulu och Tawi-Tawi). \n \nFrån och med 13 juli 2018 avråder UD från icke-nödvändiga resor till övriga delar av Mindanao. Ön Siargao, belägen i nordöstra Mindanao, omfattas inte av Utrikesdepartementets avrådan.",
+        "summary": "UD avråder från alla resor till stora delar av ögruppen Mindanao i Filippinerna. Avrådan omfattar alla resor till de centrala, södra och västra delarna av Mindanao (provinserna Cotabato, South Cotabato, Lanao del Sur, Lanao del Norte, Zamboanga del Sur, Zamboanga del Norte, Zamboanga Sibugay, Maguindanao, Misamis Occidental, Sarangani, Sultan Kudarat, Basilan, Sulu och Tawi-Tawi). \n \nUD avråder från icke-nödvändiga resor till övriga delar av Mindanao. Ön Siargao, belägen i nordöstra Mindanao, omfattas inte av Utrikesdepartementets avrådan. \n\nAvrådan gäller tills vidare.",
         "id": null,
         "shortcuts": [],
         "attachments": [],

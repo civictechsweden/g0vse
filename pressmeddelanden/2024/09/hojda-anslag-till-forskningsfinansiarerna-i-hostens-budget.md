@@ -16,15 +16,15 @@ Regeringens ambition med satsningarna är även att ytterligare stärka det sven
 
 Forskningsfinansiärerna har till uppgift att finansiera forskning eller innovation i Sverige. Inriktningen av medelstillskotten till dem är mot forskningsinfrastruktur, excellent forskning samt forskning och innovation inom banbrytande teknik. I tabellen nedan presenteras höjningen av anslagen de kommande åren.
 
-| **År** | **2025 (mnkr)** | **2026 (mnkr)** | **2027 (mnkr)** | **2028 (mnkr)** |
-| --- | --- | --- | --- | --- |
-| Vetenskapsrådet | 595 | 995 | 1591 | 2585 |
-| Vinnova | 317 | 528 | 844 | 1372 |
-| Formas | 74 | 123 | 197 | 319 |
-| Forte | 62 | 102 | 164 | 267 |
-| Rymdstyrelsen | 48 | 80 | 128 | 208 |
-| RISE | 27 | 45 | 72 | 117 |
-| **Totalt forskningsråd och institut** | **1123** | **1873** | **2996** | **4868** |
+| **År**                                | **2025 (mnkr)** | **2026 (mnkr)** | **2027 (mnkr)** | **2028 (mnkr)** |
+| ------------------------------------- | --------------- | --------------- | --------------- | --------------- |
+| Vetenskapsrådet                       | 595             | 995             | 1591            | 2585            |
+| Vinnova                               | 317             | 528             | 844             | 1372            |
+| Formas                                | 74              | 123             | 197             | 319             |
+| Forte                                 | 62              | 102             | 164             | 267             |
+| Rymdstyrelsen                         | 48              | 80              | 128             | 208             |
+| RISE                                  | 27              | 45              | 72              | 117             |
+| **Totalt forskningsråd och institut** | **1123**        | **1873**        | **2996**        | **4868**        |
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
@@ -44,14 +44,14 @@ Regeringens ambition med satsningarna är även att ytterligare stärka det sven
 
 Forskningsfinansiärerna har till uppgift att finansiera forskning eller innovation i Sverige. Inriktningen av medelstillskotten till dem är mot forskningsinfrastruktur, excellent forskning samt forskning och innovation inom banbrytande teknik. I tabellen nedan presenteras höjningen av anslagen de kommande åren.
 
-| **År** | **2025 (mnkr)** | **2026 (mnkr)** | **2027 (mnkr)** | **2028 (mnkr)** |
-| --- | --- | --- | --- | --- |
-| Vetenskapsrådet | 595 | 995 | 1591 | 2585 |
-| Vinnova | 317 | 528 | 844 | 1372 |
-| Formas | 74 | 123 | 197 | 319 |
-| Forte | 62 | 102 | 164 | 267 |
-| Rymdstyrelsen | 48 | 80 | 128 | 208 |
-| RISE | 27 | 45 | 72 | 117 |
-| **Totalt forskningsråd och institut** | **1123** | **1873** | **2996** | **4868** |
+| **År**                                | **2025 (mnkr)** | **2026 (mnkr)** | **2027 (mnkr)** | **2028 (mnkr)** |
+| ------------------------------------- | --------------- | --------------- | --------------- | --------------- |
+| Vetenskapsrådet                       | 595             | 995             | 1591            | 2585            |
+| Vinnova                               | 317             | 528             | 844             | 1372            |
+| Formas                                | 74              | 123             | 197             | 319             |
+| Forte                                 | 62              | 102             | 164             | 267             |
+| Rymdstyrelsen                         | 48              | 80              | 128             | 208             |
+| RISE                                  | 27              | 45              | 72              | 117             |
+| **Totalt forskningsråd och institut** | **1123**        | **1873**        | **2996**        | **4868**        |
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

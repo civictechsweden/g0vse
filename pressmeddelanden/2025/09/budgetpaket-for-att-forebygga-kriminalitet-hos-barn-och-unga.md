@@ -64,19 +64,19 @@ För detta har regeringen sedan tidigare avsatt 20 miljoner kronor per år till 
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Förebyggande insatser (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Verktyg för socialtjänsten när samtycke saknas** | 8 | 537,2 | 538,7 |
-| **Förstärkning SiS** | 374 | 404 | 727 |
-| **Inrätta nya särskilda ungdomshem** | 200 |  |  |
-| **Förstärkt trygghet och säkerhet på SiS-hem** | 50 | 44,8 | 44,8 |
-| **Skolsociala team** | 100 | 100 | 400 |
-| **Stödet till avhoppare utan hotbild** | 100 | 100 | 100 |
-| **Förstärkt stöd till arbetet med avhoppare** | 10 | 10 | 10 |
-| **Placeringssubvention i barn- och ungdomsvården** | 100 | 500 |  |
-| **Familjecentraler i utanförskapsområden** | 20 | 20 | 20 |
-| **Fler förstärkningsteam** | 10 | 10 | 10 |
+| **Förebyggande insatser (mnkr)**                   | | | |
+| -------------------------------------------------- | -------- | -------- | -------- |
+|                                                    | **2026** | **2027** | **2028** |
+| **Verktyg för socialtjänsten när samtycke saknas** | 8        | 537,2    | 538,7    |
+| **Förstärkning SiS**                               | 374      | 404      | 727      |
+| **Inrätta nya särskilda ungdomshem**               | 200      |          |          |
+| **Förstärkt trygghet och säkerhet på SiS-hem**     | 50       | 44,8     | 44,8     |
+| **Skolsociala team**                               | 100      | 100      | 400      |
+| **Stödet till avhoppare utan hotbild**             | 100      | 100      | 100      |
+| **Förstärkt stöd till arbetet med avhoppare**      | 10       | 10       | 10       |
+| **Placeringssubvention i barn- och ungdomsvården** | 100      | 500      |          |
+| **Familjecentraler i utanförskapsområden**         | 20       | 20       | 20       |
+| **Fler förstärkningsteam**                         | 10       | 10       | 10       |
 
 
 
@@ -144,16 +144,16 @@ För detta har regeringen sedan tidigare avsatt 20 miljoner kronor per år till 
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Förebyggande insatser (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Verktyg för socialtjänsten när samtycke saknas** | 8 | 537,2 | 538,7 |
-| **Förstärkning SiS** | 374 | 404 | 727 |
-| **Inrätta nya särskilda ungdomshem** | 200 |  |  |
-| **Förstärkt trygghet och säkerhet på SiS-hem** | 50 | 44,8 | 44,8 |
-| **Skolsociala team** | 100 | 100 | 400 |
-| **Stödet till avhoppare utan hotbild** | 100 | 100 | 100 |
-| **Förstärkt stöd till arbetet med avhoppare** | 10 | 10 | 10 |
-| **Placeringssubvention i barn- och ungdomsvården** | 100 | 500 |  |
-| **Familjecentraler i utanförskapsområden** | 20 | 20 | 20 |
-| **Fler förstärkningsteam** | 10 | 10 | 10 |
+| **Förebyggande insatser (mnkr)**                   | | | |
+| -------------------------------------------------- | -------- | -------- | -------- |
+|                                                    | **2026** | **2027** | **2028** |
+| **Verktyg för socialtjänsten när samtycke saknas** | 8        | 537,2    | 538,7    |
+| **Förstärkning SiS**                               | 374      | 404      | 727      |
+| **Inrätta nya särskilda ungdomshem**               | 200      |          |          |
+| **Förstärkt trygghet och säkerhet på SiS-hem**     | 50       | 44,8     | 44,8     |
+| **Skolsociala team**                               | 100      | 100      | 400      |
+| **Stödet till avhoppare utan hotbild**             | 100      | 100      | 100      |
+| **Förstärkt stöd till arbetet med avhoppare**      | 10       | 10       | 10       |
+| **Placeringssubvention i barn- och ungdomsvården** | 100      | 500      |          |
+| **Familjecentraler i utanförskapsområden**         | 20       | 20       | 20       |
+| **Fler förstärkningsteam**                         | 10       | 10       | 10       |

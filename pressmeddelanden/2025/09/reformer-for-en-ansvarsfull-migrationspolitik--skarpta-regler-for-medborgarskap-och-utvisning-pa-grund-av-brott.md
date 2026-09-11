@@ -29,11 +29,11 @@ Att ha kunskaper i det svenska språket och att förstå hur samhället är orga
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Reformer för en ansvarsfull migrationspolitik – skärpta regler för medborgarskap och utvisning på grund av brott (mnr)** | | | | |
-| --- | --- | --- | --- | --- |
-|  | **2025** | **2026** | **2027** | **2028** |
-| **Skärpta regler om utvisning på grund av brott** |  | 84 | 350 | 350 |
-| **Medborgarskapet uppvärderas genom skärpta krav på bl.a. vistelsetid** |  | 30 | 17 | 17 |
-| **Kunskapskrav införs för att förvärva medborgarskap** | 24 | 88 | 95 | 137 |
+| -------------------------------------------------------------------------------------------------------------------------- | -------- | -------- | -------- | -------- |
+|                                                                                                                            | **2025** | **2026** | **2027** | **2028** |
+| **Skärpta regler om utvisning på grund av brott**                                                                          |          | 84       | 350      | 350      |
+| **Medborgarskapet uppvärderas genom skärpta krav på bl.a. vistelsetid**                                                    |          | 30       | 17       | 17       |
+| **Kunskapskrav införs för att förvärva medborgarskap**                                                                     | 24       | 88       | 95       | 137      |
 
 
 
@@ -66,8 +66,8 @@ Att ha kunskaper i det svenska språket och att förstå hur samhället är orga
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Reformer för en ansvarsfull migrationspolitik – skärpta regler för medborgarskap och utvisning på grund av brott (mnr)** | | | | |
-| --- | --- | --- | --- | --- |
-|  | **2025** | **2026** | **2027** | **2028** |
-| **Skärpta regler om utvisning på grund av brott** |  | 84 | 350 | 350 |
-| **Medborgarskapet uppvärderas genom skärpta krav på bl.a. vistelsetid** |  | 30 | 17 | 17 |
-| **Kunskapskrav införs för att förvärva medborgarskap** | 24 | 88 | 95 | 137 |
+| -------------------------------------------------------------------------------------------------------------------------- | -------- | -------- | -------- | -------- |
+|                                                                                                                            | **2025** | **2026** | **2027** | **2028** |
+| **Skärpta regler om utvisning på grund av brott**                                                                          |          | 84       | 350      | 350      |
+| **Medborgarskapet uppvärderas genom skärpta krav på bl.a. vistelsetid**                                                    |          | 30       | 17       | 17       |
+| **Kunskapskrav införs för att förvärva medborgarskap**                                                                     | 24       | 88       | 95       | 137      |

@@ -19,10 +19,10 @@ Det civila samhället med över 2500 allmänna samlingslokaler i Sverige har en 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | Medel för ökad service och gemenskap i landsbygder (mnkr) | |
-| --- | --- |
-|  | **2026** |
-| Glesbygdsbidrag till apotek | 10 |
-| Medel till Bygdegårdarnas riksförbund | 6 |
+| --------------------------------------------------------- | -------- |
+|                                                           | **2026** |
+| Glesbygdsbidrag till apotek                               | 10       |
+| Medel till Bygdegårdarnas riksförbund                     | 6        |
 
 
 
@@ -45,7 +45,7 @@ Det civila samhället med över 2500 allmänna samlingslokaler i Sverige har en 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | Medel för ökad service och gemenskap i landsbygder (mnkr) | |
-| --- | --- |
-|  | **2026** |
-| Glesbygdsbidrag till apotek | 10 |
-| Medel till Bygdegårdarnas riksförbund | 6 |
+| --------------------------------------------------------- | -------- |
+|                                                           | **2026** |
+| Glesbygdsbidrag till apotek                               | 10       |
+| Medel till Bygdegårdarnas riksförbund                     | 6        |

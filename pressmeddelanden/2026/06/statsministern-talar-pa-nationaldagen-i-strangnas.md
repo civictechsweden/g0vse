@@ -1,6 +1,6 @@
 # Statsministern talar på nationaldagen i Strängnäs
 
-På nationaldagen deltar statsministern vid ett nationaldagsfirande i Strängnäs. Under firandet håller statsministern ett tal kl. 13.25 i Ugglans Park.
+På nationaldagen deltar statsministern vid ett nationaldagsfirande i Strängnäs. Under firandet håller statsministern ett tal kl. 13.25 i Ugglans park.
 
 Talet kommer att spelas in och går att ta del av i efterhand på regeringens webbplats och Regeringskansliets Youtubekanal.
 
@@ -8,7 +8,7 @@ Talet kommer att spelas in och går att ta del av i efterhand på regeringens we
 
 Statsministern deltar även vid Skansens nationaldagsfirande och på en nationaldagsmottagning på Kungliga Slottet.
 
-På nationaldagen deltar statsministern vid ett nationaldagsfirande i Strängnäs. Under firandet håller statsministern ett tal kl. 13.25 i Ugglans Park.
+På nationaldagen deltar statsministern vid ett nationaldagsfirande i Strängnäs. Under firandet håller statsministern ett tal kl. 13.25 i Ugglans park.
 
 Talet kommer att spelas in och går att ta del av i efterhand på regeringens webbplats och Regeringskansliets Youtubekanal.
 

@@ -34,12 +34,12 @@ I budgetpropositionen för 2026 föreslår regeringen en förstärkt satsning p�
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Satsningar för psykisk hälsa (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | 2026 | 2027 | 2028 |
-| **Storsatsning för vuxenpsykiatrin** | 1500 | 1500 | 1200 |
-| **Bättre vård för personer med skadligt bruk, beroende och samsjuklighet** | 50 | 400 | 400 |
-| **Nationella suicidutredningar** | 40 | 39 | 39 |
+| **Satsningar för psykisk hälsa (miljoner kronor)**                         | | | |
+| -------------------------------------------------------------------------- | ---- | ---- | ---- |
+|                                                                            | 2026 | 2027 | 2028 |
+| **Storsatsning för vuxenpsykiatrin**                                       | 1500 | 1500 | 1200 |
+| **Bättre vård för personer med skadligt bruk, beroende och samsjuklighet** | 50   | 400  | 400  |
+| **Nationella suicidutredningar**                                           | 40   | 39   | 39   |
 
 
 
@@ -77,9 +77,9 @@ I budgetpropositionen för 2026 föreslår regeringen en förstärkt satsning p�
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Satsningar för psykisk hälsa (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | 2026 | 2027 | 2028 |
-| **Storsatsning för vuxenpsykiatrin** | 1500 | 1500 | 1200 |
-| **Bättre vård för personer med skadligt bruk, beroende och samsjuklighet** | 50 | 400 | 400 |
-| **Nationella suicidutredningar** | 40 | 39 | 39 |
+| **Satsningar för psykisk hälsa (miljoner kronor)**                         | | | |
+| -------------------------------------------------------------------------- | ---- | ---- | ---- |
+|                                                                            | 2026 | 2027 | 2028 |
+| **Storsatsning för vuxenpsykiatrin**                                       | 1500 | 1500 | 1200 |
+| **Bättre vård för personer med skadligt bruk, beroende och samsjuklighet** | 50   | 400  | 400  |
+| **Nationella suicidutredningar**                                           | 40   | 39   | 39   |

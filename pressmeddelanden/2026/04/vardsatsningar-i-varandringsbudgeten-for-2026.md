@@ -22,7 +22,7 @@ Satsningen beräknas fortsätta även kommande år.
 
 Sommaren skapar stora bemanningsproblem i vården när många har semester, samtidigt som vårdbehovet består eller på vissa platser till och med ökar. Fler patienter väntar länge på akuten och sommaren 2025 uppgav en tredjedel av Vårdförbundets förtroendevalda att det fanns obemannade arbetspass i sommarschemat, särskilt inom akut-, intensiv- och medicinsk vård. Många verksamheter behöver hyrpersonal för att klara bemanningen.
 
-För att möta dessa återkommande problem föreslår regeringen en särskild satsning inför sommaren 2026. Regionerna får totalt 250 miljoner kronor för att stärka bemanningen, både i primärvården och på sjukhusen. Beloppet motsvarar ungefär lönekostnaden för 7 500 sjuksköterskor under en månad och kan användas till exempelvis vikarier och hyrpersonal. För att bidra till att finansiera statsbidraget omfördelas 125 miljoner kronor som regeringen avsatt för att öka incitamenten för att implementera en nationell vårdförmedling.
+För att möta dessa återkommande problem föreslår regeringen en särskild satsning inför sommaren 2026. Regionerna får totalt 250 miljoner kronor för att stärka bemanningen, både i primärvården och på sjukhusen. Beloppet motsvarar ungefär lönekostnaden för 3 700 sjuksköterskor under en månad och kan användas till exempelvis vikarier och hyrpersonal. För att bidra till att finansiera statsbidraget omfördelas 125 miljoner kronor som regeringen avsatt för att öka incitamenten för att implementera en nationell vårdförmedling.
 
 Satsningen bygger vidare på Socialstyrelsens arbete att utveckla bättre metoder för personalplanering inför semestern. Myndigheten ska redovisa sina slutsatser i maj 2026.
 
@@ -40,14 +40,14 @@ Regeringen kommer även att ge Folkhälsomyndigheten i uppdrag att se över och 
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Vårdsatsningar** | |
-| --- | --- |
-|  | **2026** |
-| **Ökad möjlighet till IVF** | 327* |
-| **Sommarbemanning inom hälso- och sjukvården** | 250 |
-| **Omfördelning av medel för nationell vårdförmedling för att delfinansiera sommarbemanning inom hälso- och sjukvården** | -125 |
-| **Vaccinationspaket för äldre** | 112 |
-|  | *Varav 100 miljoner kronor omfördelas inom ramen för anslaget. |
+| **Vårdsatsningar**                                                                                                      | |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+|                                                                                                                         | **2026**                                                        |
+| **Ökad möjlighet till IVF**                                                                                             | 327\*                                                           |
+| **Sommarbemanning inom hälso- och sjukvården**                                                                          | 250                                                             |
+| **Omfördelning av medel för nationell vårdförmedling för att delfinansiera sommarbemanning inom hälso- och sjukvården** | -125                                                            |
+| **Vaccinationspaket för äldre**                                                                                         | 112                                                             |
+|                                                                                                                         | \*Varav 100 miljoner kronor omfördelas inom ramen för anslaget. |
 
 
 
@@ -73,7 +73,7 @@ Satsningen beräknas fortsätta även kommande år.
 
 Sommaren skapar stora bemanningsproblem i vården när många har semester, samtidigt som vårdbehovet består eller på vissa platser till och med ökar. Fler patienter väntar länge på akuten och sommaren 2025 uppgav en tredjedel av Vårdförbundets förtroendevalda att det fanns obemannade arbetspass i sommarschemat, särskilt inom akut-, intensiv- och medicinsk vård. Många verksamheter behöver hyrpersonal för att klara bemanningen.
 
-För att möta dessa återkommande problem föreslår regeringen en särskild satsning inför sommaren 2026. Regionerna får totalt 250 miljoner kronor för att stärka bemanningen, både i primärvården och på sjukhusen. Beloppet motsvarar ungefär lönekostnaden för 7 500 sjuksköterskor under en månad och kan användas till exempelvis vikarier och hyrpersonal. För att bidra till att finansiera statsbidraget omfördelas 125 miljoner kronor som regeringen avsatt för att öka incitamenten för att implementera en nationell vårdförmedling.
+För att möta dessa återkommande problem föreslår regeringen en särskild satsning inför sommaren 2026. Regionerna får totalt 250 miljoner kronor för att stärka bemanningen, både i primärvården och på sjukhusen. Beloppet motsvarar ungefär lönekostnaden för 3 700 sjuksköterskor under en månad och kan användas till exempelvis vikarier och hyrpersonal. För att bidra till att finansiera statsbidraget omfördelas 125 miljoner kronor som regeringen avsatt för att öka incitamenten för att implementera en nationell vårdförmedling.
 
 Satsningen bygger vidare på Socialstyrelsens arbete att utveckla bättre metoder för personalplanering inför semestern. Myndigheten ska redovisa sina slutsatser i maj 2026.
 
@@ -91,11 +91,11 @@ Regeringen kommer även att ge Folkhälsomyndigheten i uppdrag att se över och 
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Vårdsatsningar** | |
-| --- | --- |
-|  | **2026** |
-| **Ökad möjlighet till IVF** | 327* |
-| **Sommarbemanning inom hälso- och sjukvården** | 250 |
-| **Omfördelning av medel för nationell vårdförmedling för att delfinansiera sommarbemanning inom hälso- och sjukvården** | -125 |
-| **Vaccinationspaket för äldre** | 112 |
-|  | *Varav 100 miljoner kronor omfördelas inom ramen för anslaget. |
+| **Vårdsatsningar**                                                                                                      | |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+|                                                                                                                         | **2026**                                                        |
+| **Ökad möjlighet till IVF**                                                                                             | 327\*                                                           |
+| **Sommarbemanning inom hälso- och sjukvården**                                                                          | 250                                                             |
+| **Omfördelning av medel för nationell vårdförmedling för att delfinansiera sommarbemanning inom hälso- och sjukvården** | -125                                                            |
+| **Vaccinationspaket för äldre**                                                                                         | 112                                                             |
+|                                                                                                                         | \*Varav 100 miljoner kronor omfördelas inom ramen för anslaget. |

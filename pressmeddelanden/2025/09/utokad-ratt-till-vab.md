@@ -24,11 +24,11 @@ Regeringen föreslår att 55 miljoner kronor avsätts under 2026 för ökade utg
 
 Lagändringarna föreslås träda i kraft den 1 januari 2026. Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Stärkt rätt till tillfällig föräldrapenning (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Ökade utgifter för tillfällig föräldrapenning** | 55 | 55 | 55 |
-| **Medel till Försäkringskassan för ökad administration** | 19,1 | 18,6 | 18,6 |
+| **Stärkt rätt till tillfällig föräldrapenning (mnkr)**   | | | |
+| -------------------------------------------------------- | -------- | -------- | -------- |
+|                                                          | **2026** | **2027** | **2028** |
+| **Ökade utgifter för tillfällig föräldrapenning**        | 55       | 55       | 55       |
+| **Medel till Försäkringskassan för ökad administration** | 19,1     | 18,6     | 18,6     |
 
 
 
@@ -56,8 +56,8 @@ Regeringen föreslår att 55 miljoner kronor avsätts under 2026 för ökade utg
 
 Lagändringarna föreslås träda i kraft den 1 januari 2026. Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Stärkt rätt till tillfällig föräldrapenning (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Ökade utgifter för tillfällig föräldrapenning** | 55 | 55 | 55 |
-| **Medel till Försäkringskassan för ökad administration** | 19,1 | 18,6 | 18,6 |
+| **Stärkt rätt till tillfällig föräldrapenning (mnkr)**   | | | |
+| -------------------------------------------------------- | -------- | -------- | -------- |
+|                                                          | **2026** | **2027** | **2028** |
+| **Ökade utgifter för tillfällig föräldrapenning**        | 55       | 55       | 55       |
+| **Medel till Försäkringskassan för ökad administration** | 19,1     | 18,6     | 18,6     |

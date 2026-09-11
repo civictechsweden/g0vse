@@ -14,27 +14,27 @@ Paketet för större plånböcker innehåller följande förslag:
 
 För en familj med en polis och en sjuksköterska samt två barn, 3 och 5 år, som bor i ett icke-eluppvärmt hus innebär budgeten följande effekter per månad:
 
-| **Åtgärd** | **Familj med polis och sjuksköterska*, kr/mån** |
-| --- | --- |
-| Sänkt matmoms | 545 |
-| Sänkt skatt på arbetet | 802 |
-| Sänkt förskoleavgift | 375 |
-| Sänkt elskatt | 85 |
-| **Summa** | **1802** |
+| **Åtgärd**             | **Familj med polis och sjuksköterska\*, kr/mån** |
+| ---------------------- | ------------------------------------------------ |
+| Sänkt matmoms          | 545                                              |
+| Sänkt skatt på arbetet | 802                                              |
+| Sänkt förskoleavgift   | 375                                              |
+| Sänkt elskatt          | 85                                               |
+| **Summa**              | **1802**                                         |
 
 ***Anm.:** Gäller för familj med en polis och en sjuksköterska med två barn,
 3 och 5 år, i ett icke-eluppvärmt hus.
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Mer pengar i plånböckerna (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Sänkt skatt på arbete och pension** | 21 400 | 21 400 | 21 400 |
-| **Sänkt skatt på sjuk- och aktivitetsersättning** | 460 | 460 | 460 |
-| **Sänkt elskatt i hela landet** | 6 520 | 6 600 | 6 680 |
-| **Sänkt förskoleavgift (förstärkning av statsbidraget för maxtaxa)** | 1 000 | 1 500 | 1 500 |
-| **Högkostnadsskydd på el** | 1 000 |  |  |
+| **Mer pengar i plånböckerna (mnkr)**                                 | | | |
+| -------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                      | **2026** | **2027** | **2028** |
+| **Sänkt skatt på arbete och pension**                                | 21 400   | 21 400   | 21 400   |
+| **Sänkt skatt på sjuk- och aktivitetsersättning**                    | 460      | 460      | 460      |
+| **Sänkt elskatt i hela landet**                                      | 6 520    | 6 600    | 6 680    |
+| **Sänkt förskoleavgift (förstärkning av statsbidraget för maxtaxa)** | 1 000    | 1 500    | 1 500    |
+| **Högkostnadsskydd på el**                                           | 1 000    |          |          |
 
 
 
@@ -54,24 +54,24 @@ Paketet för större plånböcker innehåller följande förslag:
 
 För en familj med en polis och en sjuksköterska samt två barn, 3 och 5 år, som bor i ett icke-eluppvärmt hus innebär budgeten följande effekter per månad:
 
-| **Åtgärd** | **Familj med polis och sjuksköterska*, kr/mån** |
-| --- | --- |
-| Sänkt matmoms | 545 |
-| Sänkt skatt på arbetet | 802 |
-| Sänkt förskoleavgift | 375 |
-| Sänkt elskatt | 85 |
-| **Summa** | **1802** |
+| **Åtgärd**             | **Familj med polis och sjuksköterska\*, kr/mån** |
+| ---------------------- | ------------------------------------------------ |
+| Sänkt matmoms          | 545                                              |
+| Sänkt skatt på arbetet | 802                                              |
+| Sänkt förskoleavgift   | 375                                              |
+| Sänkt elskatt          | 85                                               |
+| **Summa**              | **1802**                                         |
 
 ***Anm.:** Gäller för familj med en polis och en sjuksköterska med två barn,
 3 och 5 år, i ett icke-eluppvärmt hus.
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Mer pengar i plånböckerna (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Sänkt skatt på arbete och pension** | 21 400 | 21 400 | 21 400 |
-| **Sänkt skatt på sjuk- och aktivitetsersättning** | 460 | 460 | 460 |
-| **Sänkt elskatt i hela landet** | 6 520 | 6 600 | 6 680 |
-| **Sänkt förskoleavgift (förstärkning av statsbidraget för maxtaxa)** | 1 000 | 1 500 | 1 500 |
-| **Högkostnadsskydd på el** | 1 000 |  |  |
+| **Mer pengar i plånböckerna (mnkr)**                                 | | | |
+| -------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                      | **2026** | **2027** | **2028** |
+| **Sänkt skatt på arbete och pension**                                | 21 400   | 21 400   | 21 400   |
+| **Sänkt skatt på sjuk- och aktivitetsersättning**                    | 460      | 460      | 460      |
+| **Sänkt elskatt i hela landet**                                      | 6 520    | 6 600    | 6 680    |
+| **Sänkt förskoleavgift (förstärkning av statsbidraget för maxtaxa)** | 1 000    | 1 500    | 1 500    |
+| **Högkostnadsskydd på el**                                           | 1 000    |          |          |

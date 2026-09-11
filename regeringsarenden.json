@@ -13,7 +13,11 @@
             "2425",
             "1293",
             "1295"
-        ]
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
     },
     {
         "title": "Regeringsärenden vecka 36, 2026",
@@ -35,7 +39,11 @@
             "1293",
             "1294",
             "1295"
-        ]
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
     },
     {
         "title": "Regeringsärenden vecka 35, 2026",
@@ -57,7 +65,11 @@
             "1293",
             "1294",
             "1295"
-        ]
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
     },
     {
         "title": "Regeringsärenden vecka 34, 2026",
@@ -79,7 +91,11 @@
             "1293",
             "1294",
             "1295"
-        ]
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
     },
     {
         "title": "Regeringsärenden vecka 33, 2026",
@@ -98,7 +114,11 @@
             "1293",
             "1294",
             "1295"
-        ]
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
     },
     {
         "title": "Regeringsärenden vecka 32, 2026",
@@ -115,7 +135,11 @@
             "2425",
             "1292",
             "1295"
-        ]
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
     },
     {
         "title": "Regeringsärenden vecka 31, 2026",
@@ -133,7 +157,11 @@
             "1292",
             "1293",
             "1295"
-        ]
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
     },
     {
         "title": "Regeringsärenden vecka 30, 2026",
@@ -152,7 +180,11 @@
             "1292",
             "1294",
             "1295"
-        ]
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
     },
     {
         "title": "Regeringsärenden vecka 29, 2026",
@@ -173,7 +205,11 @@
             "1293",
             "1294",
             "1295"
-        ]
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
     },
     {
         "title": "Regeringsärenden vecka 28, 2026",
@@ -193,7 +229,11 @@
             "1292",
             "1293",
             "1295"
-        ]
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
     },
     {
         "title": "Regeringsärenden vecka 27, 2026",
@@ -340,6 +380,31 @@
             "2425",
             "1292",
             "1293",
+            "1294",
+            "1295"
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": []
+    },
+    {
+        "title": "Regeringsärenden vecka 21, 2026",
+        "url": "/regeringsarenden/regeringsarenden-vecka-21-2026/",
+        "published": "2026-05-20",
+        "updated": null,
+        "types": [
+            "1337"
+        ],
+        "senders": [
+            "1284",
+            "1285",
+            "1286",
+            "1287",
+            "1291",
+            "1288",
+            "2425",
+            "1292",
             "1294",
             "1295"
         ],

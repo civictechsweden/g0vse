@@ -10,28 +10,28 @@ Statsbidraget gör det möjligt för skolhuvudmän att söka medel för att köp
 
 Tabellen nedan visar hur mycket de kommunala skolorna i respektive län kan ansöka om. Se bidragsramen för de fristående huvudmännen på Skolverkets webbplats.
 
-| Blekinge län | 8 281 730 kr |
-| --- | --- |
-| Dalarnas län | 16 186 871 kr |
-| Gotlands län | 2 985 510 kr |
-| Gävleborgs län | 14 899 469 kr |
-| Hallands län | 19 959 144 kr |
-| Jämtlands län | 7 238 338 kr |
-| Jönköpings län | 22 786 838 kr |
-| Kalmar län | 13 733 630 kr |
-| Kronobergs län | 11 916 270 kr |
-| Norrbottens län | 12 644 032 kr |
-| Skåne län | 77 520 004 kr |
-| Stockholms län | 115 129 714 kr |
-| Södermanlands län | 15 833 741 kr |
-| Uppsala län | 20 816 641 kr |
-| Värmlands län | 15 625 631 kr |
-| Västerbottens län | 15 016 232 kr |
-| Västernorrlands län | 12 881 643 kr |
-| Västmanlands län | 14 938 924 kr |
-| Västra Götalands län | 95 419 911 kr |
-| Örebro län | 17 473 381 kr |
-| Östergötlands län | 25 567 083 kr |
+| Blekinge län         | 8 281 730 kr   |
+| -------------------- | -------------- |
+| Dalarnas län         | 16 186 871 kr  |
+| Gotlands län         | 2 985 510 kr   |
+| Gävleborgs län       | 14 899 469 kr  |
+| Hallands län         | 19 959 144 kr  |
+| Jämtlands län        | 7 238 338 kr   |
+| Jönköpings län       | 22 786 838 kr  |
+| Kalmar län           | 13 733 630 kr  |
+| Kronobergs län       | 11 916 270 kr  |
+| Norrbottens län      | 12 644 032 kr  |
+| Skåne län            | 77 520 004 kr  |
+| Stockholms län       | 115 129 714 kr |
+| Södermanlands län    | 15 833 741 kr  |
+| Uppsala län          | 20 816 641 kr  |
+| Värmlands län        | 15 625 631 kr  |
+| Västerbottens län    | 15 016 232 kr  |
+| Västernorrlands län  | 12 881 643 kr  |
+| Västmanlands län     | 14 938 924 kr  |
+| Västra Götalands län | 95 419 911 kr  |
+| Örebro län           | 17 473 381 kr  |
+| Östergötlands län    | 25 567 083 kr  |
 
 Källa: Skolverket
 
@@ -47,28 +47,28 @@ Statsbidraget gör det möjligt för skolhuvudmän att söka medel för att köp
 
 Tabellen nedan visar hur mycket de kommunala skolorna i respektive län kan ansöka om. Se bidragsramen för de fristående huvudmännen på Skolverkets webbplats.
 
-| Blekinge län | 8 281 730 kr |
-| --- | --- |
-| Dalarnas län | 16 186 871 kr |
-| Gotlands län | 2 985 510 kr |
-| Gävleborgs län | 14 899 469 kr |
-| Hallands län | 19 959 144 kr |
-| Jämtlands län | 7 238 338 kr |
-| Jönköpings län | 22 786 838 kr |
-| Kalmar län | 13 733 630 kr |
-| Kronobergs län | 11 916 270 kr |
-| Norrbottens län | 12 644 032 kr |
-| Skåne län | 77 520 004 kr |
-| Stockholms län | 115 129 714 kr |
-| Södermanlands län | 15 833 741 kr |
-| Uppsala län | 20 816 641 kr |
-| Värmlands län | 15 625 631 kr |
-| Västerbottens län | 15 016 232 kr |
-| Västernorrlands län | 12 881 643 kr |
-| Västmanlands län | 14 938 924 kr |
-| Västra Götalands län | 95 419 911 kr |
-| Örebro län | 17 473 381 kr |
-| Östergötlands län | 25 567 083 kr |
+| Blekinge län         | 8 281 730 kr   |
+| -------------------- | -------------- |
+| Dalarnas län         | 16 186 871 kr  |
+| Gotlands län         | 2 985 510 kr   |
+| Gävleborgs län       | 14 899 469 kr  |
+| Hallands län         | 19 959 144 kr  |
+| Jämtlands län        | 7 238 338 kr   |
+| Jönköpings län       | 22 786 838 kr  |
+| Kalmar län           | 13 733 630 kr  |
+| Kronobergs län       | 11 916 270 kr  |
+| Norrbottens län      | 12 644 032 kr  |
+| Skåne län            | 77 520 004 kr  |
+| Stockholms län       | 115 129 714 kr |
+| Södermanlands län    | 15 833 741 kr  |
+| Uppsala län          | 20 816 641 kr  |
+| Värmlands län        | 15 625 631 kr  |
+| Västerbottens län    | 15 016 232 kr  |
+| Västernorrlands län  | 12 881 643 kr  |
+| Västmanlands län     | 14 938 924 kr  |
+| Västra Götalands län | 95 419 911 kr  |
+| Örebro län           | 17 473 381 kr  |
+| Östergötlands län    | 25 567 083 kr  |
 
 Källa: Skolverket
 

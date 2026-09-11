@@ -30,14 +30,14 @@ Regeringen arbetar systematiskt och intensivt med att säkerställa att våldsut
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Kvinnofridssatsning** | |
-| --- | --- |
-|  | **2026** |
-| **Nationell kampanj mot dödligt våld mot kvinnor** | 10 |
-| **Satsning för att förebygga sexuellt våld** | 10 |
-| **Medel till Socialstyrelsen för att stärka arbetet mot våld mot kvinnor** | 8 |
-| **Förstärkning av statsbidraget för stadigvarande boende för våldsutsatta** | 10 |
-| **Omfördelning av medel från anslag 3:1 för att finansiera kvinnofridssatsning** | –18 |
+| **Kvinnofridssatsning**                                                          | |
+| -------------------------------------------------------------------------------- | -------- |
+|                                                                                  | **2026** |
+| **Nationell kampanj mot dödligt våld mot kvinnor**                               | 10       |
+| **Satsning för att förebygga sexuellt våld**                                     | 10       |
+| **Medel till Socialstyrelsen för att stärka arbetet mot våld mot kvinnor**       | 8        |
+| **Förstärkning av statsbidraget för stadigvarande boende för våldsutsatta**      | 10       |
+| **Omfördelning av medel från anslag 3:1 för att finansiera kvinnofridssatsning** | –18      |
 
 
 
@@ -71,11 +71,11 @@ Regeringen arbetar systematiskt och intensivt med att säkerställa att våldsut
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Kvinnofridssatsning** | |
-| --- | --- |
-|  | **2026** |
-| **Nationell kampanj mot dödligt våld mot kvinnor** | 10 |
-| **Satsning för att förebygga sexuellt våld** | 10 |
-| **Medel till Socialstyrelsen för att stärka arbetet mot våld mot kvinnor** | 8 |
-| **Förstärkning av statsbidraget för stadigvarande boende för våldsutsatta** | 10 |
-| **Omfördelning av medel från anslag 3:1 för att finansiera kvinnofridssatsning** | –18 |
+| **Kvinnofridssatsning**                                                          | |
+| -------------------------------------------------------------------------------- | -------- |
+|                                                                                  | **2026** |
+| **Nationell kampanj mot dödligt våld mot kvinnor**                               | 10       |
+| **Satsning för att förebygga sexuellt våld**                                     | 10       |
+| **Medel till Socialstyrelsen för att stärka arbetet mot våld mot kvinnor**       | 8        |
+| **Förstärkning av statsbidraget för stadigvarande boende för våldsutsatta**      | 10       |
+| **Omfördelning av medel från anslag 3:1 för att finansiera kvinnofridssatsning** | –18      |

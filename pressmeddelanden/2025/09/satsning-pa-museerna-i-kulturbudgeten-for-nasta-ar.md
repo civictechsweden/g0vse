@@ -14,11 +14,11 @@ De nya hyresavtalen ska kunna börja gälla den 1 juli 2026, med undantag för a
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Satsning på museerna (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Förstärkning av bidraget till stiftelsemuseerna** | 7 | 7 | 7 |
-| **Förstudie nationellt museikort** | 3 |  |  |
+| **Satsning på museerna (mnkr)**                     | | | |
+| --------------------------------------------------- | -------- | -------- | -------- |
+|                                                     | **2026** | **2027** | **2028** |
+| **Förstärkning av bidraget till stiftelsemuseerna** | 7        | 7        | 7        |
+| **Förstudie nationellt museikort**                  | 3        |          |          |
 
 
 
@@ -36,8 +36,8 @@ De nya hyresavtalen ska kunna börja gälla den 1 juli 2026, med undantag för a
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Satsning på museerna (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Förstärkning av bidraget till stiftelsemuseerna** | 7 | 7 | 7 |
-| **Förstudie nationellt museikort** | 3 |  |  |
+| **Satsning på museerna (mnkr)**                     | | | |
+| --------------------------------------------------- | -------- | -------- | -------- |
+|                                                     | **2026** | **2027** | **2028** |
+| **Förstärkning av bidraget till stiftelsemuseerna** | 7        | 7        | 7        |
+| **Förstudie nationellt museikort**                  | 3        |          |          |

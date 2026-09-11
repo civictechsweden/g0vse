@@ -1,4 +1,4 @@
-# SOU 2024:77
+# Ett modernt och anpassat regelverk för krigsmateriel
 
 ![Omslagsbild av utredningen Ett modernt och anpassat regelverk för krigsmateriel, Sou 2024:77. ](/contentassets/d76247944967495cbdd9541f7f8aadbb/tumnagel_sou2024_77.jpg?width=150&amp;quality=85)
 

@@ -61,18 +61,18 @@ För etablerandet av en försvarsinnovationsenhet ökas anslag 1:9 Totalförsvar
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Försvarspaket för ett starkare Sverige (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Ökade resurser till militära försvaret** | 9 500 | 13 300 | 15 000 |
-| **Höjd dagersättning för totalförsvarspliktiga** | 338 | 358 | 377 |
-| **Kadettersättning till officersaspiranter** | 44 | 46,6 | 46,6 |
-| **Beredskapshöjande åtgärder** | 13,5 | 5 | 15 |
-| **Informationssystem och begåvningstest** | 4,5 | 10,4 | 9 |
-| **Förstärkt materielutvecklingsprogram** | 50 | 50 | 50 |
-| **Ny försvarsinnovationsenhet** | 6 | 10 | 10 |
-| **Etablerings- och samverkanskontor för försvarsindustrin** | 3 | 5 | 6 |
-| **Forskningsinfrastruktur** | 30 | 50 | 75 |
-| **Skyddsvärd banbrytande teknik** | 10 | 10 | 10 |
+| ------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                              | **2026** | **2027** | **2028** |
+| **Ökade resurser till militära försvaret**                   | 9 500    | 13 300   | 15 000   |
+| **Höjd dagersättning för totalförsvarspliktiga**             | 338      | 358      | 377      |
+| **Kadettersättning till officersaspiranter**                 | 44       | 46,6     | 46,6     |
+| **Beredskapshöjande åtgärder**                               | 13,5     | 5        | 15       |
+| **Informationssystem och begåvningstest**                    | 4,5      | 10,4     | 9        |
+| **Förstärkt materielutvecklingsprogram**                     | 50       | 50       | 50       |
+| **Ny försvarsinnovationsenhet**                              | 6        | 10       | 10       |
+| **Etablerings- och samverkanskontor för försvarsindustrin**  | 3        | 5        | 6        |
+| **Forskningsinfrastruktur**                                  | 30       | 50       | 75       |
+| **Skyddsvärd banbrytande teknik**                            | 10       | 10       | 10       |
 
 
 
@@ -137,15 +137,15 @@ För etablerandet av en försvarsinnovationsenhet ökas anslag 1:9 Totalförsvar
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Försvarspaket för ett starkare Sverige (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Ökade resurser till militära försvaret** | 9 500 | 13 300 | 15 000 |
-| **Höjd dagersättning för totalförsvarspliktiga** | 338 | 358 | 377 |
-| **Kadettersättning till officersaspiranter** | 44 | 46,6 | 46,6 |
-| **Beredskapshöjande åtgärder** | 13,5 | 5 | 15 |
-| **Informationssystem och begåvningstest** | 4,5 | 10,4 | 9 |
-| **Förstärkt materielutvecklingsprogram** | 50 | 50 | 50 |
-| **Ny försvarsinnovationsenhet** | 6 | 10 | 10 |
-| **Etablerings- och samverkanskontor för försvarsindustrin** | 3 | 5 | 6 |
-| **Forskningsinfrastruktur** | 30 | 50 | 75 |
-| **Skyddsvärd banbrytande teknik** | 10 | 10 | 10 |
+| ------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                              | **2026** | **2027** | **2028** |
+| **Ökade resurser till militära försvaret**                   | 9 500    | 13 300   | 15 000   |
+| **Höjd dagersättning för totalförsvarspliktiga**             | 338      | 358      | 377      |
+| **Kadettersättning till officersaspiranter**                 | 44       | 46,6     | 46,6     |
+| **Beredskapshöjande åtgärder**                               | 13,5     | 5        | 15       |
+| **Informationssystem och begåvningstest**                    | 4,5      | 10,4     | 9        |
+| **Förstärkt materielutvecklingsprogram**                     | 50       | 50       | 50       |
+| **Ny försvarsinnovationsenhet**                              | 6        | 10       | 10       |
+| **Etablerings- och samverkanskontor för försvarsindustrin**  | 3        | 5        | 6        |
+| **Forskningsinfrastruktur**                                  | 30       | 50       | 75       |
+| **Skyddsvärd banbrytande teknik**                            | 10       | 10       | 10       |

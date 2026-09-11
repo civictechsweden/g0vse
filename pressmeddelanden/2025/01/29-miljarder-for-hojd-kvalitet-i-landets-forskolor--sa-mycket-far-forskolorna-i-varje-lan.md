@@ -8,28 +8,28 @@ Statsbidraget kan bland annat användas till kompetensutveckling för förskoll�
 
 Så här mycket kan förskolorna i respektive län få:
 
-| Blekinge län | 36 945 228 kr |
-| --- | --- |
-| Dalarnas län | 73 864 109 kr |
-| Gotlands län | 11 660 176 kr |
-| Gävleborgs län | 71 981 984 kr |
-| Hallands län | 87 979 550 kr |
-| Jämtlands län | 33 341 472 kr |
-| Jönköpings län | 103 923 078 kr |
-| Kalmar län | 59 451 021 kr |
-| Kronobergs län | 60 319 608 kr |
-| Norrbottens län | 52 572 510 kr |
-| Skåne län | 421 933 193 kr |
-| Stockholms län | 718 243 870 kr |
-| Södermanlands län | 88 382 594 kr |
-| Uppsala län | 110 189 685 kr |
-| Värmlands län | 67 834 270 kr |
-| Västerbottens län | 67 567 813 kr |
-| Västernorrlands län | 56 403 562 kr |
-| Västmanlands län | 80 460 097 kr |
+| Blekinge län         | 36 945 228 kr  |
+| -------------------- | -------------- |
+| Dalarnas län         | 73 864 109 kr  |
+| Gotlands län         | 11 660 176 kr  |
+| Gävleborgs län       | 71 981 984 kr  |
+| Hallands län         | 87 979 550 kr  |
+| Jämtlands län        | 33 341 472 kr  |
+| Jönköpings län       | 103 923 078 kr |
+| Kalmar län           | 59 451 021 kr  |
+| Kronobergs län       | 60 319 608 kr  |
+| Norrbottens län      | 52 572 510 kr  |
+| Skåne län            | 421 933 193 kr |
+| Stockholms län       | 718 243 870 kr |
+| Södermanlands län    | 88 382 594 kr  |
+| Uppsala län          | 110 189 685 kr |
+| Värmlands län        | 67 834 270 kr  |
+| Västerbottens län    | 67 567 813 kr  |
+| Västernorrlands län  | 56 403 562 kr  |
+| Västmanlands län     | 80 460 097 kr  |
 | Västra Götalands län | 480 652 247 kr |
-| Örebro län | 82 628 421 kr |
-| Östergötlands län | 119 665 367 kr |
+| Örebro län           | 82 628 421 kr  |
+| Östergötlands län    | 119 665 367 kr |
 
 Källa: Skolverket
 
@@ -41,27 +41,27 @@ Statsbidraget kan bland annat användas till kompetensutveckling för förskoll�
 
 Så här mycket kan förskolorna i respektive län få:
 
-| Blekinge län | 36 945 228 kr |
-| --- | --- |
-| Dalarnas län | 73 864 109 kr |
-| Gotlands län | 11 660 176 kr |
-| Gävleborgs län | 71 981 984 kr |
-| Hallands län | 87 979 550 kr |
-| Jämtlands län | 33 341 472 kr |
-| Jönköpings län | 103 923 078 kr |
-| Kalmar län | 59 451 021 kr |
-| Kronobergs län | 60 319 608 kr |
-| Norrbottens län | 52 572 510 kr |
-| Skåne län | 421 933 193 kr |
-| Stockholms län | 718 243 870 kr |
-| Södermanlands län | 88 382 594 kr |
-| Uppsala län | 110 189 685 kr |
-| Värmlands län | 67 834 270 kr |
-| Västerbottens län | 67 567 813 kr |
-| Västernorrlands län | 56 403 562 kr |
-| Västmanlands län | 80 460 097 kr |
+| Blekinge län         | 36 945 228 kr  |
+| -------------------- | -------------- |
+| Dalarnas län         | 73 864 109 kr  |
+| Gotlands län         | 11 660 176 kr  |
+| Gävleborgs län       | 71 981 984 kr  |
+| Hallands län         | 87 979 550 kr  |
+| Jämtlands län        | 33 341 472 kr  |
+| Jönköpings län       | 103 923 078 kr |
+| Kalmar län           | 59 451 021 kr  |
+| Kronobergs län       | 60 319 608 kr  |
+| Norrbottens län      | 52 572 510 kr  |
+| Skåne län            | 421 933 193 kr |
+| Stockholms län       | 718 243 870 kr |
+| Södermanlands län    | 88 382 594 kr  |
+| Uppsala län          | 110 189 685 kr |
+| Värmlands län        | 67 834 270 kr  |
+| Västerbottens län    | 67 567 813 kr  |
+| Västernorrlands län  | 56 403 562 kr  |
+| Västmanlands län     | 80 460 097 kr  |
 | Västra Götalands län | 480 652 247 kr |
-| Örebro län | 82 628 421 kr |
-| Östergötlands län | 119 665 367 kr |
+| Örebro län           | 82 628 421 kr  |
+| Östergötlands län    | 119 665 367 kr |
 
 Källa: Skolverket

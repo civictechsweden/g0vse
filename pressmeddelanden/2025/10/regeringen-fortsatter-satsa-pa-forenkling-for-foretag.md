@@ -31,13 +31,13 @@ Offentliga och privata tjänster erbjuds i allt högre grad på nätet. Med det 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Regeringen fortsätter satsa på förenkling för företag (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Enklare företagande** | 5 | 9 | 9 |
-| **Långsiktig förvaltning av verksamt.se** | 9,2 | 9,2 | 9,2 |
-| **Branschanpassad guidning till tillstånd** | 10 | 7 | 5 |
-| **Publicera förväntade handläggningstider** | 2 | 0 | 0 |
-| **Digital identitetsplånbok** | 24 | 32 | 34 |
+| --------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                             | **2026** | **2027** | **2028** |
+| **Enklare företagande**                                                     | 5        | 9        | 9        |
+| **Långsiktig förvaltning av verksamt.se**                                   | 9,2      | 9,2      | 9,2      |
+| **Branschanpassad guidning till tillstånd**                                 | 10       | 7        | 5        |
+| **Publicera förväntade handläggningstider**                                 | 2        | 0        | 0        |
+| **Digital identitetsplånbok**                                               | 24       | 32       | 34       |
 
 
 
@@ -72,10 +72,10 @@ Offentliga och privata tjänster erbjuds i allt högre grad på nätet. Med det 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Regeringen fortsätter satsa på förenkling för företag (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Enklare företagande** | 5 | 9 | 9 |
-| **Långsiktig förvaltning av verksamt.se** | 9,2 | 9,2 | 9,2 |
-| **Branschanpassad guidning till tillstånd** | 10 | 7 | 5 |
-| **Publicera förväntade handläggningstider** | 2 | 0 | 0 |
-| **Digital identitetsplånbok** | 24 | 32 | 34 |
+| --------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                             | **2026** | **2027** | **2028** |
+| **Enklare företagande**                                                     | 5        | 9        | 9        |
+| **Långsiktig förvaltning av verksamt.se**                                   | 9,2      | 9,2      | 9,2      |
+| **Branschanpassad guidning till tillstånd**                                 | 10       | 7        | 5        |
+| **Publicera förväntade handläggningstider**                                 | 2        | 0        | 0        |
+| **Digital identitetsplånbok**                                               | 24       | 32       | 34       |

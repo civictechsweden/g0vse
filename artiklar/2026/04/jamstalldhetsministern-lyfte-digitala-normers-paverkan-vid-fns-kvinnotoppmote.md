@@ -1,6 +1,6 @@
 # Jämställdhetsministern lyfte digitala normers påverkan vid FN:s kvinnotoppmöte
 
-Digitala plattformar är viktiga informationskällor i dagens demokratiska samtal och behöver vara rättvisa, inkluderande och transparenta. Världens största digitala plattformar ska inte bidra till extremism, sexualiserat våld och hot och hat. Demokratiska samhällen måste gemensamt bemöta auktoritära och misogyna värderingar online. Det var ett av budskapen från jämställdhetsminister Nina Larsson under FN:s kvinnotoppmöte. Ministern uppmärksammade också hur kvinnor och flickor drabbas oproportionerligt av Rysslands fullskaliga invasion i Ukraina, bland annat genom sexuellt våld som används som ett vapen i kriget.
+(Ny version) Digitala plattformar är viktiga informationskällor i dagens demokratiska samtal och behöver vara rättvisa, inkluderande och transparenta. Världens största digitala plattformar ska inte bidra till extremism, sexualiserat våld och hot och hat. Demokratiska samhällen måste gemensamt bemöta auktoritära och misogyna värderingar online. Det var ett av budskapen från jämställdhetsminister Nina Larsson under FN:s kvinnotoppmöte. Ministern uppmärksammade också hur kvinnor och flickor drabbas oproportionerligt av Rysslands fullskaliga invasion i Ukraina, bland annat genom sexuellt våld som används som ett vapen i kriget.
 
 Sverige deltar årligen i CSW, FN:s kvinnotoppmöte, för att vara en tydlig och konstruktiv röst för kvinnors och flickors åtnjutande av mänskliga rättigheter. I ett alltmer utmanande globalt läge är det avgörande att bidra med erfarenheter, lyfta och ta del av exempel på hur jämställdhetspolitiken fungerar i praktiken och att diskutera hur jämställdhet är en förutsättning för tillväxt, konkurrenskraft, säkerhet och välfärd i hela samhället.
 
@@ -14,7 +14,9 @@ Sverige sponsrade ett trettiotal så kallade sidoevent och arrangerade flera egn
 
 Jämställdhet, makt och civil beredskap stod i fokus för ett annat sidoevent som Sverige arrangerade tillsammans med Ukraina och Polen. Jämställdhetsministern lyfte hur kvinnor och flickor drabbas oproportionerligt av Rysslands fullskaliga invasion av Ukraina, bland annat genom sexuellt våld som används som ett vapen i kriget, och betonade att jämställdhet därmed också är en fråga om försvar och säkerhet. Försvarsmakten deltog även i programmet och Jämställdhetsstrateg Anna Sjölander talade om jämställdhet och motståndskraft som en del av arbetet med den så kallade kvinnor, fred och säkerhetsagendan.
 
-Utöver detta var Sverige med och arrangerade ett sidoevent som handlade om bland annat mäns våld mot kvinnor, sexuell och reproduktiv hälsa och rättigheter, rätten till abort, barnäktenskap, kvinnliga MR-försvarare, familjerätt, tillgång till rättvisa och rättssystem genom livet, ekonomisk jämställdhet, människohandel och kommersiell sexuell exploatering.
+Det svenska sidoeventen om digitala normer och civil beredskap organiserades med hjälp av Jämställdhetsmyndigheten.
+
+Utöver detta var Sverige med och arrangerade sidoevent som handlade om bland annat mäns våld mot kvinnor, sexuell och reproduktiv hälsa och rättigheter, rätten till abort, barnäktenskap, kvinnliga MR-försvarare, familjerätt, tillgång till rättvisa och rättssystem genom livet, ekonomisk jämställdhet, människohandel och kommersiell sexuell exploatering.
 
 ### Gemensamt nordiskt budskap
 

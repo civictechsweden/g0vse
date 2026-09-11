@@ -11,9 +11,9 @@ Fojo har tidigare fått medel för särskilda uppdrag. Genom den här permanenta
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Ökade resurser till medieinstitutet Fojo för fortbildning av journalister (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Förstärkning av uppdrag om fortbildning av journalister** | 2,4 | 2,4 | 2,4 |
+| ----------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                                 | **2026** | **2027** | **2028** |
+| **Förstärkning av uppdrag om fortbildning av journalister**                                     | 2,4      | 2,4      | 2,4      |
 
 
 
@@ -28,6 +28,6 @@ Fojo har tidigare fått medel för särskilda uppdrag. Genom den här permanenta
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Ökade resurser till medieinstitutet Fojo för fortbildning av journalister (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Förstärkning av uppdrag om fortbildning av journalister** | 2,4 | 2,4 | 2,4 |
+| ----------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                                 | **2026** | **2027** | **2028** |
+| **Förstärkning av uppdrag om fortbildning av journalister**                                     | 2,4      | 2,4      | 2,4      |

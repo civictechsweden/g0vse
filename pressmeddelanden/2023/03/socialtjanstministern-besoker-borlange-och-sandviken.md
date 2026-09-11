@@ -10,7 +10,7 @@ Camilla Waltersson Grönvall besöker regelbundet kommuner för att skapa en bil
 
 Socialtjänstministern är tillgänglig för media vissa tider under besöken.
 
-Olivia Nensén  Pressekreterare hos socialtjänstminister Camilla Waltersson Grönvall  Telefon (växel)[08-405 10 00](<tel:08-405 10 00>)
+Olivia Nensén  Pressekreterare hos socialtjänstminister Camilla Waltersson Grönvall   Telefon (växel) [08-405 10 00](<tel:08-405 10 00>)
 
 
 
@@ -24,4 +24,4 @@ Camilla Waltersson Grönvall besöker regelbundet kommuner för att skapa en bil
 
 Socialtjänstministern är tillgänglig för media vissa tider under besöken.
 
-Olivia Nensén  Pressekreterare hos socialtjänstminister Camilla Waltersson Grönvall  Telefon (växel)[08-405 10 00](<tel:08-405 10 00>)
+Olivia Nensén  Pressekreterare hos socialtjänstminister Camilla Waltersson Grönvall   Telefon (växel) [08-405 10 00](<tel:08-405 10 00>)

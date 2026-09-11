@@ -1,4 +1,4 @@
-# Stärkt självförsörjning genom säker brytning av uran
+# "Stärkt självförsörjning genom säker brytning av uran"
 
 Debattartikel av energi- och näringsminister Ebba Busch, klimat- och miljöminister Romina Pourmokhtari och minister för civilt försvar Carl-Oskar Bohlin, Dagens industri, den 5 februari 2026.
 

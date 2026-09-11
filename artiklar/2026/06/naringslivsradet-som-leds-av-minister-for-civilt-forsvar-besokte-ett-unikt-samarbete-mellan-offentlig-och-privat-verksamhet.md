@@ -1,4 +1,4 @@
-# Näringslivsrådet som leds av Minister för civilt försvar besökte ett unikt samarbete mellan offentlig och privat verksamhet
+# Näringslivsrådet som leds av minister för civilt försvar besökte ett unikt samarbete mellan offentlig och privat verksamhet
 
 Minister för civilt försvar Carl-Oskar Bohlin har tillsammans med regeringens näringslivsråd besökt en försvarsanläggning där man i ett unikt projekt arbetar med skydd, styrning och resiliens under kris och krig. Besökt gjordes i samband med att näringslivet för första gången deltog i en chefsfältsövning.
 

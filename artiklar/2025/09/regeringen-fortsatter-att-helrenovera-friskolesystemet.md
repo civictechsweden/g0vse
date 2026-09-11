@@ -16,7 +16,7 @@ Regeringen och Sverigedemokraterna avsätter nu medel för att möjliggöra geno
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Skärpta villkor för friskolesektorn (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Medel till kommuner** | 26,5 | 62 | 71 |
-| **Medel till Skolinspektionen** | 12 | 26 | 28 |
+| ---------------------------------------------- | -------- | -------- | -------- |
+|                                                | **2026** | **2027** | **2028** |
+| **Medel till kommuner**                        | 26,5     | 62       | 71       |
+| **Medel till Skolinspektionen**                | 12       | 26       | 28       |

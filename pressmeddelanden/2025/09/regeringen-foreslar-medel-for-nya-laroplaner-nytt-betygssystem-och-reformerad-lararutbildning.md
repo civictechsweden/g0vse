@@ -43,19 +43,19 @@ Skolornas säkerhetsarbete behöver stärkas och utvecklas. Skolor kan behöva a
 Regeringen avser att göra skolan mobilfri. Det innebär att det ska bli obligatoriskt att samla in elevers mobiltelefoner under hela skoldagen i grundskolan, anpassade grundskolan, specialskolan och sameskolan, samt i fritidshemmet. De nya reglerna väntas börja gälla inför höstterminen 2026. För att genomföra förändringen föreslår regeringen att 95 miljoner kronor avsätts för 2026 och beräknar att 100 miljoner kronor avsätts årligen från 2027.
 
 | **Regeringen föreslår medel för nya läroplaner, nytt betygssystem och reformerad lärarutbildning (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Stärkt trygghet och studiero** | 120,4 | 118,1 | 118,1 |
-| **Vidareutbildning i kognitionsvetenskap för lärarutbildare** |  | 2,5 | 5 |
-| **Förlängning arbetsintegrerad lärarutbildning (AIL)*** |  | 31 | 31 |
-| **Nya läroplaner** | 40 | 14,4 | 9,4 |
-| **Statsbidraget för inköp av läroböcker och lärarhandledning förstärks** |  |  | 500 |
-| **Nytt betygssystem: Skolverket** | 24,9 | 39,2 | 147,4 |
-| **Nytt betygssystem: UHR** |  | 2,3 | 3,6 |
-| **Nytt betygssystem: Huvudmännen** |  |  | -36,8 |
-| **Folkbibliotekens läsfrämjande verksamhet förstärks** | 40 | 40 | 40 |
-| **Statsbidraget för personalförstärkning avseende elevhälsan förstärks** | 200 | 200 | 200 |
-| **Mobilfri skola** | 95 | 100 | 100 |
+| --------------------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                                           | **2026** | **2027** | **2028** |
+| **Stärkt trygghet och studiero**                                                                          | 120,4    | 118,1    | 118,1    |
+| **Vidareutbildning i kognitionsvetenskap för lärarutbildare**                                             |          | 2,5      | 5        |
+| **Förlängning arbetsintegrerad lärarutbildning (AIL)\***                                                  |          | 31       | 31       |
+| **Nya läroplaner**                                                                                        | 40       | 14,4     | 9,4      |
+| **Statsbidraget för inköp av läroböcker och lärarhandledning förstärks**                                  |          |          | 500      |
+| **Nytt betygssystem: Skolverket**                                                                         | 24,9     | 39,2     | 147,4    |
+| **Nytt betygssystem: UHR**                                                                                |          | 2,3      | 3,6      |
+| **Nytt betygssystem: Huvudmännen**                                                                        |          |          | -36,8    |
+| **Folkbibliotekens läsfrämjande verksamhet förstärks**                                                    | 40       | 40       | 40       |
+| **Statsbidraget för personalförstärkning avseende elevhälsan förstärks**                                  | 200      | 200      | 200      |
+| **Mobilfri skola**                                                                                        | 95       | 100      | 100      |
 
 * Det finns medel avsatta för AIL fram t.o.m. 2026, dvs. satsningen skulle ha upphört 2027. Genom BP26 ger vi nu långsiktiga planeringsförutsättningar genom att satsningen förlängs 2027–2032. Så nivån behålls för kommande år (istället för att upphöra efter 2026).
 
@@ -106,19 +106,19 @@ Skolornas säkerhetsarbete behöver stärkas och utvecklas. Skolor kan behöva a
 Regeringen avser att göra skolan mobilfri. Det innebär att det ska bli obligatoriskt att samla in elevers mobiltelefoner under hela skoldagen i grundskolan, anpassade grundskolan, specialskolan och sameskolan, samt i fritidshemmet. De nya reglerna väntas börja gälla inför höstterminen 2026. För att genomföra förändringen föreslår regeringen att 95 miljoner kronor avsätts för 2026 och beräknar att 100 miljoner kronor avsätts årligen från 2027.
 
 | **Regeringen föreslår medel för nya läroplaner, nytt betygssystem och reformerad lärarutbildning (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Stärkt trygghet och studiero** | 120,4 | 118,1 | 118,1 |
-| **Vidareutbildning i kognitionsvetenskap för lärarutbildare** |  | 2,5 | 5 |
-| **Förlängning arbetsintegrerad lärarutbildning (AIL)*** |  | 31 | 31 |
-| **Nya läroplaner** | 40 | 14,4 | 9,4 |
-| **Statsbidraget för inköp av läroböcker och lärarhandledning förstärks** |  |  | 500 |
-| **Nytt betygssystem: Skolverket** | 24,9 | 39,2 | 147,4 |
-| **Nytt betygssystem: UHR** |  | 2,3 | 3,6 |
-| **Nytt betygssystem: Huvudmännen** |  |  | -36,8 |
-| **Folkbibliotekens läsfrämjande verksamhet förstärks** | 40 | 40 | 40 |
-| **Statsbidraget för personalförstärkning avseende elevhälsan förstärks** | 200 | 200 | 200 |
-| **Mobilfri skola** | 95 | 100 | 100 |
+| --------------------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                                           | **2026** | **2027** | **2028** |
+| **Stärkt trygghet och studiero**                                                                          | 120,4    | 118,1    | 118,1    |
+| **Vidareutbildning i kognitionsvetenskap för lärarutbildare**                                             |          | 2,5      | 5        |
+| **Förlängning arbetsintegrerad lärarutbildning (AIL)\***                                                  |          | 31       | 31       |
+| **Nya läroplaner**                                                                                        | 40       | 14,4     | 9,4      |
+| **Statsbidraget för inköp av läroböcker och lärarhandledning förstärks**                                  |          |          | 500      |
+| **Nytt betygssystem: Skolverket**                                                                         | 24,9     | 39,2     | 147,4    |
+| **Nytt betygssystem: UHR**                                                                                |          | 2,3      | 3,6      |
+| **Nytt betygssystem: Huvudmännen**                                                                        |          |          | -36,8    |
+| **Folkbibliotekens läsfrämjande verksamhet förstärks**                                                    | 40       | 40       | 40       |
+| **Statsbidraget för personalförstärkning avseende elevhälsan förstärks**                                  | 200      | 200      | 200      |
+| **Mobilfri skola**                                                                                        | 95       | 100      | 100      |
 
 * Det finns medel avsatta för AIL fram t.o.m. 2026, dvs. satsningen skulle ha upphört 2027. Genom BP26 ger vi nu långsiktiga planeringsförutsättningar genom att satsningen förlängs 2027–2032. Så nivån behålls för kommande år (istället för att upphöra efter 2026).
 

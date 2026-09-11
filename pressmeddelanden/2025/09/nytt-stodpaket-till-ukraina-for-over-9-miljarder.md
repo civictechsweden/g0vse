@@ -34,16 +34,16 @@ I budgetpropositionen för 2026 föreslår regeringen även en kraftig ambitions
 Förslagen i budgetpropositionen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Ekonomisk ram för militärt stöd till Ukraina i budgetpropositionen för 2026** | | |
-| --- | --- | --- |
-|  | **2026** | **2027** |
-| **Miljarder kronor** | 40 | 40 |
+| ------------------------------------------------------------------------------- | -------- | -------- |
+|                                                                                 | **2026** | **2027** |
+| **Miljarder kronor**                                                            | 40       | 40       |
 
 
 
 | **Civilt bistånd till Ukraina i budgetpropositionen för 2026** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Miljarder kronor** | 10 | 10 | 10,5 |
+| -------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                | **2026** | **2027** | **2028** |
+| **Miljarder kronor**                                           | 10       | 10       | 10,5     |
 
 
 
@@ -81,13 +81,13 @@ I budgetpropositionen för 2026 föreslår regeringen även en kraftig ambitions
 Förslagen i budgetpropositionen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Ekonomisk ram för militärt stöd till Ukraina i budgetpropositionen för 2026** | | |
-| --- | --- | --- |
-|  | **2026** | **2027** |
-| **Miljarder kronor** | 40 | 40 |
+| ------------------------------------------------------------------------------- | -------- | -------- |
+|                                                                                 | **2026** | **2027** |
+| **Miljarder kronor**                                                            | 40       | 40       |
 
 
 
 | **Civilt bistånd till Ukraina i budgetpropositionen för 2026** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Miljarder kronor** | 10 | 10 | 10,5 |
+| -------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                | **2026** | **2027** | **2028** |
+| **Miljarder kronor**                                           | 10       | 10       | 10,5     |

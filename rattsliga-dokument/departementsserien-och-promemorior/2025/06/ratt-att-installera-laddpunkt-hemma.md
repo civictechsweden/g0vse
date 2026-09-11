@@ -1,4 +1,4 @@
-# Ds 2025:13
+# Rätt att installera laddpunkt hemma
 
 ![](/contentassets/a611877fb9c44de7bdf25a408f033d19/laddpunkt.png?width=150&amp;quality=85)
 

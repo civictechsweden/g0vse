@@ -19,9 +19,9 @@ Under 2026 avsätts 15 miljoner kronor och därefter beräknas 20 miljoner krono
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Nytt samarbete ska stärka industriomställningen (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Nytt samarbete ska stärka industriomställningen** | 15 | 20 | 20 |
+| --------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                       | **2026** | **2027** | **2028** |
+| **Nytt samarbete ska stärka industriomställningen**                   | 15       | 20       | 20       |
 
 
 
@@ -44,6 +44,6 @@ Under 2026 avsätts 15 miljoner kronor och därefter beräknas 20 miljoner krono
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Nytt samarbete ska stärka industriomställningen (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Nytt samarbete ska stärka industriomställningen** | 15 | 20 | 20 |
+| --------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                       | **2026** | **2027** | **2028** |
+| **Nytt samarbete ska stärka industriomställningen**                   | 15       | 20       | 20       |

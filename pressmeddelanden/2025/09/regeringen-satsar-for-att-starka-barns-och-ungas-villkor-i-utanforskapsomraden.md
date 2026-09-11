@@ -32,15 +32,15 @@ Sverige befinner sig i en lågkonjunktur vilket gör att många personer med kor
 
 Förslagen är en del av en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Regeringen satsar för att minska utanförskapet och förbättra integrationen** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| Kartläggning av barns uppväxtvillkor i utanförskapsområden | 3 |  |  |
-| Studie av barn i släktbaserade kriminella nätverk | 4 | 4 |  |
-| Statsbidrag till simskola i utanförskapsområden | 90 | 90 | 90 |
-| Friluftsliv i områden där utanförskapet är stort | 5 | 5 | 5 |
-| Kartlägg vilka som inte kommer till BVC | 5 |  |  |
-| Språkstärkande insatser på folkhögskola för bl.a. yrkesutbildade personer med svaga språkkunskaper | 40 | 40 | 40 |
+| **Regeringen satsar för att minska utanförskapet och förbättra integrationen**                     | | | |
+| -------------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                                    | **2026** | **2027** | **2028** |
+| Kartläggning av barns uppväxtvillkor i utanförskapsområden                                         | 3        |          |          |
+| Studie av barn i släktbaserade kriminella nätverk                                                  | 4        | 4        |          |
+| Statsbidrag till simskola i utanförskapsområden                                                    | 90       | 90       | 90       |
+| Friluftsliv i områden där utanförskapet är stort                                                   | 5        | 5        | 5        |
+| Kartlägg vilka som inte kommer till BVC                                                            | 5        |          |          |
+| Språkstärkande insatser på folkhögskola för bl.a. yrkesutbildade personer med svaga språkkunskaper | 40       | 40       | 40       |
 
 
 
@@ -76,12 +76,12 @@ Sverige befinner sig i en lågkonjunktur vilket gör att många personer med kor
 
 Förslagen är en del av en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Regeringen satsar för att minska utanförskapet och förbättra integrationen** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| Kartläggning av barns uppväxtvillkor i utanförskapsområden | 3 |  |  |
-| Studie av barn i släktbaserade kriminella nätverk | 4 | 4 |  |
-| Statsbidrag till simskola i utanförskapsområden | 90 | 90 | 90 |
-| Friluftsliv i områden där utanförskapet är stort | 5 | 5 | 5 |
-| Kartlägg vilka som inte kommer till BVC | 5 |  |  |
-| Språkstärkande insatser på folkhögskola för bl.a. yrkesutbildade personer med svaga språkkunskaper | 40 | 40 | 40 |
+| **Regeringen satsar för att minska utanförskapet och förbättra integrationen**                     | | | |
+| -------------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                                    | **2026** | **2027** | **2028** |
+| Kartläggning av barns uppväxtvillkor i utanförskapsområden                                         | 3        |          |          |
+| Studie av barn i släktbaserade kriminella nätverk                                                  | 4        | 4        |          |
+| Statsbidrag till simskola i utanförskapsområden                                                    | 90       | 90       | 90       |
+| Friluftsliv i områden där utanförskapet är stort                                                   | 5        | 5        | 5        |
+| Kartlägg vilka som inte kommer till BVC                                                            | 5        |          |          |
+| Språkstärkande insatser på folkhögskola för bl.a. yrkesutbildade personer med svaga språkkunskaper | 40       | 40       | 40       |

@@ -11,10 +11,10 @@ Satsningen bedöms vara effektiv för att fler svenskar ska få en EU-anställni
 Regeringen avser att överlämna detta förslag till riksdagen i budgetpropositionen för 2026. Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | Masterutbildningar och fler stipendier för att stärka EU-kompetensen (mnkr) | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Masterutbildning i offentlig förvaltning bl.a. med EU-inriktning** | 30 | 60 | 60 |
-| **Fler stipendier och delfinansiering av ny högre utbildning** | 2 | 2 | 2 |
+| --------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                             | **2026** | **2027** | **2028** |
+| **Masterutbildning i offentlig förvaltning bl.a. med EU-inriktning**        | 30       | 60       | 60       |
+| **Fler stipendier och delfinansiering av ny högre utbildning**              | 2        | 2        | 2        |
 
 
 
@@ -29,7 +29,7 @@ Satsningen bedöms vara effektiv för att fler svenskar ska få en EU-anställni
 Regeringen avser att överlämna detta förslag till riksdagen i budgetpropositionen för 2026. Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | Masterutbildningar och fler stipendier för att stärka EU-kompetensen (mnkr) | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Masterutbildning i offentlig förvaltning bl.a. med EU-inriktning** | 30 | 60 | 60 |
-| **Fler stipendier och delfinansiering av ny högre utbildning** | 2 | 2 | 2 |
+| --------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                             | **2026** | **2027** | **2028** |
+| **Masterutbildning i offentlig förvaltning bl.a. med EU-inriktning**        | 30       | 60       | 60       |
+| **Fler stipendier och delfinansiering av ny högre utbildning**              | 2        | 2        | 2        |

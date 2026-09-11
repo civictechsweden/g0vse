@@ -2,7 +2,7 @@
 
 I propositionen lämnar regeringen flera förslag som ett led i att åstadkomma ett mer rättvist straffsystem där straffen på ett bättre sätt återspeglar brottslighetens allvar, brottsofferperspektivet ges ett ökat inflytande och samhällsskyddet förbättras.
 
-Förslagen innebär bl.a. följande.
+Förslagen innebär bland annat följande.
 
 * Närmare femtio straffskalor skärps.
 * Det införs en ny reglering av den gemensamma straffskalan vid flerfaldig brottslighet som innebär att det högsta straff som får dömas ut är det högsta maximistraffet dubblerat.

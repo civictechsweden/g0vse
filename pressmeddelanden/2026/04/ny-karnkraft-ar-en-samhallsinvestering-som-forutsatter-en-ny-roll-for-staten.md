@@ -38,10 +38,10 @@ Statens åtagande kommer beslutas i avtal i relation till vad den första aktör
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Kärnkraftssatsningar (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Avtal om aktieförvärv och kapitaltillskott i Videberg Kraft AB under perioden åren 2026–2027** |  | 1 800 |  |
+| **Kärnkraftssatsningar (miljoner kronor)**                                                       | | | |
+| ------------------------------------------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                                                                  | **2026** | **2027** | **2028** |
+| **Avtal om aktieförvärv och kapitaltillskott i Videberg Kraft AB under perioden åren 2026–2027** |          | 1 800    |          |
 
 
 
@@ -83,7 +83,7 @@ Statens åtagande kommer beslutas i avtal i relation till vad den första aktör
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Kärnkraftssatsningar (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Avtal om aktieförvärv och kapitaltillskott i Videberg Kraft AB under perioden åren 2026–2027** |  | 1 800 |  |
+| **Kärnkraftssatsningar (miljoner kronor)**                                                       | | | |
+| ------------------------------------------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                                                                  | **2026** | **2027** | **2028** |
+| **Avtal om aktieförvärv och kapitaltillskott i Videberg Kraft AB under perioden åren 2026–2027** |          | 1 800    |          |

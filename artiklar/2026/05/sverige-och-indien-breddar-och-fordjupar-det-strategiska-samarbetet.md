@@ -18,6 +18,6 @@ Premiärminister Modi tog också emot en unik gåva som symboliserar de historis
 
 ## Ett nytt kapitel i ett långvarigt partnerskap
 
-Som ett led i implementeringen av det strategiska partnerskapet enades de båda regeringscheferna om en gemensam handlingsplan för 2026–2030, som stakar ut vägen för hur partnerskapet ska stärkas. Färdplanen omfattar fördjupat samarbete på såväl det poliska som det ekonomiska området, som inom strategiska sektorer som säkerhet och stabilitet, innovation och digital utveckling, forskningsutbyte, hållbarhet och grön omställning.
+Som ett led i implementeringen av det strategiska partnerskapet enades de båda regeringscheferna om en gemensam handlingsplan för 2026–2030, som stakar ut vägen för hur partnerskapet ska stärkas. Färdplanen omfattar fördjupat samarbete på såväl det politiska som det ekonomiska området, som inom strategiska sektorer som säkerhet och stabilitet, innovation och digital utveckling, forskningsutbyte, hållbarhet och grön omställning.
 
 Premiärminister Modi och statsminister Ulf Kristersson träffas på nytt i samband med det tredje nordisk-indiska toppmötet som hålls i Oslo den 19 maj.

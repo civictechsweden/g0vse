@@ -1,4 +1,4 @@
-# Statsministern och Polens premiärminister håller presskonferens om ländernas bilaterala ubåtssamarbete
+# Påminnelse: Statsministern och Polens premiärminister håller presskonferens om ländernas bilaterala ubåtssamarbete
 
 Statsministern reser till Gdynia tillsammans med försvarsminister Pål Jonson, utrikesminister Maria Malmer Stenergard, kulturminister Parisa Liljestrand, infrastruktur- och bostadsminister Andreas Carlson och EU-minister Jessica Rosencrantz. Det är första gången som gemensamma överläggningar på regeringsnivå genomförs med Polen. Utgångspunkten för överläggningarna är det strategiska partnerskapet mellan Sverige och Polen samt ländernas nära samarbete som allierade i Nato, som EU-medlemmar och i försvaret av Östersjöregionen.
 
@@ -6,7 +6,7 @@ Syftet med besöket är att ytterligare stärka samarbetet mellan Sverige och Po
 
 Efter överläggningarna håller statsministern och Polens premiärminister Donald Tusk en gemensam presskonferens. Presskonferensen startar kl. 12.30 och sänds på den polska premiärministerns kanslis Youtubekanal.
 
-[Polska premiärministerns kanslis Youtubekanal - extern webbplats,](https://www.youtube.com/@premierRP/streams)
+[Polska premiärministerns kanslis Youtubekanal - extern webbplats,](https://www.youtube.com/@MinisterstwoObronyNarodowej/streams?app=desktop&ra=m)
 
 ## Praktisk information
 
@@ -28,7 +28,7 @@ Syftet med besöket är att ytterligare stärka samarbetet mellan Sverige och Po
 
 Efter överläggningarna håller statsministern och Polens premiärminister Donald Tusk en gemensam presskonferens. Presskonferensen startar kl. 12.30 och sänds på den polska premiärministerns kanslis Youtubekanal.
 
-[Polska premiärministerns kanslis Youtubekanal - extern webbplats,](https://www.youtube.com/@premierRP/streams)
+[Polska premiärministerns kanslis Youtubekanal - extern webbplats,](https://www.youtube.com/@MinisterstwoObronyNarodowej/streams?app=desktop&ra=m)
 
 ## Praktisk information
 

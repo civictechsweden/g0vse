@@ -11,7 +11,24 @@
             "2605",
             "1293"
         ],
-        "summary": "Joint Declaration of the Leaders of Ukraine and the Nordic Baltic States (NB8)\nKyiv, 23 August 2026"
+        "summary": "Joint Declaration of the Leaders of Ukraine and the Nordic Baltic States (NB8)\nKyiv, 23 August 2026",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1235",
+            "1279",
+            "2584",
+            "1013",
+            "1047",
+            "1058",
+            "1062",
+            "1083",
+            "1108",
+            "1113",
+            "1142",
+            "1198"
+        ]
     },
     {
         "title": "Uttalande från Utrikesdepartementet med anledning av uppkallande av Rysslands chargé d’affaires",
@@ -24,7 +41,15 @@
         "senders": [
             "1295"
         ],
-        "summary": "Utrikesdepartementet har den 3 augusti 2026 kallat upp Rysslands chargé d’affaires i Stockholm."
+        "summary": "Utrikesdepartementet har den 3 augusti 2026 kallat upp Rysslands chargé d’affaires i Stockholm.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2584",
+            "1013",
+            "1157"
+        ]
     },
     {
         "title": "Uttalande av klimat- och miljöminister Romina Pourmokhtari",
@@ -38,7 +63,15 @@
             "2628",
             "1291"
         ],
-        "summary": "Uttalande av klimat- och miljöminister Romina Pourmokhtari med anledning av revideringen av EU:s utsläppshandelssystem, ETS."
+        "summary": "Uttalande av klimat- och miljöminister Romina Pourmokhtari med anledning av revideringen av EU:s utsläppshandelssystem, ETS.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1252",
+            "2746",
+            "1012"
+        ]
     },
     {
         "title": "Letter to the President of the Council on regarding the ETS",
@@ -52,7 +85,20 @@
             "2754",
             "1293"
         ],
-        "summary": "A statement from Minister for EU Affairs Jessica Rosencrantz, on 9 July 2026."
+        "summary": "A statement from Minister for EU Affairs Jessica Rosencrantz, on 9 July 2026.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Press Release: Regeringen sätter press på EU inför kommissionens översyn av utsläppshandeln (ETS)",
+                "url": "/pressmeddelanden/2026/07/regeringen-satter-press-pa-eu-infor-kommissionens-oversyn-av-utslappshandeln-ets/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1252",
+            "2746",
+            "1012"
+        ]
     },
     {
         "title": "Deep Precision Strike Capability Investment Initiative",
@@ -65,7 +111,16 @@
         "senders": [
             "1293"
         ],
-        "summary": "A statement from Denmark, Estonia, Finland, France, Germany, The Netherlands, Norway, Romania, Spain, Sweden, Türkiye and The United Kingdom."
+        "summary": "A statement from Denmark, Estonia, Finland, France, Germany, The Netherlands, Norway, Romania, Spain, Sweden, Türkiye and The United Kingdom.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2247",
+            "1279",
+            "2593",
+            "1013"
+        ]
     },
     {
         "title": "Statement regarding France’s participation in NATO’s Forward Land Forces Finland (FLF Finland)",
@@ -78,7 +133,26 @@
         "senders": [
             "1293"
         ],
-        "summary": "Statement from France, Sweden and Finland, on 8 July 2026, in Ankara."
+        "summary": "Statement from France, Sweden and Finland, on 8 July 2026, in Ankara.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Statsministern, utrikesministern och försvarsministern deltar i Natos toppmöte i AnkaraWebb-TV",
+                "url": "/pressmeddelanden/2026/07/statsministern-utrikesministern-och-forsvarsministern-pa-vag-till-natos-toppmote-i-ankara/"
+            },
+            {
+                "name": "Joint Commitment by European Allies and Canada to take greater responsibility for maritime security in the North Atlantic, the Baltic Sea and the Arctic.",
+                "url": "/uttalanden/2026/07/joint-commitment-by-european-allies-and-canada-to-take-greater-responsibility-for-maritime-security-in-the-north-atlantic-the-baltic-sea-and-the-arctic/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2247",
+            "1279",
+            "2593",
+            "1013",
+            "1063"
+        ]
     },
     {
         "title": "Joint Commitment by European Allies and Canada to take greater responsibility for maritime security in the North Atlantic, the Baltic Sea and the Arctic",
@@ -91,7 +165,21 @@
         "senders": [
             "1293"
         ],
-        "summary": "Canada, Denmark, Finland, France, Germany, Iceland, the Netherlands, Norway, Portugal, Spain, Sweden, and the United Kingdom have reinforced their commitment to take greater maritime responsibility for deterrence and defence in the North Atlantic, the Baltic Sea and the Arctic Ocean."
+        "summary": "Canada, Denmark, Finland, France, Germany, Iceland, the Netherlands, Norway, Portugal, Spain, Sweden, and the United Kingdom have reinforced their commitment to take greater maritime responsibility for deterrence and defence in the North Atlantic, the Baltic Sea and the Arctic Ocean.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Statsministern, utrikesministern och försvarsministern deltar i Natos toppmöte i AnkaraWebb-TV",
+                "url": "/pressmeddelanden/2026/07/statsministern-utrikesministern-och-forsvarsministern-pa-vag-till-natos-toppmote-i-ankara/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2247",
+            "1279",
+            "2593",
+            "1013"
+        ]
     },
     {
         "title": "Joint Ministerial Statement on Proposing new measures to limit EU tourist visas for Russian citizens",
@@ -167,7 +255,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Government.se - Statement of the Ministers of Foreign Affairs of the Nordic- Baltic countries on Russia’s latest disinformation campaign",
+                "name": "Government.se - Statement of the Ministers of Foreign Affairs of the Nordic- Baltic countries on Russia’s latest disinformation campaign- extern webbplats,",
                 "url": "https://www.government.se/statements/2026/05/statement-of-the-ministers-of-foreign-affairs-of-the-nordic--baltic-countries-on-russias-latest-disinformation-campaign/"
             }
         ],
@@ -236,7 +324,7 @@
             },
             {
                 "name": "Regeringskansliets mediabank - Besök av Indiens premiärminister- extern webbplats,",
-                "url": "https://rkbild.se/folder/1075446/"
+                "url": "https://rkbild.se/search/?Indienbesök 17 maj 2026"
             },
             {
                 "name": "Video från besöket för redaktionellt ändamål- extern webbplats,",
@@ -251,7 +339,7 @@
                 "url": "https://kungligmajestatsorden.se/ordnar/nordstjarneorden"
             },
             {
-                "name": "Läs mer om gåvan (på engelska/in English) Artikel: The box of Tagore",
+                "name": "Läs mer om gåvan (på engelska/in English) Artikel: The box of Tagore- extern webbplats,",
                 "url": "https://www.government.se/articles/2026/05/the-box-of-tagore-a-symbolic-gift-representing-strong-historical-bonds/"
             }
         ],
@@ -560,7 +648,16 @@
         ],
         "summary": "Regeringen chartrar ett plan för att undsätta strandade svenskar i Förenade Arabemiraten.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Sverige skickar sjukvårdspersonal till Mellanöstern",
+                "url": "/pressmeddelanden/2026/03/sverige-skickar-sjukvardspersonal-till-mellanostern/"
+            },
+            {
+                "name": "Artikel: Information till svenskar i Mellanöstern",
+                "url": "/artiklar/2026/03/information-till-svenskar-i-mellanostern/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "1064"
@@ -613,7 +710,7 @@
         ]
     },
     {
-        "title": "Joint likeminded statement on the occasion of the second anniversary of Alexei Navalny`s death on 16 February 2024",
+        "title": "Joint likeminded statement on the occasion of the second anniversary of Alexei Navalny's death on 16 February 2024",
         "url": "/uttalanden/2026/02/joint-likeminded-statement-on-the-occasion-of-the-second-anniversary-of-alexei-navalnys-death-on-16-february-2024/",
         "published": "2026-02-16",
         "updated": null,
@@ -632,6 +729,8 @@
             "1047",
             "1058",
             "1062",
+            "1063",
+            "1085",
             "1092",
             "1108",
             "1113",
@@ -682,7 +781,9 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": []
+        "categories": [
+            "1207"
+        ]
     },
     {
         "title": "Uttalande från Utrikesdepartementet med anledning av uppkallande av Irans ambassadör",
@@ -781,6 +882,7 @@
             "2214"
         ],
         "senders": [
+            "2621",
             "1295"
         ],
         "summary": "Utrikesdepartementet har i dag den 11 september kallat upp Rysslands ambassadör i Stockholm.",
@@ -952,8 +1054,10 @@
             "2214"
         ],
         "senders": [
+            "2621",
             "2605",
-            "1293"
+            "1293",
+            "1295"
         ],
         "summary": "Statsminister Ulf Kristersson den 16 maj.",
         "id": null,
@@ -1768,7 +1872,9 @@
         "types": [
             "2214"
         ],
-        "senders": [],
+        "senders": [
+            "1295"
+        ],
         "id": null,
         "shortcuts": [],
         "attachments": [],
@@ -2121,7 +2227,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Joint statement from the International Coordination and Response Group for the victims of Flight PS752 on arbitration",
+                "name": "Joint statement from the International Coordination and Response Group for the victims of Flight PS752 on arbitration- öppnas i ny flik, extern webbplats,",
                 "url": "https://www.government.se/statements/2022/12/joint-statement-from-the-international-coordination-and-response-group-for-the-victims-of-flight-ps752-on-arbitration/"
             }
         ],
@@ -2162,6 +2268,7 @@
             "2214"
         ],
         "senders": [
+            "2627",
             "1286"
         ],
         "summary": "Uttalande från försvarsministrarna i länderna inom försvarssamarbetet European Intervention Initiative (EI2) i samband med ett möte den 7 december 2022, Oslo, Norge.",
@@ -2190,7 +2297,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Joint statement by the Foreign Ministers of Estonia, Finland, Iceland, Latvia, Lithuania, Norway, Sweden and Ukraine (på government.se)",
+                "name": "Joint statement by the Foreign Ministers of Estonia, Finland, Iceland, Latvia, Lithuania, Norway, Sweden and Ukraine (på government.se)- extern webbplats,",
                 "url": "https://www.government.se/statements/2022/11/joint-statement-by-the-foreign-ministers-of-estonia-finland-iceland-latvia-lithuania-norway-sweden-and-ukraine/"
             }
         ],
@@ -2213,6 +2320,7 @@
             "2214"
         ],
         "senders": [
+            "2627",
             "1286"
         ],
         "summary": "Uttalande från försvarsministrarna i länderna inom försvarssamarbetet Norra gruppen i samband med ett möte den 23 november 2022, Oslo, Norge.",
@@ -2236,6 +2344,7 @@
             "2214"
         ],
         "senders": [
+            "2627",
             "1286"
         ],
         "summary": "Uttalande från försvarsministrarna i länderna inom försvarssamarbetet Nordic Defence Cooperation (Nordefco)  i samband med ett möte den 22 november 2022, Oslo, Norge.",
@@ -2259,6 +2368,7 @@
             "2214"
         ],
         "senders": [
+            "2627",
             "1286"
         ],
         "summary": "Ny version: Uttalande från försvarsministrarna i länderna inom försvarssamarbetet Joint Expeditionary Force (JEF), i samband med ett möte den 9–10 november 2022, Edinburgh, Skottland.",
@@ -2269,26 +2379,6 @@
             "2247",
             "2688",
             "2695",
-            "1013"
-        ]
-    },
-    {
-        "title": "Uttalande från försvarsministrarna inom JEF den 3 oktober 2022",
-        "url": "/uttalanden/20222/10/uttalande-fan-forsvarsministrarna-inom-jef-den-3-oktober-2022/",
-        "published": "2022-10-03",
-        "updated": null,
-        "types": [
-            "2214"
-        ],
-        "senders": [
-            "1286"
-        ],
-        "summary": "Uttalande från försvarsministrarna i länderna inom försvarssamarbetet Joint Expeditionary Force (JEF),  i samband med ett digitalt möte den 3 oktober 2022.",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2247",
             "1013"
         ]
     },
@@ -2310,28 +2400,6 @@
             "2584",
             "1157",
             "1198"
-        ]
-    },
-    {
-        "title": "Gemensamt uttalande av försvarsministrarna från Sverige, Finland och Norge den 25 augusti 2022",
-        "url": "/uttalanden/20222/08/gemensamt-uttalande-av-forsvarsministrarna-fran-sverige-finland-och-norge-den-25-augusti-2022/",
-        "published": "2022-08-25",
-        "updated": null,
-        "types": [
-            "2214"
-        ],
-        "senders": [
-            "1286"
-        ],
-        "summary": "Gemensamt uttalande av försvarsminister Peter Hultqvist, Finlands försvarsminister Antti Kaikkonen och Norges försvarsminister Bjørn Arild Gram  i samband med ett möte den 25 augusti i Finland. Uttalandet på engelska i sin helhet nedan:",
-        "id": null,
-        "shortcuts": [],
-        "attachments": [],
-        "categories": [
-            "2247",
-            "2584",
-            "1062",
-            "1142"
         ]
     },
     {

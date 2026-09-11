@@ -13,11 +13,11 @@ Det svenska skogsbruket bidrar till betydande klimatnytta, både genom att ersä
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Återvätning av våtmarker och rådgivning till skogsägare för ökat kolupptag (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Återvätning av nedlagd jordbruksmark** | 50 | 100 | 150 |
-| **Påskynda prövningen av våtmarksåtgärder** | 50 | 50 | 50 |
-| **Information och rådgivning till skogsägare för ökat kolupptag** | 20 | 40 | 40 |
+| ------------------------------------------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                                                                  | **2026** | **2027** | **2028** |
+| **Återvätning av nedlagd jordbruksmark**                                                         | 50       | 100      | 150      |
+| **Påskynda prövningen av våtmarksåtgärder**                                                      | 50       | 50       | 50       |
+| **Information och rådgivning till skogsägare för ökat kolupptag**                                | 20       | 40       | 40       |
 
 
 
@@ -34,8 +34,8 @@ Det svenska skogsbruket bidrar till betydande klimatnytta, både genom att ersä
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Återvätning av våtmarker och rådgivning till skogsägare för ökat kolupptag (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Återvätning av nedlagd jordbruksmark** | 50 | 100 | 150 |
-| **Påskynda prövningen av våtmarksåtgärder** | 50 | 50 | 50 |
-| **Information och rådgivning till skogsägare för ökat kolupptag** | 20 | 40 | 40 |
+| ------------------------------------------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                                                                  | **2026** | **2027** | **2028** |
+| **Återvätning av nedlagd jordbruksmark**                                                         | 50       | 100      | 150      |
+| **Påskynda prövningen av våtmarksåtgärder**                                                      | 50       | 50       | 50       |
+| **Information och rådgivning till skogsägare för ökat kolupptag**                                | 20       | 40       | 40       |

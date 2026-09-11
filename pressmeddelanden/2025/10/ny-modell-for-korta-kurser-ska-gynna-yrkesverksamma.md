@@ -10,11 +10,11 @@ Regeringen fortsätter också den pågående satsningen på korta kurser inom st
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Korta kurser ska gynna yrkesverksamma (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Ny modell: vidareutbildning för yrkesverksamma** | 20 | 40 | 40 |
-| **Fortsatt satsning på korta kurser inom strategiska områden** | 50 | 50 | 50 |
+| **Korta kurser ska gynna yrkesverksamma (miljoner kronor)**    | | | |
+| -------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                | **2026** | **2027** | **2028** |
+| **Ny modell: vidareutbildning för yrkesverksamma**             | 20       | 40       | 40       |
+| **Fortsatt satsning på korta kurser inom strategiska områden** | 50       | 50       | 50       |
 
 
 
@@ -28,8 +28,8 @@ Regeringen fortsätter också den pågående satsningen på korta kurser inom st
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Korta kurser ska gynna yrkesverksamma (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Ny modell: vidareutbildning för yrkesverksamma** | 20 | 40 | 40 |
-| **Fortsatt satsning på korta kurser inom strategiska områden** | 50 | 50 | 50 |
+| **Korta kurser ska gynna yrkesverksamma (miljoner kronor)**    | | | |
+| -------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                | **2026** | **2027** | **2028** |
+| **Ny modell: vidareutbildning för yrkesverksamma**             | 20       | 40       | 40       |
+| **Fortsatt satsning på korta kurser inom strategiska områden** | 50       | 50       | 50       |

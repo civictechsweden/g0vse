@@ -14,3 +14,5 @@ Utredaren ska
 * bedöma och föreslå vilken myndighet som ska ge tillstånd att bedriva utbildningen och vilka krav som ska ställas på huvudmän för att utbildningen ska hålla god kvalitet,
 * bedöma och föreslå vilka krav och villkor som ska ställas för behörighet och urval till utbildningen, och
 * lämna nödvändiga författningsförslag.
+
+Uppdraget ska redovisas senast den 12 maj 2026.

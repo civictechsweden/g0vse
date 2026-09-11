@@ -30,17 +30,17 @@ Regeringen föreslår även en förstärkning med 5 miljoner kronor 2026 för at
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Mer svensk mat på tallriken (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Förebyggande smittskyddsarbete - vektorburna smittor** | 5 | 4 | 3 |
-| **En effektivare och mer likvärdig kontroll i livsmedelskedjan** | 50 | 75 | 100 |
-| **Främjande och utveckling av fiskenäringen och vattenbruk** | 7,5 | 6,5 | 7,5 |
-| **Fortsatt förstärkt finansiering av kompetenscentrum för växtförädling, Grogrund på SLU, för finansiering av växtförädling, inkl. utveckling av nya tekniker** | 10 | 10 | 10 |
-| **Två utbildningssatsningar vid SLU** | 4,5 | 6,5 | 6,5 |
-| **Lantbruksråd** | 10 | 10 | 10 |
-| **Förstärkt djurvälfärdsersättning för mjölkkor på bete** | 282 | 282 |  |
-| **Ökat nationellt stöd till jordbruket i norra Sverige** | 120 | 120 | 120 |
+| **Mer svensk mat på tallriken (miljoner kronor)**                                                                                                               | | | |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                                                                                                 | **2026** | **2027** | **2028** |
+| **Förebyggande smittskyddsarbete - vektorburna smittor**                                                                                                        | 5        | 4        | 3        |
+| **En effektivare och mer likvärdig kontroll i livsmedelskedjan**                                                                                                | 50       | 75       | 100      |
+| **Främjande och utveckling av fiskenäringen och vattenbruk**                                                                                                    | 7,5      | 6,5      | 7,5      |
+| **Fortsatt förstärkt finansiering av kompetenscentrum för växtförädling, Grogrund på SLU, för finansiering av växtförädling, inkl. utveckling av nya tekniker** | 10       | 10       | 10       |
+| **Två utbildningssatsningar vid SLU**                                                                                                                           | 4,5      | 6,5      | 6,5      |
+| **Lantbruksråd**                                                                                                                                                | 10       | 10       | 10       |
+| **Förstärkt djurvälfärdsersättning för mjölkkor på bete**                                                                                                       | 282      | 282      |          |
+| **Ökat nationellt stöd till jordbruket i norra Sverige**                                                                                                        | 120      | 120      | 120      |
 
 
 
@@ -74,14 +74,14 @@ Regeringen föreslår även en förstärkning med 5 miljoner kronor 2026 för at
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Mer svensk mat på tallriken (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Förebyggande smittskyddsarbete - vektorburna smittor** | 5 | 4 | 3 |
-| **En effektivare och mer likvärdig kontroll i livsmedelskedjan** | 50 | 75 | 100 |
-| **Främjande och utveckling av fiskenäringen och vattenbruk** | 7,5 | 6,5 | 7,5 |
-| **Fortsatt förstärkt finansiering av kompetenscentrum för växtförädling, Grogrund på SLU, för finansiering av växtförädling, inkl. utveckling av nya tekniker** | 10 | 10 | 10 |
-| **Två utbildningssatsningar vid SLU** | 4,5 | 6,5 | 6,5 |
-| **Lantbruksråd** | 10 | 10 | 10 |
-| **Förstärkt djurvälfärdsersättning för mjölkkor på bete** | 282 | 282 |  |
-| **Ökat nationellt stöd till jordbruket i norra Sverige** | 120 | 120 | 120 |
+| **Mer svensk mat på tallriken (miljoner kronor)**                                                                                                               | | | |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                                                                                                 | **2026** | **2027** | **2028** |
+| **Förebyggande smittskyddsarbete - vektorburna smittor**                                                                                                        | 5        | 4        | 3        |
+| **En effektivare och mer likvärdig kontroll i livsmedelskedjan**                                                                                                | 50       | 75       | 100      |
+| **Främjande och utveckling av fiskenäringen och vattenbruk**                                                                                                    | 7,5      | 6,5      | 7,5      |
+| **Fortsatt förstärkt finansiering av kompetenscentrum för växtförädling, Grogrund på SLU, för finansiering av växtförädling, inkl. utveckling av nya tekniker** | 10       | 10       | 10       |
+| **Två utbildningssatsningar vid SLU**                                                                                                                           | 4,5      | 6,5      | 6,5      |
+| **Lantbruksråd**                                                                                                                                                | 10       | 10       | 10       |
+| **Förstärkt djurvälfärdsersättning för mjölkkor på bete**                                                                                                       | 282      | 282      |          |
+| **Ökat nationellt stöd till jordbruket i norra Sverige**                                                                                                        | 120      | 120      | 120      |

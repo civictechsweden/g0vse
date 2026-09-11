@@ -10,13 +10,13 @@ Syftet med satsningen är att höja kvaliteten i utbildningarna genom ökad fors
 
 Nu fattas beslut om att fördela medel för sådana forskarskolor. Regeringen har bedömt att medlen ska fördelas på fem forskarskolor enligt tabellen nedan. Totalt kommer 20 miljoner kronor fördelas till dessa fem forskarskolor för 2026. För 2027 och 2028 beräknas satsningen uppgå till 40 miljoner kronor per år.
 
-| **Samordnande lärosäte** | **Umeå universitet** | **Uppsala universitet** | **Örebro universitet*** | **Göteborgs universitet** | **Malmö universitet** |
-| --- | --- | --- | --- | --- | --- |
-| Deltagande lärosäten | Luleå tekniska universitet | Karolinska institutet | Karlstads universitet | Högskolan i Borås | Blekinge tekniska högskola |
-|  | Mittuniversitetet | Marie Cederschiöld högskola | Högskolan Dalarna | Högskolan i Halmstad | Högskolan Kristianstad |
-|  |  | Röda Korsets högskola | Högskolan i Gävle | Högskolan i Skövde | Linnéuniversitetet |
-|  |  | Sophiahemmet högskola | Mälardalens universitet | Högskolan Väst | Lunds universitet |
-|  |  |  | Stiftelsen Högskolan i Jönköping |  |  |
+| **Samordnande lärosäte** | **Umeå universitet**       | **Uppsala universitet**     | **Örebro universitet\***         | **Göteborgs universitet** | **Malmö universitet**      |
+| ------------------------ | -------------------------- | --------------------------- | -------------------------------- | ------------------------- | -------------------------- |
+| Deltagande lärosäten     | Luleå tekniska universitet | Karolinska institutet       | Karlstads universitet            | Högskolan i Borås         | Blekinge tekniska högskola |
+|                          | Mittuniversitetet          | Marie Cederschiöld högskola | Högskolan Dalarna                | Högskolan i Halmstad      | Högskolan Kristianstad     |
+|                          |                            | Röda Korsets högskola       | Högskolan i Gävle                | Högskolan i Skövde        | Linnéuniversitetet         |
+|                          |                            | Sophiahemmet högskola       | Mälardalens universitet          | Högskolan Väst            | Lunds universitet          |
+|                          |                            |                             | Stiftelsen Högskolan i Jönköping |                           |                            |
 
 *Örebro universitet har också möjlighet att samarbeta med Linköpings universitet om forskarskolan.
 
@@ -36,13 +36,13 @@ Syftet med satsningen är att höja kvaliteten i utbildningarna genom ökad fors
 
 Nu fattas beslut om att fördela medel för sådana forskarskolor. Regeringen har bedömt att medlen ska fördelas på fem forskarskolor enligt tabellen nedan. Totalt kommer 20 miljoner kronor fördelas till dessa fem forskarskolor för 2026. För 2027 och 2028 beräknas satsningen uppgå till 40 miljoner kronor per år.
 
-| **Samordnande lärosäte** | **Umeå universitet** | **Uppsala universitet** | **Örebro universitet*** | **Göteborgs universitet** | **Malmö universitet** |
-| --- | --- | --- | --- | --- | --- |
-| Deltagande lärosäten | Luleå tekniska universitet | Karolinska institutet | Karlstads universitet | Högskolan i Borås | Blekinge tekniska högskola |
-|  | Mittuniversitetet | Marie Cederschiöld högskola | Högskolan Dalarna | Högskolan i Halmstad | Högskolan Kristianstad |
-|  |  | Röda Korsets högskola | Högskolan i Gävle | Högskolan i Skövde | Linnéuniversitetet |
-|  |  | Sophiahemmet högskola | Mälardalens universitet | Högskolan Väst | Lunds universitet |
-|  |  |  | Stiftelsen Högskolan i Jönköping |  |  |
+| **Samordnande lärosäte** | **Umeå universitet**       | **Uppsala universitet**     | **Örebro universitet\***         | **Göteborgs universitet** | **Malmö universitet**      |
+| ------------------------ | -------------------------- | --------------------------- | -------------------------------- | ------------------------- | -------------------------- |
+| Deltagande lärosäten     | Luleå tekniska universitet | Karolinska institutet       | Karlstads universitet            | Högskolan i Borås         | Blekinge tekniska högskola |
+|                          | Mittuniversitetet          | Marie Cederschiöld högskola | Högskolan Dalarna                | Högskolan i Halmstad      | Högskolan Kristianstad     |
+|                          |                            | Röda Korsets högskola       | Högskolan i Gävle                | Högskolan i Skövde        | Linnéuniversitetet         |
+|                          |                            | Sophiahemmet högskola       | Mälardalens universitet          | Högskolan Väst            | Lunds universitet          |
+|                          |                            |                             | Stiftelsen Högskolan i Jönköping |                           |                            |
 
 *Örebro universitet har också möjlighet att samarbeta med Linköpings universitet om forskarskolan.
 

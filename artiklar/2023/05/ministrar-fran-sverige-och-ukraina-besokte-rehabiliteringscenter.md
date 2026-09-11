@@ -10,4 +10,4 @@ Besöket på rehabiliteringscentret gjordes i samband med den ukrainska socialmi
 
 Sverige ger sedan många år ett omfattande bistånd till Ukraina, både när det gäller reforminriktat utvecklingssamarbete och humanitärt stöd. Sedan Rysslands fullskaliga invasion av Ukraina i februari 2022 har Sverige bidragit med motsvarande över 4,6 miljarder kronor till humanitärt och civilt stöd (24 mars 2023). Det handlar bland annat om ökat bistånd genom stöd till humanitära organisationer, stöd för att främja kvinnors och flickors möjligheter och rättigheter, civil krishantering i form av donationer av till exempel sjukvårdsmateriel, brandskydd, generatorer och tält. Sverige bidrar också med stöd till Ukrainas reformarbete och återuppbyggnad.
 
-[Läs mer om Sveriges humanitära och civila stöd till Ukraina](/regeringens-politik/sveriges-stod-till-ukraina/humanitart-och-civilt-stod/)
+[Läs mer om Sveriges humanitära och civila stöd till Ukraina](/regeringens-politik/sveriges-stod-till-ukraina/civilt-stod-till-ukraina/)

@@ -16,14 +16,14 @@ En central del i att ge brottsoffer den upprättelse de förtjänar är att se t
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Lag och ordning** | | | |
-| --- | --- | --- | --- |
-|  | 2026 | 2027 | 2028 |
-| **Stärkt teknisk förmåga vid Polismyndigheten** | 200 |  |  |
-| **Elektronisk övervakning av barn och unga** | 35 | 43 | 30 |
-| **Rättsliga biträden** |  | 0.8 | 1,6 |
-| **Förstärkning av ersättning för skador på grund av brott** | 70 |  |  |
-| **Omfördelning från Polismyndigheten** | -35 | -43,8 | -31,6 |
+| **Lag och ordning**                                         | | | |
+| ----------------------------------------------------------- | ---- | ----- | ----- |
+|                                                             | 2026 | 2027  | 2028  |
+| **Stärkt teknisk förmåga vid Polismyndigheten**             | 200  |       |       |
+| **Elektronisk övervakning av barn och unga**                | 35   | 43    | 30    |
+| **Rättsliga biträden**                                      |      | 0.8   | 1,6   |
+| **Förstärkning av ersättning för skador på grund av brott** | 70   |       |       |
+| **Omfördelning från Polismyndigheten**                      | -35  | -43,8 | -31,6 |
 
 
 
@@ -43,11 +43,11 @@ En central del i att ge brottsoffer den upprättelse de förtjänar är att se t
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Lag och ordning** | | | |
-| --- | --- | --- | --- |
-|  | 2026 | 2027 | 2028 |
-| **Stärkt teknisk förmåga vid Polismyndigheten** | 200 |  |  |
-| **Elektronisk övervakning av barn och unga** | 35 | 43 | 30 |
-| **Rättsliga biträden** |  | 0.8 | 1,6 |
-| **Förstärkning av ersättning för skador på grund av brott** | 70 |  |  |
-| **Omfördelning från Polismyndigheten** | -35 | -43,8 | -31,6 |
+| **Lag och ordning**                                         | | | |
+| ----------------------------------------------------------- | ---- | ----- | ----- |
+|                                                             | 2026 | 2027  | 2028  |
+| **Stärkt teknisk förmåga vid Polismyndigheten**             | 200  |       |       |
+| **Elektronisk övervakning av barn och unga**                | 35   | 43    | 30    |
+| **Rättsliga biträden**                                      |      | 0.8   | 1,6   |
+| **Förstärkning av ersättning för skador på grund av brott** | 70   |       |       |
+| **Omfördelning från Polismyndigheten**                      | -35  | -43,8 | -31,6 |

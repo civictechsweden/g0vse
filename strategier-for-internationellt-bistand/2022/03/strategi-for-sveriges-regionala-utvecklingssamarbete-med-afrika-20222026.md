@@ -1,5 +1,7 @@
 # Strategi för Sveriges regionala utvecklingssamarbete med Afrika 2022–2026
 
-(Ny version) Strategin ska gälla under perioden 2022–2026 och omfattar för Sida sammantaget 4 625 miljoner kronor och 45 miljoner kronor avser Folke Bernadotteakademins (FBA:s) verksamhet.
+(Ny version) Målet för svenskt internationellt bistånd är att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Utvecklingssamarbetet utgör samtidigt ett viktigt verktyg för utrikespolitiken och kan bidra till att främja och värna svenska intressen och prioriteringar.
 
-Målet för svenskt internationellt bistånd är att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck. Utvecklingssamarbetet ska ta sin utgångspunkt i principerna om biståndsoch utvecklingseffektivitet liksom i Agenda 2030, Addis Ababa Action Agenda och Parisavtalet.
+Utvecklingssamarbetet inom denna strategi ska ta sin utgångspunkt i regeringens reformagenda för svenskt bistånd: Bistånd för en ny era – Frihet, egenmakt och hållbar tillväxt (UD2023/17726). Verksamheten inom ramen för strategin ska operationaliseras, genomföras och följas upp i enlighet med de principer och processer som anges i uppdrag om bland annat evidensbaserad styrning, genomförande och uppföljning av landstrategier och andra strategier inom biståndet (se till exempel UD2024/17865, UD2026/06869 och UD2026/08216)
+
+Strategin för Sveriges regionala utvecklingssamarbete med Afrika 2022–2026 styr användningen av medel som varje budgetår anslås i regleringsbrevet för Sida. Sida får indikativt använda ca 400 miljoner kronor per år för verksamhet inom ramen för strategin.

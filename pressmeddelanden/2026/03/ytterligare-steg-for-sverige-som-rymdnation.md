@@ -28,10 +28,10 @@ I linje med försvars- och säkerhetsstrategin för rymden genomför regeringen 
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Rymdsatsningar 2026** | |
-| --- | --- |
-| **Medel till Rymdstyrelsen** | 14 miljoner kronor |
-| **Medel till SSC** | 386 miljoner kronor |
+| **Rymdsatsningar 2026**      | |
+| ---------------------------- | ------------------- |
+| **Medel till Rymdstyrelsen** | 14 miljoner kronor  |
+| **Medel till SSC**           | 386 miljoner kronor |
 
 
 
@@ -63,7 +63,7 @@ I linje med försvars- och säkerhetsstrategin för rymden genomför regeringen 
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Rymdsatsningar 2026** | |
-| --- | --- |
-| **Medel till Rymdstyrelsen** | 14 miljoner kronor |
-| **Medel till SSC** | 386 miljoner kronor |
+| **Rymdsatsningar 2026**      | |
+| ---------------------------- | ------------------- |
+| **Medel till Rymdstyrelsen** | 14 miljoner kronor  |
+| **Medel till SSC**           | 386 miljoner kronor |

@@ -14,7 +14,16 @@
             "1293",
             "1294"
         ],
-        "summary": "Statsminister Ulf Kristersson, energi- och näringsminister Ebba Busch och utbildnings- och integrationsminister Simona Mohamsson den 24 augusti 2026, Svenska Dagbladet."
+        "summary": "Statsminister Ulf Kristersson, energi- och näringsminister Ebba Busch och utbildnings- och integrationsminister Simona Mohamsson den 24 augusti 2026, Svenska Dagbladet.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1276",
+            "2694",
+            "2821",
+            "2709"
+        ]
     },
     {
         "title": "\"Hatet mot hbtqi-personer måste stoppas – på gatan, på nätet och i skolan\"",
@@ -30,7 +39,23 @@
             "2624",
             "1284"
         ],
-        "summary": "Jämställdhetsminister Nina Larsson, socialminister Jakob Forssmed, kulturminister Parisa Liljestrand, debattartikel, Upsala Nya Tidning, den 30 juli 2026."
+        "summary": "Jämställdhetsminister Nina Larsson, socialminister Jakob Forssmed, kulturminister Parisa Liljestrand, debattartikel, Upsala Nya Tidning, den 30 juli 2026.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Informationsmaterial: Stolt och trygg: Handlingsplan för hbtqi-personers lika rättigheter och möjligheter",
+                "url": "/informationsmaterial/2025/01/stolt-och-trygg-handlingsplan-for-hbtqi-personers-lika-rattigheter-och-mojligheter/"
+            },
+            {
+                "name": "Rapporten \"Unga tycker om andra\" på Forum för levande historias webbplats- extern webbplats,",
+                "url": "https://www.levandehistoria.se/publikationer/unga-tycker-om-andra-2"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1219",
+            "2403"
+        ]
     },
     {
         "title": "”Bästa lösningarna växer fram i samverkan mellan offentlig sektor, civilsamhälle och näringsliv”",
@@ -46,7 +71,20 @@
             "1291",
             "1292"
         ],
-        "summary": "Energi- och näringsminister Ebba Busch och socialminister Jakob Forssmed, debattartikel, Dagens Samhälle, den 20 juli 2026."
+        "summary": "Energi- och näringsminister Ebba Busch och socialminister Jakob Forssmed, debattartikel, Dagens Samhälle, den 20 juli 2026.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Folkhälsomyndigheten får utökat uppdrag om sociala utfallskontrakt",
+                "url": "/pressmeddelanden/2026/07/folkhalsomyndigheten-far-utokat-uppdrag-om-sociala-utfallskontrakt/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1218",
+            "2655",
+            "2282"
+        ]
     },
     {
         "title": "Det är slut på flygfientlig politik",
@@ -207,6 +245,45 @@
         "attachments": [],
         "categories": [
             "1243"
+        ]
+    },
+    {
+        "title": "”För räddhågset – vi vill införa hedersscreening”",
+        "url": "/debattartiklar/2026/05/for-raddhagset-vi-vill-infora-hedersscreening/",
+        "published": "2026-05-20",
+        "updated": null,
+        "types": [
+            "1333"
+        ],
+        "senders": [
+            "2612",
+            "2791",
+            "2605",
+            "1293"
+        ],
+        "summary": "Statsminister Ulf Kristersson, Sverigedemokraternas partiledare Jimmie Åkesson, energi- och näringsminister Ebba Busch och utbildnings- och integrationsminister Simona Mohamsson, debattartikel, Aftonbladet, den 20 maj 2026.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Arbetet mot våld i nära relationer och hedersrelaterat våld och förtryck",
+                "url": "/pressmeddelanden/2024/06/arbetet-mot-mans-vald-mot-kvinnor-vald-i-nara-relationer-och-hedersrelaterat-vald-och-fortryck-starks/"
+            },
+            {
+                "name": "Artikel: Frihet från våld, förtryck och utnyttjande",
+                "url": "/artiklar/2026/01/frihet-fran-vald-fortryck-och-utnyttjande/"
+            },
+            {
+                "name": "Artikel: Hedersrelaterat våld och förtryck i fokus vid möte med Rådet för kvinnofrid",
+                "url": "/artiklar/2026/05/hedersrelaterat-vald-och-fortryck-i-fokus-vid-mote-med-radet-for-kvinnofrid/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1276",
+            "1220",
+            "1239",
+            "1263",
+            "2671"
         ]
     },
     {
@@ -419,6 +496,7 @@
         "attachments": [],
         "categories": [
             "1277",
+            "2734",
             "2212"
         ]
     },
@@ -523,11 +601,11 @@
             "2616",
             "2624",
             "2791",
-            "1284",
             "1288",
-            "1292"
+            "1292",
+            "1294"
         ],
-        "summary": "Socialminister Jakob Forssmed, kulturminister Parisa Liljestrand, utbildnings- och integrationsminister Simona Mohamsson, debattartikel i Sydsvenskan, den 26 april 2026.",
+        "summary": "Socialminister Jakob Forssmed, kulturminister Parisa Liljestrand, utbildnings- och integrationsminister Simona Mohamsson, debattartikel i Sydsvenskan, den 26 mars 2026.",
         "id": null,
         "shortcuts": [
             {
@@ -582,7 +660,7 @@
         "shortcuts": [
             {
                 "name": "Arbetet mot våld i nära relationer och hedersrelaterat våld och förtryck",
-                "url": "/regeringens-politik/arbetet-mot-vald-i-nara-relationer-och-hedersrelaterat-vald-och-fortryck/"
+                "url": "/regeringens-politik/arbetet-mot-mans-vald-mot-kvinnor-och-hedersrelaterat-vald-och-fortryck/"
             },
             {
                 "name": "Artikel: Möte i Rådet för kvinnofrid – fokus på våld i nära relation",
@@ -627,6 +705,7 @@
         "categories": [
             "1243",
             "1252",
+            "2811",
             "2212"
         ]
     },
@@ -789,7 +868,7 @@
         ]
     },
     {
-        "title": "Så ska fler unga kunna starta eget",
+        "title": "\"Så ska fler unga kunna starta eget\"",
         "url": "/debattartiklar/2026/02/sa-ska-fler-unga-kunna-starta-eget/",
         "published": "2026-02-23",
         "updated": null,
@@ -838,8 +917,8 @@
             "1220",
             "1263",
             "2690",
-            "2688",
-            "2671"
+            "2671",
+            "2688"
         ]
     },
     {
@@ -920,7 +999,7 @@
         ]
     },
     {
-        "title": "Stärkt självförsörjning genom säker brytning av uran",
+        "title": "\"Stärkt självförsörjning genom säker brytning av uran\"",
         "url": "/debattartiklar/2026/02/starkt-sjalvforsorjning-genom-saker-brytning-av-uran/",
         "published": "2026-02-05",
         "updated": null,
@@ -1070,7 +1149,8 @@
             "2616",
             "2623",
             "2626",
-            "1286"
+            "1286",
+            "1295"
         ],
         "summary": "Debattartikel publicerad i Expressen den 9 januari 2026.",
         "id": null,
@@ -1210,7 +1290,16 @@
         ],
         "summary": "Infrastruktur- och bostadsminister Andreas Carlson, debattartikel, Dagens industri, 10 november 2025.",
         "id": null,
-        "shortcuts": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Nationell godstransportstrategi för ett konkurrenskraftigt näringsliv",
+                "url": "/pressmeddelanden/2025/11/nationell-godstransportstrategi-for-ett-konkurrenskraftigt-naringsliv/"
+            },
+            {
+                "name": "Rapport: En godstransportstrategi för ett konkurrenskraftigt näringsliv",
+                "url": "/rapporter/2025/11/en-godstransportstrategi-for-ett-konkurrenskraftigt-naringsliv/"
+            }
+        ],
         "attachments": [],
         "categories": [
             "1274"
@@ -1350,8 +1439,8 @@
             "1219",
             "1239",
             "2092",
-            "2212",
-            "2671"
+            "2671",
+            "2212"
         ]
     },
     {
@@ -1715,7 +1804,8 @@
             "2756",
             "2611",
             "2612",
-            "1286"
+            "1286",
+            "1295"
         ],
         "summary": "Minister för civilt försvar Carl-Oskar Bohlin, energi- och näringsminister Ebba Busch, arbetsmarknadsminister Mats Persson, bistånds- och utrikeshandelsminister Benjamin Dousa och infrastruktur- och bostadsminister Andreas Carlson, debattartikel, Dagens industri, den 23 juni 2025.",
         "id": null,
@@ -3260,6 +3350,7 @@
             "1257",
             "2749",
             "2691",
+            "2811",
             "2797",
             "2688"
         ]
@@ -3626,7 +3717,8 @@
         "attachments": [],
         "categories": [
             "1238",
-            "1248"
+            "1248",
+            "2821"
         ]
     },
     {
@@ -4030,7 +4122,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "In English: “Two-state solution only path to sustainable peace”",
+                "name": "In English: “Two-state solution only path to sustainable peace”- extern webbplats,",
                 "url": "https://www.government.se/opinion-pieces/2023/12/two-state-solution-only-path-to-sustainable-peace/"
             }
         ],
@@ -4237,7 +4329,8 @@
         "shortcuts": [],
         "attachments": [],
         "categories": [
-            "1226"
+            "1226",
+            "2811"
         ]
     },
     {
@@ -5048,6 +5141,8 @@
         "id": null,
         "shortcuts": [],
         "attachments": [],
-        "categories": []
+        "categories": [
+            "2811"
+        ]
     }
 ]

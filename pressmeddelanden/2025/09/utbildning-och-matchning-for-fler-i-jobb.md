@@ -33,17 +33,17 @@ För att underlätta för långtidsarbetslösa och nyanlända att få en anstäl
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Utbildning och matchning för fler i jobb (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Förstärkning av piloten med nationell yrkesutbildning** | 50 | 50 | 50 |
-| **Tillskott studiemedel för nationell yrkesutbildning** | 15 | 15 | 15 |
-| **Fortsatt utbyggnad av yrkeshögskolan** | 117,5 | 229,5 | 372,5 |
-| **Tillskott studiemedel för utbyggnad av yrkeshögskolan** | 62,5 | 130,5 | 217,5 |
-| **Statsbidrag för regionalt yrkesvux** | 100 |  |  |
-| **Tillskott studiemedel för regionalt yrkesvux** | 38 |  |  |
-| **Matchning och kontroll hos Arbetsförmedlingen** | 100 | 200 | 300 |
-| **Förstärkning av arbetsmarknadsutbildningar inom vård** | 30 | 30 | 30 |
-| **Förlängning av etableringsjobben** | 11 | 84 | 196 |
+| -------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                | **2026** | **2027** | **2028** |
+| **Förstärkning av piloten med nationell yrkesutbildning**      | 50       | 50       | 50       |
+| **Tillskott studiemedel för nationell yrkesutbildning**        | 15       | 15       | 15       |
+| **Fortsatt utbyggnad av yrkeshögskolan**                       | 117,5    | 229,5    | 372,5    |
+| **Tillskott studiemedel för utbyggnad av yrkeshögskolan**      | 62,5     | 130,5    | 217,5    |
+| **Statsbidrag för regionalt yrkesvux**                         | 100      |          |          |
+| **Tillskott studiemedel för regionalt yrkesvux**               | 38       |          |          |
+| **Matchning och kontroll hos Arbetsförmedlingen**              | 100      | 200      | 300      |
+| **Förstärkning av arbetsmarknadsutbildningar inom vård**       | 30       | 30       | 30       |
+| **Förlängning av etableringsjobben**                           | 11       | 84       | 196      |
 
 
 
@@ -80,14 +80,14 @@ För att underlätta för långtidsarbetslösa och nyanlända att få en anstäl
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Utbildning och matchning för fler i jobb (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Förstärkning av piloten med nationell yrkesutbildning** | 50 | 50 | 50 |
-| **Tillskott studiemedel för nationell yrkesutbildning** | 15 | 15 | 15 |
-| **Fortsatt utbyggnad av yrkeshögskolan** | 117,5 | 229,5 | 372,5 |
-| **Tillskott studiemedel för utbyggnad av yrkeshögskolan** | 62,5 | 130,5 | 217,5 |
-| **Statsbidrag för regionalt yrkesvux** | 100 |  |  |
-| **Tillskott studiemedel för regionalt yrkesvux** | 38 |  |  |
-| **Matchning och kontroll hos Arbetsförmedlingen** | 100 | 200 | 300 |
-| **Förstärkning av arbetsmarknadsutbildningar inom vård** | 30 | 30 | 30 |
-| **Förlängning av etableringsjobben** | 11 | 84 | 196 |
+| -------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                | **2026** | **2027** | **2028** |
+| **Förstärkning av piloten med nationell yrkesutbildning**      | 50       | 50       | 50       |
+| **Tillskott studiemedel för nationell yrkesutbildning**        | 15       | 15       | 15       |
+| **Fortsatt utbyggnad av yrkeshögskolan**                       | 117,5    | 229,5    | 372,5    |
+| **Tillskott studiemedel för utbyggnad av yrkeshögskolan**      | 62,5     | 130,5    | 217,5    |
+| **Statsbidrag för regionalt yrkesvux**                         | 100      |          |          |
+| **Tillskott studiemedel för regionalt yrkesvux**               | 38       |          |          |
+| **Matchning och kontroll hos Arbetsförmedlingen**              | 100      | 200      | 300      |
+| **Förstärkning av arbetsmarknadsutbildningar inom vård**       | 30       | 30       | 30       |
+| **Förlängning av etableringsjobben**                           | 11       | 84       | 196      |

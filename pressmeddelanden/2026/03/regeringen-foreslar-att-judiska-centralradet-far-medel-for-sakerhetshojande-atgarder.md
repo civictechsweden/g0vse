@@ -9,9 +9,9 @@ Regeringen avser att föreslå detta i vårändringsbudgeten för 2026.
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | Medel för säkerhetshöjande åtgärder till Judiska Centralrådet | |
-| --- | --- |
-|  | 2026 |
-| Säkerhetsinsatser för den judiska minoriteten | 9 mnkr |
+| ------------------------------------------------------------- | ------ |
+|                                                               | 2026   |
+| Säkerhetsinsatser för den judiska minoriteten                 | 9 mnkr |
 
 
 
@@ -24,6 +24,6 @@ Regeringen avser att föreslå detta i vårändringsbudgeten för 2026.
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | Medel för säkerhetshöjande åtgärder till Judiska Centralrådet | |
-| --- | --- |
-|  | 2026 |
-| Säkerhetsinsatser för den judiska minoriteten | 9 mnkr |
+| ------------------------------------------------------------- | ------ |
+|                                                               | 2026   |
+| Säkerhetsinsatser för den judiska minoriteten                 | 9 mnkr |

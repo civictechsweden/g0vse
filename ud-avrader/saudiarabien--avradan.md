@@ -1,3 +1,3 @@
-# Saudiarabien – avrådan
+# Saudiarabien – lättad avrådan
 
 

@@ -16,9 +16,9 @@ Tillsammans med tidigare tillskott som den nuvarande regeringen har föreslagit 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Fortsatt förstärkning av Säkerhetspolisen (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Stärkt operativ förmåga** | 100 | 100 | 100 |
+| ---------------------------------------------------- | -------- | -------- | -------- |
+|                                                      | **2026** | **2027** | **2028** |
+| **Stärkt operativ förmåga**                          | 100      | 100      | 100      |
 
 
 
@@ -38,6 +38,6 @@ Tillsammans med tidigare tillskott som den nuvarande regeringen har föreslagit 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Fortsatt förstärkning av Säkerhetspolisen (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Stärkt operativ förmåga** | 100 | 100 | 100 |
+| ---------------------------------------------------- | -------- | -------- | -------- |
+|                                                      | **2026** | **2027** | **2028** |
+| **Stärkt operativ förmåga**                          | 100      | 100      | 100      |

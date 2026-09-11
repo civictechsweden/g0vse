@@ -5,9 +5,9 @@ Husvagnar innebär glädje och frihet för många människor runt om i Sverige. 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Slopad fordonsskatt för vissa släpvagnar, däribland husvagnar (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Offentligfinansiell effekt** | 190 | 220 | 220 |
+| ------------------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                                          | **2026** | **2027** | **2028** |
+| **Offentligfinansiell effekt**                                           | 190      | 220      | 220      |
 
 
 
@@ -16,6 +16,6 @@ Husvagnar innebär glädje och frihet för många människor runt om i Sverige. 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Slopad fordonsskatt för vissa släpvagnar, däribland husvagnar (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Offentligfinansiell effekt** | 190 | 220 | 220 |
+| ------------------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                                          | **2026** | **2027** | **2028** |
+| **Offentligfinansiell effekt**                                           | 190      | 220      | 220      |

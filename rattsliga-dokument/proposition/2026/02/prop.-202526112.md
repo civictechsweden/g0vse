@@ -16,6 +16,4 @@ pantsättningar. Syftet med ett register är att
 Det ska vidare införas ett enhetligt sakrättsligt system för bostadsrätter.
 Registrering ersätter underrättelse till bostadsrättsföreningen som sakrättsligt moment vid pantsättning och överlåtelse av bostadsrätt.
 
-De lagändringar som avser uppbyggnaden av registret föreslås träda
-i kraft den 1 januari 2027. Ändringarna i övrigt föreslås träda i kraft den
-dag som regeringen bestämmer.
+De lagändringar som avser uppbyggnaden av registret föreslås träda i kraft den 1 januari 2027. Ändringarna i övrigt föreslås träda i kraft den dag som regeringen bestämmer.

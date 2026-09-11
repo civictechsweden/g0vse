@@ -115,7 +115,7 @@ Regeringen har beslutat om nya uppdrag till Socialstyrelsen och Inspektionen fö
 
 Regeringen har nu lämnat över propositionen Stärkt lagstiftning mot hedersrelaterat våld och förtryck till riksdagen. I propositionen föreslås bland annat: att det straffbara området för äktenskapstvång utvidgas, brottet vilseledande till äktenskapsresa byter namn till äktenskapsresebrott och får utvidgat tillämpningsområde och äktenskapsresebrott mot barn införs. Det föreslås också att straffen för vissa hedersrelaterade brott skärps.
 
-[Pressmeddelande: Regeringen föreslår stärkt lagstiftning mot hedersrelaterat våld och förtryck](/pressmeddelanden/2026/02/starkt-lagstiftning-mot-hedersrelaterat-vald-och-fortryck/)
+[Pressmeddelande: Regeringen föreslår stärkt lagstiftning mot hedersrelaterat våld och förtryck](/pressmeddelanden/2026/03/regeringen-foreslar-starkt-lagstiftning-mot-hedersrelaterat-vald-och-fortryck/ "Pressmeddelande: Regeringen föreslår stärkt lagstiftning mot hedersrelaterat våld och förtryck")
 
 ### Regeringen föreslår förbud mot kusinäktenskap
 

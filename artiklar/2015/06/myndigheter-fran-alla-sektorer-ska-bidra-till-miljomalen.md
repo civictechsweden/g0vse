@@ -6,15 +6,15 @@ Om miljömålen ska klaras behövs lösningar från alla sektorer. Uppdraget vä
 
 Uppdraget går till följande 25 myndigheter:
 
-| Boverket | Livsmedelsverket | Statens energimyndighet |
-| --- | --- | --- |
-| Exportkreditnämnden | Läkemedelsverket | Statens jordbruksverk |
-| Folkhälsomyndigheten | MSB | Statens skolverk |
-| Försvarsmakten | Riksantikvarieämbetet | Strålsäkerhetsmyndigheten |
-| Havs- och vattenmyndigheten | SGU | Tillväxtanalys |
-| Kemikalieinspektionen | Sida | Tillväxtverket |
-| Kommerskollegium | Sjöfartsverket | Trafikverket |
-| Konsumentverket | Skogsstyrelsen | Transportstyrelsen |
-| Upphandlingsmyndigheten |  |  |
+| Boverket                    | Livsmedelsverket      | Statens energimyndighet   |
+| --------------------------- | --------------------- | ------------------------- |
+| Exportkreditnämnden         | Läkemedelsverket      | Statens jordbruksverk     |
+| Folkhälsomyndigheten        | MSB                   | Statens skolverk          |
+| Försvarsmakten              | Riksantikvarieämbetet | Strålsäkerhetsmyndigheten |
+| Havs- och vattenmyndigheten | SGU                   | Tillväxtanalys            |
+| Kemikalieinspektionen       | Sida                  | Tillväxtverket            |
+| Kommerskollegium            | Sjöfartsverket        | Trafikverket              |
+| Konsumentverket             | Skogsstyrelsen        | Transportstyrelsen        |
+| Upphandlingsmyndigheten     |                       |                           |
 
 Senast den 1 mars 2016 ska myndigheterna kortfattat redovisa sin miljöanalys till Miljö- och energidepartementet.

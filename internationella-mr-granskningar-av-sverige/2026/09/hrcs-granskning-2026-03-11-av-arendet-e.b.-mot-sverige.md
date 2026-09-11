@@ -1,0 +1,7 @@
+# HRC:s granskning (2026-03-11) av ärendet E.B. mot Sverige
+
+Fråga om utvisning av klaganden till Albanien stred mot artiklarna 6 och 7 i FN:s konvention om medborgerliga och politiska rättigheter (ICCPR).
+
+Inför FN:s kommitté för de mänskliga rättigheterna (HRC) uppgav klaganden att tidigare verkställda utvisningar av honom från Sverige till Albanien kränkt hans rättigheter enligt konventionen, och att verkställighet av ett gällande utvisningsbeslut också skulle utgöra en sådan kränkning, med hänvisning till hans hälsotillstånd och att han saknade tillgång till livsnödvändig vård i Albanien.
+
+I utlåtandet framhöll kommittén att individer med funktionsnedsättningar har rätt till särskilda skyddsåtgärder för att säkerställa ett effektivt skydd av deras rätt till liv på en jämlik basis med andra. Kommittén noterade också att klaganden var ett barn under majoriteten av de inhemska processerna och att han var i behov av regelbunden uppföljande vård och medicinering. Kommittén noterade klagandens argument att de svenska myndigheterna inte hade beaktat samtliga omständigheter åberopade av honom, däribland hans erfarenheter av att efter tidigare utvisningsbeslut ha nekats nödvändig vård i Albanien och de intyg han hade gett in till stöd för att nödvändig vård saknas i landet. Mot denna bakgrund bedömde kommittén att de svenska myndigheterna inte hade tillräckligt utrett om klaganden skulle ha tillgång till nödvändig vård i Albanien, i strid med artiklarna 6 och 7 i ICCPR.

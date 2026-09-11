@@ -3,7 +3,7 @@
 Promemorian innehåller i huvudsak förslag till ändringar i lagen (2003:1156) om överlämnande från Sverige enligt en europeisk arresteringsorder och lagen (2011:1165) om överlämnande från Sverige enligt en nordisk arresteringsorder som avser att förtydliga det svenska genomförandet av regelverket i vissa delar samt anpassa det till EU-domstolens
 praxis.
 
-Förslagen innebär bl.a. följande:
+Förslagen innebär bland annat följande:
 
 * Om en arresteringsorder avser lagföring, ska den eftersökte på begäran
 av den utfärdande myndigheten antingen kunna höras i den

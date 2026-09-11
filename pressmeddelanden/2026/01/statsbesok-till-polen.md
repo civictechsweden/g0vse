@@ -10,7 +10,7 @@ En näringslivsdelegation arrangerad av Business Sweden på uppdrag av Utrikesde
 
 Det tre dagar långa statsbesöket äger rum i Warszawa och Gdansk.
 
-Kungaparet har tidigare genomfört statsbesök till Polen 2011.
+Statsbesök har tidigare genomförts till Polen 2011 samt 1993.
 
 Mer information om deltagare och program publiceras närmare besöket.
 
@@ -28,7 +28,7 @@ En näringslivsdelegation arrangerad av Business Sweden på uppdrag av Utrikesde
 
 Det tre dagar långa statsbesöket äger rum i Warszawa och Gdansk.
 
-Kungaparet har tidigare genomfört statsbesök till Polen 2011.
+Statsbesök har tidigare genomförts till Polen 2011 samt 1993.
 
 Mer information om deltagare och program publiceras närmare besöket.
 

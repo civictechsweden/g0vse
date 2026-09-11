@@ -1,6 +1,6 @@
 # ”Antisemitismen är ett växande hot i vårt samhälle.”
 
-Socialminister Jakob Forssmed, kulturminister Parisa Liljestrand, utbildnings- och integrationsminister Simona Mohamsson, debattartikel i Sydsvenskan, den 26 april 2026.
+Socialminister Jakob Forssmed, kulturminister Parisa Liljestrand, utbildnings- och integrationsminister Simona Mohamsson, debattartikel i Sydsvenskan, den 26 mars 2026.
 
 Hoten mot judar i Sverige har tyvärr under de senaste åren ökat och blivit mer synliga. I takt med att konflikterna i Mellanöstern trappats upp har också otryggheten för judar i Sverige vuxit.
 

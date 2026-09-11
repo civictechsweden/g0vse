@@ -12,9 +12,9 @@ Kusinäktenskap kan medföra flera risker, särskilt för flickor och kvinnor. I
 
 I propositionen lämnas förslag som bland annat innebär följande:
 
-* Kusinäktenskap och äktenskap mellan andra nära släktningar förbjuds i Sverige.
+* Kusinäktenskap och äktenskap mellan andra nära släktingar förbjuds i Sverige.
 * Det ska inte längre vara möjligt för halvsyskon och syskon till följd av adoption att få tillstånd att gifta sig med varandra.
-* Kusinäktenskap och äktenskap mellan andra nära släktningar som ingåtts utomlands ska som huvudregel inte erkännas i Sverige.
+* Kusinäktenskap och äktenskap mellan andra nära släktingar som ingåtts utomlands ska som huvudregel inte erkännas i Sverige.
 
 Förslagen föreslås träda i kraft den 1 juli 2026.
 
@@ -30,8 +30,8 @@ Kusinäktenskap kan medföra flera risker, särskilt för flickor och kvinnor. I
 
 I propositionen lämnas förslag som bland annat innebär följande:
 
-* Kusinäktenskap och äktenskap mellan andra nära släktningar förbjuds i Sverige.
+* Kusinäktenskap och äktenskap mellan andra nära släktingar förbjuds i Sverige.
 * Det ska inte längre vara möjligt för halvsyskon och syskon till följd av adoption att få tillstånd att gifta sig med varandra.
-* Kusinäktenskap och äktenskap mellan andra nära släktningar som ingåtts utomlands ska som huvudregel inte erkännas i Sverige.
+* Kusinäktenskap och äktenskap mellan andra nära släktingar som ingåtts utomlands ska som huvudregel inte erkännas i Sverige.
 
 Förslagen föreslås träda i kraft den 1 juli 2026.

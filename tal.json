@@ -8,10 +8,24 @@
             "1338"
         ],
         "senders": [
+            "2621",
             "2605",
-            "1293"
+            "1293",
+            "1295"
         ],
-        "summary": "Sergels torg, Stockholm, den 24 augusti 2026. Det talade ordet gäller."
+        "summary": "Sergels torg, Stockholm, den 24 augusti 2026. Det talade ordet gäller.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Statsminister Ulf Kristersson talar på Sergels torg",
+                "url": "/pressmeddelanden/2026/08/statsminister-ulf-kristersson-talar-pa-sergels-torg/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2584",
+            "1198"
+        ]
     },
     {
         "title": "Statsminister Ulf Kristerssons tal i Strängnäs på nationaldagen 2026",
@@ -143,6 +157,7 @@
         "attachments": [],
         "categories": [
             "1242",
+            "2819",
             "2539",
             "2666"
         ]
@@ -272,7 +287,8 @@
         "attachments": [],
         "categories": [
             "1235",
-            "1279"
+            "1279",
+            "2734"
         ]
     },
     {
@@ -346,7 +362,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Statsrådet Johan Britz får tillfälligt ansvar för klimat- och miljöfrågornaWebb-TV",
+                "name": "Pressmeddelande: Statsrådet Johan Britz får tillfälligt ansvar för klimat- och miljöfrågorna",
                 "url": "/pressmeddelanden/2026/02/statsradet-johan-britz-far-tillfalligt-ansvar-for-klimat-och-miljofragorna/"
             }
         ],
@@ -402,7 +418,7 @@
         ],
         "attachments": [
             {
-                "name": "Utrikesdeklarationen 2026 (pdf 693 kB)",
+                "name": "Utrikesdeklarationen 2026 (pdf 723 kB)",
                 "url": "/contentassets/7cb70ed6d8c841b18310d4f98c266f51/utrikesdeklarationen-2026.pdf"
             }
         ],
@@ -812,8 +828,7 @@
         "published": "2025-12-20",
         "updated": null,
         "types": [
-            "1338",
-            "1343"
+            "1338"
         ],
         "senders": [
             "2605",
@@ -1149,7 +1164,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Gemensamt uttalande av utrikesministrarna i de nordiska länderna och Nya Zeeland (på engelska)",
+                "name": "Gemensamt uttalande av utrikesministrarna i de nordiska länderna och Nya Zeeland (på engelska)- extern webbplats,",
                 "url": "https://www.government.se/statements/2025/10/joint-statement-by-the-foreign-ministers-of-the-nordic-countries-and-new-zealand/"
             }
         ],
@@ -1829,7 +1844,7 @@
                 "url": "/pressmeddelanden/2025/02/stodet-till-ukraina-sakerhetspolitiskt-samarbete-och-naromradet-i-fokus-i-arets-utrikesdeklaration/"
             },
             {
-                "name": "Utrikesdeklarationen på engelska på government.se",
+                "name": "Utrikesdeklarationen på engelska på government.se- extern webbplats,",
                 "url": "https://www.government.se/speeches/2025/02/statement-of-foreign-policy-2025/"
             }
         ],
@@ -2265,6 +2280,7 @@
             "1338"
         ],
         "senders": [
+            "2756",
             "2621",
             "1295"
         ],
@@ -3123,7 +3139,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Statement of Government Policy Following Sweden’s Accession to NATO (på engelska) (government.se)",
+                "name": "Statement of Government Policy Following Sweden’s Accession to NATO (på engelska) (government.se)- extern webbplats,",
                 "url": "https://www.government.se/speeches/2024/03/statement-of-government-policy-following-swedens-accession-to-nato/"
             },
             {
@@ -3280,7 +3296,7 @@
                 "url": "/pressmeddelanden/2024/03/statsminister-ulf-kristersson-haller-tal-till-nationen/"
             },
             {
-                "name": "In English: Prime Minister Ulf Kristersson’s address to the nation",
+                "name": "In English: Prime Minister Ulf Kristersson’s address to the nation- extern webbplats,",
                 "url": "https://www.government.se/speeches/2024/03/prime-minister-ulf-kristerssons-address-to-the-nation/"
             }
         ],
@@ -3362,7 +3378,7 @@
                 "url": "/tal/2024/03/utrikesdeklaration-med-anledning-av-sveriges-medlemskap-i-nato/"
             },
             {
-                "name": "Statement of Foreign Policy 2024 (engelska) – på government.se",
+                "name": "Statement of Foreign Policy 2024 (engelska) – på government.se- extern webbplats,",
                 "url": "https://www.government.se/speeches/2024/02/statement-of-foreign-policy-2024/"
             },
             {
@@ -3578,7 +3594,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "In English: Speech by Prime Minister Ulf Kristersson at Folk och Försvars annual national conference 2024",
+                "name": "In English: Speech by Prime Minister Ulf Kristersson at Folk och Försvars annual national conference 2024- extern webbplats,",
                 "url": "https://www.government.se/speeches/2024/01/speech-by-prime-minister-ulf-kristersson-at-folk-och-forsvars-annual-national-conference-2024/"
             },
             {
@@ -3651,7 +3667,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "In English: Speech by Minister for Civil Defence Carl-Oskar Bohlin at Folk och Försvars annual national conference in Sälen on the 7th of January 2024",
+                "name": "In English: Speech by Minister for Civil Defence Carl-Oskar Bohlin at Folk och Försvars annual national conference in Sälen on the 7th of January 2024- extern webbplats,",
                 "url": "https://www.government.se/speeches/2024/01/speech-by-minister-for-civil-defence-carl-oskar-bohlin-at-folk-och-forsvars-annual-national-conference-in-salen-on-the-7th-of-january-2024/"
             }
         ],
@@ -3868,7 +3884,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Minister for Foreign Affairs Tobias Billström delivered policy speech on Belarus – på government.se",
+                "name": "Minister for Foreign Affairs Tobias Billström delivered policy speech on Belarus – på government.se- extern webbplats,",
                 "url": "https://www.government.se/speeches/2023/11/minister-for-foreign-affairs-tobias-billstrom-delivered-policy-speech-on-belarus/"
             },
             {
@@ -4074,7 +4090,7 @@
                 "url": "/pressmeddelanden/2023/09/statsminister-ulf-kristersson-haller-tal-till-nationen/"
             },
             {
-                "name": "In English: Prime Minister Ulf Kristersson’s address to the nation",
+                "name": "In English: Prime Minister Ulf Kristersson’s address to the nation- extern webbplats,",
                 "url": "https://www.government.se/speeches/2023/09/prime-minister-ulf-kristerssons-address-to-the-nation/"
             }
         ],
@@ -4566,7 +4582,7 @@
                 "url": "https://swedish-presidency.consilium.europa.eu/sv/evenemang/single-market-forum-simfo-25/"
             },
             {
-                "name": "In English: Opening speech by Prime Minister Ulf Kristersson at the Single Market Forum Conference",
+                "name": "In English: Opening speech by Prime Minister Ulf Kristersson at the Single Market Forum Conference- extern webbplats,",
                 "url": "https://www.government.se/speeches/2023/05/opening-speech-by-prime-minister-ulf-kristersson-at-the-single-market-forum-conference/"
             }
         ],
@@ -4612,7 +4628,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "In English: Prime Minister Ulf Kristersson’s speech at the opening of the Nordic Office of the World Jewish Congress",
+                "name": "In English: Prime Minister Ulf Kristersson’s speech at the opening of the Nordic Office of the World Jewish Congress- extern webbplats,",
                 "url": "https://www.government.se/speeches/2023/04/prime-minister-ulf-kristerssons-speech-at-the-opening-of-the-nordic-office-of-the-world-jewish-congress/"
             }
         ],
@@ -4654,7 +4670,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "In English: Prime Minister Ulf Kristersson’s speech at the Donors' Conference - Together for the people in Türkiye and Syria",
+                "name": "In English: Prime Minister Ulf Kristersson’s speech at the Donors' Conference - Together for the people in Türkiye and Syria- extern webbplats,",
                 "url": "https://www.government.se/speeches/2023/03/prime-minister-ulf-kristerssons-speech-at-the-donors-conference---together-for-the-people-in-turkiye-and-syria/"
             },
             {
@@ -4681,7 +4697,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "In English: Prime Minister Ulf Kristersson’s speech at Hertie School",
+                "name": "In English: Prime Minister Ulf Kristersson’s speech at Hertie School- extern webbplats,",
                 "url": "https://www.government.se/speeches/2023/03/prime-minister-ulf-kristerssons-speech-at-hertie-school/"
             }
         ],
@@ -4808,7 +4824,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Statement of Foreign Policy 2023 (på engelska)",
+                "name": "Statement of Foreign Policy 2023 (på engelska)- extern webbplats,",
                 "url": "https://www.government.se/speeches/2023/02/statement-of-foreign-policy-2023/"
             },
             {
@@ -5371,6 +5387,7 @@
             "1338"
         ],
         "senders": [
+            "2618",
             "1295"
         ],
         "summary": "Under FN-förbundets seminarium på FN-dagen den 24 oktober höll utrikesminister Tobias Billström ett anförande om FN och Ukraina. Seminariet hölls på konserthuset i Stockholm. \n\nDet talade ordet gäller.",
@@ -5544,7 +5561,7 @@
         "shortcuts": [
             {
                 "name": "Bilder från EU-politiska debatten i riksdagen den 20 januari 2021- extern webbplats,",
-                "url": "https://rkbild.se/fotoweb/archives/5000-Bildbank/?q=210120%20EU-politisk%20debatt"
+                "url": "https://rkbild.se/fotoweb/archives/5000-Bildbank/?q=210120 EU-politisk debatt"
             }
         ],
         "attachments": [
@@ -5663,7 +5680,7 @@
                 "url": "/tal/2018/02/utrikesdeklarationen-2018/"
             },
             {
-                "name": "Statement of Foreign Policy 2018 (English)",
+                "name": "Statement of Foreign Policy 2018 (English)- extern webbplats,",
                 "url": "https://www.government.se/speeches/2018/02/the-governments-statement-of-foreign-policy-2018/"
             }
         ],
@@ -5700,7 +5717,7 @@
                 "url": "/tal/2018/02/utrikesdeklarationen-2018/"
             },
             {
-                "name": "Statement of Foreign Policy 2018 (English)",
+                "name": "Statement of Foreign Policy 2018 (English)- extern webbplats,",
                 "url": "https://www.government.se/speeches/2018/02/the-governments-statement-of-foreign-policy-2018/"
             }
         ],
@@ -6207,30 +6224,6 @@
         "categories": []
     },
     {
-        "title": "Statement of Government Policy in the Parliamentary Debate on Foreign Affairs 2012",
-        "url": "/tal/2012/02/statement-of-government-policy-in-the-parliamentary-debate-on-foreign-affairs-2012/",
-        "published": "2012-02-15",
-        "updated": null,
-        "types": [
-            "1338"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Statement of Government Policy in the Parliamentary Debate on Foreign Affairs 2011 (pdf 405 kB)",
-                "url": "/contentassets/90e59d9089a54dcc9e2e4866d625a6b5/statement-of-government-policy-in-the-parliamentary-debate-on-foreign-affairs-2011/"
-            }
-        ],
-        "categories": [
-            "1235",
-            "1215"
-        ]
-    },
-    {
         "title": "Utrikesdeklarationen 2012",
         "url": "/tal/2012/02/utrikesdeklarationen-2012-/",
         "published": "2012-02-15",
@@ -6247,6 +6240,30 @@
             {
                 "name": "Regeringens deklaration vid 2012 års utrikespolitiska debatt i Riksdagen onsdagen den 15 februari 2012 (pdf 421 kB)",
                 "url": "/contentassets/df1c87d529434a57a7bbd3f624740a91/regeringens-deklaration-vid-2012-ars-utrikespolitiska-debatt-i-riksdagen-onsdagen-den-15-februari-2012/"
+            }
+        ],
+        "categories": [
+            "1235",
+            "1215"
+        ]
+    },
+    {
+        "title": "Statement of Government Policy in the Parliamentary Debate on Foreign Affairs 2012",
+        "url": "/tal/2012/02/statement-of-government-policy-in-the-parliamentary-debate-on-foreign-affairs-2012/",
+        "published": "2012-02-15",
+        "updated": null,
+        "types": [
+            "1338"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Statement of Government Policy in the Parliamentary Debate on Foreign Affairs 2011 (pdf 405 kB)",
+                "url": "/contentassets/90e59d9089a54dcc9e2e4866d625a6b5/statement-of-government-policy-in-the-parliamentary-debate-on-foreign-affairs-2011/"
             }
         ],
         "categories": [
@@ -6539,27 +6556,6 @@
         "categories": []
     },
     {
-        "title": "Statement of Government Policy in the Parliamentary Debate on Foreign Affairs 2007",
-        "url": "/tal/2007/02/statement-of-government-policy-in-the-parliamentary-debate-on-foreign-affairs-2007/",
-        "published": "2007-02-14",
-        "updated": null,
-        "types": [
-            "1338"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Statement of Government Policy in the Parliamentary Debate on Foreign Affairs (pdf 106 kB)",
-                "url": "/contentassets/edc55c6d1def4f4cbfdf6af8a97e7b3f/statement-of-government-policy-in-the-parliamentary-debate-on-foreign-affairs/"
-            }
-        ],
-        "categories": []
-    },
-    {
         "title": "Utrikesdeklarationen 2007",
         "url": "/tal/2007/02/utrikesdeklarationen-2007/",
         "published": "2007-02-14",
@@ -6576,6 +6572,27 @@
             {
                 "name": "Utrikesdeklarationen 2007 (pdf 227 kB)",
                 "url": "/contentassets/b9d83d4c07584d6fafacb50d86ca0fe1/utrikesdeklarationen-2007/"
+            }
+        ],
+        "categories": []
+    },
+    {
+        "title": "Statement of Government Policy in the Parliamentary Debate on Foreign Affairs 2007",
+        "url": "/tal/2007/02/statement-of-government-policy-in-the-parliamentary-debate-on-foreign-affairs-2007/",
+        "published": "2007-02-14",
+        "updated": null,
+        "types": [
+            "1338"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Statement of Government Policy in the Parliamentary Debate on Foreign Affairs (pdf 106 kB)",
+                "url": "/contentassets/edc55c6d1def4f4cbfdf6af8a97e7b3f/statement-of-government-policy-in-the-parliamentary-debate-on-foreign-affairs/"
             }
         ],
         "categories": []

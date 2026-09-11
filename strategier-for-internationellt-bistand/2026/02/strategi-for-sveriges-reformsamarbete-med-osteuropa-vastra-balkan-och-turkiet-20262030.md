@@ -6,5 +6,5 @@ Den regionala strategin för reformsamarbete med Östeuropa, västra Balkan och 
 
 Strategin ska gälla under perioden 2026–2030 och omfattar totalt 7,931 miljarder kronor. Sidas verksamhet i Östeuropa omfattar 4,39 miljarder kronor, på västra Balkan 2,78 miljarder kronor och i Turkiet 250 miljoner kronor.
 
-Strategin styr användningen av medel som varje budgetår anslås i regleringsbreven för Sida, Svenska institutet (SI), och Folke Bernadotteakademin (FBA). Den omfattar även
+Strategin styr användningen av medel som varje budgetår anslås i regleringsbreven för Sida och Svenska institutet (SI). Den omfattar även
 medel för Sveriges generalkonsulat i Istanbul (GKI) som anslås för respektive budgetår i regleringsbrev avseende anslag 1:1 Biståndsverksamhet.

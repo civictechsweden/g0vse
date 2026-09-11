@@ -24,13 +24,13 @@ Teach for Sweden arbetar för att få fler akademiker att ställa om till lärar
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **STEM-satsningar** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
+| **STEM-satsningar**                                            | | | |
+| -------------------------------------------------------------- | ------------------ | ------------------ | ------------------ |
+|                                                                | **2026**           | **2027**           | **2028**           |
 | **Upprätthålla antalet nybörjare på civilingenjörsprogrammet** | 36 miljoner kronor | 72 miljoner kronor | 72 miljoner kronor |
-| **Åtgärder för ökad genomströmning** | 10 miljoner kronor |  |  |
-| **Kompetensutveckling i STEM-ämnen** | 10 miljoner kronor |  |  |
-| **Teach for Sweden** | 12 miljoner kronor |  |  |
+| **Åtgärder för ökad genomströmning**                           | 10 miljoner kronor |                    |                    |
+| **Kompetensutveckling i STEM-ämnen**                           | 10 miljoner kronor |                    |                    |
+| **Teach for Sweden**                                           | 12 miljoner kronor |                    |                    |
 
 
 
@@ -58,10 +58,10 @@ Teach for Sweden arbetar för att få fler akademiker att ställa om till lärar
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **STEM-satsningar** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
+| **STEM-satsningar**                                            | | | |
+| -------------------------------------------------------------- | ------------------ | ------------------ | ------------------ |
+|                                                                | **2026**           | **2027**           | **2028**           |
 | **Upprätthålla antalet nybörjare på civilingenjörsprogrammet** | 36 miljoner kronor | 72 miljoner kronor | 72 miljoner kronor |
-| **Åtgärder för ökad genomströmning** | 10 miljoner kronor |  |  |
-| **Kompetensutveckling i STEM-ämnen** | 10 miljoner kronor |  |  |
-| **Teach for Sweden** | 12 miljoner kronor |  |  |
+| **Åtgärder för ökad genomströmning**                           | 10 miljoner kronor |                    |                    |
+| **Kompetensutveckling i STEM-ämnen**                           | 10 miljoner kronor |                    |                    |
+| **Teach for Sweden**                                           | 12 miljoner kronor |                    |                    |

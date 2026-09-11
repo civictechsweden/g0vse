@@ -24,12 +24,9 @@ TLV ska:
 Myndigheterna ska:
 
 * vid behov lämna nödvändiga författningsförslag,
-* utföra uppdraget i nära samverkan med arbetet med uppdrag att utreda pappersrecept i alternativt elektroniskt format på Läkemedelsverket och
-
-Myndigheten för digital förvaltning,
-
+* utföra uppdraget i nära samverkan med arbetet med uppdrag att utreda pappersrecept i alternativt elektroniskt format på Läkemedelsverket och Myndigheten för digital förvaltning,
 * utföra uppdraget i nära dialog med öppenvårdsapoteken och regionerna. Myndigheterna ska när uppdraget utförs också inhämta synpunkter och erfarenheter från andra relevanta aktörer såsom Socialstyrelsen, Myndigheten för digital förvaltning och Utredningen om säkrare tillgång till läkemedel,
-* löpande informera Regeringskansliet om hur arbetet med uppdraget fortskrider.
+* löpande informera Regeringskansliet om hur arbetet med uppdraget fortskrider,
 * senast den 1 oktober 2026 och den 10 februari 2027 delredovisa uppdraget till Regeringskansliet
 
 E-hälsomyndigheten ska:

@@ -48,14 +48,14 @@ När straffen skärps påverkas särskilt Kriminalvården. Totalt tillförs där
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Omläggning av rättspolitiken (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Kriminalvårdens utbyggnad** | 113,5 | 503 | 2 344 |
-| **Paradigmskifte i straffrätten** | 643,2 | 1 569,5 | 3 142,7 |
-| **Skärpta regler för unga lagöverträdare** | 85,55 | 814,5 | 1 548,5 |
-| **Bättre stöd och ersättning till brottsoffer** | 70,7 | 76 | 76 |
-| **Mäns våld mot kvinnor och hedersrelaterat våld och förtryck** | 13,6 | 51,5 | 84 |
+| **Omläggning av rättspolitiken (mnkr)**                         | | | |
+| --------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                 | **2026** | **2027** | **2028** |
+| **Kriminalvårdens utbyggnad**                                   | 113,5    | 503      | 2 344    |
+| **Paradigmskifte i straffrätten**                               | 643,2    | 1 569,5  | 3 142,7  |
+| **Skärpta regler för unga lagöverträdare**                      | 85,55    | 814,5    | 1 548,5  |
+| **Bättre stöd och ersättning till brottsoffer**                 | 70,7     | 76       | 76       |
+| **Mäns våld mot kvinnor och hedersrelaterat våld och förtryck** | 13,6     | 51,5     | 84       |
 
 
 
@@ -107,11 +107,11 @@ När straffen skärps påverkas särskilt Kriminalvården. Totalt tillförs där
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Omläggning av rättspolitiken (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Kriminalvårdens utbyggnad** | 113,5 | 503 | 2 344 |
-| **Paradigmskifte i straffrätten** | 643,2 | 1 569,5 | 3 142,7 |
-| **Skärpta regler för unga lagöverträdare** | 85,55 | 814,5 | 1 548,5 |
-| **Bättre stöd och ersättning till brottsoffer** | 70,7 | 76 | 76 |
-| **Mäns våld mot kvinnor och hedersrelaterat våld och förtryck** | 13,6 | 51,5 | 84 |
+| **Omläggning av rättspolitiken (mnkr)**                         | | | |
+| --------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                 | **2026** | **2027** | **2028** |
+| **Kriminalvårdens utbyggnad**                                   | 113,5    | 503      | 2 344    |
+| **Paradigmskifte i straffrätten**                               | 643,2    | 1 569,5  | 3 142,7  |
+| **Skärpta regler för unga lagöverträdare**                      | 85,55    | 814,5    | 1 548,5  |
+| **Bättre stöd och ersättning till brottsoffer**                 | 70,7     | 76       | 76       |
+| **Mäns våld mot kvinnor och hedersrelaterat våld och förtryck** | 13,6     | 51,5     | 84       |

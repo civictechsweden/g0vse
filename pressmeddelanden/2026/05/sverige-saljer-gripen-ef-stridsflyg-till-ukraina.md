@@ -1,12 +1,12 @@
 # Sverige säljer Gripen E/F stridsflyg till Ukraina
 
+---
+
 Stödpaket 22 inkluderar även bland annat anskaffning av ammunition, innovationsstöd och stärkande av Ukrainas luftförsvar genom utökad förmåga till elektronisk krigföring.
 
 ## Ukraina försvarar också Sveriges frihet
 
 Stödpaketet är det största som hittills har beslutats och syftar till att svara på Ukrainas högst prioriterade behov genom att stärka landets förmåga på luftförsvarsområdet.
-
----
 
 ### Donation av Gripen och kvalificerad ammunition samt utbildning (värde cirka 22,2 miljarder kronor)
 
@@ -49,8 +49,7 @@ Stödpaketet omfattar även åtgärder för att stärka Ukrainas civila försvar
 
 ### Stödpaket 22
 
-* **Försäljning av Gripen E/F**: Upp till 20 stycken flygplan
-* **Donation av Gripen C/D**: En division, upp till 16 stycken flygplan (inkl. kvalificerad ammunition exempelvis IRIS-T, AMRAAM och METEOR.)
+* **Donation av Gripen C/D**: En division, upp till 16 stycken flygplan (inkl. kvalificerad ammunition exempelvis IRIS-T, AMRAAM och METEOR.) Donationen möjliggörs genom Ukrainas köp av upp till 20 stycken Gripen E/F. [Ukraine to procure Swedish fighter jets - Government.se](https://www.government.se/press-releases/2026/05/ukraine-to-procure-swedish-fighter-jets/).
 * Anskaffning av ammunition
 * Anskaffning av materiel för elektromagnetisk krigföring (EW)
 * Stöd till Ukrainas långräckviddiga förmåga
@@ -61,13 +60,15 @@ Stödpaketet omfattar även åtgärder för att stärka Ukrainas civila försvar
 
 Totalt värde: 25,2 miljarder kronor
 
+
+
+---
+
 Stödpaket 22 inkluderar även bland annat anskaffning av ammunition, innovationsstöd och stärkande av Ukrainas luftförsvar genom utökad förmåga till elektronisk krigföring.
 
 ## Ukraina försvarar också Sveriges frihet
 
 Stödpaketet är det största som hittills har beslutats och syftar till att svara på Ukrainas högst prioriterade behov genom att stärka landets förmåga på luftförsvarsområdet.
-
----
 
 ### Donation av Gripen och kvalificerad ammunition samt utbildning (värde cirka 22,2 miljarder kronor)
 
@@ -110,8 +111,7 @@ Stödpaketet omfattar även åtgärder för att stärka Ukrainas civila försvar
 
 ### Stödpaket 22
 
-* **Försäljning av Gripen E/F**: Upp till 20 stycken flygplan
-* **Donation av Gripen C/D**: En division, upp till 16 stycken flygplan (inkl. kvalificerad ammunition exempelvis IRIS-T, AMRAAM och METEOR.)
+* **Donation av Gripen C/D**: En division, upp till 16 stycken flygplan (inkl. kvalificerad ammunition exempelvis IRIS-T, AMRAAM och METEOR.) Donationen möjliggörs genom Ukrainas köp av upp till 20 stycken Gripen E/F. [Ukraine to procure Swedish fighter jets - Government.se](https://www.government.se/press-releases/2026/05/ukraine-to-procure-swedish-fighter-jets/).
 * Anskaffning av ammunition
 * Anskaffning av materiel för elektromagnetisk krigföring (EW)
 * Stöd till Ukrainas långräckviddiga förmåga

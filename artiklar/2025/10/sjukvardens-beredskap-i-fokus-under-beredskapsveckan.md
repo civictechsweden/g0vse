@@ -1,6 +1,6 @@
 # Sjukvårdens beredskap i fokus under Beredskapsveckan
 
-Den 22 – 28 september genomfördes Beredskapsveckan, som leds av Myndigheten för samhällsskydd och beredskap. Årets tema var ”Du är en del av Sveriges totalförsvar”. Sjukvårdsminister Elisabet Lann besökte Sahlgrenska universitetssjukhuset i Göteborg och Karlstad Airport med anledning av Beredskapsveckan.
+Den 22–28 september genomfördes Beredskapsveckan som leds av Myndigheten för samhällsskydd och beredskap. Årets tema var ”Du är en del av Sveriges totalförsvar”. Sjukvårdsminister Elisabet Lann besökte Sahlgrenska universitetssjukhuset i Göteborg och Karlstad Airport med anledning av Beredskapsveckan.
 
 – Hälso- och sjukvården har en avgörande roll i totalförsvaret. Det syns inte minst vid beredskapsövningar där sjukvårdsenheterna tar stor plats och har stor betydelse. Regeringen satsar för att hälso- och sjukvårdens beredskap ska höjas stegvis och systematiskt, säger sjukvårdsminister Elisabet Lann.
 

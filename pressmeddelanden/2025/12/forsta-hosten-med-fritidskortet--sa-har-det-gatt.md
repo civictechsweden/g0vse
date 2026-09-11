@@ -12,29 +12,29 @@ En central utgångspunkt i framtagandet av fritidskortet och den digitala tjäns
 
 Den 5 januari 2026 öppnar den digitala tjänsten för fritidskortet igen. Då kommer också de flesta föreningssystem vara anslutna, vilket kommer att underlätta administrationen för föreningarna.
 
-| Län | Antal nedladdade fritidskort | Antal föreningar |
-| --- | --- | --- |
-| Stockholm | 80 374 | 819 |
-| Västra Götaland | 54 736 | 921 |
-| Skåne | 47 221 | 759 |
-| Östergötland | 15 318 | 240 |
-| Uppsala | 14 205 | 176 |
-| Jönköping | 13 170 | 236 |
-| Halland | 12 573 | 242 |
-| Örebro | 10 853 | 167 |
-| Västmanland | 10 343 | 165 |
-| Gävleborg | 10 052 | 192 |
-| Södermanland | 10 009 | 163 |
-| Värmland | 9 453 | 189 |
-| Dalarna | 9 174 | 219 |
-| Västerbotten | 8 202 | 145 |
-| Kalmar | 6 937 | 150 |
-| Kronoberg | 6 613 | 126 |
-| Västernorrland | 6 545 | 160 |
-| Norrbotten | 5 202 | 134 |
-| Blekinge | 4 183 | 100 |
-| Jämtland | 3 313 | 78 |
-| Gotland | 1 565 | 46 |
+| Län             | Antal nedladdade fritidskort | Antal föreningar |
+| --------------- | ---------------------------- | ---------------- |
+| Stockholm       | 80 374                       | 819              |
+| Västra Götaland | 54 736                       | 921              |
+| Skåne           | 47 221                       | 759              |
+| Östergötland    | 15 318                       | 240              |
+| Uppsala         | 14 205                       | 176              |
+| Jönköping       | 13 170                       | 236              |
+| Halland         | 12 573                       | 242              |
+| Örebro          | 10 853                       | 167              |
+| Västmanland     | 10 343                       | 165              |
+| Gävleborg       | 10 052                       | 192              |
+| Södermanland    | 10 009                       | 163              |
+| Värmland        | 9 453                        | 189              |
+| Dalarna         | 9 174                        | 219              |
+| Västerbotten    | 8 202                        | 145              |
+| Kalmar          | 6 937                        | 150              |
+| Kronoberg       | 6 613                        | 126              |
+| Västernorrland  | 6 545                        | 160              |
+| Norrbotten      | 5 202                        | 134              |
+| Blekinge        | 4 183                        | 100              |
+| Jämtland        | 3 313                        | 78               |
+| Gotland         | 1 565                        | 46               |
 
 ### Om fritidskortet
 
@@ -52,29 +52,29 @@ En central utgångspunkt i framtagandet av fritidskortet och den digitala tjäns
 
 Den 5 januari 2026 öppnar den digitala tjänsten för fritidskortet igen. Då kommer också de flesta föreningssystem vara anslutna, vilket kommer att underlätta administrationen för föreningarna.
 
-| Län | Antal nedladdade fritidskort | Antal föreningar |
-| --- | --- | --- |
-| Stockholm | 80 374 | 819 |
-| Västra Götaland | 54 736 | 921 |
-| Skåne | 47 221 | 759 |
-| Östergötland | 15 318 | 240 |
-| Uppsala | 14 205 | 176 |
-| Jönköping | 13 170 | 236 |
-| Halland | 12 573 | 242 |
-| Örebro | 10 853 | 167 |
-| Västmanland | 10 343 | 165 |
-| Gävleborg | 10 052 | 192 |
-| Södermanland | 10 009 | 163 |
-| Värmland | 9 453 | 189 |
-| Dalarna | 9 174 | 219 |
-| Västerbotten | 8 202 | 145 |
-| Kalmar | 6 937 | 150 |
-| Kronoberg | 6 613 | 126 |
-| Västernorrland | 6 545 | 160 |
-| Norrbotten | 5 202 | 134 |
-| Blekinge | 4 183 | 100 |
-| Jämtland | 3 313 | 78 |
-| Gotland | 1 565 | 46 |
+| Län             | Antal nedladdade fritidskort | Antal föreningar |
+| --------------- | ---------------------------- | ---------------- |
+| Stockholm       | 80 374                       | 819              |
+| Västra Götaland | 54 736                       | 921              |
+| Skåne           | 47 221                       | 759              |
+| Östergötland    | 15 318                       | 240              |
+| Uppsala         | 14 205                       | 176              |
+| Jönköping       | 13 170                       | 236              |
+| Halland         | 12 573                       | 242              |
+| Örebro          | 10 853                       | 167              |
+| Västmanland     | 10 343                       | 165              |
+| Gävleborg       | 10 052                       | 192              |
+| Södermanland    | 10 009                       | 163              |
+| Värmland        | 9 453                        | 189              |
+| Dalarna         | 9 174                        | 219              |
+| Västerbotten    | 8 202                        | 145              |
+| Kalmar          | 6 937                        | 150              |
+| Kronoberg       | 6 613                        | 126              |
+| Västernorrland  | 6 545                        | 160              |
+| Norrbotten      | 5 202                        | 134              |
+| Blekinge        | 4 183                        | 100              |
+| Jämtland        | 3 313                        | 78               |
+| Gotland         | 1 565                        | 46               |
 
 ### Om fritidskortet
 

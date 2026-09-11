@@ -1,0 +1,9 @@
+# Maria Malmer Stenergard deltar i EU:s informella utrikesministermöte
+
+EU:s informella utrikesministermöte inleds med en diskussion om Rysslands anfallskrig mot Ukraina, där även den ukrainska utrikesministern deltar. Därefter diskuteras situationen i Mellanöstern samt arbetsmetoder och åtgärder för att effektivisera EU:s gemensamma utrikes- och säkerhetspolitik och stärka Europas röst i världen. Under delar av mötet kommer utrikesministrarna från Island, Norge, Kanada, Storbritannien och Schweiz att delta.
+
+- Mitt budskap kommer att vara tydligt: EU behöver fortsätta öka trycket på den allt svagare ryska ekonomin. Vi måste också säkerställa mer stöd till Ukraina på både kort och lång sikt. För att uppnå detta spelar de frysta ryska tillgångarna en central roll. Därför har jag skrivit ett brev tillsammans med mina kollegor från Polen, Spanien och Nederländerna för att sätta den frågan på dagordningen igen, säger utrikesminister Maria Malmer Stenergard.
+
+EU:s informella utrikesministermöte inleds med en diskussion om Rysslands anfallskrig mot Ukraina, där även den ukrainska utrikesministern deltar. Därefter diskuteras situationen i Mellanöstern samt arbetsmetoder och åtgärder för att effektivisera EU:s gemensamma utrikes- och säkerhetspolitik och stärka Europas röst i världen. Under delar av mötet kommer utrikesministrarna från Island, Norge, Kanada, Storbritannien och Schweiz att delta.
+
+- Mitt budskap kommer att vara tydligt: EU behöver fortsätta öka trycket på den allt svagare ryska ekonomin. Vi måste också säkerställa mer stöd till Ukraina på både kort och lång sikt. För att uppnå detta spelar de frysta ryska tillgångarna en central roll. Därför har jag skrivit ett brev tillsammans med mina kollegor från Polen, Spanien och Nederländerna för att sätta den frågan på dagordningen igen, säger utrikesminister Maria Malmer Stenergard.

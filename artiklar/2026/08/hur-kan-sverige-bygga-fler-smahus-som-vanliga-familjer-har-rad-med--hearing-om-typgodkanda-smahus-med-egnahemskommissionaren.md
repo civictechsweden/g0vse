@@ -1,0 +1,15 @@
+# Hur kan Sverige bygga fler småhus som vanliga familjer har råd med – hearing om typgodkända småhus med Egnahemskommissionären
+
+Tisdagen den 18 augusti bjöd Egnahemskommissionären Stefan Attefall in representanter för småhusbranschen och kommuner och regioner från runtom i Sverige till en hearing om typgodkända småhus. Hearingen var ett led i arbetet med att stimulera ett ökat byggande av småhus.
+
+– Många upplever i dag att det är krångligt att bygga småhus, där olika kommuner gör olika tolkningar och bedömningar. Möjligheten att välja ett typgodkänt och bygglovsbefriat småhus skulle kunna underlätta bostadsbyggandet väsentligt. Med enklare och mer förutsägbara processer kan det bli lättare för fler att förverkliga sina boendedrömmar, säger infrastruktur- och bostadsminister Andreas Carlson.
+
+Hearingen baserades i stort på Boverkets rapport "Regeringsuppdrag att ta fram förslag på hur typgodkännande av småhus kan genomföras". Syftet med uppdraget var att analyser hur typgodkännande kan göra det lättare att bygga småhus genom att göra processerna kortare och mer enhetliga samt lämna förslag om hur det kan genomföras.
+
+Boverkets rapport innehöll förslag om bygglovsbefrielse för enbostadshus som uppfyller vissa givna kriterier, samt ett utökat system för typgodkännande som även omfattar hela bostadshus. I dag prövas dessa frågor av varje enskild kommun i en bygglovsprocess. Syftet är att möjliggöra typgodkännande av hela hus som kan uppföras bygglovsfritt i hela landet.
+
+Vid hearingen deltog representanter från småhusbranschen, som välkomnade arbetet för att stimulera byggandet av fler småhus men lyfte vikten av att ett typgodkänt småhus måste möta vad som efterfrågas från potentiella husköpare. Det lyftes även återkommande att den boyta som Boverket föreslår i sin rapport är för liten. De lyfte också att man måste hitta en väg framåt där husproducenterna kan få skalbarhet och förutsägbarhet i produktionsledet.
+
+Inför hearingen hade även tre arkitekter, bland dem Gert Wingårdh, blivit ombedda att ta fram varsitt exempel på hur ett typgodkänt småhus skulle kunna se ut. Alla tre efterlyste en flexibilitet i processen att ta fram typgodkända småhus, till exempel att öppna för att godkännandet skulle kunna omfatta ett system snarare än en specifik husmodell för att möta skiftande behov. Om småhusproducenterna ges flexibilitet att utveckla ursprungsritningen kan detta även underlätta för dem att få skalbarhet. Även arkitekterna tryckte på förutsägbarheten som en viktig komponent för att öka småhusbyggandet.
+
+– Flera studier visar att fler vill bo i småhus, samtidigt är byggandet av just småhus fortsatt lågt. Småhusbranschen har pekat på att unga vuxna och småbarnsfamiljer är benägna att flytta, men att de i så fall vill ha en större boyta än Boverkets förslag. Regeringens inställning är att det behöver byggas mer hus som folk vill bo i, och vi tar därför med oss de synpunkter som presenterats på hearingen i det fortsatta arbetet, säger infrastruktur- och bostadsminister Andreas Carlson.

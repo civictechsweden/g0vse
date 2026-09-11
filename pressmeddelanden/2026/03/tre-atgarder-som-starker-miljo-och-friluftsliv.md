@@ -9,9 +9,9 @@ Sveriges många naturreservat skyddar höga naturvärden och är även viktiga f
 När mark skyddas måste staten också ta ansvar för att de skyddade områdena förvaltas väl. Det stärker naturvärden, friluftsliv och legitimiteten för den förda naturvårdspolitiken.
 
 | **Skötsel av naturreservat (miljoner kronor)** | |
-| --- | --- |
-|  | **2026** |
-| **Naturvårdsverket** | 30 |
+| ---------------------------------------------- | -------- |
+|                                                | **2026** |
+| **Naturvårdsverket**                           | 30       |
 
 ## Bekämpning av invasiva arter
 
@@ -24,9 +24,9 @@ Ett exempel är lövplattmasken som bedöms kunna orsaka ekologiska skador i nat
 Bekämpning av invasiva främmande arter innebär att genomföra praktiska bekämpningsinsatser på land och i vatten, öka kunskaper och samordna insatser mellan myndigheter. Ett viktigt arbete är också att informera allmänheten om invasiva främmande arter och hur de kan hanteras.
 
 | **Bekämpning av invasiva främmande arter på land och i vatten (miljoner kronor)** | |
-| --- | --- |
-|  | **2026** |
-| **Naturvårdsverket** | 20 |
+| --------------------------------------------------------------------------------- | -------- |
+|                                                                                   | **2026** |
+| **Naturvårdsverket**                                                              | 20       |
 
 ## Åtgärder mot PFAS
 
@@ -39,9 +39,9 @@ För regeringen är det viktigt att både förebygga och åtgärda exponering f�
 I budgetpropositionen för 2026 beslutades 85 miljoner kronor till år 2026 för fortsatt arbete med att minska spridning av PFAS i miljön till anslaget 1:4 Sanering och återställning av förorenade områden. För 2027 beräknas anslaget öka med 110 miljoner kronor och för 2028 med 135 miljoner kronor.
 
 | **Förhindra spridningen av PFAS för skydd av människors hälsa och miljön (miljoner kronor)** | |
-| --- | --- |
-|  | **2026** |
-| **Förstärkning av PFAS-handlingsplan** | 10 |
+| -------------------------------------------------------------------------------------------- | -------- |
+|                                                                                              | **2026** |
+| **Förstärkning av PFAS-handlingsplan**                                                       | 10       |
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
@@ -54,9 +54,9 @@ Sveriges många naturreservat skyddar höga naturvärden och är även viktiga f
 När mark skyddas måste staten också ta ansvar för att de skyddade områdena förvaltas väl. Det stärker naturvärden, friluftsliv och legitimiteten för den förda naturvårdspolitiken.
 
 | **Skötsel av naturreservat (miljoner kronor)** | |
-| --- | --- |
-|  | **2026** |
-| **Naturvårdsverket** | 30 |
+| ---------------------------------------------- | -------- |
+|                                                | **2026** |
+| **Naturvårdsverket**                           | 30       |
 
 ## Bekämpning av invasiva arter
 
@@ -69,9 +69,9 @@ Ett exempel är lövplattmasken som bedöms kunna orsaka ekologiska skador i nat
 Bekämpning av invasiva främmande arter innebär att genomföra praktiska bekämpningsinsatser på land och i vatten, öka kunskaper och samordna insatser mellan myndigheter. Ett viktigt arbete är också att informera allmänheten om invasiva främmande arter och hur de kan hanteras.
 
 | **Bekämpning av invasiva främmande arter på land och i vatten (miljoner kronor)** | |
-| --- | --- |
-|  | **2026** |
-| **Naturvårdsverket** | 20 |
+| --------------------------------------------------------------------------------- | -------- |
+|                                                                                   | **2026** |
+| **Naturvårdsverket**                                                              | 20       |
 
 ## Åtgärder mot PFAS
 
@@ -84,8 +84,8 @@ För regeringen är det viktigt att både förebygga och åtgärda exponering f�
 I budgetpropositionen för 2026 beslutades 85 miljoner kronor till år 2026 för fortsatt arbete med att minska spridning av PFAS i miljön till anslaget 1:4 Sanering och återställning av förorenade områden. För 2027 beräknas anslaget öka med 110 miljoner kronor och för 2028 med 135 miljoner kronor.
 
 | **Förhindra spridningen av PFAS för skydd av människors hälsa och miljön (miljoner kronor)** | |
-| --- | --- |
-|  | **2026** |
-| **Förstärkning av PFAS-handlingsplan** | 10 |
+| -------------------------------------------------------------------------------------------- | -------- |
+|                                                                                              | **2026** |
+| **Förstärkning av PFAS-handlingsplan**                                                       | 10       |
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

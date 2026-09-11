@@ -9,9 +9,9 @@ Regeringen avser att ge Statens beredning för medicinsk och social utvärdering
 För att undersöka möjligheten att genomföra screening inom tandvården avsätter därför regeringen 5 miljoner kronor under 2026 och beräknar avsätta 5 miljoner kronor årligen under 2027–2028.
 
 | **Screening inom tandvården (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Screening inom tandvården** | 5 | 5 | 5 |
+| ----------------------------------------------- | -------- | -------- | -------- |
+|                                                 | **2026** | **2027** | **2028** |
+| **Screening inom tandvården**                   | 5        | 5        | 5        |
 
 
 
@@ -24,6 +24,6 @@ Regeringen avser att ge Statens beredning för medicinsk och social utvärdering
 För att undersöka möjligheten att genomföra screening inom tandvården avsätter därför regeringen 5 miljoner kronor under 2026 och beräknar avsätta 5 miljoner kronor årligen under 2027–2028.
 
 | **Screening inom tandvården (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Screening inom tandvården** | 5 | 5 | 5 |
+| ----------------------------------------------- | -------- | -------- | -------- |
+|                                                 | **2026** | **2027** | **2028** |
+| **Screening inom tandvården**                   | 5        | 5        | 5        |

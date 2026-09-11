@@ -12,3 +12,7 @@ inklusive hur ett krav på godkännande från berörda kommuner
 bearbetningskoncession för utvinning i alunskiffer kan ges retroaktiv
 verkan, och
 * lämna nödvändiga författningsförslag.
+
+Som utredare utses Anna Zilla. Hon är rådman vid Östersunds tingsrätt och har tidigare varit chef för Naturvårdsverkets rättsenhet.
+
+Uppdraget ska redovisas senast den 17 februari 2027.

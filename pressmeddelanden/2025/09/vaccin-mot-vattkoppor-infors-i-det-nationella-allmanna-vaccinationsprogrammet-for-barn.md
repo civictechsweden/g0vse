@@ -14,12 +14,12 @@ För att öka skyddet mot vattkoppor bland barn vill regeringen tillföra resurs
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Vattkoppsvaccination till alla barn under 18 år (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Vattkoppsvaccination till alla barn under 18 år: Förberedande arbete för FoHM** | 3 |  |  |
-| **Vattkoppsvaccination till alla barn under 18 år: Vattkoppor i det nationella allmänna vaccinationsprogrammet för barn** |  | 43 | 43 |
-| **Vattkoppsvaccination till alla barn under 18 år:Ikappvaccinering** |  | 49 | 51 |
+| **Vattkoppsvaccination till alla barn under 18 år (miljoner kronor)**                                                     | | | |
+| ------------------------------------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                                                           | **2026** | **2027** | **2028** |
+| **Vattkoppsvaccination till alla barn under 18 år: Förberedande arbete för FoHM**                                         | 3        |          |          |
+| **Vattkoppsvaccination till alla barn under 18 år: Vattkoppor i det nationella allmänna vaccinationsprogrammet för barn** |          | 43       | 43       |
+| **Vattkoppsvaccination till alla barn under 18 år:Ikappvaccinering**                                                      |          | 49       | 51       |
 
 
 
@@ -37,9 +37,9 @@ För att öka skyddet mot vattkoppor bland barn vill regeringen tillföra resurs
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Vattkoppsvaccination till alla barn under 18 år (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Vattkoppsvaccination till alla barn under 18 år: Förberedande arbete för FoHM** | 3 |  |  |
-| **Vattkoppsvaccination till alla barn under 18 år: Vattkoppor i det nationella allmänna vaccinationsprogrammet för barn** |  | 43 | 43 |
-| **Vattkoppsvaccination till alla barn under 18 år:Ikappvaccinering** |  | 49 | 51 |
+| **Vattkoppsvaccination till alla barn under 18 år (miljoner kronor)**                                                     | | | |
+| ------------------------------------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                                                           | **2026** | **2027** | **2028** |
+| **Vattkoppsvaccination till alla barn under 18 år: Förberedande arbete för FoHM**                                         | 3        |          |          |
+| **Vattkoppsvaccination till alla barn under 18 år: Vattkoppor i det nationella allmänna vaccinationsprogrammet för barn** |          | 43       | 43       |
+| **Vattkoppsvaccination till alla barn under 18 år:Ikappvaccinering**                                                      |          | 49       | 51       |

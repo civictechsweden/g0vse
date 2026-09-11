@@ -11,10 +11,10 @@ Regeringens uppdrag till SGU syftar till att stärka förutsättningarna för sv
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Förstärkt kartläggning av malmpotentiella områden och främjande av mineralnäringen för en tryggare mineralförsörjning** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Förstärkt kartläggning av malmpotentiella områden** | 20 | 20 | 20 |
-| **Förstärkt främjande av mineralnäringen för en tryggare mineralförsörjning** |  | 23 | 23 |
+| ------------------------------------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                                                           | **2026** | **2027** | **2028** |
+| **Förstärkt kartläggning av malmpotentiella områden**                                                                     | 20       | 20       | 20       |
+| **Förstärkt främjande av mineralnäringen för en tryggare mineralförsörjning**                                             |          | 23       | 23       |
 
 
 
@@ -29,7 +29,7 @@ Regeringens uppdrag till SGU syftar till att stärka förutsättningarna för sv
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Förstärkt kartläggning av malmpotentiella områden och främjande av mineralnäringen för en tryggare mineralförsörjning** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Förstärkt kartläggning av malmpotentiella områden** | 20 | 20 | 20 |
-| **Förstärkt främjande av mineralnäringen för en tryggare mineralförsörjning** |  | 23 | 23 |
+| ------------------------------------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                                                           | **2026** | **2027** | **2028** |
+| **Förstärkt kartläggning av malmpotentiella områden**                                                                     | 20       | 20       | 20       |
+| **Förstärkt främjande av mineralnäringen för en tryggare mineralförsörjning**                                             |          | 23       | 23       |

@@ -31,14 +31,14 @@ Regeringen avser att återkomma med förslag på ett nytt regelverk för förvar
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Satsningar på ordnat mottagande och effektivt återvändande (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Mottagandet** **av asylsökande ska vara ordnat** | 155,5 | 319 | 319 |
-| **Omläggningen av migrationspolitiken – Förutsättningar för Migrationsverket** | 0 | 270 | 0 |
-| **Samhällsintroduktion för asylsökande utökas** | 12 | 11 | 10 |
-| **Etableringsboende för nyanlända införs** | 1,3 | 0 | 0 |
-| **Återvändandet effektiviseras genom att fler tas i förvar** | 29 | 12 | 12 |
+| **Satsningar på ordnat mottagande och effektivt återvändande (mnkr)**          | | | |
+| ------------------------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                                                | **2026** | **2027** | **2028** |
+| **Mottagandet** **av asylsökande ska vara ordnat**                             | 155,5    | 319      | 319      |
+| **Omläggningen av migrationspolitiken – Förutsättningar för Migrationsverket** | 0        | 270      | 0        |
+| **Samhällsintroduktion för asylsökande utökas**                                | 12       | 11       | 10       |
+| **Etableringsboende för nyanlända införs**                                     | 1,3      | 0        | 0        |
+| **Återvändandet effektiviseras genom att fler tas i förvar**                   | 29       | 12       | 12       |
 
 
 
@@ -73,11 +73,11 @@ Regeringen avser att återkomma med förslag på ett nytt regelverk för förvar
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Satsningar på ordnat mottagande och effektivt återvändande (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Mottagandet** **av asylsökande ska vara ordnat** | 155,5 | 319 | 319 |
-| **Omläggningen av migrationspolitiken – Förutsättningar för Migrationsverket** | 0 | 270 | 0 |
-| **Samhällsintroduktion för asylsökande utökas** | 12 | 11 | 10 |
-| **Etableringsboende för nyanlända införs** | 1,3 | 0 | 0 |
-| **Återvändandet effektiviseras genom att fler tas i förvar** | 29 | 12 | 12 |
+| **Satsningar på ordnat mottagande och effektivt återvändande (mnkr)**          | | | |
+| ------------------------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                                                | **2026** | **2027** | **2028** |
+| **Mottagandet** **av asylsökande ska vara ordnat**                             | 155,5    | 319      | 319      |
+| **Omläggningen av migrationspolitiken – Förutsättningar för Migrationsverket** | 0        | 270      | 0        |
+| **Samhällsintroduktion för asylsökande utökas**                                | 12       | 11       | 10       |
+| **Etableringsboende för nyanlända införs**                                     | 1,3      | 0        | 0        |
+| **Återvändandet effektiviseras genom att fler tas i förvar**                   | 29       | 12       | 12       |

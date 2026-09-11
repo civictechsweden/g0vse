@@ -1,3 +1,3 @@
-# Qatar - avrådan
+# Qatar – borttagen avrådan
 
 

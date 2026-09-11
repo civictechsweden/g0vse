@@ -1,0 +1,20 @@
+# Uppdrag till Trafikverket att stärka arbetet med samhällsekonomiska underlag för beslut om åtgärder i transportsystemet
+
+Regeringen ger Trafikverket i uppdrag att stärka myndighetens arbete med
+samhällsekonomiska underlag för beslut om åtgärder i transportsystemet.
+Arbetet ska bedrivas med utgångspunkt i en handlingsplan som myndigheten
+ska ta fram. I handlingsplanen ska Trafikverket redovisa åtgärder i
+prioriterad ordning gällande de samhällsekonomiska metoder som behöver
+utvecklas och ange en tidsplan för när denna utveckling kan vara genomförd.
+
+Metoder för samhällsekonomiska bedömningar av underhållsåtgärder för både väg- och järnväg ska särskilt prioriteras, liksom metoder för att analysera gång- och cykelåtgärder. Utöver det bör de rapporter som Trafikanalys har publicerat inom ramen för sin uppgift att följa Trafikverkets arbete med att utveckla modeller för samhällsekonomiska analyser vara utgångspunkt för prioriteringarna.
+
+Av handlingsplanen ska det framgå hur Trafikverket avser att arbeta för att samhällsekonomiska metoder ska användas i alla steg av arbetet med att ta fram förslag till sådana åtgärder i transportsystemet som myndigheten ansvarar för. Vidare ska det av handlingsplanen framgå dels hur Trafikverket avser att arbeta för att utforma intern styrning och interna processer för att åstadkomma att ett samhällsekonomiskt synsätt mer systematiskt används vid planeringen av åtgärder i transportsystemet som en del av den transportpolitiska målstrukturen, dels om organisation och fördelning av kompetens på området inom olika delar av myndigheten bör förändras. Det ska också framgå hur myndighetens kommunikativa arbete bör utvecklas för att stärka förtroendet för samhällsekonomiska beslutsunderlag bland berörda aktörer.
+
+Av handlingsplanen ska det dessutom framgå hur Trafikverket vid förnyade beräkningar av samhällsnyttan med en åtgärd säkerställer att på ett transparent sätt redovisa all relevant information som har ändrats sedan den tidigare beräkningen och förklara varför nya antaganden bör ersätta de tidigare.
+
+Av handlingsplanen ska det även framgå hur Trafikverket ska hantera den särskilda frågan om basprognoser. För objektsspecifika analyser kan basprognosen ibland behöva justeras för att bättre återspegla lokala och regionala förutsättningar som i dagsläget exempelvis kan innebära trögheter i trafikflödena. Sådana trögheter kan innebära lägre trafikflöden än vad basprognosen indikerar just för att infrastruktur saknas eller har låg kapacitet. När Trafikverket tar fram underlag i sådana situationer ska utredningsalternativet till skillnad från jämförelsealternativet dock alltid göras med beaktande av de större trafikflöden som möjliggörs inom basprognosens ram och därtill enbart utifrån det som vid den tidpunkten är beslutade förutsättningar, styrmedel och planer för infrastrukturen. I dessa avseenden bör metodval och redovisning av antaganden också ses över. Syftet med uppdraget är att Trafikverkets underlag inför nästa beslut om nationell plan för transportinfrastrukturen ska ha förbättrats utifrån de aspekter som tas upp i detta uppdrag.
+
+Regeringen lämnade den 7 maj 2026 ett uppdrag till Trafikverket att vidta åtgärder för att förbättra produktivitetsutveckling och upphandling (LI2026/00872). Delar av uppdraget avser att stärka utvecklingen och användningen av samhällsekonomiska metoder avseende planering och genomförande av drift- och underhållsåtgärder och i dessa delar ska Trafikverket samordna arbetet i de båda uppdragen.
+
+Trafikverket ska senast den 31 december 2026 redovisa den handlingsplan som ska styra arbetet och senast den 31 december 2027 och den 31 december 2028 lämna en delredovisning av arbetet med att genomföra handlingsplanen till Regeringskansliet (Landsbygds- och infrastrukturdepartementet). Trafikverket ska senast den 31 december 2029 lämna en slutredovisning av uppdraget till Regeringskansliet (Landsbygds- och Infrastrukturdepartementet). Av slutredovisningen ska det framgå hur arbetet med att genomföra handlingsplanen har fortskridit och hur myndigheten avser att arbeta vidare med eventuella utestående frågor.

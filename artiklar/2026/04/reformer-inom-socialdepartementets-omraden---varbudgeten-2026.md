@@ -1,4 +1,4 @@
-# Satsningar inom Socialdepartementets områden - Vårbudgeten 2026
+# Satsningar inom Socialdepartementets områden – Vårbudgeten 2026
 
 Regeringen avser i vårbudgeten för 2026 lägga fram en rad förslag inom Socialdepartementets områden. På denna sida länkas de nyheter från budgeten som regeringen hittills har aviserat inom Socialdepartementets områden. Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna. Den 13 april överlämnas regeringens vårbudget för 2026 till riksdagen.
 

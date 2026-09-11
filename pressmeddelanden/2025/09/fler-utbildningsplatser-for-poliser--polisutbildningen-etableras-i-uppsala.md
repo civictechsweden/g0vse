@@ -19,9 +19,9 @@ I budgetpropositionen föreslås Polismyndighetens anslag öka med 21 miljoner k
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Polisutbildning vid ett nytt lärosäte** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Fler utbildningsplatser** | 21 | 132 | 229 |
+| ----------------------------------------- | -------- | -------- | -------- |
+|                                           | **2026** | **2027** | **2028** |
+| **Fler utbildningsplatser**               | 21       | 132      | 229      |
 
 – Sverige har nu nått den högsta polistätheten i modern tid. Vi är på rätt väg, men vi är inte framme. Det behövs många fler poliser i hela landet och nära medborgarna. Ett viktigt steg är att inrätta ett nytt lärosäte för polisutbildning. Det här är en stor framtidsinvestering för Uppsala och hela Sverige. Nu stärker vi medborgarnas säkerhet och trygghet, säger justitieminister Gunnar Strömmer.
 
@@ -42,6 +42,6 @@ I budgetpropositionen föreslås Polismyndighetens anslag öka med 21 miljoner k
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Polisutbildning vid ett nytt lärosäte** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Fler utbildningsplatser** | 21 | 132 | 229 |
+| ----------------------------------------- | -------- | -------- | -------- |
+|                                           | **2026** | **2027** | **2028** |
+| **Fler utbildningsplatser**               | 21       | 132      | 229      |

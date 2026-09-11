@@ -11,9 +11,9 @@ I budgetpropositionen för 2026 satsar regeringen 166 miljoner kronor i nya sats
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Förstärkning av bidraget till kvinno- och tjejjourer (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Förstärkning av bidraget till kvinno- och tjejjourer m.fl.** | 20 | 20 | 20 |
+| --------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                 | **2026** | **2027** | **2028** |
+| **Förstärkning av bidraget till kvinno- och tjejjourer m.fl.**  | 20       | 20       | 20       |
 
 
 
@@ -28,6 +28,6 @@ I budgetpropositionen för 2026 satsar regeringen 166 miljoner kronor i nya sats
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Förstärkning av bidraget till kvinno- och tjejjourer (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Förstärkning av bidraget till kvinno- och tjejjourer m.fl.** | 20 | 20 | 20 |
+| --------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                 | **2026** | **2027** | **2028** |
+| **Förstärkning av bidraget till kvinno- och tjejjourer m.fl.**  | 20       | 20       | 20       |

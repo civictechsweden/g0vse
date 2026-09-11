@@ -18,11 +18,11 @@ Naturvårdsverket har redan tagit emot flera tusen ansökningar. För att möjli
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Satsningar på elektrifiering** | |
-| --- | --- |
-|  | **2026** |
-| **Ersättning till statliga myndigheter för inköp av fossilfria drivmedel eller elektriska alternativ** | 500 |
-| **Förstärkt elbilspremie** | 100 |
+| **Satsningar på elektrifiering**                                                                       | |
+| ------------------------------------------------------------------------------------------------------ | -------- |
+|                                                                                                        | **2026** |
+| **Ersättning till statliga myndigheter för inköp av fossilfria drivmedel eller elektriska alternativ** | 500      |
+| **Förstärkt elbilspremie**                                                                             | 100      |
 
 
 
@@ -44,8 +44,8 @@ Naturvårdsverket har redan tagit emot flera tusen ansökningar. För att möjli
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Satsningar på elektrifiering** | |
-| --- | --- |
-|  | **2026** |
-| **Ersättning till statliga myndigheter för inköp av fossilfria drivmedel eller elektriska alternativ** | 500 |
-| **Förstärkt elbilspremie** | 100 |
+| **Satsningar på elektrifiering**                                                                       | |
+| ------------------------------------------------------------------------------------------------------ | -------- |
+|                                                                                                        | **2026** |
+| **Ersättning till statliga myndigheter för inköp av fossilfria drivmedel eller elektriska alternativ** | 500      |
+| **Förstärkt elbilspremie**                                                                             | 100      |

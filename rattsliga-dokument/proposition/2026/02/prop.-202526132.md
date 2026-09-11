@@ -2,9 +2,6 @@
 
 Enligt nuvarande ordning ska den som begått ett så allvarligt brott innan han eller hon fyllde 18 år att en frihetsberövande påföljd ska dömas ut, som huvudregel dömas till sluten ungdomsvård i stället för fängelse. Sluten ungdomsvård verkställs av Statens institutionsstyrelse och den dömde placeras då vid ett särskilt ungdomshem. Från sluten ungdomsvård förekommer ingen villkorlig frigivning.
 
-Enligt nuvarande ordning ska den som begått ett så allvarligt brott innan han eller hon fyllde 18 år att en frihetsberövande påföljd ska dömas ut, som huvudregel dömas till sluten ungdomsvård i stället för fängelse. Sluten ungdomsvård verkställs av Statens institutionsstyrelse och den dömde placeras då vid ett särskilt ungdomshem. Från sluten ungdomsvård
-förekommer ingen villkorlig frigivning.
-
 I propositionen föreslår regeringen att barn och unga, i de fall en frihetsberövande påföljd inte kan undvikas, ska dömas till fängelse i stället för sluten ungdomsvård. Förslaget innebär att Kriminalvården blir ansvarig för verkställigheten och att sluten ungdomsvård utmönstras ur påföljdssystemet.
 
 Barn som döms till fängelse ska som huvudregel placeras på särskilda

@@ -8,14 +8,14 @@ Han håller även anföranden på Skövde innovationsriksdag och Ung Företagsam
 
 Sammantaget står de län som besöks under turnén för över 1100 miljarder kronor i varuexport, eller drygt 60 procent av Sveriges totala export av varor.
 
-| **Län** | **Potentiella nya jobb av frihandelsavtal*** |
-| --- | --- |
-| Södermanland | 981 |
-| Östergötland | 1823 |
-| Jönköping | 1744 |
-| Västra Götaland | 12 320 |
-| Västmanland | 1333 |
-| Stockholm | 10 327 |
+| **Län**         | **Potentiella nya jobb av frihandelsavtal\*** |
+| --------------- | --------------------------------------------- |
+| Södermanland    | 981                                           |
+| Östergötland    | 1823                                          |
+| Jönköping       | 1744                                          |
+| Västra Götaland | 12 320                                        |
+| Västmanland     | 1333                                          |
+| Stockholm       | 10 327                                        |
 
 *Jobbsiffrorna är beräknade utifrån frihandelsavtal med Australien, Indien, Mexiko och Mercosur.
 
@@ -29,14 +29,14 @@ Han håller även anföranden på Skövde innovationsriksdag och Ung Företagsam
 
 Sammantaget står de län som besöks under turnén för över 1100 miljarder kronor i varuexport, eller drygt 60 procent av Sveriges totala export av varor.
 
-| **Län** | **Potentiella nya jobb av frihandelsavtal*** |
-| --- | --- |
-| Södermanland | 981 |
-| Östergötland | 1823 |
-| Jönköping | 1744 |
-| Västra Götaland | 12 320 |
-| Västmanland | 1333 |
-| Stockholm | 10 327 |
+| **Län**         | **Potentiella nya jobb av frihandelsavtal\*** |
+| --------------- | --------------------------------------------- |
+| Södermanland    | 981                                           |
+| Östergötland    | 1823                                          |
+| Jönköping       | 1744                                          |
+| Västra Götaland | 12 320                                        |
+| Västmanland     | 1333                                          |
+| Stockholm       | 10 327                                        |
 
 *Jobbsiffrorna är beräknade utifrån frihandelsavtal med Australien, Indien, Mexiko och Mercosur.
 

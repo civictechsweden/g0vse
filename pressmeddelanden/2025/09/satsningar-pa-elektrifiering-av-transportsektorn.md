@@ -27,10 +27,10 @@ Den tillfälliga skattefriheten upphör att gälla den 1 juli 2026. För att for
 För att öka incitamenten för arbetstagare med laddhybrid som förmånsbil att köra på el vid tjänstekörning avser regeringen också att föreslå en utvidgad avdragsrätt för drivmedelskostnader vid tjänsteresor. Det innebär att den som laddar sin laddhybrid på arbetsplatsen utan att betala för elektriciteten bör ha motsvarande avdragsrätt för drivmedelsutgifter vid tjänsteresor som den som har betalat allt drivmedel själv.
 
 | **Elektrifiering av transportsektorn (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Förstärkning av Klimatklivet** | 1500 | 1540 | 1540 |
-| **Förlängning av stöd till lätta ellastbilar** |  | 700 | 800 |
+| -------------------------------------------------------- | -------- | -------- | -------- |
+|                                                          | **2026** | **2027** | **2028** |
+| **Förstärkning av Klimatklivet**                         | 1500     | 1540     | 1540     |
+| **Förlängning av stöd till lätta ellastbilar**           |          | 700      | 800      |
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
@@ -61,9 +61,9 @@ Den tillfälliga skattefriheten upphör att gälla den 1 juli 2026. För att for
 För att öka incitamenten för arbetstagare med laddhybrid som förmånsbil att köra på el vid tjänstekörning avser regeringen också att föreslå en utvidgad avdragsrätt för drivmedelskostnader vid tjänsteresor. Det innebär att den som laddar sin laddhybrid på arbetsplatsen utan att betala för elektriciteten bör ha motsvarande avdragsrätt för drivmedelsutgifter vid tjänsteresor som den som har betalat allt drivmedel själv.
 
 | **Elektrifiering av transportsektorn (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Förstärkning av Klimatklivet** | 1500 | 1540 | 1540 |
-| **Förlängning av stöd till lätta ellastbilar** |  | 700 | 800 |
+| -------------------------------------------------------- | -------- | -------- | -------- |
+|                                                          | **2026** | **2027** | **2028** |
+| **Förstärkning av Klimatklivet**                         | 1500     | 1540     | 1540     |
+| **Förlängning av stöd till lätta ellastbilar**           |          | 700      | 800      |
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

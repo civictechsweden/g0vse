@@ -19,12 +19,12 @@ Kostnaden för stödundervisning i skolan uppgår till cirka 570 miljoner kronor
 Regeringen beräknar att Skolverket ska få 28,4 miljoner kronor 2027 och 14,2 miljoner kronor 2028 för att utveckla och ta fram obligatoriska standardiserade tester och stödmaterial. För att skolhuvudmännen ska genomföra standardiserade tester beräknar regeringen 9,5 miljoner kronor för 2028 och 19 miljoner kronor från och med 2029.
 
 | **Reglering av lärares undervisningstid, stödundervisning och standardiserade tester (mnkr)** | | | | |
-| --- | --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** | **2029** |
-| **Reglering av lärares undervisningstid** |  | 1 284 | 2 566 | 2 567 |
-| **Stödundervisning** |  |  | 570 | 1 140 |
-| **Framtagande av standardiserade tester** |  | 28 | 14 |  |
-| **Standardiserade tester (pengar till kommunerna)** |  |  | 9,5 | 19 |
+| --------------------------------------------------------------------------------------------- | -------- | -------- | -------- | -------- |
+|                                                                                               | **2026** | **2027** | **2028** | **2029** |
+| **Reglering av lärares undervisningstid**                                                     |          | 1 284    | 2 566    | 2 567    |
+| **Stödundervisning**                                                                          |          |          | 570      | 1 140    |
+| **Framtagande av standardiserade tester**                                                     |          | 28       | 14       |          |
+| **Standardiserade tester (pengar till kommunerna)**                                           |          |          | 9,5      | 19       |
 
 Förslagen bereds nu inom Regeringskansliet och regeringen kommer att återkomma med hur förslagen ska tas vidare.
 
@@ -49,12 +49,12 @@ Kostnaden för stödundervisning i skolan uppgår till cirka 570 miljoner kronor
 Regeringen beräknar att Skolverket ska få 28,4 miljoner kronor 2027 och 14,2 miljoner kronor 2028 för att utveckla och ta fram obligatoriska standardiserade tester och stödmaterial. För att skolhuvudmännen ska genomföra standardiserade tester beräknar regeringen 9,5 miljoner kronor för 2028 och 19 miljoner kronor från och med 2029.
 
 | **Reglering av lärares undervisningstid, stödundervisning och standardiserade tester (mnkr)** | | | | |
-| --- | --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** | **2029** |
-| **Reglering av lärares undervisningstid** |  | 1 284 | 2 566 | 2 567 |
-| **Stödundervisning** |  |  | 570 | 1 140 |
-| **Framtagande av standardiserade tester** |  | 28 | 14 |  |
-| **Standardiserade tester (pengar till kommunerna)** |  |  | 9,5 | 19 |
+| --------------------------------------------------------------------------------------------- | -------- | -------- | -------- | -------- |
+|                                                                                               | **2026** | **2027** | **2028** | **2029** |
+| **Reglering av lärares undervisningstid**                                                     |          | 1 284    | 2 566    | 2 567    |
+| **Stödundervisning**                                                                          |          |          | 570      | 1 140    |
+| **Framtagande av standardiserade tester**                                                     |          | 28       | 14       |          |
+| **Standardiserade tester (pengar till kommunerna)**                                           |          |          | 9,5      | 19       |
 
 Förslagen bereds nu inom Regeringskansliet och regeringen kommer att återkomma med hur förslagen ska tas vidare.
 

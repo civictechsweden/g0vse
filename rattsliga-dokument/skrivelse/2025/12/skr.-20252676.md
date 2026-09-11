@@ -1,4 +1,4 @@
-# Regeringens skrivelse om det finanspolitiska ramverket
+# Det finanspolitiska ramverket
 
 I skrivelsen redogör regeringen för det finanspolitiska ramverket. Skrivelsen, som fungerar som en uppförandekod för såväl regeringen som de aktörer som granskar finanspolitiken, syftar till att redovisa de lagar och andra regler samt praxis som utgör det finanspolitiska ramverket. Skrivelsen syftar också till att i vissa delar precisera ramverket och regeringens tillämpning av det.
 

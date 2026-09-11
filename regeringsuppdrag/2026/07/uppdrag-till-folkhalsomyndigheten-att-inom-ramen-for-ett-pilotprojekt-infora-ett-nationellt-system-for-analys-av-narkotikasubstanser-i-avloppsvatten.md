@@ -1,0 +1,7 @@
+# Uppdrag till Folkhälsomyndigheten att, inom ramen för ett pilotprojekt, införa ett nationellt system för analys av narkotikasubstanser i avloppsvatten
+
+Regeringen ger Folkhälsomyndigheten i uppdrag att införa ett nationellt system för analys av narkotikasubstanser i avloppsvatten. Uppdraget genomförs som ett pilotprojekt. Uppdraget ska genomföras i samverkan med Polismyndigheten.
+
+Folkhälsomyndigheten ska ansvara för och samordna pilotprojektet och arbetet med det nationella systemet för analys av narkotikasubstanser i avloppsvatten, inklusive datainsamling, tillgängliggörande av data och analys samt utvärdering. Det nationella systemet ska baseras på en tvådelad provtagningsstrategi med dels veckoserier för nationell och lokal analys, dels trendmätningar i storstäderna för att följa mer kortsiktiga förändringar. Täckningsgraden ska motsvara ca 60 procent av Sveriges befolkning.
+
+Under den sista delen av pilotperioden ska det nationella systemet också utvärderas för att säkerställa dess användbarhet och kostnadseffektivitet samt relevans för både folkhälsoarbetet och det brottsförebyggande och brottsbekämpande arbetet. Utvärderingen ska besvara om systemet är ändamålsenligt utifrån hur systemets utformning fungerar i praktiken, om systemet ger den nytta som avsetts, om kostnaderna kan motiveras i förhållande till nyttan och om det finns förutsättningar för en långsiktig implementering. Resultatet ska presenteras i samband med att uppdraget slutredovisas.

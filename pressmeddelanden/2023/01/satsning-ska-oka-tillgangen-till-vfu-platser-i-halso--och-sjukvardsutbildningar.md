@@ -8,34 +8,34 @@ Medlen kan till exempel användas till att initiera och utveckla samarbeten med 
 
 ## Fördelning av medel för 2023
 
-| **Universitet/högskola** | **Kronor** |
-| --- | --- |
-| Uppsala universitet | 2 050 000 |
-| Lunds universitet | 1 800 000 |
-| Göteborgs universitet | 2 150 000 |
-| Umeå universitet | 2 250 000 |
-| Linköpings universitet | 2 050 000 |
-| Karolinska institutet | 2 400 000 |
-| Luleå tekniska universitet | 1 800 000 |
-| Karlstads universitet | 1 900 000 |
-| Linnéuniversitetet | 2 300 000 |
-| Örebro universitet | 2 000 000 |
-| Mittuniversitetet | 1 850 000 |
-| Malmö universitet | 2 100 000 |
-| Mälardalens universitet | 2 700 000 |
-| Blekinge tekniska högskola | 1 800 000 |
-| Högskolan i Borås | 1 900 000 |
-| Högskolan Dalarna | 1 850 000 |
-| Högskolan i Gävle | 1 800 000 |
-| Högskolan i Halmstad | 1 900 000 |
-| Högskolan Kristianstad | 1 950 000 |
-| Högskolan i Skövde | 1 750 000 |
-| Högskolan Väst | 1 900 000 |
-| Stiftelsen Högskolan i Jönköping | 1 950 000 |
-| Marie Cederschiöld högskola AB | 2 000 000 |
-| Stiftelsen Rödakorshemmet | 1 900 000 |
-| Sophiahemmet, Ideell förening | 1 950 000 |
-| **Totalt** | **50 000 000** |
+| **Universitet/högskola**         | **Kronor**     |
+| -------------------------------- | -------------- |
+| Uppsala universitet              | 2 050 000      |
+| Lunds universitet                | 1 800 000      |
+| Göteborgs universitet            | 2 150 000      |
+| Umeå universitet                 | 2 250 000      |
+| Linköpings universitet           | 2 050 000      |
+| Karolinska institutet            | 2 400 000      |
+| Luleå tekniska universitet       | 1 800 000      |
+| Karlstads universitet            | 1 900 000      |
+| Linnéuniversitetet               | 2 300 000      |
+| Örebro universitet               | 2 000 000      |
+| Mittuniversitetet                | 1 850 000      |
+| Malmö universitet                | 2 100 000      |
+| Mälardalens universitet          | 2 700 000      |
+| Blekinge tekniska högskola       | 1 800 000      |
+| Högskolan i Borås                | 1 900 000      |
+| Högskolan Dalarna                | 1 850 000      |
+| Högskolan i Gävle                | 1 800 000      |
+| Högskolan i Halmstad             | 1 900 000      |
+| Högskolan Kristianstad           | 1 950 000      |
+| Högskolan i Skövde               | 1 750 000      |
+| Högskolan Väst                   | 1 900 000      |
+| Stiftelsen Högskolan i Jönköping | 1 950 000      |
+| Marie Cederschiöld högskola AB   | 2 000 000      |
+| Stiftelsen Rödakorshemmet        | 1 900 000      |
+| Sophiahemmet, Ideell förening    | 1 950 000      |
+| **Totalt**                       | **50 000 000** |
 
 
 
@@ -47,31 +47,31 @@ Medlen kan till exempel användas till att initiera och utveckla samarbeten med 
 
 ## Fördelning av medel för 2023
 
-| **Universitet/högskola** | **Kronor** |
-| --- | --- |
-| Uppsala universitet | 2 050 000 |
-| Lunds universitet | 1 800 000 |
-| Göteborgs universitet | 2 150 000 |
-| Umeå universitet | 2 250 000 |
-| Linköpings universitet | 2 050 000 |
-| Karolinska institutet | 2 400 000 |
-| Luleå tekniska universitet | 1 800 000 |
-| Karlstads universitet | 1 900 000 |
-| Linnéuniversitetet | 2 300 000 |
-| Örebro universitet | 2 000 000 |
-| Mittuniversitetet | 1 850 000 |
-| Malmö universitet | 2 100 000 |
-| Mälardalens universitet | 2 700 000 |
-| Blekinge tekniska högskola | 1 800 000 |
-| Högskolan i Borås | 1 900 000 |
-| Högskolan Dalarna | 1 850 000 |
-| Högskolan i Gävle | 1 800 000 |
-| Högskolan i Halmstad | 1 900 000 |
-| Högskolan Kristianstad | 1 950 000 |
-| Högskolan i Skövde | 1 750 000 |
-| Högskolan Väst | 1 900 000 |
-| Stiftelsen Högskolan i Jönköping | 1 950 000 |
-| Marie Cederschiöld högskola AB | 2 000 000 |
-| Stiftelsen Rödakorshemmet | 1 900 000 |
-| Sophiahemmet, Ideell förening | 1 950 000 |
-| **Totalt** | **50 000 000** |
+| **Universitet/högskola**         | **Kronor**     |
+| -------------------------------- | -------------- |
+| Uppsala universitet              | 2 050 000      |
+| Lunds universitet                | 1 800 000      |
+| Göteborgs universitet            | 2 150 000      |
+| Umeå universitet                 | 2 250 000      |
+| Linköpings universitet           | 2 050 000      |
+| Karolinska institutet            | 2 400 000      |
+| Luleå tekniska universitet       | 1 800 000      |
+| Karlstads universitet            | 1 900 000      |
+| Linnéuniversitetet               | 2 300 000      |
+| Örebro universitet               | 2 000 000      |
+| Mittuniversitetet                | 1 850 000      |
+| Malmö universitet                | 2 100 000      |
+| Mälardalens universitet          | 2 700 000      |
+| Blekinge tekniska högskola       | 1 800 000      |
+| Högskolan i Borås                | 1 900 000      |
+| Högskolan Dalarna                | 1 850 000      |
+| Högskolan i Gävle                | 1 800 000      |
+| Högskolan i Halmstad             | 1 900 000      |
+| Högskolan Kristianstad           | 1 950 000      |
+| Högskolan i Skövde               | 1 750 000      |
+| Högskolan Väst                   | 1 900 000      |
+| Stiftelsen Högskolan i Jönköping | 1 950 000      |
+| Marie Cederschiöld högskola AB   | 2 000 000      |
+| Stiftelsen Rödakorshemmet        | 1 900 000      |
+| Sophiahemmet, Ideell förening    | 1 950 000      |
+| **Totalt**                       | **50 000 000** |

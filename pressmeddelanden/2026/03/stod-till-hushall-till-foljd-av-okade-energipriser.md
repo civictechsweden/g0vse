@@ -40,17 +40,17 @@ För att möjliggöra att fler hushåll kan få tillgång till premien avser reg
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Energiprispaket i vårändringsbudgeten (mnkr)** | |
-| --- | --- |
-|  | **2026** |
-| Ersättning till statliga myndigheter för inköp av fossilfria drivmedel eller elektriska alternativ | 500 |
-| Förstärkt elbilspremie | 100 |
+| **Energiprispaket i vårändringsbudgeten (mnkr)**                                                   | |
+| -------------------------------------------------------------------------------------------------- | -------- |
+|                                                                                                    | **2026** |
+| Ersättning till statliga myndigheter för inköp av fossilfria drivmedel eller elektriska alternativ | 500      |
+| Förstärkt elbilspremie                                                                             | 100      |
 
-| **Energiprispaket i extra ändringsbudget (mnkr)** | |
-| --- | --- |
-|  | **2026** |
-| Tillfälligt sänkt skatt på bensin och diesel till EU:s mininivå | 1 640 |
-| Nytt tillfälligt el- och gasstöd för januari och februari 2026 | 2 415 |
+| **Energiprispaket i extra ändringsbudget (mnkr)**               | |
+| --------------------------------------------------------------- | -------- |
+|                                                                 | **2026** |
+| Tillfälligt sänkt skatt på bensin och diesel till EU:s mininivå | 1 640    |
+| Nytt tillfälligt el- och gasstöd för januari och februari 2026  | 2 415    |
 
 Det pågående kriget i Iran har inneburit en störning på de globala energimarknaderna och medfört snabba prisökningar på olja och gas, vilket – om utvecklingen blir långvarig – riskerar att hämma den ekonomiska utvecklingen globalt och i Sverige. Högre energipriser kan medföra att hushållen förlorar köpkraft samtidigt som företagen kan få högre produktionskostnader.
 
@@ -92,14 +92,14 @@ För att möjliggöra att fler hushåll kan få tillgång till premien avser reg
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Energiprispaket i vårändringsbudgeten (mnkr)** | |
-| --- | --- |
-|  | **2026** |
-| Ersättning till statliga myndigheter för inköp av fossilfria drivmedel eller elektriska alternativ | 500 |
-| Förstärkt elbilspremie | 100 |
+| **Energiprispaket i vårändringsbudgeten (mnkr)**                                                   | |
+| -------------------------------------------------------------------------------------------------- | -------- |
+|                                                                                                    | **2026** |
+| Ersättning till statliga myndigheter för inköp av fossilfria drivmedel eller elektriska alternativ | 500      |
+| Förstärkt elbilspremie                                                                             | 100      |
 
-| **Energiprispaket i extra ändringsbudget (mnkr)** | |
-| --- | --- |
-|  | **2026** |
-| Tillfälligt sänkt skatt på bensin och diesel till EU:s mininivå | 1 640 |
-| Nytt tillfälligt el- och gasstöd för januari och februari 2026 | 2 415 |
+| **Energiprispaket i extra ändringsbudget (mnkr)**               | |
+| --------------------------------------------------------------- | -------- |
+|                                                                 | **2026** |
+| Tillfälligt sänkt skatt på bensin och diesel till EU:s mininivå | 1 640    |
+| Nytt tillfälligt el- och gasstöd för januari och februari 2026  | 2 415    |

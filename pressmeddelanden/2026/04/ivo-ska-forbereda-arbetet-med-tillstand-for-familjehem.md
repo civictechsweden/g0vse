@@ -15,9 +15,9 @@ För att säkerställa att den nya ordningen med tillstånd får avsedd effekt b
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Förberedelser för arbetet med tillstånd för familjehem (mnkr)** | |
-| --- | --- |
-|  | **2026** |
-| **Medel till Inspektionen för vård och omsorg** | 5 |
+| ----------------------------------------------------------------- | -------- |
+|                                                                   | **2026** |
+| **Medel till Inspektionen för vård och omsorg**                   | 5        |
 
 
 
@@ -36,6 +36,6 @@ För att säkerställa att den nya ordningen med tillstånd får avsedd effekt b
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Förberedelser för arbetet med tillstånd för familjehem (mnkr)** | |
-| --- | --- |
-|  | **2026** |
-| **Medel till Inspektionen för vård och omsorg** | 5 |
+| ----------------------------------------------------------------- | -------- |
+|                                                                   | **2026** |
+| **Medel till Inspektionen för vård och omsorg**                   | 5        |

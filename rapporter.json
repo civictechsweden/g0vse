@@ -10,7 +10,26 @@
         "senders": [
             "2425"
         ],
-        "summary": "Sveriges hav, kuster och skärgårdar är delar av vårt nationella arv. Men de är också strategiska resurser för jobb, trygghet, transporter, energi- och livsmedelsförsörjning, rekreation och innovation. Regeringen strävar efter ett maritimt Sverige som står starkt i en orolig omvärld och samtidigt tar sikte framåt – ett Sverige som främjar utvecklingen av de maritima näringarna och säkerställer ett levande och välmående hav."
+        "summary": "Sveriges hav, kuster och skärgårdar är delar av vårt nationella arv. Men de är också strategiska resurser för jobb, trygghet, transporter, energi- och livsmedelsförsörjning, rekreation och innovation. Regeringen strävar efter ett maritimt Sverige som står starkt i en orolig omvärld och samtidigt tar sikte framåt – ett Sverige som främjar utvecklingen av de maritima näringarna och säkerställer ett levande och välmående hav.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Ny maritim strategi för stärkt konkurrenskraft",
+                "url": "/pressmeddelanden/2026/08/ny-maritim-strategi-for-starkt-konkurrenskraft/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Ny maritim strategi – en kraftsamling för konkurrenskraft, fossilfrihet, blå näringar och ett levande hav (pdf 1 MB)",
+                "url": "/contentassets/37407d44464b490ebbdcb98b1c1b2272/ny-maritim-strategi--en-kraftsamling-for-konkurrenskraft-fossilfrihet-bla-naringar-och-ett-levande-hav/"
+            }
+        ],
+        "categories": [
+            "1226",
+            "1243",
+            "1252",
+            "1274"
+        ]
     },
     {
         "title": "Årlig information om bolag med statligt ägande 2025",
@@ -23,7 +42,18 @@
         "senders": [
             "1285"
         ],
-        "summary": "Från och med i år publicerar regeringen denna fristående rapport – Årlig information om bolag med statligt ägande – på regeringens webbplats regeringen.se och som tryckt produkt. Rapporten kompletterar regeringens årliga redogörelse till riksdagen med ytterligare information om bolagen med statligt ägande."
+        "summary": "Från och med i år publicerar regeringen denna fristående rapport – Årlig information om bolag med statligt ägande – på regeringens webbplats regeringen.se och som tryckt produkt. Rapporten kompletterar regeringens årliga redogörelse till riksdagen med ytterligare information om bolagen med statligt ägande.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Årlig information om bolag med statligt ägande 2025 (pdf 2 MB)",
+                "url": "/contentassets/15cc81b6237b4aa49578a845b7e3dc94/arlig-information-om-bolag-med-statligt-agande-2025.pdf"
+            }
+        ],
+        "categories": [
+            "1234"
+        ]
     },
     {
         "title": "Strategi för att stärka luftfartens konkurrenskraft",
@@ -226,7 +256,7 @@
         "id": "Diarienummer: KN2026/00242",
         "shortcuts": [
             {
-                "name": "Pressmeddelande: Sveriges handlingsplan för biologisk mångfaldWebb-TV",
+                "name": "Pressmeddelande: Sveriges handlingsplan för biologisk mångfald",
                 "url": "/pressmeddelanden/2026/02/sveriges-handlingsplan-for-biologisk-mangfald/"
             },
             {
@@ -241,7 +271,7 @@
         "attachments": [
             {
                 "name": "En svensk strategi för biologisk mångfald och ekosystemtjänster (pdf 1 MB)",
-                "url": "/contentassets/0bb2d455cbb8406781c8487ad9d4c2d9/final-en-svensk-strategi-for-biologisk-mangfald-och-ekosystemtjanster.pdf"
+                "url": "/contentassets/0bb2d455cbb8406781c8487ad9d4c2d9/en-svensk-strategi-for-biologisk-mangfald-och-ekosystemtjanster/"
             }
         ],
         "categories": [
@@ -297,7 +327,7 @@
                 "url": "/pressmeddelanden/2025/11/riktlinjer-for-statsskuldens-forvaltning-2026/"
             },
             {
-                "name": "In English: Guidelines for central government debt management in 2026",
+                "name": "In English: Guidelines for central government debt management in 2026- extern webbplats,",
                 "url": "https://www.government.se/reports/2025/11/guidelines-for-central-government-debt-management-2026/"
             }
         ],
@@ -336,6 +366,10 @@
             {
                 "name": "Artikel: Infrastruktur- och bostadsminister Andreas Carlson presenterade ny godstransportstrategi för branschföreträdare",
                 "url": "/artiklar/2025/11/infrastruktur--och-bostadsminister-andreas-carlson-presenterade-ny-godstransportstrategi-for-branschforetradare/"
+            },
+            {
+                "name": "Debattartikel: Fri väg för godstransporter över hela landet",
+                "url": "/debattartiklar/2025/11/fri-vag-for-godstransporter-over-hela-landet/"
             }
         ],
         "attachments": [
@@ -608,6 +642,34 @@
         ]
     },
     {
+        "title": "Metod för regeringens bedömning av finanspolitikens långsiktiga hållbarhet",
+        "url": "/rapporter/2025/04/metod-for-regeringens-bedomning-av-finanspolitikens-langsiktiga-hallbarhet/",
+        "published": "2025-04-15",
+        "updated": null,
+        "types": [
+            "1341"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2024/25:100 2025 års ekonomiska vårproposition",
+                "url": "/rattsliga-dokument/proposition/2025/04/prop.-202425100"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Metod för regeringens bedömning av finanspolitikens långsiktiga hållbarhet (pdf 227 kB)",
+                "url": "/contentassets/93b9af573c714d9299215255a81f9e2a/metod-for-regeringens-bedomning-av-finanspolitikens-langsiktiga-hallbarhet.pdf"
+            }
+        ],
+        "categories": [
+            "2212"
+        ]
+    },
+    {
         "title": "Teknisk bilaga till Fördelningspolitisk redogörelse april 2025",
         "url": "/rapporter/2025/04/teknisk-bilaga-till-fordelningspolitisk-redogorelse-april-2025/",
         "published": "2025-04-15",
@@ -637,34 +699,6 @@
         ]
     },
     {
-        "title": "Metod för regeringens bedömning av finanspolitikens långsiktiga hållbarhet",
-        "url": "/rapporter/2025/04/metod-for-regeringens-bedomning-av-finanspolitikens-langsiktiga-hallbarhet/",
-        "published": "2025-04-15",
-        "updated": null,
-        "types": [
-            "1341"
-        ],
-        "senders": [
-            "1285"
-        ],
-        "id": null,
-        "shortcuts": [
-            {
-                "name": "Prop. 2024/25:100 2025 års ekonomiska vårproposition",
-                "url": "/rattsliga-dokument/proposition/2025/04/prop.-202425100"
-            }
-        ],
-        "attachments": [
-            {
-                "name": "Metod för regeringens bedömning av finanspolitikens långsiktiga hållbarhet (pdf 227 kB)",
-                "url": "/contentassets/93b9af573c714d9299215255a81f9e2a/metod-for-regeringens-bedomning-av-finanspolitikens-langsiktiga-hallbarhet.pdf"
-            }
-        ],
-        "categories": [
-            "2212"
-        ]
-    },
-    {
         "title": "Statens ägarpolicy 2025",
         "url": "/rapporter/2025/02/statens-agarpolicy-2025/",
         "published": "2025-02-20",
@@ -683,7 +717,7 @@
                 "url": "/pressmeddelanden/2025/02/ny-agarpolicy-for-statliga-bolag/"
             },
             {
-                "name": "Report: State Ownership Policy 2025",
+                "name": "Report: State Ownership Policy 2025- extern webbplats,",
                 "url": "https://www.government.se/reports/2025/04/state-ownership-policy-2025/"
             }
         ],
@@ -711,7 +745,7 @@
         "id": "Diarienummer: Komm2025/00099",
         "shortcuts": [
             {
-                "name": "Interim report 2: Report on the National Nuclear New-build Coordinator’s mission regarding the expansion of nuclear power in Sweden – January 2025",
+                "name": "Interim report 2: Report on the National Nuclear New-build Coordinator’s mission regarding the expansion of nuclear power in Sweden – January 2025- extern webbplats,",
                 "url": "https://www.government.se/reports/2025/02/interim-report-2-report-on-the-national-nuclear-new-build-coordinators-mission-regarding-the-expansion-of-nuclear-power-in-sweden--january-2025/"
             },
             {
@@ -727,7 +761,8 @@
         ],
         "categories": [
             "1226",
-            "2749"
+            "2749",
+            "2811"
         ]
     },
     {
@@ -816,7 +851,7 @@
                 "url": "/pressmeddelanden/2024/11/riktlinjer-for-statsskuldens-forvaltning-2025/"
             },
             {
-                "name": "In English: Guidelines for central government debt management in 2025",
+                "name": "In English: Guidelines for central government debt management in 2025- extern webbplats,",
                 "url": "https://www.government.se/reports/2024/11/guidelines-for-central-government-debt-management-in-2025/"
             }
         ],
@@ -1008,7 +1043,7 @@
                 "url": "/pressmeddelanden/2024/06/karnkraftssamordnaren-lamnar-sina-forsta-forslag-till-regeringen/"
             },
             {
-                "name": "Interim report: The nuclear new-build coordinator's recommendations regarding the expansion of new nuclear power in Sweden – June 2024",
+                "name": "Interim report: The nuclear new-build coordinator's recommendations regarding the expansion of new nuclear power in Sweden – June 2024- extern webbplats,",
                 "url": "https://www.government.se/reports/2024/06/interim-report-the-nuclear-new-build-coordinators-recommendations-regarding-the-expansion-of-new-nuclear-power-in-sweden--june-2024/"
             }
         ],
@@ -1020,7 +1055,8 @@
         ],
         "categories": [
             "1226",
-            "2749"
+            "2749",
+            "2811"
         ]
     },
     {
@@ -1183,7 +1219,7 @@
                 "url": "/pressmeddelanden/2023/12/presstraff-med-bistands--och-utrikeshandelsminister-johan-forssell-aron-emilsson-sd-gudrun-brunegard-kd-och-joar-forssell-l/"
             },
             {
-                "name": "För information på engelska (government.se)",
+                "name": "För information på engelska (government.se)- extern webbplats,",
                 "url": "https://www.government.se/reports/2024/02/development-assistance-for-a-new-era--freedom-empowerment-and-sustainable-growth/"
             }
         ],
@@ -1317,7 +1353,7 @@
                 "url": "/pressmeddelanden/2023/11/riktlinjer-for-statsskuldens-forvaltning-2024/"
             },
             {
-                "name": "Guidelines for central government debt management 2024",
+                "name": "Guidelines for central government debt management 2024- extern webbplats,",
                 "url": "https://www.government.se/reports/2023/11/guidelines-for-central-government-debt-management-2024/"
             }
         ],
@@ -1557,7 +1593,7 @@
                 "url": "/rattsliga-dokument/skrivelse/2023/06/skr.-202223140"
             },
             {
-                "name": "Annual report for state-owned enterprises 2022",
+                "name": "Annual report for state-owned enterprises 2022- extern webbplats,",
                 "url": "https://www.government.se/reports/2023/09/annual-report-for-state-owned-enterprises-2022/"
             }
         ],
@@ -1687,7 +1723,7 @@
                 "url": "/globalassets/regeringen/dokument/finansdepartementet/exceldokument/konvergensprogrammet/2023/tabeller---sveriges-konvergensprogram-2023.xlsx"
             },
             {
-                "name": "Sweden’s convergence programme 2023 (på engelska)",
+                "name": "Sweden’s convergence programme 2023 (på engelska)- extern webbplats,",
                 "url": "https://www.government.se/reports/2023/04/swedens-convergence-programme-2023/"
             }
         ],
@@ -1749,64 +1785,6 @@
         ]
     },
     {
-        "title": "Sveriges arbete med kvinnor, fred och säkerhet 2021",
-        "url": "/rapporter/2023/04/sveriges-arbete-med-kvinnor-fred-och-sakerhet-2021/",
-        "published": "2023-04-24",
-        "updated": null,
-        "types": [
-            "1341"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Den femte rapporten från arbetet med Sveriges nationella handlingsplan för genomförande av FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet 2016-2020.",
-        "id": null,
-        "shortcuts": [
-            {
-                "name": "Sveriges arbete med kvinnor, fred och säkerhet 2022",
-                "url": "/rapporter/2023/10/sveriges-arbete-med-kvinnor-fred-och-sakerhet-2022/"
-            },
-            {
-                "name": "Sveriges arbete med kvinnor, fred och säkerhet 2020",
-                "url": "/rapporter/2023/04/sveriges-arbete-med-kvinnor-fred-och-sakerhet-2020/"
-            },
-            {
-                "name": "Sveriges arbete med kvinnor, fred och säkerhet 2019",
-                "url": "/rapporter/2021/02/sveriges-arbete-med-kvinnor-fred-och-sakerhet-2019/"
-            },
-            {
-                "name": "Sveriges arbete med kvinnor, fred och säkerhet 2018",
-                "url": "/rapporter/2020/03/sveriges-arbete-med-kvinnor-fred-och-sakerhet-2018/"
-            },
-            {
-                "name": "Sveriges arbete med kvinnor, fred och säkerhet 2017",
-                "url": "/rapporter/2019/05/sveriges-arbete-med-kvinnor-fred-och-sakerhet-2017/"
-            },
-            {
-                "name": "Sveriges nationella handlingsplan för genomförandet av FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet 2016-2020",
-                "url": "/rapporter/2016/05/sveriges-nationella-handlingsplan-for-genomforande-av-fns-sakerhetsradsresolutioner-om-kvinnor-fred-och-sakerhet-20162020/"
-            }
-        ],
-        "attachments": [
-            {
-                "name": "Sveriges arbete med kvinnor, fred och säkerhet 2021 (pdf 204 kB)",
-                "url": "/contentassets/50a2c68ed35146ab9005b4ff237a5843/sveriges-arbete-med-kvinnor-fred-och-sakerhet-2021.pdf"
-            },
-            {
-                "name": "Bilaga 1 Sveriges arbete med kvinnor, fred och säkerhet 2021 (pdf 455 kB)",
-                "url": "/contentassets/50a2c68ed35146ab9005b4ff237a5843/bilaga-1-sveriges-arbete-med-kvinnor-fred-och-sakerhet-2021.pdf"
-            },
-            {
-                "name": "Bilaga 2 Sveriges arbete med kvinnor, fred och säkerhet 2021 (pdf 686 kB)",
-                "url": "/contentassets/50a2c68ed35146ab9005b4ff237a5843/bilaga-2-sveriges-arbete-med-kvinnor-fred-och-sakerhet-2021.pdf"
-            }
-        ],
-        "categories": [
-            "1279",
-            "1013"
-        ]
-    },
-    {
         "title": "Sveriges arbete med kvinnor, fred och säkerhet 2020",
         "url": "/rapporter/2023/04/sveriges-arbete-med-kvinnor-fred-och-sakerhet-2020/",
         "published": "2023-04-24",
@@ -1857,6 +1835,64 @@
             {
                 "name": "Bilaga 2 Sveriges arbete med kvinnor, fred och säkerhet 2020 (pdf 526 kB)",
                 "url": "/contentassets/d339c81e0bde4d43b5e3f513a62d63e1/bilaga-2-sveriges-arbete-med-kvinnor-fred-och-sakerhet-2020.pdf"
+            }
+        ],
+        "categories": [
+            "1279",
+            "1013"
+        ]
+    },
+    {
+        "title": "Sveriges arbete med kvinnor, fred och säkerhet 2021",
+        "url": "/rapporter/2023/04/sveriges-arbete-med-kvinnor-fred-och-sakerhet-2021/",
+        "published": "2023-04-24",
+        "updated": null,
+        "types": [
+            "1341"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Den femte rapporten från arbetet med Sveriges nationella handlingsplan för genomförande av FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet 2016-2020.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Sveriges arbete med kvinnor, fred och säkerhet 2022",
+                "url": "/rapporter/2023/10/sveriges-arbete-med-kvinnor-fred-och-sakerhet-2022/"
+            },
+            {
+                "name": "Sveriges arbete med kvinnor, fred och säkerhet 2020",
+                "url": "/rapporter/2023/04/sveriges-arbete-med-kvinnor-fred-och-sakerhet-2020/"
+            },
+            {
+                "name": "Sveriges arbete med kvinnor, fred och säkerhet 2019",
+                "url": "/rapporter/2021/02/sveriges-arbete-med-kvinnor-fred-och-sakerhet-2019/"
+            },
+            {
+                "name": "Sveriges arbete med kvinnor, fred och säkerhet 2018",
+                "url": "/rapporter/2020/03/sveriges-arbete-med-kvinnor-fred-och-sakerhet-2018/"
+            },
+            {
+                "name": "Sveriges arbete med kvinnor, fred och säkerhet 2017",
+                "url": "/rapporter/2019/05/sveriges-arbete-med-kvinnor-fred-och-sakerhet-2017/"
+            },
+            {
+                "name": "Sveriges nationella handlingsplan för genomförandet av FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet 2016-2020",
+                "url": "/rapporter/2016/05/sveriges-nationella-handlingsplan-for-genomforande-av-fns-sakerhetsradsresolutioner-om-kvinnor-fred-och-sakerhet-20162020/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Sveriges arbete med kvinnor, fred och säkerhet 2021 (pdf 204 kB)",
+                "url": "/contentassets/50a2c68ed35146ab9005b4ff237a5843/sveriges-arbete-med-kvinnor-fred-och-sakerhet-2021.pdf"
+            },
+            {
+                "name": "Bilaga 1 Sveriges arbete med kvinnor, fred och säkerhet 2021 (pdf 455 kB)",
+                "url": "/contentassets/50a2c68ed35146ab9005b4ff237a5843/bilaga-1-sveriges-arbete-med-kvinnor-fred-och-sakerhet-2021.pdf"
+            },
+            {
+                "name": "Bilaga 2 Sveriges arbete med kvinnor, fred och säkerhet 2021 (pdf 686 kB)",
+                "url": "/contentassets/50a2c68ed35146ab9005b4ff237a5843/bilaga-2-sveriges-arbete-med-kvinnor-fred-och-sakerhet-2021.pdf"
             }
         ],
         "categories": [
@@ -2102,6 +2138,34 @@
         ]
     },
     {
+        "title": "Metod för beräkning av potentiella variabler november 2022",
+        "url": "/rapporter/2022/11/metod-for-berakning-av-potentiella-variabler-november-2022/",
+        "published": "2022-11-08",
+        "updated": null,
+        "types": [
+            "1341"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2022/23:1  Budgetpropositionen för 2023",
+                "url": "/rattsliga-dokument/proposition/2022/11/prop.-2022231"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Metod för beräkning av potentiella variabler november 2022 (pdf 271 kB)",
+                "url": "/contentassets/9957682d29014cf2b8b1534b86bd85fb/metod-for-berakning-av-potentiella-variabler-november-2022.pdf"
+            }
+        ],
+        "categories": [
+            "2212"
+        ]
+    },
+    {
         "title": "Teknisk bilaga till Ekonomisk jämställdhet november 2022",
         "url": "/rapporter/2022/11/teknisk-bilaga-till-ekonomisk-jamstalldhet-november-2022/",
         "published": "2022-11-08",
@@ -2128,34 +2192,6 @@
         "categories": [
             "1232",
             "1239",
-            "2212"
-        ]
-    },
-    {
-        "title": "Metod för beräkning av potentiella variabler november 2022",
-        "url": "/rapporter/2022/11/metod-for-berakning-av-potentiella-variabler-november-2022/",
-        "published": "2022-11-08",
-        "updated": null,
-        "types": [
-            "1341"
-        ],
-        "senders": [
-            "1285"
-        ],
-        "id": null,
-        "shortcuts": [
-            {
-                "name": "Prop. 2022/23:1  Budgetpropositionen för 2023",
-                "url": "/rattsliga-dokument/proposition/2022/11/prop.-2022231"
-            }
-        ],
-        "attachments": [
-            {
-                "name": "Metod för beräkning av potentiella variabler november 2022 (pdf 271 kB)",
-                "url": "/contentassets/9957682d29014cf2b8b1534b86bd85fb/metod-for-berakning-av-potentiella-variabler-november-2022.pdf"
-            }
-        ],
-        "categories": [
             "2212"
         ]
     },
@@ -2380,7 +2416,7 @@
                 "url": "/rattsliga-dokument/skrivelse/2022/06/skr.-202122140"
             },
             {
-                "name": "Annual report for state-owned enterprises 2021",
+                "name": "Annual report for state-owned enterprises 2021- extern webbplats,",
                 "url": "https://www.government.se/reports/2022/09/annual-report-for-state-owned-enterprises-2021/"
             }
         ],
@@ -2605,7 +2641,7 @@
             },
             {
                 "name": "Operativa överenskommelsen som ingåtts mellan Sverige och Europeiska kommissionen- extern webbplats,",
-                "url": "https://commission.europa.eu/system/files/2023-06/Countersigned%20-%20SE%20-%20RRF%20-%20OA%201.pdf"
+                "url": "https://commission.europa.eu/system/files/2023-06/Countersigned - SE - RRF - OA 1.pdf"
             },
             {
                 "name": "Rådets genomförandebeslut om godkännande av bedömningen av Sveriges återhämtnings- och resiliensplan (4 maj 2022)- extern webbplats,",
@@ -2921,7 +2957,7 @@
                 "url": "/rattsliga-dokument/skrivelse/2021/06/skr.-202021140"
             },
             {
-                "name": "Annual report for state-owned enterprises 2020",
+                "name": "Annual report for state-owned enterprises 2020- extern webbplats,",
                 "url": "https://www.government.se/reports/2021/09/annual-report-for-state-owned-enterprises-2020/"
             }
         ],
@@ -2965,7 +3001,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Report: Voluntary National Review 2021 - Sweden - Report on the implementation of the 2030 Agenda for Sustainable Development",
+                "name": "Report: Voluntary National Review 2021 - Sweden - Report on the implementation of the 2030 Agenda for Sustainable Development- extern webbplats,",
                 "url": "https://www.government.se/reports/2021/06/voluntary-national-review-2021---sweden/"
             },
             {
@@ -3083,6 +3119,34 @@
         ]
     },
     {
+        "title": "Metod för beräkning av potentiella variabler april 2021",
+        "url": "/rapporter/2021/04/metod-for-berakning-av-potentiella-variabler-april-2021/",
+        "published": "2021-04-15",
+        "updated": null,
+        "types": [
+            "1341"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2020/21:100 2021 års ekonomiska vårproposition",
+                "url": "/rattsliga-dokument/proposition/2021/04/prop.-202021100"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Metod för beräkning av potentiella variabler april 2021 (pdf 304 kB)",
+                "url": "/contentassets/a0b9ec0a84ee4cdeb7ac52dc0f8a5ce5/metod-for-berakning-av-potentiella-variabler-april-2021.pdf"
+            }
+        ],
+        "categories": [
+            "2212"
+        ]
+    },
+    {
         "title": "Teknisk bilaga till Fördelningspolitisk redogörelse april 2021",
         "url": "/rapporter/2021/04/teknisk-bilaga-till-fordelningspolitisk-redogorelse-april-2021/",
         "published": "2021-04-15",
@@ -3108,34 +3172,6 @@
         ],
         "categories": [
             "1232",
-            "2212"
-        ]
-    },
-    {
-        "title": "Metod för beräkning av potentiella variabler april 2021",
-        "url": "/rapporter/2021/04/metod-for-berakning-av-potentiella-variabler-april-2021/",
-        "published": "2021-04-15",
-        "updated": null,
-        "types": [
-            "1341"
-        ],
-        "senders": [
-            "1285"
-        ],
-        "id": null,
-        "shortcuts": [
-            {
-                "name": "Prop. 2020/21:100 2021 års ekonomiska vårproposition",
-                "url": "/rattsliga-dokument/proposition/2021/04/prop.-202021100"
-            }
-        ],
-        "attachments": [
-            {
-                "name": "Metod för beräkning av potentiella variabler april 2021 (pdf 304 kB)",
-                "url": "/contentassets/a0b9ec0a84ee4cdeb7ac52dc0f8a5ce5/metod-for-berakning-av-potentiella-variabler-april-2021.pdf"
-            }
-        ],
-        "categories": [
             "2212"
         ]
     },
@@ -3439,7 +3475,7 @@
                 "url": "/rattsliga-dokument/skrivelse/2020/06/skr.-201920140"
             },
             {
-                "name": "Rapport på engelska: Annual report for state-owned enterprises 2019",
+                "name": "Rapport på engelska: Annual report for state-owned enterprises 2019- extern webbplats,",
                 "url": "https://www.government.se/reports/2020/09/annual-report-for-state-owned-enterprises-2019/"
             }
         ],
@@ -3658,7 +3694,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "State Ownership Policy and principles for state-owned enterprises 2020, på engelska webbplatsen",
+                "name": "State Ownership Policy and principles for state-owned enterprises 2020, på engelska webbplatsen- extern webbplats,",
                 "url": "https://www.government.se/reports/2020/07/state-ownership-policy-and-principles-for-state-owned-enterprises-2020/"
             }
         ],
@@ -4103,34 +4139,6 @@
         ]
     },
     {
-        "title": "Teknisk bilaga till bedömningen av finanspolitikens långsiktiga hållbarhet april 2019",
-        "url": "/rapporter/2019/04/teknisk-bilaga-till-bedomningen-av-finanspolitikens-langsiktiga-hallbarhet-april-2019/",
-        "published": "2019-04-10",
-        "updated": null,
-        "types": [
-            "1341"
-        ],
-        "senders": [
-            "1285"
-        ],
-        "id": null,
-        "shortcuts": [
-            {
-                "name": "2019 års ekonomiska vårproposition",
-                "url": "/rattsliga-dokument/proposition/2019/04/prop.-201819100"
-            }
-        ],
-        "attachments": [
-            {
-                "name": "Teknisk bilaga till bedömningen av finanspolitikens långsiktiga hållbarhet april 2019  (pdf 388 kB)",
-                "url": "/contentassets/d771c35078a14a34bba586487465b202/teknisk-bilaga-till-bedomningen-av-finanspolitikens-langsiktiga-hallbarhet-april-2019-.pdf"
-            }
-        ],
-        "categories": [
-            "2212"
-        ]
-    },
-    {
         "title": "Metod för beräkning av potentiella variabler april 2019",
         "url": "/rapporter/2019/04/metod-for-berakning-av-potentiella-variabler-april-2019/",
         "published": "2019-04-10",
@@ -4152,6 +4160,34 @@
             {
                 "name": "Metod för beräkning av potentiella variabler april 2019 (pdf 521 kB)",
                 "url": "/contentassets/9d060883451b4471bfa3244f08891d80/metod-for-berakning-av-potentiella-variabler-april-2019.pdf"
+            }
+        ],
+        "categories": [
+            "2212"
+        ]
+    },
+    {
+        "title": "Teknisk bilaga till bedömningen av finanspolitikens långsiktiga hållbarhet april 2019",
+        "url": "/rapporter/2019/04/teknisk-bilaga-till-bedomningen-av-finanspolitikens-langsiktiga-hallbarhet-april-2019/",
+        "published": "2019-04-10",
+        "updated": null,
+        "types": [
+            "1341"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "2019 års ekonomiska vårproposition",
+                "url": "/rattsliga-dokument/proposition/2019/04/prop.-201819100"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Teknisk bilaga till bedömningen av finanspolitikens långsiktiga hållbarhet april 2019  (pdf 388 kB)",
+                "url": "/contentassets/d771c35078a14a34bba586487465b202/teknisk-bilaga-till-bedomningen-av-finanspolitikens-langsiktiga-hallbarhet-april-2019-.pdf"
             }
         ],
         "categories": [
@@ -4732,8 +4768,8 @@
         ]
     },
     {
-        "title": "Utvärdering av makroekonomiska prognoser april 2018",
-        "url": "/rapporter/2018/04/utvardering-av-makroekonomiska-prognoser-april-2018/",
+        "title": "Teknisk bilaga till fördelningspolitisk redogörelse april 2018",
+        "url": "/rapporter/2018/04/teknisk-bilaga-till-fordelningspolitisk-redogorelse-april-2018/",
         "published": "2018-04-16",
         "updated": null,
         "types": [
@@ -4746,8 +4782,8 @@
         "shortcuts": [],
         "attachments": [
             {
-                "name": "Utvärdering av makroekonomiska prognoser april 2018 (pdf 483 kB)",
-                "url": "/contentassets/8cb3b59f53934f36bda617cda966874e/utvardering-av-makroekonomiska-prognoser-april-2018.pdf"
+                "name": "Teknisk bilaga till fördelningspolitisk redogörelse april 2018 (pdf 287 kB)",
+                "url": "/contentassets/5d93d97a6f74402fa5150573d5b614b7/teknisk-bilaga-till-fordelningspolitisk-redogorelse-april-2018.pdf"
             }
         ],
         "categories": [
@@ -4778,8 +4814,8 @@
         ]
     },
     {
-        "title": "Teknisk bilaga till fördelningspolitisk redogörelse april 2018",
-        "url": "/rapporter/2018/04/teknisk-bilaga-till-fordelningspolitisk-redogorelse-april-2018/",
+        "title": "Utvärdering av makroekonomiska prognoser april 2018",
+        "url": "/rapporter/2018/04/utvardering-av-makroekonomiska-prognoser-april-2018/",
         "published": "2018-04-16",
         "updated": null,
         "types": [
@@ -4792,31 +4828,8 @@
         "shortcuts": [],
         "attachments": [
             {
-                "name": "Teknisk bilaga till fördelningspolitisk redogörelse april 2018 (pdf 287 kB)",
-                "url": "/contentassets/5d93d97a6f74402fa5150573d5b614b7/teknisk-bilaga-till-fordelningspolitisk-redogorelse-april-2018.pdf"
-            }
-        ],
-        "categories": [
-            "2212"
-        ]
-    },
-    {
-        "title": "Teknisk bilaga till Bedömning av finanspolitikens långsiktiga hållbarhet april 2018",
-        "url": "/rapporter/2018/04/teknisk-bilaga-till-bedomning-av-finanspolitikens-langsiktiga-hallbarhet-april-2018/",
-        "published": "2018-04-16",
-        "updated": null,
-        "types": [
-            "1341"
-        ],
-        "senders": [
-            "1285"
-        ],
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Teknisk bilaga till Bedömning av finanspolitikens långsiktiga hållbarhet april 2018 (pdf 535 kB)",
-                "url": "/contentassets/64971ab87a554143bd0ba5114728f66c/teknisk-bilaga-till-bedomning-av-finanspolitikens-langsiktiga-hallbarhet-april-2018.pdf"
+                "name": "Utvärdering av makroekonomiska prognoser april 2018 (pdf 483 kB)",
+                "url": "/contentassets/8cb3b59f53934f36bda617cda966874e/utvardering-av-makroekonomiska-prognoser-april-2018.pdf"
             }
         ],
         "categories": [
@@ -4840,6 +4853,29 @@
             {
                 "name": "Metod för beräkning av potentiella variabler april 2018 (pdf 185 kB)",
                 "url": "/contentassets/4270e290ce5d4fe7b372153e10b5061f/metod-for-berakning-av-potentiella-variabler-april-2018.pdf"
+            }
+        ],
+        "categories": [
+            "2212"
+        ]
+    },
+    {
+        "title": "Teknisk bilaga till Bedömning av finanspolitikens långsiktiga hållbarhet april 2018",
+        "url": "/rapporter/2018/04/teknisk-bilaga-till-bedomning-av-finanspolitikens-langsiktiga-hallbarhet-april-2018/",
+        "published": "2018-04-16",
+        "updated": null,
+        "types": [
+            "1341"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Teknisk bilaga till Bedömning av finanspolitikens långsiktiga hållbarhet april 2018 (pdf 535 kB)",
+                "url": "/contentassets/64971ab87a554143bd0ba5114728f66c/teknisk-bilaga-till-bedomning-av-finanspolitikens-langsiktiga-hallbarhet-april-2018.pdf"
             }
         ],
         "categories": [
@@ -5134,7 +5170,7 @@
                 "url": "/rattsliga-dokument/skrivelse/2017/06/skr.-201617140"
             },
             {
-                "name": "Rapport på engelska: Annual report state-owned enterprises 2016",
+                "name": "Rapport på engelska: Annual report state-owned enterprises 2016- extern webbplats,",
                 "url": "https://www.government.se/reports/2017/09/annual-report-state-owned-enterprises-2016/"
             }
         ],
@@ -5163,7 +5199,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "Report to the UN High Level Political Forum 2017 on Sustainable Development",
+                "name": "Report to the UN High Level Political Forum 2017 on Sustainable Development- extern webbplats,",
                 "url": "https://www.government.se/reports/2017/06/sweden-and-the-2030-agenda--report-to-the-un-high-level-political-forum-2017-on-sustainable-development/"
             },
             {
@@ -5218,6 +5254,32 @@
         "categories": [
             "2293"
         ]
+    },
+    {
+        "title": "Svara på remiss – om remisser av betänkanden och andra förslag från Regeringskansliet",
+        "url": "/rapporter/2021/09/svara-pa-remiss/",
+        "published": "2009-05-01",
+        "updated": "2017-05-17",
+        "types": [
+            "1341"
+        ],
+        "senders": [
+            "1293"
+        ],
+        "id": "Diarienummer: PM 2021:1",
+        "shortcuts": [
+            {
+                "name": "Remisser",
+                "url": "/remisser/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Svara på remiss (PM2021_1) rev 2026 (pdf 295 kB)",
+                "url": "/contentassets/ee59c69b63014c19a08b0e8ca47334b2/svara-pa-remiss-pm2021_1-rev-2026.pdf"
+            }
+        ],
+        "categories": []
     },
     {
         "title": "Sveriges konvergensprogram 2017",
@@ -5399,7 +5461,7 @@
         "id": null,
         "shortcuts": [
             {
-                "name": "The state’s ownership policy and guidelines for state-owned enterprises 2017, på engelska webbplatsen",
+                "name": "The state’s ownership policy and guidelines for state-owned enterprises 2017, på engelska webbplatsen- extern webbplats,",
                 "url": "https://www.government.se/reports/2017/06/the-states-ownership-policy-and-guidelines-for-state-owned-enterprises-2017/"
             }
         ],
@@ -5774,7 +5836,7 @@
                 "url": "/rattsliga-dokument/skrivelse/2016/06/skr.-201516-140"
             },
             {
-                "name": "In English: Annual report state-owned enterprises 2015",
+                "name": "In English: Annual report state-owned enterprises 2015- extern webbplats,",
                 "url": "https://www.government.se/reports/2016/09/annual-report-state-owned-enterprises-2015/"
             }
         ],
@@ -6008,29 +6070,6 @@
         ]
     },
     {
-        "title": "Utvecklad bedömning av finanspolitikens långsiktiga hållbarhet april 2016",
-        "url": "/rapporter/2016/04/utvecklad-bedomning-av-finanspolitikens-langsiktiga-hallbarhet-april-2016/",
-        "published": "2016-04-13",
-        "updated": null,
-        "types": [
-            "1341"
-        ],
-        "senders": [
-            "1285"
-        ],
-        "id": null,
-        "shortcuts": [],
-        "attachments": [
-            {
-                "name": "Utvecklad bedömning av finanspolitikens långsiktiga hållbarhet april 2016 (pdf 688 kB)",
-                "url": "/contentassets/741a86d6dcac41ed98e5ccdb434452e2/utvecklad-bedomning-av-finanspolitikens-langsiktiga-hallbarhet-april-2016.pdf"
-            }
-        ],
-        "categories": [
-            "2212"
-        ]
-    },
-    {
         "title": "Utvärdering av makroekonomiska prognoser april 2016",
         "url": "/rapporter/2016/04/utvardering-av-makroekonomiska-prognoser-april-2016/",
         "published": "2016-04-13",
@@ -6047,6 +6086,29 @@
             {
                 "name": "Utvärdering av makroekonomiska prognoser april 2016  (pdf 340 kB)",
                 "url": "/contentassets/e2737abfb8004cb2a9d359a8b82a76ca/utvardering-av-makroekonomiska-prognoser-april-2016-.pdf"
+            }
+        ],
+        "categories": [
+            "2212"
+        ]
+    },
+    {
+        "title": "Utvecklad bedömning av finanspolitikens långsiktiga hållbarhet april 2016",
+        "url": "/rapporter/2016/04/utvecklad-bedomning-av-finanspolitikens-langsiktiga-hallbarhet-april-2016/",
+        "published": "2016-04-13",
+        "updated": null,
+        "types": [
+            "1341"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "id": null,
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Utvecklad bedömning av finanspolitikens långsiktiga hållbarhet april 2016 (pdf 688 kB)",
+                "url": "/contentassets/741a86d6dcac41ed98e5ccdb434452e2/utvecklad-bedomning-av-finanspolitikens-langsiktiga-hallbarhet-april-2016.pdf"
             }
         ],
         "categories": [
@@ -34448,11 +34510,11 @@
                 "url": "/rapporter/2004/01/raoul-wallenberg--redovisning-fran-den-ryska-sidan-av-arbetsgruppen/"
             },
             {
-                "name": "Raoul Wallenberg - Report of the Russian side of the working group (government.se)",
+                "name": "Raoul Wallenberg - Report of the Russian side of the working group (government.se)- extern webbplats,",
                 "url": "https://www.government.se/reports/2004/01/raoul-wallenberg---report-of-the-russian-side-of-the-working-group/"
             },
             {
-                "name": "Raoul Wallenberg – report of the Swedish-Russian Working Group (government.se)",
+                "name": "Raoul Wallenberg – report of the Swedish-Russian Working Group (government.se)- extern webbplats,",
                 "url": "https://www.government.se/reports/2004/01/raoul-wallenberg--report-of-the-swedish-russian-working-group/"
             }
         ],
@@ -34483,11 +34545,11 @@
                 "url": "/rapporter/2004/01/raoul-wallenberg--redovisning-fran-den-svensk-ryska-arbetsgruppen/"
             },
             {
-                "name": "Raoul Wallenberg – report of the Swedish-Russian Working Group (government.se)",
+                "name": "Raoul Wallenberg – report of the Swedish-Russian Working Group (government.se)- extern webbplats,",
                 "url": "https://www.government.se/reports/2004/01/raoul-wallenberg--report-of-the-swedish-russian-working-group/"
             },
             {
-                "name": "Raoul Wallenberg - Report of the Russian side of the working group (government.se)",
+                "name": "Raoul Wallenberg - Report of the Russian side of the working group (government.se)- extern webbplats,",
                 "url": "https://www.government.se/reports/2004/01/raoul-wallenberg---report-of-the-russian-side-of-the-working-group/"
             }
         ],

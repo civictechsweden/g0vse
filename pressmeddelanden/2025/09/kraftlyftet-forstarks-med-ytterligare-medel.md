@@ -9,8 +9,8 @@ Utökningen av Kraftlyftet inkluderar även informations- och kompetenshöjande 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Nya medel till Kraftlyftet** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
+| ------------------------------ | -------- | -------- | ---------- |
+|                                | **2026** | **2027** | **2028**   |
 | **Nya medel till Kraftlyftet** | 250 mnkr | 750 mnkr | 1 000 mnkr |
 
 
@@ -24,6 +24,6 @@ Utökningen av Kraftlyftet inkluderar även informations- och kompetenshöjande 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Nya medel till Kraftlyftet** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
+| ------------------------------ | -------- | -------- | ---------- |
+|                                | **2026** | **2027** | **2028**   |
 | **Nya medel till Kraftlyftet** | 250 mnkr | 750 mnkr | 1 000 mnkr |

@@ -6,7 +6,7 @@ Ministern för civilt försvar kommer på torsdag förmiddag att göra ett besö
 
 Ministern kommer även att besöka Jokkmokks vintermarknad, som är Sveriges största vintermarknad med över 53 000 besökare. Marknaden pågår den 5–7 februari.
 
-I samband med besöket hos Räddningstjänsten Gällivare och på Jokkmokks vintermarkad finns möjlighet till intervjuer. Se presskontakt nedan.
+I samband med besöket hos Räddningstjänsten Gällivare och på Jokkmokks vintermarknad finns möjlighet till intervjuer. Se presskontakt nedan.
 
 Ministern för civilt försvar kommer på torsdag förmiddag att göra ett besök i Gällivare för att möta företrädare för räddningstjänst och kommun och diskutera de särskilda förutsättningar som de verkar under.
 
@@ -14,4 +14,4 @@ Ministern för civilt försvar kommer på torsdag förmiddag att göra ett besö
 
 Ministern kommer även att besöka Jokkmokks vintermarknad, som är Sveriges största vintermarknad med över 53 000 besökare. Marknaden pågår den 5–7 februari.
 
-I samband med besöket hos Räddningstjänsten Gällivare och på Jokkmokks vintermarkad finns möjlighet till intervjuer. Se presskontakt nedan.
+I samband med besöket hos Räddningstjänsten Gällivare och på Jokkmokks vintermarknad finns möjlighet till intervjuer. Se presskontakt nedan.

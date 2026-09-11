@@ -19,9 +19,9 @@ De övre bostadskostnadsgränserna föreslås därmed vara 6 800 kronor för fam
 Höjningen föreslås träda i kraft den 1 januari 2026. Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | Höjt bostadsbidrag för barnfamiljer med höga boendekostnader | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Höjda övre bostadskostnadsgränser** | 655 miljoner | 602 miljoner | 566 miljoner |
+| ------------------------------------------------------------ | ------------ | ------------ | ------------ |
+|                                                              | **2026**     | **2027**     | **2028**     |
+| **Höjda övre bostadskostnadsgränser**                        | 655 miljoner | 602 miljoner | 566 miljoner |
 
 
 
@@ -44,6 +44,6 @@ De övre bostadskostnadsgränserna föreslås därmed vara 6 800 kronor för fam
 Höjningen föreslås träda i kraft den 1 januari 2026. Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | Höjt bostadsbidrag för barnfamiljer med höga boendekostnader | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Höjda övre bostadskostnadsgränser** | 655 miljoner | 602 miljoner | 566 miljoner |
+| ------------------------------------------------------------ | ------------ | ------------ | ------------ |
+|                                                              | **2026**     | **2027**     | **2028**     |
+| **Höjda övre bostadskostnadsgränser**                        | 655 miljoner | 602 miljoner | 566 miljoner |

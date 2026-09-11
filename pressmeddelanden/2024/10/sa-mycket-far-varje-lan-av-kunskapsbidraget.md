@@ -8,28 +8,28 @@ Syftet med bidraget är att skolorna utifrån vetenskap och beprövad erfarenhet
 
 Så här mycket kan de kommunala skolorna i respektive län ansöka om:
 
-| Blekinge län | 100 554 627 kr |
-| --- | --- |
-| Dalarnas län | 218 251 547 kr |
-| Gotlands län | 35 926 738 kr |
-| Gävleborgs län | 203 238 353 kr |
-| Hallands län | 212 579 944 kr |
-| Jämtlands län | 87 769 740 kr |
-| Jönköpings län | 273 073 242 kr |
-| Kalmar län | 171 649 094 kr |
-| Kronobergs län | 155 308 625 kr |
-| Norrbottens län | 146 083 113 kr |
-| Skåne län | 960 705 321 kr |
-| Stockholms län | 1 184 756 401 kr |
-| Södermanlands län | 237 596 837 kr |
-| Uppsala län | 240 946 589 kr |
-| Värmlands län | 195 883 822 kr |
-| Västerbottens län | 159 720 500 kr |
-| Västernorrlands län | 159 098 546 kr |
-| Västmanlands län | 210 199 819 kr |
+| Blekinge län         | 100 554 627 kr   |
+| -------------------- | ---------------- |
+| Dalarnas län         | 218 251 547 kr   |
+| Gotlands län         | 35 926 738 kr    |
+| Gävleborgs län       | 203 238 353 kr   |
+| Hallands län         | 212 579 944 kr   |
+| Jämtlands län        | 87 769 740 kr    |
+| Jönköpings län       | 273 073 242 kr   |
+| Kalmar län           | 171 649 094 kr   |
+| Kronobergs län       | 155 308 625 kr   |
+| Norrbottens län      | 146 083 113 kr   |
+| Skåne län            | 960 705 321 kr   |
+| Stockholms län       | 1 184 756 401 kr |
+| Södermanlands län    | 237 596 837 kr   |
+| Uppsala län          | 240 946 589 kr   |
+| Värmlands län        | 195 883 822 kr   |
+| Västerbottens län    | 159 720 500 kr   |
+| Västernorrlands län  | 159 098 546 kr   |
+| Västmanlands län     | 210 199 819 kr   |
 | Västra Götalands län | 1 097 805 238 kr |
-| Örebro län | 236 526 063 kr |
-| Östergötlands län | 306 542 586 kr |
+| Örebro län           | 236 526 063 kr   |
+| Östergötlands län    | 306 542 586 kr   |
 
 Källa: Skolverket.
 
@@ -45,28 +45,28 @@ Syftet med bidraget är att skolorna utifrån vetenskap och beprövad erfarenhet
 
 Så här mycket kan de kommunala skolorna i respektive län ansöka om:
 
-| Blekinge län | 100 554 627 kr |
-| --- | --- |
-| Dalarnas län | 218 251 547 kr |
-| Gotlands län | 35 926 738 kr |
-| Gävleborgs län | 203 238 353 kr |
-| Hallands län | 212 579 944 kr |
-| Jämtlands län | 87 769 740 kr |
-| Jönköpings län | 273 073 242 kr |
-| Kalmar län | 171 649 094 kr |
-| Kronobergs län | 155 308 625 kr |
-| Norrbottens län | 146 083 113 kr |
-| Skåne län | 960 705 321 kr |
-| Stockholms län | 1 184 756 401 kr |
-| Södermanlands län | 237 596 837 kr |
-| Uppsala län | 240 946 589 kr |
-| Värmlands län | 195 883 822 kr |
-| Västerbottens län | 159 720 500 kr |
-| Västernorrlands län | 159 098 546 kr |
-| Västmanlands län | 210 199 819 kr |
+| Blekinge län         | 100 554 627 kr   |
+| -------------------- | ---------------- |
+| Dalarnas län         | 218 251 547 kr   |
+| Gotlands län         | 35 926 738 kr    |
+| Gävleborgs län       | 203 238 353 kr   |
+| Hallands län         | 212 579 944 kr   |
+| Jämtlands län        | 87 769 740 kr    |
+| Jönköpings län       | 273 073 242 kr   |
+| Kalmar län           | 171 649 094 kr   |
+| Kronobergs län       | 155 308 625 kr   |
+| Norrbottens län      | 146 083 113 kr   |
+| Skåne län            | 960 705 321 kr   |
+| Stockholms län       | 1 184 756 401 kr |
+| Södermanlands län    | 237 596 837 kr   |
+| Uppsala län          | 240 946 589 kr   |
+| Värmlands län        | 195 883 822 kr   |
+| Västerbottens län    | 159 720 500 kr   |
+| Västernorrlands län  | 159 098 546 kr   |
+| Västmanlands län     | 210 199 819 kr   |
 | Västra Götalands län | 1 097 805 238 kr |
-| Örebro län | 236 526 063 kr |
-| Östergötlands län | 306 542 586 kr |
+| Örebro län           | 236 526 063 kr   |
+| Östergötlands län    | 306 542 586 kr   |
 
 Källa: Skolverket.
 

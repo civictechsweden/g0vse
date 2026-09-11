@@ -34,30 +34,30 @@ Regeringen kommer inom kort att återkomma med besked om vilka vårdåtgärder s
 
 Av de 507 miljoner kronor som regionerna kunde kvalificera sig för den andra delen av satsningen, som omfattar perioden juni-oktober 2025, uppnåddes 243 miljoner kronor (48%) nationellt. I tabellen nedan visas hur stor andel av det potentiella maxbeloppet som respektive region lyckats uppnå.
 
-| **Region** | **Andel av potentiellt maxbelopp** |
-| --- | --- |
-| Blekinge | 84 % |
-| Dalarna | 76 % |
-| Gotland | 100 % |
-| Gävleborg | 85 % |
-| Halland | 36 % |
-| Jämtland | 100 % |
-| Jönköping | 22 % |
-| Kalmar | 72 % |
-| Kronoberg | 52 % |
-| Norrbotten | 66 % |
-| Skåne | 80 % |
-| Stockholm | 10 % |
-| Södermanland | 95 % |
-| Uppsala | 56 % |
-| Värmland | 100 % |
-| Västerbotten | 63 % |
-| Västernorrland | 68 % |
-| Västmanland | 45 % |
-| Västra Götaland | 21 % |
-| Örebro | 66 % |
-| Östergötland | 51 % |
-| **Riket** | **48 %** |
+| **Region**      | **Andel av potentiellt maxbelopp** |
+| --------------- | ---------------------------------- |
+| Blekinge        | 84 %                               |
+| Dalarna         | 76 %                               |
+| Gotland         | 100 %                              |
+| Gävleborg       | 85 %                               |
+| Halland         | 36 %                               |
+| Jämtland        | 100 %                              |
+| Jönköping       | 22 %                               |
+| Kalmar          | 72 %                               |
+| Kronoberg       | 52 %                               |
+| Norrbotten      | 66 %                               |
+| Skåne           | 80 %                               |
+| Stockholm       | 10 %                               |
+| Södermanland    | 95 %                               |
+| Uppsala         | 56 %                               |
+| Värmland        | 100 %                              |
+| Västerbotten    | 63 %                               |
+| Västernorrland  | 68 %                               |
+| Västmanland     | 45 %                               |
+| Västra Götaland | 21 %                               |
+| Örebro          | 66 %                               |
+| Östergötland    | 51 %                               |
+| **Riket**       | **48 %**                           |
 
 
 
@@ -95,27 +95,27 @@ Regeringen kommer inom kort att återkomma med besked om vilka vårdåtgärder s
 
 Av de 507 miljoner kronor som regionerna kunde kvalificera sig för den andra delen av satsningen, som omfattar perioden juni-oktober 2025, uppnåddes 243 miljoner kronor (48%) nationellt. I tabellen nedan visas hur stor andel av det potentiella maxbeloppet som respektive region lyckats uppnå.
 
-| **Region** | **Andel av potentiellt maxbelopp** |
-| --- | --- |
-| Blekinge | 84 % |
-| Dalarna | 76 % |
-| Gotland | 100 % |
-| Gävleborg | 85 % |
-| Halland | 36 % |
-| Jämtland | 100 % |
-| Jönköping | 22 % |
-| Kalmar | 72 % |
-| Kronoberg | 52 % |
-| Norrbotten | 66 % |
-| Skåne | 80 % |
-| Stockholm | 10 % |
-| Södermanland | 95 % |
-| Uppsala | 56 % |
-| Värmland | 100 % |
-| Västerbotten | 63 % |
-| Västernorrland | 68 % |
-| Västmanland | 45 % |
-| Västra Götaland | 21 % |
-| Örebro | 66 % |
-| Östergötland | 51 % |
-| **Riket** | **48 %** |
+| **Region**      | **Andel av potentiellt maxbelopp** |
+| --------------- | ---------------------------------- |
+| Blekinge        | 84 %                               |
+| Dalarna         | 76 %                               |
+| Gotland         | 100 %                              |
+| Gävleborg       | 85 %                               |
+| Halland         | 36 %                               |
+| Jämtland        | 100 %                              |
+| Jönköping       | 22 %                               |
+| Kalmar          | 72 %                               |
+| Kronoberg       | 52 %                               |
+| Norrbotten      | 66 %                               |
+| Skåne           | 80 %                               |
+| Stockholm       | 10 %                               |
+| Södermanland    | 95 %                               |
+| Uppsala         | 56 %                               |
+| Värmland        | 100 %                              |
+| Västerbotten    | 63 %                               |
+| Västernorrland  | 68 %                               |
+| Västmanland     | 45 %                               |
+| Västra Götaland | 21 %                               |
+| Örebro          | 66 %                               |
+| Östergötland    | 51 %                               |
+| **Riket**       | **48 %**                           |

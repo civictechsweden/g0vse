@@ -4,7 +4,7 @@ Bryta tystnadskulturer, samarbeta och luta sig mot lagstiftningen var några av 
 
 Mötet som ägde rum den 11 december är en del i en mötesserie som har fokus på regeringens arbete med att ta krafttag mot mäns våld mot kvinnor, våld i nära relationer och hersrelaterat våld och förtryck. Regeringen har intensifierat arbetet mot hedersrelaterat våld och förtryck - lagstiftningen mot hedersrelaterat förtryck ska skärpas, stödet till utsatta förbättras och myndigheternas arbete effektiviseras.
 
-- Alla deltagare på mötet har värdefulla perspektiv och viktig kunskap som på bästa sätt bidrar i det fortsatta arbetet både på lång och kort sikt. Hedersrelaterat våld och förtryck är ett område med omfattande problematik som måste bekämpas med samhällets fulla kraft. Det är också ett område som är prioriterat för oss i regeringen, säger Paulina Brandberg, jämställdhets- och arbetslivsminister.
+– Alla deltagare på mötet har värdefulla perspektiv och viktig kunskap som på bästa sätt bidrar i det fortsatta arbetet både på lång och kort sikt. Hedersrelaterat våld och förtryck är ett område med omfattande problematik som måste bekämpas med samhällets fulla kraft. Det är också ett område som är prioriterat för oss i regeringen, säger Paulina Brandberg, jämställdhets- och arbetslivsminister.
 
 På mötet deltog, tillsammans med jämställdhets- och arbetslivsminister Paulina Brandberg, David Lindberg, statssekreterare åt skolminister Lotta Edholm, Mikael Kullberg, statssekreterare åt justitieminister Gunnar Strömmer och Minna Ljunggren statssekreterare åt socialtjänstminister Camilla Waltersson Grönvall. Socialtjänstministern deltog också under mötets senare del.
 

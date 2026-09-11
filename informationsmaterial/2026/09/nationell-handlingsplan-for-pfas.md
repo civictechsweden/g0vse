@@ -1,0 +1,3 @@
+# Nationell handlingsplan för PFAS
+
+Regeringen har fattat beslut om en nationell handlingsplan för att minska spridningen av PFAS. Evighetskemikalierna PFAS kan vara giftiga, lätt rörliga i miljön och de bryts inte ned naturligt. Det är därför viktigt att stoppa tillförseln av mer PFAS till miljön. Som en del av planen vill regeringen införa ett nationellt förbud mot PFAS-ämnen i vissa konsumentprodukter, så som kläder, skor och kosmetiska produkter. Förslaget om förbud kommer nu att remitteras. Dessutom växlar regeringen upp myndigheternas arbete genom ett antal regeringsuppdrag. Planen kommer att utvecklas efterhand och en översyn av handlingsplanen ska ske senast den 1 oktober 2029.

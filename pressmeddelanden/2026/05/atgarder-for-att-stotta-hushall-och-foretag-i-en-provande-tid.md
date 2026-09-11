@@ -45,13 +45,13 @@ Dessutom föreslår regeringen ett riktat stöd till regionerna för ökade kost
 
 [Pressmeddelande: Regeringen föreslår viktiga insatser för luftfarten i extra ändringsbudget](/pressmeddelanden/2026/05/regeringen-foreslar-viktiga-insatser-for-luftfarten-i-extra-andringsbudget/)
 
-| **Förslag i extra ändringsbudget (miljarder kronor)** | |
-| --- | --- |
-| Ytterligare tillfälligt sänkt skatt på drivmedel och ytterligare medel till elstöd | 8,7 |
-| Halverad kostnad för pendlare | 6,5 |
-| Stöd till jordbruk och fiske | 1,6 |
-| Stöd till luftfarten | 0,52 |
-| **Totalt** | **17,3** |
+| **Förslag i extra ändringsbudget (miljarder kronor)**                              | |
+| ---------------------------------------------------------------------------------- | -------- |
+| Ytterligare tillfälligt sänkt skatt på drivmedel och ytterligare medel till elstöd | 8,7      |
+| Halverad kostnad för pendlare                                                      | 6,5      |
+| Stöd till jordbruk och fiske                                                       | 1,6      |
+| Stöd till luftfarten                                                               | 0,52     |
+| **Totalt**                                                                         | **17,3** |
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
@@ -100,12 +100,12 @@ Dessutom föreslår regeringen ett riktat stöd till regionerna för ökade kost
 
 [Pressmeddelande: Regeringen föreslår viktiga insatser för luftfarten i extra ändringsbudget](/pressmeddelanden/2026/05/regeringen-foreslar-viktiga-insatser-for-luftfarten-i-extra-andringsbudget/)
 
-| **Förslag i extra ändringsbudget (miljarder kronor)** | |
-| --- | --- |
-| Ytterligare tillfälligt sänkt skatt på drivmedel och ytterligare medel till elstöd | 8,7 |
-| Halverad kostnad för pendlare | 6,5 |
-| Stöd till jordbruk och fiske | 1,6 |
-| Stöd till luftfarten | 0,52 |
-| **Totalt** | **17,3** |
+| **Förslag i extra ändringsbudget (miljarder kronor)**                              | |
+| ---------------------------------------------------------------------------------- | -------- |
+| Ytterligare tillfälligt sänkt skatt på drivmedel och ytterligare medel till elstöd | 8,7      |
+| Halverad kostnad för pendlare                                                      | 6,5      |
+| Stöd till jordbruk och fiske                                                       | 1,6      |
+| Stöd till luftfarten                                                               | 0,52     |
+| **Totalt**                                                                         | **17,3** |
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

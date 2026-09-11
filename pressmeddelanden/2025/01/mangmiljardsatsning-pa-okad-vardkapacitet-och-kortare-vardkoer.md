@@ -34,30 +34,30 @@ I dag är det främst Sveriges Kommuner och Regioner (SKR) som samlar in väntet
 
 Socialstyrelsen ska senast den 31 mars 2025 lämna en slutredovisning av uppdraget.
 
-| **Region** | **Totalt (kronor)** |
-| --- | --- |
-| Region Stockholm | 984 031 803 |
-| Region Uppsala | 245 813 551 |
-| Region Sörmland | 207 911 498 |
-| Region Östergötland | 269 069 800 |
-| Region Jönköpings län | 232 279 684 |
-| Region Kronoberg | 172 762 284 |
-| Region Kalmar län | 188 128 040 |
-| Region Gotland | 121 816 704 |
-| Region Blekinge | 156 281 732 |
-| Region Skåne | 610 905 363 |
-| Region Halland | 223 364 878 |
-| Västra Götalandsregionen | 734 120 385 |
-| Region Värmland | 201 390 092 |
-| Region Örebro län | 210 325 642 |
-| Region Västmanland | 200 616 493 |
-| Region Dalarna | 202 419 769 |
-| Region Gävleborg | 201 805 682 |
-| Region Västernorrland | 186 412 388 |
-| Region Jämtland Härjedalen | 147 463 134 |
-| Region Västerbotten | 200 675 148 |
-| Region Norrbotten | 188 905 930 |
-| **Summa** | **5 886 500 000** |
+| **Region**                 | **Totalt (kronor)** |
+| -------------------------- | ------------------- |
+| Region Stockholm           | 984 031 803         |
+| Region Uppsala             | 245 813 551         |
+| Region Sörmland            | 207 911 498         |
+| Region Östergötland        | 269 069 800         |
+| Region Jönköpings län      | 232 279 684         |
+| Region Kronoberg           | 172 762 284         |
+| Region Kalmar län          | 188 128 040         |
+| Region Gotland             | 121 816 704         |
+| Region Blekinge            | 156 281 732         |
+| Region Skåne               | 610 905 363         |
+| Region Halland             | 223 364 878         |
+| Västra Götalandsregionen   | 734 120 385         |
+| Region Värmland            | 201 390 092         |
+| Region Örebro län          | 210 325 642         |
+| Region Västmanland         | 200 616 493         |
+| Region Dalarna             | 202 419 769         |
+| Region Gävleborg           | 201 805 682         |
+| Region Västernorrland      | 186 412 388         |
+| Region Jämtland Härjedalen | 147 463 134         |
+| Region Västerbotten        | 200 675 148         |
+| Region Norrbotten          | 188 905 930         |
+| **Summa**                  | **5 886 500 000**   |
 
 – Att korta vårdköerna och öka vårdkapaciteten handlar ytterst om att varje patient får vård efter behov i rätt tid. Detta är en av regeringens prioriterade frågor inom hälso- och sjukvårdsområdet och som vi arbetat med sedan start. Nu går arbetet in i en högre växel, säger sjukvårdsminister Acko Ankarberg Johansson.
 
@@ -93,27 +93,27 @@ I dag är det främst Sveriges Kommuner och Regioner (SKR) som samlar in väntet
 
 Socialstyrelsen ska senast den 31 mars 2025 lämna en slutredovisning av uppdraget.
 
-| **Region** | **Totalt (kronor)** |
-| --- | --- |
-| Region Stockholm | 984 031 803 |
-| Region Uppsala | 245 813 551 |
-| Region Sörmland | 207 911 498 |
-| Region Östergötland | 269 069 800 |
-| Region Jönköpings län | 232 279 684 |
-| Region Kronoberg | 172 762 284 |
-| Region Kalmar län | 188 128 040 |
-| Region Gotland | 121 816 704 |
-| Region Blekinge | 156 281 732 |
-| Region Skåne | 610 905 363 |
-| Region Halland | 223 364 878 |
-| Västra Götalandsregionen | 734 120 385 |
-| Region Värmland | 201 390 092 |
-| Region Örebro län | 210 325 642 |
-| Region Västmanland | 200 616 493 |
-| Region Dalarna | 202 419 769 |
-| Region Gävleborg | 201 805 682 |
-| Region Västernorrland | 186 412 388 |
-| Region Jämtland Härjedalen | 147 463 134 |
-| Region Västerbotten | 200 675 148 |
-| Region Norrbotten | 188 905 930 |
-| **Summa** | **5 886 500 000** |
+| **Region**                 | **Totalt (kronor)** |
+| -------------------------- | ------------------- |
+| Region Stockholm           | 984 031 803         |
+| Region Uppsala             | 245 813 551         |
+| Region Sörmland            | 207 911 498         |
+| Region Östergötland        | 269 069 800         |
+| Region Jönköpings län      | 232 279 684         |
+| Region Kronoberg           | 172 762 284         |
+| Region Kalmar län          | 188 128 040         |
+| Region Gotland             | 121 816 704         |
+| Region Blekinge            | 156 281 732         |
+| Region Skåne               | 610 905 363         |
+| Region Halland             | 223 364 878         |
+| Västra Götalandsregionen   | 734 120 385         |
+| Region Värmland            | 201 390 092         |
+| Region Örebro län          | 210 325 642         |
+| Region Västmanland         | 200 616 493         |
+| Region Dalarna             | 202 419 769         |
+| Region Gävleborg           | 201 805 682         |
+| Region Västernorrland      | 186 412 388         |
+| Region Jämtland Härjedalen | 147 463 134         |
+| Region Västerbotten        | 200 675 148         |
+| Region Norrbotten          | 188 905 930         |
+| **Summa**                  | **5 886 500 000**   |

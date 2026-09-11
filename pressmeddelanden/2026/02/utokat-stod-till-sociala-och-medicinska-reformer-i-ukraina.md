@@ -4,7 +4,7 @@
 
 – Ryssland fortsätter sina attacker mot civil infrastruktur, vilket drabbar civilbefolkningen hårt. De som redan befinner sig i utsatta situationer påverkas mest, så som barn, personer med funktionsnedsättning och äldre. Genom att utbyta erfarenheter och stärka kapaciteten och kompetensen, inom bland annat socialtjänsten, sänder vi en tydlig signal: Sverige står vid det ukrainska folkets sida, så länge som det krävs, säger socialtjänstminister Camilla Waltersson Grönvall.
 
-– Jag är stolt över att Sveriges kunskaper och erfarenheter kan inspirera Ukrainas äldreomsorg. Vi tar också med oss oerhört viktiga lärdomar från Ukraina om hur vi ska rusta svensk äldreomsorg för krig och kris, äldreomsorg och hälso- och sjukvård för kris och krig, säger äldre- och socialförsäkringsminister Anna Tenje.
+– Jag är stolt över att Sveriges kunskaper och erfarenheter kan inspirera Ukrainas äldreomsorg. Vi tar också med oss oerhört viktiga lärdomar från Ukraina om hur vi ska rusta svensk äldreomsorg för krig och kris, säger äldre- och socialförsäkringsminister Anna Tenje.
 
 – Sverige står fast vid vårt långsiktiga stöd till Ukraina. Genom detta program stärker vi den ukrainska välfärden, skyddet för de som befinner sig i de mest utsatta situationerna och landets väg mot EU, säger Fredrik Malm, utrikespolitisk talesperson för Liberalerna.
 
@@ -29,7 +29,7 @@ Inom ramen för programmet kommer arbete att ske inom flera områden:
 
 – Ryssland fortsätter sina attacker mot civil infrastruktur, vilket drabbar civilbefolkningen hårt. De som redan befinner sig i utsatta situationer påverkas mest, så som barn, personer med funktionsnedsättning och äldre. Genom att utbyta erfarenheter och stärka kapaciteten och kompetensen, inom bland annat socialtjänsten, sänder vi en tydlig signal: Sverige står vid det ukrainska folkets sida, så länge som det krävs, säger socialtjänstminister Camilla Waltersson Grönvall.
 
-– Jag är stolt över att Sveriges kunskaper och erfarenheter kan inspirera Ukrainas äldreomsorg. Vi tar också med oss oerhört viktiga lärdomar från Ukraina om hur vi ska rusta svensk äldreomsorg för krig och kris, äldreomsorg och hälso- och sjukvård för kris och krig, säger äldre- och socialförsäkringsminister Anna Tenje.
+– Jag är stolt över att Sveriges kunskaper och erfarenheter kan inspirera Ukrainas äldreomsorg. Vi tar också med oss oerhört viktiga lärdomar från Ukraina om hur vi ska rusta svensk äldreomsorg för krig och kris, säger äldre- och socialförsäkringsminister Anna Tenje.
 
 – Sverige står fast vid vårt långsiktiga stöd till Ukraina. Genom detta program stärker vi den ukrainska välfärden, skyddet för de som befinner sig i de mest utsatta situationerna och landets väg mot EU, säger Fredrik Malm, utrikespolitisk talesperson för Liberalerna.
 

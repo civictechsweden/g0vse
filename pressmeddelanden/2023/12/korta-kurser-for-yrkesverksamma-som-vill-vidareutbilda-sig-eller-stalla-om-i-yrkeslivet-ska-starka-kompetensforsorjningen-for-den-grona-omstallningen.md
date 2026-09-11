@@ -8,18 +8,18 @@ Regeringen har i regleringsbreven för 2024 beslutat att medlen ska fördelas ti
 
 ## Fördelning av medel för korta kurser 2024
 
-| **Lärosäte** | **Miljoner kronor** |
-| --- | --- |
-| Uppsala universitet | 4,5 |
-| Lunds universitet | 4 |
-| Umeå universitet | 2,5 |
-| Linköpings universitet | 3 |
-| Kungl. Tekniska högskolan | 4 |
-| Luleå tekniska universitet | 3 |
-| Mälardalens universitet | 2,5 |
-| Sveriges lantbruksuniversitet | 2,5 |
-| Chalmers Tekniska Högskola AB | 4 |
-| **Totalt** | **30** |
+| **Lärosäte**                  | **Miljoner kronor** |
+| ----------------------------- | ------------------- |
+| Uppsala universitet           | 4,5                 |
+| Lunds universitet             | 4                   |
+| Umeå universitet              | 2,5                 |
+| Linköpings universitet        | 3                   |
+| Kungl. Tekniska högskolan     | 4                   |
+| Luleå tekniska universitet    | 3                   |
+| Mälardalens universitet       | 2,5                 |
+| Sveriges lantbruksuniversitet | 2,5                 |
+| Chalmers Tekniska Högskola AB | 4                   |
+| **Totalt**                    | **30**              |
 
 Uppsala universitet får utöver det 750 000 kronor för att samordna arbetet med att utveckla utbildningsutbudet. Universitetet har tidigare samordnat uppdraget om öppen nätbaserad utbildning för att stödja klimatomställningen (”Öppet för klimatet”) och bedöms därför ha en upparbetad organisation för detta. Uppsala universitet får också i uppdrag att samordna ett förslag till fördelning inför den satsning som beräknats för 2025. Det möjliggör för fler lärosäten att under kommande år delta i satsningen.
 
@@ -31,17 +31,17 @@ Regeringen har i regleringsbreven för 2024 beslutat att medlen ska fördelas ti
 
 ## Fördelning av medel för korta kurser 2024
 
-| **Lärosäte** | **Miljoner kronor** |
-| --- | --- |
-| Uppsala universitet | 4,5 |
-| Lunds universitet | 4 |
-| Umeå universitet | 2,5 |
-| Linköpings universitet | 3 |
-| Kungl. Tekniska högskolan | 4 |
-| Luleå tekniska universitet | 3 |
-| Mälardalens universitet | 2,5 |
-| Sveriges lantbruksuniversitet | 2,5 |
-| Chalmers Tekniska Högskola AB | 4 |
-| **Totalt** | **30** |
+| **Lärosäte**                  | **Miljoner kronor** |
+| ----------------------------- | ------------------- |
+| Uppsala universitet           | 4,5                 |
+| Lunds universitet             | 4                   |
+| Umeå universitet              | 2,5                 |
+| Linköpings universitet        | 3                   |
+| Kungl. Tekniska högskolan     | 4                   |
+| Luleå tekniska universitet    | 3                   |
+| Mälardalens universitet       | 2,5                 |
+| Sveriges lantbruksuniversitet | 2,5                 |
+| Chalmers Tekniska Högskola AB | 4                   |
+| **Totalt**                    | **30**              |
 
 Uppsala universitet får utöver det 750 000 kronor för att samordna arbetet med att utveckla utbildningsutbudet. Universitetet har tidigare samordnat uppdraget om öppen nätbaserad utbildning för att stödja klimatomställningen (”Öppet för klimatet”) och bedöms därför ha en upparbetad organisation för detta. Uppsala universitet får också i uppdrag att samordna ett förslag till fördelning inför den satsning som beräknats för 2025. Det möjliggör för fler lärosäten att under kommande år delta i satsningen.

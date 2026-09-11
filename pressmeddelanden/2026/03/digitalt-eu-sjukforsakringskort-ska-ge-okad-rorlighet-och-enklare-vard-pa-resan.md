@@ -1,4 +1,4 @@
-# Digitalt EU sjukförsäkringskort ska ge ökad rörlighet och enklare vård på resan
+# Digitalt EU-sjukförsäkringskort ska ge ökad rörlighet och enklare vård på resan
 
 Regeringen har beslutat att Försäkringskassan och E‑hälsomyndigheten gemensamt ska undersöka hur Sverige kan införa ett digitalt europeiskt sjukförsäkringskort. Det så kallade EU‑kortet, eller ”blå kortet”, visar att en person har rätt till nödvändig vård vid semester eller annan tillfällig vistelse i ett annat EU‑land, på samma villkor som invånarna i det landet.
 

@@ -29,17 +29,17 @@ Det första steget blir att skapa den nya myndigheten som ska hantera den reform
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Effektiva tillståndsprocesser för ny kärnkraft och miljöprövning (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| Genomförande av kärnkraftsprövningsutredningen | 112 | 171 | 221 |
-| Fortsatt stöd till kommuner – Naturvårdsverket | 20 | 20 | 20 |
-| Strategisk miljöbedömning – Naturvårdsverket | 10 | 10 | 10 |
-| Stöd till samråd och enhetlig vägledning – Naturvårdsverket | 5 | 5 | 3 |
-| Stöd till länsstyrelserna för effektiva tillståndsprocesser | 10 | 15 | 15 |
-| Medel till domstolarna för miljömål kopplade till kärnkraft | 4 | 8 | 10 |
-| Ny myndighet för miljöprövning |  | 125 | 235 |
-| Neddragning – Länsstyrelsen |  | -85,5 | -181 |
-| Totalt | 161 | 268,5 | 333 |
+| --------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                             | **2026** | **2027** | **2028** |
+| Genomförande av kärnkraftsprövningsutredningen                              | 112      | 171      | 221      |
+| Fortsatt stöd till kommuner – Naturvårdsverket                              | 20       | 20       | 20       |
+| Strategisk miljöbedömning – Naturvårdsverket                                | 10       | 10       | 10       |
+| Stöd till samråd och enhetlig vägledning – Naturvårdsverket                 | 5        | 5        | 3        |
+| Stöd till länsstyrelserna för effektiva tillståndsprocesser                 | 10       | 15       | 15       |
+| Medel till domstolarna för miljömål kopplade till kärnkraft                 | 4        | 8        | 10       |
+| Ny myndighet för miljöprövning                                              |          | 125      | 235      |
+| Neddragning – Länsstyrelsen                                                 |          | -85,5    | -181     |
+| Totalt                                                                      | 161      | 268,5    | 333      |
 
 
 
@@ -72,14 +72,14 @@ Det första steget blir att skapa den nya myndigheten som ska hantera den reform
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Effektiva tillståndsprocesser för ny kärnkraft och miljöprövning (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| Genomförande av kärnkraftsprövningsutredningen | 112 | 171 | 221 |
-| Fortsatt stöd till kommuner – Naturvårdsverket | 20 | 20 | 20 |
-| Strategisk miljöbedömning – Naturvårdsverket | 10 | 10 | 10 |
-| Stöd till samråd och enhetlig vägledning – Naturvårdsverket | 5 | 5 | 3 |
-| Stöd till länsstyrelserna för effektiva tillståndsprocesser | 10 | 15 | 15 |
-| Medel till domstolarna för miljömål kopplade till kärnkraft | 4 | 8 | 10 |
-| Ny myndighet för miljöprövning |  | 125 | 235 |
-| Neddragning – Länsstyrelsen |  | -85,5 | -181 |
-| Totalt | 161 | 268,5 | 333 |
+| --------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                             | **2026** | **2027** | **2028** |
+| Genomförande av kärnkraftsprövningsutredningen                              | 112      | 171      | 221      |
+| Fortsatt stöd till kommuner – Naturvårdsverket                              | 20       | 20       | 20       |
+| Strategisk miljöbedömning – Naturvårdsverket                                | 10       | 10       | 10       |
+| Stöd till samråd och enhetlig vägledning – Naturvårdsverket                 | 5        | 5        | 3        |
+| Stöd till länsstyrelserna för effektiva tillståndsprocesser                 | 10       | 15       | 15       |
+| Medel till domstolarna för miljömål kopplade till kärnkraft                 | 4        | 8        | 10       |
+| Ny myndighet för miljöprövning                                              |          | 125      | 235      |
+| Neddragning – Länsstyrelsen                                                 |          | -85,5    | -181     |
+| Totalt                                                                      | 161      | 268,5    | 333      |

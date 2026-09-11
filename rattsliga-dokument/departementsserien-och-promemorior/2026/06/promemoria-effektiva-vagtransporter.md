@@ -1,4 +1,4 @@
-# Promemoria Effektiva vägtransporter
+# Effektiva vägtransporter
 
 I denna promemoria föreslås ändringar i trafikförordningen (1998:1276) avseende fem områden:
 

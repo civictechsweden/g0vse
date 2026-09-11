@@ -9,9 +9,9 @@ I budgetpropositionen för 2026 föreslår regeringen en satsning på ytterligar
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | Regeringen förstärker stödet till Riksglasskolan (miljoner kronor) | | | |
-| --- | --- | --- | --- |
-|  | 2026 | 2027 | 2028 |
-| **Förstärkt stöd till Riksglasskolan** | 2 | 2 | 2 |
+| ------------------------------------------------------------------ | ---- | ---- | ---- |
+|                                                                    | 2026 | 2027 | 2028 |
+| **Förstärkt stöd till Riksglasskolan**                             | 2    | 2    | 2    |
 
 
 
@@ -24,6 +24,6 @@ I budgetpropositionen för 2026 föreslår regeringen en satsning på ytterligar
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | Regeringen förstärker stödet till Riksglasskolan (miljoner kronor) | | | |
-| --- | --- | --- | --- |
-|  | 2026 | 2027 | 2028 |
-| **Förstärkt stöd till Riksglasskolan** | 2 | 2 | 2 |
+| ------------------------------------------------------------------ | ---- | ---- | ---- |
+|                                                                    | 2026 | 2027 | 2028 |
+| **Förstärkt stöd till Riksglasskolan**                             | 2    | 2    | 2    |

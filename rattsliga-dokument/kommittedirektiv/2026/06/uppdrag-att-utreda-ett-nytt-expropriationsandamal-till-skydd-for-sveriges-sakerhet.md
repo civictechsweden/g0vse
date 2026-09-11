@@ -1,6 +1,7 @@
 # Uppdrag att utreda ett nytt expropriationsändamål till skydd för Sveriges säkerhet
 
-En utredare ges i uppdrag att utreda behovet av ändringar i expropriationslagstiftningen för att möjliggöra expropriation av fast egendom när fastighetsinnehavet kan innebära risker för Sveriges säkerhet. Syftet med uppdraget är att säkerställa Sveriges förmåga att motverka denna typ av säkerhetshotande fastighetsinnehav.
+En utredare ges i uppdrag att utreda behovet av ändringar i expropriationslagstiftningen
+för att möjliggöra expropriation av fast egendom när fastighetsinnehavet kan innebära risker för Sveriges säkerhet. Syftet med uppdraget är att säkerställa Sveriges förmåga att motverka denna typ av säkerhetshotande fastighetsinnehav.
 
 Utredaren ska bl.a.
 
@@ -19,4 +20,4 @@ grundläggande friheterna (Europakonventionen) och Europeiska
 unionens stadga om de grundläggande rättigheterna, och
 * lämna nödvändiga författningsförslag.
 
-Uppdraget ska redovisas senast den 15 mars 2027.
+Uppdraget ska redovisas senast den 31 mars 2027.

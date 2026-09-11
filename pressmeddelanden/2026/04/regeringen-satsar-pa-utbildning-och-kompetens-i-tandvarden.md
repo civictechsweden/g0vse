@@ -26,10 +26,10 @@ Beslut om fördelning av den verksamhetsförlagda utbildningen kan fattas när r
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Medel för verksamhetsförlagd utbildning (mnkr)** | |
-| --- | --- |
-|  | **2026** |
-| **Flytt av medel för verksamhetsförlagd utbildning (VFU)** | 100 |
+| **Medel för verksamhetsförlagd utbildning (mnkr)**         | |
+| ---------------------------------------------------------- | -------- |
+|                                                            | **2026** |
+| **Flytt av medel för verksamhetsförlagd utbildning (VFU)** | 100      |
 
 
 
@@ -59,7 +59,7 @@ Beslut om fördelning av den verksamhetsförlagda utbildningen kan fattas när r
 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Medel för verksamhetsförlagd utbildning (mnkr)** | |
-| --- | --- |
-|  | **2026** |
-| **Flytt av medel för verksamhetsförlagd utbildning (VFU)** | 100 |
+| **Medel för verksamhetsförlagd utbildning (mnkr)**         | |
+| ---------------------------------------------------------- | -------- |
+|                                                            | **2026** |
+| **Flytt av medel för verksamhetsförlagd utbildning (VFU)** | 100      |

@@ -15,23 +15,23 @@ Regeringens reformpaket innehåller följande förslag:
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **AI och data (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **AI-verkstad för offentlig förvaltning, varav:** |  |  |  |
-| Skatteverket | 100 | 100 | 100 |
-| Försäkringskassan | 100 | 100 | 100 |
-| Kungl. biblioteket | 10 | 10 | 10 |
-| Integritetsskyddsmyndigheten | 3 | 6 | 8 |
-| Arbete med vägledning | 5 | 5 | 5 |
-| **Medfinansiering AI-fabrik, varav:** |  |  |  |
-| Vetenskapsrådet | 80 | 80 | 80 |
-| Vinnova | 20 | 20 | 20 |
-| **Arbete med interoperabilitet** | 7 | 10 | 10 |
-| **Data steward – Statistiska centralbyrån** | 4 | 4 | 4 |
-| **Ökad digital lagring och beräkningskapacitet på Kungl. Biblioteket** | 30 | 30 | 30 |
-| **Digitisering av statligt arkivmaterial och AI-utveckling – Riksarkivet** | 20 | 40 | 50 |
-| **Förstärkning medfinansiering till EU-programmet DIGITAL avseende AI-utveckling** | 100 | 100 | 100 |
+| **AI och data (mnkr)**                                                             | | | |
+| ---------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                    | **2026** | **2027** | **2028** |
+| **AI-verkstad för offentlig förvaltning, varav:**                                  |          |          |          |
+| Skatteverket                                                                       | 100      | 100      | 100      |
+| Försäkringskassan                                                                  | 100      | 100      | 100      |
+| Kungl. biblioteket                                                                 | 10       | 10       | 10       |
+| Integritetsskyddsmyndigheten                                                       | 3        | 6        | 8        |
+| Arbete med vägledning                                                              | 5        | 5        | 5        |
+| **Medfinansiering AI-fabrik, varav:**                                              |          |          |          |
+| Vetenskapsrådet                                                                    | 80       | 80       | 80       |
+| Vinnova                                                                            | 20       | 20       | 20       |
+| **Arbete med interoperabilitet**                                                   | 7        | 10       | 10       |
+| **Data steward – Statistiska centralbyrån**                                        | 4        | 4        | 4        |
+| **Ökad digital lagring och beräkningskapacitet på Kungl. Biblioteket**             | 30       | 30       | 30       |
+| **Digitisering av statligt arkivmaterial och AI-utveckling – Riksarkivet**         | 20       | 40       | 50       |
+| **Förstärkning medfinansiering till EU-programmet DIGITAL avseende AI-utveckling** | 100      | 100      | 100      |
 
 
 
@@ -50,20 +50,20 @@ Regeringens reformpaket innehåller följande förslag:
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **AI och data (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **AI-verkstad för offentlig förvaltning, varav:** |  |  |  |
-| Skatteverket | 100 | 100 | 100 |
-| Försäkringskassan | 100 | 100 | 100 |
-| Kungl. biblioteket | 10 | 10 | 10 |
-| Integritetsskyddsmyndigheten | 3 | 6 | 8 |
-| Arbete med vägledning | 5 | 5 | 5 |
-| **Medfinansiering AI-fabrik, varav:** |  |  |  |
-| Vetenskapsrådet | 80 | 80 | 80 |
-| Vinnova | 20 | 20 | 20 |
-| **Arbete med interoperabilitet** | 7 | 10 | 10 |
-| **Data steward – Statistiska centralbyrån** | 4 | 4 | 4 |
-| **Ökad digital lagring och beräkningskapacitet på Kungl. Biblioteket** | 30 | 30 | 30 |
-| **Digitisering av statligt arkivmaterial och AI-utveckling – Riksarkivet** | 20 | 40 | 50 |
-| **Förstärkning medfinansiering till EU-programmet DIGITAL avseende AI-utveckling** | 100 | 100 | 100 |
+| **AI och data (mnkr)**                                                             | | | |
+| ---------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                    | **2026** | **2027** | **2028** |
+| **AI-verkstad för offentlig förvaltning, varav:**                                  |          |          |          |
+| Skatteverket                                                                       | 100      | 100      | 100      |
+| Försäkringskassan                                                                  | 100      | 100      | 100      |
+| Kungl. biblioteket                                                                 | 10       | 10       | 10       |
+| Integritetsskyddsmyndigheten                                                       | 3        | 6        | 8        |
+| Arbete med vägledning                                                              | 5        | 5        | 5        |
+| **Medfinansiering AI-fabrik, varav:**                                              |          |          |          |
+| Vetenskapsrådet                                                                    | 80       | 80       | 80       |
+| Vinnova                                                                            | 20       | 20       | 20       |
+| **Arbete med interoperabilitet**                                                   | 7        | 10       | 10       |
+| **Data steward – Statistiska centralbyrån**                                        | 4        | 4        | 4        |
+| **Ökad digital lagring och beräkningskapacitet på Kungl. Biblioteket**             | 30       | 30       | 30       |
+| **Digitisering av statligt arkivmaterial och AI-utveckling – Riksarkivet**         | 20       | 40       | 50       |
+| **Förstärkning medfinansiering till EU-programmet DIGITAL avseende AI-utveckling** | 100      | 100      | 100      |

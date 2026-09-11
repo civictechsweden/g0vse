@@ -13,9 +13,9 @@ Nu har regeringen också beslutat att ge Polarforskningssekretariatet i uppdrag 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Polarforskningssekretariatet tar över värdskapet för Kristineberg marina forskningsstation (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Säkra värdskap för Kristineberg marina forskningsstation** | 3 | 3 | 3 |
+| ---------------------------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                                                  | **2026** | **2027** | **2028** |
+| **Säkra värdskap för Kristineberg marina forskningsstation**                                                     | 3        | 3        | 3        |
 
 
 
@@ -32,6 +32,6 @@ Nu har regeringen också beslutat att ge Polarforskningssekretariatet i uppdrag 
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Polarforskningssekretariatet tar över värdskapet för Kristineberg marina forskningsstation (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Säkra värdskap för Kristineberg marina forskningsstation** | 3 | 3 | 3 |
+| ---------------------------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                                                  | **2026** | **2027** | **2028** |
+| **Säkra värdskap för Kristineberg marina forskningsstation**                                                     | 3        | 3        | 3        |

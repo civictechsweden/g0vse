@@ -40,20 +40,20 @@ Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokrate
 
 
 
-| **Satsningar på hälso- och sjukvården (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Prestationsbundna medel till regionerna för att korta vårdköerna** | 1000 | 1000 | 1000 |
-| **Fortsatt satsning på vårdköer** | 750 | 750 | 500 |
-| **Nationell samordnare** | 5 |  |  |
-| **Medel för att växla upp arbetet med att korta vårdköerna** | 15 | 10 |  |
-| **Fortsatt satsning ätstörningsvård** | 100 | 100 | 100 |
-| **Etablera en nationell digital infrastruktur** | 262 | 369 | 323 |
-| **Vårdkösatsning: Ökade incitament för implementering av nationell vårdförmedling** | 125 |  |  |
-| **Fortsatt satsning på mödrahälsovården, förlossningsvården och flickors och kvinnors hälsa** | 1000 | 1000 |  |
-| **Kunskapsstöd för implementering av den nationella planen för förlossningsvården** | 10 | 10 |  |
-| **Stärkt vård för sexuellt våldsutsatta** | 200 | 200 | 200 |
-| **Särskild undervisning på sjukhus** | 10 | 10 | 10 |
+| **Satsningar på hälso- och sjukvården (miljoner kronor)**                                     | | | |
+| --------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                               | **2026** | **2027** | **2028** |
+| **Prestationsbundna medel till regionerna för att korta vårdköerna**                          | 1000     | 1000     | 1000     |
+| **Fortsatt satsning på vårdköer**                                                             | 750      | 750      | 500      |
+| **Nationell samordnare**                                                                      | 5        |          |          |
+| **Medel för att växla upp arbetet med att korta vårdköerna**                                  | 15       | 10       |          |
+| **Fortsatt satsning ätstörningsvård**                                                         | 100      | 100      | 100      |
+| **Etablera en nationell digital infrastruktur**                                               | 262      | 369      | 323      |
+| **Vårdkösatsning: Ökade incitament för implementering av nationell vårdförmedling**           | 125      |          |          |
+| **Fortsatt satsning på mödrahälsovården, förlossningsvården och flickors och kvinnors hälsa** | 1000     | 1000     |          |
+| **Kunskapsstöd för implementering av den nationella planen för förlossningsvården**           | 10       | 10       |          |
+| **Stärkt vård för sexuellt våldsutsatta**                                                     | 200      | 200      | 200      |
+| **Särskild undervisning på sjukhus**                                                          | 10       | 10       | 10       |
 
 
 
@@ -97,17 +97,17 @@ Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokrate
 
 
 
-| **Satsningar på hälso- och sjukvården (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Prestationsbundna medel till regionerna för att korta vårdköerna** | 1000 | 1000 | 1000 |
-| **Fortsatt satsning på vårdköer** | 750 | 750 | 500 |
-| **Nationell samordnare** | 5 |  |  |
-| **Medel för att växla upp arbetet med att korta vårdköerna** | 15 | 10 |  |
-| **Fortsatt satsning ätstörningsvård** | 100 | 100 | 100 |
-| **Etablera en nationell digital infrastruktur** | 262 | 369 | 323 |
-| **Vårdkösatsning: Ökade incitament för implementering av nationell vårdförmedling** | 125 |  |  |
-| **Fortsatt satsning på mödrahälsovården, förlossningsvården och flickors och kvinnors hälsa** | 1000 | 1000 |  |
-| **Kunskapsstöd för implementering av den nationella planen för förlossningsvården** | 10 | 10 |  |
-| **Stärkt vård för sexuellt våldsutsatta** | 200 | 200 | 200 |
-| **Särskild undervisning på sjukhus** | 10 | 10 | 10 |
+| **Satsningar på hälso- och sjukvården (miljoner kronor)**                                     | | | |
+| --------------------------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                                               | **2026** | **2027** | **2028** |
+| **Prestationsbundna medel till regionerna för att korta vårdköerna**                          | 1000     | 1000     | 1000     |
+| **Fortsatt satsning på vårdköer**                                                             | 750      | 750      | 500      |
+| **Nationell samordnare**                                                                      | 5        |          |          |
+| **Medel för att växla upp arbetet med att korta vårdköerna**                                  | 15       | 10       |          |
+| **Fortsatt satsning ätstörningsvård**                                                         | 100      | 100      | 100      |
+| **Etablera en nationell digital infrastruktur**                                               | 262      | 369      | 323      |
+| **Vårdkösatsning: Ökade incitament för implementering av nationell vårdförmedling**           | 125      |          |          |
+| **Fortsatt satsning på mödrahälsovården, förlossningsvården och flickors och kvinnors hälsa** | 1000     | 1000     |          |
+| **Kunskapsstöd för implementering av den nationella planen för förlossningsvården**           | 10       | 10       |          |
+| **Stärkt vård för sexuellt våldsutsatta**                                                     | 200      | 200      | 200      |
+| **Särskild undervisning på sjukhus**                                                          | 10       | 10       | 10       |

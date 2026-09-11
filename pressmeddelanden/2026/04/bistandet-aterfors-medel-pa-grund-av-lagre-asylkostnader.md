@@ -9,9 +9,9 @@ Det innebär att 1 668 miljoner kronor kan användas för fortsatt genomförande
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Utfallsjusteringar av biståndsanslaget (mnkr)** | |
-| --- | --- |
-|  | **2026** |
-| Utfallsjustering för migrationsavräkningar | 1 668 |
+| ------------------------------------------------- | -------- |
+|                                                   | **2026** |
+| Utfallsjustering för migrationsavräkningar        | 1 668    |
 
 ## Om biståndsbudgeten
 
@@ -26,9 +26,9 @@ Det innebär att 1 668 miljoner kronor kan användas för fortsatt genomförande
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Utfallsjusteringar av biståndsanslaget (mnkr)** | |
-| --- | --- |
-|  | **2026** |
-| Utfallsjustering för migrationsavräkningar | 1 668 |
+| ------------------------------------------------- | -------- |
+|                                                   | **2026** |
+| Utfallsjustering för migrationsavräkningar        | 1 668    |
 
 ## Om biståndsbudgeten
 

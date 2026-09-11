@@ -15,12 +15,12 @@
 Regeringen föreslår ytterligare 27 miljoner kronor under 2026 samt beräknar 27 miljoner kronor 2027 och 20 miljoner kronor för 2028 för att genom havsregionala åtgärdsplaner stärka arbetet för ökad biologisk mångfald, insatser mot övergödning och farliga ämnen i haven, omställning till hållbart fiske och omställningen av sjöfarten – för minskade utsläpp och minskat buller. Syftet är att stärka arbetet med en ekosystembaserad förvaltning av våra kuster och hav, för en hållbar blå ekonomi.
 
 | **Insatser för att stärka Östersjön (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Åtgärdsarbete mot övergödning inkl. LOVA** | 250 | 250 | 250 |
-| **Regionala åtgärdsplaner** | 27 | 27 | 20 |
-| **Övervakning av havs- och vattenmiljöer** | 20 | 20 | 20 |
-| **Förstärkt internationellt havsmiljöarbete** | 2 | 2 | 2 |
+| ------------------------------------------------------- | -------- | -------- | -------- |
+|                                                         | **2026** | **2027** | **2028** |
+| **Åtgärdsarbete mot övergödning inkl. LOVA**            | 250      | 250      | 250      |
+| **Regionala åtgärdsplaner**                             | 27       | 27       | 20       |
+| **Övervakning av havs- och vattenmiljöer**              | 20       | 20       | 20       |
+| **Förstärkt internationellt havsmiljöarbete**           | 2        | 2        | 2        |
 
 ## Skötsel av naturreservat och nationalparker
 
@@ -31,12 +31,12 @@ Regeringen föreslår också en satsning på 50 miljoner kronor mellan 2026 och 
 Utöver det så vill regeringen se fortsatta åtgärder för minskad nedskräpning och städning av stränder och badvikar runt om i Sverige. Regeringen föreslår därför 20 miljoner kronor per år mellan 2026 och 2028 för detta arbete. Särskilt för fortsatt strandstädningsbidrag till drabbade kustkommuner. Regeringen föreslår också en satsning på 4 miljoner kronor per år från och med 2026 för bidrag till miljöorganisationer för arbete med minskad nedskräpning. Skräp hör inte hemma i naturen.
 
 | **Skötsel av naturreservat, upprustning av vandringsleder och minskad nedskräpning (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Skötsel av nationalparker och naturreservat** | 50 | 50 | 50 |
-| **Stöd till upprustning av vandringsleder** | 50 | 50 | 50 |
-| **Städning av stränder och badvikar** | 20 | 20 | 20 |
-| **Bidrag till miljöorganisationer** | 4 | 4 | 4 |
+| ------------------------------------------------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                                                                        | **2026** | **2027** | **2028** |
+| **Skötsel av nationalparker och naturreservat**                                                        | 50       | 50       | 50       |
+| **Stöd till upprustning av vandringsleder**                                                            | 50       | 50       | 50       |
+| **Städning av stränder och badvikar**                                                                  | 20       | 20       | 20       |
+| **Bidrag till miljöorganisationer**                                                                    | 4        | 4        | 4        |
 
 ## Stoppa skadliga konsumentprodukter och spridningen av PFAS
 
@@ -45,20 +45,20 @@ Regeringen vill minska skadliga ämnen i människors vardag genom att stoppa ska
 Regeringen ser allvarligt på spridningen av evighetskemikalierna PFAS i miljön. Regeringen föreslår därför 85 miljoner kronor för 2026 för fortsatt arbete med att minska spridning av PFAS. För 2027 beräknas anslaget öka med 110 miljoner kronor och för 2028 med 135 miljoner kronor. Regeringen planerar också att ta fram en nationell plan för att förhindra att PFAS sprids i våra vatten och i vår natur.
 
 | **Förhindra spridningen av PFAS och andra farliga ämnen (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Konsumentprodukter – tillsyn och kemikaliekontroll** | 25 | 25 | 25 |
-| **Fortsatt arbete mot spridning av PFAS** | 85 | 110 | 135 |
+| --------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                             | **2026** | **2027** | **2028** |
+| **Konsumentprodukter – tillsyn och kemikaliekontroll**                      | 25       | 25       | 25       |
+| **Fortsatt arbete mot spridning av PFAS**                                   | 85       | 110      | 135      |
 
 ## Ökade insatser mot invasiva arter
 
 Regeringen föreslår att 25 miljoner kronor satsas på bekämpning av invasiva främmande arter på land och i vatten under 2026, 50 miljoner kronor under 2027 och 60 miljoner kronor under 2028. Det ska användas för att förebygga och bekämpa invasiva främmande arter sprids på land och i vatten. Det är viktigt att arbetet mot invasiva arter sker koordinerat, effektivt och med bra kunskapsunderlag. Samtidigt måste allmänheten informeras om invasiva främmande arter och hur de ska hanteras.
 
 | **Bekämpning av invasiva främmande arter (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Naturvårdsverket** | 5 | 30 | 30 |
-| **Havs- och vattenmyndigheten** | 20 | 20 | 30 |
+| ------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                              | **2026** | **2027** | **2028** |
+| **Naturvårdsverket**                                         | 5        | 30       | 30       |
+| **Havs- och vattenmyndigheten**                              | 20       | 20       | 30       |
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
@@ -77,12 +77,12 @@ Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokrate
 Regeringen föreslår ytterligare 27 miljoner kronor under 2026 samt beräknar 27 miljoner kronor 2027 och 20 miljoner kronor för 2028 för att genom havsregionala åtgärdsplaner stärka arbetet för ökad biologisk mångfald, insatser mot övergödning och farliga ämnen i haven, omställning till hållbart fiske och omställningen av sjöfarten – för minskade utsläpp och minskat buller. Syftet är att stärka arbetet med en ekosystembaserad förvaltning av våra kuster och hav, för en hållbar blå ekonomi.
 
 | **Insatser för att stärka Östersjön (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Åtgärdsarbete mot övergödning inkl. LOVA** | 250 | 250 | 250 |
-| **Regionala åtgärdsplaner** | 27 | 27 | 20 |
-| **Övervakning av havs- och vattenmiljöer** | 20 | 20 | 20 |
-| **Förstärkt internationellt havsmiljöarbete** | 2 | 2 | 2 |
+| ------------------------------------------------------- | -------- | -------- | -------- |
+|                                                         | **2026** | **2027** | **2028** |
+| **Åtgärdsarbete mot övergödning inkl. LOVA**            | 250      | 250      | 250      |
+| **Regionala åtgärdsplaner**                             | 27       | 27       | 20       |
+| **Övervakning av havs- och vattenmiljöer**              | 20       | 20       | 20       |
+| **Förstärkt internationellt havsmiljöarbete**           | 2        | 2        | 2        |
 
 ## Skötsel av naturreservat och nationalparker
 
@@ -93,12 +93,12 @@ Regeringen föreslår också en satsning på 50 miljoner kronor mellan 2026 och 
 Utöver det så vill regeringen se fortsatta åtgärder för minskad nedskräpning och städning av stränder och badvikar runt om i Sverige. Regeringen föreslår därför 20 miljoner kronor per år mellan 2026 och 2028 för detta arbete. Särskilt för fortsatt strandstädningsbidrag till drabbade kustkommuner. Regeringen föreslår också en satsning på 4 miljoner kronor per år från och med 2026 för bidrag till miljöorganisationer för arbete med minskad nedskräpning. Skräp hör inte hemma i naturen.
 
 | **Skötsel av naturreservat, upprustning av vandringsleder och minskad nedskräpning (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Skötsel av nationalparker och naturreservat** | 50 | 50 | 50 |
-| **Stöd till upprustning av vandringsleder** | 50 | 50 | 50 |
-| **Städning av stränder och badvikar** | 20 | 20 | 20 |
-| **Bidrag till miljöorganisationer** | 4 | 4 | 4 |
+| ------------------------------------------------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                                                                        | **2026** | **2027** | **2028** |
+| **Skötsel av nationalparker och naturreservat**                                                        | 50       | 50       | 50       |
+| **Stöd till upprustning av vandringsleder**                                                            | 50       | 50       | 50       |
+| **Städning av stränder och badvikar**                                                                  | 20       | 20       | 20       |
+| **Bidrag till miljöorganisationer**                                                                    | 4        | 4        | 4        |
 
 ## Stoppa skadliga konsumentprodukter och spridningen av PFAS
 
@@ -107,19 +107,19 @@ Regeringen vill minska skadliga ämnen i människors vardag genom att stoppa ska
 Regeringen ser allvarligt på spridningen av evighetskemikalierna PFAS i miljön. Regeringen föreslår därför 85 miljoner kronor för 2026 för fortsatt arbete med att minska spridning av PFAS. För 2027 beräknas anslaget öka med 110 miljoner kronor och för 2028 med 135 miljoner kronor. Regeringen planerar också att ta fram en nationell plan för att förhindra att PFAS sprids i våra vatten och i vår natur.
 
 | **Förhindra spridningen av PFAS och andra farliga ämnen (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Konsumentprodukter – tillsyn och kemikaliekontroll** | 25 | 25 | 25 |
-| **Fortsatt arbete mot spridning av PFAS** | 85 | 110 | 135 |
+| --------------------------------------------------------------------------- | -------- | -------- | -------- |
+|                                                                             | **2026** | **2027** | **2028** |
+| **Konsumentprodukter – tillsyn och kemikaliekontroll**                      | 25       | 25       | 25       |
+| **Fortsatt arbete mot spridning av PFAS**                                   | 85       | 110      | 135      |
 
 ## Ökade insatser mot invasiva arter
 
 Regeringen föreslår att 25 miljoner kronor satsas på bekämpning av invasiva främmande arter på land och i vatten under 2026, 50 miljoner kronor under 2027 och 60 miljoner kronor under 2028. Det ska användas för att förebygga och bekämpa invasiva främmande arter sprids på land och i vatten. Det är viktigt att arbetet mot invasiva arter sker koordinerat, effektivt och med bra kunskapsunderlag. Samtidigt måste allmänheten informeras om invasiva främmande arter och hur de ska hanteras.
 
 | **Bekämpning av invasiva främmande arter (miljoner kronor)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Naturvårdsverket** | 5 | 30 | 30 |
-| **Havs- och vattenmyndigheten** | 20 | 20 | 30 |
+| ------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                              | **2026** | **2027** | **2028** |
+| **Naturvårdsverket**                                         | 5        | 30       | 30       |
+| **Havs- och vattenmyndigheten**                              | 20       | 20       | 30       |
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.

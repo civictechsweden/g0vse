@@ -26,11 +26,11 @@ För att få en tydligare bild av hur AI påverkar arbetsmarknaden för högskol
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Arbetsmarknadspaket 2026** | |
-| --- | --- |
-| **Utökad kartläggning och anvisning till utbildning** | 25 miljoner kronor |
-| **Jobbsprånget** | 5,5 miljoner kronor |
-| **Uppdrag till SCB om AI och arbetslöshet bland akademiker** | 2 miljoner kronor |
+| **Arbetsmarknadspaket 2026**                                 | |
+| ------------------------------------------------------------ | ------------------- |
+| **Utökad kartläggning och anvisning till utbildning**        | 25 miljoner kronor  |
+| **Jobbsprånget**                                             | 5,5 miljoner kronor |
+| **Uppdrag till SCB om AI och arbetslöshet bland akademiker** | 2 miljoner kronor   |
 
 
 
@@ -60,8 +60,8 @@ För att få en tydligare bild av hur AI påverkar arbetsmarknaden för högskol
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Arbetsmarknadspaket 2026** | |
-| --- | --- |
-| **Utökad kartläggning och anvisning till utbildning** | 25 miljoner kronor |
-| **Jobbsprånget** | 5,5 miljoner kronor |
-| **Uppdrag till SCB om AI och arbetslöshet bland akademiker** | 2 miljoner kronor |
+| **Arbetsmarknadspaket 2026**                                 | |
+| ------------------------------------------------------------ | ------------------- |
+| **Utökad kartläggning och anvisning till utbildning**        | 25 miljoner kronor  |
+| **Jobbsprånget**                                             | 5,5 miljoner kronor |
+| **Uppdrag till SCB om AI och arbetslöshet bland akademiker** | 2 miljoner kronor   |

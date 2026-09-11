@@ -20,18 +20,18 @@ Sida ökar även sitt stöd till FN:s humanitära flygservice UNHAS som gör det
 
 Fördelningen av medel mellan kriser i allokeringen är följande:
 
-| **Kris** | **End of year-allokering (MSEK)** | **Totalt humanitärt stöd 2025** |
-| --- | --- | --- |
-| Sudan | 103 | 404 |
-| Palestina | 52 | 297 |
-| Syrien | 25 | 223 |
-| Jemen | 23 | 232 |
-| DR Kongo | 23 | 321 |
-| Myanmar | 23 | 228 |
-| Sydsudan | 16 | 194 |
-| Nigeria | 15 | 161 |
-| Afghanistan | 12 | 229 |
-| Etiopien | 11 | 239 |
+| **Kris**    | **End of year-allokering (MSEK)** | **Totalt humanitärt stöd 2025** |
+| ----------- | --------------------------------- | ------------------------------- |
+| Sudan       | 103                               | 404                             |
+| Palestina   | 52                                | 297                             |
+| Syrien      | 25                                | 223                             |
+| Jemen       | 23                                | 232                             |
+| DR Kongo    | 23                                | 321                             |
+| Myanmar     | 23                                | 228                             |
+| Sydsudan    | 16                                | 194                             |
+| Nigeria     | 15                                | 161                             |
+| Afghanistan | 12                                | 229                             |
+| Etiopien    | 11                                | 239                             |
 
 
 
@@ -55,15 +55,15 @@ Sida ökar även sitt stöd till FN:s humanitära flygservice UNHAS som gör det
 
 Fördelningen av medel mellan kriser i allokeringen är följande:
 
-| **Kris** | **End of year-allokering (MSEK)** | **Totalt humanitärt stöd 2025** |
-| --- | --- | --- |
-| Sudan | 103 | 404 |
-| Palestina | 52 | 297 |
-| Syrien | 25 | 223 |
-| Jemen | 23 | 232 |
-| DR Kongo | 23 | 321 |
-| Myanmar | 23 | 228 |
-| Sydsudan | 16 | 194 |
-| Nigeria | 15 | 161 |
-| Afghanistan | 12 | 229 |
-| Etiopien | 11 | 239 |
+| **Kris**    | **End of year-allokering (MSEK)** | **Totalt humanitärt stöd 2025** |
+| ----------- | --------------------------------- | ------------------------------- |
+| Sudan       | 103                               | 404                             |
+| Palestina   | 52                                | 297                             |
+| Syrien      | 25                                | 223                             |
+| Jemen       | 23                                | 232                             |
+| DR Kongo    | 23                                | 321                             |
+| Myanmar     | 23                                | 228                             |
+| Sydsudan    | 16                                | 194                             |
+| Nigeria     | 15                                | 161                             |
+| Afghanistan | 12                                | 229                             |
+| Etiopien    | 11                                | 239                             |

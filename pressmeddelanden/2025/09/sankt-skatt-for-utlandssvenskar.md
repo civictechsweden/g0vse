@@ -15,9 +15,9 @@ Samarbetspartierna föreslår därför i budgetpropositionen för 2026 att den s
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Sänkt särskild inkomstskatt för utomlands bosatta (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Offentligfinansiell effekt** | 340 | 680 | 680 |
+| ------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                              | **2026** | **2027** | **2028** |
+| **Offentligfinansiell effekt**                               | 340      | 680      | 680      |
 
 
 
@@ -36,6 +36,6 @@ Samarbetspartierna föreslår därför i budgetpropositionen för 2026 att den s
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Sänkt särskild inkomstskatt för utomlands bosatta (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Offentligfinansiell effekt** | 340 | 680 | 680 |
+| ------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                              | **2026** | **2027** | **2028** |
+| **Offentligfinansiell effekt**                               | 340      | 680      | 680      |

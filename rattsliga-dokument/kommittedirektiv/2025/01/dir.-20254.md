@@ -1,6 +1,6 @@
 # Registrering av EES-medborgare
 
-En särskild utredare ska se över hur en ordning som innebär att EESmedborgare registreras vid vistelser över tre månader kan återinföras i svensk rätt. Syftet är att svenska myndigheter ska få bättre kännedom om vilka EES-medborgare som vistas i landet och med vilken rätt de gör det.
+En särskild utredare ska se över hur en ordning som innebär att EES-medborgare registreras vid vistelser över tre månader kan återinföras i svensk rätt. Syftet är att svenska myndigheter ska få bättre kännedom om vilka EES-medborgare som vistas i landet och med vilken rätt de gör det.
 
 Utredaren ska bland annat
 

@@ -30,13 +30,13 @@ Regeringen satsar 13 miljoner kronor i budgetpropositionen för 2026 för ett st
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Satsningar på äldreomsorgen (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Reglering av språkkrav inom äldreomsorgen i socialtjänstlagen** | 90 | 165 | 150 |
-| **Uppdrag till myndigheter för att stödja arbetet med och följa upp det föreslagna språkkravet** | 23 | 23 | 23 |
-| **Förstärkt och vidgat Äldreomsorgslyft** | 100 | 1 800 |  |
-| **Stärkt anhörigstöd** | 13 | 13 | 2 |
+| **Satsningar på äldreomsorgen (mnkr)**                                                           | | | |
+| ------------------------------------------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                                                                  | **2026** | **2027** | **2028** |
+| **Reglering av språkkrav inom äldreomsorgen i socialtjänstlagen**                                | 90       | 165      | 150      |
+| **Uppdrag till myndigheter för att stödja arbetet med och följa upp det föreslagna språkkravet** | 23       | 23       | 23       |
+| **Förstärkt och vidgat Äldreomsorgslyft**                                                        | 100      | 1 800    |          |
+| **Stärkt anhörigstöd**                                                                           | 13       | 13       | 2        |
 
 
 
@@ -70,10 +70,10 @@ Regeringen satsar 13 miljoner kronor i budgetpropositionen för 2026 för ett st
 
 Förslagen bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
-| **Satsningar på äldreomsorgen (mnkr)** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Reglering av språkkrav inom äldreomsorgen i socialtjänstlagen** | 90 | 165 | 150 |
-| **Uppdrag till myndigheter för att stödja arbetet med och följa upp det föreslagna språkkravet** | 23 | 23 | 23 |
-| **Förstärkt och vidgat Äldreomsorgslyft** | 100 | 1 800 |  |
-| **Stärkt anhörigstöd** | 13 | 13 | 2 |
+| **Satsningar på äldreomsorgen (mnkr)**                                                           | | | |
+| ------------------------------------------------------------------------------------------------ | -------- | -------- | -------- |
+|                                                                                                  | **2026** | **2027** | **2028** |
+| **Reglering av språkkrav inom äldreomsorgen i socialtjänstlagen**                                | 90       | 165      | 150      |
+| **Uppdrag till myndigheter för att stödja arbetet med och följa upp det föreslagna språkkravet** | 23       | 23       | 23       |
+| **Förstärkt och vidgat Äldreomsorgslyft**                                                        | 100      | 1 800    |          |
+| **Stärkt anhörigstöd**                                                                           | 13       | 13       | 2        |

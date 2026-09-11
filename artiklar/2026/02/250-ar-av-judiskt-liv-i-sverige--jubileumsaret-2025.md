@@ -16,7 +16,7 @@ Forum för levande historia fick under 2024 i uppdrag att genomföra insatser in
 
 [Pressmeddelande: Regeringen satsar ytterligare 2,5 miljoner på att stärka judiskt liv och jiddisch](/pressmeddelanden/2025/10/regeringen-satsar-ytterligare-25-miljoner-pa-att-starka-judiskt-liv-och-jiddisch/ "Pressmeddelande: Regeringen satsar ytterligare 2,5 miljoner på att stärka judiskt liv och jiddisch")
 
-Den grafiska profilen som Forum för levande historia tog fram på uppdrag av regeringen illustrerar delar i det svenska kulturarvet som svenska judar bidragit med, såsom Georg Riedels Idas sommarvisa, Josef Franks design och Bohus stickning, grundat av Emma Jacobsson som var född i en judisk familj i Wien. Mönstret användes flitigt både vid olika evenemang runt om i Sverige, men även på svenska ambassader utomlands.
+Den grafiska profilen som Forum för levande historia tog fram på uppdrag av regeringen illustrerar delar i det svenska kulturarvet som svenska judar bidragit med, såsom Georg Riedels Idas sommarvisa, Josef Franks design och Bohus Stickning, grundat av Emma Jacobsson som var född i en judisk familj i Wien. Mönstret användes flitigt både vid olika evenemang runt om i Sverige, men även på svenska ambassader utomlands.
 
 Skolverket fick i uppdrag att uppmärksamma 250-årsjubileet av judiskt liv i Sverige genom att sprida kunskap om jubileumsåret och ge förslag på hur året kunde uppmärksammas i skolan.
 

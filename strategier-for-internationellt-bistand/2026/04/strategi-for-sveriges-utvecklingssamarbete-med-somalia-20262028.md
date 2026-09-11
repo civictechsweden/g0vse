@@ -4,4 +4,4 @@ Målet för svenskt internationellt bistånd är att skapa förutsättningar fö
 
 Utvecklingssamarbetet inom denna strategi ska ta sin utgångspunkt i regeringens reformagenda för svenskt bistånd: Bistånd för en ny era – Frihet, egenmakt och hållbar tillväxt (UD2023/17726). De principer som anges i Uppdrag om genomförande och uppföljning av landstrategier och andra strategier inom biståndet (UD2024/17865) ska vägleda genomförandet.
 
-Landstrategin för Somalia ska gälla under perioden 2026–2028 och omfattar sammantaget 630 miljoner kronor, varav 600 miljoner kronor avser Styrelsen för internationellt utvecklingssamarbetes (Sida) verksamhet och 30 miljoner kronor avser Folke Bernadotteakademins (FBA) verksamhet.
+”Landstrategin för Somalia ska gälla under perioden 2026–2028. Styrelsen för internationellt utvecklingssamarbete (Sida) får i uppdrag att genomföra strategin. Sida får indikativt använda cirka 200 miljoner kronor per år för verksamheten. Det faktiska årliga beloppet beslutas i myndighetens regleringsbrev för respektive år.

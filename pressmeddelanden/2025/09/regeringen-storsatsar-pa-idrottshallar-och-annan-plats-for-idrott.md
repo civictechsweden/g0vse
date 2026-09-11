@@ -15,9 +15,9 @@ Regeringen avsatte under 2024 även 130 miljoner kronor till att stödja ökad t
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Plats för idrott** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Plats för idrott** | 250 000 | 250 000 |  |
+| -------------------- | -------- | -------- | -------- |
+|                      | **2026** | **2027** | **2028** |
+| **Plats för idrott** | 250 000  | 250 000  |          |
 
 
 
@@ -36,6 +36,6 @@ Regeringen avsatte under 2024 även 130 miljoner kronor till att stödja ökad t
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Plats för idrott** | | | |
-| --- | --- | --- | --- |
-|  | **2026** | **2027** | **2028** |
-| **Plats för idrott** | 250 000 | 250 000 |  |
+| -------------------- | -------- | -------- | -------- |
+|                      | **2026** | **2027** | **2028** |
+| **Plats för idrott** | 250 000  | 250 000  |          |

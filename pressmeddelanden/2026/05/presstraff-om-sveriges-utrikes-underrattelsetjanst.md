@@ -1,3 +1,5 @@
-# Påminnelse: Pressträff om Sveriges utrikes underrättelsetjänst
+# Pressträff om Sveriges utrikes underrättelsetjänst
 
+Anmälningstiden har gått ut.
 
+Anmälningstiden har gått ut.

@@ -2,7 +2,7 @@
 
 Regeringen bedömer att kopplingen mellan avverkningsanmälan enligt skogsvårdslagen och anmälan för samråd enligt miljöbalken bör tas bort.
 
-Samrådsskyldigheten enligt miljöbalken föreslås gälla för skogsbruksåtgärder endast i de fall regeringen bestämmer det i föreskrifter. Den förordning som avses tas fram. Tillsammans med att Skogsstyrelsen ska ta fram en vägledning till markägarna om samrådsskyldigheten, kommer att innebära ett tydligt och förutsägbart regelverk som upprätthåller EU-rättens krav.
+Samrådsskyldigheten enligt miljöbalken föreslås gälla för skogsbruksåtgärder endast i de fall regeringen bestämmer det i föreskrifter. Den förordning som avses tas fram, tillsammans med att Skogsstyrelsen ska ta fram en vägledning till markägarna om samrådsskyldigheten, kommer att innebära ett tydligt och förutsägbart regelverk som upprätthåller EU-rättens krav.
 
 Regeringen föreslår bland annat också:
 
@@ -24,7 +24,7 @@ Lagrådsremissen kommer att ligga till grund för regeringens skogspolitiska pro
 
 Regeringen bedömer att kopplingen mellan avverkningsanmälan enligt skogsvårdslagen och anmälan för samråd enligt miljöbalken bör tas bort.
 
-Samrådsskyldigheten enligt miljöbalken föreslås gälla för skogsbruksåtgärder endast i de fall regeringen bestämmer det i föreskrifter. Den förordning som avses tas fram. Tillsammans med att Skogsstyrelsen ska ta fram en vägledning till markägarna om samrådsskyldigheten, kommer att innebära ett tydligt och förutsägbart regelverk som upprätthåller EU-rättens krav.
+Samrådsskyldigheten enligt miljöbalken föreslås gälla för skogsbruksåtgärder endast i de fall regeringen bestämmer det i föreskrifter. Den förordning som avses tas fram, tillsammans med att Skogsstyrelsen ska ta fram en vägledning till markägarna om samrådsskyldigheten, kommer att innebära ett tydligt och förutsägbart regelverk som upprätthåller EU-rättens krav.
 
 Regeringen föreslår bland annat också:
 

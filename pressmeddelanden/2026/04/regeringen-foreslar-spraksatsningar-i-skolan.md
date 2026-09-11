@@ -19,10 +19,10 @@ Nu föreslår regeringen att statsbidraget förstärks med 50 miljoner kronor f�
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Språksatsningar i skolan 2026** | |
-| --- | --- |
-| **Läxhjälp** | 50 miljoner kronor |
-| **Inköp av litteratur** | 50 miljoner kronor |
-| **Språkfrukost** | 30 miljoner kronor |
+| --------------------------------- | ------------------ |
+| **Läxhjälp**                      | 50 miljoner kronor |
+| **Inköp av litteratur**           | 50 miljoner kronor |
+| **Språkfrukost**                  | 30 miljoner kronor |
 
 
 
@@ -45,7 +45,7 @@ Nu föreslår regeringen att statsbidraget förstärks med 50 miljoner kronor f�
 Förslaget bygger på en överenskommelse mellan regeringen och Sverigedemokraterna.
 
 | **Språksatsningar i skolan 2026** | |
-| --- | --- |
-| **Läxhjälp** | 50 miljoner kronor |
-| **Inköp av litteratur** | 50 miljoner kronor |
-| **Språkfrukost** | 30 miljoner kronor |
+| --------------------------------- | ------------------ |
+| **Läxhjälp**                      | 50 miljoner kronor |
+| **Inköp av litteratur**           | 50 miljoner kronor |
+| **Språkfrukost**                  | 30 miljoner kronor |
