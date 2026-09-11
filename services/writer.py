@@ -9,6 +9,7 @@ class Writer(object):
         Path(filename).parent.mkdir(parents=True, exist_ok=True)
         with open(filename, "w", encoding="utf-8") as file:
             json.dump(data, file, ensure_ascii=False, indent=indent)
+            file.write("\n")
 
     @staticmethod
     def write_csv(data, filename):
@@ -22,7 +23,7 @@ class Writer(object):
     @staticmethod
     def write_md(data, filename):
         Path(filename).parent.mkdir(parents=True, exist_ok=True)
-        data = "\n".join([line.rstrip() for line in data.splitlines()]) + "\n"
+        data = "\n".join(line.rstrip() for line in data.splitlines()).rstrip() + "\n"
 
         with open(filename, "w", encoding="utf-8") as file:
             file.write(data)
