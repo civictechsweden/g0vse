@@ -3,6 +3,10 @@ name: Build the frontend
 
 on:
   push:
+    branches: ["master"]
+    paths:
+      - 'frontend/**'
+  pull_request:
     paths:
       - 'frontend/**'
   workflow_dispatch:
@@ -22,16 +26,27 @@ jobs:
         uses: actions/checkout@v6
         with:
           path: "g0vse"
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+          cache: "npm"
+          cache-dependency-path: "g0vse/frontend/package-lock.json"
+      - name: Install and build the frontend
+        working-directory: g0vse/frontend
+        run: |
+          npm ci
+          npm run build
       - name: Checkout frontend branch
+        if: github.event_name != 'pull_request'
         uses: actions/checkout@v6
         with:
           ref: "frontend"
           path: "frontend"
-      - name: Build the frontend, push to frontend
+      - name: Push the build to the frontend branch
+        if: github.event_name != 'pull_request'
+        working-directory: g0vse/frontend
         run: |
-          cd g0vse/frontend
-          npm install
-          npm run build
           rsync -av --remove-source-files --delete --exclude '.git/' ./out/ ../../frontend/
           cd ../../frontend
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
