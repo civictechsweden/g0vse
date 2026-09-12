@@ -4,7 +4,7 @@
 
 – Sverige bidrar med nära 300 miljoner kronor till några av världens mest utsatta situationer. I till exempel Sudan bidrar vi med 75 miljoner kr till bland annat mat och vatten för att hjälpa de mest utsatta grupperna, och i Syrien bidrar vi med 50 miljoner kr för att möta de mest akuta behoven, säger Gudrun Brunegård (KD), biståndspolitisk talesperson.
 
-En betydande del av stödet, 100 miljoner kronor, ges i form av kärnstöd till FN:s flyktingorgan UNHCR. Antalet människor på flykt i världen uppgår till över 122 miljoner, den högsta nivån någonsin. Utdragna konflikter och nya kriser fortsätter att tvinga människor från sina hem. Kärnstöd är en flexibel finansieringsform som gör det möjligt för organisationen att snabbt rikta insatser dit behoven är som störst.
+En betydande del av stödet, 100 miljoner kronor, ges i form av kärnstöd till FN:s flyktingorgan UNHCR. Antalet människor på flykt i världen uppgår till över 114 miljoner, den högsta nivån någonsin. Utdragna konflikter och nya kriser fortsätter att tvinga människor från sina hem. Kärnstöd är en flexibel finansieringsform som gör det möjligt för organisationen att snabbt rikta insatser dit behoven är som störst.
 
 Utöver tillskottet i kärnstöd riktas även stöd mot särskilt utsatta områden med stora humanitära behov. 75 miljoner kronor riktas till den humanitära responsen i Sudan. Efter flera års konflikt är situationen fortsatt katastrofal. Över 33 miljoner människor, varav omkring 15 miljoner barn, är i behov av humanitärt stöd och skydd.
 
@@ -24,7 +24,7 @@ Situationen för civilbefolkningen i Gaza är fortsatt mycket svår, och barn h�
 
 – Sverige bidrar med nära 300 miljoner kronor till några av världens mest utsatta situationer. I till exempel Sudan bidrar vi med 75 miljoner kr till bland annat mat och vatten för att hjälpa de mest utsatta grupperna, och i Syrien bidrar vi med 50 miljoner kr för att möta de mest akuta behoven, säger Gudrun Brunegård (KD), biståndspolitisk talesperson.
 
-En betydande del av stödet, 100 miljoner kronor, ges i form av kärnstöd till FN:s flyktingorgan UNHCR. Antalet människor på flykt i världen uppgår till över 122 miljoner, den högsta nivån någonsin. Utdragna konflikter och nya kriser fortsätter att tvinga människor från sina hem. Kärnstöd är en flexibel finansieringsform som gör det möjligt för organisationen att snabbt rikta insatser dit behoven är som störst.
+En betydande del av stödet, 100 miljoner kronor, ges i form av kärnstöd till FN:s flyktingorgan UNHCR. Antalet människor på flykt i världen uppgår till över 114 miljoner, den högsta nivån någonsin. Utdragna konflikter och nya kriser fortsätter att tvinga människor från sina hem. Kärnstöd är en flexibel finansieringsform som gör det möjligt för organisationen att snabbt rikta insatser dit behoven är som störst.
 
 Utöver tillskottet i kärnstöd riktas även stöd mot särskilt utsatta områden med stora humanitära behov. 75 miljoner kronor riktas till den humanitära responsen i Sudan. Efter flera års konflikt är situationen fortsatt katastrofal. Över 33 miljoner människor, varav omkring 15 miljoner barn, är i behov av humanitärt stöd och skydd.
 
