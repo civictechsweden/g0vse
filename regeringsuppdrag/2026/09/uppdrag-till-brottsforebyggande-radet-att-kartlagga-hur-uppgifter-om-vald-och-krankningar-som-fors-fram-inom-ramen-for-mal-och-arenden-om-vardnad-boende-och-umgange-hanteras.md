@@ -1,0 +1,7 @@
+# Uppdrag till Brottsförebyggande rådet att kartlägga hur uppgifter om våld och kränkningar som förs fram inom ramen för mål och ärenden om vårdnad, boende och umgänge hanteras
+
+Regeringen ger Brottsförebyggande rådet (Brå) i uppdrag att kartlägga hur allmänna domstolar och socialtjänsten hanterar uppgifter om våld och kränkningar mot barn eller den andra föräldern som förs fram inom ramen för mål och ärenden om vårdnad, boende och umgänge.
+
+I uppdraget ingår att kartlägga om eventuella skillnader i hanteringen av uppgifter om våld kan hänföras till olika faktorer, exempelvis hur och när en uppgift lämnas, vilken form av våld det är fråga om, tidsaspekter samt om uppgiften har varit föremål för bedömning eller prövning i något annat sammanhang. Brå ska kartlägga vilken betydelse uppgifter om våld eller kränkningar mot barnet eller den andra föräldern får för bedömningar och beslut om vårdnad, boende och umgänge. Brå ska identifiera och redovisa förekomsten av skillnader i hanteringen av uppgifter före och efter den 1 januari 2025 då förslagen i propositionen Tryggare hem för barn (prop. 2024/25:10) trädde i kraft och därigenom belysa vilket genomslag reformen har fått. I uppdraget ingår att vid behov lämna förslag på åtgärder som kan bidra till att förbättra hanteringen av uppgifter om våld och kränkningar.
+
+Uppdraget ska redovisas till Regeringskansliet (Justitiedepartementet) senast den 1 mars 2028.
