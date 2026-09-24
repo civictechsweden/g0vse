@@ -1,5 +1,28 @@
 [
     {
+        "title": "Moçambique - avrådan",
+        "url": "/ud-avrader/mocambique---avradan/",
+        "published": "2026-09-23",
+        "updated": null,
+        "types": [],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Utrikesdepartementet avråder från icke nödvändiga resor till provinsen Cabo Delgado, distrikten Erati och Memba i provinsen Nampula och distrikten Mecula och Marrupa i provinsen Niassa.\n\nBeslut om utökad avrådan togs den 23 september 2026 och gäller tills vidare.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Reseinformation från svenska ambassaden i Moҫambique- extern webbplats,",
+                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/moçambique/reseinformation/ambassadens-reseinformation-moçambique/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2204",
+            "1133"
+        ]
+    },
+    {
         "title": "Jordanien – avrådan",
         "url": "/ud-avrader/jordanien---avradan/",
         "published": "2026-08-24",
@@ -586,29 +609,6 @@
         "categories": [
             "2204",
             "1145"
-        ]
-    },
-    {
-        "title": "Moçambique - avrådan",
-        "url": "/ud-avrader/mocambique---avradan/",
-        "published": "2025-05-05",
-        "updated": null,
-        "types": [],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Med anledning av säkerhetsläget avråder Utrikesdepartementet från icke nödvändiga resor till provinsen Cabo Delgado, distrikten Erati och Memba i provinsen Nampula och distriktet Mecula i provinsen Niassa i Moçambique.\n\nBeslut om avrådan togs den 5 maj 2025. Avrådan gäller tills vidare.",
-        "id": null,
-        "shortcuts": [
-            {
-                "name": "Reseinformation från svenska ambassaden i Moҫambique- extern webbplats,",
-                "url": "https://www.swedenabroad.se/sv/om-utlandet-för-svenska-medborgare/moçambique/reseinformation/ambassadens-reseinformation-moçambique/"
-            }
-        ],
-        "attachments": [],
-        "categories": [
-            "2204",
-            "1133"
         ]
     },
     {
