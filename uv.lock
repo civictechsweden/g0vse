@@ -371,6 +371,7 @@ dependencies = [
     { name = "fake-useragent" },
     { name = "html-to-markdown" },
     { name = "playwright" },
+    { name = "rumdl" },
     { name = "selectolax" },
     { name = "tqdm" },
 ]
@@ -379,7 +380,6 @@ dependencies = [
 dev = [
     { name = "pytest" },
     { name = "ruff" },
-    { name = "rumdl" },
     { name = "ty" },
 ]
 
@@ -389,6 +389,7 @@ requires-dist = [
     { name = "fake-useragent", specifier = ">=2.2.0" },
     { name = "html-to-markdown", specifier = ">=2.24.5" },
     { name = "playwright", specifier = "<1.61" },
+    { name = "rumdl", specifier = ">=0.2.72" },
     { name = "selectolax", specifier = ">=0.4.6" },
     { name = "tqdm", specifier = ">=4.67.3" },
 ]
@@ -397,7 +398,6 @@ requires-dist = [
 dev = [
     { name = "pytest", specifier = ">=9.0.2" },
     { name = "ruff", specifier = ">=0.16.7" },
-    { name = "rumdl", specifier = ">=0.2.72" },
     { name = "ty", specifier = ">=0.0.80" },
 ]
 

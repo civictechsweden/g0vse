@@ -2,7 +2,7 @@ import errno
 from copy import deepcopy
 
 import fetch
-from services.item_refresh import RefreshPlan
+from services.item_refresh import RefreshPlan, plan_incremental_refresh
 
 
 class Downloader:
@@ -177,3 +177,45 @@ def test_process_all_items_promotes_only_changed_refreshes(monkeypatch, tmp_path
 
     assert [item["url"] for item in result] == ["/new/", "/c/", "/a/", "/b/"]
     assert result[-1] is previous_b
+
+
+def test_forced_refresh_ignores_rumdl_layout_changes(monkeypatch, tmp_path):
+    class LayoutDownloader:
+        def get_webpage(self, url):
+            return (
+                '<div class="col-1"><h1>Title</h1>'
+                '<div class="cl"><p>Before\n# Heading\nAfter</p></div></div>'
+            )
+
+    monkeypatch.chdir(tmp_path)
+    item = {"url": "/example/", "title": "Title", "types": [], "senders": []}
+    downloader = LayoutDownloader()
+    fetch.process_item(item, downloader, {})
+    previous_item = deepcopy(item)
+    markdown_path = tmp_path / "data/example.md"
+    assert "Before\n\n# Heading\n\nAfter" in markdown_path.read_text()
+
+    def unexpected_write(*args):
+        raise AssertionError("identical content should not be rewritten")
+
+    monkeypatch.setattr(fetch.Writer, "write_md", unexpected_write)
+    outcome = fetch.process_item(
+        item, downloader, {}, force_refresh=True, previous_item=previous_item
+    )
+    assert outcome is fetch.ProcessingOutcome.UNCHANGED
+
+
+def test_known_overlong_url_is_excluded_before_refresh_planning():
+    stored = {"url": fetch.EXCLUDED_REFRESH_URL, "title": "Stored title", "id": "ID"}
+    fresh = {**stored, "title": "Changed search title"}
+    # No date fields or timer are needed: exclusion must happen first.
+    candidates = [item for item in [fresh] if fetch.should_refresh_item(item, None)]
+    items, plan = plan_incremental_refresh([{"url": "/first/"}, stored], candidates)
+
+    assert items[1] is stored
+    assert not plan.force_refresh_urls
+    assert not plan.candidate_order
+    assert (
+        fetch.process_item(fresh, None, {}, force_refresh=True)
+        is fetch.ProcessingOutcome.SKIPPED
+    )

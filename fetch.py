@@ -21,6 +21,8 @@ OVERWRITE = False
 ITEMS_PATH = "./data/api/items.json"
 CODES_PATH = "./data/api/codes.json"
 LATEST_UPDATED_PATH = "./data/api/latest_updated.json"
+# This known slug exceeds the filesystem filename limit; retain its stored entry.
+EXCLUDED_REFRESH_URL = "/regeringsuppdrag/2026/06/for-att-starka-kvaliteten-patientsakerheten-och-tryggheten-i-aldreomsorgen-ar-det-avgorande-att-aldre-kan-forsta-och-gora-sig-forstadda.-ett-sprakkrav-ar-darfor-mycket-efterlangtat-och-blir-ett-viktigt-steg-i-vart-arbete-med-att-hoja-kraven-for-personal"
 
 
 class ProcessingOutcome(Enum):
@@ -32,6 +34,8 @@ class ProcessingOutcome(Enum):
 
 def should_refresh_item(item, timer):
     """Select recent pages plus remiss pages that need defensive refreshing."""
+    if item["url"].rstrip("/") == EXCLUDED_REFRESH_URL:
+        return False
     last_updated = Downloader.last_updated(item)
     return last_updated > timer.day_before() or (
         "/remisser/" in item["url"]
@@ -93,6 +97,8 @@ def process_item(
     previous_item=None,
 ):
     url = item["url"]
+    if url.rstrip("/") == EXCLUDED_REFRESH_URL:
+        return ProcessingOutcome.SKIPPED
     md_rel_path = url.strip("/") + ".md"
 
     # Optimization: Use pre-scanned set instead of os.path.exists
@@ -145,20 +151,20 @@ def process_item(
     ]
     item.update(metadata)
 
-    normalized_markdown = Writer.normalize_md(md_content)
+    formatted_markdown = Writer.format_md(md_content)
     item_changed = item != comparison_item
     markdown_changed = True
     if not item_changed and is_existing:
         markdown_path = Path(f"data/{md_rel_path}")
         markdown_changed = (
-            Writer.normalize_md(markdown_path.read_text(encoding="utf-8"))
-            != normalized_markdown
+            Writer.format_md(markdown_path.read_text(encoding="utf-8"))
+            != formatted_markdown
         )
 
     if item_changed or markdown_changed:
         # Write Markdown last. Its presence tells later runs that parsing succeeded.
         try:
-            Writer.write_md(normalized_markdown, f"data/{md_rel_path}")
+            Writer.write_md(formatted_markdown, f"data/{md_rel_path}")
         except OSError as e:
             if e.errno != errno.ENAMETOOLONG:
                 raise
