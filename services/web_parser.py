@@ -1,5 +1,3 @@
-import re
-
 from html_to_markdown import ConversionOptions, convert
 from selectolax.parser import HTMLParser
 
@@ -7,7 +5,6 @@ from selectolax.parser import HTMLParser
 # from .old_chain_parser import extract_old_chains
 from .redirecter import get_final_url
 
-NEWLINES_RE = re.compile(r"\n{3,}")
 CONVERSION_OPTIONS = ConversionOptions(heading_style="atx", bullets="*")
 
 # Selectors
@@ -153,9 +150,8 @@ def extract_text(tree):
         if isinstance(conversion_result, str)
         else conversion_result.content or ""
     )
-    markdown = NEWLINES_RE.sub("\n\n", markdown.strip()).replace("\\.", ".")
 
-    return f"# {title_text}\n\n{markdown}\n"
+    return f"# {title_text}\n\n{markdown}"
 
 
 def extract_metadata(tree, item_url=None):

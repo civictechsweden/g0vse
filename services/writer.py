@@ -1,5 +1,7 @@
 import csv
 import json
+import subprocess
+import sysconfig
 from pathlib import Path
 
 
@@ -21,11 +23,27 @@ class Writer(object):
             dict_writer.writerows(data)
 
     @staticmethod
-    def normalize_md(data):
-        return "\n".join(line.rstrip() for line in data.splitlines()).rstrip() + "\n"
+    def format_md(data):
+        """Use the project formatter for both comparison and publication."""
+        result = subprocess.run(
+            [
+                str(Path(sysconfig.get_path("scripts")) / "rumdl"),
+                "fmt",
+                "--stdin",
+                "--silent",
+                "--config",
+                str(Path(__file__).resolve().parents[1] / "pyproject.toml"),
+            ],
+            input=data,
+            capture_output=True,
+            encoding="utf-8",
+            check=True,
+        )
+        return result.stdout
 
     @staticmethod
     def write_md(data, filename):
+        """Write Markdown already formatted by format_md."""
         Path(filename).parent.mkdir(parents=True, exist_ok=True)
         with open(filename, "w", encoding="utf-8") as file:
-            file.write(Writer.normalize_md(data))
+            file.write(data)
