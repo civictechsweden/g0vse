@@ -1,5 +1,111 @@
 [
     {
+        "title": "Preventiva vistelseförbud",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/09/sou-202662/",
+        "published": "2026-09-30",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1287"
+        ],
+        "summary": "Delbetänkande av Utredningen om nödvärn, tillträdesförbud och preventiva vistelseförbud",
+        "id": "SOU 2026:62",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Preventiva vistelseförbud, SOU 2026:62 (pdf 918 kB)",
+                "url": "/contentassets/1303e289ba1e45e094f2262bc8a00bee/sou_2026_62_pdf-a_webb.pdf"
+            }
+        ],
+        "categories": [
+            "1263",
+            "2690",
+            "2688"
+        ]
+    },
+    {
+        "title": "Några frågor om redovisning och om granskning av hållbarhetsrapporter",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/09/sou-202659/",
+        "published": "2026-09-30",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1287"
+        ],
+        "summary": "Slutbetänkande av Utredningen om vissa frågor om redovisning och granskning av hållbarhetsrapporter",
+        "id": "SOU 2026:59",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Några frågor om redovisning och om granskning av hållbarhetsrapporter, SOU 2026:59 (pdf 1 MB)",
+                "url": "/contentassets/14285ea610b14e6cb5588a3f8399b633/nagra-fragor-om-redovisning-och-om-granskning-av-hallbarhetsrapporter-sou-202659.pdf"
+            }
+        ],
+        "categories": [
+            "1257",
+            "2704",
+            "1012"
+        ]
+    },
+    {
+        "title": "Markerna berättar och minns",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/09/sou-202658/",
+        "published": "2026-09-30",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1288"
+        ],
+        "summary": "Konsekvenser för samer av svensk politik",
+        "id": "SOU 2026:58",
+        "shortcuts": [
+            {
+                "name": "Tilläggsdirektiv till Sanningskommissionen för det samiska folket (Ku 2021:02)",
+                "url": "/rattsliga-dokument/kommittedirektiv/2025/09/dir.-202584"
+            },
+            {
+                "name": "Kartläggning och granskning av den politik som förts gentemot samerna och dess konsekvenser för det samiska folket",
+                "url": "/rattsliga-dokument/kommittedirektiv/2021/11/dir.-2021103"
+            },
+            {
+                "name": "Marken, vattnet, tankarna",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/03/sou-202615/"
+            },
+            {
+                "name": "Pressmeddelande: Sanningskommissionen för det samiska folket överlämnar sin slutrapport",
+                "url": "/pressmeddelanden/2026/09/sanningskommissionen-for-det-samiska-folket-overlamnar-sin-slutrapport/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Markerna berättar och minns, SOU 2026:58, volym 1 (pdf 5 MB)",
+                "url": "/contentassets/dc787ee8ec25446b8115675a94efe781/markerna-berattar-och-minns-sou-202658-volym-1.pdf"
+            },
+            {
+                "name": "Markerna berättar och minns, SOU 2026:58, volym 2 (pdf 3 MB)",
+                "url": "/contentassets/dc787ee8ec25446b8115675a94efe781/markerna-berattar-och-minns-sou-202658-volym-2.pdf"
+            },
+            {
+                "name": "”Jag ber marken tyst om lov”, extra volym till slutrapport av Sanningskommissionen för det samiska folket (pdf 16 MB)",
+                "url": "/contentassets/dc787ee8ec25446b8115675a94efe781/jag-ber-marken-tyst-om-lov-extra-volym-till-slutrapport-av-sanningskommissionen-for-det-samiska-folket.pdf"
+            }
+        ],
+        "categories": [
+            "1219",
+            "2819",
+            "2539"
+        ]
+    },
+    {
         "title": "Sveriges flygplatser i en förändrad omvärld",
         "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/09/sou-202660/",
         "published": "2026-09-30",
