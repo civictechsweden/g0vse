@@ -126,6 +126,12 @@ With a local checkout of the `data` branch in `data/`, run:
 uv run backfill_chains.py --limit 1000
 ```
 
+The terminal shows a progress bar with successful and failed page/view counts,
+followed by the checkpoint coverage and a compact export summary. Counts of
+chains, fetch/parse failures, ambiguous document matches, conflicts and queued
+rechecks are shown without dumping source lists. The full report and affected
+URLs remain in `data/api/chains-report.json`.
+
 Repeat to resume; successful pages are skipped. Failed pages remain eligible.
 Omit `--limit` for the full corpus. Use `--retry` to refresh already completed pages.
 Use `--recheck` to revisit the exact source views queued in the last build report,
