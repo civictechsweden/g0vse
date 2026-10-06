@@ -1,4 +1,5 @@
 import urllib.request
+from urllib.parse import urljoin
 
 from fake_useragent import UserAgent
 
@@ -9,9 +10,9 @@ def get_final_url(url):
     opener = urllib.request.build_opener(urllib.request.HTTPRedirectHandler())
     opener.addheaders = [("User-Agent", UserAgent().random)]
 
-    request = urllib.request.Request(REGERING_URL + url, method="HEAD")
+    request = urllib.request.Request(urljoin(REGERING_URL, url), method="HEAD")
 
-    with opener.open(request) as response:
+    with opener.open(request, timeout=30) as response:
         final_url = response.geturl()
 
     return final_url
