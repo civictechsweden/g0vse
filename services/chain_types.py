@@ -7,7 +7,7 @@ type RedirectResolver = Callable[[str], str]
 
 
 class WebpageDownloader(Protocol):
-    def get_webpage(self, path: str) -> str | None: ...
+    def get_webpage(self, path: str, /) -> str | None: ...
 
 
 class Document(TypedDict):

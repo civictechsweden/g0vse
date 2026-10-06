@@ -13,7 +13,7 @@ from services.chain_parser import (
     normalize_url,
 )
 from services.chain_records import apply_item_chain_references
-from services.chain_types import Actor, Document, Observation, Phase, Stage
+from services.chain_types import Actor, ChainItem, Document, Observation, Phase, Stage
 from services.chains import ChainStore
 
 FIXTURES = Path(__file__).parent / "fixtures/chains"
@@ -156,7 +156,10 @@ def test_build_leaves_items_and_identity_history_unchanged_until_explicitly_appl
     a = observation("/a/", [("/a/", "2020"), ("/b/", "2021")])
     store = store_with(a, {**deepcopy(a), "source": "/b/"})
     store.state["assignments"] = {"/a/": "chain-A", "/b/": "chain-B"}
-    items = [{"url": "/a"}, {"url": "/unrelated/", "chains": ["stale"]}]
+    items: list[ChainItem] = [
+        {"url": "/a"},
+        {"url": "/unrelated/", "chains": ["stale"]},
+    ]
     previous_state = deepcopy(store.state)
     previous_items = deepcopy(items)
 
@@ -328,7 +331,7 @@ def test_backfill_resumes_and_retries_failure(tmp_path):
 
     downloader = Downloader()
     store = ChainStore(tmp_path / "state.json")
-    items = [{"url": "/ok/"}, {"url": "/fail/"}, {"url": "/later/"}]
+    items: list[ChainItem] = [{"url": "/ok/"}, {"url": "/fail/"}, {"url": "/later/"}]
     assert backfill(items, store, downloader, limit=2) == 2
     assert store.state["completed"] == ["/ok/"]
     restored = ChainStore(tmp_path / "state.json")
