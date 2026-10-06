@@ -6,6 +6,9 @@ from pathlib import Path
 
 from tqdm import tqdm
 
+from services.chain_export import publish_json
+from services.chain_records import apply_item_chain_references
+from services.chains import ChainStore
 from services.downloader import Downloader
 from services.item_refresh import (
     RefreshPlan,
@@ -13,6 +16,7 @@ from services.item_refresh import (
     promote_changed_items,
 )
 from services.reader import read_json
+from services.redirecter import get_final_url
 from services.timer import Timer
 from services.web_parser import extract_page
 from services.writer import Writer
@@ -95,6 +99,7 @@ def process_item(
     pbar=None,
     force_refresh=False,
     previous_item=None,
+    chain_store=None,
 ):
     url = item["url"]
     if url.rstrip("/") == EXCLUDED_REFRESH_URL:
@@ -121,7 +126,15 @@ def process_item(
     else:
         print(f"Fetching page at {url}...")
 
-    page = downloader.get_webpage(url)
+    try:
+        page = downloader.get_webpage(url)
+    except Exception as error:
+        if chain_store is None:
+            raise
+        chain_store.failures.append({"source": url, "error": str(error)})
+        return ProcessingOutcome.FAILED
+    if chain_store is not None:
+        chain_store.fetch_views(page, url, downloader, get_final_url)
 
     if not page:
         print(f"Error: {url}")
@@ -180,7 +193,7 @@ def process_item(
     )
 
 
-def process_all_items(items, downloader, codes, refresh_plan=None):
+def process_all_items(items, downloader, codes, refresh_plan=None, chain_store=None):
     refresh_plan = refresh_plan or RefreshPlan()
     # Pre-scan existing Markdown files to avoid thousands of syscalls
     existing_mds = set()
@@ -207,6 +220,7 @@ def process_all_items(items, downloader, codes, refresh_plan=None):
                     pbar=pbar,
                     force_refresh=force_refresh,
                     previous_item=previous_item,
+                    chain_store=chain_store,
                 )
 
                 if (
@@ -230,14 +244,17 @@ def process_all_items(items, downloader, codes, refresh_plan=None):
                 }:
                     processed_count += 1
                     if processed_count % 1000 == 0:
-                        Writer.write_json(items, ITEMS_PATH)
-                        Writer.write_json(codes, CODES_PATH)
+                        if chain_store is not None:
+                            chain_store.save()
 
                 # Periodically trigger garbage collection to free fragmented memory
                 if (i + 1) % 500 == 0:
                     gc.collect()
     except KeyboardInterrupt:
-        print("\nInterrupted by user. Saving progress...")
+        print("\nInterrupted by user. Saving chain observations...")
+        if chain_store is not None:
+            chain_store.save()
+        raise
     except Exception as e:
         print(f"\nCrash detected: {e}")
         # Do not finalize and publish partially parsed search results. A later
@@ -264,7 +281,7 @@ def finalize_data(items, codes, timer):
     Writer.write_json(latest_updated, LATEST_UPDATED_PATH)
 
 
-def export_types(items):
+def export_types(items, files=None):
     types = read_json("./frontend/types.json")
     types_set = set(types)
     type_buckets = {t: [] for t in types}
@@ -280,7 +297,10 @@ def export_types(items):
     for t, bucket_items in tqdm(
         type_buckets.items(), desc="Exporting types", unit="type"
     ):
-        Writer.write_json(bucket_items, f"./data/{t}.json")
+        if files is None:
+            Writer.write_json(bucket_items, f"./data/{t}.json")
+        else:
+            files[f"{t}.json"] = bucket_items
 
 
 def main():
@@ -289,13 +309,25 @@ def main():
     try:
         items, codes, refresh_plan = prepare_items(downloader, timer)
 
-        Writer.write_json(items, ITEMS_PATH)
-        Writer.write_json(codes, CODES_PATH)
-
-        items = process_all_items(items, downloader, codes, refresh_plan)
-
-        finalize_data(items, codes, timer)
-        export_types(items)
+        chain_store = ChainStore("data/.chain-state/state.json")
+        items = process_all_items(items, downloader, codes, refresh_plan, chain_store)
+        chain_export = chain_store.build_export(items)
+        apply_item_chain_references(items, chain_export.item_references)
+        files = {
+            "api/items.json": items,
+            "api/codes.json": {str(key): codes[key] for key in sorted(codes)},
+            "api/latest_updated.json": {
+                "latest_updated": timer.start_string(),
+                "items": len(items),
+                "codes": len(codes),
+            },
+            "api/chains.json": chain_export.collection,
+            "api/chains-report.json": chain_export.report,
+        }
+        export_types(items, files)
+        publish_json(files)
+        chain_store.update_identity_history(chain_export)
+        chain_store.save()
     finally:
         downloader.b.close()
 
