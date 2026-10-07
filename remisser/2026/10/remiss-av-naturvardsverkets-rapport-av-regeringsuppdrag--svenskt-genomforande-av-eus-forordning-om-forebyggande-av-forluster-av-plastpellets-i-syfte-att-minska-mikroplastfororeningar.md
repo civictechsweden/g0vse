@@ -1,6 +1,6 @@
 # Remiss av Naturvårdsverkets rapport av regeringsuppdrag – svenskt genomförande av EU:s förordning om förebyggande av förluster av plastpellets i syfte att minska mikroplastföroreningar
 
-Här kan du ta del av till vilka instanser som regeringen har remittera Naturvårdsverkets rapport av regeringsuppdrag –  
+Här kan du ta del av till vilka instanser som regeringen har remitterat Naturvårdsverkets rapport av regeringsuppdrag –  
 svenskt genomförande av EU:s förordning om förebyggande av  
 förluster av plastpellets i syfte att minska mikroplastföroreningar.
 
