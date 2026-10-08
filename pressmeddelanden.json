@@ -1,5 +1,86 @@
 [
     {
+        "title": "Finansminister Elisabeth Svantesson presenterar ny ekonomisk prognos",
+        "url": "/pressmeddelanden/2026/10/finansminister-elisabeth-svantesson-presenterar-ny-ekonomisk-prognos/",
+        "published": "2026-10-08",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "I dag, torsdag den 8 oktober kl. 14.00, presenterar finansminister Elisabeth Svantesson en ny prognos för den ekonomiska utvecklingen.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1232"
+        ]
+    },
+    {
+        "title": "Regeringen tar emot delbetänkande om preventiva vistelseförbud",
+        "url": "/pressmeddelanden/2026/10/regeringen-tar-emot-delbetankande-om-preventiva-vistelseforbud/",
+        "published": "2026-10-07",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2615",
+            "1287"
+        ],
+        "summary": "Regeringen har tagit emot ett delbetänkande från Utredningen om en starkare nödvärnsrätt och ett effektivare tillträdesförbud. Utredningen föreslår ändringar med syfte att effektivisera användningen av preventiva vistelseförbud.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "SOU 2026:62: Preventiva vistelseförbud",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/09/sou-202662/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1263",
+            "2708",
+            "2690"
+        ]
+    },
+    {
+        "title": "Förslag om nytt system för återkrav inom socialförsäkringen remitteras",
+        "url": "/pressmeddelanden/2026/10/forslag-om-nytt-system-for-aterkrav-inom-socialforsakringen-remitteras/",
+        "published": "2026-10-07",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2609",
+            "1292"
+        ],
+        "summary": "Socialdepartementet remitterar betänkandet Ett nytt system för återkrav inom socialförsäkringen (SOU 2026:39). I betänkandet lämnas förslag om ett nytt regelverk för återkrav av felaktigt utbetalda socialförsäkringsförmåner.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Remiss av Ett nytt system för återkrav inom socialförsäkringen",
+                "url": "/remisser/2026/10/remiss-av-ett-nytt-system-for-aterkrav-inom-socialforsakringen/"
+            },
+            {
+                "name": "Pressmeddelande: Återkrav vid felaktiga utbetalningar",
+                "url": "/pressmeddelanden/2026/06/aterkrav-vid-felaktiga-utbetalningar/"
+            },
+            {
+                "name": "Ett nytt system för återkrav inom socialförsäkringen (SOU 2026:39)",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/06/sou-202639/?_t_id=Y1WLTbYDAaex3TfcCLSZEw%3d%3d&_t_uuid=ubbe2ADfSQWsP1-8YUSf2w&_t_q=%c3%a5terkrav+i+socialf%c3%b6rs%c3%a4kringen&_t_tags=siteid:c5a774ab-a6e3-4456-8f59-3bde614ae911,language:sv,andquerymatch&_t_hit.id=RKWeb_Features_Publication_PublicationPage_PublicationPage/_3055b976-699c-4c33-b85b-d57f64333349_sv&_t_hit.pos=1"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1269"
+        ]
+    },
+    {
         "title": "Regeringen har tagit emot slutbetänkande om redovisningsfrågor",
         "url": "/pressmeddelanden/2026/10/regeringen-har-tagit-emot-slutbetankande-om-redovisningsfragor/",
         "published": "2026-10-06",
