@@ -1,5 +1,81 @@
 [
     {
+        "title": "Stark återhämtning i svensk ekonomi trots global osäkerhet",
+        "url": "/pressmeddelanden/2026/10/stark-aterhamtning-i-svensk-ekonomi-trots-global-osakerhet/",
+        "published": "2026-10-08",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2613",
+            "1285"
+        ],
+        "summary": "Trots fortsatt geopolitisk osäkerhet i mellanöstern står den svenska ekonomin stark. Sveriges ekonomi befinner sig i en konjunkturåterhämtning med goda förutsättningar för tillväxt även framöver. Nästa år bedöms lågkonjunkturen i svensk ekonomi vara över.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Nyckeltal prognos 8 oktober 2026",
+                "url": "/contentassets/82058238fb1847ddb0de9d8d55cbfb01/nyckeltal-prognos-8-oktober-2026.xlsx"
+            },
+            {
+                "name": "Prognoser för den ekonomiska utvecklingen",
+                "url": "/sveriges-regering/finansdepartementet/statens-budget/prognoser/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "(Ny version) Presentationsbilder från pressträff den 8 oktober 2026 om uppdaterad ekonomisk prognos (pdf 1 MB)",
+                "url": "/contentassets/110912c4016d4021981a6d3c4c2ed363/ny-version-presentationsbilder-fran-presstraff-den-8-oktober-2026-om-uppdaterad-ekonomisk-prognos/"
+            }
+        ],
+        "categories": [
+            "1232"
+        ]
+    },
+    {
+        "title": "Sverige tar nästa steg mot att bli part i nytt globalt havsavtal",
+        "url": "/pressmeddelanden/2026/10/sverige-tar-nasta-steg-mot-att-bli-part-i-nytt-globalt-havsavtal/",
+        "published": "2026-10-08",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2621",
+            "2628",
+            "1291",
+            "1295"
+        ],
+        "summary": "Regeringen har i dag beslutat om en proposition med syfte att Sverige ska ansluta sig till det så kallade BBNJ-avtalet. Avtalet handlar om att skydda biologisk mångfald i havsområden utanför nationell jurisdiktion.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2026/27:7 Sveriges tillträde till avtalet inom ramen för FN:s havsrättskonvention om bevarande och hållbar användning av marin biologisk mångfald i områden utanför nationell jurisdiktion",
+                "url": "/rattsliga-dokument/proposition/2026/10/prop.-2026277"
+            },
+            {
+                "name": "Pressmeddelande: Sverige på väg mot att bli part i BBNJ-avtalet",
+                "url": "/pressmeddelanden/2026/08/sverige-pa-vag-mot-att-bli-part-i-bbnj-avtalet/"
+            },
+            {
+                "name": "Pressmeddelande: Utredning presenteras om Sveriges tillträde till det nya globala avtalet till skydd för miljön i världshavet",
+                "url": "/pressmeddelanden/2025/03/utredning-presenteras-om-sveriges-tilltrade-till-det-nya-globala-avtalet-till-skydd-for-miljon-i-varldshavet/"
+            },
+            {
+                "name": "Artikel: Globalt avtal ska skydda världshavet",
+                "url": "/artiklar/2023/03/globalt-avtal-ska-skydda-varldshavet/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2391",
+            "1252",
+            "1013"
+        ]
+    },
+    {
         "title": "Finansminister Elisabeth Svantesson presenterar ny ekonomisk prognos",
         "url": "/pressmeddelanden/2026/10/finansminister-elisabeth-svantesson-presenterar-ny-ekonomisk-prognos/",
         "published": "2026-10-08",
@@ -14,8 +90,18 @@
         ],
         "summary": "I dag, torsdag den 8 oktober kl. 14.00, presenterar finansminister Elisabeth Svantesson en ny prognos för den ekonomiska utvecklingen.",
         "id": null,
-        "shortcuts": [],
-        "attachments": [],
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Stark återhämtning i svensk ekonomi trots global osäkerhetWebb-TV",
+                "url": "/pressmeddelanden/2026/10/stark-aterhamtning-i-svensk-ekonomi-trots-global-osakerhet/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "(Ny version) Presentationsbilder från pressträff den 8 oktober 2026 om uppdaterad ekonomisk prognos (pdf 1 MB)",
+                "url": "/contentassets/69b4dde539284c3aae5b82fd8e637136/ny-version-presentationsbilder-fran-presstraff-den-8-oktober-2026-om-uppdaterad-ekonomisk-prognos/"
+            }
+        ],
         "categories": [
             "1232"
         ]
