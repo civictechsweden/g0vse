@@ -1,5 +1,101 @@
 [
     {
+        "title": "Ebba Busch deltar på lanseringen av superdator",
+        "url": "/pressmeddelanden/2026/10/ebba-busch-deltar-pa-lanseringen-av-superdator/",
+        "published": "2026-10-15",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2612",
+            "1291"
+        ],
+        "summary": "Torsdag den 15 oktober deltar energi- och näringsminister Ebba Busch vid invigningen av Nvidias nya superdator, Sferical One.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "2282",
+            "1257"
+        ]
+    },
+    {
+        "title": "Statsministern deltar i Europeiska rådet i Bryssel",
+        "url": "/pressmeddelanden/2026/10/statsministern-deltar-i-europeiska-radet-i-bryssel/",
+        "published": "2026-10-14",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2605",
+            "1293"
+        ],
+        "summary": "Den 15–16 oktober reser statsminister Ulf Kristersson till Bryssel för möte i Europeiska rådet. EU:s stats- och regeringschefer kommer bland annat att diskutera Europas konkurrenskraft, stödet till Ukraina samt europeisk säkerhet och försvar.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Mer om mötet i Europeiska rådet (rådets webbplats)- extern webbplats,",
+                "url": "https://www.consilium.europa.eu/sv/meetings/european-council/2026/10/15-16/"
+            },
+            {
+                "name": "Om Europeiska rådet (rådets webbplats)- extern webbplats,",
+                "url": "https://www.consilium.europa.eu/sv/european-council/how-the-european-council-works/"
+            },
+            {
+                "name": "Regeringens arbete i Europeiska rådet",
+                "url": "/sverige-i-eu/sveriges-arbete-i-europeiska-radet/"
+            },
+            {
+                "name": "Webb-tv: Ta del av sammanträdet i EU-nämnden (riksdagens webbplats)- extern webbplats,",
+                "url": "https://www.riksdagen.se/sv/webb-tv/video/oppet-sammantrade/oppet-sammantrade-i-eu-namnden_hec220261014st1/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1232",
+            "1226",
+            "2247",
+            "1279",
+            "2781",
+            "2211",
+            "2228",
+            "2584",
+            "1012"
+        ]
+    },
+    {
+        "title": "Pressträff om utredning av informationsdelning vid ambulansuppdrag",
+        "url": "/pressmeddelanden/2026/10/presstraff-om-utredning-av-informationsdelning-vid-ambulansuppdrag/",
+        "published": "2026-10-14",
+        "updated": null,
+        "types": [
+            "1334",
+            "1343"
+        ],
+        "senders": [
+            "2795",
+            "1292"
+        ],
+        "summary": "Torsdag den 15 oktober håller sjukvårdsminister Elisabet Lann pressträff tillsammans med särskild utredare Stefan Jansson. Under pressträffen presenterar utredningen sina förslag till åtgärder för ökad säkerhet för ambulanspersonal.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande 25 nov 2025: Ny utredning ska stärka säkerheten för ambulanspersonal",
+                "url": "/pressmeddelanden/2025/11/ny-utredning-ska-starka-sakerheten-for-ambulanspersonal/"
+            },
+            {
+                "name": "Pressmeddelande 10 mars 2026: Utredning ska stärka informationsdelningen i ambulanssjukvården",
+                "url": "/pressmeddelanden/2026/03/utredning-ska-starka-informationsdelningen-i-ambulanssjukvarden/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1233"
+        ]
+    },
+    {
         "title": "Regeringen deltar på Nordiska rådets session i Helsingfors",
         "url": "/pressmeddelanden/2026/10/regeringen-deltar-pa-nordiska-radets-session-i-helsingfors/",
         "published": "2026-10-13",
