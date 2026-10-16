@@ -1,4 +1,4 @@
-# Remiss av Statens tjänstepensionsverks rapport Värdesäkring av livränta för vissa arbetstagare med icke-statlig anställning
+# Remiss av Statens tjänstepensionsverks rapport Värdesäkring  av livränta för vissa arbetstagare med icke-statlig anställning
 
 Här kan du ta del av svaren från dem som har ombetts att svara på remissen för rapporten Värdesäkring av livränta för vissa arbetstagare med icke-statlig anställning. Eventuella övriga yttranden finns tillgängliga i departementet.
 
