@@ -167,15 +167,17 @@ def test_build_leaves_items_and_identity_history_unchanged_until_explicitly_appl
     assert store.state == previous_state
     assert items == previous_items
     assert store.build_export(items) == export
-    assert export.collection["aliases"] == {"chain-B": ["chain-A"]}
+    assert set(export.collection) == {"chains"}
+    assert export.aliases == {"chain-B": ["chain-A"]}
 
     apply_item_chain_references(items, export.item_references)
-    assert items == [{"url": "/a", "chains": ["chain-A"]}, {"url": "/unrelated/"}]
+    assert items == [{"url": "/a", "chains": ["A"]}, {"url": "/unrelated/"}]
     assert store.state == previous_state
 
     store.update_identity_history(export)
     assert store.state["assignments"] == {"/a/": "chain-A", "/b/": "chain-A"}
     assert store.state["aliases"] == {"chain-B": ["chain-A"]}
+    assert store.state["public_ids"] == {"chain-A": "A", "chain-B": "B"}
 
 
 def test_failed_build_does_not_remember_unpublished_identity_changes(monkeypatch):
@@ -276,11 +278,14 @@ def test_merge_keeps_the_smallest_previous_id_and_aliases_the_other():
     old = set(build_and_apply_export(store, []).collection["chains"])
     # /a/ and /b/ start with different anchor pairs, then /b/ adopts /a/'s pair.
     store.state["observations"]["/b/"] = {**deepcopy(a), "source": "/b/"}
-    merged = build_and_apply_export(store, []).collection
+    export = build_and_apply_export(store, [])
+    merged = export.collection
     assert len(merged["chains"]) == 1
     remaining = next(iter(merged["chains"]))
     assert remaining == min(old)
-    assert merged["aliases"][next(iter(old - {remaining}))] == [remaining]
+    internal_ids = {public: internal for internal, public in export.public_ids.items()}
+    retired = next(iter(old - {remaining}))
+    assert export.aliases[internal_ids[retired]] == [internal_ids[remaining]]
 
 
 def test_split_keeps_one_previous_id_and_aliases_all_successors():
@@ -288,13 +293,19 @@ def test_split_keeps_one_previous_id_and_aliases_all_successors():
     b = observation("/b/", [("/b/", "2021"), ("/c/", "2022")])
     store = store_with(a, {**deepcopy(a), "source": "/b/"})
     remaining = next(iter(build_and_apply_export(store, []).collection["chains"]))
-    # The previously shared chain separates into two anchor pairs. Consumers
-    # holding the old ID must discover both successors, even though it stays live.
+    # The previously shared chain separates into two anchor pairs. The checkpoint
+    # remembers both successors, even though one keeps the old public ID.
     store.state["observations"]["/b/"] = b
-    split = build_and_apply_export(store, []).collection
+    export = build_and_apply_export(store, [])
+    split = export.collection
     assert len(split["chains"]) == 2
     assert remaining in split["chains"]
-    assert set(split["aliases"][remaining]) == set(split["chains"])
+    internal_id = next(
+        i for i, public in export.public_ids.items() if public == remaining
+    )
+    assert {export.public_ids[target] for target in export.aliases[internal_id]} == set(
+        split["chains"]
+    )
 
 
 def test_old_merge_alias_resolves_directly_to_all_live_successors_after_a_split():
@@ -308,8 +319,13 @@ def test_old_merge_alias_resolves_directly_to_all_live_successors_after_a_split(
     retired_id = next(iter(original_ids - {retained_id}))
 
     store.state["observations"]["/b/"] = b
-    split = build_and_apply_export(store, []).collection
-    assert set(split["aliases"][retired_id]) == set(split["chains"])
+    export = build_and_apply_export(store, [])
+    internal_id = next(
+        i for i, public in export.public_ids.items() if public == retired_id
+    )
+    assert {export.public_ids[target] for target in export.aliases[internal_id]} == set(
+        export.collection["chains"]
+    )
 
 
 def test_multiselect_celex_sets_remain_distinct():
@@ -364,6 +380,7 @@ def recheck_runner(monkeypatch, tmp_path):
             return page
 
     monkeypatch.setattr(backfill_chains, "Downloader", Downloader)
+    monkeypatch.setattr(backfill_chains, "report_normalizations", lambda *args: None)
 
     def run(report=None, limit=None):
         if report is not None:
@@ -513,6 +530,7 @@ def test_main_exports_matching_items_types_and_chains(monkeypatch, tmp_path):
     (tmp_path / "frontend/types.json").write_text('["rattsliga-dokument/proposition"]')
     item = {"url": LEGACY_URL, "title": "Title", "types": [], "senders": []}
     monkeypatch.setattr(fetch, "Downloader", Downloader)
+    monkeypatch.setattr(fetch, "report_normalizations", lambda *args: None)
     monkeypatch.setattr(
         fetch, "prepare_items", lambda *args: ([item], {}, RefreshPlan())
     )

@@ -45,7 +45,7 @@ The fetcher exports legislative chains in `api/chains.json`, with lightweight
 `chains` references on participating page objects. The collection preserves
 phases, actors, stages and document memberships, including external documents.
 Historical coverage requires a resumable backfill. See [the chain API documentation](docs/chains.md)
-for the schema, deterministic identity and alias policy, data-quality semantics,
+for the schema, deterministic identity, data-quality semantics,
 build report and backfill commands.
 
 ### Data quality issues

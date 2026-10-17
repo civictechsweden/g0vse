@@ -9,6 +9,7 @@ from fetch import export_types
 from services.chain_export import publish_json
 from services.chain_parser import normalize_url
 from services.chain_records import apply_item_chain_references
+from services.chain_reporting import previous_normalizations, report_normalizations
 from services.chain_types import ChainItem, ChainReport, WebpageDownloader
 from services.chains import ChainStore
 from services.downloader import Downloader
@@ -138,6 +139,11 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--limit", type=int)
     parser.add_argument(
+        "--export-only",
+        action="store_true",
+        help="Rebuild from stored observations without fetching pages",
+    )
+    parser.add_argument(
         "--retry", action="store_true", help="Refresh even completed pages"
     )
     parser.add_argument(
@@ -148,19 +154,35 @@ def main():
     args = parser.parse_args()
     if args.limit is not None and args.limit < 1:
         parser.error("--limit must be positive")
+    if args.export_only and (args.retry or args.recheck or args.limit is not None):
+        parser.error(
+            "--export-only cannot be combined with --retry, --recheck or --limit"
+        )
     print("Loading page index and chain checkpoints...", flush=True)
     items = read_json("data/api/items.json")
     store = ChainStore(Path("data/.chain-state/state.json"))
-    print(f"Loaded {len(items):,} pages. Starting browser...", flush=True)
-    downloader = Downloader()
+    codes_path = Path("data/api/codes.json")
+    codes = read_json(codes_path) if codes_path.exists() else {}
+    previous = previous_normalizations()
+    print(f"Loaded {len(items):,} pages.", flush=True)
+    downloader = None if args.export_only else Downloader()
     try:
         pending_source_views = set()
-        if args.recheck:
+        if args.export_only:
+            quality_path = Path("data/api/chains-report.json")
+            if quality_path.exists():
+                previous_quality = read_json(quality_path)
+                store.failures.extend(previous_quality.get("failures", []))
+                pending_source_views.update(previous_quality.get("recheck", []))
+            print("Rebuilding saved observations without fetching pages.", flush=True)
+        elif args.recheck:
+            assert downloader is not None
             report = read_json("data/api/chains-report.json")
             pending_source_views = recheck(report, store, downloader, args.limit)
             attempted = len(report["recheck"]) - len(pending_source_views)
             print(f"Rechecked {attempted:,} source views this run.", flush=True)
         else:
+            assert downloader is not None
             attempted = backfill(items, store, downloader, args.limit, args.retry)
             item_urls = {item["url"] for item in items}
             completed = item_urls & set(store.state["completed"])
@@ -171,12 +193,13 @@ def main():
                 flush=True,
             )
         print("Building chain records and quality report...", flush=True)
-        chain_export = store.build_export(items, pending_source_views)
+        chain_export = store.build_export(items, pending_source_views, codes=codes)
         apply_item_chain_references(items, chain_export.item_references)
         files = {
             "api/items.json": items,
             "api/chains.json": chain_export.collection,
             "api/chains-report.json": chain_export.report,
+            "api/chains-normalization.json": chain_export.normalization_report,
         }
         print("Publishing item, type, chain and report files...", flush=True)
         export_types(items, files)
@@ -184,8 +207,10 @@ def main():
         store.update_identity_history(chain_export)
         store.save()
         print_summary(chain_export.report)
+        report_normalizations(chain_export.normalization_report, previous)
     finally:
-        downloader.b.close()
+        if downloader is not None:
+            downloader.b.close()
 
 
 if __name__ == "__main__":
