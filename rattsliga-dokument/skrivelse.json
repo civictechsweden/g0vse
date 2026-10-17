@@ -4159,6 +4159,9 @@
             "1235",
             "1242",
             "1257"
+        ],
+        "chains": [
+            "e49d113173f995c8"
         ]
     },
     {
@@ -8794,6 +8797,9 @@
         "categories": [
             "1276",
             "1242"
+        ],
+        "chains": [
+            "60c544f7617b09ff"
         ]
     },
     {
@@ -8849,6 +8855,9 @@
         ],
         "categories": [
             "1219"
+        ],
+        "chains": [
+            "7c0a96c0bd960996"
         ]
     },
     {
@@ -9022,6 +9031,9 @@
         ],
         "categories": [
             "1242"
+        ],
+        "chains": [
+            "039d16f855548851"
         ]
     },
     {
@@ -9085,6 +9097,9 @@
         ],
         "categories": [
             "2246"
+        ],
+        "chains": [
+            "86c24ee038e02bbf"
         ]
     },
     {
@@ -13249,6 +13264,9 @@
         ],
         "categories": [
             "1219"
+        ],
+        "chains": [
+            "cc2e1b7d2f31d59c"
         ]
     },
     {
@@ -18093,7 +18111,10 @@
                 "url": "/contentassets/d6bef7ab754e4a3ca81436b6ec49af72/patientrorlighet-inom-ees--kompletterande-forslag-for-tandvarden_ds2015-52.pdf"
             }
         ],
-        "categories": []
+        "categories": [],
+        "chains": [
+            "4bd3983c7ca3a903"
+        ]
     },
     {
         "title": "Riksrevisionens rapport Arktiska rådet - vad Sverige kan göra för att möta rådets utmaningar",
@@ -18146,6 +18167,9 @@
         ],
         "categories": [
             "1233"
+        ],
+        "chains": [
+            "0e593ee2a3b7df8e"
         ]
     },
     {

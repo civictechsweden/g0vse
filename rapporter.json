@@ -1057,6 +1057,9 @@
             "1226",
             "2749",
             "2811"
+        ],
+        "chains": [
+            "96553f4b88e7b2aa"
         ]
     },
     {
@@ -6213,6 +6216,9 @@
         ],
         "categories": [
             "1248"
+        ],
+        "chains": [
+            "540c34dad591ef94"
         ]
     },
     {
@@ -6561,6 +6567,9 @@
         "categories": [
             "2282",
             "1257"
+        ],
+        "chains": [
+            "b46292a379a765ae"
         ]
     },
     {
@@ -14845,6 +14854,9 @@
         ],
         "categories": [
             "1278"
+        ],
+        "chains": [
+            "88c1db6873d591ac"
         ]
     },
     {
@@ -14990,6 +15002,9 @@
         ],
         "categories": [
             "1277"
+        ],
+        "chains": [
+            "74aa95e45ef5c331"
         ]
     },
     {
@@ -15059,6 +15074,9 @@
         ],
         "categories": [
             "1277"
+        ],
+        "chains": [
+            "74aa95e45ef5c331"
         ]
     },
     {
@@ -15199,6 +15217,9 @@
         ],
         "categories": [
             "1277"
+        ],
+        "chains": [
+            "8c85f2bf3a664d6b"
         ]
     },
     {
@@ -15243,7 +15264,10 @@
                 "url": "/contentassets/31c4a8268d8f4f888448fa68a6527d9d/riksinternatskolor/"
             }
         ],
-        "categories": []
+        "categories": [],
+        "chains": [
+            "7bd71eec4d816471"
+        ]
     },
     {
         "title": "Avgifter inom ramen för ett utbildningssamarbete inom högskoleutbildning",
@@ -15348,7 +15372,10 @@
                 "url": "/contentassets/2745cb269c82427fbc566d1ee51c571c/larlingsutbildning-och-arbetsplatsforlagt-larande-inom-gymnasieskolan-och-gymnasiesarskolan/"
             }
         ],
-        "categories": []
+        "categories": [],
+        "chains": [
+            "fe839586e5c47307"
+        ]
     },
     {
         "title": "En nationell referensram för kvalifikationer för livslångt lärande",
@@ -15390,7 +15417,10 @@
                 "url": "/contentassets/05bca580513145848ee4e9aa1dea934d/en-battre-skolstart-for-alla-bedomning-och-betyg-for-progression-i-larandet/"
             }
         ],
-        "categories": []
+        "categories": [],
+        "chains": [
+            "e74a163e760043a4"
+        ]
     },
     {
         "title": "Vissa skollagsfrågor - Del 2",
@@ -15411,7 +15441,10 @@
                 "url": "/contentassets/201a8dfe3a134dc599d003b9ba3a41b6/vissa-skollagsfragor---del-2/"
             }
         ],
-        "categories": []
+        "categories": [],
+        "chains": [
+            "5624543dfbc6ab5f"
+        ]
     },
     {
         "title": "Internationella skolor",
@@ -15434,6 +15467,9 @@
         ],
         "categories": [
             "1276"
+        ],
+        "chains": [
+            "26f8077f46a68695"
         ]
     },
     {
@@ -22974,6 +23010,9 @@
         "categories": [
             "1217",
             "1263"
+        ],
+        "chains": [
+            "7dac2d5867c01d50"
         ]
     },
     {
@@ -22997,6 +23036,9 @@
         ],
         "categories": [
             "1263"
+        ],
+        "chains": [
+            "c4f7bb2cd731e818"
         ]
     },
     {
@@ -23067,6 +23109,9 @@
         "categories": [
             "1224",
             "1263"
+        ],
+        "chains": [
+            "2f7c34f929440f62"
         ]
     },
     {
@@ -23092,6 +23137,9 @@
             "1224",
             "1263",
             "1012"
+        ],
+        "chains": [
+            "a016564edc808a09"
         ]
     },
     {
@@ -23166,6 +23214,9 @@
         ],
         "categories": [
             "1263"
+        ],
+        "chains": [
+            "d5370d19abc56890"
         ]
     },
     {
