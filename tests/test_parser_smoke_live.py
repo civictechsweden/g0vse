@@ -1,5 +1,7 @@
 import pytest
 
+from services.agendas.fetcher import fingerprint, query_url
+from services.agendas.parser import listing_root, parse_fragment, weekly_context
 from services.chains.parser import extract_chains, memberships, normalize_url
 from services.downloader import Downloader
 from services.redirecter import get_final_url
@@ -10,6 +12,7 @@ pytestmark = [pytest.mark.live, pytest.mark.smoke]
 SOU_URL = "/rattsliga-dokument/statens-offentliga-utredningar/2026/02/sou-202612/"
 PROPOSITION_URL = "/rattsliga-dokument/proposition/2019/11/prop.-20192038/"
 EU_URL = "/kommenterade-dagordningar/2026/06/kommenterad-dagordning-radet-for-ekonomiska-och-finansiella-fragor-den-12-juni-2026/"
+AGENDA_URL = "/regeringsarenden/regeringsarenden-vecka-42-2026/"
 
 
 # These are old, immutable publications whose metadata and files should not
@@ -151,3 +154,22 @@ def test_eu_chain_keeps_selected_proposal_actors_and_alternate_views(downloader)
         normalize_url(EU_URL + "?id=52025PC0941;52025PC0942;52025PC0943", view=True)
         in choices
     )
+
+
+def test_weekly_agenda_keeps_content_and_case_api_paginates(downloader):
+    html = downloader.get_webpage(AGENDA_URL)
+    assert html is not None
+    markdown, _ = extract_page(html, AGENDA_URL)
+    assert markdown and "### Justitiedepartementet" in markdown
+    assert markdown.count("En ny produktansvarslag") == 1
+    weekly, _ = weekly_context(html, AGENDA_URL, 2026, 42)
+    product = next(r for r in weekly if "produktansvarslag" in r["title"])
+    assert product["meeting_date"] == "2026-10-15"
+    assert product["journal_ids"] == ["Ju2025/02091", "Ju2026/01836", "Ju2026/"]
+    root, _ = listing_root(html)
+    total, first = parse_fragment(downloader.b.get_json(query_url(root, 1, 2)))
+    second_total, second = parse_fragment(downloader.b.get_json(query_url(root, 2, 2)))
+    assert total == second_total and total >= 4
+    assert len(first) == len(second) == 2
+    assert not {fingerprint(r) for r in first} & {fingerprint(r) for r in second}
+    assert {r["source"] for r in first + second} == {AGENDA_URL}

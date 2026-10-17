@@ -33,6 +33,8 @@ The logic behind the API routes is to follow the structure of the government's w
 
 The route [/api/latest_updated.json](https://g0v.se/api/latest_updated.json) can be used to know when the data was latest updated.
 
+Individual planned government meeting agenda entries are available at [/api/regeringsarenden.json](https://g0v.se/api/regeringsarenden.json). See the [schema and historical coverage](docs/regeringsarenden.md).
+
 In addition, the text of each page is available as Markdown. For example, [regeringen.se/artiklar/2024/10/sjukvardsminister-[...]-sjukvarden/](https://regeringen.se/artiklar/2024/10/sjukvardsminister-acko-ankarberg-johansson-om-budgetsatsningar-pa-halso--och-sjukvarden/) is available at [g0v.se/artiklar/2024/10/sjukvardsminister-[...]-sjukvarden.md](https://g0v.se/artiklar/2024/10/sjukvardsminister-acko-ankarberg-johansson-om-budgetsatsningar-pa-halso--och-sjukvarden.md).
 
 If you are unsure of what is available, you can try the [URL converter](https://g0v.se) or browse the files on [Github](https://github.com/civictechsweden/g0vse/tree/data).
