@@ -1,4 +1,8 @@
+import pytest
+
 from services.web_parser import extract_page
+
+pytestmark = pytest.mark.smoke
 
 
 def test_extract_page_with_current_html_to_markdown_result():

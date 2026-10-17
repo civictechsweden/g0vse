@@ -16,6 +16,8 @@ from services.chains.parser import (
 from services.chains.records import apply_item_chain_references
 from services.chains.types import Actor, ChainItem, Document, Observation, Phase, Stage
 
+pytestmark = pytest.mark.smoke
+
 FIXTURES = Path(__file__).parent / "fixtures/chains"
 LEGACY_URL = "/rattsliga-dokument/proposition/2019/11/prop.-20192038/"
 EU_URL = "/kommenterade-dagordningar/2026/06/kommenterad-dagordning-radet-for-ekonomiska-och-finansiella-fragor-den-12-juni-2026/"
