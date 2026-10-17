@@ -1,8 +1,6 @@
 from html_to_markdown import ConversionOptions, convert
 from selectolax.parser import HTMLParser
 
-# from .new_chain_parser import extract_new_chains
-# from .old_chain_parser import extract_old_chains
 from .redirecter import get_final_url
 
 CONVERSION_OPTIONS = ConversionOptions(heading_style="atx", bullets="*")
