@@ -4,17 +4,17 @@ from pathlib import Path
 
 import pytest
 
-from backfill_chains import backfill
-from services.chain_export import publish_json
-from services.chain_parser import (
+from scripts.backfill_chains import backfill
+from services.chains import ChainStore
+from services.chains.export import publish_json
+from services.chains.parser import (
     ChainParseError,
     extract_chains,
     memberships,
     normalize_url,
 )
-from services.chain_records import apply_item_chain_references
-from services.chain_types import Actor, ChainItem, Document, Observation, Phase, Stage
-from services.chains import ChainStore
+from services.chains.records import apply_item_chain_references
+from services.chains.types import Actor, ChainItem, Document, Observation, Phase, Stage
 
 FIXTURES = Path(__file__).parent / "fixtures/chains"
 LEGACY_URL = "/rattsliga-dokument/proposition/2019/11/prop.-20192038/"
@@ -83,10 +83,10 @@ def test_tooltip_icon_does_not_mask_unrecognized_current_page_markup():
     store = ChainStore()
     html = fixture("domestic")
     store.observe(html, "/sou/", resolve=resolve)
-    previous = deepcopy(store.state["observations"])
+    previous = deepcopy(store.observations)
     changed = html.replace('aria-current="true"', 'data-current="true"')
     assert store.observe(changed, "/sou/", resolve=resolve) is None
-    assert store.state["observations"] == previous
+    assert store.observations == previous
     assert store.failures == [
         {"source": "/sou/", "error": "Unrecognized document/current-page markup"}
     ]
@@ -131,15 +131,15 @@ def observation(source, documents, celex=None) -> Observation:
 
 def store_with(*observations):
     store = ChainStore()
-    store.state["observations"] = {o["source"]: o for o in observations}
+    store.observations = {o["source"]: o for o in observations}
     return store
 
 
 def build_and_apply_export(store, items):
-    """Simulate a completed export, including item references and remembered IDs."""
+    """Simulate a completed export, including item references and the published baseline."""
     export = store.build_export(items)
     apply_item_chain_references(items, export.item_references)
-    store.update_identity_history(export)
+    store.baseline = deepcopy(export.collection)
     return export
 
 
@@ -152,47 +152,19 @@ def test_clean_rerun_is_identical_independent_of_discovery_order():
     assert len(first["chains"]) == 1
 
 
-def test_build_leaves_items_and_identity_history_unchanged_until_explicitly_applied():
-    a = observation("/a/", [("/a/", "2020"), ("/b/", "2021")])
-    store = store_with(a, {**deepcopy(a), "source": "/b/"})
-    store.state["assignments"] = {"/a/": "chain-A", "/b/": "chain-B"}
-    items: list[ChainItem] = [
-        {"url": "/a"},
-        {"url": "/unrelated/", "chains": ["stale"]},
-    ]
-    previous_state = deepcopy(store.state)
-    previous_items = deepcopy(items)
-
-    export = store.build_export(items)
-    assert store.state == previous_state
-    assert items == previous_items
-    assert store.build_export(items) == export
-    assert set(export.collection) == {"chains"}
-    assert export.aliases == {"chain-B": ["chain-A"]}
-
-    apply_item_chain_references(items, export.item_references)
-    assert items == [{"url": "/a", "chains": ["A"]}, {"url": "/unrelated/"}]
-    assert store.state == previous_state
-
-    store.update_identity_history(export)
-    assert store.state["assignments"] == {"/a/": "chain-A", "/b/": "chain-A"}
-    assert store.state["aliases"] == {"chain-B": ["chain-A"]}
-    assert store.state["public_ids"] == {"chain-A": "A", "chain-B": "B"}
-
-
 def test_failed_build_does_not_remember_unpublished_identity_changes(monkeypatch):
-    import services.chains
+    import services.chains.store
 
     store = store_with(observation("/a/", [("/a/", "2020")]))
-    previous_state = deepcopy(store.state)
+    previous_state = deepcopy(store.observations)
 
     def fail_projection(*args):
         raise RuntimeError("Cannot build public records")
 
-    monkeypatch.setattr(services.chains, "build_chain_records", fail_projection)
+    monkeypatch.setattr(services.chains.store, "build_chain_records", fail_projection)
     with pytest.raises(RuntimeError, match="Cannot build public records"):
         store.build_export([])
-    assert store.state == previous_state
+    assert store.observations == previous_state
 
 
 @pytest.mark.parametrize("initial", [1, 2])
@@ -233,28 +205,6 @@ def test_one_shared_document_does_not_merge_and_references_resolve():
     assert export.report["recheck"] == ["/a/", "/b/"]
 
 
-def test_refresh_replaces_observation_failure_preserves_and_reports(tmp_path):
-    store = ChainStore(tmp_path / "state.json")
-    store.observe(fixture("legacy"), LEGACY_URL)
-    original = deepcopy(store.state["observations"])
-    assert store.observe(None, LEGACY_URL) is None
-    assert store.observe('<div id="accordion--chain">broken</div>', LEGACY_URL) is None
-    assert store.state["observations"] == original
-    export = build_and_apply_export(store, [])
-    assert export.report["parser_failures"] == 2
-    store.save()
-    restored = ChainStore(tmp_path / "state.json")
-    assert restored.state == store.state
-    restored.observe(
-        fixture("legacy").replace("202080.html", "202099.html"), LEGACY_URL
-    )
-    assert len(restored.state["observations"]) == 1
-    assert (
-        restored.state["observations"][LEGACY_URL]["content_hash"]
-        != original[LEGACY_URL]["content_hash"]
-    )
-
-
 def test_conflicting_views_are_preserved_and_missing_members_are_not_deleted():
     a = observation("/a/", [("/a/", "2020"), ("/b/", "2021"), ("/c/", "2022")])
     b = observation("/b/", [("/a/", "2020"), ("/b/", "2021")])
@@ -271,63 +221,6 @@ def test_conflicting_views_are_preserved_and_missing_members_are_not_deleted():
     assert export.report["conflicting_observations"] == 1
 
 
-def test_merge_keeps_the_smallest_previous_id_and_aliases_the_other():
-    a = observation("/a/", [("/a/", "2020"), ("/b/", "2021")])
-    b = observation("/b/", [("/b/", "2021"), ("/c/", "2022")])
-    store = store_with(a, b)
-    old = set(build_and_apply_export(store, []).collection["chains"])
-    # /a/ and /b/ start with different anchor pairs, then /b/ adopts /a/'s pair.
-    store.state["observations"]["/b/"] = {**deepcopy(a), "source": "/b/"}
-    export = build_and_apply_export(store, [])
-    merged = export.collection
-    assert len(merged["chains"]) == 1
-    remaining = next(iter(merged["chains"]))
-    assert remaining == min(old)
-    internal_ids = {public: internal for internal, public in export.public_ids.items()}
-    retired = next(iter(old - {remaining}))
-    assert export.aliases[internal_ids[retired]] == [internal_ids[remaining]]
-
-
-def test_split_keeps_one_previous_id_and_aliases_all_successors():
-    a = observation("/a/", [("/a/", "2020"), ("/b/", "2021")])
-    b = observation("/b/", [("/b/", "2021"), ("/c/", "2022")])
-    store = store_with(a, {**deepcopy(a), "source": "/b/"})
-    remaining = next(iter(build_and_apply_export(store, []).collection["chains"]))
-    # The previously shared chain separates into two anchor pairs. The checkpoint
-    # remembers both successors, even though one keeps the old public ID.
-    store.state["observations"]["/b/"] = b
-    export = build_and_apply_export(store, [])
-    split = export.collection
-    assert len(split["chains"]) == 2
-    assert remaining in split["chains"]
-    internal_id = next(
-        i for i, public in export.public_ids.items() if public == remaining
-    )
-    assert {export.public_ids[target] for target in export.aliases[internal_id]} == set(
-        split["chains"]
-    )
-
-
-def test_old_merge_alias_resolves_directly_to_all_live_successors_after_a_split():
-    a = observation("/a/", [("/a/", "2020"), ("/b/", "2021")])
-    b = observation("/b/", [("/b/", "2021"), ("/c/", "2022")])
-    store = store_with(a, b)
-    original_ids = set(build_and_apply_export(store, []).collection["chains"])
-    store.state["observations"]["/b/"] = {**deepcopy(a), "source": "/b/"}
-    merged = build_and_apply_export(store, []).collection
-    retained_id = next(iter(merged["chains"]))
-    retired_id = next(iter(original_ids - {retained_id}))
-
-    store.state["observations"]["/b/"] = b
-    export = build_and_apply_export(store, [])
-    internal_id = next(
-        i for i, public in export.public_ids.items() if public == retired_id
-    )
-    assert {export.public_ids[target] for target in export.aliases[internal_id]} == set(
-        export.collection["chains"]
-    )
-
-
 def test_multiselect_celex_sets_remain_distinct():
     docs = [("/shared/", "2020"), ("/other/", "2021")]
     store = store_with(
@@ -337,27 +230,9 @@ def test_multiselect_celex_sets_remain_distinct():
     assert len(store.build_export([]).collection["chains"]) == 2
 
 
-def test_backfill_resumes_and_retries_failure(tmp_path):
-    class Downloader:
-        calls = []
-
-        def get_webpage(self, url):
-            self.calls.append(url)
-            return None if url == "/fail/" else fixture("legacy")
-
-    downloader = Downloader()
-    store = ChainStore(tmp_path / "state.json")
-    items: list[ChainItem] = [{"url": "/ok/"}, {"url": "/fail/"}, {"url": "/later/"}]
-    assert backfill(items, store, downloader, limit=2) == 2
-    assert store.state["completed"] == ["/ok/"]
-    restored = ChainStore(tmp_path / "state.json")
-    assert backfill(items, restored, downloader) == 2
-    assert downloader.calls == ["/ok/", "/fail/", "/fail/", "/later/"]
-
-
 @pytest.fixture
 def recheck_runner(monkeypatch, tmp_path):
-    import backfill_chains
+    from scripts import backfill_chains
 
     monkeypatch.chdir(tmp_path)
     (tmp_path / "frontend").mkdir()
@@ -368,6 +243,14 @@ def recheck_runner(monkeypatch, tmp_path):
     (api / "items.json").write_text("[]")
     calls = []
     pages = {}
+    stores = []
+
+    class CapturingStore(ChainStore):
+        def __init__(self, baseline=None):
+            super().__init__(baseline)
+            stores.append(self)
+
+    monkeypatch.setattr(backfill_chains, "ChainStore", CapturingStore)
 
     class Downloader:
         b = type("Browser", (), {"close": lambda self: None})()
@@ -384,37 +267,50 @@ def recheck_runner(monkeypatch, tmp_path):
 
     def run(report=None, limit=None):
         if report is not None:
-            (api / "chains-report.json").write_text(json.dumps(report))
-        args = ["backfill_chains.py", "--recheck"]
+            (tmp_path / "recheck.json").write_text(json.dumps(report))
+        reports = tmp_path / "reports"
+        source = (
+            tmp_path / "recheck.json"
+            if report is not None
+            else reports / "chains-report.json"
+        )
+        args = [
+            "backfill_chains",
+            "--recheck",
+            str(source),
+            "--report-dir",
+            str(reports),
+        ]
         if limit is not None:
             args.extend(["--limit", str(limit)])
         monkeypatch.setattr("sys.argv", args)
         backfill_chains.main()
-        return json.loads((api / "chains-report.json").read_text())
+        assert not (api / "chains-report.json").exists()
+        assert not (api / "chains-normalization.json").exists()
+        return json.loads((reports / "chains-report.json").read_text())
 
-    return run, pages, calls, tmp_path
+    return run, pages, calls, tmp_path, stores
 
 
 @pytest.mark.parametrize("selector", ["", "52025PC0989", "52025PC0942;52025PC0941"])
 def test_recheck_fetches_exact_queued_selector_without_a_chooser(
     recheck_runner, selector
 ):
-    run, pages, calls, root = recheck_runner
+    run, pages, calls, root, stores = recheck_runner
     source = normalize_url("/a/?id=" + selector, view=True)
     pages[source] = fixture("legacy")
     report = run(
         {"recheck": [source], "failures": [{"source": source, "error": "Timeout"}]}
     )
     assert calls == [source]
-    store = ChainStore(root / "data/.chain-state/state.json")
-    parsed = store.state["observations"][source]
+    parsed = stores[-1].observations[source]
     assert parsed["item_url"] == "/a/"
     assert {d["url"] for *_, d in memberships(parsed) if d["current_page"]} == {"/a/"}
     assert report["failures"] == report["recheck"] == []
 
 
 def test_bounded_recheck_preserves_unattempted_failures_and_resumes(recheck_runner):
-    run, pages, calls, _ = recheck_runner
+    run, pages, calls, _, _ = recheck_runner
     pages.update(
         {url: '<div class="col-1"><h1>No chain</h1></div>' for url in ("/a/", "/b/")}
     )
@@ -430,18 +326,18 @@ def test_bounded_recheck_preserves_unattempted_failures_and_resumes(recheck_runn
 
 
 def test_recheck_retains_observation_and_queues_a_new_failure(recheck_runner):
-    run, pages, calls, root = recheck_runner
+    run, pages, calls, root, stores = recheck_runner
     source = "/a/?id=52025PC0989"
-    store = ChainStore(root / "data/.chain-state/state.json")
+    store = ChainStore()
     store.observe(fixture("legacy"), "/a/", source)
-    previous = deepcopy(store.state["observations"])
-    store.save()
+    previous = store.build_export([]).collection
+    (root / "data/api/chains.json").write_text(json.dumps(previous))
     pages[source] = TimeoutError("New timeout")
     report = run(
         {"recheck": [source], "failures": [{"source": source, "error": "Old timeout"}]}
     )
     assert calls == [source]
-    assert ChainStore(store.path).state["observations"] == previous
+    assert json.loads((root / "data/api/chains.json").read_text()) == previous
     assert report["recheck"] == [source]
     assert report["failures"] == [{"source": source, "error": "New timeout"}]
 
@@ -461,7 +357,7 @@ def test_empty_selector_and_alternate_view_failure_preserve_observation():
     store = ChainStore()
     failed_view = EU_URL + "?id="
     store.observe(html, EU_URL, failed_view, resolve)
-    previous = deepcopy(store.state["observations"][failed_view])
+    previous = deepcopy(store.observations[failed_view])
 
     class Downloader:
         calls = []
@@ -476,7 +372,7 @@ def test_empty_selector_and_alternate_view_failure_preserve_observation():
     assert not store.fetch_views(html, EU_URL, downloader, resolve)
     assert failed_view in downloader.calls
     assert len(downloader.calls) == len(set(downloader.calls)) == 2
-    assert store.state["observations"][failed_view] == previous
+    assert store.observations[failed_view] == previous
     assert store.failures == [{"source": failed_view, "error": "Test timeout"}]
 
 
@@ -507,12 +403,12 @@ def test_recognized_absence_removes_only_its_own_observation():
 
 def test_unknown_layout_does_not_clear_previous_observation():
     store = store_with(observation("/a/", [("/a/", "2020")]))
-    before = deepcopy(store.state["observations"])
+    before = deepcopy(store.observations)
     store.observe(
         '<div class="col-1"><h1>Title</h1><h2>Lagstiftningskedja</h2><section>New format</section></div>',
         "/a/",
     )
-    assert store.state["observations"] == before
+    assert store.observations == before
 
 
 def test_main_exports_matching_items_types_and_chains(monkeypatch, tmp_path):
@@ -542,4 +438,35 @@ def test_main_exports_matching_items_types_and_chains(monkeypatch, tmp_path):
     collection = json.loads((tmp_path / "data/api/chains.json").read_text())
     assert items == types
     assert all(cid in collection["chains"] for item in items for cid in item["chains"])
-    assert (tmp_path / "data/.chain-state/state.json").exists()
+    assert not (tmp_path / "data/.chain-state").exists()
+    assert not (tmp_path / "data/api/chains-report.json").exists()
+    assert not (tmp_path / "data/api/chains-normalization.json").exists()
+
+
+def test_backfill_selects_a_range_without_persistent_progress():
+    class Downloader:
+        def __init__(self):
+            self.calls = []
+
+        def get_webpage(self, url):
+            self.calls.append(url)
+            return '<div class="col-1"><h1>No chain</h1></div>'
+
+    downloader = Downloader()
+    store = ChainStore()
+    items: list[ChainItem] = [{"url": "/a/"}, {"url": "/b/"}, {"url": "/c/"}]
+    assert backfill(items, store, downloader, limit=1, offset=1) == 1
+    assert downloader.calls == ["/b/"]
+    assert backfill(items, store, downloader, limit=1, offset=2) == 1
+    assert downloader.calls == ["/b/", "/c/"]
+
+
+def test_selector_views_rebuild_from_public_records_without_id_churn():
+    for selector in ("", "52025PC0989", "52025PC0941;52025PC0942;52025PC0943"):
+        source = EU_URL + "?id=" + selector
+        original = ChainStore()
+        original.observe(fixture("eu"), EU_URL, source, resolve)
+        baseline = original.build_export([]).collection
+        refreshed = ChainStore(baseline)
+        refreshed.observe(fixture("eu"), EU_URL, source, resolve)
+        assert refreshed.build_export([]).collection == baseline

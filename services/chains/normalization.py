@@ -10,9 +10,9 @@ from collections.abc import Iterable
 from dataclasses import dataclass
 from urllib.parse import parse_qs, unquote, urlsplit
 
-from services.chain_diagnostics import FindingContext, NormalizationLog
-from services.chain_parser import normalize_url
-from services.chain_types import (
+from services.chains.diagnostics import FindingContext, NormalizationLog
+from services.chains.parser import normalize_url
+from services.chains.types import (
     ChainCollection,
     ChainItem,
     ChainStage,

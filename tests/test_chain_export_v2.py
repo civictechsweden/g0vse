@@ -1,20 +1,23 @@
 import json
 from copy import deepcopy
 
-from services.chain_reconciliation import Reconciliation, assign_public_ids
-from services.chain_reporting import render_normalization_report, report_normalizations
-from services.chain_types import ChainItem, Document, Observation, Stage
 from services.chains import ChainStore
-
-IDENTITY = "chain-0123456789abcdef" + "0" * 48
-PUBLIC_ID = "0123456789abcdef"
+from services.chains.reconciliation import assign_public_ids
+from services.chains.reporting import render_normalization_report, report_normalizations
+from services.chains.types import (
+    ChainCollection,
+    ChainItem,
+    Document,
+    Observation,
+    Stage,
+)
 
 
 def document(url, date=None, title="Source title") -> Document:
     return {"url": url, "date": date, "title": title, "current_page": False}
 
 
-def store_for(stages: list[Stage[Document]], path=None) -> ChainStore:
+def store_for(stages: list[Stage[Document]]) -> ChainStore:
     observation: Observation = {
         "source": "/source/",
         "item_url": "/source/",
@@ -30,14 +33,15 @@ def store_for(stages: list[Stage[Document]], path=None) -> ChainStore:
             }
         ],
     }
-    store = ChainStore(path)
-    store.state["observations"] = {"/source/": observation}
-    store.state["assignments"] = {"/source/": IDENTITY}
+    store = ChainStore()
+    store.observations = {"/source/": observation}
     return store
 
 
 def public_stages(export):
-    return export.collection["chains"][PUBLIC_ID]["phases"][0]["actors"][0]["stages"]
+    return next(iter(export.collection["chains"].values()))["phases"][0]["actors"][0][
+        "stages"
+    ]
 
 
 def test_assembly_constructs_the_agreed_lean_schema_and_keeps_date_exceptions():
@@ -68,11 +72,11 @@ def test_assembly_constructs_the_agreed_lean_schema_and_keeps_date_exceptions():
         {"url": ds, "title": "Canonical title", "published": "2020-01-01"},
         {"url": remiss, "title": "Canonical remiss title", "published": "2020-02-02"},
     ]
-    previous = deepcopy(store.state)
+    previous = deepcopy(store.observations)
     export = store.build_export(items, normalize=False)
     assert export.collection == {
         "chains": {
-            PUBLIC_ID: {
+            next(iter(export.collection["chains"])): {
                 "phases": [
                     {
                         "name": "Lagstiftning i Sverige",
@@ -105,7 +109,7 @@ def test_assembly_constructs_the_agreed_lean_schema_and_keeps_date_exceptions():
             }
         },
     }
-    assert store.state == previous
+    assert store.observations == previous
     assert "chains" not in items[0]
 
 
@@ -128,7 +132,7 @@ def test_normalization_preserves_order_evidence_and_unresolvable_headings():
     items: list[ChainItem] = [
         {"url": "/source/", "published": "2026-01-01", "senders": ["1287"]}
     ]
-    before = deepcopy(store.state)
+    before = deepcopy(store.observations)
     unnormalized = store.build_export(items, normalize=False)
     export = store.build_export(items, codes={"1287": "Justitiedepartementet"})
     stages = public_stages(export)
@@ -143,10 +147,14 @@ def test_normalization_preserves_order_evidence_and_unresolvable_headings():
         "split_stage",
         "unresolved_stage",
     }
-    assert all(f["chain"] == PUBLIC_ID and f["source"] == "/source/" for f in findings)
+    assert all(
+        f["chain"] == next(iter(export.collection["chains"]))
+        and f["source"] == "/source/"
+        for f in findings
+    )
     assert all(f["departments"] == ["Justitiedepartementet"] for f in findings)
     assert export.report["recheck"] == ["/source/"]
-    assert store.state == before
+    assert store.observations == before
     assert export == store.build_export(items, codes={"1287": "Justitiedepartementet"})
 
 
@@ -155,9 +163,7 @@ def test_conflicting_metadata_dates_and_actor_groups_are_reviewed_without_guesse
     store = store_for(
         [{"name": "Lagrådsremiss", "documents": [document(ds, "2021-03-02")]}]
     )
-    store.state["observations"]["/source/"]["phases"][0]["actors"][0]["name"] = (
-        "EU-beslut"
-    )
+    store.observations["/source/"]["phases"][0]["actors"][0]["name"] = "EU-beslut"
     items: list[ChainItem] = [
         {
             "url": ds,
@@ -167,7 +173,7 @@ def test_conflicting_metadata_dates_and_actor_groups_are_reviewed_without_guesse
         }
     ]
     export = store.build_export(items)
-    phase = export.collection["chains"][PUBLIC_ID]["phases"][0]
+    phase = next(iter(export.collection["chains"].values()))["phases"][0]
     assert phase["actors"][0]["name"] == "EU-beslut"
     assert public_stages(export)[0] == {
         "type": "2085",
@@ -182,40 +188,7 @@ def test_conflicting_metadata_dates_and_actor_groups_are_reviewed_without_guesse
     assert all(f["status"] == "review" for f in findings)
 
 
-def test_colliding_new_ids_extend_without_renaming_or_reusing_published_ids():
-    common = "a" * 16
-    old = "chain-" + common + "f" * 48
-    new = "chain-" + common + "0" * 48
-    retired = "chain-" + "b" * 64
-    previous = {old: common, retired: "b" * 16}
-    reconciliation = Reconciliation(
-        groups={new: [], old: []}, assignments={}, aliases={}
-    )
-    ids = assign_public_ids(reconciliation, previous)
-    assert ids[old] == common
-    assert ids[new] == common + "00"
-    assert ids[retired] == "b" * 16
-    assert ids == assign_public_ids(reconciliation, ids)
-    assert previous == {old: common, retired: "b" * 16}
-
-
-def test_short_id_registry_survives_save_and_rebuild(tmp_path):
-    store = store_for(
-        [{"name": "Remss", "documents": [document("/remisser/example/")]}],
-        tmp_path / "state.json",
-    )
-    first = store.build_export([])
-    store.update_identity_history(first)
-    store.save()
-    restored = ChainStore(store.path)
-    assert restored.state["assignments"] == {"/source/": IDENTITY}
-    assert restored.state["public_ids"] == {IDENTITY: PUBLIC_ID}
-    assert first.collection == restored.build_export([]).collection
-
-
-def test_actions_summary_is_bounded_and_full_artifact_retains_original_values(
-    monkeypatch, tmp_path, capsys
-):
+def test_actions_writes_only_a_bounded_markdown_summary(monkeypatch, tmp_path, capsys):
     long_name = "Odd heading | <tag>\n" + "x" * 400
     store = store_for(
         [{"name": long_name, "documents": [document("/remisser/example/")]}]
@@ -228,73 +201,10 @@ def test_actions_summary_is_bounded_and_full_artifact_retains_original_values(
     summary = (tmp_path / "summary.md").read_text()
     assert len(summary.encode()) < 40_000
     assert "&lt;tag&gt;" in summary and "\\|" in summary
-    assert "New findings: **1**" in summary
-    artifact = json.loads(
-        (tmp_path / "chain-normalization/normalization.json").read_text()
-    )
-    assert artifact == report
-    assert artifact["findings"][0]["before"] == long_name
+    assert "Stage name normalized" in summary
+    assert list(tmp_path.iterdir()) == [tmp_path / "summary.md"]
+    assert report["findings"][0]["before"] == long_name
     assert "Odd heading" not in capsys.readouterr().out
-    unchanged = render_normalization_report(
-        report, report, max_rows=20, max_bytes=40_000
-    )
-    assert "New findings: **0**" in unchanged
-    resolved = render_normalization_report(
-        {"version": 1, "summary": {}, "findings": [], "recheck": []}, report
-    )
-    assert "No longer observed: **1**" in resolved
-
-
-def test_export_only_rebuilds_without_browser_and_updates_all_references(
-    monkeypatch, tmp_path
-):
-    import backfill_chains
-
-    monkeypatch.chdir(tmp_path)
-    (tmp_path / "frontend").mkdir()
-    (tmp_path / "frontend/types.json").write_text('["remisser"]')
-    api = tmp_path / "data/api"
-    api.mkdir(parents=True)
-    item = {"url": "/remisser/example/", "title": "Canonical title", "types": ["2099"]}
-    (api / "items.json").write_text(json.dumps([item]))
-    failure = {"source": "/unavailable/", "error": "Previous timeout"}
-    (api / "chains-report.json").write_text(
-        json.dumps({"failures": [failure], "recheck": ["/unavailable/"]})
-    )
-    store = store_for(
-        [{"name": "Remss", "documents": [document(item["url"])]}],
-        tmp_path / "data/.chain-state/state.json",
-    )
-    store.save()
-
-    def no_browser():
-        raise AssertionError("export-only must not start a browser")
-
-    monkeypatch.setattr(backfill_chains, "Downloader", no_browser)
-    monkeypatch.setattr(backfill_chains, "report_normalizations", lambda *args: None)
-    monkeypatch.setattr("sys.argv", ["backfill_chains.py", "--export-only"])
-    backfill_chains.main()
-    collection = (api / "chains.json").read_bytes()
-    assert set(json.loads(collection)) == {"chains"}
-    items = json.loads((api / "items.json").read_text())
-    assert items[0]["chains"] == [PUBLIC_ID]
-    assert json.loads((tmp_path / "data/remisser.json").read_text()) == items
-    assert (
-        json.loads((api / "chains-normalization.json").read_text())["summary"][
-            "normalized_stages"
-        ]
-        == 1
-    )
-    quality = json.loads((api / "chains-report.json").read_text())
-    assert quality["failures"] == [failure]
-    assert "/unavailable/" in quality["recheck"]
-    backfill_chains.main()
-    assert (api / "chains.json").read_bytes() == collection
-    from audit_chain_types import analyse
-
-    audit = analyse(tmp_path / "data")
-    assert audit["summary"]["exotic_stages"] == 1
-    assert audit["exotic_stages"][0]["name"] == "Remss"
 
 
 def test_corrected_source_resolves_finding_without_changing_identity_or_public_membership():
@@ -302,14 +212,166 @@ def test_corrected_source_resolves_finding_without_changing_identity_or_public_m
         [{"name": "Remss", "documents": [document("/remisser/example/")]}]
     )
     first = store.build_export([])
-    store.update_identity_history(first)
-    store.state["observations"]["/source/"]["phases"][0]["actors"][0]["stages"][0][
-        "name"
-    ] = "Remiss"
+    store.baseline = deepcopy(first.collection)
+    store.observations["/source/"]["phases"][0]["actors"][0]["stages"][0]["name"] = (
+        "Remiss"
+    )
     corrected = store.build_export([])
     assert corrected.collection == first.collection
     assert corrected.normalization_report["findings"] == []
-    summary = render_normalization_report(
-        corrected.normalization_report, first.normalization_report
+    summary = render_normalization_report(corrected.normalization_report)
+    assert "No normalization findings" in summary
+
+
+def test_published_collection_is_the_only_input_needed_to_keep_history(tmp_path):
+    remiss = "/remisser/example/"
+    original = store_for([{"name": "Remiss", "documents": [document(remiss)]}])
+    baseline = original.build_export([]).collection
+    path = tmp_path / "chains.json"
+    path.write_text(json.dumps(baseline))
+    restored = ChainStore.from_file(path)
+    assert restored.observations == {}
+    export = restored.build_export([])
+    assert export.collection == baseline
+    assert export.item_references[remiss] == set(baseline["chains"])
+    assert list(tmp_path.iterdir()) == [path]
+
+
+def test_incremental_refresh_keeps_unseen_documents_and_other_chains():
+    from services.chains.merge import item_references
+
+    first = "/remisser/first/"
+    second = "/remisser/second/"
+    old = store_for(
+        [
+            {
+                "name": "Remiss",
+                "documents": [
+                    document(first),
+                    document(second),
+                    document("/remisser/third/"),
+                ],
+            }
+        ]
     )
-    assert "No longer observed: **1**" in summary
+    baseline = old.build_export([]).collection
+    old_id = next(iter(baseline["chains"]))
+    baseline["chains"]["unrelated"] = {
+        "phases": [
+            {
+                "name": "Other",
+                "actors": [
+                    {
+                        "name": "Regeringen",
+                        "stages": [
+                            {"type": "2099", "documents": [{"url": "/remisser/other/"}]}
+                        ],
+                    }
+                ],
+            }
+        ]
+    }
+    fresh = store_for(
+        [
+            {
+                "name": "Remiss",
+                "documents": [
+                    document(first),
+                    document(second),
+                    document("/remisser/z-new/"),
+                ],
+            }
+        ]
+    )
+    # This new source was not among the published members. The same initial
+    # anchors still identify the chain through its hash.
+    fresh.baseline = deepcopy(baseline)
+    before = deepcopy(fresh.baseline)
+    export = fresh.build_export([])
+    assert set(export.collection["chains"]) == {old_id, "unrelated"}
+    assert "/remisser/z-new/" in item_references(export.collection)
+    assert "/remisser/third/" in item_references(export.collection)
+    assert export.collection["chains"]["unrelated"] == baseline["chains"]["unrelated"]
+    assert fresh.baseline == before
+    failed = ChainStore(export.collection)
+    failed.observe(None, first)
+    assert failed.build_export([]).collection == export.collection
+
+
+def test_hash_collision_extends_only_the_new_id():
+    common = "a" * 16
+    identity = common + "0" * 48
+    store = store_for([{"name": "Remiss", "documents": [document("/remisser/new/")]}])
+    baseline: ChainCollection = {
+        "chains": {
+            common: {
+                "phases": [
+                    {
+                        "name": "Sweden",
+                        "actors": [
+                            {
+                                "name": "Regeringen",
+                                "stages": [
+                                    {
+                                        "type": "2099",
+                                        "documents": [{"url": "/remisser/old/"}],
+                                    }
+                                ],
+                            }
+                        ],
+                    }
+                ]
+            }
+        }
+    }
+    result = assign_public_ids(
+        {identity: list(store.observations.values())}, baseline, []
+    )
+    assert result[identity] == common + "00"
+    assert set(baseline["chains"]) == {common}
+
+
+def test_local_backfill_writes_only_public_data_by_default_and_reports_on_request(
+    monkeypatch, tmp_path
+):
+    from scripts import backfill_chains
+
+    monkeypatch.chdir(tmp_path)
+    (tmp_path / "frontend").mkdir()
+    (tmp_path / "frontend/types.json").write_text('["remisser"]')
+    api = tmp_path / "data/api"
+    api.mkdir(parents=True)
+    item = {"url": "/remisser/example/", "title": "Canonical", "types": ["2099"]}
+    (api / "items.json").write_text(json.dumps([item]))
+    html = '<div id="accordion--chain"><h3>Remss</h3><li class="list--DateLinkDescr__listitem"><a href="/remisser/example/">Source title</a></li></div>'
+    calls = []
+
+    class Downloader:
+        b = type("Browser", (), {"close": lambda self: None})()
+
+        def get_webpage(self, url):
+            calls.append(url)
+            return html
+
+    monkeypatch.setattr(backfill_chains, "Downloader", Downloader)
+    monkeypatch.setattr(backfill_chains, "report_normalizations", lambda *args: None)
+    monkeypatch.setattr("sys.argv", ["backfill_chains"])
+    backfill_chains.main()
+    collection = (api / "chains.json").read_bytes()
+    assert set(json.loads(collection)) == {"chains"}
+    assert not (tmp_path / "data/.chain-state").exists()
+    assert {p.name for p in api.iterdir()} == {"items.json", "chains.json"}
+    items = json.loads((api / "items.json").read_text())
+    assert json.loads((tmp_path / "data/remisser.json").read_text()) == items
+    assert all(key in json.loads(collection)["chains"] for key in items[0]["chains"])
+    reports = tmp_path / "reports"
+    monkeypatch.setattr("sys.argv", ["backfill_chains", "--report-dir", str(reports)])
+    backfill_chains.main()
+    assert (api / "chains.json").read_bytes() == collection
+    report = json.loads((reports / "chains-normalization.json").read_text())
+    assert report["summary"]["normalized_stages"] == 1
+    assert report["findings"][0]["before"] == "Remss"
+    assert "Remss" in (reports / "chains-normalization.md").read_text()
+    assert (reports / "chains-report.json").exists()
+    assert {p.name for p in api.iterdir()} == {"items.json", "chains.json"}
+    assert calls == [item["url"], item["url"]]

@@ -1,27 +1,23 @@
-"""Persistent source observations and conservative, reproducible reconciliation."""
+"""Collect this run's observations and update the published chain collection."""
 
 import json
-import os
 from collections.abc import Iterable
-from copy import deepcopy
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from pathlib import Path
 
-from services.chain_normalization import normalize_chain_records
-from services.chain_parser import extract_chains, normalize_url
-from services.chain_reconciliation import assign_public_ids, reconcile_identities
-from services.chain_records import build_chain_records, build_chain_report
-from services.chain_types import (
-    Aliases,
-    Assignments,
+from services.chains.merge import item_references, merge_collections
+from services.chains.normalization import normalize_chain_records
+from services.chains.parser import extract_chains, normalize_url
+from services.chains.reconciliation import assign_public_ids, reconcile_identities
+from services.chains.records import build_chain_records, build_chain_report
+from services.chains.types import (
     ChainCollection,
     ChainItem,
     ChainReport,
-    ChainState,
     Failure,
     ItemReferences,
     NormalizationReport,
-    PublicIds,
+    Observation,
     RedirectResolver,
     WebpageDownloader,
 )
@@ -32,38 +28,29 @@ class ChainExport:
     collection: ChainCollection
     report: ChainReport
     item_references: ItemReferences
-    assignments: Assignments
-    aliases: Aliases
-    public_ids: PublicIds
     normalization_report: NormalizationReport
 
 
 class ChainStore:
-    def __init__(self, path: str | Path | None = None):
-        self.path = Path(path) if path else None
-        self.state: ChainState = {
-            "version": 1,
-            "observations": {},
-            "assignments": {},
-            "aliases": {},
-            "redirects": {},
-            "completed": [],
-        }
-        if self.path and self.path.exists():
-            self.state = json.loads(self.path.read_text())
-            if self.state["version"] != 1:
-                raise ValueError("Unsupported chain state version")
+    def __init__(self, baseline: ChainCollection | None = None):
+        self.baseline: ChainCollection = (
+            baseline if baseline is not None else {"chains": {}}
+        )
+        self.observations: dict[str, Observation] = {}
+        self.redirects: dict[str, str] = {}
         self.failures: list[Failure] = []
 
-    def save(self) -> None:
-        if not self.path:
-            return
-        self.path.parent.mkdir(parents=True, exist_ok=True)
-        temporary = self.path.with_suffix(".tmp")
-        temporary.write_text(
-            json.dumps(self.state, ensure_ascii=False, indent=4, sort_keys=True) + "\n"
-        )
-        os.replace(temporary, self.path)
+    @classmethod
+    def from_file(cls, path: str | Path) -> "ChainStore":
+        path = Path(path)
+        if not path.exists():
+            return cls()
+        collection = json.loads(path.read_text())
+        if collection.get("version") == 1:
+            raise ValueError(
+                "Legacy chains.json: run uv run python -m scripts.backfill_chains --fresh to build the lean format"
+            )
+        return cls({"chains": collection["chains"]})
 
     def observe(
         self,
@@ -75,13 +62,13 @@ class ChainStore:
         source_view_url = normalize_url(source_view_url or item_url, view=True)
 
         def cached_resolve(url: str) -> str:
-            if url not in self.state["redirects"]:
+            if url not in self.redirects:
                 if resolve is None:
                     raise ValueError(f"No redirect resolver for {url}")
                 target = resolve(url)
                 normalize_url(target)  # Do not cache an unresolved/invalid redirect.
-                self.state["redirects"][url] = target
-            return self.state["redirects"][url]
+                self.redirects[url] = target
+            return self.redirects[url]
 
         try:
             if not html:
@@ -92,7 +79,7 @@ class ChainStore:
         except Exception as error:
             self.failures.append({"source": source_view_url, "error": str(error)})
             return None
-        self.state["observations"][source_view_url] = observation
+        self.observations[source_view_url] = observation
         return choices
 
     def fetch_views(
@@ -136,14 +123,14 @@ class ChainStore:
         codes: dict[str, str] | None = None,
         normalize: bool = True,
     ) -> ChainExport:
-        """Build public data without mutating items or stored identity history."""
-        reconciliation = reconcile_identities(
-            self.state["observations"],
-            self.state["assignments"],
-            self.state["aliases"],
-        )
-        public_ids = assign_public_ids(reconciliation, self.state.get("public_ids", {}))
-        records = build_chain_records(reconciliation.groups, items, public_ids)
+        """Assemble and normalize fresh views, then update the published baseline.
+
+        Neither items, the baseline nor source observations are mutated.
+        Historical views are preserved only through their public chain records.
+        """
+        groups = reconcile_identities(self.observations)
+        public_ids = assign_public_ids(groups, self.baseline, items)
+        records = build_chain_records(groups, items, public_ids)
         normalizations: NormalizationReport = (
             normalize_chain_records(
                 records.collection, records.evidence, items, codes or {}
@@ -151,25 +138,14 @@ class ChainStore:
             if normalize
             else {"version": 1, "summary": {}, "findings": [], "recheck": []}
         )
+        collection = merge_collections(self.baseline, records.collection)
+        references = item_references(collection)
+        records = replace(records, collection=collection, item_references=references)
         report = build_chain_report(
             records,
             self.failures,
-            len(self.state["observations"]),
+            len(self.observations),
             set(pending_source_views) | set(normalizations["recheck"]),
         )
         report["normalization"] = normalizations["summary"]
-        return ChainExport(
-            records.collection,
-            report,
-            records.item_references,
-            reconciliation.assignments,
-            reconciliation.aliases,
-            public_ids,
-            normalizations,
-        )
-
-    def update_identity_history(self, export: ChainExport) -> None:
-        """Remember IDs and aliases after the corresponding export is published."""
-        self.state["assignments"] = deepcopy(export.assignments)
-        self.state["aliases"] = deepcopy(export.aliases)
-        self.state["public_ids"] = deepcopy(export.public_ids)
+        return ChainExport(collection, report, references, normalizations)

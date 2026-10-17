@@ -1,6 +1,6 @@
 import pytest
 
-from services.chain_normalization import (
+from services.chains.normalization import (
     TypeInference,
     infer_document_type,
     infer_stage_type,
