@@ -85,7 +85,7 @@ Go ahead! You'll need `uv` and to install dependencies using:
 ```bash
 uv sync
 uv run camoufox sync
-uv run camoufox set official/prerelease
+uv run camoufox set official/stable
 uv run camoufox fetch
 ```
 
