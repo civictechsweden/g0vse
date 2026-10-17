@@ -13,19 +13,19 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.3.3",
-    "next": "^16.3.4",
-    "react": "^19.3.0",
-    "react-dom": "^19.3.0"
+    "next": "^16.4.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
   },
   "overrides": {
     "postcss": "$postcss"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.5",
-    "autoprefixer": "^10.5.6",
+    "autoprefixer": "^10.6.1",
     "eslint": "^9.39.5",
-    "eslint-config-next": "^16.3.4",
-    "postcss": "^8.5.28",
+    "eslint-config-next": "^16.4.2",
+    "postcss": "^8.5.30",
     "tailwindcss": "^4.3.3"
   }
 }
