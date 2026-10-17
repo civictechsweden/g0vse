@@ -40,6 +40,8 @@ jobs:
         run: |
           mv frontend/* .
           rm -rf frontend
+      - name: Exclude internal chain observations
+        run: rm -rf .chain-state .export-*
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact

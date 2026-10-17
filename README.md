@@ -39,6 +39,15 @@ If you are unsure of what is available, you can try the [URL converter](https://
 
 License for the data is unclear as Sweden doesn't have a modern law for access to public information where a default license could be specified and the government chancellery hasn't provided one either. In practice, it's safe to reuse.
 
+### Legislative chains
+
+The fetcher exports legislative chains in `api/chains.json`, with lightweight
+`chains` references on participating page objects. The collection preserves
+phases, actors, stages and document memberships, including external documents.
+Historical coverage requires a resumable backfill. See [the chain API documentation](docs/chains.md)
+for the schema, deterministic identity and alias policy, data-quality semantics,
+build report and backfill commands.
+
 ### Data quality issues
 
 The data was fetched through webscraping from a website used by thousands of civil servants from various departments, with their own methods and who never thought about the information being digitally reused by others.
@@ -50,7 +59,7 @@ As a result, the data quality is not necessarily that good. Here are a few examp
 - attachments are just provided with their name and a URL to fetch them. File names do not follow any convention, often contain typos and links are sometimes dead if the files have been removed.
 - some pages are not marked as updated although they have new content (some remiss-pages, for instance, although far from the majority)
 - departments have different methods when it comes to connecting their documents. Some use a component on the page called the "*lagstiftnings-/beslutkedjan*", others simply add the previous documents of the chain as a shortcut (in the *genvägar* box)
-- the logic for parsing the *lagstiftningskedjor* is already written, but unfortunately, the lack of reliable page identifiers and consistency in the data makes it hard to use for now. It's coming though!
+- legislative chains are reconciled conservatively: incomplete views can remain separate, and ambiguous matches or conflicting metadata are listed in the chain build report.
 
 ## How does g0vse work?
 
