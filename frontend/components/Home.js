@@ -187,7 +187,7 @@ export default function Home() {
               <a href={"https://g0v.se/api/codes.json"} target="_blank" rel="noreferrer" className="underline text-black-700">{"/api/codes.json"}</a> hämtar alla kategorikoder
             </li>
             <li className="mb-1 text-lg text-gray-700">
-              <a href={"https://g0v.se/api/chains.json"} target="_blank" rel="noreferrer" className="underline text-black-700">{"/api/chains.json"}</a> hämtar lagstiftningskedjor och deras dokument
+              <a href={"https://g0v.se/api/chains.json"} target="_blank" rel="noreferrer" className="underline text-black-700">{"/api/chains.json"}</a> hämtar lagstiftningskedjor
             </li>
             <li className="mb-1 text-lg text-gray-700">
               <a href={"https://g0v.se/api/latest_updated.json"} target="_blank" rel="noreferrer" className="underline text-black-700">{"/api/latest_updated.json"}</a> hämtar nyckelinformation om datat
