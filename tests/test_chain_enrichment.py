@@ -14,6 +14,8 @@ from services.chains.types import (
     Stage,
 )
 
+pytestmark = pytest.mark.smoke
+
 SOU = "/rattsliga-dokument/statens-offentliga-utredningar/2026/08/sou-202649/"
 DS = "/rattsliga-dokument/departementsserien-och-promemorior/2026/09/ds-202616/"
 REMISS = "/remisser/2026/10/remiss-sou-202649/"

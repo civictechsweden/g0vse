@@ -5,7 +5,7 @@ from services.downloader import Downloader
 from services.redirecter import get_final_url
 from services.web_parser import extract_page
 
-pytestmark = pytest.mark.live
+pytestmark = [pytest.mark.live, pytest.mark.smoke]
 
 SOU_URL = "/rattsliga-dokument/statens-offentliga-utredningar/2026/02/sou-202612/"
 PROPOSITION_URL = "/rattsliga-dokument/proposition/2019/11/prop.-20192038/"

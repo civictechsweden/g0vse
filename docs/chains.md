@@ -241,11 +241,15 @@ stage continuation), the older layout with external statute links, and an EU
 selector view with multiple actors and alternative selectors. They require known
 document memberships while allowing new documents to be added to the chains.
 
-Run the live smoke tests locally with the fetcher's browser installed:
+Run the same smoke suite locally with the fetcher's browser installed:
 
 ```bash
-uv run python -m pytest tests/test_parser_smoke_live.py -q
+uv run python -m pytest tests -m smoke -q
 ```
+
+Add future pre-fetch checks using `@pytest.mark.smoke` on a test or
+`pytestmark = pytest.mark.smoke` on a module. Live smoke tests also carry `live`,
+so the quality workflow's `-m "not live"` continues to exclude network requests.
 
 All chain services live under `services/chains/`:
 

@@ -38,4 +38,5 @@ enable = ["MD009", "MD012", "MD022", "MD031", "MD032", "MD047"]
 [tool.pytest.ini_options]
 markers = [
     "live: requires a browser and access to external websites",
+    "smoke: pre-fetch checks for page metadata and legislative chains",
 ]
