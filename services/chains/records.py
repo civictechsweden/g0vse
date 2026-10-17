@@ -50,8 +50,11 @@ def build_chain_records(
     conflicts: list[Conflict] = []
     sources: dict[str, list[str]] = {}
     evidence: dict[str, list[Phase[PublishedDocument]]] = {}
+    published_groups: dict[str, list[Observation]] = defaultdict(list)
     for chain_id, source_views in sorted(groups.items()):
-        public_id = public_ids[chain_id]
+        published_groups[public_ids[chain_id]].extend(source_views)
+    for public_id, source_views in sorted(published_groups.items()):
+        source_views = sorted(source_views, key=lambda view: view["source"])
         record, chain_references, chain_conflicts, phases = build_chain_record(
             public_id, source_views, item_index
         )
