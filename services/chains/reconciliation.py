@@ -99,7 +99,6 @@ def assign_public_ids(
                         by_member[url].add(key)
         anchors[key] = set(sorted(dates, key=lambda url: (dates[url], url))[:2])
     used = set(baseline["chains"])
-    claimed = set()
     result = {}
     existing_keys = sorted(urls, key=lambda key: (-len(key), key))
     for identity, observations in sorted(groups.items()):
@@ -113,7 +112,7 @@ def assign_public_ids(
         for observation in observations:
             source = normalize_url(observation["source"])
             for key in by_member.get(source, set()):
-                if key in claimed or proposals[key] != celex:
+                if proposals[key] != celex:
                     continue
                 if celex or (len(anchors[key]) == 2 and anchors[key] <= members):
                     candidates.add(key)
@@ -122,13 +121,12 @@ def assign_public_ids(
         # Exact hashes also match when the refreshed view is hosted on a newly
         # added member, rather than a previously published source page.
         for key in existing_keys:
-            if identity.startswith(key) and key not in claimed:
+            if identity.startswith(key):
                 if len(urls[key] & members) >= min(2, len(members)):
                     candidates = {key}
                     break
         if len(candidates) == 1:
             key = candidates.pop()
-            claimed.add(key)
         else:
             length = 16
             while identity[:length] in used:

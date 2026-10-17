@@ -470,3 +470,23 @@ def test_selector_views_rebuild_from_public_records_without_id_churn():
         refreshed = ChainStore(baseline)
         refreshed.observe(fixture("eu"), EU_URL, source, resolve)
         assert refreshed.build_export([]).collection == baseline
+
+
+def test_fresh_views_with_different_anchors_reuse_the_same_unambiguous_published_chain():
+    old = [("/a/", "2020"), ("/b/", "2021")]
+    baseline = store_with(observation("/a/", old)).build_export([]).collection
+    chain_id = next(iter(baseline["chains"]))
+    fresh = ChainStore(baseline)
+    fresh.observations = {
+        "/a/": observation("/a/", old),
+        "/b/": observation("/b/", [("/earlier/", "2019"), *old]),
+    }
+    export = fresh.build_export([])
+    assert set(export.collection["chains"]) == {chain_id}
+    assert export.item_references == {
+        "/earlier/": {chain_id},
+        "/a/": {chain_id},
+        "/b/": {chain_id},
+    }
+    fresh.observations = dict(reversed(list(fresh.observations.items())))
+    assert fresh.build_export([]) == export
