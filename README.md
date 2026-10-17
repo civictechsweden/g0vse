@@ -39,15 +39,6 @@ If you are unsure of what is available, you can try the [URL converter](https://
 
 License for the data is unclear as Sweden doesn't have a modern law for access to public information where a default license could be specified and the government chancellery hasn't provided one either. In practice, it's safe to reuse.
 
-### Legislative chains
-
-The fetcher exports legislative chains in `api/chains.json`, with lightweight
-`chains` references on participating page objects. The collection preserves
-phases, actors, stages and document memberships, including external documents.
-Historical coverage requires a resumable backfill. See [the chain API documentation](docs/chains.md)
-for the schema, deterministic identity, data-quality semantics,
-build report and backfill commands.
-
 ### Data quality issues
 
 The data was fetched through webscraping from a website used by thousands of civil servants from various departments, with their own methods and who never thought about the information being digitally reused by others.
