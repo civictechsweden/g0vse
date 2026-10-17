@@ -114,13 +114,12 @@ that includes the remiss replaces the inference with an unmarked membership.
 
 ## Conservative remiss enrichment
 
-The first rule, `numbered-study-shortcut-v1`, adds a remiss only when:
+The rule, `single-study-shortcut-v1`, adds a remiss only when:
 
-- Its indexed URL and type identify a remiss, its title starts with `Remiss`,
-  and it has no official membership anywhere in the collection.
-- The title contains exactly one distinct SOU or Ds identifier. The sole study
-  shortcut resolves directly to an indexed SOU/Ds page with that identifier.
-  Its item type and URL type agree; any identifier in the link label agrees too.
+- Its indexed URL and type identify a remiss, and it has no official membership
+  anywhere in the collection.
+- The sole study shortcut resolves directly to an indexed SOU, Ds or unnumbered
+  promemoria page. Its item type and URL type agree.
   Extra item types cause a skip, except the broad Rättsliga dokument parent (`1324`).
 - There are no other study shortcuts, selector queries on the study link or
   unresolved local legacy links. Several links to the same normalized study
@@ -128,14 +127,22 @@ The first rule, `numbered-study-shortcut-v1`, adds a remiss only when:
 - The study is an official member of exactly one chain, in exactly one standard
   `Lagstiftning i Sverige` / `Regeringen` study stage. Multiple possible Remiss
   stages also cause the candidate to be skipped.
+- The source→target link is not a confirmed incorrect shortcut listed in
+  [`enrichment_exceptions.py`](../services/chains/enrichment_exceptions.py).
+
+Titles, link labels and document identifiers do not need to match or be present.
+The shortcut is the evidence for membership; this also accepts shortened titles,
+unnumbered promemorior and source identifier typos. Incorrect shortcuts can still
+produce incorrect inferences. Confirmed errors are isolated as exact source→target
+exceptions with explanations, so a corrected link can qualify automatically.
 
 The remiss is appended to that actor's existing Remiss stage (`2099`). If absent,
 a Remiss stage is inserted immediately after the study stage. Existing document
 order is preserved; additions are sorted by normalized remiss URL. No phase or
 actor is invented, no chain is created or merged, and no status is inferred.
 
-Unnumbered promemorior, several linked studies, missing/contradictory identifiers,
-multiple destination chains and external documents are outside this first rule.
+Several linked studies, multiple destination chains and external documents are
+outside this rule.
 The rule establishes chain membership only: it publishes no remiss-to-study
 relationship. Such relationships can be added separately later.
 
@@ -261,6 +268,7 @@ All chain services live under `services/chains/`:
 | `normalization.py` | Explicit document-type rules and stage-name normalization. |
 | `merge.py` | Preserve untouched public data while applying fresh records. |
 | `enrichment.py` | Recompute marked remiss memberships from conservative shortcut rules. |
+| `enrichment_exceptions.py` | Confirmed incorrect source→target shortcuts excluded from inference. |
 | `diagnostics.py` | Collect findings and original source evidence for this run. |
 | `reporting.py` | Console/Actions summary and opt-in local reports. |
 | `export.py` | Stage JSON before publishing. |

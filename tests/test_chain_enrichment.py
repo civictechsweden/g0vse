@@ -94,7 +94,8 @@ def test_adds_marked_membership_without_changing_official_data_or_inputs(case):
     assert finding["status"] == "inferred"
     assert finding["source"] == REMISS
     assert finding["departments"] == ["Socialdepartementet"]
-    assert "numbered-study-shortcut-v1" in finding["reason"]
+    assert "single-study-shortcut-v1" in finding["reason"]
+    assert SOU in finding["reason"]
     assert export.report["recheck"] == []
     summary = render_normalization_report(export.normalization_report)
     assert "inferred: true" in summary
@@ -123,6 +124,113 @@ def test_ds_and_absolute_fragment_links_use_exact_indexed_item_urls(case):
         "multiple_identifiers",
         "label_mismatch",
         "no_study_identifier",
+        "no_title",
+        "no_remiss_prefix",
+        "different_titles",
+    ],
+)
+def test_shortcut_evidence_does_not_require_matching_titles_or_identifiers(
+    case, change
+):
+    baseline, items = case
+    remiss = items[1]
+    if change == "no_identifier":
+        remiss["title"] = "Remiss av Traditionell eller rationell"
+    elif change == "identifier_mismatch":
+        remiss["title"] = "Remiss SOU 2025:49"
+    elif change == "multiple_identifiers":
+        remiss["title"] = "Remiss SOU 2026:49 och SOU 2026:50"
+    elif change == "label_mismatch":
+        remiss["shortcuts"][0]["name"] = "SOU 2025:49"
+    elif change == "no_study_identifier":
+        items[0].pop("id")
+    elif change == "no_title":
+        remiss.pop("title")
+        items[0].pop("title")
+    elif change == "no_remiss_prefix":
+        remiss["title"] = "Remittering av betänkandet Traditionell eller rationell"
+    elif change == "different_titles":
+        remiss["title"] = "Remiss av utredningens förslag"
+        remiss["shortcuts"][0]["name"] = "Läs promemorian"
+    export = ChainStore(baseline).build_export(items)
+    assert stages(export.collection)[1]["documents"] == [
+        {"url": REMISS, "inferred": True}
+    ]
+
+
+@pytest.mark.parametrize("identifier", [None, "Ju2026/12345"])
+def test_unnumbered_promemoria_uses_document_type_instead_of_identifier(
+    case, identifier
+):
+    baseline, items = case
+    pm = "/rattsliga-dokument/departementsserien-och-promemorior/2026/09/en-promemoria/"
+    stages(baseline)[0] = {"type": "1325", "documents": [{"url": pm}]}
+    items[0].update(url=pm, id=identifier, types=["1324", "1325"])
+    items[1]["title"] = "Remiss av en promemoria"
+    items[1]["shortcuts"] = [{"name": "Promemorian", "url": pm}]
+    export = ChainStore(baseline).build_export(items)
+    assert stages(export.collection)[1]["documents"] == [
+        {"url": REMISS, "inferred": True}
+    ]
+
+
+@pytest.mark.parametrize(
+    "source,target",
+    [
+        pytest.param(
+            "/remisser/2019/05/remiss-av-2018-ars-andringar-av-sjoarbetskonventionen-mlc--analys-och-forslag-till-genomforande/",
+            "/rattsliga-dokument/departementsserien-och-promemorior/2019/05/kompletterande-forslag-till-betankandet-frekvenser-i-samhallets-tjanst-sou-201892/",
+            id="maritime-labour-vs-frequencies",
+        ),
+        pytest.param(
+            "/remisser/2020/05/remiss-av-promemorian-tillfalliga-bestammelser-om-forebyggande-sjukpenning-med-anledning-av-sjukdomen-covid-19/",
+            "/rattsliga-dokument/departementsserien-och-promemorior/2020/06/tillfalliga-bestammelser-om-viss-smittbararpenning-med-anledning-av-sjukdomen-covid-19/",
+            id="different-covid-benefits",
+        ),
+        pytest.param(
+            "/remisser/2017/06/remiss-av-naturvardsverkets-utredning-av-konsekvenserna-for-verkets-forslag-till-nationell-fosforforordning-av-eu-kommissionens-forslag-till-godselproduktforordning/",
+            "/rattsliga-dokument/departementsserien-och-promemorior/2003/02/ds-20032/",
+            id="fertiliser-vs-rehabilitation",
+        ),
+    ],
+)
+def test_confirmed_bad_links_are_excluded_but_corrected_links_can_qualify(
+    case, source, target
+):
+    baseline, items = case
+    stages(baseline)[0] = {"type": "1325", "documents": [{"url": target}]}
+    items[0].update(url=target, types=["1325"])
+    items[0].pop("id")
+    items[1]["url"] = source.rstrip("/")
+    items[1]["shortcuts"] = [
+        {"name": "Promemorian", "url": "https://www.regeringen.se" + target + "#pdf"}
+    ]
+    blocked = ChainStore(baseline).build_export(items)
+    assert blocked.collection == baseline
+    assert blocked.normalization_report["findings"] == []
+
+    previously_inferred = deepcopy(baseline)
+    stages(previously_inferred).append(
+        {"type": "2099", "documents": [{"url": source, "inferred": True}]}
+    )
+    assert ChainStore(previously_inferred).build_export(items).collection == baseline
+
+    # The target can still supply evidence for a different consultation.
+    items[1]["url"] = REMISS
+    assert REMISS in ChainStore(baseline).build_export(items).item_references
+
+    # The source can qualify once its shortcut is corrected.
+    items[1]["url"] = source
+    stages(baseline)[0]["documents"] = [{"url": DS}]
+    items[0]["url"] = DS
+    items[1]["shortcuts"][0]["url"] = DS
+    corrected = ChainStore(baseline).build_export(items)
+    assert corrected.item_references[source] == {CHAIN}
+
+
+@pytest.mark.parametrize(
+    "change",
+    [
         "type_mismatch",
         "source_type_conflict",
         "target_type_conflict",
@@ -140,17 +248,7 @@ def test_ds_and_absolute_fragment_links_use_exact_indexed_item_urls(case):
 def test_uncertain_candidates_leave_the_collection_unchanged(case, change):
     baseline, items = case
     remiss = items[1]
-    if change == "no_identifier":
-        remiss["title"] = "Remiss av Traditionell eller rationell"
-    elif change == "identifier_mismatch":
-        remiss["title"] = "Remiss SOU 2025:49"
-    elif change == "multiple_identifiers":
-        remiss["title"] = "Remiss SOU 2026:49 och SOU 2026:50"
-    elif change == "label_mismatch":
-        remiss["shortcuts"][0]["name"] = "SOU 2025:49"
-    elif change == "no_study_identifier":
-        items[0].pop("id")
-    elif change == "type_mismatch":
+    if change == "type_mismatch":
         items[0]["types"] = ["1325"]
     elif change == "source_type_conflict":
         remiss["types"].append("1334")
