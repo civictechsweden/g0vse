@@ -1,5 +1,5 @@
 from html_to_markdown import ConversionOptions, convert
-from selectolax.parser import HTMLParser
+from selectolax.lexbor import LexborHTMLParser
 
 from .redirecter import get_final_url
 
@@ -52,7 +52,7 @@ def get_document_list(response):
     if not message:
         return None, None
 
-    tree = HTMLParser(message)
+    tree = LexborHTMLParser(message)
     documents, codes = [], {}
 
     for block in tree.css(SORT_COMPACT_SELECTOR):
@@ -116,7 +116,7 @@ def extract_from_link(link):
 
 
 def extract_page(response, item_url=None):
-    tree = HTMLParser(response)
+    tree = LexborHTMLParser(response)
     return extract_text(tree), extract_metadata(tree, item_url)
 
 

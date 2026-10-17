@@ -6,7 +6,7 @@ import re
 from collections.abc import Iterator
 from urllib.parse import parse_qs, urlencode, urljoin, urlsplit, urlunsplit
 
-from selectolax.parser import HTMLParser, Node
+from selectolax.lexbor import LexborHTMLParser, LexborNode
 
 from services.chains.types import (
     Actor,
@@ -82,17 +82,17 @@ def normalize_url(
     )
 
 
-def label(node: Node | None) -> str | None:
+def label(node: LexborNode | None) -> str | None:
     return " ".join(node.text(separator=" ", strip=True).split()) if node else None
 
 
-def date_in(node: Node) -> str | None:
+def date_in(node: LexborNode) -> str | None:
     time = node.css_first("time")
     return time.attributes.get("datetime") if time else None
 
 
 def document(
-    node: Node, date: str | None, item_url: str, resolve: RedirectResolver | None
+    node: LexborNode, date: str | None, item_url: str, resolve: RedirectResolver | None
 ) -> Document:
     current = any(
         node.attributes.get(key) in {"true", "page"}
@@ -110,7 +110,7 @@ def document(
 
 
 def legacy_phases(
-    root: Node, item_url: str, resolve: RedirectResolver | None
+    root: LexborNode, item_url: str, resolve: RedirectResolver | None
 ) -> list[Phase[Document]]:
     stages: list[Stage[Document]] = []
     # DOM order, rather than zipping headings with arbitrary wrapper divs.
@@ -143,7 +143,7 @@ def legacy_phases(
     ]
 
 
-def document_date_in_block(node: Node, block: Node) -> str | None:
+def document_date_in_block(node: LexborNode, block: LexborNode) -> str | None:
     """Use the nearest preceding time, falling back to the block's first date."""
     ancestor = node
     while ancestor and ancestor != block:
@@ -157,7 +157,7 @@ def document_date_in_block(node: Node, block: Node) -> str | None:
 
 
 def modern_phases(
-    root: Node, item_url: str, resolve: RedirectResolver | None
+    root: LexborNode, item_url: str, resolve: RedirectResolver | None
 ) -> list[Phase[Document]]:
     phases: list[Phase[Document]] = []
     for accordion in root.css(".c-accordion"):
@@ -221,7 +221,7 @@ def extract_chains(
     Empty phases means a recognized page without a chain. Malformed chain
     markup raises instead of replacing a last successful observation.
     """
-    tree = HTMLParser(html)
+    tree = LexborHTMLParser(html)
     item_url = normalize_url(item_url)
     source_view_url = normalize_url(source_view_url or item_url, view=True)
     old = tree.css_first("#accordion--chain")

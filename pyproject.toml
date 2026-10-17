@@ -7,11 +7,11 @@ requires-python = ">=3.14"
 dependencies = [
     "cloverlabs-camoufox[geoip]>=0.6.0",
     "fake-useragent>=2.2.0",
-    "html-to-markdown>=2.24.5",
+    "html-to-markdown>=3.18.1",
     "playwright<1.61",
-    "rumdl>=0.2.72",
-    "selectolax>=0.4.6",
-    "tqdm>=4.67.3"
+    "rumdl>=0.3.0",
+    "selectolax>=1.0.0",
+    "tqdm>=4.70.1"
 ]
 
 [tool.setuptools.packages.find]
@@ -20,9 +20,9 @@ exclude = ["frontend*", "data*"]
 
 [dependency-groups]
 dev = [
-    "pytest>=9.0.2",
-    "ruff>=0.16.7",
-    "ty>=0.0.80",
+    "pytest>=9.1.1",
+    "ruff>=0.17.1",
+    "ty>=0.0.89",
 ]
 
 [tool.ruff]
