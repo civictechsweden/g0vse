@@ -16,6 +16,7 @@ ISSUE_LABELS = {
     "document_type_conflict": "URL/item type mismatch",
     "date_discrepancy": "Chain/item date discrepancy",
     "actor_group": "Actor/group heading",
+    "inferred_remiss": "Remiss membership inferred from shortcut",
 }
 
 
@@ -57,7 +58,12 @@ def render_normalization_report(
         f"split **{summary.get('split_stages', 0):,}** mixed stages. "
         f"**{summary.get('reviews', 0):,}** findings need review.",
         "",
-        "These findings use stored observations; they are not a fresh check of every page.",
+        f"**{summary.get('inferred_remiss', 0):,}** remiss memberships inferred from shortcuts "
+        f"(**{summary.get('new_inferred_remisses', 0):,}** newly added). "
+        "These memberships are marked `inferred: true`; they are not official chain navigation.",
+        "",
+        "Normalization findings use this run's observations; remiss enrichment also uses indexed item shortcuts. "
+        "This is not a fresh check of every page.",
         "",
         "Type mappings standardize the vocabulary. Review findings are not automatic corrections. "
         "Chain dates and actor/group headings remain unchanged. A missing department is shown explicitly.",
@@ -121,7 +127,7 @@ def render_normalization_report(
             f"Showing {shown:,} examples of {len(findings):,} findings. Generate a local report for the complete list.",
         ]
     if not findings:
-        lines += ["", "No normalization findings in the stored observations."]
+        lines += ["", "No normalization findings or inferred memberships."]
     return "\n".join(lines) + "\n"
 
 
@@ -131,6 +137,10 @@ def report_normalizations(report: NormalizationReport) -> None:
         f"Normalization: {summary.get('normalized_stages', 0):,} stages mapped, "
         f"{summary.get('split_stages', 0):,} split; "
         f"{summary.get('reviews', 0):,} findings for review."
+    )
+    print(
+        f"Remiss enrichment: {summary.get('inferred_remiss', 0):,} inferred memberships "
+        f"({summary.get('new_inferred_remisses', 0):,} newly added)."
     )
     if path := os.environ.get("GITHUB_STEP_SUMMARY"):
         with Path(path).open("a", encoding="utf-8") as output:

@@ -55,7 +55,8 @@ class NormalizationLog:
         status: str = "review",
     ) -> None:
         sources = {source for doc in documents for source in doc["sources"]}
-        self.recheck.update(sources)
+        if status != "inferred":
+            self.recheck.update(sources)
         urls = sorted({doc["url"] for doc in documents})
         # A new source view or a growing stage is still the same label issue.
         # Document-specific findings distinguish individual links/dates.
@@ -67,7 +68,9 @@ class NormalizationLog:
             context.stage,
             before,
             after,
-            urls if kind in {"date_discrepancy", "document_type_conflict"} else [],
+            urls
+            if kind in {"date_discrepancy", "document_type_conflict", "inferred_remiss"}
+            else [],
         ]
         finding_id = digest(identity)[:16]
         previous = self.findings.get(finding_id)
