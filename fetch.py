@@ -6,6 +6,7 @@ from pathlib import Path
 
 from tqdm import tqdm
 
+from services.agendas.export import prepare_agenda_export
 from services.chains import ChainStore
 from services.chains.export import publish_json
 from services.chains.records import apply_item_chain_references
@@ -302,16 +303,20 @@ def main():
         items = process_all_items(items, downloader, codes, refresh_plan, chain_store)
         chain_export = chain_store.build_export(items, codes=codes)
         apply_item_chain_references(items, chain_export.item_references)
-        files = {
-            "api/items.json": items,
-            "api/codes.json": {str(key): codes[key] for key in sorted(codes)},
-            "api/latest_updated.json": {
-                "latest_updated": timer.start_string(),
-                "items": len(items),
-                "codes": len(codes),
-            },
-            "api/chains.json": chain_export.collection,
-        }
+        files = {}
+        prepare_agenda_export(downloader, codes, files)
+        files.update(
+            {
+                "api/items.json": items,
+                "api/codes.json": {str(key): codes[key] for key in sorted(codes)},
+                "api/latest_updated.json": {
+                    "latest_updated": timer.start_string(),
+                    "items": len(items),
+                    "codes": len(codes),
+                },
+                "api/chains.json": chain_export.collection,
+            }
+        )
         export_types(items, files)
         publish_json(files)
         remove_published_reports()

@@ -136,7 +136,12 @@ def extract_text(tree):
 
     # For markdown conversion, we grab the HTML of the body divs and feed it to html-to-markdown
     # We select summary first to ensure it appears at the top
-    body_nodes = col_1.css(BODY_CONTENT_SELECTOR)
+    if col_1.css("section.case"):
+        # Weekly agendas already contain every entry under department/minister
+        # headings. #resultsParent repeats them in a filtered, paginated list.
+        body_nodes = tree.css(".col-1 > h2, .col-1 > .c-faq__accordion")
+    else:
+        body_nodes = col_1.css(BODY_CONTENT_SELECTOR)
     body_html = "".join(node.html for node in body_nodes)
 
     conversion_result = convert(body_html, CONVERSION_OPTIONS)
