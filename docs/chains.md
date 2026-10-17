@@ -171,6 +171,18 @@ fetch and backfill concurrently against the same directory.
 
 ## Implementation guide
 
+The download workflow runs chain fixture tests and live smoke tests before
+fetching data. The live checks cover the current Swedish layout (including a
+stage continuation), the older layout with external statute links, and an EU
+selector view with multiple actors and alternative selectors. They require known
+document memberships while allowing new documents to be added to the chains.
+
+Run the live smoke tests locally with the fetcher's browser installed:
+
+```bash
+uv run python -m pytest tests/test_parser_smoke_live.py -q
+```
+
 All chain services live under `services/chains/`:
 
 | Module | Responsibility |
