@@ -5,6 +5,10 @@ from collections.abc import Iterable
 from dataclasses import dataclass, replace
 from pathlib import Path
 
+from services.chains.enrichment import (
+    enrich_remiss_memberships,
+    without_inferred_memberships,
+)
 from services.chains.merge import item_references, merge_collections
 from services.chains.normalization import normalize_chain_records
 from services.chains.parser import extract_chains, normalize_url
@@ -128,8 +132,9 @@ class ChainStore:
         Neither items, the baseline nor source observations are mutated.
         Historical views are preserved only through their public chain records.
         """
+        baseline = without_inferred_memberships(self.baseline)
         groups = reconcile_identities(self.observations)
-        public_ids = assign_public_ids(groups, self.baseline, items)
+        public_ids = assign_public_ids(groups, baseline, items)
         records = build_chain_records(groups, items, public_ids)
         normalizations: NormalizationReport = (
             normalize_chain_records(
@@ -138,7 +143,17 @@ class ChainStore:
             if normalize
             else {"version": 1, "summary": {}, "findings": [], "recheck": []}
         )
-        collection = merge_collections(self.baseline, records.collection)
+        collection = merge_collections(baseline, records.collection)
+        inferred = enrich_remiss_memberships(collection, items, codes or {})
+        previous_references = item_references(self.baseline)
+        normalizations["findings"].extend(inferred)
+        normalizations["summary"]["findings"] = len(normalizations["findings"])
+        normalizations["summary"]["inferred_remiss"] = len(inferred)
+        normalizations["summary"]["new_inferred_remisses"] = sum(
+            finding["chain"]
+            not in previous_references.get(normalize_url(finding["source"]), set())
+            for finding in inferred
+        )
         references = item_references(collection)
         records = replace(records, collection=collection, item_references=references)
         report = build_chain_report(

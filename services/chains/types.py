@@ -1,7 +1,7 @@
 """JSON data shapes shared by chain parsing, reconciliation and publication."""
 
 from collections.abc import Callable
-from typing import NotRequired, Protocol, TypedDict
+from typing import Literal, NotRequired, Protocol, TypedDict
 
 type RedirectResolver = Callable[[str], str]
 
@@ -58,6 +58,7 @@ class ChainDocument(TypedDict):
     url: str
     title: NotRequired[str | None]
     date: NotRequired[str]
+    inferred: NotRequired[Literal[True]]
 
 
 class ChainStage(TypedDict):
@@ -101,6 +102,11 @@ class RecheckProgress(TypedDict):
     recheck: list[str]
 
 
+class Shortcut(TypedDict):
+    name: str
+    url: str
+
+
 class ChainItem(TypedDict):
     url: str
     chains: NotRequired[list[str]]
@@ -108,6 +114,8 @@ class ChainItem(TypedDict):
     published: NotRequired[str | None]
     types: NotRequired[list[str]]
     senders: NotRequired[list[str]]
+    id: NotRequired[str | None]
+    shortcuts: NotRequired[list[Shortcut]]
 
 
 class AmbiguousMatch(TypedDict):

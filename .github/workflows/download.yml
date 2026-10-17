@@ -25,7 +25,7 @@ jobs:
           uv run camoufox set official/stable
           uv run camoufox fetch
       - name: Smoke test page metadata and legislative chains
-        run: uv run python -m pytest tests/test_web_parser.py tests/test_chains.py tests/test_parser_smoke_live.py -q
+        run: uv run python -m pytest tests/test_web_parser.py tests/test_chains.py tests/test_chain_enrichment.py tests/test_parser_smoke_live.py -q
       - name: Fetch the data
         run: uv run fetch.py
       - name: Commit and Push

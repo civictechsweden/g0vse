@@ -46,6 +46,21 @@ are retained and reported. External and unindexed documents retain available
 source titles and dates. Null dates are omitted. Exact duplicate public variants
 collapse within a stage.
 
+A document membership added by this project's shortcut rules has `"inferred": true`:
+
+```json
+{
+    "type": "2099",
+    "documents": [{"url": "/remisser/example/", "inferred": true}]
+}
+```
+
+This marks membership inferred by g0v.se, rather than membership in regeringen.se's
+chain navigation. The underlying remiss remains an official government document.
+The marker belongs to the document's occurrence in a chain. Its absence means the
+membership came from parsed chain navigation. Consumers can omit inferred
+memberships when they only want the website's chain navigation.
+
 The collection has no `version` or `aliases`; records have no repeated `id`,
 `external_ids`, `sources` or `current_page`. Original source values exist only in
 memory during parsing and in optional local diagnostics. Record assembly creates
@@ -91,6 +106,45 @@ the daily fetch touches only a few pages or a request fails. It is deliberately
 additive: a missing document or empty view does not prove that an entire published
 chain should be deleted. A full fresh backfill can replace obsolete records.
 
+Inferred memberships are an exception to additive retention: they are removed
+before identity matching and recomputed after merging official records. They
+never supply identity anchors or evidence for another inference. If the current
+item shortcuts no longer support a membership, it disappears. An official view
+that includes the remiss replaces the inference with an unmarked membership.
+
+## Conservative remiss enrichment
+
+The first rule, `numbered-study-shortcut-v1`, adds a remiss only when:
+
+- Its indexed URL and type identify a remiss, its title starts with `Remiss`,
+  and it has no official membership anywhere in the collection.
+- The title contains exactly one distinct SOU or Ds identifier. The sole study
+  shortcut resolves directly to an indexed SOU/Ds page with that identifier.
+  Its item type and URL type agree; any identifier in the link label agrees too.
+  Extra item types cause a skip, except the broad Rättsliga dokument parent (`1324`).
+- There are no other study shortcuts, selector queries on the study link or
+  unresolved local legacy links. Several links to the same normalized study
+  URL count as one, but several different study URLs are left for later rules.
+- The study is an official member of exactly one chain, in exactly one standard
+  `Lagstiftning i Sverige` / `Regeringen` study stage. Multiple possible Remiss
+  stages also cause the candidate to be skipped.
+
+The remiss is appended to that actor's existing Remiss stage (`2099`). If absent,
+a Remiss stage is inserted immediately after the study stage. Existing document
+order is preserved; additions are sorted by normalized remiss URL. No phase or
+actor is invented, no chain is created or merged, and no status is inferred.
+
+Unnumbered promemorior, several linked studies, missing/contradictory identifiers,
+multiple destination chains and external documents are outside this first rule.
+The rule establishes chain membership only: it publishes no remiss-to-study
+relationship. Such relationships can be added separately later.
+
+Enrichment reads the complete current item index, including stored shortcuts of
+pages not fetched in this run. It performs no extra downloads. The normal fetch
+and local backfill both apply it automatically, so a new enrichment rule can fill
+historical gaps on the next run. With `--fresh`, destinations are restricted to
+the official chains built from that run's selected observations.
+
 There is no permanent ID registry, alias history or authoritative government
 process ID. Ambiguous identity changes can create another record. Consumers
 should refresh chains and item references together. The current collection and
@@ -107,7 +161,9 @@ The implementation separates these responsibilities:
    types. Uniform evidence supplies a type. Mixed types split into consecutive
    runs, preserving document order. Unknown or contradictory evidence keeps the
    original heading. There is no majority vote.
-4. Merge the results into the published collection and report this run's findings.
+4. Merge the results into the published collection.
+5. Recompute conservative shortcut memberships, then report findings and matching
+   item references.
 
 Recognized typed stages and unheaded EU groups retain their meaning. Types can
 be intentionally broader than a source label: for example, `Remissvar` becomes
@@ -120,6 +176,12 @@ examples, capped at 40 KB. It uploads no diagnostic artifact and publishes no
 report JSON. Only `chains.json` is added as a public chain data file; existing
 items and type collections continue to receive matching chain references.
 
+The summary also counts inferred remiss memberships, distinguishing memberships
+newly added this run. Inference findings identify the rule, remiss, destination
+chain, study and department. They are informational, not normalization corrections
+or upstream errors, and do not queue successful inferences for recheck. They use
+the same bounded summary and optional local report files as normalization findings.
+
 Complete diagnostics can be generated locally while fetching:
 
 ```bash
@@ -131,8 +193,9 @@ and `chains-normalization.md`. Findings include the original/suggested value,
 rule, department and one representative fetched source view. They do not list
 every page that exhibits the same chain issue. Original untruncated values remain
 in JSON; the Markdown table abbreviates long cells. Missing attribution is
-explicit. Diagnostics describe fetched views from this run, not unvisited pages
-in the baseline. A review finding is not proof of an upstream error.
+explicit. Normalization diagnostics describe fetched views from this run;
+inference diagnostics also use stored item shortcuts. A review finding is not
+proof of an upstream error.
 
 ## Local backfills
 
@@ -143,8 +206,9 @@ uv run python -m scripts.backfill_chains
 ```
 
 Use `--fresh` to replace the collection with this run's observations, including
-when replacing the earlier experimental schema. A fresh bounded run publishes
-only its selected subset. To process an explicit range of the current item list:
+when replacing the earlier experimental schema. A fresh bounded run builds
+official chains from its selected views; eligible remisser elsewhere in the item
+index can enrich those chains. To process an explicit range of the current item list:
 
 ```bash
 uv run python -m scripts.backfill_chains --offset 1000 --limit 1000
@@ -192,6 +256,7 @@ All chain services live under `services/chains/`:
 | `records.py` | Assemble lean records and quality diagnostics. |
 | `normalization.py` | Explicit document-type rules and stage-name normalization. |
 | `merge.py` | Preserve untouched public data while applying fresh records. |
+| `enrichment.py` | Recompute marked remiss memberships from conservative shortcut rules. |
 | `diagnostics.py` | Collect findings and original source evidence for this run. |
 | `reporting.py` | Console/Actions summary and opt-in local reports. |
 | `export.py` | Stage JSON before publishing. |
@@ -200,7 +265,7 @@ All chain services live under `services/chains/`:
 
 Callers import `ChainStore` from `services.chains`. `build_export` mutates neither
 items nor the baseline; callers apply item references and publish the result.
-`normalize=False` allows comparisons against the agreed draft structure.
+`normalize=False` disables vocabulary normalization; shortcut enrichment still applies.
 
 `uv run python -m scripts.audit_chain_types` audits URL/type consistency in the
 published collection. It cannot recover original headings already normalized;
