@@ -7,10 +7,12 @@ from copy import deepcopy
 from dataclasses import dataclass
 from pathlib import Path
 
+from services.chain_normalization import normalize_chain_records
 from services.chain_parser import extract_chains, normalize_url
-from services.chain_reconciliation import reconcile_identities
+from services.chain_reconciliation import assign_public_ids, reconcile_identities
 from services.chain_records import build_chain_records, build_chain_report
 from services.chain_types import (
+    Aliases,
     Assignments,
     ChainCollection,
     ChainItem,
@@ -18,6 +20,8 @@ from services.chain_types import (
     ChainState,
     Failure,
     ItemReferences,
+    NormalizationReport,
+    PublicIds,
     RedirectResolver,
     WebpageDownloader,
 )
@@ -29,6 +33,9 @@ class ChainExport:
     report: ChainReport
     item_references: ItemReferences
     assignments: Assignments
+    aliases: Aliases
+    public_ids: PublicIds
+    normalization_report: NormalizationReport
 
 
 class ChainStore:
@@ -125,6 +132,9 @@ class ChainStore:
         self,
         items: list[ChainItem],
         pending_source_views: Iterable[str] = (),
+        *,
+        codes: dict[str, str] | None = None,
+        normalize: bool = True,
     ) -> ChainExport:
         """Build public data without mutating items or stored identity history."""
         reconciliation = reconcile_identities(
@@ -132,23 +142,34 @@ class ChainStore:
             self.state["assignments"],
             self.state["aliases"],
         )
-        records = build_chain_records(
-            reconciliation.groups, reconciliation.aliases, items
+        public_ids = assign_public_ids(reconciliation, self.state.get("public_ids", {}))
+        records = build_chain_records(reconciliation.groups, items, public_ids)
+        normalizations: NormalizationReport = (
+            normalize_chain_records(
+                records.collection, records.evidence, items, codes or {}
+            )
+            if normalize
+            else {"version": 1, "summary": {}, "findings": [], "recheck": []}
         )
         report = build_chain_report(
             records,
             self.failures,
             len(self.state["observations"]),
-            pending_source_views,
+            set(pending_source_views) | set(normalizations["recheck"]),
         )
+        report["normalization"] = normalizations["summary"]
         return ChainExport(
             records.collection,
             report,
             records.item_references,
             reconciliation.assignments,
+            reconciliation.aliases,
+            public_ids,
+            normalizations,
         )
 
     def update_identity_history(self, export: ChainExport) -> None:
         """Remember IDs and aliases after the corresponding export is published."""
         self.state["assignments"] = deepcopy(export.assignments)
-        self.state["aliases"] = deepcopy(export.collection["aliases"])
+        self.state["aliases"] = deepcopy(export.aliases)
+        self.state["public_ids"] = deepcopy(export.public_ids)

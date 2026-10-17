@@ -8,6 +8,7 @@ from tqdm import tqdm
 
 from services.chain_export import publish_json
 from services.chain_records import apply_item_chain_references
+from services.chain_reporting import previous_normalizations, report_normalizations
 from services.chains import ChainStore
 from services.downloader import Downloader
 from services.item_refresh import (
@@ -311,7 +312,8 @@ def main():
 
         chain_store = ChainStore("data/.chain-state/state.json")
         items = process_all_items(items, downloader, codes, refresh_plan, chain_store)
-        chain_export = chain_store.build_export(items)
+        previous = previous_normalizations()
+        chain_export = chain_store.build_export(items, codes=codes)
         apply_item_chain_references(items, chain_export.item_references)
         files = {
             "api/items.json": items,
@@ -323,11 +325,13 @@ def main():
             },
             "api/chains.json": chain_export.collection,
             "api/chains-report.json": chain_export.report,
+            "api/chains-normalization.json": chain_export.normalization_report,
         }
         export_types(items, files)
         publish_json(files)
         chain_store.update_identity_history(chain_export)
         chain_store.save()
+        report_normalizations(chain_export.normalization_report, previous)
     finally:
         downloader.b.close()
 

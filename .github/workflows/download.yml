@@ -32,6 +32,14 @@ jobs:
         run: uv run python -m pytest tests/test_web_parser.py tests/test_parser_smoke_live.py -q
       - name: Fetch the data
         run: uv run fetch.py
+      - name: Upload chain normalization evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: chain-normalization
+          path: ${{ runner.temp }}/chain-normalization/
+          if-no-files-found: ignore
+          retention-days: 90
       - name: Commit and Push
         run: |
           cd ./data

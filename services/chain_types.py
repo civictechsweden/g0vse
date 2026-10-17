@@ -58,23 +58,43 @@ class ExternalIds(TypedDict):
     celex: list[str]
 
 
-class ChainRecord(HasPhases[PublishedDocument]):
-    id: str
-    external_ids: ExternalIds
-    sources: list[str]
+class ChainDocument(TypedDict):
+    url: str
+    title: NotRequired[str | None]
+    date: NotRequired[str]
+
+
+class ChainStage(TypedDict):
+    type: NotRequired[str]
+    name: NotRequired[str]
+    documents: list[ChainDocument]
+
+
+class ChainActor(TypedDict):
+    name: str | None
+    stages: list[ChainStage]
+
+
+class ChainPhase(TypedDict):
+    name: str | None
+    ongoing: NotRequired[bool]
+    actors: list[ChainActor]
+
+
+class ChainRecord(TypedDict):
+    phases: list[ChainPhase]
 
 
 type Assignments = dict[str, str]
 type Aliases = dict[str, list[str]]
 type ChainGroups = dict[str, list[Observation]]
 type ItemReferences = dict[str, set[str]]
+type PublicIds = dict[str, str]
 type MembershipContext = tuple[str | None, str | None, str | None, str]
 
 
 class ChainCollection(TypedDict):
-    version: int
     chains: dict[str, ChainRecord]
-    aliases: Aliases
 
 
 class ChainState(TypedDict):
@@ -84,11 +104,16 @@ class ChainState(TypedDict):
     aliases: Aliases
     redirects: dict[str, str]
     completed: list[str]
+    public_ids: NotRequired[PublicIds]
 
 
 class ChainItem(TypedDict):
     url: str
     chains: NotRequired[list[str]]
+    title: NotRequired[str | None]
+    published: NotRequired[str | None]
+    types: NotRequired[list[str]]
+    senders: NotRequired[list[str]]
 
 
 class Failure(TypedDict):
@@ -126,3 +151,28 @@ class ChainReport(TypedDict):
     recheck: list[str]
     observations: int
     chains: int
+    normalization: NotRequired[dict[str, int]]
+
+
+class NormalizationFinding(TypedDict):
+    id: str
+    chain: str
+    phase: str | None
+    actor: str | None
+    stage: str | None
+    kind: str
+    status: str
+    before: str | None
+    after: str | list[str] | None
+    reason: str
+    documents: list[str]
+    document_title: str | None
+    source: str
+    departments: list[str]
+
+
+class NormalizationReport(TypedDict):
+    version: int
+    summary: dict[str, int]
+    findings: list[NormalizationFinding]
+    recheck: list[str]

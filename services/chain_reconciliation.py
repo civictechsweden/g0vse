@@ -4,7 +4,13 @@ from collections import defaultdict
 from dataclasses import dataclass
 
 from services.chain_parser import digest, memberships
-from services.chain_types import Aliases, Assignments, ChainGroups, Observation
+from services.chain_types import (
+    Aliases,
+    Assignments,
+    ChainGroups,
+    Observation,
+    PublicIds,
+)
 
 
 @dataclass(frozen=True)
@@ -12,6 +18,29 @@ class Reconciliation:
     groups: ChainGroups
     assignments: Assignments
     aliases: Aliases
+
+
+def assign_public_ids(reconciliation: Reconciliation, previous: PublicIds) -> PublicIds:
+    """Reserve published short IDs forever; extend only a colliding new ID."""
+    public_ids = dict(previous)
+    if len(set(public_ids.values())) != len(public_ids):
+        raise ValueError("Duplicate public chain IDs in stored registry")
+    used = set(public_ids.values())
+    identities = (
+        set(reconciliation.groups)
+        | set(reconciliation.aliases)
+        | {target for targets in reconciliation.aliases.values() for target in targets}
+    )
+    for identity in sorted(identities - public_ids.keys()):
+        full = identity.removeprefix("chain-")
+        length = min(16, len(full))
+        while full[:length] in used:
+            if length == len(full):
+                raise ValueError(f"Cannot assign a unique public ID to {identity}")
+            length = min(length + 2, len(full))
+        public_ids[identity] = full[:length]
+        used.add(full[:length])
+    return dict(sorted(public_ids.items()))
 
 
 def observation_identity(observation: Observation) -> list[str | list[str]]:
@@ -110,10 +139,10 @@ def resolve_aliases(
         return targets
 
     # A -> B -> C becomes A -> C. A split A -> [A, D] deliberately retains
-    # A in its own successor list: clients must consult aliases for live IDs too.
-    public_aliases: Aliases = {}
+    # A in its own successor list, preserving the complete internal history.
+    resolved_aliases: Aliases = {}
     for previous_id in sorted(aliases):
         targets = sorted(live_targets(previous_id, set()))
         if targets and targets != [previous_id]:
-            public_aliases[previous_id] = targets
-    return public_aliases
+            resolved_aliases[previous_id] = targets
+    return resolved_aliases

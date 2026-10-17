@@ -5,16 +5,20 @@ from collections.abc import Iterable
 from copy import deepcopy
 from dataclasses import dataclass
 
+from services.chain_normalization import stage_type_from_name
 from services.chain_parser import normalize_url
 from services.chain_types import (
     Actor,
-    Aliases,
     AmbiguousMatch,
+    ChainActor,
     ChainCollection,
+    ChainDocument,
     ChainGroups,
     ChainItem,
+    ChainPhase,
     ChainRecord,
     ChainReport,
+    ChainStage,
     Conflict,
     Document,
     Failure,
@@ -22,6 +26,7 @@ from services.chain_types import (
     MembershipContext,
     Observation,
     Phase,
+    PublicIds,
     PublishedDocument,
     Stage,
 )
@@ -32,36 +37,41 @@ class ChainRecords:
     collection: ChainCollection
     item_references: ItemReferences
     conflicts: list[Conflict]
+    sources: dict[str, list[str]]
+    evidence: dict[str, list[Phase[PublishedDocument]]]
 
 
 def build_chain_records(
-    groups: ChainGroups, aliases: Aliases, items: list[ChainItem]
+    groups: ChainGroups, items: list[ChainItem], public_ids: PublicIds
 ) -> ChainRecords:
-    local_item_urls = {normalize_url(item["url"]): item["url"] for item in items}
+    item_index = {normalize_url(item["url"]): item for item in items}
     item_references: ItemReferences = defaultdict(set)
     records: dict[str, ChainRecord] = {}
     conflicts: list[Conflict] = []
+    sources: dict[str, list[str]] = {}
+    evidence: dict[str, list[Phase[PublishedDocument]]] = {}
     for chain_id, source_views in sorted(groups.items()):
-        record, chain_references, chain_conflicts = build_chain_record(
-            chain_id, source_views, local_item_urls
+        public_id = public_ids[chain_id]
+        record, chain_references, chain_conflicts, phases = build_chain_record(
+            public_id, source_views, item_index
         )
-        records[chain_id] = record
+        records[public_id] = record
+        sources[public_id] = [view["source"] for view in source_views]
+        evidence[public_id] = phases
         for member_url, chain_ids in chain_references.items():
             item_references[member_url].update(chain_ids)
         conflicts.extend(chain_conflicts)
     collection: ChainCollection = {
-        "version": 1,
-        "chains": records,
-        "aliases": deepcopy(aliases),
+        "chains": dict(sorted(records.items())),
     }
-    return ChainRecords(collection, dict(item_references), conflicts)
+    return ChainRecords(collection, dict(item_references), conflicts, sources, evidence)
 
 
 def build_chain_record(
     chain_id: str,
     source_views: list[Observation],
-    local_item_urls: dict[str, str],
-) -> tuple[ChainRecord, ItemReferences, list[Conflict]]:
+    item_index: dict[str, ChainItem],
+) -> tuple[ChainRecord, ItemReferences, list[Conflict], list[Phase[PublishedDocument]]]:
     phases: list[Phase[PublishedDocument]] = []
     phases_by_name: dict[str | None, Phase[PublishedDocument]] = {}
     metadata_variants: dict[MembershipContext, set[tuple[str | None, str | None]]] = (
@@ -109,7 +119,9 @@ def build_chain_record(
                         merge_document(
                             stage,
                             document,
-                            local_item_urls.get(member_url, member_url),
+                            item_index[member_url]["url"]
+                            if member_url in item_index
+                            else member_url,
                             observation["source"],
                         )
     for context, variants in metadata_variants.items():
@@ -121,15 +133,73 @@ def build_chain_record(
                     "sources": source_view_urls,
                 }
             )
-    record: ChainRecord = {
-        "id": chain_id,
-        "external_ids": {
-            "celex": sorted({celex for view in source_views for celex in view["celex"]})
-        },
-        "phases": phases,
-        "sources": source_view_urls,
-    }
-    return record, item_references, conflicts
+    # Empty source scaffolding has no public membership. Keep evidence aligned
+    # with the public arrays so normalization can inspect the original labels.
+    for phase in phases:
+        for actor in phase["actors"]:
+            actor["stages"] = [s for s in actor["stages"] if s["documents"]]
+        phase["actors"] = [a for a in phase["actors"] if a["stages"]]
+    phases = [p for p in phases if p["actors"]]
+    record: ChainRecord = {"phases": [assemble_phase(p, item_index) for p in phases]}
+    return record, item_references, conflicts, phases
+
+
+# These are the type keys already agreed in chains.draft.json. Additional URL
+# types are applied explicitly by the subsequent normalization, with a finding.
+DRAFT_STAGE_TYPES = {
+    "1325",
+    "1327",
+    "1329",
+    "1330",
+    "1331",
+    "2085",
+    "2099",
+    "1341",
+    "1342",
+    "riksdagsbeslut",
+    "sfs",
+    "eu-direktiv",
+    "eu-forordning",
+}
+
+
+def assemble_phase(
+    phase: Phase[PublishedDocument], item_index: dict[str, ChainItem]
+) -> ChainPhase:
+    result: ChainPhase = {"name": phase["name"], "actors": []}
+    if phase["ongoing"] is not None:
+        result["ongoing"] = phase["ongoing"]
+    for actor in phase["actors"]:
+        public_actor: ChainActor = {"name": actor["name"], "stages": []}
+        for stage in actor["stages"]:
+            public_stage: ChainStage = {"documents": []}
+            stage_type = stage_type_from_name(stage["name"])
+            if stage_type in DRAFT_STAGE_TYPES:
+                public_stage["type"] = stage_type
+            elif stage["name"]:
+                public_stage["name"] = stage["name"]
+            seen = set()
+            for document in stage["documents"]:
+                item = item_index.get(normalize_url(document["url"]))
+                public_document: ChainDocument = {"url": document["url"]}
+                if item is None or not item.get("title"):
+                    public_document["title"] = document["title"]
+                date = document["date"]
+                if date and (
+                    not item or date[:10] != (item.get("published") or "")[:10]
+                ):
+                    public_document["date"] = date
+                key = (
+                    public_document["url"],
+                    public_document.get("title"),
+                    public_document.get("date"),
+                )
+                if key not in seen:
+                    seen.add(key)
+                    public_stage["documents"].append(public_document)
+            public_actor["stages"].append(public_stage)
+        result["actors"].append(public_actor)
+    return result
 
 
 def find_or_add_actor(
@@ -199,7 +269,7 @@ def build_chain_report(
         source
         for match in ambiguous
         for chain_id in match["chains"]
-        for source in records.collection["chains"][chain_id]["sources"]
+        for source in records.sources[chain_id]
     )
     return {
         "parser_failures": len(failures),
