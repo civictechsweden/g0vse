@@ -8,7 +8,7 @@ from urllib.parse import parse_qs, urlencode, urljoin, urlsplit, urlunsplit
 
 from selectolax.parser import HTMLParser, Node
 
-from services.chain_types import (
+from services.chains.types import (
     Actor,
     Document,
     HasPhases,

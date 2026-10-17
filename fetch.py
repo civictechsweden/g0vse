@@ -6,10 +6,10 @@ from pathlib import Path
 
 from tqdm import tqdm
 
-from services.chain_export import publish_json
-from services.chain_records import apply_item_chain_references
-from services.chain_reporting import previous_normalizations, report_normalizations
 from services.chains import ChainStore
+from services.chains.export import publish_json
+from services.chains.records import apply_item_chain_references
+from services.chains.reporting import remove_published_reports, report_normalizations
 from services.downloader import Downloader
 from services.item_refresh import (
     RefreshPlan,
@@ -205,7 +205,6 @@ def process_all_items(items, downloader, codes, refresh_plan=None, chain_store=N
                     rel_path = os.path.relpath(os.path.join(root, file), "data/")
                     existing_mds.add(rel_path)
 
-    processed_count = 0
     changed_refresh_urls = set(refresh_plan.new_urls)
     try:
         with tqdm(items, desc="Processing items", unit="item") as pbar:
@@ -239,22 +238,11 @@ def process_all_items(items, downloader, codes, refresh_plan=None, chain_store=N
                 if force_refresh and outcome is ProcessingOutcome.CHANGED:
                     changed_refresh_urls.add(url)
 
-                if outcome in {
-                    ProcessingOutcome.CHANGED,
-                    ProcessingOutcome.UNCHANGED,
-                }:
-                    processed_count += 1
-                    if processed_count % 1000 == 0:
-                        if chain_store is not None:
-                            chain_store.save()
-
                 # Periodically trigger garbage collection to free fragmented memory
                 if (i + 1) % 500 == 0:
                     gc.collect()
     except KeyboardInterrupt:
-        print("\nInterrupted by user. Saving chain observations...")
-        if chain_store is not None:
-            chain_store.save()
+        print("\nInterrupted by user. Skipping the final JSON export.")
         raise
     except Exception as e:
         print(f"\nCrash detected: {e}")
@@ -310,9 +298,8 @@ def main():
     try:
         items, codes, refresh_plan = prepare_items(downloader, timer)
 
-        chain_store = ChainStore("data/.chain-state/state.json")
+        chain_store = ChainStore.from_file("data/api/chains.json")
         items = process_all_items(items, downloader, codes, refresh_plan, chain_store)
-        previous = previous_normalizations()
         chain_export = chain_store.build_export(items, codes=codes)
         apply_item_chain_references(items, chain_export.item_references)
         files = {
@@ -324,14 +311,11 @@ def main():
                 "codes": len(codes),
             },
             "api/chains.json": chain_export.collection,
-            "api/chains-report.json": chain_export.report,
-            "api/chains-normalization.json": chain_export.normalization_report,
         }
         export_types(items, files)
         publish_json(files)
-        chain_store.update_identity_history(chain_export)
-        chain_store.save()
-        report_normalizations(chain_export.normalization_report, previous)
+        remove_published_reports()
+        report_normalizations(chain_export.normalization_report)
     finally:
         downloader.b.close()
 

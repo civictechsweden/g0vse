@@ -8,16 +8,14 @@ from pathlib import Path
 from typing import TypedDict
 from urllib.parse import urlsplit
 
-from services.chain_normalization import (
+from services.chains.normalization import (
     TYPE_NAMES,
     infer_document_type,
     infer_stage_type,
     stage_type_from_name,
     type_from_url,
 )
-from services.chain_reconciliation import assign_public_ids, reconcile_identities
-from services.chain_records import DRAFT_STAGE_TYPES, build_chain_records
-from services.chains import ChainStore
+from services.chains.records import DRAFT_STAGE_TYPES
 
 
 class UrlGroup(TypedDict):
@@ -50,25 +48,21 @@ def analyse(data_dir: Path, draft_path: Path | None = None) -> dict:
     collection = json.loads((data_dir / "api/chains.json").read_text())
     item_list = json.loads((data_dir / "api/items.json").read_text())
     items = {local_key(i["url"]): i for i in item_list}
-    if collection.get("version") == 1:
-        chains = collection["chains"]
-    else:
-        state_path = data_dir / ".chain-state/state.json"
-        if not state_path.exists():
-            raise FileNotFoundError(
-                "Auditing original stage headings in lean exports requires the saved chain state"
-            )
-        store = ChainStore(state_path)
-        reconciliation = reconcile_identities(
-            store.state["observations"],
-            store.state["assignments"],
-            store.state["aliases"],
-        )
-        ids = assign_public_ids(reconciliation, store.state.get("public_ids", {}))
-        records = build_chain_records(reconciliation.groups, item_list, ids)
-        chains = {
-            chain: {"phases": phases} for chain, phases in records.evidence.items()
-        }
+    chains = collection["chains"]
+    # The published schema omits canonical metadata and raw source provenance.
+    # For this URL audit, the document page itself is the example link.
+    for chain in chains.values():
+        for phase in chain["phases"]:
+            for actor in phase["actors"]:
+                for stage in actor["stages"]:
+                    stage["name"] = stage.get("name") or TYPE_NAMES.get(
+                        stage.get("type")
+                    )
+                    for document in stage["documents"]:
+                        item = items.get(local_key(document["url"]), {})
+                        document.setdefault("date", item.get("published"))
+                        document.setdefault("title", item.get("title"))
+                        document.setdefault("sources", [document["url"]])
     if draft_path is not None:
         draft = json.loads(draft_path.read_text())
         exotic_names = {
@@ -212,7 +206,7 @@ def markdown(report: dict) -> str:
     lines = [
         "# Document types inferred from chain links",
         "",
-        "Analysis of the saved backfill, not a new crawl. Version 2 exports are audited through their original checkpoint observations.",
+        "Analysis of the published collection, not a new crawl. Original source-label evidence requires a fresh local backfill.",
         "",
         f"{summary['chains']:,} chains; {summary['memberships']:,} stage memberships; {summary['unique_urls']:,} distinct URLs. Repeated title/date variants of the same membership are counted once. Hosts differing only by `www` are combined. Other host spellings remain distinct.",
         "",
@@ -281,14 +275,14 @@ def markdown(report: dict) -> str:
         "",
         f"Across all stages, {summary['mixed_stages']} contain confidently classified documents of different stage types, and {summary['heading_disagreements']} uniform stages have another type than their recognized heading. These are diagnostics, not counts of proven website errors. Full cases are retained in `chains-url-report.json`.",
         "",
-        "Rules are isolated in `services/chain_normalization.py` and also used by the lean exporter. This audit itself changes no stored observations or exported chain data.",
+        "Rules are isolated in `services/chains/normalization.py` and also used by the lean exporter. This audit itself changes no stored observations or exported chain data.",
         "",
         "Source definitions: [EUR-Lex CELEX numbers](https://eur-lex.europa.eu/content/help/eurlex-content/celex-number.html?locale=en), [EUR-Lex document types](https://eur-lex.europa.eu/content/tools/TableOfSectors/types_of_documents_in_eurlex.html?locale=en), [Riksdagen document types](https://www.riksdagen.se/sv/dokument-och-lagar/).",
         "",
         "Reproduce:",
         "",
         "```bash",
-        "uv run audit_chain_types.py",
+        "uv run python -m scripts.audit_chain_types",
         "```",
         "",
     ]

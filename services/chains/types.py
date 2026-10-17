@@ -54,10 +54,6 @@ class Observation(ObservationContent):
     content_hash: str
 
 
-class ExternalIds(TypedDict):
-    celex: list[str]
-
-
 class ChainDocument(TypedDict):
     url: str
     title: NotRequired[str | None]
@@ -85,8 +81,6 @@ class ChainRecord(TypedDict):
     phases: list[ChainPhase]
 
 
-type Assignments = dict[str, str]
-type Aliases = dict[str, list[str]]
 type ChainGroups = dict[str, list[Observation]]
 type ItemReferences = dict[str, set[str]]
 type PublicIds = dict[str, str]
@@ -97,14 +91,14 @@ class ChainCollection(TypedDict):
     chains: dict[str, ChainRecord]
 
 
-class ChainState(TypedDict):
-    version: int
-    observations: dict[str, Observation]
-    assignments: Assignments
-    aliases: Aliases
-    redirects: dict[str, str]
-    completed: list[str]
-    public_ids: NotRequired[PublicIds]
+class Failure(TypedDict):
+    source: str
+    error: str
+
+
+class RecheckProgress(TypedDict):
+    failures: list[Failure]
+    recheck: list[str]
 
 
 class ChainItem(TypedDict):
@@ -114,11 +108,6 @@ class ChainItem(TypedDict):
     published: NotRequired[str | None]
     types: NotRequired[list[str]]
     senders: NotRequired[list[str]]
-
-
-class Failure(TypedDict):
-    source: str
-    error: str
 
 
 class AmbiguousMatch(TypedDict):
@@ -141,14 +130,12 @@ class MembershipConflict(TypedDict):
 type Conflict = PhaseConflict | MembershipConflict
 
 
-class ChainReport(TypedDict):
+class ChainReport(RecheckProgress):
     parser_failures: int
     ambiguous_matches: int
     conflicting_observations: int
-    failures: list[Failure]
     ambiguous: list[AmbiguousMatch]
     conflicts: list[Conflict]
-    recheck: list[str]
     observations: int
     chains: int
     normalization: NotRequired[dict[str, int]]

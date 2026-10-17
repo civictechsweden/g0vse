@@ -5,9 +5,9 @@ from collections.abc import Iterable
 from copy import deepcopy
 from dataclasses import dataclass
 
-from services.chain_normalization import stage_type_from_name
-from services.chain_parser import normalize_url
-from services.chain_types import (
+from services.chains.normalization import stage_type_from_name
+from services.chains.parser import normalize_url
+from services.chains.types import (
     Actor,
     AmbiguousMatch,
     ChainActor,
@@ -269,7 +269,7 @@ def build_chain_report(
         source
         for match in ambiguous
         for chain_id in match["chains"]
-        for source in records.sources[chain_id]
+        for source in records.sources.get(chain_id, [])
     )
     return {
         "parser_failures": len(failures),

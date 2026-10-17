@@ -3,8 +3,8 @@
 from collections import Counter
 from dataclasses import dataclass
 
-from services.chain_parser import digest, normalize_url
-from services.chain_types import (
+from services.chains.parser import digest, normalize_url
+from services.chains.types import (
     ChainItem,
     NormalizationFinding,
     NormalizationReport,

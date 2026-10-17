@@ -1,4 +1,4 @@
-"""Bounded Actions summary and complete downloadable normalization evidence."""
+"""Bounded Actions summary and optional local diagnostic reports."""
 
 import html
 import json
@@ -6,9 +6,8 @@ import os
 from pathlib import Path
 from urllib.parse import quote
 
-from services.chain_types import NormalizationFinding, NormalizationReport
+from services.chains.types import ChainReport, NormalizationFinding, NormalizationReport
 
-REPORT_PATH = Path("data/api/chains-normalization.json")
 ISSUE_LABELS = {
     "normalized_stage": "Stage name normalized",
     "split_stage": "Mixed stage split",
@@ -18,10 +17,6 @@ ISSUE_LABELS = {
     "date_discrepancy": "Chain/item date discrepancy",
     "actor_group": "Actor/group heading",
 }
-
-
-def previous_normalizations(path: Path = REPORT_PATH) -> NormalizationReport | None:
-    return json.loads(path.read_text()) if path.exists() else None
 
 
 def cell(value: object, limit: int = 160) -> str:
@@ -50,13 +45,10 @@ def finding_row(finding: NormalizationFinding) -> str:
 
 def render_normalization_report(
     report: NormalizationReport,
-    previous: NormalizationReport | None = None,
     *,
     max_rows: int | None = None,
     max_bytes: int | None = None,
 ) -> str:
-    before = {f["id"] for f in previous["findings"]} if previous else set()
-    current = {f["id"] for f in report["findings"]}
     summary = report["summary"]
     lines = [
         "## Legislative chain normalization",
@@ -65,15 +57,14 @@ def render_normalization_report(
         f"split **{summary.get('split_stages', 0):,}** mixed stages. "
         f"**{summary.get('reviews', 0):,}** findings need review.",
         "",
-        f"New findings: **{len(current - before):,}**. "
-        f"No longer observed: **{len(before - current):,}**. "
-        "These comparisons use stored observations; they are not a fresh check of every page.",
+        "These findings use stored observations; they are not a fresh check of every page.",
         "",
         "Type mappings standardize the vocabulary. Review findings are not automatic corrections. "
         "Chain dates and actor/group headings remain unchanged. A missing department is shown explicitly.",
         "",
-        "Full evidence: `api/chains-normalization.json` and the `chain-normalization` workflow artifact. "
-        "`uv run backfill_chains.py --recheck` revisits the affected source views.",
+        "Generate complete reports locally with "
+        "`uv run python -m scripts.backfill_chains --report-dir /tmp/chain-reports`. "
+        "`uv run python -m scripts.backfill_chains --recheck /tmp/chain-reports/chains-report.json` revisits the affected source views.",
         "",
     ]
     lines += ["| Issue | Findings |", "| --- | ---: |"]
@@ -90,7 +81,6 @@ def render_normalization_report(
     findings = sorted(
         report["findings"],
         key=lambda f: (
-            f["id"] in before,
             f["status"] != "normalized",
             f["departments"],
             f["kind"],
@@ -101,7 +91,7 @@ def render_normalization_report(
     patterns = set()
     shown = 0
     for finding in findings:
-        # The short summary illustrates different problems; the full artifact
+        # The short summary illustrates different problems; a full local report
         # keeps one row per finding/chain, never one row per source view.
         pattern = json.dumps(
             [
@@ -128,38 +118,44 @@ def render_normalization_report(
     if shown < len(findings):
         lines += [
             "",
-            f"Showing {shown:,} examples of {len(findings):,} findings. Download the artifact for the complete list.",
+            f"Showing {shown:,} examples of {len(findings):,} findings. Generate a local report for the complete list.",
         ]
     if not findings:
         lines += ["", "No normalization findings in the stored observations."]
     return "\n".join(lines) + "\n"
 
 
-def report_normalizations(
-    report: NormalizationReport, previous: NormalizationReport | None = None
-) -> None:
+def report_normalizations(report: NormalizationReport) -> None:
     summary = report["summary"]
     print(
         f"Normalization: {summary.get('normalized_stages', 0):,} stages mapped, "
         f"{summary.get('split_stages', 0):,} split; "
         f"{summary.get('reviews', 0):,} findings for review."
     )
-    print(f"Normalization evidence: {REPORT_PATH}")
     if path := os.environ.get("GITHUB_STEP_SUMMARY"):
         with Path(path).open("a", encoding="utf-8") as output:
             output.write(
-                render_normalization_report(
-                    report, previous, max_rows=20, max_bytes=40_000
-                )
+                render_normalization_report(report, max_rows=20, max_bytes=40_000)
             )
-    if os.environ.get("GITHUB_ACTIONS") == "true" and (
-        temporary := os.environ.get("RUNNER_TEMP")
+
+
+def write_local_reports(
+    quality: ChainReport, normalization: NormalizationReport, directory: Path
+) -> None:
+    directory.mkdir(parents=True, exist_ok=True)
+    for name, report in (
+        ("chains-report.json", quality),
+        ("chains-normalization.json", normalization),
     ):
-        directory = Path(temporary) / "chain-normalization"
-        directory.mkdir(parents=True, exist_ok=True)
-        (directory / "normalization.json").write_text(
+        (directory / name).write_text(
             json.dumps(report, ensure_ascii=False, indent=2) + "\n"
         )
-        (directory / "normalization.md").write_text(
-            render_normalization_report(report, previous)
-        )
+    (directory / "chains-normalization.md").write_text(
+        render_normalization_report(normalization)
+    )
+
+
+def remove_published_reports(root: Path = Path("data")) -> None:
+    """Remove diagnostic API files left by earlier exports."""
+    for name in ("chains-report.json", "chains-normalization.json"):
+        (root / "api" / name).unlink(missing_ok=True)
