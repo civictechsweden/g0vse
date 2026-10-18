@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import React, { useState } from "react";
+import { convertLink } from '../lib/convertLink.mjs';
 import types from '../types.json';
 
 export default function Home() {
@@ -26,42 +27,19 @@ export default function Home() {
   const [removedSuffix, setRemovedSuffix] = useState("");
   const [addedSuffix, setAddedSuffix] = useState("");
   const [errorMessage, setErrorMessage] = useState("");
-  const regexPrefix = /^(https?:\/\/)?(www\.)?(regeringen\.se|gov\.se)/i;
-  const regexSuffix = /\/$/;
-
-  const convert = async (e) => {
+  const convert = (e) => {
     const link = e.target.value;
     setOldLink(link);
     e.preventDefault();
 
-    if (regexPrefix.test(link)) {
-      const addedPrefix = "https://g0v.se";
-      const removedPrefix = link.match(regexPrefix);
-      var updatedLink = link.replace(regexPrefix, "");
-      const removedSuffix = link.match(regexSuffix);
-      updatedLink = updatedLink.replace(regexSuffix, "");
-
-      var addedSuffix = "";
-
-      if (updatedLink == "") {
-        addedSuffix += "/api/items.json";
-      }
-      else if (types.some(type => updatedLink.endsWith(type))) {
-        addedSuffix += ".json";
-      }
-      else {
-        addedSuffix += ".md";
-      }
-
-      if (removedPrefix) {
-        setRemovedPrefix(removedPrefix[0]);
-      }
-
-      setAddedPrefix(addedPrefix);
-      setMiddle(updatedLink);
-      setRemovedSuffix(removedSuffix);
-      setAddedSuffix(addedSuffix);
-      setNewLink(addedPrefix + updatedLink + addedSuffix);
+    const converted = convertLink(link, types);
+    if (converted) {
+      setRemovedPrefix(converted.removedPrefix);
+      setAddedPrefix(converted.addedPrefix);
+      setMiddle(converted.middle);
+      setRemovedSuffix(converted.removedSuffix);
+      setAddedSuffix(converted.addedSuffix);
+      setNewLink(converted.newLink);
 
       setErrorMessage("");
     }

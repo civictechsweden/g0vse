@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "17 23 * * *"
       timezone: "Europe/Stockholm"
+permissions:
+  contents: write
 jobs:
   download:
     runs-on: ubuntu-latest
