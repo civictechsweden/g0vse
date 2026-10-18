@@ -6,9 +6,11 @@ on:
     branches: ["master"]
     paths:
       - 'frontend/**'
+      - '.github/workflows/build_frontend.yml'
   pull_request:
     paths:
       - 'frontend/**'
+      - '.github/workflows/build_frontend.yml'
   workflow_dispatch:
 
 permissions:
