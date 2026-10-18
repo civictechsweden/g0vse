@@ -2,7 +2,8 @@ name: Download new pages from regeringen.se
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 1 * * *" # 1AM UTC every day
+    - cron: "17 23 * * *"
+      timezone: "Europe/Stockholm"
 jobs:
   download:
     runs-on: ubuntu-latest
