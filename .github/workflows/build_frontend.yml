@@ -6,9 +6,11 @@ on:
     branches: ["master"]
     paths:
       - 'frontend/**'
+      - '.github/workflows/build_frontend.yml'
   pull_request:
     paths:
       - 'frontend/**'
+      - '.github/workflows/build_frontend.yml'
   workflow_dispatch:
 
 permissions:
@@ -36,6 +38,7 @@ jobs:
         working-directory: g0vse/frontend
         run: |
           npm ci
+          npm test
           npm run build
       - name: Checkout frontend branch
         if: github.event_name != 'pull_request'

@@ -3,7 +3,11 @@ name: Python quality
 on:
   push:
     branches: ["master"]
+    paths-ignore:
+      - 'frontend/**'
   pull_request:
+    paths-ignore:
+      - 'frontend/**'
 
 permissions:
   contents: read
