@@ -119,11 +119,18 @@ def render_markdown(record, labels, html=None):
                 f"* [{labels.get(code, code)}]({ORIGIN}/tx/{code})"
                 for code in record["participants"]
             )
+        if record.get("location"):
+            content += "\n\nPlats: " + record["location"]
     return f"# {record['title']}\n\nDatum: {date_text}\n\n{content}\n"
 
 
 def parse_detail(html, record):
     tree = LexborHTMLParser(html)
+    identifier = tree.css_first('meta[name="DC.Identifier"]')
+    if identifier is not None and urlsplit(
+        identifier.attributes.get("content") or ""
+    ).path.rstrip("/") != record["url"].rstrip("/"):
+        raise CalendarError("Calendar detail URL disagrees with its listing")
     body = tree.css_first("main.calendarevent .col-1")
     if body is None or text(body.css_first("h1")) != record["title"]:
         raise CalendarError("Calendar detail page does not match its listing")
@@ -140,10 +147,12 @@ def parse_detail(html, record):
         ("updated", 'meta[name="DC.Date.Modified"]'),
     ]:
         node = tree.css_first(selector)
+        if key == "published":
+            node = tree.css_first('meta[name="published"]') or node
         if node is not None:
             try:
                 details[key] = date.fromisoformat(
-                    node.attributes.get("content") or ""
+                    (node.attributes.get("content") or "")[:10]
                 ).isoformat()
             except (KeyError, ValueError) as error:
                 raise CalendarError("Invalid calendar publication metadata") from error

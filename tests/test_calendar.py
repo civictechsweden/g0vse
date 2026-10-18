@@ -205,3 +205,20 @@ def test_wrong_detail_page_or_disagreeing_dates_are_rejected():
             ),
             rows[0],
         )
+
+
+def test_detail_publication_date_is_separate_and_redirected_identity_is_rejected():
+    downloader = CalendarDownloader()
+    row = fetch_listing(downloader, 2)[0][0]
+    html = downloader.details[LATEST].replace(
+        "<head>", '<head><meta name="published" content="2026-10-01 10:00:00">'
+    )
+    details, _, _ = parse_detail(html, row)
+    assert details["published"] == "2026-10-01"
+    assert row["start_date"] == "2026-10-15"
+    redirected = html.replace(
+        "<head>",
+        '<head><meta name="DC.Identifier" content="https://www.regeringen.se/kalendarium/other/">',
+    )
+    with pytest.raises(CalendarError, match="URL disagrees"):
+        parse_detail(redirected, row)
