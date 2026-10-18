@@ -62,7 +62,7 @@ g0vse is composed of three components:
 - a parser to convert the content in the HTML pages into Markdown and structured JSON objects
 - a website to present the project and make it easier to understand what is available.
 
-g0vse can be run by anyone on a local machine but the webscraper and parser are executed each night at approximately 03:00 CET in order to fetch new content that was published the day before.
+g0vse can be run by anyone on a local machine but the webscraper and parser are scheduled daily at 23:17 Stockholm time (CET/CEST) to fetch new and updated content.
 
 ### The Webscraper
 
@@ -74,7 +74,7 @@ The parser's logic can be found mainly in [web_parser.py](./services/web_parser.
 
 ### The scheduled workflows
 
-Each night at 03:00 CET, the code is executed through a [Github Action](https://github.com/civictechsweden/g0vse/blob/master/.github/workflows/download.yml), the data is updated on the branch [data](https://github.com/civictechsweden/g0vse/tree/data) and [deployed](https://github.com/civictechsweden/g0vse/blob/master/.github/workflows/static.yml) at [g0v.se](https://g0v.se).
+Each evening at 23:17 Stockholm time (CET/CEST), the code is scheduled through a [Github Action](https://github.com/civictechsweden/g0vse/blob/master/.github/workflows/download.yml), the data is updated on the branch [data](https://github.com/civictechsweden/g0vse/tree/data) and [deployed](https://github.com/civictechsweden/g0vse/blob/master/.github/workflows/static.yml) at [g0v.se](https://g0v.se).
 
 ### The frontend
 
