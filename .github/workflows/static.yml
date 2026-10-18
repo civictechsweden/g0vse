@@ -38,6 +38,10 @@ jobs:
         with:
           ref: 'master'
           persist-credentials: false
+          sparse-checkout: |
+            /frontend/
+            /.github/actions/build-frontend/
+          sparse-checkout-cone-mode: false
       - uses: ./.github/actions/build-frontend
       - name: Checkout data branch
         uses: actions/checkout@v6

@@ -24,6 +24,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
+        with:
+          sparse-checkout: |
+            /frontend/
+            /.github/actions/build-frontend/
+          sparse-checkout-cone-mode: false
       - uses: ./.github/actions/build-frontend
         with:
           cache: ${{ github.event_name != 'pull_request' }}
