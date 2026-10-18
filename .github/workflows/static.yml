@@ -6,6 +6,7 @@ on:
     branches: ["data"]
   workflow_run:
     workflows: ["Download new pages from regeringen.se", "Build the frontend"]
+    branches: ["master"]
     types:
       - completed
   workflow_dispatch:
@@ -25,27 +26,36 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    if: >-
+      github.event_name != 'workflow_run' ||
+      (github.event.workflow_run.conclusion == 'success' &&
+       github.event.workflow_run.event != 'pull_request')
+    # Only trusted master code is built here, including on workflow_run triggers.
+    cache-mode: write
     steps:
+      - name: Checkout frontend source
+        uses: actions/checkout@v6
+        with:
+          ref: 'master'
+          persist-credentials: false
+      - uses: ./.github/actions/build-frontend
       - name: Checkout data branch
         uses: actions/checkout@v6
         with:
           ref: 'data'
-      - name: Checkout frontend branch
-        uses: actions/checkout@v6
-        with:
-          ref: 'frontend'
-          path: 'frontend'
-      - name: Move frontend contents to root
+          path: 'data'
+          persist-credentials: false
+      - name: Combine latest data and frontend export
         run: |
-          mv frontend/* .
-          rm -rf frontend
+          mkdir site
+          rsync -a --exclude '.git/' data/ site/
+          rsync -a frontend/out/ site/
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: '.'
+          path: 'site'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5

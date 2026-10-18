@@ -1,4 +1,3 @@
-# Simple workflow for deploying static content to GitHub Pages
 name: Build the frontend
 
 on:
@@ -6,54 +5,25 @@ on:
     branches: ["master"]
     paths:
       - 'frontend/**'
+      - '.github/actions/build-frontend/**'
       - '.github/workflows/build_frontend.yml'
+      - '.github/workflows/static.yml'
   pull_request:
     paths:
       - 'frontend/**'
+      - '.github/actions/build-frontend/**'
       - '.github/workflows/build_frontend.yml'
+      - '.github/workflows/static.yml'
   workflow_dispatch:
 
 permissions:
-  contents: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  contents: read
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout master branch
-        uses: actions/checkout@v6
+      - uses: actions/checkout@v6
+      - uses: ./.github/actions/build-frontend
         with:
-          path: "g0vse"
-      - name: Set up Node.js
-        uses: actions/setup-node@v6
-        with:
-          node-version: "24"
-          cache: "npm"
-          cache-dependency-path: "g0vse/frontend/package-lock.json"
-      - name: Install and build the frontend
-        working-directory: g0vse/frontend
-        run: |
-          npm ci
-          npm test
-          npm run build
-      - name: Checkout frontend branch
-        if: github.event_name != 'pull_request'
-        uses: actions/checkout@v6
-        with:
-          ref: "frontend"
-          path: "frontend"
-      - name: Push the build to the frontend branch
-        if: github.event_name != 'pull_request'
-        working-directory: g0vse/frontend
-        run: |
-          rsync -av --remove-source-files --delete --exclude '.git/' ./out/ ../../frontend/
-          cd ../../frontend
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          git add .
-          git commit -m "Update the frontend" || echo "Nothing to push"
-          git push
+          cache: ${{ github.event_name != 'pull_request' }}
