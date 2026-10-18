@@ -80,13 +80,6 @@ Each evening at 23:17 Stockholm time (CET/CEST), the code is scheduled through a
 
 To present the project, a lightweight static website has been built using NextJS and TailwindCSS. Its code is in the [frontend](./frontend/) folder.
 
-GitHub Actions caches the compiled frontend using a hash of its source files,
-lockfile and build action (including the Node.js version). Data updates reuse this
-export; changed inputs or a missing cache trigger a fresh install, test and build.
-Pull requests always run the full frontend checks. Deployment combines the export
-with the latest `data` branch and publishes a Pages artifact. Generated frontend
-files are no longer committed to a separate branch.
-
 ## What if I want to reuse the code?
 
 Go ahead! You'll need `uv` and to install dependencies using:
