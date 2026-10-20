@@ -7,6 +7,7 @@ from pathlib import Path
 from tqdm import tqdm
 
 from services.agendas.export import prepare_agenda_export
+from services.calendar.export import prepare_calendar_export
 from services.chains import ChainStore
 from services.chains.export import publish_json
 from services.chains.records import apply_item_chain_references
@@ -304,6 +305,7 @@ def main():
         chain_export = chain_store.build_export(items, codes=codes)
         apply_item_chain_references(items, chain_export.item_references)
         files = {}
+        prepare_calendar_export(downloader, codes, files)
         prepare_agenda_export(downloader, codes, files)
         files.update(
             {
