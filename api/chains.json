@@ -114147,6 +114147,32 @@
                 }
             ]
         },
+        "9975e69aa175ce56": {
+            "phases": [
+                {
+                    "name": "Lagstiftning i Sverige",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/kommittedirektiv/2026/10/dir-202698/"
+                                        },
+                                        {
+                                            "url": "/rattsliga-dokument/kommittedirektiv/2025/07/dir.-202574"
+                                        }
+                                    ],
+                                    "type": "1327"
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": true
+                }
+            ]
+        },
         "99891fb4fc6fb2fc": {
             "phases": [
                 {
