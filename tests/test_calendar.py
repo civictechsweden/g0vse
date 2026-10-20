@@ -207,6 +207,47 @@ def test_wrong_detail_page_or_disagreeing_dates_are_rejected():
         )
 
 
+@pytest.mark.parametrize(
+    ("listing_end", "detail_end", "matches"),
+    [
+        ("2026-10-15", None, True),
+        (None, "2026-10-15", True),
+        ("2026-10-15", "2026-10-15", True),
+        ("2026-10-16", None, False),
+        (None, "2026-10-16", False),
+        ("2026-10-16", "2026-10-16", True),
+    ],
+)
+def test_date_comparison_accepts_equivalent_single_days_but_rejects_other_ranges(
+    listing_end, detail_end, matches
+):
+    downloader = CalendarDownloader()
+    response = downloader.responses[2]
+    html = downloader.details[LATEST]
+
+    def add_end(source, end):
+        if end is None:
+            return source
+        return source.replace(
+            "</time>",
+            f'</time><time class="timeCalSticker" datetime="{end}">End</time>',
+            1,
+        )
+
+    response["Message"] = add_end(response["Message"], listing_end)
+    row = parse_fragment(response)[1][0]
+    if listing_end == "2026-10-16":
+        assert row["end_date"] == listing_end
+    else:
+        assert "end_date" not in row
+    html = add_end(html, detail_end)
+    if matches:
+        assert parse_detail(html, row)[0]["published"] == "2026-10-15"
+    else:
+        with pytest.raises(CalendarError, match="dates disagree"):
+            parse_detail(html, row)
+
+
 def test_detail_publication_date_is_separate_and_redirected_identity_is_rejected():
     downloader = CalendarDownloader()
     row = fetch_listing(downloader, 2)[0][0]

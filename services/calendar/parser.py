@@ -47,6 +47,9 @@ def dates(nodes):
         raise CalendarError("Invalid calendar event dates") from error
     if len(values) == 2 and values[1] < values[0]:
         raise CalendarError("Calendar event ends before it starts")
+    # The listing sometimes repeats a single day as a start/end range.
+    if len(values) == 2 and values[0] == values[1]:
+        return values[:1]
     return values
 
 

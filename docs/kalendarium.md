@@ -33,6 +33,8 @@ both ministers and departments. The API sometimes omits former ministers who sti
 appear in footer categories; those categories are retained without inventing a
 participant or inferring the current minister from a department. Optional fields
 are absent when unavailable; `updated` is omitted when equal to `published`.
+Single-day ranges with identical start and end dates omit `end_date`; a repeated
+day in the listing and a single day on the detail page are treated as equivalent.
 Records are sorted by start date and URL, newest first. Source URLs provide identity;
 no generated IDs or additional checkpoint files are needed.
 
