@@ -1,5 +1,964 @@
 [
     {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Arbetsmarknadsdepartementet",
+        "minister": "Johan Britz",
+        "title": "Förordning om ändring i förordningen (2002:623) om behandling av personuppgifter i den arbetsmarknadspolitiska verksamheten",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "A2026/"
+        ],
+        "responsible_official": "Johanna Johnsson",
+        "meeting_date": "2026-10-22",
+        "department_code": "1284",
+        "minister_code": "2792"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Arbetsmarknadsdepartementet",
+        "minister": "Simona Mohamsson",
+        "title": "Förordningar\na) förordning om ändring i förordningen (1990:927) om statlig ersättning för flyktingmottagande m.m.\nb) förordning om ändring i förordningen (2010:1122) om statlig ersättning för insatser för vissa utlänningar",
+        "agenda_number": "III:1",
+        "journal_ids": [
+            "A2026/"
+        ],
+        "responsible_official": "Johanna Johnsson",
+        "meeting_date": "2026-10-22",
+        "department_code": "1284",
+        "minister_code": "2791"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Finansdepartementet",
+        "minister": "Elisabeth Svantesson",
+        "title": "Anställning som departementsråd i Regeringskansliet",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "HR2026/01351"
+        ],
+        "responsible_official": "Johan Ndure",
+        "meeting_date": "2026-10-22",
+        "department_code": "1285",
+        "minister_code": "2613"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Finansdepartementet",
+        "minister": "Elisabeth Svantesson",
+        "title": "Förordning om ändring i folkbokföringsförordningen (1991:749)",
+        "agenda_number": "I:2",
+        "journal_ids": [
+            "Fi2026/"
+        ],
+        "responsible_official": "Niklas Ekstrand",
+        "meeting_date": "2026-10-22",
+        "department_code": "1285",
+        "minister_code": "2613"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Finansdepartementet",
+        "minister": "Elisabeth Svantesson",
+        "title": "Förordning om fastställande av omräknade belopp för vägavgift för år 2027",
+        "agenda_number": "I:3",
+        "journal_ids": [
+            "Fi2026/"
+        ],
+        "responsible_official": "Niklas Ekstrand",
+        "meeting_date": "2026-10-22",
+        "department_code": "1285",
+        "minister_code": "2613"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Finansdepartementet",
+        "minister": "Elisabeth Svantesson",
+        "title": "Uppdrag om ändrad tidpunkt för berörda myndigheters sista utgiftsprognos 2026",
+        "agenda_number": "I:4",
+        "journal_ids": [
+            "Fi2026/"
+        ],
+        "responsible_official": "Johan Ndure",
+        "meeting_date": "2026-10-22",
+        "department_code": "1285",
+        "minister_code": "2613"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Finansdepartementet",
+        "minister": "Elisabeth Svantesson",
+        "title": "Regeringens proposition\nSkattskyldighet för samriskföretag och deras dotterföretag",
+        "agenda_number": "I:5",
+        "journal_ids": [
+            "Fi2026/01196",
+            "Fi2026/01844",
+            "Fi2026/"
+        ],
+        "responsible_official": "Niklas Ekstrand",
+        "meeting_date": "2026-10-22",
+        "department_code": "1285",
+        "minister_code": "2613"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Finansdepartementet",
+        "minister": "Elisabeth Svantesson",
+        "title": "Regeringens proposition\nAvveckling av Skatteverkets id-kortsverksamhet",
+        "agenda_number": "I:6",
+        "journal_ids": [
+            "Fi2011/05390",
+            "Fi2015/03065",
+            "Fi2026/01416",
+            "Fi2026/01848",
+            "Fi2026/"
+        ],
+        "responsible_official": "Niklas Ekstrand",
+        "meeting_date": "2026-10-22",
+        "department_code": "1285",
+        "minister_code": "2613"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Försvarsdepartementet",
+        "minister": "Pål Jonson",
+        "title": "Begäran att få ta del av handlingar",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "Fö2026/01455"
+        ],
+        "responsible_official": "Carin Bratt",
+        "meeting_date": "2026-10-22",
+        "department_code": "1286",
+        "minister_code": "2627"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Försvarsdepartementet",
+        "minister": "Pål Jonson",
+        "title": "Förordning om ändring i förordningen (1995:238) om totalförsvarsplikt",
+        "agenda_number": "I:2",
+        "journal_ids": [
+            "Fö2026/"
+        ],
+        "responsible_official": "Samuel Rudvall",
+        "meeting_date": "2026-10-22",
+        "department_code": "1286",
+        "minister_code": "2627"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Entledigande och förordnande i övervakningskommittén för de nationella programmen avseende fonden för inre säkerhet och instrumentet för ekonomiskt stöd för gränsförvaltning och viseringspolitik",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "Ju2026/"
+        ],
+        "responsible_official": "Helena Swenzén",
+        "meeting_date": "2026-10-22",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Framställning om utlämning till Schweiziska edsförbundet",
+        "agenda_number": "I:2",
+        "journal_ids": [
+            "JUBC2025/01238"
+        ],
+        "responsible_official": "Mattias Larsson",
+        "meeting_date": "2026-10-22",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Ansökan om tillstånd att förrätta vigsel enligt svensk lag utomlands",
+        "agenda_number": "I:3",
+        "journal_ids": [
+            "Ju2026/02176"
+        ],
+        "responsible_official": "Jonas Pontén",
+        "meeting_date": "2026-10-22",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Förordningar\na) förordning om ändring i förundersökningskungörelsen (1947:948)\nb) förordning om ändring i efterlysningskungörelsen (1969:293)\nc) förordning om ändring i passförordningen (1979:664)\nd) förordning om ändring i förordningen (1999:1134) om belastningsregister\ne) förordning om ändring i förordningen (1999:1135) om misstankeregister\nf) förordning om ändring i förordningen (2012:34) om utökade möjligheter till delegering i förvaltningsrätt\ng) förordning om ändring i förordningen (2021:1188) med kompletterande bestämmelser till EU:s förordningar om Schengens informationssystem\nh) förordning om ändring i förordningen (2024:902) om förfarandet vid förverkande av egendom och åläggande av företagsbot",
+        "agenda_number": "I:4",
+        "journal_ids": [
+            "Ju2026/"
+        ],
+        "responsible_official": "Jonas Pontén",
+        "meeting_date": "2026-10-22",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Lagrådsremiss\nLättnader i kraven på hållbarhetsrapportering",
+        "agenda_number": "I:5",
+        "journal_ids": [
+            "Ju2026/00921",
+            "Ju2026/"
+        ],
+        "responsible_official": "Jonas Pontén",
+        "meeting_date": "2026-10-22",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Justitiedepartementet",
+        "minister": "Johan Forssell",
+        "title": "Förordning om ändring i förordningen (2017:193) om statlig ersättning för asylsökande m.fl.",
+        "agenda_number": "II:1",
+        "journal_ids": [
+            "Ju2026/"
+        ],
+        "responsible_official": "Magnus Hermansson",
+        "meeting_date": "2026-10-22",
+        "department_code": "1287",
+        "minister_code": "2618"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Justitiedepartementet",
+        "minister": "Johan Forssell",
+        "title": "Förordning om ändring i förordningen (2019:502) med instruktion för Migrationsverket",
+        "agenda_number": "II:2",
+        "journal_ids": [
+            "Ju2026/"
+        ],
+        "responsible_official": "Magnus Hermansson",
+        "meeting_date": "2026-10-22",
+        "department_code": "1287",
+        "minister_code": "2618"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Klimat- och näringslivsdepartementet",
+        "minister": "Peter Kullgren",
+        "title": "Vikariat som överdirektör vid Affärsverket svenska kraftnät",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "KN2026/"
+        ],
+        "responsible_official": "Maria Åhrling",
+        "meeting_date": "2026-10-22",
+        "department_code": "1291",
+        "minister_code": "2626"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Klimat- och näringslivsdepartementet",
+        "minister": "Romina Pourmokhtari",
+        "title": "Entledigande i Miljöprövningsdelegationen vid Länsstyrelsen i Kalmar län",
+        "agenda_number": "II:1",
+        "journal_ids": [
+            "KN2026/01970"
+        ],
+        "responsible_official": "Maria Åhrling",
+        "meeting_date": "2026-10-22",
+        "department_code": "1291",
+        "minister_code": "2628"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Klimat- och näringslivsdepartementet",
+        "minister": "Romina Pourmokhtari",
+        "title": "Överklaganden av Länsstyrelsen i Blekinge läns beslut om fastställande av vattenskyddsområde och skyddsföreskrifter för vattentäkten Karlsnäs, Ronneby kommun",
+        "agenda_number": "II:2",
+        "journal_ids": [
+            "KN2023/03621"
+        ],
+        "responsible_official": "Maria Åhrling",
+        "meeting_date": "2026-10-22",
+        "department_code": "1291",
+        "minister_code": "2628"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Kulturdepartementet",
+        "minister": "Parisa Liljestrand",
+        "title": "Vikariat som överintendent och chef för Forum för levande historia",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "Ku2026/"
+        ],
+        "responsible_official": "Ida Wettervik",
+        "meeting_date": "2026-10-22",
+        "department_code": "1288",
+        "minister_code": "2624"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Kulturdepartementet",
+        "minister": "Parisa Liljestrand",
+        "title": "Entledigande i insynsrådet för Statens museer för världskultur",
+        "agenda_number": "I:2",
+        "journal_ids": [
+            "Ku2026/00763"
+        ],
+        "responsible_official": "Ida Wettervik",
+        "meeting_date": "2026-10-22",
+        "department_code": "1288",
+        "minister_code": "2624"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Kulturdepartementet",
+        "minister": "Parisa Liljestrand",
+        "title": "Ändring av regleringsbrev för budgetåret 2026 avseende anslagen 1:2, 2:1, 2:2, 4:2, 6:3, 7:2, 7:3, 7:5, 9:1, 10:1 och 10:3",
+        "agenda_number": "I:3",
+        "journal_ids": [
+            "Ku2026/"
+        ],
+        "responsible_official": "Ida Wettervik",
+        "meeting_date": "2026-10-22",
+        "department_code": "1288",
+        "minister_code": "2624"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Landsbygds- och infrastrukturdepartementet",
+        "minister": "Peter Kullgren",
+        "title": "Överklagande av Sveriges geologiska undersöknings beslut om ändrad upplåtelse av nyttjanderätt för bergtäkt på fastigheten Kronoöverloppsmarken 1:1 i Vilhelmina kommun, Västerbottens län",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "LI2026/01257"
+        ],
+        "responsible_official": "Fredrik Ahlén",
+        "meeting_date": "2026-10-22",
+        "department_code": "2425",
+        "minister_code": "2626"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Landsbygds- och infrastrukturdepartementet",
+        "minister": "Peter Kullgren",
+        "title": "Överklagande av Länsstyrelsen i Norrbottens läns beslut om upplåtelse för björn- och älgjakt",
+        "agenda_number": "I:2",
+        "journal_ids": [
+            "LI2026/00869"
+        ],
+        "responsible_official": "Fredrik Ahlén",
+        "meeting_date": "2026-10-22",
+        "department_code": "2425",
+        "minister_code": "2626"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Landsbygds- och infrastrukturdepartementet",
+        "minister": "Peter Kullgren",
+        "title": "Förordning om dels fortsatt giltighet av förordningen (2026:1524) om statligt stöd till företag inom primärproduktion av jordbruksprodukter eller fiskeri- och vattenbruksprodukter för ökade kostnader med anledning av krisen i Mellanöstern, dels ändring i samma förordning",
+        "agenda_number": "I:3",
+        "journal_ids": [
+            "LI2026/01603",
+            "LI2026/01741",
+            "LI2026/"
+        ],
+        "responsible_official": "Fredrik Ahlén",
+        "meeting_date": "2026-10-22",
+        "department_code": "2425",
+        "minister_code": "2626"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Landsbygds- och infrastrukturdepartementet",
+        "minister": "Peter Kullgren",
+        "title": "Ändring av regleringsbrev för budgetåret 2026 avseende Statens jordbruksverk",
+        "agenda_number": "I:4",
+        "journal_ids": [
+            "LI2026/01693",
+            "LI2026/"
+        ],
+        "responsible_official": "Fredrik Ahlén",
+        "meeting_date": "2026-10-22",
+        "department_code": "2425",
+        "minister_code": "2626"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Landsbygds- och infrastrukturdepartementet",
+        "minister": "Peter Kullgren",
+        "title": "Ändring av regleringsbrev för budgetåret 2026 avseende Statens veterinärmedicinska anstalt",
+        "agenda_number": "I:5",
+        "journal_ids": [
+            "LI2026/01693",
+            "LI2026/"
+        ],
+        "responsible_official": "Fredrik Ahlén",
+        "meeting_date": "2026-10-22",
+        "department_code": "2425",
+        "minister_code": "2626"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Landsbygds- och infrastrukturdepartementet",
+        "minister": "Peter Kullgren",
+        "title": "Ändring av regleringsbrev för budgetåret 2026 avseende Livsmedelsverket",
+        "agenda_number": "I:6",
+        "journal_ids": [
+            "LI2026/01693",
+            "LI2026/"
+        ],
+        "responsible_official": "Fredrik Ahlén",
+        "meeting_date": "2026-10-22",
+        "department_code": "2425",
+        "minister_code": "2626"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Landsbygds- och infrastrukturdepartementet",
+        "minister": "Peter Kullgren",
+        "title": "Ändring av beslut om inrättande av en övervakningskommitté för Sveriges strategiska plan för den gemensamma jordbrukspolitiken 2023–2027",
+        "agenda_number": "I:7",
+        "journal_ids": [
+            "LI2026/01531",
+            "LI2026/"
+        ],
+        "responsible_official": "Fredrik Ahlén",
+        "meeting_date": "2026-10-22",
+        "department_code": "2425",
+        "minister_code": "2626"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Socialdepartementet",
+        "minister": "Anna Tenje",
+        "title": "Förordningar\na) förordning om ändring i förordningen (1981:1370) om skyldighet för socialnämnderna att lämna statistiska uppgifter\nb) förordning om ändring i förordningen (2001:637) om behandling av personuppgifter inom socialtjänsten\nc) förordning om ändring i förordningen (2007:1132) med instruktion för Statens institutionsstyrelse\nd) förordning om ändring i förordningen (2023:490) om statsbidrag till kommuner för socialtjänstens och hälso- och sjukvårdens beredskap\ne) förordning om ändring i socialtjänstförordningen (2025:468)\nf) förordning om ändring i förordningen (2026:203) om ändring i socialtjänstförordningen (2025:468)\ng) förordning om ändring i förordningen (2026:1126) om ändring i socialtjänstförordningen (2025:468)\nh) förordning om ändring i förordningen (2026:1140) om ändring i socialtjänstförordningen (2025:468)",
+        "agenda_number": "III:1",
+        "journal_ids": [
+            "S2026/"
+        ],
+        "responsible_official": "Dan Leeman",
+        "meeting_date": "2026-10-22",
+        "department_code": "1292",
+        "minister_code": "2609"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Socialdepartementet",
+        "minister": "Anna Tenje",
+        "title": "Förordning om ändring i förordningen (1977:284) om arbetsskadeförsäkring och statligt personskadeskydd",
+        "agenda_number": "IV:1",
+        "journal_ids": [
+            "S2026/"
+        ],
+        "responsible_official": "Dan Leeman",
+        "meeting_date": "2026-10-22",
+        "department_code": "1292",
+        "minister_code": "2609"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Socialdepartementet",
+        "minister": "Anna Tenje",
+        "title": "Ändring av regleringsbrev för budgetåret 2026 avseende anslag 4:5\nStimulansbidrag och åtgärder inom äldreområdet",
+        "agenda_number": "IV:2",
+        "journal_ids": [
+            "S2026/"
+        ],
+        "responsible_official": "David Oredsson",
+        "meeting_date": "2026-10-22",
+        "department_code": "1292",
+        "minister_code": "2609"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Socialdepartementet",
+        "minister": "Elisabet Lann",
+        "title": "Förordning om ändring i förordningen (1999:58) om förbud mot vissa hälsofarliga varor",
+        "agenda_number": "II:1",
+        "journal_ids": [
+            "S2026/"
+        ],
+        "responsible_official": "Dan Leeman",
+        "meeting_date": "2026-10-22",
+        "department_code": "1292",
+        "minister_code": "2795"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Socialdepartementet",
+        "minister": "Elisabet Lann",
+        "title": "Förordning om ändring i hälso- och sjukvårdsförordningen (2017:80) och motiv till förordningen",
+        "agenda_number": "II:2",
+        "journal_ids": [
+            "S2025/00866",
+            "S2026/"
+        ],
+        "responsible_official": "Dan Leeman",
+        "meeting_date": "2026-10-22",
+        "department_code": "1292",
+        "minister_code": "2795"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Socialdepartementet",
+        "minister": "Elisabet Lann",
+        "title": "Förordning om ändring i hälso- och sjukvårdsförordningen (2017:80) och motiv till förordningen",
+        "agenda_number": "II:3",
+        "journal_ids": [
+            "S2025/00866",
+            "S2026/"
+        ],
+        "responsible_official": "Dan Leeman",
+        "meeting_date": "2026-10-22",
+        "department_code": "1292",
+        "minister_code": "2795"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Socialdepartementet",
+        "minister": "Elisabet Lann",
+        "title": "Uppdrag till Socialstyrelsen att stödja sjukvårdshuvudmännen i arbetet med lagerhållning av sjukvårdsprodukter",
+        "agenda_number": "II:4",
+        "journal_ids": [
+            "S2025/00866"
+        ],
+        "responsible_official": "Dan Leeman",
+        "meeting_date": "2026-10-22",
+        "department_code": "1292",
+        "minister_code": "2795"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Socialdepartementet",
+        "minister": "Jakob Forssmed",
+        "title": "Tilläggsdirektiv till Utredningen om en åldersgräns på sociala medier (S 2025:11)",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "S2026/"
+        ],
+        "responsible_official": "Dan Leeman",
+        "meeting_date": "2026-10-22",
+        "department_code": "1292",
+        "minister_code": "2616"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utbildningsdepartementet",
+        "minister": "Lotta Edholm",
+        "title": "Förordning om ändring i gymnasieförordningen (2010:2039)",
+        "agenda_number": "II:1",
+        "journal_ids": [
+            "U2026/"
+        ],
+        "responsible_official": "Jenny Ferm",
+        "meeting_date": "2026-10-22",
+        "department_code": "1294",
+        "minister_code": "2620"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utbildningsdepartementet",
+        "minister": "Simona Mohamsson",
+        "title": "Förordning om ändring i skolförordningen (2011:185)",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "U2026/"
+        ],
+        "responsible_official": "Jenny Ferm",
+        "meeting_date": "2026-10-22",
+        "department_code": "1294",
+        "minister_code": "2791"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Benjamin Dousa",
+        "title": "Anställning som handelssekreterare i Turkiet",
+        "agenda_number": "II:1",
+        "journal_ids": [
+            "UD2026/13145"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2756"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Benjamin Dousa",
+        "title": "Anställning som handelssekreterare i USA",
+        "agenda_number": "II:2",
+        "journal_ids": [
+            "UD2026/12223"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2756"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Begäran att få ta del av handling",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "UD2026/06695"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Antagande av rådsbeslut om ändring av rådets beslut om en stödåtgärd inom ramen för den europeiska fredsfaciliteten till stöd för den ukrainska försvarsmakten",
+        "agenda_number": "I:10",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Antagande av rådsbeslut om ändring av rådets beslut om en stödåtgärd inom ramen för den europeiska fredsfaciliteten för tillhandahållande till den ukrainska försvarsmakten av militär utrustning och militära plattformar som är utformade för att åstadkomma dödligt våld",
+        "agenda_number": "I:11",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Antagande av rådsbeslut om ändring av rådets beslut om en stödåtgärd inom ramen för den europeiska fredsfaciliteten till stöd för den ukrainska försvarsmakten",
+        "agenda_number": "I:12",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Antagande av rådsbeslut om ändring av rådets beslut om en stödåtgärd inom ramen för den europeiska fredsfaciliteten till stöd för den ukrainska försvarsmakten, som utbildas av Europeiska unionens uppdrag för militärt bistånd till Ukraina, med militär utrustning och militära plattformar som är utformade för att åstadkomma dödligt våld",
+        "agenda_number": "I:13",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Antagande av rådsbeslut om ändring av rådets beslut om en stödåtgärd inom ramen för den europeiska fredsfaciliteten till stöd för den ukrainska försvarsmakten som utbildats av Europeiska unionens uppdrag för militärt bistånd till Ukraina",
+        "agenda_number": "I:14",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Antagande av rådsbeslut om ändring av rådets beslut om en stödåtgärd inom ramen för den europeiska fredsfaciliteten till stöd för Mauretaniens försvarsmakt",
+        "agenda_number": "I:15",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Antagande av rådsbeslut om ändring av rådets beslut om restriktiva åtgärder mot Isil (Daish) och al-Qaida samt personer, grupper, företag och enheter som har samröre med dem",
+        "agenda_number": "I:16",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Antagande av rådsbeslut om ändring av rådets beslut om restriktiva åtgärder mot ledarna i regionen Transnistrien i Republiken Moldavien",
+        "agenda_number": "I:17",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Uppdrag till Kommerskollegium att utföra uppgifter som behörig myndighet enligt vissa rådsförordningar om internationella sanktioner",
+        "agenda_number": "I:2",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Uppdrag till Inspektionen för strategiska produkter att utföra uppgifter som behörig myndighet enligt en rådsförordning om internationella sanktioner",
+        "agenda_number": "I:3",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Uppdrag till Tullverket att utföra uppgifter som behörig myndighet enligt en rådsförordning om internationella sanktioner",
+        "agenda_number": "I:4",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Antagande av rådsbeslut om ändring av rådets beslut om Europeiska unionens militära GSFP-utbildningsuppdrag i Centralafrikanska republiken (EUTM RCA)",
+        "agenda_number": "I:5",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Antagande av rådsbeslut om ändring av rådets beslut om Europeiska unionens rådgivande GSFP-uppdrag i Centralafrikanska republiken (EUAM RCA)",
+        "agenda_number": "I:6",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Antagande av rådsbeslut om ändring av rådets beslut om inrättande av en europeisk fredsfacilitet",
+        "agenda_number": "I:7",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Antagande av rådsbeslut om ändring av rådets beslut om en stödåtgärd inom ramen för den europeiska fredsfaciliteten till stöd för den ukrainska försvarsmakten genom tillhandahållande av ammunition",
+        "agenda_number": "I:8",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
+        "year": 2026,
+        "week": 43,
+        "department": "Utrikesdepartementet",
+        "minister": "Maria Malmer Stenergard",
+        "title": "Antagande av rådsbeslut om ändring av rådets beslut om en stödåtgärd inom ramen för den europeiska fredsfaciliteten för tillhandahållande till den ukrainska försvarsmakten av militär utrustning och militära plattformar som är utformade för att åstadkomma dödligt våld",
+        "agenda_number": "I:9",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-22",
+        "department_code": "1295",
+        "minister_code": "2621"
+    },
+    {
         "source": "/regeringsarenden/regeringsarenden-vecka-42-2026/",
         "year": 2026,
         "week": 42,
