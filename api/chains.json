@@ -41934,6 +41934,9 @@
                                 {
                                     "documents": [
                                         {
+                                            "url": "/rattsliga-dokument/kommittedirektiv/2026/10/dir.-2026123"
+                                        },
+                                        {
                                             "url": "/rattsliga-dokument/kommittedirektiv/2025/10/dir.-202591"
                                         }
                                     ],
@@ -51925,6 +51928,42 @@
                             ]
                         }
                     ]
+                }
+            ]
+        },
+        "4507409fc47d2d6c": {
+            "phases": [
+                {
+                    "name": "Förslag till ny rättsakt inom EU",
+                    "actors": [
+                        {
+                            "name": "EU-kommissionen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=CELEX:52026PC0567",
+                                            "title": "Förslag till EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING om inrättande av en åtgärdsram för att stärka unionens innovationsekosystem och om ändring av förordning (EU) 2017/1001 (förordningen om europeisk innovation)",
+                                            "date": "2026-09-09"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/faktapromemoria/2026/10/202627fpm2/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": false
                 }
             ]
         },
@@ -102608,6 +102647,42 @@
                 }
             ]
         },
+        "8ab1fbbd1fba5e44": {
+            "phases": [
+                {
+                    "name": "Förslag till ny rättsakt inom EU",
+                    "actors": [
+                        {
+                            "name": "EU-kommissionen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=CELEX:52026PC0681",
+                                            "title": "Förslag till EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING om digitala miljöer som är ansvarsfulla och kan ställas till svars (EU KIDS ACT)",
+                                            "date": "2026-09-17"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/faktapromemoria/2026/10/202627fpm10/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": false
+                }
+            ]
+        },
         "8aca1447e47e1f24": {
             "phases": [
                 {
@@ -147042,6 +147117,28 @@
                 }
             ]
         },
+        "c61bf10600912ccf": {
+            "phases": [
+                {
+                    "name": "Förslag till ny rättsakt inom EU",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/faktapromemoria/2026/10/202627fpm3/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": false
+                }
+            ]
+        },
         "c6324b8eaf086aed": {
             "phases": [
                 {
@@ -165718,6 +165815,47 @@
                             ]
                         }
                     ]
+                }
+            ]
+        },
+        "dec2eddf6ac91c61": {
+            "phases": [
+                {
+                    "name": "Förslag till ny rättsakt inom EU",
+                    "actors": [
+                        {
+                            "name": "EU-kommissionen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=CELEX:52026PC0990",
+                                            "title": "Förslag till EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV om erkännande av tredjelandsmedborgares kvalifikationer",
+                                            "date": "2026-09-15"
+                                        },
+                                        {
+                                            "url": "https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=CELEX:52026PC0995",
+                                            "title": "Förslag till EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV om ändring av direktiv 2005/36/EG vad gäller digitalisering av förfaranden och erkännande av yrkeskvalifikationer som utfärdats utanför unionen och av förordning (EU) nr 1024/2012",
+                                            "date": "2026-09-15"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/faktapromemoria/2026/10/202627fpm8/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": false
                 }
             ]
         },
