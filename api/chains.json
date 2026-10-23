@@ -27461,6 +27461,42 @@
                 }
             ]
         },
+        "23db4c425f076aed": {
+            "phases": [
+                {
+                    "name": "Förslag till ny rättsakt inom EU",
+                    "actors": [
+                        {
+                            "name": "EU-kommissionen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=CELEX:52026PC0455",
+                                            "title": "Förslag till EUROPAPARLAMENTETS OCH RÅDETS BESLUT om förlängning av unionsinsatsen Europeisk kulturhuvudstad för åren 2034–2047 och om upphävande av beslut nr 445/2014/EU",
+                                            "date": "2026-09-10"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/faktapromemoria/2026/10/202627fpm5/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": false
+                }
+            ]
+        },
         "23e5e9e13b1e011a": {
             "phases": [
                 {
@@ -104060,6 +104096,42 @@
                 }
             ]
         },
+        "8cb29b65bc3eeff0": {
+            "phases": [
+                {
+                    "name": "Förslag till ny rättsakt inom EU",
+                    "actors": [
+                        {
+                            "name": "EU-kommissionen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=CELEX:52026PC0599",
+                                            "title": "Förslag till EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING om fastställande av en ram för åtgärder i medlemsstaterna som tryggar tillgången till bostäder till överkomlig kostnad och bostadsutbudet (förordning om bostäder till överkomlig kostnad)",
+                                            "date": "2026-09-09"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/faktapromemoria/2026/10/202627fpm1/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": false
+                }
+            ]
+        },
         "8cc3bbaaa43c6c20": {
             "phases": [
                 {
@@ -108544,6 +108616,42 @@
                             ]
                         }
                     ]
+                }
+            ]
+        },
+        "924e544990aafde3": {
+            "phases": [
+                {
+                    "name": "Förslag till ny rättsakt inom EU",
+                    "actors": [
+                        {
+                            "name": "EU-kommissionen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=CELEX:52026PC0992",
+                                            "title": "Förslag till EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING om portabilitet för kvalifikationer och färdigheter och om ändring av förordning (EU) 2018/1724 (förordningen om kompetensportabilitet)",
+                                            "date": "2026-09-15"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/faktapromemoria/2026/10/202627fpm7/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": false
                 }
             ]
         },
@@ -130949,6 +131057,42 @@
                                         }
                                     ],
                                     "type": "sfs"
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": false
+                }
+            ]
+        },
+        "b21398bd3aa98ca3": {
+            "phases": [
+                {
+                    "name": "Förslag till ny rättsakt inom EU",
+                    "actors": [
+                        {
+                            "name": "EU-kommissionen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=CELEX:52026PC0498",
+                                            "title": "Förslag till EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING om ändring av förordning (EU) 2021/1139 vad gäller förenkling och införlivandet av WTO-avtalet om fiskesubventioner",
+                                            "date": "2026-09-21"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/faktapromemoria/2026/10/202627fpm9/"
+                                        }
+                                    ]
                                 }
                             ]
                         }
@@ -168624,6 +168768,42 @@
                                     "documents": [
                                         {
                                             "url": "/faktapromemoria/2024/11/20242025fpm5/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": false
+                }
+            ]
+        },
+        "e379b49adae72b0d": {
+            "phases": [
+                {
+                    "name": "Förslag till ny rättsakt inom EU",
+                    "actors": [
+                        {
+                            "name": "EU-kommissionen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "https://eur-lex.europa.eu/legal-content/SV/ALL/?uri=CELEX:52026PC0985",
+                                            "title": "Förslag till EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING om ändring av förordning (EU) 2019/1149 om inrättande av Europeiska arbetsmyndigheten, förordning (EU) 2016/589 om ett europeiskt nätverk för arbetsförmedlingar (Eures), om arbetstagares tillgång till rörlighetstjänster och om ytterligare integration av arbetsmarknaderna, och förordning (EU) nr 1024/2012 om administrativt samarbete genom informationssystemet för den inre marknaden, samt om upphävande av kommissionens genomförandebeslut (EU) 2017/1256, (EU) 2018/170, (EU) 2018/1020 och (EU) 2018/1021",
+                                            "date": "2026-09-15"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/faktapromemoria/2026/10/202627fpm4/"
                                         }
                                     ]
                                 }
