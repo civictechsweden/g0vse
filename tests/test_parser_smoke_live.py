@@ -1,6 +1,8 @@
+from collections import Counter
+
 import pytest
 
-from services.agendas.fetcher import fingerprint, query_url
+from services.agendas.fetcher import apply_weekly_context, fingerprint, query_url
 from services.agendas.parser import listing_root, parse_fragment, weekly_context
 from services.chains.parser import extract_chains, memberships, normalize_url
 from services.downloader import Downloader
@@ -156,7 +158,7 @@ def test_eu_chain_keeps_selected_proposal_actors_and_alternate_views(downloader)
     )
 
 
-def test_weekly_agenda_keeps_content_and_case_api_paginates(downloader):
+def test_weekly_agenda_keeps_content_and_case_api_records(downloader):
     html = downloader.get_webpage(AGENDA_URL)
     assert html is not None
     markdown, _ = extract_page(html, AGENDA_URL)
@@ -167,9 +169,11 @@ def test_weekly_agenda_keeps_content_and_case_api_paginates(downloader):
     assert product["meeting_date"] == "2026-10-15"
     assert product["journal_ids"] == ["Ju2025/02091", "Ju2026/01836", "Ju2026/"]
     root, _ = listing_root(html)
-    total, first = parse_fragment(downloader.b.get_json(query_url(root, 1, 2)))
-    second_total, second = parse_fragment(downloader.b.get_json(query_url(root, 2, 2)))
-    assert total == second_total and total >= 4
-    assert len(first) == len(second) == 2
-    assert not {fingerprint(r) for r in first} & {fingerprint(r) for r in second}
-    assert {r["source"] for r in first + second} == {AGENDA_URL}
+    # Small upstream pages can overlap even for an unchanged weekly agenda.
+    # Check the complete week without depending on upstream result ordering;
+    # tests/test_agendas.py covers pagination and rejects incomplete snapshots.
+    total, entries = parse_fragment(downloader.b.get_json(query_url(root, 1)))
+    assert total == len(entries) == len(weekly)
+    assert {r["source"] for r in entries} == {AGENDA_URL}
+    apply_weekly_context(entries, weekly)
+    assert Counter(map(fingerprint, entries)) == Counter(map(fingerprint, weekly))
