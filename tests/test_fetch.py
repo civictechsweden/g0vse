@@ -1,6 +1,8 @@
 import errno
 from copy import deepcopy
 
+import pytest
+
 import fetch
 from services.item_refresh import RefreshPlan, plan_incremental_refresh
 
@@ -177,6 +179,50 @@ def test_process_all_items_promotes_only_changed_refreshes(monkeypatch, tmp_path
 
     assert [item["url"] for item in result] == ["/new/", "/c/", "/a/", "/b/"]
     assert result[-1] is previous_b
+
+
+def test_skipping_stored_items_does_not_force_garbage_collection(monkeypatch, tmp_path):
+    items = [{"url": f"/stored/{i}/", "attachments": []} for i in range(1500)]
+    monkeypatch.chdir(tmp_path)
+
+    def unexpected_collection():
+        raise AssertionError("skipped items must not trigger full garbage collection")
+
+    monkeypatch.setattr(fetch.gc, "collect", unexpected_collection)
+
+    assert fetch.process_all_items(items, None, {}) is items
+
+
+@pytest.mark.parametrize(
+    "outcome",
+    [
+        fetch.ProcessingOutcome.CHANGED,
+        fetch.ProcessingOutcome.UNCHANGED,
+        fetch.ProcessingOutcome.FAILED,
+    ],
+)
+def test_collection_counts_processed_items_across_skipped_runs(
+    monkeypatch, tmp_path, outcome
+):
+    items = [{"url": f"/processed/{i}/"} for i in range(499)]
+    items += [{"url": f"/skipped/{i}/"} for i in range(501)]
+    items.append({"url": "/processed/last/"})
+    processed = 0
+    collections = []
+
+    def process(item, *args, **kwargs):
+        nonlocal processed
+        if item["url"].startswith("/skipped/"):
+            return fetch.ProcessingOutcome.SKIPPED
+        processed += 1
+        return outcome
+
+    monkeypatch.chdir(tmp_path)
+    monkeypatch.setattr(fetch, "process_item", process)
+    monkeypatch.setattr(fetch.gc, "collect", lambda: collections.append(processed))
+
+    assert fetch.process_all_items(items, None, {}) is items
+    assert collections == [500]
 
 
 def test_forced_refresh_ignores_rumdl_layout_changes(monkeypatch, tmp_path):
