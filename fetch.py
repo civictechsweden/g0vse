@@ -207,6 +207,7 @@ def process_all_items(items, downloader, codes, refresh_plan=None, chain_store=N
                     existing_mds.add(rel_path)
 
     changed_refresh_urls = set(refresh_plan.new_urls)
+    processed_since_collection = 0
     try:
         with tqdm(items, desc="Processing items", unit="item") as pbar:
             for i, item in enumerate(pbar):
@@ -239,9 +240,13 @@ def process_all_items(items, downloader, codes, refresh_plan=None, chain_store=N
                 if force_refresh and outcome is ProcessingOutcome.CHANGED:
                     changed_refresh_urls.add(url)
 
-                # Periodically trigger garbage collection to free fragmented memory
-                if (i + 1) % 500 == 0:
-                    gc.collect()
+                # Skipped items do not create parsing/browser garbage. Count
+                # actual processing so skipping stored pages stays cheap.
+                if outcome is not ProcessingOutcome.SKIPPED:
+                    processed_since_collection += 1
+                    if processed_since_collection == 500:
+                        gc.collect()
+                        processed_since_collection = 0
     except KeyboardInterrupt:
         print("\nInterrupted by user. Skipping the final JSON export.")
         raise
