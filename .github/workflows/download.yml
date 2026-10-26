@@ -27,7 +27,7 @@ jobs:
           uv run camoufox sync
           uv run camoufox set official/stable
           uv run camoufox fetch
-      - name: Smoke test page metadata, chains and government agendas
+      - name: Smoke test parsers
         run: uv run python -m pytest tests -m smoke -q
       - name: Fetch the data
         run: uv run fetch.py
