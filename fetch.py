@@ -17,6 +17,7 @@ from services.item_refresh import (
     plan_incremental_refresh,
     promote_changed_items,
 )
+from services.press_images.export import prepare_press_image_export
 from services.reader import read_json
 from services.redirecter import get_final_url
 from services.timer import Timer
@@ -310,6 +311,7 @@ def main():
         apply_item_chain_references(items, chain_export.item_references)
         files = {}
         prepare_agenda_export(downloader, codes, files)
+        prepare_press_image_export(downloader, codes, files)
         files.update(
             {
                 "api/items.json": items,

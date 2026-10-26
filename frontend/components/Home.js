@@ -155,7 +155,7 @@ export default function Home() {
             ))}
           </ul>
           <p className="m-5 text-xl text-gray-700 mt-0 font-light">
-            Utöver det finns det fem extra anrop:
+            Utöver det finns det följande extra anrop:
           </p>
           <ul className="m-5 ml-10 list-disc list-inside">
             <li className="mb-1 text-lg text-gray-700">
@@ -169,6 +169,9 @@ export default function Home() {
             </li>
             <li className="mb-1 text-lg text-gray-700">
               <a href={"https://g0v.se/api/regeringsarenden.json"} target="_blank" rel="noreferrer" className="underline text-black-700">{"/api/regeringsarenden.json"}</a> hämtar enskilda planerade regeringsärenden
+            </li>
+            <li className="mb-1 text-lg text-gray-700">
+              <a href={"https://g0v.se/api/pressbilder.json"} target="_blank" rel="noreferrer" className="underline text-black-700">{"/api/pressbilder.json"}</a> hämtar pressbilder och tillhörande metadata
             </li>
             <li className="mb-1 text-lg text-gray-700">
               <a href={"https://g0v.se/api/latest_updated.json"} target="_blank" rel="noreferrer" className="underline text-black-700">{"/api/latest_updated.json"}</a> hämtar nyckelinformation om datat
