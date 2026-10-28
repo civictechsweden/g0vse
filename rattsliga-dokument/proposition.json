@@ -1,5 +1,63 @@
 [
     {
+        "title": "Avveckling av Skatteverkets id-kortsverksamhet",
+        "url": "/rattsliga-dokument/proposition/2026/10/prop.-20262710",
+        "published": "2026-10-27",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "I propositionen lämnas förslag om att avveckla Skatteverkets id-kortsverksamhet.",
+        "id": "Prop. 2026/27:10",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Avveckling av Skatteverkets id-kortsverksamhet, Prop. 2026/27:10 (pdf 408 kB)",
+                "url": "/contentassets/9c5f81ada38e4152a003e8a4692dc588/avveckling-av-skatteverkets-id-kortsverksamhet-prop.-20262710.pdf"
+            }
+        ],
+        "categories": [
+            "1267"
+        ],
+        "chains": [
+            "0450579558e5b6c6"
+        ]
+    },
+    {
+        "title": "Skattskyldighet för samriskföretag och deras dotterföretag",
+        "url": "/rattsliga-dokument/proposition/2026/10/prop.-2026279",
+        "published": "2026-10-27",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "I denna proposition föreslås att ett samriskföretag ska vara skattskyldigt för svensk nationell tilläggsskatt för hela det tilläggsskattebelopp som beräknats och fördelats på företaget, om företaget hör hemma i Sverige och tillhör en koncern som bestämmelser om tilläggsskatt ska tillämpas på. Detsamma ska gälla för ett dotterföretag till ett samriskföretag. Detta förslag medför även ytterligare ändringar i lagen om tilläggsskatt.",
+        "id": "Prop. 2026/27:9",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Skattskyldighet för samriskföretag och deras dotterföretag, Prop. 2026/27:9 (pdf 3 MB)",
+                "url": "/contentassets/4258e72edd2a47a0a08d4de9e927669f/skattskyldighet-for-samriskforetag-och-deras-dotterforetag-prop.-2026279"
+            }
+        ],
+        "categories": [
+            "1267"
+        ],
+        "chains": [
+            "80cb5503f6f63ff7"
+        ]
+    },
+    {
         "title": "En ny produktansvarslag",
         "url": "/rattsliga-dokument/proposition/2026/10/prop.-262712",
         "published": "2026-10-15",

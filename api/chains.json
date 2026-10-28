@@ -3220,6 +3220,14 @@
                                         }
                                     ],
                                     "type": "2085"
+                                },
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/proposition/2026/10/prop.-20262710"
+                                        }
+                                    ],
+                                    "type": "1329"
                                 }
                             ]
                         }
@@ -93669,6 +93677,33 @@
                         }
                     ],
                     "ongoing": false
+                },
+                {
+                    "name": "Lagstiftning i Sverige",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/10/eus-nya-tullkodex--kompletteringar-i-svensk-ratt/"
+                                        }
+                                    ],
+                                    "type": "1325"
+                                },
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/remisser/2026/10/remiss-av-promemorian-eus-nya-tullkodex--kompletteringar-i-svensk-ratt/"
+                                        }
+                                    ],
+                                    "type": "2099"
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": true
                 }
             ]
         },
@@ -94294,6 +94329,14 @@
                                         }
                                     ],
                                     "type": "2085"
+                                },
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/proposition/2026/10/prop.-2026279"
+                                        }
+                                    ],
+                                    "type": "1329"
                                 }
                             ]
                         }
@@ -107951,6 +107994,14 @@
                                         }
                                     ],
                                     "type": "2099"
+                                },
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/lagradsremiss/2026/10/lattnader-i-kraven-pa-hallbarhetsrapportering/"
+                                        }
+                                    ],
+                                    "type": "2085"
                                 }
                             ]
                         }
@@ -185373,6 +185424,37 @@
                                             "url": "/kommenterade-dagordningar/2022/06/kommenterad-dagordning-for-radets-mote-for-rattssliga-och-inrikes-fragor-rif-den-910-juni-2022/"
                                         }
                                     ]
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": true
+                }
+            ]
+        },
+        "f77d4caf808c7f11": {
+            "phases": [
+                {
+                    "name": "Lagstiftning i Sverige",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/10/starkt-konkurrenskraft-pa-foretagsobligationsmarknaden/"
+                                        }
+                                    ],
+                                    "type": "1325"
+                                },
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/remisser/2026/10/remiss-av-promemorian-starkt-konkurrenskraft-pa-foretagsobligationsmarknaden/"
+                                        }
+                                    ],
+                                    "type": "2099"
                                 }
                             ]
                         }
