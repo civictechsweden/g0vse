@@ -1,18 +1,23 @@
-"""Prepare agenda JSON and repair weekly Markdown only after a complete traversal."""
+"""Stage the two recent weeks and retained history after both refreshes succeed."""
 
 import os
 from pathlib import Path
 
 from services.agendas.fetcher import AgendaExport, fetch_agendas
 from services.agendas.parser import AgendaError
+from services.reader import read_json
 from services.web_parser import extract_page
 from services.writer import Writer
 
 
 def prepare_agenda_export(downloader, codes, files, root="data") -> AgendaExport | None:
     try:
-        export = fetch_agendas(downloader, codes)
-    except AgendaError as error:
+        previous_path = Path(root) / "api/regeringsarenden.json"
+        previous_records = read_json(previous_path) if previous_path.exists() else []
+        if not isinstance(previous_records, list):
+            raise AgendaError("Stored regeringsärenden export must be a list")
+        export = fetch_agendas(downloader, codes, previous_records=previous_records)
+    except (OSError, ValueError) as error:
         prefix = "::warning::" if os.environ.get("GITHUB_ACTIONS") else ""
         print(
             f"{prefix}Regeringsärenden refresh failed; keeping the previous export: {error}"
