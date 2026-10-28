@@ -8,6 +8,7 @@ from selectolax.lexbor import LexborHTMLParser, LexborNode
 
 ORIGIN = "https://www.regeringen.se"
 LISTING = "/regeringsarenden/"
+WEEKLY_LISTING = "/arendeforteckningar/"
 RESULT_SELECTOR = ".sortcompact.sortextended"
 WEEK = re.compile(r"vecka\s+(\d{1,2})\s*,?\s*(\d{4})", re.IGNORECASE)
 MONTHS: tuple[str, ...] = (
@@ -65,6 +66,23 @@ def week_info(title: str) -> tuple[int, int]:
     if not match or not 1 <= int(match[1]) <= 53:
         raise AgendaError(f"Missing year/week in weekly title: {title}")
     return int(match[2]), int(match[1])
+
+
+def recent_weekly_sources(html: str) -> list[tuple[str, int, int]]:
+    """Select the two newest modern weekly publications, independently of order."""
+    sources = {}
+    for link in LexborHTMLParser(html).css(".sortcompact > a[href]"):
+        href = link.attributes["href"] or ""
+        if not urlsplit(urljoin(ORIGIN, href)).path.startswith(LISTING):
+            continue
+        source = weekly_url(href)
+        sources[source] = week_info(text(link))
+    if not sources:
+        raise AgendaError("No modern weekly agendas found in the publication listing")
+    newest = sorted(
+        sources, key=lambda source: (*sources[source], source), reverse=True
+    )
+    return [(source, *sources[source]) for source in newest[:2]]
 
 
 def category_labels(tree: LexborHTMLParser) -> dict[str, str]:

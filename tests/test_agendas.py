@@ -10,10 +10,11 @@ from services.agendas import AgendaError, fetch_agendas
 from services.agendas import export as agenda_export
 from services.agendas.fetcher import apply_weekly_context
 from services.agendas.parser import (
-    LISTING,
+    WEEKLY_LISTING,
     heading_date,
     listing_root,
     parse_fragment,
+    recent_weekly_sources,
     weekly_context,
 )
 from services.chains.export import publish_json
@@ -34,22 +35,23 @@ class AgendaDownloader:
         }
         self.calls = []
         self.pages = []
+        self.page_size = 2
 
     def get_json(self, url):
         query = parse_qs(urlsplit(url).query)
         assert query["filterType"] == ["Structure"]
         assert query["filterByType"] == ["CasePage"]
         assert query["rootPageReference"] == ["664600"]
-        assert query["pageSize"] == ["2"]
+        assert query["pageSize"] == [str(self.page_size)]
         page = int(query["page"][0])
         self.calls.append(page)
         return deepcopy(self.responses[page])
 
     def get_webpage(self, url):
         self.pages.append(url)
-        assert url in {LISTING, SOURCE}
-        if url == LISTING:
-            return (FIXTURES / "weekly.html").read_text()
+        assert url in {WEEKLY_LISTING, SOURCE}
+        if url == WEEKLY_LISTING:
+            return (FIXTURES / "listing.html").read_text()
         return self.weekly
 
 
@@ -92,11 +94,11 @@ def test_weekly_markdown_keeps_hierarchy_and_omits_duplicate_filter_results():
     assert labels["1287"] == "Justitiedepartementet"
 
 
-def test_full_snapshot_paginates_once_then_checks_consistency_and_reuses_codes():
+def test_weekly_snapshot_paginates_then_checks_consistency_and_reuses_codes():
     downloader = AgendaDownloader()
     result = fetch_agendas(downloader, {}, page_size=2)
     assert downloader.calls == [1, 2, 1]
-    assert downloader.pages == [LISTING, SOURCE]
+    assert downloader.pages == [WEEKLY_LISTING, SOURCE]
     assert len(result.records) == 3
     assert result.undated_sources == []
     product = next(r for r in result.records if r["title"] == PRODUCT_TITLE)
@@ -154,7 +156,10 @@ def test_incomplete_snapshots_fail_instead_of_publishing_partial_records(
 
 def test_unverifiable_weekly_source_does_not_invent_meeting_dates():
     downloader = AgendaDownloader()
-    downloader.weekly = '<div class="col-1"><h1>Regeringen.se</h1></div>'
+    downloader.weekly = (
+        '<div class="col-1"><h1>Regeringen.se</h1></div>'
+        '<div data-filterbytype="CasePage" data-rootpage="664600"></div>'
+    )
     result = fetch_agendas(downloader, {}, page_size=2)
     assert len(result.records) == 3
     assert all(r["meeting_date"] is None for r in result.records)
@@ -256,10 +261,12 @@ def test_failed_refresh_keeps_last_complete_export_and_codes(
         monkeypatch.setattr(
             downloader,
             "get_webpage",
-            lambda url: get_page(url) if url == LISTING else None,
+            lambda url: get_page(url) if url == WEEKLY_LISTING else None,
         )
     monkeypatch.setattr(
-        agenda_export, "fetch_agendas", lambda d, c: fetch_agendas(d, c, page_size=2)
+        agenda_export,
+        "fetch_agendas",
+        lambda d, c, **kwargs: fetch_agendas(d, c, page_size=2, **kwargs),
     )
     files, codes = {}, {"existing": "Existing code"}
     assert (
@@ -276,7 +283,9 @@ def test_successful_refresh_replaces_entries_and_repairs_weekly_markdown(
 ):
     downloader = AgendaDownloader()
     monkeypatch.setattr(
-        agenda_export, "fetch_agendas", lambda d, c: fetch_agendas(d, c, page_size=2)
+        agenda_export,
+        "fetch_agendas",
+        lambda d, c, **kwargs: fetch_agendas(d, c, page_size=2, **kwargs),
     )
     files, codes = {}, {}
     agenda_export.prepare_agenda_export(downloader, codes, files, tmp_path)
@@ -315,3 +324,166 @@ def test_root_reference_is_discovered_and_ambiguous_roots_are_rejected():
     ) == ("123", {})
     with pytest.raises(AgendaError):
         listing_root('<div data-filterbytype="CasePage" data-rootpage="123"></div>' * 2)
+
+
+def test_single_batch_uses_the_production_page_size_without_a_redundant_request():
+    downloader = AgendaDownloader()
+    downloader.page_size = 1000
+    downloader.responses[1]["Message"] += downloader.responses[2]["Message"]
+
+    result = fetch_agendas(downloader, {})
+
+    assert downloader.calls == [1]
+    assert len(result.records) == 3
+
+
+class MultipleWeekDownloader:
+    """Three weekly publications deliberately listed in the wrong order."""
+
+    def __init__(self):
+        base = AgendaDownloader()
+        self.b = self
+        self.calls = []
+        self.pages = []
+        self.listing = ""
+        self.weeklies: dict[str, str | None] = {}
+        self.responses = {}
+        self.sources = []
+        for root, year, week, heading in [
+            ("101", 2025, 51, "18 december"),
+            ("102", 2026, 1, "1 januari"),
+            ("103", 2025, 52, "25 december"),
+        ]:
+            source = f"/regeringsarenden/regeringsarenden-vecka-{week}-{year}/"
+            self.sources.append(source)
+            self.listing += (
+                f'<div class="sortcompact"><a href="{source}">'
+                f"Regeringsärenden vecka {week}, {year}</a></div>"
+            )
+            self.weeklies[source] = (
+                base.weekly.replace(SOURCE, source)
+                .replace("42, 2026", f"{week}, {year}")
+                .replace("15 oktober", heading)
+                .replace('data-rootpage="664600"', f'data-rootpage="{root}"')
+            )
+            self.responses[root] = deepcopy(base.responses)
+            for response in self.responses[root].values():
+                response["Message"] = (
+                    response["Message"]
+                    .replace(SOURCE, source)
+                    .replace("42, 2026", f"{week}, {year}")
+                )
+
+    def get_webpage(self, url):
+        self.pages.append(url)
+        return self.listing if url == WEEKLY_LISTING else self.weeklies[url]
+
+    def get_json(self, url):
+        query = parse_qs(urlsplit(url).query)
+        root, page = query["rootPageReference"][0], int(query["page"][0])
+        assert query["filterType"] == ["Structure"]
+        assert query["filterByType"] == ["CasePage"]
+        assert query["pageSize"] == ["2"]
+        self.calls.append((root, page))
+        return deepcopy(self.responses[root][page])
+
+
+def test_latest_two_weeks_are_selected_across_year_boundaries():
+    downloader = MultipleWeekDownloader()
+    # Duplicate and legacy links must not displace one of the two recent weeks.
+    downloader.listing += downloader.listing
+    downloader.listing += (
+        '<div class="sortcompact"><a href="/arendeforteckningar/2024/old/">'
+        "Regeringsärenden vecka 1, 2024</a></div>"
+    )
+
+    assert recent_weekly_sources(downloader.listing) == [
+        (downloader.sources[1], 2026, 1),
+        (downloader.sources[2], 2025, 52),
+    ]
+
+
+def test_initial_export_fetches_only_two_weekly_pages_and_their_api_entries():
+    downloader = MultipleWeekDownloader()
+
+    result = fetch_agendas(downloader, {}, page_size=2)
+
+    assert downloader.pages == [WEEKLY_LISTING, *downloader.sources[1:]]
+    assert downloader.calls == [
+        (root, page) for root in ("102", "103") for page in (1, 2, 1)
+    ]
+    assert len(result.records) == 6
+    assert {r["source"] for r in result.records} == set(downloader.sources[1:])
+    assert {r["meeting_date"] for r in result.records} == {"2026-01-01", "2025-12-25"}
+
+
+def test_recent_weeks_replace_stored_entries_and_preserve_older_history(
+    monkeypatch, tmp_path
+):
+    downloader = MultipleWeekDownloader()
+    historical = {
+        **parse_fragment(downloader.responses["101"][1])[1][0],
+        "meeting_date": "2025-12-18",
+        "minister": "Former minister",
+        "minister_code": "old-minister",
+        "department_code": "old-department",
+    }
+    obsolete = dict(historical, source=downloader.sources[1], title="Removed entry")
+    previous = [obsolete, historical]
+    saved = tmp_path / "api/regeringsarenden.json"
+    saved.parent.mkdir()
+    saved.write_text(json.dumps(previous))
+    old_markdown = tmp_path / (historical["source"].strip("/") + ".md")
+    old_markdown.parent.mkdir(parents=True)
+    old_markdown.write_text("Stored historical Markdown\n")
+    monkeypatch.setattr(
+        agenda_export,
+        "fetch_agendas",
+        lambda d, c, **kwargs: fetch_agendas(d, c, page_size=2, **kwargs),
+    )
+    files, codes = {}, {"old-minister": "Former minister"}
+
+    assert agenda_export.prepare_agenda_export(downloader, codes, files, tmp_path)
+    rows = files["api/regeringsarenden.json"]
+    assert len(rows) == 7
+    assert [r for r in rows if r["source"] == historical["source"]] == [historical]
+    assert not any(r["title"] == "Removed entry" for r in rows)
+    assert old_markdown.read_text() == "Stored historical Markdown\n"
+    assert codes["old-minister"] == "Former minister"
+    assert downloader.pages == [WEEKLY_LISTING, *downloader.sources[1:]]
+    publish_json(files, tmp_path)
+
+    # Repeating the refresh replaces the same weeks instead of appending copies.
+    assert agenda_export.prepare_agenda_export(downloader, codes, files, tmp_path)
+    assert files["api/regeringsarenden.json"] == rows
+
+
+@pytest.mark.parametrize("failure", ["second_week", "wrong_api_source", "listing"])
+def test_failed_recent_refresh_preserves_the_entire_previous_export(
+    monkeypatch, tmp_path, failure
+):
+    downloader = MultipleWeekDownloader()
+    if failure == "second_week":
+        downloader.weeklies[downloader.sources[2]] = None
+    elif failure == "wrong_api_source":
+        downloader.responses["103"] = downloader.responses["101"]
+    else:
+        downloader.listing = "<h1>Service unavailable</h1>"
+    saved = tmp_path / "api/regeringsarenden.json"
+    saved.parent.mkdir()
+    saved.write_text('[{"title":"Previous export"}]\n')
+    before = saved.read_bytes()
+    monkeypatch.setattr(
+        agenda_export,
+        "fetch_agendas",
+        lambda d, c, **kwargs: fetch_agendas(d, c, page_size=2, **kwargs),
+    )
+    files, codes = {}, {"existing": "Existing"}
+
+    assert (
+        agenda_export.prepare_agenda_export(downloader, codes, files, tmp_path) is None
+    )
+    assert files == {}
+    assert codes == {"existing": "Existing"}
+    assert saved.read_bytes() == before
+    assert not list(tmp_path.rglob("*.md"))
