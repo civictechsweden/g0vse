@@ -1,5 +1,380 @@
 [
     {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Finansdepartementet",
+        "minister": "Elisabeth Svantesson",
+        "title": "Förordning om tillämpning av EU-förordningar och avtal om administrativt samarbete och bedrägeribekämpning på området för indirekt skatt",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "Fi2026/"
+        ],
+        "responsible_official": "Niklas Ekstrand",
+        "meeting_date": "2026-10-29",
+        "department_code": "1285",
+        "minister_code": "2613"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Finansdepartementet",
+        "minister": "Elisabeth Svantesson",
+        "title": "Förordnande av övriga ledamöter i arbetsgivarkollegiet för Arbetsgivarverket",
+        "agenda_number": "III:1",
+        "journal_ids": [
+            "Fi2026/"
+        ],
+        "responsible_official": "Johan Ndure",
+        "meeting_date": "2026-10-29",
+        "department_code": "1285",
+        "minister_code": "2613"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Finansdepartementet",
+        "minister": "Niklas Wykman",
+        "title": "Förordningar\na) förordning om ändring i förordningen (2007:375) om handel med finansiella instrument\nb) förordning om ändring i förordningen (2007:572) om värdepappersmarknaden\nc) förordning om ändring i förordningen (2026:652) om ändring i förordningen (2007:572) om värdepappersmarknaden",
+        "agenda_number": "II:1",
+        "journal_ids": [
+            "Fi2026/"
+        ],
+        "responsible_official": "Lotta Hardvik Cederstierna",
+        "meeting_date": "2026-10-29",
+        "department_code": "1285",
+        "minister_code": "2623"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Försvarsdepartementet",
+        "minister": "Carl-Oskar Bohlin",
+        "title": "Framställning från Försvarsmakten om förlängd placering som försvarsattaché i London (Storbritannien) med sidoackreditering till Irland",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "Fö2026/01409"
+        ],
+        "responsible_official": "Carin Bratt",
+        "meeting_date": "2026-10-29",
+        "department_code": "1286",
+        "minister_code": "2611"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Försvarsdepartementet",
+        "minister": "Carl-Oskar Bohlin",
+        "title": "Begäran att få ta del av handlingar",
+        "agenda_number": "I:2",
+        "journal_ids": [
+            "Fö2026/01492"
+        ],
+        "responsible_official": "Carin Bratt",
+        "meeting_date": "2026-10-29",
+        "department_code": "1286",
+        "minister_code": "2611"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Justitiedepartementet",
+        "minister": "Johan Forssell",
+        "title": "Utnämning av kammarrättspresident i Kammarrätten i Sundsvall",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "Ju2026/02130",
+            "Ju2026/02135"
+        ],
+        "responsible_official": "Helena Swenzén",
+        "meeting_date": "2026-10-29",
+        "department_code": "1287",
+        "minister_code": "2618"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Justitiedepartementet",
+        "minister": "Johan Forssell",
+        "title": "Utfärdande av lagar (rskr. 2026/27:3)\na) lag om ändring i lagen (2003:1156) om överlämnande från Sverige enligt en europeisk arresteringsorder\nb) lag om ändring i lagen (2011:1165) om överlämnande från Sverige enligt en nordisk arresteringsorder\nc) lag om ändring i lagen (2021:709) med kompletterande bestämmelser om straffrättsligt samarbete mellan Europeiska unionen och Förenade kungariket",
+        "agenda_number": "I:2",
+        "journal_ids": [
+            "Ju2025/00411",
+            "Ju2026/02302"
+        ],
+        "responsible_official": "Mattias Larsson",
+        "meeting_date": "2026-10-29",
+        "department_code": "1287",
+        "minister_code": "2618"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Justitiedepartementet",
+        "minister": "Johan Forssell",
+        "title": "Förordningar\na) förordning om ändring i förordningen (2003:1178) om överlämnande till Sverige enligt en europeisk arresteringsorder\nb) förordning om ändring i förordningen (2003:1179) om överlämnande från Sverige enligt en europeisk arresteringsorder\nc) förordning om ändring i förordningen (2012:565) om överlämnande från Sverige enligt en nordisk arresteringsorder\nd) förordning om ändring i förordningen (2012:566) om överlämnande till Sverige enligt en nordisk arresteringsorder\ne) förordning om ändring i förordningen (2021:713) med kompletterande bestämmelser om straffrättsligt samarbete mellan Europeiska unionen och Förenade kungariket",
+        "agenda_number": "I:3",
+        "journal_ids": [
+            "Ju2025/00411",
+            "Ju2026/"
+        ],
+        "responsible_official": "Mattias Larsson",
+        "meeting_date": "2026-10-29",
+        "department_code": "1287",
+        "minister_code": "2618"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Justitiedepartementet",
+        "minister": "Johan Forssell",
+        "title": "Förordning om ändring i offentlighets- och sekretessförordningen (2009:641)",
+        "agenda_number": "I:4",
+        "journal_ids": [
+            "Ju2026/"
+        ],
+        "responsible_official": "Mattias Larsson",
+        "meeting_date": "2026-10-29",
+        "department_code": "1287",
+        "minister_code": "2618"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Justitiedepartementet",
+        "minister": "Johan Forssell",
+        "title": "Förordning om ändring i förordningen (2009:1237) om timkostnadsnorm inom rättshjälpsområdet",
+        "agenda_number": "I:5",
+        "journal_ids": [
+            "Ju2026/01432",
+            "Ju2026/"
+        ],
+        "responsible_official": "Helena Swenzén",
+        "meeting_date": "2026-10-29",
+        "department_code": "1287",
+        "minister_code": "2618"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Justitiedepartementet",
+        "minister": "Johan Forssell",
+        "title": "Förordning om ändring i aktiebolagsförordningen (2005:559)",
+        "agenda_number": "I:6",
+        "journal_ids": [
+            "Ju2026/"
+        ],
+        "responsible_official": "Jonas Pontén",
+        "meeting_date": "2026-10-29",
+        "department_code": "1287",
+        "minister_code": "2618"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Justitiedepartementet",
+        "minister": "Johan Forssell",
+        "title": "Regeringens skrivelse\nRiksrevisionens rapport om statens hantering av insolvensförfaranden för företag",
+        "agenda_number": "I:7",
+        "journal_ids": [
+            "Ju2026/01179",
+            "Ju2026/"
+        ],
+        "responsible_official": "Jonas Pontén",
+        "meeting_date": "2026-10-29",
+        "department_code": "1287",
+        "minister_code": "2618"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Justitiedepartementet",
+        "minister": "Johan Forssell",
+        "title": "Anmälan från H.M. Konungen om utlandsresor",
+        "agenda_number": "I:8",
+        "journal_ids": [
+            "Ju2026/02353"
+        ],
+        "responsible_official": "Helena Swenzén",
+        "meeting_date": "2026-10-29",
+        "department_code": "1287",
+        "minister_code": "2618"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Klimat- och näringslivsdepartementet",
+        "minister": "Carl-Oskar Bohlin",
+        "title": "Överklaganden av Energimarknadsinspektionens beslut om tillträde till mark för undersökning för en 420 kV ledning från Skogssäter till Ingelkärr i Västra Götalands län",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "KN2026/01566"
+        ],
+        "responsible_official": "Pontus Söderström",
+        "meeting_date": "2026-10-29",
+        "department_code": "1291",
+        "minister_code": "2611"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Klimat- och näringslivsdepartementet",
+        "minister": "Carl-Oskar Bohlin",
+        "title": "Överklagande av Energimarknadsinspektionens beslut om tillträde till mark för undersökning för en 400 kV ledning från Timmersdala till Stenkullen i Västra Götalands län",
+        "agenda_number": "I:2",
+        "journal_ids": [
+            "KN2026/01829"
+        ],
+        "responsible_official": "Pontus Söderström",
+        "meeting_date": "2026-10-29",
+        "department_code": "1291",
+        "minister_code": "2611"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Klimat- och näringslivsdepartementet",
+        "minister": "Carl-Oskar Bohlin",
+        "title": "Överklagande av Energimarknadsinspektionens beslut om tillträde till mark för undersökning för två 400 kV ledningar från Nässe till Vattjom i Jämtlands och Västernorrlands län",
+        "agenda_number": "I:3",
+        "journal_ids": [
+            "KN2026/01935"
+        ],
+        "responsible_official": "Pontus Söderström",
+        "meeting_date": "2026-10-29",
+        "department_code": "1291",
+        "minister_code": "2611"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Klimat- och näringslivsdepartementet",
+        "minister": "Lotta Edholm",
+        "title": "Förordning om ändring i förordningen (2013:63) om bekämpningsmedelsavgifter",
+        "agenda_number": "II:1",
+        "journal_ids": [
+            "KN2026/00039",
+            "KN2026/00449",
+            "KN2026/"
+        ],
+        "responsible_official": "Pontus Söderström",
+        "meeting_date": "2026-10-29",
+        "department_code": "1291",
+        "minister_code": "2620"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Utrikesdepartementet",
+        "minister": "Benjamin Dousa",
+        "title": "Begäran att få ta del av handlingar",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "UD2025/11990"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-29",
+        "department_code": "1295",
+        "minister_code": "2756"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Utrikesdepartementet",
+        "minister": "Benjamin Dousa",
+        "title": "Begäran att få ta del av handlingar",
+        "agenda_number": "I:2",
+        "journal_ids": [
+            "UD2026/13982"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-29",
+        "department_code": "1295",
+        "minister_code": "2756"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Utrikesdepartementet",
+        "minister": "Benjamin Dousa",
+        "title": "Regeringens skrivelse\nVerksamheten inom Organisationen för säkerhet och samarbete i Europa (OSSE) under helåret 2025 och första halvåret 2026",
+        "agenda_number": "I:3",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-29",
+        "department_code": "1295",
+        "minister_code": "2756"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Utrikesdepartementet",
+        "minister": "Benjamin Dousa",
+        "title": "Antagande av rådsbeslut om en stödåtgärd inom ramen för den europeiska fredsfaciliteten till stöd för Mauretaniens försvarsmakt",
+        "agenda_number": "I:4",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-29",
+        "department_code": "1295",
+        "minister_code": "2756"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Utrikesdepartementet",
+        "minister": "Benjamin Dousa",
+        "title": "Ändring av regleringsbrev för budgetåret 2026 avseende Styrelsen för internationellt utvecklingssamarbete",
+        "agenda_number": "II:1",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-29",
+        "department_code": "1295",
+        "minister_code": "2756"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
+        "year": 2026,
+        "week": 44,
+        "department": "Utrikesdepartementet",
+        "minister": "Benjamin Dousa",
+        "title": "Ändring av regleringsbrev för budgetåret 2026 avseende anslag 1:1 Biståndsverksamhet, ap. 12, 14, 20, 41, 42, 43, och 44 Internationell civil krishantering samt ap. 15 Internationellt civilt stöd",
+        "agenda_number": "II:2",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-10-29",
+        "department_code": "1295",
+        "minister_code": "2756"
+    },
+    {
         "source": "/regeringsarenden/regeringsarenden-vecka-43-2026/",
         "year": 2026,
         "week": 43,

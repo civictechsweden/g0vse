@@ -166446,6 +166446,28 @@
                 }
             ]
         },
+        "dfadca48e680add2": {
+            "phases": [
+                {
+                    "name": "Förslag till ny rättsakt inom EU",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/faktapromemoria/2026/10/202627fpm6/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": false
+                }
+            ]
+        },
         "dfcd2ffa575d1528": {
             "phases": [
                 {
@@ -173846,6 +173868,9 @@
                                 },
                                 {
                                     "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/10/sou-202665/"
+                                        },
                                         {
                                             "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/06/sou-202572/"
                                         }

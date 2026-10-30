@@ -1,5 +1,32 @@
 [
     {
+        "title": "Utrikeskorrespondenter verksamma i Sverige",
+        "url": "/informationsmaterial/2023/11/utrikeskorrespondenter-verksamma-i-sverige/",
+        "published": "2023-11-14",
+        "updated": "2026-10-29",
+        "types": [
+            "1339"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Utrikesdepartementets förteckning över utländska korrespondenter omfattar journalister, fast anställda och frilansjournalister, verksamma i Sverige och/eller med Sverige som bevakningsområde. Många av dem rapporterar även från de övriga nordiska länderna och i några fall även från de baltiska länderna.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "UD:s presstjänst",
+                "url": "/press/uds-presstjanst/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Utrikeskorrespondenter verksamma i Sverige (pdf 362 kB)",
+                "url": "/contentassets/d5653cbf62014b14a95b274140cb5908/utrikeskorrespondenter-verksamma-i-sverige.pdf"
+            }
+        ],
+        "categories": []
+    },
+    {
         "title": "Strategi för Folke Bernadotteakademins verksamhet inom freds- och säkerhetsfrämjande 2026–2031",
         "url": "/informationsmaterial/2026/10/strategi-for-folkebernadotteakademins-verksamhet-inom-freds--och-sakerhetsframajnde-2026-2031/",
         "published": "2026-10-27",
@@ -1109,33 +1136,6 @@
             "1235",
             "1012"
         ]
-    },
-    {
-        "title": "Utrikeskorrespondenter verksamma i Sverige",
-        "url": "/informationsmaterial/2023/11/utrikeskorrespondenter-verksamma-i-sverige/",
-        "published": "2023-11-14",
-        "updated": "2026-02-02",
-        "types": [
-            "1339"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Utrikesdepartementets förteckning över utländska korrespondenter omfattar journalister, fast anställda och frilansjournalister, verksamma i Sverige och/eller med Sverige som bevakningsområde. Många av dem rapporterar även från de övriga nordiska länderna och i några fall även från de baltiska länderna.",
-        "id": null,
-        "shortcuts": [
-            {
-                "name": "UD:s presstjänst",
-                "url": "/press/uds-presstjanst/"
-            }
-        ],
-        "attachments": [
-            {
-                "name": "Utrikeskorrespondenter verksamma i Sverige (pdf 450 kB)",
-                "url": "/contentassets/d5653cbf62014b14a95b274140cb5908/utrikeskorrespondenter-verksamma-i-sverige.pdf"
-            }
-        ],
-        "categories": []
     },
     {
         "title": "Ökad överlevnad och bättre livskvalitet – nationell cancerstrategi 2.0",
