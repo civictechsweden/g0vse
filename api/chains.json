@@ -173128,6 +173128,9 @@
                                 {
                                     "documents": [
                                         {
+                                            "url": "/kommenterade-dagordningar/2026/11/kommenterad-dagordning-radet-for-ekonomiska-och-finansiella-fragor-den-9-november-2026/"
+                                        },
+                                        {
                                             "url": "/kommenterade-dagordningar/2025/10/kommenterad-dagordning-radet-for-ekonomiska-och-finansiella-fragor-den-10-oktober-2025/"
                                         }
                                     ]
@@ -176204,6 +176207,25 @@
                         }
                     ],
                     "ongoing": false
+                },
+                {
+                    "name": "Lagstiftning i Sverige",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/kommittedirektiv/2025/11/uppdrag-att-ta-fram-forslag-till-hur-det-fjarde-korkortsdirektivet-och-andringsdirektivet-vad-galler-vissa-kordiskvalifikationer-ska-genomforas-i-svensk-ratt/"
+                                        }
+                                    ],
+                                    "type": "1327"
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": true
                 }
             ]
         },
