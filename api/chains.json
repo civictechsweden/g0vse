@@ -18722,6 +18722,15 @@
                                         }
                                     ],
                                     "type": "1331"
+                                },
+                                {
+                                    "type": "2099",
+                                    "documents": [
+                                        {
+                                            "url": "/remisser/2026/11/remiss-av-betankandet-akademisk-frihet--ansvar-uppdrag-och-starkta-forutsattningar-for-framtiden-sou-202657/",
+                                            "inferred": true
+                                        }
+                                    ]
                                 }
                             ]
                         }
@@ -132383,6 +132392,37 @@
                 }
             ]
         },
+        "b33d4e595b88b44c": {
+            "phases": [
+                {
+                    "name": "Lagstiftning i Sverige",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/11/forfattningsandringar-med-anledning-av-eu-forbud-mot-mikroplaster/"
+                                        }
+                                    ],
+                                    "type": "1325"
+                                },
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/remisser/2026/11/remiss-av-promemorian-forfattningsandringar-med-anledning-av-eu-forbud-mot-mikroplaster/"
+                                        }
+                                    ],
+                                    "type": "2099"
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": true
+                }
+            ]
+        },
         "b3404ec4238bb198": {
             "phases": [
                 {
@@ -176221,6 +176261,14 @@
                                         }
                                     ],
                                     "type": "1327"
+                                },
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/11/ds-202620/"
+                                        }
+                                    ],
+                                    "type": "1325"
                                 }
                             ]
                         }
