@@ -113905,6 +113905,28 @@
                 }
             ]
         },
+        "98b4382e0ffae82c": {
+            "phases": [
+                {
+                    "name": "Förslag till ny rättsakt inom EU",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/faktapromemoria/2026/11/202627fpm11/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": false
+                }
+            ]
+        },
         "98b5e97e62914739": {
             "phases": [
                 {
@@ -145378,6 +145400,15 @@
                                         }
                                     ],
                                     "type": "1331"
+                                },
+                                {
+                                    "type": "2099",
+                                    "documents": [
+                                        {
+                                            "url": "/remisser/2026/11/remiss-sou-202663/",
+                                            "inferred": true
+                                        }
+                                    ]
                                 }
                             ]
                         }

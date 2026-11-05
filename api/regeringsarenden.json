@@ -1,5 +1,820 @@
 [
     {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Finansdepartementet",
+        "minister": "Elisabeth Svantesson",
+        "title": "Förordningar\na) förordning om fastställande av omräknat belopp för avfallsskatt för år 2027\nb) förordning om fastställande av omräknat belopp för energiskatt på elektrisk kraft för år 2027\nc) förordning om fastställande av omräknade belopp för skatt på kemikalier i viss elektronik för år 2027\nd) förordning om fastställande av omräknat belopp för naturgrusskatt för år 2027\ne) förordning om fastställande av omräknade belopp för skatt på vissa nikotinhaltiga produkter för år 2027\nf) förordning om fastställande av omräknade belopp för tobaksskatt för år 2027",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "Fi2026/"
+        ],
+        "responsible_official": "Niklas Ekstrand",
+        "meeting_date": "2026-11-05",
+        "department_code": "1285",
+        "minister_code": "2613"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Finansdepartementet",
+        "minister": "Erik Slottner",
+        "title": "Begäran att få ta del av handlingar",
+        "agenda_number": "III:1",
+        "journal_ids": [
+            "Fi2026/01781"
+        ],
+        "responsible_official": "Johan Ndure",
+        "meeting_date": "2026-11-05",
+        "department_code": "1285",
+        "minister_code": "2614"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Finansdepartementet",
+        "minister": "Erik Slottner",
+        "title": "Förordningar\na) förordning om ändring i förordningen (1998:796) om statlig inköpssamordning\nb) förordning om ändring i förordningen (2007:824) med instruktion för Kammarkollegiet\nc) förordning om ändring i förordningen (2015:527) med instruktion för Upphandlingsmyndigheten",
+        "agenda_number": "III:2",
+        "journal_ids": [
+            "Fi2025/00348",
+            "Fi2025/02057",
+            "Fi2026/00560",
+            "Fi2026/02080",
+            "Fi2026/"
+        ],
+        "responsible_official": "Johan Ndure",
+        "meeting_date": "2026-11-05",
+        "department_code": "1285",
+        "minister_code": "2614"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Finansdepartementet",
+        "minister": "Erik Slottner",
+        "title": "Uppdrag att lämna årsredovisning för Myndigheten för digital förvaltning",
+        "agenda_number": "III:3",
+        "journal_ids": [
+            "Fi2026/"
+        ],
+        "responsible_official": "Johan Ndure",
+        "meeting_date": "2026-11-05",
+        "department_code": "1285",
+        "minister_code": "2614"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Finansdepartementet",
+        "minister": "Erik Slottner",
+        "title": "Regeringens proposition\nÄndring i reglerna om information vid prissänkningar",
+        "agenda_number": "III:4",
+        "journal_ids": [
+            "Fi2026/00996",
+            "Fi2026/02017",
+            "Fi2026/"
+        ],
+        "responsible_official": "Johan Ndure",
+        "meeting_date": "2026-11-05",
+        "department_code": "1285",
+        "minister_code": "2614"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Finansdepartementet",
+        "minister": "Niklas Wykman",
+        "title": "Framställning från Fortifikationsverket om utökad kostnadsram för en investering",
+        "agenda_number": "II:1",
+        "journal_ids": [
+            "Fi2026/01069"
+        ],
+        "responsible_official": "Johan Ndure",
+        "meeting_date": "2026-11-05",
+        "department_code": "1285",
+        "minister_code": "2623"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Finansdepartementet",
+        "minister": "Niklas Wykman",
+        "title": "Lagrådsremiss\nÄndrade rörelseregler för försäkringsföretag",
+        "agenda_number": "II:2",
+        "journal_ids": [
+            "Fi2025/01786",
+            "Fi2026/"
+        ],
+        "responsible_official": "Lotta Hardvik Cederstierna",
+        "meeting_date": "2026-11-05",
+        "department_code": "1285",
+        "minister_code": "2623"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Utnämning av rådman i Borås tingsrätt",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "Ju2026/02299",
+            "Ju2026/02322"
+        ],
+        "responsible_official": "Helena Swenzén",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Ansökan om nåd i brottmål",
+        "agenda_number": "I:10",
+        "journal_ids": [
+            "JUBC2026/00945"
+        ],
+        "responsible_official": "Mattias Larsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Ansökan om nåd i brottmål",
+        "agenda_number": "I:11",
+        "journal_ids": [
+            "JUBC2026/00323"
+        ],
+        "responsible_official": "Mattias Larsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Ansökan om nåd i brottmål",
+        "agenda_number": "I:12",
+        "journal_ids": [
+            "JUBC2026/00525"
+        ],
+        "responsible_official": "Mattias Larsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Ansökan om nåd i brottmål",
+        "agenda_number": "I:13",
+        "journal_ids": [
+            "JUBC2026/00527"
+        ],
+        "responsible_official": "Mattias Larsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Ansökan om nåd i brottmål",
+        "agenda_number": "I:14",
+        "journal_ids": [
+            "JUBC2026/00620"
+        ],
+        "responsible_official": "Mattias Larsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Ansökan om nåd i brottmål",
+        "agenda_number": "I:15",
+        "journal_ids": [
+            "JUBC2026/00870"
+        ],
+        "responsible_official": "Mattias Larsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Ansökan från Ryska Federationen om rättslig hjälp i brottmål",
+        "agenda_number": "I:16",
+        "journal_ids": [
+            "JUBC2024/00431"
+        ],
+        "responsible_official": "Mattias Larsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Framställning om utlämning till Republiken Turkiet",
+        "agenda_number": "I:17",
+        "journal_ids": [
+            "JUBC2025/00844"
+        ],
+        "responsible_official": "Mattias Larsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Förordning om ändring i förundersökningskungörelsen (1947:948)",
+        "agenda_number": "I:18",
+        "journal_ids": [
+            "Ju2026/"
+        ],
+        "responsible_official": "Helena Swenzén",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Riksdagsskrivelse 2025/26:246 med överlämnande av konstitutionsutskottets betänkande Integritet och ny teknik 2020–2024 (bet. 2025/26:KU36)",
+        "agenda_number": "I:19",
+        "journal_ids": [
+            "Ju2026/01113"
+        ],
+        "responsible_official": "Mattias Larsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Utnämning av rådman i Förvaltningsrätten i Jönköping",
+        "agenda_number": "I:2",
+        "journal_ids": [
+            "Ju2026/02299",
+            "Ju2026/02320"
+        ],
+        "responsible_official": "Helena Swenzén",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Tillfälligt återinförande av gränskontroll vid inre gräns",
+        "agenda_number": "I:20",
+        "journal_ids": [
+            "Ju2026/"
+        ],
+        "responsible_official": "Helena Swenzén",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Utnämning av chefsrådman i Malmö tingsrätt",
+        "agenda_number": "I:3",
+        "journal_ids": [
+            "Ju2026/01909",
+            "Ju2026/01911"
+        ],
+        "responsible_official": "Helena Swenzén",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Utnämning av rådman i Nacka tingsrätt",
+        "agenda_number": "I:4",
+        "journal_ids": [
+            "Ju2026/02299",
+            "Ju2026/02321"
+        ],
+        "responsible_official": "Helena Swenzén",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Utnämning av rådman i Nacka tingsrätt",
+        "agenda_number": "I:5",
+        "journal_ids": [
+            "Ju2026/02299",
+            "Ju2026/02321"
+        ],
+        "responsible_official": "Helena Swenzén",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Utnämning av rådman i Varbergs tingsrätt",
+        "agenda_number": "I:6",
+        "journal_ids": [
+            "Ju2026/02299",
+            "Ju2026/02313"
+        ],
+        "responsible_official": "Helena Swenzén",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Tidsbegränsad anställning som rådman i Västmanlands tingsrätt",
+        "agenda_number": "I:7",
+        "journal_ids": [
+            "Ju2026/02299",
+            "Ju2026/02314"
+        ],
+        "responsible_official": "Helena Swenzén",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Överklagande av Kriminalvårdens beslut om överförande av straffverkställighet till Republiken Serbien",
+        "agenda_number": "I:8",
+        "journal_ids": [
+            "JUBC2024/00110"
+        ],
+        "responsible_official": "Mattias Larsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Överklagande av Kriminalvårdens beslut att inte samtycka till överförande av straffverkställighet till Republiken Turkiet",
+        "agenda_number": "I:9",
+        "journal_ids": [
+            "JUBC2025/00006"
+        ],
+        "responsible_official": "Mattias Larsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Justitiedepartementet",
+        "minister": "Gunnar Strömmer",
+        "title": "Framställning från Migrationsverket om medgivande att ingå hyresavtal",
+        "agenda_number": "II:1",
+        "journal_ids": [
+            "Ju2026/02142"
+        ],
+        "responsible_official": "Magnus Hermansson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1287",
+        "minister_code": "2615"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Klimat- och näringslivsdepartementet",
+        "minister": "Ebba Busch",
+        "title": "Begäran att få ta del av handlingar",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "KN2026/01887"
+        ],
+        "responsible_official": "Maria Åhrling",
+        "meeting_date": "2026-11-05",
+        "department_code": "1291",
+        "minister_code": "2612"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Klimat- och näringslivsdepartementet",
+        "minister": "Ebba Busch",
+        "title": "Förordning om ändring i elsystemförordningen (2026:1522)",
+        "agenda_number": "I:2",
+        "journal_ids": [
+            "KN2026/"
+        ],
+        "responsible_official": "Pontus Söderström",
+        "meeting_date": "2026-11-05",
+        "department_code": "1291",
+        "minister_code": "2612"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Klimat- och näringslivsdepartementet",
+        "minister": "Romina Pourmokhtari",
+        "title": "Överklagande av Länsstyrelsen i Skåne läns beslut om vattenskyddsområde för Önneköps grundvattentäkt, Hörby kommun",
+        "agenda_number": "II:1",
+        "journal_ids": [
+            "KN2026/01576"
+        ],
+        "responsible_official": "Maria Åhrling",
+        "meeting_date": "2026-11-05",
+        "department_code": "1291",
+        "minister_code": "2628"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Klimat- och näringslivsdepartementet",
+        "minister": "Romina Pourmokhtari",
+        "title": "Överklagande av Länsstyrelsen i Blekinge läns beslut att inte upphäva strandskydd för del av fastigheten Djurtorp 1:7 i Ronneby kommun",
+        "agenda_number": "II:2",
+        "journal_ids": [
+            "KN2026/01410"
+        ],
+        "responsible_official": "Maria Åhrling",
+        "meeting_date": "2026-11-05",
+        "department_code": "1291",
+        "minister_code": "2628"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Klimat- och näringslivsdepartementet",
+        "minister": "Romina Pourmokhtari",
+        "title": "Förordning om upphävande av Transportstyrelsens föreskrifter och allmänna råd (TSFS 2012:37) om supermiljöbilspremie",
+        "agenda_number": "II:3",
+        "journal_ids": [
+            "KN2026/01980",
+            "KN2026/"
+        ],
+        "responsible_official": "Pontus Söderström",
+        "meeting_date": "2026-11-05",
+        "department_code": "1291",
+        "minister_code": "2628"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Landsbygds- och infrastrukturdepartementet",
+        "minister": "Andreas Carlson",
+        "title": "Begäran att få ta del av handlingar",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "LI2026/01811"
+        ],
+        "responsible_official": "Fredrik Ahlén",
+        "meeting_date": "2026-11-05",
+        "department_code": "2425",
+        "minister_code": "2608"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Landsbygds- och infrastrukturdepartementet",
+        "minister": "Andreas Carlson",
+        "title": "Förordning om ändring i förordningen (2026:1380) om statligt stöd till luft- och sjötransporter till och från Gotland",
+        "agenda_number": "II:1",
+        "journal_ids": [
+            "LI2026/"
+        ],
+        "responsible_official": "Fredrik Ahlén",
+        "meeting_date": "2026-11-05",
+        "department_code": "2425",
+        "minister_code": "2608"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Landsbygds- och infrastrukturdepartementet",
+        "minister": "Andreas Carlson",
+        "title": "Uppdrag till Boverket att lämna nytt förslag till avgränsningar av urbana ekosystemområden enligt naturrestaureringsförordningen",
+        "agenda_number": "II:2",
+        "journal_ids": [
+            "LI2026/"
+        ],
+        "responsible_official": "Fredrik Ahlén",
+        "meeting_date": "2026-11-05",
+        "department_code": "2425",
+        "minister_code": "2608"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Landsbygds- och infrastrukturdepartementet",
+        "minister": "Andreas Carlson",
+        "title": "Anslutning till ändringar inom ramen för Fördraget om internationell järnvägstrafik (COTIF)",
+        "agenda_number": "II:3",
+        "journal_ids": [
+            "LI2026/01600"
+        ],
+        "responsible_official": "Fredrik Ahlén",
+        "meeting_date": "2026-11-05",
+        "department_code": "2425",
+        "minister_code": "2608"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Socialdepartementet",
+        "minister": "Camilla Waltersson Grönvall",
+        "title": "Förordningar\na) förordning om ändring i förordningen (1981:1370) om skyldighet för socialnämnderna att lämna statistiska uppgifter\nb) förordning om ändring i förordningen (2001:637) om behandling av personuppgifter inom socialtjänsten\nc) förordning om ändring i socialtjänstförordningen (2025:468)",
+        "agenda_number": "III:1",
+        "journal_ids": [
+            "S2026/"
+        ],
+        "responsible_official": "Dan Leeman",
+        "meeting_date": "2026-11-05",
+        "department_code": "1292",
+        "minister_code": "2610"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Socialdepartementet",
+        "minister": "Jakob Forssmed",
+        "title": "Framställning från Socialstyrelsen om förlängd tid för uppdraget att utreda förutsättningarna för rollen som myndighet för digital hälsa enligt EHDS-förordningen",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "S2026/02147"
+        ],
+        "responsible_official": "David Oredsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1292",
+        "minister_code": "2616"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Socialdepartementet",
+        "minister": "Jakob Forssmed",
+        "title": "Framställning från Inspektionen för vård och omsorg om förlängd tid för uppdraget att utreda förutsättningarna för rollen som myndighet för digital hälsa enligt EHDS-förordningen",
+        "agenda_number": "I:2",
+        "journal_ids": [
+            "S2026/02150"
+        ],
+        "responsible_official": "David Oredsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1292",
+        "minister_code": "2616"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Socialdepartementet",
+        "minister": "Jakob Forssmed",
+        "title": "Framställning från E-hälsomyndigheten om förlängd tid för uppdraget att förbereda för rollen som myndighet för digital hälsa enligt EHDS-förordningen",
+        "agenda_number": "I:3",
+        "journal_ids": [
+            "S2026/02149"
+        ],
+        "responsible_official": "David Oredsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1292",
+        "minister_code": "2616"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Socialdepartementet",
+        "minister": "Jakob Forssmed",
+        "title": "Framställning från Läkemedelsverket om förlängd tid för uppdraget att förbereda för rollen som myndighet för digital hälsa enligt EHDS-förordningen",
+        "agenda_number": "I:4",
+        "journal_ids": [
+            "S2026/02148"
+        ],
+        "responsible_official": "David Oredsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1292",
+        "minister_code": "2616"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Utbildningsdepartementet",
+        "minister": "Lotta Edholm",
+        "title": "Ändrade anställningsvillkor för generaldirektören och chefen för Myndigheten för yrkeshögskolan",
+        "agenda_number": "II:1",
+        "journal_ids": [
+            "U2026/"
+        ],
+        "responsible_official": "Karin Erlingsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1294",
+        "minister_code": "2620"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Utbildningsdepartementet",
+        "minister": "Lotta Edholm",
+        "title": "Ändring av regleringsbrev för budgetåret 2026 avseende Universitets- och högskolerådet",
+        "agenda_number": "II:2",
+        "journal_ids": [
+            "U2026/"
+        ],
+        "responsible_official": "Karin Erlingsson",
+        "meeting_date": "2026-11-05",
+        "department_code": "1294",
+        "minister_code": "2620"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Utrikesdepartementet",
+        "minister": "Carl-Oskar Bohlin",
+        "title": "Begäran att få ta del av handling",
+        "agenda_number": "I:1",
+        "journal_ids": [
+            "UD2026/11708"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-11-05",
+        "department_code": "1295",
+        "minister_code": "2611"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Utrikesdepartementet",
+        "minister": "Carl-Oskar Bohlin",
+        "title": "Begäran att få ta del av handlingar",
+        "agenda_number": "I:2",
+        "journal_ids": [
+            "UD2026/07681"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-11-05",
+        "department_code": "1295",
+        "minister_code": "2611"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Utrikesdepartementet",
+        "minister": "Carl-Oskar Bohlin",
+        "title": "Begäran att få ta del av handlingar",
+        "agenda_number": "I:3",
+        "journal_ids": [
+            "UD2026/11828"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-11-05",
+        "department_code": "1295",
+        "minister_code": "2611"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Utrikesdepartementet",
+        "minister": "Carl-Oskar Bohlin",
+        "title": "Antagande av rådsbeslut om ändring av rådets beslut om en stödåtgärd inom ramen för den europeiska fredsfaciliteten för att stärka kapaciteten hos Republiken Kongos flotta inom ramen för Yaoundé-arkitekturen",
+        "agenda_number": "I:4",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-11-05",
+        "department_code": "1295",
+        "minister_code": "2611"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Utrikesdepartementet",
+        "minister": "Carl-Oskar Bohlin",
+        "title": "Antagande av rådsbeslut om ändring av rådets beslut om Europeiska unionens uppdrag för militärt bistånd till Ukraina (Eumam Ukraina)",
+        "agenda_number": "I:5",
+        "journal_ids": [
+            "UD2026/"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-11-05",
+        "department_code": "1295",
+        "minister_code": "2611"
+    },
+    {
+        "source": "/regeringsarenden/regeringsarenden-vecka-45-2026/",
+        "year": 2026,
+        "week": 45,
+        "department": "Utrikesdepartementet",
+        "minister": "Carl-Oskar Bohlin",
+        "title": "Fortsatt anställning som handelssekreterare i Tyskland",
+        "agenda_number": "II:1",
+        "journal_ids": [
+            "UD2026/14188"
+        ],
+        "responsible_official": "Peter A Lindström",
+        "meeting_date": "2026-11-05",
+        "department_code": "1295",
+        "minister_code": "2611"
+    },
+    {
         "source": "/regeringsarenden/regeringsarenden-vecka-44-2026/",
         "year": 2026,
         "week": 44,
