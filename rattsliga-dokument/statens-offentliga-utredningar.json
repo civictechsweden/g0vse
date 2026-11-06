@@ -1,5 +1,35 @@
 [
     {
+        "title": "Lyssna på barnet!",
+        "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/11/sou-202666/",
+        "published": "2026-11-05",
+        "updated": null,
+        "types": [
+            "1324",
+            "1331"
+        ],
+        "senders": [
+            "1287"
+        ],
+        "summary": "Betänkande av Utredningen om barnets ställning i familjerättsliga frågor",
+        "id": "SOU 2026:66",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Stärkt möjlighet för barn att komma till tals i mål om vårdnad, boende och umgänge",
+                "url": "/pressmeddelanden/2026/11/starkt-mojlighet-for-barn-att-komma-till-tals-i-mal-om-vardnad-boende-och-umgange/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Lyssna på barnet! SOU 2026:66 (pdf 2 MB)",
+                "url": "/contentassets/de248d7453064b78b9e195878b486056/sou-2026_66_pdf-a_webb.pdf"
+            }
+        ],
+        "categories": [
+            "1230"
+        ]
+    },
+    {
         "title": "Verktyg för en mer likvärdig resursfördelning",
         "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/10/sou-202665/",
         "published": "2026-10-29",
