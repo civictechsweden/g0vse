@@ -40619,6 +40619,14 @@
                                         }
                                     ],
                                     "type": "1331"
+                                },
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/lagradsremiss/2026/11/andrade-rorelseregler-for-forsakringsforetag/"
+                                        }
+                                    ],
+                                    "type": "2085"
                                 }
                             ]
                         }
@@ -116429,6 +116437,29 @@
                             ]
                         }
                     ]
+                }
+            ]
+        },
+        "9c3c4cc49c4a24bd": {
+            "phases": [
+                {
+                    "name": "Lagstiftning i Sverige",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/kommittedirektiv/2026/07/differentierad-mervardesskatt-pa-livsmedel/"
+                                        }
+                                    ],
+                                    "type": "1327"
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": true
                 }
             ]
         },

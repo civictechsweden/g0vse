@@ -1,0 +1,7 @@
+# Uppdrag till Myndigheten för psykologiskt försvar, Myndigheten för civilt försvar, Försvarsmakten och Totalförsvarets plikt- och prövningsverk att föreslå åtgärder som stärker försvarsviljan
+
+Regeringen gav den 28 juli Myndigheten för psykologiskt försvar, Myndigheten för civilt försvar, Försvarsmakten och Totalförsvarets plikt- och prövningsverk i uppdrag att bidra till mål fyra som presenteras i Nationell strategi för psykologiskt försvar.
+
+Myndigheten för psykologiskt försvar (MPF), Myndigheten för civilt försvar, Försvarsmakten och Totalförsvarets plikt- och prövningsverk ska presentera förslag på hur det gemensamma arbetet för att stärka befolkningens försvarsvilja ska utvecklas. Arbetet ska ta sin utgångspunkt i respektive myndighets roll och ansvarsområde och lägga grunden för ett mer koordinerat arbete för att stärka och upprätthålla försvarsviljan i Sverige över tid. Myndigheterna ska utgå från en myndighetsgemensam problembild som beaktar och beskriver behoven för hela totalförsvaret samt föreslå åtgärder för att stärka och upprätthålla försvarsviljan i alla samhällsgrupper efter behov. Åtgärderna ska som utgångspunkt kunna genomföras inom respektive myndighets beräknade ekonomiska ramar.
+
+MPF ska hålla samman uppdraget och senast den 15 mars 2028 lämna en skriftlig slutredovisning av uppdraget till Regeringskansliet (Försvarsdepartementet). En skriftlig delredovisning av uppdraget om en myndighetsgemensam problembild ska lämnas till Regeringskansliet (Försvarsdepartementet) den 15 april 2027.
