@@ -21976,6 +21976,14 @@
                                         }
                                     ],
                                     "type": "2085"
+                                },
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/proposition/2026/11/prop.-20262714"
+                                        }
+                                    ],
+                                    "type": "1329"
                                 }
                             ]
                         }
@@ -35091,6 +35099,28 @@
                                     "documents": [
                                         {
                                             "url": "/faktapromemoria/2022/05/202122fpm86/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": false
+                }
+            ]
+        },
+        "2da1c258e2349947": {
+            "phases": [
+                {
+                    "name": "Förslag till ny rättsakt inom EU",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/faktapromemoria/2026/11/202627fpm12/"
                                         }
                                     ]
                                 }

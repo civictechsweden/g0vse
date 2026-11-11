@@ -136487,14 +136487,14 @@
         "year": 2025,
         "week": 4,
         "department": "Arbetsmarknadsdepartementet",
-        "minister": "Mats Persson",
+        "minister": null,
         "title": "Riksdagsskrivelse 2023/24:263 med överlämnande av arbetsmarknadsutskottets betänkande Riksrevisionens rapport om kontrollen av subventionerade anställningar (bet. 2023/24:AU10)",
         "agenda_number": "I:1",
         "journal_ids": [
             "A2024/00859"
         ],
         "responsible_official": "Ulrika Söderqvist",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1284"
     },
     {
@@ -136502,14 +136502,14 @@
         "year": 2025,
         "week": 4,
         "department": "Arbetsmarknadsdepartementet",
-        "minister": "Paulina Brandberg",
+        "minister": null,
         "title": "Handlingsplan för hbtqi-personers lika rättigheter och möjligheter",
         "agenda_number": "II:1",
         "journal_ids": [
             "A2025/"
         ],
         "responsible_official": "Johanna Johnsson",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1284"
     },
     {
@@ -136517,14 +136517,14 @@
         "year": 2025,
         "week": 4,
         "department": "Arbetsmarknadsdepartementet",
-        "minister": "Paulina Brandberg",
+        "minister": null,
         "title": "Uppdrag till Folkhälsomyndigheten att samordna, stödja och följa upp de hbtqi-strategiska myndigheternas arbete för att främja hbtqi-personers lika rättigheter och möjligheter",
         "agenda_number": "II:2",
         "journal_ids": [
             "A2024/"
         ],
         "responsible_official": "Johanna Johnsson",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1284"
     },
     {
@@ -136532,14 +136532,14 @@
         "year": 2025,
         "week": 4,
         "department": "Arbetsmarknadsdepartementet",
-        "minister": "Paulina Brandberg",
+        "minister": null,
         "title": "Uppdrag till Arbetsmiljöverket att vara strategisk myndighet för hbtqi-personers lika rättigheter och möjligheter",
         "agenda_number": "II:3",
         "journal_ids": [
             "A2024/"
         ],
         "responsible_official": "Johanna Johnsson",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1284"
     },
     {
@@ -136547,14 +136547,14 @@
         "year": 2025,
         "week": 4,
         "department": "Arbetsmarknadsdepartementet",
-        "minister": "Paulina Brandberg",
+        "minister": null,
         "title": "Uppdrag till Myndigheten för arbetsmiljökunskap att vara strategisk myndighet för hbtqi-personers lika rättigheter och möjligheter",
         "agenda_number": "II:4",
         "journal_ids": [
             "A2024/"
         ],
         "responsible_official": "Johanna Johnsson",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1284"
     },
     {
@@ -136562,14 +136562,14 @@
         "year": 2025,
         "week": 4,
         "department": "Arbetsmarknadsdepartementet",
-        "minister": "Paulina Brandberg",
+        "minister": null,
         "title": "Uppdrag till Totalförsvarets forskningsinstitut att kartlägga förekomsten av hbtqi-fientlighet i digitala miljöer",
         "agenda_number": "II:5",
         "journal_ids": [
             "A2024/"
         ],
         "responsible_official": "Johanna Johnsson",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1284"
     },
     {
@@ -136577,14 +136577,14 @@
         "year": 2025,
         "week": 4,
         "department": "Arbetsmarknadsdepartementet",
-        "minister": "Paulina Brandberg",
+        "minister": null,
         "title": "Ändring av uppdraget till Folkhälsomyndigheten att stödja, samordna och följa upp arbetet för att främja hbtqi-personers lika rättigheter och möjligheter",
         "agenda_number": "II:6",
         "journal_ids": [
             "A2025/"
         ],
         "responsible_official": "Johanna Johnsson",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1284"
     },
     {
@@ -136599,7 +136599,7 @@
             "Fi2024/"
         ],
         "responsible_official": "Johan Ndure",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1285",
         "minister_code": "2614"
     },
@@ -136615,7 +136615,7 @@
             "Fi2024/"
         ],
         "responsible_official": "Johan Ndure",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1285",
         "minister_code": "2614"
     },
@@ -136632,7 +136632,7 @@
             "Fi2025/"
         ],
         "responsible_official": "Johan Ndure",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1285",
         "minister_code": "2614"
     },
@@ -136648,7 +136648,7 @@
             "HR2024/02078"
         ],
         "responsible_official": "Johan Ndure",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1285",
         "minister_code": "2623"
     },
@@ -136667,7 +136667,7 @@
             "Fi2025/"
         ],
         "responsible_official": "Niklas Ekstrand",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1285",
         "minister_code": "2623"
     },
@@ -136683,7 +136683,7 @@
             "Fi2024/"
         ],
         "responsible_official": "Johan Ndure",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1285",
         "minister_code": "2623"
     },
@@ -136699,7 +136699,7 @@
             "Fi2025/"
         ],
         "responsible_official": "Lotta Hardvik Cederstierna",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1285",
         "minister_code": "2623"
     },
@@ -136715,7 +136715,7 @@
             "Fi2024/01066"
         ],
         "responsible_official": "Johan Ndure",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1285",
         "minister_code": "2623"
     },
@@ -136731,7 +136731,7 @@
             "Fi2025/"
         ],
         "responsible_official": "Lotta Hardvik Cederstierna",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1285",
         "minister_code": "2623"
     },
@@ -136747,7 +136747,7 @@
             "HR2024/00660"
         ],
         "responsible_official": "Maria Diamant",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1286",
         "minister_code": "2627"
     },
@@ -136763,7 +136763,7 @@
             "Fö2025/"
         ],
         "responsible_official": "Maria Diamant",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1286",
         "minister_code": "2627"
     },
@@ -136779,7 +136779,7 @@
             "Fö2025/"
         ],
         "responsible_official": "Maria Diamant",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1286",
         "minister_code": "2627"
     },
@@ -136795,7 +136795,7 @@
             "Fö2024/01489"
         ],
         "responsible_official": "Maria Diamant",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1286",
         "minister_code": "2627"
     },
@@ -136811,7 +136811,7 @@
             "Fö2024/01490"
         ],
         "responsible_official": "Maria Diamant",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1286",
         "minister_code": "2627"
     },
@@ -136827,7 +136827,7 @@
             "Fö2025/00019"
         ],
         "responsible_official": "Maria Diamant",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1286",
         "minister_code": "2627"
     },
@@ -136843,7 +136843,7 @@
             "Fö2024/01947"
         ],
         "responsible_official": "Maria Diamant",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1286",
         "minister_code": "2627"
     },
@@ -136860,7 +136860,7 @@
             "Ju2024/02625"
         ],
         "responsible_official": "Jenny Kvarnholt",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1287",
         "minister_code": "2615"
     },
@@ -136876,7 +136876,7 @@
             "Ju2025/"
         ],
         "responsible_official": "Jenny Kvarnholt",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1287",
         "minister_code": "2615"
     },
@@ -136892,7 +136892,7 @@
             "Ju2025/"
         ],
         "responsible_official": "Jenny Kvarnholt",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1287",
         "minister_code": "2615"
     },
@@ -136921,7 +136921,7 @@
             "Ju2025/"
         ],
         "responsible_official": "Mattias Larsson",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1287",
         "minister_code": "2615"
     },
@@ -136937,7 +136937,7 @@
             "Ju2025/"
         ],
         "responsible_official": "Mattias Larsson",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1287",
         "minister_code": "2615"
     },
@@ -136954,7 +136954,7 @@
             "Ju2024/02625"
         ],
         "responsible_official": "Jenny Kvarnholt",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1287",
         "minister_code": "2615"
     },
@@ -136971,7 +136971,7 @@
             "Ju2024/02625"
         ],
         "responsible_official": "Jenny Kvarnholt",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1287",
         "minister_code": "2615"
     },
@@ -136988,7 +136988,7 @@
             "Ju2024/02625"
         ],
         "responsible_official": "Jenny Kvarnholt",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1287",
         "minister_code": "2615"
     },
@@ -137005,7 +137005,7 @@
             "Ju2024/02625"
         ],
         "responsible_official": "Jenny Kvarnholt",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1287",
         "minister_code": "2615"
     },
@@ -137022,7 +137022,7 @@
             "Ju2024/02628"
         ],
         "responsible_official": "Jenny Kvarnholt",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1287",
         "minister_code": "2615"
     },
@@ -137039,7 +137039,7 @@
             "Ju2024/02626"
         ],
         "responsible_official": "Jenny Kvarnholt",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1287",
         "minister_code": "2615"
     },
@@ -137056,7 +137056,7 @@
             "Ju2024/02626"
         ],
         "responsible_official": "Jenny Kvarnholt",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1287",
         "minister_code": "2615"
     },
@@ -137073,7 +137073,7 @@
             "Ju2025/"
         ],
         "responsible_official": "Tobias Eriksson",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1287",
         "minister_code": "2615"
     },
@@ -137094,7 +137094,7 @@
             "Ju2025/"
         ],
         "responsible_official": "Alexandra Wilton Wahren",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1287",
         "minister_code": "2618"
     },
@@ -137110,7 +137110,7 @@
             "Ju2025/"
         ],
         "responsible_official": "Alexandra Wilton Wahren",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1287",
         "minister_code": "2618"
     },
@@ -137126,7 +137126,7 @@
             "Ju2024/01270"
         ],
         "responsible_official": "Alexandra Wilton Wahren",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1287",
         "minister_code": "2618"
     },
@@ -137142,7 +137142,7 @@
             "KN2024/02530"
         ],
         "responsible_official": "Jonas Pontén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1291",
         "minister_code": "2626"
     },
@@ -137159,7 +137159,7 @@
             "KN2024/"
         ],
         "responsible_official": "Jonas Pontén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1291",
         "minister_code": "2626"
     },
@@ -137175,7 +137175,7 @@
             "KN2025/"
         ],
         "responsible_official": "Maria Åhrling",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1291",
         "minister_code": "2626"
     },
@@ -137191,7 +137191,7 @@
             "KN2023/04580"
         ],
         "responsible_official": "Maria Åhrling",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1291",
         "minister_code": "2626"
     },
@@ -137207,7 +137207,7 @@
             "KN2025/"
         ],
         "responsible_official": "Maria Åhrling",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1291",
         "minister_code": "2628"
     },
@@ -137223,7 +137223,7 @@
             "KN2023/04152"
         ],
         "responsible_official": "Maria Åhrling",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1291",
         "minister_code": "2628"
     },
@@ -137240,7 +137240,7 @@
             "KN2025/"
         ],
         "responsible_official": "Jonas Pontén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1291",
         "minister_code": "2628"
     },
@@ -137256,7 +137256,7 @@
             "KN2025/"
         ],
         "responsible_official": "Pontus Söderström",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1291",
         "minister_code": "2628"
     },
@@ -137272,7 +137272,7 @@
             "KN2024/"
         ],
         "responsible_official": "Maria Åhrling",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1291",
         "minister_code": "2628"
     },
@@ -137288,7 +137288,7 @@
             "KN2024/01120"
         ],
         "responsible_official": "Maria Åhrling",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1291",
         "minister_code": "2628"
     },
@@ -137304,7 +137304,7 @@
             "KN2024/01364"
         ],
         "responsible_official": "Maria Åhrling",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1291",
         "minister_code": "2628"
     },
@@ -137320,7 +137320,7 @@
             "Ku2024/00949"
         ],
         "responsible_official": "Ida Wettervik",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1288",
         "minister_code": "2624"
     },
@@ -137336,7 +137336,7 @@
             "Ku2025/"
         ],
         "responsible_official": "Ida Wettervik",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1288",
         "minister_code": "2624"
     },
@@ -137352,7 +137352,7 @@
             "Ku2025/"
         ],
         "responsible_official": "Ida Wettervik",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1288",
         "minister_code": "2624"
     },
@@ -137368,7 +137368,7 @@
             "LI2023/02962"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2608"
     },
@@ -137384,7 +137384,7 @@
             "LI2024/01023"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2608"
     },
@@ -137400,7 +137400,7 @@
             "LI2024/00573"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2608"
     },
@@ -137417,7 +137417,7 @@
             "LI2025/"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2608"
     },
@@ -137433,7 +137433,7 @@
             "LI2025/"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2608"
     },
@@ -137450,7 +137450,7 @@
             "LI2025/"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2608"
     },
@@ -137466,7 +137466,7 @@
             "LI2024/00661"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2608"
     },
@@ -137482,7 +137482,7 @@
             "LI2023/00066"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2608"
     },
@@ -137498,7 +137498,7 @@
             "LI2024/01572"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2626"
     },
@@ -137519,7 +137519,7 @@
             "LI2025/"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2626"
     },
@@ -137537,7 +137537,7 @@
             "LI2025/"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2626"
     },
@@ -137553,7 +137553,7 @@
             "LI2025/"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2626"
     },
@@ -137569,7 +137569,7 @@
             "LI2024/02055"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2626"
     },
@@ -137585,7 +137585,7 @@
             "LI2024/02056"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2626"
     },
@@ -137601,7 +137601,7 @@
             "LI2024/02057"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2626"
     },
@@ -137617,7 +137617,7 @@
             "LI2023/03386"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2626"
     },
@@ -137633,7 +137633,7 @@
             "LI2023/02941"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2626"
     },
@@ -137649,7 +137649,7 @@
             "LI2023/03929"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2626"
     },
@@ -137669,7 +137669,7 @@
             "LI2025/"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2626"
     },
@@ -137686,7 +137686,7 @@
             "LI2025/"
         ],
         "responsible_official": "Fredrik Ahlén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "2425",
         "minister_code": "2626"
     },
@@ -137695,14 +137695,14 @@
         "year": 2025,
         "week": 4,
         "department": "Socialdepartementet",
-        "minister": "Acko Ankarberg Johansson",
+        "minister": null,
         "title": "Bemyndigande att underteckna överenskommelse mellan staten och Sveriges Kommuner och Regioner om jämlik och effektiv cancervård med kortare väntetider 2025",
         "agenda_number": "II:1",
         "journal_ids": [
             "S2025/"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292"
     },
     {
@@ -137710,7 +137710,7 @@
         "year": 2025,
         "week": 4,
         "department": "Socialdepartementet",
-        "minister": "Acko Ankarberg Johansson",
+        "minister": null,
         "title": "Regeringens proposition Nya anpassningar till EU:s förordningar om medicinteknik",
         "agenda_number": "II:10",
         "journal_ids": [
@@ -137719,7 +137719,7 @@
             "S2025/"
         ],
         "responsible_official": "Mikael Pauli",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292"
     },
     {
@@ -137727,14 +137727,14 @@
         "year": 2025,
         "week": 4,
         "department": "Socialdepartementet",
-        "minister": "Acko Ankarberg Johansson",
+        "minister": null,
         "title": "Ansökan om bidrag till stödjande insatser för omställningen till Nära vård 2025",
         "agenda_number": "II:2",
         "journal_ids": [
             "S2024/01626"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292"
     },
     {
@@ -137742,14 +137742,14 @@
         "year": 2025,
         "week": 4,
         "department": "Socialdepartementet",
-        "minister": "Acko Ankarberg Johansson",
+        "minister": null,
         "title": "Ändring av regleringsbrev för budgetåret 2025 avseende anslag 1:11 Prestationsbundna insatser för att korta vårdköerna",
         "agenda_number": "II:3",
         "journal_ids": [
             "S2025/"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292"
     },
     {
@@ -137757,14 +137757,14 @@
         "year": 2025,
         "week": 4,
         "department": "Socialdepartementet",
-        "minister": "Acko Ankarberg Johansson",
+        "minister": null,
         "title": "Ändring av regleringsbrev för budgetåret 2025 avseende anslag 1:6 Bidrag till folkhälsa och sjukvård",
         "agenda_number": "II:4",
         "journal_ids": [
             "S2025/"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292"
     },
     {
@@ -137772,14 +137772,14 @@
         "year": 2025,
         "week": 4,
         "department": "Socialdepartementet",
-        "minister": "Acko Ankarberg Johansson",
+        "minister": null,
         "title": "Ansökan om bidrag för att sprida kunskap om behov, förutsättningar, utmaningar och möjligheter att bedriva hälso- och sjukvård i lands- och glesbygdsområden",
         "agenda_number": "II:5",
         "journal_ids": [
             "S2024/01806"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292"
     },
     {
@@ -137787,14 +137787,14 @@
         "year": 2025,
         "week": 4,
         "department": "Socialdepartementet",
-        "minister": "Acko Ankarberg Johansson",
+        "minister": null,
         "title": "Ansökan om bidrag för nästa steg i projektet samordnad utveckling för god och nära vård i glesbygdsperspektiv",
         "agenda_number": "II:6",
         "journal_ids": [
             "S2024/00035"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292"
     },
     {
@@ -137802,14 +137802,14 @@
         "year": 2025,
         "week": 4,
         "department": "Socialdepartementet",
-        "minister": "Acko Ankarberg Johansson",
+        "minister": null,
         "title": "Utbetalning av medel till Sverige Kommuner och Regioner",
         "agenda_number": "II:7",
         "journal_ids": [
             "S2025/"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292"
     },
     {
@@ -137817,14 +137817,14 @@
         "year": 2025,
         "week": 4,
         "department": "Socialdepartementet",
-        "minister": "Acko Ankarberg Johansson",
+        "minister": null,
         "title": "Utbetalning av medel till regionerna",
         "agenda_number": "II:8",
         "journal_ids": [
             "S2025/"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292"
     },
     {
@@ -137832,14 +137832,14 @@
         "year": 2025,
         "week": 4,
         "department": "Socialdepartementet",
-        "minister": "Acko Ankarberg Johansson",
+        "minister": null,
         "title": "Uppdrag till Socialstyrelsen att ta fram förslag till en nationell strategi och handlingsplan för rehabilitering och habilitering",
         "agenda_number": "II:9",
         "journal_ids": [
             "S2025/"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292"
     },
     {
@@ -137854,7 +137854,7 @@
             "S2024/02078"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2609"
     },
@@ -137870,7 +137870,7 @@
             "S2024/02091"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2609"
     },
@@ -137886,7 +137886,7 @@
             "S2024/02184"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2609"
     },
@@ -137902,7 +137902,7 @@
             "S2025/"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2609"
     },
@@ -137918,7 +137918,7 @@
             "S2025/"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2609"
     },
@@ -137934,7 +137934,7 @@
             "S2025/"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2609"
     },
@@ -137952,7 +137952,7 @@
             "S2025/"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2609"
     },
@@ -137968,7 +137968,7 @@
             "S2025/"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2610"
     },
@@ -137984,7 +137984,7 @@
             "S2025/"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2610"
     },
@@ -138000,7 +138000,7 @@
             "S2025/"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2610"
     },
@@ -138016,7 +138016,7 @@
             "S2025/"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2610"
     },
@@ -138033,7 +138033,7 @@
             "S2025/"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2610"
     },
@@ -138060,7 +138060,7 @@
             "S2025/"
         ],
         "responsible_official": "Mikael Pauli",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2610"
     },
@@ -138076,7 +138076,7 @@
             "S2025/00055"
         ],
         "responsible_official": "Mikael Pauli",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2616"
     },
@@ -138092,7 +138092,7 @@
             "S2025/"
         ],
         "responsible_official": "Mikael Pauli",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2616"
     },
@@ -138108,7 +138108,7 @@
             "S2025/"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2616"
     },
@@ -138124,7 +138124,7 @@
             "S2023/00795"
         ],
         "responsible_official": "Johanna Mihaic",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1292",
         "minister_code": "2616"
     },
@@ -138133,14 +138133,14 @@
         "year": 2025,
         "week": 4,
         "department": "Utbildningsdepartementet",
-        "minister": "Johan Pehrson",
+        "minister": null,
         "title": "Förordnande i styrelsen för Stiftelsen Institutet för framtidsstudier",
         "agenda_number": "I:1",
         "journal_ids": [
             "U2024/01562"
         ],
         "responsible_official": "Karin Erlingsson",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1294"
     },
     {
@@ -138148,7 +138148,7 @@
         "year": 2025,
         "week": 4,
         "department": "Utbildningsdepartementet",
-        "minister": "Johan Pehrson",
+        "minister": null,
         "title": "Extra ersättning till vice ordförande i Skolväsendets överklagandenämnd",
         "agenda_number": "I:2",
         "journal_ids": [
@@ -138156,7 +138156,7 @@
             "U2024/"
         ],
         "responsible_official": "Karin Erlingsson",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1294"
     },
     {
@@ -138164,7 +138164,7 @@
         "year": 2025,
         "week": 4,
         "department": "Utbildningsdepartementet",
-        "minister": "Johan Pehrson",
+        "minister": null,
         "title": "Förordning om ändring i förordningen (2011:326) om behörighet och legitimation för lärare och förskollärare",
         "agenda_number": "I:3",
         "journal_ids": [
@@ -138172,7 +138172,7 @@
             "U2024/"
         ],
         "responsible_official": "Eva Lenberg",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1294"
     },
     {
@@ -138180,14 +138180,14 @@
         "year": 2025,
         "week": 4,
         "department": "Utbildningsdepartementet",
-        "minister": "Johan Pehrson",
+        "minister": null,
         "title": "Förordning om dels fortsatt giltighet av förordningen (2011:689) om vissa behörighetsgivande examina för legitimation som lärare och förskollärare och om högskoleutbildningar för vidareutbildning av lärare och pedagogisk personal inom förskolan som leder till lärar- eller förskollärarexamen, dels ändring i samma förordning",
         "agenda_number": "I:4",
         "journal_ids": [
             "U2024/"
         ],
         "responsible_official": "Angela Öst",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1294"
     },
     {
@@ -138195,7 +138195,7 @@
         "year": 2025,
         "week": 4,
         "department": "Utbildningsdepartementet",
-        "minister": "Johan Pehrson",
+        "minister": null,
         "title": "Ändring av regleringsbrev för budgetåret 2025 avseende anslag 2:64 inom utgiftsområde 16 Utbildning och universitetsforskning",
         "agenda_number": "I:5",
         "journal_ids": [
@@ -138203,7 +138203,7 @@
             "U2025/"
         ],
         "responsible_official": "Karin Erlingsson",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1294"
     },
     {
@@ -138218,7 +138218,7 @@
             "U2024/"
         ],
         "responsible_official": "Karin Erlingsson",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1294",
         "minister_code": "2620"
     },
@@ -138235,7 +138235,7 @@
             "UD2025/"
         ],
         "responsible_official": "Helena Swenzén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1295",
         "minister_code": "2756"
     },
@@ -138251,7 +138251,7 @@
             "UD2024/15988"
         ],
         "responsible_official": "Helena Swenzén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1295",
         "minister_code": "2756"
     },
@@ -138267,7 +138267,7 @@
             "UD2025/"
         ],
         "responsible_official": "Helena Swenzén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1295",
         "minister_code": "2756"
     },
@@ -138283,7 +138283,7 @@
             "UD2024/07817"
         ],
         "responsible_official": "Helena Swenzén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1295",
         "minister_code": "2621"
     },
@@ -138299,7 +138299,7 @@
             "UD2022/12831"
         ],
         "responsible_official": "Helena Swenzén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1295",
         "minister_code": "2621"
     },
@@ -138315,7 +138315,7 @@
             "UD2025/"
         ],
         "responsible_official": "Helena Swenzén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1295",
         "minister_code": "2621"
     },
@@ -138331,7 +138331,7 @@
             "UD2025/"
         ],
         "responsible_official": "Helena Swenzén",
-        "meeting_date": "2025-01-23",
+        "meeting_date": null,
         "department_code": "1295",
         "minister_code": "2621"
     },
