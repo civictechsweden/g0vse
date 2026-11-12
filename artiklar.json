@@ -1,5 +1,44 @@
 [
     {
+        "title": "Förstärkt uppmaning om att se över cybersäkerheten",
+        "url": "/artiklar/2026/11/forstarkt-uppmaning-om-att-se-over-cybersakerheten/",
+        "published": "2026-11-11",
+        "updated": null,
+        "types": [
+            "2097"
+        ],
+        "senders": [
+            "2611",
+            "1286"
+        ],
+        "summary": "Under den senaste tiden har cyberangrepp mot kyl- och fryssystem drabbat butiker i Sverige. Regeringen och myndigheterna verkar nu både för att hantera de specifika händelserna och för att på ett övergripande sätt stärka Sveriges cybersäkerhet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Information om cyberangrepp mot uppkopplade frys- och kylsystem på NCSC:s webbplats- extern webbplats,",
+                "url": "https://www.ncsc.se/sv/aktuellt/cyberangrepp-mot-kylsystem/"
+            },
+            {
+                "name": "En ny era av cybersäkerhet - Nationell strategi för cybersäkerhet 2025–2029",
+                "url": "/informationsmaterial/2025/03/nationell-strategi-for-cybersakerhet-2025-2029/"
+            },
+            {
+                "name": "Information om EU:s cybersäkerhetspolitik på kommissionens webbplats- extern webbplats,",
+                "url": "https://digital-strategy.ec.europa.eu/sv/policies/cybersecurity-policies"
+            },
+            {
+                "name": "Cybersäkerhet",
+                "url": "/regeringens-politik/cybersakerhet/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "2248",
+            "1241",
+            "2781"
+        ]
+    },
+    {
         "title": "COP17 pekade ut riktningen för det fortsatta arbetet för biologisk mångfald",
         "url": "/artiklar/2026/11/cop17-pekade-ut-riktningen-for-det-fortsatta-arbetet-for-biologisk-mangfald/",
         "published": "2026-11-10",

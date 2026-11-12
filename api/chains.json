@@ -21797,6 +21797,28 @@
                 }
             ]
         },
+        "1d350e4be3b3d826": {
+            "phases": [
+                {
+                    "name": "Förslag till ny rättsakt inom EU",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/faktapromemoria/2026/11/202627fpm14/"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": false
+                }
+            ]
+        },
         "1d6885abd0051e88": {
             "phases": [
                 {
@@ -37652,6 +37674,15 @@
                                         }
                                     ],
                                     "type": "1331"
+                                },
+                                {
+                                    "type": "2099",
+                                    "documents": [
+                                        {
+                                            "url": "/remisser/2026/11/remiss-av-starkt-patientsakerhet-och-okad-motstandskraft-sou-202661/",
+                                            "inferred": true
+                                        }
+                                    ]
                                 }
                             ]
                         }
@@ -140548,6 +140579,14 @@
                                         }
                                     ],
                                     "type": "1327"
+                                },
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/11/ds-202622/"
+                                        }
+                                    ],
+                                    "type": "1325"
                                 },
                                 {
                                     "documents": [
