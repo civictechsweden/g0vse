@@ -1,5 +1,267 @@
 [
     {
+        "title": "En myndighet för redovisning och revision",
+        "url": "/rattsliga-dokument/proposition/2026/11/prop.-20262717",
+        "published": "2026-11-12",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "Bokföringsnämndens uppgifter ska föras över till och inordnas i Revisorsinspektionen. I propositionen föreslås att Revisorsinspektionen ska byta namn till Myndigheten för redovisning och revision. Det föreslås även andra lagändringar för organisationsförändringen.",
+        "id": "Prop. 2026/27:17",
+        "shortcuts": [
+            {
+                "name": "Pressmeddelande: Revisorsinspektionen föreslås byta namn efter organisationsförändringar",
+                "url": "/pressmeddelanden/2026/08/revisorsinspektionen-foreslas-byta-namn-efter-organisationsforandringar/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "En myndighet för redovisning och revision, prop 2026/27:17 (pdf 1 MB)",
+                "url": "/contentassets/c1821a2b9c9c4d6bb46fdea612c80dfe/en-myndighet-for-redovisning-och-revision-prop-20262717.pdf"
+            }
+        ],
+        "categories": [
+            "1231",
+            "1257",
+            "1267"
+        ],
+        "chains": [
+            "bf3be31c51f09440"
+        ]
+    },
+    {
+        "title": "Höständringsbudget för 2026",
+        "url": "/rattsliga-dokument/proposition/2026/11/prop.-2026272",
+        "published": "2026-11-12",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "Propositionen innehåller förslag till ändringar som avser statens utgifter för budgetåret 2026.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Artikel: Budgetpropositionen för 2027 på fem minuterWebb-TV",
+                "url": "/artiklar/2026/11/budgetpropositionen-for-2027-pa-fem-minuter/"
+            },
+            {
+                "name": "Pressmeddelande: Övergångsregeringen har överlämnat budgetpropositionen för 2027Webb-TV",
+                "url": "/pressmeddelanden/2026/11/overgangsregeringen-har-overlamnat-budgetpropositionen-for-2027/"
+            },
+            {
+                "name": "Prop. 2026/27:1 Budgetpropositionen för 2027",
+                "url": "/rattsliga-dokument/proposition/2026/11/prop.-2026271"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Höständringsbudget för 2026, prop. 2026/27:2 (pdf 373 kB)",
+                "url": "/contentassets/326751b9e52a49d784daed564bc6ef93/hostandringsbudget-for-2026-prop.-2026272"
+            }
+        ],
+        "categories": [
+            "1232",
+            "2212"
+        ],
+        "chains": [
+            "4c0fc7ac3b1cb698"
+        ]
+    },
+    {
+        "title": "Budgetpropositionen för 2027",
+        "url": "/rattsliga-dokument/proposition/2026/11/prop.-2026271",
+        "published": "2026-11-12",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "Den 12 november lämnar regeringen budgetpropositionen för 2027 till riksdagen. Budgetpropositionen innehåller regeringens förslag till statens budget för 2027 samt de övriga förslag och bedömningar som följer av riksdagsordningen och budgetlagen (2011:203).",
+        "id": "Prop. 2026/27:1",
+        "shortcuts": [
+            {
+                "name": "Artikel: Budgetpropositionen för 2027 på fem minuterWebb-TV",
+                "url": "/artiklar/2026/11/budgetpropositionen-for-2027-pa-fem-minuter/"
+            },
+            {
+                "name": "Pressmeddelande: Övergångsregeringen har överlämnat budgetpropositionen för 2027Webb-TV",
+                "url": "/pressmeddelanden/2026/11/overgangsregeringen-har-overlamnat-budgetpropositionen-for-2027/"
+            },
+            {
+                "name": "Prop. 2026/27:2 Höständringbudget för 2026",
+                "url": "/rattsliga-dokument/proposition/2026/11/prop.-2026272"
+            },
+            {
+                "name": "Informationsmaterial: Finansplan – utdrag ur budgetpropositionen för 2027",
+                "url": "/informationsmaterial/2026/11/finansplan--utdrag-ur-budgetpropositionen-for-2027/"
+            },
+            {
+                "name": "Informationsmaterial: Klimatredovisning",
+                "url": "/informationsmaterial/2026/11/klimatredovisning/"
+            },
+            {
+                "name": "Informationsmaterial: Ekonomisk jämställdhet",
+                "url": "/informationsmaterial/2026/11/ekonomisk-jamstalldhet/"
+            },
+            {
+                "name": "Rapport: Teknisk bilaga till Ekonomisk jämställdhet",
+                "url": "/rapporter/2026/11/teknisk-bilaga-till-ekonomisk-jamstalldhet-november-2026/"
+            },
+            {
+                "name": "Specifikation av budgetens utgifter och inkomster 2027 (xlsx)",
+                "url": "/contentassets/505b9533e9564731a0c33d6e45ef4658/specifikation-av-budgetens-utgifter-och-inkomster-2027.xlsx"
+            },
+            {
+                "name": "Tabellsamling – makroekonomisk utveckling och offentliga finanser (xlsx)",
+                "url": "/contentassets/505b9533e9564731a0c33d6e45ef4658/tabellsamling--makroekonomisk-utveckling-och-offentliga-finanser.xlsx"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Budgetpropositionen för 2027, prop. 2026/27:1, hela dokumentet (pdf 24 MB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/budgetpropositionen-for-2027-prop.-2026271-hela-dokumentet.pdf"
+            },
+            {
+                "name": "Förslag till statens budget för 2027, finansplan, kapitel 1-12, bilagor 1-5 (pdf 3 MB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/forslag-till-statens-budget-for-2027-finansplan-kapitel-1-12-bilagor-1-5.pdf"
+            },
+            {
+                "name": "Utgiftsområde 1 Rikets styrelse (pdf 953 kB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-1-rikets-styrelse.pdf"
+            },
+            {
+                "name": "Utgiftsområde 2 Samhällsekonomi och finansförvaltning (pdf 1 MB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-2-samhallsekonomi-och-finansforvaltning.pdf"
+            },
+            {
+                "name": "Utgiftsområde 3 Skatt, tull och exekution (pdf 488 kB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-3-skatt-tull-och-exekution.pdf"
+            },
+            {
+                "name": "Utgiftsområde 4 Rättsväsendet (pdf 725 kB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-4-rattsvasendet.pdf"
+            },
+            {
+                "name": "Utgiftsområde 5 Internationell samverkan (pdf 472 kB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-5-internationell-samverkan.pdf"
+            },
+            {
+                "name": "Utgiftsområde 6 Försvar och samhällets krisberedskap (pdf 1 MB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-6-forsvar-och-samhallets-krisberedskap.pdf"
+            },
+            {
+                "name": "Utgiftsområde 7 Internationellt bistånd (pdf 1 MB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-7-internationellt-bistand.pdf"
+            },
+            {
+                "name": "Utgiftsområde 8 Migration (pdf 457 kB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-8-migration.pdf"
+            },
+            {
+                "name": "Utgiftsområde 9 Hälsovård, sjukvård och social omsorg (pdf 3 MB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-9-halsovard-sjukvard-och-social-omsorg.pdf"
+            },
+            {
+                "name": "Utgiftsområde 10 Ekonomisk trygghet vid sjukdom och funktionsnedsättning (pdf 786 kB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-10-ekonomisk-trygghet-vid-sjukdom-och-funktionsnedsattning.pdf"
+            },
+            {
+                "name": "Utgiftsområde 11 Ekonomisk trygghet vid ålder (pdf 633 kB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-11-ekonomisk-trygghet-vid-alder.pdf"
+            },
+            {
+                "name": "Ålderspensionssystemet vid sidan av statens budget (pdf 487 kB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/alderspensionssystemet-vid-sidan-av-statens-budget.pdf"
+            },
+            {
+                "name": "Utgiftsområde 12 Ekonomisk trygghet för familjer och barn (pdf 726 kB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-12-ekonomisk-trygghet-for-familjer-och-barn.pdf"
+            },
+            {
+                "name": "Utgiftsområde 13 Integration och jämställdhet (pdf 806 kB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-13-integration-och-jamstalldhet.pdf"
+            },
+            {
+                "name": "Utgiftsområde 14 Arbetsmarknad och arbetsliv (pdf 907 kB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-14-arbetsmarknad-och-arbetsliv.pdf"
+            },
+            {
+                "name": "Utgiftsområde 15 Studiestöd (pdf 436 kB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-15-studiestod.pdf"
+            },
+            {
+                "name": "Utgiftsområde 16 Utbildning och universitetsforskning (pdf 2 MB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-16-utbildning-och-universitetsforskning.pdf"
+            },
+            {
+                "name": "Utgiftsområde 17 Kultur, medier, trossamfund och fritid (pdf 1 MB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-17-kultur-medier-trossamfund-och-fritid.pdf"
+            },
+            {
+                "name": "Utgiftsområde 18 Samhällsplanering, bostadsförsörjning och byggande samt konsumentpolitik (pdf 1 MB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-18-samhallsplanering-bostadsforsorjning-och-byggande-samt-konsumentpolitik.pdf"
+            },
+            {
+                "name": "Utgiftsområde 19 Regional utveckling (pdf 1007 kB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-19-regional-utveckling.pdf"
+            },
+            {
+                "name": "Utgiftsområde 20 Klimat, miljö och natur (pdf 1 MB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-20-klimat-miljo-och-natur.pdf"
+            },
+            {
+                "name": "Utgiftsområde 21 Energi (pdf 1 MB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-21-energi.pdf"
+            },
+            {
+                "name": "Utgiftsområde 22 Kommunikationer (pdf 2 MB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-22-kommunikationer.pdf"
+            },
+            {
+                "name": "Utgiftsområde 23 Areella näringar, landsbygd och livsmedel (pdf 2 MB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-23-areella-naringar-landsbygd-och-livsmedel.pdf"
+            },
+            {
+                "name": "Utgiftsområde 24 Näringsliv (pdf 1 MB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-24-naringsliv.pdf"
+            },
+            {
+                "name": "Utgiftsområde 25 Allmänna bidrag till kommuner (pdf 512 kB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-25-allmanna-bidrag-till-kommuner.pdf"
+            },
+            {
+                "name": "Utgiftsområde 26 Statsskuldsräntor m.m. (pdf 309 kB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-26-statsskuldsrantor-m.m..pdf"
+            },
+            {
+                "name": "Utgiftsområde 27 Avgiften till Europeiska unionen (pdf 254 kB)",
+                "url": "/contentassets/8fc046c8c0af47b487c3263425c3780a/utgiftsomrade-27-avgiften-till-europeiska-unionen.pdf"
+            }
+        ],
+        "categories": [
+            "1232",
+            "2212"
+        ],
+        "chains": [
+            "4c782bc5451fc858"
+        ]
+    },
+    {
         "title": "Ändring i reglerna om information vid prissänkningar",
         "url": "/rattsliga-dokument/proposition/2026/11/prop.-20262714",
         "published": "2026-11-10",

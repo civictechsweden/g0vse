@@ -1,5 +1,109 @@
 [
     {
+        "title": "Klimatredovisning",
+        "url": "/informationsmaterial/2026/11/klimatredovisning/",
+        "published": "2026-11-12",
+        "updated": null,
+        "types": [
+            "1339"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "Enligt klimatlagen ska regeringen varje år lämna en klimatredovisning till riksdagen i budgetpropositionen. Syftet med klimatredovisningen är att underlätta för uppföljning och bedömning av de samlade klimateffekterna av alla politikområden.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2026/27:1 Budgetpropositionen för 2027",
+                "url": "/rattsliga-dokument/proposition/2026/11/prop.-2026271"
+            },
+            {
+                "name": "Prop. 2016/17:146 Ett klimatpolitiskt ramverk för Sverige",
+                "url": "/rattsliga-dokument/lagradsremiss/2017/02/ett-klimatpolitiskt-ramverk-for-sverige/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Klimatredovisning (pdf 579 kB)",
+                "url": "/contentassets/aa9c4f7428bd4f2c9644b0a6017ef86e/klimatredovisning.pdf"
+            }
+        ],
+        "categories": [
+            "1232",
+            "1252",
+            "2212"
+        ]
+    },
+    {
+        "title": "Finansplan – utdrag ur budgetpropositionen för 2027",
+        "url": "/informationsmaterial/2026/11/finansplan--utdrag-ur-budgetpropositionen-for-2027/",
+        "published": "2026-11-12",
+        "updated": null,
+        "types": [
+            "1339"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "Finansplanen är ett utdrag ur budgetpropositionen för 2027.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2026/27:1 Budgetpropositionen för 2027",
+                "url": "/rattsliga-dokument/proposition/2026/11/prop.-2026271"
+            },
+            {
+                "name": "From the Budget Bill for 2027: Budget statement- extern webbplats,",
+                "url": "https://www.government.se/information-material/2026/11/from-the-budget-bill-for-2027-budget-statement/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Finansplan – utdrag ur budgetpropositionen för 2027 (pdf 3 MB)",
+                "url": "/contentassets/c47a389749594fb0982164637dd490ea/finansplan--utdrag-ur-budgetpropositionen-for-2027.pdf"
+            }
+        ],
+        "categories": [
+            "1232",
+            "2212"
+        ]
+    },
+    {
+        "title": "Ekonomisk jämställdhet",
+        "url": "/informationsmaterial/2026/11/ekonomisk-jamstalldhet/",
+        "published": "2026-11-12",
+        "updated": null,
+        "types": [
+            "1339"
+        ],
+        "senders": [
+            "1285"
+        ],
+        "summary": "I denna publikation presenteras en redogörelse för utvecklingen av den ekonomiska jämställdheten som regeringen lämnar i en bilaga i budgetpropositionen för 2027.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Prop. 2026/27:1 Budgetpropositionen för 2027",
+                "url": "/rattsliga-dokument/proposition/2026/11/prop.-2026271"
+            },
+            {
+                "name": "Rapport: Teknisk bilaga till Ekonomisk jämställdhet november 2026",
+                "url": "/rapporter/2026/11/teknisk-bilaga-till-ekonomisk-jamstalldhet-november-2026/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Ekonomisk jämställdhet (pdf 584 kB)",
+                "url": "/contentassets/182eafe7720b42ebbf5b49d918365111/ekonomisk-jamstalldhet/"
+            }
+        ],
+        "categories": [
+            "1232",
+            "1239",
+            "2212"
+        ]
+    },
+    {
         "title": "Utrikeskorrespondenter verksamma i Sverige",
         "url": "/informationsmaterial/2023/11/utrikeskorrespondenter-verksamma-i-sverige/",
         "published": "2023-11-14",

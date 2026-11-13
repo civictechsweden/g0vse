@@ -44745,6 +44745,14 @@
                                         }
                                     ],
                                     "type": "2099"
+                                },
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/lagradsremiss/2026/11/atgarder-for-en-hallbar-konsumtion/"
+                                        }
+                                    ],
+                                    "type": "2085"
                                 }
                             ]
                         }
@@ -56681,6 +56689,29 @@
                 }
             ]
         },
+        "4c0fc7ac3b1cb698": {
+            "phases": [
+                {
+                    "name": "Lagstiftning i Sverige",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/proposition/2026/11/prop.-2026272"
+                                        }
+                                    ],
+                                    "type": "1329"
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": true
+                }
+            ]
+        },
         "4c19693db918a9d9": {
             "phases": [
                 {
@@ -56918,6 +56949,29 @@
                                     "documents": [
                                         {
                                             "url": "/rattsliga-dokument/proposition/2025/04/prop.-202425158"
+                                        }
+                                    ],
+                                    "type": "1329"
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": true
+                }
+            ]
+        },
+        "4c782bc5451fc858": {
+            "phases": [
+                {
+                    "name": "Lagstiftning i Sverige",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/proposition/2026/11/prop.-2026271"
                                         }
                                     ],
                                     "type": "1329"
@@ -108069,6 +108123,10 @@
                                     "documents": [
                                         {
                                             "url": "/remisser/2026/04/remiss-av-delbetankandet-lattnader-i-kraven-pa-hallbarhetsrapportering-sou-202627/"
+                                        },
+                                        {
+                                            "url": "/remisser/2026/11/remiss-av-sou-202659-nagra-fragor-om-redovisning-och-om-granskning-av-hallbarhetsrapporter/",
+                                            "inferred": true
                                         }
                                     ],
                                     "type": "2099"
@@ -141864,6 +141922,14 @@
                                         }
                                     ],
                                     "type": "2085"
+                                },
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/proposition/2026/11/prop.-20262717"
+                                        }
+                                    ],
+                                    "type": "1329"
                                 }
                             ]
                         }
