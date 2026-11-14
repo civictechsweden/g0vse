@@ -1,0 +1,13 @@
+# Ny ambassadör och chef för Sveriges ständiga representation vid Nato utsedd
+
+– Jag är glad att Karin Höglund kommer tillträda som chef för Sveriges ständiga representation vid Nato inom kort. Hon har en lång och bred erfarenhet från den svenska utrikesförvaltningen och är en omvittnat god chef och ledare. Karin Höglund är mycket väl lämpad för uppgiften att representera Sverige i Nato och att leda representationens personal i Bryssel, säger utrikesminister Maria Malmer Stenergard.
+
+Karin Höglund är för närvarande ambassadör i Rom. Hon har tidigare varit ambassadör i Riga och tjänstgjort vid ambassaderna i Washington, London, Pretoria och Sofia, samt på delegationen i Wien vid Organisationen för säkerhet och samarbete i Europa (OSSE). Karin Höglund har varit chef för Utrikesdepartementets Amerikaenhet och ministerkansli. Hon har även arbetat på flera andra enheter i UD.
+
+Sveriges ständiga representation vid Nato företräder Sverige som fullvärdig allierad sedan mars 2024. Uppdraget innefattar att representera Sverige och att bevaka och driva svenska säkerhets-, försvarspolitiska och militära intressen i hela Natos kommittéstruktur, inklusive det Nordatlantiska rådet (NAC) och Militärkommittén. Vid sidan av de formella kommittémötena bedrivs också en löpande, omfattande informell mötesverksamhet, med andra allierade företrädare och med Nato-sekretariatet.
+
+– Jag är glad att Karin Höglund kommer tillträda som chef för Sveriges ständiga representation vid Nato inom kort. Hon har en lång och bred erfarenhet från den svenska utrikesförvaltningen och är en omvittnat god chef och ledare. Karin Höglund är mycket väl lämpad för uppgiften att representera Sverige i Nato och att leda representationens personal i Bryssel, säger utrikesminister Maria Malmer Stenergard.
+
+Karin Höglund är för närvarande ambassadör i Rom. Hon har tidigare varit ambassadör i Riga och tjänstgjort vid ambassaderna i Washington, London, Pretoria och Sofia, samt på delegationen i Wien vid Organisationen för säkerhet och samarbete i Europa (OSSE). Karin Höglund har varit chef för Utrikesdepartementets Amerikaenhet och ministerkansli. Hon har även arbetat på flera andra enheter i UD.
+
+Sveriges ständiga representation vid Nato företräder Sverige som fullvärdig allierad sedan mars 2024. Uppdraget innefattar att representera Sverige och att bevaka och driva svenska säkerhets-, försvarspolitiska och militära intressen i hela Natos kommittéstruktur, inklusive det Nordatlantiska rådet (NAC) och Militärkommittén. Vid sidan av de formella kommittémötena bedrivs också en löpande, omfattande informell mötesverksamhet, med andra allierade företrädare och med Nato-sekretariatet.
