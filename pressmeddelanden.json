@@ -1,5 +1,206 @@
 [
     {
+        "title": "Statsministern deltar i Coalition of the Willing-möte i Berlin",
+        "url": "/pressmeddelanden/2026/11/statsministern-deltar-i-coalition-of-the-willing-mote-i-berlin/",
+        "published": "2026-11-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2605",
+            "1293"
+        ],
+        "summary": "Torsdag den 19 november reser statsminister Ulf Kristersson till Berlin för att delta i ett möte på stats- och regeringschefsnivå i Coalition of the Willing, till stöd för Ukraina.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1279",
+            "2584",
+            "1013",
+            "1195"
+        ]
+    },
+    {
+        "title": "Beslut om riktlinjer för statsskuldens förvaltning 2027",
+        "url": "/pressmeddelanden/2026/11/beslut-om-riktlinjer-for-statsskuldens-forvaltning-2027/",
+        "published": "2026-11-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2623",
+            "1285"
+        ],
+        "summary": "Regeringen har fattat beslut om riktlinjer för Riksgäldskontorets förvaltning av statsskulden för 2027. Beslutet innebär bland annat förändringar i styrningen av löptiden jämfört med föregående år.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Rapport: Riktlinjer för statsskuldens förvaltning 2027",
+                "url": "/rapporter/2026/11/riktlinjer-for-statsskuldens-forvaltning-2027/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1231"
+        ]
+    },
+    {
+        "title": "Parisa Liljestrand delade ut Tucholskypriset",
+        "url": "/pressmeddelanden/2026/11/parisa-liljestrand-delade-ut-tucholskypriset/",
+        "published": "2026-11-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2624",
+            "1288"
+        ],
+        "summary": "Söndagen den 15 november delade kulturminister Parisa Liljestrand ut Tucholskypriset, som i år gick till den fransk-turkiska författaren, sociologen och PEN-medlemmen Pinar Selek. Tucholskypriset är ett stipendium som instiftats av Svenska PEN. Priset delas ut varje år sedan 1985 till en förföljd, hotad eller landsflyktig författare eller journalist.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Svenska Pen- extern webbplats,",
+                "url": "https://www.svenskapen.se/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1219",
+            "1242"
+        ]
+    },
+    {
+        "title": "Socialtjänstministern reser till Manila för den andra internationella ministerkonferensen på temat våld mot barn",
+        "url": "/pressmeddelanden/2026/11/socialtjanstministern-reser-till-manila-for-den-andra-internationella-ministerkonferensen-pa-temat-vald-mot-barn/",
+        "published": "2026-11-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2610",
+            "1292"
+        ],
+        "summary": "Den 16–19 november reser socialtjänstminister Camilla Waltersson Grönvall till Manila i Filippinerna. Ministern ska representera Sverige vid ett FN-högnivåmöte om bekämpande av våld mot barn.",
+        "id": null,
+        "shortcuts": [],
+        "attachments": [],
+        "categories": [
+            "1220",
+            "1013",
+            "1061"
+        ]
+    },
+    {
+        "title": "Sjukvårdsministern deltar vid högnivåmöte i Dublin",
+        "url": "/pressmeddelanden/2026/11/sjukvardsministern-deltar-vid-hognivamote-i-dublin/",
+        "published": "2026-11-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2795",
+            "1292"
+        ],
+        "summary": "Den 16–17 november reser sjukvårdsminister Elisabeth Lann och statssekreterare Michaela Hollis till Dublin för att delta i en ministerkonferens om sjukdomsprevention. Konferensen hålls inom ramen för Irlands EU-ordförandeskap och samlar företrädare från EU:s medlemsstater för att diskutera hur förebyggande insatser, innovation och jämlik hälsa kan stärkas.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Om konferensen på EU-ordförandeskapets webbplats (på engelska)- extern webbplats,",
+                "url": "https://irish-presidency.consilium.europa.eu/en/events/maximising-eu-potential-through-health-securing-our-future-through-prevention-innovation-and-equity/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1233",
+            "2693",
+            "2688",
+            "1012",
+            "1082"
+        ]
+    },
+    {
+        "title": "Toppmöte ska mobilisera fler aktörer för kvinnors och flickors rättigheter",
+        "url": "/pressmeddelanden/2026/11/toppmote-ska-mobilisera-fler-aktorer-for-kvinnors-och-flickors-rattigheter/",
+        "published": "2026-11-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2784",
+            "1284"
+        ],
+        "summary": "(Ny version) Måndag den 16 november deltar Katarina Lundahl, statssekreterare hos jämställdhetsminister Nina Larsson, på ett jämställdhetstoppmöte i Köpenhamn. I en tid då jämställdhet utmanas globalt markerar toppmötet en nordisk kraftsamling för kvinnors och flickors rättigheter, sexuell och reproduktiv hälsa och rättigheter (SRHR) samt hbtqi-personers lika rättigheter. Toppmötet samlar regeringsföreträdare, internationella organisationer, näringsliv och andra aktörer från olika länder för att stärka det internationella samarbetet och bygga nya allianser för jämställdhet.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Copenhagen Summit- extern webbplats,",
+                "url": "https://www.norden.org/en/copenhagensummit"
+            },
+            {
+                "name": "Pressmeddelande: Nordiska ministrarna för jämställdhet och hbti: Vi lovar att aldrig backa",
+                "url": "/pressmeddelanden/2024/11/nordiska-ministrarna-for-jamstalldhet-och-hbti-vi-lovar-att-aldrig-backa/"
+            },
+            {
+                "name": "Jämställdhet",
+                "url": "/regeringens-politik/jamstalldhet/"
+            },
+            {
+                "name": "Nordiska ministerrådets webbplats (norden.org)- extern webbplats,",
+                "url": "https://www.norden.org/sv/nordiska-ministerradet"
+            },
+            {
+                "name": "Nordiska ministerrådet (Jämställdhet och LGBTI, MR-JÄM)- extern webbplats,",
+                "url": "https://www.norden.org/sv/likestilling-og-lgbti"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1239"
+        ]
+    },
+    {
+        "title": "Utrikesminister Maria Malmer Stenergard deltar i EU:s utrikesministermöte i Bryssel",
+        "url": "/pressmeddelanden/2026/11/utrikesminister-maria-malmer-stenergard-deltar-i-eus-utrikesministermote-i-bryssel/",
+        "published": "2026-11-16",
+        "updated": null,
+        "types": [
+            "1334"
+        ],
+        "senders": [
+            "2621",
+            "1295"
+        ],
+        "summary": "Utrikesminister Maria Malmer Stenergard deltar i dag i EU:s utrikesministermöte i Bryssel. På dagordningen står Rysslands aggression mot Ukraina och situationen i Mellanöstern.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Kommenterad dagordning inför rådets möte den 16 november 2026",
+                "url": "/kommenterade-dagordningar/2026/11/kommenterad-dagordning-infor-radet-for-utrikes-fragor-fac-den-16-november-2026/"
+            },
+            {
+                "name": "Om mötet och de viktigaste resultaten på ministerrådets webbplats- extern webbplats,",
+                "url": "https://www.consilium.europa.eu/sv/meetings/fac/2026/11/16/"
+            }
+        ],
+        "attachments": [],
+        "categories": [
+            "1279",
+            "2211",
+            "2584",
+            "1012",
+            "1157",
+            "1182",
+            "1198"
+        ]
+    },
+    {
         "title": "Ny ambassadör och chef för Sveriges ständiga representation vid Nato utsedd",
         "url": "/pressmeddelanden/2026/11/ny-ambassador-och-chef-for-sveriges-standiga-representation-vid-nato-utsedd/",
         "published": "2026-11-13",

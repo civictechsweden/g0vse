@@ -85095,6 +85095,37 @@
                 }
             ]
         },
+        "748ad68c12f64398": {
+            "phases": [
+                {
+                    "name": "Lagstiftning i Sverige",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/11/tillampningsomradet-for-vissa-unionsrattsliga-bestammelser-pa-finansmarknadsomradet/"
+                                        }
+                                    ],
+                                    "type": "1325"
+                                },
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/remisser/2026/11/remiss-av-promemorian-tillampningsomradet-for-vissa-unionsrattsliga-bestammelser-pa-finansmarknadsomradet/"
+                                        }
+                                    ],
+                                    "type": "2099"
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": true
+                }
+            ]
+        },
         "748b797177666130": {
             "phases": [
                 {
