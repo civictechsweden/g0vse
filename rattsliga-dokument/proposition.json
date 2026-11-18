@@ -1,5 +1,110 @@
 [
     {
+        "title": "Ändring i skatteavtalet mellan Sverige och Irland",
+        "url": "/rattsliga-dokument/proposition/2026/11/prop.-20262711",
+        "published": "2026-11-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "I propositionen föreslås att riksdagen godkänner ett protokoll undertecknat den 3 juni 2026 om ändring i det avtal mellan Sverige och Irland som undertecknades den 8 oktober 1986 för att undvika dubbelbeskattning och förhindra skatteflykt beträffande skatter på inkomst och realisationsvinst.",
+        "id": "Prop. 2026/27:11",
+        "shortcuts": [
+            {
+                "name": "Protokoll om ändring i skatteavtalet mellan Sverige och Irland",
+                "url": "/rattsliga-dokument/sveriges-internationella-overenskommelser/2026/06/protokoll-om-andring-i-skatteavtalet-mellan-sverige-och-irland/"
+            },
+            {
+                "name": "Prop. 2017/18:61 Multilateral konvention för att genomföra skatteavtalsrelaterade åtgärder",
+                "url": "/rattsliga-dokument/proposition/2018/03/prop.-20171861"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Ändring i skatteavtalet mellan Sverige och Irland, Prop. 2026/27:11 (pdf 368 kB)",
+                "url": "/contentassets/23657f3a9db44437bf07c6811878c83c/andring-i-skatteavtalet-mellan-sverige-och-irland-prop.-20262711.pdf"
+            }
+        ],
+        "categories": [
+            "1267",
+            "1082"
+        ],
+        "chains": [
+            "6a11072779943312"
+        ]
+    },
+    {
+        "title": "Ett tydligare regelverk för barns och ungas utbildning i kriminalvårdsanstalt",
+        "url": "/rattsliga-dokument/proposition/2026/11/prop.-20262718",
+        "published": "2026-11-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1296",
+            "1294"
+        ],
+        "summary": "Propositionen innehåller förslag till ändringar i skollagen (2010:800) som innebär att regelverket för utbildningen för barn och unga som är intagna i kriminalvårdsanstalt förtydligas och preciseras i förhållande till den nuvarande regleringen. Syftet är att barn och unga som är intagna i kriminalvårdsanstalt ska ges en utbildning av god kvalitet som är likvärdig med den som ges inom skolväsendet.",
+        "id": "Prop. 2026/27:18",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Ett tydligare regelverk för barns och ungas utbildning i kriminalvårdsanstalt, Prop. 2026/27:18 (pdf 810 kB)",
+                "url": "/contentassets/cf971e5d969248ccbc22d8a78a6ec6fa/ett-tydligare-regelverk-for-barns-och-ungas-utbildning-i-kriminalvardsanstalt-prop.-20262718.pdf"
+            }
+        ],
+        "categories": [
+            "1276",
+            "1220",
+            "1263"
+        ],
+        "chains": [
+            "9b2f312a79d75082"
+        ]
+    },
+    {
+        "title": "Ändring i skatteavtalet mellan Sverige och Cypern",
+        "url": "/rattsliga-dokument/proposition/2026/11/prop.-20262716",
+        "published": "2026-11-17",
+        "updated": null,
+        "types": [
+            "1329",
+            "1324"
+        ],
+        "senders": [
+            "1285",
+            "1296"
+        ],
+        "summary": "I propositionen föreslås att riksdagen godkänner ett protokoll undertecknat den 3 juli 2026 om ändring i det avtal mellan Sverige och Cypern som undertecknades den 25 oktober 1988 för att undvika dubbelbeskattning beträffande inkomstskatter.",
+        "id": "Prop. 2026/27:16",
+        "shortcuts": [
+            {
+                "name": "Protokoll om ändring i skatteavtalet mellan Sverige och Cypern",
+                "url": "/rattsliga-dokument/sveriges-internationella-overenskommelser/2026/07/protokoll-om-andring-i-skatteavtalet-mellan-sverige-och-cypern/?_t_id=4iSUj0GxFM3xmJ0VJbAGgA%3d%3d&_t_uuid=n6Ssau5CRvuv-w8LTrk9Hg&_t_q=skatteavtalet+mellan+Sverige+och+Cypern&_t_tags=siteid:c5a774ab-a6e3-4456-8f59-3bde614ae911,language:sv,andquerymatch&_t_hit.id=RKWeb_Features_Publication_PublicationPage_PublicationPage/_01db2c7c-b162-419a-9f4c-59f515eab80d_sv&_t_hit.pos=1"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Ändring i skatteavtalet mellan Sverige och Cypern, Prop. 2026/27:16 (pdf 280 kB)",
+                "url": "/contentassets/b1609efa4def4a8e8f39ee7572ac63a6/andring-i-skatteavtalet-mellan-sverige-och-cypern-prop.-20262716"
+            }
+        ],
+        "categories": [
+            "1267",
+            "1046"
+        ],
+        "chains": [
+            "81782e9261b00a87"
+        ]
+    },
+    {
         "title": "En myndighet för redovisning och revision",
         "url": "/rattsliga-dokument/proposition/2026/11/prop.-20262717",
         "published": "2026-11-12",

@@ -78204,6 +78204,29 @@
                 }
             ]
         },
+        "6a11072779943312": {
+            "phases": [
+                {
+                    "name": "Lagstiftning i Sverige",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/proposition/2026/11/prop.-20262711"
+                                        }
+                                    ],
+                                    "type": "1329"
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": true
+                }
+            ]
+        },
         "6a1212d749ccf257": {
             "phases": [
                 {
@@ -95240,6 +95263,29 @@
                             ]
                         }
                     ]
+                }
+            ]
+        },
+        "81782e9261b00a87": {
+            "phases": [
+                {
+                    "name": "Lagstiftning i Sverige",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/proposition/2026/11/prop.-20262716"
+                                        }
+                                    ],
+                                    "type": "1329"
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": true
                 }
             ]
         },
@@ -115552,6 +115598,14 @@
                                         }
                                     ],
                                     "type": "2085"
+                                },
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/proposition/2026/11/prop.-20262718"
+                                        }
+                                    ],
+                                    "type": "1329"
                                 }
                             ]
                         }
