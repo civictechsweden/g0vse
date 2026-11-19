@@ -139367,6 +139367,38 @@
                 }
             ]
         },
+        "bb5e2a3c3bf9c072": {
+            "phases": [
+                {
+                    "name": "Lagstiftning i Sverige",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/11/gruppundantag-for-avtal-om-teknikoverforing--en-anpassning-till-nya-eu-regler/"
+                                        }
+                                    ],
+                                    "type": "1325"
+                                },
+                                {
+                                    "type": "2099",
+                                    "documents": [
+                                        {
+                                            "url": "/remisser/2026/11/remiss-av-promemorian-gruppundantag-for-avtal-om-teknikoverforing--en-anpassning-till-nya-eu-regler/",
+                                            "inferred": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": true
+                }
+            ]
+        },
         "bb6c8d042fd5bbb2": {
             "phases": [
                 {
@@ -176573,6 +176605,15 @@
                                         }
                                     ],
                                     "type": "1325"
+                                },
+                                {
+                                    "type": "2099",
+                                    "documents": [
+                                        {
+                                            "url": "/remisser/2026/11/remiss-av-promemorian-ny-korkortsbehorighet-b1-och-andra-andringar-av-forarbehorigheter-ds-202620/",
+                                            "inferred": true
+                                        }
+                                    ]
                                 }
                             ]
                         }

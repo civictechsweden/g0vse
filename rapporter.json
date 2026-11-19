@@ -1,5 +1,37 @@
 [
     {
+        "title": "Sveriges bistånd till hälsa och SRHR 2025",
+        "url": "/rapporter/2026/10/sveriges-bistand-till-halsa-och-srhr-2025/",
+        "published": "2026-10-28",
+        "updated": "2026-11-18",
+        "types": [
+            "1341"
+        ],
+        "senders": [
+            "1295"
+        ],
+        "summary": "Under 2025 uppgick Sveriges bistånd till global hälsa till nära 4,6 miljarder kronor och biståndet till sexuell och reproduktiv hälsa och rättigheter (SRHR) till nära 2,3 miljarder kronor. Regeringen prioriterar förbättrad hälsa för de allra mest utsatta, inklusive alla individers fulla åtnjutande av SRHR.",
+        "id": null,
+        "shortcuts": [
+            {
+                "name": "Rapport: Bistånd för en ny era – Frihet, egenmakt och hållbar tillväxt - Regeringen.se",
+                "url": "/rapporter/2023/12/bistand-for-en-ny-era---frihet-egenmakt-och-hallbar-tillvaxt/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Sveriges bistånd till hälsa och SRHR 2025 (pdf 2 MB)",
+                "url": "/contentassets/a0ca6678eb7f4b7991a7f2d75ea89eab/sveriges-bistand-till-halsa-och-srhr-2025.pdf"
+            }
+        ],
+        "categories": [
+            "1215",
+            "1233",
+            "1279",
+            "1013"
+        ]
+    },
+    {
         "title": "Riktlinjer för statsskuldens förvaltning 2027",
         "url": "/rapporter/2026/11/riktlinjer-for-statsskuldens-forvaltning-2027/",
         "published": "2026-11-16",
@@ -65,38 +97,6 @@
             "1232",
             "1239",
             "2212"
-        ]
-    },
-    {
-        "title": "Sveriges bistånd till hälsa och SRHR 2025",
-        "url": "/rapporter/2026/10/sveriges-bistand-till-halsa-och-srhr-2025/",
-        "published": "2026-10-28",
-        "updated": null,
-        "types": [
-            "1341"
-        ],
-        "senders": [
-            "1295"
-        ],
-        "summary": "Under 2025 uppgick Sveriges bistånd till global hälsa till nära 4,6 miljarder kronor och biståndet till sexuell och reproduktiv hälsa och rättigheter (SRHR) till nära 2,3 miljarder kronor. Regeringen prioriterar förbättrad hälsa för de allra mest utsatta, inklusive alla individers fulla åtnjutande av SRHR.",
-        "id": null,
-        "shortcuts": [
-            {
-                "name": "Rapport: Bistånd för en ny era – Frihet, egenmakt och hållbar tillväxt - Regeringen.se",
-                "url": "/rapporter/2023/12/bistand-for-en-ny-era---frihet-egenmakt-och-hallbar-tillvaxt/"
-            }
-        ],
-        "attachments": [
-            {
-                "name": "Sveriges bistånd till hälsa och SRHR 2025 (pdf 2 MB)",
-                "url": "/globalassets/regeringen/dokument/utrikesdepartementet/halso--och-srhr-bistandsrapporten-2025.pdf"
-            }
-        ],
-        "categories": [
-            "1215",
-            "1233",
-            "1279",
-            "1013"
         ]
     },
     {
