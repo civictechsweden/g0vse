@@ -125414,6 +125414,38 @@
                 }
             ]
         },
+        "a8498481e9fd5b5c": {
+            "phases": [
+                {
+                    "name": "Lagstiftning i Sverige",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/11/ds-202621/"
+                                        }
+                                    ],
+                                    "type": "1325"
+                                },
+                                {
+                                    "type": "2099",
+                                    "documents": [
+                                        {
+                                            "url": "/remisser/2026/11/remiss-av-ds-202621-enklare-regler-om-inbetalning-av-skatt-for-ovningsforetag-som-saljer-tjanster/",
+                                            "inferred": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": true
+                }
+            ]
+        },
         "a853fc6f239805da": {
             "phases": [
                 {
@@ -156570,6 +156602,38 @@
                             ]
                         }
                     ]
+                }
+            ]
+        },
+        "d29be9a0217392aa": {
+            "phases": [
+                {
+                    "name": "Lagstiftning i Sverige",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/11/nya-svavelkontrollomraden/"
+                                        }
+                                    ],
+                                    "type": "1325"
+                                },
+                                {
+                                    "type": "2099",
+                                    "documents": [
+                                        {
+                                            "url": "/remisser/2026/11/remiss-av-promemorian-nya-svavelkontrollomraden/",
+                                            "inferred": true
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": true
                 }
             ]
         },

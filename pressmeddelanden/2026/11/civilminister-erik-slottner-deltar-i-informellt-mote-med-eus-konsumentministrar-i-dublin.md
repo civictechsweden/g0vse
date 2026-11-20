@@ -1,0 +1,5 @@
+# Civilminister Erik Slottner deltar i informellt möte med EU:s konsumentministrar i Dublin
+
+Mötet samlar ministrar med ansvar för konsumentfrågor från hela EU för diskussioner om gemensamma utmaningar och prioriteringar på konsumentområdet. Under mötet kommer bland annat EU-kommissionens konsumentpaket att diskuteras. Inom ramen för paketet kommer diskussionerna fokusera på förslaget till en rättsakt om digital rättvisa och en översyn av förordningen om konsumentskyddssamarbete. Syftet är att stärka konsumentskyddet och anpassa regelverket till den digitala utvecklingen i EU-länderna.
+
+Mötet samlar ministrar med ansvar för konsumentfrågor från hela EU för diskussioner om gemensamma utmaningar och prioriteringar på konsumentområdet. Under mötet kommer bland annat EU-kommissionens konsumentpaket att diskuteras. Inom ramen för paketet kommer diskussionerna fokusera på förslaget till en rättsakt om digital rättvisa och en översyn av förordningen om konsumentskyddssamarbete. Syftet är att stärka konsumentskyddet och anpassa regelverket till den digitala utvecklingen i EU-länderna.
