@@ -1,5 +1,34 @@
 [
     {
+        "title": "Elstöd till konsumenter för oktober–december 2026",
+        "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/11/elstod-till-konsumenter-for-oktoberdecember-2026/",
+        "published": "2026-11-23",
+        "updated": null,
+        "types": [
+            "1325",
+            "1324"
+        ],
+        "senders": [
+            "1291"
+        ],
+        "summary": "I denna promemoria redovisas bedömningar i frågor om behandling av personuppgifter med anknytning till ett förslag om förordning om elstöd till konsumenter för oktober–december 2026 (se bilaga) och en konsekvensanalys för den föreslagna förordningen.",
+        "id": "KN2026/02195",
+        "shortcuts": [],
+        "attachments": [
+            {
+                "name": "Elstöd till konsumenter för oktober–december 2026 (pdf 146 kB)",
+                "url": "/contentassets/d581053ed819488491c1a6d08eee33ac/elstod-till-konsumenter-for-oktoberdecember-2026.pdf"
+            },
+            {
+                "name": "Utkast till förordning om elstöd till konsumenter för oktober–december 2026 (pdf 164 kB)",
+                "url": "/contentassets/d581053ed819488491c1a6d08eee33ac/utkast-till-forordning-om-elstod-till-konsumenter-for-oktoberdecember-2026.pdf"
+            }
+        ],
+        "categories": [
+            "1226"
+        ]
+    },
+    {
         "title": "Nya svavelkontrollområden",
         "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/11/nya-svavelkontrollomraden/",
         "published": "2026-11-19",
@@ -3477,6 +3506,9 @@
             "2282",
             "1257",
             "1012"
+        ],
+        "chains": [
+            "d9238eed76c4682a"
         ]
     },
     {

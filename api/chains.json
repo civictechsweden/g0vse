@@ -162667,6 +162667,46 @@
                 }
             ]
         },
+        "d9238eed76c4682a": {
+            "phases": [
+                {
+                    "name": "Lagstiftning i Sverige",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/01/kontaktpunkter-tillstand-och-tidsfrister-enligt-eu-forordningen-om-kritiska-ramaterial-och-eu-forordningen-om-nettonollindustri/"
+                                        }
+                                    ],
+                                    "type": "1325"
+                                },
+                                {
+                                    "type": "2099",
+                                    "documents": [
+                                        {
+                                            "url": "/remisser/2026/01/remiss-av-promemorian-kontaktpunkter-tillstand-och-tidsfrister-enligt-eu-forordningen-om-kritiska-ramaterial-och-eu-forordningen-om-nettonollindustri/",
+                                            "inferred": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/lagradsremiss/2026/11/kompletterande-bestammelser-till-eu-forordningarna-om-kritiska-ramaterial-och-nettonollindustri/"
+                                        }
+                                    ],
+                                    "type": "2085"
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": true
+                }
+            ]
+        },
         "d953946f6d6429f1": {
             "phases": [
                 {
