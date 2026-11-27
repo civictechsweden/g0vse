@@ -53,4 +53,4 @@ Myndigheter under regeringen är skyldiga att svara på remissen. En myndighet a
 
 För andra remissinstanser innebär remissen en inbjudan att lämna synpunkter.
 
-Remissvar i elektronisk form skickas via e-post till [Näringspepartementets registrator](mailto:n.registrator@regeringskansliet.se "Epost till Näringsdepartementets registrator") senast den 15 oktober 2015. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck), N2015-5144-ITP, följt av remissinstansens namn. I remissvaret anges Regeringskansliets diarienummer N2015/5144/ITP.
+Remissvar i elektronisk form skickas via e-post till [Näringspepartementets registrator](/cdn-cgi/l/email-protection#b2dc9cc0d7d5dbc1c6c0d3c6ddc0f2c0d7d5d7c0dbdcd5c1d9d3dcc1dedbd7c69cc1d7 "Epost till Näringsdepartementets registrator") senast den 15 oktober 2015. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck), N2015-5144-ITP, följt av remissinstansens namn. I remissvaret anges Regeringskansliets diarienummer N2015/5144/ITP.

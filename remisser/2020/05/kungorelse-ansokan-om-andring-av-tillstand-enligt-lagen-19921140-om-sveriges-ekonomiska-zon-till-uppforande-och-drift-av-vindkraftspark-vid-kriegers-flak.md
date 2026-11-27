@@ -8,6 +8,6 @@ Vattenfall Vindkraft AB har ansökt om ändrat tillstånd för verksamheten. Ans
 
 Handlingarna i ärendet finns tillgängliga hos aktförvararen Tova Halldén, Trelleborgs kommun, Kommunledningskontoret, Rådhuset, Algatan 13, Trelleborg.
 
-Den som vill yttra sig i ärendet kan göra detta skriftligen till Miljödepartementet, 103 33 Stockholm eller till m.registrator@regeringskansliet.se, senast den 15 juni 2020.
+Den som vill yttra sig i ärendet kan göra detta skriftligen till Miljödepartementet, 103 33 Stockholm eller till [[email protected]](/cdn-cgi/l/email-protection), senast den 15 juni 2020.
 
 Ärendets diarienummer M2018/02437/Me bör anges.

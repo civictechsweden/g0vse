@@ -86,7 +86,7 @@ Remissvaren ska ha kommit in till Näringsdepartementet senast den 11 december 2
 
 Betänkandet EU och kommunernas bostadspolitik (SOU 2015:58) remitteras härmed till ovanstående remissinstanser.
 
-Remissvaren ska ha kommit in till Näringsdepartementet senast den 11 december 2015. Remissvaren önskas i elektronisk form via e-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator") och [Maria Edlund](mailto:maria.edlund@regeringskansliet.se "Maria Edlund") i både Word- och pdf-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck), N2015-4746-PUB, följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i promemorian. I remissvaret anges Regeringskansliets diarienummer N2015/4746/PUB.
+Remissvaren ska ha kommit in till Näringsdepartementet senast den 11 december 2015. Remissvaren önskas i elektronisk form via e-post till [Näringsdepartementets registrator](/cdn-cgi/l/email-protection#5f31712d3a38362c2b2d3e2b302d1f2d3a383a2d3631382c343e312c33363a2b712c3a "Näringsdepartementets registrator") och [Maria Edlund](/cdn-cgi/l/email-protection#afc2ceddc6ce81cacbc3dac1cbefddcac8caddc6c1c8dcc4cec1dcc3c6cadb81dcca "Maria Edlund") i både Word- och pdf-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck), N2015-4746-PUB, följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i promemorian. I remissvaret anges Regeringskansliets diarienummer N2015/4746/PUB.
 
 I remissen ligger att regeringen vill ha synpunkter på förslagen eller materialet i betänkandet.
 
@@ -94,9 +94,9 @@ Myndigheter under regeringen är skyldiga att svara på remissen. En myndighet a
 
 För andra remissinstanser innebär remissen en in­bju­dan att lämna synpunkter.
 
-Frågor under remisstiden kan ställas till K A [Stefan Svensson](mailto:stefan.svensson@regeringskansliet.se "Stefan Svensson"), telefonnummer 08-405 16 74.
+Frågor under remisstiden kan ställas till K A [Stefan Svensson](/cdn-cgi/l/email-protection#7102051417101f5f0207141f02021e1f310314161403181f16021a101f021d1814055f0214 "Stefan Svensson"), telefonnummer 08-405 16 74.
 
-Remissinstanserna kan utan kostnad få ytterligare högst ett exemplar av betänkandet. Exemplaren beställs hos Fritzes kundservice, 106 47 Stockholm. Telefon 08-598 191 90, telefax 08-598 191 91,
-e-post, <order.fritzes@nj.se>. Ange vid beställning att exemplaren är avsedda för remissändamål.
+Remissinstanserna kan utan kostnad få ytterligare högst ett exemplar av betänkandet. Exemplaren beställs hos Fritzes kundservice, 106 47 Stockholm. Telefon 08-598 191 90, telefax 08-598 191 91,  
+e-post, [[email protected]](/cdn-cgi/l/email-protection#cca3bea8a9bee2aabea5b8b6a9bf8ca2a6e2bfa9). Ange vid beställning att exemplaren är avsedda för remissändamål.
 
 Råd om hur remissyttranden utformas finns i Statsrådsberedningens promemoria Svara på remiss – hur och varför (SB PM 2003:2).

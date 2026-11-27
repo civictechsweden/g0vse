@@ -83,7 +83,7 @@ Remissvaren ska ha inkommit till Näringsdepartementet senast den 14 september 2
 75. Swedish Incubators & Science Parks, SISP
 76. Swedish Network for Innovation and Technology Transfer Support, SNITTS
 
-Vi ser gärna att remissvaren även skickas i elektronisk form via e-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator")i både word- och pdf-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck), N2015-4705-KF, följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i betänkandet. I remissvaret anges Regeringskansliets diarienummer N2015/4705/KF.
+Vi ser gärna att remissvaren även skickas i elektronisk form via e-post till [Näringsdepartementets registrator](/cdn-cgi/l/email-protection#4f21613d2a28263c3b3d2e3b203d0f3d2a282a3d2621283c242e213c23262a3b613c2a "Näringsdepartementets registrator") i både word- och pdf-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck), N2015-4705-KF, följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i betänkandet. I remissvaret anges Regeringskansliets diarienummer N2015/4705/KF.
 
 I remissen ligger att regeringen vill ha synpunkter på förslagen eller materialet i betänkandet. Om remissen är begränsad till en viss del av betänkandet, anges detta inom parentes efter remissinstansens namn i remisslistan. En sådan begränsning hindrar givetvis inte att remissinstansen lämnar synpunkter också på övriga delar.
 

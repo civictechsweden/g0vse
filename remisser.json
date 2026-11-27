@@ -1,5 +1,66 @@
 [
     {
+        "title": "Remiss av betänkandet Verktyg för en mer likvärdig resursfördelning – förslag för gymnasieskolan och anpassade gymnasieskolan (SOU 2026:65)",
+        "url": "/remisser/2026/11/remiss-av-betankandet-verktyg-for-en-mer-likvardig-resursfordelning--forslag-for-gymnasieskolan-och-anpassade-gymnasieskolan-sou-202665/",
+        "published": "2026-11-27",
+        "updated": null,
+        "types": [
+            "2099"
+        ],
+        "senders": [
+            "1294"
+        ],
+        "summary": "Här kan du ta del av till vilka instanser som regeringen har remitterat betänkandet Verktyg för en mer likvärdig resursfördelning – förslag för gymnasieskolan och anpassade gymnasieskolan (SOU 2026:65)",
+        "id": "Diarienummer: U2026/01837",
+        "shortcuts": [
+            {
+                "name": "SOU 2026:65 Remiss av betänkandet Verktyg för en mer likvärdig resursfördelning – förslag för gymnasieskolan och anpassade gymnasieskolan",
+                "url": "/rattsliga-dokument/statens-offentliga-utredningar/2026/10/sou-202665/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Remissinstanser för betänkandet Verktyg för en mer likvärdig resursfördelning  SOU 2026 65 (pdf 152 kB)",
+                "url": "/contentassets/a8e1ac79f5a047a79d066e0457d308c0/remissinstanser-for-betankandet-verktyg-for-en-mer-likvardig-resursfordelning--sou-2026-65.pdf"
+            }
+        ],
+        "categories": [
+            "1276"
+        ]
+    },
+    {
+        "url": "/remisser/2018/05/remiss-av-promemorian_behorighetsgivande-hogskoleintroducerande-utbildningar/",
+        "title": "Remiss av promemorian Behörighetsgivande högskoleintroducerande utbildningar",
+        "published": "2018-05-09",
+        "updated": null,
+        "types": [
+            "2099"
+        ],
+        "senders": [
+            "1294"
+        ],
+        "id": "Diarienummer: U2018/02165/UH",
+        "shortcuts": [
+            {
+                "name": "Promemoria: Behörighetsgivande högskoleintroducerande utbildningar",
+                "url": "/rattsliga-dokument/departementsserien-och-promemorior/2018/05/behorighetsgivande-hogskoleintroducerande-utbildningar/"
+            }
+        ],
+        "attachments": [
+            {
+                "name": "Remissinstanser för promemorian Behörighetsgivande och högskoleintroducerande utbildningar (pdf 88 kB)",
+                "url": "/contentassets/3613bf89fb724b50a3fce531f0a12959/02165-remisslista-basar-180507-fl.pdf"
+            }
+        ],
+        "categories": [
+            "1277"
+        ],
+        "summary": "Här kan du ta del av till vilka instanser som regeringen har remitterat promemorian Behörighetsgivande och högskoleintroducerande utbildningar.",
+        "chains": [
+            "b2919923d13e5e89"
+        ]
+    },
+    {
         "title": "Remiss av Förslag till Europaparlamentets och rådets förordning om europeisk standardisering och om upphävande av Europaparlamentets och rådets förordning (EU) nr 1025/2012",
         "url": "/remisser/2026/11/remiss-av-forslag-till-europaparlamentets-och-radets-forordning-om-europeisk-standardisering-och-om-upphavande-av-europaparlamentets-och-radets-forordning-eu-nr-10252012-ud202615243/",
         "published": "2026-11-06",
@@ -575,7 +636,7 @@
         "title": "Remiss Ds 2026:18 Slutredovisning av tilläggsuppdraget om stärkt samverkan mellan socialtjänst och barn- och ungdomspsykiatri i brottsförebyggande syfte",
         "url": "/remisser/2026/09/remiss-av-ds-202618-slutredovisning-av-tillaggsuppdraget-om-starkt-samverkan-mellan-socialtjanst-och-barn--och-ungdomspsykiatri-i-brottsforebyggande-syfte/",
         "published": "2026-09-04",
-        "updated": "2026-11-26",
+        "updated": "2026-11-27",
         "types": [
             "2099"
         ],
@@ -598,6 +659,10 @@
             {
                 "name": "Borlänge kommun (pdf 310 kB)",
                 "url": "/contentassets/39be7129fb0f4d1ebfbfe84abc5039b5/borlange-kommun.pdf"
+            },
+            {
+                "name": "Brottsförebyggande rådet (Brå) (pdf 100 kB)",
+                "url": "/contentassets/39be7129fb0f4d1ebfbfe84abc5039b5/brottsforebyggande-radet-bra.pdf"
             },
             {
                 "name": "Brottsoffermyndigheten (pdf 142 kB)",
@@ -632,6 +697,10 @@
                 "url": "/contentassets/39be7129fb0f4d1ebfbfe84abc5039b5/region-norrbotten.pdf"
             },
             {
+                "name": "Region Stockholm (pdf 212 kB)",
+                "url": "/contentassets/39be7129fb0f4d1ebfbfe84abc5039b5/region-stockholm.pdf"
+            },
+            {
                 "name": "Region Sörmland (pdf 184 kB)",
                 "url": "/contentassets/39be7129fb0f4d1ebfbfe84abc5039b5/region-sormland.pdf"
             },
@@ -646,6 +715,10 @@
             {
                 "name": "Sveriges Kommuner och Regioner  (pdf 216 kB)",
                 "url": "/contentassets/39be7129fb0f4d1ebfbfe84abc5039b5/sveriges-kommuner-och-regioner-.pdf"
+            },
+            {
+                "name": "Uddevalla kommun (pdf 1 MB)",
+                "url": "/contentassets/39be7129fb0f4d1ebfbfe84abc5039b5/uddevalla-kommun.pdf"
             },
             {
                 "name": "Umeå kommun (pdf 87 kB)",
@@ -1502,7 +1575,7 @@
         "title": "Remiss av En reform av den statliga barn- och ungdomsvården, SOU 2026:52",
         "url": "/remisser/2026/08/remiss-av-en-reform-av-den-statliga-barn--och-ungdomsvarden-sou-202652/",
         "published": "2026-08-27",
-        "updated": "2026-11-25",
+        "updated": "2026-11-27",
         "types": [
             "2099"
         ],
@@ -1525,6 +1598,10 @@
             {
                 "name": "Barnrättsbyrån (pdf 451 kB)",
                 "url": "/contentassets/2e4589f1a7b54b6685e2ed770851c732/barnrattsbyran.pdf"
+            },
+            {
+                "name": "Diskrimineringsombudsmannen (pdf 250 kB)",
+                "url": "/contentassets/2e4589f1a7b54b6685e2ed770851c732/diskrimineringsombudsmannen.pdf"
             },
             {
                 "name": "Länsstyrelsen i Örebro län (pdf 136 kB)",
@@ -1573,6 +1650,10 @@
             {
                 "name": "Integritetsskyddsmyndigheten (IMY) (pdf 138 kB)",
                 "url": "/contentassets/ed40a7b5740a4abfb1083aaba99d845e/integritetsskyddsmyndigheten-imy.pdf"
+            },
+            {
+                "name": "Kungliga Tekniska Högskolan (KTH (pdf 66 kB)",
+                "url": "/contentassets/ed40a7b5740a4abfb1083aaba99d845e/kungliga-tekniska-hogskolan-kth.pdf"
             },
             {
                 "name": "Lund universitet (pdf 37 kB)",
@@ -4275,7 +4356,7 @@
         "title": "Remiss av promemorian EU:s penningtvättspaket",
         "url": "/remisser/2026/07/remiss-av-promemorian-eus-penningtvattspaket/",
         "published": "2026-07-06",
-        "updated": "2026-11-23",
+        "updated": "2026-11-27",
         "types": [
             "2099"
         ],
@@ -4368,6 +4449,10 @@
                 "url": "/contentassets/30bf3363e10f47e29fe7fc9334c6854c/forsakringskassan.pdf"
             },
             {
+                "name": "Förvaltningsrätten i Linköping (pdf 181 kB)",
+                "url": "/contentassets/30bf3363e10f47e29fe7fc9334c6854c/forvaltningsratten-i-linkoping.pdf"
+            },
+            {
                 "name": "Förvaltningsrätten i Stockholm (pdf 192 kB)",
                 "url": "/contentassets/30bf3363e10f47e29fe7fc9334c6854c/forvaltningsratten-i-stockholm.pdf"
             },
@@ -4438,6 +4523,10 @@
             {
                 "name": "Kronofogdemyndigheten (pdf 150 kB)",
                 "url": "/contentassets/30bf3363e10f47e29fe7fc9334c6854c/kronofogdemyndigheten.pdf"
+            },
+            {
+                "name": "Kustbevakningen (pdf 233 kB)",
+                "url": "/contentassets/30bf3363e10f47e29fe7fc9334c6854c/kustbevakningen.pdf"
             },
             {
                 "name": "Landsrådet för Sveriges barn- och ungdomsorganisation (pdf 253 kB)",
@@ -4536,6 +4625,10 @@
                 "url": "/contentassets/30bf3363e10f47e29fe7fc9334c6854c/smaforetagarnas-riksforbund.pdf"
             },
             {
+                "name": "Sparbankernas Riksförbund (pdf 272 kB)",
+                "url": "/contentassets/30bf3363e10f47e29fe7fc9334c6854c/sparbankernas-riksforbund.pdf"
+            },
+            {
                 "name": "Spelbranschens Riksorganisation (pdf 285 kB)",
                 "url": "/contentassets/30bf3363e10f47e29fe7fc9334c6854c/spelbranschens-riksorganisation.pdf"
             },
@@ -4602,6 +4695,10 @@
             {
                 "name": "Säkerhetspolisen (pdf 303 kB)",
                 "url": "/contentassets/30bf3363e10f47e29fe7fc9334c6854c/sakerhetspolisen.pdf"
+            },
+            {
+                "name": "Tidningsutgivarna (pdf 88 kB)",
+                "url": "/contentassets/30bf3363e10f47e29fe7fc9334c6854c/tidningsutgivarna.pdf"
             },
             {
                 "name": "Transparency International Sverige (pdf 448 kB)",
@@ -4925,7 +5022,7 @@
         "senders": [
             "1294"
         ],
-        "summary": "Här kan du ta del av svaren från instanserna som remitterats betänkandet Akademisk frihet – ansvar, uppdrag och stärkta förutsättningar för framtiden (SOU 2026:57).",
+        "summary": "Här kan du ta del av svaren från dem som ombetts att svara på remiss av betänkandet Akademisk frihet – ansvar, uppdrag och stärkta förutsättningar för framtiden (SOU 2026:57).",
         "id": "Diarienummer: U2026/01630",
         "shortcuts": [
             {
@@ -9867,6 +9964,10 @@
                 "url": "/contentassets/5925cf06f9e04b98944d6ee1d87c4479/lansstyrelsen-jamtlands-lan.pdf"
             },
             {
+                "name": "Malmö kommun - bilaga (pdf 265 kB)",
+                "url": "/contentassets/5925cf06f9e04b98944d6ee1d87c4479/malmo-kommun---bilaga.pdf"
+            },
+            {
                 "name": "Malmö kommun.PDF (pdf 155 kB)",
                 "url": "/contentassets/5925cf06f9e04b98944d6ee1d87c4479/malmo-kommun.pdf"
             },
@@ -12486,6 +12587,10 @@
                 "url": "/contentassets/39c628d378344a7eb87b560ab9d94b06/statens-fastighetsverk.pdf"
             },
             {
+                "name": "Statens jordbruksverk (pdf 113 kB)",
+                "url": "/contentassets/39c628d378344a7eb87b560ab9d94b06/statens-jordbruksverk.pdf"
+            },
+            {
                 "name": "Svea hovrätt (Mark- och miljööverdomstolen) (pdf 99 kB)",
                 "url": "/contentassets/39c628d378344a7eb87b560ab9d94b06/svea-hovratt-mark--och-miljooverdomstolen.pdf"
             },
@@ -14080,6 +14185,10 @@
                 "url": "/contentassets/21a8c35d8987465da66810a2cf18f498/ringhals-ab.pdf"
             },
             {
+                "name": "Sala kommun (pdf 187 kB)",
+                "url": "/contentassets/21a8c35d8987465da66810a2cf18f498/sala-kommun.pdf"
+            },
+            {
                 "name": "Sigtuna kommun (pdf 152 kB)",
                 "url": "/contentassets/21a8c35d8987465da66810a2cf18f498/sigtuna-kommun.pdf"
             },
@@ -15252,6 +15361,10 @@
                 "url": "/contentassets/b16501521c1e48059755ee3af097d561/borgholms-kommun.pdf"
             },
             {
+                "name": "Borlänge kommun (pdf 2 MB)",
+                "url": "/contentassets/b16501521c1e48059755ee3af097d561/borlange-kommun.pdf"
+            },
+            {
                 "name": "Boverket (pdf 175 kB)",
                 "url": "/contentassets/b16501521c1e48059755ee3af097d561/boverket.pdf"
             },
@@ -15314,6 +15427,10 @@
             {
                 "name": "Göteborgs energi (pdf 137 kB)",
                 "url": "/contentassets/b16501521c1e48059755ee3af097d561/goteborgs-energi.pdf"
+            },
+            {
+                "name": "Göteborgs kommun (pdf 260 kB)",
+                "url": "/contentassets/b16501521c1e48059755ee3af097d561/goteborgs-kommun.pdf"
             },
             {
                 "name": "Helsingborgs kommun (pdf 185 kB)",
@@ -15404,6 +15521,10 @@
                 "url": "/contentassets/b16501521c1e48059755ee3af097d561/lansstyrelsen-i-skane-lan.pdf"
             },
             {
+                "name": "Länsstyrelsen i Stockholms län (pdf 93 kB)",
+                "url": "/contentassets/b16501521c1e48059755ee3af097d561/lansstyrelsen-i-stockholms-lan.pdf"
+            },
+            {
                 "name": "Länsstyrelsen i Södermanlands län (pdf 163 kB)",
                 "url": "/contentassets/b16501521c1e48059755ee3af097d561/lansstyrelsen-i-sodermanlands-lan.pdf"
             },
@@ -15472,6 +15593,10 @@
                 "url": "/contentassets/b16501521c1e48059755ee3af097d561/regelradet.pdf"
             },
             {
+                "name": "Region Blekinge (pdf 152 kB)",
+                "url": "/contentassets/b16501521c1e48059755ee3af097d561/region-blekinge.pdf"
+            },
+            {
                 "name": "Region Dalarna (pdf 84 kB)",
                 "url": "/contentassets/b16501521c1e48059755ee3af097d561/region-dalarna.pdf"
             },
@@ -15488,12 +15613,24 @@
                 "url": "/contentassets/b16501521c1e48059755ee3af097d561/region-halland.pdf"
             },
             {
+                "name": "Region Jämtland Härjedalen (pdf 178 kB)",
+                "url": "/contentassets/b16501521c1e48059755ee3af097d561/region-jamtland-harjedalen.pdf"
+            },
+            {
                 "name": "Region Jönköping (pdf 251 kB)",
                 "url": "/contentassets/b16501521c1e48059755ee3af097d561/region-jonkoping.pdf"
             },
             {
+                "name": "Region Kalmar (pdf 193 kB)",
+                "url": "/contentassets/b16501521c1e48059755ee3af097d561/region-kalmar.pdf"
+            },
+            {
                 "name": "Region Kronoberg (pdf 122 kB)",
                 "url": "/contentassets/b16501521c1e48059755ee3af097d561/region-kronoberg.pdf"
+            },
+            {
+                "name": "Region Norrbotten (pdf 186 kB)",
+                "url": "/contentassets/b16501521c1e48059755ee3af097d561/region-norrbotten.pdf"
             },
             {
                 "name": "Region Skåne (pdf 209 kB)",
@@ -15506,6 +15643,10 @@
             {
                 "name": "Region Sörmland (pdf 67 kB)",
                 "url": "/contentassets/b16501521c1e48059755ee3af097d561/region-sormland.pdf"
+            },
+            {
+                "name": "Region Värmland (pdf 169 kB)",
+                "url": "/contentassets/b16501521c1e48059755ee3af097d561/region-varmland.pdf"
             },
             {
                 "name": "Region Västerbotten (pdf 106 kB)",
@@ -15610,6 +15751,10 @@
             {
                 "name": "Trelleborgs kommun (pdf 120 kB)",
                 "url": "/contentassets/b16501521c1e48059755ee3af097d561/trelleborgs-kommun.pdf"
+            },
+            {
+                "name": "Trollhättans kommun (pdf 206 kB)",
+                "url": "/contentassets/b16501521c1e48059755ee3af097d561/trollhattans-kommun.pdf"
             },
             {
                 "name": "Upphandlingsmyndigheten (pdf 190 kB)",
@@ -16652,6 +16797,10 @@
                 "url": "/contentassets/8b132c5868cf4ba5ae473a60563e535d/foretagarna.pdf"
             },
             {
+                "name": "Försvarets Materielverk (pdf 3 MB)",
+                "url": "/contentassets/8b132c5868cf4ba5ae473a60563e535d/forsvarets-materielverk.pdf"
+            },
+            {
                 "name": "Försvarsmakten (pdf 492 kB)",
                 "url": "/contentassets/8b132c5868cf4ba5ae473a60563e535d/forsvarsmakten.pdf"
             },
@@ -16822,6 +16971,10 @@
             {
                 "name": "Sveriges meteorologiska och hydrologiska institut (pdf 125 kB)",
                 "url": "/contentassets/8b132c5868cf4ba5ae473a60563e535d/sveriges-meteorologiska-och-hydrologiska-institut.pdf"
+            },
+            {
+                "name": "Sveriges patentbyråers förening (pdf 106 kB)",
+                "url": "/contentassets/8b132c5868cf4ba5ae473a60563e535d/sveriges-patentbyraers-forening.pdf"
             },
             {
                 "name": "SwedenBIO (pdf 271 kB)",
@@ -17294,20 +17447,76 @@
                 "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/remissinstanser-for-sou-202624-mervardesskatt-vid-uthyrning-och-overlatelse-av-fastighet.pdf"
             },
             {
+                "name": "Almega Utbildning (pdf 101 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/almega-utbildning.pdf"
+            },
+            {
                 "name": "Bokföringsnämnden (pdf 131 kB)",
                 "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/bokforingsnamnden.pdf"
+            },
+            {
+                "name": "Bostadsrätterna (pdf 174 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/bostadsratterna.pdf"
+            },
+            {
+                "name": "Boverket (pdf 144 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/boverket.pdf"
+            },
+            {
+                "name": "Byggföretagen (pdf 318 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/byggforetagen.pdf"
             },
             {
                 "name": "Ekobrottsmyndigheten (pdf 39 kB)",
                 "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/ekobrottsmyndigheten.pdf"
             },
             {
+                "name": "FAR (pdf 278 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/far.pdf"
+            },
+            {
+                "name": "Fastighetsägarna Sverige (pdf 474 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/fastighetsagarna-sverige.pdf"
+            },
+            {
+                "name": "Finansbolagen (pdf 226 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/finansbolagen.pdf"
+            },
+            {
                 "name": "Finansinspektionen (pdf 146 kB)",
                 "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/finansinspektionen.pdf"
             },
             {
+                "name": "Folkets Hus och Parker (pdf 161 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/folkets-hus-och-parker.pdf"
+            },
+            {
+                "name": "Fondbolagens förening (pdf 89 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/fondbolagens-forening.pdf"
+            },
+            {
+                "name": "Fortifikationsverket (pdf 233 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/fortifikationsverket.pdf"
+            },
+            {
+                "name": "Företagarna (pdf 157 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/foretagarna.pdf"
+            },
+            {
+                "name": "Förvaltningsrätten i Stockholm (pdf 101 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/forvaltningsratten-i-stockholm.pdf"
+            },
+            {
                 "name": "Göteborgs kommun (pdf 160 kB)",
                 "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/goteborgs-kommun.pdf"
+            },
+            {
+                "name": "HSB Riksförbund (pdf 144 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/hsb-riksforbund.pdf"
+            },
+            {
+                "name": "Kalmar kommun (pdf 262 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/kalmar-kommun.pdf"
             },
             {
                 "name": "Kammarrätten i Stockholm (pdf 107 kB)",
@@ -17322,12 +17531,40 @@
                 "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/ki.pdf"
             },
             {
+                "name": "KLYS (pdf 111 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/klys.pdf"
+            },
+            {
+                "name": "Kommerskollegium (pdf 119 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/kommerskollegium.pdf"
+            },
+            {
+                "name": "Konkurrensverket (pdf 217 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/konkurrensverket.pdf"
+            },
+            {
                 "name": "Konsumentverket (pdf 97 kB)",
                 "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/konsumentverket.pdf"
             },
             {
+                "name": "KRO (pdf 1 MB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/kro.pdf"
+            },
+            {
                 "name": "LO (pdf 325 kB)",
                 "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/lo.pdf"
+            },
+            {
+                "name": "Malmö stad (pdf 333 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/malmo-stad.pdf"
+            },
+            {
+                "name": "Nacka kommun (pdf 133 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/nacka-kommun.pdf"
+            },
+            {
+                "name": "NNR (pdf 2 MB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/nnr.pdf"
             },
             {
                 "name": "Regelrådet (pdf 161 kB)",
@@ -17344,6 +17581,10 @@
             {
                 "name": "Region Norrbotten (pdf 96 kB)",
                 "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/region-norrbotten.pdf"
+            },
+            {
+                "name": "Riksbyggen (pdf 479 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/riksbyggen.pdf"
             },
             {
                 "name": "Riksidrottsförbundet (pdf 240 kB)",
@@ -17366,12 +17607,28 @@
                 "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/srf-konsulterna.pdf"
             },
             {
+                "name": "Statens fastighetsverk (pdf 521 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/statens-fastighetsverk.pdf"
+            },
+            {
                 "name": "Statskontoret (pdf 41 kB)",
                 "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/statskontoret.pdf"
             },
             {
                 "name": "Stockholms stad (pdf 259 kB)",
                 "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/stockholms-stad.pdf"
+            },
+            {
+                "name": "Stockholms universitet (pdf 320 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/stockholms-universitet.pdf"
+            },
+            {
+                "name": "Studieförbunden (pdf 215 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/studieforbunden.pdf"
+            },
+            {
+                "name": "Svensk Försäkring (pdf 61 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/svensk-forsakring.pdf"
             },
             {
                 "name": "Svensk Scenkonst (pdf 2 MB)",
@@ -17382,12 +17639,40 @@
                 "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/svensk-vardepappersmarknad.pdf"
             },
             {
+                "name": "Svenska Bankföreningen (pdf 4 MB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/svenska-bankforeningen.pdf"
+            },
+            {
                 "name": "Svenska kyrkan (pdf 936 kB)",
                 "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/svenska-kyrkan.pdf"
             },
             {
+                "name": "Svenskt Näringsliv (pdf 236 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/svenskt-naringsliv.pdf"
+            },
+            {
+                "name": "Sveriges advokatsamfund (pdf 138 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/sveriges-advokatsamfund.pdf"
+            },
+            {
+                "name": "Sveriges Allmännytta (pdf 192 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/sveriges-allmannytta.pdf"
+            },
+            {
+                "name": "Uppsala kommun (pdf 85 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/uppsala-kommun.pdf"
+            },
+            {
+                "name": "Vårdföretagarna (pdf 295 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/vardforetagarna.pdf"
+            },
+            {
                 "name": "Västra Götalandsregionen (pdf 607 kB)",
                 "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/vastra-gotalandsregionen.pdf"
+            },
+            {
+                "name": "Åtvidabergs kommun (pdf 178 kB)",
+                "url": "/contentassets/d2be8d9d7dfe448f8e38242e96f50fd2/atvidabergs-kommun.pdf"
             }
         ],
         "categories": [
@@ -18329,6 +18614,10 @@
                 "url": "/contentassets/6979de1d93c54a35853c0a3dd6dda4d1/remissinstanser-for-promemorian-kompletterande-bestammelser-till-eu-forordningen-om-minskade-metanutslapp.pdf"
             },
             {
+                "name": "Drivkraft Sverige (pdf 111 kB)",
+                "url": "/contentassets/6979de1d93c54a35853c0a3dd6dda4d1/drivkraft-sverige.pdf"
+            },
+            {
                 "name": "Energigas Sverige (pdf 123 kB)",
                 "url": "/contentassets/6979de1d93c54a35853c0a3dd6dda4d1/energigas-sverige.pdf"
             },
@@ -18603,6 +18892,26 @@
                 "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/remissinstanser-for-parallella-samhallsstrukturer--ett-kunskapsunderlag-for-forbattrad-integration-och-minskat-utanforskap-sou-202653.pdf"
             },
             {
+                "name": "Botkyrka kommun (pdf 412 kB)",
+                "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/botkyrka-kommun.pdf"
+            },
+            {
+                "name": "Delegationen för migrationsstudier (pdf 142 kB)",
+                "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/delegationen-for-migrationsstudier.pdf"
+            },
+            {
+                "name": "Diskrimineringsombudsmannen (pdf 188 kB)",
+                "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/diskrimineringsombudsmannen.pdf"
+            },
+            {
+                "name": "Försäkringskassan (pdf 211 kB)",
+                "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/forsakringskassan.pdf"
+            },
+            {
+                "name": "Göteborgs kommun (pdf 327 kB)",
+                "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/goteborgs-kommun.pdf"
+            },
+            {
                 "name": "Hultsfreds kommun (pdf 83 kB)",
                 "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/hultsfreds-kommun.pdf"
             },
@@ -18611,8 +18920,36 @@
                 "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/institutet-for-manskliga-rattigheter.pdf"
             },
             {
-                "name": "Sveriges Dövas Riksförbund (pdf 319 kB)",
-                "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/sveriges-dovas-riksforbund.pdf"
+                "name": "Jämställdhetsmyndigheten (pdf 169 kB)",
+                "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/jamstalldhetsmyndigheten.pdf"
+            },
+            {
+                "name": "Motala kommun (pdf 240 kB)",
+                "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/motala-kommun.pdf"
+            },
+            {
+                "name": "Myndigheten för delaktighet (pdf 486 kB)",
+                "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/myndigheten-for-delaktighet.pdf"
+            },
+            {
+                "name": "Statens intstitutionsstyrelse (pdf 382 kB)",
+                "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/statens-intstitutionsstyrelse.pdf"
+            },
+            {
+                "name": "Sveriges Kommuner och Regioner, SKR (pdf 333 kB)",
+                "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/sveriges-kommuner-och-regioner-skr.pdf"
+            },
+            {
+                "name": "Säkerhetspolisen (pdf 92 kB)",
+                "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/sakerhetspolisen.pdf"
+            },
+            {
+                "name": "Tierps kommun (pdf 166 kB)",
+                "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/tierps-kommun.pdf"
+            },
+            {
+                "name": "Utbetalningsmyndigheten (pdf 97 kB)",
+                "url": "/contentassets/4e89a611c0ff401dad739dfddbf7b33b/utbetalningsmyndigheten.pdf"
             }
         ],
         "categories": [
@@ -21209,7 +21546,7 @@
                 "url": "/contentassets/c9b2e2d4260945b681309caf842b3080/obos-.pdf"
             },
             {
-                "name": "Region Stockholm, Centrum för arbets- och miljömedicin (pdf 325 kB)",
+                "name": "Region Stockholm (pdf 325 kB)",
                 "url": "/contentassets/c9b2e2d4260945b681309caf842b3080/region-stockholm-centrum-for-arbets--och-miljomedicin.pdf"
             },
             {
@@ -21831,6 +22168,10 @@
                 "url": "/contentassets/3befdef29ff84ba3b9803c5b03692ee8/lansstyrelsen-i-sodermanlands-lan.pdf"
             },
             {
+                "name": "Länsstyrelsen i Västra Götalands län (pdf 73 kB)",
+                "url": "/contentassets/3befdef29ff84ba3b9803c5b03692ee8/lansstyrelsen-i-vastra-gotalands-lan.pdf"
+            },
+            {
                 "name": "Länsstyrelsen i Örebro län (pdf 512 kB)",
                 "url": "/contentassets/3befdef29ff84ba3b9803c5b03692ee8/lansstyrelsen-i-orebro-lan.pdf"
             },
@@ -21845,6 +22186,10 @@
             {
                 "name": "Sametinget (pdf 182 kB)",
                 "url": "/contentassets/3befdef29ff84ba3b9803c5b03692ee8/sametinget.pdf"
+            },
+            {
+                "name": "Skogen, Kemin, Gruvorna och Stålet (SKGS) (pdf 70 kB)",
+                "url": "/contentassets/3befdef29ff84ba3b9803c5b03692ee8/skogen-kemin-gruvorna-och-stalet-skgs.pdf"
             },
             {
                 "name": "Skogsstyrelsen (pdf 135 kB)",
@@ -21871,8 +22216,20 @@
                 "url": "/contentassets/3befdef29ff84ba3b9803c5b03692ee8/sveaskog.pdf"
             },
             {
+                "name": "Svenskt Näringsliv (pdf 98 kB)",
+                "url": "/contentassets/3befdef29ff84ba3b9803c5b03692ee8/svenskt-naringsliv.pdf"
+            },
+            {
+                "name": "Sveriges Jordägareförbund (pdf 283 kB)",
+                "url": "/contentassets/3befdef29ff84ba3b9803c5b03692ee8/sveriges-jordagareforbund.pdf"
+            },
+            {
                 "name": "Sveriges Kommuner och Regioner (SKR) (pdf 196 kB)",
                 "url": "/contentassets/3befdef29ff84ba3b9803c5b03692ee8/sveriges-kommuner-och-regioner-skr.pdf"
+            },
+            {
+                "name": "Sveriges spannmålsodlarförening (pdf 446 kB)",
+                "url": "/contentassets/3befdef29ff84ba3b9803c5b03692ee8/sveriges-spannmalsodlarforening.pdf"
             },
             {
                 "name": "Torsby kommun (pdf 97 kB)",
@@ -22090,6 +22447,10 @@
                 "url": "/globalassets/regeringen/dokument/kulturdepartementet/remisslista-pm-forslag-pa-extra-medelstilldelning-for-okade-marknatskostnader.pdf"
             },
             {
+                "name": "Försvarsmakten (pdf 587 kB)",
+                "url": "/contentassets/034788eaad0c4e5dba9c5e18c3f9dd1b/forsvarsmakten.pdf"
+            },
+            {
                 "name": "Mediemyndigheten (pdf 163 kB)",
                 "url": "/contentassets/034788eaad0c4e5dba9c5e18c3f9dd1b/mediemyndigheten.pdf"
             },
@@ -22110,12 +22471,28 @@
                 "url": "/contentassets/034788eaad0c4e5dba9c5e18c3f9dd1b/svenska-journalistforbundet.pdf"
             },
             {
+                "name": "Sveriges Radio AB (pdf 354 kB)",
+                "url": "/contentassets/034788eaad0c4e5dba9c5e18c3f9dd1b/sveriges-radio-ab.pdf"
+            },
+            {
                 "name": "Sveriges Television AB (pdf 1 MB)",
                 "url": "/contentassets/034788eaad0c4e5dba9c5e18c3f9dd1b/sveriges-television-ab.pdf"
             },
             {
+                "name": "Sveriges Utbildningsradio AB (pdf 180 kB)",
+                "url": "/contentassets/034788eaad0c4e5dba9c5e18c3f9dd1b/sveriges-utbildningsradio-ab.pdf"
+            },
+            {
+                "name": "Teracom Group AB (pdf 71 kB)",
+                "url": "/contentassets/034788eaad0c4e5dba9c5e18c3f9dd1b/teracom-group-ab.pdf"
+            },
+            {
                 "name": "TU (pdf 65 kB)",
                 "url": "/contentassets/034788eaad0c4e5dba9c5e18c3f9dd1b/tu.pdf"
+            },
+            {
+                "name": "Viaplay Group AB (pdf 264 kB)",
+                "url": "/contentassets/034788eaad0c4e5dba9c5e18c3f9dd1b/viaplay-group-ab.pdf"
             }
         ],
         "categories": [
@@ -22153,6 +22530,86 @@
             {
                 "name": "Varbergs kommun (pdf 141 kB)",
                 "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/varbergs-kommun.pdf"
+            },
+            {
+                "name": "Växjö kommun (pdf 175 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/vaxjo-kommun.pdf"
+            },
+            {
+                "name": "Brottsoffermyndigheten (pdf 68 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/brottsoffermyndigheten.pdf"
+            },
+            {
+                "name": "Länsstyrelsen  Gotland (pdf 73 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/lansstyrelsen--gotland.pdf"
+            },
+            {
+                "name": "Rymdstyrelsen (pdf 177 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/rymdstyrelsen.pdf"
+            },
+            {
+                "name": "Försäkringskassan (pdf 112 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/forsakringskassan.pdf"
+            },
+            {
+                "name": "Länsstyrelsen Västmanland (pdf 237 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/lansstyrelsen-vastmanland.pdf"
+            },
+            {
+                "name": "Domstolsverket (pdf 110 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/domstolsverket.pdf"
+            },
+            {
+                "name": "Länsstyrelsen Blekinge (pdf 173 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/lansstyrelsen-blekinge.pdf"
+            },
+            {
+                "name": "Statskontoret (pdf 212 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/statskontoret.pdf"
+            },
+            {
+                "name": "Inspektionen för socialförsäkringen (pdf 480 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/inspektionen-for-socialforsakringen.pdf"
+            },
+            {
+                "name": "Statens skolinspektion (pdf 361 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/statens-skolinspektion.pdf"
+            },
+            {
+                "name": "Länsstyrelsen Skåne (pdf 142 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/lansstyrelsen-skane.pdf"
+            },
+            {
+                "name": "Myndigheten för yrkeshögskolan (pdf 384 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/myndigheten-for-yrkeshogskolan.pdf"
+            },
+            {
+                "name": "Länsstyrelsen Kronoberg (pdf 87 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/lansstyrelsen-kronoberg.pdf"
+            },
+            {
+                "name": "Göteborgs kommun (pdf 184 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/goteborgs-kommun.pdf"
+            },
+            {
+                "name": "Försvarets materielverk (pdf 3 MB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/forsvarets-materielverk.pdf"
+            },
+            {
+                "name": "Statens kulturråd (pdf 137 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/statens-kulturrad.pdf"
+            },
+            {
+                "name": "Åsele kommun (pdf 86 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/asele-kommun.pdf"
+            },
+            {
+                "name": "Länsstyrelsen Västra Götaland (pdf 165 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/lansstyrelsen-vastra-gotaland.pdf"
+            },
+            {
+                "name": "Sametinget (pdf 208 kB)",
+                "url": "/contentassets/8ce5d6e51a184496ba2772730fc376da/sametinget.pdf"
             }
         ],
         "categories": [
@@ -26173,6 +26630,10 @@
             {
                 "name": "Sveriges läkarförbund (pdf 268 kB)",
                 "url": "/contentassets/0e79cbb5038841109c243eaa18e0127b/sveriges-lakarforbund.pdf"
+            },
+            {
+                "name": "Sölvesborgs kommun (pdf 105 kB)",
+                "url": "/contentassets/0e79cbb5038841109c243eaa18e0127b/solvesborgs-kommun.pdf"
             },
             {
                 "name": "Tandvårds- och läkemedelsförmånsverket (TLV) (pdf 220 kB)",
@@ -30861,7 +31322,7 @@
         "title": "Remiss av SOU 2026:2 710 miljoner skäl till reformer",
         "url": "/remisser/2026/02/remiss-av-betankandet-710-miljoner-skal-for-reformer-sou-20262/",
         "published": "2026-02-25",
-        "updated": "2026-08-12",
+        "updated": "2026-10-13",
         "types": [
             "2099"
         ],
@@ -31150,6 +31611,10 @@
                 "url": "/contentassets/1efedc0803f14e23a6c511b2ae1135d9/upplands-vasby-kommun.pdf"
             },
             {
+                "name": "Uppsala universitet (juridiska fakulteten och statsvetenskapliga institutionen) (pdf 356 kB)",
+                "url": "/contentassets/1efedc0803f14e23a6c511b2ae1135d9/uppsala-universitet-juridiska-fakulteten-och-statsvetenskapliga-institutionen.pdf"
+            },
+            {
                 "name": "Vallentuna kommun (pdf 368 kB)",
                 "url": "/contentassets/1efedc0803f14e23a6c511b2ae1135d9/vallentuna-kommun.pdf"
             },
@@ -31406,7 +31871,7 @@
             "1287",
             "1296"
         ],
-        "summary": "Här kan du ta del av svaren från dem som har ombetts att svara på remissen Ds 2026:15, Gäldenärens avtal i konkurs.",
+        "summary": "Här kan du ta del av svaren från dem som har ombetts att svara på remissen Ds 2026:15, Gäldenärens avtal i konkurs. Övriga yttranden finns tillgängliga i departementet.",
         "id": null,
         "shortcuts": [
             {
@@ -31420,12 +31885,212 @@
                 "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/remiss-av-promemorian-galdenarens-avtal-i-konkurs.pdf"
             },
             {
+                "name": "Almi Företagspartner AB (pdf 63 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/almi-foretagspartner-ab.pdf"
+            },
+            {
+                "name": "Attunda tingsrätt (pdf 97 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/attunda-tingsratt.pdf"
+            },
+            {
+                "name": "Bolagsverket (pdf 69 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/bolagsverket.pdf"
+            },
+            {
+                "name": "Bostadsrätterna (pdf 216 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/bostadsratterna.pdf"
+            },
+            {
+                "name": "Domstolsverket (pdf 123 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/domstolsverket.pdf"
+            },
+            {
+                "name": "Ekobrottsmyndigheten (pdf 43 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/ekobrottsmyndigheten.pdf"
+            },
+            {
                 "name": "FAR (pdf 101 kB)",
                 "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/far.pdf"
             },
             {
-                "name": "Sveriges Fiskevattenägarförbund (pdf 115 kB)",
+                "name": "Fastighetsägarna Sverige (pdf 130 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/fastighetsagarna-sverige.pdf"
+            },
+            {
+                "name": "Finansbolagens Förening (pdf 243 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/finansbolagens-forening.pdf"
+            },
+            {
+                "name": "Finansinspektionen (pdf 145 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/finansinspektionen.pdf"
+            },
+            {
+                "name": "Fondbolagens förening (pdf 122 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/fondbolagens-forening.pdf"
+            },
+            {
+                "name": "Företagarna (pdf 105 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/foretagarna.pdf"
+            },
+            {
+                "name": "Göteborgs tingsrätt (pdf 106 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/goteborgs-tingsratt.pdf"
+            },
+            {
+                "name": "Hovrätten över Skåne och Blekinge (pdf 103 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/hovratten-over-skane-och-blekinge.pdf"
+            },
+            {
+                "name": "Konstnärliga och Litterära Yrkesutövares Samarbetsnämnd (pdf 79 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/konstnarliga-och-litterara-yrkesutovares-samarbetsnamnd.pdf"
+            },
+            {
+                "name": "Kronofogdemyndigheten (pdf 116 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/kronofogdemyndigheten.pdf"
+            },
+            {
+                "name": "Landsorganisationen i Sverige (pdf 46 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/landsorganisationen-i-sverige.pdf"
+            },
+            {
+                "name": "Länsstyrelsen Dalarnas län (pdf 83 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/lansstyrelsen-dalarnas-lan.pdf"
+            },
+            {
+                "name": "Länsstyrelsen Hallands län (pdf 107 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/lansstyrelsen-hallands-lan.pdf"
+            },
+            {
+                "name": "Länsstyrelsen Jönköpings län (pdf 70 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/lansstyrelsen-jonkopings-lan.pdf"
+            },
+            {
+                "name": "Länsstyrelsen Norrbottens län (pdf 66 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/lansstyrelsen-norrbottens-lan.pdf"
+            },
+            {
+                "name": "Länsstyrelsen Skåne län (pdf 67 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/lansstyrelsen-skane-lan.pdf"
+            },
+            {
+                "name": "Länsstyrelsen Stockholms län (pdf 47 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/lansstyrelsen-stockholms-lan.pdf"
+            },
+            {
+                "name": "Länsstyrelsen Västernorrlands län (pdf 111 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/lansstyrelsen-vasternorrlands-lan.pdf"
+            },
+            {
+                "name": "Malmö tingsrätt (pdf 97 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/malmo-tingsratt.pdf"
+            },
+            {
+                "name": "Regelrådet (pdf 84 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/regelradet.pdf"
+            },
+            {
+                "name": "Rekonstruktör- och konkursförvaltarkollegiet i Sverige (pdf 299 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/rekonstruktor--och-konkursforvaltarkollegiet-i-sverige.pdf"
+            },
+            {
+                "name": "Riksdagens ombudsmän (pdf 54 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/riksdagens-ombudsman.pdf"
+            },
+            {
+                "name": "Riksgäldskontoret (pdf 221 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/riksgaldskontoret.pdf"
+            },
+            {
+                "name": "Skatteverket (pdf 96 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/skatteverket.pdf"
+            },
+            {
+                "name": "Småföretagarnas Riksförbund (pdf 110 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/smaforetagarnas-riksforbund.pdf"
+            },
+            {
+                "name": "Sparbankernas Riksförbund (pdf 95 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/sparbankernas-riksforbund.pdf"
+            },
+            {
+                "name": "Stiftelsen Ackordcentralen (pdf 1 MB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/stiftelsen-ackordcentralen.pdf"
+            },
+            {
+                "name": "Stockholms tingsrätt (pdf 126 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/stockholms-tingsratt.pdf"
+            },
+            {
+                "name": "Stockholms universitet (juridiska fakultetsnämnden) (pdf 106 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/stockholms-universitet-juridiska-fakultetsnamnden.pdf"
+            },
+            {
+                "name": "Svea hovrätt (pdf 90 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/svea-hovratt.pdf"
+            },
+            {
+                "name": "Svensk Försäkring (pdf 204 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/svensk-forsakring.pdf"
+            },
+            {
+                "name": "Svensk Inkasso (pdf 105 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/svensk-inkasso.pdf"
+            },
+            {
+                "name": "Svensk Värdepappersmarknad (pdf 252 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/svensk-vardepappersmarknad.pdf"
+            },
+            {
+                "name": "Svenska Bankföreningen (pdf 2 MB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/svenska-bankforeningen.pdf"
+            },
+            {
+                "name": "Svenska Föreningen för Immaterialrätt (pdf 165 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/svenska-foreningen-for-immaterialratt.pdf"
+            },
+            {
+                "name": "Svenskt Näringsliv (pdf 107 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/svenskt-naringsliv.pdf"
+            },
+            {
+                "name": "Sveriges advokatsamfund (pdf 192 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/sveriges-advokatsamfund.pdf"
+            },
+            {
+                "name": "Sveriges akademikers centralorganisation (pdf 99 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/sveriges-akademikers-centralorganisation.pdf"
+            },
+            {
+                "name": "Sveriges Domareförbund (pdf 76 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/sveriges-domareforbund.pdf"
+            },
+            {
+                "name": "Sveriges Fiskevattenägarförbund (pdf 122 kB)",
                 "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/sveriges-fiskevattenagarforbund.pdf"
+            },
+            {
+                "name": "Teknikföretagen (pdf 46 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/teknikforetagen.pdf"
+            },
+            {
+                "name": "Tillväxtanalys (pdf 268 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/tillvaxtanalys.pdf"
+            },
+            {
+                "name": "Tjänstemännens Centralorganisation (pdf 89 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/tjanstemannens-centralorganisation.pdf"
+            },
+            {
+                "name": "Umeå tingsrätt (pdf 90 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/umea-tingsratt.pdf"
+            },
+            {
+                "name": "Uppsala universitet (juridiska fakulteten) (pdf 204 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/uppsala-universitet-juridiska-fakulteten.pdf"
+            },
+            {
+                "name": "Örebro tingsrätt (pdf 104 kB)",
+                "url": "/contentassets/52ffae5758bd45af85eb030f1c58d0a0/orebro-tingsratt.pdf"
             }
         ],
         "categories": [
@@ -31787,16 +32452,32 @@
                 "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/remiss-av-promemorian-elektroniska-meddelanden-vid-forsakringsavtal-ds-2026-7.pdf"
             },
             {
+                "name": "Allmänna reklamationsnämnden (pdf 180 kB)",
+                "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/allmanna-reklamationsnamnden.pdf"
+            },
+            {
                 "name": "Diskrimineringsombudsmannen (pdf 156 kB)",
                 "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/diskrimineringsombudsmannen.pdf"
             },
             {
-                "name": "Finansinspektionen (pdf 87 kB)",
+                "name": "Finansinspektionen (pdf 85 kB)",
                 "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/finansinspektionen.pdf"
+            },
+            {
+                "name": "Försäkringsjuridiska föreningen (pdf 126 kB)",
+                "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/forsakringsjuridiska-foreningen.pdf"
+            },
+            {
+                "name": "Göteborgs universitet (pdf 236 kB)",
+                "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/goteborgs-universitet.pdf"
             },
             {
                 "name": "Integritetsskyddsmyndigheten (pdf 104 kB)",
                 "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/integritetsskyddsmyndigheten.pdf"
+            },
+            {
+                "name": "Kammarkollegiet (pdf 114 kB)",
+                "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/kammarkollegiet.pdf"
             },
             {
                 "name": "Konsumentverket (pdf 214 kB)",
@@ -31807,6 +32488,18 @@
                 "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/malmo-tingsratt.pdf"
             },
             {
+                "name": "Myndigheten för delaktighet (pdf 507 kB)",
+                "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/myndigheten-for-delaktighet.pdf"
+            },
+            {
+                "name": "Pensionärernas riksorganisation (pdf 97 kB)",
+                "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/pensionarernas-riksorganisation.pdf"
+            },
+            {
+                "name": "Post och telestyrelsen (pdf 93 kB)",
+                "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/post-och-telestyrelsen.pdf"
+            },
+            {
                 "name": "Regelrådet (pdf 165 kB)",
                 "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/regelradet.pdf"
             },
@@ -31815,12 +32508,28 @@
                 "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/solna-tingsratt.pdf"
             },
             {
-                "name": "Svea hovrätt (pdf 89 kB)",
+                "name": "Svea hovrätt (pdf 98 kB)",
                 "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/svea-hovratt.pdf"
             },
             {
-                "name": "Svensk Försäkring (pdf 158 kB)",
+                "name": "Svensk Försäkring (pdf 2 MB)",
                 "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/svensk-forsakring.pdf"
+            },
+            {
+                "name": "Svenskt Näringsliv (pdf 831 kB)",
+                "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/svenskt-naringsliv.pdf"
+            },
+            {
+                "name": "Sveriges advokatsamfund (pdf 176 kB)",
+                "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/sveriges-advokatsamfund.pdf"
+            },
+            {
+                "name": "Synskadades riksförbund (pdf 128 kB)",
+                "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/synskadades-riksforbund.pdf"
+            },
+            {
+                "name": "Uppsala universitet Juridiska fakulteten (pdf 129 kB)",
+                "url": "/contentassets/dc2d6f582d5e4861bd91ff510ddee7c1/uppsala-universitet-juridiska-fakulteten.pdf"
             }
         ],
         "categories": [],
@@ -33479,6 +34188,10 @@
             {
                 "name": "Hjo kommun (pdf 34 kB)",
                 "url": "/contentassets/ebdd86ca4d934a8b99d2f60f7777e640/remissvar-hjo-kommun-ud2026-04252.pdf"
+            },
+            {
+                "name": "Jämställdhetsmyndigheten (pdf 147 kB)",
+                "url": "/contentassets/ebdd86ca4d934a8b99d2f60f7777e640/jamstalldhetsmyndigheten.pdf"
             },
             {
                 "name": "Jönköpings kommun (pdf 121 kB)",
@@ -35609,6 +36322,10 @@
             {
                 "name": "Institutet för mänskliga rättigheter_ (pdf 86 kB)",
                 "url": "/contentassets/8774dce6356e4b92aa3c436bb3c25aad/institutet-for-manskliga-rattigheter_.pdf"
+            },
+            {
+                "name": "Kammarkollegiet.PDF (pdf 77 kB)",
+                "url": "/contentassets/8774dce6356e4b92aa3c436bb3c25aad/kammarkollegiet.pdf"
             },
             {
                 "name": "Konkurrensverket_ (pdf 310 kB)",
@@ -49260,6 +49977,10 @@
                 "url": "/contentassets/c922eaffc96946f881d3b03319b9ca68/region-jonkopings-lan-.pdf"
             },
             {
+                "name": "Region Jönköpings län (pdf 268 kB)",
+                "url": "/contentassets/c922eaffc96946f881d3b03319b9ca68/region-jonkopings-lan.pdf"
+            },
+            {
                 "name": "Riksdagens ombudsmän (JO) (pdf 139 kB)",
                 "url": "/contentassets/c922eaffc96946f881d3b03319b9ca68/riksdagens-ombudsman-jo.pdf"
             },
@@ -49316,7 +50037,7 @@
                 "url": "/contentassets/c922eaffc96946f881d3b03319b9ca68/sveriges-elevrad.pdf"
             },
             {
-                "name": "Sveriges Kommuner och Regioner (pdf 451 kB)",
+                "name": "Sveriges Kommuner och Regioner (pdf 422 kB)",
                 "url": "/contentassets/c922eaffc96946f881d3b03319b9ca68/sveriges-kommuner-och-regioner.pdf"
             },
             {
@@ -61135,6 +61856,10 @@
                 "url": "/contentassets/3e78549f496e488d905a32c498f72ee4/oskarshamns-kommun-yttrande.pdf"
             },
             {
+                "name": "Oskarshamns kommun (pdf 103 kB)",
+                "url": "/contentassets/3e78549f496e488d905a32c498f72ee4/oskarshamns-kommun.pdf"
+            },
+            {
                 "name": "Polismyndigheten (pdf 161 kB)",
                 "url": "/contentassets/3e78549f496e488d905a32c498f72ee4/polismyndigheten.pdf"
             },
@@ -61181,6 +61906,10 @@
             {
                 "name": "Svea hovrätt (pdf 135 kB)",
                 "url": "/contentassets/3e78549f496e488d905a32c498f72ee4/svea-hovratt.pdf"
+            },
+            {
+                "name": "Svensk Försäkring (pdf 221 kB)",
+                "url": "/contentassets/3e78549f496e488d905a32c498f72ee4/svensk-forsakring.pdf"
             },
             {
                 "name": "Svenska Bankföreningen (pdf 191 kB)",
@@ -62083,7 +62812,7 @@
                 "url": "/rattsliga-dokument/statens-offentliga-utredningar/2025/06/sou-202568/"
             },
             {
-                "name": "Pressmeddelande: Utredning föreslår nya åtgärder för att stärka näringslivets beredskap och motståndskraftWebb-TV",
+                "name": "Pressmeddelande: Utredning föreslår nya åtgärder för att stärka näringslivets beredskap och motståndskraft",
                 "url": "/pressmeddelanden/2025/06/utredning-foreslar-nya-atgarder-for-att-starka-naringslivets-beredskap-och-motstandskraft/"
             }
         ],
@@ -70033,6 +70762,10 @@
                 "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/blekinge-tekniska-hogskola.pdf"
             },
             {
+                "name": "Bodens kommun (2).PDF (pdf 1 MB)",
+                "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/bodens-kommun-2.pdf"
+            },
+            {
                 "name": "Bodens kommun.PDF (pdf 427 kB)",
                 "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/bodens-kommun.pdf"
             },
@@ -70055,6 +70788,10 @@
             {
                 "name": "Eskilstuna kommun (pdf 89 kB)",
                 "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/eskilstuna-kommun.pdf"
+            },
+            {
+                "name": "Falu kommun Bilaga.PDF (pdf 338 kB)",
+                "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/falu-kommun-bilaga.pdf"
             },
             {
                 "name": "Falu kommun.PDF (pdf 323 kB)",
@@ -70265,6 +71002,10 @@
                 "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/malmo-kommun.pdf"
             },
             {
+                "name": "Malmö stad Bilaga.PDF (pdf 258 kB)",
+                "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/malmo-stad-bilaga.pdf"
+            },
+            {
                 "name": "Myndigheten för samhällsskydd och beredskap (MSB).PDF (pdf 108 kB)",
                 "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/myndigheten-for-samhallsskydd-och-beredskap-msb.pdf"
             },
@@ -70333,6 +71074,10 @@
                 "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/socialstyrelsen.pdf"
             },
             {
+                "name": "Statens energimyndighet.PDF (pdf 2 MB)",
+                "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/statens-energimyndighet.pdf"
+            },
+            {
                 "name": "Statens fastighetsverk (SFV) (pdf 227 kB)",
                 "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/statens-fastighetsverk-sfv.pdf"
             },
@@ -70353,12 +71098,20 @@
                 "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/statskontoret.pdf"
             },
             {
+                "name": "Stockholms stad (pdf 35 MB)",
+                "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/stockholms-stad.pdf"
+            },
+            {
                 "name": "Strålsäkerhetsmyndigheten.PDF (pdf 478 kB)",
                 "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/stralsakerhetsmyndigheten.pdf"
             },
             {
                 "name": "Styrelsen för internationellt utvecklingsarbete, Sida.PDF (pdf 106 kB)",
                 "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/styrelsen-for-internationellt-utvecklingsarbete-sida.pdf"
+            },
+            {
+                "name": "Sundsvalls kommun.PDF (pdf 5 MB)",
+                "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/sundsvalls-kommun.pdf"
             },
             {
                 "name": "Svea hovrätt, Mark- och miljödomstolen.PDF (pdf 78 kB)",
@@ -70461,6 +71214,10 @@
                 "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/villaagarnas-riksforbund.pdf"
             },
             {
+                "name": "Vänersborgs kommun yttrande.PDF (pdf 1 MB)",
+                "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/vanersborgs-kommun-yttrande.pdf"
+            },
+            {
                 "name": "Vänersborgs kommun.PDF (pdf 269 kB)",
                 "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/vanersborgs-kommun.pdf"
             },
@@ -70471,6 +71228,10 @@
             {
                 "name": "Västerås kommun.PDF (pdf 2 MB)",
                 "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/vasteras-kommun.pdf"
+            },
+            {
+                "name": "Västra Götalandsregionen.PDF (pdf 107 kB)",
+                "url": "/contentassets/b15f55eaef2c42598cd8b708cc10c7a6/vastra-gotalandsregionen.pdf"
             },
             {
                 "name": "Västra Götalandsregionens (pdf 92 kB)",
@@ -70768,6 +71529,10 @@
             {
                 "name": "LO (pdf 321 kB)",
                 "url": "/contentassets/53164c1231a94a1fa078aa134e58aeee/lo.pdf"
+            },
+            {
+                "name": "Myndigheten för civilt försvar (pdf 1 MB)",
+                "url": "/contentassets/53164c1231a94a1fa078aa134e58aeee/myndigheten-for-civilt-forsvar.pdf"
             },
             {
                 "name": "Pensionsmyndigheten (pdf 512 kB)",
@@ -75637,6 +76402,10 @@
             {
                 "name": "Länsstyrelsen i Jönköpings län (pdf 231 kB)",
                 "url": "/contentassets/5ffe59bbf26a43019b73b7d09041e142/lansstyrelsen-i-jonkopings-lan.pdf"
+            },
+            {
+                "name": "Länsstyrelsen i Stockholms län (pdf 119 kB)",
+                "url": "/contentassets/5ffe59bbf26a43019b73b7d09041e142/lansstyrelsen-i-stockholms-lan.pdf"
             },
             {
                 "name": "Länsstyrelsen i Södermanlands län (pdf 112 kB)",
@@ -83339,6 +84108,10 @@
             {
                 "name": "UC AB Upplysningscentralen (pdf 51 kB)",
                 "url": "/contentassets/1657a892365e48a78a79b746b8faa4d9/uc-ab-upplysningscentralen.pdf"
+            },
+            {
+                "name": "Umeå universitet (pdf 100 kB)",
+                "url": "/contentassets/1657a892365e48a78a79b746b8faa4d9/umea-universitet.pdf"
             },
             {
                 "name": "Åklagarmyndigheten (pdf 428 kB)",
@@ -92422,7 +93195,7 @@
         "title": "Remiss av promemorian EU:s bankpaket",
         "url": "/remisser/2025/05/remiss-av-promemorian-eus-bankpaket/",
         "published": "2025-05-30",
-        "updated": "2025-09-16",
+        "updated": "2025-10-06",
         "types": [
             "2099"
         ],
@@ -92465,6 +93238,10 @@
             {
                 "name": "Förvaltningsrätten i Stockholm (pdf 133 kB)",
                 "url": "/contentassets/4af9d2beb3bf49698ae8100380d86441/forvaltningsratten-i-stockholm.pdf"
+            },
+            {
+                "name": "Institutet för mänskliga rättigheter (pdf 109 kB)",
+                "url": "/contentassets/4af9d2beb3bf49698ae8100380d86441/institutet-for-manskliga-rattigheter.pdf"
             },
             {
                 "name": "Justitiekanslern (pdf 93 kB)",
@@ -187974,6 +188751,7 @@
         ],
         "categories": [
             "1219",
+            "2819",
             "2539"
         ],
         "chains": [
@@ -191183,6 +191961,7 @@
         ],
         "categories": [
             "1219",
+            "2819",
             "2539",
             "2666"
         ],
@@ -197093,6 +197872,7 @@
         ],
         "categories": [
             "1219",
+            "2819",
             "2539"
         ],
         "chains": [
@@ -207736,7 +208516,7 @@
         ]
     },
     {
-        "title": "Remiss av promemoria Två frågor om taxi – prisuppgiftsskyldigheten och ålderskravet för taxiförarlegitimation",
+        "title": "Remiss av promemorian Två frågor om taxi – prisuppgiftsskyldigheten och ålderskravet för taxiförarlegitimation",
         "url": "/remisser/2023/12/remiss-av-promemoria-tva-fragor-om-taxi--prisuppgiftsskyldigheten-och-alderskravet-for-taxiforarlegitimation/",
         "published": "2023-12-01",
         "updated": "2024-02-27",
@@ -207750,7 +208530,7 @@
         "id": "Diarienummer: LI2023/03616",
         "shortcuts": [
             {
-                "name": "Promemoria Två frågor om taxi – prisuppgiftsskyldigheten och ålderskravet för taxiförarlegitimation",
+                "name": "Promemoria: Två frågor om taxi – prisuppgiftsskyldigheten och ålderskravet för taxiförarlegitimation",
                 "url": "/rattsliga-dokument/departementsserien-och-promemorior/2023/12/promemoria-tva-fragor-om-taxi--prisuppgiftsskyldigheten-och-alderskravet-for-taxiforarlegitimation/"
             },
             {
@@ -261779,6 +262559,10 @@
                 "url": "/contentassets/5b6d96fc308a4d95b57e6b6d787ebcce/migrationsverket.pdf"
             },
             {
+                "name": "Moderna museet (pdf 374 kB)",
+                "url": "/contentassets/5b6d96fc308a4d95b57e6b6d787ebcce/moderna-museet.pdf"
+            },
+            {
                 "name": "Pensionsmyndigheten (pdf 53 kB)",
                 "url": "/contentassets/5b6d96fc308a4d95b57e6b6d787ebcce/pensionsmyndigheten.pdf"
             },
@@ -261811,7 +262595,7 @@
                 "url": "/contentassets/5b6d96fc308a4d95b57e6b6d787ebcce/skatteverket.pdf"
             },
             {
-                "name": "Statens kulturråd (pdf 241 kB)",
+                "name": "Statens kulturråd (pdf 215 kB)",
                 "url": "/contentassets/5b6d96fc308a4d95b57e6b6d787ebcce/statens-kulturrad.pdf"
             },
             {
@@ -389548,6 +390332,7 @@
         ],
         "categories": [
             "1219",
+            "2819",
             "2539"
         ]
     },
@@ -391825,6 +392610,7 @@
         ],
         "categories": [
             "1219",
+            "2819",
             "2539"
         ]
     },
@@ -396292,6 +397078,7 @@
         "categories": [
             "1219",
             "1242",
+            "2819",
             "2539"
         ],
         "chains": [
@@ -418141,10 +418928,6 @@
                 "url": "/contentassets/b022f62c799e46299d7a454eed55dcf1/kustbevakningen.pdf"
             },
             {
-                "name": "Lanbrukarnas Riksförbund LRF (pdf 129 kB)",
-                "url": "/contentassets/b022f62c799e46299d7a454eed55dcf1/lanbrukarnas-riksforbund-lrf.pdf"
-            },
-            {
                 "name": "Luleå TR (pdf 148 kB)",
                 "url": "/contentassets/b022f62c799e46299d7a454eed55dcf1/lulea-tr.pdf"
             },
@@ -434358,7 +435141,7 @@
     {
         "title": "Remiss av promemorian Lättnader vid stöd genom nedsatt energiskatt med anledning av covid-19-pandemin",
         "url": "/remisser/2020/09/remiss-av-promemorian-lattnader-vid-stod-genom-nedsatt-energiskatt-med-anledning-av-covid-19-pandemin/",
-        "published": "2020-09-28",
+        "published": "2024-01-25",
         "updated": null,
         "types": [
             "2099"
@@ -435242,6 +436025,7 @@
         "categories": [
             "1218",
             "1219",
+            "2819",
             "2539"
         ],
         "chains": [
@@ -538070,7 +538854,7 @@
                 "url": "/contentassets/a3e8bb4742c64e99baf0bc71c65dae9d/73.-sveriges-videodistributorers-forening-svf.pdf"
             },
             {
-                "name": "74. Yttrande från Anonym U9623@protonmail.com (pdf 77 kB)",
+                "name": "74. Yttrande från Anonym[email protected](pdf 77 kB)",
                 "url": "/contentassets/a3e8bb4742c64e99baf0bc71c65dae9d/74.-yttrande-fran-anonym-u9623protonmail.com.pdf"
             }
         ],
@@ -574612,7 +575396,7 @@
                 "url": "/contentassets/afa2655f28c94add8218a638270ee324/tullverket.pdf"
             },
             {
-                "name": "Umeå tingsrätt (pdf 230 kB)",
+                "name": "Umeå tingsrätt (pdf 323 kB)",
                 "url": "/contentassets/afa2655f28c94add8218a638270ee324/umea-tingsratt.pdf"
             },
             {
@@ -590045,11 +590829,11 @@
                 "url": "/contentassets/843a040496fa475bb91dfd398231f3a7/lansstyrelsen-vastra-gotaland.pdf"
             },
             {
-                "name": "Malmö kommun (pdf 159 kB)",
-                "url": "/contentassets/843a040496fa475bb91dfd398231f3a7/malmo-kommun.pdf"
+                "name": "Malmö kommun OLD (pdf 159 kB)",
+                "url": "/contentassets/843a040496fa475bb91dfd398231f3a7/malmo-kommun-old.pdf"
             },
             {
-                "name": "Mönsterås kommun (pdf 693 kB)",
+                "name": "Mönsterås kommun (pdf 785 kB)",
                 "url": "/contentassets/843a040496fa475bb91dfd398231f3a7/monsteras-kommun.pdf"
             },
             {

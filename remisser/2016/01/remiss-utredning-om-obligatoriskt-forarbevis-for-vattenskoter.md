@@ -45,10 +45,10 @@ I augusti 2014 uppdrogs åt Regeringskansliet att utreda införande av förarint
 
 Promemorian om Obligatoriskt förarbevis för vattenskoter remitteras härmed. Remissinstanserna uppmanas särskilt att yttra sig i frågan om den föreslagna lagens tillämpningsområde.
 
-Remissvaren ska ha kommit in till Näringsdepartementet senast den 15 april 2016. Remissvaren önskas i elektronisk form via e-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "E-post till Näringsdepartementets registrator") samt till [Stefan Zetterlind](mailto:stefan.zetterlind@regeringskansliet.se "E-post till Stefan Zetterlind") i både Word- och pdf-format. Vi uppskattar om filnamnet är Regeringskansliets diarienummer utan snedstreck följt av remissinstansens namn (t.ex. "N2015-55575-MRT X-stads kommun.doc"). I remissvaret anges Regeringskansliets diarienummer N2014/03447/MRT. I remissen ligger att regeringen vill ha synpunkter på förslagen eller materialet i promemorian.
+Remissvaren ska ha kommit in till Näringsdepartementet senast den 15 april 2016. Remissvaren önskas i elektronisk form via e-post till [Näringsdepartementets registrator](/cdn-cgi/l/email-protection#d7b9f9a5b2b0bea4a3a5b6a3b8a597a5b2b0b2a5beb9b0a4bcb6b9a4bbbeb2a3f9a4b2 "E-post till Näringsdepartementets registrator") samt till [Stefan Zetterlind](/cdn-cgi/l/email-protection#7506011013141b5b0f1001011007191c1b113507101210071c1b12061e141b06191c10015b0610 "E-post till Stefan Zetterlind") i både Word- och pdf-format. Vi uppskattar om filnamnet är Regeringskansliets diarienummer utan snedstreck följt av remissinstansens namn (t.ex. "N2015-55575-MRT X-stads kommun.doc"). I remissvaret anges Regeringskansliets diarienummer N2014/03447/MRT. I remissen ligger att regeringen vill ha synpunkter på förslagen eller materialet i promemorian.
 
 Myndigheter under regeringen är skyldiga att svara på remissen. En myndighet avgör dock på eget ansvar om den har några synpunkter att redovisa i ett svar. Om myndigheten inte har några synpunkter, räcker det att svaret ger besked om detta.
 
 För andra remissinstanser innebär remissen en in­bju­dan att lämna synpunkter.
 
-Frågor under remisstiden kan ställas till [Stefan Zetterlind](mailto:stefan.zetterlind@regeringskansliet.se "E-post till Stefan Zetterlind") telefonnummer 08-405 16 45.
+Frågor under remisstiden kan ställas till [Stefan Zetterlind](/cdn-cgi/l/email-protection#1566617073747b3b6f7061617067797c7b715567707270677c7b72667e747b66797c70613b6670 "E-post till Stefan Zetterlind") telefonnummer 08-405 16 45.

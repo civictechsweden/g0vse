@@ -6,32 +6,32 @@ Underlaget består dels av underlag från Statens energimyndighet inför beslut 
 
 Energimyndighetens redovisning består av en huvudrapport, en bilaga med utdrag ur en kommande rapport, samt sex stycken s.k. UP-rapporter med strategi och mål för sex olika temaområden:
 
-- Helhetssyn är nyckeln. Strategi för forskning och innovation på energiområdet 2017–2020
+\- Helhetssyn är nyckeln. Strategi för forskning och innovation på energiområdet 2017–2020
 
-- Bilaga 1 Urval ur kommande Energiforsknignsläget
+\- Bilaga 1 Urval ur kommande Energiforsknignsläget
 
-- ER 2015:23 UP-rapport Allmänna energisystemstudier
+\- ER 2015:23 UP-rapport Allmänna energisystemstudier
 
-- ER 2015:24 UP-rapport Transportsystemet
+\- ER 2015:24 UP-rapport Transportsystemet
 
-- ER 2015:25 UP-rapport Kraftsystemet
+\- ER 2015:25 UP-rapport Kraftsystemet
 
-- ER 2015:26 UP-rapport Byggnader i energisystemet
+\- ER 2015:26 UP-rapport Byggnader i energisystemet
 
-- ER 2015:27 UP-rapport Bränslebaserade energisystem
+\- ER 2015:27 UP-rapport Bränslebaserade energisystem
 
-- ER 2015:28 UP-rapport Energiintensiv industri
+\- ER 2015:28 UP-rapport Energiintensiv industri
 
 Kontigos utvärdering redovisas i rapporten
 
-- KONTIGO Forskning och innovation på energiområdet
+\- KONTIGO Forskning och innovation på energiområdet
 
 TAs utvärdering redovisas i dokumenten:
 
-- Tillvaxtanalys_Missiv_RB15-3_slutredovisn_Utvard_FoI_energiomradet
+\- Tillvaxtanalys_Missiv_RB15-3_slutredovisn_Utvard_FoI_energiomradet
 
-- Tillvaxtanalys_rapport_2015_08
+\- Tillvaxtanalys_rapport_2015_08
 
-- Tillvaxtanalys_pm_2015_21
+\- Tillvaxtanalys_pm_2015_21
 
 Remissvaren ska ha kommit in till Miljö- och energidepartementet senast den 4 april2016.

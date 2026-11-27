@@ -111,10 +111,10 @@ Remissvaren ska ha kommit in till Näringsdepartementet senast den 31 mars 2016.
 
 Planprocessutredningen betänkande Bättre samarbete mellan stat och kommun vid planering och byggande (SOU 2015:109) remitteras härmed till ovanstående remissinstanser.
 
-Remissvaren ska ha kommit in till Näringsdepartementet senast den 31 mars 2016. Remissvaren önskas i elektronisk form via e-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "E-post till Näringsdepartementets registrator")med kopia till [Maria Edlund](mailto:maria.edlund@regeringskansliet.se "E-post till Maria Edlund") i både Word- och pdf-format. Vi uppskattar om filnamnet är Regeringskansliets diarienummer utan snedstreck, N2015-08971-PUB följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i rapporten. I remissvaret anges Regeringskansliets diarienummer N2015/08971/PUB.
+Remissvaren ska ha kommit in till Näringsdepartementet senast den 31 mars 2016. Remissvaren önskas i elektronisk form via e-post till [Näringsdepartementets registrator](/cdn-cgi/l/email-protection#c6a8e8b4a3a1afb5b2b4a7b2a9b486b4a3a1a3b4afa8a1b5ada7a8b5aaafa3b2e8b5a3 "E-post till Näringsdepartementets registrator") med kopia till [Maria Edlund](/cdn-cgi/l/email-protection#86ebe7f4efe7a8e3e2eaf3e8e2c6f4e3e1e3f4efe8e1f5ede7e8f5eaefe3f2a8f5e3 "E-post till Maria Edlund") i både Word- och pdf-format. Vi uppskattar om filnamnet är Regeringskansliets diarienummer utan snedstreck, N2015-08971-PUB följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i rapporten. I remissvaret anges Regeringskansliets diarienummer N2015/08971/PUB.
 
 Myndigheter under regeringen är skyldiga att svara på remissen. En myndighet avgör dock på eget ansvar om den har några synpunkter att redovisa i ett svar. Om myndigheten inte har några synpunkter, räcker det att svaret ger besked om detta.
 
 För andra remissinstanser innebär remissen en inbjudan att lämna synpunkter.
 
-Frågor under remisstiden kan ställas till [Ivar Frostenson](mailto:ivar.frostenson@regeringskansliet.se "E-post till Ivar Frostenson "), telefonnummer 08-405 35 32.
+Frågor under remisstiden kan ställas till [Ivar Frostenson](/cdn-cgi/l/email-protection#630a1502114d05110c1017060d100c0d2311060406110a0d041008020d100f0a06174d1006 "E-post till Ivar Frostenson "), telefonnummer 08-405 35 32.

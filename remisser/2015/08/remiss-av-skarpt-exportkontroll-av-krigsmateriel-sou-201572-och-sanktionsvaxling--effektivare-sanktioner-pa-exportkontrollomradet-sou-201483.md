@@ -112,7 +112,7 @@ Remissvaren ska ha kommit in till Utrikesdepartementet senast fredagen den 6 nov
 104. Wedholm Medical AB (bet. om sanktionsväxling)
 105. Westinghouse Electric AB (bet. om sanktionsväxling)
 
-Remissvaren ska ha kommit in till Utrikesdepartementet senast fredagen den 6 november 2015. Svaren bör lämnas både på papper och per e-post i word-format till [Johan Matz](mailto:johan.matz@gov.se "E-post till Johan Matz") samt [ud-nis](mailto:ud-nis@gov.se "E-post till ud-nis").
+Remissvaren ska ha kommit in till Utrikesdepartementet senast fredagen den 6 november 2015. Svaren bör lämnas både på papper och per e-post i word-format till [Johan Matz](/cdn-cgi/l/email-protection#3852575059561655594c42785f574e164b5d "E-post till Johan Matz") samt [ud-nis](/cdn-cgi/l/email-protection#344150195a5d4774535b421a4751 "E-post till ud-nis").
 
 I remissen ligger att regeringen vill ha synpunkter på förslagen eller materialet i betänkandet. Om remissen är begränsad till en viss del av materialet, anges detta inom parentes efter remissinstansens namn i remisslistan. En sådan begränsning hindrar givetvis inte att remissinstansen lämnar synpunkter också på övriga delar.
 

@@ -136,7 +136,7 @@ Här kan du ta del av remissinstansernas svar på remissen av Sverigeförhandlin
 130. Havs- och vattenmyndigheten
 131. Naturskyddsföreningen
 
-Remissvaren ska ha kommit in till Näringsdepartementet senast den l oktober 2015. Vi ser gärna att remissvaren även skickas i elektronisk form via e-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Epost till Näringsdepartementets registrator")samt till [Peter Kalliopuro](mailto:peter.kalliopuro@regeringskansliet.se "Epost till Peter Kalliopuro") i både word- och pdf-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck), N2015-4841-TIF följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i betänkandet. I remissvaret anges Regeringskansliets diarienummer N2015/4841/TIF.
+Remissvaren ska ha kommit in till Näringsdepartementet senast den l oktober 2015. Vi ser gärna att remissvaren även skickas i elektronisk form via e-post till [Näringsdepartementets registrator](/cdn-cgi/l/email-protection#1d73336f787a746e696f7c69726f5d6f787a786f74737a6e767c736e71747869336e78 "Epost till Näringsdepartementets registrator") samt till [Peter Kalliopuro](/cdn-cgi/l/email-protection#a9d9ccddccdb87c2c8c5c5c0c6d9dcdbc6e9dbccceccdbc0c7cedac2c8c7dac5c0ccdd87dacc "Epost till Peter Kalliopuro") i både word- och pdf-format. Vi skulle uppskatta om filnamnet är Regeringskansliets diarienummer (utan snedstreck), N2015-4841-TIF följt av remissinstansens namn. Remissvarens disposition bör om möjligt ansluta sig till dispositionen i betänkandet. I remissvaret anges Regeringskansliets diarienummer N2015/4841/TIF.
 
 I remissen ligger att regeringen vill ha synpunkter på förslagen eller materialet i betänkandet.
 

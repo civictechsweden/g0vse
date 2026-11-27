@@ -20,12 +20,12 @@ Inhämtande av synpunkter på promemorian Registrering av ombordvarande på pass
 14. Sveriges hamnar
 15. Transportindustriförbundet
 
-Synpunkterna ska ha kommit in till Näringsdepartementet (dnr 2015/07839/RS) senast fredagen den 13 november 2015 kl 13:00.
-
-Svaren bör lämnas per e-post till Näringsdepartementets registrator med adress <n.registrator@regeringskansliet.se> med kopia till [Peter Kalliopuro](mailto:peter.kalliopuro@regeringskansliet.se "epost till Peter Kalliopuro").
-
-I detta inhämtande av synpunkter ligger att regeringen vill ha synpunkter på promemorian.
-
-Myndigheter under regeringen är skyldiga att svara. Myndigheten avgör dock på eget ansvar om den har några synpunkter att redovisa i ett svar. Om myndigheten inte har några synpunkter, räcker det att svaret ger besked om detta.
-
+Synpunkterna ska ha kommit in till Näringsdepartementet (dnr 2015/07839/RS) senast fredagen den 13 november 2015 kl 13:00.  
+   
+Svaren bör lämnas per e-post till Näringsdepartementets registrator med adress [[email protected]](/cdn-cgi/l/email-protection#1d73336f787a746e696f7c69726f5d6f787a786f74737a6e767c736e71747869336e78 "Näringsdepartementets registrator") med kopia till [Peter Kalliopuro](/cdn-cgi/l/email-protection#661603120314480d070a0a0f09161314092614030103140f0801150d0708150a0f0312481503 "epost till Peter Kalliopuro").  
+   
+I detta inhämtande av synpunkter ligger att regeringen vill ha synpunkter på promemorian.  
+   
+Myndigheter under regeringen är skyldiga att svara. Myndigheten avgör dock på eget ansvar om den har några synpunkter att redovisa i ett svar. Om myndigheten inte har några synpunkter, räcker det att svaret ger besked om detta.  
+   
 För andra berörda innebär detta en inbjudan att lämna synpunkter.

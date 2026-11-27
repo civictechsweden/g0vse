@@ -81,7 +81,7 @@ Remissvaren ska ha kommit in till Näringsdepartementet senast tisdagen den 1 ma
 
 Betänkandet ”Bostäder att bo kvar i” (SOU 2015:85) remitteras härmed till ovanstående remissinstanser.
 
-Remissvaren ska ha kommit in till Näringsdepartementet senast tisdagen den 1 mars 2016. Remissvaren önskas i elektronisk form via e-post till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator") och [Maria Edlund](mailto:maria.edlund@regeringskansliet.se "Maria Edlund")i både Word- och pdf-format. Vi uppskattar om filnamnet är Regeringskansliets diarienummer (utan snedstreck) N2015-06917-PUB, följt av remissinstansens namn. Remissvarets disposition bör om möjligt ansluta sig till dispositionen i betänkandet. I remissvaret anges Regeringskansliets diarienummer N2015/06917/PUB.
+Remissvaren ska ha kommit in till Näringsdepartementet senast tisdagen den 1 mars 2016. Remissvaren önskas i elektronisk form via e-post till [Näringsdepartementets registrator](/cdn-cgi/l/email-protection#f997d78b9c9e908a8d8b988d968bb98b9c9e9c8b90979e8a9298978a95909c8dd78a9c "Näringsdepartementets registrator") och [Maria Edlund](/cdn-cgi/l/email-protection#731e12011a125d16171f061d173301161416011a1d140018121d001f1a16075d0016 "Maria Edlund") i både Word- och pdf-format. Vi uppskattar om filnamnet är Regeringskansliets diarienummer (utan snedstreck) N2015-06917-PUB, följt av remissinstansens namn. Remissvarets disposition bör om möjligt ansluta sig till dispositionen i betänkandet. I remissvaret anges Regeringskansliets diarienummer N2015/06917/PUB.
 
 I remissen ligger att regeringen vill ha synpunkter på förslagen eller materialet i betänkan­det.
 
@@ -89,4 +89,4 @@ Myndigheter under regeringen är skyldiga att svara på remissen. En myndighet a
 
 För andra remissinstanser innebär remissen en in­bju­dan att lämna synpunkter.
 
-Frågor under remisstiden kan ställas till [Sophie Ahlstrand](mailto:sophie.ahlstrand@regeringskansliet.se "Sophie Ahlstrand"), telefonnummer 08-405 16 63.
+Frågor under remisstiden kan ställas till [Sophie Ahlstrand](/cdn-cgi/l/email-protection#b9cad6c9d1d0dc97d8d1d5cacdcbd8d7ddf9cbdcdedccbd0d7decad2d8d7cad5d0dccd97cadc "Sophie Ahlstrand"), telefonnummer 08-405 16 63.

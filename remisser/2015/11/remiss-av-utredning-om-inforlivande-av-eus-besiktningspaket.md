@@ -51,9 +51,9 @@ Sista dag att svara på remissen är den 12 februari 2016.
 43. Sveriges Fordonsverkstäders Förening (SFVF)
 44. Sveriges Motorcyklister (SMC)
 45. Sveriges Åkeriföretag
-46. Swedish Association for Testing, Inspection and Certification
-- Swetic Sektion Fordonsbesiktning
-- Swetic TK Lyft
+46. Swedish Association for Testing, Inspection and Certification  
+    \- Swetic Sektion Fordonsbesiktning  
+    \- Swetic TK Lyft
 47. Svenska Taxiförbundet
 48. Trafikförsäkringsföreningen
 49. Svensk Försäkring
@@ -85,4 +85,4 @@ Myndigheter under regeringen är skyldiga att svara på remissen. En myndighet a
 
 För andra remissinstanser innebär remissen en inbjudan att lämna synpunkter.
 
-Remissvaren ska vara inkomna till Näringsdepartementet senast den 12 februari 2016. Vi ser gärna att ni skickar dem per epost, helst i wordformat, till [Näringsdepartementets registrator](mailto:n.registrator@regeringskansliet.se "Näringsdepartementets registrator") med kopia till [Peter Kalliopuro](mailto:peter.kalliopuro@regeringskansliet.se "Peter Kalliopuro"). Uppge diarienummer N2015/07635/MRT.
+Remissvaren ska vara inkomna till Näringsdepartementet senast den 12 februari 2016. Vi ser gärna att ni skickar dem per epost, helst i wordformat, till [Näringsdepartementets registrator](/cdn-cgi/l/email-protection#553b7b2730323c26212734213a271527303230273c3b32263e343b26393c30217b2630 "Näringsdepartementets registrator") med kopia till [Peter Kalliopuro](/cdn-cgi/l/email-protection#5525302130277b3e3439393c3a2520273a1527303230273c3b32263e343b26393c30217b2630 "Peter Kalliopuro"). Uppge diarienummer N2015/07635/MRT.
