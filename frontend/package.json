@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": ">=20.9.0"
+    "node": "26.x"
   },
   "scripts": {
     "dev": "next dev",
@@ -13,8 +13,8 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx --max-warnings=0"
   },
   "dependencies": {
-    "@tailwindcss/postcss": "^4.3.3",
-    "next": "^16.4.2",
+    "@tailwindcss/postcss": "^4.3.5",
+    "next": "^16.4.6",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
   },
@@ -22,11 +22,11 @@
     "postcss": "$postcss"
   },
   "devDependencies": {
-    "@eslint/js": "^9.39.5",
-    "autoprefixer": "^10.6.1",
-    "eslint": "^9.39.5",
-    "eslint-config-next": "^16.4.2",
-    "postcss": "^8.5.30",
-    "tailwindcss": "^4.3.3"
+    "@eslint/js": "^10.0.1",
+    "autoprefixer": "^10.7.0",
+    "eslint": "^10.15.0",
+    "eslint-config-next": "^16.4.6",
+    "postcss": "^8.5.33",
+    "tailwindcss": "^4.3.5"
   }
 }

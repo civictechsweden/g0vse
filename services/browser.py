@@ -2,12 +2,19 @@ import gc
 import json
 import platform
 import time
+from base64 import b85decode
+from binascii import Error as BinasciiError
 from typing import cast
 
 from camoufox.sync_api import Camoufox
 from playwright._impl._errors import TargetClosedError, TimeoutError
 from playwright.sync_api import Browser as PlaywrightBrowser
 from playwright.sync_api import Page
+
+
+def _decode_fpgen_index(s: str) -> int:
+    # fpgen 1.3.0's model uses "!" for zero. Python 3.15 rejects this short group.
+    return 0 if s == "!" else int.from_bytes(b85decode(s), "big")
 
 
 class Browser:
@@ -69,7 +76,17 @@ class Browser:
                 except Exception:
                     pass
 
-                if "No WebGL data found" not in str(e) or attempt == self.START_RETRIES:
+                if attempt == self.START_RETRIES:
+                    raise
+                if isinstance(e, BinasciiError) and str(e) == "Incomplete Base85 group":
+                    from fpgen import unpacker
+
+                    if unpacker.base85_to_int is _decode_fpgen_index:
+                        raise
+                    setattr(unpacker, "base85_to_int", _decode_fpgen_index)
+                    continue
+
+                if "No WebGL data found" not in str(e):
                     raise
 
                 print(
