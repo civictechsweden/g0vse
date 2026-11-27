@@ -44,9 +44,7 @@ def should_refresh_item(item, timer):
         return False
     last_updated = Downloader.last_updated(item)
     return last_updated > timer.day_before() or (
-        "/remisser/" in item["url"]
-        and not item["updated"]
-        and last_updated > timer.six_months_before()
+        "/remisser/" in item["url"] and last_updated > timer.six_months_before()
     )
 
 

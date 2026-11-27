@@ -5,6 +5,7 @@ import pytest
 
 import fetch
 from services.item_refresh import RefreshPlan, plan_incremental_refresh
+from services.timer import Timer
 
 
 class Downloader:
@@ -249,6 +250,24 @@ def test_forced_refresh_ignores_rumdl_layout_changes(monkeypatch, tmp_path):
         item, downloader, {}, force_refresh=True, previous_item=previous_item
     )
     assert outcome is fetch.ProcessingOutcome.UNCHANGED
+
+
+def test_recent_remiss_is_refreshed_with_a_stale_update_date():
+    timer = Timer()
+    timer.set_latest_update("2026-11-26 05:10:00")
+    item = {
+        "url": "/remisser/2026/09/example/",
+        "published": "2026-09-03",
+        "updated": "2026-09-28",
+    }
+
+    assert fetch.should_refresh_item(item, timer)
+    assert not fetch.should_refresh_item(
+        {**item, "published": "2026-01-01", "updated": "2026-01-02"}, timer
+    )
+    assert not fetch.should_refresh_item(
+        {**item, "url": "/rapporter/2026/09/example/"}, timer
+    )
 
 
 def test_known_overlong_url_is_excluded_before_refresh_planning():
