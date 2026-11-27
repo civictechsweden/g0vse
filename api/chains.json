@@ -85683,6 +85683,37 @@
                 }
             ]
         },
+        "7502f27d97b12825": {
+            "phases": [
+                {
+                    "name": "Lagstiftning i Sverige",
+                    "actors": [
+                        {
+                            "name": "Regeringen",
+                            "stages": [
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/rattsliga-dokument/departementsserien-och-promemorior/2026/10/trygg-och-saker-ambulanssjukvard--tydligare-regler-for-informationsdelning-och-dokumentation1/"
+                                        }
+                                    ],
+                                    "type": "1325"
+                                },
+                                {
+                                    "documents": [
+                                        {
+                                            "url": "/remisser/2026/11/remiss-av-promemorian-trygg-och-saker-ambulanssjukvard--tydligare-regler-for-informationsdelning-och-dokumentation/"
+                                        }
+                                    ],
+                                    "type": "2099"
+                                }
+                            ]
+                        }
+                    ],
+                    "ongoing": true
+                }
+            ]
+        },
         "750bc0f4b381b1e2": {
             "phases": [
                 {
