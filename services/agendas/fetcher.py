@@ -1,4 +1,4 @@
-"""Build a complete replacement snapshot before publishing any agenda records."""
+"""Refresh the two newest weekly agendas while retaining stored history."""
 
 import json
 from collections import Counter, defaultdict
@@ -6,12 +6,13 @@ from dataclasses import dataclass
 from urllib.parse import urlencode
 
 from services.agendas.parser import (
-    LISTING,
     ORIGIN,
+    WEEKLY_LISTING,
     AgendaError,
     clean,
     listing_root,
     parse_fragment,
+    recent_weekly_sources,
     weekly_context,
 )
 
@@ -95,7 +96,7 @@ def read_results(downloader, root: str, page_size: int) -> list[dict]:
         if expected_total is None:
             expected_total, first_response = total, response
         if total != expected_total or total == 0:
-            raise AgendaError("CasePage total changed or the global listing is empty")
+            raise AgendaError("CasePage total changed or the listing is empty")
         expected_size = min(page_size, total - len(result))
         if len(records) != expected_size:
             raise AgendaError(
@@ -111,43 +112,50 @@ def read_results(downloader, root: str, page_size: int) -> list[dict]:
             break
         page += 1
     # Detect insertions/removals or shifts while traversing a changing listing.
-    if downloader.b.get_json(query_url(root, 1, page_size)) != first_response:
+    if (
+        page > 1
+        and downloader.b.get_json(query_url(root, 1, page_size)) != first_response
+    ):
         raise AgendaError("CasePage first page changed during pagination")
     return result
 
 
 def fetch_agendas(
-    downloader, codes: dict[str, str], *, page_size: int = 1000
+    downloader,
+    codes: dict[str, str],
+    *,
+    page_size: int = 1000,
+    previous_records: list[dict] | None = None,
 ) -> AgendaExport:
-    """The complete CasePage traversal is mandatory; missing source dates stay null."""
+    """Replace complete recent weeks; leave older records and Markdown untouched."""
     try:
-        html = downloader.get_webpage(LISTING)
+        html = downloader.get_webpage(WEEKLY_LISTING)
         if not html:
-            raise AgendaError("Could not fetch the regeringsärenden listing")
-        root, labels = listing_root(html)
-        records = read_results(downloader, root, page_size)
-        by_source = defaultdict(list)
-        for record in records:
-            by_source[record["source"]].append(record)
-        pages, undated = {}, []
-        for index, (source, entries) in enumerate(sorted(by_source.items()), 1):
+            raise AgendaError("Could not fetch the weekly publication listing")
+        sources = recent_weekly_sources(html)
+        records, pages, labels = [], {}, {}
+        for index, (source, year, week) in enumerate(sources, 1):
             page = downloader.get_webpage(source)
             if not page:
                 raise AgendaError(f"Could not fetch weekly agenda {source}")
-            context, page_labels = weekly_context(
-                page, source, entries[0]["year"], entries[0]["week"]
-            )
+            root, page_labels = listing_root(page)
             labels.update(page_labels)
+            entries = read_results(downloader, root, page_size)
+            if any(
+                (row["source"], row["year"], row["week"]) != (source, year, week)
+                for row in entries
+            ):
+                raise AgendaError(f"CasePage results do not belong to {source}")
+            context, _ = weekly_context(page, source, year, week)
             apply_weekly_context(entries, context)
-            if any(entry["meeting_date"] is None for entry in entries):
-                undated.append(source)
+            records.extend(entries)
             if context:
                 pages[source] = page
-            if index % 20 == 0 or index == len(by_source):
-                print(
-                    f"Regeringsärenden: read weekly metadata {index}/{len(by_source)}.",
-                    flush=True,
-                )
+            print(
+                f"Regeringsärenden: refreshed week {index}/{len(sources)} "
+                f"({len(entries):,} entries) from {source}.",
+                flush=True,
+            )
         name_codes = defaultdict(set)
         for code, name in (codes | labels).items():
             name_codes[clean(name)].add(code)
@@ -156,6 +164,12 @@ def fetch_agendas(
                 matches = name_codes.get(record[field], set())
                 if len(matches) == 1:
                     record[field + "_code"] = next(iter(matches))
+        refreshed_sources = {source for source, _, _ in sources}
+        records.extend(
+            row
+            for row in previous_records or []
+            if row["source"] not in refreshed_sources
+        )
         records.sort(
             key=lambda r: (
                 -r["year"],
@@ -166,6 +180,9 @@ def fetch_agendas(
                 r["agenda_number"] or "",
                 fingerprint(r),
             )
+        )
+        undated = sorted(
+            {row["source"] for row in records if row.get("meeting_date") is None}
         )
         return AgendaExport(records, labels, pages, undated)
     except AgendaError:

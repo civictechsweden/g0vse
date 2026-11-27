@@ -46,7 +46,8 @@ existing minister and department category codes.
 
 ## Public JSON
 
-`api/regeringsarenden.json` is a JSON list, rebuilt from the complete modern listing.
+`api/regeringsarenden.json` is a JSON list. Each run replaces the entries for the
+two newest weekly publications and retains the stored entries for older weeks.
 For example:
 
 ```json
@@ -92,17 +93,18 @@ separate identifier field.
 Agenda numbers repeat across departments and occasionally even within a department
 on a single weekly page. Journal identifiers may be missing, incomplete or shared.
 Neither is a globally unique record ID. Distinct entries with the same agenda
-number are retained. The export replaces the whole list on success, rather than
-appending rows from each run. Sorting by year/week (newest first), source,
+number are retained. The export replaces each refreshed week's complete set of
+entries, rather than appending rows from each run. Entries removed from those
+weeks disappear from the export. Sorting by year/week (newest first), source,
 department, minister and agenda number, with record content breaking ties, is
 deterministic. The duplicated on-page filtered listing is never exported again.
 
 ## Coverage and failures
 
-Coverage is **the modern CasePage listing**, advertised by regeringen.se as the
-material from week 38 of 2024 onward. The separate
-[older archive](https://www.regeringen.se/arendeforteckningar/) is not traversed
-and is not claimed as part of this export. The inspected snapshot's earliest
+Coverage is **modern CasePage entries**, advertised by regeringen.se as the
+material from week 38 of 2024 onward. Older PDF publications linked from the
+[weekly publication listing](https://www.regeringen.se/arendeforteckningar/)
+are not fetched or claimed as part of this export. The inspected snapshot's earliest
 entries were week 39 of 2024; absence of another week does not prove that no
 meeting occurred.
 
@@ -113,23 +115,38 @@ which redirected to the homepage. Those API records are retained with a null dat
 including their original source URL. Missing historical names/identifiers remain
 unknown; current ministers or completed identifiers are not substituted.
 
-Every result page must have the expected count and the same `TotalCount`.
-Repeated rows or overlapping pages, malformed fragments, network/JSON failures
-and a changed first page at the end of traversal reject the snapshot. The fetcher
-keeps the last complete `api/regeringsarenden.json` and does not publish a partial
-list. Failed weekly requests also reject the refresh. Weekly sources that load
-successfully but no longer contain the agenda, such as the historical homepage
-redirect above, supply no date and their source count is logged. There
-are no permanent checkpoints or extra public report files.
+The publication listing at `/arendeforteckningar/` supplies the weekly links.
+Only modern `/regeringsarenden/` links are selected, ordered by year and week;
+the two newest distinct weekly publications are refreshed even across a year
+boundary or a gap between publications. Each weekly page supplies its own
+CasePage root, so API requests cover only those two weeks, in batches of up to
+1,000 entries. The full historical CasePage API listing is not fetched.
+
+Every result page within a selected week must have the expected count and the
+same `TotalCount`. Repeated rows or overlapping pages, malformed fragments,
+network/JSON failures and a changed first page at the end of a multi-page
+traversal reject the snapshot. The fetcher keeps the last complete
+`api/regeringsarenden.json` and does not publish a partial list.
+Failed weekly requests or a missing weekly CasePage root also reject the
+refresh. A recognizable CasePage root with no verifiable meeting heading supplies
+no date. Previously stored historical records with unknown dates stay unknown.
+There are no permanent checkpoints or extra public report files.
 
 ## Running and testing
 
-`uv run fetch.py` refreshes agenda entries alongside the other exports. It also
-repairs Markdown for available weekly agendas, including historical pages that
-the normal incremental page fetch would otherwise skip. Unchanged Markdown is
-not rewritten. On an agenda API failure, other exports may still be refreshed.
+`uv run fetch.py` refreshes agenda entries alongside the other exports. It reads
+the existing `api/regeringsarenden.json` to retain older records, including dates
+and recovered minister names. Older weekly pages and their Markdown are not
+refetched or rewritten by the agenda refresh. Markdown is repaired only for the
+two selected weeks, and unchanged Markdown is not rewritten. On an agenda API
+failure, other exports may still be refreshed.
 
-To fetch only agenda entries, the shared category index and weekly Markdown:
+On an empty data directory, only the two latest weekly publications are imported.
+Historical entries already in the data directory remain available and accumulate
+as the refresh window advances. Corrections or removals outside the two-publication
+window are not discovered by this incremental refresh.
+
+To refresh those two weeks, the shared category index and weekly Markdown:
 
 ```sh
 uv run python -m scripts.fetch_agendas --data-dir data
@@ -141,6 +158,7 @@ JSON export mechanism.
 
 Offline regression coverage is in `tests/test_agendas.py`. The existing smoke
 selection, `uv run python -m pytest tests -m smoke -q`, includes the fixtures and a
-bounded live test: one fixed weekly page and two small API pages. It checks the
-Markdown hierarchy, source meeting date, incomplete identifiers and pagination
-contract without traversing the full history before every scheduled fetch.
+bounded live test: one fixed weekly page and its complete API response. It checks
+the Markdown hierarchy, source meeting date, incomplete identifiers and agreement
+between the weekly body and API records. Offline tests cover pagination, the
+two-publication limit, and preservation of historical records.

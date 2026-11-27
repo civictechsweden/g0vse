@@ -1,4 +1,4 @@
-"""Refresh agenda entries and weekly Markdown without crawling other document types."""
+"""Refresh the two latest weekly agendas and retain previously exported history."""
 
 import argparse
 from pathlib import Path
